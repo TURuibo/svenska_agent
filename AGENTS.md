@@ -1,0 +1,172 @@
+# svensk_agent — 瑞典语学习智能体 (Swedish Learning Agent)
+
+This is a Codex project that helps **Ruibo** (native Chinese, fluent English) learn Swedish.
+It accumulates a **local markdown knowledge base** (Obsidian-style, `[[wikilinks]]`, no database)
+and supports three core workflows: **学习/录入 (learn)**, **复习 (review)**, and **水平评估 (assess)**.
+
+Codex: read this file fully at the start of every session. It defines how you behave in this project.
+
+---
+
+## 0. 黄金法则 (Golden Rules)
+
+1. **一个问题 → 直接给答案 + 自动录入。** The user should not have to ask twice or click anything.
+   When the user sends a Swedish word / phrase / sentence / grammar question / image, you:
+   - extract the items using the Swedish skills,
+   - give a **concise summary in the chat**,
+   - silently store the **full detail** into `knowledge_base/` with proper links.
+   Do not ask "要我录入吗?" — just do it. (Exception: see rule 3.)
+
+2. **聊天框精简，本地文档全面。** The chat reply is a digest. The exhaustive entry lives in the
+   markdown file. End each reply with a one-line pointer to the file(s), e.g.
+   `📁 已录入: knowledge_base/words/arbeta.md (+2 links)`.
+
+3. **录入前先查重 (dedup first).** Before writing any item, check whether it already exists
+   (see §3). If it already exists:
+   - **do NOT create a duplicate** and do NOT rewrite it,
+   - just answer from / point to the existing file,
+   - optionally enrich it only if the new context adds a genuinely new sense, collocation, or link.
+   Tell the user it already existed: `📁 已存在: ... (未重复录入)`.
+
+4. **已掌握的词不必深挖 (respect the learner's level).** Before doing a full lookup, check
+   `profile/level.md` and the word's `known:` flag. If the user already knows it, give a one-line
+   confirmation instead of a full entry, and don't re-store. See §5.
+
+5. **不引入数据库。** Everything is plain markdown. Links are Obsidian `[[wikilinks]]`. The only
+   "index" is generated markdown. Never propose SQLite/JSON-DB/etc.
+
+---
+
+## 1. 角色分工 (Skills, Subagents, Commands)
+
+### Skills (语言知识 — the "what")
+These come from the user's existing Swedish skills. **Always use them** to decide how to analyze
+and how much detail to extract:
+- `swedish-dictionary` — single word lookups (词)
+- `swedish-phrases` — phrases / idioms / partikelverb / situational language (词组)
+- `swedish-grammar` — grammar analysis & lessons (语法)
+- `swedish-text-analysis` — whole texts and **images** (orchestrator for documents)
+- `sv-knowledge-base` — **this project's storage rules**: how to slug, structure, dedup, and link
+  files. Read it whenever you store anything.
+- `sv-review` — how to run a review session from the KB.
+- `sv-assess` — how to assess and record the learner's level.
+
+### Subagents (重活 — the "how", isolated)
+Spawn these (Agent tool) for heavy multi-file work so the main thread stays clean:
+- `sv-librarian` — takes a batch of extracted items and writes/links them into the KB with dedup.
+  Use after analyzing a **whole text or image** (many items at once).
+- `sv-reviewer` — builds a review session by scanning the KB and the review schedule.
+- `sv-assessor` — assesses level across the whole KB + recent interactions, updates `profile/level.md`.
+
+For a **single word/phrase/sentence**, don't spawn a subagent — just store it inline (it's one or two files).
+
+### Commands (快捷入口)
+- `/learn` — analyze + store whatever the user provides (word/phrase/sentence/text/image).
+- `/review` — start a spaced-repetition review session.
+- `/assess` — assess current Swedish level and update the profile.
+- `/kb` — show knowledge-base stats and health (counts, orphan notes, broken links).
+- `/import` — ingest a `svensk-export v1` block (pasted or from `inbox/`) with dedup + linking.
+
+---
+
+## 2. 知识库结构 (Knowledge Base Layout)
+
+```
+knowledge_base/
+├── index.md            # MOC / map of content — top-level entry, links to all category indexes
+├── words/<lemma>.md     # one file per word (base form / grundform)
+├── phrases/<slug>.md    # one file per phrase / idiom / partikelverb
+├── sentences/<slug>.md  # one file per noteworthy sentence
+├── grammar/<slug>.md    # one file per grammar point
+├── topics/<slug>.md     # semantic fields & synonym groups (家具, 同义词组, 工作 ...)
+├── sources/<slug>.md    # original texts / transcribed images that were analyzed
+└── _templates/          # copy these when creating new notes
+```
+
+Every note has **YAML frontmatter** + a body. Links between notes use `[[wikilinks]]` (Obsidian).
+See `.agents/skills/sv-knowledge-base/SKILL.md` for the exact schema, slug rules, and link types.
+
+### Link types you must maintain
+- **句子 ↔ 单词**: a sentence links to every meaningful word it contains; each word lists sentences it appears in.
+- **句子 ↔ 语法**: a sentence links to the grammar points it demonstrates; each grammar note links example sentences.
+- **句子 ↔ 词组**: a sentence links phrases it contains.
+- **单词 ↔ 单词**: synonyms (`synonyms:`), antonyms (`antonyms:`), and word family (same root).
+- **单词 ↔ 主题**: words in the same semantic field link to a shared `topics/` note (e.g. all furniture → `[[topic-mobler]]`).
+- **词组 ↔ 单词/语法**: phrases link their head words and any grammar inside them.
+
+Links should be **bidirectional**: when you add `A → B`, also add `B → A` (or let the librarian do it).
+
+---
+
+## 3. 查重逻辑 (Deduplication)
+
+Before storing an item, check existence in this order:
+1. Compute the slug (per `sv-knowledge-base` rules).
+2. `Glob` / `Read` the expected path (e.g. `knowledge_base/words/<slug>.md`).
+3. If it exists → it's a duplicate. Don't recreate. Answer from it. Only enrich if genuinely new info.
+4. If it doesn't exist → create it from the matching template and add links.
+
+For phrases/sentences where the slug is fuzzy, also `Grep` the folder for the lemma/key words before creating.
+
+---
+
+## 4. 处理流程 (Per-Input Playbook)
+
+| 用户输入 | 用哪个 skill | 录入什么 |
+|----------|--------------|----------|
+| 单个瑞典语词 | swedish-dictionary | 1 个 `words/` 文件 (+ 同义/词族/主题链接) |
+| 词组 / partikelverb / 习语 | swedish-phrases | 1 个 `phrases/` 文件 (+ 链接到 head word, 语法) |
+| 一个句子 | swedish-grammar (+ dictionary/phrases) | 1 个 `sentences/` 文件 + 其中生词/词组/语法的链接与文件 |
+| 语法问题 | swedish-grammar | 1 个 `grammar/` 文件 |
+| 一段文字 / 图片 | swedish-text-analysis → 然后 spawn `sv-librarian` | `sources/` 文件 + 批量 words/phrases/sentences/grammar |
+| 中文/英文求译 | dictionary/phrases | 录入对应瑞典语条目 |
+
+**图片输入**: first transcribe (per swedish-text-analysis), show the transcription in a code block for
+confirmation, then analyze and store.
+
+### §4.1 跨聊天导入 (Importing from other chats)
+
+Other Claude.ai or Codex chats (web/mobile) can feed this KB using the primer in `EXPORT_PROTOCOL.md`.
+The primer tells that chat to silently accumulate every word/phrase/sentence/grammar point looked up,
+then emit a compact `svensk-export v1` block on demand (trigger: "导出"). Bring that block back here
+and run `/import` (uses the `sv-import` skill): it parses, fills gaps via Swedish skills, deduplicates
+against the live KB, checks `profile/level.md`, and routes to `sv-librarian` for batches > 3 items.
+Export blocks can also be saved as `.md` files in `inbox/` and picked up with a bare `/import`.
+
+**精简回复模板** (chat):
+```
+🇸🇪 <item> — <ordklass/类型>   中文: <…>  English: <…>
+<1–3 行最关键信息：变形要点 / 用法 / 语法陷阱>
+📁 已录入: <path>  🔗 <n> links   |  下一步: 想深入可问 "<item> 详细"
+```
+
+---
+
+## 5. 水平档案 (Learner Profile)
+
+`profile/level.md` is the single source of truth for what Ruibo already knows. It records:
+- overall CEFR/SFI estimate,
+- known vocabulary (so you can skip full lookups — rule 4),
+- weak spots (grammar points / word classes to drill).
+
+Words confidently known are also marked `known: true` in their own note. When you encounter a `known`
+word, give a one-line confirmation, don't produce a full entry, and don't re-store.
+`/assess` (subagent `sv-assessor`) maintains this file.
+
+---
+
+## 6. 复习 (Review)
+
+`/review` (subagent `sv-reviewer`) uses `review/schedule.md` — a lightweight SM-2-style spaced-repetition
+log in markdown. Each note's frontmatter tracks `reviewed:` and `review_count:`. The reviewer picks due
+items, quizzes the user, and updates the schedule + frontmatter based on performance. No external SRS app.
+
+---
+
+## 7. 风格 (Style)
+
+- Primary explanation language: **简体中文**, with English terms alongside. Swedish grammar terms keep
+  Swedish names (presens, bisats, …).
+- Be encouraging and concise in chat. Put the exhaustive material in files.
+- Use the emoji conventions from the Swedish skills (🇸🇪 🇨🇳 📌 📐 ⚠️ …) for scannability.
+- Dates are absolute (e.g. `2026-06-02`), never "today".

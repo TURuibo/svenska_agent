@@ -1,0 +1,199 @@
+---
+name: sv-import
+description: >
+  Batch-importer for Swedish lookups accumulated in other chats and exported as a `svensk-export v1`
+  block. Trigger this skill whenever: the user pastes a fenced ```svensk-export block into the chat;
+  the user runs /import (with or without an argument); the user says they want to "import" or "ingest"
+  lookups from another chat; or an inbox/ file is identified as containing a svensk-export block.
+  This skill parses the block, resolves missing fields using the Swedish skills, deduplicates against
+  the live KB, checks the learner profile, routes small batches inline and large batches to sv-librarian,
+  and returns a concise receipt.
+---
+
+# sv-import — 跨聊天导入技能
+
+Read `CLAUDE.md` (golden rules §0, dedup §3, playbook §4) and
+`.claude/skills/sv-knowledge-base/SKILL.md` (storage §1–§7) before running any import.
+This skill is the bridge between the export format and those two specs.
+
+---
+
+## 1. 识别输入 (Recognising the input)
+
+### From $ARGUMENTS / pasted text
+
+If the user pasted content containing a fenced block with the language tag `svensk-export`, that IS
+the export block to import.
+
+Trigger pattern (flexible — the block may have version tag or not):
+
+```
+```svensk-export[ v1]
+...
+```
+```
+
+### From an inbox file
+
+If the argument looks like a filename (no newlines, ends with `.md` or is a bare name), read
+`inbox/<argument>` (or `inbox/<argument>.md` if no extension). Scan its content for a
+`svensk-export` block.
+
+### Scanning inbox/
+
+If $ARGUMENTS is empty, `Glob inbox/*.md` and `Grep` each file for ` ```svensk-export`. Process all
+matches found.
+
+---
+
+## 2. 解析规则 (Parsing the block)
+
+Split the block body into:
+- Header lines: `date:` and `source:` (single values, optional).
+- Section markers: `words:`, `phrases:`, `sentences:`, `grammar:`.
+- Item lines: lines starting with `- ` under each section marker.
+
+### Pipe-split item lines
+
+**words** (fields 1–5, all pipe-separated):
+1. `lemma` — required; must be grundform (base form).
+2. `ordklass` — e.g. `substantiv en`, `verb v.1`, `adjektiv`; may be empty.
+3. `zh` — Chinese translation; may be empty.
+4. `en` — English translation; may be empty.
+5. `notes` — optional extra (forms, collocations, etc.).
+
+**phrases** (fields 1–4):
+1. `phrase` — the full phrase in canonical form.
+2. `category` — type label (e.g. `partikelverb`, `习语`, `动词搭配`); may be empty.
+3. `zh` — may be empty.
+4. `en` — may be empty.
+
+**sentences** (fields 1–2):
+1. `swedish` — the Swedish sentence.
+2. `zh` — Chinese translation; may be empty.
+
+**grammar** (fields 1–3):
+1. `name` — Swedish grammar term, lowercased.
+2. `zh` — Chinese label; may be empty.
+3. `en` — English label; may be empty.
+
+Strip leading/trailing whitespace from every field. Ignore blank lines and lines not starting with `- `.
+
+### Intra-block dedup
+
+Before hitting the KB, deduplicate within the parsed lists:
+- Words: same lemma → keep the richer entry (more fields filled).
+- Phrases: same phrase text → keep first occurrence.
+- Sentences: same Swedish text → keep first.
+- Grammar: same name → keep first.
+
+### Defaults for missing header fields
+
+- `date` missing → use today's absolute date (format `YYYY-MM-DD`).
+- `source` missing → `"cross-chat import"`.
+
+---
+
+## 3. 补全残缺字段 (Fill gaps before storing)
+
+**Do NOT store a half-empty note.** If a word line is missing `ordklass`, `zh`, `en`, or basic
+inflected forms — use `swedish-dictionary` to look it up fully before creating the note.
+Similarly:
+- Phrase missing `category` / `zh` / `en` → use `swedish-phrases`.
+- Grammar missing `zh` / `en` → use `swedish-grammar`.
+- Sentence missing `zh` → translate inline.
+
+Apply this enrichment step per-item, only for items that actually need it. This keeps the KB at the
+same quality standard as a direct `/learn` lookup.
+
+---
+
+## 4. 查重 + 水平检查 (Dedup + level check per item)
+
+For each item, before creating anything:
+
+### 4a. Check learner profile
+
+Read `profile/level.md`. If the word/phrase appears in the known vocabulary list or its KB note has
+`known: true` — skip it entirely. Report: `KNOWN-skipped: [lemma]`.
+
+### 4b. Dedup against the KB (sv-knowledge-base §3)
+
+1. Compute the slug (per sv-knowledge-base §2 rules):
+   - word → `knowledge_base/words/<lemma>.md`
+   - phrase → `knowledge_base/phrases/<phrase-slug>.md`
+   - sentence → `knowledge_base/sentences/sent-<first-words>.md`
+   - grammar → `knowledge_base/grammar/grammar-<name>.md`
+2. `Glob` the expected path.
+3. For phrases and sentences, also `Grep` the folder for key words (fuzzy match guard).
+4. If found → **DUP**: skip creation. Enrich only if the import adds a genuinely new sense,
+   collocation, or example sentence that is absent from the existing note. Report: `DUP-skipped: [slug]`.
+5. If not found → proceed to store.
+
+---
+
+## 5. 录入路由 (Routing: inline vs sv-librarian)
+
+### Small batch (≤ 3 items total across all sections)
+
+Store inline:
+- Create each note directly using the matching template from `knowledge_base/_templates/`.
+- Wire bidirectional `[[wikilinks]]` per sv-knowledge-base §4.
+- Add reviewable notes to `review/schedule.md` with immediate `due:` date.
+
+### Large batch (> 3 items total)
+
+1. **Create the source note first**:
+   Slug: `source-<date>-<short-topic>` where `<short-topic>` is a 1–3 word kebab-case summary of
+   the `source:` field (e.g. `source-2026-06-02-resor-vocab`).
+   Path: `knowledge_base/sources/<slug>.md`
+   Frontmatter must include:
+   ```yaml
+   kind: import
+   source_label: "<original source: field value>"
+   date: <date>
+   words: []      # librarian fills these
+   phrases: []
+   sentences: []
+   grammar: []
+   ```
+2. **Spawn the `sv-librarian` subagent** with:
+   - The source note slug.
+   - The fully-enriched (gap-filled), intra-block-deduped item lists.
+   - The `date:` to use for `created:` frontmatter.
+   - Instruction to add new reviewable notes to `review/schedule.md`.
+3. Await the librarian's manifest report.
+
+---
+
+## 6. 更新复习计划 (review/schedule.md)
+
+For inline-stored items (small batch), append each new reviewable slug to `review/schedule.md` with:
+```
+- slug: <slug>
+  due: <date>
+  ease: 2.5
+  interval: 0
+```
+(Large-batch: the librarian handles this.)
+
+---
+
+## 7. 收据输出 (Chat receipt)
+
+After the import finishes, output a concise receipt in the chat. No file contents — just counts and paths.
+
+Format:
+```
+📥 导入完成 — <source label>
+  NEW:        words=[n]  phrases=[n]  sentences=[n]  grammar=[n]
+  DUP-skipped: [slug, slug, …]  (or "none")
+  KNOWN-skipped: [lemma, …]  (or "none")
+  📁 source: knowledge_base/sources/<slug>.md
+  🔗 <total new notes> 新笔记已建链
+```
+
+If inbox file(s) were processed, also note the inbox filename. If multiple inbox files were
+processed, one receipt block per file.
+
+Follow CLAUDE.md §0 rule 2: concise in chat, full detail in files.

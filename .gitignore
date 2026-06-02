@@ -1,0 +1,9 @@
+# local logs / scratch
+review/.kb-changelog.log
+inbox/*
+!inbox/README.md
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.obsidian/

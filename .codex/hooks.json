@@ -1,0 +1,35 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File 'C:\\Users\\ruibo\\Documents\\svensk_agent\\.codex\\hooks\\kb_changelog.ps1'"
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File 'C:\\Users\\ruibo\\Documents\\svensk_agent\\.codex\\hooks\\kb_stats.ps1'"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File 'C:\\Users\\ruibo\\Documents\\svensk_agent\\.codex\\hooks\\trace_collect.ps1'"
+          }
+        ]
+      }
+    ]
+  }
+}

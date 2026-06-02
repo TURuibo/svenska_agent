@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"C:/Users/ruibo/.claude\" -path \"*anthropic-skills*\" -name \"SKILL.md\" 2>/dev/null | head -40; echo \"===DIR anthropic-skills===\"; find \"C:/Users/ruibo/.claude\" -type d -iname \"*anthropic-skills*\" 2>/dev/null | head; echo \"===any swedish anywhere===\"; find \"C:/Users\" -iname \"*swedish*\" -not -path \"*/node_modules/*\" 2>/dev/null | head -40)",
+      "Bash(powershell -Command '$PSVersionTable.PSVersion.ToString\\(\\)')",
+      "Bash(git --version)",
+      "Bash(mkdir -p .claude/agents .claude/commands .claude/hooks .claude/skills .claude/output-styles)",
+      "Bash(mkdir -p knowledge_base/words knowledge_base/phrases knowledge_base/sentences knowledge_base/grammar knowledge_base/topics knowledge_base/sources knowledge_base/_templates)",
+      "Bash(mkdir -p profile review inbox)",
+      "Bash(cp -r __TRACKED_VAR__/swedish-dictionary .claude/skills/)",
+      "Bash(cp -r __TRACKED_VAR__/swedish-grammar .claude/skills/)",
+      "PowerShell(& powershell -NoProfile -ExecutionPolicy Bypass -File \".claude\\\\scripts\\\\trace.ps1\" -Top 8)",
+      "Bash(mkdir -p \"C:/Users/ruibo/.claude/skills/swedish-export\" \"C:/Users/ruibo/Documents/svensk_agent/dist/swedish-export\" && echo \"dirs ready\")",
+      "Bash(cp \"C:/Users/ruibo/.claude/skills/swedish-export/SKILL.md\" \"C:/Users/ruibo/Documents/svensk_agent/dist/swedish-export/SKILL.md\" && echo \"copied skill to dist/ for web upload\")"
+    ]
+  }
+}

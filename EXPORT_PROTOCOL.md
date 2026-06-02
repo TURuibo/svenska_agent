@@ -1,0 +1,180 @@
+# 跨聊天导出协议 (Cross-Chat Export Protocol)
+
+This file has two parts:
+- **Part A** — the `svensk-export v1` format specification (for reference and for skilled importer logic).
+- **Part B** — a ready-to-paste primer to drop into any other Claude.ai chat so it feeds this project.
+
+---
+
+## Part A — 导出格式规范 (svensk-export v1 spec)
+
+### Overview
+
+A `svensk-export` block is a fenced code block with the language tag `svensk-export`. It carries
+everything the other chat accumulated during a session — words, phrases, sentences, grammar points —
+in a compact, pipe-separated plain-text format.
+
+The block is self-contained: paste it (or save it as an `.md` file in `inbox/`) and run `/import`
+in this project to ingest everything with full dedup + linking.
+
+### Block structure
+
+~~~
+```svensk-export v1
+date: YYYY-MM-DD
+source: <free text — context label, e.g. "网页聊天 - 旅行词汇">
+words:
+- <lemma> | <ordklass> | <zh> | <en> | <notes (optional)>
+phrases:
+- <phrase> | <category> | <zh> | <en>
+sentences:
+- <swedish text> | <zh translation>
+grammar:
+- <name> | <zh label> | <en label>
+```
+~~~
+
+**All sections are optional.** A block may contain only `words:`, or only `sentences:`, etc.
+Missing sections are simply omitted. The importer handles incomplete data gracefully (see leniency rules below).
+
+### Field schemas
+
+#### Header fields
+| field | required | notes |
+|-------|----------|-------|
+| `date` | recommended | ISO 8601 date (`YYYY-MM-DD`); importer uses it for `created:` and source slug |
+| `source` | recommended | Free text; stored in the `sources/` note as provenance |
+
+#### `words:` lines — one per line, pipe-separated
+| position | field | required | notes |
+|----------|-------|----------|-------|
+| 1 | `lemma` | **required** | Base form / grundform only (never an inflected form). E.g. `tåg` not `tåget`. |
+| 2 | `ordklass` | recommended | Swedish grammatical class: `substantiv en`, `substantiv ett`, `verb v.1`, `adjektiv`, `adverb`, `preposition`, `konjunktion`, `pronomen`, etc. |
+| 3 | `zh` | recommended | Chinese translation |
+| 4 | `en` | recommended | English translation |
+| 5 | `notes` | optional | Extra: plural form, conjugation hint, collocation, anything useful. Pipe is the delimiter, so use `;` within notes if needed. |
+
+Example:
+```
+- tåg | substantiv ett | 火车 | train | 复数 tåg
+- boka | verb v.1 | 预订 | to book | bokar / bokade / bokat
+- lagom | adverb/adjektiv | 恰到好处 | just right / moderate
+```
+
+#### `phrases:` lines
+| position | field | required | notes |
+|----------|-------|----------|-------|
+| 1 | `phrase` | **required** | The full phrase in its canonical form |
+| 2 | `category` | recommended | E.g. `动词搭配`, `partikelverb`, `介词短语`, `习语`, `hälsningsfras` |
+| 3 | `zh` | recommended | Chinese gloss |
+| 4 | `en` | recommended | English gloss |
+
+Example:
+```
+- köpa en biljett | 动词搭配 | 买票 | buy a ticket
+- ta det lugnt | 习语 | 放轻松 | take it easy
+```
+
+#### `sentences:` lines
+| position | field | required | notes |
+|----------|-------|----------|-------|
+| 1 | `swedish` | **required** | The Swedish sentence as encountered |
+| 2 | `zh` | recommended | Chinese translation |
+
+Example:
+```
+- Jag vill boka en biljett till Göteborg. | 我想订一张去哥德堡的票。
+- Det är lagom varmt idag. | 今天温度恰到好处。
+```
+
+#### `grammar:` lines
+| position | field | required | notes |
+|----------|-------|----------|-------|
+| 1 | `name` | **required** | Swedish grammar term (lowercase), e.g. `en/ett-ord`, `bisats-biff`, `v2-ordfoljd` |
+| 2 | `zh` | recommended | Chinese label |
+| 3 | `en` | recommended | English label |
+
+Example:
+```
+- en/ett-ord | 名词通性 | noun gender (en vs ett)
+- v2-ordfoljd | V2 语序 | V2 word order
+```
+
+### Leniency rules (importer behaviour)
+
+The importer is lenient by design — the other chat may not fill every field:
+
+1. **Missing `ordklass` / `en` / forms**: the importer calls `swedish-dictionary` (or
+   `swedish-phrases` / `swedish-grammar`) to fill the gap before storing. It never saves a half-empty note.
+2. **Missing `zh`**: the importer derives it from the Swedish skills.
+3. **Missing `date`**: the importer uses today's date.
+4. **Missing `source`**: the importer labels it `"cross-chat import"`.
+5. **Extra whitespace / trailing pipes**: silently stripped.
+6. **Duplicate items in the same block**: the importer deduplicates within the block before even
+   checking the KB.
+
+### Base-form requirement (words)
+
+Words **must** be in grundform (dictionary base form):
+- substantiv: singular indefinite (`en bil`, not `bilar` or `bilen`)
+- verb: infinitive (`arbeta`, not `arbetar` or `arbetade`)
+- adjektiv: neuter/positive base (`glad`, not `glada` or `gladare`)
+
+If the other chat recorded an inflected form by mistake, the importer normalises it before slugging.
+
+---
+
+## Part B — 📋 复制这段到其他聊天 (Copy this into your other chat)
+
+**使用方法 (2 steps):**
+
+1. 在新的 Claude.ai 对话最开始，把下面 ````text` 框里的内容原样粘贴进去发送。
+2. 正常聊天、查词、问问题。聊完之后发一个字 `导出`，复制输出的代码块，回到这个 CC 项目，运行 `/import` 粘贴进来。
+
+---
+
+```text
+你好！在这次对话里，请同时扮演两个角色：
+
+**角色 1 — 瑞典语助教**
+我是母语中文、英语流利的瑞典语初学者。请按以下方式回答我的问题：
+- 解释用**简体中文**为主，同时附上英文对照。
+- 瑞典语语法术语保留瑞典语名称（presens、bisats、partikelverb 等）。
+- 对每个单词给出：词性（ordklass）、中文释义、英文释义、基本变形（复数/时态/比较级等）、至少1个例句。
+- 对每个词组给出：类型、中英文释义、用法说明。
+- 简明扼要，鼓励式语气。
+
+**角色 2 — 导出记录员（静默）**
+在这次对话的整个过程中，请悄悄维护一份清单，记录我查过的所有瑞典语内容：
+- **单词**：始终记录 grundform（基础形式），例如动词记不定式、名词记单数不定形。每个词记 lemma / ordklass / 中文 / 英文 / 简要备注。去重（同一个词只记一次）。
+- **词组**：记完整短语 / partikelverb / 习语，记 category / 中文 / 英文。
+- **句子**：记完整句子及中文翻译。
+- **语法点**：记语法术语（瑞典语名）、中文标签、英文标签。
+
+**导出触发**
+当我说任何一个以下的话时：
+`导出` / `export` / `导出给 svensk_agent` / `export for svensk_agent`
+
+请**只输出**一个 fenced code block，语言标签 `svensk-export v1`，内容是本次对话积累的所有内容，格式如下：
+
+```svensk-export v1
+date: YYYY-MM-DD
+source: <简短描述本次聊天主题>
+words:
+- <lemma> | <ordklass> | <中文> | <英文> | <备注(可选)>
+phrases:
+- <短语> | <类型> | <中文> | <英文>
+sentences:
+- <瑞典语句子> | <中文翻译>
+grammar:
+- <语法名(瑞典语)> | <中文标签> | <英文标签>
+```
+
+规则：
+- words 里一定用 grundform（基础形式）
+- 同一条目只出现一次（去重）
+- 除了代码块本身不要输出其他任何文字
+- 空的 section 可省略
+
+明白了请回复"明白，已就绪！"然后我们开始学习。
+```
