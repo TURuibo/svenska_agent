@@ -40,7 +40,7 @@ select {
   display: grid;
   grid-template-columns: minmax(280px, 340px) minmax(300px, 420px) minmax(0, 1fr);
   gap: 16px;
-  min-height: 100vh;
+  height: 100vh;
   padding: 16px;
 }
 
@@ -57,11 +57,12 @@ select {
 .resultsPane {
   display: flex;
   flex-direction: column;
-  min-height: calc(100vh - 32px);
+  min-height: 0;
 }
 
 .sidebar {
   padding: 22px;
+  overflow: auto;
 }
 
 .brand h1,
@@ -193,6 +194,8 @@ select {
 }
 
 .resultList {
+  flex: 1;
+  min-height: 0;
   overflow: auto;
   padding: 10px;
 }
@@ -245,7 +248,7 @@ select {
 }
 
 .detailPane {
-  min-height: calc(100vh - 32px);
+  min-height: 0;
   overflow: auto;
 }
 
@@ -363,26 +366,64 @@ select {
 
 @media (max-width: 1120px) {
   .shell {
-    grid-template-columns: 300px minmax(0, 1fr);
+    grid-template-areas:
+      "sidebar sidebar"
+      "results detail";
+    grid-template-columns: minmax(280px, 380px) minmax(0, 1fr);
+    grid-template-rows: auto minmax(0, 1fr);
+    min-height: 100vh;
+    height: auto;
+  }
+
+  .sidebar {
+    grid-area: sidebar;
+    min-height: auto;
+  }
+
+  .resultsPane {
+    grid-area: results;
   }
 
   .detailPane {
-    grid-column: 1 / -1;
-    min-height: 50vh;
+    grid-area: detail;
+  }
+
+  .resultsPane,
+  .detailPane {
+    height: calc(100vh - 250px);
+    min-height: 520px;
   }
 }
 
 @media (max-width: 760px) {
   .shell {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    min-height: 100vh;
     padding: 10px;
   }
 
   .sidebar,
   .resultsPane,
   .detailPane {
+    height: auto;
     min-height: auto;
     margin-bottom: 10px;
+  }
+
+  .sidebar {
+    order: 1;
+  }
+
+  .detailPane {
+    order: 2;
+    max-height: none;
+  }
+
+  .resultsPane {
+    order: 3;
+    max-height: 65vh;
   }
 
   .brand h1,
