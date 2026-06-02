@@ -7,9 +7,9 @@ genus: ett
 cefr: B1
 zh: 出版社
 en: publishing house
-synonyms: []
+synonyms: [förlag]
 antonyms: []
-family: []
+family: [förlag, förläggare]
 topics: [topic-litteratur-och-kultur]
 sentences: []
 known: false
@@ -50,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förlag]] (ett, 出版商), [[förläggare]] (en, 出版人)
-- 同义词: —
+- 同义词: [[förlag]]
 - 反义词: —
 - 主题: [[topic-litteratur-och-kultur]]
 
