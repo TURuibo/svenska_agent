@@ -16,6 +16,8 @@ This project can be opened directly in both Claude Code and Codex.
 - Claude Code skills live in `.claude/skills/`.
 - Both clients use the same durable state: `knowledge_base/`, `profile/level.md`, `review/schedule.md`, and `inbox/`.
 - Do not introduce a database; all durable state stays in markdown.
+- The static KB viewer lives in `site/`; regenerate it from markdown with `tools/build-kb-site.ps1`.
+- GitHub Pages serves the viewer from the generated `gh-pages` branch at `https://turuibo.github.io/svenska_agent/`.
 
 ## Codex Setup
 

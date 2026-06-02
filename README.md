@@ -6,6 +6,31 @@ Swedish word / phrase / sentence / grammar question / photo you throw at it into
 
 Built for a native-Chinese, English-speaking learner (explanations in 中文 + English).
 
+## KB Web Viewer
+
+The markdown knowledge base can be browsed as a static website:
+
+- Public GitHub Pages URL: https://turuibo.github.io/svenska_agent/
+- Local viewer: open `site/index.html` in a browser.
+- Source of truth: `knowledge_base/` markdown files.
+- Generated search data: `site/kb-data.js`.
+
+After adding or editing KB notes, regenerate the viewer data:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File tools/build-kb-site.ps1
+```
+
+To publish the updated viewer to GitHub Pages:
+
+```powershell
+git add site
+git commit -m "Update KB viewer data"
+git push
+$sha = git subtree split --prefix site main
+git push origin "$sha`:refs/heads/gh-pages"
+```
+
 ---
 
 ## ✨ 三大功能 (Three workflows)
@@ -121,6 +146,8 @@ svensk_agent/
 ├── .agents/              # Codex skills
 ├── .codex/               # Codex agents / hooks / config
 ├── knowledge_base/      # 本地知识库（markdown + wikilinks）
+├── site/                # static searchable KB viewer
+├── tools/               # PowerShell tooling, including KB site generation
 ├── profile/level.md     # 水平档案（已掌握 = 查词跳过表）
 ├── review/schedule.md   # 复习计划（SM-2 lite）
 └── inbox/               # 待处理的图片/文档
