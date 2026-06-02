@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Swedish KB Viewer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="sidebar" aria-label="Knowledge base navigation">
+        <header class="brand">
+          <p class="eyebrow">svensk_agent</p>
+          <h1>Knowledge Base</h1>
+          <p id="updatedLabel" class="updated">Loading markdown index...</p>
+        </header>
+
+        <label class="searchBox">
+          <span>Search</span>
+          <input id="searchInput" type="search" autocomplete="off" placeholder="word, meaning, grammar, link..." />
+        </label>
+
+        <nav id="typeFilters" class="filters" aria-label="Filter by note type"></nav>
+
+        <section class="stats" aria-label="Knowledge base stats">
+          <h2>Stats</h2>
+          <div id="statsGrid" class="statsGrid"></div>
+        </section>
+      </section>
+
+      <section class="resultsPane" aria-label="Search results">
+        <div class="toolbar">
+          <div>
+            <p class="eyebrow">Browse</p>
+            <h2 id="resultCount">0 notes</h2>
+          </div>
+          <select id="sortSelect" aria-label="Sort notes">
+            <option value="title">Sort by title</option>
+            <option value="type">Sort by type</option>
+            <option value="created">Sort by created date</option>
+          </select>
+        </div>
+        <div id="resultList" class="resultList"></div>
+      </section>
+
+      <article class="detailPane" aria-label="Selected note">
+        <div id="detailEmpty" class="emptyState">
+          <p class="eyebrow">Select a note</p>
+          <h2>Search and open any markdown entry.</h2>
+        </div>
+        <div id="detailContent" class="detailContent" hidden></div>
+      </article>
+    </main>
+
+    <script src="kb-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
