@@ -1,0 +1,402 @@
+:root {
+  color-scheme: light;
+  --ink: #17211b;
+  --muted: #68756e;
+  --line: #d9dfd8;
+  --paper: #f7f8f2;
+  --panel: #ffffff;
+  --panel-soft: #edf3ef;
+  --green: #2f6f55;
+  --green-dark: #1f4f3e;
+  --blue: #315f7d;
+  --red: #9b4f43;
+  --gold: #a9782a;
+  --shadow: 0 24px 60px rgba(32, 47, 38, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  background:
+    linear-gradient(90deg, rgba(47, 111, 85, 0.08) 1px, transparent 1px),
+    linear-gradient(0deg, rgba(47, 111, 85, 0.06) 1px, transparent 1px),
+    linear-gradient(135deg, #f7f8f2 0%, #eef4f0 48%, #f8f1e6 100%);
+  background-size: 34px 34px, 34px 34px, auto;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.shell {
+  display: grid;
+  grid-template-columns: minmax(280px, 340px) minmax(300px, 420px) minmax(0, 1fr);
+  gap: 16px;
+  min-height: 100vh;
+  padding: 16px;
+}
+
+.sidebar,
+.resultsPane,
+.detailPane {
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.84);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(14px);
+}
+
+.sidebar,
+.resultsPane {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 32px);
+}
+
+.sidebar {
+  padding: 22px;
+}
+
+.brand h1,
+.toolbar h2,
+.emptyState h2 {
+  margin: 0;
+  line-height: 1.02;
+}
+
+.brand h1 {
+  font-size: 38px;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--green-dark);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.updated {
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.searchBox {
+  display: block;
+  margin: 24px 0 18px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.searchBox input {
+  width: 100%;
+  margin-top: 8px;
+  padding: 13px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  outline: none;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.searchBox input:focus {
+  border-color: var(--green);
+  box-shadow: 0 0 0 3px rgba(47, 111, 85, 0.14);
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.filterButton {
+  min-height: 36px;
+  padding: 7px 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.filterButton[aria-pressed="true"] {
+  border-color: var(--green);
+  background: var(--green);
+  color: #fff;
+}
+
+.stats {
+  margin-top: 24px;
+}
+
+.stats h2 {
+  margin: 0 0 12px;
+  font-size: 16px;
+}
+
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.statCard {
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel-soft);
+}
+
+.statCard strong {
+  display: block;
+  font-size: 24px;
+  line-height: 1;
+}
+
+.statCard span {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.toolbar h2 {
+  font-size: 24px;
+}
+
+.toolbar select {
+  max-width: 170px;
+  padding: 9px 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.resultList {
+  overflow: auto;
+  padding: 10px;
+}
+
+.resultItem {
+  display: grid;
+  gap: 8px;
+  width: 100%;
+  padding: 13px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--ink);
+  text-align: left;
+  cursor: pointer;
+}
+
+.resultItem:hover,
+.resultItem.active {
+  border-color: var(--line);
+  background: var(--panel-soft);
+}
+
+.resultTopline {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.resultTitle {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.badge {
+  flex: 0 0 auto;
+  align-self: start;
+  padding: 3px 7px;
+  border-radius: 999px;
+  background: #e2eee7;
+  color: var(--green-dark);
+  font-size: 12px;
+}
+
+.resultMeta,
+.resultExcerpt,
+.detailMeta {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.detailPane {
+  min-height: calc(100vh - 32px);
+  overflow: auto;
+}
+
+.emptyState {
+  display: grid;
+  align-content: center;
+  min-height: 100%;
+  padding: 36px;
+}
+
+.detailContent {
+  padding: 30px 34px 44px;
+}
+
+.detailHeader {
+  margin-bottom: 24px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.detailHeader h2 {
+  margin: 0 0 12px;
+  font-size: 42px;
+  line-height: 1.04;
+}
+
+.metadata {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.metadata span {
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: #f2eadb;
+  color: #5b482a;
+  font-size: 13px;
+}
+
+.noteBody {
+  font-family: "Segoe UI", "Microsoft YaHei", sans-serif;
+  line-height: 1.65;
+}
+
+.noteBody h1,
+.noteBody h2,
+.noteBody h3 {
+  margin: 26px 0 10px;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.15;
+}
+
+.noteBody h1 {
+  font-size: 32px;
+}
+
+.noteBody h2 {
+  font-size: 24px;
+}
+
+.noteBody h3 {
+  font-size: 19px;
+}
+
+.noteBody p,
+.noteBody ul,
+.noteBody table {
+  margin: 0 0 14px;
+}
+
+.noteBody ul {
+  padding-left: 22px;
+}
+
+.noteBody code {
+  padding: 2px 5px;
+  border-radius: 4px;
+  background: #edf1e9;
+}
+
+.noteBody table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+.noteBody th,
+.noteBody td {
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.wikiLink {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--blue);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.missingLink {
+  color: var(--red);
+}
+
+.noResults {
+  padding: 24px;
+  color: var(--muted);
+}
+
+@media (max-width: 1120px) {
+  .shell {
+    grid-template-columns: 300px minmax(0, 1fr);
+  }
+
+  .detailPane {
+    grid-column: 1 / -1;
+    min-height: 50vh;
+  }
+}
+
+@media (max-width: 760px) {
+  .shell {
+    display: block;
+    padding: 10px;
+  }
+
+  .sidebar,
+  .resultsPane,
+  .detailPane {
+    min-height: auto;
+    margin-bottom: 10px;
+  }
+
+  .brand h1,
+  .detailHeader h2 {
+    font-size: 32px;
+  }
+
+  .toolbar {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .toolbar select {
+    max-width: none;
+    width: 100%;
+  }
+}
