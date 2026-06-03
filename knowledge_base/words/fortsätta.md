@@ -10,8 +10,10 @@ en: to continue
 synonyms: []
 antonyms: []
 family: []
-topics: []
-sentences: []
+topics:
+  - topic-riktningar
+sentences:
+  - sent-fortsatt-lite-till-gra-dorr
 known: false
 created: "2026-06-02"
 reviewed: ""
@@ -44,6 +46,7 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。
 - 🇸🇪 Astrid **fortsatte** att skriva böcker hela livet.
   🇨🇳 阿斯特丽德一生都在继续写书。
 - 🇸🇪 Kan vi **fortsätta** mötet efter lunchen?
@@ -56,7 +59,7 @@ interval: 0
 - 词族: [[fortsättning]] (en, 续集/继续)
 - 同义词: —
 - 反义词: [[sluta]] (v. 停止/结束), [[avbryta]] (v. 中断)
-- 主题: —
+- 主题: [[topic-riktningar]]
 
 ## 用法提示 (Usage Notes)
 
