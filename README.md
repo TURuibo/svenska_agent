@@ -14,8 +14,8 @@ It is static and has no external dependencies. `knowledge_base/` remains the sou
 
 Regenerate the searchable data after adding or editing KB notes:
 
-```powershell
-powershell -ExecutionPolicy Bypass -File tools/build-kb-site.ps1
+```bash
+node tools/build-kb-site.js
 ```
 
 Publish the refreshed site to GitHub Pages:
@@ -30,3 +30,5 @@ git push origin "$sha`:refs/heads/gh-pages"
 
 GitHub Pages serves the `gh-pages` branch. The branch is generated from the `site/` folder with
 `git subtree split`, so the web root is `site/index.html` without an extra `/site/` path segment.
+
+The GitHub Actions workflow `.github/workflows/kb-site.yml` also regenerates and publishes the viewer on every `main` push that touches the KB/site tooling, once per day, and on manual dispatch.
