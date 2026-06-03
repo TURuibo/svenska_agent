@@ -44,6 +44,13 @@ Grupp 2a 动词（-er/-te/-t）。
 
 ## 例句 (Sentences)
 
+- 🇸🇪 De **döpte** sin dotter till Astrid.
+  🇨🇳 他们给女儿取名阿斯特丽德。
+- 🇸🇪 Barnet **döptes** i kyrkan när det var tre månader gammalt.
+  🇨🇳 孩子三个月大时在教堂受了洗礼。
+- 🇸🇪 De **döpte** båten till "Hoppet".
+  🇨🇳 他们给这艘船命名为"希望号"。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dop]] (ett, 洗礼), [[dopceremoni]] (baptism ceremony)

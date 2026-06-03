@@ -46,6 +46,10 @@ interval: 0
 - 🇸🇪 Det är fullt på alla dina önskade **val**.
   🇨🇳 你所有的意愿名额均已满员。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Det var ett svårt **val** — både alternativen var bra.
+  🇨🇳 这是一个艰难的选择——两个选项都很好。
+- 🇸🇪 I Sverige hålls **val** vart fjärde år.
+  🇨🇳 在瑞典，每四年举行一次选举。
 
 ## 词族 / 同义 / 反义 (Relations)
 

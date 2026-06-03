@@ -45,6 +45,10 @@ interval: 0
 - 🇸🇪 Ditt barn har fått **erbjudande** om plats på en **förskola**.
   🇨🇳 你的孩子已获得一所幼儿园的入园名额。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Barnen börjar på **förskolan** när de är ett år gamla.
+  🇨🇳 孩子们一岁时开始上幼儿园。
+- 🇸🇪 Det finns många bra **förskolor** i det här området.
+  🇨🇳 这个地区有很多好的幼儿园。
 
 ## 词族 / 同义 / 反义 (Relations)
 

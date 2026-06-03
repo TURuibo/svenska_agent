@@ -46,6 +46,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Pippi lyssnade aldrig på **vuxna**.
+  🇨🇳 皮皮从不听大人的话。
+- 🇸🇪 När man blir **vuxen** måste man ta ansvar.
+  🇨🇳 当你成年后，必须承担责任。
+- 🇸🇪 Det är en film för **vuxna**, inte för barn.
+  🇨🇳 这是一部给成年人看的电影，不适合孩子。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vuxenliv]] (ett, 成年生活), [[halvvuxen]] (adj, 半大不小的)

@@ -37,6 +37,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Alla barn i hennes böcker är mycket **modiga**.
+  🇨🇳 她书中所有的孩子都非常勇敢。
+- 🇸🇪 Det var **modigt** av dig att berätta sanningen.
+  🇨🇳 你能说出真相真的很勇敢。
+- 🇸🇪 En **modig** flicka räddade hunden ur ån.
+  🇨🇳 一个勇敢的女孩从小河里救出了那只狗。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mod]] (ett, 勇气), [[modighet]] (en, 勇敢), [[modigare]] (komparativ)

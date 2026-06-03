@@ -44,6 +44,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 De ville inte **publicera** berättelsen.
+  🇨🇳 他们不想出版这个故事。
+- 🇸🇪 Hon **publicerade** sin första bok när hon var trettio år.
+  🇨🇳 她三十岁时出版了自己的第一本书。
+- 🇸🇪 Tidningen **publicerar** nyheter varje dag.
+  🇨🇳 报社每天发布新闻。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[publikation]] (en, 出版物), [[publik]] (en, 观众/读者群)

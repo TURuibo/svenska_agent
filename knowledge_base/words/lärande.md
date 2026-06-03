@@ -44,6 +44,10 @@ interval: 0
 - 🇸🇪 Sektorn för **Lärande** och bildning, Sundbyberg stad.
   🇨🇳 学习与教育部门，Sundbyberg 市。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Lek är en viktig del av barns **lärande**.
+  🇨🇳 游戏是儿童学习的重要组成部分。
+- 🇸🇪 Livslångt **lärande** är viktigt i en föränderlig värld.
+  🇨🇳 在不断变化的世界中，终身学习非常重要。
 
 ## 词族 / 同义 / 反义 (Relations)
 

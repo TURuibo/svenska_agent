@@ -44,6 +44,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Alla barn i hennes böcker **kämpar** mot orättvisor.
+  🇨🇳 她书中所有的孩子都与不公正作斗争。
+- 🇸🇪 Han **kämpade** länge för att lära sig svenska.
+  🇨🇳 他长时间努力学瑞典语。
+- 🇸🇪 Vi måste **kämpa** för ett rättvisare samhälle.
+  🇨🇳 我们必须为一个更公平的社会而奋斗。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kamp]] (en, 斗争/奋斗), [[kämpe]] (en, 战士/勇士)

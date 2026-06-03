@@ -43,6 +43,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Hon var inte **gift** när hon fick sitt första barn.
+  🇨🇳 她生第一个孩子时还没有结婚。
+- 🇸🇪 De **gifta** sig i kyrkan en varm sommardag.
+  🇨🇳 他们在一个温暖的夏日在教堂结了婚。
+- 🇸🇪 Är du **gift** eller singel?
+  🇨🇳 你结婚了还是单身？
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gifta sig]] (v. 结婚), [[giftermål]] (ett, 婚姻/结婚), [[äktenskap]] (ett, 婚姻)

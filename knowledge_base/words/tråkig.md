@@ -37,6 +37,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Söndagar var **tråkiga**, tyckte Astrid.
+  🇨🇳 阿斯特丽德觉得星期天很无聊。
+- 🇸🇪 Det är **tråkigt** att vänta så länge.
+  🇨🇳 等这么久真的很无聊。
+- 🇸🇪 Filmen var ganska **tråkig** — vi gick hem i pausen.
+  🇨🇳 这部电影相当无聊——我们在中场休息时就回家了。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tråkighet]] (en, 无聊/无趣)

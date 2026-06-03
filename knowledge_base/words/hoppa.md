@@ -46,6 +46,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Barnen **hoppade** i höet på bondgården.
+  🇨🇳 孩子们在农场的干草堆里跳来跳去。
+- 🇸🇪 **Hoppa** inte på stolen!
+  🇨🇳 别在椅子上跳！
+- 🇸🇪 Hon **hoppade** över bäcken med ett stort steg.
+  🇨🇳 她迈一大步跳过了小溪。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —

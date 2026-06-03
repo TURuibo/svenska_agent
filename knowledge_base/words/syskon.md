@@ -38,6 +38,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Astrid och hennes tre **syskon** bodde på en gård.
+  🇨🇳 阿斯特丽德和她的三个兄弟姐妹住在一个农庄里。
+- 🇸🇪 Har du några **syskon**?
+  🇨🇳 你有兄弟姐妹吗？
+- 🇸🇪 Mina **syskon** bor i olika städer i Sverige.
+  🇨🇳 我的兄弟姐妹住在瑞典不同的城市。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bror]] / [[broder]] (en, 兄弟), [[syster]] (en, 姐妹), [[syskonkärlek]] (en, 手足之情)

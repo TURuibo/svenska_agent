@@ -44,6 +44,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Hon **mindes** sina lekar från barndomen.
+  🇨🇳 她记得自己童年时的游戏。
+- 🇸🇪 **Minns** du vad vi åt igår?
+  🇨🇳 你记得我们昨天吃了什么吗？
+- 🇸🇪 Jag **minns** inte vad han hette.
+  🇨🇳 我不记得他叫什么名字了。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[minne]] (ett, 记忆/回忆), [[minnesanteckning]] (笔记), [[minnesmärke]] (纪念碑)

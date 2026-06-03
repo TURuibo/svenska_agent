@@ -38,6 +38,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 I Stockholm fick Astrid jobb som **sekreterare**.
+  🇨🇳 在斯德哥尔摩阿斯特丽德找到了秘书工作。
+- 🇸🇪 **Sekreteraren** svarade i telefon och bokade mötet.
+  🇨🇳 秘书接了电话并预订了会议。
+- 🇸🇪 Hon arbetar som **sekreterare** på ett stort företag.
+  🇨🇳 她在一家大公司担任秘书。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sekretariat]] (ett, 秘书处)

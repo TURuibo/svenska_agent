@@ -35,6 +35,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Kläderna var **obekväma** och kliade.
+  🇨🇳 衣服既不舒服又痒。
+- 🇸🇪 Den här stolen är ganska **obekväm** att sitta i länge.
+  🇨🇳 这把椅子坐久了挺不舒服的。
+- 🇸🇪 Han kände sig **obekväm** i det stora folkmassan.
+  🇨🇳 他在人群中感到很不自在。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bekväm]] (adj, 舒适的), [[bekvämlighet]] (en, 舒适/便利)

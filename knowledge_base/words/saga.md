@@ -42,6 +42,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Karin bad Astrid berätta en **saga** om en flicka.
+  🇨🇳 卡琳请阿斯特丽德讲一个关于女孩的故事。
+- 🇸🇪 Pappa läste en **saga** för barnen varje kväll.
+  🇨🇳 爸爸每晚都给孩子们读故事。
+- 🇸🇪 Det är en gammal **saga** som alla barn känner till.
+  🇨🇳 这是一个所有孩子都知道的古老童话。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[folksaga]] (en, 民间故事), [[sagofigur]] (en, 童话人物), [[saglik]] (adj, 童话般的)

@@ -40,6 +40,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Astrid blev **hemmafru** och kunde ta hand om sin son.
+  🇨🇳 阿斯特丽德成了家庭主妇，可以照顾她的儿子了。
+- 🇸🇪 På 1950-talet var många kvinnor **hemmafruar**.
+  🇨🇳 20世纪50年代，很多女性是家庭主妇。
+- 🇸🇪 Hon trivdes som **hemmafru** men saknade sitt jobb ibland.
+  🇨🇳 她喜欢做家庭主妇，但有时也想念自己的工作。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hemma]] (adv, 在家), [[fru]] (en, 妻子), [[hemmaman]] (stay-at-home husband)

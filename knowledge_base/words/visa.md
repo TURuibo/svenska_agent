@@ -45,6 +45,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Astrids föräldrar **visade** ofta att de älskade varandra.
+  🇨🇳 阿斯特丽德的父母经常表达对彼此的爱。
+- 🇸🇪 Kan du **visa** mig vägen till stationen?
+  🇨🇳 你能带我去车站吗？
+- 🇸🇪 Hon **visade** upp sin nya bok för klassen.
+  🇨🇳 她向全班展示了她的新书。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[visning]] (en, 展示/放映), [[bevisning]] (evidence)

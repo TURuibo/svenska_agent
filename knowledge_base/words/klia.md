@@ -44,6 +44,13 @@ Grupp 3 动词（短词根 + -r/-de/-t）。
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Det **kliar** på ryggen — kan du klia mig?
+  🇨🇳 后背痒——你能帮我挠一下吗？
+- 🇸🇪 Kläderna var obekväma och **kliade**.
+  🇨🇳 衣服既不舒服又痒。
+- 🇸🇪 Barnet **kliar** sig för att det fick myggbett.
+  🇨🇳 孩子因为被蚊子咬了在挠痒。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klåda]] (en, 搔痒感/瘙痒)

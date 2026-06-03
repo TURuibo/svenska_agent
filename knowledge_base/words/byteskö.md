@@ -45,6 +45,10 @@ interval: 0
 - 🇸🇪 …står ditt barn **kvar** i **byteskön** till era önskade val.
   🇨🇳 你的孩子仍将留在换位等候队列中等待你的意愿名额。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Vi tackar ja till garantiplatsen men är fortfarande kvar i **byteskön**.
+  🇨🇳 我们接受了保证名额，但仍然在换位等候队列中。
+- 🇸🇪 **Byteskön** till vår önskade förskola är lång — det kan ta tid.
+  🇨🇳 我们首选幼儿园的换位等候队列很长——可能需要一段时间。
 
 ## 词族 / 同义 / 反义 (Relations)
 

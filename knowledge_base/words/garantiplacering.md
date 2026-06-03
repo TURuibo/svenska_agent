@@ -45,6 +45,10 @@ interval: 0
 - 🇸🇪 Har du fått erbjudande om placering på en förskola som du inte sökt till, är det en **garantiplacering**.
   🇨🇳 若你收到了一所并非你申请过的幼儿园名额，则为保证名额。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Vi fick en **garantiplacering** eftersom alla våra önskade förskolor var fulla.
+  🇨🇳 因为我们所有首选幼儿园都满员了，我们获得了一个保证名额。
+- 🇸🇪 Om du tackar ja till **garantiplatsen** kan du fortfarande stå kvar i byteskön.
+  🇨🇳 如果你接受保证名额，你仍然可以留在换位等候队列中。
 
 ## 词族 / 同义 / 反义 (Relations)
 

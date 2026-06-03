@@ -45,6 +45,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Astrid **längtade** efter sin son varje dag.
+  🇨🇳 阿斯特丽德每天都思念她的儿子。
+- 🇸🇪 Jag **längtar** hem efter en lång resa.
+  🇨🇳 长途旅行后我想家了。
+- 🇸🇪 Alla **längtar** efter sommaren i Sverige.
+  🇨🇳 在瑞典，每个人都期盼夏天的到来。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[längtan]] (en, 思念/渴望之情)

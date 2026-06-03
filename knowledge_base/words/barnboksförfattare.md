@@ -42,6 +42,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Astrid Lindgren är en känd **barnboksförfattare** från Sverige.
+  🇨🇳 阿斯特丽德·林格伦是瑞典著名的儿童书作家。
+- 🇸🇪 Hon drömde om att bli **barnboksförfattare** när hon var liten.
+  🇨🇳 她小时候梦想成为一名儿童书作家。
+- 🇸🇪 Det finns många duktiga **barnboksförfattare** i Sverige.
+  🇨🇳 瑞典有许多优秀的儿童书作家。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[författare]] (en, 作者/作家), [[barnbok]] (en, 儿童书)

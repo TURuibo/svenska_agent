@@ -46,6 +46,10 @@ interval: 0
 - 🇸🇪 Ditt barn Ella har fått **erbjudande** om plats på en förskola.
   🇨🇳 你的孩子 Ella 已获得一所幼儿园的入园名额邀约。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Hon tackade ja till **erbjudandet** om ett nytt jobb.
+  🇨🇳 她接受了新工作的邀约。
+- 🇸🇪 Butiken har många bra **erbjudanden** den här veckan.
+  🇨🇳 这家商店本周有很多优惠活动。
 
 ## 词族 / 同义 / 反义 (Relations)
 

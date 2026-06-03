@@ -45,6 +45,10 @@ interval: 0
 - 🇸🇪 Har du fått erbjudande om **placering** på en förskola som du inte sökt till…
   🇨🇳 若你收到了一所并非你申请过的幼儿园名额……
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Barnet fick en **placering** på en förskola nära hemmet.
+  🇨🇳 孩子在离家近的一所幼儿园获得了名额。
+- 🇸🇪 Han fick en andraplats — en bra **placering** i tävlingen.
+  🇨🇳 他获得了第二名——在比赛中取得了好成绩。
 
 ## 词族 / 同义 / 反义 (Relations)
 

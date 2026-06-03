@@ -40,6 +40,15 @@ interval: 0
 - `jobba över` — 加班
 - `jobba deltid / heltid` — 兼职 / 全职
 
+## 例句 (Sentences)
+
+- 🇸🇪 Var **jobbar** du?
+  🇨🇳 你在哪里工作？
+- 🇸🇪 Han **jobbade** sent igår kväll.
+  🇨🇳 他昨晚工作到很晚。
+- 🇸🇪 Jag **jobbar** deltid och studerar på kvällarna.
+  🇨🇳 我兼职工作，晚上学习。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[jobb]] (n. 工作/活儿，口语), [[arbeta]] (v. 工作，正式), [[arbete]] (n. 工作，正式名词)

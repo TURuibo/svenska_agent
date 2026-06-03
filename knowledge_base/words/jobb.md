@@ -44,6 +44,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Hon fick sitt första **jobb** i Stockholm som sekreterare.
+  🇨🇳 她在斯德哥尔摩找到了第一份工作，担任秘书。
+- 🇸🇪 Hur är det på **jobbet** i dag?
+  🇨🇳 今天工作怎么样？
+- 🇸🇪 Han söker **jobb** efter att ha studerat klart.
+  🇨🇳 他学业结束后正在找工作。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[jobba]] (v. 工作，口语), [[arbeta]] (v. 工作，正式), [[arbete]] (ett, 工作/劳动，正式名词)

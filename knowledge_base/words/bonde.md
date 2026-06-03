@@ -38,6 +38,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Astrids föräldrar var **bönder** i Småland.
+  🇨🇳 阿斯特丽德的父母是斯莫兰的农民。
+- 🇸🇪 **Bonden** arbetar på fältet tidigt på morgonen.
+  🇨🇳 农民一大早就在田地里干活。
+- 🇸🇪 Många svenska **bönder** odlar spannmål och potatis.
+  🇨🇳 很多瑞典农民种植谷物和土豆。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bondgård]] (en, 农场), [[jordbruk]] (ett, 农业)
