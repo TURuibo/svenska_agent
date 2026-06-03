@@ -50,6 +50,7 @@ and how much detail to extract:
   files. Read it whenever you store anything.
 - `sv-review` — how to run a review session from the KB.
 - `sv-assess` — how to assess and record the learner's level.
+- `sv-scenario` — **场景练习生成规范**: how to generate a Swedish dialogue/text/narrative, extract its learning items, and write them as an `inbox/` file with an embedded `svensk-export v1` block ready for `/import`.
 
 ### Subagents (重活 — the "how", isolated)
 Spawn these (Agent tool) for heavy multi-file work so the main thread stays clean:
@@ -57,6 +58,7 @@ Spawn these (Agent tool) for heavy multi-file work so the main thread stays clea
   Use after analyzing a **whole text or image** (many items at once).
 - `sv-reviewer` — builds a review session by scanning the KB and the review schedule.
 - `sv-assessor` — assesses level across the whole KB + recent interactions, updates `profile/level.md`.
+- `sv-scenario-writer` — given a scenario topic, generates a level-appropriate Swedish dialogue/text/narrative and writes `inbox/scenario-<date>-<slug>.md` (readable scenario + embedded `svensk-export v1` block). Use when the user runs `/scenario`. Does NOT touch `knowledge_base/`.
 
 For a **single word/phrase/sentence**, don't spawn a subagent — just store it inline (it's one or two files).
 
@@ -66,6 +68,7 @@ For a **single word/phrase/sentence**, don't spawn a subagent — just store it 
 - `/assess` — assess current Swedish level and update the profile.
 - `/kb` — show knowledge-base stats and health (counts, orphan notes, broken links).
 - `/import` — ingest a `svensk-export v1` block (pasted or from `inbox/`) with dedup + linking.
+- `/scenario` — 生成情景练习文本 (generate a Swedish practice scenario — dialogue/text/narrative) into `inbox/` for review, then import with `/import`.
 
 ---
 
@@ -139,6 +142,21 @@ Export blocks can also be saved as `.md` files in `inbox/` and picked up with a 
 <1–3 行最关键信息：变形要点 / 用法 / 语法陷阱>
 📁 已录入: <path>  🔗 <n> links   |  下一步: 想深入可问 "<item> 详细"
 ```
+
+### §4.2 场景生成 (Scenario generation)
+
+`/scenario <topic>` triggers the `sv-scenario-writer` subagent (Sonnet) to generate a
+level-appropriate Swedish dialogue, functional text, or narrative on the requested topic.
+
+**Loop:**
+1. `/scenario <topic>` — parse optional `[dialog|text|story]` type and/or `[A1–C2]` level tokens; spawn `sv-scenario-writer`.
+2. **`sv-scenario-writer`** reads `profile/level.md` (for vocabulary bias), generates the text, extracts all words/phrases/sentences/grammar into grundform, and writes a single file: `inbox/scenario-<date>-<slug>.md`.
+3. The file contains two parts: a **human-readable scenario** (Swedish text + 🇨🇳 translation + teaching notes) and a fenced **`svensk-export v1` block** (the learning items, ready to import).
+4. The **chat reply** is a concise digest (title, type, CEFR estimate, item counts) + `📁` pointer to the inbox file + a one-line next step.
+5. User **reviews** the inbox file. Nothing has been written to `knowledge_base/` yet.
+6. User runs `/import` (or `/import scenario-<date>-<slug>.md`) → `sv-import` extracts the embedded block, deduplicates against the live KB, then routes to `sv-librarian` for full dedup + bidirectional `[[wikilinks]]` + `sources/` note.
+
+**Key constraint:** `sv-scenario-writer` must NOT write into `knowledge_base/`. All KB writes happen exclusively through the `/import` pipeline.
 
 ---
 
