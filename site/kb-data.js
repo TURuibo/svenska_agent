@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-03 19:30:26",
+  "generatedAt": "2026-06-03 20:37:06",
   "notes": [
     {
       "slug": "grammar-att-sats",
@@ -22,6 +22,25 @@ window.KB_DATA = {
       "known": false
     },
     {
+      "slug": "grammar-bisats-biff",
+      "type": "grammar",
+      "title": "bisats-biff",
+      "path": "knowledge_base/grammar/grammar-bisats-biff.md",
+      "body": "# 📗 bisats-biff — 从句语序（BIFF 规则）(subordinate clause word order)\n\n级别: B1\n一句话: 在从句（bisats）中，否定词/副词紧跟在主语之后、动词之前（BIFF = Bisatsen Inte Före Finitverbet）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主句 (V2):  Subjekt  VERB        Adverb  ...\n             Jag      vet         inte    var det är.\n从句 (BIFF): (att)    Subjekt  Adverb  VERB    ...\n             att      jag      inte    vet     ...\n             när      jag      kommer  till    Slussen\n```\n\nBIFF 记忆法：**B**isatsen **I**nte **F**öre **F**initverbet = 从句中否定词/副词在动词之前。\n\n与中文对比: 中文语序不受主从句影响（都是\"我不知道\"）；瑞典语从句需变换 inte 位置。\n与英文对比: 英语从句语序不变（I don't know where it is）；瑞典语从句 inte 必须前移。\n\n## 详细讲解 (Detail)\n\n触发从句语序的连词（bisatsinledare）：\n- `att` — that（我知道他来了）\n- `när` — when（当我到达时）\n- `om` — if/whether（如果/是否）\n- `var` — where（在哪里）\n- `hur` — how（怎样）\n- `eftersom` — because\n- `som` — that/which/who\n\n例：\n- 主句：*Jag vet **inte** var det är.* ← `inte` 在主句中跟 `vet` 后面→ 不，这里 `vet` 是主句动词，`var det är` 是从句\n- 从句内部：*var **det** är*（从句中 det 是主语，är 是动词，无需移位，因为无否定词）\n\n实际从对话的例子：\n- `när jag kommer till Slussen` — 当我到达 Slussen 时（bisats，语序 S-V）\n- `Vet du var det är?` — 你知道那在哪里吗？（`var det är` 是 bisats：var + det(S) + är(V)）\n\n## 例句 (Examples)\n\n- ✅ [[sent-vet-du-var-det-ar]] 🇸🇪 Vet du var det är? 🇨🇳 你知道在哪里吗？\n- ✅ [[sent-vilken-riktning-ska-jag-ga]] 🇸🇪 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？（疑问词从句）\n- ❌ *Jag vet var är det.* ← 从句不用疑问语序（不能用 V2 倒装）\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 从句中用疑问语序：*Jag vet inte var är det.* → 正确：*Jag vet inte var det är.*\n- ⚠️ 主从句混淆 `inte` 位置：主句 *Jag vet **inte**…* vs 从句中 *…att jag **inte** vet…*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-riktnings-adverb]] — dit/där 的区别也受主从句影响",
+      "excerpt": "📗 bisats biff — 从句语序（BIFF 规则）(subordinate clause word order) 级别: B1 一句话: 在从句（bisats）中，否定词/副词紧跟在主语之后、动词之前（BIFF = Bisatsen Inte Före Finitverbet）。 规则说明 (Rules) 📐 结构公式: 主句 (V2): Subjekt VERB Adverb ... Jag vet inte var de",
+      "links": [
+        "grammar-riktnings-adverb",
+        "sent-vet-du-var-det-ar",
+        "sent-vilken-riktning-ska-jag-ga"
+      ],
+      "searchText": "bisats-biff grammar-bisats-biff knowledge_base/grammar/grammar-bisats-biff.md ---\ntype: grammar\nname: \"bisats-biff\"\nzh: \"从句语序（BIFF 规则）\"\nen: \"subordinate clause word order (BIFF rule)\"\nlevel: \"B1\"\nrelated:\n  - grammar-riktnings-adverb\nexamples:\n  - sent-vet-du-var-det-ar\n  - sent-vilken-riktning-ska-jag-ga\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 bisats-biff — 从句语序（BIFF 规则）(subordinate clause word order)\n\n级别: B1\n一句话: 在从句（bisats）中，否定词/副词紧跟在主语之后、动词之前（BIFF = Bisatsen Inte Före Finitverbet）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主句 (V2):  Subjekt  VERB        Adverb  ...\n             Jag      vet         inte    var det är.\n从句 (BIFF): (att)    Subjekt  Adverb  VERB    ...\n             att      jag      inte    vet     ...\n             när      jag      kommer  till    Slussen\n```\n\nBIFF 记忆法：**B**isatsen **I**nte **F**öre **F**initverbet = 从句中否定词/副词在动词之前。\n\n与中文对比: 中文语序不受主从句影响（都是\"我不知道\"）；瑞典语从句需变换 inte 位置。\n与英文对比: 英语从句语序不变（I don't know where it is）；瑞典语从句 inte 必须前移。\n\n## 详细讲解 (Detail)\n\n触发从句语序的连词（bisatsinledare）：\n- `att` — that（我知道他来了）\n- `när` — when（当我到达时）\n- `om` — if/whether（如果/是否）\n- `var` — where（在哪里）\n- `hur` — how（怎样）\n- `eftersom` — because\n- `som` — that/which/who\n\n例：\n- 主句：*Jag vet **inte** var det är.* ← `inte` 在主句中跟 `vet` 后面→ 不，这里 `vet` 是主句动词，`var det är` 是从句\n- 从句内部：*var **det** är*（从句中 det 是主语，är 是动词，无需移位，因为无否定词）\n\n实际从对话的例子：\n- `när jag kommer till Slussen` — 当我到达 Slussen 时（bisats，语序 S-V）\n- `Vet du var det är?` — 你知道那在哪里吗？（`var det är` 是 bisats：var + det(S) + är(V)）\n\n## 例句 (Examples)\n\n- ✅ [[sent-vet-du-var-det-ar]] 🇸🇪 Vet du var det är? 🇨🇳 你知道在哪里吗？\n- ✅ [[sent-vilken-riktning-ska-jag-ga]] 🇸🇪 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？（疑问词从句）\n- ❌ *Jag vet var är det.* ← 从句不用疑问语序（不能用 V2 倒装）\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 从句中用疑问语序：*Jag vet inte var är det.* → 正确：*Jag vet inte var det är.*\n- ⚠️ 主从句混淆 `inte` 位置：主句 *Jag vet **inte**…* vs 从句中 *…att jag **inte** vet…*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-riktnings-adverb]] — dit/där 的区别也受主从句影响\n",
+      "name": "bisats-biff",
+      "zh": "从句语序（BIFF 规则）",
+      "en": "subordinate clause word order (BIFF rule)",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
       "slug": "grammar-bisats-eftersom",
       "type": "grammar",
       "title": "Bisats med eftersom",
@@ -38,6 +57,27 @@ window.KB_DATA = {
       "zh": "eftersom引导的原因状语从句",
       "en": "Causal subordinate clause with eftersom (because)",
       "created": "2026-06-02",
+      "known": false
+    },
+    {
+      "slug": "grammar-imperativ",
+      "type": "grammar",
+      "title": "imperativ",
+      "path": "knowledge_base/grammar/grammar-imperativ.md",
+      "body": "# 📗 imperativ — 祈使句 (imperative mood)\n\n级别: A1\n一句话: 瑞典语祈使句用动词原形（去掉 att），直接发命令或请求。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n动词词干 = 祈使句\natt gå → Gå!\natt fortsätta → Fortsätt!\natt skynda → Skynda!\natt ta → Ta!\n```\n\n规则：\n- **grupp 1**（-a结尾动词）：去掉 `-a` → imperativ（*jobba → jobb!*）\n- **grupp 2**：词干即祈使句（*läser → läs!*）\n- **oregelbundna**：需单独记忆（*gå → gå!*, *vara → var!*）\n\n与中文对比: 中文祈使句直接用动词（走！快！），瑞典语结构相似。\n与英文对比: 英语也用动词原形（Go! Hurry!），瑞典语基本一致，但反身动词需加 `dig/er/sig`。\n\n## 详细讲解 (Detail)\n\n反身动词的祈使句需附加反身代词：\n- `skynda sig` → `Skynda dig!`（对你说），`Skynda er!`（对你们说）\n- `sätta sig` → `Sätt dig!`（坐下！）\n\n间接/礼貌请求可用 `kan du ...?`（你能…吗？）代替祈使句。\n\n## 例句 (Examples)\n\n- ✅ [[sent-ga-mot-soder]] 🇸🇪 Gå mot söder. 🇨🇳 往南走。\n- ✅ [[sent-skynda-dig-lite]] 🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。\n- ✅ [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen. 🇨🇳 坐地铁到斯鲁森站。\n- ✅ [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till. 🇨🇳 再往前走一点。\n- ❌ *Går mot söder.* ← 不用现在时，要用词干/祈使形\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 不要用 presens（gå**r**）作祈使句——要用词干（gå）。\n- ⚠️ 反身动词别忘加 `dig/er`：`Skynda!` 不完整 → 应为 `Skynda dig!`\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-reflexivt-verb]] — 反身动词的祈使句形式",
+      "excerpt": "📗 imperativ — 祈使句 (imperative mood) 级别: A1 一句话: 瑞典语祈使句用动词原形（去掉 att），直接发命令或请求。 规则说明 (Rules) 📐 结构公式: 动词词干 = 祈使句 att gå → Gå! att fortsätta → Fortsätt! att skynda → Skynda! att ta → Ta! 规则： grupp 1 （ a结尾动词）：去掉 a → imperat",
+      "links": [
+        "grammar-reflexivt-verb",
+        "sent-fortsatt-lite-till-gra-dorr",
+        "sent-ga-mot-soder",
+        "sent-skynda-dig-lite",
+        "sent-ta-tunnelbanan-till-slussen"
+      ],
+      "searchText": "imperativ grammar-imperativ knowledge_base/grammar/grammar-imperativ.md ---\ntype: grammar\nname: \"imperativ\"\nzh: \"祈使句\"\nen: \"imperative mood\"\nlevel: \"A1\"\nrelated:\n  - grammar-reflexivt-verb\nexamples:\n  - sent-ga-mot-soder\n  - sent-skynda-dig-lite\n  - sent-ta-tunnelbanan-till-slussen\n  - sent-fortsatt-lite-till-gra-dorr\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 imperativ — 祈使句 (imperative mood)\n\n级别: A1\n一句话: 瑞典语祈使句用动词原形（去掉 att），直接发命令或请求。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n动词词干 = 祈使句\natt gå → Gå!\natt fortsätta → Fortsätt!\natt skynda → Skynda!\natt ta → Ta!\n```\n\n规则：\n- **grupp 1**（-a结尾动词）：去掉 `-a` → imperativ（*jobba → jobb!*）\n- **grupp 2**：词干即祈使句（*läser → läs!*）\n- **oregelbundna**：需单独记忆（*gå → gå!*, *vara → var!*）\n\n与中文对比: 中文祈使句直接用动词（走！快！），瑞典语结构相似。\n与英文对比: 英语也用动词原形（Go! Hurry!），瑞典语基本一致，但反身动词需加 `dig/er/sig`。\n\n## 详细讲解 (Detail)\n\n反身动词的祈使句需附加反身代词：\n- `skynda sig` → `Skynda dig!`（对你说），`Skynda er!`（对你们说）\n- `sätta sig` → `Sätt dig!`（坐下！）\n\n间接/礼貌请求可用 `kan du ...?`（你能…吗？）代替祈使句。\n\n## 例句 (Examples)\n\n- ✅ [[sent-ga-mot-soder]] 🇸🇪 Gå mot söder. 🇨🇳 往南走。\n- ✅ [[sent-skynda-dig-lite]] 🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。\n- ✅ [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen. 🇨🇳 坐地铁到斯鲁森站。\n- ✅ [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till. 🇨🇳 再往前走一点。\n- ❌ *Går mot söder.* ← 不用现在时，要用词干/祈使形\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 不要用 presens（gå**r**）作祈使句——要用词干（gå）。\n- ⚠️ 反身动词别忘加 `dig/er`：`Skynda!` 不完整 → 应为 `Skynda dig!`\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-reflexivt-verb]] — 反身动词的祈使句形式\n",
+      "name": "imperativ",
+      "zh": "祈使句",
+      "en": "imperative mood",
+      "created": "2026-06-03",
       "known": false
     },
     {
@@ -74,6 +114,47 @@ window.KB_DATA = {
       "zh": "不规则动词过去式",
       "en": "Preterite of irregular verbs",
       "created": "2026-06-02",
+      "known": false
+    },
+    {
+      "slug": "grammar-reflexivt-verb",
+      "type": "grammar",
+      "title": "reflexivt verb",
+      "path": "knowledge_base/grammar/grammar-reflexivt-verb.md",
+      "body": "# 📗 reflexivt verb — 反身动词 (reflexive verb)\n\n级别: A2\n一句话: 动作的发出者和承受者是同一个人时，用反身代词（mig/dig/sig/oss/er）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主语 + 动词 + 反身代词\njag   tar    mig   (dit)\ndu    tar    dig   (dit)\nhan   tar    sig   (dit)\nvi    tar    oss   (dit)\nni    tar    er    (dit)\nde    tar    sig   (dit)\n```\n\n反身代词变位表：\n\n| Person | Reflexiv |\n|--------|---------|\n| jag | mig |\n| du | dig |\n| han/hon/den/det | sig |\n| vi | oss |\n| ni | er |\n| de | sig |\n\n与中文对比: 中文\"我自己去\"用\"自己\"，瑞典语用独立的反身代词系统。\n与英文对比: 英语 myself/yourself/himself 类似，但瑞典语三四人称统一用 `sig`。\n\n## 详细讲解 (Detail)\n\n常见反身动词：\n- `ta sig dit` — 到达那里（自行前往）\n- `skynda sig` — 赶快\n- `sätta sig` — 坐下\n- `klä sig` — 穿衣\n- `känna sig` — 感觉（情感）\n- `se sig om` — 环顾四周\n\n互相动词（reciprocal）也用同一结构：\n- `vi ses` = we see each other（我们互相看到 → 见面）\n- `vi hörs` = we hear each other（互相联系）\n\n## 例句 (Examples)\n\n- ✅ [[sent-hur-tar-jag-mig-dit]] 🇸🇪 Hur tar jag mig dit? 🇨🇳 我怎么去那里？\n- ✅ [[sent-skynda-dig-lite]] 🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。\n- ✅ [[sent-vi-ses-snart]] 🇸🇪 Vi ses snart. 🇨🇳 待会见。\n- ❌ *Hur tar jag dit?* ← 缺少反身代词 mig\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 忘记加反身代词：*Skynda lite!* → 正确：*Skynda dig lite!*\n- ⚠️ 混淆 `mig/dig/sig`：第三人称统一用 `sig`（他/她/它/他们）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-imperativ]] — 祈使句 + 反身代词（Skynda dig!）",
+      "excerpt": "📗 reflexivt verb — 反身动词 (reflexive verb) 级别: A2 一句话: 动作的发出者和承受者是同一个人时，用反身代词（mig/dig/sig/oss/er）。 规则说明 (Rules) 📐 结构公式: 主语 + 动词 + 反身代词 jag tar mig (dit) du tar dig (dit) han tar sig (dit) vi tar oss (dit) ni tar er (dit)",
+      "links": [
+        "grammar-imperativ",
+        "sent-hur-tar-jag-mig-dit",
+        "sent-skynda-dig-lite",
+        "sent-vi-ses-snart"
+      ],
+      "searchText": "reflexivt verb grammar-reflexivt-verb knowledge_base/grammar/grammar-reflexivt-verb.md ---\ntype: grammar\nname: \"reflexivt verb\"\nzh: \"反身动词\"\nen: \"reflexive verb\"\nlevel: \"A2\"\nrelated:\n  - grammar-imperativ\nexamples:\n  - sent-hur-tar-jag-mig-dit\n  - sent-skynda-dig-lite\n  - sent-vi-ses-snart\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 reflexivt verb — 反身动词 (reflexive verb)\n\n级别: A2\n一句话: 动作的发出者和承受者是同一个人时，用反身代词（mig/dig/sig/oss/er）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主语 + 动词 + 反身代词\njag   tar    mig   (dit)\ndu    tar    dig   (dit)\nhan   tar    sig   (dit)\nvi    tar    oss   (dit)\nni    tar    er    (dit)\nde    tar    sig   (dit)\n```\n\n反身代词变位表：\n\n| Person | Reflexiv |\n|--------|---------|\n| jag | mig |\n| du | dig |\n| han/hon/den/det | sig |\n| vi | oss |\n| ni | er |\n| de | sig |\n\n与中文对比: 中文\"我自己去\"用\"自己\"，瑞典语用独立的反身代词系统。\n与英文对比: 英语 myself/yourself/himself 类似，但瑞典语三四人称统一用 `sig`。\n\n## 详细讲解 (Detail)\n\n常见反身动词：\n- `ta sig dit` — 到达那里（自行前往）\n- `skynda sig` — 赶快\n- `sätta sig` — 坐下\n- `klä sig` — 穿衣\n- `känna sig` — 感觉（情感）\n- `se sig om` — 环顾四周\n\n互相动词（reciprocal）也用同一结构：\n- `vi ses` = we see each other（我们互相看到 → 见面）\n- `vi hörs` = we hear each other（互相联系）\n\n## 例句 (Examples)\n\n- ✅ [[sent-hur-tar-jag-mig-dit]] 🇸🇪 Hur tar jag mig dit? 🇨🇳 我怎么去那里？\n- ✅ [[sent-skynda-dig-lite]] 🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。\n- ✅ [[sent-vi-ses-snart]] 🇸🇪 Vi ses snart. 🇨🇳 待会见。\n- ❌ *Hur tar jag dit?* ← 缺少反身代词 mig\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 忘记加反身代词：*Skynda lite!* → 正确：*Skynda dig lite!*\n- ⚠️ 混淆 `mig/dig/sig`：第三人称统一用 `sig`（他/她/它/他们）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-imperativ]] — 祈使句 + 反身代词（Skynda dig!）\n",
+      "name": "reflexivt verb",
+      "zh": "反身动词",
+      "en": "reflexive verb",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "grammar-riktnings-adverb",
+      "type": "grammar",
+      "title": "riktnings-adverb",
+      "path": "knowledge_base/grammar/grammar-riktnings-adverb.md",
+      "body": "# 📗 riktnings-adverb — 方向副词（dit/där 区别）(directional adverbs)\n\n级别: A2\n一句话: 瑞典语区分\"位置\"和\"方向\"副词：där（在那里，静态）vs dit（去那里，动态/方向）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n位置（静态）      方向（动态）\ndär  — 在那里     dit  — 去那里（朝那里运动）\nhär  — 在这里     hit  — 来这里（朝这里运动）\nhemma — 在家      hem  — 回家（朝家运动）\nborta — 在外/不在  bort — 离开（朝外运动）\n```\n\n与中文对比: 中文用\"在那里\"和\"去那里\"明确区分，瑞典语用不同的副词。\n与英文对比: 英语通常不区分（\"there\"既可表位置也可表方向）；瑞典语必须区分。\n\n## 详细讲解 (Detail)\n\n位置副词 `där`：\n- *Han är **där**.* — 他在那里。（静态位置）\n- *Det är kallt **där**.* — 那里很冷。\n\n方向副词 `dit`：\n- *Hur tar jag mig **dit**?* — 我怎么去那里？（动态，前往）\n- *Vi åker **dit** imorgon.* — 我们明天去那里。\n\n类似对比：\n- `här`（在这里）vs `hit`（来这里）：*Kom **hit**!* — 来这里！\n- `hemma`（在家）vs `hem`（回家）：*Jag går **hem**.* — 我回家了。\n\n## 例句 (Examples)\n\n- ✅ [[sent-hur-tar-jag-mig-dit]] 🇸🇪 Hur tar jag mig dit? 🇨🇳 我怎么去那里？（dit = 方向）\n- ✅ [[sent-ga-mot-soder]] 🇸🇪 Gå mot söder. 🇨🇳 往南走。（mot = 方向介词）\n- ✅ [[sent-vilken-riktning-ska-jag-ga]] 🇸🇪 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？\n- ❌ *Hur tar jag mig där?* ← 错！前往某地要用 dit，不用 där\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混用 `där`/`dit`：*Jag åker **där**.* → 正确：*Jag åker **dit**.*\n- ⚠️ 类似错误：*Kom **här**!* → 正确：*Kom **hit**!*（来这里用 hit）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats-biff]] — 从句中 dit/där 位置不受 BIFF 规则影响\n- 📎 [[grammar-reflexivt-verb]] — `ta sig dit`（方向 + 反身）",
+      "excerpt": "📗 riktnings adverb — 方向副词（dit/där 区别）(directional adverbs) 级别: A2 一句话: 瑞典语区分\"位置\"和\"方向\"副词：där（在那里，静态）vs dit（去那里，动态/方向）。 规则说明 (Rules) 📐 结构公式: 位置（静态） 方向（动态） där — 在那里 dit — 去那里（朝那里运动） här — 在这里 hit — 来这里（朝这里运动） hemma — 在家 ",
+      "links": [
+        "grammar-bisats-biff",
+        "grammar-reflexivt-verb",
+        "sent-ga-mot-soder",
+        "sent-hur-tar-jag-mig-dit",
+        "sent-vilken-riktning-ska-jag-ga"
+      ],
+      "searchText": "riktnings-adverb grammar-riktnings-adverb knowledge_base/grammar/grammar-riktnings-adverb.md ---\ntype: grammar\nname: \"riktnings-adverb\"\nzh: \"方向副词（dit/där 区别）\"\nen: \"directional adverbs (dit vs där)\"\nlevel: \"A2\"\nrelated:\n  - grammar-bisats-biff\n  - grammar-reflexivt-verb\nexamples:\n  - sent-hur-tar-jag-mig-dit\n  - sent-ga-mot-soder\n  - sent-vilken-riktning-ska-jag-ga\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 riktnings-adverb — 方向副词（dit/där 区别）(directional adverbs)\n\n级别: A2\n一句话: 瑞典语区分\"位置\"和\"方向\"副词：där（在那里，静态）vs dit（去那里，动态/方向）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n位置（静态）      方向（动态）\ndär  — 在那里     dit  — 去那里（朝那里运动）\nhär  — 在这里     hit  — 来这里（朝这里运动）\nhemma — 在家      hem  — 回家（朝家运动）\nborta — 在外/不在  bort — 离开（朝外运动）\n```\n\n与中文对比: 中文用\"在那里\"和\"去那里\"明确区分，瑞典语用不同的副词。\n与英文对比: 英语通常不区分（\"there\"既可表位置也可表方向）；瑞典语必须区分。\n\n## 详细讲解 (Detail)\n\n位置副词 `där`：\n- *Han är **där**.* — 他在那里。（静态位置）\n- *Det är kallt **där**.* — 那里很冷。\n\n方向副词 `dit`：\n- *Hur tar jag mig **dit**?* — 我怎么去那里？（动态，前往）\n- *Vi åker **dit** imorgon.* — 我们明天去那里。\n\n类似对比：\n- `här`（在这里）vs `hit`（来这里）：*Kom **hit**!* — 来这里！\n- `hemma`（在家）vs `hem`（回家）：*Jag går **hem**.* — 我回家了。\n\n## 例句 (Examples)\n\n- ✅ [[sent-hur-tar-jag-mig-dit]] 🇸🇪 Hur tar jag mig dit? 🇨🇳 我怎么去那里？（dit = 方向）\n- ✅ [[sent-ga-mot-soder]] 🇸🇪 Gå mot söder. 🇨🇳 往南走。（mot = 方向介词）\n- ✅ [[sent-vilken-riktning-ska-jag-ga]] 🇸🇪 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？\n- ❌ *Hur tar jag mig där?* ← 错！前往某地要用 dit，不用 där\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混用 `där`/`dit`：*Jag åker **där**.* → 正确：*Jag åker **dit**.*\n- ⚠️ 类似错误：*Kom **här**!* → 正确：*Kom **hit**!*（来这里用 hit）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats-biff]] — 从句中 dit/där 位置不受 BIFF 规则影响\n- 📎 [[grammar-reflexivt-verb]] — `ta sig dit`（方向 + 反身）\n",
+      "name": "riktnings-adverb",
+      "zh": "方向副词（dit/där 区别）",
+      "en": "directional adverbs (dit vs där)",
+      "created": "2026-06-03",
       "known": false
     },
     {
@@ -190,6 +271,25 @@ window.KB_DATA = {
       "known": false
     },
     {
+      "slug": "du-kan-inte-missa-den",
+      "type": "phrase",
+      "title": "du kan inte missa den",
+      "path": "knowledge_base/phrases/du-kan-inte-missa-den.md",
+      "body": "# du kan inte missa den\n\n🗣️ 类型: idiom · 语域: vardagligt · 常用度: 4/5\n🇨🇳 你不会错过的 · 🇬🇧 you can't miss it\n📝 字面: you cannot miss it（意为目标非常显眼，不会走错）\n\n## 用法说明 (Usage)\n\n- 问路结束时的惯用语，表示目标地点很显眼、易找。\n- 英瑞直译对应：英语 \"you can't miss it\" = 瑞典语 \"du kan inte missa den\"。\n- `den` 指代之前提到的地点/建筑（阴性/en 词）。\n\n## 短语中的语法 (Grammar inside)\n\n- `kan inte` = cannot（情态动词否定）\n- `missa` → [[missa]]（grupp 1 动词）\n- `den` = 代词，指代 en-词（此处指 skylten/dörren 等）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `det syns tydligt` — 很明显能看到\n- 🔄 `du hittar det lätt` — 你很容易找到\n- 🔗 [[skylt]], [[byggnad]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-du-kan-inte-missa-den]] 🇸🇪 Du kan inte missa den. 🇨🇳 你不会错过的。",
+      "excerpt": "du kan inte missa den 🗣️ 类型: idiom · 语域: vardagligt · 常用度: 4/5 🇨🇳 你不会错过的 · 🇬🇧 you can't miss it 📝 字面: you cannot miss it（意为目标非常显眼，不会走错） 用法说明 (Usage) 问路结束时的惯用语，表示目标地点很显眼、易找。 英瑞直译对应：英语 \"you can't miss it\" = 瑞典语 \"du k",
+      "links": [
+        "byggnad",
+        "missa",
+        "sent-du-kan-inte-missa-den",
+        "skylt"
+      ],
+      "searchText": "du kan inte missa den du-kan-inte-missa-den knowledge_base/phrases/du-kan-inte-missa-den.md ---\ntype: phrase\nphrase: \"du kan inte missa den\"\ncategory: idiom\nregister: vardagligt\nfrequency: 4\nzh: \"你不会错过的\"\nen: \"you can't miss it\"\nliteral: \"you cannot miss it\"\nhead_words:\n  - missa\ngrammar:\n  - grammar-imperativ\nrelated:\n  - rakt-fram\n  - till-vänster\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-du-kan-inte-missa-den\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# du kan inte missa den\n\n🗣️ 类型: idiom · 语域: vardagligt · 常用度: 4/5\n🇨🇳 你不会错过的 · 🇬🇧 you can't miss it\n📝 字面: you cannot miss it（意为目标非常显眼，不会走错）\n\n## 用法说明 (Usage)\n\n- 问路结束时的惯用语，表示目标地点很显眼、易找。\n- 英瑞直译对应：英语 \"you can't miss it\" = 瑞典语 \"du kan inte missa den\"。\n- `den` 指代之前提到的地点/建筑（阴性/en 词）。\n\n## 短语中的语法 (Grammar inside)\n\n- `kan inte` = cannot（情态动词否定）\n- `missa` → [[missa]]（grupp 1 动词）\n- `den` = 代词，指代 en-词（此处指 skylten/dörren 等）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `det syns tydligt` — 很明显能看到\n- 🔄 `du hittar det lätt` — 你很容易找到\n- 🔗 [[skylt]], [[byggnad]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-du-kan-inte-missa-den]] 🇸🇪 Du kan inte missa den. 🇨🇳 你不会错过的。\n",
+      "zh": "你不会错过的",
+      "en": "you can't miss it",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
       "slug": "hälsa-på",
       "type": "phrase",
       "title": "hälsa på",
@@ -219,6 +319,27 @@ window.KB_DATA = {
       "zh": "想出/编造/创造",
       "en": "to come up with, make up, invent",
       "created": "2026-06-02",
+      "known": false
+    },
+    {
+      "slug": "hur-tar-jag-mig-dit",
+      "type": "phrase",
+      "title": "hur tar jag mig dit",
+      "path": "knowledge_base/phrases/hur-tar-jag-mig-dit.md",
+      "body": "# hur tar jag mig dit\n\n🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 5/5\n🇨🇳 我怎么去那里 · 🇬🇧 how do I get there\n📝 字面: how take I myself there（反身动词结构）\n\n## 用法说明 (Usage)\n\n- 问路最核心的句型，相当于英语 \"How do I get there?\"。\n- `ta sig` 是反身动词：*ta sig dit* = 到达那里（含有\"自行前往\"的语义）。\n- 也可说：`Hur kommer jag dit?`（更直接，无反身）或 `Hur åker jag dit?`（坐交通工具）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-reflexivt-verb]] — `ta sig`（反身动词）\n- → [[grammar-riktnings-adverb]] — `dit`（方向副词，去那里）vs `där`（在那里）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `Hur kommer jag dit?` — 更简单的问路方式\n- 🔄 `Hur åker jag dit?` — 坐交通工具去那里\n- 🔗 [[rakt-fram]], [[mot-söder]], [[till-vänster]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hur-tar-jag-mig-dit]] 🇸🇪 Hur tar jag mig dit? 🇨🇳 我怎么去那里？",
+      "excerpt": "hur tar jag mig dit 🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 5/5 🇨🇳 我怎么去那里 · 🇬🇧 how do I get there 📝 字面: how take I myself there（反身动词结构） 用法说明 (Usage) 问路最核心的句型，相当于英语 \"How do I get there?\"。 ta sig 是反身动词： ta sig ",
+      "links": [
+        "grammar-reflexivt-verb",
+        "grammar-riktnings-adverb",
+        "mot-söder",
+        "rakt-fram",
+        "sent-hur-tar-jag-mig-dit",
+        "till-vänster"
+      ],
+      "searchText": "hur tar jag mig dit hur-tar-jag-mig-dit knowledge_base/phrases/hur-tar-jag-mig-dit.md ---\ntype: phrase\nphrase: \"hur tar jag mig dit\"\ncategory: situationsfras\nregister: vardagligt\nfrequency: 5\nzh: \"我怎么去那里\"\nen: \"how do I get there\"\nliteral: \"how take I myself there\"\nhead_words:\n  - ta\n  - dit\ngrammar:\n  - grammar-reflexivt-verb\n  - grammar-riktnings-adverb\nrelated:\n  - rakt-fram\n  - mot-söder\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-hur-tar-jag-mig-dit\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hur tar jag mig dit\n\n🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 5/5\n🇨🇳 我怎么去那里 · 🇬🇧 how do I get there\n📝 字面: how take I myself there（反身动词结构）\n\n## 用法说明 (Usage)\n\n- 问路最核心的句型，相当于英语 \"How do I get there?\"。\n- `ta sig` 是反身动词：*ta sig dit* = 到达那里（含有\"自行前往\"的语义）。\n- 也可说：`Hur kommer jag dit?`（更直接，无反身）或 `Hur åker jag dit?`（坐交通工具）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-reflexivt-verb]] — `ta sig`（反身动词）\n- → [[grammar-riktnings-adverb]] — `dit`（方向副词，去那里）vs `där`（在那里）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `Hur kommer jag dit?` — 更简单的问路方式\n- 🔄 `Hur åker jag dit?` — 坐交通工具去那里\n- 🔗 [[rakt-fram]], [[mot-söder]], [[till-vänster]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hur-tar-jag-mig-dit]] 🇸🇪 Hur tar jag mig dit? 🇨🇳 我怎么去那里？\n",
+      "zh": "我怎么去那里",
+      "en": "how do I get there",
+      "created": "2026-06-03",
       "known": false
     },
     {
@@ -305,6 +426,99 @@ window.KB_DATA = {
       "known": false
     },
     {
+      "slug": "mot-söder",
+      "type": "phrase",
+      "title": "mot söder",
+      "path": "knowledge_base/phrases/mot-söder.md",
+      "body": "# mot söder\n\n🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 往南 · 🇬🇧 towards the south\n📝 字面: towards south\n\n## 用法说明 (Usage)\n\n- 表示方向动作：朝南走/朝南的方向。\n- `mot` 表示\"朝向\"（动态），与 `i söder`（在南方，静态）区别。\n- 类比：`mot norr`（往北）、`mot öster`（往东）、`mot väster`（往西）。\n\n## 短语中的语法 (Grammar inside)\n\n- 介词 `mot`（朝向）+ 基本方向词 `söder`\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `söderut` — 向南（副词，更简洁）\n- 🔄 `mot norr / öster / väster` — 往其他方向\n- 🔗 [[rakt-fram]], [[till-vänster]], [[på-höger-sida]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-ga-mot-soder]] 🇸🇪 Gå mot söder. 🇨🇳 往南走。",
+      "excerpt": "mot söder 🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 4/5 🇨🇳 往南 · 🇬🇧 towards the south 📝 字面: towards south 用法说明 (Usage) 表示方向动作：朝南走/朝南的方向。 mot 表示\"朝向\"（动态），与 i söder （在南方，静态）区别。 类比： mot norr （往北）、 mot öster （往东",
+      "links": [
+        "på-höger-sida",
+        "rakt-fram",
+        "sent-ga-mot-soder",
+        "till-vänster"
+      ],
+      "searchText": "mot söder mot-söder knowledge_base/phrases/mot-söder.md ---\ntype: phrase\nphrase: \"mot söder\"\ncategory: prepositionsuttryck\nregister: vardagligt\nfrequency: 4\nzh: \"往南\"\nen: \"towards the south\"\nliteral: \"towards south\"\nhead_words:\n  - söder\ngrammar: []\nrelated:\n  - rakt-fram\n  - till-vänster\n  - på-höger-sida\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-ga-mot-soder\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mot söder\n\n🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 往南 · 🇬🇧 towards the south\n📝 字面: towards south\n\n## 用法说明 (Usage)\n\n- 表示方向动作：朝南走/朝南的方向。\n- `mot` 表示\"朝向\"（动态），与 `i söder`（在南方，静态）区别。\n- 类比：`mot norr`（往北）、`mot öster`（往东）、`mot väster`（往西）。\n\n## 短语中的语法 (Grammar inside)\n\n- 介词 `mot`（朝向）+ 基本方向词 `söder`\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `söderut` — 向南（副词，更简洁）\n- 🔄 `mot norr / öster / väster` — 往其他方向\n- 🔗 [[rakt-fram]], [[till-vänster]], [[på-höger-sida]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-ga-mot-soder]] 🇸🇪 Gå mot söder. 🇨🇳 往南走。\n",
+      "zh": "往南",
+      "en": "towards the south",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "om-tjugo-minuter",
+      "type": "phrase",
+      "title": "om tjugo minuter",
+      "path": "knowledge_base/phrases/om-tjugo-minuter.md",
+      "body": "# om tjugo minuter\n\n🗣️ 类型: tidsuttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 二十分钟后 · 🇬🇧 in twenty minutes\n📝 字面: in twenty minutes（`om` 在时间语境 = in/after）\n\n## 用法说明 (Usage)\n\n- 表示\"再过…时间\"：`om` + 时间段 = in ... (time from now)。\n- `om fem minuter` — 五分钟后；`om en timme` — 一小时后。\n- 注意：`om` 在此是时间介词，不是连词\"如果\"（需根据语境区分）。\n\n## 短语中的语法 (Grammar inside)\n\n- `om`（时间介词）+ 数词 + 时间名词（minut, timme, dag 等）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `om fem minuter` — 五分钟后\n- 🔄 `om en kvart` — 一刻钟后（15分钟）\n- 🔄 `om en timme` — 一小时后\n- 🔗 [[sedan-sju]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-jag-ar-dar-om-tjugo-minuter]] 🇸🇪 Jag är där om tjugo minuter, lovar! 🇨🇳 我二十分钟后到，保证！",
+      "excerpt": "om tjugo minuter 🗣️ 类型: tidsuttryck · 语域: vardagligt · 常用度: 4/5 🇨🇳 二十分钟后 · 🇬🇧 in twenty minutes 📝 字面: in twenty minutes（ om 在时间语境 = in/after） 用法说明 (Usage) 表示\"再过…时间\"： om + 时间段 = in ... (time from now)。 om fem minute",
+      "links": [
+        "sedan-sju",
+        "sent-jag-ar-dar-om-tjugo-minuter"
+      ],
+      "searchText": "om tjugo minuter om-tjugo-minuter knowledge_base/phrases/om-tjugo-minuter.md ---\ntype: phrase\nphrase: \"om tjugo minuter\"\ncategory: tidsuttryck\nregister: vardagligt\nfrequency: 4\nzh: \"二十分钟后\"\nen: \"in twenty minutes\"\nliteral: \"in twenty minutes\"\nhead_words: []\ngrammar: []\nrelated:\n  - sedan-sju\ntopics: []\nsentences:\n  - sent-jag-ar-dar-om-tjugo-minuter\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# om tjugo minuter\n\n🗣️ 类型: tidsuttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 二十分钟后 · 🇬🇧 in twenty minutes\n📝 字面: in twenty minutes（`om` 在时间语境 = in/after）\n\n## 用法说明 (Usage)\n\n- 表示\"再过…时间\"：`om` + 时间段 = in ... (time from now)。\n- `om fem minuter` — 五分钟后；`om en timme` — 一小时后。\n- 注意：`om` 在此是时间介词，不是连词\"如果\"（需根据语境区分）。\n\n## 短语中的语法 (Grammar inside)\n\n- `om`（时间介词）+ 数词 + 时间名词（minut, timme, dag 等）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `om fem minuter` — 五分钟后\n- 🔄 `om en kvart` — 一刻钟后（15分钟）\n- 🔄 `om en timme` — 一小时后\n- 🔗 [[sedan-sju]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-jag-ar-dar-om-tjugo-minuter]] 🇸🇪 Jag är där om tjugo minuter, lovar! 🇨🇳 我二十分钟后到，保证！\n",
+      "zh": "二十分钟后",
+      "en": "in twenty minutes",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "på-höger-sida",
+      "type": "phrase",
+      "title": "på höger sida",
+      "path": "knowledge_base/phrases/på-höger-sida.md",
+      "body": "# på höger sida\n\n🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 在右边 · 🇬🇧 on the right side\n📝 字面: on the right side\n\n## 用法说明 (Usage)\n\n- 描述某物在右侧的位置：*Dörren är på höger sida.* — 门在右边。\n- 与 `till höger` 相似，但 `på höger sida` 更强调\"在右侧这一边\"。\n- 问路时常用：*Det är på höger sida om ungefär 200 meter.* — 大约200米后在右边。\n\n## 短语中的语法 (Grammar inside)\n\n- 介词 `på` + `höger` (形容词) + `sida` (en)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `till höger` — 向右/在右边（更简短）\n- 🔄 `på höger hand` — 在右手边（口语）\n- 🔗 [[till-vänster]], [[rakt-fram]], [[mot-söder]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。",
+      "excerpt": "på höger sida 🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 4/5 🇨🇳 在右边 · 🇬🇧 on the right side 📝 字面: on the right side 用法说明 (Usage) 描述某物在右侧的位置： Dörren är på höger sida. — 门在右边。 与 till höger 相似，但 på höger sida 更",
+      "links": [
+        "mot-söder",
+        "rakt-fram",
+        "sent-fortsatt-lite-till-gra-dorr",
+        "till-vänster"
+      ],
+      "searchText": "på höger sida på-höger-sida knowledge_base/phrases/på-höger-sida.md ---\ntype: phrase\nphrase: \"på höger sida\"\ncategory: prepositionsuttryck\nregister: vardagligt\nfrequency: 4\nzh: \"在右边\"\nen: \"on the right side\"\nliteral: \"on the right side\"\nhead_words:\n  - höger\ngrammar: []\nrelated:\n  - till-vänster\n  - rakt-fram\n  - mot-söder\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-fortsatt-lite-till-gra-dorr\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# på höger sida\n\n🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 在右边 · 🇬🇧 on the right side\n📝 字面: on the right side\n\n## 用法说明 (Usage)\n\n- 描述某物在右侧的位置：*Dörren är på höger sida.* — 门在右边。\n- 与 `till höger` 相似，但 `på höger sida` 更强调\"在右侧这一边\"。\n- 问路时常用：*Det är på höger sida om ungefär 200 meter.* — 大约200米后在右边。\n\n## 短语中的语法 (Grammar inside)\n\n- 介词 `på` + `höger` (形容词) + `sida` (en)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `till höger` — 向右/在右边（更简短）\n- 🔄 `på höger hand` — 在右手边（口语）\n- 🔗 [[till-vänster]], [[rakt-fram]], [[mot-söder]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n",
+      "zh": "在右边",
+      "en": "on the right side",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "rakt-fram",
+      "type": "phrase",
+      "title": "rakt fram",
+      "path": "knowledge_base/phrases/rakt-fram.md",
+      "body": "# rakt fram\n\n🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 直走 · 🇬🇧 straight ahead\n📝 字面: straight forward\n\n## 用法说明 (Usage)\n\n- 问路最基础的方向短语：*Gå rakt fram* = 直走。\n- `fram` 表示\"向前\"，`rakt` 修饰它表示\"笔直地\"。\n- 也可说 `rakt fram och sedan till vänster`（直走然后向左转）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[rakt]] 副词 + [[fram]] 副词（方向组合）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `gå rakt` — 直走（更简短）\n- 🔄 `fortsätt rakt fram` — 继续直走\n- 🔗 [[till-vänster]], [[på-höger-sida]], [[mot-söder]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。",
+      "excerpt": "rakt fram 🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 5/5 🇨🇳 直走 · 🇬🇧 straight ahead 📝 字面: straight forward 用法说明 (Usage) 问路最基础的方向短语： Gå rakt fram = 直走。 fram 表示\"向前\"， rakt 修饰它表示\"笔直地\"。 也可说 rakt fram och sedan ti",
+      "links": [
+        "fram",
+        "mot-söder",
+        "på-höger-sida",
+        "rakt",
+        "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "till-vänster"
+      ],
+      "searchText": "rakt fram rakt-fram knowledge_base/phrases/rakt-fram.md ---\ntype: phrase\nphrase: \"rakt fram\"\ncategory: prepositionsuttryck\nregister: vardagligt\nfrequency: 5\nzh: \"直走\"\nen: \"straight ahead\"\nliteral: \"straight forward\"\nhead_words:\n  - rakt\ngrammar: []\nrelated:\n  - till-vänster\n  - på-höger-sida\n  - mot-söder\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rakt fram\n\n🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 直走 · 🇬🇧 straight ahead\n📝 字面: straight forward\n\n## 用法说明 (Usage)\n\n- 问路最基础的方向短语：*Gå rakt fram* = 直走。\n- `fram` 表示\"向前\"，`rakt` 修饰它表示\"笔直地\"。\n- 也可说 `rakt fram och sedan till vänster`（直走然后向左转）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[rakt]] 副词 + [[fram]] 副词（方向组合）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `gå rakt` — 直走（更简短）\n- 🔄 `fortsätt rakt fram` — 继续直走\n- 🔗 [[till-vänster]], [[på-höger-sida]], [[mot-söder]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n",
+      "zh": "直走",
+      "en": "straight ahead",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "sedan-sju",
+      "type": "phrase",
+      "title": "sedan sju",
+      "path": "knowledge_base/phrases/sedan-sju.md",
+      "body": "# sedan sju\n\n🗣️ 类型: tidsuttryck · 语域: vardagligt · 常用度: 3/5\n🇨🇳 从七点起 · 🇬🇧 since seven (o'clock)\n📝 字面: since seven（`sedan` = since，省略\"o'clock\"）\n\n## 用法说明 (Usage)\n\n- 口语时间表达，省略具体词：`sedan sju` = sedan klockan sju（从七点起）。\n- `sedan` 在此作介词/连词，表示\"自从\"（= since）。\n- 单独回答时常用：*Sedan sju.* — 从七点开始。（回答\"多久了？\"）\n\n## 短语中的语法 (Grammar inside)\n\n- `sedan`（介词/连词）+ 时间数词\n- 注意：`sedan` 也可作副词\"之后/然后\"（= then/after that），需根据语境区分\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `sedan klockan sju` — 从七点钟起（完整形式）\n- 🔄 `sedan i morse` — 从今早起\n- 🔄 `sen halv åtta` — 从七点半起（口语 sen = sedan）\n- 🔗 [[om-tjugo-minuter]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-sedan-sju]] 🇸🇪 Sedan sju. 🇨🇳 从七点开始。",
+      "excerpt": "sedan sju 🗣️ 类型: tidsuttryck · 语域: vardagligt · 常用度: 3/5 🇨🇳 从七点起 · 🇬🇧 since seven (o'clock) 📝 字面: since seven（ sedan = since，省略\"o'clock\"） 用法说明 (Usage) 口语时间表达，省略具体词： sedan sju = sedan klockan sju（从七点起）。 sedan 在此作介词/",
+      "links": [
+        "om-tjugo-minuter",
+        "sent-sedan-sju"
+      ],
+      "searchText": "sedan sju sedan-sju knowledge_base/phrases/sedan-sju.md ---\ntype: phrase\nphrase: \"sedan sju\"\ncategory: tidsuttryck\nregister: vardagligt\nfrequency: 3\nzh: \"从七点起\"\nen: \"since seven\"\nliteral: \"since seven\"\nhead_words: []\ngrammar: []\nrelated:\n  - om-tjugo-minuter\ntopics: []\nsentences:\n  - sent-sedan-sju\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# sedan sju\n\n🗣️ 类型: tidsuttryck · 语域: vardagligt · 常用度: 3/5\n🇨🇳 从七点起 · 🇬🇧 since seven (o'clock)\n📝 字面: since seven（`sedan` = since，省略\"o'clock\"）\n\n## 用法说明 (Usage)\n\n- 口语时间表达，省略具体词：`sedan sju` = sedan klockan sju（从七点起）。\n- `sedan` 在此作介词/连词，表示\"自从\"（= since）。\n- 单独回答时常用：*Sedan sju.* — 从七点开始。（回答\"多久了？\"）\n\n## 短语中的语法 (Grammar inside)\n\n- `sedan`（介词/连词）+ 时间数词\n- 注意：`sedan` 也可作副词\"之后/然后\"（= then/after that），需根据语境区分\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `sedan klockan sju` — 从七点钟起（完整形式）\n- 🔄 `sedan i morse` — 从今早起\n- 🔄 `sen halv åtta` — 从七点半起（口语 sen = sedan）\n- 🔗 [[om-tjugo-minuter]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-sedan-sju]] 🇸🇪 Sedan sju. 🇨🇳 从七点开始。\n",
+      "zh": "从七点起",
+      "en": "since seven",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
       "slug": "skicka-in",
       "type": "phrase",
       "title": "skicka in",
@@ -318,6 +532,25 @@ window.KB_DATA = {
       "zh": "递交/投稿/上交",
       "en": "to send in, submit",
       "created": "2026-06-02",
+      "known": false
+    },
+    {
+      "slug": "skynda-dig",
+      "type": "phrase",
+      "title": "skynda dig",
+      "path": "knowledge_base/phrases/skynda-dig.md",
+      "body": "# skynda dig\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 快点 · 🇬🇧 hurry up\n📝 字面: hurry yourself（祈使句 + 反身代词）\n\n## 用法说明 (Usage)\n\n- 祈使句 + 反身代词：`skynda` (imperativ) + `dig` (reflexiv, 二人称)。\n- 第三人称：*Han skyndar sig.* — 他在赶紧。\n- 客气版：`Kan du skynda dig lite?` — 你能快一点吗？\n- 更礼貌：`Kan ni skynda er?` — （对多人）你们能快点吗？\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-imperativ]] — 祈使句 skynda!\n- → [[grammar-reflexivt-verb]] — skynda sig（反身动词）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `skynda er!` — 你们快点！（复数 ni 的反身代词）\n- 🔄 `Skynda dig lite.` — 稍微快点（语气较温和）\n- 🔗 [[vi-ses-snart]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-skynda-dig-lite]] 🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。",
+      "excerpt": "skynda dig 🗣️ 类型: fast uttryck · 语域: vardagligt · 常用度: 5/5 🇨🇳 快点 · 🇬🇧 hurry up 📝 字面: hurry yourself（祈使句 + 反身代词） 用法说明 (Usage) 祈使句 + 反身代词： skynda (imperativ) + dig (reflexiv, 二人称)。 第三人称： Han skyndar sig. — 他在赶紧。 客气版：",
+      "links": [
+        "grammar-imperativ",
+        "grammar-reflexivt-verb",
+        "sent-skynda-dig-lite",
+        "vi-ses-snart"
+      ],
+      "searchText": "skynda dig skynda-dig knowledge_base/phrases/skynda-dig.md ---\ntype: phrase\nphrase: \"skynda dig\"\ncategory: fast-uttryck\nregister: vardagligt\nfrequency: 5\nzh: \"快点\"\nen: \"hurry up\"\nliteral: \"hurry yourself\"\nhead_words:\n  - skynda\ngrammar:\n  - grammar-imperativ\n  - grammar-reflexivt-verb\nrelated:\n  - vi-ses-snart\ntopics: []\nsentences:\n  - sent-skynda-dig-lite\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skynda dig\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 快点 · 🇬🇧 hurry up\n📝 字面: hurry yourself（祈使句 + 反身代词）\n\n## 用法说明 (Usage)\n\n- 祈使句 + 反身代词：`skynda` (imperativ) + `dig` (reflexiv, 二人称)。\n- 第三人称：*Han skyndar sig.* — 他在赶紧。\n- 客气版：`Kan du skynda dig lite?` — 你能快一点吗？\n- 更礼貌：`Kan ni skynda er?` — （对多人）你们能快点吗？\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-imperativ]] — 祈使句 skynda!\n- → [[grammar-reflexivt-verb]] — skynda sig（反身动词）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `skynda er!` — 你们快点！（复数 ni 的反身代词）\n- 🔄 `Skynda dig lite.` — 稍微快点（语气较温和）\n- 🔗 [[vi-ses-snart]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-skynda-dig-lite]] 🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。\n",
+      "zh": "快点",
+      "en": "hurry up",
+      "created": "2026-06-03",
       "known": false
     },
     {
@@ -391,6 +624,43 @@ window.KB_DATA = {
       "known": false
     },
     {
+      "slug": "till-vänster",
+      "type": "phrase",
+      "title": "till vänster",
+      "path": "knowledge_base/phrases/till-vänster.md",
+      "body": "# till vänster\n\n🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 在左边 · 🇬🇧 to the left\n📝 字面: to the left\n\n## 用法说明 (Usage)\n\n- 基本方向短语：表示位置在左边，或动作向左转。\n- 位置：*Byggnaden är till vänster.* — 楼在左边。\n- 指示方向：*Sväng till vänster.* — 向左转。\n- 变体：`på vänster sida`（在左侧）意思相同，稍微更精确。\n\n## 短语中的语法 (Grammar inside)\n\n- 介词 `till` + 名词 `vänster`\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `på vänster sida` — 在左侧（更精确）\n- 🔄 `vänster om` — 在…左边\n- 🔗 [[på-höger-sida]], [[rakt-fram]], [[mot-söder]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。",
+      "excerpt": "till vänster 🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 5/5 🇨🇳 在左边 · 🇬🇧 to the left 📝 字面: to the left 用法说明 (Usage) 基本方向短语：表示位置在左边，或动作向左转。 位置： Byggnaden är till vänster. — 楼在左边。 指示方向： Sväng till vänster. — 向",
+      "links": [
+        "mot-söder",
+        "på-höger-sida",
+        "rakt-fram",
+        "sent-du-ser-en-stor-rod-byggnad"
+      ],
+      "searchText": "till vänster till-vänster knowledge_base/phrases/till-vänster.md ---\ntype: phrase\nphrase: \"till vänster\"\ncategory: prepositionsuttryck\nregister: vardagligt\nfrequency: 5\nzh: \"在左边\"\nen: \"to the left\"\nliteral: \"to the left\"\nhead_words:\n  - vänster\ngrammar: []\nrelated:\n  - på-höger-sida\n  - rakt-fram\n  - mot-söder\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-du-ser-en-stor-rod-byggnad\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# till vänster\n\n🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 在左边 · 🇬🇧 to the left\n📝 字面: to the left\n\n## 用法说明 (Usage)\n\n- 基本方向短语：表示位置在左边，或动作向左转。\n- 位置：*Byggnaden är till vänster.* — 楼在左边。\n- 指示方向：*Sväng till vänster.* — 向左转。\n- 变体：`på vänster sida`（在左侧）意思相同，稍微更精确。\n\n## 短语中的语法 (Grammar inside)\n\n- 介词 `till` + 名词 `vänster`\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `på vänster sida` — 在左侧（更精确）\n- 🔄 `vänster om` — 在…左边\n- 🔗 [[på-höger-sida]], [[rakt-fram]], [[mot-söder]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n",
+      "zh": "在左边",
+      "en": "to the left",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "vi-ses-snart",
+      "type": "phrase",
+      "title": "vi ses snart",
+      "path": "knowledge_base/phrases/vi-ses-snart.md",
+      "body": "# vi ses snart\n\n🗣️ 类型: hälsningsfras · 语域: vardagligt · 常用度: 5/5\n🇨🇳 待会见 · 🇬🇧 see you soon\n📝 字面: we see each other soon（`ses` 是反身/互相动词形式）\n\n## 用法说明 (Usage)\n\n- 道别惯用语，非常常见于口语和短信。\n- `ses` = `se` 的现在时反身/互相形式（*se varandra*的简化）。\n- 类比：`vi hörs snart`（我们很快再联系，字面：我们很快互相听到）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-reflexivt-verb]] — `ses`（互相动词，deponens形式）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `vi ses!` — 再见/待会见（不加 snart）\n- 🔄 `vi ses imorgon` — 明天见\n- 🔄 `vi hörs snart` — 我们很快再联系\n- 🔗 [[skynda-dig]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-vi-ses-snart]] 🇸🇪 Vi ses snart. 🇨🇳 待会见。",
+      "excerpt": "vi ses snart 🗣️ 类型: hälsningsfras · 语域: vardagligt · 常用度: 5/5 🇨🇳 待会见 · 🇬🇧 see you soon 📝 字面: we see each other soon（ ses 是反身/互相动词形式） 用法说明 (Usage) 道别惯用语，非常常见于口语和短信。 ses = se 的现在时反身/互相形式（ se varandra 的简化）。 类比： vi hör",
+      "links": [
+        "grammar-reflexivt-verb",
+        "sent-vi-ses-snart",
+        "skynda-dig"
+      ],
+      "searchText": "vi ses snart vi-ses-snart knowledge_base/phrases/vi-ses-snart.md ---\ntype: phrase\nphrase: \"vi ses snart\"\ncategory: hälsningsfras\nregister: vardagligt\nfrequency: 5\nzh: \"待会见\"\nen: \"see you soon\"\nliteral: \"we see each other soon\"\nhead_words:\n  - snart\ngrammar:\n  - grammar-reflexivt-verb\nrelated:\n  - skynda-dig\ntopics: []\nsentences:\n  - sent-vi-ses-snart\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vi ses snart\n\n🗣️ 类型: hälsningsfras · 语域: vardagligt · 常用度: 5/5\n🇨🇳 待会见 · 🇬🇧 see you soon\n📝 字面: we see each other soon（`ses` 是反身/互相动词形式）\n\n## 用法说明 (Usage)\n\n- 道别惯用语，非常常见于口语和短信。\n- `ses` = `se` 的现在时反身/互相形式（*se varandra*的简化）。\n- 类比：`vi hörs snart`（我们很快再联系，字面：我们很快互相听到）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-reflexivt-verb]] — `ses`（互相动词，deponens形式）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `vi ses!` — 再见/待会见（不加 snart）\n- 🔄 `vi ses imorgon` — 明天见\n- 🔄 `vi hörs snart` — 我们很快再联系\n- 🔗 [[skynda-dig]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-vi-ses-snart]] 🇸🇪 Vi ses snart. 🇨🇳 待会见。\n",
+      "zh": "待会见",
+      "en": "see you soon",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
       "slug": "sent-de-forstod-ocksa-att-barn-behover-leka",
       "type": "sentence",
       "title": "🇸🇪 De förstod också att barn behöver leka för att må bra.",
@@ -428,6 +698,42 @@ window.KB_DATA = {
       "created": "2026-06-02"
     },
     {
+      "slug": "sent-du-kan-inte-missa-den",
+      "type": "sentence",
+      "title": "🇸🇪 Du kan inte missa den.",
+      "path": "knowledge_base/sentences/sent-du-kan-inte-missa-den.md",
+      "body": "# 🇸🇪 Du kan inte missa den.\n\n🇨🇳 你不会错过的。\n\n## 结构 (Structure)\n\n```\n[Du]  [kan inte]  [missa]  [den]\n 主   情态否定      动词     代词宾语\n```\n\n`kan inte` = cannot；`den` 代指之前提到的招牌（en-词）。\n\n## 语法点 (Grammar)\n\n- 情态动词否定：`kan inte + infinitiv`（cannot + V）\n- `den` 指代 en-词（skylten / dörren）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[missa]]\n- 词组: [[du-kan-inte-missa-den]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Du kan inte missa den. 🇨🇳 你不会错过的。 结构 (Structure) [Du] [kan inte] [missa] [den] 主 情态否定 动词 代词宾语 kan inte = cannot； den 代指之前提到的招牌（en 词）。 语法点 (Grammar) 情态动词否定： kan inte + infinitiv （cannot + V） den 指代 en 词（skylten / d",
+      "links": [
+        "du-kan-inte-missa-den",
+        "missa",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Du kan inte missa den. sent-du-kan-inte-missa-den knowledge_base/sentences/sent-du-kan-inte-missa-den.md ---\ntype: sentence\nsentence: \"Du kan inte missa den.\"\nzh: \"你不会错过的。\"\ncefr: \"A2\"\nwords:\n  - missa\nphrases:\n  - du-kan-inte-missa-den\ngrammar: []\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Du kan inte missa den.\n\n🇨🇳 你不会错过的。\n\n## 结构 (Structure)\n\n```\n[Du]  [kan inte]  [missa]  [den]\n 主   情态否定      动词     代词宾语\n```\n\n`kan inte` = cannot；`den` 代指之前提到的招牌（en-词）。\n\n## 语法点 (Grammar)\n\n- 情态动词否定：`kan inte + infinitiv`（cannot + V）\n- `den` 指代 en-词（skylten / dörren）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[missa]]\n- 词组: [[du-kan-inte-missa-den]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "你不会错过的。",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-du-ser-en-stor-rod-byggnad",
+      "type": "sentence",
+      "title": "🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället.",
+      "path": "knowledge_base/sentences/sent-du-ser-en-stor-rod-byggnad.md",
+      "body": "# 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället.\n\n🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 结构 (Structure)\n\n```\n[Du]  [ser]  [en stor röd byggnad]  [till vänster]  —  [det]  [är inte]  [det rätta stället]\n 主   动词         宾语（形容词链）      方向短语          指代   否定         正确地点（否定）\n```\n\n两个分句用破折号连接，对比参照物（错误地标）和目的地。\n\n## 语法点 (Grammar)\n\n- 形容词叠加：`en stor röd byggnad`（stor + röd 均为 utrum 不定形）\n- `rätta` 是 rätt 的定形复数/特指形（bestämd form）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[röd]], [[byggnad]], [[vänster]]\n- 词组: [[till-vänster]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。 结构 (Structure) [Du] [ser] [en stor röd byggnad] [till vänster] — [det] [är inte] [det rätta stället] 主 动词 宾语（形容词链）",
+      "links": [
+        "byggnad",
+        "röd",
+        "source-2026-06-03-fraga-vagen-pub",
+        "till-vänster",
+        "vänster"
+      ],
+      "searchText": "🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. sent-du-ser-en-stor-rod-byggnad knowledge_base/sentences/sent-du-ser-en-stor-rod-byggnad.md ---\ntype: sentence\nsentence: \"Du ser en stor röd byggnad till vänster — det är inte det rätta stället.\"\nzh: \"你会看到左边有一栋大红楼——那不是对的地方。\"\ncefr: \"A2\"\nwords:\n  - röd\n  - byggnad\n  - vänster\nphrases:\n  - till-vänster\ngrammar: []\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället.\n\n🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 结构 (Structure)\n\n```\n[Du]  [ser]  [en stor röd byggnad]  [till vänster]  —  [det]  [är inte]  [det rätta stället]\n 主   动词         宾语（形容词链）      方向短语          指代   否定         正确地点（否定）\n```\n\n两个分句用破折号连接，对比参照物（错误地标）和目的地。\n\n## 语法点 (Grammar)\n\n- 形容词叠加：`en stor röd byggnad`（stor + röd 均为 utrum 不定形）\n- `rätta` 是 rätt 的定形复数/特指形（bestämd form）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[röd]], [[byggnad]], [[vänster]]\n- 词组: [[till-vänster]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "你会看到左边有一栋大红楼——那不是对的地方。",
+      "created": "2026-06-03"
+    },
+    {
       "slug": "sent-eftersom-astrid-var-ensam-kunde-hon",
       "type": "sentence",
       "title": "🇸🇪 Eftersom Astrid var ensam kunde hon inte ta hand om barnet själv.",
@@ -448,6 +754,130 @@ window.KB_DATA = {
       "created": "2026-06-02"
     },
     {
+      "slug": "sent-finns-det-en-skylt",
+      "type": "sentence",
+      "title": "🇸🇪 Finns det en skylt?",
+      "path": "knowledge_base/sentences/sent-finns-det-en-skylt.md",
+      "body": "# 🇸🇪 Finns det en skylt?\n\n🇨🇳 有招牌吗？\n\n## 结构 (Structure)\n\n```\n[Finns]  [det]  [en skylt]?\n  动词    虚主    真主语\n```\n\n存在疑问句：`finns det` = is there（有没有）。\n\n## 语法点 (Grammar)\n\n- 存在疑问句：`Finns det + en/ett + 名词?` = Is there a ...?\n- 区别：`Är det en skylt?`（那是招牌吗？）vs `Finns det en skylt?`（有招牌吗？）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skylt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Finns det en skylt? 🇨🇳 有招牌吗？ 结构 (Structure) [Finns] [det] [en skylt]? 动词 虚主 真主语 存在疑问句： finns det = is there（有没有）。 语法点 (Grammar) 存在疑问句： Finns det + en/ett + 名词? = Is there a ...? 区别： Är det en skylt? （那是招牌吗？）vs Fin",
+      "links": [
+        "skylt",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Finns det en skylt? sent-finns-det-en-skylt knowledge_base/sentences/sent-finns-det-en-skylt.md ---\ntype: sentence\nsentence: \"Finns det en skylt?\"\nzh: \"有招牌吗？\"\ncefr: \"A2\"\nwords:\n  - skylt\nphrases: []\ngrammar: []\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics: []\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Finns det en skylt?\n\n🇨🇳 有招牌吗？\n\n## 结构 (Structure)\n\n```\n[Finns]  [det]  [en skylt]?\n  动词    虚主    真主语\n```\n\n存在疑问句：`finns det` = is there（有没有）。\n\n## 语法点 (Grammar)\n\n- 存在疑问句：`Finns det + en/ett + 名词?` = Is there a ...?\n- 区别：`Är det en skylt?`（那是招牌吗？）vs `Finns det en skylt?`（有招牌吗？）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skylt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "有招牌吗？",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-fortsatt-lite-till-gra-dorr",
+      "type": "sentence",
+      "title": "🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida.",
+      "path": "knowledge_base/sentences/sent-fortsatt-lite-till-gra-dorr.md",
+      "body": "# 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida.\n\n🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 结构 (Structure)\n\n```\n[Fortsätt]  [lite till],  [det är]  [en grå dörr]  [på höger sida]\n   祈使         小量副词     存在句     描述（颜色+名词）    位置短语\n```\n\n`lite till` = \"再多一点点\"（继续走一小段）。\n`det är` + 不定冠词 = 存在句（那里有一个…）。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-imperativ]] — `Fortsätt` = imperativ of fortsätta\n- 存在句结构：`det är en grå dörr` = there is a grey door\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[grå]], [[höger]]\n- 词组: [[på-höger-sida]]\n- 注意：[[fortsätta]]（DUP，已存在）在此出现为祈使形 Fortsätt\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。 结构 (Structure) [Fortsätt] [lite till], [det är] [en grå dörr] [på höger sida] 祈使 小量副词 存在句 描述（颜色+名词） 位置短语 lite till = \"再多一点点\"（继续走一小段）。 det ",
+      "links": [
+        "fortsätta",
+        "grå",
+        "grammar-imperativ",
+        "höger",
+        "på-höger-sida",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. sent-fortsatt-lite-till-gra-dorr knowledge_base/sentences/sent-fortsatt-lite-till-gra-dorr.md ---\ntype: sentence\nsentence: \"Fortsätt lite till, det är en grå dörr på höger sida.\"\nzh: \"再往前走一点，右边有一扇灰色的门。\"\ncefr: \"A2\"\nwords:\n  - grå\n  - höger\nphrases:\n  - på-höger-sida\ngrammar:\n  - grammar-imperativ\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida.\n\n🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 结构 (Structure)\n\n```\n[Fortsätt]  [lite till],  [det är]  [en grå dörr]  [på höger sida]\n   祈使         小量副词     存在句     描述（颜色+名词）    位置短语\n```\n\n`lite till` = \"再多一点点\"（继续走一小段）。\n`det är` + 不定冠词 = 存在句（那里有一个…）。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-imperativ]] — `Fortsätt` = imperativ of fortsätta\n- 存在句结构：`det är en grå dörr` = there is a grey door\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[grå]], [[höger]]\n- 词组: [[på-höger-sida]]\n- 注意：[[fortsätta]]（DUP，已存在）在此出现为祈使形 Fortsätt\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "再往前走一点，右边有一扇灰色的门。",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-ga-mot-soder",
+      "type": "sentence",
+      "title": "🇸🇪 Gå mot söder.",
+      "path": "knowledge_base/sentences/sent-ga-mot-soder.md",
+      "body": "# 🇸🇪 Gå mot söder.\n\n🇨🇳 往南走。\n\n## 结构 (Structure)\n\n```\n[Gå]  [mot söder]\n 祈使    方向介词短语\n```\n\n最简洁的方向祈使句：imperativ + 方向短语。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-imperativ]] — `Gå` 是 gå 的祈使形（词干 = 原形）\n- 📌 [[grammar-riktnings-adverb]] — `mot söder` 动态方向（朝南走）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[söder]]\n- 词组: [[mot-söder]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Gå mot söder. 🇨🇳 往南走。 结构 (Structure) [Gå] [mot söder] 祈使 方向介词短语 最简洁的方向祈使句：imperativ + 方向短语。 语法点 (Grammar) 📌 grammar imperativ — Gå 是 gå 的祈使形（词干 = 原形） 📌 grammar riktnings adverb — mot söder 动态方向（朝南走） 生词 & 词组 (Wor",
+      "links": [
+        "grammar-imperativ",
+        "grammar-riktnings-adverb",
+        "mot-söder",
+        "söder",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Gå mot söder. sent-ga-mot-soder knowledge_base/sentences/sent-ga-mot-soder.md ---\ntype: sentence\nsentence: \"Gå mot söder.\"\nzh: \"往南走。\"\ncefr: \"A2\"\nwords:\n  - söder\nphrases:\n  - mot-söder\ngrammar:\n  - grammar-imperativ\n  - grammar-riktnings-adverb\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Gå mot söder.\n\n🇨🇳 往南走。\n\n## 结构 (Structure)\n\n```\n[Gå]  [mot söder]\n 祈使    方向介词短语\n```\n\n最简洁的方向祈使句：imperativ + 方向短语。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-imperativ]] — `Gå` 是 gå 的祈使形（词干 = 原形）\n- 📌 [[grammar-riktnings-adverb]] — `mot söder` 动态方向（朝南走）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[söder]]\n- 词组: [[mot-söder]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "往南走。",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-hur-lange-har-ni-varit-dar",
+      "type": "sentence",
+      "title": "🇸🇪 Hur länge har ni varit där?",
+      "path": "knowledge_base/sentences/sent-hur-lange-har-ni-varit-dar.md",
+      "body": "# 🇸🇪 Hur länge har ni varit där?\n\n🇨🇳 你们在那里多久了？\n\n## 结构 (Structure)\n\n```\n[Hur länge]  [har]  [ni]  [varit]  [där]?\n  疑问词组     助动词  主语   过去分词   位置副词\n```\n\n现在完成时疑问句（Hur länge + perfekt = How long have you been ...?）\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-riktnings-adverb]] — `där`（在那里，静态位置）vs `dit`（去那里，动态）\n- 现在完成时：`har + varit`（vara 的 supinum）\n- `hur länge` = how long（时间长度）\n\n## 生词 & 词组 (Words & Phrases)\n\n（常用词汇：har, ni, varit, där）\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Hur länge har ni varit där? 🇨🇳 你们在那里多久了？ 结构 (Structure) [Hur länge] [har] [ni] [varit] [där]? 疑问词组 助动词 主语 过去分词 位置副词 现在完成时疑问句（Hur länge + perfekt = How long have you been ...?） 语法点 (Grammar) 📌 grammar riktnings ad",
+      "links": [
+        "grammar-riktnings-adverb",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Hur länge har ni varit där? sent-hur-lange-har-ni-varit-dar knowledge_base/sentences/sent-hur-lange-har-ni-varit-dar.md ---\ntype: sentence\nsentence: \"Hur länge har ni varit där?\"\nzh: \"你们在那里多久了？\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-riktnings-adverb\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics: []\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hur länge har ni varit där?\n\n🇨🇳 你们在那里多久了？\n\n## 结构 (Structure)\n\n```\n[Hur länge]  [har]  [ni]  [varit]  [där]?\n  疑问词组     助动词  主语   过去分词   位置副词\n```\n\n现在完成时疑问句（Hur länge + perfekt = How long have you been ...?）\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-riktnings-adverb]] — `där`（在那里，静态位置）vs `dit`（去那里，动态）\n- 现在完成时：`har + varit`（vara 的 supinum）\n- `hur länge` = how long（时间长度）\n\n## 生词 & 词组 (Words & Phrases)\n\n（常用词汇：har, ni, varit, där）\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "B1",
+      "zh": "你们在那里多久了？",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-hur-tar-jag-mig-dit",
+      "type": "sentence",
+      "title": "🇸🇪 Hur tar jag mig dit?",
+      "path": "knowledge_base/sentences/sent-hur-tar-jag-mig-dit.md",
+      "body": "# 🇸🇪 Hur tar jag mig dit?\n\n🇨🇳 我怎么去那里？\n\n## 结构 (Structure)\n\n```\n[Hur]  [tar]   [jag]  [mig]    [dit]?\n 疑问   动词    主语   反身代词   方向副词\n```\n\nV2 结构 + 反身动词 `ta sig` + 方向副词 `dit`。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-reflexivt-verb]] — `ta sig`（反身动词，我自行到达）\n- 📌 [[grammar-riktnings-adverb]] — `dit`（方向，去那里）vs `där`（在那里）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[hur-tar-jag-mig-dit]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Hur tar jag mig dit? 🇨🇳 我怎么去那里？ 结构 (Structure) [Hur] [tar] [jag] [mig] [dit]? 疑问 动词 主语 反身代词 方向副词 V2 结构 + 反身动词 ta sig + 方向副词 dit 。 语法点 (Grammar) 📌 grammar reflexivt verb — ta sig （反身动词，我自行到达） 📌 grammar riktnings ",
+      "links": [
+        "grammar-reflexivt-verb",
+        "grammar-riktnings-adverb",
+        "hur-tar-jag-mig-dit",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Hur tar jag mig dit? sent-hur-tar-jag-mig-dit knowledge_base/sentences/sent-hur-tar-jag-mig-dit.md ---\ntype: sentence\nsentence: \"Hur tar jag mig dit?\"\nzh: \"我怎么去那里？\"\ncefr: \"A2\"\nwords: []\nphrases:\n  - hur-tar-jag-mig-dit\ngrammar:\n  - grammar-reflexivt-verb\n  - grammar-riktnings-adverb\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hur tar jag mig dit?\n\n🇨🇳 我怎么去那里？\n\n## 结构 (Structure)\n\n```\n[Hur]  [tar]   [jag]  [mig]    [dit]?\n 疑问   动词    主语   反身代词   方向副词\n```\n\nV2 结构 + 反身动词 `ta sig` + 方向副词 `dit`。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-reflexivt-verb]] — `ta sig`（反身动词，我自行到达）\n- 📌 [[grammar-riktnings-adverb]] — `dit`（方向，去那里）vs `där`（在那里）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[hur-tar-jag-mig-dit]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "我怎么去那里？",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-ja-det-hanger-en-liten-svart-skylt",
+      "type": "sentence",
+      "title": "🇸🇪 Ja, det hänger en liten svart skylt utanför.",
+      "path": "knowledge_base/sentences/sent-ja-det-hanger-en-liten-svart-skylt.md",
+      "body": "# 🇸🇪 Ja, det hänger en liten svart skylt utanför.\n\n🇨🇳 有，外面挂着一块小黑牌。\n\n## 结构 (Structure)\n\n```\n[Ja], [det]  [hänger]  [en liten svart skylt]  [utanför]\n       虚主   动词           真主语（形容词链）      地点副词\n```\n\n存在句：`det hänger` = there hangs（那里挂着）。真主语 `en skylt` 后置。\n\n## 语法点 (Grammar)\n\n- 存在句后置真主语：`det hänger en skylt` — 注意动词 `hänger` 在前，真主语在后\n- 形容词叠加：`en liten svart skylt`（liten + svart 均为 utrum 不定形）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skylt]], [[hänga]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。 结构 (Structure) [Ja], [det] [hänger] [en liten svart skylt] [utanför] 虚主 动词 真主语（形容词链） 地点副词 存在句： det hänger = there hangs（那里挂着）。真主语 en skylt 后置。 语法点 (Gram",
+      "links": [
+        "hänga",
+        "skylt",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Ja, det hänger en liten svart skylt utanför. sent-ja-det-hanger-en-liten-svart-skylt knowledge_base/sentences/sent-ja-det-hanger-en-liten-svart-skylt.md ---\ntype: sentence\nsentence: \"Ja, det hänger en liten svart skylt utanför.\"\nzh: \"有，外面挂着一块小黑牌。\"\ncefr: \"A2\"\nwords:\n  - skylt\n  - hänga\nphrases: []\ngrammar: []\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics: []\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ja, det hänger en liten svart skylt utanför.\n\n🇨🇳 有，外面挂着一块小黑牌。\n\n## 结构 (Structure)\n\n```\n[Ja], [det]  [hänger]  [en liten svart skylt]  [utanför]\n       虚主   动词           真主语（形容词链）      地点副词\n```\n\n存在句：`det hänger` = there hangs（那里挂着）。真主语 `en skylt` 后置。\n\n## 语法点 (Grammar)\n\n- 存在句后置真主语：`det hänger en skylt` — 注意动词 `hänger` 在前，真主语在后\n- 形容词叠加：`en liten svart skylt`（liten + svart 均为 utrum 不定形）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skylt]], [[hänga]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "有，外面挂着一块小黑牌。",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-jag-ar-dar-om-tjugo-minuter",
+      "type": "sentence",
+      "title": "🇸🇪 Jag är där om tjugo minuter, lovar!",
+      "path": "knowledge_base/sentences/sent-jag-ar-dar-om-tjugo-minuter.md",
+      "body": "# 🇸🇪 Jag är där om tjugo minuter, lovar!\n\n🇨🇳 我二十分钟后到，保证！\n\n## 结构 (Structure)\n\n```\n[Jag]  [är]  [där]  [om tjugo minuter],  [lovar]!\n 主    动词   位置副词   时间短语（20分钟后）   独立感叹（保证）\n```\n\n`lovar!` 独立使用，等于英语 \"I promise!\"（省略主语 jag）。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-riktnings-adverb]] — `där`（在那里，说话者届时会在那里，静态）\n- `om + 时间段` = in ... (time)（再过多少时间）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lova]]\n- 词组: [[om-tjugo-minuter]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Jag är där om tjugo minuter, lovar! 🇨🇳 我二十分钟后到，保证！ 结构 (Structure) [Jag] [är] [där] [om tjugo minuter], [lovar]! 主 动词 位置副词 时间短语（20分钟后） 独立感叹（保证） lovar! 独立使用，等于英语 \"I promise!\"（省略主语 jag）。 语法点 (Grammar) 📌 grammar rikt",
+      "links": [
+        "grammar-riktnings-adverb",
+        "lova",
+        "om-tjugo-minuter",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Jag är där om tjugo minuter, lovar! sent-jag-ar-dar-om-tjugo-minuter knowledge_base/sentences/sent-jag-ar-dar-om-tjugo-minuter.md ---\ntype: sentence\nsentence: \"Jag är där om tjugo minuter, lovar!\"\nzh: \"我二十分钟后到，保证！\"\ncefr: \"A2\"\nwords:\n  - lova\nphrases:\n  - om-tjugo-minuter\ngrammar:\n  - grammar-riktnings-adverb\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics: []\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Jag är där om tjugo minuter, lovar!\n\n🇨🇳 我二十分钟后到，保证！\n\n## 结构 (Structure)\n\n```\n[Jag]  [är]  [där]  [om tjugo minuter],  [lovar]!\n 主    动词   位置副词   时间短语（20分钟后）   独立感叹（保证）\n```\n\n`lovar!` 独立使用，等于英语 \"I promise!\"（省略主语 jag）。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-riktnings-adverb]] — `där`（在那里，说话者届时会在那里，静态）\n- `om + 时间段` = in ... (time)（再过多少时间）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lova]]\n- 词组: [[om-tjugo-minuter]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "我二十分钟后到，保证！",
+      "created": "2026-06-03"
+    },
+    {
       "slug": "sent-jag-arbetar-pa-ett-sjukhus",
       "type": "sentence",
       "title": "🇸🇪 Jag arbetar på ett sjukhus.",
@@ -463,6 +893,178 @@ window.KB_DATA = {
       "cefr": "A1",
       "zh": "我在一家医院工作。",
       "created": "2026-06-02"
+    },
+    {
+      "slug": "sent-sedan-sju",
+      "type": "sentence",
+      "title": "🇸🇪 Sedan sju.",
+      "path": "knowledge_base/sentences/sent-sedan-sju.md",
+      "body": "# 🇸🇪 Sedan sju.\n\n🇨🇳 从七点开始。\n\n## 结构 (Structure)\n\n```\n[Sedan]  [sju]\n  介词     时间数词（省略 klockan）\n```\n\n省略句：回答 `Hur länge har ni varit där?`，完整形式为 `Sedan klockan sju.`\n\n## 语法点 (Grammar)\n\n- `sedan` 作介词 = since（自从）；省略 `klockan`（点钟）是口语习惯\n- 对比：`sedan` 作副词/连词 = then/after that（然后）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[sedan-sju]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Sedan sju. 🇨🇳 从七点开始。 结构 (Structure) [Sedan] [sju] 介词 时间数词（省略 klockan） 省略句：回答 Hur länge har ni varit där? ，完整形式为 Sedan klockan sju. 语法点 (Grammar) sedan 作介词 = since（自从）；省略 klockan （点钟）是口语习惯 对比： sedan 作副词/连词 = then/a",
+      "links": [
+        "sedan-sju",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Sedan sju. sent-sedan-sju knowledge_base/sentences/sent-sedan-sju.md ---\ntype: sentence\nsentence: \"Sedan sju.\"\nzh: \"从七点开始。\"\ncefr: \"A2\"\nwords: []\nphrases:\n  - sedan-sju\ngrammar: []\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics: []\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Sedan sju.\n\n🇨🇳 从七点开始。\n\n## 结构 (Structure)\n\n```\n[Sedan]  [sju]\n  介词     时间数词（省略 klockan）\n```\n\n省略句：回答 `Hur länge har ni varit där?`，完整形式为 `Sedan klockan sju.`\n\n## 语法点 (Grammar)\n\n- `sedan` 作介词 = since（自从）；省略 `klockan`（点钟）是口语习惯\n- 对比：`sedan` 作副词/连词 = then/after that（然后）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[sedan-sju]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "从七点开始。",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-sen-gar-du-rakt-fram-langs-vattnet",
+      "type": "sentence",
+      "title": "🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter.",
+      "path": "knowledge_base/sentences/sent-sen-gar-du-rakt-fram-langs-vattnet.md",
+      "body": "# 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter.\n\n🇨🇳 然后沿着水边直走大约五分钟。\n\n## 结构 (Structure)\n\n```\n[Sen]  [går]  [du]  [rakt fram]  [längs vattnet]  [i ungefär fem minuter]\n 时间   动词   主语   方向短语       沿着水边           大约五分钟\n```\n\n`sen`（= sedan）开头，倒装：动词 `går` 第二位，主语 `du` 紧随。\n\n## 语法点 (Grammar)\n\n- V2 倒装：时间副词 `sen` 首位 → 动词前置\n- 时间量词：`i ungefär fem minuter`（大约五分钟）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[rakt]], [[längs]], [[vatten]]\n- 词组: [[rakt-fram]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。 结构 (Structure) [Sen] [går] [du] [rakt fram] [längs vattnet] [i ungefär fem minuter] 时间 动词 主语 方向短语 沿着水边 大约五分钟 sen （= sedan）开头，倒装：动词 går 第二",
+      "links": [
+        "längs",
+        "rakt",
+        "rakt-fram",
+        "source-2026-06-03-fraga-vagen-pub",
+        "vatten"
+      ],
+      "searchText": "🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. sent-sen-gar-du-rakt-fram-langs-vattnet knowledge_base/sentences/sent-sen-gar-du-rakt-fram-langs-vattnet.md ---\ntype: sentence\nsentence: \"Sen går du rakt fram längs vattnet i ungefär fem minuter.\"\nzh: \"然后沿着水边直走大约五分钟。\"\ncefr: \"A2\"\nwords:\n  - rakt\n  - längs\n  - vatten\nphrases:\n  - rakt-fram\ngrammar: []\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter.\n\n🇨🇳 然后沿着水边直走大约五分钟。\n\n## 结构 (Structure)\n\n```\n[Sen]  [går]  [du]  [rakt fram]  [längs vattnet]  [i ungefär fem minuter]\n 时间   动词   主语   方向短语       沿着水边           大约五分钟\n```\n\n`sen`（= sedan）开头，倒装：动词 `går` 第二位，主语 `du` 紧随。\n\n## 语法点 (Grammar)\n\n- V2 倒装：时间副词 `sen` 首位 → 动词前置\n- 时间量词：`i ungefär fem minuter`（大约五分钟）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[rakt]], [[längs]], [[vatten]]\n- 词组: [[rakt-fram]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "然后沿着水边直走大约五分钟。",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-skynda-dig-lite",
+      "type": "sentence",
+      "title": "🇸🇪 Skynda dig lite.",
+      "path": "knowledge_base/sentences/sent-skynda-dig-lite.md",
+      "body": "# 🇸🇪 Skynda dig lite.\n\n🇨🇳 稍微快点。\n\n## 结构 (Structure)\n\n```\n[Skynda]  [dig]   [lite]\n  祈使     反身     程度副词（稍微）\n```\n\n祈使句 + 反身代词 + 程度缓和词 `lite`（使语气更温和）。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-imperativ]] — `Skynda` = imperativ of skynda\n- 📌 [[grammar-reflexivt-verb]] — `dig` = 反身代词（二人称）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skynda]]\n- 词组: [[skynda-dig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。 结构 (Structure) [Skynda] [dig] [lite] 祈使 反身 程度副词（稍微） 祈使句 + 反身代词 + 程度缓和词 lite （使语气更温和）。 语法点 (Grammar) 📌 grammar imperativ — Skynda = imperativ of skynda 📌 grammar reflexivt verb — dig = 反",
+      "links": [
+        "grammar-imperativ",
+        "grammar-reflexivt-verb",
+        "skynda",
+        "skynda-dig",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Skynda dig lite. sent-skynda-dig-lite knowledge_base/sentences/sent-skynda-dig-lite.md ---\ntype: sentence\nsentence: \"Skynda dig lite.\"\nzh: \"稍微快点。\"\ncefr: \"A2\"\nwords:\n  - skynda\nphrases:\n  - skynda-dig\ngrammar:\n  - grammar-imperativ\n  - grammar-reflexivt-verb\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics: []\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Skynda dig lite.\n\n🇨🇳 稍微快点。\n\n## 结构 (Structure)\n\n```\n[Skynda]  [dig]   [lite]\n  祈使     反身     程度副词（稍微）\n```\n\n祈使句 + 反身代词 + 程度缓和词 `lite`（使语气更温和）。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-imperativ]] — `Skynda` = imperativ of skynda\n- 📌 [[grammar-reflexivt-verb]] — `dig` = 反身代词（二人称）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skynda]]\n- 词组: [[skynda-dig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "稍微快点。",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-ta-tunnelbanan-till-slussen",
+      "type": "sentence",
+      "title": "🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14.",
+      "path": "knowledge_base/sentences/sent-ta-tunnelbanan-till-slussen.md",
+      "body": "# 🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14.\n\n🇨🇳 坐地铁到斯鲁森站，13或14号线。\n\n## 结构 (Structure)\n\n```\n[Ta]  [tunnelbanan]  [till Slussen],  [linje 13 eller 14]\n 祈使  宾语（定形）     方向介词短语       附加说明（线路号）\n```\n\n祈使句：`Ta` (imperativ of ta) 开头，给出方向指示。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-imperativ]] — `Ta` = 拿/坐（imperativ），指示乘坐交通工具\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tunnelbana]], [[linje]]\n- `tunnelbanan` = tunnelbana（定形，en-词）\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14. 🇨🇳 坐地铁到斯鲁森站，13或14号线。 结构 (Structure) [Ta] [tunnelbanan] [till Slussen], [linje 13 eller 14] 祈使 宾语（定形） 方向介词短语 附加说明（线路号） 祈使句： Ta (imperativ of ta) 开头，给出方向指示。 语法点 (Gramm",
+      "links": [
+        "grammar-imperativ",
+        "linje",
+        "source-2026-06-03-fraga-vagen-pub",
+        "tunnelbana"
+      ],
+      "searchText": "🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14. sent-ta-tunnelbanan-till-slussen knowledge_base/sentences/sent-ta-tunnelbanan-till-slussen.md ---\ntype: sentence\nsentence: \"Ta tunnelbanan till Slussen, linje 13 eller 14.\"\nzh: \"坐地铁到斯鲁森站，13或14号线。\"\ncefr: \"A2\"\nwords:\n  - tunnelbana\n  - linje\nphrases: []\ngrammar:\n  - grammar-imperativ\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14.\n\n🇨🇳 坐地铁到斯鲁森站，13或14号线。\n\n## 结构 (Structure)\n\n```\n[Ta]  [tunnelbanan]  [till Slussen],  [linje 13 eller 14]\n 祈使  宾语（定形）     方向介词短语       附加说明（线路号）\n```\n\n祈使句：`Ta` (imperativ of ta) 开头，给出方向指示。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-imperativ]] — `Ta` = 拿/坐（imperativ），指示乘坐交通工具\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tunnelbana]], [[linje]]\n- `tunnelbanan` = tunnelbana（定形，en-词）\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "坐地铁到斯鲁森站，13或14号线。",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-var-ar-ni-egentligen-ikvallt",
+      "type": "sentence",
+      "title": "🇸🇪 Var är ni egentligen ikväll?",
+      "path": "knowledge_base/sentences/sent-var-ar-ni-egentligen-ikvallt.md",
+      "body": "# 🇸🇪 Var är ni egentligen ikväll?\n\n🇨🇳 你们今晚到底在哪里？\n\n## 结构 (Structure)\n\n```\n[Var]  [är]   [ni]   [egentligen]  [ikväll]?\n 疑问   动词   主语    语气副词       时间\n```\n\nV2 结构：疑问词 `var` 占第一位，动词 `är` 紧跟（倒装）。\n\n## 语法点 (Grammar)\n\n- 疑问词 `var` = where（位置，区别于方向词 `vart`）\n- [[egentligen]] 强调语气：\"到底\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[egentligen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Var är ni egentligen ikväll? 🇨🇳 你们今晚到底在哪里？ 结构 (Structure) [Var] [är] [ni] [egentligen] [ikväll]? 疑问 动词 主语 语气副词 时间 V2 结构：疑问词 var 占第一位，动词 är 紧跟（倒装）。 语法点 (Grammar) 疑问词 var = where（位置，区别于方向词 vart ） egentligen 强调语气：\"到底",
+      "links": [
+        "egentligen",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Var är ni egentligen ikväll? sent-var-ar-ni-egentligen-ikvallt knowledge_base/sentences/sent-var-ar-ni-egentligen-ikvallt.md ---\ntype: sentence\nsentence: \"Var är ni egentligen ikväll?\"\nzh: \"你们今晚到底在哪里？\"\ncefr: \"A2\"\nwords:\n  - egentligen\nphrases: []\ngrammar: []\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Var är ni egentligen ikväll?\n\n🇨🇳 你们今晚到底在哪里？\n\n## 结构 (Structure)\n\n```\n[Var]  [är]   [ni]   [egentligen]  [ikväll]?\n 疑问   动词   主语    语气副词       时间\n```\n\nV2 结构：疑问词 `var` 占第一位，动词 `är` 紧跟（倒装）。\n\n## 语法点 (Grammar)\n\n- 疑问词 `var` = where（位置，区别于方向词 `vart`）\n- [[egentligen]] 强调语气：\"到底\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[egentligen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "你们今晚到底在哪里？",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-vet-du-var-det-ar",
+      "type": "sentence",
+      "title": "🇸🇪 Vet du var det är?",
+      "path": "knowledge_base/sentences/sent-vet-du-var-det-ar.md",
+      "body": "# 🇸🇪 Vet du var det är?\n\n🇨🇳 你知道在哪里吗？\n\n## 结构 (Structure)\n\n```\n[Vet]  [du]  [var  det  är]?\n 动词   主     从句：var(疑问) det(主) är(谓)\n```\n\n主句倒装（疑问句）：动词 `vet` 首位。\n从句 `var det är`：bisats 语序，不用疑问倒装（不能说 `var är det`）。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-biff]] — `var det är` 是从句，用正常 S-V 语序（不倒装）\n\n## 生词 & 词组 (Words & Phrases)\n\n（本句均为基础词汇）\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Vet du var det är? 🇨🇳 你知道在哪里吗？ 结构 (Structure) [Vet] [du] [var det är]? 动词 主 从句：var(疑问) det(主) är(谓) 主句倒装（疑问句）：动词 vet 首位。 从句 var det är ：bisats 语序，不用疑问倒装（不能说 var är det ）。 语法点 (Grammar) 📌 grammar bisats biff — var",
+      "links": [
+        "grammar-bisats-biff",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Vet du var det är? sent-vet-du-var-det-ar knowledge_base/sentences/sent-vet-du-var-det-ar.md ---\ntype: sentence\nsentence: \"Vet du var det är?\"\nzh: \"你知道在哪里吗？\"\ncefr: \"A2\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-bisats-biff\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vet du var det är?\n\n🇨🇳 你知道在哪里吗？\n\n## 结构 (Structure)\n\n```\n[Vet]  [du]  [var  det  är]?\n 动词   主     从句：var(疑问) det(主) är(谓)\n```\n\n主句倒装（疑问句）：动词 `vet` 首位。\n从句 `var det är`：bisats 语序，不用疑问倒装（不能说 `var är det`）。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-biff]] — `var det är` 是从句，用正常 S-V 语序（不倒装）\n\n## 生词 & 词组 (Words & Phrases)\n\n（本句均为基础词汇）\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "你知道在哪里吗？",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-vi-ar-pa-restaurang-kolkallan",
+      "type": "sentence",
+      "title": "🇸🇪 Vi är på Restaurang Kolkällan, på Hornsgatan.",
+      "path": "knowledge_base/sentences/sent-vi-ar-pa-restaurang-kolkallan.md",
+      "body": "# 🇸🇪 Vi är på Restaurang Kolkällan, på Hornsgatan.\n\n🇨🇳 我们在科尔克兰餐厅，在霍恩斯街。\n\n## 结构 (Structure)\n\n```\n[Vi]  [är]  [på Restaurang Kolkällan],  [på Hornsgatan]\n 主   动词        地点1（介词短语）           地点2\n```\n\n`på` 用于表达\"在某地点\"（商店、餐厅、街道名）。\n\n## 语法点 (Grammar)\n\n- `på` + 机构名/街道名 = 位置表达\n- 专有名词：Restaurang Kolkällan（餐厅名），Hornsgatan（街道名，stan = 城市/老城）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[restaurang]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Vi är på Restaurang Kolkällan, på Hornsgatan. 🇨🇳 我们在科尔克兰餐厅，在霍恩斯街。 结构 (Structure) [Vi] [är] [på Restaurang Kolkällan], [på Hornsgatan] 主 动词 地点1（介词短语） 地点2 på 用于表达\"在某地点\"（商店、餐厅、街道名）。 语法点 (Grammar) på + 机构名/街道名 = 位置表达 ",
+      "links": [
+        "restaurang",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Vi är på Restaurang Kolkällan, på Hornsgatan. sent-vi-ar-pa-restaurang-kolkallan knowledge_base/sentences/sent-vi-ar-pa-restaurang-kolkallan.md ---\ntype: sentence\nsentence: \"Vi är på Restaurang Kolkällan, på Hornsgatan.\"\nzh: \"我们在科尔克兰餐厅，在霍恩斯街。\"\ncefr: \"A1\"\nwords:\n  - restaurang\nphrases: []\ngrammar: []\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vi är på Restaurang Kolkällan, på Hornsgatan.\n\n🇨🇳 我们在科尔克兰餐厅，在霍恩斯街。\n\n## 结构 (Structure)\n\n```\n[Vi]  [är]  [på Restaurang Kolkällan],  [på Hornsgatan]\n 主   动词        地点1（介词短语）           地点2\n```\n\n`på` 用于表达\"在某地点\"（商店、餐厅、街道名）。\n\n## 语法点 (Grammar)\n\n- `på` + 机构名/街道名 = 位置表达\n- 专有名词：Restaurang Kolkällan（餐厅名），Hornsgatan（街道名，stan = 城市/老城）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[restaurang]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A1",
+      "zh": "我们在科尔克兰餐厅，在霍恩斯街。",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-vi-ses-snart",
+      "type": "sentence",
+      "title": "🇸🇪 Vi ses snart.",
+      "path": "knowledge_base/sentences/sent-vi-ses-snart.md",
+      "body": "# 🇸🇪 Vi ses snart.\n\n🇨🇳 待会见。\n\n## 结构 (Structure)\n\n```\n[Vi]  [ses]   [snart]\n 主   互相动词   时间副词\n```\n\n`ses` = se + s（互相/反身形式）= see each other。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-reflexivt-verb]] — `ses` 是 `se` 的互相/deponens 形式\n- 道别惯用语，非常自然的口语表达\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[snart]]\n- 词组: [[vi-ses-snart]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Vi ses snart. 🇨🇳 待会见。 结构 (Structure) [Vi] [ses] [snart] 主 互相动词 时间副词 ses = se + s（互相/反身形式）= see each other。 语法点 (Grammar) 📌 grammar reflexivt verb — ses 是 se 的互相/deponens 形式 道别惯用语，非常自然的口语表达 生词 & 词组 (Words & Phrase",
+      "links": [
+        "grammar-reflexivt-verb",
+        "snart",
+        "source-2026-06-03-fraga-vagen-pub",
+        "vi-ses-snart"
+      ],
+      "searchText": "🇸🇪 Vi ses snart. sent-vi-ses-snart knowledge_base/sentences/sent-vi-ses-snart.md ---\ntype: sentence\nsentence: \"Vi ses snart.\"\nzh: \"待会见。\"\ncefr: \"A1\"\nwords:\n  - snart\nphrases:\n  - vi-ses-snart\ngrammar:\n  - grammar-reflexivt-verb\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics: []\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vi ses snart.\n\n🇨🇳 待会见。\n\n## 结构 (Structure)\n\n```\n[Vi]  [ses]   [snart]\n 主   互相动词   时间副词\n```\n\n`ses` = se + s（互相/反身形式）= see each other。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-reflexivt-verb]] — `ses` 是 `se` 的互相/deponens 形式\n- 道别惯用语，非常自然的口语表达\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[snart]]\n- 词组: [[vi-ses-snart]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A1",
+      "zh": "待会见。",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-vi-vantar-pa-dig",
+      "type": "sentence",
+      "title": "🇸🇪 Vi väntar på dig!",
+      "path": "knowledge_base/sentences/sent-vi-vantar-pa-dig.md",
+      "body": "# 🇸🇪 Vi väntar på dig!\n\n🇨🇳 我们在等你！\n\n## 结构 (Structure)\n\n```\n[Vi]  [väntar]  [på]  [dig]!\n 主    动词      介词   代词宾语\n```\n\n`vänta på ngn` = 等待某人（介词 `på` 不可省略）。\n\n## 语法点 (Grammar)\n\n- 动词短语：`vänta på` + 人 = wait for someone\n- `dig` = 你（宾格，二人称单数）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vänta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Vi väntar på dig! 🇨🇳 我们在等你！ 结构 (Structure) [Vi] [väntar] [på] [dig]! 主 动词 介词 代词宾语 vänta på ngn = 等待某人（介词 på 不可省略）。 语法点 (Grammar) 动词短语： vänta på + 人 = wait for someone dig = 你（宾格，二人称单数） 生词 & 词组 (Words & Phrases) 词:",
+      "links": [
+        "source-2026-06-03-fraga-vagen-pub",
+        "vänta"
+      ],
+      "searchText": "🇸🇪 Vi väntar på dig! sent-vi-vantar-pa-dig knowledge_base/sentences/sent-vi-vantar-pa-dig.md ---\ntype: sentence\nsentence: \"Vi väntar på dig!\"\nzh: \"我们在等你！\"\ncefr: \"A1\"\nwords:\n  - vänta\nphrases: []\ngrammar: []\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics: []\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vi väntar på dig!\n\n🇨🇳 我们在等你！\n\n## 结构 (Structure)\n\n```\n[Vi]  [väntar]  [på]  [dig]!\n 主    动词      介词   代词宾语\n```\n\n`vänta på ngn` = 等待某人（介词 `på` 不可省略）。\n\n## 语法点 (Grammar)\n\n- 动词短语：`vänta på` + 人 = wait for someone\n- `dig` = 你（宾格，二人称单数）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vänta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A1",
+      "zh": "我们在等你！",
+      "created": "2026-06-03"
+    },
+    {
+      "slug": "sent-vilken-riktning-ska-jag-ga",
+      "type": "sentence",
+      "title": "🇸🇪 Vilken riktning ska jag gå?",
+      "path": "knowledge_base/sentences/sent-vilken-riktning-ska-jag-ga.md",
+      "body": "# 🇸🇪 Vilken riktning ska jag gå?\n\n🇨🇳 我该往哪个方向走？\n\n## 结构 (Structure)\n\n```\n[Vilken riktning]  [ska]  [jag]  [gå]?\n   疑问词组          助动词   主语   动词\n```\n\n疑问句：疑问词组 `vilken riktning` 首位，助动词 `ska` V2 倒装，主语 `jag` 第三位。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-riktnings-adverb]] — 问\"哪个方向\"（riktning）\n- 📌 [[grammar-bisats-biff]] — 本句为主句疑问句（V2 倒装），相关从句格式对比\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[riktning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🇸🇪 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？ 结构 (Structure) [Vilken riktning] [ska] [jag] [gå]? 疑问词组 助动词 主语 动词 疑问句：疑问词组 vilken riktning 首位，助动词 ska V2 倒装，主语 jag 第三位。 语法点 (Grammar) 📌 grammar riktnings adverb — 问\"哪个方向\"（",
+      "links": [
+        "grammar-bisats-biff",
+        "grammar-riktnings-adverb",
+        "riktning",
+        "source-2026-06-03-fraga-vagen-pub"
+      ],
+      "searchText": "🇸🇪 Vilken riktning ska jag gå? sent-vilken-riktning-ska-jag-ga knowledge_base/sentences/sent-vilken-riktning-ska-jag-ga.md ---\ntype: sentence\nsentence: \"Vilken riktning ska jag gå?\"\nzh: \"我该往哪个方向走？\"\ncefr: \"A2\"\nwords:\n  - riktning\nphrases: []\ngrammar:\n  - grammar-bisats-biff\n  - grammar-riktnings-adverb\nsource: \"source-2026-06-03-fraga-vagen-pub\"\ntopics:\n  - topic-riktningar\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vilken riktning ska jag gå?\n\n🇨🇳 我该往哪个方向走？\n\n## 结构 (Structure)\n\n```\n[Vilken riktning]  [ska]  [jag]  [gå]?\n   疑问词组          助动词   主语   动词\n```\n\n疑问句：疑问词组 `vilken riktning` 首位，助动词 `ska` V2 倒装，主语 `jag` 第三位。\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-riktnings-adverb]] — 问\"哪个方向\"（riktning）\n- 📌 [[grammar-bisats-biff]] — 本句为主句疑问句（V2 倒装），相关从句格式对比\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[riktning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "cefr": "A2",
+      "zh": "我该往哪个方向走？",
+      "created": "2026-06-03"
     },
     {
       "slug": "source-2026-06-02-astrid-lindgren",
@@ -589,6 +1191,74 @@ window.KB_DATA = {
         "vuxen"
       ],
       "searchText": "练习题分析 — Välj rätt form! source-2026-06-02-valj-ratt-form knowledge_base/sources/source-2026-06-02-valj-ratt-form.md ---\ntype: source\nslug: source-2026-06-02-valj-ratt-form\ntitle: \"练习题分析 — Välj rätt form!\"\ndate: \"2026-06-02\"\norigin: \"另一个 Claude.ai 对话（svensk-export v1 导入）\"\ntopic: \"名词变形、卧室/家庭/购物词汇\"\nwords_extracted: 30\nphrases_extracted: 10\nsentences_extracted: 6\ngrammar_extracted: 7\n---\n\n# 练习题分析 — Välj rätt form!\n\n来源：Claude.ai 对话导出（svensk-export v1），日期 2026-06-02。\n\n主题：名词变形（bestämd/obestämd form、e-bortfall、5:e deklinationen）+ 卧室/家庭/购物词汇。\n\n## 词汇\n\n**名词（家居/卧室）：**\n[[sovrum]] [[säng]] [[bord]] [[lampa]] [[vägg]] [[tak]] [[byrå]] [[spegel]] [[golv]] [[fönster]] [[matta]] [[stol]] [[möbel]]\n\n**名词（家庭/人物）：**\n[[barn]] [[pojke]] [[flicka]] [[förälder]] [[skola]] [[kompis]] [[vän]]\n\n**名词（服装）：**\n[[tröja]] [[stövel]] [[blus]] [[par]] [[kläder]]\n\n**形容词：**\n[[billig]] [[vuxen]]\n\n**副词/介词：**\n[[verkligen]] [[förstås]] [[ovanför]]\n\n## 词组\n\n[[inte-så-mycket-möbler]] · [[hänger-i-taket]] · [[på-golvet]] · [[ovanför-byrån]] · [[titta-i-spegeln]] · [[tak-över-huvudet]] · [[under-samma-tak]] · [[verkligen-billig]] · [[vara-kompisar]] · [[bli-kompisar]]\n\n## 语法\n\n[[grammar-bestämd-form]] · [[grammar-obestämd-form]] · [[grammar-e-bortfall]] · [[grammar-5e-deklinationen]] · [[grammar-possessiv-obestämd]] · [[grammar-ny-känd-information]] · [[grammar-en-ord-vs-ett-ord]]\n"
+    },
+    {
+      "slug": "source-2026-06-03-fraga-vagen-pub",
+      "type": "source",
+      "title": "Fråga vägen till festen — 问路去酒局 (pub-träff)",
+      "path": "knowledge_base/sources/source-2026-06-03-fraga-vagen-pub.md",
+      "body": "# 📄 Fråga vägen till festen — 问路去酒局 (pub-träff)\n\n类型: dialogue · 难度: A2–B1 · 来源: 场景生成 (`/scenario 问路酒局在哪里`)\n\n## 原文 (Source Text)\n\n```\n(Erik ringer till Maja för att fråga var kvällens pub-träff är.)\n\nA: Hej Maja! Det är Erik. Var är ni egentligen ikväll?\nB: Hej! Vi är på Restaurang Kolkällan, på Hornsgatan. Vet du var det är?\nA: Hmm, inte riktigt. Hur tar jag mig dit?\nB: Ta tunnelbanan till Slussen, linje 13 eller 14. Sen går du rakt fram längs vattnet i ungefär fem minuter.\nA: Och när jag kommer till Slussen, vilken riktning ska jag gå?\nB: Gå mot söder. Du ser en stor röd byggnad till vänster — det är inte det rätta stället. Fortsätt lite till, det är en grå dörr på höger sida.\nA: Okej! Finns det en skylt?\nB: Ja, det hänger en liten svart skylt utanför. Du kan inte missa den.\nA: Perfekt. Hur länge har ni varit där?\nB: Sedan sju. Vi väntar på dig! Skynda dig lite.\nA: Jag är där om tjugo minuter, lovar!\nB: Bra! Vi ses snart.\n```\n\n## 全文翻译 (Translation)\n\n🇨🇳 *(埃里克打电话给玛雅，问今晚的酒局在哪里。)*\n\nA: 嗨，玛雅！我是埃里克。你们今晚到底在哪里？\nB: 嗨！我们在科尔克兰餐厅，在霍恩斯街。你知道在哪里吗？\nA: 嗯，不太清楚。我怎么去那里？\nB: 坐地铁到斯鲁森站，13 或 14 号线。然后沿着水边直走大约五分钟。\nA: 那到了斯鲁森，我该往哪个方向走？\nB: 往南走。你会看到左边有一栋大红楼——那不是对的地方。再往前走一点，右边有一扇灰色的门。\nA: 好的！有招牌吗？\nB: 有，外面挂着一块小黑牌。你不会错过的。\nA: 太好了。你们在那里多久了？\nB: 从七点开始。我们在等你！快点来。\nA: 我二十分钟后到，保证！\nB: 好！待会见。\n\n## 语法要点 (Grammar highlights)\n\n- [[grammar-riktnings-adverb]] — dit（去那里，方向）vs där（在那里，位置）\n- [[grammar-reflexivt-verb]] — ta sig（\"Hur tar jag mig dit?\"）、skynda sig\n- [[grammar-imperativ]] — Gå mot söder / Fortsätt lite till / Skynda dig\n- [[grammar-bisats-biff]] — \"när jag kommer till Slussen ...\" 从句语序\n\n## 提取 (Extracted → linked notes)\n\n### 词汇 (Words — 22)\n[[egentligen]] · [[restaurang]] · [[tunnelbana]] · [[linje]] · [[rakt]] · [[längs]] · [[vatten]] · [[riktning]] · [[söder]] · [[röd]] · [[byggnad]] · [[vänster]] · [[fortsätta]] (已存在，已补链) · [[grå]] · [[höger]] · [[skylt]] · [[hänga]] · [[missa]] · [[vänta]] · [[skynda]] · [[lova]] · [[snart]]\n\n### 词组 (Phrases — 10)\n[[hur-tar-jag-mig-dit]] · [[rakt-fram]] · [[till-vänster]] · [[på-höger-sida]] · [[du-kan-inte-missa-den]] · [[mot-söder]] · [[skynda-dig]] · [[vi-ses-snart]] · [[sedan-sju]] · [[om-tjugo-minuter]]\n\n### 句子 (Sentences — 19)\n[[sent-var-ar-ni-egentligen-ikvallt]] · [[sent-vi-ar-pa-restaurang-kolkallan]] · [[sent-vet-du-var-det-ar]] · [[sent-hur-tar-jag-mig-dit]] · [[sent-ta-tunnelbanan-till-slussen]] · [[sent-sen-gar-du-rakt-fram-langs-vattnet]] · [[sent-vilken-riktning-ska-jag-ga]] · [[sent-ga-mot-soder]] · [[sent-du-ser-en-stor-rod-byggnad]] · [[sent-fortsatt-lite-till-gra-dorr]] · [[sent-finns-det-en-skylt]] · [[sent-ja-det-hanger-en-liten-svart-skylt]] · [[sent-du-kan-inte-missa-den]] · [[sent-hur-lange-har-ni-varit-dar]] · [[sent-sedan-sju]] · [[sent-vi-vantar-pa-dig]] · [[sent-skynda-dig-lite]] · [[sent-jag-ar-dar-om-tjugo-minuter]] · [[sent-vi-ses-snart]]\n\n### 语法 (Grammar — 4)\n[[grammar-imperativ]] · [[grammar-reflexivt-verb]] · [[grammar-bisats-biff]] · [[grammar-riktnings-adverb]]\n\n### 主题 (Topics — 1)\n[[topic-riktningar]] — 方向/问路语义场（14个成员词）",
+      "excerpt": "📄 Fråga vägen till festen — 问路去酒局 (pub träff) 类型: dialogue · 难度: A2–B1 · 来源: 场景生成 ( /scenario 问路酒局在哪里 ) 原文 (Source Text) (Erik ringer till Maja för att fråga var kvällens pub träff är.) A: Hej Maja! Det är Erik. Var är ",
+      "links": [
+        "byggnad",
+        "du-kan-inte-missa-den",
+        "egentligen",
+        "fortsätta",
+        "grå",
+        "grammar-bisats-biff",
+        "grammar-imperativ",
+        "grammar-reflexivt-verb",
+        "grammar-riktnings-adverb",
+        "hänga",
+        "höger",
+        "hur-tar-jag-mig-dit",
+        "längs",
+        "linje",
+        "lova",
+        "missa",
+        "mot-söder",
+        "om-tjugo-minuter",
+        "på-höger-sida",
+        "rakt",
+        "rakt-fram",
+        "restaurang",
+        "riktning",
+        "röd",
+        "sedan-sju",
+        "sent-du-kan-inte-missa-den",
+        "sent-du-ser-en-stor-rod-byggnad",
+        "sent-finns-det-en-skylt",
+        "sent-fortsatt-lite-till-gra-dorr",
+        "sent-ga-mot-soder",
+        "sent-hur-lange-har-ni-varit-dar",
+        "sent-hur-tar-jag-mig-dit",
+        "sent-ja-det-hanger-en-liten-svart-skylt",
+        "sent-jag-ar-dar-om-tjugo-minuter",
+        "sent-sedan-sju",
+        "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "sent-skynda-dig-lite",
+        "sent-ta-tunnelbanan-till-slussen",
+        "sent-var-ar-ni-egentligen-ikvallt",
+        "sent-vet-du-var-det-ar",
+        "sent-vi-ar-pa-restaurang-kolkallan",
+        "sent-vi-ses-snart",
+        "sent-vi-vantar-pa-dig",
+        "sent-vilken-riktning-ska-jag-ga",
+        "skylt",
+        "skynda",
+        "skynda-dig",
+        "snart",
+        "söder",
+        "till-vänster",
+        "topic-riktningar",
+        "tunnelbana",
+        "vänster",
+        "vänta",
+        "vatten",
+        "vi-ses-snart"
+      ],
+      "searchText": "Fråga vägen till festen — 问路去酒局 (pub-träff) source-2026-06-03-fraga-vagen-pub knowledge_base/sources/source-2026-06-03-fraga-vagen-pub.md ---\ntype: source\ntitle: \"Fråga vägen till festen — 问路去酒局 (pub-träff)\"\nkind: dialogue\ncefr: A2-B1\ndate_added: \"2026-06-03\"\nsource_label: \"scenario — fråga vägen till kvällens pub-träff (酒局问路)\"\nzh_summary: \"Erik 打电话给 Maja，问今晚酒局（餐厅 pub-träff）在哪里、怎么坐地铁过去、到了 Slussen 往哪个方向走、门口有什么招牌\"\nwords:\n  - egentligen\n  - restaurang\n  - tunnelbana\n  - linje\n  - rakt\n  - längs\n  - vatten\n  - riktning\n  - söder\n  - röd\n  - byggnad\n  - vänster\n  - fortsätta\n  - grå\n  - höger\n  - skylt\n  - hänga\n  - missa\n  - vänta\n  - skynda\n  - lova\n  - snart\nphrases:\n  - hur-tar-jag-mig-dit\n  - rakt-fram\n  - till-vänster\n  - på-höger-sida\n  - du-kan-inte-missa-den\n  - mot-söder\n  - skynda-dig\n  - vi-ses-snart\n  - sedan-sju\n  - om-tjugo-minuter\nsentences:\n  - sent-var-ar-ni-egentligen-ikvallt\n  - sent-vi-ar-pa-restaurang-kolkallan\n  - sent-vet-du-var-det-ar\n  - sent-hur-tar-jag-mig-dit\n  - sent-ta-tunnelbanan-till-slussen\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\n  - sent-vilken-riktning-ska-jag-ga\n  - sent-ga-mot-soder\n  - sent-du-ser-en-stor-rod-byggnad\n  - sent-fortsatt-lite-till-gra-dorr\n  - sent-finns-det-en-skylt\n  - sent-ja-det-hanger-en-liten-svart-skylt\n  - sent-du-kan-inte-missa-den\n  - sent-hur-lange-har-ni-varit-dar\n  - sent-sedan-sju\n  - sent-vi-vantar-pa-dig\n  - sent-skynda-dig-lite\n  - sent-jag-ar-dar-om-tjugo-minuter\n  - sent-vi-ses-snart\ngrammar:\n  - grammar-imperativ\n  - grammar-reflexivt-verb\n  - grammar-bisats-biff\n  - grammar-riktnings-adverb\n---\n\n# 📄 Fråga vägen till festen — 问路去酒局 (pub-träff)\n\n类型: dialogue · 难度: A2–B1 · 来源: 场景生成 (`/scenario 问路酒局在哪里`)\n\n## 原文 (Source Text)\n\n```\n(Erik ringer till Maja för att fråga var kvällens pub-träff är.)\n\nA: Hej Maja! Det är Erik. Var är ni egentligen ikväll?\nB: Hej! Vi är på Restaurang Kolkällan, på Hornsgatan. Vet du var det är?\nA: Hmm, inte riktigt. Hur tar jag mig dit?\nB: Ta tunnelbanan till Slussen, linje 13 eller 14. Sen går du rakt fram längs vattnet i ungefär fem minuter.\nA: Och när jag kommer till Slussen, vilken riktning ska jag gå?\nB: Gå mot söder. Du ser en stor röd byggnad till vänster — det är inte det rätta stället. Fortsätt lite till, det är en grå dörr på höger sida.\nA: Okej! Finns det en skylt?\nB: Ja, det hänger en liten svart skylt utanför. Du kan inte missa den.\nA: Perfekt. Hur länge har ni varit där?\nB: Sedan sju. Vi väntar på dig! Skynda dig lite.\nA: Jag är där om tjugo minuter, lovar!\nB: Bra! Vi ses snart.\n```\n\n## 全文翻译 (Translation)\n\n🇨🇳 *(埃里克打电话给玛雅，问今晚的酒局在哪里。)*\n\nA: 嗨，玛雅！我是埃里克。你们今晚到底在哪里？\nB: 嗨！我们在科尔克兰餐厅，在霍恩斯街。你知道在哪里吗？\nA: 嗯，不太清楚。我怎么去那里？\nB: 坐地铁到斯鲁森站，13 或 14 号线。然后沿着水边直走大约五分钟。\nA: 那到了斯鲁森，我该往哪个方向走？\nB: 往南走。你会看到左边有一栋大红楼——那不是对的地方。再往前走一点，右边有一扇灰色的门。\nA: 好的！有招牌吗？\nB: 有，外面挂着一块小黑牌。你不会错过的。\nA: 太好了。你们在那里多久了？\nB: 从七点开始。我们在等你！快点来。\nA: 我二十分钟后到，保证！\nB: 好！待会见。\n\n## 语法要点 (Grammar highlights)\n\n- [[grammar-riktnings-adverb]] — dit（去那里，方向）vs där（在那里，位置）\n- [[grammar-reflexivt-verb]] — ta sig（\"Hur tar jag mig dit?\"）、skynda sig\n- [[grammar-imperativ]] — Gå mot söder / Fortsätt lite till / Skynda dig\n- [[grammar-bisats-biff]] — \"när jag kommer till Slussen ...\" 从句语序\n\n## 提取 (Extracted → linked notes)\n\n### 词汇 (Words — 22)\n[[egentligen]] · [[restaurang]] · [[tunnelbana]] · [[linje]] · [[rakt]] · [[längs]] · [[vatten]] · [[riktning]] · [[söder]] · [[röd]] · [[byggnad]] · [[vänster]] · [[fortsätta]] (已存在，已补链) · [[grå]] · [[höger]] · [[skylt]] · [[hänga]] · [[missa]] · [[vänta]] · [[skynda]] · [[lova]] · [[snart]]\n\n### 词组 (Phrases — 10)\n[[hur-tar-jag-mig-dit]] · [[rakt-fram]] · [[till-vänster]] · [[på-höger-sida]] · [[du-kan-inte-missa-den]] · [[mot-söder]] · [[skynda-dig]] · [[vi-ses-snart]] · [[sedan-sju]] · [[om-tjugo-minuter]]\n\n### 句子 (Sentences — 19)\n[[sent-var-ar-ni-egentligen-ikvallt]] · [[sent-vi-ar-pa-restaurang-kolkallan]] · [[sent-vet-du-var-det-ar]] · [[sent-hur-tar-jag-mig-dit]] · [[sent-ta-tunnelbanan-till-slussen]] · [[sent-sen-gar-du-rakt-fram-langs-vattnet]] · [[sent-vilken-riktning-ska-jag-ga]] · [[sent-ga-mot-soder]] · [[sent-du-ser-en-stor-rod-byggnad]] · [[sent-fortsatt-lite-till-gra-dorr]] · [[sent-finns-det-en-skylt]] · [[sent-ja-det-hanger-en-liten-svart-skylt]] · [[sent-du-kan-inte-missa-den]] · [[sent-hur-lange-har-ni-varit-dar]] · [[sent-sedan-sju]] · [[sent-vi-vantar-pa-dig]] · [[sent-skynda-dig-lite]] · [[sent-jag-ar-dar-om-tjugo-minuter]] · [[sent-vi-ses-snart]]\n\n### 语法 (Grammar — 4)\n[[grammar-imperativ]] · [[grammar-reflexivt-verb]] · [[grammar-bisats-biff]] · [[grammar-riktnings-adverb]]\n\n### 主题 (Topics — 1)\n[[topic-riktningar]] — 方向/问路语义场（14个成员词）\n",
+      "cefr": "A2-B1"
     },
     {
       "slug": "source-2026-06-03-sundbyberg-forskola",
@@ -720,6 +1390,37 @@ window.KB_DATA = {
       "name": "litteratur och kultur",
       "zh": "文学与文化（语义场）",
       "created": "2026-06-02"
+    },
+    {
+      "slug": "topic-riktningar",
+      "type": "topic",
+      "title": "riktningar",
+      "path": "knowledge_base/topics/topic-riktningar.md",
+      "body": "# 🗂️ riktningar — 方向 / 问路\n\n类型: semantic-field\n\n瑞典语问路场景中的核心词汇和短语，来自场景对话《Fråga vägen till festen》。\n\n## 成员 (Members)\n\n### 方向短语 (Direction phrases)\n- [[rakt-fram]] — 直走\n- [[till-vänster]] — 在左边\n- [[på-höger-sida]] — 在右边\n- [[mot-söder]] — 往南\n- [[hur-tar-jag-mig-dit]] — 我怎么去那里\n- [[du-kan-inte-missa-den]] — 你不会错过的\n\n### 方向词 (Direction words)\n- [[riktning]] — 方向（en）\n- [[söder]] — 南（方向名词/副词）\n- [[vänster]] — 左\n- [[höger]] — 右\n- [[rakt]] — 直地（副词）\n- [[längs]] — 沿着（介词）\n\n### 交通词汇 (Transport)\n- [[tunnelbana]] — 地铁\n- [[linje]] — 线路\n\n### 相关语法 (Related grammar)\n- [[grammar-riktnings-adverb]] — dit（方向）vs där（位置）\n- [[grammar-imperativ]] — Gå! Fortsätt! Ta! 方向祈使句\n\n## 备注 (Notes)\n\n- `mot söder`（方向动作）vs `i söder`（位置）— 关键区别\n- `dit`（方向，前往）vs `där`（位置，在那里）— 见 [[grammar-riktnings-adverb]]\n- 来源: [[source-2026-06-03-fraga-vagen-pub]]",
+      "excerpt": "🗂️ riktningar — 方向 / 问路 类型: semantic field 瑞典语问路场景中的核心词汇和短语，来自场景对话《Fråga vägen till festen》。 成员 (Members) 方向短语 (Direction phrases) rakt fram — 直走 till vänster — 在左边 på höger sida — 在右边 mot söder — 往南 hur tar jag mig dit",
+      "links": [
+        "du-kan-inte-missa-den",
+        "grammar-imperativ",
+        "grammar-riktnings-adverb",
+        "höger",
+        "hur-tar-jag-mig-dit",
+        "längs",
+        "linje",
+        "mot-söder",
+        "på-höger-sida",
+        "rakt",
+        "rakt-fram",
+        "riktning",
+        "söder",
+        "source-2026-06-03-fraga-vagen-pub",
+        "till-vänster",
+        "tunnelbana",
+        "vänster"
+      ],
+      "searchText": "riktningar topic-riktningar knowledge_base/topics/topic-riktningar.md ---\ntype: topic\nname: \"riktningar\"\nkind: semantic-field\nzh: \"方向 / 问路\"\nmembers:\n  - rakt-fram\n  - till-vänster\n  - på-höger-sida\n  - mot-söder\n  - hur-tar-jag-mig-dit\n  - du-kan-inte-missa-den\n  - riktning\n  - söder\n  - vänster\n  - höger\n  - rakt\n  - längs\n  - tunnelbana\n  - linje\ncreated: \"2026-06-03\"\n---\n\n# 🗂️ riktningar — 方向 / 问路\n\n类型: semantic-field\n\n瑞典语问路场景中的核心词汇和短语，来自场景对话《Fråga vägen till festen》。\n\n## 成员 (Members)\n\n### 方向短语 (Direction phrases)\n- [[rakt-fram]] — 直走\n- [[till-vänster]] — 在左边\n- [[på-höger-sida]] — 在右边\n- [[mot-söder]] — 往南\n- [[hur-tar-jag-mig-dit]] — 我怎么去那里\n- [[du-kan-inte-missa-den]] — 你不会错过的\n\n### 方向词 (Direction words)\n- [[riktning]] — 方向（en）\n- [[söder]] — 南（方向名词/副词）\n- [[vänster]] — 左\n- [[höger]] — 右\n- [[rakt]] — 直地（副词）\n- [[längs]] — 沿着（介词）\n\n### 交通词汇 (Transport)\n- [[tunnelbana]] — 地铁\n- [[linje]] — 线路\n\n### 相关语法 (Related grammar)\n- [[grammar-riktnings-adverb]] — dit（方向）vs där（位置）\n- [[grammar-imperativ]] — Gå! Fortsätt! Ta! 方向祈使句\n\n## 备注 (Notes)\n\n- `mot söder`（方向动作）vs `i söder`（位置）— 关键区别\n- `dit`（方向，前往）vs `där`（位置，在那里）— 见 [[grammar-riktnings-adverb]]\n- 来源: [[source-2026-06-03-fraga-vagen-pub]]\n",
+      "name": "riktningar",
+      "zh": "方向 / 问路",
+      "created": "2026-06-03"
     },
     {
       "slug": "topic-skola-och-utbildning",
@@ -1048,6 +1749,30 @@ window.KB_DATA = {
       "known": false
     },
     {
+      "slug": "byggnad",
+      "type": "word",
+      "title": "byggnad",
+      "path": "knowledge_base/words/byggnad.md",
+      "body": "# byggnad — substantiv (en)\n\n📖 中文：建筑；楼 · English: building\n发音提示：BYGG-nad；两音节，gg 发浊音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byggnad |\n| Singular bestämd | byggnaden |\n| Plural obestämd | byggnader |\n| Plural bestämd | byggnaderna |\n\n## 词组搭配 (Collocations)\n\n- `stor röd byggnad` — 大红楼\n- `historisk byggnad` — 历史建筑\n- `offentlig byggnad` — 公共建筑\n- `byggnadsarbetare` — 建筑工人\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bygga]] (v. 建造), [[byggare]] (建造者), [[byggnation]] (建设活动)\n- 同义词: [[hus]] (ett, 房屋/楼), [[lokal]] (en, 场所/房间)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `byggnad` 偏正式，指建筑物整体；`hus` 更口语，通常指住宅/房屋。",
+      "excerpt": "byggnad — substantiv (en) 📖 中文：建筑；楼 · English: building 发音提示：BYGG nad；两音节，gg 发浊音。 语法变形 (Forms) Form Swedish Singular obestämd en byggnad Singular bestämd byggnaden Plural obestämd byggnader Plural bestämd byggnaderna 词组",
+      "links": [
+        "bygga",
+        "byggare",
+        "byggnation",
+        "hus",
+        "lokal",
+        "sent-du-ser-en-stor-rod-byggnad"
+      ],
+      "searchText": "byggnad byggnad knowledge_base/words/byggnad.md ---\ntype: word\nlemma: \"byggnad\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"建筑；楼\"\nen: \"building\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-du-ser-en-stor-rod-byggnad\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# byggnad — substantiv (en)\n\n📖 中文：建筑；楼 · English: building\n发音提示：BYGG-nad；两音节，gg 发浊音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byggnad |\n| Singular bestämd | byggnaden |\n| Plural obestämd | byggnader |\n| Plural bestämd | byggnaderna |\n\n## 词组搭配 (Collocations)\n\n- `stor röd byggnad` — 大红楼\n- `historisk byggnad` — 历史建筑\n- `offentlig byggnad` — 公共建筑\n- `byggnadsarbetare` — 建筑工人\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bygga]] (v. 建造), [[byggare]] (建造者), [[byggnation]] (建设活动)\n- 同义词: [[hus]] (ett, 房屋/楼), [[lokal]] (en, 场所/房间)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `byggnad` 偏正式，指建筑物整体；`hus` 更口语，通常指住宅/房屋。\n",
+      "lemma": "byggnad",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "建筑；楼",
+      "en": "building",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
       "slug": "byteskö",
       "type": "word",
       "title": "byteskö",
@@ -1112,6 +1837,27 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "电子服务；政府/机构网上服务平台",
       "en": "e-service, online service",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "egentligen",
+      "type": "word",
+      "title": "egentligen",
+      "path": "knowledge_base/words/egentligen.md",
+      "body": "# egentligen — adverb\n\n📖 中文：到底；其实 · English: actually / really\n发音提示：e-GENT-li-gen；四音节，重音在第二音节。\n\n## 语法变形 (Forms)\n\n副词，不变形。\n\n## 词组搭配 (Collocations)\n\n- `Var är ni egentligen?` — 你们到底在哪里？\n- `Vad menar du egentligen?` — 你到底是什么意思？\n- `egentligen inte` — 其实不…\n\n## 例句 (Sentences)\n\n- [[sent-var-ar-ni-egentligen-ikvallt]] 🇸🇪 Var är ni egentligen ikväll? 🇨🇳 你们今晚到底在哪里？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[egentlig]] (adj. 真正的/实际的)\n- 同义词: [[faktiskt]] (其实/实际上)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 强调语气副词，用于追问\"到底\"或纠正\"其实\"。\n- 常置于句中（主语之后）或句末加强语气。\n- `egentligen` ≠ `faktiskt`：前者含\"追问/好奇\"语气；后者偏\"事实确认\"。",
+      "excerpt": "egentligen — adverb 📖 中文：到底；其实 · English: actually / really 发音提示：e GENT li gen；四音节，重音在第二音节。 语法变形 (Forms) 副词，不变形。 词组搭配 (Collocations) Var är ni egentligen? — 你们到底在哪里？ Vad menar du egentligen? — 你到底是什么意思？ egentligen inte ",
+      "links": [
+        "egentlig",
+        "faktiskt",
+        "sent-var-ar-ni-egentligen-ikvallt"
+      ],
+      "searchText": "egentligen egentligen knowledge_base/words/egentligen.md ---\ntype: word\nlemma: \"egentligen\"\nordklass: adverb\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"到底；其实\"\nen: \"actually / really\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-var-ar-ni-egentligen-ikvallt\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# egentligen — adverb\n\n📖 中文：到底；其实 · English: actually / really\n发音提示：e-GENT-li-gen；四音节，重音在第二音节。\n\n## 语法变形 (Forms)\n\n副词，不变形。\n\n## 词组搭配 (Collocations)\n\n- `Var är ni egentligen?` — 你们到底在哪里？\n- `Vad menar du egentligen?` — 你到底是什么意思？\n- `egentligen inte` — 其实不…\n\n## 例句 (Sentences)\n\n- [[sent-var-ar-ni-egentligen-ikvallt]] 🇸🇪 Var är ni egentligen ikväll? 🇨🇳 你们今晚到底在哪里？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[egentlig]] (adj. 真正的/实际的)\n- 同义词: [[faktiskt]] (其实/实际上)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 强调语气副词，用于追问\"到底\"或纠正\"其实\"。\n- 常置于句中（主语之后）或句末加强语气。\n- `egentligen` ≠ `faktiskt`：前者含\"追问/好奇\"语气；后者偏\"事实确认\"。\n",
+      "lemma": "egentligen",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "到底；其实",
+      "en": "actually / really",
       "created": "2026-06-03",
       "known": false
     },
@@ -1215,14 +1961,16 @@ window.KB_DATA = {
       "type": "word",
       "title": "fortsätta",
       "path": "knowledge_base/words/fortsätta.md",
-      "body": "# fortsätta — verb (oregelbundet)\n\n📖 中文：继续 · English: to continue\n发音提示：fort-SÄT-ta；重音在第二音节，双写 `tt`。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att fortsätta |\n| Imperativ | fortsätt! |\n| Presens | fortsätter |\n| Preteritum | fortsatte |\n| Supinum | (har) fortsatt |\n\n不规则 — 属于 grupp 2b 但注意 preteritum 是 *fortsatte*（不是 *fortsättde*）。\n\n## 词组搭配 (Collocations)\n\n- `fortsätta att + infinitiv` — 继续做某事（例：fortsätta att skriva）\n- `fortsätta med ngt` — 继续某事（名词宾语）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Astrid **fortsatte** att skriva böcker hela livet.\n  🇨🇳 阿斯特丽德一生都在继续写书。\n- 🇸🇪 Kan vi **fortsätta** mötet efter lunchen?\n  🇨🇳 我们能在午饭后继续开会吗？\n- 🇸🇪 Han **fortsätter** att träna trots att det gör ont.\n  🇨🇳 尽管很痛，他还是继续训练。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fortsättning]] (en, 续集/继续)\n- 同义词: —\n- 反义词: [[sluta]] (v. 停止/结束), [[avbryta]] (v. 中断)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `fortsätta att` 后接不定式：*Han fortsatte att läsa.* — 他继续读。\n- 原文：*Astrid fortsatte att skriva böcker.* — 阿斯特丽德继续写书。",
+      "body": "# fortsätta — verb (oregelbundet)\n\n📖 中文：继续 · English: to continue\n发音提示：fort-SÄT-ta；重音在第二音节，双写 `tt`。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att fortsätta |\n| Imperativ | fortsätt! |\n| Presens | fortsätter |\n| Preteritum | fortsatte |\n| Supinum | (har) fortsatt |\n\n不规则 — 属于 grupp 2b 但注意 preteritum 是 *fortsatte*（不是 *fortsättde*）。\n\n## 词组搭配 (Collocations)\n\n- `fortsätta att + infinitiv` — 继续做某事（例：fortsätta att skriva）\n- `fortsätta med ngt` — 继续某事（名词宾语）\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n- 🇸🇪 Astrid **fortsatte** att skriva böcker hela livet.\n  🇨🇳 阿斯特丽德一生都在继续写书。\n- 🇸🇪 Kan vi **fortsätta** mötet efter lunchen?\n  🇨🇳 我们能在午饭后继续开会吗？\n- 🇸🇪 Han **fortsätter** att träna trots att det gör ont.\n  🇨🇳 尽管很痛，他还是继续训练。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fortsättning]] (en, 续集/继续)\n- 同义词: —\n- 反义词: [[sluta]] (v. 停止/结束), [[avbryta]] (v. 中断)\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `fortsätta att` 后接不定式：*Han fortsatte att läsa.* — 他继续读。\n- 原文：*Astrid fortsatte att skriva böcker.* — 阿斯特丽德继续写书。",
       "excerpt": "fortsätta — verb (oregelbundet) 📖 中文：继续 · English: to continue 发音提示：fort SÄT ta；重音在第二音节，双写 tt 。 语法变形 (Forms) Form Swedish Infinitiv att fortsätta Imperativ fortsätt! Presens fortsätter Preteritum fortsatte Supinum (har)",
       "links": [
         "avbryta",
         "fortsättning",
-        "sluta"
+        "sent-fortsatt-lite-till-gra-dorr",
+        "sluta",
+        "topic-riktningar"
       ],
-      "searchText": "fortsätta fortsätta knowledge_base/words/fortsätta.md ---\ntype: word\nlemma: \"fortsätta\"\nordklass: verb\nverbgrupp: \"oregelbundet\"\ngenus: \"\"\ncefr: A2\nzh: 继续\nen: to continue\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fortsätta — verb (oregelbundet)\n\n📖 中文：继续 · English: to continue\n发音提示：fort-SÄT-ta；重音在第二音节，双写 `tt`。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att fortsätta |\n| Imperativ | fortsätt! |\n| Presens | fortsätter |\n| Preteritum | fortsatte |\n| Supinum | (har) fortsatt |\n\n不规则 — 属于 grupp 2b 但注意 preteritum 是 *fortsatte*（不是 *fortsättde*）。\n\n## 词组搭配 (Collocations)\n\n- `fortsätta att + infinitiv` — 继续做某事（例：fortsätta att skriva）\n- `fortsätta med ngt` — 继续某事（名词宾语）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Astrid **fortsatte** att skriva böcker hela livet.\n  🇨🇳 阿斯特丽德一生都在继续写书。\n- 🇸🇪 Kan vi **fortsätta** mötet efter lunchen?\n  🇨🇳 我们能在午饭后继续开会吗？\n- 🇸🇪 Han **fortsätter** att träna trots att det gör ont.\n  🇨🇳 尽管很痛，他还是继续训练。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fortsättning]] (en, 续集/继续)\n- 同义词: —\n- 反义词: [[sluta]] (v. 停止/结束), [[avbryta]] (v. 中断)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `fortsätta att` 后接不定式：*Han fortsatte att läsa.* — 他继续读。\n- 原文：*Astrid fortsatte att skriva böcker.* — 阿斯特丽德继续写书。\n",
+      "searchText": "fortsätta fortsätta knowledge_base/words/fortsätta.md ---\ntype: word\nlemma: \"fortsätta\"\nordklass: verb\nverbgrupp: \"oregelbundet\"\ngenus: \"\"\ncefr: A2\nzh: 继续\nen: to continue\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-fortsatt-lite-till-gra-dorr\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fortsätta — verb (oregelbundet)\n\n📖 中文：继续 · English: to continue\n发音提示：fort-SÄT-ta；重音在第二音节，双写 `tt`。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att fortsätta |\n| Imperativ | fortsätt! |\n| Presens | fortsätter |\n| Preteritum | fortsatte |\n| Supinum | (har) fortsatt |\n\n不规则 — 属于 grupp 2b 但注意 preteritum 是 *fortsatte*（不是 *fortsättde*）。\n\n## 词组搭配 (Collocations)\n\n- `fortsätta att + infinitiv` — 继续做某事（例：fortsätta att skriva）\n- `fortsätta med ngt` — 继续某事（名词宾语）\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n- 🇸🇪 Astrid **fortsatte** att skriva böcker hela livet.\n  🇨🇳 阿斯特丽德一生都在继续写书。\n- 🇸🇪 Kan vi **fortsätta** mötet efter lunchen?\n  🇨🇳 我们能在午饭后继续开会吗？\n- 🇸🇪 Han **fortsätter** att träna trots att det gör ont.\n  🇨🇳 尽管很痛，他还是继续训练。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fortsättning]] (en, 续集/继续)\n- 同义词: —\n- 反义词: [[sluta]] (v. 停止/结束), [[avbryta]] (v. 中断)\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `fortsätta att` 后接不定式：*Han fortsatte att läsa.* — 他继续读。\n- 原文：*Astrid fortsatte att skriva böcker.* — 阿斯特丽德继续写书。\n",
       "lemma": "fortsätta",
       "ordklass": "verb",
       "cefr": "A2",
@@ -1329,6 +2077,27 @@ window.KB_DATA = {
       "known": false
     },
     {
+      "slug": "grå",
+      "type": "word",
+      "title": "grå",
+      "path": "knowledge_base/words/grå.md",
+      "body": "# grå — adjektiv\n\n📖 中文：灰色的 · English: grey\n发音提示：grå（单音节，å 发长音）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum (en) | grå |\n| Neutrum (ett) | grått |\n| Plural / bestämd | gråa |\n\n## 词组搭配 (Collocations)\n\n- `grå dörr` — 灰色的门\n- `grå himmel` — 灰色的天空\n- `gråa dagar` — 灰暗的日子（比喻）\n- `gråa hår` — 灰白的头发\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gråhet]] (灰暗), [[gråna]] (v. 变灰白)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 三形变化：grå / grått / gråa（注意中性形 grått 双写 t）。\n- 口语中也拼作 `grå` / `gråt`（非正式）。",
+      "excerpt": "grå — adjektiv 📖 中文：灰色的 · English: grey 发音提示：grå（单音节，å 发长音）。 语法变形 (Forms) Form Swedish Utrum (en) grå Neutrum (ett) grått Plural / bestämd gråa 词组搭配 (Collocations) grå dörr — 灰色的门 grå himmel — 灰色的天空 gråa dagar — 灰暗的日子（比",
+      "links": [
+        "gråhet",
+        "gråna",
+        "sent-fortsatt-lite-till-gra-dorr"
+      ],
+      "searchText": "grå grå knowledge_base/words/grå.md ---\ntype: word\nlemma: \"grå\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"灰色的\"\nen: \"grey\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-fortsatt-lite-till-gra-dorr\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# grå — adjektiv\n\n📖 中文：灰色的 · English: grey\n发音提示：grå（单音节，å 发长音）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum (en) | grå |\n| Neutrum (ett) | grått |\n| Plural / bestämd | gråa |\n\n## 词组搭配 (Collocations)\n\n- `grå dörr` — 灰色的门\n- `grå himmel` — 灰色的天空\n- `gråa dagar` — 灰暗的日子（比喻）\n- `gråa hår` — 灰白的头发\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gråhet]] (灰暗), [[gråna]] (v. 变灰白)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 三形变化：grå / grått / gråa（注意中性形 grått 双写 t）。\n- 口语中也拼作 `grå` / `gråt`（非正式）。\n",
+      "lemma": "grå",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "灰色的",
+      "en": "grey",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
       "slug": "gravid",
       "type": "word",
       "title": "gravid",
@@ -1365,6 +2134,30 @@ window.KB_DATA = {
       "zh": "打招呼；问候；代某人致意",
       "en": "to greet; to say hello; to send regards",
       "created": "2026-06-02",
+      "known": false
+    },
+    {
+      "slug": "hänga",
+      "type": "word",
+      "title": "hänga",
+      "path": "knowledge_base/words/hänga.md",
+      "body": "# hänga — verb (grupp 2a)\n\n📖 中文：挂；悬挂 · English: to hang\n发音提示：HÄN-ga；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att hänga |\n| Imperativ | häng! |\n| Presens | hänger |\n| Preteritum | hängde |\n| Supinum | (har) hängt |\n\n## 词组搭配 (Collocations)\n\n- `hänga en skylt` — 挂招牌\n- `det hänger en tavla` — 那里挂着一幅画（存在句）\n- `hänga av sig` — 挂起外衣\n- `hänga med` — 跟着去/跟得上（partikelverb）\n\n## 例句 (Sentences)\n\n- [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇈 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hängare]] (衣架), [[upphängning]] (悬挂装置)\n- 同义词: [[sitta]] (在某处固定/坐), [[vara uppsatt]] (被挂着)\n- 反义词: [[ta ner]] (取下)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 存在句：`det hänger en skylt utanför` = 外面挂着一块招牌（主语后置）。\n- `hänga med` (partikelverb): *Vill du hänga med?* — 你想一起来吗？\n- grupp 2a：preteritum 以 `-de` 结尾（hängde），supinum 以 `-t` 结尾（hängt）。",
+      "excerpt": "hänga — verb (grupp 2a) 📖 中文：挂；悬挂 · English: to hang 发音提示：HÄN ga；两音节。 语法变形 (Forms) Form Swedish Infinitiv att hänga Imperativ häng! Presens hänger Preteritum hängde Supinum (har) hängt 词组搭配 (Collocations) hänga en skylt",
+      "links": [
+        "hängare",
+        "sent-ja-det-hanger-en-liten-svart-skylt",
+        "sitta",
+        "ta ner",
+        "upphängning",
+        "vara uppsatt"
+      ],
+      "searchText": "hänga hänga knowledge_base/words/hänga.md ---\ntype: word\nlemma: \"hänga\"\nordklass: verb\nverbgrupp: \"2a\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"挂；悬挂\"\nen: \"to hang\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-ja-det-hanger-en-liten-svart-skylt\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hänga — verb (grupp 2a)\n\n📖 中文：挂；悬挂 · English: to hang\n发音提示：HÄN-ga；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att hänga |\n| Imperativ | häng! |\n| Presens | hänger |\n| Preteritum | hängde |\n| Supinum | (har) hängt |\n\n## 词组搭配 (Collocations)\n\n- `hänga en skylt` — 挂招牌\n- `det hänger en tavla` — 那里挂着一幅画（存在句）\n- `hänga av sig` — 挂起外衣\n- `hänga med` — 跟着去/跟得上（partikelverb）\n\n## 例句 (Sentences)\n\n- [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇈 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hängare]] (衣架), [[upphängning]] (悬挂装置)\n- 同义词: [[sitta]] (在某处固定/坐), [[vara uppsatt]] (被挂着)\n- 反义词: [[ta ner]] (取下)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 存在句：`det hänger en skylt utanför` = 外面挂着一块招牌（主语后置）。\n- `hänga med` (partikelverb): *Vill du hänga med?* — 你想一起来吗？\n- grupp 2a：preteritum 以 `-de` 结尾（hängde），supinum 以 `-t` 结尾（hängt）。\n",
+      "lemma": "hänga",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "挂；悬挂",
+      "en": "to hang",
+      "created": "2026-06-03",
       "known": false
     },
     {
@@ -1408,6 +2201,29 @@ window.KB_DATA = {
       "zh": "干草",
       "en": "hay",
       "created": "2026-06-02",
+      "known": false
+    },
+    {
+      "slug": "höger",
+      "type": "word",
+      "title": "höger",
+      "path": "knowledge_base/words/höger.md",
+      "body": "# höger — substantiv / adverb\n\n📖 中文：右；右边 · English: right\n发音提示：HÖ-ger；两音节。\n\n## 语法变形 (Forms)\n\n无变形（用作副词时）。\n\n| Uttryck | Användning |\n|---------|-----------|\n| `på höger sida` | 在右侧 |\n| `till höger` | 在右边 |\n| `sväng höger` | 向右转 |\n| `höger om` | 在…的右边 |\n\n## 词组搭配 (Collocations)\n\n- `på höger sida` — 在右侧\n- `till höger` — 向右/在右边\n- `sväng till höger` — 向右转\n- `hålla höger` — 靠右行驶\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[högersida]] (右侧), [[högertrafik]] (靠右行驶规则)\n- 同义词: —\n- 反义词: [[vänster]]\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `på höger sida` 和 `till höger` 都表示\"在右边\"，可互换。\n- 政治语境：*högern* = 右派。",
+      "excerpt": "höger — substantiv / adverb 📖 中文：右；右边 · English: right 发音提示：HÖ ger；两音节。 语法变形 (Forms) 无变形（用作副词时）。 Uttryck Användning på höger sida 在右侧 till höger 在右边 sväng höger 向右转 höger om 在…的右边 词组搭配 (Collocations) på höger sida — 在右侧",
+      "links": [
+        "högersida",
+        "högertrafik",
+        "sent-fortsatt-lite-till-gra-dorr",
+        "topic-riktningar",
+        "vänster"
+      ],
+      "searchText": "höger höger knowledge_base/words/höger.md ---\ntype: word\nlemma: \"höger\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"右；右边\"\nen: \"right\"\nsynonyms: []\nantonyms:\n  - vänster\nfamily:\n  - vänster\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-fortsatt-lite-till-gra-dorr\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# höger — substantiv / adverb\n\n📖 中文：右；右边 · English: right\n发音提示：HÖ-ger；两音节。\n\n## 语法变形 (Forms)\n\n无变形（用作副词时）。\n\n| Uttryck | Användning |\n|---------|-----------|\n| `på höger sida` | 在右侧 |\n| `till höger` | 在右边 |\n| `sväng höger` | 向右转 |\n| `höger om` | 在…的右边 |\n\n## 词组搭配 (Collocations)\n\n- `på höger sida` — 在右侧\n- `till höger` — 向右/在右边\n- `sväng till höger` — 向右转\n- `hålla höger` — 靠右行驶\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[högersida]] (右侧), [[högertrafik]] (靠右行驶规则)\n- 同义词: —\n- 反义词: [[vänster]]\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `på höger sida` 和 `till höger` 都表示\"在右边\"，可互换。\n- 政治语境：*högern* = 右派。\n",
+      "lemma": "höger",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "右；右边",
+      "en": "right",
+      "created": "2026-06-03",
       "known": false
     },
     {
@@ -1591,6 +2407,28 @@ window.KB_DATA = {
       "known": false
     },
     {
+      "slug": "längs",
+      "type": "word",
+      "title": "längs",
+      "path": "knowledge_base/words/längs.md",
+      "body": "# längs — preposition\n\n📖 中文：沿着 · English: along\n发音提示：längs（单音节）。\n\n## 语法变形 (Forms)\n\n介词，不变形。\n\n## 词组搭配 (Collocations)\n\n- `längs vattnet` — 沿着水边\n- `längs gatan` — 沿着街道\n- `längs kusten` — 沿着海岸\n- `längs vägen` — 沿路\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[långs]] (古旧形式，同义)\n- 同义词: [[utmed]] (沿着，较正式)\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `längs` + 名词（定形）：*längs vattnet*，*längs gatan*。\n- 与 `längsmed` 可互换（`längsmed stranden` = 沿着海滩）。",
+      "excerpt": "längs — preposition 📖 中文：沿着 · English: along 发音提示：längs（单音节）。 语法变形 (Forms) 介词，不变形。 词组搭配 (Collocations) längs vattnet — 沿着水边 längs gatan — 沿着街道 längs kusten — 沿着海岸 längs vägen — 沿路 例句 (Sentences) sent sen gar du rakt fra",
+      "links": [
+        "långs",
+        "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "topic-riktningar",
+        "utmed"
+      ],
+      "searchText": "längs längs knowledge_base/words/längs.md ---\ntype: word\nlemma: \"längs\"\nordklass: preposition\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"沿着\"\nen: \"along\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# längs — preposition\n\n📖 中文：沿着 · English: along\n发音提示：längs（单音节）。\n\n## 语法变形 (Forms)\n\n介词，不变形。\n\n## 词组搭配 (Collocations)\n\n- `längs vattnet` — 沿着水边\n- `längs gatan` — 沿着街道\n- `längs kusten` — 沿着海岸\n- `längs vägen` — 沿路\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[långs]] (古旧形式，同义)\n- 同义词: [[utmed]] (沿着，较正式)\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `längs` + 名词（定形）：*längs vattnet*，*längs gatan*。\n- 与 `längsmed` 可互换（`längsmed stranden` = 沿着海滩）。\n",
+      "lemma": "längs",
+      "ordklass": "preposition",
+      "cefr": "A2",
+      "zh": "沿着",
+      "en": "along",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
       "slug": "längta",
       "type": "word",
       "title": "längta",
@@ -1653,6 +2491,51 @@ window.KB_DATA = {
       "zh": "生活；活着；生存",
       "en": "to live; to be alive",
       "created": "2026-06-02",
+      "known": false
+    },
+    {
+      "slug": "linje",
+      "type": "word",
+      "title": "linje",
+      "path": "knowledge_base/words/linje.md",
+      "body": "# linje — substantiv (en)\n\n📖 中文：线路；线 · English: line\n发音提示：LIN-je；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en linje |\n| Singular bestämd | linjen |\n| Plural obestämd | linjer |\n| Plural bestämd | linjerna |\n\n## 词组搭配 (Collocations)\n\n- `tunnelbanelinje` — 地铁线路\n- `linje 13` — 13号线\n- `hålla linjen` — 保持立场/路线\n- `stå i linje` — 排队\n\n## 例句 (Sentences)\n\n- [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14. 🇨🇳 坐地铁到斯鲁森站，13或14号线。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[linjal]] (尺子), [[linjär]] (adj. 线性的)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 交通语境：`linje 13` 指线路号，不加冠词。\n- 复数 `linjer` 注意不是 `linjer` → 规则变化。",
+      "excerpt": "linje — substantiv (en) 📖 中文：线路；线 · English: line 发音提示：LIN je；两音节。 语法变形 (Forms) Form Swedish Singular obestämd en linje Singular bestämd linjen Plural obestämd linjer Plural bestämd linjerna 词组搭配 (Collocations) tunnelba",
+      "links": [
+        "linjal",
+        "linjär",
+        "sent-ta-tunnelbanan-till-slussen",
+        "topic-riktningar"
+      ],
+      "searchText": "linje linje knowledge_base/words/linje.md ---\ntype: word\nlemma: \"linje\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"线路；线\"\nen: \"line\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-ta-tunnelbanan-till-slussen\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# linje — substantiv (en)\n\n📖 中文：线路；线 · English: line\n发音提示：LIN-je；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en linje |\n| Singular bestämd | linjen |\n| Plural obestämd | linjer |\n| Plural bestämd | linjerna |\n\n## 词组搭配 (Collocations)\n\n- `tunnelbanelinje` — 地铁线路\n- `linje 13` — 13号线\n- `hålla linjen` — 保持立场/路线\n- `stå i linje` — 排队\n\n## 例句 (Sentences)\n\n- [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14. 🇨🇳 坐地铁到斯鲁森站，13或14号线。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[linjal]] (尺子), [[linjär]] (adj. 线性的)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 交通语境：`linje 13` 指线路号，不加冠词。\n- 复数 `linjer` 注意不是 `linjer` → 规则变化。\n",
+      "lemma": "linje",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "线路；线",
+      "en": "line",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "lova",
+      "type": "word",
+      "title": "lova",
+      "path": "knowledge_base/words/lova.md",
+      "body": "# lova — verb (grupp 1)\n\n📖 中文：承诺；保证 · English: to promise\n发音提示：LO-va；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att lova |\n| Imperativ | lova! |\n| Presens | lovar |\n| Preteritum | lovade |\n| Supinum | (har) lovat |\n\n## 词组搭配 (Collocations)\n\n- `lovar!` — 保证！（独立感叹用法）\n- `lova att göra ngt` — 承诺做某事\n- `hålla sitt löfte` — 遵守承诺\n- `lova guld och gröna skogar` — 许下空头支票（成语）\n\n## 例句 (Sentences)\n\n- [[sent-jag-ar-dar-om-tjugo-minuter]] 🇸🇪 Jag är där om tjugo minuter, lovar! 🇨🇳 我二十分钟后到，保证！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[löfte]] (ett, 承诺/诺言), [[lovande]] (adj. 有前途的)\n- 同义词: [[försäkra]] (v. 保证/确保，较正式), [[garantera]] (v. 保证)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `lovar!` 单独使用 = 保证！（类似英语 \"I promise!\" 的缩略用法）\n- `lova att + infinitiv`：*Han lovade att komma.* — 他承诺会来。\n- 注意：`lovade` 是 preteritum，`lovat` 是 supinum（与 grupp 1 规则一致）。",
+      "excerpt": "lova — verb (grupp 1) 📖 中文：承诺；保证 · English: to promise 发音提示：LO va；两音节。 语法变形 (Forms) Form Swedish Infinitiv att lova Imperativ lova! Presens lovar Preteritum lovade Supinum (har) lovat 词组搭配 (Collocations) lovar! — 保证！（独立",
+      "links": [
+        "försäkra",
+        "garantera",
+        "löfte",
+        "lovande",
+        "sent-jag-ar-dar-om-tjugo-minuter"
+      ],
+      "searchText": "lova lova knowledge_base/words/lova.md ---\ntype: word\nlemma: \"lova\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"承诺；保证\"\nen: \"to promise\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-jag-ar-dar-om-tjugo-minuter\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lova — verb (grupp 1)\n\n📖 中文：承诺；保证 · English: to promise\n发音提示：LO-va；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att lova |\n| Imperativ | lova! |\n| Presens | lovar |\n| Preteritum | lovade |\n| Supinum | (har) lovat |\n\n## 词组搭配 (Collocations)\n\n- `lovar!` — 保证！（独立感叹用法）\n- `lova att göra ngt` — 承诺做某事\n- `hålla sitt löfte` — 遵守承诺\n- `lova guld och gröna skogar` — 许下空头支票（成语）\n\n## 例句 (Sentences)\n\n- [[sent-jag-ar-dar-om-tjugo-minuter]] 🇸🇪 Jag är där om tjugo minuter, lovar! 🇨🇳 我二十分钟后到，保证！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[löfte]] (ett, 承诺/诺言), [[lovande]] (adj. 有前途的)\n- 同义词: [[försäkra]] (v. 保证/确保，较正式), [[garantera]] (v. 保证)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `lovar!` 单独使用 = 保证！（类似英语 \"I promise!\" 的缩略用法）\n- `lova att + infinitiv`：*Han lovade att komma.* — 他承诺会来。\n- 注意：`lovade` 是 preteritum，`lovat` 是 supinum（与 grupp 1 规则一致）。\n",
+      "lemma": "lova",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "承诺；保证",
+      "en": "to promise",
+      "created": "2026-06-03",
       "known": false
     },
     {
@@ -1728,6 +2611,28 @@ window.KB_DATA = {
       "zh": "记得/回忆",
       "en": "to remember",
       "created": "2026-06-02",
+      "known": false
+    },
+    {
+      "slug": "missa",
+      "type": "word",
+      "title": "missa",
+      "path": "knowledge_base/words/missa.md",
+      "body": "# missa — verb (grupp 1)\n\n📖 中文：错过 · English: to miss\n发音提示：MIS-sa；两音节，双写 ss。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att missa |\n| Imperativ | missa! |\n| Presens | missar |\n| Preteritum | missade |\n| Supinum | (har) missat |\n\n## 词组搭配 (Collocations)\n\n- `du kan inte missa den` — 你不会错过的（它很显眼）\n- `missa tåget` — 错过火车\n- `missa chansen` — 错过机会\n- `inte missa` — 不能错过（推荐某物）\n\n## 例句 (Sentences)\n\n- [[sent-du-kan-inte-missa-den]] 🇸🇪 Du kan inte missa den. 🇨🇳 你不会错过的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[miss]] (en, 失误/遗漏)\n- 同义词: [[förbise]] (忽视/忽略，较正式)\n- 反义词: [[hitta]] (找到/发现)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `du kan inte missa den` 常用于描述明显的地标：你绝对找得到/看得到。\n- 借自英语 \"miss\"，grupp 1 规则变化。",
+      "excerpt": "missa — verb (grupp 1) 📖 中文：错过 · English: to miss 发音提示：MIS sa；两音节，双写 ss。 语法变形 (Forms) Form Swedish Infinitiv att missa Imperativ missa! Presens missar Preteritum missade Supinum (har) missat 词组搭配 (Collocations) du kan i",
+      "links": [
+        "förbise",
+        "hitta",
+        "miss",
+        "sent-du-kan-inte-missa-den"
+      ],
+      "searchText": "missa missa knowledge_base/words/missa.md ---\ntype: word\nlemma: \"missa\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"错过\"\nen: \"to miss\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-du-kan-inte-missa-den\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# missa — verb (grupp 1)\n\n📖 中文：错过 · English: to miss\n发音提示：MIS-sa；两音节，双写 ss。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att missa |\n| Imperativ | missa! |\n| Presens | missar |\n| Preteritum | missade |\n| Supinum | (har) missat |\n\n## 词组搭配 (Collocations)\n\n- `du kan inte missa den` — 你不会错过的（它很显眼）\n- `missa tåget` — 错过火车\n- `missa chansen` — 错过机会\n- `inte missa` — 不能错过（推荐某物）\n\n## 例句 (Sentences)\n\n- [[sent-du-kan-inte-missa-den]] 🇸🇪 Du kan inte missa den. 🇨🇳 你不会错过的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[miss]] (en, 失误/遗漏)\n- 同义词: [[förbise]] (忽视/忽略，较正式)\n- 反义词: [[hitta]] (找到/发现)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `du kan inte missa den` 常用于描述明显的地标：你绝对找得到/看得到。\n- 借自英语 \"miss\"，grupp 1 规则变化。\n",
+      "lemma": "missa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "错过",
+      "en": "to miss",
+      "created": "2026-06-03",
       "known": false
     },
     {
@@ -1891,6 +2796,92 @@ window.KB_DATA = {
       "known": false
     },
     {
+      "slug": "rakt",
+      "type": "word",
+      "title": "rakt",
+      "path": "knowledge_base/words/rakt.md",
+      "body": "# rakt — adverb\n\n📖 中文：直地；笔直地 · English: straight\n发音提示：rakt（单音节，k 不发音在 t 前）。\n\n## 语法变形 (Forms)\n\n副词，不变形。形容词形式：`rak` (en) / `rakt` (ett) / `raka` (pl.)\n\n## 词组搭配 (Collocations)\n\n- `rakt fram` — 直走/向前直走\n- `rakt igenom` — 笔直穿过\n- `gå rakt` — 走直线\n- `rakt ut` — 直接地；坦率地\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rak]] (adj. 直的/平直的)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `rakt fram` 是最常用的方向短语，表示\"直走\"。\n- 作形容词时：`en rak linje`（一条直线），`ett rakt svar`（直接的回答）。",
+      "excerpt": "rakt — adverb 📖 中文：直地；笔直地 · English: straight 发音提示：rakt（单音节，k 不发音在 t 前）。 语法变形 (Forms) 副词，不变形。形容词形式： rak (en) / rakt (ett) / raka (pl.) 词组搭配 (Collocations) rakt fram — 直走/向前直走 rakt igenom — 笔直穿过 gå rakt — 走直线 rakt ut — 直",
+      "links": [
+        "rak",
+        "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "topic-riktningar"
+      ],
+      "searchText": "rakt rakt knowledge_base/words/rakt.md ---\ntype: word\nlemma: \"rakt\"\nordklass: adverb\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"直地；笔直地\"\nen: \"straight\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rakt — adverb\n\n📖 中文：直地；笔直地 · English: straight\n发音提示：rakt（单音节，k 不发音在 t 前）。\n\n## 语法变形 (Forms)\n\n副词，不变形。形容词形式：`rak` (en) / `rakt` (ett) / `raka` (pl.)\n\n## 词组搭配 (Collocations)\n\n- `rakt fram` — 直走/向前直走\n- `rakt igenom` — 笔直穿过\n- `gå rakt` — 走直线\n- `rakt ut` — 直接地；坦率地\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rak]] (adj. 直的/平直的)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `rakt fram` 是最常用的方向短语，表示\"直走\"。\n- 作形容词时：`en rak linje`（一条直线），`ett rakt svar`（直接的回答）。\n",
+      "lemma": "rakt",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "直地；笔直地",
+      "en": "straight",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "restaurang",
+      "type": "word",
+      "title": "restaurang",
+      "path": "knowledge_base/words/restaurang.md",
+      "body": "# restaurang — substantiv (en)\n\n📖 中文：餐厅 · English: restaurant\n发音提示：res-tau-RANG；法语借词，末音节重音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en restaurang |\n| Singular bestämd | restaurangen |\n| Plural obestämd | restauranger |\n| Plural bestämd | restaurangerna |\n\n## 词组搭配 (Collocations)\n\n- `äta på restaurang` — 在餐厅吃饭\n- `gå på restaurang` — 去餐厅（就餐）\n- `restaurangbesök` — 餐厅就餐（名词复合）\n\n## 例句 (Sentences)\n\n- [[sent-vi-ar-pa-restaurang-kolkallan]] 🇸🇪 Vi är på Restaurang Kolkällan, på Hornsgatan. 🇨🇳 我们在科尔克兰餐厅，在霍恩斯街。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[restaurangchef]] (餐厅经理), [[restaurangbesök]]\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 法语借词，复数加 `-er`（restauranger）。\n- 专有名词用作餐厅名时首字母大写：*Restaurang Kolkällan*。",
+      "excerpt": "restaurang — substantiv (en) 📖 中文：餐厅 · English: restaurant 发音提示：res tau RANG；法语借词，末音节重音。 语法变形 (Forms) Form Swedish Singular obestämd en restaurang Singular bestämd restaurangen Plural obestämd restauranger Plural bestäm",
+      "links": [
+        "restaurangbesök",
+        "restaurangchef",
+        "sent-vi-ar-pa-restaurang-kolkallan"
+      ],
+      "searchText": "restaurang restaurang knowledge_base/words/restaurang.md ---\ntype: word\nlemma: \"restaurang\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"餐厅\"\nen: \"restaurant\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-vi-ar-pa-restaurang-kolkallan\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# restaurang — substantiv (en)\n\n📖 中文：餐厅 · English: restaurant\n发音提示：res-tau-RANG；法语借词，末音节重音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en restaurang |\n| Singular bestämd | restaurangen |\n| Plural obestämd | restauranger |\n| Plural bestämd | restaurangerna |\n\n## 词组搭配 (Collocations)\n\n- `äta på restaurang` — 在餐厅吃饭\n- `gå på restaurang` — 去餐厅（就餐）\n- `restaurangbesök` — 餐厅就餐（名词复合）\n\n## 例句 (Sentences)\n\n- [[sent-vi-ar-pa-restaurang-kolkallan]] 🇸🇪 Vi är på Restaurang Kolkällan, på Hornsgatan. 🇨🇳 我们在科尔克兰餐厅，在霍恩斯街。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[restaurangchef]] (餐厅经理), [[restaurangbesök]]\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 法语借词，复数加 `-er`（restauranger）。\n- 专有名词用作餐厅名时首字母大写：*Restaurang Kolkällan*。\n",
+      "lemma": "restaurang",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "餐厅",
+      "en": "restaurant",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "riktning",
+      "type": "word",
+      "title": "riktning",
+      "path": "knowledge_base/words/riktning.md",
+      "body": "# riktning — substantiv (en)\n\n📖 中文：方向 · English: direction\n发音提示：RIK-tning；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en riktning |\n| Singular bestämd | riktningen |\n| Plural obestämd | riktningar |\n| Plural bestämd | riktningarna |\n\n## 词组搭配 (Collocations)\n\n- `vilken riktning` — 哪个方向\n- `i riktning mot` — 朝…方向\n- `fel riktning` — 错误方向\n- `rätt riktning` — 正确方向\n- `byta riktning` — 改变方向\n\n## 例句 (Sentences)\n\n- [[sent-vilken-riktning-ska-jag-ga]] 🇸🇪 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rikta]] (v. 瞄准/指向), [[riktningsvisare]] (方向指示灯)\n- 同义词: [[håll]] (ett, 方向/方位)\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 问路常用：*Vilken riktning ska jag gå?*（我该往哪个方向走？）\n- `i riktning mot söder` = 朝南方向走。",
+      "excerpt": "riktning — substantiv (en) 📖 中文：方向 · English: direction 发音提示：RIK tning；两音节。 语法变形 (Forms) Form Swedish Singular obestämd en riktning Singular bestämd riktningen Plural obestämd riktningar Plural bestämd riktningarna 词组搭配",
+      "links": [
+        "håll",
+        "rikta",
+        "riktningsvisare",
+        "sent-vilken-riktning-ska-jag-ga",
+        "topic-riktningar"
+      ],
+      "searchText": "riktning riktning knowledge_base/words/riktning.md ---\ntype: word\nlemma: \"riktning\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"方向\"\nen: \"direction\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-vilken-riktning-ska-jag-ga\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# riktning — substantiv (en)\n\n📖 中文：方向 · English: direction\n发音提示：RIK-tning；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en riktning |\n| Singular bestämd | riktningen |\n| Plural obestämd | riktningar |\n| Plural bestämd | riktningarna |\n\n## 词组搭配 (Collocations)\n\n- `vilken riktning` — 哪个方向\n- `i riktning mot` — 朝…方向\n- `fel riktning` — 错误方向\n- `rätt riktning` — 正确方向\n- `byta riktning` — 改变方向\n\n## 例句 (Sentences)\n\n- [[sent-vilken-riktning-ska-jag-ga]] 🇸🇪 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rikta]] (v. 瞄准/指向), [[riktningsvisare]] (方向指示灯)\n- 同义词: [[håll]] (ett, 方向/方位)\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 问路常用：*Vilken riktning ska jag gå?*（我该往哪个方向走？）\n- `i riktning mot söder` = 朝南方向走。\n",
+      "lemma": "riktning",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "方向",
+      "en": "direction",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "röd",
+      "type": "word",
+      "title": "röd",
+      "path": "knowledge_base/words/röd.md",
+      "body": "# röd — adjektiv\n\n📖 中文：红色的 · English: red\n发音提示：röd（单音节，ö 圆唇）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum (en) | röd |\n| Neutrum (ett) | rött |\n| Plural / bestämd | röda |\n\n## 词组搭配 (Collocations)\n\n- `röd byggnad` — 红色楼房\n- `röd lykta` — 红灯（partikelverb: hålla röd lykta）\n- `röd linje` — 红线（比喻底线）\n- `bli röd` — 脸红\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rodna]] (v. 脸红), [[rödhet]] (红色/潮红)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 形容词三形变化：röd / rött / röda。\n- 前置定语：*en röd bil*（不加 -a）；但在特定/后置时加 -a：*den röda bilen*。",
+      "excerpt": "röd — adjektiv 📖 中文：红色的 · English: red 发音提示：röd（单音节，ö 圆唇）。 语法变形 (Forms) Form Swedish Utrum (en) röd Neutrum (ett) rött Plural / bestämd röda 词组搭配 (Collocations) röd byggnad — 红色楼房 röd lykta — 红灯（partikelverb: hålla röd ",
+      "links": [
+        "rödhet",
+        "rodna",
+        "sent-du-ser-en-stor-rod-byggnad"
+      ],
+      "searchText": "röd röd knowledge_base/words/röd.md ---\ntype: word\nlemma: \"röd\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"红色的\"\nen: \"red\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-du-ser-en-stor-rod-byggnad\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# röd — adjektiv\n\n📖 中文：红色的 · English: red\n发音提示：röd（单音节，ö 圆唇）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum (en) | röd |\n| Neutrum (ett) | rött |\n| Plural / bestämd | röda |\n\n## 词组搭配 (Collocations)\n\n- `röd byggnad` — 红色楼房\n- `röd lykta` — 红灯（partikelverb: hålla röd lykta）\n- `röd linje` — 红线（比喻底线）\n- `bli röd` — 脸红\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rodna]] (v. 脸红), [[rödhet]] (红色/潮红)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 形容词三形变化：röd / rött / röda。\n- 前置定语：*en röd bil*（不加 -a）；但在特定/后置时加 -a：*den röda bilen*。\n",
+      "lemma": "röd",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "红色的",
+      "en": "red",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
       "slug": "saga",
       "type": "word",
       "title": "saga",
@@ -1978,6 +2969,104 @@ window.KB_DATA = {
       "known": false
     },
     {
+      "slug": "skylt",
+      "type": "word",
+      "title": "skylt",
+      "path": "knowledge_base/words/skylt.md",
+      "body": "# skylt — substantiv (en)\n\n📖 中文：招牌；标志 · English: sign\n发音提示：skylt（单音节）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en skylt |\n| Singular bestämd | skylten |\n| Plural obestämd | skyltar |\n| Plural bestämd | skyltarna |\n\n## 词组搭配 (Collocations)\n\n- `en liten svart skylt` — 一块小黑牌\n- `en skylt utanför` — 外面的招牌\n- `trafikskylt` — 交通标志\n- `butikskylt` — 商店招牌\n- `sätta upp en skylt` — 挂招牌\n\n## 例句 (Sentences)\n\n- [[sent-finns-det-en-skylt]] 🇸🇪 Finns det en skylt? 🇨🇳 有招牌吗？\n- [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇪 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skylta]] (v. 做标记/展示), [[skyltfönster]] (橱窗)\n- 同义词: [[tecken]] (ett, 标志/记号), [[skilt]] (标志，较少用)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `en skylt hänger` — 招牌挂着（det hänger en skylt = 那里挂着一块招牌，存在句）。\n- 区分：`skylt`（具体招牌）vs `tecken`（抽象符号/标志）。",
+      "excerpt": "skylt — substantiv (en) 📖 中文：招牌；标志 · English: sign 发音提示：skylt（单音节）。 语法变形 (Forms) Form Swedish Singular obestämd en skylt Singular bestämd skylten Plural obestämd skyltar Plural bestämd skyltarna 词组搭配 (Collocations) en l",
+      "links": [
+        "sent-finns-det-en-skylt",
+        "sent-ja-det-hanger-en-liten-svart-skylt",
+        "skilt",
+        "skylta",
+        "skyltfönster",
+        "tecken"
+      ],
+      "searchText": "skylt skylt knowledge_base/words/skylt.md ---\ntype: word\nlemma: \"skylt\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"招牌；标志\"\nen: \"sign\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-finns-det-en-skylt\n  - sent-ja-det-hanger-en-liten-svart-skylt\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skylt — substantiv (en)\n\n📖 中文：招牌；标志 · English: sign\n发音提示：skylt（单音节）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en skylt |\n| Singular bestämd | skylten |\n| Plural obestämd | skyltar |\n| Plural bestämd | skyltarna |\n\n## 词组搭配 (Collocations)\n\n- `en liten svart skylt` — 一块小黑牌\n- `en skylt utanför` — 外面的招牌\n- `trafikskylt` — 交通标志\n- `butikskylt` — 商店招牌\n- `sätta upp en skylt` — 挂招牌\n\n## 例句 (Sentences)\n\n- [[sent-finns-det-en-skylt]] 🇸🇪 Finns det en skylt? 🇨🇳 有招牌吗？\n- [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇪 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skylta]] (v. 做标记/展示), [[skyltfönster]] (橱窗)\n- 同义词: [[tecken]] (ett, 标志/记号), [[skilt]] (标志，较少用)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `en skylt hänger` — 招牌挂着（det hänger en skylt = 那里挂着一块招牌，存在句）。\n- 区分：`skylt`（具体招牌）vs `tecken`（抽象符号/标志）。\n",
+      "lemma": "skylt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "招牌；标志",
+      "en": "sign",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "skynda",
+      "type": "word",
+      "title": "skynda",
+      "path": "knowledge_base/words/skynda.md",
+      "body": "# skynda — verb (grupp 1)\n\n📖 中文：赶快；急忙 · English: to hurry\n发音提示：SKYN-da；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att skynda |\n| Imperativ | skynda! |\n| Presens | skyndar |\n| Preteritum | skyndade |\n| Supinum | (har) skyndat |\n\n## 词组搭配 (Collocations)\n\n- `skynda dig` — 快点（反身，祈使句）\n- `skynda sig` — 赶快（第三人称反身）\n- `skynda på` — 加快/催促\n\n## 例句 (Sentences)\n\n- [[sent-skynda-dig-lite]] 🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skyndsamhet]] (紧迫性/匆忙)\n- 同义词: [[hasta]] (v. 赶紧，较文雅), [[rusa]] (v. 冲/奔跑)\n- 反义词: [[ta det lugnt]] (放慢/别急)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `skynda sig` 是反身动词：*Han skyndar sig* = 他赶快。\n- 祈使句：`Skynda dig!` = 快点！（注意 `dig` 是反身代词，二人称）\n- 见词组 [[skynda-dig]] 和语法 [[grammar-reflexivt-verb]]。",
+      "excerpt": "skynda — verb (grupp 1) 📖 中文：赶快；急忙 · English: to hurry 发音提示：SKYN da；两音节。 语法变形 (Forms) Form Swedish Infinitiv att skynda Imperativ skynda! Presens skyndar Preteritum skyndade Supinum (har) skyndat 词组搭配 (Collocations) sky",
+      "links": [
+        "grammar-reflexivt-verb",
+        "hasta",
+        "rusa",
+        "sent-skynda-dig-lite",
+        "skynda-dig",
+        "skyndsamhet",
+        "ta det lugnt"
+      ],
+      "searchText": "skynda skynda knowledge_base/words/skynda.md ---\ntype: word\nlemma: \"skynda\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"赶快；急忙\"\nen: \"to hurry\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-skynda-dig-lite\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skynda — verb (grupp 1)\n\n📖 中文：赶快；急忙 · English: to hurry\n发音提示：SKYN-da；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att skynda |\n| Imperativ | skynda! |\n| Presens | skyndar |\n| Preteritum | skyndade |\n| Supinum | (har) skyndat |\n\n## 词组搭配 (Collocations)\n\n- `skynda dig` — 快点（反身，祈使句）\n- `skynda sig` — 赶快（第三人称反身）\n- `skynda på` — 加快/催促\n\n## 例句 (Sentences)\n\n- [[sent-skynda-dig-lite]] 🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skyndsamhet]] (紧迫性/匆忙)\n- 同义词: [[hasta]] (v. 赶紧，较文雅), [[rusa]] (v. 冲/奔跑)\n- 反义词: [[ta det lugnt]] (放慢/别急)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `skynda sig` 是反身动词：*Han skyndar sig* = 他赶快。\n- 祈使句：`Skynda dig!` = 快点！（注意 `dig` 是反身代词，二人称）\n- 见词组 [[skynda-dig]] 和语法 [[grammar-reflexivt-verb]]。\n",
+      "lemma": "skynda",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "赶快；急忙",
+      "en": "to hurry",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "snart",
+      "type": "word",
+      "title": "snart",
+      "path": "knowledge_base/words/snart.md",
+      "body": "# snart — adverb\n\n📖 中文：很快；即将 · English: soon\n发音提示：snart（单音节）。\n\n## 语法变形 (Forms)\n\n副词，不变形。比较级：`snart` → `snarare`（更宁可/更快）→ `snarast`（最快/尽快）。\n\n## 词组搭配 (Collocations)\n\n- `vi ses snart` — 待会见/很快见\n- `snart klar` — 快好了\n- `så snart som möjligt` — 尽快（ASAP）\n- `snart sagt` — 简而言之\n\n## 例句 (Sentences)\n\n- [[sent-vi-ses-snart]] 🇸🇪 Vi ses snart. 🇨🇳 待会见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[snarare]] (adv. 更宁可/更快地), [[snarast]] (adv. 尽快)\n- 同义词: [[strax]] (adv. 立刻/马上), [[inom kort]] (不久)\n- 反义词: [[aldrig]] (永远不), [[sent]] (很晚/太迟)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `vi ses snart` = 待会见（打招呼道别用语）。\n- `så snart som möjligt`（ASAP）是正式/邮件中常用的说法。\n- `snarare` 还有\"更准确地说/更宁可\"的意思，注意多义。",
+      "excerpt": "snart — adverb 📖 中文：很快；即将 · English: soon 发音提示：snart（单音节）。 语法变形 (Forms) 副词，不变形。比较级： snart → snarare （更宁可/更快）→ snarast （最快/尽快）。 词组搭配 (Collocations) vi ses snart — 待会见/很快见 snart klar — 快好了 så snart som möjligt — 尽快（ASAP） ",
+      "links": [
+        "aldrig",
+        "inom kort",
+        "sent",
+        "sent-vi-ses-snart",
+        "snarare",
+        "snarast",
+        "strax"
+      ],
+      "searchText": "snart snart knowledge_base/words/snart.md ---\ntype: word\nlemma: \"snart\"\nordklass: adverb\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"很快；即将\"\nen: \"soon\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-vi-ses-snart\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# snart — adverb\n\n📖 中文：很快；即将 · English: soon\n发音提示：snart（单音节）。\n\n## 语法变形 (Forms)\n\n副词，不变形。比较级：`snart` → `snarare`（更宁可/更快）→ `snarast`（最快/尽快）。\n\n## 词组搭配 (Collocations)\n\n- `vi ses snart` — 待会见/很快见\n- `snart klar` — 快好了\n- `så snart som möjligt` — 尽快（ASAP）\n- `snart sagt` — 简而言之\n\n## 例句 (Sentences)\n\n- [[sent-vi-ses-snart]] 🇸🇪 Vi ses snart. 🇨🇳 待会见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[snarare]] (adv. 更宁可/更快地), [[snarast]] (adv. 尽快)\n- 同义词: [[strax]] (adv. 立刻/马上), [[inom kort]] (不久)\n- 反义词: [[aldrig]] (永远不), [[sent]] (很晚/太迟)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `vi ses snart` = 待会见（打招呼道别用语）。\n- `så snart som möjligt`（ASAP）是正式/邮件中常用的说法。\n- `snarare` 还有\"更准确地说/更宁可\"的意思，注意多义。\n",
+      "lemma": "snart",
+      "ordklass": "adverb",
+      "cefr": "A1",
+      "zh": "很快；即将",
+      "en": "soon",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "söder",
+      "type": "word",
+      "title": "söder",
+      "path": "knowledge_base/words/söder.md",
+      "body": "# söder — substantiv (ett) / adverb\n\n📖 中文：南；向南 · English: south\n发音提示：SÖ-der；两音节，ö 如汉语\"诶\"的圆唇版本。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd | söder |\n| Bestämd | södern（地理学用法）|\n| 副词用法 | mot söder（往南）, i söder（在南方）|\n\n## 词组搭配 (Collocations)\n\n- `mot söder` — 往南（方向动作）\n- `i söder` — 在南方（位置）\n- `söder om` — 在…南边\n- `gå söderut` — 往南走\n\n## 例句 (Sentences)\n\n- [[sent-ga-mot-soder]] 🇸🇪 Gå mot söder. 🇨🇳 往南走。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[norr]] (北), [[öster]] (东), [[väster]] (西), [[söderut]] (adv. 向南)\n- 同义词: —\n- 反义词: [[norr]]\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 方向词：söder / norr / öster / väster（四个基本方向）。\n- `mot söder`（往南走）vs `i söder`（在南边）— 前者是动态方向，后者是静态位置。\n- `söderut` = 副词，表示朝南移动：*Vi körde söderut.* — 我们向南行驶。",
+      "excerpt": "söder — substantiv (ett) / adverb 📖 中文：南；向南 · English: south 发音提示：SÖ der；两音节，ö 如汉语\"诶\"的圆唇版本。 语法变形 (Forms) Form Swedish Obestämd söder Bestämd södern（地理学用法） 副词用法 mot söder（往南）, i söder（在南方） 词组搭配 (Collocations) mot söder —",
+      "links": [
+        "norr",
+        "öster",
+        "sent-ga-mot-soder",
+        "söderut",
+        "topic-riktningar",
+        "väster"
+      ],
+      "searchText": "söder söder knowledge_base/words/söder.md ---\ntype: word\nlemma: \"söder\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"南；向南\"\nen: \"south\"\nsynonyms: []\nantonyms:\n  - norr\nfamily:\n  - norr\n  - öster\n  - väster\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-ga-mot-soder\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# söder — substantiv (ett) / adverb\n\n📖 中文：南；向南 · English: south\n发音提示：SÖ-der；两音节，ö 如汉语\"诶\"的圆唇版本。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd | söder |\n| Bestämd | södern（地理学用法）|\n| 副词用法 | mot söder（往南）, i söder（在南方）|\n\n## 词组搭配 (Collocations)\n\n- `mot söder` — 往南（方向动作）\n- `i söder` — 在南方（位置）\n- `söder om` — 在…南边\n- `gå söderut` — 往南走\n\n## 例句 (Sentences)\n\n- [[sent-ga-mot-soder]] 🇸🇪 Gå mot söder. 🇨🇳 往南走。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[norr]] (北), [[öster]] (东), [[väster]] (西), [[söderut]] (adv. 向南)\n- 同义词: —\n- 反义词: [[norr]]\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 方向词：söder / norr / öster / väster（四个基本方向）。\n- `mot söder`（往南走）vs `i söder`（在南边）— 前者是动态方向，后者是静态位置。\n- `söderut` = 副词，表示朝南移动：*Vi körde söderut.* — 我们向南行驶。\n",
+      "lemma": "söder",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "南；向南",
+      "en": "south",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
       "slug": "syskon",
       "type": "word",
       "title": "syskon",
@@ -2022,6 +3111,29 @@ window.KB_DATA = {
       "zh": "无聊的/令人厌烦的",
       "en": "boring, dull",
       "created": "2026-06-02",
+      "known": false
+    },
+    {
+      "slug": "tunnelbana",
+      "type": "word",
+      "title": "tunnelbana",
+      "path": "knowledge_base/words/tunnelbana.md",
+      "body": "# tunnelbana — substantiv (en)\n\n📖 中文：地铁 · English: metro / subway\n发音提示：TUN-nel-ba-na；四音节，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en tunnelbana |\n| Singular bestämd | tunnelbanan |\n| Plural obestämd | tunnelbanor |\n| Plural bestämd | tunnelbanorna |\n\n## 词组搭配 (Collocations)\n\n- `ta tunnelbanan` — 坐地铁\n- `åka tunnelbana` — 乘地铁\n- `tunnelbanestation` — 地铁站\n- `tunnelbanelinje` — 地铁线路\n\n## 例句 (Sentences)\n\n- [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14. 🇨🇳 坐地铁到斯鲁森站，13或14号线。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tunnelbanestation]] (地铁站), [[tunnelbanelinje]] (地铁线)\n- 同义词: [[T-bana]] (口语简称)\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 斯德哥尔摩地铁俗称 \"T-banan\"（T = tunnelbana）。\n- `ta tunnelbanan`（坐地铁）vs `åka tunnelbana`（乘地铁，更通用）。",
+      "excerpt": "tunnelbana — substantiv (en) 📖 中文：地铁 · English: metro / subway 发音提示：TUN nel ba na；四音节，重音在首音节。 语法变形 (Forms) Form Swedish Singular obestämd en tunnelbana Singular bestämd tunnelbanan Plural obestämd tunnelbanor Plural bes",
+      "links": [
+        "sent-ta-tunnelbanan-till-slussen",
+        "T-bana",
+        "topic-riktningar",
+        "tunnelbanelinje",
+        "tunnelbanestation"
+      ],
+      "searchText": "tunnelbana tunnelbana knowledge_base/words/tunnelbana.md ---\ntype: word\nlemma: \"tunnelbana\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"地铁\"\nen: \"metro / subway\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-ta-tunnelbanan-till-slussen\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tunnelbana — substantiv (en)\n\n📖 中文：地铁 · English: metro / subway\n发音提示：TUN-nel-ba-na；四音节，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en tunnelbana |\n| Singular bestämd | tunnelbanan |\n| Plural obestämd | tunnelbanor |\n| Plural bestämd | tunnelbanorna |\n\n## 词组搭配 (Collocations)\n\n- `ta tunnelbanan` — 坐地铁\n- `åka tunnelbana` — 乘地铁\n- `tunnelbanestation` — 地铁站\n- `tunnelbanelinje` — 地铁线路\n\n## 例句 (Sentences)\n\n- [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14. 🇨🇳 坐地铁到斯鲁森站，13或14号线。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tunnelbanestation]] (地铁站), [[tunnelbanelinje]] (地铁线)\n- 同义词: [[T-bana]] (口语简称)\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 斯德哥尔摩地铁俗称 \"T-banan\"（T = tunnelbana）。\n- `ta tunnelbanan`（坐地铁）vs `åka tunnelbana`（乘地铁，更通用）。\n",
+      "lemma": "tunnelbana",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "地铁",
+      "en": "metro / subway",
+      "created": "2026-06-03",
       "known": false
     },
     {
@@ -2093,6 +3205,51 @@ window.KB_DATA = {
       "known": false
     },
     {
+      "slug": "vänster",
+      "type": "word",
+      "title": "vänster",
+      "path": "knowledge_base/words/vänster.md",
+      "body": "# vänster — substantiv / adverb\n\n📖 中文：左；左边 · English: left\n发音提示：VÄN-ster；两音节。\n\n## 语法变形 (Forms)\n\n无变形（用作副词/介词宾语时）。用作形容词时：`vänster` 不变（无词尾变化）。\n\n| Uttryck | Användning |\n|---------|-----------|\n| `till vänster` | 在左边 |\n| `på vänster sida` | 在左侧 |\n| `vänster om` | 在…的左边 |\n| `sväng vänster` | 向左转 |\n\n## 词组搭配 (Collocations)\n\n- `till vänster` — 在左边\n- `på vänster sida` — 在左侧\n- `sväng till vänster` — 向左转\n- `hålla vänster` — 靠左行驶\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vänstersida]] (左侧), [[vänsterhänt]] (左撇子)\n- 同义词: —\n- 反义词: [[höger]]\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `till vänster` = 在左边（位置）；`sväng vänster` = 向左转（动作，可不加 \"till\"）。\n- 政治语境：*vänstern* = 左派。",
+      "excerpt": "vänster — substantiv / adverb 📖 中文：左；左边 · English: left 发音提示：VÄN ster；两音节。 语法变形 (Forms) 无变形（用作副词/介词宾语时）。用作形容词时： vänster 不变（无词尾变化）。 Uttryck Användning till vänster 在左边 på vänster sida 在左侧 vänster om 在…的左边 sväng vänster 向",
+      "links": [
+        "höger",
+        "sent-du-ser-en-stor-rod-byggnad",
+        "topic-riktningar",
+        "vänsterhänt",
+        "vänstersida"
+      ],
+      "searchText": "vänster vänster knowledge_base/words/vänster.md ---\ntype: word\nlemma: \"vänster\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"左；左边\"\nen: \"left\"\nsynonyms: []\nantonyms:\n  - höger\nfamily:\n  - höger\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-du-ser-en-stor-rod-byggnad\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vänster — substantiv / adverb\n\n📖 中文：左；左边 · English: left\n发音提示：VÄN-ster；两音节。\n\n## 语法变形 (Forms)\n\n无变形（用作副词/介词宾语时）。用作形容词时：`vänster` 不变（无词尾变化）。\n\n| Uttryck | Användning |\n|---------|-----------|\n| `till vänster` | 在左边 |\n| `på vänster sida` | 在左侧 |\n| `vänster om` | 在…的左边 |\n| `sväng vänster` | 向左转 |\n\n## 词组搭配 (Collocations)\n\n- `till vänster` — 在左边\n- `på vänster sida` — 在左侧\n- `sväng till vänster` — 向左转\n- `hålla vänster` — 靠左行驶\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vänstersida]] (左侧), [[vänsterhänt]] (左撇子)\n- 同义词: —\n- 反义词: [[höger]]\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `till vänster` = 在左边（位置）；`sväng vänster` = 向左转（动作，可不加 \"till\"）。\n- 政治语境：*vänstern* = 左派。\n",
+      "lemma": "vänster",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "左；左边",
+      "en": "left",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
+      "slug": "vänta",
+      "type": "word",
+      "title": "vänta",
+      "path": "knowledge_base/words/vänta.md",
+      "body": "# vänta — verb (grupp 1)\n\n📖 中文：等待 · English: to wait\n发音提示：VÄN-ta；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att vänta |\n| Imperativ | vänta! |\n| Presens | väntar |\n| Preteritum | väntade |\n| Supinum | (har) väntat |\n\n## 词组搭配 (Collocations)\n\n- `vänta på ngn/ngt` — 等待某人/某事\n- `vi väntar på dig` — 我们在等你\n- `vänta lite` — 等一下\n- `vänta in` — 等候（直到某人到来）\n\n## 例句 (Sentences)\n\n- [[sent-vi-vantar-pa-dig]] 🇸🇪 Vi väntar på dig! 🇨🇳 我们在等你！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[väntan]] (en, 等待/期待), [[väntrum]] (候诊室/等候室)\n- 同义词: [[avvakta]] (等待观望，较正式)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `vänta på` 后接人或事：*Vi väntar på bussen.* — 我们在等公交车。\n- 命令形 `vänta!` = 等一下！（非常常用）",
+      "excerpt": "vänta — verb (grupp 1) 📖 中文：等待 · English: to wait 发音提示：VÄN ta；两音节。 语法变形 (Forms) Form Swedish Infinitiv att vänta Imperativ vänta! Presens väntar Preteritum väntade Supinum (har) väntat 词组搭配 (Collocations) vänta på ngn/n",
+      "links": [
+        "avvakta",
+        "sent-vi-vantar-pa-dig",
+        "väntan",
+        "väntrum"
+      ],
+      "searchText": "vänta vänta knowledge_base/words/vänta.md ---\ntype: word\nlemma: \"vänta\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"等待\"\nen: \"to wait\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-vi-vantar-pa-dig\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vänta — verb (grupp 1)\n\n📖 中文：等待 · English: to wait\n发音提示：VÄN-ta；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att vänta |\n| Imperativ | vänta! |\n| Presens | väntar |\n| Preteritum | väntade |\n| Supinum | (har) väntat |\n\n## 词组搭配 (Collocations)\n\n- `vänta på ngn/ngt` — 等待某人/某事\n- `vi väntar på dig` — 我们在等你\n- `vänta lite` — 等一下\n- `vänta in` — 等候（直到某人到来）\n\n## 例句 (Sentences)\n\n- [[sent-vi-vantar-pa-dig]] 🇸🇪 Vi väntar på dig! 🇨🇳 我们在等你！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[väntan]] (en, 等待/期待), [[väntrum]] (候诊室/等候室)\n- 同义词: [[avvakta]] (等待观望，较正式)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `vänta på` 后接人或事：*Vi väntar på bussen.* — 我们在等公交车。\n- 命令形 `vänta!` = 等一下！（非常常用）\n",
+      "lemma": "vänta",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "等待",
+      "en": "to wait",
+      "created": "2026-06-03",
+      "known": false
+    },
+    {
       "slug": "varandra",
       "type": "word",
       "title": "varandra",
@@ -2107,6 +3264,28 @@ window.KB_DATA = {
       "zh": "彼此；互相；相互",
       "en": "each other; one another",
       "created": "2026-06-02",
+      "known": false
+    },
+    {
+      "slug": "vatten",
+      "type": "word",
+      "title": "vatten",
+      "path": "knowledge_base/words/vatten.md",
+      "body": "# vatten — substantiv (ett)\n\n📖 中文：水；水边 · English: water\n发音提示：VAT-ten；双写 tt，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett vatten |\n| Singular bestämd | vattnet |\n| Plural obestämd | vatten（不变）|\n| Plural bestämd | vattnen |\n\n复数形式与单数相同（vatten → vatten），属于 ett-词零复数规则。\n\n## 词组搭配 (Collocations)\n\n- `längs vattnet` — 沿着水边\n- `ett glas vatten` — 一杯水\n- `dricksvatten` — 饮用水\n- `havsvatten` — 海水\n- `vattenfall` — 瀑布\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vattenfall]] (瀑布), [[dricksvatten]] (饮用水), [[vattenkran]] (水龙头)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 在地理/方向语境中 `vattnet`（定形）= 水边/湖边/海边。\n- 零复数：*ett glas vatten* / *flera glas vatten*（不加 -n/-r）。",
+      "excerpt": "vatten — substantiv (ett) 📖 中文：水；水边 · English: water 发音提示：VAT ten；双写 tt，重音在首音节。 语法变形 (Forms) Form Swedish Singular obestämd ett vatten Singular bestämd vattnet Plural obestämd vatten（不变） Plural bestämd vattnen 复数形式与单数相同",
+      "links": [
+        "dricksvatten",
+        "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "vattenfall",
+        "vattenkran"
+      ],
+      "searchText": "vatten vatten knowledge_base/words/vatten.md ---\ntype: word\nlemma: \"vatten\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A1\"\nzh: \"水；水边\"\nen: \"water\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vatten — substantiv (ett)\n\n📖 中文：水；水边 · English: water\n发音提示：VAT-ten；双写 tt，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett vatten |\n| Singular bestämd | vattnet |\n| Plural obestämd | vatten（不变）|\n| Plural bestämd | vattnen |\n\n复数形式与单数相同（vatten → vatten），属于 ett-词零复数规则。\n\n## 词组搭配 (Collocations)\n\n- `längs vattnet` — 沿着水边\n- `ett glas vatten` — 一杯水\n- `dricksvatten` — 饮用水\n- `havsvatten` — 海水\n- `vattenfall` — 瀑布\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vattenfall]] (瀑布), [[dricksvatten]] (饮用水), [[vattenkran]] (水龙头)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 在地理/方向语境中 `vattnet`（定形）= 水边/湖边/海边。\n- 零复数：*ett glas vatten* / *flera glas vatten*（不加 -n/-r）。\n",
+      "lemma": "vatten",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "水；水边",
+      "en": "water",
+      "created": "2026-06-03",
       "known": false
     },
     {
