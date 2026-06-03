@@ -1,5 +1,12 @@
 $ErrorActionPreference = "Stop"
 
+$nodeScript = Join-Path $PSScriptRoot "build-kb-site.js"
+if (Get-Command node -ErrorAction SilentlyContinue) {
+    & node $nodeScript
+    exit $LASTEXITCODE
+}
+
+
 $repoRoot = Split-Path -Parent $PSScriptRoot
 $kbRoot = Join-Path $repoRoot "knowledge_base"
 $siteRoot = Join-Path $repoRoot "site"

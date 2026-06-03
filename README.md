@@ -15,13 +15,13 @@ The markdown knowledge base can be browsed as a static website:
 - Source of truth: `knowledge_base/` markdown files.
 - Generated search data: `site/kb-data.js`.
 
-After adding or editing KB notes, regenerate the viewer data:
+After adding or editing KB notes, regenerate the viewer data locally:
 
-```powershell
-powershell -ExecutionPolicy Bypass -File tools/build-kb-site.ps1
+```bash
+node tools/build-kb-site.js
 ```
 
-To publish the updated viewer to GitHub Pages:
+To publish the updated viewer to GitHub Pages manually (the GitHub Actions workflow also refreshes it on relevant `main` pushes, daily, and on manual dispatch):
 
 ```powershell
 git add site
