@@ -47,6 +47,10 @@ interval: 0
 - 🇸🇪 Vänligen **besvara** erbjudandet inom 7 veckodagar.
   🇨🇳 请在 7 个工作日内回复该邀约。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Hon **besvarade** alla frågor i brevet noggrant.
+  🇨🇳 她认真地回复了信中所有的问题。
+- 🇸🇪 Chefen har ännu inte **besvarat** mejlet.
+  🇨🇳 主管还没有回复那封电子邮件。
 
 ## 词族 / 同义 / 反义 (Relations)
 

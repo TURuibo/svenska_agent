@@ -45,6 +45,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Barnen **klättrar** i träd hela dagen.
+  🇨🇳 孩子们整天都在爬树。
+- 🇸🇪 Hon **klättrade** upp på taket för att hämta bollen.
+  🇨🇳 她爬上屋顶去取球。
+- 🇸🇪 Vi gillar att **klättra** i bergen på somrarna.
+  🇨🇳 我们喜欢夏天在山上攀登。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —

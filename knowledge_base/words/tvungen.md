@@ -39,6 +39,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 I kyrkan var de **tvungna** att sitta stilla.
+  🇨🇳 在教堂里他们不得不坐着不动。
+- 🇸🇪 Jag är **tvungen** att gå nu — hejdå!
+  🇨🇳 我现在不得不走了——再见！
+- 🇸🇪 Hon var **tvungen** att lämna staden för att hitta arbete.
+  🇨🇳 她不得不离开城市去找工作。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tvinga]] (v. 强迫), [[tvång]] (ett, 强制/强迫)

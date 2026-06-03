@@ -42,6 +42,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Vimmerby var ett litet **samhälle** och folk skvallrade om henne.
+  🇨🇳 维姆比是个小地方，人们议论她。
+- 🇸🇪 Vi lever i ett demokratiskt **samhälle**.
+  🇨🇳 我们生活在一个民主社会里。
+- 🇸🇪 Alla har ett ansvar för att bygga ett bättre **samhälle**.
+  🇨🇳 每个人都有责任建设一个更好的社会。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[samhällsvetenskap]] (social science), [[samhällsproblem]] (social problem)

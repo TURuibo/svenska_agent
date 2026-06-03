@@ -46,6 +46,10 @@ interval: 0
 - 🇸🇪 Detta **innebär** att det är fullt på alla dina önskade val.
   🇨🇳 这意味着你所有的意愿名额均已满员。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Vad **innebär** det att vara vuxen?
+  🇨🇳 成为成年人意味着什么？
+- 🇸🇪 Jobbet **innebär** mycket resande utomlands.
+  🇨🇳 这份工作意味着要大量出国旅行。
 
 ## 词族 / 同义 / 反义 (Relations)
 

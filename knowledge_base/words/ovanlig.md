@@ -37,6 +37,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Det var ett **ovanligt** namn, och hon blev en **ovanlig** flicka.
+  🇨🇳 这是个不寻常的名字，她也成了一个不寻常的女孩。
+- 🇸🇪 Det är **ovanligt** att se snö i maj.
+  🇨🇳 五月下雪很罕见。
+- 🇸🇪 Hon hade en **ovanlig** förmåga att förstå djur.
+  🇨🇳 她有一种不寻常的理解动物的能力。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vanlig]] (adj, 普通/常见的), [[ovanligt]] (adv, 异常地/非常地)

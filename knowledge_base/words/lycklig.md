@@ -37,6 +37,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Där hade hon en **lycklig** barndom.
+  🇨🇳 她在那里度过了幸福的童年。
+- 🇸🇪 Han ser **lycklig** ut idag — vad har hänt?
+  🇨🇳 他今天看起来很幸福——发生什么了？
+- 🇸🇪 De **lyckliga** barnen lekte i parken hela eftermiddagen.
+  🇨🇳 那些快乐的孩子整个下午都在公园里玩耍。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lycka]] (en, 幸福/运气), [[lyckas]] (v. 成功), [[lyckligtvis]] (adv, 幸好)

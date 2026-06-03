@@ -41,6 +41,10 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-de-var-oroliga-att-barn-som-laste-om-pippi]] 🇸🇪 De var oroliga att barn som läste om Pippi skulle börja göra som henne. 🇨🇳 他们担心读了皮皮故事的孩子会开始模仿她。
+- 🇸🇪 Hon var **orolig** för sin son som inte kom hem.
+  🇨🇳 她很担心没有回家的儿子。
+- 🇸🇪 Jag känner mig **orolig** inför det stora provet imorgon.
+  🇨🇳 我对明天的大考感到焦虑。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -43,6 +43,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Folk **skvallrade** om henne i det lilla samhället.
+  🇨🇳 小地方的人们议论着她。
+- 🇸🇪 Det är inte snällt att **skvallra** om sina klasskamrater.
+  🇨🇳 议论同学是不友善的行为。
+- 🇸🇪 Grannarna **skvallrar** alltid om varandra.
+  🇨🇳 邻居们总是互相说闲话。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skvaller]] (ett, 八卦/流言), [[skvallerkärring]] (gossip monger, colloq.)

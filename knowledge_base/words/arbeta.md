@@ -47,6 +47,10 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-jag-arbetar-pa-ett-sjukhus]] 🇸🇪 Jag arbetar på ett sjukhus. 🇨🇳 我在一家医院工作。
+- 🇸🇪 Hon **arbetar** som lärare på en förskola.
+  🇨🇳 她在一所幼儿园担任教师。
+- 🇸🇪 Han **arbetade** övertid hela förra veckan.
+  🇨🇳 他整个上周都在加班。
 
 ## 词族 / 同义 / 反义 (Relations)
 

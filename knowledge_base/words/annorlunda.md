@@ -42,6 +42,10 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-de-var-oroliga-att-barn-som-laste-om-pippi]] 🇸🇪 De tyckte att Pippi var för annorlunda. 🇨🇳 他们觉得皮皮太与众不同了。
+- 🇸🇪 Han tänker alltid **annorlunda** än alla andra.
+  🇨🇳 他的想法总是和别人不一样。
+- 🇸🇪 Det är okej att vara **annorlunda** — det gör dig unik.
+  🇨🇳 与众不同是可以的——这让你独特。
 
 ## 词族 / 同义 / 反义 (Relations)
 

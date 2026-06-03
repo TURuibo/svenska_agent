@@ -44,6 +44,10 @@ interval: 0
 - 🇸🇪 Vänligen besvara erbjudandet inom 7 **veckodagar**.
   🇨🇳 请在 7 个工作日内回复该邀约。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Förskolan är öppen alla **veckodagar** från sju på morgonen.
+  🇨🇳 幼儿园每个工作日早上七点开门。
+- 🇸🇪 Svaret måste komma inom fem **veckodagar**.
+  🇨🇳 回复必须在五个工作日内发出。
 
 ## 词族 / 同义 / 反义 (Relations)
 

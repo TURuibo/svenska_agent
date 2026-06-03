@@ -42,6 +42,10 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 Eftersom Astrid var ensam kunde hon inte ta hand om barnet själv. 🇨🇳 因为阿斯特丽德是独自一人，她无法自己照顾孩子。
+- 🇸🇪 Hon bor **ensam** i en liten lägenhet i stan.
+  🇨🇳 她独自一人住在市中心一套小公寓里。
+- 🇸🇪 Jag känner mig ibland **ensam** när vännerna inte är här.
+  🇨🇳 朋友们不在的时候，我有时会感到孤独。
 
 ## 词族 / 同义 / 反义 (Relations)
 

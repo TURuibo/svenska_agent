@@ -45,6 +45,10 @@ interval: 0
 - 🇸🇪 Vänligen logga in på förskolan **e-tjänst** och besvara erbjudandet.
   🇨🇳 请登录幼儿园电子服务平台并回复该邀约。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Kommunen erbjuder många **e-tjänster** för invånarna.
+  🇨🇳 市政府为居民提供许多电子服务。
+- 🇸🇪 Du kan ansöka om förskola via kommunens **e-tjänst**.
+  🇨🇳 你可以通过市政府的电子服务平台申请幼儿园。
 
 ## 词族 / 同义 / 反义 (Relations)
 

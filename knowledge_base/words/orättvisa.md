@@ -36,6 +36,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Barnen **kämpade** mot **orättvisan** i sin skola.
+  🇨🇳 孩子们在学校里对抗不公正。
+- 🇸🇪 Det är en stor **orättvisa** att inte alla barn får gå i skolan.
+  🇨🇳 并非所有孩子都能上学，这是一种巨大的不公正。
+- 🇸🇪 Hon ville skriva om **orättvisor** i samhället.
+  🇨🇳 她想写关于社会不公正的文章。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rättvisa]] (en, 公正/正义), [[rättvis]] (adj, 公平的), [[orättvis]] (adj, 不公平的)

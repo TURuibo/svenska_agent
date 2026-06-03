@@ -44,6 +44,10 @@ interval: 0
 - 🇸🇪 Sektorn för Lärande och **bildning**, Sundbyberg stad.
   🇨🇳 学习与教育部门，Sundbyberg 市。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
+- 🇸🇪 Allmän **bildning** är viktig för att förstå världen.
+  🇨🇳 通识素养对于理解这个世界非常重要。
+- 🇸🇪 Hon hade stor **bildning** inom musik och litteratur.
+  🇨🇳 她在音乐和文学方面有很高的文化素养。
 
 ## 词族 / 同义 / 反义 (Relations)
 

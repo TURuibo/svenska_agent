@@ -46,6 +46,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Hennes lärare **lånade** ut böcker till henne.
+  🇨🇳 她的老师把书借给了她。
+- 🇸🇪 Kan jag **låna** din penna en stund?
+  🇨🇳 我可以借一下你的笔吗？
+- 🇸🇪 Han **lånade** pengar av sin bror för att köpa en cykel.
+  🇨🇳 他向哥哥借了钱来买自行车。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lån]] (ett, 贷款/借款)
