@@ -8,9 +8,20 @@ Public GitHub Pages URL:
 https://turuibo.github.io/svenska_agent/
 ```
 
-The viewer supports category filters, full-text search, note previews, and clickable `[[wikilinks]]`.
+The viewer supports category filters, full-text search (with term highlighting and match
+snippets), note previews, clickable `[[wikilinks]]`, and a **backlinks / "linked from"** panel plus
+a forward-links list that flags broken targets. It renders the full markdown body — including
+fenced code blocks (grammar formula diagrams), tables, ordered/nested lists, and blockquotes.
+
+Navigation: each note is deep-linkable via `#note=<slug>`, the browser **Back** button retraces
+wikilink trails, and keyboard shortcuts work (`/` or `Ctrl/Cmd-K` to search, ↑/↓ to move through
+results, Enter to open, Esc to clear/back). On phones it switches to a one-note-at-a-time view with
+a "← Back to list" bar and a collapsible filters/stats panel. Dark mode follows the OS setting.
+
 It is static and has no external dependencies. `knowledge_base/` remains the source of truth;
-`site/kb-data.js` is generated from those markdown files.
+`site/kb-data.js` is generated from those markdown files (backlinks are computed in the browser, so
+no schema change is needed). Open `site/index.html` directly or serve the folder — no build needed
+to view; only re-run the generator below after editing KB notes.
 
 Regenerate the searchable data after adding or editing KB notes:
 

@@ -16,16 +16,19 @@
         </header>
 
         <label class="searchBox">
-          <span>Search</span>
+          <span>Search <span class="kbd">/</span></span>
           <input id="searchInput" type="search" autocomplete="off" placeholder="word, meaning, grammar, link..." />
         </label>
 
-        <nav id="typeFilters" class="filters" aria-label="Filter by note type"></nav>
+        <details id="sidebarExtras" class="sidebarExtras" open>
+          <summary>Filters &amp; stats</summary>
+          <nav id="typeFilters" class="filters" aria-label="Filter by note type"></nav>
 
-        <section class="stats" aria-label="Knowledge base stats">
-          <h2>Stats</h2>
-          <div id="statsGrid" class="statsGrid"></div>
-        </section>
+          <section class="stats" aria-label="Knowledge base stats">
+            <h2>Stats</h2>
+            <div id="statsGrid" class="statsGrid"></div>
+          </section>
+        </details>
       </section>
 
       <section class="resultsPane" aria-label="Search results">
@@ -44,6 +47,7 @@
       </section>
 
       <article class="detailPane" aria-label="Selected note">
+        <button id="backButton" class="backBar" type="button">← Back to list</button>
         <div id="detailEmpty" class="emptyState">
           <p class="eyebrow">Select a note</p>
           <h2>Search and open any markdown entry.</h2>
