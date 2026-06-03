@@ -4,7 +4,7 @@ name: V2-ordföljd
 zh: V2 语序（动词第二位）
 en: V2 word order
 level: SFI A / CEFR A1
-related: [grammar-bisats-biff, grammar-bisats-eftersom, grammar-att-sats]
+related: [grammar-bisats-biff, grammar-bisats-eftersom, grammar-att-sats, grammar-konditionell-topikalisering]
 examples: [sent-jag-arbetar-pa-ett-sjukhus, sent-eftersom-astrid-var-ensam-kunde-hon, sent-de-forstod-ocksa-att-barn-behover-leka, sent-de-var-oroliga-att-barn-som-laste-om-pippi]
 known: false
 created: 2026-06-02
@@ -51,3 +51,4 @@ interval: 0
 - 📎 [[grammar-bisats-biff]] — 从句语序不同（BIFF：bisats 里 inte 在动词前）*(待建)*
 - 📎 [[grammar-bisats-eftersom]] — `eftersom` 从句在句首时的 V2 倒装
 - 📎 [[grammar-att-sats]] — att-sats（宾语从句）内部不使用 V2
+- 📎 [[grammar-konditionell-topikalisering]] — 条件倒装（省略 om 的条件从句，主句仍 V2）

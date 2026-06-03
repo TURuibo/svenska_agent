@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-06-02
+updated: 2026-06-03
 ---
 
 # 🇸🇪 瑞典语知识库 (Swedish Knowledge Base)
@@ -21,13 +21,19 @@ Obsidian 风格的本地知识库，全部为 markdown，笔记之间用 `[[wiki
 
 > 实时统计由 SessionStart hook 打印；运行 `/kb` 刷新本节。
 
-- 单词: 20 · 词组: 0 · 句子: 1 · 语法: 1 · 主题: 1 · 来源: 1
+- 单词: 57 · 词组: 5 · 句子: 1 · 语法: 6 · 主题: 7 · 来源: 2
 
 ## 最近添加 (Recently added)
 
 - 2026-06-02 (来源) [[source-2026-06-02-astrid-lindgren]] — Astrid Lindgren 传记文本
 - 2026-06-02 (词) [[barnboksförfattare]], [[klättra]], [[hoppa]], [[bada]], [[klia]], [[låna]], [[skvallra]], [[döpa]], [[längta]], [[berätta]], [[bestämma]], [[publicera]], [[fortsätta]], [[kämpa]], [[minnas]], [[visa]]
 - 2026-06-02 (词) [[vecka]] (周/星期) · [[vän]] (朋友)
+- 2026-06-03 (来源) [[source-2026-06-03-sundbyberg-forskola]] — Sundbyberg 幼儿园名额通知
+- 2026-06-03 (词) [[garantiplacering]], [[byteskö]], [[bildning]], [[lärande]], [[e-tjänst]]
+- 2026-06-03 (词，已存在) [[erbjudande]], [[förskola]], [[besvara]], [[veckodagar]], [[val]], [[innebära]], [[placering]]
+- 2026-06-03 (词组) [[logga-in]], [[med-vanlig-halsning]], [[söka-till]]
+- 2026-06-03 (语法) [[grammar-konditionell-topikalisering]]
+- 2026-06-03 (主题) [[topic-skola-och-utbildning]], [[topic-förskola-system]]
 - 2026-06-02 (词) [[arbeta]], [[jobba]] · (句) [[sent-jag-arbetar-pa-ett-sjukhus]] · (语法) [[grammar-v2-ordfoljd]] · (主题) [[topic-arbete]]
 
 ## 学习入口 (Workflows)
