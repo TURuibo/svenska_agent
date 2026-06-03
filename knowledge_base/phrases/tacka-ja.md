@@ -41,3 +41,6 @@ interval: 0
 
 - 🇸🇪 *Astrid skickade berättelsen till ett annat förlag som **tackade ja**.*
   🇨🇳 阿斯特丽德把故事投给另一家出版社，那家接受了。
+- 🇸🇪 ***Tackar** du **ja** till garantiplatsen, står ditt barn kvar i byteskön till era önskade val.*
+  🇨🇳 若你接受保证名额，你的孩子仍将留在换位等候队列中等待你的意愿名额。
+  📄 [[source-2026-06-03-sundbyberg-forskola]]

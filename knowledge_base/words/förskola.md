@@ -10,7 +10,7 @@ en: "preschool"
 synonyms: []
 antonyms: []
 family: []
-topics: [topic-skola-och-utbildning, topic-familj-och-barn]
+topics: [topic-skola-och-utbildning, topic-familj-och-barn, topic-förskola-system]
 sentences: []
 known: false
 created: "2026-06-03"
@@ -51,7 +51,7 @@ interval: 0
 - 词族: —
 - 同义词: —
 - 反义词: —
-- 主题: [[topic-familj-och-barn]], [[topic-skola-och-utbildning]]
+- 主题: [[topic-familj-och-barn]], [[topic-skola-och-utbildning]], [[topic-förskola-system]]
 
 ## 用法提示 (Usage Notes)
 

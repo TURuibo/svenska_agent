@@ -38,6 +38,7 @@ interval: 0
 - `bli kvar` — 留下来
 - `finnas kvar` — 仍然存在
 - `leva kvar` — 仍然留存
+- `stå kvar i byteskön` — 仍留在换位等候队列 → [[byteskö]]
 
 ## 例句 (Sentences)
 
@@ -47,6 +48,9 @@ interval: 0
   🇨🇳 还剩一些咖啡。
 - 🇸🇪 Hennes minne lever **kvar**.
   🇨🇳 她的记忆仍然留存。
+- 🇸🇪 …står ditt barn **kvar** i byteskön till era önskade val.
+  🇨🇳 你的孩子仍将留在换位等候队列中等待你的意愿名额。
+  📄 [[source-2026-06-03-sundbyberg-forskola]]
 
 ## 词族 / 同义 / 反义 (Relations)
 

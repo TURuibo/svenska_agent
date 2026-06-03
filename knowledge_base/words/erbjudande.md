@@ -10,7 +10,7 @@ en: "offer"
 synonyms: []
 antonyms: []
 family: [erbjuda]
-topics: []
+topics: [topic-förskola-system]
 sentences: []
 known: false
 created: "2026-06-03"
@@ -52,7 +52,7 @@ interval: 0
 - 词族: [[erbjuda]] (动词：提供、给予)
 - 同义词: —
 - 反义词: —
-- 主题: —
+- 主题: [[topic-förskola-system]]
 
 ## 用法提示 (Usage Notes)
 

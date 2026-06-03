@@ -3,7 +3,7 @@ type: topic
 name: "familj och barn"
 kind: semantic-field
 zh: 家庭与童年（语义场）
-members: [barndom, syskon, hemmafru, vuxen, saga, gravid, gift]
+members: [barndom, syskon, hemmafru, vuxen, saga, gravid, gift, förskola]
 created: "2026-06-02"
 ---
 
@@ -20,6 +20,7 @@ created: "2026-06-02"
 - [[saga]] — 故事/童话 (story, fairy tale)
 - [[gravid]] — 怀孕的 (pregnant)
 - [[gift]] — 已婚的 (married)
+- [[förskola]] — 幼儿园 (preschool)
 
 ## 备注 (Notes)
 
