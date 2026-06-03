@@ -42,6 +42,7 @@ git push origin "$sha`:refs/heads/gh-pages"
 | 评估水平 | `/assess [full\|quick]` | 扫描知识库估算 CEFR/SFI，写入 `profile/level.md`；已会的词以后查询自动跳过 |
 | 知识库体检 | `/kb` | 统计数量、找断链/孤立笔记、刷新索引 |
 | 跨聊天导入 | `/import [块\|文件名]` | 解析 `svensk-export v1` 块 → 查重 → 录入 KB + 建链 → 给收据 |
+| 生成情景练习 | `/scenario [dialog\|text\|story] [级别] <场景>` | 生成对话/功能性文本/叙述 → 写入 `inbox/` 供审阅 → `/import` 录入 KB |
 
 **核心承诺**：一个问题 → 直接给答案并自动录入（已存在则只给答案不重复录入），尽量零额外操作。
 对话框只放**精简总结**，全面细节都在本地 markdown 里。
@@ -93,8 +94,8 @@ Keep both root instruction files aligned when changing the project behavior. Use
 | **Codex instructions** | `AGENTS.md` | Codex 项目大脑：同一套规则，适配 Codex |
 | **Claude skills** | `.claude/skills/` | Claude Code 的瑞典语技能 + 项目技能 |
 | **Codex skills** | `.agents/skills/` | Codex 可发现的瑞典语技能 + 项目技能 |
-| **Subagents** | `.claude/agents/` + `.codex/agents/` | `sv-librarian` 批量录入、`sv-reviewer` 复习、`sv-assessor` 评估 |
-| **Slash commands** | `.claude/commands/` | `/learn` `/review` `/assess` `/kb` |
+| **Subagents** | `.claude/agents/` + `.codex/agents/` | `sv-librarian` 批量录入、`sv-reviewer` 复习、`sv-assessor` 评估、`sv-scenario-writer` 场景生成 |
+| **Slash commands** | `.claude/commands/` | `/learn` `/review` `/assess` `/kb` `/import` `/scenario` |
 | **Hooks** | `.claude/settings.json` + `.claude/hooks/` | SessionStart 仪表盘、PostToolUse 变更日志/校验 |
 | **Status line** | `.claude/hooks/statusline.ps1` | 状态栏实时显示词数 / 水平 |
 | **Output style** | `.claude/output-styles/swedish-tutor.md` | 可选的"瑞典语家教"输出风格 |
@@ -102,10 +103,11 @@ Keep both root instruction files aligned when changing the project behavior. Use
 
 所有 hook / 状态栏脚本用 **PowerShell**（本机无 Python）。
 
-### 七个技能 (Skills)
+### 九个技能 (Skills)
 - `swedish-dictionary` 词 · `swedish-phrases` 词组 · `swedish-grammar` 语法 ·
   `swedish-text-analysis` 整篇/图片
-- `sv-knowledge-base` 存储与链接规则 · `sv-review` 复习 · `sv-assess` 评估
+- `sv-knowledge-base` 存储与链接规则 · `sv-review` 复习 · `sv-assess` 评估 ·
+  `sv-scenario` 情景生成 · `sv-import` 跨聊天导入
 
 ---
 
