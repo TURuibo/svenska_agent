@@ -44,6 +44,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 **Berätta** för mig om din dag!
+  🇨🇳 跟我讲讲你今天过得怎么样！
+- 🇸🇪 Pappa **berättade** en saga innan vi somnade.
+  🇨🇳 爸爸在我们睡着之前讲了一个故事。
+- 🇸🇪 Hon **berättar** alltid roliga historier för barnen.
+  🇨🇳 她总是给孩子们讲有趣的故事。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[berättelse]] (en, 故事/叙述), [[berättare]] (en, 叙述者)

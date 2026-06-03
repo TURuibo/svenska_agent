@@ -47,6 +47,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Astrid skickade in sin berättelse till ett **bokförlag**.
+  🇨🇳 阿斯特丽德把她的故事投给了一家出版社。
+- 🇸🇪 Det är svårt att få sin bok utgiven av ett stort **bokförlag**.
+  🇨🇳 要让大出版社出版自己的书是很难的。
+- 🇸🇪 **Bokförlaget** tackade ja och boken gavs ut nästa år.
+  🇨🇳 出版社答应了，这本书于次年出版。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förlag]] (ett, 出版商), [[förläggare]] (en, 出版人)

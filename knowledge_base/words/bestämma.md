@@ -45,6 +45,13 @@ Grupp 2b 动词（-er/-de/-t）。
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Pippi **bestämmer** allt själv och lyssnar inte på de vuxna.
+  🇨🇳 皮皮凡事自己做主，不听大人的话。
+- 🇸🇪 Vi **bestämde** oss för att resa till Stockholm i sommar.
+  🇨🇳 我们决定今年夏天去斯德哥尔摩旅行。
+- 🇸🇪 Kan du **bestämma** tid för mötet?
+  🇨🇳 你能定一下会议时间吗？
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bestämmelse]] (en, 规定), [[bestämd]] (adj, 确定的/定冠词形式)

@@ -42,6 +42,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Astrid blev **gravid** när hon var arton år.
+  🇨🇳 阿斯特丽德十八岁时怀孕了。
+- 🇸🇪 Hon är **gravid** i sjätte månaden.
+  🇨🇳 她已经怀孕六个月了。
+- 🇸🇪 När man är **gravid** är det viktigt att äta bra.
+  🇨🇳 怀孕时饮食健康非常重要。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[graviditet]] (en, 妊娠/孕期), [[gravidtest]] (ett, 验孕棒)

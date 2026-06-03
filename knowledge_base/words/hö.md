@@ -37,6 +37,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Barnen lekte och hoppade i **höet**.
+  🇨🇳 孩子们在干草堆里玩耍和跳跃。
+- 🇸🇪 Hästen åt **hö** ur krubban.
+  🇨🇳 马从槽里吃干草。
+- 🇸🇪 Bonden samlade **hö** inför vintern.
+  🇨🇳 农民在冬天来临前收集干草。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[höskörd]] (hay harvest), [[höstack]] (haystack)

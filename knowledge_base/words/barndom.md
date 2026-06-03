@@ -38,6 +38,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Hon hade en lycklig **barndom** på landet.
+  🇨🇳 她在乡村度过了幸福的童年。
+- 🇸🇪 Han **minns** sin **barndom** med glädje.
+  🇨🇳 他愉快地回忆起自己的童年。
+- 🇸🇪 Många av Astrids böcker handlar om **barndomen** i Småland.
+  🇨🇳 阿斯特丽德的许多书都讲述了她在斯莫兰的童年。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[barn]] (ett, 孩子), [[barndomsminne]] (ett, 童年记忆)

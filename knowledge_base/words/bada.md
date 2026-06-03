@@ -45,6 +45,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 På sommaren **badar** vi i sjön varje dag.
+  🇨🇳 夏天我们每天都在湖里游泳。
+- 🇸🇪 Mamma **badade** barnen innan de gick och lade sig.
+  🇨🇳 妈妈在孩子们睡觉前给他们洗了澡。
+- 🇸🇪 Vi **badade bastu** och sedan hoppade vi i ån.
+  🇨🇳 我们蒸了桑拿，然后跳进了小河里。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bad]] (ett, 浴室/游泳), [[badrum]] (ett, 浴室), [[simma]] (v. 游泳，更侧重游泳动作)

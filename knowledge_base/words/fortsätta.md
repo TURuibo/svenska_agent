@@ -44,6 +44,13 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Astrid **fortsatte** att skriva böcker hela livet.
+  🇨🇳 阿斯特丽德一生都在继续写书。
+- 🇸🇪 Kan vi **fortsätta** mötet efter lunchen?
+  🇨🇳 我们能在午饭后继续开会吗？
+- 🇸🇪 Han **fortsätter** att träna trots att det gör ont.
+  🇨🇳 尽管很痛，他还是继续训练。
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fortsättning]] (en, 续集/继续)
