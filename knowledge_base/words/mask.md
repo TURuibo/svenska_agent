@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "蚯蚓；面具"
 en: "worm; mask"
-synonyms: []
+synonyms: [daggmask]
 antonyms: []
-family: []
+family: [daggmask, maskerad]
 topics: [topic-nyheter-vecka22]
 sentences: [sent-ett-par-i-sodertälje-skulle-ut]
 known: false
@@ -44,12 +44,16 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-ett-par-i-sodertälje-skulle-ut]] 🇸🇪 Ett par i Södertälje skulle ut och fiska och grävde efter mask. 🇨🇳 南泰利耶的一对夫妇准备出去钓鱼，在挖蚯蚓。
+- 🇸🇪 Barnen hittade en **mask** i trädgården och tittade nyfiket på den.
+  🇨🇳 孩子们在花园里发现了一条蚯蚓，好奇地看着它。
+- 🇸🇪 På halloween bar hon en läskig **mask**.
+  🇨🇳 万圣节那天她戴了一个吓人的面具。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[daggmask]] (en, 蚯蚓，正式), [[maskerad]] (en, 化装舞会)
+- 同义词: [[daggmask]] (en, 蚯蚓，更正式的词)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

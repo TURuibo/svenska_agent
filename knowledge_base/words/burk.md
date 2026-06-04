@@ -7,10 +7,10 @@ genus: "en"
 cefr: "A2"
 zh: "罐、罐头"
 en: "can / jar / tin"
-synonyms: []
+synonyms: [behållare]
 antonyms: []
-family: []
-topics: [topic-nyheter-vecka22]
+family: [konservburk, glasburk]
+topics: [topic-nyheter-vecka22, topic-mat-och-dryck]
 sentences: []
 known: false
 created: "2026-06-04"
@@ -43,12 +43,19 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Han öppnade en **burk** läsk och drack den snabbt.
+  🇨🇳 他打开一罐汽水，迅速喝掉了。
+- 🇸🇪 Vi hittade gamla konserver i en **burk** i källaren.
+  🇨🇳 我们在地下室的一个罐子里找到了旧罐头食品。
+- 🇸🇪 En **burk** energidryck innehåller ofta 80 mg koffein.
+  🇨🇳 一罐能量饮料通常含有80毫克咖啡因。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
-- 主题: [[topic-nyheter-vecka22]]
+- 词族: [[konservburk]] (en, 罐头), [[glasburk]] (en, 玻璃罐), [[burkmat]] (en, 罐头食品)
+- 同义词: [[flaska]] (en, 瓶子，不同形状), [[behållare]] (en, 容器)
+- 反义词: —
+- 主题: [[topic-nyheter-vecka22]], [[topic-mat-och-dryck]]
 
 ## 用法提示 (Usage Notes)
 

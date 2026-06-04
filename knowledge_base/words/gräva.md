@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "挖"
 en: "to dig"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [fylla]
+family: [grävning, grävmaskin]
 topics: [topic-nyheter-vecka22]
 sentences: [sent-ett-par-i-sodertälje-skulle-ut]
 known: false
@@ -47,12 +47,16 @@ grupp 2 动词（presens -er，preteritum -de，supinum -t）。
 ## 例句 (Sentences)
 
 - [[sent-ett-par-i-sodertälje-skulle-ut]] 🇸🇪 Ett par i Södertälje skulle ut och fiska och grävde efter mask. 🇨🇳 南泰利耶的一对夫妇准备出去钓鱼，在挖蚯蚓。
+- 🇸🇪 Barnen **grävde** ett stort hål i sandlådan.
+  🇨🇳 孩子们在沙坑里挖了一个大洞。
+- 🇸🇪 Arkeologerna **gräver** efter gamla föremål.
+  🇨🇳 考古学家们在挖掘古代文物。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[grävning]] (en, 挖掘), [[grävmaskin]] (en, 挖掘机), [[uppgrävd]] (adj. 被挖开的)
+- 同义词: [[böka]] (v. 拱/翻土，用于动物)
+- 反义词: [[fylla]] (v. 填满/填充)
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "毕业帽"
 en: "graduation cap"
 synonyms: []
 antonyms: []
-family: []
+family: [student, mössa, studentexamen]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -42,11 +42,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Eleverna tog på sig **studentmössan** när de tog studenten.
+  🇨🇳 学生们在高中毕业时戴上了毕业帽。
+- 🇸🇪 Den vita **studentmössan** är ett symbol för frihet och framtid.
+  🇨🇳 白色的毕业帽是自由和未来的象征。
+- 🇸🇪 Hela familjen jublade när hon fick sin **studentmössa**.
+  🇨🇳 当她拿到毕业帽时，全家人欢呼雀跃。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[student]] (en, 学生/大学生), [[mössa]] (en, 帽子), [[studentexamen]] (en, 高中毕业考试)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

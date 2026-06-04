@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "投票"
 en: "to vote"
-synonyms: []
+synonyms: [välja]
 antonyms: []
-family: []
+family: [röst, röstning, omröstning]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: [sent-den-fragan-ska-invanarna-i-alberta]
 known: false
@@ -47,12 +47,16 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-den-fragan-ska-invanarna-i-alberta]] 🇸🇪 Den frågan ska invånarna i Alberta rösta om. 🇨🇳 那个问题，阿尔伯塔的居民将投票决定。
+- 🇸🇪 Jag vill **rösta** i valet nästa år.
+  🇨🇳 我想在明年的选举中投票。
+- 🇸🇪 De **röstade** ja till förslaget.
+  🇨🇳 他们对这个提案投了赞成票。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[röst]] (en, 声音/选票), [[röstning]] (en, 投票/表决), [[omröstning]] (en, 投票/表决)
+- 同义词: [[välja]] (v. 选择/选举), [[omrösta]] (v. 表决)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

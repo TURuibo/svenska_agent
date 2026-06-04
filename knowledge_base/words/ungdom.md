@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "年轻人"
 en: "young person / youth"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [tonåring]
+antonyms: [pensionär, vuxen]
+family: [ung, ungdomstid]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -43,11 +43,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Det finns många **ungdomar** i parken på somrarna.
+  🇨🇳 夏天公园里有很多年轻人。
+- 🇸🇪 **Ungdomar** under 18 år får inte köpa energidrycker.
+  🇨🇳 18岁以下的年轻人不能购买能量饮料。
+- 🇸🇪 Min **ungdom** var en lycklig tid.
+  🇨🇳 我的青年时代是一段快乐的时光。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[ung]] (adj. 年轻的), [[ungdomstid]] (en, 青春期), [[ungdomsarbete]] (ett, 青少年工作)
+- 同义词: [[ung person]] (年轻人), [[tonåring]] (en, 青少年/十几岁的人)
+- 反义词: [[pensionär]] (en, 退休者/老年人), [[vuxen]] (en, 成年人)
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

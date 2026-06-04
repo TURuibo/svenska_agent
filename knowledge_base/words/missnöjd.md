@@ -7,10 +7,10 @@ genus: ""
 cefr: "B1"
 zh: "不满的"
 en: "dissatisfied"
-synonyms: []
-antonyms: []
-family: []
-topics: [topic-nyheter-vecka22]
+synonyms: [besviken]
+antonyms: [nöjd, tillfreds]
+family: [missnöje, nöjd]
+topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: []
 known: false
 created: "2026-06-04"
@@ -41,12 +41,19 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Han är **missnöjd** med sitt jobb.
+  🇨🇳 他对自己的工作不满意。
+- 🇸🇪 Många väljare är **missnöjda** med regeringen.
+  🇨🇳 许多选民对政府感到不满。
+- 🇸🇪 Jag var **missnöjd** med resultatet på provet.
+  🇨🇳 我对考试结果感到不满意。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
-- 主题: [[topic-nyheter-vecka22]]
+- 词族: [[missnöje]] (ett, 不满/不满情绪), [[nöjd]] (adj. 满意的)
+- 同义词: [[besviken]] (adj. 失望的), [[otillfredsställd]] (adj. 不满足的)
+- 反义词: [[nöjd]] (adj. 满意的), [[tillfreds]] (adj. 满足的)
+- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)
 

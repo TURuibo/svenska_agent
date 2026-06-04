@@ -9,8 +9,8 @@ zh: "能量饮料"
 en: "energy drink"
 synonyms: []
 antonyms: []
-family: []
-topics: [topic-nyheter-vecka22, topic-mat-och-dryck]
+family: [energi, dryck, koffein]
+topics: [topic-nyheter-vecka22, topic-mat-och-dryck, topic-hälsa]
 sentences: []
 known: false
 created: "2026-06-04"
@@ -43,12 +43,19 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Han dricker en **energidryck** varje morgon för att vakna.
+  🇨🇳 他每天早上喝一罐能量饮料来清醒。
+- 🇸🇪 **Energidrycker** innehåller mycket [[koffein]].
+  🇨🇳 能量饮料含有大量咖啡因。
+- 🇸🇪 Butiken säljer inte **energidryck** till barn under 15 år.
+  🇨🇳 这家商店不向15岁以下的孩子出售能量饮料。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
-- 主题: [[topic-nyheter-vecka22]], [[topic-mat-och-dryck]]
+- 词族: [[energi]] (en, 能量), [[dryck]] (en, 饮料), [[koffein]] (ett, 咖啡因)
+- 同义词: —
+- 反义词: —
+- 主题: [[topic-nyheter-vecka22]], [[topic-mat-och-dryck]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)
 

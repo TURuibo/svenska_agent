@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "建议"
 en: "advice"
-synonyms: []
+synonyms: [tips, förslag]
 antonyms: []
-family: []
+family: [råda, rådgivning, rådgivare]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -43,11 +43,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Kan du ge mig ett **råd** om hur jag ska studera?
+  🇨🇳 你能给我一些关于如何学习的建议吗？
+- 🇸🇪 Läkaren gav henne **råd** om hur hon ska äta.
+  🇨🇳 医生给了她关于饮食的建议。
+- 🇸🇪 Jag har inte **råd** att köpa en ny cykel.
+  🇨🇳 我负担不起买一辆新自行车。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[råda]] (v. 建议/劝告), [[rådgivning]] (en, 咨询), [[rådgivare]] (en, 顾问)
+- 同义词: [[tips]] (ett, 小贴士/建议), [[förslag]] (ett, 建议/提议)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

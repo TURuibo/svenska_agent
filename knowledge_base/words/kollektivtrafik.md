@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "公共交通"
 en: "public transport"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [biltrafik]
+family: [trafik, kollektiv]
 topics: [topic-nyheter-vecka22, topic-kollektivtrafik]
 sentences: [sent-regeringen-vill-halvera-priset]
 known: false
@@ -43,12 +43,16 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-regeringen-vill-halvera-priset]] 🇸🇪 Regeringen vill halvera priset på månadskort i kollektivtrafiken. 🇨🇳 政府希望将公共交通月票价格减半。
+- 🇸🇪 Jag åker **kollektivtrafik** varje dag till jobbet.
+  🇨🇳 我每天乘坐公共交通去上班。
+- 🇸🇪 **Kollektivtrafiken** i Göteborg har många [[spårvagn|spårvagnar]].
+  🇨🇳 哥德堡的公共交通有很多有轨电车。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[trafik]] (en, 交通), [[kollektiv]] (adj. 集体的), [[åka kollektivt]] (短语, 乘公共交通)
+- 同义词: [[allmänna kommunikationer]] (公共交通，老式说法)
+- 反义词: [[biltrafik]] (en, 汽车交通)
 - 主题: [[topic-nyheter-vecka22]], [[topic-kollektivtrafik]]
 
 ## 用法提示 (Usage Notes)

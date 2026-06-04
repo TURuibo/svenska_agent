@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "降低、削减"
 en: "reduction"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [minskning, nedgång]
+antonyms: [höjning, ökning]
+family: [sänka, låg]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -42,11 +42,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 En **sänkning** av priset på månadskortet glädjer många.
+  🇨🇳 月票价格的下调让很多人高兴。
+- 🇸🇪 Riksbanken beslutade om en **sänkning** av räntan.
+  🇨🇳 瑞典央行决定降低利率。
+- 🇸🇪 Det behövs en kraftig **sänkning** av utsläppen.
+  🇨🇳 需要大幅削减排放量。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[sänka]] (v. 降低/减少), [[låg]] (adj. 低的), [[sänkt]] (adj. 被降低的)
+- 同义词: [[minskning]] (en, 减少), [[nedgång]] (en, 下降)
+- 反义词: [[höjning]] (en, 提高/上调), [[ökning]] (en, 增加)
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

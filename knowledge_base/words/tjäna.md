@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "赚（钱）；服务"
 en: "to earn; to serve"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [förtjäna]
+antonyms: [spendera]
+family: [lön, inkomst, tjänst]
 topics: [topic-nyheter-vecka22, topic-arbete]
 sentences: []
 known: false
@@ -46,11 +46,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Hon **tjänar** 30 000 kronor i månaden.
+  🇨🇳 她每月赚30,000克朗。
+- 🇸🇪 Du får **tjäna** upp till fribeloppet utan att tappa ditt bidrag.
+  🇨🇳 你可以赚到免税额以内而不影响你的补贴。
+- 🇸🇪 Han **tjänade** pengar under sommaren genom att jobba extra.
+  🇨🇳 他通过暑期兼职赚了钱。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[lön]] (en, 工资), [[inkomst]] (en, 收入), [[tjänst]] (en, 职务/服务)
+- 同义词: [[förtjäna]] (v. 赚取/应得), [[ha inkomst]] (有收入)
+- 反义词: [[spendera]] (v. 花费/消费)
 - 主题: [[topic-nyheter-vecka22]], [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

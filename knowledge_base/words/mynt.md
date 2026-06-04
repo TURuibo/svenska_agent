@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "硬币"
 en: "coin"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [slant]
+antonyms: [sedel]
+family: [myntsamling]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -43,11 +43,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Paret hittade gamla **mynt** när de grävde i trädgården.
+  🇨🇳 这对夫妇在花园里挖掘时找到了古老的硬币。
+- 🇸🇪 Jag kastade ett **mynt** i brunnen och önskade mig något.
+  🇨🇳 我把一枚硬币扔进井里，许了个愿。
+- 🇸🇪 Han samlar på gamla **mynt** från hela världen.
+  🇨🇳 他收集来自世界各地的古钱币。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[myntsamling]] (en, 硬币收藏), [[myntfot]] (en, 货币制度)
+- 同义词: [[slant]] (en, 硬币，口语)
+- 反义词: [[sedel]] (en, 纸币)
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

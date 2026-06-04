@@ -9,8 +9,8 @@ zh: "宝藏；税"
 en: "treasure; tax"
 synonyms: []
 antonyms: []
-family: []
-topics: [topic-nyheter-vecka22]
+family: [skattefri, skatta]
+topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: []
 known: false
 created: "2026-06-04"
@@ -43,12 +43,19 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 De hittade en gammal **skatt** när de grävde i trädgården.
+  🇨🇳 他们在花园里挖掘时发现了一处古老的宝藏。
+- 🇸🇪 Alla måste betala **skatt** till staten.
+  🇨🇳 每个人都必须向国家缴税。
+- 🇸🇪 Paret hittade mynt, ringar och pärlor — en riktig **skatt**!
+  🇨🇳 这对夫妇发现了硬币、戒指和珍珠——真是一处宝藏！
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
-- 主题: [[topic-nyheter-vecka22]]
+- 词族: [[skattefri]] (adj. 免税的), [[skatteverket]] (瑞典税务局), [[skatta]] (v. 缴税)
+- 同义词: [[trésor]] (宝藏，法语借词，罕见), [[skattgömma]] (en, 藏宝处)
+- 反义词: —
+- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)
 

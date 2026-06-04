@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "高中生"
 en: "upper secondary student"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [grundskoleelev]
+family: [gymnasiet, elev]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -42,11 +42,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 **Gymnasieeleverna** sjunger på skolavslutningen i juni.
+  🇨🇳 高中生们在六月的结业典礼上演唱。
+- 🇸🇪 Han är **gymnasieelev** i tredje året och ska snart ta studenten.
+  🇨🇳 他是高三学生，很快就要参加毕业考试了。
+- 🇸🇪 Många **gymnasieelever** söker jobb under sommaren.
+  🇨🇳 许多高中生在暑假期间找工作。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[gymnasiet]] (ett, 高中), [[elev]] (en, 学生), [[gymnasieprogram]] (ett, 高中课程)
+- 同义词: —
+- 反义词: [[grundskoleelev]] (en, 基础学校学生)
 - 主题: [[topic-nyheter-vecka22]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

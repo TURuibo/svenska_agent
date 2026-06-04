@@ -9,7 +9,7 @@ zh: "国庆日"
 en: "national day"
 synonyms: []
 antonyms: []
-family: []
+family: [nation, nationell, nationalitet]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: []
 known: false
@@ -42,11 +42,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Den 6 juni är Sveriges **nationaldag** och det är röd dag.
+  🇨🇳 6月6日是瑞典国庆日，是法定假日。
+- 🇸🇪 Vi firar **nationaldagen** med flaggor och musik.
+  🇨🇳 我们用旗帜和音乐庆祝国庆日。
+- 🇸🇪 På **nationaldagen** välkomnar kommunerna nya medborgare.
+  🇨🇳 在国庆日，各市迎接新公民入籍。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[nation]] (en, 国家/民族), [[nationell]] (adj. 国家的/民族的), [[nationalitet]] (en, 国籍)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

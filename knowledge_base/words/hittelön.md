@@ -7,9 +7,9 @@ genus: "en"
 cefr: "C1"
 zh: "拾得物奖金"
 en: "finder's reward"
-synonyms: []
+synonyms: [belöning]
 antonyms: []
-family: []
+family: [hitta, lön, hittegods]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -42,11 +42,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Paret som hittade skatten kan ha rätt till **hittelön**.
+  🇨🇳 找到宝藏的这对夫妇可能有权获得拾得物奖金。
+- 🇸🇪 Om du hittar en plånbok och lämnar in den kan du få **hittelön**.
+  🇨🇳 如果你捡到钱包并上交，你可以得到拾得物奖励。
+- 🇸🇪 **Hittelönen** är vanligtvis en procent av det hittade föremålets värde.
+  🇨🇳 拾得物奖励通常是所找到物品价值的一定百分比。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[hitta]] (v. 找到), [[lön]] (en, 报酬/工资), [[hittegods]] (ett, 失物招领处)
+- 同义词: [[belöning]] (en, 奖励/报酬)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

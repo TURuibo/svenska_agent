@@ -9,8 +9,8 @@ zh: "咖啡因"
 en: "caffeine"
 synonyms: []
 antonyms: []
-family: []
-topics: [topic-nyheter-vecka22, topic-mat-och-dryck]
+family: [koffeinfri]
+topics: [topic-nyheter-vecka22, topic-mat-och-dryck, topic-hälsa]
 sentences: []
 known: false
 created: "2026-06-04"
@@ -42,12 +42,19 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Kaffe och te innehåller **koffein**.
+  🇨🇳 咖啡和茶含有咖啡因。
+- 🇸🇪 För mycket **koffein** kan ge hjärtklappning.
+  🇨🇳 摄入太多咖啡因可能导致心悸。
+- 🇸🇪 Energidrycken har väldigt höga **koffein**nivåer.
+  🇨🇳 这款能量饮料的咖啡因含量非常高。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
-- 主题: [[topic-nyheter-vecka22]], [[topic-mat-och-dryck]]
+- 词族: [[koffeinfri]] (adj. 无咖啡因的), [[koffeinhalt]] (en, 咖啡因含量)
+- 同义词: —
+- 反义词: —
+- 主题: [[topic-nyheter-vecka22]], [[topic-mat-och-dryck]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)
 

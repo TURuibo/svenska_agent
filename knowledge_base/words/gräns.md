@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "限制、边界"
 en: "limit / border"
-synonyms: []
+synonyms: [tak]
 antonyms: []
-family: []
+family: [gränsa, gränsövergång]
 topics: [topic-nyheter-vecka22]
 sentences: [sent-gransen-kallas-fribelopp]
 known: false
@@ -44,12 +44,16 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-gransen-kallas-fribelopp]] 🇸🇪 Gränsen kallas fribelopp och är cirka 19 100 kronor i månaden. 🇨🇳 这个上限叫"免税额"，大约是每月19100克朗。
+- 🇸🇪 Vi måste respektera **gränsen** mellan Sverige och Norge.
+  🇨🇳 我们必须尊重瑞典和挪威之间的边界。
+- 🇸🇪 Det finns en **gräns** för hur mycket du kan tjäna.
+  🇨🇳 你能赚多少钱是有上限的。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[gränsa]] (v. 接壤/邻接), [[gränsövergång]] (en, 边境口岸), [[avgränsning]] (en, 限定)
+- 同义词: [[tak]] (ett, 上限，口语), [[gränssnitt]] (ett, 界面/边界)
+- 反义词: [[frihet]] (en, 自由，无限制)
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "减半"
 en: "to halve"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [minska]
+antonyms: [fördubbla, öka]
+family: [halv, halva, halvering]
 topics: [topic-nyheter-vecka22]
 sentences: [sent-regeringen-vill-halvera-priset]
 known: false
@@ -46,12 +46,16 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-regeringen-vill-halvera-priset]] 🇸🇪 Regeringen vill halvera priset på månadskort i kollektivtrafiken. 🇨🇳 政府希望将公共交通月票价格减半。
+- 🇸🇪 Vi kan **halvera** kostnaderna om vi åker kollektivt.
+  🇨🇳 如果我们乘坐公共交通，可以将费用减半。
+- 🇸🇪 Antalet olyckor har **halverats** på tio år.
+  🇨🇳 十年来事故数量减少了一半。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[halv]] (adj. 半), [[halva]] (en, 一半), [[halvering]] (en, 减半)
+- 同义词: [[minska]] (v. 减少，不一定减半)
+- 反义词: [[fördubbla]] (v. 加倍), [[öka]] (v. 增加)
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

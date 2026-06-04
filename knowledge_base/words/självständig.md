@@ -7,10 +7,10 @@ genus: ""
 cefr: "B1"
 zh: "独立的"
 en: "independent"
-synonyms: []
-antonyms: []
-family: []
-topics: [topic-nyheter-vecka22]
+synonyms: [oberoende]
+antonyms: [beroende]
+family: [självständighet]
+topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: []
 known: false
 created: "2026-06-04"
@@ -41,12 +41,19 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Alberta vill bli ett **självständigt** land.
+  🇨🇳 阿尔伯塔想成为一个独立的国家。
+- 🇸🇪 Hon är en **självständig** person som klarar sig bra på egen hand.
+  🇨🇳 她是个独立的人，靠自己能应付得很好。
+- 🇸🇪 Sverige är ett **självständigt** land sedan länge.
+  🇨🇳 瑞典是一个独立的国家已经很久了。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
-- 主题: [[topic-nyheter-vecka22]]
+- 词族: [[självständighet]] (en, 独立性/独立), [[självständigt]] (adv. 独立地)
+- 同义词: [[oberoende]] (adj. 独立的/不依赖的)
+- 反义词: [[beroende]] (adj. 依赖的), [[ofri]] (adj. 不自由的)
+- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)
 

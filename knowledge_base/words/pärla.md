@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "珍珠"
 en: "pearl"
-synonyms: []
+synonyms: [juvel]
 antonyms: []
-family: []
+family: [pärlhalsband, pärlemor]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -42,11 +42,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Hon bar ett halsband med vita **pärlor**.
+  🇨🇳 她戴着一条白色珍珠项链。
+- 🇸🇪 De hittade gamla **pärlor** i skatten de grävde upp.
+  🇨🇳 他们在挖出的宝藏里发现了古老的珍珠。
+- 🇸🇪 Göteborg är en **pärla** bland svenska städer.
+  🇨🇳 哥德堡是瑞典城市中的一颗明珠。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[pärlhalsband]] (ett, 珍珠项链), [[pärlemor]] (ett, 珍珠母)
+- 同义词: [[juvel]] (en, 宝石/珠宝，更宽泛)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

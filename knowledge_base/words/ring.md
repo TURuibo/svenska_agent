@@ -9,7 +9,7 @@ zh: "戒指"
 en: "ring"
 synonyms: []
 antonyms: []
-family: []
+family: [ringa, förlovningsring]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -43,11 +43,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Han gav henne en **ring** när de förlovade sig.
+  🇨🇳 他们订婚时他给了她一枚戒指。
+- 🇸🇪 De hittade en gammal guldring bland de andra fynden.
+  🇨🇳 他们在其他发现物中找到了一枚古老的金**ring**。
+- 🇸🇪 Hennes **ring** glittrade i solen.
+  🇨🇳 她的戒指在阳光下闪闪发光。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[ringa]] (v. 打电话/响铃), [[ringformad]] (adj. 环形的), [[förlovningsring]] (en, 订婚戒指)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

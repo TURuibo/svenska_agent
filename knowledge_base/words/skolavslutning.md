@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "学校结业典礼"
 en: "school closing ceremony"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [skolstart]
+family: [skola, avslutning, avsluta]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -42,11 +42,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 **Skolavslutningen** är i juni och alla elever är glada.
+  🇨🇳 学校结业典礼在六月举行，所有学生都很高兴。
+- 🇸🇪 Vi sjunger sommarsånger på **skolavslutningen**.
+  🇨🇳 我们在结业典礼上唱夏日歌曲。
+- 🇸🇪 Gymnasieeleverna firar **skolavslutning** med studentmössa.
+  🇨🇳 高中生戴着毕业帽庆祝结业典礼。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[skola]] (en, 学校), [[avslutning]] (en, 结束/结业), [[avsluta]] (v. 结束)
+- 同义词: —
+- 反义词: [[skolstart]] (en, 开学)
 - 主题: [[topic-nyheter-vecka22]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "C1"
 zh: "免税额（可赚取而不影响助学金的金额上限）"
 en: "tax-free allowance amount"
-synonyms: []
+synonyms: [gräns]
 antonyms: []
-family: []
+family: [fri, belopp]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: [sent-gransen-kallas-fribelopp]
 known: false
@@ -42,13 +42,17 @@ interval: 0
 
 ## 例句 (Sentences)
 
-- [[sent-gransen-kallas-fribelopp]] 🇸🇪 Gränsen kallas fribelopp och är cirka 19 100 kronor i månaden. 🇨🇳 这个上限叫"免税额"，大约是每月19100克朗。
+- [[sent-gransen-kallas-fribelopp]] 🇸🇪 Gränsen kallas fribelopp och är circa 19 100 kronor i månaden. 🇨🇳 这个上限叫"免税额"，大约是每月19100克朗。
+- 🇸🇪 Om du tjänar mer än **fribeloppet** minskar ditt bidrag.
+  🇨🇳 如果你的收入超过免税额，你的补贴就会减少。
+- 🇸🇪 Det är viktigt att hålla sig under **fribeloppet** när man studerar.
+  🇨🇳 学习期间保持在免税额以内很重要。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[fri]] (adj. 免费/自由), [[belopp]] (ett, 金额), [[gräns]] (en, 上限)
+- 同义词: [[gräns]] (en, 限额，在此语境中)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "由…组成；持续"
 en: "to consist (of); to endure"
-synonyms: []
+synonyms: [innehålla]
 antonyms: []
-family: []
+family: [bestående, bestånd]
 topics: []
 sentences: []
 known: false
@@ -43,11 +43,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Sverige **består** av många olika landskap.
+  🇨🇳 瑞典由许多不同的地区组成。
+- 🇸🇪 Laget **bestod** av tio spelare.
+  🇨🇳 队伍由十名球员组成。
+- 🇸🇪 Hennes glädje **bestod** länge efter festen.
+  🇨🇳 她的喜悦在派对后持续了很长时间。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[bestående]] (adj. 持久的), [[bestånd]] (ett, 库存/存量)
+- 同义词: [[innehålla]] (v. 包含), [[vara sammansatt av]] (由…构成)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

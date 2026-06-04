@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "贷款"
 en: "loan"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [kredit]
+antonyms: [bidrag]
+family: [låna, låntagare]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -43,11 +43,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Jag tog ett **lån** på banken för att köpa en bil.
+  🇨🇳 我从银行贷款买了一辆车。
+- 🇸🇪 Hon betalar tillbaka sitt student**lån** varje månad.
+  🇨🇳 她每月偿还她的助学贷款。
+- 🇸🇪 **Lånet** har en ränta på tre procent.
+  🇨🇳 这笔贷款的利率是三个百分点。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[låna]]
-- 同义词: []
-- 反义词: []
+- 词族: [[låna]] (v. 借/贷), [[låntagare]] (en, 借款人), [[långivare]] (en, 贷款方)
+- 同义词: [[kredit]] (en, 信贷)
+- 反义词: [[bidrag]] (ett, 补贴，不需还)
 - 主题: [[topic-nyheter-vecka22]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

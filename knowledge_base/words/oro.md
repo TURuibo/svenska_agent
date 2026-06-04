@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "焦虑、不安"
 en: "anxiety / worry"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ångest, bekymmer]
+antonyms: [lugn, trygghet]
+family: [orolig, oroa, orolighet]
 topics: [topic-nyheter-vecka22, topic-hälsa]
 sentences: []
 known: false
@@ -42,11 +42,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Det finns stor **oro** bland föräldrar för energidrycker.
+  🇨🇳 家长们对能量饮料感到非常担忧。
+- 🇸🇪 Jag känner **oro** inför det stora provet.
+  🇨🇳 面对这次大考，我感到焦虑。
+- 🇸🇪 **Oron** i samhället ökar på grund av ekonomin.
+  🇨🇳 由于经济问题，社会上的不安情绪在增加。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[orolig]] (adj. 焦虑的/担心的), [[oroa]] (v. 使担忧), [[orolighet]] (en, 动乱/不安)
+- 同义词: [[ångest]] (en, 焦虑/恐惧，较强烈), [[bekymmer]] (ett, 烦恼/忧虑)
+- 反义词: [[lugn]] (en, 平静), [[trygghet]] (en, 安全感)
 - 主题: [[topic-nyheter-vecka22]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

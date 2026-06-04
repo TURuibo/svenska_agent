@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "政府"
 en: "government"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [stat]
+antonyms: [opposition]
+family: [regera, regent]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: [sent-regeringen-vill-halvera-priset]
 known: false
@@ -44,12 +44,16 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-regeringen-vill-halvera-priset]] 🇸🇪 Regeringen vill halvera priset på månadskort i kollektivtrafiken. 🇨🇳 政府希望将公共交通月票价格减半。
+- 🇸🇪 Den nya **regeringen** presenterade sina planer i dag.
+  🇨🇳 新政府今天公布了它的计划。
+- 🇸🇪 **Regeringen** beslutar om lagar tillsammans med riksdagen.
+  🇨🇳 政府与议会共同决定法律。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[regera]] (v. 执政), [[regent]] (en, 摄政王/国王), [[regeringsform]] (en, 政府形式)
+- 同义词: [[stat]] (en, 国家/政府，较宽泛)
+- 反义词: [[opposition]] (en, 反对派)
 - 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "心悸"
 en: "heart palpitation"
 synonyms: []
 antonyms: []
-family: []
+family: [hjärta, klappa, hjärtslag]
 topics: [topic-nyheter-vecka22, topic-hälsa]
 sentences: []
 known: false
@@ -42,11 +42,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Han fick **hjärtklappning** efter att ha druckit tre energidrycker.
+  🇨🇳 他喝了三罐能量饮料后出现了心悸。
+- 🇸🇪 Koffein kan orsaka **hjärtklappning** hos känsliga personer.
+  🇨🇳 咖啡因可能导致敏感人群出现心悸。
+- 🇸🇪 Jag kände **hjärtklappning** när jag sprang uppför trappan.
+  🇨🇳 我跑上楼梯时感到心跳加速。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[hjärta]] (ett, 心脏), [[klappa]] (v. 拍打/跳动), [[hjärtslag]] (ett, 心跳)
+- 同义词: [[arytmi]] (en, 心律不齐，医学术语)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

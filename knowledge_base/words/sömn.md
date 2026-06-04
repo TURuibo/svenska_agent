@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "睡眠"
 en: "sleep"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [vila]
+antonyms: [vakenhet]
+family: [sova, sömnig, sömnlöshet]
 topics: [topic-nyheter-vecka22, topic-hälsa]
 sentences: []
 known: false
@@ -42,11 +42,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Jag behöver minst åtta timmars **sömn** per natt.
+  🇨🇳 我每晚需要至少八小时的睡眠。
+- 🇸🇪 Energidrycker kan störa **sömnen** hos unga.
+  🇨🇳 能量饮料可能会干扰年轻人的睡眠。
+- 🇸🇪 Brist på **sömn** gör mig trött och irriterad.
+  🇨🇳 睡眠不足让我感到疲惫和烦躁。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[sova]] (v. 睡觉), [[sömnig]] (adj. 困倒的), [[sömnlöshet]] (en, 失眠)
+- 同义词: [[vila]] (en, 休息，更宽泛)
+- 反义词: [[vakenhet]] (en, 清醒状态)
 - 主题: [[topic-nyheter-vecka22]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "小学/基础学校"
 en: "primary/compulsory school"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [gymnasium]
+family: [grund, skola]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -43,11 +43,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Barn börjar i **grundskolan** när de är sju år gamla.
+  🇨🇳 孩子们七岁开始上基础学校。
+- 🇸🇪 Han gick i **grundskolan** i Uppsala i nio år.
+  🇨🇳 他在乌普萨拉的基础学校上了九年学。
+- 🇸🇪 Efter **grundskolan** börjar eleverna på gymnasiet.
+  🇨🇳 完成基础学校后，学生们开始上高中。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[grund]] (en, 基础), [[skola]] (en, 学校), [[grundskoleutbildning]] (en, 基础学校教育)
+- 同义词: [[lågstadie]] (ett, 低年级，历史用法)
+- 反义词: [[gymnasium]] (ett, 高中)
 - 主题: [[topic-nyheter-vecka22]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

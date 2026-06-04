@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "市/市政"
 en: "municipality"
-synonyms: []
+synonyms: [stad]
 antonyms: []
-family: []
+family: [kommunal, kommunfullmäktige]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: [sent-manga-kommuner-valkomnar-sina-nya]
 known: false
@@ -44,12 +44,16 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-manga-kommuner-valkomnar-sina-nya]] 🇸🇪 Många kommuner välkomnar sina nya svenska medborgare den dagen. 🇨🇳 许多市政当局在那天欢迎新的瑞典公民。
+- 🇸🇪 Jag bor i Stockholms **kommun**.
+  🇨🇳 我住在斯德哥尔摩市。
+- 🇸🇪 **Kommunen** ansvarar för skola och äldreomsorg.
+  🇨🇳 市政府负责学校和老年护理。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[kommunal]] (adj. 市政的), [[kommunfullmäktige]] (ett, 市议会), [[kommunfullmäktige]] (市议员)
+- 同义词: [[stad]] (en, 城市/市，非正式)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "公民"
 en: "citizen"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [invånare]
+antonyms: [utlänning]
+family: [medborgarskap]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: [sent-manga-kommuner-valkomnar-sina-nya]
 known: false
@@ -46,12 +46,16 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-manga-kommuner-valkomnar-sina-nya]] 🇸🇪 Många kommuner välkomnar sina nya svenska medborgare den dagen. 🇨🇳 许多市政当局在那天欢迎新的瑞典公民。
+- 🇸🇪 Han ansökte om att bli svensk **medborgare** efter tio år i landet.
+  🇨🇳 在这个国家生活了十年后，他申请成为瑞典公民。
+- 🇸🇪 Som **medborgare** har du rätt att [[rösta]] i valen.
+  🇨🇳 作为公民，你有权在选举中投票。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[medborgarskap]] (ett, 公民身份/国籍), [[medborgarlighet]] (en, 公民素养)
+- 同义词: [[invånare]] (en, 居民，强调居住而非国籍)
+- 反义词: [[utlänning]] (en, 外国人)
 - 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

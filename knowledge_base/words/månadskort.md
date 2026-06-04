@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "月票"
 en: "monthly pass"
-synonyms: []
+synonyms: [periodkort]
 antonyms: []
-family: []
+family: [månad, kort]
 topics: [topic-nyheter-vecka22, topic-kollektivtrafik]
 sentences: [sent-regeringen-vill-halvera-priset]
 known: false
@@ -43,12 +43,16 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-regeringen-vill-halvera-priset]] 🇸🇪 Regeringen vill halvera priset på månadskort i kollektivtrafiken. 🇨🇳 政府希望将公共交通月票价格减半。
+- 🇸🇪 Jag köper ett **månadskort** varje månad för att åka tunnelbana.
+  🇨🇳 我每个月买一张月票坐地铁。
+- 🇸🇪 **Månadskortet** kostar 970 kronor i Stockholm.
+  🇨🇳 斯德哥尔摩的月票要970克朗。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[månad]] (en, 月份), [[kort]] (ett, 卡/票), [[periodkort]] (ett, 定期票)
+- 同义词: [[periodkort]] (ett, 定期票，更通用)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]], [[topic-kollektivtrafik]]
 
 ## 用法提示 (Usage Notes)

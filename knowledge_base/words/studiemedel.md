@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "助学金"
 en: "student aid"
-synonyms: []
+synonyms: [studielån]
 antonyms: []
-family: []
+family: [bidrag, lån]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -43,11 +43,18 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Jag ansöker om **studiemedel** från CSN för att kunna studera.
+  🇨🇳 我向CSN申请助学金才能上学。
+- 🇸🇪 **Studiemedlet** består av ett bidrag och ett lån.
+  🇨🇳 助学金由补贴和贷款两部分组成。
+- 🇸🇪 Du måste betala tillbaka **studiemedlet** efter examen.
+  🇨🇳 你必须在毕业后偿还助学贷款部分。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[studie]] (en, 学习/研究), [[bidrag]] (ett, 补贴), [[lån]] (ett, 贷款), [[CSN]] (助学金机构)
+- 同义词: [[studielån]] (ett, 助学贷款，指贷款部分)
+- 反义词: —
 - 主题: [[topic-nyheter-vecka22]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

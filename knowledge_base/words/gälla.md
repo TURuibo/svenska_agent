@@ -8,8 +8,8 @@ cefr: "B1"
 zh: "适用、生效"
 en: "to apply / be valid"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [upphöra]
+family: [gällande, giltighet]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -45,11 +45,18 @@ grupp 2 动词（presens加 -er，preteritum -de）。
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Regeln **gäller** alla elever i skolan.
+  🇨🇳 这条规定适用于学校里的所有学生。
+- 🇸🇪 Erbjudandet **gäller** bara i dag.
+  🇨🇳 这个优惠只在今天有效。
+- 🇸🇪 Vad **gäller** det här ärendet?
+  🇨🇳 关于这件事情是什么情况？
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[gällande]] (adj. 现行的/有效的), [[giltighet]] (en, 有效性)
+- 同义词: [[gälla för]] (适用于), [[vara giltig]] (有效的)
+- 反义词: [[upphöra]] (v. 失效/停止)
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

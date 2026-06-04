@@ -7,10 +7,10 @@ genus: "en"
 cefr: "B1"
 zh: "省"
 en: "province"
-synonyms: []
+synonyms: [region, landskap]
 antonyms: []
-family: []
-topics: [topic-nyheter-vecka22]
+family: [provinsiell, landskap]
+topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: []
 known: false
 created: "2026-06-04"
@@ -42,12 +42,19 @@ interval: 0
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Alberta är en stor **provins** i västra Kanada.
+  🇨🇳 阿尔伯塔是加拿大西部的一个大省。
+- 🇸🇪 Kanada består av tio **provinser** och tre territorier.
+  🇨🇳 加拿大由十个省和三个领地组成。
+- 🇸🇪 Invånarna i **provinsen** ska rösta om självständighet.
+  🇨🇳 该省的居民将就独立问题进行投票。
+
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
-- 主题: [[topic-nyheter-vecka22]]
+- 词族: [[provinsiell]] (adj. 地方的/省级的), [[landskap]] (ett, 地区/省份，瑞典历史行政区)
+- 同义词: [[region]] (en, 地区，现代行政区划), [[landskap]] (ett, 地区)
+- 反义词: —
+- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)
 

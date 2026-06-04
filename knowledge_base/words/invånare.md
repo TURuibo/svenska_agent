@@ -7,10 +7,10 @@ genus: "en"
 cefr: "A2"
 zh: "居民"
 en: "inhabitant"
-synonyms: []
+synonyms: [boende, inbyggare]
 antonyms: []
-family: []
-topics: [topic-nyheter-vecka22]
+family: [invånarantal]
+topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: [sent-den-fragan-ska-invanarna-i-alberta]
 known: false
 created: "2026-06-04"
@@ -45,13 +45,17 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-den-fragan-ska-invanarna-i-alberta]] 🇸🇪 Den frågan ska invånarna i Alberta rösta om. 🇨🇳 那个问题，阿尔伯塔的居民将投票决定。
+- 🇸🇪 Stockholm har över en miljon **invånare**.
+  🇨🇳 斯德哥尔摩有超过一百万居民。
+- 🇸🇪 **Invånarna** i byn var mycket vänliga.
+  🇨🇳 村里的居民非常友善。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
-- 主题: [[topic-nyheter-vecka22]]
+- 词族: [[invånarantal]] (ett, 居民人数), [[bo]] (v. 居住)
+- 同义词: [[boende]] (en, 居民/居住者), [[inbyggare]] (en, 居民，更正式)
+- 反义词: —
+- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)
 
