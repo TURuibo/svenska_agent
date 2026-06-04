@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File 'C:\\Users\\ruibo\\Documents\\svensk_agent\\.codex\\hooks\\kb_changelog.ps1'"
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File 'C:\\Users\\ruibo\\Documents\\svenska_agent\\.codex\\hooks\\kb_changelog.ps1'"
           }
         ]
       }
@@ -16,7 +16,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File 'C:\\Users\\ruibo\\Documents\\svensk_agent\\.codex\\hooks\\kb_stats.ps1'"
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File 'C:\\Users\\ruibo\\Documents\\svenska_agent\\.codex\\hooks\\kb_stats.ps1'"
           }
         ]
       }
@@ -26,7 +26,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File 'C:\\Users\\ruibo\\Documents\\svensk_agent\\.codex\\hooks\\trace_collect.ps1'"
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File 'C:\\Users\\ruibo\\Documents\\svenska_agent\\.codex\\hooks\\trace_collect.ps1'"
           }
         ]
       }

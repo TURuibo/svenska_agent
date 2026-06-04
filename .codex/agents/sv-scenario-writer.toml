@@ -14,7 +14,7 @@ You will receive:
 - **topic** — the scenario topic / situation (free text, possibly Chinese or English)
 - **type** — `dialog`, `text`, `story`, or `auto` (auto-decide from topic)
 - **level** — an optional CEFR hint (e.g. `A2`, `B1`); may be empty — if empty, use the register the scenario naturally requires (sv-scenario SKILL §3a)
-- **inbox_path** — absolute path to write the output file (e.g. `C:\...\inbox\scenario-2026-06-03-fraga-efter-vagen.md`)
+- **inbox_path** — absolute path to write the output file (e.g. `C:/.../inbox/scenario-2026-06-03-fraga-efter-vagen.md`)
 - **date** — the generation date in absolute `YYYY-MM-DD` format
 
 ## Steps

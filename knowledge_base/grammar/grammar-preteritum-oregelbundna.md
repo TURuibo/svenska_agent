@@ -4,7 +4,7 @@ name: "Preteritum av oregelbundna verb"
 zh: 不规则动词过去式
 en: Preterite of irregular verbs
 level: SFI B / CEFR A2
-related: [grammar-v2-ordfoljd]
+related: [grammar-v2-ordfoljd, grammar-preteritum]
 examples: [sent-eftersom-astrid-var-ensam-kunde-hon]
 known: false
 created: "2026-06-02"
@@ -72,3 +72,4 @@ interval: 0
 ## 相关语法 (Related)
 
 - 📎 [[grammar-v2-ordfoljd]] — 不规则动词在主句中仍遵守 V2 语序规则
+- 📎 [[grammar-preteritum]] — 规则动词过去时总览（grupp 1/2/3）
