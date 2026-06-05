@@ -372,6 +372,49 @@
   text-decoration-color: var(--muted);
 }
 
+.chip.starred {
+  border-color: var(--gold);
+  box-shadow: 0 0 0 1px var(--gold) inset;
+}
+
+.chip .starGlyph {
+  color: var(--gold);
+  font-size: 11px;
+  margin-left: 2px;
+}
+
+.dayFlashBtn,
+.batchFlashBtn {
+  margin-left: 8px;
+  font-family: var(--cjk);
+  font-size: 12px;
+  padding: 3px 10px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 999px;
+  cursor: pointer;
+  color: var(--green-dark);
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.dayFlashBtn:hover,
+.batchFlashBtn:hover {
+  background: var(--panel-soft);
+  border-color: var(--green);
+}
+
+.navButton {
+  border: 1px solid var(--line);
+  cursor: pointer;
+  font-family: var(--cjk);
+}
+
+.starredFilter.active {
+  background: var(--gold) !important;
+  border-color: var(--gold) !important;
+  color: #fff !important;
+}
+
 .chip .pos {
   font-style: italic;
   color: var(--muted);
@@ -466,6 +509,44 @@
 
 #peekClose:hover { color: var(--ink); }
 
+.peekToolbar {
+  display: flex;
+  gap: 6px;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.65);
+  flex-wrap: wrap;
+}
+
+.peekActionBtn {
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--cjk);
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.peekActionBtn:hover {
+  background: var(--panel-soft);
+  border-color: var(--green);
+}
+
+.peekActionBtn.active {
+  background: var(--green-dark);
+  border-color: var(--green-dark);
+  color: #fff;
+}
+
+#peekStar.active {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: #fff;
+}
+
 .peekBody {
   padding: 14px 16px 18px;
   overflow: auto;
@@ -500,6 +581,210 @@
 .peekBody h2 { font-size: 16px; }
 .peekBody h3 { font-size: 14px; }
 
+/* ---------- Flashcard overlay ---------- */
+
+.flashOverlay[hidden] { display: none; }
+
+.flashOverlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(23, 33, 27, 0.86);
+  backdrop-filter: blur(6px);
+  display: flex;
+  flex-direction: column;
+  color: #f6f8f2;
+  font-family: var(--cjk);
+}
+
+.flashBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 22px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.flashMeta {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 14px;
+  color: rgba(246, 248, 242, 0.85);
+}
+
+#flashIndex {
+  font-family: Georgia, serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  min-width: 80px;
+}
+
+.flashScopeLabel {
+  font-size: 13px;
+  color: rgba(246, 248, 242, 0.65);
+}
+
+.flashControls {
+  display: flex;
+  gap: 8px;
+}
+
+.flashControls button {
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  color: #fff;
+  font-family: var(--cjk);
+  font-size: 13px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.flashControls button:hover {
+  background: rgba(255, 255, 255, 0.24);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.flashStage {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 80px 1fr 80px;
+  align-items: center;
+  padding: 28px;
+}
+
+.flashNav {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  color: #fff;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-size: 28px;
+  cursor: pointer;
+  justify-self: center;
+  transition: background 0.15s, transform 0.1s;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flashNav:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.flashNav:active { transform: scale(0.92); }
+.flashNav:disabled { opacity: 0.25; cursor: not-allowed; }
+
+.flashCard {
+  background: var(--panel);
+  color: var(--ink);
+  border-radius: 18px;
+  padding: 48px 56px;
+  min-height: 280px;
+  max-height: 70vh;
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  box-shadow: 0 40px 100px rgba(0, 0, 0, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  overflow: auto;
+}
+
+.flashCard:focus-visible {
+  outline: 3px solid var(--gold);
+}
+
+.flashFace {
+  width: 100%;
+  text-align: center;
+}
+
+.flashFront .flashTerm {
+  font-family: Georgia, serif;
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--green-dark);
+  word-break: break-word;
+}
+
+.flashFront .flashTermSmall {
+  font-size: 28px;
+}
+
+.flashFront .flashTypeChip {
+  display: inline-block;
+  margin-bottom: 18px;
+  padding: 4px 14px;
+  border-radius: 999px;
+  background: var(--panel-soft);
+  color: var(--green-dark);
+  font-family: var(--cjk);
+  font-size: 13px;
+  letter-spacing: 0.05em;
+}
+
+.flashFront .flashHintBack {
+  margin-top: 24px;
+  color: var(--muted);
+  font-size: 13px;
+  font-family: var(--cjk);
+}
+
+.flashBack .flashTerm {
+  font-family: Georgia, serif;
+  font-size: 28px;
+  color: var(--muted);
+  margin-bottom: 12px;
+  word-break: break-word;
+}
+
+.flashBack .flashAnswer {
+  font-family: var(--cjk);
+  font-size: 32px;
+  color: var(--green-dark);
+  line-height: 1.4;
+  word-break: break-word;
+}
+
+.flashBack .flashSub {
+  margin-top: 12px;
+  font-family: var(--cjk);
+  font-size: 16px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.flashBack .flashSub em { color: var(--ink); font-style: normal; }
+
+.flashHint {
+  text-align: center;
+  font-size: 12px;
+  color: rgba(246, 248, 242, 0.55);
+  padding: 0 0 18px;
+  margin: 0;
+}
+
+.flashEmpty {
+  text-align: center;
+  color: var(--muted);
+  font-family: var(--cjk);
+  font-size: 16px;
+  padding: 40px 20px;
+}
+
 /* ---------- Responsive ---------- */
 
 @media (max-width: 760px) {
@@ -533,6 +818,17 @@
     width: auto;
     max-height: 70vh;
   }
+
+  .flashStage {
+    grid-template-columns: 56px 1fr 56px;
+    padding: 14px;
+  }
+  .flashCard { padding: 28px 22px; min-height: 220px; }
+  .flashFront .flashTerm { font-size: 30px; }
+  .flashFront .flashTermSmall { font-size: 20px; }
+  .flashBack .flashAnswer { font-size: 22px; }
+  .flashBack .flashTerm { font-size: 20px; }
+  .flashNav { width: 40px; height: 40px; font-size: 22px; }
 }
 
 @media (prefers-color-scheme: dark) {

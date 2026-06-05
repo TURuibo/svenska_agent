@@ -14,6 +14,58 @@
   const TYPE_LABELS = { word: '词', phrase: '词组', sentence: '句子', grammar: '语法', topic: '主题', source: '来源' };
   const ITEM_TYPES = ['word', 'phrase', 'sentence', 'grammar'];
 
+  // ---------- local state (known/star overrides) ----------
+
+  const LS_KNOWN = 'dagbok.known.v1';
+  const LS_STAR  = 'dagbok.stars.v1';
+
+  function loadSet(key) {
+    try {
+      const raw = localStorage.getItem(key);
+      if (!raw) return new Set();
+      const arr = JSON.parse(raw);
+      return new Set(Array.isArray(arr) ? arr : []);
+    } catch (_e) { return new Set(); }
+  }
+  function saveSet(key, set) {
+    try { localStorage.setItem(key, JSON.stringify(Array.from(set))); } catch (_e) {}
+  }
+
+  const knownLocal = loadSet(LS_KNOWN);
+  const starred = loadSet(LS_STAR);
+
+  function isKnown(n) {
+    return n.known === true || knownLocal.has(n.slug);
+  }
+  function isStarred(slug) {
+    return starred.has(slug);
+  }
+  function toggleKnown(slug) {
+    if (knownLocal.has(slug)) knownLocal.delete(slug); else knownLocal.add(slug);
+    saveSet(LS_KNOWN, knownLocal);
+  }
+  function toggleStar(slug) {
+    if (starred.has(slug)) starred.delete(slug); else starred.add(slug);
+    saveSet(LS_STAR, starred);
+  }
+
+  function refreshChip(slug) {
+    document.querySelectorAll(`.chip[data-slug="${CSS.escape(slug)}"]`).forEach((el) => {
+      const n = bySlug.get(slug);
+      el.classList.toggle('known', !!(n && isKnown(n)));
+      el.classList.toggle('starred', isStarred(slug));
+      const glyph = el.querySelector('.starGlyph');
+      if (isStarred(slug) && !glyph) {
+        const g = document.createElement('span');
+        g.className = 'starGlyph';
+        g.textContent = '⭐';
+        el.appendChild(g);
+      } else if (!isStarred(slug) && glyph) {
+        glyph.remove();
+      }
+    });
+  }
+
   // ---------- date helpers ----------
 
   function localISODate(d) {
@@ -203,11 +255,12 @@
     btn.className = 'chip';
     btn.dataset.slug = n.slug;
     btn.dataset.type = n.type;
-    if (n.known === true) btn.classList.add('known');
+    if (isKnown(n)) btn.classList.add('known');
+    if (isStarred(n.slug)) btn.classList.add('starred');
 
     const title = document.createElement('span');
     title.className = 'chipTitle';
-    title.textContent = n.title || n.lemma || n.slug;
+    title.textContent = frontText(n);
     btn.appendChild(title);
 
     if (n.type === 'word' && n.ordklass) {
@@ -224,8 +277,27 @@
       btn.appendChild(zh);
     }
 
+    if (isStarred(n.slug)) {
+      const g = document.createElement('span');
+      g.className = 'starGlyph';
+      g.textContent = '⭐';
+      btn.appendChild(g);
+    }
+
     btn.addEventListener('click', () => openPeek(n));
     return btn;
+  }
+
+  function frontText(n) {
+    // Clean Swedish-side text for chip title and flashcard front
+    if (n.type === 'word') return String(n.lemma || n.title || n.slug);
+    if (n.type === 'phrase') return String(n.phrase || n.title || n.slug);
+    if (n.type === 'sentence') {
+      const s = String(n.sentence || n.title || n.slug);
+      return s.replace(/^🇸🇪\s*/, '');
+    }
+    if (n.type === 'grammar') return String(n.name || n.title || n.slug);
+    return n.title || n.slug;
   }
 
   function abbrevPos(p) {
@@ -292,7 +364,9 @@
     for (const dateKey of dates) {
       const date = parseISODate(dateKey);
       let items = itemsByDate.get(dateKey) || [];
-      if (filterType && filterType !== 'all') {
+      if (filterType === 'starred') {
+        items = items.filter((n) => isStarred(n.slug));
+      } else if (filterType && filterType !== 'all') {
         items = items.filter((n) => n.type === filterType);
       }
       if (items.length === 0) continue;
@@ -311,11 +385,22 @@
       abs.className = 'dayDateAbs';
       abs.textContent = `${fmtCN(date)} ${weekdayCN(date)}`;
       h2.appendChild(abs);
+      const cntWrap = document.createElement('div');
+      cntWrap.style.display = 'flex';
+      cntWrap.style.alignItems = 'center';
       const cnt = document.createElement('span');
       cnt.className = 'dayCount';
       cnt.textContent = `${items.length} 项`;
+      const dayFlash = document.createElement('button');
+      dayFlash.type = 'button';
+      dayFlash.className = 'dayFlashBtn';
+      dayFlash.textContent = '🎴 闪卡';
+      dayFlash.title = `逐张闪卡复习这天的 ${items.length} 项`;
+      dayFlash.addEventListener('click', () => openFlash(items, `${dateKey} · ${items.length} 项`));
+      cntWrap.appendChild(cnt);
+      cntWrap.appendChild(dayFlash);
       header.appendChild(h2);
-      header.appendChild(cnt);
+      header.appendChild(cntWrap);
       section.appendChild(header);
 
       // partition into batches by source
@@ -359,9 +444,16 @@
           .filter((t) => grouped[t])
           .map((t) => `${grouped[t]} ${TYPE_LABELS[t]}`)
           .join(' · ');
+        const batchFlash = document.createElement('button');
+        batchFlash.type = 'button';
+        batchFlash.className = 'batchFlashBtn';
+        batchFlash.textContent = '🎴';
+        batchFlash.title = `闪卡复习此批次 (${bItems.length} 项)`;
+        batchFlash.addEventListener('click', () => openFlash(bItems, src.source_label || src.title || src.slug));
         bHead.appendChild(icon);
         bHead.appendChild(title);
         bHead.appendChild(counts);
+        bHead.appendChild(batchFlash);
         batch.appendChild(bHead);
 
         renderItemsBlock(bItems, batch);
@@ -482,8 +574,11 @@
     return t;
   }
 
+  let peekCurrent = null;
+
   function openPeek(n) {
-    peekTitle.textContent = `${n.title} · ${TYPE_LABELS[n.type] || n.type}`;
+    peekCurrent = n;
+    peekTitle.textContent = `${frontText(n)} · ${TYPE_LABELS[n.type] || n.type}`;
     const meta = [];
     if (n.ordklass) meta.push(escapeHtml(String(n.ordklass)));
     if (n.cefr) meta.push(`CEFR ${escapeHtml(String(n.cefr))}`);
@@ -493,11 +588,159 @@
     peekBody.innerHTML = metaHtml + mdToHtml(n.body || '');
     peekOpen.href = `../#note=${encodeURIComponent(n.slug)}`;
     peek.hidden = false;
+    syncPeekActions();
   }
 
-  document.getElementById('peekClose').addEventListener('click', () => { peek.hidden = true; });
+  function syncPeekActions() {
+    if (!peekCurrent) return;
+    document.getElementById('peekKnown').classList.toggle('active', isKnown(peekCurrent));
+    document.getElementById('peekStar').classList.toggle('active', isStarred(peekCurrent.slug));
+  }
+
+  document.getElementById('peekClose').addEventListener('click', () => { peek.hidden = true; peekCurrent = null; });
+  document.getElementById('peekKnown').addEventListener('click', () => {
+    if (!peekCurrent) return;
+    toggleKnown(peekCurrent.slug);
+    syncPeekActions();
+    refreshChip(peekCurrent.slug);
+  });
+  document.getElementById('peekStar').addEventListener('click', () => {
+    if (!peekCurrent) return;
+    toggleStar(peekCurrent.slug);
+    syncPeekActions();
+    refreshChip(peekCurrent.slug);
+  });
+  document.getElementById('peekFlashOne').addEventListener('click', () => {
+    if (!peekCurrent) return;
+    openFlash([peekCurrent], `${frontText(peekCurrent)} (单条)`);
+  });
+
+  // ---------- flashcard modal ----------
+
+  const flashOverlay = document.getElementById('flashOverlay');
+  const flashCardEl = document.getElementById('flashCard');
+  const flashFront = document.getElementById('flashFront');
+  const flashBack = document.getElementById('flashBack');
+  const flashIndexEl = document.getElementById('flashIndex');
+  const flashScopeEl = document.getElementById('flashScope');
+  const flashPrevBtn = document.getElementById('flashPrev');
+  const flashNextBtn = document.getElementById('flashNext');
+
+  let flashDeck = [];
+  let flashPos = 0;
+  let flashFlipped = false;
+
+  function backHtml(n) {
+    const lines = [];
+    if (n.zh) lines.push(`<div class="flashAnswer">${escapeHtml(String(n.zh))}</div>`);
+    const subs = [];
+    if (n.en) subs.push(`🇬🇧 ${escapeHtml(String(n.en))}`);
+    if (n.ordklass) subs.push(`<em>${escapeHtml(String(n.ordklass))}</em>`);
+    if (n.cefr) subs.push(`CEFR ${escapeHtml(String(n.cefr))}`);
+    if (subs.length) lines.push(`<div class="flashSub">${subs.join(' · ')}</div>`);
+    // For grammar without zh, fall back to a body excerpt
+    if (!n.zh && n.body) {
+      const para = String(n.body).split(/\n\s*\n/).find((p) => !/^#/.test(p) && p.trim().length > 0);
+      if (para) lines.push(`<div class="flashSub">${escapeHtml(para.trim().slice(0, 220))}</div>`);
+    }
+    if (lines.length === 0) lines.push(`<div class="flashSub">(无翻译)</div>`);
+    return lines.join('');
+  }
+
+  function renderFlash() {
+    if (flashDeck.length === 0) {
+      flashFront.innerHTML = '<div class="flashEmpty">没有可复习的条目</div>';
+      flashBack.hidden = true;
+      flashIndexEl.textContent = '0 / 0';
+      flashPrevBtn.disabled = true;
+      flashNextBtn.disabled = true;
+      return;
+    }
+    const n = flashDeck[flashPos];
+    const long = String(frontText(n)).length > 20;
+    flashFront.innerHTML =
+      `<div class="flashTypeChip">${TYPE_LABELS[n.type] || n.type}</div>` +
+      `<div class="flashTerm ${long ? 'flashTermSmall' : ''}">${escapeHtml(frontText(n))}</div>` +
+      `<div class="flashHintBack">点击或按空格看翻译</div>`;
+    flashBack.innerHTML =
+      `<div class="flashTerm">${escapeHtml(frontText(n))}</div>` + backHtml(n);
+    flashFlipped = false;
+    flashFront.hidden = false;
+    flashBack.hidden = true;
+    flashIndexEl.textContent = `${flashPos + 1} / ${flashDeck.length}`;
+    flashPrevBtn.disabled = flashPos === 0;
+    flashNextBtn.disabled = flashPos === flashDeck.length - 1;
+  }
+
+  function flipFlash() {
+    if (flashDeck.length === 0) return;
+    flashFlipped = !flashFlipped;
+    flashFront.hidden = flashFlipped;
+    flashBack.hidden = !flashFlipped;
+  }
+
+  function nextFlash() {
+    if (flashPos < flashDeck.length - 1) { flashPos += 1; renderFlash(); }
+  }
+  function prevFlash() {
+    if (flashPos > 0) { flashPos -= 1; renderFlash(); }
+  }
+
+  function shuffleDeck() {
+    for (let i = flashDeck.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [flashDeck[i], flashDeck[j]] = [flashDeck[j], flashDeck[i]];
+    }
+    flashPos = 0;
+    renderFlash();
+  }
+
+  function openFlash(items, scopeLabel) {
+    flashDeck = items.slice();
+    flashPos = 0;
+    flashScopeEl.textContent = scopeLabel || '';
+    flashOverlay.hidden = false;
+    renderFlash();
+    flashCardEl.focus();
+  }
+
+  function closeFlash() {
+    flashOverlay.hidden = true;
+    flashDeck = [];
+  }
+
+  flashCardEl.addEventListener('click', flipFlash);
+  flashNextBtn.addEventListener('click', nextFlash);
+  flashPrevBtn.addEventListener('click', prevFlash);
+  document.getElementById('flashClose').addEventListener('click', closeFlash);
+  document.getElementById('flashShuffle').addEventListener('click', shuffleDeck);
+  document.getElementById('flashRestart').addEventListener('click', () => { flashPos = 0; renderFlash(); });
+
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !peek.hidden) peek.hidden = true;
+    if (!flashOverlay.hidden) {
+      if (e.key === 'Escape') { e.preventDefault(); closeFlash(); return; }
+      if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); flipFlash(); return; }
+      if (e.key === 'ArrowRight') { e.preventDefault(); nextFlash(); return; }
+      if (e.key === 'ArrowLeft') { e.preventDefault(); prevFlash(); return; }
+      return;
+    }
+    if (e.key === 'Escape' && !peek.hidden) { peek.hidden = true; peekCurrent = null; }
+  });
+
+  // Today flashcard from header
+  document.getElementById('todayFlashBtn').addEventListener('click', () => {
+    const items = itemsByDate.get(TODAY_KEY) || [];
+    if (items.length === 0) {
+      // fall back to yesterday if today is empty
+      const yItems = itemsByDate.get(YESTERDAY_KEY) || [];
+      if (yItems.length > 0) {
+        openFlash(yItems, `昨天 ${YESTERDAY_KEY} · ${yItems.length} 项`);
+        return;
+      }
+      openFlash([], '今天没有新条目');
+      return;
+    }
+    openFlash(items, `今天 ${TODAY_KEY} · ${items.length} 项`);
   });
 
   // ---------- jump bar & filter ----------
