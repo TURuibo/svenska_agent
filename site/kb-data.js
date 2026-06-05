@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-05 18:54:16",
+  "generatedAt": "2026-06-05 19:18:19",
   "notes": [
     {
       "slug": "grammar-att-sats",
@@ -414,6 +414,7 @@ window.KB_DATA = {
       "en": "more and more",
       "created": "2026-06-04",
       "known": false,
+      "phrase": "allt mer",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -436,6 +437,7 @@ window.KB_DATA = {
       "en": "consist of",
       "created": "2026-06-04",
       "known": false,
+      "phrase": "bestå av",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -458,6 +460,7 @@ window.KB_DATA = {
       "en": "pay back",
       "created": "2026-06-04",
       "known": false,
+      "phrase": "betala tillbaka",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -479,6 +482,7 @@ window.KB_DATA = {
       "en": "among other things, including",
       "created": "2026-06-02",
       "known": false,
+      "phrase": "bland annat",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -498,6 +502,7 @@ window.KB_DATA = {
       "en": "it's getting time for",
       "created": "2026-06-04",
       "known": false,
+      "phrase": "det börjar bli dags för",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -522,6 +527,7 @@ window.KB_DATA = {
       "en": "you can't miss it",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "du kan inte missa den",
       "sentences": [
         "sent-du-kan-inte-missa-den"
       ],
@@ -547,6 +553,7 @@ window.KB_DATA = {
       "en": "to visit (someone), to say hello to",
       "created": "2026-06-02",
       "known": false,
+      "phrase": "hälsa på",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -566,6 +573,7 @@ window.KB_DATA = {
       "en": "to come up with, make up, invent",
       "created": "2026-06-02",
       "known": false,
+      "phrase": "hitta på",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -590,6 +598,7 @@ window.KB_DATA = {
       "en": "how do I get there",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "hur tar jag mig dit",
       "sentences": [
         "sent-hur-tar-jag-mig-dit"
       ],
@@ -616,6 +625,7 @@ window.KB_DATA = {
       "en": "in all of Sweden",
       "created": "2026-06-04",
       "known": false,
+      "phrase": "i hela Sverige",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -640,6 +650,7 @@ window.KB_DATA = {
       "en": "work part-time / on the side",
       "created": "2026-06-04",
       "known": false,
+      "phrase": "jobba extra",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -662,6 +673,7 @@ window.KB_DATA = {
       "en": "to fight against, struggle against",
       "created": "2026-06-02",
       "known": false,
+      "phrase": "kämpa mot",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -681,6 +693,7 @@ window.KB_DATA = {
       "en": "to lend out",
       "created": "2026-06-02",
       "known": false,
+      "phrase": "låna ut",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -700,6 +713,7 @@ window.KB_DATA = {
       "en": "to live on, survive, remain",
       "created": "2026-06-02",
       "known": false,
+      "phrase": "leva kvar",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -721,6 +735,7 @@ window.KB_DATA = {
       "en": "to log in",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "logga in",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -741,6 +756,7 @@ window.KB_DATA = {
       "en": "sincerely, with kind regards, yours faithfully",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "med vänlig hälsning",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -763,6 +779,7 @@ window.KB_DATA = {
       "en": "towards the south",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "mot söder",
       "sentences": [
         "sent-ga-mot-soder"
       ],
@@ -787,6 +804,7 @@ window.KB_DATA = {
       "en": "in twenty minutes",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "om tjugo minuter",
       "sentences": [
         "sent-jag-ar-dar-om-tjugo-minuter"
       ],
@@ -811,6 +829,7 @@ window.KB_DATA = {
       "en": "on the right side",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "på höger sida",
       "sentences": [
         "sent-fortsatt-lite-till-gra-dorr"
       ],
@@ -839,6 +858,7 @@ window.KB_DATA = {
       "en": "straight ahead",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "rakt fram",
       "sentences": [
         "sent-sen-gar-du-rakt-fram-langs-vattnet"
       ],
@@ -865,6 +885,7 @@ window.KB_DATA = {
       "en": "vote on",
       "created": "2026-06-04",
       "known": false,
+      "phrase": "rösta om",
       "sentences": [
         "sent-den-fragan-ska-invanarna-i-alberta"
       ],
@@ -892,6 +913,7 @@ window.KB_DATA = {
       "en": "since seven",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "sedan sju",
       "sentences": [
         "sent-sedan-sju"
       ],
@@ -913,6 +935,7 @@ window.KB_DATA = {
       "en": "to send in, submit",
       "created": "2026-06-02",
       "known": false,
+      "phrase": "skicka in",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -935,6 +958,7 @@ window.KB_DATA = {
       "en": "was going out fishing",
       "created": "2026-06-04",
       "known": false,
+      "phrase": "skulle ut och fiska",
       "sentences": [
         "sent-ett-par-i-sodertälje-skulle-ut"
       ],
@@ -964,6 +988,7 @@ window.KB_DATA = {
       "en": "hurry up",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "skynda dig",
       "sentences": [
         "sent-skynda-dig-lite"
       ],
@@ -990,6 +1015,7 @@ window.KB_DATA = {
       "en": "to apply to (a school, place, position)",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "söka till",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -1012,6 +1038,7 @@ window.KB_DATA = {
       "en": "to take care of, look after",
       "created": "2026-06-02",
       "known": false,
+      "phrase": "ta hand om",
       "sentences": [
         "sent-eftersom-astrid-var-ensam-kunde-hon"
       ],
@@ -1036,6 +1063,7 @@ window.KB_DATA = {
       "en": "graduate from gymnasium",
       "created": "2026-06-04",
       "known": false,
+      "phrase": "ta studenten",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -1060,6 +1088,7 @@ window.KB_DATA = {
       "en": "to accept, say yes",
       "created": "2026-06-02",
       "known": false,
+      "phrase": "tacka ja",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -1080,6 +1109,7 @@ window.KB_DATA = {
       "en": "to decline, say no (politely)",
       "created": "2026-06-02",
       "known": false,
+      "phrase": "tacka nej",
       "sentences": [],
       "grammar": [],
       "topics": []
@@ -1102,6 +1132,7 @@ window.KB_DATA = {
       "en": "to the left",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "till vänster",
       "sentences": [
         "sent-du-ser-en-stor-rod-byggnad"
       ],
@@ -1127,6 +1158,7 @@ window.KB_DATA = {
       "en": "see you soon",
       "created": "2026-06-03",
       "known": false,
+      "phrase": "vi ses snart",
       "sentences": [
         "sent-vi-ses-snart"
       ],
@@ -1152,6 +1184,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "他们也理解孩子需要玩耍才能身心健康。",
       "created": "2026-06-02",
+      "sentence": "De förstod också att barn behöver leka för att må bra.",
       "words": [
         "förstå"
       ],
@@ -1180,6 +1213,7 @@ window.KB_DATA = {
       "cefr": "B1",
       "zh": "他们担心读了皮皮故事的孩子会开始模仿她。",
       "created": "2026-06-02",
+      "sentence": "De var oroliga att barn som läste om Pippi skulle börja göra som henne.",
       "words": [
         "orolig",
         "annorlunda"
@@ -1210,6 +1244,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "今年10月19日，阿尔伯塔的居民将就这个问题投票。",
       "created": "2026-06-04",
+      "sentence": "Den frågan ska invånarna i Alberta rösta om den 19 oktober i år.",
       "words": [
         "invånare",
         "rösta"
@@ -1241,6 +1276,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "你不会错过的。",
       "created": "2026-06-03",
+      "sentence": "Du kan inte missa den.",
       "words": [
         "missa"
       ],
@@ -1270,6 +1306,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "你会看到左边有一栋大红楼——那不是对的地方。",
       "created": "2026-06-03",
+      "sentence": "Du ser en stor röd byggnad till vänster — det är inte det rätta stället.",
       "words": [
         "röd",
         "byggnad",
@@ -1302,6 +1339,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "因为阿斯特丽德是独自一人，她无法自己照顾孩子。",
       "created": "2026-06-02",
+      "sentence": "Eftersom Astrid var ensam kunde hon inte ta hand om barnet själv.",
       "words": [
         "ensam"
       ],
@@ -1333,6 +1371,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "南泰利耶的一对夫妇准备出去钓鱼，在挖蚯蚓。",
       "created": "2026-06-04",
+      "sentence": "Ett par i Södertälje skulle ut och fiska och grävde efter mask.",
       "words": [
         "gräva",
         "mask"
@@ -1362,6 +1401,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "有招牌吗？",
       "created": "2026-06-03",
+      "sentence": "Finns det en skylt?",
       "words": [
         "skylt"
       ],
@@ -1388,6 +1428,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "再往前走一点，右边有一扇灰色的门。",
       "created": "2026-06-03",
+      "sentence": "Fortsätt lite till, det är en grå dörr på höger sida.",
       "words": [
         "grå",
         "höger"
@@ -1420,6 +1461,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "往南走。",
       "created": "2026-06-03",
+      "sentence": "Gå mot söder.",
       "words": [
         "söder"
       ],
@@ -1451,6 +1493,7 @@ window.KB_DATA = {
       "cefr": "B1",
       "zh": "这个上限叫\"免税额\"，大约是每月19100克朗。",
       "created": "2026-06-04",
+      "sentence": "Gränsen kallas fribelopp och är cirka 19 100 kronor i månaden.",
       "words": [
         "gräns",
         "fribelopp"
@@ -1478,6 +1521,7 @@ window.KB_DATA = {
       "cefr": "B1",
       "zh": "你们在那里多久了？",
       "created": "2026-06-03",
+      "sentence": "Hur länge har ni varit där?",
       "words": [],
       "phrases": [],
       "grammar": [
@@ -1502,6 +1546,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "我怎么去那里？",
       "created": "2026-06-03",
+      "sentence": "Hur tar jag mig dit?",
       "words": [],
       "phrases": [
         "hur-tar-jag-mig-dit"
@@ -1530,6 +1575,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "有，外面挂着一块小黑牌。",
       "created": "2026-06-03",
+      "sentence": "Ja, det hänger en liten svart skylt utanför.",
       "words": [
         "skylt",
         "hänga"
@@ -1555,6 +1601,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "我二十分钟后到，保证！",
       "created": "2026-06-03",
+      "sentence": "Jag är där om tjugo minuter, lovar!",
       "words": [
         "lova"
       ],
@@ -1582,6 +1629,7 @@ window.KB_DATA = {
       "cefr": "A1",
       "zh": "我在一家医院工作。",
       "created": "2026-06-02",
+      "sentence": "Jag arbetar på ett sjukhus.",
       "words": [
         "arbeta",
         "sjukhus"
@@ -1612,6 +1660,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "许多市政当局在那天欢迎新的瑞典公民。",
       "created": "2026-06-04",
+      "sentence": "Många kommuner välkomnar sina nya svenska medborgare den dagen.",
       "words": [
         "kommun",
         "välkomna",
@@ -1642,6 +1691,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "政府希望将公共交通月票价格减半。",
       "created": "2026-06-04",
+      "sentence": "Regeringen vill halvera priset på månadskort i kollektivtrafiken.",
       "words": [
         "regering",
         "halvera",
@@ -1670,6 +1720,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "从七点开始。",
       "created": "2026-06-03",
+      "sentence": "Sedan sju.",
       "words": [],
       "phrases": [
         "sedan-sju"
@@ -1695,6 +1746,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "然后沿着水边直走大约五分钟。",
       "created": "2026-06-03",
+      "sentence": "Sen går du rakt fram längs vattnet i ungefär fem minuter.",
       "words": [
         "rakt",
         "längs",
@@ -1726,6 +1778,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "稍微快点。",
       "created": "2026-06-03",
+      "sentence": "Skynda dig lite.",
       "words": [
         "skynda"
       ],
@@ -1755,6 +1808,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "坐地铁到斯鲁森站，13或14号线。",
       "created": "2026-06-03",
+      "sentence": "Ta tunnelbanan till Slussen, linje 13 eller 14.",
       "words": [
         "tunnelbana",
         "linje"
@@ -1782,6 +1836,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "你们今晚到底在哪里？",
       "created": "2026-06-03",
+      "sentence": "Var är ni egentligen ikväll?",
       "words": [
         "egentligen"
       ],
@@ -1806,6 +1861,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "你知道在哪里吗？",
       "created": "2026-06-03",
+      "sentence": "Vet du var det är?",
       "words": [],
       "phrases": [],
       "grammar": [
@@ -1830,6 +1886,7 @@ window.KB_DATA = {
       "cefr": "A1",
       "zh": "我们在科尔克兰餐厅，在霍恩斯街。",
       "created": "2026-06-03",
+      "sentence": "Vi är på Restaurang Kolkällan, på Hornsgatan.",
       "words": [
         "restaurang"
       ],
@@ -1856,6 +1913,7 @@ window.KB_DATA = {
       "cefr": "A1",
       "zh": "待会见。",
       "created": "2026-06-03",
+      "sentence": "Vi ses snart.",
       "words": [
         "snart"
       ],
@@ -1882,6 +1940,7 @@ window.KB_DATA = {
       "cefr": "A1",
       "zh": "我们在等你！",
       "created": "2026-06-03",
+      "sentence": "Vi väntar på dig!",
       "words": [
         "vänta"
       ],
@@ -1906,6 +1965,7 @@ window.KB_DATA = {
       "cefr": "A2",
       "zh": "我该往哪个方向走？",
       "created": "2026-06-03",
+      "sentence": "Vilken riktning ska jag gå?",
       "words": [
         "riktning"
       ],

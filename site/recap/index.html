@@ -16,6 +16,7 @@
           <p id="recapUpdated" class="updated">Loading…</p>
         </div>
         <nav class="recapNav" aria-label="Site nav">
+          <button class="navLink navButton" type="button" id="todayFlashBtn" title="把今天的录入逐张闪卡复习">🎴 今日闪卡</button>
           <a class="navLink" href="../">🔍 Search KB</a>
         </nav>
       </div>
@@ -56,6 +57,7 @@
         <button type="button" class="typeFilter" data-type="phrase">词组</button>
         <button type="button" class="typeFilter" data-type="sentence">句子</button>
         <button type="button" class="typeFilter" data-type="grammar">语法</button>
+        <button type="button" class="typeFilter starredFilter" data-type="starred" title="只看已星标的条目">⭐ 仅关注</button>
       </nav>
     </header>
 
@@ -73,8 +75,36 @@
           <button id="peekClose" type="button" aria-label="关闭预览">✕</button>
         </div>
       </header>
+      <div class="peekToolbar">
+        <button id="peekKnown" type="button" class="peekActionBtn" title="标记为已掌握 (本地)">✓ 已掌握</button>
+        <button id="peekStar" type="button" class="peekActionBtn" title="加入关注 (本地)">⭐ 关注</button>
+        <button id="peekFlashOne" type="button" class="peekActionBtn" title="只用这一条做闪卡">🎴 单条闪卡</button>
+      </div>
       <div id="peekBody" class="peekBody"></div>
     </aside>
+
+    <div id="flashOverlay" class="flashOverlay" hidden aria-label="Flashcard mode" role="dialog" aria-modal="true">
+      <div class="flashBar">
+        <div class="flashMeta">
+          <span id="flashIndex">0 / 0</span>
+          <span class="flashScopeLabel" id="flashScope"></span>
+        </div>
+        <div class="flashControls">
+          <button type="button" id="flashShuffle" title="洗牌">🔀 洗牌</button>
+          <button type="button" id="flashRestart" title="重新开始">↻ 重来</button>
+          <button type="button" id="flashClose" aria-label="关闭闪卡">✕</button>
+        </div>
+      </div>
+      <div class="flashStage">
+        <button type="button" id="flashPrev" class="flashNav flashNavPrev" aria-label="上一张">‹</button>
+        <div id="flashCard" class="flashCard" tabindex="0" aria-label="点击或按空格翻面">
+          <div class="flashFace flashFront" id="flashFront"></div>
+          <div class="flashFace flashBack" id="flashBack" hidden></div>
+        </div>
+        <button type="button" id="flashNext" class="flashNav flashNavNext" aria-label="下一张">›</button>
+      </div>
+      <p class="flashHint">空格翻面 · ← → 切换 · Esc 退出</p>
+    </div>
 
     <script src="../kb-data.js"></script>
     <script src="recap.js"></script>
