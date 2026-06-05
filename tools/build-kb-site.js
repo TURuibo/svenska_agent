@@ -42,12 +42,40 @@ function parseFrontmatter(text) {
   }
 
   const lines = match[1].split(/\r?\n/);
-  for (const line of lines) {
-    if (/^\s*#/.test(line)) continue;
-    const lineMatch = line.match(/^\s*([^:]+):\s*(.*)$/);
-    if (!lineMatch) continue;
+  let i = 0;
+  while (i < lines.length) {
+    const line = lines[i];
+    if (/^\s*#/.test(line) || /^\s*$/.test(line)) { i++; continue; }
+    // Top-level key (no leading whitespace) — anything indented is a list item below.
+    const lineMatch = line.match(/^([^\s:][^:]*):\s*(.*)$/);
+    if (!lineMatch) { i++; continue; }
     const key = lineMatch[1].trim();
-    frontmatter[key] = parseScalar(lineMatch[2]);
+    const rest = lineMatch[2];
+
+    // Empty value? May be a multi-line YAML list:
+    //   words:
+    //     - egentligen
+    //     - restaurang
+    if (rest === '') {
+      const items = [];
+      let j = i + 1;
+      while (j < lines.length) {
+        const listMatch = lines[j].match(/^\s+-\s+(.*)$/);
+        if (!listMatch) break;
+        items.push(listMatch[1].trim().replace(/^['"]|['"]$/g, ''));
+        j += 1;
+      }
+      if (items.length > 0) {
+        frontmatter[key] = items;
+        i = j;
+        continue;
+      }
+      frontmatter[key] = '';
+      i += 1;
+      continue;
+    }
+    frontmatter[key] = parseScalar(rest);
+    i += 1;
   }
 
   return { frontmatter, body: match[2].trim() };
@@ -123,7 +151,14 @@ const notes = walkMarkdownFiles(kbRoot).map((filePath) => {
     searchText: `${title} ${slug} ${relativePath(filePath)} ${text}`,
   };
 
-  for (const key of ['lemma', 'name', 'ordklass', 'cefr', 'zh', 'en', 'created', 'known']) {
+  const carryKeys = [
+    'lemma', 'name', 'ordklass', 'cefr', 'zh', 'en', 'created', 'known',
+    'sentence', 'phrase',
+    // recap-site extras
+    'date', 'date_added', 'source_label', 'kind',
+    'words', 'phrases', 'sentences', 'grammar', 'topics',
+  ];
+  for (const key of carryKeys) {
     if (Object.prototype.hasOwnProperty.call(frontmatter, key)) {
       note[key] = frontmatter[key];
     }
