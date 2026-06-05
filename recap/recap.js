@@ -1,0 +1,557 @@
+/* Dagbok — recap UI. Reads window.KB_DATA from ../kb-data.js. */
+
+(function () {
+  'use strict';
+
+  const data = window.KB_DATA;
+  if (!data || !Array.isArray(data.notes)) {
+    document.getElementById('timeline').innerHTML =
+      '<p class="timelineEmpty">⚠️ 找不到 kb-data.js — 请先运行 <code>node tools/build-kb-site.js</code>。</p>';
+    return;
+  }
+
+  const notes = data.notes;
+  const TYPE_LABELS = { word: '词', phrase: '词组', sentence: '句子', grammar: '语法', topic: '主题', source: '来源' };
+  const ITEM_TYPES = ['word', 'phrase', 'sentence', 'grammar'];
+
+  // ---------- date helpers ----------
+
+  function localISODate(d) {
+    const o = d.getTimezoneOffset();
+    return new Date(d.getTime() - o * 60000).toISOString().slice(0, 10);
+  }
+  function parseISODate(s) {
+    if (!s || typeof s !== 'string') return null;
+    const m = s.match(/^(\d{4})-(\d{2})-(\d{2})/);
+    if (!m) return null;
+    return new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3]));
+  }
+  function daysBetween(a, b) {
+    return Math.round((b - a) / 86400000);
+  }
+  function startOfWeek(d) {
+    // Monday-based week
+    const x = new Date(d);
+    const dow = (x.getDay() + 6) % 7; // Mon = 0
+    x.setDate(x.getDate() - dow);
+    x.setHours(0, 0, 0, 0);
+    return x;
+  }
+  function fmtCN(date) {
+    return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
+  }
+  function weekdayCN(date) {
+    return ['周日', '周一', '周二', '周三', '周四', '周五', '周六'][date.getDay()];
+  }
+
+  const TODAY = new Date();
+  TODAY.setHours(0, 0, 0, 0);
+  const TODAY_KEY = localISODate(TODAY);
+  const YESTERDAY = new Date(TODAY); YESTERDAY.setDate(YESTERDAY.getDate() - 1);
+  const YESTERDAY_KEY = localISODate(YESTERDAY);
+  const WEEK_START = startOfWeek(TODAY);
+  const LAST_WEEK_START = new Date(WEEK_START); LAST_WEEK_START.setDate(LAST_WEEK_START.getDate() - 7);
+  const MONTH_START = new Date(TODAY.getFullYear(), TODAY.getMonth(), 1);
+
+  // ---------- index notes by date and slug ----------
+
+  const bySlug = new Map();
+  for (const n of notes) bySlug.set(n.slug, n);
+
+  // group items by created date; sources go to a separate map
+  const itemsByDate = new Map(); // 'YYYY-MM-DD' -> [note...]
+  const sourcesByDate = new Map(); // 'YYYY-MM-DD' -> [sourceNote...]
+  let totalItems = 0;
+
+  for (const n of notes) {
+    if (!ITEM_TYPES.includes(n.type) && n.type !== 'source') continue;
+    const createdRaw = n.created || (n.type === 'source' ? (n.date || n.date_added) : null);
+    const created = createdRaw ? String(createdRaw) : null;
+    if (!created) continue;
+    if (n.type === 'source') {
+      if (!sourcesByDate.has(created)) sourcesByDate.set(created, []);
+      sourcesByDate.get(created).push(n);
+    } else {
+      if (!itemsByDate.has(created)) itemsByDate.set(created, []);
+      itemsByDate.get(created).push(n);
+      totalItems += 1;
+    }
+  }
+
+  // Build a per-source claim set: for each source, slugs it explicitly lists.
+  // Items in that set, on that source's date, get attached to the source group.
+  function sourceClaims(src) {
+    const claimed = new Set();
+    for (const key of ['words', 'phrases', 'sentences', 'grammar']) {
+      const list = src[key];
+      if (Array.isArray(list)) {
+        for (const slug of list) claimed.add(String(slug));
+      }
+    }
+    return claimed;
+  }
+
+  // ---------- stats ----------
+
+  function countSince(thresholdDate) {
+    let n = 0;
+    for (const [key, items] of itemsByDate) {
+      const d = parseISODate(key);
+      if (d && d >= thresholdDate) n += items.length;
+    }
+    return n;
+  }
+
+  function streakDays() {
+    let streak = 0;
+    const cur = new Date(TODAY);
+    while (true) {
+      const key = localISODate(cur);
+      if ((itemsByDate.get(key) || []).length === 0) break;
+      streak += 1;
+      cur.setDate(cur.getDate() - 1);
+    }
+    return streak;
+  }
+
+  document.getElementById('statToday').textContent = (itemsByDate.get(TODAY_KEY) || []).length;
+  document.getElementById('statYesterday').textContent = (itemsByDate.get(YESTERDAY_KEY) || []).length;
+  document.getElementById('statWeek').textContent = countSince(WEEK_START);
+  document.getElementById('statMonth').textContent = countSince(MONTH_START);
+  document.getElementById('statTotal').textContent = totalItems;
+  document.getElementById('statStreak').textContent = streakDays();
+  document.getElementById('recapUpdated').textContent =
+    `数据更新于 ${data.generatedAt} · 今天 ${TODAY_KEY} ${weekdayCN(TODAY)}`;
+
+  // ---------- heatmap (12 weeks, ending this week) ----------
+
+  function buildHeatmap() {
+    const root = document.getElementById('heatmap');
+    root.innerHTML = '';
+    const WEEKS = 12;
+    // Start = Monday of (this week - (WEEKS-1) weeks)
+    const start = new Date(WEEK_START);
+    start.setDate(start.getDate() - (WEEKS - 1) * 7);
+
+    // Determine quantile thresholds based on non-zero days in window
+    const counts = [];
+    for (let i = 0; i < WEEKS * 7; i++) {
+      const d = new Date(start); d.setDate(d.getDate() + i);
+      const key = localISODate(d);
+      counts.push((itemsByDate.get(key) || []).length);
+    }
+    const sortedNonZero = counts.filter((x) => x > 0).sort((a, b) => a - b);
+    const q = (frac) => {
+      if (sortedNonZero.length === 0) return 1;
+      return sortedNonZero[Math.min(sortedNonZero.length - 1, Math.floor(sortedNonZero.length * frac))];
+    };
+    const t1 = q(0.25), t2 = q(0.55), t3 = q(0.85);
+
+    function level(n) {
+      if (n === 0) return 'l0';
+      if (n <= t1) return 'l1';
+      if (n <= t2) return 'l2';
+      if (n <= t3) return 'l3';
+      return 'l4';
+    }
+
+    for (let w = 0; w < WEEKS; w++) {
+      for (let d = 0; d < 7; d++) {
+        const date = new Date(start);
+        date.setDate(date.getDate() + w * 7 + d);
+        const key = localISODate(date);
+        const cell = document.createElement('button');
+        cell.type = 'button';
+        cell.className = 'heatCell ' + level(counts[w * 7 + d]);
+        if (key === TODAY_KEY) cell.classList.add('today');
+        if (date > TODAY) {
+          cell.classList.add('empty');
+          cell.disabled = true;
+          cell.style.gridColumn = (w + 1).toString();
+          cell.style.gridRow = (d + 1).toString();
+          root.appendChild(cell);
+          continue;
+        }
+        const n = counts[w * 7 + d];
+        cell.title = `${key} ${weekdayCN(date)} · ${n} 项`;
+        cell.style.gridColumn = (w + 1).toString();
+        cell.style.gridRow = (d + 1).toString();
+        cell.addEventListener('click', () => {
+          const anchor = document.querySelector(`[data-day="${key}"]`);
+          if (anchor) {
+            anchor.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            anchor.classList.add('flash');
+            setTimeout(() => anchor.classList.remove('flash'), 1200);
+          } else {
+            // no entries that day — flash a small tooltip
+            cell.classList.add('today');
+            setTimeout(() => { if (key !== TODAY_KEY) cell.classList.remove('today'); }, 600);
+          }
+        });
+        root.appendChild(cell);
+      }
+    }
+  }
+
+  // ---------- rendering ----------
+
+  const TIMELINE = document.getElementById('timeline');
+
+  function chipForNote(n) {
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'chip';
+    btn.dataset.slug = n.slug;
+    btn.dataset.type = n.type;
+    if (n.known === true) btn.classList.add('known');
+
+    const title = document.createElement('span');
+    title.className = 'chipTitle';
+    title.textContent = n.title || n.lemma || n.slug;
+    btn.appendChild(title);
+
+    if (n.type === 'word' && n.ordklass) {
+      const pos = document.createElement('span');
+      pos.className = 'pos';
+      pos.textContent = abbrevPos(String(n.ordklass));
+      btn.appendChild(pos);
+    }
+
+    if (n.zh) {
+      const zh = document.createElement('span');
+      zh.className = 'zh';
+      zh.textContent = String(n.zh);
+      btn.appendChild(zh);
+    }
+
+    btn.addEventListener('click', () => openPeek(n));
+    return btn;
+  }
+
+  function abbrevPos(p) {
+    const map = {
+      verb: 'v.', substantiv: 'n.', adjektiv: 'adj.', adverb: 'adv.',
+      pronomen: 'pron.', preposition: 'prep.', konjunktion: 'konj.',
+      interjektion: 'interj.', räkneord: 'num.',
+    };
+    return map[p.toLowerCase()] || p;
+  }
+
+  function typeRow(label, items) {
+    if (!items || items.length === 0) return null;
+    const row = document.createElement('div');
+    row.className = 'typeRow';
+    const lab = document.createElement('div');
+    lab.className = 'typeLabel';
+    lab.textContent = `${label} · ${items.length}`;
+    const chips = document.createElement('div');
+    chips.className = 'chips';
+    for (const it of items) chips.appendChild(chipForNote(it));
+    row.appendChild(lab);
+    row.appendChild(chips);
+    return row;
+  }
+
+  function renderItemsBlock(items, container) {
+    const buckets = { word: [], phrase: [], sentence: [], grammar: [] };
+    for (const it of items) {
+      if (buckets[it.type]) buckets[it.type].push(it);
+    }
+    // sort each bucket
+    for (const key of Object.keys(buckets)) {
+      buckets[key].sort((a, b) => (a.title || '').localeCompare(b.title || ''));
+    }
+    let added = 0;
+    for (const t of ITEM_TYPES) {
+      const row = typeRow(TYPE_LABELS[t], buckets[t]);
+      if (row) { container.appendChild(row); added += 1; }
+    }
+    return added;
+  }
+
+  function relativeDayLabel(date) {
+    const diff = daysBetween(date, TODAY);
+    if (diff === 0) return '今天';
+    if (diff === 1) return '昨天';
+    if (diff === 2) return '前天';
+    if (date >= WEEK_START) return `本${weekdayCN(date)}`;
+    if (date >= LAST_WEEK_START) return `上${weekdayCN(date)}`;
+    if (date >= MONTH_START) return `本月 ${date.getMonth() + 1}-${String(date.getDate()).padStart(2, '0')}`;
+    return `${date.getMonth() + 1}-${String(date.getDate()).padStart(2, '0')}`;
+  }
+
+  function renderTimeline(filterType) {
+    TIMELINE.innerHTML = '';
+    const dates = Array.from(itemsByDate.keys()).sort((a, b) => b.localeCompare(a));
+    if (dates.length === 0) {
+      TIMELINE.innerHTML = '<p class="timelineEmpty">还没有任何录入条目。先去 /learn 一些瑞典语吧 🇸🇪</p>';
+      return;
+    }
+
+    let renderedDays = 0;
+    for (const dateKey of dates) {
+      const date = parseISODate(dateKey);
+      let items = itemsByDate.get(dateKey) || [];
+      if (filterType && filterType !== 'all') {
+        items = items.filter((n) => n.type === filterType);
+      }
+      if (items.length === 0) continue;
+
+      const section = document.createElement('section');
+      section.className = 'daySection';
+      section.dataset.day = dateKey;
+
+      // day header
+      const header = document.createElement('div');
+      header.className = 'dayHeader';
+      const h2 = document.createElement('h2');
+      h2.className = 'dayDate';
+      h2.textContent = relativeDayLabel(date);
+      const abs = document.createElement('span');
+      abs.className = 'dayDateAbs';
+      abs.textContent = `${fmtCN(date)} ${weekdayCN(date)}`;
+      h2.appendChild(abs);
+      const cnt = document.createElement('span');
+      cnt.className = 'dayCount';
+      cnt.textContent = `${items.length} 项`;
+      header.appendChild(h2);
+      header.appendChild(cnt);
+      section.appendChild(header);
+
+      // partition into batches by source
+      const sources = sourcesByDate.get(dateKey) || [];
+      const claimedToSource = new Map(); // slug -> source
+      for (const src of sources) {
+        const claims = sourceClaims(src);
+        for (const slug of claims) {
+          // first source wins
+          if (!claimedToSource.has(slug)) claimedToSource.set(slug, src);
+        }
+      }
+
+      const batchItems = new Map(); // sourceSlug -> { src, items[] }
+      const looseItems = [];
+      for (const it of items) {
+        const src = claimedToSource.get(it.slug);
+        if (src) {
+          if (!batchItems.has(src.slug)) batchItems.set(src.slug, { src, items: [] });
+          batchItems.get(src.slug).items.push(it);
+        } else {
+          looseItems.push(it);
+        }
+      }
+
+      // render each batch
+      for (const { src, items: bItems } of batchItems.values()) {
+        const batch = document.createElement('div');
+        batch.className = 'batch';
+
+        const bHead = document.createElement('div');
+        bHead.className = 'batchHeader';
+        const icon = document.createElement('span'); icon.className = 'batchIcon'; icon.textContent = '📥';
+        const title = document.createElement('h3');
+        title.className = 'batchTitle';
+        title.textContent = src.source_label || src.title || src.slug;
+        const counts = document.createElement('span');
+        counts.className = 'batchCounts';
+        const grouped = bItems.reduce((acc, it) => { acc[it.type] = (acc[it.type] || 0) + 1; return acc; }, {});
+        counts.textContent = ITEM_TYPES
+          .filter((t) => grouped[t])
+          .map((t) => `${grouped[t]} ${TYPE_LABELS[t]}`)
+          .join(' · ');
+        bHead.appendChild(icon);
+        bHead.appendChild(title);
+        bHead.appendChild(counts);
+        batch.appendChild(bHead);
+
+        renderItemsBlock(bItems, batch);
+
+        // small footer link to open the source note
+        const footer = document.createElement('div');
+        footer.style.marginTop = '6px';
+        const a = document.createElement('a');
+        a.href = `../#note=${encodeURIComponent(src.slug)}`;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.style.fontFamily = 'var(--cjk)';
+        a.style.fontSize = '12px';
+        a.style.color = 'var(--muted)';
+        a.style.textDecoration = 'none';
+        a.textContent = '→ 查看完整 source 笔记';
+        footer.appendChild(a);
+        batch.appendChild(footer);
+
+        section.appendChild(batch);
+      }
+
+      if (looseItems.length > 0) {
+        const loose = document.createElement('div');
+        loose.className = 'looseGroup';
+        if (batchItems.size > 0) {
+          const hdr = document.createElement('div');
+          hdr.style.fontFamily = 'var(--cjk)';
+          hdr.style.fontSize = '13px';
+          hdr.style.color = 'var(--muted)';
+          hdr.style.margin = '10px 0 4px';
+          hdr.textContent = '其他 (单独录入)';
+          loose.appendChild(hdr);
+        }
+        renderItemsBlock(looseItems, loose);
+        section.appendChild(loose);
+      }
+
+      TIMELINE.appendChild(section);
+      renderedDays += 1;
+    }
+
+    if (renderedDays === 0) {
+      TIMELINE.innerHTML = '<p class="timelineEmpty">当前筛选下没有条目。试试别的类型？</p>';
+    }
+  }
+
+  // ---------- peek panel ----------
+
+  const peek = document.getElementById('peekPanel');
+  const peekTitle = document.getElementById('peekTitle');
+  const peekBody = document.getElementById('peekBody');
+  const peekOpen = document.getElementById('peekOpen');
+
+  function escapeHtml(s) {
+    return String(s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  // minimal markdown → HTML (fenced code, headings, lists, bold, wikilinks → link to main viewer)
+  function mdToHtml(md) {
+    const lines = md.split(/\r?\n/);
+    const out = [];
+    let i = 0;
+    let inList = false;
+    function closeList() { if (inList) { out.push('</ul>'); inList = false; } }
+    while (i < lines.length) {
+      const line = lines[i];
+      // fence
+      const fence = line.match(/^```(.*)$/);
+      if (fence) {
+        closeList();
+        const buf = [];
+        i += 1;
+        while (i < lines.length && !/^```/.test(lines[i])) { buf.push(lines[i]); i += 1; }
+        out.push('<pre><code>' + escapeHtml(buf.join('\n')) + '</code></pre>');
+        i += 1; // skip closing fence
+        continue;
+      }
+      // heading
+      const h = line.match(/^(#{1,6})\s+(.+)$/);
+      if (h) {
+        closeList();
+        const level = Math.min(3, h[1].length); // cap at h3 inside peek
+        out.push(`<h${level}>${inline(h[2])}</h${level}>`);
+        i += 1; continue;
+      }
+      // list item
+      const li = line.match(/^\s*[-*]\s+(.+)$/);
+      if (li) {
+        if (!inList) { out.push('<ul>'); inList = true; }
+        out.push('<li>' + inline(li[1]) + '</li>');
+        i += 1; continue;
+      }
+      // blank
+      if (line.trim() === '') {
+        closeList();
+        i += 1; continue;
+      }
+      // paragraph
+      closeList();
+      out.push('<p>' + inline(line) + '</p>');
+      i += 1;
+    }
+    closeList();
+    return out.join('\n');
+  }
+
+  function inline(s) {
+    let t = escapeHtml(s);
+    t = t.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_m, slug, label) => {
+      const visible = label || slug;
+      return `<a href="../#note=${encodeURIComponent(slug)}" target="_blank" rel="noopener">${escapeHtml(visible)}</a>`;
+    });
+    t = t.replace(/`([^`]+)`/g, '<code>$1</code>');
+    t = t.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+    return t;
+  }
+
+  function openPeek(n) {
+    peekTitle.textContent = `${n.title} · ${TYPE_LABELS[n.type] || n.type}`;
+    const meta = [];
+    if (n.ordklass) meta.push(escapeHtml(String(n.ordklass)));
+    if (n.cefr) meta.push(`CEFR ${escapeHtml(String(n.cefr))}`);
+    if (n.zh) meta.push(`🇨🇳 ${escapeHtml(String(n.zh))}`);
+    if (n.en) meta.push(`🇬🇧 ${escapeHtml(String(n.en))}`);
+    const metaHtml = meta.length ? `<div class="peekMeta">${meta.join(' · ')}</div>` : '';
+    peekBody.innerHTML = metaHtml + mdToHtml(n.body || '');
+    peekOpen.href = `../#note=${encodeURIComponent(n.slug)}`;
+    peek.hidden = false;
+  }
+
+  document.getElementById('peekClose').addEventListener('click', () => { peek.hidden = true; });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !peek.hidden) peek.hidden = true;
+  });
+
+  // ---------- jump bar & filter ----------
+
+  let activeFilter = 'all';
+
+  function jumpTo(target) {
+    let date = null;
+    if (target === 'today') date = TODAY;
+    else if (target === 'yesterday') date = YESTERDAY;
+    else if (target === 'this-week') date = WEEK_START;
+    else if (target === 'last-week') date = LAST_WEEK_START;
+    else if (target === 'this-month') date = MONTH_START;
+    else if (target === 'all') {
+      TIMELINE.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      return;
+    }
+    if (!date) return;
+    // find the first day-section with date <= target date
+    const sections = Array.from(document.querySelectorAll('.daySection'));
+    for (const s of sections) {
+      const d = parseISODate(s.dataset.day);
+      if (d && d <= date) {
+        s.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        s.classList.add('flash');
+        setTimeout(() => s.classList.remove('flash'), 1200);
+        return;
+      }
+    }
+    // none — scroll to the closest later one
+    if (sections.length > 0) sections[sections.length - 1].scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  document.querySelectorAll('.jumpBar [data-jump]').forEach((btn) => {
+    btn.addEventListener('click', () => jumpTo(btn.dataset.jump));
+  });
+
+  document.querySelectorAll('.typeFilter').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.typeFilter').forEach((b) => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeFilter = btn.dataset.type;
+      renderTimeline(activeFilter);
+    });
+  });
+
+  // ---------- init ----------
+
+  buildHeatmap();
+  renderTimeline('all');
+
+  // brief flash style for jumped sections
+  const style = document.createElement('style');
+  style.textContent =
+    '.daySection.flash { box-shadow: 0 0 0 3px var(--gold), 0 24px 60px rgba(32,47,38,0.18); transition: box-shadow 0.4s; }';
+  document.head.appendChild(style);
+})();

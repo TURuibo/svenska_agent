@@ -23,6 +23,23 @@ It is static and has no external dependencies. `knowledge_base/` remains the sou
 no schema change is needed). Open `site/index.html` directly or serve the folder — no build needed
 to view; only re-run the generator below after editing KB notes.
 
+## Dagbok (recap page)
+
+`site/recap/` is a sister page focused on **evening recap** rather than search: "what did I add
+today / yesterday / this week?". It shares `kb-data.js` and the same color palette, and lives at
+`/recap/` on GitHub Pages. Features:
+
+- Stats strip (今天/昨天/本周/本月/总条目/连续天数 streak)
+- 12-week activity heatmap, clickable to jump to that day
+- Timeline grouped by day, with import batches (`sources/`) shown as cards containing their words /
+  phrases / sentences / grammar
+- Type filter (词 / 词组 / 句子 / 语法) and quick-jump buttons
+- Click any chip to open an inline peek panel with the full markdown rendered; "在主站打开 →"
+  jumps to the main search viewer.
+
+The main viewer header carries a "📅 Dagbok" link to switch between the two; the recap header
+carries a "🔍 Search KB" link back.
+
 Regenerate the searchable data after adding or editing KB notes:
 
 ```bash
