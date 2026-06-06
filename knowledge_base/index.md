@@ -21,11 +21,16 @@ Obsidian 风格的本地知识库，全部为 markdown，笔记之间用 `[[wiki
 
 > 实时统计由 SessionStart hook 打印；运行 `/kb` 刷新本节。
 
-- 单词: 109 · 词组: 32 · 句子: 9 · 语法: 14 · 主题: 12 · 来源: 4 · **共 180 条目**
-- 可复习: 166 · 已掌握(known): 0
+- 单词: 180 · 词组: 32 · 句子: 53 · 语法: 19 · 主题: 14 · 来源: 5 · **共 303 条目**
+- 可复习: 246 · 已掌握(known): 0
 
 ## 最近添加 (Recently added)
 
+- 2026-06-07 (来源) [[source-2026-06-07-kropp-halsa]] — Adjektiv+substantiv böjning (Kropp & Hälsa)，25组形容词+名词四式变形
+- 2026-06-07 (词，50个) 身体与健康主题：[[stark]], [[öm]], [[bruten]], [[svullen]], [[pigg]], [[frisk]], [[svag]], [[blå]], [[stor]], [[vit]], [[mjuk]], [[rak]], [[bred]], [[skadad]], [[hög]], [[torr]], [[djup]], [[bitter]], [[erfaren]], [[vänlig]], [[modern]], [[dyr]], [[stel]], [[kall]], [[blek]], [[arm]], [[hals]], [[patient]], [[puls]], [[tand]], [[mage]], [[rygg]], [[feber]], [[hosta]], [[tablett]], [[läkare]], [[sjuksköterska]], [[medicin]], [[nacke]], [[hand]], [[fot]], [[ben]], [[knä]], [[hjärta]], [[öga]], [[öra]], [[hår]], [[sår]], [[sjukhus]], [[ansikte]]
+- 2026-06-07 (句子，25个) adj+subst 四式变形链：[[sent-en-stark-arm]], [[sent-ett-brutet-ben]], [[sent-ett-blått-öga]], [[sent-en-skadad-fot]], [[sent-ett-modernt-sjukhus]] … (共25)
+- 2026-06-07 (语法，5个) [[grammar-adjektivbojning]], [[grammar-en-ord-och-ett-ord]], [[grammar-adjektiv-perfekt-particip]], [[grammar-dubbelteckning-adjektiv]], [[grammar-oregelbunden-pluralbojning]]
+- 2026-06-07 (主题，2个) [[topic-kropp]], [[topic-halsa-sjukvard]]
 - 2026-06-04 (来源) [[source-2026-06-04-nyheter-vecka-22]] — NYHETS-SIDAN Vecka 22, 7篇简易新闻
 - 2026-06-04 (词，44个) [[bestå]], [[påbörja]], [[självständig]], [[invånare]], [[rösta]], [[missnöjd]], [[regering]], [[halvera]], [[månadskort]], [[kollektivtrafik]], [[sänkning]], [[gälla]], [[studiemedel]], [[bidrag]], [[tjäna]], [[gräns]], [[fribelopp]], [[ungdom]], [[energidryck]], [[innehålla]], [[koffein]], [[sömn]], [[hjärtklappning]], [[oro]], [[burk]], [[råd]], [[skatt]], [[gräva]], [[mask]], [[mynt]], [[pärla]], [[hittelön]], [[skolavslutning]], [[medborgare]], [[kommun]], [[välkomna]], [[provins]], [[spårvagn]], [[lån]], [[ring]], [[nationaldag]], [[studentmössa]], [[grundskola]], [[gymnasieelev]]
 - 2026-06-04 (词，已丰富) [[hälsa]] — 添加名词义（健康）

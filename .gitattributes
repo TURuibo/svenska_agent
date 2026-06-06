@@ -1,0 +1,14 @@
+# Normalize line endings: repo stores LF, avoids CRLF phantom diffs on Windows
+* text=auto eol=lf
+
+# PowerShell scripts prefer CRLF locally
+*.ps1 text eol=crlf
+
+# Treat these as binary (never touch EOL / never diff)
+*.zip binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.ico binary
