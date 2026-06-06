@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-06 22:46:12",
+  "generatedAt": "2026-06-06 22:56:45",
   "notes": [
     {
       "slug": "grammar-adjektiv-perfekt-particip",
