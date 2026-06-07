@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-07 19:13:36",
+  "generatedAt": "2026-06-07 19:13:46",
   "notes": [
     {
       "slug": "grammar-att-sats",
@@ -2510,6 +2510,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-07-kropp-halsa",
+      "type": "source",
+      "title": "Adjektiv+substantiv böjning — Kropp & Hälsa",
+      "path": "knowledge_base/sources/source-2026-06-07-kropp-halsa.md",
+      "body": "# 来源: Adjektiv+substantiv böjning — Kropp & Hälsa (2026-06-07)\n\n25 组 adj+subst 四式变形练习，主题：身体与健康。\n导入自 `inbox/adjsubst-2026-06-07-kropp-halsa.md`。\n\n## 词汇 (Words — 10)\n\n[[stark]] · [[arm]] · [[öm]] · [[hals]] · [[bruten]] · [[ben]] · [[svullen]] · [[knä]] · [[pigg]] · [[patient]]",
+      "excerpt": "来源: Adjektiv+substantiv böjning — Kropp & Hälsa (2026 06 07) 25 组 adj+subst 四式变形练习，主题：身体与健康。 导入自 inbox/adjsubst 2026 06 07 kropp halsa.md 。 词汇 (Words — 10) stark · arm · öm · hals · bruten · ben · svullen · knä · pigg · ",
+      "links": [
+        "arm",
+        "ben",
+        "bruten",
+        "hals",
+        "knä",
+        "öm",
+        "patient",
+        "pigg",
+        "stark",
+        "svullen"
+      ],
+      "searchText": "Adjektiv+substantiv böjning — Kropp & Hälsa source-2026-06-07-kropp-halsa knowledge_base/sources/source-2026-06-07-kropp-halsa.md ---\ntype: source\nslug: source-2026-06-07-kropp-halsa\ntitle: \"Adjektiv+substantiv böjning — Kropp & Hälsa\"\nkind: import\nsource_label: \"Adjektiv+substantiv böjning (Body & Health)\"\ndate: \"2026-06-07\"\nwords: [stark, arm, öm, hals, bruten, ben, svullen, knä, pigg, patient]\nphrases: []\nsentences: []\ngrammar: []\n---\n\n# 来源: Adjektiv+substantiv böjning — Kropp & Hälsa (2026-06-07)\n\n25 组 adj+subst 四式变形练习，主题：身体与健康。\n导入自 `inbox/adjsubst-2026-06-07-kropp-halsa.md`。\n\n## 词汇 (Words — 10)\n\n[[stark]] · [[arm]] · [[öm]] · [[hals]] · [[bruten]] · [[ben]] · [[svullen]] · [[knä]] · [[pigg]] · [[patient]]\n",
+      "date": "2026-06-07",
+      "source_label": "Adjektiv+substantiv böjning (Body & Health)",
+      "kind": "import",
+      "words": [
+        "stark",
+        "arm",
+        "öm",
+        "hals",
+        "bruten",
+        "ben",
+        "svullen",
+        "knä",
+        "pigg",
+        "patient"
+      ],
+      "phrases": [],
+      "sentences": [],
+      "grammar": []
+    },
+    {
       "slug": "topic-arbete",
       "type": "topic",
       "title": "arbete",
@@ -2577,18 +2616,20 @@ window.KB_DATA = {
       "type": "topic",
       "title": "hälsa",
       "path": "knowledge_base/topics/topic-hälsa.md",
-      "body": "# 🗂️ hälsa — 健康\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[sömn]] — 睡眠\n- [[hjärtklappning]] — 心悸\n- [[oro]] — 焦虑、不安\n- [[energidryck]] — 能量饮料（与健康风险相关）\n- [[koffein]] — 咖啡因\n- [[hälsa]] — 健康（名词义，已有词条）\n\n## 备注 (Notes)\n\n- 与新闻话题\"能量饮料禁售\"相关，涵盖健康风险词汇。\n- 参见 [[topic-nyheter-vecka22]]\n- 注：[[hälsa]] 词条同时存在动词义（问候）和名词义（健康），见该词条用法提示。",
-      "excerpt": "🗂️ hälsa — 健康 类型: semantic field 成员 (Members) sömn — 睡眠 hjärtklappning — 心悸 oro — 焦虑、不安 energidryck — 能量饮料（与健康风险相关） koffein — 咖啡因 hälsa — 健康（名词义，已有词条） 备注 (Notes) 与新闻话题\"能量饮料禁售\"相关，涵盖健康风险词汇。 参见 topic nyheter vecka22 注：häls",
+      "body": "# 🗂️ hälsa — 健康\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[sömn]] — 睡眠\n- [[hjärtklappning]] — 心悸\n- [[oro]] — 焦虑、不安\n- [[energidryck]] — 能量饮料（与健康风险相关）\n- [[koffein]] — 咖啡因\n- [[hälsa]] — 健康（名词义，已有词条）\n- [[patient]] — 病人（2026-06-07，来自 [[source-2026-06-07-kropp-halsa]]）\n\n## 备注 (Notes)\n\n- 与新闻话题\"能量饮料禁售\"相关，涵盖健康风险词汇。\n- 参见 [[topic-nyheter-vecka22]]\n- 注：[[hälsa]] 词条同时存在动词义（问候）和名词义（健康），见该词条用法提示。",
+      "excerpt": "🗂️ hälsa — 健康 类型: semantic field 成员 (Members) sömn — 睡眠 hjärtklappning — 心悸 oro — 焦虑、不安 energidryck — 能量饮料（与健康风险相关） koffein — 咖啡因 hälsa — 健康（名词义，已有词条） patient — 病人（2026 06 07，来自 source 2026 06 07 kropp halsa） 备注 (Notes)",
       "links": [
         "energidryck",
         "hälsa",
         "hjärtklappning",
         "koffein",
         "oro",
+        "patient",
         "sömn",
+        "source-2026-06-07-kropp-halsa",
         "topic-nyheter-vecka22"
       ],
-      "searchText": "hälsa topic-hälsa knowledge_base/topics/topic-hälsa.md ---\ntype: topic\nname: \"hälsa\"\nkind: semantic-field\nzh: \"健康\"\nmembers: [sömn, hjärtklappning, oro, energidryck, koffein]\ncreated: \"2026-06-04\"\n---\n\n# 🗂️ hälsa — 健康\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[sömn]] — 睡眠\n- [[hjärtklappning]] — 心悸\n- [[oro]] — 焦虑、不安\n- [[energidryck]] — 能量饮料（与健康风险相关）\n- [[koffein]] — 咖啡因\n- [[hälsa]] — 健康（名词义，已有词条）\n\n## 备注 (Notes)\n\n- 与新闻话题\"能量饮料禁售\"相关，涵盖健康风险词汇。\n- 参见 [[topic-nyheter-vecka22]]\n- 注：[[hälsa]] 词条同时存在动词义（问候）和名词义（健康），见该词条用法提示。\n",
+      "searchText": "hälsa topic-hälsa knowledge_base/topics/topic-hälsa.md ---\ntype: topic\nname: \"hälsa\"\nkind: semantic-field\nzh: \"健康\"\nmembers: [sömn, hjärtklappning, oro, energidryck, koffein, patient]\ncreated: \"2026-06-04\"\n---\n\n# 🗂️ hälsa — 健康\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[sömn]] — 睡眠\n- [[hjärtklappning]] — 心悸\n- [[oro]] — 焦虑、不安\n- [[energidryck]] — 能量饮料（与健康风险相关）\n- [[koffein]] — 咖啡因\n- [[hälsa]] — 健康（名词义，已有词条）\n- [[patient]] — 病人（2026-06-07，来自 [[source-2026-06-07-kropp-halsa]]）\n\n## 备注 (Notes)\n\n- 与新闻话题\"能量饮料禁售\"相关，涵盖健康风险词汇。\n- 参见 [[topic-nyheter-vecka22]]\n- 注：[[hälsa]] 词条同时存在动词义（问候）和名词义（健康），见该词条用法提示。\n",
       "name": "hälsa",
       "zh": "健康",
       "created": "2026-06-04",
@@ -2637,6 +2678,33 @@ window.KB_DATA = {
       "name": "kollektivtrafik",
       "zh": "公共交通",
       "created": "2026-06-04",
+      "kind": "semantic-field"
+    },
+    {
+      "slug": "topic-kropp",
+      "type": "topic",
+      "title": "kropp",
+      "path": "knowledge_base/topics/topic-kropp.md",
+      "body": "# topic-kropp — 身体 / 身体部位\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 身体部位 (Body parts)\n\n- [[arm]] — 手臂\n- [[hals]] — 脖子；喉咙\n- [[ben]] — 腿；骨头\n- [[knä]] — 膝盖\n\n### 描述身体状态的形容词 (Adjectives for body states)\n\n- [[stark]] — 强壮的；强烈的\n- [[öm]] — 酸痛的；体贴的\n- [[bruten]] — 断的；骨折的\n- [[svullen]] — 肿的；肿胀的\n- [[pigg]] — 精神的；有活力的\n\n### 医疗相关 (Medical)\n\n- [[patient]] — 病人\n\n## 备注 (Notes)\n\n- 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。\n- 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "topic kropp — 身体 / 身体部位 类型: semantic field 成员 (Members) 身体部位 (Body parts) arm — 手臂 hals — 脖子；喉咙 ben — 腿；骨头 knä — 膝盖 描述身体状态的形容词 (Adjectives for body states) stark — 强壮的；强烈的 öm — 酸痛的；体贴的 bruten — 断的；骨折的 svullen — 肿的；肿胀的 pi",
+      "links": [
+        "arm",
+        "ben",
+        "bruten",
+        "hals",
+        "knä",
+        "öm",
+        "patient",
+        "pigg",
+        "source-2026-06-07-kropp-halsa",
+        "stark",
+        "svullen",
+        "topic-hälsa"
+      ],
+      "searchText": "kropp topic-kropp knowledge_base/topics/topic-kropp.md ---\ntype: topic\nname: \"kropp\"\nkind: semantic-field\nzh: \"身体；身体部位\"\nmembers: [arm, hals, ben, knä, stark, öm, bruten, svullen, pigg, patient]\ncreated: \"2026-06-07\"\n---\n\n# topic-kropp — 身体 / 身体部位\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 身体部位 (Body parts)\n\n- [[arm]] — 手臂\n- [[hals]] — 脖子；喉咙\n- [[ben]] — 腿；骨头\n- [[knä]] — 膝盖\n\n### 描述身体状态的形容词 (Adjectives for body states)\n\n- [[stark]] — 强壮的；强烈的\n- [[öm]] — 酸痛的；体贴的\n- [[bruten]] — 断的；骨折的\n- [[svullen]] — 肿的；肿胀的\n- [[pigg]] — 精神的；有活力的\n\n### 医疗相关 (Medical)\n\n- [[patient]] — 病人\n\n## 备注 (Notes)\n\n- 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。\n- 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "name": "kropp",
+      "zh": "身体；身体部位",
+      "created": "2026-06-07",
       "kind": "semantic-field"
     },
     {
@@ -2936,6 +3004,30 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "arm",
+      "type": "word",
+      "title": "arm",
+      "path": "knowledge_base/words/arm.md",
+      "body": "# arm — substantiv (en-ord)\n\n📖 中文：手臂 · English: arm\n发音提示：/arm/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| singular obestämd | en arm |\n| singular bestämd | armen |\n| plural obestämd | armar |\n| plural bestämd | armarna |\n\n## 词组搭配 (Collocations)\n\n- `bryta armen` — 摔断手臂\n- `sträcka ut armen` — 伸出手臂\n- `ta någon under armen` — 挽着某人的手臂\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord, regelbunden böjning med ändelse -ar i plural.\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "arm — substantiv (en ord) 📖 中文：手臂 · English: arm 发音提示：/arm/ 语法变形 (Forms) form böjning singular obestämd en arm singular bestämd armen plural obestämd armar plural bestämd armarna 词组搭配 (Collocations) bryta armen — 摔断手臂 s",
+      "links": [
+        "source-2026-06-07-kropp-halsa",
+        "topic-kropp"
+      ],
+      "searchText": "arm arm knowledge_base/words/arm.md ---\ntype: word\nlemma: \"arm\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"手臂\"\nen: \"arm\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# arm — substantiv (en-ord)\n\n📖 中文：手臂 · English: arm\n发音提示：/arm/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| singular obestämd | en arm |\n| singular bestämd | armen |\n| plural obestämd | armar |\n| plural bestämd | armarna |\n\n## 词组搭配 (Collocations)\n\n- `bryta armen` — 摔断手臂\n- `sträcka ut armen` — 伸出手臂\n- `ta någon under armen` — 挽着某人的手臂\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord, regelbunden böjning med ändelse -ar i plural.\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "lemma": "arm",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "手臂",
+      "en": "arm",
+      "created": "2026-06-07",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp"
+      ]
+    },
+    {
       "slug": "bada",
       "type": "word",
       "title": "bada",
@@ -3007,6 +3099,31 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [
         "topic-familj-och-barn"
+      ]
+    },
+    {
+      "slug": "ben",
+      "type": "word",
+      "title": "ben",
+      "path": "knowledge_base/words/ben.md",
+      "body": "# ben — substantiv (ett-ord)\n\n📖 中文：腿；骨头 · English: leg; bone\n发音提示：/beːn/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| singular obestämd | ett ben |\n| singular bestämd | benet |\n| plural obestämd | ben |\n| plural bestämd | benen |\n\n⚠️ **Plural obestämd = singular obestämd**: \"ben\" — kontexten avgör om det är singular eller plural.\n\n## 词组搭配 (Collocations)\n\n- `bryta benet` — 摔断腿\n- `ett brutet ben` — 骨折的腿/骨头\n- `sträcka på benen` — 伸展腿脚（活动一下）\n- `på benen` — 站着；活跃着\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: benbrott (骨折), benmärg (骨髓)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- 双重含义：既指\"腿\"（整条腿），也指\"骨头\"（骨骼）。上下文决定。\n- Neutrum (ett-ord): plural obestämd saknar ändelse — \"ben\" = singular och plural.\n- 常与 [[bruten]] 搭配: \"ett brutet ben\".\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "ben — substantiv (ett ord) 📖 中文：腿；骨头 · English: leg; bone 发音提示：/beːn/ 语法变形 (Forms) form böjning singular obestämd ett ben singular bestämd benet plural obestämd ben plural bestämd benen ⚠️ Plural obestämd = singular obe",
+      "links": [
+        "bruten",
+        "source-2026-06-07-kropp-halsa",
+        "topic-kropp"
+      ],
+      "searchText": "ben ben knowledge_base/words/ben.md ---\ntype: word\nlemma: \"ben\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A1\"\nzh: \"腿；骨头\"\nen: \"leg; bone\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ben — substantiv (ett-ord)\n\n📖 中文：腿；骨头 · English: leg; bone\n发音提示：/beːn/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| singular obestämd | ett ben |\n| singular bestämd | benet |\n| plural obestämd | ben |\n| plural bestämd | benen |\n\n⚠️ **Plural obestämd = singular obestämd**: \"ben\" — kontexten avgör om det är singular eller plural.\n\n## 词组搭配 (Collocations)\n\n- `bryta benet` — 摔断腿\n- `ett brutet ben` — 骨折的腿/骨头\n- `sträcka på benen` — 伸展腿脚（活动一下）\n- `på benen` — 站着；活跃着\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: benbrott (骨折), benmärg (骨髓)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- 双重含义：既指\"腿\"（整条腿），也指\"骨头\"（骨骼）。上下文决定。\n- Neutrum (ett-ord): plural obestämd saknar ändelse — \"ben\" = singular och plural.\n- 常与 [[bruten]] 搭配: \"ett brutet ben\".\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "lemma": "ben",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "腿；骨头",
+      "en": "leg; bone",
+      "created": "2026-06-07",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp"
       ]
     },
     {
@@ -3218,6 +3335,31 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [
         "topic-yrken"
+      ]
+    },
+    {
+      "slug": "bruten",
+      "type": "word",
+      "title": "bruten",
+      "path": "knowledge_base/words/bruten.md",
+      "body": "# bruten — adjektiv (perfekt particip av bryta)\n\n📖 中文：断的；骨折的 · English: broken\n发音提示：/ˈbruːtən/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | bruten |\n| neutrum obestämd | brutet |\n| bestämd/plural | brutna |\n\n## 词组搭配 (Collocations)\n\n- `ett brutet ben` — 一根断骨/骨折的腿\n- `en bruten arm` — 断臂\n- `bruten svenska` — 带口音的瑞典语（字面：碎裂的瑞典语）\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bryta]] (rotverb, starka verb grupp 4: bryta–bröt–brutit)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Perfekt particip av det starka verbet [[bryta]] (oregelbundet: bryta / bröt / brutit).\n- Används adjektiviskt: \"ett brutet ben\" (骨折的腿).\n- Obs: \"bruten svenska\" är ett idiomatiskt uttryck för broken/accented Swedish.\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "bruten — adjektiv (perfekt particip av bryta) 📖 中文：断的；骨折的 · English: broken 发音提示：/ˈbruːtən/ 语法变形 (Forms) form böjning utrum obestämd bruten neutrum obestämd brutet bestämd/plural brutna 词组搭配 (Collocations) ett brutet be",
+      "links": [
+        "bryta",
+        "source-2026-06-07-kropp-halsa",
+        "topic-kropp"
+      ],
+      "searchText": "bruten bruten knowledge_base/words/bruten.md ---\ntype: word\nlemma: \"bruten\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"断的；骨折的\"\nen: \"broken\"\nsynonyms: []\nantonyms: []\nfamily: [bryta]\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bruten — adjektiv (perfekt particip av bryta)\n\n📖 中文：断的；骨折的 · English: broken\n发音提示：/ˈbruːtən/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | bruten |\n| neutrum obestämd | brutet |\n| bestämd/plural | brutna |\n\n## 词组搭配 (Collocations)\n\n- `ett brutet ben` — 一根断骨/骨折的腿\n- `en bruten arm` — 断臂\n- `bruten svenska` — 带口音的瑞典语（字面：碎裂的瑞典语）\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bryta]] (rotverb, starka verb grupp 4: bryta–bröt–brutit)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Perfekt particip av det starka verbet [[bryta]] (oregelbundet: bryta / bröt / brutit).\n- Används adjektiviskt: \"ett brutet ben\" (骨折的腿).\n- Obs: \"bruten svenska\" är ett idiomatiskt uttryck för broken/accented Swedish.\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "lemma": "bruten",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "断的；骨折的",
+      "en": "broken",
+      "created": "2026-06-07",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp"
       ]
     },
     {
@@ -3919,6 +4061,31 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "hals",
+      "type": "word",
+      "title": "hals",
+      "path": "knowledge_base/words/hals.md",
+      "body": "# hals — substantiv (en-ord)\n\n📖 中文：脖子；喉咙 · English: neck; throat\n发音提示：/hals/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| singular obestämd | en hals |\n| singular bestämd | halsen |\n| plural obestämd | halsar |\n| plural bestämd | halsarna |\n\n## 词组搭配 (Collocations)\n\n- `ont i halsen` — 喉咙痛\n- `öm i halsen` — 喉咙酸痛\n- `halsbränna` — 胃灼热（字面：脖子燃烧）\n- `halsband` — 项链\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: halsband, halsduk, halsbränna\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- 既指脖子(外部)也指喉咙(内部通道)，上下文决定具体含义。\n- 搭配 [[öm]]: \"öm i halsen\" 常见于描述喉咙不适。\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "hals — substantiv (en ord) 📖 中文：脖子；喉咙 · English: neck; throat 发音提示：/hals/ 语法变形 (Forms) form böjning singular obestämd en hals singular bestämd halsen plural obestämd halsar plural bestämd halsarna 词组搭配 (Collocations) on",
+      "links": [
+        "öm",
+        "source-2026-06-07-kropp-halsa",
+        "topic-kropp"
+      ],
+      "searchText": "hals hals knowledge_base/words/hals.md ---\ntype: word\nlemma: \"hals\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"脖子；喉咙\"\nen: \"neck; throat\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hals — substantiv (en-ord)\n\n📖 中文：脖子；喉咙 · English: neck; throat\n发音提示：/hals/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| singular obestämd | en hals |\n| singular bestämd | halsen |\n| plural obestämd | halsar |\n| plural bestämd | halsarna |\n\n## 词组搭配 (Collocations)\n\n- `ont i halsen` — 喉咙痛\n- `öm i halsen` — 喉咙酸痛\n- `halsbränna` — 胃灼热（字面：脖子燃烧）\n- `halsband` — 项链\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: halsband, halsduk, halsbränna\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- 既指脖子(外部)也指喉咙(内部通道)，上下文决定具体含义。\n- 搭配 [[öm]]: \"öm i halsen\" 常见于描述喉咙不适。\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "lemma": "hals",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "脖子；喉咙",
+      "en": "neck; throat",
+      "created": "2026-06-07",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp"
+      ]
+    },
+    {
       "slug": "hälsa",
       "type": "word",
       "title": "hälsa",
@@ -4362,6 +4529,31 @@ window.KB_DATA = {
       "known": false,
       "sentences": [],
       "topics": []
+    },
+    {
+      "slug": "knä",
+      "type": "word",
+      "title": "knä",
+      "path": "knowledge_base/words/knä.md",
+      "body": "# knä — substantiv (ett-ord)\n\n📖 中文：膝盖 · English: knee\n发音提示：/kneː/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| singular obestämd | ett knä |\n| singular bestämd | knäet |\n| plural obestämd | knän |\n| plural bestämd | knäna |\n\n## 词组搭配 (Collocations)\n\n- `svullet knä` — 肿胀的膝盖\n- `ont i knäet` — 膝盖痛\n- `på knä` — 跪着；跪下\n- `sätta sig på knä` — 跪下\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: knäböja (屈膝，深蹲), knäskål (膝盖骨)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Neutrum (ett-ord). Plural obestämd: knän (加-n).\n- 常与 [[svullen]] 搭配: \"ett svullet knä\".\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "knä — substantiv (ett ord) 📖 中文：膝盖 · English: knee 发音提示：/kneː/ 语法变形 (Forms) form böjning singular obestämd ett knä singular bestämd knäet plural obestämd knän plural bestämd knäna 词组搭配 (Collocations) svullet knä — 肿胀的膝盖",
+      "links": [
+        "source-2026-06-07-kropp-halsa",
+        "svullen",
+        "topic-kropp"
+      ],
+      "searchText": "knä knä knowledge_base/words/knä.md ---\ntype: word\nlemma: \"knä\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"膝盖\"\nen: \"knee\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# knä — substantiv (ett-ord)\n\n📖 中文：膝盖 · English: knee\n发音提示：/kneː/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| singular obestämd | ett knä |\n| singular bestämd | knäet |\n| plural obestämd | knän |\n| plural bestämd | knäna |\n\n## 词组搭配 (Collocations)\n\n- `svullet knä` — 肿胀的膝盖\n- `ont i knäet` — 膝盖痛\n- `på knä` — 跪着；跪下\n- `sätta sig på knä` — 跪下\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: knäböja (屈膝，深蹲), knäskål (膝盖骨)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Neutrum (ett-ord). Plural obestämd: knän (加-n).\n- 常与 [[svullen]] 搭配: \"ett svullet knä\".\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "lemma": "knä",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "膝盖",
+      "en": "knee",
+      "created": "2026-06-07",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp"
+      ]
     },
     {
       "slug": "koffein",
@@ -5053,6 +5245,30 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "öm",
+      "type": "word",
+      "title": "öm",
+      "path": "knowledge_base/words/öm.md",
+      "body": "# öm — adjektiv\n\n📖 中文：酸痛的；体贴的 · English: sore; tender\n发音提示：/øːm/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | öm |\n| neutrum obestämd | ömt |\n| bestämd/plural | ömma |\n| komparativ | ömmre (sällsynt) |\n| superlativ | ömmast |\n\n⚠️ **Dubbelteckning**: bestämd och plural form tar -mma (ömma) — dubbelkonsonant!\n\n## 词组搭配 (Collocations)\n\n- `öm i halsen` — 喉咙痛\n- `öm i benet` — 腿酸痛\n- `öm omsorg` — 体贴的关怀\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Har två grundbetydelser: (1) fysisk smärta/ömhet (酸痛); (2) emotionell omsorg/ömhet (体贴).\n- Dubbelteckning i böjd form: ömma (inte \"öma\").\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "öm — adjektiv 📖 中文：酸痛的；体贴的 · English: sore; tender 发音提示：/øːm/ 语法变形 (Forms) form böjning utrum obestämd öm neutrum obestämd ömt bestämd/plural ömma komparativ ömmre (sällsynt) superlativ ömmast ⚠️ Dubbelteckning : bestäm",
+      "links": [
+        "source-2026-06-07-kropp-halsa",
+        "topic-kropp"
+      ],
+      "searchText": "öm öm knowledge_base/words/öm.md ---\ntype: word\nlemma: \"öm\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"酸痛的；体贴的\"\nen: \"sore; tender\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# öm — adjektiv\n\n📖 中文：酸痛的；体贴的 · English: sore; tender\n发音提示：/øːm/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | öm |\n| neutrum obestämd | ömt |\n| bestämd/plural | ömma |\n| komparativ | ömmre (sällsynt) |\n| superlativ | ömmast |\n\n⚠️ **Dubbelteckning**: bestämd och plural form tar -mma (ömma) — dubbelkonsonant!\n\n## 词组搭配 (Collocations)\n\n- `öm i halsen` — 喉咙痛\n- `öm i benet` — 腿酸痛\n- `öm omsorg` — 体贴的关怀\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Har två grundbetydelser: (1) fysisk smärta/ömhet (酸痛); (2) emotionell omsorg/ömhet (体贴).\n- Dubbelteckning i böjd form: ömma (inte \"öma\").\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "lemma": "öm",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "酸痛的；体贴的",
+      "en": "sore; tender",
+      "created": "2026-06-07",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp"
+      ]
+    },
+    {
       "slug": "orättvisa",
       "type": "word",
       "title": "orättvisa",
@@ -5222,6 +5438,57 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [
         "topic-nyheter-vecka22"
+      ]
+    },
+    {
+      "slug": "patient",
+      "type": "word",
+      "title": "patient",
+      "path": "knowledge_base/words/patient.md",
+      "body": "# patient — substantiv (en-ord)\n\n📖 中文：病人 · English: patient\n发音提示：/paˈɧɛnt/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| singular obestämd | en patient |\n| singular bestämd | patienten |\n| plural obestämd | patienter |\n| plural bestämd | patienterna |\n\n## 词组搭配 (Collocations)\n\n- `en patient på sjukhuset` — 医院里的病人\n- `ta hand om patienter` — 照顾病人\n- `patientens rättigheter` — 病人权利\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: patientjournal (病历), patientansvarig (主治医师)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]] · [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord. Plural: patienter (ändelse -er, inte -ar).\n- Lånord från latin patiēns (den som lider/väntar).\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "patient — substantiv (en ord) 📖 中文：病人 · English: patient 发音提示：/paˈɧɛnt/ 语法变形 (Forms) form böjning singular obestämd en patient singular bestämd patienten plural obestämd patienter plural bestämd patienterna 词组搭配 (Colloc",
+      "links": [
+        "source-2026-06-07-kropp-halsa",
+        "topic-hälsa",
+        "topic-kropp"
+      ],
+      "searchText": "patient patient knowledge_base/words/patient.md ---\ntype: word\nlemma: \"patient\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"病人\"\nen: \"patient\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kropp, topic-hälsa]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# patient — substantiv (en-ord)\n\n📖 中文：病人 · English: patient\n发音提示：/paˈɧɛnt/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| singular obestämd | en patient |\n| singular bestämd | patienten |\n| plural obestämd | patienter |\n| plural bestämd | patienterna |\n\n## 词组搭配 (Collocations)\n\n- `en patient på sjukhuset` — 医院里的病人\n- `ta hand om patienter` — 照顾病人\n- `patientens rättigheter` — 病人权利\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: patientjournal (病历), patientansvarig (主治医师)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]] · [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord. Plural: patienter (ändelse -er, inte -ar).\n- Lånord från latin patiēns (den som lider/väntar).\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "lemma": "patient",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "病人",
+      "en": "patient",
+      "created": "2026-06-07",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp",
+        "topic-hälsa"
+      ]
+    },
+    {
+      "slug": "pigg",
+      "type": "word",
+      "title": "pigg",
+      "path": "knowledge_base/words/pigg.md",
+      "body": "# pigg — adjektiv\n\n📖 中文：精神的；有活力的 · English: alert; lively; perky\n发音提示：/pɪɡː/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | pigg |\n| neutrum obestämd | piggt |\n| bestämd/plural | pigga |\n\n## 词组搭配 (Collocations)\n\n- `känna sig pigg` — 感觉精神\n- `vara pigg och glad` — 精力充沛\n- `inte alls pigg` — 一点都不精神\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: [[trött]] (累的；疲倦的) — stub, ej skapat ännu\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Adjektivets neutrum: piggt (dubbel-g kvarhålls).\n- Vanlig i vardagsspråk för att beskriva hur man mår/känner sig.\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "pigg — adjektiv 📖 中文：精神的；有活力的 · English: alert; lively; perky 发音提示：/pɪɡː/ 语法变形 (Forms) form böjning utrum obestämd pigg neutrum obestämd piggt bestämd/plural pigga 词组搭配 (Collocations) känna sig pigg — 感觉精神 vara pigg och",
+      "links": [
+        "source-2026-06-07-kropp-halsa",
+        "topic-kropp",
+        "trött"
+      ],
+      "searchText": "pigg pigg knowledge_base/words/pigg.md ---\ntype: word\nlemma: \"pigg\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"精神的；有活力的\"\nen: \"alert; lively; perky\"\nsynonyms: []\nantonyms: [trött]\nfamily: []\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# pigg — adjektiv\n\n📖 中文：精神的；有活力的 · English: alert; lively; perky\n发音提示：/pɪɡː/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | pigg |\n| neutrum obestämd | piggt |\n| bestämd/plural | pigga |\n\n## 词组搭配 (Collocations)\n\n- `känna sig pigg` — 感觉精神\n- `vara pigg och glad` — 精力充沛\n- `inte alls pigg` — 一点都不精神\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: [[trött]] (累的；疲倦的) — stub, ej skapat ännu\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Adjektivets neutrum: piggt (dubbel-g kvarhålls).\n- Vanlig i vardagsspråk för att beskriva hur man mår/känner sig.\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "lemma": "pigg",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "精神的；有活力的",
+      "en": "alert; lively; perky",
+      "created": "2026-06-07",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp"
       ]
     },
     {
@@ -5944,6 +6211,30 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "stark",
+      "type": "word",
+      "title": "stark",
+      "path": "knowledge_base/words/stark.md",
+      "body": "# stark — adjektiv\n\n📖 中文：强壮的；强烈的 · English: strong\n发音提示：/stark/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | stark |\n| neutrum obestämd | starkt |\n| bestämd/plural | starka |\n| komparativ | starkare |\n| superlativ | starkast |\n\n## 词组搭配 (Collocations)\n\n- `stark kaffe` — 浓咖啡\n- `stark smärta` — 剧烈的疼痛\n- `en stark person` — 一个强壮的人\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Adjektivets neutrum tar -t: ett starkt hjärta (一颗强壮的心).\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "stark — adjektiv 📖 中文：强壮的；强烈的 · English: strong 发音提示：/stark/ 语法变形 (Forms) form böjning utrum obestämd stark neutrum obestämd starkt bestämd/plural starka komparativ starkare superlativ starkast 词组搭配 (Collocations) stark",
+      "links": [
+        "source-2026-06-07-kropp-halsa",
+        "topic-kropp"
+      ],
+      "searchText": "stark stark knowledge_base/words/stark.md ---\ntype: word\nlemma: \"stark\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"强壮的；强烈的\"\nen: \"strong\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stark — adjektiv\n\n📖 中文：强壮的；强烈的 · English: strong\n发音提示：/stark/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | stark |\n| neutrum obestämd | starkt |\n| bestämd/plural | starka |\n| komparativ | starkare |\n| superlativ | starkast |\n\n## 词组搭配 (Collocations)\n\n- `stark kaffe` — 浓咖啡\n- `stark smärta` — 剧烈的疼痛\n- `en stark person` — 一个强壮的人\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Adjektivets neutrum tar -t: ett starkt hjärta (一颗强壮的心).\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "lemma": "stark",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "强壮的；强烈的",
+      "en": "strong",
+      "created": "2026-06-07",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp"
+      ]
+    },
+    {
       "slug": "studentmössa",
       "type": "word",
       "title": "studentmössa",
@@ -6005,6 +6296,31 @@ window.KB_DATA = {
       "topics": [
         "topic-nyheter-vecka22",
         "topic-skola-och-utbildning"
+      ]
+    },
+    {
+      "slug": "svullen",
+      "type": "word",
+      "title": "svullen",
+      "path": "knowledge_base/words/svullen.md",
+      "body": "# svullen — adjektiv\n\n📖 中文：肿的；肿胀的 · English: swollen\n发音提示：/ˈsvɵlːɛn/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | svullen |\n| neutrum obestämd | svullet |\n| bestämd/plural | svullna |\n\n## 词组搭配 (Collocations)\n\n- `svullen fot` — 肿脚\n- `svullet knä` — 肿胀的膝盖\n- `svullna ögon` — 肿眼睛\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[svälla]] (att svälla, svällde, svällt — 肿胀；膨胀)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Perfekt particip av det starka verbet [[svälla]] (svälla / svällde / svällt).\n- Används adjektiviskt för att beskriva svullnad/inflammation.\n- 常与身体部位搭配描述受伤或炎症状态。\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "excerpt": "svullen — adjektiv 📖 中文：肿的；肿胀的 · English: swollen 发音提示：/ˈsvɵlːɛn/ 语法变形 (Forms) form böjning utrum obestämd svullen neutrum obestämd svullet bestämd/plural svullna 词组搭配 (Collocations) svullen fot — 肿脚 svullet knä — 肿胀的膝盖",
+      "links": [
+        "source-2026-06-07-kropp-halsa",
+        "svälla",
+        "topic-kropp"
+      ],
+      "searchText": "svullen svullen knowledge_base/words/svullen.md ---\ntype: word\nlemma: \"svullen\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"肿的；肿胀的\"\nen: \"swollen\"\nsynonyms: []\nantonyms: []\nfamily: [svälla]\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# svullen — adjektiv\n\n📖 中文：肿的；肿胀的 · English: swollen\n发音提示：/ˈsvɵlːɛn/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | svullen |\n| neutrum obestämd | svullet |\n| bestämd/plural | svullna |\n\n## 词组搭配 (Collocations)\n\n- `svullen fot` — 肿脚\n- `svullet knä` — 肿胀的膝盖\n- `svullna ögon` — 肿眼睛\n\n## 例句 (Sentences)\n\n<!-- inga ännu -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[svälla]] (att svälla, svällde, svällt — 肿胀；膨胀)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Perfekt particip av det starka verbet [[svälla]] (svälla / svällde / svällt).\n- Används adjektiviskt för att beskriva svullnad/inflammation.\n- 常与身体部位搭配描述受伤或炎症状态。\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "lemma": "svullen",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "肿的；肿胀的",
+      "en": "swollen",
+      "created": "2026-06-07",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp"
       ]
     },
     {
