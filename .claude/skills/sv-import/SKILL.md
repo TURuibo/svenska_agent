@@ -48,6 +48,10 @@ matches found.
 
 ## 2. 解析规则 (Parsing the block)
 
+**⚠️ 只处理 fenced block 内部内容。** inbox 文件中 `svensk-export` 围栏之外的所有文本（复习表、
+教学注释、标题、人读材料等）一律忽略。不得从围栏外部提取词/句/语法传给 librarian。如果围栏块内
+无 `sentences:` 段，则 sentences=0，即使文件其他部分出现了完整瑞典语句子也不导入。
+
 Split the block body into:
 - Header lines: `date:` and `source:` (single values, optional).
 - Section markers: `words:`, `phrases:`, `sentences:`, `grammar:`.
