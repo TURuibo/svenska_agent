@@ -3,7 +3,7 @@ type: topic
 name: "hälsa"
 kind: semantic-field
 zh: "健康"
-members: [sömn, hjärtklappning, oro, energidryck, koffein, patient]
+members: [sömn, hjärtklappning, oro, energidryck, koffein]
 created: "2026-06-04"
 ---
 
@@ -19,7 +19,6 @@ created: "2026-06-04"
 - [[energidryck]] — 能量饮料（与健康风险相关）
 - [[koffein]] — 咖啡因
 - [[hälsa]] — 健康（名词义，已有词条）
-- [[patient]] — 病人（参见 [[topic-kropp]]）
 
 ## 备注 (Notes)
 

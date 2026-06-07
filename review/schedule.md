@@ -177,22 +177,6 @@
 | [[grammar-ska-infinitiv]] | grammar | — | 0 | 2.5 | 立即 | no |
 | [[grammar-passiv-med-s]] | grammar | — | 0 | 2.5 | 立即 | no |
 | [[grammar-preteritum]] | grammar | — | 0 | 2.5 | 立即 | no |
-| **— Adj+subst böjning: Kropp & Hälsa (2026-06-07) — 10词 / 0词组 / 5句 / 0语法 —** | | | | | | |
-| [[stark]] | word | — | 0 | 2.5 | 立即 | no |
-| [[arm]] | word | — | 0 | 2.5 | 立即 | no |
-| [[öm]] | word | — | 0 | 2.5 | 立即 | no |
-| [[hals]] | word | — | 0 | 2.5 | 立即 | no |
-| [[bruten]] | word | — | 0 | 2.5 | 立即 | no |
-| [[ben]] | word | — | 0 | 2.5 | 立即 | no |
-| [[svullen]] | word | — | 0 | 2.5 | 立即 | no |
-| [[knä]] | word | — | 0 | 2.5 | 立即 | no |
-| [[pigg]] | word | — | 0 | 2.5 | 立即 | no |
-| [[patient]] | word | — | 0 | 2.5 | 立即 | no |
-| [[sent-en-stark-arm]] | sentence | — | 0 | 2.5 | 立即 | no |
-| [[sent-en-om-hals]] | sentence | — | 0 | 2.5 | 立即 | no |
-| [[sent-ett-brutet-ben]] | sentence | — | 0 | 2.5 | 立即 | no |
-| [[sent-ett-svullet-kna]] | sentence | — | 0 | 2.5 | 立即 | no |
-| [[sent-en-pigg-patient]] | sentence | — | 0 | 2.5 | 立即 | no |
 
 ## 说明
 
