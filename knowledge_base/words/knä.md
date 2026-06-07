@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- inga ännu -->
+- 🇸🇪 Jag har ont i knäet efter matchen. — 🇨🇳 比赛后我膝盖很痛。
+- 🇸🇪 Knäet är svullet — du bör vila. — 🇨🇳 膝盖肿了，你应该休息。
+- 🇸🇪 Barnet satt på mammas knä och läste en bok. — 🇨🇳 孩子坐在妈妈膝盖上读书。
 
 ## 词族 / 同义 / 反义 (Relations)
 

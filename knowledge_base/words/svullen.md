@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- inga ännu -->
+- 🇸🇪 Foten är svullen efter att jag stukade den. — 🇨🇳 扭伤后脚肿了。
+- 🇸🇪 Knäet är svullet och gör ont. — 🇨🇳 膝盖肿了而且很痛。
+- 🇸🇪 Hon hade svullna ögon efter att ha gråtit. — 🇨🇳 哭过之后她眼睛肿了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

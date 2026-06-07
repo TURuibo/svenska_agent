@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- inga ännu -->
+- 🇸🇪 Jag har ont i armen efter träningen. — 🇨🇳 训练后我手臂很痛。
+- 🇸🇪 Han bröt armen när han föll. — 🇨🇳 他跌倒时摔断了手臂。
+- 🇸🇪 Hon sträckte ut armen för att ta boken. — 🇨🇳 她伸出手臂去拿书。
 
 ## 词族 / 同义 / 反义 (Relations)
 

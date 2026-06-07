@@ -20,11 +20,19 @@ For each item:
    (enrich only if genuinely new info is missing).
 2. **Create** from the matching `_templates/` file, filling frontmatter completely. `created:` = the
    date given to you (absolute).
-3. **Link bidirectionally** (SKILL §4): wire sentence↔word, sentence↔grammar, sentence↔phrase,
+3. **Generate example sentences for words**: For every word note, write **3 short example sentences**
+   directly in the `## 例句 (Sentences)` section. These are inline examples (NOT separate sentence note
+   files). Format each as:
+   ```
+   - 🇸🇪 <Swedish sentence using the word> — 🇨🇳 <Chinese translation>
+   ```
+   Sentences should be A1–A2 level, natural, and demonstrate typical usage/collocations of the word.
+   If the word has multiple senses, cover different senses across the 3 examples.
+4. **Link bidirectionally** (SKILL §4): wire sentence↔word, sentence↔grammar, sentence↔phrase,
    word↔synonym/antonym/family, and note↔topic. Update the OTHER note's frontmatter + body too.
-4. **Topics**: when ≥3 items share a semantic field or a synonym set, create/update a `topic-*` note and
+5. **Topics**: when ≥3 items share a semantic field or a synonym set, create/update a `topic-*` note and
    link all members.
-5. Update the `source-*` note's frontmatter lists to point at everything you created.
+6. Update the `source-*` note's frontmatter lists to point at everything you created.
 
 ## Rules
 

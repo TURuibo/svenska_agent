@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- inga ännu -->
+- 🇸🇪 Han har ett brutet ben och kan inte gå. — 🇨🇳 他腿骨折了，不能走路。
+- 🇸🇪 Doktorn säger att armen är bruten. — 🇨🇳 医生说手臂骨折了。
+- 🇸🇪 Han talar bruten svenska men förstår bra. — 🇨🇳 他说话有口音，但理解能力很好。
 
 ## 词族 / 同义 / 反义 (Relations)
 

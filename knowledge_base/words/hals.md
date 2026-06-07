@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- inga ännu -->
+- 🇸🇪 Jag har ont i halsen och vill se en läkare. — 🇨🇳 我喉咙痛，想去看医生。
+- 🇸🇪 Hon bar ett vackert halsband runt halsen. — 🇨🇳 她脖子上戴着一条漂亮的项链。
+- 🇸🇪 Halsen är röd och lite svullen. — 🇨🇳 喉咙发红，有点肿。
 
 ## 词族 / 同义 / 反义 (Relations)
 

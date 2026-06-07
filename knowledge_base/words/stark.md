@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- inga ännu -->
+- 🇸🇪 Han är stark och kan bära tunga saker. — 🇨🇳 他很强壮，能搬重东西。
+- 🇸🇪 Kaffet är för starkt för mig. — 🇨🇳 这咖啡对我来说太浓了。
+- 🇸🇪 Hon har en stark vilja att bli frisk. — 🇨🇳 她有很强的意愿恢复健康。
 
 ## 词族 / 同义 / 反义 (Relations)
 

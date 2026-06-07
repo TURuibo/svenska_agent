@@ -45,7 +45,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- inga ännu -->
+- 🇸🇪 Jag bröt benet när jag åkte skidor. — 🇨🇳 我滑雪时摔断了腿。
+- 🇸🇪 Hunden gömde benet under soffan. — 🇨🇳 狗把骨头藏在沙发下面。
+- 🇸🇪 Sträck på benen lite — vi har suttit länge. — 🇨🇳 活动一下腿吧，我们已经坐很久了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

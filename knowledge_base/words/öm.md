@@ -45,7 +45,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- inga ännu -->
+- 🇸🇪 Jag är öm i halsen och kan knappt svälja. — 🇨🇳 我喉咙很痛，几乎咽不下去。
+- 🇸🇪 Benet är ömt efter löpningen igår. — 🇨🇳 昨天跑步后腿还是酸的。
+- 🇸🇪 Han är en öm och omtänksam pappa. — 🇨🇳 他是一个体贴温柔的爸爸。
 
 ## 词族 / 同义 / 反义 (Relations)
 

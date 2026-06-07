@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- inga ännu -->
+- 🇸🇪 Jag känner mig pigg efter en god natts sömn. — 🇨🇳 睡了一晚好觉后我感觉很精神。
+- 🇸🇪 Är du pigg nog för en promenad? — 🇨🇳 你有精力出去散步吗？
+- 🇸🇪 Barnen är alltid pigga på morgonen. — 🇨🇳 孩子们早上总是精力充沛。
 
 ## 词族 / 同义 / 反义 (Relations)
 

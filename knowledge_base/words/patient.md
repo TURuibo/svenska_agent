@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- inga ännu -->
+- 🇸🇪 Patienten väntar på läkaren i rummet. — 🇨🇳 病人在房间里等医生。
+- 🇸🇪 Det finns många patienter på sjukhuset idag. — 🇨🇳 今天医院里有很多病人。
+- 🇸🇪 Sjuksköterskan tar hand om patienten med omsorg. — 🇨🇳 护士细心地照顾着病人。
 
 ## 词族 / 同义 / 反义 (Relations)
 
