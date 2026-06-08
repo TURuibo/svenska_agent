@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-07 19:21:37",
+  "generatedAt": "2026-06-08 04:51:29",
   "notes": [
     {
       "slug": "grammar-att-sats",
