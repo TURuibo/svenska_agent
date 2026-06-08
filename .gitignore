@@ -1,5 +1,6 @@
 # local logs / scratch
 review/.kb-changelog.log
+scripts/*.log
 inbox/*
 !inbox/README.md
 
