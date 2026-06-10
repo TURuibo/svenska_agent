@@ -5,7 +5,7 @@ zh: sin/sitt/sina — 反身所有格
 en: Reflexive possessive pronouns sin/sitt/sina
 level: SFI C / CEFR A2
 related: [grammar-att-sats]
-examples: [sent-eftersom-astrid-var-ensam-kunde-hon]
+examples: [sent-eftersom-astrid-var-ensam-kunde-hon, sent-fick-fotbollsskor-trots-mamma, sent-zlatan-mycket-bra-karriar-mal]
 known: false
 created: "2026-06-02"
 reviewed: ""
@@ -57,6 +57,8 @@ interval: 0
 ## 例句 (Examples)
 
 - ✅ [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 Astrid längtade efter **sin** son. 🇨🇳 阿斯特丽德思念**她自己的**儿子。（sin = en-ord，反身）
+- ✅ [[sent-fick-fotbollsskor-trots-mamma]] 🇸🇈 Då fick han **sina** första fotbollsskor. 🇨🇳 那时他得到了**自己的**第一双足球鞋。（sina = plural reflexiv）
+- ✅ [[sent-zlatan-mycket-bra-karriar-mal]] 🇸🇈 Zlatan har gjort mål för **sina** klubblag. 🇨🇳 兹拉坦为**自己的**俱乐部球队进了很多球。（sina = plural reflexiv）
 - ✅ 🇸🇪 Hon mindes **sina** lekar från **sin** barndom. 🇨🇳 她记得**自己的**游戏来自**自己的**童年。（sina = 复数反身；sin = en-ord 反身）
 - ✅ 🇸🇪 Astrids föräldrar visade att de älskade **sina** barn. 🇨🇳 她父母表示他们爱**自己的**孩子。
 - ❌ *Astrid längtade efter **hennes** son.* ← 如果 Astrid 是主语，必须用 sin，hennes 暗示是另一个女性的儿子。

@@ -12,8 +12,13 @@ antonyms: []
 family: []
 topics:
   - topic-riktningar
+  - topic-vardagsrutin
+  - topic-kollektivtrafik
 sentences:
   - sent-ta-tunnelbanan-till-slussen
+  - sent-sedan-tog-jag-tunnelbanan-in-till-stan
+  - sent-jag-gick-tillbaka-till-tunnelbanestationen-fragade-personal
+  - sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok
 known: false
 created: "2026-06-03"
 reviewed: ""

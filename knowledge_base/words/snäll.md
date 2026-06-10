@@ -57,4 +57,4 @@ interval: 0
 ## 用法提示 (Usage Notes)
 
 - "Var snäll och..." = 请..., 是礼貌请求的常用句式.
-- 来源: [[source-2026-06-08-djur]]
+- 来源: [[source-2026-06-08-djur]], [[source-2026-06-09-zlatan-bio]]

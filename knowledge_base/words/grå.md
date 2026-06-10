@@ -10,7 +10,7 @@ en: "grey"
 synonyms: []
 antonyms: []
 family: []
-topics: []
+topics: [topic-djur]
 sentences:
   - sent-fortsatt-lite-till-gra-dorr
 known: false
@@ -50,9 +50,10 @@ interval: 0
 - 词族: [[gråhet]] (灰暗), [[gråna]] (v. 变灰白)
 - 同义词: —
 - 反义词: —
-- 主题: —
+- 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)
 
 - 三形变化：grå / grått / gråa（注意中性形 grått 双写 t）。
 - 口语中也拼作 `grå` / `gråt`（非正式）。
+- 来源: [[source-2026-06-08-djur]]

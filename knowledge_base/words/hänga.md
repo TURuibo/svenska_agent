@@ -10,9 +10,11 @@ en: "to hang"
 synonyms: []
 antonyms: []
 family: []
-topics: []
+topics: [topic-rumsliga-relationer, topic-hemmet]
 sentences:
   - sent-ja-det-hanger-en-liten-svart-skylt
+  - sent-mitt-emot-sangen-hanger-en-tavla-pa-vaggen
+  - sent-television-hanger-pa-vaggen-mitt-emot-soffan
 known: false
 created: "2026-06-03"
 reviewed: ""
@@ -46,13 +48,15 @@ interval: 0
 ## 例句 (Sentences)
 
 - [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇈 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。
+- [[sent-mitt-emot-sangen-hanger-en-tavla-pa-vaggen]] 🇸🇈 Mitt emot sängen hänger en tavla på väggen. 🇨🇳 正对着床的墙上挂着一幅画。
+- [[sent-television-hanger-pa-vaggen-mitt-emot-soffan]] 🇸🇈 Televisionen hänger på väggen mitt emot soffan. 🇨🇳 电视挂在正对沙发的那面墙上。
 
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hängare]] (衣架), [[upphängning]] (悬挂装置)
 - 同义词: [[sitta]] (在某处固定/坐), [[vara uppsatt]] (被挂着)
 - 反义词: [[ta ner]] (取下)
-- 主题: —
+- 主题: [[topic-rumsliga-relationer]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)
 

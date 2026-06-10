@@ -39,5 +39,8 @@ interval: 0
 
 ## 例句 / 对话 (Examples)
 
-- 🇸🇪 *Hon skrev **bland annat** böckerna om Emil i Lönneberga och Pippi Långstrump.*
+- 🇸🇈 *Hon skrev **bland annat** böckerna om Emil i Lönneberga och Pippi Långstrump.*
   🇨🇳 她写了包括《长袜子皮皮》和《埃米尔》在内的许多书。
+- 🇸🇈 Zlatan har spelat för **bland annat** Ajax, Inter och Barcelona.
+  🇨🇳 兹拉坦曾效力于阿贾克斯、国际米兰和巴塞罗那等球队。
+- 来源: [[source-2026-06-09-zlatan-bio]]

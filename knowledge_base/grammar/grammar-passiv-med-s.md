@@ -5,7 +5,7 @@ zh: "s-被动态"
 en: "s-passive"
 level: "SFI B / CEFR A2"
 related: [grammar-v2-ordfoljd]
-examples: [sent-gransen-kallas-fribelopp]
+examples: [sent-gransen-kallas-fribelopp, sent-han-foddes-1981-rosengard]
 known: false
 created: "2026-06-04"
 reviewed: ""
@@ -66,6 +66,7 @@ passiv: Subjekt + verb-s
 ## 例句 (Examples)
 
 - ✅ [[sent-gransen-kallas-fribelopp]] 🇸🇪 Gränsen **kallas** fribelopp. 🇨🇳 这个限制被称为免税额。
+- ✅ [[sent-han-foddes-1981-rosengard]] 🇸🇪 Han **föddes** 1981 i Rosengård i Malmö. 🇨🇳 他1981年出生在马尔默的罗森戈德区。（`föda → föddes`, grupp 2 s-passiv preteritum）
 - ✅ 🇸🇪 Energidrycker **säljs** inte till unga under 18. 🇨🇳 能量饮料不向18岁以下的年轻人出售。
 - ✅ 🇸🇪 Bidraget **betalas** ut varje månad. 🇨🇳 补贴每月发放。
 - ❌ *Gränsen är kallad fribelopp.* ← 语法可行但不自然，s-被动更地道。

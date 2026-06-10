@@ -10,8 +10,11 @@ en: "small"
 synonyms: []
 antonyms: [stor]
 family: []
-topics: [topic-djur]
-sentences: []
+topics: [topic-djur, topic-hemmet]
+sentences:
+  - sent-mitt-rum-ar-litet-men-trevligt
+  - sent-bredvid-sangen-star-ett-litet-nattduksbord
+  - sent-soffan-star-mitt-i-rummet-framfor-soffbord
 known: false
 created: "2026-06-08"
 reviewed: ""
@@ -52,7 +55,7 @@ interval: 0
 - 词族: [[litet]] (lite, litet — liten i neutrum)
 - 同义词: —
 - 反义词: [[stor]]
-- 主题: [[topic-djur]]
+- 主题: [[topic-djur]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)
 

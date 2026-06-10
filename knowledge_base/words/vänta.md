@@ -10,9 +10,11 @@ en: "to wait"
 synonyms: []
 antonyms: []
 family: []
-topics: []
+topics: [topic-trafik, topic-stadsmiljo]
 sentences:
   - sent-vi-vantar-pa-dig
+  - sent-nagra-manniskor-vantar-cyklister-stannar-trafikljuset
+  - sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort
 known: false
 created: "2026-06-03"
 reviewed: ""

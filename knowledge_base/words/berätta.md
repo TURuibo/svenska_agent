@@ -62,3 +62,4 @@ interval: 0
 
 - `berätta för ngn att/om` — 告诉某人某事：*Berätta för mig om din dag.*
 - 原文：*En dag bad Karin Astrid berätta en saga* — 有一天卡琳让阿斯特丽德讲故事。
+- 来源: [[source-2026-06-09-zlatan-bio]]

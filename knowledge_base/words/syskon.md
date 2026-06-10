@@ -57,3 +57,4 @@ interval: 0
 - `ett syskon` = 一个兄弟姐妹（**性别中立**！不区分男女）。
 - 原文：*Astrid och hennes tre syskon* — 阿斯特丽德和她的三个兄弟姐妹。
 - 与中文"兄弟姐妹"不同，瑞典语用一个词囊括所有性别。
+- 来源: [[source-2026-06-09-zlatan-bio]]

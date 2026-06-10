@@ -18,6 +18,7 @@ topics:
   - topic-riktningar
 sentences:
   - sent-sen-gar-du-rakt-fram-langs-vattnet
+  - sent-rakt-fram-ser-jag-ett-torg
 known: false
 created: "2026-06-03"
 reviewed: ""

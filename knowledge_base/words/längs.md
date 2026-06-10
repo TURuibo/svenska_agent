@@ -12,8 +12,13 @@ antonyms: []
 family: []
 topics:
   - topic-riktningar
+  - topic-rumsliga-relationer
+  - topic-stadsmiljo
 sentences:
   - sent-sen-gar-du-rakt-fram-langs-vattnet
+  - sent-sangens-star-langs-vaggen-under-sangen
+  - sent-jag-promenerar-langs-storgatan-solig-tisdag
+  - sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning
 known: false
 created: "2026-06-03"
 reviewed: ""

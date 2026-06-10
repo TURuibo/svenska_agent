@@ -10,8 +10,8 @@ en: worried, anxious
 synonyms: []
 antonyms: [lugn]
 family: [oro, oroa]
-topics: [topic-karaktarsord]
-sentences: [sent-de-var-oroliga-att-barn-som-laste-om-pippi]
+topics: [topic-karaktarsord, topic-vardagsrutin]
+sentences: [sent-de-var-oroliga-att-barn-som-laste-om-pippi, sent-plotsligt-kande-jag-mig-valdigt-orolig]
 known: false
 created: "2026-06-02"
 reviewed: ""

@@ -4,8 +4,8 @@ name: V2-ordföljd
 zh: V2 语序（动词第二位）
 en: V2 word order
 level: SFI A / CEFR A1
-related: [grammar-bisats-biff, grammar-bisats-eftersom, grammar-att-sats, grammar-konditionell-topikalisering]
-examples: [sent-jag-arbetar-pa-ett-sjukhus, sent-eftersom-astrid-var-ensam-kunde-hon, sent-de-forstod-ocksa-att-barn-behover-leka, sent-de-var-oroliga-att-barn-som-laste-om-pippi]
+related: [grammar-bisats-biff, grammar-bisats-eftersom, grammar-att-sats, grammar-konditionell-topikalisering, grammar-det-finns, grammar-prepositioner-rum]
+examples: [sent-jag-arbetar-pa-ett-sjukhus, sent-eftersom-astrid-var-ensam-kunde-hon, sent-de-forstod-ocksa-att-barn-behover-leka, sent-de-var-oroliga-att-barn-som-laste-om-pippi, sent-sangens-star-langs-vaggen-under-sangen, sent-pa-sangen-ligger-en-kudde-och-en-filt, sent-bredvid-sangen-star-ett-litet-nattduksbord, sent-till-hoger-om-soffan-star-bokhylla, sent-sedan-tog-jag-tunnelbanan-in-till-stan, sent-vid-halv-nio-kom-jag-fram-till-centralstationen, sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex, sent-plotsligt-kande-jag-mig-valdigt-orolig, sent-antligen-kunde-jag-andas-ut, sent-till-slut-var-allt-bra-igen, sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort]
 known: false
 created: 2026-06-02
 reviewed: ""
@@ -39,6 +39,10 @@ interval: 0
 - ✅ 🇸🇪 **Idag** arbetar jag hemma. 🇨🇳 今天我在家工作。（位置1=时间 → 倒装 arbetar jag）
 - ✅ [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 **Eftersom Astrid var ensam** kunde hon inte ta hand om barnet. 🇨🇳 因为...（位置1=eftersom-从句 → 倒装 kunde hon）
 - ✅ [[sent-de-forstod-ocksa-att-barn-behover-leka]] 🇸🇪 De förstod också att barn behöver leka. 🇨🇳 他们也理解...（位置1=主语 De，正常语序）
+- ✅ [[sent-sedan-tog-jag-tunnelbanan-in-till-stan]] 🇸🇈 **Sedan** **tog** jag tunnelbanan in till stan. 🇨🇳 然后我坐地铁进了城。（时间副词 Sedan → 倒装 tog jag）
+- ✅ [[sent-plotsligt-kande-jag-mig-valdigt-orolig]] 🇸🇈 **Plötsligt** **kände** jag mig väldigt orolig. 🇨🇳 我突然感到非常担心。（副词 Plötsligt → 倒装）
+- ✅ [[sent-antligen-kunde-jag-andas-ut]] 🇸🇈 **Äntligen** **kunde** jag andas ut. 🇨🇳 终于，我可以松一口气了。（副词 Äntligen → 倒装）
+- ✅ [[sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort]] 🇸🇈 **Medan jag väntade** **ringde** jag till banken. 🇨🇳 等候期间，我给银行打了电话。（时间从句前置 → 主句倒装）
 - ❌ Idag jag arbetar hemma. ← 忘记倒装，动词跑到第3位
 
 ## 常见错误 (Common Mistakes)

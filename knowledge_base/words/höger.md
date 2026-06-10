@@ -16,6 +16,8 @@ topics:
   - topic-riktningar
 sentences:
   - sent-fortsatt-lite-till-gra-dorr
+  - sent-till-hoger-om-soffan-star-bokhylla
+  - sent-till-hoger-om-mig-ligger-en-park
 known: false
 created: "2026-06-03"
 reviewed: ""

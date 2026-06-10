@@ -10,9 +10,10 @@ en: "building"
 synonyms: []
 antonyms: []
 family: []
-topics: []
+topics: [topic-stadsmiljo]
 sentences:
   - sent-du-ser-en-stor-rod-byggnad
+  - sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank
 known: false
 created: "2026-06-03"
 reviewed: ""

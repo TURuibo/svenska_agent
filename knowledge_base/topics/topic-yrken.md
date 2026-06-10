@@ -3,7 +3,7 @@ type: topic
 name: "yrken"
 kind: semantic-field
 zh: 职业（语义场）
-members: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba]
+members: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba, författare, proffs]
 created: "2026-06-02"
 ---
 
@@ -19,9 +19,12 @@ created: "2026-06-02"
 - [[barnboksförfattare]] — 儿童书作家 (children's book author)
 - [[arbeta]] — 工作（正式）(to work)
 - [[jobba]] — 工作（口语）(to work, colloquial)
+- [[författare]] — 作家 (author)
+- [[proffs]] — 职业选手；专业人士 (professional)
 
 ## 备注 (Notes)
 
 - 来自 Astrid Lindgren 传记文章，原文提及的职业。
+- 2026-06-09 新增：[[författare]], [[proffs]] — 来自 [[source-2026-06-09-zlatan-bio]]（Zlatan 职业主题）。
 - 可扩充：läkare (医生), lärare (教师), chef (老板), arbetare (工人)...
 - 与 [[topic-arbete]] 有交叉（参见该话题的工作相关动词/名词）。

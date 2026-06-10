@@ -11,7 +11,7 @@ synonyms: [tips, förslag]
 antonyms: []
 family: [råda, rådgivning, rådgivare]
 topics: [topic-nyheter-vecka22]
-sentences: []
+sentences: [sent-fick-fotbollsskor-trots-mamma]
 known: false
 created: "2026-06-04"
 reviewed: ""
@@ -66,3 +66,4 @@ interval: 0
 ## 来源
 
 - [[source-2026-06-04-nyheter-vecka-22]]
+- [[source-2026-06-09-zlatan-bio]]（*hans mamma inte hade råd att köpa dem*）

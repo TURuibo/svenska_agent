@@ -10,10 +10,11 @@ en: "sign"
 synonyms: []
 antonyms: []
 family: []
-topics: []
+topics: [topic-stadsmiljo]
 sentences:
   - sent-finns-det-en-skylt
   - sent-ja-det-hanger-en-liten-svart-skylt
+  - sent-bredvid-banken-finns-apotek-gront-kors-skylten
 known: false
 created: "2026-06-03"
 reviewed: ""

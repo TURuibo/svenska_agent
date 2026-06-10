@@ -11,7 +11,7 @@ synonyms: []
 antonyms: [mätt]
 family: []
 topics: [topic-djur]
-sentences: []
+sentences: [sent-dar-fanns-ingen-mat-ga-hungrig]
 known: false
 created: "2026-06-08"
 reviewed: ""
@@ -57,4 +57,4 @@ interval: 0
 ## 用法提示 (Usage Notes)
 
 - Hunger (subst.): Jag har hunger = 我饿了（较正式写法）.
-- 来源: [[source-2026-06-08-djur]]
+- 来源: [[source-2026-06-08-djur]], [[source-2026-06-09-zlatan-bio]]

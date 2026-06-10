@@ -8,10 +8,11 @@ cefr: "A2"
 zh: "生气的"
 en: "angry"
 synonyms: []
-antonyms: []
+antonyms: [snäll]
 family: []
 topics: [topic-djur]
 sentences: []
+sources: [source-2026-06-09-zlatan-bio]
 known: false
 created: "2026-06-08"
 reviewed: ""
@@ -51,10 +52,10 @@ interval: 0
 
 - 词族: [[argsint]] (易怒的), [[arghet]] (愤怒)
 - 同义词: [[ilsken]] (愤怒的)
-- 反义词: [[glad]] (高兴的)
+- 反义词: [[snäll]], [[glad]] (高兴的)
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)
 
 - "arg på" = 对...生气（用介词 på，不用 med 或 mot）。
-- 来源: [[source-2026-06-08-djur]]
+- 来源: [[source-2026-06-08-djur]], [[source-2026-06-09-zlatan-bio]]

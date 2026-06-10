@@ -36,4 +36,5 @@ created: "2026-06-07"
 
 - 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。
 - 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。
+- [[stark]] 同时属于 [[topic-djur]] (动物形容词)。
 - 来源: [[source-2026-06-07-kropp-halsa]]

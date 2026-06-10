@@ -10,8 +10,10 @@ en: "big"
 synonyms: []
 antonyms: [liten]
 family: []
-topics: [topic-djur]
-sentences: []
+topics: [topic-djur, topic-hemmet]
+sentences:
+  - sent-pa-golvet-mellan-sangen-skriv-stor-matta
+  - sent-framfor-fonster-vid-vaggen-stor-krukvaxt
 known: false
 created: "2026-06-08"
 reviewed: ""
@@ -52,7 +54,7 @@ interval: 0
 - 词族: [[storlek]] (大小；尺寸)
 - 同义词: —
 - 反义词: [[liten]]
-- 主题: [[topic-djur]]
+- 主题: [[topic-djur]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)
 

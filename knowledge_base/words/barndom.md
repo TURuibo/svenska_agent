@@ -11,7 +11,7 @@ synonyms: []
 antonyms: []
 family: [barn]
 topics: [topic-familj-och-barn]
-sentences: []
+sentences: [sent-zlatans-barndom-var-svar]
 known: false
 created: "2026-06-02"
 reviewed: ""
@@ -56,3 +56,4 @@ interval: 0
 
 - 原文：*Där hade hon en lycklig barndom.* — 她在那里度过了幸福的童年。
 - `barndomsminne` = 童年记忆，常见复合词。
+- 来源: [[source-2026-06-09-zlatan-bio]]（*Zlatans barndom var svår.*）

@@ -10,7 +10,7 @@ en: "strong"
 synonyms: []
 antonyms: []
 family: []
-topics: [topic-kropp]
+topics: [topic-kropp, topic-djur]
 sentences: []
 known: false
 created: "2026-06-07"
@@ -52,9 +52,9 @@ interval: 0
 - 词族: —
 - 同义词: —
 - 反义词: —
-- 主题: [[topic-kropp]]
+- 主题: [[topic-kropp]] · [[topic-djur]]
 
 ## 用法提示 (Usage Notes)
 
 - Adjektivets neutrum tar -t: ett starkt hjärta (一颗强壮的心).
-- 来源: [[source-2026-06-07-kropp-halsa]]
+- 来源: [[source-2026-06-07-kropp-halsa]] · [[source-2026-06-08-djur]]

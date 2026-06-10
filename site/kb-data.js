@@ -1,6 +1,31 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-10 18:32:29",
+  "generatedAt": "2026-06-10 19:02:42",
   "notes": [
+    {
+      "slug": "grammar-adjektiv-bojning",
+      "type": "grammar",
+      "title": "adjektiv-bojning",
+      "path": "knowledge_base/grammar/grammar-adjektiv-bojning.md",
+      "body": "# 📗 adjektiv-bojning — 形容词变化 (adjective declension)\n\n级别: A2\n一句话: 瑞典语形容词有四种形式，随所修饰名词的性（utrum/neutrum）、数（singular/plural）和确定性（obestämd/bestämd）变化。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nen-ord (utrum):      stor pojke      → grundform (stor)\nett-ord (neutrum):   stort hus       → +t  (stort)\nplural/bestämd:      stora barn      → +a  (stora)\n                     den stora bilen → +a  (stora)\n                     det stora huset → +a  (stora)\n```\n\n与中文对比: 中文形容词不变形（大男孩、大房子都用\"大\"）；瑞典语必须随名词变形。\n与英文对比: 英文形容词也不变形（big boy / big house / big children）；瑞典语有更多形式。\n\n## 详细讲解 (Detail)\n\n### 四形式图表 (Four-form pattern)\n\n| Kontext | Form | Exempel |\n|---------|------|---------|\n| en-ord, obestämd sg. | grundform | en **stor** pojke |\n| ett-ord, obestämd sg. | +t | ett **stort** hus |\n| plural, obestämd | +a | **stora** barn |\n| bestämd form (alla genus) | +a | den/det/de **stora** … |\n\n### Oregelbundenheter (Irregularities)\n\n**liten / litet / lilla / små**\n- en liten flicka → ett **litet** barn → den/det **lilla** … → **små** barn\n- Bestämd singular: `lilla` (not `litena`)\n\n**Slutar på -d → neutrum -tt**\n- trött / **trött**t / trötta *(samma form)*\n- röd → **rött** (umlaut + tt) / röda\n- god → **gott** / goda\n\n**gammal → gammalt → gamla (synkope)**\n- `gammal` (en-ord) → `gammalt` (ett-ord) → `gamla` (pl./best.)\n- Bestämd sg.: `gamla` (den **gamla** mannen)\n\n**Oböjliga adjektiv (indeclinable)**\n- Adjektiv som slutar på -a eller -e böjs inte: `bra`, `extra`, `kul`, `lila`, `beige`\n- Exempel: en **bra** idé / ett **bra** beslut / **bra** resultat\n\n### Rätta vs. höger/vänster\n- `rätt` (correct) böjs normalt: rätt / rätt / rätta\n- `höger` och `vänster` är oböjliga: höger hand / höger öga / höger sida\n\n## 例句 (Examples)\n\n- ✅ [[stor]] 🇸🇪 Det är ett **stort** hus med en **stor** trädgård. 🇨🇳 这是一座大房子，有一个大花园。\n- ✅ [[liten]] 🇸🇪 Den **lilla** bebisen sover i ett **litet** rum. 🇨🇳 那个小婴儿在一个小房间里睡觉。\n- ❌ *ett stor hus* ← neutrum-form måste vara `stort`\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ Glömmer +t för ett-ord: `ett stor hus` → ska vara `ett **stort** hus`\n- ⚠️ Använder grundform efter bestämd artikel: `den stor bilen` → ska vara `den **stora** bilen`\n- ⚠️ Böjer oböjliga adjektiv: `ett kult spel` → ska vara `ett **kul** spel`\n- ⚠️ `liten` i bestämd form: `den litena flickan` → ska vara `den **lilla** flickan`\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bestämd-form]] — bestämd form för substantiv + adjektiv\n- 📎 [[grammar-substantiv-plural]] — noun plural declensions\n- 📎 [[topic-personer]] — example adjectives in context",
+      "excerpt": "📗 adjektiv bojning — 形容词变化 (adjective declension) 级别: A2 一句话: 瑞典语形容词有四种形式，随所修饰名词的性（utrum/neutrum）、数（singular/plural）和确定性（obestämd/bestämd）变化。 规则说明 (Rules) 📐 结构公式: en ord (utrum): stor pojke → grundform (stor) ett ord (",
+      "links": [
+        "grammar-bestämd-form",
+        "grammar-substantiv-plural",
+        "liten",
+        "stor",
+        "topic-personer"
+      ],
+      "searchText": "adjektiv-bojning grammar-adjektiv-bojning knowledge_base/grammar/grammar-adjektiv-bojning.md ---\ntype: grammar\nname: \"adjektiv-bojning\"\nzh: \"形容词变化\"\nen: \"adjective declension\"\nlevel: \"A2\"\nrelated: [\"grammar-bestämd-form\", \"grammar-substantiv-plural\"]\nexamples: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 adjektiv-bojning — 形容词变化 (adjective declension)\n\n级别: A2\n一句话: 瑞典语形容词有四种形式，随所修饰名词的性（utrum/neutrum）、数（singular/plural）和确定性（obestämd/bestämd）变化。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nen-ord (utrum):      stor pojke      → grundform (stor)\nett-ord (neutrum):   stort hus       → +t  (stort)\nplural/bestämd:      stora barn      → +a  (stora)\n                     den stora bilen → +a  (stora)\n                     det stora huset → +a  (stora)\n```\n\n与中文对比: 中文形容词不变形（大男孩、大房子都用\"大\"）；瑞典语必须随名词变形。\n与英文对比: 英文形容词也不变形（big boy / big house / big children）；瑞典语有更多形式。\n\n## 详细讲解 (Detail)\n\n### 四形式图表 (Four-form pattern)\n\n| Kontext | Form | Exempel |\n|---------|------|---------|\n| en-ord, obestämd sg. | grundform | en **stor** pojke |\n| ett-ord, obestämd sg. | +t | ett **stort** hus |\n| plural, obestämd | +a | **stora** barn |\n| bestämd form (alla genus) | +a | den/det/de **stora** … |\n\n### Oregelbundenheter (Irregularities)\n\n**liten / litet / lilla / små**\n- en liten flicka → ett **litet** barn → den/det **lilla** … → **små** barn\n- Bestämd singular: `lilla` (not `litena`)\n\n**Slutar på -d → neutrum -tt**\n- trött / **trött**t / trötta *(samma form)*\n- röd → **rött** (umlaut + tt) / röda\n- god → **gott** / goda\n\n**gammal → gammalt → gamla (synkope)**\n- `gammal` (en-ord) → `gammalt` (ett-ord) → `gamla` (pl./best.)\n- Bestämd sg.: `gamla` (den **gamla** mannen)\n\n**Oböjliga adjektiv (indeclinable)**\n- Adjektiv som slutar på -a eller -e böjs inte: `bra`, `extra`, `kul`, `lila`, `beige`\n- Exempel: en **bra** idé / ett **bra** beslut / **bra** resultat\n\n### Rätta vs. höger/vänster\n- `rätt` (correct) böjs normalt: rätt / rätt / rätta\n- `höger` och `vänster` är oböjliga: höger hand / höger öga / höger sida\n\n## 例句 (Examples)\n\n- ✅ [[stor]] 🇸🇪 Det är ett **stort** hus med en **stor** trädgård. 🇨🇳 这是一座大房子，有一个大花园。\n- ✅ [[liten]] 🇸🇪 Den **lilla** bebisen sover i ett **litet** rum. 🇨🇳 那个小婴儿在一个小房间里睡觉。\n- ❌ *ett stor hus* ← neutrum-form måste vara `stort`\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ Glömmer +t för ett-ord: `ett stor hus` → ska vara `ett **stort** hus`\n- ⚠️ Använder grundform efter bestämd artikel: `den stor bilen` → ska vara `den **stora** bilen`\n- ⚠️ Böjer oböjliga adjektiv: `ett kult spel` → ska vara `ett **kul** spel`\n- ⚠️ `liten` i bestämd form: `den litena flickan` → ska vara `den **lilla** flickan`\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bestämd-form]] — bestämd form för substantiv + adjektiv\n- 📎 [[grammar-substantiv-plural]] — noun plural declensions\n- 📎 [[topic-personer]] — example adjectives in context\n",
+      "name": "adjektiv-bojning",
+      "zh": "形容词变化",
+      "en": "adjective declension",
+      "created": "2026-06-10",
+      "known": false,
+      "backlinks": [
+        "grammar-substantiv-plural",
+        "source-2026-06-10-personer-bojning"
+      ]
+    },
     {
       "slug": "grammar-att-sats",
       "type": "grammar",
@@ -46,6 +71,8 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "backlinks": [
+        "grammar-adjektiv-bojning",
+        "grammar-substantiv-plural",
         "index",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-04-nyheter-vecka-22"
@@ -56,14 +83,15 @@ window.KB_DATA = {
       "type": "grammar",
       "title": "bisats-biff",
       "path": "knowledge_base/grammar/grammar-bisats-biff.md",
-      "body": "# 📗 bisats-biff — 从句语序（BIFF 规则）(subordinate clause word order)\n\n级别: B1\n一句话: 在从句（bisats）中，否定词/副词紧跟在主语之后、动词之前（BIFF = Bisatsen Inte Före Finitverbet）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主句 (V2):  Subjekt  VERB        Adverb  ...\n             Jag      vet         inte    var det är.\n从句 (BIFF): (att)    Subjekt  Adverb  VERB    ...\n             att      jag      inte    vet     ...\n             när      jag      kommer  till    Slussen\n```\n\nBIFF 记忆法：**B**isatsen **I**nte **F**öre **F**initverbet = 从句中否定词/副词在动词之前。\n\n与中文对比: 中文语序不受主从句影响（都是\"我不知道\"）；瑞典语从句需变换 inte 位置。\n与英文对比: 英语从句语序不变（I don't know where it is）；瑞典语从句 inte 必须前移。\n\n## 详细讲解 (Detail)\n\n触发从句语序的连词（bisatsinledare）：\n- `att` — that（我知道他来了）\n- `när` — when（当我到达时）\n- `om` — if/whether（如果/是否）\n- `var` — where（在哪里）\n- `hur` — how（怎样）\n- `eftersom` — because\n- `som` — that/which/who\n\n例：\n- 主句：*Jag vet **inte** var det är.* ← `inte` 在主句中跟 `vet` 后面→ 不，这里 `vet` 是主句动词，`var det är` 是从句\n- 从句内部：*var **det** är*（从句中 det 是主语，är 是动词，无需移位，因为无否定词）\n\n实际从对话的例子：\n- `när jag kommer till Slussen` — 当我到达 Slussen 时（bisats，语序 S-V）\n- `Vet du var det är?` — 你知道那在哪里吗？（`var det är` 是 bisats：var + det(S) + är(V)）\n\n## 例句 (Examples)\n\n- ✅ [[sent-vet-du-var-det-ar]] 🇸🇪 Vet du var det är? 🇨🇳 你知道在哪里吗？\n- ✅ [[sent-vilken-riktning-ska-jag-ga]] 🇸🇪 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？（疑问词从句）\n- ❌ *Jag vet var är det.* ← 从句不用疑问语序（不能用 V2 倒装）\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 从句中用疑问语序：*Jag vet inte var är det.* → 正确：*Jag vet inte var det är.*\n- ⚠️ 主从句混淆 `inte` 位置：主句 *Jag vet **inte**…* vs 从句中 *…att jag **inte** vet…*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-riktnings-adverb]] — dit/där 的区别也受主从句影响",
+      "body": "# 📗 bisats-biff — 从句语序（BIFF 规则）(subordinate clause word order)\n\n级别: B1\n一句话: 在从句（bisats）中，否定词/副词紧跟在主语之后、动词之前（BIFF = Bisatsen Inte Före Finitverbet）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主句 (V2):  Subjekt  VERB        Adverb  ...\n             Jag      vet         inte    var det är.\n从句 (BIFF): (att)    Subjekt  Adverb  VERB    ...\n             att      jag      inte    vet     ...\n             när      jag      kommer  till    Slussen\n```\n\nBIFF 记忆法：**B**isatsen **I**nte **F**öre **F**initverbet = 从句中否定词/副词在动词之前。\n\n与中文对比: 中文语序不受主从句影响（都是\"我不知道\"）；瑞典语从句需变换 inte 位置。\n与英文对比: 英语从句语序不变（I don't know where it is）；瑞典语从句 inte 必须前移。\n\n## 详细讲解 (Detail)\n\n触发从句语序的连词（bisatsinledare）：\n- `att` — that（我知道他来了）\n- `när` — when（当我到达时）\n- `om` — if/whether（如果/是否）\n- `var` — where（在哪里）\n- `hur` — how（怎样）\n- `eftersom` — because\n- `som` — that/which/who\n\n例：\n- 主句：*Jag vet **inte** var det är.* ← `inte` 在主句中跟 `vet` 后面→ 不，这里 `vet` 是主句动词，`var det är` 是从句\n- 从句内部：*var **det** är*（从句中 det 是主语，är 是动词，无需移位，因为无否定词）\n\n实际从对话的例子：\n- `när jag kommer till Slussen` — 当我到达 Slussen 时（bisats，语序 S-V）\n- `Vet du var det är?` — 你知道那在哪里吗？（`var det är` 是 bisats：var + det(S) + är(V)）\n\n## 例句 (Examples)\n\n- ✅ [[sent-vet-du-var-det-ar]] 🇸🇪 Vet du var det är? 🇨🇳 你知道在哪里吗？\n- ✅ [[sent-vilken-riktning-ska-jag-ga]] 🇸🇈 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？（疑问词从句）\n- ✅ [[sent-fick-fotbollsskor-trots-mamma]] 🇸🇈 trots att hans mamma egentligen **inte** hade råd — `inte` 在 `hade` 前（BIFF）。\n- ❌ *Jag vet var är det.* ← 从句不用疑问语序（不能用 V2 倒装）\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 从句中用疑问语序：*Jag vet inte var är det.* → 正确：*Jag vet inte var det är.*\n- ⚠️ 主从句混淆 `inte` 位置：主句 *Jag vet **inte**…* vs 从句中 *…att jag **inte** vet…*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-riktnings-adverb]] — dit/där 的区别也受主从句影响",
       "excerpt": "📗 bisats biff — 从句语序（BIFF 规则）(subordinate clause word order) 级别: B1 一句话: 在从句（bisats）中，否定词/副词紧跟在主语之后、动词之前（BIFF = Bisatsen Inte Före Finitverbet）。 规则说明 (Rules) 📐 结构公式: 主句 (V2): Subjekt VERB Adverb ... Jag vet inte var de",
       "links": [
         "grammar-riktnings-adverb",
+        "sent-fick-fotbollsskor-trots-mamma",
         "sent-vet-du-var-det-ar",
         "sent-vilken-riktning-ska-jag-ga"
       ],
-      "searchText": "bisats-biff grammar-bisats-biff knowledge_base/grammar/grammar-bisats-biff.md ---\ntype: grammar\nname: \"bisats-biff\"\nzh: \"从句语序（BIFF 规则）\"\nen: \"subordinate clause word order (BIFF rule)\"\nlevel: \"B1\"\nrelated:\n  - grammar-riktnings-adverb\nexamples:\n  - sent-vet-du-var-det-ar\n  - sent-vilken-riktning-ska-jag-ga\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 bisats-biff — 从句语序（BIFF 规则）(subordinate clause word order)\n\n级别: B1\n一句话: 在从句（bisats）中，否定词/副词紧跟在主语之后、动词之前（BIFF = Bisatsen Inte Före Finitverbet）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主句 (V2):  Subjekt  VERB        Adverb  ...\n             Jag      vet         inte    var det är.\n从句 (BIFF): (att)    Subjekt  Adverb  VERB    ...\n             att      jag      inte    vet     ...\n             när      jag      kommer  till    Slussen\n```\n\nBIFF 记忆法：**B**isatsen **I**nte **F**öre **F**initverbet = 从句中否定词/副词在动词之前。\n\n与中文对比: 中文语序不受主从句影响（都是\"我不知道\"）；瑞典语从句需变换 inte 位置。\n与英文对比: 英语从句语序不变（I don't know where it is）；瑞典语从句 inte 必须前移。\n\n## 详细讲解 (Detail)\n\n触发从句语序的连词（bisatsinledare）：\n- `att` — that（我知道他来了）\n- `när` — when（当我到达时）\n- `om` — if/whether（如果/是否）\n- `var` — where（在哪里）\n- `hur` — how（怎样）\n- `eftersom` — because\n- `som` — that/which/who\n\n例：\n- 主句：*Jag vet **inte** var det är.* ← `inte` 在主句中跟 `vet` 后面→ 不，这里 `vet` 是主句动词，`var det är` 是从句\n- 从句内部：*var **det** är*（从句中 det 是主语，är 是动词，无需移位，因为无否定词）\n\n实际从对话的例子：\n- `när jag kommer till Slussen` — 当我到达 Slussen 时（bisats，语序 S-V）\n- `Vet du var det är?` — 你知道那在哪里吗？（`var det är` 是 bisats：var + det(S) + är(V)）\n\n## 例句 (Examples)\n\n- ✅ [[sent-vet-du-var-det-ar]] 🇸🇪 Vet du var det är? 🇨🇳 你知道在哪里吗？\n- ✅ [[sent-vilken-riktning-ska-jag-ga]] 🇸🇪 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？（疑问词从句）\n- ❌ *Jag vet var är det.* ← 从句不用疑问语序（不能用 V2 倒装）\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 从句中用疑问语序：*Jag vet inte var är det.* → 正确：*Jag vet inte var det är.*\n- ⚠️ 主从句混淆 `inte` 位置：主句 *Jag vet **inte**…* vs 从句中 *…att jag **inte** vet…*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-riktnings-adverb]] — dit/där 的区别也受主从句影响\n",
+      "searchText": "bisats-biff grammar-bisats-biff knowledge_base/grammar/grammar-bisats-biff.md ---\ntype: grammar\nname: \"bisats-biff\"\nzh: \"从句语序（BIFF 规则）\"\nen: \"subordinate clause word order (BIFF rule)\"\nlevel: \"B1\"\nrelated:\n  - grammar-riktnings-adverb\nexamples:\n  - sent-vet-du-var-det-ar\n  - sent-vilken-riktning-ska-jag-ga\n  - sent-fick-fotbollsskor-trots-mamma\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 bisats-biff — 从句语序（BIFF 规则）(subordinate clause word order)\n\n级别: B1\n一句话: 在从句（bisats）中，否定词/副词紧跟在主语之后、动词之前（BIFF = Bisatsen Inte Före Finitverbet）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主句 (V2):  Subjekt  VERB        Adverb  ...\n             Jag      vet         inte    var det är.\n从句 (BIFF): (att)    Subjekt  Adverb  VERB    ...\n             att      jag      inte    vet     ...\n             när      jag      kommer  till    Slussen\n```\n\nBIFF 记忆法：**B**isatsen **I**nte **F**öre **F**initverbet = 从句中否定词/副词在动词之前。\n\n与中文对比: 中文语序不受主从句影响（都是\"我不知道\"）；瑞典语从句需变换 inte 位置。\n与英文对比: 英语从句语序不变（I don't know where it is）；瑞典语从句 inte 必须前移。\n\n## 详细讲解 (Detail)\n\n触发从句语序的连词（bisatsinledare）：\n- `att` — that（我知道他来了）\n- `när` — when（当我到达时）\n- `om` — if/whether（如果/是否）\n- `var` — where（在哪里）\n- `hur` — how（怎样）\n- `eftersom` — because\n- `som` — that/which/who\n\n例：\n- 主句：*Jag vet **inte** var det är.* ← `inte` 在主句中跟 `vet` 后面→ 不，这里 `vet` 是主句动词，`var det är` 是从句\n- 从句内部：*var **det** är*（从句中 det 是主语，är 是动词，无需移位，因为无否定词）\n\n实际从对话的例子：\n- `när jag kommer till Slussen` — 当我到达 Slussen 时（bisats，语序 S-V）\n- `Vet du var det är?` — 你知道那在哪里吗？（`var det är` 是 bisats：var + det(S) + är(V)）\n\n## 例句 (Examples)\n\n- ✅ [[sent-vet-du-var-det-ar]] 🇸🇪 Vet du var det är? 🇨🇳 你知道在哪里吗？\n- ✅ [[sent-vilken-riktning-ska-jag-ga]] 🇸🇈 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？（疑问词从句）\n- ✅ [[sent-fick-fotbollsskor-trots-mamma]] 🇸🇈 trots att hans mamma egentligen **inte** hade råd — `inte` 在 `hade` 前（BIFF）。\n- ❌ *Jag vet var är det.* ← 从句不用疑问语序（不能用 V2 倒装）\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 从句中用疑问语序：*Jag vet inte var är det.* → 正确：*Jag vet inte var det är.*\n- ⚠️ 主从句混淆 `inte` 位置：主句 *Jag vet **inte**…* vs 从句中 *…att jag **inte** vet…*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-riktnings-adverb]] — dit/där 的区别也受主从句影响\n",
       "name": "bisats-biff",
       "zh": "从句语序（BIFF 规则）",
       "en": "subordinate clause word order (BIFF rule)",
@@ -134,6 +162,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "grammar-presens-preteritum-ram",
+        "grammar-preteritum",
         "sent-just-da-markte-jag-att-min-planbok-var-borta",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
         "source-2026-06-09-en-handelse-i-tidsordning",
@@ -297,13 +326,14 @@ window.KB_DATA = {
       "type": "grammar",
       "title": "Passiv med -s",
       "path": "knowledge_base/grammar/grammar-passiv-med-s.md",
-      "body": "# 📗 Passiv med -s — s-被动态 (s-passive)\n\n级别: SFI B / CEFR A2\n一句话: 在动词词干后加 `-s` 构成被动态，表示\"被…\"或\"被称为…\"等含义。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\naktiv:  Subjekt + verb + objekt\n        De kallar det fribelopp.  （他们称之为免税额）\n\npassiv: Subjekt + verb-s\n        Det kallas fribelopp.     （它被称为免税额）\n```\n\n构成规则：\n- Grupp 1 (presens -ar): ta bort -ar, lägg till -as → *kallas*\n- Grupp 2 (presens -er): ta bort -er, lägg till -s → *säljs* (sälja → säljs)\n- Grupp 3 (presens -r): ta bort -r, lägg till -s → *bos* (bo → bos)\n\n与中文对比: 中文用\"被\"字句：*被称为*；s-被动态是直接在动词形态上体现。\n与英文对比: 英语用 *be + past participle*（is called）；瑞典语 s-被动更简洁。\n\n## 详细讲解 (Detail)\n\n### 常见 s-被动词例\n\n| 主动形式 | 被动形式 | 中文意思 |\n|---------|---------|---------|\n| kalla (kallar) | kallas | 被称为 |\n| sälja (säljer) | säljs | 被出售 |\n| använda (använder) | används | 被使用 |\n| erbjuda (erbjuder) | erbjuds | 被提供 |\n| skicka (skickar) | skickas | 被发送 |\n\n### 时态变化\n\n| 时态 | 主动 | s-被动 |\n|------|------|--------|\n| Presens | kallar | kallas |\n| Preteritum | kallade | kallades |\n| Supinum | har kallat | har kallats |\n\n### 用法场景\n1. **\"被称为\"**：*Gränsen kallas fribelopp.* — 这个限制被称为免税额。\n2. **一般被动（无明确施动者）**：*Energidrycker säljs inte till barn.* — 能量饮料不向儿童出售。\n3. **书面/正式被动**：新闻和官方文件中最常见。\n\n## 例句 (Examples)\n\n- ✅ [[sent-gransen-kallas-fribelopp]] 🇸🇪 Gränsen **kallas** fribelopp. 🇨🇳 这个限制被称为免税额。\n- ✅ 🇸🇪 Energidrycker **säljs** inte till unga under 18. 🇨🇳 能量饮料不向18岁以下的年轻人出售。\n- ✅ 🇸🇪 Bidraget **betalas** ut varje månad. 🇨🇳 补贴每月发放。\n- ❌ *Gränsen är kallad fribelopp.* ← 语法可行但不自然，s-被动更地道。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混淆 s-被动（*kallas*）和反身动词（也用 -s 结尾，如 *hoppas* = 希望）。\n- ⚠️ 在口语中，*bli*-被动（*bli kallad*）更常见；s-被动多见于书面语。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-v2-ordfoljd]] — 被动句中仍遵守 V2 语序",
+      "body": "# 📗 Passiv med -s — s-被动态 (s-passive)\n\n级别: SFI B / CEFR A2\n一句话: 在动词词干后加 `-s` 构成被动态，表示\"被…\"或\"被称为…\"等含义。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\naktiv:  Subjekt + verb + objekt\n        De kallar det fribelopp.  （他们称之为免税额）\n\npassiv: Subjekt + verb-s\n        Det kallas fribelopp.     （它被称为免税额）\n```\n\n构成规则：\n- Grupp 1 (presens -ar): ta bort -ar, lägg till -as → *kallas*\n- Grupp 2 (presens -er): ta bort -er, lägg till -s → *säljs* (sälja → säljs)\n- Grupp 3 (presens -r): ta bort -r, lägg till -s → *bos* (bo → bos)\n\n与中文对比: 中文用\"被\"字句：*被称为*；s-被动态是直接在动词形态上体现。\n与英文对比: 英语用 *be + past participle*（is called）；瑞典语 s-被动更简洁。\n\n## 详细讲解 (Detail)\n\n### 常见 s-被动词例\n\n| 主动形式 | 被动形式 | 中文意思 |\n|---------|---------|---------|\n| kalla (kallar) | kallas | 被称为 |\n| sälja (säljer) | säljs | 被出售 |\n| använda (använder) | används | 被使用 |\n| erbjuda (erbjuder) | erbjuds | 被提供 |\n| skicka (skickar) | skickas | 被发送 |\n\n### 时态变化\n\n| 时态 | 主动 | s-被动 |\n|------|------|--------|\n| Presens | kallar | kallas |\n| Preteritum | kallade | kallades |\n| Supinum | har kallat | har kallats |\n\n### 用法场景\n1. **\"被称为\"**：*Gränsen kallas fribelopp.* — 这个限制被称为免税额。\n2. **一般被动（无明确施动者）**：*Energidrycker säljs inte till barn.* — 能量饮料不向儿童出售。\n3. **书面/正式被动**：新闻和官方文件中最常见。\n\n## 例句 (Examples)\n\n- ✅ [[sent-gransen-kallas-fribelopp]] 🇸🇪 Gränsen **kallas** fribelopp. 🇨🇳 这个限制被称为免税额。\n- ✅ [[sent-han-foddes-1981-rosengard]] 🇸🇪 Han **föddes** 1981 i Rosengård i Malmö. 🇨🇳 他1981年出生在马尔默的罗森戈德区。（`föda → föddes`, grupp 2 s-passiv preteritum）\n- ✅ 🇸🇪 Energidrycker **säljs** inte till unga under 18. 🇨🇳 能量饮料不向18岁以下的年轻人出售。\n- ✅ 🇸🇪 Bidraget **betalas** ut varje månad. 🇨🇳 补贴每月发放。\n- ❌ *Gränsen är kallad fribelopp.* ← 语法可行但不自然，s-被动更地道。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混淆 s-被动（*kallas*）和反身动词（也用 -s 结尾，如 *hoppas* = 希望）。\n- ⚠️ 在口语中，*bli*-被动（*bli kallad*）更常见；s-被动多见于书面语。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-v2-ordfoljd]] — 被动句中仍遵守 V2 语序",
       "excerpt": "📗 Passiv med s — s 被动态 (s passive) 级别: SFI B / CEFR A2 一句话: 在动词词干后加 s 构成被动态，表示\"被…\"或\"被称为…\"等含义。 规则说明 (Rules) 📐 结构公式: aktiv: Subjekt + verb + objekt De kallar det fribelopp. （他们称之为免税额） passiv: Subjekt + verb s Det kallas ",
       "links": [
         "grammar-v2-ordfoljd",
-        "sent-gransen-kallas-fribelopp"
+        "sent-gransen-kallas-fribelopp",
+        "sent-han-foddes-1981-rosengard"
       ],
-      "searchText": "Passiv med -s grammar-passiv-med-s knowledge_base/grammar/grammar-passiv-med-s.md ---\ntype: grammar\nname: \"Passiv med -s\"\nzh: \"s-被动态\"\nen: \"s-passive\"\nlevel: \"SFI B / CEFR A2\"\nrelated: [grammar-v2-ordfoljd]\nexamples: [sent-gransen-kallas-fribelopp]\nknown: false\ncreated: \"2026-06-04\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 Passiv med -s — s-被动态 (s-passive)\n\n级别: SFI B / CEFR A2\n一句话: 在动词词干后加 `-s` 构成被动态，表示\"被…\"或\"被称为…\"等含义。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\naktiv:  Subjekt + verb + objekt\n        De kallar det fribelopp.  （他们称之为免税额）\n\npassiv: Subjekt + verb-s\n        Det kallas fribelopp.     （它被称为免税额）\n```\n\n构成规则：\n- Grupp 1 (presens -ar): ta bort -ar, lägg till -as → *kallas*\n- Grupp 2 (presens -er): ta bort -er, lägg till -s → *säljs* (sälja → säljs)\n- Grupp 3 (presens -r): ta bort -r, lägg till -s → *bos* (bo → bos)\n\n与中文对比: 中文用\"被\"字句：*被称为*；s-被动态是直接在动词形态上体现。\n与英文对比: 英语用 *be + past participle*（is called）；瑞典语 s-被动更简洁。\n\n## 详细讲解 (Detail)\n\n### 常见 s-被动词例\n\n| 主动形式 | 被动形式 | 中文意思 |\n|---------|---------|---------|\n| kalla (kallar) | kallas | 被称为 |\n| sälja (säljer) | säljs | 被出售 |\n| använda (använder) | används | 被使用 |\n| erbjuda (erbjuder) | erbjuds | 被提供 |\n| skicka (skickar) | skickas | 被发送 |\n\n### 时态变化\n\n| 时态 | 主动 | s-被动 |\n|------|------|--------|\n| Presens | kallar | kallas |\n| Preteritum | kallade | kallades |\n| Supinum | har kallat | har kallats |\n\n### 用法场景\n1. **\"被称为\"**：*Gränsen kallas fribelopp.* — 这个限制被称为免税额。\n2. **一般被动（无明确施动者）**：*Energidrycker säljs inte till barn.* — 能量饮料不向儿童出售。\n3. **书面/正式被动**：新闻和官方文件中最常见。\n\n## 例句 (Examples)\n\n- ✅ [[sent-gransen-kallas-fribelopp]] 🇸🇪 Gränsen **kallas** fribelopp. 🇨🇳 这个限制被称为免税额。\n- ✅ 🇸🇪 Energidrycker **säljs** inte till unga under 18. 🇨🇳 能量饮料不向18岁以下的年轻人出售。\n- ✅ 🇸🇪 Bidraget **betalas** ut varje månad. 🇨🇳 补贴每月发放。\n- ❌ *Gränsen är kallad fribelopp.* ← 语法可行但不自然，s-被动更地道。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混淆 s-被动（*kallas*）和反身动词（也用 -s 结尾，如 *hoppas* = 希望）。\n- ⚠️ 在口语中，*bli*-被动（*bli kallad*）更常见；s-被动多见于书面语。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-v2-ordfoljd]] — 被动句中仍遵守 V2 语序\n",
+      "searchText": "Passiv med -s grammar-passiv-med-s knowledge_base/grammar/grammar-passiv-med-s.md ---\ntype: grammar\nname: \"Passiv med -s\"\nzh: \"s-被动态\"\nen: \"s-passive\"\nlevel: \"SFI B / CEFR A2\"\nrelated: [grammar-v2-ordfoljd]\nexamples: [sent-gransen-kallas-fribelopp, sent-han-foddes-1981-rosengard]\nknown: false\ncreated: \"2026-06-04\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 Passiv med -s — s-被动态 (s-passive)\n\n级别: SFI B / CEFR A2\n一句话: 在动词词干后加 `-s` 构成被动态，表示\"被…\"或\"被称为…\"等含义。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\naktiv:  Subjekt + verb + objekt\n        De kallar det fribelopp.  （他们称之为免税额）\n\npassiv: Subjekt + verb-s\n        Det kallas fribelopp.     （它被称为免税额）\n```\n\n构成规则：\n- Grupp 1 (presens -ar): ta bort -ar, lägg till -as → *kallas*\n- Grupp 2 (presens -er): ta bort -er, lägg till -s → *säljs* (sälja → säljs)\n- Grupp 3 (presens -r): ta bort -r, lägg till -s → *bos* (bo → bos)\n\n与中文对比: 中文用\"被\"字句：*被称为*；s-被动态是直接在动词形态上体现。\n与英文对比: 英语用 *be + past participle*（is called）；瑞典语 s-被动更简洁。\n\n## 详细讲解 (Detail)\n\n### 常见 s-被动词例\n\n| 主动形式 | 被动形式 | 中文意思 |\n|---------|---------|---------|\n| kalla (kallar) | kallas | 被称为 |\n| sälja (säljer) | säljs | 被出售 |\n| använda (använder) | används | 被使用 |\n| erbjuda (erbjuder) | erbjuds | 被提供 |\n| skicka (skickar) | skickas | 被发送 |\n\n### 时态变化\n\n| 时态 | 主动 | s-被动 |\n|------|------|--------|\n| Presens | kallar | kallas |\n| Preteritum | kallade | kallades |\n| Supinum | har kallat | har kallats |\n\n### 用法场景\n1. **\"被称为\"**：*Gränsen kallas fribelopp.* — 这个限制被称为免税额。\n2. **一般被动（无明确施动者）**：*Energidrycker säljs inte till barn.* — 能量饮料不向儿童出售。\n3. **书面/正式被动**：新闻和官方文件中最常见。\n\n## 例句 (Examples)\n\n- ✅ [[sent-gransen-kallas-fribelopp]] 🇸🇪 Gränsen **kallas** fribelopp. 🇨🇳 这个限制被称为免税额。\n- ✅ [[sent-han-foddes-1981-rosengard]] 🇸🇪 Han **föddes** 1981 i Rosengård i Malmö. 🇨🇳 他1981年出生在马尔默的罗森戈德区。（`föda → föddes`, grupp 2 s-passiv preteritum）\n- ✅ 🇸🇪 Energidrycker **säljs** inte till unga under 18. 🇨🇳 能量饮料不向18岁以下的年轻人出售。\n- ✅ 🇸🇪 Bidraget **betalas** ut varje månad. 🇨🇳 补贴每月发放。\n- ❌ *Gränsen är kallad fribelopp.* ← 语法可行但不自然，s-被动更地道。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混淆 s-被动（*kallas*）和反身动词（也用 -s 结尾，如 *hoppas* = 希望）。\n- ⚠️ 在口语中，*bli*-被动（*bli kallad*）更常见；s-被动多见于书面语。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-v2-ordfoljd]] — 被动句中仍遵守 V2 语序\n",
       "name": "Passiv med -s",
       "zh": "s-被动态",
       "en": "s-passive",
@@ -413,6 +443,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "backlinks": [
+        "grammar-preteritum",
         "sent-till-slut-var-allt-bra-igen",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-vardagsrutin"
@@ -483,14 +514,26 @@ window.KB_DATA = {
       "type": "grammar",
       "title": "Preteritum",
       "path": "knowledge_base/grammar/grammar-preteritum.md",
-      "body": "# 📗 Preteritum — 过去时 (Past tense)\n\n级别: SFI A / CEFR A1\n一句话: 瑞典语过去时（preteritum）通过在词干加后缀构成，规则动词按动词组分类。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nGrupp 1 (-ar): infinitiv → ta bort -a, lägg till -ade\n  rösta → röstade, välkomna → välkomnade, halvera → halverade\n\nGrupp 2a (-er, -te): infinitiv → ta bort -a, lägg till -te\n  gräva → grävde, köpa → köpte, läsa → läste\n\nGrupp 2b (-er, -de): infinitiv → ta bort -a, lägg till -de\n  ringa → ringde → (合并) ringde\n\nGrupp 3 (-r, -dde): kortverb → +dde\n  bo → bodde, tro → trodde\n\nGrupp 4 (oregelbundna): se [[grammar-preteritum-oregelbundna]]\n  ska → skulle, gå → gick, vara → var\n```\n\n与中文对比: 中文无时态变化，靠时间词（昨天/以前）表示过去；瑞典语靠动词变形。\n与英文对比: 类似英语规则过去式加 *-ed*（worked, played），但瑞典语分为更多子类。\n\n## 详细讲解 (Detail)\n\n### Grupp 1 — 最大的规则组\n后缀 `-ade` 是最安全的选择，大多数新词/外来词属此组：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| rösta | röstade | 投票了 |\n| välkomna | välkomnade | 欢迎了 |\n| halvera | halverade | 减半了 |\n| grävde | — | — |\n\n### Grupp 2 — 变化多样\n后缀 `-de` 或 `-te`（根据词干最后的辅音决定）：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| gräva | grävde | 挖了 |\n| ringa | ringde | 打电话了 |\n| köpa | köpte | 买了 |\n\n### Grupp 4 / Oregelbundna — 不规则\n常用高频动词，必须单独记忆 → 参见 [[grammar-preteritum-oregelbundna]]：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| ska | skulle | 将要（过去意图） |\n| vara | var | 是 |\n| ha | hade | 有 |\n| gå | gick | 走/去 |\n\n## 例句 (Examples)\n\n- ✅ [[sent-ett-par-i-sodertälje-skulle-ut]] 🇸🇪 Ett par i Södertälje **skulle** ut och fiska och **grävde** efter mask. 🇨🇳 南泰利耶的一对夫妇准备出去钓鱼，在挖蚯蚓。（*skulle* = ska 的过去式；*grävde* = gräva 的过去式，grupp 2）\n- ✅ 🇸🇪 Kommunerna **välkomnade** sina nya medborgare. 🇨🇳 各市欢迎了他们的新公民。（grupp 1：-ade）\n- ❌ *Jag grävar igår.* ← 错误：应用过去时 *grävde*！\n- ❌ *Ska* → 过去时不是 *skade* 而是 *skulle*（不规则）。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 把 grupp 1 的 `-ade` 错用到 grupp 2 动词：*köpade*（错）→ *köpte*（正确）。\n- ⚠️ 高频不规则动词（*gå→gick, vara→var, ha→hade*）必须单独记忆。\n- ⚠️ *ska* 的过去式是 *skulle*，注意在 *skulle ut och fiska* 结构中的使用。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-preteritum-oregelbundna]] — 不规则动词过去式详解\n- 📎 [[grammar-ska-infinitiv]] — *ska/skulle* + 不定式结构",
+      "body": "# 📗 Preteritum — 过去时 (Past tense)\n\n级别: SFI A / CEFR A1\n一句话: 瑞典语过去时（preteritum）通过在词干加后缀构成，规则动词按动词组分类。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nGrupp 1 (-ar): infinitiv → ta bort -a, lägg till -ade\n  rösta → röstade, välkomna → välkomnade, halvera → halverade\n\nGrupp 2a (-er, -te): infinitiv → ta bort -a, lägg till -te\n  gräva → grävde, köpa → köpte, läsa → läste\n\nGrupp 2b (-er, -de): infinitiv → ta bort -a, lägg till -de\n  ringa → ringde → (合并) ringde\n\nGrupp 3 (-r, -dde): kortverb → +dde\n  bo → bodde, tro → trodde\n\nGrupp 4 (oregelbundna): se [[grammar-preteritum-oregelbundna]]\n  ska → skulle, gå → gick, vara → var\n```\n\n与中文对比: 中文无时态变化，靠时间词（昨天/以前）表示过去；瑞典语靠动词变形。\n与英文对比: 类似英语规则过去式加 *-ed*（worked, played），但瑞典语分为更多子类。\n\n## 详细讲解 (Detail)\n\n### Grupp 1 — 最大的规则组\n后缀 `-ade` 是最安全的选择，大多数新词/外来词属此组：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| rösta | röstade | 投票了 |\n| välkomna | välkomnade | 欢迎了 |\n| halvera | halverade | 减半了 |\n| grävde | — | — |\n\n### Grupp 2 — 变化多样\n后缀 `-de` 或 `-te`（根据词干最后的辅音决定）：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| gräva | grävde | 挖了 |\n| ringa | ringde | 打电话了 |\n| köpa | köpte | 买了 |\n\n### Grupp 4 / Oregelbundna — 不规则\n常用高频动词，必须单独记忆 → 参见 [[grammar-preteritum-oregelbundna]]：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| ska | skulle | 将要（过去意图） |\n| vara | var | 是 |\n| ha | hade | 有 |\n| gå | gick | 走/去 |\n| stiga | steg | 上升/迈步 |\n| dricka | drack | 喝 |\n| äta | åt | 吃 |\n| ta | tog | 拿/乘 |\n| komma | kom | 来/到 |\n| lägga | lade | 放/搁 |\n| få | fick | 得到/拿到 |\n| kunna | kunde | 能/可以 |\n| hitta | hittade | 找到（grupp 1，规则） |\n| vakna | vaknade | 醒来（grupp 1，规则） |\n| tänka | tänkte | 想/思考（grupp 2）|\n| märka | märkte | 注意到（grupp 2）|\n| känna | kände | 感觉（grupp 2）|\n| ringa | ringde | 打电话（grupp 2）|\n| fråga | frågade | 问（grupp 1）|\n| anmäla | anmälde | 报案（grupp 1 -de）|\n| spärra | spärrade | 冻结（grupp 1）|\n\n## 例句 (Examples)\n\n- ✅ [[sent-ett-par-i-sodertälje-skulle-ut]] 🇸🇪 Ett par i Södertälje **skulle** ut och fiska och **grävde** efter mask. 🇨🇳 南泰利耶的一对夫妇准备出去钓鱼，在挖蚯蚓。（*skulle* = ska 的过去式；*grävde* = gräva 的过去式，grupp 2）\n- ✅ [[sent-han-foddes-1981-rosengard]] 🇸🇪 Han **föddes** 1981 i Rosengård. 🇨🇳 他1981年出生。（s-passiv preteritum: grupp 2）\n- ✅ [[sent-zlatans-barndom-var-svar]] 🇸🇈 Zlatans barndom **var** svår. 🇨🇳 兹拉坦的童年很艰难。（vara → var, oregelbundet）\n- ✅ [[sent-gick-aldrig-klart-gymnasiet-satsade]] 🇸🇈 Han **gick** aldrig klart i gymnasiet utan han **satsade** istället. 🇨🇳 他没读完高中，而是投身足球。（gå → gick, oregelbundet；satsa → satsade, grupp 1）\n- ✅ 🇸🇪 Kommunerna **välkomnade** sina nya medborgare. 🇨🇳 各市欢迎了他们的新公民。（grupp 1：-ade）\n- ✅ [[sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex]] 🇸🇈 På morgonen **vaknade** jag tidigt. 🇨🇳 早上我很早就醒了。（vakna → vaknade, grupp 1）\n- ✅ [[sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost]] 🇸🇈 Jag **steg** upp, **drack** en kopp kaffe och **åt** frukost snabbt. 🇨🇳 我起床，喝了咖啡，吃了早饭。（stiga→steg / dricka→drack / äta→åt, alla oregelbundna）\n- ✅ [[sent-sedan-tog-jag-tunnelbanan-in-till-stan]] 🇸🇈 Sedan **tog** jag tunnelbanan in till stan. 🇨🇳 然后我坐地铁进了城。（ta → tog, oregelbundet）\n- ✅ [[sent-plotsligt-kande-jag-mig-valdigt-orolig]] 🇸🇈 Plötsligt **kände** jag mig väldigt orolig. 🇨🇳 我突然感到非常担心。（känna → kände, grupp 2 -de）\n- ✅ [[sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort]] 🇸🇈 Medan jag **väntade** **ringde** jag till banken och **spärrade** mina kort. 🇨🇳 等候期间，我给银行打了电话并冻结了银行卡。（vänta→väntade g.1 / ringa→ringde g.2 / spärra→spärrade g.1）\n- ✅ [[sent-efter-det-gick-jag-till-polisen-anmalde-forlusten]] 🇸🇈 Efter det **gick** jag till polisen och **anmälde** förlusten. 🇨🇳 之后我去了警察局报了案。（gå→gick oregelb. / anmäla→anmälde g.1 -de）\n- ✅ [[sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt]] 🇸🇈 På kvällen **kom** jag hem och **lade** mig tidigt. 🇨🇳 晚上我回家，很早就躺下了。（komma→kom / lägga→lade, båda oregelbundna）\n- ❌ *Jag grävar igår.* ← 错误：应用过去时 *grävde*！\n- ❌ *Ska* → 过去时不是 *skade* 而是 *skulle*（不规则）。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 把 grupp 1 的 `-ade` 错用到 grupp 2 动词：*köpade*（错）→ *köpte*（正确）。\n- ⚠️ 高频不规则动词（*gå→gick, vara→var, ha→hade*）必须单独记忆。\n- ⚠️ *ska* 的过去式是 *skulle*，注意在 *skulle ut och fiska* 结构中的使用。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-preteritum-oregelbundna]] — 不规则动词过去式详解\n- 📎 [[grammar-ska-infinitiv]] — *ska/skulle* + 不定式结构\n- 📎 [[grammar-presens-preteritum-ram]] — 叙事框架：presens 开头/结尾 + preteritum 主体\n- 📎 [[grammar-bisats-tidskonnektor]] — 时间从句（medan/när/efter att）中的 preteritum 用法",
       "excerpt": "📗 Preteritum — 过去时 (Past tense) 级别: SFI A / CEFR A1 一句话: 瑞典语过去时（preteritum）通过在词干加后缀构成，规则动词按动词组分类。 规则说明 (Rules) 📐 结构公式: Grupp 1 ( ar): infinitiv → ta bort a, lägg till ade rösta → röstade, välkomna → välkomnade, halvera",
       "links": [
+        "grammar-bisats-tidskonnektor",
+        "grammar-presens-preteritum-ram",
         "grammar-preteritum-oregelbundna",
         "grammar-ska-infinitiv",
-        "sent-ett-par-i-sodertälje-skulle-ut"
+        "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
+        "sent-ett-par-i-sodertälje-skulle-ut",
+        "sent-gick-aldrig-klart-gymnasiet-satsade",
+        "sent-han-foddes-1981-rosengard",
+        "sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost",
+        "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
+        "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
+        "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex",
+        "sent-plotsligt-kande-jag-mig-valdigt-orolig",
+        "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
+        "sent-zlatans-barndom-var-svar"
       ],
-      "searchText": "Preteritum grammar-preteritum knowledge_base/grammar/grammar-preteritum.md ---\ntype: grammar\nname: \"Preteritum\"\nzh: \"过去时\"\nen: \"Past tense\"\nlevel: \"SFI A / CEFR A1\"\nrelated: [grammar-preteritum-oregelbundna, grammar-ska-infinitiv]\nexamples: [sent-ett-par-i-sodertälje-skulle-ut]\nknown: false\ncreated: \"2026-06-04\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 Preteritum — 过去时 (Past tense)\n\n级别: SFI A / CEFR A1\n一句话: 瑞典语过去时（preteritum）通过在词干加后缀构成，规则动词按动词组分类。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nGrupp 1 (-ar): infinitiv → ta bort -a, lägg till -ade\n  rösta → röstade, välkomna → välkomnade, halvera → halverade\n\nGrupp 2a (-er, -te): infinitiv → ta bort -a, lägg till -te\n  gräva → grävde, köpa → köpte, läsa → läste\n\nGrupp 2b (-er, -de): infinitiv → ta bort -a, lägg till -de\n  ringa → ringde → (合并) ringde\n\nGrupp 3 (-r, -dde): kortverb → +dde\n  bo → bodde, tro → trodde\n\nGrupp 4 (oregelbundna): se [[grammar-preteritum-oregelbundna]]\n  ska → skulle, gå → gick, vara → var\n```\n\n与中文对比: 中文无时态变化，靠时间词（昨天/以前）表示过去；瑞典语靠动词变形。\n与英文对比: 类似英语规则过去式加 *-ed*（worked, played），但瑞典语分为更多子类。\n\n## 详细讲解 (Detail)\n\n### Grupp 1 — 最大的规则组\n后缀 `-ade` 是最安全的选择，大多数新词/外来词属此组：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| rösta | röstade | 投票了 |\n| välkomna | välkomnade | 欢迎了 |\n| halvera | halverade | 减半了 |\n| grävde | — | — |\n\n### Grupp 2 — 变化多样\n后缀 `-de` 或 `-te`（根据词干最后的辅音决定）：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| gräva | grävde | 挖了 |\n| ringa | ringde | 打电话了 |\n| köpa | köpte | 买了 |\n\n### Grupp 4 / Oregelbundna — 不规则\n常用高频动词，必须单独记忆 → 参见 [[grammar-preteritum-oregelbundna]]：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| ska | skulle | 将要（过去意图） |\n| vara | var | 是 |\n| ha | hade | 有 |\n| gå | gick | 走/去 |\n\n## 例句 (Examples)\n\n- ✅ [[sent-ett-par-i-sodertälje-skulle-ut]] 🇸🇪 Ett par i Södertälje **skulle** ut och fiska och **grävde** efter mask. 🇨🇳 南泰利耶的一对夫妇准备出去钓鱼，在挖蚯蚓。（*skulle* = ska 的过去式；*grävde* = gräva 的过去式，grupp 2）\n- ✅ 🇸🇪 Kommunerna **välkomnade** sina nya medborgare. 🇨🇳 各市欢迎了他们的新公民。（grupp 1：-ade）\n- ❌ *Jag grävar igår.* ← 错误：应用过去时 *grävde*！\n- ❌ *Ska* → 过去时不是 *skade* 而是 *skulle*（不规则）。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 把 grupp 1 的 `-ade` 错用到 grupp 2 动词：*köpade*（错）→ *köpte*（正确）。\n- ⚠️ 高频不规则动词（*gå→gick, vara→var, ha→hade*）必须单独记忆。\n- ⚠️ *ska* 的过去式是 *skulle*，注意在 *skulle ut och fiska* 结构中的使用。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-preteritum-oregelbundna]] — 不规则动词过去式详解\n- 📎 [[grammar-ska-infinitiv]] — *ska/skulle* + 不定式结构\n",
+      "searchText": "Preteritum grammar-preteritum knowledge_base/grammar/grammar-preteritum.md ---\ntype: grammar\nname: \"Preteritum\"\nzh: \"过去时\"\nen: \"Past tense\"\nlevel: \"SFI A / CEFR A1\"\nrelated: [grammar-preteritum-oregelbundna, grammar-ska-infinitiv, grammar-presens]\nexamples: [sent-ett-par-i-sodertälje-skulle-ut, sent-han-foddes-1981-rosengard, sent-zlatans-barndom-var-svar, sent-gick-aldrig-klart-gymnasiet-satsade, sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex, sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost, sent-sedan-tog-jag-tunnelbanan-in-till-stan, sent-vid-halv-nio-kom-jag-fram-till-centralstationen, sent-plotsligt-kande-jag-mig-valdigt-orolig, sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort, sent-efter-det-gick-jag-till-polisen-anmalde-forlusten, sent-antligen-kunde-jag-andas-ut, sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt, sent-till-slut-var-allt-bra-igen]\nknown: false\ncreated: \"2026-06-04\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 Preteritum — 过去时 (Past tense)\n\n级别: SFI A / CEFR A1\n一句话: 瑞典语过去时（preteritum）通过在词干加后缀构成，规则动词按动词组分类。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nGrupp 1 (-ar): infinitiv → ta bort -a, lägg till -ade\n  rösta → röstade, välkomna → välkomnade, halvera → halverade\n\nGrupp 2a (-er, -te): infinitiv → ta bort -a, lägg till -te\n  gräva → grävde, köpa → köpte, läsa → läste\n\nGrupp 2b (-er, -de): infinitiv → ta bort -a, lägg till -de\n  ringa → ringde → (合并) ringde\n\nGrupp 3 (-r, -dde): kortverb → +dde\n  bo → bodde, tro → trodde\n\nGrupp 4 (oregelbundna): se [[grammar-preteritum-oregelbundna]]\n  ska → skulle, gå → gick, vara → var\n```\n\n与中文对比: 中文无时态变化，靠时间词（昨天/以前）表示过去；瑞典语靠动词变形。\n与英文对比: 类似英语规则过去式加 *-ed*（worked, played），但瑞典语分为更多子类。\n\n## 详细讲解 (Detail)\n\n### Grupp 1 — 最大的规则组\n后缀 `-ade` 是最安全的选择，大多数新词/外来词属此组：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| rösta | röstade | 投票了 |\n| välkomna | välkomnade | 欢迎了 |\n| halvera | halverade | 减半了 |\n| grävde | — | — |\n\n### Grupp 2 — 变化多样\n后缀 `-de` 或 `-te`（根据词干最后的辅音决定）：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| gräva | grävde | 挖了 |\n| ringa | ringde | 打电话了 |\n| köpa | köpte | 买了 |\n\n### Grupp 4 / Oregelbundna — 不规则\n常用高频动词，必须单独记忆 → 参见 [[grammar-preteritum-oregelbundna]]：\n\n| 不定式 | 过去时 | 中文 |\n|--------|--------|------|\n| ska | skulle | 将要（过去意图） |\n| vara | var | 是 |\n| ha | hade | 有 |\n| gå | gick | 走/去 |\n| stiga | steg | 上升/迈步 |\n| dricka | drack | 喝 |\n| äta | åt | 吃 |\n| ta | tog | 拿/乘 |\n| komma | kom | 来/到 |\n| lägga | lade | 放/搁 |\n| få | fick | 得到/拿到 |\n| kunna | kunde | 能/可以 |\n| hitta | hittade | 找到（grupp 1，规则） |\n| vakna | vaknade | 醒来（grupp 1，规则） |\n| tänka | tänkte | 想/思考（grupp 2）|\n| märka | märkte | 注意到（grupp 2）|\n| känna | kände | 感觉（grupp 2）|\n| ringa | ringde | 打电话（grupp 2）|\n| fråga | frågade | 问（grupp 1）|\n| anmäla | anmälde | 报案（grupp 1 -de）|\n| spärra | spärrade | 冻结（grupp 1）|\n\n## 例句 (Examples)\n\n- ✅ [[sent-ett-par-i-sodertälje-skulle-ut]] 🇸🇪 Ett par i Södertälje **skulle** ut och fiska och **grävde** efter mask. 🇨🇳 南泰利耶的一对夫妇准备出去钓鱼，在挖蚯蚓。（*skulle* = ska 的过去式；*grävde* = gräva 的过去式，grupp 2）\n- ✅ [[sent-han-foddes-1981-rosengard]] 🇸🇪 Han **föddes** 1981 i Rosengård. 🇨🇳 他1981年出生。（s-passiv preteritum: grupp 2）\n- ✅ [[sent-zlatans-barndom-var-svar]] 🇸🇈 Zlatans barndom **var** svår. 🇨🇳 兹拉坦的童年很艰难。（vara → var, oregelbundet）\n- ✅ [[sent-gick-aldrig-klart-gymnasiet-satsade]] 🇸🇈 Han **gick** aldrig klart i gymnasiet utan han **satsade** istället. 🇨🇳 他没读完高中，而是投身足球。（gå → gick, oregelbundet；satsa → satsade, grupp 1）\n- ✅ 🇸🇪 Kommunerna **välkomnade** sina nya medborgare. 🇨🇳 各市欢迎了他们的新公民。（grupp 1：-ade）\n- ✅ [[sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex]] 🇸🇈 På morgonen **vaknade** jag tidigt. 🇨🇳 早上我很早就醒了。（vakna → vaknade, grupp 1）\n- ✅ [[sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost]] 🇸🇈 Jag **steg** upp, **drack** en kopp kaffe och **åt** frukost snabbt. 🇨🇳 我起床，喝了咖啡，吃了早饭。（stiga→steg / dricka→drack / äta→åt, alla oregelbundna）\n- ✅ [[sent-sedan-tog-jag-tunnelbanan-in-till-stan]] 🇸🇈 Sedan **tog** jag tunnelbanan in till stan. 🇨🇳 然后我坐地铁进了城。（ta → tog, oregelbundet）\n- ✅ [[sent-plotsligt-kande-jag-mig-valdigt-orolig]] 🇸🇈 Plötsligt **kände** jag mig väldigt orolig. 🇨🇳 我突然感到非常担心。（känna → kände, grupp 2 -de）\n- ✅ [[sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort]] 🇸🇈 Medan jag **väntade** **ringde** jag till banken och **spärrade** mina kort. 🇨🇳 等候期间，我给银行打了电话并冻结了银行卡。（vänta→väntade g.1 / ringa→ringde g.2 / spärra→spärrade g.1）\n- ✅ [[sent-efter-det-gick-jag-till-polisen-anmalde-forlusten]] 🇸🇈 Efter det **gick** jag till polisen och **anmälde** förlusten. 🇨🇳 之后我去了警察局报了案。（gå→gick oregelb. / anmäla→anmälde g.1 -de）\n- ✅ [[sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt]] 🇸🇈 På kvällen **kom** jag hem och **lade** mig tidigt. 🇨🇳 晚上我回家，很早就躺下了。（komma→kom / lägga→lade, båda oregelbundna）\n- ❌ *Jag grävar igår.* ← 错误：应用过去时 *grävde*！\n- ❌ *Ska* → 过去时不是 *skade* 而是 *skulle*（不规则）。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 把 grupp 1 的 `-ade` 错用到 grupp 2 动词：*köpade*（错）→ *köpte*（正确）。\n- ⚠️ 高频不规则动词（*gå→gick, vara→var, ha→hade*）必须单独记忆。\n- ⚠️ *ska* 的过去式是 *skulle*，注意在 *skulle ut och fiska* 结构中的使用。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-preteritum-oregelbundna]] — 不规则动词过去式详解\n- 📎 [[grammar-ska-infinitiv]] — *ska/skulle* + 不定式结构\n- 📎 [[grammar-presens-preteritum-ram]] — 叙事框架：presens 开头/结尾 + preteritum 主体\n- 📎 [[grammar-bisats-tidskonnektor]] — 时间从句（medan/när/efter att）中的 preteritum 用法\n",
       "name": "Preteritum",
       "zh": "过去时",
       "en": "Past tense",
@@ -616,13 +659,15 @@ window.KB_DATA = {
       "type": "grammar",
       "title": "sin/sitt/sina (reflexivt possessivpronomen)",
       "path": "knowledge_base/grammar/grammar-sin-sina.md",
-      "body": "# 📗 sin/sitt/sina (reflexivt possessivpronomen) — sin/sitt/sina — 反身所有格 (Reflexive possessive pronouns)\n\n级别: SFI C / CEFR A2\n一句话: `sin/sitt/sina` 表示**主语自己的**（反身）；`hans/hennes/deras` 表示**别人的**（非反身）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主语 + 动词 + ... + sin/sitt/sina + [属于主语的名词]\n主语 + 动词 + ... + hans/hennes/deras + [属于他人的名词]\n```\n\n**形式变化（跟名词的性/数一致，不跟主语一致）：**\n\n| 名词类型 | 所有格 |\n|----------|--------|\n| en-ord (单数) | sin |\n| ett-ord (单数) | sitt |\n| 复数 | sina |\n\n与中文对比: 中文\"他/她的\"无反身之分；瑞典语**必须**区分\"主语自己的\"vs\"第三人的\"。\n与英文对比: 英语 his/her 无反身形式；`sin/sina` 没有直接对应，是瑞典语独特语法。\n\n## 详细讲解 (Detail)\n\n### 反身 vs 非反身对比\n\n| 句子 | 说明 |\n|------|------|\n| *Anna hälsar på **sin** son.* | Anna 自己的儿子（sin = 反身） |\n| *Anna hälsar på **hans** son.* | 某位男性他人的儿子（hans = 非反身） |\n| *Föräldrarna älskar **sina** barn.* | 父母们自己的孩子（sina = 反身，复数） |\n| *De älskade **varandra** och **sina** barn.* | 他们彼此相爱，和他们自己的孩子 |\n\n### 常见陷阱：主语是 `de` (they)\n\n- `De älskade sina barn.` = 他们爱自己的孩子（sina 指 de 的孩子）\n- `De älskade deras barn.` = 他们爱别人的孩子（deras 指非主语的某些人的孩子）\n\n## 例句 (Examples)\n\n- ✅ [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 Astrid längtade efter **sin** son. 🇨🇳 阿斯特丽德思念**她自己的**儿子。（sin = en-ord，反身）\n- ✅ 🇸🇪 Hon mindes **sina** lekar från **sin** barndom. 🇨🇳 她记得**自己的**游戏来自**自己的**童年。（sina = 复数反身；sin = en-ord 反身）\n- ✅ 🇸🇪 Astrids föräldrar visade att de älskade **sina** barn. 🇨🇳 她父母表示他们爱**自己的**孩子。\n- ❌ *Astrid längtade efter **hennes** son.* ← 如果 Astrid 是主语，必须用 sin，hennes 暗示是另一个女性的儿子。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 用 `hans/hennes` 代替 `sin/sitt`（中文/英语母语者的最常见错误）。\n- ⚠️ 混淆 `sin`（en-ord）和 `sitt`（ett-ord）：*sitt hus*（ett hus），*sin bil*（en bil）。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-att-sats]] — att-sats 里的 sin/sina 也遵守同样规则",
+      "body": "# 📗 sin/sitt/sina (reflexivt possessivpronomen) — sin/sitt/sina — 反身所有格 (Reflexive possessive pronouns)\n\n级别: SFI C / CEFR A2\n一句话: `sin/sitt/sina` 表示**主语自己的**（反身）；`hans/hennes/deras` 表示**别人的**（非反身）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主语 + 动词 + ... + sin/sitt/sina + [属于主语的名词]\n主语 + 动词 + ... + hans/hennes/deras + [属于他人的名词]\n```\n\n**形式变化（跟名词的性/数一致，不跟主语一致）：**\n\n| 名词类型 | 所有格 |\n|----------|--------|\n| en-ord (单数) | sin |\n| ett-ord (单数) | sitt |\n| 复数 | sina |\n\n与中文对比: 中文\"他/她的\"无反身之分；瑞典语**必须**区分\"主语自己的\"vs\"第三人的\"。\n与英文对比: 英语 his/her 无反身形式；`sin/sina` 没有直接对应，是瑞典语独特语法。\n\n## 详细讲解 (Detail)\n\n### 反身 vs 非反身对比\n\n| 句子 | 说明 |\n|------|------|\n| *Anna hälsar på **sin** son.* | Anna 自己的儿子（sin = 反身） |\n| *Anna hälsar på **hans** son.* | 某位男性他人的儿子（hans = 非反身） |\n| *Föräldrarna älskar **sina** barn.* | 父母们自己的孩子（sina = 反身，复数） |\n| *De älskade **varandra** och **sina** barn.* | 他们彼此相爱，和他们自己的孩子 |\n\n### 常见陷阱：主语是 `de` (they)\n\n- `De älskade sina barn.` = 他们爱自己的孩子（sina 指 de 的孩子）\n- `De älskade deras barn.` = 他们爱别人的孩子（deras 指非主语的某些人的孩子）\n\n## 例句 (Examples)\n\n- ✅ [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 Astrid längtade efter **sin** son. 🇨🇳 阿斯特丽德思念**她自己的**儿子。（sin = en-ord，反身）\n- ✅ [[sent-fick-fotbollsskor-trots-mamma]] 🇸🇈 Då fick han **sina** första fotbollsskor. 🇨🇳 那时他得到了**自己的**第一双足球鞋。（sina = plural reflexiv）\n- ✅ [[sent-zlatan-mycket-bra-karriar-mal]] 🇸🇈 Zlatan har gjort mål för **sina** klubblag. 🇨🇳 兹拉坦为**自己的**俱乐部球队进了很多球。（sina = plural reflexiv）\n- ✅ 🇸🇪 Hon mindes **sina** lekar från **sin** barndom. 🇨🇳 她记得**自己的**游戏来自**自己的**童年。（sina = 复数反身；sin = en-ord 反身）\n- ✅ 🇸🇪 Astrids föräldrar visade att de älskade **sina** barn. 🇨🇳 她父母表示他们爱**自己的**孩子。\n- ❌ *Astrid längtade efter **hennes** son.* ← 如果 Astrid 是主语，必须用 sin，hennes 暗示是另一个女性的儿子。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 用 `hans/hennes` 代替 `sin/sitt`（中文/英语母语者的最常见错误）。\n- ⚠️ 混淆 `sin`（en-ord）和 `sitt`（ett-ord）：*sitt hus*（ett hus），*sin bil*（en bil）。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-att-sats]] — att-sats 里的 sin/sina 也遵守同样规则",
       "excerpt": "📗 sin/sitt/sina (reflexivt possessivpronomen) — sin/sitt/sina — 反身所有格 (Reflexive possessive pronouns) 级别: SFI C / CEFR A2 一句话: sin/sitt/sina 表示 主语自己的 （反身）； hans/hennes/deras 表示 别人的 （非反身）。 规则说明 (Rules) 📐 结构公式: 主语 + 动词 +",
       "links": [
         "grammar-att-sats",
-        "sent-eftersom-astrid-var-ensam-kunde-hon"
+        "sent-eftersom-astrid-var-ensam-kunde-hon",
+        "sent-fick-fotbollsskor-trots-mamma",
+        "sent-zlatan-mycket-bra-karriar-mal"
       ],
-      "searchText": "sin/sitt/sina (reflexivt possessivpronomen) grammar-sin-sina knowledge_base/grammar/grammar-sin-sina.md ---\ntype: grammar\nname: \"sin/sitt/sina (reflexivt possessivpronomen)\"\nzh: sin/sitt/sina — 反身所有格\nen: Reflexive possessive pronouns sin/sitt/sina\nlevel: SFI C / CEFR A2\nrelated: [grammar-att-sats]\nexamples: [sent-eftersom-astrid-var-ensam-kunde-hon]\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 sin/sitt/sina (reflexivt possessivpronomen) — sin/sitt/sina — 反身所有格 (Reflexive possessive pronouns)\n\n级别: SFI C / CEFR A2\n一句话: `sin/sitt/sina` 表示**主语自己的**（反身）；`hans/hennes/deras` 表示**别人的**（非反身）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主语 + 动词 + ... + sin/sitt/sina + [属于主语的名词]\n主语 + 动词 + ... + hans/hennes/deras + [属于他人的名词]\n```\n\n**形式变化（跟名词的性/数一致，不跟主语一致）：**\n\n| 名词类型 | 所有格 |\n|----------|--------|\n| en-ord (单数) | sin |\n| ett-ord (单数) | sitt |\n| 复数 | sina |\n\n与中文对比: 中文\"他/她的\"无反身之分；瑞典语**必须**区分\"主语自己的\"vs\"第三人的\"。\n与英文对比: 英语 his/her 无反身形式；`sin/sina` 没有直接对应，是瑞典语独特语法。\n\n## 详细讲解 (Detail)\n\n### 反身 vs 非反身对比\n\n| 句子 | 说明 |\n|------|------|\n| *Anna hälsar på **sin** son.* | Anna 自己的儿子（sin = 反身） |\n| *Anna hälsar på **hans** son.* | 某位男性他人的儿子（hans = 非反身） |\n| *Föräldrarna älskar **sina** barn.* | 父母们自己的孩子（sina = 反身，复数） |\n| *De älskade **varandra** och **sina** barn.* | 他们彼此相爱，和他们自己的孩子 |\n\n### 常见陷阱：主语是 `de` (they)\n\n- `De älskade sina barn.` = 他们爱自己的孩子（sina 指 de 的孩子）\n- `De älskade deras barn.` = 他们爱别人的孩子（deras 指非主语的某些人的孩子）\n\n## 例句 (Examples)\n\n- ✅ [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 Astrid längtade efter **sin** son. 🇨🇳 阿斯特丽德思念**她自己的**儿子。（sin = en-ord，反身）\n- ✅ 🇸🇪 Hon mindes **sina** lekar från **sin** barndom. 🇨🇳 她记得**自己的**游戏来自**自己的**童年。（sina = 复数反身；sin = en-ord 反身）\n- ✅ 🇸🇪 Astrids föräldrar visade att de älskade **sina** barn. 🇨🇳 她父母表示他们爱**自己的**孩子。\n- ❌ *Astrid längtade efter **hennes** son.* ← 如果 Astrid 是主语，必须用 sin，hennes 暗示是另一个女性的儿子。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 用 `hans/hennes` 代替 `sin/sitt`（中文/英语母语者的最常见错误）。\n- ⚠️ 混淆 `sin`（en-ord）和 `sitt`（ett-ord）：*sitt hus*（ett hus），*sin bil*（en bil）。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-att-sats]] — att-sats 里的 sin/sina 也遵守同样规则\n",
+      "searchText": "sin/sitt/sina (reflexivt possessivpronomen) grammar-sin-sina knowledge_base/grammar/grammar-sin-sina.md ---\ntype: grammar\nname: \"sin/sitt/sina (reflexivt possessivpronomen)\"\nzh: sin/sitt/sina — 反身所有格\nen: Reflexive possessive pronouns sin/sitt/sina\nlevel: SFI C / CEFR A2\nrelated: [grammar-att-sats]\nexamples: [sent-eftersom-astrid-var-ensam-kunde-hon, sent-fick-fotbollsskor-trots-mamma, sent-zlatan-mycket-bra-karriar-mal]\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 sin/sitt/sina (reflexivt possessivpronomen) — sin/sitt/sina — 反身所有格 (Reflexive possessive pronouns)\n\n级别: SFI C / CEFR A2\n一句话: `sin/sitt/sina` 表示**主语自己的**（反身）；`hans/hennes/deras` 表示**别人的**（非反身）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主语 + 动词 + ... + sin/sitt/sina + [属于主语的名词]\n主语 + 动词 + ... + hans/hennes/deras + [属于他人的名词]\n```\n\n**形式变化（跟名词的性/数一致，不跟主语一致）：**\n\n| 名词类型 | 所有格 |\n|----------|--------|\n| en-ord (单数) | sin |\n| ett-ord (单数) | sitt |\n| 复数 | sina |\n\n与中文对比: 中文\"他/她的\"无反身之分；瑞典语**必须**区分\"主语自己的\"vs\"第三人的\"。\n与英文对比: 英语 his/her 无反身形式；`sin/sina` 没有直接对应，是瑞典语独特语法。\n\n## 详细讲解 (Detail)\n\n### 反身 vs 非反身对比\n\n| 句子 | 说明 |\n|------|------|\n| *Anna hälsar på **sin** son.* | Anna 自己的儿子（sin = 反身） |\n| *Anna hälsar på **hans** son.* | 某位男性他人的儿子（hans = 非反身） |\n| *Föräldrarna älskar **sina** barn.* | 父母们自己的孩子（sina = 反身，复数） |\n| *De älskade **varandra** och **sina** barn.* | 他们彼此相爱，和他们自己的孩子 |\n\n### 常见陷阱：主语是 `de` (they)\n\n- `De älskade sina barn.` = 他们爱自己的孩子（sina 指 de 的孩子）\n- `De älskade deras barn.` = 他们爱别人的孩子（deras 指非主语的某些人的孩子）\n\n## 例句 (Examples)\n\n- ✅ [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 Astrid längtade efter **sin** son. 🇨🇳 阿斯特丽德思念**她自己的**儿子。（sin = en-ord，反身）\n- ✅ [[sent-fick-fotbollsskor-trots-mamma]] 🇸🇈 Då fick han **sina** första fotbollsskor. 🇨🇳 那时他得到了**自己的**第一双足球鞋。（sina = plural reflexiv）\n- ✅ [[sent-zlatan-mycket-bra-karriar-mal]] 🇸🇈 Zlatan har gjort mål för **sina** klubblag. 🇨🇳 兹拉坦为**自己的**俱乐部球队进了很多球。（sina = plural reflexiv）\n- ✅ 🇸🇪 Hon mindes **sina** lekar från **sin** barndom. 🇨🇳 她记得**自己的**游戏来自**自己的**童年。（sina = 复数反身；sin = en-ord 反身）\n- ✅ 🇸🇪 Astrids föräldrar visade att de älskade **sina** barn. 🇨🇳 她父母表示他们爱**自己的**孩子。\n- ❌ *Astrid längtade efter **hennes** son.* ← 如果 Astrid 是主语，必须用 sin，hennes 暗示是另一个女性的儿子。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 用 `hans/hennes` 代替 `sin/sitt`（中文/英语母语者的最常见错误）。\n- ⚠️ 混淆 `sin`（en-ord）和 `sitt`（ett-ord）：*sitt hus*（ett hus），*sin bil*（en bil）。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-att-sats]] — att-sats 里的 sin/sina 也遵守同样规则\n",
       "name": "sin/sitt/sina (reflexivt possessivpronomen)",
       "zh": "sin/sitt/sina — 反身所有格",
       "en": "Reflexive possessive pronouns sin/sitt/sina",
@@ -667,6 +712,30 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grammar-substantiv-plural",
+      "type": "grammar",
+      "title": "substantiv-plural",
+      "path": "knowledge_base/grammar/grammar-substantiv-plural.md",
+      "body": "# 📗 substantiv-plural — 名词复数 (noun plural declension)\n\n级别: A2\n一句话: 瑞典语名词分五个变格组（deklinationer），复数形式由词尾和性别决定，另有少数不规则形式。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nDekl. 1  (en-ord, -a):   flicka  → flickor\nDekl. 2  (en-ord, -e/-ar): pojke → pojkar   /  arm → armar\nDekl. 3  (en-ord, -er):   stad   → städer\nDekl. 4  (ett-ord, -n):   äpple  → äpplen\nDekl. 5  (ett-ord, -∅):   barn   → barn\n```\n\n与中文对比: 中文名词无复数形式（一个孩子/两个孩子都用\"孩子\"）；瑞典语必须加复数词尾。\n与英文对比: 英文通常加 -s/-es；瑞典语有五种不同词尾，需要分别记忆。\n\n## 详细讲解 (Detail)\n\n### 五个变格组 (Five declensions)\n\n| Dekl. | Genus | Ändelse | Obestämd sg. | Obestämd pl. | Bestämd pl. |\n|-------|-------|---------|--------------|--------------|-------------|\n| 1 | en-ord | -or | en flicka | flickor | flickorna |\n| 2 | en-ord | -ar / -er | en pojke | pojkar | pojkarna |\n| 2 | en-ord | -ar | en arm | armar | armarna |\n| 3 | en-ord | -er | en stad | städer | städerna |\n| 4 | ett-ord | -n | ett äpple | äpplen | äpplena |\n| 5 | ett-ord | -∅ | ett barn | barn | barnen |\n\n> Tips: de flesta en-ord med kortstavelse får `-or` (dekl. 1); de flesta ett-ord med -e slutar på `-n` (dekl. 4).\n\n### Oregelbundna plural (Irregular plurals)\n\n| Grundform | Plural | Kommentar |\n|-----------|--------|-----------|\n| man | män | vokalomljud (a → ä) |\n| bror | bröder | vokalomljud (o → ö) |\n| mor | mödrar | vokalomljud (o → ö) |\n| far | fäder | vokalomljud (a → ä) |\n| hand | händer | vokalomljud (a → ä) |\n| fot | fötter | vokalomljud (o → ö) + dubbelkonsonant |\n| mus | möss | vokalomljud (u → ö) + ss |\n\n### Sammansatta ord (Compound nouns)\nCompound nouns take plural on the last component:\n- `busshållplats` → `busshållplatser`\n- `barnboksförfattare` → `barnboksförfattare` (dekl. 5 agent-nouns)\n\n## 例句 (Examples)\n\n- ✅ [[barn]] 🇸🇪 Det finns många **barn** på lekplatsen. 🇨🇳 操场上有很多孩子。\n- ✅ [[man]] 🇸🇪 Tre **män** väntar vid busshållplatsen. 🇨🇳 三个男人在公共汽车站等候。\n- ❌ *tre mans* ← oregelbunden plural av `man` är `män`, inte `mans`\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ `mans` för plural av `man` → ska vara `**män**`\n- ⚠️ `brors` eller `brorrar` → ska vara `**bröder**`\n- ⚠️ `ett-ord` dekl. 5: `barn → barns` (felaktig) → plural är `**barn**` (oförändrat)\n- ⚠️ Blandar ihop `-ar` och `-or`: `flickar` → ska vara `**flickor**` (dekl. 1)\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bestämd-form]] — bestämd plural form (-na/-en/-a)\n- 📎 [[grammar-adjektiv-bojning]] — adjective agreement with plural nouns",
+      "excerpt": "📗 substantiv plural — 名词复数 (noun plural declension) 级别: A2 一句话: 瑞典语名词分五个变格组（deklinationer），复数形式由词尾和性别决定，另有少数不规则形式。 规则说明 (Rules) 📐 结构公式: Dekl. 1 (en ord, a): flicka → flickor Dekl. 2 (en ord, e/ ar): pojke → pojkar / ar",
+      "links": [
+        "barn",
+        "grammar-adjektiv-bojning",
+        "grammar-bestämd-form",
+        "man"
+      ],
+      "searchText": "substantiv-plural grammar-substantiv-plural knowledge_base/grammar/grammar-substantiv-plural.md ---\ntype: grammar\nname: \"substantiv-plural\"\nzh: \"名词复数\"\nen: \"noun plural declension\"\nlevel: \"A2\"\nrelated: [\"grammar-bestämd-form\", \"grammar-adjektiv-bojning\"]\nexamples: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 substantiv-plural — 名词复数 (noun plural declension)\n\n级别: A2\n一句话: 瑞典语名词分五个变格组（deklinationer），复数形式由词尾和性别决定，另有少数不规则形式。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nDekl. 1  (en-ord, -a):   flicka  → flickor\nDekl. 2  (en-ord, -e/-ar): pojke → pojkar   /  arm → armar\nDekl. 3  (en-ord, -er):   stad   → städer\nDekl. 4  (ett-ord, -n):   äpple  → äpplen\nDekl. 5  (ett-ord, -∅):   barn   → barn\n```\n\n与中文对比: 中文名词无复数形式（一个孩子/两个孩子都用\"孩子\"）；瑞典语必须加复数词尾。\n与英文对比: 英文通常加 -s/-es；瑞典语有五种不同词尾，需要分别记忆。\n\n## 详细讲解 (Detail)\n\n### 五个变格组 (Five declensions)\n\n| Dekl. | Genus | Ändelse | Obestämd sg. | Obestämd pl. | Bestämd pl. |\n|-------|-------|---------|--------------|--------------|-------------|\n| 1 | en-ord | -or | en flicka | flickor | flickorna |\n| 2 | en-ord | -ar / -er | en pojke | pojkar | pojkarna |\n| 2 | en-ord | -ar | en arm | armar | armarna |\n| 3 | en-ord | -er | en stad | städer | städerna |\n| 4 | ett-ord | -n | ett äpple | äpplen | äpplena |\n| 5 | ett-ord | -∅ | ett barn | barn | barnen |\n\n> Tips: de flesta en-ord med kortstavelse får `-or` (dekl. 1); de flesta ett-ord med -e slutar på `-n` (dekl. 4).\n\n### Oregelbundna plural (Irregular plurals)\n\n| Grundform | Plural | Kommentar |\n|-----------|--------|-----------|\n| man | män | vokalomljud (a → ä) |\n| bror | bröder | vokalomljud (o → ö) |\n| mor | mödrar | vokalomljud (o → ö) |\n| far | fäder | vokalomljud (a → ä) |\n| hand | händer | vokalomljud (a → ä) |\n| fot | fötter | vokalomljud (o → ö) + dubbelkonsonant |\n| mus | möss | vokalomljud (u → ö) + ss |\n\n### Sammansatta ord (Compound nouns)\nCompound nouns take plural on the last component:\n- `busshållplats` → `busshållplatser`\n- `barnboksförfattare` → `barnboksförfattare` (dekl. 5 agent-nouns)\n\n## 例句 (Examples)\n\n- ✅ [[barn]] 🇸🇪 Det finns många **barn** på lekplatsen. 🇨🇳 操场上有很多孩子。\n- ✅ [[man]] 🇸🇪 Tre **män** väntar vid busshållplatsen. 🇨🇳 三个男人在公共汽车站等候。\n- ❌ *tre mans* ← oregelbunden plural av `man` är `män`, inte `mans`\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ `mans` för plural av `man` → ska vara `**män**`\n- ⚠️ `brors` eller `brorrar` → ska vara `**bröder**`\n- ⚠️ `ett-ord` dekl. 5: `barn → barns` (felaktig) → plural är `**barn**` (oförändrat)\n- ⚠️ Blandar ihop `-ar` och `-or`: `flickar` → ska vara `**flickor**` (dekl. 1)\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bestämd-form]] — bestämd plural form (-na/-en/-a)\n- 📎 [[grammar-adjektiv-bojning]] — adjective agreement with plural nouns\n",
+      "name": "substantiv-plural",
+      "zh": "名词复数",
+      "en": "noun plural declension",
+      "created": "2026-06-10",
+      "known": false,
+      "backlinks": [
+        "grammar-adjektiv-bojning",
+        "source-2026-06-10-personer-bojning"
+      ]
+    },
+    {
       "slug": "grammar-utan-vs-men",
       "type": "grammar",
       "title": "utan vs. men",
@@ -696,18 +765,22 @@ window.KB_DATA = {
       "type": "grammar",
       "title": "V2-ordföljd",
       "path": "knowledge_base/grammar/grammar-v2-ordfoljd.md",
-      "body": "# 📗 V2-ordföljd — V2 语序（动词第二位） (V2 word order)\n\n级别: SFI A / CEFR A1\n一句话: 瑞典语主句 (huvudsats) 里，**变位动词永远排在第二位**。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[位置1: 任意一个成分] [位置2: 变位动词] [主语(若不在位置1)] [其余成分]\n```\n\n- 与中文对比: 中文动词不挪位；瑞典语只要句首不是主语，主谓就要**倒装**。\n- 与英文对比: 英语只有疑问句/部分倒装才动词前移；瑞典语**所有陈述主句**都遵守 V2。\n\n## 详细讲解 (Detail)\n\n位置1 可以放主语、时间、地点等任意**一个**成分。无论放什么，动词都钉在位置2，主语随之后移。\n\n## 例句 (Examples)\n\n- ✅ [[sent-jag-arbetar-pa-ett-sjukhus]] 🇸🇪 Jag arbetar på ett sjukhus. 🇨🇳 我在医院工作。（位置1=主语）\n- ✅ 🇸🇪 **Idag** arbetar jag hemma. 🇨🇳 今天我在家工作。（位置1=时间 → 倒装 arbetar jag）\n- ✅ [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 **Eftersom Astrid var ensam** kunde hon inte ta hand om barnet. 🇨🇳 因为...（位置1=eftersom-从句 → 倒装 kunde hon）\n- ✅ [[sent-de-forstod-ocksa-att-barn-behover-leka]] 🇸🇪 De förstod också att barn behöver leka. 🇨🇳 他们也理解...（位置1=主语 De，正常语序）\n- ❌ Idag jag arbetar hemma. ← 忘记倒装，动词跑到第3位\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 句首加时间/地点状语后忘记主谓倒装（受中英语序影响）。\n  正确: *Igår **köpte jag** en bok.*（不是 *Igår jag köpte…*）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats-biff]] — 从句语序不同（BIFF：bisats 里 inte 在动词前）*(待建)*\n- 📎 [[grammar-bisats-eftersom]] — `eftersom` 从句在句首时的 V2 倒装\n- 📎 [[grammar-att-sats]] — att-sats（宾语从句）内部不使用 V2\n- 📎 [[grammar-konditionell-topikalisering]] — 条件倒装（省略 om 的条件从句，主句仍 V2）",
+      "body": "# 📗 V2-ordföljd — V2 语序（动词第二位） (V2 word order)\n\n级别: SFI A / CEFR A1\n一句话: 瑞典语主句 (huvudsats) 里，**变位动词永远排在第二位**。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[位置1: 任意一个成分] [位置2: 变位动词] [主语(若不在位置1)] [其余成分]\n```\n\n- 与中文对比: 中文动词不挪位；瑞典语只要句首不是主语，主谓就要**倒装**。\n- 与英文对比: 英语只有疑问句/部分倒装才动词前移；瑞典语**所有陈述主句**都遵守 V2。\n\n## 详细讲解 (Detail)\n\n位置1 可以放主语、时间、地点等任意**一个**成分。无论放什么，动词都钉在位置2，主语随之后移。\n\n## 例句 (Examples)\n\n- ✅ [[sent-jag-arbetar-pa-ett-sjukhus]] 🇸🇪 Jag arbetar på ett sjukhus. 🇨🇳 我在医院工作。（位置1=主语）\n- ✅ 🇸🇪 **Idag** arbetar jag hemma. 🇨🇳 今天我在家工作。（位置1=时间 → 倒装 arbetar jag）\n- ✅ [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 **Eftersom Astrid var ensam** kunde hon inte ta hand om barnet. 🇨🇳 因为...（位置1=eftersom-从句 → 倒装 kunde hon）\n- ✅ [[sent-de-forstod-ocksa-att-barn-behover-leka]] 🇸🇪 De förstod också att barn behöver leka. 🇨🇳 他们也理解...（位置1=主语 De，正常语序）\n- ✅ [[sent-sedan-tog-jag-tunnelbanan-in-till-stan]] 🇸🇈 **Sedan** **tog** jag tunnelbanan in till stan. 🇨🇳 然后我坐地铁进了城。（时间副词 Sedan → 倒装 tog jag）\n- ✅ [[sent-plotsligt-kande-jag-mig-valdigt-orolig]] 🇸🇈 **Plötsligt** **kände** jag mig väldigt orolig. 🇨🇳 我突然感到非常担心。（副词 Plötsligt → 倒装）\n- ✅ [[sent-antligen-kunde-jag-andas-ut]] 🇸🇈 **Äntligen** **kunde** jag andas ut. 🇨🇳 终于，我可以松一口气了。（副词 Äntligen → 倒装）\n- ✅ [[sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort]] 🇸🇈 **Medan jag väntade** **ringde** jag till banken. 🇨🇳 等候期间，我给银行打了电话。（时间从句前置 → 主句倒装）\n- ❌ Idag jag arbetar hemma. ← 忘记倒装，动词跑到第3位\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 句首加时间/地点状语后忘记主谓倒装（受中英语序影响）。\n  正确: *Igår **köpte jag** en bok.*（不是 *Igår jag köpte…*）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats-biff]] — 从句语序不同（BIFF：bisats 里 inte 在动词前）*(待建)*\n- 📎 [[grammar-bisats-eftersom]] — `eftersom` 从句在句首时的 V2 倒装\n- 📎 [[grammar-att-sats]] — att-sats（宾语从句）内部不使用 V2\n- 📎 [[grammar-konditionell-topikalisering]] — 条件倒装（省略 om 的条件从句，主句仍 V2）",
       "excerpt": "📗 V2 ordföljd — V2 语序（动词第二位） (V2 word order) 级别: SFI A / CEFR A1 一句话: 瑞典语主句 (huvudsats) 里， 变位动词永远排在第二位 。 规则说明 (Rules) 📐 结构公式: [位置1: 任意一个成分] [位置2: 变位动词] [主语(若不在位置1)] [其余成分] 与中文对比: 中文动词不挪位；瑞典语只要句首不是主语，主谓就要 倒装 。 与英文对比: 英语",
       "links": [
         "grammar-att-sats",
         "grammar-bisats-biff",
         "grammar-bisats-eftersom",
         "grammar-konditionell-topikalisering",
+        "sent-antligen-kunde-jag-andas-ut",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-eftersom-astrid-var-ensam-kunde-hon",
-        "sent-jag-arbetar-pa-ett-sjukhus"
+        "sent-jag-arbetar-pa-ett-sjukhus",
+        "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
+        "sent-plotsligt-kande-jag-mig-valdigt-orolig",
+        "sent-sedan-tog-jag-tunnelbanan-in-till-stan"
       ],
-      "searchText": "V2-ordföljd grammar-v2-ordfoljd knowledge_base/grammar/grammar-v2-ordfoljd.md ---\ntype: grammar\nname: V2-ordföljd\nzh: V2 语序（动词第二位）\nen: V2 word order\nlevel: SFI A / CEFR A1\nrelated: [grammar-bisats-biff, grammar-bisats-eftersom, grammar-att-sats, grammar-konditionell-topikalisering]\nexamples: [sent-jag-arbetar-pa-ett-sjukhus, sent-eftersom-astrid-var-ensam-kunde-hon, sent-de-forstod-ocksa-att-barn-behover-leka, sent-de-var-oroliga-att-barn-som-laste-om-pippi]\nknown: false\ncreated: 2026-06-02\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 V2-ordföljd — V2 语序（动词第二位） (V2 word order)\n\n级别: SFI A / CEFR A1\n一句话: 瑞典语主句 (huvudsats) 里，**变位动词永远排在第二位**。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[位置1: 任意一个成分] [位置2: 变位动词] [主语(若不在位置1)] [其余成分]\n```\n\n- 与中文对比: 中文动词不挪位；瑞典语只要句首不是主语，主谓就要**倒装**。\n- 与英文对比: 英语只有疑问句/部分倒装才动词前移；瑞典语**所有陈述主句**都遵守 V2。\n\n## 详细讲解 (Detail)\n\n位置1 可以放主语、时间、地点等任意**一个**成分。无论放什么，动词都钉在位置2，主语随之后移。\n\n## 例句 (Examples)\n\n- ✅ [[sent-jag-arbetar-pa-ett-sjukhus]] 🇸🇪 Jag arbetar på ett sjukhus. 🇨🇳 我在医院工作。（位置1=主语）\n- ✅ 🇸🇪 **Idag** arbetar jag hemma. 🇨🇳 今天我在家工作。（位置1=时间 → 倒装 arbetar jag）\n- ✅ [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 **Eftersom Astrid var ensam** kunde hon inte ta hand om barnet. 🇨🇳 因为...（位置1=eftersom-从句 → 倒装 kunde hon）\n- ✅ [[sent-de-forstod-ocksa-att-barn-behover-leka]] 🇸🇪 De förstod också att barn behöver leka. 🇨🇳 他们也理解...（位置1=主语 De，正常语序）\n- ❌ Idag jag arbetar hemma. ← 忘记倒装，动词跑到第3位\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 句首加时间/地点状语后忘记主谓倒装（受中英语序影响）。\n  正确: *Igår **köpte jag** en bok.*（不是 *Igår jag köpte…*）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats-biff]] — 从句语序不同（BIFF：bisats 里 inte 在动词前）*(待建)*\n- 📎 [[grammar-bisats-eftersom]] — `eftersom` 从句在句首时的 V2 倒装\n- 📎 [[grammar-att-sats]] — att-sats（宾语从句）内部不使用 V2\n- 📎 [[grammar-konditionell-topikalisering]] — 条件倒装（省略 om 的条件从句，主句仍 V2）\n",
+      "searchText": "V2-ordföljd grammar-v2-ordfoljd knowledge_base/grammar/grammar-v2-ordfoljd.md ---\ntype: grammar\nname: V2-ordföljd\nzh: V2 语序（动词第二位）\nen: V2 word order\nlevel: SFI A / CEFR A1\nrelated: [grammar-bisats-biff, grammar-bisats-eftersom, grammar-att-sats, grammar-konditionell-topikalisering, grammar-det-finns, grammar-prepositioner-rum]\nexamples: [sent-jag-arbetar-pa-ett-sjukhus, sent-eftersom-astrid-var-ensam-kunde-hon, sent-de-forstod-ocksa-att-barn-behover-leka, sent-de-var-oroliga-att-barn-som-laste-om-pippi, sent-sangens-star-langs-vaggen-under-sangen, sent-pa-sangen-ligger-en-kudde-och-en-filt, sent-bredvid-sangen-star-ett-litet-nattduksbord, sent-till-hoger-om-soffan-star-bokhylla, sent-sedan-tog-jag-tunnelbanan-in-till-stan, sent-vid-halv-nio-kom-jag-fram-till-centralstationen, sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex, sent-plotsligt-kande-jag-mig-valdigt-orolig, sent-antligen-kunde-jag-andas-ut, sent-till-slut-var-allt-bra-igen, sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort]\nknown: false\ncreated: 2026-06-02\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 V2-ordföljd — V2 语序（动词第二位） (V2 word order)\n\n级别: SFI A / CEFR A1\n一句话: 瑞典语主句 (huvudsats) 里，**变位动词永远排在第二位**。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[位置1: 任意一个成分] [位置2: 变位动词] [主语(若不在位置1)] [其余成分]\n```\n\n- 与中文对比: 中文动词不挪位；瑞典语只要句首不是主语，主谓就要**倒装**。\n- 与英文对比: 英语只有疑问句/部分倒装才动词前移；瑞典语**所有陈述主句**都遵守 V2。\n\n## 详细讲解 (Detail)\n\n位置1 可以放主语、时间、地点等任意**一个**成分。无论放什么，动词都钉在位置2，主语随之后移。\n\n## 例句 (Examples)\n\n- ✅ [[sent-jag-arbetar-pa-ett-sjukhus]] 🇸🇪 Jag arbetar på ett sjukhus. 🇨🇳 我在医院工作。（位置1=主语）\n- ✅ 🇸🇪 **Idag** arbetar jag hemma. 🇨🇳 今天我在家工作。（位置1=时间 → 倒装 arbetar jag）\n- ✅ [[sent-eftersom-astrid-var-ensam-kunde-hon]] 🇸🇪 **Eftersom Astrid var ensam** kunde hon inte ta hand om barnet. 🇨🇳 因为...（位置1=eftersom-从句 → 倒装 kunde hon）\n- ✅ [[sent-de-forstod-ocksa-att-barn-behover-leka]] 🇸🇪 De förstod också att barn behöver leka. 🇨🇳 他们也理解...（位置1=主语 De，正常语序）\n- ✅ [[sent-sedan-tog-jag-tunnelbanan-in-till-stan]] 🇸🇈 **Sedan** **tog** jag tunnelbanan in till stan. 🇨🇳 然后我坐地铁进了城。（时间副词 Sedan → 倒装 tog jag）\n- ✅ [[sent-plotsligt-kande-jag-mig-valdigt-orolig]] 🇸🇈 **Plötsligt** **kände** jag mig väldigt orolig. 🇨🇳 我突然感到非常担心。（副词 Plötsligt → 倒装）\n- ✅ [[sent-antligen-kunde-jag-andas-ut]] 🇸🇈 **Äntligen** **kunde** jag andas ut. 🇨🇳 终于，我可以松一口气了。（副词 Äntligen → 倒装）\n- ✅ [[sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort]] 🇸🇈 **Medan jag väntade** **ringde** jag till banken. 🇨🇳 等候期间，我给银行打了电话。（时间从句前置 → 主句倒装）\n- ❌ Idag jag arbetar hemma. ← 忘记倒装，动词跑到第3位\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 句首加时间/地点状语后忘记主谓倒装（受中英语序影响）。\n  正确: *Igår **köpte jag** en bok.*（不是 *Igår jag köpte…*）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats-biff]] — 从句语序不同（BIFF：bisats 里 inte 在动词前）*(待建)*\n- 📎 [[grammar-bisats-eftersom]] — `eftersom` 从句在句首时的 V2 倒装\n- 📎 [[grammar-att-sats]] — att-sats（宾语从句）内部不使用 V2\n- 📎 [[grammar-konditionell-topikalisering]] — 条件倒装（省略 om 的条件从句，主句仍 V2）\n",
       "name": "V2-ordföljd",
       "zh": "V2 语序（动词第二位）",
       "en": "V2 word order",
@@ -1060,12 +1133,13 @@ window.KB_DATA = {
       "type": "phrase",
       "title": "bland annat",
       "path": "knowledge_base/phrases/bland-annat.md",
-      "body": "# bland annat\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 其中/等等/另外 · 🇬🇧 among other things, including\n📝 字面: among other\n\n## 用法说明 (Usage)\n\n- 用于列举时引入例子，表示\"其中有……（但还有其他）\"。\n- 常缩写为 **bl.a.**（书面语）。\n- 结构：[verb] + bland annat + [例子]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 缩写 **bl.a.** — 书面语常见\n- 🔗 [[annan]] (头词)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 *Hon skrev **bland annat** böckerna om Emil i Lönneberga och Pippi Långstrump.*\n  🇨🇳 她写了包括《长袜子皮皮》和《埃米尔》在内的许多书。",
+      "body": "# bland annat\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 其中/等等/另外 · 🇬🇧 among other things, including\n📝 字面: among other\n\n## 用法说明 (Usage)\n\n- 用于列举时引入例子，表示\"其中有……（但还有其他）\"。\n- 常缩写为 **bl.a.**（书面语）。\n- 结构：[verb] + bland annat + [例子]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 缩写 **bl.a.** — 书面语常见\n- 🔗 [[annan]] (头词)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇈 *Hon skrev **bland annat** böckerna om Emil i Lönneberga och Pippi Långstrump.*\n  🇨🇳 她写了包括《长袜子皮皮》和《埃米尔》在内的许多书。\n- 🇸🇈 Zlatan har spelat för **bland annat** Ajax, Inter och Barcelona.\n  🇨🇳 兹拉坦曾效力于阿贾克斯、国际米兰和巴塞罗那等球队。\n- 来源: [[source-2026-06-09-zlatan-bio]]",
       "excerpt": "bland annat 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 5/5 🇨🇳 其中/等等/另外 · 🇬🇧 among other things, including 📝 字面: among other 用法说明 (Usage) 用于列举时引入例子，表示\"其中有……（但还有其他）\"。 常缩写为 bl.a. （书面语）。 结构：[verb] + bland annat + [例子] 变",
       "links": [
-        "annan"
+        "annan",
+        "source-2026-06-09-zlatan-bio"
       ],
-      "searchText": "bland annat bland-annat knowledge_base/phrases/bland-annat.md ---\ntype: phrase\nphrase: \"bland annat\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 5\nzh: 其中/等等/另外\nen: among other things, including\nliteral: \"among other\"\nhead_words: [annan]\ngrammar: []\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bland annat\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 其中/等等/另外 · 🇬🇧 among other things, including\n📝 字面: among other\n\n## 用法说明 (Usage)\n\n- 用于列举时引入例子，表示\"其中有……（但还有其他）\"。\n- 常缩写为 **bl.a.**（书面语）。\n- 结构：[verb] + bland annat + [例子]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 缩写 **bl.a.** — 书面语常见\n- 🔗 [[annan]] (头词)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 *Hon skrev **bland annat** böckerna om Emil i Lönneberga och Pippi Långstrump.*\n  🇨🇳 她写了包括《长袜子皮皮》和《埃米尔》在内的许多书。\n",
+      "searchText": "bland annat bland-annat knowledge_base/phrases/bland-annat.md ---\ntype: phrase\nphrase: \"bland annat\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 5\nzh: 其中/等等/另外\nen: among other things, including\nliteral: \"among other\"\nhead_words: [annan]\ngrammar: []\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bland annat\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 其中/等等/另外 · 🇬🇧 among other things, including\n📝 字面: among other\n\n## 用法说明 (Usage)\n\n- 用于列举时引入例子，表示\"其中有……（但还有其他）\"。\n- 常缩写为 **bl.a.**（书面语）。\n- 结构：[verb] + bland annat + [例子]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 缩写 **bl.a.** — 书面语常见\n- 🔗 [[annan]] (头词)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇈 *Hon skrev **bland annat** böckerna om Emil i Lönneberga och Pippi Långstrump.*\n  🇨🇳 她写了包括《长袜子皮皮》和《埃米尔》在内的许多书。\n- 🇸🇈 Zlatan har spelat för **bland annat** Ajax, Inter och Barcelona.\n  🇨🇳 兹拉坦曾效力于阿贾克斯、国际米兰和巴塞罗那等球队。\n- 来源: [[source-2026-06-09-zlatan-bio]]\n",
       "zh": "其中/等等/另外",
       "en": "among other things, including",
       "created": "2026-06-02",
@@ -2491,14 +2565,15 @@ window.KB_DATA = {
         "sent-sen-gar-du-rakt-fram-langs-vattnet",
         "till-vänster"
       ],
-      "searchText": "rakt fram rakt-fram knowledge_base/phrases/rakt-fram.md ---\ntype: phrase\nphrase: \"rakt fram\"\ncategory: prepositionsuttryck\nregister: vardagligt\nfrequency: 5\nzh: \"直走\"\nen: \"straight ahead\"\nliteral: \"straight forward\"\nhead_words:\n  - rakt\ngrammar: []\nrelated:\n  - till-vänster\n  - på-höger-sida\n  - mot-söder\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rakt fram\n\n🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 直走 · 🇬🇧 straight ahead\n📝 字面: straight forward\n\n## 用法说明 (Usage)\n\n- 问路最基础的方向短语：*Gå rakt fram* = 直走。\n- `fram` 表示\"向前\"，`rakt` 修饰它表示\"笔直地\"。\n- 也可说 `rakt fram och sedan till vänster`（直走然后向左转）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[rakt]] 副词 + [[fram]] 副词（方向组合）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `gå rakt` — 直走（更简短）\n- 🔄 `fortsätt rakt fram` — 继续直走\n- 🔗 [[till-vänster]], [[på-höger-sida]], [[mot-söder]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n",
+      "searchText": "rakt fram rakt-fram knowledge_base/phrases/rakt-fram.md ---\ntype: phrase\nphrase: \"rakt fram\"\ncategory: prepositionsuttryck\nregister: vardagligt\nfrequency: 5\nzh: \"直走\"\nen: \"straight ahead\"\nliteral: \"straight forward\"\nhead_words:\n  - rakt\ngrammar: []\nrelated:\n  - till-vänster\n  - på-höger-sida\n  - mot-söder\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\n  - sent-rakt-fram-ser-jag-ett-torg\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rakt fram\n\n🗣️ 类型: prepositionsuttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 直走 · 🇬🇧 straight ahead\n📝 字面: straight forward\n\n## 用法说明 (Usage)\n\n- 问路最基础的方向短语：*Gå rakt fram* = 直走。\n- `fram` 表示\"向前\"，`rakt` 修饰它表示\"笔直地\"。\n- 也可说 `rakt fram och sedan till vänster`（直走然后向左转）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[rakt]] 副词 + [[fram]] 副词（方向组合）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `gå rakt` — 直走（更简短）\n- 🔄 `fortsätt rakt fram` — 继续直走\n- 🔗 [[till-vänster]], [[på-höger-sida]], [[mot-söder]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n",
       "zh": "直走",
       "en": "straight ahead",
       "created": "2026-06-03",
       "known": false,
       "phrase": "rakt fram",
       "sentences": [
-        "sent-sen-gar-du-rakt-fram-langs-vattnet"
+        "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "sent-rakt-fram-ser-jag-ett-torg"
       ],
       "grammar": [],
       "topics": [
@@ -3513,6 +3588,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "andas-ut",
+        "grammar-v2-ordfoljd",
         "source-2026-06-09-en-handelse-i-tidsordning"
       ]
     },
@@ -3934,6 +4010,7 @@ window.KB_DATA = {
       "backlinks": [
         "anmäla-förlusten",
         "efter-det",
+        "grammar-preteritum",
         "source-2026-06-09-en-handelse-i-tidsordning"
       ]
     },
@@ -4102,6 +4179,8 @@ window.KB_DATA = {
       ],
       "topics": [],
       "backlinks": [
+        "grammar-bisats-biff",
+        "grammar-sin-sina",
         "ha-rad-att",
         "trots_att",
         "trots-att"
@@ -4348,6 +4427,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "ga-klart-i",
+        "grammar-preteritum",
         "grammar-utan-vs-men",
         "istallet-for",
         "satsa",
@@ -4421,7 +4501,9 @@ window.KB_DATA = {
         "topic-fotboll"
       ],
       "backlinks": [
-        "föda"
+        "föda",
+        "grammar-passiv-med-s",
+        "grammar-preteritum"
       ]
     },
     {
@@ -4941,6 +5023,7 @@ window.KB_DATA = {
         "topic-vardagsrutin"
       ],
       "backlinks": [
+        "grammar-preteritum",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "stiga-upp"
       ]
@@ -5202,6 +5285,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "grammar-bisats-tidskonnektor",
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "spärra-kort"
       ]
@@ -5342,6 +5427,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "grammar-ligga-sta-sitta",
+        "hänga",
         "på-väggen",
         "source-2026-06-09-rumsliga-relationer"
       ]
@@ -5564,6 +5650,7 @@ window.KB_DATA = {
         "topic-vardagsrutin"
       ],
       "backlinks": [
+        "grammar-preteritum",
         "lägga-sig",
         "på-kvällen",
         "source-2026-06-09-en-handelse-i-tidsordning"
@@ -5609,6 +5696,7 @@ window.KB_DATA = {
         "topic-tid-och-tidsuttryck"
       ],
       "backlinks": [
+        "grammar-preteritum",
         "klockan-sex",
         "på-morgonen",
         "source-2026-06-09-en-handelse-i-tidsordning"
@@ -5861,6 +5949,8 @@ window.KB_DATA = {
         "topic-vardagsrutin"
       ],
       "backlinks": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd",
         "source-2026-06-09-en-handelse-i-tidsordning"
       ]
     },
@@ -6060,6 +6150,8 @@ window.KB_DATA = {
         "topic-kollektivtrafik"
       ],
       "backlinks": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "ta-tunnelbanan"
       ]
@@ -6309,6 +6401,7 @@ window.KB_DATA = {
         "topic-rumsliga-relationer"
       ],
       "backlinks": [
+        "hänga",
         "mitt-emot-soffan",
         "på-väggen",
         "source-2026-06-09-rumsliga-relationer"
@@ -6963,6 +7056,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "gora-mal",
+        "grammar-sin-sina",
         "lag",
         "lagkamrat",
         "landslag"
@@ -6998,6 +7092,7 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
+        "grammar-preteritum",
         "svår"
       ]
     },
@@ -7838,6 +7933,7 @@ window.KB_DATA = {
         "fisk",
         "gammal",
         "get",
+        "grå",
         "gris",
         "groda",
         "gullig",
@@ -7859,6 +7955,7 @@ window.KB_DATA = {
         "snabb",
         "snäll",
         "spindel",
+        "stark",
         "stor",
         "svart",
         "tam",
@@ -8704,6 +8801,10 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "älska",
+        "arg",
+        "barndom",
+        "berätta",
+        "bland-annat",
         "bli-arg-pa-ngn",
         "bråka",
         "det-gick-bra-for-honom",
@@ -8716,6 +8817,7 @@ window.KB_DATA = {
         "gora-mal",
         "ha-rad-att",
         "handla-om",
+        "hungrig",
         "istallet-for",
         "känd",
         "lag",
@@ -8725,6 +8827,7 @@ window.KB_DATA = {
         "nederländsk",
         "plats",
         "proffs",
+        "råd",
         "sambo",
         "satsa",
         "satsa-pa",
@@ -8736,14 +8839,77 @@ window.KB_DATA = {
         "sent-zlatan-mycket-bra-karriar-mal",
         "sent-zlatans-barndom-var-svar",
         "skilja_sig",
+        "snäll",
         "snall-mot-ngn",
         "svår",
+        "syskon",
         "ta-en-plats",
+        "topic-familj-och-barn",
         "topic-fotboll",
+        "topic-yrken",
         "trivas",
         "trots_att",
         "trots-att"
       ]
+    },
+    {
+      "slug": "source-2026-06-10-personer-bojning",
+      "type": "source",
+      "title": "Adjektiv+substantiv böjning — Personer",
+      "path": "knowledge_base/sources/source-2026-06-10-personer-bojning.md",
+      "body": "# 📄 Adjektiv+substantiv böjning — Personer (人物)\n\n类型: drill (adjektiv + substantiv 四式变形) · 难度: A1-A2 · 来源: 每日 /adjsubst 生成\n\n## 原文 (Source Text)\n\n25 组 adj + substantiv（人物主题）四式变形练习。完整复习表见\n`inbox/adjsubst-2026-06-10-personer.md`。本笔记记录从该页导入的词条。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: 见下方 frontmatter `words:`（由 librarian 填充）\n- 语法: [[grammar-adjektiv-bojning]] · [[grammar-substantiv-plural]]",
+      "excerpt": "📄 Adjektiv+substantiv böjning — Personer (人物) 类型: drill (adjektiv + substantiv 四式变形) · 难度: A1 A2 · 来源: 每日 /adjsubst 生成 原文 (Source Text) 25 组 adj + substantiv（人物主题）四式变形练习。完整复习表见 inbox/adjsubst 2026 06 10 personer.md 。本笔记",
+      "links": [
+        "grammar-adjektiv-bojning",
+        "grammar-substantiv-plural"
+      ],
+      "searchText": "Adjektiv+substantiv böjning — Personer source-2026-06-10-personer-bojning knowledge_base/sources/source-2026-06-10-personer-bojning.md ---\ntype: source\ntitle: \"Adjektiv+substantiv böjning — Personer\"\nkind: drill\ncefr: A1-A2\ndate_added: 2026-06-10\nwords:\n  - man\n  - vänlig\n  - kvinna\n  - glad\n  - pojke\n  - blyg\n  - flicka\n  - barn\n  - god\n  - mamma\n  - lång\n  - pappa\n  - syster\n  - bror\n  - granne\n  - person\n  - söt\n  - tjej\n  - stilig\n  - kille\n  - rolig\n  - kompis\n  - välkommen\n  - gäst\n  - familj\n  - elegant\n  - herre\n  - rik\n  - dam\n  - okänd\n  - främling\n  - par\n  - stolt\n  - förälder\n  - modern\n  - nyfödd\n  - bebis\nphrases: []\nsentences: []\ngrammar: []\n---\n\n# 📄 Adjektiv+substantiv böjning — Personer (人物)\n\n类型: drill (adjektiv + substantiv 四式变形) · 难度: A1-A2 · 来源: 每日 /adjsubst 生成\n\n## 原文 (Source Text)\n\n25 组 adj + substantiv（人物主题）四式变形练习。完整复习表见\n`inbox/adjsubst-2026-06-10-personer.md`。本笔记记录从该页导入的词条。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: 见下方 frontmatter `words:`（由 librarian 填充）\n- 语法: [[grammar-adjektiv-bojning]] · [[grammar-substantiv-plural]]\n",
+      "cefr": "A1-A2",
+      "date_added": "2026-06-10",
+      "kind": "drill",
+      "words": [
+        "man",
+        "vänlig",
+        "kvinna",
+        "glad",
+        "pojke",
+        "blyg",
+        "flicka",
+        "barn",
+        "god",
+        "mamma",
+        "lång",
+        "pappa",
+        "syster",
+        "bror",
+        "granne",
+        "person",
+        "söt",
+        "tjej",
+        "stilig",
+        "kille",
+        "rolig",
+        "kompis",
+        "välkommen",
+        "gäst",
+        "familj",
+        "elegant",
+        "herre",
+        "rik",
+        "dam",
+        "okänd",
+        "främling",
+        "par",
+        "stolt",
+        "förälder",
+        "modern",
+        "nyfödd",
+        "bebis"
+      ],
+      "phrases": [],
+      "sentences": [],
+      "grammar": [],
+      "backlinks": []
     },
     {
       "slug": "topic-arbete",
@@ -8857,6 +9023,7 @@ window.KB_DATA = {
         "fisk",
         "gammal",
         "get",
+        "grå",
         "gris",
         "groda",
         "gullig",
@@ -8879,11 +9046,13 @@ window.KB_DATA = {
         "snäll",
         "source-2026-06-08-djur",
         "spindel",
+        "stark",
         "stor",
         "svart",
         "tam",
         "tiger",
         "tjock",
+        "topic-kropp",
         "trogen",
         "ung",
         "vacker",
@@ -8897,28 +9066,12 @@ window.KB_DATA = {
       "type": "topic",
       "title": "familj och barn",
       "path": "knowledge_base/topics/topic-familj-och-barn.md",
-      "body": "# 🗂️ familj och barn — 家庭与童年（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[barndom]] — 童年 (childhood)\n- [[syskon]] — 兄弟姐妹 (siblings)\n- [[hemmafru]] — 家庭主妇 (housewife)\n- [[vuxen]] — 成年人/成年的 (adult)\n- [[saga]] — 故事/童话 (story, fairy tale)\n- [[gravid]] — 怀孕的 (pregnant)\n- [[gift]] — 已婚的 (married)\n- [[förskola]] — 幼儿园 (preschool)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章，围绕家庭、童年与人生阶段主题。\n- 可扩充：mor/mamma (母亲), far/pappa (父亲), familj (家庭), barn (孩子), äktenskap (婚姻)...\n- `fosterfamilj` (寄养家庭) 出现在原文，可后续创建条目。",
+      "body": "# 🗂️ familj och barn — 家庭与童年（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[barndom]] — 童年 (childhood)\n- [[syskon]] — 兄弟姐妹 (siblings)\n- [[hemmafru]] — 家庭主妇 (housewife)\n- [[vuxen]] — 成年人/成年的 (adult)\n- [[saga]] — 故事/童话 (story, fairy tale)\n- [[gravid]] — 怀孕的 (pregnant)\n- [[gift]] — 已婚的 (married)\n- [[förskola]] — 幼儿园 (preschool)\n- [[skilja_sig]] — 离婚 (to divorce)\n- [[bråka]] — 吵架 (to quarrel)\n- [[sambo]] — 同居伴侣 (live-in partner)\n- [[älska]] — 热爱；爱 (to love)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章，围绕家庭、童年与人生阶段主题。\n- 2026-06-09 新增：[[skilja_sig]], [[bråka]], [[sambo]], [[älska]] — 来自 [[source-2026-06-09-zlatan-bio]]（Zlatan 家庭主题）。\n- 可扩充：mor/mamma (母亲), far/pappa (父亲), familj (家庭), barn (孩子), äktenskap (婚姻)...\n- `fosterfamilj` (寄养家庭) 出现在原文，可后续创建条目。",
       "excerpt": "🗂️ familj och barn — 家庭与童年（语义场） 类型: semantic field 成员 (Members) barndom — 童年 (childhood) syskon — 兄弟姐妹 (siblings) hemmafru — 家庭主妇 (housewife) vuxen — 成年人/成年的 (adult) saga — 故事/童话 (story, fairy tale) gravid — 怀孕的 (pregna",
       "links": [
-        "barndom",
-        "förskola",
-        "gift",
-        "gravid",
-        "hemmafru",
-        "saga",
-        "syskon",
-        "vuxen"
-      ],
-      "searchText": "familj och barn topic-familj-och-barn knowledge_base/topics/topic-familj-och-barn.md ---\ntype: topic\nname: \"familj och barn\"\nkind: semantic-field\nzh: 家庭与童年（语义场）\nmembers: [barndom, syskon, hemmafru, vuxen, saga, gravid, gift, förskola]\ncreated: \"2026-06-02\"\n---\n\n# 🗂️ familj och barn — 家庭与童年（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[barndom]] — 童年 (childhood)\n- [[syskon]] — 兄弟姐妹 (siblings)\n- [[hemmafru]] — 家庭主妇 (housewife)\n- [[vuxen]] — 成年人/成年的 (adult)\n- [[saga]] — 故事/童话 (story, fairy tale)\n- [[gravid]] — 怀孕的 (pregnant)\n- [[gift]] — 已婚的 (married)\n- [[förskola]] — 幼儿园 (preschool)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章，围绕家庭、童年与人生阶段主题。\n- 可扩充：mor/mamma (母亲), far/pappa (父亲), familj (家庭), barn (孩子), äktenskap (婚姻)...\n- `fosterfamilj` (寄养家庭) 出现在原文，可后续创建条目。\n",
-      "name": "familj och barn",
-      "zh": "家庭与童年（语义场）",
-      "created": "2026-06-02",
-      "kind": "semantic-field",
-      "backlinks": [
         "älska",
         "barndom",
         "bråka",
-        "föda",
         "förskola",
         "gift",
         "gravid",
@@ -8926,9 +9079,46 @@ window.KB_DATA = {
         "saga",
         "sambo",
         "skilja_sig",
-        "source-2026-06-02-astrid-lindgren",
         "source-2026-06-09-zlatan-bio",
         "syskon",
+        "vuxen"
+      ],
+      "searchText": "familj och barn topic-familj-och-barn knowledge_base/topics/topic-familj-och-barn.md ---\ntype: topic\nname: \"familj och barn\"\nkind: semantic-field\nzh: 家庭与童年（语义场）\nmembers: [barndom, syskon, hemmafru, vuxen, saga, gravid, gift, förskola, skilja_sig, bråka, sambo, älska]\ncreated: \"2026-06-02\"\n---\n\n# 🗂️ familj och barn — 家庭与童年（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[barndom]] — 童年 (childhood)\n- [[syskon]] — 兄弟姐妹 (siblings)\n- [[hemmafru]] — 家庭主妇 (housewife)\n- [[vuxen]] — 成年人/成年的 (adult)\n- [[saga]] — 故事/童话 (story, fairy tale)\n- [[gravid]] — 怀孕的 (pregnant)\n- [[gift]] — 已婚的 (married)\n- [[förskola]] — 幼儿园 (preschool)\n- [[skilja_sig]] — 离婚 (to divorce)\n- [[bråka]] — 吵架 (to quarrel)\n- [[sambo]] — 同居伴侣 (live-in partner)\n- [[älska]] — 热爱；爱 (to love)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章，围绕家庭、童年与人生阶段主题。\n- 2026-06-09 新增：[[skilja_sig]], [[bråka]], [[sambo]], [[älska]] — 来自 [[source-2026-06-09-zlatan-bio]]（Zlatan 家庭主题）。\n- 可扩充：mor/mamma (母亲), far/pappa (父亲), familj (家庭), barn (孩子), äktenskap (婚姻)...\n- `fosterfamilj` (寄养家庭) 出现在原文，可后续创建条目。\n",
+      "name": "familj och barn",
+      "zh": "家庭与童年（语义场）",
+      "created": "2026-06-02",
+      "kind": "semantic-field",
+      "backlinks": [
+        "älska",
+        "barn",
+        "barndom",
+        "bebis",
+        "bråka",
+        "bror",
+        "familj",
+        "far",
+        "flicka",
+        "föda",
+        "förälder",
+        "förskola",
+        "gift",
+        "gravid",
+        "hemmafru",
+        "mamma",
+        "mor",
+        "nyfödd",
+        "pappa",
+        "par",
+        "pojke",
+        "saga",
+        "sambo",
+        "skilja_sig",
+        "source-2026-06-02-astrid-lindgren",
+        "source-2026-06-09-zlatan-bio",
+        "spädbarn",
+        "syskon",
+        "syster",
+        "topic-personer",
         "vuxen"
       ]
     },
@@ -9087,14 +9277,17 @@ window.KB_DATA = {
         "fjärrkontroll",
         "fönster",
         "foto",
+        "framför",
         "glas",
         "golv",
+        "hänga",
         "hörn",
         "hylla",
         "klädskåp",
         "krukväxt",
         "kudde",
         "lampa",
+        "liten",
         "matta",
         "nattduksbord",
         "rum",
@@ -9105,13 +9298,15 @@ window.KB_DATA = {
         "soffbord",
         "source-2026-06-09-rumsliga-relationer",
         "stol",
+        "stor",
         "tavla",
         "television",
         "tidning",
         "topic-mobler",
         "topic-rumsliga-relationer",
         "vägg",
-        "vardagsrum"
+        "vardagsrum",
+        "vatten"
       ]
     },
     {
@@ -9138,14 +9333,26 @@ window.KB_DATA = {
       "kind": "semantic-field",
       "backlinks": [
         "annorlunda",
+        "blyg",
+        "elegant",
         "ensam",
+        "fattig",
+        "glad",
+        "god",
+        "kul",
         "lycklig",
         "modig",
         "obekväm",
         "orolig",
         "ovanlig",
+        "rolig",
+        "söt",
         "source-2026-06-02-astrid-lindgren",
-        "tråkig"
+        "stilig",
+        "stolt",
+        "topic-personer",
+        "tråkig",
+        "vänlig"
       ]
     },
     {
@@ -9184,7 +9391,7 @@ window.KB_DATA = {
       "type": "topic",
       "title": "kropp",
       "path": "knowledge_base/topics/topic-kropp.md",
-      "body": "# topic-kropp — 身体 / 身体部位\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 身体部位 (Body parts)\n\n- [[arm]] — 手臂\n- [[hals]] — 脖子；喉咙\n- [[ben]] — 腿；骨头\n- [[knä]] — 膝盖\n\n### 描述身体状态的形容词 (Adjectives for body states)\n\n- [[stark]] — 强壮的；强烈的\n- [[öm]] — 酸痛的；体贴的\n- [[bruten]] — 断的；骨折的\n- [[svullen]] — 肿的；肿胀的\n- [[pigg]] — 精神的；有活力的\n\n### 医疗相关 (Medical)\n\n- [[patient]] — 病人\n\n## 备注 (Notes)\n\n- 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。\n- 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "body": "# topic-kropp — 身体 / 身体部位\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 身体部位 (Body parts)\n\n- [[arm]] — 手臂\n- [[hals]] — 脖子；喉咙\n- [[ben]] — 腿；骨头\n- [[knä]] — 膝盖\n\n### 描述身体状态的形容词 (Adjectives for body states)\n\n- [[stark]] — 强壮的；强烈的\n- [[öm]] — 酸痛的；体贴的\n- [[bruten]] — 断的；骨折的\n- [[svullen]] — 肿的；肿胀的\n- [[pigg]] — 精神的；有活力的\n\n### 医疗相关 (Medical)\n\n- [[patient]] — 病人\n\n## 备注 (Notes)\n\n- 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。\n- 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。\n- [[stark]] 同时属于 [[topic-djur]] (动物形容词)。\n- 来源: [[source-2026-06-07-kropp-halsa]]",
       "excerpt": "topic kropp — 身体 / 身体部位 类型: semantic field 成员 (Members) 身体部位 (Body parts) arm — 手臂 hals — 脖子；喉咙 ben — 腿；骨头 knä — 膝盖 描述身体状态的形容词 (Adjectives for body states) stark — 强壮的；强烈的 öm — 酸痛的；体贴的 bruten — 断的；骨折的 svullen — 肿的；肿胀的 pi",
       "links": [
         "arm",
@@ -9198,9 +9405,10 @@ window.KB_DATA = {
         "source-2026-06-07-kropp-halsa",
         "stark",
         "svullen",
+        "topic-djur",
         "topic-hälsa"
       ],
-      "searchText": "kropp topic-kropp knowledge_base/topics/topic-kropp.md ---\ntype: topic\nname: \"kropp\"\nkind: semantic-field\nzh: \"身体；身体部位\"\nmembers: [arm, hals, ben, knä, stark, öm, bruten, svullen, pigg, patient]\ncreated: \"2026-06-07\"\n---\n\n# topic-kropp — 身体 / 身体部位\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 身体部位 (Body parts)\n\n- [[arm]] — 手臂\n- [[hals]] — 脖子；喉咙\n- [[ben]] — 腿；骨头\n- [[knä]] — 膝盖\n\n### 描述身体状态的形容词 (Adjectives for body states)\n\n- [[stark]] — 强壮的；强烈的\n- [[öm]] — 酸痛的；体贴的\n- [[bruten]] — 断的；骨折的\n- [[svullen]] — 肿的；肿胀的\n- [[pigg]] — 精神的；有活力的\n\n### 医疗相关 (Medical)\n\n- [[patient]] — 病人\n\n## 备注 (Notes)\n\n- 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。\n- 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "searchText": "kropp topic-kropp knowledge_base/topics/topic-kropp.md ---\ntype: topic\nname: \"kropp\"\nkind: semantic-field\nzh: \"身体；身体部位\"\nmembers: [arm, hals, ben, knä, stark, öm, bruten, svullen, pigg, patient]\ncreated: \"2026-06-07\"\n---\n\n# topic-kropp — 身体 / 身体部位\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 身体部位 (Body parts)\n\n- [[arm]] — 手臂\n- [[hals]] — 脖子；喉咙\n- [[ben]] — 腿；骨头\n- [[knä]] — 膝盖\n\n### 描述身体状态的形容词 (Adjectives for body states)\n\n- [[stark]] — 强壮的；强烈的\n- [[öm]] — 酸痛的；体贴的\n- [[bruten]] — 断的；骨折的\n- [[svullen]] — 肿的；肿胀的\n- [[pigg]] — 精神的；有活力的\n\n### 医疗相关 (Medical)\n\n- [[patient]] — 病人\n\n## 备注 (Notes)\n\n- 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。\n- 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。\n- [[stark]] 同时属于 [[topic-djur]] (动物形容词)。\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
       "name": "kropp",
       "zh": "身体；身体部位",
       "created": "2026-06-07",
@@ -9421,6 +9629,119 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "topic-personer",
+      "type": "topic",
+      "title": "personer",
+      "path": "knowledge_base/topics/topic-personer.md",
+      "body": "# 🗂️ personer — 人物\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 人物（名词）\n- [[man]] — 男人\n- [[kvinna]] — 女人\n- [[pojke]] — 男孩\n- [[flicka]] — 女孩\n- [[barn]] — 孩子\n- [[mamma]] — 妈妈\n- [[pappa]] — 爸爸\n- [[syster]] — 姐姐、妹妹\n- [[bror]] — 哥哥、弟弟\n- [[granne]] — 邻居\n- [[person]] — 人\n- [[tjej]] — 姑娘、女孩\n- [[kille]] — 小伙子、男孩\n- [[kompis]] — 好友、伙伴\n- [[gäst]] — 客人\n- [[familj]] — 家庭\n- [[herre]] — 先生\n- [[dam]] — 女士\n- [[främling]] — 陌生人\n- [[par]] — 一对、夫妇\n- [[förälder]] — 家长、父母\n- [[bebis]] — 婴儿\n- [[mor]] — 母亲（书面/正式）\n- [[far]] — 父亲（书面/正式）\n- [[spädbarn]] — 婴儿、新生儿\n- [[vän]] — 朋友\n- [[människa]] — 人、人类\n- [[ungdom]] — 青少年\n\n### 描述人物（形容词）\n- [[vänlig]] — 友好的\n- [[glad]] — 高兴的\n- [[blyg]] — 害羞的\n- [[god]] — 好的、善良的\n- [[lång]] — 长的、高的\n- [[söt]] — 可爱的、甜的\n- [[stilig]] — 帅气的\n- [[rolig]] — 有趣的\n- [[välkommen]] — 受欢迎的\n- [[elegant]] — 优雅的\n- [[rik]] — 富有的\n- [[okänd]] — 陌生的、不知名的\n- [[stolt]] — 自豪的\n- [[modern]] — 现代的\n- [[nyfödd]] — 新生的\n- [[ung]] — 年轻的\n- [[liten]] — 小的\n- [[snäll]] — 善良的\n- [[stor]] — 大的\n- [[trogen]] — 忠诚的\n- [[gammal]] — 老的、旧的\n- [[känd]] — 著名的\n- [[vanlig]] — 普通的\n- [[lycklig]] — 幸福的\n- [[gift]] — 已婚的\n\n## 备注 (Notes)\n\n- 涵盖人物主题的名词（家庭成员、社会角色）及常用描述性形容词\n- 与 [[topic-familj-och-barn]] 主题部分重叠（家庭成员词汇共享）\n- 与 [[topic-karaktarsord]] 主题重叠（性格描述词汇）",
+      "excerpt": "🗂️ personer — 人物 类型: semantic field 成员 (Members) 人物（名词） man — 男人 kvinna — 女人 pojke — 男孩 flicka — 女孩 barn — 孩子 mamma — 妈妈 pappa — 爸爸 syster — 姐姐、妹妹 bror — 哥哥、弟弟 granne — 邻居 person — 人 tjej — 姑娘、女孩 kille — 小伙子、男孩 kompis —",
+      "links": [
+        "barn",
+        "bebis",
+        "blyg",
+        "bror",
+        "dam",
+        "elegant",
+        "familj",
+        "far",
+        "flicka",
+        "förälder",
+        "främling",
+        "gammal",
+        "gäst",
+        "gift",
+        "glad",
+        "god",
+        "granne",
+        "herre",
+        "känd",
+        "kille",
+        "kompis",
+        "kvinna",
+        "lång",
+        "liten",
+        "lycklig",
+        "mamma",
+        "man",
+        "människa",
+        "modern",
+        "mor",
+        "nyfödd",
+        "okänd",
+        "pappa",
+        "par",
+        "person",
+        "pojke",
+        "rik",
+        "rolig",
+        "snäll",
+        "söt",
+        "spädbarn",
+        "stilig",
+        "stolt",
+        "stor",
+        "syster",
+        "tjej",
+        "topic-familj-och-barn",
+        "topic-karaktarsord",
+        "trogen",
+        "ung",
+        "ungdom",
+        "välkommen",
+        "vän",
+        "vanlig",
+        "vänlig"
+      ],
+      "searchText": "personer topic-personer knowledge_base/topics/topic-personer.md ---\ntype: topic\nname: \"personer\"\nkind: \"semantic-field\"\nzh: \"人物\"\nmembers:\n  - man\n  - kvinna\n  - pojke\n  - flicka\n  - barn\n  - mamma\n  - pappa\n  - syster\n  - bror\n  - granne\n  - person\n  - tjej\n  - kille\n  - kompis\n  - gäst\n  - familj\n  - herre\n  - dam\n  - främling\n  - par\n  - förälder\n  - bebis\n  - mor\n  - far\n  - spädbarn\n  - vänlig\n  - glad\n  - blyg\n  - god\n  - lång\n  - söt\n  - stilig\n  - rolig\n  - välkommen\n  - elegant\n  - rik\n  - okänd\n  - stolt\n  - modern\n  - nyfödd\n  - ung\n  - liten\n  - vän\n  - snäll\n  - stor\n  - trogen\n  - gammal\n  - känd\n  - vanlig\n  - människa\n  - lycklig\n  - gift\n  - ungdom\ncreated: \"2026-06-10\"\n---\n\n# 🗂️ personer — 人物\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 人物（名词）\n- [[man]] — 男人\n- [[kvinna]] — 女人\n- [[pojke]] — 男孩\n- [[flicka]] — 女孩\n- [[barn]] — 孩子\n- [[mamma]] — 妈妈\n- [[pappa]] — 爸爸\n- [[syster]] — 姐姐、妹妹\n- [[bror]] — 哥哥、弟弟\n- [[granne]] — 邻居\n- [[person]] — 人\n- [[tjej]] — 姑娘、女孩\n- [[kille]] — 小伙子、男孩\n- [[kompis]] — 好友、伙伴\n- [[gäst]] — 客人\n- [[familj]] — 家庭\n- [[herre]] — 先生\n- [[dam]] — 女士\n- [[främling]] — 陌生人\n- [[par]] — 一对、夫妇\n- [[förälder]] — 家长、父母\n- [[bebis]] — 婴儿\n- [[mor]] — 母亲（书面/正式）\n- [[far]] — 父亲（书面/正式）\n- [[spädbarn]] — 婴儿、新生儿\n- [[vän]] — 朋友\n- [[människa]] — 人、人类\n- [[ungdom]] — 青少年\n\n### 描述人物（形容词）\n- [[vänlig]] — 友好的\n- [[glad]] — 高兴的\n- [[blyg]] — 害羞的\n- [[god]] — 好的、善良的\n- [[lång]] — 长的、高的\n- [[söt]] — 可爱的、甜的\n- [[stilig]] — 帅气的\n- [[rolig]] — 有趣的\n- [[välkommen]] — 受欢迎的\n- [[elegant]] — 优雅的\n- [[rik]] — 富有的\n- [[okänd]] — 陌生的、不知名的\n- [[stolt]] — 自豪的\n- [[modern]] — 现代的\n- [[nyfödd]] — 新生的\n- [[ung]] — 年轻的\n- [[liten]] — 小的\n- [[snäll]] — 善良的\n- [[stor]] — 大的\n- [[trogen]] — 忠诚的\n- [[gammal]] — 老的、旧的\n- [[känd]] — 著名的\n- [[vanlig]] — 普通的\n- [[lycklig]] — 幸福的\n- [[gift]] — 已婚的\n\n## 备注 (Notes)\n\n- 涵盖人物主题的名词（家庭成员、社会角色）及常用描述性形容词\n- 与 [[topic-familj-och-barn]] 主题部分重叠（家庭成员词汇共享）\n- 与 [[topic-karaktarsord]] 主题重叠（性格描述词汇）\n",
+      "name": "personer",
+      "zh": "人物",
+      "created": "2026-06-10",
+      "kind": "semantic-field",
+      "backlinks": [
+        "barn",
+        "bebis",
+        "blyg",
+        "bror",
+        "dam",
+        "elegant",
+        "familj",
+        "far",
+        "flicka",
+        "förälder",
+        "främling",
+        "gäst",
+        "glad",
+        "god",
+        "grammar-adjektiv-bojning",
+        "granne",
+        "herre",
+        "kille",
+        "kompis",
+        "kvinna",
+        "lång",
+        "mamma",
+        "man",
+        "modern",
+        "mor",
+        "nyfödd",
+        "okänd",
+        "pappa",
+        "par",
+        "person",
+        "pojke",
+        "rik",
+        "rolig",
+        "söt",
+        "spädbarn",
+        "stilig",
+        "stolt",
+        "syster",
+        "tjej",
+        "välkommen",
+        "vänlig"
+      ]
+    },
+    {
       "slug": "topic-riktningar",
       "type": "topic",
       "title": "riktningar",
@@ -9521,7 +9842,9 @@ window.KB_DATA = {
         "bredvid",
         "finnas",
         "fönster",
+        "framför",
         "golv",
+        "hänga",
         "hörn",
         "ligga",
         "mellan",
@@ -9875,18 +10198,21 @@ window.KB_DATA = {
       "type": "topic",
       "title": "yrken",
       "path": "knowledge_base/topics/topic-yrken.md",
-      "body": "# 🗂️ yrken — 职业（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[bonde]] — 农民 (farmer)\n- [[sekreterare]] — 秘书 (secretary)\n- [[hemmafru]] — 家庭主妇 (housewife)\n- [[barnboksförfattare]] — 儿童书作家 (children's book author)\n- [[arbeta]] — 工作（正式）(to work)\n- [[jobba]] — 工作（口语）(to work, colloquial)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章，原文提及的职业。\n- 可扩充：läkare (医生), lärare (教师), chef (老板), arbetare (工人)...\n- 与 [[topic-arbete]] 有交叉（参见该话题的工作相关动词/名词）。",
+      "body": "# 🗂️ yrken — 职业（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[bonde]] — 农民 (farmer)\n- [[sekreterare]] — 秘书 (secretary)\n- [[hemmafru]] — 家庭主妇 (housewife)\n- [[barnboksförfattare]] — 儿童书作家 (children's book author)\n- [[arbeta]] — 工作（正式）(to work)\n- [[jobba]] — 工作（口语）(to work, colloquial)\n- [[författare]] — 作家 (author)\n- [[proffs]] — 职业选手；专业人士 (professional)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章，原文提及的职业。\n- 2026-06-09 新增：[[författare]], [[proffs]] — 来自 [[source-2026-06-09-zlatan-bio]]（Zlatan 职业主题）。\n- 可扩充：läkare (医生), lärare (教师), chef (老板), arbetare (工人)...\n- 与 [[topic-arbete]] 有交叉（参见该话题的工作相关动词/名词）。",
       "excerpt": "🗂️ yrken — 职业（语义场） 类型: semantic field 成员 (Members) bonde — 农民 (farmer) sekreterare — 秘书 (secretary) hemmafru — 家庭主妇 (housewife) barnboksförfattare — 儿童书作家 (children's book author) arbeta — 工作（正式）(to work) jobba — 工作（口语）",
       "links": [
         "arbeta",
         "barnboksförfattare",
         "bonde",
+        "författare",
         "hemmafru",
         "jobba",
+        "proffs",
         "sekreterare",
+        "source-2026-06-09-zlatan-bio",
         "topic-arbete"
       ],
-      "searchText": "yrken topic-yrken knowledge_base/topics/topic-yrken.md ---\ntype: topic\nname: \"yrken\"\nkind: semantic-field\nzh: 职业（语义场）\nmembers: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba]\ncreated: \"2026-06-02\"\n---\n\n# 🗂️ yrken — 职业（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[bonde]] — 农民 (farmer)\n- [[sekreterare]] — 秘书 (secretary)\n- [[hemmafru]] — 家庭主妇 (housewife)\n- [[barnboksförfattare]] — 儿童书作家 (children's book author)\n- [[arbeta]] — 工作（正式）(to work)\n- [[jobba]] — 工作（口语）(to work, colloquial)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章，原文提及的职业。\n- 可扩充：läkare (医生), lärare (教师), chef (老板), arbetare (工人)...\n- 与 [[topic-arbete]] 有交叉（参见该话题的工作相关动词/名词）。\n",
+      "searchText": "yrken topic-yrken knowledge_base/topics/topic-yrken.md ---\ntype: topic\nname: \"yrken\"\nkind: semantic-field\nzh: 职业（语义场）\nmembers: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba, författare, proffs]\ncreated: \"2026-06-02\"\n---\n\n# 🗂️ yrken — 职业（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[bonde]] — 农民 (farmer)\n- [[sekreterare]] — 秘书 (secretary)\n- [[hemmafru]] — 家庭主妇 (housewife)\n- [[barnboksförfattare]] — 儿童书作家 (children's book author)\n- [[arbeta]] — 工作（正式）(to work)\n- [[jobba]] — 工作（口语）(to work, colloquial)\n- [[författare]] — 作家 (author)\n- [[proffs]] — 职业选手；专业人士 (professional)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章，原文提及的职业。\n- 2026-06-09 新增：[[författare]], [[proffs]] — 来自 [[source-2026-06-09-zlatan-bio]]（Zlatan 职业主题）。\n- 可扩充：läkare (医生), lärare (教师), chef (老板), arbetare (工人)...\n- 与 [[topic-arbete]] 有交叉（参见该话题的工作相关动词/名词）。\n",
       "name": "yrken",
       "zh": "职业（语义场）",
       "created": "2026-06-02",
@@ -10022,7 +10348,8 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
-        "source-2026-06-09-zlatan-bio"
+        "source-2026-06-09-zlatan-bio",
+        "topic-familj-och-barn"
       ]
     },
     {
@@ -10337,17 +10664,19 @@ window.KB_DATA = {
       "type": "word",
       "title": "arg",
       "path": "knowledge_base/words/arg.md",
-      "body": "# arg — adjektiv\n\n📖 中文：生气的 · English: angry\n发音提示：/arj/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | arg |\n| neutrum obestämd | argt |\n| bestämd/plural | arga |\n| komparativ | argare |\n| superlativ | argast |\n\n## 词组搭配 (Collocations)\n\n- `en arg älg` — 一头愤怒的驼鹿\n- `arg på någon` — 对某人生气\n- `bli arg` — 变得生气\n\n## 例句 (Sentences)\n\n- 🇸🇪 Älgen blev arg när vi kom för nära. — 🇨🇳 当我们走得太近时，驼鹿变得很愤怒。\n- 🇸🇪 Hon är arg på sin bror för att han tog hennes saker. — 🇨🇳 她对弟弟很生气，因为他拿了她的东西。\n- 🇸🇪 Bli inte arg — vi löser det här. — 🇨🇳 别生气——我们会解决这个问题的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[argsint]] (易怒的), [[arghet]] (愤怒)\n- 同义词: [[ilsken]] (愤怒的)\n- 反义词: [[glad]] (高兴的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- \"arg på\" = 对...生气（用介词 på，不用 med 或 mot）。\n- 来源: [[source-2026-06-08-djur]]",
+      "body": "# arg — adjektiv\n\n📖 中文：生气的 · English: angry\n发音提示：/arj/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | arg |\n| neutrum obestämd | argt |\n| bestämd/plural | arga |\n| komparativ | argare |\n| superlativ | argast |\n\n## 词组搭配 (Collocations)\n\n- `en arg älg` — 一头愤怒的驼鹿\n- `arg på någon` — 对某人生气\n- `bli arg` — 变得生气\n\n## 例句 (Sentences)\n\n- 🇸🇪 Älgen blev arg när vi kom för nära. — 🇨🇳 当我们走得太近时，驼鹿变得很愤怒。\n- 🇸🇪 Hon är arg på sin bror för att han tog hennes saker. — 🇨🇳 她对弟弟很生气，因为他拿了她的东西。\n- 🇸🇪 Bli inte arg — vi löser det här. — 🇨🇳 别生气——我们会解决这个问题的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[argsint]] (易怒的), [[arghet]] (愤怒)\n- 同义词: [[ilsken]] (愤怒的)\n- 反义词: [[snäll]], [[glad]] (高兴的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- \"arg på\" = 对...生气（用介词 på，不用 med 或 mot）。\n- 来源: [[source-2026-06-08-djur]], [[source-2026-06-09-zlatan-bio]]",
       "excerpt": "arg — adjektiv 📖 中文：生气的 · English: angry 发音提示：/arj/ 语法变形 (Forms) form böjning utrum obestämd arg neutrum obestämd argt bestämd/plural arga komparativ argare superlativ argast 词组搭配 (Collocations) en arg älg — 一头愤怒的驼鹿 arg",
       "links": [
         "arghet",
         "argsint",
         "glad",
         "ilsken",
+        "snäll",
         "source-2026-06-08-djur",
+        "source-2026-06-09-zlatan-bio",
         "topic-djur"
       ],
-      "searchText": "arg arg knowledge_base/words/arg.md ---\ntype: word\nlemma: \"arg\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"生气的\"\nen: \"angry\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-djur]\nsentences: []\nknown: false\ncreated: \"2026-06-08\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# arg — adjektiv\n\n📖 中文：生气的 · English: angry\n发音提示：/arj/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | arg |\n| neutrum obestämd | argt |\n| bestämd/plural | arga |\n| komparativ | argare |\n| superlativ | argast |\n\n## 词组搭配 (Collocations)\n\n- `en arg älg` — 一头愤怒的驼鹿\n- `arg på någon` — 对某人生气\n- `bli arg` — 变得生气\n\n## 例句 (Sentences)\n\n- 🇸🇪 Älgen blev arg när vi kom för nära. — 🇨🇳 当我们走得太近时，驼鹿变得很愤怒。\n- 🇸🇪 Hon är arg på sin bror för att han tog hennes saker. — 🇨🇳 她对弟弟很生气，因为他拿了她的东西。\n- 🇸🇪 Bli inte arg — vi löser det här. — 🇨🇳 别生气——我们会解决这个问题的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[argsint]] (易怒的), [[arghet]] (愤怒)\n- 同义词: [[ilsken]] (愤怒的)\n- 反义词: [[glad]] (高兴的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- \"arg på\" = 对...生气（用介词 på，不用 med 或 mot）。\n- 来源: [[source-2026-06-08-djur]]\n",
+      "searchText": "arg arg knowledge_base/words/arg.md ---\ntype: word\nlemma: \"arg\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"生气的\"\nen: \"angry\"\nsynonyms: []\nantonyms: [snäll]\nfamily: []\ntopics: [topic-djur]\nsentences: []\nsources: [source-2026-06-09-zlatan-bio]\nknown: false\ncreated: \"2026-06-08\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# arg — adjektiv\n\n📖 中文：生气的 · English: angry\n发音提示：/arj/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | arg |\n| neutrum obestämd | argt |\n| bestämd/plural | arga |\n| komparativ | argare |\n| superlativ | argast |\n\n## 词组搭配 (Collocations)\n\n- `en arg älg` — 一头愤怒的驼鹿\n- `arg på någon` — 对某人生气\n- `bli arg` — 变得生气\n\n## 例句 (Sentences)\n\n- 🇸🇪 Älgen blev arg när vi kom för nära. — 🇨🇳 当我们走得太近时，驼鹿变得很愤怒。\n- 🇸🇪 Hon är arg på sin bror för att han tog hennes saker. — 🇨🇳 她对弟弟很生气，因为他拿了她的东西。\n- 🇸🇪 Bli inte arg — vi löser det här. — 🇨🇳 别生气——我们会解决这个问题的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[argsint]] (易怒的), [[arghet]] (愤怒)\n- 同义词: [[ilsken]] (愤怒的)\n- 反义词: [[snäll]], [[glad]] (高兴的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- \"arg på\" = 对...生气（用介词 på，不用 med 或 mot）。\n- 来源: [[source-2026-06-08-djur]], [[source-2026-06-09-zlatan-bio]]\n",
       "lemma": "arg",
       "ordklass": "adjektiv",
       "cefr": "A2",
@@ -10538,6 +10867,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "barn",
+      "type": "word",
+      "title": "barn",
+      "path": "knowledge_base/words/barn.md",
+      "body": "# barn — substantiv (ett)\n\n📖 中文：孩子 · English: child\n发音提示：/bɑːrn/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | ett barn |\n| Bestämd sg. | barnet |\n| Obestämd pl. | barn |\n| Bestämd pl. | barnen |\n\n> ⚠️ 零复数：obestämd plural = barn（与单数同形）\n\n## 词组搭配 (Collocations)\n\n- `ett litet barn` — 一个小孩子\n- `ha barn` — 有孩子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[barndom]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 零复数（pluralis utan ändelse）：barn → barn（不加 -ar/-er）\n- 发音中 r 轻卷舌",
+      "excerpt": "barn — substantiv (ett) 📖 中文：孩子 · English: child 发音提示：/bɑːrn/ 语法变形 (Forms) Form Swedish Obestämd sg. ett barn Bestämd sg. barnet Obestämd pl. barn Bestämd pl. barnen ⚠️ 零复数：obestämd plural = barn（与单数同形） 词组搭配 (Collocatio",
+      "links": [
+        "barndom",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "barn barn knowledge_base/words/barn.md ---\ntype: word\nlemma: \"barn\"\nordklass: \"substantiv\"\ngenus: \"ett\"\ncefr: \"A1\"\nzh: \"孩子\"\nen: \"child\"\nsynonyms: []\nantonyms: []\nfamily: [\"barndom\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# barn — substantiv (ett)\n\n📖 中文：孩子 · English: child\n发音提示：/bɑːrn/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | ett barn |\n| Bestämd sg. | barnet |\n| Obestämd pl. | barn |\n| Bestämd pl. | barnen |\n\n> ⚠️ 零复数：obestämd plural = barn（与单数同形）\n\n## 词组搭配 (Collocations)\n\n- `ett litet barn` — 一个小孩子\n- `ha barn` — 有孩子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[barndom]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 零复数（pluralis utan ändelse）：barn → barn（不加 -ar/-er）\n- 发音中 r 轻卷舌\n",
+      "lemma": "barn",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "孩子",
+      "en": "child",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "barndom",
+        "bebis",
+        "grammar-substantiv-plural",
+        "nyfödd",
+        "source-2026-06-02-valj-ratt-form",
+        "spädbarn",
+        "topic-personer",
+        "vuxen"
+      ]
+    },
+    {
       "slug": "barnboksförfattare",
       "type": "word",
       "title": "barnboksförfattare",
@@ -10574,15 +10939,16 @@ window.KB_DATA = {
       "type": "word",
       "title": "barndom",
       "path": "knowledge_base/words/barndom.md",
-      "body": "# barndom — substantiv (en)\n\n📖 中文：童年 · English: childhood\n发音提示：BARN-dom；重音在第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en barndom |\n| Singular bestämd | barndomen |\n| Plural obestämd | barndommar *(sällsynt)* |\n| Plural bestämd | barndommarma *(sällsynt)* |\n\n⚠️ 通常只用单数形式（表示抽象概念）。复数极少见。\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon hade en lycklig **barndom** på landet.\n  🇨🇳 她在乡村度过了幸福的童年。\n- 🇸🇪 Han **minns** sin **barndom** med glädje.\n  🇨🇳 他愉快地回忆起自己的童年。\n- 🇸🇪 Många av Astrids böcker handlar om **barndomen** i Småland.\n  🇨🇳 阿斯特丽德的许多书都讲述了她在斯莫兰的童年。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[barn]] (ett, 孩子), [[barndomsminne]] (ett, 童年记忆)\n- 同义词: —\n- 反义词: [[vuxenliv]] (ett, 成年生活)\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 原文：*Där hade hon en lycklig barndom.* — 她在那里度过了幸福的童年。\n- `barndomsminne` = 童年记忆，常见复合词。",
+      "body": "# barndom — substantiv (en)\n\n📖 中文：童年 · English: childhood\n发音提示：BARN-dom；重音在第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en barndom |\n| Singular bestämd | barndomen |\n| Plural obestämd | barndommar *(sällsynt)* |\n| Plural bestämd | barndommarma *(sällsynt)* |\n\n⚠️ 通常只用单数形式（表示抽象概念）。复数极少见。\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon hade en lycklig **barndom** på landet.\n  🇨🇳 她在乡村度过了幸福的童年。\n- 🇸🇪 Han **minns** sin **barndom** med glädje.\n  🇨🇳 他愉快地回忆起自己的童年。\n- 🇸🇪 Många av Astrids böcker handlar om **barndomen** i Småland.\n  🇨🇳 阿斯特丽德的许多书都讲述了她在斯莫兰的童年。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[barn]] (ett, 孩子), [[barndomsminne]] (ett, 童年记忆)\n- 同义词: —\n- 反义词: [[vuxenliv]] (ett, 成年生活)\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 原文：*Där hade hon en lycklig barndom.* — 她在那里度过了幸福的童年。\n- `barndomsminne` = 童年记忆，常见复合词。\n- 来源: [[source-2026-06-09-zlatan-bio]]（*Zlatans barndom var svår.*）",
       "excerpt": "barndom — substantiv (en) 📖 中文：童年 · English: childhood 发音提示：BARN dom；重音在第一音节。 语法变形 (Forms) Form Swedish Singular obestämd en barndom Singular bestämd barndomen Plural obestämd barndommar (sällsynt) Plural bestämd barndo",
       "links": [
         "barn",
         "barndomsminne",
+        "source-2026-06-09-zlatan-bio",
         "topic-familj-och-barn",
         "vuxenliv"
       ],
-      "searchText": "barndom barndom knowledge_base/words/barndom.md ---\ntype: word\nlemma: \"barndom\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: A2\nzh: 童年\nen: childhood\nsynonyms: []\nantonyms: []\nfamily: [barn]\ntopics: [topic-familj-och-barn]\nsentences: []\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# barndom — substantiv (en)\n\n📖 中文：童年 · English: childhood\n发音提示：BARN-dom；重音在第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en barndom |\n| Singular bestämd | barndomen |\n| Plural obestämd | barndommar *(sällsynt)* |\n| Plural bestämd | barndommarma *(sällsynt)* |\n\n⚠️ 通常只用单数形式（表示抽象概念）。复数极少见。\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon hade en lycklig **barndom** på landet.\n  🇨🇳 她在乡村度过了幸福的童年。\n- 🇸🇪 Han **minns** sin **barndom** med glädje.\n  🇨🇳 他愉快地回忆起自己的童年。\n- 🇸🇪 Många av Astrids böcker handlar om **barndomen** i Småland.\n  🇨🇳 阿斯特丽德的许多书都讲述了她在斯莫兰的童年。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[barn]] (ett, 孩子), [[barndomsminne]] (ett, 童年记忆)\n- 同义词: —\n- 反义词: [[vuxenliv]] (ett, 成年生活)\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 原文：*Där hade hon en lycklig barndom.* — 她在那里度过了幸福的童年。\n- `barndomsminne` = 童年记忆，常见复合词。\n",
+      "searchText": "barndom barndom knowledge_base/words/barndom.md ---\ntype: word\nlemma: \"barndom\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: A2\nzh: 童年\nen: childhood\nsynonyms: []\nantonyms: []\nfamily: [barn]\ntopics: [topic-familj-och-barn]\nsentences: [sent-zlatans-barndom-var-svar]\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# barndom — substantiv (en)\n\n📖 中文：童年 · English: childhood\n发音提示：BARN-dom；重音在第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en barndom |\n| Singular bestämd | barndomen |\n| Plural obestämd | barndommar *(sällsynt)* |\n| Plural bestämd | barndommarma *(sällsynt)* |\n\n⚠️ 通常只用单数形式（表示抽象概念）。复数极少见。\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon hade en lycklig **barndom** på landet.\n  🇨🇳 她在乡村度过了幸福的童年。\n- 🇸🇪 Han **minns** sin **barndom** med glädje.\n  🇨🇳 他愉快地回忆起自己的童年。\n- 🇸🇪 Många av Astrids böcker handlar om **barndomen** i Småland.\n  🇨🇳 阿斯特丽德的许多书都讲述了她在斯莫兰的童年。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[barn]] (ett, 孩子), [[barndomsminne]] (ett, 童年记忆)\n- 同义词: —\n- 反义词: [[vuxenliv]] (ett, 成年生活)\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 原文：*Där hade hon en lycklig barndom.* — 她在那里度过了幸福的童年。\n- `barndomsminne` = 童年记忆，常见复合词。\n- 来源: [[source-2026-06-09-zlatan-bio]]（*Zlatans barndom var svår.*）\n",
       "lemma": "barndom",
       "ordklass": "substantiv",
       "cefr": "A2",
@@ -10590,15 +10956,51 @@ window.KB_DATA = {
       "en": "childhood",
       "created": "2026-06-02",
       "known": false,
-      "sentences": [],
+      "sentences": [
+        "sent-zlatans-barndom-var-svar"
+      ],
       "topics": [
         "topic-familj-och-barn"
       ],
       "backlinks": [
+        "barn",
         "sent-zlatans-barndom-var-svar",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-09-zlatan-bio",
         "topic-familj-och-barn"
+      ]
+    },
+    {
+      "slug": "bebis",
+      "type": "word",
+      "title": "bebis",
+      "path": "knowledge_base/words/bebis.md",
+      "body": "# bebis — substantiv (en)\n\n📖 中文：婴儿 · English: baby\n发音提示：/ˈbeːbɪs/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en bebis |\n| Bestämd sg. | bebisen |\n| Obestämd pl. | bebisar |\n| Bestämd pl. | bebisarna |\n\n## 词组搭配 (Collocations)\n\n- `en nyfödd bebis` — 一个新生婴儿\n- `mata bebisen` — 给婴儿喂奶\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[barn]], [[nyfödd]]\n- 同义词: [[spädbarn]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：bebis / bebisen / bebisar / bebisarna\n- 口语词，来自英语 \"baby\"",
+      "excerpt": "bebis — substantiv (en) 📖 中文：婴儿 · English: baby 发音提示：/ˈbeːbɪs/ 语法变形 (Forms) Form Swedish Obestämd sg. en bebis Bestämd sg. bebisen Obestämd pl. bebisar Bestämd pl. bebisarna 词组搭配 (Collocations) en nyfödd bebis — 一个新生婴儿 ",
+      "links": [
+        "barn",
+        "nyfödd",
+        "spädbarn",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "bebis bebis knowledge_base/words/bebis.md ---\ntype: word\nlemma: \"bebis\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"婴儿\"\nen: \"baby\"\nsynonyms: [\"spädbarn\"]\nantonyms: []\nfamily: [\"barn\", \"nyfödd\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bebis — substantiv (en)\n\n📖 中文：婴儿 · English: baby\n发音提示：/ˈbeːbɪs/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en bebis |\n| Bestämd sg. | bebisen |\n| Obestämd pl. | bebisar |\n| Bestämd pl. | bebisarna |\n\n## 词组搭配 (Collocations)\n\n- `en nyfödd bebis` — 一个新生婴儿\n- `mata bebisen` — 给婴儿喂奶\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[barn]], [[nyfödd]]\n- 同义词: [[spädbarn]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：bebis / bebisen / bebisar / bebisarna\n- 口语词，来自英语 \"baby\"\n",
+      "lemma": "bebis",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "婴儿",
+      "en": "baby",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "nyfödd",
+        "spädbarn",
+        "topic-personer"
       ]
     },
     {
@@ -10635,15 +11037,16 @@ window.KB_DATA = {
       "type": "word",
       "title": "berätta",
       "path": "knowledge_base/words/berätta.md",
-      "body": "# berätta — verb (v.1)\n\n📖 中文：讲述 · English: to tell, to narrate\n发音提示：be-RÄT-ta；重音在第二音节，双写 `tt`。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att berätta |\n| Imperativ | berätta! |\n| Presens | berättar |\n| Preteritum | berättade |\n| Supinum | (har) berättat |\n\n规则的 grupp 1 动词（-ar/-ade/-at）。\n\n## 词组搭配 (Collocations)\n\n- `berätta en saga/historia` — 讲故事/童话\n- `berätta för ngn` — 告诉某人（例：berätta för mig）\n\n## 例句 (Sentences)\n\n- 🇸🇪 **Berätta** för mig om din dag!\n  🇨🇳 跟我讲讲你今天过得怎么样！\n- 🇸🇪 Pappa **berättade** en saga innan vi somnade.\n  🇨🇳 爸爸在我们睡着之前讲了一个故事。\n- 🇸🇪 Hon **berättar** alltid roliga historier för barnen.\n  🇨🇳 她总是给孩子们讲有趣的故事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[berättelse]] (en, 故事/叙述), [[berättare]] (en, 叙述者)\n- 同义词: [[berätta]] —\n- 反义词: —\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `berätta för ngn att/om` — 告诉某人某事：*Berätta för mig om din dag.*\n- 原文：*En dag bad Karin Astrid berätta en saga* — 有一天卡琳让阿斯特丽德讲故事。",
+      "body": "# berätta — verb (v.1)\n\n📖 中文：讲述 · English: to tell, to narrate\n发音提示：be-RÄT-ta；重音在第二音节，双写 `tt`。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att berätta |\n| Imperativ | berätta! |\n| Presens | berättar |\n| Preteritum | berättade |\n| Supinum | (har) berättat |\n\n规则的 grupp 1 动词（-ar/-ade/-at）。\n\n## 词组搭配 (Collocations)\n\n- `berätta en saga/historia` — 讲故事/童话\n- `berätta för ngn` — 告诉某人（例：berätta för mig）\n\n## 例句 (Sentences)\n\n- 🇸🇪 **Berätta** för mig om din dag!\n  🇨🇳 跟我讲讲你今天过得怎么样！\n- 🇸🇪 Pappa **berättade** en saga innan vi somnade.\n  🇨🇳 爸爸在我们睡着之前讲了一个故事。\n- 🇸🇪 Hon **berättar** alltid roliga historier för barnen.\n  🇨🇳 她总是给孩子们讲有趣的故事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[berättelse]] (en, 故事/叙述), [[berättare]] (en, 叙述者)\n- 同义词: [[berätta]] —\n- 反义词: —\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `berätta för ngn att/om` — 告诉某人某事：*Berätta för mig om din dag.*\n- 原文：*En dag bad Karin Astrid berätta en saga* — 有一天卡琳让阿斯特丽德讲故事。\n- 来源: [[source-2026-06-09-zlatan-bio]]",
       "excerpt": "berätta — verb (v.1) 📖 中文：讲述 · English: to tell, to narrate 发音提示：be RÄT ta；重音在第二音节，双写 tt 。 语法变形 (Forms) Form Swedish Infinitiv att berätta Imperativ berätta! Presens berättar Preteritum berättade Supinum (har) berättat ",
       "links": [
         "berätta",
         "berättare",
         "berättelse",
+        "source-2026-06-09-zlatan-bio",
         "topic-litteratur-och-kultur"
       ],
-      "searchText": "berätta berätta knowledge_base/words/berätta.md ---\ntype: word\nlemma: \"berätta\"\nordklass: verb\nverbgrupp: 1\ngenus: \"\"\ncefr: A2\nzh: 讲述\nen: to tell, to narrate\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-litteratur-och-kultur]\nsentences: []\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# berätta — verb (v.1)\n\n📖 中文：讲述 · English: to tell, to narrate\n发音提示：be-RÄT-ta；重音在第二音节，双写 `tt`。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att berätta |\n| Imperativ | berätta! |\n| Presens | berättar |\n| Preteritum | berättade |\n| Supinum | (har) berättat |\n\n规则的 grupp 1 动词（-ar/-ade/-at）。\n\n## 词组搭配 (Collocations)\n\n- `berätta en saga/historia` — 讲故事/童话\n- `berätta för ngn` — 告诉某人（例：berätta för mig）\n\n## 例句 (Sentences)\n\n- 🇸🇪 **Berätta** för mig om din dag!\n  🇨🇳 跟我讲讲你今天过得怎么样！\n- 🇸🇪 Pappa **berättade** en saga innan vi somnade.\n  🇨🇳 爸爸在我们睡着之前讲了一个故事。\n- 🇸🇪 Hon **berättar** alltid roliga historier för barnen.\n  🇨🇳 她总是给孩子们讲有趣的故事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[berättelse]] (en, 故事/叙述), [[berättare]] (en, 叙述者)\n- 同义词: [[berätta]] —\n- 反义词: —\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `berätta för ngn att/om` — 告诉某人某事：*Berätta för mig om din dag.*\n- 原文：*En dag bad Karin Astrid berätta en saga* — 有一天卡琳让阿斯特丽德讲故事。\n",
+      "searchText": "berätta berätta knowledge_base/words/berätta.md ---\ntype: word\nlemma: \"berätta\"\nordklass: verb\nverbgrupp: 1\ngenus: \"\"\ncefr: A2\nzh: 讲述\nen: to tell, to narrate\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-litteratur-och-kultur]\nsentences: []\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# berätta — verb (v.1)\n\n📖 中文：讲述 · English: to tell, to narrate\n发音提示：be-RÄT-ta；重音在第二音节，双写 `tt`。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att berätta |\n| Imperativ | berätta! |\n| Presens | berättar |\n| Preteritum | berättade |\n| Supinum | (har) berättat |\n\n规则的 grupp 1 动词（-ar/-ade/-at）。\n\n## 词组搭配 (Collocations)\n\n- `berätta en saga/historia` — 讲故事/童话\n- `berätta för ngn` — 告诉某人（例：berätta för mig）\n\n## 例句 (Sentences)\n\n- 🇸🇪 **Berätta** för mig om din dag!\n  🇨🇳 跟我讲讲你今天过得怎么样！\n- 🇸🇪 Pappa **berättade** en saga innan vi somnade.\n  🇨🇳 爸爸在我们睡着之前讲了一个故事。\n- 🇸🇪 Hon **berättar** alltid roliga historier för barnen.\n  🇨🇳 她总是给孩子们讲有趣的故事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[berättelse]] (en, 故事/叙述), [[berättare]] (en, 叙述者)\n- 同义词: [[berätta]] —\n- 反义词: —\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `berätta för ngn att/om` — 告诉某人某事：*Berätta för mig om din dag.*\n- 原文：*En dag bad Karin Astrid berätta en saga* — 有一天卡琳让阿斯特丽德讲故事。\n- 来源: [[source-2026-06-09-zlatan-bio]]\n",
       "lemma": "berätta",
       "ordklass": "verb",
       "cefr": "A2",
@@ -10930,6 +11333,34 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "blyg",
+      "type": "word",
+      "title": "blyg",
+      "path": "knowledge_base/words/blyg.md",
+      "body": "# blyg — adjektiv\n\n📖 中文：害羞的 · English: shy\n发音提示：/blyːɡ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | blyg |\n| Obestämd ett-ord | blygt |\n| Bestämd / plural | blyga |\n\n## 词组搭配 (Collocations)\n\n- `en blyg flicka` — 一个害羞的女孩\n- `vara blyg` — 很害羞\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：blyg / blygt / blyga",
+      "excerpt": "blyg — adjektiv 📖 中文：害羞的 · English: shy 发音提示：/blyːɡ/ 语法变形 (Forms) Form Swedish Obestämd en ord blyg Obestämd ett ord blygt Bestämd / plural blyga 词组搭配 (Collocations) en blyg flicka — 一个害羞的女孩 vara blyg — 很害羞 例句 (Sentence",
+      "links": [
+        "topic-karaktarsord",
+        "topic-personer"
+      ],
+      "searchText": "blyg blyg knowledge_base/words/blyg.md ---\ntype: word\nlemma: \"blyg\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"害羞的\"\nen: \"shy\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-personer\", \"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# blyg — adjektiv\n\n📖 中文：害羞的 · English: shy\n发音提示：/blyːɡ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | blyg |\n| Obestämd ett-ord | blygt |\n| Bestämd / plural | blyga |\n\n## 词组搭配 (Collocations)\n\n- `en blyg flicka` — 一个害羞的女孩\n- `vara blyg` — 很害羞\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：blyg / blygt / blyga\n",
+      "lemma": "blyg",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "害羞的",
+      "en": "shy",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "bok",
       "type": "word",
       "title": "bok",
@@ -11172,7 +11603,8 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
-        "source-2026-06-09-zlatan-bio"
+        "source-2026-06-09-zlatan-bio",
+        "topic-familj-och-barn"
       ]
     },
     {
@@ -11215,6 +11647,38 @@ window.KB_DATA = {
         "source-2026-06-09-rumsliga-relationer",
         "topic-rumsliga-relationer",
         "vid"
+      ]
+    },
+    {
+      "slug": "bror",
+      "type": "word",
+      "title": "bror",
+      "path": "knowledge_base/words/bror.md",
+      "body": "# bror — substantiv (en)\n\n📖 中文：哥哥、弟弟 · English: brother\n发音提示：/bruːr/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en bror |\n| Bestämd sg. | brodern |\n| Obestämd pl. | bröder |\n| Bestämd pl. | bröderna |\n\n> ⚠️ 不规则：bror → brodern（bestämd sg.）；bröder → bröderna（pl. 元音变音）\n\n## 词组搭配 (Collocations)\n\n- `en trogen bror` — 一个忠诚的兄弟\n- `min bror` — 我的兄弟\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[syskon]]\n- 反义词: [[syster]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则变形：bror / brodern / bröder / bröderna\n- bröder 的 ö 是元音变音（umlaut）",
+      "excerpt": "bror — substantiv (en) 📖 中文：哥哥、弟弟 · English: brother 发音提示：/bruːr/ 语法变形 (Forms) Form Swedish Obestämd sg. en bror Bestämd sg. brodern Obestämd pl. bröder Bestämd pl. bröderna ⚠️ 不规则：bror → brodern（bestämd sg.）；bröder → b",
+      "links": [
+        "syskon",
+        "syster",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "bror bror knowledge_base/words/bror.md ---\ntype: word\nlemma: \"bror\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"哥哥、弟弟\"\nen: \"brother\"\nsynonyms: []\nantonyms: [\"syster\"]\nfamily: [\"syskon\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bror — substantiv (en)\n\n📖 中文：哥哥、弟弟 · English: brother\n发音提示：/bruːr/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en bror |\n| Bestämd sg. | brodern |\n| Obestämd pl. | bröder |\n| Bestämd pl. | bröderna |\n\n> ⚠️ 不规则：bror → brodern（bestämd sg.）；bröder → bröderna（pl. 元音变音）\n\n## 词组搭配 (Collocations)\n\n- `en trogen bror` — 一个忠诚的兄弟\n- `min bror` — 我的兄弟\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[syskon]]\n- 反义词: [[syster]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则变形：bror / brodern / bröder / bröderna\n- bröder 的 ö 是元音变音（umlaut）\n",
+      "lemma": "bror",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "哥哥、弟弟",
+      "en": "brother",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "syskon",
+        "syster",
+        "topic-personer"
       ]
     },
     {
@@ -11367,7 +11831,7 @@ window.KB_DATA = {
         "lokal",
         "sent-du-ser-en-stor-rod-byggnad"
       ],
-      "searchText": "byggnad byggnad knowledge_base/words/byggnad.md ---\ntype: word\nlemma: \"byggnad\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"建筑；楼\"\nen: \"building\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-du-ser-en-stor-rod-byggnad\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# byggnad — substantiv (en)\n\n📖 中文：建筑；楼 · English: building\n发音提示：BYGG-nad；两音节，gg 发浊音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byggnad |\n| Singular bestämd | byggnaden |\n| Plural obestämd | byggnader |\n| Plural bestämd | byggnaderna |\n\n## 词组搭配 (Collocations)\n\n- `stor röd byggnad` — 大红楼\n- `historisk byggnad` — 历史建筑\n- `offentlig byggnad` — 公共建筑\n- `byggnadsarbetare` — 建筑工人\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bygga]] (v. 建造), [[byggare]] (建造者), [[byggnation]] (建设活动)\n- 同义词: [[hus]] (ett, 房屋/楼), [[lokal]] (en, 场所/房间)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `byggnad` 偏正式，指建筑物整体；`hus` 更口语，通常指住宅/房屋。\n",
+      "searchText": "byggnad byggnad knowledge_base/words/byggnad.md ---\ntype: word\nlemma: \"byggnad\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"建筑；楼\"\nen: \"building\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-stadsmiljo]\nsentences:\n  - sent-du-ser-en-stor-rod-byggnad\n  - sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# byggnad — substantiv (en)\n\n📖 中文：建筑；楼 · English: building\n发音提示：BYGG-nad；两音节，gg 发浊音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byggnad |\n| Singular bestämd | byggnaden |\n| Plural obestämd | byggnader |\n| Plural bestämd | byggnaderna |\n\n## 词组搭配 (Collocations)\n\n- `stor röd byggnad` — 大红楼\n- `historisk byggnad` — 历史建筑\n- `offentlig byggnad` — 公共建筑\n- `byggnadsarbetare` — 建筑工人\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bygga]] (v. 建造), [[byggare]] (建造者), [[byggnation]] (建设活动)\n- 同义词: [[hus]] (ett, 房屋/楼), [[lokal]] (en, 场所/房间)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `byggnad` 偏正式，指建筑物整体；`hus` 更口语，通常指住宅/房屋。\n",
       "lemma": "byggnad",
       "ordklass": "substantiv",
       "cefr": "A2",
@@ -11376,9 +11840,12 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "sentences": [
-        "sent-du-ser-en-stor-rod-byggnad"
+        "sent-du-ser-en-stor-rod-byggnad",
+        "sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank"
       ],
-      "topics": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
       "backlinks": [
         "du-kan-inte-missa-den",
         "sent-du-ser-en-stor-rod-byggnad",
@@ -11538,6 +12005,36 @@ window.KB_DATA = {
         "source-2026-06-09-beskriva-en-gata",
         "topic-stadsmiljo",
         "topic-trafik"
+      ]
+    },
+    {
+      "slug": "dam",
+      "type": "word",
+      "title": "dam",
+      "path": "knowledge_base/words/dam.md",
+      "body": "# dam — substantiv (en)\n\n📖 中文：女士 · English: lady\n发音提示：/dɑːm/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en dam |\n| Bestämd sg. | damen |\n| Obestämd pl. | damer |\n| Bestämd pl. | damerna |\n\n## 词组搭配 (Collocations)\n\n- `en rik dam` — 一位富有的女士\n- `herrar och damer` — 先生们和女士们\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kvinna]]\n- 反义词: [[herre]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- dam 比 kvinna 更正式/礼貌；也指棋类\"皇后\"或\"跳棋\"",
+      "excerpt": "dam — substantiv (en) 📖 中文：女士 · English: lady 发音提示：/dɑːm/ 语法变形 (Forms) Form Swedish Obestämd sg. en dam Bestämd sg. damen Obestämd pl. damer Bestämd pl. damerna 词组搭配 (Collocations) en rik dam — 一位富有的女士 herrar och damer ",
+      "links": [
+        "herre",
+        "kvinna",
+        "topic-personer"
+      ],
+      "searchText": "dam dam knowledge_base/words/dam.md ---\ntype: word\nlemma: \"dam\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"女士\"\nen: \"lady\"\nsynonyms: [\"kvinna\"]\nantonyms: [\"herre\"]\nfamily: []\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# dam — substantiv (en)\n\n📖 中文：女士 · English: lady\n发音提示：/dɑːm/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en dam |\n| Bestämd sg. | damen |\n| Obestämd pl. | damer |\n| Bestämd pl. | damerna |\n\n## 词组搭配 (Collocations)\n\n- `en rik dam` — 一位富有的女士\n- `herrar och damer` — 先生们和女士们\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kvinna]]\n- 反义词: [[herre]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- dam 比 kvinna 更正式/礼貌；也指棋类\"皇后\"或\"跳棋\"\n",
+      "lemma": "dam",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "女士",
+      "en": "lady",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "herre",
+        "kvinna",
+        "topic-personer"
       ]
     },
     {
@@ -11765,6 +12262,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "elegant",
+      "type": "word",
+      "title": "elegant",
+      "path": "knowledge_base/words/elegant.md",
+      "body": "# elegant — adjektiv\n\n📖 中文：优雅的 · English: elegant\n发音提示：/eləˈɡant/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | elegant |\n| Obestämd ett-ord | elegant |\n| Bestämd / plural | eleganta |\n\n> ⚠️ obestämd en-ord och ett-ord har samma form: elegant（inte \"elegatt\"）\n\n## 词组搭配 (Collocations)\n\n- `en elegant herre` — 一位优雅的先生\n- `se elegant ut` — 看起来优雅\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[elegans]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- elegant 的 en-ord 和 ett-ord 形式相同（loanword pattern，不变化）\n- bestämd/plural 形式加 -a：eleganta",
+      "excerpt": "elegant — adjektiv 📖 中文：优雅的 · English: elegant 发音提示：/eləˈɡant/ 语法变形 (Forms) Form Swedish Obestämd en ord elegant Obestämd ett ord elegant Bestämd / plural eleganta ⚠️ obestämd en ord och ett ord har samma form: elegant（",
+      "links": [
+        "elegans",
+        "topic-karaktarsord",
+        "topic-personer"
+      ],
+      "searchText": "elegant elegant knowledge_base/words/elegant.md ---\ntype: word\nlemma: \"elegant\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"优雅的\"\nen: \"elegant\"\nsynonyms: []\nantonyms: []\nfamily: [\"elegans\"]\ntopics: [\"topic-personer\", \"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# elegant — adjektiv\n\n📖 中文：优雅的 · English: elegant\n发音提示：/eləˈɡant/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | elegant |\n| Obestämd ett-ord | elegant |\n| Bestämd / plural | eleganta |\n\n> ⚠️ obestämd en-ord och ett-ord har samma form: elegant（inte \"elegatt\"）\n\n## 词组搭配 (Collocations)\n\n- `en elegant herre` — 一位优雅的先生\n- `se elegant ut` — 看起来优雅\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[elegans]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- elegant 的 en-ord 和 ett-ord 形式相同（loanword pattern，不变化）\n- bestämd/plural 形式加 -a：eleganta\n",
+      "lemma": "elegant",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "优雅的",
+      "en": "elegant",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "element",
       "type": "word",
       "title": "element",
@@ -11980,6 +12506,70 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "familj",
+      "type": "word",
+      "title": "familj",
+      "path": "knowledge_base/words/familj.md",
+      "body": "# familj — substantiv (en)\n\n📖 中文：家庭 · English: family\n发音提示：/faˈmɪlj/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en familj |\n| Bestämd sg. | familjen |\n| Obestämd pl. | familjer |\n| Bestämd pl. | familjerna |\n\n## 词组搭配 (Collocations)\n\n- `en lycklig familj` — 一个幸福的家庭\n- `min familj` — 我的家庭\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förälder]], [[syskon]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：familj / familjen / familjer / familjerna",
+      "excerpt": "familj — substantiv (en) 📖 中文：家庭 · English: family 发音提示：/faˈmɪlj/ 语法变形 (Forms) Form Swedish Obestämd sg. en familj Bestämd sg. familjen Obestämd pl. familjer Bestämd pl. familjerna 词组搭配 (Collocations) en lycklig familj ",
+      "links": [
+        "förälder",
+        "syskon",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "familj familj knowledge_base/words/familj.md ---\ntype: word\nlemma: \"familj\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"家庭\"\nen: \"family\"\nsynonyms: []\nantonyms: []\nfamily: [\"förälder\", \"syskon\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# familj — substantiv (en)\n\n📖 中文：家庭 · English: family\n发音提示：/faˈmɪlj/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en familj |\n| Bestämd sg. | familjen |\n| Obestämd pl. | familjer |\n| Bestämd pl. | familjerna |\n\n## 词组搭配 (Collocations)\n\n- `en lycklig familj` — 一个幸福的家庭\n- `min familj` — 我的家庭\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förälder]], [[syskon]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：familj / familjen / familjer / familjerna\n",
+      "lemma": "familj",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "家庭",
+      "en": "family",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "förälder",
+        "topic-personer"
+      ]
+    },
+    {
+      "slug": "far",
+      "type": "word",
+      "title": "far",
+      "path": "knowledge_base/words/far.md",
+      "body": "# far — substantiv\n\n📖 中文：父亲（书面/正式）· English: father (written/formal)\n发音提示：/fɑːr/，单音节，a 发长音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular (grundform) | far |\n| bestämd singular | fadern |\n| obestämd plural | fäder |\n| bestämd plural | fäderna |\n\n> ⚠️ Irregular: umlaut a → ä in plural forms.\n\n## 词组搭配 (Collocations)\n\n- `mor och far` — 母亲和父亲（双亲）\n- `till sin far` — 向/对他的父亲\n- `fäder och mödrar` — 父亲们和母亲们\n\n## 例句 (Sentences)\n\n- 🇸🇪 Min far arbetar på ett sjukhus. — 🇨🇳 我的父亲在医院工作。\n- 🇸🇪 Pojken leker med sin far. — 🇨🇳 男孩和他的父亲玩耍。\n- 🇸🇪 Många fäder tar föräldraledighet. — 🇨🇳 很多父亲会请育儿假。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förälder]], [[mor]]\n- 同义词: [[pappa]]\n- 反义词: —\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `far` 是书面语/正式用词，日常口语中通常说 [[pappa]]。\n- 复数形式 `fäder` 有元音变音（umlaut）：a → ä。\n- 在一些表达中 `far` 也表示\"祖先\"或\"先辈\"，如 `våra fäder` (我们的先辈)。",
+      "excerpt": "far — substantiv 📖 中文：父亲（书面/正式）· English: father (written/formal) 发音提示：/fɑːr/，单音节，a 发长音 语法变形 (Forms) form Swedish obestämd singular (grundform) far bestämd singular fadern obestämd plural fäder bestämd plural fäderna ⚠️",
+      "links": [
+        "förälder",
+        "mor",
+        "pappa",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "far far knowledge_base/words/far.md ---\ntype: word\nlemma: \"far\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"父亲（书面/正式）\"\nen: \"father (written/formal)\"\nsynonyms: [\"pappa\"]\nantonyms: []\nfamily: [\"förälder\", \"mor\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# far — substantiv\n\n📖 中文：父亲（书面/正式）· English: father (written/formal)\n发音提示：/fɑːr/，单音节，a 发长音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular (grundform) | far |\n| bestämd singular | fadern |\n| obestämd plural | fäder |\n| bestämd plural | fäderna |\n\n> ⚠️ Irregular: umlaut a → ä in plural forms.\n\n## 词组搭配 (Collocations)\n\n- `mor och far` — 母亲和父亲（双亲）\n- `till sin far` — 向/对他的父亲\n- `fäder och mödrar` — 父亲们和母亲们\n\n## 例句 (Sentences)\n\n- 🇸🇪 Min far arbetar på ett sjukhus. — 🇨🇳 我的父亲在医院工作。\n- 🇸🇪 Pojken leker med sin far. — 🇨🇳 男孩和他的父亲玩耍。\n- 🇸🇪 Många fäder tar föräldraledighet. — 🇨🇳 很多父亲会请育儿假。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förälder]], [[mor]]\n- 同义词: [[pappa]]\n- 反义词: —\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `far` 是书面语/正式用词，日常口语中通常说 [[pappa]]。\n- 复数形式 `fäder` 有元音变音（umlaut）：a → ä。\n- 在一些表达中 `far` 也表示\"祖先\"或\"先辈\"，如 `våra fäder` (我们的先辈)。\n",
+      "lemma": "far",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "父亲（书面/正式）",
+      "en": "father (written/formal)",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "mor",
+        "pappa",
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "får",
       "type": "word",
       "title": "får",
@@ -12077,6 +12667,33 @@ window.KB_DATA = {
         "stol",
         "topic-hemmet",
         "topic-mobler"
+      ]
+    },
+    {
+      "slug": "fattig",
+      "type": "word",
+      "title": "fattig",
+      "path": "knowledge_base/words/fattig.md",
+      "body": "# fattig — adjektiv\n\n📖 中文：贫穷的 · English: poor, impoverished\n发音提示：/ˈfatːɪɡ/，重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| en-form (utrum) | fattig |\n| ett-form (neutrum) | fattigt |\n| plural / bestämd form | fattiga |\n\n## 词组搭配 (Collocations)\n\n- `fattig familj` — 贫穷的家庭\n- `leva fattigt` — 过贫穷的生活\n- `fattiga länder` — 贫穷的国家\n\n## 例句 (Sentences)\n\n- 🇸🇪 Familjen var fattig, men lycklig. — 🇨🇳 那家人很贫穷，但很幸福。\n- 🇸🇪 Det fattiga barnet fick inga leksaker. — 🇨🇳 那个贫穷的孩子没有得到玩具。\n- 🇸🇪 Många fattiga länder behöver hjälp. — 🇨🇳 许多贫穷的国家需要帮助。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: [[rik]]\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- Adjektivets neutralform: `fattigt` (ett fattigt land).\n- Bestämd/plural form: `fattiga` (de fattiga; ett fattigt barn → det fattiga barnet).\n- Inte att förväxla med engelskans \"poor\" som också kan betyda \"dålig\" — på svenska används `dålig` eller `svag` för den betydelsen.",
+      "excerpt": "fattig — adjektiv 📖 中文：贫穷的 · English: poor, impoverished 发音提示：/ˈfatːɪɡ/，重音在第一音节 语法变形 (Forms) form Swedish en form (utrum) fattig ett form (neutrum) fattigt plural / bestämd form fattiga 词组搭配 (Collocations) fattig familj",
+      "links": [
+        "rik",
+        "topic-karaktarsord"
+      ],
+      "searchText": "fattig fattig knowledge_base/words/fattig.md ---\ntype: word\nlemma: \"fattig\"\nordklass: \"adjektiv\"\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"贫穷的\"\nen: \"poor, impoverished\"\nsynonyms: []\nantonyms: [\"rik\"]\nfamily: []\ntopics: [\"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fattig — adjektiv\n\n📖 中文：贫穷的 · English: poor, impoverished\n发音提示：/ˈfatːɪɡ/，重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| en-form (utrum) | fattig |\n| ett-form (neutrum) | fattigt |\n| plural / bestämd form | fattiga |\n\n## 词组搭配 (Collocations)\n\n- `fattig familj` — 贫穷的家庭\n- `leva fattigt` — 过贫穷的生活\n- `fattiga länder` — 贫穷的国家\n\n## 例句 (Sentences)\n\n- 🇸🇪 Familjen var fattig, men lycklig. — 🇨🇳 那家人很贫穷，但很幸福。\n- 🇸🇪 Det fattiga barnet fick inga leksaker. — 🇨🇳 那个贫穷的孩子没有得到玩具。\n- 🇸🇪 Många fattiga länder behöver hjälp. — 🇨🇳 许多贫穷的国家需要帮助。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: [[rik]]\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- Adjektivets neutralform: `fattigt` (ett fattigt land).\n- Bestämd/plural form: `fattiga` (de fattiga; ett fattigt barn → det fattiga barnet).\n- Inte att förväxla med engelskans \"poor\" som också kan betyda \"dålig\" — på svenska används `dålig` eller `svag` för den betydelsen.\n",
+      "lemma": "fattig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "贫穷的",
+      "en": "poor, impoverished",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "rik"
       ]
     },
     {
@@ -12217,6 +12834,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "flicka",
+      "type": "word",
+      "title": "flicka",
+      "path": "knowledge_base/words/flicka.md",
+      "body": "# flicka — substantiv (en)\n\n📖 中文：女孩 · English: girl\n发音提示：/ˈflɪka/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en flicka |\n| Bestämd sg. | flickan |\n| Obestämd pl. | flickor |\n| Bestämd pl. | flickorna |\n\n## 词组搭配 (Collocations)\n\n- `en blyg flicka` — 一个害羞的女孩\n- `en liten flicka` — 一个小女孩\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[tjej]]\n- 反义词: [[pojke]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：flicka / flickan / flickor / flickorna",
+      "excerpt": "flicka — substantiv (en) 📖 中文：女孩 · English: girl 发音提示：/ˈflɪka/ 语法变形 (Forms) Form Swedish Obestämd sg. en flicka Bestämd sg. flickan Obestämd pl. flickor Bestämd pl. flickorna 词组搭配 (Collocations) en blyg flicka — 一个害羞的女孩",
+      "links": [
+        "pojke",
+        "tjej",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "flicka flicka knowledge_base/words/flicka.md ---\ntype: word\nlemma: \"flicka\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"女孩\"\nen: \"girl\"\nsynonyms: [\"tjej\"]\nantonyms: [\"pojke\"]\nfamily: []\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# flicka — substantiv (en)\n\n📖 中文：女孩 · English: girl\n发音提示：/ˈflɪka/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en flicka |\n| Bestämd sg. | flickan |\n| Obestämd pl. | flickor |\n| Bestämd pl. | flickorna |\n\n## 词组搭配 (Collocations)\n\n- `en blyg flicka` — 一个害羞的女孩\n- `en liten flicka` — 一个小女孩\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[tjej]]\n- 反义词: [[pojke]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：flicka / flickan / flickor / flickorna\n",
+      "lemma": "flicka",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "女孩",
+      "en": "girl",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "pojke",
+        "source-2026-06-02-valj-ratt-form",
+        "tjej",
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "flytta",
       "type": "word",
       "title": "flytta",
@@ -12353,6 +13003,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "förälder",
+      "type": "word",
+      "title": "förälder",
+      "path": "knowledge_base/words/förälder.md",
+      "body": "# förälder — substantiv (en)\n\n📖 中文：家长、父母 · English: parent\n发音提示：/fœˈrɛldər/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en förälder |\n| Bestämd sg. | föräldern |\n| Obestämd pl. | föräldrar |\n| Bestämd pl. | föräldrarna |\n\n> ⚠️ syncope：förälder → föräldern（bestämd sg.）；föräldrar（pl. 省音 -e-）\n\n## 词组搭配 (Collocations)\n\n- `en stolt förälder` — 一位自豪的家长\n- `mina föräldrar` — 我的父母\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[mamma]], [[pappa]], [[familj]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- syncope 变形：förälder / föräldern / föräldrar / föräldrarna\n- 常用复数 föräldrar 表示父母双方",
+      "excerpt": "förälder — substantiv (en) 📖 中文：家长、父母 · English: parent 发音提示：/fœˈrɛldər/ 语法变形 (Forms) Form Swedish Obestämd sg. en förälder Bestämd sg. föräldern Obestämd pl. föräldrar Bestämd pl. föräldrarna ⚠️ syncope：förälder → förä",
+      "links": [
+        "familj",
+        "mamma",
+        "pappa",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "förälder förälder knowledge_base/words/förälder.md ---\ntype: word\nlemma: \"förälder\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"家长、父母\"\nen: \"parent\"\nsynonyms: []\nantonyms: []\nfamily: [\"mamma\", \"pappa\", \"familj\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förälder — substantiv (en)\n\n📖 中文：家长、父母 · English: parent\n发音提示：/fœˈrɛldər/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en förälder |\n| Bestämd sg. | föräldern |\n| Obestämd pl. | föräldrar |\n| Bestämd pl. | föräldrarna |\n\n> ⚠️ syncope：förälder → föräldern（bestämd sg.）；föräldrar（pl. 省音 -e-）\n\n## 词组搭配 (Collocations)\n\n- `en stolt förälder` — 一位自豪的家长\n- `mina föräldrar` — 我的父母\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[mamma]], [[pappa]], [[familj]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- syncope 变形：förälder / föräldern / föräldrar / föräldrarna\n- 常用复数 föräldrar 表示父母双方\n",
+      "lemma": "förälder",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "家长、父母",
+      "en": "parent",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "familj",
+        "far",
+        "mamma",
+        "mor",
+        "pappa",
+        "source-2026-06-02-valj-ratt-form",
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "författare",
       "type": "word",
       "title": "författare",
@@ -12382,7 +13069,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "barnboksförfattare",
-        "source-2026-06-09-zlatan-bio"
+        "source-2026-06-09-zlatan-bio",
+        "topic-yrken"
       ]
     },
     {
@@ -12654,7 +13342,7 @@ window.KB_DATA = {
       "type": "word",
       "title": "framför",
       "path": "knowledge_base/words/framför.md",
-      "body": "# framför — preposition / adverb\n\n📖 中文：在……前面；在……面前 · English: in front of; before; ahead of\n发音提示：fram-FÖR；重音在第二音节，`ö` 长音。\n\n## 语法变形 (Forms)\n\n介词/副词，无变形。\n\n- **介词**：后接名词短语 → *framför huset*（在房子前面）\n- **副词**：单独使用 → *Han gick framför.*（他走在前面。）\n\n## 词组搭配 (Collocations)\n\n- `framför allt` — 首先/尤其是/最重要的是（超高频！）\n- `stå framför` — 站在……前面\n- `gå framför` — 走在前面；优先于\n- `sätta framför` — 放在……前面；把……置于优先\n- `framför sig` — 在自己面前\n- `ha framför sig` — 面前还有（时间/任务）\n- `hålla framför` — 挡在……前面\n\n## 例句 (Sentences)\n\n- 🇸🇪 *Bilen stod framför huset.* 🇨🇳 汽车停在房子前面。\n- 🇸🇪 *Framför allt måste vi lyssna på barnen.* 🇨🇳 最重要的是，我们必须倾听孩子们的声音。\n- 🇸🇪 *Hon hade ett långt liv framför sig.* 🇨🇳 她面前还有漫长的人生。\n- 🇸🇪 *Han höll handen framför munnen.* 🇨🇳 他用手捂住嘴。\n- 🇸🇪 *Det stod en stor spegel framför mig.* 🇨🇳 我面前立着一面大镜子。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fram]] (adv. 向前), [[framåt]] (adv/prep. 朝前), [[framtid]] (en, 未来), [[framgång]] (en, 成功), [[framme]] (adv. 在前面/到达)\n- 同义词（近义）: [[inför]] (抽象/仪式性\"面前\"), [[före]] (时间/顺序\"之前\")\n- 反义词: [[bakom]] (在……后面), [[efter]] (在……之后)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `framför` vs `inför`：**空间位置**用 `framför`（*stå framför spegeln* 站在镜子前）；**抽象/仪式场合**用 `inför`（*inför publiken* 在观众面前，*inför rätten* 出庭）。\n- ⚠️ `framför` vs `före`：`före` 侧重**时间/顺序**先后（*före dig i kön* 排队在你前面）；`framför` 侧重**空间位置**。\n- 📌 `framför allt` 是独立成语，意为\"首先/尤其\"，频率极高，单独记牢。",
+      "body": "# framför — preposition / adverb\n\n📖 中文：在……前面；在……面前 · English: in front of; before; ahead of\n发音提示：fram-FÖR；重音在第二音节，`ö` 长音。\n\n## 语法变形 (Forms)\n\n介词/副词，无变形。\n\n- **介词**：后接名词短语 → *framför huset*（在房子前面）\n- **副词**：单独使用 → *Han gick framför.*（他走在前面。）\n\n## 词组搭配 (Collocations)\n\n- `framför allt` — 首先/尤其是/最重要的是（超高频！）\n- `stå framför` — 站在……前面\n- `gå framför` — 走在前面；优先于\n- `sätta framför` — 放在……前面；把……置于优先\n- `framför sig` — 在自己面前\n- `ha framför sig` — 面前还有（时间/任务）\n- `hålla framför` — 挡在……前面\n\n## 例句 (Sentences)\n\n- 🇸🇪 *Bilen stod framför huset.* 🇨🇳 汽车停在房子前面。\n- 🇸🇪 *Framför allt måste vi lyssna på barnen.* 🇨🇳 最重要的是，我们必须倾听孩子们的声音。\n- 🇸🇪 *Hon hade ett långt liv framför sig.* 🇨🇳 她面前还有漫长的人生。\n- 🇸🇪 *Han höll handen framför munnen.* 🇨🇳 他用手捂住嘴。\n- 🇸🇪 *Det stod en stor spegel framför mig.* 🇨🇳 我面前立着一面大镜子。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fram]] (adv. 向前), [[framåt]] (adv/prep. 朝前), [[framtid]] (en, 未来), [[framgång]] (en, 成功), [[framme]] (adv. 在前面/到达)\n- 同义词（近义）: [[inför]] (抽象/仪式性\"面前\"), [[före]] (时间/顺序\"之前\")\n- 反义词: [[bakom]] (在……后面), [[efter]] (在……之后)\n- 主题: [[topic-rumsliga-relationer]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `framför` vs `inför`：**空间位置**用 `framför`（*stå framför spegeln* 站在镜子前）；**抽象/仪式场合**用 `inför`（*inför publiken* 在观众面前，*inför rätten* 出庭）。\n- ⚠️ `framför` vs `före`：`före` 侧重**时间/顺序**先后（*före dig i kön* 排队在你前面）；`framför` 侧重**空间位置**。\n- 📌 `framför allt` 是独立成语，意为\"首先/尤其\"，频率极高，单独记牢。",
       "excerpt": "framför — preposition / adverb 📖 中文：在……前面；在……面前 · English: in front of; before; ahead of 发音提示：fram FÖR；重音在第二音节， ö 长音。 语法变形 (Forms) 介词/副词，无变形。 介词 ：后接名词短语 → framför huset （在房子前面） 副词 ：单独使用 → Han gick framför. （他走在前面。） 词组搭配",
       "links": [
         "bakom",
@@ -12665,9 +13353,11 @@ window.KB_DATA = {
         "framgång",
         "framme",
         "framtid",
-        "inför"
+        "inför",
+        "topic-hemmet",
+        "topic-rumsliga-relationer"
       ],
-      "searchText": "framför framför knowledge_base/words/framför.md ---\ntype: word\nlemma: \"framför\"\nordklass: preposition/adverb\nverbgrupp: \"\"\ngenus: \"\"\ncefr: A2\nzh: 在……前面；在……面前\nen: in front of; before; ahead of\nsynonyms: []\nantonyms: []\nfamily: [fram, framåt, framtid, framgång, framme]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# framför — preposition / adverb\n\n📖 中文：在……前面；在……面前 · English: in front of; before; ahead of\n发音提示：fram-FÖR；重音在第二音节，`ö` 长音。\n\n## 语法变形 (Forms)\n\n介词/副词，无变形。\n\n- **介词**：后接名词短语 → *framför huset*（在房子前面）\n- **副词**：单独使用 → *Han gick framför.*（他走在前面。）\n\n## 词组搭配 (Collocations)\n\n- `framför allt` — 首先/尤其是/最重要的是（超高频！）\n- `stå framför` — 站在……前面\n- `gå framför` — 走在前面；优先于\n- `sätta framför` — 放在……前面；把……置于优先\n- `framför sig` — 在自己面前\n- `ha framför sig` — 面前还有（时间/任务）\n- `hålla framför` — 挡在……前面\n\n## 例句 (Sentences)\n\n- 🇸🇪 *Bilen stod framför huset.* 🇨🇳 汽车停在房子前面。\n- 🇸🇪 *Framför allt måste vi lyssna på barnen.* 🇨🇳 最重要的是，我们必须倾听孩子们的声音。\n- 🇸🇪 *Hon hade ett långt liv framför sig.* 🇨🇳 她面前还有漫长的人生。\n- 🇸🇪 *Han höll handen framför munnen.* 🇨🇳 他用手捂住嘴。\n- 🇸🇪 *Det stod en stor spegel framför mig.* 🇨🇳 我面前立着一面大镜子。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fram]] (adv. 向前), [[framåt]] (adv/prep. 朝前), [[framtid]] (en, 未来), [[framgång]] (en, 成功), [[framme]] (adv. 在前面/到达)\n- 同义词（近义）: [[inför]] (抽象/仪式性\"面前\"), [[före]] (时间/顺序\"之前\")\n- 反义词: [[bakom]] (在……后面), [[efter]] (在……之后)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `framför` vs `inför`：**空间位置**用 `framför`（*stå framför spegeln* 站在镜子前）；**抽象/仪式场合**用 `inför`（*inför publiken* 在观众面前，*inför rätten* 出庭）。\n- ⚠️ `framför` vs `före`：`före` 侧重**时间/顺序**先后（*före dig i kön* 排队在你前面）；`framför` 侧重**空间位置**。\n- 📌 `framför allt` 是独立成语，意为\"首先/尤其\"，频率极高，单独记牢。\n",
+      "searchText": "framför framför knowledge_base/words/framför.md ---\ntype: word\nlemma: \"framför\"\nordklass: preposition/adverb\nverbgrupp: \"\"\ngenus: \"\"\ncefr: A2\nzh: 在……前面；在……面前\nen: in front of; before; ahead of\nsynonyms: []\nantonyms: []\nfamily: [fram, framåt, framtid, framgång, framme]\ntopics: [topic-rumsliga-relationer, topic-hemmet, topic-stadsmiljo]\nsentences:\n  - sent-stolen-star-framfor-skrivbordet\n  - sent-soffan-star-mitt-i-rummet-framfor-soffbord\n  - sent-framfor-fonster-vid-vaggen-stor-krukvaxt\n  - sent-pa-golvet-framfor-soffan-rund-matta\n  - sent-framfor-butiken-stannar-buss-vid-busshallplatsen\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# framför — preposition / adverb\n\n📖 中文：在……前面；在……面前 · English: in front of; before; ahead of\n发音提示：fram-FÖR；重音在第二音节，`ö` 长音。\n\n## 语法变形 (Forms)\n\n介词/副词，无变形。\n\n- **介词**：后接名词短语 → *framför huset*（在房子前面）\n- **副词**：单独使用 → *Han gick framför.*（他走在前面。）\n\n## 词组搭配 (Collocations)\n\n- `framför allt` — 首先/尤其是/最重要的是（超高频！）\n- `stå framför` — 站在……前面\n- `gå framför` — 走在前面；优先于\n- `sätta framför` — 放在……前面；把……置于优先\n- `framför sig` — 在自己面前\n- `ha framför sig` — 面前还有（时间/任务）\n- `hålla framför` — 挡在……前面\n\n## 例句 (Sentences)\n\n- 🇸🇪 *Bilen stod framför huset.* 🇨🇳 汽车停在房子前面。\n- 🇸🇪 *Framför allt måste vi lyssna på barnen.* 🇨🇳 最重要的是，我们必须倾听孩子们的声音。\n- 🇸🇪 *Hon hade ett långt liv framför sig.* 🇨🇳 她面前还有漫长的人生。\n- 🇸🇪 *Han höll handen framför munnen.* 🇨🇳 他用手捂住嘴。\n- 🇸🇪 *Det stod en stor spegel framför mig.* 🇨🇳 我面前立着一面大镜子。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fram]] (adv. 向前), [[framåt]] (adv/prep. 朝前), [[framtid]] (en, 未来), [[framgång]] (en, 成功), [[framme]] (adv. 在前面/到达)\n- 同义词（近义）: [[inför]] (抽象/仪式性\"面前\"), [[före]] (时间/顺序\"之前\")\n- 反义词: [[bakom]] (在……后面), [[efter]] (在……之后)\n- 主题: [[topic-rumsliga-relationer]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `framför` vs `inför`：**空间位置**用 `framför`（*stå framför spegeln* 站在镜子前）；**抽象/仪式场合**用 `inför`（*inför publiken* 在观众面前，*inför rätten* 出庭）。\n- ⚠️ `framför` vs `före`：`före` 侧重**时间/顺序**先后（*före dig i kön* 排队在你前面）；`framför` 侧重**空间位置**。\n- 📌 `framför allt` 是独立成语，意为\"首先/尤其\"，频率极高，单独记牢。\n",
       "lemma": "framför",
       "ordklass": "preposition/adverb",
       "cefr": "A2",
@@ -12675,8 +13365,18 @@ window.KB_DATA = {
       "en": "in front of; before; ahead of",
       "created": "2026-06-02",
       "known": false,
-      "sentences": [],
-      "topics": [],
+      "sentences": [
+        "sent-stolen-star-framfor-skrivbordet",
+        "sent-soffan-star-mitt-i-rummet-framfor-soffbord",
+        "sent-framfor-fonster-vid-vaggen-stor-krukvaxt",
+        "sent-pa-golvet-framfor-soffan-rund-matta",
+        "sent-framfor-butiken-stannar-buss-vid-busshallplatsen"
+      ],
+      "topics": [
+        "topic-rumsliga-relationer",
+        "topic-hemmet",
+        "topic-stadsmiljo"
+      ],
       "backlinks": [
         "sent-framfor-butiken-stannar-buss-vid-busshallplatsen",
         "sent-framfor-fonster-vid-vaggen-stor-krukvaxt",
@@ -12686,6 +13386,33 @@ window.KB_DATA = {
         "source-2026-06-09-beskriva-en-gata",
         "source-2026-06-09-rumsliga-relationer",
         "topic-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "främling",
+      "type": "word",
+      "title": "främling",
+      "path": "knowledge_base/words/främling.md",
+      "body": "# främling — substantiv (en)\n\n📖 中文：陌生人 · English: stranger\n发音提示：/ˈfrɛmlɪŋ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en främling |\n| Bestämd sg. | främlingen |\n| Obestämd pl. | främlingar |\n| Bestämd pl. | främlingarna |\n\n## 词组搭配 (Collocations)\n\n- `en okänd främling` — 一个陌生的外人\n- `prata med en främling` — 与陌生人交谈\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[främmande]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：främling / främlingen / främlingar / främlingarna",
+      "excerpt": "främling — substantiv (en) 📖 中文：陌生人 · English: stranger 发音提示：/ˈfrɛmlɪŋ/ 语法变形 (Forms) Form Swedish Obestämd sg. en främling Bestämd sg. främlingen Obestämd pl. främlingar Bestämd pl. främlingarna 词组搭配 (Collocations) en o",
+      "links": [
+        "främmande",
+        "topic-personer"
+      ],
+      "searchText": "främling främling knowledge_base/words/främling.md ---\ntype: word\nlemma: \"främling\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"陌生人\"\nen: \"stranger\"\nsynonyms: []\nantonyms: []\nfamily: [\"främmande\"]\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# främling — substantiv (en)\n\n📖 中文：陌生人 · English: stranger\n发音提示：/ˈfrɛmlɪŋ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en främling |\n| Bestämd sg. | främlingen |\n| Obestämd pl. | främlingar |\n| Bestämd pl. | främlingarna |\n\n## 词组搭配 (Collocations)\n\n- `en okänd främling` — 一个陌生的外人\n- `prata med en främling` — 与陌生人交谈\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[främmande]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：främling / främlingen / främlingar / främlingarna\n",
+      "lemma": "främling",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "陌生人",
+      "en": "stranger",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "topic-personer"
       ]
     },
     {
@@ -12829,8 +13556,10 @@ window.KB_DATA = {
         "topic-djur"
       ],
       "backlinks": [
+        "modern",
         "source-2026-06-08-djur",
         "topic-djur",
+        "topic-personer",
         "ung"
       ]
     },
@@ -12869,6 +13598,33 @@ window.KB_DATA = {
         "placering",
         "source-2026-06-03-sundbyberg-forskola",
         "topic-förskola-system"
+      ]
+    },
+    {
+      "slug": "gäst",
+      "type": "word",
+      "title": "gäst",
+      "path": "knowledge_base/words/gäst.md",
+      "body": "# gäst — substantiv (en)\n\n📖 中文：客人 · English: guest\n发音提示：/jɛst/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en gäst |\n| Bestämd sg. | gästen |\n| Obestämd pl. | gäster |\n| Bestämd pl. | gästerna |\n\n## 词组搭配 (Collocations)\n\n- `en välkommen gäst` — 一位受欢迎的客人\n- `bjuda på gäster` — 招待客人\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[värd]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：gäst / gästen / gäster / gästerna",
+      "excerpt": "gäst — substantiv (en) 📖 中文：客人 · English: guest 发音提示：/jɛst/ 语法变形 (Forms) Form Swedish Obestämd sg. en gäst Bestämd sg. gästen Obestämd pl. gäster Bestämd pl. gästerna 词组搭配 (Collocations) en välkommen gäst — 一位受欢迎的客人 bju",
+      "links": [
+        "topic-personer",
+        "värd"
+      ],
+      "searchText": "gäst gäst knowledge_base/words/gäst.md ---\ntype: word\nlemma: \"gäst\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"客人\"\nen: \"guest\"\nsynonyms: []\nantonyms: [\"värd\"]\nfamily: []\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# gäst — substantiv (en)\n\n📖 中文：客人 · English: guest\n发音提示：/jɛst/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en gäst |\n| Bestämd sg. | gästen |\n| Obestämd pl. | gäster |\n| Bestämd pl. | gästerna |\n\n## 词组搭配 (Collocations)\n\n- `en välkommen gäst` — 一位受欢迎的客人\n- `bjuda på gäster` — 招待客人\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[värd]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：gäst / gästen / gäster / gästerna\n",
+      "lemma": "gäst",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "客人",
+      "en": "guest",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "topic-personer"
       ]
     },
     {
@@ -12931,7 +13687,39 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-02-astrid-lindgren",
-        "topic-familj-och-barn"
+        "topic-familj-och-barn",
+        "topic-personer"
+      ]
+    },
+    {
+      "slug": "glad",
+      "type": "word",
+      "title": "glad",
+      "path": "knowledge_base/words/glad.md",
+      "body": "# glad — adjektiv\n\n📖 中文：高兴的 · English: happy\n发音提示：/ɡlɑːd/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | glad |\n| Obestämd ett-ord | glatt |\n| Bestämd / plural | glada |\n\n> ⚠️ ett-形式：glatt（不是 \"gladt\"）\n\n## 词组搭配 (Collocations)\n\n- `en glad pojke` — 一个高兴的男孩\n- `vara glad för` — 为……感到高兴\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[lycklig]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- ett-形式 glatt 需注意（双 t）",
+      "excerpt": "glad — adjektiv 📖 中文：高兴的 · English: happy 发音提示：/ɡlɑːd/ 语法变形 (Forms) Form Swedish Obestämd en ord glad Obestämd ett ord glatt Bestämd / plural glada ⚠️ ett 形式：glatt（不是 \"gladt\"） 词组搭配 (Collocations) en glad pojke — 一个高兴的男孩",
+      "links": [
+        "lycklig",
+        "topic-karaktarsord",
+        "topic-personer"
+      ],
+      "searchText": "glad glad knowledge_base/words/glad.md ---\ntype: word\nlemma: \"glad\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"高兴的\"\nen: \"happy\"\nsynonyms: [\"lycklig\"]\nantonyms: []\nfamily: []\ntopics: [\"topic-personer\", \"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# glad — adjektiv\n\n📖 中文：高兴的 · English: happy\n发音提示：/ɡlɑːd/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | glad |\n| Obestämd ett-ord | glatt |\n| Bestämd / plural | glada |\n\n> ⚠️ ett-形式：glatt（不是 \"gladt\"）\n\n## 词组搭配 (Collocations)\n\n- `en glad pojke` — 一个高兴的男孩\n- `vara glad för` — 为……感到高兴\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[lycklig]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- ett-形式 glatt 需注意（双 t）\n",
+      "lemma": "glad",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "高兴的",
+      "en": "happy",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "arg",
+        "lycklig",
+        "topic-personer"
       ]
     },
     {
@@ -12966,6 +13754,37 @@ window.KB_DATA = {
       "backlinks": [
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
         "source-2026-06-09-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "god",
+      "type": "word",
+      "title": "god",
+      "path": "knowledge_base/words/god.md",
+      "body": "# god — adjektiv\n\n📖 中文：好的、善良的 · English: good\n发音提示：/ɡuːd/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | god |\n| Obestämd ett-ord | gott |\n| Bestämd / plural | goda |\n\n> ⚠️ ett-形式：gott（不是 \"godt\"）\n\n## 词组搭配 (Collocations)\n\n- `en god vän` — 一位好朋友\n- `god morgon` — 早上好\n- `smaka gott` — 味道好\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[godhet]]\n- 同义词: [[snäll]], [[vänlig]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- god 用于道德意义\"善良\"和味道\"好吃\"两种场景\n- ett-形式 gott（双 t）常见于食物表达：det smakar gott",
+      "excerpt": "god — adjektiv 📖 中文：好的、善良的 · English: good 发音提示：/ɡuːd/ 语法变形 (Forms) Form Swedish Obestämd en ord god Obestämd ett ord gott Bestämd / plural goda ⚠️ ett 形式：gott（不是 \"godt\"） 词组搭配 (Collocations) en god vän — 一位好朋友 god morgo",
+      "links": [
+        "godhet",
+        "snäll",
+        "topic-karaktarsord",
+        "topic-personer",
+        "vänlig"
+      ],
+      "searchText": "god god knowledge_base/words/god.md ---\ntype: word\nlemma: \"god\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"好的、善良的\"\nen: \"good\"\nsynonyms: [\"snäll\", \"vänlig\"]\nantonyms: []\nfamily: [\"godhet\"]\ntopics: [\"topic-personer\", \"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# god — adjektiv\n\n📖 中文：好的、善良的 · English: good\n发音提示：/ɡuːd/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | god |\n| Obestämd ett-ord | gott |\n| Bestämd / plural | goda |\n\n> ⚠️ ett-形式：gott（不是 \"godt\"）\n\n## 词组搭配 (Collocations)\n\n- `en god vän` — 一位好朋友\n- `god morgon` — 早上好\n- `smaka gott` — 味道好\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[godhet]]\n- 同义词: [[snäll]], [[vänlig]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- god 用于道德意义\"善良\"和味道\"好吃\"两种场景\n- ett-形式 gott（双 t）常见于食物表达：det smakar gott\n",
+      "lemma": "god",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "好的、善良的",
+      "en": "good",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "topic-personer"
       ]
     },
     {
@@ -13015,14 +13834,16 @@ window.KB_DATA = {
       "type": "word",
       "title": "grå",
       "path": "knowledge_base/words/grå.md",
-      "body": "# grå — adjektiv\n\n📖 中文：灰色的 · English: grey\n发音提示：grå（单音节，å 发长音）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum (en) | grå |\n| Neutrum (ett) | grått |\n| Plural / bestämd | gråa |\n\n## 词组搭配 (Collocations)\n\n- `grå dörr` — 灰色的门\n- `grå himmel` — 灰色的天空\n- `gråa dagar` — 灰暗的日子（比喻）\n- `gråa hår` — 灰白的头发\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gråhet]] (灰暗), [[gråna]] (v. 变灰白)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 三形变化：grå / grått / gråa（注意中性形 grått 双写 t）。\n- 口语中也拼作 `grå` / `gråt`（非正式）。",
+      "body": "# grå — adjektiv\n\n📖 中文：灰色的 · English: grey\n发音提示：grå（单音节，å 发长音）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum (en) | grå |\n| Neutrum (ett) | grått |\n| Plural / bestämd | gråa |\n\n## 词组搭配 (Collocations)\n\n- `grå dörr` — 灰色的门\n- `grå himmel` — 灰色的天空\n- `gråa dagar` — 灰暗的日子（比喻）\n- `gråa hår` — 灰白的头发\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gråhet]] (灰暗), [[gråna]] (v. 变灰白)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- 三形变化：grå / grått / gråa（注意中性形 grått 双写 t）。\n- 口语中也拼作 `grå` / `gråt`（非正式）。\n- 来源: [[source-2026-06-08-djur]]",
       "excerpt": "grå — adjektiv 📖 中文：灰色的 · English: grey 发音提示：grå（单音节，å 发长音）。 语法变形 (Forms) Form Swedish Utrum (en) grå Neutrum (ett) grått Plural / bestämd gråa 词组搭配 (Collocations) grå dörr — 灰色的门 grå himmel — 灰色的天空 gråa dagar — 灰暗的日子（比",
       "links": [
         "gråhet",
         "gråna",
-        "sent-fortsatt-lite-till-gra-dorr"
+        "sent-fortsatt-lite-till-gra-dorr",
+        "source-2026-06-08-djur",
+        "topic-djur"
       ],
-      "searchText": "grå grå knowledge_base/words/grå.md ---\ntype: word\nlemma: \"grå\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"灰色的\"\nen: \"grey\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-fortsatt-lite-till-gra-dorr\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# grå — adjektiv\n\n📖 中文：灰色的 · English: grey\n发音提示：grå（单音节，å 发长音）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum (en) | grå |\n| Neutrum (ett) | grått |\n| Plural / bestämd | gråa |\n\n## 词组搭配 (Collocations)\n\n- `grå dörr` — 灰色的门\n- `grå himmel` — 灰色的天空\n- `gråa dagar` — 灰暗的日子（比喻）\n- `gråa hår` — 灰白的头发\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gråhet]] (灰暗), [[gråna]] (v. 变灰白)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 三形变化：grå / grått / gråa（注意中性形 grått 双写 t）。\n- 口语中也拼作 `grå` / `gråt`（非正式）。\n",
+      "searchText": "grå grå knowledge_base/words/grå.md ---\ntype: word\nlemma: \"grå\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"灰色的\"\nen: \"grey\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-djur]\nsentences:\n  - sent-fortsatt-lite-till-gra-dorr\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# grå — adjektiv\n\n📖 中文：灰色的 · English: grey\n发音提示：grå（单音节，å 发长音）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum (en) | grå |\n| Neutrum (ett) | grått |\n| Plural / bestämd | gråa |\n\n## 词组搭配 (Collocations)\n\n- `grå dörr` — 灰色的门\n- `grå himmel` — 灰色的天空\n- `gråa dagar` — 灰暗的日子（比喻）\n- `gråa hår` — 灰白的头发\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gråhet]] (灰暗), [[gråna]] (v. 变灰白)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- 三形变化：grå / grått / gråa（注意中性形 grått 双写 t）。\n- 口语中也拼作 `grå` / `gråt`（非正式）。\n- 来源: [[source-2026-06-08-djur]]\n",
       "lemma": "grå",
       "ordklass": "adjektiv",
       "cefr": "A2",
@@ -13033,12 +13854,40 @@ window.KB_DATA = {
       "sentences": [
         "sent-fortsatt-lite-till-gra-dorr"
       ],
-      "topics": [],
+      "topics": [
+        "topic-djur"
+      ],
       "backlinks": [
         "sent-fortsatt-lite-till-gra-dorr",
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-08-djur",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "granne",
+      "type": "word",
+      "title": "granne",
+      "path": "knowledge_base/words/granne.md",
+      "body": "# granne — substantiv (en)\n\n📖 中文：邻居 · English: neighbor\n发音提示：/ˈɡranə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en granne |\n| Bestämd sg. | grannen |\n| Obestämd pl. | grannar |\n| Bestämd pl. | grannarna |\n\n## 词组搭配 (Collocations)\n\n- `en gammal granne` — 一位老邻居\n- `hälsa på grannen` — 向邻居问好\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：granne / grannen / grannar / grannarna",
+      "excerpt": "granne — substantiv (en) 📖 中文：邻居 · English: neighbor 发音提示：/ˈɡranə/ 语法变形 (Forms) Form Swedish Obestämd sg. en granne Bestämd sg. grannen Obestämd pl. grannar Bestämd pl. grannarna 词组搭配 (Collocations) en gammal granne — 一",
+      "links": [
+        "topic-personer"
+      ],
+      "searchText": "granne granne knowledge_base/words/granne.md ---\ntype: word\nlemma: \"granne\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"邻居\"\nen: \"neighbor\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# granne — substantiv (en)\n\n📖 中文：邻居 · English: neighbor\n发音提示：/ˈɡranə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en granne |\n| Bestämd sg. | grannen |\n| Obestämd pl. | grannar |\n| Bestämd pl. | grannarna |\n\n## 词组搭配 (Collocations)\n\n- `en gammal granne` — 一位老邻居\n- `hälsa på grannen` — 向邻居问好\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：granne / grannen / grannar / grannarna\n",
+      "lemma": "granne",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "邻居",
+      "en": "neighbor",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "topic-personer"
       ]
     },
     {
@@ -13279,6 +14128,7 @@ window.KB_DATA = {
         "topic-djur"
       ],
       "backlinks": [
+        "söt",
         "source-2026-06-08-djur",
         "topic-djur"
       ]
@@ -13424,17 +14274,21 @@ window.KB_DATA = {
       "type": "word",
       "title": "hänga",
       "path": "knowledge_base/words/hänga.md",
-      "body": "# hänga — verb (grupp 2a)\n\n📖 中文：挂；悬挂 · English: to hang\n发音提示：HÄN-ga；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att hänga |\n| Imperativ | häng! |\n| Presens | hänger |\n| Preteritum | hängde |\n| Supinum | (har) hängt |\n\n## 词组搭配 (Collocations)\n\n- `hänga en skylt` — 挂招牌\n- `det hänger en tavla` — 那里挂着一幅画（存在句）\n- `hänga av sig` — 挂起外衣\n- `hänga med` — 跟着去/跟得上（partikelverb）\n\n## 例句 (Sentences)\n\n- [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇈 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hängare]] (衣架), [[upphängning]] (悬挂装置)\n- 同义词: [[sitta]] (在某处固定/坐), [[vara uppsatt]] (被挂着)\n- 反义词: [[ta ner]] (取下)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 存在句：`det hänger en skylt utanför` = 外面挂着一块招牌（主语后置）。\n- `hänga med` (partikelverb): *Vill du hänga med?* — 你想一起来吗？\n- grupp 2a：preteritum 以 `-de` 结尾（hängde），supinum 以 `-t` 结尾（hängt）。",
+      "body": "# hänga — verb (grupp 2a)\n\n📖 中文：挂；悬挂 · English: to hang\n发音提示：HÄN-ga；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att hänga |\n| Imperativ | häng! |\n| Presens | hänger |\n| Preteritum | hängde |\n| Supinum | (har) hängt |\n\n## 词组搭配 (Collocations)\n\n- `hänga en skylt` — 挂招牌\n- `det hänger en tavla` — 那里挂着一幅画（存在句）\n- `hänga av sig` — 挂起外衣\n- `hänga med` — 跟着去/跟得上（partikelverb）\n\n## 例句 (Sentences)\n\n- [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇈 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。\n- [[sent-mitt-emot-sangen-hanger-en-tavla-pa-vaggen]] 🇸🇈 Mitt emot sängen hänger en tavla på väggen. 🇨🇳 正对着床的墙上挂着一幅画。\n- [[sent-television-hanger-pa-vaggen-mitt-emot-soffan]] 🇸🇈 Televisionen hänger på väggen mitt emot soffan. 🇨🇳 电视挂在正对沙发的那面墙上。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hängare]] (衣架), [[upphängning]] (悬挂装置)\n- 同义词: [[sitta]] (在某处固定/坐), [[vara uppsatt]] (被挂着)\n- 反义词: [[ta ner]] (取下)\n- 主题: [[topic-rumsliga-relationer]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 存在句：`det hänger en skylt utanför` = 外面挂着一块招牌（主语后置）。\n- `hänga med` (partikelverb): *Vill du hänga med?* — 你想一起来吗？\n- grupp 2a：preteritum 以 `-de` 结尾（hängde），supinum 以 `-t` 结尾（hängt）。",
       "excerpt": "hänga — verb (grupp 2a) 📖 中文：挂；悬挂 · English: to hang 发音提示：HÄN ga；两音节。 语法变形 (Forms) Form Swedish Infinitiv att hänga Imperativ häng! Presens hänger Preteritum hängde Supinum (har) hängt 词组搭配 (Collocations) hänga en skylt",
       "links": [
         "hängare",
         "sent-ja-det-hanger-en-liten-svart-skylt",
+        "sent-mitt-emot-sangen-hanger-en-tavla-pa-vaggen",
+        "sent-television-hanger-pa-vaggen-mitt-emot-soffan",
         "sitta",
         "ta ner",
+        "topic-hemmet",
+        "topic-rumsliga-relationer",
         "upphängning",
         "vara uppsatt"
       ],
-      "searchText": "hänga hänga knowledge_base/words/hänga.md ---\ntype: word\nlemma: \"hänga\"\nordklass: verb\nverbgrupp: \"2a\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"挂；悬挂\"\nen: \"to hang\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-ja-det-hanger-en-liten-svart-skylt\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hänga — verb (grupp 2a)\n\n📖 中文：挂；悬挂 · English: to hang\n发音提示：HÄN-ga；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att hänga |\n| Imperativ | häng! |\n| Presens | hänger |\n| Preteritum | hängde |\n| Supinum | (har) hängt |\n\n## 词组搭配 (Collocations)\n\n- `hänga en skylt` — 挂招牌\n- `det hänger en tavla` — 那里挂着一幅画（存在句）\n- `hänga av sig` — 挂起外衣\n- `hänga med` — 跟着去/跟得上（partikelverb）\n\n## 例句 (Sentences)\n\n- [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇈 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hängare]] (衣架), [[upphängning]] (悬挂装置)\n- 同义词: [[sitta]] (在某处固定/坐), [[vara uppsatt]] (被挂着)\n- 反义词: [[ta ner]] (取下)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 存在句：`det hänger en skylt utanför` = 外面挂着一块招牌（主语后置）。\n- `hänga med` (partikelverb): *Vill du hänga med?* — 你想一起来吗？\n- grupp 2a：preteritum 以 `-de` 结尾（hängde），supinum 以 `-t` 结尾（hängt）。\n",
+      "searchText": "hänga hänga knowledge_base/words/hänga.md ---\ntype: word\nlemma: \"hänga\"\nordklass: verb\nverbgrupp: \"2a\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"挂；悬挂\"\nen: \"to hang\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-rumsliga-relationer, topic-hemmet]\nsentences:\n  - sent-ja-det-hanger-en-liten-svart-skylt\n  - sent-mitt-emot-sangen-hanger-en-tavla-pa-vaggen\n  - sent-television-hanger-pa-vaggen-mitt-emot-soffan\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hänga — verb (grupp 2a)\n\n📖 中文：挂；悬挂 · English: to hang\n发音提示：HÄN-ga；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att hänga |\n| Imperativ | häng! |\n| Presens | hänger |\n| Preteritum | hängde |\n| Supinum | (har) hängt |\n\n## 词组搭配 (Collocations)\n\n- `hänga en skylt` — 挂招牌\n- `det hänger en tavla` — 那里挂着一幅画（存在句）\n- `hänga av sig` — 挂起外衣\n- `hänga med` — 跟着去/跟得上（partikelverb）\n\n## 例句 (Sentences)\n\n- [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇈 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。\n- [[sent-mitt-emot-sangen-hanger-en-tavla-pa-vaggen]] 🇸🇈 Mitt emot sängen hänger en tavla på väggen. 🇨🇳 正对着床的墙上挂着一幅画。\n- [[sent-television-hanger-pa-vaggen-mitt-emot-soffan]] 🇸🇈 Televisionen hänger på väggen mitt emot soffan. 🇨🇳 电视挂在正对沙发的那面墙上。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hängare]] (衣架), [[upphängning]] (悬挂装置)\n- 同义词: [[sitta]] (在某处固定/坐), [[vara uppsatt]] (被挂着)\n- 反义词: [[ta ner]] (取下)\n- 主题: [[topic-rumsliga-relationer]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 存在句：`det hänger en skylt utanför` = 外面挂着一块招牌（主语后置）。\n- `hänga med` (partikelverb): *Vill du hänga med?* — 你想一起来吗？\n- grupp 2a：preteritum 以 `-de` 结尾（hängde），supinum 以 `-t` 结尾（hängt）。\n",
       "lemma": "hänga",
       "ordklass": "verb",
       "cefr": "A2",
@@ -13443,9 +14297,14 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "sentences": [
-        "sent-ja-det-hanger-en-liten-svart-skylt"
+        "sent-ja-det-hanger-en-liten-svart-skylt",
+        "sent-mitt-emot-sangen-hanger-en-tavla-pa-vaggen",
+        "sent-television-hanger-pa-vaggen-mitt-emot-soffan"
       ],
-      "topics": [],
+      "topics": [
+        "topic-rumsliga-relationer",
+        "topic-hemmet"
+      ],
       "backlinks": [
         "sent-ja-det-hanger-en-liten-svart-skylt",
         "sent-mitt-emot-sangen-hanger-en-tavla-pa-vaggen",
@@ -13517,6 +14376,34 @@ window.KB_DATA = {
         "source-2026-06-02-astrid-lindgren",
         "topic-familj-och-barn",
         "topic-yrken"
+      ]
+    },
+    {
+      "slug": "herre",
+      "type": "word",
+      "title": "herre",
+      "path": "knowledge_base/words/herre.md",
+      "body": "# herre — substantiv (en)\n\n📖 中文：先生 · English: gentleman\n发音提示：/ˈhɛrə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en herre |\n| Bestämd sg. | herren (also: herrn) |\n| Obestämd pl. | herrar |\n| Bestämd pl. | herrarna |\n\n> ⚠️ bestämd sg. 有两种形式：herren 和 herrn（口语较常用 herrn）\n\n## 词组搭配 (Collocations)\n\n- `en elegant herre` — 一位优雅的先生\n- `herrar och damer` — 先生们和女士们\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[dam]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 复数 herrar 注意变形（不规则）\n- herrn/herren 均可用于 bestämd sg.",
+      "excerpt": "herre — substantiv (en) 📖 中文：先生 · English: gentleman 发音提示：/ˈhɛrə/ 语法变形 (Forms) Form Swedish Obestämd sg. en herre Bestämd sg. herren (also: herrn) Obestämd pl. herrar Bestämd pl. herrarna ⚠️ bestämd sg. 有两种形式：herren 和 h",
+      "links": [
+        "dam",
+        "topic-personer"
+      ],
+      "searchText": "herre herre knowledge_base/words/herre.md ---\ntype: word\nlemma: \"herre\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"先生\"\nen: \"gentleman\"\nsynonyms: []\nantonyms: [\"dam\"]\nfamily: []\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# herre — substantiv (en)\n\n📖 中文：先生 · English: gentleman\n发音提示：/ˈhɛrə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en herre |\n| Bestämd sg. | herren (also: herrn) |\n| Obestämd pl. | herrar |\n| Bestämd pl. | herrarna |\n\n> ⚠️ bestämd sg. 有两种形式：herren 和 herrn（口语较常用 herrn）\n\n## 词组搭配 (Collocations)\n\n- `en elegant herre` — 一位优雅的先生\n- `herrar och damer` — 先生们和女士们\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[dam]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 复数 herrar 注意变形（不规则）\n- herrn/herren 均可用于 bestämd sg.\n",
+      "lemma": "herre",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "先生",
+      "en": "gentleman",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "dam",
+        "topic-personer"
       ]
     },
     {
@@ -13678,7 +14565,7 @@ window.KB_DATA = {
         "topic-riktningar",
         "vänster"
       ],
-      "searchText": "höger höger knowledge_base/words/höger.md ---\ntype: word\nlemma: \"höger\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"右；右边\"\nen: \"right\"\nsynonyms: []\nantonyms:\n  - vänster\nfamily:\n  - vänster\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-fortsatt-lite-till-gra-dorr\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# höger — substantiv / adverb\n\n📖 中文：右；右边 · English: right\n发音提示：HÖ-ger；两音节。\n\n## 语法变形 (Forms)\n\n无变形（用作副词时）。\n\n| Uttryck | Användning |\n|---------|-----------|\n| `på höger sida` | 在右侧 |\n| `till höger` | 在右边 |\n| `sväng höger` | 向右转 |\n| `höger om` | 在…的右边 |\n\n## 词组搭配 (Collocations)\n\n- `på höger sida` — 在右侧\n- `till höger` — 向右/在右边\n- `sväng till höger` — 向右转\n- `hålla höger` — 靠右行驶\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[högersida]] (右侧), [[högertrafik]] (靠右行驶规则)\n- 同义词: —\n- 反义词: [[vänster]]\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `på höger sida` 和 `till höger` 都表示\"在右边\"，可互换。\n- 政治语境：*högern* = 右派。\n",
+      "searchText": "höger höger knowledge_base/words/höger.md ---\ntype: word\nlemma: \"höger\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"右；右边\"\nen: \"right\"\nsynonyms: []\nantonyms:\n  - vänster\nfamily:\n  - vänster\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-fortsatt-lite-till-gra-dorr\n  - sent-till-hoger-om-soffan-star-bokhylla\n  - sent-till-hoger-om-mig-ligger-en-park\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# höger — substantiv / adverb\n\n📖 中文：右；右边 · English: right\n发音提示：HÖ-ger；两音节。\n\n## 语法变形 (Forms)\n\n无变形（用作副词时）。\n\n| Uttryck | Användning |\n|---------|-----------|\n| `på höger sida` | 在右侧 |\n| `till höger` | 在右边 |\n| `sväng höger` | 向右转 |\n| `höger om` | 在…的右边 |\n\n## 词组搭配 (Collocations)\n\n- `på höger sida` — 在右侧\n- `till höger` — 向右/在右边\n- `sväng till höger` — 向右转\n- `hålla höger` — 靠右行驶\n\n## 例句 (Sentences)\n\n- [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till, det är en grå dörr på höger sida. 🇨🇳 再往前走一点，右边有一扇灰色的门。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[högersida]] (右侧), [[högertrafik]] (靠右行驶规则)\n- 同义词: —\n- 反义词: [[vänster]]\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `på höger sida` 和 `till höger` 都表示\"在右边\"，可互换。\n- 政治语境：*högern* = 右派。\n",
       "lemma": "höger",
       "ordklass": "substantiv",
       "cefr": "A1",
@@ -13687,7 +14574,9 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "sentences": [
-        "sent-fortsatt-lite-till-gra-dorr"
+        "sent-fortsatt-lite-till-gra-dorr",
+        "sent-till-hoger-om-soffan-star-bokhylla",
+        "sent-till-hoger-om-mig-ligger-en-park"
       ],
       "topics": [
         "topic-riktningar"
@@ -13829,16 +14718,17 @@ window.KB_DATA = {
       "type": "word",
       "title": "hungrig",
       "path": "knowledge_base/words/hungrig.md",
-      "body": "# hungrig — adjektiv\n\n📖 中文：饥饿的 · English: hungry\n发音提示：/ˈhɵŋrɪɡ/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | hungrig |\n| neutrum obestämd | hungrigt |\n| bestämd/plural | hungriga |\n| komparativ | hungrigare |\n| superlativ | hungrigast |\n\n## 词组搭配 (Collocations)\n\n- `en hungrig groda` — 一只饥饿的青蛙\n- `bli hungrig` — 变得饿了\n- `hungriga djur` — 饥饿的动物\n\n## 例句 (Sentences)\n\n- 🇸🇪 Grodan är hungrig och letar efter insekter. — 🇨🇳 青蛙饿了，在找虫子吃。\n- 🇸🇪 Jag är hungrig — kan vi äta snart? — 🇨🇳 我饿了——我们能快点吃饭吗？\n- 🇸🇪 De hungriga djuren samlas vid vattenhålet. — 🇨🇳 饥饿的动物们聚集在水坑边。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hunger]] (饥饿), [[svält]] (饥荒)\n- 同义词: —\n- 反义词: [[mätt]] (吃饱的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Hunger (subst.): Jag har hunger = 我饿了（较正式写法）.\n- 来源: [[source-2026-06-08-djur]]",
+      "body": "# hungrig — adjektiv\n\n📖 中文：饥饿的 · English: hungry\n发音提示：/ˈhɵŋrɪɡ/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | hungrig |\n| neutrum obestämd | hungrigt |\n| bestämd/plural | hungriga |\n| komparativ | hungrigare |\n| superlativ | hungrigast |\n\n## 词组搭配 (Collocations)\n\n- `en hungrig groda` — 一只饥饿的青蛙\n- `bli hungrig` — 变得饿了\n- `hungriga djur` — 饥饿的动物\n\n## 例句 (Sentences)\n\n- 🇸🇪 Grodan är hungrig och letar efter insekter. — 🇨🇳 青蛙饿了，在找虫子吃。\n- 🇸🇪 Jag är hungrig — kan vi äta snart? — 🇨🇳 我饿了——我们能快点吃饭吗？\n- 🇸🇪 De hungriga djuren samlas vid vattenhålet. — 🇨🇳 饥饿的动物们聚集在水坑边。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hunger]] (饥饿), [[svält]] (饥荒)\n- 同义词: —\n- 反义词: [[mätt]] (吃饱的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Hunger (subst.): Jag har hunger = 我饿了（较正式写法）.\n- 来源: [[source-2026-06-08-djur]], [[source-2026-06-09-zlatan-bio]]",
       "excerpt": "hungrig — adjektiv 📖 中文：饥饿的 · English: hungry 发音提示：/ˈhɵŋrɪɡ/ 语法变形 (Forms) form böjning utrum obestämd hungrig neutrum obestämd hungrigt bestämd/plural hungriga komparativ hungrigare superlativ hungrigast 词组搭配 (Collocati",
       "links": [
         "hunger",
         "mätt",
         "source-2026-06-08-djur",
+        "source-2026-06-09-zlatan-bio",
         "svält",
         "topic-djur"
       ],
-      "searchText": "hungrig hungrig knowledge_base/words/hungrig.md ---\ntype: word\nlemma: \"hungrig\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"饥饿的\"\nen: \"hungry\"\nsynonyms: []\nantonyms: [mätt]\nfamily: []\ntopics: [topic-djur]\nsentences: []\nknown: false\ncreated: \"2026-06-08\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hungrig — adjektiv\n\n📖 中文：饥饿的 · English: hungry\n发音提示：/ˈhɵŋrɪɡ/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | hungrig |\n| neutrum obestämd | hungrigt |\n| bestämd/plural | hungriga |\n| komparativ | hungrigare |\n| superlativ | hungrigast |\n\n## 词组搭配 (Collocations)\n\n- `en hungrig groda` — 一只饥饿的青蛙\n- `bli hungrig` — 变得饿了\n- `hungriga djur` — 饥饿的动物\n\n## 例句 (Sentences)\n\n- 🇸🇪 Grodan är hungrig och letar efter insekter. — 🇨🇳 青蛙饿了，在找虫子吃。\n- 🇸🇪 Jag är hungrig — kan vi äta snart? — 🇨🇳 我饿了——我们能快点吃饭吗？\n- 🇸🇪 De hungriga djuren samlas vid vattenhålet. — 🇨🇳 饥饿的动物们聚集在水坑边。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hunger]] (饥饿), [[svält]] (饥荒)\n- 同义词: —\n- 反义词: [[mätt]] (吃饱的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Hunger (subst.): Jag har hunger = 我饿了（较正式写法）.\n- 来源: [[source-2026-06-08-djur]]\n",
+      "searchText": "hungrig hungrig knowledge_base/words/hungrig.md ---\ntype: word\nlemma: \"hungrig\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"饥饿的\"\nen: \"hungry\"\nsynonyms: []\nantonyms: [mätt]\nfamily: []\ntopics: [topic-djur]\nsentences: [sent-dar-fanns-ingen-mat-ga-hungrig]\nknown: false\ncreated: \"2026-06-08\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hungrig — adjektiv\n\n📖 中文：饥饿的 · English: hungry\n发音提示：/ˈhɵŋrɪɡ/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | hungrig |\n| neutrum obestämd | hungrigt |\n| bestämd/plural | hungriga |\n| komparativ | hungrigare |\n| superlativ | hungrigast |\n\n## 词组搭配 (Collocations)\n\n- `en hungrig groda` — 一只饥饿的青蛙\n- `bli hungrig` — 变得饿了\n- `hungriga djur` — 饥饿的动物\n\n## 例句 (Sentences)\n\n- 🇸🇪 Grodan är hungrig och letar efter insekter. — 🇨🇳 青蛙饿了，在找虫子吃。\n- 🇸🇪 Jag är hungrig — kan vi äta snart? — 🇨🇳 我饿了——我们能快点吃饭吗？\n- 🇸🇪 De hungriga djuren samlas vid vattenhålet. — 🇨🇳 饥饿的动物们聚集在水坑边。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hunger]] (饥饿), [[svält]] (饥荒)\n- 同义词: —\n- 反义词: [[mätt]] (吃饱的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Hunger (subst.): Jag har hunger = 我饿了（较正式写法）.\n- 来源: [[source-2026-06-08-djur]], [[source-2026-06-09-zlatan-bio]]\n",
       "lemma": "hungrig",
       "ordklass": "adjektiv",
       "cefr": "A1",
@@ -13846,7 +14736,9 @@ window.KB_DATA = {
       "en": "hungry",
       "created": "2026-06-08",
       "known": false,
-      "sentences": [],
+      "sentences": [
+        "sent-dar-fanns-ingen-mat-ga-hungrig"
+      ],
       "topics": [
         "topic-djur"
       ],
@@ -14201,9 +15093,11 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "en-av-sveriges-mest-kanda",
+        "okänd",
         "sent-zlatan-en-av-sveriges-mest-kanda",
         "source-2026-06-09-zlatan-bio",
-        "topic-fotboll"
+        "topic-fotboll",
+        "topic-personer"
       ]
     },
     {
@@ -14264,6 +15158,36 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-08-djur",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "kille",
+      "type": "word",
+      "title": "kille",
+      "path": "knowledge_base/words/kille.md",
+      "body": "# kille — substantiv (en)\n\n📖 中文：小伙子、男孩 · English: guy\n发音提示：/ˈɕɪlə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en kille |\n| Bestämd sg. | killen |\n| Obestämd pl. | killar |\n| Bestämd pl. | killarna |\n\n## 词组搭配 (Collocations)\n\n- `en stilig kille` — 一个帅气的小伙子\n- `killarna i laget` — 队里的小伙子们\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[pojke]]\n- 反义词: [[tjej]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- kille 是口语词，多指青少年/年轻男性；pojke 常用于儿童",
+      "excerpt": "kille — substantiv (en) 📖 中文：小伙子、男孩 · English: guy 发音提示：/ˈɕɪlə/ 语法变形 (Forms) Form Swedish Obestämd sg. en kille Bestämd sg. killen Obestämd pl. killar Bestämd pl. killarna 词组搭配 (Collocations) en stilig kille — 一个帅气的小伙子 ",
+      "links": [
+        "pojke",
+        "tjej",
+        "topic-personer"
+      ],
+      "searchText": "kille kille knowledge_base/words/kille.md ---\ntype: word\nlemma: \"kille\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"小伙子、男孩\"\nen: \"guy\"\nsynonyms: [\"pojke\"]\nantonyms: [\"tjej\"]\nfamily: []\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kille — substantiv (en)\n\n📖 中文：小伙子、男孩 · English: guy\n发音提示：/ˈɕɪlə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en kille |\n| Bestämd sg. | killen |\n| Obestämd pl. | killar |\n| Bestämd pl. | killarna |\n\n## 词组搭配 (Collocations)\n\n- `en stilig kille` — 一个帅气的小伙子\n- `killarna i laget` — 队里的小伙子们\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[pojke]]\n- 反义词: [[tjej]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- kille 是口语词，多指青少年/年轻男性；pojke 常用于儿童\n",
+      "lemma": "kille",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "小伙子、男孩",
+      "en": "guy",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "pojke",
+        "tjej",
+        "topic-personer"
       ]
     },
     {
@@ -14538,6 +15462,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "kompis",
+      "type": "word",
+      "title": "kompis",
+      "path": "knowledge_base/words/kompis.md",
+      "body": "# kompis — substantiv (en)\n\n📖 中文：好友、伙伴 · English: buddy\n发音提示：/ˈkɔmpɪs/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en kompis |\n| Bestämd sg. | kompisen |\n| Obestämd pl. | kompisar |\n| Bestämd pl. | kompisarna |\n\n## 词组搭配 (Collocations)\n\n- `en rolig kompis` — 一个有趣的好友\n- `bästa kompisen` — 最好的朋友\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[vän]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- kompis 是口语词，比 vän 更随意，相当于英语 \"buddy/pal\"",
+      "excerpt": "kompis — substantiv (en) 📖 中文：好友、伙伴 · English: buddy 发音提示：/ˈkɔmpɪs/ 语法变形 (Forms) Form Swedish Obestämd sg. en kompis Bestämd sg. kompisen Obestämd pl. kompisar Bestämd pl. kompisarna 词组搭配 (Collocations) en rolig kompis ",
+      "links": [
+        "topic-personer",
+        "vän"
+      ],
+      "searchText": "kompis kompis knowledge_base/words/kompis.md ---\ntype: word\nlemma: \"kompis\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"好友、伙伴\"\nen: \"buddy\"\nsynonyms: [\"vän\"]\nantonyms: []\nfamily: []\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kompis — substantiv (en)\n\n📖 中文：好友、伙伴 · English: buddy\n发音提示：/ˈkɔmpɪs/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en kompis |\n| Bestämd sg. | kompisen |\n| Obestämd pl. | kompisar |\n| Bestämd pl. | kompisarna |\n\n## 词组搭配 (Collocations)\n\n- `en rolig kompis` — 一个有趣的好友\n- `bästa kompisen` — 最好的朋友\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[vän]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- kompis 是口语词，比 vän 更随意，相当于英语 \"buddy/pal\"\n",
+      "lemma": "kompis",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "好友、伙伴",
+      "en": "buddy",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "source-2026-06-02-valj-ratt-form",
+        "topic-personer",
+        "vän"
+      ]
+    },
+    {
       "slug": "kors",
       "type": "word",
       "title": "kors",
@@ -14641,6 +15594,7 @@ window.KB_DATA = {
         "topic-vardagsrutin"
       ],
       "backlinks": [
+        "lång",
         "månadskort",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
         "source-2026-06-09-en-handelse-i-tidsordning",
@@ -14720,6 +15674,34 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "kul",
+      "type": "word",
+      "title": "kul",
+      "path": "knowledge_base/words/kul.md",
+      "body": "# kul — adjektiv\n\n📖 中文：有趣的、好玩的（口语）· English: fun, cool (colloquial)\n发音提示：/kʉːl/，单音节，u 发长音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| en-form (utrum) | kul |\n| ett-form (neutrum) | kul |\n| plural / bestämd form | kul |\n\n> 📌 **Oböjligt (indeclinable)** — alla former är identiska: `kul`.\n\n## 词组搭配 (Collocations)\n\n- `det är kul` — 这很有趣／很好玩\n- `ha kul` — 玩得开心\n- `kul idé` — 好主意、有趣的想法\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det var kul på festen igår! — 🇨🇳 昨天的派对很好玩！\n- 🇸🇪 Vi hade kul i parken med barnen. — 🇨🇳 我们和孩子们在公园里玩得很开心。\n- 🇸🇪 Vad kul att du kan komma! — 🇨🇳 你能来真是太好了！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[rolig]]\n- 反义词: [[tråkig]]\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- `kul` är mer vardagligt/talspråkligt än [[rolig]]; undvik i formell skrift.\n- Oböjligt: `ett kul spel`, `en kul idé`, `kula barn` — alla heter bara `kul`.\n- I positiv utrop: `Vad kul!` (太棒了！/真好玩！).\n- Kan också stå som adverb: `Vi hade det kul` (vi hade roligt).",
+      "excerpt": "kul — adjektiv 📖 中文：有趣的、好玩的（口语）· English: fun, cool (colloquial) 发音提示：/kʉːl/，单音节，u 发长音 语法变形 (Forms) form Swedish en form (utrum) kul ett form (neutrum) kul plural / bestämd form kul 📌 Oböjligt (indeclinable) — alla for",
+      "links": [
+        "rolig",
+        "topic-karaktarsord",
+        "tråkig"
+      ],
+      "searchText": "kul kul knowledge_base/words/kul.md ---\ntype: word\nlemma: \"kul\"\nordklass: \"adjektiv\"\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"有趣的、好玩的（口语）\"\nen: \"fun, cool (colloquial)\"\nsynonyms: [\"rolig\"]\nantonyms: [\"tråkig\"]\nfamily: []\ntopics: [\"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kul — adjektiv\n\n📖 中文：有趣的、好玩的（口语）· English: fun, cool (colloquial)\n发音提示：/kʉːl/，单音节，u 发长音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| en-form (utrum) | kul |\n| ett-form (neutrum) | kul |\n| plural / bestämd form | kul |\n\n> 📌 **Oböjligt (indeclinable)** — alla former är identiska: `kul`.\n\n## 词组搭配 (Collocations)\n\n- `det är kul` — 这很有趣／很好玩\n- `ha kul` — 玩得开心\n- `kul idé` — 好主意、有趣的想法\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det var kul på festen igår! — 🇨🇳 昨天的派对很好玩！\n- 🇸🇪 Vi hade kul i parken med barnen. — 🇨🇳 我们和孩子们在公园里玩得很开心。\n- 🇸🇪 Vad kul att du kan komma! — 🇨🇳 你能来真是太好了！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[rolig]]\n- 反义词: [[tråkig]]\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- `kul` är mer vardagligt/talspråkligt än [[rolig]]; undvik i formell skrift.\n- Oböjligt: `ett kul spel`, `en kul idé`, `kula barn` — alla heter bara `kul`.\n- I positiv utrop: `Vad kul!` (太棒了！/真好玩！).\n- Kan också stå som adverb: `Vi hade det kul` (vi hade roligt).\n",
+      "lemma": "kul",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "有趣的、好玩的（口语）",
+      "en": "fun, cool (colloquial)",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "rolig"
+      ]
+    },
+    {
       "slug": "kvar",
       "type": "word",
       "title": "kvar",
@@ -14743,6 +15725,36 @@ window.KB_DATA = {
       "backlinks": [
         "borta",
         "byteskö"
+      ]
+    },
+    {
+      "slug": "kvinna",
+      "type": "word",
+      "title": "kvinna",
+      "path": "knowledge_base/words/kvinna.md",
+      "body": "# kvinna — substantiv (en)\n\n📖 中文：女人 · English: woman\n发音提示：/ˈkvɪna/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en kvinna |\n| Bestämd sg. | kvinnan |\n| Obestämd pl. | kvinnor |\n| Bestämd pl. | kvinnorna |\n\n## 词组搭配 (Collocations)\n\n- `en vänlig kvinna` — 一位友好的女人\n- `en ung kvinna` — 一位年轻女性\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[dam]]\n- 反义词: [[man]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则 en-ord 变形：kvinna / kvinnan / kvinnor / kvinnorna",
+      "excerpt": "kvinna — substantiv (en) 📖 中文：女人 · English: woman 发音提示：/ˈkvɪna/ 语法变形 (Forms) Form Swedish Obestämd sg. en kvinna Bestämd sg. kvinnan Obestämd pl. kvinnor Bestämd pl. kvinnorna 词组搭配 (Collocations) en vänlig kvinna — 一位友好",
+      "links": [
+        "dam",
+        "man",
+        "topic-personer"
+      ],
+      "searchText": "kvinna kvinna knowledge_base/words/kvinna.md ---\ntype: word\nlemma: \"kvinna\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"女人\"\nen: \"woman\"\nsynonyms: [\"dam\"]\nantonyms: [\"man\"]\nfamily: []\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kvinna — substantiv (en)\n\n📖 中文：女人 · English: woman\n发音提示：/ˈkvɪna/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en kvinna |\n| Bestämd sg. | kvinnan |\n| Obestämd pl. | kvinnor |\n| Bestämd pl. | kvinnorna |\n\n## 词组搭配 (Collocations)\n\n- `en vänlig kvinna` — 一位友好的女人\n- `en ung kvinna` — 一位年轻女性\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[dam]]\n- 反义词: [[man]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则 en-ord 变形：kvinna / kvinnan / kvinnor / kvinnorna\n",
+      "lemma": "kvinna",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "女人",
+      "en": "woman",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "dam",
+        "man",
+        "topic-personer"
       ]
     },
     {
@@ -15004,6 +16016,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "lång",
+      "type": "word",
+      "title": "lång",
+      "path": "knowledge_base/words/lång.md",
+      "body": "# lång — adjektiv\n\n📖 中文：长的、高的 · English: long, tall\n发音提示：/lɔŋ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | lång |\n| Obestämd ett-ord | långt |\n| Bestämd / plural | långa |\n\n## 词组搭配 (Collocations)\n\n- `en lång pappa` — 一位高个子爸爸\n- `ett långt brev` — 一封长信\n- `lång väg` — 漫长的路\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[längd]], [[längta]]\n- 反义词: [[kort]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 描述人的身高时用 lång（高）；描述物体长度时也用 lång\n- 反义词 kort 表示\"短的/矮的\"",
+      "excerpt": "lång — adjektiv 📖 中文：长的、高的 · English: long, tall 发音提示：/lɔŋ/ 语法变形 (Forms) Form Swedish Obestämd en ord lång Obestämd ett ord långt Bestämd / plural långa 词组搭配 (Collocations) en lång pappa — 一位高个子爸爸 ett långt brev — 一封长信 ",
+      "links": [
+        "kort",
+        "längd",
+        "längta",
+        "topic-personer"
+      ],
+      "searchText": "lång lång knowledge_base/words/lång.md ---\ntype: word\nlemma: \"lång\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"长的、高的\"\nen: \"long, tall\"\nsynonyms: []\nantonyms: [\"kort\"]\nfamily: [\"längd\", \"längta\"]\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lång — adjektiv\n\n📖 中文：长的、高的 · English: long, tall\n发音提示：/lɔŋ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | lång |\n| Obestämd ett-ord | långt |\n| Bestämd / plural | långa |\n\n## 词组搭配 (Collocations)\n\n- `en lång pappa` — 一位高个子爸爸\n- `ett långt brev` — 一封长信\n- `lång väg` — 漫长的路\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[längd]], [[längta]]\n- 反义词: [[kort]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 描述人的身高时用 lång（高）；描述物体长度时也用 lång\n- 反义词 kort 表示\"短的/矮的\"\n",
+      "lemma": "lång",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "长的、高的",
+      "en": "long, tall",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "längs",
       "type": "word",
       "title": "längs",
@@ -15016,7 +16057,7 @@ window.KB_DATA = {
         "topic-riktningar",
         "utmed"
       ],
-      "searchText": "längs längs knowledge_base/words/längs.md ---\ntype: word\nlemma: \"längs\"\nordklass: preposition\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"沿着\"\nen: \"along\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# längs — preposition\n\n📖 中文：沿着 · English: along\n发音提示：längs（单音节）。\n\n## 语法变形 (Forms)\n\n介词，不变形。\n\n## 词组搭配 (Collocations)\n\n- `längs vattnet` — 沿着水边\n- `längs gatan` — 沿着街道\n- `längs kusten` — 沿着海岸\n- `längs vägen` — 沿路\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[långs]] (古旧形式，同义)\n- 同义词: [[utmed]] (沿着，较正式)\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `längs` + 名词（定形）：*längs vattnet*，*längs gatan*。\n- 与 `längsmed` 可互换（`längsmed stranden` = 沿着海滩）。\n",
+      "searchText": "längs längs knowledge_base/words/längs.md ---\ntype: word\nlemma: \"längs\"\nordklass: preposition\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"沿着\"\nen: \"along\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-riktningar\n  - topic-rumsliga-relationer\n  - topic-stadsmiljo\nsentences:\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\n  - sent-sangens-star-langs-vaggen-under-sangen\n  - sent-jag-promenerar-langs-storgatan-solig-tisdag\n  - sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# längs — preposition\n\n📖 中文：沿着 · English: along\n发音提示：längs（单音节）。\n\n## 语法变形 (Forms)\n\n介词，不变形。\n\n## 词组搭配 (Collocations)\n\n- `längs vattnet` — 沿着水边\n- `längs gatan` — 沿着街道\n- `längs kusten` — 沿着海岸\n- `längs vägen` — 沿路\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[långs]] (古旧形式，同义)\n- 同义词: [[utmed]] (沿着，较正式)\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `längs` + 名词（定形）：*längs vattnet*，*längs gatan*。\n- 与 `längsmed` 可互换（`längsmed stranden` = 沿着海滩）。\n",
       "lemma": "längs",
       "ordklass": "preposition",
       "cefr": "A2",
@@ -15025,10 +16066,15 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "sentences": [
-        "sent-sen-gar-du-rakt-fram-langs-vattnet"
+        "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "sent-sangens-star-langs-vaggen-under-sangen",
+        "sent-jag-promenerar-langs-storgatan-solig-tisdag",
+        "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning"
       ],
       "topics": [
-        "topic-riktningar"
+        "topic-riktningar",
+        "topic-rumsliga-relationer",
+        "topic-stadsmiljo"
       ],
       "backlinks": [
         "längs-väggen",
@@ -15097,6 +16143,7 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "index",
+        "lång",
         "source-2026-06-02-astrid-lindgren"
       ]
     },
@@ -15293,15 +16340,16 @@ window.KB_DATA = {
       "type": "word",
       "title": "liten",
       "path": "knowledge_base/words/liten.md",
-      "body": "# liten — adjektiv\n\n📖 中文：小的 · English: small\n发音提示：/ˈliːtɛn/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | liten |\n| neutrum obestämd | litet |\n| bestämd sg. | lilla |\n| plural obestämd | små |\n| plural bestämd | små |\n\n## 词组搭配 (Collocations)\n\n- `en liten kanin` — 一只小兔子\n- `ett litet barn` — 一个小孩子\n- `de små djuren` — 那些小动物\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kaninen är liten och mjuk att krama. — 🇨🇳 兔子小小的，抱起来很软。\n- 🇸🇪 Den lilla musen gömmer sig under sängen. — 🇨🇳 小老鼠躲在床底下。\n- 🇸🇪 De har ett litet hus på landet. — 🇨🇳 他们在乡下有一栋小房子。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[litet]] (lite, litet — liten i neutrum)\n- 同义词: —\n- 反义词: [[stor]]\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- 高度不规则: liten / litet / lilla / små — 注意复数 små 无论是否有定冠词。\n- 定形单数用 lilla（den lilla hunden），不用 litena。\n- 来源: [[source-2026-06-08-djur]]",
+      "body": "# liten — adjektiv\n\n📖 中文：小的 · English: small\n发音提示：/ˈliːtɛn/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | liten |\n| neutrum obestämd | litet |\n| bestämd sg. | lilla |\n| plural obestämd | små |\n| plural bestämd | små |\n\n## 词组搭配 (Collocations)\n\n- `en liten kanin` — 一只小兔子\n- `ett litet barn` — 一个小孩子\n- `de små djuren` — 那些小动物\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kaninen är liten och mjuk att krama. — 🇨🇳 兔子小小的，抱起来很软。\n- 🇸🇪 Den lilla musen gömmer sig under sängen. — 🇨🇳 小老鼠躲在床底下。\n- 🇸🇪 De har ett litet hus på landet. — 🇨🇳 他们在乡下有一栋小房子。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[litet]] (lite, litet — liten i neutrum)\n- 同义词: —\n- 反义词: [[stor]]\n- 主题: [[topic-djur]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 高度不规则: liten / litet / lilla / små — 注意复数 små 无论是否有定冠词。\n- 定形单数用 lilla（den lilla hunden），不用 litena。\n- 来源: [[source-2026-06-08-djur]]",
       "excerpt": "liten — adjektiv 📖 中文：小的 · English: small 发音提示：/ˈliːtɛn/ 语法变形 (Forms) form böjning utrum obestämd liten neutrum obestämd litet bestämd sg. lilla plural obestämd små plural bestämd små 词组搭配 (Collocations) en liten kanin ",
       "links": [
         "litet",
         "source-2026-06-08-djur",
         "stor",
-        "topic-djur"
+        "topic-djur",
+        "topic-hemmet"
       ],
-      "searchText": "liten liten knowledge_base/words/liten.md ---\ntype: word\nlemma: \"liten\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"小的\"\nen: \"small\"\nsynonyms: []\nantonyms: [stor]\nfamily: []\ntopics: [topic-djur]\nsentences: []\nknown: false\ncreated: \"2026-06-08\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# liten — adjektiv\n\n📖 中文：小的 · English: small\n发音提示：/ˈliːtɛn/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | liten |\n| neutrum obestämd | litet |\n| bestämd sg. | lilla |\n| plural obestämd | små |\n| plural bestämd | små |\n\n## 词组搭配 (Collocations)\n\n- `en liten kanin` — 一只小兔子\n- `ett litet barn` — 一个小孩子\n- `de små djuren` — 那些小动物\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kaninen är liten och mjuk att krama. — 🇨🇳 兔子小小的，抱起来很软。\n- 🇸🇪 Den lilla musen gömmer sig under sängen. — 🇨🇳 小老鼠躲在床底下。\n- 🇸🇪 De har ett litet hus på landet. — 🇨🇳 他们在乡下有一栋小房子。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[litet]] (lite, litet — liten i neutrum)\n- 同义词: —\n- 反义词: [[stor]]\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- 高度不规则: liten / litet / lilla / små — 注意复数 små 无论是否有定冠词。\n- 定形单数用 lilla（den lilla hunden），不用 litena。\n- 来源: [[source-2026-06-08-djur]]\n",
+      "searchText": "liten liten knowledge_base/words/liten.md ---\ntype: word\nlemma: \"liten\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"小的\"\nen: \"small\"\nsynonyms: []\nantonyms: [stor]\nfamily: []\ntopics: [topic-djur, topic-hemmet]\nsentences:\n  - sent-mitt-rum-ar-litet-men-trevligt\n  - sent-bredvid-sangen-star-ett-litet-nattduksbord\n  - sent-soffan-star-mitt-i-rummet-framfor-soffbord\nknown: false\ncreated: \"2026-06-08\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# liten — adjektiv\n\n📖 中文：小的 · English: small\n发音提示：/ˈliːtɛn/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | liten |\n| neutrum obestämd | litet |\n| bestämd sg. | lilla |\n| plural obestämd | små |\n| plural bestämd | små |\n\n## 词组搭配 (Collocations)\n\n- `en liten kanin` — 一只小兔子\n- `ett litet barn` — 一个小孩子\n- `de små djuren` — 那些小动物\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kaninen är liten och mjuk att krama. — 🇨🇳 兔子小小的，抱起来很软。\n- 🇸🇪 Den lilla musen gömmer sig under sängen. — 🇨🇳 小老鼠躲在床底下。\n- 🇸🇪 De har ett litet hus på landet. — 🇨🇳 他们在乡下有一栋小房子。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[litet]] (lite, litet — liten i neutrum)\n- 同义词: —\n- 反义词: [[stor]]\n- 主题: [[topic-djur]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 高度不规则: liten / litet / lilla / små — 注意复数 små 无论是否有定冠词。\n- 定形单数用 lilla（den lilla hunden），不用 litena。\n- 来源: [[source-2026-06-08-djur]]\n",
       "lemma": "liten",
       "ordklass": "adjektiv",
       "cefr": "A1",
@@ -15309,18 +16357,25 @@ window.KB_DATA = {
       "en": "small",
       "created": "2026-06-08",
       "known": false,
-      "sentences": [],
+      "sentences": [
+        "sent-mitt-rum-ar-litet-men-trevligt",
+        "sent-bredvid-sangen-star-ett-litet-nattduksbord",
+        "sent-soffan-star-mitt-i-rummet-framfor-soffbord"
+      ],
       "topics": [
-        "topic-djur"
+        "topic-djur",
+        "topic-hemmet"
       ],
       "backlinks": [
+        "grammar-adjektiv-bojning",
         "sent-bredvid-sangen-star-ett-litet-nattduksbord",
         "sent-mitt-rum-ar-litet-men-trevligt",
         "sent-soffan-star-mitt-i-rummet-framfor-soffbord",
         "source-2026-06-08-djur",
         "source-2026-06-09-rumsliga-relationer",
         "stor",
-        "topic-djur"
+        "topic-djur",
+        "topic-personer"
       ]
     },
     {
@@ -15449,7 +16504,72 @@ window.KB_DATA = {
         "topic-karaktarsord"
       ],
       "backlinks": [
-        "topic-karaktarsord"
+        "glad",
+        "topic-karaktarsord",
+        "topic-personer"
+      ]
+    },
+    {
+      "slug": "mamma",
+      "type": "word",
+      "title": "mamma",
+      "path": "knowledge_base/words/mamma.md",
+      "body": "# mamma — substantiv (en)\n\n📖 中文：妈妈 · English: mom\n发音提示：/ˈmama/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en mamma |\n| Bestämd sg. | mamman |\n| Obestämd pl. | mammor |\n| Bestämd pl. | mammorna |\n\n## 词组搭配 (Collocations)\n\n- `en snäll mamma` — 一位善良的妈妈\n- `min mamma` — 我的妈妈\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[mor]]\n- 反义词: [[pappa]]\n- 词族: [[förälder]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- mamma 是口语词；mor 是较正式或文学用词",
+      "excerpt": "mamma — substantiv (en) 📖 中文：妈妈 · English: mom 发音提示：/ˈmama/ 语法变形 (Forms) Form Swedish Obestämd sg. en mamma Bestämd sg. mamman Obestämd pl. mammor Bestämd pl. mammorna 词组搭配 (Collocations) en snäll mamma — 一位善良的妈妈 min ma",
+      "links": [
+        "förälder",
+        "mor",
+        "pappa",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "mamma mamma knowledge_base/words/mamma.md ---\ntype: word\nlemma: \"mamma\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"妈妈\"\nen: \"mom\"\nsynonyms: [\"mor\"]\nantonyms: [\"pappa\"]\nfamily: [\"förälder\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mamma — substantiv (en)\n\n📖 中文：妈妈 · English: mom\n发音提示：/ˈmama/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en mamma |\n| Bestämd sg. | mamman |\n| Obestämd pl. | mammor |\n| Bestämd pl. | mammorna |\n\n## 词组搭配 (Collocations)\n\n- `en snäll mamma` — 一位善良的妈妈\n- `min mamma` — 我的妈妈\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[mor]]\n- 反义词: [[pappa]]\n- 词族: [[förälder]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- mamma 是口语词；mor 是较正式或文学用词\n",
+      "lemma": "mamma",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "妈妈",
+      "en": "mom",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "förälder",
+        "mor",
+        "pappa",
+        "topic-personer"
+      ]
+    },
+    {
+      "slug": "man",
+      "type": "word",
+      "title": "man",
+      "path": "knowledge_base/words/man.md",
+      "body": "# man — substantiv (en)\n\n📖 中文：男人 · English: man\n发音提示：/man/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en man |\n| Bestämd sg. | mannen |\n| Obestämd pl. | män |\n| Bestämd pl. | männen |\n\n> ⚠️ 不规则复数：man → män（元音交替）\n\n## 词组搭配 (Collocations)\n\n- `en ung man` — 一个年轻的男人\n- `en gammal man` — 一个老男人\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[kvinna]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则变形：man / mannen / män / männen（元音变音 umlaut）\n- 注意与代词 \"man\"（人们）区分，后者不可数",
+      "excerpt": "man — substantiv (en) 📖 中文：男人 · English: man 发音提示：/man/ 语法变形 (Forms) Form Swedish Obestämd sg. en man Bestämd sg. mannen Obestämd pl. män Bestämd pl. männen ⚠️ 不规则复数：man → män（元音交替） 词组搭配 (Collocations) en ung man — 一个年轻",
+      "links": [
+        "kvinna",
+        "topic-personer"
+      ],
+      "searchText": "man man knowledge_base/words/man.md ---\ntype: word\nlemma: \"man\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"男人\"\nen: \"man\"\nsynonyms: []\nantonyms: [\"kvinna\"]\nfamily: []\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# man — substantiv (en)\n\n📖 中文：男人 · English: man\n发音提示：/man/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en man |\n| Bestämd sg. | mannen |\n| Obestämd pl. | män |\n| Bestämd pl. | männen |\n\n> ⚠️ 不规则复数：man → män（元音交替）\n\n## 词组搭配 (Collocations)\n\n- `en ung man` — 一个年轻的男人\n- `en gammal man` — 一个老男人\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[kvinna]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则变形：man / mannen / män / männen（元音变音 umlaut）\n- 注意与代词 \"man\"（人们）区分，后者不可数\n",
+      "lemma": "man",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "男人",
+      "en": "man",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "grammar-substantiv-plural",
+        "kvinna",
+        "topic-personer"
       ]
     },
     {
@@ -15518,7 +16638,10 @@ window.KB_DATA = {
       "known": false,
       "sentences": [],
       "topics": [],
-      "backlinks": []
+      "backlinks": [
+        "person",
+        "topic-personer"
+      ]
     },
     {
       "slug": "märka",
@@ -15855,6 +16978,34 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "modern",
+      "type": "word",
+      "title": "modern",
+      "path": "knowledge_base/words/modern.md",
+      "body": "# modern — adjektiv\n\n📖 中文：现代的 · English: modern\n发音提示：/ˈmuːdɛrn/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | modern |\n| Obestämd ett-ord | modernt |\n| Bestämd / plural | moderna |\n\n> ⚠️ OBS: modern som substantiv (母亲, formal) är ett annat ord. Denna not avser adjektivet.\n\n## 词组搭配 (Collocations)\n\n- `en modern ungdom` — 一个现代的年轻人\n- `ett modernt samhälle` — 一个现代社会\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[gammal]], [[gammaldags]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 形容词 modern / modernt / moderna（规则变形）\n- 注意：名词 modern（母亲，文学/正式用语）是另一个词条，此处为形容词",
+      "excerpt": "modern — adjektiv 📖 中文：现代的 · English: modern 发音提示：/ˈmuːdɛrn/ 语法变形 (Forms) Form Swedish Obestämd en ord modern Obestämd ett ord modernt Bestämd / plural moderna ⚠️ OBS: modern som substantiv (母亲, formal) är ett annat ord",
+      "links": [
+        "gammal",
+        "gammaldags",
+        "topic-personer"
+      ],
+      "searchText": "modern modern knowledge_base/words/modern.md ---\ntype: word\nlemma: \"modern\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"现代的\"\nen: \"modern\"\nsynonyms: []\nantonyms: [\"gammal\", \"gammaldags\"]\nfamily: []\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# modern — adjektiv\n\n📖 中文：现代的 · English: modern\n发音提示：/ˈmuːdɛrn/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | modern |\n| Obestämd ett-ord | modernt |\n| Bestämd / plural | moderna |\n\n> ⚠️ OBS: modern som substantiv (母亲, formal) är ett annat ord. Denna not avser adjektivet.\n\n## 词组搭配 (Collocations)\n\n- `en modern ungdom` — 一个现代的年轻人\n- `ett modernt samhälle` — 一个现代社会\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[gammal]], [[gammaldags]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 形容词 modern / modernt / moderna（规则变形）\n- 注意：名词 modern（母亲，文学/正式用语）是另一个词条，此处为形容词\n",
+      "lemma": "modern",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "现代的",
+      "en": "modern",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "modig",
       "type": "word",
       "title": "modig",
@@ -15885,6 +17036,39 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-02-astrid-lindgren",
         "topic-karaktarsord"
+      ]
+    },
+    {
+      "slug": "mor",
+      "type": "word",
+      "title": "mor",
+      "path": "knowledge_base/words/mor.md",
+      "body": "# mor — substantiv\n\n📖 中文：母亲（书面/正式）· English: mother (written/formal)\n发音提示：/muːr/，单音节，o 发长音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular (grundform) | mor |\n| bestämd singular | modern |\n| obestämd plural | mödrar |\n| bestämd plural | mödrarna |\n\n> ⚠️ Irregular: bestämd sg. `modern` (umlaut o → ö in plural).\n\n## 词组搭配 (Collocations)\n\n- `mor och far` — 母亲和父亲（双亲）\n- `till sin mor` — 向/对她的母亲\n- `mor till barnen` — 孩子们的母亲\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hans mor heter Anna. — 🇨🇳 他的母亲叫安娜。\n- 🇸🇪 Barnet kramar sin mor. — 🇨🇳 孩子抱着他的母亲。\n- 🇸🇪 Mödrar och fäder är viktiga för barn. — 🇨🇳 母亲和父亲对孩子很重要。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förälder]], [[far]]\n- 同义词: [[mamma]]\n- 反义词: —\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `mor` 是书面语/正式用词，日常口语中通常说 [[mamma]]。\n- 变格形式 `modern` (bestämd sg.) 与形容词 `modern` (现代的) 同形但含义不同，注意区别。\n- 在称呼时也用 `mor`，如 \"Hej, mor!\" (Hey, Mum!) 在有些方言中。",
+      "excerpt": "mor — substantiv 📖 中文：母亲（书面/正式）· English: mother (written/formal) 发音提示：/muːr/，单音节，o 发长音 语法变形 (Forms) form Swedish obestämd singular (grundform) mor bestämd singular modern obestämd plural mödrar bestämd plural mödrarna ",
+      "links": [
+        "far",
+        "förälder",
+        "mamma",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "mor mor knowledge_base/words/mor.md ---\ntype: word\nlemma: \"mor\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"母亲（书面/正式）\"\nen: \"mother (written/formal)\"\nsynonyms: [\"mamma\"]\nantonyms: []\nfamily: [\"förälder\", \"far\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mor — substantiv\n\n📖 中文：母亲（书面/正式）· English: mother (written/formal)\n发音提示：/muːr/，单音节，o 发长音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular (grundform) | mor |\n| bestämd singular | modern |\n| obestämd plural | mödrar |\n| bestämd plural | mödrarna |\n\n> ⚠️ Irregular: bestämd sg. `modern` (umlaut o → ö in plural).\n\n## 词组搭配 (Collocations)\n\n- `mor och far` — 母亲和父亲（双亲）\n- `till sin mor` — 向/对她的母亲\n- `mor till barnen` — 孩子们的母亲\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hans mor heter Anna. — 🇨🇳 他的母亲叫安娜。\n- 🇸🇪 Barnet kramar sin mor. — 🇨🇳 孩子抱着他的母亲。\n- 🇸🇪 Mödrar och fäder är viktiga för barn. — 🇨🇳 母亲和父亲对孩子很重要。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förälder]], [[far]]\n- 同义词: [[mamma]]\n- 反义词: —\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `mor` 是书面语/正式用词，日常口语中通常说 [[mamma]]。\n- 变格形式 `modern` (bestämd sg.) 与形容词 `modern` (现代的) 同形但含义不同，注意区别。\n- 在称呼时也用 `mor`，如 \"Hej, mor!\" (Hey, Mum!) 在有些方言中。\n",
+      "lemma": "mor",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "母亲（书面/正式）",
+      "en": "mother (written/formal)",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "far",
+        "mamma",
+        "topic-personer"
       ]
     },
     {
@@ -16125,6 +17309,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "nyfödd",
+      "type": "word",
+      "title": "nyfödd",
+      "path": "knowledge_base/words/nyfödd.md",
+      "body": "# nyfödd — adjektiv\n\n📖 中文：新生的 · English: newborn\n发音提示：/ˈnyːˌfœd/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | nyfödd |\n| Obestämd ett-ord | nyfött |\n| Bestämd / plural | nyfödda |\n\n## 词组搭配 (Collocations)\n\n- `en nyfödd bebis` — 一个新生婴儿\n- `ett nyfött barn` — 一个刚出生的孩子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bebis]], [[barn]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 合成形容词：ny (new) + född (born)\n- 规则变形：nyfödd / nyfött / nyfödda",
+      "excerpt": "nyfödd — adjektiv 📖 中文：新生的 · English: newborn 发音提示：/ˈnyːˌfœd/ 语法变形 (Forms) Form Swedish Obestämd en ord nyfödd Obestämd ett ord nyfött Bestämd / plural nyfödda 词组搭配 (Collocations) en nyfödd bebis — 一个新生婴儿 ett nyfött bar",
+      "links": [
+        "barn",
+        "bebis",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "nyfödd nyfödd knowledge_base/words/nyfödd.md ---\ntype: word\nlemma: \"nyfödd\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"新生的\"\nen: \"newborn\"\nsynonyms: []\nantonyms: []\nfamily: [\"bebis\", \"barn\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# nyfödd — adjektiv\n\n📖 中文：新生的 · English: newborn\n发音提示：/ˈnyːˌfœd/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | nyfödd |\n| Obestämd ett-ord | nyfött |\n| Bestämd / plural | nyfödda |\n\n## 词组搭配 (Collocations)\n\n- `en nyfödd bebis` — 一个新生婴儿\n- `ett nyfött barn` — 一个刚出生的孩子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bebis]], [[barn]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 合成形容词：ny (new) + född (born)\n- 规则变形：nyfödd / nyfött / nyfödda\n",
+      "lemma": "nyfödd",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "新生的",
+      "en": "newborn",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "bebis",
+        "föda",
+        "spädbarn",
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "obekväm",
       "type": "word",
       "title": "obekväm",
@@ -16151,6 +17368,34 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-02-astrid-lindgren",
         "topic-karaktarsord"
+      ]
+    },
+    {
+      "slug": "okänd",
+      "type": "word",
+      "title": "okänd",
+      "path": "knowledge_base/words/okänd.md",
+      "body": "# okänd — adjektiv\n\n📖 中文：陌生的、不知名的 · English: unknown\n发音提示：/ˈuːˌɕɛnd/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | okänd |\n| Obestämd ett-ord | okänt |\n| Bestämd / plural | okända |\n\n## 词组搭配 (Collocations)\n\n- `en okänd främling` — 一个陌生的外人\n- `ett okänt område` — 一个不知名的地区\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[känd]]\n- 反义词: [[känd]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- okänd = o- (否定前缀) + känd (known/famous)\n- 规则变形：okänd / okänt / okända",
+      "excerpt": "okänd — adjektiv 📖 中文：陌生的、不知名的 · English: unknown 发音提示：/ˈuːˌɕɛnd/ 语法变形 (Forms) Form Swedish Obestämd en ord okänd Obestämd ett ord okänt Bestämd / plural okända 词组搭配 (Collocations) en okänd främling — 一个陌生的外人 ett okänt ",
+      "links": [
+        "känd",
+        "topic-personer"
+      ],
+      "searchText": "okänd okänd knowledge_base/words/okänd.md ---\ntype: word\nlemma: \"okänd\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"陌生的、不知名的\"\nen: \"unknown\"\nsynonyms: []\nantonyms: [\"känd\"]\nfamily: [\"känd\"]\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# okänd — adjektiv\n\n📖 中文：陌生的、不知名的 · English: unknown\n发音提示：/ˈuːˌɕɛnd/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | okänd |\n| Obestämd ett-ord | okänt |\n| Bestämd / plural | okända |\n\n## 词组搭配 (Collocations)\n\n- `en okänd främling` — 一个陌生的外人\n- `ett okänt område` — 一个不知名的地区\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[känd]]\n- 反义词: [[känd]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- okänd = o- (否定前缀) + känd (known/famous)\n- 规则变形：okänd / okänt / okända\n",
+      "lemma": "okänd",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "陌生的、不知名的",
+      "en": "unknown",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "känd",
+        "topic-personer"
       ]
     },
     {
@@ -16299,7 +17544,7 @@ window.KB_DATA = {
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "topic-karaktarsord"
       ],
-      "searchText": "orolig orolig knowledge_base/words/orolig.md ---\ntype: word\nlemma: \"orolig\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: A2\nzh: 担心的/焦虑的\nen: worried, anxious\nsynonyms: []\nantonyms: [lugn]\nfamily: [oro, oroa]\ntopics: [topic-karaktarsord]\nsentences: [sent-de-var-oroliga-att-barn-som-laste-om-pippi]\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# orolig — adjektiv\n\n📖 中文：担心的/焦虑的 · English: worried, anxious\n发音提示：o-RO-lig；重音在第二音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum singular | orolig |\n| Neutrum singular | oroligt |\n| Plural / bestämd | oroliga |\n\n## 词组搭配 (Collocations)\n\n- `vara orolig för ngn/ngt` — 担心某人/某事\n- `känna sig orolig` — 感到焦虑\n\n## 例句 (Sentences)\n\n- [[sent-de-var-oroliga-att-barn-som-laste-om-pippi]] 🇸🇪 De var oroliga att barn som läste om Pippi skulle börja göra som henne. 🇨🇳 他们担心读了皮皮故事的孩子会开始模仿她。\n- 🇸🇪 Hon var **orolig** för sin son som inte kom hem.\n  🇨🇳 她很担心没有回家的儿子。\n- 🇸🇪 Jag känner mig **orolig** inför det stora provet imorgon.\n  🇨🇳 我对明天的大考感到焦虑。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[oro]] (en, 担忧/焦虑), [[oroa sig]] (v. 担心，反身), [[oroad]] (adj, 感到担忧的)\n- 同义词: [[nervös]] (adj, 紧张的), [[ängslig]] (adj, 焦虑的)\n- 反义词: [[lugn]] (adj, 平静的/冷静的)\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- `orolig för` + 人/事（担心对象用 `för`）。\n- 原文：*De var oroliga att barn som läste om Pippi skulle börja göra som henne.*\n",
+      "searchText": "orolig orolig knowledge_base/words/orolig.md ---\ntype: word\nlemma: \"orolig\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: A2\nzh: 担心的/焦虑的\nen: worried, anxious\nsynonyms: []\nantonyms: [lugn]\nfamily: [oro, oroa]\ntopics: [topic-karaktarsord, topic-vardagsrutin]\nsentences: [sent-de-var-oroliga-att-barn-som-laste-om-pippi, sent-plotsligt-kande-jag-mig-valdigt-orolig]\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# orolig — adjektiv\n\n📖 中文：担心的/焦虑的 · English: worried, anxious\n发音提示：o-RO-lig；重音在第二音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum singular | orolig |\n| Neutrum singular | oroligt |\n| Plural / bestämd | oroliga |\n\n## 词组搭配 (Collocations)\n\n- `vara orolig för ngn/ngt` — 担心某人/某事\n- `känna sig orolig` — 感到焦虑\n\n## 例句 (Sentences)\n\n- [[sent-de-var-oroliga-att-barn-som-laste-om-pippi]] 🇸🇪 De var oroliga att barn som läste om Pippi skulle börja göra som henne. 🇨🇳 他们担心读了皮皮故事的孩子会开始模仿她。\n- 🇸🇪 Hon var **orolig** för sin son som inte kom hem.\n  🇨🇳 她很担心没有回家的儿子。\n- 🇸🇪 Jag känner mig **orolig** inför det stora provet imorgon.\n  🇨🇳 我对明天的大考感到焦虑。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[oro]] (en, 担忧/焦虑), [[oroa sig]] (v. 担心，反身), [[oroad]] (adj, 感到担忧的)\n- 同义词: [[nervös]] (adj, 紧张的), [[ängslig]] (adj, 焦虑的)\n- 反义词: [[lugn]] (adj, 平静的/冷静的)\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- `orolig för` + 人/事（担心对象用 `för`）。\n- 原文：*De var oroliga att barn som läste om Pippi skulle börja göra som henne.*\n",
       "lemma": "orolig",
       "ordklass": "adjektiv",
       "cefr": "A2",
@@ -16308,10 +17553,12 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "sentences": [
-        "sent-de-var-oroliga-att-barn-som-laste-om-pippi"
+        "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
+        "sent-plotsligt-kande-jag-mig-valdigt-orolig"
       ],
       "topics": [
-        "topic-karaktarsord"
+        "topic-karaktarsord",
+        "topic-vardagsrutin"
       ],
       "backlinks": [
         "andas-ut",
@@ -16462,6 +17709,69 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "pappa",
+      "type": "word",
+      "title": "pappa",
+      "path": "knowledge_base/words/pappa.md",
+      "body": "# pappa — substantiv (en)\n\n📖 中文：爸爸 · English: dad\n发音提示：/ˈpapa/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en pappa |\n| Bestämd sg. | pappan |\n| Obestämd pl. | pappor |\n| Bestämd pl. | papporna |\n\n## 词组搭配 (Collocations)\n\n- `en lång pappa` — 一位高个子爸爸\n- `min pappa` — 我的爸爸\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[far]]\n- 反义词: [[mamma]]\n- 词族: [[förälder]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- pappa 是口语词；far 是较正式或文学用词",
+      "excerpt": "pappa — substantiv (en) 📖 中文：爸爸 · English: dad 发音提示：/ˈpapa/ 语法变形 (Forms) Form Swedish Obestämd sg. en pappa Bestämd sg. pappan Obestämd pl. pappor Bestämd pl. papporna 词组搭配 (Collocations) en lång pappa — 一位高个子爸爸 min pap",
+      "links": [
+        "far",
+        "förälder",
+        "mamma",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "pappa pappa knowledge_base/words/pappa.md ---\ntype: word\nlemma: \"pappa\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"爸爸\"\nen: \"dad\"\nsynonyms: [\"far\"]\nantonyms: [\"mamma\"]\nfamily: [\"förälder\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# pappa — substantiv (en)\n\n📖 中文：爸爸 · English: dad\n发音提示：/ˈpapa/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en pappa |\n| Bestämd sg. | pappan |\n| Obestämd pl. | pappor |\n| Bestämd pl. | papporna |\n\n## 词组搭配 (Collocations)\n\n- `en lång pappa` — 一位高个子爸爸\n- `min pappa` — 我的爸爸\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[far]]\n- 反义词: [[mamma]]\n- 词族: [[förälder]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- pappa 是口语词；far 是较正式或文学用词\n",
+      "lemma": "pappa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "爸爸",
+      "en": "dad",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "far",
+        "förälder",
+        "mamma",
+        "topic-personer"
+      ]
+    },
+    {
+      "slug": "par",
+      "type": "word",
+      "title": "par",
+      "path": "knowledge_base/words/par.md",
+      "body": "# par — substantiv (ett)\n\n📖 中文：一对、夫妇 · English: couple\n发音提示：/pɑːr/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | ett par |\n| Bestämd sg. | paret |\n| Obestämd pl. | par |\n| Bestämd pl. | paren |\n\n> ⚠️ 零复数：par → par（obestämd plural 与单数同形）\n\n## 词组搭配 (Collocations)\n\n- `ett gift par` — 一对已婚夫妇\n- `ett par skor` — 一双鞋\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 零复数（ett-ord）：par / paret / par / paren\n- 也可指\"一双\"（如 ett par skor = a pair of shoes）",
+      "excerpt": "par — substantiv (ett) 📖 中文：一对、夫妇 · English: couple 发音提示：/pɑːr/ 语法变形 (Forms) Form Swedish Obestämd sg. ett par Bestämd sg. paret Obestämd pl. par Bestämd pl. paren ⚠️ 零复数：par → par（obestämd plural 与单数同形） 词组搭配 (Collocati",
+      "links": [
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "par par knowledge_base/words/par.md ---\ntype: word\nlemma: \"par\"\nordklass: \"substantiv\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"一对、夫妇\"\nen: \"couple\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# par — substantiv (ett)\n\n📖 中文：一对、夫妇 · English: couple\n发音提示：/pɑːr/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | ett par |\n| Bestämd sg. | paret |\n| Obestämd pl. | par |\n| Bestämd pl. | paren |\n\n> ⚠️ 零复数：par → par（obestämd plural 与单数同形）\n\n## 词组搭配 (Collocations)\n\n- `ett gift par` — 一对已婚夫妇\n- `ett par skor` — 一双鞋\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 零复数（ett-ord）：par / paret / par / paren\n- 也可指\"一双\"（如 ett par skor = a pair of shoes）\n",
+      "lemma": "par",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "一对、夫妇",
+      "en": "couple",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "source-2026-06-02-valj-ratt-form",
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "park",
       "type": "word",
       "title": "park",
@@ -16563,6 +17873,35 @@ window.KB_DATA = {
         "source-2026-06-07-kropp-halsa",
         "topic-hälsa",
         "topic-kropp"
+      ]
+    },
+    {
+      "slug": "person",
+      "type": "word",
+      "title": "person",
+      "path": "knowledge_base/words/person.md",
+      "body": "# person — substantiv (en)\n\n📖 中文：人 · English: person\n发音提示：/pæˈʂuːn/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en person |\n| Bestämd sg. | personen |\n| Obestämd pl. | personer |\n| Bestämd pl. | personerna |\n\n## 词组搭配 (Collocations)\n\n- `en känd person` — 一位著名的人\n- `en vanlig person` — 一个普通人\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[personlig]]\n- 同义词: [[människa]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- person 强调个体；människa 更强调人类身份",
+      "excerpt": "person — substantiv (en) 📖 中文：人 · English: person 发音提示：/pæˈʂuːn/ 语法变形 (Forms) Form Swedish Obestämd sg. en person Bestämd sg. personen Obestämd pl. personer Bestämd pl. personerna 词组搭配 (Collocations) en känd person — 一位",
+      "links": [
+        "människa",
+        "personlig",
+        "topic-personer"
+      ],
+      "searchText": "person person knowledge_base/words/person.md ---\ntype: word\nlemma: \"person\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"人\"\nen: \"person\"\nsynonyms: [\"människa\"]\nantonyms: []\nfamily: [\"personlig\"]\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# person — substantiv (en)\n\n📖 中文：人 · English: person\n发音提示：/pæˈʂuːn/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en person |\n| Bestämd sg. | personen |\n| Obestämd pl. | personer |\n| Bestämd pl. | personerna |\n\n## 词组搭配 (Collocations)\n\n- `en känd person` — 一位著名的人\n- `en vanlig person` — 一个普通人\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[personlig]]\n- 同义词: [[människa]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- person 强调个体；människa 更强调人类身份\n",
+      "lemma": "person",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "人",
+      "en": "person",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "människa",
+        "topic-personer"
       ]
     },
     {
@@ -16774,6 +18113,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "pojke",
+      "type": "word",
+      "title": "pojke",
+      "path": "knowledge_base/words/pojke.md",
+      "body": "# pojke — substantiv (en)\n\n📖 中文：男孩 · English: boy\n发音提示：/ˈpɔjkə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en pojke |\n| Bestämd sg. | pojken |\n| Obestämd pl. | pojkar |\n| Bestämd pl. | pojkarna |\n\n## 词组搭配 (Collocations)\n\n- `en glad pojke` — 一个高兴的男孩\n- `en liten pojke` — 一个小男孩\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kille]]\n- 反义词: [[flicka]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- pojke / pojken / pojkar / pojkarna（规则变形）",
+      "excerpt": "pojke — substantiv (en) 📖 中文：男孩 · English: boy 发音提示：/ˈpɔjkə/ 语法变形 (Forms) Form Swedish Obestämd sg. en pojke Bestämd sg. pojken Obestämd pl. pojkar Bestämd pl. pojkarna 词组搭配 (Collocations) en glad pojke — 一个高兴的男孩 en lit",
+      "links": [
+        "flicka",
+        "kille",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "pojke pojke knowledge_base/words/pojke.md ---\ntype: word\nlemma: \"pojke\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"男孩\"\nen: \"boy\"\nsynonyms: [\"kille\"]\nantonyms: [\"flicka\"]\nfamily: []\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# pojke — substantiv (en)\n\n📖 中文：男孩 · English: boy\n发音提示：/ˈpɔjkə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en pojke |\n| Bestämd sg. | pojken |\n| Obestämd pl. | pojkar |\n| Bestämd pl. | pojkarna |\n\n## 词组搭配 (Collocations)\n\n- `en glad pojke` — 一个高兴的男孩\n- `en liten pojke` — 一个小男孩\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kille]]\n- 反义词: [[flicka]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- pojke / pojken / pojkar / pojkarna（规则变形）\n",
+      "lemma": "pojke",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "男孩",
+      "en": "boy",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "flicka",
+        "kille",
+        "source-2026-06-02-valj-ratt-form",
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "polis",
       "type": "word",
       "title": "polis",
@@ -16841,7 +18213,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-09-zlatan-bio",
-        "topic-fotboll"
+        "topic-fotboll",
+        "topic-yrken"
       ]
     },
     {
@@ -16954,7 +18327,7 @@ window.KB_DATA = {
       "type": "word",
       "title": "råd",
       "path": "knowledge_base/words/råd.md",
-      "body": "# råd — substantiv (ett)\n\n📖 中文：建议 · English: advice\n发音提示：RÅD，单音节，å 发长音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett råd |\n| Singular bestämd | rådet |\n| Plural obestämd | råd |\n| Plural bestämd | råden |\n\n## 词组搭配 (Collocations)\n\n- `ge råd` — 给建议\n- `följa råd` — 遵从建议\n- `ett bra råd` — 一个好建议\n- `råd och stöd` — 建议与支持\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan du ge mig ett **råd** om hur jag ska studera?\n  🇨🇳 你能给我一些关于如何学习的建议吗？\n- 🇸🇪 Läkaren gav henne **råd** om hur hon ska äta.\n  🇨🇳 医生给了她关于饮食的建议。\n- 🇸🇪 Jag har inte **råd** att köpa en ny cykel.\n  🇨🇳 我负担不起买一辆新自行车。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[råda]] (v. 建议/劝告), [[rådgivning]] (en, 咨询), [[rådgivare]] (en, 顾问)\n- 同义词: [[tips]] (ett, 小贴士/建议), [[förslag]] (ett, 建议/提议)\n- 反义词: —\n- 主题: [[topic-nyheter-vecka22]]\n\n## 用法提示 (Usage Notes)\n\n- `råd` 单复数同形（ett råd / råd）。\n- 注意区分：`råd`（建议）和 `råd` 作为\"经济能力\"，如 *ha råd med*（负担得起）。\n  例：*Jag har inte råd.* = 我负担不起。两种用法词形相同，依上下文区分。\n\n## 来源\n\n- [[source-2026-06-04-nyheter-vecka-22]]",
+      "body": "# råd — substantiv (ett)\n\n📖 中文：建议 · English: advice\n发音提示：RÅD，单音节，å 发长音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett råd |\n| Singular bestämd | rådet |\n| Plural obestämd | råd |\n| Plural bestämd | råden |\n\n## 词组搭配 (Collocations)\n\n- `ge råd` — 给建议\n- `följa råd` — 遵从建议\n- `ett bra råd` — 一个好建议\n- `råd och stöd` — 建议与支持\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan du ge mig ett **råd** om hur jag ska studera?\n  🇨🇳 你能给我一些关于如何学习的建议吗？\n- 🇸🇪 Läkaren gav henne **råd** om hur hon ska äta.\n  🇨🇳 医生给了她关于饮食的建议。\n- 🇸🇪 Jag har inte **råd** att köpa en ny cykel.\n  🇨🇳 我负担不起买一辆新自行车。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[råda]] (v. 建议/劝告), [[rådgivning]] (en, 咨询), [[rådgivare]] (en, 顾问)\n- 同义词: [[tips]] (ett, 小贴士/建议), [[förslag]] (ett, 建议/提议)\n- 反义词: —\n- 主题: [[topic-nyheter-vecka22]]\n\n## 用法提示 (Usage Notes)\n\n- `råd` 单复数同形（ett råd / råd）。\n- 注意区分：`råd`（建议）和 `råd` 作为\"经济能力\"，如 *ha råd med*（负担得起）。\n  例：*Jag har inte råd.* = 我负担不起。两种用法词形相同，依上下文区分。\n\n## 来源\n\n- [[source-2026-06-04-nyheter-vecka-22]]\n- [[source-2026-06-09-zlatan-bio]]（*hans mamma inte hade råd att köpa dem*）",
       "excerpt": "råd — substantiv (ett) 📖 中文：建议 · English: advice 发音提示：RÅD，单音节，å 发长音。 语法变形 (Forms) Form Swedish Singular obestämd ett råd Singular bestämd rådet Plural obestämd råd Plural bestämd råden 词组搭配 (Collocations) ge råd — 给建议 f",
       "links": [
         "förslag",
@@ -16962,10 +18335,11 @@ window.KB_DATA = {
         "rådgivare",
         "rådgivning",
         "source-2026-06-04-nyheter-vecka-22",
+        "source-2026-06-09-zlatan-bio",
         "tips",
         "topic-nyheter-vecka22"
       ],
-      "searchText": "råd råd knowledge_base/words/råd.md ---\ntype: word\nlemma: \"råd\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"建议\"\nen: \"advice\"\nsynonyms: [tips, förslag]\nantonyms: []\nfamily: [råda, rådgivning, rådgivare]\ntopics: [topic-nyheter-vecka22]\nsentences: []\nknown: false\ncreated: \"2026-06-04\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# råd — substantiv (ett)\n\n📖 中文：建议 · English: advice\n发音提示：RÅD，单音节，å 发长音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett råd |\n| Singular bestämd | rådet |\n| Plural obestämd | råd |\n| Plural bestämd | råden |\n\n## 词组搭配 (Collocations)\n\n- `ge råd` — 给建议\n- `följa råd` — 遵从建议\n- `ett bra råd` — 一个好建议\n- `råd och stöd` — 建议与支持\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan du ge mig ett **råd** om hur jag ska studera?\n  🇨🇳 你能给我一些关于如何学习的建议吗？\n- 🇸🇪 Läkaren gav henne **råd** om hur hon ska äta.\n  🇨🇳 医生给了她关于饮食的建议。\n- 🇸🇪 Jag har inte **råd** att köpa en ny cykel.\n  🇨🇳 我负担不起买一辆新自行车。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[råda]] (v. 建议/劝告), [[rådgivning]] (en, 咨询), [[rådgivare]] (en, 顾问)\n- 同义词: [[tips]] (ett, 小贴士/建议), [[förslag]] (ett, 建议/提议)\n- 反义词: —\n- 主题: [[topic-nyheter-vecka22]]\n\n## 用法提示 (Usage Notes)\n\n- `råd` 单复数同形（ett råd / råd）。\n- 注意区分：`råd`（建议）和 `råd` 作为\"经济能力\"，如 *ha råd med*（负担得起）。\n  例：*Jag har inte råd.* = 我负担不起。两种用法词形相同，依上下文区分。\n\n## 来源\n\n- [[source-2026-06-04-nyheter-vecka-22]]\n",
+      "searchText": "råd råd knowledge_base/words/råd.md ---\ntype: word\nlemma: \"råd\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"建议\"\nen: \"advice\"\nsynonyms: [tips, förslag]\nantonyms: []\nfamily: [råda, rådgivning, rådgivare]\ntopics: [topic-nyheter-vecka22]\nsentences: [sent-fick-fotbollsskor-trots-mamma]\nknown: false\ncreated: \"2026-06-04\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# råd — substantiv (ett)\n\n📖 中文：建议 · English: advice\n发音提示：RÅD，单音节，å 发长音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett råd |\n| Singular bestämd | rådet |\n| Plural obestämd | råd |\n| Plural bestämd | råden |\n\n## 词组搭配 (Collocations)\n\n- `ge råd` — 给建议\n- `följa råd` — 遵从建议\n- `ett bra råd` — 一个好建议\n- `råd och stöd` — 建议与支持\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan du ge mig ett **råd** om hur jag ska studera?\n  🇨🇳 你能给我一些关于如何学习的建议吗？\n- 🇸🇪 Läkaren gav henne **råd** om hur hon ska äta.\n  🇨🇳 医生给了她关于饮食的建议。\n- 🇸🇪 Jag har inte **råd** att köpa en ny cykel.\n  🇨🇳 我负担不起买一辆新自行车。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[råda]] (v. 建议/劝告), [[rådgivning]] (en, 咨询), [[rådgivare]] (en, 顾问)\n- 同义词: [[tips]] (ett, 小贴士/建议), [[förslag]] (ett, 建议/提议)\n- 反义词: —\n- 主题: [[topic-nyheter-vecka22]]\n\n## 用法提示 (Usage Notes)\n\n- `råd` 单复数同形（ett råd / råd）。\n- 注意区分：`råd`（建议）和 `råd` 作为\"经济能力\"，如 *ha råd med*（负担得起）。\n  例：*Jag har inte råd.* = 我负担不起。两种用法词形相同，依上下文区分。\n\n## 来源\n\n- [[source-2026-06-04-nyheter-vecka-22]]\n- [[source-2026-06-09-zlatan-bio]]（*hans mamma inte hade råd att köpa dem*）\n",
       "lemma": "råd",
       "ordklass": "substantiv",
       "cefr": "A2",
@@ -16973,7 +18347,9 @@ window.KB_DATA = {
       "en": "advice",
       "created": "2026-06-04",
       "known": false,
-      "sentences": [],
+      "sentences": [
+        "sent-fick-fotbollsskor-trots-mamma"
+      ],
       "topics": [
         "topic-nyheter-vecka22"
       ],
@@ -17154,6 +18530,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "rik",
+      "type": "word",
+      "title": "rik",
+      "path": "knowledge_base/words/rik.md",
+      "body": "# rik — adjektiv\n\n📖 中文：富有的 · English: rich\n发音提示：/riːk/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | rik |\n| Obestämd ett-ord | rikt |\n| Bestämd / plural | rika |\n\n## 词组搭配 (Collocations)\n\n- `en rik dam` — 一位富有的女士\n- `bli rik` — 变富\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rikedom]]\n- 反义词: [[fattig]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：rik / rikt / rika",
+      "excerpt": "rik — adjektiv 📖 中文：富有的 · English: rich 发音提示：/riːk/ 语法变形 (Forms) Form Swedish Obestämd en ord rik Obestämd ett ord rikt Bestämd / plural rika 词组搭配 (Collocations) en rik dam — 一位富有的女士 bli rik — 变富 例句 (Sentences) <! drill",
+      "links": [
+        "fattig",
+        "rikedom",
+        "topic-personer"
+      ],
+      "searchText": "rik rik knowledge_base/words/rik.md ---\ntype: word\nlemma: \"rik\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"富有的\"\nen: \"rich\"\nsynonyms: []\nantonyms: [\"fattig\"]\nfamily: [\"rikedom\"]\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rik — adjektiv\n\n📖 中文：富有的 · English: rich\n发音提示：/riːk/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | rik |\n| Obestämd ett-ord | rikt |\n| Bestämd / plural | rika |\n\n## 词组搭配 (Collocations)\n\n- `en rik dam` — 一位富有的女士\n- `bli rik` — 变富\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rikedom]]\n- 反义词: [[fattig]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：rik / rikt / rika\n",
+      "lemma": "rik",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "富有的",
+      "en": "rich",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "fattig",
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "riktning",
       "type": "word",
       "title": "riktning",
@@ -17287,6 +18692,38 @@ window.KB_DATA = {
       "backlinks": [
         "sent-du-ser-en-stor-rod-byggnad",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "rolig",
+      "type": "word",
+      "title": "rolig",
+      "path": "knowledge_base/words/rolig.md",
+      "body": "# rolig — adjektiv\n\n📖 中文：有趣的 · English: fun\n发音提示：/ˈruːlɪɡ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | rolig |\n| Obestämd ett-ord | roligt |\n| Bestämd / plural | roliga |\n\n## 词组搭配 (Collocations)\n\n- `en rolig kompis` — 一个有趣的好友\n- `det är roligt` — 这很有趣\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kul]]\n- 反义词: [[tråkig]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- rolig 描述人\"有趣/幽默\"；也可描述事情\"有趣/好玩\"\n- 注意：rolig 不等同于英语 \"funny\"（奇怪），而是 \"fun/amusing\"",
+      "excerpt": "rolig — adjektiv 📖 中文：有趣的 · English: fun 发音提示：/ˈruːlɪɡ/ 语法变形 (Forms) Form Swedish Obestämd en ord rolig Obestämd ett ord roligt Bestämd / plural roliga 词组搭配 (Collocations) en rolig kompis — 一个有趣的好友 det är roligt — 这很有趣 ",
+      "links": [
+        "kul",
+        "topic-karaktarsord",
+        "topic-personer",
+        "tråkig"
+      ],
+      "searchText": "rolig rolig knowledge_base/words/rolig.md ---\ntype: word\nlemma: \"rolig\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"有趣的\"\nen: \"fun\"\nsynonyms: [\"kul\"]\nantonyms: [\"tråkig\"]\nfamily: []\ntopics: [\"topic-personer\", \"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rolig — adjektiv\n\n📖 中文：有趣的 · English: fun\n发音提示：/ˈruːlɪɡ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | rolig |\n| Obestämd ett-ord | roligt |\n| Bestämd / plural | roliga |\n\n## 词组搭配 (Collocations)\n\n- `en rolig kompis` — 一个有趣的好友\n- `det är roligt` — 这很有趣\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kul]]\n- 反义词: [[tråkig]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- rolig 描述人\"有趣/幽默\"；也可描述事情\"有趣/好玩\"\n- 注意：rolig 不等同于英语 \"funny\"（奇怪），而是 \"fun/amusing\"\n",
+      "lemma": "rolig",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "有趣的",
+      "en": "fun",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "kul",
+        "topic-personer",
+        "tråkig"
       ]
     },
     {
@@ -17510,7 +18947,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "flytta",
-        "source-2026-06-09-zlatan-bio"
+        "source-2026-06-09-zlatan-bio",
+        "topic-familj-och-barn"
       ]
     },
     {
@@ -17913,7 +19351,8 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
-        "source-2026-06-09-zlatan-bio"
+        "source-2026-06-09-zlatan-bio",
+        "topic-familj-och-barn"
       ]
     },
     {
@@ -18075,7 +19514,7 @@ window.KB_DATA = {
         "skyltfönster",
         "tecken"
       ],
-      "searchText": "skylt skylt knowledge_base/words/skylt.md ---\ntype: word\nlemma: \"skylt\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"招牌；标志\"\nen: \"sign\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-finns-det-en-skylt\n  - sent-ja-det-hanger-en-liten-svart-skylt\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skylt — substantiv (en)\n\n📖 中文：招牌；标志 · English: sign\n发音提示：skylt（单音节）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en skylt |\n| Singular bestämd | skylten |\n| Plural obestämd | skyltar |\n| Plural bestämd | skyltarna |\n\n## 词组搭配 (Collocations)\n\n- `en liten svart skylt` — 一块小黑牌\n- `en skylt utanför` — 外面的招牌\n- `trafikskylt` — 交通标志\n- `butikskylt` — 商店招牌\n- `sätta upp en skylt` — 挂招牌\n\n## 例句 (Sentences)\n\n- [[sent-finns-det-en-skylt]] 🇸🇪 Finns det en skylt? 🇨🇳 有招牌吗？\n- [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇪 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skylta]] (v. 做标记/展示), [[skyltfönster]] (橱窗)\n- 同义词: [[tecken]] (ett, 标志/记号), [[skilt]] (标志，较少用)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `en skylt hänger` — 招牌挂着（det hänger en skylt = 那里挂着一块招牌，存在句）。\n- 区分：`skylt`（具体招牌）vs `tecken`（抽象符号/标志）。\n",
+      "searchText": "skylt skylt knowledge_base/words/skylt.md ---\ntype: word\nlemma: \"skylt\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"招牌；标志\"\nen: \"sign\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-stadsmiljo]\nsentences:\n  - sent-finns-det-en-skylt\n  - sent-ja-det-hanger-en-liten-svart-skylt\n  - sent-bredvid-banken-finns-apotek-gront-kors-skylten\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skylt — substantiv (en)\n\n📖 中文：招牌；标志 · English: sign\n发音提示：skylt（单音节）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en skylt |\n| Singular bestämd | skylten |\n| Plural obestämd | skyltar |\n| Plural bestämd | skyltarna |\n\n## 词组搭配 (Collocations)\n\n- `en liten svart skylt` — 一块小黑牌\n- `en skylt utanför` — 外面的招牌\n- `trafikskylt` — 交通标志\n- `butikskylt` — 商店招牌\n- `sätta upp en skylt` — 挂招牌\n\n## 例句 (Sentences)\n\n- [[sent-finns-det-en-skylt]] 🇸🇪 Finns det en skylt? 🇨🇳 有招牌吗？\n- [[sent-ja-det-hanger-en-liten-svart-skylt]] 🇸🇪 Ja, det hänger en liten svart skylt utanför. 🇨🇳 有，外面挂着一块小黑牌。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skylta]] (v. 做标记/展示), [[skyltfönster]] (橱窗)\n- 同义词: [[tecken]] (ett, 标志/记号), [[skilt]] (标志，较少用)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `en skylt hänger` — 招牌挂着（det hänger en skylt = 那里挂着一块招牌，存在句）。\n- 区分：`skylt`（具体招牌）vs `tecken`（抽象符号/标志）。\n",
       "lemma": "skylt",
       "ordklass": "substantiv",
       "cefr": "A2",
@@ -18085,9 +19524,12 @@ window.KB_DATA = {
       "known": false,
       "sentences": [
         "sent-finns-det-en-skylt",
-        "sent-ja-det-hanger-en-liten-svart-skylt"
+        "sent-ja-det-hanger-en-liten-svart-skylt",
+        "sent-bredvid-banken-finns-apotek-gront-kors-skylten"
       ],
-      "topics": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
       "backlinks": [
         "du-kan-inte-missa-den",
         "sent-bredvid-banken-finns-apotek-gront-kors-skylten",
@@ -18203,17 +19645,18 @@ window.KB_DATA = {
       "type": "word",
       "title": "snäll",
       "path": "knowledge_base/words/snäll.md",
-      "body": "# snäll — adjektiv\n\n📖 中文：善良的；友善的 · English: kind\n发音提示：/snɛlː/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | snäll |\n| neutrum obestämd | snällt |\n| bestämd/plural | snälla |\n| komparativ | snällare |\n| superlativ | snällast |\n\n## 词组搭配 (Collocations)\n\n- `en snäll elefant` — 一头温顺的大象\n- `snäll mot djur` — 对动物友善\n- `var snäll och…` — 请（polite request）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Elefanten är känd för att vara snäll och intelligent. — 🇨🇳 大象以温顺和聪明著称。\n- 🇸🇪 Var snäll och stäng dörren. — 🇨🇳 请把门关上。\n- 🇸🇪 Hon är snäll mot alla djur i stallet. — 🇨🇳 她对马厩里所有的动物都很温柔。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[snällhet]] (善良)\n- 同义词: [[vänlig]] (友好的)\n- 反义词: [[arg]], [[elak]] (坏心的；凶的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- \"Var snäll och...\" = 请..., 是礼貌请求的常用句式.\n- 来源: [[source-2026-06-08-djur]]",
+      "body": "# snäll — adjektiv\n\n📖 中文：善良的；友善的 · English: kind\n发音提示：/snɛlː/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | snäll |\n| neutrum obestämd | snällt |\n| bestämd/plural | snälla |\n| komparativ | snällare |\n| superlativ | snällast |\n\n## 词组搭配 (Collocations)\n\n- `en snäll elefant` — 一头温顺的大象\n- `snäll mot djur` — 对动物友善\n- `var snäll och…` — 请（polite request）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Elefanten är känd för att vara snäll och intelligent. — 🇨🇳 大象以温顺和聪明著称。\n- 🇸🇪 Var snäll och stäng dörren. — 🇨🇳 请把门关上。\n- 🇸🇪 Hon är snäll mot alla djur i stallet. — 🇨🇳 她对马厩里所有的动物都很温柔。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[snällhet]] (善良)\n- 同义词: [[vänlig]] (友好的)\n- 反义词: [[arg]], [[elak]] (坏心的；凶的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- \"Var snäll och...\" = 请..., 是礼貌请求的常用句式.\n- 来源: [[source-2026-06-08-djur]], [[source-2026-06-09-zlatan-bio]]",
       "excerpt": "snäll — adjektiv 📖 中文：善良的；友善的 · English: kind 发音提示：/snɛlː/ 语法变形 (Forms) form böjning utrum obestämd snäll neutrum obestämd snällt bestämd/plural snälla komparativ snällare superlativ snällast 词组搭配 (Collocations) en snäl",
       "links": [
         "arg",
         "elak",
         "snällhet",
         "source-2026-06-08-djur",
+        "source-2026-06-09-zlatan-bio",
         "topic-djur",
         "vänlig"
       ],
-      "searchText": "snäll snäll knowledge_base/words/snäll.md ---\ntype: word\nlemma: \"snäll\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"善良的；友善的\"\nen: \"kind\"\nsynonyms: []\nantonyms: [arg]\nfamily: []\ntopics: [topic-djur]\nsentences: []\nknown: false\ncreated: \"2026-06-08\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# snäll — adjektiv\n\n📖 中文：善良的；友善的 · English: kind\n发音提示：/snɛlː/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | snäll |\n| neutrum obestämd | snällt |\n| bestämd/plural | snälla |\n| komparativ | snällare |\n| superlativ | snällast |\n\n## 词组搭配 (Collocations)\n\n- `en snäll elefant` — 一头温顺的大象\n- `snäll mot djur` — 对动物友善\n- `var snäll och…` — 请（polite request）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Elefanten är känd för att vara snäll och intelligent. — 🇨🇳 大象以温顺和聪明著称。\n- 🇸🇪 Var snäll och stäng dörren. — 🇨🇳 请把门关上。\n- 🇸🇪 Hon är snäll mot alla djur i stallet. — 🇨🇳 她对马厩里所有的动物都很温柔。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[snällhet]] (善良)\n- 同义词: [[vänlig]] (友好的)\n- 反义词: [[arg]], [[elak]] (坏心的；凶的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- \"Var snäll och...\" = 请..., 是礼貌请求的常用句式.\n- 来源: [[source-2026-06-08-djur]]\n",
+      "searchText": "snäll snäll knowledge_base/words/snäll.md ---\ntype: word\nlemma: \"snäll\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"善良的；友善的\"\nen: \"kind\"\nsynonyms: []\nantonyms: [arg]\nfamily: []\ntopics: [topic-djur]\nsentences: []\nknown: false\ncreated: \"2026-06-08\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# snäll — adjektiv\n\n📖 中文：善良的；友善的 · English: kind\n发音提示：/snɛlː/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | snäll |\n| neutrum obestämd | snällt |\n| bestämd/plural | snälla |\n| komparativ | snällare |\n| superlativ | snällast |\n\n## 词组搭配 (Collocations)\n\n- `en snäll elefant` — 一头温顺的大象\n- `snäll mot djur` — 对动物友善\n- `var snäll och…` — 请（polite request）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Elefanten är känd för att vara snäll och intelligent. — 🇨🇳 大象以温顺和聪明著称。\n- 🇸🇪 Var snäll och stäng dörren. — 🇨🇳 请把门关上。\n- 🇸🇪 Hon är snäll mot alla djur i stallet. — 🇨🇳 她对马厩里所有的动物都很温柔。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[snällhet]] (善良)\n- 同义词: [[vänlig]] (友好的)\n- 反义词: [[arg]], [[elak]] (坏心的；凶的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- \"Var snäll och...\" = 请..., 是礼貌请求的常用句式.\n- 来源: [[source-2026-06-08-djur]], [[source-2026-06-09-zlatan-bio]]\n",
       "lemma": "snäll",
       "ordklass": "adjektiv",
       "cefr": "A1",
@@ -18226,10 +19669,14 @@ window.KB_DATA = {
         "topic-djur"
       ],
       "backlinks": [
+        "arg",
+        "god",
         "snall-mot-ngn",
         "source-2026-06-08-djur",
         "source-2026-06-09-zlatan-bio",
-        "topic-djur"
+        "topic-djur",
+        "topic-personer",
+        "vänlig"
       ]
     },
     {
@@ -18248,7 +19695,7 @@ window.KB_DATA = {
         "snarast",
         "strax"
       ],
-      "searchText": "snart snart knowledge_base/words/snart.md ---\ntype: word\nlemma: \"snart\"\nordklass: adverb\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"很快；即将\"\nen: \"soon\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-vi-ses-snart\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# snart — adverb\n\n📖 中文：很快；即将 · English: soon\n发音提示：snart（单音节）。\n\n## 语法变形 (Forms)\n\n副词，不变形。比较级：`snart` → `snarare`（更宁可/更快）→ `snarast`（最快/尽快）。\n\n## 词组搭配 (Collocations)\n\n- `vi ses snart` — 待会见/很快见\n- `snart klar` — 快好了\n- `så snart som möjligt` — 尽快（ASAP）\n- `snart sagt` — 简而言之\n\n## 例句 (Sentences)\n\n- [[sent-vi-ses-snart]] 🇸🇪 Vi ses snart. 🇨🇳 待会见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[snarare]] (adv. 更宁可/更快地), [[snarast]] (adv. 尽快)\n- 同义词: [[strax]] (adv. 立刻/马上), [[inom kort]] (不久)\n- 反义词: [[aldrig]] (永远不), [[sent]] (很晚/太迟)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `vi ses snart` = 待会见（打招呼道别用语）。\n- `så snart som möjligt`（ASAP）是正式/邮件中常用的说法。\n- `snarare` 还有\"更准确地说/更宁可\"的意思，注意多义。\n",
+      "searchText": "snart snart knowledge_base/words/snart.md ---\ntype: word\nlemma: \"snart\"\nordklass: adverb\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"很快；即将\"\nen: \"soon\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-tid-och-tidsuttryck\nsentences:\n  - sent-vi-ses-snart\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# snart — adverb\n\n📖 中文：很快；即将 · English: soon\n发音提示：snart（单音节）。\n\n## 语法变形 (Forms)\n\n副词，不变形。比较级：`snart` → `snarare`（更宁可/更快）→ `snarast`（最快/尽快）。\n\n## 词组搭配 (Collocations)\n\n- `vi ses snart` — 待会见/很快见\n- `snart klar` — 快好了\n- `så snart som möjligt` — 尽快（ASAP）\n- `snart sagt` — 简而言之\n\n## 例句 (Sentences)\n\n- [[sent-vi-ses-snart]] 🇸🇪 Vi ses snart. 🇨🇳 待会见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[snarare]] (adv. 更宁可/更快地), [[snarast]] (adv. 尽快)\n- 同义词: [[strax]] (adv. 立刻/马上), [[inom kort]] (不久)\n- 反义词: [[aldrig]] (永远不), [[sent]] (很晚/太迟)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `vi ses snart` = 待会见（打招呼道别用语）。\n- `så snart som möjligt`（ASAP）是正式/邮件中常用的说法。\n- `snarare` 还有\"更准确地说/更宁可\"的意思，注意多义。\n",
       "lemma": "snart",
       "ordklass": "adverb",
       "cefr": "A1",
@@ -18259,7 +19706,9 @@ window.KB_DATA = {
       "sentences": [
         "sent-vi-ses-snart"
       ],
-      "topics": [],
+      "topics": [
+        "topic-tid-och-tidsuttryck"
+      ],
       "backlinks": [
         "sent-vi-ses-snart",
         "source-2026-06-03-fraga-vagen-pub",
@@ -18465,6 +19914,68 @@ window.KB_DATA = {
         "source-2026-06-04-nyheter-vecka-22",
         "topic-hälsa",
         "topic-nyheter-vecka22"
+      ]
+    },
+    {
+      "slug": "söt",
+      "type": "word",
+      "title": "söt",
+      "path": "knowledge_base/words/söt.md",
+      "body": "# söt — adjektiv\n\n📖 中文：可爱的、甜的 · English: cute, sweet\n发音提示：/søːt/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | söt |\n| Obestämd ett-ord | sött |\n| Bestämd / plural | söta |\n\n> ⚠️ ett-形式：sött（双 t）\n\n## 词组搭配 (Collocations)\n\n- `en söt tjej` — 一个可爱的姑娘\n- `smaka sött` — 味道甜\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[gullig]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- söt 有两个主要义：形容人\"可爱\"、形容食物/饮料\"甜\"",
+      "excerpt": "söt — adjektiv 📖 中文：可爱的、甜的 · English: cute, sweet 发音提示：/søːt/ 语法变形 (Forms) Form Swedish Obestämd en ord söt Obestämd ett ord sött Bestämd / plural söta ⚠️ ett 形式：sött（双 t） 词组搭配 (Collocations) en söt tjej — 一个可爱的姑娘 smaka",
+      "links": [
+        "gullig",
+        "topic-karaktarsord",
+        "topic-personer"
+      ],
+      "searchText": "söt söt knowledge_base/words/söt.md ---\ntype: word\nlemma: \"söt\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"可爱的、甜的\"\nen: \"cute, sweet\"\nsynonyms: [\"gullig\"]\nantonyms: []\nfamily: []\ntopics: [\"topic-personer\", \"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# söt — adjektiv\n\n📖 中文：可爱的、甜的 · English: cute, sweet\n发音提示：/søːt/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | söt |\n| Obestämd ett-ord | sött |\n| Bestämd / plural | söta |\n\n> ⚠️ ett-形式：sött（双 t）\n\n## 词组搭配 (Collocations)\n\n- `en söt tjej` — 一个可爱的姑娘\n- `smaka sött` — 味道甜\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[gullig]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- söt 有两个主要义：形容人\"可爱\"、形容食物/饮料\"甜\"\n",
+      "lemma": "söt",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "可爱的、甜的",
+      "en": "cute, sweet",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "gullig",
+        "topic-personer"
+      ]
+    },
+    {
+      "slug": "spädbarn",
+      "type": "word",
+      "title": "spädbarn",
+      "path": "knowledge_base/words/spädbarn.md",
+      "body": "# spädbarn — substantiv\n\n📖 中文：婴儿、新生儿 · English: infant, newborn baby\n发音提示：/ˈspɛːdˌbɑːrn/，重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular (grundform) | spädbarn |\n| bestämd singular | spädbarnet |\n| obestämd plural | spädbarn |\n| bestämd plural | spädbarnen |\n\n> 📌 Ett-ord; plural = grundform (ingen ändelse).\n\n## 词组搭配 (Collocations)\n\n- `ett litet spädbarn` — 一个小婴儿\n- `ta hand om ett spädbarn` — 照顾婴儿\n- `spädbarns-sömn` — 婴儿睡眠\n\n## 例句 (Sentences)\n\n- 🇸🇪 Spädbarnet sover hela natten. — 🇨🇳 这个婴儿整晚都在睡觉。\n- 🇸🇪 Modern håller sitt spädbarn i armarna. — 🇨🇳 母亲把婴儿抱在怀里。\n- 🇸🇪 Spädbarn behöver mycket kärlek och omsorg. — 🇨🇳 婴儿需要很多爱和关怀。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[barn]], [[nyfödd]]\n- 同义词: [[bebis]]\n- 反义词: —\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `spädbarn` är något mer formellt/medicinskt; i vardagsspråk används [[bebis]] oftare.\n- Sammansatt ord: `späd` (späd = skör, liten, mjuk) + `barn` (barn).\n- Plural saknar ändelse: `ett spädbarn` → `många spädbarn` (inte `spädbarn**s**`).",
+      "excerpt": "spädbarn — substantiv 📖 中文：婴儿、新生儿 · English: infant, newborn baby 发音提示：/ˈspɛːdˌbɑːrn/，重音在第一音节 语法变形 (Forms) form Swedish obestämd singular (grundform) spädbarn bestämd singular spädbarnet obestämd plural spädbarn bestämd",
+      "links": [
+        "barn",
+        "bebis",
+        "nyfödd",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "spädbarn spädbarn knowledge_base/words/spädbarn.md ---\ntype: word\nlemma: \"spädbarn\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"婴儿、新生儿\"\nen: \"infant, newborn baby\"\nsynonyms: [\"bebis\"]\nantonyms: []\nfamily: [\"barn\", \"nyfödd\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# spädbarn — substantiv\n\n📖 中文：婴儿、新生儿 · English: infant, newborn baby\n发音提示：/ˈspɛːdˌbɑːrn/，重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular (grundform) | spädbarn |\n| bestämd singular | spädbarnet |\n| obestämd plural | spädbarn |\n| bestämd plural | spädbarnen |\n\n> 📌 Ett-ord; plural = grundform (ingen ändelse).\n\n## 词组搭配 (Collocations)\n\n- `ett litet spädbarn` — 一个小婴儿\n- `ta hand om ett spädbarn` — 照顾婴儿\n- `spädbarns-sömn` — 婴儿睡眠\n\n## 例句 (Sentences)\n\n- 🇸🇪 Spädbarnet sover hela natten. — 🇨🇳 这个婴儿整晚都在睡觉。\n- 🇸🇪 Modern håller sitt spädbarn i armarna. — 🇨🇳 母亲把婴儿抱在怀里。\n- 🇸🇪 Spädbarn behöver mycket kärlek och omsorg. — 🇨🇳 婴儿需要很多爱和关怀。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[barn]], [[nyfödd]]\n- 同义词: [[bebis]]\n- 反义词: —\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `spädbarn` är något mer formellt/medicinskt; i vardagsspråk används [[bebis]] oftare.\n- Sammansatt ord: `späd` (späd = skör, liten, mjuk) + `barn` (barn).\n- Plural saknar ändelse: `ett spädbarn` → `många spädbarn` (inte `spädbarn**s**`).\n",
+      "lemma": "spädbarn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "婴儿、新生儿",
+      "en": "infant, newborn baby",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "bebis",
+        "topic-personer"
       ]
     },
     {
@@ -18680,13 +20191,15 @@ window.KB_DATA = {
       "type": "word",
       "title": "stark",
       "path": "knowledge_base/words/stark.md",
-      "body": "# stark — adjektiv\n\n📖 中文：强壮的；强烈的 · English: strong\n发音提示：/stark/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | stark |\n| neutrum obestämd | starkt |\n| bestämd/plural | starka |\n| komparativ | starkare |\n| superlativ | starkast |\n\n## 词组搭配 (Collocations)\n\n- `stark kaffe` — 浓咖啡\n- `stark smärta` — 剧烈的疼痛\n- `en stark person` — 一个强壮的人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han är stark och kan bära tunga saker. — 🇨🇳 他很强壮，能搬重东西。\n- 🇸🇪 Kaffet är för starkt för mig. — 🇨🇳 这咖啡对我来说太浓了。\n- 🇸🇪 Hon har en stark vilja att bli frisk. — 🇨🇳 她有很强的意愿恢复健康。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Adjektivets neutrum tar -t: ett starkt hjärta (一颗强壮的心).\n- 来源: [[source-2026-06-07-kropp-halsa]]",
+      "body": "# stark — adjektiv\n\n📖 中文：强壮的；强烈的 · English: strong\n发音提示：/stark/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | stark |\n| neutrum obestämd | starkt |\n| bestämd/plural | starka |\n| komparativ | starkare |\n| superlativ | starkast |\n\n## 词组搭配 (Collocations)\n\n- `stark kaffe` — 浓咖啡\n- `stark smärta` — 剧烈的疼痛\n- `en stark person` — 一个强壮的人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han är stark och kan bära tunga saker. — 🇨🇳 他很强壮，能搬重东西。\n- 🇸🇪 Kaffet är för starkt för mig. — 🇨🇳 这咖啡对我来说太浓了。\n- 🇸🇪 Hon har en stark vilja att bli frisk. — 🇨🇳 她有很强的意愿恢复健康。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]] · [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Adjektivets neutrum tar -t: ett starkt hjärta (一颗强壮的心).\n- 来源: [[source-2026-06-07-kropp-halsa]] · [[source-2026-06-08-djur]]",
       "excerpt": "stark — adjektiv 📖 中文：强壮的；强烈的 · English: strong 发音提示：/stark/ 语法变形 (Forms) form böjning utrum obestämd stark neutrum obestämd starkt bestämd/plural starka komparativ starkare superlativ starkast 词组搭配 (Collocations) stark",
       "links": [
         "source-2026-06-07-kropp-halsa",
+        "source-2026-06-08-djur",
+        "topic-djur",
         "topic-kropp"
       ],
-      "searchText": "stark stark knowledge_base/words/stark.md ---\ntype: word\nlemma: \"stark\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"强壮的；强烈的\"\nen: \"strong\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stark — adjektiv\n\n📖 中文：强壮的；强烈的 · English: strong\n发音提示：/stark/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | stark |\n| neutrum obestämd | starkt |\n| bestämd/plural | starka |\n| komparativ | starkare |\n| superlativ | starkast |\n\n## 词组搭配 (Collocations)\n\n- `stark kaffe` — 浓咖啡\n- `stark smärta` — 剧烈的疼痛\n- `en stark person` — 一个强壮的人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han är stark och kan bära tunga saker. — 🇨🇳 他很强壮，能搬重东西。\n- 🇸🇪 Kaffet är för starkt för mig. — 🇨🇳 这咖啡对我来说太浓了。\n- 🇸🇪 Hon har en stark vilja att bli frisk. — 🇨🇳 她有很强的意愿恢复健康。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Adjektivets neutrum tar -t: ett starkt hjärta (一颗强壮的心).\n- 来源: [[source-2026-06-07-kropp-halsa]]\n",
+      "searchText": "stark stark knowledge_base/words/stark.md ---\ntype: word\nlemma: \"stark\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"强壮的；强烈的\"\nen: \"strong\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kropp, topic-djur]\nsentences: []\nknown: false\ncreated: \"2026-06-07\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stark — adjektiv\n\n📖 中文：强壮的；强烈的 · English: strong\n发音提示：/stark/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | stark |\n| neutrum obestämd | starkt |\n| bestämd/plural | starka |\n| komparativ | starkare |\n| superlativ | starkast |\n\n## 词组搭配 (Collocations)\n\n- `stark kaffe` — 浓咖啡\n- `stark smärta` — 剧烈的疼痛\n- `en stark person` — 一个强壮的人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han är stark och kan bära tunga saker. — 🇨🇳 他很强壮，能搬重东西。\n- 🇸🇪 Kaffet är för starkt för mig. — 🇨🇳 这咖啡对我来说太浓了。\n- 🇸🇪 Hon har en stark vilja att bli frisk. — 🇨🇳 她有很强的意愿恢复健康。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]] · [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Adjektivets neutrum tar -t: ett starkt hjärta (一颗强壮的心).\n- 来源: [[source-2026-06-07-kropp-halsa]] · [[source-2026-06-08-djur]]\n",
       "lemma": "stark",
       "ordklass": "adjektiv",
       "cefr": "A2",
@@ -18696,7 +20209,8 @@ window.KB_DATA = {
       "known": false,
       "sentences": [],
       "topics": [
-        "topic-kropp"
+        "topic-kropp",
+        "topic-djur"
       ],
       "backlinks": [
         "source-2026-06-07-kropp-halsa",
@@ -18742,6 +20256,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "stilig",
+      "type": "word",
+      "title": "stilig",
+      "path": "knowledge_base/words/stilig.md",
+      "body": "# stilig — adjektiv\n\n📖 中文：帅气的 · English: handsome\n发音提示：/ˈstiːlɪɡ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | stilig |\n| Obestämd ett-ord | stiligt |\n| Bestämd / plural | stiliga |\n\n## 词组搭配 (Collocations)\n\n- `en stilig kille` — 一个帅气的小伙子\n- `se stilig ut` — 看起来帅气\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[stil]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：stilig / stiligt / stiliga",
+      "excerpt": "stilig — adjektiv 📖 中文：帅气的 · English: handsome 发音提示：/ˈstiːlɪɡ/ 语法变形 (Forms) Form Swedish Obestämd en ord stilig Obestämd ett ord stiligt Bestämd / plural stiliga 词组搭配 (Collocations) en stilig kille — 一个帅气的小伙子 se stilig ",
+      "links": [
+        "stil",
+        "topic-karaktarsord",
+        "topic-personer"
+      ],
+      "searchText": "stilig stilig knowledge_base/words/stilig.md ---\ntype: word\nlemma: \"stilig\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"帅气的\"\nen: \"handsome\"\nsynonyms: []\nantonyms: []\nfamily: [\"stil\"]\ntopics: [\"topic-personer\", \"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stilig — adjektiv\n\n📖 中文：帅气的 · English: handsome\n发音提示：/ˈstiːlɪɡ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | stilig |\n| Obestämd ett-ord | stiligt |\n| Bestämd / plural | stiliga |\n\n## 词组搭配 (Collocations)\n\n- `en stilig kille` — 一个帅气的小伙子\n- `se stilig ut` — 看起来帅气\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[stil]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形：stilig / stiligt / stiliga\n",
+      "lemma": "stilig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "帅气的",
+      "en": "handsome",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "stol",
       "type": "word",
       "title": "stol",
@@ -18784,19 +20327,49 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "stolt",
+      "type": "word",
+      "title": "stolt",
+      "path": "knowledge_base/words/stolt.md",
+      "body": "# stolt — adjektiv\n\n📖 中文：自豪的 · English: proud\n发音提示：/stuːlt/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | stolt |\n| Obestämd ett-ord | stolt |\n| Bestämd / plural | stolta |\n\n> ⚠️ en-ord 和 ett-ord 形式相同：stolt（不变化）\n\n## 词组搭配 (Collocations)\n\n- `en stolt förälder` — 一位自豪的家长\n- `vara stolt över` — 为……感到自豪\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[stolthet]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- stolt 的 en-ord 和 ett-ord 形式相同（无 -t 变化）\n- 常与 över 搭配：stolt över ngn/ngt = proud of sb/sth",
+      "excerpt": "stolt — adjektiv 📖 中文：自豪的 · English: proud 发音提示：/stuːlt/ 语法变形 (Forms) Form Swedish Obestämd en ord stolt Obestämd ett ord stolt Bestämd / plural stolta ⚠️ en ord 和 ett ord 形式相同：stolt（不变化） 词组搭配 (Collocations) en stolt fö",
+      "links": [
+        "stolthet",
+        "topic-karaktarsord",
+        "topic-personer"
+      ],
+      "searchText": "stolt stolt knowledge_base/words/stolt.md ---\ntype: word\nlemma: \"stolt\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"自豪的\"\nen: \"proud\"\nsynonyms: []\nantonyms: []\nfamily: [\"stolthet\"]\ntopics: [\"topic-personer\", \"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stolt — adjektiv\n\n📖 中文：自豪的 · English: proud\n发音提示：/stuːlt/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | stolt |\n| Obestämd ett-ord | stolt |\n| Bestämd / plural | stolta |\n\n> ⚠️ en-ord 和 ett-ord 形式相同：stolt（不变化）\n\n## 词组搭配 (Collocations)\n\n- `en stolt förälder` — 一位自豪的家长\n- `vara stolt över` — 为……感到自豪\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[stolthet]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- stolt 的 en-ord 和 ett-ord 形式相同（无 -t 变化）\n- 常与 över 搭配：stolt över ngn/ngt = proud of sb/sth\n",
+      "lemma": "stolt",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "自豪的",
+      "en": "proud",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "stor",
       "type": "word",
       "title": "stor",
       "path": "knowledge_base/words/stor.md",
-      "body": "# stor — adjektiv\n\n📖 中文：大的 · English: big\n发音提示：/stuːr/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | stor |\n| neutrum obestämd | stort |\n| bestämd/plural | stora |\n| komparativ | större |\n| superlativ | störst |\n\n## 词组搭配 (Collocations)\n\n- `ett stort lejon` — 一头大狮子\n- `stor stad` — 大城市\n- `stora händer` — 大手\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lejonet är stort och kraftfullt. — 🇨🇳 狮子又大又强壮。\n- 🇸🇪 Stockholm är en stor stad med många invånare. — 🇨🇳 斯德哥尔摩是一个有很多居民的大城市。\n- 🇸🇪 Elefanten är det största landdjuret. — 🇨🇳 大象是最大的陆地动物。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[storlek]] (大小；尺寸)\n- 同义词: —\n- 反义词: [[liten]]\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则比较级：stor → större → störst.\n- Neutrum: ett stort hus (一栋大房子).\n- 来源: [[source-2026-06-08-djur]]",
+      "body": "# stor — adjektiv\n\n📖 中文：大的 · English: big\n发音提示：/stuːr/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | stor |\n| neutrum obestämd | stort |\n| bestämd/plural | stora |\n| komparativ | större |\n| superlativ | störst |\n\n## 词组搭配 (Collocations)\n\n- `ett stort lejon` — 一头大狮子\n- `stor stad` — 大城市\n- `stora händer` — 大手\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lejonet är stort och kraftfullt. — 🇨🇳 狮子又大又强壮。\n- 🇸🇪 Stockholm är en stor stad med många invånare. — 🇨🇳 斯德哥尔摩是一个有很多居民的大城市。\n- 🇸🇪 Elefanten är det största landdjuret. — 🇨🇳 大象是最大的陆地动物。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[storlek]] (大小；尺寸)\n- 同义词: —\n- 反义词: [[liten]]\n- 主题: [[topic-djur]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则比较级：stor → större → störst.\n- Neutrum: ett stort hus (一栋大房子).\n- 来源: [[source-2026-06-08-djur]]",
       "excerpt": "stor — adjektiv 📖 中文：大的 · English: big 发音提示：/stuːr/ 语法变形 (Forms) form böjning utrum obestämd stor neutrum obestämd stort bestämd/plural stora komparativ större superlativ störst 词组搭配 (Collocations) ett stort lejon — 一头大",
       "links": [
         "liten",
         "source-2026-06-08-djur",
         "storlek",
-        "topic-djur"
+        "topic-djur",
+        "topic-hemmet"
       ],
-      "searchText": "stor stor knowledge_base/words/stor.md ---\ntype: word\nlemma: \"stor\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"大的\"\nen: \"big\"\nsynonyms: []\nantonyms: [liten]\nfamily: []\ntopics: [topic-djur]\nsentences: []\nknown: false\ncreated: \"2026-06-08\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stor — adjektiv\n\n📖 中文：大的 · English: big\n发音提示：/stuːr/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | stor |\n| neutrum obestämd | stort |\n| bestämd/plural | stora |\n| komparativ | större |\n| superlativ | störst |\n\n## 词组搭配 (Collocations)\n\n- `ett stort lejon` — 一头大狮子\n- `stor stad` — 大城市\n- `stora händer` — 大手\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lejonet är stort och kraftfullt. — 🇨🇳 狮子又大又强壮。\n- 🇸🇪 Stockholm är en stor stad med många invånare. — 🇨🇳 斯德哥尔摩是一个有很多居民的大城市。\n- 🇸🇪 Elefanten är det största landdjuret. — 🇨🇳 大象是最大的陆地动物。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[storlek]] (大小；尺寸)\n- 同义词: —\n- 反义词: [[liten]]\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则比较级：stor → större → störst.\n- Neutrum: ett stort hus (一栋大房子).\n- 来源: [[source-2026-06-08-djur]]\n",
+      "searchText": "stor stor knowledge_base/words/stor.md ---\ntype: word\nlemma: \"stor\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"大的\"\nen: \"big\"\nsynonyms: []\nantonyms: [liten]\nfamily: []\ntopics: [topic-djur, topic-hemmet]\nsentences:\n  - sent-pa-golvet-mellan-sangen-skriv-stor-matta\n  - sent-framfor-fonster-vid-vaggen-stor-krukvaxt\nknown: false\ncreated: \"2026-06-08\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stor — adjektiv\n\n📖 中文：大的 · English: big\n发音提示：/stuːr/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | stor |\n| neutrum obestämd | stort |\n| bestämd/plural | stora |\n| komparativ | större |\n| superlativ | störst |\n\n## 词组搭配 (Collocations)\n\n- `ett stort lejon` — 一头大狮子\n- `stor stad` — 大城市\n- `stora händer` — 大手\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lejonet är stort och kraftfullt. — 🇨🇳 狮子又大又强壮。\n- 🇸🇪 Stockholm är en stor stad med många invånare. — 🇨🇳 斯德哥尔摩是一个有很多居民的大城市。\n- 🇸🇪 Elefanten är det största landdjuret. — 🇨🇳 大象是最大的陆地动物。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[storlek]] (大小；尺寸)\n- 同义词: —\n- 反义词: [[liten]]\n- 主题: [[topic-djur]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则比较级：stor → större → störst.\n- Neutrum: ett stort hus (一栋大房子).\n- 来源: [[source-2026-06-08-djur]]\n",
       "lemma": "stor",
       "ordklass": "adjektiv",
       "cefr": "A1",
@@ -18804,17 +20377,23 @@ window.KB_DATA = {
       "en": "big",
       "created": "2026-06-08",
       "known": false,
-      "sentences": [],
+      "sentences": [
+        "sent-pa-golvet-mellan-sangen-skriv-stor-matta",
+        "sent-framfor-fonster-vid-vaggen-stor-krukvaxt"
+      ],
       "topics": [
-        "topic-djur"
+        "topic-djur",
+        "topic-hemmet"
       ],
       "backlinks": [
+        "grammar-adjektiv-bojning",
         "liten",
         "sent-framfor-fonster-vid-vaggen-stor-krukvaxt",
         "sent-pa-golvet-mellan-sangen-skriv-stor-matta",
         "source-2026-06-08-djur",
         "source-2026-06-09-rumsliga-relationer",
-        "topic-djur"
+        "topic-djur",
+        "topic-personer"
       ]
     },
     {
@@ -19000,16 +20579,17 @@ window.KB_DATA = {
       "type": "word",
       "title": "syskon",
       "path": "knowledge_base/words/syskon.md",
-      "body": "# syskon — substantiv (ett)\n\n📖 中文：兄弟姐妹 · English: siblings\n发音提示：SYS-kon；元音 `y` 长音（嘴形圆，类似\"啊\"但嘴唇更圆）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett syskon |\n| Singular bestämd | syskonet |\n| Plural obestämd | syskon |\n| Plural bestämd | syskonen |\n\n⚠️ 单复数不定式同形（ett-ord 中性词这类变化很常见）。\n\n## 例句 (Sentences)\n\n- 🇸🇪 Astrid och hennes tre **syskon** bodde på en gård.\n  🇨🇳 阿斯特丽德和她的三个兄弟姐妹住在一个农庄里。\n- 🇸🇪 Har du några **syskon**?\n  🇨🇳 你有兄弟姐妹吗？\n- 🇸🇪 Mina **syskon** bor i olika städer i Sverige.\n  🇨🇳 我的兄弟姐妹住在瑞典不同的城市。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bror]] / [[broder]] (en, 兄弟), [[syster]] (en, 姐妹), [[syskonkärlek]] (en, 手足之情)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `ett syskon` = 一个兄弟姐妹（**性别中立**！不区分男女）。\n- 原文：*Astrid och hennes tre syskon* — 阿斯特丽德和她的三个兄弟姐妹。\n- 与中文\"兄弟姐妹\"不同，瑞典语用一个词囊括所有性别。",
+      "body": "# syskon — substantiv (ett)\n\n📖 中文：兄弟姐妹 · English: siblings\n发音提示：SYS-kon；元音 `y` 长音（嘴形圆，类似\"啊\"但嘴唇更圆）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett syskon |\n| Singular bestämd | syskonet |\n| Plural obestämd | syskon |\n| Plural bestämd | syskonen |\n\n⚠️ 单复数不定式同形（ett-ord 中性词这类变化很常见）。\n\n## 例句 (Sentences)\n\n- 🇸🇪 Astrid och hennes tre **syskon** bodde på en gård.\n  🇨🇳 阿斯特丽德和她的三个兄弟姐妹住在一个农庄里。\n- 🇸🇪 Har du några **syskon**?\n  🇨🇳 你有兄弟姐妹吗？\n- 🇸🇪 Mina **syskon** bor i olika städer i Sverige.\n  🇨🇳 我的兄弟姐妹住在瑞典不同的城市。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bror]] / [[broder]] (en, 兄弟), [[syster]] (en, 姐妹), [[syskonkärlek]] (en, 手足之情)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `ett syskon` = 一个兄弟姐妹（**性别中立**！不区分男女）。\n- 原文：*Astrid och hennes tre syskon* — 阿斯特丽德和她的三个兄弟姐妹。\n- 与中文\"兄弟姐妹\"不同，瑞典语用一个词囊括所有性别。\n- 来源: [[source-2026-06-09-zlatan-bio]]",
       "excerpt": "syskon — substantiv (ett) 📖 中文：兄弟姐妹 · English: siblings 发音提示：SYS kon；元音 y 长音（嘴形圆，类似\"啊\"但嘴唇更圆）。 语法变形 (Forms) Form Swedish Singular obestämd ett syskon Singular bestämd syskonet Plural obestämd syskon Plural bestämd syskon",
       "links": [
         "broder",
         "bror",
+        "source-2026-06-09-zlatan-bio",
         "syskonkärlek",
         "syster",
         "topic-familj-och-barn"
       ],
-      "searchText": "syskon syskon knowledge_base/words/syskon.md ---\ntype: word\nlemma: \"syskon\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: ett\ncefr: A2\nzh: 兄弟姐妹\nen: siblings\nsynonyms: []\nantonyms: []\nfamily: [bror, syster]\ntopics: [topic-familj-och-barn]\nsentences: []\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# syskon — substantiv (ett)\n\n📖 中文：兄弟姐妹 · English: siblings\n发音提示：SYS-kon；元音 `y` 长音（嘴形圆，类似\"啊\"但嘴唇更圆）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett syskon |\n| Singular bestämd | syskonet |\n| Plural obestämd | syskon |\n| Plural bestämd | syskonen |\n\n⚠️ 单复数不定式同形（ett-ord 中性词这类变化很常见）。\n\n## 例句 (Sentences)\n\n- 🇸🇪 Astrid och hennes tre **syskon** bodde på en gård.\n  🇨🇳 阿斯特丽德和她的三个兄弟姐妹住在一个农庄里。\n- 🇸🇪 Har du några **syskon**?\n  🇨🇳 你有兄弟姐妹吗？\n- 🇸🇪 Mina **syskon** bor i olika städer i Sverige.\n  🇨🇳 我的兄弟姐妹住在瑞典不同的城市。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bror]] / [[broder]] (en, 兄弟), [[syster]] (en, 姐妹), [[syskonkärlek]] (en, 手足之情)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `ett syskon` = 一个兄弟姐妹（**性别中立**！不区分男女）。\n- 原文：*Astrid och hennes tre syskon* — 阿斯特丽德和她的三个兄弟姐妹。\n- 与中文\"兄弟姐妹\"不同，瑞典语用一个词囊括所有性别。\n",
+      "searchText": "syskon syskon knowledge_base/words/syskon.md ---\ntype: word\nlemma: \"syskon\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: ett\ncefr: A2\nzh: 兄弟姐妹\nen: siblings\nsynonyms: []\nantonyms: []\nfamily: [bror, syster]\ntopics: [topic-familj-och-barn]\nsentences: []\nknown: false\ncreated: \"2026-06-02\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# syskon — substantiv (ett)\n\n📖 中文：兄弟姐妹 · English: siblings\n发音提示：SYS-kon；元音 `y` 长音（嘴形圆，类似\"啊\"但嘴唇更圆）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett syskon |\n| Singular bestämd | syskonet |\n| Plural obestämd | syskon |\n| Plural bestämd | syskonen |\n\n⚠️ 单复数不定式同形（ett-ord 中性词这类变化很常见）。\n\n## 例句 (Sentences)\n\n- 🇸🇪 Astrid och hennes tre **syskon** bodde på en gård.\n  🇨🇳 阿斯特丽德和她的三个兄弟姐妹住在一个农庄里。\n- 🇸🇪 Har du några **syskon**?\n  🇨🇳 你有兄弟姐妹吗？\n- 🇸🇪 Mina **syskon** bor i olika städer i Sverige.\n  🇨🇳 我的兄弟姐妹住在瑞典不同的城市。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bror]] / [[broder]] (en, 兄弟), [[syster]] (en, 姐妹), [[syskonkärlek]] (en, 手足之情)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `ett syskon` = 一个兄弟姐妹（**性别中立**！不区分男女）。\n- 原文：*Astrid och hennes tre syskon* — 阿斯特丽德和她的三个兄弟姐妹。\n- 与中文\"兄弟姐妹\"不同，瑞典语用一个词囊括所有性别。\n- 来源: [[source-2026-06-09-zlatan-bio]]\n",
       "lemma": "syskon",
       "ordklass": "substantiv",
       "cefr": "A2",
@@ -19022,9 +20602,44 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
+        "bror",
+        "familj",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-09-zlatan-bio",
+        "syster",
         "topic-familj-och-barn"
+      ]
+    },
+    {
+      "slug": "syster",
+      "type": "word",
+      "title": "syster",
+      "path": "knowledge_base/words/syster.md",
+      "body": "# syster — substantiv (en)\n\n📖 中文：姐姐、妹妹 · English: sister\n发音提示：/ˈsyːstər/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en syster |\n| Bestämd sg. | systern |\n| Obestämd pl. | systrar |\n| Bestämd pl. | systrarna |\n\n> ⚠️ syncope（省音）：syster → systern（bestämd sg. 去掉 -e-）；systrar（pl. 同样省音）\n\n## 词组搭配 (Collocations)\n\n- `en stor syster` — 一个大姐姐\n- `min syster` — 我的姐妹\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[syskon]]\n- 反义词: [[bror]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- syncope 变形：syster → systern（bestämd），systrar（obestämd pl.），systrarna（bestämd pl.）\n- 中文不区分年龄，瑞典语 syster 可表示姐姐或妹妹",
+      "excerpt": "syster — substantiv (en) 📖 中文：姐姐、妹妹 · English: sister 发音提示：/ˈsyːstər/ 语法变形 (Forms) Form Swedish Obestämd sg. en syster Bestämd sg. systern Obestämd pl. systrar Bestämd pl. systrarna ⚠️ syncope（省音）：syster → systern（bestä",
+      "links": [
+        "bror",
+        "syskon",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "syster syster knowledge_base/words/syster.md ---\ntype: word\nlemma: \"syster\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"姐姐、妹妹\"\nen: \"sister\"\nsynonyms: []\nantonyms: [\"bror\"]\nfamily: [\"syskon\"]\ntopics: [\"topic-personer\", \"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# syster — substantiv (en)\n\n📖 中文：姐姐、妹妹 · English: sister\n发音提示：/ˈsyːstər/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en syster |\n| Bestämd sg. | systern |\n| Obestämd pl. | systrar |\n| Bestämd pl. | systrarna |\n\n> ⚠️ syncope（省音）：syster → systern（bestämd sg. 去掉 -e-）；systrar（pl. 同样省音）\n\n## 词组搭配 (Collocations)\n\n- `en stor syster` — 一个大姐姐\n- `min syster` — 我的姐妹\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[syskon]]\n- 反义词: [[bror]]\n- 主题: [[topic-personer]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- syncope 变形：syster → systern（bestämd），systrar（obestämd pl.），systrarna（bestämd pl.）\n- 中文不区分年龄，瑞典语 syster 可表示姐姐或妹妹\n",
+      "lemma": "syster",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "姐姐、妹妹",
+      "en": "sister",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "bror",
+        "syskon",
+        "topic-personer"
       ]
     },
     {
@@ -19394,6 +21009,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "tjej",
+      "type": "word",
+      "title": "tjej",
+      "path": "knowledge_base/words/tjej.md",
+      "body": "# tjej — substantiv (en)\n\n📖 中文：姑娘、女孩 · English: girl\n发音提示：/ɕɛj/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en tjej |\n| Bestämd sg. | tjejen |\n| Obestämd pl. | tjejer |\n| Bestämd pl. | tjejerna |\n\n## 词组搭配 (Collocations)\n\n- `en söt tjej` — 一个可爱的姑娘\n- `tjejerna i klassen` — 班里的女孩们\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[flicka]]\n- 反义词: [[kille]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- tjej 是现代口语词，更随意；flicka 稍正式，常用于年幼的女孩",
+      "excerpt": "tjej — substantiv (en) 📖 中文：姑娘、女孩 · English: girl 发音提示：/ɕɛj/ 语法变形 (Forms) Form Swedish Obestämd sg. en tjej Bestämd sg. tjejen Obestämd pl. tjejer Bestämd pl. tjejerna 词组搭配 (Collocations) en söt tjej — 一个可爱的姑娘 tjejerna ",
+      "links": [
+        "flicka",
+        "kille",
+        "topic-personer"
+      ],
+      "searchText": "tjej tjej knowledge_base/words/tjej.md ---\ntype: word\nlemma: \"tjej\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"姑娘、女孩\"\nen: \"girl\"\nsynonyms: [\"flicka\"]\nantonyms: [\"kille\"]\nfamily: []\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tjej — substantiv (en)\n\n📖 中文：姑娘、女孩 · English: girl\n发音提示：/ɕɛj/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en tjej |\n| Bestämd sg. | tjejen |\n| Obestämd pl. | tjejer |\n| Bestämd pl. | tjejerna |\n\n## 词组搭配 (Collocations)\n\n- `en söt tjej` — 一个可爱的姑娘\n- `tjejerna i klassen` — 班里的女孩们\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[flicka]]\n- 反义词: [[kille]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- tjej 是现代口语词，更随意；flicka 稍正式，常用于年幼的女孩\n",
+      "lemma": "tjej",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "姑娘、女孩",
+      "en": "girl",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "flicka",
+        "kille",
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "tjock",
       "type": "word",
       "title": "tjock",
@@ -19563,6 +21208,8 @@ window.KB_DATA = {
         "topic-karaktarsord"
       ],
       "backlinks": [
+        "kul",
+        "rolig",
         "source-2026-06-02-astrid-lindgren",
         "topic-karaktarsord",
         "trevlig"
@@ -19597,7 +21244,8 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "sent-mitt-rum-ar-litet-men-trevligt",
-        "source-2026-06-09-rumsliga-relationer"
+        "source-2026-06-09-rumsliga-relationer",
+        "vänlig"
       ]
     },
     {
@@ -19654,7 +21302,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-08-djur",
-        "topic-djur"
+        "topic-djur",
+        "topic-personer"
       ]
     },
     {
@@ -19745,7 +21394,7 @@ window.KB_DATA = {
         "tunnelbanelinje",
         "tunnelbanestation"
       ],
-      "searchText": "tunnelbana tunnelbana knowledge_base/words/tunnelbana.md ---\ntype: word\nlemma: \"tunnelbana\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"地铁\"\nen: \"metro / subway\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-ta-tunnelbanan-till-slussen\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tunnelbana — substantiv (en)\n\n📖 中文：地铁 · English: metro / subway\n发音提示：TUN-nel-ba-na；四音节，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en tunnelbana |\n| Singular bestämd | tunnelbanan |\n| Plural obestämd | tunnelbanor |\n| Plural bestämd | tunnelbanorna |\n\n## 词组搭配 (Collocations)\n\n- `ta tunnelbanan` — 坐地铁\n- `åka tunnelbana` — 乘地铁\n- `tunnelbanestation` — 地铁站\n- `tunnelbanelinje` — 地铁线路\n\n## 例句 (Sentences)\n\n- [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14. 🇨🇳 坐地铁到斯鲁森站，13或14号线。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tunnelbanestation]] (地铁站), [[tunnelbanelinje]] (地铁线)\n- 同义词: [[T-bana]] (口语简称)\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 斯德哥尔摩地铁俗称 \"T-banan\"（T = tunnelbana）。\n- `ta tunnelbanan`（坐地铁）vs `åka tunnelbana`（乘地铁，更通用）。\n",
+      "searchText": "tunnelbana tunnelbana knowledge_base/words/tunnelbana.md ---\ntype: word\nlemma: \"tunnelbana\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"地铁\"\nen: \"metro / subway\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-riktningar\n  - topic-vardagsrutin\n  - topic-kollektivtrafik\nsentences:\n  - sent-ta-tunnelbanan-till-slussen\n  - sent-sedan-tog-jag-tunnelbanan-in-till-stan\n  - sent-jag-gick-tillbaka-till-tunnelbanestationen-fragade-personal\n  - sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tunnelbana — substantiv (en)\n\n📖 中文：地铁 · English: metro / subway\n发音提示：TUN-nel-ba-na；四音节，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en tunnelbana |\n| Singular bestämd | tunnelbanan |\n| Plural obestämd | tunnelbanor |\n| Plural bestämd | tunnelbanorna |\n\n## 词组搭配 (Collocations)\n\n- `ta tunnelbanan` — 坐地铁\n- `åka tunnelbana` — 乘地铁\n- `tunnelbanestation` — 地铁站\n- `tunnelbanelinje` — 地铁线路\n\n## 例句 (Sentences)\n\n- [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14. 🇨🇳 坐地铁到斯鲁森站，13或14号线。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tunnelbanestation]] (地铁站), [[tunnelbanelinje]] (地铁线)\n- 同义词: [[T-bana]] (口语简称)\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 斯德哥尔摩地铁俗称 \"T-banan\"（T = tunnelbana）。\n- `ta tunnelbanan`（坐地铁）vs `åka tunnelbana`（乘地铁，更通用）。\n",
       "lemma": "tunnelbana",
       "ordklass": "substantiv",
       "cefr": "A1",
@@ -19754,10 +21403,15 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "sentences": [
-        "sent-ta-tunnelbanan-till-slussen"
+        "sent-ta-tunnelbanan-till-slussen",
+        "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
+        "sent-jag-gick-tillbaka-till-tunnelbanestationen-fragade-personal",
+        "sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok"
       ],
       "topics": [
-        "topic-riktningar"
+        "topic-riktningar",
+        "topic-vardagsrutin",
+        "topic-kollektivtrafik"
       ],
       "backlinks": [
         "sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok",
@@ -19869,6 +21523,7 @@ window.KB_DATA = {
         "gammal",
         "source-2026-06-08-djur",
         "topic-djur",
+        "topic-personer",
         "ungdom"
       ]
     },
@@ -19907,6 +21562,7 @@ window.KB_DATA = {
         "index",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22",
+        "topic-personer",
         "ung"
       ]
     },
@@ -20087,6 +21743,34 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "välkommen",
+      "type": "word",
+      "title": "välkommen",
+      "path": "knowledge_base/words/välkommen.md",
+      "body": "# välkommen — adjektiv\n\n📖 中文：受欢迎的 · English: welcome\n发音提示：/ˈvɛlˌkɔmən/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | välkommen |\n| Obestämd ett-ord | välkommet |\n| Bestämd / plural | välkomna |\n\n> ⚠️ syncope（省音）：välkommen → välkomna（plural/bestämd 省去 -en 再加 -a）\n\n## 词组搭配 (Collocations)\n\n- `en välkommen gäst` — 一位受欢迎的客人\n- `välkommen hit!` — 欢迎来这里！\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[välkomna]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- syncope：välkommen / välkommet / välkomna\n- 也用作感叹词：Välkommen! = Welcome!",
+      "excerpt": "välkommen — adjektiv 📖 中文：受欢迎的 · English: welcome 发音提示：/ˈvɛlˌkɔmən/ 语法变形 (Forms) Form Swedish Obestämd en ord välkommen Obestämd ett ord välkommet Bestämd / plural välkomna ⚠️ syncope（省音）：välkommen → välkomna（plural/bes",
+      "links": [
+        "topic-personer",
+        "välkomna"
+      ],
+      "searchText": "välkommen välkommen knowledge_base/words/välkommen.md ---\ntype: word\nlemma: \"välkommen\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"受欢迎的\"\nen: \"welcome\"\nsynonyms: []\nantonyms: []\nfamily: [\"välkomna\"]\ntopics: [\"topic-personer\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# välkommen — adjektiv\n\n📖 中文：受欢迎的 · English: welcome\n发音提示：/ˈvɛlˌkɔmən/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | välkommen |\n| Obestämd ett-ord | välkommet |\n| Bestämd / plural | välkomna |\n\n> ⚠️ syncope（省音）：välkommen → välkomna（plural/bestämd 省去 -en 再加 -a）\n\n## 词组搭配 (Collocations)\n\n- `en välkommen gäst` — 一位受欢迎的客人\n- `välkommen hit!` — 欢迎来这里！\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[välkomna]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- syncope：välkommen / välkommet / välkomna\n- 也用作感叹词：Välkommen! = Welcome!\n",
+      "lemma": "välkommen",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "受欢迎的",
+      "en": "welcome",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "topic-personer",
+        "välkomna"
+      ]
+    },
+    {
       "slug": "välkomna",
       "type": "word",
       "title": "välkomna",
@@ -20124,7 +21808,8 @@ window.KB_DATA = {
         "index",
         "sent-manga-kommuner-valkomnar-sina-nya",
         "source-2026-06-04-nyheter-vecka-22",
-        "topic-nyheter-vecka22"
+        "topic-nyheter-vecka22",
+        "välkommen"
       ]
     },
     {
@@ -20158,7 +21843,10 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "index",
-        "source-2026-06-02-valj-ratt-form"
+        "kompis",
+        "source-2026-06-02-valj-ratt-form",
+        "topic-personer",
+        "vänlig"
       ]
     },
     {
@@ -20197,7 +21885,42 @@ window.KB_DATA = {
         "ovanlig",
         "sent-ar-en-vanlig-dag-pa-storgatan-full-av-liv",
         "source-2026-06-09-beskriva-en-gata",
+        "topic-personer",
         "topic-stadsmiljo"
+      ]
+    },
+    {
+      "slug": "vänlig",
+      "type": "word",
+      "title": "vänlig",
+      "path": "knowledge_base/words/vänlig.md",
+      "body": "# vänlig — adjektiv\n\n📖 中文：友好的 · English: friendly\n发音提示：/ˈvɛnlɪɡ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | vänlig |\n| Obestämd ett-ord | vänligt |\n| Bestämd / plural | vänliga |\n\n## 词组搭配 (Collocations)\n\n- `en vänlig kvinna` — 一位友好的女人\n- `vara vänlig mot ngn` — 对某人友好\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vän]]\n- 同义词: [[snäll]], [[trevlig]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形 adjektiv：vänlig / vänligt / vänliga",
+      "excerpt": "vänlig — adjektiv 📖 中文：友好的 · English: friendly 发音提示：/ˈvɛnlɪɡ/ 语法变形 (Forms) Form Swedish Obestämd en ord vänlig Obestämd ett ord vänligt Bestämd / plural vänliga 词组搭配 (Collocations) en vänlig kvinna — 一位友好的女人 vara vänlig",
+      "links": [
+        "snäll",
+        "topic-karaktarsord",
+        "topic-personer",
+        "trevlig",
+        "vän"
+      ],
+      "searchText": "vänlig vänlig knowledge_base/words/vänlig.md ---\ntype: word\nlemma: \"vänlig\"\nordklass: \"adjektiv\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"友好的\"\nen: \"friendly\"\nsynonyms: [\"snäll\", \"trevlig\"]\nantonyms: []\nfamily: [\"vän\"]\ntopics: [\"topic-personer\", \"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-10\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vänlig — adjektiv\n\n📖 中文：友好的 · English: friendly\n发音提示：/ˈvɛnlɪɡ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd en-ord | vänlig |\n| Obestämd ett-ord | vänligt |\n| Bestämd / plural | vänliga |\n\n## 词组搭配 (Collocations)\n\n- `en vänlig kvinna` — 一位友好的女人\n- `vara vänlig mot ngn` — 对某人友好\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vän]]\n- 同义词: [[snäll]], [[trevlig]]\n- 主题: [[topic-personer]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- 规则变形 adjektiv：vänlig / vänligt / vänliga\n",
+      "lemma": "vänlig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "友好的",
+      "en": "friendly",
+      "created": "2026-06-10",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-personer",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "god",
+        "snäll",
+        "topic-personer",
+        "vän"
       ]
     },
     {
@@ -20214,7 +21937,7 @@ window.KB_DATA = {
         "vänsterhänt",
         "vänstersida"
       ],
-      "searchText": "vänster vänster knowledge_base/words/vänster.md ---\ntype: word\nlemma: \"vänster\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"左；左边\"\nen: \"left\"\nsynonyms: []\nantonyms:\n  - höger\nfamily:\n  - höger\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-du-ser-en-stor-rod-byggnad\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vänster — substantiv / adverb\n\n📖 中文：左；左边 · English: left\n发音提示：VÄN-ster；两音节。\n\n## 语法变形 (Forms)\n\n无变形（用作副词/介词宾语时）。用作形容词时：`vänster` 不变（无词尾变化）。\n\n| Uttryck | Användning |\n|---------|-----------|\n| `till vänster` | 在左边 |\n| `på vänster sida` | 在左侧 |\n| `vänster om` | 在…的左边 |\n| `sväng vänster` | 向左转 |\n\n## 词组搭配 (Collocations)\n\n- `till vänster` — 在左边\n- `på vänster sida` — 在左侧\n- `sväng till vänster` — 向左转\n- `hålla vänster` — 靠左行驶\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vänstersida]] (左侧), [[vänsterhänt]] (左撇子)\n- 同义词: —\n- 反义词: [[höger]]\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `till vänster` = 在左边（位置）；`sväng vänster` = 向左转（动作，可不加 \"till\"）。\n- 政治语境：*vänstern* = 左派。\n",
+      "searchText": "vänster vänster knowledge_base/words/vänster.md ---\ntype: word\nlemma: \"vänster\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"左；左边\"\nen: \"left\"\nsynonyms: []\nantonyms:\n  - höger\nfamily:\n  - höger\ntopics:\n  - topic-riktningar\nsentences:\n  - sent-du-ser-en-stor-rod-byggnad\n  - sent-i-hornet-till-vanster-om-dorren-star-kladskap\n  - sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vänster — substantiv / adverb\n\n📖 中文：左；左边 · English: left\n发音提示：VÄN-ster；两音节。\n\n## 语法变形 (Forms)\n\n无变形（用作副词/介词宾语时）。用作形容词时：`vänster` 不变（无词尾变化）。\n\n| Uttryck | Användning |\n|---------|-----------|\n| `till vänster` | 在左边 |\n| `på vänster sida` | 在左侧 |\n| `vänster om` | 在…的左边 |\n| `sväng vänster` | 向左转 |\n\n## 词组搭配 (Collocations)\n\n- `till vänster` — 在左边\n- `på vänster sida` — 在左侧\n- `sväng till vänster` — 向左转\n- `hålla vänster` — 靠左行驶\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vänstersida]] (左侧), [[vänsterhänt]] (左撇子)\n- 同义词: —\n- 反义词: [[höger]]\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- `till vänster` = 在左边（位置）；`sväng vänster` = 向左转（动作，可不加 \"till\"）。\n- 政治语境：*vänstern* = 左派。\n",
       "lemma": "vänster",
       "ordklass": "substantiv",
       "cefr": "A1",
@@ -20223,7 +21946,9 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "sentences": [
-        "sent-du-ser-en-stor-rod-byggnad"
+        "sent-du-ser-en-stor-rod-byggnad",
+        "sent-i-hornet-till-vanster-om-dorren-star-kladskap",
+        "sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank"
       ],
       "topics": [
         "topic-riktningar"
@@ -20254,7 +21979,7 @@ window.KB_DATA = {
         "väntan",
         "väntrum"
       ],
-      "searchText": "vänta vänta knowledge_base/words/vänta.md ---\ntype: word\nlemma: \"vänta\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"等待\"\nen: \"to wait\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-vi-vantar-pa-dig\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vänta — verb (grupp 1)\n\n📖 中文：等待 · English: to wait\n发音提示：VÄN-ta；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att vänta |\n| Imperativ | vänta! |\n| Presens | väntar |\n| Preteritum | väntade |\n| Supinum | (har) väntat |\n\n## 词组搭配 (Collocations)\n\n- `vänta på ngn/ngt` — 等待某人/某事\n- `vi väntar på dig` — 我们在等你\n- `vänta lite` — 等一下\n- `vänta in` — 等候（直到某人到来）\n\n## 例句 (Sentences)\n\n- [[sent-vi-vantar-pa-dig]] 🇸🇪 Vi väntar på dig! 🇨🇳 我们在等你！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[väntan]] (en, 等待/期待), [[väntrum]] (候诊室/等候室)\n- 同义词: [[avvakta]] (等待观望，较正式)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `vänta på` 后接人或事：*Vi väntar på bussen.* — 我们在等公交车。\n- 命令形 `vänta!` = 等一下！（非常常用）\n",
+      "searchText": "vänta vänta knowledge_base/words/vänta.md ---\ntype: word\nlemma: \"vänta\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"等待\"\nen: \"to wait\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-trafik, topic-stadsmiljo]\nsentences:\n  - sent-vi-vantar-pa-dig\n  - sent-nagra-manniskor-vantar-cyklister-stannar-trafikljuset\n  - sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vänta — verb (grupp 1)\n\n📖 中文：等待 · English: to wait\n发音提示：VÄN-ta；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att vänta |\n| Imperativ | vänta! |\n| Presens | väntar |\n| Preteritum | väntade |\n| Supinum | (har) väntat |\n\n## 词组搭配 (Collocations)\n\n- `vänta på ngn/ngt` — 等待某人/某事\n- `vi väntar på dig` — 我们在等你\n- `vänta lite` — 等一下\n- `vänta in` — 等候（直到某人到来）\n\n## 例句 (Sentences)\n\n- [[sent-vi-vantar-pa-dig]] 🇸🇪 Vi väntar på dig! 🇨🇳 我们在等你！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[väntan]] (en, 等待/期待), [[väntrum]] (候诊室/等候室)\n- 同义词: [[avvakta]] (等待观望，较正式)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `vänta på` 后接人或事：*Vi väntar på bussen.* — 我们在等公交车。\n- 命令形 `vänta!` = 等一下！（非常常用）\n",
       "lemma": "vänta",
       "ordklass": "verb",
       "cefr": "A1",
@@ -20263,9 +21988,14 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "sentences": [
-        "sent-vi-vantar-pa-dig"
+        "sent-vi-vantar-pa-dig",
+        "sent-nagra-manniskor-vantar-cyklister-stannar-trafikljuset",
+        "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort"
       ],
-      "topics": [],
+      "topics": [
+        "topic-trafik",
+        "topic-stadsmiljo"
+      ],
       "backlinks": [
         "oväntad",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
@@ -20369,15 +22099,16 @@ window.KB_DATA = {
       "type": "word",
       "title": "vatten",
       "path": "knowledge_base/words/vatten.md",
-      "body": "# vatten — substantiv (ett)\n\n📖 中文：水；水边 · English: water\n发音提示：VAT-ten；双写 tt，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett vatten |\n| Singular bestämd | vattnet |\n| Plural obestämd | vatten（不变）|\n| Plural bestämd | vattnen |\n\n复数形式与单数相同（vatten → vatten），属于 ett-词零复数规则。\n\n## 词组搭配 (Collocations)\n\n- `längs vattnet` — 沿着水边\n- `ett glas vatten` — 一杯水\n- `dricksvatten` — 饮用水\n- `havsvatten` — 海水\n- `vattenfall` — 瀑布\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vattenfall]] (瀑布), [[dricksvatten]] (饮用水), [[vattenkran]] (水龙头)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 在地理/方向语境中 `vattnet`（定形）= 水边/湖边/海边。\n- 零复数：*ett glas vatten* / *flera glas vatten*（不加 -n/-r）。",
+      "body": "# vatten — substantiv (ett)\n\n📖 中文：水；水边 · English: water\n发音提示：VAT-ten；双写 tt，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett vatten |\n| Singular bestämd | vattnet |\n| Plural obestämd | vatten（不变）|\n| Plural bestämd | vattnen |\n\n复数形式与单数相同（vatten → vatten），属于 ett-词零复数规则。\n\n## 词组搭配 (Collocations)\n\n- `längs vattnet` — 沿着水边\n- `ett glas vatten` — 一杯水\n- `dricksvatten` — 饮用水\n- `havsvatten` — 海水\n- `vattenfall` — 瀑布\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vattenfall]] (瀑布), [[dricksvatten]] (饮用水), [[vattenkran]] (水龙头)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 在地理/方向语境中 `vattnet`（定形）= 水边/湖边/海边。\n- 零复数：*ett glas vatten* / *flera glas vatten*（不加 -n/-r）。",
       "excerpt": "vatten — substantiv (ett) 📖 中文：水；水边 · English: water 发音提示：VAT ten；双写 tt，重音在首音节。 语法变形 (Forms) Form Swedish Singular obestämd ett vatten Singular bestämd vattnet Plural obestämd vatten（不变） Plural bestämd vattnen 复数形式与单数相同",
       "links": [
         "dricksvatten",
         "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "topic-hemmet",
         "vattenfall",
         "vattenkran"
       ],
-      "searchText": "vatten vatten knowledge_base/words/vatten.md ---\ntype: word\nlemma: \"vatten\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A1\"\nzh: \"水；水边\"\nen: \"water\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vatten — substantiv (ett)\n\n📖 中文：水；水边 · English: water\n发音提示：VAT-ten；双写 tt，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett vatten |\n| Singular bestämd | vattnet |\n| Plural obestämd | vatten（不变）|\n| Plural bestämd | vattnen |\n\n复数形式与单数相同（vatten → vatten），属于 ett-词零复数规则。\n\n## 词组搭配 (Collocations)\n\n- `längs vattnet` — 沿着水边\n- `ett glas vatten` — 一杯水\n- `dricksvatten` — 饮用水\n- `havsvatten` — 海水\n- `vattenfall` — 瀑布\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vattenfall]] (瀑布), [[dricksvatten]] (饮用水), [[vattenkran]] (水龙头)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 在地理/方向语境中 `vattnet`（定形）= 水边/湖边/海边。\n- 零复数：*ett glas vatten* / *flera glas vatten*（不加 -n/-r）。\n",
+      "searchText": "vatten vatten knowledge_base/words/vatten.md ---\ntype: word\nlemma: \"vatten\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A1\"\nzh: \"水；水边\"\nen: \"water\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-hemmet]\nsentences:\n  - sent-sen-gar-du-rakt-fram-langs-vattnet\n  - sent-pa-skrivbordet-finns-en-dator-glas-vatten\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vatten — substantiv (ett)\n\n📖 中文：水；水边 · English: water\n发音提示：VAT-ten；双写 tt，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett vatten |\n| Singular bestämd | vattnet |\n| Plural obestämd | vatten（不变）|\n| Plural bestämd | vattnen |\n\n复数形式与单数相同（vatten → vatten），属于 ett-词零复数规则。\n\n## 词组搭配 (Collocations)\n\n- `längs vattnet` — 沿着水边\n- `ett glas vatten` — 一杯水\n- `dricksvatten` — 饮用水\n- `havsvatten` — 海水\n- `vattenfall` — 瀑布\n\n## 例句 (Sentences)\n\n- [[sent-sen-gar-du-rakt-fram-langs-vattnet]] 🇸🇪 Sen går du rakt fram längs vattnet i ungefär fem minuter. 🇨🇳 然后沿着水边直走大约五分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vattenfall]] (瀑布), [[dricksvatten]] (饮用水), [[vattenkran]] (水龙头)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 在地理/方向语境中 `vattnet`（定形）= 水边/湖边/海边。\n- 零复数：*ett glas vatten* / *flera glas vatten*（不加 -n/-r）。\n",
       "lemma": "vatten",
       "ordklass": "substantiv",
       "cefr": "A1",
@@ -20386,9 +22117,12 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "sentences": [
-        "sent-sen-gar-du-rakt-fram-langs-vattnet"
+        "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "sent-pa-skrivbordet-finns-en-dator-glas-vatten"
       ],
-      "topics": [],
+      "topics": [
+        "topic-hemmet"
+      ],
       "backlinks": [
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
         "sent-sen-gar-du-rakt-fram-langs-vattnet",

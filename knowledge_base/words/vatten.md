@@ -10,9 +10,10 @@ en: "water"
 synonyms: []
 antonyms: []
 family: []
-topics: []
+topics: [topic-hemmet]
 sentences:
   - sent-sen-gar-du-rakt-fram-langs-vattnet
+  - sent-pa-skrivbordet-finns-en-dator-glas-vatten
 known: false
 created: "2026-06-03"
 reviewed: ""
@@ -54,7 +55,7 @@ interval: 0
 - 词族: [[vattenfall]] (瀑布), [[dricksvatten]] (饮用水), [[vattenkran]] (水龙头)
 - 同义词: —
 - 反义词: —
-- 主题: —
+- 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)
 

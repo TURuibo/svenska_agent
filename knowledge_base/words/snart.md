@@ -10,7 +10,8 @@ en: "soon"
 synonyms: []
 antonyms: []
 family: []
-topics: []
+topics:
+  - topic-tid-och-tidsuttryck
 sentences:
   - sent-vi-ses-snart
 known: false

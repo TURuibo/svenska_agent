@@ -16,6 +16,8 @@ topics:
   - topic-riktningar
 sentences:
   - sent-du-ser-en-stor-rod-byggnad
+  - sent-i-hornet-till-vanster-om-dorren-star-kladskap
+  - sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank
 known: false
 created: "2026-06-03"
 reviewed: ""

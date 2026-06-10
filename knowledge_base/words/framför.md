@@ -10,8 +10,13 @@ en: in front of; before; ahead of
 synonyms: []
 antonyms: []
 family: [fram, framåt, framtid, framgång, framme]
-topics: []
-sentences: []
+topics: [topic-rumsliga-relationer, topic-hemmet, topic-stadsmiljo]
+sentences:
+  - sent-stolen-star-framfor-skrivbordet
+  - sent-soffan-star-mitt-i-rummet-framfor-soffbord
+  - sent-framfor-fonster-vid-vaggen-stor-krukvaxt
+  - sent-pa-golvet-framfor-soffan-rund-matta
+  - sent-framfor-butiken-stannar-buss-vid-busshallplatsen
 known: false
 created: "2026-06-02"
 reviewed: ""
@@ -55,7 +60,7 @@ interval: 0
 - 词族: [[fram]] (adv. 向前), [[framåt]] (adv/prep. 朝前), [[framtid]] (en, 未来), [[framgång]] (en, 成功), [[framme]] (adv. 在前面/到达)
 - 同义词（近义）: [[inför]] (抽象/仪式性"面前"), [[före]] (时间/顺序"之前")
 - 反义词: [[bakom]] (在……后面), [[efter]] (在……之后)
-- 主题: —
+- 主题: [[topic-rumsliga-relationer]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)
 

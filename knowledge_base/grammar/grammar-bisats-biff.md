@@ -9,6 +9,7 @@ related:
 examples:
   - sent-vet-du-var-det-ar
   - sent-vilken-riktning-ska-jag-ga
+  - sent-fick-fotbollsskor-trots-mamma
 known: false
 created: "2026-06-03"
 reviewed: ""
@@ -60,7 +61,8 @@ BIFF 记忆法：**B**isatsen **I**nte **F**öre **F**initverbet = 从句中否�
 ## 例句 (Examples)
 
 - ✅ [[sent-vet-du-var-det-ar]] 🇸🇪 Vet du var det är? 🇨🇳 你知道在哪里吗？
-- ✅ [[sent-vilken-riktning-ska-jag-ga]] 🇸🇪 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？（疑问词从句）
+- ✅ [[sent-vilken-riktning-ska-jag-ga]] 🇸🇈 Vilken riktning ska jag gå? 🇨🇳 我该往哪个方向走？（疑问词从句）
+- ✅ [[sent-fick-fotbollsskor-trots-mamma]] 🇸🇈 trots att hans mamma egentligen **inte** hade råd — `inte` 在 `hade` 前（BIFF）。
 - ❌ *Jag vet var är det.* ← 从句不用疑问语序（不能用 V2 倒装）
 
 ## 常见错误 (Common Mistakes)
