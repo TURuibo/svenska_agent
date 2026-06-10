@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-10 19:05:25",
+  "generatedAt": "2026-06-10 19:36:43",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -99,12 +99,20 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "grammar-bisats-tidskonnektor",
+        "grammar-partikelverb",
         "grammar-presens",
         "grammar-riktnings-adverb",
         "grammar-utan-vs-men",
         "grammar-v2-ordfoljd",
         "ha-rad-att",
+        "hoppas-det-smakar",
         "sent-fick-fotbollsskor-trots-mamma",
+        "sent-fika-det-smakar-ju-faktiskt-för-gott",
+        "sent-fika-hur-är-det-med-jobbet",
+        "sent-fika-oj-vad-gott-det-ser-ut",
+        "sent-fika-ursäkta-vad-sa-du-hörde-inte",
+        "sent-fika-varsågod-hoppas-det-smakar",
+        "sent-fika-vi-har-ett-stort-projekt",
         "sent-jag-ska-berätta-vad-som-hände",
         "sent-vet-du-var-det-ar",
         "sent-vilken-riktning-ska-jag-ga",
@@ -194,6 +202,7 @@ window.KB_DATA = {
       "backlinks": [
         "det-finns",
         "finnas",
+        "finns-det",
         "grammar-ligga-sta-sitta",
         "grammar-prepositioner-rum",
         "sent-bredvid-banken-finns-apotek-gront-kors-skylten",
@@ -237,6 +246,29 @@ window.KB_DATA = {
         "skynda-dig",
         "source-2026-06-03-fraga-vagen-pub",
         "topic-riktningar"
+      ]
+    },
+    {
+      "slug": "grammar-konditionalis",
+      "type": "grammar",
+      "title": "konditionalis",
+      "path": "knowledge_base/grammar/grammar-konditionalis.md",
+      "body": "# 📗 konditionalis — 条件式/礼貌式 (conditional)\n\n级别: A2\n一句话: *Skulle + infinitiv* 表示礼貌请求或假设条件。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nskulle + infinitiv\n(主语 + skulle + 动词原形)\n```\n\n与中文对比: 中文无此形式，用\"想要/希望/如果\"表达类似含义。\n与英文对比: 相当于英语 \"would + verb\"。\n\n## 详细讲解 (Detail)\n\nkonditionalis 在瑞典语中主要有两种用法：\n\n**1. 礼貌请求（polite request）**\n- *Jag skulle vilja ha...* = I would like... (我想要...)\n- *Skulle du kunna...?* = Could you...? (你能...吗？)\n- 比直接用 *vill* 或 *vill ha* 更礼貌。\n\n**2. 假设/条件（hypothetical）**\n- *Om jag hade tid, skulle jag...* = If I had time, I would...\n- 用于 om-satser (如果从句) 中表达假设情况。\n\n**重要变位形式：**\n- skulle vilja = would like (礼貌愿望)\n- skulle kunna = would be able to (礼貌能力请求)\n- skulle behöva = would need (礼貌需求)\n\n## 例句 (Examples)\n\n- ✅ *Jag skulle vilja ha en latte.* = 我想要一杯拿铁。（礼貌点餐）\n- ✅ *Skulle du kunna hjälpa mig?* = 你能帮我吗？（礼貌请求）\n- ✅ *Om det regnade, skulle vi stanna inne.* = 如果下雨，我们就待在里面。（假设）\n- ❌ *Jag vill vilja ha...* ← 冗余，不需要双重情态\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 不要和 *ska* 混淆：*ska* 表示将来或意图，*skulle* 表示条件式或礼貌。\n- ⚠️ *Skulle* 后接动词原形（infinitiv），不接 att。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-presens]]\n- 📎 [[grammar-v2-ordfoljd]]",
+      "excerpt": "📗 konditionalis — 条件式/礼貌式 (conditional) 级别: A2 一句话: Skulle + infinitiv 表示礼貌请求或假设条件。 规则说明 (Rules) 📐 结构公式: skulle + infinitiv (主语 + skulle + 动词原形) 与中文对比: 中文无此形式，用\"想要/希望/如果\"表达类似含义。 与英文对比: 相当于英语 \"would + verb\"。 详细讲解 (Detai",
+      "links": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd"
+      ],
+      "searchText": "konditionalis grammar-konditionalis knowledge_base/grammar/grammar-konditionalis.md ---\ntype: grammar\nname: \"konditionalis\"\nzh: 条件式/礼貌式（skulle + infinitiv）\nen: conditional (skulle + infinitive)\nlevel: A2\nrelated: [grammar-presens, grammar-v2-ordfoljd]\nexamples: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 konditionalis — 条件式/礼貌式 (conditional)\n\n级别: A2\n一句话: *Skulle + infinitiv* 表示礼貌请求或假设条件。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nskulle + infinitiv\n(主语 + skulle + 动词原形)\n```\n\n与中文对比: 中文无此形式，用\"想要/希望/如果\"表达类似含义。\n与英文对比: 相当于英语 \"would + verb\"。\n\n## 详细讲解 (Detail)\n\nkonditionalis 在瑞典语中主要有两种用法：\n\n**1. 礼貌请求（polite request）**\n- *Jag skulle vilja ha...* = I would like... (我想要...)\n- *Skulle du kunna...?* = Could you...? (你能...吗？)\n- 比直接用 *vill* 或 *vill ha* 更礼貌。\n\n**2. 假设/条件（hypothetical）**\n- *Om jag hade tid, skulle jag...* = If I had time, I would...\n- 用于 om-satser (如果从句) 中表达假设情况。\n\n**重要变位形式：**\n- skulle vilja = would like (礼貌愿望)\n- skulle kunna = would be able to (礼貌能力请求)\n- skulle behöva = would need (礼貌需求)\n\n## 例句 (Examples)\n\n- ✅ *Jag skulle vilja ha en latte.* = 我想要一杯拿铁。（礼貌点餐）\n- ✅ *Skulle du kunna hjälpa mig?* = 你能帮我吗？（礼貌请求）\n- ✅ *Om det regnade, skulle vi stanna inne.* = 如果下雨，我们就待在里面。（假设）\n- ❌ *Jag vill vilja ha...* ← 冗余，不需要双重情态\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 不要和 *ska* 混淆：*ska* 表示将来或意图，*skulle* 表示条件式或礼貌。\n- ⚠️ *Skulle* 后接动词原形（infinitiv），不接 att。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-presens]]\n- 📎 [[grammar-v2-ordfoljd]]\n",
+      "name": "konditionalis",
+      "zh": "条件式/礼貌式（skulle + infinitiv）",
+      "en": "conditional (skulle + infinitive)",
+      "created": "2026-06-09",
+      "known": false,
+      "backlinks": [
+        "jag-skulle-vilja-ha",
+        "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+        "vad-får-det-vara"
       ]
     },
     {
@@ -319,6 +351,28 @@ window.KB_DATA = {
         "stå",
         "topic-rumsliga-relationer",
         "topic-stadsmiljo"
+      ]
+    },
+    {
+      "slug": "grammar-partikelverb",
+      "type": "grammar",
+      "title": "partikelverb",
+      "path": "knowledge_base/grammar/grammar-partikelverb.md",
+      "body": "# 📗 partikelverb — 分离动词 (particle verb)\n\n级别: A2-B1\n一句话: 动词+小品词（副词）组合，整体意义与单独动词不同，强调时小品词可分离至句末。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[动词] + [小品词（副词）]\ni huvudsats: 动词留在V2位，小品词移到句末\ni bisats: 整体保持在一起（不分离）\n```\n\n与中文对比: 类似中文\"走开\"\"拿走\"\"放下\"等动补结构，意义合并。\n与英文对比: 相当于英语 phrasal verbs (look up, give in, turn off)。\n\n## 详细讲解 (Detail)\n\nPartikelverb 由动词 + 副词小品词组成，整体语义不同于各部分单独意思。\n\n**常见小品词：** av, bort, fram, in, kvar, med, ned, om, upp, ut, över\n\n**关键规则：**\n1. **主句（huvudsats）中：** 小品词移到句末\n   - *Han lämnar in ansökan* (他提交申请) — *in* 在末尾\n2. **从句（bisats）中：** 小品词紧跟动词\n   - *...att han lämnar in ansökan*\n\n**强调/重音：**  \n小品词通常带重音，区分于前缀动词。\n- *kalla på* (呼叫) vs. *påkalla* (引起关注) — 重音位置不同\n\n**本课中的例子：**\n- *hålla kontakten* — 保持联系\n- *lösa sig* — 自行解决\n- *ta hand om* — 照顾\n\n## 例句 (Examples)\n\n- ✅ *Jag lämnar in rapporten imorgon.* = 我明天提交报告。\n- ✅ *Han stängde av datorn.* = 他关掉了电脑。\n- ✅ *De höll kontakten under åren.* = 他们这些年保持了联系。\n- ❌ *Han stängde av-datorn.* ← 小品词不带连字符\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 在主句中忘记将小品词移到末尾。\n- ⚠️ 在从句中错误地将小品词分离动词。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-v2-ordfoljd]]\n- 📎 [[grammar-bisats-biff]]",
+      "excerpt": "📗 partikelverb — 分离动词 (particle verb) 级别: A2 B1 一句话: 动词+小品词（副词）组合，整体意义与单独动词不同，强调时小品词可分离至句末。 规则说明 (Rules) 📐 结构公式: [动词] + [小品词（副词）] i huvudsats: 动词留在V2位，小品词移到句末 i bisats: 整体保持在一起（不分离） 与中文对比: 类似中文\"走开\"\"拿走\"\"放下\"等动补结构，意义合并。 与",
+      "links": [
+        "grammar-bisats-biff",
+        "grammar-v2-ordfoljd"
+      ],
+      "searchText": "partikelverb grammar-partikelverb knowledge_base/grammar/grammar-partikelverb.md ---\ntype: grammar\nname: \"partikelverb\"\nzh: 分离动词（动词+副词小品词）\nen: particle verb (verb + adverb particle)\nlevel: A2-B1\nrelated: [grammar-v2-ordfoljd, grammar-bisats-biff]\nexamples: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 partikelverb — 分离动词 (particle verb)\n\n级别: A2-B1\n一句话: 动词+小品词（副词）组合，整体意义与单独动词不同，强调时小品词可分离至句末。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[动词] + [小品词（副词）]\ni huvudsats: 动词留在V2位，小品词移到句末\ni bisats: 整体保持在一起（不分离）\n```\n\n与中文对比: 类似中文\"走开\"\"拿走\"\"放下\"等动补结构，意义合并。\n与英文对比: 相当于英语 phrasal verbs (look up, give in, turn off)。\n\n## 详细讲解 (Detail)\n\nPartikelverb 由动词 + 副词小品词组成，整体语义不同于各部分单独意思。\n\n**常见小品词：** av, bort, fram, in, kvar, med, ned, om, upp, ut, över\n\n**关键规则：**\n1. **主句（huvudsats）中：** 小品词移到句末\n   - *Han lämnar in ansökan* (他提交申请) — *in* 在末尾\n2. **从句（bisats）中：** 小品词紧跟动词\n   - *...att han lämnar in ansökan*\n\n**强调/重音：**  \n小品词通常带重音，区分于前缀动词。\n- *kalla på* (呼叫) vs. *påkalla* (引起关注) — 重音位置不同\n\n**本课中的例子：**\n- *hålla kontakten* — 保持联系\n- *lösa sig* — 自行解决\n- *ta hand om* — 照顾\n\n## 例句 (Examples)\n\n- ✅ *Jag lämnar in rapporten imorgon.* = 我明天提交报告。\n- ✅ *Han stängde av datorn.* = 他关掉了电脑。\n- ✅ *De höll kontakten under åren.* = 他们这些年保持了联系。\n- ❌ *Han stängde av-datorn.* ← 小品词不带连字符\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 在主句中忘记将小品词移到末尾。\n- ⚠️ 在从句中错误地将小品词分离动词。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-v2-ordfoljd]]\n- 📎 [[grammar-bisats-biff]]\n",
+      "name": "partikelverb",
+      "zh": "分离动词（动词+副词小品词）",
+      "en": "particle verb (verb + adverb particle)",
+      "created": "2026-06-09",
+      "known": false,
+      "backlinks": [
+        "hålla-kontakten",
+        "sent-fika-vi-får-ses-oftare"
       ]
     },
     {
@@ -416,6 +470,7 @@ window.KB_DATA = {
         "topic-rumsliga-relationer",
         "topic-stadsmiljo",
         "vid-busshållplatsen",
+        "vid-fönstret",
         "vid-korsningen",
         "vid-väggen"
       ]
@@ -472,9 +527,50 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "cykla",
+        "det-blir-x-kronor",
+        "det-löser-sig",
+        "finns-det",
+        "grammar-konditionalis",
         "grammar-presens-preteritum-ram",
+        "har-ni",
+        "hur-är-det-med-jobbet",
+        "hur-har-du-haft-det",
+        "kan-jag-få",
         "promenera",
         "sent-ar-en-vanlig-dag-pa-storgatan-full-av-liv",
+        "sent-fika-allt-finns-med-eller-utan-mjölk",
+        "sent-fika-är-det-bordet-i-hörnet-ledigt",
+        "sent-fika-då-är-det-ljust",
+        "sent-fika-då-tar-jag-en-kardemummabulle",
+        "sent-fika-det-är-så-soligt-idag",
+        "sent-fika-det-blir-åttio-kronor",
+        "sent-fika-det-smakar-ju-faktiskt-för-gott",
+        "sent-fika-en-till-kanelbulle-skadar-väl-inte",
+        "sent-fika-hej-valkomna-vad-far-det-vara",
+        "sent-fika-hur-är-det-med-jobbet",
+        "sent-fika-ja-det-har-vi-jättepopulärt",
+        "sent-fika-ja-det-verkar-det",
+        "sent-fika-ja-verkligen-förresten-bulle",
+        "sent-fika-ja-vi-tar-kort-och-swish",
+        "sent-fika-jag-betalar-med-swish",
+        "sent-fika-jo-det-har-gatt-bra",
+        "sent-fika-men-det-löser-sig",
+        "sent-fika-men-nu-tar-vi-en-fika",
+        "sent-fika-men-vi-har-farsk-kanelbulle",
+        "sent-fika-också-hektiskt-men-roligt",
+        "sent-fika-oj-vad-gott-det-ser-ut",
+        "sent-fika-ska-vi-ga-in-mysigt",
+        "sent-fika-tack-så-mycket-vill-ni-ha-kvitto",
+        "sent-fika-tar-ni-kort",
+        "sent-fika-tyvärr-semlan-är-bara",
+        "sent-fika-ursäkta-har-ni-kardemummate",
+        "sent-fika-vad-bra-det-låter-lovande",
+        "sent-fika-vad-har-ni-för-kaffe",
+        "sent-fika-vi-får-ses-oftare",
+        "sent-fika-vi-har-espresso-latte",
+        "sent-fika-vi-har-ett-stort-projekt",
+        "sent-fika-vill-du-sitta-utomhus-eller-inne",
+        "sent-fika-vill-ni-ha-något-annat",
         "sent-jag-promenerar-langs-storgatan-solig-tisdag",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
@@ -483,7 +579,9 @@ window.KB_DATA = {
         "sent-utanfor-kafeet-star-tre-bankar-sitter-par-manniskor",
         "sent-vid-korsningen-blinkar-trafikljuset-rott-bilar-cyklister",
         "source-2026-06-09-beskriva-en-gata",
-        "topic-stadsmiljo"
+        "tar-ni-kort",
+        "topic-stadsmiljo",
+        "vi-får-ses-oftare"
       ]
     },
     {
@@ -542,6 +640,7 @@ window.KB_DATA = {
       "backlinks": [
         "anmäla-förlusten",
         "det-gick-bra-for-honom",
+        "det-var-länge-sedan",
         "ga-klart-i",
         "gå-tillbaka",
         "grammar-presens",
@@ -560,6 +659,14 @@ window.KB_DATA = {
         "sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok",
         "sent-ett-par-i-sodertälje-skulle-ut",
         "sent-fick-fotbollsskor-trots-mamma",
+        "sent-fika-det-var-jättekul",
+        "sent-fika-förresten-vad-gjorde-du-i-helgen",
+        "sent-fika-hur-är-det-med-jobbet",
+        "sent-fika-jag-cyklade-ut-till-landet",
+        "sent-fika-jag-var-hemma-mest",
+        "sent-fika-johan-det-var-länge-sedan",
+        "sent-fika-men-vi-har-farsk-kanelbulle",
+        "sent-fika-ursäkta-vad-sa-du-hörde-inte",
         "sent-gick-aldrig-klart-gymnasiet-satsade",
         "sent-han-foddes-1981-rosengard",
         "sent-igar-var-en-ovantad-dag",
@@ -584,7 +691,9 @@ window.KB_DATA = {
         "stiga-upp",
         "ta-tunnelbanan",
         "tappa-bort",
-        "topic-vardagsrutin"
+        "topic-vardagsrutin",
+        "ursäkta-vad-sa-du",
+        "vad-gjorde-du-i-helgen"
       ]
     },
     {
@@ -794,7 +903,9 @@ window.KB_DATA = {
         "grammar-bisats-eftersom",
         "grammar-bisats-tidskonnektor",
         "grammar-det-finns",
+        "grammar-konditionalis",
         "grammar-konditionell-topikalisering",
+        "grammar-partikelverb",
         "grammar-passiv-med-s",
         "grammar-presens",
         "grammar-presens-preteritum-ram",
@@ -811,6 +922,14 @@ window.KB_DATA = {
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
         "sent-eftersom-astrid-var-ensam-kunde-hon",
         "sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok",
+        "sent-fika-då-är-det-ljust",
+        "sent-fika-då-tar-jag-en-kardemummabulle",
+        "sent-fika-en-till-kanelbulle-skadar-väl-inte",
+        "sent-fika-förresten-vad-gjorde-du-i-helgen",
+        "sent-fika-jag-var-hemma-mest",
+        "sent-fika-men-nu-tar-vi-en-fika",
+        "sent-fika-perfekt-det-tar-jag",
+        "sent-fika-tyvärr-semlan-är-bara",
         "sent-framfor-butiken-stannar-buss-vid-busshallplatsen",
         "sent-framfor-fonster-vid-vaggen-stor-krukvaxt",
         "sent-i-bokhyllan-star-manga-bocker-foto-sitter",
@@ -1181,6 +1300,60 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "det-är-bra-så",
+      "type": "phrase",
+      "title": "det är bra så",
+      "path": "knowledge_base/phrases/det-är-bra-så.md",
+      "body": "# det är bra så\n\n🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 5/5\n🇨🇳 好的，这样就好 · 🇬🇧 that's fine; no need\n\n## 用法说明 (Usage)\n\n- 极常用的礼貌表达，用于表示满意现状，或礼貌拒绝额外服务（如收据）。\n- 常见场合：*Vill ni ha kvitto? — Nej tack, det är bra så.*\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[det-räcker-bra-så]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Nej tack, det är bra så. Tack! 🇨🇳 不用了，谢谢，这样就好。谢谢！",
+      "excerpt": "det är bra så 🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 5/5 🇨🇳 好的，这样就好 · 🇬🇧 that's fine; no need 用法说明 (Usage) 极常用的礼貌表达，用于表示满意现状，或礼貌拒绝额外服务（如收据）。 常见场合： Vill ni ha kvitto? — Nej tack, det är bra så. 变体 & 相关 (Variat",
+      "links": [
+        "det-räcker-bra-så"
+      ],
+      "searchText": "det är bra så det-är-bra-så knowledge_base/phrases/det-är-bra-så.md ---\ntype: phrase\nphrase: \"det är bra så\"\ncategory: situationsfras\nregister: vardagligt\nfrequency: 5\nzh: 好的，这样就好\nen: that's fine; no need (e.g. when declining a receipt)\nliteral: it's good like this\nhead_words: []\ngrammar: []\nrelated: [det-räcker-bra-så]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# det är bra så\n\n🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 5/5\n🇨🇳 好的，这样就好 · 🇬🇧 that's fine; no need\n\n## 用法说明 (Usage)\n\n- 极常用的礼貌表达，用于表示满意现状，或礼貌拒绝额外服务（如收据）。\n- 常见场合：*Vill ni ha kvitto? — Nej tack, det är bra så.*\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[det-räcker-bra-så]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Nej tack, det är bra så. Tack! 🇨🇳 不用了，谢谢，这样就好。谢谢！\n",
+      "zh": "好的，这样就好",
+      "en": "that's fine; no need (e.g. when declining a receipt)",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "det är bra så",
+      "sentences": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "det-räcker-bra-så",
+        "sent-fika-nej-tack-det-är-bra-så"
+      ]
+    },
+    {
+      "slug": "det-blir-x-kronor",
+      "type": "phrase",
+      "title": "det blir X kronor",
+      "path": "knowledge_base/phrases/det-blir-x-kronor.md",
+      "body": "# det blir X kronor\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 一共X克朗 · 🇬🇧 that will be X kronor\n📝 字面: it becomes X kronor\n\n## 用法说明 (Usage)\n\n- 收银员报价的标准句型，*X* 替换为具体金额。\n- 也用 *Det kostar X kronor* (这是X克朗)，但 *det blir* 更口语化，表示结账时的总价。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (blir = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Det kostar...* (这是...钱，更一般)\n- 🔗 [[tar-ni-kort]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Det blir åttio kronor och tjugo öre totalt. 🇨🇳 一共八十克朗零二十厄雷。",
+      "excerpt": "det blir X kronor 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 一共X克朗 · 🇬🇧 that will be X kronor 📝 字面: it becomes X kronor 用法说明 (Usage) 收银员报价的标准句型， X 替换为具体金额。 也用 Det kostar X kronor (这是X克朗)，但 det blir 更口语化，表示结",
+      "links": [
+        "grammar-presens",
+        "tar-ni-kort"
+      ],
+      "searchText": "det blir X kronor det-blir-x-kronor knowledge_base/phrases/det-blir-x-kronor.md ---\ntype: phrase\nphrase: \"det blir X kronor\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 5\nzh: 一共X克朗\nen: that will be X kronor\nliteral: it becomes X kronor\nhead_words: [krona]\ngrammar: [grammar-presens]\nrelated: [tar-ni-kort]\ntopics: [topic-betalning]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# det blir X kronor\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 一共X克朗 · 🇬🇧 that will be X kronor\n📝 字面: it becomes X kronor\n\n## 用法说明 (Usage)\n\n- 收银员报价的标准句型，*X* 替换为具体金额。\n- 也用 *Det kostar X kronor* (这是X克朗)，但 *det blir* 更口语化，表示结账时的总价。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (blir = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Det kostar...* (这是...钱，更一般)\n- 🔗 [[tar-ni-kort]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Det blir åttio kronor och tjugo öre totalt. 🇨🇳 一共八十克朗零二十厄雷。\n",
+      "zh": "一共X克朗",
+      "en": "that will be X kronor",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "det blir X kronor",
+      "sentences": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "sent-fika-det-blir-åttio-kronor",
+        "tar-ni-kort",
+        "topic-betalning"
+      ]
+    },
+    {
       "slug": "det-borjar-bli-dags-for",
       "type": "phrase",
       "title": "det börjar bli dags för",
@@ -1273,6 +1446,82 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "source-2026-06-09-zlatan-bio"
+      ]
+    },
+    {
+      "slug": "det-löser-sig",
+      "type": "phrase",
+      "title": "det löser sig",
+      "path": "knowledge_base/phrases/det-löser-sig.md",
+      "body": "# det löser sig\n\n🗣️ 类型: idiom · 语域: vardagligt · 常用度: 4/5\n🇨🇳 会解决的；没问题的 · 🇬🇧 it'll work out; it'll sort itself out\n📝 字面: it resolves itself\n\n## 用法说明 (Usage)\n\n- 表达乐观态度的常用习语，相当于\"没关系，会好的\"。\n- 用于安慰自己或他人，面对困难或压力时。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (löser = 现在时，reflexivt sig)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Det ordnar sig* (会好的，类似表达)\n- 🔄 *Det kommer att lösa sig* (它会解决的，强调将来)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Men det löser sig. 🇨🇳 不过会解决的。",
+      "excerpt": "det löser sig 🗣️ 类型: idiom · 语域: vardagligt · 常用度: 4/5 🇨🇳 会解决的；没问题的 · 🇬🇧 it'll work out; it'll sort itself out 📝 字面: it resolves itself 用法说明 (Usage) 表达乐观态度的常用习语，相当于\"没关系，会好的\"。 用于安慰自己或他人，面对困难或压力时。 短语中的语法 (Grammar ins",
+      "links": [
+        "grammar-presens"
+      ],
+      "searchText": "det löser sig det-löser-sig knowledge_base/phrases/det-löser-sig.md ---\ntype: phrase\nphrase: \"det löser sig\"\ncategory: idiom\nregister: vardagligt\nfrequency: 4\nzh: 会解决的；没问题的\nen: it'll work out; it'll sort itself out\nliteral: it resolves itself\nhead_words: [lösa]\ngrammar: [grammar-presens]\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# det löser sig\n\n🗣️ 类型: idiom · 语域: vardagligt · 常用度: 4/5\n🇨🇳 会解决的；没问题的 · 🇬🇧 it'll work out; it'll sort itself out\n📝 字面: it resolves itself\n\n## 用法说明 (Usage)\n\n- 表达乐观态度的常用习语，相当于\"没关系，会好的\"。\n- 用于安慰自己或他人，面对困难或压力时。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (löser = 现在时，reflexivt sig)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Det ordnar sig* (会好的，类似表达)\n- 🔄 *Det kommer att lösa sig* (它会解决的，强调将来)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Men det löser sig. 🇨🇳 不过会解决的。\n",
+      "zh": "会解决的；没问题的",
+      "en": "it'll work out; it'll sort itself out",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "det löser sig",
+      "sentences": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-men-det-löser-sig"
+      ]
+    },
+    {
+      "slug": "det-räcker-bra-så",
+      "type": "phrase",
+      "title": "det räcker bra så",
+      "path": "knowledge_base/phrases/det-räcker-bra-så.md",
+      "body": "# det räcker bra så\n\n🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 这就够了；不用了 · 🇬🇧 that's quite enough; that'll do\n\n## 用法说明 (Usage)\n\n- 礼貌地拒绝继续服务或添加更多东西，表示已满足。\n- 常用于餐厅/咖啡馆场景回应服务员。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[det-är-bra-så]] (好了，这样就好)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Nej tack, det räcker bra så. 🇨🇳 不用了谢谢，这就够了。",
+      "excerpt": "det räcker bra så 🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 4/5 🇨🇳 这就够了；不用了 · 🇬🇧 that's quite enough; that'll do 用法说明 (Usage) 礼貌地拒绝继续服务或添加更多东西，表示已满足。 常用于餐厅/咖啡馆场景回应服务员。 变体 & 相关 (Variations & Related) 🔗 det är br",
+      "links": [
+        "det-är-bra-så"
+      ],
+      "searchText": "det räcker bra så det-räcker-bra-så knowledge_base/phrases/det-räcker-bra-så.md ---\ntype: phrase\nphrase: \"det räcker bra så\"\ncategory: situationsfras\nregister: vardagligt\nfrequency: 4\nzh: 这就够了；不用了\nen: that's quite enough; that'll do\nliteral: that's quite enough like this\nhead_words: []\ngrammar: []\nrelated: [det-är-bra-så]\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# det räcker bra så\n\n🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 这就够了；不用了 · 🇬🇧 that's quite enough; that'll do\n\n## 用法说明 (Usage)\n\n- 礼貌地拒绝继续服务或添加更多东西，表示已满足。\n- 常用于餐厅/咖啡馆场景回应服务员。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[det-är-bra-så]] (好了，这样就好)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Nej tack, det räcker bra så. 🇨🇳 不用了谢谢，这就够了。\n",
+      "zh": "这就够了；不用了",
+      "en": "that's quite enough; that'll do",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "det räcker bra så",
+      "sentences": [],
+      "grammar": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "det-är-bra-så",
+        "sent-fika-nej-tack-det-räcker-bra-så"
+      ]
+    },
+    {
+      "slug": "det-var-länge-sedan",
+      "type": "phrase",
+      "title": "det var länge sedan",
+      "path": "knowledge_base/phrases/det-var-länge-sedan.md",
+      "body": "# det var länge sedan\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 好久不见 · 🇬🇧 it's been a long time; long time no see\n📝 字面: that was a long time ago\n\n## 用法说明 (Usage)\n\n- 用于久别重逢时的感叹句，相当于\"好久不见\"。\n- 可独立使用，也常与 *Hur har du haft det?* 连用。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-preteritum]] (var = 过去式)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Det var ett tag sedan!* (好久没见了！)\n- 🔄 *Längesen!* (口语缩写形式)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Johan! Det var länge sedan! Hur har du haft det? 🇨🇳 约翰！好久不见！你最近怎么样？",
+      "excerpt": "det var länge sedan 🗣️ 类型: fast uttryck · 语域: vardagligt · 常用度: 5/5 🇨🇳 好久不见 · 🇬🇧 it's been a long time; long time no see 📝 字面: that was a long time ago 用法说明 (Usage) 用于久别重逢时的感叹句，相当于\"好久不见\"。 可独立使用，也常与 Hur har du haft ",
+      "links": [
+        "grammar-preteritum"
+      ],
+      "searchText": "det var länge sedan det-var-länge-sedan knowledge_base/phrases/det-var-länge-sedan.md ---\ntype: phrase\nphrase: \"det var länge sedan\"\ncategory: fast-uttryck\nregister: vardagligt\nfrequency: 5\nzh: 好久不见（字面：那是很久以前的事了）\nen: it's been a long time; long time no see\nliteral: that was a long time ago\nhead_words: []\ngrammar: [grammar-preteritum]\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# det var länge sedan\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 好久不见 · 🇬🇧 it's been a long time; long time no see\n📝 字面: that was a long time ago\n\n## 用法说明 (Usage)\n\n- 用于久别重逢时的感叹句，相当于\"好久不见\"。\n- 可独立使用，也常与 *Hur har du haft det?* 连用。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-preteritum]] (var = 过去式)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Det var ett tag sedan!* (好久没见了！)\n- 🔄 *Längesen!* (口语缩写形式)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Johan! Det var länge sedan! Hur har du haft det? 🇨🇳 约翰！好久不见！你最近怎么样？\n",
+      "zh": "好久不见（字面：那是很久以前的事了）",
+      "en": "it's been a long time; long time no see",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "det var länge sedan",
+      "sentences": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-johan-det-var-länge-sedan"
       ]
     },
     {
@@ -1409,6 +1658,54 @@ window.KB_DATA = {
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-tid-och-tidsuttryck"
       ]
+    },
+    {
+      "slug": "finns-det",
+      "type": "phrase",
+      "title": "finns det",
+      "path": "knowledge_base/phrases/finns-det.md",
+      "body": "# finns det\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 有……吗？ · 🇬🇧 is there ...?; do you have ...?\n📝 字面: does there exist ...?\n\n## 用法说明 (Usage)\n\n- 疑问句，询问是否有某样东西。\n- *Det finns* 的疑问形式（主谓倒装）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-det-finns]] (存在句型)\n- → [[grammar-presens]] (finns = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Är det...?* (有...吗？另一种疑问形式)\n- 🔗 [[har-ni]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Finns det semla idag? 🇨🇳 今天有 semla 吗？",
+      "excerpt": "finns det 🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 有……吗？ · 🇬🇧 is there ...?; do you have ...? 📝 字面: does there exist ...? 用法说明 (Usage) 疑问句，询问是否有某样东西。 Det finns 的疑问形式（主谓倒装）。 短语中的语法 (Grammar inside) → grammar ",
+      "links": [
+        "grammar-det-finns",
+        "grammar-presens",
+        "har-ni"
+      ],
+      "searchText": "finns det finns-det knowledge_base/phrases/finns-det.md ---\ntype: phrase\nphrase: \"finns det\"\ncategory: vardagsfras\nregister: neutralt\nfrequency: 5\nzh: 有……吗？\nen: is there ...?; do you have ...?\nliteral: does there exist ...?\nhead_words: [finnas]\ngrammar: [grammar-det-finns, grammar-presens]\nrelated: [har-ni]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# finns det\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 有……吗？ · 🇬🇧 is there ...?; do you have ...?\n📝 字面: does there exist ...?\n\n## 用法说明 (Usage)\n\n- 疑问句，询问是否有某样东西。\n- *Det finns* 的疑问形式（主谓倒装）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-det-finns]] (存在句型)\n- → [[grammar-presens]] (finns = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Är det...?* (有...吗？另一种疑问形式)\n- 🔗 [[har-ni]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Finns det semla idag? 🇨🇳 今天有 semla 吗？\n",
+      "zh": "有……吗？",
+      "en": "is there ...?; do you have ...?",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "finns det",
+      "sentences": [],
+      "grammar": [
+        "grammar-det-finns",
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": [
+        "har-ni",
+        "sent-fika-oj-vad-gott-det-ser-ut"
+      ]
+    },
+    {
+      "slug": "för-all-del",
+      "type": "phrase",
+      "title": "för all del",
+      "path": "knowledge_base/phrases/för-all-del.md",
+      "body": "# för all del\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 当然；没问题 · 🇬🇧 by all means; of course\n\n## 用法说明 (Usage)\n\n- 表示同意、应允或当然的固定表达，语气礼貌而坦然。\n- 相当于英语 \"by all means\" 或 \"of course, please go ahead\"。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Ja, självklart* (当然)\n- 🔄 *Naturligtvis* (当然，较正式)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Får jag sätta mig här? — Ja, för all del! 🇨🇳 我可以坐这里吗？——当然可以！",
+      "excerpt": "för all del 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 当然；没问题 · 🇬🇧 by all means; of course 用法说明 (Usage) 表示同意、应允或当然的固定表达，语气礼貌而坦然。 相当于英语 \"by all means\" 或 \"of course, please go ahead\"。 变体 & 相关 (Variations & Relat",
+      "links": [],
+      "searchText": "för all del för-all-del knowledge_base/phrases/för-all-del.md ---\ntype: phrase\nphrase: \"för all del\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 3\nzh: 当然；没问题\nen: by all means; of course\nliteral: for all things\nhead_words: []\ngrammar: []\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# för all del\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 当然；没问题 · 🇬🇧 by all means; of course\n\n## 用法说明 (Usage)\n\n- 表示同意、应允或当然的固定表达，语气礼貌而坦然。\n- 相当于英语 \"by all means\" 或 \"of course, please go ahead\"。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Ja, självklart* (当然)\n- 🔄 *Naturligtvis* (当然，较正式)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Får jag sätta mig här? — Ja, för all del! 🇨🇳 我可以坐这里吗？——当然可以！\n",
+      "zh": "当然；没问题",
+      "en": "by all means; of course",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "för all del",
+      "sentences": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": []
     },
     {
       "slug": "full-av-liv",
@@ -1596,6 +1893,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "hålla-kontakten",
+      "type": "phrase",
+      "title": "hålla kontakten",
+      "path": "knowledge_base/phrases/hålla-kontakten.md",
+      "body": "# hålla kontakten\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 保持联系 · 🇬🇧 to keep in touch\n📝 字面: to hold the contact\n\n## 用法说明 (Usage)\n\n- 表达保持联系的意愿，常用于道别时。\n- 相当于英语 \"keep in touch\"。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-partikelverb]] (hålla + kontakten)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Håll kontakten!* (保持联系！命令式)\n- 🔄 *Vi ses!* (再见！/回头见！)\n- 🔗 [[vi-får-ses-oftare]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Vi får ses oftare och hålla kontakten, Johan. 🇨🇳 我们得更常见面、保持联系，约翰。",
+      "excerpt": "hålla kontakten 🗣️ 类型: fast uttryck · 语域: vardagligt · 常用度: 4/5 🇨🇳 保持联系 · 🇬🇧 to keep in touch 📝 字面: to hold the contact 用法说明 (Usage) 表达保持联系的意愿，常用于道别时。 相当于英语 \"keep in touch\"。 短语中的语法 (Grammar inside) → grammar partik",
+      "links": [
+        "grammar-partikelverb",
+        "vi-får-ses-oftare"
+      ],
+      "searchText": "hålla kontakten hålla-kontakten knowledge_base/phrases/hålla-kontakten.md ---\ntype: phrase\nphrase: \"hålla kontakten\"\ncategory: fast-uttryck\nregister: vardagligt\nfrequency: 4\nzh: 保持联系\nen: to keep in touch\nliteral: to hold the contact\nhead_words: []\ngrammar: [grammar-partikelverb]\nrelated: [vi-får-ses-oftare]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hålla kontakten\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 保持联系 · 🇬🇧 to keep in touch\n📝 字面: to hold the contact\n\n## 用法说明 (Usage)\n\n- 表达保持联系的意愿，常用于道别时。\n- 相当于英语 \"keep in touch\"。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-partikelverb]] (hålla + kontakten)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Håll kontakten!* (保持联系！命令式)\n- 🔄 *Vi ses!* (再见！/回头见！)\n- 🔗 [[vi-får-ses-oftare]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Vi får ses oftare och hålla kontakten, Johan. 🇨🇳 我们得更常见面、保持联系，约翰。\n",
+      "zh": "保持联系",
+      "en": "to keep in touch",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "hålla kontakten",
+      "sentences": [],
+      "grammar": [
+        "grammar-partikelverb"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-vi-får-ses-oftare",
+        "vi-får-ses-oftare"
+      ]
+    },
+    {
       "slug": "hälsa-på",
       "type": "phrase",
       "title": "hälsa på",
@@ -1643,6 +1967,37 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "har-ni",
+      "type": "phrase",
+      "title": "har ni",
+      "path": "knowledge_base/phrases/har-ni.md",
+      "body": "# har ni\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 你们有……吗？ · 🇬🇧 do you have ...? (polite plural)\n📝 字面: do you (plural) have\n\n## 用法说明 (Usage)\n\n- 向商店或餐厅询问是否有某样商品/饮品。\n- *Ni* 是复数\"你们\"，也用作礼貌的单数称谓（较正式）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (har = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Har du...?* (较非正式，单人)\n- 🔗 [[finns-det]], [[kan-jag-få]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Ursäkta, har ni kardemummate? 🇨🇳 不好意思，你们有小豆蔻茶吗？",
+      "excerpt": "har ni 🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 你们有……吗？ · 🇬🇧 do you have ...? (polite plural) 📝 字面: do you (plural) have 用法说明 (Usage) 向商店或餐厅询问是否有某样商品/饮品。 Ni 是复数\"你们\"，也用作礼貌的单数称谓（较正式）。 短语中的语法 (Grammar inside) →",
+      "links": [
+        "finns-det",
+        "grammar-presens",
+        "kan-jag-få"
+      ],
+      "searchText": "har ni har-ni knowledge_base/phrases/har-ni.md ---\ntype: phrase\nphrase: \"har ni\"\ncategory: vardagsfras\nregister: neutralt\nfrequency: 5\nzh: 你们有……吗？\nen: do you have ...? (polite plural)\nliteral: do you (plural/formal) have\nhead_words: []\ngrammar: [grammar-presens]\nrelated: [finns-det, kan-jag-få]\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# har ni\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 你们有……吗？ · 🇬🇧 do you have ...? (polite plural)\n📝 字面: do you (plural) have\n\n## 用法说明 (Usage)\n\n- 向商店或餐厅询问是否有某样商品/饮品。\n- *Ni* 是复数\"你们\"，也用作礼貌的单数称谓（较正式）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (har = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Har du...?* (较非正式，单人)\n- 🔗 [[finns-det]], [[kan-jag-få]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Ursäkta, har ni kardemummate? 🇨🇳 不好意思，你们有小豆蔻茶吗？\n",
+      "zh": "你们有……吗？",
+      "en": "do you have ...? (polite plural)",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "har ni",
+      "sentences": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "finns-det",
+        "sent-fika-ursäkta-har-ni-kardemummate",
+        "sent-fika-vad-har-ni-för-kaffe"
+      ]
+    },
+    {
       "slug": "hitta-på",
       "type": "phrase",
       "title": "hitta på",
@@ -1664,6 +2019,91 @@ window.KB_DATA = {
       "backlinks": [
         "hitta",
         "source-2026-06-02-astrid-lindgren"
+      ]
+    },
+    {
+      "slug": "hoppas-det-smakar",
+      "type": "phrase",
+      "title": "hoppas det smakar",
+      "path": "knowledge_base/phrases/hoppas-det-smakar.md",
+      "body": "# hoppas det smakar\n\n🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 希望你喜欢（字面：希望好吃） · 🇬🇧 hope you enjoy it\n📝 字面: hope it tastes (good)\n\n## 用法说明 (Usage)\n\n- 服务员/主人递交食物后的礼貌祝语。\n- 相当于法语 *Bon appétit*，但更具体地表达希望食物好吃。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-bisats-biff]] (bisats 中 smakar 的语序)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Smaklig måltid!* (祝用餐愉快！更正式)\n- 🔗 [[varsågod]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Varsågod! Hoppas det smakar! 🇨🇳 不客气！希望你们喜欢！",
+      "excerpt": "hoppas det smakar 🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 4/5 🇨🇳 希望你喜欢（字面：希望好吃） · 🇬🇧 hope you enjoy it 📝 字面: hope it tastes (good) 用法说明 (Usage) 服务员/主人递交食物后的礼貌祝语。 相当于法语 Bon appétit ，但更具体地表达希望食物好吃。 短语中的语法 (Gram",
+      "links": [
+        "grammar-bisats-biff",
+        "varsågod"
+      ],
+      "searchText": "hoppas det smakar hoppas-det-smakar knowledge_base/phrases/hoppas-det-smakar.md ---\ntype: phrase\nphrase: \"hoppas det smakar\"\ncategory: situationsfras\nregister: vardagligt\nfrequency: 4\nzh: 希望你喜欢（字面：希望好吃）\nen: hope you enjoy it\nliteral: hope it tastes (good)\nhead_words: [hoppas, smaka]\ngrammar: [grammar-bisats-biff]\nrelated: [varsågod]\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hoppas det smakar\n\n🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 希望你喜欢（字面：希望好吃） · 🇬🇧 hope you enjoy it\n📝 字面: hope it tastes (good)\n\n## 用法说明 (Usage)\n\n- 服务员/主人递交食物后的礼貌祝语。\n- 相当于法语 *Bon appétit*，但更具体地表达希望食物好吃。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-bisats-biff]] (bisats 中 smakar 的语序)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Smaklig måltid!* (祝用餐愉快！更正式)\n- 🔗 [[varsågod]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Varsågod! Hoppas det smakar! 🇨🇳 不客气！希望你们喜欢！\n",
+      "zh": "希望你喜欢（字面：希望好吃）",
+      "en": "hope you enjoy it",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "hoppas det smakar",
+      "sentences": [],
+      "grammar": [
+        "grammar-bisats-biff"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "sent-fika-varsågod-hoppas-det-smakar",
+        "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "hur-är-det-med-jobbet",
+      "type": "phrase",
+      "title": "hur är det med jobbet",
+      "path": "knowledge_base/phrases/hur-är-det-med-jobbet.md",
+      "body": "# hur är det med jobbet\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 工作怎么样？ · 🇬🇧 how is work going?\n📝 字面: how is it with the work?\n\n## 用法说明 (Usage)\n\n- 关心对方工作状况的寒暄句型，常在朋友聊天时使用。\n- 可用 *jobbet* (工作) 或其他名词替换。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (är = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Hur går det på jobbet?* (工作进展怎么样？)\n- 🔗 [[vad-gjorde-du-i-helgen]], [[hur-har-du-haft-det]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Hur är det med jobbet för dig? Du sa det var lite stressigt? 🇨🇳 你的工作怎么样？你说有点紧张？",
+      "excerpt": "hur är det med jobbet 🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 4/5 🇨🇳 工作怎么样？ · 🇬🇧 how is work going? 📝 字面: how is it with the work? 用法说明 (Usage) 关心对方工作状况的寒暄句型，常在朋友聊天时使用。 可用 jobbet (工作) 或其他名词替换。 短语中的语法 (Grammar in",
+      "links": [
+        "grammar-presens",
+        "hur-har-du-haft-det",
+        "vad-gjorde-du-i-helgen"
+      ],
+      "searchText": "hur är det med jobbet hur-är-det-med-jobbet knowledge_base/phrases/hur-är-det-med-jobbet.md ---\ntype: phrase\nphrase: \"hur är det med jobbet\"\ncategory: vardagsfras\nregister: vardagligt\nfrequency: 4\nzh: 工作怎么样？\nen: how is work going?\nliteral: how is it with the work?\nhead_words: [jobb]\ngrammar: [grammar-presens]\nrelated: [vad-gjorde-du-i-helgen, hur-har-du-haft-det]\ntopics: [topic-arbete]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hur är det med jobbet\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 工作怎么样？ · 🇬🇧 how is work going?\n📝 字面: how is it with the work?\n\n## 用法说明 (Usage)\n\n- 关心对方工作状况的寒暄句型，常在朋友聊天时使用。\n- 可用 *jobbet* (工作) 或其他名词替换。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (är = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Hur går det på jobbet?* (工作进展怎么样？)\n- 🔗 [[vad-gjorde-du-i-helgen]], [[hur-har-du-haft-det]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Hur är det med jobbet för dig? Du sa det var lite stressigt? 🇨🇳 你的工作怎么样？你说有点紧张？\n",
+      "zh": "工作怎么样？",
+      "en": "how is work going?",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "hur är det med jobbet",
+      "sentences": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-arbete"
+      ],
+      "backlinks": [
+        "sent-fika-hur-är-det-med-jobbet",
+        "vad-gjorde-du-i-helgen"
+      ]
+    },
+    {
+      "slug": "hur-har-du-haft-det",
+      "type": "phrase",
+      "title": "hur har du haft det",
+      "path": "knowledge_base/phrases/hur-har-du-haft-det.md",
+      "body": "# hur har du haft det\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 5/5\n🇨🇳 你最近怎么样？ · 🇬🇧 how have you been?\n📝 字面: how have you had it?\n\n## 用法说明 (Usage)\n\n- 寒暄句，用于询问对方近况，相当于\"你最近怎么样？\"\n- 常见回答：*Jo, det har gått bra, tack.* (还不错，谢谢)\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (har = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Hur är det med dig?* (你怎么样？)\n- 🔄 *Hur mår du?* (你好吗？— 更关注身体状况)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Hur har du haft det? — Jo, det har gått bra, tack. 🇨🇳 你最近怎么样？——还不错，谢谢。",
+      "excerpt": "hur har du haft det 🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 5/5 🇨🇳 你最近怎么样？ · 🇬🇧 how have you been? 📝 字面: how have you had it? 用法说明 (Usage) 寒暄句，用于询问对方近况，相当于\"你最近怎么样？\" 常见回答： Jo, det har gått bra, tack. (还不错，谢谢) 短语中",
+      "links": [
+        "grammar-presens"
+      ],
+      "searchText": "hur har du haft det hur-har-du-haft-det knowledge_base/phrases/hur-har-du-haft-det.md ---\ntype: phrase\nphrase: \"hur har du haft det\"\ncategory: vardagsfras\nregister: vardagligt\nfrequency: 5\nzh: 你最近怎么样？\nen: how have you been?\nliteral: how have you had it?\nhead_words: []\ngrammar: [grammar-presens]\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hur har du haft det\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 5/5\n🇨🇳 你最近怎么样？ · 🇬🇧 how have you been?\n📝 字面: how have you had it?\n\n## 用法说明 (Usage)\n\n- 寒暄句，用于询问对方近况，相当于\"你最近怎么样？\"\n- 常见回答：*Jo, det har gått bra, tack.* (还不错，谢谢)\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (har = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Hur är det med dig?* (你怎么样？)\n- 🔄 *Hur mår du?* (你好吗？— 更关注身体状况)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Hur har du haft det? — Jo, det har gått bra, tack. 🇨🇳 你最近怎么样？——还不错，谢谢。\n",
+      "zh": "你最近怎么样？",
+      "en": "how have you been?",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "hur har du haft det",
+      "sentences": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": [
+        "hur-är-det-med-jobbet",
+        "sent-fika-johan-det-var-länge-sedan"
       ]
     },
     {
@@ -1833,6 +2273,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "jag-skulle-vilja-ha",
+      "type": "phrase",
+      "title": "jag skulle vilja ha",
+      "path": "knowledge_base/phrases/jag-skulle-vilja-ha.md",
+      "body": "# jag skulle vilja ha\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 我想要…… · 🇬🇧 I would like (to have) ...\n📝 字面: I would want to have\n\n## 用法说明 (Usage)\n\n- 点餐/购物时最礼貌的请求方式，相当于英语 \"I would like...\"。\n- 比 *Jag vill ha* (我要) 更礼貌，适合在餐厅、商店等服务场合使用。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-konditionalis]] (skulle vilja = conditional, 条件式表礼貌)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kan jag få...* (可以给我...吗？同等礼貌)\n- 🔄 *Jag vill ha...* (我要...，较直接)\n- 🔗 [[kan-jag-få]], [[vad-får-det-vara]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Jag skulle vilja ha en kanelbulle och en kopp te, tack. 🇨🇳 我想要一个肉桂卷和一杯茶，谢谢。",
+      "excerpt": "jag skulle vilja ha 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 我想要…… · 🇬🇧 I would like (to have) ... 📝 字面: I would want to have 用法说明 (Usage) 点餐/购物时最礼貌的请求方式，相当于英语 \"I would like...\"。 比 Jag vill ha (我要) 更礼貌，适合",
+      "links": [
+        "grammar-konditionalis",
+        "kan-jag-få",
+        "vad-får-det-vara"
+      ],
+      "searchText": "jag skulle vilja ha jag-skulle-vilja-ha knowledge_base/phrases/jag-skulle-vilja-ha.md ---\ntype: phrase\nphrase: \"jag skulle vilja ha\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 5\nzh: 我想要……\nen: I would like (to have) ...\nliteral: I would want to have\nhead_words: []\ngrammar: [grammar-konditionalis]\nrelated: [kan-jag-få, vad-får-det-vara]\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# jag skulle vilja ha\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 我想要…… · 🇬🇧 I would like (to have) ...\n📝 字面: I would want to have\n\n## 用法说明 (Usage)\n\n- 点餐/购物时最礼貌的请求方式，相当于英语 \"I would like...\"。\n- 比 *Jag vill ha* (我要) 更礼貌，适合在餐厅、商店等服务场合使用。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-konditionalis]] (skulle vilja = conditional, 条件式表礼貌)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kan jag få...* (可以给我...吗？同等礼貌)\n- 🔄 *Jag vill ha...* (我要...，较直接)\n- 🔗 [[kan-jag-få]], [[vad-får-det-vara]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Jag skulle vilja ha en kanelbulle och en kopp te, tack. 🇨🇳 我想要一个肉桂卷和一杯茶，谢谢。\n",
+      "zh": "我想要……",
+      "en": "I would like (to have) ...",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "jag skulle vilja ha",
+      "sentences": [],
+      "grammar": [
+        "grammar-konditionalis"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "kan-jag-få",
+        "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+        "topic-kafe-fika",
+        "vad-får-det-vara"
+      ]
+    },
+    {
       "slug": "jobba-extra",
       "type": "phrase",
       "title": "jobba extra",
@@ -1921,6 +2393,38 @@ window.KB_DATA = {
       "backlinks": [
         "kämpa",
         "source-2026-06-02-astrid-lindgren"
+      ]
+    },
+    {
+      "slug": "kan-jag-få",
+      "type": "phrase",
+      "title": "kan jag få",
+      "path": "knowledge_base/phrases/kan-jag-få.md",
+      "body": "# kan jag få\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 我可以要……吗；请给我…… · 🇬🇧 can I get; may I have\n\n## 用法说明 (Usage)\n\n- 点餐和请求的标准用语，礼貌程度与 *jag skulle vilja ha* 相当。\n- 语气直接但有礼貌，是最常用的点单句型之一。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (kan = 现在时情态动词)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kan vi få...* (我们可以要... — 多人)\n- 🔗 [[jag-skulle-vilja-ha]], [[vad-får-det-vara]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Kan jag få en espresso, tack? 🇨🇳 我可以要一杯浓缩咖啡吗，谢谢？",
+      "excerpt": "kan jag få 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 我可以要……吗；请给我…… · 🇬🇧 can I get; may I have 用法说明 (Usage) 点餐和请求的标准用语，礼貌程度与 jag skulle vilja ha 相当。 语气直接但有礼貌，是最常用的点单句型之一。 短语中的语法 (Grammar inside) → grammar pr",
+      "links": [
+        "grammar-presens",
+        "jag-skulle-vilja-ha",
+        "vad-får-det-vara"
+      ],
+      "searchText": "kan jag få kan-jag-få knowledge_base/phrases/kan-jag-få.md ---\ntype: phrase\nphrase: \"kan jag få\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 5\nzh: 我可以要……吗；请给我……\nen: can I get; may I have\nliteral: can I get\nhead_words: []\ngrammar: [grammar-presens]\nrelated: [jag-skulle-vilja-ha, vad-får-det-vara]\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kan jag få\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 我可以要……吗；请给我…… · 🇬🇧 can I get; may I have\n\n## 用法说明 (Usage)\n\n- 点餐和请求的标准用语，礼貌程度与 *jag skulle vilja ha* 相当。\n- 语气直接但有礼貌，是最常用的点单句型之一。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (kan = 现在时情态动词)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kan vi få...* (我们可以要... — 多人)\n- 🔗 [[jag-skulle-vilja-ha]], [[vad-får-det-vara]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Kan jag få en espresso, tack? 🇨🇳 我可以要一杯浓缩咖啡吗，谢谢？\n",
+      "zh": "我可以要……吗；请给我……",
+      "en": "can I get; may I have",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "kan jag få",
+      "sentences": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "har-ni",
+        "jag-skulle-vilja-ha",
+        "topic-kafe-fika",
+        "vad-får-det-vara"
       ]
     },
     {
@@ -2171,6 +2675,30 @@ window.KB_DATA = {
         "e-tjänst",
         "index",
         "source-2026-06-03-sundbyberg-forskola"
+      ]
+    },
+    {
+      "slug": "med-eller-utan",
+      "type": "phrase",
+      "title": "med eller utan",
+      "path": "knowledge_base/phrases/med-eller-utan.md",
+      "body": "# med eller utan\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 加还是不加（牛奶等） · 🇬🇧 with or without\n\n## 用法说明 (Usage)\n\n- 服务场合询问顾客的偏好，最常见于咖啡是否加奶。\n- *Allt finns med eller utan mjölk* = 所有饮品都有加奶或不加奶两种选择。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vill du ha mjölk?* (你想要奶吗？)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Allt finns med eller utan mjölk. 🇨🇳 所有的都可以加或不加牛奶。",
+      "excerpt": "med eller utan 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 3/5 🇨🇳 加还是不加（牛奶等） · 🇬🇧 with or without 用法说明 (Usage) 服务场合询问顾客的偏好，最常见于咖啡是否加奶。 Allt finns med eller utan mjölk = 所有饮品都有加奶或不加奶两种选择。 变体 & 相关 (Variations & Relate",
+      "links": [],
+      "searchText": "med eller utan med-eller-utan knowledge_base/phrases/med-eller-utan.md ---\ntype: phrase\nphrase: \"med eller utan\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 3\nzh: 加还是不加（牛奶等）\nen: with or without\nliteral: with or without\nhead_words: []\ngrammar: []\nrelated: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# med eller utan\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 加还是不加（牛奶等） · 🇬🇧 with or without\n\n## 用法说明 (Usage)\n\n- 服务场合询问顾客的偏好，最常见于咖啡是否加奶。\n- *Allt finns med eller utan mjölk* = 所有饮品都有加奶或不加奶两种选择。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vill du ha mjölk?* (你想要奶吗？)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Allt finns med eller utan mjölk. 🇨🇳 所有的都可以加或不加牛奶。\n",
+      "zh": "加还是不加（牛奶等）",
+      "en": "with or without",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "med eller utan",
+      "sentences": [],
+      "grammar": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "sent-fika-allt-finns-med-eller-utan-mjölk",
+        "topic-kafe-fika"
       ]
     },
     {
@@ -3075,6 +3603,28 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "tack-så-mycket",
+      "type": "phrase",
+      "title": "tack så mycket",
+      "path": "knowledge_base/phrases/tack-så-mycket.md",
+      "body": "# tack så mycket\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 非常感谢 · 🇬🇧 thank you very much\n\n## 用法说明 (Usage)\n\n- 瑞典语中最常用的感谢表达之一，比简单的 *tack* 更热情。\n- 可以单独使用，也可用于回答服务人员或朋友的帮助。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Tusen tack* (千恩万谢，更强烈)\n- 🔄 *Tack!* (谢谢，简单版本)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Tack så mycket! Vill ni ha kvitto? 🇨🇳 非常感谢！需要收据吗？",
+      "excerpt": "tack så mycket 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 5/5 🇨🇳 非常感谢 · 🇬🇧 thank you very much 用法说明 (Usage) 瑞典语中最常用的感谢表达之一，比简单的 tack 更热情。 可以单独使用，也可用于回答服务人员或朋友的帮助。 变体 & 相关 (Variations & Related) 🔄 Tusen tack (千恩万谢，更强",
+      "links": [],
+      "searchText": "tack så mycket tack-så-mycket knowledge_base/phrases/tack-så-mycket.md ---\ntype: phrase\nphrase: \"tack så mycket\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 5\nzh: 非常感谢\nen: thank you very much\nliteral: thanks so much\nhead_words: []\ngrammar: []\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tack så mycket\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 非常感谢 · 🇬🇧 thank you very much\n\n## 用法说明 (Usage)\n\n- 瑞典语中最常用的感谢表达之一，比简单的 *tack* 更热情。\n- 可以单独使用，也可用于回答服务人员或朋友的帮助。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Tusen tack* (千恩万谢，更强烈)\n- 🔄 *Tack!* (谢谢，简单版本)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Tack så mycket! Vill ni ha kvitto? 🇨🇳 非常感谢！需要收据吗？\n",
+      "zh": "非常感谢",
+      "en": "thank you very much",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "tack så mycket",
+      "sentences": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-tack-så-mycket-vill-ni-ha-kvitto",
+        "varsågod"
+      ]
+    },
+    {
       "slug": "tacka-ja",
       "type": "phrase",
       "title": "tacka ja",
@@ -3161,6 +3711,36 @@ window.KB_DATA = {
         "source-2026-06-09-en-handelse-i-tidsordning",
         "tappa",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "tar-ni-kort",
+      "type": "phrase",
+      "title": "tar ni kort",
+      "path": "knowledge_base/phrases/tar-ni-kort.md",
+      "body": "# tar ni kort\n\n🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 你们刷卡吗？ · 🇬🇧 do you take card?\n\n## 用法说明 (Usage)\n\n- 购物/用餐时询问商家是否接受银行卡支付。\n- 在瑞典，大多数地方接受 kort 和 Swish，部分地方不接受现金。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (tar = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kan jag betala med kort?* (我可以刷卡吗？)\n- 🔗 [[det-blir-x-kronor]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Tar ni kort? — Ja, vi tar både kort och Swish. 🇨🇳 你们刷卡吗？——可以，我们支持刷卡和 Swish。",
+      "excerpt": "tar ni kort 🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 4/5 🇨🇳 你们刷卡吗？ · 🇬🇧 do you take card? 用法说明 (Usage) 购物/用餐时询问商家是否接受银行卡支付。 在瑞典，大多数地方接受 kort 和 Swish，部分地方不接受现金。 短语中的语法 (Grammar inside) → grammar presens (tar = 现",
+      "links": [
+        "det-blir-x-kronor",
+        "grammar-presens"
+      ],
+      "searchText": "tar ni kort tar-ni-kort knowledge_base/phrases/tar-ni-kort.md ---\ntype: phrase\nphrase: \"tar ni kort\"\ncategory: situationsfras\nregister: vardagligt\nfrequency: 4\nzh: 你们刷卡吗？\nen: do you take card?\nliteral: do you take card?\nhead_words: []\ngrammar: [grammar-presens]\nrelated: [det-blir-x-kronor]\ntopics: [topic-betalning]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tar ni kort\n\n🗣️ 类型: situationsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 你们刷卡吗？ · 🇬🇧 do you take card?\n\n## 用法说明 (Usage)\n\n- 购物/用餐时询问商家是否接受银行卡支付。\n- 在瑞典，大多数地方接受 kort 和 Swish，部分地方不接受现金。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (tar = 现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kan jag betala med kort?* (我可以刷卡吗？)\n- 🔗 [[det-blir-x-kronor]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Tar ni kort? — Ja, vi tar både kort och Swish. 🇨🇳 你们刷卡吗？——可以，我们支持刷卡和 Swish。\n",
+      "zh": "你们刷卡吗？",
+      "en": "do you take card?",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "tar ni kort",
+      "sentences": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "det-blir-x-kronor",
+        "sent-fika-tar-ni-kort",
+        "topic-betalning"
       ]
     },
     {
@@ -3376,6 +3956,144 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "ursäkta-vad-sa-du",
+      "type": "phrase",
+      "title": "ursäkta vad sa du",
+      "path": "knowledge_base/phrases/ursäkta-vad-sa-du.md",
+      "body": "# ursäkta vad sa du\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 不好意思，你刚说什么？ · 🇬🇧 sorry, what did you say?\n\n## 用法说明 (Usage)\n\n- 听不清对方说话时的修复句，表示请对方重复。\n- 礼貌程度适中，日常对话中非常常用。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-preteritum]] (sa = 说，过去时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Förlåt, kan du upprepa?* (对不起，你能重复一遍吗？)\n- 🔄 *Va?* (啥？极口语)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Ursäkta, vad sa du? Jag hörde inte riktigt. 🇨🇳 不好意思，你刚才说什么？我没听清楚。",
+      "excerpt": "ursäkta vad sa du 🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 4/5 🇨🇳 不好意思，你刚说什么？ · 🇬🇧 sorry, what did you say? 用法说明 (Usage) 听不清对方说话时的修复句，表示请对方重复。 礼貌程度适中，日常对话中非常常用。 短语中的语法 (Grammar inside) → grammar preteritum (sa = 说",
+      "links": [
+        "grammar-preteritum"
+      ],
+      "searchText": "ursäkta vad sa du ursäkta-vad-sa-du knowledge_base/phrases/ursäkta-vad-sa-du.md ---\ntype: phrase\nphrase: \"ursäkta vad sa du\"\ncategory: vardagsfras\nregister: vardagligt\nfrequency: 4\nzh: 不好意思，你刚说什么？\nen: sorry, what did you say?\nliteral: excuse me, what did you say?\nhead_words: []\ngrammar: [grammar-preteritum]\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ursäkta vad sa du\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 不好意思，你刚说什么？ · 🇬🇧 sorry, what did you say?\n\n## 用法说明 (Usage)\n\n- 听不清对方说话时的修复句，表示请对方重复。\n- 礼貌程度适中，日常对话中非常常用。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-preteritum]] (sa = 说，过去时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Förlåt, kan du upprepa?* (对不起，你能重复一遍吗？)\n- 🔄 *Va?* (啥？极口语)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Ursäkta, vad sa du? Jag hörde inte riktigt. 🇨🇳 不好意思，你刚才说什么？我没听清楚。\n",
+      "zh": "不好意思，你刚说什么？",
+      "en": "sorry, what did you say?",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "ursäkta vad sa du",
+      "sentences": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-ursäkta-vad-sa-du-hörde-inte"
+      ]
+    },
+    {
+      "slug": "vad-får-det-vara",
+      "type": "phrase",
+      "title": "vad får det vara",
+      "path": "knowledge_base/phrases/vad-får-det-vara.md",
+      "body": "# vad får det vara\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 请问要点什么？ · 🇬🇧 what can I get you?; what will it be?\n📝 字面: what shall it be?\n\n## 用法说明 (Usage)\n\n- 服务员/收银员向顾客问候并询问点单的固定用语。\n- 等同于英语 \"What can I get you?\" 或 \"What will it be?\"\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-konditionalis]] (får = 情态动词)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vad önskar ni?* (较正式)\n- 🔗 [[kan-jag-få]], [[jag-skulle-vilja-ha]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Hej, välkomna! Vad får det vara? 🇨🇳 你好，欢迎！请问要点什么？",
+      "excerpt": "vad får det vara 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5 🇨🇳 请问要点什么？ · 🇬🇧 what can I get you?; what will it be? 📝 字面: what shall it be? 用法说明 (Usage) 服务员/收银员向顾客问候并询问点单的固定用语。 等同于英语 \"What can I get you?\" 或 \"Wha",
+      "links": [
+        "grammar-konditionalis",
+        "jag-skulle-vilja-ha",
+        "kan-jag-få"
+      ],
+      "searchText": "vad får det vara vad-får-det-vara knowledge_base/phrases/vad-får-det-vara.md ---\ntype: phrase\nphrase: \"vad får det vara\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 4\nzh: 请问要点什么？\nen: what can I get you?; what will it be?\nliteral: what shall it be?\nhead_words: []\ngrammar: [grammar-konditionalis]\nrelated: [kan-jag-få, jag-skulle-vilja-ha]\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vad får det vara\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 请问要点什么？ · 🇬🇧 what can I get you?; what will it be?\n📝 字面: what shall it be?\n\n## 用法说明 (Usage)\n\n- 服务员/收银员向顾客问候并询问点单的固定用语。\n- 等同于英语 \"What can I get you?\" 或 \"What will it be?\"\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-konditionalis]] (får = 情态动词)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vad önskar ni?* (较正式)\n- 🔗 [[kan-jag-få]], [[jag-skulle-vilja-ha]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Hej, välkomna! Vad får det vara? 🇨🇳 你好，欢迎！请问要点什么？\n",
+      "zh": "请问要点什么？",
+      "en": "what can I get you?; what will it be?",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "vad får det vara",
+      "sentences": [],
+      "grammar": [
+        "grammar-konditionalis"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "jag-skulle-vilja-ha",
+        "kan-jag-få",
+        "sent-fika-hej-valkomna-vad-far-det-vara",
+        "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "vad-gjorde-du-i-helgen",
+      "type": "phrase",
+      "title": "vad gjorde du i helgen",
+      "path": "knowledge_base/phrases/vad-gjorde-du-i-helgen.md",
+      "body": "# vad gjorde du i helgen\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 你周末干什么了？ · 🇬🇧 what did you do at the weekend?\n\n## 用法说明 (Usage)\n\n- 熟人之间常用的寒暄话题，询问对方周末的活动。\n- *i helgen* = 这个周末（已过去）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-preteritum]] (gjorde = 过去时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vad ska du göra i helgen?* (你这个周末要做什么？未来式)\n- 🔗 [[hur-är-det-med-jobbet]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Förresten, vad gjorde du i helgen? — Jag gick på konsert. 🇨🇳 对了，你周末干什么了？——我去听了场音乐会。",
+      "excerpt": "vad gjorde du i helgen 🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 4/5 🇨🇳 你周末干什么了？ · 🇬🇧 what did you do at the weekend? 用法说明 (Usage) 熟人之间常用的寒暄话题，询问对方周末的活动。 i helgen = 这个周末（已过去）。 短语中的语法 (Grammar inside) → grammar pret",
+      "links": [
+        "grammar-preteritum",
+        "hur-är-det-med-jobbet"
+      ],
+      "searchText": "vad gjorde du i helgen vad-gjorde-du-i-helgen knowledge_base/phrases/vad-gjorde-du-i-helgen.md ---\ntype: phrase\nphrase: \"vad gjorde du i helgen\"\ncategory: vardagsfras\nregister: vardagligt\nfrequency: 4\nzh: 你周末干什么了？\nen: what did you do at the weekend?\nliteral: what did you do in the weekend?\nhead_words: []\ngrammar: [grammar-preteritum]\nrelated: [hur-är-det-med-jobbet]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vad gjorde du i helgen\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 4/5\n🇨🇳 你周末干什么了？ · 🇬🇧 what did you do at the weekend?\n\n## 用法说明 (Usage)\n\n- 熟人之间常用的寒暄话题，询问对方周末的活动。\n- *i helgen* = 这个周末（已过去）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-preteritum]] (gjorde = 过去时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vad ska du göra i helgen?* (你这个周末要做什么？未来式)\n- 🔗 [[hur-är-det-med-jobbet]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Förresten, vad gjorde du i helgen? — Jag gick på konsert. 🇨🇳 对了，你周末干什么了？——我去听了场音乐会。\n",
+      "zh": "你周末干什么了？",
+      "en": "what did you do at the weekend?",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "vad gjorde du i helgen",
+      "sentences": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [],
+      "backlinks": [
+        "hur-är-det-med-jobbet",
+        "sent-fika-förresten-vad-gjorde-du-i-helgen"
+      ]
+    },
+    {
+      "slug": "varsågod",
+      "type": "phrase",
+      "title": "varsågod",
+      "path": "knowledge_base/phrases/varsågod.md",
+      "body": "# varsågod\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 给你；不客气 · 🇬🇧 here you go; you're welcome\n\n## 用法说明 (Usage)\n\n- 双重用法：\n  1. 递交物品时说 *Varsågod* = 给你（here you go）\n  2. 回应感谢时说 *Varsågod* = 不客气（you're welcome）\n- 在服务场合（餐厅、商店）极为常用。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Varsågoda* (复数，向多人说)\n- 🔗 [[tack-så-mycket]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Varsågod! Hoppas det smakar! 🇨🇳 不客气！希望你们喜欢！",
+      "excerpt": "varsågod 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 5/5 🇨🇳 给你；不客气 · 🇬🇧 here you go; you're welcome 用法说明 (Usage) 双重用法： 1. 递交物品时说 Varsågod = 给你（here you go） 2. 回应感谢时说 Varsågod = 不客气（you're welcome） 在服务场合（餐厅、商店）极为常用。 变体",
+      "links": [
+        "tack-så-mycket"
+      ],
+      "searchText": "varsågod varsågod knowledge_base/phrases/varsågod.md ---\ntype: phrase\nphrase: \"varsågod\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 5\nzh: 给你；不客气\nen: here you go; you're welcome\nliteral: please be good / be welcome\nhead_words: []\ngrammar: []\nrelated: [tack-så-mycket]\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# varsågod\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 给你；不客气 · 🇬🇧 here you go; you're welcome\n\n## 用法说明 (Usage)\n\n- 双重用法：\n  1. 递交物品时说 *Varsågod* = 给你（here you go）\n  2. 回应感谢时说 *Varsågod* = 不客气（you're welcome）\n- 在服务场合（餐厅、商店）极为常用。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Varsågoda* (复数，向多人说)\n- 🔗 [[tack-så-mycket]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Varsågod! Hoppas det smakar! 🇨🇳 不客气！希望你们喜欢！\n",
+      "zh": "给你；不客气",
+      "en": "here you go; you're welcome",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "varsågod",
+      "sentences": [],
+      "grammar": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "hoppas-det-smakar",
+        "sent-fika-varsågod-hoppas-det-smakar",
+        "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "vi-får-ses-oftare",
+      "type": "phrase",
+      "title": "vi får ses oftare",
+      "path": "knowledge_base/phrases/vi-får-ses-oftare.md",
+      "body": "# vi får ses oftare\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 3/5\n🇨🇳 我们得更常见面 · 🇬🇧 we should see each other more often\n\n## 用法说明 (Usage)\n\n- 道别时表达希望保持联系、更常见面的愿望。\n- *Ses* = 互相见面（反身动词 *ses* = att ses）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (får = 情态动词现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vi måste träffas oftare!* (我们一定要更常见面！)\n- 🔗 [[hålla-kontakten]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Vi får ses oftare och hålla kontakten, Johan. 🇨🇳 我们得更常见面、保持联系，约翰。",
+      "excerpt": "vi får ses oftare 🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 3/5 🇨🇳 我们得更常见面 · 🇬🇧 we should see each other more often 用法说明 (Usage) 道别时表达希望保持联系、更常见面的愿望。 Ses = 互相见面（反身动词 ses = att ses）。 短语中的语法 (Grammar inside) → gramma",
+      "links": [
+        "grammar-presens",
+        "hålla-kontakten"
+      ],
+      "searchText": "vi får ses oftare vi-får-ses-oftare knowledge_base/phrases/vi-får-ses-oftare.md ---\ntype: phrase\nphrase: \"vi får ses oftare\"\ncategory: vardagsfras\nregister: vardagligt\nfrequency: 3\nzh: 我们得更常见面\nen: we should see each other more often\nliteral: we get to see each other more often\nhead_words: []\ngrammar: [grammar-presens]\nrelated: [hålla-kontakten]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vi får ses oftare\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 3/5\n🇨🇳 我们得更常见面 · 🇬🇧 we should see each other more often\n\n## 用法说明 (Usage)\n\n- 道别时表达希望保持联系、更常见面的愿望。\n- *Ses* = 互相见面（反身动词 *ses* = att ses）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] (får = 情态动词现在时)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vi måste träffas oftare!* (我们一定要更常见面！)\n- 🔗 [[hålla-kontakten]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Vi får ses oftare och hålla kontakten, Johan. 🇨🇳 我们得更常见面、保持联系，约翰。\n",
+      "zh": "我们得更常见面",
+      "en": "we should see each other more often",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "vi får ses oftare",
+      "sentences": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": [
+        "hålla-kontakten",
+        "sent-fika-vi-får-ses-oftare"
+      ]
+    },
+    {
       "slug": "vi-ses-snart",
       "type": "phrase",
       "title": "vi ses snart",
@@ -3444,6 +4162,31 @@ window.KB_DATA = {
         "source-2026-06-09-beskriva-en-gata",
         "topic-rumsliga-relationer",
         "vid-korsningen"
+      ]
+    },
+    {
+      "slug": "vid-fönstret",
+      "type": "phrase",
+      "title": "vid fönstret",
+      "path": "knowledge_base/phrases/vid-fönstret.md",
+      "body": "# vid fönstret\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 靠窗；在窗边 · 🇬🇧 by the window; at the window\n\n## 用法说明 (Usage)\n\n- 表示位置\"靠窗\"，*vid* 表示紧邻某物旁边。\n- 常用于点餐或安排座位场景。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-prepositioner-rum]] (vid = 空间介词)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Bordet vid fönstret* (靠窗的那张桌子)\n- 🔄 *Nära fönstret* (靠近窗边)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Ska vi ta ett bord vid fönstret inne? 🇨🇳 我们坐里面靠窗的桌子怎么样？",
+      "excerpt": "vid fönstret 🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 4/5 🇨🇳 靠窗；在窗边 · 🇬🇧 by the window; at the window 用法说明 (Usage) 表示位置\"靠窗\"， vid 表示紧邻某物旁边。 常用于点餐或安排座位场景。 短语中的语法 (Grammar inside) → grammar prepositioner rum (v",
+      "links": [
+        "grammar-prepositioner-rum"
+      ],
+      "searchText": "vid fönstret vid-fönstret knowledge_base/phrases/vid-fönstret.md ---\ntype: phrase\nphrase: \"vid fönstret\"\ncategory: prepositionsuttryck\nregister: neutralt\nfrequency: 4\nzh: 靠窗；在窗边\nen: by the window; at the window\nliteral: at the window\nhead_words: [fönster]\ngrammar: [grammar-prepositioner-rum]\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vid fönstret\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 靠窗；在窗边 · 🇬🇧 by the window; at the window\n\n## 用法说明 (Usage)\n\n- 表示位置\"靠窗\"，*vid* 表示紧邻某物旁边。\n- 常用于点餐或安排座位场景。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-prepositioner-rum]] (vid = 空间介词)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Bordet vid fönstret* (靠窗的那张桌子)\n- 🔄 *Nära fönstret* (靠近窗边)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Ska vi ta ett bord vid fönstret inne? 🇨🇳 我们坐里面靠窗的桌子怎么样？\n",
+      "zh": "靠窗；在窗边",
+      "en": "by the window; at the window",
+      "created": "2026-06-09",
+      "known": false,
+      "phrase": "vid fönstret",
+      "sentences": [],
+      "grammar": [
+        "grammar-prepositioner-rum"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-det-är-så-soligt-idag"
       ]
     },
     {
@@ -4185,6 +4928,1412 @@ window.KB_DATA = {
         "trots_att",
         "trots-att"
       ]
+    },
+    {
+      "slug": "sent-fika-allt-finns-med-eller-utan-mjölk",
+      "type": "sentence",
+      "title": "🇸🇪 Allt finns med eller utan mjölk.",
+      "path": "knowledge_base/sentences/sent-fika-allt-finns-med-eller-utan-mjölk.md",
+      "body": "# 🇸🇪 Allt finns med eller utan mjölk.\n\n🇨🇳 所有的都可以加或不加牛奶。\n\n## 结构 (Structure)\n\n```\n[Allt] [finns] [med eller utan mjölk]\n  所有   有/存在    加奶或不加奶的选择\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *finns* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[mjölk]] (牛奶)\n- 词组: [[med-eller-utan]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Allt finns med eller utan mjölk. 🇨🇳 所有的都可以加或不加牛奶。 结构 (Structure) [Allt] [finns] [med eller utan mjölk] 所有 有/存在 加奶或不加奶的选择 语法点 (Grammar) 📌 grammar presens — finns 现在时 生词 & 词组 (Words & Phrases) 词: mjölk (牛奶) 词组: med",
+      "links": [
+        "grammar-presens",
+        "med-eller-utan",
+        "mjölk",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Allt finns med eller utan mjölk. sent-fika-allt-finns-med-eller-utan-mjölk knowledge_base/sentences/sent-fika-allt-finns-med-eller-utan-mjölk.md ---\ntype: sentence\nsentence: \"Allt finns med eller utan mjölk.\"\nzh: 所有的都可以加或不加牛奶。\ncefr: A2\nwords: [mjölk]\nphrases: [med-eller-utan]\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Allt finns med eller utan mjölk.\n\n🇨🇳 所有的都可以加或不加牛奶。\n\n## 结构 (Structure)\n\n```\n[Allt] [finns] [med eller utan mjölk]\n  所有   有/存在    加奶或不加奶的选择\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *finns* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[mjölk]] (牛奶)\n- 词组: [[med-eller-utan]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "所有的都可以加或不加牛奶。",
+      "created": "2026-06-09",
+      "sentence": "Allt finns med eller utan mjölk.",
+      "words": [
+        "mjölk"
+      ],
+      "phrases": [
+        "med-eller-utan"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-är-det-bordet-i-hörnet-ledigt",
+      "type": "sentence",
+      "title": "🇸🇪 Är det bordet i hörnet ledigt?",
+      "path": "knowledge_base/sentences/sent-fika-är-det-bordet-i-hörnet-ledigt.md",
+      "body": "# 🇸🇪 Är det bordet i hörnet ledigt?\n\n🇨🇳 角落那张桌子是空的吗？\n\n## 结构 (Structure)\n\n```\n[Är] [det bordet i hörnet] [ledigt]?\n  V1   角落里的那张桌子         空着吗？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är* 现在时（疑问句）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledig]] (空着的)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Är det bordet i hörnet ledigt? 🇨🇳 角落那张桌子是空的吗？ 结构 (Structure) [Är] [det bordet i hörnet] [ledigt]? V1 角落里的那张桌子 空着吗？ 语法点 (Grammar) 📌 grammar presens — är 现在时（疑问句） 生词 & 词组 (Words & Phrases) 词: ledig (空着的) 来源 (Source",
+      "links": [
+        "grammar-presens",
+        "ledig",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Är det bordet i hörnet ledigt? sent-fika-är-det-bordet-i-hörnet-ledigt knowledge_base/sentences/sent-fika-är-det-bordet-i-hörnet-ledigt.md ---\ntype: sentence\nsentence: \"Är det bordet i hörnet ledigt?\"\nzh: 角落那张桌子是空的吗？\ncefr: A2\nwords: [ledig]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Är det bordet i hörnet ledigt?\n\n🇨🇳 角落那张桌子是空的吗？\n\n## 结构 (Structure)\n\n```\n[Är] [det bordet i hörnet] [ledigt]?\n  V1   角落里的那张桌子         空着吗？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är* 现在时（疑问句）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledig]] (空着的)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "角落那张桌子是空的吗？",
+      "created": "2026-06-09",
+      "sentence": "Är det bordet i hörnet ledigt?",
+      "words": [
+        "ledig"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-åttio-kronor-och-tjugo-öre",
+      "type": "sentence",
+      "title": "🇸🇪 Åttio kronor och tjugo öre, tack.",
+      "path": "knowledge_base/sentences/sent-fika-åttio-kronor-och-tjugo-öre.md",
+      "body": "# 🇸🇪 Åttio kronor och tjugo öre, tack.\n\n🇨🇳 八十克朗零二十厄雷，谢谢。\n\n## 结构 (Structure)\n\n```\n[Åttio kronor] [och] [tjugo öre] [tack]\n   八十克朗       和    二十厄雷      谢谢\n```\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[krona]] (克朗), [[öre]] (厄雷)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Åttio kronor och tjugo öre, tack. 🇨🇳 八十克朗零二十厄雷，谢谢。 结构 (Structure) [Åttio kronor] [och] [tjugo öre] [tack] 八十克朗 和 二十厄雷 谢谢 生词 & 词组 (Words & Phrases) 词: krona (克朗), öre (厄雷) 来源 (Source) source 2026 06 09 fika pa cafe",
+      "links": [
+        "krona",
+        "öre",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Åttio kronor och tjugo öre, tack. sent-fika-åttio-kronor-och-tjugo-öre knowledge_base/sentences/sent-fika-åttio-kronor-och-tjugo-öre.md ---\ntype: sentence\nsentence: \"Åttio kronor och tjugo öre, tack.\"\nzh: 八十克朗零二十厄雷，谢谢。\ncefr: A1\nwords: [krona, öre]\nphrases: []\ngrammar: []\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-betalning]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Åttio kronor och tjugo öre, tack.\n\n🇨🇳 八十克朗零二十厄雷，谢谢。\n\n## 结构 (Structure)\n\n```\n[Åttio kronor] [och] [tjugo öre] [tack]\n   八十克朗       和    二十厄雷      谢谢\n```\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[krona]] (克朗), [[öre]] (厄雷)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "八十克朗零二十厄雷，谢谢。",
+      "created": "2026-06-09",
+      "sentence": "Åttio kronor och tjugo öre, tack.",
+      "words": [
+        "krona",
+        "öre"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-då-är-det-ljust",
+      "type": "sentence",
+      "title": "🇸🇈 Då är det ljust men inte för varmt.",
+      "path": "knowledge_base/sentences/sent-fika-då-är-det-ljust.md",
+      "body": "# 🇸🇈 Då är det ljust men inte för varmt.\n\n🇨🇳 那样既明亮又不会太热。\n\n## 结构 (Structure)\n\n```\n[Då] [är] [det] [ljust] [men inte för varmt]\n  那   V2   det   明亮      但不太热（转折）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Då* 前置，*är* 在第二位\n- 📌 [[grammar-presens]] — *är* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ljus]] (明亮的)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇈 Då är det ljust men inte för varmt. 🇨🇳 那样既明亮又不会太热。 结构 (Structure) [Då] [är] [det] [ljust] [men inte för varmt] 那 V2 det 明亮 但不太热（转折） 语法点 (Grammar) 📌 grammar v2 ordfoljd — Då 前置， är 在第二位 📌 grammar presens — är 现在时",
+      "links": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd",
+        "ljus",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇈 Då är det ljust men inte för varmt. sent-fika-då-är-det-ljust knowledge_base/sentences/sent-fika-då-är-det-ljust.md ---\ntype: sentence\nsentence: \"Då är det ljust men inte för varmt.\"\nzh: 那样既明亮又不会太热。\ncefr: A2\nwords: [ljus]\nphrases: []\ngrammar: [grammar-presens, grammar-v2-ordfoljd]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇈 Då är det ljust men inte för varmt.\n\n🇨🇳 那样既明亮又不会太热。\n\n## 结构 (Structure)\n\n```\n[Då] [är] [det] [ljust] [men inte för varmt]\n  那   V2   det   明亮      但不太热（转折）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Då* 前置，*är* 在第二位\n- 📌 [[grammar-presens]] — *är* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ljus]] (明亮的)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "那样既明亮又不会太热。",
+      "created": "2026-06-09",
+      "sentence": "Då är det ljust men inte för varmt.",
+      "words": [
+        "ljus"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-då-tar-jag-en-kardemummabulle",
+      "type": "sentence",
+      "title": "🇸🇪 Då tar jag en kardemummabulle, tack.",
+      "path": "knowledge_base/sentences/sent-fika-då-tar-jag-en-kardemummabulle.md",
+      "body": "# 🇸🇪 Då tar jag en kardemummabulle, tack.\n\n🇨🇳 那我要一个小豆蔻卷，谢谢。\n\n## 结构 (Structure)\n\n```\n[Då] [tar] [jag] [en kardemummabulle] [tack]\n 那   V2    主      一个小豆蔻卷         谢谢\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Då* 前置，动词 *tar* 在第二位\n- 📌 [[grammar-presens]] — *tar* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kardemummabulle]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Då tar jag en kardemummabulle, tack. 🇨🇳 那我要一个小豆蔻卷，谢谢。 结构 (Structure) [Då] [tar] [jag] [en kardemummabulle] [tack] 那 V2 主 一个小豆蔻卷 谢谢 语法点 (Grammar) 📌 grammar v2 ordfoljd — Då 前置，动词 tar 在第二位 📌 grammar presens — tar ",
+      "links": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd",
+        "kardemummabulle",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Då tar jag en kardemummabulle, tack. sent-fika-då-tar-jag-en-kardemummabulle knowledge_base/sentences/sent-fika-då-tar-jag-en-kardemummabulle.md ---\ntype: sentence\nsentence: \"Då tar jag en kardemummabulle, tack.\"\nzh: 那我要一个小豆蔻卷，谢谢。\ncefr: A1\nwords: [kardemummabulle]\nphrases: []\ngrammar: [grammar-presens, grammar-v2-ordfoljd]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Då tar jag en kardemummabulle, tack.\n\n🇨🇳 那我要一个小豆蔻卷，谢谢。\n\n## 结构 (Structure)\n\n```\n[Då] [tar] [jag] [en kardemummabulle] [tack]\n 那   V2    主      一个小豆蔻卷         谢谢\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Då* 前置，动词 *tar* 在第二位\n- 📌 [[grammar-presens]] — *tar* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kardemummabulle]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "那我要一个小豆蔻卷，谢谢。",
+      "created": "2026-06-09",
+      "sentence": "Då tar jag en kardemummabulle, tack.",
+      "words": [
+        "kardemummabulle"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-det-är-så-soligt-idag",
+      "type": "sentence",
+      "title": "🇸🇪 Det är så soligt idag — ska vi ta ett bord vid fönstret inne?",
+      "path": "knowledge_base/sentences/sent-fika-det-är-så-soligt-idag.md",
+      "body": "# 🇸🇪 Det är så soligt idag — ska vi ta ett bord vid fönstret inne?\n\n🇨🇳 今天阳光这么好，我们坐里面靠窗的桌子怎么样？\n\n## 结构 (Structure)\n\n```\n[Det är så soligt idag] [ska vi ta] [ett bord vid fönstret] [inne?]\n    今天这么阳光              我们拿     一张靠窗的桌子           在里面？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är, ska* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[inne]] (里面)\n- 词组: [[vid-fönstret]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Det är så soligt idag — ska vi ta ett bord vid fönstret inne? 🇨🇳 今天阳光这么好，我们坐里面靠窗的桌子怎么样？ 结构 (Structure) [Det är så soligt idag] [ska vi ta] [ett bord vid fönstret] [inne?] 今天这么阳光 我们拿 一张靠窗的桌子 在里面？ 语法点 (Grammar) 📌 g",
+      "links": [
+        "grammar-presens",
+        "inne",
+        "source-2026-06-09-fika-pa-cafe",
+        "vid-fönstret"
+      ],
+      "searchText": "🇸🇪 Det är så soligt idag — ska vi ta ett bord vid fönstret inne? sent-fika-det-är-så-soligt-idag knowledge_base/sentences/sent-fika-det-är-så-soligt-idag.md ---\ntype: sentence\nsentence: \"Det är så soligt idag — ska vi ta ett bord vid fönstret inne?\"\nzh: 今天阳光这么好，我们坐里面靠窗的桌子怎么样？\ncefr: A2\nwords: [inne]\nphrases: [vid-fönstret]\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är så soligt idag — ska vi ta ett bord vid fönstret inne?\n\n🇨🇳 今天阳光这么好，我们坐里面靠窗的桌子怎么样？\n\n## 结构 (Structure)\n\n```\n[Det är så soligt idag] [ska vi ta] [ett bord vid fönstret] [inne?]\n    今天这么阳光              我们拿     一张靠窗的桌子           在里面？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är, ska* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[inne]] (里面)\n- 词组: [[vid-fönstret]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "今天阳光这么好，我们坐里面靠窗的桌子怎么样？",
+      "created": "2026-06-09",
+      "sentence": "Det är så soligt idag — ska vi ta ett bord vid fönstret inne?",
+      "words": [
+        "inne"
+      ],
+      "phrases": [
+        "vid-fönstret"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-det-blir-åttio-kronor",
+      "type": "sentence",
+      "title": "🇸🇪 Det blir åttio kronor och tjugo öre totalt.",
+      "path": "knowledge_base/sentences/sent-fika-det-blir-åttio-kronor.md",
+      "body": "# 🇸🇪 Det blir åttio kronor och tjugo öre totalt.\n\n🇨🇳 一共八十克朗零二十厄雷。\n\n## 结构 (Structure)\n\n```\n[Det blir] [åttio kronor och tjugo öre] [totalt]\n  一共是        八十克朗零二十厄雷          总共\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *blir* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[krona]] (克朗), [[öre]] (厄雷), [[totalt]] (总共)\n- 词组: [[det-blir-x-kronor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Det blir åttio kronor och tjugo öre totalt. 🇨🇳 一共八十克朗零二十厄雷。 结构 (Structure) [Det blir] [åttio kronor och tjugo öre] [totalt] 一共是 八十克朗零二十厄雷 总共 语法点 (Grammar) 📌 grammar presens — blir 现在时 生词 & 词组 (Words & Phrases) 词:",
+      "links": [
+        "det-blir-x-kronor",
+        "grammar-presens",
+        "krona",
+        "öre",
+        "source-2026-06-09-fika-pa-cafe",
+        "totalt"
+      ],
+      "searchText": "🇸🇪 Det blir åttio kronor och tjugo öre totalt. sent-fika-det-blir-åttio-kronor knowledge_base/sentences/sent-fika-det-blir-åttio-kronor.md ---\ntype: sentence\nsentence: \"Det blir åttio kronor och tjugo öre totalt.\"\nzh: 一共八十克朗零二十厄雷。\ncefr: A2\nwords: [krona, öre, totalt]\nphrases: [det-blir-x-kronor]\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-betalning]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det blir åttio kronor och tjugo öre totalt.\n\n🇨🇳 一共八十克朗零二十厄雷。\n\n## 结构 (Structure)\n\n```\n[Det blir] [åttio kronor och tjugo öre] [totalt]\n  一共是        八十克朗零二十厄雷          总共\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *blir* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[krona]] (克朗), [[öre]] (厄雷), [[totalt]] (总共)\n- 词组: [[det-blir-x-kronor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "一共八十克朗零二十厄雷。",
+      "created": "2026-06-09",
+      "sentence": "Det blir åttio kronor och tjugo öre totalt.",
+      "words": [
+        "krona",
+        "öre",
+        "totalt"
+      ],
+      "phrases": [
+        "det-blir-x-kronor"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-det-smakar-ju-faktiskt-för-gott",
+      "type": "sentence",
+      "title": "🇸🇪 Det smakar ju faktiskt för gott!",
+      "path": "knowledge_base/sentences/sent-fika-det-smakar-ju-faktiskt-för-gott.md",
+      "body": "# 🇸🇪 Det smakar ju faktiskt för gott!\n\n🇨🇳 说真的，味道太好了！\n\n## 结构 (Structure)\n\n```\n[Det smakar] [ju faktiskt] [för gott!]\n  味道是          说实话        太好吃了！\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *smakar* 现在时\n- 📌 [[grammar-bisats-biff]] — *ju/faktiskt* 副词位置（在动词后）\n- *Ju* = 说你知道的/嘛（语气词）；*för gott* = 太好吃了\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[smaka]] (好吃), [[faktiskt]] (说实话)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Det smakar ju faktiskt för gott! 🇨🇳 说真的，味道太好了！ 结构 (Structure) [Det smakar] [ju faktiskt] [för gott!] 味道是 说实话 太好吃了！ 语法点 (Grammar) 📌 grammar presens — smakar 现在时 📌 grammar bisats biff — ju/faktiskt 副词位置（在动词后） Ju =",
+      "links": [
+        "faktiskt",
+        "grammar-bisats-biff",
+        "grammar-presens",
+        "smaka",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Det smakar ju faktiskt för gott! sent-fika-det-smakar-ju-faktiskt-för-gott knowledge_base/sentences/sent-fika-det-smakar-ju-faktiskt-för-gott.md ---\ntype: sentence\nsentence: \"Det smakar ju faktiskt för gott!\"\nzh: 说真的，味道太好了！\ncefr: A2\nwords: [smaka, faktiskt]\nphrases: []\ngrammar: [grammar-presens, grammar-bisats-biff]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det smakar ju faktiskt för gott!\n\n🇨🇳 说真的，味道太好了！\n\n## 结构 (Structure)\n\n```\n[Det smakar] [ju faktiskt] [för gott!]\n  味道是          说实话        太好吃了！\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *smakar* 现在时\n- 📌 [[grammar-bisats-biff]] — *ju/faktiskt* 副词位置（在动词后）\n- *Ju* = 说你知道的/嘛（语气词）；*för gott* = 太好吃了\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[smaka]] (好吃), [[faktiskt]] (说实话)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "说真的，味道太好了！",
+      "created": "2026-06-09",
+      "sentence": "Det smakar ju faktiskt för gott!",
+      "words": [
+        "smaka",
+        "faktiskt"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-bisats-biff"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-det-var-jättekul",
+      "type": "sentence",
+      "title": "🇸🇪 Det var jättekul!",
+      "path": "knowledge_base/sentences/sent-fika-det-var-jättekul.md",
+      "body": "# 🇸🇪 Det var jättekul!\n\n🇨🇳 超好玩的！\n\n## 结构 (Structure)\n\n```\n[Det var] [jättekul!]\n  那是      超好玩！\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *var* 过去时\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Det var jättekul! 🇨🇳 超好玩的！ 结构 (Structure) [Det var] [jättekul!] 那是 超好玩！ 语法点 (Grammar) 📌 grammar preteritum — var 过去时 来源 (Source) source 2026 06 09 fika pa cafe",
+      "links": [
+        "grammar-preteritum",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Det var jättekul! sent-fika-det-var-jättekul knowledge_base/sentences/sent-fika-det-var-jättekul.md ---\ntype: sentence\nsentence: \"Det var jättekul!\"\nzh: 超好玩的！\ncefr: A1\nwords: []\nphrases: []\ngrammar: [grammar-preteritum]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det var jättekul!\n\n🇨🇳 超好玩的！\n\n## 结构 (Structure)\n\n```\n[Det var] [jättekul!]\n  那是      超好玩！\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *var* 过去时\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "超好玩的！",
+      "created": "2026-06-09",
+      "sentence": "Det var jättekul!",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-en-latte-tack-stor",
+      "type": "sentence",
+      "title": "🇸🇪 En latte, tack. Stor, gärna.",
+      "path": "knowledge_base/sentences/sent-fika-en-latte-tack-stor.md",
+      "body": "# 🇸🇪 En latte, tack. Stor, gärna.\n\n🇨🇳 一杯拿铁，谢谢。大杯的，最好。\n\n## 结构 (Structure)\n\n```\n[En latte, tack.] [Stor, gärna.]\n   点餐（名词短语）    补充偏好（省略句）\n```\n\n## 语法点 (Grammar)\n\n- 省略句；*Gärna* 表示\"如果可以的话，最好如此\"（礼貌请求附加语）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[latte]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 En latte, tack. Stor, gärna. 🇨🇳 一杯拿铁，谢谢。大杯的，最好。 结构 (Structure) [En latte, tack.] [Stor, gärna.] 点餐（名词短语） 补充偏好（省略句） 语法点 (Grammar) 省略句； Gärna 表示\"如果可以的话，最好如此\"（礼貌请求附加语）。 生词 & 词组 (Words & Phrases) 词: latte 来源 (Source) ",
+      "links": [
+        "latte",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 En latte, tack. Stor, gärna. sent-fika-en-latte-tack-stor knowledge_base/sentences/sent-fika-en-latte-tack-stor.md ---\ntype: sentence\nsentence: \"En latte, tack. Stor, gärna.\"\nzh: 一杯拿铁，谢谢。大杯的，最好。\ncefr: A1\nwords: [latte]\nphrases: []\ngrammar: []\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 En latte, tack. Stor, gärna.\n\n🇨🇳 一杯拿铁，谢谢。大杯的，最好。\n\n## 结构 (Structure)\n\n```\n[En latte, tack.] [Stor, gärna.]\n   点餐（名词短语）    补充偏好（省略句）\n```\n\n## 语法点 (Grammar)\n\n- 省略句；*Gärna* 表示\"如果可以的话，最好如此\"（礼貌请求附加语）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[latte]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "一杯拿铁，谢谢。大杯的，最好。",
+      "created": "2026-06-09",
+      "sentence": "En latte, tack. Stor, gärna.",
+      "words": [
+        "latte"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-en-till-kanelbulle-skadar-väl-inte",
+      "type": "sentence",
+      "title": "🇸🇪 En till kanelbulle skadar väl inte.",
+      "path": "knowledge_base/sentences/sent-fika-en-till-kanelbulle-skadar-väl-inte.md",
+      "body": "# 🇸🇪 En till kanelbulle skadar väl inte.\n\n🇨🇳 再来一个肉桂卷应该没关系吧。\n\n## 结构 (Structure)\n\n```\n[En till kanelbulle] [skadar] [väl inte]\n   再一个肉桂卷           伤害       应该不（弱化否定）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *skadar* 现在时\n- 📌 [[grammar-v2-ordfoljd]] — *en till kanelbulle* 前置作话题\n- *Väl* = 弱化词，表示\"应该、大概\"（语气缓和）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kanelbulle]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 En till kanelbulle skadar väl inte. 🇨🇳 再来一个肉桂卷应该没关系吧。 结构 (Structure) [En till kanelbulle] [skadar] [väl inte] 再一个肉桂卷 伤害 应该不（弱化否定） 语法点 (Grammar) 📌 grammar presens — skadar 现在时 📌 grammar v2 ordfoljd — en till kane",
+      "links": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd",
+        "kanelbulle",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 En till kanelbulle skadar väl inte. sent-fika-en-till-kanelbulle-skadar-väl-inte knowledge_base/sentences/sent-fika-en-till-kanelbulle-skadar-väl-inte.md ---\ntype: sentence\nsentence: \"En till kanelbulle skadar väl inte.\"\nzh: 再来一个肉桂卷应该没关系吧。\ncefr: B1\nwords: [kanelbulle]\nphrases: []\ngrammar: [grammar-presens, grammar-v2-ordfoljd]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 En till kanelbulle skadar väl inte.\n\n🇨🇳 再来一个肉桂卷应该没关系吧。\n\n## 结构 (Structure)\n\n```\n[En till kanelbulle] [skadar] [väl inte]\n   再一个肉桂卷           伤害       应该不（弱化否定）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *skadar* 现在时\n- 📌 [[grammar-v2-ordfoljd]] — *en till kanelbulle* 前置作话题\n- *Väl* = 弱化词，表示\"应该、大概\"（语气缓和）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kanelbulle]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "B1",
+      "zh": "再来一个肉桂卷应该没关系吧。",
+      "created": "2026-06-09",
+      "sentence": "En till kanelbulle skadar väl inte.",
+      "words": [
+        "kanelbulle"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-förresten-vad-gjorde-du-i-helgen",
+      "type": "sentence",
+      "title": "🇸🇪 Förresten, vad gjorde du i helgen?",
+      "path": "knowledge_base/sentences/sent-fika-förresten-vad-gjorde-du-i-helgen.md",
+      "body": "# 🇸🇪 Förresten, vad gjorde du i helgen?\n\n🇨🇳 对了，你周末干什么了？\n\n## 结构 (Structure)\n\n```\n[Förresten,] [vad] [gjorde] [du] [i helgen]?\n   对了         什么    做了      你     周末？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *gjorde* 过去时\n- 📌 [[grammar-v2-ordfoljd]] — *vad* 前置，*gjorde* 在第二位\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förresten]] (对了)\n- 词组: [[vad-gjorde-du-i-helgen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Förresten, vad gjorde du i helgen? 🇨🇳 对了，你周末干什么了？ 结构 (Structure) [Förresten,] [vad] [gjorde] [du] [i helgen]? 对了 什么 做了 你 周末？ 语法点 (Grammar) 📌 grammar preteritum — gjorde 过去时 📌 grammar v2 ordfoljd — vad 前置， gjorde",
+      "links": [
+        "förresten",
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd",
+        "source-2026-06-09-fika-pa-cafe",
+        "vad-gjorde-du-i-helgen"
+      ],
+      "searchText": "🇸🇪 Förresten, vad gjorde du i helgen? sent-fika-förresten-vad-gjorde-du-i-helgen knowledge_base/sentences/sent-fika-förresten-vad-gjorde-du-i-helgen.md ---\ntype: sentence\nsentence: \"Förresten, vad gjorde du i helgen?\"\nzh: 对了，你周末干什么了？\ncefr: A2\nwords: [förresten]\nphrases: [vad-gjorde-du-i-helgen]\ngrammar: [grammar-preteritum, grammar-v2-ordfoljd]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Förresten, vad gjorde du i helgen?\n\n🇨🇳 对了，你周末干什么了？\n\n## 结构 (Structure)\n\n```\n[Förresten,] [vad] [gjorde] [du] [i helgen]?\n   对了         什么    做了      你     周末？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *gjorde* 过去时\n- 📌 [[grammar-v2-ordfoljd]] — *vad* 前置，*gjorde* 在第二位\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förresten]] (对了)\n- 词组: [[vad-gjorde-du-i-helgen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "对了，你周末干什么了？",
+      "created": "2026-06-09",
+      "sentence": "Förresten, vad gjorde du i helgen?",
+      "words": [
+        "förresten"
+      ],
+      "phrases": [
+        "vad-gjorde-du-i-helgen"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-hej-valkomna-vad-far-det-vara",
+      "type": "sentence",
+      "title": "🇸🇪 Hej, välkomna! Vad får det vara?",
+      "path": "knowledge_base/sentences/sent-fika-hej-valkomna-vad-far-det-vara.md",
+      "body": "# 🇸🇪 Hej, välkomna! Vad får det vara?\n\n🇨🇳 你好，欢迎！请问要点什么？\n\n## 结构 (Structure)\n\n```\n[Hej, välkomna!] [Vad får det vara?]\n   问候欢迎           服务询问（固定句型）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *får* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[vad-får-det-vara]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Hej, välkomna! Vad får det vara? 🇨🇳 你好，欢迎！请问要点什么？ 结构 (Structure) [Hej, välkomna!] [Vad får det vara?] 问候欢迎 服务询问（固定句型） 语法点 (Grammar) 📌 grammar presens — får 现在时 生词 & 词组 (Words & Phrases) 词组: vad får det vara 来源 (S",
+      "links": [
+        "grammar-presens",
+        "source-2026-06-09-fika-pa-cafe",
+        "vad-får-det-vara"
+      ],
+      "searchText": "🇸🇪 Hej, välkomna! Vad får det vara? sent-fika-hej-valkomna-vad-far-det-vara knowledge_base/sentences/sent-fika-hej-valkomna-vad-far-det-vara.md ---\ntype: sentence\nsentence: \"Hej, välkomna! Vad får det vara?\"\nzh: 你好，欢迎！请问要点什么？\ncefr: A1\nwords: []\nphrases: [vad-får-det-vara]\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hej, välkomna! Vad får det vara?\n\n🇨🇳 你好，欢迎！请问要点什么？\n\n## 结构 (Structure)\n\n```\n[Hej, välkomna!] [Vad får det vara?]\n   问候欢迎           服务询问（固定句型）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *får* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[vad-får-det-vara]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "你好，欢迎！请问要点什么？",
+      "created": "2026-06-09",
+      "sentence": "Hej, välkomna! Vad får det vara?",
+      "words": [],
+      "phrases": [
+        "vad-får-det-vara"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-hur-är-det-med-jobbet",
+      "type": "sentence",
+      "title": "🇸🇪 Hur är det med jobbet för dig? Du sa det var lite stressigt?",
+      "path": "knowledge_base/sentences/sent-fika-hur-är-det-med-jobbet.md",
+      "body": "# 🇸🇪 Hur är det med jobbet för dig? Du sa det var lite stressigt?\n\n🇨🇳 你的工作怎么样？你说有点紧张？\n\n## 结构 (Structure)\n\n```\n[Hur är det med jobbet?] [Du sa] [det var lite stressigt?]\n   工作怎么样？              你说     有点紧张（间接引语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är* 现在时\n- 📌 [[grammar-preteritum]] — *sa, var* 过去时\n- 📌 [[grammar-bisats-biff]] — 从句中 *det var* 的语序\n\n## 词组 (Phrases)\n\n- 词组: [[hur-är-det-med-jobbet]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Hur är det med jobbet för dig? Du sa det var lite stressigt? 🇨🇳 你的工作怎么样？你说有点紧张？ 结构 (Structure) [Hur är det med jobbet?] [Du sa] [det var lite stressigt?] 工作怎么样？ 你说 有点紧张（间接引语） 语法点 (Grammar) 📌 grammar presens — är ",
+      "links": [
+        "grammar-bisats-biff",
+        "grammar-presens",
+        "grammar-preteritum",
+        "hur-är-det-med-jobbet",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Hur är det med jobbet för dig? Du sa det var lite stressigt? sent-fika-hur-är-det-med-jobbet knowledge_base/sentences/sent-fika-hur-är-det-med-jobbet.md ---\ntype: sentence\nsentence: \"Hur är det med jobbet för dig? Du sa det var lite stressigt?\"\nzh: 你的工作怎么样？你说有点紧张？\ncefr: A2\nwords: []\nphrases: [hur-är-det-med-jobbet]\ngrammar: [grammar-preteritum, grammar-presens, grammar-bisats-biff]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-arbete]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hur är det med jobbet för dig? Du sa det var lite stressigt?\n\n🇨🇳 你的工作怎么样？你说有点紧张？\n\n## 结构 (Structure)\n\n```\n[Hur är det med jobbet?] [Du sa] [det var lite stressigt?]\n   工作怎么样？              你说     有点紧张（间接引语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är* 现在时\n- 📌 [[grammar-preteritum]] — *sa, var* 过去时\n- 📌 [[grammar-bisats-biff]] — 从句中 *det var* 的语序\n\n## 词组 (Phrases)\n\n- 词组: [[hur-är-det-med-jobbet]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "你的工作怎么样？你说有点紧张？",
+      "created": "2026-06-09",
+      "sentence": "Hur är det med jobbet för dig? Du sa det var lite stressigt?",
+      "words": [],
+      "phrases": [
+        "hur-är-det-med-jobbet"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-presens",
+        "grammar-bisats-biff"
+      ],
+      "topics": [
+        "topic-arbete"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-ja-det-har-vi-jättepopulärt",
+      "type": "sentence",
+      "title": "🇸🇪 Ja, det har vi! Det är jättepopulärt.",
+      "path": "knowledge_base/sentences/sent-fika-ja-det-har-vi-jättepopulärt.md",
+      "body": "# 🇸🇪 Ja, det har vi! Det är jättepopulärt.\n\n🇨🇳 有的！那个非常受欢迎。\n\n## 结构 (Structure)\n\n```\n[Ja, det har vi!] [Det är jättepopulärt.]\n  有的（倒序强调）       非常受欢迎。\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har, är* 现在时\n- *det har vi* = 强调句（宾语前置形式）\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Ja, det har vi! Det är jättepopulärt. 🇨🇳 有的！那个非常受欢迎。 结构 (Structure) [Ja, det har vi!] [Det är jättepopulärt.] 有的（倒序强调） 非常受欢迎。 语法点 (Grammar) 📌 grammar presens — har, är 现在时 det har vi = 强调句（宾语前置形式） 来源 (Source) sou",
+      "links": [
+        "grammar-presens",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Ja, det har vi! Det är jättepopulärt. sent-fika-ja-det-har-vi-jättepopulärt knowledge_base/sentences/sent-fika-ja-det-har-vi-jättepopulärt.md ---\ntype: sentence\nsentence: \"Ja, det har vi! Det är jättepopulärt.\"\nzh: 有的！那个非常受欢迎。\ncefr: A1\nwords: []\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ja, det har vi! Det är jättepopulärt.\n\n🇨🇳 有的！那个非常受欢迎。\n\n## 结构 (Structure)\n\n```\n[Ja, det har vi!] [Det är jättepopulärt.]\n  有的（倒序强调）       非常受欢迎。\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har, är* 现在时\n- *det har vi* = 强调句（宾语前置形式）\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "有的！那个非常受欢迎。",
+      "created": "2026-06-09",
+      "sentence": "Ja, det har vi! Det är jättepopulärt.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-ja-det-verkar-det",
+      "type": "sentence",
+      "title": "🇸🇪 Ja, det verkar det. Kom!",
+      "path": "knowledge_base/sentences/sent-fika-ja-det-verkar-det.md",
+      "body": "# 🇸🇪 Ja, det verkar det. Kom!\n\n🇨🇳 好像是空的，来吧！\n\n## 结构 (Structure)\n\n```\n[Ja,] [det verkar det.] [Kom!]\n  是    好像是这样         来！\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *verkar* 现在时\n- *det verkar det* = 倒装强调（似乎就是如此）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[verka]] (似乎)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Ja, det verkar det. Kom! 🇨🇳 好像是空的，来吧！ 结构 (Structure) [Ja,] [det verkar det.] [Kom!] 是 好像是这样 来！ 语法点 (Grammar) 📌 grammar presens — verkar 现在时 det verkar det = 倒装强调（似乎就是如此） 生词 & 词组 (Words & Phrases) 词: verka (似乎) 来源",
+      "links": [
+        "grammar-presens",
+        "source-2026-06-09-fika-pa-cafe",
+        "verka"
+      ],
+      "searchText": "🇸🇪 Ja, det verkar det. Kom! sent-fika-ja-det-verkar-det knowledge_base/sentences/sent-fika-ja-det-verkar-det.md ---\ntype: sentence\nsentence: \"Ja, det verkar det. Kom!\"\nzh: 好像是空的，来吧！\ncefr: A2\nwords: [verka]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ja, det verkar det. Kom!\n\n🇨🇳 好像是空的，来吧！\n\n## 结构 (Structure)\n\n```\n[Ja,] [det verkar det.] [Kom!]\n  是    好像是这样         来！\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *verkar* 现在时\n- *det verkar det* = 倒装强调（似乎就是如此）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[verka]] (似乎)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "好像是空的，来吧！",
+      "created": "2026-06-09",
+      "sentence": "Ja, det verkar det. Kom!",
+      "words": [
+        "verka"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-ja-verkligen-förresten-bulle",
+      "type": "sentence",
+      "title": "🇸🇪 Ja, verkligen! Förresten — vill du ha en bulle till?",
+      "path": "knowledge_base/sentences/sent-fika-ja-verkligen-förresten-bulle.md",
+      "body": "# 🇸🇪 Ja, verkligen! Förresten — vill du ha en bulle till?\n\n🇨🇳 是啊，真的！对了——你再来一个面包卷吗？\n\n## 结构 (Structure)\n\n```\n[Ja, verkligen!] [Förresten —] [vill du ha en bulle till?]\n   是，真的！        对了——          你想再要一个面包卷吗？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *vill* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[verkligen]] (真的), [[förresten]] (对了)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Ja, verkligen! Förresten — vill du ha en bulle till? 🇨🇳 是啊，真的！对了——你再来一个面包卷吗？ 结构 (Structure) [Ja, verkligen!] [Förresten —] [vill du ha en bulle till?] 是，真的！ 对了—— 你想再要一个面包卷吗？ 语法点 (Grammar) 📌 grammar presens — vill",
+      "links": [
+        "förresten",
+        "grammar-presens",
+        "source-2026-06-09-fika-pa-cafe",
+        "verkligen"
+      ],
+      "searchText": "🇸🇪 Ja, verkligen! Förresten — vill du ha en bulle till? sent-fika-ja-verkligen-förresten-bulle knowledge_base/sentences/sent-fika-ja-verkligen-förresten-bulle.md ---\ntype: sentence\nsentence: \"Ja, verkligen! Förresten — vill du ha en bulle till?\"\nzh: 是啊，真的！对了——你再来一个面包卷吗？\ncefr: A2\nwords: [verkligen, förresten]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ja, verkligen! Förresten — vill du ha en bulle till?\n\n🇨🇳 是啊，真的！对了——你再来一个面包卷吗？\n\n## 结构 (Structure)\n\n```\n[Ja, verkligen!] [Förresten —] [vill du ha en bulle till?]\n   是，真的！        对了——          你想再要一个面包卷吗？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *vill* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[verkligen]] (真的), [[förresten]] (对了)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "是啊，真的！对了——你再来一个面包卷吗？",
+      "created": "2026-06-09",
+      "sentence": "Ja, verkligen! Förresten — vill du ha en bulle till?",
+      "words": [
+        "verkligen",
+        "förresten"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-ja-vi-tar-kort-och-swish",
+      "type": "sentence",
+      "title": "🇸🇪 Ja, vi tar både kort och Swish. Kontant också, förstås.",
+      "path": "knowledge_base/sentences/sent-fika-ja-vi-tar-kort-och-swish.md",
+      "body": "# 🇸🇪 Ja, vi tar både kort och Swish. Kontant också, förstås.\n\n🇨🇳 可以，我们支持刷卡和 Swish，当然也收现金。\n\n## 结构 (Structure)\n\n```\n[vi tar] [både kort och Swish] [Kontant också, förstås]\n  接受      刷卡和Swish两种         现金也行，当然\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *tar* 现在时\n- *Förstås* = 当然（当然了）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kontant]] (现金)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Ja, vi tar både kort och Swish. Kontant också, förstås. 🇨🇳 可以，我们支持刷卡和 Swish，当然也收现金。 结构 (Structure) [vi tar] [både kort och Swish] [Kontant också, förstås] 接受 刷卡和Swish两种 现金也行，当然 语法点 (Grammar) 📌 grammar presens — t",
+      "links": [
+        "grammar-presens",
+        "kontant",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Ja, vi tar både kort och Swish. Kontant också, förstås. sent-fika-ja-vi-tar-kort-och-swish knowledge_base/sentences/sent-fika-ja-vi-tar-kort-och-swish.md ---\ntype: sentence\nsentence: \"Ja, vi tar både kort och Swish. Kontant också, förstås.\"\nzh: 可以，我们支持刷卡和 Swish，当然也收现金。\ncefr: A2\nwords: [kontant]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-betalning]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ja, vi tar både kort och Swish. Kontant också, förstås.\n\n🇨🇳 可以，我们支持刷卡和 Swish，当然也收现金。\n\n## 结构 (Structure)\n\n```\n[vi tar] [både kort och Swish] [Kontant också, förstås]\n  接受      刷卡和Swish两种         现金也行，当然\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *tar* 现在时\n- *Förstås* = 当然（当然了）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kontant]] (现金)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "可以，我们支持刷卡和 Swish，当然也收现金。",
+      "created": "2026-06-09",
+      "sentence": "Ja, vi tar både kort och Swish. Kontant också, förstås.",
+      "words": [
+        "kontant"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-jag-betalar-med-swish",
+      "type": "sentence",
+      "title": "🇸🇪 Jag betalar med Swish.",
+      "path": "knowledge_base/sentences/sent-fika-jag-betalar-med-swish.md",
+      "body": "# 🇸🇪 Jag betalar med Swish.\n\n🇨🇳 我用 Swish 付。\n\n## 结构 (Structure)\n\n```\n[Jag] [betalar] [med Swish]\n  我     付钱      用 Swish\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *betalar* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[betala]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Jag betalar med Swish. 🇨🇳 我用 Swish 付。 结构 (Structure) [Jag] [betalar] [med Swish] 我 付钱 用 Swish 语法点 (Grammar) 📌 grammar presens — betalar 现在时 生词 & 词组 (Words & Phrases) 词: betala 来源 (Source) source 2026 06 09 fika p",
+      "links": [
+        "betala",
+        "grammar-presens",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Jag betalar med Swish. sent-fika-jag-betalar-med-swish knowledge_base/sentences/sent-fika-jag-betalar-med-swish.md ---\ntype: sentence\nsentence: \"Jag betalar med Swish.\"\nzh: 我用 Swish 付。\ncefr: A1\nwords: [betala]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-betalning]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Jag betalar med Swish.\n\n🇨🇳 我用 Swish 付。\n\n## 结构 (Structure)\n\n```\n[Jag] [betalar] [med Swish]\n  我     付钱      用 Swish\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *betalar* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[betala]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "我用 Swish 付。",
+      "created": "2026-06-09",
+      "sentence": "Jag betalar med Swish.",
+      "words": [
+        "betala"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-jag-cyklade-ut-till-landet",
+      "type": "sentence",
+      "title": "🇸🇈 Jag cyklade ut till landet på söndagen. Det var skönt att komma ut lite.",
+      "path": "knowledge_base/sentences/sent-fika-jag-cyklade-ut-till-landet.md",
+      "body": "# 🇸🇈 Jag cyklade ut till landet på söndagen. Det var skönt att komma ut lite.\n\n🇨🇳 我周日骑车去了郊外。出去透透气感觉真好。\n\n## 结构 (Structure)\n\n```\n[Jag cyklade ut] [till landet] [på söndagen]\n  我骑车出去了       到郊外          周日\n[Det var skönt] [att komma ut lite]\n  感觉真好          出去一下（不定式短语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *cyklade, var* 过去时\n- *att komma ut* = 不定式短语（to get out）\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇈 Jag cyklade ut till landet på söndagen. Det var skönt att komma ut lite. 🇨🇳 我周日骑车去了郊外。出去透透气感觉真好。 结构 (Structure) [Jag cyklade ut] [till landet] [på söndagen] 我骑车出去了 到郊外 周日 [Det var skönt] [att komma ut lite] 感觉真好 出",
+      "links": [
+        "grammar-preteritum",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇈 Jag cyklade ut till landet på söndagen. Det var skönt att komma ut lite. sent-fika-jag-cyklade-ut-till-landet knowledge_base/sentences/sent-fika-jag-cyklade-ut-till-landet.md ---\ntype: sentence\nsentence: \"Jag cyklade ut till landet på söndagen. Det var skönt att komma ut lite.\"\nzh: 我周日骑车去了郊外。出去透透气感觉真好。\ncefr: A2\nwords: []\nphrases: []\ngrammar: [grammar-preteritum, grammar-v2-ordfoljd]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇈 Jag cyklade ut till landet på söndagen. Det var skönt att komma ut lite.\n\n🇨🇳 我周日骑车去了郊外。出去透透气感觉真好。\n\n## 结构 (Structure)\n\n```\n[Jag cyklade ut] [till landet] [på söndagen]\n  我骑车出去了       到郊外          周日\n[Det var skönt] [att komma ut lite]\n  感觉真好          出去一下（不定式短语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *cyklade, var* 过去时\n- *att komma ut* = 不定式短语（to get out）\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "我周日骑车去了郊外。出去透透气感觉真好。",
+      "created": "2026-06-09",
+      "sentence": "Jag cyklade ut till landet på söndagen. Det var skönt att komma ut lite.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+      "type": "sentence",
+      "title": "🇸🇪 Jag skulle vilja ha en kanelbulle och en kopp te, tack.",
+      "path": "knowledge_base/sentences/sent-fika-jag-skulle-vilja-ha-kanelbulle.md",
+      "body": "# 🇸🇪 Jag skulle vilja ha en kanelbulle och en kopp te, tack.\n\n🇨🇳 我想要一个肉桂卷和一杯茶，谢谢。\n\n## 结构 (Structure)\n\n```\n[Jag] [skulle vilja ha] [en kanelbulle och en kopp te] [tack]\n  我    条件式礼貌请求        一个肉桂卷和一杯茶               谢谢\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-konditionalis]] — *skulle vilja ha* 条件式礼貌请求\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kanelbulle]], [[kopp]] (杯子), [[te]] (茶)\n- 词组: [[jag-skulle-vilja-ha]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Jag skulle vilja ha en kanelbulle och en kopp te, tack. 🇨🇳 我想要一个肉桂卷和一杯茶，谢谢。 结构 (Structure) [Jag] [skulle vilja ha] [en kanelbulle och en kopp te] [tack] 我 条件式礼貌请求 一个肉桂卷和一杯茶 谢谢 语法点 (Grammar) 📌 grammar konditionali",
+      "links": [
+        "grammar-konditionalis",
+        "jag-skulle-vilja-ha",
+        "kanelbulle",
+        "kopp",
+        "source-2026-06-09-fika-pa-cafe",
+        "te"
+      ],
+      "searchText": "🇸🇪 Jag skulle vilja ha en kanelbulle och en kopp te, tack. sent-fika-jag-skulle-vilja-ha-kanelbulle knowledge_base/sentences/sent-fika-jag-skulle-vilja-ha-kanelbulle.md ---\ntype: sentence\nsentence: \"Jag skulle vilja ha en kanelbulle och en kopp te, tack.\"\nzh: 我想要一个肉桂卷和一杯茶，谢谢。\ncefr: A2\nwords: [kanelbulle, kopp, te]\nphrases: [jag-skulle-vilja-ha]\ngrammar: [grammar-konditionalis]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Jag skulle vilja ha en kanelbulle och en kopp te, tack.\n\n🇨🇳 我想要一个肉桂卷和一杯茶，谢谢。\n\n## 结构 (Structure)\n\n```\n[Jag] [skulle vilja ha] [en kanelbulle och en kopp te] [tack]\n  我    条件式礼貌请求        一个肉桂卷和一杯茶               谢谢\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-konditionalis]] — *skulle vilja ha* 条件式礼貌请求\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kanelbulle]], [[kopp]] (杯子), [[te]] (茶)\n- 词组: [[jag-skulle-vilja-ha]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "我想要一个肉桂卷和一杯茶，谢谢。",
+      "created": "2026-06-09",
+      "sentence": "Jag skulle vilja ha en kanelbulle och en kopp te, tack.",
+      "words": [
+        "kanelbulle",
+        "kopp",
+        "te"
+      ],
+      "phrases": [
+        "jag-skulle-vilja-ha"
+      ],
+      "grammar": [
+        "grammar-konditionalis"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-jag-var-hemma-mest",
+      "type": "sentence",
+      "title": "🇸🇪 Jag var hemma mest, men på lördagen gick jag på konsert med några kompisar.",
+      "path": "knowledge_base/sentences/sent-fika-jag-var-hemma-mest.md",
+      "body": "# 🇸🇪 Jag var hemma mest, men på lördagen gick jag på konsert med några kompisar.\n\n🇨🇳 我大部分时间在家，不过周六和几个朋友去听了场音乐会。\n\n## 结构 (Structure)\n\n```\n[Jag var hemma mest,] [men på lördagen] [gick jag] [på konsert] [med några kompisar]\n   大部分在家              但周六              我去了      听音乐会       和几个朋友\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *var, gick* 过去时\n- 📌 [[grammar-v2-ordfoljd]] — *på lördagen* 前置，*gick* 在第二位\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[mest]] (大部分), [[konsert]] (音乐会)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Jag var hemma mest, men på lördagen gick jag på konsert med några kompisar. 🇨🇳 我大部分时间在家，不过周六和几个朋友去听了场音乐会。 结构 (Structure) [Jag var hemma mest,] [men på lördagen] [gick jag] [på konsert] [med några kompisar] 大部分在家 但",
+      "links": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd",
+        "konsert",
+        "mest",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Jag var hemma mest, men på lördagen gick jag på konsert med några kompisar. sent-fika-jag-var-hemma-mest knowledge_base/sentences/sent-fika-jag-var-hemma-mest.md ---\ntype: sentence\nsentence: \"Jag var hemma mest, men på lördagen gick jag på konsert med några kompisar.\"\nzh: 我大部分时间在家，不过周六和几个朋友去听了场音乐会。\ncefr: A2\nwords: [mest, konsert]\nphrases: []\ngrammar: [grammar-preteritum, grammar-v2-ordfoljd]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Jag var hemma mest, men på lördagen gick jag på konsert med några kompisar.\n\n🇨🇳 我大部分时间在家，不过周六和几个朋友去听了场音乐会。\n\n## 结构 (Structure)\n\n```\n[Jag var hemma mest,] [men på lördagen] [gick jag] [på konsert] [med några kompisar]\n   大部分在家              但周六              我去了      听音乐会       和几个朋友\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *var, gick* 过去时\n- 📌 [[grammar-v2-ordfoljd]] — *på lördagen* 前置，*gick* 在第二位\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[mest]] (大部分), [[konsert]] (音乐会)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "我大部分时间在家，不过周六和几个朋友去听了场音乐会。",
+      "created": "2026-06-09",
+      "sentence": "Jag var hemma mest, men på lördagen gick jag på konsert med några kompisar.",
+      "words": [
+        "mest",
+        "konsert"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-jo-det-har-gatt-bra",
+      "type": "sentence",
+      "title": "🇸🇪 Jo, det har gått bra, tack. Lite stressigt med jobbet, men annars är det bra. Och du?",
+      "path": "knowledge_base/sentences/sent-fika-jo-det-har-gatt-bra.md",
+      "body": "# 🇸🇪 Jo, det har gått bra, tack. Lite stressigt med jobbet, men annars är det bra. Och du?\n\n🇨🇳 嗯，还不错，谢谢。工作有点紧张，不过其他方面都挺好的。你呢？\n\n## 结构 (Structure)\n\n```\n[Jo, det har gått bra] [Lite stressigt med jobbet] [men annars är det bra]\n  还不错（开头）           工作有点紧张（话题）           但其他方面都好（转折）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[annars]] (其他方面)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Jo, det har gått bra, tack. Lite stressigt med jobbet, men annars är det bra. Och du? 🇨🇳 嗯，还不错，谢谢。工作有点紧张，不过其他方面都挺好的。你呢？ 结构 (Structure) [Jo, det har gått bra] [Lite stressigt med jobbet] [men annars är det bra] 还不错",
+      "links": [
+        "annars",
+        "grammar-presens",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Jo, det har gått bra, tack. Lite stressigt med jobbet, men annars är det bra. Och du? sent-fika-jo-det-har-gatt-bra knowledge_base/sentences/sent-fika-jo-det-har-gatt-bra.md ---\ntype: sentence\nsentence: \"Jo, det har gått bra, tack. Lite stressigt med jobbet, men annars är det bra. Och du?\"\nzh: 嗯，还不错，谢谢。工作有点紧张，不过其他方面都挺好的。你呢？\ncefr: A2\nwords: [annars]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Jo, det har gått bra, tack. Lite stressigt med jobbet, men annars är det bra. Och du?\n\n🇨🇳 嗯，还不错，谢谢。工作有点紧张，不过其他方面都挺好的。你呢？\n\n## 结构 (Structure)\n\n```\n[Jo, det har gått bra] [Lite stressigt med jobbet] [men annars är det bra]\n  还不错（开头）           工作有点紧张（话题）           但其他方面都好（转折）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[annars]] (其他方面)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "嗯，还不错，谢谢。工作有点紧张，不过其他方面都挺好的。你呢？",
+      "created": "2026-06-09",
+      "sentence": "Jo, det har gått bra, tack. Lite stressigt med jobbet, men annars är det bra. Och du?",
+      "words": [
+        "annars"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-johan-det-var-länge-sedan",
+      "type": "sentence",
+      "title": "🇸🇪 Johan! Det var länge sedan! Hur har du haft det?",
+      "path": "knowledge_base/sentences/sent-fika-johan-det-var-länge-sedan.md",
+      "body": "# 🇸🇪 Johan! Det var länge sedan! Hur har du haft det?\n\n🇨🇳 约翰！好久不见！你最近怎么样？\n\n## 结构 (Structure)\n\n```\n[Johan!] [Det var länge sedan!] [Hur har du haft det?]\n  称呼       感叹（好久不见）         寒暄问候\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *var* (was) 过去时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[det-var-länge-sedan]], [[hur-har-du-haft-det]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Johan! Det var länge sedan! Hur har du haft det? 🇨🇳 约翰！好久不见！你最近怎么样？ 结构 (Structure) [Johan!] [Det var länge sedan!] [Hur har du haft det?] 称呼 感叹（好久不见） 寒暄问候 语法点 (Grammar) 📌 grammar preteritum — var (was) 过去时 生词 & 词",
+      "links": [
+        "det-var-länge-sedan",
+        "grammar-preteritum",
+        "hur-har-du-haft-det",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Johan! Det var länge sedan! Hur har du haft det? sent-fika-johan-det-var-länge-sedan knowledge_base/sentences/sent-fika-johan-det-var-länge-sedan.md ---\ntype: sentence\nsentence: \"Johan! Det var länge sedan! Hur har du haft det?\"\nzh: 约翰！好久不见！你最近怎么样？\ncefr: A2\nwords: []\nphrases: [det-var-länge-sedan, hur-har-du-haft-det]\ngrammar: [grammar-preteritum]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Johan! Det var länge sedan! Hur har du haft det?\n\n🇨🇳 约翰！好久不见！你最近怎么样？\n\n## 结构 (Structure)\n\n```\n[Johan!] [Det var länge sedan!] [Hur har du haft det?]\n  称呼       感叹（好久不见）         寒暄问候\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *var* (was) 过去时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[det-var-länge-sedan]], [[hur-har-du-haft-det]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "约翰！好久不见！你最近怎么样？",
+      "created": "2026-06-09",
+      "sentence": "Johan! Det var länge sedan! Hur har du haft det?",
+      "words": [],
+      "phrases": [
+        "det-var-länge-sedan",
+        "hur-har-du-haft-det"
+      ],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-men-det-löser-sig",
+      "type": "sentence",
+      "title": "🇸🇪 Men det löser sig.",
+      "path": "knowledge_base/sentences/sent-fika-men-det-löser-sig.md",
+      "body": "# 🇸🇪 Men det löser sig.\n\n🇨🇳 不过会解决的。\n\n## 结构 (Structure)\n\n```\n[Men] [det löser sig]\n  但    会解决的（习语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *löser* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lösa]]\n- 词组: [[det-löser-sig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Men det löser sig. 🇨🇳 不过会解决的。 结构 (Structure) [Men] [det löser sig] 但 会解决的（习语） 语法点 (Grammar) 📌 grammar presens — löser 现在时 生词 & 词组 (Words & Phrases) 词: lösa 词组: det löser sig 来源 (Source) source 2026 06 09 fika pa ",
+      "links": [
+        "det-löser-sig",
+        "grammar-presens",
+        "lösa",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Men det löser sig. sent-fika-men-det-löser-sig knowledge_base/sentences/sent-fika-men-det-löser-sig.md ---\ntype: sentence\nsentence: \"Men det löser sig.\"\nzh: 不过会解决的。\ncefr: A2\nwords: [lösa]\nphrases: [det-löser-sig]\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Men det löser sig.\n\n🇨🇳 不过会解决的。\n\n## 结构 (Structure)\n\n```\n[Men] [det löser sig]\n  但    会解决的（习语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *löser* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lösa]]\n- 词组: [[det-löser-sig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "不过会解决的。",
+      "created": "2026-06-09",
+      "sentence": "Men det löser sig.",
+      "words": [
+        "lösa"
+      ],
+      "phrases": [
+        "det-löser-sig"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-men-nu-tar-vi-en-fika",
+      "type": "sentence",
+      "title": "🇸🇪 Men nu tar vi en fika, eller hur? Jag är riktigt hungrig.",
+      "path": "knowledge_base/sentences/sent-fika-men-nu-tar-vi-en-fika.md",
+      "body": "# 🇸🇪 Men nu tar vi en fika, eller hur? Jag är riktigt hungrig.\n\n🇨🇳 不过现在我们去喝个下午茶吧，对吧？我真的饿了。\n\n## 结构 (Structure)\n\n```\n[Men nu] [tar] [vi] [en fika] [eller hur?]\n  转折副词   V2    主    宾        反问句尾\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Men nu* 前置，动词 *tar* 在第二位\n- 📌 [[grammar-presens]] — *tar, är* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fika]] (下午茶), [[riktigt]] (真的)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Men nu tar vi en fika, eller hur? Jag är riktigt hungrig. 🇨🇳 不过现在我们去喝个下午茶吧，对吧？我真的饿了。 结构 (Structure) [Men nu] [tar] [vi] [en fika] [eller hur?] 转折副词 V2 主 宾 反问句尾 语法点 (Grammar) 📌 grammar v2 ordfoljd — Men nu 前置，动词 t",
+      "links": [
+        "fika",
+        "grammar-presens",
+        "grammar-v2-ordfoljd",
+        "riktigt",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Men nu tar vi en fika, eller hur? Jag är riktigt hungrig. sent-fika-men-nu-tar-vi-en-fika knowledge_base/sentences/sent-fika-men-nu-tar-vi-en-fika.md ---\ntype: sentence\nsentence: \"Men nu tar vi en fika, eller hur? Jag är riktigt hungrig.\"\nzh: 不过现在我们去喝个下午茶吧，对吧？我真的饿了。\ncefr: A2\nwords: [fika, riktigt]\nphrases: []\ngrammar: [grammar-presens, grammar-v2-ordfoljd]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Men nu tar vi en fika, eller hur? Jag är riktigt hungrig.\n\n🇨🇳 不过现在我们去喝个下午茶吧，对吧？我真的饿了。\n\n## 结构 (Structure)\n\n```\n[Men nu] [tar] [vi] [en fika] [eller hur?]\n  转折副词   V2    主    宾        反问句尾\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Men nu* 前置，动词 *tar* 在第二位\n- 📌 [[grammar-presens]] — *tar, är* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fika]] (下午茶), [[riktigt]] (真的)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "不过现在我们去喝个下午茶吧，对吧？我真的饿了。",
+      "created": "2026-06-09",
+      "sentence": "Men nu tar vi en fika, eller hur? Jag är riktigt hungrig.",
+      "words": [
+        "fika",
+        "riktigt"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-men-vi-har-farsk-kanelbulle",
+      "type": "sentence",
+      "title": "🇸🇪 Men vi har färska kanelbullar och kardemummabullar. De kom ut ur ugnen för en timme sedan.",
+      "path": "knowledge_base/sentences/sent-fika-men-vi-har-farsk-kanelbulle.md",
+      "body": "# 🇸🇪 Men vi har färska kanelbullar och kardemummabullar. De kom ut ur ugnen för en timme sedan.\n\n🇨🇳 不过我们有新鲜的肉桂卷和小豆蔻卷。一小时前刚从烤箱里出来的。\n\n## 结构 (Structure)\n\n```\n[Men vi har] [färska kanelbullar och kardemummabullar]\n   转折+现在时        形容词+名词列举\n[De kom ut ur ugnen] [för en timme sedan]\n    从烤箱出来（过去时）    时间状语（一小时前）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n- 📌 [[grammar-preteritum]] — *kom* 过去时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[färsk]] (新鲜的), [[kanelbulle]], [[kardemummabulle]], [[ugn]] (烤箱)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Men vi har färska kanelbullar och kardemummabullar. De kom ut ur ugnen för en timme sedan. 🇨🇳 不过我们有新鲜的肉桂卷和小豆蔻卷。一小时前刚从烤箱里出来的。 结构 (Structure) [Men vi har] [färska kanelbullar och kardemummabullar] 转折+现在时 形容词+名词列举 [D",
+      "links": [
+        "färsk",
+        "grammar-presens",
+        "grammar-preteritum",
+        "kanelbulle",
+        "kardemummabulle",
+        "source-2026-06-09-fika-pa-cafe",
+        "ugn"
+      ],
+      "searchText": "🇸🇪 Men vi har färska kanelbullar och kardemummabullar. De kom ut ur ugnen för en timme sedan. sent-fika-men-vi-har-farsk-kanelbulle knowledge_base/sentences/sent-fika-men-vi-har-farsk-kanelbulle.md ---\ntype: sentence\nsentence: \"Men vi har färska kanelbullar och kardemummabullar. De kom ut ur ugnen för en timme sedan.\"\nzh: 不过我们有新鲜的肉桂卷和小豆蔻卷。一小时前刚从烤箱里出来的。\ncefr: A2\nwords: [färsk, kanelbulle, kardemummabulle, ugn]\nphrases: []\ngrammar: [grammar-preteritum, grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Men vi har färska kanelbullar och kardemummabullar. De kom ut ur ugnen för en timme sedan.\n\n🇨🇳 不过我们有新鲜的肉桂卷和小豆蔻卷。一小时前刚从烤箱里出来的。\n\n## 结构 (Structure)\n\n```\n[Men vi har] [färska kanelbullar och kardemummabullar]\n   转折+现在时        形容词+名词列举\n[De kom ut ur ugnen] [för en timme sedan]\n    从烤箱出来（过去时）    时间状语（一小时前）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n- 📌 [[grammar-preteritum]] — *kom* 过去时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[färsk]] (新鲜的), [[kanelbulle]], [[kardemummabulle]], [[ugn]] (烤箱)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "不过我们有新鲜的肉桂卷和小豆蔻卷。一小时前刚从烤箱里出来的。",
+      "created": "2026-06-09",
+      "sentence": "Men vi har färska kanelbullar och kardemummabullar. De kom ut ur ugnen för en timme sedan.",
+      "words": [
+        "färsk",
+        "kanelbulle",
+        "kardemummabulle",
+        "ugn"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-nej-tack-det-är-bra-så",
+      "type": "sentence",
+      "title": "🇸🇪 Nej tack, det är bra så. Tack!",
+      "path": "knowledge_base/sentences/sent-fika-nej-tack-det-är-bra-så.md",
+      "body": "# 🇸🇪 Nej tack, det är bra så. Tack!\n\n🇨🇳 不用了，谢谢，这样就好。谢谢！\n\n## 结构 (Structure)\n\n```\n[Nej tack,] [det är bra så.] [Tack!]\n   礼貌拒绝    固定表达          再次道谢\n```\n\n## 词组 (Phrases)\n\n- 词组: [[det-är-bra-så]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Nej tack, det är bra så. Tack! 🇨🇳 不用了，谢谢，这样就好。谢谢！ 结构 (Structure) [Nej tack,] [det är bra så.] [Tack!] 礼貌拒绝 固定表达 再次道谢 词组 (Phrases) 词组: det är bra så 来源 (Source) source 2026 06 09 fika pa cafe",
+      "links": [
+        "det-är-bra-så",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Nej tack, det är bra så. Tack! sent-fika-nej-tack-det-är-bra-så knowledge_base/sentences/sent-fika-nej-tack-det-är-bra-så.md ---\ntype: sentence\nsentence: \"Nej tack, det är bra så. Tack!\"\nzh: 不用了，谢谢，这样就好。谢谢！\ncefr: A1\nwords: []\nphrases: [det-är-bra-så]\ngrammar: []\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Nej tack, det är bra så. Tack!\n\n🇨🇳 不用了，谢谢，这样就好。谢谢！\n\n## 结构 (Structure)\n\n```\n[Nej tack,] [det är bra så.] [Tack!]\n   礼貌拒绝    固定表达          再次道谢\n```\n\n## 词组 (Phrases)\n\n- 词组: [[det-är-bra-så]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "不用了，谢谢，这样就好。谢谢！",
+      "created": "2026-06-09",
+      "sentence": "Nej tack, det är bra så. Tack!",
+      "words": [],
+      "phrases": [
+        "det-är-bra-så"
+      ],
+      "grammar": [],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-nej-tack-det-räcker-bra-så",
+      "type": "sentence",
+      "title": "🇸🇪 Nej tack, det räcker bra så.",
+      "path": "knowledge_base/sentences/sent-fika-nej-tack-det-räcker-bra-så.md",
+      "body": "# 🇸🇪 Nej tack, det räcker bra så.\n\n🇨🇳 不用了谢谢，这就够了。\n\n## 结构 (Structure)\n\n```\n[Nej tack,] [det räcker bra så]\n   礼貌拒绝    固定表达（够了）\n```\n\n## 词组 (Phrases)\n\n- 词组: [[det-räcker-bra-så]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Nej tack, det räcker bra så. 🇨🇳 不用了谢谢，这就够了。 结构 (Structure) [Nej tack,] [det räcker bra så] 礼貌拒绝 固定表达（够了） 词组 (Phrases) 词组: det räcker bra så 来源 (Source) source 2026 06 09 fika pa cafe",
+      "links": [
+        "det-räcker-bra-så",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Nej tack, det räcker bra så. sent-fika-nej-tack-det-räcker-bra-så knowledge_base/sentences/sent-fika-nej-tack-det-räcker-bra-så.md ---\ntype: sentence\nsentence: \"Nej tack, det räcker bra så.\"\nzh: 不用了谢谢，这就够了。\ncefr: A1\nwords: []\nphrases: [det-räcker-bra-så]\ngrammar: []\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Nej tack, det räcker bra så.\n\n🇨🇳 不用了谢谢，这就够了。\n\n## 结构 (Structure)\n\n```\n[Nej tack,] [det räcker bra så]\n   礼貌拒绝    固定表达（够了）\n```\n\n## 词组 (Phrases)\n\n- 词组: [[det-räcker-bra-så]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "不用了谢谢，这就够了。",
+      "created": "2026-06-09",
+      "sentence": "Nej tack, det räcker bra så.",
+      "words": [],
+      "phrases": [
+        "det-räcker-bra-så"
+      ],
+      "grammar": [],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-också-hektiskt-men-roligt",
+      "type": "sentence",
+      "title": "🇸🇪 Också hektiskt, men roligt. Alltså, jag har fått lite mer ansvar nu, vilket är kul.",
+      "path": "knowledge_base/sentences/sent-fika-också-hektiskt-men-roligt.md",
+      "body": "# 🇸🇪 Också hektiskt, men roligt. Alltså, jag har fått lite mer ansvar nu, vilket är kul.\n\n🇨🇳 也挺忙的，但很有意思。其实，我最近多了一些责任，这很不错。\n\n## 结构 (Structure)\n\n```\n[Också hektiskt, men roligt.] [jag har fått lite mer ansvar nu]\n   也很忙但有趣（省略句）            我最近获得了更多责任\n[vilket är kul]\n  这很不错（关系从句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har, är* 现在时\n- *Vilket* 引导关系从句，指代整个情况\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hektisk]] (繁忙的), [[ansvar]] (责任)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Också hektiskt, men roligt. Alltså, jag har fått lite mer ansvar nu, vilket är kul. 🇨🇳 也挺忙的，但很有意思。其实，我最近多了一些责任，这很不错。 结构 (Structure) [Också hektiskt, men roligt.] [jag har fått lite mer ansvar nu] 也很忙但有趣（省略句） 我最近获得",
+      "links": [
+        "ansvar",
+        "grammar-presens",
+        "hektisk",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Också hektiskt, men roligt. Alltså, jag har fått lite mer ansvar nu, vilket är kul. sent-fika-också-hektiskt-men-roligt knowledge_base/sentences/sent-fika-också-hektiskt-men-roligt.md ---\ntype: sentence\nsentence: \"Också hektiskt, men roligt. Alltså, jag har fått lite mer ansvar nu, vilket är kul.\"\nzh: 也挺忙的，但很有意思。其实，我最近多了一些责任，这很不错。\ncefr: B1\nwords: [hektisk, ansvar]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-arbete]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Också hektiskt, men roligt. Alltså, jag har fått lite mer ansvar nu, vilket är kul.\n\n🇨🇳 也挺忙的，但很有意思。其实，我最近多了一些责任，这很不错。\n\n## 结构 (Structure)\n\n```\n[Också hektiskt, men roligt.] [jag har fått lite mer ansvar nu]\n   也很忙但有趣（省略句）            我最近获得了更多责任\n[vilket är kul]\n  这很不错（关系从句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har, är* 现在时\n- *Vilket* 引导关系从句，指代整个情况\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hektisk]] (繁忙的), [[ansvar]] (责任)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "B1",
+      "zh": "也挺忙的，但很有意思。其实，我最近多了一些责任，这很不错。",
+      "created": "2026-06-09",
+      "sentence": "Också hektiskt, men roligt. Alltså, jag har fått lite mer ansvar nu, vilket är kul.",
+      "words": [
+        "hektisk",
+        "ansvar"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-arbete"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-oj-vad-gott-det-ser-ut",
+      "type": "sentence",
+      "title": "🇸🇪 Oj, vad gott det ser ut! Finns det semla idag?",
+      "path": "knowledge_base/sentences/sent-fika-oj-vad-gott-det-ser-ut.md",
+      "body": "# 🇸🇪 Oj, vad gott det ser ut! Finns det semla idag?\n\n🇨🇳 哇，看起来好好吃！今天有 semla 吗？\n\n## 结构 (Structure)\n\n```\n[Oj, vad gott det ser ut!] [Finns det semla idag?]\n     感叹句（多好吃啊！）         存在疑问句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-biff]] — 感叹句中 *det ser* 的语序\n- 📌 [[grammar-presens]] — *ser, finns* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[semla]] (奶油小圆面包)\n- 词组: [[finns-det]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Oj, vad gott det ser ut! Finns det semla idag? 🇨🇳 哇，看起来好好吃！今天有 semla 吗？ 结构 (Structure) [Oj, vad gott det ser ut!] [Finns det semla idag?] 感叹句（多好吃啊！） 存在疑问句 语法点 (Grammar) 📌 grammar bisats biff — 感叹句中 det ser 的语序 📌",
+      "links": [
+        "finns-det",
+        "grammar-bisats-biff",
+        "grammar-presens",
+        "semla",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Oj, vad gott det ser ut! Finns det semla idag? sent-fika-oj-vad-gott-det-ser-ut knowledge_base/sentences/sent-fika-oj-vad-gott-det-ser-ut.md ---\ntype: sentence\nsentence: \"Oj, vad gott det ser ut! Finns det semla idag?\"\nzh: 哇，看起来好好吃！今天有 semla 吗？\ncefr: A2\nwords: [semla]\nphrases: [finns-det]\ngrammar: [grammar-presens, grammar-bisats-biff]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Oj, vad gott det ser ut! Finns det semla idag?\n\n🇨🇳 哇，看起来好好吃！今天有 semla 吗？\n\n## 结构 (Structure)\n\n```\n[Oj, vad gott det ser ut!] [Finns det semla idag?]\n     感叹句（多好吃啊！）         存在疑问句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-biff]] — 感叹句中 *det ser* 的语序\n- 📌 [[grammar-presens]] — *ser, finns* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[semla]] (奶油小圆面包)\n- 词组: [[finns-det]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "哇，看起来好好吃！今天有 semla 吗？",
+      "created": "2026-06-09",
+      "sentence": "Oj, vad gott det ser ut! Finns det semla idag?",
+      "words": [
+        "semla"
+      ],
+      "phrases": [
+        "finns-det"
+      ],
+      "grammar": [
+        "grammar-presens",
+        "grammar-bisats-biff"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-perfekt-det-tar-jag",
+      "type": "sentence",
+      "title": "🇸🇪 Perfekt, det tar jag då.",
+      "path": "knowledge_base/sentences/sent-fika-perfekt-det-tar-jag.md",
+      "body": "# 🇸🇪 Perfekt, det tar jag då.\n\n🇨🇳 太好了，那我就要那个。\n\n## 结构 (Structure)\n\n```\n[Perfekt,] [det] [tar] [jag] [då]\n   太好了    那个   V2    主    那么/那\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *det* 前置作话题，动词 *tar* 在第二位\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Perfekt, det tar jag då. 🇨🇳 太好了，那我就要那个。 结构 (Structure) [Perfekt,] [det] [tar] [jag] [då] 太好了 那个 V2 主 那么/那 语法点 (Grammar) 📌 grammar v2 ordfoljd — det 前置作话题，动词 tar 在第二位 来源 (Source) source 2026 06 09 fika pa cafe",
+      "links": [
+        "grammar-v2-ordfoljd",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Perfekt, det tar jag då. sent-fika-perfekt-det-tar-jag knowledge_base/sentences/sent-fika-perfekt-det-tar-jag.md ---\ntype: sentence\nsentence: \"Perfekt, det tar jag då.\"\nzh: 太好了，那我就要那个。\ncefr: A1\nwords: []\nphrases: []\ngrammar: [grammar-presens, grammar-v2-ordfoljd]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Perfekt, det tar jag då.\n\n🇨🇳 太好了，那我就要那个。\n\n## 结构 (Structure)\n\n```\n[Perfekt,] [det] [tar] [jag] [då]\n   太好了    那个   V2    主    那么/那\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *det* 前置作话题，动词 *tar* 在第二位\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "太好了，那我就要那个。",
+      "created": "2026-06-09",
+      "sentence": "Perfekt, det tar jag då.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-ska-vi-ga-in-mysigt",
+      "type": "sentence",
+      "title": "🇸🇪 Ska vi gå in? Det ser mysigt ut där inne.",
+      "path": "knowledge_base/sentences/sent-fika-ska-vi-ga-in-mysigt.md",
+      "body": "# 🇸🇪 Ska vi gå in? Det ser mysigt ut där inne.\n\n🇨🇳 我们进去吧？里面看起来很温馨。\n\n## 结构 (Structure)\n\n```\n[Ska vi gå in?] [Det ser mysigt ut] [där inne]\n    建议/邀请      看起来很温馨（感知动词结构）   在那里面\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *ska, ser* 现在时\n- *Ser...ut* = partikelverb \"look/seem\" 结构\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[mysig]] (温馨的), [[inne]] (里面)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Ska vi gå in? Det ser mysigt ut där inne. 🇨🇳 我们进去吧？里面看起来很温馨。 结构 (Structure) [Ska vi gå in?] [Det ser mysigt ut] [där inne] 建议/邀请 看起来很温馨（感知动词结构） 在那里面 语法点 (Grammar) 📌 grammar presens — ska, ser 现在时 Ser...ut = parti",
+      "links": [
+        "grammar-presens",
+        "inne",
+        "mysig",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Ska vi gå in? Det ser mysigt ut där inne. sent-fika-ska-vi-ga-in-mysigt knowledge_base/sentences/sent-fika-ska-vi-ga-in-mysigt.md ---\ntype: sentence\nsentence: \"Ska vi gå in? Det ser mysigt ut där inne.\"\nzh: 我们进去吧？里面看起来很温馨。\ncefr: A2\nwords: [mysig, inne]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ska vi gå in? Det ser mysigt ut där inne.\n\n🇨🇳 我们进去吧？里面看起来很温馨。\n\n## 结构 (Structure)\n\n```\n[Ska vi gå in?] [Det ser mysigt ut] [där inne]\n    建议/邀请      看起来很温馨（感知动词结构）   在那里面\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *ska, ser* 现在时\n- *Ser...ut* = partikelverb \"look/seem\" 结构\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[mysig]] (温馨的), [[inne]] (里面)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "我们进去吧？里面看起来很温馨。",
+      "created": "2026-06-09",
+      "sentence": "Ska vi gå in? Det ser mysigt ut där inne.",
+      "words": [
+        "mysig",
+        "inne"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-tack-så-mycket-vill-ni-ha-kvitto",
+      "type": "sentence",
+      "title": "🇸🇪 Tack så mycket! Vill ni ha kvitto?",
+      "path": "knowledge_base/sentences/sent-fika-tack-så-mycket-vill-ni-ha-kvitto.md",
+      "body": "# 🇸🇪 Tack så mycket! Vill ni ha kvitto?\n\n🇨🇳 非常感谢！需要收据吗？\n\n## 结构 (Structure)\n\n```\n[Tack så mycket!] [Vill ni ha kvitto?]\n   非常感谢！         需要收据吗？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *vill* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kvitto]] (收据)\n- 词组: [[tack-så-mycket]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Tack så mycket! Vill ni ha kvitto? 🇨🇳 非常感谢！需要收据吗？ 结构 (Structure) [Tack så mycket!] [Vill ni ha kvitto?] 非常感谢！ 需要收据吗？ 语法点 (Grammar) 📌 grammar presens — vill 现在时 生词 & 词组 (Words & Phrases) 词: kvitto (收据) 词组: tack så",
+      "links": [
+        "grammar-presens",
+        "kvitto",
+        "source-2026-06-09-fika-pa-cafe",
+        "tack-så-mycket"
+      ],
+      "searchText": "🇸🇪 Tack så mycket! Vill ni ha kvitto? sent-fika-tack-så-mycket-vill-ni-ha-kvitto knowledge_base/sentences/sent-fika-tack-så-mycket-vill-ni-ha-kvitto.md ---\ntype: sentence\nsentence: \"Tack så mycket! Vill ni ha kvitto?\"\nzh: 非常感谢！需要收据吗？\ncefr: A1\nwords: [kvitto]\nphrases: [tack-så-mycket]\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-betalning]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Tack så mycket! Vill ni ha kvitto?\n\n🇨🇳 非常感谢！需要收据吗？\n\n## 结构 (Structure)\n\n```\n[Tack så mycket!] [Vill ni ha kvitto?]\n   非常感谢！         需要收据吗？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *vill* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kvitto]] (收据)\n- 词组: [[tack-så-mycket]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "非常感谢！需要收据吗？",
+      "created": "2026-06-09",
+      "sentence": "Tack så mycket! Vill ni ha kvitto?",
+      "words": [
+        "kvitto"
+      ],
+      "phrases": [
+        "tack-så-mycket"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-tar-ni-kort",
+      "type": "sentence",
+      "title": "🇸🇪 Tar ni kort?",
+      "path": "knowledge_base/sentences/sent-fika-tar-ni-kort.md",
+      "body": "# 🇸🇪 Tar ni kort?\n\n🇨🇳 你们刷卡吗？\n\n## 结构 (Structure)\n\n```\n[Tar] [ni] [kort]?\n  V1   主    宾\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *tar* 现在时（疑问句，主谓倒装）\n\n## 词组 (Phrases)\n\n- 词组: [[tar-ni-kort]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Tar ni kort? 🇨🇳 你们刷卡吗？ 结构 (Structure) [Tar] [ni] [kort]? V1 主 宾 语法点 (Grammar) 📌 grammar presens — tar 现在时（疑问句，主谓倒装） 词组 (Phrases) 词组: tar ni kort 来源 (Source) source 2026 06 09 fika pa cafe",
+      "links": [
+        "grammar-presens",
+        "source-2026-06-09-fika-pa-cafe",
+        "tar-ni-kort"
+      ],
+      "searchText": "🇸🇪 Tar ni kort? sent-fika-tar-ni-kort knowledge_base/sentences/sent-fika-tar-ni-kort.md ---\ntype: sentence\nsentence: \"Tar ni kort?\"\nzh: 你们刷卡吗？\ncefr: A1\nwords: []\nphrases: [tar-ni-kort]\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-betalning]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Tar ni kort?\n\n🇨🇳 你们刷卡吗？\n\n## 结构 (Structure)\n\n```\n[Tar] [ni] [kort]?\n  V1   主    宾\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *tar* 现在时（疑问句，主谓倒装）\n\n## 词组 (Phrases)\n\n- 词组: [[tar-ni-kort]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "你们刷卡吗？",
+      "created": "2026-06-09",
+      "sentence": "Tar ni kort?",
+      "words": [],
+      "phrases": [
+        "tar-ni-kort"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-tyvärr-semlan-är-bara",
+      "type": "sentence",
+      "title": "🇸🇪 Tyvärr, semlan är bara till på vintern.",
+      "path": "knowledge_base/sentences/sent-fika-tyvärr-semlan-är-bara.md",
+      "body": "# 🇸🇪 Tyvärr, semlan är bara till på vintern.\n\n🇨🇳 可惜，semla 只在冬天供应。\n\n## 结构 (Structure)\n\n```\n[Tyvärr] [semlan] [är] [bara till] [på vintern]\n  遗憾     主语      V2    只供应      在冬天\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Tyvärr* 前置，动词 *är* 在第二位\n- 📌 [[grammar-presens]] — *är* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tyvärr]] (遗憾地), [[semla]] (奶油小圆面包)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Tyvärr, semlan är bara till på vintern. 🇨🇳 可惜，semla 只在冬天供应。 结构 (Structure) [Tyvärr] [semlan] [är] [bara till] [på vintern] 遗憾 主语 V2 只供应 在冬天 语法点 (Grammar) 📌 grammar v2 ordfoljd — Tyvärr 前置，动词 är 在第二位 📌 grammar pr",
+      "links": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd",
+        "semla",
+        "source-2026-06-09-fika-pa-cafe",
+        "tyvärr"
+      ],
+      "searchText": "🇸🇪 Tyvärr, semlan är bara till på vintern. sent-fika-tyvärr-semlan-är-bara knowledge_base/sentences/sent-fika-tyvärr-semlan-är-bara.md ---\ntype: sentence\nsentence: \"Tyvärr, semlan är bara till på vintern.\"\nzh: 可惜，semla 只在冬天供应。\ncefr: A2\nwords: [tyvärr, semla]\nphrases: []\ngrammar: [grammar-presens, grammar-v2-ordfoljd]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Tyvärr, semlan är bara till på vintern.\n\n🇨🇳 可惜，semla 只在冬天供应。\n\n## 结构 (Structure)\n\n```\n[Tyvärr] [semlan] [är] [bara till] [på vintern]\n  遗憾     主语      V2    只供应      在冬天\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Tyvärr* 前置，动词 *är* 在第二位\n- 📌 [[grammar-presens]] — *är* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tyvärr]] (遗憾地), [[semla]] (奶油小圆面包)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "可惜，semla 只在冬天供应。",
+      "created": "2026-06-09",
+      "sentence": "Tyvärr, semlan är bara till på vintern.",
+      "words": [
+        "tyvärr",
+        "semla"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-ungefar-likadant-faktiskt",
+      "type": "sentence",
+      "title": "🇸🇪 Ungefär likadant, faktiskt.",
+      "path": "knowledge_base/sentences/sent-fika-ungefar-likadant-faktiskt.md",
+      "body": "# 🇸🇪 Ungefär likadant, faktiskt.\n\n🇨🇳 差不多一样，说实话。\n\n## 结构 (Structure)\n\n```\n[Ungefär likadant] [faktiskt]\n  差不多一样          说实话（强调词）\n```\n\n## 语法点 (Grammar)\n\n- 省略句，没有明显主谓结构；*faktiskt* 作强调副词置于句末。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[faktiskt]] (说实话；实际上)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Ungefär likadant, faktiskt. 🇨🇳 差不多一样，说实话。 结构 (Structure) [Ungefär likadant] [faktiskt] 差不多一样 说实话（强调词） 语法点 (Grammar) 省略句，没有明显主谓结构； faktiskt 作强调副词置于句末。 生词 & 词组 (Words & Phrases) 词: faktiskt (说实话；实际上) 来源 (Source) sou",
+      "links": [
+        "faktiskt",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Ungefär likadant, faktiskt. sent-fika-ungefar-likadant-faktiskt knowledge_base/sentences/sent-fika-ungefar-likadant-faktiskt.md ---\ntype: sentence\nsentence: \"Ungefär likadant, faktiskt.\"\nzh: 差不多一样，说实话。\ncefr: A2\nwords: [faktiskt]\nphrases: []\ngrammar: []\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ungefär likadant, faktiskt.\n\n🇨🇳 差不多一样，说实话。\n\n## 结构 (Structure)\n\n```\n[Ungefär likadant] [faktiskt]\n  差不多一样          说实话（强调词）\n```\n\n## 语法点 (Grammar)\n\n- 省略句，没有明显主谓结构；*faktiskt* 作强调副词置于句末。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[faktiskt]] (说实话；实际上)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "差不多一样，说实话。",
+      "created": "2026-06-09",
+      "sentence": "Ungefär likadant, faktiskt.",
+      "words": [
+        "faktiskt"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-ursäkta-har-ni-kardemummate",
+      "type": "sentence",
+      "title": "🇸🇪 Ursäkta, har ni kardemummate?",
+      "path": "knowledge_base/sentences/sent-fika-ursäkta-har-ni-kardemummate.md",
+      "body": "# 🇸🇪 Ursäkta, har ni kardemummate?\n\n🇨🇳 不好意思，你们有小豆蔻茶吗？\n\n## 结构 (Structure)\n\n```\n[Ursäkta] [har ni] [kardemummate]?\n  打扰/礼貌   有你们     小豆蔻茶？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时（疑问句主谓倒装）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kardemummate]] (小豆蔻茶)\n- 词组: [[har-ni]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Ursäkta, har ni kardemummate? 🇨🇳 不好意思，你们有小豆蔻茶吗？ 结构 (Structure) [Ursäkta] [har ni] [kardemummate]? 打扰/礼貌 有你们 小豆蔻茶？ 语法点 (Grammar) 📌 grammar presens — har 现在时（疑问句主谓倒装） 生词 & 词组 (Words & Phrases) 词: kardemummate (小豆蔻茶",
+      "links": [
+        "grammar-presens",
+        "har-ni",
+        "kardemummate",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Ursäkta, har ni kardemummate? sent-fika-ursäkta-har-ni-kardemummate knowledge_base/sentences/sent-fika-ursäkta-har-ni-kardemummate.md ---\ntype: sentence\nsentence: \"Ursäkta, har ni kardemummate?\"\nzh: 不好意思，你们有小豆蔻茶吗？\ncefr: A2\nwords: [kardemummate]\nphrases: [har-ni]\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ursäkta, har ni kardemummate?\n\n🇨🇳 不好意思，你们有小豆蔻茶吗？\n\n## 结构 (Structure)\n\n```\n[Ursäkta] [har ni] [kardemummate]?\n  打扰/礼貌   有你们     小豆蔻茶？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时（疑问句主谓倒装）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kardemummate]] (小豆蔻茶)\n- 词组: [[har-ni]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "不好意思，你们有小豆蔻茶吗？",
+      "created": "2026-06-09",
+      "sentence": "Ursäkta, har ni kardemummate?",
+      "words": [
+        "kardemummate"
+      ],
+      "phrases": [
+        "har-ni"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-ursäkta-vad-sa-du-hörde-inte",
+      "type": "sentence",
+      "title": "🇸🇪 Ursäkta, vad sa du? Jag hörde inte riktigt.",
+      "path": "knowledge_base/sentences/sent-fika-ursäkta-vad-sa-du-hörde-inte.md",
+      "body": "# 🇸🇪 Ursäkta, vad sa du? Jag hörde inte riktigt.\n\n🇨🇳 不好意思，你刚才说什么？我没听清楚。\n\n## 结构 (Structure)\n\n```\n[Ursäkta,] [vad sa du?] [Jag hörde inte riktigt.]\n   打扰       你说了什么？   我没有很清楚地听到。\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *sa, hörde* 过去时\n- 📌 [[grammar-bisats-biff]] — *inte* 在动词后（主句位置）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[riktigt]] (清楚地；真的)\n- 词组: [[ursäkta-vad-sa-du]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Ursäkta, vad sa du? Jag hörde inte riktigt. 🇨🇳 不好意思，你刚才说什么？我没听清楚。 结构 (Structure) [Ursäkta,] [vad sa du?] [Jag hörde inte riktigt.] 打扰 你说了什么？ 我没有很清楚地听到。 语法点 (Grammar) 📌 grammar preteritum — sa, hörde 过去时 📌 gramma",
+      "links": [
+        "grammar-bisats-biff",
+        "grammar-preteritum",
+        "riktigt",
+        "source-2026-06-09-fika-pa-cafe",
+        "ursäkta-vad-sa-du"
+      ],
+      "searchText": "🇸🇪 Ursäkta, vad sa du? Jag hörde inte riktigt. sent-fika-ursäkta-vad-sa-du-hörde-inte knowledge_base/sentences/sent-fika-ursäkta-vad-sa-du-hörde-inte.md ---\ntype: sentence\nsentence: \"Ursäkta, vad sa du? Jag hörde inte riktigt.\"\nzh: 不好意思，你刚才说什么？我没听清楚。\ncefr: A2\nwords: [riktigt]\nphrases: [ursäkta-vad-sa-du]\ngrammar: [grammar-preteritum, grammar-bisats-biff]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ursäkta, vad sa du? Jag hörde inte riktigt.\n\n🇨🇳 不好意思，你刚才说什么？我没听清楚。\n\n## 结构 (Structure)\n\n```\n[Ursäkta,] [vad sa du?] [Jag hörde inte riktigt.]\n   打扰       你说了什么？   我没有很清楚地听到。\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *sa, hörde* 过去时\n- 📌 [[grammar-bisats-biff]] — *inte* 在动词后（主句位置）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[riktigt]] (清楚地；真的)\n- 词组: [[ursäkta-vad-sa-du]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "不好意思，你刚才说什么？我没听清楚。",
+      "created": "2026-06-09",
+      "sentence": "Ursäkta, vad sa du? Jag hörde inte riktigt.",
+      "words": [
+        "riktigt"
+      ],
+      "phrases": [
+        "ursäkta-vad-sa-du"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-bisats-biff"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-vad-bra-det-låter-lovande",
+      "type": "sentence",
+      "title": "🇸🇪 Vad bra! Det låter lovande.",
+      "path": "knowledge_base/sentences/sent-fika-vad-bra-det-låter-lovande.md",
+      "body": "# 🇸🇪 Vad bra! Det låter lovande.\n\n🇨🇳 太好了！听起来很有前途。\n\n## 结构 (Structure)\n\n```\n[Vad bra!] [Det låter lovande.]\n  太好了！     听起来很有前途。\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *låter* 现在时\n- *Det låter* + adj = 听起来...（感知动词结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lovande]] (有前途的)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Vad bra! Det låter lovande. 🇨🇳 太好了！听起来很有前途。 结构 (Structure) [Vad bra!] [Det låter lovande.] 太好了！ 听起来很有前途。 语法点 (Grammar) 📌 grammar presens — låter 现在时 Det låter + adj = 听起来...（感知动词结构） 生词 & 词组 (Words & Phrases) 词: l",
+      "links": [
+        "grammar-presens",
+        "lovande",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Vad bra! Det låter lovande. sent-fika-vad-bra-det-låter-lovande knowledge_base/sentences/sent-fika-vad-bra-det-låter-lovande.md ---\ntype: sentence\nsentence: \"Vad bra! Det låter lovande.\"\nzh: 太好了！听起来很有前途。\ncefr: A2\nwords: [lovande]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vad bra! Det låter lovande.\n\n🇨🇳 太好了！听起来很有前途。\n\n## 结构 (Structure)\n\n```\n[Vad bra!] [Det låter lovande.]\n  太好了！     听起来很有前途。\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *låter* 现在时\n- *Det låter* + adj = 听起来...（感知动词结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lovande]] (有前途的)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "太好了！听起来很有前途。",
+      "created": "2026-06-09",
+      "sentence": "Vad bra! Det låter lovande.",
+      "words": [
+        "lovande"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-vad-har-ni-för-kaffe",
+      "type": "sentence",
+      "title": "🇸🇪 Vad har ni för kaffe?",
+      "path": "knowledge_base/sentences/sent-fika-vad-har-ni-för-kaffe.md",
+      "body": "# 🇸🇪 Vad har ni för kaffe?\n\n🇨🇳 你们有什么咖啡？\n\n## 结构 (Structure)\n\n```\n[Vad] [har] [ni] [för kaffe]?\n 什么   有    你们    (类型是)咖啡\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n- *Vad...för* = 什么类型的（疑问结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[har-ni]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Vad har ni för kaffe? 🇨🇳 你们有什么咖啡？ 结构 (Structure) [Vad] [har] [ni] [för kaffe]? 什么 有 你们 (类型是)咖啡 语法点 (Grammar) 📌 grammar presens — har 现在时 Vad...för = 什么类型的（疑问结构） 生词 & 词组 (Words & Phrases) 词组: har ni 来源 (Source) so",
+      "links": [
+        "grammar-presens",
+        "har-ni",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Vad har ni för kaffe? sent-fika-vad-har-ni-för-kaffe knowledge_base/sentences/sent-fika-vad-har-ni-för-kaffe.md ---\ntype: sentence\nsentence: \"Vad har ni för kaffe?\"\nzh: 你们有什么咖啡？\ncefr: A1\nwords: []\nphrases: [har-ni]\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vad har ni för kaffe?\n\n🇨🇳 你们有什么咖啡？\n\n## 结构 (Structure)\n\n```\n[Vad] [har] [ni] [för kaffe]?\n 什么   有    你们    (类型是)咖啡\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n- *Vad...för* = 什么类型的（疑问结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[har-ni]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "你们有什么咖啡？",
+      "created": "2026-06-09",
+      "sentence": "Vad har ni för kaffe?",
+      "words": [],
+      "phrases": [
+        "har-ni"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-varsågod-hoppas-det-smakar",
+      "type": "sentence",
+      "title": "🇸🇪 Varsågod! Hoppas det smakar!",
+      "path": "knowledge_base/sentences/sent-fika-varsågod-hoppas-det-smakar.md",
+      "body": "# 🇸🇪 Varsågod! Hoppas det smakar!\n\n🇨🇳 不客气！希望你们喜欢！\n\n## 结构 (Structure)\n\n```\n[Varsågod!] [Hoppas det smakar!]\n   不客气/给你！   希望好吃！\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-biff]] — *att-sats* 省略，*det smakar* 作从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hoppas]] (希望), [[smaka]] (好吃)\n- 词组: [[varsågod]], [[hoppas-det-smakar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Varsågod! Hoppas det smakar! 🇨🇳 不客气！希望你们喜欢！ 结构 (Structure) [Varsågod!] [Hoppas det smakar!] 不客气/给你！ 希望好吃！ 语法点 (Grammar) 📌 grammar bisats biff — att sats 省略， det smakar 作从句 生词 & 词组 (Words & Phrases) 词: hoppas (希望)",
+      "links": [
+        "grammar-bisats-biff",
+        "hoppas",
+        "hoppas-det-smakar",
+        "smaka",
+        "source-2026-06-09-fika-pa-cafe",
+        "varsågod"
+      ],
+      "searchText": "🇸🇪 Varsågod! Hoppas det smakar! sent-fika-varsågod-hoppas-det-smakar knowledge_base/sentences/sent-fika-varsågod-hoppas-det-smakar.md ---\ntype: sentence\nsentence: \"Varsågod! Hoppas det smakar!\"\nzh: 不客气！希望你们喜欢！\ncefr: A1\nwords: [hoppas, smaka]\nphrases: [varsågod, hoppas-det-smakar]\ngrammar: [grammar-bisats-biff]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Varsågod! Hoppas det smakar!\n\n🇨🇳 不客气！希望你们喜欢！\n\n## 结构 (Structure)\n\n```\n[Varsågod!] [Hoppas det smakar!]\n   不客气/给你！   希望好吃！\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-biff]] — *att-sats* 省略，*det smakar* 作从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hoppas]] (希望), [[smaka]] (好吃)\n- 词组: [[varsågod]], [[hoppas-det-smakar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "不客气！希望你们喜欢！",
+      "created": "2026-06-09",
+      "sentence": "Varsågod! Hoppas det smakar!",
+      "words": [
+        "hoppas",
+        "smaka"
+      ],
+      "phrases": [
+        "varsågod",
+        "hoppas-det-smakar"
+      ],
+      "grammar": [
+        "grammar-bisats-biff"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-vi-får-ses-oftare",
+      "type": "sentence",
+      "title": "🇸🇪 Vi får ses oftare och hålla kontakten, Johan.",
+      "path": "knowledge_base/sentences/sent-fika-vi-får-ses-oftare.md",
+      "body": "# 🇸🇪 Vi får ses oftare och hålla kontakten, Johan.\n\n🇨🇳 我们得更常见面、保持联系，约翰。\n\n## 结构 (Structure)\n\n```\n[Vi får] [ses oftare] [och hålla kontakten]\n  我们应该    更常见面        和保持联系\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *får* 现在时\n- 📌 [[grammar-partikelverb]] — *hålla kontakten*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[vi-får-ses-oftare]], [[hålla-kontakten]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Vi får ses oftare och hålla kontakten, Johan. 🇨🇳 我们得更常见面、保持联系，约翰。 结构 (Structure) [Vi får] [ses oftare] [och hålla kontakten] 我们应该 更常见面 和保持联系 语法点 (Grammar) 📌 grammar presens — får 现在时 📌 grammar partikelverb — hål",
+      "links": [
+        "grammar-partikelverb",
+        "grammar-presens",
+        "hålla-kontakten",
+        "source-2026-06-09-fika-pa-cafe",
+        "vi-får-ses-oftare"
+      ],
+      "searchText": "🇸🇪 Vi får ses oftare och hålla kontakten, Johan. sent-fika-vi-får-ses-oftare knowledge_base/sentences/sent-fika-vi-får-ses-oftare.md ---\ntype: sentence\nsentence: \"Vi får ses oftare och hålla kontakten, Johan.\"\nzh: 我们得更常见面、保持联系，约翰。\ncefr: A2\nwords: []\nphrases: [vi-får-ses-oftare, hålla-kontakten]\ngrammar: [grammar-presens, grammar-partikelverb]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vi får ses oftare och hålla kontakten, Johan.\n\n🇨🇳 我们得更常见面、保持联系，约翰。\n\n## 结构 (Structure)\n\n```\n[Vi får] [ses oftare] [och hålla kontakten]\n  我们应该    更常见面        和保持联系\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *får* 现在时\n- 📌 [[grammar-partikelverb]] — *hålla kontakten*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[vi-får-ses-oftare]], [[hålla-kontakten]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "我们得更常见面、保持联系，约翰。",
+      "created": "2026-06-09",
+      "sentence": "Vi får ses oftare och hålla kontakten, Johan.",
+      "words": [],
+      "phrases": [
+        "vi-får-ses-oftare",
+        "hålla-kontakten"
+      ],
+      "grammar": [
+        "grammar-presens",
+        "grammar-partikelverb"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-vi-har-espresso-latte",
+      "type": "sentence",
+      "title": "🇸🇪 Vi har espresso, latte, cappuccino och vanligt bryggkaffe.",
+      "path": "knowledge_base/sentences/sent-fika-vi-har-espresso-latte.md",
+      "body": "# 🇸🇪 Vi har espresso, latte, cappuccino och vanligt bryggkaffe.\n\n🇨🇳 我们有浓缩咖啡、拿铁、卡布奇诺和普通滴滤咖啡。\n\n## 结构 (Structure)\n\n```\n[Vi har] [espresso, latte, cappuccino] [och vanligt bryggkaffe]\n  有        列举饮品种类                     和普通滴滤咖啡\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[espresso]], [[latte]], [[cappuccino]], [[bryggkaffe]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Vi har espresso, latte, cappuccino och vanligt bryggkaffe. 🇨🇳 我们有浓缩咖啡、拿铁、卡布奇诺和普通滴滤咖啡。 结构 (Structure) [Vi har] [espresso, latte, cappuccino] [och vanligt bryggkaffe] 有 列举饮品种类 和普通滴滤咖啡 语法点 (Grammar) 📌 grammar presen",
+      "links": [
+        "bryggkaffe",
+        "cappuccino",
+        "espresso",
+        "grammar-presens",
+        "latte",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Vi har espresso, latte, cappuccino och vanligt bryggkaffe. sent-fika-vi-har-espresso-latte knowledge_base/sentences/sent-fika-vi-har-espresso-latte.md ---\ntype: sentence\nsentence: \"Vi har espresso, latte, cappuccino och vanligt bryggkaffe.\"\nzh: 我们有浓缩咖啡、拿铁、卡布奇诺和普通滴滤咖啡。\ncefr: A1\nwords: [espresso, latte, cappuccino, bryggkaffe]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vi har espresso, latte, cappuccino och vanligt bryggkaffe.\n\n🇨🇳 我们有浓缩咖啡、拿铁、卡布奇诺和普通滴滤咖啡。\n\n## 结构 (Structure)\n\n```\n[Vi har] [espresso, latte, cappuccino] [och vanligt bryggkaffe]\n  有        列举饮品种类                     和普通滴滤咖啡\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[espresso]], [[latte]], [[cappuccino]], [[bryggkaffe]]\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "我们有浓缩咖啡、拿铁、卡布奇诺和普通滴滤咖啡。",
+      "created": "2026-06-09",
+      "sentence": "Vi har espresso, latte, cappuccino och vanligt bryggkaffe.",
+      "words": [
+        "espresso",
+        "latte",
+        "cappuccino",
+        "bryggkaffe"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-vi-har-ett-stort-projekt",
+      "type": "sentence",
+      "title": "🇸🇪 Vi har ett stort projekt som ska vara klart i nästa månad.",
+      "path": "knowledge_base/sentences/sent-fika-vi-har-ett-stort-projekt.md",
+      "body": "# 🇸🇪 Vi har ett stort projekt som ska vara klart i nästa månad.\n\n🇨🇳 我们有个大项目下个月要完成。\n\n## 结构 (Structure)\n\n```\n[Vi har] [ett stort projekt] [som ska vara klart] [i nästa månad]\n  我们有     一个大项目             要完成的（关系从句）     下个月\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har, ska* 现在时\n- 📌 [[grammar-bisats-biff]] — *som*-bisats 中的语序\n- *Som* 引导定语从句\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Vi har ett stort projekt som ska vara klart i nästa månad. 🇨🇳 我们有个大项目下个月要完成。 结构 (Structure) [Vi har] [ett stort projekt] [som ska vara klart] [i nästa månad] 我们有 一个大项目 要完成的（关系从句） 下个月 语法点 (Grammar) 📌 grammar prese",
+      "links": [
+        "grammar-bisats-biff",
+        "grammar-presens",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Vi har ett stort projekt som ska vara klart i nästa månad. sent-fika-vi-har-ett-stort-projekt knowledge_base/sentences/sent-fika-vi-har-ett-stort-projekt.md ---\ntype: sentence\nsentence: \"Vi har ett stort projekt som ska vara klart i nästa månad.\"\nzh: 我们有个大项目下个月要完成。\ncefr: B1\nwords: []\nphrases: []\ngrammar: [grammar-presens, grammar-bisats-biff]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-arbete]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vi har ett stort projekt som ska vara klart i nästa månad.\n\n🇨🇳 我们有个大项目下个月要完成。\n\n## 结构 (Structure)\n\n```\n[Vi har] [ett stort projekt] [som ska vara klart] [i nästa månad]\n  我们有     一个大项目             要完成的（关系从句）     下个月\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har, ska* 现在时\n- 📌 [[grammar-bisats-biff]] — *som*-bisats 中的语序\n- *Som* 引导定语从句\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "B1",
+      "zh": "我们有个大项目下个月要完成。",
+      "created": "2026-06-09",
+      "sentence": "Vi har ett stort projekt som ska vara klart i nästa månad.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-bisats-biff"
+      ],
+      "topics": [
+        "topic-arbete"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-vill-du-sitta-utomhus-eller-inne",
+      "type": "sentence",
+      "title": "🇸🇪 Vill du sitta utomhus eller inne?",
+      "path": "knowledge_base/sentences/sent-fika-vill-du-sitta-utomhus-eller-inne.md",
+      "body": "# 🇸🇪 Vill du sitta utomhus eller inne?\n\n🇨🇳 你想坐外面还是里面？\n\n## 结构 (Structure)\n\n```\n[Vill du] [sitta] [utomhus eller inne]?\n  你想       坐        外面还是里面？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *vill* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[utomhus]] (户外), [[inne]] (里面)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Vill du sitta utomhus eller inne? 🇨🇳 你想坐外面还是里面？ 结构 (Structure) [Vill du] [sitta] [utomhus eller inne]? 你想 坐 外面还是里面？ 语法点 (Grammar) 📌 grammar presens — vill 现在时 生词 & 词组 (Words & Phrases) 词: utomhus (户外), inne (里面) ",
+      "links": [
+        "grammar-presens",
+        "inne",
+        "source-2026-06-09-fika-pa-cafe",
+        "utomhus"
+      ],
+      "searchText": "🇸🇪 Vill du sitta utomhus eller inne? sent-fika-vill-du-sitta-utomhus-eller-inne knowledge_base/sentences/sent-fika-vill-du-sitta-utomhus-eller-inne.md ---\ntype: sentence\nsentence: \"Vill du sitta utomhus eller inne?\"\nzh: 你想坐外面还是里面？\ncefr: A1\nwords: [utomhus, inne]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: []\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vill du sitta utomhus eller inne?\n\n🇨🇳 你想坐外面还是里面？\n\n## 结构 (Structure)\n\n```\n[Vill du] [sitta] [utomhus eller inne]?\n  你想       坐        外面还是里面？\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *vill* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[utomhus]] (户外), [[inne]] (里面)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A1",
+      "zh": "你想坐外面还是里面？",
+      "created": "2026-06-09",
+      "sentence": "Vill du sitta utomhus eller inne?",
+      "words": [
+        "utomhus",
+        "inne"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-fika-vill-ni-ha-något-annat",
+      "type": "sentence",
+      "title": "🇸🇪 Vill ni ha något annat? Vi har också paj och smörgåsar.",
+      "path": "knowledge_base/sentences/sent-fika-vill-ni-ha-något-annat.md",
+      "body": "# 🇸🇪 Vill ni ha något annat? Vi har också paj och smörgåsar.\n\n🇨🇳 还需要其他东西吗？我们还有果馅饼和三明治。\n\n## 结构 (Structure)\n\n```\n[Vill ni ha något annat?] [Vi har också] [paj och smörgåsar]\n   还想要其他东西吗？         我们还有           馅饼和三明治\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *vill, har* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[paj]] (馅饼), [[smörgås]] (三明治)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]",
+      "excerpt": "🇸🇪 Vill ni ha något annat? Vi har också paj och smörgåsar. 🇨🇳 还需要其他东西吗？我们还有果馅饼和三明治。 结构 (Structure) [Vill ni ha något annat?] [Vi har också] [paj och smörgåsar] 还想要其他东西吗？ 我们还有 馅饼和三明治 语法点 (Grammar) 📌 grammar presens —",
+      "links": [
+        "grammar-presens",
+        "paj",
+        "smörgås",
+        "source-2026-06-09-fika-pa-cafe"
+      ],
+      "searchText": "🇸🇪 Vill ni ha något annat? Vi har också paj och smörgåsar. sent-fika-vill-ni-ha-något-annat knowledge_base/sentences/sent-fika-vill-ni-ha-något-annat.md ---\ntype: sentence\nsentence: \"Vill ni ha något annat? Vi har också paj och smörgåsar.\"\nzh: 还需要其他东西吗？我们还有果馅饼和三明治。\ncefr: A2\nwords: [paj, smörgås]\nphrases: []\ngrammar: [grammar-presens]\nsource: source-2026-06-09-fika-pa-cafe\ntopics: [topic-kafe-fika]\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vill ni ha något annat? Vi har också paj och smörgåsar.\n\n🇨🇳 还需要其他东西吗？我们还有果馅饼和三明治。\n\n## 结构 (Structure)\n\n```\n[Vill ni ha något annat?] [Vi har också] [paj och smörgåsar]\n   还想要其他东西吗？         我们还有           馅饼和三明治\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *vill, har* 现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[paj]] (馅饼), [[smörgås]] (三明治)\n\n## 来源 (Source)\n\n- [[source-2026-06-09-fika-pa-cafe]]\n",
+      "cefr": "A2",
+      "zh": "还需要其他东西吗？我们还有果馅饼和三明治。",
+      "created": "2026-06-09",
+      "sentence": "Vill ni ha något annat? Vi har också paj och smörgåsar.",
+      "words": [
+        "paj",
+        "smörgås"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-finns-det-en-skylt",
@@ -8415,6 +10564,195 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-09-fika-pa-cafe",
+      "type": "source",
+      "title": "Fika på kafé — Emma, Johan och kassören",
+      "path": "knowledge_base/sources/source-2026-06-09-fika-pa-cafe.md",
+      "body": "# 📄 Fika på kafé (咖啡馆下午茶情景对话)\n\n类型: dialogue (scenario) · 难度: A2-B1 · 来源: /scenario 生成\n\n## 原文 (Source Text)\n\n完整对话见 `inbox/scenario-2026-06-09-fika-pa-cafe.md`。三人情景：Emma、Johan\n偶遇并一起 fika，与 kassören 点单、付款、闲聊周末与工作。\n\n## 提取 (Extracted → linked notes)\n\n- 生词 / 词组 / 句子 / 语法: 见 frontmatter 列表（由 librarian 填充）",
+      "excerpt": "📄 Fika på kafé (咖啡馆下午茶情景对话) 类型: dialogue (scenario) · 难度: A2 B1 · 来源: /scenario 生成 原文 (Source Text) 完整对话见 inbox/scenario 2026 06 09 fika pa cafe.md 。三人情景：Emma、Johan 偶遇并一起 fika，与 kassören 点单、付款、闲聊周末与工作。 提取 (Extracted → l",
+      "links": [],
+      "searchText": "Fika på kafé — Emma, Johan och kassören source-2026-06-09-fika-pa-cafe knowledge_base/sources/source-2026-06-09-fika-pa-cafe.md ---\ntype: source\ntitle: \"Fika på kafé — Emma, Johan och kassören\"\nkind: dialogue\ncefr: A2-B1\ndate_added: 2026-06-09\nwords:\n  - fika\n  - kassör\n  - bakverksdisk\n  - semla\n  - kanelbulle\n  - kardemummabulle\n  - espresso\n  - latte\n  - cappuccino\n  - bryggkaffe\n  - mjölk\n  - kopp\n  - te\n  - kardemummate\n  - paj\n  - smörgås\n  - bricka\n  - krona\n  - öre\n  - kvitto\n  - kontant\n  - konditori\n  - ugn\n  - ansvar\n  - konsert\n  - mysig\n  - ledig\n  - ljus\n  - hektisk\n  - lovande\n  - färsk\n  - utomhus\n  - inne\n  - förresten\n  - faktiskt\n  - tyvärr\n  - totalt\n  - verkligen\n  - annars\n  - mest\n  - riktigt\n  - betala\n  - hoppas\n  - smaka\n  - skratta\n  - lösa\n  - verka\nphrases:\n  - det-var-länge-sedan\n  - hur-har-du-haft-det\n  - vad-får-det-vara\n  - jag-skulle-vilja-ha\n  - kan-jag-få\n  - finns-det\n  - har-ni\n  - med-eller-utan\n  - det-räcker-bra-så\n  - det-är-bra-så\n  - tack-så-mycket\n  - varsågod\n  - för-all-del\n  - det-blir-x-kronor\n  - tar-ni-kort\n  - ursäkta-vad-sa-du\n  - vad-gjorde-du-i-helgen\n  - hur-är-det-med-jobbet\n  - vi-får-ses-oftare\n  - vid-fönstret\n  - det-löser-sig\n  - hoppas-det-smakar\n  - hålla-kontakten\nsentences:\n  - sent-fika-johan-det-var-länge-sedan\n  - sent-fika-jo-det-har-gatt-bra\n  - sent-fika-ungefar-likadant-faktiskt\n  - sent-fika-men-nu-tar-vi-en-fika\n  - sent-fika-ska-vi-ga-in-mysigt\n  - sent-fika-hej-valkomna-vad-far-det-vara\n  - sent-fika-oj-vad-gott-det-ser-ut\n  - sent-fika-tyvärr-semlan-är-bara\n  - sent-fika-men-vi-har-farsk-kanelbulle\n  - sent-fika-då-tar-jag-en-kardemummabulle\n  - sent-fika-vad-har-ni-för-kaffe\n  - sent-fika-vi-har-espresso-latte\n  - sent-fika-allt-finns-med-eller-utan-mjölk\n  - sent-fika-en-latte-tack-stor\n  - sent-fika-jag-skulle-vilja-ha-kanelbulle\n  - sent-fika-ursäkta-har-ni-kardemummate\n  - sent-fika-ja-det-har-vi-jättepopulärt\n  - sent-fika-perfekt-det-tar-jag\n  - sent-fika-vill-ni-ha-något-annat\n  - sent-fika-nej-tack-det-räcker-bra-så\n  - sent-fika-det-blir-åttio-kronor\n  - sent-fika-ursäkta-vad-sa-du-hörde-inte\n  - sent-fika-åttio-kronor-och-tjugo-öre\n  - sent-fika-tar-ni-kort\n  - sent-fika-ja-vi-tar-kort-och-swish\n  - sent-fika-jag-betalar-med-swish\n  - sent-fika-tack-så-mycket-vill-ni-ha-kvitto\n  - sent-fika-nej-tack-det-är-bra-så\n  - sent-fika-varsågod-hoppas-det-smakar\n  - sent-fika-vill-du-sitta-utomhus-eller-inne\n  - sent-fika-det-är-så-soligt-idag\n  - sent-fika-då-är-det-ljust\n  - sent-fika-är-det-bordet-i-hörnet-ledigt\n  - sent-fika-ja-det-verkar-det\n  - sent-fika-förresten-vad-gjorde-du-i-helgen\n  - sent-fika-jag-var-hemma-mest\n  - sent-fika-det-var-jättekul\n  - sent-fika-jag-cyklade-ut-till-landet\n  - sent-fika-hur-är-det-med-jobbet\n  - sent-fika-vi-har-ett-stort-projekt\n  - sent-fika-men-det-löser-sig\n  - sent-fika-också-hektiskt-men-roligt\n  - sent-fika-vad-bra-det-låter-lovande\n  - sent-fika-vi-får-ses-oftare\n  - sent-fika-ja-verkligen-förresten-bulle\n  - sent-fika-det-smakar-ju-faktiskt-för-gott\n  - sent-fika-en-till-kanelbulle-skadar-väl-inte\ngrammar:\n  - grammar-konditionalis\n  - grammar-partikelverb\n---\n\n# 📄 Fika på kafé (咖啡馆下午茶情景对话)\n\n类型: dialogue (scenario) · 难度: A2-B1 · 来源: /scenario 生成\n\n## 原文 (Source Text)\n\n完整对话见 `inbox/scenario-2026-06-09-fika-pa-cafe.md`。三人情景：Emma、Johan\n偶遇并一起 fika，与 kassören 点单、付款、闲聊周末与工作。\n\n## 提取 (Extracted → linked notes)\n\n- 生词 / 词组 / 句子 / 语法: 见 frontmatter 列表（由 librarian 填充）\n",
+      "cefr": "A2-B1",
+      "date_added": "2026-06-09",
+      "kind": "dialogue",
+      "words": [
+        "fika",
+        "kassör",
+        "bakverksdisk",
+        "semla",
+        "kanelbulle",
+        "kardemummabulle",
+        "espresso",
+        "latte",
+        "cappuccino",
+        "bryggkaffe",
+        "mjölk",
+        "kopp",
+        "te",
+        "kardemummate",
+        "paj",
+        "smörgås",
+        "bricka",
+        "krona",
+        "öre",
+        "kvitto",
+        "kontant",
+        "konditori",
+        "ugn",
+        "ansvar",
+        "konsert",
+        "mysig",
+        "ledig",
+        "ljus",
+        "hektisk",
+        "lovande",
+        "färsk",
+        "utomhus",
+        "inne",
+        "förresten",
+        "faktiskt",
+        "tyvärr",
+        "totalt",
+        "verkligen",
+        "annars",
+        "mest",
+        "riktigt",
+        "betala",
+        "hoppas",
+        "smaka",
+        "skratta",
+        "lösa",
+        "verka"
+      ],
+      "phrases": [
+        "det-var-länge-sedan",
+        "hur-har-du-haft-det",
+        "vad-får-det-vara",
+        "jag-skulle-vilja-ha",
+        "kan-jag-få",
+        "finns-det",
+        "har-ni",
+        "med-eller-utan",
+        "det-räcker-bra-så",
+        "det-är-bra-så",
+        "tack-så-mycket",
+        "varsågod",
+        "för-all-del",
+        "det-blir-x-kronor",
+        "tar-ni-kort",
+        "ursäkta-vad-sa-du",
+        "vad-gjorde-du-i-helgen",
+        "hur-är-det-med-jobbet",
+        "vi-får-ses-oftare",
+        "vid-fönstret",
+        "det-löser-sig",
+        "hoppas-det-smakar",
+        "hålla-kontakten"
+      ],
+      "sentences": [
+        "sent-fika-johan-det-var-länge-sedan",
+        "sent-fika-jo-det-har-gatt-bra",
+        "sent-fika-ungefar-likadant-faktiskt",
+        "sent-fika-men-nu-tar-vi-en-fika",
+        "sent-fika-ska-vi-ga-in-mysigt",
+        "sent-fika-hej-valkomna-vad-far-det-vara",
+        "sent-fika-oj-vad-gott-det-ser-ut",
+        "sent-fika-tyvärr-semlan-är-bara",
+        "sent-fika-men-vi-har-farsk-kanelbulle",
+        "sent-fika-då-tar-jag-en-kardemummabulle",
+        "sent-fika-vad-har-ni-för-kaffe",
+        "sent-fika-vi-har-espresso-latte",
+        "sent-fika-allt-finns-med-eller-utan-mjölk",
+        "sent-fika-en-latte-tack-stor",
+        "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+        "sent-fika-ursäkta-har-ni-kardemummate",
+        "sent-fika-ja-det-har-vi-jättepopulärt",
+        "sent-fika-perfekt-det-tar-jag",
+        "sent-fika-vill-ni-ha-något-annat",
+        "sent-fika-nej-tack-det-räcker-bra-så",
+        "sent-fika-det-blir-åttio-kronor",
+        "sent-fika-ursäkta-vad-sa-du-hörde-inte",
+        "sent-fika-åttio-kronor-och-tjugo-öre",
+        "sent-fika-tar-ni-kort",
+        "sent-fika-ja-vi-tar-kort-och-swish",
+        "sent-fika-jag-betalar-med-swish",
+        "sent-fika-tack-så-mycket-vill-ni-ha-kvitto",
+        "sent-fika-nej-tack-det-är-bra-så",
+        "sent-fika-varsågod-hoppas-det-smakar",
+        "sent-fika-vill-du-sitta-utomhus-eller-inne",
+        "sent-fika-det-är-så-soligt-idag",
+        "sent-fika-då-är-det-ljust",
+        "sent-fika-är-det-bordet-i-hörnet-ledigt",
+        "sent-fika-ja-det-verkar-det",
+        "sent-fika-förresten-vad-gjorde-du-i-helgen",
+        "sent-fika-jag-var-hemma-mest",
+        "sent-fika-det-var-jättekul",
+        "sent-fika-jag-cyklade-ut-till-landet",
+        "sent-fika-hur-är-det-med-jobbet",
+        "sent-fika-vi-har-ett-stort-projekt",
+        "sent-fika-men-det-löser-sig",
+        "sent-fika-också-hektiskt-men-roligt",
+        "sent-fika-vad-bra-det-låter-lovande",
+        "sent-fika-vi-får-ses-oftare",
+        "sent-fika-ja-verkligen-förresten-bulle",
+        "sent-fika-det-smakar-ju-faktiskt-för-gott",
+        "sent-fika-en-till-kanelbulle-skadar-väl-inte"
+      ],
+      "grammar": [
+        "grammar-konditionalis",
+        "grammar-partikelverb"
+      ],
+      "backlinks": [
+        "sent-fika-allt-finns-med-eller-utan-mjölk",
+        "sent-fika-är-det-bordet-i-hörnet-ledigt",
+        "sent-fika-åttio-kronor-och-tjugo-öre",
+        "sent-fika-då-är-det-ljust",
+        "sent-fika-då-tar-jag-en-kardemummabulle",
+        "sent-fika-det-är-så-soligt-idag",
+        "sent-fika-det-blir-åttio-kronor",
+        "sent-fika-det-smakar-ju-faktiskt-för-gott",
+        "sent-fika-det-var-jättekul",
+        "sent-fika-en-latte-tack-stor",
+        "sent-fika-en-till-kanelbulle-skadar-väl-inte",
+        "sent-fika-förresten-vad-gjorde-du-i-helgen",
+        "sent-fika-hej-valkomna-vad-far-det-vara",
+        "sent-fika-hur-är-det-med-jobbet",
+        "sent-fika-ja-det-har-vi-jättepopulärt",
+        "sent-fika-ja-det-verkar-det",
+        "sent-fika-ja-verkligen-förresten-bulle",
+        "sent-fika-ja-vi-tar-kort-och-swish",
+        "sent-fika-jag-betalar-med-swish",
+        "sent-fika-jag-cyklade-ut-till-landet",
+        "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+        "sent-fika-jag-var-hemma-mest",
+        "sent-fika-jo-det-har-gatt-bra",
+        "sent-fika-johan-det-var-länge-sedan",
+        "sent-fika-men-det-löser-sig",
+        "sent-fika-men-nu-tar-vi-en-fika",
+        "sent-fika-men-vi-har-farsk-kanelbulle",
+        "sent-fika-nej-tack-det-är-bra-så",
+        "sent-fika-nej-tack-det-räcker-bra-så",
+        "sent-fika-också-hektiskt-men-roligt",
+        "sent-fika-oj-vad-gott-det-ser-ut",
+        "sent-fika-perfekt-det-tar-jag",
+        "sent-fika-ska-vi-ga-in-mysigt",
+        "sent-fika-tack-så-mycket-vill-ni-ha-kvitto",
+        "sent-fika-tar-ni-kort",
+        "sent-fika-tyvärr-semlan-är-bara",
+        "sent-fika-ungefar-likadant-faktiskt",
+        "sent-fika-ursäkta-har-ni-kardemummate",
+        "sent-fika-ursäkta-vad-sa-du-hörde-inte",
+        "sent-fika-vad-bra-det-låter-lovande",
+        "sent-fika-vad-har-ni-för-kaffe",
+        "sent-fika-varsågod-hoppas-det-smakar",
+        "sent-fika-vi-får-ses-oftare",
+        "sent-fika-vi-har-espresso-latte",
+        "sent-fika-vi-har-ett-stort-projekt",
+        "sent-fika-vill-du-sitta-utomhus-eller-inne",
+        "sent-fika-vill-ni-ha-något-annat"
+      ]
+    },
+    {
       "slug": "source-2026-06-09-rumsliga-relationer",
       "type": "source",
       "title": "Mitt rum och vardagsrummet — 空间关系练习文 (scenario)",
@@ -8929,13 +11267,47 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "kind": "semantic-field",
       "backlinks": [
+        "ansvar",
         "arbeta",
+        "hektisk",
         "index",
         "jobb",
         "jobba",
         "personal",
         "tjäna",
         "topic-yrken"
+      ]
+    },
+    {
+      "slug": "topic-betalning",
+      "type": "topic",
+      "title": "betalning",
+      "path": "knowledge_base/topics/topic-betalning.md",
+      "body": "# 🗂️ betalning — 支付与货币\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[krona]] — 克朗（瑞典货币）\n- [[öre]] — 厄雷（克朗的百分之一）\n- [[kvitto]] — 收据\n- [[kontant]] — 现金\n- [[betala]] — 支付\n- [[totalt]] — 总共\n- [[tar-ni-kort]] — 你们刷卡吗？\n- [[det-blir-x-kronor]] — 一共X克朗\n- [[kort]] — 卡；银行卡（已存在）\n\n## 备注 (Notes)\n\n- 在瑞典购物/用餐时的支付相关词汇。\n- 现代瑞典越来越无现金化，Swish（手机支付应用）和银行卡是最常见支付方式。\n- *Tar ni kort?* 是去任何商店必备的询问语。",
+      "excerpt": "🗂️ betalning — 支付与货币 类型: semantic field 成员 (Members) krona — 克朗（瑞典货币） öre — 厄雷（克朗的百分之一） kvitto — 收据 kontant — 现金 betala — 支付 totalt — 总共 tar ni kort — 你们刷卡吗？ det blir x kronor — 一共X克朗 kort — 卡；银行卡（已存在） 备注 (Notes) 在瑞典购物/",
+      "links": [
+        "betala",
+        "det-blir-x-kronor",
+        "kontant",
+        "kort",
+        "krona",
+        "kvitto",
+        "öre",
+        "tar-ni-kort",
+        "totalt"
+      ],
+      "searchText": "betalning topic-betalning knowledge_base/topics/topic-betalning.md ---\ntype: topic\nname: \"betalning\"\nkind: semantic-field\nzh: 支付与货币\nmembers:\n  - krona\n  - öre\n  - kvitto\n  - kontant\n  - betala\n  - totalt\n  - tar-ni-kort\n  - det-blir-x-kronor\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ betalning — 支付与货币\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[krona]] — 克朗（瑞典货币）\n- [[öre]] — 厄雷（克朗的百分之一）\n- [[kvitto]] — 收据\n- [[kontant]] — 现金\n- [[betala]] — 支付\n- [[totalt]] — 总共\n- [[tar-ni-kort]] — 你们刷卡吗？\n- [[det-blir-x-kronor]] — 一共X克朗\n- [[kort]] — 卡；银行卡（已存在）\n\n## 备注 (Notes)\n\n- 在瑞典购物/用餐时的支付相关词汇。\n- 现代瑞典越来越无现金化，Swish（手机支付应用）和银行卡是最常见支付方式。\n- *Tar ni kort?* 是去任何商店必备的询问语。\n",
+      "name": "betalning",
+      "zh": "支付与货币",
+      "created": "2026-06-09",
+      "kind": "semantic-field",
+      "backlinks": [
+        "betala",
+        "kontant",
+        "krona",
+        "kvitto",
+        "öre",
+        "totalt"
       ]
     },
     {
@@ -9307,6 +11679,70 @@ window.KB_DATA = {
         "vägg",
         "vardagsrum",
         "vatten"
+      ]
+    },
+    {
+      "slug": "topic-kafe-fika",
+      "type": "topic",
+      "title": "kafe-fika",
+      "path": "knowledge_base/topics/topic-kafe-fika.md",
+      "body": "# 🗂️ kafe-fika — 咖啡馆与下午茶\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[fika]] — 下午茶；咖啡时间\n- [[kassör]] — 收银员\n- [[bakverksdisk]] — 糕点展示柜\n- [[semla]] — 奶油小圆面包\n- [[kanelbulle]] — 肉桂卷\n- [[kardemummabulle]] — 小豆蔻卷\n- [[espresso]] — 浓缩咖啡\n- [[latte]] — 拿铁\n- [[cappuccino]] — 卡布奇诺\n- [[bryggkaffe]] — 滴滤咖啡\n- [[mjölk]] — 牛奶\n- [[kopp]] — 杯子\n- [[te]] — 茶\n- [[kardemummate]] — 小豆蔻茶\n- [[paj]] — 馅饼\n- [[smörgås]] — 三明治\n- [[bricka]] — 托盘\n- [[konditori]] — 糕点咖啡馆\n- [[kafé]] — 咖啡馆（已存在）\n- [[färsk]] — 新鲜的\n- [[smaka]] — 品尝；好吃\n- [[hoppas-det-smakar]] — 希望好吃\n- [[varsågod]] — 不客气；给你\n- [[vad-får-det-vara]] — 请问要点什么？\n- [[jag-skulle-vilja-ha]] — 我想要……\n- [[kan-jag-få]] — 请给我……\n- [[med-eller-utan]] — 加还是不加\n\n## 备注 (Notes)\n\n- 瑞典咖啡馆与 fika 文化词汇群。Fika 是瑞典人最重要的日常习惯之一，每天通常有 1-2 次。\n- 包含典型糕点（semla 冬季限定，kanelbulle 全年），咖啡种类，以及服务场合常用语。",
+      "excerpt": "🗂️ kafe fika — 咖啡馆与下午茶 类型: semantic field 成员 (Members) fika — 下午茶；咖啡时间 kassör — 收银员 bakverksdisk — 糕点展示柜 semla — 奶油小圆面包 kanelbulle — 肉桂卷 kardemummabulle — 小豆蔻卷 espresso — 浓缩咖啡 latte — 拿铁 cappuccino — 卡布奇诺 bryggkaffe — 滴",
+      "links": [
+        "bakverksdisk",
+        "bricka",
+        "bryggkaffe",
+        "cappuccino",
+        "espresso",
+        "färsk",
+        "fika",
+        "hoppas-det-smakar",
+        "jag-skulle-vilja-ha",
+        "kafé",
+        "kan-jag-få",
+        "kanelbulle",
+        "kardemummabulle",
+        "kardemummate",
+        "kassör",
+        "konditori",
+        "kopp",
+        "latte",
+        "med-eller-utan",
+        "mjölk",
+        "paj",
+        "semla",
+        "smaka",
+        "smörgås",
+        "te",
+        "vad-får-det-vara",
+        "varsågod"
+      ],
+      "searchText": "kafe-fika topic-kafe-fika knowledge_base/topics/topic-kafe-fika.md ---\ntype: topic\nname: \"kafe-fika\"\nkind: semantic-field\nzh: 咖啡馆与下午茶\nmembers:\n  - fika\n  - kassör\n  - bakverksdisk\n  - semla\n  - kanelbulle\n  - kardemummabulle\n  - espresso\n  - latte\n  - cappuccino\n  - bryggkaffe\n  - mjölk\n  - kopp\n  - te\n  - kardemummate\n  - paj\n  - smörgås\n  - bricka\n  - konditori\n  - kafé\n  - färsk\n  - smaka\n  - hoppas-det-smakar\n  - varsågod\n  - vad-får-det-vara\n  - jag-skulle-vilja-ha\n  - kan-jag-få\n  - med-eller-utan\n  - det-räcker-bra-så\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ kafe-fika — 咖啡馆与下午茶\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[fika]] — 下午茶；咖啡时间\n- [[kassör]] — 收银员\n- [[bakverksdisk]] — 糕点展示柜\n- [[semla]] — 奶油小圆面包\n- [[kanelbulle]] — 肉桂卷\n- [[kardemummabulle]] — 小豆蔻卷\n- [[espresso]] — 浓缩咖啡\n- [[latte]] — 拿铁\n- [[cappuccino]] — 卡布奇诺\n- [[bryggkaffe]] — 滴滤咖啡\n- [[mjölk]] — 牛奶\n- [[kopp]] — 杯子\n- [[te]] — 茶\n- [[kardemummate]] — 小豆蔻茶\n- [[paj]] — 馅饼\n- [[smörgås]] — 三明治\n- [[bricka]] — 托盘\n- [[konditori]] — 糕点咖啡馆\n- [[kafé]] — 咖啡馆（已存在）\n- [[färsk]] — 新鲜的\n- [[smaka]] — 品尝；好吃\n- [[hoppas-det-smakar]] — 希望好吃\n- [[varsågod]] — 不客气；给你\n- [[vad-får-det-vara]] — 请问要点什么？\n- [[jag-skulle-vilja-ha]] — 我想要……\n- [[kan-jag-få]] — 请给我……\n- [[med-eller-utan]] — 加还是不加\n\n## 备注 (Notes)\n\n- 瑞典咖啡馆与 fika 文化词汇群。Fika 是瑞典人最重要的日常习惯之一，每天通常有 1-2 次。\n- 包含典型糕点（semla 冬季限定，kanelbulle 全年），咖啡种类，以及服务场合常用语。\n",
+      "name": "kafe-fika",
+      "zh": "咖啡馆与下午茶",
+      "created": "2026-06-09",
+      "kind": "semantic-field",
+      "backlinks": [
+        "bakverksdisk",
+        "bricka",
+        "bryggkaffe",
+        "cappuccino",
+        "espresso",
+        "färsk",
+        "fika",
+        "kanelbulle",
+        "kardemummabulle",
+        "kardemummate",
+        "kassör",
+        "konditori",
+        "kopp",
+        "latte",
+        "mjölk",
+        "paj",
+        "semla",
+        "smaka",
+        "smörgås",
+        "te"
       ]
     },
     {
@@ -10221,6 +12657,7 @@ window.KB_DATA = {
         "bonde",
         "författare",
         "hemmafru",
+        "kassör",
         "proffs",
         "sekreterare",
         "source-2026-06-09-zlatan-bio",
@@ -10480,6 +12917,28 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "annars",
+      "type": "word",
+      "title": "annars",
+      "path": "knowledge_base/words/annars.md",
+      "body": "# annars — adverb\n\n📖 中文：否则；其他方面 · English: otherwise; apart from that\n发音提示：AN-nars\n\n## 语法变形 (Forms)\n\n- Adverb/konjunktion: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `men annars är det bra` — 但其他方面都好\n- `annars fungerar det` — 否则就不行了\n- `hur är det annars?` — 其他方面怎么样？\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lite stressigt med jobbet, men annars är det bra. — 🇨🇳 工作有点紧张，但其他方面都挺好的。\n- 🇸🇪 Du måste ta bussen, annars kommer du för sent. — 🇨🇳 你必须坐公共汽车，否则你就会迟到。\n- 🇸🇪 Hur mår du annars? — 🇨🇳 你其他方面怎么样？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: i övrigt (此外), för övrigt (其他方面)\n\n## 用法提示 (Usage Notes)\n\n- *Annars* 有两种含义：\n  1. 否则/要不然：*Ta en jacka, annars fryser du.* (拿件外套，否则你会冷)\n  2. 其他方面：*Lite jobbigt, men annars okej.* (有点难，但其他方面还好)",
+      "excerpt": "annars — adverb 📖 中文：否则；其他方面 · English: otherwise; apart from that 发音提示：AN nars 语法变形 (Forms) Adverb/konjunktion: oförändrad 词组搭配 (Collocations) men annars är det bra — 但其他方面都好 annars fungerar det — 否则就不行了 hur är det ann",
+      "links": [],
+      "searchText": "annars annars knowledge_base/words/annars.md ---\ntype: word\nlemma: \"annars\"\nordklass: adverb\ncefr: A2\nzh: 否则；其他方面\nen: otherwise; apart from that\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# annars — adverb\n\n📖 中文：否则；其他方面 · English: otherwise; apart from that\n发音提示：AN-nars\n\n## 语法变形 (Forms)\n\n- Adverb/konjunktion: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `men annars är det bra` — 但其他方面都好\n- `annars fungerar det` — 否则就不行了\n- `hur är det annars?` — 其他方面怎么样？\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lite stressigt med jobbet, men annars är det bra. — 🇨🇳 工作有点紧张，但其他方面都挺好的。\n- 🇸🇪 Du måste ta bussen, annars kommer du för sent. — 🇨🇳 你必须坐公共汽车，否则你就会迟到。\n- 🇸🇪 Hur mår du annars? — 🇨🇳 你其他方面怎么样？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: i övrigt (此外), för övrigt (其他方面)\n\n## 用法提示 (Usage Notes)\n\n- *Annars* 有两种含义：\n  1. 否则/要不然：*Ta en jacka, annars fryser du.* (拿件外套，否则你会冷)\n  2. 其他方面：*Lite jobbigt, men annars okej.* (有点难，但其他方面还好)\n",
+      "lemma": "annars",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "否则；其他方面",
+      "en": "otherwise; apart from that",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-jo-det-har-gatt-bra"
+      ]
+    },
+    {
       "slug": "annorlunda",
       "type": "word",
       "title": "annorlunda",
@@ -10514,6 +12973,32 @@ window.KB_DATA = {
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "source-2026-06-02-astrid-lindgren",
         "topic-karaktarsord"
+      ]
+    },
+    {
+      "slug": "ansvar",
+      "type": "word",
+      "title": "ansvar",
+      "path": "knowledge_base/words/ansvar.md",
+      "body": "# ansvar — substantiv (ett)\n\n📖 中文：责任 · English: responsibility\n发音提示：AHN-svar\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett ansvar |\n| bestämd singular | ansvaret |\n| obestämd plural | ansvar (同形复数) |\n| bestämd plural | ansvaren |\n\n## 词组搭配 (Collocations)\n\n- `ha ansvar för` — 对...有责任\n- `ta ansvar` — 承担责任\n- `mer ansvar` — 更多责任\n- `ansvarsfull` — 负责任的（形容词）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag har fått lite mer ansvar nu på jobbet. — 🇨🇳 我现在在工作上多了一些责任。\n- 🇸🇪 Det är viktigt att ta ansvar för sina misstag. — 🇨🇳 为自己的错误承担责任很重要。\n- 🇸🇪 Chefen har mycket ansvar. — 🇨🇳 经理有很多责任。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ansvarig (负责任的), ansvarstagande (承担责任)\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- *Ha ansvar för något* = 对某事有责任。*Ta ansvar* = 承担/接受责任。",
+      "excerpt": "ansvar — substantiv (ett) 📖 中文：责任 · English: responsibility 发音提示：AHN svar 语法变形 (Forms) Form Swedish obestämd singular ett ansvar bestämd singular ansvaret obestämd plural ansvar (同形复数) bestämd plural ansvaren 词组搭配 (Coll",
+      "links": [
+        "topic-arbete"
+      ],
+      "searchText": "ansvar ansvar knowledge_base/words/ansvar.md ---\ntype: word\nlemma: \"ansvar\"\nordklass: substantiv\ngenus: ett\ncefr: B1\nzh: 责任\nen: responsibility\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-arbete]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ansvar — substantiv (ett)\n\n📖 中文：责任 · English: responsibility\n发音提示：AHN-svar\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett ansvar |\n| bestämd singular | ansvaret |\n| obestämd plural | ansvar (同形复数) |\n| bestämd plural | ansvaren |\n\n## 词组搭配 (Collocations)\n\n- `ha ansvar för` — 对...有责任\n- `ta ansvar` — 承担责任\n- `mer ansvar` — 更多责任\n- `ansvarsfull` — 负责任的（形容词）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag har fått lite mer ansvar nu på jobbet. — 🇨🇳 我现在在工作上多了一些责任。\n- 🇸🇪 Det är viktigt att ta ansvar för sina misstag. — 🇨🇳 为自己的错误承担责任很重要。\n- 🇸🇪 Chefen har mycket ansvar. — 🇨🇳 经理有很多责任。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ansvarig (负责任的), ansvarstagande (承担责任)\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- *Ha ansvar för något* = 对某事有责任。*Ta ansvar* = 承担/接受责任。\n",
+      "lemma": "ansvar",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "责任",
+      "en": "responsibility",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-arbete"
+      ],
+      "backlinks": [
+        "sent-fika-också-hektiskt-men-roligt"
       ]
     },
     {
@@ -10785,6 +13270,32 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "index"
+      ]
+    },
+    {
+      "slug": "bakverksdisk",
+      "type": "word",
+      "title": "bakverksdisk",
+      "path": "knowledge_base/words/bakverksdisk.md",
+      "body": "# bakverksdisk — substantiv (en)\n\n📖 中文：糕点展示柜 · English: pastry display counter\n发音提示：BAHK-verks-disk\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en bakverksdisk |\n| bestämd singular | bakverksdisken |\n| obestämd plural | bakverksdiskar |\n| bestämd plural | bakverksdiskarna |\n\n## 词组搭配 (Collocations)\n\n- `titta i bakverksdisken` — 看糕点展示柜\n- `stå vid bakverksdisken` — 站在糕点展示柜旁\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det finns kanelbullar i bakverksdisken. — 🇨🇳 糕点展示柜里有肉桂卷。\n- 🇸🇪 Emma tittar i bakverksdisken och väljer en bulle. — 🇨🇳 艾玛看着糕点展示柜选了一个面包卷。\n- 🇸🇪 Bakverksdisken är full av färska kakor. — 🇨🇳 糕点展示柜里满是新鲜的饼干。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: bakverk (糕点), disk (柜台)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansättning: bakverk (baked goods) + disk (counter/display case).",
+      "excerpt": "bakverksdisk — substantiv (en) 📖 中文：糕点展示柜 · English: pastry display counter 发音提示：BAHK verks disk 语法变形 (Forms) Form Swedish obestämd singular en bakverksdisk bestämd singular bakverksdisken obestämd plural bakverksdiskar",
+      "links": [
+        "topic-kafe-fika"
+      ],
+      "searchText": "bakverksdisk bakverksdisk knowledge_base/words/bakverksdisk.md ---\ntype: word\nlemma: \"bakverksdisk\"\nordklass: substantiv\ngenus: en\ncefr: B1\nzh: 糕点展示柜\nen: pastry display counter\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bakverksdisk — substantiv (en)\n\n📖 中文：糕点展示柜 · English: pastry display counter\n发音提示：BAHK-verks-disk\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en bakverksdisk |\n| bestämd singular | bakverksdisken |\n| obestämd plural | bakverksdiskar |\n| bestämd plural | bakverksdiskarna |\n\n## 词组搭配 (Collocations)\n\n- `titta i bakverksdisken` — 看糕点展示柜\n- `stå vid bakverksdisken` — 站在糕点展示柜旁\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det finns kanelbullar i bakverksdisken. — 🇨🇳 糕点展示柜里有肉桂卷。\n- 🇸🇪 Emma tittar i bakverksdisken och väljer en bulle. — 🇨🇳 艾玛看着糕点展示柜选了一个面包卷。\n- 🇸🇪 Bakverksdisken är full av färska kakor. — 🇨🇳 糕点展示柜里满是新鲜的饼干。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: bakverk (糕点), disk (柜台)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansättning: bakverk (baked goods) + disk (counter/display case).\n",
+      "lemma": "bakverksdisk",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "糕点展示柜",
+      "en": "pastry display counter",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "topic-kafe-fika"
       ]
     },
     {
@@ -11155,6 +13666,33 @@ window.KB_DATA = {
         "erbjudande",
         "index",
         "source-2026-06-03-sundbyberg-forskola"
+      ]
+    },
+    {
+      "slug": "betala",
+      "type": "word",
+      "title": "betala",
+      "path": "knowledge_base/words/betala.md",
+      "body": "# betala — verb (grupp 1)\n\n📖 中文：支付；付钱 · English: to pay\n发音提示：beh-TAH-lah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | betala |\n| presens | betalar |\n| preteritum | betalade |\n| supinum | betalat |\n| imperativ | betala! |\n\n## 词组搭配 (Collocations)\n\n- `betala med kort` — 刷卡\n- `betala kontant` — 付现金\n- `betala med Swish` — 用 Swish 付款\n- `betala för` — 为……付钱\n- `betala tillbaka` — 还钱\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag betalar med Swish. — 🇨🇳 我用 Swish 付。\n- 🇸🇪 Kan jag betala med kort? — 🇨🇳 我可以刷卡吗？\n- 🇸🇪 Vem betalar idag? — 🇨🇳 今天谁付钱？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: betalning (支付/付款), betalkortet (支付卡)\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- *Betala med* + betalningssätt: betala med kort / kontant / Swish。\n- *Betala för något* = 为某事付款（如 *betala för maten*）。",
+      "excerpt": "betala — verb (grupp 1) 📖 中文：支付；付钱 · English: to pay 发音提示：beh TAH lah 语法变形 (Forms) Form Swedish infinitiv betala presens betalar preteritum betalade supinum betalat imperativ betala! 词组搭配 (Collocations) betala med kort ",
+      "links": [
+        "topic-betalning"
+      ],
+      "searchText": "betala betala knowledge_base/words/betala.md ---\ntype: word\nlemma: \"betala\"\nordklass: verb\nverbgrupp: \"1\"\ncefr: A1\nzh: 支付；付钱\nen: to pay\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-betalning]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# betala — verb (grupp 1)\n\n📖 中文：支付；付钱 · English: to pay\n发音提示：beh-TAH-lah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | betala |\n| presens | betalar |\n| preteritum | betalade |\n| supinum | betalat |\n| imperativ | betala! |\n\n## 词组搭配 (Collocations)\n\n- `betala med kort` — 刷卡\n- `betala kontant` — 付现金\n- `betala med Swish` — 用 Swish 付款\n- `betala för` — 为……付钱\n- `betala tillbaka` — 还钱\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag betalar med Swish. — 🇨🇳 我用 Swish 付。\n- 🇸🇪 Kan jag betala med kort? — 🇨🇳 我可以刷卡吗？\n- 🇸🇪 Vem betalar idag? — 🇨🇳 今天谁付钱？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: betalning (支付/付款), betalkortet (支付卡)\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- *Betala med* + betalningssätt: betala med kort / kontant / Swish。\n- *Betala för något* = 为某事付款（如 *betala för maten*）。\n",
+      "lemma": "betala",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "支付；付钱",
+      "en": "to pay",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "sent-fika-jag-betalar-med-swish",
+        "topic-betalning"
       ]
     },
     {
@@ -11650,6 +14188,32 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "bricka",
+      "type": "word",
+      "title": "bricka",
+      "path": "knowledge_base/words/bricka.md",
+      "body": "# bricka — substantiv (en)\n\n📖 中文：托盘 · English: tray\n发音提示：BRIK-kah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en bricka |\n| bestämd singular | brickan |\n| obestämd plural | brickor |\n| bestämd plural | brickorna |\n\n## 词组搭配 (Collocations)\n\n- `bära brickan` — 端托盘\n- `lägga på brickan` — 放在托盘上\n- `hämta en bricka` — 拿一个托盘\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lägg kopparna på brickan. — 🇨🇳 把杯子放在托盘上。\n- 🇸🇪 Kassören ger dem en bricka med bullarna. — 🇨🇳 收银员给了他们一个装着面包卷的托盘。\n- 🇸🇪 Tar du brickan till bordet? — 🇨🇳 你把托盘端到桌子那边去吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Bricka 也可以指芯片/徽章（badge），但在餐饮场合 = 托盘。",
+      "excerpt": "bricka — substantiv (en) 📖 中文：托盘 · English: tray 发音提示：BRIK kah 语法变形 (Forms) Form Swedish obestämd singular en bricka bestämd singular brickan obestämd plural brickor bestämd plural brickorna 词组搭配 (Collocations) bära bri",
+      "links": [
+        "topic-kafe-fika"
+      ],
+      "searchText": "bricka bricka knowledge_base/words/bricka.md ---\ntype: word\nlemma: \"bricka\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 托盘\nen: tray\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bricka — substantiv (en)\n\n📖 中文：托盘 · English: tray\n发音提示：BRIK-kah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en bricka |\n| bestämd singular | brickan |\n| obestämd plural | brickor |\n| bestämd plural | brickorna |\n\n## 词组搭配 (Collocations)\n\n- `bära brickan` — 端托盘\n- `lägga på brickan` — 放在托盘上\n- `hämta en bricka` — 拿一个托盘\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lägg kopparna på brickan. — 🇨🇳 把杯子放在托盘上。\n- 🇸🇪 Kassören ger dem en bricka med bullarna. — 🇨🇳 收银员给了他们一个装着面包卷的托盘。\n- 🇸🇪 Tar du brickan till bordet? — 🇨🇳 你把托盘端到桌子那边去吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Bricka 也可以指芯片/徽章（badge），但在餐饮场合 = 托盘。\n",
+      "lemma": "bricka",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "托盘",
+      "en": "tray",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "topic-kafe-fika"
+      ]
+    },
+    {
       "slug": "bror",
       "type": "word",
       "title": "bror",
@@ -11737,6 +14301,39 @@ window.KB_DATA = {
         "ben",
         "source-2026-06-07-kropp-halsa",
         "topic-kropp"
+      ]
+    },
+    {
+      "slug": "bryggkaffe",
+      "type": "word",
+      "title": "bryggkaffe",
+      "path": "knowledge_base/words/bryggkaffe.md",
+      "body": "# bryggkaffe — substantiv (ett)\n\n📖 中文：滴滤咖啡 · English: drip coffee; brewed coffee\n发音提示：BRYGG-kah-feh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett bryggkaffe |\n| bestämd singular | bryggkaffet |\n| obestämd plural | bryggkaffen |\n| bestämd plural | bryggkaffena |\n\n## 词组搭配 (Collocations)\n\n- `vanligt bryggkaffe` — 普通滴滤咖啡\n- `en kopp bryggkaffe` — 一杯滴滤咖啡\n- `svart bryggkaffe` — 黑咖啡（滴滤）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi har espresso, latte, cappuccino och vanligt bryggkaffe. — 🇨🇳 我们有浓缩咖啡、拿铁、卡布奇诺和普通滴滤咖啡。\n- 🇸🇪 Jag föredrar bryggkaffe framför espresso. — 🇨🇳 比起浓缩咖啡，我更喜欢滴滤咖啡。\n- 🇸🇪 En kopp bryggkaffe kostar tjugo kronor. — 🇨🇳 一杯滴滤咖啡要二十克朗。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关: [[espresso]], [[latte]], [[cappuccino]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansättning: brygga (冲泡/酿造) + kaffe (咖啡)。\n- 在瑞典家庭和办公室中最常见的咖啡类型，也称 *filterkaffet*。",
+      "excerpt": "bryggkaffe — substantiv (ett) 📖 中文：滴滤咖啡 · English: drip coffee; brewed coffee 发音提示：BRYGG kah feh 语法变形 (Forms) Form Swedish obestämd singular ett bryggkaffe bestämd singular bryggkaffet obestämd plural bryggkaffen bestäm",
+      "links": [
+        "cappuccino",
+        "espresso",
+        "latte",
+        "topic-kafe-fika"
+      ],
+      "searchText": "bryggkaffe bryggkaffe knowledge_base/words/bryggkaffe.md ---\ntype: word\nlemma: \"bryggkaffe\"\nordklass: substantiv\ngenus: ett\ncefr: A2\nzh: 滴滤咖啡\nen: drip coffee; brewed coffee\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bryggkaffe — substantiv (ett)\n\n📖 中文：滴滤咖啡 · English: drip coffee; brewed coffee\n发音提示：BRYGG-kah-feh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett bryggkaffe |\n| bestämd singular | bryggkaffet |\n| obestämd plural | bryggkaffen |\n| bestämd plural | bryggkaffena |\n\n## 词组搭配 (Collocations)\n\n- `vanligt bryggkaffe` — 普通滴滤咖啡\n- `en kopp bryggkaffe` — 一杯滴滤咖啡\n- `svart bryggkaffe` — 黑咖啡（滴滤）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi har espresso, latte, cappuccino och vanligt bryggkaffe. — 🇨🇳 我们有浓缩咖啡、拿铁、卡布奇诺和普通滴滤咖啡。\n- 🇸🇪 Jag föredrar bryggkaffe framför espresso. — 🇨🇳 比起浓缩咖啡，我更喜欢滴滤咖啡。\n- 🇸🇪 En kopp bryggkaffe kostar tjugo kronor. — 🇨🇳 一杯滴滤咖啡要二十克朗。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关: [[espresso]], [[latte]], [[cappuccino]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansättning: brygga (冲泡/酿造) + kaffe (咖啡)。\n- 在瑞典家庭和办公室中最常见的咖啡类型，也称 *filterkaffet*。\n",
+      "lemma": "bryggkaffe",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "滴滤咖啡",
+      "en": "drip coffee; brewed coffee",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "cappuccino",
+        "espresso",
+        "latte",
+        "sent-fika-vi-har-espresso-latte",
+        "topic-kafe-fika"
       ]
     },
     {
@@ -11889,6 +14486,39 @@ window.KB_DATA = {
         "kvar",
         "source-2026-06-03-sundbyberg-forskola",
         "topic-förskola-system"
+      ]
+    },
+    {
+      "slug": "cappuccino",
+      "type": "word",
+      "title": "cappuccino",
+      "path": "knowledge_base/words/cappuccino.md",
+      "body": "# cappuccino — substantiv (en)\n\n📖 中文：卡布奇诺 · English: cappuccino\n发音提示：kah-poo-CHEE-noh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en cappuccino |\n| bestämd singular | cappuccinon |\n| obestämd plural | cappuccinoer |\n| bestämd plural | cappuccinoerna |\n\n## 词组搭配 (Collocations)\n\n- `en cappuccino med kanel` — 一杯加肉桂的卡布奇诺\n- `dubbel cappuccino` — 双份卡布奇诺\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag vill ha en cappuccino, tack. — 🇨🇳 我要一杯卡布奇诺，谢谢。\n- 🇸🇪 Vi har espresso, latte och cappuccino. — 🇨🇳 我们有浓缩咖啡、拿铁和卡布奇诺。\n- 🇸🇪 En cappuccino är starkare än en latte. — 🇨🇳 卡布奇诺比拿铁浓。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关: [[espresso]], [[latte]], [[bryggkaffe]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 外来词，来自意大利语，以 Capuchin 修道士命名（因颜色相似）。",
+      "excerpt": "cappuccino — substantiv (en) 📖 中文：卡布奇诺 · English: cappuccino 发音提示：kah poo CHEE noh 语法变形 (Forms) Form Swedish obestämd singular en cappuccino bestämd singular cappuccinon obestämd plural cappuccinoer bestämd plural cappu",
+      "links": [
+        "bryggkaffe",
+        "espresso",
+        "latte",
+        "topic-kafe-fika"
+      ],
+      "searchText": "cappuccino cappuccino knowledge_base/words/cappuccino.md ---\ntype: word\nlemma: \"cappuccino\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 卡布奇诺\nen: cappuccino\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# cappuccino — substantiv (en)\n\n📖 中文：卡布奇诺 · English: cappuccino\n发音提示：kah-poo-CHEE-noh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en cappuccino |\n| bestämd singular | cappuccinon |\n| obestämd plural | cappuccinoer |\n| bestämd plural | cappuccinoerna |\n\n## 词组搭配 (Collocations)\n\n- `en cappuccino med kanel` — 一杯加肉桂的卡布奇诺\n- `dubbel cappuccino` — 双份卡布奇诺\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag vill ha en cappuccino, tack. — 🇨🇳 我要一杯卡布奇诺，谢谢。\n- 🇸🇪 Vi har espresso, latte och cappuccino. — 🇨🇳 我们有浓缩咖啡、拿铁和卡布奇诺。\n- 🇸🇪 En cappuccino är starkare än en latte. — 🇨🇳 卡布奇诺比拿铁浓。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关: [[espresso]], [[latte]], [[bryggkaffe]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 外来词，来自意大利语，以 Capuchin 修道士命名（因颜色相似）。\n",
+      "lemma": "cappuccino",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "卡布奇诺",
+      "en": "cappuccino",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "bryggkaffe",
+        "espresso",
+        "latte",
+        "sent-fika-vi-har-espresso-latte",
+        "topic-kafe-fika"
       ]
     },
     {
@@ -12476,6 +15106,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "espresso",
+      "type": "word",
+      "title": "espresso",
+      "path": "knowledge_base/words/espresso.md",
+      "body": "# espresso — substantiv (en)\n\n📖 中文：浓缩咖啡 · English: espresso\n发音提示：eh-SPRES-soh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en espresso |\n| bestämd singular | espression |\n| obestämd plural | espressoer / espresso |\n| bestämd plural | espressoerna |\n\n## 词组搭配 (Collocations)\n\n- `en dubbel espresso` — 一杯双份浓缩\n- `espresso med mjölk` — 加奶的浓缩咖啡\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan jag få en espresso, tack? — 🇨🇳 我可以要一杯浓缩咖啡吗，谢谢？\n- 🇸🇪 Vi har espresso, latte och cappuccino. — 🇨🇳 我们有浓缩咖啡、拿铁和卡布奇诺。\n- 🇸🇪 Han dricker alltid espresso på morgonen. — 🇨🇳 他早上总是喝浓缩咖啡。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词/相关: [[latte]], [[cappuccino]], [[bryggkaffe]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 外来词，来自意大利语。在瑞典咖啡馆中常见。",
+      "excerpt": "espresso — substantiv (en) 📖 中文：浓缩咖啡 · English: espresso 发音提示：eh SPRES soh 语法变形 (Forms) Form Swedish obestämd singular en espresso bestämd singular espression obestämd plural espressoer / espresso bestämd plural espress",
+      "links": [
+        "bryggkaffe",
+        "cappuccino",
+        "latte",
+        "topic-kafe-fika"
+      ],
+      "searchText": "espresso espresso knowledge_base/words/espresso.md ---\ntype: word\nlemma: \"espresso\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 浓缩咖啡\nen: espresso\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# espresso — substantiv (en)\n\n📖 中文：浓缩咖啡 · English: espresso\n发音提示：eh-SPRES-soh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en espresso |\n| bestämd singular | espression |\n| obestämd plural | espressoer / espresso |\n| bestämd plural | espressoerna |\n\n## 词组搭配 (Collocations)\n\n- `en dubbel espresso` — 一杯双份浓缩\n- `espresso med mjölk` — 加奶的浓缩咖啡\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan jag få en espresso, tack? — 🇨🇳 我可以要一杯浓缩咖啡吗，谢谢？\n- 🇸🇪 Vi har espresso, latte och cappuccino. — 🇨🇳 我们有浓缩咖啡、拿铁和卡布奇诺。\n- 🇸🇪 Han dricker alltid espresso på morgonen. — 🇨🇳 他早上总是喝浓缩咖啡。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词/相关: [[latte]], [[cappuccino]], [[bryggkaffe]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 外来词，来自意大利语。在瑞典咖啡馆中常见。\n",
+      "lemma": "espresso",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "浓缩咖啡",
+      "en": "espresso",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "bryggkaffe",
+        "cappuccino",
+        "latte",
+        "sent-fika-vi-har-espresso-latte",
+        "topic-kafe-fika"
+      ]
+    },
+    {
       "slug": "fågel",
       "type": "word",
       "title": "fågel",
@@ -12503,6 +15166,30 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-08-djur",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "faktiskt",
+      "type": "word",
+      "title": "faktiskt",
+      "path": "knowledge_base/words/faktiskt.md",
+      "body": "# faktiskt — adverb\n\n📖 中文：实际上；说实话 · English: actually; in fact\n发音提示：FAK-tiskt\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `faktiskt` (fristående) — 说实话（独立使用，表强调）\n- `det är faktiskt sant` — 这实际上是真的\n- `jag vet faktiskt inte` — 我其实不知道\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ungefär likadant, faktiskt. — 🇨🇳 差不多一样，说实话。\n- 🇸🇪 Det smakar ju faktiskt för gott! — 🇨🇳 说真的，味道太好了！\n- 🇸🇪 Jag vet faktiskt inte vad jag ska välja. — 🇨🇳 我其实不知道该选什么。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: faktum (事实), fakta (事实，复数)\n- 同义词: egentligen (实际上), verkligen (真的)\n\n## 用法提示 (Usage Notes)\n\n- *Faktiskt* 可以表示说实话、实际上，也可用来表示轻微的惊讶或强调。\n- 在对话中常单独出现在句末或句首，语气轻松随意。",
+      "excerpt": "faktiskt — adverb 📖 中文：实际上；说实话 · English: actually; in fact 发音提示：FAK tiskt 语法变形 (Forms) Adverb: oförändrad 词组搭配 (Collocations) faktiskt (fristående) — 说实话（独立使用，表强调） det är faktiskt sant — 这实际上是真的 jag vet faktiskt inte —",
+      "links": [],
+      "searchText": "faktiskt faktiskt knowledge_base/words/faktiskt.md ---\ntype: word\nlemma: \"faktiskt\"\nordklass: adverb\ncefr: A2\nzh: 实际上；说实话\nen: actually; in fact\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# faktiskt — adverb\n\n📖 中文：实际上；说实话 · English: actually; in fact\n发音提示：FAK-tiskt\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `faktiskt` (fristående) — 说实话（独立使用，表强调）\n- `det är faktiskt sant` — 这实际上是真的\n- `jag vet faktiskt inte` — 我其实不知道\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ungefär likadant, faktiskt. — 🇨🇳 差不多一样，说实话。\n- 🇸🇪 Det smakar ju faktiskt för gott! — 🇨🇳 说真的，味道太好了！\n- 🇸🇪 Jag vet faktiskt inte vad jag ska välja. — 🇨🇳 我其实不知道该选什么。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: faktum (事实), fakta (事实，复数)\n- 同义词: egentligen (实际上), verkligen (真的)\n\n## 用法提示 (Usage Notes)\n\n- *Faktiskt* 可以表示说实话、实际上，也可用来表示轻微的惊讶或强调。\n- 在对话中常单独出现在句末或句首，语气轻松随意。\n",
+      "lemma": "faktiskt",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "实际上；说实话",
+      "en": "actually; in fact",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "egentligen",
+        "sent-fika-det-smakar-ju-faktiskt-för-gott",
+        "sent-fika-ungefar-likadant-faktiskt"
       ]
     },
     {
@@ -12632,6 +15319,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "färsk",
+      "type": "word",
+      "title": "färsk",
+      "path": "knowledge_base/words/färsk.md",
+      "body": "# färsk — adjektiv\n\n📖 中文：新鲜的；刚出炉的 · English: fresh\n发音提示：FERSK\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | färsk |\n| neutrum singular | färskt |\n| plural/definite | färska |\n\n## 词组搭配 (Collocations)\n\n- `färska kanelbullar` — 新鲜肉桂卷\n- `färsk mat` — 新鲜食物\n- `färskt bröd` — 新鲜面包\n- `nyfärskt` — 非常新鲜\n\n## 例句 (Sentences)\n\n- 🇸🇪 Men vi har färska kanelbullar och kardemummabullar. — 🇨🇳 不过我们有新鲜的肉桂卷和小豆蔻卷。\n- 🇸🇪 Det finns ingenting bättre än färskt bröd. — 🇨🇳 没什么比新鲜面包更好的了。\n- 🇸🇪 Är frukterna färska? — 🇨🇳 水果新鲜吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: gammal (旧的), inaktuell (过时的)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- *Färsk* = 新鲜的（食物），也可形容 *färsk student* = 刚毕业的学生（新鲜出炉）。",
+      "excerpt": "färsk — adjektiv 📖 中文：新鲜的；刚出炉的 · English: fresh 发音提示：FERSK 语法变形 (Forms) Form Swedish utrum singular färsk neutrum singular färskt plural/definite färska 词组搭配 (Collocations) färska kanelbullar — 新鲜肉桂卷 färsk mat — 新鲜食物 fä",
+      "links": [
+        "topic-kafe-fika"
+      ],
+      "searchText": "färsk färsk knowledge_base/words/färsk.md ---\ntype: word\nlemma: \"färsk\"\nordklass: adjektiv\ncefr: A2\nzh: 新鲜的；刚出炉的\nen: fresh\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# färsk — adjektiv\n\n📖 中文：新鲜的；刚出炉的 · English: fresh\n发音提示：FERSK\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | färsk |\n| neutrum singular | färskt |\n| plural/definite | färska |\n\n## 词组搭配 (Collocations)\n\n- `färska kanelbullar` — 新鲜肉桂卷\n- `färsk mat` — 新鲜食物\n- `färskt bröd` — 新鲜面包\n- `nyfärskt` — 非常新鲜\n\n## 例句 (Sentences)\n\n- 🇸🇪 Men vi har färska kanelbullar och kardemummabullar. — 🇨🇳 不过我们有新鲜的肉桂卷和小豆蔻卷。\n- 🇸🇪 Det finns ingenting bättre än färskt bröd. — 🇨🇳 没什么比新鲜面包更好的了。\n- 🇸🇪 Är frukterna färska? — 🇨🇳 水果新鲜吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: gammal (旧的), inaktuell (过时的)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- *Färsk* = 新鲜的（食物），也可形容 *färsk student* = 刚毕业的学生（新鲜出炉）。\n",
+      "lemma": "färsk",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "新鲜的；刚出炉的",
+      "en": "fresh",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "sent-fika-men-vi-har-farsk-kanelbulle",
+        "topic-kafe-fika"
+      ]
+    },
+    {
       "slug": "fåtölj",
       "type": "word",
       "title": "fåtölj",
@@ -12694,6 +15408,33 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "rik"
+      ]
+    },
+    {
+      "slug": "fika",
+      "type": "word",
+      "title": "fika",
+      "path": "knowledge_base/words/fika.md",
+      "body": "# fika — substantiv (en)\n\n📖 中文：下午茶；咖啡时间 · English: coffee break; fika\n发音提示：FEE-kah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en fika |\n| bestämd singular | fikan |\n| obestämd plural | fikaster / fikapauser |\n| verb (att fika) | fikar / fikade / fikat |\n\n也用作动词: *Ska vi fika?* (我们去喝下午茶吗？)\n\n## 词组搭配 (Collocations)\n\n- `ta en fika` — 喝个下午茶\n- `fika med någon` — 和某人喝下午茶\n- `fikapaus` — 下午茶休息\n- `fikabröd` — 下午茶糕点\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ska vi ta en fika efteråt? — 🇨🇳 我们之后去喝个下午茶吧？\n- 🇸🇪 Vi fikar alltid klockan tre på jobbet. — 🇨🇳 我们在公司总是三点钟喝下午茶。\n- 🇸🇪 Fika är en viktig del av den svenska kulturen. — 🇨🇳 Fika 是瑞典文化的重要组成部分。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Fika 是瑞典特有的文化习俗，通常指喝咖啡或茶、吃点甜点的休息时间，不仅是动作也是社交仪式。\n- 也可用作动词：*fika* (att fika / fikar / fikade / fikat)。",
+      "excerpt": "fika — substantiv (en) 📖 中文：下午茶；咖啡时间 · English: coffee break; fika 发音提示：FEE kah 语法变形 (Forms) Form Swedish obestämd singular en fika bestämd singular fikan obestämd plural fikaster / fikapauser verb (att fika) fikar / fi",
+      "links": [
+        "topic-kafe-fika"
+      ],
+      "searchText": "fika fika knowledge_base/words/fika.md ---\ntype: word\nlemma: \"fika\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 下午茶；咖啡时间\nen: coffee break; fika (Swedish coffee tradition)\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fika — substantiv (en)\n\n📖 中文：下午茶；咖啡时间 · English: coffee break; fika\n发音提示：FEE-kah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en fika |\n| bestämd singular | fikan |\n| obestämd plural | fikaster / fikapauser |\n| verb (att fika) | fikar / fikade / fikat |\n\n也用作动词: *Ska vi fika?* (我们去喝下午茶吗？)\n\n## 词组搭配 (Collocations)\n\n- `ta en fika` — 喝个下午茶\n- `fika med någon` — 和某人喝下午茶\n- `fikapaus` — 下午茶休息\n- `fikabröd` — 下午茶糕点\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ska vi ta en fika efteråt? — 🇨🇳 我们之后去喝个下午茶吧？\n- 🇸🇪 Vi fikar alltid klockan tre på jobbet. — 🇨🇳 我们在公司总是三点钟喝下午茶。\n- 🇸🇪 Fika är en viktig del av den svenska kulturen. — 🇨🇳 Fika 是瑞典文化的重要组成部分。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Fika 是瑞典特有的文化习俗，通常指喝咖啡或茶、吃点甜点的休息时间，不仅是动作也是社交仪式。\n- 也可用作动词：*fika* (att fika / fikar / fikade / fikat)。\n",
+      "lemma": "fika",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "下午茶；咖啡时间",
+      "en": "coffee break; fika (Swedish coffee tradition)",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "sent-fika-men-nu-tar-vi-en-fika",
+        "topic-kafe-fika"
       ]
     },
     {
@@ -13170,6 +15911,29 @@ window.KB_DATA = {
         "sent-jag-promenerar-langs-storgatan-solig-tisdag",
         "source-2026-06-09-beskriva-en-gata",
         "topic-stadsmiljo"
+      ]
+    },
+    {
+      "slug": "förresten",
+      "type": "word",
+      "title": "förresten",
+      "path": "knowledge_base/words/förresten.md",
+      "body": "# förresten — adverb\n\n📖 中文：顺带一提；对了 · English: by the way; incidentally\n发音提示：för-RES-ten\n\n## 语法变形 (Forms)\n\n- Adverb/diskursmarkör: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `förresten, ...` — 对了，……（转换话题）\n- `det var förresten...` — 顺带一提，……\n\n## 例句 (Sentences)\n\n- 🇸🇪 Förresten, vad gjorde du i helgen? — 🇨🇳 对了，你周末干什么了？\n- 🇸🇪 Förresten — vill du ha en bulle till? — 🇨🇳 对了——你再来一个面包卷吗？\n- 🇸🇪 Förresten, jag glömde berätta om konserten. — 🇨🇳 对了，我忘了告诉你关于那场音乐会的事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: för övrigt (此外), apropå (顺便一提)\n\n## 用法提示 (Usage Notes)\n\n- *Förresten* 是口语中常用的话题转换词，相当于英语 \"by the way\" 或中文\"对了/顺带说一句\"。\n- 常放在句子开头，后接逗号。",
+      "excerpt": "förresten — adverb 📖 中文：顺带一提；对了 · English: by the way; incidentally 发音提示：för RES ten 语法变形 (Forms) Adverb/diskursmarkör: oförändrad 词组搭配 (Collocations) förresten, ... — 对了，……（转换话题） det var förresten... — 顺带一提，…… 例句 (Sent",
+      "links": [],
+      "searchText": "förresten förresten knowledge_base/words/förresten.md ---\ntype: word\nlemma: \"förresten\"\nordklass: adverb\ncefr: A2\nzh: 顺带一提；对了\nen: by the way; incidentally\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förresten — adverb\n\n📖 中文：顺带一提；对了 · English: by the way; incidentally\n发音提示：för-RES-ten\n\n## 语法变形 (Forms)\n\n- Adverb/diskursmarkör: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `förresten, ...` — 对了，……（转换话题）\n- `det var förresten...` — 顺带一提，……\n\n## 例句 (Sentences)\n\n- 🇸🇪 Förresten, vad gjorde du i helgen? — 🇨🇳 对了，你周末干什么了？\n- 🇸🇪 Förresten — vill du ha en bulle till? — 🇨🇳 对了——你再来一个面包卷吗？\n- 🇸🇪 Förresten, jag glömde berätta om konserten. — 🇨🇳 对了，我忘了告诉你关于那场音乐会的事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: för övrigt (此外), apropå (顺便一提)\n\n## 用法提示 (Usage Notes)\n\n- *Förresten* 是口语中常用的话题转换词，相当于英语 \"by the way\" 或中文\"对了/顺带说一句\"。\n- 常放在句子开头，后接逗号。\n",
+      "lemma": "förresten",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "顺带一提；对了",
+      "en": "by the way; incidentally",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-förresten-vad-gjorde-du-i-helgen",
+        "sent-fika-ja-verkligen-förresten-bulle"
       ]
     },
     {
@@ -14346,6 +17110,32 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "hektisk",
+      "type": "word",
+      "title": "hektisk",
+      "path": "knowledge_base/words/hektisk.md",
+      "body": "# hektisk — adjektiv\n\n📖 中文：繁忙的；紧张的 · English: hectic\n发音提示：HEK-tisk\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | hektisk |\n| neutrum singular | hektiskt |\n| plural/definite | hektiska |\n\n## 词组搭配 (Collocations)\n\n- `en hektisk dag` — 一个忙碌的一天\n- `hektisk period` — 繁忙的时期\n- `hektiskt på jobbet` — 工作很忙\n- `väldigt hektiskt` — 非常忙碌\n\n## 例句 (Sentences)\n\n- 🇸🇪 Också hektiskt, men roligt. — 🇨🇳 也挺忙的，但很有意思。\n- 🇸🇪 Det har varit en väldigt hektisk vecka. — 🇨🇳 这是非常忙碌的一周。\n- 🇸🇪 Jobbet är hektiskt men jag gillar det. — 🇨🇳 工作很忙，但我喜欢。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: stressig (有压力的), intensiv (紧张的), hård (艰难的)\n- 反义词: lugn (平静的), avslappnad (放松的)\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- 外来词，来自希腊语/拉丁语。在职场语境中极为常用。",
+      "excerpt": "hektisk — adjektiv 📖 中文：繁忙的；紧张的 · English: hectic 发音提示：HEK tisk 语法变形 (Forms) Form Swedish utrum singular hektisk neutrum singular hektiskt plural/definite hektiska 词组搭配 (Collocations) en hektisk dag — 一个忙碌的一天 hektisk pe",
+      "links": [
+        "topic-arbete"
+      ],
+      "searchText": "hektisk hektisk knowledge_base/words/hektisk.md ---\ntype: word\nlemma: \"hektisk\"\nordklass: adjektiv\ncefr: B1\nzh: 繁忙的；紧张的\nen: hectic\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-arbete]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hektisk — adjektiv\n\n📖 中文：繁忙的；紧张的 · English: hectic\n发音提示：HEK-tisk\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | hektisk |\n| neutrum singular | hektiskt |\n| plural/definite | hektiska |\n\n## 词组搭配 (Collocations)\n\n- `en hektisk dag` — 一个忙碌的一天\n- `hektisk period` — 繁忙的时期\n- `hektiskt på jobbet` — 工作很忙\n- `väldigt hektiskt` — 非常忙碌\n\n## 例句 (Sentences)\n\n- 🇸🇪 Också hektiskt, men roligt. — 🇨🇳 也挺忙的，但很有意思。\n- 🇸🇪 Det har varit en väldigt hektisk vecka. — 🇨🇳 这是非常忙碌的一周。\n- 🇸🇪 Jobbet är hektiskt men jag gillar det. — 🇨🇳 工作很忙，但我喜欢。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: stressig (有压力的), intensiv (紧张的), hård (艰难的)\n- 反义词: lugn (平静的), avslappnad (放松的)\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- 外来词，来自希腊语/拉丁语。在职场语境中极为常用。\n",
+      "lemma": "hektisk",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "繁忙的；紧张的",
+      "en": "hectic",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-arbete"
+      ],
+      "backlinks": [
+        "sent-fika-också-hektiskt-men-roligt"
+      ]
+    },
+    {
       "slug": "hemmafru",
       "type": "word",
       "title": "hemmafru",
@@ -14648,6 +17438,29 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "hoppas",
+      "type": "word",
+      "title": "hoppas",
+      "path": "knowledge_base/words/hoppas.md",
+      "body": "# hoppas — verb (deponens, grupp 1)\n\n📖 中文：希望 · English: to hope\n发音提示：HOP-pas\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | hoppas |\n| presens | hoppas |\n| preteritum | hoppades |\n| supinum | hoppats |\n| imperativ | hoppas! |\n\nOBS: Deponensverb — slutar alltid på -s, men är aktivt i betydelse.\n\n## 词组搭配 (Collocations)\n\n- `hoppas att...` — 希望……（后接 att-sats）\n- `hoppas det smakar` — 希望好吃（服务用语）\n- `hoppas på` — 寄希望于\n- `jag hoppas det` — 我希望如此\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hoppas det smakar! — 🇨🇳 希望你喜欢！\n- 🇸🇪 Jag hoppas att vi ses snart. — 🇨🇳 我希望我们很快能再见面。\n- 🇸🇪 Hoppas allt går bra! — 🇨🇳 希望一切顺利！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: hopp (希望/名词), hopplös (绝望的)\n- 同义词: önska (希望/期望)\n\n## 用法提示 (Usage Notes)\n\n- *Hoppas* 是 deponensverb（形式上是被动，但意义是主动）。始终以 -s 结尾。\n- 后接 att-sats：*Jag hoppas att det går bra* (我希望一切顺利)。",
+      "excerpt": "hoppas — verb (deponens, grupp 1) 📖 中文：希望 · English: to hope 发音提示：HOP pas 语法变形 (Forms) Form Swedish infinitiv hoppas presens hoppas preteritum hoppades supinum hoppats imperativ hoppas! OBS: Deponensverb — slutar alltid",
+      "links": [],
+      "searchText": "hoppas hoppas knowledge_base/words/hoppas.md ---\ntype: word\nlemma: \"hoppas\"\nordklass: verb\nverbgrupp: \"1\"\ncefr: A2\nzh: 希望\nen: to hope\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hoppas — verb (deponens, grupp 1)\n\n📖 中文：希望 · English: to hope\n发音提示：HOP-pas\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | hoppas |\n| presens | hoppas |\n| preteritum | hoppades |\n| supinum | hoppats |\n| imperativ | hoppas! |\n\nOBS: Deponensverb — slutar alltid på -s, men är aktivt i betydelse.\n\n## 词组搭配 (Collocations)\n\n- `hoppas att...` — 希望……（后接 att-sats）\n- `hoppas det smakar` — 希望好吃（服务用语）\n- `hoppas på` — 寄希望于\n- `jag hoppas det` — 我希望如此\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hoppas det smakar! — 🇨🇳 希望你喜欢！\n- 🇸🇪 Jag hoppas att vi ses snart. — 🇨🇳 我希望我们很快能再见面。\n- 🇸🇪 Hoppas allt går bra! — 🇨🇳 希望一切顺利！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: hopp (希望/名词), hopplös (绝望的)\n- 同义词: önska (希望/期望)\n\n## 用法提示 (Usage Notes)\n\n- *Hoppas* 是 deponensverb（形式上是被动，但意义是主动）。始终以 -s 结尾。\n- 后接 att-sats：*Jag hoppas att det går bra* (我希望一切顺利)。\n",
+      "lemma": "hoppas",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "希望",
+      "en": "to hope",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "minnas",
+        "sent-fika-varsågod-hoppas-det-smakar"
+      ]
+    },
+    {
       "slug": "hörn",
       "type": "word",
       "title": "hörn",
@@ -14786,6 +17599,34 @@ window.KB_DATA = {
         "source-2026-06-09-rumsliga-relationer",
         "topic-hemmet",
         "topic-mobler"
+      ]
+    },
+    {
+      "slug": "inne",
+      "type": "word",
+      "title": "inne",
+      "path": "knowledge_base/words/inne.md",
+      "body": "# inne — adverb\n\n📖 中文：里面；在室内 · English: inside; indoors\n发音提示：IN-neh\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `sitta inne` — 坐在里面\n- `vara inne` — 在里面\n- `gå in` — 进去（注意区分 inne/in）\n- `det ser mysigt ut där inne` — 里面看起来很温馨\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det ser mysigt ut där inne. — 🇨🇳 里面看起来很温馨。\n- 🇸🇪 Vill du sitta utomhus eller inne? — 🇨🇳 你想坐外面还是里面？\n- 🇸🇪 Det är kallt ute, vi stannar inne. — 🇨🇳 外面很冷，我们待在里面。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[utomhus]] (户外), ute (外面)\n- 相关: in (往里，方向), inomhus (在室内，较正式)\n\n## 用法提示 (Usage Notes)\n\n- *Inne* = 位置（在里面）；*in* = 方向（往里）。*Gå in* = 进去；*vara inne* = 在里面。",
+      "excerpt": "inne — adverb 📖 中文：里面；在室内 · English: inside; indoors 发音提示：IN neh 语法变形 (Forms) Adverb: oförändrad 词组搭配 (Collocations) sitta inne — 坐在里面 vara inne — 在里面 gå in — 进去（注意区分 inne/in） det ser mysigt ut där inne — 里面看起来很温馨 例句 (S",
+      "links": [
+        "utomhus"
+      ],
+      "searchText": "inne inne knowledge_base/words/inne.md ---\ntype: word\nlemma: \"inne\"\nordklass: adverb\ncefr: A1\nzh: 里面；在室内\nen: inside; indoors\nsynonyms: []\nantonyms: [\"utomhus\"]\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# inne — adverb\n\n📖 中文：里面；在室内 · English: inside; indoors\n发音提示：IN-neh\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `sitta inne` — 坐在里面\n- `vara inne` — 在里面\n- `gå in` — 进去（注意区分 inne/in）\n- `det ser mysigt ut där inne` — 里面看起来很温馨\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det ser mysigt ut där inne. — 🇨🇳 里面看起来很温馨。\n- 🇸🇪 Vill du sitta utomhus eller inne? — 🇨🇳 你想坐外面还是里面？\n- 🇸🇪 Det är kallt ute, vi stannar inne. — 🇨🇳 外面很冷，我们待在里面。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[utomhus]] (户外), ute (外面)\n- 相关: in (往里，方向), inomhus (在室内，较正式)\n\n## 用法提示 (Usage Notes)\n\n- *Inne* = 位置（在里面）；*in* = 方向（往里）。*Gå in* = 进去；*vara inne* = 在里面。\n",
+      "lemma": "inne",
+      "ordklass": "adverb",
+      "cefr": "A1",
+      "zh": "里面；在室内",
+      "en": "inside; indoors",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "innehålla",
+        "sent-fika-det-är-så-soligt-idag",
+        "sent-fika-ska-vi-ga-in-mysigt",
+        "sent-fika-vill-du-sitta-utomhus-eller-inne",
+        "utomhus"
       ]
     },
     {
@@ -15024,10 +17865,12 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "konditori",
         "sent-lite-langre-fram-i-hornet-storgatan-parkgatan-kafé",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
         "sent-utanfor-kafeet-star-tre-bankar-sitter-par-manniskor",
         "source-2026-06-09-beskriva-en-gata",
+        "topic-kafe-fika",
         "topic-stadsmiljo"
       ]
     },
@@ -15101,6 +17944,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "kanelbulle",
+      "type": "word",
+      "title": "kanelbulle",
+      "path": "knowledge_base/words/kanelbulle.md",
+      "body": "# kanelbulle — substantiv (en)\n\n📖 中文：肉桂卷 · English: cinnamon bun\n发音提示：kah-nel-BUL-leh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en kanelbulle |\n| bestämd singular | kanelbullen |\n| obestämd plural | kanelbullar |\n| bestämd plural | kanelbullarna |\n\n## 词组搭配 (Collocations)\n\n- `en kanelbulle och en kopp kaffe` — 一个肉桂卷和一杯咖啡（经典 fika 组合）\n- `kanelbulledagen` — 肉桂卷日（10月4日）\n- `färsk kanelbulle` — 新鲜肉桂卷\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag tar en kanelbulle och ett kaffe, tack. — 🇨🇳 我要一个肉桂卷和一杯咖啡，谢谢。\n- 🇸🇪 Kanelbullarna är nygräddade och doftar gott. — 🇨🇳 肉桂卷刚出炉，香气四溢。\n- 🇸🇪 En till kanelbulle skadar väl inte. — 🇨🇳 再来一个肉桂卷应该没关系吧。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kardemummabulle]] (小豆蔻卷), [[semla]] (奶油小圆面包)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典最具代表性的 fika 糕点之一，10月4日是\"肉桂卷日\"(kanelbulledagen)。\n- Sammansättning: kanel (肉桂) + bulle (面包卷)。",
+      "excerpt": "kanelbulle — substantiv (en) 📖 中文：肉桂卷 · English: cinnamon bun 发音提示：kah nel BUL leh 语法变形 (Forms) Form Swedish obestämd singular en kanelbulle bestämd singular kanelbullen obestämd plural kanelbullar bestämd plural kanelb",
+      "links": [
+        "kardemummabulle",
+        "semla",
+        "topic-kafe-fika"
+      ],
+      "searchText": "kanelbulle kanelbulle knowledge_base/words/kanelbulle.md ---\ntype: word\nlemma: \"kanelbulle\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 肉桂卷\nen: cinnamon bun\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kanelbulle — substantiv (en)\n\n📖 中文：肉桂卷 · English: cinnamon bun\n发音提示：kah-nel-BUL-leh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en kanelbulle |\n| bestämd singular | kanelbullen |\n| obestämd plural | kanelbullar |\n| bestämd plural | kanelbullarna |\n\n## 词组搭配 (Collocations)\n\n- `en kanelbulle och en kopp kaffe` — 一个肉桂卷和一杯咖啡（经典 fika 组合）\n- `kanelbulledagen` — 肉桂卷日（10月4日）\n- `färsk kanelbulle` — 新鲜肉桂卷\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag tar en kanelbulle och ett kaffe, tack. — 🇨🇳 我要一个肉桂卷和一杯咖啡，谢谢。\n- 🇸🇪 Kanelbullarna är nygräddade och doftar gott. — 🇨🇳 肉桂卷刚出炉，香气四溢。\n- 🇸🇪 En till kanelbulle skadar väl inte. — 🇨🇳 再来一个肉桂卷应该没关系吧。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kardemummabulle]] (小豆蔻卷), [[semla]] (奶油小圆面包)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典最具代表性的 fika 糕点之一，10月4日是\"肉桂卷日\"(kanelbulledagen)。\n- Sammansättning: kanel (肉桂) + bulle (面包卷)。\n",
+      "lemma": "kanelbulle",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "肉桂卷",
+      "en": "cinnamon bun",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "kardemummabulle",
+        "sent-fika-en-till-kanelbulle-skadar-väl-inte",
+        "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+        "sent-fika-men-vi-har-farsk-kanelbulle",
+        "topic-kafe-fika"
+      ]
+    },
+    {
       "slug": "kanin",
       "type": "word",
       "title": "kanin",
@@ -15128,6 +18003,96 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-08-djur",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "kardemummabulle",
+      "type": "word",
+      "title": "kardemummabulle",
+      "path": "knowledge_base/words/kardemummabulle.md",
+      "body": "# kardemummabulle — substantiv (en)\n\n📖 中文：小豆蔻卷 · English: cardamom bun\n发音提示：kar-deh-MUM-mah-bul-leh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en kardemummabulle |\n| bestämd singular | kardemummabullen |\n| obestämd plural | kardemummabullar |\n| bestämd plural | kardemummabullarna |\n\n## 词组搭配 (Collocations)\n\n- `ta en kardemummabulle` — 要一个小豆蔻卷\n- `nybakad kardemummabulle` — 新鲜烘焙的小豆蔻卷\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kardemummabullarna kom precis ur ugnen. — 🇨🇳 小豆蔻卷刚从烤箱里出来。\n- 🇸🇪 Jag föredrar kardemummabulle framför kanelbulle. — 🇨🇳 比起肉桂卷，我更喜欢小豆蔻卷。\n- 🇸🇪 Då tar jag en kardemummabulle, tack. — 🇨🇳 那我要一个小豆蔻卷，谢谢。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kanelbulle]] (肉桂卷), [[semla]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansättning: kardemumma (小豆蔻) + bulle (面包卷)。\n- 在瑞典咖啡馆中极为常见，与肉桂卷同为经典 fika 糕点。",
+      "excerpt": "kardemummabulle — substantiv (en) 📖 中文：小豆蔻卷 · English: cardamom bun 发音提示：kar deh MUM mah bul leh 语法变形 (Forms) Form Swedish obestämd singular en kardemummabulle bestämd singular kardemummabullen obestämd plural kardemumm",
+      "links": [
+        "kanelbulle",
+        "semla",
+        "topic-kafe-fika"
+      ],
+      "searchText": "kardemummabulle kardemummabulle knowledge_base/words/kardemummabulle.md ---\ntype: word\nlemma: \"kardemummabulle\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 小豆蔻卷\nen: cardamom bun\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kardemummabulle — substantiv (en)\n\n📖 中文：小豆蔻卷 · English: cardamom bun\n发音提示：kar-deh-MUM-mah-bul-leh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en kardemummabulle |\n| bestämd singular | kardemummabullen |\n| obestämd plural | kardemummabullar |\n| bestämd plural | kardemummabullarna |\n\n## 词组搭配 (Collocations)\n\n- `ta en kardemummabulle` — 要一个小豆蔻卷\n- `nybakad kardemummabulle` — 新鲜烘焙的小豆蔻卷\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kardemummabullarna kom precis ur ugnen. — 🇨🇳 小豆蔻卷刚从烤箱里出来。\n- 🇸🇪 Jag föredrar kardemummabulle framför kanelbulle. — 🇨🇳 比起肉桂卷，我更喜欢小豆蔻卷。\n- 🇸🇪 Då tar jag en kardemummabulle, tack. — 🇨🇳 那我要一个小豆蔻卷，谢谢。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kanelbulle]] (肉桂卷), [[semla]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansättning: kardemumma (小豆蔻) + bulle (面包卷)。\n- 在瑞典咖啡馆中极为常见，与肉桂卷同为经典 fika 糕点。\n",
+      "lemma": "kardemummabulle",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "小豆蔻卷",
+      "en": "cardamom bun",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "kanelbulle",
+        "kardemummate",
+        "sent-fika-då-tar-jag-en-kardemummabulle",
+        "sent-fika-men-vi-har-farsk-kanelbulle",
+        "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "kardemummate",
+      "type": "word",
+      "title": "kardemummate",
+      "path": "knowledge_base/words/kardemummate.md",
+      "body": "# kardemummate — substantiv (ett)\n\n📖 中文：小豆蔻茶 · English: cardamom tea\n发音提示：kar-deh-MUM-mah-teh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett kardemummate |\n| bestämd singular | kardemummatet |\n| obestämd plural | kardemummateer |\n| bestämd plural | kardemummateerna |\n\n## 词组搭配 (Collocations)\n\n- `en kopp kardemummate` — 一杯小豆蔻茶\n- `varmt kardemummate` — 热小豆蔻茶\n\n## 例句 (Sentences)\n\n- 🇸🇪 Har ni kardemummate? Det är jättepopulärt! — 🇨🇳 你们有小豆蔻茶吗？那很受欢迎！\n- 🇸🇪 Jag provar kardemummatet för första gången. — 🇨🇳 我第一次尝试小豆蔻茶。\n- 🇸🇪 Kardemummate passar bra med en bulle. — 🇨🇳 小豆蔻茶配面包卷很好喝。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[te]] (茶), kardemumma (小豆蔻), [[kardemummabulle]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansättning: kardemumma (小豆蔻) + te (茶)。在北欧咖啡馆中越来越流行。",
+      "excerpt": "kardemummate — substantiv (ett) 📖 中文：小豆蔻茶 · English: cardamom tea 发音提示：kar deh MUM mah teh 语法变形 (Forms) Form Swedish obestämd singular ett kardemummate bestämd singular kardemummatet obestämd plural kardemummateer bestä",
+      "links": [
+        "kardemummabulle",
+        "te",
+        "topic-kafe-fika"
+      ],
+      "searchText": "kardemummate kardemummate knowledge_base/words/kardemummate.md ---\ntype: word\nlemma: \"kardemummate\"\nordklass: substantiv\ngenus: ett\ncefr: B1\nzh: 小豆蔻茶\nen: cardamom tea\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kardemummate — substantiv (ett)\n\n📖 中文：小豆蔻茶 · English: cardamom tea\n发音提示：kar-deh-MUM-mah-teh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett kardemummate |\n| bestämd singular | kardemummatet |\n| obestämd plural | kardemummateer |\n| bestämd plural | kardemummateerna |\n\n## 词组搭配 (Collocations)\n\n- `en kopp kardemummate` — 一杯小豆蔻茶\n- `varmt kardemummate` — 热小豆蔻茶\n\n## 例句 (Sentences)\n\n- 🇸🇪 Har ni kardemummate? Det är jättepopulärt! — 🇨🇳 你们有小豆蔻茶吗？那很受欢迎！\n- 🇸🇪 Jag provar kardemummatet för första gången. — 🇨🇳 我第一次尝试小豆蔻茶。\n- 🇸🇪 Kardemummate passar bra med en bulle. — 🇨🇳 小豆蔻茶配面包卷很好喝。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[te]] (茶), kardemumma (小豆蔻), [[kardemummabulle]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansättning: kardemumma (小豆蔻) + te (茶)。在北欧咖啡馆中越来越流行。\n",
+      "lemma": "kardemummate",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "小豆蔻茶",
+      "en": "cardamom tea",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "sent-fika-ursäkta-har-ni-kardemummate",
+        "te",
+        "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "kassör",
+      "type": "word",
+      "title": "kassör",
+      "path": "knowledge_base/words/kassör.md",
+      "body": "# kassör — substantiv (en)\n\n📖 中文：收银员 · English: cashier\n发音提示：kah-SÖR\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en kassör |\n| bestämd singular | kassören |\n| obestämd plural | kassörer |\n| bestämd plural | kassörerna |\n\n## 词组搭配 (Collocations)\n\n- `kassören i kafét` — 咖啡馆的收银员\n- `fråga kassören` — 问收银员\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kassören ler och säger välkomna. — 🇨🇳 收银员微笑着说欢迎。\n- 🇸🇪 Jag frågade kassören om de hade kardemummate. — 🇨🇳 我问收银员他们有没有小豆蔻茶。\n- 🇸🇪 Kassören arbetar i en liten butik. — 🇨🇳 这位收银员在一家小店工作。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]], [[topic-yrken]]\n\n## 用法提示 (Usage Notes)\n\n- Kassörska 是女性形式，但 kassör 在现代瑞典语中通用于所有性别。",
+      "excerpt": "kassör — substantiv (en) 📖 中文：收银员 · English: cashier 发音提示：kah SÖR 语法变形 (Forms) Form Swedish obestämd singular en kassör bestämd singular kassören obestämd plural kassörer bestämd plural kassörerna 词组搭配 (Collocations) ka",
+      "links": [
+        "topic-kafe-fika",
+        "topic-yrken"
+      ],
+      "searchText": "kassör kassör knowledge_base/words/kassör.md ---\ntype: word\nlemma: \"kassör\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 收银员\nen: cashier\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika, topic-yrken]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kassör — substantiv (en)\n\n📖 中文：收银员 · English: cashier\n发音提示：kah-SÖR\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en kassör |\n| bestämd singular | kassören |\n| obestämd plural | kassörer |\n| bestämd plural | kassörerna |\n\n## 词组搭配 (Collocations)\n\n- `kassören i kafét` — 咖啡馆的收银员\n- `fråga kassören` — 问收银员\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kassören ler och säger välkomna. — 🇨🇳 收银员微笑着说欢迎。\n- 🇸🇪 Jag frågade kassören om de hade kardemummate. — 🇨🇳 我问收银员他们有没有小豆蔻茶。\n- 🇸🇪 Kassören arbetar i en liten butik. — 🇨🇳 这位收银员在一家小店工作。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]], [[topic-yrken]]\n\n## 用法提示 (Usage Notes)\n\n- Kassörska 是女性形式，但 kassör 在现代瑞典语中通用于所有性别。\n",
+      "lemma": "kassör",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "收银员",
+      "en": "cashier",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika",
+        "topic-yrken"
+      ],
+      "backlinks": [
+        "topic-kafe-fika"
       ]
     },
     {
@@ -15491,6 +18456,111 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "konditori",
+      "type": "word",
+      "title": "konditori",
+      "path": "knowledge_base/words/konditori.md",
+      "body": "# konditori — substantiv (ett)\n\n📖 中文：糕点咖啡馆 · English: pastry café; konditori\n发音提示：kon-di-toh-REE\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett konditori |\n| bestämd singular | konditoriet |\n| obestämd plural | konditorier |\n| bestämd plural | konditorerna |\n\n## 词组搭配 (Collocations)\n\n- `gå på konditori` — 去糕点咖啡馆\n- `ett gammalt konditori` — 一家老式糕点咖啡馆\n- `konditoriet på hörnet` — 角落里的糕点咖啡馆\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi brukar träffas på konditoriet varje lördag. — 🇨🇳 我们每周六都在糕点咖啡馆见面。\n- 🇸🇪 Det gamla konditoriet har de bästa bullarna i stan. — 🇨🇳 那家老牌糕点咖啡馆有全城最好的面包卷。\n- 🇸🇪 Hon jobbar som bagare på ett konditori. — 🇨🇳 她在一家糕点咖啡馆当面包师。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关: [[kafé]] (咖啡馆，更通用)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Konditori 比一般 kafé 更注重糕点和蛋糕，通常比较传统，提供精致甜点。",
+      "excerpt": "konditori — substantiv (ett) 📖 中文：糕点咖啡馆 · English: pastry café; konditori 发音提示：kon di toh REE 语法变形 (Forms) Form Swedish obestämd singular ett konditori bestämd singular konditoriet obestämd plural konditorier bestämd pl",
+      "links": [
+        "kafé",
+        "topic-kafe-fika"
+      ],
+      "searchText": "konditori konditori knowledge_base/words/konditori.md ---\ntype: word\nlemma: \"konditori\"\nordklass: substantiv\ngenus: ett\ncefr: A2\nzh: 糕点咖啡馆\nen: pastry café; konditori\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# konditori — substantiv (ett)\n\n📖 中文：糕点咖啡馆 · English: pastry café; konditori\n发音提示：kon-di-toh-REE\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett konditori |\n| bestämd singular | konditoriet |\n| obestämd plural | konditorier |\n| bestämd plural | konditorerna |\n\n## 词组搭配 (Collocations)\n\n- `gå på konditori` — 去糕点咖啡馆\n- `ett gammalt konditori` — 一家老式糕点咖啡馆\n- `konditoriet på hörnet` — 角落里的糕点咖啡馆\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi brukar träffas på konditoriet varje lördag. — 🇨🇳 我们每周六都在糕点咖啡馆见面。\n- 🇸🇪 Det gamla konditoriet har de bästa bullarna i stan. — 🇨🇳 那家老牌糕点咖啡馆有全城最好的面包卷。\n- 🇸🇪 Hon jobbar som bagare på ett konditori. — 🇨🇳 她在一家糕点咖啡馆当面包师。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关: [[kafé]] (咖啡馆，更通用)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Konditori 比一般 kafé 更注重糕点和蛋糕，通常比较传统，提供精致甜点。\n",
+      "lemma": "konditori",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "糕点咖啡馆",
+      "en": "pastry café; konditori",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "kafé",
+        "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "konsert",
+      "type": "word",
+      "title": "konsert",
+      "path": "knowledge_base/words/konsert.md",
+      "body": "# konsert — substantiv (en)\n\n📖 中文：音乐会；演唱会 · English: concert\n发音提示：kon-SERT\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en konsert |\n| bestämd singular | konserten |\n| obestämd plural | konserter |\n| bestämd plural | konserterna |\n\n## 词组搭配 (Collocations)\n\n- `gå på konsert` — 去听音乐会\n- `en livekonsert` — 现场音乐会\n- `konsertbiljett` — 音乐会门票\n- `konserthuset` — 音乐厅\n\n## 例句 (Sentences)\n\n- 🇸🇪 På lördagen gick jag på konsert med några kompisar. — 🇨🇳 周六我和几个朋友去听了场音乐会。\n- 🇸🇪 Konserten börjar klockan åtta. — 🇨🇳 音乐会八点开始。\n- 🇸🇪 Har du köpt biljetter till konserten? — 🇨🇳 你买了音乐会的票吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: konsertsal (音乐厅), konsertera (开音乐会)\n\n## 用法提示 (Usage Notes)\n\n- *Gå på konsert* = 去看音乐会（注意用 gå på，不说 gå till）。",
+      "excerpt": "konsert — substantiv (en) 📖 中文：音乐会；演唱会 · English: concert 发音提示：kon SERT 语法变形 (Forms) Form Swedish obestämd singular en konsert bestämd singular konserten obestämd plural konserter bestämd plural konserterna 词组搭配 (Colloc",
+      "links": [],
+      "searchText": "konsert konsert knowledge_base/words/konsert.md ---\ntype: word\nlemma: \"konsert\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 音乐会；演唱会\nen: concert\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# konsert — substantiv (en)\n\n📖 中文：音乐会；演唱会 · English: concert\n发音提示：kon-SERT\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en konsert |\n| bestämd singular | konserten |\n| obestämd plural | konserter |\n| bestämd plural | konserterna |\n\n## 词组搭配 (Collocations)\n\n- `gå på konsert` — 去听音乐会\n- `en livekonsert` — 现场音乐会\n- `konsertbiljett` — 音乐会门票\n- `konserthuset` — 音乐厅\n\n## 例句 (Sentences)\n\n- 🇸🇪 På lördagen gick jag på konsert med några kompisar. — 🇨🇳 周六我和几个朋友去听了场音乐会。\n- 🇸🇪 Konserten börjar klockan åtta. — 🇨🇳 音乐会八点开始。\n- 🇸🇪 Har du köpt biljetter till konserten? — 🇨🇳 你买了音乐会的票吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: konsertsal (音乐厅), konsertera (开音乐会)\n\n## 用法提示 (Usage Notes)\n\n- *Gå på konsert* = 去看音乐会（注意用 gå på，不说 gå till）。\n",
+      "lemma": "konsert",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "音乐会；演唱会",
+      "en": "concert",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-jag-var-hemma-mest"
+      ]
+    },
+    {
+      "slug": "kontant",
+      "type": "word",
+      "title": "kontant",
+      "path": "knowledge_base/words/kontant.md",
+      "body": "# kontant — adverb\n\n📖 中文：现金；用现金 · English: cash; in cash\n发音提示：kon-TANT\n\n## 语法变形 (Forms)\n\n- Som adverb: oförändrad (*betala kontant* = 付现金)\n- Som adjektiv: kontant / kontant / kontanta\n- Som substantiv (pluralis): kontanter (现金)\n\n## 词组搭配 (Collocations)\n\n- `betala kontant` — 付现金\n- `ta emot kontant` — 收现金\n- `kontant också, förstås` — 当然也收现金\n- `kontanter` — 现金（名词复数）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, vi tar både kort och Swish. Kontant också, förstås. — 🇨🇳 可以，我们支持刷卡和 Swish，当然也收现金。\n- 🇸🇪 Jag betalar kontant idag. — 🇨🇳 我今天付现金。\n- 🇸🇪 Har du kontanter? — 🇨🇳 你有现金吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- *Betala kontant* = 付现金（副词用法）。\n- *Kontanter* = 现金（名词，复数形式）。\n- 在瑞典越来越多的商店只接受卡/Swish，不接受现金。",
+      "excerpt": "kontant — adverb 📖 中文：现金；用现金 · English: cash; in cash 发音提示：kon TANT 语法变形 (Forms) Som adverb: oförändrad ( betala kontant = 付现金) Som adjektiv: kontant / kontant / kontanta Som substantiv (pluralis): kontanter (现金) 词组搭配 (",
+      "links": [
+        "topic-betalning"
+      ],
+      "searchText": "kontant kontant knowledge_base/words/kontant.md ---\ntype: word\nlemma: \"kontant\"\nordklass: adverb\ncefr: A2\nzh: 现金；用现金\nen: cash; in cash\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-betalning]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kontant — adverb\n\n📖 中文：现金；用现金 · English: cash; in cash\n发音提示：kon-TANT\n\n## 语法变形 (Forms)\n\n- Som adverb: oförändrad (*betala kontant* = 付现金)\n- Som adjektiv: kontant / kontant / kontanta\n- Som substantiv (pluralis): kontanter (现金)\n\n## 词组搭配 (Collocations)\n\n- `betala kontant` — 付现金\n- `ta emot kontant` — 收现金\n- `kontant också, förstås` — 当然也收现金\n- `kontanter` — 现金（名词复数）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, vi tar både kort och Swish. Kontant också, förstås. — 🇨🇳 可以，我们支持刷卡和 Swish，当然也收现金。\n- 🇸🇪 Jag betalar kontant idag. — 🇨🇳 我今天付现金。\n- 🇸🇪 Har du kontanter? — 🇨🇳 你有现金吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- *Betala kontant* = 付现金（副词用法）。\n- *Kontanter* = 现金（名词，复数形式）。\n- 在瑞典越来越多的商店只接受卡/Swish，不接受现金。\n",
+      "lemma": "kontant",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "现金；用现金",
+      "en": "cash; in cash",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "sent-fika-ja-vi-tar-kort-och-swish",
+        "topic-betalning"
+      ]
+    },
+    {
+      "slug": "kopp",
+      "type": "word",
+      "title": "kopp",
+      "path": "knowledge_base/words/kopp.md",
+      "body": "# kopp — substantiv (en)\n\n📖 中文：杯子（有耳朵的杯） · English: cup\n发音提示：KOHP\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en kopp |\n| bestämd singular | koppen |\n| obestämd plural | koppar |\n| bestämd plural | kopparna |\n\n## 词组搭配 (Collocations)\n\n- `en kopp kaffe` — 一杯咖啡\n- `en kopp te` — 一杯茶\n- `dricka ur koppen` — 从杯子里喝\n- `kaffekopparna` — 咖啡杯们\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag skulle vilja ha en kopp te, tack. — 🇨🇳 我想要一杯茶，谢谢。\n- 🇸🇪 Han dricker sin tredje kopp kaffe idag. — 🇨🇳 他今天喝了第三杯咖啡了。\n- 🇸🇪 Kopparna på kafét är väldigt fina. — 🇨🇳 咖啡馆里的杯子非常漂亮。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Kopp 特指有把手的杯子（如咖啡杯、茶杯）；glas 是玻璃杯（无把手）。",
+      "excerpt": "kopp — substantiv (en) 📖 中文：杯子（有耳朵的杯） · English: cup 发音提示：KOHP 语法变形 (Forms) Form Swedish obestämd singular en kopp bestämd singular koppen obestämd plural koppar bestämd plural kopparna 词组搭配 (Collocations) en kopp kaffe",
+      "links": [
+        "topic-kafe-fika"
+      ],
+      "searchText": "kopp kopp knowledge_base/words/kopp.md ---\ntype: word\nlemma: \"kopp\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 杯子（有耳朵的杯）\nen: cup\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kopp — substantiv (en)\n\n📖 中文：杯子（有耳朵的杯） · English: cup\n发音提示：KOHP\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en kopp |\n| bestämd singular | koppen |\n| obestämd plural | koppar |\n| bestämd plural | kopparna |\n\n## 词组搭配 (Collocations)\n\n- `en kopp kaffe` — 一杯咖啡\n- `en kopp te` — 一杯茶\n- `dricka ur koppen` — 从杯子里喝\n- `kaffekopparna` — 咖啡杯们\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag skulle vilja ha en kopp te, tack. — 🇨🇳 我想要一杯茶，谢谢。\n- 🇸🇪 Han dricker sin tredje kopp kaffe idag. — 🇨🇳 他今天喝了第三杯咖啡了。\n- 🇸🇪 Kopparna på kafét är väldigt fina. — 🇨🇳 咖啡馆里的杯子非常漂亮。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Kopp 特指有把手的杯子（如咖啡杯、茶杯）；glas 是玻璃杯（无把手）。\n",
+      "lemma": "kopp",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "杯子（有耳朵的杯）",
+      "en": "cup",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "glas",
+        "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+        "topic-kafe-fika"
+      ]
+    },
+    {
       "slug": "kors",
       "type": "word",
       "title": "kors",
@@ -15598,7 +18668,38 @@ window.KB_DATA = {
         "månadskort",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "topic-betalning",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "krona",
+      "type": "word",
+      "title": "krona",
+      "path": "knowledge_base/words/krona.md",
+      "body": "# krona — substantiv (en)\n\n📖 中文：克朗（瑞典货币） · English: Swedish krona\n发音提示：KROO-nah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en krona |\n| bestämd singular | kronan |\n| obestämd plural | kronor |\n| bestämd plural | kronorna |\n\n## 词组搭配 (Collocations)\n\n- `åttio kronor` — 八十克朗\n- `hundra kronor` — 一百克朗\n- `svenska kronor (SEK)` — 瑞典克朗（货币代码）\n- `det kostar X kronor` — 价格是X克朗\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det blir åttio kronor och tjugo öre totalt. — 🇨🇳 一共八十克朗零二十厄雷。\n- 🇸🇪 En kaffe kostar ungefär trettiofem kronor. — 🇨🇳 一杯咖啡大概三十五克朗。\n- 🇸🇪 Har du växel? Jag har bara en hundralapp. — 🇨🇳 你有零钱吗？我只有一张百元大钞。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[öre]] (厄雷，克朗的百分之一)\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典货币单位，货币代码 SEK。1 krona = 100 öre。\n- 复数 kronor（不是 kronor**s**）。",
+      "excerpt": "krona — substantiv (en) 📖 中文：克朗（瑞典货币） · English: Swedish krona 发音提示：KROO nah 语法变形 (Forms) Form Swedish obestämd singular en krona bestämd singular kronan obestämd plural kronor bestämd plural kronorna 词组搭配 (Collocations",
+      "links": [
+        "öre",
+        "topic-betalning"
+      ],
+      "searchText": "krona krona knowledge_base/words/krona.md ---\ntype: word\nlemma: \"krona\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 克朗（瑞典货币）\nen: Swedish krona\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-betalning]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# krona — substantiv (en)\n\n📖 中文：克朗（瑞典货币） · English: Swedish krona\n发音提示：KROO-nah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en krona |\n| bestämd singular | kronan |\n| obestämd plural | kronor |\n| bestämd plural | kronorna |\n\n## 词组搭配 (Collocations)\n\n- `åttio kronor` — 八十克朗\n- `hundra kronor` — 一百克朗\n- `svenska kronor (SEK)` — 瑞典克朗（货币代码）\n- `det kostar X kronor` — 价格是X克朗\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det blir åttio kronor och tjugo öre totalt. — 🇨🇳 一共八十克朗零二十厄雷。\n- 🇸🇪 En kaffe kostar ungefär trettiofem kronor. — 🇨🇳 一杯咖啡大概三十五克朗。\n- 🇸🇪 Har du växel? Jag har bara en hundralapp. — 🇨🇳 你有零钱吗？我只有一张百元大钞。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[öre]] (厄雷，克朗的百分之一)\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典货币单位，货币代码 SEK。1 krona = 100 öre。\n- 复数 kronor（不是 kronor**s**）。\n",
+      "lemma": "krona",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "克朗（瑞典货币）",
+      "en": "Swedish krona",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "öre",
+        "sent-fika-åttio-kronor-och-tjugo-öre",
+        "sent-fika-det-blir-åttio-kronor",
+        "topic-betalning"
       ]
     },
     {
@@ -15755,6 +18856,33 @@ window.KB_DATA = {
         "dam",
         "man",
         "topic-personer"
+      ]
+    },
+    {
+      "slug": "kvitto",
+      "type": "word",
+      "title": "kvitto",
+      "path": "knowledge_base/words/kvitto.md",
+      "body": "# kvitto — substantiv (ett)\n\n📖 中文：收据 · English: receipt\n发音提示：KVIT-oh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett kvitto |\n| bestämd singular | kvittot |\n| obestämd plural | kvitton |\n| bestämd plural | kvittona |\n\n## 词组搭配 (Collocations)\n\n- `vill ni ha kvitto?` — 需要收据吗？\n- `spara kvittot` — 保留收据\n- `digitalt kvitto` — 电子收据\n- `ta emot kvitto` — 接收收据\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vill ni ha kvitto? — 🇨🇳 需要收据吗？\n- 🇸🇪 Nej tack, det är bra så. — 🇨🇳 不用了，这样就好。\n- 🇸🇪 Jag behöver kvittot för att lämna tillbaka varorna. — 🇨🇳 我需要收据才能退货。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典许多咖啡馆和餐厅，收银员会主动询问是否需要收据，常见回答：*Nej tack, det är bra så.*",
+      "excerpt": "kvitto — substantiv (ett) 📖 中文：收据 · English: receipt 发音提示：KVIT oh 语法变形 (Forms) Form Swedish obestämd singular ett kvitto bestämd singular kvittot obestämd plural kvitton bestämd plural kvittona 词组搭配 (Collocations) vill ",
+      "links": [
+        "topic-betalning"
+      ],
+      "searchText": "kvitto kvitto knowledge_base/words/kvitto.md ---\ntype: word\nlemma: \"kvitto\"\nordklass: substantiv\ngenus: ett\ncefr: A2\nzh: 收据\nen: receipt\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-betalning]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kvitto — substantiv (ett)\n\n📖 中文：收据 · English: receipt\n发音提示：KVIT-oh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett kvitto |\n| bestämd singular | kvittot |\n| obestämd plural | kvitton |\n| bestämd plural | kvittona |\n\n## 词组搭配 (Collocations)\n\n- `vill ni ha kvitto?` — 需要收据吗？\n- `spara kvittot` — 保留收据\n- `digitalt kvitto` — 电子收据\n- `ta emot kvitto` — 接收收据\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vill ni ha kvitto? — 🇨🇳 需要收据吗？\n- 🇸🇪 Nej tack, det är bra så. — 🇨🇳 不用了，这样就好。\n- 🇸🇪 Jag behöver kvittot för att lämna tillbaka varorna. — 🇨🇳 我需要收据才能退货。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典许多咖啡馆和餐厅，收银员会主动询问是否需要收据，常见回答：*Nej tack, det är bra så.*\n",
+      "lemma": "kvitto",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "收据",
+      "en": "receipt",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "sent-fika-tack-så-mycket-vill-ni-ha-kvitto",
+        "topic-betalning"
       ]
     },
     {
@@ -16183,6 +19311,62 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "latte",
+      "type": "word",
+      "title": "latte",
+      "path": "knowledge_base/words/latte.md",
+      "body": "# latte — substantiv (en)\n\n📖 中文：拿铁 · English: latte\n发音提示：LAT-teh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en latte |\n| bestämd singular | latten |\n| obestämd plural | latter |\n| bestämd plural | latterna |\n\n## 词组搭配 (Collocations)\n\n- `en stor latte` — 大杯拿铁\n- `latte med havremjölk` — 燕麦奶拿铁\n- `latte macchiato` — 焦糖玛奇朵（类型）\n\n## 例句 (Sentences)\n\n- 🇸🇪 En latte, tack. Stor, gärna. — 🇨🇳 一杯拿铁，谢谢。大杯的，最好。\n- 🇸🇪 Jag brukar ta en latte på kafét varje morgon. — 🇨🇳 我每天早上都在咖啡馆点一杯拿铁。\n- 🇸🇪 Vill du ha latten med vanlig mjölk eller havremjölk? — 🇨🇳 你的拿铁要普通牛奶还是燕麦奶？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关: [[espresso]], [[cappuccino]], [[bryggkaffe]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 外来词，来自意大利语 *caffè latte*（牛奶咖啡）。",
+      "excerpt": "latte — substantiv (en) 📖 中文：拿铁 · English: latte 发音提示：LAT teh 语法变形 (Forms) Form Swedish obestämd singular en latte bestämd singular latten obestämd plural latter bestämd plural latterna 词组搭配 (Collocations) en stor latte",
+      "links": [
+        "bryggkaffe",
+        "cappuccino",
+        "espresso",
+        "topic-kafe-fika"
+      ],
+      "searchText": "latte latte knowledge_base/words/latte.md ---\ntype: word\nlemma: \"latte\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 拿铁\nen: latte\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# latte — substantiv (en)\n\n📖 中文：拿铁 · English: latte\n发音提示：LAT-teh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en latte |\n| bestämd singular | latten |\n| obestämd plural | latter |\n| bestämd plural | latterna |\n\n## 词组搭配 (Collocations)\n\n- `en stor latte` — 大杯拿铁\n- `latte med havremjölk` — 燕麦奶拿铁\n- `latte macchiato` — 焦糖玛奇朵（类型）\n\n## 例句 (Sentences)\n\n- 🇸🇪 En latte, tack. Stor, gärna. — 🇨🇳 一杯拿铁，谢谢。大杯的，最好。\n- 🇸🇪 Jag brukar ta en latte på kafét varje morgon. — 🇨🇳 我每天早上都在咖啡馆点一杯拿铁。\n- 🇸🇪 Vill du ha latten med vanlig mjölk eller havremjölk? — 🇨🇳 你的拿铁要普通牛奶还是燕麦奶？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关: [[espresso]], [[cappuccino]], [[bryggkaffe]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 外来词，来自意大利语 *caffè latte*（牛奶咖啡）。\n",
+      "lemma": "latte",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "拿铁",
+      "en": "latte",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "bryggkaffe",
+        "cappuccino",
+        "espresso",
+        "sent-fika-en-latte-tack-stor",
+        "sent-fika-vi-har-espresso-latte",
+        "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "ledig",
+      "type": "word",
+      "title": "ledig",
+      "path": "knowledge_base/words/ledig.md",
+      "body": "# ledig — adjektiv\n\n📖 中文：空闲的；空着的 · English: free; vacant; available\n发音提示：LEH-dig\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | ledig |\n| neutrum singular | ledigt |\n| plural/definite | lediga |\n\n## 词组搭配 (Collocations)\n\n- `är bordet ledigt?` — 桌子空着吗？\n- `ha ledigt` — 有空；不上班\n- `ledig dag` — 空闲日；假日\n- `ledig plats` — 空位；职位空缺\n\n## 例句 (Sentences)\n\n- 🇸🇪 Är det bordet i hörnet ledigt? — 🇨🇳 角落那张桌子是空的吗？\n- 🇸🇪 Jag har ledigt på fredag. — 🇨🇳 我周五休息。\n- 🇸🇪 Finns det lediga platser på tåget? — 🇨🇳 火车上有空位吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: fri (自由的；空闲的), lös (松散的)\n- 反义词: upptagen (占用的；忙碌的)\n\n## 用法提示 (Usage Notes)\n\n- *Ha ledigt* = 有空、不上班；*ett ledigt bord* = 一张空桌。\n- *Ledig tjänst* = 空缺职位（招聘语境）。",
+      "excerpt": "ledig — adjektiv 📖 中文：空闲的；空着的 · English: free; vacant; available 发音提示：LEH dig 语法变形 (Forms) Form Swedish utrum singular ledig neutrum singular ledigt plural/definite lediga 词组搭配 (Collocations) är bordet ledigt? — 桌子空着吗？ ",
+      "links": [],
+      "searchText": "ledig ledig knowledge_base/words/ledig.md ---\ntype: word\nlemma: \"ledig\"\nordklass: adjektiv\ncefr: A2\nzh: 空闲的；空着的\nen: free; vacant; available\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ledig — adjektiv\n\n📖 中文：空闲的；空着的 · English: free; vacant; available\n发音提示：LEH-dig\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | ledig |\n| neutrum singular | ledigt |\n| plural/definite | lediga |\n\n## 词组搭配 (Collocations)\n\n- `är bordet ledigt?` — 桌子空着吗？\n- `ha ledigt` — 有空；不上班\n- `ledig dag` — 空闲日；假日\n- `ledig plats` — 空位；职位空缺\n\n## 例句 (Sentences)\n\n- 🇸🇪 Är det bordet i hörnet ledigt? — 🇨🇳 角落那张桌子是空的吗？\n- 🇸🇪 Jag har ledigt på fredag. — 🇨🇳 我周五休息。\n- 🇸🇪 Finns det lediga platser på tåget? — 🇨🇳 火车上有空位吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: fri (自由的；空闲的), lös (松散的)\n- 反义词: upptagen (占用的；忙碌的)\n\n## 用法提示 (Usage Notes)\n\n- *Ha ledigt* = 有空、不上班；*ett ledigt bord* = 一张空桌。\n- *Ledig tjänst* = 空缺职位（招聘语境）。\n",
+      "lemma": "ledig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "空闲的；空着的",
+      "en": "free; vacant; available",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-är-det-bordet-i-hörnet-ledigt"
+      ]
+    },
+    {
       "slug": "lejon",
       "type": "word",
       "title": "lejon",
@@ -16415,6 +19599,52 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "ljus",
+      "type": "word",
+      "title": "ljus",
+      "path": "knowledge_base/words/ljus.md",
+      "body": "# ljus — adjektiv\n\n📖 中文：明亮的；浅色的 · English: bright; light\n发音提示：YOOS (lj 发 y 音)\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | ljus |\n| neutrum singular | ljust |\n| plural/definite | ljusa |\n\n也用作substantiv (ett ljus = 蜡烛/光)。\n\n## 词组搭配 (Collocations)\n\n- `ett ljust rum` — 明亮的房间\n- `ljust hår` — 浅色头发\n- `det är ljust ute` — 外面很亮\n- `ljusa färger` — 浅色（颜色）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Då är det ljust men inte för varmt. — 🇨🇳 那样既明亮又不会太热。\n- 🇸🇪 Kafét har stora fönster och är väldigt ljust. — 🇨🇳 咖啡馆有大窗户，非常明亮。\n- 🇸🇪 Hon har ljust hår och blå ögon. — 🇨🇳 她有浅色头发和蓝色眼睛。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ljus (ett, 蜡烛/光), ljusna (变亮), belysning (照明)\n- 同义词: klar (清晰的), solig (阳光明媚的)\n- 反义词: mörk (黑暗的)\n\n## 用法提示 (Usage Notes)\n\n- *Ljus* 作形容词 = 明亮的/浅色的；作名词 (ett ljus) = 蜡烛或光。\n- 瑞典冬天日照短，\"ljust\" 在瑞典文化中特别重要。",
+      "excerpt": "ljus — adjektiv 📖 中文：明亮的；浅色的 · English: bright; light 发音提示：YOOS (lj 发 y 音) 语法变形 (Forms) Form Swedish utrum singular ljus neutrum singular ljust plural/definite ljusa 也用作substantiv (ett ljus = 蜡烛/光)。 词组搭配 (Collocations) ",
+      "links": [],
+      "searchText": "ljus ljus knowledge_base/words/ljus.md ---\ntype: word\nlemma: \"ljus\"\nordklass: adjektiv\ncefr: A2\nzh: 明亮的；浅色的\nen: bright; light\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ljus — adjektiv\n\n📖 中文：明亮的；浅色的 · English: bright; light\n发音提示：YOOS (lj 发 y 音)\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | ljus |\n| neutrum singular | ljust |\n| plural/definite | ljusa |\n\n也用作substantiv (ett ljus = 蜡烛/光)。\n\n## 词组搭配 (Collocations)\n\n- `ett ljust rum` — 明亮的房间\n- `ljust hår` — 浅色头发\n- `det är ljust ute` — 外面很亮\n- `ljusa färger` — 浅色（颜色）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Då är det ljust men inte för varmt. — 🇨🇳 那样既明亮又不会太热。\n- 🇸🇪 Kafét har stora fönster och är väldigt ljust. — 🇨🇳 咖啡馆有大窗户，非常明亮。\n- 🇸🇪 Hon har ljust hår och blå ögon. — 🇨🇳 她有浅色头发和蓝色眼睛。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ljus (ett, 蜡烛/光), ljusna (变亮), belysning (照明)\n- 同义词: klar (清晰的), solig (阳光明媚的)\n- 反义词: mörk (黑暗的)\n\n## 用法提示 (Usage Notes)\n\n- *Ljus* 作形容词 = 明亮的/浅色的；作名词 (ett ljus) = 蜡烛或光。\n- 瑞典冬天日照短，\"ljust\" 在瑞典文化中特别重要。\n",
+      "lemma": "ljus",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "明亮的；浅色的",
+      "en": "bright; light",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "lampa",
+        "sent-fika-då-är-det-ljust",
+        "trafikljus"
+      ]
+    },
+    {
+      "slug": "lösa",
+      "type": "word",
+      "title": "lösa",
+      "path": "knowledge_base/words/lösa.md",
+      "body": "# lösa — verb (grupp 2)\n\n📖 中文：解决；解开 · English: to solve; to resolve\n发音提示：LÖ-sah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | lösa |\n| presens | löser |\n| preteritum | löste |\n| supinum | löst |\n| imperativ | lös! |\n\n## 词组搭配 (Collocations)\n\n- `det löser sig` — 会解决的（习语）\n- `lösa ett problem` — 解决问题\n- `lösa konflikten` — 化解冲突\n- `lösa upp` — 溶解；解开\n\n## 例句 (Sentences)\n\n- 🇸🇪 Men det löser sig. — 🇨🇳 不过会解决的。\n- 🇸🇪 Vi måste lösa det här problemet. — 🇨🇳 我们必须解决这个问题。\n- 🇸🇪 Löser du korsord? — 🇨🇳 你做填字游戏吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lösning (解决方案), lös (松散的/溶解的)\n- 同义词: klara av (完成), fixa (解决，口语)\n\n## 用法提示 (Usage Notes)\n\n- *Det löser sig* 是常用习语，表达乐观态度：事情会自己解决的。\n- *Lösa sig* = 自行解决；*lösa något* = 解决某事（需要主动努力）。",
+      "excerpt": "lösa — verb (grupp 2) 📖 中文：解决；解开 · English: to solve; to resolve 发音提示：LÖ sah 语法变形 (Forms) Form Swedish infinitiv lösa presens löser preteritum löste supinum löst imperativ lös! 词组搭配 (Collocations) det löser sig — 会解决的（习",
+      "links": [],
+      "searchText": "lösa lösa knowledge_base/words/lösa.md ---\ntype: word\nlemma: \"lösa\"\nordklass: verb\nverbgrupp: \"2\"\ncefr: B1\nzh: 解决；解开\nen: to solve; to resolve\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lösa — verb (grupp 2)\n\n📖 中文：解决；解开 · English: to solve; to resolve\n发音提示：LÖ-sah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | lösa |\n| presens | löser |\n| preteritum | löste |\n| supinum | löst |\n| imperativ | lös! |\n\n## 词组搭配 (Collocations)\n\n- `det löser sig` — 会解决的（习语）\n- `lösa ett problem` — 解决问题\n- `lösa konflikten` — 化解冲突\n- `lösa upp` — 溶解；解开\n\n## 例句 (Sentences)\n\n- 🇸🇪 Men det löser sig. — 🇨🇳 不过会解决的。\n- 🇸🇪 Vi måste lösa det här problemet. — 🇨🇳 我们必须解决这个问题。\n- 🇸🇪 Löser du korsord? — 🇨🇳 你做填字游戏吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lösning (解决方案), lös (松散的/溶解的)\n- 同义词: klara av (完成), fixa (解决，口语)\n\n## 用法提示 (Usage Notes)\n\n- *Det löser sig* 是常用习语，表达乐观态度：事情会自己解决的。\n- *Lösa sig* = 自行解决；*lösa något* = 解决某事（需要主动努力）。\n",
+      "lemma": "lösa",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "解决；解开",
+      "en": "to solve; to resolve",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-men-det-löser-sig"
+      ]
+    },
+    {
       "slug": "lova",
       "type": "word",
       "title": "lova",
@@ -16443,6 +19673,29 @@ window.KB_DATA = {
       "backlinks": [
         "sent-jag-ar-dar-om-tjugo-minuter",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "lovande",
+      "type": "word",
+      "title": "lovande",
+      "path": "knowledge_base/words/lovande.md",
+      "body": "# lovande — adjektiv\n\n📖 中文：有前途的；充满希望的 · English: promising\n发音提示：LOO-van-deh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| alla former | lovande (oförändrad i alla former) |\n\nPresens particip av verbet *lova* (att lova = 承诺).\n\n## 词组搭配 (Collocations)\n\n- `det låter lovande` — 听起来很有前途\n- `en lovande karriär` — 有前途的职业生涯\n- `lovande tecken` — 有希望的迹象\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det låter lovande! — 🇨🇳 听起来很有前途！\n- 🇸🇪 Han är en lovande ung spelare. — 🇨🇳 他是一位有前途的年轻球员。\n- 🇸🇪 Resultaten ser lovande ut. — 🇨🇳 结果看起来很有希望。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lova (承诺), löfte (承诺/诺言)\n- 同义词: hopfull (有希望的)\n\n## 用法提示 (Usage Notes)\n\n- *Lovande* 是 *lova* 的现在分词，用作形容词，所有形式相同（oförändrad）。\n- 常用于 *det låter lovande!* 表示对某事表示乐观期待。",
+      "excerpt": "lovande — adjektiv 📖 中文：有前途的；充满希望的 · English: promising 发音提示：LOO van deh 语法变形 (Forms) Form Swedish alla former lovande (oförändrad i alla former) Presens particip av verbet lova (att lova = 承诺). 词组搭配 (Collocations) det ",
+      "links": [],
+      "searchText": "lovande lovande knowledge_base/words/lovande.md ---\ntype: word\nlemma: \"lovande\"\nordklass: adjektiv\ncefr: B1\nzh: 有前途的；充满希望的\nen: promising\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lovande — adjektiv\n\n📖 中文：有前途的；充满希望的 · English: promising\n发音提示：LOO-van-deh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| alla former | lovande (oförändrad i alla former) |\n\nPresens particip av verbet *lova* (att lova = 承诺).\n\n## 词组搭配 (Collocations)\n\n- `det låter lovande` — 听起来很有前途\n- `en lovande karriär` — 有前途的职业生涯\n- `lovande tecken` — 有希望的迹象\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det låter lovande! — 🇨🇳 听起来很有前途！\n- 🇸🇪 Han är en lovande ung spelare. — 🇨🇳 他是一位有前途的年轻球员。\n- 🇸🇪 Resultaten ser lovande ut. — 🇨🇳 结果看起来很有希望。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lova (承诺), löfte (承诺/诺言)\n- 同义词: hopfull (有希望的)\n\n## 用法提示 (Usage Notes)\n\n- *Lovande* 是 *lova* 的现在分词，用作形容词，所有形式相同（oförändrad）。\n- 常用于 *det låter lovande!* 表示对某事表示乐观期待。\n",
+      "lemma": "lovande",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "有前途的；充满希望的",
+      "en": "promising",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "lova",
+        "sent-fika-vad-bra-det-låter-lovande"
       ]
     },
     {
@@ -16835,6 +20088,28 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "mest",
+      "type": "word",
+      "title": "mest",
+      "path": "knowledge_base/words/mest.md",
+      "body": "# mest — adverb\n\n📖 中文：大部分；主要；最 · English: mostly; mainly; most\n发音提示：MEST\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad (superlativ av \"mycket\")\n\n## 词组搭配 (Collocations)\n\n- `var hemma mest` — 大部分时间在家\n- `mest av allt` — 最重要的是\n- `det är mest bra` — 大部分是好的\n- `vem gör mest?` — 谁做得最多？\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag var hemma mest, men på lördagen gick jag på konsert. — 🇨🇳 我大部分时间在家，不过周六去听了场音乐会。\n- 🇸🇪 Vad gillar du mest? — 🇨🇳 你最喜欢什么？\n- 🇸🇪 Det regnar mest på hösten. — 🇨🇳 秋天雨水最多。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mer (更多，比较级), mycket (很多，原级)\n- 同义词: huvudsakligen (主要地), till stor del (很大程度上)\n\n## 用法提示 (Usage Notes)\n\n- *Mest* 是 *mycket* 的最高级（superlativ），也可表示\"大部分时间/大多数情况下\"。",
+      "excerpt": "mest — adverb 📖 中文：大部分；主要；最 · English: mostly; mainly; most 发音提示：MEST 语法变形 (Forms) Adverb: oförändrad (superlativ av \"mycket\") 词组搭配 (Collocations) var hemma mest — 大部分时间在家 mest av allt — 最重要的是 det är mest bra — 大部分是好的 v",
+      "links": [],
+      "searchText": "mest mest knowledge_base/words/mest.md ---\ntype: word\nlemma: \"mest\"\nordklass: adverb\ncefr: A2\nzh: 大部分；主要\nen: mostly; mainly\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mest — adverb\n\n📖 中文：大部分；主要；最 · English: mostly; mainly; most\n发音提示：MEST\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad (superlativ av \"mycket\")\n\n## 词组搭配 (Collocations)\n\n- `var hemma mest` — 大部分时间在家\n- `mest av allt` — 最重要的是\n- `det är mest bra` — 大部分是好的\n- `vem gör mest?` — 谁做得最多？\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag var hemma mest, men på lördagen gick jag på konsert. — 🇨🇳 我大部分时间在家，不过周六去听了场音乐会。\n- 🇸🇪 Vad gillar du mest? — 🇨🇳 你最喜欢什么？\n- 🇸🇪 Det regnar mest på hösten. — 🇨🇳 秋天雨水最多。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mer (更多，比较级), mycket (很多，原级)\n- 同义词: huvudsakligen (主要地), till stor del (很大程度上)\n\n## 用法提示 (Usage Notes)\n\n- *Mest* 是 *mycket* 的最高级（superlativ），也可表示\"大部分时间/大多数情况下\"。\n",
+      "lemma": "mest",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "大部分；主要",
+      "en": "mostly; mainly",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-jag-var-hemma-mest"
+      ]
+    },
+    {
       "slug": "minnas",
       "type": "word",
       "title": "minnas",
@@ -16975,6 +20250,33 @@ window.KB_DATA = {
         "source-2026-06-09-beskriva-en-gata",
         "source-2026-06-09-rumsliga-relationer",
         "topic-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "mjölk",
+      "type": "word",
+      "title": "mjölk",
+      "path": "knowledge_base/words/mjölk.md",
+      "body": "# mjölk — substantiv (en)\n\n📖 中文：牛奶 · English: milk\n发音提示：myölk (ö 发近似于英语 \"ur\" 音)\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | (en) mjölk |\n| bestämd singular | mjölken |\n| plural | — （通常不可数） |\n\n## 词组搭配 (Collocations)\n\n- `med eller utan mjölk` — 加奶还是不加奶\n- `ett glas mjölk` — 一杯牛奶\n- `vanlig mjölk / havremjölk / sojamjölk` — 普通牛奶 / 燕麦奶 / 豆奶\n- `lättmjölk` — 低脂牛奶\n\n## 例句 (Sentences)\n\n- 🇸🇪 Allt finns med eller utan mjölk. — 🇨🇳 所有的都可以加或不加牛奶。\n- 🇸🇪 Vill du ha mjölk i kaffet? — 🇨🇳 你咖啡里要加奶吗？\n- 🇸🇪 Vi har inte mjölk hemma — jag måste handla. — 🇨🇳 家里没牛奶了，我得去买。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mjölka (挤奶), mjölkig (含奶的)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典咖啡馆，常见选项包括 vanlig mjölk (普通奶), havremjölk (燕麦奶), sojamjölk (豆奶)。",
+      "excerpt": "mjölk — substantiv (en) 📖 中文：牛奶 · English: milk 发音提示：myölk (ö 发近似于英语 \"ur\" 音) 语法变形 (Forms) Form Swedish obestämd singular (en) mjölk bestämd singular mjölken plural — （通常不可数） 词组搭配 (Collocations) med eller utan mjölk — 加奶",
+      "links": [
+        "topic-kafe-fika"
+      ],
+      "searchText": "mjölk mjölk knowledge_base/words/mjölk.md ---\ntype: word\nlemma: \"mjölk\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 牛奶\nen: milk\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mjölk — substantiv (en)\n\n📖 中文：牛奶 · English: milk\n发音提示：myölk (ö 发近似于英语 \"ur\" 音)\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | (en) mjölk |\n| bestämd singular | mjölken |\n| plural | — （通常不可数） |\n\n## 词组搭配 (Collocations)\n\n- `med eller utan mjölk` — 加奶还是不加奶\n- `ett glas mjölk` — 一杯牛奶\n- `vanlig mjölk / havremjölk / sojamjölk` — 普通牛奶 / 燕麦奶 / 豆奶\n- `lättmjölk` — 低脂牛奶\n\n## 例句 (Sentences)\n\n- 🇸🇪 Allt finns med eller utan mjölk. — 🇨🇳 所有的都可以加或不加牛奶。\n- 🇸🇪 Vill du ha mjölk i kaffet? — 🇨🇳 你咖啡里要加奶吗？\n- 🇸🇪 Vi har inte mjölk hemma — jag måste handla. — 🇨🇳 家里没牛奶了，我得去买。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mjölka (挤奶), mjölkig (含奶的)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典咖啡馆，常见选项包括 vanlig mjölk (普通奶), havremjölk (燕麦奶), sojamjölk (豆奶)。\n",
+      "lemma": "mjölk",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "牛奶",
+      "en": "milk",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "sent-fika-allt-finns-med-eller-utan-mjölk",
+        "topic-kafe-fika"
       ]
     },
     {
@@ -17170,6 +20472,29 @@ window.KB_DATA = {
         "ring",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22"
+      ]
+    },
+    {
+      "slug": "mysig",
+      "type": "word",
+      "title": "mysig",
+      "path": "knowledge_base/words/mysig.md",
+      "body": "# mysig — adjektiv\n\n📖 中文：温馨的；舒适的 · English: cozy; snug\n发音提示：MEE-sig\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | mysig |\n| neutrum singular | mysigt |\n| plural/definite | mysiga |\n\n## 词组搭配 (Collocations)\n\n- `det ser mysigt ut` — 看起来很温馨\n- `ett mysigt kafé` — 一家温馨的咖啡馆\n- `en mysig kväll` — 一个温馨的夜晚\n- `mysa` — 放松、温馨地共度时光（动词）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det ser mysigt ut där inne. — 🇨🇳 里面看起来很温馨。\n- 🇸🇪 Vi sitter i ett mysigt hörn på kafét. — 🇨🇳 我们坐在咖啡馆一个温馨的角落。\n- 🇸🇪 Det är mysigt att fika med vänner på vintern. — 🇨🇳 冬天和朋友喝下午茶很温馨。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mysa (温馨共处), mys (温馨)\n- 同义词: trevlig (愉快的), ombonad (温馨的)\n\n## 用法提示 (Usage Notes)\n\n- Mysig 是典型的瑞典文化词，与 hygge（挪威语）概念相近，强调舒适、温馨的氛围，常用于描述咖啡馆、家居环境等。",
+      "excerpt": "mysig — adjektiv 📖 中文：温馨的；舒适的 · English: cozy; snug 发音提示：MEE sig 语法变形 (Forms) Form Swedish utrum singular mysig neutrum singular mysigt plural/definite mysiga 词组搭配 (Collocations) det ser mysigt ut — 看起来很温馨 ett mysigt ka",
+      "links": [],
+      "searchText": "mysig mysig knowledge_base/words/mysig.md ---\ntype: word\nlemma: \"mysig\"\nordklass: adjektiv\ncefr: A2\nzh: 温馨的；舒适的\nen: cozy; snug\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mysig — adjektiv\n\n📖 中文：温馨的；舒适的 · English: cozy; snug\n发音提示：MEE-sig\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | mysig |\n| neutrum singular | mysigt |\n| plural/definite | mysiga |\n\n## 词组搭配 (Collocations)\n\n- `det ser mysigt ut` — 看起来很温馨\n- `ett mysigt kafé` — 一家温馨的咖啡馆\n- `en mysig kväll` — 一个温馨的夜晚\n- `mysa` — 放松、温馨地共度时光（动词）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det ser mysigt ut där inne. — 🇨🇳 里面看起来很温馨。\n- 🇸🇪 Vi sitter i ett mysigt hörn på kafét. — 🇨🇳 我们坐在咖啡馆一个温馨的角落。\n- 🇸🇪 Det är mysigt att fika med vänner på vintern. — 🇨🇳 冬天和朋友喝下午茶很温馨。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mysa (温馨共处), mys (温馨)\n- 同义词: trevlig (愉快的), ombonad (温馨的)\n\n## 用法提示 (Usage Notes)\n\n- Mysig 是典型的瑞典文化词，与 hygge（挪威语）概念相近，强调舒适、温馨的氛围，常用于描述咖啡馆、家居环境等。\n",
+      "lemma": "mysig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "温馨的；舒适的",
+      "en": "cozy; snug",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-ska-vi-ga-in-mysigt",
+        "trevlig"
       ]
     },
     {
@@ -17454,6 +20779,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "öre",
+      "type": "word",
+      "title": "öre",
+      "path": "knowledge_base/words/öre.md",
+      "body": "# öre — substantiv (ett)\n\n📖 中文：厄雷（克朗的百分之一） · English: öre (1/100 of a krona)\n发音提示：ÖR-eh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett öre |\n| bestämd singular | öret |\n| obestämd plural | öre (同形复数) |\n| bestämd plural | örena |\n\n## 词组搭配 (Collocations)\n\n- `tjugo öre` — 二十厄雷\n- `inte ett öre` — 一分钱都没有（惯用语）\n- `femtio öre` — 五十厄雷（半克朗）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det blir åttio kronor och tjugo öre totalt. — 🇨🇳 一共八十克朗零二十厄雷。\n- 🇸🇪 Jag har inte ett öre kvar. — 🇨🇳 我一分钱都没有了。\n- 🇸🇪 Hundra öre är en krona. — 🇨🇳 一百厄雷等于一克朗。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[krona]] (克朗，货币单位)\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 实际上现金中已不使用 öre 硬币（最低面额为 1 krona），但在价格标注和发票中仍出现。",
+      "excerpt": "öre — substantiv (ett) 📖 中文：厄雷（克朗的百分之一） · English: öre (1/100 of a krona) 发音提示：ÖR eh 语法变形 (Forms) Form Swedish obestämd singular ett öre bestämd singular öret obestämd plural öre (同形复数) bestämd plural örena 词组搭配 (Colloc",
+      "links": [
+        "krona",
+        "topic-betalning"
+      ],
+      "searchText": "öre öre knowledge_base/words/öre.md ---\ntype: word\nlemma: \"öre\"\nordklass: substantiv\ngenus: ett\ncefr: A2\nzh: 厄雷（克朗的百分之一）\nen: öre (1/100 of a krona)\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-betalning]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# öre — substantiv (ett)\n\n📖 中文：厄雷（克朗的百分之一） · English: öre (1/100 of a krona)\n发音提示：ÖR-eh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett öre |\n| bestämd singular | öret |\n| obestämd plural | öre (同形复数) |\n| bestämd plural | örena |\n\n## 词组搭配 (Collocations)\n\n- `tjugo öre` — 二十厄雷\n- `inte ett öre` — 一分钱都没有（惯用语）\n- `femtio öre` — 五十厄雷（半克朗）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det blir åttio kronor och tjugo öre totalt. — 🇨🇳 一共八十克朗零二十厄雷。\n- 🇸🇪 Jag har inte ett öre kvar. — 🇨🇳 我一分钱都没有了。\n- 🇸🇪 Hundra öre är en krona. — 🇨🇳 一百厄雷等于一克朗。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[krona]] (克朗，货币单位)\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 实际上现金中已不使用 öre 硬币（最低面额为 1 krona），但在价格标注和发票中仍出现。\n",
+      "lemma": "öre",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "厄雷（克朗的百分之一）",
+      "en": "öre (1/100 of a krona)",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "krona",
+        "sent-fika-åttio-kronor-och-tjugo-öre",
+        "sent-fika-det-blir-åttio-kronor",
+        "topic-betalning"
+      ]
+    },
+    {
       "slug": "orm",
       "type": "word",
       "title": "orm",
@@ -17706,6 +21061,33 @@ window.KB_DATA = {
         "index",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22"
+      ]
+    },
+    {
+      "slug": "paj",
+      "type": "word",
+      "title": "paj",
+      "path": "knowledge_base/words/paj.md",
+      "body": "# paj — substantiv (en)\n\n📖 中文：果馅饼；馅饼 · English: pie; tart\n发音提示：PIE (与英语发音相同)\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en paj |\n| bestämd singular | pajen |\n| obestämd plural | pajer |\n| bestämd plural | pajerna |\n\n## 词组搭配 (Collocations)\n\n- `en bit paj` — 一块馅饼\n- `äppelpaj` — 苹果馅饼\n- `ostpaj` — 奶酪馅饼（咸）\n- `paj med grädde` — 加奶油的馅饼\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi har också paj och smörgåsar. — 🇨🇳 我们还有馅饼和三明治。\n- 🇸🇪 Äppelpajen är min favorit. — 🇨🇳 苹果馅饼是我的最爱。\n- 🇸🇪 Kan jag få en bit ostpaj, tack? — 🇨🇳 我可以要一块奶酪馅饼吗，谢谢？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Paj 可以是甜的（äppelpaj）或咸的（ostpaj, grönsakspaj），在瑞典咖啡馆中都很常见。",
+      "excerpt": "paj — substantiv (en) 📖 中文：果馅饼；馅饼 · English: pie; tart 发音提示：PIE (与英语发音相同) 语法变形 (Forms) Form Swedish obestämd singular en paj bestämd singular pajen obestämd plural pajer bestämd plural pajerna 词组搭配 (Collocations) en bit",
+      "links": [
+        "topic-kafe-fika"
+      ],
+      "searchText": "paj paj knowledge_base/words/paj.md ---\ntype: word\nlemma: \"paj\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 果馅饼；馅饼\nen: pie; tart\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# paj — substantiv (en)\n\n📖 中文：果馅饼；馅饼 · English: pie; tart\n发音提示：PIE (与英语发音相同)\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en paj |\n| bestämd singular | pajen |\n| obestämd plural | pajer |\n| bestämd plural | pajerna |\n\n## 词组搭配 (Collocations)\n\n- `en bit paj` — 一块馅饼\n- `äppelpaj` — 苹果馅饼\n- `ostpaj` — 奶酪馅饼（咸）\n- `paj med grädde` — 加奶油的馅饼\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi har också paj och smörgåsar. — 🇨🇳 我们还有馅饼和三明治。\n- 🇸🇪 Äppelpajen är min favorit. — 🇨🇳 苹果馅饼是我的最爱。\n- 🇸🇪 Kan jag få en bit ostpaj, tack? — 🇨🇳 我可以要一块奶酪馅饼吗，谢谢？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Paj 可以是甜的（äppelpaj）或咸的（ostpaj, grönsakspaj），在瑞典咖啡馆中都很常见。\n",
+      "lemma": "paj",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "果馅饼；馅饼",
+      "en": "pie; tart",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "sent-fika-vill-ni-ha-något-annat",
+        "topic-kafe-fika"
       ]
     },
     {
@@ -18559,6 +21941,29 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "riktigt",
+      "type": "word",
+      "title": "riktigt",
+      "path": "knowledge_base/words/riktigt.md",
+      "body": "# riktigt — adverb\n\n📖 中文：真地；非常（口语强调词） · English: really; quite (colloquial intensifier)\n发音提示：RIK-tigt\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n- Adj: riktig / riktigt / riktiga\n\n## 词组搭配 (Collocations)\n\n- `riktigt bra` — 真的很好\n- `riktigt hungrig` — 真的很饿\n- `inte riktigt` — 不完全是；不太对\n- `riktigt kul` — 真的很有趣\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är riktigt hungrig. — 🇨🇳 我真的很饿。\n- 🇸🇪 Ursäkta, jag hörde inte riktigt. — 🇨🇳 不好意思，我没听太清楚。\n- 🇸🇪 Det var riktigt gott! — 🇨🇳 真的很好吃！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: riktig (正确的/真正的), riktning (方向)\n- 同义词: verkligen (真的), väldigt (非常), jätte- (超级)\n\n## 用法提示 (Usage Notes)\n\n- *Riktigt* 作强调词时相当于英语 \"really/quite\"：*riktigt bra = really good*。\n- *Inte riktigt* = 不完全是，语气柔和，常用于礼貌地表示不同意。",
+      "excerpt": "riktigt — adverb 📖 中文：真地；非常（口语强调词） · English: really; quite (colloquial intensifier) 发音提示：RIK tigt 语法变形 (Forms) Adverb: oförändrad Adj: riktig / riktigt / riktiga 词组搭配 (Collocations) riktigt bra — 真的很好 riktigt hungrig —",
+      "links": [],
+      "searchText": "riktigt riktigt knowledge_base/words/riktigt.md ---\ntype: word\nlemma: \"riktigt\"\nordklass: adverb\ncefr: A2\nzh: 真地；非常（口语强调词）\nen: really; quite (colloquial intensifier)\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# riktigt — adverb\n\n📖 中文：真地；非常（口语强调词） · English: really; quite (colloquial intensifier)\n发音提示：RIK-tigt\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n- Adj: riktig / riktigt / riktiga\n\n## 词组搭配 (Collocations)\n\n- `riktigt bra` — 真的很好\n- `riktigt hungrig` — 真的很饿\n- `inte riktigt` — 不完全是；不太对\n- `riktigt kul` — 真的很有趣\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är riktigt hungrig. — 🇨🇳 我真的很饿。\n- 🇸🇪 Ursäkta, jag hörde inte riktigt. — 🇨🇳 不好意思，我没听太清楚。\n- 🇸🇪 Det var riktigt gott! — 🇨🇳 真的很好吃！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: riktig (正确的/真正的), riktning (方向)\n- 同义词: verkligen (真的), väldigt (非常), jätte- (超级)\n\n## 用法提示 (Usage Notes)\n\n- *Riktigt* 作强调词时相当于英语 \"really/quite\"：*riktigt bra = really good*。\n- *Inte riktigt* = 不完全是，语气柔和，常用于礼貌地表示不同意。\n",
+      "lemma": "riktigt",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "真地；非常（口语强调词）",
+      "en": "really; quite (colloquial intensifier)",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-men-nu-tar-vi-en-fika",
+        "sent-fika-ursäkta-vad-sa-du-hörde-inte"
+      ]
+    },
+    {
       "slug": "riktning",
       "type": "word",
       "title": "riktning",
@@ -19202,6 +22607,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "semla",
+      "type": "word",
+      "title": "semla",
+      "path": "knowledge_base/words/semla.md",
+      "body": "# semla — substantiv (en)\n\n📖 中文：奶油小圆面包（瑞典传统甜点） · English: Swedish cream bun\n发音提示：SEM-lah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en semla |\n| bestämd singular | semlan |\n| obestämd plural | semlor |\n| bestämd plural | semlorna |\n\n## 词组搭配 (Collocations)\n\n- `äta en semla` — 吃一个 semla\n- `semla på fettisdagen` — 忏悔星期二的 semla（传统日）\n- `semlan är slut` — semla 卖完了\n\n## 例句 (Sentences)\n\n- 🇸🇪 Semlan är bara till på vintern i Sverige. — 🇨🇳 Semla 在瑞典只在冬天才有。\n- 🇸🇪 Jag älskar semlor med massor av grädde. — 🇨🇳 我喜欢有很多奶油的 semlor。\n- 🇸🇪 Har ni semla idag? — 🇨🇳 今天有 semla 吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: fettisdagsbulle (fettisdag 版本的名称)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Semla 是瑞典传统糕点，通常在 Fettisdagen（忏悔星期二）前后供应，由小麦面包、杏仁糊和奶油制成。\n- 在冬季限定供应，夏天一般找不到。",
+      "excerpt": "semla — substantiv (en) 📖 中文：奶油小圆面包（瑞典传统甜点） · English: Swedish cream bun 发音提示：SEM lah 语法变形 (Forms) Form Swedish obestämd singular en semla bestämd singular semlan obestämd plural semlor bestämd plural semlorna 词组搭配 (Col",
+      "links": [
+        "topic-kafe-fika"
+      ],
+      "searchText": "semla semla knowledge_base/words/semla.md ---\ntype: word\nlemma: \"semla\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 奶油小圆面包（瑞典传统甜点）\nen: Swedish cream bun\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# semla — substantiv (en)\n\n📖 中文：奶油小圆面包（瑞典传统甜点） · English: Swedish cream bun\n发音提示：SEM-lah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en semla |\n| bestämd singular | semlan |\n| obestämd plural | semlor |\n| bestämd plural | semlorna |\n\n## 词组搭配 (Collocations)\n\n- `äta en semla` — 吃一个 semla\n- `semla på fettisdagen` — 忏悔星期二的 semla（传统日）\n- `semlan är slut` — semla 卖完了\n\n## 例句 (Sentences)\n\n- 🇸🇪 Semlan är bara till på vintern i Sverige. — 🇨🇳 Semla 在瑞典只在冬天才有。\n- 🇸🇪 Jag älskar semlor med massor av grädde. — 🇨🇳 我喜欢有很多奶油的 semlor。\n- 🇸🇪 Har ni semla idag? — 🇨🇳 今天有 semla 吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: fettisdagsbulle (fettisdag 版本的名称)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Semla 是瑞典传统糕点，通常在 Fettisdagen（忏悔星期二）前后供应，由小麦面包、杏仁糊和奶油制成。\n- 在冬季限定供应，夏天一般找不到。\n",
+      "lemma": "semla",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "奶油小圆面包（瑞典传统甜点）",
+      "en": "Swedish cream bun",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "kanelbulle",
+        "kardemummabulle",
+        "sent-fika-oj-vad-gott-det-ser-ut",
+        "sent-fika-tyvärr-semlan-är-bara",
+        "topic-kafe-fika"
+      ]
+    },
+    {
       "slug": "sitta",
       "type": "word",
       "title": "sitta",
@@ -19429,6 +22864,26 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "skratta",
+      "type": "word",
+      "title": "skratta",
+      "path": "knowledge_base/words/skratta.md",
+      "body": "# skratta — verb (grupp 1)\n\n📖 中文：笑；大笑 · English: to laugh\n发音提示：SKRAT-tah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | skratta |\n| presens | skrattar |\n| preteritum | skrattade |\n| supinum | skrattat |\n| imperativ | skratta! |\n\n## 词组搭配 (Collocations)\n\n- `skratta åt` — 笑话……；嘲笑\n- `skratta tillsammans` — 一起大笑\n- `ett gott skratt` — 一阵欢笑\n- `skratta högt` — 大声笑\n\n## 例句 (Sentences)\n\n- 🇸🇪 De skrattade åt vitset. — 🇨🇳 他们被那个笑话逗笑了。\n- 🇸🇪 Det är skönt att skratta. — 🇨🇳 笑起来真好。\n- 🇸🇪 Johan och Emma skrattade tillsammans på kafét. — 🇨🇳 约翰和艾玛在咖啡馆里一起笑了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: skratt (笑声, ett), fniss (咯咯笑)\n- 反义词: gråta (哭泣)\n\n## 用法提示 (Usage Notes)\n\n- *Skratta åt* = 笑话/嘲笑某事某人；*Skratta med* = 一起笑（带着善意）。",
+      "excerpt": "skratta — verb (grupp 1) 📖 中文：笑；大笑 · English: to laugh 发音提示：SKRAT tah 语法变形 (Forms) Form Swedish infinitiv skratta presens skrattar preteritum skrattade supinum skrattat imperativ skratta! 词组搭配 (Collocations) skratta åt ",
+      "links": [],
+      "searchText": "skratta skratta knowledge_base/words/skratta.md ---\ntype: word\nlemma: \"skratta\"\nordklass: verb\nverbgrupp: \"1\"\ncefr: A2\nzh: 笑；大笑\nen: to laugh\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skratta — verb (grupp 1)\n\n📖 中文：笑；大笑 · English: to laugh\n发音提示：SKRAT-tah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | skratta |\n| presens | skrattar |\n| preteritum | skrattade |\n| supinum | skrattat |\n| imperativ | skratta! |\n\n## 词组搭配 (Collocations)\n\n- `skratta åt` — 笑话……；嘲笑\n- `skratta tillsammans` — 一起大笑\n- `ett gott skratt` — 一阵欢笑\n- `skratta högt` — 大声笑\n\n## 例句 (Sentences)\n\n- 🇸🇪 De skrattade åt vitset. — 🇨🇳 他们被那个笑话逗笑了。\n- 🇸🇪 Det är skönt att skratta. — 🇨🇳 笑起来真好。\n- 🇸🇪 Johan och Emma skrattade tillsammans på kafét. — 🇨🇳 约翰和艾玛在咖啡馆里一起笑了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: skratt (笑声, ett), fniss (咯咯笑)\n- 反义词: gråta (哭泣)\n\n## 用法提示 (Usage Notes)\n\n- *Skratta åt* = 笑话/嘲笑某事某人；*Skratta med* = 一起笑（带着善意）。\n",
+      "lemma": "skratta",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "笑；大笑",
+      "en": "to laugh",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": []
+    },
+    {
       "slug": "skrivbord",
       "type": "word",
       "title": "skrivbord",
@@ -19571,6 +23026,61 @@ window.KB_DATA = {
       "backlinks": [
         "sent-skynda-dig-lite",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "smaka",
+      "type": "word",
+      "title": "smaka",
+      "path": "knowledge_base/words/smaka.md",
+      "body": "# smaka — verb (grupp 1)\n\n📖 中文：品尝；尝起来 · English: to taste; to try\n发音提示：SMAH-kah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | smaka |\n| presens | smakar |\n| preteritum | smakade |\n| supinum | smakat |\n| imperativ | smaka! |\n\n## 词组搭配 (Collocations)\n\n- `det smakar gott` — 味道很好\n- `hoppas det smakar` — 希望好吃\n- `smaka på något` — 尝尝某样东西\n- `smakar för gott` — 太好吃了（口语）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det smakar ju faktiskt för gott! — 🇨🇳 说真的，味道太好了！\n- 🇸🇪 Hoppas det smakar! — 🇨🇳 希望好吃！\n- 🇸🇪 Kan jag smaka på kakan? — 🇨🇳 我可以尝一口蛋糕吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: smak (口味/味道), smaklig (美味的), välsmakande (好吃的)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- *Smakar gott* = 好吃；*Smakar inte* = 不好吃。\n- *Smaka på* = 品尝一下（试吃）；*Det smakar* + adj 描述味道。",
+      "excerpt": "smaka — verb (grupp 1) 📖 中文：品尝；尝起来 · English: to taste; to try 发音提示：SMAH kah 语法变形 (Forms) Form Swedish infinitiv smaka presens smakar preteritum smakade supinum smakat imperativ smaka! 词组搭配 (Collocations) det smakar got",
+      "links": [
+        "topic-kafe-fika"
+      ],
+      "searchText": "smaka smaka knowledge_base/words/smaka.md ---\ntype: word\nlemma: \"smaka\"\nordklass: verb\nverbgrupp: \"1\"\ncefr: A2\nzh: 品尝；尝起来\nen: to taste; to try\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# smaka — verb (grupp 1)\n\n📖 中文：品尝；尝起来 · English: to taste; to try\n发音提示：SMAH-kah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | smaka |\n| presens | smakar |\n| preteritum | smakade |\n| supinum | smakat |\n| imperativ | smaka! |\n\n## 词组搭配 (Collocations)\n\n- `det smakar gott` — 味道很好\n- `hoppas det smakar` — 希望好吃\n- `smaka på något` — 尝尝某样东西\n- `smakar för gott` — 太好吃了（口语）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det smakar ju faktiskt för gott! — 🇨🇳 说真的，味道太好了！\n- 🇸🇪 Hoppas det smakar! — 🇨🇳 希望好吃！\n- 🇸🇪 Kan jag smaka på kakan? — 🇨🇳 我可以尝一口蛋糕吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: smak (口味/味道), smaklig (美味的), välsmakande (好吃的)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- *Smakar gott* = 好吃；*Smakar inte* = 不好吃。\n- *Smaka på* = 品尝一下（试吃）；*Det smakar* + adj 描述味道。\n",
+      "lemma": "smaka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "品尝；尝起来",
+      "en": "to taste; to try",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "sent-fika-det-smakar-ju-faktiskt-för-gott",
+        "sent-fika-varsågod-hoppas-det-smakar",
+        "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "smörgås",
+      "type": "word",
+      "title": "smörgås",
+      "path": "knowledge_base/words/smörgås.md",
+      "body": "# smörgås — substantiv (en)\n\n📖 中文：三明治；面包片 · English: sandwich; open-faced sandwich\n发音提示：SMÖR-gos (ö 类似法语 \"eu\")\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en smörgås |\n| bestämd singular | smörgåsen |\n| obestämd plural | smörgåsar |\n| bestämd plural | smörgåsarna |\n\n## 词组搭配 (Collocations)\n\n- `en smörgås med ost` — 奶酪三明治\n- `göra en smörgås` — 做一个三明治\n- `smörgåsbord` — 瑞典式自助餐（源自此词）\n- `macka` — 三明治的口语说法\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi har också paj och smörgåsar. — 🇨🇳 我们还有馅饼和三明治。\n- 🇸🇪 Jag tar en smörgås med skinka och ost. — 🇨🇳 我要一个火腿奶酪三明治。\n- 🇸🇪 En smörgås och ett glas vatten, tack. — 🇨🇳 一个三明治和一杯水，谢谢。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: smörgåsbord (自助餐)\n- 同义词（口语）: macka\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 传统瑞典 smörgås 是开放式三明治（单片面包加料），英式两片夹心三明治在瑞典语中也叫 smörgås 或 macka。\n- *Smörgåsbord*（自助餐）这个词已进入英语词典。",
+      "excerpt": "smörgås — substantiv (en) 📖 中文：三明治；面包片 · English: sandwich; open faced sandwich 发音提示：SMÖR gos (ö 类似法语 \"eu\") 语法变形 (Forms) Form Swedish obestämd singular en smörgås bestämd singular smörgåsen obestämd plural smörgåsar bes",
+      "links": [
+        "topic-kafe-fika"
+      ],
+      "searchText": "smörgås smörgås knowledge_base/words/smörgås.md ---\ntype: word\nlemma: \"smörgås\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 三明治；面包片\nen: sandwich; open-faced sandwich\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# smörgås — substantiv (en)\n\n📖 中文：三明治；面包片 · English: sandwich; open-faced sandwich\n发音提示：SMÖR-gos (ö 类似法语 \"eu\")\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en smörgås |\n| bestämd singular | smörgåsen |\n| obestämd plural | smörgåsar |\n| bestämd plural | smörgåsarna |\n\n## 词组搭配 (Collocations)\n\n- `en smörgås med ost` — 奶酪三明治\n- `göra en smörgås` — 做一个三明治\n- `smörgåsbord` — 瑞典式自助餐（源自此词）\n- `macka` — 三明治的口语说法\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi har också paj och smörgåsar. — 🇨🇳 我们还有馅饼和三明治。\n- 🇸🇪 Jag tar en smörgås med skinka och ost. — 🇨🇳 我要一个火腿奶酪三明治。\n- 🇸🇪 En smörgås och ett glas vatten, tack. — 🇨🇳 一个三明治和一杯水，谢谢。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: smörgåsbord (自助餐)\n- 同义词（口语）: macka\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 传统瑞典 smörgås 是开放式三明治（单片面包加料），英式两片夹心三明治在瑞典语中也叫 smörgås 或 macka。\n- *Smörgåsbord*（自助餐）这个词已进入英语词典。\n",
+      "lemma": "smörgås",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "三明治；面包片",
+      "en": "sandwich; open-faced sandwich",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "sent-fika-vill-ni-ha-något-annat",
+        "topic-kafe-fika"
       ]
     },
     {
@@ -20787,6 +24297,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "te",
+      "type": "word",
+      "title": "te",
+      "path": "knowledge_base/words/te.md",
+      "body": "# te — substantiv (ett)\n\n📖 中文：茶 · English: tea\n发音提示：TEH\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett te |\n| bestämd singular | teet |\n| obestämd plural | teen / teer |\n| bestämd plural | teerna |\n\n## 词组搭配 (Collocations)\n\n- `en kopp te` — 一杯茶\n- `grönt te` — 绿茶\n- `svart te` — 红茶（瑞典语叫\"黑茶\"）\n- `kardemummate` — 小豆蔻茶\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag skulle vilja ha en kopp te, tack. — 🇨🇳 我想要一杯茶，谢谢。\n- 🇸🇪 Har ni grönt te? — 🇨🇳 你们有绿茶吗？\n- 🇸🇪 Hon dricker alltid te på kvällen. — 🇨🇳 她晚上总是喝茶。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kardemummate]] (小豆蔻茶), tepåse (茶包), tekanna (茶壶)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典语 svart te 是指红茶（茶叶颜色），与中文\"红茶\"命名逻辑不同。",
+      "excerpt": "te — substantiv (ett) 📖 中文：茶 · English: tea 发音提示：TEH 语法变形 (Forms) Form Swedish obestämd singular ett te bestämd singular teet obestämd plural teen / teer bestämd plural teerna 词组搭配 (Collocations) en kopp te — 一杯茶 grönt ",
+      "links": [
+        "kardemummate",
+        "topic-kafe-fika"
+      ],
+      "searchText": "te te knowledge_base/words/te.md ---\ntype: word\nlemma: \"te\"\nordklass: substantiv\ngenus: ett\ncefr: A1\nzh: 茶\nen: tea\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-kafe-fika]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# te — substantiv (ett)\n\n📖 中文：茶 · English: tea\n发音提示：TEH\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett te |\n| bestämd singular | teet |\n| obestämd plural | teen / teer |\n| bestämd plural | teerna |\n\n## 词组搭配 (Collocations)\n\n- `en kopp te` — 一杯茶\n- `grönt te` — 绿茶\n- `svart te` — 红茶（瑞典语叫\"黑茶\"）\n- `kardemummate` — 小豆蔻茶\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag skulle vilja ha en kopp te, tack. — 🇨🇳 我想要一杯茶，谢谢。\n- 🇸🇪 Har ni grönt te? — 🇨🇳 你们有绿茶吗？\n- 🇸🇪 Hon dricker alltid te på kvällen. — 🇨🇳 她晚上总是喝茶。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kardemummate]] (小豆蔻茶), tepåse (茶包), tekanna (茶壶)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典语 svart te 是指红茶（茶叶颜色），与中文\"红茶\"命名逻辑不同。\n",
+      "lemma": "te",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "茶",
+      "en": "tea",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kafe-fika"
+      ],
+      "backlinks": [
+        "kardemummate",
+        "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+        "topic-kafe-fika"
+      ]
+    },
+    {
       "slug": "television",
       "type": "word",
       "title": "television",
@@ -21103,6 +24642,33 @@ window.KB_DATA = {
         "sent-rakt-fram-ser-jag-ett-torg",
         "source-2026-06-09-beskriva-en-gata",
         "topic-stadsmiljo"
+      ]
+    },
+    {
+      "slug": "totalt",
+      "type": "word",
+      "title": "totalt",
+      "path": "knowledge_base/words/totalt.md",
+      "body": "# totalt — adverb\n\n📖 中文：总共；一共 · English: in total; altogether\n发音提示：toh-TALT\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n- Adj: total / totalt / totala\n\n## 词组搭配 (Collocations)\n\n- `det blir X kronor totalt` — 总共X克朗\n- `totalt sett` — 总体来说\n- `totalt X personer` — 总共X人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det blir åttio kronor och tjugo öre totalt. — 🇨🇳 一共八十克朗零二十厄雷。\n- 🇸🇪 Vi var totalt tio personer på festen. — 🇨🇳 聚会上总共有十个人。\n- 🇸🇪 Hur mycket kostar det totalt? — 🇨🇳 一共多少钱？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: sammanlagt (合计), tillsammans (一起/共计)\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- *Totalt* 常放在句末：*Det kostar hundra kronor totalt.*",
+      "excerpt": "totalt — adverb 📖 中文：总共；一共 · English: in total; altogether 发音提示：toh TALT 语法变形 (Forms) Adverb: oförändrad Adj: total / totalt / totala 词组搭配 (Collocations) det blir X kronor totalt — 总共X克朗 totalt sett — 总体来说 totalt X pers",
+      "links": [
+        "topic-betalning"
+      ],
+      "searchText": "totalt totalt knowledge_base/words/totalt.md ---\ntype: word\nlemma: \"totalt\"\nordklass: adverb\ncefr: A2\nzh: 总共；一共\nen: in total; altogether\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-betalning]\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# totalt — adverb\n\n📖 中文：总共；一共 · English: in total; altogether\n发音提示：toh-TALT\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n- Adj: total / totalt / totala\n\n## 词组搭配 (Collocations)\n\n- `det blir X kronor totalt` — 总共X克朗\n- `totalt sett` — 总体来说\n- `totalt X personer` — 总共X人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det blir åttio kronor och tjugo öre totalt. — 🇨🇳 一共八十克朗零二十厄雷。\n- 🇸🇪 Vi var totalt tio personer på festen. — 🇨🇳 聚会上总共有十个人。\n- 🇸🇪 Hur mycket kostar det totalt? — 🇨🇳 一共多少钱？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: sammanlagt (合计), tillsammans (一起/共计)\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- *Totalt* 常放在句末：*Det kostar hundra kronor totalt.*\n",
+      "lemma": "totalt",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "总共；一共",
+      "en": "in total; altogether",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "sent-fika-det-blir-åttio-kronor",
+        "topic-betalning"
       ]
     },
     {
@@ -21454,6 +25020,50 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "tyvärr",
+      "type": "word",
+      "title": "tyvärr",
+      "path": "knowledge_base/words/tyvärr.md",
+      "body": "# tyvärr — adverb\n\n📖 中文：可惜；遗憾地 · English: unfortunately; I'm afraid\n发音提示：tee-VEHR\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `tyvärr, ...` — 遗憾的是……（开头）\n- `nej, tyvärr` — 不，可惜\n- `det går tyvärr inte` — 遗憾地这行不通\n\n## 例句 (Sentences)\n\n- 🇸🇪 Tyvärr, semlan är bara till på vintern. — 🇨🇳 可惜，semla 只在冬天供应。\n- 🇸🇪 Tyvärr kan jag inte komma på festen. — 🇨🇳 很遗憾我不能来参加聚会。\n- 🇸🇪 Nej tyvärr, vi har inga lediga bord. — 🇨🇳 很遗憾，我们没有空桌了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: dessvärre (不幸地，较正式)\n\n## 用法提示 (Usage Notes)\n\n- *Tyvärr* 是最常用的\"遗憾\"表达，比英语 \"unfortunately\" 更口语，可单独使用。\n- V2 规则：*Tyvärr är semlan slut* (把tyvärr前置，动词在第二位)。",
+      "excerpt": "tyvärr — adverb 📖 中文：可惜；遗憾地 · English: unfortunately; I'm afraid 发音提示：tee VEHR 语法变形 (Forms) Adverb: oförändrad 词组搭配 (Collocations) tyvärr, ... — 遗憾的是……（开头） nej, tyvärr — 不，可惜 det går tyvärr inte — 遗憾地这行不通 例句 (Sentences)",
+      "links": [],
+      "searchText": "tyvärr tyvärr knowledge_base/words/tyvärr.md ---\ntype: word\nlemma: \"tyvärr\"\nordklass: adverb\ncefr: A1\nzh: 可惜；遗憾地\nen: unfortunately; I'm afraid\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tyvärr — adverb\n\n📖 中文：可惜；遗憾地 · English: unfortunately; I'm afraid\n发音提示：tee-VEHR\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `tyvärr, ...` — 遗憾的是……（开头）\n- `nej, tyvärr` — 不，可惜\n- `det går tyvärr inte` — 遗憾地这行不通\n\n## 例句 (Sentences)\n\n- 🇸🇪 Tyvärr, semlan är bara till på vintern. — 🇨🇳 可惜，semla 只在冬天供应。\n- 🇸🇪 Tyvärr kan jag inte komma på festen. — 🇨🇳 很遗憾我不能来参加聚会。\n- 🇸🇪 Nej tyvärr, vi har inga lediga bord. — 🇨🇳 很遗憾，我们没有空桌了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: dessvärre (不幸地，较正式)\n\n## 用法提示 (Usage Notes)\n\n- *Tyvärr* 是最常用的\"遗憾\"表达，比英语 \"unfortunately\" 更口语，可单独使用。\n- V2 规则：*Tyvärr är semlan slut* (把tyvärr前置，动词在第二位)。\n",
+      "lemma": "tyvärr",
+      "ordklass": "adverb",
+      "cefr": "A1",
+      "zh": "可惜；遗憾地",
+      "en": "unfortunately; I'm afraid",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-tyvärr-semlan-är-bara"
+      ]
+    },
+    {
+      "slug": "ugn",
+      "type": "word",
+      "title": "ugn",
+      "path": "knowledge_base/words/ugn.md",
+      "body": "# ugn — substantiv (en)\n\n📖 中文：烤箱；炉子 · English: oven\n发音提示：UGHN\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en ugn |\n| bestämd singular | ugnen |\n| obestämd plural | ugnar |\n| bestämd plural | ugnarna |\n\n## 词组搭配 (Collocations)\n\n- `komma ut ur ugnen` — 从烤箱里出来（刚出炉）\n- `sätta in i ugnen` — 放入烤箱\n- `ugnen är på 200 grader` — 烤箱温度是200度\n- `nybakad ur ugnen` — 刚从烤箱里出来的\n\n## 例句 (Sentences)\n\n- 🇸🇪 De kom ut ur ugnen för en timme sedan. — 🇨🇳 一小时前刚从烤箱里出来的。\n- 🇸🇪 Sätt pajen i ugnen i trettio minuter. — 🇨🇳 把馅饼放进烤箱烤三十分钟。\n- 🇸🇪 Det luktar gott när brödet är i ugnen. — 🇨🇳 面包在烤箱里时香气四溢。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ugnshandske (烤箱手套), ugnsform (烤盘)\n\n## 用法提示 (Usage Notes)\n\n- *Kom precis ur ugnen* 是常见表达，意为\"刚出炉的\"，常用来强调食物新鲜。",
+      "excerpt": "ugn — substantiv (en) 📖 中文：烤箱；炉子 · English: oven 发音提示：UGHN 语法变形 (Forms) Form Swedish obestämd singular en ugn bestämd singular ugnen obestämd plural ugnar bestämd plural ugnarna 词组搭配 (Collocations) komma ut ur ugnen — 从",
+      "links": [],
+      "searchText": "ugn ugn knowledge_base/words/ugn.md ---\ntype: word\nlemma: \"ugn\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 烤箱；炉子\nen: oven\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ugn — substantiv (en)\n\n📖 中文：烤箱；炉子 · English: oven\n发音提示：UGHN\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en ugn |\n| bestämd singular | ugnen |\n| obestämd plural | ugnar |\n| bestämd plural | ugnarna |\n\n## 词组搭配 (Collocations)\n\n- `komma ut ur ugnen` — 从烤箱里出来（刚出炉）\n- `sätta in i ugnen` — 放入烤箱\n- `ugnen är på 200 grader` — 烤箱温度是200度\n- `nybakad ur ugnen` — 刚从烤箱里出来的\n\n## 例句 (Sentences)\n\n- 🇸🇪 De kom ut ur ugnen för en timme sedan. — 🇨🇳 一小时前刚从烤箱里出来的。\n- 🇸🇪 Sätt pajen i ugnen i trettio minuter. — 🇨🇳 把馅饼放进烤箱烤三十分钟。\n- 🇸🇪 Det luktar gott när brödet är i ugnen. — 🇨🇳 面包在烤箱里时香气四溢。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ugnshandske (烤箱手套), ugnsform (烤盘)\n\n## 用法提示 (Usage Notes)\n\n- *Kom precis ur ugnen* 是常见表达，意为\"刚出炉的\"，常用来强调食物新鲜。\n",
+      "lemma": "ugn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "烤箱；炉子",
+      "en": "oven",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-men-vi-har-farsk-kanelbulle"
+      ]
+    },
+    {
       "slug": "under",
       "type": "word",
       "title": "under",
@@ -21600,6 +25210,31 @@ window.KB_DATA = {
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-tid-och-tidsuttryck",
         "ungefär-en-timme"
+      ]
+    },
+    {
+      "slug": "utomhus",
+      "type": "word",
+      "title": "utomhus",
+      "path": "knowledge_base/words/utomhus.md",
+      "body": "# utomhus — adverb\n\n📖 中文：户外；在外面 · English: outdoors; outside\n发音提示：OO-tom-hoos\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `sitta utomhus` — 坐在外面\n- `leka utomhus` — 在外面玩\n- `utomhusaktivitet` — 户外活动\n- `utomhusbord` — 户外桌子\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vill du sitta utomhus eller inne? — 🇨🇳 你想坐外面还是里面？\n- 🇸🇪 Det är skönt att vara utomhus när solen skiner. — 🇨🇳 阳光明媚时在外面很舒服。\n- 🇸🇪 Barnen leker utomhus hela dagen. — 🇨🇳 孩子们整天在外面玩。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[inne]] (里面)\n- 同义词: ute (外面，更口语)\n\n## 用法提示 (Usage Notes)\n\n- *Utomhus* 强调在建筑物外面/户外；*ute* 更口语化，用法更广泛（如 *gå ut* = 出去）。",
+      "excerpt": "utomhus — adverb 📖 中文：户外；在外面 · English: outdoors; outside 发音提示：OO tom hoos 语法变形 (Forms) Adverb: oförändrad 词组搭配 (Collocations) sitta utomhus — 坐在外面 leka utomhus — 在外面玩 utomhusaktivitet — 户外活动 utomhusbord — 户外桌子 例句 (Sent",
+      "links": [
+        "inne"
+      ],
+      "searchText": "utomhus utomhus knowledge_base/words/utomhus.md ---\ntype: word\nlemma: \"utomhus\"\nordklass: adverb\ncefr: A2\nzh: 户外；在外面\nen: outdoors; outside\nsynonyms: []\nantonyms: [\"inne\"]\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# utomhus — adverb\n\n📖 中文：户外；在外面 · English: outdoors; outside\n发音提示：OO-tom-hoos\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `sitta utomhus` — 坐在外面\n- `leka utomhus` — 在外面玩\n- `utomhusaktivitet` — 户外活动\n- `utomhusbord` — 户外桌子\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vill du sitta utomhus eller inne? — 🇨🇳 你想坐外面还是里面？\n- 🇸🇪 Det är skönt att vara utomhus när solen skiner. — 🇨🇳 阳光明媚时在外面很舒服。\n- 🇸🇪 Barnen leker utomhus hela dagen. — 🇨🇳 孩子们整天在外面玩。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[inne]] (里面)\n- 同义词: ute (外面，更口语)\n\n## 用法提示 (Usage Notes)\n\n- *Utomhus* 强调在建筑物外面/户外；*ute* 更口语化，用法更广泛（如 *gå ut* = 出去）。\n",
+      "lemma": "utomhus",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "户外；在外面",
+      "en": "outdoors; outside",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "inne",
+        "sent-fika-vill-du-sitta-utomhus-eller-inne"
       ]
     },
     {
@@ -22230,6 +25865,51 @@ window.KB_DATA = {
       "backlinks": [
         "index",
         "source-2026-06-03-sundbyberg-forskola"
+      ]
+    },
+    {
+      "slug": "verka",
+      "type": "word",
+      "title": "verka",
+      "path": "knowledge_base/words/verka.md",
+      "body": "# verka — verb (grupp 2)\n\n📖 中文：看起来；似乎 · English: to seem; to appear\n发音提示：VER-kah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | verka |\n| presens | verkar |\n| preteritum | verkade |\n| supinum | verkat |\n| imperativ | verka! |\n\n## 词组搭配 (Collocations)\n\n- `det verkar bra` — 看起来不错\n- `verkar ledigt` — 看起来空着\n- `verkar vara` — 似乎是\n- `det verkar som att...` — 似乎……\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, det verkar det. Kom! — 🇨🇳 好像是空的，来吧！\n- 🇸🇪 Det verkar vara ett bra kafé. — 🇨🇳 这咖啡馆看起来不错。\n- 🇸🇪 Han verkar inte förstå frågan. — 🇨🇳 他似乎不理解这个问题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: verkan (效果), verksam (有效的), verksamhet (活动/业务)\n- 同义词: tyckas (看起来), se ut att (看起来像)\n\n## 用法提示 (Usage Notes)\n\n- *Verka* = 似乎/看起来（无实际证据的判断）；*Se ut* = 外观上看起来。\n- *Det verkar det* = 看起来是这样（简短回答）。",
+      "excerpt": "verka — verb (grupp 2) 📖 中文：看起来；似乎 · English: to seem; to appear 发音提示：VER kah 语法变形 (Forms) Form Swedish infinitiv verka presens verkar preteritum verkade supinum verkat imperativ verka! 词组搭配 (Collocations) det verkar br",
+      "links": [],
+      "searchText": "verka verka knowledge_base/words/verka.md ---\ntype: word\nlemma: \"verka\"\nordklass: verb\nverbgrupp: \"2\"\ncefr: A2\nzh: 看起来；似乎\nen: to seem; to appear\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# verka — verb (grupp 2)\n\n📖 中文：看起来；似乎 · English: to seem; to appear\n发音提示：VER-kah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | verka |\n| presens | verkar |\n| preteritum | verkade |\n| supinum | verkat |\n| imperativ | verka! |\n\n## 词组搭配 (Collocations)\n\n- `det verkar bra` — 看起来不错\n- `verkar ledigt` — 看起来空着\n- `verkar vara` — 似乎是\n- `det verkar som att...` — 似乎……\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, det verkar det. Kom! — 🇨🇳 好像是空的，来吧！\n- 🇸🇪 Det verkar vara ett bra kafé. — 🇨🇳 这咖啡馆看起来不错。\n- 🇸🇪 Han verkar inte förstå frågan. — 🇨🇳 他似乎不理解这个问题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: verkan (效果), verksam (有效的), verksamhet (活动/业务)\n- 同义词: tyckas (看起来), se ut att (看起来像)\n\n## 用法提示 (Usage Notes)\n\n- *Verka* = 似乎/看起来（无实际证据的判断）；*Se ut* = 外观上看起来。\n- *Det verkar det* = 看起来是这样（简短回答）。\n",
+      "lemma": "verka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "看起来；似乎",
+      "en": "to seem; to appear",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-ja-det-verkar-det"
+      ]
+    },
+    {
+      "slug": "verkligen",
+      "type": "word",
+      "title": "verkligen",
+      "path": "knowledge_base/words/verkligen.md",
+      "body": "# verkligen — adverb\n\n📖 中文：真的；确实 · English: really; truly\n发音提示：VERK-li-gen\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `ja, verkligen!` — 是啊，真的！\n- `det är verkligen bra` — 这真的很好\n- `verkligen inte` — 真的不是\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, verkligen! — 🇨🇳 是啊，真的！\n- 🇸🇪 Jag är riktigt hungrig. — 🇨🇳 我真的饿了。\n- 🇸🇪 Det är verkligen ett mysigt kafé. — 🇨🇳 这真的是一家温馨的咖啡馆。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: verklighet (现实), verklig (真实的)\n- 同义词: faktiskt (实际上), riktigt (真正地), sant (确实)\n\n## 用法提示 (Usage Notes)\n\n- *Verkligen* 表示真诚的确认或强调，比 *riktigt* 更正式，比 *faktiskt* 更强调真实性。",
+      "excerpt": "verkligen — adverb 📖 中文：真的；确实 · English: really; truly 发音提示：VERK li gen 语法变形 (Forms) Adverb: oförändrad 词组搭配 (Collocations) ja, verkligen! — 是啊，真的！ det är verkligen bra — 这真的很好 verkligen inte — 真的不是 例句 (Sentences) 🇸🇪 ",
+      "links": [],
+      "searchText": "verkligen verkligen knowledge_base/words/verkligen.md ---\ntype: word\nlemma: \"verkligen\"\nordklass: adverb\ncefr: A2\nzh: 真的；确实\nen: really; truly\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# verkligen — adverb\n\n📖 中文：真的；确实 · English: really; truly\n发音提示：VERK-li-gen\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `ja, verkligen!` — 是啊，真的！\n- `det är verkligen bra` — 这真的很好\n- `verkligen inte` — 真的不是\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, verkligen! — 🇨🇳 是啊，真的！\n- 🇸🇪 Jag är riktigt hungrig. — 🇨🇳 我真的饿了。\n- 🇸🇪 Det är verkligen ett mysigt kafé. — 🇨🇳 这真的是一家温馨的咖啡馆。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: verklighet (现实), verklig (真实的)\n- 同义词: faktiskt (实际上), riktigt (真正地), sant (确实)\n\n## 用法提示 (Usage Notes)\n\n- *Verkligen* 表示真诚的确认或强调，比 *riktigt* 更正式，比 *faktiskt* 更强调真实性。\n",
+      "lemma": "verkligen",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "真的；确实",
+      "en": "really; truly",
+      "created": "2026-06-09",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fika-ja-verkligen-förresten-bulle",
+        "source-2026-06-02-valj-ratt-form"
       ]
     },
     {
