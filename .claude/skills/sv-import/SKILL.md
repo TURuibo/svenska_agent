@@ -123,26 +123,45 @@ Read `profile/level.md`. If the word/phrase appears in the known vocabulary list
 
 ### 4b. Dedup against the KB (sv-knowledge-base §3)
 
+**Step 0 — load slug manifest (fast path):**
+Read `knowledge_base/_index/slugs.json` ONCE at the start of the import. This file is generated
+by `tools/build-kb-site.js` and lists every existing slug grouped by type. Load it into memory and
+use it to check every item's slug without additional Glob/Grep calls.
+
+If `slugs.json` does not exist (manifest not yet generated), fall back to the per-item path below.
+
+**Per-item check:**
 1. Compute the slug (per sv-knowledge-base §2 rules):
-   - word → `knowledge_base/words/<lemma>.md`
-   - phrase → `knowledge_base/phrases/<phrase-slug>.md`
-   - sentence → `knowledge_base/sentences/sent-<first-words>.md`
-   - grammar → `knowledge_base/grammar/grammar-<name>.md`
-2. `Glob` the expected path.
-3. For phrases and sentences, also `Grep` the folder for key words (fuzzy match guard).
-4. If found → **DUP**: skip creation. Enrich only if the import adds a genuinely new sense,
-   collocation, or example sentence that is absent from the existing note. Report: `DUP-skipped: [slug]`.
+   - word → slug = lemma (lowercased, spaces→`-`)
+   - phrase → slug = lowercased phrase, spaces→`-`
+   - sentence → slug = `sent-` + first 4–6 significant words
+   - grammar → slug = `grammar-` + term
+2. Check the slug against the in-memory manifest. If found → **DUP**.
+3. For phrases and sentences only (fuzzy slugs): if NOT found in manifest, also `Grep` the folder
+   for key words as a near-duplicate guard.
+4. If found (either manifest or Grep) → **DUP**: skip creation. Enrich only if the import adds a
+   genuinely new sense, collocation, or example sentence absent from the existing note.
+   Report: `DUP-skipped: [slug]`.
 5. If not found → proceed to store.
 
 ---
 
 ## 5. 录入路由 (Routing: inline vs sv-librarian)
 
+### Detect drill imports (skip_examples flag)
+
+Before routing, inspect the export block header for the `kind:` field:
+- If `kind: drill` (or the spawn prompt / $ARGUMENTS contains `skip_examples` or `drill`) →
+  set **`skip_examples = true`** for this import run.
+- The daily adjsubst böjning generator (via `/adjsubst`) always produces `kind: drill` headers —
+  these imports must always skip example-sentence generation.
+
 ### Small batch (≤ 3 items total across all sections)
 
 Store inline:
 - Create each note directly using the matching template from `knowledge_base/_templates/`.
-- Wire bidirectional `[[wikilinks]]` per sv-knowledge-base §4.
+- Wire forward `[[wikilinks]]` per sv-knowledge-base §4 (reverse links derived at build time).
+- If `skip_examples = true`, omit the `## 例句` section entirely (do not generate inline examples).
 - Add reviewable notes to `review/schedule.md` with immediate `due:` date.
 
 ### Large batch (> 3 items total)
@@ -166,6 +185,8 @@ Store inline:
    - The fully-enriched (gap-filled), intra-block-deduped item lists.
    - The `date:` to use for `created:` frontmatter.
    - Instruction to add new reviewable notes to `review/schedule.md`.
+   - If `skip_examples = true`, explicitly pass: `skip_examples: true` in the spawn prompt so
+     the librarian skips generating example sentences for every word note in this batch.
 3. Await the librarian's manifest report.
 
 ---

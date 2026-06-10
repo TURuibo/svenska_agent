@@ -117,6 +117,7 @@ function walkMarkdownFiles(dir) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
       if (entry.name === '_templates') continue;
+      if (entry.name === '_index') continue;
       output.push(...walkMarkdownFiles(fullPath));
     } else if (entry.isFile() && entry.name.endsWith('.md')) {
       output.push(fullPath);
@@ -166,6 +167,36 @@ const notes = walkMarkdownFiles(kbRoot).map((filePath) => {
 
   return note;
 });
+
+// --- B: Compute build-time backlinks by inverting the forward-link graph ---
+const backlinkMap = new Map(); // slug → Set of slugs that link TO it
+for (const note of notes) {
+  for (const target of note.links) {
+    if (!backlinkMap.has(target)) backlinkMap.set(target, new Set());
+    backlinkMap.get(target).add(note.slug);
+  }
+}
+for (const note of notes) {
+  const bl = backlinkMap.get(note.slug);
+  note.backlinks = bl ? Array.from(bl).filter(s => s !== note.slug).sort((a, b) => a.localeCompare(b)) : [];
+}
+
+// --- C: Write slug manifest to knowledge_base/_index/slugs.json ---
+const indexDir = path.join(kbRoot, '_index');
+fs.mkdirSync(indexDir, { recursive: true });
+
+const slugsByType = {};
+for (const note of notes) {
+  const t = note.type || 'unknown';
+  if (!slugsByType[t]) slugsByType[t] = [];
+  slugsByType[t].push(note.slug);
+}
+for (const t of Object.keys(slugsByType)) {
+  slugsByType[t].sort((a, b) => a.localeCompare(b));
+}
+const slugManifestPath = path.join(indexDir, 'slugs.json');
+fs.writeFileSync(slugManifestPath, JSON.stringify(slugsByType, null, 2), 'utf8');
+console.log(`Generated ${slugManifestPath} with ${notes.length} slugs across ${Object.keys(slugsByType).length} types.`);
 
 const generatedAt = process.env.KB_SITE_GENERATED_AT || new Date().toISOString().replace('T', ' ').slice(0, 19);
 const data = { generatedAt, notes };
