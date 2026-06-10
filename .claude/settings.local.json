@@ -11,7 +11,18 @@
       "Bash(cp -r __TRACKED_VAR__/swedish-grammar .claude/skills/)",
       "PowerShell(& powershell -NoProfile -ExecutionPolicy Bypass -File \".claude\\\\scripts\\\\trace.ps1\" -Top 8)",
       "Bash(mkdir -p \"C:/Users/ruibo/.claude/skills/swedish-export\" \"C:/Users/ruibo/Documents/svensk_agent/dist/swedish-export\" && echo \"dirs ready\")",
-      "Bash(cp \"C:/Users/ruibo/.claude/skills/swedish-export/SKILL.md\" \"C:/Users/ruibo/Documents/svensk_agent/dist/swedish-export/SKILL.md\" && echo \"copied skill to dist/ for web upload\")"
+      "Bash(cp \"C:/Users/ruibo/.claude/skills/swedish-export/SKILL.md\" \"C:/Users/ruibo/Documents/svensk_agent/dist/swedish-export/SKILL.md\" && echo \"copied skill to dist/ for web upload\")",
+      "PowerShell(powershell -ExecutionPolicy Bypass -File .claude/hooks/kb_stats.ps1)",
+      "Bash(node tools/build-kb-site.js)",
+      "Bash(cmd //c \"winget install --id GitHub.cli --accept-source-agreements --accept-package-agreements\")",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Bash(gh --version)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" --version)",
+      "Bash(cmd //c \"gh --version\")",
+      "Bash(gh auth:*)",
+      "Bash(gh pr create --title 'Import NYHETS-SIDAN Vecka 22: 62 new KB entries' --body ':*)",
+      "Bash(grep -l \"synonyms: \\\\[\\\\]\" knowledge_base/words/*.md)",
+      "Bash(ls knowledge_base/words/*.md)"
     ]
   }
 }
