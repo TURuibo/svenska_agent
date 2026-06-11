@@ -1,0 +1,249 @@
+/* Former — 词形变化 by 词性 page. Builds on ../styles.css variables. */
+
+.formsBody {
+  font-family: var(--cjk);
+  padding-bottom: 4rem;
+}
+
+.formsHeader {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: rgba(247, 248, 242, 0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+  padding: 0.4rem clamp(0.75rem, 3vw, 2rem);
+}
+
+.formsBar {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem 1rem;
+  flex-wrap: wrap;
+}
+
+.formsBrand {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex: 0 0 auto;
+}
+
+.formsBrand h1 {
+  margin: 0;
+  font-family: Georgia, serif;
+  font-size: 1.15rem;
+  line-height: 1.2;
+  color: var(--green-dark);
+}
+
+.formsBrand .brandSub {
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-weight: normal;
+}
+
+.formsBrand .updated {
+  font-size: 0.72rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.formsSearch {
+  flex: 1 1 200px;
+  min-width: 160px;
+  display: block;
+}
+
+.formsSearch input {
+  width: 100%;
+  padding: 0.35rem 0.65rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  font-size: 0.85rem;
+}
+
+.formsSort { display: flex; align-items: center; gap: 0.25rem; flex: 0 0 auto; }
+
+.sortBtn {
+  padding: 0.25rem 0.55rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel);
+  color: var(--ink);
+  cursor: pointer;
+  font-size: 0.78rem;
+}
+.sortBtn.active {
+  background: var(--green);
+  color: #fff;
+  border-color: var(--green);
+}
+
+.formsNav {
+  display: flex;
+  gap: 0.3rem;
+  flex: 0 0 auto;
+}
+
+.navLink {
+  display: inline-block;
+  padding: 0.25rem 0.55rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel);
+  color: var(--green-dark);
+  text-decoration: none;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+.navLink:hover { border-color: var(--green); }
+
+.classFilters {
+  display: flex;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+  flex-basis: 100%;
+  margin-top: 0.4rem;
+}
+.classFilters.hidden { display: none; }
+
+.classChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.15rem 0.5rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel-soft);
+  color: var(--green-dark);
+  text-decoration: none;
+  font-size: 0.76rem;
+}
+.classChip:hover { border-color: var(--green); }
+.classChip span {
+  background: var(--green);
+  color: #fff;
+  border-radius: 999px;
+  padding: 0 0.35rem;
+  font-size: 0.68rem;
+}
+
+.formsMain {
+  padding: 1rem clamp(0.75rem, 3vw, 2rem) 4rem;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.classBlock { margin-bottom: 1.8rem; scroll-margin-top: 4.5rem; }
+
+.classTitle {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin: 0 0 0.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid var(--green);
+  font-family: Georgia, serif;
+}
+.classTitle .sv { font-size: 1.35rem; color: var(--green-dark); }
+.classTitle .zh { font-size: 1rem; color: var(--muted); }
+.classTitle .classCount {
+  margin-left: auto;
+  font-size: 0.85rem;
+  color: #fff;
+  background: var(--green);
+  border-radius: 999px;
+  padding: 0.05rem 0.6rem;
+}
+
+.tableWrap { overflow-x: auto; }
+
+.formsTable {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+  font-size: 0.92rem;
+}
+
+.formsTable thead th {
+  text-align: left;
+  background: var(--panel-soft);
+  color: var(--green-dark);
+  font-weight: 600;
+  padding: 0.5rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+}
+
+.formsTable tbody td {
+  padding: 0.5rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+.formsTable tbody tr:last-child td { border-bottom: none; }
+.formsTable tbody tr:hover { background: rgba(47, 111, 85, 0.05); }
+
+.colWord { white-space: nowrap; }
+.colWord a {
+  font-family: Georgia, serif;
+  font-size: 1.02rem;
+  font-weight: 600;
+  color: var(--blue);
+  text-decoration: none;
+}
+.colWord a:hover { text-decoration: underline; }
+.cefr {
+  display: inline-block;
+  margin-left: 0.4rem;
+  font-size: 0.65rem;
+  color: var(--gold);
+  border: 1px solid var(--gold);
+  border-radius: 4px;
+  padding: 0 0.25rem;
+  vertical-align: middle;
+}
+
+.colForms { line-height: 1.9; }
+.formTag {
+  display: inline-block;
+  margin: 0 0.3rem 0.2rem 0;
+  padding: 0.05rem 0.45rem;
+  background: var(--panel-soft);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  font-family: Georgia, serif;
+  font-size: 0.88rem;
+}
+.formTag.base {
+  background: rgba(47, 111, 85, 0.12);
+  border-color: var(--green);
+  color: var(--green-dark);
+  font-weight: 600;
+}
+.noForm { color: var(--muted); font-style: italic; }
+
+.colMean .mZh { display: block; }
+.colMean .mEn { display: block; color: var(--muted); font-size: 0.82rem; }
+
+.colDate {
+  white-space: nowrap;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.formsEmpty, .formsLoading {
+  text-align: center;
+  color: var(--muted);
+  padding: 3rem 1rem;
+}
+
+@media (max-width: 640px) {
+  .colDate { display: none; }
+  .formsTable { font-size: 0.86rem; }
+}
