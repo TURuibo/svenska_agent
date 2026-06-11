@@ -101,6 +101,70 @@ function getExcerpt(body) {
   return text.length > 220 ? text.slice(0, 220) : text;
 }
 
+// Extract the inflected forms from a word note's "## 语法变形 (Forms)" table.
+// Tables differ by word class (verb = 2-col, adjektiv = 4-col, substantiv = grid),
+// so we parse generically: column 0 of each data row is the paradigm label, and
+// every remaining column is a form value. Returns an ordered, de-duplicated list.
+function cleanForm(value) {
+  let v = value.replace(/\[\[([^\]|]+)\|?([^\]]*)\]\]/g, '$1'); // strip wikilinks
+  v = v.replace(/\([^)]*\)/g, ' ');     // drop parentheticals like "(har)"
+  v = v.replace(/[`*_]/g, '');          // strip markdown emphasis
+  v = v.replace(/\s+/g, ' ').trim();
+  v = v.replace(/^att\s+/i, '');        // infinitiv marker
+  v = v.replace(/^(en|ett)\s+/i, '');   // indefinite article
+  return v.trim();
+}
+
+function extractForms(body) {
+  const lines = body.split(/\r?\n/);
+  let start = -1;
+  for (let i = 0; i < lines.length; i += 1) {
+    if (/语法变形/.test(lines[i]) || /^#{2,3}\s+.*\bForms\b/i.test(lines[i])) {
+      start = i + 1;
+      break;
+    }
+  }
+  if (start === -1) return [];
+
+  const tableLines = [];
+  for (let i = start; i < lines.length; i += 1) {
+    const ln = lines[i];
+    if (/^\s*\|/.test(ln)) { tableLines.push(ln); continue; }
+    if (tableLines.length) break;            // table ended
+    if (/^\s*$/.test(ln)) continue;          // blank line before table
+    if (/^#{1,6}\s/.test(ln)) break;         // next heading, no table here
+  }
+  if (tableLines.length < 2) return [];
+
+  const rows = tableLines.map((ln) =>
+    ln.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map((c) => c.trim())
+  );
+  const bodyRows = rows.filter(
+    (r) => !r.every((c) => /^:?-{2,}:?$/.test(c) || c === '')
+  );
+  if (bodyRows.length < 2) return [];
+
+  const dataRows = bodyRows.slice(1); // row 0 is the header
+  const forms = [];
+  const seen = new Set();
+  for (const row of dataRows) {
+    for (let c = 1; c < row.length; c += 1) {
+      const cell = row[c];
+      if (!cell) continue;
+      for (const piece of cell.split(/[\/,]/)) {
+        const form = cleanForm(piece);
+        if (!form || form === '—' || form === '-') continue;
+        if (!/[A-Za-zÅÄÖåäö]/.test(form)) continue;
+        const key = form.toLowerCase();
+        if (seen.has(key)) continue;
+        seen.add(key);
+        forms.push(form);
+      }
+    }
+  }
+  return forms.slice(0, 12);
+}
+
 function getWikilinks(text) {
   const links = new Set();
   const re = /\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g;
@@ -148,6 +212,7 @@ const notes = walkMarkdownFiles(kbRoot).map((filePath) => {
     path: relativePath(filePath),
     body,
     excerpt: getExcerpt(body),
+    forms: type === 'word' ? extractForms(body) : [],
     links: getWikilinks(text),
     searchText: `${title} ${slug} ${relativePath(filePath)} ${text}`,
   };

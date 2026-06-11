@@ -703,6 +703,44 @@
 | [[grammar-sammansatt-ord]] | grammar | — | 0 | 2.5 | 2026-06-10 | no |
 | [[grammar-reflexivt-pronomen]] | grammar | — | 0 | 2.5 | 2026-06-10 | no |
 
+| **— Adjektiv+subst böjning: Mat & Dryck (2026-06-11) — 36词 —** | | | | | | |
+| [[mogen]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[äpple]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[banan]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[tomat]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[gurka]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[potatis]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[saftig]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[morot]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[lök]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[hård]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[ost]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[salt]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[korv]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[mjuk]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[bulle]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[krispig]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[kaka]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[tårta]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[glass]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[varm]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[soppa]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[nyttig]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[sallad]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[pizza]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[rå]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[ägg]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[bröd]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[het]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[kyckling]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[sur]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[apelsin]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[päron]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[bitter]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[juice]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[ren]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+| [[tallrik]] | word | — | 0 | 2.5 | 2026-06-11 | no |
+
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。
