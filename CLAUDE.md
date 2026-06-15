@@ -46,6 +46,10 @@ and how much detail to extract:
 - `swedish-phrases` — phrases / idioms / partikelverb / situational language (词组)
 - `swedish-grammar` — grammar analysis & lessons (语法)
 - `swedish-text-analysis` — whole texts and **images** (orchestrator for documents)
+- `sv-capture` — **手机/速查模式**: lightweight lookup that gives a concise tutor answer and writes a
+  `svensk-export v1` block to `inbox/capture-<date>-<slug>.md` instead of writing `knowledge_base/`.
+  This is the CC port of the `EXPORT_PROTOCOL.md` chat primer (it auto-drops to `inbox/` rather than
+  waiting for a "导出" command). Triggered by `/capture`, by photos, or by quick lookups on the go.
 - `sv-knowledge-base` — **this project's storage rules**: how to slug, structure, dedup, and link
   files. Read it whenever you store anything.
 - `sv-review` — how to run a review session from the KB.
@@ -59,10 +63,12 @@ Spawn these (Agent tool) for heavy multi-file work so the main thread stays clea
 - `sv-reviewer` — builds a review session by scanning the KB and the review schedule.
 - `sv-assessor` — assesses level across the whole KB + recent interactions, updates `profile/level.md`.
 - `sv-scenario-writer` — given a scenario topic, generates a level-appropriate Swedish dialogue/text/narrative and writes `inbox/scenario-<date>-<slug>.md` (readable scenario + embedded `svensk-export v1` block). Use when the user runs `/scenario`. Does NOT touch `knowledge_base/`.
+- `sv-importer` — **background inbox drainer**. Spawn it with `run_in_background: true` when the SessionStart hook reports pending un-imported files in `inbox/`. It runs the full import inline (parse → gap-fill → dedup → store → link), archives processed files to `inbox/imported/`, rebuilds the KB site, and reports a manifest — all without blocking the user. See §4.3.
 
 For a **single word/phrase/sentence**, don't spawn a subagent — just store it inline (it's one or two files).
 
 ### Commands (快捷入口)
+- `/capture` — **手机/速查模式**: analyze a word/phrase/sentence/photo, give a concise answer, and write a `svensk-export v1` block to `inbox/capture-<date>-<slug>.md`. Does NOT write `knowledge_base/` — the desktop side imports it later (§4.3). Uses skill `sv-capture`.
 - `/learn` — analyze + store whatever the user provides (word/phrase/sentence/text/image).
 - `/review` — start a spaced-repetition review session.
 - `/assess` — assess current Swedish level and update the profile.
@@ -123,6 +129,7 @@ For phrases/sentences where the slug is fuzzy, also `Grep` the folder for the le
 | 语法问题 | swedish-grammar | 1 个 `grammar/` 文件 |
 | 一段文字 / 图片 | swedish-text-analysis → 然后 spawn `sv-librarian` | `sources/` 文件 + 批量 words/phrases/sentences/grammar |
 | 中文/英文求译 | dictionary/phrases | 录入对应瑞典语条目 |
+| 手机端速查 / 拍照速记 (`/capture`) | sv-capture (+ 相应 swedish 技能) | **不写 KB**，只写 `inbox/capture-<date>-<slug>.md`，电脑端自动导入 (§4.3) |
 
 **图片输入**: first transcribe (per swedish-text-analysis), show the transcription in a code block for
 confirmation, then analyze and store.
@@ -157,6 +164,26 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 6. User runs `/import` (or `/import scenario-<date>-<slug>.md`) → `sv-import` extracts the embedded block, deduplicates against the live KB, then routes to `sv-librarian` for full dedup + bidirectional `[[wikilinks]]` + `sources/` note.
 
 **Key constraint:** `sv-scenario-writer` must NOT write into `knowledge_base/`. All KB writes happen exclusively through the `/import` pipeline.
+
+### §4.3 自动后台导入 (Desktop auto background import)
+
+两端分工：**手机端只 capture 写 `inbox/`，电脑端自动把 `inbox/` 排空进 KB。**
+
+- 手机端：`/capture` 或发图片 → 写 `inbox/capture-<date>-<slug>.md`（不碰 KB）。
+- 电脑端：`SessionStart` 钩子 (`kb_stats.ps1`) 在开场时检测**待导入文件** = `inbox/` 根目录里除
+  `README.md` 外的 `*.md`（`inbox/imported/` 已处理归档，不计）。
+
+**触发规则（你，主 agent，要主动执行）：**
+1. 开场若钩子输出里出现 `📥 待导入 inbox: N 个文件` 这一行，立刻**起一个后台导入代理**：
+   `Agent(subagent_type: "sv-importer", run_in_background: true)`，提示词让它排空 inbox。
+   - 这是后台任务，**不要阻塞用户**——起完代理后用一句话告诉用户"正在后台导入 N 个文件，你继续用"，然后照常处理用户当前的请求。
+   - 代理跑完会回报 manifest；那时再给用户一行收据。
+2. 若 `Agent(sv-importer)` 还没在 `settings.json` 里授权，首次会弹一次权限确认——批准即可
+   （或把 `"Agent(sv-importer)"` 加进 `.claude/settings.json` 的 `permissions.allow`）。
+3. 导入、归档（移到 `inbox/imported/`）、重建站点都由 `sv-importer` 自己完成；你不必再手动 `/import`。
+
+**为什么不用纯脚本/headless 后台：** 那会和你正在用的会话抢同一批文件、产生写冲突、静默烧 token。
+主会话起后台代理更稳、可回报、可被你打断。手机端因为不跑这些 PowerShell 钩子，天然不会触发，分工清晰。
 
 ---
 
