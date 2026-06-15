@@ -16,9 +16,13 @@ $Proj     = 'C:\Users\ruibo\Documents\svenska_agent'
 $Imported = Join-Path $Proj 'imported'
 $Log      = Join-Path $Proj 'scripts\import-rebuild.log'
 $Model    = 'claude-opus-4-8'   # import 要跑 swedish-dictionary 补全词条，质量优先；想省成本改 claude-sonnet-4-6
+$TimeoutMin = 20                 # import + librarian 上限；超时则杀进程树，不留 leftover
+
+. (Join-Path $PSScriptRoot 'headless-claude.ps1')   # Invoke-ClaudeHeadless / Clear-HeadlessLeftovers
 
 Set-Location $Proj
 "==== $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') import+rebuild start (File='$File') ====" | Add-Content -Encoding utf8 $Log
+Clear-HeadlessLeftovers   # reap leftover headless PIDs from a prior run that died mid-run (safe: only PIDs we recorded)
 
 # --- 解析文件 ---
 $path = if ([System.IO.Path]::IsPathRooted($File)) { $File } else { Join-Path $Proj $File }
@@ -37,10 +41,11 @@ if (-not $claude) { "ERROR: claude.exe not found on PATH" | Add-Content -Encodin
 # 需要 Task 工具：sv-import 对 >3 项会 spawn sv-librarian 子智能体；其内部用 Read/Write/Edit/Glob/Grep。
 $prompt = "/import $base"
 "prompt: $prompt" | Add-Content -Encoding utf8 $Log
-$line = "`"$claude`" -p `"$prompt`" --model $Model --allowedTools Read,Glob,Grep,Edit,Write,Task < nul 2>&1"
-$out  = cmd /c $line | Out-String
-$out | Add-Content -Encoding utf8 $Log
-$importExit = $LASTEXITCODE
+$r = Invoke-ClaudeHeadless -Claude $claude -Prompt $prompt -Model $Model `
+       -AllowedTools 'Read,Glob,Grep,Edit,Write,Task' -TimeoutMinutes $TimeoutMin
+$r.Output | Add-Content -Encoding utf8 $Log
+$importExit = $r.ExitCode
+if ($r.TimedOut) { "ERROR: import TIMED OUT (${TimeoutMin}m), tree killed, not archiving" | Add-Content -Encoding utf8 $Log }
 "claude /import exit=$importExit" | Add-Content -Encoding utf8 $Log
 if ($importExit -ne 0) { "ERROR: import failed, not archiving" | Add-Content -Encoding utf8 $Log; exit 1 }
 

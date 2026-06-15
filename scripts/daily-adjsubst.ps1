@@ -15,9 +15,13 @@ $Proj  = 'C:\Users\ruibo\Documents\svenska_agent'
 $Inbox = Join-Path $Proj 'inbox'
 $Log   = Join-Path $Proj 'scripts\adjsubst-run.log'
 $Model = 'claude-opus-4-8'   # 语法要求高，用 opus；想省成本可改 claude-sonnet-4-6
+$TimeoutMin = 12             # 生成上限；超时杀进程树，不留 leftover
+
+. (Join-Path $PSScriptRoot 'headless-claude.ps1')   # Invoke-ClaudeHeadless / Clear-HeadlessLeftovers
 
 Set-Location $Proj
 "==== $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') start (Date='$Date') ====" | Add-Content -Encoding utf8 $Log
+Clear-HeadlessLeftovers   # reap leftover headless PIDs from a prior run that died mid-run (safe: only PIDs we recorded)
 
 # --- 解析 claude.exe 路径（任务计划环境 PATH 可能不全）---
 $claude = (Get-Command claude -ErrorAction SilentlyContinue).Source
@@ -34,13 +38,12 @@ $theme   = $d.DayOfYear % 10
 $prompt  = "/adjsubst $dateStr $theme"
 "prompt: $prompt" | Add-Content -Encoding utf8 $Log
 
-# --- 跑 headless claude：只开放四个文件工具，不关安全闸、不给 Bash ---
-# 用 cmd /c 调用：`< nul` 喂空 stdin（否则 -p 会等待输入）；用 cmd 的 2>&1 合并输出。
-# 不要用 PowerShell 的 2>&1：5.1 会把原生命令 stderr 包成 ErrorRecord，触发 Stop 中止。
-$line = "`"$claude`" -p `"$prompt`" --model $Model --allowedTools Read,Glob,Edit,Write < nul 2>&1"
-$out  = cmd /c $line | Out-String
-$out | Add-Content -Encoding utf8 $Log
-"claude exit=$LASTEXITCODE" | Add-Content -Encoding utf8 $Log
+# --- 跑 headless claude：带超时 + 进程树清理（见 headless-claude.ps1），只开放文件工具，不给 Bash ---
+$r = Invoke-ClaudeHeadless -Claude $claude -Prompt $prompt -Model $Model `
+       -AllowedTools 'Read,Glob,Edit,Write' -TimeoutMinutes $TimeoutMin
+$r.Output | Add-Content -Encoding utf8 $Log
+if ($r.TimedOut) { "ERROR: generation TIMED OUT (${TimeoutMin}m), tree killed" | Add-Content -Encoding utf8 $Log }
+"claude exit=$($r.ExitCode)" | Add-Content -Encoding utf8 $Log
 
 # --- 找今天（或指定日期）生成的文件 ---
 $stamp = $dateStr
