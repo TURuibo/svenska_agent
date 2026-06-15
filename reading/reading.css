@@ -220,6 +220,83 @@
 
 .listLoading, .listEmpty { font-family: var(--cjk); color: var(--muted); font-size: 14px; }
 
+/* 已读 marker */
+.cardRead { font-size: 11px; color: var(--green); font-weight: 600; margin-left: auto; }
+.articleCard.read .cardTitle { opacity: 0.62; }
+
+/* reading-pane action buttons */
+.viewSpacer { flex: 1 1 auto; }
+.viewBtn {
+  font-family: var(--cjk); font-size: 12px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--paper); color: var(--ink);
+  border-radius: 999px; padding: 4px 10px;
+}
+.viewBtn:hover { border-color: var(--gold); }
+.viewBtn.on { background: var(--green); color: #fff; border-color: var(--green); }
+
+/* 精读模式 (recall): hide 🇨🇳 blocks behind a click-to-peek veil */
+.articleBody.recall [data-zh="1"] {
+  position: relative;
+  color: transparent;
+  background: repeating-linear-gradient(45deg, var(--paper), var(--paper) 6px, var(--line) 6px, var(--line) 7px);
+  border-radius: 6px;
+  cursor: pointer;
+  user-select: none;
+}
+.articleBody.recall [data-zh="1"] * { visibility: hidden; }
+.articleBody.recall [data-zh="1"]::after {
+  content: "🇨🇳 点击显示翻译";
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--cjk); font-size: 13px; color: var(--muted); visibility: visible;
+}
+.articleBody.recall [data-zh="1"].peek {
+  color: inherit; background: none; cursor: default;
+}
+.articleBody.recall [data-zh="1"].peek * { visibility: visible; }
+.articleBody.recall [data-zh="1"].peek::after { content: none; }
+
+/* flashcard overlay */
+.flashOverlay {
+  position: fixed; inset: 0; z-index: 50;
+  background: rgba(20, 26, 23, 0.78);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 14px; padding: 20px;
+}
+.flashBar {
+  position: absolute; top: 0; left: 0; right: 0;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 12px 18px; color: #fff; font-family: var(--cjk);
+}
+.flashMeta { display: flex; gap: 12px; align-items: center; font-size: 13px; }
+.flashScope { opacity: 0.8; }
+.flashControls button {
+  background: rgba(255,255,255,0.12); color: #fff; border: none;
+  border-radius: 8px; padding: 6px 10px; cursor: pointer; font-size: 14px; margin-left: 6px;
+}
+.flashStage { display: flex; align-items: center; gap: 14px; }
+.flashNav {
+  background: rgba(255,255,255,0.14); color: #fff; border: none;
+  width: 44px; height: 44px; border-radius: 50%; font-size: 22px; cursor: pointer;
+}
+.flashNav:disabled { opacity: 0.3; cursor: default; }
+.flashCard {
+  width: min(560px, 86vw); min-height: 300px;
+  background: var(--panel); color: var(--ink);
+  border-radius: 18px; box-shadow: var(--shadow);
+  display: flex; align-items: center; justify-content: center; cursor: pointer; padding: 28px;
+}
+.flashFace { text-align: center; width: 100%; }
+.flashType {
+  font-family: var(--cjk); font-size: 12px; color: var(--gold);
+  text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 12px;
+}
+.flashTerm { font-size: 26px; font-weight: 600; line-height: 1.4; }
+.flashTip { font-family: var(--cjk); font-size: 12px; color: var(--muted); margin-top: 18px; }
+.flashAnswer { font-family: var(--cjk); font-size: 22px; margin-top: 14px; }
+.flashSub { font-family: var(--cjk); font-size: 14px; color: var(--muted); margin-top: 10px; }
+.flashHint { color: rgba(255,255,255,0.7); font-family: var(--cjk); font-size: 12px; }
+
 @media (max-width: 760px) {
   .readingMain { grid-template-columns: 1fr; }
   .articleList { position: static; max-height: 320px; }
