@@ -1,5 +1,5 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-15 19:29:26",
+  "generatedAt": "2026-06-15 19:40:33",
   "articles": [
     {
       "slug": "scenario-2026-06-15-pa-restaurang-allergi-och-nota",
