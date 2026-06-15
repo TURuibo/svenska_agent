@@ -1,7 +1,7 @@
 ---
 description: Import a svensk-export v1 block (pasted or from inbox/) into the knowledge base with dedup + linking
 argument-hint: "[粘贴 svensk-export 块 | inbox 文件名 | 留空=扫描 inbox/]"
-allowed-tools: Read, Glob, Grep, Edit, Write, Agent(sv-librarian)
+allowed-tools: Read, Glob, Grep, Edit, Write, Bash, Agent(sv-librarian)
 ---
 
 Use the `sv-import` skill to ingest Swedish lookups exported from another chat.
@@ -38,6 +38,12 @@ Follow sv-import §4b and §5:
 - **> 3 items total**: create the `sources/source-<date>-<topic>.md` note first, then spawn
   `sv-librarian` with the enriched lists and the source slug.
 
-## 4. Give the concise receipt
+## 4. Archive + rebuild
+
+Follow sv-import §8: if the source was an inbox file, move it to `inbox/imported/` after a
+successful store, then rebuild the KB site
+(`powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1`).
+
+## 5. Give the concise receipt
 
 Output the receipt as specified in sv-import §7 — counts only, no file contents.

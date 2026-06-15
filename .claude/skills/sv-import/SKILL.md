@@ -222,3 +222,31 @@ If inbox file(s) were processed, also note the inbox filename. If multiple inbox
 processed, one receipt block per file.
 
 Follow CLAUDE.md §0 rule 2: concise in chat, full detail in files.
+
+---
+
+## 8. 归档已处理的 inbox 文件 (Archive processed inbox files)
+
+**Only when the source was an inbox file** (not a pasted block): after the items have been
+successfully stored, move the file out of the inbox root so it is no longer counted as "pending":
+
+```
+inbox/<file>.md  →  inbox/imported/<file>.md
+```
+
+Use PowerShell via Bash (create `inbox/imported/` first — it is gitignored so it may not exist):
+```
+powershell -NoProfile -Command "New-Item -ItemType Directory -Force inbox\imported | Out-Null; Move-Item -LiteralPath 'inbox\<file>.md' -Destination 'inbox\imported\<file>.md' -Force"
+```
+
+Rules:
+- Move **after** a successful store, never before.
+- If a file had **no** `svensk-export` block, leave it in `inbox/` (do not archive).
+- A pasted-in block (no source file) has nothing to archive — skip this step.
+
+This keeps `inbox/` showing only un-imported files, which is what the SessionStart hook and the
+background `sv-importer` agent use to detect pending work (see CLAUDE.md §4.3).
+
+Per the project memory, rebuild the KB site after any KB write
+(`powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1`) so the web viewer
+and `_index/slugs.json` stay current.
