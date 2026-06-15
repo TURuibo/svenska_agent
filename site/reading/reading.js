@@ -150,10 +150,39 @@
 
   // ---------- per-article flashcard deck (from KB items the source note links) ----------
 
-  // Map an article slug -> its KB source note (scenario-…/paste-…/adjsubst-… → source-…).
+  // Map an article -> its KB source note. The librarian names source notes with a short
+  // 1–3 word kebab summary (e.g. article "scenario-2026-06-15-pa-restaurang-allergi-och-nota"
+  // -> source "source-2026-06-15-restaurang-allergi-nota"), so an exact prefix swap usually
+  // misses. Strategy: try the exact guess first, then among source notes of the SAME date
+  // pick the one whose slug tokens overlap the article's the most.
+  const STOP_TOKENS = new Set(['pa', 'och', 'i', 'en', 'ett', 'att', 'det', 'som', 'med', 'the', 'a', 'of']);
+  function slugTokens(slug, leadRe) {
+    return String(slug)
+      .replace(leadRe, '')
+      .replace(/\d{4}-\d{2}-\d{2}-?/, '')
+      .split('-')
+      .filter((t) => t && !STOP_TOKENS.has(t));
+  }
   function sourceNoteFor(a) {
     const guess = a.slug.replace(/^(scenario|paste|adjsubst|other)-/, 'source-');
-    return kbBySlug.get(guess) || null;
+    const exact = kbBySlug.get(guess);
+    if (exact) return exact;
+
+    const dateM = String(a.slug).match(/\d{4}-\d{2}-\d{2}/);
+    const date = dateM ? dateM[0] : (a.date || '');
+    const want = new Set(slugTokens(a.slug, /^(scenario|paste|adjsubst|other)-/));
+    let best = null, bestScore = 0, tie = false;
+    for (const n of kb) {
+      if (n.type !== 'source') continue;
+      if (date && !String(n.slug).includes(date)) continue;
+      let score = 0;
+      for (const t of slugTokens(n.slug, /^source-/)) if (want.has(t)) score += 1;
+      if (score > bestScore) { bestScore = score; best = n; tie = false; }
+      else if (score === bestScore && score > 0) { tie = true; }
+    }
+    // require a clear winner; an ambiguous tie (e.g. several "restaurang-*" of the same day
+    // sharing only the generic token) returns null -> no flashcard button, never wrong cards.
+    return (bestScore >= 1 && !tie) ? best : null;
   }
   function deckFor(a) {
     const src = sourceNoteFor(a);
@@ -290,7 +319,9 @@
   }
   function flip() { if (deck.length) { const f = frontEl.hidden; frontEl.hidden = !f; backEl.hidden = f; } }
   function openFlash(items, scope) {
-    deck = items.slice(); pos = 0; scopeEl.textContent = scope || '';
+    const d = (items || []).slice();
+    if (d.length === 0) { return; }   // never open a blank 0/0 card
+    deck = d; pos = 0; scopeEl.textContent = scope || '';
     overlay.hidden = false; renderCard(); cardEl.focus();
   }
   function closeFlash() { overlay.hidden = true; deck = []; }
