@@ -36,15 +36,16 @@ Pending = any `*.md` file directly inside `inbox/` **except**:
      (`profile/level.md`) — skip KNOWN and DUP items.
    - Respect `kind: drill` / `skip_examples` headers (no example sentences for those).
 
-3. **Archive each processed file** (sv-import §8): move it from `inbox/<file>.md` to
-   `inbox/imported/<file>.md`. `inbox/imported/` is gitignored and may not exist — create it first.
-   Use `Bash`:
-   `powershell -NoProfile -Command "New-Item -ItemType Directory -Force inbox\imported | Out-Null; Move-Item -LiteralPath 'inbox\<file>.md' -Destination 'inbox\imported\<file>.md' -Force"`
+3. **Archive each processed file** (sv-import §8): move it from `inbox/<file>.md` to the **tracked**
+   `imported/<file>.md` at the repo root (NOT `inbox/imported/`). This keeps the readable text in git
+   so it appears in the Läsning reading site. Use `Bash`:
+   `powershell -NoProfile -Command "Move-Item -LiteralPath 'inbox\<file>.md' -Destination 'imported\<file>.md' -Force"`
    Only move a file AFTER its items have been successfully stored.
 
-4. **Rebuild the KB site** once, after all files are imported:
-   `powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1`
-   This regenerates `site/kb-data.js` and the slug manifest. (Required after every KB write.)
+4. **Rebuild both generated sites** once, after all files are imported:
+   `powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1`  (KB viewer + slug manifest)
+   `node tools/build-reading-site.js`  (Läsning reading data — picks up the newly archived file)
+   (Required after every KB write.)
 
 ## Report back (concise — this is a background job, the user will see it on completion)
 
@@ -53,7 +54,7 @@ Pending = any `*.md` file directly inside `inbox/` **except**:
   files: [capture-2026-06-15-..., scenario-...]
   NEW:   words=[n] phrases=[n] sentences=[n] grammar=[n]
   DUP-skipped: [n]   KNOWN-skipped: [n]
-  📦 已归档 → inbox/imported/   🔁 站点已重建
+  📦 已归档 → imported/   🔁 KB + Läsning 站点已重建
 ```
 
 Do not paste note contents. If a file had no valid export block, list it under `skipped (no block)`

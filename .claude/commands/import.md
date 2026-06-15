@@ -40,9 +40,10 @@ Follow sv-import §4b and §5:
 
 ## 4. Archive + rebuild
 
-Follow sv-import §8: if the source was an inbox file, move it to `inbox/imported/` after a
-successful store, then rebuild the KB site
-(`powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1`).
+Follow sv-import §8: if the source was an inbox file, move it to the tracked root `imported/` folder
+after a successful store, then rebuild both generated sites:
+- `powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1` (KB viewer + slug manifest)
+- `node tools/build-reading-site.js` (Läsning reading data — surfaces the archived scenario/article)
 
 ## 5. Give the concise receipt
 
