@@ -28,11 +28,13 @@
         <button type="button" class="kindFilter" data-kind="paste">粘贴文章</button>
         <button type="button" class="kindFilter" data-kind="adjsubst">词形变化</button>
         <span class="filterDivider" aria-hidden="true"></span>
+        <button type="button" id="filterUnread" class="toggleBtn" title="只看未读">📖 未读</button>
+        <span class="filterDivider" aria-hidden="true"></span>
         <label class="readingSearch">
           <input id="readingSearchInput" type="search" autocomplete="off" placeholder="搜索标题 / 正文…" />
         </label>
         <span class="filterDivider" aria-hidden="true"></span>
-        <button type="button" id="toggleZh" class="toggleBtn active" title="显示/隐藏中文翻译段落">🇨🇳 中文</button>
+        <button type="button" id="recallToggle" class="toggleBtn" title="精读模式：默认遮住中文，点段落才显示">🙈 精读模式</button>
       </nav>
     </header>
 
@@ -45,6 +47,29 @@
       </article>
     </main>
 
+    <div id="flashOverlay" class="flashOverlay" hidden role="dialog" aria-modal="true" aria-label="Flashcards">
+      <div class="flashBar">
+        <div class="flashMeta">
+          <span id="flashIndex">0 / 0</span>
+          <span class="flashScope" id="flashScope"></span>
+        </div>
+        <div class="flashControls">
+          <button type="button" id="flashShuffle" title="洗牌">🔀</button>
+          <button type="button" id="flashClose" aria-label="关闭">✕</button>
+        </div>
+      </div>
+      <div class="flashStage">
+        <button type="button" id="flashPrev" class="flashNav" aria-label="上一张">‹</button>
+        <div id="flashCard" class="flashCard" tabindex="0" aria-label="点击或空格翻面">
+          <div class="flashFace flashFront" id="flashFront"></div>
+          <div class="flashFace flashBack" id="flashBack" hidden></div>
+        </div>
+        <button type="button" id="flashNext" class="flashNav" aria-label="下一张">›</button>
+      </div>
+      <p class="flashHint">空格翻面 · ← → 切换 · Esc 退出</p>
+    </div>
+
+    <script src="../kb-data.js"></script>
     <script src="reading-data.js"></script>
     <script src="reading.js"></script>
   </body>
