@@ -256,47 +256,6 @@
 .articleBody.recall [data-zh="1"].peek * { visibility: visible; }
 .articleBody.recall [data-zh="1"].peek::after { content: none; }
 
-/* flashcard overlay */
-.flashOverlay {
-  position: fixed; inset: 0; z-index: 50;
-  background: rgba(20, 26, 23, 0.78);
-  display: flex; flex-direction: column; align-items: center; justify-content: center;
-  gap: 14px; padding: 20px;
-}
-.flashBar {
-  position: absolute; top: 0; left: 0; right: 0;
-  display: flex; align-items: center; justify-content: space-between;
-  padding: 12px 18px; color: #fff; font-family: var(--cjk);
-}
-.flashMeta { display: flex; gap: 12px; align-items: center; font-size: 13px; }
-.flashScope { opacity: 0.8; }
-.flashControls button {
-  background: rgba(255,255,255,0.12); color: #fff; border: none;
-  border-radius: 8px; padding: 6px 10px; cursor: pointer; font-size: 14px; margin-left: 6px;
-}
-.flashStage { display: flex; align-items: center; gap: 14px; }
-.flashNav {
-  background: rgba(255,255,255,0.14); color: #fff; border: none;
-  width: 44px; height: 44px; border-radius: 50%; font-size: 22px; cursor: pointer;
-}
-.flashNav:disabled { opacity: 0.3; cursor: default; }
-.flashCard {
-  width: min(560px, 86vw); min-height: 300px;
-  background: var(--panel); color: var(--ink);
-  border-radius: 18px; box-shadow: var(--shadow);
-  display: flex; align-items: center; justify-content: center; cursor: pointer; padding: 28px;
-}
-.flashFace { text-align: center; width: 100%; }
-.flashType {
-  font-family: var(--cjk); font-size: 12px; color: var(--gold);
-  text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 12px;
-}
-.flashTerm { font-size: 26px; font-weight: 600; line-height: 1.4; }
-.flashTip { font-family: var(--cjk); font-size: 12px; color: var(--muted); margin-top: 18px; }
-.flashAnswer { font-family: var(--cjk); font-size: 22px; margin-top: 14px; }
-.flashSub { font-family: var(--cjk); font-size: 14px; color: var(--muted); margin-top: 10px; }
-.flashHint { color: rgba(255,255,255,0.7); font-family: var(--cjk); font-size: 12px; }
-
 @media (max-width: 760px) {
   .readingMain { grid-template-columns: 1fr; }
   .articleList { position: static; max-height: 320px; }
