@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-15 18:57:03",
+  "generatedAt": "2026-06-15 19:21:40",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -23,22 +23,67 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "backlinks": [
+        "allergisk",
         "bitter",
+        "bred",
+        "central",
+        "frivillig",
+        "grammar-adjektiv-kongruens",
         "grammar-en-ord-ett-ord",
         "grammar-substantiv-plural",
+        "grön",
+        "gul",
         "hård",
         "het",
+        "hög",
         "krispig",
+        "livlig",
         "mjuk",
         "nyttig",
+        "populär",
         "rå",
         "ren",
         "saftig",
         "salt",
+        "sent-dricks-är-helt-frivilligt-i-sverige",
+        "sent-hej-och-välkomna-ett-bord-för-två",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
         "source-2026-06-10-personer-bojning",
         "source-2026-06-11-mat-dryck",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "source-2026-06-15-stad-trafik",
         "sur",
+        "tom",
+        "trång",
+        "trasig",
+        "tung",
         "varm"
+      ]
+    },
+    {
+      "slug": "grammar-adjektiv-kongruens",
+      "type": "grammar",
+      "title": "adjektiv-kongruens",
+      "path": "knowledge_base/grammar/grammar-adjektiv-kongruens.md",
+      "body": "# adjektiv-kongruens — 形容词一致（特别：-fri 后缀复合词）(Adjective agreement — focus on -fri suffix compounds)\n\n级别: A2\n一句话: 瑞典语形容词必须随名词的性（utrum/neutrum）和数（singular/plural）变化；以 -fri 结尾的复合形容词遵循同样规则。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nadjektiv kongruens — 四种形式:\nutrum obestämd sg:    en nötfri rätt      → nötfri (grundform)\nneutrum obestämd sg:  ett nötfritt bröd   → nötfritt (+t)\nplural / bestämd:     nötfria alternativ  → nötfria (+a)\n\nkall / kallt / kalla:\nen kall soppa  →  ett kallt vatten  →  kalla soppa(n)/soppo(r)\n```\n\n与中文对比: 中文形容词不变形（无坚果的菜/无坚果的面包都用\"无坚果的\"）。\n与英文对比: 英文形容词也不变形（nut-free dish / nut-free bread）。\n\n## 详细讲解 (Detail)\n\n### -fri 后缀复合形容词\n\n*-fri* 是\"不含…的\"后缀，与目标名词的词根构成复合形容词。\n\n| 复合形容词 | 含义 | 例子 |\n|------------|------|------|\n| nötfri | 不含坚果的 | en nötfri rätt / ett nötfritt recept |\n| laktosfri | 无乳糖的 | laktosfri mjölk / laktosfritt alternativ |\n| glutenfri | 不含麸质的 | glutenfri pasta / glutenfritt bröd |\n| sockerfri | 无糖的 | sockerfri choklad / sockerfritt te |\n\n这些复合形容词按普通形容词规则变形：\n- **en-ord (utrum):** -fri（基础形，也是字典形）\n- **ett-ord (neutrum):** -fritt（+t）\n- **plural / bestämd:** -fria（+a）\n\n### 常规形容词 kall/kallt/kalla\n\n| 语境 | 形式 | 例句 |\n|------|------|------|\n| en-ord obestämd sg | kall | en **kall** soppa |\n| ett-ord obestämd sg | kallt | ett **kallt** vatten |\n| plural / bestämd | kalla | **kalla** drycker / den **kalla** soppan |\n\n## 例句 (Examples)\n\n- ✅ [[sent-inga-problem-vi-lagar-den-laktosfri]] 🇸🇪 Vi lagar den **laktosfri**. 🇨🇳 我们做成无乳糖的。\n- ✅ [[sent-vår-fisksoppa-är-nötfri-och-kycklingen]] 🇸🇪 Vår fisksoppa är **nötfri**. 🇨🇳 我们的鱼汤不含坚果。\n- ✅ [[sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny]] 🇸🇪 Min soppa är **kall**. 🇨🇳 我的汤是冷的。\n- ❌ *Vi lagar det laktosfri.* ← 错误：*det* 是 ett-ord 中性，需用 *laktosfritt*\n- ❌ *ett kall vatten* ← 错误：ett-ord 需要 *kallt*\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 忘记 ett-ord 用 -fritt：*ett nötfri bröd* → ska vara *ett nötfritt bröd*\n- ⚠️ 搞混 -fri 和 utan：*utan nöt* 语法上也正确，但 *nötfri* 更精确、更常见于菜单\n- ⚠️ 把 *laktosfri* 用在 ett-ord 前不加 t：*ett laktosfri alternativ* → *ett laktosfritt alternativ*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-adjektiv-bojning]] — 完整的形容词变化规则（四形式图表）\n- 📎 [[grammar-sammansatt-ord]] — -fri 后缀复合词的构成",
+      "excerpt": "adjektiv kongruens — 形容词一致（特别： fri 后缀复合词）(Adjective agreement — focus on fri suffix compounds) 级别: A2 一句话: 瑞典语形容词必须随名词的性（utrum/neutrum）和数（singular/plural）变化；以 fri 结尾的复合形容词遵循同样规则。 规则说明 (Rules) 📐 结构公式: adjektiv kongruens ",
+      "forms": [],
+      "links": [
+        "grammar-adjektiv-bojning",
+        "grammar-sammansatt-ord",
+        "sent-inga-problem-vi-lagar-den-laktosfri",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen"
+      ],
+      "searchText": "adjektiv-kongruens grammar-adjektiv-kongruens knowledge_base/grammar/grammar-adjektiv-kongruens.md ---\ntype: grammar\nname: \"adjektiv-kongruens\"\nzh: \"形容词一致（特别：-fri 后缀复合词）\"\nen: \"Adjective agreement — focus on -fri suffix compounds\"\nlevel: \"A2\"\nrelated:\n  - grammar-adjektiv-bojning\n  - grammar-sammansatt-ord\nexamples:\n  - sent-inga-problem-vi-lagar-den-laktosfri\n  - sent-vår-fisksoppa-är-nötfri-och-kycklingen\n  - sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# adjektiv-kongruens — 形容词一致（特别：-fri 后缀复合词）(Adjective agreement — focus on -fri suffix compounds)\n\n级别: A2\n一句话: 瑞典语形容词必须随名词的性（utrum/neutrum）和数（singular/plural）变化；以 -fri 结尾的复合形容词遵循同样规则。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nadjektiv kongruens — 四种形式:\nutrum obestämd sg:    en nötfri rätt      → nötfri (grundform)\nneutrum obestämd sg:  ett nötfritt bröd   → nötfritt (+t)\nplural / bestämd:     nötfria alternativ  → nötfria (+a)\n\nkall / kallt / kalla:\nen kall soppa  →  ett kallt vatten  →  kalla soppa(n)/soppo(r)\n```\n\n与中文对比: 中文形容词不变形（无坚果的菜/无坚果的面包都用\"无坚果的\"）。\n与英文对比: 英文形容词也不变形（nut-free dish / nut-free bread）。\n\n## 详细讲解 (Detail)\n\n### -fri 后缀复合形容词\n\n*-fri* 是\"不含…的\"后缀，与目标名词的词根构成复合形容词。\n\n| 复合形容词 | 含义 | 例子 |\n|------------|------|------|\n| nötfri | 不含坚果的 | en nötfri rätt / ett nötfritt recept |\n| laktosfri | 无乳糖的 | laktosfri mjölk / laktosfritt alternativ |\n| glutenfri | 不含麸质的 | glutenfri pasta / glutenfritt bröd |\n| sockerfri | 无糖的 | sockerfri choklad / sockerfritt te |\n\n这些复合形容词按普通形容词规则变形：\n- **en-ord (utrum):** -fri（基础形，也是字典形）\n- **ett-ord (neutrum):** -fritt（+t）\n- **plural / bestämd:** -fria（+a）\n\n### 常规形容词 kall/kallt/kalla\n\n| 语境 | 形式 | 例句 |\n|------|------|------|\n| en-ord obestämd sg | kall | en **kall** soppa |\n| ett-ord obestämd sg | kallt | ett **kallt** vatten |\n| plural / bestämd | kalla | **kalla** drycker / den **kalla** soppan |\n\n## 例句 (Examples)\n\n- ✅ [[sent-inga-problem-vi-lagar-den-laktosfri]] 🇸🇪 Vi lagar den **laktosfri**. 🇨🇳 我们做成无乳糖的。\n- ✅ [[sent-vår-fisksoppa-är-nötfri-och-kycklingen]] 🇸🇪 Vår fisksoppa är **nötfri**. 🇨🇳 我们的鱼汤不含坚果。\n- ✅ [[sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny]] 🇸🇪 Min soppa är **kall**. 🇨🇳 我的汤是冷的。\n- ❌ *Vi lagar det laktosfri.* ← 错误：*det* 是 ett-ord 中性，需用 *laktosfritt*\n- ❌ *ett kall vatten* ← 错误：ett-ord 需要 *kallt*\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 忘记 ett-ord 用 -fritt：*ett nötfri bröd* → ska vara *ett nötfritt bröd*\n- ⚠️ 搞混 -fri 和 utan：*utan nöt* 语法上也正确，但 *nötfri* 更精确、更常见于菜单\n- ⚠️ 把 *laktosfri* 用在 ett-ord 前不加 t：*ett laktosfri alternativ* → *ett laktosfritt alternativ*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-adjektiv-bojning]] — 完整的形容词变化规则（四形式图表）\n- 📎 [[grammar-sammansatt-ord]] — -fri 后缀复合词的构成\n",
+      "name": "adjektiv-kongruens",
+      "zh": "形容词一致（特别：-fri 后缀复合词）",
+      "en": "Adjective agreement — focus on -fri suffix compounds",
+      "created": "2026-06-15",
+      "known": false,
+      "backlinks": [
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "sent-ja-vi-har-en-fläskfilé"
       ]
     },
     {
@@ -91,6 +136,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "backlinks": [
+        "bord",
         "grammar-adjektiv-bojning",
         "grammar-deklination",
         "grammar-en-ord-ett-ord",
@@ -98,9 +144,16 @@ window.KB_DATA = {
         "grammar-singular-plural",
         "grammar-substantiv-plural",
         "index",
+        "kan-vi-få-notan",
+        "nota",
+        "sent-jag-tar-köttbullar-med-potatismos",
+        "sent-kan-vi-få-menyn-tack",
+        "sent-nej-tack-det-räcker-bra-men-notan",
+        "sent-perfekt-det-stämmer-följ-med-mig",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-04-nyheter-vecka-22",
-        "source-2026-06-10-zlatan-subst-verb"
+        "source-2026-06-10-zlatan-subst-verb",
+        "source-2026-06-15-restaurang-middag"
       ]
     },
     {
@@ -313,10 +366,13 @@ window.KB_DATA = {
         "det-finns",
         "finnas",
         "finns-det",
+        "finns-det-något-ledigt-bord",
         "grammar-ligga-sta-sitta",
         "grammar-prepositioner-rum",
         "sent-bredvid-banken-finns-apotek-gront-kors-skylten",
+        "sent-det-låter-gott-men-jag-är",
         "sent-i-vardagsrummet-finns-soffa-fatoljerna",
+        "sent-ja-jag-är-ensam-finns-det",
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
         "sent-pa-torget-finns-fontan-flera-bankar-runt-fontanen",
         "sent-under-fonster-finns-ett-element",
@@ -354,6 +410,7 @@ window.KB_DATA = {
         "glass",
         "grammar-deklination",
         "grammar-obestämd-form",
+        "inga-problem",
         "juice",
         "kaka",
         "korv",
@@ -394,9 +451,12 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "backlinks": [
+        "följ-med-mig",
         "grammar-reflexivt-verb",
+        "sent-absolut-vi-har-ett-ledigt-bord",
         "sent-fortsatt-lite-till-gra-dorr",
         "sent-ga-mot-soder",
+        "sent-perfekt-det-stämmer-följ-med-mig",
         "sent-skynda-dig-lite",
         "sent-ta-tunnelbanan-till-slussen",
         "skynda-dig",
@@ -424,6 +484,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "backlinks": [
+        "grammar-modala-hjalpverb",
         "source-2026-06-10-zlatan-subst-verb"
       ]
     },
@@ -446,8 +507,10 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "backlinks": [
+        "grammar-modala-hjalpverb",
         "jag-skulle-vilja-ha",
         "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+        "sent-skulle-vi-vilja-betala-dela-på-notan",
         "vad-får-det-vara"
       ]
     },
@@ -536,6 +599,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grammar-modala-hjalpverb",
+      "type": "grammar",
+      "title": "modala-hjälpverb",
+      "path": "knowledge_base/grammar/grammar-modala-hjalpverb.md",
+      "body": "# Modala hjälpverb — 情态助动词 (Modal auxiliary verbs)\n\n级别: A2–B1\n一句话: 情态助动词在瑞典语中后接**不带 att 的不定式**，表达能力、意愿、义务、可能性等。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主语 + 情态助动词（presens/preteritum）+ 动词不定式（原形）\nHon  kan              inte tåla             laktos.\nHon  skulle           vilja betala          notan.\n```\n\n与中文对比: 中文助动词也前置于动词（\"能/想/要/应该\"），结构相近。\n与英文对比: 英文 \"can/will/would/should + V\" 结构相同；瑞典语同样不加 \"to\"（att）。\n\n## 核心情态助动词 (Core modals)\n\n| 动词 | Presens | Preteritum | 基本含义 |\n|------|---------|------------|----------|\n| kunna | kan | kunde | 能够（能力/可能）|\n| vilja | vill | ville | 想要（意愿）|\n| ska (skola) | ska | skulle | 将要；应该（意图/义务）|\n| måste | måste | var tvungen att | 必须（强制义务）|\n| böra | bör | borde | 应当（建议/道义）|\n| få | får | fick | 被允许（许可）|\n\n## 详细讲解 (Detail)\n\n### 礼貌用法：*skulle vilja*\n\n*skulle vilja* 是 *vill*（想要）的条件语气形式，语气更礼貌、更委婉：\n\n```\nJag vill ha vatten.        → 我要水。（直接，稍微生硬）\nJag skulle vilja ha vatten. → 我想要水。（有礼貌，餐厅/正式场合首选）\n```\n\n→ 例句: [[sent-skulle-vi-vilja-betala-dela-på-notan]]\n\n### *kan* — 询问许可或能力\n\n```\nKan vi dela på notan?  → 我们能分开付账吗？（询问许可）\nVad kan ni rekommendera? → 你们有什么推荐？（能力/提供）\n```\n\n### *ska* — 意图/将来\n\n```\nSka man lägga till dricks? → 需要加小费吗？\n```\n\n### *vill* — 意愿\n\n```\nVill ni betala med kort eller Swish? → 你们想用卡还是 Swish 付？\n```\n\n## 例句 (Examples)\n\n- ✅ [[sent-skulle-vi-vilja-betala-dela-på-notan]] 🇸🇪 Sen skulle vi vilja betala — kan vi dela på notan? 🇨🇳 然后我们想买单——可以分开付吗？\n- ✅ [[sent-jag-är-allergisk-mot-nötter-vad-kan-ni]] 🇸🇪 Vad kan ni rekommendera? 🇨🇳 你们有什么推荐？\n- ✅ [[sent-vill-ni-betala-med-kort-eller-swish]] 🇸🇪 Vill ni betala med kort eller Swish? 🇨🇳 你们想用卡还是 Swish 付？\n- ❌ *Hon skulle vilja att betala.* ← 错误：情态动词后不加 att\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 勿在情态动词后加 *att*：*kan att göra* ✗ → *kan göra* ✓\n- ⚠️ *måste* 的 preteritum 不是 *måstade*，而是 *var tvungen att*\n- ⚠️ *skulle vilja* 中，*skulle* 本身是 *ska* 的 preteritum，但这里是条件/礼貌用法，不表示过去\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-ska-infinitiv]]\n- 📎 [[grammar-infinitiv]]\n- 📎 [[grammar-konditionalis]]",
+      "excerpt": "Modala hjälpverb — 情态助动词 (Modal auxiliary verbs) 级别: A2–B1 一句话: 情态助动词在瑞典语中后接 不带 att 的不定式 ，表达能力、意愿、义务、可能性等。 规则说明 (Rules) 📐 结构公式: 主语 + 情态助动词（presens/preteritum）+ 动词不定式（原形） Hon kan inte tåla laktos. Hon skulle vilja betala",
+      "forms": [],
+      "links": [
+        "grammar-infinitiv",
+        "grammar-konditionalis",
+        "grammar-ska-infinitiv",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "sent-skulle-vi-vilja-betala-dela-på-notan",
+        "sent-vill-ni-betala-med-kort-eller-swish"
+      ],
+      "searchText": "modala-hjälpverb grammar-modala-hjalpverb knowledge_base/grammar/grammar-modala-hjalpverb.md ---\ntype: grammar\nname: \"modala-hjälpverb\"\nzh: \"情态助动词\"\nen: \"Modal auxiliary verbs\"\nlevel: \"A2–B1\"\nrelated:\n  - grammar-ska-infinitiv\n  - grammar-infinitiv\n  - grammar-konditionalis\nexamples:\n  - sent-jag-är-allergisk-mot-nötter-vad-kan-ni\n  - sent-inga-problem-vi-lagar-den-laktosfri\n  - sent-skulle-vi-vilja-betala-dela-på-notan\n  - sent-vill-ni-betala-med-kort-eller-swish\n  - sent-var-sin-del-med-kort-ska-man-lägga-till-dricks\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# Modala hjälpverb — 情态助动词 (Modal auxiliary verbs)\n\n级别: A2–B1\n一句话: 情态助动词在瑞典语中后接**不带 att 的不定式**，表达能力、意愿、义务、可能性等。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主语 + 情态助动词（presens/preteritum）+ 动词不定式（原形）\nHon  kan              inte tåla             laktos.\nHon  skulle           vilja betala          notan.\n```\n\n与中文对比: 中文助动词也前置于动词（\"能/想/要/应该\"），结构相近。\n与英文对比: 英文 \"can/will/would/should + V\" 结构相同；瑞典语同样不加 \"to\"（att）。\n\n## 核心情态助动词 (Core modals)\n\n| 动词 | Presens | Preteritum | 基本含义 |\n|------|---------|------------|----------|\n| kunna | kan | kunde | 能够（能力/可能）|\n| vilja | vill | ville | 想要（意愿）|\n| ska (skola) | ska | skulle | 将要；应该（意图/义务）|\n| måste | måste | var tvungen att | 必须（强制义务）|\n| böra | bör | borde | 应当（建议/道义）|\n| få | får | fick | 被允许（许可）|\n\n## 详细讲解 (Detail)\n\n### 礼貌用法：*skulle vilja*\n\n*skulle vilja* 是 *vill*（想要）的条件语气形式，语气更礼貌、更委婉：\n\n```\nJag vill ha vatten.        → 我要水。（直接，稍微生硬）\nJag skulle vilja ha vatten. → 我想要水。（有礼貌，餐厅/正式场合首选）\n```\n\n→ 例句: [[sent-skulle-vi-vilja-betala-dela-på-notan]]\n\n### *kan* — 询问许可或能力\n\n```\nKan vi dela på notan?  → 我们能分开付账吗？（询问许可）\nVad kan ni rekommendera? → 你们有什么推荐？（能力/提供）\n```\n\n### *ska* — 意图/将来\n\n```\nSka man lägga till dricks? → 需要加小费吗？\n```\n\n### *vill* — 意愿\n\n```\nVill ni betala med kort eller Swish? → 你们想用卡还是 Swish 付？\n```\n\n## 例句 (Examples)\n\n- ✅ [[sent-skulle-vi-vilja-betala-dela-på-notan]] 🇸🇪 Sen skulle vi vilja betala — kan vi dela på notan? 🇨🇳 然后我们想买单——可以分开付吗？\n- ✅ [[sent-jag-är-allergisk-mot-nötter-vad-kan-ni]] 🇸🇪 Vad kan ni rekommendera? 🇨🇳 你们有什么推荐？\n- ✅ [[sent-vill-ni-betala-med-kort-eller-swish]] 🇸🇪 Vill ni betala med kort eller Swish? 🇨🇳 你们想用卡还是 Swish 付？\n- ❌ *Hon skulle vilja att betala.* ← 错误：情态动词后不加 att\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 勿在情态动词后加 *att*：*kan att göra* ✗ → *kan göra* ✓\n- ⚠️ *måste* 的 preteritum 不是 *måstade*，而是 *var tvungen att*\n- ⚠️ *skulle vilja* 中，*skulle* 本身是 *ska* 的 preteritum，但这里是条件/礼貌用法，不表示过去\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-ska-infinitiv]]\n- 📎 [[grammar-infinitiv]]\n- 📎 [[grammar-konditionalis]]\n",
+      "name": "modala-hjälpverb",
+      "zh": "情态助动词",
+      "en": "Modal auxiliary verbs",
+      "created": "2026-06-15",
+      "known": false,
+      "backlinks": [
+        "kan-vi-dela-på-notan",
+        "sent-bra-val-vill-du-ha-efterrätt",
+        "sent-det-var-jättegott-kan-jag-betala",
+        "sent-inga-problem-vi-lagar-den-laktosfri",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
+        "sent-självklart-du-kan-betala-här-vid",
+        "sent-skulle-vi-vilja-betala-dela-på-notan",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "sent-vill-ni-betala-med-kort-eller-swish",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "vad-kan-ni-rekommendera"
+      ]
+    },
+    {
       "slug": "grammar-obestämd-form",
       "type": "grammar",
       "title": "obestämd form",
@@ -587,9 +688,11 @@ window.KB_DATA = {
         "hålla-på",
         "klara-av",
         "klara-sig",
+        "lägga-till-dricks",
         "leta-efter",
         "sent-fika-vi-får-ses-oftare",
-        "source-2026-06-10-zlatan-subst-verb"
+        "source-2026-06-10-zlatan-subst-verb",
+        "värma"
       ]
     },
     {
@@ -616,6 +719,7 @@ window.KB_DATA = {
         "födas",
         "grammar-deponensverb",
         "index",
+        "sent-dricks-är-helt-frivilligt-i-sverige",
         "sent-gransen-kallas-fribelopp",
         "sent-han-foddes-1981-rosengard",
         "skilja_sig",
@@ -643,7 +747,14 @@ window.KB_DATA = {
       "en": "present perfect",
       "created": "2026-06-10",
       "known": false,
-      "backlinks": []
+      "backlinks": [
+        "har-ni-bestämt-er",
+        "har-ni-bokat-bord",
+        "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "sent-har-ni-bestämt-er-eller-behöver-ni",
+        "sent-ja-vi-har-bokat-ett-bord-för-två",
+        "source-2026-06-15-restaurang-middag"
+      ]
     },
     {
       "slug": "grammar-prepositioner-rum",
@@ -771,10 +882,12 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "backlinks": [
+        "är-du-ensam",
         "bli-frisk",
         "bli-sjuk",
         "cykla",
         "det-blir-x-kronor",
+        "det-låter-gott",
         "det-löser-sig",
         "finns-det",
         "grammar-deponensverb",
@@ -789,7 +902,12 @@ window.KB_DATA = {
         "hur-har-du-haft-det",
         "kan-jag-få",
         "promenera",
+        "sent-absolut-vi-har-ett-ledigt-bord",
+        "sent-äppelpaj-tack-den-älskar-jag",
         "sent-ar-en-vanlig-dag-pa-storgatan-full-av-liv",
+        "sent-då-tar-jag-fläskfilén-tack",
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "sent-det-låter-gott-men-jag-är",
         "sent-fika-allt-finns-med-eller-utan-mjölk",
         "sent-fika-är-det-bordet-i-hörnet-ledigt",
         "sent-fika-då-är-det-ljust",
@@ -823,17 +941,26 @@ window.KB_DATA = {
         "sent-fika-vi-har-ett-stort-projekt",
         "sent-fika-vill-du-sitta-utomhus-eller-inne",
         "sent-fika-vill-ni-ha-något-annat",
+        "sent-hej-och-välkommen-är-du-ensam",
+        "sent-ja-gärna-vad-har-ni-för",
+        "sent-ja-jag-är-ensam-finns-det",
+        "sent-ja-vi-har-en-fläskfilé",
         "sent-jag-promenerar-langs-storgatan-solig-tisdag",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
         "sent-nagra-manniskor-vantar-cyklister-stannar-trafikljuset",
         "sent-rakt-fram-ser-jag-ett-torg",
+        "sent-tack-så-mycket-vad-rekommenderar-ni",
         "sent-utanfor-kafeet-star-tre-bankar-sitter-par-manniskor",
+        "sent-utmärkt-jag-kommer-strax-med-beställning",
+        "sent-vi-har-hemgjord-glass-och-äppelpaj",
         "sent-vid-korsningen-blinkar-trafikljuset-rott-bilar-cyklister",
         "source-2026-06-09-beskriva-en-gata",
         "source-2026-06-10-zlatan-subst-verb",
         "tar-ni-kort",
         "topic-stadsmiljo",
+        "vad-har-ni-för",
+        "vad-rekommenderar-ni",
         "vara-säker-på",
         "vara-sjuk",
         "vi-får-ses-oftare"
@@ -1002,11 +1129,13 @@ window.KB_DATA = {
         "grammar-imperativ",
         "grammar-reflexivt-pronomen",
         "grammar-riktnings-adverb",
+        "har-ni-bestämt-er",
         "hur-tar-jag-mig-dit",
         "känna-sig",
         "känna-sig-pigg",
         "klara-sig",
         "lägga-sig",
+        "sent-har-ni-bestämt-er-eller-behöver-ni",
         "sent-hur-tar-jag-mig-dit",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
@@ -1015,6 +1144,7 @@ window.KB_DATA = {
         "skynda",
         "skynda-dig",
         "source-2026-06-03-fraga-vagen-pub",
+        "source-2026-06-15-restaurang-middag",
         "vi-ses-snart"
       ]
     },
@@ -1074,7 +1204,15 @@ window.KB_DATA = {
       "en": "compound word",
       "created": "2026-06-10",
       "known": false,
-      "backlinks": []
+      "backlinks": [
+        "fisksoppa",
+        "grammar-adjektiv-kongruens",
+        "laktos",
+        "nöt",
+        "sent-inga-problem-vi-lagar-den-laktosfri",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ]
     },
     {
       "slug": "grammar-satsadverbial",
@@ -1095,6 +1233,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "backlinks": [
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
         "topic-satsadverbial"
       ]
     },
@@ -1124,10 +1263,12 @@ window.KB_DATA = {
         "sent-fick-fotbollsskor-trots-mamma",
         "sent-manga-kommuner-valkomnar-sina-nya",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
         "sent-zlatan-mycket-bra-karriar-mal",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-09-zlatan-bio",
-        "till-sin-mamma"
+        "till-sin-mamma",
+        "var-sin-del"
       ]
     },
     {
@@ -1174,6 +1315,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "grammar-infinitiv",
+        "grammar-modala-hjalpverb",
         "grammar-preteritum",
         "index",
         "rösta-om",
@@ -1230,20 +1372,29 @@ window.KB_DATA = {
       "backlinks": [
         "ägg",
         "apelsin",
+        "bil",
+        "bro",
         "bröd",
         "bulle",
+        "buss",
+        "cykel",
+        "gata",
         "glass",
         "grammar-adjektiv-bojning",
         "grammar-deklination",
         "grammar-sammansatt-ord",
         "grammar-singular-plural",
+        "hållplats",
+        "hus",
         "juice",
         "kaka",
         "korv",
         "kyckling",
+        "lastbil",
         "lök",
         "morot",
         "ost",
+        "parkering",
         "päron",
         "pizza",
         "potatis",
@@ -1251,8 +1402,14 @@ window.KB_DATA = {
         "soppa",
         "source-2026-06-10-personer-bojning",
         "source-2026-06-11-mat-dryck",
+        "source-2026-06-15-stad-trafik",
+        "stad",
+        "station",
+        "tåg",
         "tallrik",
-        "tårta"
+        "tårta",
+        "tunnel",
+        "väg"
       ]
     },
     {
@@ -1304,6 +1461,7 @@ window.KB_DATA = {
         "ga-klart-i",
         "istallet-for",
         "sent-gick-aldrig-klart-gymnasiet-satsade",
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
         "source-2026-06-09-zlatan-bio"
       ]
     },
@@ -1336,6 +1494,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "det-finns",
+        "det-ordnar-vi",
         "efter-det",
         "en-stund-senare",
         "grammar-att-sats",
@@ -1357,6 +1516,7 @@ window.KB_DATA = {
         "plötsligt",
         "sent-antligen-kunde-jag-andas-ut",
         "sent-bredvid-sangen-star-ett-litet-nattduksbord",
+        "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "sent-den-fragan-ska-invanarna-i-alberta",
@@ -1400,6 +1560,7 @@ window.KB_DATA = {
         "sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank",
         "sent-under-fonster-finns-ett-element",
         "sent-under-tavlan-star-ett-skrivbord",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
         "sent-vid-halv-nio-kom-jag-fram-till-centralstationen",
         "sent-vid-korsningen-blinkar-trafikljuset-rott-bilar-cyklister",
         "source-2026-06-04-nyheter-vecka-22",
@@ -1635,6 +1796,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "är-du-ensam",
+      "type": "phrase",
+      "title": "är du ensam",
+      "path": "knowledge_base/phrases/är-du-ensam.md",
+      "body": "# är du ensam\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 就你一位吗 · 🇬🇧 are you alone; table for one\n📝 字面: are you alone\n\n## 用法说明 (Usage)\n\n- 餐厅服务员询问顾客是否独自用餐的礼貌问句。\n- 相当于英语的 \"Table for one?\" 或 \"Just you tonight?\"。\n- 回答可以是: *Ja, jag är ensam.* 或直接说人数 *Vi är två.*\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] — 现在时: *är* (vara 的现在式)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Är ni ensam?* — 敬语/多人版\n- 🔗 [[finns-det-något-ledigt-bord]] — 紧接着问空桌\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hej-och-välkommen-är-du-ensam]] 🇸🇪 Hej och välkommen! Är du ensam ikväll? 🇨🇳 你好，欢迎光临！今晚就您一位吗？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "är du ensam 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 3/5 🇨🇳 就你一位吗 · 🇬🇧 are you alone; table for one 📝 字面: are you alone 用法说明 (Usage) 餐厅服务员询问顾客是否独自用餐的礼貌问句。 相当于英语的 \"Table for one?\" 或 \"Just you tonight?\"。 回答可以是: Ja",
+      "forms": [],
+      "links": [
+        "finns-det-något-ledigt-bord",
+        "grammar-presens",
+        "sent-hej-och-välkommen-är-du-ensam",
+        "source-2026-06-15-restaurang-rekommendation"
+      ],
+      "searchText": "är du ensam är-du-ensam knowledge_base/phrases/är-du-ensam.md ---\ntype: phrase\nphrase: \"är du ensam\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 3\nzh: \"就你一位吗\"\nen: \"are you alone; table for one\"\nliteral: \"are you alone\"\nhead_words: [vara, ensam]\ngrammar: [grammar-presens]\nrelated: [finns-det-något-ledigt-bord]\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-hej-och-välkommen-är-du-ensam\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# är du ensam\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 就你一位吗 · 🇬🇧 are you alone; table for one\n📝 字面: are you alone\n\n## 用法说明 (Usage)\n\n- 餐厅服务员询问顾客是否独自用餐的礼貌问句。\n- 相当于英语的 \"Table for one?\" 或 \"Just you tonight?\"。\n- 回答可以是: *Ja, jag är ensam.* 或直接说人数 *Vi är två.*\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] — 现在时: *är* (vara 的现在式)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Är ni ensam?* — 敬语/多人版\n- 🔗 [[finns-det-något-ledigt-bord]] — 紧接着问空桌\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hej-och-välkommen-är-du-ensam]] 🇸🇪 Hej och välkommen! Är du ensam ikväll? 🇨🇳 你好，欢迎光临！今晚就您一位吗？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "zh": "就你一位吗",
+      "en": "are you alone; table for one",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "är du ensam",
+      "sentences": [
+        "sent-hej-och-välkommen-är-du-ensam"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-hej-och-välkommen-är-du-ensam"
+      ]
+    },
+    {
       "slug": "bestå-av",
       "type": "phrase",
       "title": "bestå av",
@@ -1662,6 +1856,43 @@ window.KB_DATA = {
         "index",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22"
+      ]
+    },
+    {
+      "slug": "betala-med-kort-eller-swish",
+      "type": "phrase",
+      "title": "betala med kort eller Swish",
+      "path": "knowledge_base/phrases/betala-med-kort-eller-swish.md",
+      "body": "# betala med kort eller Swish\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 用卡还是 Swish 付 · 🇬🇧 pay by card or Swish\n📝 字面: 用卡或 Swish 支付\n\n## 用法说明 (Usage)\n\n- Swish 是瑞典最普及的手机支付应用（类似微信支付）\n- *med* 是表示支付方式的介词：*betala med kort/kontant/Swish*\n- 服务员会问 *Vill ni betala med kort eller Swish?* 或直接 *Kort eller Swish?*\n\n## 短语中的语法 (Grammar inside)\n\n- 介词 *med* 表示工具/方式\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kort eller Swish?* — 缩略问句（常见）\n- 🔄 *betala med kontant* — 现金支付（越来越少见）\n- 🔗 [[tar-ni-kort]]\n- 🔗 [[kan-vi-dela-på-notan]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-vill-ni-betala-med-kort-eller-swish]] 🇸🇪 Vill ni betala med kort eller Swish? 🇨🇳 你们想用卡还是 Swish 付？",
+      "excerpt": "betala med kort eller Swish 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5 🇨🇳 用卡还是 Swish 付 · 🇬🇧 pay by card or Swish 📝 字面: 用卡或 Swish 支付 用法说明 (Usage) Swish 是瑞典最普及的手机支付应用（类似微信支付） med 是表示支付方式的介词： betala med kort/kont",
+      "forms": [],
+      "links": [
+        "kan-vi-dela-på-notan",
+        "sent-vill-ni-betala-med-kort-eller-swish",
+        "tar-ni-kort"
+      ],
+      "searchText": "betala med kort eller Swish betala-med-kort-eller-swish knowledge_base/phrases/betala-med-kort-eller-swish.md ---\ntype: phrase\nphrase: \"betala med kort eller Swish\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 4\nzh: \"用卡还是 Swish 付\"\nen: \"pay by card or Swish\"\nliteral: \"pay with card or Swish\"\nhead_words:\n  - betala\n  - kort\ngrammar: []\nrelated:\n  - kan-vi-dela-på-notan\n  - var-sin-del\n  - tar-ni-kort\ntopics:\n  - topic-betalning\nsentences:\n  - sent-vill-ni-betala-med-kort-eller-swish\n  - sent-var-sin-del-med-kort-ska-man-lägga-till-dricks\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# betala med kort eller Swish\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 用卡还是 Swish 付 · 🇬🇧 pay by card or Swish\n📝 字面: 用卡或 Swish 支付\n\n## 用法说明 (Usage)\n\n- Swish 是瑞典最普及的手机支付应用（类似微信支付）\n- *med* 是表示支付方式的介词：*betala med kort/kontant/Swish*\n- 服务员会问 *Vill ni betala med kort eller Swish?* 或直接 *Kort eller Swish?*\n\n## 短语中的语法 (Grammar inside)\n\n- 介词 *med* 表示工具/方式\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kort eller Swish?* — 缩略问句（常见）\n- 🔄 *betala med kontant* — 现金支付（越来越少见）\n- 🔗 [[tar-ni-kort]]\n- 🔗 [[kan-vi-dela-på-notan]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-vill-ni-betala-med-kort-eller-swish]] 🇸🇪 Vill ni betala med kort eller Swish? 🇨🇳 你们想用卡还是 Swish 付？\n",
+      "zh": "用卡还是 Swish 付",
+      "en": "pay by card or Swish",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "betala med kort eller Swish",
+      "sentences": [
+        "sent-vill-ni-betala-med-kort-eller-swish",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "kan-vi-dela-på-notan",
+        "sent-det-var-jättegott-kan-jag-betala",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "sent-vill-ni-betala-med-kort-eller-swish",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-betalning",
+        "var-sin-del"
       ]
     },
     {
@@ -1839,6 +2070,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "bra-val",
+      "type": "phrase",
+      "title": "bra val",
+      "path": "knowledge_base/phrases/bra-val.md",
+      "body": "# bra val\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 好选择 · 🇬🇧 good choice\n📝 字面: good choice\n\n## 用法说明 (Usage)\n\n- 服务员对顾客点餐的积极回应，也用于日常对话。\n- 类似中文\"好眼光！\"或英语 \"Great choice!\"。\n- *val* = 选择（名词，从 *välja* 选择），*bra* = 好的。\n\n## 短语中的语法 (Grammar inside)\n\n- 简短感叹句，无复杂语法结构。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *utmärkt val!* — 极佳的选择！（更正式/夸张，见 [[sent-utmärkt-val-vill-ni-ha-förrätt]]）\n- 🔗 [[det-låter-gott]] — 听起来很好吃\n\n## 例句 / 对话 (Examples)\n\n- [[sent-bra-val-vill-du-ha-efterrätt]] 🇸🇪 Bra val! Vill du ha någon efterrätt efteråt? 🇨🇳 好选择！之后想要甜点吗？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "bra val 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 好选择 · 🇬🇧 good choice 📝 字面: good choice 用法说明 (Usage) 服务员对顾客点餐的积极回应，也用于日常对话。 类似中文\"好眼光！\"或英语 \"Great choice!\"。 val = 选择（名词，从 välja 选择）， bra = 好的。 短语中的语法 (Grammar ",
+      "forms": [],
+      "links": [
+        "det-låter-gott",
+        "sent-bra-val-vill-du-ha-efterrätt",
+        "sent-utmärkt-val-vill-ni-ha-förrätt",
+        "source-2026-06-15-restaurang-rekommendation"
+      ],
+      "searchText": "bra val bra-val knowledge_base/phrases/bra-val.md ---\ntype: phrase\nphrase: \"bra val\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 3\nzh: \"好选择\"\nen: \"good choice\"\nliteral: \"good choice\"\nhead_words: [val]\ngrammar: []\nrelated: [det-låter-gott]\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-bra-val-vill-du-ha-efterrätt\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bra val\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 好选择 · 🇬🇧 good choice\n📝 字面: good choice\n\n## 用法说明 (Usage)\n\n- 服务员对顾客点餐的积极回应，也用于日常对话。\n- 类似中文\"好眼光！\"或英语 \"Great choice!\"。\n- *val* = 选择（名词，从 *välja* 选择），*bra* = 好的。\n\n## 短语中的语法 (Grammar inside)\n\n- 简短感叹句，无复杂语法结构。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *utmärkt val!* — 极佳的选择！（更正式/夸张，见 [[sent-utmärkt-val-vill-ni-ha-förrätt]]）\n- 🔗 [[det-låter-gott]] — 听起来很好吃\n\n## 例句 / 对话 (Examples)\n\n- [[sent-bra-val-vill-du-ha-efterrätt]] 🇸🇪 Bra val! Vill du ha någon efterrätt efteråt? 🇨🇳 好选择！之后想要甜点吗？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "zh": "好选择",
+      "en": "good choice",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "bra val",
+      "sentences": [
+        "sent-bra-val-vill-du-ha-efterrätt"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "det-låter-gott",
+        "sent-bra-val-vill-du-ha-efterrätt",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "bredvid-sig",
       "type": "phrase",
       "title": "bredvid sig",
@@ -1861,6 +2125,39 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "source-2026-06-10-zlatan-subst-verb"
+      ]
+    },
+    {
+      "slug": "dagens-rätt",
+      "type": "phrase",
+      "title": "dagens rätt",
+      "path": "knowledge_base/phrases/dagens-rätt.md",
+      "body": "# dagens rätt\n\n🗣️ 类型: restauranguttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 今日例餐；今日推荐 · 🇬🇧 today's special; dish of the day\n📝 字面: today's dish\n\n## 用法说明 (Usage)\n\n- 瑞典餐厅菜单上几乎必有的选项，通常价格实惠且包含面包、沙拉、饮料。\n- *dagens* = 今天的（dag 的属格形式），*rätt* = 菜肴。\n- 在午餐时段尤为常见（*lunchrätt*）。\n\n## 短语中的语法 (Grammar inside)\n\n- 无复杂语法，*dagens* 是所有格形式。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *dagens lunch* — 今日午餐套餐\n- 🔗 [[vad-rekommenderar-ni]] — 你们推荐什么\n- 🔗 [[vad-kan-ni-rekommendera]] — 你们有什么推荐\n\n## 例句 / 对话 (Examples)\n\n- [[sent-dagens-rätt-är-en-vegetarisk-pasta]] 🇸🇪 Dagens rätt är en vegetarisk pasta med svamp. Den är jättepopulär. 🇨🇳 今日例餐是蘑菇素食意面，很受欢迎。\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "dagens rätt 🗣️ 类型: restauranguttryck · 语域: neutralt · 常用度: 5/5 🇨🇳 今日例餐；今日推荐 · 🇬🇧 today's special; dish of the day 📝 字面: today's dish 用法说明 (Usage) 瑞典餐厅菜单上几乎必有的选项，通常价格实惠且包含面包、沙拉、饮料。 dagens = 今天的（dag 的属格形式）， rätt = 菜肴",
+      "forms": [],
+      "links": [
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "source-2026-06-15-restaurang-rekommendation",
+        "vad-kan-ni-rekommendera",
+        "vad-rekommenderar-ni"
+      ],
+      "searchText": "dagens rätt dagens-rätt knowledge_base/phrases/dagens-rätt.md ---\ntype: phrase\nphrase: \"dagens rätt\"\ncategory: restauranguttryck\nregister: neutralt\nfrequency: 5\nzh: \"今日例餐；今日推荐\"\nen: \"today's special; dish of the day\"\nliteral: \"today's dish\"\nhead_words: []\ngrammar: []\nrelated: [vad-rekommenderar-ni, vad-kan-ni-rekommendera]\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-dagens-rätt-är-en-vegetarisk-pasta\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# dagens rätt\n\n🗣️ 类型: restauranguttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 今日例餐；今日推荐 · 🇬🇧 today's special; dish of the day\n📝 字面: today's dish\n\n## 用法说明 (Usage)\n\n- 瑞典餐厅菜单上几乎必有的选项，通常价格实惠且包含面包、沙拉、饮料。\n- *dagens* = 今天的（dag 的属格形式），*rätt* = 菜肴。\n- 在午餐时段尤为常见（*lunchrätt*）。\n\n## 短语中的语法 (Grammar inside)\n\n- 无复杂语法，*dagens* 是所有格形式。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *dagens lunch* — 今日午餐套餐\n- 🔗 [[vad-rekommenderar-ni]] — 你们推荐什么\n- 🔗 [[vad-kan-ni-rekommendera]] — 你们有什么推荐\n\n## 例句 / 对话 (Examples)\n\n- [[sent-dagens-rätt-är-en-vegetarisk-pasta]] 🇸🇪 Dagens rätt är en vegetarisk pasta med svamp. Den är jättepopulär. 🇨🇳 今日例餐是蘑菇素食意面，很受欢迎。\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "zh": "今日例餐；今日推荐",
+      "en": "today's special; dish of the day",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "dagens rätt",
+      "sentences": [
+        "sent-dagens-rätt-är-en-vegetarisk-pasta"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "topic-mat-dryck",
+        "vad-rekommenderar-ni"
       ]
     },
     {
@@ -2018,6 +2315,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "det-låter-gott",
+      "type": "phrase",
+      "title": "det låter gott",
+      "path": "knowledge_base/phrases/det-låter-gott.md",
+      "body": "# det låter gott\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 听起来很好吃 · 🇬🇧 that sounds tasty\n📝 字面: that sounds good/tasty\n\n## 用法说明 (Usage)\n\n- 对别人描述食物/计划表示积极回应的常用句。\n- *låter* 在此为\"听起来\"（låta = 听起来/让），*gott* = 美味的（god 的中性/副词形式）。\n- 可用于餐厅（对菜肴描述），也可用于日常对话（听起来是个好主意）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] — 现在时：*låter*\n- *gott* 是 *god* 的中性形式，在 *låta* 后用作表语补语\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *det låter bra* — 听起来不错（更通用）\n- 🔄 *det låter gott!* — 语气更强烈\n- 🔗 [[bra-val]] — 好选择\n\n## 例句 / 对话 (Examples)\n\n- [[sent-det-låter-gott-men-jag-är]] 🇸🇪 Det låter gott, men jag är ganska hungrig. Finns det något med kött också? 🇨🇳 听起来不错，不过我挺饿的。有带肉的吗？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "det låter gott 🗣️ 类型: fast uttryck · 语域: vardagligt · 常用度: 4/5 🇨🇳 听起来很好吃 · 🇬🇧 that sounds tasty 📝 字面: that sounds good/tasty 用法说明 (Usage) 对别人描述食物/计划表示积极回应的常用句。 låter 在此为\"听起来\"（låta = 听起来/让）， gott = 美味的（god 的中性/副词形式）",
+      "forms": [],
+      "links": [
+        "bra-val",
+        "grammar-presens",
+        "sent-det-låter-gott-men-jag-är",
+        "source-2026-06-15-restaurang-rekommendation"
+      ],
+      "searchText": "det låter gott det-låter-gott knowledge_base/phrases/det-låter-gott.md ---\ntype: phrase\nphrase: \"det låter gott\"\ncategory: fast-uttryck\nregister: vardagligt\nfrequency: 4\nzh: \"听起来很好吃\"\nen: \"that sounds tasty\"\nliteral: \"that sounds good/tasty\"\nhead_words: [god]\ngrammar: [grammar-presens]\nrelated: [bra-val]\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-det-låter-gott-men-jag-är\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# det låter gott\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 听起来很好吃 · 🇬🇧 that sounds tasty\n📝 字面: that sounds good/tasty\n\n## 用法说明 (Usage)\n\n- 对别人描述食物/计划表示积极回应的常用句。\n- *låter* 在此为\"听起来\"（låta = 听起来/让），*gott* = 美味的（god 的中性/副词形式）。\n- 可用于餐厅（对菜肴描述），也可用于日常对话（听起来是个好主意）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] — 现在时：*låter*\n- *gott* 是 *god* 的中性形式，在 *låta* 后用作表语补语\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *det låter bra* — 听起来不错（更通用）\n- 🔄 *det låter gott!* — 语气更强烈\n- 🔗 [[bra-val]] — 好选择\n\n## 例句 / 对话 (Examples)\n\n- [[sent-det-låter-gott-men-jag-är]] 🇸🇪 Det låter gott, men jag är ganska hungrig. Finns det något med kött också? 🇨🇳 听起来不错，不过我挺饿的。有带肉的吗？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "zh": "听起来很好吃",
+      "en": "that sounds tasty",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "det låter gott",
+      "sentences": [
+        "sent-det-låter-gott-men-jag-är"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "bra-val",
+        "sent-det-låter-gott-men-jag-är",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "det-löser-sig",
       "type": "phrase",
       "title": "det löser sig",
@@ -2044,6 +2376,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "det-ordnar-vi",
+      "type": "phrase",
+      "title": "Det ordnar vi.",
+      "path": "knowledge_base/phrases/det-ordnar-vi.md",
+      "body": "# Det ordnar vi.\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 这个我们能搞定。 · 🇬🇧 We'll sort that out.\n📝 字面: 那我们来安排。\n\n## 用法说明 (Usage)\n\n- 服务人员对客人要求的积极回应，表示\"没问题，我们来处理\"\n- 语气比 *inga problem* 更主动，暗示会采取行动\n- 也可说 *Det fixar vi.* / *Det löser vi.*（同义）\n\n## 短语中的语法 (Grammar inside)\n\n- V2 语序：主语 *vi* 后置于动词 *ordnar* → [[grammar-v2-ordfoljd]]\n- 动词 *ordna*（grupp 1）：ordnar / ordnade / ordnat\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Det fixar vi.* — 同义，口语更随意\n- 🔄 *Det löser vi.* — 同义，更强调\"解决问题\"\n- 🔗 [[inga-problem]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-vår-fisksoppa-är-nötfri-och-kycklingen]] 🇸🇪 Det ordnar vi. Vår fisksoppa är nötfri. 🇨🇳 没问题。我们的鱼汤不含坚果。",
+      "excerpt": "Det ordnar vi. 🗣️ 类型: fast uttryck · 语域: vardagligt · 常用度: 4/5 🇨🇳 这个我们能搞定。 · 🇬🇧 We'll sort that out. 📝 字面: 那我们来安排。 用法说明 (Usage) 服务人员对客人要求的积极回应，表示\"没问题，我们来处理\" 语气比 inga problem 更主动，暗示会采取行动 也可说 Det fixar vi. / Det löse",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "inga-problem",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen"
+      ],
+      "searchText": "Det ordnar vi. det-ordnar-vi knowledge_base/phrases/det-ordnar-vi.md ---\ntype: phrase\nphrase: \"Det ordnar vi.\"\ncategory: fast-uttryck\nregister: vardagligt\nfrequency: 4\nzh: \"这个我们能搞定。\"\nen: \"We'll sort that out.\"\nliteral: \"That we'll arrange.\"\nhead_words: []\ngrammar:\n  - grammar-v2-ordfoljd\nrelated:\n  - inga-problem\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-vår-fisksoppa-är-nötfri-och-kycklingen\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# Det ordnar vi.\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 这个我们能搞定。 · 🇬🇧 We'll sort that out.\n📝 字面: 那我们来安排。\n\n## 用法说明 (Usage)\n\n- 服务人员对客人要求的积极回应，表示\"没问题，我们来处理\"\n- 语气比 *inga problem* 更主动，暗示会采取行动\n- 也可说 *Det fixar vi.* / *Det löser vi.*（同义）\n\n## 短语中的语法 (Grammar inside)\n\n- V2 语序：主语 *vi* 后置于动词 *ordnar* → [[grammar-v2-ordfoljd]]\n- 动词 *ordna*（grupp 1）：ordnar / ordnade / ordnat\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Det fixar vi.* — 同义，口语更随意\n- 🔄 *Det löser vi.* — 同义，更强调\"解决问题\"\n- 🔗 [[inga-problem]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-vår-fisksoppa-är-nötfri-och-kycklingen]] 🇸🇪 Det ordnar vi. Vår fisksoppa är nötfri. 🇨🇳 没问题。我们的鱼汤不含坚果。\n",
+      "zh": "这个我们能搞定。",
+      "en": "We'll sort that out.",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "Det ordnar vi.",
+      "sentences": [
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen"
+      ],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "inga-problem",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "det-räcker-bra-så",
       "type": "phrase",
       "title": "det räcker bra så",
@@ -2067,7 +2434,10 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "det-är-bra-så",
-        "sent-fika-nej-tack-det-räcker-bra-så"
+        "sent-fika-nej-tack-det-räcker-bra-så",
+        "sent-nej-tack-det-räcker-bra-men-notan",
+        "sent-två-glas-vatten-räcker-tack",
+        "source-2026-06-15-restaurang-middag"
       ]
     },
     {
@@ -2264,6 +2634,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "finns-det-något-ledigt-bord",
+      "type": "phrase",
+      "title": "finns det något ledigt bord",
+      "path": "knowledge_base/phrases/finns-det-något-ledigt-bord.md",
+      "body": "# finns det något ledigt bord\n\n🗣️ 类型: restaurangfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 有空桌吗 · 🇬🇧 is there a free table\n📝 字面: is there a free table\n\n## 用法说明 (Usage)\n\n- 没有预订时，走进餐厅询问是否有空桌的常用句。\n- 与 [[har-ni-bokat-bord]] 相对：那是服务员问顾客；这是顾客问服务员。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-det-finns]] — det finns 结构：存在句式\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Finns det lediga bord?* — 有没有空桌？\n- 🔗 [[har-ni-bokat-bord]] — 你们订位了吗？\n\n## 例句 / 对话 (Examples)\n\n- [[sent-ja-jag-är-ensam-finns-det]] 🇸🇪 Ja, jag är ensam. Finns det något ledigt bord? 🇨🇳 是的，就我一个人。还有空桌吗？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "finns det något ledigt bord 🗣️ 类型: restaurangfras · 语域: neutralt · 常用度: 3/5 🇨🇳 有空桌吗 · 🇬🇧 is there a free table 📝 字面: is there a free table 用法说明 (Usage) 没有预订时，走进餐厅询问是否有空桌的常用句。 与 har ni bokat bord 相对：那是服务员问顾客；这是顾客问服务",
+      "forms": [],
+      "links": [
+        "grammar-det-finns",
+        "har-ni-bokat-bord",
+        "sent-ja-jag-är-ensam-finns-det",
+        "source-2026-06-15-restaurang-rekommendation"
+      ],
+      "searchText": "finns det något ledigt bord finns-det-något-ledigt-bord knowledge_base/phrases/finns-det-något-ledigt-bord.md ---\ntype: phrase\nphrase: \"finns det något ledigt bord\"\ncategory: restaurangfras\nregister: neutralt\nfrequency: 3\nzh: \"有空桌吗\"\nen: \"is there a free table\"\nliteral: \"is there a free table\"\nhead_words: [finnas, ledig, bord]\ngrammar: [grammar-det-finns]\nrelated: [är-du-ensam, har-ni-bokat-bord]\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-ja-jag-är-ensam-finns-det\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# finns det något ledigt bord\n\n🗣️ 类型: restaurangfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 有空桌吗 · 🇬🇧 is there a free table\n📝 字面: is there a free table\n\n## 用法说明 (Usage)\n\n- 没有预订时，走进餐厅询问是否有空桌的常用句。\n- 与 [[har-ni-bokat-bord]] 相对：那是服务员问顾客；这是顾客问服务员。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-det-finns]] — det finns 结构：存在句式\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Finns det lediga bord?* — 有没有空桌？\n- 🔗 [[har-ni-bokat-bord]] — 你们订位了吗？\n\n## 例句 / 对话 (Examples)\n\n- [[sent-ja-jag-är-ensam-finns-det]] 🇸🇪 Ja, jag är ensam. Finns det något ledigt bord? 🇨🇳 是的，就我一个人。还有空桌吗？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "zh": "有空桌吗",
+      "en": "is there a free table",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "finns det något ledigt bord",
+      "sentences": [
+        "sent-ja-jag-är-ensam-finns-det"
+      ],
+      "grammar": [
+        "grammar-det-finns"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "är-du-ensam",
+        "sent-ja-jag-är-ensam-finns-det"
+      ]
+    },
+    {
       "slug": "finns-det",
       "type": "phrase",
       "title": "finns det",
@@ -2291,6 +2695,38 @@ window.KB_DATA = {
       "backlinks": [
         "har-ni",
         "sent-fika-oj-vad-gott-det-ser-ut"
+      ]
+    },
+    {
+      "slug": "följ-med-mig",
+      "type": "phrase",
+      "title": "följ med mig",
+      "path": "knowledge_base/phrases/följ-med-mig.md",
+      "body": "# följ med mig\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 请跟我来 · 🇬🇧 follow me; come with me\n📝 字面: 跟着我\n\n## 用法说明 (Usage)\n\n- 服务员引领客人入座时的标准表达。\n- *följ* 是动词 *följa*（跟随）的祈使句形式。\n- 常与 *så visar jag er till bordet* 合用：*Följ med mig, så visar jag er till bordet.*\n\n## 短语中的语法 (Grammar inside)\n\n- 祈使句: *följ* (imperativ of *följa*) → [[grammar-imperativ]]\n- 分离型：*följa med* 是 partikelverb（跟随/陪同）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kom med mig* — 跟我来（更口语）\n- 🔄 *Var snäll och följ med* — 请跟我来（更礼貌）\n- 🔗 [[grammar-imperativ]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-perfekt-det-stämmer-följ-med-mig]] 🇸🇪 Följ med mig, så visar jag er till bordet. 🇨🇳 请跟我来，我带你们到座位。",
+      "excerpt": "följ med mig 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5 🇨🇳 请跟我来 · 🇬🇧 follow me; come with me 📝 字面: 跟着我 用法说明 (Usage) 服务员引领客人入座时的标准表达。 följ 是动词 följa （跟随）的祈使句形式。 常与 så visar jag er till bordet 合用： Följ med mig, ",
+      "forms": [],
+      "links": [
+        "grammar-imperativ",
+        "sent-perfekt-det-stämmer-följ-med-mig"
+      ],
+      "searchText": "följ med mig följ-med-mig knowledge_base/phrases/följ-med-mig.md ---\ntype: phrase\nphrase: \"följ med mig\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 4\nzh: \"请跟我来\"\nen: \"follow me; come with me\"\nliteral: \"follow with me\"\nhead_words:\n  - visa\ngrammar:\n  - grammar-imperativ\nrelated: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-perfekt-det-stämmer-följ-med-mig\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# följ med mig\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 请跟我来 · 🇬🇧 follow me; come with me\n📝 字面: 跟着我\n\n## 用法说明 (Usage)\n\n- 服务员引领客人入座时的标准表达。\n- *följ* 是动词 *följa*（跟随）的祈使句形式。\n- 常与 *så visar jag er till bordet* 合用：*Följ med mig, så visar jag er till bordet.*\n\n## 短语中的语法 (Grammar inside)\n\n- 祈使句: *följ* (imperativ of *följa*) → [[grammar-imperativ]]\n- 分离型：*följa med* 是 partikelverb（跟随/陪同）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kom med mig* — 跟我来（更口语）\n- 🔄 *Var snäll och följ med* — 请跟我来（更礼貌）\n- 🔗 [[grammar-imperativ]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-perfekt-det-stämmer-följ-med-mig]] 🇸🇪 Följ med mig, så visar jag er till bordet. 🇨🇳 请跟我来，我带你们到座位。\n",
+      "zh": "请跟我来",
+      "en": "follow me; come with me",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "följ med mig",
+      "sentences": [
+        "sent-perfekt-det-stämmer-följ-med-mig"
+      ],
+      "grammar": [
+        "grammar-imperativ"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-perfekt-det-stämmer-följ-med-mig",
+        "source-2026-06-15-restaurang-middag"
       ]
     },
     {
@@ -2727,6 +3163,79 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "har-ni-bestämt-er",
+      "type": "phrase",
+      "title": "har ni bestämt er",
+      "path": "knowledge_base/phrases/har-ni-bestämt-er.md",
+      "body": "# har ni bestämt er\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 你们想好点什么了吗 · 🇬🇧 have you decided; are you ready to order\n📝 字面: 你们做好决定了吗\n\n## 用法说明 (Usage)\n\n- 服务员询问客人是否已准备好点餐的标准用语。\n- *bestämma sig* 是反身动词，*er* 是 *ni*（你们）的反身代词形式。\n- 完整版: *Har ni bestämt er, eller behöver ni några minuter till?*\n\n## 短语中的语法 (Grammar inside)\n\n- 反身动词 *bestämma sig*: *er* = reflexivt pronomen → [[grammar-reflexivt-verb]]\n- 完成时（perfekt）: *har bestämt* → [[grammar-perfekt]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Är ni redo att beställa?* — 你们准备好点餐了吗？（更直接）\n- 🔗 [[bestämma]] · [[grammar-reflexivt-verb]] · [[grammar-perfekt]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-har-ni-bestämt-er-eller-behöver-ni]] 🇸🇪 Har ni bestämt er, eller behöver ni några minuter till? 🇨🇳 你们想好了吗，还是再需要几分钟？",
+      "excerpt": "har ni bestämt er 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 你们想好点什么了吗 · 🇬🇧 have you decided; are you ready to order 📝 字面: 你们做好决定了吗 用法说明 (Usage) 服务员询问客人是否已准备好点餐的标准用语。 bestämma sig 是反身动词， er 是 ni （你们）的反身代词形式",
+      "forms": [],
+      "links": [
+        "bestämma",
+        "grammar-perfekt",
+        "grammar-reflexivt-verb",
+        "sent-har-ni-bestämt-er-eller-behöver-ni"
+      ],
+      "searchText": "har ni bestämt er har-ni-bestämt-er knowledge_base/phrases/har-ni-bestämt-er.md ---\ntype: phrase\nphrase: \"har ni bestämt er\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 5\nzh: \"你们想好点什么了吗\"\nen: \"have you decided; are you ready to order\"\nliteral: \"have you decided yourselves\"\nhead_words:\n  - bestämma\ngrammar:\n  - grammar-reflexivt-verb\n  - grammar-perfekt\nrelated:\n  - har-ni-bokat-bord\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-har-ni-bestämt-er-eller-behöver-ni\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# har ni bestämt er\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 你们想好点什么了吗 · 🇬🇧 have you decided; are you ready to order\n📝 字面: 你们做好决定了吗\n\n## 用法说明 (Usage)\n\n- 服务员询问客人是否已准备好点餐的标准用语。\n- *bestämma sig* 是反身动词，*er* 是 *ni*（你们）的反身代词形式。\n- 完整版: *Har ni bestämt er, eller behöver ni några minuter till?*\n\n## 短语中的语法 (Grammar inside)\n\n- 反身动词 *bestämma sig*: *er* = reflexivt pronomen → [[grammar-reflexivt-verb]]\n- 完成时（perfekt）: *har bestämt* → [[grammar-perfekt]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Är ni redo att beställa?* — 你们准备好点餐了吗？（更直接）\n- 🔗 [[bestämma]] · [[grammar-reflexivt-verb]] · [[grammar-perfekt]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-har-ni-bestämt-er-eller-behöver-ni]] 🇸🇪 Har ni bestämt er, eller behöver ni några minuter till? 🇨🇳 你们想好了吗，还是再需要几分钟？\n",
+      "zh": "你们想好点什么了吗",
+      "en": "have you decided; are you ready to order",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "har ni bestämt er",
+      "sentences": [
+        "sent-har-ni-bestämt-er-eller-behöver-ni"
+      ],
+      "grammar": [
+        "grammar-reflexivt-verb",
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-har-ni-bestämt-er-eller-behöver-ni",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "har-ni-bokat-bord",
+      "type": "phrase",
+      "title": "har ni bokat bord",
+      "path": "knowledge_base/phrases/har-ni-bokat-bord.md",
+      "body": "# har ni bokat bord\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 订位了吗 · 🇬🇧 have you booked a table\n📝 字面: 你们预订了桌子吗\n\n## 用法说明 (Usage)\n\n- 餐厅服务员在客人进门时的首句问话。\n- *ni* 是对客人的礼貌称呼（复数/尊称\"你们\"）。\n- 与否定回答搭配：*Nej, vi har inte bokat.* — 没有，我们没有预订。\n\n## 短语中的语法 (Grammar inside)\n\n- 动词 *boka* 的完成时（perfekt）: *har bokat* → [[grammar-perfekt]]\n- *ni* 作主语表示礼貌的复数\"你们\"\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Har ni en bokning?* — 你们有预订吗？（更正式）\n- 🔗 [[boka]] · [[bord]] · [[kan-vi-få-notan]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-god-kväll-och-välkomna-har-ni-bokat]] 🇸🇪 God kväll och välkomna! Har ni bokat bord? 🇨🇳 晚上好，欢迎光临！订位了吗？",
+      "excerpt": "har ni bokat bord 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 订位了吗 · 🇬🇧 have you booked a table 📝 字面: 你们预订了桌子吗 用法说明 (Usage) 餐厅服务员在客人进门时的首句问话。 ni 是对客人的礼貌称呼（复数/尊称\"你们\"）。 与否定回答搭配： Nej, vi har inte bokat. — 没有，我们",
+      "forms": [],
+      "links": [
+        "boka",
+        "bord",
+        "grammar-perfekt",
+        "kan-vi-få-notan",
+        "sent-god-kväll-och-välkomna-har-ni-bokat"
+      ],
+      "searchText": "har ni bokat bord har-ni-bokat-bord knowledge_base/phrases/har-ni-bokat-bord.md ---\ntype: phrase\nphrase: \"har ni bokat bord\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 5\nzh: \"订位了吗\"\nen: \"have you booked a table\"\nliteral: \"have you booked a table\"\nhead_words:\n  - boka\n  - bord\ngrammar: []\nrelated:\n  - kan-vi-få-notan\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-god-kväll-och-välkomna-har-ni-bokat\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# har ni bokat bord\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 订位了吗 · 🇬🇧 have you booked a table\n📝 字面: 你们预订了桌子吗\n\n## 用法说明 (Usage)\n\n- 餐厅服务员在客人进门时的首句问话。\n- *ni* 是对客人的礼貌称呼（复数/尊称\"你们\"）。\n- 与否定回答搭配：*Nej, vi har inte bokat.* — 没有，我们没有预订。\n\n## 短语中的语法 (Grammar inside)\n\n- 动词 *boka* 的完成时（perfekt）: *har bokat* → [[grammar-perfekt]]\n- *ni* 作主语表示礼貌的复数\"你们\"\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Har ni en bokning?* — 你们有预订吗？（更正式）\n- 🔗 [[boka]] · [[bord]] · [[kan-vi-få-notan]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-god-kväll-och-välkomna-har-ni-bokat]] 🇸🇪 God kväll och välkomna! Har ni bokat bord? 🇨🇳 晚上好，欢迎光临！订位了吗？\n",
+      "zh": "订位了吗",
+      "en": "have you booked a table",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "har ni bokat bord",
+      "sentences": [
+        "sent-god-kväll-och-välkomna-har-ni-bokat"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "boka",
+        "bord",
+        "finns-det-något-ledigt-bord",
+        "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "har-ni",
       "type": "phrase",
       "title": "har ni",
@@ -2810,6 +3319,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-fika-varsågod-hoppas-det-smakar",
+        "smaklig-måltid",
         "topic-kafe-fika"
       ]
     },
@@ -3010,6 +3520,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "inga-problem",
+      "type": "phrase",
+      "title": "Inga problem.",
+      "path": "knowledge_base/phrases/inga-problem.md",
+      "body": "# Inga problem.\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 没问题。 · 🇬🇧 No problem.\n📝 字面: 没有问题。（复数形式）\n\n## 用法说明 (Usage)\n\n- 极高频的服务场景用语，表示接受请求、无困难\n- *inga* 是 *ingen/inget* 的复数形式（配 *problem* 这个 ett-ord 复数）\n- 可单独使用，也可接续说明：*Inga problem, vi ordnar det.*\n\n## 短语中的语法 (Grammar inside)\n\n- *inga* = 否定复数限定词（ingen/inget/inga）→ [[grammar-en-ord-ett-ord]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Inget problem.* — 同义，单数（ett-ord）形式\n- 🔄 *Det är lugnt.* — 口语，表示\"没事\"\n- 🔄 *Inga bekymmer.* — 更正式，\"没有顾虑\"\n- 🔗 [[det-ordnar-vi]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-inga-problem-vi-lagar-den-laktosfri]] 🇸🇪 Inga problem, vi lagar den laktosfri. 🇨🇳 没问题，我们做成无乳糖的。",
+      "excerpt": "Inga problem. 🗣️ 类型: fast uttryck · 语域: vardagligt · 常用度: 5/5 🇨🇳 没问题。 · 🇬🇧 No problem. 📝 字面: 没有问题。（复数形式） 用法说明 (Usage) 极高频的服务场景用语，表示接受请求、无困难 inga 是 ingen/inget 的复数形式（配 problem 这个 ett ord 复数） 可单独使用，也可接续说明： Inga probl",
+      "forms": [],
+      "links": [
+        "det-ordnar-vi",
+        "grammar-en-ord-ett-ord",
+        "sent-inga-problem-vi-lagar-den-laktosfri"
+      ],
+      "searchText": "Inga problem. inga-problem knowledge_base/phrases/inga-problem.md ---\ntype: phrase\nphrase: \"Inga problem.\"\ncategory: fast-uttryck\nregister: vardagligt\nfrequency: 5\nzh: \"没问题。\"\nen: \"No problem.\"\nliteral: \"No problems.\"\nhead_words: []\ngrammar: []\nrelated:\n  - det-ordnar-vi\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-inga-problem-vi-lagar-den-laktosfri\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# Inga problem.\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 5/5\n🇨🇳 没问题。 · 🇬🇧 No problem.\n📝 字面: 没有问题。（复数形式）\n\n## 用法说明 (Usage)\n\n- 极高频的服务场景用语，表示接受请求、无困难\n- *inga* 是 *ingen/inget* 的复数形式（配 *problem* 这个 ett-ord 复数）\n- 可单独使用，也可接续说明：*Inga problem, vi ordnar det.*\n\n## 短语中的语法 (Grammar inside)\n\n- *inga* = 否定复数限定词（ingen/inget/inga）→ [[grammar-en-ord-ett-ord]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Inget problem.* — 同义，单数（ett-ord）形式\n- 🔄 *Det är lugnt.* — 口语，表示\"没事\"\n- 🔄 *Inga bekymmer.* — 更正式，\"没有顾虑\"\n- 🔗 [[det-ordnar-vi]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-inga-problem-vi-lagar-den-laktosfri]] 🇸🇪 Inga problem, vi lagar den laktosfri. 🇨🇳 没问题，我们做成无乳糖的。\n",
+      "zh": "没问题。",
+      "en": "No problem.",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "Inga problem.",
+      "sentences": [
+        "sent-inga-problem-vi-lagar-den-laktosfri"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "det-ordnar-vi",
+        "jag-är-allergisk-mot",
+        "sent-inga-problem-vi-lagar-den-laktosfri",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "ingenting-att",
       "type": "phrase",
       "title": "ingenting att",
@@ -3091,6 +3635,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "jag-är-allergisk-mot",
+      "type": "phrase",
+      "title": "Jag är allergisk mot …",
+      "path": "knowledge_base/phrases/jag-är-allergisk-mot.md",
+      "body": "# Jag är allergisk mot …\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 我对…过敏 · 🇬🇧 I'm allergic to …\n📝 字面: 我对…过敏\n\n## 用法说明 (Usage)\n\n- 向餐厅或医疗人员报告过敏的关键句型\n- 介词固定用 **mot**（不是 for / av / till）\n- 常见补语：*nötter*（坚果）、*skaldjur*（贝类）、*gluten*（麸质）、*laktos*（乳糖）、*ägg*（鸡蛋）\n\n## 短语中的语法 (Grammar inside)\n\n- 形容词 *allergisk* + 介词 *mot* 的固定搭配 → [[allergisk]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Jag tål inte laktos* — 更口语，表示不耐受（不一定是过敏）\n- 🔄 *Jag är överkänslig mot …* — 对…敏感（更广泛）\n- 🔗 [[inga-problem]]\n- 🔗 [[allergisk]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-jag-är-allergisk-mot-nötter-vad-kan-ni]] 🇸🇪 Jag är allergisk mot nötter — vad kan ni rekommendera? 🇨🇳 我对坚果过敏——你们有什么推荐？",
+      "excerpt": "Jag är allergisk mot … 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5 🇨🇳 我对…过敏 · 🇬🇧 I'm allergic to … 📝 字面: 我对…过敏 用法说明 (Usage) 向餐厅或医疗人员报告过敏的关键句型 介词固定用 mot （不是 for / av / till） 常见补语： nötter （坚果）、 skaldjur （贝类）、 glu",
+      "forms": [],
+      "links": [
+        "allergisk",
+        "inga-problem",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni"
+      ],
+      "searchText": "Jag är allergisk mot … jag-är-allergisk-mot knowledge_base/phrases/jag-är-allergisk-mot.md ---\ntype: phrase\nphrase: \"Jag är allergisk mot …\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 4\nzh: \"我对…过敏\"\nen: \"I'm allergic to …\"\nliteral: \"I am allergic to …\"\nhead_words:\n  - allergisk\ngrammar: []\nrelated:\n  - inga-problem\ntopics:\n  - topic-mat-dryck\n  - topic-hälsa\nsentences:\n  - sent-jag-är-allergisk-mot-nötter-vad-kan-ni\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# Jag är allergisk mot …\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 我对…过敏 · 🇬🇧 I'm allergic to …\n📝 字面: 我对…过敏\n\n## 用法说明 (Usage)\n\n- 向餐厅或医疗人员报告过敏的关键句型\n- 介词固定用 **mot**（不是 for / av / till）\n- 常见补语：*nötter*（坚果）、*skaldjur*（贝类）、*gluten*（麸质）、*laktos*（乳糖）、*ägg*（鸡蛋）\n\n## 短语中的语法 (Grammar inside)\n\n- 形容词 *allergisk* + 介词 *mot* 的固定搭配 → [[allergisk]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Jag tål inte laktos* — 更口语，表示不耐受（不一定是过敏）\n- 🔄 *Jag är överkänslig mot …* — 对…敏感（更广泛）\n- 🔗 [[inga-problem]]\n- 🔗 [[allergisk]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-jag-är-allergisk-mot-nötter-vad-kan-ni]] 🇸🇪 Jag är allergisk mot nötter — vad kan ni rekommendera? 🇨🇳 我对坚果过敏——你们有什么推荐？\n",
+      "zh": "我对…过敏",
+      "en": "I'm allergic to …",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "Jag är allergisk mot …",
+      "sentences": [
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck",
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "jag-skulle-vilja-ha",
       "type": "phrase",
       "title": "jag skulle vilja ha",
@@ -3120,7 +3697,8 @@ window.KB_DATA = {
         "kan-jag-få",
         "sent-fika-jag-skulle-vilja-ha-kanelbulle",
         "topic-kafe-fika",
-        "vad-får-det-vara"
+        "vad-får-det-vara",
+        "vad-kan-ni-rekommendera"
       ]
     },
     {
@@ -3246,8 +3824,86 @@ window.KB_DATA = {
       "backlinks": [
         "har-ni",
         "jag-skulle-vilja-ha",
+        "kan-vi-få-notan",
+        "sent-kan-vi-få-menyn-tack",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
         "topic-kafe-fika",
         "vad-får-det-vara"
+      ]
+    },
+    {
+      "slug": "kan-vi-dela-på-notan",
+      "type": "phrase",
+      "title": "Kan vi dela på notan?",
+      "path": "knowledge_base/phrases/kan-vi-dela-på-notan.md",
+      "body": "# Kan vi dela på notan?\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 我们能分开付账吗？ · 🇬🇧 Can we split the bill?\n📝 字面: 我们能分割账单吗？\n\n## 用法说明 (Usage)\n\n- 餐厅结账时请求 AA 制付账的标准问法\n- *dela på* = 分摊（partikelverb：dela + prep. *på*）\n- *nota* 特指餐厅账单（非通用\"收据\" kvitto）\n\n## 短语中的语法 (Grammar inside)\n\n- 情态动词 *kan* + 不定式 *dela* → [[grammar-modala-hjalpverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kan vi betala var för sig?* — 同义，各自付钱\n- 🔄 *Kan vi få varsitt kvitto?* — 能给我们各自的收据吗？\n- 🔗 [[kan-vi-få-notan]]\n- 🔗 [[var-sin-del]]\n- 🔗 [[betala-med-kort-eller-swish]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-skulle-vi-vilja-betala-dela-på-notan]] 🇸🇪 Sen skulle vi vilja betala — kan vi dela på notan? 🇨🇳 然后我们想买单——可以分开付吗？",
+      "excerpt": "Kan vi dela på notan? 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5 🇨🇳 我们能分开付账吗？ · 🇬🇧 Can we split the bill? 📝 字面: 我们能分割账单吗？ 用法说明 (Usage) 餐厅结账时请求 AA 制付账的标准问法 dela på = 分摊（partikelverb：dela + prep. på ） nota 特指餐厅账",
+      "forms": [],
+      "links": [
+        "betala-med-kort-eller-swish",
+        "grammar-modala-hjalpverb",
+        "kan-vi-få-notan",
+        "sent-skulle-vi-vilja-betala-dela-på-notan",
+        "var-sin-del"
+      ],
+      "searchText": "Kan vi dela på notan? kan-vi-dela-på-notan knowledge_base/phrases/kan-vi-dela-på-notan.md ---\ntype: phrase\nphrase: \"Kan vi dela på notan?\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 4\nzh: \"我们能分开付账吗？\"\nen: \"Can we split the bill?\"\nliteral: \"Can we split the bill?\"\nhead_words:\n  - nota\ngrammar:\n  - grammar-modala-hjalpverb\nrelated:\n  - kan-vi-få-notan\n  - var-sin-del\n  - betala-med-kort-eller-swish\ntopics:\n  - topic-betalning\nsentences:\n  - sent-skulle-vi-vilja-betala-dela-på-notan\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# Kan vi dela på notan?\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 我们能分开付账吗？ · 🇬🇧 Can we split the bill?\n📝 字面: 我们能分割账单吗？\n\n## 用法说明 (Usage)\n\n- 餐厅结账时请求 AA 制付账的标准问法\n- *dela på* = 分摊（partikelverb：dela + prep. *på*）\n- *nota* 特指餐厅账单（非通用\"收据\" kvitto）\n\n## 短语中的语法 (Grammar inside)\n\n- 情态动词 *kan* + 不定式 *dela* → [[grammar-modala-hjalpverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Kan vi betala var för sig?* — 同义，各自付钱\n- 🔄 *Kan vi få varsitt kvitto?* — 能给我们各自的收据吗？\n- 🔗 [[kan-vi-få-notan]]\n- 🔗 [[var-sin-del]]\n- 🔗 [[betala-med-kort-eller-swish]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-skulle-vi-vilja-betala-dela-på-notan]] 🇸🇪 Sen skulle vi vilja betala — kan vi dela på notan? 🇨🇳 然后我们想买单——可以分开付吗？\n",
+      "zh": "我们能分开付账吗？",
+      "en": "Can we split the bill?",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "Kan vi dela på notan?",
+      "sentences": [
+        "sent-skulle-vi-vilja-betala-dela-på-notan"
+      ],
+      "grammar": [
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "betala-med-kort-eller-swish",
+        "sent-skulle-vi-vilja-betala-dela-på-notan",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-betalning",
+        "var-sin-del"
+      ]
+    },
+    {
+      "slug": "kan-vi-få-notan",
+      "type": "phrase",
+      "title": "kan vi få notan",
+      "path": "knowledge_base/phrases/kan-vi-få-notan.md",
+      "body": "# kan vi få notan\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 可以买单吗 · 🇬🇧 can we have the bill; could we get the check\n📝 字面: 我们可以拿账单吗\n\n## 用法说明 (Usage)\n\n- 餐厅用餐结束后请求买单的标准表达。\n- 注意 *notan* 是 *nota* 的定式单数形式（[[grammar-bestämd-form]]）。\n- 变体 *kan vi få notan, tack?* 更礼貌，加 *tack* 即可。\n\n## 短语中的语法 (Grammar inside)\n\n- *notan* = *nota* 的定式形式 → [[grammar-bestämd-form]]\n- *kan vi få* = 礼貌请求结构（条件式/情态动词）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vi skulle vilja ha notan, tack.* — 我们想要账单（更礼貌）\n- 🔄 *Får vi betala?* — 我们可以付款吗？\n- 🔗 [[nota]] · [[kan-jag-få]] · [[tar-ni-kort]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-nej-tack-det-räcker-bra-men-notan]] 🇸🇪 Men kan vi få notan när vi är klara? 🇨🇳 不过我们吃完后能拿到账单吗？",
+      "excerpt": "kan vi få notan 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 可以买单吗 · 🇬🇧 can we have the bill; could we get the check 📝 字面: 我们可以拿账单吗 用法说明 (Usage) 餐厅用餐结束后请求买单的标准表达。 注意 notan 是 nota 的定式单数形式（grammar bestämd form）",
+      "forms": [],
+      "links": [
+        "grammar-bestämd-form",
+        "kan-jag-få",
+        "nota",
+        "sent-nej-tack-det-räcker-bra-men-notan",
+        "tar-ni-kort"
+      ],
+      "searchText": "kan vi få notan kan-vi-få-notan knowledge_base/phrases/kan-vi-få-notan.md ---\ntype: phrase\nphrase: \"kan vi få notan\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 5\nzh: \"可以买单吗\"\nen: \"can we have the bill; could we get the check\"\nliteral: \"can we get the bill\"\nhead_words:\n  - nota\ngrammar: []\nrelated:\n  - kan-jag-få\n  - det-blir-x-kronor\n  - tar-ni-kort\ntopics:\n  - topic-betalning\nsentences:\n  - sent-nej-tack-det-räcker-bra-men-notan\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kan vi få notan\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 可以买单吗 · 🇬🇧 can we have the bill; could we get the check\n📝 字面: 我们可以拿账单吗\n\n## 用法说明 (Usage)\n\n- 餐厅用餐结束后请求买单的标准表达。\n- 注意 *notan* 是 *nota* 的定式单数形式（[[grammar-bestämd-form]]）。\n- 变体 *kan vi få notan, tack?* 更礼貌，加 *tack* 即可。\n\n## 短语中的语法 (Grammar inside)\n\n- *notan* = *nota* 的定式形式 → [[grammar-bestämd-form]]\n- *kan vi få* = 礼貌请求结构（条件式/情态动词）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vi skulle vilja ha notan, tack.* — 我们想要账单（更礼貌）\n- 🔄 *Får vi betala?* — 我们可以付款吗？\n- 🔗 [[nota]] · [[kan-jag-få]] · [[tar-ni-kort]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-nej-tack-det-räcker-bra-men-notan]] 🇸🇪 Men kan vi få notan när vi är klara? 🇨🇳 不过我们吃完后能拿到账单吗？\n",
+      "zh": "可以买单吗",
+      "en": "can we have the bill; could we get the check",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "kan vi få notan",
+      "sentences": [
+        "sent-nej-tack-det-räcker-bra-men-notan"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "har-ni-bokat-bord",
+        "kan-vi-dela-på-notan",
+        "nota",
+        "sent-nej-tack-det-räcker-bra-men-notan",
+        "source-2026-06-15-restaurang-middag",
+        "topic-betalning"
       ]
     },
     {
@@ -3474,6 +4130,45 @@ window.KB_DATA = {
         "source-2026-06-09-en-handelse-i-tidsordning",
         "stiga-upp",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "lägga-till-dricks",
+      "type": "phrase",
+      "title": "lägga till dricks",
+      "path": "knowledge_base/phrases/lägga-till-dricks.md",
+      "body": "# lägga till dricks\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 加小费 · 🇬🇧 to add a tip\n📝 字面: 加上小费\n\n## 用法说明 (Usage)\n\n- *lägga till* 是\"添加/加上\"的 partikelverb\n- 在刷卡支付时终端会询问是否想要加小费\n- 替代方式：*avrunda uppåt*（往上凑整）\n\n## 短语中的语法 (Grammar inside)\n\n- *lägga till* = partikelverb（lägger till / lade till / lagt till）→ [[grammar-partikelverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *avrunda uppåt* — 往上凑整代替明确给小费\n- 🔄 *ge dricks* — 给小费（更口语）\n- 🔗 [[var-sin-del]]\n- 🔗 [[dricks]]\n- 🔗 [[avrunda]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-var-sin-del-med-kort-ska-man-lägga-till-dricks]] 🇸🇪 Ska man lägga till dricks? 🇨🇳 需要加小费吗？",
+      "excerpt": "lägga till dricks 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 3/5 🇨🇳 加小费 · 🇬🇧 to add a tip 📝 字面: 加上小费 用法说明 (Usage) lägga till 是\"添加/加上\"的 partikelverb 在刷卡支付时终端会询问是否想要加小费 替代方式： avrunda uppåt （往上凑整） 短语中的语法 (Grammar ins",
+      "forms": [],
+      "links": [
+        "avrunda",
+        "dricks",
+        "grammar-partikelverb",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "var-sin-del"
+      ],
+      "searchText": "lägga till dricks lägga-till-dricks knowledge_base/phrases/lägga-till-dricks.md ---\ntype: phrase\nphrase: \"lägga till dricks\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 3\nzh: \"加小费\"\nen: \"to add a tip\"\nliteral: \"to add tip\"\nhead_words:\n  - dricks\ngrammar:\n  - grammar-partikelverb\nrelated:\n  - var-sin-del\n  - betala-med-kort-eller-swish\ntopics:\n  - topic-betalning\nsentences:\n  - sent-var-sin-del-med-kort-ska-man-lägga-till-dricks\n  - sent-dricks-är-helt-frivilligt-i-sverige\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lägga till dricks\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 加小费 · 🇬🇧 to add a tip\n📝 字面: 加上小费\n\n## 用法说明 (Usage)\n\n- *lägga till* 是\"添加/加上\"的 partikelverb\n- 在刷卡支付时终端会询问是否想要加小费\n- 替代方式：*avrunda uppåt*（往上凑整）\n\n## 短语中的语法 (Grammar inside)\n\n- *lägga till* = partikelverb（lägger till / lade till / lagt till）→ [[grammar-partikelverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *avrunda uppåt* — 往上凑整代替明确给小费\n- 🔄 *ge dricks* — 给小费（更口语）\n- 🔗 [[var-sin-del]]\n- 🔗 [[dricks]]\n- 🔗 [[avrunda]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-var-sin-del-med-kort-ska-man-lägga-till-dricks]] 🇸🇪 Ska man lägga till dricks? 🇨🇳 需要加小费吗？\n",
+      "zh": "加小费",
+      "en": "to add a tip",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "lägga till dricks",
+      "sentences": [
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "sent-dricks-är-helt-frivilligt-i-sverige"
+      ],
+      "grammar": [
+        "grammar-partikelverb"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "dricks",
+        "sent-dricks-är-helt-frivilligt-i-sverige",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-betalning"
       ]
     },
     {
@@ -4392,6 +5087,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "smaklig-måltid",
+      "type": "phrase",
+      "title": "smaklig måltid",
+      "path": "knowledge_base/phrases/smaklig-måltid.md",
+      "body": "# smaklig måltid\n\n🗣️ 类型: artighetsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 祝用餐愉快 · 🇬🇧 enjoy your meal; bon appétit\n📝 字面: 美味的餐食\n\n## 用法说明 (Usage)\n\n- 服务员上菜时或开始用餐时说的祝福语，相当于法语\"bon appétit\"。\n- 可简称 *Smaklig!*\n- 回应可以说 *Tack, detsamma!*（谢谢，你也是！）\n\n## 短语中的语法 (Grammar inside)\n\n- *smaklig* 是形容词 *smaklig* 的不定式形式（en-词: utrum）\n- *måltid* (en) — 餐食 → [[måltid]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Hoppas det smakar!* — 希望您喜欢（类似表达）→ [[hoppas-det-smakar]]\n- 🔄 *God aptit!* — 胃口好（较少用，来自法语）\n- 🔗 [[måltid]] · [[hoppas-det-smakar]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-absolut-smaklig-måltid]] 🇸🇪 Absolut. Smaklig måltid! 🇨🇳 当然。祝用餐愉快！",
+      "excerpt": "smaklig måltid 🗣️ 类型: artighetsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 祝用餐愉快 · 🇬🇧 enjoy your meal; bon appétit 📝 字面: 美味的餐食 用法说明 (Usage) 服务员上菜时或开始用餐时说的祝福语，相当于法语\"bon appétit\"。 可简称 Smaklig! 回应可以说 Tack, detsamma! （谢谢，你也是！） 短",
+      "forms": [],
+      "links": [
+        "hoppas-det-smakar",
+        "måltid",
+        "sent-absolut-smaklig-måltid"
+      ],
+      "searchText": "smaklig måltid smaklig-måltid knowledge_base/phrases/smaklig-måltid.md ---\ntype: phrase\nphrase: \"smaklig måltid\"\ncategory: artighetsfras\nregister: neutralt\nfrequency: 5\nzh: \"祝用餐愉快\"\nen: \"enjoy your meal; bon appétit\"\nliteral: \"tasty meal\"\nhead_words:\n  - måltid\ngrammar: []\nrelated:\n  - hoppas-det-smakar\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-absolut-smaklig-måltid\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# smaklig måltid\n\n🗣️ 类型: artighetsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 祝用餐愉快 · 🇬🇧 enjoy your meal; bon appétit\n📝 字面: 美味的餐食\n\n## 用法说明 (Usage)\n\n- 服务员上菜时或开始用餐时说的祝福语，相当于法语\"bon appétit\"。\n- 可简称 *Smaklig!*\n- 回应可以说 *Tack, detsamma!*（谢谢，你也是！）\n\n## 短语中的语法 (Grammar inside)\n\n- *smaklig* 是形容词 *smaklig* 的不定式形式（en-词: utrum）\n- *måltid* (en) — 餐食 → [[måltid]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Hoppas det smakar!* — 希望您喜欢（类似表达）→ [[hoppas-det-smakar]]\n- 🔄 *God aptit!* — 胃口好（较少用，来自法语）\n- 🔗 [[måltid]] · [[hoppas-det-smakar]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-absolut-smaklig-måltid]] 🇸🇪 Absolut. Smaklig måltid! 🇨🇳 当然。祝用餐愉快！\n",
+      "zh": "祝用餐愉快",
+      "en": "enjoy your meal; bon appétit",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "smaklig måltid",
+      "sentences": [
+        "sent-absolut-smaklig-måltid"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "måltid",
+        "sent-absolut-smaklig-måltid",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "snall-mot-ngn",
       "type": "phrase",
       "title": "snäll mot ngn",
@@ -4698,6 +5426,9 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "sent-fika-tack-så-mycket-vill-ni-ha-kvitto",
+        "sent-tack-så-mycket-restaurang",
+        "sent-tack-så-mycket-vad-rekommenderar-ni",
+        "välkommen-åter",
         "varsågod"
       ]
     },
@@ -4819,7 +5550,9 @@ window.KB_DATA = {
         "topic-betalning"
       ],
       "backlinks": [
+        "betala-med-kort-eller-swish",
         "det-blir-x-kronor",
+        "kan-vi-få-notan",
         "sent-fika-tar-ni-kort",
         "topic-betalning"
       ]
@@ -5124,6 +5857,7 @@ window.KB_DATA = {
         "jag-skulle-vilja-ha",
         "kan-jag-få",
         "sent-fika-hej-valkomna-vad-far-det-vara",
+        "source-2026-06-15-restaurang-middag",
         "topic-kafe-fika"
       ]
     },
@@ -5153,6 +5887,180 @@ window.KB_DATA = {
       "backlinks": [
         "hur-är-det-med-jobbet",
         "sent-fika-förresten-vad-gjorde-du-i-helgen"
+      ]
+    },
+    {
+      "slug": "vad-har-ni-för",
+      "type": "phrase",
+      "title": "vad har ni för",
+      "path": "knowledge_base/phrases/vad-har-ni-för.md",
+      "body": "# vad har ni för\n\n🗣️ 类型: frågefras · 语域: neutralt · 常用度: 4/5\n🇨🇳 你们有什么样的…？ · 🇬🇧 what kind of … do you have\n📝 字面: what do you have for/as …\n\n## 用法说明 (Usage)\n\n- 询问某类产品/选项的常用问句框架：*vad har ni för + 名词?*\n- 例: *Vad har ni för efterrätt?* — 你们有什么甜点？\n- 例: *Vad har ni för kaffe?* — 你们有什么咖啡？（见 [[sent-fika-vad-har-ni-för-kaffe]]）\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] — 现在时：*har*\n- V2 语序：*vad* 为话题，*har* 为动词第二位\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *vad har ni för kaffe?* — 你们有什么咖啡？\n- 🔄 *vad har ni för dryck?* — 你们有什么饮料？\n- 🔗 [[vad-rekommenderar-ni]] — 你们推荐什么\n\n## 例句 / 对话 (Examples)\n\n- [[sent-ja-gärna-vad-har-ni-för]] 🇸🇪 Ja gärna. Vad har ni för efterrätt? 🇨🇳 好啊。你们有什么甜点？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "vad har ni för 🗣️ 类型: frågefras · 语域: neutralt · 常用度: 4/5 🇨🇳 你们有什么样的…？ · 🇬🇧 what kind of … do you have 📝 字面: what do you have for/as … 用法说明 (Usage) 询问某类产品/选项的常用问句框架： vad har ni för + 名词? 例: Vad har ni för efterrätt",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "sent-fika-vad-har-ni-för-kaffe",
+        "sent-ja-gärna-vad-har-ni-för",
+        "source-2026-06-15-restaurang-rekommendation",
+        "vad-rekommenderar-ni"
+      ],
+      "searchText": "vad har ni för vad-har-ni-för knowledge_base/phrases/vad-har-ni-för.md ---\ntype: phrase\nphrase: \"vad har ni för\"\ncategory: frågefras\nregister: neutralt\nfrequency: 4\nzh: \"你们有什么样的…？\"\nen: \"what kind of … do you have\"\nliteral: \"what do you have for/as …\"\nhead_words: [ha]\ngrammar: [grammar-presens]\nrelated: [vad-rekommenderar-ni, vad-kan-ni-rekommendera]\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-ja-gärna-vad-har-ni-för\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vad har ni för\n\n🗣️ 类型: frågefras · 语域: neutralt · 常用度: 4/5\n🇨🇳 你们有什么样的…？ · 🇬🇧 what kind of … do you have\n📝 字面: what do you have for/as …\n\n## 用法说明 (Usage)\n\n- 询问某类产品/选项的常用问句框架：*vad har ni för + 名词?*\n- 例: *Vad har ni för efterrätt?* — 你们有什么甜点？\n- 例: *Vad har ni för kaffe?* — 你们有什么咖啡？（见 [[sent-fika-vad-har-ni-för-kaffe]]）\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] — 现在时：*har*\n- V2 语序：*vad* 为话题，*har* 为动词第二位\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *vad har ni för kaffe?* — 你们有什么咖啡？\n- 🔄 *vad har ni för dryck?* — 你们有什么饮料？\n- 🔗 [[vad-rekommenderar-ni]] — 你们推荐什么\n\n## 例句 / 对话 (Examples)\n\n- [[sent-ja-gärna-vad-har-ni-för]] 🇸🇪 Ja gärna. Vad har ni för efterrätt? 🇨🇳 好啊。你们有什么甜点？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "zh": "你们有什么样的…？",
+      "en": "what kind of … do you have",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "vad har ni för",
+      "sentences": [
+        "sent-ja-gärna-vad-har-ni-för"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-ja-gärna-vad-har-ni-för",
+        "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "vad-kan-ni-rekommendera",
+      "type": "phrase",
+      "title": "Vad kan ni rekommendera?",
+      "path": "knowledge_base/phrases/vad-kan-ni-rekommendera.md",
+      "body": "# Vad kan ni rekommendera?\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 你们有什么推荐？ · 🇬🇧 What can you recommend?\n📝 字面: 你们能推荐什么？\n\n## 用法说明 (Usage)\n\n- 餐厅点餐时问服务员的经典问句\n- 也可说 *Vad rekommenderar ni?*（同义，稍正式）\n- 适用于菜肴、饮品、特色菜等场景\n- 可加限定语：*Vad kan ni rekommendera till förrätt?*（前菜有什么推荐？）\n\n## 短语中的语法 (Grammar inside)\n\n- *kan* 是情态助动词 → [[grammar-modala-hjalpverb]]\n- *ni* = 你们（服务场景中礼貌地对单个服务员也用 *ni*）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vad rekommenderar ni?* — 同义，直接动词形式\n- 🔄 *Har ni något ni kan rekommendera?* — 更迂回的问法\n- 🔗 [[jag-skulle-vilja-ha]]\n- 🔗 [[rekommendera]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-jag-är-allergisk-mot-nötter-vad-kan-ni]] 🇸🇪 Jag är allergisk mot nötter — vad kan ni rekommendera? 🇨🇳 我对坚果过敏——你们有什么推荐？",
+      "excerpt": "Vad kan ni rekommendera? 🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5 🇨🇳 你们有什么推荐？ · 🇬🇧 What can you recommend? 📝 字面: 你们能推荐什么？ 用法说明 (Usage) 餐厅点餐时问服务员的经典问句 也可说 Vad rekommenderar ni? （同义，稍正式） 适用于菜肴、饮品、特色菜等场景 可加限定语：",
+      "forms": [],
+      "links": [
+        "grammar-modala-hjalpverb",
+        "jag-skulle-vilja-ha",
+        "rekommendera",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni"
+      ],
+      "searchText": "Vad kan ni rekommendera? vad-kan-ni-rekommendera knowledge_base/phrases/vad-kan-ni-rekommendera.md ---\ntype: phrase\nphrase: \"Vad kan ni rekommendera?\"\ncategory: situationsfras\nregister: neutralt\nfrequency: 4\nzh: \"你们有什么推荐？\"\nen: \"What can you recommend?\"\nliteral: \"What can you recommend?\"\nhead_words:\n  - rekommendera\ngrammar: []\nrelated:\n  - jag-skulle-vilja-ha\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-jag-är-allergisk-mot-nötter-vad-kan-ni\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# Vad kan ni rekommendera?\n\n🗣️ 类型: situationsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 你们有什么推荐？ · 🇬🇧 What can you recommend?\n📝 字面: 你们能推荐什么？\n\n## 用法说明 (Usage)\n\n- 餐厅点餐时问服务员的经典问句\n- 也可说 *Vad rekommenderar ni?*（同义，稍正式）\n- 适用于菜肴、饮品、特色菜等场景\n- 可加限定语：*Vad kan ni rekommendera till förrätt?*（前菜有什么推荐？）\n\n## 短语中的语法 (Grammar inside)\n\n- *kan* 是情态助动词 → [[grammar-modala-hjalpverb]]\n- *ni* = 你们（服务场景中礼貌地对单个服务员也用 *ni*）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *Vad rekommenderar ni?* — 同义，直接动词形式\n- 🔄 *Har ni något ni kan rekommendera?* — 更迂回的问法\n- 🔗 [[jag-skulle-vilja-ha]]\n- 🔗 [[rekommendera]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-jag-är-allergisk-mot-nötter-vad-kan-ni]] 🇸🇪 Jag är allergisk mot nötter — vad kan ni rekommendera? 🇨🇳 我对坚果过敏——你们有什么推荐？\n",
+      "zh": "你们有什么推荐？",
+      "en": "What can you recommend?",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "Vad kan ni rekommendera?",
+      "sentences": [
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "dagens-rätt",
+        "rekommendera",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck",
+        "vad-rekommenderar-ni"
+      ]
+    },
+    {
+      "slug": "vad-rekommenderar-ni",
+      "type": "phrase",
+      "title": "vad rekommenderar ni",
+      "path": "knowledge_base/phrases/vad-rekommenderar-ni.md",
+      "body": "# vad rekommenderar ni\n\n🗣️ 类型: restaurangfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 你们推荐什么 · 🇬🇧 what do you recommend\n📝 字面: what do you recommend\n\n## 用法说明 (Usage)\n\n- 询问服务员推荐什么菜的常用句。\n- 注意：*ni* 是复数\"你们\"，向餐厅（代表整个餐厅）询问。\n- 也可说 *vad kan ni rekommendera?*（情态动词版本，见 [[vad-kan-ni-rekommendera]]）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] — 现在时：*rekommenderar*（V2 语序，动词第二位）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 [[vad-kan-ni-rekommendera]] — 你们有什么推荐（加情态动词 *kan*）\n- 🔗 [[dagens-rätt]] — 今日例餐（常见推荐回答）\n\n## 例句 / 对话 (Examples)\n\n- [[sent-tack-så-mycket-vad-rekommenderar-ni]] 🇸🇪 Tack så mycket! Vad rekommenderar ni ikväll? 🇨🇳 非常感谢！今晚您推荐什么？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "vad rekommenderar ni 🗣️ 类型: restaurangfras · 语域: neutralt · 常用度: 4/5 🇨🇳 你们推荐什么 · 🇬🇧 what do you recommend 📝 字面: what do you recommend 用法说明 (Usage) 询问服务员推荐什么菜的常用句。 注意： ni 是复数\"你们\"，向餐厅（代表整个餐厅）询问。 也可说 vad kan ni rekomm",
+      "forms": [],
+      "links": [
+        "dagens-rätt",
+        "grammar-presens",
+        "sent-tack-så-mycket-vad-rekommenderar-ni",
+        "source-2026-06-15-restaurang-rekommendation",
+        "vad-kan-ni-rekommendera"
+      ],
+      "searchText": "vad rekommenderar ni vad-rekommenderar-ni knowledge_base/phrases/vad-rekommenderar-ni.md ---\ntype: phrase\nphrase: \"vad rekommenderar ni\"\ncategory: restaurangfras\nregister: neutralt\nfrequency: 4\nzh: \"你们推荐什么\"\nen: \"what do you recommend\"\nliteral: \"what do you recommend\"\nhead_words: [rekommendera]\ngrammar: [grammar-presens]\nrelated: [vad-kan-ni-rekommendera, dagens-rätt]\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-tack-så-mycket-vad-rekommenderar-ni\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vad rekommenderar ni\n\n🗣️ 类型: restaurangfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 你们推荐什么 · 🇬🇧 what do you recommend\n📝 字面: what do you recommend\n\n## 用法说明 (Usage)\n\n- 询问服务员推荐什么菜的常用句。\n- 注意：*ni* 是复数\"你们\"，向餐厅（代表整个餐厅）询问。\n- 也可说 *vad kan ni rekommendera?*（情态动词版本，见 [[vad-kan-ni-rekommendera]]）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-presens]] — 现在时：*rekommenderar*（V2 语序，动词第二位）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 [[vad-kan-ni-rekommendera]] — 你们有什么推荐（加情态动词 *kan*）\n- 🔗 [[dagens-rätt]] — 今日例餐（常见推荐回答）\n\n## 例句 / 对话 (Examples)\n\n- [[sent-tack-så-mycket-vad-rekommenderar-ni]] 🇸🇪 Tack så mycket! Vad rekommenderar ni ikväll? 🇨🇳 非常感谢！今晚您推荐什么？\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "zh": "你们推荐什么",
+      "en": "what do you recommend",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "vad rekommenderar ni",
+      "sentences": [
+        "sent-tack-så-mycket-vad-rekommenderar-ni"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "dagens-rätt",
+        "sent-tack-så-mycket-vad-rekommenderar-ni",
+        "topic-mat-dryck",
+        "vad-har-ni-för"
+      ]
+    },
+    {
+      "slug": "välkommen-åter",
+      "type": "phrase",
+      "title": "välkommen åter",
+      "path": "knowledge_base/phrases/välkommen-åter.md",
+      "body": "# välkommen åter\n\n🗣️ 类型: artighetsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 欢迎再来 · 🇬🇧 welcome back; come again\n📝 字面: welcome back/again\n\n## 用法说明 (Usage)\n\n- 顾客离开时服务员/店员常说的礼貌告别语。\n- *åter* = 再次/回来（古典瑞典语词，现代口语中不常单独使用，但在这个固定短语中保留）。\n- 相当于中文\"欢迎下次再来！\"。\n\n## 短语中的语法 (Grammar inside)\n\n- *välkommen* 是形容词（欢迎的），在此作感叹词用。\n- *åter* 是副词，意为\"再次\"。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *tack och välkommen åter!* — 谢谢，欢迎再来！（完整版）\n- 🔄 *välkommen tillbaka!* — 欢迎回来（更现代的说法）\n- 🔗 [[tack-så-mycket]] — 非常感谢\n\n## 例句 / 对话 (Examples)\n\n- [[sent-självklart-du-kan-betala-här-vid]] 🇸🇪 Självklart, du kan betala här vid bordet. Tack och välkommen åter! 🇨🇳 当然，您可以在桌边付款。谢谢，欢迎下次再来！\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "välkommen åter 🗣️ 类型: artighetsfras · 语域: neutralt · 常用度: 4/5 🇨🇳 欢迎再来 · 🇬🇧 welcome back; come again 📝 字面: welcome back/again 用法说明 (Usage) 顾客离开时服务员/店员常说的礼貌告别语。 åter = 再次/回来（古典瑞典语词，现代口语中不常单独使用，但在这个固定短语中保留）。 相当于中文\"欢迎下",
+      "forms": [],
+      "links": [
+        "sent-självklart-du-kan-betala-här-vid",
+        "source-2026-06-15-restaurang-rekommendation",
+        "tack-så-mycket"
+      ],
+      "searchText": "välkommen åter välkommen-åter knowledge_base/phrases/välkommen-åter.md ---\ntype: phrase\nphrase: \"välkommen åter\"\ncategory: artighetsfras\nregister: neutralt\nfrequency: 4\nzh: \"欢迎再来\"\nen: \"welcome back; come again\"\nliteral: \"welcome back/again\"\nhead_words: [välkommen]\ngrammar: []\nrelated: [tack-så-mycket]\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-självklart-du-kan-betala-här-vid\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# välkommen åter\n\n🗣️ 类型: artighetsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 欢迎再来 · 🇬🇧 welcome back; come again\n📝 字面: welcome back/again\n\n## 用法说明 (Usage)\n\n- 顾客离开时服务员/店员常说的礼貌告别语。\n- *åter* = 再次/回来（古典瑞典语词，现代口语中不常单独使用，但在这个固定短语中保留）。\n- 相当于中文\"欢迎下次再来！\"。\n\n## 短语中的语法 (Grammar inside)\n\n- *välkommen* 是形容词（欢迎的），在此作感叹词用。\n- *åter* 是副词，意为\"再次\"。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *tack och välkommen åter!* — 谢谢，欢迎再来！（完整版）\n- 🔄 *välkommen tillbaka!* — 欢迎回来（更现代的说法）\n- 🔗 [[tack-så-mycket]] — 非常感谢\n\n## 例句 / 对话 (Examples)\n\n- [[sent-självklart-du-kan-betala-här-vid]] 🇸🇪 Självklart, du kan betala här vid bordet. Tack och välkommen åter! 🇨🇳 当然，您可以在桌边付款。谢谢，欢迎下次再来！\n\n## 来源\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "zh": "欢迎再来",
+      "en": "welcome back; come again",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "välkommen åter",
+      "sentences": [
+        "sent-självklart-du-kan-betala-här-vid"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-självklart-du-kan-betala-här-vid",
+        "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "var-sin-del",
+      "type": "phrase",
+      "title": "var sin del",
+      "path": "knowledge_base/phrases/var-sin-del.md",
+      "body": "# var sin del\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 3/5\n🇨🇳 各付各的；每人一份 · 🇬🇧 each one's own share (go Dutch / AA)\n📝 字面: 每个人自己的那份\n\n## 用法说明 (Usage)\n\n- *var sin del* 是表示 AA 制（各自付钱）的惯用语\n- *var* 在这里是分配代词（每个人，各自），不是\"var/vara\"（曾是）\n- 常用于结账场景：*vi betalar var sin del* = 我们各付各的\n\n## 短语中的语法 (Grammar inside)\n\n- *var* 作分配代词，与 *sin/sitt/sina*（反身物主代词）搭配 → [[grammar-sin-sina]]\n- *del* (en): 部分，份额\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *AA-betalning* — AA 制付款（直接术语）\n- 🔄 *dela lika* — 平均分摊\n- 🔄 *betala var för sig* — 各自付钱\n- 🔗 [[kan-vi-dela-på-notan]]\n- 🔗 [[betala-med-kort-eller-swish]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-var-sin-del-med-kort-ska-man-lägga-till-dricks]] 🇸🇪 Var sin del med kort, tack. 🇨🇳 各付各的，用卡，谢谢。",
+      "excerpt": "var sin del 🗣️ 类型: fast uttryck · 语域: vardagligt · 常用度: 3/5 🇨🇳 各付各的；每人一份 · 🇬🇧 each one's own share (go Dutch / AA) 📝 字面: 每个人自己的那份 用法说明 (Usage) var sin del 是表示 AA 制（各自付钱）的惯用语 var 在这里是分配代词（每个人，各自），不是\"var/vara\"（曾是） 常用",
+      "forms": [],
+      "links": [
+        "betala-med-kort-eller-swish",
+        "grammar-sin-sina",
+        "kan-vi-dela-på-notan",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks"
+      ],
+      "searchText": "var sin del var-sin-del knowledge_base/phrases/var-sin-del.md ---\ntype: phrase\nphrase: \"var sin del\"\ncategory: fast-uttryck\nregister: vardagligt\nfrequency: 3\nzh: \"各付各的；每人一份\"\nen: \"each one's own share (AA)\"\nliteral: \"each one's part\"\nhead_words: []\ngrammar: []\nrelated:\n  - kan-vi-dela-på-notan\n  - betala-med-kort-eller-swish\ntopics:\n  - topic-betalning\nsentences:\n  - sent-var-sin-del-med-kort-ska-man-lägga-till-dricks\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# var sin del\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 3/5\n🇨🇳 各付各的；每人一份 · 🇬🇧 each one's own share (go Dutch / AA)\n📝 字面: 每个人自己的那份\n\n## 用法说明 (Usage)\n\n- *var sin del* 是表示 AA 制（各自付钱）的惯用语\n- *var* 在这里是分配代词（每个人，各自），不是\"var/vara\"（曾是）\n- 常用于结账场景：*vi betalar var sin del* = 我们各付各的\n\n## 短语中的语法 (Grammar inside)\n\n- *var* 作分配代词，与 *sin/sitt/sina*（反身物主代词）搭配 → [[grammar-sin-sina]]\n- *del* (en): 部分，份额\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *AA-betalning* — AA 制付款（直接术语）\n- 🔄 *dela lika* — 平均分摊\n- 🔄 *betala var för sig* — 各自付钱\n- 🔗 [[kan-vi-dela-på-notan]]\n- 🔗 [[betala-med-kort-eller-swish]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-var-sin-del-med-kort-ska-man-lägga-till-dricks]] 🇸🇪 Var sin del med kort, tack. 🇨🇳 各付各的，用卡，谢谢。\n",
+      "zh": "各付各的；每人一份",
+      "en": "each one's own share (AA)",
+      "created": "2026-06-15",
+      "known": false,
+      "phrase": "var sin del",
+      "sentences": [
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "kan-vi-dela-på-notan",
+        "lägga-till-dricks",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-betalning"
       ]
     },
     {
@@ -5291,7 +6199,9 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "hoppas-det-smakar",
+        "sent-absolut-vi-har-ett-ledigt-bord",
         "sent-fika-varsågod-hoppas-det-smakar",
+        "sent-självklart-varsågod-vill-ni-beställa",
         "topic-kafe-fika"
       ]
     },
@@ -5419,6 +6329,7 @@ window.KB_DATA = {
       ],
       "topics": [],
       "backlinks": [
+        "sent-absolut-vi-har-ett-ledigt-bord",
         "sent-fika-det-är-så-soligt-idag"
       ]
     },
@@ -5532,6 +6443,84 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-absolut-smaklig-måltid",
+      "type": "sentence",
+      "title": "🇸🇪 Absolut. Smaklig måltid!",
+      "path": "knowledge_base/sentences/sent-absolut-smaklig-måltid.md",
+      "body": "# 🇸🇪 Absolut. Smaklig måltid!\n\n🇨🇳 当然。祝用餐愉快！\n\n## 结构 (Structure)\n\n```\n[Absolut.] [Smaklig] [måltid] !\n  肯定回应   形容词(定语)  名词\n```\n\n## 语法点 (Grammar)\n\n- *Absolut* — 强调肯定回应\"绝对的/当然\"\n- *smaklig* — 形容词\"美味的\"，修饰 en-词 *måltid*（utrum 形式）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[måltid]]\n- 词组: [[smaklig-måltid]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Absolut. Smaklig måltid! 🇨🇳 当然。祝用餐愉快！ 结构 (Structure) [Absolut.] [Smaklig] [måltid] ! 肯定回应 形容词(定语) 名词 语法点 (Grammar) Absolut — 强调肯定回应\"绝对的/当然\" smaklig — 形容词\"美味的\"，修饰 en 词 måltid （utrum 形式） 生词 & 词组 (Words & Phrases) 词:",
+      "forms": [],
+      "links": [
+        "måltid",
+        "smaklig-måltid",
+        "source-2026-06-15-restaurang-middag"
+      ],
+      "searchText": "🇸🇪 Absolut. Smaklig måltid! sent-absolut-smaklig-måltid knowledge_base/sentences/sent-absolut-smaklig-måltid.md ---\ntype: sentence\nsentence: \"Absolut. Smaklig måltid!\"\nzh: \"当然。祝用餐愉快！\"\ncefr: \"A1\"\nwords:\n  - måltid\nphrases:\n  - smaklig-måltid\ngrammar: []\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Absolut. Smaklig måltid!\n\n🇨🇳 当然。祝用餐愉快！\n\n## 结构 (Structure)\n\n```\n[Absolut.] [Smaklig] [måltid] !\n  肯定回应   形容词(定语)  名词\n```\n\n## 语法点 (Grammar)\n\n- *Absolut* — 强调肯定回应\"绝对的/当然\"\n- *smaklig* — 形容词\"美味的\"，修饰 en-词 *måltid*（utrum 形式）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[måltid]]\n- 词组: [[smaklig-måltid]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A1",
+      "zh": "当然。祝用餐愉快！",
+      "created": "2026-06-15",
+      "sentence": "Absolut. Smaklig måltid!",
+      "words": [
+        "måltid"
+      ],
+      "phrases": [
+        "smaklig-måltid"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "smaklig-måltid",
+        "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
+      "slug": "sent-absolut-vi-har-ett-ledigt-bord",
+      "type": "sentence",
+      "title": "🇸🇪 Absolut, vi har ett ledigt bord vid fönstret. Varsågod och sitt.",
+      "path": "knowledge_base/sentences/sent-absolut-vi-har-ett-ledigt-bord.md",
+      "body": "# 🇸🇪 Absolut, vi har ett ledigt bord vid fönstret. Varsågod och sitt.\n\n🇨🇳 当然，我们窗边有一张空桌。请坐。\n\n## 结构 (Structure)\n\n```\n[Absolut,] [vi har] [ett ledigt bord] [vid fönstret.] [Varsågod och sitt.]\n  当然       主+动    不定冠词+形+名      介词短语          请坐（命令句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n- 📌 [[grammar-imperativ]] — *sitt* 是 *sitta* 的命令式；*varsågod* 是礼貌请求语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledig]], [[bord]], [[fönster]], [[vara]], [[sitta]]\n- 词组: [[varsågod]], [[vid-fönstret]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Absolut, vi har ett ledigt bord vid fönstret. Varsågod och sitt. 🇨🇳 当然，我们窗边有一张空桌。请坐。 结构 (Structure) [Absolut,] [vi har] [ett ledigt bord] [vid fönstret.] [Varsågod och sitt.] 当然 主+动 不定冠词+形+名 介词短语 请坐（命令句） 语法点 (Gram",
+      "forms": [],
+      "links": [
+        "bord",
+        "fönster",
+        "grammar-imperativ",
+        "grammar-presens",
+        "ledig",
+        "sitta",
+        "source-2026-06-15-restaurang-rekommendation",
+        "vara",
+        "varsågod",
+        "vid-fönstret"
+      ],
+      "searchText": "🇸🇪 Absolut, vi har ett ledigt bord vid fönstret. Varsågod och sitt. sent-absolut-vi-har-ett-ledigt-bord knowledge_base/sentences/sent-absolut-vi-har-ett-ledigt-bord.md ---\ntype: sentence\nsentence: \"Absolut, vi har ett ledigt bord vid fönstret. Varsågod och sitt.\"\nzh: \"当然，我们窗边有一张空桌。请坐。\"\ncefr: \"A2\"\nwords: [ledig, bord, fönster, vara, sitta]\nphrases: [varsågod, vid-fönstret]\ngrammar: [grammar-presens, grammar-imperativ]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Absolut, vi har ett ledigt bord vid fönstret. Varsågod och sitt.\n\n🇨🇳 当然，我们窗边有一张空桌。请坐。\n\n## 结构 (Structure)\n\n```\n[Absolut,] [vi har] [ett ledigt bord] [vid fönstret.] [Varsågod och sitt.]\n  当然       主+动    不定冠词+形+名      介词短语          请坐（命令句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n- 📌 [[grammar-imperativ]] — *sitt* 是 *sitta* 的命令式；*varsågod* 是礼貌请求语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledig]], [[bord]], [[fönster]], [[vara]], [[sitta]]\n- 词组: [[varsågod]], [[vid-fönstret]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "当然，我们窗边有一张空桌。请坐。",
+      "created": "2026-06-15",
+      "sentence": "Absolut, vi har ett ledigt bord vid fönstret. Varsågod och sitt.",
+      "words": [
+        "ledig",
+        "bord",
+        "fönster",
+        "vara",
+        "sitta"
+      ],
+      "phrases": [
+        "varsågod",
+        "vid-fönstret"
+      ],
+      "grammar": [
+        "grammar-presens",
+        "grammar-imperativ"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-antligen-kunde-jag-andas-ut",
       "type": "sentence",
       "title": "🇸🇈 Äntligen kunde jag andas ut.",
@@ -5573,6 +6562,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-äppelpaj-tack-den-älskar-jag",
+      "type": "sentence",
+      "title": "🇸🇪 Äppelpaj, tack. Den älskar jag!",
+      "path": "knowledge_base/sentences/sent-äppelpaj-tack-den-älskar-jag.md",
+      "body": "# 🇸🇪 Äppelpaj, tack. Den älskar jag!\n\n🇨🇳 苹果派，谢谢。我超爱苹果派！\n\n## 结构 (Structure)\n\n```\n[Äppelpaj, tack.] [Den] [älskar] [jag!]\n  苹果派，谢谢      前置宾语  动词     主语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *älskar* 现在时\n- 注意: *Den älskar jag* 是强调式语序（宾语 *den* 前置 → 动词 *älskar* 第二位 → 主语 *jag* 第三位），强调\"那个我最爱！\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[äppelpaj]], [[älska]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Äppelpaj, tack. Den älskar jag! 🇨🇳 苹果派，谢谢。我超爱苹果派！ 结构 (Structure) [Äppelpaj, tack.] [Den] [älskar] [jag!] 苹果派，谢谢 前置宾语 动词 主语 语法点 (Grammar) 📌 grammar presens — älskar 现在时 注意: Den älskar jag 是强调式语序（宾语 den 前置 → 动词 äls",
+      "forms": [],
+      "links": [
+        "älska",
+        "äppelpaj",
+        "grammar-presens",
+        "source-2026-06-15-restaurang-rekommendation"
+      ],
+      "searchText": "🇸🇪 Äppelpaj, tack. Den älskar jag! sent-äppelpaj-tack-den-älskar-jag knowledge_base/sentences/sent-äppelpaj-tack-den-älskar-jag.md ---\ntype: sentence\nsentence: \"Äppelpaj, tack. Den älskar jag!\"\nzh: \"苹果派，谢谢。我超爱苹果派！\"\ncefr: \"A2\"\nwords: [äppelpaj, älska]\nphrases: []\ngrammar: [grammar-presens]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Äppelpaj, tack. Den älskar jag!\n\n🇨🇳 苹果派，谢谢。我超爱苹果派！\n\n## 结构 (Structure)\n\n```\n[Äppelpaj, tack.] [Den] [älskar] [jag!]\n  苹果派，谢谢      前置宾语  动词     主语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *älskar* 现在时\n- 注意: *Den älskar jag* 是强调式语序（宾语 *den* 前置 → 动词 *älskar* 第二位 → 主语 *jag* 第三位），强调\"那个我最爱！\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[äppelpaj]], [[älska]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "苹果派，谢谢。我超爱苹果派！",
+      "created": "2026-06-15",
+      "sentence": "Äppelpaj, tack. Den älskar jag!",
+      "words": [
+        "äppelpaj",
+        "älska"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "äppelpaj"
+      ]
+    },
+    {
       "slug": "sent-ar-en-vanlig-dag-pa-storgatan-full-av-liv",
       "type": "sentence",
       "title": "🇸🇈 Det är en vanlig dag på Storgatan — full av liv och rörelse.",
@@ -5608,6 +6631,45 @@ window.KB_DATA = {
       "backlinks": [
         "full-av-liv",
         "source-2026-06-09-beskriva-en-gata"
+      ]
+    },
+    {
+      "slug": "sent-bra-val-vill-du-ha-efterrätt",
+      "type": "sentence",
+      "title": "🇸🇪 Bra val! Vill du ha någon efterrätt efteråt?",
+      "path": "knowledge_base/sentences/sent-bra-val-vill-du-ha-efterrätt.md",
+      "body": "# 🇸🇪 Bra val! Vill du ha någon efterrätt efteråt?\n\n🇨🇳 好选择！之后想要甜点吗？\n\n## 结构 (Structure)\n\n```\n[Bra val!] [Vill] [du] [ha] [någon efterrätt] [efteråt?]\n  好选择     情态动词  主语  动词原形  不定代词+名词    之后\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *vill ha* = 想要（情态动词 + 动词原形）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[val]], [[efterrätt]]\n- 词组: [[bra-val]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Bra val! Vill du ha någon efterrätt efteråt? 🇨🇳 好选择！之后想要甜点吗？ 结构 (Structure) [Bra val!] [Vill] [du] [ha] [någon efterrätt] [efteråt?] 好选择 情态动词 主语 动词原形 不定代词+名词 之后 语法点 (Grammar) 📌 grammar modala hjalpverb — vill ha ",
+      "forms": [],
+      "links": [
+        "bra-val",
+        "efterrätt",
+        "grammar-modala-hjalpverb",
+        "source-2026-06-15-restaurang-rekommendation",
+        "val"
+      ],
+      "searchText": "🇸🇪 Bra val! Vill du ha någon efterrätt efteråt? sent-bra-val-vill-du-ha-efterrätt knowledge_base/sentences/sent-bra-val-vill-du-ha-efterrätt.md ---\ntype: sentence\nsentence: \"Bra val! Vill du ha någon efterrätt efteråt?\"\nzh: \"好选择！之后想要甜点吗？\"\ncefr: \"A2\"\nwords: [val, efterrätt, vara]\nphrases: [bra-val]\ngrammar: [grammar-modala-hjalpverb]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Bra val! Vill du ha någon efterrätt efteråt?\n\n🇨🇳 好选择！之后想要甜点吗？\n\n## 结构 (Structure)\n\n```\n[Bra val!] [Vill] [du] [ha] [någon efterrätt] [efteråt?]\n  好选择     情态动词  主语  动词原形  不定代词+名词    之后\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *vill ha* = 想要（情态动词 + 动词原形）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[val]], [[efterrätt]]\n- 词组: [[bra-val]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "好选择！之后想要甜点吗？",
+      "created": "2026-06-15",
+      "sentence": "Bra val! Vill du ha någon efterrätt efteråt?",
+      "words": [
+        "val",
+        "efterrätt",
+        "vara"
+      ],
+      "phrases": [
+        "bra-val"
+      ],
+      "grammar": [
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "bra-val",
+        "efterrätt"
       ]
     },
     {
@@ -5698,6 +6760,124 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-prepositioner-rum",
         "source-2026-06-09-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
+      "type": "sentence",
+      "title": "🇸🇪 Då avrundar vi uppåt. Tack för god mat!",
+      "path": "knowledge_base/sentences/sent-då-avrundar-vi-uppåt-tack-för-god-mat.md",
+      "body": "# 🇸🇪 Då avrundar vi uppåt. Tack för god mat!\n\n🇨🇳 那我们往上凑整。谢谢，菜很好吃！\n\n## 结构 (Structure)\n\n```\nDå  avrundar  vi  uppåt.  |  Tack  för  god  mat!\n那么 凑整     我们 向上    |  谢谢   为   好   食物\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Då avrundar vi*：状语前置，动词第二位，主语后移\n- 📌 *uppåt* — 方向副词\"向上/往上\"\n- 📌 *Tack för X!* — 感谢固定句型\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[avrunda]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Då avrundar vi uppåt. Tack för god mat! 🇨🇳 那我们往上凑整。谢谢，菜很好吃！ 结构 (Structure) Då avrundar vi uppåt. Tack för god mat! 那么 凑整 我们 向上 谢谢 为 好 食物 语法点 (Grammar) 📌 grammar v2 ordfoljd — Då avrundar vi ：状语前置，动词第二位，主语后移 📌 up",
+      "forms": [],
+      "links": [
+        "avrunda",
+        "grammar-v2-ordfoljd",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ],
+      "searchText": "🇸🇪 Då avrundar vi uppåt. Tack för god mat! sent-då-avrundar-vi-uppåt-tack-för-god-mat knowledge_base/sentences/sent-då-avrundar-vi-uppåt-tack-för-god-mat.md ---\ntype: sentence\nsentence: \"Då avrundar vi uppåt. Tack för god mat!\"\nzh: \"那我们往上凑整。谢谢，菜很好吃！\"\ncefr: \"B1\"\nwords:\n  - avrunda\ngrammar:\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-betalning\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Då avrundar vi uppåt. Tack för god mat!\n\n🇨🇳 那我们往上凑整。谢谢，菜很好吃！\n\n## 结构 (Structure)\n\n```\nDå  avrundar  vi  uppåt.  |  Tack  för  god  mat!\n那么 凑整     我们 向上    |  谢谢   为   好   食物\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Då avrundar vi*：状语前置，动词第二位，主语后移\n- 📌 *uppåt* — 方向副词\"向上/往上\"\n- 📌 *Tack för X!* — 感谢固定句型\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[avrunda]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "B1",
+      "zh": "那我们往上凑整。谢谢，菜很好吃！",
+      "created": "2026-06-15",
+      "sentence": "Då avrundar vi uppåt. Tack för god mat!",
+      "words": [
+        "avrunda"
+      ],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-betalning",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-allergi-nota"
+      ]
+    },
+    {
+      "slug": "sent-då-tar-jag-fläskfilén-tack",
+      "type": "sentence",
+      "title": "🇸🇪 Då tar jag fläskfilén, tack. Och ett glas öl.",
+      "path": "knowledge_base/sentences/sent-då-tar-jag-fläskfilén-tack.md",
+      "body": "# 🇸🇪 Då tar jag fläskfilén, tack. Och ett glas öl.\n\n🇨🇳 那我就要猪柳，谢谢。再来一杯啤酒。\n\n## 结构 (Structure)\n\n```\n[Då] [tar] [jag] [fläskfilén,] [tack.] [Och ett glas öl.]\n  那   动词   主语   宾语(bestämd)  谢谢    还有一杯啤酒\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *tar* 现在时（取/要）；V2 语序，*då* 前置后动词倒序\n- 注意: *fläskfilén* 是 bestämd form (限定形式)，表示特定那道菜\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fläskfilé]], [[öl]], [[glas]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Då tar jag fläskfilén, tack. Och ett glas öl. 🇨🇳 那我就要猪柳，谢谢。再来一杯啤酒。 结构 (Structure) [Då] [tar] [jag] [fläskfilén,] [tack.] [Och ett glas öl.] 那 动词 主语 宾语(bestämd) 谢谢 还有一杯啤酒 语法点 (Grammar) 📌 grammar presens — tar 现在时（",
+      "forms": [],
+      "links": [
+        "fläskfilé",
+        "glas",
+        "grammar-presens",
+        "öl",
+        "source-2026-06-15-restaurang-rekommendation"
+      ],
+      "searchText": "🇸🇪 Då tar jag fläskfilén, tack. Och ett glas öl. sent-då-tar-jag-fläskfilén-tack knowledge_base/sentences/sent-då-tar-jag-fläskfilén-tack.md ---\ntype: sentence\nsentence: \"Då tar jag fläskfilén, tack. Och ett glas öl.\"\nzh: \"那我就要猪柳，谢谢。再来一杯啤酒。\"\ncefr: \"A2\"\nwords: [fläskfilé, öl, glas, vara]\nphrases: []\ngrammar: [grammar-presens]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Då tar jag fläskfilén, tack. Och ett glas öl.\n\n🇨🇳 那我就要猪柳，谢谢。再来一杯啤酒。\n\n## 结构 (Structure)\n\n```\n[Då] [tar] [jag] [fläskfilén,] [tack.] [Och ett glas öl.]\n  那   动词   主语   宾语(bestämd)  谢谢    还有一杯啤酒\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *tar* 现在时（取/要）；V2 语序，*då* 前置后动词倒序\n- 注意: *fläskfilén* 是 bestämd form (限定形式)，表示特定那道菜\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fläskfilé]], [[öl]], [[glas]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "那我就要猪柳，谢谢。再来一杯啤酒。",
+      "created": "2026-06-15",
+      "sentence": "Då tar jag fläskfilén, tack. Och ett glas öl.",
+      "words": [
+        "fläskfilé",
+        "öl",
+        "glas",
+        "vara"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "fläskfilé",
+        "öl"
+      ]
+    },
+    {
+      "slug": "sent-dagens-rätt-är-en-vegetarisk-pasta",
+      "type": "sentence",
+      "title": "🇸🇪 Dagens rätt är en vegetarisk pasta med svamp. Den är jättepopulär.",
+      "path": "knowledge_base/sentences/sent-dagens-rätt-är-en-vegetarisk-pasta.md",
+      "body": "# 🇸🇪 Dagens rätt är en vegetarisk pasta med svamp. Den är jättepopulär.\n\n🇨🇳 今日例餐是蘑菇素食意面，很受欢迎。\n\n## 结构 (Structure)\n\n```\n[Dagens rätt] [är] [en vegetarisk pasta med svamp.] [Den är jättepopulär.]\n   今日例餐    系动词  不定式+形容词+名词+介词短语       代词+形容词（很受欢迎）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är* 两次，均为现在时\n- 📌 [[grammar-adjektiv-kongruens]] — *vegetarisk* 修饰 *en pasta*（utrum, obestämd）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vegetarisk]], [[pasta]], [[svamp]], [[vara]], [[populär]]\n- 词组: [[dagens-rätt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Dagens rätt är en vegetarisk pasta med svamp. Den är jättepopulär. 🇨🇳 今日例餐是蘑菇素食意面，很受欢迎。 结构 (Structure) [Dagens rätt] [är] [en vegetarisk pasta med svamp.] [Den är jättepopulär.] 今日例餐 系动词 不定式+形容词+名词+介词短语 代词+形容词（很受欢",
+      "forms": [],
+      "links": [
+        "dagens-rätt",
+        "grammar-adjektiv-kongruens",
+        "grammar-presens",
+        "pasta",
+        "populär",
+        "source-2026-06-15-restaurang-rekommendation",
+        "svamp",
+        "vara",
+        "vegetarisk"
+      ],
+      "searchText": "🇸🇪 Dagens rätt är en vegetarisk pasta med svamp. Den är jättepopulär. sent-dagens-rätt-är-en-vegetarisk-pasta knowledge_base/sentences/sent-dagens-rätt-är-en-vegetarisk-pasta.md ---\ntype: sentence\nsentence: \"Dagens rätt är en vegetarisk pasta med svamp. Den är jättepopulär.\"\nzh: \"今日例餐是蘑菇素食意面，很受欢迎。\"\ncefr: \"A2\"\nwords: [vegetarisk, pasta, svamp, vara, populär]\nphrases: [dagens-rätt]\ngrammar: [grammar-presens, grammar-adjektiv-kongruens]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Dagens rätt är en vegetarisk pasta med svamp. Den är jättepopulär.\n\n🇨🇳 今日例餐是蘑菇素食意面，很受欢迎。\n\n## 结构 (Structure)\n\n```\n[Dagens rätt] [är] [en vegetarisk pasta med svamp.] [Den är jättepopulär.]\n   今日例餐    系动词  不定式+形容词+名词+介词短语       代词+形容词（很受欢迎）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är* 两次，均为现在时\n- 📌 [[grammar-adjektiv-kongruens]] — *vegetarisk* 修饰 *en pasta*（utrum, obestämd）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vegetarisk]], [[pasta]], [[svamp]], [[vara]], [[populär]]\n- 词组: [[dagens-rätt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "今日例餐是蘑菇素食意面，很受欢迎。",
+      "created": "2026-06-15",
+      "sentence": "Dagens rätt är en vegetarisk pasta med svamp. Den är jättepopulär.",
+      "words": [
+        "vegetarisk",
+        "pasta",
+        "svamp",
+        "vara",
+        "populär"
+      ],
+      "phrases": [
+        "dagens-rätt"
+      ],
+      "grammar": [
+        "grammar-presens",
+        "grammar-adjektiv-kongruens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "dagens-rätt",
+        "pasta",
+        "svamp",
+        "vegetarisk"
       ]
     },
     {
@@ -5849,6 +7029,51 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-det-låter-gott-men-jag-är",
+      "type": "sentence",
+      "title": "🇸🇪 Det låter gott, men jag är ganska hungrig. Finns det något med kött också?",
+      "path": "knowledge_base/sentences/sent-det-låter-gott-men-jag-är.md",
+      "body": "# 🇸🇪 Det låter gott, men jag är ganska hungrig. Finns det något med kött också?\n\n🇨🇳 听起来不错，不过我挺饿的。有带肉的吗？\n\n## 结构 (Structure)\n\n```\n[Det låter gott,] [men] [jag är ganska hungrig.] [Finns det] [något med kött] [också?]\n  听起来不错        但是    我相当饿                  有没有      带肉的什么          也\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *låter*, *är*, *finns*\n- 📌 [[grammar-det-finns]] — *Finns det* 存在疑问句（倒装）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kött]], [[hungrig]], [[vara]], [[finnas]]\n- 词组: [[det-låter-gott]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Det låter gott, men jag är ganska hungrig. Finns det något med kött också? 🇨🇳 听起来不错，不过我挺饿的。有带肉的吗？ 结构 (Structure) [Det låter gott,] [men] [jag är ganska hungrig.] [Finns det] [något med kött] [också?] 听起来不错 但是 我相当饿",
+      "forms": [],
+      "links": [
+        "det-låter-gott",
+        "finnas",
+        "grammar-det-finns",
+        "grammar-presens",
+        "hungrig",
+        "kött",
+        "source-2026-06-15-restaurang-rekommendation",
+        "vara"
+      ],
+      "searchText": "🇸🇪 Det låter gott, men jag är ganska hungrig. Finns det något med kött också? sent-det-låter-gott-men-jag-är knowledge_base/sentences/sent-det-låter-gott-men-jag-är.md ---\ntype: sentence\nsentence: \"Det låter gott, men jag är ganska hungrig. Finns det något med kött också?\"\nzh: \"听起来不错，不过我挺饿的。有带肉的吗？\"\ncefr: \"A2\"\nwords: [kött, hungrig, vara, finnas]\nphrases: [det-låter-gott, finns-det-något-ledigt-bord]\ngrammar: [grammar-presens, grammar-det-finns]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det låter gott, men jag är ganska hungrig. Finns det något med kött också?\n\n🇨🇳 听起来不错，不过我挺饿的。有带肉的吗？\n\n## 结构 (Structure)\n\n```\n[Det låter gott,] [men] [jag är ganska hungrig.] [Finns det] [något med kött] [också?]\n  听起来不错        但是    我相当饿                  有没有      带肉的什么          也\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *låter*, *är*, *finns*\n- 📌 [[grammar-det-finns]] — *Finns det* 存在疑问句（倒装）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kött]], [[hungrig]], [[vara]], [[finnas]]\n- 词组: [[det-låter-gott]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "听起来不错，不过我挺饿的。有带肉的吗？",
+      "created": "2026-06-15",
+      "sentence": "Det låter gott, men jag är ganska hungrig. Finns det något med kött också?",
+      "words": [
+        "kött",
+        "hungrig",
+        "vara",
+        "finnas"
+      ],
+      "phrases": [
+        "det-låter-gott",
+        "finns-det-något-ledigt-bord"
+      ],
+      "grammar": [
+        "grammar-presens",
+        "grammar-det-finns"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "det-låter-gott",
+        "kött"
+      ]
+    },
+    {
       "slug": "sent-det-tog-ungefar-en-timme",
       "type": "sentence",
       "title": "🇸🇈 Det tog ungefär en timme.",
@@ -5883,6 +7108,81 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-09-en-handelse-i-tidsordning",
         "ungefär-en-timme"
+      ]
+    },
+    {
+      "slug": "sent-det-var-jättegott-kan-jag-betala",
+      "type": "sentence",
+      "title": "🇸🇪 Det var jättegott, tack. Kan jag betala med kort?",
+      "path": "knowledge_base/sentences/sent-det-var-jättegott-kan-jag-betala.md",
+      "body": "# 🇸🇪 Det var jättegott, tack. Kan jag betala med kort?\n\n🇨🇳 太好吃了，谢谢。我可以刷卡吗？\n\n## 结构 (Structure)\n\n```\n[Det var jättegott,] [tack.] [Kan] [jag] [betala] [med kort?]\n  太好吃了              谢谢    情态动词  主语  动词原形  支付方式\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *kan* + 动词原形 *betala*（情态动词结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[betala]], [[kort]]\n- 词组: [[betala-med-kort-eller-swish]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Det var jättegott, tack. Kan jag betala med kort? 🇨🇳 太好吃了，谢谢。我可以刷卡吗？ 结构 (Structure) [Det var jättegott,] [tack.] [Kan] [jag] [betala] [med kort?] 太好吃了 谢谢 情态动词 主语 动词原形 支付方式 语法点 (Grammar) 📌 grammar modala hjalpverb",
+      "forms": [],
+      "links": [
+        "betala",
+        "betala-med-kort-eller-swish",
+        "grammar-modala-hjalpverb",
+        "kort",
+        "source-2026-06-15-restaurang-rekommendation"
+      ],
+      "searchText": "🇸🇪 Det var jättegott, tack. Kan jag betala med kort? sent-det-var-jättegott-kan-jag-betala knowledge_base/sentences/sent-det-var-jättegott-kan-jag-betala.md ---\ntype: sentence\nsentence: \"Det var jättegott, tack. Kan jag betala med kort?\"\nzh: \"太好吃了，谢谢。我可以刷卡吗？\"\ncefr: \"A2\"\nwords: [betala, kort, vara]\nphrases: [betala-med-kort-eller-swish]\ngrammar: [grammar-modala-hjalpverb]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck, topic-betalning]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det var jättegott, tack. Kan jag betala med kort?\n\n🇨🇳 太好吃了，谢谢。我可以刷卡吗？\n\n## 结构 (Structure)\n\n```\n[Det var jättegott,] [tack.] [Kan] [jag] [betala] [med kort?]\n  太好吃了              谢谢    情态动词  主语  动词原形  支付方式\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *kan* + 动词原形 *betala*（情态动词结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[betala]], [[kort]]\n- 词组: [[betala-med-kort-eller-swish]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "太好吃了，谢谢。我可以刷卡吗？",
+      "created": "2026-06-15",
+      "sentence": "Det var jättegott, tack. Kan jag betala med kort?",
+      "words": [
+        "betala",
+        "kort",
+        "vara"
+      ],
+      "phrases": [
+        "betala-med-kort-eller-swish"
+      ],
+      "grammar": [
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [
+        "topic-mat-dryck",
+        "topic-betalning"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-dricks-är-helt-frivilligt-i-sverige",
+      "type": "sentence",
+      "title": "🇸🇪 Dricks är helt frivilligt i Sverige, men det uppskattas.",
+      "path": "knowledge_base/sentences/sent-dricks-är-helt-frivilligt-i-sverige.md",
+      "body": "# 🇸🇪 Dricks är helt frivilligt i Sverige, men det uppskattas.\n\n🇨🇳 在瑞典小费完全是自愿的，不过会很受欢迎。\n\n## 结构 (Structure)\n\n```\nDricks  är  helt  frivilligt  i  Sverige,  |  men  det  uppskattas.\n小费    是   完全  自愿的    在  瑞典      |  但   它   会受欢迎\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-adjektiv-bojning]] — *frivilligt*（ett-ord 中性形式，因为 *dricks* 是 en-ord，这里用 predikativt/述语用法的中性形式 — 实际上 *dricks* 是 en-ord，故应为 *frivillig*；口语中 *frivilligt* 常作副词/述语形式，参见用法提示）\n- 📌 *uppskattas* — passiv med -s：被欣赏/受欢迎 → [[grammar-passiv-med-s]]\n- 📌 *helt* — 强化副词\"完全地\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[dricks]], [[frivillig]]\n- 词组: [[lägga-till-dricks]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n\n## 用法提示\n\n- 文化点：瑞典小费文化与中国/美国大相径庭——不是义务，但刷卡时凑整是常见做法。",
+      "excerpt": "🇸🇪 Dricks är helt frivilligt i Sverige, men det uppskattas. 🇨🇳 在瑞典小费完全是自愿的，不过会很受欢迎。 结构 (Structure) Dricks är helt frivilligt i Sverige, men det uppskattas. 小费 是 完全 自愿的 在 瑞典 但 它 会受欢迎 语法点 (Grammar) 📌 grammar adjektiv ",
+      "forms": [],
+      "links": [
+        "dricks",
+        "frivillig",
+        "grammar-adjektiv-bojning",
+        "grammar-passiv-med-s",
+        "lägga-till-dricks",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ],
+      "searchText": "🇸🇪 Dricks är helt frivilligt i Sverige, men det uppskattas. sent-dricks-är-helt-frivilligt-i-sverige knowledge_base/sentences/sent-dricks-är-helt-frivilligt-i-sverige.md ---\ntype: sentence\nsentence: \"Dricks är helt frivilligt i Sverige, men det uppskattas.\"\nzh: \"在瑞典小费完全是自愿的，不过会很受欢迎。\"\ncefr: \"B1\"\nwords:\n  - dricks\n  - frivillig\nphrases:\n  - lägga-till-dricks\ngrammar:\n  - grammar-adjektiv-bojning\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-betalning\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Dricks är helt frivilligt i Sverige, men det uppskattas.\n\n🇨🇳 在瑞典小费完全是自愿的，不过会很受欢迎。\n\n## 结构 (Structure)\n\n```\nDricks  är  helt  frivilligt  i  Sverige,  |  men  det  uppskattas.\n小费    是   完全  自愿的    在  瑞典      |  但   它   会受欢迎\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-adjektiv-bojning]] — *frivilligt*（ett-ord 中性形式，因为 *dricks* 是 en-ord，这里用 predikativt/述语用法的中性形式 — 实际上 *dricks* 是 en-ord，故应为 *frivillig*；口语中 *frivilligt* 常作副词/述语形式，参见用法提示）\n- 📌 *uppskattas* — passiv med -s：被欣赏/受欢迎 → [[grammar-passiv-med-s]]\n- 📌 *helt* — 强化副词\"完全地\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[dricks]], [[frivillig]]\n- 词组: [[lägga-till-dricks]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n\n## 用法提示\n\n- 文化点：瑞典小费文化与中国/美国大相径庭——不是义务，但刷卡时凑整是常见做法。\n",
+      "cefr": "B1",
+      "zh": "在瑞典小费完全是自愿的，不过会很受欢迎。",
+      "created": "2026-06-15",
+      "sentence": "Dricks är helt frivilligt i Sverige, men det uppskattas.",
+      "words": [
+        "dricks",
+        "frivillig"
+      ],
+      "phrases": [
+        "lägga-till-dricks"
+      ],
+      "grammar": [
+        "grammar-adjektiv-bojning"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-allergi-nota"
       ]
     },
     {
@@ -7437,7 +8737,9 @@ window.KB_DATA = {
       "topics": [
         "topic-kafe-fika"
       ],
-      "backlinks": []
+      "backlinks": [
+        "vad-har-ni-för"
+      ]
     },
     {
       "slug": "sent-fika-varsågod-hoppas-det-smakar",
@@ -7890,6 +9192,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-god-kväll-och-välkomna-har-ni-bokat",
+      "type": "sentence",
+      "title": "🇸🇪 God kväll och välkomna! Har ni bokat bord?",
+      "path": "knowledge_base/sentences/sent-god-kväll-och-välkomna-har-ni-bokat.md",
+      "body": "# 🇸🇪 God kväll och välkomna! Har ni bokat bord?\n\n🇨🇳 晚上好，欢迎光临！订位了吗？\n\n## 结构 (Structure)\n\n```\n[God kväll] [och] [välkomna] ! [Har ni] [bokat] [bord] ?\n  问候语           欢迎词        助动词    主语  过去分词  宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har bokat* 是完成时结构（助动词 *har* + 动词 supinum *bokat*）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[välkomna]] · [[boka]] · [[bord]]\n- 词组: [[har-ni-bokat-bord]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 God kväll och välkomna! Har ni bokat bord? 🇨🇳 晚上好，欢迎光临！订位了吗？ 结构 (Structure) [God kväll] [och] [välkomna] ! [Har ni] [bokat] [bord] ? 问候语 欢迎词 助动词 主语 过去分词 宾语 语法点 (Grammar) 📌 grammar perfekt — har bokat 是完成时结构（助动词 h",
+      "forms": [],
+      "links": [
+        "boka",
+        "bord",
+        "grammar-perfekt",
+        "har-ni-bokat-bord",
+        "source-2026-06-15-restaurang-middag",
+        "välkomna"
+      ],
+      "searchText": "🇸🇪 God kväll och välkomna! Har ni bokat bord? sent-god-kväll-och-välkomna-har-ni-bokat knowledge_base/sentences/sent-god-kväll-och-välkomna-har-ni-bokat.md ---\ntype: sentence\nsentence: \"God kväll och välkomna! Har ni bokat bord?\"\nzh: \"晚上好，欢迎光临！订位了吗？\"\ncefr: \"A2\"\nwords:\n  - välkomna\n  - boka\n  - bord\nphrases:\n  - har-ni-bokat-bord\ngrammar:\n  - grammar-perfekt\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 God kväll och välkomna! Har ni bokat bord?\n\n🇨🇳 晚上好，欢迎光临！订位了吗？\n\n## 结构 (Structure)\n\n```\n[God kväll] [och] [välkomna] ! [Har ni] [bokat] [bord] ?\n  问候语           欢迎词        助动词    主语  过去分词  宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har bokat* 是完成时结构（助动词 *har* + 动词 supinum *bokat*）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[välkomna]] · [[boka]] · [[bord]]\n- 词组: [[har-ni-bokat-bord]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A2",
+      "zh": "晚上好，欢迎光临！订位了吗？",
+      "created": "2026-06-15",
+      "sentence": "God kväll och välkomna! Har ni bokat bord?",
+      "words": [
+        "välkomna",
+        "boka",
+        "bord"
+      ],
+      "phrases": [
+        "har-ni-bokat-bord"
+      ],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "har-ni-bokat-bord",
+        "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
       "slug": "sent-gransen-kallas-fribelopp",
       "type": "sentence",
       "title": "🇸🇪 Gränsen kallas fribelopp och är cirka 19 100 kronor i månaden.",
@@ -7963,6 +9305,113 @@ window.KB_DATA = {
         "grammar-deponensverb",
         "grammar-passiv-med-s",
         "grammar-preteritum"
+      ]
+    },
+    {
+      "slug": "sent-har-ni-bestämt-er-eller-behöver-ni",
+      "type": "sentence",
+      "title": "🇸🇪 Har ni bestämt er, eller behöver ni några minuter till?",
+      "path": "knowledge_base/sentences/sent-har-ni-bestämt-er-eller-behöver-ni.md",
+      "body": "# 🇸🇪 Har ni bestämt er, eller behöver ni några minuter till?\n\n🇨🇳 你们想好了吗，还是再需要几分钟？\n\n## 结构 (Structure)\n\n```\n[Har ni] [bestämt er] [,] [eller] [behöver ni] [några minuter] [till] ?\n  助动词   过去分词+反身代词   连词    情态动词+主语  数量短语         副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-reflexivt-verb]] — *bestämma sig*: *er* 是 *ni* 的反身代词形式\n- 📌 [[grammar-perfekt]] — *har bestämt*：完成时询问是否已决定\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bestämma]] · [[några]]\n- 词组: [[har-ni-bestämt-er]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Har ni bestämt er, eller behöver ni några minuter till? 🇨🇳 你们想好了吗，还是再需要几分钟？ 结构 (Structure) [Har ni] [bestämt er] [,] [eller] [behöver ni] [några minuter] [till] ? 助动词 过去分词+反身代词 连词 情态动词+主语 数量短语 副词 语法点 (Grammar) 📌 ",
+      "forms": [],
+      "links": [
+        "bestämma",
+        "grammar-perfekt",
+        "grammar-reflexivt-verb",
+        "har-ni-bestämt-er",
+        "några",
+        "source-2026-06-15-restaurang-middag"
+      ],
+      "searchText": "🇸🇪 Har ni bestämt er, eller behöver ni några minuter till? sent-har-ni-bestämt-er-eller-behöver-ni knowledge_base/sentences/sent-har-ni-bestämt-er-eller-behöver-ni.md ---\ntype: sentence\nsentence: \"Har ni bestämt er, eller behöver ni några minuter till?\"\nzh: \"你们想好了吗，还是再需要几分钟？\"\ncefr: \"A2\"\nwords:\n  - bestämma\n  - några\nphrases:\n  - har-ni-bestämt-er\ngrammar:\n  - grammar-reflexivt-verb\n  - grammar-perfekt\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Har ni bestämt er, eller behöver ni några minuter till?\n\n🇨🇳 你们想好了吗，还是再需要几分钟？\n\n## 结构 (Structure)\n\n```\n[Har ni] [bestämt er] [,] [eller] [behöver ni] [några minuter] [till] ?\n  助动词   过去分词+反身代词   连词    情态动词+主语  数量短语         副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-reflexivt-verb]] — *bestämma sig*: *er* 是 *ni* 的反身代词形式\n- 📌 [[grammar-perfekt]] — *har bestämt*：完成时询问是否已决定\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bestämma]] · [[några]]\n- 词组: [[har-ni-bestämt-er]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A2",
+      "zh": "你们想好了吗，还是再需要几分钟？",
+      "created": "2026-06-15",
+      "sentence": "Har ni bestämt er, eller behöver ni några minuter till?",
+      "words": [
+        "bestämma",
+        "några"
+      ],
+      "phrases": [
+        "har-ni-bestämt-er"
+      ],
+      "grammar": [
+        "grammar-reflexivt-verb",
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "har-ni-bestämt-er",
+        "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
+      "slug": "sent-hej-och-välkommen-är-du-ensam",
+      "type": "sentence",
+      "title": "🇸🇪 Hej och välkommen! Är du ensam ikväll?",
+      "path": "knowledge_base/sentences/sent-hej-och-välkommen-är-du-ensam.md",
+      "body": "# 🇸🇪 Hej och välkommen! Är du ensam ikväll?\n\n🇨🇳 你好，欢迎光临！今晚就您一位吗？\n\n## 结构 (Structure)\n\n```\n[Hej och välkommen!] [Är] [du] [ensam] [ikväll?]\n  问候语                动词  主语  形容词    时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är* 是 *vara* 的现在时；疑问句动词前置\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ensam]], [[vara]]\n- 词组: [[är-du-ensam]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Hej och välkommen! Är du ensam ikväll? 🇨🇳 你好，欢迎光临！今晚就您一位吗？ 结构 (Structure) [Hej och välkommen!] [Är] [du] [ensam] [ikväll?] 问候语 动词 主语 形容词 时间状语 语法点 (Grammar) 📌 grammar presens — är 是 vara 的现在时；疑问句动词前置 生词 & 词组 (Word",
+      "forms": [],
+      "links": [
+        "är-du-ensam",
+        "ensam",
+        "grammar-presens",
+        "source-2026-06-15-restaurang-rekommendation",
+        "vara"
+      ],
+      "searchText": "🇸🇪 Hej och välkommen! Är du ensam ikväll? sent-hej-och-välkommen-är-du-ensam knowledge_base/sentences/sent-hej-och-välkommen-är-du-ensam.md ---\ntype: sentence\nsentence: \"Hej och välkommen! Är du ensam ikväll?\"\nzh: \"你好，欢迎光临！今晚就您一位吗？\"\ncefr: \"A2\"\nwords: [ensam, vara]\nphrases: [är-du-ensam]\ngrammar: [grammar-presens]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hej och välkommen! Är du ensam ikväll?\n\n🇨🇳 你好，欢迎光临！今晚就您一位吗？\n\n## 结构 (Structure)\n\n```\n[Hej och välkommen!] [Är] [du] [ensam] [ikväll?]\n  问候语                动词  主语  形容词    时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är* 是 *vara* 的现在时；疑问句动词前置\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ensam]], [[vara]]\n- 词组: [[är-du-ensam]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "你好，欢迎光临！今晚就您一位吗？",
+      "created": "2026-06-15",
+      "sentence": "Hej och välkommen! Är du ensam ikväll?",
+      "words": [
+        "ensam",
+        "vara"
+      ],
+      "phrases": [
+        "är-du-ensam"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "är-du-ensam"
+      ]
+    },
+    {
+      "slug": "sent-hej-och-välkomna-ett-bord-för-två",
+      "type": "sentence",
+      "title": "🇸🇪 Hej och välkomna! Ett bord för två?",
+      "path": "knowledge_base/sentences/sent-hej-och-välkomna-ett-bord-för-två.md",
+      "body": "# 🇸🇪 Hej och välkomna! Ett bord för två?\n\n🇨🇳 你好，欢迎光临！两位的桌子吗？\n\n## 结构 (Structure)\n\n```\nHej  och  välkomna!  |  Ett bord  för  två?\n问候  连词  欢迎光临   |  一张桌   给    两人\n```\n\n## 语法点 (Grammar)\n\n- 📌 *välkomna* — *välkommen* 的复数形式（对多人招呼）→ [[grammar-adjektiv-bojning]]\n- 📌 *för två* — 介词短语表示\"两人份\"（餐厅惯用语）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[välkomna]], [[bord]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Hej och välkomna! Ett bord för två? 🇨🇳 你好，欢迎光临！两位的桌子吗？ 结构 (Structure) Hej och välkomna! Ett bord för två? 问候 连词 欢迎光临 一张桌 给 两人 语法点 (Grammar) 📌 välkomna — välkommen 的复数形式（对多人招呼）→ grammar adjektiv bojning 📌 för två",
+      "forms": [],
+      "links": [
+        "bord",
+        "grammar-adjektiv-bojning",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "välkomna"
+      ],
+      "searchText": "🇸🇪 Hej och välkomna! Ett bord för två? sent-hej-och-välkomna-ett-bord-för-två knowledge_base/sentences/sent-hej-och-välkomna-ett-bord-för-två.md ---\ntype: sentence\nsentence: \"Hej och välkomna! Ett bord för två?\"\nzh: \"你好，欢迎光临！两位的桌子吗？\"\ncefr: \"A1\"\nwords:\n  - välkomna\n  - bord\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hej och välkomna! Ett bord för två?\n\n🇨🇳 你好，欢迎光临！两位的桌子吗？\n\n## 结构 (Structure)\n\n```\nHej  och  välkomna!  |  Ett bord  för  två?\n问候  连词  欢迎光临   |  一张桌   给    两人\n```\n\n## 语法点 (Grammar)\n\n- 📌 *välkomna* — *välkommen* 的复数形式（对多人招呼）→ [[grammar-adjektiv-bojning]]\n- 📌 *för två* — 介词短语表示\"两人份\"（餐厅惯用语）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[välkomna]], [[bord]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "A1",
+      "zh": "你好，欢迎光临！两位的桌子吗？",
+      "created": "2026-06-15",
+      "sentence": "Hej och välkomna! Ett bord för två?",
+      "words": [
+        "välkomna",
+        "bord"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-allergi-nota"
       ]
     },
     {
@@ -8208,6 +9657,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-inga-problem-vi-lagar-den-laktosfri",
+      "type": "sentence",
+      "title": "🇸🇪 Inga problem, vi lagar den laktosfri. Vill ni ha något att dricka?",
+      "path": "knowledge_base/sentences/sent-inga-problem-vi-lagar-den-laktosfri.md",
+      "body": "# 🇸🇪 Inga problem, vi lagar den laktosfri. Vill ni ha något att dricka?\n\n🇨🇳 没问题，我们做成无乳糖的。想喝点什么吗？\n\n## 结构 (Structure)\n\n```\nInga problem,  |  vi  lagar  den  laktosfri.  |  Vill  ni  ha  något  att  dricka?\n没问题          |  我们 做   它   无乳糖的    |  想    你们 有  某些  去   喝\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-sammansatt-ord]] — *laktosfri*（laktos + fri）\n- 📌 [[grammar-modala-hjalpverb]] — *Vill ni ha*：情态动词 + 不定式\n- 📌 *att dricka* — 不定式用作形容词（某些可喝的东西）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[laktos]], [[dricka]]\n- 词组: [[inga-problem]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Inga problem, vi lagar den laktosfri. Vill ni ha något att dricka? 🇨🇳 没问题，我们做成无乳糖的。想喝点什么吗？ 结构 (Structure) Inga problem, vi lagar den laktosfri. Vill ni ha något att dricka? 没问题 我们 做 它 无乳糖的 想 你们 有 某些 去 喝 语法点 (Gramm",
+      "forms": [],
+      "links": [
+        "dricka",
+        "grammar-modala-hjalpverb",
+        "grammar-sammansatt-ord",
+        "inga-problem",
+        "laktos",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ],
+      "searchText": "🇸🇪 Inga problem, vi lagar den laktosfri. Vill ni ha något att dricka? sent-inga-problem-vi-lagar-den-laktosfri knowledge_base/sentences/sent-inga-problem-vi-lagar-den-laktosfri.md ---\ntype: sentence\nsentence: \"Inga problem, vi lagar den laktosfri. Vill ni ha något att dricka?\"\nzh: \"没问题，我们做成无乳糖的。想喝点什么吗？\"\ncefr: \"B1\"\nwords:\n  - laktos\n  - dricka\nphrases:\n  - inga-problem\ngrammar:\n  - grammar-sammansatt-ord\n  - grammar-modala-hjalpverb\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Inga problem, vi lagar den laktosfri. Vill ni ha något att dricka?\n\n🇨🇳 没问题，我们做成无乳糖的。想喝点什么吗？\n\n## 结构 (Structure)\n\n```\nInga problem,  |  vi  lagar  den  laktosfri.  |  Vill  ni  ha  något  att  dricka?\n没问题          |  我们 做   它   无乳糖的    |  想    你们 有  某些  去   喝\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-sammansatt-ord]] — *laktosfri*（laktos + fri）\n- 📌 [[grammar-modala-hjalpverb]] — *Vill ni ha*：情态动词 + 不定式\n- 📌 *att dricka* — 不定式用作形容词（某些可喝的东西）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[laktos]], [[dricka]]\n- 词组: [[inga-problem]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "B1",
+      "zh": "没问题，我们做成无乳糖的。想喝点什么吗？",
+      "created": "2026-06-15",
+      "sentence": "Inga problem, vi lagar den laktosfri. Vill ni ha något att dricka?",
+      "words": [
+        "laktos",
+        "dricka"
+      ],
+      "phrases": [
+        "inga-problem"
+      ],
+      "grammar": [
+        "grammar-sammansatt-ord",
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "grammar-adjektiv-kongruens",
+        "inga-problem",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ]
+    },
+    {
       "slug": "sent-ja-det-hanger-en-liten-svart-skylt",
       "type": "sentence",
       "title": "🇸🇪 Ja, det hänger en liten svart skylt utanför.",
@@ -8236,6 +9726,247 @@ window.KB_DATA = {
         "hänga",
         "skylt",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "sent-ja-gärna-ett-glas-rödvin-och-vatten",
+      "type": "sentence",
+      "title": "🇸🇪 Ja gärna, ett glas rödvin och ett glas vatten, tack.",
+      "path": "knowledge_base/sentences/sent-ja-gärna-ett-glas-rödvin-och-vatten.md",
+      "body": "# 🇸🇪 Ja gärna, ett glas rödvin och ett glas vatten, tack.\n\n🇨🇳 好的，一杯红酒和一杯水，谢谢。\n\n## 结构 (Structure)\n\n```\n[Ja gärna,] [ett glas rödvin] [och] [ett glas vatten] [tack]\n  愿意接受      数量短语（一杯红酒）  连词  数量短语（一杯水）  礼貌词\n```\n\n## 语法点 (Grammar)\n\n- *ett glas* = 一杯/一玻璃（ett-词的不定式用法）\n- *gärna* 表示\"乐意/好的\"，是礼貌接受的常用词\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[rödvin]] · [[glas]] · [[vatten]] · [[gärna]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Ja gärna, ett glas rödvin och ett glas vatten, tack. 🇨🇳 好的，一杯红酒和一杯水，谢谢。 结构 (Structure) [Ja gärna,] [ett glas rödvin] [och] [ett glas vatten] [tack] 愿意接受 数量短语（一杯红酒） 连词 数量短语（一杯水） 礼貌词 语法点 (Grammar) ett glas = 一杯/一玻璃（",
+      "forms": [],
+      "links": [
+        "gärna",
+        "glas",
+        "rödvin",
+        "source-2026-06-15-restaurang-middag",
+        "vatten"
+      ],
+      "searchText": "🇸🇪 Ja gärna, ett glas rödvin och ett glas vatten, tack. sent-ja-gärna-ett-glas-rödvin-och-vatten knowledge_base/sentences/sent-ja-gärna-ett-glas-rödvin-och-vatten.md ---\ntype: sentence\nsentence: \"Ja gärna, ett glas rödvin och ett glas vatten, tack.\"\nzh: \"好的，一杯红酒和一杯水，谢谢。\"\ncefr: \"A1\"\nwords:\n  - rödvin\n  - glas\n  - vatten\n  - gärna\nphrases: []\ngrammar: []\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ja gärna, ett glas rödvin och ett glas vatten, tack.\n\n🇨🇳 好的，一杯红酒和一杯水，谢谢。\n\n## 结构 (Structure)\n\n```\n[Ja gärna,] [ett glas rödvin] [och] [ett glas vatten] [tack]\n  愿意接受      数量短语（一杯红酒）  连词  数量短语（一杯水）  礼貌词\n```\n\n## 语法点 (Grammar)\n\n- *ett glas* = 一杯/一玻璃（ett-词的不定式用法）\n- *gärna* 表示\"乐意/好的\"，是礼貌接受的常用词\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[rödvin]] · [[glas]] · [[vatten]] · [[gärna]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A1",
+      "zh": "好的，一杯红酒和一杯水，谢谢。",
+      "created": "2026-06-15",
+      "sentence": "Ja gärna, ett glas rödvin och ett glas vatten, tack.",
+      "words": [
+        "rödvin",
+        "glas",
+        "vatten",
+        "gärna"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
+      "slug": "sent-ja-gärna-vad-har-ni-för",
+      "type": "sentence",
+      "title": "🇸🇪 Ja gärna. Vad har ni för efterrätt?",
+      "path": "knowledge_base/sentences/sent-ja-gärna-vad-har-ni-för.md",
+      "body": "# 🇸🇪 Ja gärna. Vad har ni för efterrätt?\n\n🇨🇳 好啊。你们有什么甜点？\n\n## 结构 (Structure)\n\n```\n[Ja gärna.] [Vad] [har] [ni] [för efterrätt?]\n  好啊        疑问词  动词   主语  介词+名词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时；V2 疑问语序\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[gärna]], [[efterrätt]]\n- 词组: [[vad-har-ni-för]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Ja gärna. Vad har ni för efterrätt? 🇨🇳 好啊。你们有什么甜点？ 结构 (Structure) [Ja gärna.] [Vad] [har] [ni] [för efterrätt?] 好啊 疑问词 动词 主语 介词+名词 语法点 (Grammar) 📌 grammar presens — har 现在时；V2 疑问语序 生词 & 词组 (Words & Phrases) 词: gä",
+      "forms": [],
+      "links": [
+        "efterrätt",
+        "gärna",
+        "grammar-presens",
+        "source-2026-06-15-restaurang-rekommendation",
+        "vad-har-ni-för"
+      ],
+      "searchText": "🇸🇪 Ja gärna. Vad har ni för efterrätt? sent-ja-gärna-vad-har-ni-för knowledge_base/sentences/sent-ja-gärna-vad-har-ni-för.md ---\ntype: sentence\nsentence: \"Ja gärna. Vad har ni för efterrätt?\"\nzh: \"好啊。你们有什么甜点？\"\ncefr: \"A2\"\nwords: [gärna, efterrätt, ha]\nphrases: [vad-har-ni-för]\ngrammar: [grammar-presens]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ja gärna. Vad har ni för efterrätt?\n\n🇨🇳 好啊。你们有什么甜点？\n\n## 结构 (Structure)\n\n```\n[Ja gärna.] [Vad] [har] [ni] [för efterrätt?]\n  好啊        疑问词  动词   主语  介词+名词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时；V2 疑问语序\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[gärna]], [[efterrätt]]\n- 词组: [[vad-har-ni-för]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "好啊。你们有什么甜点？",
+      "created": "2026-06-15",
+      "sentence": "Ja gärna. Vad har ni för efterrätt?",
+      "words": [
+        "gärna",
+        "efterrätt",
+        "ha"
+      ],
+      "phrases": [
+        "vad-har-ni-för"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "efterrätt",
+        "vad-har-ni-för"
+      ]
+    },
+    {
+      "slug": "sent-ja-jag-är-ensam-finns-det",
+      "type": "sentence",
+      "title": "🇸🇪 Ja, jag är ensam. Finns det något ledigt bord?",
+      "path": "knowledge_base/sentences/sent-ja-jag-är-ensam-finns-det.md",
+      "body": "# 🇸🇪 Ja, jag är ensam. Finns det något ledigt bord?\n\n🇨🇳 是的，就我一个人。还有空桌吗？\n\n## 结构 (Structure)\n\n```\n[Ja, jag är ensam.] [Finns det] [något] [ledigt] [bord?]\n  确认句              存在动词    疑问词   形容词    名词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är*, *finns* 均为现在时\n- 📌 [[grammar-det-finns]] — *finns det* 存在句型倒装疑问\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ensam]], [[vara]], [[finnas]], [[ledig]], [[bord]]\n- 词组: [[finns-det-något-ledigt-bord]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Ja, jag är ensam. Finns det något ledigt bord? 🇨🇳 是的，就我一个人。还有空桌吗？ 结构 (Structure) [Ja, jag är ensam.] [Finns det] [något] [ledigt] [bord?] 确认句 存在动词 疑问词 形容词 名词 语法点 (Grammar) 📌 grammar presens — är , finns 均为现在时 📌 ",
+      "forms": [],
+      "links": [
+        "bord",
+        "ensam",
+        "finnas",
+        "finns-det-något-ledigt-bord",
+        "grammar-det-finns",
+        "grammar-presens",
+        "ledig",
+        "source-2026-06-15-restaurang-rekommendation",
+        "vara"
+      ],
+      "searchText": "🇸🇪 Ja, jag är ensam. Finns det något ledigt bord? sent-ja-jag-är-ensam-finns-det knowledge_base/sentences/sent-ja-jag-är-ensam-finns-det.md ---\ntype: sentence\nsentence: \"Ja, jag är ensam. Finns det något ledigt bord?\"\nzh: \"是的，就我一个人。还有空桌吗？\"\ncefr: \"A2\"\nwords: [ensam, vara, finnas, ledig, bord]\nphrases: [finns-det-något-ledigt-bord]\ngrammar: [grammar-presens, grammar-det-finns]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ja, jag är ensam. Finns det något ledigt bord?\n\n🇨🇳 是的，就我一个人。还有空桌吗？\n\n## 结构 (Structure)\n\n```\n[Ja, jag är ensam.] [Finns det] [något] [ledigt] [bord?]\n  确认句              存在动词    疑问词   形容词    名词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *är*, *finns* 均为现在时\n- 📌 [[grammar-det-finns]] — *finns det* 存在句型倒装疑问\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ensam]], [[vara]], [[finnas]], [[ledig]], [[bord]]\n- 词组: [[finns-det-något-ledigt-bord]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "是的，就我一个人。还有空桌吗？",
+      "created": "2026-06-15",
+      "sentence": "Ja, jag är ensam. Finns det något ledigt bord?",
+      "words": [
+        "ensam",
+        "vara",
+        "finnas",
+        "ledig",
+        "bord"
+      ],
+      "phrases": [
+        "finns-det-något-ledigt-bord"
+      ],
+      "grammar": [
+        "grammar-presens",
+        "grammar-det-finns"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "finns-det-något-ledigt-bord"
+      ]
+    },
+    {
+      "slug": "sent-ja-vi-har-bokat-ett-bord-för-två",
+      "type": "sentence",
+      "title": "🇸🇪 Ja, vi har bokat ett bord för två, på namnet Lind.",
+      "path": "knowledge_base/sentences/sent-ja-vi-har-bokat-ett-bord-för-två.md",
+      "body": "# 🇸🇪 Ja, vi har bokat ett bord för två, på namnet Lind.\n\n🇨🇳 是的，我们订了一张两人桌，名字是 Lind。\n\n## 结构 (Structure)\n\n```\n[vi] [har bokat] [ett bord för två] [på namnet Lind]\n 主语  完成时动词      宾语（数量短语）     附加说明（名字）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har bokat*：完成时，表示过去完成的行为（已经预订了）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[boka]] · [[bord]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Ja, vi har bokat ett bord för två, på namnet Lind. 🇨🇳 是的，我们订了一张两人桌，名字是 Lind。 结构 (Structure) [vi] [har bokat] [ett bord för två] [på namnet Lind] 主语 完成时动词 宾语（数量短语） 附加说明（名字） 语法点 (Grammar) 📌 grammar perfekt — har bo",
+      "forms": [],
+      "links": [
+        "boka",
+        "bord",
+        "grammar-perfekt",
+        "source-2026-06-15-restaurang-middag"
+      ],
+      "searchText": "🇸🇪 Ja, vi har bokat ett bord för två, på namnet Lind. sent-ja-vi-har-bokat-ett-bord-för-två knowledge_base/sentences/sent-ja-vi-har-bokat-ett-bord-för-två.md ---\ntype: sentence\nsentence: \"Ja, vi har bokat ett bord för två, på namnet Lind.\"\nzh: \"是的，我们订了一张两人桌，名字是 Lind。\"\ncefr: \"A2\"\nwords:\n  - boka\n  - bord\nphrases: []\ngrammar:\n  - grammar-perfekt\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ja, vi har bokat ett bord för två, på namnet Lind.\n\n🇨🇳 是的，我们订了一张两人桌，名字是 Lind。\n\n## 结构 (Structure)\n\n```\n[vi] [har bokat] [ett bord för två] [på namnet Lind]\n 主语  完成时动词      宾语（数量短语）     附加说明（名字）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har bokat*：完成时，表示过去完成的行为（已经预订了）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[boka]] · [[bord]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A2",
+      "zh": "是的，我们订了一张两人桌，名字是 Lind。",
+      "created": "2026-06-15",
+      "sentence": "Ja, vi har bokat ett bord för två, på namnet Lind.",
+      "words": [
+        "boka",
+        "bord"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
+      "slug": "sent-ja-vi-har-en-fläskfilé",
+      "type": "sentence",
+      "title": "🇸🇪 Ja, vi har en fläskfilé med rostade grönsaker.",
+      "path": "knowledge_base/sentences/sent-ja-vi-har-en-fläskfilé.md",
+      "body": "# 🇸🇪 Ja, vi har en fläskfilé med rostade grönsaker.\n\n🇨🇳 有的，我们有一份煎猪柳配烤蔬菜。\n\n## 结构 (Structure)\n\n```\n[Ja,] [vi har] [en fläskfilé] [med] [rostade grönsaker.]\n  有    主+动    不定冠词+名词   介词   形容词+名词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n- 📌 [[grammar-adjektiv-kongruens]] — *rostade* 修饰 *grönsaker*（plural, definite/indefinite）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fläskfilé]], [[rostad]], [[grönsak]], [[vara]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Ja, vi har en fläskfilé med rostade grönsaker. 🇨🇳 有的，我们有一份煎猪柳配烤蔬菜。 结构 (Structure) [Ja,] [vi har] [en fläskfilé] [med] [rostade grönsaker.] 有 主+动 不定冠词+名词 介词 形容词+名词 语法点 (Grammar) 📌 grammar presens — har 现在时 📌 gram",
+      "forms": [],
+      "links": [
+        "fläskfilé",
+        "grammar-adjektiv-kongruens",
+        "grammar-presens",
+        "grönsak",
+        "rostad",
+        "source-2026-06-15-restaurang-rekommendation",
+        "vara"
+      ],
+      "searchText": "🇸🇪 Ja, vi har en fläskfilé med rostade grönsaker. sent-ja-vi-har-en-fläskfilé knowledge_base/sentences/sent-ja-vi-har-en-fläskfilé.md ---\ntype: sentence\nsentence: \"Ja, vi har en fläskfilé med rostade grönsaker.\"\nzh: \"有的，我们有一份煎猪柳配烤蔬菜。\"\ncefr: \"A2\"\nwords: [fläskfilé, rostad, grönsak, vara]\nphrases: []\ngrammar: [grammar-presens, grammar-adjektiv-kongruens]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ja, vi har en fläskfilé med rostade grönsaker.\n\n🇨🇳 有的，我们有一份煎猪柳配烤蔬菜。\n\n## 结构 (Structure)\n\n```\n[Ja,] [vi har] [en fläskfilé] [med] [rostade grönsaker.]\n  有    主+动    不定冠词+名词   介词   形容词+名词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n- 📌 [[grammar-adjektiv-kongruens]] — *rostade* 修饰 *grönsaker*（plural, definite/indefinite）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fläskfilé]], [[rostad]], [[grönsak]], [[vara]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "有的，我们有一份煎猪柳配烤蔬菜。",
+      "created": "2026-06-15",
+      "sentence": "Ja, vi har en fläskfilé med rostade grönsaker.",
+      "words": [
+        "fläskfilé",
+        "rostad",
+        "grönsak",
+        "vara"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-adjektiv-kongruens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "fläskfilé",
+        "grönsak",
+        "rostad"
+      ]
+    },
+    {
+      "slug": "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+      "type": "sentence",
+      "title": "🇸🇪 Förresten, jag är allergisk mot nötter — vad kan ni rekommendera?",
+      "path": "knowledge_base/sentences/sent-jag-är-allergisk-mot-nötter-vad-kan-ni.md",
+      "body": "# 🇸🇪 Förresten, jag är allergisk mot nötter — vad kan ni rekommendera?\n\n🇨🇳 对了，我对坚果过敏——你们有什么推荐？\n\n## 结构 (Structure)\n\n```\nFörresten, | jag  är  allergisk  mot  nötter | — | vad  kan  ni  rekommendera?\n插入语      | 主语 动  形容词    介词  宾语   |   | 疑问 情态  主  动词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *kan* 情态动词 + 不定式 *rekommendera*\n- 📌 *allergisk mot* — 固定介词搭配（不是 for / av）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förresten]], [[allergisk]], [[nöt]], [[rekommendera]]\n- 词组: [[jag-är-allergisk-mot]], [[vad-kan-ni-rekommendera]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Förresten, jag är allergisk mot nötter — vad kan ni rekommendera? 🇨🇳 对了，我对坚果过敏——你们有什么推荐？ 结构 (Structure) Förresten, jag är allergisk mot nötter — vad kan ni rekommendera? 插入语 主语 动 形容词 介词 宾语 疑问 情态 主 动词 语法点 (Grammar)",
+      "forms": [],
+      "links": [
+        "allergisk",
+        "förresten",
+        "grammar-modala-hjalpverb",
+        "jag-är-allergisk-mot",
+        "nöt",
+        "rekommendera",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "vad-kan-ni-rekommendera"
+      ],
+      "searchText": "🇸🇪 Förresten, jag är allergisk mot nötter — vad kan ni rekommendera? sent-jag-är-allergisk-mot-nötter-vad-kan-ni knowledge_base/sentences/sent-jag-är-allergisk-mot-nötter-vad-kan-ni.md ---\ntype: sentence\nsentence: \"Förresten, jag är allergisk mot nötter — vad kan ni rekommendera?\"\nzh: \"对了，我对坚果过敏——你们有什么推荐？\"\ncefr: \"B1\"\nwords:\n  - förresten\n  - allergisk\n  - nöt\n  - rekommendera\nphrases:\n  - jag-är-allergisk-mot\n  - vad-kan-ni-rekommendera\ngrammar:\n  - grammar-modala-hjalpverb\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Förresten, jag är allergisk mot nötter — vad kan ni rekommendera?\n\n🇨🇳 对了，我对坚果过敏——你们有什么推荐？\n\n## 结构 (Structure)\n\n```\nFörresten, | jag  är  allergisk  mot  nötter | — | vad  kan  ni  rekommendera?\n插入语      | 主语 动  形容词    介词  宾语   |   | 疑问 情态  主  动词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *kan* 情态动词 + 不定式 *rekommendera*\n- 📌 *allergisk mot* — 固定介词搭配（不是 for / av）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förresten]], [[allergisk]], [[nöt]], [[rekommendera]]\n- 词组: [[jag-är-allergisk-mot]], [[vad-kan-ni-rekommendera]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "B1",
+      "zh": "对了，我对坚果过敏——你们有什么推荐？",
+      "created": "2026-06-15",
+      "sentence": "Förresten, jag är allergisk mot nötter — vad kan ni rekommendera?",
+      "words": [
+        "förresten",
+        "allergisk",
+        "nöt",
+        "rekommendera"
+      ],
+      "phrases": [
+        "jag-är-allergisk-mot",
+        "vad-kan-ni-rekommendera"
+      ],
+      "grammar": [
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "grammar-modala-hjalpverb",
+        "jag-är-allergisk-mot",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "vad-kan-ni-rekommendera"
       ]
     },
     {
@@ -8540,6 +10271,76 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-jag-tar-köttbullar-med-potatismos",
+      "type": "sentence",
+      "title": "🇸🇪 Jag tar köttbullar med potatismos, och min fru vill ha den grillade laxen.",
+      "path": "knowledge_base/sentences/sent-jag-tar-köttbullar-med-potatismos.md",
+      "body": "# 🇸🇪 Jag tar köttbullar med potatismos, och min fru vill ha den grillade laxen.\n\n🇨🇳 我要肉丸配土豆泥，我太太想要那份烤三文鱼。\n\n## 结构 (Structure)\n\n```\n[Jag] [tar] [köttbullar med potatismos] [och] [min fru] [vill ha] [den grillade laxen]\n 主语  动词      宾语（菜肴组合）           连词     主语2     谓语2      宾语2（定式）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bestämd-form]] — *den grillade laxen*: 定语修饰 + 定式名词（*laxen*）\n- *köttbullar* — *köttbulle* 的复数形式（-ar结尾）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[köttbulle]] · [[potatismos]] · [[grillad]] · [[lax]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Jag tar köttbullar med potatismos, och min fru vill ha den grillade laxen. 🇨🇳 我要肉丸配土豆泥，我太太想要那份烤三文鱼。 结构 (Structure) [Jag] [tar] [köttbullar med potatismos] [och] [min fru] [vill ha] [den grillade laxen] 主语 动词 宾语（菜肴",
+      "forms": [],
+      "links": [
+        "grammar-bestämd-form",
+        "grillad",
+        "köttbulle",
+        "lax",
+        "potatismos",
+        "source-2026-06-15-restaurang-middag"
+      ],
+      "searchText": "🇸🇪 Jag tar köttbullar med potatismos, och min fru vill ha den grillade laxen. sent-jag-tar-köttbullar-med-potatismos knowledge_base/sentences/sent-jag-tar-köttbullar-med-potatismos.md ---\ntype: sentence\nsentence: \"Jag tar köttbullar med potatismos, och min fru vill ha den grillade laxen.\"\nzh: \"我要肉丸配土豆泥，我太太想要那份烤三文鱼。\"\ncefr: \"A2\"\nwords:\n  - köttbulle\n  - potatismos\n  - grillad\n  - lax\nphrases: []\ngrammar:\n  - grammar-bestämd-form\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Jag tar köttbullar med potatismos, och min fru vill ha den grillade laxen.\n\n🇨🇳 我要肉丸配土豆泥，我太太想要那份烤三文鱼。\n\n## 结构 (Structure)\n\n```\n[Jag] [tar] [köttbullar med potatismos] [och] [min fru] [vill ha] [den grillade laxen]\n 主语  动词      宾语（菜肴组合）           连词     主语2     谓语2      宾语2（定式）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bestämd-form]] — *den grillade laxen*: 定语修饰 + 定式名词（*laxen*）\n- *köttbullar* — *köttbulle* 的复数形式（-ar结尾）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[köttbulle]] · [[potatismos]] · [[grillad]] · [[lax]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A2",
+      "zh": "我要肉丸配土豆泥，我太太想要那份烤三文鱼。",
+      "created": "2026-06-15",
+      "sentence": "Jag tar köttbullar med potatismos, och min fru vill ha den grillade laxen.",
+      "words": [
+        "köttbulle",
+        "potatismos",
+        "grillad",
+        "lax"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-bestämd-form"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
+      "slug": "sent-jag-värmer-en-ny-åt-dig-direkt",
+      "type": "sentence",
+      "title": "🇸🇪 Oj, förlåt så mycket! Jag värmer en ny åt dig direkt.",
+      "path": "knowledge_base/sentences/sent-jag-värmer-en-ny-åt-dig-direkt.md",
+      "body": "# 🇸🇪 Oj, förlåt så mycket! Jag värmer en ny åt dig direkt.\n\n🇨🇳 哎呀，非常抱歉！我马上给你热一份新的。\n\n## 结构 (Structure)\n\n```\nOj,  förlåt  så  mycket!  |  Jag  värmer  en  ny  åt  dig  direkt.\n哎呀 抱歉    那么 多      |  我   热     一   新的 给  你   马上\n```\n\n## 语法点 (Grammar)\n\n- 📌 *åt dig* — 介词短语，表示受益者（\"给你\"）；*åt* 在此比 *till* 更自然\n- 📌 *direkt* — 副词\"马上，立刻\"\n- 📌 *förlåt så mycket* — 道歉固定表达（比 *förlåt* 更强烈，等同 \"I'm so sorry\"）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[värma]], [[ny]], [[direkt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Oj, förlåt så mycket! Jag värmer en ny åt dig direkt. 🇨🇳 哎呀，非常抱歉！我马上给你热一份新的。 结构 (Structure) Oj, förlåt så mycket! Jag värmer en ny åt dig direkt. 哎呀 抱歉 那么 多 我 热 一 新的 给 你 马上 语法点 (Grammar) 📌 åt dig — 介词短语，表示受益者（\"给你",
+      "forms": [],
+      "links": [
+        "direkt",
+        "ny",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "värma"
+      ],
+      "searchText": "🇸🇪 Oj, förlåt så mycket! Jag värmer en ny åt dig direkt. sent-jag-värmer-en-ny-åt-dig-direkt knowledge_base/sentences/sent-jag-värmer-en-ny-åt-dig-direkt.md ---\ntype: sentence\nsentence: \"Oj, förlåt så mycket! Jag värmer en ny åt dig direkt.\"\nzh: \"哎呀，非常抱歉！我马上给你热一份新的。\"\ncefr: \"A2\"\nwords:\n  - värma\n  - ny\n  - direkt\ngrammar: []\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Oj, förlåt så mycket! Jag värmer en ny åt dig direkt.\n\n🇨🇳 哎呀，非常抱歉！我马上给你热一份新的。\n\n## 结构 (Structure)\n\n```\nOj,  förlåt  så  mycket!  |  Jag  värmer  en  ny  åt  dig  direkt.\n哎呀 抱歉    那么 多      |  我   热     一   新的 给  你   马上\n```\n\n## 语法点 (Grammar)\n\n- 📌 *åt dig* — 介词短语，表示受益者（\"给你\"）；*åt* 在此比 *till* 更自然\n- 📌 *direkt* — 副词\"马上，立刻\"\n- 📌 *förlåt så mycket* — 道歉固定表达（比 *förlåt* 更强烈，等同 \"I'm so sorry\"）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[värma]], [[ny]], [[direkt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "A2",
+      "zh": "哎呀，非常抱歉！我马上给你热一份新的。",
+      "created": "2026-06-15",
+      "sentence": "Oj, förlåt så mycket! Jag värmer en ny åt dig direkt.",
+      "words": [
+        "värma",
+        "ny",
+        "direkt"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-allergi-nota"
+      ]
+    },
+    {
       "slug": "sent-just-da-markte-jag-att-min-planbok-var-borta",
       "type": "sentence",
       "title": "🇸🇈 Just då märkte jag att min plånbok var borta.",
@@ -8584,6 +10385,82 @@ window.KB_DATA = {
         "grammar-bisats-tidskonnektor",
         "just-då",
         "source-2026-06-09-en-handelse-i-tidsordning"
+      ]
+    },
+    {
+      "slug": "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
+      "type": "sentence",
+      "title": "🇸🇪 Min kompis tar kycklingen, men kan ni göra den utan grädde? Hon tål inte laktos.",
+      "path": "knowledge_base/sentences/sent-kan-ni-göra-den-utan-grädde-hon-tål-inte.md",
+      "body": "# 🇸🇪 Min kompis tar kycklingen, men kan ni göra den utan grädde? Hon tål inte laktos.\n\n🇨🇳 我朋友要鸡肉，但能做成不加奶油的吗？她不耐乳糖。\n\n## 结构 (Structure)\n\n```\nMin  kompis  tar  kycklingen  |  men  kan  ni  göra  den  utan  grädde?  |  Hon  tål  inte  laktos.\n我的 朋友    要   鸡肉        |  但   能   你们 做   它   不加  奶油     |  她   耐受 不    乳糖\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *kan ni göra*：情态动词 + 不定式\n- 📌 *utan* — 介词\"不含/不加\"（→ [[grammar-utan-vs-men]]：utan 表示\"没有\"，不是连词 men）\n- 📌 *tål inte* — *tåla* 的 presens 否定，表示不耐受\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kompis]], [[kyckling]], [[grädde]], [[tåla]], [[laktos]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Min kompis tar kycklingen, men kan ni göra den utan grädde? Hon tål inte laktos. 🇨🇳 我朋友要鸡肉，但能做成不加奶油的吗？她不耐乳糖。 结构 (Structure) Min kompis tar kycklingen men kan ni göra den utan grädde? Hon tål inte laktos. 我的 朋友 要 鸡",
+      "forms": [],
+      "links": [
+        "grädde",
+        "grammar-modala-hjalpverb",
+        "grammar-utan-vs-men",
+        "kompis",
+        "kyckling",
+        "laktos",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "tåla"
+      ],
+      "searchText": "🇸🇪 Min kompis tar kycklingen, men kan ni göra den utan grädde? Hon tål inte laktos. sent-kan-ni-göra-den-utan-grädde-hon-tål-inte knowledge_base/sentences/sent-kan-ni-göra-den-utan-grädde-hon-tål-inte.md ---\ntype: sentence\nsentence: \"Min kompis tar kycklingen, men kan ni göra den utan grädde? Hon tål inte laktos.\"\nzh: \"我朋友要鸡肉，但能做成不加奶油的吗？她不耐乳糖。\"\ncefr: \"B1\"\nwords:\n  - kompis\n  - kyckling\n  - grädde\n  - tåla\n  - laktos\nphrases:\n  - jag-är-allergisk-mot\ngrammar:\n  - grammar-modala-hjalpverb\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Min kompis tar kycklingen, men kan ni göra den utan grädde? Hon tål inte laktos.\n\n🇨🇳 我朋友要鸡肉，但能做成不加奶油的吗？她不耐乳糖。\n\n## 结构 (Structure)\n\n```\nMin  kompis  tar  kycklingen  |  men  kan  ni  göra  den  utan  grädde?  |  Hon  tål  inte  laktos.\n我的 朋友    要   鸡肉        |  但   能   你们 做   它   不加  奶油     |  她   耐受 不    乳糖\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *kan ni göra*：情态动词 + 不定式\n- 📌 *utan* — 介词\"不含/不加\"（→ [[grammar-utan-vs-men]]：utan 表示\"没有\"，不是连词 men）\n- 📌 *tål inte* — *tåla* 的 presens 否定，表示不耐受\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kompis]], [[kyckling]], [[grädde]], [[tåla]], [[laktos]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "B1",
+      "zh": "我朋友要鸡肉，但能做成不加奶油的吗？她不耐乳糖。",
+      "created": "2026-06-15",
+      "sentence": "Min kompis tar kycklingen, men kan ni göra den utan grädde? Hon tål inte laktos.",
+      "words": [
+        "kompis",
+        "kyckling",
+        "grädde",
+        "tåla",
+        "laktos"
+      ],
+      "phrases": [
+        "jag-är-allergisk-mot"
+      ],
+      "grammar": [
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-allergi-nota"
+      ]
+    },
+    {
+      "slug": "sent-kan-vi-få-menyn-tack",
+      "type": "sentence",
+      "title": "🇸🇪 Kan vi få menyn, tack?",
+      "path": "knowledge_base/sentences/sent-kan-vi-få-menyn-tack.md",
+      "body": "# 🇸🇪 Kan vi få menyn, tack?\n\n🇨🇳 可以给我们菜单吗？\n\n## 结构 (Structure)\n\n```\n[Kan] [vi] [få] [menyn] [tack] ?\n 情态  主语  动词  宾语(定式) 礼貌词\n```\n\n## 语法点 (Grammar)\n\n- *menyn* 是 *meny* 的定式单数（en-词加 -n），体现[[grammar-bestämd-form]]\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[meny]]\n- 词组: [[kan-jag-få]]（参考相关表达）\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Kan vi få menyn, tack? 🇨🇳 可以给我们菜单吗？ 结构 (Structure) [Kan] [vi] [få] [menyn] [tack] ? 情态 主语 动词 宾语(定式) 礼貌词 语法点 (Grammar) menyn 是 meny 的定式单数（en 词加 n），体现grammar bestämd form 生词 & 词组 (Words & Phrases) 词: meny 词组: kan ja",
+      "forms": [],
+      "links": [
+        "grammar-bestämd-form",
+        "kan-jag-få",
+        "meny",
+        "source-2026-06-15-restaurang-middag"
+      ],
+      "searchText": "🇸🇪 Kan vi få menyn, tack? sent-kan-vi-få-menyn-tack knowledge_base/sentences/sent-kan-vi-få-menyn-tack.md ---\ntype: sentence\nsentence: \"Kan vi få menyn, tack?\"\nzh: \"可以给我们菜单吗？\"\ncefr: \"A1\"\nwords:\n  - meny\nphrases:\n  - kan-jag-få\ngrammar: []\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Kan vi få menyn, tack?\n\n🇨🇳 可以给我们菜单吗？\n\n## 结构 (Structure)\n\n```\n[Kan] [vi] [få] [menyn] [tack] ?\n 情态  主语  动词  宾语(定式) 礼貌词\n```\n\n## 语法点 (Grammar)\n\n- *menyn* 是 *meny* 的定式单数（en-词加 -n），体现[[grammar-bestämd-form]]\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[meny]]\n- 词组: [[kan-jag-få]]（参考相关表达）\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A1",
+      "zh": "可以给我们菜单吗？",
+      "created": "2026-06-15",
+      "sentence": "Kan vi få menyn, tack?",
+      "words": [
+        "meny"
+      ],
+      "phrases": [
+        "kan-jag-få"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-middag"
       ]
     },
     {
@@ -8817,6 +10694,50 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
+      "type": "sentence",
+      "title": "🇸🇪 Ursäkta, min soppa är tyvärr kall. Kan jag få en ny?",
+      "path": "knowledge_base/sentences/sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny.md",
+      "body": "# 🇸🇪 Ursäkta, min soppa är tyvärr kall. Kan jag få en ny?\n\n🇨🇳 不好意思，我的汤可惜凉了。能换一份新的吗？\n\n## 结构 (Structure)\n\n```\nUrsäkta,  |  min  soppa  är  tyvärr  kall.  |  Kan  jag  få  en  ny?\n不好意思   |  我的  汤   是   可惜    凉的   |  能   我   得到 一  新的\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-adjektiv-bojning]] — *kall*（en-ord，obestämd）→ *ett kallt rum*，*det kalla vattnet*\n- 📌 *tyvärr* — 副词/satsadverbial，表示遗憾（\"可惜\"）→ [[grammar-satsadverbial]]\n- 📌 *kan jag få* — 礼貌请求句型 → [[grammar-modala-hjalpverb]]\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[soppa]], [[tyvärr]], [[kall]], [[ny]]\n- 词组: [[kan-jag-få]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Ursäkta, min soppa är tyvärr kall. Kan jag få en ny? 🇨🇳 不好意思，我的汤可惜凉了。能换一份新的吗？ 结构 (Structure) Ursäkta, min soppa är tyvärr kall. Kan jag få en ny? 不好意思 我的 汤 是 可惜 凉的 能 我 得到 一 新的 语法点 (Grammar) 📌 grammar adjektiv boj",
+      "forms": [],
+      "links": [
+        "grammar-adjektiv-bojning",
+        "grammar-modala-hjalpverb",
+        "grammar-satsadverbial",
+        "kall",
+        "kan-jag-få",
+        "ny",
+        "soppa",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "tyvärr"
+      ],
+      "searchText": "🇸🇪 Ursäkta, min soppa är tyvärr kall. Kan jag få en ny? sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny knowledge_base/sentences/sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny.md ---\ntype: sentence\nsentence: \"Ursäkta, min soppa är tyvärr kall. Kan jag få en ny?\"\nzh: \"不好意思，我的汤可惜凉了。能换一份新的吗？\"\ncefr: \"A2\"\nwords:\n  - soppa\n  - tyvärr\n  - kall\n  - ny\nphrases:\n  - kan-jag-få\ngrammar:\n  - grammar-adjektiv-bojning\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ursäkta, min soppa är tyvärr kall. Kan jag få en ny?\n\n🇨🇳 不好意思，我的汤可惜凉了。能换一份新的吗？\n\n## 结构 (Structure)\n\n```\nUrsäkta,  |  min  soppa  är  tyvärr  kall.  |  Kan  jag  få  en  ny?\n不好意思   |  我的  汤   是   可惜    凉的   |  能   我   得到 一  新的\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-adjektiv-bojning]] — *kall*（en-ord，obestämd）→ *ett kallt rum*，*det kalla vattnet*\n- 📌 *tyvärr* — 副词/satsadverbial，表示遗憾（\"可惜\"）→ [[grammar-satsadverbial]]\n- 📌 *kan jag få* — 礼貌请求句型 → [[grammar-modala-hjalpverb]]\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[soppa]], [[tyvärr]], [[kall]], [[ny]]\n- 词组: [[kan-jag-få]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "A2",
+      "zh": "不好意思，我的汤可惜凉了。能换一份新的吗？",
+      "created": "2026-06-15",
+      "sentence": "Ursäkta, min soppa är tyvärr kall. Kan jag få en ny?",
+      "words": [
+        "soppa",
+        "tyvärr",
+        "kall",
+        "ny"
+      ],
+      "phrases": [
+        "kan-jag-få"
+      ],
+      "grammar": [
+        "grammar-adjektiv-bojning"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "grammar-adjektiv-kongruens",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ]
+    },
+    {
       "slug": "sent-mitt-emot-parken-pa-andra-sidan-gatan-livsmedelsbutik",
       "type": "sentence",
       "title": "🇸🇪 Mitt emot parken, på andra sidan gatan, ligger en stor livsmedelsbutik.",
@@ -8990,6 +10911,45 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-09-beskriva-en-gata",
         "vid-busshållplatsen"
+      ]
+    },
+    {
+      "slug": "sent-nej-tack-det-räcker-bra-men-notan",
+      "type": "sentence",
+      "title": "🇸🇪 Nej tack, det räcker bra. Men kan vi få notan när vi är klara?",
+      "path": "knowledge_base/sentences/sent-nej-tack-det-räcker-bra-men-notan.md",
+      "body": "# 🇸🇪 Nej tack, det räcker bra. Men kan vi få notan när vi är klara?\n\n🇨🇳 不用了，谢谢，这样就够了。不过我们吃完后能拿到账单吗？\n\n## 结构 (Structure)\n\n```\n[Nej tack, det räcker bra.] [Men] [kan vi få] [notan] [när vi är klara] ?\n    拒绝表达（已够了）          转折   情态请求动词  定式宾语   时间从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bestämd-form]] — *notan* = *nota* 的定式单数（en-词加 -n）\n- *det räcker bra* — 固定表达\"这样就够了\"（参考 [[det-räcker-bra-så]]）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[nota]]\n- 词组: [[det-räcker-bra-så]] · [[kan-vi-få-notan]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Nej tack, det räcker bra. Men kan vi få notan när vi är klara? 🇨🇳 不用了，谢谢，这样就够了。不过我们吃完后能拿到账单吗？ 结构 (Structure) [Nej tack, det räcker bra.] [Men] [kan vi få] [notan] [när vi är klara] ? 拒绝表达（已够了） 转折 情态请求动词 定式宾语 时间从句 ",
+      "forms": [],
+      "links": [
+        "det-räcker-bra-så",
+        "grammar-bestämd-form",
+        "kan-vi-få-notan",
+        "nota",
+        "source-2026-06-15-restaurang-middag"
+      ],
+      "searchText": "🇸🇪 Nej tack, det räcker bra. Men kan vi få notan när vi är klara? sent-nej-tack-det-räcker-bra-men-notan knowledge_base/sentences/sent-nej-tack-det-räcker-bra-men-notan.md ---\ntype: sentence\nsentence: \"Nej tack, det räcker bra. Men kan vi få notan när vi är klara?\"\nzh: \"不用了，谢谢，这样就够了。不过我们吃完后能拿到账单吗？\"\ncefr: \"A2\"\nwords:\n  - nota\nphrases:\n  - det-räcker-bra-så\n  - kan-vi-få-notan\ngrammar:\n  - grammar-bestämd-form\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\n  - topic-betalning\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Nej tack, det räcker bra. Men kan vi få notan när vi är klara?\n\n🇨🇳 不用了，谢谢，这样就够了。不过我们吃完后能拿到账单吗？\n\n## 结构 (Structure)\n\n```\n[Nej tack, det räcker bra.] [Men] [kan vi få] [notan] [när vi är klara] ?\n    拒绝表达（已够了）          转折   情态请求动词  定式宾语   时间从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bestämd-form]] — *notan* = *nota* 的定式单数（en-词加 -n）\n- *det räcker bra* — 固定表达\"这样就够了\"（参考 [[det-räcker-bra-så]]）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[nota]]\n- 词组: [[det-räcker-bra-så]] · [[kan-vi-få-notan]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A2",
+      "zh": "不用了，谢谢，这样就够了。不过我们吃完后能拿到账单吗？",
+      "created": "2026-06-15",
+      "sentence": "Nej tack, det räcker bra. Men kan vi få notan när vi är klara?",
+      "words": [
+        "nota"
+      ],
+      "phrases": [
+        "det-räcker-bra-så",
+        "kan-vi-få-notan"
+      ],
+      "grammar": [
+        "grammar-bestämd-form"
+      ],
+      "topics": [
+        "topic-mat-dryck",
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "kan-vi-få-notan",
+        "source-2026-06-15-restaurang-middag"
       ]
     },
     {
@@ -9409,6 +11369,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-perfekt-det-stämmer-följ-med-mig",
+      "type": "sentence",
+      "title": "🇸🇪 Perfekt, det stämmer. Följ med mig, så visar jag er till bordet.",
+      "path": "knowledge_base/sentences/sent-perfekt-det-stämmer-följ-med-mig.md",
+      "body": "# 🇸🇪 Perfekt, det stämmer. Följ med mig, så visar jag er till bordet.\n\n🇨🇳 好的，没错。请跟我来，我带你们到座位。\n\n## 结构 (Structure)\n\n```\n[Perfekt, det stämmer.]  [Följ med mig,] [så visar jag er] [till bordet]\n  确认语                    祈使句命令        so-结果从句         目的地（定式）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-imperativ]] — *Följ* 是动词 *följa* 的祈使句形式\n- 📌 [[grammar-bestämd-form]] — *bordet* = *bord* 的定式（ett-词加 -et）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bord]]\n- 词组: [[följ-med-mig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Perfekt, det stämmer. Följ med mig, så visar jag er till bordet. 🇨🇳 好的，没错。请跟我来，我带你们到座位。 结构 (Structure) [Perfekt, det stämmer.] [Följ med mig,] [så visar jag er] [till bordet] 确认语 祈使句命令 so 结果从句 目的地（定式） 语法点 (Grammar",
+      "forms": [],
+      "links": [
+        "bord",
+        "följ-med-mig",
+        "grammar-bestämd-form",
+        "grammar-imperativ",
+        "source-2026-06-15-restaurang-middag"
+      ],
+      "searchText": "🇸🇪 Perfekt, det stämmer. Följ med mig, så visar jag er till bordet. sent-perfekt-det-stämmer-följ-med-mig knowledge_base/sentences/sent-perfekt-det-stämmer-följ-med-mig.md ---\ntype: sentence\nsentence: \"Perfekt, det stämmer. Följ med mig, så visar jag er till bordet.\"\nzh: \"好的，没错。请跟我来，我带你们到座位。\"\ncefr: \"A2\"\nwords:\n  - bord\nphrases:\n  - följ-med-mig\ngrammar:\n  - grammar-imperativ\n  - grammar-bestämd-form\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Perfekt, det stämmer. Följ med mig, så visar jag er till bordet.\n\n🇨🇳 好的，没错。请跟我来，我带你们到座位。\n\n## 结构 (Structure)\n\n```\n[Perfekt, det stämmer.]  [Följ med mig,] [så visar jag er] [till bordet]\n  确认语                    祈使句命令        so-结果从句         目的地（定式）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-imperativ]] — *Följ* 是动词 *följa* 的祈使句形式\n- 📌 [[grammar-bestämd-form]] — *bordet* = *bord* 的定式（ett-词加 -et）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bord]]\n- 词组: [[följ-med-mig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A2",
+      "zh": "好的，没错。请跟我来，我带你们到座位。",
+      "created": "2026-06-15",
+      "sentence": "Perfekt, det stämmer. Följ med mig, så visar jag er till bordet.",
+      "words": [
+        "bord"
+      ],
+      "phrases": [
+        "följ-med-mig"
+      ],
+      "grammar": [
+        "grammar-imperativ",
+        "grammar-bestämd-form"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "följ-med-mig",
+        "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
       "slug": "sent-plotsligt-kande-jag-mig-valdigt-orolig",
       "type": "sentence",
       "title": "🇸🇈 Plötsligt kände jag mig väldigt orolig.",
@@ -9696,6 +11694,121 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-självklart-du-kan-betala-här-vid",
+      "type": "sentence",
+      "title": "🇸🇪 Självklart, du kan betala här vid bordet. Tack och välkommen åter!",
+      "path": "knowledge_base/sentences/sent-självklart-du-kan-betala-här-vid.md",
+      "body": "# 🇸🇪 Självklart, du kan betala här vid bordet. Tack och välkommen åter!\n\n🇨🇳 当然，您可以在桌边付款。谢谢，欢迎下次再来！\n\n## 结构 (Structure)\n\n```\n[Självklart,] [du kan betala] [här vid bordet.] [Tack och välkommen åter!]\n  当然           主+情态+动词    地点状语             告别问候语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *kan* + 动词原形 *betala*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[betala]], [[bord]]\n- 词组: [[välkommen-åter]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Självklart, du kan betala här vid bordet. Tack och välkommen åter! 🇨🇳 当然，您可以在桌边付款。谢谢，欢迎下次再来！ 结构 (Structure) [Självklart,] [du kan betala] [här vid bordet.] [Tack och välkommen åter!] 当然 主+情态+动词 地点状语 告别问候语 语法点 (Gra",
+      "forms": [],
+      "links": [
+        "betala",
+        "bord",
+        "grammar-modala-hjalpverb",
+        "source-2026-06-15-restaurang-rekommendation",
+        "välkommen-åter"
+      ],
+      "searchText": "🇸🇪 Självklart, du kan betala här vid bordet. Tack och välkommen åter! sent-självklart-du-kan-betala-här-vid knowledge_base/sentences/sent-självklart-du-kan-betala-här-vid.md ---\ntype: sentence\nsentence: \"Självklart, du kan betala här vid bordet. Tack och välkommen åter!\"\nzh: \"当然，您可以在桌边付款。谢谢，欢迎下次再来！\"\ncefr: \"A2\"\nwords: [betala, bord, vara]\nphrases: [välkommen-åter, tack-så-mycket]\ngrammar: [grammar-modala-hjalpverb]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck, topic-betalning]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Självklart, du kan betala här vid bordet. Tack och välkommen åter!\n\n🇨🇳 当然，您可以在桌边付款。谢谢，欢迎下次再来！\n\n## 结构 (Structure)\n\n```\n[Självklart,] [du kan betala] [här vid bordet.] [Tack och välkommen åter!]\n  当然           主+情态+动词    地点状语             告别问候语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *kan* + 动词原形 *betala*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[betala]], [[bord]]\n- 词组: [[välkommen-åter]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "当然，您可以在桌边付款。谢谢，欢迎下次再来！",
+      "created": "2026-06-15",
+      "sentence": "Självklart, du kan betala här vid bordet. Tack och välkommen åter!",
+      "words": [
+        "betala",
+        "bord",
+        "vara"
+      ],
+      "phrases": [
+        "välkommen-åter",
+        "tack-så-mycket"
+      ],
+      "grammar": [
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [
+        "topic-mat-dryck",
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "välkommen-åter"
+      ]
+    },
+    {
+      "slug": "sent-självklart-varsågod-vill-ni-beställa",
+      "type": "sentence",
+      "title": "🇸🇪 Självklart, varsågod. Vill ni beställa något att dricka först?",
+      "path": "knowledge_base/sentences/sent-självklart-varsågod-vill-ni-beställa.md",
+      "body": "# 🇸🇪 Självklart, varsågod. Vill ni beställa något att dricka först?\n\n🇨🇳 当然，请看。要先点点喝的吗？\n\n## 结构 (Structure)\n\n```\n[Självklart, varsågod.]  [Vill ni] [beställa] [något att dricka] [först]?\n   确认+递上                情态+主语   动词         不定式短语          副词\n```\n\n## 语法点 (Grammar)\n\n- *något att dricka* — 不定式 *att* + 动词结构表示\"某种可以喝的东西\"\n- *självklart* — \"当然/自然\"，常见对话回应词\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[beställa]] · [[dricka]]\n- 词组: [[varsågod]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Självklart, varsågod. Vill ni beställa något att dricka först? 🇨🇳 当然，请看。要先点点喝的吗？ 结构 (Structure) [Självklart, varsågod.] [Vill ni] [beställa] [något att dricka] [först]? 确认+递上 情态+主语 动词 不定式短语 副词 语法点 (Grammar) något ",
+      "forms": [],
+      "links": [
+        "beställa",
+        "dricka",
+        "source-2026-06-15-restaurang-middag",
+        "varsågod"
+      ],
+      "searchText": "🇸🇪 Självklart, varsågod. Vill ni beställa något att dricka först? sent-självklart-varsågod-vill-ni-beställa knowledge_base/sentences/sent-självklart-varsågod-vill-ni-beställa.md ---\ntype: sentence\nsentence: \"Självklart, varsågod. Vill ni beställa något att dricka först?\"\nzh: \"当然，请看。要先点点喝的吗？\"\ncefr: \"A2\"\nwords:\n  - beställa\n  - dricka\nphrases:\n  - varsågod\ngrammar: []\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Självklart, varsågod. Vill ni beställa något att dricka först?\n\n🇨🇳 当然，请看。要先点点喝的吗？\n\n## 结构 (Structure)\n\n```\n[Självklart, varsågod.]  [Vill ni] [beställa] [något att dricka] [först]?\n   确认+递上                情态+主语   动词         不定式短语          副词\n```\n\n## 语法点 (Grammar)\n\n- *något att dricka* — 不定式 *att* + 动词结构表示\"某种可以喝的东西\"\n- *självklart* — \"当然/自然\"，常见对话回应词\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[beställa]] · [[dricka]]\n- 词组: [[varsågod]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A2",
+      "zh": "当然，请看。要先点点喝的吗？",
+      "created": "2026-06-15",
+      "sentence": "Självklart, varsågod. Vill ni beställa något att dricka först?",
+      "words": [
+        "beställa",
+        "dricka"
+      ],
+      "phrases": [
+        "varsågod"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
+      "slug": "sent-skulle-vi-vilja-betala-dela-på-notan",
+      "type": "sentence",
+      "title": "🇸🇪 Sen skulle vi vilja betala — kan vi dela på notan?",
+      "path": "knowledge_base/sentences/sent-skulle-vi-vilja-betala-dela-på-notan.md",
+      "body": "# 🇸🇪 Sen skulle vi vilja betala — kan vi dela på notan?\n\n🇨🇳 然后我们想买单——可以分开付吗？\n\n## 结构 (Structure)\n\n```\nSen  |  skulle  vi  vilja  betala  |  —  |  kan  vi  dela  på  notan?\n然后 |  条件   我们  想要  付钱   |     |  能   我们 分   在  账单上\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *skulle vilja betala*（礼貌链：条件情态 + vilja + 不定式）\n- 📌 *skulle vilja* — 比 *vill* 更礼貌的请求形式（条件语气）→ [[grammar-konditionalis]]\n- 📌 *dela på* — partikelverb \"分摊/分开付\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[betala]], [[nota]]\n- 词组: [[kan-vi-dela-på-notan]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Sen skulle vi vilja betala — kan vi dela på notan? 🇨🇳 然后我们想买单——可以分开付吗？ 结构 (Structure) Sen skulle vi vilja betala — kan vi dela på notan? 然后 条件 我们 想要 付钱 能 我们 分 在 账单上 语法点 (Grammar) 📌 grammar modala hjalpverb — skul",
+      "forms": [],
+      "links": [
+        "betala",
+        "grammar-konditionalis",
+        "grammar-modala-hjalpverb",
+        "kan-vi-dela-på-notan",
+        "nota",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ],
+      "searchText": "🇸🇪 Sen skulle vi vilja betala — kan vi dela på notan? sent-skulle-vi-vilja-betala-dela-på-notan knowledge_base/sentences/sent-skulle-vi-vilja-betala-dela-på-notan.md ---\ntype: sentence\nsentence: \"Sen skulle vi vilja betala — kan vi dela på notan?\"\nzh: \"然后我们想买单——可以分开付吗？\"\ncefr: \"B1\"\nwords:\n  - betala\n  - nota\nphrases:\n  - kan-vi-dela-på-notan\ngrammar:\n  - grammar-modala-hjalpverb\n  - grammar-konditionalis\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-betalning\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Sen skulle vi vilja betala — kan vi dela på notan?\n\n🇨🇳 然后我们想买单——可以分开付吗？\n\n## 结构 (Structure)\n\n```\nSen  |  skulle  vi  vilja  betala  |  —  |  kan  vi  dela  på  notan?\n然后 |  条件   我们  想要  付钱   |     |  能   我们 分   在  账单上\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *skulle vilja betala*（礼貌链：条件情态 + vilja + 不定式）\n- 📌 *skulle vilja* — 比 *vill* 更礼貌的请求形式（条件语气）→ [[grammar-konditionalis]]\n- 📌 *dela på* — partikelverb \"分摊/分开付\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[betala]], [[nota]]\n- 词组: [[kan-vi-dela-på-notan]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "B1",
+      "zh": "然后我们想买单——可以分开付吗？",
+      "created": "2026-06-15",
+      "sentence": "Sen skulle vi vilja betala — kan vi dela på notan?",
+      "words": [
+        "betala",
+        "nota"
+      ],
+      "phrases": [
+        "kan-vi-dela-på-notan"
+      ],
+      "grammar": [
+        "grammar-modala-hjalpverb",
+        "grammar-konditionalis"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "grammar-modala-hjalpverb",
+        "kan-vi-dela-på-notan",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ]
+    },
+    {
       "slug": "sent-skynda-dig-lite",
       "type": "sentence",
       "title": "🇸🇪 Skynda dig lite.",
@@ -9859,6 +11972,101 @@ window.KB_DATA = {
         "linje",
         "source-2026-06-03-fraga-vagen-pub",
         "tunnelbana"
+      ]
+    },
+    {
+      "slug": "sent-tack-så-mycket-restaurang",
+      "type": "sentence",
+      "title": "🇸🇪 Tack så mycket!",
+      "path": "knowledge_base/sentences/sent-tack-så-mycket-restaurang.md",
+      "body": "# 🇸🇪 Tack så mycket!\n\n🇨🇳 非常感谢！\n\n## 结构 (Structure)\n\n```\n[Tack] [så mycket] !\n  谢谢   非常/很多（强调）\n```\n\n## 语法点 (Grammar)\n\n- 固定感谢表达，*tack* = 谢谢，*så mycket* = 非常多（强调程度）。\n- 比单独的 *tack* 更强烈的感谢。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[tack-så-mycket]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Tack så mycket! 🇨🇳 非常感谢！ 结构 (Structure) [Tack] [så mycket] ! 谢谢 非常/很多（强调） 语法点 (Grammar) 固定感谢表达， tack = 谢谢， så mycket = 非常多（强调程度）。 比单独的 tack 更强烈的感谢。 生词 & 词组 (Words & Phrases) 词组: tack så mycket 来源 (Source) source 2",
+      "forms": [],
+      "links": [
+        "source-2026-06-15-restaurang-middag",
+        "tack-så-mycket"
+      ],
+      "searchText": "🇸🇪 Tack så mycket! sent-tack-så-mycket-restaurang knowledge_base/sentences/sent-tack-så-mycket-restaurang.md ---\ntype: sentence\nsentence: \"Tack så mycket!\"\nzh: \"非常感谢！\"\ncefr: \"A1\"\nwords: []\nphrases:\n  - tack-så-mycket\ngrammar: []\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Tack så mycket!\n\n🇨🇳 非常感谢！\n\n## 结构 (Structure)\n\n```\n[Tack] [så mycket] !\n  谢谢   非常/很多（强调）\n```\n\n## 语法点 (Grammar)\n\n- 固定感谢表达，*tack* = 谢谢，*så mycket* = 非常多（强调程度）。\n- 比单独的 *tack* 更强烈的感谢。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[tack-så-mycket]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A1",
+      "zh": "非常感谢！",
+      "created": "2026-06-15",
+      "sentence": "Tack så mycket!",
+      "words": [],
+      "phrases": [
+        "tack-så-mycket"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
+      "slug": "sent-tack-så-mycket-vad-rekommenderar-ni",
+      "type": "sentence",
+      "title": "🇸🇪 Tack så mycket! Vad rekommenderar ni ikväll?",
+      "path": "knowledge_base/sentences/sent-tack-så-mycket-vad-rekommenderar-ni.md",
+      "body": "# 🇸🇪 Tack så mycket! Vad rekommenderar ni ikväll?\n\n🇨🇳 非常感谢！今晚您推荐什么？\n\n## 结构 (Structure)\n\n```\n[Tack så mycket!] [Vad] [rekommenderar] [ni] [ikväll?]\n  谢谢              疑问词  动词(V2)        主语  时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *rekommenderar* 现在时，V2 语序（*vad* 前置后动词倒序）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[rekommendera]]\n- 词组: [[tack-så-mycket]], [[vad-rekommenderar-ni]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Tack så mycket! Vad rekommenderar ni ikväll? 🇨🇳 非常感谢！今晚您推荐什么？ 结构 (Structure) [Tack så mycket!] [Vad] [rekommenderar] [ni] [ikväll?] 谢谢 疑问词 动词(V2) 主语 时间状语 语法点 (Grammar) 📌 grammar presens — rekommenderar 现在时，V2 语序（",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "rekommendera",
+        "source-2026-06-15-restaurang-rekommendation",
+        "tack-så-mycket",
+        "vad-rekommenderar-ni"
+      ],
+      "searchText": "🇸🇪 Tack så mycket! Vad rekommenderar ni ikväll? sent-tack-så-mycket-vad-rekommenderar-ni knowledge_base/sentences/sent-tack-så-mycket-vad-rekommenderar-ni.md ---\ntype: sentence\nsentence: \"Tack så mycket! Vad rekommenderar ni ikväll?\"\nzh: \"非常感谢！今晚您推荐什么？\"\ncefr: \"A2\"\nwords: [rekommendera, vara]\nphrases: [tack-så-mycket, vad-rekommenderar-ni]\ngrammar: [grammar-presens]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Tack så mycket! Vad rekommenderar ni ikväll?\n\n🇨🇳 非常感谢！今晚您推荐什么？\n\n## 结构 (Structure)\n\n```\n[Tack så mycket!] [Vad] [rekommenderar] [ni] [ikväll?]\n  谢谢              疑问词  动词(V2)        主语  时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *rekommenderar* 现在时，V2 语序（*vad* 前置后动词倒序）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[rekommendera]]\n- 词组: [[tack-så-mycket]], [[vad-rekommenderar-ni]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "非常感谢！今晚您推荐什么？",
+      "created": "2026-06-15",
+      "sentence": "Tack så mycket! Vad rekommenderar ni ikväll?",
+      "words": [
+        "rekommendera",
+        "vara"
+      ],
+      "phrases": [
+        "tack-så-mycket",
+        "vad-rekommenderar-ni"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "vad-rekommenderar-ni"
+      ]
+    },
+    {
+      "slug": "sent-tack-själva-varmt-välkomna-åter",
+      "type": "sentence",
+      "title": "🇸🇪 Tack själva, varmt välkomna åter!",
+      "path": "knowledge_base/sentences/sent-tack-själva-varmt-välkomna-åter.md",
+      "body": "# 🇸🇪 Tack själva, varmt välkomna åter!\n\n🇨🇳 谢谢你们，欢迎再来！\n\n## 结构 (Structure)\n\n```\nTack  själva,  |  varmt  välkomna  åter!\n谢谢  你们自己  |  热情地  欢迎    再次\n```\n\n## 语法点 (Grammar)\n\n- 📌 *tack själva* — 固定回应\"也谢谢你们\"（互谢）；*själva* = 复数强调代词\n- 📌 *varmt välkomna* — *varmt* 副词修饰 *välkomna*（热情欢迎）\n- 📌 *åter* — 副词\"再次，又\"（比 *igen* 稍正式）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[välkomna]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Tack själva, varmt välkomna åter! 🇨🇳 谢谢你们，欢迎再来！ 结构 (Structure) Tack själva, varmt välkomna åter! 谢谢 你们自己 热情地 欢迎 再次 语法点 (Grammar) 📌 tack själva — 固定回应\"也谢谢你们\"（互谢）； själva = 复数强调代词 📌 varmt välkomna — varmt 副词修饰 väl",
+      "forms": [],
+      "links": [
+        "source-2026-06-15-restaurang-allergi-nota",
+        "välkomna"
+      ],
+      "searchText": "🇸🇪 Tack själva, varmt välkomna åter! sent-tack-själva-varmt-välkomna-åter knowledge_base/sentences/sent-tack-själva-varmt-välkomna-åter.md ---\ntype: sentence\nsentence: \"Tack själva, varmt välkomna åter!\"\nzh: \"谢谢你们，欢迎再来！\"\ncefr: \"A2\"\nwords:\n  - välkomna\ngrammar: []\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Tack själva, varmt välkomna åter!\n\n🇨🇳 谢谢你们，欢迎再来！\n\n## 结构 (Structure)\n\n```\nTack  själva,  |  varmt  välkomna  åter!\n谢谢  你们自己  |  热情地  欢迎    再次\n```\n\n## 语法点 (Grammar)\n\n- 📌 *tack själva* — 固定回应\"也谢谢你们\"（互谢）；*själva* = 复数强调代词\n- 📌 *varmt välkomna* — *varmt* 副词修饰 *välkomna*（热情欢迎）\n- 📌 *åter* — 副词\"再次，又\"（比 *igen* 稍正式）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[välkomna]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "A2",
+      "zh": "谢谢你们，欢迎再来！",
+      "created": "2026-06-15",
+      "sentence": "Tack själva, varmt välkomna åter!",
+      "words": [
+        "välkomna"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-allergi-nota"
       ]
     },
     {
@@ -10091,6 +12299,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-två-glas-vatten-räcker-tack",
+      "type": "sentence",
+      "title": "🇸🇪 Två glas vatten räcker, tack.",
+      "path": "knowledge_base/sentences/sent-två-glas-vatten-räcker-tack.md",
+      "body": "# 🇸🇪 Två glas vatten räcker, tack.\n\n🇨🇳 两杯水就够了，谢谢。\n\n## 结构 (Structure)\n\n```\nTvå  glas  vatten  räcker,  tack.\n两   杯    水      够了     谢谢\n```\n\n## 语法点 (Grammar)\n\n- 📌 *räcker* — 动词 *räcka*（够，足够）presens；主语是 *två glas vatten*\n- 📌 量词结构：*två glas* = 两杯（glas 既是\"杯子\"也是\"玻璃\"）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[glas]], [[vatten]]\n- 词组: [[det-räcker-bra-så]]（相关）\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Två glas vatten räcker, tack. 🇨🇳 两杯水就够了，谢谢。 结构 (Structure) Två glas vatten räcker, tack. 两 杯 水 够了 谢谢 语法点 (Grammar) 📌 räcker — 动词 räcka （够，足够）presens；主语是 två glas vatten 📌 量词结构： två glas = 两杯（glas 既是\"杯子\"也是\"玻璃\"） 生",
+      "forms": [],
+      "links": [
+        "det-räcker-bra-så",
+        "glas",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "vatten"
+      ],
+      "searchText": "🇸🇪 Två glas vatten räcker, tack. sent-två-glas-vatten-räcker-tack knowledge_base/sentences/sent-två-glas-vatten-räcker-tack.md ---\ntype: sentence\nsentence: \"Två glas vatten räcker, tack.\"\nzh: \"两杯水就够了，谢谢。\"\ncefr: \"A2\"\nwords:\n  - glas\n  - vatten\nphrases:\n  - det-räcker-bra-så\ngrammar: []\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Två glas vatten räcker, tack.\n\n🇨🇳 两杯水就够了，谢谢。\n\n## 结构 (Structure)\n\n```\nTvå  glas  vatten  räcker,  tack.\n两   杯    水      够了     谢谢\n```\n\n## 语法点 (Grammar)\n\n- 📌 *räcker* — 动词 *räcka*（够，足够）presens；主语是 *två glas vatten*\n- 📌 量词结构：*två glas* = 两杯（glas 既是\"杯子\"也是\"玻璃\"）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[glas]], [[vatten]]\n- 词组: [[det-räcker-bra-så]]（相关）\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "A2",
+      "zh": "两杯水就够了，谢谢。",
+      "created": "2026-06-15",
+      "sentence": "Två glas vatten räcker, tack.",
+      "words": [
+        "glas",
+        "vatten"
+      ],
+      "phrases": [
+        "det-räcker-bra-så"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-15-restaurang-allergi-nota"
+      ]
+    },
+    {
       "slug": "sent-under-fonster-finns-ett-element",
       "type": "sentence",
       "title": "🇸🇈 Under fönstret finns ett element.",
@@ -10225,6 +12467,70 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-utmärkt-jag-kommer-strax-med-beställning",
+      "type": "sentence",
+      "title": "🇸🇪 Utmärkt. Jag kommer strax med din beställning.",
+      "path": "knowledge_base/sentences/sent-utmärkt-jag-kommer-strax-med-beställning.md",
+      "body": "# 🇸🇪 Utmärkt. Jag kommer strax med din beställning.\n\n🇨🇳 好极了。我马上把您点的菜端来。\n\n## 结构 (Structure)\n\n```\n[Utmärkt.] [Jag] [kommer] [strax] [med din beställning.]\n  好极了     主语   动词      立刻    介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *kommer* 现在时（在此表示近将来\"马上就来\"）\n- *beställning* = 订单/预定；*din beställning* = 您点的菜\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[beställa]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Utmärkt. Jag kommer strax med din beställning. 🇨🇳 好极了。我马上把您点的菜端来。 结构 (Structure) [Utmärkt.] [Jag] [kommer] [strax] [med din beställning.] 好极了 主语 动词 立刻 介词短语 语法点 (Grammar) 📌 grammar presens — kommer 现在时（在此表示近将来\"马上就",
+      "forms": [],
+      "links": [
+        "beställa",
+        "grammar-presens",
+        "source-2026-06-15-restaurang-rekommendation"
+      ],
+      "searchText": "🇸🇪 Utmärkt. Jag kommer strax med din beställning. sent-utmärkt-jag-kommer-strax-med-beställning knowledge_base/sentences/sent-utmärkt-jag-kommer-strax-med-beställning.md ---\ntype: sentence\nsentence: \"Utmärkt. Jag kommer strax med din beställning.\"\nzh: \"好极了。我马上把您点的菜端来。\"\ncefr: \"A2\"\nwords: [beställa, vara, komma]\nphrases: []\ngrammar: [grammar-presens]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Utmärkt. Jag kommer strax med din beställning.\n\n🇨🇳 好极了。我马上把您点的菜端来。\n\n## 结构 (Structure)\n\n```\n[Utmärkt.] [Jag] [kommer] [strax] [med din beställning.]\n  好极了     主语   动词      立刻    介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *kommer* 现在时（在此表示近将来\"马上就来\"）\n- *beställning* = 订单/预定；*din beställning* = 您点的菜\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[beställa]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "好极了。我马上把您点的菜端来。",
+      "created": "2026-06-15",
+      "sentence": "Utmärkt. Jag kommer strax med din beställning.",
+      "words": [
+        "beställa",
+        "vara",
+        "komma"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-utmärkt-val-vill-ni-ha-förrätt",
+      "type": "sentence",
+      "title": "🇸🇪 Utmärkt val. Vill ni ha någon förrätt också?",
+      "path": "knowledge_base/sentences/sent-utmärkt-val-vill-ni-ha-förrätt.md",
+      "body": "# 🇸🇪 Utmärkt val. Vill ni ha någon förrätt också?\n\n🇨🇳 很好的选择。要来个前菜吗？\n\n## 结构 (Structure)\n\n```\n[Utmärkt val.] [Vill ni] [ha] [någon förrätt] [också] ?\n   赞扬语         情态+主语  动词   不定代词+名词    也/还\n```\n\n## 语法点 (Grammar)\n\n- *utmärkt* — 形容词用作感叹语（\"极好的\"）\n- *någon förrätt* — *någon* + en-词（不定式单数）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förrätt]] · [[någon]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "🇸🇪 Utmärkt val. Vill ni ha någon förrätt också? 🇨🇳 很好的选择。要来个前菜吗？ 结构 (Structure) [Utmärkt val.] [Vill ni] [ha] [någon förrätt] [också] ? 赞扬语 情态+主语 动词 不定代词+名词 也/还 语法点 (Grammar) utmärkt — 形容词用作感叹语（\"极好的\"） någon förrätt —",
+      "forms": [],
+      "links": [
+        "förrätt",
+        "någon",
+        "source-2026-06-15-restaurang-middag"
+      ],
+      "searchText": "🇸🇪 Utmärkt val. Vill ni ha någon förrätt också? sent-utmärkt-val-vill-ni-ha-förrätt knowledge_base/sentences/sent-utmärkt-val-vill-ni-ha-förrätt.md ---\ntype: sentence\nsentence: \"Utmärkt val. Vill ni ha någon förrätt också?\"\nzh: \"很好的选择。要来个前菜吗？\"\ncefr: \"A2\"\nwords:\n  - förrätt\n  - någon\nphrases: []\ngrammar: []\nsource: \"source-2026-06-15-restaurang-middag\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Utmärkt val. Vill ni ha någon förrätt också?\n\n🇨🇳 很好的选择。要来个前菜吗？\n\n## 结构 (Structure)\n\n```\n[Utmärkt val.] [Vill ni] [ha] [någon förrätt] [också] ?\n   赞扬语         情态+主语  动词   不定代词+名词    也/还\n```\n\n## 语法点 (Grammar)\n\n- *utmärkt* — 形容词用作感叹语（\"极好的\"）\n- *någon förrätt* — *någon* + en-词（不定式单数）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förrätt]] · [[någon]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-middag]]\n",
+      "cefr": "A2",
+      "zh": "很好的选择。要来个前菜吗？",
+      "created": "2026-06-15",
+      "sentence": "Utmärkt val. Vill ni ha någon förrätt också?",
+      "words": [
+        "förrätt",
+        "någon"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "bra-val",
+        "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
       "slug": "sent-var-ar-ni-egentligen-ikvallt",
       "type": "sentence",
       "title": "🇸🇪 Var är ni egentligen ikväll?",
@@ -10252,6 +12558,95 @@ window.KB_DATA = {
       "backlinks": [
         "egentligen",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+      "type": "sentence",
+      "title": "🇸🇪 Det ordnar vi. Vår fisksoppa är nötfri, och kycklingen med ris går också bra.",
+      "path": "knowledge_base/sentences/sent-vår-fisksoppa-är-nötfri-och-kycklingen.md",
+      "body": "# 🇸🇪 Det ordnar vi. Vår fisksoppa är nötfri, och kycklingen med ris går också bra.\n\n🇨🇳 没问题。我们的鱼汤不含坚果，鸡肉配米饭也可以。\n\n## 结构 (Structure)\n\n```\nDet  ordnar  vi.  |  Vår  fisksoppa  är  nötfri,  |  och  kycklingen  med  ris  går  också  bra.\n宾   动词    主   |  我们  鱼汤      是  无坚果的  |  和   鸡肉        配   米饭  行   也    好\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Det ordnar vi*：宾语前置，动词紧随，主语后移\n- 📌 [[grammar-sammansatt-ord]] — *nötfri*（nöt + fri），-fri 后缀复合词\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fisksoppa]], [[nöt]], [[kyckling]], [[ris]]\n- 词组: [[det-ordnar-vi]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Det ordnar vi. Vår fisksoppa är nötfri, och kycklingen med ris går också bra. 🇨🇳 没问题。我们的鱼汤不含坚果，鸡肉配米饭也可以。 结构 (Structure) Det ordnar vi. Vår fisksoppa är nötfri, och kycklingen med ris går också bra. 宾 动词 主 我们 鱼汤 是 ",
+      "forms": [],
+      "links": [
+        "det-ordnar-vi",
+        "fisksoppa",
+        "grammar-sammansatt-ord",
+        "grammar-v2-ordfoljd",
+        "kyckling",
+        "nöt",
+        "ris",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ],
+      "searchText": "🇸🇪 Det ordnar vi. Vår fisksoppa är nötfri, och kycklingen med ris går också bra. sent-vår-fisksoppa-är-nötfri-och-kycklingen knowledge_base/sentences/sent-vår-fisksoppa-är-nötfri-och-kycklingen.md ---\ntype: sentence\nsentence: \"Det ordnar vi. Vår fisksoppa är nötfri, och kycklingen med ris går också bra.\"\nzh: \"没问题。我们的鱼汤不含坚果，鸡肉配米饭也可以。\"\ncefr: \"B1\"\nwords:\n  - fisksoppa\n  - nöt\n  - kyckling\n  - ris\nphrases:\n  - det-ordnar-vi\ngrammar:\n  - grammar-sammansatt-ord\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-mat-dryck\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det ordnar vi. Vår fisksoppa är nötfri, och kycklingen med ris går också bra.\n\n🇨🇳 没问题。我们的鱼汤不含坚果，鸡肉配米饭也可以。\n\n## 结构 (Structure)\n\n```\nDet  ordnar  vi.  |  Vår  fisksoppa  är  nötfri,  |  och  kycklingen  med  ris  går  också  bra.\n宾   动词    主   |  我们  鱼汤      是  无坚果的  |  和   鸡肉        配   米饭  行   也    好\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — *Det ordnar vi*：宾语前置，动词紧随，主语后移\n- 📌 [[grammar-sammansatt-ord]] — *nötfri*（nöt + fri），-fri 后缀复合词\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fisksoppa]], [[nöt]], [[kyckling]], [[ris]]\n- 词组: [[det-ordnar-vi]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "B1",
+      "zh": "没问题。我们的鱼汤不含坚果，鸡肉配米饭也可以。",
+      "created": "2026-06-15",
+      "sentence": "Det ordnar vi. Vår fisksoppa är nötfri, och kycklingen med ris går också bra.",
+      "words": [
+        "fisksoppa",
+        "nöt",
+        "kyckling",
+        "ris"
+      ],
+      "phrases": [
+        "det-ordnar-vi"
+      ],
+      "grammar": [
+        "grammar-sammansatt-ord"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "det-ordnar-vi",
+        "grammar-adjektiv-kongruens",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ]
+    },
+    {
+      "slug": "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+      "type": "sentence",
+      "title": "🇸🇪 Var sin del med kort, tack. Ska man lägga till dricks?",
+      "path": "knowledge_base/sentences/sent-var-sin-del-med-kort-ska-man-lägga-till-dricks.md",
+      "body": "# 🇸🇪 Var sin del med kort, tack. Ska man lägga till dricks?\n\n🇨🇳 各付各的，用卡，谢谢。需要加小费吗？\n\n## 结构 (Structure)\n\n```\nVar  sin  del  |  med  kort, tack.  |  Ska  man  lägga  till  dricks?\n每人 自己的 份  |  用   卡  谢谢   |  应该 人们  加     上   小费\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-sin-sina]] — *var sin del*：分配代词 *var* + 反身物主代词 *sin*\n- 📌 [[grammar-modala-hjalpverb]] — *Ska man lägga till*：情态动词 + 不定式\n- 📌 *man* — 泛指\"人们/大家\"，类似英语 \"one\" / \"you\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kort]], [[dricks]]\n- 词组: [[var-sin-del]], [[lägga-till-dricks]], [[betala-med-kort-eller-swish]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Var sin del med kort, tack. Ska man lägga till dricks? 🇨🇳 各付各的，用卡，谢谢。需要加小费吗？ 结构 (Structure) Var sin del med kort, tack. Ska man lägga till dricks? 每人 自己的 份 用 卡 谢谢 应该 人们 加 上 小费 语法点 (Grammar) 📌 grammar sin sina — v",
+      "forms": [],
+      "links": [
+        "betala-med-kort-eller-swish",
+        "dricks",
+        "grammar-modala-hjalpverb",
+        "grammar-sin-sina",
+        "kort",
+        "lägga-till-dricks",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "var-sin-del"
+      ],
+      "searchText": "🇸🇪 Var sin del med kort, tack. Ska man lägga till dricks? sent-var-sin-del-med-kort-ska-man-lägga-till-dricks knowledge_base/sentences/sent-var-sin-del-med-kort-ska-man-lägga-till-dricks.md ---\ntype: sentence\nsentence: \"Var sin del med kort, tack. Ska man lägga till dricks?\"\nzh: \"各付各的，用卡，谢谢。需要加小费吗？\"\ncefr: \"B1\"\nwords:\n  - kort\n  - dricks\nphrases:\n  - var-sin-del\n  - lägga-till-dricks\n  - betala-med-kort-eller-swish\ngrammar:\n  - grammar-modala-hjalpverb\n  - grammar-sin-sina\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-betalning\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Var sin del med kort, tack. Ska man lägga till dricks?\n\n🇨🇳 各付各的，用卡，谢谢。需要加小费吗？\n\n## 结构 (Structure)\n\n```\nVar  sin  del  |  med  kort, tack.  |  Ska  man  lägga  till  dricks?\n每人 自己的 份  |  用   卡  谢谢   |  应该 人们  加     上   小费\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-sin-sina]] — *var sin del*：分配代词 *var* + 反身物主代词 *sin*\n- 📌 [[grammar-modala-hjalpverb]] — *Ska man lägga till*：情态动词 + 不定式\n- 📌 *man* — 泛指\"人们/大家\"，类似英语 \"one\" / \"you\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kort]], [[dricks]]\n- 词组: [[var-sin-del]], [[lägga-till-dricks]], [[betala-med-kort-eller-swish]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "B1",
+      "zh": "各付各的，用卡，谢谢。需要加小费吗？",
+      "created": "2026-06-15",
+      "sentence": "Var sin del med kort, tack. Ska man lägga till dricks?",
+      "words": [
+        "kort",
+        "dricks"
+      ],
+      "phrases": [
+        "var-sin-del",
+        "lägga-till-dricks",
+        "betala-med-kort-eller-swish"
+      ],
+      "grammar": [
+        "grammar-modala-hjalpverb",
+        "grammar-sin-sina"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "lägga-till-dricks",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "var-sin-del"
       ]
     },
     {
@@ -10312,6 +12707,42 @@ window.KB_DATA = {
       "backlinks": [
         "restaurang",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "sent-vi-har-hemgjord-glass-och-äppelpaj",
+      "type": "sentence",
+      "title": "🇸🇪 Vi har hemgjord glass och äppelpaj med vaniljsås.",
+      "path": "knowledge_base/sentences/sent-vi-har-hemgjord-glass-och-äppelpaj.md",
+      "body": "# 🇸🇪 Vi har hemgjord glass och äppelpaj med vaniljsås.\n\n🇨🇳 我们有自制冰淇淋和配香草酱的苹果派。\n\n## 结构 (Structure)\n\n```\n[Vi har] [hemgjord glass] [och] [äppelpaj] [med vaniljsås.]\n  主+动    形容词+名词       和    名词         介词+名词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n- 注意: *hemgjord* = 自制的（hem + gjord，home-made），形容词修饰 *glass*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[glass]], [[äppelpaj]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "🇸🇪 Vi har hemgjord glass och äppelpaj med vaniljsås. 🇨🇳 我们有自制冰淇淋和配香草酱的苹果派。 结构 (Structure) [Vi har] [hemgjord glass] [och] [äppelpaj] [med vaniljsås.] 主+动 形容词+名词 和 名词 介词+名词 语法点 (Grammar) 📌 grammar presens — har 现在时 注",
+      "forms": [],
+      "links": [
+        "äppelpaj",
+        "glass",
+        "grammar-presens",
+        "source-2026-06-15-restaurang-rekommendation"
+      ],
+      "searchText": "🇸🇪 Vi har hemgjord glass och äppelpaj med vaniljsås. sent-vi-har-hemgjord-glass-och-äppelpaj knowledge_base/sentences/sent-vi-har-hemgjord-glass-och-äppelpaj.md ---\ntype: sentence\nsentence: \"Vi har hemgjord glass och äppelpaj med vaniljsås.\"\nzh: \"我们有自制冰淇淋和配香草酱的苹果派。\"\ncefr: \"A2\"\nwords: [glass, äppelpaj, vara, ha]\nphrases: []\ngrammar: [grammar-presens]\nsource: \"source-2026-06-15-restaurang-rekommendation\"\ntopics: [topic-mat-dryck]\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vi har hemgjord glass och äppelpaj med vaniljsås.\n\n🇨🇳 我们有自制冰淇淋和配香草酱的苹果派。\n\n## 结构 (Structure)\n\n```\n[Vi har] [hemgjord glass] [och] [äppelpaj] [med vaniljsås.]\n  主+动    形容词+名词       和    名词         介词+名词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — *har* 现在时\n- 注意: *hemgjord* = 自制的（hem + gjord，home-made），形容词修饰 *glass*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[glass]], [[äppelpaj]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "cefr": "A2",
+      "zh": "我们有自制冰淇淋和配香草酱的苹果派。",
+      "created": "2026-06-15",
+      "sentence": "Vi har hemgjord glass och äppelpaj med vaniljsås.",
+      "words": [
+        "glass",
+        "äppelpaj",
+        "vara",
+        "ha"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "äppelpaj"
       ]
     },
     {
@@ -10503,6 +12934,45 @@ window.KB_DATA = {
         "grammar-riktnings-adverb",
         "riktning",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "sent-vill-ni-betala-med-kort-eller-swish",
+      "type": "sentence",
+      "title": "🇸🇪 Visst! Vill ni betala med kort eller Swish?",
+      "path": "knowledge_base/sentences/sent-vill-ni-betala-med-kort-eller-swish.md",
+      "body": "# 🇸🇪 Visst! Vill ni betala med kort eller Swish?\n\n🇨🇳 当然！你们想用卡还是 Swish 付？\n\n## 结构 (Structure)\n\n```\nVisst!  |  Vill  ni  betala  med  kort  eller  Swish?\n当然    |  想   你们  付     用   卡    还是   Swish\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *Vill ni betala*：情态动词 + 不定式\n- 📌 *med* — 表示支付方式的介词\n- 📌 *visst* — 副词，表示\"当然/肯定\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kort]], [[betala]]\n- 词组: [[betala-med-kort-eller-swish]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]",
+      "excerpt": "🇸🇪 Visst! Vill ni betala med kort eller Swish? 🇨🇳 当然！你们想用卡还是 Swish 付？ 结构 (Structure) Visst! Vill ni betala med kort eller Swish? 当然 想 你们 付 用 卡 还是 Swish 语法点 (Grammar) 📌 grammar modala hjalpverb — Vill ni betala ：情态动词",
+      "forms": [],
+      "links": [
+        "betala",
+        "betala-med-kort-eller-swish",
+        "grammar-modala-hjalpverb",
+        "kort",
+        "source-2026-06-15-restaurang-allergi-nota"
+      ],
+      "searchText": "🇸🇪 Visst! Vill ni betala med kort eller Swish? sent-vill-ni-betala-med-kort-eller-swish knowledge_base/sentences/sent-vill-ni-betala-med-kort-eller-swish.md ---\ntype: sentence\nsentence: \"Visst! Vill ni betala med kort eller Swish?\"\nzh: \"当然！你们想用卡还是 Swish 付？\"\ncefr: \"A2\"\nwords:\n  - kort\n  - betala\nphrases:\n  - betala-med-kort-eller-swish\ngrammar:\n  - grammar-modala-hjalpverb\nsource: \"source-2026-06-15-restaurang-allergi-nota\"\ntopics:\n  - topic-betalning\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Visst! Vill ni betala med kort eller Swish?\n\n🇨🇳 当然！你们想用卡还是 Swish 付？\n\n## 结构 (Structure)\n\n```\nVisst!  |  Vill  ni  betala  med  kort  eller  Swish?\n当然    |  想   你们  付     用   卡    还是   Swish\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — *Vill ni betala*：情态动词 + 不定式\n- 📌 *med* — 表示支付方式的介词\n- 📌 *visst* — 副词，表示\"当然/肯定\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kort]], [[betala]]\n- 词组: [[betala-med-kort-eller-swish]]\n\n## 来源 (Source)\n\n- [[source-2026-06-15-restaurang-allergi-nota]]\n",
+      "cefr": "A2",
+      "zh": "当然！你们想用卡还是 Swish 付？",
+      "created": "2026-06-15",
+      "sentence": "Visst! Vill ni betala med kort eller Swish?",
+      "words": [
+        "kort",
+        "betala"
+      ],
+      "phrases": [
+        "betala-med-kort-eller-swish"
+      ],
+      "grammar": [
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "betala-med-kort-eller-swish",
+        "grammar-modala-hjalpverb",
+        "source-2026-06-15-restaurang-allergi-nota"
       ]
     },
     {
@@ -12133,7 +14603,8 @@ window.KB_DATA = {
         "sent-fika-vi-har-espresso-latte",
         "sent-fika-vi-har-ett-stort-projekt",
         "sent-fika-vill-du-sitta-utomhus-eller-inne",
-        "sent-fika-vill-ni-ha-något-annat"
+        "sent-fika-vill-ni-ha-något-annat",
+        "topic-betalning"
       ]
     },
     {
@@ -12950,6 +15421,460 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-15-restaurang-allergi-nota",
+      "type": "source",
+      "title": "På restaurang — allergi, specialkost och nota (2026-06-15)",
+      "path": "knowledge_base/sources/source-2026-06-15-restaurang-allergi-nota.md",
+      "body": "# På restaurang — allergi, specialkost och nota (2026-06-15)\n\n情景练习（dialog, CEFR≈B1）：在餐厅报告食物过敏、要求换菜（无奶油/无乳糖）、汤凉了要求重做、AA 制买单与小费。\n人读正文与全文翻译见 `inbox/scenario-2026-06-15-pa-restaurang-allergi-och-nota.md`。\n\n相关主题：[[topic-mat-dryck]] · [[topic-betalning]]\n\n## 新词 (New words)\n\n- [[allergisk]] — 过敏的（allergisk mot ngt）\n- [[rekommendera]] — 推荐\n- [[nöt]] — 坚果\n- [[fisksoppa]] — 鱼汤\n- [[ris]] — 米饭\n- [[grädde]] — 奶油\n- [[laktos]] — 乳糖\n- [[värma]] — 加热\n- [[tåla]] — 耐受\n- [[dricks]] — 小费\n- [[frivillig]] — 自愿的\n- [[avrunda]] — 凑整\n\n## 已有词 (Existing words, linked)\n\n- [[kyckling]] · [[kall]] · [[kort]]\n\n## 新词组 (New phrases)\n\n- [[vad-kan-ni-rekommendera]] — 你们有什么推荐\n- [[jag-är-allergisk-mot]] — 我对…过敏\n- [[det-ordnar-vi]] — 这个我们能搞定\n- [[inga-problem]] — 没问题\n- [[kan-vi-dela-på-notan]] — 我们能分开付账吗\n- [[var-sin-del]] — 各付各的\n- [[betala-med-kort-eller-swish]] — 用卡还是 Swish 付\n- [[lägga-till-dricks]] — 加小费\n\n## 句子 (Sentences)\n\n- [[sent-hej-och-välkomna-ett-bord-för-två]]\n- [[sent-jag-är-allergisk-mot-nötter-vad-kan-ni]]\n- [[sent-vår-fisksoppa-är-nötfri-och-kycklingen]]\n- [[sent-kan-ni-göra-den-utan-grädde-hon-tål-inte]]\n- [[sent-inga-problem-vi-lagar-den-laktosfri]]\n- [[sent-två-glas-vatten-räcker-tack]]\n- [[sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny]]\n- [[sent-jag-värmer-en-ny-åt-dig-direkt]]\n- [[sent-skulle-vi-vilja-betala-dela-på-notan]]\n- [[sent-vill-ni-betala-med-kort-eller-swish]]\n- [[sent-var-sin-del-med-kort-ska-man-lägga-till-dricks]]\n- [[sent-dricks-är-helt-frivilligt-i-sverige]]\n- [[sent-då-avrundar-vi-uppåt-tack-för-god-mat]]\n- [[sent-tack-själva-varmt-välkomna-åter]]\n\n## 语法 (Grammar)\n\n- [[grammar-adjektiv-bojning]] — kall/kallt/kalla, laktosfri/laktosfritt/laktosfria 的形容词一致\n- [[grammar-sammansatt-ord]] — -fri 后缀复合词：nötfri, laktosfri\n- [[grammar-modala-hjalpverb]] — 礼貌的 *skulle vilja*（情态助动词链）",
+      "excerpt": "På restaurang — allergi, specialkost och nota (2026 06 15) 情景练习（dialog, CEFR≈B1）：在餐厅报告食物过敏、要求换菜（无奶油/无乳糖）、汤凉了要求重做、AA 制买单与小费。 人读正文与全文翻译见 inbox/scenario 2026 06 15 pa restaurang allergi och nota.md 。 相关主题：topic mat dryck · ",
+      "forms": [],
+      "links": [
+        "allergisk",
+        "avrunda",
+        "betala-med-kort-eller-swish",
+        "det-ordnar-vi",
+        "dricks",
+        "fisksoppa",
+        "frivillig",
+        "grädde",
+        "grammar-adjektiv-bojning",
+        "grammar-modala-hjalpverb",
+        "grammar-sammansatt-ord",
+        "inga-problem",
+        "jag-är-allergisk-mot",
+        "kall",
+        "kan-vi-dela-på-notan",
+        "kort",
+        "kyckling",
+        "lägga-till-dricks",
+        "laktos",
+        "nöt",
+        "rekommendera",
+        "ris",
+        "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
+        "sent-dricks-är-helt-frivilligt-i-sverige",
+        "sent-hej-och-välkomna-ett-bord-för-två",
+        "sent-inga-problem-vi-lagar-den-laktosfri",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "sent-jag-värmer-en-ny-åt-dig-direkt",
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
+        "sent-skulle-vi-vilja-betala-dela-på-notan",
+        "sent-tack-själva-varmt-välkomna-åter",
+        "sent-två-glas-vatten-räcker-tack",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "sent-vill-ni-betala-med-kort-eller-swish",
+        "tåla",
+        "topic-betalning",
+        "topic-mat-dryck",
+        "vad-kan-ni-rekommendera",
+        "var-sin-del",
+        "värma"
+      ],
+      "searchText": "På restaurang — allergi, specialkost och nota (2026-06-15) source-2026-06-15-restaurang-allergi-nota knowledge_base/sources/source-2026-06-15-restaurang-allergi-nota.md ---\nkind: import\nsource_label: \"scenario — på restaurang, allergi och nota\"\ndate: 2026-06-15\nwords:\n  - allergisk\n  - rekommendera\n  - nöt\n  - fisksoppa\n  - kyckling\n  - ris\n  - grädde\n  - laktos\n  - kall\n  - värma\n  - tåla\n  - dricks\n  - kort\n  - frivillig\n  - avrunda\nphrases:\n  - vad-kan-ni-rekommendera\n  - jag-är-allergisk-mot\n  - det-ordnar-vi\n  - inga-problem\n  - kan-vi-dela-på-notan\n  - var-sin-del\n  - betala-med-kort-eller-swish\n  - lägga-till-dricks\nsentences:\n  - sent-hej-och-välkomna-ett-bord-för-två\n  - sent-jag-är-allergisk-mot-nötter-vad-kan-ni\n  - sent-vår-fisksoppa-är-nötfri-och-kycklingen\n  - sent-kan-ni-göra-den-utan-grädde-hon-tål-inte\n  - sent-inga-problem-vi-lagar-den-laktosfri\n  - sent-två-glas-vatten-räcker-tack\n  - sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny\n  - sent-jag-värmer-en-ny-åt-dig-direkt\n  - sent-skulle-vi-vilja-betala-dela-på-notan\n  - sent-vill-ni-betala-med-kort-eller-swish\n  - sent-var-sin-del-med-kort-ska-man-lägga-till-dricks\n  - sent-dricks-är-helt-frivilligt-i-sverige\n  - sent-då-avrundar-vi-uppåt-tack-för-god-mat\n  - sent-tack-själva-varmt-välkomna-åter\ngrammar:\n  - grammar-adjektiv-bojning\n  - grammar-sammansatt-ord\n  - grammar-modala-hjalpverb\n---\n\n# På restaurang — allergi, specialkost och nota (2026-06-15)\n\n情景练习（dialog, CEFR≈B1）：在餐厅报告食物过敏、要求换菜（无奶油/无乳糖）、汤凉了要求重做、AA 制买单与小费。\n人读正文与全文翻译见 `inbox/scenario-2026-06-15-pa-restaurang-allergi-och-nota.md`。\n\n相关主题：[[topic-mat-dryck]] · [[topic-betalning]]\n\n## 新词 (New words)\n\n- [[allergisk]] — 过敏的（allergisk mot ngt）\n- [[rekommendera]] — 推荐\n- [[nöt]] — 坚果\n- [[fisksoppa]] — 鱼汤\n- [[ris]] — 米饭\n- [[grädde]] — 奶油\n- [[laktos]] — 乳糖\n- [[värma]] — 加热\n- [[tåla]] — 耐受\n- [[dricks]] — 小费\n- [[frivillig]] — 自愿的\n- [[avrunda]] — 凑整\n\n## 已有词 (Existing words, linked)\n\n- [[kyckling]] · [[kall]] · [[kort]]\n\n## 新词组 (New phrases)\n\n- [[vad-kan-ni-rekommendera]] — 你们有什么推荐\n- [[jag-är-allergisk-mot]] — 我对…过敏\n- [[det-ordnar-vi]] — 这个我们能搞定\n- [[inga-problem]] — 没问题\n- [[kan-vi-dela-på-notan]] — 我们能分开付账吗\n- [[var-sin-del]] — 各付各的\n- [[betala-med-kort-eller-swish]] — 用卡还是 Swish 付\n- [[lägga-till-dricks]] — 加小费\n\n## 句子 (Sentences)\n\n- [[sent-hej-och-välkomna-ett-bord-för-två]]\n- [[sent-jag-är-allergisk-mot-nötter-vad-kan-ni]]\n- [[sent-vår-fisksoppa-är-nötfri-och-kycklingen]]\n- [[sent-kan-ni-göra-den-utan-grädde-hon-tål-inte]]\n- [[sent-inga-problem-vi-lagar-den-laktosfri]]\n- [[sent-två-glas-vatten-räcker-tack]]\n- [[sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny]]\n- [[sent-jag-värmer-en-ny-åt-dig-direkt]]\n- [[sent-skulle-vi-vilja-betala-dela-på-notan]]\n- [[sent-vill-ni-betala-med-kort-eller-swish]]\n- [[sent-var-sin-del-med-kort-ska-man-lägga-till-dricks]]\n- [[sent-dricks-är-helt-frivilligt-i-sverige]]\n- [[sent-då-avrundar-vi-uppåt-tack-för-god-mat]]\n- [[sent-tack-själva-varmt-välkomna-åter]]\n\n## 语法 (Grammar)\n\n- [[grammar-adjektiv-bojning]] — kall/kallt/kalla, laktosfri/laktosfritt/laktosfria 的形容词一致\n- [[grammar-sammansatt-ord]] — -fri 后缀复合词：nötfri, laktosfri\n- [[grammar-modala-hjalpverb]] — 礼貌的 *skulle vilja*（情态助动词链）\n",
+      "date": "2026-06-15",
+      "source_label": "scenario — på restaurang, allergi och nota",
+      "kind": "import",
+      "words": [
+        "allergisk",
+        "rekommendera",
+        "nöt",
+        "fisksoppa",
+        "kyckling",
+        "ris",
+        "grädde",
+        "laktos",
+        "kall",
+        "värma",
+        "tåla",
+        "dricks",
+        "kort",
+        "frivillig",
+        "avrunda"
+      ],
+      "phrases": [
+        "vad-kan-ni-rekommendera",
+        "jag-är-allergisk-mot",
+        "det-ordnar-vi",
+        "inga-problem",
+        "kan-vi-dela-på-notan",
+        "var-sin-del",
+        "betala-med-kort-eller-swish",
+        "lägga-till-dricks"
+      ],
+      "sentences": [
+        "sent-hej-och-välkomna-ett-bord-för-två",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
+        "sent-inga-problem-vi-lagar-den-laktosfri",
+        "sent-två-glas-vatten-räcker-tack",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
+        "sent-jag-värmer-en-ny-åt-dig-direkt",
+        "sent-skulle-vi-vilja-betala-dela-på-notan",
+        "sent-vill-ni-betala-med-kort-eller-swish",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "sent-dricks-är-helt-frivilligt-i-sverige",
+        "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
+        "sent-tack-själva-varmt-välkomna-åter"
+      ],
+      "grammar": [
+        "grammar-adjektiv-bojning",
+        "grammar-sammansatt-ord",
+        "grammar-modala-hjalpverb"
+      ],
+      "backlinks": [
+        "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
+        "sent-dricks-är-helt-frivilligt-i-sverige",
+        "sent-hej-och-välkomna-ett-bord-för-två",
+        "sent-inga-problem-vi-lagar-den-laktosfri",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "sent-jag-värmer-en-ny-åt-dig-direkt",
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
+        "sent-skulle-vi-vilja-betala-dela-på-notan",
+        "sent-tack-själva-varmt-välkomna-åter",
+        "sent-två-glas-vatten-räcker-tack",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "sent-vill-ni-betala-med-kort-eller-swish",
+        "topic-betalning",
+        "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "source-2026-06-15-restaurang-middag",
+      "type": "source",
+      "title": "På restaurang — beställa middag (2026-06-15)",
+      "path": "knowledge_base/sources/source-2026-06-15-restaurang-middag.md",
+      "body": "# På restaurang — beställa middag (2026-06-15)\n\n情景练习（dialog, CEFR≈B1）：在餐厅订位、看菜单、点饮料和主菜、要账单。\n人读正文与全文翻译见 `inbox/scenario-2026-06-15-pa-restaurang-bestalla-middag.md`。\n\n相关主题：[[topic-mat-dryck]] · [[topic-betalning]]\n\n## 新词 (New words)\n\n- [[boka]] — 预订\n- [[bord]] — 桌子\n- [[meny]] — 菜单\n- [[beställa]] — 点餐/订购\n- [[rödvin]] — 红酒\n- [[köttbulle]] — 肉丸\n- [[potatismos]] — 土豆泥\n- [[grillad]] — 烤的\n- [[lax]] — 三文鱼\n- [[förrätt]] — 前菜\n- [[nota]] — 账单\n- [[måltid]] — 一餐\n\n## 已有词 (Existing words, linked)\n\n- [[dricka]] · [[vatten]] · [[bestämma]]\n\n## 新词组 (New phrases)\n\n- [[har-ni-bokat-bord]] — 订位了吗\n- [[följ-med-mig]] — 请跟我来\n- [[har-ni-bestämt-er]] — 你们想好了吗\n- [[kan-vi-få-notan]] — 可以买单吗\n- [[smaklig-måltid]] — 祝用餐愉快\n\n## 已有词组 (Existing phrases, linked)\n\n- [[det-räcker-bra-så]] · [[vad-får-det-vara]]\n\n## 句子 (Sentences)\n\n- [[sent-god-kväll-och-välkomna-har-ni-bokat]]\n- [[sent-ja-vi-har-bokat-ett-bord-för-två]]\n- [[sent-perfekt-det-stämmer-följ-med-mig]]\n- [[sent-kan-vi-få-menyn-tack]]\n- [[sent-självklart-varsågod-vill-ni-beställa]]\n- [[sent-ja-gärna-ett-glas-rödvin-och-vatten]]\n- [[sent-har-ni-bestämt-er-eller-behöver-ni]]\n- [[sent-jag-tar-köttbullar-med-potatismos]]\n- [[sent-utmärkt-val-vill-ni-ha-förrätt]]\n- [[sent-nej-tack-det-räcker-bra-men-notan]]\n- [[sent-absolut-smaklig-måltid]]\n- [[sent-tack-så-mycket-restaurang]]\n\n## 语法 (Grammar — already existed)\n\n- [[grammar-reflexivt-verb]] — demonstrated by *Har ni bestämt er*\n- [[grammar-perfekt]] — demonstrated by *vi har bokat ett bord*, *Har ni bestämt er*\n- [[grammar-bestämd-form]] — demonstrated by *notan*, *den grillade laxen*, *bordet*",
+      "excerpt": "På restaurang — beställa middag (2026 06 15) 情景练习（dialog, CEFR≈B1）：在餐厅订位、看菜单、点饮料和主菜、要账单。 人读正文与全文翻译见 inbox/scenario 2026 06 15 pa restaurang bestalla middag.md 。 相关主题：topic mat dryck · topic betalning 新词 (New words) boka ",
+      "forms": [],
+      "links": [
+        "beställa",
+        "bestämma",
+        "boka",
+        "bord",
+        "det-räcker-bra-så",
+        "dricka",
+        "följ-med-mig",
+        "förrätt",
+        "grammar-bestämd-form",
+        "grammar-perfekt",
+        "grammar-reflexivt-verb",
+        "grillad",
+        "har-ni-bestämt-er",
+        "har-ni-bokat-bord",
+        "kan-vi-få-notan",
+        "köttbulle",
+        "lax",
+        "måltid",
+        "meny",
+        "nota",
+        "potatismos",
+        "rödvin",
+        "sent-absolut-smaklig-måltid",
+        "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "sent-har-ni-bestämt-er-eller-behöver-ni",
+        "sent-ja-gärna-ett-glas-rödvin-och-vatten",
+        "sent-ja-vi-har-bokat-ett-bord-för-två",
+        "sent-jag-tar-köttbullar-med-potatismos",
+        "sent-kan-vi-få-menyn-tack",
+        "sent-nej-tack-det-räcker-bra-men-notan",
+        "sent-perfekt-det-stämmer-följ-med-mig",
+        "sent-självklart-varsågod-vill-ni-beställa",
+        "sent-tack-så-mycket-restaurang",
+        "sent-utmärkt-val-vill-ni-ha-förrätt",
+        "smaklig-måltid",
+        "topic-betalning",
+        "topic-mat-dryck",
+        "vad-får-det-vara",
+        "vatten"
+      ],
+      "searchText": "På restaurang — beställa middag (2026-06-15) source-2026-06-15-restaurang-middag knowledge_base/sources/source-2026-06-15-restaurang-middag.md ---\nkind: import\nsource_label: \"scenario — på restaurang, beställa middag\"\ndate: 2026-06-15\nwords:\n  - boka\n  - bord\n  - meny\n  - beställa\n  - rödvin\n  - köttbulle\n  - potatismos\n  - grillad\n  - lax\n  - förrätt\n  - nota\n  - måltid\n  - dricka\n  - vatten\n  - bestämma\nphrases:\n  - har-ni-bokat-bord\n  - följ-med-mig\n  - har-ni-bestämt-er\n  - kan-vi-få-notan\n  - smaklig-måltid\n  - det-räcker-bra-så\n  - vad-får-det-vara\nsentences:\n  - sent-god-kväll-och-välkomna-har-ni-bokat\n  - sent-ja-vi-har-bokat-ett-bord-för-två\n  - sent-perfekt-det-stämmer-följ-med-mig\n  - sent-kan-vi-få-menyn-tack\n  - sent-självklart-varsågod-vill-ni-beställa\n  - sent-ja-gärna-ett-glas-rödvin-och-vatten\n  - sent-har-ni-bestämt-er-eller-behöver-ni\n  - sent-jag-tar-köttbullar-med-potatismos\n  - sent-utmärkt-val-vill-ni-ha-förrätt\n  - sent-nej-tack-det-räcker-bra-men-notan\n  - sent-absolut-smaklig-måltid\n  - sent-tack-så-mycket-restaurang\ngrammar:\n  - grammar-reflexivt-verb\n  - grammar-perfekt\n  - grammar-bestämd-form\n---\n\n# På restaurang — beställa middag (2026-06-15)\n\n情景练习（dialog, CEFR≈B1）：在餐厅订位、看菜单、点饮料和主菜、要账单。\n人读正文与全文翻译见 `inbox/scenario-2026-06-15-pa-restaurang-bestalla-middag.md`。\n\n相关主题：[[topic-mat-dryck]] · [[topic-betalning]]\n\n## 新词 (New words)\n\n- [[boka]] — 预订\n- [[bord]] — 桌子\n- [[meny]] — 菜单\n- [[beställa]] — 点餐/订购\n- [[rödvin]] — 红酒\n- [[köttbulle]] — 肉丸\n- [[potatismos]] — 土豆泥\n- [[grillad]] — 烤的\n- [[lax]] — 三文鱼\n- [[förrätt]] — 前菜\n- [[nota]] — 账单\n- [[måltid]] — 一餐\n\n## 已有词 (Existing words, linked)\n\n- [[dricka]] · [[vatten]] · [[bestämma]]\n\n## 新词组 (New phrases)\n\n- [[har-ni-bokat-bord]] — 订位了吗\n- [[följ-med-mig]] — 请跟我来\n- [[har-ni-bestämt-er]] — 你们想好了吗\n- [[kan-vi-få-notan]] — 可以买单吗\n- [[smaklig-måltid]] — 祝用餐愉快\n\n## 已有词组 (Existing phrases, linked)\n\n- [[det-räcker-bra-så]] · [[vad-får-det-vara]]\n\n## 句子 (Sentences)\n\n- [[sent-god-kväll-och-välkomna-har-ni-bokat]]\n- [[sent-ja-vi-har-bokat-ett-bord-för-två]]\n- [[sent-perfekt-det-stämmer-följ-med-mig]]\n- [[sent-kan-vi-få-menyn-tack]]\n- [[sent-självklart-varsågod-vill-ni-beställa]]\n- [[sent-ja-gärna-ett-glas-rödvin-och-vatten]]\n- [[sent-har-ni-bestämt-er-eller-behöver-ni]]\n- [[sent-jag-tar-köttbullar-med-potatismos]]\n- [[sent-utmärkt-val-vill-ni-ha-förrätt]]\n- [[sent-nej-tack-det-räcker-bra-men-notan]]\n- [[sent-absolut-smaklig-måltid]]\n- [[sent-tack-så-mycket-restaurang]]\n\n## 语法 (Grammar — already existed)\n\n- [[grammar-reflexivt-verb]] — demonstrated by *Har ni bestämt er*\n- [[grammar-perfekt]] — demonstrated by *vi har bokat ett bord*, *Har ni bestämt er*\n- [[grammar-bestämd-form]] — demonstrated by *notan*, *den grillade laxen*, *bordet*\n",
+      "date": "2026-06-15",
+      "source_label": "scenario — på restaurang, beställa middag",
+      "kind": "import",
+      "words": [
+        "boka",
+        "bord",
+        "meny",
+        "beställa",
+        "rödvin",
+        "köttbulle",
+        "potatismos",
+        "grillad",
+        "lax",
+        "förrätt",
+        "nota",
+        "måltid",
+        "dricka",
+        "vatten",
+        "bestämma"
+      ],
+      "phrases": [
+        "har-ni-bokat-bord",
+        "följ-med-mig",
+        "har-ni-bestämt-er",
+        "kan-vi-få-notan",
+        "smaklig-måltid",
+        "det-räcker-bra-så",
+        "vad-får-det-vara"
+      ],
+      "sentences": [
+        "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "sent-ja-vi-har-bokat-ett-bord-för-två",
+        "sent-perfekt-det-stämmer-följ-med-mig",
+        "sent-kan-vi-få-menyn-tack",
+        "sent-självklart-varsågod-vill-ni-beställa",
+        "sent-ja-gärna-ett-glas-rödvin-och-vatten",
+        "sent-har-ni-bestämt-er-eller-behöver-ni",
+        "sent-jag-tar-köttbullar-med-potatismos",
+        "sent-utmärkt-val-vill-ni-ha-förrätt",
+        "sent-nej-tack-det-räcker-bra-men-notan",
+        "sent-absolut-smaklig-måltid",
+        "sent-tack-så-mycket-restaurang"
+      ],
+      "grammar": [
+        "grammar-reflexivt-verb",
+        "grammar-perfekt",
+        "grammar-bestämd-form"
+      ],
+      "backlinks": [
+        "beställa",
+        "boka",
+        "bord",
+        "förrätt",
+        "grillad",
+        "köttbulle",
+        "lax",
+        "måltid",
+        "meny",
+        "nota",
+        "potatismos",
+        "rödvin",
+        "sent-absolut-smaklig-måltid",
+        "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "sent-har-ni-bestämt-er-eller-behöver-ni",
+        "sent-ja-gärna-ett-glas-rödvin-och-vatten",
+        "sent-ja-vi-har-bokat-ett-bord-för-två",
+        "sent-jag-tar-köttbullar-med-potatismos",
+        "sent-kan-vi-få-menyn-tack",
+        "sent-nej-tack-det-räcker-bra-men-notan",
+        "sent-perfekt-det-stämmer-följ-med-mig",
+        "sent-självklart-varsågod-vill-ni-beställa",
+        "sent-tack-så-mycket-restaurang",
+        "sent-utmärkt-val-vill-ni-ha-förrätt",
+        "topic-betalning",
+        "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "source-2026-06-15-restaurang-rekommendation",
+      "type": "source",
+      "title": "Källa: På restaurang utan bokning (rekommendation, efterrätt, betala med kort)",
+      "path": "knowledge_base/sources/source-2026-06-15-restaurang-rekommendation.md",
+      "body": "# Källa: På restaurang utan bokning (rekommendation, efterrätt, betala med kort)\n\n场景对话：一位客人没有预订，独自到餐厅用餐，服务员安排窗边座位、推荐今日例餐、点主菜与啤酒、甜点（苹果派），最后刷卡付款。\n\n> 导入自 `inbox/scenario-2026-06-15-pa-restaurang-utan-bokning.md`（`/scenario` 生成，CEFR ≈ B1）。\n> 学习项由 `sv-librarian` 录入并建立 `[[wikilinks]]`。",
+      "excerpt": "Källa: På restaurang utan bokning (rekommendation, efterrätt, betala med kort) 场景对话：一位客人没有预订，独自到餐厅用餐，服务员安排窗边座位、推荐今日例餐、点主菜与啤酒、甜点（苹果派），最后刷卡付款。 导入自 inbox/scenario 2026 06 15 pa restaurang utan bokning.md （ /scenario 生成，CEFR",
+      "forms": [],
+      "links": [
+        "wikilinks"
+      ],
+      "searchText": "Källa: På restaurang utan bokning (rekommendation, efterrätt, betala med kort) source-2026-06-15-restaurang-rekommendation knowledge_base/sources/source-2026-06-15-restaurang-rekommendation.md ---\nkind: import\nsource_label: \"scenario — på restaurang utan bokning (rekommendation, efterrätt, betala med kort)\"\ndate: 2026-06-15\ntype: source\ncreated: 2026-06-15\ntags: [restaurang, mat-dryck, scenario]\nwords:\n  - vegetarisk\n  - pasta\n  - svamp\n  - kött\n  - fläskfilé\n  - rostad\n  - grönsak\n  - öl\n  - efterrätt\n  - äppelpaj\nphrases:\n  - är-du-ensam\n  - finns-det-något-ledigt-bord\n  - vad-rekommenderar-ni\n  - dagens-rätt\n  - det-låter-gott\n  - bra-val\n  - vad-har-ni-för\n  - välkommen-åter\nsentences:\n  - sent-hej-och-välkommen-är-du-ensam\n  - sent-ja-jag-är-ensam-finns-det\n  - sent-absolut-vi-har-ett-ledigt-bord\n  - sent-tack-så-mycket-vad-rekommenderar-ni\n  - sent-dagens-rätt-är-en-vegetarisk-pasta\n  - sent-det-låter-gott-men-jag-är\n  - sent-ja-vi-har-en-fläskfilé\n  - sent-då-tar-jag-fläskfilén-tack\n  - sent-bra-val-vill-du-ha-efterrätt\n  - sent-ja-gärna-vad-har-ni-för\n  - sent-vi-har-hemgjord-glass-och-äppelpaj\n  - sent-äppelpaj-tack-den-älskar-jag\n  - sent-utmärkt-jag-kommer-strax-med-beställning\n  - sent-det-var-jättegott-kan-jag-betala\n  - sent-självklart-du-kan-betala-här-vid\ngrammar:\n  - grammar-adjektiv-kongruens\n  - grammar-det-finns\n  - grammar-presens\n  - grammar-modala-hjalpverb\n---\n\n# Källa: På restaurang utan bokning (rekommendation, efterrätt, betala med kort)\n\n场景对话：一位客人没有预订，独自到餐厅用餐，服务员安排窗边座位、推荐今日例餐、点主菜与啤酒、甜点（苹果派），最后刷卡付款。\n\n> 导入自 `inbox/scenario-2026-06-15-pa-restaurang-utan-bokning.md`（`/scenario` 生成，CEFR ≈ B1）。\n> 学习项由 `sv-librarian` 录入并建立 `[[wikilinks]]`。\n",
+      "created": "2026-06-15",
+      "date": "2026-06-15",
+      "source_label": "scenario — på restaurang utan bokning (rekommendation, efterrätt, betala med kort)",
+      "kind": "import",
+      "words": [
+        "vegetarisk",
+        "pasta",
+        "svamp",
+        "kött",
+        "fläskfilé",
+        "rostad",
+        "grönsak",
+        "öl",
+        "efterrätt",
+        "äppelpaj"
+      ],
+      "phrases": [
+        "är-du-ensam",
+        "finns-det-något-ledigt-bord",
+        "vad-rekommenderar-ni",
+        "dagens-rätt",
+        "det-låter-gott",
+        "bra-val",
+        "vad-har-ni-för",
+        "välkommen-åter"
+      ],
+      "sentences": [
+        "sent-hej-och-välkommen-är-du-ensam",
+        "sent-ja-jag-är-ensam-finns-det",
+        "sent-absolut-vi-har-ett-ledigt-bord",
+        "sent-tack-så-mycket-vad-rekommenderar-ni",
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "sent-det-låter-gott-men-jag-är",
+        "sent-ja-vi-har-en-fläskfilé",
+        "sent-då-tar-jag-fläskfilén-tack",
+        "sent-bra-val-vill-du-ha-efterrätt",
+        "sent-ja-gärna-vad-har-ni-för",
+        "sent-vi-har-hemgjord-glass-och-äppelpaj",
+        "sent-äppelpaj-tack-den-älskar-jag",
+        "sent-utmärkt-jag-kommer-strax-med-beställning",
+        "sent-det-var-jättegott-kan-jag-betala",
+        "sent-självklart-du-kan-betala-här-vid"
+      ],
+      "grammar": [
+        "grammar-adjektiv-kongruens",
+        "grammar-det-finns",
+        "grammar-presens",
+        "grammar-modala-hjalpverb"
+      ],
+      "backlinks": [
+        "äppelpaj",
+        "är-du-ensam",
+        "bra-val",
+        "dagens-rätt",
+        "det-låter-gott",
+        "efterrätt",
+        "finns-det-något-ledigt-bord",
+        "fläskfilé",
+        "grönsak",
+        "kött",
+        "öl",
+        "pasta",
+        "rostad",
+        "sent-absolut-vi-har-ett-ledigt-bord",
+        "sent-äppelpaj-tack-den-älskar-jag",
+        "sent-bra-val-vill-du-ha-efterrätt",
+        "sent-då-tar-jag-fläskfilén-tack",
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "sent-det-låter-gott-men-jag-är",
+        "sent-det-var-jättegott-kan-jag-betala",
+        "sent-hej-och-välkommen-är-du-ensam",
+        "sent-ja-gärna-vad-har-ni-för",
+        "sent-ja-jag-är-ensam-finns-det",
+        "sent-ja-vi-har-en-fläskfilé",
+        "sent-självklart-du-kan-betala-här-vid",
+        "sent-tack-så-mycket-vad-rekommenderar-ni",
+        "sent-utmärkt-jag-kommer-strax-med-beställning",
+        "sent-vi-har-hemgjord-glass-och-äppelpaj",
+        "svamp",
+        "topic-betalning",
+        "topic-mat-dryck",
+        "vad-har-ni-för",
+        "vad-rekommenderar-ni",
+        "välkommen-åter",
+        "vegetarisk"
+      ]
+    },
+    {
+      "slug": "source-2026-06-15-stad-trafik",
+      "type": "source",
+      "title": "Adjektiv+substantiv böjning — Stad & Trafik",
+      "path": "knowledge_base/sources/source-2026-06-15-stad-trafik.md",
+      "body": "# 📄 Adjektiv+substantiv böjning — Stad & Trafik (城市交通)\n\n类型: drill (adjektiv + substantiv 四式变形) · 难度: A1-A2 · 来源: 每日 /adjsubst 生成\n\n## 原文 (Source Text)\n\n25 组 adj + substantiv（城市交通主题）四式变形练习。完整复习表见\n`inbox/adjsubst-2026-06-15-stad-trafik.md`。本笔记记录从该页导入的词条。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: 见下方 frontmatter `words:`（由 librarian 填充）\n- 语法: [[grammar-adjektiv-bojning]] · [[grammar-substantiv-plural]]\n\n### 形容词 (Adjektiv, 11词)\n- [[bred]] — 宽的\n- [[tom]] — 空的\n- [[grön]] — 绿色的\n- [[tung]] — 重的\n- [[gul]] — 黄色的\n- [[central]] — 中心的\n- [[hög]] — 高的\n- [[trasig]] — 损坏的\n- [[populär]] — 受欢迎的\n- [[trång]] — 狭窄的\n- [[livlig]] — 热闹的\n\n### 名词 (Substantiv, 14词)\n- [[bil]] — 汽车 (en)\n- [[buss]] — 公共汽车 (en)\n- [[gata]] — 街道 (en)\n- [[väg]] — 道路 (en)\n- [[bro]] — 桥 (en)\n- [[station]] — 车站 (en)\n- [[tåg]] — 火车 (ett)\n- [[cykel]] — 自行车 (en)\n- [[hus]] — 房子 (ett)\n- [[lastbil]] — 卡车 (en)\n- [[tunnel]] — 隧道 (en)\n- [[hållplats]] — 站点 (en)\n- [[parkering]] — 停车场 (en)\n- [[stad]] — 城市 (en)",
+      "excerpt": "📄 Adjektiv+substantiv böjning — Stad & Trafik (城市交通) 类型: drill (adjektiv + substantiv 四式变形) · 难度: A1 A2 · 来源: 每日 /adjsubst 生成 原文 (Source Text) 25 组 adj + substantiv（城市交通主题）四式变形练习。完整复习表见 inbox/adjsubst 2026 06 15 stad tr",
+      "forms": [],
+      "links": [
+        "bil",
+        "bred",
+        "bro",
+        "buss",
+        "central",
+        "cykel",
+        "gata",
+        "grammar-adjektiv-bojning",
+        "grammar-substantiv-plural",
+        "grön",
+        "gul",
+        "hållplats",
+        "hög",
+        "hus",
+        "lastbil",
+        "livlig",
+        "parkering",
+        "populär",
+        "stad",
+        "station",
+        "tåg",
+        "tom",
+        "trång",
+        "trasig",
+        "tung",
+        "tunnel",
+        "väg"
+      ],
+      "searchText": "Adjektiv+substantiv böjning — Stad & Trafik source-2026-06-15-stad-trafik knowledge_base/sources/source-2026-06-15-stad-trafik.md ---\ntype: source\ntitle: \"Adjektiv+substantiv böjning — Stad & Trafik\"\nkind: drill\ncefr: A1-A2\ndate_added: 2026-06-15\nwords:\n  - bred\n  - tom\n  - grön\n  - tung\n  - gul\n  - central\n  - hög\n  - trasig\n  - populär\n  - trång\n  - livlig\n  - bil\n  - buss\n  - gata\n  - väg\n  - bro\n  - station\n  - tåg\n  - cykel\n  - hus\n  - lastbil\n  - tunnel\n  - hållplats\n  - parkering\n  - stad\nphrases: []\nsentences: []\ngrammar:\n  - grammar-adjektiv-bojning\n  - grammar-substantiv-plural\n---\n\n# 📄 Adjektiv+substantiv böjning — Stad & Trafik (城市交通)\n\n类型: drill (adjektiv + substantiv 四式变形) · 难度: A1-A2 · 来源: 每日 /adjsubst 生成\n\n## 原文 (Source Text)\n\n25 组 adj + substantiv（城市交通主题）四式变形练习。完整复习表见\n`inbox/adjsubst-2026-06-15-stad-trafik.md`。本笔记记录从该页导入的词条。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: 见下方 frontmatter `words:`（由 librarian 填充）\n- 语法: [[grammar-adjektiv-bojning]] · [[grammar-substantiv-plural]]\n\n### 形容词 (Adjektiv, 11词)\n- [[bred]] — 宽的\n- [[tom]] — 空的\n- [[grön]] — 绿色的\n- [[tung]] — 重的\n- [[gul]] — 黄色的\n- [[central]] — 中心的\n- [[hög]] — 高的\n- [[trasig]] — 损坏的\n- [[populär]] — 受欢迎的\n- [[trång]] — 狭窄的\n- [[livlig]] — 热闹的\n\n### 名词 (Substantiv, 14词)\n- [[bil]] — 汽车 (en)\n- [[buss]] — 公共汽车 (en)\n- [[gata]] — 街道 (en)\n- [[väg]] — 道路 (en)\n- [[bro]] — 桥 (en)\n- [[station]] — 车站 (en)\n- [[tåg]] — 火车 (ett)\n- [[cykel]] — 自行车 (en)\n- [[hus]] — 房子 (ett)\n- [[lastbil]] — 卡车 (en)\n- [[tunnel]] — 隧道 (en)\n- [[hållplats]] — 站点 (en)\n- [[parkering]] — 停车场 (en)\n- [[stad]] — 城市 (en)\n",
+      "cefr": "A1-A2",
+      "date_added": "2026-06-15",
+      "kind": "drill",
+      "words": [
+        "bred",
+        "tom",
+        "grön",
+        "tung",
+        "gul",
+        "central",
+        "hög",
+        "trasig",
+        "populär",
+        "trång",
+        "livlig",
+        "bil",
+        "buss",
+        "gata",
+        "väg",
+        "bro",
+        "station",
+        "tåg",
+        "cykel",
+        "hus",
+        "lastbil",
+        "tunnel",
+        "hållplats",
+        "parkering",
+        "stad"
+      ],
+      "phrases": [],
+      "sentences": [],
+      "grammar": [
+        "grammar-adjektiv-bojning",
+        "grammar-substantiv-plural"
+      ],
+      "backlinks": [
+        "bil",
+        "bred",
+        "bro",
+        "buss",
+        "central",
+        "cykel",
+        "gata",
+        "grön",
+        "gul",
+        "hållplats",
+        "hög",
+        "hus",
+        "lastbil",
+        "livlig",
+        "parkering",
+        "populär",
+        "stad",
+        "station",
+        "tåg",
+        "tom",
+        "topic-kollektivtrafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "trång",
+        "trasig",
+        "tung",
+        "tunnel",
+        "väg"
+      ]
+    },
+    {
       "slug": "topic-arbete",
       "type": "topic",
       "title": "arbete",
@@ -12985,31 +15910,50 @@ window.KB_DATA = {
       "type": "topic",
       "title": "betalning",
       "path": "knowledge_base/topics/topic-betalning.md",
-      "body": "# 🗂️ betalning — 支付与货币\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[krona]] — 克朗（瑞典货币）\n- [[öre]] — 厄雷（克朗的百分之一）\n- [[kvitto]] — 收据\n- [[kontant]] — 现金\n- [[betala]] — 支付\n- [[totalt]] — 总共\n- [[tar-ni-kort]] — 你们刷卡吗？\n- [[det-blir-x-kronor]] — 一共X克朗\n- [[kort]] — 卡；银行卡（已存在）\n\n## 备注 (Notes)\n\n- 在瑞典购物/用餐时的支付相关词汇。\n- 现代瑞典越来越无现金化，Swish（手机支付应用）和银行卡是最常见支付方式。\n- *Tar ni kort?* 是去任何商店必备的询问语。",
-      "excerpt": "🗂️ betalning — 支付与货币 类型: semantic field 成员 (Members) krona — 克朗（瑞典货币） öre — 厄雷（克朗的百分之一） kvitto — 收据 kontant — 现金 betala — 支付 totalt — 总共 tar ni kort — 你们刷卡吗？ det blir x kronor — 一共X克朗 kort — 卡；银行卡（已存在） 备注 (Notes) 在瑞典购物/",
+      "body": "# betalning — 支付与货币\n\n类型: semantic-field\n\n## 成员 (Members)\n\n**Grundläggande betalning (基本支付)**\n- [[krona]] — 克朗（瑞典货币）\n- [[öre]] — 厄雷（克朗的百分之一）\n- [[kvitto]] — 收据\n- [[kontant]] — 现金\n- [[betala]] — 支付\n- [[totalt]] — 总共\n\n**Betalningssätt (支付方式)**\n- [[kort]] — 卡；银行卡（已存在）\n- [[tar-ni-kort]] — 你们刷卡吗？\n- [[betala-med-kort-eller-swish]] — 用卡还是 Swish 付（新）\n\n**Nota & dela (账单与分摊)**\n- [[nota]] — 账单（餐厅专用）\n- [[kan-vi-få-notan]] — 可以买单吗？\n- [[kan-vi-dela-på-notan]] — 我们能分开付吗？（新）\n- [[var-sin-del]] — 各付各的（新）\n\n**Dricks (小费)**\n- [[dricks]] — 小费（新）\n- [[lägga-till-dricks]] — 加小费（新）\n- [[avrunda]] — 取整/凑整（新）\n- [[frivillig]] — 自愿的（新）\n\n**Kassafraser (收银台用语)**\n- [[det-blir-x-kronor]] — 一共X克朗\n\n## 备注 (Notes)\n\n- 在瑞典购物/用餐时的支付相关词汇。\n- 现代瑞典越来越无现金化，Swish（手机支付应用）和银行卡是最常见支付方式。\n- *Tar ni kort?* 是去任何商店必备的询问语。\n- *Kan vi få notan?* 是餐厅买单的标准表达；*Kan vi dela på notan?* 是 AA 制付账。\n- *Dricks* 在瑞典完全自愿，通过 *avrunda uppåt*（向上取整）是最常见的给小费方式。\n- *nota* 特指餐厅账单，而 *kvitto* 泛指收据。\n- Källa: [[source-2026-06-09-fika-pa-cafe]] · [[source-2026-06-15-restaurang-middag]] · [[source-2026-06-15-restaurang-allergi-nota]] · [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "betalning — 支付与货币 类型: semantic field 成员 (Members) Grundläggande betalning (基本支付) krona — 克朗（瑞典货币） öre — 厄雷（克朗的百分之一） kvitto — 收据 kontant — 现金 betala — 支付 totalt — 总共 Betalningssätt (支付方式) kort — 卡；银行卡（已存在） tar ni kort — 你",
       "forms": [],
       "links": [
+        "avrunda",
         "betala",
+        "betala-med-kort-eller-swish",
         "det-blir-x-kronor",
+        "dricks",
+        "frivillig",
+        "kan-vi-dela-på-notan",
+        "kan-vi-få-notan",
         "kontant",
         "kort",
         "krona",
         "kvitto",
+        "lägga-till-dricks",
+        "nota",
         "öre",
+        "source-2026-06-09-fika-pa-cafe",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "source-2026-06-15-restaurang-middag",
+        "source-2026-06-15-restaurang-rekommendation",
         "tar-ni-kort",
-        "totalt"
+        "totalt",
+        "var-sin-del"
       ],
-      "searchText": "betalning topic-betalning knowledge_base/topics/topic-betalning.md ---\ntype: topic\nname: \"betalning\"\nkind: semantic-field\nzh: 支付与货币\nmembers:\n  - krona\n  - öre\n  - kvitto\n  - kontant\n  - betala\n  - totalt\n  - tar-ni-kort\n  - det-blir-x-kronor\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ betalning — 支付与货币\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[krona]] — 克朗（瑞典货币）\n- [[öre]] — 厄雷（克朗的百分之一）\n- [[kvitto]] — 收据\n- [[kontant]] — 现金\n- [[betala]] — 支付\n- [[totalt]] — 总共\n- [[tar-ni-kort]] — 你们刷卡吗？\n- [[det-blir-x-kronor]] — 一共X克朗\n- [[kort]] — 卡；银行卡（已存在）\n\n## 备注 (Notes)\n\n- 在瑞典购物/用餐时的支付相关词汇。\n- 现代瑞典越来越无现金化，Swish（手机支付应用）和银行卡是最常见支付方式。\n- *Tar ni kort?* 是去任何商店必备的询问语。\n",
+      "searchText": "betalning topic-betalning knowledge_base/topics/topic-betalning.md ---\ntype: topic\nname: \"betalning\"\nkind: semantic-field\nzh: 支付与货币\nmembers:\n  - krona\n  - öre\n  - kvitto\n  - kontant\n  - betala\n  - totalt\n  - tar-ni-kort\n  - det-blir-x-kronor\n  - nota\n  - kan-vi-få-notan\n  - dricks\n  - avrunda\n  - frivillig\n  - var-sin-del\n  - kan-vi-dela-på-notan\n  - betala-med-kort-eller-swish\n  - lägga-till-dricks\ncreated: \"2026-06-09\"\n---\n\n# betalning — 支付与货币\n\n类型: semantic-field\n\n## 成员 (Members)\n\n**Grundläggande betalning (基本支付)**\n- [[krona]] — 克朗（瑞典货币）\n- [[öre]] — 厄雷（克朗的百分之一）\n- [[kvitto]] — 收据\n- [[kontant]] — 现金\n- [[betala]] — 支付\n- [[totalt]] — 总共\n\n**Betalningssätt (支付方式)**\n- [[kort]] — 卡；银行卡（已存在）\n- [[tar-ni-kort]] — 你们刷卡吗？\n- [[betala-med-kort-eller-swish]] — 用卡还是 Swish 付（新）\n\n**Nota & dela (账单与分摊)**\n- [[nota]] — 账单（餐厅专用）\n- [[kan-vi-få-notan]] — 可以买单吗？\n- [[kan-vi-dela-på-notan]] — 我们能分开付吗？（新）\n- [[var-sin-del]] — 各付各的（新）\n\n**Dricks (小费)**\n- [[dricks]] — 小费（新）\n- [[lägga-till-dricks]] — 加小费（新）\n- [[avrunda]] — 取整/凑整（新）\n- [[frivillig]] — 自愿的（新）\n\n**Kassafraser (收银台用语)**\n- [[det-blir-x-kronor]] — 一共X克朗\n\n## 备注 (Notes)\n\n- 在瑞典购物/用餐时的支付相关词汇。\n- 现代瑞典越来越无现金化，Swish（手机支付应用）和银行卡是最常见支付方式。\n- *Tar ni kort?* 是去任何商店必备的询问语。\n- *Kan vi få notan?* 是餐厅买单的标准表达；*Kan vi dela på notan?* 是 AA 制付账。\n- *Dricks* 在瑞典完全自愿，通过 *avrunda uppåt*（向上取整）是最常见的给小费方式。\n- *nota* 特指餐厅账单，而 *kvitto* 泛指收据。\n- Källa: [[source-2026-06-09-fika-pa-cafe]] · [[source-2026-06-15-restaurang-middag]] · [[source-2026-06-15-restaurang-allergi-nota]] · [[source-2026-06-15-restaurang-rekommendation]]\n",
       "name": "betalning",
       "zh": "支付与货币",
       "created": "2026-06-09",
       "kind": "semantic-field",
       "backlinks": [
+        "avrunda",
         "betala",
+        "dricks",
+        "frivillig",
         "kontant",
         "krona",
         "kvitto",
+        "nota",
         "öre",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "source-2026-06-15-restaurang-middag",
         "totalt"
       ]
     },
@@ -13330,6 +16274,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "kind": "semantic-field",
       "backlinks": [
+        "allergisk",
         "energidryck",
         "frisk",
         "hälsa",
@@ -13337,12 +16282,14 @@ window.KB_DATA = {
         "index",
         "kall",
         "koffein",
+        "laktos",
         "luft",
         "oro",
         "patient",
         "sjuk",
         "sömn",
         "source-2026-06-04-nyheter-vecka-22",
+        "tåla",
         "topic-kropp"
       ]
     },
@@ -13391,6 +16338,7 @@ window.KB_DATA = {
         "bekväm",
         "bok",
         "bokhylla",
+        "bord",
         "dator",
         "element",
         "fåtölj",
@@ -13565,30 +16513,41 @@ window.KB_DATA = {
       "type": "topic",
       "title": "kollektivtrafik",
       "path": "knowledge_base/topics/topic-kollektivtrafik.md",
-      "body": "# 🗂️ kollektivtrafik — 公共交通\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[kollektivtrafik]] — 公共交通（总称）\n- [[månadskort]] — 月票\n- [[spårvagn]] — 有轨电车\n- [[tunnelbana]] — 地铁（已有词条）\n- [[linje]] — 线路（已有词条）\n\n## 备注 (Notes)\n\n- 与新闻话题\"交通月票降价\"相关：[[source-2026-06-04-nyheter-vecka-22]]\n- 参见 [[topic-nyheter-vecka22]] 第2话题",
-      "excerpt": "🗂️ kollektivtrafik — 公共交通 类型: semantic field 成员 (Members) kollektivtrafik — 公共交通（总称） månadskort — 月票 spårvagn — 有轨电车 tunnelbana — 地铁（已有词条） linje — 线路（已有词条） 备注 (Notes) 与新闻话题\"交通月票降价\"相关：source 2026 06 04 nyheter vecka 22 参",
+      "body": "# 🗂️ kollektivtrafik — 公共交通\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[kollektivtrafik]] — 公共交通（总称）\n- [[månadskort]] — 月票\n- [[spårvagn]] — 有轨电车\n- [[tunnelbana]] — 地铁（已有词条）\n- [[linje]] — 线路（已有词条）\n- [[buss]] — 公共汽车\n- [[tåg]] — 火车\n- [[hållplats]] — 站点（公交/有轨电车）\n- [[station]] — 车站（火车/地铁）\n- [[cykel]] — 自行车\n\n## 备注 (Notes)\n\n- 与新闻话题\"交通月票降价\"相关：[[source-2026-06-04-nyheter-vecka-22]]\n- 参见 [[topic-nyheter-vecka22]] 第2话题\n- 新增词条来源：[[source-2026-06-15-stad-trafik]]",
+      "excerpt": "🗂️ kollektivtrafik — 公共交通 类型: semantic field 成员 (Members) kollektivtrafik — 公共交通（总称） månadskort — 月票 spårvagn — 有轨电车 tunnelbana — 地铁（已有词条） linje — 线路（已有词条） buss — 公共汽车 tåg — 火车 hållplats — 站点（公交/有轨电车） station — 车站（火车/地铁",
       "forms": [],
       "links": [
+        "buss",
+        "cykel",
+        "hållplats",
         "kollektivtrafik",
         "linje",
         "månadskort",
         "source-2026-06-04-nyheter-vecka-22",
+        "source-2026-06-15-stad-trafik",
         "spårvagn",
+        "station",
+        "tåg",
         "topic-nyheter-vecka22",
         "tunnelbana"
       ],
-      "searchText": "kollektivtrafik topic-kollektivtrafik knowledge_base/topics/topic-kollektivtrafik.md ---\ntype: topic\nname: \"kollektivtrafik\"\nkind: semantic-field\nzh: \"公共交通\"\nmembers: [kollektivtrafik, månadskort, spårvagn, tunnelbana, linje]\ncreated: \"2026-06-04\"\n---\n\n# 🗂️ kollektivtrafik — 公共交通\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[kollektivtrafik]] — 公共交通（总称）\n- [[månadskort]] — 月票\n- [[spårvagn]] — 有轨电车\n- [[tunnelbana]] — 地铁（已有词条）\n- [[linje]] — 线路（已有词条）\n\n## 备注 (Notes)\n\n- 与新闻话题\"交通月票降价\"相关：[[source-2026-06-04-nyheter-vecka-22]]\n- 参见 [[topic-nyheter-vecka22]] 第2话题\n",
+      "searchText": "kollektivtrafik topic-kollektivtrafik knowledge_base/topics/topic-kollektivtrafik.md ---\ntype: topic\nname: \"kollektivtrafik\"\nkind: semantic-field\nzh: \"公共交通\"\nmembers: [kollektivtrafik, månadskort, spårvagn, tunnelbana, linje, buss, tåg, hållplats, station, cykel]\ncreated: \"2026-06-04\"\n---\n\n# 🗂️ kollektivtrafik — 公共交通\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[kollektivtrafik]] — 公共交通（总称）\n- [[månadskort]] — 月票\n- [[spårvagn]] — 有轨电车\n- [[tunnelbana]] — 地铁（已有词条）\n- [[linje]] — 线路（已有词条）\n- [[buss]] — 公共汽车\n- [[tåg]] — 火车\n- [[hållplats]] — 站点（公交/有轨电车）\n- [[station]] — 车站（火车/地铁）\n- [[cykel]] — 自行车\n\n## 备注 (Notes)\n\n- 与新闻话题\"交通月票降价\"相关：[[source-2026-06-04-nyheter-vecka-22]]\n- 参见 [[topic-nyheter-vecka22]] 第2话题\n- 新增词条来源：[[source-2026-06-15-stad-trafik]]\n",
       "name": "kollektivtrafik",
       "zh": "公共交通",
       "created": "2026-06-04",
       "kind": "semantic-field",
       "backlinks": [
+        "buss",
         "centralstation",
+        "cykel",
+        "hållplats",
         "index",
         "kollektivtrafik",
         "månadskort",
         "source-2026-06-04-nyheter-vecka-22",
         "spårvagn",
+        "station",
+        "tåg",
         "topic-trafik"
       ]
     },
@@ -13671,91 +16630,169 @@ window.KB_DATA = {
       "type": "topic",
       "title": "mat-dryck",
       "path": "knowledge_base/topics/topic-mat-dryck.md",
-      "body": "# Mat & Dryck — 食物饮料\n\n类型: semantic-field\n\n## 成员 (Members)\n\n**Grönsaker (蔬菜)**\n- [[tomat]] — 番茄\n- [[gurka]] — 黄瓜\n- [[potatis]] — 土豆\n- [[morot]] — 胡萝卜\n- [[lök]] — 洋葱\n- [[sallad]] — 沙拉/生菜\n\n**Frukt (水果)**\n- [[äpple]] — 苹果\n- [[banan]] — 香蕉\n- [[apelsin]] — 橙子\n- [[päron]] — 梨\n\n**Kött & Protein (肉类/蛋白质)**\n- [[kyckling]] — 鸡肉\n- [[korv]] — 香肠\n- [[ägg]] — 鸡蛋\n- [[ost]] — 奶酪\n\n**Bröd & Bakverk (面包/烘焙)**\n- [[bröd]] — 面包\n- [[bulle]] — 小圆面包\n- [[kaka]] — 饼干/蛋糕\n- [[tårta]] — 奶油蛋糕\n- [[pizza]] — 披萨\n\n**Dryck (饮料)**\n- [[juice]] — 果汁\n- [[glass]] — 冰淇淋\n\n**Rätter (菜肴)**\n- [[soppa]] — 汤\n\n**Smak-adjektiv (味道形容词)**\n- [[salt]] — 咸的\n- [[sur]] — 酸的\n- [[bitter]] — 苦的\n- [[saftig]] — 多汁的\n- [[nyttig]] — 健康的\n\n**Konsistens-adjektiv (质地形容词)**\n- [[hård]] — 硬的\n- [[mjuk]] — 软的\n- [[krispig]] — 脆的\n- [[mogen]] — 成熟的/熟的\n- [[rå]] — 生的\n\n**Temperatur-adjektiv (温度形容词)**\n- [[varm]] — 温热的\n- [[het]] — 烫/辣的\n\n**Bordsartiklar (餐具)**\n- [[tallrik]] — 盘子\n- [[ren]] — 干净的\n\n## 备注 (Notes)\n\n- Smak (味道): salt 咸, sur 酸, bitter 苦, söt 甜（söt 已存在 → 见 [[söt]]）\n- Synonympar i temat: [[hård]] ↔ [[mjuk]], [[varm]] ~ [[het]], [[rå]] ↔ [[mogen]]\n- Källa: [[source-2026-06-11-mat-dryck]]",
+      "body": "# Mat & Dryck — 食物饮料\n\n类型: semantic-field\n\n## 成员 (Members)\n\n**Grönsaker (蔬菜)**\n- [[tomat]] — 番茄\n- [[gurka]] — 黄瓜\n- [[potatis]] — 土豆\n- [[morot]] — 胡萝卜\n- [[lök]] — 洋葱\n- [[sallad]] — 沙拉/生菜\n\n**Frukt (水果)**\n- [[äpple]] — 苹果\n- [[banan]] — 香蕉\n- [[apelsin]] — 橙子\n- [[päron]] — 梨\n\n**Kött & Protein (肉类/蛋白质)**\n- [[kyckling]] — 鸡肉\n- [[korv]] — 香肠\n- [[ägg]] — 鸡蛋\n- [[ost]] — 奶酪\n- [[köttbulle]] — 肉丸\n- [[lax]] — 三文鱼\n\n**Bröd & Bakverk (面包/烘焙)**\n- [[bröd]] — 面包\n- [[bulle]] — 小圆面包\n- [[kaka]] — 饼干/蛋糕\n- [[tårta]] — 奶油蛋糕\n- [[pizza]] — 披萨\n\n**Tillbehör & Rätter (配菜/菜肴)**\n- [[potatismos]] — 土豆泥\n- [[soppa]] — 汤\n- [[fisksoppa]] — 鱼汤（新）\n- [[ris]] — 米饭（新）\n- [[nöt]] — 坚果（新）\n- [[grädde]] — 奶油（新）\n- [[laktos]] — 乳糖（新）\n\n**Dryck (饮料)**\n- [[juice]] — 果汁\n- [[glass]] — 冰淇淋\n- [[rödvin]] — 红酒\n\n**Restaurang — beställa (餐厅点餐)**\n- [[boka]] — 预订\n- [[bord]] — 桌子\n- [[meny]] — 菜单\n- [[beställa]] — 点餐/订购\n- [[rekommendera]] — 推荐\n- [[grillad]] — 烤的\n- [[rostad]] — 烤的/焙的（新）\n- [[förrätt]] — 前菜\n- [[efterrätt]] — 甜点（新）\n- [[måltid]] — 一餐\n- [[kött]] — 肉（新）\n- [[fläskfilé]] — 猪柳（新）\n- [[pasta]] — 意面（新）\n- [[svamp]] — 蘑菇（新）\n- [[grönsak]] — 蔬菜（新）\n- [[öl]] — 啤酒（新）\n- [[äppelpaj]] — 苹果派（新）\n- [[vegetarisk]] — 素食的（新）\n\n**Allergi & specialkost (过敏/特殊饮食)**\n- [[allergisk]] — 过敏的\n- [[tåla]] — 耐受\n- [[värma]] — 加热\n\n**Smak-adjektiv (味道形容词)**\n- [[salt]] — 咸的\n- [[sur]] — 酸的\n- [[bitter]] — 苦的\n- [[saftig]] — 多汁的\n- [[nyttig]] — 健康的\n\n**Konsistens-adjektiv (质地形容词)**\n- [[hård]] — 硬的\n- [[mjuk]] — 软的\n- [[krispig]] — 脆的\n- [[mogen]] — 成熟的/熟的\n- [[rå]] — 生的\n\n**Temperatur-adjektiv (温度形容词)**\n- [[varm]] — 温热的\n- [[het]] — 烫/辣的\n\n**Bordsartiklar (餐具)**\n- [[tallrik]] — 盘子\n- [[ren]] — 干净的\n\n**Restaurangfraser (餐厅用语)**\n- [[har-ni-bokat-bord]] — 订位了吗\n- [[har-ni-bestämt-er]] — 你们想好了吗\n- [[smaklig-måltid]] — 祝用餐愉快\n- [[vad-kan-ni-rekommendera]] — 你们有什么推荐\n- [[vad-rekommenderar-ni]] — 你们推荐什么（新）\n- [[dagens-rätt]] — 今日例餐（新）\n- [[det-låter-gott]] — 听起来很好吃（新）\n- [[bra-val]] — 好选择（新）\n- [[vad-har-ni-för]] — 你们有什么样的…？（新）\n- [[välkommen-åter]] — 欢迎再来（新）\n- [[jag-är-allergisk-mot]] — 我对…过敏\n- [[det-ordnar-vi]] — 这个我们能搞定\n- [[inga-problem]] — 没问题\n\n## 备注 (Notes)\n\n- Smak (味道): salt 咸, sur 酸, bitter 苦, söt 甜（söt 已存在 → 见 [[söt]]）\n- Synonympar i temat: [[hård]] ↔ [[mjuk]], [[varm]] ~ [[het]], [[rå]] ↔ [[mogen]]\n- Allergi-grupp: [[allergisk]], [[tåla]], [[nöt]], [[laktos]], [[grädde]] — alla relaterade till allergi och specialkost\n- Källa: [[source-2026-06-11-mat-dryck]] · [[source-2026-06-15-restaurang-middag]] · [[source-2026-06-15-restaurang-allergi-nota]] · [[source-2026-06-15-restaurang-rekommendation]]",
       "excerpt": "Mat & Dryck — 食物饮料 类型: semantic field 成员 (Members) Grönsaker (蔬菜) tomat — 番茄 gurka — 黄瓜 potatis — 土豆 morot — 胡萝卜 lök — 洋葱 sallad — 沙拉/生菜 Frukt (水果) äpple — 苹果 banan — 香蕉 apelsin — 橙子 päron — 梨 Kött & Protein (肉类/蛋白质) kyc",
       "forms": [],
       "links": [
         "ägg",
+        "allergisk",
         "apelsin",
+        "äppelpaj",
         "äpple",
         "banan",
+        "beställa",
         "bitter",
+        "boka",
+        "bord",
+        "bra-val",
         "bröd",
         "bulle",
+        "dagens-rätt",
+        "det-låter-gott",
+        "det-ordnar-vi",
+        "efterrätt",
+        "fisksoppa",
+        "fläskfilé",
+        "förrätt",
         "glass",
+        "grädde",
+        "grillad",
+        "grönsak",
         "gurka",
+        "har-ni-bestämt-er",
+        "har-ni-bokat-bord",
         "hård",
         "het",
+        "inga-problem",
+        "jag-är-allergisk-mot",
         "juice",
         "kaka",
         "korv",
+        "kött",
+        "köttbulle",
         "krispig",
         "kyckling",
+        "laktos",
+        "lax",
         "lök",
+        "måltid",
+        "meny",
         "mjuk",
         "mogen",
         "morot",
+        "nöt",
         "nyttig",
+        "öl",
         "ost",
         "päron",
+        "pasta",
         "pizza",
         "potatis",
+        "potatismos",
         "rå",
+        "rekommendera",
         "ren",
+        "ris",
+        "rödvin",
+        "rostad",
         "saftig",
         "sallad",
         "salt",
+        "smaklig-måltid",
         "soppa",
         "söt",
         "source-2026-06-11-mat-dryck",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "source-2026-06-15-restaurang-middag",
+        "source-2026-06-15-restaurang-rekommendation",
         "sur",
+        "svamp",
+        "tåla",
         "tallrik",
         "tårta",
         "tomat",
-        "varm"
+        "vad-har-ni-för",
+        "vad-kan-ni-rekommendera",
+        "vad-rekommenderar-ni",
+        "välkommen-åter",
+        "varm",
+        "värma",
+        "vegetarisk"
       ],
-      "searchText": "mat-dryck topic-mat-dryck knowledge_base/topics/topic-mat-dryck.md ---\ntype: topic\nname: \"mat-dryck\"\nkind: semantic-field\nzh: \"食物饮料\"\nmembers:\n  - mogen\n  - äpple\n  - banan\n  - tomat\n  - gurka\n  - potatis\n  - saftig\n  - morot\n  - lök\n  - hård\n  - ost\n  - salt\n  - korv\n  - mjuk\n  - bulle\n  - krispig\n  - kaka\n  - tårta\n  - glass\n  - varm\n  - soppa\n  - nyttig\n  - sallad\n  - pizza\n  - rå\n  - ägg\n  - bröd\n  - het\n  - kyckling\n  - sur\n  - apelsin\n  - päron\n  - bitter\n  - juice\n  - ren\n  - tallrik\ncreated: 2026-06-11\n---\n\n# Mat & Dryck — 食物饮料\n\n类型: semantic-field\n\n## 成员 (Members)\n\n**Grönsaker (蔬菜)**\n- [[tomat]] — 番茄\n- [[gurka]] — 黄瓜\n- [[potatis]] — 土豆\n- [[morot]] — 胡萝卜\n- [[lök]] — 洋葱\n- [[sallad]] — 沙拉/生菜\n\n**Frukt (水果)**\n- [[äpple]] — 苹果\n- [[banan]] — 香蕉\n- [[apelsin]] — 橙子\n- [[päron]] — 梨\n\n**Kött & Protein (肉类/蛋白质)**\n- [[kyckling]] — 鸡肉\n- [[korv]] — 香肠\n- [[ägg]] — 鸡蛋\n- [[ost]] — 奶酪\n\n**Bröd & Bakverk (面包/烘焙)**\n- [[bröd]] — 面包\n- [[bulle]] — 小圆面包\n- [[kaka]] — 饼干/蛋糕\n- [[tårta]] — 奶油蛋糕\n- [[pizza]] — 披萨\n\n**Dryck (饮料)**\n- [[juice]] — 果汁\n- [[glass]] — 冰淇淋\n\n**Rätter (菜肴)**\n- [[soppa]] — 汤\n\n**Smak-adjektiv (味道形容词)**\n- [[salt]] — 咸的\n- [[sur]] — 酸的\n- [[bitter]] — 苦的\n- [[saftig]] — 多汁的\n- [[nyttig]] — 健康的\n\n**Konsistens-adjektiv (质地形容词)**\n- [[hård]] — 硬的\n- [[mjuk]] — 软的\n- [[krispig]] — 脆的\n- [[mogen]] — 成熟的/熟的\n- [[rå]] — 生的\n\n**Temperatur-adjektiv (温度形容词)**\n- [[varm]] — 温热的\n- [[het]] — 烫/辣的\n\n**Bordsartiklar (餐具)**\n- [[tallrik]] — 盘子\n- [[ren]] — 干净的\n\n## 备注 (Notes)\n\n- Smak (味道): salt 咸, sur 酸, bitter 苦, söt 甜（söt 已存在 → 见 [[söt]]）\n- Synonympar i temat: [[hård]] ↔ [[mjuk]], [[varm]] ~ [[het]], [[rå]] ↔ [[mogen]]\n- Källa: [[source-2026-06-11-mat-dryck]]\n",
+      "searchText": "mat-dryck topic-mat-dryck knowledge_base/topics/topic-mat-dryck.md ---\ntype: topic\nname: \"mat-dryck\"\nkind: semantic-field\nzh: \"食物饮料\"\nmembers:\n  - mogen\n  - äpple\n  - banan\n  - tomat\n  - gurka\n  - potatis\n  - saftig\n  - morot\n  - lök\n  - hård\n  - ost\n  - salt\n  - korv\n  - mjuk\n  - bulle\n  - krispig\n  - kaka\n  - tårta\n  - glass\n  - varm\n  - soppa\n  - nyttig\n  - sallad\n  - pizza\n  - rå\n  - ägg\n  - bröd\n  - het\n  - kyckling\n  - sur\n  - apelsin\n  - päron\n  - bitter\n  - juice\n  - ren\n  - tallrik\n  - boka\n  - bord\n  - meny\n  - beställa\n  - rödvin\n  - köttbulle\n  - potatismos\n  - grillad\n  - lax\n  - förrätt\n  - måltid\n  - har-ni-bokat-bord\n  - har-ni-bestämt-er\n  - smaklig-måltid\n  - nöt\n  - fisksoppa\n  - ris\n  - grädde\n  - laktos\n  - allergisk\n  - värma\n  - tåla\n  - rekommendera\n  - vad-kan-ni-rekommendera\n  - jag-är-allergisk-mot\n  - det-ordnar-vi\n  - inga-problem\n  - vegetarisk\n  - pasta\n  - svamp\n  - kött\n  - fläskfilé\n  - rostad\n  - grönsak\n  - öl\n  - efterrätt\n  - äppelpaj\n  - dagens-rätt\n  - vad-rekommenderar-ni\n  - det-låter-gott\n  - bra-val\n  - vad-har-ni-för\n  - välkommen-åter\ncreated: 2026-06-11\n---\n\n# Mat & Dryck — 食物饮料\n\n类型: semantic-field\n\n## 成员 (Members)\n\n**Grönsaker (蔬菜)**\n- [[tomat]] — 番茄\n- [[gurka]] — 黄瓜\n- [[potatis]] — 土豆\n- [[morot]] — 胡萝卜\n- [[lök]] — 洋葱\n- [[sallad]] — 沙拉/生菜\n\n**Frukt (水果)**\n- [[äpple]] — 苹果\n- [[banan]] — 香蕉\n- [[apelsin]] — 橙子\n- [[päron]] — 梨\n\n**Kött & Protein (肉类/蛋白质)**\n- [[kyckling]] — 鸡肉\n- [[korv]] — 香肠\n- [[ägg]] — 鸡蛋\n- [[ost]] — 奶酪\n- [[köttbulle]] — 肉丸\n- [[lax]] — 三文鱼\n\n**Bröd & Bakverk (面包/烘焙)**\n- [[bröd]] — 面包\n- [[bulle]] — 小圆面包\n- [[kaka]] — 饼干/蛋糕\n- [[tårta]] — 奶油蛋糕\n- [[pizza]] — 披萨\n\n**Tillbehör & Rätter (配菜/菜肴)**\n- [[potatismos]] — 土豆泥\n- [[soppa]] — 汤\n- [[fisksoppa]] — 鱼汤（新）\n- [[ris]] — 米饭（新）\n- [[nöt]] — 坚果（新）\n- [[grädde]] — 奶油（新）\n- [[laktos]] — 乳糖（新）\n\n**Dryck (饮料)**\n- [[juice]] — 果汁\n- [[glass]] — 冰淇淋\n- [[rödvin]] — 红酒\n\n**Restaurang — beställa (餐厅点餐)**\n- [[boka]] — 预订\n- [[bord]] — 桌子\n- [[meny]] — 菜单\n- [[beställa]] — 点餐/订购\n- [[rekommendera]] — 推荐\n- [[grillad]] — 烤的\n- [[rostad]] — 烤的/焙的（新）\n- [[förrätt]] — 前菜\n- [[efterrätt]] — 甜点（新）\n- [[måltid]] — 一餐\n- [[kött]] — 肉（新）\n- [[fläskfilé]] — 猪柳（新）\n- [[pasta]] — 意面（新）\n- [[svamp]] — 蘑菇（新）\n- [[grönsak]] — 蔬菜（新）\n- [[öl]] — 啤酒（新）\n- [[äppelpaj]] — 苹果派（新）\n- [[vegetarisk]] — 素食的（新）\n\n**Allergi & specialkost (过敏/特殊饮食)**\n- [[allergisk]] — 过敏的\n- [[tåla]] — 耐受\n- [[värma]] — 加热\n\n**Smak-adjektiv (味道形容词)**\n- [[salt]] — 咸的\n- [[sur]] — 酸的\n- [[bitter]] — 苦的\n- [[saftig]] — 多汁的\n- [[nyttig]] — 健康的\n\n**Konsistens-adjektiv (质地形容词)**\n- [[hård]] — 硬的\n- [[mjuk]] — 软的\n- [[krispig]] — 脆的\n- [[mogen]] — 成熟的/熟的\n- [[rå]] — 生的\n\n**Temperatur-adjektiv (温度形容词)**\n- [[varm]] — 温热的\n- [[het]] — 烫/辣的\n\n**Bordsartiklar (餐具)**\n- [[tallrik]] — 盘子\n- [[ren]] — 干净的\n\n**Restaurangfraser (餐厅用语)**\n- [[har-ni-bokat-bord]] — 订位了吗\n- [[har-ni-bestämt-er]] — 你们想好了吗\n- [[smaklig-måltid]] — 祝用餐愉快\n- [[vad-kan-ni-rekommendera]] — 你们有什么推荐\n- [[vad-rekommenderar-ni]] — 你们推荐什么（新）\n- [[dagens-rätt]] — 今日例餐（新）\n- [[det-låter-gott]] — 听起来很好吃（新）\n- [[bra-val]] — 好选择（新）\n- [[vad-har-ni-för]] — 你们有什么样的…？（新）\n- [[välkommen-åter]] — 欢迎再来（新）\n- [[jag-är-allergisk-mot]] — 我对…过敏\n- [[det-ordnar-vi]] — 这个我们能搞定\n- [[inga-problem]] — 没问题\n\n## 备注 (Notes)\n\n- Smak (味道): salt 咸, sur 酸, bitter 苦, söt 甜（söt 已存在 → 见 [[söt]]）\n- Synonympar i temat: [[hård]] ↔ [[mjuk]], [[varm]] ~ [[het]], [[rå]] ↔ [[mogen]]\n- Allergi-grupp: [[allergisk]], [[tåla]], [[nöt]], [[laktos]], [[grädde]] — alla relaterade till allergi och specialkost\n- Källa: [[source-2026-06-11-mat-dryck]] · [[source-2026-06-15-restaurang-middag]] · [[source-2026-06-15-restaurang-allergi-nota]] · [[source-2026-06-15-restaurang-rekommendation]]\n",
       "name": "mat-dryck",
       "zh": "食物饮料",
       "created": "2026-06-11",
       "kind": "semantic-field",
       "backlinks": [
         "ägg",
+        "allergisk",
         "apelsin",
+        "äppelpaj",
         "äpple",
         "banan",
+        "beställa",
         "bitter",
+        "boka",
+        "bord",
         "bröd",
         "bulle",
+        "efterrätt",
+        "fisksoppa",
+        "fläskfilé",
+        "förrätt",
         "glass",
+        "grädde",
+        "grillad",
+        "grönsak",
         "gurka",
         "hård",
         "het",
         "juice",
         "kaka",
         "korv",
+        "kött",
+        "köttbulle",
         "krispig",
         "kyckling",
+        "laktos",
+        "lax",
         "lök",
+        "måltid",
+        "meny",
         "mjuk",
         "mogen",
         "morot",
+        "nöt",
         "nyttig",
+        "öl",
         "ost",
         "päron",
+        "pasta",
         "pizza",
         "potatis",
+        "potatismos",
         "rå",
+        "rekommendera",
         "ren",
+        "ris",
+        "rödvin",
+        "rostad",
         "saftig",
         "sallad",
         "salt",
         "soppa",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "source-2026-06-15-restaurang-middag",
         "sur",
+        "svamp",
+        "tåla",
         "tallrik",
         "tårta",
         "tomat",
-        "varm"
+        "varm",
+        "värma",
+        "vegetarisk"
       ]
     },
     {
@@ -14276,8 +17313,8 @@ window.KB_DATA = {
       "type": "topic",
       "title": "stadsmiljö",
       "path": "knowledge_base/topics/topic-stadsmiljo.md",
-      "body": "# 🗂️ stadsmiljö — 城市环境；街道场景\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 建筑与设施 (Byggnader & Anläggningar)\n- [[bank]] — 银行\n- [[apotek]] — 药店\n- [[kafé]] — 咖啡馆\n- [[livsmedelsbutik]] — 食品超市\n- [[byggnad]] — 建筑；楼\n- [[skylt]] — 招牌；标志\n\n### 公共空间 (Offentliga platser)\n- [[park]] — 公园\n- [[torg]] — 广场\n- [[trottoar]] — 人行道\n- [[korsning]] — 十字路口\n- [[busshållplats]] — 公共汽车站\n\n### 自然与景观 (Natur & Landskap)\n- [[träd]] — 树\n- [[fontän]] — 喷泉\n- [[bänk]] — 长椅\n\n### 交通 (Trafik)\n- [[trafikljus]] — 交通灯\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 活动与状态 (Aktiviteter)\n- [[promenera]] — 散步\n- [[växa]] — 生长\n- [[blinka]] — 闪烁\n\n### 形容词 (Adjektiv)\n- [[solig]] — 晴朗的\n- [[vanlig]] — 普通的\n\n### 名词 (Substantiv)\n- [[förmiddag]] — 上午\n- [[rörelse]] — 运动；活动\n- [[ägare]] — 主人\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]]\n- 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]\n- 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]",
-      "excerpt": "🗂️ stadsmiljö — 城市环境；街道场景 类型: semantic field 成员 (Members) 建筑与设施 (Byggnader & Anläggningar) bank — 银行 apotek — 药店 kafé — 咖啡馆 livsmedelsbutik — 食品超市 byggnad — 建筑；楼 skylt — 招牌；标志 公共空间 (Offentliga platser) park — 公园 torg — ",
+      "body": "# 🗂️ stadsmiljö — 城市环境；街道场景\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 建筑与设施 (Byggnader & Anläggningar)\n- [[bank]] — 银行\n- [[apotek]] — 药店\n- [[kafé]] — 咖啡馆\n- [[livsmedelsbutik]] — 食品超市\n- [[byggnad]] — 建筑；楼\n- [[skylt]] — 招牌；标志\n- [[hus]] — 房子；楼房\n- [[station]] — 车站\n\n### 公共空间 (Offentliga platser)\n- [[park]] — 公园\n- [[torg]] — 广场\n- [[trottoar]] — 人行道\n- [[korsning]] — 十字路口\n- [[busshållplats]] — 公共汽车站\n- [[gata]] — 街道\n- [[väg]] — 道路\n- [[bro]] — 桥梁\n- [[tunnel]] — 隧道\n- [[parkering]] — 停车场\n- [[stad]] — 城市\n\n### 自然与景观 (Natur & Landskap)\n- [[träd]] — 树\n- [[fontän]] — 喷泉\n- [[bänk]] — 长椅\n\n### 交通 (Trafik)\n- [[trafikljus]] — 交通灯\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 活动与状态 (Aktiviteter)\n- [[promenera]] — 散步\n- [[växa]] — 生长\n- [[blinka]] — 闪烁\n\n### 形容词 (Adjektiv)\n- [[solig]] — 晴朗的\n- [[vanlig]] — 普通的\n- [[hög]] — 高的\n- [[bred]] — 宽阔的\n- [[trång]] — 狭窄的；拥挤的\n- [[grön]] — 绿色的\n- [[gul]] — 黄色的\n- [[central]] — 中心的\n- [[tom]] — 空的\n- [[populär]] — 受欢迎的\n- [[livlig]] — 热闹的；活跃的\n- [[trasig]] — 损坏的\n\n### 名词 (Substantiv)\n- [[förmiddag]] — 上午\n- [[rörelse]] — 运动；活动\n- [[ägare]] — 主人\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]]\n- 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]\n- 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]",
+      "excerpt": "🗂️ stadsmiljö — 城市环境；街道场景 类型: semantic field 成员 (Members) 建筑与设施 (Byggnader & Anläggningar) bank — 银行 apotek — 药店 kafé — 咖啡馆 livsmedelsbutik — 食品超市 byggnad — 建筑；楼 skylt — 招牌；标志 hus — 房子；楼房 station — 车站 公共空间 (Offentliga p",
       "forms": [],
       "links": [
         "ägare",
@@ -14285,36 +17322,55 @@ window.KB_DATA = {
         "bank",
         "bänk",
         "blinka",
+        "bred",
+        "bro",
         "busshållplats",
         "byggnad",
+        "central",
         "cykla",
         "cyklist",
         "fontän",
         "förmiddag",
+        "gata",
         "grammar-det-finns",
         "grammar-ligga-sta-sitta",
         "grammar-prepositioner-rum",
         "grammar-presens",
+        "grön",
+        "gul",
+        "hög",
+        "hus",
         "kafé",
         "korsning",
+        "livlig",
         "livsmedelsbutik",
         "park",
+        "parkering",
+        "populär",
         "promenera",
         "rörelse",
         "skylt",
         "solig",
         "source-2026-06-09-beskriva-en-gata",
+        "source-2026-06-15-stad-trafik",
+        "stad",
+        "station",
+        "tom",
         "topic-riktningar",
         "topic-rumsliga-relationer",
         "topic-trafik",
         "torg",
         "träd",
         "trafikljus",
+        "trång",
+        "trasig",
         "trottoar",
+        "tunnel",
+        "väg",
         "vanlig",
         "växa"
       ],
-      "searchText": "stadsmiljö topic-stadsmiljo knowledge_base/topics/topic-stadsmiljo.md ---\ntype: topic\nname: stadsmiljö\nkind: semantic-field\nzh: 城市环境；街道场景\nmembers:\n  - bank\n  - apotek\n  - kafé\n  - bänk\n  - park\n  - träd\n  - livsmedelsbutik\n  - busshållplats\n  - trafikljus\n  - torg\n  - fontän\n  - trottoar\n  - korsning\n  - cykla\n  - cyklist\n  - ägare\n  - blinka\n  - rörelse\n  - vanlig\n  - växa\n  - promenera\n  - solig\n  - förmiddag\n  - byggnad\n  - skylt\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ stadsmiljö — 城市环境；街道场景\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 建筑与设施 (Byggnader & Anläggningar)\n- [[bank]] — 银行\n- [[apotek]] — 药店\n- [[kafé]] — 咖啡馆\n- [[livsmedelsbutik]] — 食品超市\n- [[byggnad]] — 建筑；楼\n- [[skylt]] — 招牌；标志\n\n### 公共空间 (Offentliga platser)\n- [[park]] — 公园\n- [[torg]] — 广场\n- [[trottoar]] — 人行道\n- [[korsning]] — 十字路口\n- [[busshållplats]] — 公共汽车站\n\n### 自然与景观 (Natur & Landskap)\n- [[träd]] — 树\n- [[fontän]] — 喷泉\n- [[bänk]] — 长椅\n\n### 交通 (Trafik)\n- [[trafikljus]] — 交通灯\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 活动与状态 (Aktiviteter)\n- [[promenera]] — 散步\n- [[växa]] — 生长\n- [[blinka]] — 闪烁\n\n### 形容词 (Adjektiv)\n- [[solig]] — 晴朗的\n- [[vanlig]] — 普通的\n\n### 名词 (Substantiv)\n- [[förmiddag]] — 上午\n- [[rörelse]] — 运动；活动\n- [[ägare]] — 主人\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]]\n- 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]\n- 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]\n",
+      "searchText": "stadsmiljö topic-stadsmiljo knowledge_base/topics/topic-stadsmiljo.md ---\ntype: topic\nname: stadsmiljö\nkind: semantic-field\nzh: 城市环境；街道场景\nmembers:\n  - bank\n  - apotek\n  - kafé\n  - bänk\n  - park\n  - träd\n  - livsmedelsbutik\n  - busshållplats\n  - trafikljus\n  - torg\n  - fontän\n  - trottoar\n  - korsning\n  - cykla\n  - cyklist\n  - ägare\n  - blinka\n  - rörelse\n  - vanlig\n  - växa\n  - promenera\n  - solig\n  - förmiddag\n  - byggnad\n  - skylt\n  - gata\n  - väg\n  - bro\n  - station\n  - hus\n  - tunnel\n  - parkering\n  - stad\n  - hög\n  - bred\n  - trång\n  - grön\n  - gul\n  - central\n  - tom\n  - populär\n  - livlig\n  - trasig\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ stadsmiljö — 城市环境；街道场景\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 建筑与设施 (Byggnader & Anläggningar)\n- [[bank]] — 银行\n- [[apotek]] — 药店\n- [[kafé]] — 咖啡馆\n- [[livsmedelsbutik]] — 食品超市\n- [[byggnad]] — 建筑；楼\n- [[skylt]] — 招牌；标志\n- [[hus]] — 房子；楼房\n- [[station]] — 车站\n\n### 公共空间 (Offentliga platser)\n- [[park]] — 公园\n- [[torg]] — 广场\n- [[trottoar]] — 人行道\n- [[korsning]] — 十字路口\n- [[busshållplats]] — 公共汽车站\n- [[gata]] — 街道\n- [[väg]] — 道路\n- [[bro]] — 桥梁\n- [[tunnel]] — 隧道\n- [[parkering]] — 停车场\n- [[stad]] — 城市\n\n### 自然与景观 (Natur & Landskap)\n- [[träd]] — 树\n- [[fontän]] — 喷泉\n- [[bänk]] — 长椅\n\n### 交通 (Trafik)\n- [[trafikljus]] — 交通灯\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 活动与状态 (Aktiviteter)\n- [[promenera]] — 散步\n- [[växa]] — 生长\n- [[blinka]] — 闪烁\n\n### 形容词 (Adjektiv)\n- [[solig]] — 晴朗的\n- [[vanlig]] — 普通的\n- [[hög]] — 高的\n- [[bred]] — 宽阔的\n- [[trång]] — 狭窄的；拥挤的\n- [[grön]] — 绿色的\n- [[gul]] — 黄色的\n- [[central]] — 中心的\n- [[tom]] — 空的\n- [[populär]] — 受欢迎的\n- [[livlig]] — 热闹的；活跃的\n- [[trasig]] — 损坏的\n\n### 名词 (Substantiv)\n- [[förmiddag]] — 上午\n- [[rörelse]] — 运动；活动\n- [[ägare]] — 主人\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]]\n- 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]\n- 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]\n",
       "name": "stadsmiljö",
       "zh": "城市环境；街道场景",
       "created": "2026-06-09",
@@ -14326,28 +17382,46 @@ window.KB_DATA = {
         "bänk",
         "blinka",
         "bokhandel",
+        "bred",
+        "bro",
         "busshållplats",
+        "central",
         "cykla",
         "cyklist",
         "fontän",
         "förmiddag",
+        "gata",
+        "grön",
+        "gul",
+        "hög",
+        "hus",
         "kafé",
         "kors",
         "korsning",
+        "livlig",
         "livsmedelsbutik",
         "park",
+        "parkering",
         "polis",
+        "populär",
         "promenera",
         "rörelse",
         "solig",
         "source-2026-06-09-beskriva-en-gata",
+        "stad",
         "stan",
+        "station",
+        "tom",
         "topic-rumsliga-relationer",
         "topic-trafik",
         "torg",
         "träd",
         "trafikljus",
+        "trång",
+        "trasig",
         "trottoar",
+        "tunnel",
+        "väg",
         "vanlig",
         "växa"
       ]
@@ -14404,37 +17478,74 @@ window.KB_DATA = {
       "type": "topic",
       "title": "trafik",
       "path": "knowledge_base/topics/topic-trafik.md",
-      "body": "# 🗂️ trafik — 交通；道路交通\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 交通设施 (Trafikinfrastruktur)\n- [[trafikljus]] — 交通灯\n- [[busshållplats]] — 公共汽车站\n- [[korsning]] — 十字路口\n- [[trottoar]] — 人行道\n\n### 交通参与者 (Trafikdeltagare)\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 交通动作 (Trafikhandlingar)\n- [[blinka]] — 闪烁；打转向灯\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]]\n- 相关主题：[[topic-stadsmiljo]]，[[topic-kollektivtrafik]]，[[topic-riktningar]]\n- 另见：[[topic-kollektivtrafik]]（公共交通专题）",
-      "excerpt": "🗂️ trafik — 交通；道路交通 类型: semantic field 成员 (Members) 交通设施 (Trafikinfrastruktur) trafikljus — 交通灯 busshållplats — 公共汽车站 korsning — 十字路口 trottoar — 人行道 交通参与者 (Trafikdeltagare) cyklist — 骑自行车的人 cykla — 骑自行车 交通动作 (Trafikhand",
+      "body": "# 🗂️ trafik — 交通；道路交通\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 交通工具 (Fordon)\n- [[bil]] — 汽车\n- [[buss]] — 公共汽车\n- [[tåg]] — 火车\n- [[cykel]] — 自行车\n- [[lastbil]] — 卡车；货车\n\n### 交通设施 (Trafikinfrastruktur)\n- [[trafikljus]] — 交通灯\n- [[busshållplats]] — 公共汽车站\n- [[hållplats]] — 站点\n- [[korsning]] — 十字路口\n- [[trottoar]] — 人行道\n- [[gata]] — 街道\n- [[väg]] — 道路\n- [[bro]] — 桥梁\n- [[station]] — 车站\n- [[tunnel]] — 隧道\n- [[parkering]] — 停车场\n\n### 交通参与者 (Trafikdeltagare)\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 交通动作 (Trafikhandlingar)\n- [[blinka]] — 闪烁；打转向灯\n\n### 交通相关形容词 (Adjektiv)\n- [[gul]] — 黄色的（交通灯颜色）\n- [[bred]] — 宽阔的\n- [[trång]] — 狭窄的；拥挤的\n- [[tung]] — 重的（重型车）\n- [[trasig]] — 损坏的\n- [[livlig]] — 热闹的；繁忙的\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]]\n- 相关主题：[[topic-stadsmiljo]]，[[topic-kollektivtrafik]]，[[topic-riktningar]]\n- 另见：[[topic-kollektivtrafik]]（公共交通专题）",
+      "excerpt": "🗂️ trafik — 交通；道路交通 类型: semantic field 成员 (Members) 交通工具 (Fordon) bil — 汽车 buss — 公共汽车 tåg — 火车 cykel — 自行车 lastbil — 卡车；货车 交通设施 (Trafikinfrastruktur) trafikljus — 交通灯 busshållplats — 公共汽车站 hållplats — 站点 korsning — 十字路",
       "forms": [],
       "links": [
+        "bil",
         "blinka",
+        "bred",
+        "bro",
+        "buss",
         "busshållplats",
+        "cykel",
         "cykla",
         "cyklist",
+        "gata",
+        "gul",
+        "hållplats",
         "korsning",
+        "lastbil",
+        "livlig",
+        "parkering",
         "source-2026-06-09-beskriva-en-gata",
+        "source-2026-06-15-stad-trafik",
+        "station",
+        "tåg",
         "topic-kollektivtrafik",
         "topic-riktningar",
         "topic-stadsmiljo",
         "trafikljus",
-        "trottoar"
+        "trång",
+        "trasig",
+        "trottoar",
+        "tung",
+        "tunnel",
+        "väg"
       ],
-      "searchText": "trafik topic-trafik knowledge_base/topics/topic-trafik.md ---\ntype: topic\nname: trafik\nkind: semantic-field\nzh: 交通；道路交通\nmembers:\n  - trafikljus\n  - busshållplats\n  - korsning\n  - trottoar\n  - cykla\n  - cyklist\n  - blinka\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ trafik — 交通；道路交通\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 交通设施 (Trafikinfrastruktur)\n- [[trafikljus]] — 交通灯\n- [[busshållplats]] — 公共汽车站\n- [[korsning]] — 十字路口\n- [[trottoar]] — 人行道\n\n### 交通参与者 (Trafikdeltagare)\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 交通动作 (Trafikhandlingar)\n- [[blinka]] — 闪烁；打转向灯\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]]\n- 相关主题：[[topic-stadsmiljo]]，[[topic-kollektivtrafik]]，[[topic-riktningar]]\n- 另见：[[topic-kollektivtrafik]]（公共交通专题）\n",
+      "searchText": "trafik topic-trafik knowledge_base/topics/topic-trafik.md ---\ntype: topic\nname: trafik\nkind: semantic-field\nzh: 交通；道路交通\nmembers:\n  - trafikljus\n  - busshållplats\n  - korsning\n  - trottoar\n  - cykla\n  - cyklist\n  - blinka\n  - bil\n  - buss\n  - tåg\n  - cykel\n  - lastbil\n  - hållplats\n  - gata\n  - väg\n  - bro\n  - station\n  - tunnel\n  - parkering\n  - gul\n  - bred\n  - trång\n  - tung\n  - trasig\n  - livlig\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ trafik — 交通；道路交通\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 交通工具 (Fordon)\n- [[bil]] — 汽车\n- [[buss]] — 公共汽车\n- [[tåg]] — 火车\n- [[cykel]] — 自行车\n- [[lastbil]] — 卡车；货车\n\n### 交通设施 (Trafikinfrastruktur)\n- [[trafikljus]] — 交通灯\n- [[busshållplats]] — 公共汽车站\n- [[hållplats]] — 站点\n- [[korsning]] — 十字路口\n- [[trottoar]] — 人行道\n- [[gata]] — 街道\n- [[väg]] — 道路\n- [[bro]] — 桥梁\n- [[station]] — 车站\n- [[tunnel]] — 隧道\n- [[parkering]] — 停车场\n\n### 交通参与者 (Trafikdeltagare)\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 交通动作 (Trafikhandlingar)\n- [[blinka]] — 闪烁；打转向灯\n\n### 交通相关形容词 (Adjektiv)\n- [[gul]] — 黄色的（交通灯颜色）\n- [[bred]] — 宽阔的\n- [[trång]] — 狭窄的；拥挤的\n- [[tung]] — 重的（重型车）\n- [[trasig]] — 损坏的\n- [[livlig]] — 热闹的；繁忙的\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]]\n- 相关主题：[[topic-stadsmiljo]]，[[topic-kollektivtrafik]]，[[topic-riktningar]]\n- 另见：[[topic-kollektivtrafik]]（公共交通专题）\n",
       "name": "trafik",
       "zh": "交通；道路交通",
       "created": "2026-06-09",
       "kind": "semantic-field",
       "backlinks": [
+        "bil",
         "blinka",
+        "bred",
+        "bro",
+        "buss",
         "busshållplats",
+        "cykel",
         "cykla",
         "cyklist",
+        "gata",
+        "gul",
+        "hållplats",
         "korsning",
+        "lastbil",
+        "livlig",
+        "parkering",
         "source-2026-06-09-beskriva-en-gata",
+        "station",
+        "tåg",
         "topic-stadsmiljo",
         "trafikljus",
-        "trottoar"
+        "trång",
+        "trasig",
+        "trottoar",
+        "tung",
+        "tunnel",
+        "väg"
       ]
     },
     {
@@ -14743,6 +17854,48 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "allergisk",
+      "type": "word",
+      "title": "allergisk",
+      "path": "knowledge_base/words/allergisk.md",
+      "body": "# allergisk — adjektiv\n\n📖 中文：过敏的 · English: allergic\n发音提示：al-LER-gisk（重音在第二音节）\n\n## 语法变形 (Forms)\n\n| Obestämd sg | Bestämd sg / Plural |\n|-------------|---------------------|\n| en allergisk person | den/det allergiska; allergiska |\n| ett allergiskt ämne | det allergiska ämnet |\n\n- 与 **mot** 搭配：allergisk **mot** ngt（对某物过敏）\n\n## 词组搭配 (Collocations)\n\n- `allergisk mot nötter` — 对坚果过敏 → [[nöt]]\n- `allergisk mot skaldjur` — 对贝类过敏\n- `allergisk mot gluten` — 对麸质过敏\n- `allergisk reaktion` — 过敏反应\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är allergisk mot nötter och kan inte äta det. — 🇨🇳 我对坚果过敏，不能吃那个。\n- 🇸🇪 Är du allergisk mot något? — 🇨🇳 你对什么东西过敏吗？\n- 🇸🇪 Han fick en allergisk reaktion efter middagen. — 🇨🇳 他在晚饭后发生了过敏反应。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: allergi（过敏症，en）\n- 同义词: överkänslig（对…敏感）\n- 反义词: —\n- 主题: [[topic-mat-dryck]] · [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- 构式固定：allergisk **mot** ngt（不用 \"för\" 或 \"av\"）\n- 形容词一致变形 → 见 [[grammar-adjektiv-bojning]]",
+      "excerpt": "allergisk — adjektiv 📖 中文：过敏的 · English: allergic 发音提示：al LER gisk（重音在第二音节） 语法变形 (Forms) Obestämd sg Bestämd sg / Plural en allergisk person den/det allergiska; allergiska ett allergiskt ämne det allergiska ämnet 与 mot ",
+      "forms": [
+        "den",
+        "det allergiska; allergiska",
+        "det allergiska ämnet"
+      ],
+      "links": [
+        "grammar-adjektiv-bojning",
+        "nöt",
+        "topic-hälsa",
+        "topic-mat-dryck"
+      ],
+      "searchText": "allergisk allergisk knowledge_base/words/allergisk.md ---\ntype: word\nlemma: \"allergisk\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"过敏的\"\nen: \"allergic\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\n  - topic-hälsa\nsentences:\n  - sent-jag-är-allergisk-mot-nötter-vad-kan-ni\n  - sent-kan-ni-göra-den-utan-grädde-hon-tål-inte\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# allergisk — adjektiv\n\n📖 中文：过敏的 · English: allergic\n发音提示：al-LER-gisk（重音在第二音节）\n\n## 语法变形 (Forms)\n\n| Obestämd sg | Bestämd sg / Plural |\n|-------------|---------------------|\n| en allergisk person | den/det allergiska; allergiska |\n| ett allergiskt ämne | det allergiska ämnet |\n\n- 与 **mot** 搭配：allergisk **mot** ngt（对某物过敏）\n\n## 词组搭配 (Collocations)\n\n- `allergisk mot nötter` — 对坚果过敏 → [[nöt]]\n- `allergisk mot skaldjur` — 对贝类过敏\n- `allergisk mot gluten` — 对麸质过敏\n- `allergisk reaktion` — 过敏反应\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är allergisk mot nötter och kan inte äta det. — 🇨🇳 我对坚果过敏，不能吃那个。\n- 🇸🇪 Är du allergisk mot något? — 🇨🇳 你对什么东西过敏吗？\n- 🇸🇪 Han fick en allergisk reaktion efter middagen. — 🇨🇳 他在晚饭后发生了过敏反应。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: allergi（过敏症，en）\n- 同义词: överkänslig（对…敏感）\n- 反义词: —\n- 主题: [[topic-mat-dryck]] · [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- 构式固定：allergisk **mot** ngt（不用 \"för\" 或 \"av\"）\n- 形容词一致变形 → 见 [[grammar-adjektiv-bojning]]\n",
+      "lemma": "allergisk",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "过敏的",
+      "en": "allergic",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte"
+      ],
+      "topics": [
+        "topic-mat-dryck",
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "jag-är-allergisk-mot",
+        "nöt",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "älska",
       "type": "word",
       "title": "älska",
@@ -14779,6 +17932,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "hata",
+        "sent-äppelpaj-tack-den-älskar-jag",
         "source-2026-06-09-zlatan-bio",
         "source-2026-06-10-zlatan-subst-verb",
         "topic-familj-och-barn"
@@ -15213,6 +18367,52 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "äppelpaj",
+      "type": "word",
+      "title": "äppelpaj",
+      "path": "knowledge_base/words/äppelpaj.md",
+      "body": "# äppelpaj — substantiv (en)\n\n📖 中文：苹果派 · English: apple pie\n发音提示：ÄP-pel-paj\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en äppelpaj |\n| bestämd singular | äppelpajen |\n| obestämd plural | äppelpajer |\n| bestämd plural | äppelpajerna |\n\n## 词组搭配 (Collocations)\n\n- `äppelpaj med vaniljsås` — 苹果派配香草酱\n- `hemgjord äppelpaj` — 自制苹果派\n\n## 例句 (Sentences)\n\n- see [[sent-vi-har-hemgjord-glass-och-äppelpaj]]\n- see [[sent-äppelpaj-tack-den-älskar-jag]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[äpple]] (苹果), [[paj]] (派/挞)\n- 相关词: [[efterrätt]], [[glass]], [[tårta]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典经典甜点，通常配 *vaniljsås*（香草酱）或 *vaniljglass*（香草冰淇淋）。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "äppelpaj — substantiv (en) 📖 中文：苹果派 · English: apple pie 发音提示：ÄP pel paj 语法变形 (Forms) form Swedish obestämd singular en äppelpaj bestämd singular äppelpajen obestämd plural äppelpajer bestämd plural äppelpajerna 词组搭配 (C",
+      "forms": [
+        "äppelpaj",
+        "äppelpajen",
+        "äppelpajer",
+        "äppelpajerna"
+      ],
+      "links": [
+        "äpple",
+        "efterrätt",
+        "glass",
+        "paj",
+        "sent-äppelpaj-tack-den-älskar-jag",
+        "sent-vi-har-hemgjord-glass-och-äppelpaj",
+        "source-2026-06-15-restaurang-rekommendation",
+        "tårta",
+        "topic-mat-dryck"
+      ],
+      "searchText": "äppelpaj äppelpaj knowledge_base/words/äppelpaj.md ---\ntype: word\nlemma: \"äppelpaj\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"A2\"\nzh: \"苹果派\"\nen: \"apple pie\"\nsynonyms: []\nantonyms: []\nfamily: [paj]\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-vi-har-hemgjord-glass-och-äppelpaj\n  - sent-äppelpaj-tack-den-älskar-jag\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# äppelpaj — substantiv (en)\n\n📖 中文：苹果派 · English: apple pie\n发音提示：ÄP-pel-paj\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en äppelpaj |\n| bestämd singular | äppelpajen |\n| obestämd plural | äppelpajer |\n| bestämd plural | äppelpajerna |\n\n## 词组搭配 (Collocations)\n\n- `äppelpaj med vaniljsås` — 苹果派配香草酱\n- `hemgjord äppelpaj` — 自制苹果派\n\n## 例句 (Sentences)\n\n- see [[sent-vi-har-hemgjord-glass-och-äppelpaj]]\n- see [[sent-äppelpaj-tack-den-älskar-jag]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[äpple]] (苹果), [[paj]] (派/挞)\n- 相关词: [[efterrätt]], [[glass]], [[tårta]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典经典甜点，通常配 *vaniljsås*（香草酱）或 *vaniljglass*（香草冰淇淋）。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "lemma": "äppelpaj",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "苹果派",
+      "en": "apple pie",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-vi-har-hemgjord-glass-och-äppelpaj",
+        "sent-äppelpaj-tack-den-älskar-jag"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "efterrätt",
+        "sent-äppelpaj-tack-den-älskar-jag",
+        "sent-vi-har-hemgjord-glass-och-äppelpaj",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "äpple",
       "type": "word",
       "title": "äpple",
@@ -15244,6 +18444,7 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "äppelpaj",
         "juice",
         "topic-mat-dryck"
       ]
@@ -15413,6 +18614,44 @@ window.KB_DATA = {
         "sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "avrunda",
+      "type": "word",
+      "title": "avrunda",
+      "path": "knowledge_base/words/avrunda.md",
+      "body": "# avrunda — verb (grupp 1)\n\n📖 中文：取整；凑整 · English: to round (off/up/down)\n发音提示：av-RUN-da\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | avrunda |\n| Presens | avrundar |\n| Preteritum | avrundade |\n| Supinum | avrundat |\n| Imperativ | avrunda! |\n\n## 词组搭配 (Collocations)\n\n- `avrunda uppåt` — 向上取整（往多里凑）\n- `avrunda nedåt` — 向下取整\n- `avrunda till närmaste tiotal` — 取整到最近的十位数\n- `vi avrundar uppåt` — 我们往上凑整（支付小费的方式）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Då avrundar vi uppåt. — 🇨🇳 那我们往上凑整。\n- 🇸🇪 Kan du avrunda till närmaste femtio kronor? — 🇨🇳 你能凑整到最近的五十克朗吗？\n- 🇸🇪 Jag avrundar alltid uppåt på restaurang. — 🇨🇳 我在餐厅总是向上凑整。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: runda（圆的），rund（圆），avrundning（取整操作）\n- 同义词: runda (av/upp/ned)（同义 partikelverb）\n- 反义词: —\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典餐厅，刷卡时终端会询问是否想\"avrunda uppåt\" (向上取整)，这是给小费的常见方式\n- *uppåt* = 向上，*nedåt* = 向下",
+      "excerpt": "avrunda — verb (grupp 1) 📖 中文：取整；凑整 · English: to round (off/up/down) 发音提示：av RUN da 语法变形 (Forms) Form Swedish Infinitiv avrunda Presens avrundar Preteritum avrundade Supinum avrundat Imperativ avrunda! 词组搭配 (Collocatio",
+      "forms": [
+        "avrunda",
+        "avrundar",
+        "avrundade",
+        "avrundat",
+        "avrunda!"
+      ],
+      "links": [
+        "topic-betalning"
+      ],
+      "searchText": "avrunda avrunda knowledge_base/words/avrunda.md ---\ntype: word\nlemma: \"avrunda\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"取整；凑整\"\nen: \"to round (off/up/down)\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-betalning\nsentences:\n  - sent-då-avrundar-vi-uppåt-tack-för-god-mat\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# avrunda — verb (grupp 1)\n\n📖 中文：取整；凑整 · English: to round (off/up/down)\n发音提示：av-RUN-da\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | avrunda |\n| Presens | avrundar |\n| Preteritum | avrundade |\n| Supinum | avrundat |\n| Imperativ | avrunda! |\n\n## 词组搭配 (Collocations)\n\n- `avrunda uppåt` — 向上取整（往多里凑）\n- `avrunda nedåt` — 向下取整\n- `avrunda till närmaste tiotal` — 取整到最近的十位数\n- `vi avrundar uppåt` — 我们往上凑整（支付小费的方式）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Då avrundar vi uppåt. — 🇨🇳 那我们往上凑整。\n- 🇸🇪 Kan du avrunda till närmaste femtio kronor? — 🇨🇳 你能凑整到最近的五十克朗吗？\n- 🇸🇪 Jag avrundar alltid uppåt på restaurang. — 🇨🇳 我在餐厅总是向上凑整。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: runda（圆的），rund（圆），avrundning（取整操作）\n- 同义词: runda (av/upp/ned)（同义 partikelverb）\n- 反义词: —\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典餐厅，刷卡时终端会询问是否想\"avrunda uppåt\" (向上取整)，这是给小费的常见方式\n- *uppåt* = 向上，*nedåt* = 向下\n",
+      "lemma": "avrunda",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "取整；凑整",
+      "en": "to round (off/up/down)",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-då-avrundar-vi-uppåt-tack-för-god-mat"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "lägga-till-dricks",
+        "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-betalning"
       ]
     },
     {
@@ -16022,6 +19261,48 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "beställa",
+      "type": "word",
+      "title": "beställa",
+      "path": "knowledge_base/words/beställa.md",
+      "body": "# beställa — verb\n\n📖 中文：点（餐）；订购 · English: to order; to place an order\n发音提示：[\"beh-STEL-la\"] — 重音在第二音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | beställa |\n| presens | beställer |\n| preteritum | beställde |\n| supinum | beställt |\n| imperativ | beställ |\n\n词群 (verbgrupp): 2（-er 动词）\n\n## 词组搭配 (Collocations)\n\n- `beställa mat` — 点菜\n- `beställa dryck` — 点饮料\n- `vill ni beställa` — 你们要点吗\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vill ni beställa något att dricka först? — 🇨🇳 你们要先点点喝的吗？\n- 🇸🇪 Jag vill beställa köttbullar med potatismos. — 🇨🇳 我想点肉丸配土豆泥。\n- 🇸🇪 Vi beställde en flaska rödvin. — 🇨🇳 我们点了一瓶红酒。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[boka]]\n- 同义词: [[boka]]（侧重预订）\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *beställa* 用于餐厅点餐及网购下单等语境，比 *boka* 语义更广。\n- 餐厅服务员问: *Vill ni beställa?* — 你们要点了吗？\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "beställa — verb 📖 中文：点（餐）；订购 · English: to order; to place an order 发音提示：[\"beh STEL la\"] — 重音在第二音节 语法变形 (Forms) form Swedish infinitiv beställa presens beställer preteritum beställde supinum beställt imperativ beställ 词",
+      "forms": [
+        "beställa",
+        "beställer",
+        "beställde",
+        "beställt",
+        "beställ"
+      ],
+      "links": [
+        "boka",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ],
+      "searchText": "beställa beställa knowledge_base/words/beställa.md ---\ntype: word\nlemma: \"beställa\"\nordklass: verb\nverbgrupp: \"2\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"点（餐）；订购\"\nen: \"to order; to place an order\"\nsynonyms: []\nantonyms: []\nfamily:\n  - boka\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-självklart-varsågod-vill-ni-beställa\n  - sent-har-ni-bestämt-er-eller-behöver-ni\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# beställa — verb\n\n📖 中文：点（餐）；订购 · English: to order; to place an order\n发音提示：[\"beh-STEL-la\"] — 重音在第二音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | beställa |\n| presens | beställer |\n| preteritum | beställde |\n| supinum | beställt |\n| imperativ | beställ |\n\n词群 (verbgrupp): 2（-er 动词）\n\n## 词组搭配 (Collocations)\n\n- `beställa mat` — 点菜\n- `beställa dryck` — 点饮料\n- `vill ni beställa` — 你们要点吗\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vill ni beställa något att dricka först? — 🇨🇳 你们要先点点喝的吗？\n- 🇸🇪 Jag vill beställa köttbullar med potatismos. — 🇨🇳 我想点肉丸配土豆泥。\n- 🇸🇪 Vi beställde en flaska rödvin. — 🇨🇳 我们点了一瓶红酒。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[boka]]\n- 同义词: [[boka]]（侧重预订）\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *beställa* 用于餐厅点餐及网购下单等语境，比 *boka* 语义更广。\n- 餐厅服务员问: *Vill ni beställa?* — 你们要点了吗？\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "beställa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "点（餐）；订购",
+      "en": "to order; to place an order",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-självklart-varsågod-vill-ni-beställa",
+        "sent-har-ni-bestämt-er-eller-behöver-ni"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "boka",
+        "sent-självklart-varsågod-vill-ni-beställa",
+        "sent-utmärkt-jag-kommer-strax-med-beställning",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "bestämma",
       "type": "word",
       "title": "bestämma",
@@ -16051,9 +19332,12 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "har-ni-bestämt-er",
         "index",
+        "sent-har-ni-bestämt-er-eller-behöver-ni",
         "source-2026-06-02-astrid-lindgren",
-        "source-2026-06-04-nyheter-vecka-22"
+        "source-2026-06-04-nyheter-vecka-22",
+        "source-2026-06-15-restaurang-middag"
       ]
     },
     {
@@ -16121,7 +19405,11 @@ window.KB_DATA = {
         "topic-betalning"
       ],
       "backlinks": [
+        "sent-det-var-jättegott-kan-jag-betala",
         "sent-fika-jag-betalar-med-swish",
+        "sent-självklart-du-kan-betala-här-vid",
+        "sent-skulle-vi-vilja-betala-dela-på-notan",
+        "sent-vill-ni-betala-med-kort-eller-swish",
         "topic-betalning"
       ]
     },
@@ -16168,6 +19456,45 @@ window.KB_DATA = {
         "source-2026-06-04-nyheter-vecka-22",
         "studiemedel",
         "topic-nyheter-vecka22"
+      ]
+    },
+    {
+      "slug": "bil",
+      "type": "word",
+      "title": "bil",
+      "path": "knowledge_base/words/bil.md",
+      "body": "# bil — substantiv (en-ord)\n\n📖 中文：汽车；小汽车 · English: car\n发音提示：/biːl/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en bil | bilar |\n| **Bestämd** | bilen | bilarna |\n\n## 词组搭配 (Collocations)\n\n- `åka bil` — 开车/乘车\n- `parkera bilen` — 停车 → see [[parkering]]\n- `tung bil` → see [[tung]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lastbil]] (卡车), bilkö (堵车)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "bil — substantiv (en ord) 📖 中文：汽车；小汽车 · English: car 发音提示：/biːl/ 语法变形 (Forms) Singular Plural Obestämd en bil bilar Bestämd bilen bilarna 词组搭配 (Collocations) åka bil — 开车/乘车 parkera bilen — 停车 → see parkering tung bil →",
+      "forms": [
+        "bil",
+        "bilar",
+        "bilen",
+        "bilarna"
+      ],
+      "links": [
+        "grammar-substantiv-plural",
+        "lastbil",
+        "parkering",
+        "source-2026-06-15-stad-trafik",
+        "topic-trafik",
+        "tung"
+      ],
+      "searchText": "bil bil knowledge_base/words/bil.md ---\ntype: word\nlemma: \"bil\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 汽车；小汽车\nen: car\nsynonyms: []\nantonyms: []\nfamily: [\"lastbil\", \"bilkö\", \"bilpark\"]\ntopics: [\"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bil — substantiv (en-ord)\n\n📖 中文：汽车；小汽车 · English: car\n发音提示：/biːl/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en bil | bilar |\n| **Bestämd** | bilen | bilarna |\n\n## 词组搭配 (Collocations)\n\n- `åka bil` — 开车/乘车\n- `parkera bilen` — 停车 → see [[parkering]]\n- `tung bil` → see [[tung]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lastbil]] (卡车), bilkö (堵车)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "bil",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "汽车；小汽车",
+      "en": "car",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "lastbil",
+        "source-2026-06-15-stad-trafik",
+        "topic-trafik"
       ]
     },
     {
@@ -16546,6 +19873,49 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "boka",
+      "type": "word",
+      "title": "boka",
+      "path": "knowledge_base/words/boka.md",
+      "body": "# boka — verb\n\n📖 中文：预订 · English: to book; to reserve\n发音提示：[\"boo-ka\"] — 重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | boka |\n| presens | bokar |\n| preteritum | bokade |\n| supinum | bokat |\n| imperativ | boka |\n\n词群 (verbgrupp): 1（-ar 动词）\n\n## 词组搭配 (Collocations)\n\n- `boka bord` — 预订桌位 → see [[har-ni-bokat-bord]]\n- `boka tid` — 预约时间\n- `boka rum` — 预订房间\n\n## 例句 (Sentences)\n\n- 🇸🇪 Har ni bokat bord? — 🇨🇳 你们预订桌位了吗？\n- 🇸🇪 Jag vill boka ett bord för fyra personer. — 🇨🇳 我想预订一张四人桌。\n- 🇸🇪 Vi bokade hotellrummet för tre nätter. — 🇨🇳 我们把酒店房间预订了三个晚上。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[beställa]]\n- 同义词: [[beställa]]（点/订购，语义更宽）\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *boka* 强调事先预约（餐桌、房间、机票等），是正式或服务类预订的标准用词。\n- 常见搭配：*boka bord*, *boka tid hos läkaren*, *boka resa*。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "boka — verb 📖 中文：预订 · English: to book; to reserve 发音提示：[\"boo ka\"] — 重音在第一音节 语法变形 (Forms) form Swedish infinitiv boka presens bokar preteritum bokade supinum bokat imperativ boka 词群 (verbgrupp): 1（ ar 动词） 词组搭配 (Collocat",
+      "forms": [
+        "boka",
+        "bokar",
+        "bokade",
+        "bokat"
+      ],
+      "links": [
+        "beställa",
+        "har-ni-bokat-bord",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ],
+      "searchText": "boka boka knowledge_base/words/boka.md ---\ntype: word\nlemma: \"boka\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"预订\"\nen: \"to book; to reserve\"\nsynonyms: []\nantonyms: []\nfamily:\n  - beställa\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-god-kväll-och-välkomna-har-ni-bokat\n  - sent-ja-vi-har-bokat-ett-bord-för-två\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# boka — verb\n\n📖 中文：预订 · English: to book; to reserve\n发音提示：[\"boo-ka\"] — 重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | boka |\n| presens | bokar |\n| preteritum | bokade |\n| supinum | bokat |\n| imperativ | boka |\n\n词群 (verbgrupp): 1（-ar 动词）\n\n## 词组搭配 (Collocations)\n\n- `boka bord` — 预订桌位 → see [[har-ni-bokat-bord]]\n- `boka tid` — 预约时间\n- `boka rum` — 预订房间\n\n## 例句 (Sentences)\n\n- 🇸🇪 Har ni bokat bord? — 🇨🇳 你们预订桌位了吗？\n- 🇸🇪 Jag vill boka ett bord för fyra personer. — 🇨🇳 我想预订一张四人桌。\n- 🇸🇪 Vi bokade hotellrummet för tre nätter. — 🇨🇳 我们把酒店房间预订了三个晚上。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[beställa]]\n- 同义词: [[beställa]]（点/订购，语义更宽）\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *boka* 强调事先预约（餐桌、房间、机票等），是正式或服务类预订的标准用词。\n- 常见搭配：*boka bord*, *boka tid hos läkaren*, *boka resa*。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "boka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "预订",
+      "en": "to book; to reserve",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "sent-ja-vi-har-bokat-ett-bord-för-två"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "beställa",
+        "har-ni-bokat-bord",
+        "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "sent-ja-vi-har-bokat-ett-bord-för-två",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "bokförlag",
       "type": "word",
       "title": "bokförlag",
@@ -16743,6 +20113,60 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "bord",
+      "type": "word",
+      "title": "bord",
+      "path": "knowledge_base/words/bord.md",
+      "body": "# bord — substantiv (ett)\n\n📖 中文：桌子 · English: table\n发音提示：[\"boord\"] — 长音 o\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | ett bord | bordet |\n| plural | bord | borden |\n\n词组: obestämd sg. *ett bord* → bestämd sg. *bordet*；复数 *bord / borden*（无变化型）\n\n## 词组搭配 (Collocations)\n\n- `boka bord` — 预订桌位 → see [[har-ni-bokat-bord]]\n- `ledigt bord` — 空余桌位\n- `sätta sig vid bordet` — 坐到桌边\n\n## 例句 (Sentences)\n\n- 🇸🇪 Har ni bokat bord? — 🇨🇳 你们预订桌位了吗？\n- 🇸🇪 Vi har bokat ett bord för två. — 🇨🇳 我们预订了一张两人桌。\n- 🇸🇪 Bordet vid fönstret är ledigt. — 🇨🇳 靠窗的那张桌子空着。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]] · [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 在餐厅语境中 *bord* 特指就餐桌位。\n- *bordet* 是本场景中展示[[grammar-bestämd-form]]的典型例词。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "bord — substantiv (ett) 📖 中文：桌子 · English: table 发音提示：[\"boord\"] — 长音 o 语法变形 (Forms) form obestämd bestämd singular ett bord bordet plural bord borden 词组: obestämd sg. ett bord → bestämd sg. bordet ；复数 bord / borden （无变化",
+      "forms": [
+        "bord",
+        "bordet",
+        "borden"
+      ],
+      "links": [
+        "grammar-bestämd-form",
+        "har-ni-bokat-bord",
+        "source-2026-06-15-restaurang-middag",
+        "topic-hemmet",
+        "topic-mat-dryck"
+      ],
+      "searchText": "bord bord knowledge_base/words/bord.md ---\ntype: word\nlemma: \"bord\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A1\"\nzh: \"桌子\"\nen: \"table\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\n  - topic-hemmet\nsentences:\n  - sent-god-kväll-och-välkomna-har-ni-bokat\n  - sent-ja-vi-har-bokat-ett-bord-för-två\n  - sent-perfekt-det-stämmer-följ-med-mig\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bord — substantiv (ett)\n\n📖 中文：桌子 · English: table\n发音提示：[\"boord\"] — 长音 o\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | ett bord | bordet |\n| plural | bord | borden |\n\n词组: obestämd sg. *ett bord* → bestämd sg. *bordet*；复数 *bord / borden*（无变化型）\n\n## 词组搭配 (Collocations)\n\n- `boka bord` — 预订桌位 → see [[har-ni-bokat-bord]]\n- `ledigt bord` — 空余桌位\n- `sätta sig vid bordet` — 坐到桌边\n\n## 例句 (Sentences)\n\n- 🇸🇪 Har ni bokat bord? — 🇨🇳 你们预订桌位了吗？\n- 🇸🇪 Vi har bokat ett bord för två. — 🇨🇳 我们预订了一张两人桌。\n- 🇸🇪 Bordet vid fönstret är ledigt. — 🇨🇳 靠窗的那张桌子空着。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]] · [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 在餐厅语境中 *bord* 特指就餐桌位。\n- *bordet* 是本场景中展示[[grammar-bestämd-form]]的典型例词。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "bord",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "桌子",
+      "en": "table",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "sent-ja-vi-har-bokat-ett-bord-för-två",
+        "sent-perfekt-det-stämmer-följ-med-mig"
+      ],
+      "topics": [
+        "topic-mat-dryck",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "har-ni-bokat-bord",
+        "nattduksbord",
+        "sent-absolut-vi-har-ett-ledigt-bord",
+        "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "sent-hej-och-välkomna-ett-bord-för-två",
+        "sent-ja-jag-är-ensam-finns-det",
+        "sent-ja-vi-har-bokat-ett-bord-för-två",
+        "sent-perfekt-det-stämmer-följ-med-mig",
+        "sent-självklart-du-kan-betala-här-vid",
+        "skrivbord",
+        "soffbord",
+        "source-2026-06-02-valj-ratt-form",
+        "source-2026-06-15-restaurang-middag",
+        "stol",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "börja",
       "type": "word",
       "title": "börja",
@@ -16854,6 +20278,55 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "bred",
+      "type": "word",
+      "title": "bred",
+      "path": "knowledge_base/words/bred.md",
+      "body": "# bred — adjektiv\n\n📖 中文：宽的；宽阔的 · English: wide, broad\n发音提示：/breːd/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | bred | brett | breda |\n| **Komparativ** | bredare | bredare | bredare |\n| **Superlativ** | bredast / bredaste | bredast / bredaste | bredaste |\n\n## 词组搭配 (Collocations)\n\n- `bred gata` — 宽阔的街道\n- `bred trottoar` — 宽阔的人行道 → see [[trottoar]]\n- `bred väg` — 宽阔的道路 → see [[väg]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bredd]]\n- 同义词: —\n- 反义词: [[trång]]\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 常用于描述道路、街道、桥梁等城市基础设施的宽度。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "bred — adjektiv 📖 中文：宽的；宽阔的 · English: wide, broad 发音提示：/breːd/ 语法变形 (Forms) en ord ett ord plural Positiv bred brett breda Komparativ bredare bredare bredare Superlativ bredast / bredaste bredast / bredaste bredaste 词组",
+      "forms": [
+        "bred",
+        "brett",
+        "breda",
+        "bredare",
+        "bredast",
+        "bredaste"
+      ],
+      "links": [
+        "bredd",
+        "grammar-adjektiv-bojning",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "trång",
+        "trottoar",
+        "väg"
+      ],
+      "searchText": "bred bred knowledge_base/words/bred.md ---\ntype: word\nlemma: \"bred\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: 宽的；宽阔的\nen: wide, broad\nsynonyms: []\nantonyms: [\"trång\"]\nfamily: [\"bredd\"]\ntopics: [\"topic-stadsmiljo\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bred — adjektiv\n\n📖 中文：宽的；宽阔的 · English: wide, broad\n发音提示：/breːd/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | bred | brett | breda |\n| **Komparativ** | bredare | bredare | bredare |\n| **Superlativ** | bredast / bredaste | bredast / bredaste | bredaste |\n\n## 词组搭配 (Collocations)\n\n- `bred gata` — 宽阔的街道\n- `bred trottoar` — 宽阔的人行道 → see [[trottoar]]\n- `bred väg` — 宽阔的道路 → see [[väg]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bredd]]\n- 同义词: —\n- 反义词: [[trång]]\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 常用于描述道路、街道、桥梁等城市基础设施的宽度。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "bred",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "宽的；宽阔的",
+      "en": "wide, broad",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "bredvid",
+        "bro",
+        "gata",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "trång",
+        "väg"
+      ]
+    },
+    {
       "slug": "bredvid",
       "type": "word",
       "title": "bredvid",
@@ -16927,6 +20400,47 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "bro",
+      "type": "word",
+      "title": "bro",
+      "path": "knowledge_base/words/bro.md",
+      "body": "# bro — substantiv (en-ord)\n\n📖 中文：桥；桥梁 · English: bridge\n发音提示：/bruː/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en bro | broar |\n| **Bestämd** | bron | broarna |\n\n## 词组搭配 (Collocations)\n\n- `hög bro` — 高桥 → see [[hög]]\n- `bred bro` — 宽桥 → see [[bred]]\n- `gå över bron` — 走过桥\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: brofäste (桥墩)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- plural 为 `broar`（第二变格 -ar）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "bro — substantiv (en ord) 📖 中文：桥；桥梁 · English: bridge 发音提示：/bruː/ 语法变形 (Forms) Singular Plural Obestämd en bro broar Bestämd bron broarna 词组搭配 (Collocations) hög bro — 高桥 → see hög bred bro — 宽桥 → see bred gå över bron ",
+      "forms": [
+        "bro",
+        "broar",
+        "bron",
+        "broarna"
+      ],
+      "links": [
+        "bred",
+        "grammar-substantiv-plural",
+        "hög",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "searchText": "bro bro knowledge_base/words/bro.md ---\ntype: word\nlemma: \"bro\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 桥；桥梁\nen: bridge\nsynonyms: []\nantonyms: []\nfamily: [\"brofäste\", \"motorvägsbro\"]\ntopics: [\"topic-stadsmiljo\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bro — substantiv (en-ord)\n\n📖 中文：桥；桥梁 · English: bridge\n发音提示：/bruː/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en bro | broar |\n| **Bestämd** | bron | broarna |\n\n## 词组搭配 (Collocations)\n\n- `hög bro` — 高桥 → see [[hög]]\n- `bred bro` — 宽桥 → see [[bred]]\n- `gå över bron` — 走过桥\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: brofäste (桥墩)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- plural 为 `broar`（第二变格 -ar）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "bro",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "桥；桥梁",
+      "en": "bridge",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "hög",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik"
       ]
     },
     {
@@ -17076,7 +20590,8 @@ window.KB_DATA = {
       "backlinks": [
         "ben",
         "source-2026-06-07-kropp-halsa",
-        "topic-kropp"
+        "topic-kropp",
+        "trasig"
       ]
     },
     {
@@ -17154,6 +20669,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "bröd",
+        "köttbulle",
         "mjuk",
         "topic-mat-dryck"
       ]
@@ -17202,6 +20718,51 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "buss",
+      "type": "word",
+      "title": "buss",
+      "path": "knowledge_base/words/buss.md",
+      "body": "# buss — substantiv (en-ord)\n\n📖 中文：公共汽车；巴士 · English: bus\n发音提示：/bɵsː/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en buss | bussar |\n| **Bestämd** | bussen | bussarna |\n\n## 词组搭配 (Collocations)\n\n- `ta bussen` — 乘公交车\n- `vänta på bussen` — 等公共汽车\n- `busshållplats` — 公交站 → see [[busshållplats]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[busshållplats]] (公交站), [[hållplats]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]], [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "buss — substantiv (en ord) 📖 中文：公共汽车；巴士 · English: bus 发音提示：/bɵsː/ 语法变形 (Forms) Singular Plural Obestämd en buss bussar Bestämd bussen bussarna 词组搭配 (Collocations) ta bussen — 乘公交车 vänta på bussen — 等公共汽车 busshållplats ",
+      "forms": [
+        "buss",
+        "bussar",
+        "bussen",
+        "bussarna"
+      ],
+      "links": [
+        "busshållplats",
+        "grammar-substantiv-plural",
+        "hållplats",
+        "source-2026-06-15-stad-trafik",
+        "topic-kollektivtrafik",
+        "topic-trafik"
+      ],
+      "searchText": "buss buss knowledge_base/words/buss.md ---\ntype: word\nlemma: \"buss\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 公共汽车；巴士\nen: bus\nsynonyms: []\nantonyms: []\nfamily: [\"busshållplats\", \"bussföraree\"]\ntopics: [\"topic-trafik\", \"topic-kollektivtrafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# buss — substantiv (en-ord)\n\n📖 中文：公共汽车；巴士 · English: bus\n发音提示：/bɵsː/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en buss | bussar |\n| **Bestämd** | bussen | bussarna |\n\n## 词组搭配 (Collocations)\n\n- `ta bussen` — 乘公交车\n- `vänta på bussen` — 等公共汽车\n- `busshållplats` — 公交站 → see [[busshållplats]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[busshållplats]] (公交站), [[hållplats]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]], [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "buss",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "公共汽车；巴士",
+      "en": "bus",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-trafik",
+        "topic-kollektivtrafik"
+      ],
+      "backlinks": [
+        "busshållplats",
+        "gul",
+        "source-2026-06-15-stad-trafik",
+        "station",
+        "tom",
+        "topic-kollektivtrafik",
+        "topic-trafik",
+        "trasig"
+      ]
+    },
+    {
       "slug": "busshållplats",
       "type": "word",
       "title": "busshållplats",
@@ -17239,6 +20800,8 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "buss",
+        "hållplats",
         "sent-framfor-butiken-stannar-buss-vid-busshallplatsen",
         "sent-nagra-manniskor-vantar-cyklister-stannar-trafikljuset",
         "source-2026-06-09-beskriva-en-gata",
@@ -17285,6 +20848,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "du-kan-inte-missa-den",
+        "hus",
         "sent-du-ser-en-stor-rod-byggnad",
         "sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank",
         "source-2026-06-03-fraga-vagen-pub",
@@ -17374,6 +20938,49 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "central",
+      "type": "word",
+      "title": "central",
+      "path": "knowledge_base/words/central.md",
+      "body": "# central — adjektiv\n\n📖 中文：中心的；中央的；核心的 · English: central\n发音提示：/senˈtraːl/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | central | centralt | centrala |\n| **Komparativ** | mer central | mer centralt | mer centrala |\n| **Superlativ** | mest central / mest centrala | mest centralt | mest centrala |\n\n注意：以 `-al` 结尾的外来词通常用 `mer/mest` 构成比较级/最高级。\n\n## 词组搭配 (Collocations)\n\n- `central station` → se [[centralstation]]\n- `centralt läge` — 中心位置\n- `central plats` — 中心地点 → see [[plats]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[centralstation]], centrum\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 外来词，比较级/最高级用分析式 `mer/mest`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "central — adjektiv 📖 中文：中心的；中央的；核心的 · English: central 发音提示：/senˈtraːl/ 语法变形 (Forms) en ord ett ord plural Positiv central centralt centrala Komparativ mer central mer centralt mer centrala Superlativ mest central / mes",
+      "forms": [
+        "central",
+        "centralt",
+        "centrala",
+        "mer central",
+        "mer centralt",
+        "mer centrala",
+        "mest central",
+        "mest centrala",
+        "mest centralt"
+      ],
+      "links": [
+        "centralstation",
+        "grammar-adjektiv-bojning",
+        "plats",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "central central knowledge_base/words/central.md ---\ntype: word\nlemma: \"central\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: 中心的；中央的；核心的\nen: central\nsynonyms: []\nantonyms: []\nfamily: [\"centrum\", \"centralstation\"]\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# central — adjektiv\n\n📖 中文：中心的；中央的；核心的 · English: central\n发音提示：/senˈtraːl/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | central | centralt | centrala |\n| **Komparativ** | mer central | mer centralt | mer centrala |\n| **Superlativ** | mest central / mest centrala | mest centralt | mest centrala |\n\n注意：以 `-al` 结尾的外来词通常用 `mer/mest` 构成比较级/最高级。\n\n## 词组搭配 (Collocations)\n\n- `central station` → se [[centralstation]]\n- `centralt läge` — 中心位置\n- `central plats` — 中心地点 → see [[plats]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[centralstation]], centrum\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 外来词，比较级/最高级用分析式 `mer/mest`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "central",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "中心的；中央的；核心的",
+      "en": "central",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "source-2026-06-15-stad-trafik",
+        "stad",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
       "slug": "centralstation",
       "type": "word",
       "title": "centralstation",
@@ -17410,10 +21017,55 @@ window.KB_DATA = {
         "topic-kollektivtrafik"
       ],
       "backlinks": [
+        "central",
         "grammar-sammansatt-ord",
         "sent-vid-halv-nio-kom-jag-fram-till-centralstationen",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "station",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "cykel",
+      "type": "word",
+      "title": "cykel",
+      "path": "knowledge_base/words/cykel.md",
+      "body": "# cykel — substantiv (en-ord)\n\n📖 中文：自行车 · English: bicycle, bike\n发音提示：/ˈsʏːkɛl/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en cykel | cyklar |\n| **Bestämd** | cykeln | cyklarna |\n\n注意：plural 词干变为 `cykl-`（-el 结尾名词）。\n\n## 词组搭配 (Collocations)\n\n- `cykla` — 骑自行车 → see [[cykla]]\n- `cyklist` — 骑自行车的人 → see [[cyklist]]\n- `parkera cykeln` — 停放自行车\n- `cykelväg` — 自行车道\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[cykla]] (骑车), [[cyklist]] (骑车人), cykelväg (自行车道)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]], [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- plural 变形 cyklar 时词干为 cykl-（注意 -el → -l + ar）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "cykel — substantiv (en ord) 📖 中文：自行车 · English: bicycle, bike 发音提示：/ˈsʏːkɛl/ 语法变形 (Forms) Singular Plural Obestämd en cykel cyklar Bestämd cykeln cyklarna 注意：plural 词干变为 cykl （ el 结尾名词）。 词组搭配 (Collocations) cykla — 骑自行车",
+      "forms": [
+        "cykel",
+        "cyklar",
+        "cykeln",
+        "cyklarna"
+      ],
+      "links": [
+        "cykla",
+        "cyklist",
+        "grammar-substantiv-plural",
+        "source-2026-06-15-stad-trafik",
+        "topic-kollektivtrafik",
+        "topic-trafik"
+      ],
+      "searchText": "cykel cykel knowledge_base/words/cykel.md ---\ntype: word\nlemma: \"cykel\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 自行车\nen: bicycle, bike\nsynonyms: []\nantonyms: []\nfamily: [\"cykla\", \"cyklist\", \"cykelväg\", \"cykelbana\"]\ntopics: [\"topic-trafik\", \"topic-kollektivtrafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# cykel — substantiv (en-ord)\n\n📖 中文：自行车 · English: bicycle, bike\n发音提示：/ˈsʏːkɛl/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en cykel | cyklar |\n| **Bestämd** | cykeln | cyklarna |\n\n注意：plural 词干变为 `cykl-`（-el 结尾名词）。\n\n## 词组搭配 (Collocations)\n\n- `cykla` — 骑自行车 → see [[cykla]]\n- `cyklist` — 骑自行车的人 → see [[cyklist]]\n- `parkera cykeln` — 停放自行车\n- `cykelväg` — 自行车道\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[cykla]] (骑车), [[cyklist]] (骑车人), cykelväg (自行车道)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]], [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- plural 变形 cyklar 时词干为 cykl-（注意 -el → -l + ar）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "cykel",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "自行车",
+      "en": "bicycle, bike",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-trafik",
+        "topic-kollektivtrafik"
+      ],
+      "backlinks": [
+        "cykla",
+        "cyklist",
+        "source-2026-06-15-stad-trafik",
+        "topic-kollektivtrafik",
+        "topic-trafik",
+        "trasig"
       ]
     },
     {
@@ -17456,6 +21108,7 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "cykel",
         "cyklist",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
         "source-2026-06-09-beskriva-en-gata",
@@ -17501,6 +21154,7 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "cykel",
         "cykla",
         "sent-nagra-manniskor-vantar-cyklister-stannar-trafikljuset",
         "sent-vid-korsningen-blinkar-trafikljuset-rott-bilar-cyklister",
@@ -17728,9 +21382,53 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "äta",
+        "öl",
+        "sent-inga-problem-vi-lagar-den-laktosfri",
         "sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost",
+        "sent-självklart-varsågod-vill-ni-beställa",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "source-2026-06-15-restaurang-middag",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "dricks",
+      "type": "word",
+      "title": "dricks",
+      "path": "knowledge_base/words/dricks.md",
+      "body": "# dricks — substantiv (en)\n\n📖 中文：小费 · English: tip (gratuity)\n发音提示：/drɪks/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en dricks / dricks |\n| Sg bestämd | dricksen |\n| Pl | — （通常不可数）|\n\n## 词组搭配 (Collocations)\n\n- `lägga till dricks` — 加小费 → [[lägga-till-dricks]]\n- `ge dricks` — 给小费\n- `dricks är frivilligt` — 小费是自愿的 → [[frivillig]]\n- `avrunda uppåt` — 往上凑整（代替明确给小费）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Dricks är helt frivilligt i Sverige. — 🇨🇳 在瑞典小费完全是自愿的。\n- 🇸🇪 Ska man lägga till dricks? — 🇨🇳 需要加小费吗？\n- 🇸🇪 Vi avrundar uppåt istället för att ge dricks. — 🇨🇳 我们往上凑整代替给小费。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典文化：小费不是义务，通常通过卡机上\"往上凑整\"功能实现\n- *dricks* 来自动词 *dricka*（喝），历史上是给服务员\"喝水钱\"",
+      "excerpt": "dricks — substantiv (en) 📖 中文：小费 · English: tip (gratuity) 发音提示：/drɪks/ 语法变形 (Forms) Form Swedish Sg obestämd en dricks / dricks Sg bestämd dricksen Pl — （通常不可数） 词组搭配 (Collocations) lägga till dricks — 加小费 → lägga till ",
+      "forms": [
+        "dricks",
+        "dricksen"
+      ],
+      "links": [
+        "frivillig",
+        "lägga-till-dricks",
+        "topic-betalning"
+      ],
+      "searchText": "dricks dricks knowledge_base/words/dricks.md ---\ntype: word\nlemma: \"dricks\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"小费\"\nen: \"tip (gratuity)\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-betalning\nsentences:\n  - sent-var-sin-del-med-kort-ska-man-lägga-till-dricks\n  - sent-dricks-är-helt-frivilligt-i-sverige\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# dricks — substantiv (en)\n\n📖 中文：小费 · English: tip (gratuity)\n发音提示：/drɪks/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en dricks / dricks |\n| Sg bestämd | dricksen |\n| Pl | — （通常不可数）|\n\n## 词组搭配 (Collocations)\n\n- `lägga till dricks` — 加小费 → [[lägga-till-dricks]]\n- `ge dricks` — 给小费\n- `dricks är frivilligt` — 小费是自愿的 → [[frivillig]]\n- `avrunda uppåt` — 往上凑整（代替明确给小费）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Dricks är helt frivilligt i Sverige. — 🇨🇳 在瑞典小费完全是自愿的。\n- 🇸🇪 Ska man lägga till dricks? — 🇨🇳 需要加小费吗？\n- 🇸🇪 Vi avrundar uppåt istället för att ge dricks. — 🇨🇳 我们往上凑整代替给小费。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典文化：小费不是义务，通常通过卡机上\"往上凑整\"功能实现\n- *dricks* 来自动词 *dricka*（喝），历史上是给服务员\"喝水钱\"\n",
+      "lemma": "dricks",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "小费",
+      "en": "tip (gratuity)",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "sent-dricks-är-helt-frivilligt-i-sverige"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "frivillig",
+        "lägga-till-dricks",
+        "sent-dricks-är-helt-frivilligt-i-sverige",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-betalning"
       ]
     },
     {
@@ -17875,6 +21573,52 @@ window.KB_DATA = {
         "logga-in",
         "source-2026-06-03-sundbyberg-forskola",
         "topic-förskola-system"
+      ]
+    },
+    {
+      "slug": "efterrätt",
+      "type": "word",
+      "title": "efterrätt",
+      "path": "knowledge_base/words/efterrätt.md",
+      "body": "# efterrätt — substantiv (en)\n\n📖 中文：甜点；餐后甜品 · English: dessert\n发音提示：EF-ter-rätt\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en efterrätt |\n| bestämd singular | efterrätten |\n| obestämd plural | efterrätter |\n| bestämd plural | efterrätterna |\n\n## 词组搭配 (Collocations)\n\n- `vad har ni för efterrätt?` — 你们有什么甜点？\n- `ta en efterrätt` — 点一份甜点\n- `hemgjord efterrätt` — 自制甜点\n\n## 例句 (Sentences)\n\n- see [[sent-bra-val-vill-du-ha-efterrätt]]\n- see [[sent-ja-gärna-vad-har-ni-för]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förrätt]] (前菜/头盘), huvudrätt (主菜)\n- 相关词: [[äppelpaj]], [[glass]], [[tårta]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典餐厅通常三道菜：förrätt → huvudrätt → efterrätt。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "efterrätt — substantiv (en) 📖 中文：甜点；餐后甜品 · English: dessert 发音提示：EF ter rätt 语法变形 (Forms) form Swedish obestämd singular en efterrätt bestämd singular efterrätten obestämd plural efterrätter bestämd plural efterrätterna",
+      "forms": [
+        "efterrätt",
+        "efterrätten",
+        "efterrätter",
+        "efterrätterna"
+      ],
+      "links": [
+        "äppelpaj",
+        "förrätt",
+        "glass",
+        "sent-bra-val-vill-du-ha-efterrätt",
+        "sent-ja-gärna-vad-har-ni-för",
+        "source-2026-06-15-restaurang-rekommendation",
+        "tårta",
+        "topic-mat-dryck"
+      ],
+      "searchText": "efterrätt efterrätt knowledge_base/words/efterrätt.md ---\ntype: word\nlemma: \"efterrätt\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"A2\"\nzh: \"甜点；餐后甜品\"\nen: \"dessert\"\nsynonyms: []\nantonyms: []\nfamily: [förrätt]\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-bra-val-vill-du-ha-efterrätt\n  - sent-ja-gärna-vad-har-ni-för\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# efterrätt — substantiv (en)\n\n📖 中文：甜点；餐后甜品 · English: dessert\n发音提示：EF-ter-rätt\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en efterrätt |\n| bestämd singular | efterrätten |\n| obestämd plural | efterrätter |\n| bestämd plural | efterrätterna |\n\n## 词组搭配 (Collocations)\n\n- `vad har ni för efterrätt?` — 你们有什么甜点？\n- `ta en efterrätt` — 点一份甜点\n- `hemgjord efterrätt` — 自制甜点\n\n## 例句 (Sentences)\n\n- see [[sent-bra-val-vill-du-ha-efterrätt]]\n- see [[sent-ja-gärna-vad-har-ni-för]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förrätt]] (前菜/头盘), huvudrätt (主菜)\n- 相关词: [[äppelpaj]], [[glass]], [[tårta]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典餐厅通常三道菜：förrätt → huvudrätt → efterrätt。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "lemma": "efterrätt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "甜点；餐后甜品",
+      "en": "dessert",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-bra-val-vill-du-ha-efterrätt",
+        "sent-ja-gärna-vad-har-ni-för"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "äppelpaj",
+        "förrätt",
+        "sent-bra-val-vill-du-ha-efterrätt",
+        "sent-ja-gärna-vad-har-ni-för",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -18171,6 +21915,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-eftersom-astrid-var-ensam-kunde-hon",
+        "sent-hej-och-välkommen-är-du-ensam",
+        "sent-ja-jag-är-ensam-finns-det",
         "source-2026-06-02-astrid-lindgren",
         "topic-karaktarsord"
       ]
@@ -18754,7 +22500,9 @@ window.KB_DATA = {
         "topic-rumsliga-relationer"
       ],
       "backlinks": [
+        "sent-det-låter-gott-men-jag-är",
         "sent-i-vardagsrummet-finns-soffa-fatoljerna",
+        "sent-ja-jag-är-ensam-finns-det",
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
         "sent-under-fonster-finns-ett-element",
         "source-2026-06-09-rumsliga-relationer",
@@ -18794,8 +22542,51 @@ window.KB_DATA = {
         "topic-djur"
       ],
       "backlinks": [
+        "fisksoppa",
         "source-2026-06-08-djur",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "fisksoppa",
+      "type": "word",
+      "title": "fisksoppa",
+      "path": "knowledge_base/words/fisksoppa.md",
+      "body": "# fisksoppa — substantiv (en)\n\n📖 中文：鱼汤 · English: fish soup\n发音提示：FISK-sop-pa（复合词，重音在第一成分）\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en fisksoppa |\n| Sg bestämd | fisksoppan |\n| Pl obestämd | fisksoppor |\n| Pl bestämd | fisksopporna |\n\n复合词结构：fisk（鱼）+ soppa（汤）→ [[grammar-sammansatt-ord]]\n\n## 词组搭配 (Collocations)\n\n- `en nötfri fisksoppa` — 无坚果鱼汤\n- `varm fisksoppa` — 热鱼汤\n- `fisksoppan är kall` — 鱼汤凉了 → [[kall]]\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vår fisksoppa är nötfri och glutenfri. — 🇨🇳 我们的鱼汤不含坚果和麸质。\n- 🇸🇪 Jag tar en fisksoppa, tack. — 🇨🇳 我要一份鱼汤，谢谢。\n- 🇸🇪 Fisksoppan var kall — kan jag få en ny? — 🇨🇳 鱼汤凉了——能换一份吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fisk]]（鱼），[[soppa]]（汤）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词，两个成分都是名词 → [[grammar-sammansatt-ord]]\n- 餐厅中常作为前菜（förrätt）或主菜（varmrätt）",
+      "excerpt": "fisksoppa — substantiv (en) 📖 中文：鱼汤 · English: fish soup 发音提示：FISK sop pa（复合词，重音在第一成分） 语法变形 (Forms) Form Swedish Sg obestämd en fisksoppa Sg bestämd fisksoppan Pl obestämd fisksoppor Pl bestämd fisksopporna 复合词结构：fisk（鱼",
+      "forms": [
+        "fisksoppa",
+        "fisksoppan",
+        "fisksoppor",
+        "fisksopporna"
+      ],
+      "links": [
+        "fisk",
+        "grammar-sammansatt-ord",
+        "kall",
+        "soppa",
+        "topic-mat-dryck"
+      ],
+      "searchText": "fisksoppa fisksoppa knowledge_base/words/fisksoppa.md ---\ntype: word\nlemma: \"fisksoppa\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"鱼汤\"\nen: \"fish soup\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-vår-fisksoppa-är-nötfri-och-kycklingen\n  - sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny\n  - sent-jag-värmer-en-ny-åt-dig-direkt\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fisksoppa — substantiv (en)\n\n📖 中文：鱼汤 · English: fish soup\n发音提示：FISK-sop-pa（复合词，重音在第一成分）\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en fisksoppa |\n| Sg bestämd | fisksoppan |\n| Pl obestämd | fisksoppor |\n| Pl bestämd | fisksopporna |\n\n复合词结构：fisk（鱼）+ soppa（汤）→ [[grammar-sammansatt-ord]]\n\n## 词组搭配 (Collocations)\n\n- `en nötfri fisksoppa` — 无坚果鱼汤\n- `varm fisksoppa` — 热鱼汤\n- `fisksoppan är kall` — 鱼汤凉了 → [[kall]]\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vår fisksoppa är nötfri och glutenfri. — 🇨🇳 我们的鱼汤不含坚果和麸质。\n- 🇸🇪 Jag tar en fisksoppa, tack. — 🇨🇳 我要一份鱼汤，谢谢。\n- 🇸🇪 Fisksoppan var kall — kan jag få en ny? — 🇨🇳 鱼汤凉了——能换一份吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fisk]]（鱼），[[soppa]]（汤）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词，两个成分都是名词 → [[grammar-sammansatt-ord]]\n- 餐厅中常作为前菜（förrätt）或主菜（varmrätt）\n",
+      "lemma": "fisksoppa",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "鱼汤",
+      "en": "fish soup",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
+        "sent-jag-värmer-en-ny-åt-dig-direkt"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -18835,6 +22626,50 @@ window.KB_DATA = {
         "sent-pa-soffbord-ligger-fjarrkontroll-tidningar",
         "source-2026-06-09-rumsliga-relationer",
         "television"
+      ]
+    },
+    {
+      "slug": "fläskfilé",
+      "type": "word",
+      "title": "fläskfilé",
+      "path": "knowledge_base/words/fläskfilé.md",
+      "body": "# fläskfilé — substantiv (en)\n\n📖 中文：猪柳；猪里脊 · English: pork tenderloin\n发音提示：FLÄSK-fi-lé\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en fläskfilé |\n| bestämd singular | fläskfilén |\n| obestämd plural | fläskfiléer |\n| bestämd plural | fläskfiléerna |\n\n## 词组搭配 (Collocations)\n\n- `fläskfilé med rostade grönsaker` — 猪柳配烤蔬菜\n- `steka fläskfilé` — 煎猪柳\n\n## 例句 (Sentences)\n\n- see [[sent-ja-vi-har-en-fläskfilé]]\n- see [[sent-då-tar-jag-fläskfilén-tack]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: fläsk (猪肉), filé (里脊/鱼柳)\n- 相关词: [[kött]], [[grönsak]], [[rostad]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *fläsk* = 猪肉，*filé* = 里脊/最嫩的部位\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "fläskfilé — substantiv (en) 📖 中文：猪柳；猪里脊 · English: pork tenderloin 发音提示：FLÄSK fi lé 语法变形 (Forms) form Swedish obestämd singular en fläskfilé bestämd singular fläskfilén obestämd plural fläskfiléer bestämd plural fläskfi",
+      "forms": [
+        "fläskfilé",
+        "fläskfilén",
+        "fläskfiléer",
+        "fläskfiléerna"
+      ],
+      "links": [
+        "grönsak",
+        "kött",
+        "rostad",
+        "sent-då-tar-jag-fläskfilén-tack",
+        "sent-ja-vi-har-en-fläskfilé",
+        "source-2026-06-15-restaurang-rekommendation",
+        "topic-mat-dryck"
+      ],
+      "searchText": "fläskfilé fläskfilé knowledge_base/words/fläskfilé.md ---\ntype: word\nlemma: \"fläskfilé\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"B1\"\nzh: \"猪柳；猪里脊\"\nen: \"pork tenderloin\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-ja-vi-har-en-fläskfilé\n  - sent-då-tar-jag-fläskfilén-tack\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fläskfilé — substantiv (en)\n\n📖 中文：猪柳；猪里脊 · English: pork tenderloin\n发音提示：FLÄSK-fi-lé\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en fläskfilé |\n| bestämd singular | fläskfilén |\n| obestämd plural | fläskfiléer |\n| bestämd plural | fläskfiléerna |\n\n## 词组搭配 (Collocations)\n\n- `fläskfilé med rostade grönsaker` — 猪柳配烤蔬菜\n- `steka fläskfilé` — 煎猪柳\n\n## 例句 (Sentences)\n\n- see [[sent-ja-vi-har-en-fläskfilé]]\n- see [[sent-då-tar-jag-fläskfilén-tack]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: fläsk (猪肉), filé (里脊/鱼柳)\n- 相关词: [[kött]], [[grönsak]], [[rostad]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *fläsk* = 猪肉，*filé* = 里脊/最嫩的部位\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "lemma": "fläskfilé",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "猪柳；猪里脊",
+      "en": "pork tenderloin",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-ja-vi-har-en-fläskfilé",
+        "sent-då-tar-jag-fläskfilén-tack"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "kött",
+        "sent-då-tar-jag-fläskfilén-tack",
+        "sent-ja-vi-har-en-fläskfilé",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -19030,6 +22865,7 @@ window.KB_DATA = {
         "topic-rumsliga-relationer"
       ],
       "backlinks": [
+        "sent-absolut-vi-har-ett-ledigt-bord",
         "sent-framfor-fonster-vid-vaggen-stor-krukvaxt",
         "sent-under-fonster-finns-ett-element",
         "source-2026-06-02-valj-ratt-form",
@@ -19276,6 +23112,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "förrätt",
+      "type": "word",
+      "title": "förrätt",
+      "path": "knowledge_base/words/förrätt.md",
+      "body": "# förrätt — substantiv (en)\n\n📖 中文：前菜 · English: starter; appetizer\n发音提示：[\"FÖR-ret\"] — 重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en förrätt | förrätten |\n| plural | förrätter | förrätterna |\n\n## 词组搭配 (Collocations)\n\n- `vill ni ha förrätt` — 要来个前菜吗\n- `som förrätt` — 作为前菜\n- `beställa förrätt` — 点前菜\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vill ni ha någon förrätt också? — 🇨🇳 要来个前菜吗？\n- 🇸🇪 Som förrätt tar vi räksallad. — 🇨🇳 作为前菜我们要虾仁沙拉。\n- 🇸🇪 Förrätten serveras om tio minuter. — 🇨🇳 前菜十分钟后上桌。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词: [[efterrätt]]（甜点/饭后甜食）\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典餐厅菜单通常分三部分：*förrätt*（前菜）、*huvudrätt*（主菜）、*efterrätt*（甜点）。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "förrätt — substantiv (en) 📖 中文：前菜 · English: starter; appetizer 发音提示：[\"FÖR ret\"] — 重音在第一音节 语法变形 (Forms) form obestämd bestämd singular en förrätt förrätten plural förrätter förrätterna 词组搭配 (Collocations) vill ni ha för",
+      "forms": [
+        "förrätt",
+        "förrätten",
+        "förrätter",
+        "förrätterna"
+      ],
+      "links": [
+        "efterrätt",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ],
+      "searchText": "förrätt förrätt knowledge_base/words/förrätt.md ---\ntype: word\nlemma: \"förrätt\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"前菜\"\nen: \"starter; appetizer\"\nsynonyms: []\nantonyms:\n  - efterrätt\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-utmärkt-val-vill-ni-ha-förrätt\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förrätt — substantiv (en)\n\n📖 中文：前菜 · English: starter; appetizer\n发音提示：[\"FÖR-ret\"] — 重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en förrätt | förrätten |\n| plural | förrätter | förrätterna |\n\n## 词组搭配 (Collocations)\n\n- `vill ni ha förrätt` — 要来个前菜吗\n- `som förrätt` — 作为前菜\n- `beställa förrätt` — 点前菜\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vill ni ha någon förrätt också? — 🇨🇳 要来个前菜吗？\n- 🇸🇪 Som förrätt tar vi räksallad. — 🇨🇳 作为前菜我们要虾仁沙拉。\n- 🇸🇪 Förrätten serveras om tio minuter. — 🇨🇳 前菜十分钟后上桌。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词: [[efterrätt]]（甜点/饭后甜食）\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典餐厅菜单通常分三部分：*förrätt*（前菜）、*huvudrätt*（主菜）、*efterrätt*（甜点）。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "förrätt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "前菜",
+      "en": "starter; appetizer",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-utmärkt-val-vill-ni-ha-förrätt"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "efterrätt",
+        "sent-utmärkt-val-vill-ni-ha-förrätt",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "förresten",
       "type": "word",
       "title": "förresten",
@@ -19296,7 +23171,8 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "sent-fika-förresten-vad-gjorde-du-i-helgen",
-        "sent-fika-ja-verkligen-förresten-bulle"
+        "sent-fika-ja-verkligen-förresten-bulle",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni"
       ]
     },
     {
@@ -19697,6 +23573,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "frivillig",
+      "type": "word",
+      "title": "frivillig",
+      "path": "knowledge_base/words/frivillig.md",
+      "body": "# frivillig — adjektiv\n\n📖 中文：自愿的；非强制的 · English: voluntary; optional\n发音提示：fri-VIL-lig\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg (en-ord) | frivillig |\n| Obestämd sg (ett-ord) | frivilligt |\n| Bestämd / Plural | frivilliga |\n\n## 词组搭配 (Collocations)\n\n- `helt frivilligt` — 完全自愿的 → [[dricks]]\n- `frivillig organisation` — 志愿组织\n- `frivilligarbete` — 志愿工作\n- `det är frivilligt` — 这是自愿的\n\n## 例句 (Sentences)\n\n- 🇸🇪 Dricks är helt frivilligt i Sverige. — 🇨🇳 在瑞典小费完全是自愿的。\n- 🇸🇪 Deltagandet i kursen är frivilligt. — 🇨🇳 参加这门课是自愿的。\n- 🇸🇪 Frivilligarbete är vanligt i Sverige. — 🇨🇳 志愿工作在瑞典很常见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: frivillighet（自愿性），frivilligarbete（志愿工作）\n- 同义词: valfri（可选择的）\n- 反义词: [[tvungen]]（被迫的，义务的）\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 形容词一致变形：ett-ord 用 *frivilligt*（副词也是 *frivilligt*）→ [[grammar-adjektiv-bojning]]\n- 常与副词 *helt*（完全地）搭配，强调非义务性",
+      "excerpt": "frivillig — adjektiv 📖 中文：自愿的；非强制的 · English: voluntary; optional 发音提示：fri VIL lig 语法变形 (Forms) Form Swedish Obestämd sg (en ord) frivillig Obestämd sg (ett ord) frivilligt Bestämd / Plural frivilliga 词组搭配 (Collocations",
+      "forms": [
+        "frivillig",
+        "frivilligt",
+        "frivilliga"
+      ],
+      "links": [
+        "dricks",
+        "grammar-adjektiv-bojning",
+        "topic-betalning",
+        "tvungen"
+      ],
+      "searchText": "frivillig frivillig knowledge_base/words/frivillig.md ---\ntype: word\nlemma: \"frivillig\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"自愿的；非强制的\"\nen: \"voluntary; optional\"\nsynonyms: []\nantonyms:\n  - tvungen\nfamily: []\ntopics:\n  - topic-betalning\nsentences:\n  - sent-dricks-är-helt-frivilligt-i-sverige\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# frivillig — adjektiv\n\n📖 中文：自愿的；非强制的 · English: voluntary; optional\n发音提示：fri-VIL-lig\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg (en-ord) | frivillig |\n| Obestämd sg (ett-ord) | frivilligt |\n| Bestämd / Plural | frivilliga |\n\n## 词组搭配 (Collocations)\n\n- `helt frivilligt` — 完全自愿的 → [[dricks]]\n- `frivillig organisation` — 志愿组织\n- `frivilligarbete` — 志愿工作\n- `det är frivilligt` — 这是自愿的\n\n## 例句 (Sentences)\n\n- 🇸🇪 Dricks är helt frivilligt i Sverige. — 🇨🇳 在瑞典小费完全是自愿的。\n- 🇸🇪 Deltagandet i kursen är frivilligt. — 🇨🇳 参加这门课是自愿的。\n- 🇸🇪 Frivilligarbete är vanligt i Sverige. — 🇨🇳 志愿工作在瑞典很常见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: frivillighet（自愿性），frivilligarbete（志愿工作）\n- 同义词: valfri（可选择的）\n- 反义词: [[tvungen]]（被迫的，义务的）\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 形容词一致变形：ett-ord 用 *frivilligt*（副词也是 *frivilligt*）→ [[grammar-adjektiv-bojning]]\n- 常与副词 *helt*（完全地）搭配，强调非义务性\n",
+      "lemma": "frivillig",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "自愿的；非强制的",
+      "en": "voluntary; optional",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-dricks-är-helt-frivilligt-i-sverige"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "dricks",
+        "sent-dricks-är-helt-frivilligt-i-sverige",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-betalning",
+        "tvungen"
+      ]
+    },
+    {
       "slug": "frukost",
       "type": "word",
       "title": "frukost",
@@ -19810,6 +23726,7 @@ window.KB_DATA = {
         "topic-djur"
       ],
       "backlinks": [
+        "hus",
         "modern",
         "ny",
         "source-2026-06-08-djur",
@@ -19880,7 +23797,10 @@ window.KB_DATA = {
       "known": false,
       "sentences": [],
       "topics": [],
-      "backlinks": []
+      "backlinks": [
+        "sent-ja-gärna-ett-glas-rödvin-och-vatten",
+        "sent-ja-gärna-vad-har-ni-för"
+      ]
     },
     {
       "slug": "gäst",
@@ -19913,6 +23833,51 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "topic-personer"
+      ]
+    },
+    {
+      "slug": "gata",
+      "type": "word",
+      "title": "gata",
+      "path": "knowledge_base/words/gata.md",
+      "body": "# gata — substantiv (en-ord)\n\n📖 中文：街道；马路 · English: street\n发音提示：/ˈɡɑːta/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en gata | gator |\n| **Bestämd** | gatan | gatorna |\n\n## 词组搭配 (Collocations)\n\n- `bred gata` — 宽阔的街道 → see [[bred]]\n- `livlig gata` — 热闹的街道 → see [[livlig]]\n- `på gatan` — 在街道上\n- `korsning av gator` — 街道交叉口 → see [[korsning]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: gatukök (街边快餐)\n- 同义词: [[väg]]\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `gata` 通常指城市内有建筑物两侧的街道；`väg` 更泛指道路（包括城市外）。\n- plural 是 `gator`（第一变格，-a → -or）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "gata — substantiv (en ord) 📖 中文：街道；马路 · English: street 发音提示：/ˈɡɑːta/ 语法变形 (Forms) Singular Plural Obestämd en gata gator Bestämd gatan gatorna 词组搭配 (Collocations) bred gata — 宽阔的街道 → see bred livlig gata — 热闹的街道 → see ",
+      "forms": [
+        "gata",
+        "gator",
+        "gatan",
+        "gatorna"
+      ],
+      "links": [
+        "bred",
+        "grammar-substantiv-plural",
+        "korsning",
+        "livlig",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "väg"
+      ],
+      "searchText": "gata gata knowledge_base/words/gata.md ---\ntype: word\nlemma: \"gata\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 街道；马路\nen: street\nsynonyms: []\nantonyms: []\nfamily: [\"gatukök\", \"gaturum\"]\ntopics: [\"topic-stadsmiljo\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# gata — substantiv (en-ord)\n\n📖 中文：街道；马路 · English: street\n发音提示：/ˈɡɑːta/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en gata | gator |\n| **Bestämd** | gatan | gatorna |\n\n## 词组搭配 (Collocations)\n\n- `bred gata` — 宽阔的街道 → see [[bred]]\n- `livlig gata` — 热闹的街道 → see [[livlig]]\n- `på gatan` — 在街道上\n- `korsning av gator` — 街道交叉口 → see [[korsning]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: gatukök (街边快餐)\n- 同义词: [[väg]]\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `gata` 通常指城市内有建筑物两侧的街道；`väg` 更泛指道路（包括城市外）。\n- plural 是 `gator`（第一变格，-a → -or）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "gata",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "街道；马路",
+      "en": "street",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "livlig",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "trång",
+        "väg"
       ]
     },
     {
@@ -20090,7 +24055,11 @@ window.KB_DATA = {
         "topic-hemmet"
       ],
       "backlinks": [
+        "öl",
+        "sent-då-tar-jag-fläskfilén-tack",
+        "sent-ja-gärna-ett-glas-rödvin-och-vatten",
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
+        "sent-två-glas-vatten-räcker-tack",
         "source-2026-06-09-rumsliga-relationer"
       ]
     },
@@ -20126,6 +24095,9 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "äppelpaj",
+        "efterrätt",
+        "sent-vi-har-hemgjord-glass-och-äppelpaj",
         "topic-mat-dryck"
       ]
     },
@@ -20251,6 +24223,42 @@ window.KB_DATA = {
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-08-djur",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "grädde",
+      "type": "word",
+      "title": "grädde",
+      "path": "knowledge_base/words/grädde.md",
+      "body": "# grädde — substantiv (en)\n\n📖 中文：奶油；鲜奶油 · English: cream\n发音提示：/ˈɡrɛdə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en grädde / grädde |\n| Sg bestämd | grädden |\n| Pl obestämd | — （通常不可数）|\n\n## 词组搭配 (Collocations)\n\n- `utan grädde` — 不加奶油 → [[laktos]]\n- `vispgrädde` — 打发鲜奶油（whipped cream）\n- `gräddfil` — 酸奶油（sour cream）\n- `en rätt med grädde` — 一道含奶油的菜\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan ni göra rätten utan grädde? — 🇨🇳 能做成不加奶油的吗？\n- 🇸🇪 Soppan innehåller grädde — den är inte laktosfri. — 🇨🇳 汤里有奶油——不是无乳糖的。\n- 🇸🇪 Jag vill ha kaffe med lite grädde. — 🇨🇳 我想要加一点奶油的咖啡。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: vispgrädde（打发奶油），gräddfil（酸奶油），laktosfri（无乳糖）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *grädde* 含乳糖，乳糖不耐的人需要无乳糖版本 → [[laktos]], [[tåla]]\n- *utan grädde* 是餐厅中请求特殊饮食的常用说法",
+      "excerpt": "grädde — substantiv (en) 📖 中文：奶油；鲜奶油 · English: cream 发音提示：/ˈɡrɛdə/ 语法变形 (Forms) Form Swedish Sg obestämd en grädde / grädde Sg bestämd grädden Pl obestämd — （通常不可数） 词组搭配 (Collocations) utan grädde — 不加奶油 → laktos vispg",
+      "forms": [
+        "grädde",
+        "grädden"
+      ],
+      "links": [
+        "laktos",
+        "tåla",
+        "topic-mat-dryck"
+      ],
+      "searchText": "grädde grädde knowledge_base/words/grädde.md ---\ntype: word\nlemma: \"grädde\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"奶油；鲜奶油\"\nen: \"cream\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-kan-ni-göra-den-utan-grädde-hon-tål-inte\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# grädde — substantiv (en)\n\n📖 中文：奶油；鲜奶油 · English: cream\n发音提示：/ˈɡrɛdə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en grädde / grädde |\n| Sg bestämd | grädden |\n| Pl obestämd | — （通常不可数）|\n\n## 词组搭配 (Collocations)\n\n- `utan grädde` — 不加奶油 → [[laktos]]\n- `vispgrädde` — 打发鲜奶油（whipped cream）\n- `gräddfil` — 酸奶油（sour cream）\n- `en rätt med grädde` — 一道含奶油的菜\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan ni göra rätten utan grädde? — 🇨🇳 能做成不加奶油的吗？\n- 🇸🇪 Soppan innehåller grädde — den är inte laktosfri. — 🇨🇳 汤里有奶油——不是无乳糖的。\n- 🇸🇪 Jag vill ha kaffe med lite grädde. — 🇨🇳 我想要加一点奶油的咖啡。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: vispgrädde（打发奶油），gräddfil（酸奶油），laktosfri（无乳糖）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *grädde* 含乳糖，乳糖不耐的人需要无乳糖版本 → [[laktos]], [[tåla]]\n- *utan grädde* 是餐厅中请求特殊饮食的常用说法\n",
+      "lemma": "grädde",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "奶油；鲜奶油",
+      "en": "cream",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -20415,6 +24423,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grillad",
+      "type": "word",
+      "title": "grillad",
+      "path": "knowledge_base/words/grillad.md",
+      "body": "# grillad — adjektiv\n\n📖 中文：烤的；炙烤的 · English: grilled\n发音提示：[\"GRIL-lad\"]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sg | grillad |\n| neutrum sg | grillat |\n| plural / definit | grillade |\n\n例: *grillad lax* (en lax) · *grillat kött* (ett kött) · *grillade grönsaker*\n\n## 词组搭配 (Collocations)\n\n- `grillad lax` — 烤三文鱼\n- `grillad kyckling` — 烤鸡\n- `grillat kött` — 烤肉\n\n## 例句 (Sentences)\n\n- 🇸🇪 Min fru vill ha den grillade laxen. — 🇨🇳 我太太想要那份烤三文鱼。\n- 🇸🇪 Vi åt grillad kyckling på picnicken. — 🇨🇳 我们在野餐时吃了烤鸡。\n- 🇸🇪 Grillat kött smakar bäst på sommaren. — 🇨🇳 夏天烤肉最好吃。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *grillad* 是过去分词形式用作形容词，变格遵循普通形容词变格规则。\n- 在菜单上常见: *grillad lax*, *grillat kött*, *grillade grönsaker*。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "grillad — adjektiv 📖 中文：烤的；炙烤的 · English: grilled 发音提示：[\"GRIL lad\"] 语法变形 (Forms) form Swedish utrum sg grillad neutrum sg grillat plural / definit grillade 例: grillad lax (en lax) · grillat kött (ett kött) · grillade gr",
+      "forms": [
+        "grillad",
+        "grillat",
+        "grillade"
+      ],
+      "links": [
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ],
+      "searchText": "grillad grillad knowledge_base/words/grillad.md ---\ntype: word\nlemma: \"grillad\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"烤的；炙烤的\"\nen: \"grilled\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-jag-tar-köttbullar-med-potatismos\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# grillad — adjektiv\n\n📖 中文：烤的；炙烤的 · English: grilled\n发音提示：[\"GRIL-lad\"]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sg | grillad |\n| neutrum sg | grillat |\n| plural / definit | grillade |\n\n例: *grillad lax* (en lax) · *grillat kött* (ett kött) · *grillade grönsaker*\n\n## 词组搭配 (Collocations)\n\n- `grillad lax` — 烤三文鱼\n- `grillad kyckling` — 烤鸡\n- `grillat kött` — 烤肉\n\n## 例句 (Sentences)\n\n- 🇸🇪 Min fru vill ha den grillade laxen. — 🇨🇳 我太太想要那份烤三文鱼。\n- 🇸🇪 Vi åt grillad kyckling på picnicken. — 🇨🇳 我们在野餐时吃了烤鸡。\n- 🇸🇪 Grillat kött smakar bäst på sommaren. — 🇨🇳 夏天烤肉最好吃。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *grillad* 是过去分词形式用作形容词，变格遵循普通形容词变格规则。\n- 在菜单上常见: *grillad lax*, *grillat kött*, *grillade grönsaker*。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "grillad",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "烤的；炙烤的",
+      "en": "grilled",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-jag-tar-köttbullar-med-potatismos"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "rostad",
+        "sent-jag-tar-köttbullar-med-potatismos",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "gris",
       "type": "word",
       "title": "gris",
@@ -20488,6 +24533,92 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grön",
+      "type": "word",
+      "title": "grön",
+      "path": "knowledge_base/words/grön.md",
+      "body": "# grön — adjektiv\n\n📖 中文：绿色的 · English: green\n发音提示：/ɡrøːn/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | grön | grönt | gröna |\n| **Komparativ** | grönare | grönare | grönare |\n| **Superlativ** | grönast / grönaste | grönast / grönaste | grönaste |\n\n## 词组搭配 (Collocations)\n\n- `grönt trafikljus` — 绿灯 → see [[trafikljus]]\n- `gröna träd` — 绿色的树木 → see [[träd]]\n- `grön park` — 绿色的公园 → see [[park]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: [[röd]]\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 颜色词，ett-形式为 `grönt`，plural 为 `gröna`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "grön — adjektiv 📖 中文：绿色的 · English: green 发音提示：/ɡrøːn/ 语法变形 (Forms) en ord ett ord plural Positiv grön grönt gröna Komparativ grönare grönare grönare Superlativ grönast / grönaste grönast / grönaste grönaste 词组搭配 (Collo",
+      "forms": [
+        "grön",
+        "grönt",
+        "gröna",
+        "grönare",
+        "grönast",
+        "grönaste"
+      ],
+      "links": [
+        "grammar-adjektiv-bojning",
+        "park",
+        "röd",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "träd",
+        "trafikljus"
+      ],
+      "searchText": "grön grön knowledge_base/words/grön.md ---\ntype: word\nlemma: \"grön\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A1\nzh: 绿色的\nen: green\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# grön — adjektiv\n\n📖 中文：绿色的 · English: green\n发音提示：/ɡrøːn/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | grön | grönt | gröna |\n| **Komparativ** | grönare | grönare | grönare |\n| **Superlativ** | grönast / grönaste | grönast / grönaste | grönaste |\n\n## 词组搭配 (Collocations)\n\n- `grönt trafikljus` — 绿灯 → see [[trafikljus]]\n- `gröna träd` — 绿色的树木 → see [[träd]]\n- `grön park` — 绿色的公园 → see [[park]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: [[röd]]\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 颜色词，ett-形式为 `grönt`，plural 为 `gröna`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "grön",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "绿色的",
+      "en": "green",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
+      "slug": "grönsak",
+      "type": "word",
+      "title": "grönsak",
+      "path": "knowledge_base/words/grönsak.md",
+      "body": "# grönsak — substantiv (en)\n\n📖 中文：蔬菜 · English: vegetable\n发音提示：GRÖN-sak\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en grönsak |\n| bestämd singular | grönsaken |\n| obestämd plural | grönsaker |\n| bestämd plural | grönsakerna |\n\n## 词组搭配 (Collocations)\n\n- `rostade grönsaker` — 烤蔬菜\n- `färska grönsaker` — 新鲜蔬菜\n- `äta grönsaker` — 吃蔬菜\n\n## 例句 (Sentences)\n\n- see [[sent-ja-vi-har-en-fläskfilé]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: grön (绿色) + sak (物品) → 绿色食物\n- 相关词: [[tomat]], [[gurka]], [[morot]], [[lök]], [[sallad]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *grönsak* 是蔬菜的总称，包括番茄、黄瓜、胡萝卜等。\n- 注意：sallad 也可指一道菜（沙拉），而 grönsak 单指蔬菜这种食材。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "grönsak — substantiv (en) 📖 中文：蔬菜 · English: vegetable 发音提示：GRÖN sak 语法变形 (Forms) form Swedish obestämd singular en grönsak bestämd singular grönsaken obestämd plural grönsaker bestämd plural grönsakerna 词组搭配 (Collocati",
+      "forms": [
+        "grönsak",
+        "grönsaken",
+        "grönsaker",
+        "grönsakerna"
+      ],
+      "links": [
+        "gurka",
+        "lök",
+        "morot",
+        "sallad",
+        "sent-ja-vi-har-en-fläskfilé",
+        "source-2026-06-15-restaurang-rekommendation",
+        "tomat",
+        "topic-mat-dryck"
+      ],
+      "searchText": "grönsak grönsak knowledge_base/words/grönsak.md ---\ntype: word\nlemma: \"grönsak\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"A1\"\nzh: \"蔬菜\"\nen: \"vegetable\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-ja-vi-har-en-fläskfilé\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# grönsak — substantiv (en)\n\n📖 中文：蔬菜 · English: vegetable\n发音提示：GRÖN-sak\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en grönsak |\n| bestämd singular | grönsaken |\n| obestämd plural | grönsaker |\n| bestämd plural | grönsakerna |\n\n## 词组搭配 (Collocations)\n\n- `rostade grönsaker` — 烤蔬菜\n- `färska grönsaker` — 新鲜蔬菜\n- `äta grönsaker` — 吃蔬菜\n\n## 例句 (Sentences)\n\n- see [[sent-ja-vi-har-en-fläskfilé]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: grön (绿色) + sak (物品) → 绿色食物\n- 相关词: [[tomat]], [[gurka]], [[morot]], [[lök]], [[sallad]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *grönsak* 是蔬菜的总称，包括番茄、黄瓜、胡萝卜等。\n- 注意：sallad 也可指一道菜（沙拉），而 grönsak 单指蔬菜这种食材。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "lemma": "grönsak",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "蔬菜",
+      "en": "vegetable",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-ja-vi-har-en-fläskfilé"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "fläskfilé",
+        "pasta",
+        "sent-ja-vi-har-en-fläskfilé",
+        "svamp",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "grundskola",
       "type": "word",
       "title": "grundskola",
@@ -20530,6 +24661,49 @@ window.KB_DATA = {
         "source-2026-06-04-nyheter-vecka-22",
         "studentmössa",
         "topic-nyheter-vecka22"
+      ]
+    },
+    {
+      "slug": "gul",
+      "type": "word",
+      "title": "gul",
+      "path": "knowledge_base/words/gul.md",
+      "body": "# gul — adjektiv\n\n📖 中文：黄色的 · English: yellow\n发音提示：/ɡɵːl/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | gul | gult | gula |\n| **Komparativ** | gulare | gulare | gulare |\n| **Superlativ** | gulast / gulaste | gulast / gulaste | gulaste |\n\n## 词组搭配 (Collocations)\n\n- `gult trafikljus` — 黄灯 → see [[trafikljus]]\n- `gul buss` — 黄色公共汽车 → see [[buss]]\n- `gul linje` — 黄色线路 → see [[linje]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 颜色词，ett-形式为 `gult`，plural 为 `gula`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "gul — adjektiv 📖 中文：黄色的 · English: yellow 发音提示：/ɡɵːl/ 语法变形 (Forms) en ord ett ord plural Positiv gul gult gula Komparativ gulare gulare gulare Superlativ gulast / gulaste gulast / gulaste gulaste 词组搭配 (Collocations) gul",
+      "forms": [
+        "gul",
+        "gult",
+        "gula",
+        "gulare",
+        "gulast",
+        "gulaste"
+      ],
+      "links": [
+        "buss",
+        "grammar-adjektiv-bojning",
+        "linje",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "trafikljus"
+      ],
+      "searchText": "gul gul knowledge_base/words/gul.md ---\ntype: word\nlemma: \"gul\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A1\nzh: 黄色的\nen: yellow\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-stadsmiljo\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# gul — adjektiv\n\n📖 中文：黄色的 · English: yellow\n发音提示：/ɡɵːl/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | gul | gult | gula |\n| **Komparativ** | gulare | gulare | gulare |\n| **Superlativ** | gulast / gulaste | gulast / gulaste | gulaste |\n\n## 词组搭配 (Collocations)\n\n- `gult trafikljus` — 黄灯 → see [[trafikljus]]\n- `gul buss` — 黄色公共汽车 → see [[buss]]\n- `gul linje` — 黄色线路 → see [[linje]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 颜色词，ett-形式为 `gult`，plural 为 `gula`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "gul",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "黄色的",
+      "en": "yellow",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik"
       ]
     },
     {
@@ -20602,6 +24776,7 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "grönsak",
         "sallad",
         "topic-mat-dryck"
       ]
@@ -20686,6 +24861,49 @@ window.KB_DATA = {
         "hålla-någon-sällskap",
         "hålla-på",
         "innehålla"
+      ]
+    },
+    {
+      "slug": "hållplats",
+      "type": "word",
+      "title": "hållplats",
+      "path": "knowledge_base/words/hållplats.md",
+      "body": "# hållplats — substantiv (en-ord)\n\n📖 中文：站点；停靠站（公共汽车/有轨电车） · English: stop (bus/tram stop)\n发音提示：/ˈhɔlːˌplats/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en hållplats | hållplatser |\n| **Bestämd** | hållplatsen | hållplatserna |\n\n## 词组搭配 (Collocations)\n\n- `busshållplats` — 公共汽车站 → see [[busshållplats]]\n- `vid hållplatsen` — 在站点处\n- `nästa hållplats` — 下一站\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[busshållplats]] (公交站), spårvagnshållplats (有轨电车站)\n- 同义词: [[station]]\n- 反义词: —\n- 主题: [[topic-trafik]], [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- `hållplats` 多指公交车/有轨电车的站点；`station` 多指火车/地铁的大站。\n- 注意：`busshållplats`（已有词条）是合成词，而 `hållplats` 是它的后缀词根。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "hållplats — substantiv (en ord) 📖 中文：站点；停靠站（公共汽车/有轨电车） · English: stop (bus/tram stop) 发音提示：/ˈhɔlːˌplats/ 语法变形 (Forms) Singular Plural Obestämd en hållplats hållplatser Bestämd hållplatsen hållplatserna 词组搭配 (Collocatio",
+      "forms": [
+        "hållplats",
+        "hållplatser",
+        "hållplatsen",
+        "hållplatserna"
+      ],
+      "links": [
+        "busshållplats",
+        "grammar-substantiv-plural",
+        "source-2026-06-15-stad-trafik",
+        "station",
+        "topic-kollektivtrafik",
+        "topic-trafik"
+      ],
+      "searchText": "hållplats hållplats knowledge_base/words/hållplats.md ---\ntype: word\nlemma: \"hållplats\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 站点；停靠站（公共汽车/有轨电车）\nen: stop (bus/tram stop)\nsynonyms: []\nantonyms: []\nfamily: [\"busshållplats\", \"spårvagnshållplats\"]\ntopics: [\"topic-trafik\", \"topic-kollektivtrafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hållplats — substantiv (en-ord)\n\n📖 中文：站点；停靠站（公共汽车/有轨电车） · English: stop (bus/tram stop)\n发音提示：/ˈhɔlːˌplats/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en hållplats | hållplatser |\n| **Bestämd** | hållplatsen | hållplatserna |\n\n## 词组搭配 (Collocations)\n\n- `busshållplats` — 公共汽车站 → see [[busshållplats]]\n- `vid hållplatsen` — 在站点处\n- `nästa hållplats` — 下一站\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[busshållplats]] (公交站), spårvagnshållplats (有轨电车站)\n- 同义词: [[station]]\n- 反义词: —\n- 主题: [[topic-trafik]], [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- `hållplats` 多指公交车/有轨电车的站点；`station` 多指火车/地铁的大站。\n- 注意：`busshållplats`（已有词条）是合成词，而 `hållplats` 是它的后缀词根。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "hållplats",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "站点；停靠站（公共汽车/有轨电车）",
+      "en": "stop (bus/tram stop)",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-trafik",
+        "topic-kollektivtrafik"
+      ],
+      "backlinks": [
+        "buss",
+        "busshållplats",
+        "source-2026-06-15-stad-trafik",
+        "station",
+        "topic-kollektivtrafik",
+        "topic-trafik"
       ]
     },
     {
@@ -21315,6 +25533,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "hög",
+      "type": "word",
+      "title": "hög",
+      "path": "knowledge_base/words/hög.md",
+      "body": "# hög — adjektiv\n\n📖 中文：高的；高大的 · English: high, tall\n发音提示：/høːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | hög | högt | höga |\n| **Komparativ** | högre | högre | högre |\n| **Superlativ** | högst / högsta | högst / högsta | högsta |\n\n## 词组搭配 (Collocations)\n\n- `höga hus` — 高楼大厦 → see [[hus]]\n- `högt hus` — 高楼（ett-ord）\n- `hög bro` — 高桥 → see [[bro]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höjd (高度), höja (升高)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 描述建筑、桥梁等城市元素的高度时常用。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "hög — adjektiv 📖 中文：高的；高大的 · English: high, tall 发音提示：/høːɡ/ 语法变形 (Forms) en ord ett ord plural Positiv hög högt höga Komparativ högre högre högre Superlativ högst / högsta högst / högsta högsta 词组搭配 (Collocations) höga",
+      "forms": [
+        "hög",
+        "högt",
+        "höga",
+        "högre",
+        "högst",
+        "högsta"
+      ],
+      "links": [
+        "bro",
+        "grammar-adjektiv-bojning",
+        "hus",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "hög hög knowledge_base/words/hög.md ---\ntype: word\nlemma: \"hög\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A1\nzh: 高的；高大的\nen: high, tall\nsynonyms: []\nantonyms: []\nfamily: [\"höjd\", \"höja\"]\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hög — adjektiv\n\n📖 中文：高的；高大的 · English: high, tall\n发音提示：/høːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | hög | högt | höga |\n| **Komparativ** | högre | högre | högre |\n| **Superlativ** | högst / högsta | högst / högsta | högsta |\n\n## 词组搭配 (Collocations)\n\n- `höga hus` — 高楼大厦 → see [[hus]]\n- `högt hus` — 高楼（ett-ord）\n- `hög bro` — 高桥 → see [[bro]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höjd (高度), höja (升高)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 描述建筑、桥梁等城市元素的高度时常用。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "hög",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "高的；高大的",
+      "en": "high, tall",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "bro",
+        "hus",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
       "slug": "höger",
       "type": "word",
       "title": "höger",
@@ -21570,9 +25829,51 @@ window.KB_DATA = {
       "backlinks": [
         "ga-hungrig",
         "sent-dar-fanns-ingen-mat-ga-hungrig",
+        "sent-det-låter-gott-men-jag-är",
         "source-2026-06-08-djur",
         "source-2026-06-09-zlatan-bio",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "hus",
+      "type": "word",
+      "title": "hus",
+      "path": "knowledge_base/words/hus.md",
+      "body": "# hus — substantiv (ett-ord)\n\n📖 中文：房子；楼房；建筑 · English: house, building\n发音提示：/hɵːs/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | ett hus | hus |\n| **Bestämd** | huset | husen |\n\n注意：ett-ord，zero-plural（plural obestämd 与 singular 同形）。\n\n## 词组搭配 (Collocations)\n\n- `högt hus` — 高楼 → see [[hög]]\n- `tomt hus` — 空房子 → see [[tom]]\n- `gammalt hus` — 老房子 → see [[gammal]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: husägare (房主), hyreshus (公寓楼), radhus (联排别墅)\n- 同义词: [[byggnad]]\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- `hus` 侧重居住用途；`byggnad` 更泛指任何建筑物（含商业/公共建筑）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "hus — substantiv (ett ord) 📖 中文：房子；楼房；建筑 · English: house, building 发音提示：/hɵːs/ 语法变形 (Forms) Singular Plural Obestämd ett hus hus Bestämd huset husen 注意：ett ord，zero plural（plural obestämd 与 singular 同形）。 词组搭配 (Collocat",
+      "forms": [
+        "hus",
+        "huset",
+        "husen"
+      ],
+      "links": [
+        "byggnad",
+        "gammal",
+        "grammar-substantiv-plural",
+        "hög",
+        "source-2026-06-15-stad-trafik",
+        "tom",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "hus hus knowledge_base/words/hus.md ---\ntype: word\nlemma: \"hus\"\nordklass: substantiv\ngenus: ett\ncefr: A1\nzh: 房子；楼房；建筑\nen: house, building\nsynonyms: []\nantonyms: []\nfamily: [\"husägare\", \"hyreshus\", \"radhus\"]\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hus — substantiv (ett-ord)\n\n📖 中文：房子；楼房；建筑 · English: house, building\n发音提示：/hɵːs/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | ett hus | hus |\n| **Bestämd** | huset | husen |\n\n注意：ett-ord，zero-plural（plural obestämd 与 singular 同形）。\n\n## 词组搭配 (Collocations)\n\n- `högt hus` — 高楼 → see [[hög]]\n- `tomt hus` — 空房子 → see [[tom]]\n- `gammalt hus` — 老房子 → see [[gammal]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: husägare (房主), hyreshus (公寓楼), radhus (联排别墅)\n- 同义词: [[byggnad]]\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- `hus` 侧重居住用途；`byggnad` 更泛指任何建筑物（含商业/公共建筑）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "hus",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "房子；楼房；建筑",
+      "en": "house, building",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "byggnad",
+        "hög",
+        "source-2026-06-15-stad-trafik",
+        "tom",
+        "topic-stadsmiljo"
       ]
     },
     {
@@ -21973,6 +26274,7 @@ window.KB_DATA = {
       "backlinks": [
         "apelsin",
         "äpple",
+        "öl",
         "saftig",
         "tomat",
         "topic-mat-dryck"
@@ -22053,6 +26355,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "konditori",
+        "populär",
         "sent-lite-langre-fram-i-hornet-storgatan-parkgatan-kafé",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
         "sent-utanfor-kafeet-star-tre-bankar-sitter-par-manniskor",
@@ -22130,8 +26433,12 @@ window.KB_DATA = {
         "topic-karaktarsord"
       ],
       "backlinks": [
+        "fisksoppa",
         "het",
-        "varm"
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "varm",
+        "värma"
       ]
     },
     {
@@ -22954,6 +27261,7 @@ window.KB_DATA = {
         "topic-personer"
       ],
       "backlinks": [
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
         "source-2026-06-02-valj-ratt-form",
         "topic-personer",
         "vän"
@@ -23161,6 +27469,7 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "gata",
         "kors",
         "sent-vid-korsningen-blinkar-trafikljuset-rott-bilar-cyklister",
         "source-2026-06-09-beskriva-en-gata",
@@ -23205,8 +27514,12 @@ window.KB_DATA = {
       "backlinks": [
         "lång",
         "månadskort",
+        "sent-det-var-jättegott-kan-jag-betala",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
+        "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
+        "sent-vill-ni-betala-med-kort-eller-swish",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "source-2026-06-15-restaurang-allergi-nota",
         "topic-betalning",
         "topic-vardagsrutin"
       ]
@@ -23248,6 +27561,86 @@ window.KB_DATA = {
         "bröd",
         "topic-mat-dryck",
         "varm"
+      ]
+    },
+    {
+      "slug": "kött",
+      "type": "word",
+      "title": "kött",
+      "path": "knowledge_base/words/kött.md",
+      "body": "# kött — substantiv (ett)\n\n📖 中文：肉 · English: meat\n发音提示：chött (ch = Swedish tj-sound)\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | kött (oräknebart) |\n| bestämd singular | köttet |\n| plural | — (oräknebart) |\n\n## 词组搭配 (Collocations)\n\n- `rätt med kött` — 肉食菜肴\n- `nötkött` — 牛肉\n- `fläskkött` — 猪肉\n- `kyckling` — 鸡肉（se [[kyckling]]）\n\n## 例句 (Sentences)\n\n- see [[sent-det-låter-gott-men-jag-är]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: nötkött (牛肉), fläskkött (猪肉), köttbullar (肉丸)\n- 相关词: [[köttbulle]], [[fläskfilé]], [[kyckling]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *kött* 是通称（肉），具体类型用合成词: nötkött, fläskkött, lammkött…\n- 与 [[vegetarisk]] 相对。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "kött — substantiv (ett) 📖 中文：肉 · English: meat 发音提示：chött (ch = Swedish tj sound) 语法变形 (Forms) form Swedish obestämd singular kött (oräknebart) bestämd singular köttet plural — (oräknebart) 词组搭配 (Collocations) rätt med ",
+      "forms": [
+        "kött",
+        "köttet"
+      ],
+      "links": [
+        "fläskfilé",
+        "köttbulle",
+        "kyckling",
+        "sent-det-låter-gott-men-jag-är",
+        "source-2026-06-15-restaurang-rekommendation",
+        "topic-mat-dryck",
+        "vegetarisk"
+      ],
+      "searchText": "kött kött knowledge_base/words/kött.md ---\ntype: word\nlemma: \"kött\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: ett\ncefr: \"A1\"\nzh: \"肉\"\nen: \"meat\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-det-låter-gott-men-jag-är\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kött — substantiv (ett)\n\n📖 中文：肉 · English: meat\n发音提示：chött (ch = Swedish tj-sound)\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | kött (oräknebart) |\n| bestämd singular | köttet |\n| plural | — (oräknebart) |\n\n## 词组搭配 (Collocations)\n\n- `rätt med kött` — 肉食菜肴\n- `nötkött` — 牛肉\n- `fläskkött` — 猪肉\n- `kyckling` — 鸡肉（se [[kyckling]]）\n\n## 例句 (Sentences)\n\n- see [[sent-det-låter-gott-men-jag-är]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: nötkött (牛肉), fläskkött (猪肉), köttbullar (肉丸)\n- 相关词: [[köttbulle]], [[fläskfilé]], [[kyckling]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *kött* 是通称（肉），具体类型用合成词: nötkött, fläskkött, lammkött…\n- 与 [[vegetarisk]] 相对。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "lemma": "kött",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "肉",
+      "en": "meat",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-det-låter-gott-men-jag-är"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "fläskfilé",
+        "sent-det-låter-gott-men-jag-är",
+        "topic-mat-dryck",
+        "vegetarisk"
+      ]
+    },
+    {
+      "slug": "köttbulle",
+      "type": "word",
+      "title": "köttbulle",
+      "path": "knowledge_base/words/köttbulle.md",
+      "body": "# köttbulle — substantiv (en)\n\n📖 中文：肉丸 · English: meatball\n发音提示：[\"SHÖT-bull-eh\"] — 复合词，kött 发音类似 \"shöt\"\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en köttbulle | köttbullen |\n| plural | köttbullar | köttbullarna |\n\n注: 复合词 kött (肉) + bulle (圆球/面包)；典型的瑞典传统菜肴\n\n## 词组搭配 (Collocations)\n\n- `köttbullar med potatismos` — 肉丸配土豆泥（经典组合）\n- `svenska köttbullar` — 瑞典肉丸\n- `IKEA-köttbullar` — 宜家肉丸\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag tar köttbullar med potatismos. — 🇨🇳 我要肉丸配土豆泥。\n- 🇸🇪 Köttbullarna är en klassisk svensk rätt. — 🇨🇳 肉丸是经典的瑞典菜。\n- 🇸🇪 Vill du ha köttbullar eller kyckling? — 🇨🇳 你要肉丸还是鸡肉？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bulle]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典最具代表性的传统菜肴之一，通常配 *potatismos*（土豆泥）和 *lingonsylt*（越橘果酱）。\n- 注意复数形式 *köttbullar*（-ar 结尾，第2变格组）。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "köttbulle — substantiv (en) 📖 中文：肉丸 · English: meatball 发音提示：[\"SHÖT bull eh\"] — 复合词，kött 发音类似 \"shöt\" 语法变形 (Forms) form obestämd bestämd singular en köttbulle köttbullen plural köttbullar köttbullarna 注: 复合词 kött (肉) + b",
+      "forms": [
+        "köttbulle",
+        "köttbullen",
+        "köttbullar",
+        "köttbullarna"
+      ],
+      "links": [
+        "bulle",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ],
+      "searchText": "köttbulle köttbulle knowledge_base/words/köttbulle.md ---\ntype: word\nlemma: \"köttbulle\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"肉丸\"\nen: \"meatball\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-jag-tar-köttbullar-med-potatismos\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# köttbulle — substantiv (en)\n\n📖 中文：肉丸 · English: meatball\n发音提示：[\"SHÖT-bull-eh\"] — 复合词，kött 发音类似 \"shöt\"\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en köttbulle | köttbullen |\n| plural | köttbullar | köttbullarna |\n\n注: 复合词 kött (肉) + bulle (圆球/面包)；典型的瑞典传统菜肴\n\n## 词组搭配 (Collocations)\n\n- `köttbullar med potatismos` — 肉丸配土豆泥（经典组合）\n- `svenska köttbullar` — 瑞典肉丸\n- `IKEA-köttbullar` — 宜家肉丸\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag tar köttbullar med potatismos. — 🇨🇳 我要肉丸配土豆泥。\n- 🇸🇪 Köttbullarna är en klassisk svensk rätt. — 🇨🇳 肉丸是经典的瑞典菜。\n- 🇸🇪 Vill du ha köttbullar eller kyckling? — 🇨🇳 你要肉丸还是鸡肉？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bulle]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典最具代表性的传统菜肴之一，通常配 *potatismos*（土豆泥）和 *lingonsylt*（越橘果酱）。\n- 注意复数形式 *köttbullar*（-ar 结尾，第2变格组）。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "köttbulle",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "肉丸",
+      "en": "meatball",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-jag-tar-köttbullar-med-potatismos"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "kött",
+        "sent-jag-tar-köttbullar-med-potatismos",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -23604,6 +27997,7 @@ window.KB_DATA = {
         "topic-betalning"
       ],
       "backlinks": [
+        "nota",
         "sent-fika-tack-så-mycket-vill-ni-ha-kvitto",
         "topic-betalning"
       ]
@@ -23642,6 +28036,11 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "höna",
+        "kött",
+        "ris",
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+        "source-2026-06-15-restaurang-allergi-nota",
         "topic-mat-dryck"
       ]
     },
@@ -23804,6 +28203,48 @@ window.KB_DATA = {
         "sent-zlatan-mycket-bra-karriar-mal",
         "source-2026-06-09-zlatan-bio",
         "topic-fotboll"
+      ]
+    },
+    {
+      "slug": "laktos",
+      "type": "word",
+      "title": "laktos",
+      "path": "knowledge_base/words/laktos.md",
+      "body": "# laktos — substantiv (en)\n\n📖 中文：乳糖 · English: lactose\n发音提示：LAK-tos\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en laktos / laktos |\n| Sg bestämd | laktosen |\n| Pl | — （科学/技术术语，不可数）|\n\n## 词组搭配 (Collocations)\n\n- `tål inte laktos` — 不耐乳糖 → [[tåla]]\n- `laktosfri` — 无乳糖（复合词）→ [[grammar-sammansatt-ord]]\n- `laktosintolerans` — 乳糖不耐症\n- `laktosfri mjölk` — 无乳糖牛奶\n\n## 例句 (Sentences)\n\n- 🇸🇪 Min kompis tål inte laktos. — 🇨🇳 我朋友不耐乳糖。\n- 🇸🇪 Vi lagar rätten laktosfri åt dig. — 🇨🇳 我们为你做成无乳糖的版本。\n- 🇸🇪 Laktos finns naturligt i mjölk och grädde. — 🇨🇳 乳糖天然存在于牛奶和奶油中。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: laktosfri（无乳糖），laktosintolerans（乳糖不耐症）\n- 同义词: mjölksocker（乳糖，字面：奶糖）\n- 反义词: —\n- 主题: [[topic-mat-dryck]] · [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词 *laktosfri* 用 -fri 后缀 → [[grammar-sammansatt-ord]]\n- 搭配 *tåla*（耐受）：*tål inte laktos* = 乳糖不耐\n- 餐厅中说 *laktosfri* 比说 *utan mjölkprodukter* 更精确",
+      "excerpt": "laktos — substantiv (en) 📖 中文：乳糖 · English: lactose 发音提示：LAK tos 语法变形 (Forms) Form Swedish Sg obestämd en laktos / laktos Sg bestämd laktosen Pl — （科学/技术术语，不可数） 词组搭配 (Collocations) tål inte laktos — 不耐乳糖 → tåla laktosfr",
+      "forms": [
+        "laktos",
+        "laktosen"
+      ],
+      "links": [
+        "grammar-sammansatt-ord",
+        "tåla",
+        "topic-hälsa",
+        "topic-mat-dryck"
+      ],
+      "searchText": "laktos laktos knowledge_base/words/laktos.md ---\ntype: word\nlemma: \"laktos\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"乳糖\"\nen: \"lactose\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\n  - topic-hälsa\nsentences:\n  - sent-kan-ni-göra-den-utan-grädde-hon-tål-inte\n  - sent-inga-problem-vi-lagar-den-laktosfri\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# laktos — substantiv (en)\n\n📖 中文：乳糖 · English: lactose\n发音提示：LAK-tos\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en laktos / laktos |\n| Sg bestämd | laktosen |\n| Pl | — （科学/技术术语，不可数）|\n\n## 词组搭配 (Collocations)\n\n- `tål inte laktos` — 不耐乳糖 → [[tåla]]\n- `laktosfri` — 无乳糖（复合词）→ [[grammar-sammansatt-ord]]\n- `laktosintolerans` — 乳糖不耐症\n- `laktosfri mjölk` — 无乳糖牛奶\n\n## 例句 (Sentences)\n\n- 🇸🇪 Min kompis tål inte laktos. — 🇨🇳 我朋友不耐乳糖。\n- 🇸🇪 Vi lagar rätten laktosfri åt dig. — 🇨🇳 我们为你做成无乳糖的版本。\n- 🇸🇪 Laktos finns naturligt i mjölk och grädde. — 🇨🇳 乳糖天然存在于牛奶和奶油中。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: laktosfri（无乳糖），laktosintolerans（乳糖不耐症）\n- 同义词: mjölksocker（乳糖，字面：奶糖）\n- 反义词: —\n- 主题: [[topic-mat-dryck]] · [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词 *laktosfri* 用 -fri 后缀 → [[grammar-sammansatt-ord]]\n- 搭配 *tåla*（耐受）：*tål inte laktos* = 乳糖不耐\n- 餐厅中说 *laktosfri* 比说 *utan mjölkprodukter* 更精确\n",
+      "lemma": "laktos",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "乳糖",
+      "en": "lactose",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
+        "sent-inga-problem-vi-lagar-den-laktosfri"
+      ],
+      "topics": [
+        "topic-mat-dryck",
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "grädde",
+        "sent-inga-problem-vi-lagar-den-laktosfri",
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "tåla",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -24167,6 +28608,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "lastbil",
+      "type": "word",
+      "title": "lastbil",
+      "path": "knowledge_base/words/lastbil.md",
+      "body": "# lastbil — substantiv (en-ord)\n\n📖 中文：卡车；货车 · English: truck, lorry\n发音提示：/ˈlastˌbiːl/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en lastbil | lastbilar |\n| **Bestämd** | lastbilen | lastbilarna |\n\n## 词组搭配 (Collocations)\n\n- `tung lastbil` — 重型卡车 → see [[tung]]\n- `lastbilschaufför` — 卡车司机\n- `köra lastbil` — 开卡车\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bil]] (汽车), last (货物/负荷)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 合成词：last (货物) + bil (汽车)。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "lastbil — substantiv (en ord) 📖 中文：卡车；货车 · English: truck, lorry 发音提示：/ˈlastˌbiːl/ 语法变形 (Forms) Singular Plural Obestämd en lastbil lastbilar Bestämd lastbilen lastbilarna 词组搭配 (Collocations) tung lastbil — 重型卡车 → see t",
+      "forms": [
+        "lastbil",
+        "lastbilar",
+        "lastbilen",
+        "lastbilarna"
+      ],
+      "links": [
+        "bil",
+        "grammar-substantiv-plural",
+        "source-2026-06-15-stad-trafik",
+        "topic-trafik",
+        "tung"
+      ],
+      "searchText": "lastbil lastbil knowledge_base/words/lastbil.md ---\ntype: word\nlemma: \"lastbil\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 卡车；货车\nen: truck, lorry\nsynonyms: []\nantonyms: []\nfamily: [\"bil\", \"last\"]\ntopics: [\"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lastbil — substantiv (en-ord)\n\n📖 中文：卡车；货车 · English: truck, lorry\n发音提示：/ˈlastˌbiːl/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en lastbil | lastbilar |\n| **Bestämd** | lastbilen | lastbilarna |\n\n## 词组搭配 (Collocations)\n\n- `tung lastbil` — 重型卡车 → see [[tung]]\n- `lastbilschaufför` — 卡车司机\n- `köra lastbil` — 开卡车\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bil]] (汽车), last (货物/负荷)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 合成词：last (货物) + bil (汽车)。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "lastbil",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "卡车；货车",
+      "en": "truck, lorry",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "bil",
+        "source-2026-06-15-stad-trafik",
+        "topic-trafik",
+        "tung"
+      ]
+    },
+    {
       "slug": "latte",
       "type": "word",
       "title": "latte",
@@ -24207,6 +28687,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "lax",
+      "type": "word",
+      "title": "lax",
+      "path": "knowledge_base/words/lax.md",
+      "body": "# lax — substantiv (en)\n\n📖 中文：三文鱼 · English: salmon\n发音提示：[\"laks\"] — 短元音 a\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en lax | laxen |\n| plural | laxar | laxarna |\n\n## 词组搭配 (Collocations)\n\n- `grillad lax` — 烤三文鱼\n- `rökt lax` — 熏三文鱼\n- `laxfilé` — 三文鱼排\n\n## 例句 (Sentences)\n\n- 🇸🇪 Min fru vill ha den grillade laxen. — 🇨🇳 我太太想要那份烤三文鱼。\n- 🇸🇪 Rökt lax är mycket populärt i Sverige. — 🇨🇳 熏三文鱼在瑞典非常受欢迎。\n- 🇸🇪 Lax är rik på omega-3. — 🇨🇳 三文鱼富含欧米伽-3。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 三文鱼是瑞典最常见的鱼类食材之一，常见做法：*grillad*（烤）、*rökt*（熏）、*inlagd*（腌制）。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "lax — substantiv (en) 📖 中文：三文鱼 · English: salmon 发音提示：[\"laks\"] — 短元音 a 语法变形 (Forms) form obestämd bestämd singular en lax laxen plural laxar laxarna 词组搭配 (Collocations) grillad lax — 烤三文鱼 rökt lax — 熏三文鱼 laxfilé — 三文鱼排 ",
+      "forms": [
+        "lax",
+        "laxen",
+        "laxar",
+        "laxarna"
+      ],
+      "links": [
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ],
+      "searchText": "lax lax knowledge_base/words/lax.md ---\ntype: word\nlemma: \"lax\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"三文鱼\"\nen: \"salmon\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-jag-tar-köttbullar-med-potatismos\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lax — substantiv (en)\n\n📖 中文：三文鱼 · English: salmon\n发音提示：[\"laks\"] — 短元音 a\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en lax | laxen |\n| plural | laxar | laxarna |\n\n## 词组搭配 (Collocations)\n\n- `grillad lax` — 烤三文鱼\n- `rökt lax` — 熏三文鱼\n- `laxfilé` — 三文鱼排\n\n## 例句 (Sentences)\n\n- 🇸🇪 Min fru vill ha den grillade laxen. — 🇨🇳 我太太想要那份烤三文鱼。\n- 🇸🇪 Rökt lax är mycket populärt i Sverige. — 🇨🇳 熏三文鱼在瑞典非常受欢迎。\n- 🇸🇪 Lax är rik på omega-3. — 🇨🇳 三文鱼富含欧米伽-3。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 三文鱼是瑞典最常见的鱼类食材之一，常见做法：*grillad*（烤）、*rökt*（熏）、*inlagd*（腌制）。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "lax",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "三文鱼",
+      "en": "salmon",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-jag-tar-köttbullar-med-potatismos"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-jag-tar-köttbullar-med-potatismos",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "ledig",
       "type": "word",
       "title": "ledig",
@@ -24230,7 +28747,9 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
-        "sent-fika-är-det-bordet-i-hörnet-ledigt"
+        "sent-absolut-vi-har-ett-ledigt-bord",
+        "sent-fika-är-det-bordet-i-hörnet-ledigt",
+        "sent-ja-jag-är-ensam-finns-det"
       ]
     },
     {
@@ -24331,7 +28850,8 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "bo",
-        "leva-kvar"
+        "leva-kvar",
+        "livlig"
       ]
     },
     {
@@ -24439,6 +28959,7 @@ window.KB_DATA = {
         "topic-riktningar"
       ],
       "backlinks": [
+        "gul",
         "sent-ta-tunnelbanan-till-slussen",
         "source-2026-06-03-fraga-vagen-pub",
         "topic-kollektivtrafik",
@@ -24492,6 +29013,50 @@ window.KB_DATA = {
         "stor",
         "topic-djur",
         "topic-personer"
+      ]
+    },
+    {
+      "slug": "livlig",
+      "type": "word",
+      "title": "livlig",
+      "path": "knowledge_base/words/livlig.md",
+      "body": "# livlig — adjektiv\n\n📖 中文：热闹的；活跃的；繁忙的 · English: lively, busy\n发音提示：/ˈliːvlɪɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | livlig | livligt | livliga |\n| **Komparativ** | livligare | livligare | livligare |\n| **Superlativ** | livligast / livligaste | livligast / livligaste | livligaste |\n\n## 词组搭配 (Collocations)\n\n- `livlig gata` — 热闹的街道 → see [[gata]]\n- `livlig trafik` — 繁忙的交通\n- `livligt torg` — 热闹的广场 → see [[torg]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[leva]], liv (生活/生命)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 常用于描述街道、广场等城市场景的氛围。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "livlig — adjektiv 📖 中文：热闹的；活跃的；繁忙的 · English: lively, busy 发音提示：/ˈliːvlɪɡ/ 语法变形 (Forms) en ord ett ord plural Positiv livlig livligt livliga Komparativ livligare livligare livligare Superlativ livligast / livligaste liv",
+      "forms": [
+        "livlig",
+        "livligt",
+        "livliga",
+        "livligare",
+        "livligast",
+        "livligaste"
+      ],
+      "links": [
+        "gata",
+        "grammar-adjektiv-bojning",
+        "leva",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "torg"
+      ],
+      "searchText": "livlig livlig knowledge_base/words/livlig.md ---\ntype: word\nlemma: \"livlig\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: 热闹的；活跃的；繁忙的\nen: lively, busy\nsynonyms: []\nantonyms: []\nfamily: [\"liv\", \"leva\"]\ntopics: [\"topic-stadsmiljo\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# livlig — adjektiv\n\n📖 中文：热闹的；活跃的；繁忙的 · English: lively, busy\n发音提示：/ˈliːvlɪɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | livlig | livligt | livliga |\n| **Komparativ** | livligare | livligare | livligare |\n| **Superlativ** | livligast / livligaste | livligast / livligaste | livligaste |\n\n## 词组搭配 (Collocations)\n\n- `livlig gata` — 热闹的街道 → see [[gata]]\n- `livlig trafik` — 繁忙的交通\n- `livligt torg` — 热闹的广场 → see [[torg]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[leva]], liv (生活/生命)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 常用于描述街道、广场等城市场景的氛围。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "livlig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "热闹的；活跃的；繁忙的",
+      "en": "lively, busy",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "gata",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik"
       ]
     },
     {
@@ -24598,6 +29163,7 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "grönsak",
         "topic-mat-dryck"
       ]
     },
@@ -24833,6 +29399,46 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-10-zlatan-subst-verb"
+      ]
+    },
+    {
+      "slug": "måltid",
+      "type": "word",
+      "title": "måltid",
+      "path": "knowledge_base/words/måltid.md",
+      "body": "# måltid — substantiv (en)\n\n📖 中文：一餐；餐食 · English: meal\n发音提示：[\"MOHL-teed\"] — 重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en måltid | måltiden |\n| plural | måltider | måltiderna |\n\n## 词组搭配 (Collocations)\n\n- `smaklig måltid` — 祝用餐愉快 → see [[smaklig-måltid]]\n- `äta en måltid` — 吃一顿饭\n- `tre måltider om dagen` — 一天三餐\n\n## 例句 (Sentences)\n\n- 🇸🇪 Smaklig måltid! — 🇨🇳 祝用餐愉快！\n- 🇸🇪 Vi äter tre måltider om dagen. — 🇨🇳 我们一天吃三顿饭。\n- 🇸🇪 Det var en riktigt god måltid. — 🇨🇳 这是一顿非常好吃的饭。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *Smaklig måltid!* 是瑞典人用餐开始时的祝语，相当于\"祝您用餐愉快\"。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "måltid — substantiv (en) 📖 中文：一餐；餐食 · English: meal 发音提示：[\"MOHL teed\"] — 重音在第一音节 语法变形 (Forms) form obestämd bestämd singular en måltid måltiden plural måltider måltiderna 词组搭配 (Collocations) smaklig måltid — 祝用餐愉快 → see",
+      "forms": [
+        "måltid",
+        "måltiden",
+        "måltider",
+        "måltiderna"
+      ],
+      "links": [
+        "smaklig-måltid",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ],
+      "searchText": "måltid måltid knowledge_base/words/måltid.md ---\ntype: word\nlemma: \"måltid\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"一餐；餐食\"\nen: \"meal\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-absolut-smaklig-måltid\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# måltid — substantiv (en)\n\n📖 中文：一餐；餐食 · English: meal\n发音提示：[\"MOHL-teed\"] — 重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en måltid | måltiden |\n| plural | måltider | måltiderna |\n\n## 词组搭配 (Collocations)\n\n- `smaklig måltid` — 祝用餐愉快 → see [[smaklig-måltid]]\n- `äta en måltid` — 吃一顿饭\n- `tre måltider om dagen` — 一天三餐\n\n## 例句 (Sentences)\n\n- 🇸🇪 Smaklig måltid! — 🇨🇳 祝用餐愉快！\n- 🇸🇪 Vi äter tre måltider om dagen. — 🇨🇳 我们一天吃三顿饭。\n- 🇸🇪 Det var en riktigt god måltid. — 🇨🇳 这是一顿非常好吃的饭。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *Smaklig måltid!* 是瑞典人用餐开始时的祝语，相当于\"祝您用餐愉快\"。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "måltid",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "一餐；餐食",
+      "en": "meal",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-absolut-smaklig-måltid"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "äta",
+        "sent-absolut-smaklig-måltid",
+        "smaklig-måltid",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -25238,6 +29844,44 @@ window.KB_DATA = {
         "sent-pa-golvet-mellan-sangen-skriv-stor-matta",
         "source-2026-06-09-rumsliga-relationer",
         "topic-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "meny",
+      "type": "word",
+      "title": "meny",
+      "path": "knowledge_base/words/meny.md",
+      "body": "# meny — substantiv (en)\n\n📖 中文：菜单 · English: menu\n发音提示：[\"meh-ny\"] — 重音在最后一音节\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en meny | menyn |\n| plural | menyer | menyerna |\n\n词组: 注意 bestämd singular 是 *menyn*（-n 结尾词加 -n）\n\n## 词组搭配 (Collocations)\n\n- `kan vi få menyn` — 可以给我们菜单吗\n- `titta på menyn` — 看菜单\n- `dagens meny` — 当日菜单\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan vi få menyn, tack? — 🇨🇳 可以给我们菜单吗，谢谢？\n- 🇸🇪 Menyn är på svenska och engelska. — 🇨🇳 菜单是瑞典语和英语的。\n- 🇸🇪 Vad finns det på dagens meny? — 🇨🇳 今天的每日特餐有什么？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *menyn* 是在餐厅点餐时的核心词汇。\n- 注意复数 *menyer*（属于第3变格组）。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "meny — substantiv (en) 📖 中文：菜单 · English: menu 发音提示：[\"meh ny\"] — 重音在最后一音节 语法变形 (Forms) form obestämd bestämd singular en meny menyn plural menyer menyerna 词组: 注意 bestämd singular 是 menyn （ n 结尾词加 n） 词组搭配 (Collocations) ",
+      "forms": [
+        "meny",
+        "menyn",
+        "menyer",
+        "menyerna"
+      ],
+      "links": [
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ],
+      "searchText": "meny meny knowledge_base/words/meny.md ---\ntype: word\nlemma: \"meny\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"菜单\"\nen: \"menu\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-kan-vi-få-menyn-tack\n  - sent-självklart-varsågod-vill-ni-beställa\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# meny — substantiv (en)\n\n📖 中文：菜单 · English: menu\n发音提示：[\"meh-ny\"] — 重音在最后一音节\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en meny | menyn |\n| plural | menyer | menyerna |\n\n词组: 注意 bestämd singular 是 *menyn*（-n 结尾词加 -n）\n\n## 词组搭配 (Collocations)\n\n- `kan vi få menyn` — 可以给我们菜单吗\n- `titta på menyn` — 看菜单\n- `dagens meny` — 当日菜单\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan vi få menyn, tack? — 🇨🇳 可以给我们菜单吗，谢谢？\n- 🇸🇪 Menyn är på svenska och engelska. — 🇨🇳 菜单是瑞典语和英语的。\n- 🇸🇪 Vad finns det på dagens meny? — 🇨🇳 今天的每日特餐有什么？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *menyn* 是在餐厅点餐时的核心词汇。\n- 注意复数 *menyer*（属于第3变格组）。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "meny",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "菜单",
+      "en": "menu",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-kan-vi-få-menyn-tack",
+        "sent-självklart-varsågod-vill-ni-beställa"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-kan-vi-få-menyn-tack",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -25760,6 +30404,7 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "grönsak",
         "rå",
         "topic-mat-dryck"
       ]
@@ -25939,7 +30584,8 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "ingen",
-        "några"
+        "några",
+        "sent-utmärkt-val-vill-ni-ha-förrätt"
       ]
     },
     {
@@ -25965,7 +30611,8 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
-        "någon"
+        "någon",
+        "sent-har-ni-bestämt-er-eller-behöver-ni"
       ]
     },
     {
@@ -26123,6 +30770,90 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "nöt",
+      "type": "word",
+      "title": "nöt",
+      "path": "knowledge_base/words/nöt.md",
+      "body": "# nöt — substantiv (en)\n\n📖 中文：坚果 · English: nut\n发音提示：/nøːt/（与 nöten /nøːtən/）\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en nöt |\n| Sg bestämd | nöten |\n| Pl obestämd | nötter |\n| Pl bestämd | nötterna |\n\n## 词组搭配 (Collocations)\n\n- `allergisk mot nötter` — 对坚果过敏 → [[allergisk]]\n- `nötfri` — 不含坚果的（复合词）→ [[grammar-sammansatt-ord]]\n- `jordnöt` — 花生（字面：地坚果）\n- `valnöt` — 核桃\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är allergisk mot nötter. — 🇨🇳 我对坚果过敏。\n- 🇸🇪 Den här rätten är nötfri. — 🇨🇳 这道菜不含坚果。\n- 🇸🇪 Jordnötter är egentligen baljväxter, inte nötter. — 🇨🇳 花生其实是豆类，不是坚果。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: nötfri（无坚果的），jordnöt（花生），valnöt（核桃）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词 *nötfri* 用 -fri 后缀表示\"不含…\" → [[grammar-sammansatt-ord]]\n- 过敏场景中最常用复数形式 *nötter*",
+      "excerpt": "nöt — substantiv (en) 📖 中文：坚果 · English: nut 发音提示：/nøːt/（与 nöten /nøːtən/） 语法变形 (Forms) Form Swedish Sg obestämd en nöt Sg bestämd nöten Pl obestämd nötter Pl bestämd nötterna 词组搭配 (Collocations) allergisk mot nötter — ",
+      "forms": [
+        "nöt",
+        "nöten",
+        "nötter",
+        "nötterna"
+      ],
+      "links": [
+        "allergisk",
+        "grammar-sammansatt-ord",
+        "topic-mat-dryck"
+      ],
+      "searchText": "nöt nöt knowledge_base/words/nöt.md ---\ntype: word\nlemma: \"nöt\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"坚果\"\nen: \"nut\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-jag-är-allergisk-mot-nötter-vad-kan-ni\n  - sent-vår-fisksoppa-är-nötfri-och-kycklingen\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# nöt — substantiv (en)\n\n📖 中文：坚果 · English: nut\n发音提示：/nøːt/（与 nöten /nøːtən/）\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en nöt |\n| Sg bestämd | nöten |\n| Pl obestämd | nötter |\n| Pl bestämd | nötterna |\n\n## 词组搭配 (Collocations)\n\n- `allergisk mot nötter` — 对坚果过敏 → [[allergisk]]\n- `nötfri` — 不含坚果的（复合词）→ [[grammar-sammansatt-ord]]\n- `jordnöt` — 花生（字面：地坚果）\n- `valnöt` — 核桃\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är allergisk mot nötter. — 🇨🇳 我对坚果过敏。\n- 🇸🇪 Den här rätten är nötfri. — 🇨🇳 这道菜不含坚果。\n- 🇸🇪 Jordnötter är egentligen baljväxter, inte nötter. — 🇨🇳 花生其实是豆类，不是坚果。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: nötfri（无坚果的），jordnöt（花生），valnöt（核桃）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词 *nötfri* 用 -fri 后缀表示\"不含…\" → [[grammar-sammansatt-ord]]\n- 过敏场景中最常用复数形式 *nötter*\n",
+      "lemma": "nöt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "坚果",
+      "en": "nut",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "allergisk",
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "nota",
+      "type": "word",
+      "title": "nota",
+      "path": "knowledge_base/words/nota.md",
+      "body": "# nota — substantiv (en)\n\n📖 中文：账单 · English: bill; check\n发音提示：[\"NOO-ta\"] — 重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en nota | notan |\n| plural | notor | notorna |\n\n## 词组搭配 (Collocations)\n\n- `kan vi få notan` — 可以买单吗 → see [[kan-vi-få-notan]]\n- `betala notan` — 付账\n- `dela på notan` — 各付各的\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan vi få notan, tack? — 🇨🇳 可以给我们账单吗，谢谢？\n- 🇸🇪 Vi delar på notan. — 🇨🇳 我们各付各的。\n- 🇸🇪 Notan var högre än vi förväntat oss. — 🇨🇳 账单比我们预期的要高。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词: [[kvitto]]（收据，更广义）\n- 反义词:\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 在餐厅语境中 *nota* 专指餐厅账单（bill/check），而 *kvitto* 泛指任何购物收据。\n- 注意 *notan* 是本场景中展示[[grammar-bestämd-form]]的例词。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "nota — substantiv (en) 📖 中文：账单 · English: bill; check 发音提示：[\"NOO ta\"] — 重音在第一音节 语法变形 (Forms) form obestämd bestämd singular en nota notan plural notor notorna 词组搭配 (Collocations) kan vi få notan — 可以买单吗 → see kan vi få ",
+      "forms": [
+        "nota",
+        "notan",
+        "notor",
+        "notorna"
+      ],
+      "links": [
+        "grammar-bestämd-form",
+        "kan-vi-få-notan",
+        "kvitto",
+        "source-2026-06-15-restaurang-middag",
+        "topic-betalning"
+      ],
+      "searchText": "nota nota knowledge_base/words/nota.md ---\ntype: word\nlemma: \"nota\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"账单\"\nen: \"bill; check\"\nsynonyms:\n  - kvitto\nantonyms: []\nfamily: []\ntopics:\n  - topic-betalning\nsentences:\n  - sent-nej-tack-det-räcker-bra-men-notan\n  - sent-absolut-smaklig-måltid\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# nota — substantiv (en)\n\n📖 中文：账单 · English: bill; check\n发音提示：[\"NOO-ta\"] — 重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | en nota | notan |\n| plural | notor | notorna |\n\n## 词组搭配 (Collocations)\n\n- `kan vi få notan` — 可以买单吗 → see [[kan-vi-få-notan]]\n- `betala notan` — 付账\n- `dela på notan` — 各付各的\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan vi få notan, tack? — 🇨🇳 可以给我们账单吗，谢谢？\n- 🇸🇪 Vi delar på notan. — 🇨🇳 我们各付各的。\n- 🇸🇪 Notan var högre än vi förväntat oss. — 🇨🇳 账单比我们预期的要高。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词: [[kvitto]]（收据，更广义）\n- 反义词:\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 在餐厅语境中 *nota* 专指餐厅账单（bill/check），而 *kvitto* 泛指任何购物收据。\n- 注意 *notan* 是本场景中展示[[grammar-bestämd-form]]的例词。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "nota",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "账单",
+      "en": "bill; check",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-nej-tack-det-räcker-bra-men-notan",
+        "sent-absolut-smaklig-måltid"
+      ],
+      "topics": [
+        "topic-betalning"
+      ],
+      "backlinks": [
+        "kan-vi-få-notan",
+        "sent-nej-tack-det-räcker-bra-men-notan",
+        "sent-skulle-vi-vilja-betala-dela-på-notan",
+        "source-2026-06-15-restaurang-middag",
+        "topic-betalning"
+      ]
+    },
+    {
       "slug": "ny",
       "type": "word",
       "title": "ny",
@@ -26149,7 +30880,10 @@ window.KB_DATA = {
       "known": false,
       "sentences": [],
       "topics": [],
-      "backlinks": []
+      "backlinks": [
+        "sent-jag-värmer-en-ny-åt-dig-direkt",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny"
+      ]
     },
     {
       "slug": "nyfiken",
@@ -26327,6 +31061,48 @@ window.KB_DATA = {
       "backlinks": [
         "känd",
         "topic-personer"
+      ]
+    },
+    {
+      "slug": "öl",
+      "type": "word",
+      "title": "öl",
+      "path": "knowledge_base/words/öl.md",
+      "body": "# öl — substantiv (en/ett)\n\n📖 中文：啤酒 · English: beer\n发音提示：öl (短元音，类似 \"url\")\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en/ett öl |\n| bestämd singular | ölen / ölet |\n| obestämd plural | öl / ölar (oräknebart i allmänhet) |\n\n## 词组搭配 (Collocations)\n\n- `ett glas öl` — 一杯啤酒\n- `en flaska öl` — 一瓶啤酒\n- `lättöl` — 低度啤酒\n\n## 例句 (Sentences)\n\n- see [[sent-då-tar-jag-fläskfilén-tack]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关词: [[rödvin]], [[juice]], [[dricka]], [[glas]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *öl* 既可以是 en-ord (ölen) 又可以是 ett-ord (ölet)，取决于方言和上下文，现代标准语中 en-ord 更常见。\n- *ett glas öl* 是点啤酒时的标准表达。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "öl — substantiv (en/ett) 📖 中文：啤酒 · English: beer 发音提示：öl (短元音，类似 \"url\") 语法变形 (Forms) form Swedish obestämd singular en/ett öl bestämd singular ölen / ölet obestämd plural öl / ölar (oräknebart i allmänhet) 词组搭配 (Colloca",
+      "forms": [
+        "en",
+        "öl",
+        "ölen",
+        "ölet",
+        "ölar"
+      ],
+      "links": [
+        "dricka",
+        "glas",
+        "juice",
+        "rödvin",
+        "sent-då-tar-jag-fläskfilén-tack",
+        "source-2026-06-15-restaurang-rekommendation",
+        "topic-mat-dryck"
+      ],
+      "searchText": "öl öl knowledge_base/words/öl.md ---\ntype: word\nlemma: \"öl\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"A1\"\nzh: \"啤酒\"\nen: \"beer\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-då-tar-jag-fläskfilén-tack\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# öl — substantiv (en/ett)\n\n📖 中文：啤酒 · English: beer\n发音提示：öl (短元音，类似 \"url\")\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en/ett öl |\n| bestämd singular | ölen / ölet |\n| obestämd plural | öl / ölar (oräknebart i allmänhet) |\n\n## 词组搭配 (Collocations)\n\n- `ett glas öl` — 一杯啤酒\n- `en flaska öl` — 一瓶啤酒\n- `lättöl` — 低度啤酒\n\n## 例句 (Sentences)\n\n- see [[sent-då-tar-jag-fläskfilén-tack]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关词: [[rödvin]], [[juice]], [[dricka]], [[glas]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *öl* 既可以是 en-ord (ölen) 又可以是 ett-ord (ölet)，取决于方言和上下文，现代标准语中 en-ord 更常见。\n- *ett glas öl* 是点啤酒时的标准表达。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "lemma": "öl",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "啤酒",
+      "en": "beer",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-då-tar-jag-fläskfilén-tack"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-då-tar-jag-fläskfilén-tack",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -26824,6 +31600,7 @@ window.KB_DATA = {
         "topic-kafe-fika"
       ],
       "backlinks": [
+        "äppelpaj",
         "sent-fika-vill-ni-ha-något-annat",
         "topic-kafe-fika"
       ]
@@ -26938,11 +31715,56 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "grön",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
         "sent-mitt-emot-parken-pa-andra-sidan-gatan-livsmedelsbutik",
         "sent-till-hoger-om-mig-ligger-en-park",
         "source-2026-06-09-beskriva-en-gata",
         "topic-stadsmiljo"
+      ]
+    },
+    {
+      "slug": "parkering",
+      "type": "word",
+      "title": "parkering",
+      "path": "knowledge_base/words/parkering.md",
+      "body": "# parkering — substantiv (en-ord)\n\n📖 中文：停车场；停车 · English: parking, car park\n发音提示：/paˈkeːrɪŋ/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en parkering | parkeringar |\n| **Bestämd** | parkeringen | parkeringarna |\n\n## 词组搭配 (Collocations)\n\n- `tom parkering` — 空停车场 → see [[tom]]\n- `trång parkering` — 拥挤的停车场 → see [[trång]]\n- `gratis parkering` — 免费停车\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: parkera (停车动词), parkeringsplats (停车位), parkeringshus (立体停车楼)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `parkering` 既可指停车行为，也可指停车场所。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "parkering — substantiv (en ord) 📖 中文：停车场；停车 · English: parking, car park 发音提示：/paˈkeːrɪŋ/ 语法变形 (Forms) Singular Plural Obestämd en parkering parkeringar Bestämd parkeringen parkeringarna 词组搭配 (Collocations) tom parkerin",
+      "forms": [
+        "parkering",
+        "parkeringar",
+        "parkeringen",
+        "parkeringarna"
+      ],
+      "links": [
+        "grammar-substantiv-plural",
+        "source-2026-06-15-stad-trafik",
+        "tom",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "trång"
+      ],
+      "searchText": "parkering parkering knowledge_base/words/parkering.md ---\ntype: word\nlemma: \"parkering\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 停车场；停车\nen: parking, car park\nsynonyms: []\nantonyms: []\nfamily: [\"parkera\", \"parkeringsplats\", \"parkeringshus\"]\ntopics: [\"topic-stadsmiljo\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# parkering — substantiv (en-ord)\n\n📖 中文：停车场；停车 · English: parking, car park\n发音提示：/paˈkeːrɪŋ/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en parkering | parkeringar |\n| **Bestämd** | parkeringen | parkeringarna |\n\n## 词组搭配 (Collocations)\n\n- `tom parkering` — 空停车场 → see [[tom]]\n- `trång parkering` — 拥挤的停车场 → see [[trång]]\n- `gratis parkering` — 免费停车\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: parkera (停车动词), parkeringsplats (停车位), parkeringshus (立体停车楼)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `parkering` 既可指停车行为，也可指停车场所。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "parkering",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "停车场；停车",
+      "en": "parking, car park",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "bil",
+        "park",
+        "source-2026-06-15-stad-trafik",
+        "tom",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "trång"
       ]
     },
     {
@@ -27019,6 +31841,44 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "pasta",
+      "type": "word",
+      "title": "pasta",
+      "path": "knowledge_base/words/pasta.md",
+      "body": "# pasta — substantiv (en)\n\n📖 中文：意面 · English: pasta\n发音提示：PAS-ta\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en pasta |\n| bestämd singular | pastan |\n| obestämd plural | — (oftast oräknebart) |\n\n## 词组搭配 (Collocations)\n\n- `vegetarisk pasta` — 素食意面\n- `pasta med svamp` — 蘑菇意面\n- `koka pasta` — 煮意面\n\n## 例句 (Sentences)\n\n- see [[sent-dagens-rätt-är-en-vegetarisk-pasta]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关词: [[svamp]], [[grönsak]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 意大利语借词，在瑞典指意大利面及各种面食。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "pasta — substantiv (en) 📖 中文：意面 · English: pasta 发音提示：PAS ta 语法变形 (Forms) form Swedish obestämd singular en pasta bestämd singular pastan obestämd plural — (oftast oräknebart) 词组搭配 (Collocations) vegetarisk pasta — 素食意面",
+      "forms": [
+        "pasta",
+        "pastan"
+      ],
+      "links": [
+        "grönsak",
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "source-2026-06-15-restaurang-rekommendation",
+        "svamp",
+        "topic-mat-dryck"
+      ],
+      "searchText": "pasta pasta knowledge_base/words/pasta.md ---\ntype: word\nlemma: \"pasta\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"A1\"\nzh: \"意面\"\nen: \"pasta\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-dagens-rätt-är-en-vegetarisk-pasta\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# pasta — substantiv (en)\n\n📖 中文：意面 · English: pasta\n发音提示：PAS-ta\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en pasta |\n| bestämd singular | pastan |\n| obestämd plural | — (oftast oräknebart) |\n\n## 词组搭配 (Collocations)\n\n- `vegetarisk pasta` — 素食意面\n- `pasta med svamp` — 蘑菇意面\n- `koka pasta` — 煮意面\n\n## 例句 (Sentences)\n\n- see [[sent-dagens-rätt-är-en-vegetarisk-pasta]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关词: [[svamp]], [[grönsak]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 意大利语借词，在瑞典指意大利面及各种面食。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "lemma": "pasta",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "意面",
+      "en": "pasta",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-dagens-rätt-är-en-vegetarisk-pasta"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "svamp",
         "topic-mat-dryck"
       ]
     },
@@ -27324,6 +32184,7 @@ window.KB_DATA = {
         "topic-fotboll"
       ],
       "backlinks": [
+        "central",
         "source-2026-06-09-zlatan-bio",
         "ta-en-plats",
         "topic-fotboll"
@@ -27455,6 +32316,48 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "populär",
+      "type": "word",
+      "title": "populär",
+      "path": "knowledge_base/words/populär.md",
+      "body": "# populär — adjektiv\n\n📖 中文：受欢迎的；流行的 · English: popular\n发音提示：/popʊˈlæːr/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | populär | populärt | populära |\n| **Komparativ** | populärare | populärare | populärare |\n| **Superlativ** | populärast / populäraste | populärast / populäraste | populäraste |\n\n## 词组搭配 (Collocations)\n\n- `populär stad` — 受欢迎的城市 → see [[stad]]\n- `populär restaurang` — 受欢迎的餐厅 → see [[restaurang]]\n- `populärt café` — 受欢迎的咖啡馆 → see [[kafé]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: popularitet (受欢迎程度)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "populär — adjektiv 📖 中文：受欢迎的；流行的 · English: popular 发音提示：/popʊˈlæːr/ 语法变形 (Forms) en ord ett ord plural Positiv populär populärt populära Komparativ populärare populärare populärare Superlativ populärast / populäraste p",
+      "forms": [
+        "populär",
+        "populärt",
+        "populära",
+        "populärare",
+        "populärast",
+        "populäraste"
+      ],
+      "links": [
+        "grammar-adjektiv-bojning",
+        "kafé",
+        "restaurang",
+        "source-2026-06-15-stad-trafik",
+        "stad",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "populär populär knowledge_base/words/populär.md ---\ntype: word\nlemma: \"populär\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: 受欢迎的；流行的\nen: popular\nsynonyms: []\nantonyms: []\nfamily: [\"popularitet\"]\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# populär — adjektiv\n\n📖 中文：受欢迎的；流行的 · English: popular\n发音提示：/popʊˈlæːr/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | populär | populärt | populära |\n| **Komparativ** | populärare | populärare | populärare |\n| **Superlativ** | populärast / populäraste | populärast / populäraste | populäraste |\n\n## 词组搭配 (Collocations)\n\n- `populär stad` — 受欢迎的城市 → see [[stad]]\n- `populär restaurang` — 受欢迎的餐厅 → see [[restaurang]]\n- `populärt café` — 受欢迎的咖啡馆 → see [[kafé]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: popularitet (受欢迎程度)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "populär",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "受欢迎的；流行的",
+      "en": "popular",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "source-2026-06-15-stad-trafik",
+        "stad",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
       "slug": "potatis",
       "type": "word",
       "title": "potatis",
@@ -27487,7 +32390,44 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "potatismos",
         "soppa",
+        "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "potatismos",
+      "type": "word",
+      "title": "potatismos",
+      "path": "knowledge_base/words/potatismos.md",
+      "body": "# potatismos — substantiv (ett)\n\n📖 中文：土豆泥 · English: mashed potatoes\n发音提示：[\"poh-TAH-tis-moos\"] — 重音在第二音节\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | ett potatismos | potatismoset |\n| plural | — | — |\n\n注: 通常以单数形式使用（不可数名词语义）\n\n## 词组搭配 (Collocations)\n\n- `köttbullar med potatismos` — 肉丸配土豆泥\n- `servera potatismos` — 上土豆泥\n- `ett mönster av potatismos` — 一份土豆泥\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag tar köttbullar med potatismos. — 🇨🇳 我要肉丸配土豆泥。\n- 🇸🇪 Potatismoset var krämigt och gott. — 🇨🇳 土豆泥奶香浓郁，非常好吃。\n- 🇸🇪 Vi äter ofta potatismos till middag. — 🇨🇳 我们晚饭经常吃土豆泥。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[potatis]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词: *potatis*（土豆）+ *mos*（泥/糊），是瑞典传统菜肴的固定配菜。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "potatismos — substantiv (ett) 📖 中文：土豆泥 · English: mashed potatoes 发音提示：[\"poh TAH tis moos\"] — 重音在第二音节 语法变形 (Forms) form obestämd bestämd singular ett potatismos potatismoset plural — — 注: 通常以单数形式使用（不可数名词语义） 词组搭配 (Colloc",
+      "forms": [
+        "potatismos",
+        "potatismoset"
+      ],
+      "links": [
+        "potatis",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ],
+      "searchText": "potatismos potatismos knowledge_base/words/potatismos.md ---\ntype: word\nlemma: \"potatismos\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"土豆泥\"\nen: \"mashed potatoes\"\nsynonyms: []\nantonyms: []\nfamily:\n  - potatis\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-jag-tar-köttbullar-med-potatismos\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# potatismos — substantiv (ett)\n\n📖 中文：土豆泥 · English: mashed potatoes\n发音提示：[\"poh-TAH-tis-moos\"] — 重音在第二音节\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | ett potatismos | potatismoset |\n| plural | — | — |\n\n注: 通常以单数形式使用（不可数名词语义）\n\n## 词组搭配 (Collocations)\n\n- `köttbullar med potatismos` — 肉丸配土豆泥\n- `servera potatismos` — 上土豆泥\n- `ett mönster av potatismos` — 一份土豆泥\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag tar köttbullar med potatismos. — 🇨🇳 我要肉丸配土豆泥。\n- 🇸🇪 Potatismoset var krämigt och gott. — 🇨🇳 土豆泥奶香浓郁，非常好吃。\n- 🇸🇪 Vi äter ofta potatismos till middag. — 🇨🇳 我们晚饭经常吃土豆泥。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[potatis]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词: *potatis*（土豆）+ *mos*（泥/糊），是瑞典传统菜肴的固定配菜。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "potatismos",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "土豆泥",
+      "en": "mashed potatoes",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-jag-tar-köttbullar-med-potatismos"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-jag-tar-köttbullar-med-potatismos",
+        "source-2026-06-15-restaurang-middag",
         "topic-mat-dryck"
       ]
     },
@@ -27894,6 +32834,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "rekommendera",
+      "type": "word",
+      "title": "rekommendera",
+      "path": "knowledge_base/words/rekommendera.md",
+      "body": "# rekommendera — verb (grupp 1)\n\n📖 中文：推荐 · English: to recommend\n发音提示：re-kom-men-DE-ra（重音在第四音节）\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | rekommendera |\n| Presens | rekommenderar |\n| Preteritum | rekommenderade |\n| Supinum | rekommenderat |\n| Imperativ | rekommendera! |\n\n## 词组搭配 (Collocations)\n\n- `Vad kan ni rekommendera?` — 你们有什么推荐？ → [[vad-kan-ni-rekommendera]]\n- `rekommendera en rätt` — 推荐一道菜\n- `kan du rekommendera något?` — 你能推荐什么吗？\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan ni rekommendera en bra restaurang? — 🇨🇳 你们能推荐一家好餐厅吗？\n- 🇸🇪 Jag rekommenderar fisksoppan — den är god. — 🇨🇳 我推荐鱼汤——很好喝。\n- 🇸🇪 Vad rekommenderar du att göra i Stockholm? — 🇨🇳 你推荐在斯德哥尔摩做什么？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: rekommendation（en，推荐/建议）\n- 同义词: föreslå（提议，建议）\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 常见于服务场景：餐厅、酒店、旅游等\n- 后接名词（直接宾语）或 att-infinitiv：*rekommendera att göra ngt*",
+      "excerpt": "rekommendera — verb (grupp 1) 📖 中文：推荐 · English: to recommend 发音提示：re kom men DE ra（重音在第四音节） 语法变形 (Forms) Form Swedish Infinitiv rekommendera Presens rekommenderar Preteritum rekommenderade Supinum rekommenderat Imperat",
+      "forms": [
+        "rekommendera",
+        "rekommenderar",
+        "rekommenderade",
+        "rekommenderat",
+        "rekommendera!"
+      ],
+      "links": [
+        "topic-mat-dryck",
+        "vad-kan-ni-rekommendera"
+      ],
+      "searchText": "rekommendera rekommendera knowledge_base/words/rekommendera.md ---\ntype: word\nlemma: \"rekommendera\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"推荐\"\nen: \"to recommend\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-jag-är-allergisk-mot-nötter-vad-kan-ni\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rekommendera — verb (grupp 1)\n\n📖 中文：推荐 · English: to recommend\n发音提示：re-kom-men-DE-ra（重音在第四音节）\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | rekommendera |\n| Presens | rekommenderar |\n| Preteritum | rekommenderade |\n| Supinum | rekommenderat |\n| Imperativ | rekommendera! |\n\n## 词组搭配 (Collocations)\n\n- `Vad kan ni rekommendera?` — 你们有什么推荐？ → [[vad-kan-ni-rekommendera]]\n- `rekommendera en rätt` — 推荐一道菜\n- `kan du rekommendera något?` — 你能推荐什么吗？\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan ni rekommendera en bra restaurang? — 🇨🇳 你们能推荐一家好餐厅吗？\n- 🇸🇪 Jag rekommenderar fisksoppan — den är god. — 🇨🇳 我推荐鱼汤——很好喝。\n- 🇸🇪 Vad rekommenderar du att göra i Stockholm? — 🇨🇳 你推荐在斯德哥尔摩做什么？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: rekommendation（en，推荐/建议）\n- 同义词: föreslå（提议，建议）\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 常见于服务场景：餐厅、酒店、旅游等\n- 后接名词（直接宾语）或 att-infinitiv：*rekommendera att göra ngt*\n",
+      "lemma": "rekommendera",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "推荐",
+      "en": "to recommend",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
+        "sent-tack-så-mycket-vad-rekommenderar-ni",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck",
+        "vad-kan-ni-rekommendera"
+      ]
+    },
+    {
       "slug": "ren",
       "type": "word",
       "title": "ren",
@@ -27962,6 +32942,7 @@ window.KB_DATA = {
       ],
       "topics": [],
       "backlinks": [
+        "populär",
         "sent-vi-ar-pa-restaurang-kolkallan",
         "source-2026-06-03-fraga-vagen-pub"
       ]
@@ -28150,6 +33131,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "ris",
+      "type": "word",
+      "title": "ris",
+      "path": "knowledge_base/words/ris.md",
+      "body": "# ris — substantiv (ett)\n\n📖 中文：米饭 · English: rice\n发音提示：/riːs/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | ett ris / ris |\n| Sg bestämd | riset |\n| Pl obestämd | — （不可数，无常用复数）|\n| Pl bestämd | — |\n\n## 词组搭配 (Collocations)\n\n- `kyckling med ris` — 鸡肉配米饭 → [[kyckling]]\n- `kokt ris` — 煮熟的米饭\n- `ris och bönor` — 米饭和豆子\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag äter ris till middag. — 🇨🇳 我晚饭吃米饭。\n- 🇸🇪 Kycklingen serveras med ris och sallad. — 🇨🇳 鸡肉配米饭和沙拉。\n- 🇸🇪 Kokt ris tar ungefär tjugo minuter. — 🇨🇳 煮米饭大约需要二十分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: risgrynsgröt（米粥）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 不可数名词，一般不用复数\n- 注意 *ris* 也可以意思为\"树枝/嫩枝\"（复数形式相同），但在饮食语境中总是指米饭",
+      "excerpt": "ris — substantiv (ett) 📖 中文：米饭 · English: rice 发音提示：/riːs/ 语法变形 (Forms) Form Swedish Sg obestämd ett ris / ris Sg bestämd riset Pl obestämd — （不可数，无常用复数） Pl bestämd — 词组搭配 (Collocations) kyckling med ris — 鸡肉配米饭 → kyckl",
+      "forms": [
+        "ris",
+        "riset"
+      ],
+      "links": [
+        "kyckling",
+        "topic-mat-dryck"
+      ],
+      "searchText": "ris ris knowledge_base/words/ris.md ---\ntype: word\nlemma: \"ris\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A1\"\nzh: \"米饭\"\nen: \"rice\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-vår-fisksoppa-är-nötfri-och-kycklingen\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ris — substantiv (ett)\n\n📖 中文：米饭 · English: rice\n发音提示：/riːs/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | ett ris / ris |\n| Sg bestämd | riset |\n| Pl obestämd | — （不可数，无常用复数）|\n| Pl bestämd | — |\n\n## 词组搭配 (Collocations)\n\n- `kyckling med ris` — 鸡肉配米饭 → [[kyckling]]\n- `kokt ris` — 煮熟的米饭\n- `ris och bönor` — 米饭和豆子\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag äter ris till middag. — 🇨🇳 我晚饭吃米饭。\n- 🇸🇪 Kycklingen serveras med ris och sallad. — 🇨🇳 鸡肉配米饭和沙拉。\n- 🇸🇪 Kokt ris tar ungefär tjugo minuter. — 🇨🇳 煮米饭大约需要二十分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: risgrynsgröt（米粥）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 不可数名词，一般不用复数\n- 注意 *ris* 也可以意思为\"树枝/嫩枝\"（复数形式相同），但在饮食语境中总是指米饭\n",
+      "lemma": "ris",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "米饭",
+      "en": "rice",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "röd",
       "type": "word",
       "title": "röd",
@@ -28179,8 +33195,47 @@ window.KB_DATA = {
       ],
       "topics": [],
       "backlinks": [
+        "grön",
         "sent-du-ser-en-stor-rod-byggnad",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "rödvin",
+      "type": "word",
+      "title": "rödvin",
+      "path": "knowledge_base/words/rödvin.md",
+      "body": "# rödvin — substantiv (ett)\n\n📖 中文：红酒 · English: red wine\n发音提示：[\"RÖHD-veen\"] — 复合词，重音在第一部分\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | ett rödvin | rödvinet |\n| plural | rödviner | rödvinerna |\n\n注: 复合词 röd (红) + vin (酒)；对比 *vitvin*（白酒）\n\n## 词组搭配 (Collocations)\n\n- `ett glas rödvin` — 一杯红酒\n- `en flaska rödvin` — 一瓶红酒\n- `beställa rödvin` — 点红酒\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja gärna, ett glas rödvin och ett glas vatten, tack. — 🇨🇳 好的，一杯红酒和一杯水，谢谢。\n- 🇸🇪 Vilket rödvin rekommenderar ni? — 🇨🇳 你们推荐哪款红酒？\n- 🇸🇪 Rödvinet passar bra till köttbullar. — 🇨🇳 红酒配肉丸非常搭。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词: *röd*（红）+ *vin*（酒）。对比 *vitvin*（白葡萄酒）、*rosé*。\n- 来源: [[source-2026-06-15-restaurang-middag]]",
+      "excerpt": "rödvin — substantiv (ett) 📖 中文：红酒 · English: red wine 发音提示：[\"RÖHD veen\"] — 复合词，重音在第一部分 语法变形 (Forms) form obestämd bestämd singular ett rödvin rödvinet plural rödviner rödvinerna 注: 复合词 röd (红) + vin (酒)；对比 vitvin （白酒） 词",
+      "forms": [
+        "rödvin",
+        "rödvinet",
+        "rödviner",
+        "rödvinerna"
+      ],
+      "links": [
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
+      ],
+      "searchText": "rödvin rödvin knowledge_base/words/rödvin.md ---\ntype: word\nlemma: \"rödvin\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"红酒\"\nen: \"red wine\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-ja-gärna-ett-glas-rödvin-och-vatten\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rödvin — substantiv (ett)\n\n📖 中文：红酒 · English: red wine\n发音提示：[\"RÖHD-veen\"] — 复合词，重音在第一部分\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | ett rödvin | rödvinet |\n| plural | rödviner | rödvinerna |\n\n注: 复合词 röd (红) + vin (酒)；对比 *vitvin*（白酒）\n\n## 词组搭配 (Collocations)\n\n- `ett glas rödvin` — 一杯红酒\n- `en flaska rödvin` — 一瓶红酒\n- `beställa rödvin` — 点红酒\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja gärna, ett glas rödvin och ett glas vatten, tack. — 🇨🇳 好的，一杯红酒和一杯水，谢谢。\n- 🇸🇪 Vilket rödvin rekommenderar ni? — 🇨🇳 你们推荐哪款红酒？\n- 🇸🇪 Rödvinet passar bra till köttbullar. — 🇨🇳 红酒配肉丸非常搭。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词: *röd*（红）+ *vin*（酒）。对比 *vitvin*（白葡萄酒）、*rosé*。\n- 来源: [[source-2026-06-15-restaurang-middag]]\n",
+      "lemma": "rödvin",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "红酒",
+      "en": "red wine",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-ja-gärna-ett-glas-rödvin-och-vatten"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "öl",
+        "sent-ja-gärna-ett-glas-rödvin-och-vatten",
+        "source-2026-06-15-restaurang-middag",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -28314,6 +33369,44 @@ window.KB_DATA = {
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22",
         "topic-samhälle-och-politik"
+      ]
+    },
+    {
+      "slug": "rostad",
+      "type": "word",
+      "title": "rostad",
+      "path": "knowledge_base/words/rostad.md",
+      "body": "# rostad — adjektiv\n\n📖 中文：烤的；焙的 · English: roasted\n发音提示：ROS-tad\n\n## 语法变形 (Forms)\n\n| form | example |\n|------|---------|\n| utrum (en-ord) | rostad (en rostad potatis) |\n| neutrum (ett-ord) | rostat (ett rostat bröd — roast toast) |\n| plural/definite | rostade (rostade grönsaker) |\n\n## 词组搭配 (Collocations)\n\n- `rostade grönsaker` — 烤蔬菜\n- `rostat bröd` — 烤面包/吐司\n- `rostad lök` — 烤洋葱\n\n## 例句 (Sentences)\n\n- see [[sent-ja-vi-har-en-fläskfilé]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: rosta (动词，烤/烘焙), rostning (名词)\n- 同义词: [[grillad]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *rostad* = 烤箱烤或干烤（烘焙）；*grillad* = 明火烤/烧烤。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "rostad — adjektiv 📖 中文：烤的；焙的 · English: roasted 发音提示：ROS tad 语法变形 (Forms) form example utrum (en ord) rostad (en rostad potatis) neutrum (ett ord) rostat (ett rostat bröd — roast toast) plural/definite rostade (rostade ",
+      "forms": [
+        "rostad",
+        "rostat",
+        "rostade"
+      ],
+      "links": [
+        "grillad",
+        "sent-ja-vi-har-en-fläskfilé",
+        "source-2026-06-15-restaurang-rekommendation",
+        "topic-mat-dryck"
+      ],
+      "searchText": "rostad rostad knowledge_base/words/rostad.md ---\ntype: word\nlemma: \"rostad\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"烤的；焙的\"\nen: \"roasted\"\nsynonyms: [grillad]\nantonyms: []\nfamily: []\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-ja-vi-har-en-fläskfilé\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rostad — adjektiv\n\n📖 中文：烤的；焙的 · English: roasted\n发音提示：ROS-tad\n\n## 语法变形 (Forms)\n\n| form | example |\n|------|---------|\n| utrum (en-ord) | rostad (en rostad potatis) |\n| neutrum (ett-ord) | rostat (ett rostat bröd — roast toast) |\n| plural/definite | rostade (rostade grönsaker) |\n\n## 词组搭配 (Collocations)\n\n- `rostade grönsaker` — 烤蔬菜\n- `rostat bröd` — 烤面包/吐司\n- `rostad lök` — 烤洋葱\n\n## 例句 (Sentences)\n\n- see [[sent-ja-vi-har-en-fläskfilé]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: rosta (动词，烤/烘焙), rostning (名词)\n- 同义词: [[grillad]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *rostad* = 烤箱烤或干烤（烘焙）；*grillad* = 明火烤/烧烤。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "lemma": "rostad",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "烤的；焙的",
+      "en": "roasted",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-ja-vi-har-en-fläskfilé"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "fläskfilé",
+        "sent-ja-vi-har-en-fläskfilé",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -28551,6 +33644,7 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "grönsak",
         "gurka",
         "krispig",
         "tomat",
@@ -29069,6 +34163,7 @@ window.KB_DATA = {
       "backlinks": [
         "hänga",
         "ligga",
+        "sent-absolut-vi-har-ett-ledigt-bord",
         "sent-i-bokhyllan-star-manga-bocker-foto-sitter",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
         "sent-utanfor-kafeet-star-tre-bankar-sitter-par-manniskor",
@@ -29711,6 +34806,7 @@ window.KB_DATA = {
         "topic-karaktarsord"
       ],
       "backlinks": [
+        "trång",
         "tunn"
       ]
     },
@@ -30205,10 +35301,12 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "fisksoppa",
         "het",
         "kyckling",
         "morot",
         "potatis",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
         "tallrik",
         "tomat",
         "topic-mat-dryck",
@@ -30519,6 +35617,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "stad",
+      "type": "word",
+      "title": "stad",
+      "path": "knowledge_base/words/stad.md",
+      "body": "# stad — substantiv (en-ord)\n\n📖 中文：城市；市镇 · English: city, town\n发音提示：/stɑːd/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en stad | städer |\n| **Bestämd** | staden | städerna |\n\n注意：plural obestämd 为 `städer`（元音变换 a→ä，不规则变化）。\n\n## 词组搭配 (Collocations)\n\n- `populär stad` — 受欢迎的城市 → see [[populär]]\n- `central stad` — 中心城市 → see [[central]]\n- `in i stan` — 进城（口语 `stan` = `staden`） → see [[stan]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[stan]] (城市/市区，口语), stadsmiljö, stadskärna (市中心)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- plural `städer` 是不规则变形（a→ä 元音变换）。\n- 口语中城市中心区常用 `stan`（= `staden`，定冠词形式）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "stad — substantiv (en ord) 📖 中文：城市；市镇 · English: city, town 发音提示：/stɑːd/ 语法变形 (Forms) Singular Plural Obestämd en stad städer Bestämd staden städerna 注意：plural obestämd 为 städer （元音变换 a→ä，不规则变化）。 词组搭配 (Collocations) pop",
+      "forms": [
+        "stad",
+        "städer",
+        "staden",
+        "städerna"
+      ],
+      "links": [
+        "central",
+        "grammar-substantiv-plural",
+        "populär",
+        "source-2026-06-15-stad-trafik",
+        "stan",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "stad stad knowledge_base/words/stad.md ---\ntype: word\nlemma: \"stad\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 城市；市镇\nen: city, town\nsynonyms: []\nantonyms: []\nfamily: [\"stadsmiljö\", \"stadskärna\", \"förstad\", \"stan\"]\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stad — substantiv (en-ord)\n\n📖 中文：城市；市镇 · English: city, town\n发音提示：/stɑːd/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en stad | städer |\n| **Bestämd** | staden | städerna |\n\n注意：plural obestämd 为 `städer`（元音变换 a→ä，不规则变化）。\n\n## 词组搭配 (Collocations)\n\n- `populär stad` — 受欢迎的城市 → see [[populär]]\n- `central stad` — 中心城市 → see [[central]]\n- `in i stan` — 进城（口语 `stan` = `staden`） → see [[stan]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[stan]] (城市/市区，口语), stadsmiljö, stadskärna (市中心)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- plural `städer` 是不规则变形（a→ä 元音变换）。\n- 口语中城市中心区常用 `stan`（= `staden`，定冠词形式）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "stad",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "城市；市镇",
+      "en": "city, town",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "kommun",
+        "populär",
+        "source-2026-06-15-stad-trafik",
+        "stan",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
       "slug": "stan",
       "type": "word",
       "title": "stan",
@@ -30554,6 +35693,8 @@ window.KB_DATA = {
       "backlinks": [
         "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "stad",
+        "tåg",
         "topic-vardagsrutin"
       ]
     },
@@ -30596,6 +35737,54 @@ window.KB_DATA = {
         "source-2026-06-08-djur",
         "topic-djur",
         "topic-kropp"
+      ]
+    },
+    {
+      "slug": "station",
+      "type": "word",
+      "title": "station",
+      "path": "knowledge_base/words/station.md",
+      "body": "# station — substantiv (en-ord)\n\n📖 中文：车站；站 · English: station\n发音提示：/staˈʃuːn/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en station | stationer |\n| **Bestämd** | stationen | stationerna |\n\n## 词组搭配 (Collocations)\n\n- `tågstation` — 火车站 → see [[tåg]]\n- `busstation` — 公共汽车站 → see [[buss]]\n- `central station` → see [[centralstation]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[centralstation]], tågstation, busstation\n- 同义词: [[hållplats]]\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-kollektivtrafik]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `station` 指较大的交通枢纽（火车站、地铁站等）；`hållplats` 多指公交/有轨电车的站点。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "station — substantiv (en ord) 📖 中文：车站；站 · English: station 发音提示：/staˈʃuːn/ 语法变形 (Forms) Singular Plural Obestämd en station stationer Bestämd stationen stationerna 词组搭配 (Collocations) tågstation — 火车站 → see tåg busstati",
+      "forms": [
+        "station",
+        "stationer",
+        "stationen",
+        "stationerna"
+      ],
+      "links": [
+        "buss",
+        "centralstation",
+        "grammar-substantiv-plural",
+        "hållplats",
+        "source-2026-06-15-stad-trafik",
+        "tåg",
+        "topic-kollektivtrafik",
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "searchText": "station station knowledge_base/words/station.md ---\ntype: word\nlemma: \"station\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 车站；站\nen: station\nsynonyms: []\nantonyms: []\nfamily: [\"centralstation\", \"tågstation\", \"busstation\"]\ntopics: [\"topic-stadsmiljo\", \"topic-kollektivtrafik\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# station — substantiv (en-ord)\n\n📖 中文：车站；站 · English: station\n发音提示：/staˈʃuːn/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en station | stationer |\n| **Bestämd** | stationen | stationerna |\n\n## 词组搭配 (Collocations)\n\n- `tågstation` — 火车站 → see [[tåg]]\n- `busstation` — 公共汽车站 → see [[buss]]\n- `central station` → see [[centralstation]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[centralstation]], tågstation, busstation\n- 同义词: [[hållplats]]\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-kollektivtrafik]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `station` 指较大的交通枢纽（火车站、地铁站等）；`hållplats` 多指公交/有轨电车的站点。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "station",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "车站；站",
+      "en": "station",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-kollektivtrafik",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "centralstation",
+        "hållplats",
+        "source-2026-06-15-stad-trafik",
+        "tåg",
+        "topic-kollektivtrafik",
+        "topic-stadsmiljo",
+        "topic-trafik"
       ]
     },
     {
@@ -30940,6 +36129,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "svamp",
+      "type": "word",
+      "title": "svamp",
+      "path": "knowledge_base/words/svamp.md",
+      "body": "# svamp — substantiv (en)\n\n📖 中文：蘑菇 · English: mushroom\n发音提示：svamp (rimes with \"stamp\")\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en svamp |\n| bestämd singular | svampen |\n| obestämd plural | svampar |\n| bestämd plural | svamparna |\n\n## 词组搭配 (Collocations)\n\n- `pasta med svamp` — 蘑菇意面\n- `svampsoppa` — 蘑菇汤\n- `plocka svamp` — 采蘑菇\n\n## 例句 (Sentences)\n\n- see [[sent-dagens-rätt-är-en-vegetarisk-pasta]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 注: *svamp* 也可指海绵或真菌（sponge/fungus），上下文决定意思\n- 相关词: [[grönsak]], [[pasta]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 注意多义：svamp = 蘑菇/真菌（食用），但也可以是海绵。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "svamp — substantiv (en) 📖 中文：蘑菇 · English: mushroom 发音提示：svamp (rimes with \"stamp\") 语法变形 (Forms) form Swedish obestämd singular en svamp bestämd singular svampen obestämd plural svampar bestämd plural svamparna 词组搭配 (Co",
+      "forms": [
+        "svamp",
+        "svampen",
+        "svampar",
+        "svamparna"
+      ],
+      "links": [
+        "grönsak",
+        "pasta",
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "source-2026-06-15-restaurang-rekommendation",
+        "topic-mat-dryck"
+      ],
+      "searchText": "svamp svamp knowledge_base/words/svamp.md ---\ntype: word\nlemma: \"svamp\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"A2\"\nzh: \"蘑菇\"\nen: \"mushroom\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-dagens-rätt-är-en-vegetarisk-pasta\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# svamp — substantiv (en)\n\n📖 中文：蘑菇 · English: mushroom\n发音提示：svamp (rimes with \"stamp\")\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en svamp |\n| bestämd singular | svampen |\n| obestämd plural | svampar |\n| bestämd plural | svamparna |\n\n## 词组搭配 (Collocations)\n\n- `pasta med svamp` — 蘑菇意面\n- `svampsoppa` — 蘑菇汤\n- `plocka svamp` — 采蘑菇\n\n## 例句 (Sentences)\n\n- see [[sent-dagens-rätt-är-en-vegetarisk-pasta]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 注: *svamp* 也可指海绵或真菌（sponge/fungus），上下文决定意思\n- 相关词: [[grönsak]], [[pasta]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 注意多义：svamp = 蘑菇/真菌（食用），但也可以是海绵。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "lemma": "svamp",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "蘑菇",
+      "en": "mushroom",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-dagens-rätt-är-en-vegetarisk-pasta"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "pasta",
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "svår",
       "type": "word",
       "title": "svår",
@@ -31130,6 +36359,88 @@ window.KB_DATA = {
         "bror",
         "syskon",
         "topic-personer"
+      ]
+    },
+    {
+      "slug": "tåg",
+      "type": "word",
+      "title": "tåg",
+      "path": "knowledge_base/words/tåg.md",
+      "body": "# tåg — substantiv (ett-ord)\n\n📖 中文：火车；列车 · English: train\n发音提示：/toːɡ/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | ett tåg | tåg |\n| **Bestämd** | tåget | tågen |\n\n注意：ett-ord，plural obestämd = grundform（zero-plural）。\n\n## 词组搭配 (Collocations)\n\n- `ta tåget` — 乘火车\n- `tågstation` — 火车站 → see [[station]]\n- `ta tåget till stan` — 乘火车进城 → see [[stan]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tågstation, tågtrafik\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]], [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，plural 与 singular 同形：`ett tåg / tåg / tåget / tågen`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "tåg — substantiv (ett ord) 📖 中文：火车；列车 · English: train 发音提示：/toːɡ/ 语法变形 (Forms) Singular Plural Obestämd ett tåg tåg Bestämd tåget tågen 注意：ett ord，plural obestämd = grundform（zero plural）。 词组搭配 (Collocations) ta tåget ",
+      "forms": [
+        "tåg",
+        "tåget",
+        "tågen"
+      ],
+      "links": [
+        "grammar-substantiv-plural",
+        "source-2026-06-15-stad-trafik",
+        "stan",
+        "station",
+        "topic-kollektivtrafik",
+        "topic-trafik"
+      ],
+      "searchText": "tåg tåg knowledge_base/words/tåg.md ---\ntype: word\nlemma: \"tåg\"\nordklass: substantiv\ngenus: ett\ncefr: A1\nzh: 火车；列车\nen: train\nsynonyms: []\nantonyms: []\nfamily: [\"tågstation\", \"tågtrafik\", \"tågresa\"]\ntopics: [\"topic-trafik\", \"topic-kollektivtrafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tåg — substantiv (ett-ord)\n\n📖 中文：火车；列车 · English: train\n发音提示：/toːɡ/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | ett tåg | tåg |\n| **Bestämd** | tåget | tågen |\n\n注意：ett-ord，plural obestämd = grundform（zero-plural）。\n\n## 词组搭配 (Collocations)\n\n- `ta tåget` — 乘火车\n- `tågstation` — 火车站 → see [[station]]\n- `ta tåget till stan` — 乘火车进城 → see [[stan]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tågstation, tågtrafik\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]], [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，plural 与 singular 同形：`ett tåg / tåg / tåget / tågen`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "tåg",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "火车；列车",
+      "en": "train",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-trafik",
+        "topic-kollektivtrafik"
+      ],
+      "backlinks": [
+        "source-2026-06-15-stad-trafik",
+        "station",
+        "topic-kollektivtrafik",
+        "topic-trafik"
+      ]
+    },
+    {
+      "slug": "tåla",
+      "type": "word",
+      "title": "tåla",
+      "path": "knowledge_base/words/tåla.md",
+      "body": "# tåla — verb (grupp 2)\n\n📖 中文：受得了；耐受 · English: to tolerate; to stand\n发音提示：TÅ-la\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | tåla |\n| Presens | tål |\n| Preteritum | tålde |\n| Supinum | tålt |\n| Imperativ | tål! |\n\n注意：presens 形式是 *tål*（不是 *tålar*）\n\n## 词组搭配 (Collocations)\n\n- `tål inte laktos` — 不耐乳糖 → [[laktos]]\n- `tåla smärta` — 忍受疼痛\n- `tåla väntan` — 耐心等待\n- `kan inte tåla` — 受不了…\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon tål inte laktos och kan inte äta grädde. — 🇨🇳 她不耐乳糖，不能吃奶油。\n- 🇸🇪 Jag tål inte starkt kryddad mat. — 🇨🇳 我受不了重口味的食物。\n- 🇸🇪 Kan du tåla att vänta lite till? — 🇨🇳 你能再等一会儿吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tålamod（耐心），tålmodig（有耐心的）\n- 同义词: klara (av)（应付，受得了），stå ut med（忍受）\n- 反义词: —\n- 主题: [[topic-mat-dryck]] · [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- presens 不规则：*tålar* 是口语中偶见的，但标准形式是 *tål*\n- 食物过敏/不耐受语境：*tål inte X* = 不耐受X（比 *allergisk* 更广，包括不耐症）",
+      "excerpt": "tåla — verb (grupp 2) 📖 中文：受得了；耐受 · English: to tolerate; to stand 发音提示：TÅ la 语法变形 (Forms) Form Swedish Infinitiv tåla Presens tål Preteritum tålde Supinum tålt Imperativ tål! 注意：presens 形式是 tål （不是 tålar ） 词组搭配 (Colloc",
+      "forms": [
+        "tåla",
+        "tål",
+        "tålde",
+        "tålt",
+        "tål!"
+      ],
+      "links": [
+        "laktos",
+        "topic-hälsa",
+        "topic-mat-dryck"
+      ],
+      "searchText": "tåla tåla knowledge_base/words/tåla.md ---\ntype: word\nlemma: \"tåla\"\nordklass: verb\nverbgrupp: \"2\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"受得了；耐受\"\nen: \"to tolerate; to stand\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\n  - topic-hälsa\nsentences:\n  - sent-kan-ni-göra-den-utan-grädde-hon-tål-inte\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tåla — verb (grupp 2)\n\n📖 中文：受得了；耐受 · English: to tolerate; to stand\n发音提示：TÅ-la\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | tåla |\n| Presens | tål |\n| Preteritum | tålde |\n| Supinum | tålt |\n| Imperativ | tål! |\n\n注意：presens 形式是 *tål*（不是 *tålar*）\n\n## 词组搭配 (Collocations)\n\n- `tål inte laktos` — 不耐乳糖 → [[laktos]]\n- `tåla smärta` — 忍受疼痛\n- `tåla väntan` — 耐心等待\n- `kan inte tåla` — 受不了…\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon tål inte laktos och kan inte äta grädde. — 🇨🇳 她不耐乳糖，不能吃奶油。\n- 🇸🇪 Jag tål inte starkt kryddad mat. — 🇨🇳 我受不了重口味的食物。\n- 🇸🇪 Kan du tåla att vänta lite till? — 🇨🇳 你能再等一会儿吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tålamod（耐心），tålmodig（有耐心的）\n- 同义词: klara (av)（应付，受得了），stå ut med（忍受）\n- 反义词: —\n- 主题: [[topic-mat-dryck]] · [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- presens 不规则：*tålar* 是口语中偶见的，但标准形式是 *tål*\n- 食物过敏/不耐受语境：*tål inte X* = 不耐受X（比 *allergisk* 更广，包括不耐症）\n",
+      "lemma": "tåla",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "受得了；耐受",
+      "en": "to tolerate; to stand",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte"
+      ],
+      "topics": [
+        "topic-mat-dryck",
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "grädde",
+        "laktos",
+        "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck"
       ]
     },
     {
@@ -31327,6 +36638,8 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "äppelpaj",
+        "efterrätt",
         "kaka",
         "topic-mat-dryck"
       ]
@@ -31743,6 +37056,48 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "tom",
+      "type": "word",
+      "title": "tom",
+      "path": "knowledge_base/words/tom.md",
+      "body": "# tom — adjektiv\n\n📖 中文：空的；空荡荡的 · English: empty\n发音提示：/tuːm/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | tom | tomt | tomma |\n| **Komparativ** | tommare | tommare | tommare |\n| **Superlativ** | tommast / tommaste | tommast / tommaste | tommaste |\n\n## 词组搭配 (Collocations)\n\n- `tom parkering` — 空旷的停车场 → see [[parkering]]\n- `tom buss` — 空荡荡的公共汽车 → see [[buss]]\n- `tomt hus` — 空房子 → see [[hus]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- ett-形式为 `tomt`（注意双写 m 消失于 ett 形式）；plural 为 `tomma`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "tom — adjektiv 📖 中文：空的；空荡荡的 · English: empty 发音提示：/tuːm/ 语法变形 (Forms) en ord ett ord plural Positiv tom tomt tomma Komparativ tommare tommare tommare Superlativ tommast / tommaste tommast / tommaste tommaste 词组搭配 (Collo",
+      "forms": [
+        "tom",
+        "tomt",
+        "tomma",
+        "tommare",
+        "tommast",
+        "tommaste"
+      ],
+      "links": [
+        "buss",
+        "grammar-adjektiv-bojning",
+        "hus",
+        "parkering",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "tom tom knowledge_base/words/tom.md ---\ntype: word\nlemma: \"tom\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: 空的；空荡荡的\nen: empty\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tom — adjektiv\n\n📖 中文：空的；空荡荡的 · English: empty\n发音提示：/tuːm/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | tom | tomt | tomma |\n| **Komparativ** | tommare | tommare | tommare |\n| **Superlativ** | tommast / tommaste | tommast / tommaste | tommaste |\n\n## 词组搭配 (Collocations)\n\n- `tom parkering` — 空旷的停车场 → see [[parkering]]\n- `tom buss` — 空荡荡的公共汽车 → see [[buss]]\n- `tomt hus` — 空房子 → see [[hus]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- ett-形式为 `tomt`（注意双写 m 消失于 ett 形式）；plural 为 `tomma`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "tom",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "空的；空荡荡的",
+      "en": "empty",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "hus",
+        "parkering",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
       "slug": "tomat",
       "type": "word",
       "title": "tomat",
@@ -31775,6 +37130,7 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "grönsak",
         "juice",
         "sallad",
         "soppa",
@@ -31816,6 +37172,7 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "livlig",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
         "sent-pa-torget-finns-fontan-flera-bankar-runt-fontanen",
         "sent-rakt-fram-ser-jag-ett-torg",
@@ -31887,6 +37244,7 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "grön",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
         "source-2026-06-09-beskriva-en-gata",
         "topic-stadsmiljo"
@@ -31929,11 +37287,14 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "grön",
+        "gul",
         "sent-nagra-manniskor-vantar-cyklister-stannar-trafikljuset",
         "sent-vid-korsningen-blinkar-trafikljuset-rott-bilar-cyklister",
         "source-2026-06-09-beskriva-en-gata",
         "topic-stadsmiljo",
-        "topic-trafik"
+        "topic-trafik",
+        "trasig"
       ]
     },
     {
@@ -31976,6 +37337,101 @@ window.KB_DATA = {
         "source-2026-06-02-astrid-lindgren",
         "topic-karaktarsord",
         "trevlig"
+      ]
+    },
+    {
+      "slug": "trång",
+      "type": "word",
+      "title": "trång",
+      "path": "knowledge_base/words/trång.md",
+      "body": "# trång — adjektiv\n\n📖 中文：狭窄的；拥挤的 · English: narrow, cramped\n发音提示：/troŋ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | trång | trångt | trångа |\n| **Komparativ** | trångare | trångare | trångare |\n| **Superlativ** | trångast / trångaste | trångast / trångaste | trångaste |\n\n## 词组搭配 (Collocations)\n\n- `trång gata` — 狭窄的街道 → see [[gata]]\n- `trång tunnel` — 狭窄的隧道 → see [[tunnel]]\n- `trång parkering` — 拥挤的停车场 → see [[parkering]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[smal]]\n- 反义词: [[bred]]\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `trång` 强调空间窄小/拥挤；`smal` 更侧重细/窄（形状）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "trång — adjektiv 📖 中文：狭窄的；拥挤的 · English: narrow, cramped 发音提示：/troŋ/ 语法变形 (Forms) en ord ett ord plural Positiv trång trångt trångа Komparativ trångare trångare trångare Superlativ trångast / trångaste trångast / trånga",
+      "forms": [
+        "trång",
+        "trångt",
+        "trångа",
+        "trångare",
+        "trångast",
+        "trångaste"
+      ],
+      "links": [
+        "bred",
+        "gata",
+        "grammar-adjektiv-bojning",
+        "parkering",
+        "smal",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "tunnel"
+      ],
+      "searchText": "trång trång knowledge_base/words/trång.md ---\ntype: word\nlemma: \"trång\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: 狭窄的；拥挤的\nen: narrow, cramped\nsynonyms: []\nantonyms: [\"bred\"]\nfamily: []\ntopics: [\"topic-stadsmiljo\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# trång — adjektiv\n\n📖 中文：狭窄的；拥挤的 · English: narrow, cramped\n发音提示：/troŋ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | trång | trångt | trångа |\n| **Komparativ** | trångare | trångare | trångare |\n| **Superlativ** | trångast / trångaste | trångast / trångaste | trångaste |\n\n## 词组搭配 (Collocations)\n\n- `trång gata` — 狭窄的街道 → see [[gata]]\n- `trång tunnel` — 狭窄的隧道 → see [[tunnel]]\n- `trång parkering` — 拥挤的停车场 → see [[parkering]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[smal]]\n- 反义词: [[bred]]\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `trång` 强调空间窄小/拥挤；`smal` 更侧重细/窄（形状）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "trång",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "狭窄的；拥挤的",
+      "en": "narrow, cramped",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "bred",
+        "parkering",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "tunnel"
+      ]
+    },
+    {
+      "slug": "trasig",
+      "type": "word",
+      "title": "trasig",
+      "path": "knowledge_base/words/trasig.md",
+      "body": "# trasig — adjektiv\n\n📖 中文：坏的；损坏的；破损的 · English: broken, out of order\n发音提示：/ˈtraːsɪɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | trasig | trasigt | trasiga |\n| **Komparativ** | mer trasig | mer trasigt | mer trasiga |\n| **Superlativ** | mest trasig / mest trasiga | mest trasigt | mest trasiga |\n\n注意：以 `-ig` 结尾的形容词通常用 `mer/mest` 构成比较级/最高级。\n\n## 词组搭配 (Collocations)\n\n- `trasigt trafikljus` — 故障的红绿灯 → see [[trafikljus]]\n- `trasig buss` — 坏掉的公共汽车 → see [[buss]]\n- `trasig cykel` — 坏掉的自行车 → see [[cykel]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: trasa (破布，碎片)\n- 同义词: [[bruten]]\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `trasig` 通常指机器/设备/物品损坏；`bruten` 更指骨折或断裂。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "trasig — adjektiv 📖 中文：坏的；损坏的；破损的 · English: broken, out of order 发音提示：/ˈtraːsɪɡ/ 语法变形 (Forms) en ord ett ord plural Positiv trasig trasigt trasiga Komparativ mer trasig mer trasigt mer trasiga Superlativ mest trasig / ",
+      "forms": [
+        "trasig",
+        "trasigt",
+        "trasiga",
+        "mer trasig",
+        "mer trasigt",
+        "mer trasiga",
+        "mest trasig",
+        "mest trasiga",
+        "mest trasigt"
+      ],
+      "links": [
+        "bruten",
+        "buss",
+        "cykel",
+        "grammar-adjektiv-bojning",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "trafikljus"
+      ],
+      "searchText": "trasig trasig knowledge_base/words/trasig.md ---\ntype: word\nlemma: \"trasig\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: 坏的；损坏的；破损的\nen: broken, out of order\nsynonyms: []\nantonyms: []\nfamily: [\"trasa\"]\ntopics: [\"topic-stadsmiljo\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# trasig — adjektiv\n\n📖 中文：坏的；损坏的；破损的 · English: broken, out of order\n发音提示：/ˈtraːsɪɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | trasig | trasigt | trasiga |\n| **Komparativ** | mer trasig | mer trasigt | mer trasiga |\n| **Superlativ** | mest trasig / mest trasiga | mest trasigt | mest trasiga |\n\n注意：以 `-ig` 结尾的形容词通常用 `mer/mest` 构成比较级/最高级。\n\n## 词组搭配 (Collocations)\n\n- `trasigt trafikljus` — 故障的红绿灯 → see [[trafikljus]]\n- `trasig buss` — 坏掉的公共汽车 → see [[buss]]\n- `trasig cykel` — 坏掉的自行车 → see [[cykel]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: trasa (破布，碎片)\n- 同义词: [[bruten]]\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `trasig` 通常指机器/设备/物品损坏；`bruten` 更指骨折或断裂。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "trasig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "坏的；损坏的；破损的",
+      "en": "broken, out of order",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik"
       ]
     },
     {
@@ -32192,9 +37648,50 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "bred",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
         "source-2026-06-09-beskriva-en-gata",
         "topic-stadsmiljo",
+        "topic-trafik"
+      ]
+    },
+    {
+      "slug": "tung",
+      "type": "word",
+      "title": "tung",
+      "path": "knowledge_base/words/tung.md",
+      "body": "# tung — adjektiv\n\n📖 中文：重的；沉重的 · English: heavy\n发音提示：/tɵŋ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | tung | tungt | tunga |\n| **Komparativ** | tyngre | tyngre | tyngre |\n| **Superlativ** | tyngst / tyngsta | tyngst / tyngsta | tyngsta |\n\n注意：komparativ/superlativ 为不规则形式（元音变换 u→y）。\n\n## 词组搭配 (Collocations)\n\n- `tung lastbil` — 重型卡车 → see [[lastbil]]\n- `tung trafik` — 重型交通\n- `tungt fordon` — 重型车辆\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tyngd (重量), tyngre (较重)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- komparativ `tyngre`/superlativ `tyngst` 是不规则变形（元音音变）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "tung — adjektiv 📖 中文：重的；沉重的 · English: heavy 发音提示：/tɵŋ/ 语法变形 (Forms) en ord ett ord plural Positiv tung tungt tunga Komparativ tyngre tyngre tyngre Superlativ tyngst / tyngsta tyngst / tyngsta tyngsta 注意：komparativ/supe",
+      "forms": [
+        "tung",
+        "tungt",
+        "tunga",
+        "tyngre",
+        "tyngst",
+        "tyngsta"
+      ],
+      "links": [
+        "grammar-adjektiv-bojning",
+        "lastbil",
+        "source-2026-06-15-stad-trafik",
+        "topic-trafik"
+      ],
+      "searchText": "tung tung knowledge_base/words/tung.md ---\ntype: word\nlemma: \"tung\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: 重的；沉重的\nen: heavy\nsynonyms: []\nantonyms: []\nfamily: [\"tyngd\", \"tyngre\"]\ntopics: [\"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tung — adjektiv\n\n📖 中文：重的；沉重的 · English: heavy\n发音提示：/tɵŋ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | tung | tungt | tunga |\n| **Komparativ** | tyngre | tyngre | tyngre |\n| **Superlativ** | tyngst / tyngsta | tyngst / tyngsta | tyngsta |\n\n注意：komparativ/superlativ 为不规则形式（元音变换 u→y）。\n\n## 词组搭配 (Collocations)\n\n- `tung lastbil` — 重型卡车 → see [[lastbil]]\n- `tung trafik` — 重型交通\n- `tungt fordon` — 重型车辆\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tyngd (重量), tyngre (较重)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- komparativ `tyngre`/superlativ `tyngst` 是不规则变形（元音音变）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "tung",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "重的；沉重的",
+      "en": "heavy",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "bil",
+        "lastbil",
+        "source-2026-06-15-stad-trafik",
         "topic-trafik"
       ]
     },
@@ -32232,6 +37729,47 @@ window.KB_DATA = {
       "backlinks": [
         "smal",
         "tjock"
+      ]
+    },
+    {
+      "slug": "tunnel",
+      "type": "word",
+      "title": "tunnel",
+      "path": "knowledge_base/words/tunnel.md",
+      "body": "# tunnel — substantiv (en-ord)\n\n📖 中文：隧道 · English: tunnel\n发音提示：/ˈtɵnɛl/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en tunnel | tunnlar |\n| **Bestämd** | tunneln | tunnlarna |\n\n注意：plural 词干为 `tunnl-`（-el 结尾名词）。\n\n## 词组搭配 (Collocations)\n\n- `trång tunnel` — 狭窄的隧道 → see [[trång]]\n- `köra genom tunneln` — 开车穿过隧道\n- `vägtunnel` — 公路隧道\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tunnelbana]] (地铁，字面意思\"隧道轨道\")\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- plural 变形 tunnlar 时词干为 tunnl-（-el → -l + ar）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "tunnel — substantiv (en ord) 📖 中文：隧道 · English: tunnel 发音提示：/ˈtɵnɛl/ 语法变形 (Forms) Singular Plural Obestämd en tunnel tunnlar Bestämd tunneln tunnlarna 注意：plural 词干为 tunnl （ el 结尾名词）。 词组搭配 (Collocations) trång tunnel — 狭",
+      "forms": [
+        "tunnel",
+        "tunnlar",
+        "tunneln",
+        "tunnlarna"
+      ],
+      "links": [
+        "grammar-substantiv-plural",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "trång",
+        "tunnelbana"
+      ],
+      "searchText": "tunnel tunnel knowledge_base/words/tunnel.md ---\ntype: word\nlemma: \"tunnel\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 隧道\nen: tunnel\nsynonyms: []\nantonyms: []\nfamily: [\"tunnelbana\"]\ntopics: [\"topic-stadsmiljo\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tunnel — substantiv (en-ord)\n\n📖 中文：隧道 · English: tunnel\n发音提示：/ˈtɵnɛl/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en tunnel | tunnlar |\n| **Bestämd** | tunneln | tunnlarna |\n\n注意：plural 词干为 `tunnl-`（-el 结尾名词）。\n\n## 词组搭配 (Collocations)\n\n- `trång tunnel` — 狭窄的隧道 → see [[trång]]\n- `köra genom tunneln` — 开车穿过隧道\n- `vägtunnel` — 公路隧道\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tunnelbana]] (地铁，字面意思\"隧道轨道\")\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- plural 变形 tunnlar 时词干为 tunnl-（-el → -l + ar）。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "tunnel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "隧道",
+      "en": "tunnel",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik",
+        "trång"
       ]
     },
     {
@@ -32283,7 +37821,8 @@ window.KB_DATA = {
         "ta-tunnelbanan",
         "topic-kollektivtrafik",
         "topic-riktningar",
-        "topic-vardagsrutin"
+        "topic-vardagsrutin",
+        "tunnel"
       ]
     },
     {
@@ -32347,6 +37886,7 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "frivillig",
         "source-2026-06-02-astrid-lindgren"
       ]
     },
@@ -32370,7 +37910,8 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
-        "sent-fika-tyvärr-semlan-är-bara"
+        "sent-fika-tyvärr-semlan-är-bara",
+        "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny"
       ]
     },
     {
@@ -32633,6 +38174,48 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "väg",
+      "type": "word",
+      "title": "väg",
+      "path": "knowledge_base/words/väg.md",
+      "body": "# väg — substantiv (en-ord)\n\n📖 中文：路；道路；途径 · English: road, way\n发音提示：/veːɡ/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en väg | vägar |\n| **Bestämd** | vägen | vägarna |\n\n## 词组搭配 (Collocations)\n\n- `bred väg` — 宽阔的道路 → see [[bred]]\n- `på vägen` — 在路上\n- `hitta vägen` — 找路\n- `längs vägen` — 沿路\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: vägledning (指导), vägarbete (道路施工)\n- 同义词: [[gata]]\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `väg` 范围更广，可指城市内外的任何道路，也有\"方式/途径\"的抽象含义。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]",
+      "excerpt": "väg — substantiv (en ord) 📖 中文：路；道路；途径 · English: road, way 发音提示：/veːɡ/ 语法变形 (Forms) Singular Plural Obestämd en väg vägar Bestämd vägen vägarna 词组搭配 (Collocations) bred väg — 宽阔的道路 → see bred på vägen — 在路上 hitta vägen",
+      "forms": [
+        "väg",
+        "vägar",
+        "vägen",
+        "vägarna"
+      ],
+      "links": [
+        "bred",
+        "gata",
+        "grammar-substantiv-plural",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "searchText": "väg väg knowledge_base/words/väg.md ---\ntype: word\nlemma: \"väg\"\nordklass: substantiv\ngenus: en\ncefr: A1\nzh: 路；道路；途径\nen: road, way\nsynonyms: []\nantonyms: []\nfamily: [\"vägledning\", \"vägarbete\"]\ntopics: [\"topic-stadsmiljo\", \"topic-trafik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# väg — substantiv (en-ord)\n\n📖 中文：路；道路；途径 · English: road, way\n发音提示：/veːɡ/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | en väg | vägar |\n| **Bestämd** | vägen | vägarna |\n\n## 词组搭配 (Collocations)\n\n- `bred väg` — 宽阔的道路 → see [[bred]]\n- `på vägen` — 在路上\n- `hitta vägen` — 找路\n- `längs vägen` — 沿路\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: vägledning (指导), vägarbete (道路施工)\n- 同义词: [[gata]]\n- 反义词: —\n- 主题: [[topic-stadsmiljo]], [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- `väg` 范围更广，可指城市内外的任何道路，也有\"方式/途径\"的抽象含义。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]\n",
+      "lemma": "väg",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "路；道路；途径",
+      "en": "road, way",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "bred",
+        "gata",
+        "source-2026-06-15-stad-trafik",
+        "topic-stadsmiljo",
+        "topic-trafik"
+      ]
+    },
+    {
       "slug": "vägg",
       "type": "word",
       "title": "vägg",
@@ -32755,6 +38338,7 @@ window.KB_DATA = {
       "backlinks": [
         "byteskö",
         "index",
+        "sent-bra-val-vill-du-ha-efterrätt",
         "source-2026-06-03-sundbyberg-forskola"
       ]
     },
@@ -32865,7 +38449,10 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "index",
+        "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "sent-hej-och-välkomna-ett-bord-för-två",
         "sent-manga-kommuner-valkomnar-sina-nya",
+        "sent-tack-själva-varmt-välkomna-åter",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22",
         "välkommen"
@@ -33115,6 +38702,12 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "sent-absolut-vi-har-ett-ledigt-bord",
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "sent-det-låter-gott-men-jag-är",
+        "sent-hej-och-välkommen-är-du-ensam",
+        "sent-ja-jag-är-ensam-finns-det",
+        "sent-ja-vi-har-en-fläskfilé",
         "source-2026-06-10-zlatan-subst-verb"
       ]
     },
@@ -33267,6 +38860,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "värma",
+      "type": "word",
+      "title": "värma",
+      "path": "knowledge_base/words/värma.md",
+      "body": "# värma — verb (grupp 2)\n\n📖 中文：加热；使变暖 · English: to heat; to warm\n发音提示：VÄR-ma\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | värma |\n| Presens | värmer |\n| Preteritum | värmde |\n| Supinum | värmt |\n| Imperativ | värm! |\n\n## 词组搭配 (Collocations)\n\n- `värma soppa` — 热汤\n- `värma en ny (rätt)` — 热一份新的（菜）\n- `värma upp` — 加热（partikelverb）\n- `värma mat i mikron` — 用微波炉热饭\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag värmer soppan åt dig direkt. — 🇨🇳 我马上给你热汤。\n- 🇸🇪 Kan du värma upp maten i mikron? — 🇨🇳 你能用微波炉热一下饭吗？\n- 🇸🇪 Solen värmer luften på sommaren. — 🇨🇳 夏天阳光使空气变暖。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: varm（暖的，热的），värme（热量），uppvärmning（加热）\n- 同义词: hetta upp（加热至高温）\n- 反义词: kyla（冷却）→ [[kall]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- grupp 2 动词（presens -er 结尾，preteritum -de）\n- *värma upp* 作为 partikelverb 更强调预热的过程 → [[grammar-partikelverb]]",
+      "excerpt": "värma — verb (grupp 2) 📖 中文：加热；使变暖 · English: to heat; to warm 发音提示：VÄR ma 语法变形 (Forms) Form Swedish Infinitiv värma Presens värmer Preteritum värmde Supinum värmt Imperativ värm! 词组搭配 (Collocations) värma soppa — 热汤 vä",
+      "forms": [
+        "värma",
+        "värmer",
+        "värmde",
+        "värmt",
+        "värm!"
+      ],
+      "links": [
+        "grammar-partikelverb",
+        "kall",
+        "topic-mat-dryck"
+      ],
+      "searchText": "värma värma knowledge_base/words/värma.md ---\ntype: word\nlemma: \"värma\"\nordklass: verb\nverbgrupp: \"2\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"加热；使变暖\"\nen: \"to heat; to warm\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-mat-dryck\nsentences:\n  - sent-jag-värmer-en-ny-åt-dig-direkt\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# värma — verb (grupp 2)\n\n📖 中文：加热；使变暖 · English: to heat; to warm\n发音提示：VÄR-ma\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | värma |\n| Presens | värmer |\n| Preteritum | värmde |\n| Supinum | värmt |\n| Imperativ | värm! |\n\n## 词组搭配 (Collocations)\n\n- `värma soppa` — 热汤\n- `värma en ny (rätt)` — 热一份新的（菜）\n- `värma upp` — 加热（partikelverb）\n- `värma mat i mikron` — 用微波炉热饭\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag värmer soppan åt dig direkt. — 🇨🇳 我马上给你热汤。\n- 🇸🇪 Kan du värma upp maten i mikron? — 🇨🇳 你能用微波炉热一下饭吗？\n- 🇸🇪 Solen värmer luften på sommaren. — 🇨🇳 夏天阳光使空气变暖。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: varm（暖的，热的），värme（热量），uppvärmning（加热）\n- 同义词: hetta upp（加热至高温）\n- 反义词: kyla（冷却）→ [[kall]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- grupp 2 动词（presens -er 结尾，preteritum -de）\n- *värma upp* 作为 partikelverb 更强调预热的过程 → [[grammar-partikelverb]]\n",
+      "lemma": "värma",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "加热；使变暖",
+      "en": "to heat; to warm",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-jag-värmer-en-ny-åt-dig-direkt"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-jag-värmer-en-ny-åt-dig-direkt",
+        "source-2026-06-15-restaurang-allergi-nota",
+        "topic-mat-dryck"
+      ]
+    },
+    {
       "slug": "vatten",
       "type": "word",
       "title": "vatten",
@@ -33302,10 +38934,13 @@ window.KB_DATA = {
         "topic-hemmet"
       ],
       "backlinks": [
+        "sent-ja-gärna-ett-glas-rödvin-och-vatten",
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
         "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "sent-två-glas-vatten-räcker-tack",
         "source-2026-06-03-fraga-vagen-pub",
-        "source-2026-06-09-rumsliga-relationer"
+        "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-15-restaurang-middag"
       ]
     },
     {
@@ -33427,6 +39062,44 @@ window.KB_DATA = {
       "backlinks": [
         "index",
         "source-2026-06-03-sundbyberg-forskola"
+      ]
+    },
+    {
+      "slug": "vegetarisk",
+      "type": "word",
+      "title": "vegetarisk",
+      "path": "knowledge_base/words/vegetarisk.md",
+      "body": "# vegetarisk — adjektiv\n\n📖 中文：素食的 · English: vegetarian\n发音提示：ve-ge-TA-risk\n\n## 语法变形 (Forms)\n\n| form | example |\n|------|---------|\n| utrum (en-ord) | vegetarisk (en vegetarisk rätt) |\n| neutrum (ett-ord) | vegetariskt (ett vegetariskt alternativ) |\n| plural/definite | vegetariska (de vegetariska rätterna) |\n\n## 词组搭配 (Collocations)\n\n- `vegetarisk rätt` — 素食菜肴\n- `vegetarisk pasta` — 素食意面\n- `vegetariskt alternativ` — 素食选项\n\n## 例句 (Sentences)\n\n- see [[sent-dagens-rätt-är-en-vegetarisk-pasta]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: vegetarian (名词，素食者)\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 与 [[kött]] 相对：vegetarisk mat 不含肉类。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]",
+      "excerpt": "vegetarisk — adjektiv 📖 中文：素食的 · English: vegetarian 发音提示：ve ge TA risk 语法变形 (Forms) form example utrum (en ord) vegetarisk (en vegetarisk rätt) neutrum (ett ord) vegetariskt (ett vegetariskt alternativ) plural/definite",
+      "forms": [
+        "vegetarisk",
+        "vegetariskt",
+        "vegetariska"
+      ],
+      "links": [
+        "kött",
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "source-2026-06-15-restaurang-rekommendation",
+        "topic-mat-dryck"
+      ],
+      "searchText": "vegetarisk vegetarisk knowledge_base/words/vegetarisk.md ---\ntype: word\nlemma: \"vegetarisk\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"素食的\"\nen: \"vegetarian\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-mat-dryck]\nsentences:\n  - sent-dagens-rätt-är-en-vegetarisk-pasta\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vegetarisk — adjektiv\n\n📖 中文：素食的 · English: vegetarian\n发音提示：ve-ge-TA-risk\n\n## 语法变形 (Forms)\n\n| form | example |\n|------|---------|\n| utrum (en-ord) | vegetarisk (en vegetarisk rätt) |\n| neutrum (ett-ord) | vegetariskt (ett vegetariskt alternativ) |\n| plural/definite | vegetariska (de vegetariska rätterna) |\n\n## 词组搭配 (Collocations)\n\n- `vegetarisk rätt` — 素食菜肴\n- `vegetarisk pasta` — 素食意面\n- `vegetariskt alternativ` — 素食选项\n\n## 例句 (Sentences)\n\n- see [[sent-dagens-rätt-är-en-vegetarisk-pasta]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: vegetarian (名词，素食者)\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 与 [[kött]] 相对：vegetarisk mat 不含肉类。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]\n",
+      "lemma": "vegetarisk",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "素食的",
+      "en": "vegetarian",
+      "created": "2026-06-15",
+      "known": false,
+      "sentences": [
+        "sent-dagens-rätt-är-en-vegetarisk-pasta"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "kött",
+        "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "topic-mat-dryck"
       ]
     },
     {
