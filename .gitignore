@@ -3,6 +3,7 @@ review/.kb-changelog.log
 scripts/*.log
 inbox/*
 !inbox/README.md
+traces/          # per-session trace artifacts (Stop hook) — machine-local, never synced
 
 # editor / OS
 .DS_Store
