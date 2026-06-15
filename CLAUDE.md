@@ -125,10 +125,12 @@ For phrases/sentences where the slug is fuzzy, also `Grep` the folder for the le
 | 语法问题 | swedish-grammar | 1 个 `grammar/` 文件 |
 | 一段文字 / 图片 | swedish-text-analysis → 然后 spawn `sv-librarian` | `sources/` 文件 + 批量 words/phrases/sentences/grammar |
 | 中文/英文求译 | dictionary/phrases | 录入对应瑞典语条目 |
-| 手机端查词 / 拍照 (CC 连同一 GitHub repo) | dictionary/phrases/grammar/text-analysis (+ sv-librarian 批量) | **直接写 KB**（与 /learn 同），用 `/sync` 一次 commit+push 到 GitHub，其他设备 `git pull` (§4.3) |
+| 手机端**查词/词组/句子/语法**（逐条） | dictionary/phrases/grammar | **直接写 KB**（与 /learn 同），**不自动 push** —— 攒一批后手动 `/sync` (§4.3) |
+| 手机端**拍照/整段文字** | text-analysis (+ sv-librarian 批量) | **直接写 KB** + 建 `sources/`，存完**自动跑 `/sync`**（无需等用户）(§4.3) |
 
 **图片输入**: first transcribe (per swedish-text-analysis), show the transcription in a code block for
-confirmation, then analyze and store.
+confirmation, then analyze and store. **存完后自动运行 `/sync`**（commit+push 到 GitHub），不必等用户
+触发 —— 拍照是一次性的成品事件，见 §4.3。逐条查词则相反：不自动 push，等用户手动 `/sync`。
 
 ### §4.1 跨聊天导入 (Importing from other chats)
 
@@ -173,14 +175,25 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 
 **手机端查词/拍照 = 直接写 `knowledge_base/`**（和 `/learn` 一样：分析 → 查重 → 建链；多条目可 spawn
 `sv-librarian`）。**不走 `inbox/`** —— 因为 `inbox/` 被 `.gitignore`，放那里 git 同步不到电脑端。
-KB 文件本身是 tracked 的，能正常同步。
+KB 文件本身是 tracked 的，能正常同步。但**入库 ≠ 上 GitHub**：写文件只落在本机这份 checkout 上，要
+`git push`（即 `/sync`）才会到 GitHub，别的设备才 `git pull` 得到。
 
-**同步动作 = `/sync`（一次会话一个干净 commit）：**
-- 查词/录入本身**不 push**（否则一词一 commit）。一批查完后运行 `/sync`：重建站点数据 → 暂存
-  `knowledge_base/` + `review/schedule.md` + `profile/` + `site/kb-data.js` → 一个 commit →
-  `pull --rebase` → push 到 GitHub。
-- 其他设备（电脑/手机）`git pull` 即拿到；`site/kb-data.js` 也会由 GitHub Action 在 push 后自动重建。
-- 提示用户：换设备时先 `git pull` 再开始，避免分叉。
+**push 时机分两种输入（关键区别）：**
+
+- **逐条查词/词组/句子/语法 → 不自动 push，等用户手动 `/sync`。**
+  原因：一词一 commit 会把 git 历史打成碎片、每次 push 都付联网+GitHub Action 开销、还增加分叉概率。
+  查词只是即兴动作，**攒一批后跑一次 `/sync`** 才是一个干净 commit。回复末尾提醒「攒完记得 /sync」。
+
+- **拍照/整段文字 → 存完立即自动跑 `/sync`，无需等用户。**
+  原因：拍照是一次性产出一大批条目的「成品事件」，本身就等价于「一个干净 commit」，没有碎片化问题；
+  且照片场景常是临时拍一张就走，用户容易忘记手动 `/sync` 导致丢同步。所以：转写确认 → 分析 →
+  `sv-librarian` 批量写库 + 建 `sources/` → **主 agent 直接调用 `/sync`**（commit+push）→ 回报。
+
+**`/sync` 做的事：** 重建站点数据 → 暂存 `knowledge_base/` + `review/schedule.md` + `profile/` +
+`site/kb-data.js` → 一个 commit → `pull --rebase` → push 到 GitHub。其他设备 `git pull` 即拿到；
+`site/kb-data.js` 也会由 GitHub Action 在 push 后自动重建。
+
+- 提示用户：换设备时先 `git pull`（或开会话让 SessionStart 钩子自动 pull）再开始，避免分叉。
 
 **`inbox/` 自动后台导入仍保留**（用于 `/scenario`、`/adjsubst`、跨聊天 `/import` 这些**合法写 inbox**
 的来源）：
