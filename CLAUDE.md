@@ -46,10 +46,6 @@ and how much detail to extract:
 - `swedish-phrases` — phrases / idioms / partikelverb / situational language (词组)
 - `swedish-grammar` — grammar analysis & lessons (语法)
 - `swedish-text-analysis` — whole texts and **images** (orchestrator for documents)
-- `sv-capture` — **手机/速查模式**: lightweight lookup that gives a concise tutor answer and writes a
-  `svensk-export v1` block to `inbox/capture-<date>-<slug>.md` instead of writing `knowledge_base/`.
-  This is the CC port of the `EXPORT_PROTOCOL.md` chat primer (it auto-drops to `inbox/` rather than
-  waiting for a "导出" command). Triggered by `/capture`, by photos, or by quick lookups on the go.
 - `sv-knowledge-base` — **this project's storage rules**: how to slug, structure, dedup, and link
   files. Read it whenever you store anything.
 - `sv-review` — how to run a review session from the KB.
@@ -68,8 +64,8 @@ Spawn these (Agent tool) for heavy multi-file work so the main thread stays clea
 For a **single word/phrase/sentence**, don't spawn a subagent — just store it inline (it's one or two files).
 
 ### Commands (快捷入口)
-- `/capture` — **手机/速查模式**: analyze a word/phrase/sentence/photo, give a concise answer, and write a `svensk-export v1` block to `inbox/capture-<date>-<slug>.md`. Does NOT write `knowledge_base/` — the desktop side imports it later (§4.3). Uses skill `sv-capture`.
 - `/learn` — analyze + store whatever the user provides (word/phrase/sentence/text/image).
+- `/sync` — commit all local KB changes (knowledge_base/, review, profile, site data) as **one** commit and push to GitHub, so other devices (mobile/desktop, same repo) can `git pull`. Use after a mobile lookup session (see §4.3).
 - `/review` — start a spaced-repetition review session.
 - `/assess` — assess current Swedish level and update the profile.
 - `/kb` — show knowledge-base stats and health (counts, orphan notes, broken links).
@@ -129,7 +125,7 @@ For phrases/sentences where the slug is fuzzy, also `Grep` the folder for the le
 | 语法问题 | swedish-grammar | 1 个 `grammar/` 文件 |
 | 一段文字 / 图片 | swedish-text-analysis → 然后 spawn `sv-librarian` | `sources/` 文件 + 批量 words/phrases/sentences/grammar |
 | 中文/英文求译 | dictionary/phrases | 录入对应瑞典语条目 |
-| 手机端速查 / 拍照速记 (`/capture`) | sv-capture (+ 相应 swedish 技能) | **不写 KB**，只写 `inbox/capture-<date>-<slug>.md`，电脑端自动导入 (§4.3) |
+| 手机端查词 / 拍照 (CC 连同一 GitHub repo) | dictionary/phrases/grammar/text-analysis (+ sv-librarian 批量) | **直接写 KB**（与 /learn 同），用 `/sync` 一次 commit+push 到 GitHub，其他设备 `git pull` (§4.3) |
 
 **图片输入**: first transcribe (per swedish-text-analysis), show the transcription in a code block for
 confirmation, then analyze and store.
@@ -165,25 +161,31 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 
 **Key constraint:** `sv-scenario-writer` must NOT write into `knowledge_base/`. All KB writes happen exclusively through the `/import` pipeline.
 
-### §4.3 自动后台导入 (Desktop auto background import)
+### §4.3 多设备同步 (Multi-device sync via GitHub)
 
-两端分工：**手机端只 capture 写 `inbox/`，电脑端自动把 `inbox/` 排空进 KB。**
+手机端 CC 与电脑端是**同一个 GitHub repo 的两份 checkout**，靠 git 同步。因此：
 
-- 手机端：`/capture` 或发图片 → 写 `inbox/capture-<date>-<slug>.md`（不碰 KB）。
-- 电脑端：`SessionStart` 钩子 (`kb_stats.ps1`) 在开场时检测**待导入文件** = `inbox/` 根目录里除
-  `README.md` 外的 `*.md`（`inbox/imported/` 已处理归档，不计）。
+**手机端查词/拍照 = 直接写 `knowledge_base/`**（和 `/learn` 一样：分析 → 查重 → 建链；多条目可 spawn
+`sv-librarian`）。**不走 `inbox/`** —— 因为 `inbox/` 被 `.gitignore`，放那里 git 同步不到电脑端。
+KB 文件本身是 tracked 的，能正常同步。
 
-**触发规则（你，主 agent，要主动执行）：**
-1. 开场若钩子输出里出现 `📥 待导入 inbox: N 个文件` 这一行，立刻**起一个后台导入代理**：
-   `Agent(subagent_type: "sv-importer", run_in_background: true)`，提示词让它排空 inbox。
-   - 这是后台任务，**不要阻塞用户**——起完代理后用一句话告诉用户"正在后台导入 N 个文件，你继续用"，然后照常处理用户当前的请求。
-   - 代理跑完会回报 manifest；那时再给用户一行收据。
-2. 若 `Agent(sv-importer)` 还没在 `settings.json` 里授权，首次会弹一次权限确认——批准即可
-   （或把 `"Agent(sv-importer)"` 加进 `.claude/settings.json` 的 `permissions.allow`）。
-3. 导入、归档（移到 `inbox/imported/`）、重建站点都由 `sv-importer` 自己完成；你不必再手动 `/import`。
+**同步动作 = `/sync`（一次会话一个干净 commit）：**
+- 查词/录入本身**不 push**（否则一词一 commit）。一批查完后运行 `/sync`：重建站点数据 → 暂存
+  `knowledge_base/` + `review/schedule.md` + `profile/` + `site/kb-data.js` → 一个 commit →
+  `pull --rebase` → push 到 GitHub。
+- 其他设备（电脑/手机）`git pull` 即拿到；`site/kb-data.js` 也会由 GitHub Action 在 push 后自动重建。
+- 提示用户：换设备时先 `git pull` 再开始，避免分叉。
 
-**为什么不用纯脚本/headless 后台：** 那会和你正在用的会话抢同一批文件、产生写冲突、静默烧 token。
-主会话起后台代理更稳、可回报、可被你打断。手机端因为不跑这些 PowerShell 钩子，天然不会触发，分工清晰。
+**`inbox/` 自动后台导入仍保留**（用于 `/scenario`、`/adjsubst`、跨聊天 `/import` 这些**合法写 inbox**
+的来源）：
+1. 电脑端 `SessionStart` 钩子 (`kb_stats.ps1`) 开场检测待导入文件 = `inbox/` 根目录里除 `README.md`
+   外的 `*.md`（`inbox/imported/` 已归档，不计）。
+2. 若钩子输出 `📥 待导入 inbox: N 个文件`，主 agent 立刻起后台导入代理
+   `Agent(subagent_type: "sv-importer", run_in_background: true)` 排空 inbox，**不阻塞用户**；跑完回报。
+   首次若 `Agent(sv-importer)` 未授权会弹一次确认。
+3. 导入、归档（移到 `inbox/imported/`）、重建站点由 `sv-importer` 自己完成。
+
+> 注意：手机端查词**不再**产生 inbox 文件，所以那条链只服务于生成类/跨聊天导入，不与手机查词冲突。
 
 ---
 
