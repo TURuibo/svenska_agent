@@ -33,7 +33,12 @@ $script:HeadlessPidFile = Join-Path $env:TEMP 'svensk-headless-pids.txt'
 function Clear-HeadlessLeftovers {
   # Kill any still-alive PID we recorded in a previous run and never cleaned.
   # Safe: only PIDs written by Invoke-ClaudeHeadless are ever considered.
-  param([int]$GraceMinutes = 5)
+  # GraceMinutes MUST exceed the longest Invoke-ClaudeHeadless timeout (currently the
+  # 20-min /import in import-and-rebuild.ps1). Otherwise a legitimately long-running
+  # sibling headless claude (older than the grace window) gets mistaken for a leftover
+  # and taskkill'd mid-run. 25 > 20 keeps live siblings safe; real orphans from a
+  # crashed run are reaped on a later run once they age past the window.
+  param([int]$GraceMinutes = 25)
   try {
     if (-not (Test-Path $script:HeadlessPidFile)) { return }
     $cutoff = (Get-Date).AddMinutes(-1 * $GraceMinutes)
