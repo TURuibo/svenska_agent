@@ -741,6 +741,99 @@
 | [[ren]] | word | — | 0 | 2.5 | 2026-06-11 | no |
 | [[tallrik]] | word | — | 0 | 2.5 | 2026-06-11 | no |
 
+| **— På restaurang — beställa middag (2026-06-15) — 12词 / 5词组 / 12句 / 0语法(新) —** | | | | | | |
+| [[boka]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[bord]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[meny]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[beställa]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[rödvin]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[köttbulle]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[potatismos]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[grillad]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[lax]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[förrätt]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[nota]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[måltid]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[har-ni-bokat-bord]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[följ-med-mig]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[har-ni-bestämt-er]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[kan-vi-få-notan]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[smaklig-måltid]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-god-kväll-och-välkomna-har-ni-bokat]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-ja-vi-har-bokat-ett-bord-för-två]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-perfekt-det-stämmer-följ-med-mig]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-kan-vi-få-menyn-tack]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-självklart-varsågod-vill-ni-beställa]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-ja-gärna-ett-glas-rödvin-och-vatten]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-har-ni-bestämt-er-eller-behöver-ni]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-jag-tar-köttbullar-med-potatismos]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-utmärkt-val-vill-ni-ha-förrätt]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-nej-tack-det-räcker-bra-men-notan]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-absolut-smaklig-måltid]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-tack-så-mycket-restaurang]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+
+| **— På restaurang — rekommendation, efterrätt, betala (2026-06-15) — 10词 / 8词组 / 15句 —** | | | | | | |
+| [[vegetarisk]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[pasta]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[svamp]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[kött]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[fläskfilé]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[rostad]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[grönsak]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[öl]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[efterrätt]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[äppelpaj]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[är-du-ensam]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[finns-det-något-ledigt-bord]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[vad-rekommenderar-ni]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[dagens-rätt]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[det-låter-gott]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[bra-val]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[vad-har-ni-för]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[välkommen-åter]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-hej-och-välkommen-är-du-ensam]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-ja-jag-är-ensam-finns-det]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-absolut-vi-har-ett-ledigt-bord]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-tack-så-mycket-vad-rekommenderar-ni]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-dagens-rätt-är-en-vegetarisk-pasta]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-det-låter-gott-men-jag-är]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-ja-vi-har-en-fläskfilé]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-då-tar-jag-fläskfilén-tack]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-bra-val-vill-du-ha-efterrätt]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-ja-gärna-vad-har-ni-för]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-vi-har-hemgjord-glass-och-äppelpaj]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-äppelpaj-tack-den-älskar-jag]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-utmärkt-jag-kommer-strax-med-beställning]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-det-var-jättegott-kan-jag-betala]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-självklart-du-kan-betala-här-vid]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+
+| **— Adjektiv+subst böjning: Stad & Trafik (2026-06-15) — 25词 —** | | | | | | |
+| [[bred]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[tom]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[grön]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[tung]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[gul]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[central]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[hög]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[trasig]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[populär]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[trång]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[livlig]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[bil]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[buss]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[gata]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[väg]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[bro]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[station]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[tåg]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[cykel]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[hus]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[lastbil]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[tunnel]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[hållplats]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[parkering]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[stad]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。

@@ -29,6 +29,24 @@ members:
   - förmiddag
   - byggnad
   - skylt
+  - gata
+  - väg
+  - bro
+  - station
+  - hus
+  - tunnel
+  - parkering
+  - stad
+  - hög
+  - bred
+  - trång
+  - grön
+  - gul
+  - central
+  - tom
+  - populär
+  - livlig
+  - trasig
 created: "2026-06-09"
 ---
 
@@ -45,6 +63,8 @@ created: "2026-06-09"
 - [[livsmedelsbutik]] — 食品超市
 - [[byggnad]] — 建筑；楼
 - [[skylt]] — 招牌；标志
+- [[hus]] — 房子；楼房
+- [[station]] — 车站
 
 ### 公共空间 (Offentliga platser)
 - [[park]] — 公园
@@ -52,6 +72,12 @@ created: "2026-06-09"
 - [[trottoar]] — 人行道
 - [[korsning]] — 十字路口
 - [[busshållplats]] — 公共汽车站
+- [[gata]] — 街道
+- [[väg]] — 道路
+- [[bro]] — 桥梁
+- [[tunnel]] — 隧道
+- [[parkering]] — 停车场
+- [[stad]] — 城市
 
 ### 自然与景观 (Natur & Landskap)
 - [[träd]] — 树
@@ -71,6 +97,16 @@ created: "2026-06-09"
 ### 形容词 (Adjektiv)
 - [[solig]] — 晴朗的
 - [[vanlig]] — 普通的
+- [[hög]] — 高的
+- [[bred]] — 宽阔的
+- [[trång]] — 狭窄的；拥挤的
+- [[grön]] — 绿色的
+- [[gul]] — 黄色的
+- [[central]] — 中心的
+- [[tom]] — 空的
+- [[populär]] — 受欢迎的
+- [[livlig]] — 热闹的；活跃的
+- [[trasig]] — 损坏的
 
 ### 名词 (Substantiv)
 - [[förmiddag]] — 上午
@@ -79,6 +115,6 @@ created: "2026-06-09"
 
 ## 备注 (Notes)
 
-- 来源：[[source-2026-06-09-beskriva-en-gata]]
+- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]]
 - 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]
 - 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]
