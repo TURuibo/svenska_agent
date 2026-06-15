@@ -59,7 +59,7 @@ Spawn these (Agent tool) for heavy multi-file work so the main thread stays clea
 - `sv-reviewer` — builds a review session by scanning the KB and the review schedule.
 - `sv-assessor` — assesses level across the whole KB + recent interactions, updates `profile/level.md`.
 - `sv-scenario-writer` — given a scenario topic, generates a level-appropriate Swedish dialogue/text/narrative and writes `inbox/scenario-<date>-<slug>.md` (readable scenario + embedded `svensk-export v1` block). Use when the user runs `/scenario`. Does NOT touch `knowledge_base/`.
-- `sv-importer` — **background inbox drainer**. Spawn it with `run_in_background: true` when the SessionStart hook reports pending un-imported files in `inbox/`. It runs the full import inline (parse → gap-fill → dedup → store → link), archives processed files to `inbox/imported/`, rebuilds the KB site, and reports a manifest — all without blocking the user. See §4.3.
+- `sv-importer` — **background inbox drainer**. Spawn it with `run_in_background: true` when the SessionStart hook reports pending un-imported files in `inbox/`. It runs the full import inline (parse → gap-fill → dedup → store → link), archives processed files to the tracked root `imported/` folder, rebuilds the KB + reading sites, and reports a manifest — all without blocking the user. See §4.3.
 
 For a **single word/phrase/sentence**, don't spawn a subagent — just store it inline (it's one or two files).
 
@@ -185,11 +185,11 @@ KB 文件本身是 tracked 的，能正常同步。
 **`inbox/` 自动后台导入仍保留**（用于 `/scenario`、`/adjsubst`、跨聊天 `/import` 这些**合法写 inbox**
 的来源）：
 1. 电脑端 `SessionStart` 钩子 (`kb_stats.ps1`) 开场检测待导入文件 = `inbox/` 根目录里除 `README.md`
-   外的 `*.md`（`inbox/imported/` 已归档，不计）。
+   外的 `*.md`（已归档的文件已移出 `inbox/`，不计）。
 2. 若钩子输出 `📥 待导入 inbox: N 个文件`，主 agent 立刻起后台导入代理
    `Agent(subagent_type: "sv-importer", run_in_background: true)` 排空 inbox，**不阻塞用户**；跑完回报。
    首次若 `Agent(sv-importer)` 未授权会弹一次确认。
-3. 导入、归档（移到 `inbox/imported/`）、重建站点由 `sv-importer` 自己完成。
+3. 导入、归档（移到 repo 根的 tracked `imported/`）、重建站点由 `sv-importer` 自己完成。
 
 > 注意：手机端查词**不再**产生 inbox 文件，所以那条链只服务于生成类/跨聊天导入，不与手机查词冲突。
 
