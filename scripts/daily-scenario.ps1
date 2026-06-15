@@ -73,8 +73,17 @@ function Show-Toast([string]$Title, [string]$Text) {
 }
 
 if ($file) {
-  "OK: $($file.Name)" | Add-Content -Encoding utf8 $Log
-  Show-Toast "🇸🇪 今日瑞典语情景已生成" "$($file.BaseName)  —  运行 /import 录入知识库"
+  "OK generated: $($file.Name)" | Add-Content -Encoding utf8 $Log
+  # --- 自动 import + rebuild + 归档（共享助手脚本）---
+  $ir = Join-Path $Proj 'scripts\import-and-rebuild.ps1'
+  & powershell.exe -NoProfile -ExecutionPolicy Bypass -File $ir -File $file.FullName
+  $irExit = $LASTEXITCODE
+  "import-and-rebuild exit=$irExit" | Add-Content -Encoding utf8 $Log
+  if ($irExit -eq 0) {
+    Show-Toast "🇸🇪 今日情景已生成并录入" "$($file.BaseName)  —  已进知识库 · 站点已重建"
+  } else {
+    Show-Toast "⚠️ 情景已生成但录入失败" "$($file.BaseName) 仍在 inbox，详见 scripts\import-rebuild.log"
+  }
 } else {
   "ERROR: no inbox file for $stamp" | Add-Content -Encoding utf8 $Log
   Show-Toast "⚠️ scenario 生成失败" "未找到 $stamp 的文件，详见 scripts\scenario-run.log"
