@@ -7,7 +7,8 @@
   返回：成功 exit 0；import 或 rebuild 失败 exit 1（失败时不归档，文件留在 inbox 供重试）。
 #>
 param(
-  [Parameter(Mandatory = $true)][string]$File   # inbox 文件路径（绝对或相对项目根）
+  [Parameter(Mandatory = $true)][string]$File,  # inbox 文件路径（绝对或相对项目根）
+  [switch]$NoPush                                # 加上则跳过 push（只本地导入+重建+归档）
 )
 
 $ErrorActionPreference = 'Stop'
@@ -51,8 +52,29 @@ $buildExit = $LASTEXITCODE
 if ($buildExit -ne 0) { "ERROR: rebuild failed, not archiving" | Add-Content -Encoding utf8 $Log; exit 1 }
 
 # --- 3) 归档到 imported/ ---
+# 必须在重建 reading 数据之前归档：阅读站靠"文件在 inbox 还是 imported"判定 待导入/已导入。
 if (-not (Test-Path $Imported)) { New-Item -ItemType Directory -Path $Imported | Out-Null }
 Move-Item -Path $path -Destination (Join-Path $Imported $base) -Force
-"OK: imported + rebuilt + archived $base" | Add-Content -Encoding utf8 $Log
+"OK: imported + kb-rebuilt + archived $base" | Add-Content -Encoding utf8 $Log
+
+# --- 4) 重建 Läsning 阅读数据（归档之后，状态才正确）。best-effort：失败只记日志，不回滚 ---
+$readOut = cmd /c "node tools\build-reading-site.js 2>&1" | Out-String
+$readOut | Add-Content -Encoding utf8 $Log
+"node build-reading-site exit=$LASTEXITCODE" | Add-Content -Encoding utf8 $Log
+
+# --- 5) 推送到 GitHub（best-effort：push 失败不影响已成功的导入/归档）---
+if (-not $NoPush) {
+  try {
+    Write-Host "==> push via tools/sync-kb.ps1"
+    & powershell -NoProfile -ExecutionPolicy Bypass -File (Join-Path $Proj 'tools\sync-kb.ps1') `
+        -Message "Daily auto-import $base"
+    "sync-kb exit=$LASTEXITCODE" | Add-Content -Encoding utf8 $Log
+  } catch {
+    "WARN: push failed (import succeeded, will sync next time): $($_.Exception.Message)" | Add-Content -Encoding utf8 $Log
+  }
+} else {
+  "push skipped (-NoPush)" | Add-Content -Encoding utf8 $Log
+}
+
 "==== $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') import+rebuild end ====" | Add-Content -Encoding utf8 $Log
 exit 0
