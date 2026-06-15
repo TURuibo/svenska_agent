@@ -211,6 +211,22 @@
   overflow-x: auto;
 }
 .articleBody pre code { border: none; background: none; padding: 0; }
+.articleBody table {
+  border-collapse: collapse;
+  margin: 14px 0;
+  font-size: 0.92em;
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+}
+.articleBody th, .articleBody td {
+  border: 1px solid var(--line);
+  padding: 6px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+.articleBody th { background: var(--paper); font-weight: 600; }
+.articleBody tbody tr:nth-child(even) { background: rgba(0,0,0,0.02); }
 .articleBody a { color: var(--blue); }
 
 /* Chinese-translation blocks (data-zh="1") get a subtle left rule so they read as a parallel layer. */

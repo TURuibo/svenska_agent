@@ -72,6 +72,31 @@
         zhZone = /翻译|译文|中文/.test(text);
         out.push(`<h${level}${z()}>${inline(text)}</h${level}>`); i += 1; continue;
       }
+      // GFM table: a header row `| a | b |` immediately followed by a separator row `|---|---|`.
+      const isTableRow = (s) => /\|/.test(s) && /\S/.test(s);
+      const isTableSep = (s) => /^\s*\|?\s*:?-{1,}:?\s*(\|\s*:?-{1,}:?\s*)+\|?\s*$/.test(s);
+      const splitRow = (s) => {
+        let t = s.trim().replace(/^\|/, '').replace(/\|$/, '');
+        return t.split('|').map((c) => c.trim());
+      };
+      if (isTableRow(line) && i + 1 < lines.length && isTableSep(lines[i + 1])) {
+        closeList();
+        const head = splitRow(line);
+        i += 2; // skip header + separator
+        const rows = [];
+        while (i < lines.length && isTableRow(lines[i]) && !isTableSep(lines[i])) {
+          rows.push(splitRow(lines[i])); i += 1;
+        }
+        let html = `<table${z()}><thead><tr>` +
+          head.map((c) => `<th>${inline(c)}</th>`).join('') + '</tr></thead>';
+        if (rows.length) {
+          html += '<tbody>' + rows.map((r) =>
+            '<tr>' + head.map((_h, ci) => `<td>${inline(r[ci] || '')}</td>`).join('') + '</tr>'
+          ).join('') + '</tbody>';
+        }
+        html += '</table>';
+        out.push(html); continue;
+      }
       const li = line.match(/^\s*[-*]\s+(.+)$/);
       if (li) { if (!inList) { out.push(`<ul${z()}>`); inList = true; } out.push('<li>' + inline(li[1]) + '</li>'); i += 1; continue; }
       if (line.trim() === '') { closeList(); i += 1; continue; }
