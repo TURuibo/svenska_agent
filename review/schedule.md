@@ -834,6 +834,49 @@
 | [[parkering]] | word | — | 0 | 2.5 | 2026-06-15 | no |
 | [[stad]] | word | — | 0 | 2.5 | 2026-06-15 | no |
 
+| **— På restaurang — fira födelsedag (2026-06-15) — 12词 / 9词组 / 20句 / 0语法(新) —** | | | | | | |
+| [[fira]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[födelsedag]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[reservera]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[grattis]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[servitör]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[champagne]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[mousserande]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[lammkotlett]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[örtsås]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[föredra]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[överraskning]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[rörd]] | word | — | 0 | 2.5 | 2026-06-15 | no |
+| [[grattis-på-födelsedagen]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[mousserande-vin]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[dela-på-notan]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[dela-på-en-sallad]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[kvällens-rätt]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[ta-in-allt-tillsammans]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[skål-för]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[en-kopp-kaffe]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[förlåt-att-jag-stör]] | phrase | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-ni-har-reserverat-för-sex-gäster]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-ja-det-stämmer-det-är-min]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-grattis-jag-heter-mikael-och-tar]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-får-jag-visa-er-till-bordet]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-lisa-vi-är-så-glada-att]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-och-jag-är-jätteglad-att-ni]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-får-jag-ta-er-beställning]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-vi-har-mousserande-vin-och-champagne]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-vi-tar-en-flaska-champagne-till]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-kvällens-rätt-är-lammkotlett-med-örtsås]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-jag-tar-lammkottletten-det-låter-fantastiskt]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-jag-föredrar-fisken-vad-säger-du]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-kan-vi-dela-på-en-sallad]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-skål-för-födelsedagsfirandet]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-vi-har-en-liten-överraskning-till]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-grattis-på-födelsedagen-lisa]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-åh-vad-fint-jag-är-alldeles]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-vill-ni-ha-notan-nu-eller]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-en-kopp-kaffe-tack-och-sedan]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+| [[sent-naturligtvis-jag-kommer-strax]] | sentence | — | 0 | 2.5 | 2026-06-15 | no |
+
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。
