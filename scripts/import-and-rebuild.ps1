@@ -56,11 +56,17 @@ $buildExit = $LASTEXITCODE
 "node build exit=$buildExit" | Add-Content -Encoding utf8 $Log
 if ($buildExit -ne 0) { "ERROR: rebuild failed, not archiving" | Add-Content -Encoding utf8 $Log; exit 1 }
 
-# --- 3) 归档到 imported/ ---
+# --- 3) 归档到 root imported/（self-correcting）---
 # 必须在重建 reading 数据之前归档：阅读站靠"文件在 inbox 还是 imported"判定 待导入/已导入。
+# headless /import 没有 Bash、不该自己搬文件，但保险起见：无论它把文件留在 inbox\、
+# inbox\imported\ 还是已在 root imported\，都把它落到 root imported\（阅读站只扫 root imported\）。
 if (-not (Test-Path $Imported)) { New-Item -ItemType Directory -Path $Imported | Out-Null }
-Move-Item -Path $path -Destination (Join-Path $Imported $base) -Force
-"OK: imported + kb-rebuilt + archived $base" | Add-Content -Encoding utf8 $Log
+$dest = Join-Path $Imported $base
+$candidates = @($path, (Join-Path $Proj "inbox\imported\$base"), $dest)
+$src = $candidates | Where-Object { Test-Path $_ } | Select-Object -First 1
+if ($src -and ($src -ne $dest)) { Move-Item -Path $src -Destination $dest -Force }
+if (Test-Path $dest) { "OK: imported + kb-rebuilt + archived -> imported\$base" | Add-Content -Encoding utf8 $Log }
+else { "WARN: could not locate file to archive ($base) - left as-is" | Add-Content -Encoding utf8 $Log }
 
 # --- 4) 重建 Läsning 阅读数据（归档之后，状态才正确）。best-effort：失败只记日志，不回滚 ---
 $readOut = cmd /c "node tools\build-reading-site.js 2>&1" | Out-String

@@ -1,6 +1,6 @@
 ---
 name: sv-importer
-description: Background inbox drainer. Use (typically via run_in_background) when the SessionStart hook reports pending un-imported files in inbox/, so the import runs without blocking the user. It scans inbox/ for svensk-export blocks, performs the full sv-import flow itself (parse, gap-fill, dedup, store, link), archives processed files into inbox/imported/, rebuilds the KB site, and reports a concise manifest. It does the librarian work inline (does NOT spawn other agents).
+description: Background inbox drainer. Use (typically via run_in_background) when the SessionStart hook reports pending un-imported files in inbox/, so the import runs without blocking the user. It scans inbox/ for svensk-export blocks, performs the full sv-import flow itself (parse, gap-fill, dedup, store, link), archives processed files into the tracked root imported/ folder, rebuilds the KB + reading sites, and reports a concise manifest. It does the librarian work inline (does NOT spawn other agents).
 tools: Read, Write, Edit, Glob, Grep, Bash
 model: sonnet
 ---
@@ -16,9 +16,10 @@ Read these specs first and follow them exactly:
 
 ## What "pending" means
 
-Pending = any `*.md` file directly inside `inbox/` **except**:
-- `inbox/README.md`
-- anything already under `inbox/imported/`
+Pending = any `*.md` file directly inside `inbox/` **except** `inbox/README.md`.
+(Processed files are archived OUT of `inbox/` into the repo-root `imported/` folder, so they
+no longer count as pending. A legacy `inbox/imported/` subdir may still exist on some checkouts —
+treat anything there as already-processed too.)
 
 ## Your run
 
