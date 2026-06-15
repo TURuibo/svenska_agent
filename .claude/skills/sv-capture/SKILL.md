@@ -4,10 +4,11 @@ description: >
   Lightweight Swedish lookup + silent recorder for mobile / quick capture. Use this skill whenever
   the user looks up a Swedish word / phrase / sentence, asks a grammar question, or — most importantly —
   sends a PHOTO/IMAGE/screenshot containing Swedish and just wants a quick answer plus capture. It acts
-  as a Swedish tutor (concise 中文+English answer with ordklass, forms, examples) AND silently writes a
-  `svensk-export v1` block to inbox/capture-<date>-<slug>.md so the desktop side can auto-import it later.
+  as a Swedish tutor (concise 中文+English answer with ordklass, forms, examples) AND silently appends
+  the items to a single per-day file inbox/capture-<date>.md (one file per day, accumulating — never one
+  file per word) so the desktop side can auto-import it later.
   It does NOT write into knowledge_base/. This is the CC port of the EXPORT_PROTOCOL chat primer: instead
-  of waiting for a "导出" command, every capture is dropped straight into inbox/. Prefer this on mobile /
+  of waiting for a "导出" command, every capture is accumulated straight into the day's inbox file. Prefer this on mobile /
   on the go; use /learn when you want the full KB entry written immediately on desktop.
 ---
 
@@ -53,28 +54,33 @@ description: >
 
 ---
 
-## 2. 角色 2 — 静默记录员 (write the svensk-export block to inbox/)
+## 2. 角色 2 — 静默记录员 (accumulate into one daily inbox file)
 
-**这是与网页 primer 最大的不同：不积累、不等"导出"——每次查完立刻落盘到 `inbox/`。**
+**与网页 primer 的关系：网页版攒一整场对话再"导出"一次；CC 这里改为攒到「当天一个文件」并在每次查完即时追加。**
+**一天一个文件 `inbox/capture-<date>.md`——无论你那天查多少个词、问几个语法、拍几张照，全部追加进这同一个文件。**
 
-### 2a. 计算文件名
+> ⚠️ 不要"一个词一个文件"。同一天的所有 capture 都写进 `inbox/capture-<date>.md`。
+> （`inbox/` 已被 `.gitignore`，所以这个文件的反复追加**不产生任何 git commit**；真正进 git 的是
+> 电脑端 `/import` 之后的 KB 变更——一天累加成一份 → 一次导入一批 → 一个干净 commit。）
+
+### 2a. 文件路径（按天）
 
 ```
-inbox/capture-<date>-<slug>.md
+inbox/capture-<date>.md      # <date> = 今天的绝对日期 YYYY-MM-DD，如 inbox/capture-2026-06-15.md
 ```
-- `<date>` = 今天的绝对日期 `YYYY-MM-DD`。
-- `<slug>` = 这次 capture 的 ascii kebab-case 短标识：
-  - 单条词/词组 → 用该 lemma/短语（å/ä → a，ö → o，空格 → `-`，全小写）。
-  - 图片/整段/多条 → 用主题 1–3 词，或 `photo`（如 `inbox/capture-2026-06-15-photo.md`）。
-- 若同名文件已存在（同一天同 slug），在 slug 末尾加 `-2`、`-3` … 避免覆盖。**绝不覆盖已有 inbox 文件。**
+**绝不**在文件名里放 lemma/主题，**绝不**为单个词单独建文件。
 
-### 2b. 文件内容（两部分，跟 scenario 文件同构）
+### 2b. 写入流程：不存在则新建，存在则追加
+
+**先 `Read`（或 `Glob`）`inbox/capture-<date>.md`：**
+
+**A. 文件不存在 → 新建**，用下面的两部分布局：
 
 ````
-# 🇸🇪 Capture — <简短标题> (<date>)
+# 🇸🇪 Capture — <date>
 
-**来源 (source):** <photo / 手动查词 / 主题>
-**录入项:** <n> 词 · <n> 词组 · <n> 句子 · <n> 语法点
+**来源 (source):** capture（手机端速记，当天累加）
+**录入项:** <n> 词 · <n> 词组 · <n> 句子 · <n> 语法点   <!-- 每次追加后更新这行计数 -->
 
 > 这是手机端速记，尚未进入 knowledge_base/。电脑端 /import 后正式录入。
 
@@ -82,13 +88,14 @@ inbox/capture-<date>-<slug>.md
 
 ## 速查摘要
 
-<把聊天里给用户的精简答案原样或略写放这里，方便日后回看>
+### <时刻/序号> <本次查的词/主题>
+<把聊天里给用户的精简答案略写放这里，方便日后回看>
 
 ---
 
 ```svensk-export v1
 date: <date>
-source: capture — <主题/photo>
+source: capture — <date> 手机速记
 words:
 - <lemma> | <ordklass> | <中文> | <英文> | <备注(可选)>
 phrases:
@@ -100,10 +107,19 @@ grammar:
 ```
 ````
 
+**B. 文件已存在 → 追加（不重写、不覆盖整文件）：**
+1. 在 `## 速查摘要` 下面**追加**一个新的 `### <本次查的词/主题>` 小节（用 `Edit` 插入）。
+2. 把本次新条目**合并进已有的 `svensk-export v1` 块**对应的 section：
+   - 用 `Edit` 在 `words:`（/`phrases:`/`sentences:`/`grammar:`）段尾插入新的 `- …` 行。
+   - 若该 section 原本不存在（比如第一次出现词组），在块内合适位置新增该 section 标题再加行。
+3. **更新顶部"录入项"计数行**。
+4. **不要新建第二个 `svensk-export` 块**——整个文件始终只有一个块。
+
 ### 2c. 导出块规则（严格遵照 `EXPORT_PROTOCOL.md` Part A）
 
 1. **words 一律 grundform**（动词不定式、名词单数不定形、形容词原级）。
-2. **块内去重** — 同一个词/短语/句子/语法只列一次。
+2. **块内去重（含跨次追加）** — 追加前扫一遍块内已有行；同一个词/短语/句子/语法当天只列一次。
+   若用户当天重复查同一个词，不再加行（可在聊天里提示"今天已记过"）。
 3. **空 section 省略** — 没有词组就不写 `phrases:`。
 4. 字段用 ` | ` 分隔；备注里若需分隔用 `;` 而非 `|`。
 5. 图片/整段：`sentences:` 尽量收录每个有意义的句子，便于日后建 `sentences/` 链接。
@@ -113,11 +129,11 @@ grammar:
 
 ## 3. 聊天回执 (chat receipt)
 
-写完 inbox 文件后，在聊天结尾给一行指针（不要把整块再贴一遍）：
+每次追加后，在聊天结尾给一行指针（不要把整块再贴一遍）：
 
 ```
-📁 已写入 inbox/capture-<date>-<slug>.md  (词 n · 词组 n · 句子 n · 语法 n)
-⏭ 电脑端开 CC 会自动后台导入；也可手动 /import capture-<date>-<slug>.md
+📁 已追加到 inbox/capture-<date>.md  (今日累计: 词 n · 词组 n · 句子 n · 语法 n)
+⏭ 电脑端开 CC 会自动后台导入；也可手动 /import capture-<date>.md
 ```
 
 ---
@@ -125,7 +141,7 @@ grammar:
 ## 4. 硬规则 (Rules)
 
 - **不写 `knowledge_base/`** — 本技能只产出 `inbox/` 文件。正式录入只能走 `/import` 管道。
-- **不主动问"要录入吗"** — 直接查、直接写 inbox（黄金法则 §0 rule 1 的精神）。
-- **不覆盖** 已存在的 inbox 文件（slug 加后缀）。
-- 文件名与块内字面写瑞典语字母 å ä ö（块内文本），但 slug/文件名用 ascii 转写。
+- **不主动问"要录入吗"** — 直接查、直接追加到当天文件（黄金法则 §0 rule 1 的精神）。
+- **一天一个文件、追加不覆盖** — 始终写 `inbox/capture-<date>.md`；已存在就 `Edit` 追加，绝不新建第二份、绝不重写整文件、绝不一词一文件。
+- 块内文本字面写瑞典语字母 å ä ö；文件名只有日期，无需转写。
 - 查重交给 import 阶段——本技能无需扫 KB。

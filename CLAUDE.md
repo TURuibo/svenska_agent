@@ -47,7 +47,8 @@ and how much detail to extract:
 - `swedish-grammar` — grammar analysis & lessons (语法)
 - `swedish-text-analysis` — whole texts and **images** (orchestrator for documents)
 - `sv-capture` — **手机/速查模式**: lightweight lookup that gives a concise tutor answer and writes a
-  `svensk-export v1` block to `inbox/capture-<date>-<slug>.md` instead of writing `knowledge_base/`.
+  `svensk-export v1` block to a per-day file `inbox/capture-<date>.md` (appending, not one-file-per-word)
+  instead of writing `knowledge_base/`.
   This is the CC port of the `EXPORT_PROTOCOL.md` chat primer (it auto-drops to `inbox/` rather than
   waiting for a "导出" command). Triggered by `/capture`, by photos, or by quick lookups on the go.
 - `sv-knowledge-base` — **this project's storage rules**: how to slug, structure, dedup, and link
@@ -68,7 +69,7 @@ Spawn these (Agent tool) for heavy multi-file work so the main thread stays clea
 For a **single word/phrase/sentence**, don't spawn a subagent — just store it inline (it's one or two files).
 
 ### Commands (快捷入口)
-- `/capture` — **手机/速查模式**: analyze a word/phrase/sentence/photo, give a concise answer, and write a `svensk-export v1` block to `inbox/capture-<date>-<slug>.md`. Does NOT write `knowledge_base/` — the desktop side imports it later (§4.3). Uses skill `sv-capture`.
+- `/capture` — **手机/速查模式**: analyze a word/phrase/sentence/photo, give a concise answer, and append it to the per-day file `inbox/capture-<date>.md` (one file per day, accumulating — never one-file-per-word). Does NOT write `knowledge_base/` — the desktop side imports it later (§4.3). Uses skill `sv-capture`.
 - `/learn` — analyze + store whatever the user provides (word/phrase/sentence/text/image).
 - `/review` — start a spaced-repetition review session.
 - `/assess` — assess current Swedish level and update the profile.
@@ -129,7 +130,7 @@ For phrases/sentences where the slug is fuzzy, also `Grep` the folder for the le
 | 语法问题 | swedish-grammar | 1 个 `grammar/` 文件 |
 | 一段文字 / 图片 | swedish-text-analysis → 然后 spawn `sv-librarian` | `sources/` 文件 + 批量 words/phrases/sentences/grammar |
 | 中文/英文求译 | dictionary/phrases | 录入对应瑞典语条目 |
-| 手机端速查 / 拍照速记 (`/capture`) | sv-capture (+ 相应 swedish 技能) | **不写 KB**，只写 `inbox/capture-<date>-<slug>.md`，电脑端自动导入 (§4.3) |
+| 手机端速查 / 拍照速记 (`/capture`) | sv-capture (+ 相应 swedish 技能) | **不写 KB**，累加进当天 `inbox/capture-<date>.md`，电脑端自动导入 (§4.3) |
 
 **图片输入**: first transcribe (per swedish-text-analysis), show the transcription in a code block for
 confirmation, then analyze and store.
@@ -169,7 +170,7 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 
 两端分工：**手机端只 capture 写 `inbox/`，电脑端自动把 `inbox/` 排空进 KB。**
 
-- 手机端：`/capture` 或发图片 → 写 `inbox/capture-<date>-<slug>.md`（不碰 KB）。
+- 手机端：`/capture` 或发图片 → 累加进当天 `inbox/capture-<date>.md`（不碰 KB；一天一文件，追加去重）。
 - 电脑端：`SessionStart` 钩子 (`kb_stats.ps1`) 在开场时检测**待导入文件** = `inbox/` 根目录里除
   `README.md` 外的 `*.md`（`inbox/imported/` 已处理归档，不计）。
 
