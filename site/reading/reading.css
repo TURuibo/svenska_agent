@@ -250,6 +250,9 @@
 .viewBtn:hover { border-color: var(--gold); }
 .viewBtn.on { background: var(--green); color: #fff; border-color: var(--green); }
 
+/* 「← 列表」back button — only meaningful in the mobile master-detail view */
+.mobileBack { display: none; }
+
 /* 精读模式 (recall): hide 🇨🇳 blocks behind a click-to-peek veil */
 .articleBody.recall [data-zh="1"] {
   position: relative;
@@ -273,8 +276,27 @@
 .articleBody.recall [data-zh="1"].peek::after { content: none; }
 
 @media (max-width: 760px) {
-  .readingMain { grid-template-columns: 1fr; }
-  .articleList { position: static; max-height: 320px; }
-  .articleView { padding: 20px 18px 30px; }
+  /* Header scrolls away (not sticky) so reading text can use the full screen. */
+  .readingHeader { position: static; }
+  .readingHeaderInner { padding: 12px 16px 6px; }
+  .readingBrand h1 { font-size: 22px; }
+  .filterBar { padding: 6px 16px 10px; }
+  .readingSearch input { min-width: 0; flex: 1 1 140px; }
+
+  .readingMain {
+    grid-template-columns: 1fr;
+    gap: 0;
+    padding: 14px 14px 50px;
+  }
+
+  /* No more 320px cap: the list is the whole screen until you pick an article. */
+  .articleList { position: static; max-height: none; overflow: visible; }
+  .articleView { padding: 18px 16px 36px; border-radius: 12px; }
   .articleBody { font-size: 17px; }
+
+  /* Master-detail: show the list OR the reading pane, never both at once. */
+  .readingMain.viewing .articleList { display: none; }
+  .readingMain:not(.viewing) .articleView { display: none; }
+
+  .mobileBack { display: inline-flex; align-items: center; }
 }
