@@ -229,7 +229,8 @@ Follow CLAUDE.md §0 rule 2: concise in chat, full detail in files.
 
 **Only when the source was an inbox file** (not a pasted block): after the items have been
 successfully stored, move the file to the **tracked** `imported/` folder at the repo root so it is no
-longer counted as "pending" — and, crucially, so its **readable text is preserved in git**:
+longer counted as "pending" — and, crucially, so its **readable text is preserved in git** and shows up
+in the Läsning reading site (`site/reading/`):
 
 ```
 inbox/<file>.md  →  imported/<file>.md
@@ -242,15 +243,18 @@ powershell -NoProfile -Command "Move-Item -LiteralPath 'inbox\<file>.md' -Destin
 
 Rules:
 - Move **after** a successful store, never before.
-- Archive to the **root `imported/`** dir (tracked) — NOT `inbox/imported/`. Keeping the readable
-  scenario/paste file there preserves `/scenario` output in git after import.
+- Archive to the **root `imported/`** dir (tracked) — NOT `inbox/imported/`. The reading-site builder
+  (`tools/build-reading-site.js`) scans `inbox/` (待导入) and `imported/` (已导入); keeping the readable
+  scenario/paste file there is how `/scenario` output stays readable as an article after import.
 - If a file had **no** `svensk-export` block, leave it in `inbox/` (do not archive).
-- A pasted-in block (no source file) has nothing to archive.
+- A pasted-in block (no source file) has nothing to archive — but you may still drop a readable
+  `imported/paste-<date>-<slug>.md` copy if you want it in the reading site.
 
 This keeps `inbox/` showing only un-imported files, which is what the SessionStart hook and the
 background `sv-importer` agent use to detect pending work (see CLAUDE.md §4.3).
 
-Per the project memory, rebuild the generated site after any KB write so viewer data stays current:
+Per the project memory, rebuild **both** generated sites after any KB write so viewer data stays current:
 ```
 powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1   # KB viewer + slugs.json
+node tools/build-reading-site.js                                              # Läsning reading data
 ```

@@ -59,7 +59,7 @@ Spawn these (Agent tool) for heavy multi-file work so the main thread stays clea
 - `sv-reviewer` — builds a review session by scanning the KB and the review schedule.
 - `sv-assessor` — assesses level across the whole KB + recent interactions, updates `profile/level.md`.
 - `sv-scenario-writer` — given a scenario topic, generates a level-appropriate Swedish dialogue/text/narrative and writes `inbox/scenario-<date>-<slug>.md` (readable scenario + embedded `svensk-export v1` block). Use when the user runs `/scenario`. Does NOT touch `knowledge_base/`.
-- `sv-importer` — **background inbox drainer**. Spawn it with `run_in_background: true` when the SessionStart hook reports pending un-imported files in `inbox/`. It runs the full import inline (parse → gap-fill → dedup → store → link), archives processed files to the tracked root `imported/` folder, rebuilds the KB site, and reports a manifest — all without blocking the user. See §4.3.
+- `sv-importer` — **background inbox drainer**. Spawn it with `run_in_background: true` when the SessionStart hook reports pending un-imported files in `inbox/`. It runs the full import inline (parse → gap-fill → dedup → store → link), archives processed files to the tracked root `imported/` folder, rebuilds the KB + reading sites, and reports a manifest — all without blocking the user. See §4.3.
 
 For a **single word/phrase/sentence**, don't spawn a subagent — just store it inline (it's one or two files).
 
@@ -163,8 +163,11 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 
 **Key constraint:** `sv-scenario-writer` must NOT write into `knowledge_base/`. All KB writes happen exclusively through the `/import` pipeline.
 
-**归档已生成的情景:** `/import` 把 inbox 文件的学习项拆进 KB 后，会把那份**可读正文**
-（🇸🇪 原文 + 🇨🇳 翻译 + 教学备注）归档到 repo 根的 **`imported/`**（tracked），保留在 git 历史里。
+**阅读已生成的情景 (Läsning reading site):** `/import` 把 inbox 文件的学习项拆进 KB 后，会把那份**可读正文**
+（🇸🇪 原文 + 🇨🇳 翻译 + 教学备注）归档到 repo 根的 **`imported/`**（tracked）。`tools/build-reading-site.js`
+扫描 `inbox/`(待导入) + `imported/`(已导入) 生成 `site/reading/reading-data.js`，于是所有情景/文章都能在
+**Läsning 阅读站**（`site/reading/`，主站侧栏 📖 入口）当文章阅读，可切换中文翻译显隐。导入后务必重建该数据
+（`node tools/build-reading-site.js`，已接入 `/import`、`/sync`、GitHub Action）。
 
 ### §4.3 多设备同步 (Multi-device sync via GitHub)
 

@@ -1,0 +1,337 @@
+/* Läsning — reading viewer. Uses the shared palette from ../styles.css. */
+
+.readingBody {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+}
+
+.readingHeader {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: var(--panel);
+  border-bottom: 1px solid var(--line);
+  box-shadow: 0 2px 10px rgba(32, 47, 38, 0.05);
+}
+
+.readingHeaderInner {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 16px 24px 10px;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.readingBrand h1 {
+  margin: 2px 0 4px;
+  font-size: 26px;
+}
+.brandSub {
+  font-family: var(--cjk);
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--muted);
+}
+.eyebrow {
+  margin: 0;
+  font-family: var(--cjk);
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+.updated {
+  margin: 0;
+  font-family: var(--cjk);
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.readingNav { display: flex; gap: 8px; }
+.navLink {
+  font-family: var(--cjk);
+  font-size: 13px;
+  text-decoration: none;
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 6px 12px;
+  background: var(--paper);
+}
+.navLink:hover { border-color: var(--gold); color: var(--gold); }
+
+.filterBar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 24px 12px;
+  max-width: 1180px;
+  margin: 0 auto;
+  font-family: var(--cjk);
+}
+.filterLabel { font-size: 13px; color: var(--muted); }
+.kindFilter, .toggleBtn {
+  font-family: var(--cjk);
+  font-size: 13px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 5px 12px;
+  cursor: pointer;
+}
+.kindFilter:hover, .toggleBtn:hover { border-color: var(--gold); }
+.kindFilter.active { background: var(--green); color: #fff; border-color: var(--green); }
+.toggleBtn.active { background: var(--blue); color: #fff; border-color: var(--blue); }
+.filterDivider {
+  width: 1px;
+  height: 20px;
+  background: var(--line);
+  margin: 0 4px;
+}
+.readingSearch input {
+  font-family: var(--cjk);
+  font-size: 13px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 6px 12px;
+  background: var(--panel);
+  color: var(--ink);
+  min-width: 200px;
+}
+
+/* ---------- layout ---------- */
+
+.readingMain {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 20px;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 20px 24px 60px;
+  align-items: start;
+}
+
+.articleList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: sticky;
+  top: 132px;
+  max-height: calc(100vh - 150px);
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.articleCard {
+  text-align: left;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--panel);
+  padding: 12px 14px;
+  cursor: pointer;
+  font-family: var(--cjk);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.articleCard:hover { border-color: var(--gold); }
+.articleCard.active {
+  border-color: var(--green);
+  box-shadow: 0 0 0 2px var(--green) inset;
+}
+.cardTop { display: flex; gap: 6px; margin-bottom: 6px; }
+.cardKind, .cardStatus {
+  font-size: 11px;
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-weight: 600;
+}
+.kind-scenario { background: rgba(47, 111, 85, 0.14); color: var(--green); }
+.kind-paste    { background: rgba(49, 95, 125, 0.14); color: var(--blue); }
+.kind-adjsubst { background: rgba(169, 120, 42, 0.16); color: var(--gold); }
+.kind-other    { background: var(--paper); color: var(--muted); }
+.cardStatus { border: 1px solid var(--line); color: var(--muted); }
+.status-pending { color: var(--gold); border-color: var(--gold); }
+.status-imported { color: var(--green); border-color: var(--green); }
+.cardTitle {
+  font-family: "Iowan Old Style", Georgia, serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-bottom: 4px;
+}
+.cardMeta { font-size: 12px; color: var(--muted); }
+
+/* ---------- reading pane ---------- */
+
+.articleView {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 28px 34px 40px;
+  box-shadow: var(--shadow);
+  min-height: 60vh;
+}
+.viewEmpty { color: var(--muted); font-family: var(--cjk); text-align: center; padding: 40px 0; }
+
+.viewHead { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 6px; }
+.viewCefr {
+  font-family: var(--cjk); font-size: 12px; font-weight: 600;
+  color: var(--gold); border: 1px solid var(--gold); border-radius: 999px; padding: 2px 8px;
+}
+.viewDate { font-family: var(--cjk); font-size: 12px; color: var(--muted); }
+.viewCounts { font-family: var(--cjk); font-size: 13px; color: var(--muted); margin: 4px 0 16px; }
+
+.articleBody { font-size: 18px; line-height: 1.8; }
+.articleBody h1 { font-size: 24px; margin: 22px 0 12px; }
+.articleBody h2 { font-size: 20px; margin: 22px 0 10px; padding-bottom: 4px; border-bottom: 1px solid var(--line); }
+.articleBody h3 { font-size: 17px; margin: 18px 0 8px; font-family: var(--cjk); }
+.articleBody h4 { font-size: 15px; margin: 14px 0 6px; font-family: var(--cjk); color: var(--muted); }
+.articleBody p { margin: 10px 0; }
+.articleBody ul { margin: 8px 0 8px 4px; padding-left: 20px; }
+.articleBody li { margin: 4px 0; }
+.articleBody hr { border: none; border-top: 1px solid var(--line); margin: 20px 0; }
+.articleBody code {
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 0.85em;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 1px 5px;
+}
+.articleBody pre {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px 14px;
+  overflow-x: auto;
+}
+.articleBody pre code { border: none; background: none; padding: 0; }
+.articleBody table {
+  border-collapse: collapse;
+  margin: 14px 0;
+  font-size: 0.92em;
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+}
+.articleBody th, .articleBody td {
+  border: 1px solid var(--line);
+  padding: 6px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+.articleBody th { background: var(--paper); font-weight: 600; }
+.articleBody tbody tr:nth-child(even) { background: rgba(0,0,0,0.02); }
+.articleBody a { color: var(--blue); }
+
+/* Chinese-translation blocks (data-zh="1") get a subtle left rule so they read as a parallel layer. */
+.articleBody [data-zh="1"] { font-family: var(--cjk); }
+.articleBody h2[data-zh="1"], .articleBody h3[data-zh="1"] { color: var(--blue); border-color: rgba(49,95,125,0.3); }
+.articleBody p[data-zh="1"], .articleBody li[data-zh="1"] { color: var(--muted); }
+
+.listLoading, .listEmpty { font-family: var(--cjk); color: var(--muted); font-size: 14px; }
+
+/* 已读 marker */
+.cardRead { font-size: 11px; color: var(--green); font-weight: 600; margin-left: auto; }
+.articleCard.read .cardTitle { opacity: 0.62; }
+
+/* reading-pane action buttons */
+.viewSpacer { flex: 1 1 auto; }
+.viewBtn {
+  font-family: var(--cjk); font-size: 12px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--paper); color: var(--ink);
+  border-radius: 999px; padding: 4px 10px;
+}
+.viewBtn:hover { border-color: var(--gold); }
+.viewBtn.on { background: var(--green); color: #fff; border-color: var(--green); }
+
+/* 「← 列表」back button — only meaningful in the mobile master-detail view */
+.mobileBack { display: none; }
+
+/* 精读模式 (recall): hide 🇨🇳 blocks behind a click-to-peek veil */
+.articleBody.recall [data-zh="1"] {
+  position: relative;
+  color: transparent;
+  background: repeating-linear-gradient(45deg, var(--paper), var(--paper) 6px, var(--line) 6px, var(--line) 7px);
+  border-radius: 6px;
+  cursor: pointer;
+  user-select: none;
+}
+.articleBody.recall [data-zh="1"] * { visibility: hidden; }
+.articleBody.recall [data-zh="1"]::after {
+  content: "🇨🇳 点击显示翻译";
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--cjk); font-size: 13px; color: var(--muted); visibility: visible;
+}
+.articleBody.recall [data-zh="1"].peek {
+  color: inherit; background: none; cursor: default;
+}
+.articleBody.recall [data-zh="1"].peek * { visibility: visible; }
+.articleBody.recall [data-zh="1"].peek::after { content: none; }
+
+@media (max-width: 760px) {
+  /* Header scrolls away (not sticky) so reading text can use the full screen. */
+  .readingHeader { position: static; }
+  .readingHeaderInner { padding: 12px 16px 6px; }
+  .readingBrand h1 { font-size: 22px; }
+  .filterBar { padding: 6px 16px 10px; }
+  .readingSearch input { min-width: 0; flex: 1 1 140px; }
+
+  .readingMain {
+    grid-template-columns: 1fr;
+    gap: 0;
+    padding: 14px 14px 50px;
+  }
+
+  /* No more 320px cap: the list is the whole screen until you pick an article. */
+  .articleList { position: static; max-height: none; overflow: visible; }
+  .articleView { padding: 18px 16px 36px; border-radius: 12px; }
+  .articleBody { font-size: 17px; }
+
+  /* Master-detail: show the list OR the reading pane, never both at once. */
+  .readingMain.viewing .articleList { display: none; }
+  .readingMain:not(.viewing) .articleView { display: none; }
+
+  .mobileBack { display: inline-flex; align-items: center; }
+
+  /* 词形变化 (adjsubst) 复习表在窄屏会横向溢出、难读 —— 把每组 adj+subst 的一行
+     重排成一张竖排卡片，每个变形格前面用列名 (Obestämd sg. …) 当标签。
+     只对 .kind-adjsubst 生效，情景/粘贴文章的表格仍保留可横向滚动的原样。 */
+  .articleBody.kind-adjsubst table { display: block; overflow-x: visible; width: 100%; font-size: 1em; }
+  .articleBody.kind-adjsubst thead { display: none; }
+  .articleBody.kind-adjsubst tbody { display: block; }
+  .articleBody.kind-adjsubst tbody tr,
+  .articleBody.kind-adjsubst tbody tr:nth-child(even) {
+    display: block;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    margin: 12px 0;
+    padding: 4px 6px;
+    background: var(--panel);
+  }
+  .articleBody.kind-adjsubst tbody td {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+    border: none;
+    border-bottom: 1px dashed var(--line);
+    padding: 6px 6px;
+  }
+  .articleBody.kind-adjsubst tbody td:last-child { border-bottom: none; }
+  .articleBody.kind-adjsubst tbody td::before {
+    content: attr(data-label);
+    flex: 0 0 7.5em;
+    font-family: var(--cjk);
+    font-size: 0.8em;
+    font-weight: 600;
+    color: var(--muted);
+  }
+  /* 最后一列是中文释义 —— 标签淡化，整组的「答案」更突出 */
+  .articleBody.kind-adjsubst tbody td:last-child { font-family: var(--cjk); }
+}
