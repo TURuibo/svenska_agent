@@ -253,28 +253,6 @@
 /* 「← 列表」back button — only meaningful in the mobile master-detail view */
 .mobileBack { display: none; }
 
-/* 精读模式 (recall): hide 🇨🇳 blocks behind a click-to-peek veil */
-.articleBody.recall [data-zh="1"] {
-  position: relative;
-  color: transparent;
-  background: repeating-linear-gradient(45deg, var(--paper), var(--paper) 6px, var(--line) 6px, var(--line) 7px);
-  border-radius: 6px;
-  cursor: pointer;
-  user-select: none;
-}
-.articleBody.recall [data-zh="1"] * { visibility: hidden; }
-.articleBody.recall [data-zh="1"]::after {
-  content: "🇨🇳 点击显示翻译";
-  position: absolute; inset: 0;
-  display: flex; align-items: center; justify-content: center;
-  font-family: var(--cjk); font-size: 13px; color: var(--muted); visibility: visible;
-}
-.articleBody.recall [data-zh="1"].peek {
-  color: inherit; background: none; cursor: default;
-}
-.articleBody.recall [data-zh="1"].peek * { visibility: visible; }
-.articleBody.recall [data-zh="1"].peek::after { content: none; }
-
 @media (max-width: 760px) {
   /* Header scrolls away (not sticky) so reading text can use the full screen. */
   .readingHeader { position: static; }
