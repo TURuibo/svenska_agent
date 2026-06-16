@@ -927,6 +927,46 @@
 | [[central]] | word | — | 0 | 2.5 | 立即 | no |
 | [[avdelning]] | word | — | 0 | 2.5 | 立即 | no |
 
+| **— Vädret och årstiderna (2026-06-16) — 15词 / 7词组 / 13句 / 3语法 (新); 3词 / 1语法 dedup —** | | | | | | |
+| [[årstid]] | word | — | 0 | 2.5 | 立即 | no |
+| [[vinter]] | word | — | 0 | 2.5 | 立即 | no |
+| [[vår]] | word | — | 0 | 2.5 | 立即 | no |
+| [[sommar]] | word | — | 0 | 2.5 | 立即 | no |
+| [[höst]] | word | — | 0 | 2.5 | 立即 | no |
+| [[snö]] | word | — | 0 | 2.5 | 立即 | no |
+| [[stövel]] | word | — | 0 | 2.5 | 立即 | no |
+| [[blomma]] | word | — | 0 | 2.5 | 立即 | no |
+| [[tydlig]] | word | — | 0 | 2.5 | 立即 | no |
+| [[täcka]] | word | — | 0 | 2.5 | 立即 | no |
+| [[sval]] | word | — | 0 | 2.5 | 立即 | no |
+| [[njuta]] | word | — | 0 | 2.5 | 立即 | no |
+| [[färga]] | word | — | 0 | 2.5 | 立即 | no |
+| [[intensiv]] | word | — | 0 | 2.5 | 立即 | no |
+| [[tillbringa]] | word | — | 0 | 2.5 | 立即 | no |
+| [[hålla-värmen]] | phrase | — | 0 | 2.5 | 立即 | no |
+| [[klä-på-sig]] | phrase | — | 0 | 2.5 | 立即 | no |
+| [[på-vintern]] | phrase | — | 0 | 2.5 | 立即 | no |
+| [[ta-semester]] | phrase | — | 0 | 2.5 | 立即 | no |
+| [[plocka-svamp]] | phrase | — | 0 | 2.5 | 立即 | no |
+| [[njuta-av]] | phrase | — | 0 | 2.5 | 立即 | no |
+| [[det-märks]] | phrase | — | 0 | 2.5 | 立即 | no |
+| [[sent-sverige-har-fyra-tydliga-arstider]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-pa-vintern-ar-det-morkt-och-kallt]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-snon-faller-tyst-och-tacker-marken]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-man-klar-pa-sig-tjocka-jackor]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-nar-varen-kommer-borjar-dagarna]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-faglarna-sjunger-och-de-forsta]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-luften-kanns-frisk-och-ren]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-sommaren-ar-kort-men-intensiv]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-solen-skiner-lange-och-det-ar]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-manga-svenskar-tar-semester-tillbringar]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-hosten-fargar-skogen-i-rott]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-det-blir-svalare-och-regnet]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[sent-man-plockar-svamp-och-njuter]] | sentence | — | 0 | 2.5 | 立即 | no |
+| [[grammar-nar-bisats]] | grammar | — | 0 | 2.5 | 立即 | no |
+| [[grammar-komparativ]] | grammar | — | 0 | 2.5 | 立即 | no |
+| [[grammar-for-att-infinitiv]] | grammar | — | 0 | 2.5 | 立即 | no |
+
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。
