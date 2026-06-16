@@ -150,10 +150,12 @@
   padding: 2px 8px;
   font-weight: 600;
 }
-.kind-scenario { background: rgba(47, 111, 85, 0.14); color: var(--green); }
-.kind-paste    { background: rgba(49, 95, 125, 0.14); color: var(--blue); }
-.kind-adjsubst { background: rgba(169, 120, 42, 0.16); color: var(--gold); }
-.kind-other    { background: var(--paper); color: var(--muted); }
+/* Scope the tinted fill to the card/header badge pills — the same kind-* class
+   also lands on .articleBody, where the fill would flood the whole reading pane. */
+.cardKind.kind-scenario { background: rgba(47, 111, 85, 0.14); color: var(--green); }
+.cardKind.kind-paste    { background: rgba(49, 95, 125, 0.14); color: var(--blue); }
+.cardKind.kind-adjsubst { background: rgba(169, 120, 42, 0.16); color: var(--gold); }
+.cardKind.kind-other    { background: var(--paper); color: var(--muted); }
 .cardStatus { border: 1px solid var(--line); color: var(--muted); }
 .status-pending { color: var(--gold); border-color: var(--gold); }
 .status-imported { color: var(--green); border-color: var(--green); }
