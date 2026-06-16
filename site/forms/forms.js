@@ -66,8 +66,56 @@
     ...[...groups.keys()].filter((c) => !CLASS_ORDER.includes(c)).sort(),
   ];
 
+  // ---- source index (provenance: which 来源/source introduced each word) ----
+  // Source notes list the slugs they introduced in `words:`. Invert that so each
+  // word knows where it came from, and bucket sources by their date for the
+  // by-date view. No build change needed — kb-data.js already carries it.
+  const KIND_ICON = {
+    article: '📄', text: '📝', dialog: '💬', conversation: '💬',
+    story: '📖', narrative: '📖', image: '📷', photo: '📷',
+    email: '✉️', sign: '🪧', exercise: '✏️', list: '🗂️',
+  };
+  function srcIcon(kind) { return KIND_ICON[String(kind || '').toLowerCase()] || '📥'; }
+  function srcDate(s) { return (s.date || s.date_added || s.created || '').toString(); }
+  function srcLabel(s) { return (s.source_label || s.title || s.slug || '').toString(); }
+
+  const sources = data.notes.filter((n) => n.type === 'source');
+  const sourcesByDate = new Map(); // 'YYYY-MM-DD' -> [source...]
+  const wordSource = new Map();    // word slug -> source note (first claimer wins)
+  for (const s of sources) {
+    const d = srcDate(s);
+    if (d) {
+      if (!sourcesByDate.has(d)) sourcesByDate.set(d, []);
+      sourcesByDate.get(d).push(s);
+    }
+    if (Array.isArray(s.words)) {
+      for (const slug of s.words) {
+        if (!wordSource.has(slug)) wordSource.set(slug, s);
+      }
+    }
+  }
+
   let sortMode = 'new';
+  let groupMode = 'class';
   let query = '';
+
+  // ---- date helpers (by-date view) ----
+  const WD_CN = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+  function parseISO(s) {
+    const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(s || ''));
+    return m ? new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3])) : null;
+  }
+  const _today = new Date(); _today.setHours(0, 0, 0, 0);
+  function relDate(key) {
+    const d = parseISO(key);
+    if (!d) return key;
+    const diff = Math.round((_today - d) / 86400000);
+    const wd = WD_CN[d.getDay()];
+    if (diff === 0) return `今天 · ${wd}`;
+    if (diff === 1) return `昨天 · ${wd}`;
+    if (diff === 2) return `前天 · ${wd}`;
+    return `${key} · ${wd}`;
+  }
 
   function sortRows(rows) {
     const arr = rows.slice();
@@ -290,10 +338,45 @@
       .join('');
   }
 
-  function render() {
-    const parts = [];
-    let shownTotal = 0;
+  // A clickable 来源 chip for the by-class table; opens the source note popup.
+  function srcChipHtml(w) {
+    const s = wordSource.get(w.slug);
+    if (!s) return '<span class="srcNone">—</span>';
+    return `<button type="button" class="srcChip" data-slug="${esc(s.slug)}" title="${esc(srcLabel(s))}">` +
+      `<span class="srcIco">${srcIcon(s.kind)}</span>` +
+      `<span class="srcName">${esc(srcLabel(s))}</span></button>`;
+  }
 
+  function srcMetaHtml(s) {
+    const bits = [];
+    if (s.kind) bits.push(esc(String(s.kind)));
+    if (s.cefr) bits.push(esc(String(s.cefr)));
+    return bits.length ? `<span class="srcMeta">${bits.join(' · ')}</span>` : '';
+  }
+
+  function tableHead(showSource) {
+    return '<thead><tr><th class="colWord">词 Ord</th>' +
+      '<th class="colForms">词形 Former</th>' +
+      '<th class="colMean">意思 Betydelse</th>' +
+      (showSource ? '<th class="colSrc">来源 Källa</th>' : '') +
+      '<th class="colDate">录入</th></tr></thead>';
+  }
+
+  function rowHtml(w, showSource) {
+    const en = w.en ? `<span class="mEn">${esc(w.en)}</span>` : '';
+    return '<tr>' +
+      `<td class="colWord"><button type="button" class="lemmaLink" data-slug="${esc(w.slug)}">${esc(w.lemma)}</button>` +
+      (w.cefr ? `<span class="cefr">${esc(w.cefr)}</span>` : '') + '</td>' +
+      `<td class="colForms">${renderFormsCell(w)}</td>` +
+      `<td class="colMean"><span class="mZh">${esc(w.zh)}</span>${en}</td>` +
+      (showSource ? `<td class="colSrc">${srcChipHtml(w)}</td>` : '') +
+      `<td class="colDate">${esc(w.created || '')}</td>` +
+      '</tr>';
+  }
+
+  // ---- by word class (default) ----
+  function renderByClass(parts) {
+    let shownTotal = 0;
     for (const cls of orderedClasses) {
       const rows = sortRows(groups.get(cls).filter(matches));
       if (!rows.length) continue;
@@ -305,44 +388,124 @@
         (label ? `<span class="zh">${esc(label)}</span>` : '') +
         `<span class="classCount">${rows.length}</span></h2>`
       );
-      parts.push('<div class="tableWrap"><table class="formsTable">');
-      parts.push(
-        '<thead><tr><th class="colWord">词 Ord</th>' +
-        '<th class="colForms">词形 Former</th>' +
-        '<th class="colMean">意思 Betydelse</th>' +
-        '<th class="colDate">录入</th></tr></thead><tbody>'
-      );
-      for (const w of rows) {
-        const en = w.en ? `<span class="mEn">${esc(w.en)}</span>` : '';
-        parts.push(
-          '<tr>' +
-          `<td class="colWord"><button type="button" class="lemmaLink" data-slug="${esc(w.slug)}">${esc(w.lemma)}</button>` +
-          (w.cefr ? `<span class="cefr">${esc(w.cefr)}</span>` : '') + '</td>' +
-          `<td class="colForms">${renderFormsCell(w)}</td>` +
-          `<td class="colMean"><span class="mZh">${esc(w.zh)}</span>${en}</td>` +
-          `<td class="colDate">${esc(w.created || '')}</td>` +
-          '</tr>'
-        );
-      }
+      parts.push(`<div class="tableWrap"><table class="formsTable">${tableHead(true)}<tbody>`);
+      for (const w of rows) parts.push(rowHtml(w, true));
       parts.push('</tbody></table></div></section>');
     }
+    return shownTotal;
+  }
 
-    if (!shownTotal) {
+  // ---- by 录入 date → source batch (provenance view) ----
+  function renderByDate(parts) {
+    const byDate = new Map(); // 'YYYY-MM-DD' -> [word...]
+    for (const w of words) {
+      if (!matches(w)) continue;
+      const d = w.created || '(无日期)';
+      if (!byDate.has(d)) byDate.set(d, []);
+      byDate.get(d).push(w);
+    }
+    const dates = [...byDate.keys()].sort((a, b) => a.localeCompare(b));
+    if (sortMode !== 'old') dates.reverse(); // newest first for 'new' & 'alpha'
+
+    let shownTotal = 0;
+    for (const dateKey of dates) {
+      const dayWords = byDate.get(dateKey);
+      shownTotal += dayWords.length;
+
+      // claim words by the sources recorded on the same date (first source wins)
+      const daySources = sourcesByDate.get(dateKey) || [];
+      const claim = new Map();
+      for (const s of daySources) {
+        if (Array.isArray(s.words)) for (const slug of s.words) if (!claim.has(slug)) claim.set(slug, s);
+      }
+      const batches = new Map(); // src.slug -> { src, items }
+      const loose = [];
+      for (const w of dayWords) {
+        const s = claim.get(w.slug);
+        if (s) {
+          if (!batches.has(s.slug)) batches.set(s.slug, { src: s, items: [] });
+          batches.get(s.slug).items.push(w);
+        } else {
+          loose.push(w);
+        }
+      }
+
+      parts.push(`<section class="dateBlock" id="date-${esc(dateKey)}">`);
+      parts.push(
+        `<h2 class="dateTitle"><span class="dRel">${esc(relDate(dateKey))}</span>` +
+        `<span class="dateCount">${dayWords.length} 词</span></h2>`
+      );
+
+      const orderedBatches = daySources
+        .filter((s) => batches.has(s.slug))
+        .map((s) => batches.get(s.slug));
+      for (const { src, items } of orderedBatches) {
+        items.sort((a, b) => a.lemma.localeCompare(b.lemma, 'sv'));
+        parts.push('<div class="srcBatch">');
+        parts.push(
+          '<div class="srcHead">' +
+          `<button type="button" class="srcHeadBtn" data-slug="${esc(src.slug)}" title="查看来源笔记">` +
+          `<span class="srcIco">${srcIcon(src.kind)}</span>` +
+          `<span class="srcName">${esc(srcLabel(src))}</span></button>` +
+          srcMetaHtml(src) +
+          `<span class="srcCount">${items.length} 词</span>` +
+          '</div>'
+        );
+        parts.push(`<div class="tableWrap"><table class="formsTable">${tableHead(false)}<tbody>`);
+        for (const w of items) parts.push(rowHtml(w, false));
+        parts.push('</tbody></table></div></div>');
+      }
+
+      if (loose.length) {
+        loose.sort((a, b) => a.lemma.localeCompare(b.lemma, 'sv'));
+        parts.push('<div class="srcBatch looseBatch">');
+        parts.push(
+          '<div class="srcHead">' +
+          '<span class="srcHeadBtn static"><span class="srcIco">✍️</span>' +
+          '<span class="srcName">单独录入 / 无来源</span></span>' +
+          `<span class="srcCount">${loose.length} 词</span></div>`
+        );
+        parts.push(`<div class="tableWrap"><table class="formsTable">${tableHead(false)}<tbody>`);
+        for (const w of loose) parts.push(rowHtml(w, false));
+        parts.push('</tbody></table></div></div>');
+      }
+      parts.push('</section>');
+    }
+    return shownTotal;
+  }
+
+  function render() {
+    const parts = [];
+    const shown = groupMode === 'date' ? renderByDate(parts) : renderByClass(parts);
+    if (!shown) {
       main.innerHTML = '<p class="formsEmpty">没有匹配的词。</p>';
       return;
     }
     main.innerHTML = parts.join('');
   }
 
-  function renderClassFilters() {
+  function renderNav() {
     const nav = document.getElementById('classFilters');
-    const chips = orderedClasses.map((cls) => {
-      const n = groups.get(cls).length;
-      const label = CLASS_LABEL[cls] || '';
-      return `<a class="classChip" href="#cls-${esc(cls)}">${esc(cls)}` +
-        (label ? ` ${esc(label)}` : '') + `<span>${n}</span></a>`;
-    });
-    nav.innerHTML = chips.join('');
+    if (groupMode === 'date') {
+      const counts = new Map();
+      for (const w of words) {
+        const d = w.created || '(无日期)';
+        counts.set(d, (counts.get(d) || 0) + 1);
+      }
+      const dates = [...counts.keys()].sort((a, b) => b.localeCompare(a));
+      nav.innerHTML = dates.map((d) => {
+        const rel = relDate(d).split(' · ')[0];
+        const short = /^\d{4}-/.test(d) ? d.slice(5) : d;
+        return `<a class="classChip" href="#date-${esc(d)}">${esc(rel)} ${esc(short)}<span>${counts.get(d)}</span></a>`;
+      }).join('');
+    } else {
+      nav.innerHTML = orderedClasses.map((cls) => {
+        const n = groups.get(cls).length;
+        const label = CLASS_LABEL[cls] || '';
+        return `<a class="classChip" href="#cls-${esc(cls)}">${esc(cls)}` +
+          (label ? ` ${esc(label)}` : '') + `<span>${n}</span></a>`;
+      }).join('');
+    }
   }
 
   // Wire controls.
@@ -358,8 +521,20 @@
       render();
     });
   });
-  // Click a word → open the in-page detail popup instead of leaving the page.
+  document.querySelectorAll('.groupBtn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      if (btn.classList.contains('active')) return;
+      document.querySelectorAll('.groupBtn').forEach((b) => b.classList.remove('active'));
+      btn.classList.add('active');
+      groupMode = btn.dataset.group;
+      renderNav();
+      render();
+    });
+  });
+  // Click a word (or a 来源 chip) → open the in-page detail popup.
   main.addEventListener('click', (e) => {
+    const src = e.target.closest('.srcChip, .srcHeadBtn');
+    if (src && src.dataset.slug) { openDetail(src.dataset.slug); return; }
     const btn = e.target.closest('.lemmaLink');
     if (!btn) return;
     openDetail(btn.dataset.slug);
@@ -390,6 +565,6 @@
       `${words.length} 词 · ${orderedClasses.length} 词性 · 数据 ${data.generatedAt || ''}`;
   }
 
-  renderClassFilters();
+  renderNav();
   render();
 })();

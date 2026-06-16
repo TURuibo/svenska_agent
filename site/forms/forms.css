@@ -64,6 +64,23 @@
   font-size: 0.85rem;
 }
 
+.formsGroup { display: flex; align-items: center; gap: 0.25rem; flex: 0 0 auto; }
+.groupLabel { font-size: 0.72rem; color: var(--muted); margin-right: 0.1rem; }
+.groupBtn {
+  padding: 0.25rem 0.6rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel);
+  color: var(--ink);
+  cursor: pointer;
+  font-size: 0.78rem;
+}
+.groupBtn.active {
+  background: var(--green-dark);
+  color: #fff;
+  border-color: var(--green-dark);
+}
+
 .formsSort { display: flex; align-items: center; gap: 0.25rem; flex: 0 0 auto; }
 
 .sortBtn {
@@ -245,6 +262,103 @@
   font-variant-numeric: tabular-nums;
 }
 
+/* ---- 来源 (source) column in the by-class table ---- */
+.colSrc { white-space: nowrap; }
+.srcNone { color: var(--line); }
+.srcChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  max-width: 16rem;
+  padding: 0.1rem 0.5rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel-soft);
+  color: var(--green-dark);
+  font-family: var(--cjk);
+  font-size: 0.76rem;
+  cursor: pointer;
+}
+.srcChip:hover { border-color: var(--green); }
+.srcChip .srcName {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.srcChip .srcIco { font-size: 0.85rem; line-height: 1; }
+
+/* ---- by-date view: dated sections with per-source batches ---- */
+.dateBlock { margin-bottom: 1.8rem; scroll-margin-top: 4.5rem; }
+.dateTitle {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin: 0 0 0.7rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid var(--green);
+  font-family: Georgia, serif;
+}
+.dateTitle .dRel { font-size: 1.25rem; color: var(--green-dark); }
+.dateTitle .dateCount {
+  margin-left: auto;
+  font-size: 0.85rem;
+  color: #fff;
+  background: var(--green);
+  border-radius: 999px;
+  padding: 0.05rem 0.6rem;
+}
+
+.srcBatch {
+  margin: 0 0 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--panel);
+}
+.srcHead {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  padding: 0.45rem 0.7rem;
+  background: var(--panel-soft);
+  border-bottom: 1px solid var(--line);
+}
+.srcHeadBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border: 0;
+  background: none;
+  padding: 0;
+  font-family: var(--cjk);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--green-dark);
+  cursor: pointer;
+}
+.srcHeadBtn:not(.static):hover { text-decoration: underline; }
+.srcHeadBtn.static { cursor: default; color: var(--muted); }
+.srcHead .srcIco { font-size: 1rem; }
+.srcHead .srcMeta {
+  font-size: 0.72rem;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0 0.45rem;
+}
+.srcHead .srcCount {
+  margin-left: auto;
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+.srcBatch .formsTable {
+  border: 0;
+  border-radius: 0;
+}
+.looseBatch { border-style: dashed; }
+
 .formsEmpty, .formsLoading {
   text-align: center;
   color: var(--muted);
@@ -253,7 +367,9 @@
 
 @media (max-width: 640px) {
   .colDate { display: none; }
+  .colSrc { display: none; }
   .formsTable { font-size: 0.86rem; }
+  .srcChip { max-width: 10rem; }
 }
 
 /* ---- in-page word detail popup ---- */
