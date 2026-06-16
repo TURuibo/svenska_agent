@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-16 05:41:27",
+  "generatedAt": "2026-06-16 05:57:34",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
