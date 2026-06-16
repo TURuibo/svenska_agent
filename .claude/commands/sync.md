@@ -10,11 +10,10 @@ allowed-tools: Bash, Read, Glob
 
 1. **重建站点数据（best-effort）**：
    - `powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1`（KB 浏览器；有纯 PS 回退，无 node 也能跑）
-   - `node tools/build-reading-site.js`（Läsning 阅读数据；需要 node，没有就跳过——GitHub Action 会在 push 后重建）
    - 若失败不要中断——`site/kb-data.js` 由 GitHub Action 在 push 后兜底重建。
 
 2. **只暂存真实内容路径**（存在才加；绝不加 `inbox/`、`traces/`、`settings.local.json`）：
-   `powershell -NoProfile -Command "git add -- knowledge_base review/schedule.md profile imported site/kb-data.js site/reading/reading-data.js .gitattributes"`
+   `powershell -NoProfile -Command "git add -- knowledge_base review/schedule.md profile imported site/kb-data.js .gitattributes"`
 
 3. **若无暂存改动 → 直接结束**并告诉用户"已是最新，无需同步"：
    `powershell -NoProfile -Command "git diff --cached --quiet; if ($LASTEXITCODE -eq 0) { 'NOTHING' } else { 'STAGED' }"`

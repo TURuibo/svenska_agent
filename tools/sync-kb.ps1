@@ -43,18 +43,14 @@ if (Test-Path $lock) {
     Remove-Item $lock -Force
 }
 
-# 2. Rebuild the site data (KB viewer + reading data)
+# 2. Rebuild the site data (KB viewer)
 Write-Host "==> Rebuilding site/kb-data.js" -ForegroundColor Cyan
 & node (Join-Path $PSScriptRoot "build-kb-site.js")
 if ($LASTEXITCODE -ne 0) { throw "build-kb-site.js failed (exit $LASTEXITCODE)" }
 
-Write-Host "==> Rebuilding site/reading/reading-data.js" -ForegroundColor Cyan
-& node (Join-Path $PSScriptRoot "build-reading-site.js")
-if ($LASTEXITCODE -ne 0) { throw "build-reading-site.js failed (exit $LASTEXITCODE)" }
-
 # 3. Stage only content paths that exist
 $paths = @(".gitattributes", "knowledge_base", "imported", "review/schedule.md", "profile",
-           "site/kb-data.js", "site/reading/reading-data.js", "tools") |
+           "site/kb-data.js", "tools") |
     Where-Object { Test-Path $_ }
 git add -- $paths
 
