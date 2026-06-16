@@ -7,6 +7,7 @@ members:
   - mogen
   - äpple
   - banan
+  - jordgubbe
   - tomat
   - gurka
   - potatis
@@ -105,6 +106,7 @@ created: 2026-06-11
 - [[banan]] — 香蕉
 - [[apelsin]] — 橙子
 - [[päron]] — 梨
+- [[jordgubbe]] — 草莓（新）
 
 **Kött & Protein (肉类/蛋白质)**
 - [[kyckling]] — 鸡肉
