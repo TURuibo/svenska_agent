@@ -96,7 +96,7 @@
   }
 
   let sortMode = 'new';
-  let groupMode = 'class';
+  let groupMode = 'date';
   let query = '';
 
   // ---- date helpers (by-date view) ----
@@ -122,9 +122,15 @@
     if (sortMode === 'alpha') {
       arr.sort((a, b) => a.lemma.localeCompare(b.lemma, 'sv'));
     } else {
+      // Sort by date, then by 来源 within a date so same-source rows stay
+      // contiguous (their 来源/录入 cells then collapse into clean runs).
       arr.sort((a, b) => {
         const d = a.created.localeCompare(b.created);
         if (d !== 0) return sortMode === 'new' ? -d : d;
+        const sa = (wordSource.get(a.slug) || {}).slug || '';
+        const sb = (wordSource.get(b.slug) || {}).slug || '';
+        const s = sa.localeCompare(sb);
+        if (s !== 0) return s;
         return a.lemma.localeCompare(b.lemma, 'sv');
       });
     }
@@ -354,23 +360,30 @@
     return bits.length ? `<span class="srcMeta">${bits.join(' · ')}</span>` : '';
   }
 
-  function tableHead(showSource) {
+  function tableHead(showSource, showDate) {
     return '<thead><tr><th class="colWord">词 Ord</th>' +
       '<th class="colForms">词形 Former</th>' +
       '<th class="colMean">意思 Betydelse</th>' +
       (showSource ? '<th class="colSrc">来源 Källa</th>' : '') +
-      '<th class="colDate">录入</th></tr></thead>';
+      (showDate ? '<th class="colDate">录入</th>' : '') +
+      '</tr></thead>';
   }
 
-  function rowHtml(w, showSource) {
+  // srcRepeat/dateRepeat collapse runs of identical 来源/录入 values: the value
+  // prints once at the top of a run, blank below — kills column repetition.
+  function rowHtml(w, showSource, showDate, srcRepeat, dateRepeat) {
     const en = w.en ? `<span class="mEn">${esc(w.en)}</span>` : '';
     return '<tr>' +
       `<td class="colWord"><button type="button" class="lemmaLink" data-slug="${esc(w.slug)}">${esc(w.lemma)}</button>` +
       (w.cefr ? `<span class="cefr">${esc(w.cefr)}</span>` : '') + '</td>' +
       `<td class="colForms">${renderFormsCell(w)}</td>` +
       `<td class="colMean"><span class="mZh">${esc(w.zh)}</span>${en}</td>` +
-      (showSource ? `<td class="colSrc">${srcChipHtml(w)}</td>` : '') +
-      `<td class="colDate">${esc(w.created || '')}</td>` +
+      (showSource
+        ? (srcRepeat ? '<td class="colSrc repeat"></td>' : `<td class="colSrc">${srcChipHtml(w)}</td>`)
+        : '') +
+      (showDate
+        ? (dateRepeat ? '<td class="colDate repeat"></td>' : `<td class="colDate">${esc(w.created || '')}</td>`)
+        : '') +
       '</tr>';
   }
 
@@ -388,8 +401,16 @@
         (label ? `<span class="zh">${esc(label)}</span>` : '') +
         `<span class="classCount">${rows.length}</span></h2>`
       );
-      parts.push(`<div class="tableWrap"><table class="formsTable">${tableHead(true)}<tbody>`);
-      for (const w of rows) parts.push(rowHtml(w, true));
+      parts.push(`<div class="tableWrap"><table class="formsTable">${tableHead(true, true)}<tbody>`);
+      let prevSrc = null;
+      let prevDate = null;
+      for (const w of rows) {
+        const sSlug = (wordSource.get(w.slug) || {}).slug || '';
+        const date = w.created || '';
+        parts.push(rowHtml(w, true, true, sSlug === prevSrc, date === prevDate));
+        prevSrc = sSlug;
+        prevDate = date;
+      }
       parts.push('</tbody></table></div></section>');
     }
     return shownTotal;
@@ -451,8 +472,8 @@
           `<span class="srcCount">${items.length} 词</span>` +
           '</div>'
         );
-        parts.push(`<div class="tableWrap"><table class="formsTable">${tableHead(false)}<tbody>`);
-        for (const w of items) parts.push(rowHtml(w, false));
+        parts.push(`<div class="tableWrap"><table class="formsTable">${tableHead(false, false)}<tbody>`);
+        for (const w of items) parts.push(rowHtml(w, false, false));
         parts.push('</tbody></table></div></div>');
       }
 
@@ -465,8 +486,8 @@
           '<span class="srcName">单独录入 / 无来源</span></span>' +
           `<span class="srcCount">${loose.length} 词</span></div>`
         );
-        parts.push(`<div class="tableWrap"><table class="formsTable">${tableHead(false)}<tbody>`);
-        for (const w of loose) parts.push(rowHtml(w, false));
+        parts.push(`<div class="tableWrap"><table class="formsTable">${tableHead(false, false)}<tbody>`);
+        for (const w of loose) parts.push(rowHtml(w, false, false));
         parts.push('</tbody></table></div></div>');
       }
       parts.push('</section>');
