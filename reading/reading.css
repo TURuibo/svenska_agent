@@ -299,4 +299,39 @@
   .readingMain:not(.viewing) .articleView { display: none; }
 
   .mobileBack { display: inline-flex; align-items: center; }
+
+  /* 词形变化 (adjsubst) 复习表在窄屏会横向溢出、难读 —— 把每组 adj+subst 的一行
+     重排成一张竖排卡片，每个变形格前面用列名 (Obestämd sg. …) 当标签。
+     只对 .kind-adjsubst 生效，情景/粘贴文章的表格仍保留可横向滚动的原样。 */
+  .articleBody.kind-adjsubst table { display: block; overflow-x: visible; width: 100%; font-size: 1em; }
+  .articleBody.kind-adjsubst thead { display: none; }
+  .articleBody.kind-adjsubst tbody { display: block; }
+  .articleBody.kind-adjsubst tbody tr,
+  .articleBody.kind-adjsubst tbody tr:nth-child(even) {
+    display: block;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    margin: 12px 0;
+    padding: 4px 6px;
+    background: var(--panel);
+  }
+  .articleBody.kind-adjsubst tbody td {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+    border: none;
+    border-bottom: 1px dashed var(--line);
+    padding: 6px 6px;
+  }
+  .articleBody.kind-adjsubst tbody td:last-child { border-bottom: none; }
+  .articleBody.kind-adjsubst tbody td::before {
+    content: attr(data-label);
+    flex: 0 0 7.5em;
+    font-family: var(--cjk);
+    font-size: 0.8em;
+    font-weight: 600;
+    color: var(--muted);
+  }
+  /* 最后一列是中文释义 —— 标签淡化，整组的「答案」更突出 */
+  .articleBody.kind-adjsubst tbody td:last-child { font-family: var(--cjk); }
 }
