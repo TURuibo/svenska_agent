@@ -92,8 +92,10 @@
         let html = `<table${z()}><thead><tr>` +
           head.map((c) => `<th>${inline(c)}</th>`).join('') + '</tr></thead>';
         if (rows.length) {
+          // data-label carries the column header onto each cell so a narrow screen
+          // can restack the row into a labelled card (see .kind-adjsubst mobile CSS).
           html += '<tbody>' + rows.map((r) =>
-            '<tr>' + head.map((_h, ci) => `<td>${inline(r[ci] || '')}</td>`).join('') + '</tr>'
+            '<tr>' + head.map((h, ci) => `<td data-label="${escapeHtml(h)}">${inline(r[ci] || '')}</td>`).join('') + '</tr>'
           ).join('') + '</tbody>';
         }
         html += '</table>';
@@ -197,7 +199,7 @@
         `<button type="button" id="markReadBtn" class="viewBtn${read ? ' on' : ''}">${read ? '✓ 已读' : '标为已读'}</button>` +
       `</div>` +
       (countBits.length ? `<p class="viewCounts">📚 ${countBits.join(' · ')}</p>` : '') +
-      `<div class="articleBody${recall ? ' recall' : ''}">${mdToHtml(a.body || '')}</div>`;
+      `<div class="articleBody${recall ? ' recall' : ''} kind-${a.kind}">${mdToHtml(a.body || '')}</div>`;
 
     wireRevealClicks();
     document.getElementById('markReadBtn').addEventListener('click', () => {
