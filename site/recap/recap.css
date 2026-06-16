@@ -581,6 +581,24 @@
 .peekBody h2 { font-size: 16px; }
 .peekBody h3 { font-size: 14px; }
 
+.peekBody table {
+  border-collapse: collapse;
+  margin: 8px 0;
+  font-size: 13px;
+  width: 100%;
+}
+.peekBody th, .peekBody td {
+  border: 1px solid var(--line, #d9e0d2);
+  padding: 4px 8px;
+  text-align: left;
+  vertical-align: top;
+}
+.peekBody th {
+  background: #f1f4ee;
+  font-weight: 600;
+  color: var(--green-dark);
+}
+
 /* ---------- Flashcard overlay ---------- */
 
 .flashOverlay[hidden] { display: none; }
