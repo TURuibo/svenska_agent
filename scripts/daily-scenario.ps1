@@ -7,7 +7,8 @@
   生成指定日期： ... -File scripts\daily-scenario.ps1 -Date 2026-06-15
 #>
 param(
-  [string]$Date = ''   # 空 = 今天；否则 YYYY-MM-DD
+  [string]$Date = '',  # 空 = 今天；否则 YYYY-MM-DD
+  [switch]$Force        # 强制重新生成（即使今天的文件已在 inbox 未导入）；手动多次生成时用
 )
 
 $ErrorActionPreference = 'Stop'
@@ -35,15 +36,28 @@ if (-not $claude) { "ERROR: claude.exe not found on PATH" | Add-Content -Encodin
 $d = if ($Date) { [datetime]::ParseExact($Date, 'yyyy-MM-dd', $null) } else { Get-Date }
 $dateStr = $d.ToString('yyyy-MM-dd')
 $index   = $d.DayOfYear % 14
-$prompt  = "/dagens-scenario $dateStr $index"
-"prompt: $prompt" | Add-Content -Encoding utf8 $Log
 
-# --- 跑 headless claude：带超时 + 进程树清理（见 headless-claude.ps1），只开放读写/查找工具，不给 Bash ---
-$r = Invoke-ClaudeHeadless -Claude $claude -Prompt $prompt -Model $Model `
-       -AllowedTools 'Read,Glob,Grep,Edit,Write' -TimeoutMinutes $TimeoutMin
-$r.Output | Add-Content -Encoding utf8 $Log
-if ($r.TimedOut) { "ERROR: generation TIMED OUT (${TimeoutMin}m), tree killed" | Add-Content -Encoding utf8 $Log }
-"claude exit=$($r.ExitCode)" | Add-Content -Encoding utf8 $Log
+# --- 断点续跑：今天的情景文件若还躺在 inbox（成功跑完会被 import-and-rebuild 移到 imported/，
+#     不会留在 inbox），说明上次「生成成功但 import/建站/归档/push 没跑完就被中断」。
+#     这种情况跳过生成，直接补跑后半截 import-and-rebuild，避免再生成一篇 + 旧文件成孤儿。
+#     -Force 可强制重新生成（手动想多出一篇时用）。---
+$pending = Get-ChildItem -Path $Inbox -Filter "scenario-$dateStr-*.md" -ErrorAction SilentlyContinue |
+           Sort-Object LastWriteTime -Descending | Select-Object -First 1
+$resume = ($null -ne $pending -and -not $Force)
+
+if ($resume) {
+  "RESUME: $($pending.Name) 已在 inbox 未导入（上次被中断）—— 跳过生成，直接 import+rebuild" | Add-Content -Encoding utf8 $Log
+} else {
+  $prompt  = "/dagens-scenario $dateStr $index"
+  "prompt: $prompt" | Add-Content -Encoding utf8 $Log
+
+  # --- 跑 headless claude：带超时 + 进程树清理（见 headless-claude.ps1），只开放读写/查找工具，不给 Bash ---
+  $r = Invoke-ClaudeHeadless -Claude $claude -Prompt $prompt -Model $Model `
+         -AllowedTools 'Read,Glob,Grep,Edit,Write' -TimeoutMinutes $TimeoutMin
+  $r.Output | Add-Content -Encoding utf8 $Log
+  if ($r.TimedOut) { "ERROR: generation TIMED OUT (${TimeoutMin}m), tree killed" | Add-Content -Encoding utf8 $Log }
+  "claude exit=$($r.ExitCode)" | Add-Content -Encoding utf8 $Log
+}
 
 # --- 找今天（或指定日期）生成的文件 ---
 $stamp = $dateStr
