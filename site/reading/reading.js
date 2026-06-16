@@ -1,5 +1,5 @@
 /* Läsning — reading UI. Reads window.READING_DATA (reading-data.js) for articles.
-   Pure reading: list + search + 精读 (recall) mode + 已读 marker + 翻译显隐.
+   Pure reading: list + search + 已读 marker.
    (Vocabulary review lives in Dagbok 闪卡 and the /review workflow — not here.) */
 
 (function () {
@@ -50,7 +50,7 @@
     t = t.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
     return t;
   }
-  // Tag blocks inside a 🇨🇳-translation zone with data-zh="1" so recall mode can hide them.
+  // Tag blocks inside a 🇨🇳-translation zone with data-zh="1" so they render as a parallel layer.
   function mdToHtml(md) {
     const lines = md.split(/\r?\n/);
     const out = [];
@@ -199,9 +199,8 @@
         `<button type="button" id="markReadBtn" class="viewBtn${read ? ' on' : ''}">${read ? '✓ 已读' : '标为已读'}</button>` +
       `</div>` +
       (countBits.length ? `<p class="viewCounts">📚 ${countBits.join(' · ')}</p>` : '') +
-      `<div class="articleBody${recall ? ' recall' : ''} kind-${a.kind}">${mdToHtml(a.body || '')}</div>`;
+      `<div class="articleBody kind-${a.kind}">${mdToHtml(a.body || '')}</div>`;
 
-    wireRevealClicks();
     document.getElementById('markReadBtn').addEventListener('click', () => {
       toggleRead(slug);
       openArticle(slug);   // re-render head + card state
@@ -220,26 +219,6 @@
     mainEl.classList.remove('viewing');
     if (isMobile()) window.scrollTo({ top: 0, behavior: 'auto' });
   }
-
-  // ---------- recall mode (精读): hide 🇨🇳 blocks; click to peek ----------
-
-  let recall = false;
-  function wireRevealClicks() {
-    viewEl.querySelectorAll('.articleBody [data-zh="1"]').forEach((el) => {
-      el.addEventListener('click', () => {
-        if (viewEl.querySelector('.articleBody').classList.contains('recall')) el.classList.toggle('peek');
-      });
-    });
-  }
-  document.getElementById('recallToggle').addEventListener('click', (e) => {
-    recall = !recall;
-    e.currentTarget.classList.toggle('active', recall);
-    const body = viewEl.querySelector('.articleBody');
-    if (body) {
-      body.classList.toggle('recall', recall);
-      if (!recall) body.querySelectorAll('.peek').forEach((el) => el.classList.remove('peek'));
-    }
-  });
 
   // ---------- filters ----------
 
