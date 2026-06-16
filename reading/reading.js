@@ -16,6 +16,8 @@
   }
 
   const articles = data.articles;
+  const mainEl = document.querySelector('.readingMain');
+  const isMobile = () => window.matchMedia('(max-width: 760px)').matches;
   document.getElementById('readingUpdated').textContent =
     `数据更新于 ${data.generatedAt} · 共 ${articles.length} 篇`;
 
@@ -186,6 +188,7 @@
 
     viewEl.innerHTML =
       `<div class="viewHead">` +
+        `<button type="button" id="mobileBackBtn" class="mobileBack viewBtn">← 列表</button>` +
         `<span class="cardKind kind-${KIND_BADGE[a.kind] || 'other'}">${a.kindLabel ? a.kindLabel.zh : a.kind}</span>` +
         `<span class="cardStatus status-${a.status}">${a.statusLabel}</span>` +
         (a.cefr ? `<span class="viewCefr">${escapeHtml(a.cefr)}</span>` : '') +
@@ -202,9 +205,18 @@
       openArticle(slug);   // re-render head + card state
       renderList();
     });
+    document.getElementById('mobileBackBtn').addEventListener('click', backToList);
 
+    // Mobile master-detail: hide the list, show the reading pane full-screen.
+    mainEl.classList.add('viewing');
     viewEl.scrollTop = 0;
-    if (window.matchMedia('(max-width: 760px)').matches) viewEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (isMobile()) window.scrollTo({ top: 0, behavior: 'auto' });
+  }
+
+  // Return from the reading pane to the article list (mobile only — desktop shows both).
+  function backToList() {
+    mainEl.classList.remove('viewing');
+    if (isMobile()) window.scrollTo({ top: 0, behavior: 'auto' });
   }
 
   // ---------- recall mode (精读): hide 🇨🇳 blocks; click to peek ----------
@@ -248,5 +260,8 @@
   // ---------- init ----------
 
   renderList();
-  if (articles.length > 0) openArticle(articles[0].slug);
+  // Desktop opens the first article straight away (the list stays visible alongside).
+  // Mobile lands on the list so the user picks what to read — openArticle then takes
+  // over the full screen via the master-detail `viewing` state.
+  if (articles.length > 0 && !isMobile()) openArticle(articles[0].slug);
 })();
