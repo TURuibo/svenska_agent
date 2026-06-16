@@ -549,6 +549,20 @@
         out.push('<li>' + inline(li[1]) + '</li>');
         i += 1; continue;
       }
+      // table (pipe rows; drop the |---|---| separator)
+      if (/^\s*\|.+\|\s*$/.test(line)) {
+        closeList();
+        const rows = [];
+        while (i < lines.length && /^\s*\|.+\|\s*$/.test(lines[i])) { rows.push(lines[i].trim()); i += 1; }
+        const body = rows.filter((r) => !/^\|\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)+\|$/.test(r));
+        const htmlRows = body.map((row, idx) => {
+          const cells = row.slice(1, -1).split('|').map((c) => inline(c.trim()));
+          const tg = idx === 0 ? 'th' : 'td';
+          return `<tr>${cells.map((c) => `<${tg}>${c}</${tg}>`).join('')}</tr>`;
+        });
+        out.push(`<table>${htmlRows.join('')}</table>`);
+        continue;
+      }
       // blank
       if (line.trim() === '') {
         closeList();
