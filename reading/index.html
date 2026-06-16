@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Läsning — Swedish Reading</title>
+    <link rel="stylesheet" href="../styles.css" />
+    <link rel="stylesheet" href="reading.css" />
+  </head>
+  <body class="readingBody">
+    <header class="readingHeader">
+      <div class="readingHeaderInner">
+        <div class="readingBrand">
+          <p class="eyebrow">svensk_agent</p>
+          <h1>Läsning <span class="brandSub">情景 / 文章阅读</span></h1>
+          <p id="readingUpdated" class="updated">Loading…</p>
+        </div>
+        <nav class="readingNav" aria-label="Site nav">
+          <a class="navLink" href="../">🔍 Search KB</a>
+          <a class="navLink" href="../recap/">📅 Dagbok</a>
+        </nav>
+      </div>
+
+      <nav class="filterBar" aria-label="Filters">
+        <span class="filterLabel">类型：</span>
+        <button type="button" class="kindFilter active" data-kind="all">全部</button>
+        <button type="button" class="kindFilter" data-kind="scenario">情景练习</button>
+        <button type="button" class="kindFilter" data-kind="paste">粘贴文章</button>
+        <button type="button" class="kindFilter" data-kind="adjsubst">词形变化</button>
+        <span class="filterDivider" aria-hidden="true"></span>
+        <button type="button" id="filterUnread" class="toggleBtn" title="只看未读">📖 未读</button>
+        <span class="filterDivider" aria-hidden="true"></span>
+        <label class="readingSearch">
+          <input id="readingSearchInput" type="search" autocomplete="off" placeholder="搜索标题 / 正文…" />
+        </label>
+        <span class="filterDivider" aria-hidden="true"></span>
+        <button type="button" id="recallToggle" class="toggleBtn" title="精读模式：默认遮住中文，点段落才显示">🙈 精读模式</button>
+      </nav>
+    </header>
+
+    <main class="readingMain">
+      <section id="articleList" class="articleList" aria-label="Article list">
+        <p class="listLoading">加载中…</p>
+      </section>
+      <article id="articleView" class="articleView" aria-label="Reading pane">
+        <p class="viewEmpty">← 从左侧选择一篇阅读</p>
+      </article>
+    </main>
+
+    <script src="reading-data.js"></script>
+    <script src="reading.js"></script>
+  </body>
+</html>
