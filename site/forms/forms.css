@@ -417,6 +417,21 @@
     padding: 0.35rem 0.65rem;
     font-size: 0.82rem;
   }
+
+  /* The date / 词性 jump-chips live inside the sticky header. Wrapping them
+     builds a tall wall that eats the whole viewport and buries the words.
+     Collapse to a single horizontally-scrollable rail so the header stays
+     short and content shows near the top. */
+  .classFilters {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    margin-top: 0.5rem;
+    padding-bottom: 0.15rem;
+  }
+  .classFilters::-webkit-scrollbar { display: none; }
+  .classChip { flex: 0 0 auto; }
 }
 
 @media (max-width: 640px) {
