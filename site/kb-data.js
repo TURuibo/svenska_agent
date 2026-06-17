@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-17 15:46:54",
+  "generatedAt": "2026-06-17 19:11:49",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -185,6 +185,7 @@ window.KB_DATA = {
         "grammar-obestämd-form",
         "grammar-singular-plural",
         "grammar-substantiv-plural",
+        "grammar-varje-obestamd",
         "grattis-på-födelsedagen",
         "index",
         "kan-vi-få-notan",
@@ -234,6 +235,7 @@ window.KB_DATA = {
         "grammar-partikelverb",
         "grammar-perfekt",
         "grammar-presens",
+        "grammar-relativ-adverb-dar",
         "grammar-riktnings-adverb",
         "grammar-satsadverbial",
         "grammar-utan-vs-men",
@@ -338,6 +340,7 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-for-att-infinitiv",
         "grammar-nar-bisats",
+        "grammar-relativ-adverb-dar",
         "sent-man-plockar-svamp-och-njuter"
       ]
     },
@@ -425,6 +428,7 @@ window.KB_DATA = {
         "finns-det-något-ledigt-bord",
         "grammar-ligga-sta-sitta",
         "grammar-prepositioner-rum",
+        "index",
         "sent-bredvid-banken-finns-apotek-gront-kors-skylten",
         "sent-det-låter-gott-men-jag-är",
         "sent-i-vardagsrummet-finns-soffa-fatoljerna",
@@ -435,6 +439,7 @@ window.KB_DATA = {
         "sent-utanfor-kafeet-star-tre-bankar-sitter-par-manniskor",
         "source-2026-06-09-beskriva-en-gata",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-17-meningsrattning-stad",
         "topic-rumsliga-relationer",
         "topic-stadsmiljo"
       ]
@@ -470,6 +475,7 @@ window.KB_DATA = {
         "glass",
         "grammar-deklination",
         "grammar-obestämd-form",
+        "index",
         "inga-problem",
         "ingenjör",
         "intervju",
@@ -498,6 +504,7 @@ window.KB_DATA = {
         "soppa",
         "source-2026-06-10-zlatan-subst-verb",
         "source-2026-06-11-mat-dryck",
+        "source-2026-06-17-meningsrattning-stad",
         "tallrik",
         "tårta",
         "universitet",
@@ -588,10 +595,12 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-for-att-infinitiv",
         "grammar-modala-hjalpverb",
+        "index",
         "sent-får-jag-ta-er-beställning",
         "sent-lisa-vi-är-så-glada-att",
         "source-2026-06-10-zlatan-subst-verb",
-        "source-2026-06-15-restaurang-fodelsedag"
+        "source-2026-06-15-restaurang-fodelsedag",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -820,8 +829,11 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-bestämd-form",
         "grammar-deklination",
+        "grammar-varje-obestamd",
+        "index",
         "source-2026-06-02-valj-ratt-form",
-        "source-2026-06-10-zlatan-subst-verb"
+        "source-2026-06-10-zlatan-subst-verb",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -917,6 +929,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "backlinks": [
+        "grammar-tidsprepositioner-sedan-fran",
         "har-ni-bestämt-er",
         "har-ni-bokat-bord",
         "sent-god-kväll-och-välkomna-har-ni-bokat",
@@ -924,7 +937,8 @@ window.KB_DATA = {
         "sent-ja-vi-har-bokat-ett-bord-för-två",
         "sent-ni-har-reserverat-för-sex-gäster",
         "source-2026-06-15-restaurang-fodelsedag",
-        "source-2026-06-15-restaurang-middag"
+        "source-2026-06-15-restaurang-middag",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -954,6 +968,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "grammar-ligga-sta-sitta",
+        "grammar-tidsprepositioner-sedan-fran",
         "i-hörnet",
         "i-hörnet-av",
         "längs-väggen",
@@ -1025,6 +1040,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "grammar-preteritum",
+        "grammar-tidsprepositioner-sedan-fran",
         "sent-till-slut-var-allt-bra-igen",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-vardagsrutin"
@@ -1339,6 +1355,31 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grammar-relativ-adverb-dar",
+      "type": "grammar",
+      "title": "Relativt adverb: där vs som vs var",
+      "path": "knowledge_base/grammar/grammar-relativ-adverb-dar.md",
+      "body": "# 📗 Relativt adverb: där vs som vs var — 关系副词 (Relative adverb: där / som / var)\n\n级别: A2\n一句话: 在定语从句中，描述**地点**（\"在那里做某事\"）用 **där**，不用 var 或单独的 som。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[名词短语] + som  →  通用关系代词（人/物作主语或宾语）\n[地点名词] + där  →  关系副词（\"在那个地方\"）\n[地点名词] + dit  →  关系副词（\"去那个地方\"，方向）\nvar               →  只用于疑问句（\"在哪里？\"），不用于定语从句\n```\n\n与中文对比:\n- **där** ≈ 中文关系从句中的\"（在）那里\"— 中文通常不需要，结构透明：\n  \"一个我可以散步的地方\" = en plats **där** jag kan promenera\n- **som** ≈ 中文关系从句的\"的\"— \"我喜欢的那本书\" = den bok **som** jag gillar\n\n与英文对比:\n- **där** ≈ English \"where\" in relative clauses: \"a place **where** I can walk\"\n- **som** ≈ English \"that/which/who\": \"the book **that** I like\"\n- **var** ≈ English \"where\" only in QUESTIONS: \"**Where** do you live?\"\n\n## 详细讲解 (Detail)\n\n### 三者的核心区别\n\n| 词 | 功能 | 例句 |\n|----|------|------|\n| **där** | 定语从句中表位置（\"在那里\"）| Det är en plats **där** jag kan promenera. |\n| **dit** | 定语从句中表方向（\"去那里\"）| Det är en stad **dit** vi brukar åka. |\n| **som** | 通用关系代词（主语/宾语）| Det är en plats **som** jag gillar. |\n| **var** | 疑问词（只用于问句）| **Var** bor du? （你住在哪里？） |\n\n### 何时用 där vs som\n\n- 用 **där** 当从句中描述**在某地点发生/进行的事**：\n  - ✅ Det är en bra plats **där** jag kan promenera varje dag.（我可以每天散步的好地方）\n  - ✅ Hallonbergen är ett område **där** det finns många parker.（有很多公园的地区）\n- 用 **som** 当从句中描述**人或物的性质**（不强调\"在里面/在那里\"）：\n  - ✅ Det är en plats **som** jag tycker om.（我喜欢的地方）— 强调喜欢，不强调\"在里面\"\n\n> 实际上，初学者常见错误是用 \"var\"（问句疑问词）代替 \"där\"（关系副词）：\n> - ❌ Det är en bra plats **var** jag kan promenera. ← var 只用于问句\n> - ✅ Det är en bra plats **där** jag kan promenera.\n\n## 例句 (Examples)\n\n- ✅ Det är en bra plats där jag kan promenera varje dag. 🇨🇳 这是一个我可以每天散步的好地方\n- ✅ Det är en bra plats som jag gillar. 🇨🇳 这是一个我喜欢的地方（不强调\"在里面\"）\n- ❌ Det är en bra plats var jag kan promenera. ← var 只用于疑问句，不用于关系从句\n- ✅ Var bor du? 🇨🇳 你住在哪里？（疑问句，用 var ✓）\n- ✅ Det finns många städer dit vi vill resa. 🇨🇳 有很多我们想去的城市\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ ❌ \"en plats **var** jag bor\" → ✅ \"en plats **där** jag bor\"（关系从句中用 där，不用 var）\n- ⚠️ ❌ \"en plats **som** jag promenerar i\" → 这样说也可以，但需加 \"i\"；直接用 \"där\" 更自然\n- ⚠️ 混淆 där（位置，在那里）和 dit（方向，去那里）：\n  - \"en stad **där** jag bor\"（我住的城市）vs \"en stad **dit** jag vill åka\"（我想去的城市）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats]] — 从句结构（定语从句）\n- 📎 [[grammar-bisats-biff]] — 从句 BIFF 语序\n- 📎 [[grammar-v2-ordfoljd]] — 主句 V2 语序\n- 来源: [[source-2026-06-17-meningsrattning-stad]]",
+      "excerpt": "📗 Relativt adverb: där vs som vs var — 关系副词 (Relative adverb: där / som / var) 级别: A2 一句话: 在定语从句中，描述 地点 （\"在那里做某事\"）用 där ，不用 var 或单独的 som。 规则说明 (Rules) 📐 结构公式: [名词短语] + som → 通用关系代词（人/物作主语或宾语） [地点名词] + där → 关系副词（\"在那个地方",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "grammar-bisats-biff",
+        "grammar-v2-ordfoljd",
+        "source-2026-06-17-meningsrattning-stad"
+      ],
+      "searchText": "Relativt adverb: där vs som vs var grammar-relativ-adverb-dar knowledge_base/grammar/grammar-relativ-adverb-dar.md ---\ntype: grammar\nname: \"Relativt adverb: där vs som vs var\"\nzh: 关系副词：där（在那里）vs som（关系代词）vs var（疑问词）\nen: Relative adverb \"där\" (where) vs relative pronoun \"som\" vs interrogative \"var\"\nlevel: A2\nrelated: [\"grammar-bisats\", \"grammar-bisats-biff\", \"grammar-v2-ordfoljd\"]\nexamples: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 Relativt adverb: där vs som vs var — 关系副词 (Relative adverb: där / som / var)\n\n级别: A2\n一句话: 在定语从句中，描述**地点**（\"在那里做某事\"）用 **där**，不用 var 或单独的 som。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[名词短语] + som  →  通用关系代词（人/物作主语或宾语）\n[地点名词] + där  →  关系副词（\"在那个地方\"）\n[地点名词] + dit  →  关系副词（\"去那个地方\"，方向）\nvar               →  只用于疑问句（\"在哪里？\"），不用于定语从句\n```\n\n与中文对比:\n- **där** ≈ 中文关系从句中的\"（在）那里\"— 中文通常不需要，结构透明：\n  \"一个我可以散步的地方\" = en plats **där** jag kan promenera\n- **som** ≈ 中文关系从句的\"的\"— \"我喜欢的那本书\" = den bok **som** jag gillar\n\n与英文对比:\n- **där** ≈ English \"where\" in relative clauses: \"a place **where** I can walk\"\n- **som** ≈ English \"that/which/who\": \"the book **that** I like\"\n- **var** ≈ English \"where\" only in QUESTIONS: \"**Where** do you live?\"\n\n## 详细讲解 (Detail)\n\n### 三者的核心区别\n\n| 词 | 功能 | 例句 |\n|----|------|------|\n| **där** | 定语从句中表位置（\"在那里\"）| Det är en plats **där** jag kan promenera. |\n| **dit** | 定语从句中表方向（\"去那里\"）| Det är en stad **dit** vi brukar åka. |\n| **som** | 通用关系代词（主语/宾语）| Det är en plats **som** jag gillar. |\n| **var** | 疑问词（只用于问句）| **Var** bor du? （你住在哪里？） |\n\n### 何时用 där vs som\n\n- 用 **där** 当从句中描述**在某地点发生/进行的事**：\n  - ✅ Det är en bra plats **där** jag kan promenera varje dag.（我可以每天散步的好地方）\n  - ✅ Hallonbergen är ett område **där** det finns många parker.（有很多公园的地区）\n- 用 **som** 当从句中描述**人或物的性质**（不强调\"在里面/在那里\"）：\n  - ✅ Det är en plats **som** jag tycker om.（我喜欢的地方）— 强调喜欢，不强调\"在里面\"\n\n> 实际上，初学者常见错误是用 \"var\"（问句疑问词）代替 \"där\"（关系副词）：\n> - ❌ Det är en bra plats **var** jag kan promenera. ← var 只用于问句\n> - ✅ Det är en bra plats **där** jag kan promenera.\n\n## 例句 (Examples)\n\n- ✅ Det är en bra plats där jag kan promenera varje dag. 🇨🇳 这是一个我可以每天散步的好地方\n- ✅ Det är en bra plats som jag gillar. 🇨🇳 这是一个我喜欢的地方（不强调\"在里面\"）\n- ❌ Det är en bra plats var jag kan promenera. ← var 只用于疑问句，不用于关系从句\n- ✅ Var bor du? 🇨🇳 你住在哪里？（疑问句，用 var ✓）\n- ✅ Det finns många städer dit vi vill resa. 🇨🇳 有很多我们想去的城市\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ ❌ \"en plats **var** jag bor\" → ✅ \"en plats **där** jag bor\"（关系从句中用 där，不用 var）\n- ⚠️ ❌ \"en plats **som** jag promenerar i\" → 这样说也可以，但需加 \"i\"；直接用 \"där\" 更自然\n- ⚠️ 混淆 där（位置，在那里）和 dit（方向，去那里）：\n  - \"en stad **där** jag bor\"（我住的城市）vs \"en stad **dit** jag vill åka\"（我想去的城市）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats]] — 从句结构（定语从句）\n- 📎 [[grammar-bisats-biff]] — 从句 BIFF 语序\n- 📎 [[grammar-v2-ordfoljd]] — 主句 V2 语序\n- 来源: [[source-2026-06-17-meningsrattning-stad]]\n",
+      "name": "Relativt adverb: där vs som vs var",
+      "zh": "关系副词：där（在那里）vs som（关系代词）vs var（疑问词）",
+      "en": "Relative adverb \"där\" (where) vs relative pronoun \"som\" vs interrogative \"var",
+      "created": "2026-06-17",
+      "known": false,
+      "backlinks": [
+        "index",
+        "source-2026-06-17-meningsrattning-stad"
+      ]
+    },
+    {
       "slug": "grammar-riktnings-adverb",
       "type": "grammar",
       "title": "riktnings-adverb",
@@ -1397,11 +1438,13 @@ window.KB_DATA = {
       "backlinks": [
         "fisksoppa",
         "grammar-adjektiv-kongruens",
+        "index",
         "laktos",
         "nöt",
         "sent-inga-problem-vi-lagar-den-laktosfri",
         "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
-        "source-2026-06-15-restaurang-allergi-nota"
+        "source-2026-06-15-restaurang-allergi-nota",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -1481,6 +1524,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "backlinks": [
+        "grammar-varje-obestamd",
         "source-2026-06-10-zlatan-subst-verb"
       ]
     },
@@ -1580,6 +1624,7 @@ window.KB_DATA = {
         "grammar-singular-plural",
         "hållplats",
         "hus",
+        "index",
         "ingenjör",
         "intervju",
         "juice",
@@ -1611,6 +1656,7 @@ window.KB_DATA = {
         "source-2026-06-11-mat-dryck",
         "source-2026-06-15-stad-trafik",
         "source-2026-06-16-arbete-skola",
+        "source-2026-06-17-meningsrattning-stad",
         "stad",
         "station",
         "tåg",
@@ -1649,6 +1695,31 @@ window.KB_DATA = {
         "grammar-perfekt",
         "grammar-starka-verb",
         "source-2026-06-10-zlatan-subst-verb"
+      ]
+    },
+    {
+      "slug": "grammar-tidsprepositioner-sedan-fran",
+      "type": "grammar",
+      "title": "Tidsprepositioner: sedan, från, i",
+      "path": "knowledge_base/grammar/grammar-tidsprepositioner-sedan-fran.md",
+      "body": "# 📗 Tidsprepositioner: sedan, från, i — 时间介词 (Time prepositions: since / from / for)\n\n级别: A2\n一句话: 用 **sedan** 表示\"自从某时间点持续到现在\"；**från** 表示起始点（不含持续到现在）；**i** 表示持续时长。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nsedan + [tidpunkt]  →  Jag har bott här sedan 2022.   (since 2022 — still here now)\nfrån + [tidpunkt]   →  Från 2022 till 2024 bodde jag i Göteborg.  (from...to, completed)\ni + [tidsperiod]    →  Jag har bott här i tre år.      (for three years — duration)\n```\n\n与中文对比:\n- **sedan** ≈ 中文\"自从/从……起（一直到现在）\"— 强调持续状态，结合现在完成时\n- **från** ≈ 中文\"从\"— 只标记起始点，不含\"持续到现在\"的含义\n- **i** ≈ 中文\"……时间（之久）\"— 表示持续时长，不指定起点\n\n与英文对比:\n- **sedan** ≈ \"since\" (since 2022)\n- **från** ≈ \"from\" (from 2022 to 2024)\n- **i** ≈ \"for\" (for three years)\n\n## 详细讲解 (Detail)\n\n### sedan — \"自从\" (since)\n\n当动作/状态**从某时间点开始，持续到现在**时，用 **sedan** + **perfekt（现在完成时）**：\n- ✅ Jag **har bott** i Hallonbergen **sedan** 2022. — 我自2022年起就住在哈隆贝根（现在仍在住）\n- ✅ De **har känt** varandra **sedan** barndomen. — 他们从童年起就认识了\n\n### från — \"从\" (from a start point)\n\n当只标记**起始时间点**（不强调持续到现在，或搭配 \"till\" 表示明确终点）时，用 **från**：\n- ✅ **Från** 2020 **till** 2022 jobbade jag på ett kafé. — 2020到2022年我在一家咖啡馆工作\n- ✅ Butiken är öppen **från** klockan 10. — 商店从10点开始营业\n\n### i — \"持续……时间\" (for a duration)\n\n表示动作持续的**时间长度**，不指定起点：\n- ✅ Jag har väntat **i** en timme. — 我已经等了一个小时\n- ✅ Hon studerade svenska **i** två år. — 她学了两年瑞典语\n\n## 例句 (Examples)\n\n- ✅ Jag har bott i Hallonbergen sedan 2022. 🇨🇳 我自2022年起住在哈隆贝根（至今）\n- ❌ Jag bor i Hallonbergen från 2022. ← 常见错误：用\"从\"代替\"自从\"，且时态用现在时\n- ✅ Från 2019 till 2022 bodde jag i Göteborg. 🇨🇳 2019到2022年我住在哥德堡\n- ✅ Jag har studerat svenska i ett år. 🇨🇳 我已经学了一年瑞典语\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ ❌ \"Jag bor i Hallonbergen **från** 2022\" → ✅ \"Jag **har bott** i Hallonbergen **sedan** 2022\"\n  - 双重错误：① \"från\" 应为 \"sedan\"（持续到现在用 sedan）；② 时态应用 perfekt（har bott）而非 presens（bor）\n- ⚠️ 用 \"bor\" (presens) 描述\"从某时间点开始一直住着\"：瑞典语要求 perfekt (har bott) 强调\"至今\"\n- ⚠️ sedan 有时也作副词\"然后\"：\"Jag åt frukost och **sedan** gick jag till jobbet\"（然后我去上班了）— 注意区分\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-perfekt]] — 现在完成时（配合 sedan 使用）\n- 📎 [[grammar-presens-preteritum-ram]] — 时态对比框架\n- 📎 [[grammar-prepositioner-rum]] — 空间介词（对比时间介词）\n- 来源: [[source-2026-06-17-meningsrattning-stad]]",
+      "excerpt": "📗 Tidsprepositioner: sedan, från, i — 时间介词 (Time prepositions: since / from / for) 级别: A2 一句话: 用 sedan 表示\"自从某时间点持续到现在\"； från 表示起始点（不含持续到现在）； i 表示持续时长。 规则说明 (Rules) 📐 结构公式: sedan + [tidpunkt] → Jag har bott här sedan 20",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "grammar-prepositioner-rum",
+        "grammar-presens-preteritum-ram",
+        "source-2026-06-17-meningsrattning-stad"
+      ],
+      "searchText": "Tidsprepositioner: sedan, från, i grammar-tidsprepositioner-sedan-fran knowledge_base/grammar/grammar-tidsprepositioner-sedan-fran.md ---\ntype: grammar\nname: \"Tidsprepositioner: sedan, från, i\"\nzh: 时间介词：sedan（自从）、från（从）、i（持续）\nen: Time prepositions — since / from / for (duration)\nlevel: A2\nrelated: [\"grammar-perfekt\", \"grammar-presens-preteritum-ram\", \"grammar-prepositioner-rum\"]\nexamples: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 Tidsprepositioner: sedan, från, i — 时间介词 (Time prepositions: since / from / for)\n\n级别: A2\n一句话: 用 **sedan** 表示\"自从某时间点持续到现在\"；**från** 表示起始点（不含持续到现在）；**i** 表示持续时长。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nsedan + [tidpunkt]  →  Jag har bott här sedan 2022.   (since 2022 — still here now)\nfrån + [tidpunkt]   →  Från 2022 till 2024 bodde jag i Göteborg.  (from...to, completed)\ni + [tidsperiod]    →  Jag har bott här i tre år.      (for three years — duration)\n```\n\n与中文对比:\n- **sedan** ≈ 中文\"自从/从……起（一直到现在）\"— 强调持续状态，结合现在完成时\n- **från** ≈ 中文\"从\"— 只标记起始点，不含\"持续到现在\"的含义\n- **i** ≈ 中文\"……时间（之久）\"— 表示持续时长，不指定起点\n\n与英文对比:\n- **sedan** ≈ \"since\" (since 2022)\n- **från** ≈ \"from\" (from 2022 to 2024)\n- **i** ≈ \"for\" (for three years)\n\n## 详细讲解 (Detail)\n\n### sedan — \"自从\" (since)\n\n当动作/状态**从某时间点开始，持续到现在**时，用 **sedan** + **perfekt（现在完成时）**：\n- ✅ Jag **har bott** i Hallonbergen **sedan** 2022. — 我自2022年起就住在哈隆贝根（现在仍在住）\n- ✅ De **har känt** varandra **sedan** barndomen. — 他们从童年起就认识了\n\n### från — \"从\" (from a start point)\n\n当只标记**起始时间点**（不强调持续到现在，或搭配 \"till\" 表示明确终点）时，用 **från**：\n- ✅ **Från** 2020 **till** 2022 jobbade jag på ett kafé. — 2020到2022年我在一家咖啡馆工作\n- ✅ Butiken är öppen **från** klockan 10. — 商店从10点开始营业\n\n### i — \"持续……时间\" (for a duration)\n\n表示动作持续的**时间长度**，不指定起点：\n- ✅ Jag har väntat **i** en timme. — 我已经等了一个小时\n- ✅ Hon studerade svenska **i** två år. — 她学了两年瑞典语\n\n## 例句 (Examples)\n\n- ✅ Jag har bott i Hallonbergen sedan 2022. 🇨🇳 我自2022年起住在哈隆贝根（至今）\n- ❌ Jag bor i Hallonbergen från 2022. ← 常见错误：用\"从\"代替\"自从\"，且时态用现在时\n- ✅ Från 2019 till 2022 bodde jag i Göteborg. 🇨🇳 2019到2022年我住在哥德堡\n- ✅ Jag har studerat svenska i ett år. 🇨🇳 我已经学了一年瑞典语\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ ❌ \"Jag bor i Hallonbergen **från** 2022\" → ✅ \"Jag **har bott** i Hallonbergen **sedan** 2022\"\n  - 双重错误：① \"från\" 应为 \"sedan\"（持续到现在用 sedan）；② 时态应用 perfekt（har bott）而非 presens（bor）\n- ⚠️ 用 \"bor\" (presens) 描述\"从某时间点开始一直住着\"：瑞典语要求 perfekt (har bott) 强调\"至今\"\n- ⚠️ sedan 有时也作副词\"然后\"：\"Jag åt frukost och **sedan** gick jag till jobbet\"（然后我去上班了）— 注意区分\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-perfekt]] — 现在完成时（配合 sedan 使用）\n- 📎 [[grammar-presens-preteritum-ram]] — 时态对比框架\n- 📎 [[grammar-prepositioner-rum]] — 空间介词（对比时间介词）\n- 来源: [[source-2026-06-17-meningsrattning-stad]]\n",
+      "name": "Tidsprepositioner: sedan, från, i",
+      "zh": "时间介词：sedan（自从）、från（从）、i（持续）",
+      "en": "Time prepositions — since / from / for (duration)",
+      "created": "2026-06-17",
+      "known": false,
+      "backlinks": [
+        "index",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -1724,6 +1795,7 @@ window.KB_DATA = {
         "grammar-presens",
         "grammar-presens-preteritum-ram",
         "grammar-preteritum-oregelbundna",
+        "grammar-relativ-adverb-dar",
         "grammar-satsadverbial",
         "grammar-ska-infinitiv",
         "index",
@@ -1792,7 +1864,33 @@ window.KB_DATA = {
         "source-2026-06-09-en-handelse-i-tidsordning",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-15-restaurang-fodelsedag",
+        "source-2026-06-17-meningsrattning-stad",
         "till-slut"
+      ]
+    },
+    {
+      "slug": "grammar-varje-obestamd",
+      "type": "grammar",
+      "title": "Varje + obestämd form",
+      "path": "knowledge_base/grammar/grammar-varje-obestamd.md",
+      "body": "# 📗 Varje + obestämd form — varje（每个）接不定单数 (varje + indefinite singular)\n\n级别: A2\n一句话: **varje** 意为\"每个/每一\"，后面接**不定式单数**（无冠词），绝不与定冠词（den/det 或词尾 -en/-et）搭配。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nvarje + [obestämd singular utan artikel]\nvarje dag        ✅  (every day)\nvarje sommar     ✅  (every summer)\nvarje vecka      ✅  (every week)\nvarje år         ✅  (every year)\n*varje dagen     ❌  (WRONG — bestämd form)\n*varje sommaren  ❌  (WRONG — bestämd form)\n```\n\n与中文对比:\n- 中文\"每天/每年/每个夏天\"不区分\"定/不定\"，但瑞典语中 varje 强制要求不定形式\n- 相当于：varje = 每个 + 不定词（类似英语 every 后接不带 \"the\" 的单数名词）\n\n与英文对比:\n- **varje** ≈ \"every\": \"every day\" → varje dag（NOT *every the day*）\n- 英语 every 也不接 the，规律相同\n\n## 详细讲解 (Detail)\n\n### varje 的用法\n\nvarje 是一个**量词性限定词**，表示\"每一个\"：\n- ✅ Jag promenerar **varje dag**. — 我每天散步。\n- ✅ **Varje sommar** reser jag till Höga Kusten. — 每年夏天我去高海岸旅行。\n- ✅ Han ringer sin mamma **varje vecka**. — 他每周给妈妈打电话。\n\n### 常见错误：定冠词后缀与 varje 混用\n\n初学者受汉语/英语影响，误以为表达\"每个那个夏天\"需要加定语：\n- ❌ \"på **varje sommaren**\" — 错误！varje 后不接 -en 结尾的定冠词形式\n- ✅ \"**varje sommar**\" — 正确，无定冠词\n\n### \"på varje sommar\" 的双重错误\n\n例句 6 原句 \"På varje sommaren\" 有两处错：\n1. \"sommaren\" → 应为 \"sommar\"（varje 要求不定形）\n2. \"på varje sommar\" → 时间表达中，\"varje sommar\" 通常**不加 \"på\"**（\"på sommaren\" = 夏天，泛指；\"varje sommar\" 不加介词）\n\n## 例句 (Examples)\n\n- ✅ Varje sommar reser jag till Höga Kusten. 🇨🇳 每年夏天我去高海岸。\n- ❌ *På varje sommaren resa jag till höga kusten.* ← 多处错误（varje+定冠词，时态，V2，专有名词大写，交通工具冠词）\n- ✅ Varje dag promenerar hon i parken. 🇨🇳 她每天在公园里散步。\n- ✅ Varje år firar vi jul med familjen. 🇨🇳 每年我们和家人一起过圣诞节。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ ❌ \"varje **dagen**\" → ✅ \"varje **dag**\"（不定形，无词尾 -en）\n- ⚠️ ❌ \"varje **sommaren**\" → ✅ \"varje **sommar**\"\n- ⚠️ 注意：alla（所有）也接不定复数，不接定复数：alla barn（NOT *alla barnen* 在主语位置）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-obestämd-form]] — 不定式的形成与用法\n- 📎 [[grammar-bestämd-form]] — 定冠词形式\n- 📎 [[grammar-singular-plural]] — 单数复数\n- 来源: [[source-2026-06-17-meningsrattning-stad]]",
+      "excerpt": "📗 Varje + obestämd form — varje（每个）接不定单数 (varje + indefinite singular) 级别: A2 一句话: varje 意为\"每个/每一\"，后面接 不定式单数 （无冠词），绝不与定冠词（den/det 或词尾 en/ et）搭配。 规则说明 (Rules) 📐 结构公式: varje + [obestämd singular utan artikel] varje dag ✅",
+      "forms": [],
+      "links": [
+        "grammar-bestämd-form",
+        "grammar-obestämd-form",
+        "grammar-singular-plural",
+        "source-2026-06-17-meningsrattning-stad"
+      ],
+      "searchText": "Varje + obestämd form grammar-varje-obestamd knowledge_base/grammar/grammar-varje-obestamd.md ---\ntype: grammar\nname: \"Varje + obestämd form\"\nzh: varje（每个）+ 不定式单数（不加冠词/定冠词）\nen: \"varje + indefinite singular — 'every/each'\"\nlevel: A2\nrelated: [\"grammar-obestämd-form\", \"grammar-bestämd-form\", \"grammar-singular-plural\"]\nexamples: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 Varje + obestämd form — varje（每个）接不定单数 (varje + indefinite singular)\n\n级别: A2\n一句话: **varje** 意为\"每个/每一\"，后面接**不定式单数**（无冠词），绝不与定冠词（den/det 或词尾 -en/-et）搭配。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nvarje + [obestämd singular utan artikel]\nvarje dag        ✅  (every day)\nvarje sommar     ✅  (every summer)\nvarje vecka      ✅  (every week)\nvarje år         ✅  (every year)\n*varje dagen     ❌  (WRONG — bestämd form)\n*varje sommaren  ❌  (WRONG — bestämd form)\n```\n\n与中文对比:\n- 中文\"每天/每年/每个夏天\"不区分\"定/不定\"，但瑞典语中 varje 强制要求不定形式\n- 相当于：varje = 每个 + 不定词（类似英语 every 后接不带 \"the\" 的单数名词）\n\n与英文对比:\n- **varje** ≈ \"every\": \"every day\" → varje dag（NOT *every the day*）\n- 英语 every 也不接 the，规律相同\n\n## 详细讲解 (Detail)\n\n### varje 的用法\n\nvarje 是一个**量词性限定词**，表示\"每一个\"：\n- ✅ Jag promenerar **varje dag**. — 我每天散步。\n- ✅ **Varje sommar** reser jag till Höga Kusten. — 每年夏天我去高海岸旅行。\n- ✅ Han ringer sin mamma **varje vecka**. — 他每周给妈妈打电话。\n\n### 常见错误：定冠词后缀与 varje 混用\n\n初学者受汉语/英语影响，误以为表达\"每个那个夏天\"需要加定语：\n- ❌ \"på **varje sommaren**\" — 错误！varje 后不接 -en 结尾的定冠词形式\n- ✅ \"**varje sommar**\" — 正确，无定冠词\n\n### \"på varje sommar\" 的双重错误\n\n例句 6 原句 \"På varje sommaren\" 有两处错：\n1. \"sommaren\" → 应为 \"sommar\"（varje 要求不定形）\n2. \"på varje sommar\" → 时间表达中，\"varje sommar\" 通常**不加 \"på\"**（\"på sommaren\" = 夏天，泛指；\"varje sommar\" 不加介词）\n\n## 例句 (Examples)\n\n- ✅ Varje sommar reser jag till Höga Kusten. 🇨🇳 每年夏天我去高海岸。\n- ❌ *På varje sommaren resa jag till höga kusten.* ← 多处错误（varje+定冠词，时态，V2，专有名词大写，交通工具冠词）\n- ✅ Varje dag promenerar hon i parken. 🇨🇳 她每天在公园里散步。\n- ✅ Varje år firar vi jul med familjen. 🇨🇳 每年我们和家人一起过圣诞节。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ ❌ \"varje **dagen**\" → ✅ \"varje **dag**\"（不定形，无词尾 -en）\n- ⚠️ ❌ \"varje **sommaren**\" → ✅ \"varje **sommar**\"\n- ⚠️ 注意：alla（所有）也接不定复数，不接定复数：alla barn（NOT *alla barnen* 在主语位置）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-obestämd-form]] — 不定式的形成与用法\n- 📎 [[grammar-bestämd-form]] — 定冠词形式\n- 📎 [[grammar-singular-plural]] — 单数复数\n- 来源: [[source-2026-06-17-meningsrattning-stad]]\n",
+      "name": "Varje + obestämd form",
+      "zh": "varje（每个）+ 不定式单数（不加冠词/定冠词）",
+      "en": "varje + indefinite singular — 'every/each'",
+      "created": "2026-06-17",
+      "known": false,
+      "backlinks": [
+        "index",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -1800,7 +1898,7 @@ window.KB_DATA = {
       "type": "index",
       "title": "🇸🇪 瑞典语知识库 (Swedish Knowledge Base)",
       "path": "knowledge_base/index.md",
-      "body": "# 🇸🇪 瑞典语知识库 (Swedish Knowledge Base)\n\nObsidian 风格的本地知识库，全部为 markdown，笔记之间用 `[[wikilinks]]` 互联。无数据库。\n存储规则见 [.claude/skills/sv-knowledge-base](../.claude/skills/sv-knowledge-base/SKILL.md)。\n\n## 分类 (Categories)\n\n- 📖 **单词** → `words/` — base form 词条（变形、搭配、同义/反义/词族、例句）\n- 🗣️ **词组** → `phrases/` — 习语 / partikelverb / 固定表达 / 情景用语\n- ✍️ **句子** → `sentences/` — 标注结构、生词、语法的例句\n- 📗 **语法** → `grammar/` — 语法点（规则、对比、常见错误、例句）\n- 🗂️ **主题** → `topics/` — 语义场 / 同义词组（家具、工作、情绪…）\n- 📄 **来源** → `sources/` — 被分析过的文章 / 图片原文\n\n## 统计 (Stats)\n\n> 实时统计由 SessionStart hook 打印；运行 `/kb` 刷新本节。\n\n- 单词: 109 · 词组: 32 · 句子: 9 · 语法: 14 · 主题: 12 · 来源: 4 · **共 180 条目**\n- 可复习: 166 · 已掌握(known): 0\n\n## 最近添加 (Recently added)\n\n- 2026-06-04 (来源) [[source-2026-06-04-nyheter-vecka-22]] — NYHETS-SIDAN Vecka 22, 7篇简易新闻\n- 2026-06-04 (词，44个) [[bestå]], [[påbörja]], [[självständig]], [[invånare]], [[rösta]], [[missnöjd]], [[regering]], [[halvera]], [[månadskort]], [[kollektivtrafik]], [[sänkning]], [[gälla]], [[studiemedel]], [[bidrag]], [[tjäna]], [[gräns]], [[fribelopp]], [[ungdom]], [[energidryck]], [[innehålla]], [[koffein]], [[sömn]], [[hjärtklappning]], [[oro]], [[burk]], [[råd]], [[skatt]], [[gräva]], [[mask]], [[mynt]], [[pärla]], [[hittelön]], [[skolavslutning]], [[medborgare]], [[kommun]], [[välkomna]], [[provins]], [[spårvagn]], [[lån]], [[ring]], [[nationaldag]], [[studentmössa]], [[grundskola]], [[gymnasieelev]]\n- 2026-06-04 (词，已丰富) [[hälsa]] — 添加名词义（健康）\n- 2026-06-04 (词组，9个) [[bestå-av]], [[rösta-om]], [[betala-tillbaka]], [[ta-studenten]], [[allt-mer]], [[det-borjar-bli-dags-for]], [[i-hela-sverige]], [[skulle-ut-och-fiska]], [[jobba-extra]]\n- 2026-06-04 (句子，5个) [[sent-den-fragan-ska-invanarna-i-alberta]], [[sent-regeringen-vill-halvera-priset]], [[sent-gransen-kallas-fribelopp]], [[sent-ett-par-i-sodertälje-skulle-ut]], [[sent-manga-kommuner-valkomnar-sina-nya]]\n- 2026-06-04 (语法，4个) [[grammar-bestämd-form]], [[grammar-ska-infinitiv]], [[grammar-passiv-med-s]], [[grammar-preteritum]]\n- 2026-06-04 (主题，4个) [[topic-nyheter-vecka22]], [[topic-kollektivtrafik]], [[topic-samhälle-och-politik]], [[topic-hälsa]]\n- 2026-06-03 (来源) [[source-2026-06-03-sundbyberg-forskola]] — Sundbyberg 幼儿园名额通知\n- 2026-06-03 (词) [[garantiplacering]], [[byteskö]], [[bildning]], [[lärande]], [[e-tjänst]]\n- 2026-06-03 (词，已存在) [[erbjudande]], [[förskola]], [[besvara]], [[veckodagar]], [[val]], [[innebära]], [[placering]]\n- 2026-06-03 (词组) [[logga-in]], [[med-vanlig-halsning]], [[söka-till]]\n- 2026-06-03 (语法) [[grammar-konditionell-topikalisering]]\n- 2026-06-03 (主题) [[topic-skola-och-utbildning]], [[topic-förskola-system]]\n- 2026-06-02 (来源) [[source-2026-06-02-astrid-lindgren]] — Astrid Lindgren 传记文本\n- 2026-06-02 (词) [[barnboksförfattare]], [[klättra]], [[hoppa]], [[bada]], [[klia]], [[låna]], [[skvallra]], [[döpa]], [[längta]], [[berätta]], [[bestämma]], [[publicera]], [[fortsätta]], [[kämpa]], [[minnas]], [[visa]]\n- 2026-06-02 (词) [[vecka]] · [[vän]] · [[arbeta]] · [[jobba]]\n- 2026-06-02 (句) [[sent-jag-arbetar-pa-ett-sjukhus]] · (语法) [[grammar-v2-ordfoljd]] · (主题) [[topic-arbete]]\n- 2026-06-02 (来源) [[source-2026-06-02-valj-ratt-form]] — \"Välj rätt form\" 语法练习 *(注: 词条未批量录入)*\n\n## 待补全 (Stubs worth creating)\n\n### 语法 (已新建 / 更新)\n- `grammar-bestämd-form` ✅ (2026-06-04 新建)\n- `grammar-passiv-med-s` ✅ (2026-06-04 新建)\n- `grammar-ska-infinitiv` ✅ (2026-06-04 新建)\n- `grammar-preteritum` ✅ (2026-06-04 新建)\n- `grammar-obestämd-form` · `grammar-e-bortfall` · `grammar-5e-deklinationen`\n- `grammar-possessiv-obestämd` · `grammar-ny-känd-information` · `grammar-en-ord-vs-ett-ord`\n\n### 主题 (2 个断链)\n- `topic-tid` (来自 [[vecka]]) · `topic-relationer` (来自 [[vän]])\n- `topic-mat-och-dryck` (引用自 [[energidryck]], [[koffein]])\n\n### 词 / 词组 (高频断链)\n- `arbete` (被 10+ 条目引用) · `tacka` (被 tacka-ja/nej 引用)\n- `logga-ut` · `hälsning` · `skicka` · `förstå` · `sjukhus`\n- `förläggare` · `författare` · `barnbok`\n\n## 孤立笔记 (Orphans — no inbound links)\n- [[words/framför]] · [[words/människa]] · [[source-2026-06-02-valj-ratt-form]]\n\n## 学习入口 (Workflows)\n\n- `/learn <词/句/图片>` — 查询 + 自动录入\n- `/review` — 间隔复习\n- `/assess` — 评估水平 → [[../profile/level.md]]\n- `/kb` — 知识库健康检查",
+      "body": "# 🇸🇪 瑞典语知识库 (Swedish Knowledge Base)\n\nObsidian 风格的本地知识库，全部为 markdown，笔记之间用 `[[wikilinks]]` 互联。无数据库。\n存储规则见 [.claude/skills/sv-knowledge-base](../.claude/skills/sv-knowledge-base/SKILL.md)。\n\n## 分类 (Categories)\n\n- 📖 **单词** → `words/` — base form 词条（变形、搭配、同义/反义/词族、例句）\n- 🗣️ **词组** → `phrases/` — 习语 / partikelverb / 固定表达 / 情景用语\n- ✍️ **句子** → `sentences/` — 标注结构、生词、语法的例句\n- 📗 **语法** → `grammar/` — 语法点（规则、对比、常见错误、例句）\n- 🗂️ **主题** → `topics/` — 语义场 / 同义词组（家具、工作、情绪…）\n- 📄 **来源** → `sources/` — 被分析过的文章 / 图片原文\n\n## 统计 (Stats)\n\n> 实时统计由 SessionStart hook 打印；运行 `/kb` 刷新本节。\n\n- 单词: 109 · 词组: 32 · 句子: 9 · 语法: 14 · 主题: 12 · 来源: 4 · **共 180 条目**\n- 可复习: 166 · 已掌握(known): 0\n\n## 最近添加 (Recently added)\n\n- 2026-06-17 (来源) [[source-2026-06-17-meningsrattning-stad]] — 改错题：Meningsrättning, beskriva sin stad (6句)\n- 2026-06-17 (词，新建 6个) [[leka]], [[område]], [[våning]], [[resa]], [[kust]], [[jättefin]]\n- 2026-06-17 (词，已存在) [[park]], [[kompis]], [[plats]], [[promenera]], [[hus]], [[bo]], [[restaurang]], [[stad]], [[sommar]], [[bil]], [[barn]], [[sedan]]\n- 2026-06-17 (语法，新建 3个) [[grammar-tidsprepositioner-sedan-fran]], [[grammar-relativ-adverb-dar]], [[grammar-varje-obestamd]]\n- 2026-06-17 (语法，已存在，本练习涉及) [[grammar-det-finns]], [[grammar-en-ord-ett-ord]], [[grammar-infinitiv]], [[grammar-substantiv-plural]], [[grammar-v2-ordfoljd]], [[grammar-obestämd-form]], [[grammar-sammansatt-ord]]\n\n- 2026-06-04 (来源) [[source-2026-06-04-nyheter-vecka-22]] — NYHETS-SIDAN Vecka 22, 7篇简易新闻\n- 2026-06-04 (词，44个) [[bestå]], [[påbörja]], [[självständig]], [[invånare]], [[rösta]], [[missnöjd]], [[regering]], [[halvera]], [[månadskort]], [[kollektivtrafik]], [[sänkning]], [[gälla]], [[studiemedel]], [[bidrag]], [[tjäna]], [[gräns]], [[fribelopp]], [[ungdom]], [[energidryck]], [[innehålla]], [[koffein]], [[sömn]], [[hjärtklappning]], [[oro]], [[burk]], [[råd]], [[skatt]], [[gräva]], [[mask]], [[mynt]], [[pärla]], [[hittelön]], [[skolavslutning]], [[medborgare]], [[kommun]], [[välkomna]], [[provins]], [[spårvagn]], [[lån]], [[ring]], [[nationaldag]], [[studentmössa]], [[grundskola]], [[gymnasieelev]]\n- 2026-06-04 (词，已丰富) [[hälsa]] — 添加名词义（健康）\n- 2026-06-04 (词组，9个) [[bestå-av]], [[rösta-om]], [[betala-tillbaka]], [[ta-studenten]], [[allt-mer]], [[det-borjar-bli-dags-for]], [[i-hela-sverige]], [[skulle-ut-och-fiska]], [[jobba-extra]]\n- 2026-06-04 (句子，5个) [[sent-den-fragan-ska-invanarna-i-alberta]], [[sent-regeringen-vill-halvera-priset]], [[sent-gransen-kallas-fribelopp]], [[sent-ett-par-i-sodertälje-skulle-ut]], [[sent-manga-kommuner-valkomnar-sina-nya]]\n- 2026-06-04 (语法，4个) [[grammar-bestämd-form]], [[grammar-ska-infinitiv]], [[grammar-passiv-med-s]], [[grammar-preteritum]]\n- 2026-06-04 (主题，4个) [[topic-nyheter-vecka22]], [[topic-kollektivtrafik]], [[topic-samhälle-och-politik]], [[topic-hälsa]]\n- 2026-06-03 (来源) [[source-2026-06-03-sundbyberg-forskola]] — Sundbyberg 幼儿园名额通知\n- 2026-06-03 (词) [[garantiplacering]], [[byteskö]], [[bildning]], [[lärande]], [[e-tjänst]]\n- 2026-06-03 (词，已存在) [[erbjudande]], [[förskola]], [[besvara]], [[veckodagar]], [[val]], [[innebära]], [[placering]]\n- 2026-06-03 (词组) [[logga-in]], [[med-vanlig-halsning]], [[söka-till]]\n- 2026-06-03 (语法) [[grammar-konditionell-topikalisering]]\n- 2026-06-03 (主题) [[topic-skola-och-utbildning]], [[topic-förskola-system]]\n- 2026-06-02 (来源) [[source-2026-06-02-astrid-lindgren]] — Astrid Lindgren 传记文本\n- 2026-06-02 (词) [[barnboksförfattare]], [[klättra]], [[hoppa]], [[bada]], [[klia]], [[låna]], [[skvallra]], [[döpa]], [[längta]], [[berätta]], [[bestämma]], [[publicera]], [[fortsätta]], [[kämpa]], [[minnas]], [[visa]]\n- 2026-06-02 (词) [[vecka]] · [[vän]] · [[arbeta]] · [[jobba]]\n- 2026-06-02 (句) [[sent-jag-arbetar-pa-ett-sjukhus]] · (语法) [[grammar-v2-ordfoljd]] · (主题) [[topic-arbete]]\n- 2026-06-02 (来源) [[source-2026-06-02-valj-ratt-form]] — \"Välj rätt form\" 语法练习 *(注: 词条未批量录入)*\n\n## 待补全 (Stubs worth creating)\n\n### 语法 (已新建 / 更新)\n- `grammar-bestämd-form` ✅ (2026-06-04 新建)\n- `grammar-passiv-med-s` ✅ (2026-06-04 新建)\n- `grammar-ska-infinitiv` ✅ (2026-06-04 新建)\n- `grammar-preteritum` ✅ (2026-06-04 新建)\n- `grammar-obestämd-form` · `grammar-e-bortfall` · `grammar-5e-deklinationen`\n- `grammar-possessiv-obestämd` · `grammar-ny-känd-information` · `grammar-en-ord-vs-ett-ord`\n\n### 主题 (2 个断链)\n- `topic-tid` (来自 [[vecka]]) · `topic-relationer` (来自 [[vän]])\n- `topic-mat-och-dryck` (引用自 [[energidryck]], [[koffein]])\n\n### 词 / 词组 (高频断链)\n- `arbete` (被 10+ 条目引用) · `tacka` (被 tacka-ja/nej 引用)\n- `logga-ut` · `hälsning` · `skicka` · `förstå` · `sjukhus`\n- `förläggare` · `författare` · `barnbok`\n\n## 孤立笔记 (Orphans — no inbound links)\n- [[words/framför]] · [[words/människa]] · [[source-2026-06-02-valj-ratt-form]]\n\n## 学习入口 (Workflows)\n\n- `/learn <词/句/图片>` — 查询 + 自动录入\n- `/review` — 间隔复习\n- `/assess` — 评估水平 → [[../profile/level.md]]\n- `/kb` — 知识库健康检查",
       "excerpt": "🇸🇪 瑞典语知识库 (Swedish Knowledge Base) Obsidian 风格的本地知识库，全部为 markdown，笔记之间用 wikilinks 互联。无数据库。 存储规则见 [.claude/skills/sv knowledge base](../.claude/skills/sv knowledge base/SKILL.md)。 分类 (Categories) 📖 单词 → words/ — base f",
       "forms": [],
       "links": [
@@ -1808,6 +1906,7 @@ window.KB_DATA = {
         "allt-mer",
         "arbeta",
         "bada",
+        "barn",
         "barnboksförfattare",
         "berätta",
         "bestå",
@@ -1816,7 +1915,9 @@ window.KB_DATA = {
         "besvara",
         "betala-tillbaka",
         "bidrag",
+        "bil",
         "bildning",
+        "bo",
         "burk",
         "byteskö",
         "det-borjar-bli-dags-for",
@@ -1830,11 +1931,20 @@ window.KB_DATA = {
         "gälla",
         "garantiplacering",
         "grammar-bestämd-form",
+        "grammar-det-finns",
+        "grammar-en-ord-ett-ord",
+        "grammar-infinitiv",
         "grammar-konditionell-topikalisering",
+        "grammar-obestämd-form",
         "grammar-passiv-med-s",
         "grammar-preteritum",
+        "grammar-relativ-adverb-dar",
+        "grammar-sammansatt-ord",
         "grammar-ska-infinitiv",
+        "grammar-substantiv-plural",
+        "grammar-tidsprepositioner-sedan-fran",
         "grammar-v2-ordfoljd",
+        "grammar-varje-obestamd",
         "gräns",
         "gräva",
         "grundskola",
@@ -1844,10 +1954,12 @@ window.KB_DATA = {
         "hittelön",
         "hjärtklappning",
         "hoppa",
+        "hus",
         "i-hela-sverige",
         "innebära",
         "innehålla",
         "invånare",
+        "jättefin",
         "jobba",
         "jobba-extra",
         "kämpa",
@@ -1856,10 +1968,13 @@ window.KB_DATA = {
         "koffein",
         "kollektivtrafik",
         "kommun",
+        "kompis",
+        "kust",
         "lån",
         "låna",
         "längta",
         "lärande",
+        "leka",
         "logga-in",
         "månadskort",
         "mask",
@@ -1869,18 +1984,25 @@ window.KB_DATA = {
         "missnöjd",
         "mynt",
         "nationaldag",
+        "område",
         "oro",
         "påbörja",
+        "park",
         "pärla",
         "placering",
+        "plats",
+        "promenera",
         "provins",
         "publicera",
         "råd",
         "regering",
+        "resa",
+        "restaurang",
         "ring",
         "rösta",
         "rösta-om",
         "sänkning",
+        "sedan",
         "sent-den-fragan-ska-invanarna-i-alberta",
         "sent-ett-par-i-sodertälje-skulle-ut",
         "sent-gransen-kallas-fribelopp",
@@ -1893,12 +2015,15 @@ window.KB_DATA = {
         "skulle-ut-och-fiska",
         "skvallra",
         "söka-till",
+        "sommar",
         "sömn",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-03-sundbyberg-forskola",
         "source-2026-06-04-nyheter-vecka-22",
+        "source-2026-06-17-meningsrattning-stad",
         "spårvagn",
+        "stad",
         "studentmössa",
         "studiemedel",
         "ta-studenten",
@@ -1914,6 +2039,7 @@ window.KB_DATA = {
         "val",
         "välkomna",
         "vän",
+        "våning",
         "vecka",
         "veckodagar",
         "visa",
@@ -1921,7 +2047,7 @@ window.KB_DATA = {
         "words/framför",
         "words/människa"
       ],
-      "searchText": "🇸🇪 瑞典语知识库 (Swedish Knowledge Base) index knowledge_base/index.md ---\ntype: index\nupdated: 2026-06-04\n---\n\n# 🇸🇪 瑞典语知识库 (Swedish Knowledge Base)\n\nObsidian 风格的本地知识库，全部为 markdown，笔记之间用 `[[wikilinks]]` 互联。无数据库。\n存储规则见 [.claude/skills/sv-knowledge-base](../.claude/skills/sv-knowledge-base/SKILL.md)。\n\n## 分类 (Categories)\n\n- 📖 **单词** → `words/` — base form 词条（变形、搭配、同义/反义/词族、例句）\n- 🗣️ **词组** → `phrases/` — 习语 / partikelverb / 固定表达 / 情景用语\n- ✍️ **句子** → `sentences/` — 标注结构、生词、语法的例句\n- 📗 **语法** → `grammar/` — 语法点（规则、对比、常见错误、例句）\n- 🗂️ **主题** → `topics/` — 语义场 / 同义词组（家具、工作、情绪…）\n- 📄 **来源** → `sources/` — 被分析过的文章 / 图片原文\n\n## 统计 (Stats)\n\n> 实时统计由 SessionStart hook 打印；运行 `/kb` 刷新本节。\n\n- 单词: 109 · 词组: 32 · 句子: 9 · 语法: 14 · 主题: 12 · 来源: 4 · **共 180 条目**\n- 可复习: 166 · 已掌握(known): 0\n\n## 最近添加 (Recently added)\n\n- 2026-06-04 (来源) [[source-2026-06-04-nyheter-vecka-22]] — NYHETS-SIDAN Vecka 22, 7篇简易新闻\n- 2026-06-04 (词，44个) [[bestå]], [[påbörja]], [[självständig]], [[invånare]], [[rösta]], [[missnöjd]], [[regering]], [[halvera]], [[månadskort]], [[kollektivtrafik]], [[sänkning]], [[gälla]], [[studiemedel]], [[bidrag]], [[tjäna]], [[gräns]], [[fribelopp]], [[ungdom]], [[energidryck]], [[innehålla]], [[koffein]], [[sömn]], [[hjärtklappning]], [[oro]], [[burk]], [[råd]], [[skatt]], [[gräva]], [[mask]], [[mynt]], [[pärla]], [[hittelön]], [[skolavslutning]], [[medborgare]], [[kommun]], [[välkomna]], [[provins]], [[spårvagn]], [[lån]], [[ring]], [[nationaldag]], [[studentmössa]], [[grundskola]], [[gymnasieelev]]\n- 2026-06-04 (词，已丰富) [[hälsa]] — 添加名词义（健康）\n- 2026-06-04 (词组，9个) [[bestå-av]], [[rösta-om]], [[betala-tillbaka]], [[ta-studenten]], [[allt-mer]], [[det-borjar-bli-dags-for]], [[i-hela-sverige]], [[skulle-ut-och-fiska]], [[jobba-extra]]\n- 2026-06-04 (句子，5个) [[sent-den-fragan-ska-invanarna-i-alberta]], [[sent-regeringen-vill-halvera-priset]], [[sent-gransen-kallas-fribelopp]], [[sent-ett-par-i-sodertälje-skulle-ut]], [[sent-manga-kommuner-valkomnar-sina-nya]]\n- 2026-06-04 (语法，4个) [[grammar-bestämd-form]], [[grammar-ska-infinitiv]], [[grammar-passiv-med-s]], [[grammar-preteritum]]\n- 2026-06-04 (主题，4个) [[topic-nyheter-vecka22]], [[topic-kollektivtrafik]], [[topic-samhälle-och-politik]], [[topic-hälsa]]\n- 2026-06-03 (来源) [[source-2026-06-03-sundbyberg-forskola]] — Sundbyberg 幼儿园名额通知\n- 2026-06-03 (词) [[garantiplacering]], [[byteskö]], [[bildning]], [[lärande]], [[e-tjänst]]\n- 2026-06-03 (词，已存在) [[erbjudande]], [[förskola]], [[besvara]], [[veckodagar]], [[val]], [[innebära]], [[placering]]\n- 2026-06-03 (词组) [[logga-in]], [[med-vanlig-halsning]], [[söka-till]]\n- 2026-06-03 (语法) [[grammar-konditionell-topikalisering]]\n- 2026-06-03 (主题) [[topic-skola-och-utbildning]], [[topic-förskola-system]]\n- 2026-06-02 (来源) [[source-2026-06-02-astrid-lindgren]] — Astrid Lindgren 传记文本\n- 2026-06-02 (词) [[barnboksförfattare]], [[klättra]], [[hoppa]], [[bada]], [[klia]], [[låna]], [[skvallra]], [[döpa]], [[längta]], [[berätta]], [[bestämma]], [[publicera]], [[fortsätta]], [[kämpa]], [[minnas]], [[visa]]\n- 2026-06-02 (词) [[vecka]] · [[vän]] · [[arbeta]] · [[jobba]]\n- 2026-06-02 (句) [[sent-jag-arbetar-pa-ett-sjukhus]] · (语法) [[grammar-v2-ordfoljd]] · (主题) [[topic-arbete]]\n- 2026-06-02 (来源) [[source-2026-06-02-valj-ratt-form]] — \"Välj rätt form\" 语法练习 *(注: 词条未批量录入)*\n\n## 待补全 (Stubs worth creating)\n\n### 语法 (已新建 / 更新)\n- `grammar-bestämd-form` ✅ (2026-06-04 新建)\n- `grammar-passiv-med-s` ✅ (2026-06-04 新建)\n- `grammar-ska-infinitiv` ✅ (2026-06-04 新建)\n- `grammar-preteritum` ✅ (2026-06-04 新建)\n- `grammar-obestämd-form` · `grammar-e-bortfall` · `grammar-5e-deklinationen`\n- `grammar-possessiv-obestämd` · `grammar-ny-känd-information` · `grammar-en-ord-vs-ett-ord`\n\n### 主题 (2 个断链)\n- `topic-tid` (来自 [[vecka]]) · `topic-relationer` (来自 [[vän]])\n- `topic-mat-och-dryck` (引用自 [[energidryck]], [[koffein]])\n\n### 词 / 词组 (高频断链)\n- `arbete` (被 10+ 条目引用) · `tacka` (被 tacka-ja/nej 引用)\n- `logga-ut` · `hälsning` · `skicka` · `förstå` · `sjukhus`\n- `förläggare` · `författare` · `barnbok`\n\n## 孤立笔记 (Orphans — no inbound links)\n- [[words/framför]] · [[words/människa]] · [[source-2026-06-02-valj-ratt-form]]\n\n## 学习入口 (Workflows)\n\n- `/learn <词/句/图片>` — 查询 + 自动录入\n- `/review` — 间隔复习\n- `/assess` — 评估水平 → [[../profile/level.md]]\n- `/kb` — 知识库健康检查\n",
+      "searchText": "🇸🇪 瑞典语知识库 (Swedish Knowledge Base) index knowledge_base/index.md ---\ntype: index\nupdated: 2026-06-04\n---\n\n# 🇸🇪 瑞典语知识库 (Swedish Knowledge Base)\n\nObsidian 风格的本地知识库，全部为 markdown，笔记之间用 `[[wikilinks]]` 互联。无数据库。\n存储规则见 [.claude/skills/sv-knowledge-base](../.claude/skills/sv-knowledge-base/SKILL.md)。\n\n## 分类 (Categories)\n\n- 📖 **单词** → `words/` — base form 词条（变形、搭配、同义/反义/词族、例句）\n- 🗣️ **词组** → `phrases/` — 习语 / partikelverb / 固定表达 / 情景用语\n- ✍️ **句子** → `sentences/` — 标注结构、生词、语法的例句\n- 📗 **语法** → `grammar/` — 语法点（规则、对比、常见错误、例句）\n- 🗂️ **主题** → `topics/` — 语义场 / 同义词组（家具、工作、情绪…）\n- 📄 **来源** → `sources/` — 被分析过的文章 / 图片原文\n\n## 统计 (Stats)\n\n> 实时统计由 SessionStart hook 打印；运行 `/kb` 刷新本节。\n\n- 单词: 109 · 词组: 32 · 句子: 9 · 语法: 14 · 主题: 12 · 来源: 4 · **共 180 条目**\n- 可复习: 166 · 已掌握(known): 0\n\n## 最近添加 (Recently added)\n\n- 2026-06-17 (来源) [[source-2026-06-17-meningsrattning-stad]] — 改错题：Meningsrättning, beskriva sin stad (6句)\n- 2026-06-17 (词，新建 6个) [[leka]], [[område]], [[våning]], [[resa]], [[kust]], [[jättefin]]\n- 2026-06-17 (词，已存在) [[park]], [[kompis]], [[plats]], [[promenera]], [[hus]], [[bo]], [[restaurang]], [[stad]], [[sommar]], [[bil]], [[barn]], [[sedan]]\n- 2026-06-17 (语法，新建 3个) [[grammar-tidsprepositioner-sedan-fran]], [[grammar-relativ-adverb-dar]], [[grammar-varje-obestamd]]\n- 2026-06-17 (语法，已存在，本练习涉及) [[grammar-det-finns]], [[grammar-en-ord-ett-ord]], [[grammar-infinitiv]], [[grammar-substantiv-plural]], [[grammar-v2-ordfoljd]], [[grammar-obestämd-form]], [[grammar-sammansatt-ord]]\n\n- 2026-06-04 (来源) [[source-2026-06-04-nyheter-vecka-22]] — NYHETS-SIDAN Vecka 22, 7篇简易新闻\n- 2026-06-04 (词，44个) [[bestå]], [[påbörja]], [[självständig]], [[invånare]], [[rösta]], [[missnöjd]], [[regering]], [[halvera]], [[månadskort]], [[kollektivtrafik]], [[sänkning]], [[gälla]], [[studiemedel]], [[bidrag]], [[tjäna]], [[gräns]], [[fribelopp]], [[ungdom]], [[energidryck]], [[innehålla]], [[koffein]], [[sömn]], [[hjärtklappning]], [[oro]], [[burk]], [[råd]], [[skatt]], [[gräva]], [[mask]], [[mynt]], [[pärla]], [[hittelön]], [[skolavslutning]], [[medborgare]], [[kommun]], [[välkomna]], [[provins]], [[spårvagn]], [[lån]], [[ring]], [[nationaldag]], [[studentmössa]], [[grundskola]], [[gymnasieelev]]\n- 2026-06-04 (词，已丰富) [[hälsa]] — 添加名词义（健康）\n- 2026-06-04 (词组，9个) [[bestå-av]], [[rösta-om]], [[betala-tillbaka]], [[ta-studenten]], [[allt-mer]], [[det-borjar-bli-dags-for]], [[i-hela-sverige]], [[skulle-ut-och-fiska]], [[jobba-extra]]\n- 2026-06-04 (句子，5个) [[sent-den-fragan-ska-invanarna-i-alberta]], [[sent-regeringen-vill-halvera-priset]], [[sent-gransen-kallas-fribelopp]], [[sent-ett-par-i-sodertälje-skulle-ut]], [[sent-manga-kommuner-valkomnar-sina-nya]]\n- 2026-06-04 (语法，4个) [[grammar-bestämd-form]], [[grammar-ska-infinitiv]], [[grammar-passiv-med-s]], [[grammar-preteritum]]\n- 2026-06-04 (主题，4个) [[topic-nyheter-vecka22]], [[topic-kollektivtrafik]], [[topic-samhälle-och-politik]], [[topic-hälsa]]\n- 2026-06-03 (来源) [[source-2026-06-03-sundbyberg-forskola]] — Sundbyberg 幼儿园名额通知\n- 2026-06-03 (词) [[garantiplacering]], [[byteskö]], [[bildning]], [[lärande]], [[e-tjänst]]\n- 2026-06-03 (词，已存在) [[erbjudande]], [[förskola]], [[besvara]], [[veckodagar]], [[val]], [[innebära]], [[placering]]\n- 2026-06-03 (词组) [[logga-in]], [[med-vanlig-halsning]], [[söka-till]]\n- 2026-06-03 (语法) [[grammar-konditionell-topikalisering]]\n- 2026-06-03 (主题) [[topic-skola-och-utbildning]], [[topic-förskola-system]]\n- 2026-06-02 (来源) [[source-2026-06-02-astrid-lindgren]] — Astrid Lindgren 传记文本\n- 2026-06-02 (词) [[barnboksförfattare]], [[klättra]], [[hoppa]], [[bada]], [[klia]], [[låna]], [[skvallra]], [[döpa]], [[längta]], [[berätta]], [[bestämma]], [[publicera]], [[fortsätta]], [[kämpa]], [[minnas]], [[visa]]\n- 2026-06-02 (词) [[vecka]] · [[vän]] · [[arbeta]] · [[jobba]]\n- 2026-06-02 (句) [[sent-jag-arbetar-pa-ett-sjukhus]] · (语法) [[grammar-v2-ordfoljd]] · (主题) [[topic-arbete]]\n- 2026-06-02 (来源) [[source-2026-06-02-valj-ratt-form]] — \"Välj rätt form\" 语法练习 *(注: 词条未批量录入)*\n\n## 待补全 (Stubs worth creating)\n\n### 语法 (已新建 / 更新)\n- `grammar-bestämd-form` ✅ (2026-06-04 新建)\n- `grammar-passiv-med-s` ✅ (2026-06-04 新建)\n- `grammar-ska-infinitiv` ✅ (2026-06-04 新建)\n- `grammar-preteritum` ✅ (2026-06-04 新建)\n- `grammar-obestämd-form` · `grammar-e-bortfall` · `grammar-5e-deklinationen`\n- `grammar-possessiv-obestämd` · `grammar-ny-känd-information` · `grammar-en-ord-vs-ett-ord`\n\n### 主题 (2 个断链)\n- `topic-tid` (来自 [[vecka]]) · `topic-relationer` (来自 [[vän]])\n- `topic-mat-och-dryck` (引用自 [[energidryck]], [[koffein]])\n\n### 词 / 词组 (高频断链)\n- `arbete` (被 10+ 条目引用) · `tacka` (被 tacka-ja/nej 引用)\n- `logga-ut` · `hälsning` · `skicka` · `förstå` · `sjukhus`\n- `förläggare` · `författare` · `barnbok`\n\n## 孤立笔记 (Orphans — no inbound links)\n- [[words/framför]] · [[words/människa]] · [[source-2026-06-02-valj-ratt-form]]\n\n## 学习入口 (Workflows)\n\n- `/learn <词/句/图片>` — 查询 + 自动录入\n- `/review` — 间隔复习\n- `/assess` — 评估水平 → [[../profile/level.md]]\n- `/kb` — 知识库健康检查\n",
       "backlinks": []
     },
     {
@@ -18150,6 +18276,96 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-17-meningsrattning-stad",
+      "type": "source",
+      "title": "Meningsrättning — beskriva sin stad",
+      "path": "knowledge_base/sources/source-2026-06-17-meningsrattning-stad.md",
+      "body": "# 📄 Meningsrättning — beskriva sin stad\n\n类型: exercise (改错题 — 找错并改正) · 难度: A2\n日期: 2026-06-17\n\n## 原题说明\n\n> Vad är fel på meningarna? Hur kan man ändra den till en bättre?\n> （这些句子有什么错误？如何改成更好的表达？）\n\n## 原文与改正 (Source Text — Original ❌ → Corrected ✅)\n\n### Mening 1\n❌ Det har mycket parken för barnen. Min barn har kompis, att lek med i området.\n✅ Det finns många parker för barnen. Mitt barn har kompisar att leka med i området.\n\n**错误分析:**\n1. \"det har\" → \"det finns\"（表示存在用 det finns，不用 det har）→ 见 [[grammar-det-finns]]\n2. \"mycket parken\" → \"många parker\"（可数名词用 många；park 为 en-ord，复数不定形 parker）→ 见 [[grammar-substantiv-plural]]\n3. \"Min barn\" → \"Mitt barn\"（barn 是 ett-ord，物主代词用 mitt，不用 min）→ 见 [[grammar-en-ord-ett-ord]]\n4. \"kompis\" → \"kompisar\"（语义需复数；en kompis → kompisar）→ 见 [[grammar-substantiv-plural]]\n5. \"att lek\" → \"att leka\"（att 后接动词原形 / infinitiv）→ 见 [[grammar-infinitiv]]\n\n---\n\n### Mening 2\n❌ Det är bra plats var jag kan promenera varje dag.\n✅ Det är en bra plats som/där jag kan promenera varje dag.\n\n**错误分析:**\n1. 缺少不定冠词：\"bra plats\" → \"en bra plats\"（第一次提及，不定形）→ 见 [[grammar-obestämd-form]]\n2. \"var\" → \"där\"（关系从句中描述地点用关系副词 där，而非疑问词 var；som 也可，但 där 更自然）→ 见 [[grammar-relativ-adverb-dar]]\n\n---\n\n### Mening 3\n✅ Mitt hus har 5 våningar. — **本句已正确，无需改正。**\n改写版（同样正确）: I mitt hus finns det 5 våningar.（用 det finns 构型，均可接受）\n\n**教学备注:** 两种表达均正确；\"det finns\" 构型见 [[grammar-det-finns]]\n\n---\n\n### Mening 4\n❌ Jag bor i Hallonbergen från 2022.\n✅ Jag har bott i Hallonbergen sedan 2022.\n\n**错误分析:**\n1. \"från\" → \"sedan\"（描述从某时间点\"持续到现在\"用 sedan，不用 från）→ 见 [[grammar-tidsprepositioner-sedan-fran]]\n2. \"bor\" (presens) → \"har bott\" (perfekt)（自某时间点开始、至今仍持续的状态，瑞典语用现在完成时 perfekt）→ 见 [[grammar-perfekt]]\n\n---\n\n### Mening 5\n❌ T är stora staden och jätte fin och finns många resturang och stora parken.\n✅ Det är en stor stad och (den är) jättefin. Det finns många restauranger och stora parker.\n\n**错误分析:**\n1. \"T är\" → \"Det är\"（缺字，需补全主语 Det）\n2. \"stora staden\" (bestämd form) → \"en stor stad\" (obestämd form)（第一次引入，用不定形）→ 见 [[grammar-obestämd-form]]\n3. \"jätte fin\" → \"jättefin\"（jätte- 前缀须与形容词**连写**，不加空格）→ 见 [[grammar-sammansatt-ord]]\n4. \"resturang\" → \"restaurang / restauranger\"（拼写错误 + 需复数不定形）→ 见 [[grammar-substantiv-plural]]\n5. \"stora parken\" (sg bestämd) → \"stora parker\" (pl obestämd)（语境需复数；第一次提及，用不定形）\n\n---\n\n### Mening 6\n❌ På varje sommaren resa jag till höga kusten med en bil.\n✅ Varje sommar reser jag till Höga Kusten med bil.\n\n**错误分析:**\n1. \"varje sommaren\" → \"varje sommar\"（varje 要求不定式单数，不与定冠词词尾 -en 搭配；且 \"på\" 可省略）→ 见 [[grammar-varje-obestamd]]\n2. \"resa jag\" → \"reser jag\"（① 时态：一般习惯用现在时 presens；② V2 语序：时间状语前置时动词须紧跟）→ 见 [[grammar-v2-ordfoljd]]\n3. \"höga kusten\" → \"Höga Kusten\"（专有地名，须大写；Höga Kusten 是瑞典世界遗产）\n4. \"med en bil\" → \"med bil\"（表示交通方式的固定搭配：med + 交通工具，**不加冠词**）\n\n---\n\n## 全文翻译 (Translation)\n\n🇨🇳 这是一份关于\"描述自己所在城市/地区\"的改错练习题。学习者（Ruibo）逐句找出错误并改正：\n1. 公园与孩子玩伴（存在句、可数名词复数、ett-ord 物主代词、att+不定式）\n2. 散步好地方（不定冠词、关系副词 där）\n3. 楼层数（det finns / har 两种表达均可）\n4. 居住时长（时间介词 sedan vs från，perfekt 时态）\n5. 描述城市（不定冠词、jätte-前缀连写、拼写、复数）\n6. 夏季旅行（varje+不定式、V2语序、专有名词大写、交通工具无冠词）\n\n## 提取 (Extracted → linked notes)\n\n**生词（新建）:**\n- [[leka]] · [[område]] · [[våning]] · [[resa]] · [[kust]] · [[jättefin]]\n\n**生词（已存在）:**\n- [[park]] · [[kompis]] · [[plats]] · [[promenera]] · [[hus]] · [[bo]] · [[restaurang]] · [[stad]] · [[sommar]] · [[bil]] · [[barn]] · [[sedan]]\n\n**语法（新建）:**\n- [[grammar-tidsprepositioner-sedan-fran]] — 时间介词 sedan/från/i\n- [[grammar-relativ-adverb-dar]] — 关系副词 där vs som vs var\n- [[grammar-varje-obestamd]] — varje + 不定单数\n\n**语法（已存在，本练习涉及）:**\n- [[grammar-det-finns]] · [[grammar-en-ord-ett-ord]] · [[grammar-infinitiv]] · [[grammar-substantiv-plural]] · [[grammar-v2-ordfoljd]] · [[grammar-obestämd-form]] · [[grammar-sammansatt-ord]]",
+      "excerpt": "📄 Meningsrättning — beskriva sin stad 类型: exercise (改错题 — 找错并改正) · 难度: A2 日期: 2026 06 17 原题说明 Vad är fel på meningarna? Hur kan man ändra den till en bättre? （这些句子有什么错误？如何改成更好的表达？） 原文与改正 (Source Text — Original ❌ → Corr",
+      "forms": [],
+      "links": [
+        "barn",
+        "bil",
+        "bo",
+        "grammar-det-finns",
+        "grammar-en-ord-ett-ord",
+        "grammar-infinitiv",
+        "grammar-obestämd-form",
+        "grammar-perfekt",
+        "grammar-relativ-adverb-dar",
+        "grammar-sammansatt-ord",
+        "grammar-substantiv-plural",
+        "grammar-tidsprepositioner-sedan-fran",
+        "grammar-v2-ordfoljd",
+        "grammar-varje-obestamd",
+        "hus",
+        "jättefin",
+        "kompis",
+        "kust",
+        "leka",
+        "område",
+        "park",
+        "plats",
+        "promenera",
+        "resa",
+        "restaurang",
+        "sedan",
+        "sommar",
+        "stad",
+        "våning"
+      ],
+      "searchText": "Meningsrättning — beskriva sin stad source-2026-06-17-meningsrattning-stad knowledge_base/sources/source-2026-06-17-meningsrattning-stad.md ---\ntype: source\ntitle: \"Meningsrättning — beskriva sin stad\"\nkind: exercise\ncefr: A2\ndate_added: \"2026-06-17\"\nwords:\n  - park\n  - kompis\n  - leka\n  - område\n  - plats\n  - promenera\n  - hus\n  - våning\n  - bo\n  - restaurang\n  - stad\n  - sommar\n  - resa\n  - kust\n  - bil\n  - jättefin\n  - barn\n  - sedan\ngrammar:\n  - grammar-det-finns\n  - grammar-en-ord-ett-ord\n  - grammar-infinitiv\n  - grammar-substantiv-plural\n  - grammar-v2-ordfoljd\n  - grammar-obestämd-form\n  - grammar-sammansatt-ord\n  - grammar-tidsprepositioner-sedan-fran\n  - grammar-relativ-adverb-dar\n  - grammar-varje-obestamd\nphrases: []\nsentences: []\n---\n\n# 📄 Meningsrättning — beskriva sin stad\n\n类型: exercise (改错题 — 找错并改正) · 难度: A2\n日期: 2026-06-17\n\n## 原题说明\n\n> Vad är fel på meningarna? Hur kan man ändra den till en bättre?\n> （这些句子有什么错误？如何改成更好的表达？）\n\n## 原文与改正 (Source Text — Original ❌ → Corrected ✅)\n\n### Mening 1\n❌ Det har mycket parken för barnen. Min barn har kompis, att lek med i området.\n✅ Det finns många parker för barnen. Mitt barn har kompisar att leka med i området.\n\n**错误分析:**\n1. \"det har\" → \"det finns\"（表示存在用 det finns，不用 det har）→ 见 [[grammar-det-finns]]\n2. \"mycket parken\" → \"många parker\"（可数名词用 många；park 为 en-ord，复数不定形 parker）→ 见 [[grammar-substantiv-plural]]\n3. \"Min barn\" → \"Mitt barn\"（barn 是 ett-ord，物主代词用 mitt，不用 min）→ 见 [[grammar-en-ord-ett-ord]]\n4. \"kompis\" → \"kompisar\"（语义需复数；en kompis → kompisar）→ 见 [[grammar-substantiv-plural]]\n5. \"att lek\" → \"att leka\"（att 后接动词原形 / infinitiv）→ 见 [[grammar-infinitiv]]\n\n---\n\n### Mening 2\n❌ Det är bra plats var jag kan promenera varje dag.\n✅ Det är en bra plats som/där jag kan promenera varje dag.\n\n**错误分析:**\n1. 缺少不定冠词：\"bra plats\" → \"en bra plats\"（第一次提及，不定形）→ 见 [[grammar-obestämd-form]]\n2. \"var\" → \"där\"（关系从句中描述地点用关系副词 där，而非疑问词 var；som 也可，但 där 更自然）→ 见 [[grammar-relativ-adverb-dar]]\n\n---\n\n### Mening 3\n✅ Mitt hus har 5 våningar. — **本句已正确，无需改正。**\n改写版（同样正确）: I mitt hus finns det 5 våningar.（用 det finns 构型，均可接受）\n\n**教学备注:** 两种表达均正确；\"det finns\" 构型见 [[grammar-det-finns]]\n\n---\n\n### Mening 4\n❌ Jag bor i Hallonbergen från 2022.\n✅ Jag har bott i Hallonbergen sedan 2022.\n\n**错误分析:**\n1. \"från\" → \"sedan\"（描述从某时间点\"持续到现在\"用 sedan，不用 från）→ 见 [[grammar-tidsprepositioner-sedan-fran]]\n2. \"bor\" (presens) → \"har bott\" (perfekt)（自某时间点开始、至今仍持续的状态，瑞典语用现在完成时 perfekt）→ 见 [[grammar-perfekt]]\n\n---\n\n### Mening 5\n❌ T är stora staden och jätte fin och finns många resturang och stora parken.\n✅ Det är en stor stad och (den är) jättefin. Det finns många restauranger och stora parker.\n\n**错误分析:**\n1. \"T är\" → \"Det är\"（缺字，需补全主语 Det）\n2. \"stora staden\" (bestämd form) → \"en stor stad\" (obestämd form)（第一次引入，用不定形）→ 见 [[grammar-obestämd-form]]\n3. \"jätte fin\" → \"jättefin\"（jätte- 前缀须与形容词**连写**，不加空格）→ 见 [[grammar-sammansatt-ord]]\n4. \"resturang\" → \"restaurang / restauranger\"（拼写错误 + 需复数不定形）→ 见 [[grammar-substantiv-plural]]\n5. \"stora parken\" (sg bestämd) → \"stora parker\" (pl obestämd)（语境需复数；第一次提及，用不定形）\n\n---\n\n### Mening 6\n❌ På varje sommaren resa jag till höga kusten med en bil.\n✅ Varje sommar reser jag till Höga Kusten med bil.\n\n**错误分析:**\n1. \"varje sommaren\" → \"varje sommar\"（varje 要求不定式单数，不与定冠词词尾 -en 搭配；且 \"på\" 可省略）→ 见 [[grammar-varje-obestamd]]\n2. \"resa jag\" → \"reser jag\"（① 时态：一般习惯用现在时 presens；② V2 语序：时间状语前置时动词须紧跟）→ 见 [[grammar-v2-ordfoljd]]\n3. \"höga kusten\" → \"Höga Kusten\"（专有地名，须大写；Höga Kusten 是瑞典世界遗产）\n4. \"med en bil\" → \"med bil\"（表示交通方式的固定搭配：med + 交通工具，**不加冠词**）\n\n---\n\n## 全文翻译 (Translation)\n\n🇨🇳 这是一份关于\"描述自己所在城市/地区\"的改错练习题。学习者（Ruibo）逐句找出错误并改正：\n1. 公园与孩子玩伴（存在句、可数名词复数、ett-ord 物主代词、att+不定式）\n2. 散步好地方（不定冠词、关系副词 där）\n3. 楼层数（det finns / har 两种表达均可）\n4. 居住时长（时间介词 sedan vs från，perfekt 时态）\n5. 描述城市（不定冠词、jätte-前缀连写、拼写、复数）\n6. 夏季旅行（varje+不定式、V2语序、专有名词大写、交通工具无冠词）\n\n## 提取 (Extracted → linked notes)\n\n**生词（新建）:**\n- [[leka]] · [[område]] · [[våning]] · [[resa]] · [[kust]] · [[jättefin]]\n\n**生词（已存在）:**\n- [[park]] · [[kompis]] · [[plats]] · [[promenera]] · [[hus]] · [[bo]] · [[restaurang]] · [[stad]] · [[sommar]] · [[bil]] · [[barn]] · [[sedan]]\n\n**语法（新建）:**\n- [[grammar-tidsprepositioner-sedan-fran]] — 时间介词 sedan/från/i\n- [[grammar-relativ-adverb-dar]] — 关系副词 där vs som vs var\n- [[grammar-varje-obestamd]] — varje + 不定单数\n\n**语法（已存在，本练习涉及）:**\n- [[grammar-det-finns]] · [[grammar-en-ord-ett-ord]] · [[grammar-infinitiv]] · [[grammar-substantiv-plural]] · [[grammar-v2-ordfoljd]] · [[grammar-obestämd-form]] · [[grammar-sammansatt-ord]]\n",
+      "cefr": "A2",
+      "date_added": "2026-06-17",
+      "kind": "exercise",
+      "words": [
+        "park",
+        "kompis",
+        "leka",
+        "område",
+        "plats",
+        "promenera",
+        "hus",
+        "våning",
+        "bo",
+        "restaurang",
+        "stad",
+        "sommar",
+        "resa",
+        "kust",
+        "bil",
+        "jättefin",
+        "barn",
+        "sedan"
+      ],
+      "phrases": [],
+      "sentences": [],
+      "grammar": [
+        "grammar-det-finns",
+        "grammar-en-ord-ett-ord",
+        "grammar-infinitiv",
+        "grammar-substantiv-plural",
+        "grammar-v2-ordfoljd",
+        "grammar-obestämd-form",
+        "grammar-sammansatt-ord",
+        "grammar-tidsprepositioner-sedan-fran",
+        "grammar-relativ-adverb-dar",
+        "grammar-varje-obestamd"
+      ],
+      "backlinks": [
+        "grammar-relativ-adverb-dar",
+        "grammar-tidsprepositioner-sedan-fran",
+        "grammar-varje-obestamd",
+        "index",
+        "jättefin",
+        "kust",
+        "leka",
+        "område",
+        "resa",
+        "våning"
+      ]
+    },
+    {
       "slug": "topic-arbete",
       "type": "topic",
       "title": "arbete",
@@ -18416,6 +18632,7 @@ window.KB_DATA = {
         "gift",
         "gravid",
         "hemmafru",
+        "leka",
         "mamma",
         "mor",
         "nyfödd",
@@ -18536,7 +18753,9 @@ window.KB_DATA = {
       "backlinks": [
         "badbyxor",
         "badstrand",
+        "kust",
         "njuta",
+        "resa",
         "semester",
         "source-2026-06-10-vardagsord",
         "tillbringa",
@@ -18669,6 +18888,7 @@ window.KB_DATA = {
         "topic-mobler",
         "topic-rumsliga-relationer",
         "vägg",
+        "våning",
         "vardagsrum",
         "vatten"
       ]
@@ -19732,11 +19952,13 @@ window.KB_DATA = {
         "gul",
         "hög",
         "hus",
+        "jättefin",
         "kafé",
         "kors",
         "korsning",
         "livlig",
         "livsmedelsbutik",
+        "område",
         "park",
         "parkering",
         "polis",
@@ -19759,6 +19981,7 @@ window.KB_DATA = {
         "trottoar",
         "tunnel",
         "väg",
+        "våning",
         "vanlig",
         "växa"
       ]
@@ -19927,6 +20150,7 @@ window.KB_DATA = {
         "färga",
         "höst",
         "intensiv",
+        "kust",
         "njuta",
         "snö",
         "sommar",
@@ -21629,8 +21853,10 @@ window.KB_DATA = {
         "barndom",
         "bebis",
         "grammar-substantiv-plural",
+        "index",
         "nyfödd",
         "source-2026-06-02-valj-ratt-form",
+        "source-2026-06-17-meningsrattning-stad",
         "spädbarn",
         "topic-personer",
         "vuxen"
@@ -22139,8 +22365,10 @@ window.KB_DATA = {
         "topic-trafik"
       ],
       "backlinks": [
+        "index",
         "lastbil",
         "source-2026-06-15-stad-trafik",
+        "source-2026-06-17-meningsrattning-stad",
         "topic-trafik"
       ]
     },
@@ -22509,8 +22737,10 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "index",
         "invånare",
-        "sambo"
+        "sambo",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -28989,7 +29219,9 @@ window.KB_DATA = {
       "backlinks": [
         "byggnad",
         "hög",
+        "index",
         "source-2026-06-15-stad-trafik",
+        "source-2026-06-17-meningsrattning-stad",
         "tom",
         "topic-stadsmiljo"
       ]
@@ -29386,6 +29618,40 @@ window.KB_DATA = {
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22",
         "topic-samhälle-och-politik"
+      ]
+    },
+    {
+      "slug": "jättefin",
+      "type": "word",
+      "title": "jättefin",
+      "path": "knowledge_base/words/jättefin.md",
+      "body": "# jättefin — adjektiv\n\n📖 中文：非常好看的，极好的 · English: really nice, super fine\n发音提示：YET-te-fin（jätte = YET-te，重音在 jätte）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum (en-ord) | jättefin |\n| neutrum (ett-ord) | jättfint |\n| plural / bestämd | jättefina |\n\n## 词组搭配 (Collocations)\n\n- `är jättefin` — 非常好看\n- `en jättefin stad` — 一座非常美丽的城市\n- `ser jättefin ut` — 看起来非常漂亮\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det är en stor stad och den är jättefin. — 🇨🇳 这是一座大城市，而且非常美丽。\n- 🇸🇪 Din jacka är jättefin! — 🇨🇳 你的夹克太好看了！\n- 🇸🇪 Vi bor i ett jättfint område. — 🇨🇳 我们住在一个非常好的地区。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: jätte-（前缀，意为\"超级、非常\"）, [[fin]], jättebra, jättestor\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ **\"jätte-\" 前缀须与形容词连写，不加空格**：❌ jätte fin → ✅ jättefin\n- jätte- 是极其高频的口语强化前缀，相当于\"super-/mega-\"，可接绝大多数形容词\n- 来源: [[source-2026-06-17-meningsrattning-stad]]",
+      "excerpt": "jättefin — adjektiv 📖 中文：非常好看的，极好的 · English: really nice, super fine 发音提示：YET te fin（jätte = YET te，重音在 jätte） 语法变形 (Forms) form Swedish utrum (en ord) jättefin neutrum (ett ord) jättfint plural / bestämd jättefina 词组搭",
+      "forms": [
+        "jättefin",
+        "jättfint",
+        "jättefina"
+      ],
+      "links": [
+        "fin",
+        "source-2026-06-17-meningsrattning-stad",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "jättefin jättefin knowledge_base/words/jättefin.md ---\ntype: word\nlemma: \"jättefin\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: A1\nzh: 非常好看的，极好的，超棒的\nen: really nice, super fine, great\nsynonyms: [\"jättebra\", \"jättefin\", \"underbar\"]\nantonyms: []\nfamily: [\"jätte-\", \"fin\", \"jättebra\", \"jättelik\", \"jättestor\"]\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# jättefin — adjektiv\n\n📖 中文：非常好看的，极好的 · English: really nice, super fine\n发音提示：YET-te-fin（jätte = YET-te，重音在 jätte）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum (en-ord) | jättefin |\n| neutrum (ett-ord) | jättfint |\n| plural / bestämd | jättefina |\n\n## 词组搭配 (Collocations)\n\n- `är jättefin` — 非常好看\n- `en jättefin stad` — 一座非常美丽的城市\n- `ser jättefin ut` — 看起来非常漂亮\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det är en stor stad och den är jättefin. — 🇨🇳 这是一座大城市，而且非常美丽。\n- 🇸🇪 Din jacka är jättefin! — 🇨🇳 你的夹克太好看了！\n- 🇸🇪 Vi bor i ett jättfint område. — 🇨🇳 我们住在一个非常好的地区。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: jätte-（前缀，意为\"超级、非常\"）, [[fin]], jättebra, jättestor\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ **\"jätte-\" 前缀须与形容词连写，不加空格**：❌ jätte fin → ✅ jättefin\n- jätte- 是极其高频的口语强化前缀，相当于\"super-/mega-\"，可接绝大多数形容词\n- 来源: [[source-2026-06-17-meningsrattning-stad]]\n",
+      "lemma": "jättefin",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "非常好看的，极好的，超棒的",
+      "en": "really nice, super fine, great",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "index",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -30555,8 +30821,10 @@ window.KB_DATA = {
         "topic-personer"
       ],
       "backlinks": [
+        "index",
         "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
         "source-2026-06-02-valj-ratt-form",
+        "source-2026-06-17-meningsrattning-stad",
         "topic-personer",
         "vän"
       ]
@@ -31302,6 +31570,43 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "utbildning"
+      ]
+    },
+    {
+      "slug": "kust",
+      "type": "word",
+      "title": "kust",
+      "path": "knowledge_base/words/kust.md",
+      "body": "# kust — substantiv (en)\n\n📖 中文：海岸，海岸线 · English: coast, coastline\n发音提示：kust（单音节，u 发短音）\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en kust | kuster |\n| bestämd | kusten | kusterna |\n\n## 词组搭配 (Collocations)\n\n- `Höga Kusten` — 高海岸（瑞典西北部世界遗产地名，专有名词，首字母大写）\n- `vid kusten` — 在海边\n- `längs kusten` — 沿海岸\n- `Östersjökusten` — 波罗的海海岸\n\n## 例句 (Sentences)\n\n- 🇸🇪 Varje sommar reser jag till Höga Kusten. — 🇨🇳 每年夏天我去高海岸旅行。\n- 🇸🇪 Vi bor nära kusten och tycker om att bada. — 🇨🇳 我们住在海边附近，喜欢游泳。\n- 🇸🇪 Sverige har en lång kust längs Östersjön. — 🇨🇳 瑞典沿波罗的海有很长的海岸线。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[strand]]（strand 更指海滩本身）\n- 词族: kustnära（沿海的）, kustlinje（海岸线）\n- 主题: [[topic-vader-och-arstider]], [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- \"Höga Kusten\" 是专有名词（世界遗产），须**大写**：❌ höga kusten → ✅ Höga Kusten\n- strand 强调沙滩/海滨本身（for swimming/sunbathing），kust 强调地理上的海岸线\n- 来源: [[source-2026-06-17-meningsrattning-stad]]",
+      "excerpt": "kust — substantiv (en) 📖 中文：海岸，海岸线 · English: coast, coastline 发音提示：kust（单音节，u 发短音） 语法变形 (Forms) form singular plural obestämd en kust kuster bestämd kusten kusterna 词组搭配 (Collocations) Höga Kusten — 高海岸（瑞典西北部世界遗产地名，专有名",
+      "forms": [
+        "kust",
+        "kuster",
+        "kusten",
+        "kusterna"
+      ],
+      "links": [
+        "source-2026-06-17-meningsrattning-stad",
+        "strand",
+        "topic-fritid-och-resor",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "kust kust knowledge_base/words/kust.md ---\ntype: word\nlemma: \"kust\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: A2\nzh: 海岸，海岸线\nen: coast, coastline\nsynonyms: [\"strand\"]\nantonyms: []\nfamily: [\"kustnära\", \"kustlinje\"]\ntopics: [\"topic-vader-och-arstider\", \"topic-fritid-och-resor\"]\nsentences: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kust — substantiv (en)\n\n📖 中文：海岸，海岸线 · English: coast, coastline\n发音提示：kust（单音节，u 发短音）\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en kust | kuster |\n| bestämd | kusten | kusterna |\n\n## 词组搭配 (Collocations)\n\n- `Höga Kusten` — 高海岸（瑞典西北部世界遗产地名，专有名词，首字母大写）\n- `vid kusten` — 在海边\n- `längs kusten` — 沿海岸\n- `Östersjökusten` — 波罗的海海岸\n\n## 例句 (Sentences)\n\n- 🇸🇪 Varje sommar reser jag till Höga Kusten. — 🇨🇳 每年夏天我去高海岸旅行。\n- 🇸🇪 Vi bor nära kusten och tycker om att bada. — 🇨🇳 我们住在海边附近，喜欢游泳。\n- 🇸🇪 Sverige har en lång kust längs Östersjön. — 🇨🇳 瑞典沿波罗的海有很长的海岸线。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[strand]]（strand 更指海滩本身）\n- 词族: kustnära（沿海的）, kustlinje（海岸线）\n- 主题: [[topic-vader-och-arstider]], [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- \"Höga Kusten\" 是专有名词（世界遗产），须**大写**：❌ höga kusten → ✅ Höga Kusten\n- strand 强调沙滩/海滨本身（for swimming/sunbathing），kust 强调地理上的海岸线\n- 来源: [[source-2026-06-17-meningsrattning-stad]]\n",
+      "lemma": "kust",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "海岸，海岸线",
+      "en": "coast, coastline",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-vader-och-arstider",
+        "topic-fritid-och-resor"
+      ],
+      "backlinks": [
+        "index",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -32293,6 +32598,41 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-08-djur",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "leka",
+      "type": "word",
+      "title": "leka",
+      "path": "knowledge_base/words/leka.md",
+      "body": "# leka — verb\n\n📖 中文：玩耍，玩 · English: to play (of children)\n发音提示：LEH-ka（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | leka |\n| presens | leker |\n| preteritum | lekte |\n| supinum | lekt |\n| imperativ | lek! |\n\n> ⚠️ 注意：leka 特指儿童玩耍；成人\"玩游戏\"用 spela（spela spel / spela fotboll）。\n\n## 词组搭配 (Collocations)\n\n- `leka med ngn` — 和某人一起玩\n- `leka ute` — 在外面玩\n- `leka i parken` — 在公园玩\n- `kompisar att leka med` — 可以一起玩的朋友（att + inf 不定式结构）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Barnen leker i parken varje eftermiddag. — 🇨🇳 孩子们每天下午在公园玩耍。\n- 🇸🇪 Mitt barn har kompisar att leka med i området. — 🇨🇳 我的孩子在这个地区有可以一起玩的小伙伴。\n- 🇸🇪 Vill du leka med mig? — 🇨🇳 你想和我一起玩吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lek (substantiv — 玩耍、游戏)\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 常见初学者错误：\"att lek\" → 正确形式是 \"att leka\"（att 后接动词原形）\n- 来源: [[source-2026-06-17-meningsrattning-stad]]",
+      "excerpt": "leka — verb 📖 中文：玩耍，玩 · English: to play (of children) 发音提示：LEH ka（重音在第一音节） 语法变形 (Forms) form Swedish infinitiv leka presens leker preteritum lekte supinum lekt imperativ lek! ⚠️ 注意：leka 特指儿童玩耍；成人\"玩游戏\"用 spela（spela spel",
+      "forms": [
+        "leka",
+        "leker",
+        "lekte",
+        "lekt",
+        "lek!"
+      ],
+      "links": [
+        "source-2026-06-17-meningsrattning-stad",
+        "topic-familj-och-barn"
+      ],
+      "searchText": "leka leka knowledge_base/words/leka.md ---\ntype: word\nlemma: \"leka\"\nordklass: verb\nverbgrupp: \"2\"\ngenus: \"\"\ncefr: A1\nzh: 玩耍，玩\nen: to play (of children)\nsynonyms: []\nantonyms: []\nfamily: [\"lek\"]\ntopics: [\"topic-familj-och-barn\"]\nsentences: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# leka — verb\n\n📖 中文：玩耍，玩 · English: to play (of children)\n发音提示：LEH-ka（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | leka |\n| presens | leker |\n| preteritum | lekte |\n| supinum | lekt |\n| imperativ | lek! |\n\n> ⚠️ 注意：leka 特指儿童玩耍；成人\"玩游戏\"用 spela（spela spel / spela fotboll）。\n\n## 词组搭配 (Collocations)\n\n- `leka med ngn` — 和某人一起玩\n- `leka ute` — 在外面玩\n- `leka i parken` — 在公园玩\n- `kompisar att leka med` — 可以一起玩的朋友（att + inf 不定式结构）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Barnen leker i parken varje eftermiddag. — 🇨🇳 孩子们每天下午在公园玩耍。\n- 🇸🇪 Mitt barn har kompisar att leka med i området. — 🇨🇳 我的孩子在这个地区有可以一起玩的小伙伴。\n- 🇸🇪 Vill du leka med mig? — 🇨🇳 你想和我一起玩吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lek (substantiv — 玩耍、游戏)\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 常见初学者错误：\"att lek\" → 正确形式是 \"att leka\"（att 后接动词原形）\n- 来源: [[source-2026-06-17-meningsrattning-stad]]\n",
+      "lemma": "leka",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "玩耍，玩",
+      "en": "to play (of children)",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "index",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -34963,6 +35303,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "område",
+      "type": "word",
+      "title": "område",
+      "path": "knowledge_base/words/område.md",
+      "body": "# område — substantiv (ett)\n\n📖 中文：地区，区域，领域 · English: area, district, region\n发音提示：OM-rå-de（三音节，重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | ett område | områden |\n| bestämd | området | områdena |\n\n## 词组搭配 (Collocations)\n\n- `i området` — 在这个地区\n- `bostadsområde` — 住宅区\n- `industriområde` — 工业区\n- `grönområde` — 绿化区，绿地\n\n## 例句 (Sentences)\n\n- 🇸🇪 Mitt barn har kompisar att leka med i området. — 🇨🇳 我的孩子在这个地区有可以一起玩的小伙伴。\n- 🇸🇪 Det finns många parker i det här området. — 🇨🇳 这个地区有很多公园。\n- 🇸🇪 Vi bor i ett lugnt område nära stan. — 🇨🇳 我们住在靠近市中心的一个安静地区。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[plats]]\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，复数 -en 结尾（ett område → områden → området → områdena）\n- 来源: [[source-2026-06-17-meningsrattning-stad]]",
+      "excerpt": "område — substantiv (ett) 📖 中文：地区，区域，领域 · English: area, district, region 发音提示：OM rå de（三音节，重音在第一音节） 语法变形 (Forms) form singular plural obestämd ett område områden bestämd området områdena 词组搭配 (Collocations) i området —",
+      "forms": [
+        "område",
+        "områden",
+        "området",
+        "områdena"
+      ],
+      "links": [
+        "plats",
+        "source-2026-06-17-meningsrattning-stad",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "område område knowledge_base/words/område.md ---\ntype: word\nlemma: \"område\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: ett\ncefr: A2\nzh: 地区，区域，领域\nen: area, district, region\nsynonyms: [\"plats\"]\nantonyms: []\nfamily: []\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# område — substantiv (ett)\n\n📖 中文：地区，区域，领域 · English: area, district, region\n发音提示：OM-rå-de（三音节，重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | ett område | områden |\n| bestämd | området | områdena |\n\n## 词组搭配 (Collocations)\n\n- `i området` — 在这个地区\n- `bostadsområde` — 住宅区\n- `industriområde` — 工业区\n- `grönområde` — 绿化区，绿地\n\n## 例句 (Sentences)\n\n- 🇸🇪 Mitt barn har kompisar att leka med i området. — 🇨🇳 我的孩子在这个地区有可以一起玩的小伙伴。\n- 🇸🇪 Det finns många parker i det här området. — 🇨🇳 这个地区有很多公园。\n- 🇸🇪 Vi bor i ett lugnt område nära stan. — 🇨🇳 我们住在靠近市中心的一个安静地区。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[plats]]\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，复数 -en 结尾（ett område → områden → området → områdena）\n- 来源: [[source-2026-06-17-meningsrattning-stad]]\n",
+      "lemma": "område",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "地区，区域，领域",
+      "en": "area, district, region",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "index",
+        "source-2026-06-17-meningsrattning-stad"
+      ]
+    },
+    {
       "slug": "orättvisa",
       "type": "word",
       "title": "orättvisa",
@@ -35603,10 +35978,12 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "grön",
+        "index",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
         "sent-mitt-emot-parken-pa-andra-sidan-gatan-livsmedelsbutik",
         "sent-till-hoger-om-mig-ligger-en-park",
         "source-2026-06-09-beskriva-en-gata",
+        "source-2026-06-17-meningsrattning-stad",
         "topic-stadsmiljo"
       ]
     },
@@ -36072,7 +36449,10 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "central",
+        "index",
+        "område",
         "source-2026-06-09-zlatan-bio",
+        "source-2026-06-17-meningsrattning-stad",
         "ta-en-plats",
         "topic-fotboll"
       ]
@@ -36509,9 +36889,11 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "index",
         "sent-jag-promenerar-langs-storgatan-solig-tisdag",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
         "source-2026-06-09-beskriva-en-gata",
+        "source-2026-06-17-meningsrattning-stad",
         "topic-stadsmiljo"
       ]
     },
@@ -36946,6 +37328,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "resa",
+      "type": "word",
+      "title": "resa",
+      "path": "knowledge_base/words/resa.md",
+      "body": "# resa — verb\n\n📖 中文：旅行，出行 · English: to travel, to go (on a trip)\n发音提示：REH-sa（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | resa |\n| presens | reser |\n| preteritum | reste |\n| supinum | rest |\n| imperativ | res! |\n\n> ⚠️ 注意区分：resa (verb, 旅行) vs resa (substantiv en/en, 旅行/旅途)\n\n## 词组搭配 (Collocations)\n\n- `resa till X` — 去X旅行\n- `resa med bil / tåg / flyg` — 乘车/火车/飞机旅行（交通方式，不加 \"en\"）\n- `resa utomlands` — 出国旅行\n- `Varje sommar reser jag till X` — 每年夏天我去X（V2 语序）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Varje sommar reser jag till Höga Kusten med bil. — 🇨🇳 每年夏天我开车去高海岸。\n- 🇸🇪 Vi reser till Stockholm nästa vecka. — 🇨🇳 我们下周去斯德哥尔摩。\n- 🇸🇪 Hur brukar du resa — med tåg eller flyg? — 🇨🇳 你通常怎么出行——坐火车还是飞机？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[åka]]（更口语，常指短途；resa 更正式/强调旅途）\n- 词族: resa (en resa — 一次旅行), resande, resenär\n- 主题: [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- 交通工具前用 \"med\" 但**不加冠词**：\"med bil\"（not *med en bil*）— 表示\"乘/用交通工具\"的固定搭配\n- V2 语序：时间状语前置时，动词须倒装：\"Varje sommar **reser** jag…\"（not *Varje sommar jag reser*）\n- 来源: [[source-2026-06-17-meningsrattning-stad]]",
+      "excerpt": "resa — verb 📖 中文：旅行，出行 · English: to travel, to go (on a trip) 发音提示：REH sa（重音在第一音节） 语法变形 (Forms) form Swedish infinitiv resa presens reser preteritum reste supinum rest imperativ res! ⚠️ 注意区分：resa (verb, 旅行) vs resa (su",
+      "forms": [
+        "resa",
+        "reser",
+        "reste",
+        "rest",
+        "res!"
+      ],
+      "links": [
+        "åka",
+        "source-2026-06-17-meningsrattning-stad",
+        "topic-fritid-och-resor"
+      ],
+      "searchText": "resa resa knowledge_base/words/resa.md ---\ntype: word\nlemma: \"resa\"\nordklass: verb\nverbgrupp: \"2\"\ngenus: \"\"\ncefr: A1\nzh: 旅行，出行\nen: to travel, to go (on a trip)\nsynonyms: [\"åka\"]\nantonyms: []\nfamily: [\"resa (substantiv — 旅行)\", \"resande\", \"resenär\"]\ntopics: [\"topic-fritid-och-resor\"]\nsentences: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# resa — verb\n\n📖 中文：旅行，出行 · English: to travel, to go (on a trip)\n发音提示：REH-sa（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | resa |\n| presens | reser |\n| preteritum | reste |\n| supinum | rest |\n| imperativ | res! |\n\n> ⚠️ 注意区分：resa (verb, 旅行) vs resa (substantiv en/en, 旅行/旅途)\n\n## 词组搭配 (Collocations)\n\n- `resa till X` — 去X旅行\n- `resa med bil / tåg / flyg` — 乘车/火车/飞机旅行（交通方式，不加 \"en\"）\n- `resa utomlands` — 出国旅行\n- `Varje sommar reser jag till X` — 每年夏天我去X（V2 语序）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Varje sommar reser jag till Höga Kusten med bil. — 🇨🇳 每年夏天我开车去高海岸。\n- 🇸🇪 Vi reser till Stockholm nästa vecka. — 🇨🇳 我们下周去斯德哥尔摩。\n- 🇸🇪 Hur brukar du resa — med tåg eller flyg? — 🇨🇳 你通常怎么出行——坐火车还是飞机？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[åka]]（更口语，常指短途；resa 更正式/强调旅途）\n- 词族: resa (en resa — 一次旅行), resande, resenär\n- 主题: [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- 交通工具前用 \"med\" 但**不加冠词**：\"med bil\"（not *med en bil*）— 表示\"乘/用交通工具\"的固定搭配\n- V2 语序：时间状语前置时，动词须倒装：\"Varje sommar **reser** jag…\"（not *Varje sommar jag reser*）\n- 来源: [[source-2026-06-17-meningsrattning-stad]]\n",
+      "lemma": "resa",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "旅行，出行",
+      "en": "to travel, to go (on a trip)",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-fritid-och-resor"
+      ],
+      "backlinks": [
+        "index",
+        "source-2026-06-17-meningsrattning-stad",
+        "topic-fritid-och-resor"
+      ]
+    },
+    {
       "slug": "reservera",
       "type": "word",
       "title": "reservera",
@@ -37015,9 +37434,11 @@ window.KB_DATA = {
       ],
       "topics": [],
       "backlinks": [
+        "index",
         "populär",
         "sent-vi-ar-pa-restaurang-kolkallan",
-        "source-2026-06-03-fraga-vagen-pub"
+        "source-2026-06-03-fraga-vagen-pub",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {
@@ -38185,9 +38606,11 @@ window.KB_DATA = {
         "topic-tid-och-tidsuttryck"
       ],
       "backlinks": [
+        "index",
         "just-då",
         "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "source-2026-06-17-meningsrattning-stad",
         "topic-tid-och-tidsuttryck"
       ]
     },
@@ -39547,8 +39970,10 @@ window.KB_DATA = {
         "topic-vader-och-arstider"
       ],
       "backlinks": [
+        "index",
         "sent-sommaren-ar-kort-men-intensiv",
         "source-2026-06-16-vadret-och-arstiderna",
+        "source-2026-06-17-meningsrattning-stad",
         "topic-vader-och-arstider",
         "vinter"
       ]
@@ -39981,9 +40406,11 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "index",
         "kommun",
         "populär",
         "source-2026-06-15-stad-trafik",
+        "source-2026-06-17-meningsrattning-stad",
         "stan",
         "topic-stadsmiljo"
       ]
@@ -43256,6 +43683,42 @@ window.KB_DATA = {
         "source-2026-06-02-valj-ratt-form",
         "topic-personer",
         "vänlig"
+      ]
+    },
+    {
+      "slug": "våning",
+      "type": "word",
+      "title": "våning",
+      "path": "knowledge_base/words/våning.md",
+      "body": "# våning — substantiv (en)\n\n📖 中文：楼层；公寓 · English: floor, storey; apartment (informally)\n发音提示：VÅ-ning（重音在第一音节，å 发长音）\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en våning | våningar |\n| bestämd | våningen | våningarna |\n\n## 词组搭配 (Collocations)\n\n- `bor på tredje våningen` — 住在三楼\n- `huset har 5 våningar` — 这栋楼有5层\n- `I mitt hus finns det 5 våningar` — 我的楼里有5层（det finns 结构）\n- `bottenvåning` — 底层，一楼\n- `övervåning` — 上层，楼上\n\n## 例句 (Sentences)\n\n- 🇸🇪 Mitt hus har fem våningar. — 🇨🇳 我的楼有五层。\n- 🇸🇪 Vi bor på tredje våningen. — 🇨🇳 我们住在三楼。\n- 🇸🇪 I mitt hus finns det fem våningar. — 🇨🇳 我的楼里有五层。（det finns 构型，同样正确）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-hemmet]], [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典，\"våning\" 在日常口语中也可指公寓（apartment），但更正式的词是 \"lägenhet\"\n- 楼层计数：瑞典的\"bottenvåning\"（底层）= 英语一楼（ground floor）；\"första våningen\"= 英语二楼（first floor）\n- 来源: [[source-2026-06-17-meningsrattning-stad]]",
+      "excerpt": "våning — substantiv (en) 📖 中文：楼层；公寓 · English: floor, storey; apartment (informally) 发音提示：VÅ ning（重音在第一音节，å 发长音） 语法变形 (Forms) form singular plural obestämd en våning våningar bestämd våningen våningarna 词组搭配 (Collocatio",
+      "forms": [
+        "våning",
+        "våningar",
+        "våningen",
+        "våningarna"
+      ],
+      "links": [
+        "source-2026-06-17-meningsrattning-stad",
+        "topic-hemmet",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "våning våning knowledge_base/words/våning.md ---\ntype: word\nlemma: \"våning\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: A2\nzh: 楼层，公寓\nen: floor, storey; apartment (Swedish informal)\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-hemmet\", \"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# våning — substantiv (en)\n\n📖 中文：楼层；公寓 · English: floor, storey; apartment (informally)\n发音提示：VÅ-ning（重音在第一音节，å 发长音）\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en våning | våningar |\n| bestämd | våningen | våningarna |\n\n## 词组搭配 (Collocations)\n\n- `bor på tredje våningen` — 住在三楼\n- `huset har 5 våningar` — 这栋楼有5层\n- `I mitt hus finns det 5 våningar` — 我的楼里有5层（det finns 结构）\n- `bottenvåning` — 底层，一楼\n- `övervåning` — 上层，楼上\n\n## 例句 (Sentences)\n\n- 🇸🇪 Mitt hus har fem våningar. — 🇨🇳 我的楼有五层。\n- 🇸🇪 Vi bor på tredje våningen. — 🇨🇳 我们住在三楼。\n- 🇸🇪 I mitt hus finns det fem våningar. — 🇨🇳 我的楼里有五层。（det finns 构型，同样正确）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-hemmet]], [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典，\"våning\" 在日常口语中也可指公寓（apartment），但更正式的词是 \"lägenhet\"\n- 楼层计数：瑞典的\"bottenvåning\"（底层）= 英语一楼（ground floor）；\"första våningen\"= 英语二楼（first floor）\n- 来源: [[source-2026-06-17-meningsrattning-stad]]\n",
+      "lemma": "våning",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "楼层，公寓",
+      "en": "floor, storey; apartment (Swedish informal)",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-hemmet",
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "index",
+        "source-2026-06-17-meningsrattning-stad"
       ]
     },
     {

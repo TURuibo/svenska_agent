@@ -32,6 +32,7 @@
     "grammar-preteritum-oregelbundna",
     "grammar-reflexivt-pronomen",
     "grammar-reflexivt-verb",
+    "grammar-relativ-adverb-dar",
     "grammar-riktnings-adverb",
     "grammar-sammansatt-ord",
     "grammar-satsadverbial",
@@ -41,8 +42,10 @@
     "grammar-starka-verb",
     "grammar-substantiv-plural",
     "grammar-supinum",
+    "grammar-tidsprepositioner-sedan-fran",
     "grammar-utan-vs-men",
-    "grammar-v2-ordfoljd"
+    "grammar-v2-ordfoljd",
+    "grammar-varje-obestamd"
   ],
   "index": [
     "index"
@@ -448,7 +451,8 @@
     "source-2026-06-15-restaurang-rekommendation",
     "source-2026-06-15-stad-trafik",
     "source-2026-06-16-arbete-skola",
-    "source-2026-06-16-vadret-och-arstiderna"
+    "source-2026-06-16-vadret-och-arstiderna",
+    "source-2026-06-17-meningsrattning-stad"
   ],
   "topic": [
     "topic-arbete",
@@ -723,6 +727,7 @@
     "intervju",
     "intressant",
     "invånare",
+    "jättefin",
     "jobb",
     "jobba",
     "ju",
@@ -774,6 +779,7 @@
     "kudde",
     "kul",
     "kurs",
+    "kust",
     "kvar",
     "kvinna",
     "kvitto",
@@ -800,6 +806,7 @@
     "läxa",
     "ledig",
     "lejon",
+    "leka",
     "leta",
     "leva",
     "ligga",
@@ -870,6 +877,7 @@
     "okänd",
     "öl",
     "öm",
+    "område",
     "orättvisa",
     "öre",
     "orm",
@@ -921,6 +929,7 @@
     "regering",
     "rekommendera",
     "ren",
+    "resa",
     "reservera",
     "restaurang",
     "rik",
@@ -1080,6 +1089,7 @@
     "välkommen",
     "välkomna",
     "vän",
+    "våning",
     "vanlig",
     "vänlig",
     "vänster",

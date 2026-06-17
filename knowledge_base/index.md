@@ -26,6 +26,12 @@ Obsidian 风格的本地知识库，全部为 markdown，笔记之间用 `[[wiki
 
 ## 最近添加 (Recently added)
 
+- 2026-06-17 (来源) [[source-2026-06-17-meningsrattning-stad]] — 改错题：Meningsrättning, beskriva sin stad (6句)
+- 2026-06-17 (词，新建 6个) [[leka]], [[område]], [[våning]], [[resa]], [[kust]], [[jättefin]]
+- 2026-06-17 (词，已存在) [[park]], [[kompis]], [[plats]], [[promenera]], [[hus]], [[bo]], [[restaurang]], [[stad]], [[sommar]], [[bil]], [[barn]], [[sedan]]
+- 2026-06-17 (语法，新建 3个) [[grammar-tidsprepositioner-sedan-fran]], [[grammar-relativ-adverb-dar]], [[grammar-varje-obestamd]]
+- 2026-06-17 (语法，已存在，本练习涉及) [[grammar-det-finns]], [[grammar-en-ord-ett-ord]], [[grammar-infinitiv]], [[grammar-substantiv-plural]], [[grammar-v2-ordfoljd]], [[grammar-obestämd-form]], [[grammar-sammansatt-ord]]
+
 - 2026-06-04 (来源) [[source-2026-06-04-nyheter-vecka-22]] — NYHETS-SIDAN Vecka 22, 7篇简易新闻
 - 2026-06-04 (词，44个) [[bestå]], [[påbörja]], [[självständig]], [[invånare]], [[rösta]], [[missnöjd]], [[regering]], [[halvera]], [[månadskort]], [[kollektivtrafik]], [[sänkning]], [[gälla]], [[studiemedel]], [[bidrag]], [[tjäna]], [[gräns]], [[fribelopp]], [[ungdom]], [[energidryck]], [[innehålla]], [[koffein]], [[sömn]], [[hjärtklappning]], [[oro]], [[burk]], [[råd]], [[skatt]], [[gräva]], [[mask]], [[mynt]], [[pärla]], [[hittelön]], [[skolavslutning]], [[medborgare]], [[kommun]], [[välkomna]], [[provins]], [[spårvagn]], [[lån]], [[ring]], [[nationaldag]], [[studentmössa]], [[grundskola]], [[gymnasieelev]]
 - 2026-06-04 (词，已丰富) [[hälsa]] — 添加名词义（健康）
