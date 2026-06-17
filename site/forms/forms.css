@@ -57,11 +57,17 @@
 
 .formsSearch input {
   width: 100%;
-  padding: 0.35rem 0.65rem;
+  padding: 0.4rem 0.65rem;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--panel);
+  color: var(--ink);
   font-size: 0.85rem;
+}
+.formsSearch input:focus {
+  outline: none;
+  border-color: var(--green);
+  box-shadow: 0 0 0 3px rgba(47, 111, 85, 0.14);
 }
 
 .formsGroup { display: flex; align-items: center; gap: 0.25rem; flex: 0 0 auto; }
@@ -365,11 +371,99 @@
   padding: 3rem 1rem;
 }
 
+/* ---------- mobile ---------- */
+@media (max-width: 760px) {
+  /* Header: stop the controls from cramming into one tight wrapping row.
+     Brand + nav share the top line; search gets its own full-width row;
+     group/sort pills sit on a scrollable row below with bigger tap targets. */
+  .formsHeader { padding: 0.5rem 0.85rem; }
+  .formsBar { gap: 0.5rem 0.6rem; }
+
+  .formsBrand { flex: 1 1 auto; min-width: 0; }
+  .formsBrand h1 { font-size: 1.05rem; }
+  .formsBrand .updated { display: none; }
+
+  .formsNav { order: 1; margin-left: auto; }
+
+  .formsSearch {
+    order: 2;
+    flex: 1 1 100%;
+    min-width: 0;
+  }
+  .formsSearch input {
+    padding: 0.55rem 0.7rem;
+    font-size: 16px; /* prevents iOS zoom-on-focus */
+  }
+
+  /* group + sort share one horizontally scrollable strip so pills never
+     get squashed; each pill is a comfortable tap target. */
+  .formsGroup,
+  .formsSort {
+    order: 3;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .formsGroup::-webkit-scrollbar,
+  .formsSort::-webkit-scrollbar { display: none; }
+  .groupBtn,
+  .sortBtn,
+  .navLink {
+    padding: 0.45rem 0.75rem;
+    font-size: 0.85rem;
+    white-space: nowrap;
+  }
+  .classChip {
+    padding: 0.35rem 0.65rem;
+    font-size: 0.82rem;
+  }
+}
+
 @media (max-width: 640px) {
-  .colDate { display: none; }
-  .colSrc { display: none; }
-  .formsTable { font-size: 0.86rem; }
-  .srcChip { max-width: 10rem; }
+  .formsMain { padding: 0.85rem 0.85rem 4rem; }
+
+  /* Stack each table row as a readable block instead of a 3–5 column row
+     that overflows a phone. Word is prominent, forms wrap below it, meaning
+     underneath — no horizontal scrolling. */
+  .colDate,
+  .colSrc,
+  .formsTable thead { display: none; }
+
+  .tableWrap { overflow-x: visible; }
+  .formsTable,
+  .formsTable tbody { display: block; }
+  .formsTable {
+    border: 0;
+    border-radius: 0;
+    background: none;
+    font-size: 0.92rem;
+  }
+  .formsTable tbody tr {
+    display: block;
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .formsTable tbody tr:last-child { border-bottom: none; }
+  .formsTable tbody tr:hover { background: none; }
+  .formsTable tbody td {
+    display: block;
+    padding: 0.1rem 0;
+    border: none;
+  }
+  .colWord { margin-bottom: 0.15rem; }
+  .colWord a,
+  .colWord .lemmaLink { font-size: 1.1rem; }
+  .colForms { line-height: 2; }
+  .formTag { font-size: 0.92rem; padding: 0.1rem 0.5rem; }
+  .colMean .mZh { margin-top: 0.1rem; }
+
+  .srcHead { padding: 0.55rem 0.75rem; }
+  .srcHead .srcCount { font-size: 0.82rem; }
+}
+
+/* The sticky header is hardcoded light; keep it readable in dark mode. */
+@media (prefers-color-scheme: dark) {
+  .formsHeader { background: rgba(20, 26, 23, 0.95); }
 }
 
 /* ---- in-page word detail popup ---- */
