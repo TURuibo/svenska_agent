@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-17 16:00:53",
+  "generatedAt": "2026-06-17 16:07:39",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -18536,6 +18536,7 @@ window.KB_DATA = {
       "backlinks": [
         "badbyxor",
         "badstrand",
+        "kust",
         "njuta",
         "semester",
         "source-2026-06-10-vardagsord",
@@ -31306,6 +31307,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "kust",
+      "type": "word",
+      "title": "kust",
+      "path": "knowledge_base/words/kust.md",
+      "body": "# kust — substantiv (en)\n\n📖 中文：海岸；沿海 · English: coast, coastline\n发音提示：/kɵst/，单音节，短 u（接近 \"küst\"）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en kust |\n| Singular bestämd | **kusten** |\n| Plural obestämd | kuster |\n| Plural bestämd | kusterna |\n\n## 词组搭配 (Collocations)\n\n- `vid kusten` — 在海岸边\n- `längs kusten` — 沿着海岸 → see [[längs]]\n- `västkusten` — 西海岸（瑞典常指 Göteborg 一带）\n- `ostkusten / östkusten` — 东海岸\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi har ett hus **vid kusten**. — 🇨🇳 我们在海岸边有一栋房子。\n- 🇸🇪 Vi körde **längs kusten** hela dagen. — 🇨🇳 我们沿着海岸开了一整天车。\n- 🇸🇪 **Västkusten** är känd för sina klippor. — 🇨🇳 西海岸以它的岩石海岸闻名。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[västkust]]（西海岸）、[[kustlinje]]（海岸线）\n- 同义词: [[strand]]（海滩/岸边，更具体指沙滩）\n- 反义词: [[inland]]（内陆）\n- 主题: [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- `kust` 指较大范围的海岸地带；`strand` 更具体指可以踏足的海滩/岸边。\n- 复数 **-er**：kust → kuster。\n- 常组成复合词：**väst**kust（西）、**öst/ost**kust（东）、kust**linje**（海岸线）。",
+      "excerpt": "kust — substantiv (en) 📖 中文：海岸；沿海 · English: coast, coastline 发音提示：/kɵst/，单音节，短 u（接近 \"küst\"）。 语法变形 (Forms) Form Swedish Singular obestämd en kust Singular bestämd kusten Plural obestämd kuster Plural bestämd kusterna 词组",
+      "forms": [
+        "kust",
+        "kusten",
+        "kuster",
+        "kusterna"
+      ],
+      "links": [
+        "inland",
+        "kustlinje",
+        "längs",
+        "strand",
+        "topic-fritid-och-resor",
+        "västkust"
+      ],
+      "searchText": "kust kust knowledge_base/words/kust.md ---\ntype: word\nlemma: \"kust\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"海岸；沿海\"\nen: \"coast, coastline\"\nsynonyms: [strand]\nantonyms: [inland]\nfamily: [kustlinje, västkust, ostkust]\ntopics: [topic-fritid-och-resor]\nsentences: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kust — substantiv (en)\n\n📖 中文：海岸；沿海 · English: coast, coastline\n发音提示：/kɵst/，单音节，短 u（接近 \"küst\"）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en kust |\n| Singular bestämd | **kusten** |\n| Plural obestämd | kuster |\n| Plural bestämd | kusterna |\n\n## 词组搭配 (Collocations)\n\n- `vid kusten` — 在海岸边\n- `längs kusten` — 沿着海岸 → see [[längs]]\n- `västkusten` — 西海岸（瑞典常指 Göteborg 一带）\n- `ostkusten / östkusten` — 东海岸\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi har ett hus **vid kusten**. — 🇨🇳 我们在海岸边有一栋房子。\n- 🇸🇪 Vi körde **längs kusten** hela dagen. — 🇨🇳 我们沿着海岸开了一整天车。\n- 🇸🇪 **Västkusten** är känd för sina klippor. — 🇨🇳 西海岸以它的岩石海岸闻名。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[västkust]]（西海岸）、[[kustlinje]]（海岸线）\n- 同义词: [[strand]]（海滩/岸边，更具体指沙滩）\n- 反义词: [[inland]]（内陆）\n- 主题: [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- `kust` 指较大范围的海岸地带；`strand` 更具体指可以踏足的海滩/岸边。\n- 复数 **-er**：kust → kuster。\n- 常组成复合词：**väst**kust（西）、**öst/ost**kust（东）、kust**linje**（海岸线）。\n",
+      "lemma": "kust",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "海岸；沿海",
+      "en": "coast, coastline",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-fritid-och-resor"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "kvar",
       "type": "word",
       "title": "kvar",
@@ -31923,6 +31959,7 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "kust",
         "längs-väggen",
         "sent-jag-promenerar-langs-storgatan-solig-tisdag",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
