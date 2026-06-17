@@ -989,6 +989,40 @@
 | [[sent-innan-jag-somnar-laser-jag-nagra-sidor]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
 | [[sent-min-vardag-ar-ganska-enkel-men-jag]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
 | [[grammar-bruka-infinitiv]] | grammar | — | 0 | 2.5 | 2026-06-17 | no |
+| **— Kropp & Hälsa böjning (2026-06-17) — 33 nya ord —** | | | | | | |
+| [[kur]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[tå]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[haka]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[höft]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[läpp]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[mager]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[axel]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[mun]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[hud]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[len]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[armbåge]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[känslig]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[handled]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[kind]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[panna]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[trött]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[muskel]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[lunga]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sund]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[njure]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[kronisk]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sjukdom]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[smittsam]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[förkylning]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[smärta]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[blodig]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[näsa]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[böjd]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[finger]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[lår]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[skelett]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[recept]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[plåster]] | word | — | 0 | 2.5 | 2026-06-17 | no |
 
 ## 说明
 
