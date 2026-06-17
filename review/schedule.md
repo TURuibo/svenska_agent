@@ -966,6 +966,29 @@
 | [[grammar-nar-bisats]] | grammar | — | 0 | 2.5 | 立即 | no |
 | [[grammar-komparativ]] | grammar | — | 0 | 2.5 | 立即 | no |
 | [[grammar-for-att-infinitiv]] | grammar | — | 0 | 2.5 | 立即 | no |
+| **— Min vardag 情景故事 (2026-06-17) — 8词 / 3词组 / 10句 / 1语法 —** | | | | | | |
+| [[kontor]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[kollega]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[bruka]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[laga]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[promenad]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[somna]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[vardag]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[ganska]] | word | — | 0 | 2.5 | 2026-06-17 | no |
+| [[ta-bussen]] | phrase | — | 0 | 2.5 | 2026-06-17 | no |
+| [[gå-en-promenad]] | phrase | — | 0 | 2.5 | 2026-06-17 | no |
+| [[laga-middag]] | phrase | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sent-jag-vaknar-klockan-sju-varje-morgon]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sent-forst-dricker-jag-en-kopp-kaffe]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sent-sedan-tar-jag-bussen-till-jobbet]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sent-jag-arbetar-pa-ett-kontor-i-centrum]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sent-pa-lunchen-brukar-jag-ata-tillsammans]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sent-efter-jobbet-handlar-jag-mat-i-affaren]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sent-pa-kvallen-lagar-jag-middag-och-tittar]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sent-ibland-traffar-jag-en-van-eller-gar]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sent-innan-jag-somnar-laser-jag-nagra-sidor]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
+| [[sent-min-vardag-ar-ganska-enkel-men-jag]] | sentence | — | 0 | 2.5 | 2026-06-17 | no |
+| [[grammar-bruka-infinitiv]] | grammar | — | 0 | 2.5 | 2026-06-17 | no |
 
 ## 说明
 

@@ -48,6 +48,17 @@ members:
   - lägga-sig
   - på-morgonen
   - på-kvällen
+  - kontor
+  - kollega
+  - bruka
+  - laga
+  - promenad
+  - somna
+  - vardag
+  - ganska
+  - ta-bussen
+  - gå-en-promenad
+  - laga-middag
 created: "2026-06-09"
 ---
 
@@ -98,9 +109,21 @@ created: "2026-06-09"
 - [[på-kvällen]] — 在晚上
 - [[oväntad]] — 意外的
 
+### 日常作息（Min vardag，2026-06-17）
+- [[kontor]] — 办公室
+- [[kollega]] — 同事
+- [[bruka]] — 通常、习惯做 → [[grammar-bruka-infinitiv]]
+- [[laga]] — 做（饭）；修理 → [[laga-middag]]
+- [[promenad]] — 散步 → [[gå-en-promenad]]
+- [[somna]] — 入睡、睡着
+- [[vardag]] — 日常；工作日
+- [[ganska]] — 相当、挺
+- [[ta-bussen]] — 坐公交车
+
 ## 备注 (Notes)
 
 - 本主题词汇来自 A2 叙事范文《En oväntad dag》——一次丢钱包的经历。
 - 词汇按事件顺序组织，适合写作时按步骤查阅。
 - 相关语法：[[grammar-preteritum]]（叙事用过去时），[[grammar-presens-preteritum-ram]]（叙事框架）。
-- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]
+- 2026-06-17 补充：情景小故事《Min vardag》——描述一天日常作息，新增日常作息词汇。
+- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]], [[source-2026-06-17-min-vardag]]
