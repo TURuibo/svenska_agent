@@ -161,6 +161,10 @@ Before routing, inspect the export block header for the `kind:` field:
 Store inline:
 - Create each note directly using the matching template from `knowledge_base/_templates/`.
 - Wire forward `[[wikilinks]]` per sv-knowledge-base §4 (reverse links derived at build time).
+- **Word 例句 (sense-aware count):** for every `words/` note, generate example sentences in the
+  `## 例句` section by meaning:
+  - 多个不同义项 (multiple distinct senses) → **每个义项至少 1 个例句**，按义项分组标注。
+  - 单一义项 / 义项含义相近 (single or near-identical senses) → **至少 3 个例句**。
 - If `skip_examples = true`, omit the `## 例句` section entirely (do not generate inline examples).
 - Add reviewable notes to `review/schedule.md` with immediate `due:` date.
 

@@ -27,13 +27,16 @@ For each item:
 2. **Create** from the matching `_templates/` file, filling frontmatter completely. `created:` = the
    date given to you (absolute).
 3. **Generate example sentences for words** (unless `skip_examples: true`): For every word note,
-   write **3 short example sentences** directly in the `## 例句 (Sentences)` section. These are
+   write example sentences directly in the `## 例句 (Sentences)` section. These are
    inline examples (NOT separate sentence note files). Format each as:
    ```
    - 🇸🇪 <Swedish sentence using the word> — 🇨🇳 <Chinese translation>
    ```
    Sentences should be A1–A2 level, natural, and demonstrate typical usage/collocations of the word.
-   If the word has multiple senses, cover different senses across the 3 examples.
+   **例句数量按词义决定 (sense-aware count):**
+   - 若该词有**多个不同义项** (multiple distinct senses, e.g. *slag* = 打/种类/战役) → 给**每个义项至少 1 个例句**，
+     并按义项分组、用小标题或前缀标注义项（如 `**义项1 打:**`），让学习者看清每个意思的用法。
+   - 若该词只有**一个义项，或多个义项含义相近** → 给**至少 3 个例句**，从不同角度展示典型用法/搭配。
    **Skip this step entirely** when the spawn prompt contains `skip_examples: true` (e.g. for
    mechanical böjning/declension drill imports — the daily adjsubst batches). Leave the
    `## 例句` section header with a placeholder `<!-- drill import: examples omitted -->`.
@@ -65,7 +68,7 @@ Instead follow these phases in order; within a phase, issue ALL independent tool
   within-batch symmetric mirrors, topic membership, and the full note body. Hold it all in memory.
 - **Phase 2 — Write all new notes (one batch, chunk if large):** issue every new note's `Write`
   in ONE message. Never split independent notes across turns. If the batch is large or notes are
-  rich (non-drill, with 3 example sentences each), chunk into messages of **~15–20 writes**; a
+  rich (non-drill, with multiple example sentences each), chunk into messages of **~15–20 writes**; a
   drill batch (no examples) can do **~30+** in one message. The target is ≤3 write-messages total,
   not N.
 - **Phase 3 — Shared files (one batch):** the `topic-*` note(s), the `source-*` frontmatter update,
