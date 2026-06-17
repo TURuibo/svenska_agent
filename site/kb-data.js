@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-17 16:08:31",
+  "generatedAt": "2026-06-17 19:32:21",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -109,6 +109,7 @@ window.KB_DATA = {
         "effektiv",
         "flexibel",
         "grammar-komparativ",
+        "grammar-min-mitt",
         "intressant",
         "komplicerad",
         "kreativ",
@@ -469,6 +470,7 @@ window.KB_DATA = {
         "forskare",
         "glass",
         "grammar-deklination",
+        "grammar-min-mitt",
         "grammar-obestämd-form",
         "inga-problem",
         "ingenjör",
@@ -729,6 +731,27 @@ window.KB_DATA = {
         "topic-rumsliga-relationer",
         "topic-stadsmiljo"
       ]
+    },
+    {
+      "slug": "grammar-min-mitt",
+      "type": "grammar",
+      "title": "min/mitt/mina (possessivpronomen)",
+      "path": "knowledge_base/grammar/grammar-min-mitt.md",
+      "body": "# 📗 min/mitt/mina (possessivpronomen) — 我的（所有格的性数一致） (Possessive pronouns min/mitt/mina)\n\n级别: SFI B / CEFR A1\n一句话: 表示\"我的\"时，要根据**后面名词的性（en/ett）和数（单/复）**选择 `min / mitt / mina` —— 跟名词一致，不跟\"我\"一致。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nmin  + en-ord 单数     → min bil      （我的车）\nmitt + ett-ord 单数    → mitt hus     （我的房子）\nmina + 复数（不分性）  → mina barn    （我的孩子们）\n```\n\n**核心：所有格随被拥有的名词变，而不是随拥有者变。** 这跟形容词一致 (kongruens) 同理。\n\n与中文对比: 中文\"我的\"永远不变；瑞典语必须分三形。\n与英文对比: 英语 \"my\" 永远不变；瑞典语 my = min / mitt / mina 三选一。\n\n## 详细讲解 (Detail)\n\n### 同一套规律适用于所有\"第一/第二人称\"所有格\n\n| 人称 | en-ord 单数 | ett-ord 单数 | 复数 |\n|------|------------|-------------|------|\n| 我的 (my) | **min** | **mitt** | **mina** |\n| 你的 (your, du) | **din** | **ditt** | **dina** |\n| 我们的 (our) | **vår** | **vårt** | **våra** |\n| 你们的 (your, ni) | **er** | **ert** | **era** |\n\n⚠️ 第三人称 **hans / hennes / dess / deras 不变形**（不随名词变）：*hans bil, hans hus, hans barn* 都一样。\n\n### 名词用 obestämd form（光杆）\n\n所有格后面的名词用**不带词尾的基本形**，不加 -en/-et：\n- ✅ min bil（不是 ~~min bilen~~）\n- ✅ mitt hus（不是 ~~mitt huset~~）\n\n### 一致看的是\"被拥有物\"，不是拥有者\n\n- *min bil* / *mitt hus* —— 都是\"我的\"，但因 bil 是 en-ord、hus 是 ett-ord 而不同。\n- 复数一律 *mina*：*mina böcker, mina hus, mina vänner*。\n\n## 例句 (Examples)\n\n- ✅ 🇸🇪 Det här är **min** bok. 🇨🇳 这是我的书。（bok = en-ord → min）\n- ✅ 🇸🇪 Var är **mitt** pass? 🇨🇳 我的护照在哪？（pass = ett-ord → mitt）\n- ✅ 🇸🇪 **Mina** föräldrar bor i Kina. 🇨🇳 我的父母住在中国。（复数 → mina）\n- ✅ 🇸🇪 **Din** telefon och **ditt** id-kort ligger på bordet. 🇨🇳 你的手机和你的身份证在桌上。\n- ❌ *mitt bil* ← bil 是 en-ord，应为 **min** bil。\n- ❌ *min huset* ← 双重错误：hus 是 ett-ord（应 mitt），且名词不加 -et（应 hus）。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 把所有格当成\"随我变\"——其实随名词变（en→min, ett→mitt, pl→mina）。\n- ⚠️ 给名词加定冠词：~~min bilen~~ → min bil（所有格后用 obestämd form）。\n- ⚠️ 与反身所有格混淆：第三人称\"自己的\"要用 **sin/sitt/sina**（见 [[grammar-sin-sina]]），而 min/din/vår 没有反身问题。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-sin-sina]] — 第三人称\"自己的\"反身所有格（同样随名词变）\n- 📎 [[grammar-en-ord-ett-ord]] — 先判断名词性别，才能选 min/mitt\n- 📎 [[grammar-adjektiv-kongruens]] — 同一种\"随名词一致\"的思路",
+      "excerpt": "📗 min/mitt/mina (possessivpronomen) — 我的（所有格的性数一致） (Possessive pronouns min/mitt/mina) 级别: SFI B / CEFR A1 一句话: 表示\"我的\"时，要根据 后面名词的性（en/ett）和数（单/复） 选择 min / mitt / mina —— 跟名词一致，不跟\"我\"一致。 规则说明 (Rules) 📐 结构公式: min + en ord",
+      "forms": [],
+      "links": [
+        "grammar-adjektiv-kongruens",
+        "grammar-en-ord-ett-ord",
+        "grammar-sin-sina"
+      ],
+      "searchText": "min/mitt/mina (possessivpronomen) grammar-min-mitt knowledge_base/grammar/grammar-min-mitt.md ---\ntype: grammar\nname: \"min/mitt/mina (possessivpronomen)\"\nzh: min/mitt/mina — 我的（所有格代词的性数一致）\nen: Possessive pronouns min/mitt/mina (agreement)\nlevel: SFI B / CEFR A1\nrelated: [grammar-sin-sina, grammar-en-ord-ett-ord, grammar-adjektiv-kongruens]\nexamples: []\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 min/mitt/mina (possessivpronomen) — 我的（所有格的性数一致） (Possessive pronouns min/mitt/mina)\n\n级别: SFI B / CEFR A1\n一句话: 表示\"我的\"时，要根据**后面名词的性（en/ett）和数（单/复）**选择 `min / mitt / mina` —— 跟名词一致，不跟\"我\"一致。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nmin  + en-ord 单数     → min bil      （我的车）\nmitt + ett-ord 单数    → mitt hus     （我的房子）\nmina + 复数（不分性）  → mina barn    （我的孩子们）\n```\n\n**核心：所有格随被拥有的名词变，而不是随拥有者变。** 这跟形容词一致 (kongruens) 同理。\n\n与中文对比: 中文\"我的\"永远不变；瑞典语必须分三形。\n与英文对比: 英语 \"my\" 永远不变；瑞典语 my = min / mitt / mina 三选一。\n\n## 详细讲解 (Detail)\n\n### 同一套规律适用于所有\"第一/第二人称\"所有格\n\n| 人称 | en-ord 单数 | ett-ord 单数 | 复数 |\n|------|------------|-------------|------|\n| 我的 (my) | **min** | **mitt** | **mina** |\n| 你的 (your, du) | **din** | **ditt** | **dina** |\n| 我们的 (our) | **vår** | **vårt** | **våra** |\n| 你们的 (your, ni) | **er** | **ert** | **era** |\n\n⚠️ 第三人称 **hans / hennes / dess / deras 不变形**（不随名词变）：*hans bil, hans hus, hans barn* 都一样。\n\n### 名词用 obestämd form（光杆）\n\n所有格后面的名词用**不带词尾的基本形**，不加 -en/-et：\n- ✅ min bil（不是 ~~min bilen~~）\n- ✅ mitt hus（不是 ~~mitt huset~~）\n\n### 一致看的是\"被拥有物\"，不是拥有者\n\n- *min bil* / *mitt hus* —— 都是\"我的\"，但因 bil 是 en-ord、hus 是 ett-ord 而不同。\n- 复数一律 *mina*：*mina böcker, mina hus, mina vänner*。\n\n## 例句 (Examples)\n\n- ✅ 🇸🇪 Det här är **min** bok. 🇨🇳 这是我的书。（bok = en-ord → min）\n- ✅ 🇸🇪 Var är **mitt** pass? 🇨🇳 我的护照在哪？（pass = ett-ord → mitt）\n- ✅ 🇸🇪 **Mina** föräldrar bor i Kina. 🇨🇳 我的父母住在中国。（复数 → mina）\n- ✅ 🇸🇪 **Din** telefon och **ditt** id-kort ligger på bordet. 🇨🇳 你的手机和你的身份证在桌上。\n- ❌ *mitt bil* ← bil 是 en-ord，应为 **min** bil。\n- ❌ *min huset* ← 双重错误：hus 是 ett-ord（应 mitt），且名词不加 -et（应 hus）。\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 把所有格当成\"随我变\"——其实随名词变（en→min, ett→mitt, pl→mina）。\n- ⚠️ 给名词加定冠词：~~min bilen~~ → min bil（所有格后用 obestämd form）。\n- ⚠️ 与反身所有格混淆：第三人称\"自己的\"要用 **sin/sitt/sina**（见 [[grammar-sin-sina]]），而 min/din/vår 没有反身问题。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-sin-sina]] — 第三人称\"自己的\"反身所有格（同样随名词变）\n- 📎 [[grammar-en-ord-ett-ord]] — 先判断名词性别，才能选 min/mitt\n- 📎 [[grammar-adjektiv-kongruens]] — 同一种\"随名词一致\"的思路\n",
+      "name": "min/mitt/mina (possessivpronomen)",
+      "zh": "min/mitt/mina — 我的（所有格代词的性数一致）",
+      "en": "Possessive pronouns min/mitt/mina (agreement)",
+      "created": "2026-06-17",
+      "known": false,
+      "backlinks": []
     },
     {
       "slug": "grammar-modala-hjalpverb",
@@ -1448,6 +1471,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "backlinks": [
+        "grammar-min-mitt",
         "grammar-reflexivt-pronomen",
         "sent-eftersom-astrid-var-ensam-kunde-hon",
         "sent-fick-fotbollsskor-trots-mamma",
