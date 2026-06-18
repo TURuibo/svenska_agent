@@ -115,6 +115,14 @@
   const KIND_BADGE = { scenario: 'scenario', paste: 'paste', adjsubst: 'adjsubst', other: 'other' };
   let activeKind = 'all', query = '', currentSlug = null, unreadOnly = false;
 
+  // Deep link from Former (词形表): #article=<slug>&from=<forms-anchor>.
+  // `from` lets us offer a one-click jump back to where the reader came from.
+  function parseHash() {
+    const p = new URLSearchParams((location.hash || '').replace(/^#/, ''));
+    return { article: p.get('article'), from: p.get('from') };
+  }
+  let backAnchor = parseHash().from || '';
+
   function filtered() {
     return articles.filter((a) => {
       if (activeKind !== 'all' && a.kind !== activeKind) return false;
@@ -188,9 +196,14 @@
 
     const read = isRead(slug);
 
+    const backBtn = backAnchor
+      ? `<a class="viewBtn backToForms" href="../forms/#${encodeURIComponent(backAnchor)}" title="返回词形表对应日期">← 返回词形表</a>`
+      : '';
+
     viewEl.innerHTML =
       `<div class="viewHead">` +
         `<button type="button" id="mobileBackBtn" class="mobileBack viewBtn">← 列表</button>` +
+        backBtn +
         `<span class="cardKind kind-${KIND_BADGE[a.kind] || 'other'}">${a.kindLabel ? a.kindLabel.zh : a.kind}</span>` +
         `<span class="cardStatus status-${a.status}">${a.statusLabel}</span>` +
         (a.cefr ? `<span class="viewCefr">${escapeHtml(a.cefr)}</span>` : '') +
@@ -241,8 +254,15 @@
   // ---------- init ----------
 
   renderList();
-  // Desktop opens the first article straight away (the list stays visible alongside).
-  // Mobile lands on the list so the user picks what to read — openArticle then takes
-  // over the full screen via the master-detail `viewing` state.
-  if (articles.length > 0 && !isMobile()) openArticle(articles[0].slug);
+  // A deep link (#article=…) opens that article directly on any device — the
+  // reader followed an explicit link from Former, so honor it over the default.
+  const deepSlug = parseHash().article;
+  if (deepSlug && articles.some((a) => a.slug === deepSlug)) {
+    openArticle(deepSlug);
+  } else if (articles.length > 0 && !isMobile()) {
+    // Desktop opens the first article straight away (the list stays visible alongside).
+    // Mobile lands on the list so the user picks what to read — openArticle then takes
+    // over the full screen via the master-detail `viewing` state.
+    openArticle(articles[0].slug);
+  }
 })();
