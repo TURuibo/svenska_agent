@@ -255,6 +255,10 @@
 /* 「← 列表」back button — only meaningful in the mobile master-detail view */
 .mobileBack { display: none; }
 
+/* 「← 返回词形表」shown when arrived via a deep link from Former (forms/) */
+.backToForms { text-decoration: none; color: var(--blue); border-color: var(--blue); }
+.backToForms:hover { background: var(--panel-soft); }
+
 @media (max-width: 760px) {
   /* Header scrolls away (not sticky) so reading text can use the full screen. */
   .readingHeader { position: static; }
