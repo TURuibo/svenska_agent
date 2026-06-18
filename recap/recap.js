@@ -15,19 +15,17 @@
   const ITEM_TYPES = ['word', 'phrase', 'sentence', 'grammar'];
 
   // ---------- source categories (origin of each item) ----------
-  // An item's origin is the category of the source note that claims it; items
-  // claimed by no source are individual dictionary lookups ('lookup').
+  // An item's origin is the category of the source note that claims it. Study
+  // material (SFI / 课本 / 新闻 / 文章) and individual dictionary lookups (items
+  // claimed by no source) share one bucket, 'sfi' — the high-value content.
   const SOURCE_CATS = {
-    sfi:      { label: '教材/SFI', icon: '📚' },
-    lookup:   { label: '查词',     icon: '🔍' },
-    scenario: { label: '情景练习', icon: '🎭' },
-    adjsubst: { label: '词形变化', icon: '🔤' },
-    other:    { label: '其他',     icon: '✏️' },
+    sfi:      { label: '教材/SFI/查词', icon: '📚' },
+    scenario: { label: '情景练习',     icon: '🎭' },
+    adjsubst: { label: '词形变化',     icon: '🔤' },
+    other:    { label: '其他',         icon: '✏️' },
   };
   // Display order in the filter bar.
-  const SOURCE_ORDER = ['sfi', 'lookup', 'scenario', 'adjsubst', 'other'];
-  // '重点' preset = the high-value buckets (study material + intentional lookups).
-  const PRIORITY_CATS = new Set(['sfi', 'lookup']);
+  const SOURCE_ORDER = ['sfi', 'scenario', 'adjsubst', 'other'];
 
   // Classify a source note into a category. Honors an explicit `category:`
   // frontmatter field; otherwise derives it from source_label / title / kind,
@@ -173,7 +171,8 @@
   }
 
   // Map each item slug to its origin category (first claiming source wins).
-  // Items in no source default to 'lookup' (individual dictionary lookups).
+  // Items in no source default to 'sfi' — individual dictionary lookups share
+  // the high-value bucket with study material.
   const catBySlug = new Map();
   for (const n of notes) {
     if (n.type !== 'source') continue;
@@ -183,7 +182,7 @@
     }
   }
   function itemCategory(n) {
-    return catBySlug.get(n.slug) || 'lookup';
+    return catBySlug.get(n.slug) || 'sfi';
   }
 
   // Per-category item counts (drives which filter buttons appear + their badges).
@@ -195,11 +194,11 @@
     }
   }
 
+  // Multi-select: an empty selection means "全部" (show everything); otherwise
+  // an item matches if its category is among the selected ones.
   function matchesSource(n) {
-    if (activeSource === 'all') return true;
-    const c = itemCategory(n);
-    if (activeSource === 'priority') return PRIORITY_CATS.has(c);
-    return c === activeSource;
+    if (activeSources.size === 0) return true;
+    return activeSources.has(itemCategory(n));
   }
 
   // ---------- stats ----------
@@ -420,7 +419,7 @@
   function updateFilterCount(shown) {
     const el = document.getElementById('filterCount');
     if (!el) return;
-    const filtered = activeType !== 'all' || activeSource !== 'all';
+    const filtered = activeType !== 'all' || activeSources.size > 0;
     el.textContent = filtered ? `显示 ${shown} 项` : '';
   }
 
@@ -876,44 +875,59 @@
   // ---------- source (origin) filter ----------
 
   const LS_SRC = 'dagbok.sourceFilter.v1';
-  let activeSource = 'all';
-  try { activeSource = localStorage.getItem(LS_SRC) || 'all'; } catch (_e) {}
+  // Multi-select set of category keys. Empty = 全部 (everything).
+  const activeSources = new Set();
+  try {
+    const raw = JSON.parse(localStorage.getItem(LS_SRC) || '[]');
+    if (Array.isArray(raw)) for (const k of raw) if (catCounts[k] > 0) activeSources.add(k);
+  } catch (_e) {}
+
+  function saveSources() {
+    try { localStorage.setItem(LS_SRC, JSON.stringify(Array.from(activeSources))); } catch (_e) {}
+  }
 
   function buildSourceBar() {
     const bar = document.getElementById('sourceFilters');
     if (!bar) return;
 
-    // Available buttons: 全部, ⭐重点 (if any priority items), then non-empty categories.
+    // 全部 + each non-empty category (multi-select toggles).
     const defs = [{ key: 'all', label: '全部' }];
-    const priorityTotal = SOURCE_ORDER
-      .filter((k) => PRIORITY_CATS.has(k))
-      .reduce((sum, k) => sum + (catCounts[k] || 0), 0);
-    if (priorityTotal > 0) defs.push({ key: 'priority', label: '重点', icon: '⭐', priority: true });
     for (const key of SOURCE_ORDER) {
       if ((catCounts[key] || 0) > 0) {
         defs.push({ key, label: SOURCE_CATS[key].label, icon: SOURCE_CATS[key].icon, count: catCounts[key] });
       }
     }
 
-    // Drop a persisted selection that no longer has any matching items.
-    if (!defs.some((d) => d.key === activeSource)) activeSource = 'all';
+    function syncActive() {
+      bar.querySelectorAll('.sourceFilter').forEach((b) => {
+        const k = b.dataset.source;
+        b.classList.toggle('active', k === 'all' ? activeSources.size === 0 : activeSources.has(k));
+      });
+    }
 
     bar.innerHTML = '';
     for (const d of defs) {
       const btn = document.createElement('button');
       btn.type = 'button';
-      btn.className = 'sourceFilter' + (d.priority ? ' priority' : '') + (d.key === activeSource ? ' active' : '');
+      btn.className = 'sourceFilter';
       btn.dataset.source = d.key;
       btn.textContent = (d.icon ? d.icon + ' ' : '') + d.label + (d.count ? ` ${d.count}` : '');
-      if (d.key === 'priority') btn.title = '只看学习资料/SFI + 查词（高价值内容）';
+      if (d.key !== 'all') btn.title = '可多选：点击叠加/取消此来源';
       btn.addEventListener('click', () => {
-        activeSource = d.key;
-        try { localStorage.setItem(LS_SRC, activeSource); } catch (_e) {}
-        bar.querySelectorAll('.sourceFilter').forEach((b) => b.classList.toggle('active', b.dataset.source === activeSource));
+        if (d.key === 'all') {
+          activeSources.clear();
+        } else if (activeSources.has(d.key)) {
+          activeSources.delete(d.key);
+        } else {
+          activeSources.add(d.key);
+        }
+        saveSources();
+        syncActive();
         renderTimeline();
       });
       bar.appendChild(btn);
     }
+    syncActive();
   }
 
   // ---------- init ----------
