@@ -1,0 +1,159 @@
+/* Lyssna — SVT easy-Swedish listening practice. Reuses the design tokens
+   from ../styles.css (--ink, --green, --panel, …). */
+
+.listenBody {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.listenHeader {
+  border-bottom: 1px solid var(--line);
+  background: var(--panel);
+  box-shadow: var(--shadow);
+}
+.listenHeaderInner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 18px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.listenBrand .eyebrow {
+  margin: 0;
+  font-size: 12px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.listenBrand h1 {
+  margin: 2px 0 0;
+  font-size: 26px;
+  color: var(--green-dark);
+}
+.brandSub {
+  font-size: 15px;
+  color: var(--muted);
+  font-family: var(--cjk);
+  font-weight: 500;
+}
+.updated { margin: 6px 0 0; font-size: 13px; color: var(--muted); }
+.listenNav { display: flex; gap: 10px; flex-wrap: wrap; }
+.navLink {
+  text-decoration: none;
+  color: var(--green-dark);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 14px;
+  background: var(--panel-soft);
+}
+.navLink:hover { background: var(--panel); }
+
+.listenMain {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 22px 24px 60px;
+  display: grid;
+  grid-template-columns: 270px 1fr;
+  gap: 24px;
+  align-items: start;
+}
+
+/* ---- Episode list ---- */
+.episodeList { position: sticky; top: 16px; }
+.listHeading { font-size: 14px; color: var(--muted); margin: 0 0 10px; text-transform: uppercase; letter-spacing: 0.08em; }
+.episodeList ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.epBtn {
+  width: 100%;
+  text-align: left;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--panel);
+  padding: 12px 14px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.epBtn:hover { border-color: var(--green); }
+.epBtn.active { border-color: var(--green); background: var(--panel-soft); box-shadow: inset 3px 0 0 var(--green); }
+.epBtnTitle { font-weight: 600; color: var(--ink); font-size: 15px; }
+.epBtnMeta { font-size: 12px; color: var(--muted); }
+.epEmpty { font-size: 13px; color: var(--muted); padding: 10px; }
+
+/* ---- Player ---- */
+.playerEmpty { padding: 60px 20px; text-align: center; color: var(--muted); font-size: 16px; }
+.playerView { display: block; }
+.playerTopbar {
+  display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+.epTitle { margin: 0; font-size: 22px; color: var(--green-dark); }
+.epMeta { margin: 4px 0 0; font-size: 13px; color: var(--muted); }
+.svtLink {
+  text-decoration: none; white-space: nowrap;
+  color: #fff; background: var(--green); border-radius: 999px; padding: 8px 16px; font-size: 14px;
+}
+.svtLink:hover { background: var(--green-dark); }
+
+.mediaWrap { margin-bottom: 14px; }
+.mediaEl { width: 100%; max-height: 56vh; background: #000; border-radius: 12px; }
+.mediaError {
+  margin: 10px 0 0; padding: 12px 14px; border-radius: 10px;
+  background: rgba(155, 79, 67, 0.12); color: var(--red); font-size: 14px;
+}
+
+.controls {
+  display: flex; flex-wrap: wrap; gap: 14px; align-items: center;
+  padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--panel);
+  margin-bottom: 16px;
+}
+.ctrlGroup { display: flex; gap: 6px; align-items: center; }
+.ctrlLabel { font-size: 13px; color: var(--muted); margin-right: 2px; }
+.speedBtn, .toggleBtn {
+  border: 1px solid var(--line); background: var(--panel-soft); color: var(--ink);
+  border-radius: 999px; padding: 6px 12px; font-size: 13px; cursor: pointer;
+}
+.speedBtn.active, .toggleBtn.active { background: var(--green); color: #fff; border-color: var(--green); }
+
+/* ---- Transcript ---- */
+.transcript { list-style: none; margin: 0 0 22px; padding: 0; counter-reset: cue; }
+.cue {
+  display: flex; gap: 12px; align-items: flex-start;
+  padding: 10px 12px; border-radius: 10px; border: 1px solid transparent;
+}
+.cue:hover { background: var(--panel-soft); }
+.cue.active { background: var(--panel-soft); border-color: var(--green); box-shadow: inset 3px 0 0 var(--green); }
+.cueTime {
+  flex: 0 0 auto; font-variant-numeric: tabular-nums; font-size: 12px;
+  color: var(--blue); background: none; border: none; cursor: pointer; padding: 2px 4px;
+  text-decoration: underline; text-underline-offset: 2px;
+}
+.cueTexts { flex: 1 1 auto; }
+.cueSv { margin: 0; font-size: 17px; line-height: 1.5; color: var(--ink); cursor: pointer; }
+.cueZh { margin: 4px 0 0; font-size: 14px; line-height: 1.45; color: var(--muted); font-family: var(--cjk); }
+.transcript.hideSv .cueSv { filter: blur(5px); opacity: 0.45; cursor: default; }
+.transcript.hideSv .cue.active .cueSv { filter: none; opacity: 1; } /* reveal current line even in blind mode */
+.transcript.hideZh .cueZh { display: none; }
+
+/* ---- Vocab ---- */
+.vocabPanel { border-top: 1px solid var(--line); padding-top: 16px; }
+.vocabPanel h3 { margin: 0 0 12px; font-size: 16px; color: var(--green-dark); }
+.vocabItems { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 8px; }
+.vocabItem {
+  border: 1px solid var(--line); border-radius: 10px; background: var(--panel); padding: 10px 12px;
+  display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline;
+}
+.vSv { font-weight: 600; color: var(--ink); }
+.vPos { font-size: 12px; color: var(--gold); }
+.vZh { font-size: 14px; color: var(--ink); font-family: var(--cjk); width: 100%; }
+.vEn { font-size: 12px; color: var(--muted); width: 100%; }
+
+@media (max-width: 760px) {
+  .listenMain { grid-template-columns: 1fr; }
+  .episodeList { position: static; }
+}
