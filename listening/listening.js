@@ -11,6 +11,10 @@
   var transcriptEl = document.getElementById('transcript');
   var vocabItemsEl = document.getElementById('vocabItems');
   var vocabPanel = document.getElementById('vocabPanel');
+  var phraseItemsEl = document.getElementById('phraseItems');
+  var phrasePanel = document.getElementById('phrasePanel');
+  var grammarItemsEl = document.getElementById('grammarItems');
+  var grammarPanel = document.getElementById('grammarPanel');
   var playerView = document.getElementById('playerView');
   var playerEmpty = document.getElementById('playerEmpty');
   var mediaError = document.getElementById('mediaError');
@@ -162,20 +166,38 @@
     applyVisibility();
   }
 
-  function renderVocab(ep) {
-    vocabItemsEl.innerHTML = '';
-    if (!ep.vocab || !ep.vocab.length) { vocabPanel.hidden = true; return; }
-    vocabPanel.hidden = false;
-    ep.vocab.forEach(function (v) {
+  // A learning item's headword links to the KB note when build-listening-site
+  // resolved a `slug` (i.e. the note exists). The KB opens in a new tab so the
+  // listening session keeps playing. Items without a slug render as plain text.
+  function headwordHtml(text, slug) {
+    var safe = escapeHtml(text || '');
+    if (slug) {
+      return '<a class="vSv vLink" href="../#note=' + encodeURIComponent(slug) +
+        '" target="_blank" rel="noopener" title="看知识库解释">' + safe + '</a>';
+    }
+    return '<span class="vSv">' + safe + '</span>';
+  }
+
+  function renderItems(listEl, panelEl, items, headwordKey, labelKey) {
+    listEl.innerHTML = '';
+    if (!items || !items.length) { panelEl.hidden = true; return; }
+    panelEl.hidden = false;
+    items.forEach(function (it) {
       var li = document.createElement('li');
       li.className = 'vocabItem';
       li.innerHTML =
-        '<span class="vSv">' + escapeHtml(v.sv || '') + '</span>' +
-        (v.pos ? '<span class="vPos">' + escapeHtml(v.pos) + '</span>' : '') +
-        '<span class="vZh">' + escapeHtml(v.zh || '') + '</span>' +
-        (v.en ? '<span class="vEn">' + escapeHtml(v.en) + '</span>' : '');
-      vocabItemsEl.appendChild(li);
+        headwordHtml(it[headwordKey], it.slug) +
+        (it[labelKey] ? '<span class="vPos">' + escapeHtml(it[labelKey]) + '</span>' : '') +
+        '<span class="vZh">' + escapeHtml(it.zh || '') + '</span>' +
+        (it.en ? '<span class="vEn">' + escapeHtml(it.en) + '</span>' : '');
+      listEl.appendChild(li);
     });
+  }
+
+  function renderVocab(ep) {
+    renderItems(vocabItemsEl, vocabPanel, ep.vocab, 'sv', 'pos');
+    renderItems(phraseItemsEl, phrasePanel, ep.phrases, 'sv', 'category');
+    renderItems(grammarItemsEl, grammarPanel, ep.grammar, 'name', null);
   }
 
   // ---- Playback sync ------------------------------------------------------
