@@ -245,12 +245,6 @@
   color: #fff;
 }
 
-.sourceBar .sourceFilter.priority.active {
-  background: var(--gold);
-  border-color: var(--gold);
-  color: #fff;
-}
-
 .filterCount {
   margin-left: auto;
   font-size: 12px;
