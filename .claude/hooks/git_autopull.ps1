@@ -2,9 +2,10 @@
 .SYNOPSIS
   SessionStart hook: 检测本地分支与其 GitHub 上游的差距，安全时自动 pull。
 
-  规则（保守，绝不破坏本地工作）：
-    - 纯落后 (behind>0, ahead=0)         → 自动 `git pull --ff-only`（快进，最安全）
-    - 分叉   (behind>0, ahead>0)         → 只警告，不自动合并/变基（留给 /sync 或手动处理）
+  规则（自动同步，但绝不丢失本地工作）：
+    - 纯落后 (behind>0, ahead=0)         → 自动 `git pull --ff-only --autostash`（快进，最安全）
+    - 分叉   (behind>0, ahead>0)         → 自动 `git pull --rebase --autostash`；遇冲突则
+                                            `git rebase --abort` 安全回退并提示（不留半成品）
     - 纯领先 (ahead>0, behind=0)         → 提示有未推送提交，建议 /sync
     - 已最新                              → 安静（一行）
   另外：仓库正在 rebase/merge 中、无上游、fetch 超时/失败 → 跳过，不打扰。
@@ -21,12 +22,16 @@ Set-Location $Root
 git rev-parse --is-inside-work-tree *> $null
 if ($LASTEXITCODE -ne 0) { exit 0 }
 
-# 正在 rebase / merge 中 → 不插手
-if ((Test-Path (Join-Path $Root '.git\rebase-merge')) -or
-    (Test-Path (Join-Path $Root '.git\rebase-apply')) -or
-    (Test-Path (Join-Path $Root '.git\MERGE_HEAD'))) {
-  Write-Output "git: 仓库正处于 rebase/merge 中，跳过自动 pull"
-  exit 0
+# 正在 rebase / merge 中 → 不插手。用 --git-dir 解析真实 gitdir，
+# 这样在 worktree（.git 是文件而非目录）里也能正确判断。
+$gitDir = (git rev-parse --git-dir 2>$null)
+if ($gitDir) {
+  if ((Test-Path (Join-Path $gitDir 'rebase-merge')) -or
+      (Test-Path (Join-Path $gitDir 'rebase-apply')) -or
+      (Test-Path (Join-Path $gitDir 'MERGE_HEAD'))) {
+    Write-Output "git: 仓库正处于 rebase/merge 中，跳过自动 pull"
+    exit 0
+  }
 }
 
 $branch = (git rev-parse --abbrev-ref HEAD).Trim()
@@ -70,7 +75,16 @@ if ($behind -gt 0 -and $ahead -eq 0) {
 }
 
 if ($behind -gt 0 -and $ahead -gt 0) {
-  Write-Output "⚠️ git: 与 $upstream 分叉（本地领先 $ahead、落后 $behind）。未自动合并——请运行 /sync 或 git pull --rebase 手动解决。"
+  # 分叉 → 自动变基：把本地的 $ahead 个提交重放到上游之上。
+  # --autostash 保护未提交改动；冲突时 git rebase --abort 会回到原状并恢复 autostash，
+  # 绝不丢工作、也不把仓库留在半截 rebase 状态。
+  $out = git pull --rebase --autostash $remote $branch 2>&1 | Out-String
+  if ($LASTEXITCODE -eq 0) {
+    Write-Output "🔀 git: 与 $upstream 分叉，已自动变基（本地 $ahead 个提交重放到落后的 $behind 个之上）。记得 /sync 推送。"
+  } else {
+    git rebase --abort *> $null
+    Write-Output "⚠️ git: 与 $upstream 分叉且自动变基遇到冲突，已安全回退（本地未改动）。请手动 git pull --rebase 解决。详情：$($out.Trim())"
+  }
   exit 0
 }
 
