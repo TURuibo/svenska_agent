@@ -221,7 +221,7 @@ const notes = walkMarkdownFiles(kbRoot).map((filePath) => {
     'lemma', 'name', 'ordklass', 'cefr', 'zh', 'en', 'created', 'known',
     'sentence', 'phrase',
     // recap-site extras
-    'date', 'date_added', 'source_label', 'kind',
+    'date', 'date_added', 'source_label', 'kind', 'category', 'tags',
     'words', 'phrases', 'sentences', 'grammar', 'topics',
   ];
   for (const key of carryKeys) {
