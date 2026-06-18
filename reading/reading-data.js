@@ -1,6 +1,62 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-18 07:05:07",
+  "generatedAt": "2026-06-18 07:06:33",
   "articles": [
+    {
+      "slug": "adjsubst-2026-06-18-djur",
+      "file": "adjsubst-2026-06-18-djur.md",
+      "folder": "inbox",
+      "status": "pending",
+      "statusLabel": "待导入",
+      "statusEn": "inbox",
+      "kind": "adjsubst",
+      "kindLabel": {
+        "zh": "词形变化",
+        "en": "adj+subst drill"
+      },
+      "title": "Adjektiv + substantiv böjning — 2026-06-18 (Djur 动物)",
+      "cefr": "",
+      "date": "2026-06-18",
+      "theme": "Djur (动物)",
+      "source": "",
+      "path": "inbox/adjsubst-2026-06-18-djur.md",
+      "counts": {
+        "words": 50,
+        "phrases": 0,
+        "sentences": 0,
+        "grammar": 0
+      },
+      "itemTotal": 50,
+      "body": "# Adjektiv + substantiv böjning — 2026-06-18 (Djur 动物)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-18-djur.md`\n导出块只含 **words**（精简种子，无 böjning）→ `/import` 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| Obestämd sg. | Bestämd sg. | Obestämd pl. | Bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en gul kyckling | den gula kycklingen | gula kycklingar | de gula kycklingarna | 黄色的小鸡 |\n| en mager ekorre | den magra ekorren | magra ekorrar | de magra ekorrarna | 瘦的松鼠 |\n| en lätt hare | den lätta haren | lätta harar | de lätta hararna | 轻盈的野兔 |\n| en rund igelkott | den runda igelkotten | runda igelkottar | de runda igelkottarna | 圆滚滚的刺猬 |\n| en ullig ren | den ulliga renen | ulliga renar | de ulliga renarna | 毛茸茸的驯鹿 |\n| ett skyggt rådjur | det skygga rådjuret | skygga rådjur | de skygga rådjuren | 胆小的狍子 |\n| en trött åsna | den trötta åsnan | trötta åsnor | de trötta åsnorna | 疲倦的驴 |\n| en tung kamel | den tunga kamelen | tunga kameler | de tunga kamelerna | 沉重的骆驼 |\n| en fläckig giraff | den fläckiga giraffen | fläckiga giraffer | de fläckiga girafferna | 有斑点的长颈鹿 |\n| en randig zebra | den randiga zebran | randiga zebror | de randiga zebrorna | 有条纹的斑马 |\n| en vaken örn | den vakna örnen | vakna örnar | de vakna örnarna | 警醒的鹰 |\n| en klok uggla | den kloka ugglan | kloka ugglor | de kloka ugglorna | 聪明的猫头鹰 |\n| en lång svan | den långa svanen | långa svanar | de långa svanarna | 修长的天鹅 |\n| en lugn gås | den lugna gåsen | lugna gäss | de lugna gässen | 安静的鹅 |\n| en grön papegoja | den gröna papegojan | gröna papegojor | de gröna papegojorna | 绿色的鹦鹉 |\n| en blå fjäril | den blåa fjärilen | blåa fjärilar | de blåa fjärilarna | 蓝色的蝴蝶 |\n| ett nytt bi | det nya biet | nya bin | de nya bina | 新的蜜蜂 |\n| en tyst myra | den tysta myran | tysta myror | de tysta myrorna | 安静的蚂蚁 |\n| en pigg fluga | den pigga flugan | pigga flugor | de pigga flugorna | 活泼的苍蝇 |\n| en mjuk snigel | den mjuka snigeln | mjuka sniglar | de mjuka sniglarna | 柔软的蜗牛 |\n| en fet val | den feta valen | feta valar | de feta valarna | 肥硕的鲸鱼 |\n| en fri säl | den fria sälen | fria sälar | de fria sälarna | 自由的海豹 |\n| en vass haj | den vassa hajen | vassa hajar | de vassa hajarna | 牙齿锋利的鲨鱼 |\n| en glupsk krokodil | den glupska krokodilen | glupska krokodiler | de glupska krokodilerna | 贪婪的鳄鱼 |\n| en hård sköldpadda | den hårda sköldpaddan | hårda sköldpaddor | de hårda sköldpaddorna | 坚硬的乌龟 |\n\n## 导入块（words only · 精简种子）",
+      "searchText": "adjsubst-2026-06-18-djur adjektiv + substantiv böjning — 2026-06-18 (djur 动物) # adjektiv + substantiv böjning — 2026-06-18 (djur 动物)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-18-djur.md`\n导出块只含 **words**（精简种子，无 böjning）→ `/import` 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| obestämd sg. | bestämd sg. | obestämd pl. | bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en gul kyckling | den gula kycklingen | gula kycklingar | de gula kycklingarna | 黄色的小鸡 |\n| en mager ekorre | den magra ekorren | magra ekorrar | de magra ekorrarna | 瘦的松鼠 |\n| en lätt hare | den lätta haren | lätta harar | de lätta hararna | 轻盈的野兔 |\n| en rund igelkott | den runda igelkotten | runda igelkottar | de runda igelkottarna | 圆滚滚的刺猬 |\n| en ullig ren | den ulliga renen | ulliga renar | de ulliga renarna | 毛茸茸的驯鹿 |\n| ett skyggt rådjur | det skygga rådjuret | skygga rådjur | de skygga rådjuren | 胆小的狍子 |\n| en trött åsna | den trötta åsnan | trötta åsnor | de trötta åsnorna | 疲倦的驴 |\n| en tung kamel | den tunga kamelen | tunga kameler | de tunga kamelerna | 沉重的骆驼 |\n| en fläckig giraff | den fläckiga giraffen | fläckiga giraffer | de fläckiga girafferna | 有斑点的长颈鹿 |\n| en randig zebra | den randiga zebran | randiga zebror | de randiga zebrorna | 有条纹的斑马 |\n| en vaken örn | den vakna örnen | vakna örnar | de vakna örnarna | 警醒的鹰 |\n| en klok uggla | den kloka ugglan | kloka ugglor | de kloka ugglorna | 聪明的猫头鹰 |\n| en lång svan | den långa svanen | långa svanar | de långa svanarna | 修长的天鹅 |\n| en lugn gås | den lugna gåsen | lugna gäss | de lugna gässen | 安静的鹅 |\n| en grön papegoja | den gröna papegojan | gröna papegojor | de gröna papegojorna | 绿色的鹦鹉 |\n| en blå fjäril | den blåa fjärilen | blåa fjärilar | de blåa fjärilarna | 蓝色的蝴蝶 |\n| ett nytt bi | det nya biet | nya bin | de nya bina | 新的蜜蜂 |\n| en tyst myra | den tysta myran | tysta myror | de tysta myrorna | 安静的蚂蚁 |\n| en pigg fluga | den pigga flugan | pigga flugor | de pigga flugorna | 活泼的苍蝇 |\n| en mjuk snigel | den mjuka snigeln | mjuka sniglar | de mjuka sniglarna | 柔软的蜗牛 |\n| en fet val | den feta valen | feta valar | de feta valarna | 肥硕的鲸鱼 |\n| en fri säl | den fria sälen | fria sälar | de fria sälarna | 自由的海豹 |\n| en vass haj | den vassa hajen | vassa hajar | de vassa hajarna | 牙齿锋利的鲨鱼 |\n| en glupsk krokodil | den glupska krokodilen | glupska krokodiler | de glupska krokodilerna | 贪婪的鳄鱼 |\n| en hård sköldpadda | den hårda sköldpaddan | hårda sköldpaddor | de hårda sköldpaddorna | 坚硬的乌龟 |\n\n## 导入块（words only · 精简种子）"
+    },
+    {
+      "slug": "scenario-2026-06-18-fraga-efter-vagen",
+      "file": "scenario-2026-06-18-fraga-efter-vagen.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "scenario",
+      "kindLabel": {
+        "zh": "情景练习",
+        "en": "scenario"
+      },
+      "title": "Fråga efter vägen — 问路",
+      "cefr": "A2",
+      "date": "2026-06-18",
+      "theme": "dialog",
+      "source": "",
+      "path": "imported/scenario-2026-06-18-fraga-efter-vagen.md",
+      "counts": {
+        "words": 10,
+        "phrases": 7,
+        "sentences": 12,
+        "grammar": 4
+      },
+      "itemTotal": 33,
+      "body": "# Fråga efter vägen — 问路\n\n**类型 (type):** dialog\n**CEFR 估计:** A2–B1\n**生成日期:** 2026-06-18\n\n---\n\n## 瑞典语原文\n\n*En turist stannar en förbipasserande på gatan i centrala Stockholm.*\n\nA: Förlåt, kan du hjälpa mig? Jag letar efter apoteket.\nB: Ja, självklart! Det är inte så långt härifrån.\nA: Bra! Hur kommer jag dit?\nB: Gå rakt fram längs den här gatan tills du kommer till en korsning med trafikljus.\nA: Okej, rakt fram till korsningen.\nB: Ja. Sedan svänger du till höger och går ungefär femtio meter.\nA: Till höger vid trafikljusen, och sedan femtio meter?\nB: Precis. Apoteket ligger mitt emot en stor byggnad — du kan inte missa det.\nA: Finns det en karta någonstans, eller är det lätt att hitta?\nB: Det är lätt, inga problem. Men om du vill kan du ta en bild på kartan vid busshållplatsen där borta.\nA: Tack så mycket! Du är väldigt hjälpsam.\nB: Varsågod! Hoppas du hittar det!\n\n---\n\n## 🇨🇳 全文翻译\n\n*一位游客在斯德哥尔摩市中心的街上叫住了一位路人。*\n\nA: 打扰一下，你能帮我吗？我在找药店。\nB: 当然可以！离这里不远。\nA: 太好了！我怎么走？\nB: 沿着这条街一直往前走，直到你到达一个有红绿灯的十字路口。\nA: 好的，沿直线走到十字路口。\nB: 是的。然后向右转，走大约五十米。\nA: 在红绿灯处右转，然后走五十米？\nB: 没错。药店在一栋大楼对面——你不会错过的。\nA: 附近有地图吗，还是很容易找到？\nB: 很容易，没问题。不过如果你想要，你可以拍一下那边公交站的地图。\nA: 非常感谢！你真的很热心。\nB: 不客气！希望你能找到！\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **Hur kommer jag dit?** — 问路的核心句型，字面意思是\"我怎么到那里去？\"。`dit` 是副词，表示\"到那里（动态）\"，不能用 `där`（那里，静态）。区分 `dit`（去那里）与 `där`（在那里）是常见难点。\n\n⚠️ **svänga till höger / till vänster** — 表示\"向右/向左转\"，`till` 不可省略。不说 *svänga höger*（英语影响），瑞典语必须带 `till`。\n\n📐 **tills du kommer till...** — `tills`（直到）引导时间从句，从句用正常语序（主语在前，动词第二）：*tills du **kommer** till korsningen*。注意从句中动词不提前。\n\n📌 **i närheten** vs. **härifrån** — `i närheten` 意为\"在附近\"（静态位置），`härifrån` 意为\"从这里\"（起点方向）。两者都是问路场景的高频表达，常搭配使用：*Det är inte långt härifrån — Det finns ett apotek i närheten*。\n\n---\n\n导入命令：`/import scenario-2026-06-18-fraga-efter-vagen.md`\n\n---",
+      "searchText": "scenario-2026-06-18-fraga-efter-vagen fråga efter vägen — 问路 # fråga efter vägen — 问路\n\n**类型 (type):** dialog\n**cefr 估计:** a2–b1\n**生成日期:** 2026-06-18\n\n---\n\n## 瑞典语原文\n\n*en turist stannar en förbipasserande på gatan i centrala stockholm.*\n\na: förlåt, kan du hjälpa mig? jag letar efter apoteket.\nb: ja, självklart! det är inte så långt härifrån.\na: bra! hur kommer jag dit?\nb: gå rakt fram längs den här gatan tills du kommer till en korsning med trafikljus.\na: okej, rakt fram till korsningen.\nb: ja. sedan svänger du till höger och går ungefär femtio meter.\na: till höger vid trafikljusen, och sedan femtio meter?\nb: precis. apoteket ligger mitt emot en stor byggnad — du kan inte missa det.\na: finns det en karta någonstans, eller är det lätt att hitta?\nb: det är lätt, inga problem. men om du vill kan du ta en bild på kartan vid busshållplatsen där borta.\na: tack så mycket! du är väldigt hjälpsam.\nb: varsågod! hoppas du hittar det!\n\n---\n\n## 🇨🇳 全文翻译\n\n*一位游客在斯德哥尔摩市中心的街上叫住了一位路人。*\n\na: 打扰一下，你能帮我吗？我在找药店。\nb: 当然可以！离这里不远。\na: 太好了！我怎么走？\nb: 沿着这条街一直往前走，直到你到达一个有红绿灯的十字路口。\na: 好的，沿直线走到十字路口。\nb: 是的。然后向右转，走大约五十米。\na: 在红绿灯处右转，然后走五十米？\nb: 没错。药店在一栋大楼对面——你不会错过的。\na: 附近有地图吗，还是很容易找到？\nb: 很容易，没问题。不过如果你想要，你可以拍一下那边公交站的地图。\na: 非常感谢！你真的很热心。\nb: 不客气！希望你能找到！\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **hur kommer jag dit?** — 问路的核心句型，字面意思是\"我怎么到那里去？\"。`dit` 是副词，表示\"到那里（动态）\"，不能用 `där`（那里，静态）。区分 `dit`（去那里）与 `där`（在那里）是常见难点。\n\n⚠️ **svänga till höger / till vänster** — 表示\"向右/向左转\"，`till` 不可省略。不说 *svänga höger*（英语影响），瑞典语必须带 `till`。\n\n📐 **tills du kommer till...** — `tills`（直到）引导时间从句，从句用正常语序（主语在前，动词第二）：*tills du **kommer** till korsningen*。注意从句中动词不提前。\n\n📌 **i närheten** vs. **härifrån** — `i närheten` 意为\"在附近\"（静态位置），`härifrån` 意为\"从这里\"（起点方向）。两者都是问路场景的高频表达，常搭配使用：*det är inte långt härifrån — det finns ett apotek i närheten*。\n\n---\n\n导入命令：`/import scenario-2026-06-18-fraga-efter-vagen.md`\n\n---"
+    },
     {
       "slug": "scenario-2026-06-17-min-vardag",
       "file": "scenario-2026-06-17-min-vardag.md",
