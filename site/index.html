@@ -1,66 +1,119 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Swedish KB Viewer</title>
+    <title>Dagbok — 学习日记 · svensk_agent</title>
     <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="dagbok.css" />
   </head>
-  <body>
-    <main class="shell">
-      <section class="sidebar" aria-label="Knowledge base navigation">
-        <header class="brand">
+  <body class="recapBody" data-site="dagbok">
+    <header class="recapHeader">
+      <div class="recapHeaderInner">
+        <div class="recapBrand">
           <p class="eyebrow">svensk_agent</p>
-          <h1>Knowledge Base</h1>
-          <p id="updatedLabel" class="updated">Loading markdown index...</p>
-          <p class="siteSwitch"><a href="recap/">📅 Dagbok — 学习时间线 →</a></p>
-          <p class="siteSwitch"><a href="forms/">📐 Former — 词形变化(按词性) →</a></p>
-          <p class="siteSwitch"><a href="reading/">📖 Läsning — 情景/文章阅读 →</a></p>
-          <p class="siteSwitch"><a href="listening/">🎧 Lyssna — SVT 简易新闻听力 →</a></p>
-        </header>
+          <h1>Dagbok <span class="brandSub">学习日记</span></h1>
+          <p id="recapUpdated" class="updated">Loading…</p>
+        </div>
+        <nav class="recapNav" aria-label="Page actions">
+          <button class="navLink navButton" type="button" id="todayFlashBtn" title="把今天的录入逐张闪卡复习">🎴 今日闪卡</button>
+        </nav>
+      </div>
 
-        <label class="searchBox">
-          <span>Search <span class="kbd">/</span></span>
-          <input id="searchInput" type="search" autocomplete="off" placeholder="word, meaning, grammar, link..." />
-        </label>
-
-        <details id="sidebarExtras" class="sidebarExtras" open>
-          <summary>Filters &amp; stats</summary>
-          <nav id="typeFilters" class="filters" aria-label="Filter by note type"></nav>
-
-          <section class="stats" aria-label="Knowledge base stats">
-            <h2>Stats</h2>
-            <div id="statsGrid" class="statsGrid"></div>
-          </section>
-        </details>
+      <section class="statsStrip" aria-label="Quick stats">
+        <div class="stat"><span class="statN" id="statToday">–</span><span class="statLabel">今天</span></div>
+        <div class="stat"><span class="statN" id="statYesterday">–</span><span class="statLabel">昨天</span></div>
+        <div class="stat"><span class="statN" id="statWeek">–</span><span class="statLabel">本周</span></div>
+        <div class="stat"><span class="statN" id="statMonth">–</span><span class="statLabel">本月</span></div>
+        <div class="stat"><span class="statN" id="statTotal">–</span><span class="statLabel">总条目</span></div>
+        <div class="stat streakStat"><span class="statN" id="statStreak">–</span><span class="statLabel">🔥 连续天数</span></div>
       </section>
 
-      <section class="resultsPane" aria-label="Search results">
-        <div class="toolbar">
-          <div>
-            <p class="eyebrow">Browse</p>
-            <h2 id="resultCount">0 notes</h2>
-          </div>
-          <select id="sortSelect" aria-label="Sort notes">
-            <option value="title">Sort by title</option>
-            <option value="type">Sort by type</option>
-            <option value="created">Sort by created date</option>
-          </select>
+      <section class="heatmapWrap" aria-label="Activity heatmap (last 12 weeks)">
+        <div class="heatmapLegend">
+          <span>更少</span>
+          <span class="legendCell l0"></span>
+          <span class="legendCell l1"></span>
+          <span class="legendCell l2"></span>
+          <span class="legendCell l3"></span>
+          <span class="legendCell l4"></span>
+          <span>更多</span>
         </div>
-        <div id="resultList" class="resultList"></div>
+        <div id="heatmap" class="heatmap" role="grid" aria-label="每日录入数热力图"></div>
       </section>
 
-      <article class="detailPane" aria-label="Selected note">
-        <button id="backButton" class="backBar" type="button">← Back to list</button>
-        <div id="detailEmpty" class="emptyState">
-          <p class="eyebrow">Select a note</p>
-          <h2>Search and open any markdown entry.</h2>
-        </div>
-        <div id="detailContent" class="detailContent" hidden></div>
-      </article>
+      <nav class="jumpBar" aria-label="Quick jumps">
+        <button type="button" data-jump="today">今天</button>
+        <button type="button" data-jump="yesterday">昨天</button>
+        <button type="button" data-jump="this-week">本周</button>
+        <button type="button" data-jump="last-week">上周</button>
+        <button type="button" data-jump="this-month">本月</button>
+        <button type="button" data-jump="all">全部</button>
+        <span class="filterDivider" aria-hidden="true"></span>
+        <span class="filterLabel">只看：</span>
+        <button type="button" class="typeFilter active" data-type="all">全部</button>
+        <button type="button" class="typeFilter" data-type="word">词</button>
+        <button type="button" class="typeFilter" data-type="phrase">词组</button>
+        <button type="button" class="typeFilter" data-type="sentence">句子</button>
+        <button type="button" class="typeFilter" data-type="grammar">语法</button>
+        <button type="button" class="typeFilter starredFilter" data-type="starred" title="只看已星标的条目">⭐ 仅关注</button>
+      </nav>
+
+      <nav class="jumpBar sourceBar" aria-label="按来源筛选">
+        <span class="filterLabel">来源：</span>
+        <span id="sourceFilters" class="sourceFilters"></span>
+        <span class="filterCount" id="filterCount"></span>
+      </nav>
+    </header>
+
+    <main class="recapMain">
+      <section id="timeline" class="timeline" aria-label="Timeline of additions">
+        <p class="timelineLoading">加载中…</p>
+      </section>
     </main>
 
+    <aside id="peekPanel" class="peekPanel" hidden aria-label="Note preview">
+      <header class="peekHeader">
+        <h3 id="peekTitle"></h3>
+        <div class="peekActions">
+          <a id="peekOpen" class="peekOpen" href="sok/">在查词站打开 →</a>
+          <button id="peekClose" type="button" aria-label="关闭预览">✕</button>
+        </div>
+      </header>
+      <div class="peekToolbar">
+        <button id="peekKnown" type="button" class="peekActionBtn" title="标记为已掌握 (本地)">✓ 已掌握</button>
+        <button id="peekStar" type="button" class="peekActionBtn" title="加入关注 (本地)">⭐ 关注</button>
+        <button id="peekFlashOne" type="button" class="peekActionBtn" title="只用这一条做闪卡">🎴 单条闪卡</button>
+      </div>
+      <div id="peekBody" class="peekBody"></div>
+    </aside>
+
+    <div id="flashOverlay" class="flashOverlay" hidden aria-label="Flashcard mode" role="dialog" aria-modal="true">
+      <div class="flashBar">
+        <div class="flashMeta">
+          <span id="flashIndex">0 / 0</span>
+          <span class="flashScopeLabel" id="flashScope"></span>
+        </div>
+        <div class="flashControls">
+          <button type="button" id="flashShuffle" title="洗牌">🔀 洗牌</button>
+          <button type="button" id="flashRestart" title="重新开始">↻ 重来</button>
+          <button type="button" id="flashClose" aria-label="关闭闪卡">✕</button>
+        </div>
+      </div>
+      <div class="flashStage">
+        <button type="button" id="flashPrev" class="flashNav flashNavPrev" aria-label="上一张">‹</button>
+        <div id="flashCard" class="flashCard" tabindex="0" aria-label="点击或按空格翻面">
+          <div class="flashFace flashFront" id="flashFront"></div>
+          <div class="flashFace flashBack" id="flashBack" hidden></div>
+        </div>
+        <button type="button" id="flashNext" class="flashNav flashNavNext" aria-label="下一张">›</button>
+      </div>
+      <p class="flashHint">空格翻面 · ← → 切换 · Esc 退出</p>
+    </div>
+
     <script src="kb-data.js"></script>
-    <script src="app.js"></script>
+    <script src="reading/reading-data.js"></script>
+    <script src="dagbok.js"></script>
+    <script src="nav.js"></script>
   </body>
 </html>

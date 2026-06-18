@@ -7,7 +7,7 @@
 
 .formsHeader {
   position: sticky;
-  top: 0;
+  top: var(--nav-h);
   z-index: 5;
   background: rgba(247, 248, 242, 0.95);
   backdrop-filter: blur(8px);
@@ -419,7 +419,8 @@
   /* Header: stop the controls from cramming into one tight wrapping row.
      Brand + nav share the top line; search gets its own full-width row;
      group/sort pills sit on a scrollable row below with bigger tap targets. */
-  .formsHeader { padding: 0.5rem 0.85rem; }
+  /* Bottom tab bar on phones — header sticks to the very top, no nav offset. */
+  .formsHeader { top: 0; padding: 0.5rem 0.85rem; }
   .formsBar { gap: 0.5rem 0.6rem; }
 
   .formsBrand { flex: 1 1 auto; min-width: 0; }
@@ -531,7 +532,7 @@ body.fmOpen { overflow: hidden; }
 .fmOverlay {
   position: fixed;
   inset: 0;
-  z-index: 50;
+  z-index: 300;
   display: flex;
   align-items: flex-start;
   justify-content: center;

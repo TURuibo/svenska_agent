@@ -1,5 +1,6 @@
 :root {
   color-scheme: light;
+  --nav-h: 48px;
   --ink: #17211b;
   --muted: #68756e;
   --line: #d9dfd8;
@@ -37,11 +38,71 @@ select {
   font: inherit;
 }
 
+/* ============================================================
+   Shared site navigation (injected by nav.js on every page)
+   Desktop: slim sticky top bar. Phone: fixed bottom tab bar.
+   ============================================================ */
+.siteNav {
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  background: rgba(255, 255, 255, 0.92);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(10px);
+}
+
+.siteNavInner {
+  display: flex;
+  gap: 2px;
+  align-items: stretch;
+  max-width: 1440px;
+  height: var(--nav-h);
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.siteNavTab {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 0 15px;
+  border-bottom: 2px solid transparent;
+  color: var(--muted);
+  font-family: var(--cjk);
+  font-size: 14px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color 0.15s, background 0.15s;
+}
+
+.siteNavTab:hover {
+  color: var(--ink);
+  background: var(--panel-soft);
+}
+
+.siteNavTab.active {
+  color: var(--green-dark);
+  border-bottom-color: var(--green);
+  font-weight: 700;
+}
+
+.siteNavIcon {
+  font-size: 16px;
+}
+
+/* brandSub used by the Sök header (other pages define it in their own CSS) */
+.brandSub {
+  color: var(--muted);
+  font-family: var(--cjk);
+  font-size: 18px;
+  font-weight: 400;
+}
+
 .shell {
   display: grid;
   grid-template-columns: minmax(280px, 340px) minmax(300px, 420px) minmax(0, 1fr);
   gap: 16px;
-  height: 100vh;
+  height: calc(100vh - var(--nav-h));
   padding: 16px;
 }
 
@@ -583,7 +644,7 @@ mark {
       "results detail";
     grid-template-columns: minmax(260px, 360px) minmax(0, 1fr);
     grid-template-rows: auto minmax(0, 1fr);
-    height: 100vh;
+    height: calc(100vh - var(--nav-h));
   }
 
   .sidebar {
@@ -602,11 +663,58 @@ mark {
 
 /* ---------- mobile: one view at a time ---------- */
 @media (max-width: 760px) {
+  :root {
+    --nav-h: 56px;
+  }
+
+  /* keep fixed bottom tab bar from covering page content */
+  body {
+    padding-bottom: calc(var(--nav-h) + env(safe-area-inset-bottom));
+  }
+
+  .siteNav {
+    position: fixed;
+    top: auto;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-top: 1px solid var(--line);
+    border-bottom: 0;
+    padding-bottom: env(safe-area-inset-bottom);
+    box-shadow: 0 -6px 18px rgba(32, 47, 38, 0.10);
+  }
+
+  .siteNavInner {
+    padding: 0;
+    height: var(--nav-h);
+  }
+
+  .siteNavTab {
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2px;
+    padding: 6px 0;
+    border-bottom: 0;
+    border-top: 2px solid transparent;
+    font-size: 11px;
+  }
+
+  .siteNavTab.active {
+    border-bottom: 0;
+    border-top-color: var(--green);
+    background: var(--panel-soft);
+  }
+
+  .siteNavIcon {
+    font-size: 20px;
+  }
+
   .shell {
     display: flex;
     flex-direction: column;
-    height: 100vh;
-    min-height: 100vh;
+    height: calc(100vh - var(--nav-h));
+    min-height: 0;
     gap: 0;
     padding: 0;
   }
@@ -685,7 +793,7 @@ mark {
     order: 1;
     flex: 1;
     min-height: 0;
-    height: 100vh;
+    height: calc(100vh - var(--nav-h));
     overflow: auto;
   }
 
@@ -758,6 +866,10 @@ mark {
   .resultsPane,
   .detailPane {
     background: rgba(26, 34, 29, 0.86);
+  }
+
+  .siteNav {
+    background: rgba(20, 26, 23, 0.92);
   }
 
   .filterButton[aria-pressed="true"] {

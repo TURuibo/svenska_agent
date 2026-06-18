@@ -9,7 +9,7 @@
 
 .readingHeader {
   position: sticky;
-  top: 0;
+  top: var(--nav-h);
   z-index: 5;
   background: var(--panel);
   border-bottom: 1px solid var(--line);
@@ -122,8 +122,8 @@
   flex-direction: column;
   gap: 10px;
   position: sticky;
-  top: 132px;
-  max-height: calc(100vh - 150px);
+  top: calc(132px + var(--nav-h));
+  max-height: calc(100vh - 150px - var(--nav-h));
   overflow-y: auto;
   padding-right: 4px;
 }
@@ -265,7 +265,7 @@
   .readingHeaderInner { padding: 12px 16px 6px; }
   .readingBrand h1 { font-size: 22px; }
   .filterBar { padding: 6px 16px 10px; }
-  .readingSearch input { min-width: 0; flex: 1 1 140px; }
+  .readingSearch input { min-width: 0; flex: 1 1 140px; font-size: 16px; }
 
   .readingMain {
     grid-template-columns: 1fr;

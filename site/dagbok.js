@@ -1,4 +1,4 @@
-/* Dagbok — recap UI. Reads window.KB_DATA from ../kb-data.js. */
+/* Dagbok — recap UI (site home). Reads window.KB_DATA from kb-data.js. */
 
 (function () {
   'use strict';
@@ -243,7 +243,7 @@
   // Deep link into Läsning carrying a back-anchor to this Dagbok day.
   function readingHref(article, dateKey) {
     const from = dateKey ? `&from=${encodeURIComponent('day-' + dateKey)}&frompage=recap` : '';
-    return `../reading/#article=${encodeURIComponent(article.slug)}${from}`;
+    return `reading/#article=${encodeURIComponent(article.slug)}${from}`;
   }
 
   // Per-category item counts (drives which filter buttons appear + their badges).
@@ -603,7 +603,7 @@
         const footer = document.createElement('div');
         footer.style.marginTop = '6px';
         const a = document.createElement('a');
-        a.href = `../#note=${encodeURIComponent(src.slug)}`;
+        a.href = `sok/#note=${encodeURIComponent(src.slug)}`;
         a.target = '_blank';
         a.rel = 'noopener';
         a.style.fontFamily = 'var(--cjk)';
@@ -723,7 +723,7 @@
     let t = escapeHtml(s);
     t = t.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_m, slug, label) => {
       const visible = label || slug;
-      return `<a href="../#note=${encodeURIComponent(slug)}" target="_blank" rel="noopener">${escapeHtml(visible)}</a>`;
+      return `<a href="sok/#note=${encodeURIComponent(slug)}" target="_blank" rel="noopener">${escapeHtml(visible)}</a>`;
     });
     t = t.replace(/`([^`]+)`/g, '<code>$1</code>');
     t = t.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
@@ -751,7 +751,7 @@
       readHtml = `<div class="peekRead"><a class="batchReadLink" href="${readingHref(article, dateKey)}">📖 阅读原文（Läsning，可看中文翻译）→</a></div>`;
     }
     peekBody.innerHTML = metaHtml + readHtml + mdToHtml(n.body || '');
-    peekOpen.href = `../#note=${encodeURIComponent(n.slug)}`;
+    peekOpen.href = `sok/#note=${encodeURIComponent(n.slug)}`;
     peek.hidden = false;
     syncPeekActions();
   }
