@@ -8,6 +8,25 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— SVT Nyheter på lätt svenska 2026-06-18 听力 — 12词 / 6词组 —** | | | | | | |
+| [[avtal]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[kriga]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[fartyg]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[kärnvapen]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[straff]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[drönare]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[brinna]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[undersökning]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[skuld]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[missbruk]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sprängning]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[åska]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[skriva-under]] | phrase | — | 0 | 2.5 | 2026-06-18 | no |
+| [[spel-om-pengar]] | phrase | — | 0 | 2.5 | 2026-06-18 | no |
+| [[livstids-fängelse]] | phrase | — | 0 | 2.5 | 2026-06-18 | no |
+| [[neka-till-brott]] | phrase | — | 0 | 2.5 | 2026-06-18 | no |
+| [[vara-värt-det]] | phrase | — | 0 | 2.5 | 2026-06-18 | no |
+| [[en-av-tio]] | phrase | — | 0 | 2.5 | 2026-06-18 | no |
 | **— SVT Nyheter på lätt svenska 2026-06-17 听力 — 10词 / 3词组 / 51句 —** | | | | | | |
 | [[akut]] | word | — | 0 | 2.5 | 2026-06-18 | no |
 | [[väntetid]] | word | — | 0 | 2.5 | 2026-06-18 | no |

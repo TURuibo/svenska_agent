@@ -3,7 +3,7 @@ type: topic
 name: "samhälle-och-politik"
 kind: semantic-field
 zh: "社会与政治"
-members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd]
+members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning]
 created: "2026-06-04"
 ---
 
@@ -22,6 +22,10 @@ created: "2026-06-04"
 - [[provins]] — 省
 - [[självständig]] — 独立的
 - [[missnöjd]] — 不满的
+- [[avtal]] — 协议；合同
+- [[kärnvapen]] — 核武器
+- [[straff]] — 惩罚；制裁
+- [[sprängning]] — 爆炸，爆破
 
 ## 备注 (Notes)
 

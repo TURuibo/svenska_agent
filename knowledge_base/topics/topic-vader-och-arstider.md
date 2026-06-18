@@ -19,6 +19,7 @@ members:
   - färga
   - intensiv
   - tillbringa
+  - åska
 created: 2026-06-16
 ---
 
@@ -37,6 +38,7 @@ created: 2026-06-16
 
 **天气/自然 (Weather/Nature)**
 - [[snö]] — 雪
+- [[åska]] — 雷，雷暴
 - [[blomma]] — 花
 - [[sval]] — 凉爽的
 - [[tydlig]] — 明显的
