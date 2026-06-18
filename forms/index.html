@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../styles.css" />
     <link rel="stylesheet" href="forms.css" />
   </head>
-  <body class="formsBody">
+  <body class="formsBody" data-site="forms">
     <header class="formsHeader">
       <div class="formsBar">
         <div class="formsBrand">
@@ -27,9 +27,7 @@
           <button type="button" class="sortBtn" data-sort="old" title="最早在前">最早</button>
           <button type="button" class="sortBtn" data-sort="alpha" title="按字母">A–Ö</button>
         </div>
-        <nav class="formsNav" aria-label="Site nav">
-          <a class="navLink" href="../" title="Search KB">🔍</a>
-          <a class="navLink" href="../recap/" title="Dagbok">📅</a>
+        <nav class="formsNav" aria-label="Page actions">
           <button type="button" id="chipToggle" class="navLink" title="显示/隐藏词性导航">词性 ▾</button>
         </nav>
       </div>
@@ -43,5 +41,6 @@
     <script src="../kb-data.js"></script>
     <script src="../reading/reading-data.js"></script>
     <script src="forms.js"></script>
+    <script src="../nav.js"></script>
   </body>
 </html>

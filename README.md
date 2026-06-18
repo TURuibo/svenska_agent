@@ -1,44 +1,60 @@
-# KB Web Viewer
+# Swedish learning site (multi-page)
 
-Open `site/index.html` in a browser to browse and search the local Swedish markdown knowledge base.
+Static, dependency-free site for the local Swedish markdown knowledge base. Five pages share one
+palette (`styles.css`), one generated dataset (`kb-data.js`), and one navigation component
+(`nav.js`).
 
-Public GitHub Pages URL:
+Public GitHub Pages URL (lands on **Dagbok**, the home page):
 
 ```text
 https://turuibo.github.io/svenska_agent/
 ```
 
-The viewer supports category filters, full-text search (with term highlighting and match
-snippets), note previews, clickable `[[wikilinks]]`, and a **backlinks / "linked from"** panel plus
-a forward-links list that flags broken targets. It renders the full markdown body — including
-fenced code blocks (grammar formula diagrams), tables, ordered/nested lists, and blockquotes.
+## Pages & layout
 
-Navigation: each note is deep-linkable via `#note=<slug>`, the browser **Back** button retraces
-wikilink trails, and keyboard shortcuts work (`/` or `Ctrl/Cmd-K` to search, ↑/↓ to move through
-results, Enter to open, Esc to clear/back). On phones it switches to a one-note-at-a-time view with
-a "← Back to list" bar and a collapsible filters/stats panel. Dark mode follows the OS setting.
+| Page | Path | What it's for |
+|------|------|----------------|
+| **Dagbok** 📅 | `site/index.html` (`/`) | Home — learning diary: stats, heatmap, day-by-day timeline |
+| **Läsning** 📖 | `site/reading/` | Read scenarios / articles with toggleable 🇨🇳 translation |
+| **Lyssna** 🎧 | `site/listening/` | SVT easy-Swedish listening with synced bilingual transcript |
+| **Former** 📐 | `site/forms/` | Word forms grouped by 词性 / date |
+| **Sök** 🔍 | `site/sok/` | Dictionary / full-text search tool (formerly the home page) |
 
-It is static and has no external dependencies. `knowledge_base/` remains the source of truth;
-`site/kb-data.js` is generated from those markdown files (backlinks are computed in the browser, so
-no schema change is needed). Open `site/index.html` directly or serve the folder — no build needed
-to view; only re-run the generator below after editing KB notes.
+## Navigation (`nav.js`)
 
-## Dagbok (recap page)
+Every page sets `<body data-site="…">` and loads `nav.js`, which injects one consistent nav so you
+can jump between **all five** pages from any page. On desktop it's a slim sticky **top bar**; on
+phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted). Add a new
+destination once, in `nav.js`'s `DEST` list — never per page.
 
-`site/recap/` is a sister page focused on **evening recap** rather than search: "what did I add
-today / yesterday / this week?". It shares `kb-data.js` and the same color palette, and lives at
-`/recap/` on GitHub Pages. Features:
+## Sök (search tool)
+
+`site/sok/` supports category filters, full-text search (term highlighting + match snippets), note
+previews, clickable `[[wikilinks]]`, and a **backlinks / "linked from"** panel plus a forward-links
+list that flags broken targets. It renders the full markdown body — fenced code blocks (grammar
+diagrams), tables, ordered/nested lists, blockquotes. Each note is deep-linkable via `#note=<slug>`;
+the browser **Back** button retraces wikilink trails; keyboard shortcuts work (`/` or `Ctrl/Cmd-K`
+to focus search, ↑/↓ to move, Enter to open, Esc to clear/back). On phones it shows one note at a
+time with a "← Back to list" bar. Other pages link into it as `…/sok/#note=<slug>`.
+
+## Dagbok (home)
+
+The landing page focuses on **evening recap** rather than search: "what did I add today / yesterday
+/ this week?". Features:
 
 - Stats strip (今天/昨天/本周/本月/总条目/连续天数 streak)
 - 12-week activity heatmap, clickable to jump to that day
 - Timeline grouped by day, with import batches (`sources/`) shown as cards containing their words /
   phrases / sentences / grammar
 - Type filter (词 / 词组 / 句子 / 语法) and quick-jump buttons
-- Click any chip to open an inline peek panel with the full markdown rendered; "在主站打开 →"
-  jumps to the main search viewer.
+- Click any chip to open an inline peek panel with the full markdown rendered; "在查词站打开 →"
+  jumps into the Sök tool (`sok/#note=<slug>`).
 
-The main viewer header carries a "📅 Dagbok" link to switch between the two; the recap header
-carries a "🔍 Search KB" link back.
+The old `/recap/` URL now redirects here. Dark mode follows the OS setting on every page.
+
+`knowledge_base/` remains the source of truth; `site/kb-data.js` is generated from those markdown
+files (backlinks computed in the browser). Serve the folder or open `site/index.html` directly —
+no build needed to view; only re-run the generator below after editing KB notes.
 
 Regenerate the searchable data after adding or editing KB notes:
 

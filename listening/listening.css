@@ -64,7 +64,7 @@
 }
 
 /* ---- Episode list ---- */
-.episodeList { position: sticky; top: 16px; }
+.episodeList { position: sticky; top: calc(16px + var(--nav-h)); }
 .listHeading { font-size: 14px; color: var(--muted); margin: 0 0 10px; text-transform: uppercase; letter-spacing: 0.08em; }
 .episodeList ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
 .epBtn {
@@ -143,7 +143,7 @@
 /* ---- Vocab ---- */
 .vocabPanel { border-top: 1px solid var(--line); padding-top: 16px; }
 .vocabPanel h3 { margin: 0 0 12px; font-size: 16px; color: var(--green-dark); }
-.vocabItems { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 8px; }
+.vocabItems { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; }
 .vocabItem {
   border: 1px solid var(--line); border-radius: 10px; background: var(--panel); padding: 10px 12px;
   display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline;
@@ -157,6 +157,10 @@
 .vEn { font-size: 12px; color: var(--muted); width: 100%; }
 
 @media (max-width: 760px) {
-  .listenMain { grid-template-columns: 1fr; }
+  .listenMain { grid-template-columns: 1fr; padding: 18px 16px 40px; }
   .episodeList { position: static; }
+}
+
+@media (max-width: 480px) {
+  .vocabItems { grid-template-columns: 1fr; }
 }

@@ -172,7 +172,7 @@
   function headwordHtml(text, slug) {
     var safe = escapeHtml(text || '');
     if (slug) {
-      return '<a class="vSv vLink" href="../#note=' + encodeURIComponent(slug) +
+      return '<a class="vSv vLink" href="../sok/#note=' + encodeURIComponent(slug) +
         '" target="_blank" rel="noopener" title="看知识库解释">' + safe + '</a>';
     }
     return '<span class="vSv">' + safe + '</span>';
