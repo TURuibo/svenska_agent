@@ -1,5 +1,5 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-17 19:38:46",
+  "generatedAt": "2026-06-18 04:39:22",
   "articles": [
     {
       "slug": "scenario-2026-06-17-min-vardag",
