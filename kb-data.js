@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-18 14:53:54",
+  "generatedAt": "2026-06-18 20:02:50",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -150,6 +150,7 @@ window.KB_DATA = {
         "tyst",
         "ullig",
         "vaken",
+        "vara-värt-det",
         "vass"
       ]
     },
@@ -186,6 +187,7 @@ window.KB_DATA = {
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "sent-det-ar-gladjande-att-vi-lyckas",
         "sent-det-är-också-viktigt-att-köra",
+        "sent-det-är-viktigt-att-skapa-en-kultur",
         "sent-det-ar-viktigt-att-titta-vidare-pa",
         "sent-det-beror-pa-att-planeten-blir-allt-varmare",
         "sent-det-finns-risk-att-over-10000-hus",
@@ -411,11 +413,19 @@ window.KB_DATA = {
         "grammar-for-att-infinitiv",
         "grammar-nar-bisats",
         "sent-beroende-var-i-landet-man-bor",
+        "sent-där-alla-har-så-stor-förståelse",
         "sent-de-tar-bort-vaxter-som-hotar-andra-arter",
         "sent-det-ar-bekymmersamt-men-vi-vet-inte",
+        "sent-flera-experter-säger-att-det-är-iran",
+        "sent-för-att-det-kan-leda-till-missbruk",
+        "sent-för-en-av-tio-unga-fotbollsspelare",
         "sent-hur-lange-man-far-vanta-i-olika-delar",
+        "sent-i-söder-kommer-både-regn-eller-åska",
         "sent-man-plockar-svamp-och-njuter",
-        "sent-människor-jobbar-där-och-de-kan"
+        "sent-människor-jobbar-där-och-de-kan",
+        "sent-nu-ska-vi-se-hur-vädret-blir",
+        "sent-problemet-är-också-stort-bland-dem",
+        "sent-vi-har-träffat-en-av-dem-som-hade"
       ]
     },
     {
@@ -638,7 +648,10 @@ window.KB_DATA = {
         "sent-arbetena-är-till-för-att-vägarna",
         "sent-det-ar-viktigt-att-titta-vidare-pa",
         "sent-finns-det-en-karta-någonstans",
+        "sent-för-att-hjälpa-sina-medlemmar",
+        "sent-iran-ska-öppna-sundet-i-hormuz-genast",
         "sent-man-klar-pa-sig-tjocka-jackor",
+        "sent-och-fotbollsspelare-är-tränade-till",
         "source-2026-06-16-vadret-och-arstiderna"
       ]
     },
@@ -732,6 +745,7 @@ window.KB_DATA = {
         "köra-för-fort",
         "sent-an-kvinnor-i-samma-alder",
         "sent-arbetena-är-till-för-att-vägarna",
+        "sent-där-alla-har-så-stor-förståelse",
         "sent-den-som-ska-ut-och-köra-bil",
         "sent-det-blir-svalare-och-regnet",
         "sent-for-naturen-an-vad-vanliga-kor-klarat",
@@ -743,9 +757,11 @@ window.KB_DATA = {
         "sent-medan-region-jonkoping-hade-kortast-tid",
         "sent-när-det-finns-färre-jordgubbar",
         "sent-nar-varen-kommer-borjar-dagarna",
+        "sent-på-midsommardagen-blir-det-varmare",
         "sent-pa-tre-manader-har-just-dessa-vattenbufflar",
         "sent-redan-i-midsommar-kan-det-bli",
         "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
+        "sent-söndagen-blir-dock-torr-och-solig",
         "source-2026-06-16-vadret-och-arstiderna",
         "source-2026-06-17-listening-svt-latt",
         "source-2026-06-18-nyheter-8sidor"
@@ -935,6 +951,7 @@ window.KB_DATA = {
         "sent-jordgubbar-är-röda-när-de-är",
         "sent-när-det-finns-färre-jordgubbar",
         "sent-när-flickan-får-en-dator",
+        "sent-när-konflikten-mellan-gängen-foxtrot",
         "sent-nar-varen-kommer-borjar-dagarna",
         "source-2026-06-16-vadret-och-arstiderna"
       ]
@@ -1000,6 +1017,7 @@ window.KB_DATA = {
         "sent-en-kopp-kaffe-tack-och-sedan",
         "sent-fika-vi-får-ses-oftare",
         "sent-kan-vi-dela-på-en-sallad",
+        "skriva-under",
         "source-2026-06-10-zlatan-subst-verb",
         "source-2026-06-15-restaurang-fodelsedag",
         "source-2026-06-18-nyheter-8sidor",
@@ -1034,17 +1052,23 @@ window.KB_DATA = {
         "födas",
         "grammar-deponensverb",
         "index",
+        "sent-även-flera-hus-med-lägenheter-verkar",
+        "sent-de-lovar-att-sluta-kriga-i-60-dagar",
         "sent-det-blir-ingen-hojning-nu-men-rantan",
         "sent-dricks-är-helt-frivilligt-i-sverige",
         "sent-gransen-kallas-fribelopp",
         "sent-han-foddes-1981-rosengard",
         "sent-i-mandags-domdes-mette-marits-son",
+        "sent-idag-dömdes-en-av-foxtrots-högsta",
         "sent-ledare-fran-olika-lander-har-samlats",
+        "sent-och-fotbollsspelare-är-tränade-till",
+        "sent-och-nästan-en-av-tio-tros-dessutom",
         "skilja_sig",
         "skiljas",
         "source-2026-06-04-nyheter-vecka-22",
         "source-2026-06-09-zlatan-bio",
-        "source-2026-06-17-listening-svt-latt"
+        "source-2026-06-17-listening-svt-latt",
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -1070,21 +1094,33 @@ window.KB_DATA = {
         "ända-sedan",
         "har-ni-bestämt-er",
         "har-ni-bokat-bord",
+        "neka-till-brott",
         "sent-allt-har-hittills-gatt-bra-men-hon",
+        "sent-även-flera-hus-med-lägenheter-verkar",
         "sent-bland-annat-har-ukrainas-president-zelenskyj",
         "sent-det-har-varit-oroligt-kring-norges-kungahus",
         "sent-folk-i-sverige-har-firat",
+        "sent-föreningen-svensk-elitfotboll-har-nu",
         "sent-god-kväll-och-välkomna-har-ni-bokat",
         "sent-har-ni-bestämt-er-eller-behöver-ni",
+        "sent-har-spelat-om-pengar-i-nån-form",
         "sent-i-norge-har-kronprinsessan-mette-marit",
+        "sent-idag-har-det-varit-flera-ukrainska",
         "sent-ja-vi-har-bokat-ett-bord-för-två",
+        "sent-jag-har-ju-vunnit-sm-guld",
         "sent-ledare-fran-olika-lander-har-samlats",
         "sent-ni-har-reserverat-för-sex-gäster",
         "sent-pa-tre-manader-har-just-dessa-vattenbufflar",
+        "sent-samtidigt-har-det-under-natten-varit",
         "sent-sedan-1800-talet-har-människor",
+        "sent-usas-och-irans-presidenter-har-skrivit",
+        "sent-var-som-värst-under-2023",
         "sent-våren-har-varit-kall-därför",
+        "sent-vi-har-träffat-en-av-dem-som-hade",
+        "skriva-under",
         "source-2026-06-15-restaurang-fodelsedag",
         "source-2026-06-15-restaurang-middag",
+        "source-2026-06-18-listening-svt-latt",
         "source-2026-06-18-nyheter-8sidor"
       ]
     },
@@ -1460,6 +1496,7 @@ window.KB_DATA = {
         "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
         "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
+        "sent-sen-kom-han-tillbaka-till-sverige",
         "sent-till-evian-i-frankrike-nu",
         "sent-till-slut-var-allt-bra-igen",
         "sent-ukrainas-ledare-volodymyr-zelenskyj",
@@ -1640,7 +1677,10 @@ window.KB_DATA = {
       "backlinks": [
         "sent-apoteket-ligger-mitt-emot-en-stor-byggnad",
         "sent-det-är-inte-så-långt-härifrån",
+        "sent-det-är-inte-värt-det-fram-i-tiden",
+        "sent-jag-har-ju-vunnit-sm-guld",
         "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
+        "sent-söndagen-blir-dock-torr-och-solig",
         "topic-satsadverbial"
       ]
     },
@@ -1975,11 +2015,14 @@ window.KB_DATA = {
         "just-då",
         "plötsligt",
         "sent-antligen-kunde-jag-andas-ut",
+        "sent-bakom-framgången-fanns-ett-hemligt",
         "sent-bredvid-sangen-star-ett-litet-nattduksbord",
         "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "sent-den-fragan-ska-invanarna-i-alberta",
+        "sent-det-här-rapporterar-lokala-ryska",
+        "sent-det-visar-en-ny-undersökning-från-karolinska",
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
         "sent-efter-jobbet-handlar-jag-mat-i-affaren",
         "sent-eftersom-astrid-var-ensam-kunde-hon",
@@ -1992,16 +2035,24 @@ window.KB_DATA = {
         "sent-fika-men-nu-tar-vi-en-fika",
         "sent-fika-perfekt-det-tar-jag",
         "sent-fika-tyvärr-semlan-är-bara",
+        "sent-för-att-det-kan-leda-till-missbruk",
         "sent-forst-dricker-jag-en-kopp-kaffe",
         "sent-framfor-butiken-stannar-buss-vid-busshallplatsen",
         "sent-framfor-fonster-vid-vaggen-stor-krukvaxt",
+        "sent-från-utlandet-beställde-han-mord",
         "sent-hosten-fargar-skogen-i-rott",
         "sent-hur-kommer-jag-dit",
+        "sent-i-avtalet-lovar-iran-bland-annat",
         "sent-i-bokhyllan-star-manga-bocker-foto-sitter",
         "sent-i-hornet-till-vanster-om-dorren-star-kladskap",
+        "sent-i-söder-kommer-både-regn-eller-åska",
+        "sent-i-spelbranschen-tror-man",
         "sent-i-vardagsrummet-finns-soffa-fatoljerna",
         "sent-ibland-traffar-jag-en-van-eller-gar",
+        "sent-idag-dömdes-en-av-foxtrots-högsta",
+        "sent-idag-har-det-varit-flera-ukrainska",
         "sent-igar-var-en-ovantad-dag",
+        "sent-imorgon-på-midsommarafton-blir-det",
         "sent-innan-jag-somnar-laser-jag-nagra-sidor",
         "sent-jag-arbetar-pa-ett-sjukhus",
         "sent-jag-föredrar-fisken-vad-säger-du",
@@ -2021,6 +2072,7 @@ window.KB_DATA = {
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
         "sent-pa-kvallen-lagar-jag-middag-och-tittar",
         "sent-pa-lunchen-brukar-jag-ata-tillsammans",
+        "sent-på-midsommardagen-blir-det-varmare",
         "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex",
         "sent-pa-nattduksbord-star-lampa-bok-bredvid",
         "sent-pa-sangen-ligger-en-kudde-och-en-filt",
@@ -2030,6 +2082,8 @@ window.KB_DATA = {
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
         "sent-rakt-fram-ser-jag-ett-torg",
         "sent-redan-i-midsommar-kan-det-bli",
+        "sent-redan-som-tonåring-blev-babis-stefanidis",
+        "sent-samtidigt-har-det-under-natten-varit",
         "sent-sangens-star-langs-vaggen-under-sangen",
         "sent-sedan-1800-talet-har-människor",
         "sent-sedan-svänger-du-till-höger",
@@ -2038,6 +2092,7 @@ window.KB_DATA = {
         "sent-snon-faller-tyst-och-tacker-marken",
         "sent-solen-skiner-lange-och-det-ar",
         "sent-sverige-har-fyra-tydliga-arstider",
+        "sent-tidigt-i-morse-brann-det-i-en",
         "sent-till-hoger-om-mig-ligger-en-park",
         "sent-till-hoger-om-soffan-star-bokhylla",
         "sent-till-slut-var-allt-bra-igen",
@@ -2501,6 +2556,7 @@ window.KB_DATA = {
       "backlinks": [
         "annan",
         "sent-bland-annat-har-ukrainas-president-zelenskyj",
+        "sent-i-avtalet-lovar-iran-bland-annat",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-09-zlatan-bio",
         "source-2026-06-17-listening-svt-latt"
@@ -3276,6 +3332,34 @@ window.KB_DATA = {
       "backlinks": [
         "sent-zlatan-en-av-sveriges-mest-kanda",
         "source-2026-06-09-zlatan-bio"
+      ]
+    },
+    {
+      "slug": "en-av-tio",
+      "type": "phrase",
+      "title": "en av tio",
+      "path": "knowledge_base/phrases/en-av-tio.md",
+      "body": "# en av tio\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 十分之一 · 🇬🇧 one in ten\n📝 字面: one of ten\n\n## 用法说明 (Usage)\n\n- `en av tio` = \"one in ten\" — statistisk fras för att uttrycka proportioner.\n- `ett av tio` används med ett-ord: en av tio personer / ett av tio företag.\n- Variant: `var tionde` = every tenth = also \"one in ten\".\n\n## 短语中的语法 (Grammar inside)\n\n-\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `tre av tio` — 十分之三\n- 🔄 `var tionde` — 每十个中有一个\n- 🔄 `nästan en av tio` — 近十分之一\n\n## 例句 / 对话 (Examples)\n\n- [[sent-för-en-av-tio-unga-fotbollsspelare]] 🇸🇪 För en av tio unga fotbollsspelare som spelar på elitnivå har problem med spel om pengar. 🇨🇳 每十名踢精英级别的年轻足球运动员中，就有一人存在赌钱问题。\n- 🇸🇪 En av tio elever har svårt att läsa. — 🇨🇳 每十名学生中就有一人阅读困难。",
+      "excerpt": "en av tio 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 十分之一 · 🇬🇧 one in ten 📝 字面: one of ten 用法说明 (Usage) en av tio = \"one in ten\" — statistisk fras för att uttrycka proportioner. ett av tio används med ett ord",
+      "forms": [],
+      "links": [
+        "sent-för-en-av-tio-unga-fotbollsspelare"
+      ],
+      "searchText": "en av tio en-av-tio knowledge_base/phrases/en-av-tio.md ---\ntype: phrase\nphrase: \"en av tio\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 3\nzh: \"十分之一\"\nen: \"one in ten\"\nliteral: \"one of ten\"\nhead_words: []\ngrammar: []\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# en av tio\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 十分之一 · 🇬🇧 one in ten\n📝 字面: one of ten\n\n## 用法说明 (Usage)\n\n- `en av tio` = \"one in ten\" — statistisk fras för att uttrycka proportioner.\n- `ett av tio` används med ett-ord: en av tio personer / ett av tio företag.\n- Variant: `var tionde` = every tenth = also \"one in ten\".\n\n## 短语中的语法 (Grammar inside)\n\n-\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `tre av tio` — 十分之三\n- 🔄 `var tionde` — 每十个中有一个\n- 🔄 `nästan en av tio` — 近十分之一\n\n## 例句 / 对话 (Examples)\n\n- [[sent-för-en-av-tio-unga-fotbollsspelare]] 🇸🇪 För en av tio unga fotbollsspelare som spelar på elitnivå har problem med spel om pengar. 🇨🇳 每十名踢精英级别的年轻足球运动员中，就有一人存在赌钱问题。\n- 🇸🇪 En av tio elever har svårt att läsa. — 🇨🇳 每十名学生中就有一人阅读困难。\n",
+      "zh": "十分之一",
+      "en": "one in ten",
+      "created": "2026-06-18",
+      "known": false,
+      "phrase": "en av tio",
+      "category": "fast-uttryck",
+      "sentences": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "sent-fler-än-tre-av-tio-unga-manliga",
+        "sent-för-en-av-tio-unga-fotbollsspelare",
+        "sent-och-nästan-en-av-tio-tros-dessutom",
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -4155,6 +4239,7 @@ window.KB_DATA = {
         "gå-på-bio",
         "handla",
         "sent-det-handlar-som-vanligt-om",
+        "sent-nu-ska-det-handla-om-problem-med-spel",
         "source-2026-06-09-zlatan-bio",
         "source-2026-06-10-zlatan-subst-verb",
         "source-2026-06-18-nyheter-8sidor"
@@ -5670,6 +5755,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "livstids-fängelse",
+      "type": "phrase",
+      "title": "livstids fängelse",
+      "path": "knowledge_base/phrases/livstids-fängelse.md",
+      "body": "# livstids fängelse\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 终身监禁 · 🇬🇧 life imprisonment\n📝 字面: lifetime prison\n\n## 用法说明 (Usage)\n\n- `livstids fängelse` är den juridiska termen för livstids fängelsedom i Sverige.\n- Konstruktion: `livstids` (genitivform av `livstid`) + `fängelse`.\n- Dömas till livstids fängelse = bli dömd till det längsta straffet.\n\n## 短语中的语法 (Grammar inside)\n\n-\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `livstidsdom` — livstids fängelsedom (mer kompakt)\n- 🔗 [[fängelse]]\n- 🔗 [[döma]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-idag-dömdes-en-av-foxtrots-högsta]] 🇸🇪 Idag dömdes en av Foxtrots högsta ledare till livstids fängelse. 🇨🇳 今天，Foxtrot 犯罪团伙的一名最高头目被判处终身监禁。",
+      "excerpt": "livstids fängelse 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 终身监禁 · 🇬🇧 life imprisonment 📝 字面: lifetime prison 用法说明 (Usage) livstids fängelse är den juridiska termen för livstids fängelsedom i Sverige. Konstr",
+      "forms": [],
+      "links": [
+        "döma",
+        "fängelse",
+        "sent-idag-dömdes-en-av-foxtrots-högsta"
+      ],
+      "searchText": "livstids fängelse livstids-fängelse knowledge_base/phrases/livstids-fängelse.md ---\ntype: phrase\nphrase: \"livstids fängelse\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 3\nzh: \"终身监禁\"\nen: \"life imprisonment\"\nliteral: \"lifetime prison\"\nhead_words:\n  - fängelse\ngrammar: []\nrelated: []\ntopics:\n  - topic-samhälle-och-politik\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# livstids fängelse\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 终身监禁 · 🇬🇧 life imprisonment\n📝 字面: lifetime prison\n\n## 用法说明 (Usage)\n\n- `livstids fängelse` är den juridiska termen för livstids fängelsedom i Sverige.\n- Konstruktion: `livstids` (genitivform av `livstid`) + `fängelse`.\n- Dömas till livstids fängelse = bli dömd till det längsta straffet.\n\n## 短语中的语法 (Grammar inside)\n\n-\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `livstidsdom` — livstids fängelsedom (mer kompakt)\n- 🔗 [[fängelse]]\n- 🔗 [[döma]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-idag-dömdes-en-av-foxtrots-högsta]] 🇸🇪 Idag dömdes en av Foxtrots högsta ledare till livstids fängelse. 🇨🇳 今天，Foxtrot 犯罪团伙的一名最高头目被判处终身监禁。\n",
+      "zh": "终身监禁",
+      "en": "life imprisonment",
+      "created": "2026-06-18",
+      "known": false,
+      "phrase": "livstids fängelse",
+      "category": "fast-uttryck",
+      "sentences": [],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-idag-dömdes-en-av-foxtrots-högsta",
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "logga-in",
       "type": "phrase",
       "title": "logga in",
@@ -5921,6 +6036,37 @@ window.KB_DATA = {
         "mousserande",
         "sent-vi-har-mousserande-vin-och-champagne",
         "source-2026-06-15-restaurang-fodelsedag"
+      ]
+    },
+    {
+      "slug": "neka-till-brott",
+      "type": "phrase",
+      "title": "neka till brott",
+      "path": "knowledge_base/phrases/neka-till-brott.md",
+      "body": "# neka till brott\n\n🗣️ 类型: kollokation · 语域: neutralt · 常用度: 3/5\n🇨🇳 否认罪行 · 🇬🇧 to deny the crime(s)\n📝 字面: to say no to crime\n\n## 用法说明 (Usage)\n\n- `neka till` + substantiv/gerundium = 否认某事 (deny something).\n- Vanlig i juridiska/kriminalnyheter: `han nekade till brotten`.\n- Perfekt: `han har nekat till brotten`.\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-perfekt]] (har nekat)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `erkänna brotten` — 承认罪行 (antonym phrase)\n- 🔄 `neka till allt` — 全盘否认\n\n## 例句 / 对话 (Examples)\n\n- [[sent-var-som-värst-under-2023]] 🇸🇪 Han själv har nekat till brotten. 🇨🇳 他本人否认了这些罪行。",
+      "excerpt": "neka till brott 🗣️ 类型: kollokation · 语域: neutralt · 常用度: 3/5 🇨🇳 否认罪行 · 🇬🇧 to deny the crime(s) 📝 字面: to say no to crime 用法说明 (Usage) neka till + substantiv/gerundium = 否认某事 (deny something). Vanlig i juridiska/krim",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "sent-var-som-värst-under-2023"
+      ],
+      "searchText": "neka till brott neka-till-brott knowledge_base/phrases/neka-till-brott.md ---\ntype: phrase\nphrase: \"neka till brott\"\ncategory: kollokation\nregister: neutralt\nfrequency: 3\nzh: \"否认罪行\"\nen: \"to deny the crime(s)\"\nliteral: \"to say no to crime\"\nhead_words: []\ngrammar:\n  - grammar-passiv-med-s\nrelated: []\ntopics:\n  - topic-samhälle-och-politik\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# neka till brott\n\n🗣️ 类型: kollokation · 语域: neutralt · 常用度: 3/5\n🇨🇳 否认罪行 · 🇬🇧 to deny the crime(s)\n📝 字面: to say no to crime\n\n## 用法说明 (Usage)\n\n- `neka till` + substantiv/gerundium = 否认某事 (deny something).\n- Vanlig i juridiska/kriminalnyheter: `han nekade till brotten`.\n- Perfekt: `han har nekat till brotten`.\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-perfekt]] (har nekat)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `erkänna brotten` — 承认罪行 (antonym phrase)\n- 🔄 `neka till allt` — 全盘否认\n\n## 例句 / 对话 (Examples)\n\n- [[sent-var-som-värst-under-2023]] 🇸🇪 Han själv har nekat till brotten. 🇨🇳 他本人否认了这些罪行。\n",
+      "zh": "否认罪行",
+      "en": "to deny the crime(s)",
+      "created": "2026-06-18",
+      "known": false,
+      "phrase": "neka till brott",
+      "category": "kollokation",
+      "sentences": [],
+      "grammar": [
+        "grammar-passiv-med-s"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-var-som-värst-under-2023",
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -6587,6 +6733,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "skriva-under",
+      "type": "phrase",
+      "title": "skriva under",
+      "path": "knowledge_base/phrases/skriva-under.md",
+      "body": "# skriva under\n\n🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 4/5\n🇨🇳 签署，签字 · 🇬🇧 to sign (a document)\n📝 字面: write under\n\n## 用法说明 (Usage)\n\n- `skriva under` används när man signerar ett dokument, avtal eller kontrakt.\n- Partikelverb: `skriva` + partikeln `under`. Partikeln kan separeras: \"Skriv under här!\" / \"Jag skriver under avtalet.\"\n- Supinum: `skrivit under`; preteritum: `skrev under`.\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-partikelverb]]\n- → [[grammar-perfekt]] (har skrivit under)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `underteckna` — mer formellt alternativ (正式替代词)\n- 🔗 [[avtal]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-usas-och-irans-presidenter-har-skrivit]] 🇸🇪 USA:s och Irans presidenter har skrivit under ett avtal. 🇨🇳 美国和伊朗的总统签署了一项协议。\n- 🇸🇪 Kan du skriva under här, tack? — 🇨🇳 请你在这里签字，谢谢。",
+      "excerpt": "skriva under 🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 4/5 🇨🇳 签署，签字 · 🇬🇧 to sign (a document) 📝 字面: write under 用法说明 (Usage) skriva under används när man signerar ett dokument, avtal eller kontrakt. Partikelverb: s",
+      "forms": [],
+      "links": [
+        "avtal",
+        "grammar-partikelverb",
+        "grammar-perfekt",
+        "sent-usas-och-irans-presidenter-har-skrivit"
+      ],
+      "searchText": "skriva under skriva-under knowledge_base/phrases/skriva-under.md ---\ntype: phrase\nphrase: \"skriva under\"\ncategory: partikelverb\nregister: neutralt\nfrequency: 4\nzh: \"签署，签字\"\nen: \"to sign (a document)\"\nliteral: \"write under\"\nhead_words:\n  - skicka\ngrammar:\n  - grammar-partikelverb\nrelated: []\ntopics:\n  - topic-samhälle-och-politik\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skriva under\n\n🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 4/5\n🇨🇳 签署，签字 · 🇬🇧 to sign (a document)\n📝 字面: write under\n\n## 用法说明 (Usage)\n\n- `skriva under` används när man signerar ett dokument, avtal eller kontrakt.\n- Partikelverb: `skriva` + partikeln `under`. Partikeln kan separeras: \"Skriv under här!\" / \"Jag skriver under avtalet.\"\n- Supinum: `skrivit under`; preteritum: `skrev under`.\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-partikelverb]]\n- → [[grammar-perfekt]] (har skrivit under)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `underteckna` — mer formellt alternativ (正式替代词)\n- 🔗 [[avtal]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-usas-och-irans-presidenter-har-skrivit]] 🇸🇪 USA:s och Irans presidenter har skrivit under ett avtal. 🇨🇳 美国和伊朗的总统签署了一项协议。\n- 🇸🇪 Kan du skriva under här, tack? — 🇨🇳 请你在这里签字，谢谢。\n",
+      "zh": "签署，签字",
+      "en": "to sign (a document)",
+      "created": "2026-06-18",
+      "known": false,
+      "phrase": "skriva under",
+      "category": "partikelverb",
+      "sentences": [],
+      "grammar": [
+        "grammar-partikelverb"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "avtal",
+        "sent-usas-och-irans-presidenter-har-skrivit",
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "skulle-ut-och-fiska",
       "type": "phrase",
       "title": "skulle ut och fiska",
@@ -6846,6 +7026,39 @@ window.KB_DATA = {
         "source-2026-06-09-en-handelse-i-tidsordning",
         "spärra",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "spel-om-pengar",
+      "type": "phrase",
+      "title": "spel om pengar",
+      "path": "knowledge_base/phrases/spel-om-pengar.md",
+      "body": "# spel om pengar\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 赌博，赌钱 · 🇬🇧 gambling (for money)\n📝 字面: game for money\n\n## 用法说明 (Usage)\n\n- `spel om pengar` är den neutrala svenska termen för gambling/hasardspel.\n- Används i statistik, nyheter och formella sammanhang.\n- `spelande om pengar` = verbalnomen (赌钱这件事).\n\n## 短语中的语法 (Grammar inside)\n\n-\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `hasardspel` — mer formellt (hazard gambling)\n- 🔄 `spelmissbruk` — 赌博成瘾\n- 🔗 [[missbruk]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-har-problem-med-spel-om-pengar]] 🇸🇪 har problem med spel om pengar. 🇨🇳 存在赌钱问题。\n- 🇸🇪 Spel om pengar kan bli ett allvarligt problem. — 🇨🇳 赌钱可能成为一个严重的问题。",
+      "excerpt": "spel om pengar 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 赌博，赌钱 · 🇬🇧 gambling (for money) 📝 字面: game for money 用法说明 (Usage) spel om pengar är den neutrala svenska termen för gambling/hasardspel. Används i sta",
+      "forms": [],
+      "links": [
+        "missbruk",
+        "sent-har-problem-med-spel-om-pengar"
+      ],
+      "searchText": "spel om pengar spel-om-pengar knowledge_base/phrases/spel-om-pengar.md ---\ntype: phrase\nphrase: \"spel om pengar\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 3\nzh: \"赌博，赌钱\"\nen: \"gambling (for money)\"\nliteral: \"game for money\"\nhead_words:\n  - spela\ngrammar: []\nrelated:\n  - missbruk\ntopics:\n  - topic-hälsa\n  - topic-fotboll\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# spel om pengar\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 赌博，赌钱 · 🇬🇧 gambling (for money)\n📝 字面: game for money\n\n## 用法说明 (Usage)\n\n- `spel om pengar` är den neutrala svenska termen för gambling/hasardspel.\n- Används i statistik, nyheter och formella sammanhang.\n- `spelande om pengar` = verbalnomen (赌钱这件事).\n\n## 短语中的语法 (Grammar inside)\n\n-\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `hasardspel` — mer formellt (hazard gambling)\n- 🔄 `spelmissbruk` — 赌博成瘾\n- 🔗 [[missbruk]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-har-problem-med-spel-om-pengar]] 🇸🇪 har problem med spel om pengar. 🇨🇳 存在赌钱问题。\n- 🇸🇪 Spel om pengar kan bli ett allvarligt problem. — 🇨🇳 赌钱可能成为一个严重的问题。\n",
+      "zh": "赌博，赌钱",
+      "en": "gambling (for money)",
+      "created": "2026-06-18",
+      "known": false,
+      "phrase": "spel om pengar",
+      "category": "fast-uttryck",
+      "sentences": [],
+      "grammar": [],
+      "topics": [
+        "topic-hälsa",
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "sent-bakom-framgången-fanns-ett-hemligt",
+        "sent-har-problem-med-spel-om-pengar",
+        "sent-har-spelat-om-pengar-i-nån-form",
+        "sent-och-nästan-en-av-tio-tros-dessutom",
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -8055,6 +8268,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "vara-värt-det",
+      "type": "phrase",
+      "title": "vara värt det",
+      "path": "knowledge_base/phrases/vara-värt-det.md",
+      "body": "# vara värt det\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 值得 · 🇬🇧 to be worth it\n📝 字面: to be worth it\n\n## 用法说明 (Usage)\n\n- `vara värt det` är en fast fras som betyder \"to be worth it\".\n- `värt` är neutrum av adjektivet `värd` (since the implicit referent is `det` = ett-ord/neuter).\n- Negation: `inte värt det` = 不值得.\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-adjektiv-kongruens]] (värd/värt kongruens med genus)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `det är värt priset` — 它值这个价\n- 🔄 `värd att + infinitiv` — 值得……\n\n## 例句 / 对话 (Examples)\n\n- [[sent-det-är-inte-värt-det-fram-i-tiden]] 🇸🇪 Det är inte värt det fram i tiden. 🇨🇳 从长远看这并不值得。\n- 🇸🇪 Resan var lång men det var värt det. — 🇨🇳 旅途漫长，但很值得。",
+      "excerpt": "vara värt det 🗣️ 类型: fast uttryck · 语域: vardagligt · 常用度: 4/5 🇨🇳 值得 · 🇬🇧 to be worth it 📝 字面: to be worth it 用法说明 (Usage) vara värt det är en fast fras som betyder \"to be worth it\". värt är neutrum av adjektivet vä",
+      "forms": [],
+      "links": [
+        "grammar-adjektiv-kongruens",
+        "sent-det-är-inte-värt-det-fram-i-tiden"
+      ],
+      "searchText": "vara värt det vara-värt-det knowledge_base/phrases/vara-värt-det.md ---\ntype: phrase\nphrase: \"vara värt det\"\ncategory: fast-uttryck\nregister: vardagligt\nfrequency: 4\nzh: \"值得\"\nen: \"to be worth it\"\nliteral: \"to be worth it\"\nhead_words: []\ngrammar: []\nrelated: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vara värt det\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 值得 · 🇬🇧 to be worth it\n📝 字面: to be worth it\n\n## 用法说明 (Usage)\n\n- `vara värt det` är en fast fras som betyder \"to be worth it\".\n- `värt` är neutrum av adjektivet `värd` (since the implicit referent is `det` = ett-ord/neuter).\n- Negation: `inte värt det` = 不值得.\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-adjektiv-kongruens]] (värd/värt kongruens med genus)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `det är värt priset` — 它值这个价\n- 🔄 `värd att + infinitiv` — 值得……\n\n## 例句 / 对话 (Examples)\n\n- [[sent-det-är-inte-värt-det-fram-i-tiden]] 🇸🇪 Det är inte värt det fram i tiden. 🇨🇳 从长远看这并不值得。\n- 🇸🇪 Resan var lång men det var värt det. — 🇨🇳 旅途漫长，但很值得。\n",
+      "zh": "值得",
+      "en": "to be worth it",
+      "created": "2026-06-18",
+      "known": false,
+      "phrase": "vara värt det",
+      "category": "fast-uttryck",
+      "sentences": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "sent-det-är-inte-värt-det-fram-i-tiden",
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "varsågod",
       "type": "phrase",
       "title": "varsågod",
@@ -8816,6 +9056,69 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-även-flera-hus-med-lägenheter-verkar",
+      "type": "sentence",
+      "title": "🇸🇪 Även flera hus med lägenheter verkar ha träffats.",
+      "path": "knowledge_base/sentences/sent-även-flera-hus-med-lägenheter-verkar.md",
+      "body": "# 🇸🇪 Även flera hus med lägenheter verkar ha träffats.\n\n🇨🇳 多栋公寓楼似乎也被击中。\n\n## 结构 (Structure)\n\n```\n[Även flera hus med lägenheter] [verkar] [ha träffats]\n           主语                   情态动词    supinum passiv\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `träffats` = s-passiv 完成形（已被击中）\n- 📌 [[grammar-perfekt]] — `ha träffats` = perfekt infinitiv被动\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Även flera hus med lägenheter verkar ha träffats. 🇨🇳 多栋公寓楼似乎也被击中。 结构 (Structure) [Även flera hus med lägenheter] [verkar] [ha träffats] 主语 情态动词 supinum passiv 语法点 (Grammar) 📌 grammar passiv med s — träffats = s p",
+      "forms": [],
+      "links": [
+        "grammar-passiv-med-s",
+        "grammar-perfekt",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Även flera hus med lägenheter verkar ha träffats. sent-även-flera-hus-med-lägenheter-verkar knowledge_base/sentences/sent-även-flera-hus-med-lägenheter-verkar.md ---\ntype: sentence\nsentence: \"Även flera hus med lägenheter verkar ha träffats.\"\nzh: \"多栋公寓楼似乎也被击中。\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-passiv-med-s\n  - grammar-perfekt\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Även flera hus med lägenheter verkar ha träffats.\n\n🇨🇳 多栋公寓楼似乎也被击中。\n\n## 结构 (Structure)\n\n```\n[Även flera hus med lägenheter] [verkar] [ha träffats]\n           主语                   情态动词    supinum passiv\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `träffats` = s-passiv 完成形（已被击中）\n- 📌 [[grammar-perfekt]] — `ha träffats` = perfekt infinitiv被动\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "多栋公寓楼似乎也被击中。",
+      "created": "2026-06-18",
+      "sentence": "Även flera hus med lägenheter verkar ha träffats.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-passiv-med-s",
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-bakom-framgången-fanns-ett-hemligt",
+      "type": "sentence",
+      "title": "🇸🇪 Bakom framgången fanns ett hemligt problem med spelande om pengar.",
+      "path": "knowledge_base/sentences/sent-bakom-framgången-fanns-ett-hemligt.md",
+      "body": "# 🇸🇪 Bakom framgången fanns ett hemligt problem med spelande om pengar.\n\n🇨🇳 在成功的背后，藏着一个秘密的赌钱问题。\n\n## 结构 (Structure)\n\n```\n[Bakom framgången] [fanns] [ett hemligt problem med spelande om pengar]\n    地点状语（前置）    动词倒装              主语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 状语前置 → `fanns` 倒装，主语后置\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[spel-om-pengar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Bakom framgången fanns ett hemligt problem med spelande om pengar. 🇨🇳 在成功的背后，藏着一个秘密的赌钱问题。 结构 (Structure) [Bakom framgången] [fanns] [ett hemligt problem med spelande om pengar] 地点状语（前置） 动词倒装 主语 语法点 (Grammar) 📌 gr",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "source-2026-06-18-listening-svt-latt",
+        "spel-om-pengar"
+      ],
+      "searchText": "🇸🇪 Bakom framgången fanns ett hemligt problem med spelande om pengar. sent-bakom-framgången-fanns-ett-hemligt knowledge_base/sentences/sent-bakom-framgången-fanns-ett-hemligt.md ---\ntype: sentence\nsentence: \"Bakom framgången fanns ett hemligt problem med spelande om pengar.\"\nzh: \"在成功的背后，藏着一个秘密的赌钱问题。\"\ncefr: \"B1\"\nwords: []\nphrases:\n  - spel-om-pengar\ngrammar:\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Bakom framgången fanns ett hemligt problem med spelande om pengar.\n\n🇨🇳 在成功的背后，藏着一个秘密的赌钱问题。\n\n## 结构 (Structure)\n\n```\n[Bakom framgången] [fanns] [ett hemligt problem med spelande om pengar]\n    地点状语（前置）    动词倒装              主语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 状语前置 → `fanns` 倒装，主语后置\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[spel-om-pengar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "在成功的背后，藏着一个秘密的赌钱问题。",
+      "created": "2026-06-18",
+      "sentence": "Bakom framgången fanns ett hemligt problem med spelande om pengar.",
+      "words": [],
+      "phrases": [
+        "spel-om-pengar"
+      ],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-beroende-var-i-landet-man-bor",
       "type": "sentence",
       "title": "🇸🇪 beroende var i landet man bor.",
@@ -9040,6 +9343,30 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-då-på-den-nya-tiden-klockan-1725",
+      "type": "sentence",
+      "title": "🇸🇪 Då på den nya tiden klockan 17.25.",
+      "path": "knowledge_base/sentences/sent-då-på-den-nya-tiden-klockan-1725.md",
+      "body": "# 🇸🇪 Då på den nya tiden klockan 17.25.\n\n🇨🇳 届时改到新的时间，17:25。\n\n## 结构 (Structure)\n\n```\n[Då] [på den nya tiden] [klockan 17.25]\n 时间    介词短语             具体时刻\n```\n\n## 语法点 (Grammar)\n\n- 📌 省略句，前提为上文语境\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Då på den nya tiden klockan 17.25. 🇨🇳 届时改到新的时间，17:25。 结构 (Structure) [Då] [på den nya tiden] [klockan 17.25] 时间 介词短语 具体时刻 语法点 (Grammar) 📌 省略句，前提为上文语境 生词 & 词组 (Words & Phrases) 来源 (Source) source 2026 06 18 listen",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Då på den nya tiden klockan 17.25. sent-då-på-den-nya-tiden-klockan-1725 knowledge_base/sentences/sent-då-på-den-nya-tiden-klockan-1725.md ---\ntype: sentence\nsentence: \"Då på den nya tiden klockan 17.25.\"\nzh: \"届时改到新的时间，17:25。\"\ncefr: \"A1\"\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Då på den nya tiden klockan 17.25.\n\n🇨🇳 届时改到新的时间，17:25。\n\n## 结构 (Structure)\n\n```\n[Då] [på den nya tiden] [klockan 17.25]\n 时间    介词短语             具体时刻\n```\n\n## 语法点 (Grammar)\n\n- 📌 省略句，前提为上文语境\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "届时改到新的时间，17:25。",
+      "created": "2026-06-18",
+      "sentence": "Då på den nya tiden klockan 17.25.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-då-tar-jag-fläskfilén-tack",
       "type": "sentence",
       "title": "🇸🇪 Då tar jag fläskfilén, tack. Och ett glas öl.",
@@ -9123,6 +9450,35 @@ window.KB_DATA = {
         "pasta",
         "svamp",
         "vegetarisk"
+      ]
+    },
+    {
+      "slug": "sent-där-alla-har-så-stor-förståelse",
+      "type": "sentence",
+      "title": "🇸🇪 där alla har så stor förståelse som möjligt",
+      "path": "knowledge_base/sentences/sent-där-alla-har-så-stor-förståelse.md",
+      "body": "# 🇸🇪 där alla har så stor förståelse som möjligt\n\n🇨🇳 让所有人都尽可能充分地理解，\n\n## 结构 (Structure)\n\n```\n[där] [alla har] [så stor förståelse som möjligt]\n 关系副词  主谓      比较结构（尽可能多）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `där` 引导关系从句\n- 📌 [[grammar-komparativ]] — `så ... som möjligt` = 尽可能……\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 där alla har så stor förståelse som möjligt 🇨🇳 让所有人都尽可能充分地理解， 结构 (Structure) [där] [alla har] [så stor förståelse som möjligt] 关系副词 主谓 比较结构（尽可能多） 语法点 (Grammar) 📌 grammar bisats — där 引导关系从句 📌 grammar komparativ ",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "grammar-komparativ",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 där alla har så stor förståelse som möjligt sent-där-alla-har-så-stor-förståelse knowledge_base/sentences/sent-där-alla-har-så-stor-förståelse.md ---\ntype: sentence\nsentence: \"där alla har så stor förståelse som möjligt\"\nzh: \"让所有人都尽可能充分地理解，\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-bisats\n  - grammar-komparativ\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 där alla har så stor förståelse som möjligt\n\n🇨🇳 让所有人都尽可能充分地理解，\n\n## 结构 (Structure)\n\n```\n[där] [alla har] [så stor förståelse som möjligt]\n 关系副词  主谓      比较结构（尽可能多）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `där` 引导关系从句\n- 📌 [[grammar-komparativ]] — `så ... som möjligt` = 尽可能……\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "让所有人都尽可能充分地理解，",
+      "created": "2026-06-18",
+      "sentence": "där alla har så stor förståelse som möjligt",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-bisats",
+        "grammar-komparativ"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -9267,6 +9623,38 @@ window.KB_DATA = {
       "backlinks": [
         "komma-överens-om",
         "source-2026-06-18-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "sent-de-lovar-att-sluta-kriga-i-60-dagar",
+      "type": "sentence",
+      "title": "🇸🇪 De lovar att sluta kriga i 60 dagar. Även striderna i Libanon ska pausas.",
+      "path": "knowledge_base/sentences/sent-de-lovar-att-sluta-kriga-i-60-dagar.md",
+      "body": "# 🇸🇪 De lovar att sluta kriga i 60 dagar. Även striderna i Libanon ska pausas.\n\n🇨🇳 他们承诺停战 60 天。黎巴嫩的战斗也将暂停。\n\n## 结构 (Structure)\n\n```\n[De] [lovar] [att sluta kriga i 60 dagar]\n 主语   动词        att-sats宾语\n\n[striderna i Libanon] [ska pausas]\n       主语             被动将来时\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `ska pausas` = 将被暂停（s-passiv）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kriga]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 De lovar att sluta kriga i 60 dagar. Även striderna i Libanon ska pausas. 🇨🇳 他们承诺停战 60 天。黎巴嫩的战斗也将暂停。 结构 (Structure) [De] [lovar] [att sluta kriga i 60 dagar] 主语 动词 att sats宾语 [striderna i Libanon] [ska pausas] 主语 ",
+      "forms": [],
+      "links": [
+        "grammar-passiv-med-s",
+        "kriga",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 De lovar att sluta kriga i 60 dagar. Även striderna i Libanon ska pausas. sent-de-lovar-att-sluta-kriga-i-60-dagar knowledge_base/sentences/sent-de-lovar-att-sluta-kriga-i-60-dagar.md ---\ntype: sentence\nsentence: \"De lovar att sluta kriga i 60 dagar. Även striderna i Libanon ska pausas.\"\nzh: \"他们承诺停战 60 天。黎巴嫩的战斗也将暂停。\"\ncefr: \"A2\"\nwords:\n  - kriga\nphrases: []\ngrammar:\n  - grammar-passiv-med-s\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 De lovar att sluta kriga i 60 dagar. Även striderna i Libanon ska pausas.\n\n🇨🇳 他们承诺停战 60 天。黎巴嫩的战斗也将暂停。\n\n## 结构 (Structure)\n\n```\n[De] [lovar] [att sluta kriga i 60 dagar]\n 主语   动词        att-sats宾语\n\n[striderna i Libanon] [ska pausas]\n       主语             被动将来时\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `ska pausas` = 将被暂停（s-passiv）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kriga]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "他们承诺停战 60 天。黎巴嫩的战斗也将暂停。",
+      "created": "2026-06-18",
+      "sentence": "De lovar att sluta kriga i 60 dagar. Även striderna i Libanon ska pausas.",
+      "words": [
+        "kriga"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-passiv-med-s"
+      ],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -9686,6 +10074,37 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-det-är-inte-värt-det-fram-i-tiden",
+      "type": "sentence",
+      "title": "🇸🇪 Det är inte värt det fram i tiden. Konsekvenserna blir ju enorma.",
+      "path": "knowledge_base/sentences/sent-det-är-inte-värt-det-fram-i-tiden.md",
+      "body": "# 🇸🇪 Det är inte värt det fram i tiden. Konsekvenserna blir ju enorma.\n\n🇨🇳 从长远看这并不值得。后果是巨大的。\n\n## 结构 (Structure)\n\n```\n[Det] [är] [inte] [värt det] [fram i tiden]\n  主语  动词  否定词   表语        时间状语\n\n[Konsekvenserna] [blir] [ju] [enorma]\n       主语         动词   ju     表语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-satsadverbial]] — `ju` = 强调（你也知道的）\n- 📌 `vara värt det` = 值得\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[vara-värt-det]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det är inte värt det fram i tiden. Konsekvenserna blir ju enorma. 🇨🇳 从长远看这并不值得。后果是巨大的。 结构 (Structure) [Det] [är] [inte] [värt det] [fram i tiden] 主语 动词 否定词 表语 时间状语 [Konsekvenserna] [blir] [ju] [enorma] 主语 动词 ju 表语",
+      "forms": [],
+      "links": [
+        "grammar-satsadverbial",
+        "source-2026-06-18-listening-svt-latt",
+        "vara-värt-det"
+      ],
+      "searchText": "🇸🇪 Det är inte värt det fram i tiden. Konsekvenserna blir ju enorma. sent-det-är-inte-värt-det-fram-i-tiden knowledge_base/sentences/sent-det-är-inte-värt-det-fram-i-tiden.md ---\ntype: sentence\nsentence: \"Det är inte värt det fram i tiden. Konsekvenserna blir ju enorma.\"\nzh: \"从长远看这并不值得。后果是巨大的。\"\ncefr: \"B1\"\nwords: []\nphrases:\n  - vara-värt-det\ngrammar:\n  - grammar-satsadverbial\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är inte värt det fram i tiden. Konsekvenserna blir ju enorma.\n\n🇨🇳 从长远看这并不值得。后果是巨大的。\n\n## 结构 (Structure)\n\n```\n[Det] [är] [inte] [värt det] [fram i tiden]\n  主语  动词  否定词   表语        时间状语\n\n[Konsekvenserna] [blir] [ju] [enorma]\n       主语         动词   ju     表语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-satsadverbial]] — `ju` = 强调（你也知道的）\n- 📌 `vara värt det` = 值得\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[vara-värt-det]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "从长远看这并不值得。后果是巨大的。",
+      "created": "2026-06-18",
+      "sentence": "Det är inte värt det fram i tiden. Konsekvenserna blir ju enorma.",
+      "words": [],
+      "phrases": [
+        "vara-värt-det"
+      ],
+      "grammar": [
+        "grammar-satsadverbial"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt",
+        "vara-värt-det"
+      ]
+    },
+    {
       "slug": "sent-det-är-också-viktigt-att-köra",
       "type": "sentence",
       "title": "🇸🇪 Det är också viktigt att köra extra långsamt förbi arbeten på vägarna.",
@@ -9759,6 +10178,33 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-18-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "sent-det-är-viktigt-att-skapa-en-kultur",
+      "type": "sentence",
+      "title": "🇸🇪 Det är viktigt att skapa en kultur",
+      "path": "knowledge_base/sentences/sent-det-är-viktigt-att-skapa-en-kultur.md",
+      "body": "# 🇸🇪 Det är viktigt att skapa en kultur\n\n🇨🇳 营造一种文化很重要——\n\n## 结构 (Structure)\n\n```\n[Det] [är] [viktigt] [att skapa en kultur]\n  形式主语  动词  表语        真实主语（att-sats）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — `det är viktigt att ...` = 形式主语结构\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det är viktigt att skapa en kultur 🇨🇳 营造一种文化很重要—— 结构 (Structure) [Det] [är] [viktigt] [att skapa en kultur] 形式主语 动词 表语 真实主语（att sats） 语法点 (Grammar) 📌 grammar att sats — det är viktigt att ... = 形式主语结构 生词 & 词组 (Wo",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Det är viktigt att skapa en kultur sent-det-är-viktigt-att-skapa-en-kultur knowledge_base/sentences/sent-det-är-viktigt-att-skapa-en-kultur.md ---\ntype: sentence\nsentence: \"Det är viktigt att skapa en kultur\"\nzh: \"营造一种文化很重要——\"\ncefr: \"A2\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-att-sats\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är viktigt att skapa en kultur\n\n🇨🇳 营造一种文化很重要——\n\n## 结构 (Structure)\n\n```\n[Det] [är] [viktigt] [att skapa en kultur]\n  形式主语  动词  表语        真实主语（att-sats）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — `det är viktigt att ...` = 形式主语结构\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "营造一种文化很重要——",
+      "created": "2026-06-18",
+      "sentence": "Det är viktigt att skapa en kultur",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-att-sats"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -9956,6 +10402,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-det-här-rapporterar-lokala-ryska",
+      "type": "sentence",
+      "title": "🇸🇪 Det här rapporterar lokala ryska myndigheter.",
+      "path": "knowledge_base/sentences/sent-det-här-rapporterar-lokala-ryska.md",
+      "body": "# 🇸🇪 Det här rapporterar lokala ryska myndigheter.\n\n🇨🇳 这是俄罗斯当地当局报道的。\n\n## 结构 (Structure)\n\n```\n[Det här] [rapporterar] [lokala ryska myndigheter]\n  宾语（前置）   动词             主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 宾语 `Det här` 前置 → 主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[myndighet]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det här rapporterar lokala ryska myndigheter. 🇨🇳 这是俄罗斯当地当局报道的。 结构 (Structure) [Det här] [rapporterar] [lokala ryska myndigheter] 宾语（前置） 动词 主语（倒装） 语法点 (Grammar) 📌 grammar v2 ordfoljd — 宾语 Det här 前置 → 主谓倒装 生词 & 词组",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "myndighet",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Det här rapporterar lokala ryska myndigheter. sent-det-här-rapporterar-lokala-ryska knowledge_base/sentences/sent-det-här-rapporterar-lokala-ryska.md ---\ntype: sentence\nsentence: \"Det här rapporterar lokala ryska myndigheter.\"\nzh: \"这是俄罗斯当地当局报道的。\"\ncefr: \"A2\"\nwords:\n  - myndighet\nphrases: []\ngrammar:\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-samhälle-och-politik\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det här rapporterar lokala ryska myndigheter.\n\n🇨🇳 这是俄罗斯当地当局报道的。\n\n## 结构 (Structure)\n\n```\n[Det här] [rapporterar] [lokala ryska myndigheter]\n  宾语（前置）   动词             主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 宾语 `Det här` 前置 → 主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[myndighet]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "这是俄罗斯当地当局报道的。",
+      "created": "2026-06-18",
+      "sentence": "Det här rapporterar lokala ryska myndigheter.",
+      "words": [
+        "myndighet"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-det-har-varit-oroligt-kring-norges-kungahus",
       "type": "sentence",
       "title": "🇸🇪 Det har varit oroligt kring Norges kungahus den senaste tiden.",
@@ -10095,6 +10573,30 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-det-var-allt-för-den-här-veckan",
+      "type": "sentence",
+      "title": "🇸🇪 Det var allt för den här veckan.",
+      "path": "knowledge_base/sentences/sent-det-var-allt-för-den-här-veckan.md",
+      "body": "# 🇸🇪 Det var allt för den här veckan.\n\n🇨🇳 本周的内容就到这里。\n\n## 结构 (Structure)\n\n```\n[Det] [var] [allt] [för den här veckan]\n  主语   动词  主语补   时间限定介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `Det var allt` = 就到此为止了（结束语）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det var allt för den här veckan. 🇨🇳 本周的内容就到这里。 结构 (Structure) [Det] [var] [allt] [för den här veckan] 主语 动词 主语补 时间限定介词短语 语法点 (Grammar) 📌 Det var allt = 就到此为止了（结束语） 生词 & 词组 (Words & Phrases) 来源 (Source) source 202",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Det var allt för den här veckan. sent-det-var-allt-för-den-här-veckan knowledge_base/sentences/sent-det-var-allt-för-den-här-veckan.md ---\ntype: sentence\nsentence: \"Det var allt för den här veckan.\"\nzh: \"本周的内容就到这里。\"\ncefr: \"A1\"\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det var allt för den här veckan.\n\n🇨🇳 本周的内容就到这里。\n\n## 结构 (Structure)\n\n```\n[Det] [var] [allt] [för den här veckan]\n  主语   动词  主语补   时间限定介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `Det var allt` = 就到此为止了（结束语）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "本周的内容就到这里。",
+      "created": "2026-06-18",
+      "sentence": "Det var allt för den här veckan.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-det-var-jättegott-kan-jag-betala",
       "type": "sentence",
       "title": "🇸🇪 Det var jättegott, tack. Kan jag betala med kort?",
@@ -10156,6 +10658,36 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-det-visar-en-ny-undersökning-från-karolinska",
+      "type": "sentence",
+      "title": "🇸🇪 Det visar en ny undersökning från Karolinska institutet.",
+      "path": "knowledge_base/sentences/sent-det-visar-en-ny-undersökning-från-karolinska.md",
+      "body": "# 🇸🇪 Det visar en ny undersökning från Karolinska institutet.\n\n🇨🇳 这是卡罗林斯卡学院（Karolinska institutet）的一项新调查显示的。\n\n## 结构 (Structure)\n\n```\n[Det] [visar] [en ny undersökning från Karolinska institutet]\n 宾语（前置）  动词            主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 宾语 `Det` 前置 → 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[undersökning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det visar en ny undersökning från Karolinska institutet. 🇨🇳 这是卡罗林斯卡学院（Karolinska institutet）的一项新调查显示的。 结构 (Structure) [Det] [visar] [en ny undersökning från Karolinska institutet] 宾语（前置） 动词 主语（倒装） 语法点 (Grammar) 📌",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "source-2026-06-18-listening-svt-latt",
+        "undersökning"
+      ],
+      "searchText": "🇸🇪 Det visar en ny undersökning från Karolinska institutet. sent-det-visar-en-ny-undersökning-från-karolinska knowledge_base/sentences/sent-det-visar-en-ny-undersökning-från-karolinska.md ---\ntype: sentence\nsentence: \"Det visar en ny undersökning från Karolinska institutet.\"\nzh: \"这是卡罗林斯卡学院（Karolinska institutet）的一项新调查显示的。\"\ncefr: \"A2\"\nwords:\n  - undersökning\nphrases: []\ngrammar:\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det visar en ny undersökning från Karolinska institutet.\n\n🇨🇳 这是卡罗林斯卡学院（Karolinska institutet）的一项新调查显示的。\n\n## 结构 (Structure)\n\n```\n[Det] [visar] [en ny undersökning från Karolinska institutet]\n 宾语（前置）  动词            主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 宾语 `Det` 前置 → 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[undersökning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "这是卡罗林斯卡学院（Karolinska institutet）的一项新调查显示的。",
+      "created": "2026-06-18",
+      "sentence": "Det visar en ny undersökning från Karolinska institutet.",
+      "words": [
+        "undersökning"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -10290,6 +10822,32 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-18-fraga-efter-vagen"
+      ]
+    },
+    {
+      "slug": "sent-du-har-mycket-tid-du-är-fotbollsspelare",
+      "type": "sentence",
+      "title": "🇸🇪 Du har mycket tid, du är fotbollsspelare, du har mycket pengar.",
+      "path": "knowledge_base/sentences/sent-du-har-mycket-tid-du-är-fotbollsspelare.md",
+      "body": "# 🇸🇪 Du har mycket tid, du är fotbollsspelare, du har mycket pengar.\n\n🇨🇳 你有很多时间，你是足球运动员，你有很多钱。\n\n## 结构 (Structure)\n\n```\n[Du] [har] [mycket tid] — [du] [är] [fotbollsspelare] — [du] [har] [mycket pengar]\n 三个并列简单句，展示人物处境\n```\n\n## 语法点 (Grammar)\n\n- 📌 三句并列，重复主语强调（修辞结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Du har mycket tid, du är fotbollsspelare, du har mycket pengar. 🇨🇳 你有很多时间，你是足球运动员，你有很多钱。 结构 (Structure) [Du] [har] [mycket tid] — [du] [är] [fotbollsspelare] — [du] [har] [mycket pengar] 三个并列简单句，展示人物处境 语法点 (Gramma",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Du har mycket tid, du är fotbollsspelare, du har mycket pengar. sent-du-har-mycket-tid-du-är-fotbollsspelare knowledge_base/sentences/sent-du-har-mycket-tid-du-är-fotbollsspelare.md ---\ntype: sentence\nsentence: \"Du har mycket tid, du är fotbollsspelare, du har mycket pengar.\"\nzh: \"你有很多时间，你是足球运动员，你有很多钱。\"\ncefr: \"A1\"\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Du har mycket tid, du är fotbollsspelare, du har mycket pengar.\n\n🇨🇳 你有很多时间，你是足球运动员，你有很多钱。\n\n## 结构 (Structure)\n\n```\n[Du] [har] [mycket tid] — [du] [är] [fotbollsspelare] — [du] [har] [mycket pengar]\n 三个并列简单句，展示人物处境\n```\n\n## 语法点 (Grammar)\n\n- 📌 三句并列，重复主语强调（修辞结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "你有很多时间，你是足球运动员，你有很多钱。",
+      "created": "2026-06-18",
+      "sentence": "Du har mycket tid, du är fotbollsspelare, du har mycket pengar.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -12371,6 +12929,69 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-fler-än-tre-av-tio-unga-manliga",
+      "type": "sentence",
+      "title": "🇸🇪 Fler än tre av tio unga manliga elitfotbollsspelare",
+      "path": "knowledge_base/sentences/sent-fler-än-tre-av-tio-unga-manliga.md",
+      "body": "# 🇸🇪 Fler än tre av tio unga manliga elitfotbollsspelare\n\n🇨🇳 超过十分之三的年轻男性精英足球运动员，\n\n## 结构 (Structure)\n\n```\n[Fler än tre av tio] [unga manliga elitfotbollsspelare]\n    比例修饰语                  名词短语（主语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 `tre av tio` = 十分之三（统计表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[en-av-tio]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Fler än tre av tio unga manliga elitfotbollsspelare 🇨🇳 超过十分之三的年轻男性精英足球运动员， 结构 (Structure) [Fler än tre av tio] [unga manliga elitfotbollsspelare] 比例修饰语 名词短语（主语） 语法点 (Grammar) 📌 tre av tio = 十分之三（统计表达） 生词 & 词组 (Wo",
+      "forms": [],
+      "links": [
+        "en-av-tio",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Fler än tre av tio unga manliga elitfotbollsspelare sent-fler-än-tre-av-tio-unga-manliga knowledge_base/sentences/sent-fler-än-tre-av-tio-unga-manliga.md ---\ntype: sentence\nsentence: \"Fler än tre av tio unga manliga elitfotbollsspelare\"\nzh: \"超过十分之三的年轻男性精英足球运动员，\"\ncefr: \"B1\"\nwords: []\nphrases:\n  - en-av-tio\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Fler än tre av tio unga manliga elitfotbollsspelare\n\n🇨🇳 超过十分之三的年轻男性精英足球运动员，\n\n## 结构 (Structure)\n\n```\n[Fler än tre av tio] [unga manliga elitfotbollsspelare]\n    比例修饰语                  名词短语（主语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 `tre av tio` = 十分之三（统计表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[en-av-tio]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "超过十分之三的年轻男性精英足球运动员，",
+      "created": "2026-06-18",
+      "sentence": "Fler än tre av tio unga manliga elitfotbollsspelare",
+      "words": [],
+      "phrases": [
+        "en-av-tio"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-flera-experter-säger-att-det-är-iran",
+      "type": "sentence",
+      "title": "🇸🇪 Flera experter säger att det är Iran som är vinnare på avtalet.",
+      "path": "knowledge_base/sentences/sent-flera-experter-säger-att-det-är-iran.md",
+      "body": "# 🇸🇪 Flera experter säger att det är Iran som är vinnare på avtalet.\n\n🇨🇳 多位专家说，在这份协议中获益的是伊朗。\n\n## 结构 (Structure)\n\n```\n[Flera experter] [säger] [att det är Iran som är vinnare på avtalet]\n     主语           动词              bisats（强调结构）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `att`-sats作宾语\n- 📌 强调结构 `det är X som Y` = 正是 X 在 Y\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[expert]] · [[avtal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Flera experter säger att det är Iran som är vinnare på avtalet. 🇨🇳 多位专家说，在这份协议中获益的是伊朗。 结构 (Structure) [Flera experter] [säger] [att det är Iran som är vinnare på avtalet] 主语 动词 bisats（强调结构） 语法点 (Grammar) 📌 gramma",
+      "forms": [],
+      "links": [
+        "avtal",
+        "expert",
+        "grammar-bisats",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Flera experter säger att det är Iran som är vinnare på avtalet. sent-flera-experter-säger-att-det-är-iran knowledge_base/sentences/sent-flera-experter-säger-att-det-är-iran.md ---\ntype: sentence\nsentence: \"Flera experter säger att det är Iran som är vinnare på avtalet.\"\nzh: \"多位专家说，在这份协议中获益的是伊朗。\"\ncefr: \"B1\"\nwords:\n  - expert\n  - avtal\nphrases: []\ngrammar:\n  - grammar-bisats\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-samhälle-och-politik\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Flera experter säger att det är Iran som är vinnare på avtalet.\n\n🇨🇳 多位专家说，在这份协议中获益的是伊朗。\n\n## 结构 (Structure)\n\n```\n[Flera experter] [säger] [att det är Iran som är vinnare på avtalet]\n     主语           动词              bisats（强调结构）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `att`-sats作宾语\n- 📌 强调结构 `det är X som Y` = 正是 X 在 Y\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[expert]] · [[avtal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "多位专家说，在这份协议中获益的是伊朗。",
+      "created": "2026-06-18",
+      "sentence": "Flera experter säger att det är Iran som är vinnare på avtalet.",
+      "words": [
+        "expert",
+        "avtal"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-bisats"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-folk-i-sverige-har-firat",
       "type": "sentence",
       "title": "🇸🇪 Folk i Sverige har firat midsommar ända sedan 1500-talet.",
@@ -12409,6 +13030,102 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-för-att-det-kan-leda-till-missbruk",
+      "type": "sentence",
+      "title": "🇸🇪 för att det kan leda till missbruk också. Där har vi jättestort ansvar.",
+      "path": "knowledge_base/sentences/sent-för-att-det-kan-leda-till-missbruk.md",
+      "body": "# 🇸🇪 för att det kan leda till missbruk också. Där har vi jättestort ansvar.\n\n🇨🇳 因为它也可能导致成瘾。在这方面我们责任重大。\n\n## 结构 (Structure)\n\n```\n[för att det kan leda till missbruk också]\n     因果从句（原因）\n\n[Där] [har vi] [jättestort ansvar]\n  副词（前置）  倒装     宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `för att` 引导原因从句\n- 📌 [[grammar-v2-ordfoljd]] — `Där` 前置 → `har vi` 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[missbruk]] · [[ansvar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 för att det kan leda till missbruk också. Där har vi jättestort ansvar. 🇨🇳 因为它也可能导致成瘾。在这方面我们责任重大。 结构 (Structure) [för att det kan leda till missbruk också] 因果从句（原因） [Där] [har vi] [jättestort ansvar] 副词（前置） 倒装 宾语 ",
+      "forms": [],
+      "links": [
+        "ansvar",
+        "grammar-bisats",
+        "grammar-v2-ordfoljd",
+        "missbruk",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 för att det kan leda till missbruk också. Där har vi jättestort ansvar. sent-för-att-det-kan-leda-till-missbruk knowledge_base/sentences/sent-för-att-det-kan-leda-till-missbruk.md ---\ntype: sentence\nsentence: \"för att det kan leda till missbruk också. Där har vi jättestort ansvar.\"\nzh: \"因为它也可能导致成瘾。在这方面我们责任重大。\"\ncefr: \"B1\"\nwords:\n  - missbruk\n  - ansvar\nphrases: []\ngrammar:\n  - grammar-bisats\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-hälsa\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 för att det kan leda till missbruk också. Där har vi jättestort ansvar.\n\n🇨🇳 因为它也可能导致成瘾。在这方面我们责任重大。\n\n## 结构 (Structure)\n\n```\n[för att det kan leda till missbruk också]\n     因果从句（原因）\n\n[Där] [har vi] [jättestort ansvar]\n  副词（前置）  倒装     宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `för att` 引导原因从句\n- 📌 [[grammar-v2-ordfoljd]] — `Där` 前置 → `har vi` 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[missbruk]] · [[ansvar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "因为它也可能导致成瘾。在这方面我们责任重大。",
+      "created": "2026-06-18",
+      "sentence": "för att det kan leda till missbruk också. Där har vi jättestort ansvar.",
+      "words": [
+        "missbruk",
+        "ansvar"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-bisats",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-för-att-hjälpa-sina-medlemmar",
+      "type": "sentence",
+      "title": "🇸🇪 för att hjälpa sina medlemmar.",
+      "path": "knowledge_base/sentences/sent-för-att-hjälpa-sina-medlemmar.md",
+      "body": "# 🇸🇪 för att hjälpa sina medlemmar.\n\n🇨🇳 以帮助其成员。\n\n## 结构 (Structure)\n\n```\n[för att hjälpa] [sina medlemmar]\n    目的状语          宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-for-att-infinitiv]] — `för att + infinitiv` = 目的状语\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 för att hjälpa sina medlemmar. 🇨🇳 以帮助其成员。 结构 (Structure) [för att hjälpa] [sina medlemmar] 目的状语 宾语 语法点 (Grammar) 📌 grammar for att infinitiv — för att + infinitiv = 目的状语 生词 & 词组 (Words & Phrases) 来源 (Source) sour",
+      "forms": [],
+      "links": [
+        "grammar-for-att-infinitiv",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 för att hjälpa sina medlemmar. sent-för-att-hjälpa-sina-medlemmar knowledge_base/sentences/sent-för-att-hjälpa-sina-medlemmar.md ---\ntype: sentence\nsentence: \"för att hjälpa sina medlemmar.\"\nzh: \"以帮助其成员。\"\ncefr: \"A2\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-for-att-infinitiv\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 för att hjälpa sina medlemmar.\n\n🇨🇳 以帮助其成员。\n\n## 结构 (Structure)\n\n```\n[för att hjälpa] [sina medlemmar]\n    目的状语          宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-for-att-infinitiv]] — `för att + infinitiv` = 目的状语\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "以帮助其成员。",
+      "created": "2026-06-18",
+      "sentence": "för att hjälpa sina medlemmar.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-for-att-infinitiv"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-för-en-av-tio-unga-fotbollsspelare",
+      "type": "sentence",
+      "title": "🇸🇪 För en av tio unga fotbollsspelare som spelar på elitnivå",
+      "path": "knowledge_base/sentences/sent-för-en-av-tio-unga-fotbollsspelare.md",
+      "body": "# 🇸🇪 För en av tio unga fotbollsspelare som spelar på elitnivå\n\n🇨🇳 因为每十名踢精英级别的年轻足球运动员中，就有一人\n\n## 结构 (Structure)\n\n```\n[För] [en av tio unga fotbollsspelare] [som spelar på elitnivå]\n 介词          名词短语                      关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `som spelar på elitnivå` = 关系从句\n- 📌 `en av tio` = 十分之一（比例表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[en-av-tio]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 För en av tio unga fotbollsspelare som spelar på elitnivå 🇨🇳 因为每十名踢精英级别的年轻足球运动员中，就有一人 结构 (Structure) [För] [en av tio unga fotbollsspelare] [som spelar på elitnivå] 介词 名词短语 关系从句 语法点 (Grammar) 📌 grammar bisats — s",
+      "forms": [],
+      "links": [
+        "en-av-tio",
+        "grammar-bisats",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 För en av tio unga fotbollsspelare som spelar på elitnivå sent-för-en-av-tio-unga-fotbollsspelare knowledge_base/sentences/sent-för-en-av-tio-unga-fotbollsspelare.md ---\ntype: sentence\nsentence: \"För en av tio unga fotbollsspelare som spelar på elitnivå\"\nzh: \"因为每十名踢精英级别的年轻足球运动员中，就有一人\"\ncefr: \"B1\"\nwords: []\nphrases:\n  - en-av-tio\ngrammar:\n  - grammar-bisats\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 För en av tio unga fotbollsspelare som spelar på elitnivå\n\n🇨🇳 因为每十名踢精英级别的年轻足球运动员中，就有一人\n\n## 结构 (Structure)\n\n```\n[För] [en av tio unga fotbollsspelare] [som spelar på elitnivå]\n 介词          名词短语                      关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `som spelar på elitnivå` = 关系从句\n- 📌 `en av tio` = 十分之一（比例表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[en-av-tio]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "因为每十名踢精英级别的年轻足球运动员中，就有一人",
+      "created": "2026-06-18",
+      "sentence": "För en av tio unga fotbollsspelare som spelar på elitnivå",
+      "words": [],
+      "phrases": [
+        "en-av-tio"
+      ],
+      "grammar": [
+        "grammar-bisats"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "en-av-tio",
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-for-naturen-an-vad-vanliga-kor-klarat",
       "type": "sentence",
       "title": "🇸🇪 för naturen än vad vanliga kor klarat på 30 år.",
@@ -12433,6 +13150,39 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-föreningen-svensk-elitfotboll-har-nu",
+      "type": "sentence",
+      "title": "🇸🇪 Föreningen Svensk elitfotboll har nu startat utbildningar om spel",
+      "path": "knowledge_base/sentences/sent-föreningen-svensk-elitfotboll-har-nu.md",
+      "body": "# 🇸🇪 Föreningen Svensk elitfotboll har nu startat utbildningar om spel\n\n🇨🇳 瑞典精英足球协会现已开设关于赌博的培训课程，\n\n## 结构 (Structure)\n\n```\n[Föreningen Svensk elitfotboll] [har nu startat] [utbildningar om spel]\n            主语                    perfekt             宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har startat`\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[utbildning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Föreningen Svensk elitfotboll har nu startat utbildningar om spel 🇨🇳 瑞典精英足球协会现已开设关于赌博的培训课程， 结构 (Structure) [Föreningen Svensk elitfotboll] [har nu startat] [utbildningar om spel] 主语 perfekt 宾语 语法点 (Grammar) 📌 gra",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "source-2026-06-18-listening-svt-latt",
+        "utbildning"
+      ],
+      "searchText": "🇸🇪 Föreningen Svensk elitfotboll har nu startat utbildningar om spel sent-föreningen-svensk-elitfotboll-har-nu knowledge_base/sentences/sent-föreningen-svensk-elitfotboll-har-nu.md ---\ntype: sentence\nsentence: \"Föreningen Svensk elitfotboll har nu startat utbildningar om spel\"\nzh: \"瑞典精英足球协会现已开设关于赌博的培训课程，\"\ncefr: \"B1\"\nwords:\n  - utbildning\nphrases: []\ngrammar:\n  - grammar-perfekt\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\n  - topic-skola-och-utbildning\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Föreningen Svensk elitfotboll har nu startat utbildningar om spel\n\n🇨🇳 瑞典精英足球协会现已开设关于赌博的培训课程，\n\n## 结构 (Structure)\n\n```\n[Föreningen Svensk elitfotboll] [har nu startat] [utbildningar om spel]\n            主语                    perfekt             宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har startat`\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[utbildning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "瑞典精英足球协会现已开设关于赌博的培训课程，",
+      "created": "2026-06-18",
+      "sentence": "Föreningen Svensk elitfotboll har nu startat utbildningar om spel",
+      "words": [
+        "utbildning"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-fotboll",
+        "topic-skola-och-utbildning"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -12684,6 +13434,39 @@ window.KB_DATA = {
         "grammar-prepositioner-rum",
         "source-2026-06-09-rumsliga-relationer",
         "vid-väggen"
+      ]
+    },
+    {
+      "slug": "sent-från-utlandet-beställde-han-mord",
+      "type": "sentence",
+      "title": "🇸🇪 Från utlandet beställde han mord och sprängningar",
+      "path": "knowledge_base/sentences/sent-från-utlandet-beställde-han-mord.md",
+      "body": "# 🇸🇪 Från utlandet beställde han mord och sprängningar\n\n🇨🇳 他在国外下令实施谋杀和爆炸，\n\n## 结构 (Structure)\n\n```\n[Från utlandet] [beställde] [han] [mord och sprängningar]\n   地点状语（前置）    动词     主语（倒装）      宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 地点状语前置 → 主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[sprängning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Från utlandet beställde han mord och sprängningar 🇨🇳 他在国外下令实施谋杀和爆炸， 结构 (Structure) [Från utlandet] [beställde] [han] [mord och sprängningar] 地点状语（前置） 动词 主语（倒装） 宾语 语法点 (Grammar) 📌 grammar v2 ordfoljd — 地点状语前置 → 主谓",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "source-2026-06-18-listening-svt-latt",
+        "sprängning"
+      ],
+      "searchText": "🇸🇪 Från utlandet beställde han mord och sprängningar sent-från-utlandet-beställde-han-mord knowledge_base/sentences/sent-från-utlandet-beställde-han-mord.md ---\ntype: sentence\nsentence: \"Från utlandet beställde han mord och sprängningar\"\nzh: \"他在国外下令实施谋杀和爆炸，\"\ncefr: \"B1\"\nwords:\n  - sprängning\nphrases: []\ngrammar:\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-samhälle-och-politik\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Från utlandet beställde han mord och sprängningar\n\n🇨🇳 他在国外下令实施谋杀和爆炸，\n\n## 结构 (Structure)\n\n```\n[Från utlandet] [beställde] [han] [mord och sprängningar]\n   地点状语（前置）    动词     主语（倒装）      宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 地点状语前置 → 主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[sprängning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "他在国外下令实施谋杀和爆炸，",
+      "created": "2026-06-18",
+      "sentence": "Från utlandet beställde han mord och sprängningar",
+      "words": [
+        "sprängning"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -13098,6 +13881,30 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-han-heter-poya-shafie-och-är-30-år",
+      "type": "sentence",
+      "title": "🇸🇪 Han heter Poya Shafie och är 30 år.",
+      "path": "knowledge_base/sentences/sent-han-heter-poya-shafie-och-är-30-år.md",
+      "body": "# 🇸🇪 Han heter Poya Shafie och är 30 år.\n\n🇨🇳 他叫波亚·沙菲（Poya Shafie），30 岁。\n\n## 结构 (Structure)\n\n```\n[Han] [heter] [Poya Shafie] [och är] [30 år]\n  主语   动词      专有名词     连+动词    年龄\n```\n\n## 语法点 (Grammar)\n\n- 📌 基本介绍句型 `X heter Y och är Z år` = 姓名+年龄\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Han heter Poya Shafie och är 30 år. 🇨🇳 他叫波亚·沙菲（Poya Shafie），30 岁。 结构 (Structure) [Han] [heter] [Poya Shafie] [och är] [30 år] 主语 动词 专有名词 连+动词 年龄 语法点 (Grammar) 📌 基本介绍句型 X heter Y och är Z år = 姓名+年龄 生词 & 词组 (Words",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Han heter Poya Shafie och är 30 år. sent-han-heter-poya-shafie-och-är-30-år knowledge_base/sentences/sent-han-heter-poya-shafie-och-är-30-år.md ---\ntype: sentence\nsentence: \"Han heter Poya Shafie och är 30 år.\"\nzh: \"他叫波亚·沙菲（Poya Shafie），30 岁。\"\ncefr: \"A1\"\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Han heter Poya Shafie och är 30 år.\n\n🇨🇳 他叫波亚·沙菲（Poya Shafie），30 岁。\n\n## 结构 (Structure)\n\n```\n[Han] [heter] [Poya Shafie] [och är] [30 år]\n  主语   动词      专有名词     连+动词    年龄\n```\n\n## 语法点 (Grammar)\n\n- 📌 基本介绍句型 `X heter Y och är Z år` = 姓名+年龄\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "他叫波亚·沙菲（Poya Shafie），30 岁。",
+      "created": "2026-06-18",
+      "sentence": "Han heter Poya Shafie och är 30 år.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-har-ni-bestämt-er-eller-behöver-ni",
       "type": "sentence",
       "title": "🇸🇪 Har ni bestämt er, eller behöver ni några minuter till?",
@@ -13138,6 +13945,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-har-problem-med-spel-om-pengar",
+      "type": "sentence",
+      "title": "🇸🇪 har problem med spel om pengar. Det här visar en ny undersökning.",
+      "path": "knowledge_base/sentences/sent-har-problem-med-spel-om-pengar.md",
+      "body": "# 🇸🇪 har problem med spel om pengar. Det här visar en ny undersökning.\n\n🇨🇳 存在赌钱问题。这是一项新调查显示的。\n\n## 结构 (Structure)\n\n```\n[har problem med spel om pengar]  — 续前句，谓语部分\n[Det här] [visar] [en ny undersökning]\n   宾语       动词         主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 倒装: 宾语 `Det här` 前置 → 主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[undersökning]]\n- 词组: [[spel-om-pengar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 har problem med spel om pengar. Det här visar en ny undersökning. 🇨🇳 存在赌钱问题。这是一项新调查显示的。 结构 (Structure) [har problem med spel om pengar] — 续前句，谓语部分 [Det här] [visar] [en ny undersökning] 宾语 动词 主语（倒装） 语法点 (Grammar) ",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt",
+        "spel-om-pengar",
+        "undersökning"
+      ],
+      "searchText": "🇸🇪 har problem med spel om pengar. Det här visar en ny undersökning. sent-har-problem-med-spel-om-pengar knowledge_base/sentences/sent-har-problem-med-spel-om-pengar.md ---\ntype: sentence\nsentence: \"har problem med spel om pengar. Det här visar en ny undersökning.\"\nzh: \"存在赌钱问题。这是一项新调查显示的。\"\ncefr: \"A2\"\nwords:\n  - undersökning\nphrases:\n  - spel-om-pengar\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 har problem med spel om pengar. Det här visar en ny undersökning.\n\n🇨🇳 存在赌钱问题。这是一项新调查显示的。\n\n## 结构 (Structure)\n\n```\n[har problem med spel om pengar]  — 续前句，谓语部分\n[Det här] [visar] [en ny undersökning]\n   宾语       动词         主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 倒装: 宾语 `Det här` 前置 → 主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[undersökning]]\n- 词组: [[spel-om-pengar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "存在赌钱问题。这是一项新调查显示的。",
+      "created": "2026-06-18",
+      "sentence": "har problem med spel om pengar. Det här visar en ny undersökning.",
+      "words": [
+        "undersökning"
+      ],
+      "phrases": [
+        "spel-om-pengar"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt",
+        "spel-om-pengar"
+      ]
+    },
+    {
       "slug": "sent-har-slutar-nyheter-pa-latt-svenska",
       "type": "sentence",
       "title": "🇸🇪 Här slutar Nyheter på lätt svenska. Vi önskar trevlig kväll!",
@@ -13159,6 +13999,38 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-har-spelat-om-pengar-i-nån-form",
+      "type": "sentence",
+      "title": "🇸🇪 har spelat om pengar i nån form det senaste året.",
+      "path": "knowledge_base/sentences/sent-har-spelat-om-pengar-i-nån-form.md",
+      "body": "# 🇸🇪 har spelat om pengar i nån form det senaste året.\n\n🇨🇳 在过去一年里以某种形式赌过钱。\n\n## 结构 (Structure)\n\n```\n[har spelat om pengar] [i nån form] [det senaste året]\n      perfekt              方式短语        时间短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har spelat`\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[spel-om-pengar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 har spelat om pengar i nån form det senaste året. 🇨🇳 在过去一年里以某种形式赌过钱。 结构 (Structure) [har spelat om pengar] [i nån form] [det senaste året] perfekt 方式短语 时间短语 语法点 (Grammar) 📌 grammar perfekt — har spelat 生词 & 词组 (W",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "source-2026-06-18-listening-svt-latt",
+        "spel-om-pengar"
+      ],
+      "searchText": "🇸🇪 har spelat om pengar i nån form det senaste året. sent-har-spelat-om-pengar-i-nån-form knowledge_base/sentences/sent-har-spelat-om-pengar-i-nån-form.md ---\ntype: sentence\nsentence: \"har spelat om pengar i nån form det senaste året.\"\nzh: \"在过去一年里以某种形式赌过钱。\"\ncefr: \"B1\"\nwords: []\nphrases:\n  - spel-om-pengar\ngrammar:\n  - grammar-perfekt\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 har spelat om pengar i nån form det senaste året.\n\n🇨🇳 在过去一年里以某种形式赌过钱。\n\n## 结构 (Structure)\n\n```\n[har spelat om pengar] [i nån form] [det senaste året]\n      perfekt              方式短语        时间短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har spelat`\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[spel-om-pengar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "在过去一年里以某种形式赌过钱。",
+      "created": "2026-06-18",
+      "sentence": "har spelat om pengar i nån form det senaste året.",
+      "words": [],
+      "phrases": [
+        "spel-om-pengar"
+      ],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -13196,6 +14068,33 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "är-du-ensam"
+      ]
+    },
+    {
+      "slug": "sent-hej-och-välkommen-till-nyheter",
+      "type": "sentence",
+      "title": "🇸🇪 Hej och välkommen till Nyheter på lätt svenska.",
+      "path": "knowledge_base/sentences/sent-hej-och-välkommen-till-nyheter.md",
+      "body": "# 🇸🇪 Hej och välkommen till Nyheter på lätt svenska.\n\n🇨🇳 你好，欢迎收看《简易瑞典语新闻》。\n\n## 结构 (Structure)\n\n```\n[Hej] [och] [välkommen] [till] [Nyheter på lätt svenska]\n 感叹词   连词    形容词/欢迎    介词        节目名\n```\n\n## 语法点 (Grammar)\n\n- 📌 Hälsningsfras: `Hej och välkommen till X` = 标准欢迎语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[välkommen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Hej och välkommen till Nyheter på lätt svenska. 🇨🇳 你好，欢迎收看《简易瑞典语新闻》。 结构 (Structure) [Hej] [och] [välkommen] [till] [Nyheter på lätt svenska] 感叹词 连词 形容词/欢迎 介词 节目名 语法点 (Grammar) 📌 Hälsningsfras: Hej och välkommen t",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt",
+        "välkommen"
+      ],
+      "searchText": "🇸🇪 Hej och välkommen till Nyheter på lätt svenska. sent-hej-och-välkommen-till-nyheter knowledge_base/sentences/sent-hej-och-välkommen-till-nyheter.md ---\ntype: sentence\nsentence: \"Hej och välkommen till Nyheter på lätt svenska.\"\nzh: \"你好，欢迎收看《简易瑞典语新闻》。\"\ncefr: \"A1\"\nwords:\n  - välkommen\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hej och välkommen till Nyheter på lätt svenska.\n\n🇨🇳 你好，欢迎收看《简易瑞典语新闻》。\n\n## 结构 (Structure)\n\n```\n[Hej] [och] [välkommen] [till] [Nyheter på lätt svenska]\n 感叹词   连词    形容词/欢迎    介词        节目名\n```\n\n## 语法点 (Grammar)\n\n- 📌 Hälsningsfras: `Hej och välkommen till X` = 标准欢迎语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[välkommen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "你好，欢迎收看《简易瑞典语新闻》。",
+      "created": "2026-06-18",
+      "sentence": "Hej och välkommen till Nyheter på lätt svenska.",
+      "words": [
+        "välkommen"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -13437,6 +14336,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-i-avtalet-lovar-iran-bland-annat",
+      "type": "sentence",
+      "title": "🇸🇪 I avtalet lovar Iran bland annat att inte ha kärnvapen.",
+      "path": "knowledge_base/sentences/sent-i-avtalet-lovar-iran-bland-annat.md",
+      "body": "# 🇸🇪 I avtalet lovar Iran bland annat att inte ha kärnvapen.\n\n🇨🇳 在协议中，伊朗承诺的内容之一是不拥有核武器。\n\n## 结构 (Structure)\n\n```\n[I avtalet] [lovar] [Iran] [bland annat att inte ha kärnvapen]\n  地点状语     动词    主语              宾语（att-sats）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 介词短语前置 → 主谓倒装 (lovar Iran)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[avtal]] · [[kärnvapen]]\n- 词组: [[bland-annat]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 I avtalet lovar Iran bland annat att inte ha kärnvapen. 🇨🇳 在协议中，伊朗承诺的内容之一是不拥有核武器。 结构 (Structure) [I avtalet] [lovar] [Iran] [bland annat att inte ha kärnvapen] 地点状语 动词 主语 宾语（att sats） 语法点 (Grammar) 📌 grammar v2 o",
+      "forms": [],
+      "links": [
+        "avtal",
+        "bland-annat",
+        "grammar-v2-ordfoljd",
+        "kärnvapen",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 I avtalet lovar Iran bland annat att inte ha kärnvapen. sent-i-avtalet-lovar-iran-bland-annat knowledge_base/sentences/sent-i-avtalet-lovar-iran-bland-annat.md ---\ntype: sentence\nsentence: \"I avtalet lovar Iran bland annat att inte ha kärnvapen.\"\nzh: \"在协议中，伊朗承诺的内容之一是不拥有核武器。\"\ncefr: \"B1\"\nwords:\n  - avtal\n  - kärnvapen\nphrases:\n  - bland-annat\ngrammar:\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-samhälle-och-politik\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I avtalet lovar Iran bland annat att inte ha kärnvapen.\n\n🇨🇳 在协议中，伊朗承诺的内容之一是不拥有核武器。\n\n## 结构 (Structure)\n\n```\n[I avtalet] [lovar] [Iran] [bland annat att inte ha kärnvapen]\n  地点状语     动词    主语              宾语（att-sats）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 介词短语前置 → 主谓倒装 (lovar Iran)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[avtal]] · [[kärnvapen]]\n- 词组: [[bland-annat]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "在协议中，伊朗承诺的内容之一是不拥有核武器。",
+      "created": "2026-06-18",
+      "sentence": "I avtalet lovar Iran bland annat att inte ha kärnvapen.",
+      "words": [
+        "avtal",
+        "kärnvapen"
+      ],
+      "phrases": [
+        "bland-annat"
+      ],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-i-bokhyllan-star-manga-bocker-foto-sitter",
       "type": "sentence",
       "title": "🇸🇈 I bokhyllan står många böcker och ett foto sitter på den översta hyllan.",
@@ -13635,6 +14572,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-i-söder-kommer-både-regn-eller-åska",
+      "type": "sentence",
+      "title": "🇸🇪 I söder kommer både regn eller åska som kan vara kraftiga.",
+      "path": "knowledge_base/sentences/sent-i-söder-kommer-både-regn-eller-åska.md",
+      "body": "# 🇸🇪 I söder kommer både regn eller åska som kan vara kraftiga.\n\n🇨🇳 南部会有雨或雷暴，可能很强。\n\n## 结构 (Structure)\n\n```\n[I söder] [kommer] [både regn eller åska] [som kan vara kraftiga]\n   地点（前置） 倒装        主语                  关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 地点前置 → 倒装\n- 📌 [[grammar-bisats]] — `som kan vara kraftiga` 关系从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[åska]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 I söder kommer både regn eller åska som kan vara kraftiga. 🇨🇳 南部会有雨或雷暴，可能很强。 结构 (Structure) [I söder] [kommer] [både regn eller åska] [som kan vara kraftiga] 地点（前置） 倒装 主语 关系从句 语法点 (Grammar) 📌 grammar v2 ordfoljd ",
+      "forms": [],
+      "links": [
+        "åska",
+        "grammar-bisats",
+        "grammar-v2-ordfoljd",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 I söder kommer både regn eller åska som kan vara kraftiga. sent-i-söder-kommer-både-regn-eller-åska knowledge_base/sentences/sent-i-söder-kommer-både-regn-eller-åska.md ---\ntype: sentence\nsentence: \"I söder kommer både regn eller åska som kan vara kraftiga.\"\nzh: \"南部会有雨或雷暴，可能很强。\"\ncefr: \"A2\"\nwords:\n  - åska\nphrases: []\ngrammar:\n  - grammar-bisats\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-vader-och-arstider\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I söder kommer både regn eller åska som kan vara kraftiga.\n\n🇨🇳 南部会有雨或雷暴，可能很强。\n\n## 结构 (Structure)\n\n```\n[I söder] [kommer] [både regn eller åska] [som kan vara kraftiga]\n   地点（前置） 倒装        主语                  关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 地点前置 → 倒装\n- 📌 [[grammar-bisats]] — `som kan vara kraftiga` 关系从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[åska]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "南部会有雨或雷暴，可能很强。",
+      "created": "2026-06-18",
+      "sentence": "I söder kommer både regn eller åska som kan vara kraftiga.",
+      "words": [
+        "åska"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-bisats",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-i-sommar-ska-det-bli-arbeten",
       "type": "sentence",
       "title": "🇸🇪 I sommar ska det bli arbeten på flera vägar i Sverige.",
@@ -13668,6 +14639,33 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-18-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "sent-i-spelbranschen-tror-man",
+      "type": "sentence",
+      "title": "🇸🇪 I spelbranschen tror man:",
+      "path": "knowledge_base/sentences/sent-i-spelbranschen-tror-man.md",
+      "body": "# 🇸🇪 I spelbranschen tror man:\n\n🇨🇳 在赌博这个行当里，人们会想：\n\n## 结构 (Structure)\n\n```\n[I spelbranschen] [tror] [man]\n   地点状语（前置）   动词    主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 介词短语前置 → 倒装\n- 📌 `man` = 泛称\"人们\"（indefinite generic pronoun）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 I spelbranschen tror man: 🇨🇳 在赌博这个行当里，人们会想： 结构 (Structure) [I spelbranschen] [tror] [man] 地点状语（前置） 动词 主语（倒装） 语法点 (Grammar) 📌 grammar v2 ordfoljd — 介词短语前置 → 倒装 📌 man = 泛称\"人们\"（indefinite generic pronoun） 生词 & 词组 (",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 I spelbranschen tror man: sent-i-spelbranschen-tror-man knowledge_base/sentences/sent-i-spelbranschen-tror-man.md ---\ntype: sentence\nsentence: \"I spelbranschen tror man:\"\nzh: \"在赌博这个行当里，人们会想：\"\ncefr: \"A2\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I spelbranschen tror man:\n\n🇨🇳 在赌博这个行当里，人们会想：\n\n## 结构 (Structure)\n\n```\n[I spelbranschen] [tror] [man]\n   地点状语（前置）   动词    主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 介词短语前置 → 倒装\n- 📌 `man` = 泛称\"人们\"（indefinite generic pronoun）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "在赌博这个行当里，人们会想：",
+      "created": "2026-06-18",
+      "sentence": "I spelbranschen tror man:",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -13756,6 +14754,110 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-idag-är-babis-stefanidis-fri-från-spel",
+      "type": "sentence",
+      "title": "🇸🇪 Idag är Babis Stefanidis fri från spel, men skulderna finns kvar",
+      "path": "knowledge_base/sentences/sent-idag-är-babis-stefanidis-fri-från-spel.md",
+      "body": "# 🇸🇪 Idag är Babis Stefanidis fri från spel, men skulderna finns kvar\n\n🇨🇳 如今巴比斯·斯特凡尼迪斯已戒掉赌博，但债务依然存在，\n\n## 结构 (Structure)\n\n```\n[Idag] [är Babis Stefanidis] [fri från spel]  men  [skulderna] [finns kvar]\n  时间     主谓                    表语            转折      主语         谓语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `men` = 转折连词（however）\n- 📌 `finns kvar` = 仍然存在（kvar = 留着）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skuld]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Idag är Babis Stefanidis fri från spel, men skulderna finns kvar 🇨🇳 如今巴比斯·斯特凡尼迪斯已戒掉赌博，但债务依然存在， 结构 (Structure) [Idag] [är Babis Stefanidis] [fri från spel] men [skulderna] [finns kvar] 时间 主谓 表语 转折 主语 谓语 语法点 (Gramma",
+      "forms": [],
+      "links": [
+        "skuld",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Idag är Babis Stefanidis fri från spel, men skulderna finns kvar sent-idag-är-babis-stefanidis-fri-från-spel knowledge_base/sentences/sent-idag-är-babis-stefanidis-fri-från-spel.md ---\ntype: sentence\nsentence: \"Idag är Babis Stefanidis fri från spel, men skulderna finns kvar\"\nzh: \"如今巴比斯·斯特凡尼迪斯已戒掉赌博，但债务依然存在，\"\ncefr: \"B1\"\nwords:\n  - skuld\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Idag är Babis Stefanidis fri från spel, men skulderna finns kvar\n\n🇨🇳 如今巴比斯·斯特凡尼迪斯已戒掉赌博，但债务依然存在，\n\n## 结构 (Structure)\n\n```\n[Idag] [är Babis Stefanidis] [fri från spel]  men  [skulderna] [finns kvar]\n  时间     主谓                    表语            转折      主语         谓语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `men` = 转折连词（however）\n- 📌 `finns kvar` = 仍然存在（kvar = 留着）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skuld]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "如今巴比斯·斯特凡尼迪斯已戒掉赌博，但债务依然存在，",
+      "created": "2026-06-18",
+      "sentence": "Idag är Babis Stefanidis fri från spel, men skulderna finns kvar",
+      "words": [
+        "skuld"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-idag-dömdes-en-av-foxtrots-högsta",
+      "type": "sentence",
+      "title": "🇸🇪 Idag dömdes en av Foxtrots högsta ledare till livstids fängelse.",
+      "path": "knowledge_base/sentences/sent-idag-dömdes-en-av-foxtrots-högsta.md",
+      "body": "# 🇸🇪 Idag dömdes en av Foxtrots högsta ledare till livstids fängelse.\n\n🇨🇳 今天，Foxtrot 犯罪团伙的一名最高头目被判处终身监禁。\n\n## 结构 (Structure)\n\n```\n[Idag] [dömdes] [en av Foxtrots högsta ledare] [till livstids fängelse]\n  时间   被动态           主语（倒装）                  介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `dömdes` = 被判（s-passiv preteritum）\n- 📌 [[grammar-v2-ordfoljd]] — `Idag` 前置 → 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[döma]] · [[fängelse]] · [[ledare]]\n- 词组: [[livstids-fängelse]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Idag dömdes en av Foxtrots högsta ledare till livstids fängelse. 🇨🇳 今天，Foxtrot 犯罪团伙的一名最高头目被判处终身监禁。 结构 (Structure) [Idag] [dömdes] [en av Foxtrots högsta ledare] [till livstids fängelse] 时间 被动态 主语（倒装） 介词短语 语法点 (Gra",
+      "forms": [],
+      "links": [
+        "döma",
+        "fängelse",
+        "grammar-passiv-med-s",
+        "grammar-v2-ordfoljd",
+        "ledare",
+        "livstids-fängelse",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Idag dömdes en av Foxtrots högsta ledare till livstids fängelse. sent-idag-dömdes-en-av-foxtrots-högsta knowledge_base/sentences/sent-idag-dömdes-en-av-foxtrots-högsta.md ---\ntype: sentence\nsentence: \"Idag dömdes en av Foxtrots högsta ledare till livstids fängelse.\"\nzh: \"今天，Foxtrot 犯罪团伙的一名最高头目被判处终身监禁。\"\ncefr: \"B1\"\nwords:\n  - döma\n  - fängelse\n  - ledare\nphrases:\n  - livstids-fängelse\ngrammar:\n  - grammar-passiv-med-s\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-samhälle-och-politik\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Idag dömdes en av Foxtrots högsta ledare till livstids fängelse.\n\n🇨🇳 今天，Foxtrot 犯罪团伙的一名最高头目被判处终身监禁。\n\n## 结构 (Structure)\n\n```\n[Idag] [dömdes] [en av Foxtrots högsta ledare] [till livstids fängelse]\n  时间   被动态           主语（倒装）                  介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `dömdes` = 被判（s-passiv preteritum）\n- 📌 [[grammar-v2-ordfoljd]] — `Idag` 前置 → 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[döma]] · [[fängelse]] · [[ledare]]\n- 词组: [[livstids-fängelse]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "今天，Foxtrot 犯罪团伙的一名最高头目被判处终身监禁。",
+      "created": "2026-06-18",
+      "sentence": "Idag dömdes en av Foxtrots högsta ledare till livstids fängelse.",
+      "words": [
+        "döma",
+        "fängelse",
+        "ledare"
+      ],
+      "phrases": [
+        "livstids-fängelse"
+      ],
+      "grammar": [
+        "grammar-passiv-med-s",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "livstids-fängelse",
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-idag-har-det-varit-flera-ukrainska",
+      "type": "sentence",
+      "title": "🇸🇪 Idag har det varit flera ukrainska attacker med drönare mot Moskva.",
+      "path": "knowledge_base/sentences/sent-idag-har-det-varit-flera-ukrainska.md",
+      "body": "# 🇸🇪 Idag har det varit flera ukrainska attacker med drönare mot Moskva.\n\n🇨🇳 今天发生了多起乌克兰用无人机对莫斯科的袭击。\n\n## 结构 (Structure)\n\n```\n[Idag] [har det varit] [flera ukrainska attacker med drönare mot Moskva]\n  时间    perfekt det-构式              主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har det varit` = existential perfect\n- 📌 [[grammar-v2-ordfoljd]] — `Idag` 前置 → 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[drönare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Idag har det varit flera ukrainska attacker med drönare mot Moskva. 🇨🇳 今天发生了多起乌克兰用无人机对莫斯科的袭击。 结构 (Structure) [Idag] [har det varit] [flera ukrainska attacker med drönare mot Moskva] 时间 perfekt det 构式 主语（倒装） 语法点 (G",
+      "forms": [],
+      "links": [
+        "drönare",
+        "grammar-perfekt",
+        "grammar-v2-ordfoljd",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Idag har det varit flera ukrainska attacker med drönare mot Moskva. sent-idag-har-det-varit-flera-ukrainska knowledge_base/sentences/sent-idag-har-det-varit-flera-ukrainska.md ---\ntype: sentence\nsentence: \"Idag har det varit flera ukrainska attacker med drönare mot Moskva.\"\nzh: \"今天发生了多起乌克兰用无人机对莫斯科的袭击。\"\ncefr: \"B1\"\nwords:\n  - drönare\nphrases: []\ngrammar:\n  - grammar-perfekt\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Idag har det varit flera ukrainska attacker med drönare mot Moskva.\n\n🇨🇳 今天发生了多起乌克兰用无人机对莫斯科的袭击。\n\n## 结构 (Structure)\n\n```\n[Idag] [har det varit] [flera ukrainska attacker med drönare mot Moskva]\n  时间    perfekt det-构式              主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har det varit` = existential perfect\n- 📌 [[grammar-v2-ordfoljd]] — `Idag` 前置 → 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[drönare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "今天发生了多起乌克兰用无人机对莫斯科的袭击。",
+      "created": "2026-06-18",
+      "sentence": "Idag har det varit flera ukrainska attacker med drönare mot Moskva.",
+      "words": [
+        "drönare"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-idag-kom-besked-fran-riksbanken-om-rantan",
       "type": "sentence",
       "title": "🇸🇪 Idag kom besked från Riksbanken om räntan.",
@@ -13821,6 +14923,39 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-presens-preteritum-ram",
         "source-2026-06-09-en-handelse-i-tidsordning"
+      ]
+    },
+    {
+      "slug": "sent-imorgon-på-midsommarafton-blir-det",
+      "type": "sentence",
+      "title": "🇸🇪 Imorgon på midsommarafton, blir det både molnigt och varmt i söder",
+      "path": "knowledge_base/sentences/sent-imorgon-på-midsommarafton-blir-det.md",
+      "body": "# 🇸🇪 Imorgon på midsommarafton, blir det både molnigt och varmt i söder\n\n🇨🇳 明天仲夏节前夜，南部既多云又温暖，\n\n## 结构 (Structure)\n\n```\n[Imorgon på midsommarafton] [blir det] [både molnigt och varmt] [i söder]\n        时间状语（前置）        倒装         表语（both...and）         地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置 → 倒装\n- 📌 `både ... och ...` = 既……又……\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[midsommarafton]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Imorgon på midsommarafton, blir det både molnigt och varmt i söder 🇨🇳 明天仲夏节前夜，南部既多云又温暖， 结构 (Structure) [Imorgon på midsommarafton] [blir det] [både molnigt och varmt] [i söder] 时间状语（前置） 倒装 表语（both...and） 地点 语法点 (G",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "midsommarafton",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Imorgon på midsommarafton, blir det både molnigt och varmt i söder sent-imorgon-på-midsommarafton-blir-det knowledge_base/sentences/sent-imorgon-på-midsommarafton-blir-det.md ---\ntype: sentence\nsentence: \"Imorgon på midsommarafton, blir det både molnigt och varmt i söder\"\nzh: \"明天仲夏节前夜，南部既多云又温暖，\"\ncefr: \"A2\"\nwords:\n  - midsommarafton\nphrases: []\ngrammar:\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-vader-och-arstider\n  - topic-midsommar-traditioner\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Imorgon på midsommarafton, blir det både molnigt och varmt i söder\n\n🇨🇳 明天仲夏节前夜，南部既多云又温暖，\n\n## 结构 (Structure)\n\n```\n[Imorgon på midsommarafton] [blir det] [både molnigt och varmt] [i söder]\n        时间状语（前置）        倒装         表语（both...and）         地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置 → 倒装\n- 📌 `både ... och ...` = 既……又……\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[midsommarafton]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "明天仲夏节前夜，南部既多云又温暖，",
+      "created": "2026-06-18",
+      "sentence": "Imorgon på midsommarafton, blir det både molnigt och varmt i söder",
+      "words": [
+        "midsommarafton"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-vader-och-arstider",
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -13899,6 +15034,40 @@ window.KB_DATA = {
         "topic-vardagsrutin"
       ],
       "backlinks": []
+    },
+    {
+      "slug": "sent-iran-ska-öppna-sundet-i-hormuz-genast",
+      "type": "sentence",
+      "title": "🇸🇪 Iran ska öppna sundet i Hormuz genast så att fartyg kan börja åka igen.",
+      "path": "knowledge_base/sentences/sent-iran-ska-öppna-sundet-i-hormuz-genast.md",
+      "body": "# 🇸🇪 Iran ska öppna sundet i Hormuz genast så att fartyg kan börja åka igen.\n\n🇨🇳 伊朗将立即开放霍尔木兹海峡，让船只能重新通行。\n\n## 结构 (Structure)\n\n```\n[Iran] [ska öppna] [sundet i Hormuz] [genast] [så att fartyg kan börja åka igen]\n  主语    情态+动词        宾语               副词          结果/目的从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 `så att` = 从而，以便（结果/目的）\n- 📌 [[grammar-for-att-infinitiv]] — 类似目的结构\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[sund]] · [[fartyg]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Iran ska öppna sundet i Hormuz genast så att fartyg kan börja åka igen. 🇨🇳 伊朗将立即开放霍尔木兹海峡，让船只能重新通行。 结构 (Structure) [Iran] [ska öppna] [sundet i Hormuz] [genast] [så att fartyg kan börja åka igen] 主语 情态+动词 宾语 副词 结果/",
+      "forms": [],
+      "links": [
+        "fartyg",
+        "grammar-for-att-infinitiv",
+        "source-2026-06-18-listening-svt-latt",
+        "sund"
+      ],
+      "searchText": "🇸🇪 Iran ska öppna sundet i Hormuz genast så att fartyg kan börja åka igen. sent-iran-ska-öppna-sundet-i-hormuz-genast knowledge_base/sentences/sent-iran-ska-öppna-sundet-i-hormuz-genast.md ---\ntype: sentence\nsentence: \"Iran ska öppna sundet i Hormuz genast så att fartyg kan börja åka igen.\"\nzh: \"伊朗将立即开放霍尔木兹海峡，让船只能重新通行。\"\ncefr: \"B1\"\nwords:\n  - sund\n  - fartyg\nphrases: []\ngrammar:\n  - grammar-for-att-infinitiv\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Iran ska öppna sundet i Hormuz genast så att fartyg kan börja åka igen.\n\n🇨🇳 伊朗将立即开放霍尔木兹海峡，让船只能重新通行。\n\n## 结构 (Structure)\n\n```\n[Iran] [ska öppna] [sundet i Hormuz] [genast] [så att fartyg kan börja åka igen]\n  主语    情态+动词        宾语               副词          结果/目的从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 `så att` = 从而，以便（结果/目的）\n- 📌 [[grammar-for-att-infinitiv]] — 类似目的结构\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[sund]] · [[fartyg]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "伊朗将立即开放霍尔木兹海峡，让船只能重新通行。",
+      "created": "2026-06-18",
+      "sentence": "Iran ska öppna sundet i Hormuz genast så att fartyg kan börja åka igen.",
+      "words": [
+        "sund",
+        "fartyg"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-for-att-infinitiv"
+      ],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
     },
     {
       "slug": "sent-ja-det-hanger-en-liten-svart-skylt",
@@ -14415,6 +15584,37 @@ window.KB_DATA = {
       "backlinks": [
         "gå-tillbaka",
         "source-2026-06-09-en-handelse-i-tidsordning"
+      ]
+    },
+    {
+      "slug": "sent-jag-har-ju-vunnit-sm-guld",
+      "type": "sentence",
+      "title": "🇸🇪 Jag har ju vunnit SM-guld. Klart att jag kan vinna över de här bolagen.",
+      "path": "knowledge_base/sentences/sent-jag-har-ju-vunnit-sm-guld.md",
+      "body": "# 🇸🇪 Jag har ju vunnit SM-guld. Klart att jag kan vinna över de här bolagen.\n\n🇨🇳 我可是拿过瑞典锦标赛金牌，当然能赢过这些公司。\n\n## 结构 (Structure)\n\n```\n[Jag] [har ju vunnit] [SM-guld]\n  主语   perfekt+ju        宾语\n\n[Klart] [att jag kan vinna över de här bolagen]\n  副词     att-sats（当然……）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har vunnit`\n- 📌 [[grammar-satsadverbial]] — `ju` = 强调已知信息（当然，嘛）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Jag har ju vunnit SM guld. Klart att jag kan vinna över de här bolagen. 🇨🇳 我可是拿过瑞典锦标赛金牌，当然能赢过这些公司。 结构 (Structure) [Jag] [har ju vunnit] [SM guld] 主语 perfekt+ju 宾语 [Klart] [att jag kan vinna över de här bolagen] 副词",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "grammar-satsadverbial",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Jag har ju vunnit SM-guld. Klart att jag kan vinna över de här bolagen. sent-jag-har-ju-vunnit-sm-guld knowledge_base/sentences/sent-jag-har-ju-vunnit-sm-guld.md ---\ntype: sentence\nsentence: \"Jag har ju vunnit SM-guld. Klart att jag kan vinna över de här bolagen.\"\nzh: \"我可是拿过瑞典锦标赛金牌，当然能赢过这些公司。\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-perfekt\n  - grammar-satsadverbial\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Jag har ju vunnit SM-guld. Klart att jag kan vinna över de här bolagen.\n\n🇨🇳 我可是拿过瑞典锦标赛金牌，当然能赢过这些公司。\n\n## 结构 (Structure)\n\n```\n[Jag] [har ju vunnit] [SM-guld]\n  主语   perfekt+ju        宾语\n\n[Klart] [att jag kan vinna över de här bolagen]\n  副词     att-sats（当然……）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har vunnit`\n- 📌 [[grammar-satsadverbial]] — `ju` = 强调已知信息（当然，嘛）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "我可是拿过瑞典锦标赛金牌，当然能赢过这些公司。",
+      "created": "2026-06-18",
+      "sentence": "Jag har ju vunnit SM-guld. Klart att jag kan vinna över de här bolagen.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt",
+        "grammar-satsadverbial"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -15815,6 +17015,30 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-men-nyheter-på-lätt-svenska-är-tillbaka",
+      "type": "sentence",
+      "title": "🇸🇈 Men Nyheter på lätt svenska är tillbaka igen på måndag.",
+      "path": "knowledge_base/sentences/sent-men-nyheter-på-lätt-svenska-är-tillbaka.md",
+      "body": "# 🇸🇈 Men Nyheter på lätt svenska är tillbaka igen på måndag.\n\n🇨🇳 但《简易瑞典语新闻》周一会再回来。\n\n## 结构 (Structure)\n\n```\n[Men] [Nyheter på lätt svenska] [är] [tillbaka igen] [på måndag]\n  转折        主语（节目名）       动词      状语             时间\n```\n\n## 语法点 (Grammar)\n\n- 📌 `vara tillbaka` = 回来（固定搭配）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇈 Men Nyheter på lätt svenska är tillbaka igen på måndag. 🇨🇳 但《简易瑞典语新闻》周一会再回来。 结构 (Structure) [Men] [Nyheter på lätt svenska] [är] [tillbaka igen] [på måndag] 转折 主语（节目名） 动词 状语 时间 语法点 (Grammar) 📌 vara tillbaka = 回来（",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇈 Men Nyheter på lätt svenska är tillbaka igen på måndag. sent-men-nyheter-på-lätt-svenska-är-tillbaka knowledge_base/sentences/sent-men-nyheter-på-lätt-svenska-är-tillbaka.md ---\ntype: sentence\nsentence: \"Men Nyheter på lätt svenska är tillbaka igen på måndag.\"\nzh: \"但《简易瑞典语新闻》周一会再回来。\"\ncefr: \"A1\"\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇈 Men Nyheter på lätt svenska är tillbaka igen på måndag.\n\n🇨🇳 但《简易瑞典语新闻》周一会再回来。\n\n## 结构 (Structure)\n\n```\n[Men] [Nyheter på lätt svenska] [är] [tillbaka igen] [på måndag]\n  转折        主语（节目名）       动词      状语             时间\n```\n\n## 语法点 (Grammar)\n\n- 📌 `vara tillbaka` = 回来（固定搭配）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "但《简易瑞典语新闻》周一会再回来。",
+      "created": "2026-06-18",
+      "sentence": "Men Nyheter på lätt svenska är tillbaka igen på måndag.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-men-om-du-vill-kan-du-ta-en-bild",
       "type": "sentence",
       "title": "🇸🇪 Men om du vill kan du ta en bild på kartan vid busshållplatsen där borta.",
@@ -16227,6 +17451,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-när-konflikten-mellan-gängen-foxtrot",
+      "type": "sentence",
+      "title": "🇸🇪 när konflikten mellan gängen Foxtrot och Dalennätverket",
+      "path": "knowledge_base/sentences/sent-när-konflikten-mellan-gängen-foxtrot.md",
+      "body": "# 🇸🇪 när konflikten mellan gängen Foxtrot och Dalennätverket\n\n🇨🇳 当时 Foxtrot 团伙与 Dalen 网络之间的冲突\n\n## 结构 (Structure)\n\n```\n[när] [konflikten mellan gängen Foxtrot och Dalennätverket]\n  时间连词              从句主语（未完结，续下句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-nar-bisats]] — `när`引导时间从句\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 när konflikten mellan gängen Foxtrot och Dalennätverket 🇨🇳 当时 Foxtrot 团伙与 Dalen 网络之间的冲突 结构 (Structure) [när] [konflikten mellan gängen Foxtrot och Dalennätverket] 时间连词 从句主语（未完结，续下句） 语法点 (Grammar) 📌 grammar nar bi",
+      "forms": [],
+      "links": [
+        "grammar-nar-bisats",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 när konflikten mellan gängen Foxtrot och Dalennätverket sent-när-konflikten-mellan-gängen-foxtrot knowledge_base/sentences/sent-när-konflikten-mellan-gängen-foxtrot.md ---\ntype: sentence\nsentence: \"när konflikten mellan gängen Foxtrot och Dalennätverket\"\nzh: \"当时 Foxtrot 团伙与 Dalen 网络之间的冲突\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-nar-bisats\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-samhälle-och-politik\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 när konflikten mellan gängen Foxtrot och Dalennätverket\n\n🇨🇳 当时 Foxtrot 团伙与 Dalen 网络之间的冲突\n\n## 结构 (Structure)\n\n```\n[när] [konflikten mellan gängen Foxtrot och Dalennätverket]\n  时间连词              从句主语（未完结，续下句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-nar-bisats]] — `när`引导时间从句\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "当时 Foxtrot 团伙与 Dalen 网络之间的冲突",
+      "created": "2026-06-18",
+      "sentence": "när konflikten mellan gängen Foxtrot och Dalennätverket",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-nar-bisats"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-nar-varen-kommer-borjar-dagarna",
       "type": "sentence",
       "title": "När våren kommer börjar dagarna bli ljusare.",
@@ -16406,6 +17659,95 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-nu-önskar-vi-er-alla-en-riktigt",
+      "type": "sentence",
+      "title": "🇸🇪 Nu önskar vi er alla en riktigt trevlig midsommar. Tack för oss!",
+      "path": "knowledge_base/sentences/sent-nu-önskar-vi-er-alla-en-riktigt.md",
+      "body": "# 🇸🇪 Nu önskar vi er alla en riktigt trevlig midsommar. Tack för oss!\n\n🇨🇳 现在我们祝大家仲夏节快乐。再见！\n\n## 结构 (Structure)\n\n```\n[Nu] [önskar vi] [er alla] [en riktigt trevlig midsommar]\n 时间   主谓倒装    间接宾语         直接宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `Tack för oss!` = 节目结束语（相当于\"谢谢收看/收听\"）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[midsommar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Nu önskar vi er alla en riktigt trevlig midsommar. Tack för oss! 🇨🇳 现在我们祝大家仲夏节快乐。再见！ 结构 (Structure) [Nu] [önskar vi] [er alla] [en riktigt trevlig midsommar] 时间 主谓倒装 间接宾语 直接宾语 语法点 (Grammar) 📌 Tack för oss! = 节目结束",
+      "forms": [],
+      "links": [
+        "midsommar",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Nu önskar vi er alla en riktigt trevlig midsommar. Tack för oss! sent-nu-önskar-vi-er-alla-en-riktigt knowledge_base/sentences/sent-nu-önskar-vi-er-alla-en-riktigt.md ---\ntype: sentence\nsentence: \"Nu önskar vi er alla en riktigt trevlig midsommar. Tack för oss!\"\nzh: \"现在我们祝大家仲夏节快乐。再见！\"\ncefr: \"A1\"\nwords:\n  - midsommar\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-midsommar-traditioner\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Nu önskar vi er alla en riktigt trevlig midsommar. Tack för oss!\n\n🇨🇳 现在我们祝大家仲夏节快乐。再见！\n\n## 结构 (Structure)\n\n```\n[Nu] [önskar vi] [er alla] [en riktigt trevlig midsommar]\n 时间   主谓倒装    间接宾语         直接宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `Tack för oss!` = 节目结束语（相当于\"谢谢收看/收听\"）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[midsommar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "现在我们祝大家仲夏节快乐。再见！",
+      "created": "2026-06-18",
+      "sentence": "Nu önskar vi er alla en riktigt trevlig midsommar. Tack för oss!",
+      "words": [
+        "midsommar"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-nu-ska-det-handla-om-problem-med-spel",
+      "type": "sentence",
+      "title": "🇸🇪 Nu ska det handla om problem med spel.",
+      "path": "knowledge_base/sentences/sent-nu-ska-det-handla-om-problem-med-spel.md",
+      "body": "# 🇸🇪 Nu ska det handla om problem med spel.\n\n🇨🇳 接下来要谈的是赌博问题。\n\n## 结构 (Structure)\n\n```\n[Nu] [ska det handla om] [problem med spel]\n 时间     非人称构式             主题\n```\n\n## 语法点 (Grammar)\n\n- 📌 `det handlar om` = 是关于（话题过渡常用句）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[handla-om]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Nu ska det handla om problem med spel. 🇨🇳 接下来要谈的是赌博问题。 结构 (Structure) [Nu] [ska det handla om] [problem med spel] 时间 非人称构式 主题 语法点 (Grammar) 📌 det handlar om = 是关于（话题过渡常用句） 生词 & 词组 (Words & Phrases) 词组: handla om ",
+      "forms": [],
+      "links": [
+        "handla-om",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Nu ska det handla om problem med spel. sent-nu-ska-det-handla-om-problem-med-spel knowledge_base/sentences/sent-nu-ska-det-handla-om-problem-med-spel.md ---\ntype: sentence\nsentence: \"Nu ska det handla om problem med spel.\"\nzh: \"接下来要谈的是赌博问题。\"\ncefr: \"A2\"\nwords: []\nphrases:\n  - handla-om\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Nu ska det handla om problem med spel.\n\n🇨🇳 接下来要谈的是赌博问题。\n\n## 结构 (Structure)\n\n```\n[Nu] [ska det handla om] [problem med spel]\n 时间     非人称构式             主题\n```\n\n## 语法点 (Grammar)\n\n- 📌 `det handlar om` = 是关于（话题过渡常用句）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[handla-om]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "接下来要谈的是赌博问题。",
+      "created": "2026-06-18",
+      "sentence": "Nu ska det handla om problem med spel.",
+      "words": [],
+      "phrases": [
+        "handla-om"
+      ],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-nu-ska-vi-se-hur-vädret-blir",
+      "type": "sentence",
+      "title": "🇸🇪 Nu ska vi se hur vädret blir under midsommarhelgen:",
+      "path": "knowledge_base/sentences/sent-nu-ska-vi-se-hur-vädret-blir.md",
+      "body": "# 🇸🇪 Nu ska vi se hur vädret blir under midsommarhelgen:\n\n🇨🇳 现在来看看仲夏节假期的天气如何：\n\n## 结构 (Structure)\n\n```\n[Nu] [ska vi se] [hur vädret blir under midsommarhelgen]\n 时间   主谓        indirekt fråga（间接疑问句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `hur vädret blir` = 间接疑问从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[midsommar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Nu ska vi se hur vädret blir under midsommarhelgen: 🇨🇳 现在来看看仲夏节假期的天气如何： 结构 (Structure) [Nu] [ska vi se] [hur vädret blir under midsommarhelgen] 时间 主谓 indirekt fråga（间接疑问句） 语法点 (Grammar) 📌 grammar bisats — hur väd",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "midsommar",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Nu ska vi se hur vädret blir under midsommarhelgen: sent-nu-ska-vi-se-hur-vädret-blir knowledge_base/sentences/sent-nu-ska-vi-se-hur-vädret-blir.md ---\ntype: sentence\nsentence: \"Nu ska vi se hur vädret blir under midsommarhelgen:\"\nzh: \"现在来看看仲夏节假期的天气如何：\"\ncefr: \"A2\"\nwords:\n  - midsommar\nphrases: []\ngrammar:\n  - grammar-bisats\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-vader-och-arstider\n  - topic-midsommar-traditioner\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Nu ska vi se hur vädret blir under midsommarhelgen:\n\n🇨🇳 现在来看看仲夏节假期的天气如何：\n\n## 结构 (Structure)\n\n```\n[Nu] [ska vi se] [hur vädret blir under midsommarhelgen]\n 时间   主谓        indirekt fråga（间接疑问句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `hur vädret blir` = 间接疑问从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[midsommar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "现在来看看仲夏节假期的天气如何：",
+      "created": "2026-06-18",
+      "sentence": "Nu ska vi se hur vädret blir under midsommarhelgen:",
+      "words": [
+        "midsommar"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-bisats"
+      ],
+      "topics": [
+        "topic-vader-och-arstider",
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-nyligen-hade-ländernas-ledare",
       "type": "sentence",
       "title": "🇸🇪 Nyligen hade ländernas ledare ett möte i Frankrike.",
@@ -16442,6 +17784,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-och-fotbollsspelare-är-tränade-till",
+      "type": "sentence",
+      "title": "🇸🇪 Och fotbollsspelare är tränade till att vinna.",
+      "path": "knowledge_base/sentences/sent-och-fotbollsspelare-är-tränade-till.md",
+      "body": "# 🇸🇪 Och fotbollsspelare är tränade till att vinna.\n\n🇨🇳 而足球运动员被训练成要赢。\n\n## 结构 (Structure)\n\n```\n[fotbollsspelare] [är tränade] [till att vinna]\n      主语           被动态           目的短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `tränade` = 被动状态（vara + particip passiv）\n- 📌 [[grammar-for-att-infinitiv]] — `till att vinna`（目的）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Och fotbollsspelare är tränade till att vinna. 🇨🇳 而足球运动员被训练成要赢。 结构 (Structure) [fotbollsspelare] [är tränade] [till att vinna] 主语 被动态 目的短语 语法点 (Grammar) 📌 grammar passiv med s — tränade = 被动状态（vara + particip pas",
+      "forms": [],
+      "links": [
+        "grammar-for-att-infinitiv",
+        "grammar-passiv-med-s",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Och fotbollsspelare är tränade till att vinna. sent-och-fotbollsspelare-är-tränade-till knowledge_base/sentences/sent-och-fotbollsspelare-är-tränade-till.md ---\ntype: sentence\nsentence: \"Och fotbollsspelare är tränade till att vinna.\"\nzh: \"而足球运动员被训练成要赢。\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-passiv-med-s\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Och fotbollsspelare är tränade till att vinna.\n\n🇨🇳 而足球运动员被训练成要赢。\n\n## 结构 (Structure)\n\n```\n[fotbollsspelare] [är tränade] [till att vinna]\n      主语           被动态           目的短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `tränade` = 被动状态（vara + particip passiv）\n- 📌 [[grammar-for-att-infinitiv]] — `till att vinna`（目的）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "而足球运动员被训练成要赢。",
+      "created": "2026-06-18",
+      "sentence": "Och fotbollsspelare är tränade till att vinna.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-passiv-med-s"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-och-haller-korta-vantetider-i-jamforelse",
       "type": "sentence",
       "title": "🇸🇪 och håller korta väntetider i jämförelse med nationella tal.",
@@ -16470,6 +17842,56 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-17-listening-svt-latt",
         "väntetid"
+      ]
+    },
+    {
+      "slug": "sent-och-han-vill-varna-andra",
+      "type": "sentence",
+      "title": "🇸🇪 och han vill varna andra.",
+      "path": "knowledge_base/sentences/sent-och-han-vill-varna-andra.md",
+      "body": "# 🇸🇪 och han vill varna andra.\n\n🇨🇳 他想警示他人。\n\n## 结构 (Structure)\n\n```\n[han] [vill] [varna] [andra]\n  主语   情态    动词    宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `vilja + infinitiv` = want to do\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 och han vill varna andra. 🇨🇳 他想警示他人。 结构 (Structure) [han] [vill] [varna] [andra] 主语 情态 动词 宾语 语法点 (Grammar) 📌 vilja + infinitiv = want to do 生词 & 词组 (Words & Phrases) 来源 (Source) source 2026 06 18 listening svt la",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 och han vill varna andra. sent-och-han-vill-varna-andra knowledge_base/sentences/sent-och-han-vill-varna-andra.md ---\ntype: sentence\nsentence: \"och han vill varna andra.\"\nzh: \"他想警示他人。\"\ncefr: \"A2\"\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 och han vill varna andra.\n\n🇨🇳 他想警示他人。\n\n## 结构 (Structure)\n\n```\n[han] [vill] [varna] [andra]\n  主语   情态    动词    宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `vilja + infinitiv` = want to do\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "他想警示他人。",
+      "created": "2026-06-18",
+      "sentence": "och han vill varna andra.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-och-hot-om-attacker-mot-ukrainska",
+      "type": "sentence",
+      "title": "🇸🇪 och hot om attacker mot ukrainska Zaporizjzja.",
+      "path": "knowledge_base/sentences/sent-och-hot-om-attacker-mot-ukrainska.md",
+      "body": "# 🇸🇪 och hot om attacker mot ukrainska Zaporizjzja.\n\n🇨🇳 以及对乌克兰扎波罗热的袭击威胁。\n\n## 结构 (Structure)\n\n```\n[och] [hot om attacker] [mot ukrainska Zaporizjzja]\n 连词       名词短语              介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 Fragment — continuation of previous sentence (同前句并列)\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 och hot om attacker mot ukrainska Zaporizjzja. 🇨🇳 以及对乌克兰扎波罗热的袭击威胁。 结构 (Structure) [och] [hot om attacker] [mot ukrainska Zaporizjzja] 连词 名词短语 介词短语 语法点 (Grammar) 📌 Fragment — continuation of previous sentence (同前句",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 och hot om attacker mot ukrainska Zaporizjzja. sent-och-hot-om-attacker-mot-ukrainska knowledge_base/sentences/sent-och-hot-om-attacker-mot-ukrainska.md ---\ntype: sentence\nsentence: \"och hot om attacker mot ukrainska Zaporizjzja.\"\nzh: \"以及对乌克兰扎波罗热的袭击威胁。\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 och hot om attacker mot ukrainska Zaporizjzja.\n\n🇨🇳 以及对乌克兰扎波罗热的袭击威胁。\n\n## 结构 (Structure)\n\n```\n[och] [hot om attacker] [mot ukrainska Zaporizjzja]\n 连词       名词短语              介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 Fragment — continuation of previous sentence (同前句并列)\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "以及对乌克兰扎波罗热的袭击威胁。",
+      "created": "2026-06-18",
+      "sentence": "och hot om attacker mot ukrainska Zaporizjzja.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -16502,6 +17924,96 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "source-2026-06-15-restaurang-fodelsedag"
+      ]
+    },
+    {
+      "slug": "sent-och-kanske-lite-regn-i-norr-mer-moln",
+      "type": "sentence",
+      "title": "🇸🇪 och kanske lite regn. I norr mer moln och regn på vissa platser.",
+      "path": "knowledge_base/sentences/sent-och-kanske-lite-regn-i-norr-mer-moln.md",
+      "body": "# 🇸🇪 och kanske lite regn. I norr mer moln och regn på vissa platser.\n\n🇨🇳 可能还有些小雨。北部云更多，部分地区有雨。\n\n## 结构 (Structure)\n\n```\n[och kanske lite regn] — 续前句\n[I norr] [mer moln och regn] [på vissa platser]\n  地点         宾语/主语              限定\n```\n\n## 语法点 (Grammar)\n\n- 📌 天气预报省略句型\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 och kanske lite regn. I norr mer moln och regn på vissa platser. 🇨🇳 可能还有些小雨。北部云更多，部分地区有雨。 结构 (Structure) [och kanske lite regn] — 续前句 [I norr] [mer moln och regn] [på vissa platser] 地点 宾语/主语 限定 语法点 (Grammar) 📌 天气",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 och kanske lite regn. I norr mer moln och regn på vissa platser. sent-och-kanske-lite-regn-i-norr-mer-moln knowledge_base/sentences/sent-och-kanske-lite-regn-i-norr-mer-moln.md ---\ntype: sentence\nsentence: \"och kanske lite regn. I norr mer moln och regn på vissa platser.\"\nzh: \"可能还有些小雨。北部云更多，部分地区有雨。\"\ncefr: \"A2\"\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-vader-och-arstider\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 och kanske lite regn. I norr mer moln och regn på vissa platser.\n\n🇨🇳 可能还有些小雨。北部云更多，部分地区有雨。\n\n## 结构 (Structure)\n\n```\n[och kanske lite regn] — 续前句\n[I norr] [mer moln och regn] [på vissa platser]\n  地点         宾语/主语              限定\n```\n\n## 语法点 (Grammar)\n\n- 📌 天气预报省略句型\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "可能还有些小雨。北部云更多，部分地区有雨。",
+      "created": "2026-06-18",
+      "sentence": "och kanske lite regn. I norr mer moln och regn på vissa platser.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-och-nästan-en-av-tio-tros-dessutom",
+      "type": "sentence",
+      "title": "🇸🇪 Och nästan en av tio tros dessutom ha problem med spelandet.",
+      "path": "knowledge_base/sentences/sent-och-nästan-en-av-tio-tros-dessutom.md",
+      "body": "# 🇸🇪 Och nästan en av tio tros dessutom ha problem med spelandet.\n\n🇨🇳 此外，估计近十分之一的人有赌博问题。\n\n## 结构 (Structure)\n\n```\n[nästan en av tio] [tros] [dessutom ha problem med spelandet]\n      主语           被动      satsadverbial + infinitivfras\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `tros` = s-passiv（被认为/估计）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[en-av-tio]] · [[spel-om-pengar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Och nästan en av tio tros dessutom ha problem med spelandet. 🇨🇳 此外，估计近十分之一的人有赌博问题。 结构 (Structure) [nästan en av tio] [tros] [dessutom ha problem med spelandet] 主语 被动 satsadverbial + infinitivfras 语法点 (Grammar) 📌 ",
+      "forms": [],
+      "links": [
+        "en-av-tio",
+        "grammar-passiv-med-s",
+        "source-2026-06-18-listening-svt-latt",
+        "spel-om-pengar"
+      ],
+      "searchText": "🇸🇪 Och nästan en av tio tros dessutom ha problem med spelandet. sent-och-nästan-en-av-tio-tros-dessutom knowledge_base/sentences/sent-och-nästan-en-av-tio-tros-dessutom.md ---\ntype: sentence\nsentence: \"Och nästan en av tio tros dessutom ha problem med spelandet.\"\nzh: \"此外，估计近十分之一的人有赌博问题。\"\ncefr: \"B1\"\nwords: []\nphrases:\n  - en-av-tio\n  - spel-om-pengar\ngrammar:\n  - grammar-passiv-med-s\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Och nästan en av tio tros dessutom ha problem med spelandet.\n\n🇨🇳 此外，估计近十分之一的人有赌博问题。\n\n## 结构 (Structure)\n\n```\n[nästan en av tio] [tros] [dessutom ha problem med spelandet]\n      主语           被动      satsadverbial + infinitivfras\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `tros` = s-passiv（被认为/估计）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[en-av-tio]] · [[spel-om-pengar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "此外，估计近十分之一的人有赌博问题。",
+      "created": "2026-06-18",
+      "sentence": "Och nästan en av tio tros dessutom ha problem med spelandet.",
+      "words": [],
+      "phrases": [
+        "en-av-tio",
+        "spel-om-pengar"
+      ],
+      "grammar": [
+        "grammar-passiv-med-s"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-och-usa-lovar-att-sluta-med-ekonomiska",
+      "type": "sentence",
+      "title": "🇸🇪 Och USA lovar att sluta med ekonomiska straff mot Iran.",
+      "path": "knowledge_base/sentences/sent-och-usa-lovar-att-sluta-med-ekonomiska.md",
+      "body": "# 🇸🇪 Och USA lovar att sluta med ekonomiska straff mot Iran.\n\n🇨🇳 而美国承诺停止对伊朗的经济制裁。\n\n## 结构 (Structure)\n\n```\n[USA] [lovar] [att sluta med ekonomiska straff mot Iran]\n  主语   动词                  att-sats宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `sluta med + substantiv` = 停止（某事）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[straff]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Och USA lovar att sluta med ekonomiska straff mot Iran. 🇨🇳 而美国承诺停止对伊朗的经济制裁。 结构 (Structure) [USA] [lovar] [att sluta med ekonomiska straff mot Iran] 主语 动词 att sats宾语 语法点 (Grammar) 📌 sluta med + substantiv = 停止（某事）",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt",
+        "straff"
+      ],
+      "searchText": "🇸🇪 Och USA lovar att sluta med ekonomiska straff mot Iran. sent-och-usa-lovar-att-sluta-med-ekonomiska knowledge_base/sentences/sent-och-usa-lovar-att-sluta-med-ekonomiska.md ---\ntype: sentence\nsentence: \"Och USA lovar att sluta med ekonomiska straff mot Iran.\"\nzh: \"而美国承诺停止对伊朗的经济制裁。\"\ncefr: \"B1\"\nwords:\n  - straff\nphrases: []\ngrammar: []\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-samhälle-och-politik\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Och USA lovar att sluta med ekonomiska straff mot Iran.\n\n🇨🇳 而美国承诺停止对伊朗的经济制裁。\n\n## 结构 (Structure)\n\n```\n[USA] [lovar] [att sluta med ekonomiska straff mot Iran]\n  主语   动词                  att-sats宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `sluta med + substantiv` = 停止（某事）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[straff]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "而美国承诺停止对伊朗的经济制裁。",
+      "created": "2026-06-18",
+      "sentence": "Och USA lovar att sluta med ekonomiska straff mot Iran.",
+      "words": [
+        "straff"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -16736,6 +18248,38 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "grammar-bruka-infinitiv"
+      ]
+    },
+    {
+      "slug": "sent-på-midsommardagen-blir-det-varmare",
+      "type": "sentence",
+      "title": "🇸🇪 På midsommardagen blir det varmare och kanske regn norrut i landet.",
+      "path": "knowledge_base/sentences/sent-på-midsommardagen-blir-det-varmare.md",
+      "body": "# 🇸🇪 På midsommardagen blir det varmare och kanske regn norrut i landet.\n\n🇨🇳 仲夏节当天会更暖，全国北部可能有雨。\n\n## 结构 (Structure)\n\n```\n[På midsommardagen] [blir det] [varmare] [och kanske regn norrut i landet]\n    时间状语（前置）      倒装      比较级          并列\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置\n- 📌 [[grammar-komparativ]] — `varmare` = 比较级\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 På midsommardagen blir det varmare och kanske regn norrut i landet. 🇨🇳 仲夏节当天会更暖，全国北部可能有雨。 结构 (Structure) [På midsommardagen] [blir det] [varmare] [och kanske regn norrut i landet] 时间状语（前置） 倒装 比较级 并列 语法点 (Grammar) ",
+      "forms": [],
+      "links": [
+        "grammar-komparativ",
+        "grammar-v2-ordfoljd",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 På midsommardagen blir det varmare och kanske regn norrut i landet. sent-på-midsommardagen-blir-det-varmare knowledge_base/sentences/sent-på-midsommardagen-blir-det-varmare.md ---\ntype: sentence\nsentence: \"På midsommardagen blir det varmare och kanske regn norrut i landet.\"\nzh: \"仲夏节当天会更暖，全国北部可能有雨。\"\ncefr: \"A2\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-v2-ordfoljd\n  - grammar-komparativ\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-vader-och-arstider\n  - topic-midsommar-traditioner\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 På midsommardagen blir det varmare och kanske regn norrut i landet.\n\n🇨🇳 仲夏节当天会更暖，全国北部可能有雨。\n\n## 结构 (Structure)\n\n```\n[På midsommardagen] [blir det] [varmare] [och kanske regn norrut i landet]\n    时间状语（前置）      倒装      比较级          并列\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置\n- 📌 [[grammar-komparativ]] — `varmare` = 比较级\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "仲夏节当天会更暖，全国北部可能有雨。",
+      "created": "2026-06-18",
+      "sentence": "På midsommardagen blir det varmare och kanske regn norrut i landet.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-komparativ"
+      ],
+      "topics": [
+        "topic-vader-och-arstider",
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -17195,6 +18739,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-problemet-är-också-stort-bland-dem",
+      "type": "sentence",
+      "title": "🇸🇪 Problemet är också stort bland dem som är under 18 år.",
+      "path": "knowledge_base/sentences/sent-problemet-är-också-stort-bland-dem.md",
+      "body": "# 🇸🇪 Problemet är också stort bland dem som är under 18 år.\n\n🇨🇳 在 18 岁以下的人群中，这个问题也很严重。\n\n## 结构 (Structure)\n\n```\n[Problemet] [är] [också] [stort] [bland dem som är under 18 år]\n    主语      动词   副词   表语               介词短语+关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `som är under 18 år` = 关系从句\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Problemet är också stort bland dem som är under 18 år. 🇨🇳 在 18 岁以下的人群中，这个问题也很严重。 结构 (Structure) [Problemet] [är] [också] [stort] [bland dem som är under 18 år] 主语 动词 副词 表语 介词短语+关系从句 语法点 (Grammar) 📌 grammar bisats",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Problemet är också stort bland dem som är under 18 år. sent-problemet-är-också-stort-bland-dem knowledge_base/sentences/sent-problemet-är-också-stort-bland-dem.md ---\ntype: sentence\nsentence: \"Problemet är också stort bland dem som är under 18 år.\"\nzh: \"在 18 岁以下的人群中，这个问题也很严重。\"\ncefr: \"A2\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-bisats\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Problemet är också stort bland dem som är under 18 år.\n\n🇨🇳 在 18 岁以下的人群中，这个问题也很严重。\n\n## 结构 (Structure)\n\n```\n[Problemet] [är] [också] [stort] [bland dem som är under 18 år]\n    主语      动词   副词   表语               介词短语+关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `som är under 18 år` = 关系从句\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "在 18 岁以下的人群中，这个问题也很严重。",
+      "created": "2026-06-18",
+      "sentence": "Problemet är också stort bland dem som är under 18 år.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-bisats"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-rakt-fram-ser-jag-ett-torg",
       "type": "sentence",
       "title": "🇸🇈 Rakt fram ser jag ett torg.",
@@ -17277,6 +18848,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-redan-som-tonåring-blev-babis-stefanidis",
+      "type": "sentence",
+      "title": "🇸🇪 Redan som tonåring blev Babis Stefanidis proffs utomlands.",
+      "path": "knowledge_base/sentences/sent-redan-som-tonåring-blev-babis-stefanidis.md",
+      "body": "# 🇸🇪 Redan som tonåring blev Babis Stefanidis proffs utomlands.\n\n🇨🇳 巴比斯·斯特凡尼迪斯十几岁时就已在国外成为职业球员。\n\n## 结构 (Structure)\n\n```\n[Redan som tonåring] [blev] [Babis Stefanidis] [proffs] [utomlands]\n    时间状语             动词        主语（倒装）     表语       地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间短语前置 → 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[proffs]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Redan som tonåring blev Babis Stefanidis proffs utomlands. 🇨🇳 巴比斯·斯特凡尼迪斯十几岁时就已在国外成为职业球员。 结构 (Structure) [Redan som tonåring] [blev] [Babis Stefanidis] [proffs] [utomlands] 时间状语 动词 主语（倒装） 表语 地点 语法点 (Grammar) 📌 gra",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "proffs",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Redan som tonåring blev Babis Stefanidis proffs utomlands. sent-redan-som-tonåring-blev-babis-stefanidis knowledge_base/sentences/sent-redan-som-tonåring-blev-babis-stefanidis.md ---\ntype: sentence\nsentence: \"Redan som tonåring blev Babis Stefanidis proffs utomlands.\"\nzh: \"巴比斯·斯特凡尼迪斯十几岁时就已在国外成为职业球员。\"\ncefr: \"B1\"\nwords:\n  - proffs\nphrases: []\ngrammar:\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Redan som tonåring blev Babis Stefanidis proffs utomlands.\n\n🇨🇳 巴比斯·斯特凡尼迪斯十几岁时就已在国外成为职业球员。\n\n## 结构 (Structure)\n\n```\n[Redan som tonåring] [blev] [Babis Stefanidis] [proffs] [utomlands]\n    时间状语             动词        主语（倒装）     表语       地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间短语前置 → 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[proffs]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "巴比斯·斯特凡尼迪斯十几岁时就已在国外成为职业球员。",
+      "created": "2026-06-18",
+      "sentence": "Redan som tonåring blev Babis Stefanidis proffs utomlands.",
+      "words": [
+        "proffs"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-regeringen-vill-halvera-priset",
       "type": "sentence",
       "title": "🇸🇪 Regeringen vill halvera priset på månadskort i kollektivtrafiken.",
@@ -17342,6 +18945,37 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-samtidigt-har-det-under-natten-varit",
+      "type": "sentence",
+      "title": "🇸🇪 Samtidigt har det under natten varit flera ryska attacker mot Kiev",
+      "path": "knowledge_base/sentences/sent-samtidigt-har-det-under-natten-varit.md",
+      "body": "# 🇸🇪 Samtidigt har det under natten varit flera ryska attacker mot Kiev\n\n🇨🇳 与此同时，夜间发生了多起俄罗斯对基辅的袭击，\n\n## 结构 (Structure)\n\n```\n[Samtidigt] [har det] [under natten] [varit] [flera ryska attacker mot Kiev]\n  时间副词    perfekt     时间短语       动词             主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har det ... varit` = existential perfect\n- 📌 [[grammar-v2-ordfoljd]] — `Samtidigt` 前置 → 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Samtidigt har det under natten varit flera ryska attacker mot Kiev 🇨🇳 与此同时，夜间发生了多起俄罗斯对基辅的袭击， 结构 (Structure) [Samtidigt] [har det] [under natten] [varit] [flera ryska attacker mot Kiev] 时间副词 perfekt 时间短语 动词 主语（倒装） ",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "grammar-v2-ordfoljd",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Samtidigt har det under natten varit flera ryska attacker mot Kiev sent-samtidigt-har-det-under-natten-varit knowledge_base/sentences/sent-samtidigt-har-det-under-natten-varit.md ---\ntype: sentence\nsentence: \"Samtidigt har det under natten varit flera ryska attacker mot Kiev\"\nzh: \"与此同时，夜间发生了多起俄罗斯对基辅的袭击，\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-perfekt\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Samtidigt har det under natten varit flera ryska attacker mot Kiev\n\n🇨🇳 与此同时，夜间发生了多起俄罗斯对基辅的袭击，\n\n## 结构 (Structure)\n\n```\n[Samtidigt] [har det] [under natten] [varit] [flera ryska attacker mot Kiev]\n  时间副词    perfekt     时间短语       动词             主语（倒装）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har det ... varit` = existential perfect\n- 📌 [[grammar-v2-ordfoljd]] — `Samtidigt` 前置 → 倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "与此同时，夜间发生了多起俄罗斯对基辅的袭击，",
+      "created": "2026-06-18",
+      "sentence": "Samtidigt har det under natten varit flera ryska attacker mot Kiev",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -17654,6 +19288,37 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-sen-kom-han-tillbaka-till-sverige",
+      "type": "sentence",
+      "title": "🇸🇪 Sen kom han tillbaka till Sverige och spelade i allsvenskan.",
+      "path": "knowledge_base/sentences/sent-sen-kom-han-tillbaka-till-sverige.md",
+      "body": "# 🇸🇪 Sen kom han tillbaka till Sverige och spelade i allsvenskan.\n\n🇨🇳 后来他回到瑞典，在瑞典超级联赛（Allsvenskan）踢球。\n\n## 结构 (Structure)\n\n```\n[Sen] [kom han tillbaka] [till Sverige] [och spelade] [i allsvenskan]\n 副词     preteritum        目的地           并列动词          地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `kom`, `spelade` = 过去时\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Sen kom han tillbaka till Sverige och spelade i allsvenskan. 🇨🇳 后来他回到瑞典，在瑞典超级联赛（Allsvenskan）踢球。 结构 (Structure) [Sen] [kom han tillbaka] [till Sverige] [och spelade] [i allsvenskan] 副词 preteritum 目的地 并列动词 地点 语法点 (G",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Sen kom han tillbaka till Sverige och spelade i allsvenskan. sent-sen-kom-han-tillbaka-till-sverige knowledge_base/sentences/sent-sen-kom-han-tillbaka-till-sverige.md ---\ntype: sentence\nsentence: \"Sen kom han tillbaka till Sverige och spelade i allsvenskan.\"\nzh: \"后来他回到瑞典，在瑞典超级联赛（Allsvenskan）踢球。\"\ncefr: \"A2\"\nwords: []\nphrases:\n  - gå-tillbaka\ngrammar:\n  - grammar-preteritum\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-fotboll\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Sen kom han tillbaka till Sverige och spelade i allsvenskan.\n\n🇨🇳 后来他回到瑞典，在瑞典超级联赛（Allsvenskan）踢球。\n\n## 结构 (Structure)\n\n```\n[Sen] [kom han tillbaka] [till Sverige] [och spelade] [i allsvenskan]\n 副词     preteritum        目的地           并列动词          地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `kom`, `spelade` = 过去时\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "后来他回到瑞典，在瑞典超级联赛（Allsvenskan）踢球。",
+      "created": "2026-06-18",
+      "sentence": "Sen kom han tillbaka till Sverige och spelade i allsvenskan.",
+      "words": [],
+      "phrases": [
+        "gå-tillbaka"
+      ],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-självklart-du-kan-betala-här-vid",
       "type": "sentence",
       "title": "🇸🇪 Självklart, du kan betala här vid bordet. Tack och välkommen åter!",
@@ -17840,6 +19505,32 @@ window.KB_DATA = {
         "skynda",
         "skynda-dig",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "sent-snart-kommer-det-att-vända",
+      "type": "sentence",
+      "title": "🇸🇪 Snart kommer det att vända. Men det gör inte det.",
+      "path": "knowledge_base/sentences/sent-snart-kommer-det-att-vända.md",
+      "body": "# 🇸🇪 Snart kommer det att vända. Men det gör inte det.\n\n🇨🇳 很快就会翻盘。但其实并不会。\n\n## 结构 (Structure)\n\n```\n[Snart] [kommer det att vända]\n  副词       将来时结构\n\n[Men] [det] [gör] [inte] [det]\n  连词  主语   动词   否定   指代宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `kommer att + infinitiv` = 将会（将来时）\n- 📌 `det gör inte det` = 省略回指结构（否定前句）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Snart kommer det att vända. Men det gör inte det. 🇨🇳 很快就会翻盘。但其实并不会。 结构 (Structure) [Snart] [kommer det att vända] 副词 将来时结构 [Men] [det] [gör] [inte] [det] 连词 主语 动词 否定 指代宾语 语法点 (Grammar) 📌 kommer att + infinitiv = ",
+      "forms": [],
+      "links": [
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Snart kommer det att vända. Men det gör inte det. sent-snart-kommer-det-att-vända knowledge_base/sentences/sent-snart-kommer-det-att-vända.md ---\ntype: sentence\nsentence: \"Snart kommer det att vända. Men det gör inte det.\"\nzh: \"很快就会翻盘。但其实并不会。\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-ska-infinitiv\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Snart kommer det att vända. Men det gör inte det.\n\n🇨🇳 很快就会翻盘。但其实并不会。\n\n## 结构 (Structure)\n\n```\n[Snart] [kommer det att vända]\n  副词       将来时结构\n\n[Men] [det] [gör] [inte] [det]\n  连词  主语   动词   否定   指代宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `kommer att + infinitiv` = 将会（将来时）\n- 📌 `det gör inte det` = 省略回指结构（否定前句）\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "很快就会翻盘。但其实并不会。",
+      "created": "2026-06-18",
+      "sentence": "Snart kommer det att vända. Men det gör inte det.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-ska-infinitiv"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -18032,6 +19723,40 @@ window.KB_DATA = {
       "backlinks": [
         "intensiv",
         "sommar"
+      ]
+    },
+    {
+      "slug": "sent-söndagen-blir-dock-torr-och-solig",
+      "type": "sentence",
+      "title": "🇸🇪 Söndagen blir dock torr och solig i söder och regnigare i norr.",
+      "path": "knowledge_base/sentences/sent-söndagen-blir-dock-torr-och-solig.md",
+      "body": "# 🇸🇪 Söndagen blir dock torr och solig i söder och regnigare i norr.\n\n🇨🇳 不过周日南部干燥晴朗，北部则雨水较多。\n\n## 结构 (Structure)\n\n```\n[Söndagen] [blir] [dock] [torr och solig i söder] [och regnigare i norr]\n    主语      动词  副词（转折）     表语1                    表语2（比较级）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-satsadverbial]] — `dock` = 然而（转折）\n- 📌 [[grammar-komparativ]] — `regnigare` = 比较级\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[solig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Söndagen blir dock torr och solig i söder och regnigare i norr. 🇨🇳 不过周日南部干燥晴朗，北部则雨水较多。 结构 (Structure) [Söndagen] [blir] [dock] [torr och solig i söder] [och regnigare i norr] 主语 动词 副词（转折） 表语1 表语2（比较级） 语法点 (Grammar",
+      "forms": [],
+      "links": [
+        "grammar-komparativ",
+        "grammar-satsadverbial",
+        "solig",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Söndagen blir dock torr och solig i söder och regnigare i norr. sent-söndagen-blir-dock-torr-och-solig knowledge_base/sentences/sent-söndagen-blir-dock-torr-och-solig.md ---\ntype: sentence\nsentence: \"Söndagen blir dock torr och solig i söder och regnigare i norr.\"\nzh: \"不过周日南部干燥晴朗，北部则雨水较多。\"\ncefr: \"A2\"\nwords:\n  - solig\nphrases: []\ngrammar:\n  - grammar-satsadverbial\n  - grammar-komparativ\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-vader-och-arstider\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Söndagen blir dock torr och solig i söder och regnigare i norr.\n\n🇨🇳 不过周日南部干燥晴朗，北部则雨水较多。\n\n## 结构 (Structure)\n\n```\n[Söndagen] [blir] [dock] [torr och solig i söder] [och regnigare i norr]\n    主语      动词  副词（转折）     表语1                    表语2（比较级）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-satsadverbial]] — `dock` = 然而（转折）\n- 📌 [[grammar-komparativ]] — `regnigare` = 比较级\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[solig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "不过周日南部干燥晴朗，北部则雨水较多。",
+      "created": "2026-06-18",
+      "sentence": "Söndagen blir dock torr och solig i söder och regnigare i norr.",
+      "words": [
+        "solig"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-satsadverbial",
+        "grammar-komparativ"
+      ],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -18324,6 +20049,42 @@ window.KB_DATA = {
         "mitt-emot-soffan",
         "på-väggen",
         "source-2026-06-09-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "sent-tidigt-i-morse-brann-det-i-en",
+      "type": "sentence",
+      "title": "🇸🇪 Tidigt i morse brann det i en byggnad där man hanterar olja.",
+      "path": "knowledge_base/sentences/sent-tidigt-i-morse-brann-det-i-en.md",
+      "body": "# 🇸🇪 Tidigt i morse brann det i en byggnad där man hanterar olja.\n\n🇨🇳 今天清晨，一座处理石油的建筑发生了火灾。\n\n## 结构 (Structure)\n\n```\n[Tidigt i morse] [brann det] [i en byggnad] [där man hanterar olja]\n   时间状语          主谓倒装      地点              关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置 → 倒装 (brann det)\n- 📌 `det brinner/brann` = 非人称用法，表示\"起火了\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[brinna]] · [[byggnad]] · [[olja]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Tidigt i morse brann det i en byggnad där man hanterar olja. 🇨🇳 今天清晨，一座处理石油的建筑发生了火灾。 结构 (Structure) [Tidigt i morse] [brann det] [i en byggnad] [där man hanterar olja] 时间状语 主谓倒装 地点 关系从句 语法点 (Grammar) 📌 grammar v2",
+      "forms": [],
+      "links": [
+        "brinna",
+        "byggnad",
+        "grammar-v2-ordfoljd",
+        "olja",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Tidigt i morse brann det i en byggnad där man hanterar olja. sent-tidigt-i-morse-brann-det-i-en knowledge_base/sentences/sent-tidigt-i-morse-brann-det-i-en.md ---\ntype: sentence\nsentence: \"Tidigt i morse brann det i en byggnad där man hanterar olja.\"\nzh: \"今天清晨，一座处理石油的建筑发生了火灾。\"\ncefr: \"B1\"\nwords:\n  - brinna\n  - byggnad\n  - olja\nphrases: []\ngrammar:\n  - grammar-v2-ordfoljd\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Tidigt i morse brann det i en byggnad där man hanterar olja.\n\n🇨🇳 今天清晨，一座处理石油的建筑发生了火灾。\n\n## 结构 (Structure)\n\n```\n[Tidigt i morse] [brann det] [i en byggnad] [där man hanterar olja]\n   时间状语          主谓倒装      地点              关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置 → 倒装 (brann det)\n- 📌 `det brinner/brann` = 非人称用法，表示\"起火了\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[brinna]] · [[byggnad]] · [[olja]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "今天清晨，一座处理石油的建筑发生了火灾。",
+      "created": "2026-06-18",
+      "sentence": "Tidigt i morse brann det i en byggnad där man hanterar olja.",
+      "words": [
+        "brinna",
+        "byggnad",
+        "olja"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -18793,6 +20554,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-usas-och-irans-presidenter-har-skrivit",
+      "type": "sentence",
+      "title": "🇸🇪 USA:s och Irans presidenter har skrivit under ett avtal.",
+      "path": "knowledge_base/sentences/sent-usas-och-irans-presidenter-har-skrivit.md",
+      "body": "# 🇸🇪 USA:s och Irans presidenter har skrivit under ett avtal.\n\n🇨🇳 美国和伊朗的总统签署了一项协议。\n\n## 结构 (Structure)\n\n```\n[USA:s och Irans presidenter] [har skrivit under] [ett avtal]\n       主语（复数）              动词（perfekt）        宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har skrivit under` = perfekt av partikelverbet `skriva under`\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[avtal]]\n- 词组: [[skriva-under]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 USA:s och Irans presidenter har skrivit under ett avtal. 🇨🇳 美国和伊朗的总统签署了一项协议。 结构 (Structure) [USA:s och Irans presidenter] [har skrivit under] [ett avtal] 主语（复数） 动词（perfekt） 宾语 语法点 (Grammar) 📌 grammar perfekt — ha",
+      "forms": [],
+      "links": [
+        "avtal",
+        "grammar-perfekt",
+        "skriva-under",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 USA:s och Irans presidenter har skrivit under ett avtal. sent-usas-och-irans-presidenter-har-skrivit knowledge_base/sentences/sent-usas-och-irans-presidenter-har-skrivit.md ---\ntype: sentence\nsentence: \"USA:s och Irans presidenter har skrivit under ett avtal.\"\nzh: \"美国和伊朗的总统签署了一项协议。\"\ncefr: \"A2\"\nwords:\n  - avtal\nphrases:\n  - skriva-under\ngrammar:\n  - grammar-perfekt\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-samhälle-och-politik\n  - topic-krig-och-konflikt\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 USA:s och Irans presidenter har skrivit under ett avtal.\n\n🇨🇳 美国和伊朗的总统签署了一项协议。\n\n## 结构 (Structure)\n\n```\n[USA:s och Irans presidenter] [har skrivit under] [ett avtal]\n       主语（复数）              动词（perfekt）        宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har skrivit under` = perfekt av partikelverbet `skriva under`\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[avtal]]\n- 词组: [[skriva-under]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "美国和伊朗的总统签署了一项协议。",
+      "created": "2026-06-18",
+      "sentence": "USA:s och Irans presidenter har skrivit under ett avtal.",
+      "words": [
+        "avtal"
+      ],
+      "phrases": [
+        "skriva-under"
+      ],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "skriva-under",
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-utanfor-kafeet-star-tre-bankar-sitter-par-manniskor",
       "type": "sentence",
       "title": "🇸🇪 Utanför kaféet står det tre bänkar, och på bänkarna sitter ett par människor och dricker kaffe.",
@@ -19044,6 +20842,39 @@ window.KB_DATA = {
         "lägga-till-dricks",
         "source-2026-06-15-restaurang-allergi-nota",
         "var-sin-del"
+      ]
+    },
+    {
+      "slug": "sent-var-som-värst-under-2023",
+      "type": "sentence",
+      "title": "🇸🇪 var som värst under 2023. Han själv har nekat till brotten.",
+      "path": "knowledge_base/sentences/sent-var-som-värst-under-2023.md",
+      "body": "# 🇸🇪 var som värst under 2023. Han själv har nekat till brotten.\n\n🇨🇳 在 2023 年最为激烈。他本人否认了这些罪行。\n\n## 结构 (Structure)\n\n```\n[var som värst] [under 2023]  — 续前句\n[Han själv] [har nekat] [till brotten]\n    主语       perfekt      介词宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har nekat`\n- 📌 `var som värst` = 最严重的时候（固定结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[neka-till-brott]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 var som värst under 2023. Han själv har nekat till brotten. 🇨🇳 在 2023 年最为激烈。他本人否认了这些罪行。 结构 (Structure) [var som värst] [under 2023] — 续前句 [Han själv] [har nekat] [till brotten] 主语 perfekt 介词宾语 语法点 (Grammar) 📌 gra",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "neka-till-brott",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 var som värst under 2023. Han själv har nekat till brotten. sent-var-som-värst-under-2023 knowledge_base/sentences/sent-var-som-värst-under-2023.md ---\ntype: sentence\nsentence: \"var som värst under 2023. Han själv har nekat till brotten.\"\nzh: \"在 2023 年最为激烈。他本人否认了这些罪行。\"\ncefr: \"B1\"\nwords: []\nphrases:\n  - neka-till-brott\ngrammar:\n  - grammar-perfekt\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics:\n  - topic-samhälle-och-politik\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 var som värst under 2023. Han själv har nekat till brotten.\n\n🇨🇳 在 2023 年最为激烈。他本人否认了这些罪行。\n\n## 结构 (Structure)\n\n```\n[var som värst] [under 2023]  — 续前句\n[Han själv] [har nekat] [till brotten]\n    主语       perfekt      介词宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har nekat`\n- 📌 `var som värst` = 最严重的时候（固定结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[neka-till-brott]]\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "在 2023 年最为激烈。他本人否认了这些罪行。",
+      "created": "2026-06-18",
+      "sentence": "var som värst under 2023. Han själv har nekat till brotten.",
+      "words": [],
+      "phrases": [
+        "neka-till-brott"
+      ],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "neka-till-brott",
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -19348,6 +21179,35 @@ window.KB_DATA = {
       "backlinks": [
         "mousserande-vin",
         "source-2026-06-15-restaurang-fodelsedag"
+      ]
+    },
+    {
+      "slug": "sent-vi-har-träffat-en-av-dem-som-hade",
+      "type": "sentence",
+      "title": "🇸🇪 Vi har träffat en av dem som hade såna här problem.",
+      "path": "knowledge_base/sentences/sent-vi-har-träffat-en-av-dem-som-hade.md",
+      "body": "# 🇸🇪 Vi har träffat en av dem som hade såna här problem.\n\n🇨🇳 我们采访了其中一位曾有这类问题的人。\n\n## 结构 (Structure)\n\n```\n[Vi] [har träffat] [en av dem] [som hade såna här problem]\n  主语    perfekt       宾语           关系从句（过去时）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har träffat`\n- 📌 [[grammar-bisats]] — `som hade såna här problem`\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Vi har träffat en av dem som hade såna här problem. 🇨🇳 我们采访了其中一位曾有这类问题的人。 结构 (Structure) [Vi] [har träffat] [en av dem] [som hade såna här problem] 主语 perfekt 宾语 关系从句（过去时） 语法点 (Grammar) 📌 grammar perfekt — har tr",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "grammar-perfekt",
+        "source-2026-06-18-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Vi har träffat en av dem som hade såna här problem. sent-vi-har-träffat-en-av-dem-som-hade knowledge_base/sentences/sent-vi-har-träffat-en-av-dem-som-hade.md ---\ntype: sentence\nsentence: \"Vi har träffat en av dem som hade såna här problem.\"\nzh: \"我们采访了其中一位曾有这类问题的人。\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar:\n  - grammar-perfekt\n  - grammar-bisats\nsource: \"source-2026-06-18-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vi har träffat en av dem som hade såna här problem.\n\n🇨🇳 我们采访了其中一位曾有这类问题的人。\n\n## 结构 (Structure)\n\n```\n[Vi] [har träffat] [en av dem] [som hade såna här problem]\n  主语    perfekt       宾语           关系从句（过去时）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har träffat`\n- 📌 [[grammar-bisats]] — `som hade såna här problem`\n\n## 生词 & 词组 (Words & Phrases)\n\n-\n\n## 来源 (Source)\n\n- [[source-2026-06-18-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "我们采访了其中一位曾有这类问题的人。",
+      "created": "2026-06-18",
+      "sentence": "Vi har träffat en av dem som hade såna här problem.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt",
+        "grammar-bisats"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -23496,6 +25356,243 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-18-listening-svt-latt",
+      "type": "source",
+      "title": "SVT Nyheter på lätt svenska 2026-06-18",
+      "path": "knowledge_base/sources/source-2026-06-18-listening-svt-latt.md",
+      "body": "# 📄 SVT Nyheter på lätt svenska 2026-06-18\n\n类型: listening · 难度: A2–B1\n\n## 原文 (Source Text)\n\n```\nHej och välkommen till Nyheter på lätt svenska.\nUSA:s och Irans presidenter har skrivit under ett avtal.\nDe lovar att sluta kriga i 60 dagar. Även striderna i Libanon ska pausas.\nIran ska öppna sundet i Hormuz genast så att fartyg kan börja åka igen.\nI avtalet lovar Iran bland annat att inte ha kärnvapen.\nOch USA lovar att sluta med ekonomiska straff mot Iran.\nFlera experter säger att det är Iran som är vinnare på avtalet.\nIdag har det varit flera ukrainska attacker med drönare mot Moskva.\nTidigt i morse brann det i en byggnad där man hanterar olja.\nDet här rapporterar lokala ryska myndigheter.\nÄven flera hus med lägenheter verkar ha träffats.\nSamtidigt har det under natten varit flera ryska attacker mot Kiev\noch hot om attacker mot ukrainska Zaporizjzja.\nNu ska det handla om problem med spel.\nFör en av tio unga fotbollsspelare som spelar på elitnivå\nhar problem med spel om pengar. Det här visar en ny undersökning.\nVi har träffat en av dem som hade såna här problem.\nRedan som tonåring blev Babis Stefanidis proffs utomlands.\nSen kom han tillbaka till Sverige och spelade i allsvenskan.\nBakom framgången fanns ett hemligt problem med spelande om pengar.\nDu har mycket tid, du är fotbollsspelare, du har mycket pengar.\nOch fotbollsspelare är tränade till att vinna.\nI spelbranschen tror man:\n\"Jag har ju vunnit SM-guld. Klart att jag kan vinna över de här bolagen.\"\n\"Snart kommer det att vända. Men det gör inte det.\"\nFler än tre av tio unga manliga elitfotbollsspelare\nhar spelat om pengar i nån form det senaste året.\nDet visar en ny undersökning från Karolinska institutet.\nOch nästan en av tio tros dessutom ha problem med spelandet.\nProblemet är också stort bland dem som är under 18 år.\nFöreningen Svensk elitfotboll har nu startat utbildningar om spel\nför att hjälpa sina medlemmar.\nDet är viktigt att skapa en kultur\ndär alla har så stor förståelse som möjligt\nför att det kan leda till missbruk också. Där har vi jättestort ansvar.\nIdag är Babis Stefanidis fri från spel, men skulderna finns kvar\noch han vill varna andra.\nDet är inte värt det fram i tiden. Konsekvenserna blir ju enorma.\nIdag dömdes en av Foxtrots högsta ledare till livstids fängelse.\nHan heter Poya Shafie och är 30 år.\nFrån utlandet beställde han mord och sprängningar\nnär konflikten mellan gängen Foxtrot och Dalennätverket\nvar som värst under 2023. Han själv har nekat till brotten.\nNu ska vi se hur vädret blir under midsommarhelgen:\nImorgon på midsommarafton, blir det både molnigt och varmt i söder\noch kanske lite regn. I norr mer moln och regn på vissa platser.\nPå midsommardagen blir det varmare och kanske regn norrut i landet.\nI söder kommer både regn eller åska som kan vara kraftiga.\nSöndagen blir dock torr och solig i söder och regnigare i norr.\nDet var allt för den här veckan.\nMen Nyheter på lätt svenska är tillbaka igen på måndag.\nDå på den nya tiden klockan 17.25.\nNu önskar vi er alla en riktigt trevlig midsommar. Tack för oss!\n```\n\n## 全文翻译 (Translation)\n\n🇨🇳 你好，欢迎收看《简易瑞典语新闻》。美国和伊朗的总统签署了一项协议，承诺停战 60 天，黎巴嫩的战斗也将暂停；伊朗将立即开放霍尔木兹海峡让船只通行，并承诺不拥有核武器，美国则承诺停止对伊经济制裁——多位专家认为伊朗才是赢家。今天乌克兰用无人机多次袭击莫斯科，清晨一座炼油建筑起火，多栋公寓楼似乎也被击中；夜间俄罗斯也多次袭击基辅，并威胁袭击扎波罗热。体育/社会：每十名年轻精英足球运动员就有一人有赌钱问题。前职业球员 Babis Stefanidis 讲述了自己隐秘的赌博经历——卡罗林斯卡学院的新调查显示，超过十分之三的年轻男性精英球员过去一年赌过钱，近十分之一有赌博问题，18 岁以下也很严重；瑞典精英足球协会已开设相关培训。今天 Foxtrot 犯罪团伙头目 Poya Shafie（30 岁）因在国外下令谋杀与爆炸被判终身监禁，他否认罪行。天气：仲夏节前夜南部多云温暖或有小雨，北部多云有雨；仲夏节当天更暖，南部有强雨或雷暴；周日南部干燥晴朗，北部多雨。《简易瑞典语新闻》周一回归，新时间 17:25。祝大家仲夏节快乐！\n\n## 提取 (Extracted → linked notes)\n\n- 生词 (新): [[avtal]] · [[kriga]] · [[fartyg]] · [[kärnvapen]] · [[straff]] · [[drönare]] · [[brinna]] · [[undersökning]] · [[skuld]] · [[missbruk]] · [[sprängning]] · [[åska]]\n- 生词 (已存): [[sund]] · [[myndighet]] · [[döma]]\n- 词组 (新): [[skriva-under]] · [[spel-om-pengar]] · [[livstids-fängelse]] · [[neka-till-brott]] · [[vara-värt-det]] · [[en-av-tio]]\n- 语法 (已存): [[grammar-passiv-med-s]] · [[grammar-perfekt]]\n- 主题: [[topic-krig-och-konflikt]] (新) · [[topic-samhälle-och-politik]] · [[topic-vader-och-arstider]] · [[topic-hälsa]] · [[topic-fotboll]]",
+      "excerpt": "📄 SVT Nyheter på lätt svenska 2026 06 18 类型: listening · 难度: A2–B1 原文 (Source Text) Hej och välkommen till Nyheter på lätt svenska. USA:s och Irans presidenter har skrivit under ett avtal. De lovar att sluta kriga i 60 ",
+      "forms": [],
+      "links": [
+        "åska",
+        "avtal",
+        "brinna",
+        "döma",
+        "drönare",
+        "en-av-tio",
+        "fartyg",
+        "grammar-passiv-med-s",
+        "grammar-perfekt",
+        "kärnvapen",
+        "kriga",
+        "livstids-fängelse",
+        "missbruk",
+        "myndighet",
+        "neka-till-brott",
+        "sent-även-flera-hus-med-lägenheter-verkar",
+        "sent-bakom-framgången-fanns-ett-hemligt",
+        "sent-då-på-den-nya-tiden-klockan-1725",
+        "sent-där-alla-har-så-stor-förståelse",
+        "sent-de-lovar-att-sluta-kriga-i-60-dagar",
+        "sent-det-är-inte-värt-det-fram-i-tiden",
+        "sent-det-är-viktigt-att-skapa-en-kultur",
+        "sent-det-här-rapporterar-lokala-ryska",
+        "sent-det-var-allt-för-den-här-veckan",
+        "sent-det-visar-en-ny-undersökning-från-karolinska",
+        "sent-du-har-mycket-tid-du-är-fotbollsspelare",
+        "sent-fler-än-tre-av-tio-unga-manliga",
+        "sent-flera-experter-säger-att-det-är-iran",
+        "sent-för-att-det-kan-leda-till-missbruk",
+        "sent-för-att-hjälpa-sina-medlemmar",
+        "sent-för-en-av-tio-unga-fotbollsspelare",
+        "sent-föreningen-svensk-elitfotboll-har-nu",
+        "sent-från-utlandet-beställde-han-mord",
+        "sent-han-heter-poya-shafie-och-är-30-år",
+        "sent-har-problem-med-spel-om-pengar",
+        "sent-har-spelat-om-pengar-i-nån-form",
+        "sent-hej-och-välkommen-till-nyheter",
+        "sent-i-avtalet-lovar-iran-bland-annat",
+        "sent-i-söder-kommer-både-regn-eller-åska",
+        "sent-i-spelbranschen-tror-man",
+        "sent-idag-är-babis-stefanidis-fri-från-spel",
+        "sent-idag-dömdes-en-av-foxtrots-högsta",
+        "sent-idag-har-det-varit-flera-ukrainska",
+        "sent-imorgon-på-midsommarafton-blir-det",
+        "sent-iran-ska-öppna-sundet-i-hormuz-genast",
+        "sent-jag-har-ju-vunnit-sm-guld",
+        "sent-men-nyheter-på-lätt-svenska-är-tillbaka",
+        "sent-när-konflikten-mellan-gängen-foxtrot",
+        "sent-nu-önskar-vi-er-alla-en-riktigt",
+        "sent-nu-ska-det-handla-om-problem-med-spel",
+        "sent-nu-ska-vi-se-hur-vädret-blir",
+        "sent-och-fotbollsspelare-är-tränade-till",
+        "sent-och-han-vill-varna-andra",
+        "sent-och-hot-om-attacker-mot-ukrainska",
+        "sent-och-kanske-lite-regn-i-norr-mer-moln",
+        "sent-och-nästan-en-av-tio-tros-dessutom",
+        "sent-och-usa-lovar-att-sluta-med-ekonomiska",
+        "sent-på-midsommardagen-blir-det-varmare",
+        "sent-problemet-är-också-stort-bland-dem",
+        "sent-redan-som-tonåring-blev-babis-stefanidis",
+        "sent-samtidigt-har-det-under-natten-varit",
+        "sent-sen-kom-han-tillbaka-till-sverige",
+        "sent-snart-kommer-det-att-vända",
+        "sent-söndagen-blir-dock-torr-och-solig",
+        "sent-tidigt-i-morse-brann-det-i-en",
+        "sent-usas-och-irans-presidenter-har-skrivit",
+        "sent-var-som-värst-under-2023",
+        "sent-vi-har-träffat-en-av-dem-som-hade",
+        "skriva-under",
+        "skuld",
+        "spel-om-pengar",
+        "sprängning",
+        "straff",
+        "sund",
+        "topic-fotboll",
+        "topic-hälsa",
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik",
+        "topic-vader-och-arstider",
+        "undersökning",
+        "vara-värt-det"
+      ],
+      "searchText": "SVT Nyheter på lätt svenska 2026-06-18 source-2026-06-18-listening-svt-latt knowledge_base/sources/source-2026-06-18-listening-svt-latt.md ---\ntype: source\ntitle: \"SVT Nyheter på lätt svenska 2026-06-18\"\nkind: listening\ncefr: A2–B1\ndate_added: 2026-06-18\nsource_label: \"listening — SVT Nyheter på lätt svenska 2026-06-18\"\nwords:\n  - \"[[avtal]]\"\n  - \"[[kriga]]\"\n  - \"[[fartyg]]\"\n  - \"[[kärnvapen]]\"\n  - \"[[straff]]\"\n  - \"[[drönare]]\"\n  - \"[[brinna]]\"\n  - \"[[undersökning]]\"\n  - \"[[skuld]]\"\n  - \"[[missbruk]]\"\n  - \"[[sprängning]]\"\n  - \"[[åska]]\"\n  - \"[[sund]]\"\n  - \"[[myndighet]]\"\n  - \"[[döma]]\"\nphrases:\n  - \"[[skriva-under]]\"\n  - \"[[spel-om-pengar]]\"\n  - \"[[livstids-fängelse]]\"\n  - \"[[neka-till-brott]]\"\n  - \"[[vara-värt-det]]\"\n  - \"[[en-av-tio]]\"\nsentences:\n  - \"[[sent-hej-och-välkommen-till-nyheter]]\"\n  - \"[[sent-usas-och-irans-presidenter-har-skrivit]]\"\n  - \"[[sent-de-lovar-att-sluta-kriga-i-60-dagar]]\"\n  - \"[[sent-iran-ska-öppna-sundet-i-hormuz-genast]]\"\n  - \"[[sent-i-avtalet-lovar-iran-bland-annat]]\"\n  - \"[[sent-och-usa-lovar-att-sluta-med-ekonomiska]]\"\n  - \"[[sent-flera-experter-säger-att-det-är-iran]]\"\n  - \"[[sent-idag-har-det-varit-flera-ukrainska]]\"\n  - \"[[sent-tidigt-i-morse-brann-det-i-en]]\"\n  - \"[[sent-det-här-rapporterar-lokala-ryska]]\"\n  - \"[[sent-även-flera-hus-med-lägenheter-verkar]]\"\n  - \"[[sent-samtidigt-har-det-under-natten-varit]]\"\n  - \"[[sent-och-hot-om-attacker-mot-ukrainska]]\"\n  - \"[[sent-nu-ska-det-handla-om-problem-med-spel]]\"\n  - \"[[sent-för-en-av-tio-unga-fotbollsspelare]]\"\n  - \"[[sent-har-problem-med-spel-om-pengar]]\"\n  - \"[[sent-vi-har-träffat-en-av-dem-som-hade]]\"\n  - \"[[sent-redan-som-tonåring-blev-babis-stefanidis]]\"\n  - \"[[sent-sen-kom-han-tillbaka-till-sverige]]\"\n  - \"[[sent-bakom-framgången-fanns-ett-hemligt]]\"\n  - \"[[sent-du-har-mycket-tid-du-är-fotbollsspelare]]\"\n  - \"[[sent-och-fotbollsspelare-är-tränade-till]]\"\n  - \"[[sent-i-spelbranschen-tror-man]]\"\n  - \"[[sent-jag-har-ju-vunnit-sm-guld]]\"\n  - \"[[sent-snart-kommer-det-att-vända]]\"\n  - \"[[sent-fler-än-tre-av-tio-unga-manliga]]\"\n  - \"[[sent-har-spelat-om-pengar-i-nån-form]]\"\n  - \"[[sent-det-visar-en-ny-undersökning-från-karolinska]]\"\n  - \"[[sent-och-nästan-en-av-tio-tros-dessutom]]\"\n  - \"[[sent-problemet-är-också-stort-bland-dem]]\"\n  - \"[[sent-föreningen-svensk-elitfotboll-har-nu]]\"\n  - \"[[sent-för-att-hjälpa-sina-medlemmar]]\"\n  - \"[[sent-det-är-viktigt-att-skapa-en-kultur]]\"\n  - \"[[sent-där-alla-har-så-stor-förståelse]]\"\n  - \"[[sent-för-att-det-kan-leda-till-missbruk]]\"\n  - \"[[sent-idag-är-babis-stefanidis-fri-från-spel]]\"\n  - \"[[sent-och-han-vill-varna-andra]]\"\n  - \"[[sent-det-är-inte-värt-det-fram-i-tiden]]\"\n  - \"[[sent-idag-dömdes-en-av-foxtrots-högsta]]\"\n  - \"[[sent-han-heter-poya-shafie-och-är-30-år]]\"\n  - \"[[sent-från-utlandet-beställde-han-mord]]\"\n  - \"[[sent-när-konflikten-mellan-gängen-foxtrot]]\"\n  - \"[[sent-var-som-värst-under-2023]]\"\n  - \"[[sent-nu-ska-vi-se-hur-vädret-blir]]\"\n  - \"[[sent-imorgon-på-midsommarafton-blir-det]]\"\n  - \"[[sent-och-kanske-lite-regn-i-norr-mer-moln]]\"\n  - \"[[sent-på-midsommardagen-blir-det-varmare]]\"\n  - \"[[sent-i-söder-kommer-både-regn-eller-åska]]\"\n  - \"[[sent-söndagen-blir-dock-torr-och-solig]]\"\n  - \"[[sent-det-var-allt-för-den-här-veckan]]\"\n  - \"[[sent-men-nyheter-på-lätt-svenska-är-tillbaka]]\"\n  - \"[[sent-då-på-den-nya-tiden-klockan-1725]]\"\n  - \"[[sent-nu-önskar-vi-er-alla-en-riktigt]]\"\ngrammar:\n  - \"[[grammar-passiv-med-s]]\"\n  - \"[[grammar-perfekt]]\"\n---\n\n# 📄 SVT Nyheter på lätt svenska 2026-06-18\n\n类型: listening · 难度: A2–B1\n\n## 原文 (Source Text)\n\n```\nHej och välkommen till Nyheter på lätt svenska.\nUSA:s och Irans presidenter har skrivit under ett avtal.\nDe lovar att sluta kriga i 60 dagar. Även striderna i Libanon ska pausas.\nIran ska öppna sundet i Hormuz genast så att fartyg kan börja åka igen.\nI avtalet lovar Iran bland annat att inte ha kärnvapen.\nOch USA lovar att sluta med ekonomiska straff mot Iran.\nFlera experter säger att det är Iran som är vinnare på avtalet.\nIdag har det varit flera ukrainska attacker med drönare mot Moskva.\nTidigt i morse brann det i en byggnad där man hanterar olja.\nDet här rapporterar lokala ryska myndigheter.\nÄven flera hus med lägenheter verkar ha träffats.\nSamtidigt har det under natten varit flera ryska attacker mot Kiev\noch hot om attacker mot ukrainska Zaporizjzja.\nNu ska det handla om problem med spel.\nFör en av tio unga fotbollsspelare som spelar på elitnivå\nhar problem med spel om pengar. Det här visar en ny undersökning.\nVi har träffat en av dem som hade såna här problem.\nRedan som tonåring blev Babis Stefanidis proffs utomlands.\nSen kom han tillbaka till Sverige och spelade i allsvenskan.\nBakom framgången fanns ett hemligt problem med spelande om pengar.\nDu har mycket tid, du är fotbollsspelare, du har mycket pengar.\nOch fotbollsspelare är tränade till att vinna.\nI spelbranschen tror man:\n\"Jag har ju vunnit SM-guld. Klart att jag kan vinna över de här bolagen.\"\n\"Snart kommer det att vända. Men det gör inte det.\"\nFler än tre av tio unga manliga elitfotbollsspelare\nhar spelat om pengar i nån form det senaste året.\nDet visar en ny undersökning från Karolinska institutet.\nOch nästan en av tio tros dessutom ha problem med spelandet.\nProblemet är också stort bland dem som är under 18 år.\nFöreningen Svensk elitfotboll har nu startat utbildningar om spel\nför att hjälpa sina medlemmar.\nDet är viktigt att skapa en kultur\ndär alla har så stor förståelse som möjligt\nför att det kan leda till missbruk också. Där har vi jättestort ansvar.\nIdag är Babis Stefanidis fri från spel, men skulderna finns kvar\noch han vill varna andra.\nDet är inte värt det fram i tiden. Konsekvenserna blir ju enorma.\nIdag dömdes en av Foxtrots högsta ledare till livstids fängelse.\nHan heter Poya Shafie och är 30 år.\nFrån utlandet beställde han mord och sprängningar\nnär konflikten mellan gängen Foxtrot och Dalennätverket\nvar som värst under 2023. Han själv har nekat till brotten.\nNu ska vi se hur vädret blir under midsommarhelgen:\nImorgon på midsommarafton, blir det både molnigt och varmt i söder\noch kanske lite regn. I norr mer moln och regn på vissa platser.\nPå midsommardagen blir det varmare och kanske regn norrut i landet.\nI söder kommer både regn eller åska som kan vara kraftiga.\nSöndagen blir dock torr och solig i söder och regnigare i norr.\nDet var allt för den här veckan.\nMen Nyheter på lätt svenska är tillbaka igen på måndag.\nDå på den nya tiden klockan 17.25.\nNu önskar vi er alla en riktigt trevlig midsommar. Tack för oss!\n```\n\n## 全文翻译 (Translation)\n\n🇨🇳 你好，欢迎收看《简易瑞典语新闻》。美国和伊朗的总统签署了一项协议，承诺停战 60 天，黎巴嫩的战斗也将暂停；伊朗将立即开放霍尔木兹海峡让船只通行，并承诺不拥有核武器，美国则承诺停止对伊经济制裁——多位专家认为伊朗才是赢家。今天乌克兰用无人机多次袭击莫斯科，清晨一座炼油建筑起火，多栋公寓楼似乎也被击中；夜间俄罗斯也多次袭击基辅，并威胁袭击扎波罗热。体育/社会：每十名年轻精英足球运动员就有一人有赌钱问题。前职业球员 Babis Stefanidis 讲述了自己隐秘的赌博经历——卡罗林斯卡学院的新调查显示，超过十分之三的年轻男性精英球员过去一年赌过钱，近十分之一有赌博问题，18 岁以下也很严重；瑞典精英足球协会已开设相关培训。今天 Foxtrot 犯罪团伙头目 Poya Shafie（30 岁）因在国外下令谋杀与爆炸被判终身监禁，他否认罪行。天气：仲夏节前夜南部多云温暖或有小雨，北部多云有雨；仲夏节当天更暖，南部有强雨或雷暴；周日南部干燥晴朗，北部多雨。《简易瑞典语新闻》周一回归，新时间 17:25。祝大家仲夏节快乐！\n\n## 提取 (Extracted → linked notes)\n\n- 生词 (新): [[avtal]] · [[kriga]] · [[fartyg]] · [[kärnvapen]] · [[straff]] · [[drönare]] · [[brinna]] · [[undersökning]] · [[skuld]] · [[missbruk]] · [[sprängning]] · [[åska]]\n- 生词 (已存): [[sund]] · [[myndighet]] · [[döma]]\n- 词组 (新): [[skriva-under]] · [[spel-om-pengar]] · [[livstids-fängelse]] · [[neka-till-brott]] · [[vara-värt-det]] · [[en-av-tio]]\n- 语法 (已存): [[grammar-passiv-med-s]] · [[grammar-perfekt]]\n- 主题: [[topic-krig-och-konflikt]] (新) · [[topic-samhälle-och-politik]] · [[topic-vader-och-arstider]] · [[topic-hälsa]] · [[topic-fotboll]]\n",
+      "cefr": "A2–B1",
+      "date_added": "2026-06-18",
+      "source_label": "listening — SVT Nyheter på lätt svenska 2026-06-18",
+      "kind": "listening",
+      "words": [
+        "[[avtal]]",
+        "[[kriga]]",
+        "[[fartyg]]",
+        "[[kärnvapen]]",
+        "[[straff]]",
+        "[[drönare]]",
+        "[[brinna]]",
+        "[[undersökning]]",
+        "[[skuld]]",
+        "[[missbruk]]",
+        "[[sprängning]]",
+        "[[åska]]",
+        "[[sund]]",
+        "[[myndighet]]",
+        "[[döma]]"
+      ],
+      "phrases": [
+        "[[skriva-under]]",
+        "[[spel-om-pengar]]",
+        "[[livstids-fängelse]]",
+        "[[neka-till-brott]]",
+        "[[vara-värt-det]]",
+        "[[en-av-tio]]"
+      ],
+      "sentences": [
+        "[[sent-hej-och-välkommen-till-nyheter]]",
+        "[[sent-usas-och-irans-presidenter-har-skrivit]]",
+        "[[sent-de-lovar-att-sluta-kriga-i-60-dagar]]",
+        "[[sent-iran-ska-öppna-sundet-i-hormuz-genast]]",
+        "[[sent-i-avtalet-lovar-iran-bland-annat]]",
+        "[[sent-och-usa-lovar-att-sluta-med-ekonomiska]]",
+        "[[sent-flera-experter-säger-att-det-är-iran]]",
+        "[[sent-idag-har-det-varit-flera-ukrainska]]",
+        "[[sent-tidigt-i-morse-brann-det-i-en]]",
+        "[[sent-det-här-rapporterar-lokala-ryska]]",
+        "[[sent-även-flera-hus-med-lägenheter-verkar]]",
+        "[[sent-samtidigt-har-det-under-natten-varit]]",
+        "[[sent-och-hot-om-attacker-mot-ukrainska]]",
+        "[[sent-nu-ska-det-handla-om-problem-med-spel]]",
+        "[[sent-för-en-av-tio-unga-fotbollsspelare]]",
+        "[[sent-har-problem-med-spel-om-pengar]]",
+        "[[sent-vi-har-träffat-en-av-dem-som-hade]]",
+        "[[sent-redan-som-tonåring-blev-babis-stefanidis]]",
+        "[[sent-sen-kom-han-tillbaka-till-sverige]]",
+        "[[sent-bakom-framgången-fanns-ett-hemligt]]",
+        "[[sent-du-har-mycket-tid-du-är-fotbollsspelare]]",
+        "[[sent-och-fotbollsspelare-är-tränade-till]]",
+        "[[sent-i-spelbranschen-tror-man]]",
+        "[[sent-jag-har-ju-vunnit-sm-guld]]",
+        "[[sent-snart-kommer-det-att-vända]]",
+        "[[sent-fler-än-tre-av-tio-unga-manliga]]",
+        "[[sent-har-spelat-om-pengar-i-nån-form]]",
+        "[[sent-det-visar-en-ny-undersökning-från-karolinska]]",
+        "[[sent-och-nästan-en-av-tio-tros-dessutom]]",
+        "[[sent-problemet-är-också-stort-bland-dem]]",
+        "[[sent-föreningen-svensk-elitfotboll-har-nu]]",
+        "[[sent-för-att-hjälpa-sina-medlemmar]]",
+        "[[sent-det-är-viktigt-att-skapa-en-kultur]]",
+        "[[sent-där-alla-har-så-stor-förståelse]]",
+        "[[sent-för-att-det-kan-leda-till-missbruk]]",
+        "[[sent-idag-är-babis-stefanidis-fri-från-spel]]",
+        "[[sent-och-han-vill-varna-andra]]",
+        "[[sent-det-är-inte-värt-det-fram-i-tiden]]",
+        "[[sent-idag-dömdes-en-av-foxtrots-högsta]]",
+        "[[sent-han-heter-poya-shafie-och-är-30-år]]",
+        "[[sent-från-utlandet-beställde-han-mord]]",
+        "[[sent-när-konflikten-mellan-gängen-foxtrot]]",
+        "[[sent-var-som-värst-under-2023]]",
+        "[[sent-nu-ska-vi-se-hur-vädret-blir]]",
+        "[[sent-imorgon-på-midsommarafton-blir-det]]",
+        "[[sent-och-kanske-lite-regn-i-norr-mer-moln]]",
+        "[[sent-på-midsommardagen-blir-det-varmare]]",
+        "[[sent-i-söder-kommer-både-regn-eller-åska]]",
+        "[[sent-söndagen-blir-dock-torr-och-solig]]",
+        "[[sent-det-var-allt-för-den-här-veckan]]",
+        "[[sent-men-nyheter-på-lätt-svenska-är-tillbaka]]",
+        "[[sent-då-på-den-nya-tiden-klockan-1725]]",
+        "[[sent-nu-önskar-vi-er-alla-en-riktigt]]"
+      ],
+      "grammar": [
+        "[[grammar-passiv-med-s]]",
+        "[[grammar-perfekt]]"
+      ],
+      "backlinks": [
+        "sent-även-flera-hus-med-lägenheter-verkar",
+        "sent-bakom-framgången-fanns-ett-hemligt",
+        "sent-då-på-den-nya-tiden-klockan-1725",
+        "sent-där-alla-har-så-stor-förståelse",
+        "sent-de-lovar-att-sluta-kriga-i-60-dagar",
+        "sent-det-är-inte-värt-det-fram-i-tiden",
+        "sent-det-är-viktigt-att-skapa-en-kultur",
+        "sent-det-här-rapporterar-lokala-ryska",
+        "sent-det-var-allt-för-den-här-veckan",
+        "sent-det-visar-en-ny-undersökning-från-karolinska",
+        "sent-du-har-mycket-tid-du-är-fotbollsspelare",
+        "sent-fler-än-tre-av-tio-unga-manliga",
+        "sent-flera-experter-säger-att-det-är-iran",
+        "sent-för-att-det-kan-leda-till-missbruk",
+        "sent-för-att-hjälpa-sina-medlemmar",
+        "sent-för-en-av-tio-unga-fotbollsspelare",
+        "sent-föreningen-svensk-elitfotboll-har-nu",
+        "sent-från-utlandet-beställde-han-mord",
+        "sent-han-heter-poya-shafie-och-är-30-år",
+        "sent-har-problem-med-spel-om-pengar",
+        "sent-har-spelat-om-pengar-i-nån-form",
+        "sent-hej-och-välkommen-till-nyheter",
+        "sent-i-avtalet-lovar-iran-bland-annat",
+        "sent-i-söder-kommer-både-regn-eller-åska",
+        "sent-i-spelbranschen-tror-man",
+        "sent-idag-är-babis-stefanidis-fri-från-spel",
+        "sent-idag-dömdes-en-av-foxtrots-högsta",
+        "sent-idag-har-det-varit-flera-ukrainska",
+        "sent-imorgon-på-midsommarafton-blir-det",
+        "sent-iran-ska-öppna-sundet-i-hormuz-genast",
+        "sent-jag-har-ju-vunnit-sm-guld",
+        "sent-men-nyheter-på-lätt-svenska-är-tillbaka",
+        "sent-när-konflikten-mellan-gängen-foxtrot",
+        "sent-nu-önskar-vi-er-alla-en-riktigt",
+        "sent-nu-ska-det-handla-om-problem-med-spel",
+        "sent-nu-ska-vi-se-hur-vädret-blir",
+        "sent-och-fotbollsspelare-är-tränade-till",
+        "sent-och-han-vill-varna-andra",
+        "sent-och-hot-om-attacker-mot-ukrainska",
+        "sent-och-kanske-lite-regn-i-norr-mer-moln",
+        "sent-och-nästan-en-av-tio-tros-dessutom",
+        "sent-och-usa-lovar-att-sluta-med-ekonomiska",
+        "sent-på-midsommardagen-blir-det-varmare",
+        "sent-problemet-är-också-stort-bland-dem",
+        "sent-redan-som-tonåring-blev-babis-stefanidis",
+        "sent-samtidigt-har-det-under-natten-varit",
+        "sent-sen-kom-han-tillbaka-till-sverige",
+        "sent-snart-kommer-det-att-vända",
+        "sent-söndagen-blir-dock-torr-och-solig",
+        "sent-tidigt-i-morse-brann-det-i-en",
+        "sent-usas-och-irans-presidenter-har-skrivit",
+        "sent-var-som-värst-under-2023",
+        "sent-vi-har-träffat-en-av-dem-som-hade",
+        "topic-krig-och-konflikt"
+      ]
+    },
+    {
       "slug": "source-2026-06-18-nyheter-8sidor",
       "type": "source",
       "title": "来源：Dagens nyheter (8 Sidor lättläst) 2026-06-18",
@@ -24250,6 +26347,7 @@ window.KB_DATA = {
         "proffs",
         "satsa",
         "source-2026-06-09-zlatan-bio",
+        "source-2026-06-18-listening-svt-latt",
         "spela"
       ]
     },
@@ -24292,7 +26390,7 @@ window.KB_DATA = {
       "type": "topic",
       "title": "hälsa",
       "path": "knowledge_base/topics/topic-hälsa.md",
-      "body": "# hälsa — 健康\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 健康状态 (Health states)\n\n- [[sömn]] — 睡眠\n- [[hjärtklappning]] — 心悸\n- [[oro]] — 焦虑、不安\n- [[trött]] — 累的、疲惫的\n- [[sund]] — 健康的\n- [[känslig]] — 敏感的\n\n### 疾病与症状 (Diseases & symptoms)\n\n- [[sjukdom]] — 疾病\n- [[förkylning]] — 感冒\n- [[smärta]] — 疼痛\n- [[blodig]] — 流血的\n- [[kronisk]] — 慢性的\n- [[smittsam]] — 传染性的\n\n### 医疗与药品 (Medical & pharmacy)\n\n- [[patient]] — 病人（来自 [[source-2026-06-07-kropp-halsa]]）\n- [[kur]] — 疗程\n- [[recept]] — 处方\n- [[plåster]] — 创可贴\n- [[apotek]] — 药店\n\n### 健康风险相关 (Health-risk related)\n\n- [[energidryck]] — 能量饮料（与健康风险相关）\n- [[koffein]] — 咖啡因\n- [[hälsa]] — 健康（名词义，已有词条）\n\n## 备注 (Notes)\n\n- 与新闻话题\"能量饮料禁售\"相关，涵盖健康风险词汇。\n- 参见 [[topic-nyheter-vecka22]]\n- 注：[[hälsa]] 词条同时存在动词义（问候）和名词义（健康），见该词条用法提示。\n- 来源: [[source-2026-06-07-kropp-halsa]], [[source-2026-06-17-kropp-halsa]]",
+      "body": "# hälsa — 健康\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 健康状态 (Health states)\n\n- [[sömn]] — 睡眠\n- [[hjärtklappning]] — 心悸\n- [[oro]] — 焦虑、不安\n- [[trött]] — 累的、疲惫的\n- [[sund]] — 健康的\n- [[känslig]] — 敏感的\n\n### 疾病与症状 (Diseases & symptoms)\n\n- [[sjukdom]] — 疾病\n- [[förkylning]] — 感冒\n- [[smärta]] — 疼痛\n- [[blodig]] — 流血的\n- [[kronisk]] — 慢性的\n- [[smittsam]] — 传染性的\n\n### 医疗与药品 (Medical & pharmacy)\n\n- [[patient]] — 病人（来自 [[source-2026-06-07-kropp-halsa]]）\n- [[kur]] — 疗程\n- [[recept]] — 处方\n- [[plåster]] — 创可贴\n- [[apotek]] — 药店\n\n### 健康风险相关 (Health-risk related)\n\n- [[energidryck]] — 能量饮料（与健康风险相关）\n- [[koffein]] — 咖啡因\n- [[hälsa]] — 健康（名词义，已有词条）\n- [[missbruk]] — 滥用，成瘾\n- [[undersökning]] — 调查，研究；检查\n\n## 备注 (Notes)\n\n- 与新闻话题\"能量饮料禁售\"相关，涵盖健康风险词汇。\n- 参见 [[topic-nyheter-vecka22]]\n- 注：[[hälsa]] 词条同时存在动词义（问候）和名词义（健康），见该词条用法提示。\n- 来源: [[source-2026-06-07-kropp-halsa]], [[source-2026-06-17-kropp-halsa]]",
       "excerpt": "hälsa — 健康 类型: semantic field 成员 (Members) 健康状态 (Health states) sömn — 睡眠 hjärtklappning — 心悸 oro — 焦虑、不安 trött — 累的、疲惫的 sund — 健康的 känslig — 敏感的 疾病与症状 (Diseases & symptoms) sjukdom — 疾病 förkylning — 感冒 smärta — 疼痛 blodi",
       "forms": [],
       "links": [
@@ -24306,6 +26404,7 @@ window.KB_DATA = {
         "koffein",
         "kronisk",
         "kur",
+        "missbruk",
         "oro",
         "patient",
         "plåster",
@@ -24318,9 +26417,10 @@ window.KB_DATA = {
         "source-2026-06-17-kropp-halsa",
         "sund",
         "topic-nyheter-vecka22",
-        "trött"
+        "trött",
+        "undersökning"
       ],
-      "searchText": "hälsa topic-hälsa knowledge_base/topics/topic-hälsa.md ---\ntype: topic\nname: \"hälsa\"\nkind: semantic-field\nzh: \"健康\"\nmembers: [sömn, hjärtklappning, oro, energidryck, koffein, patient, kur, sund, kronisk, sjukdom, smittsam, förkylning, smärta, blodig, recept, plåster, apotek, trött, känslig]\ncreated: \"2026-06-04\"\n---\n\n# hälsa — 健康\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 健康状态 (Health states)\n\n- [[sömn]] — 睡眠\n- [[hjärtklappning]] — 心悸\n- [[oro]] — 焦虑、不安\n- [[trött]] — 累的、疲惫的\n- [[sund]] — 健康的\n- [[känslig]] — 敏感的\n\n### 疾病与症状 (Diseases & symptoms)\n\n- [[sjukdom]] — 疾病\n- [[förkylning]] — 感冒\n- [[smärta]] — 疼痛\n- [[blodig]] — 流血的\n- [[kronisk]] — 慢性的\n- [[smittsam]] — 传染性的\n\n### 医疗与药品 (Medical & pharmacy)\n\n- [[patient]] — 病人（来自 [[source-2026-06-07-kropp-halsa]]）\n- [[kur]] — 疗程\n- [[recept]] — 处方\n- [[plåster]] — 创可贴\n- [[apotek]] — 药店\n\n### 健康风险相关 (Health-risk related)\n\n- [[energidryck]] — 能量饮料（与健康风险相关）\n- [[koffein]] — 咖啡因\n- [[hälsa]] — 健康（名词义，已有词条）\n\n## 备注 (Notes)\n\n- 与新闻话题\"能量饮料禁售\"相关，涵盖健康风险词汇。\n- 参见 [[topic-nyheter-vecka22]]\n- 注：[[hälsa]] 词条同时存在动词义（问候）和名词义（健康），见该词条用法提示。\n- 来源: [[source-2026-06-07-kropp-halsa]], [[source-2026-06-17-kropp-halsa]]\n",
+      "searchText": "hälsa topic-hälsa knowledge_base/topics/topic-hälsa.md ---\ntype: topic\nname: \"hälsa\"\nkind: semantic-field\nzh: \"健康\"\nmembers: [sömn, hjärtklappning, oro, energidryck, koffein, patient, kur, sund, kronisk, sjukdom, smittsam, förkylning, smärta, blodig, recept, plåster, apotek, trött, känslig, missbruk, undersökning]\ncreated: \"2026-06-04\"\n---\n\n# hälsa — 健康\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 健康状态 (Health states)\n\n- [[sömn]] — 睡眠\n- [[hjärtklappning]] — 心悸\n- [[oro]] — 焦虑、不安\n- [[trött]] — 累的、疲惫的\n- [[sund]] — 健康的\n- [[känslig]] — 敏感的\n\n### 疾病与症状 (Diseases & symptoms)\n\n- [[sjukdom]] — 疾病\n- [[förkylning]] — 感冒\n- [[smärta]] — 疼痛\n- [[blodig]] — 流血的\n- [[kronisk]] — 慢性的\n- [[smittsam]] — 传染性的\n\n### 医疗与药品 (Medical & pharmacy)\n\n- [[patient]] — 病人（来自 [[source-2026-06-07-kropp-halsa]]）\n- [[kur]] — 疗程\n- [[recept]] — 处方\n- [[plåster]] — 创可贴\n- [[apotek]] — 药店\n\n### 健康风险相关 (Health-risk related)\n\n- [[energidryck]] — 能量饮料（与健康风险相关）\n- [[koffein]] — 咖啡因\n- [[hälsa]] — 健康（名词义，已有词条）\n- [[missbruk]] — 滥用，成瘾\n- [[undersökning]] — 调查，研究；检查\n\n## 备注 (Notes)\n\n- 与新闻话题\"能量饮料禁售\"相关，涵盖健康风险词汇。\n- 参见 [[topic-nyheter-vecka22]]\n- 注：[[hälsa]] 词条同时存在动词义（问候）和名词义（健康），见该词条用法提示。\n- 来源: [[source-2026-06-07-kropp-halsa]], [[source-2026-06-17-kropp-halsa]]\n",
       "name": "hälsa",
       "zh": "健康",
       "created": "2026-06-04",
@@ -24343,6 +26443,7 @@ window.KB_DATA = {
         "kur",
         "laktos",
         "luft",
+        "missbruk",
         "oro",
         "patient",
         "plåster",
@@ -24374,10 +26475,12 @@ window.KB_DATA = {
         "sömn",
         "source-2026-06-04-nyheter-vecka-22",
         "source-2026-06-17-kropp-halsa",
+        "source-2026-06-18-listening-svt-latt",
         "sund",
         "tåla",
         "topic-kropp",
         "trött",
+        "undersökning",
         "väntetid"
       ]
     },
@@ -24658,6 +26761,43 @@ window.KB_DATA = {
         "station",
         "tåg",
         "topic-trafik"
+      ]
+    },
+    {
+      "slug": "topic-krig-och-konflikt",
+      "type": "topic",
+      "title": "krig-och-konflikt",
+      "path": "knowledge_base/topics/topic-krig-och-konflikt.md",
+      "body": "# 🗂️ krig-och-konflikt — 战争与冲突\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[krig]] — 战争\n- [[kriga]] — 打仗，作战\n- [[avtal]] — 协议；合同\n- [[fartyg]] — 船只，舰船\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[drönare]] — 无人机\n- [[sprängning]] — 爆炸，爆破\n- [[vapen]] — 武器\n\n## 备注 (Notes)\n\n- 与 [[topic-samhälle-och-politik]] 相关（政治/外交方面有重叠）。\n- 来源: [[source-2026-06-18-listening-svt-latt]]",
+      "excerpt": "🗂️ krig och konflikt — 战争与冲突 类型: semantic field 成员 (Members) krig — 战争 kriga — 打仗，作战 avtal — 协议；合同 fartyg — 船只，舰船 kärnvapen — 核武器 straff — 惩罚；制裁 drönare — 无人机 sprängning — 爆炸，爆破 vapen — 武器 备注 (Notes) 与 topic samhälle oc",
+      "forms": [],
+      "links": [
+        "avtal",
+        "drönare",
+        "fartyg",
+        "kärnvapen",
+        "krig",
+        "kriga",
+        "source-2026-06-18-listening-svt-latt",
+        "sprängning",
+        "straff",
+        "topic-samhälle-och-politik",
+        "vapen"
+      ],
+      "searchText": "krig-och-konflikt topic-krig-och-konflikt knowledge_base/topics/topic-krig-och-konflikt.md ---\ntype: topic\nname: \"krig-och-konflikt\"\nkind: semantic-field\nzh: \"战争与冲突\"\nmembers:\n  - krig\n  - kriga\n  - avtal\n  - fartyg\n  - kärnvapen\n  - straff\n  - drönare\n  - sprängning\n  - vapen\ncreated: \"2026-06-18\"\n---\n\n# 🗂️ krig-och-konflikt — 战争与冲突\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[krig]] — 战争\n- [[kriga]] — 打仗，作战\n- [[avtal]] — 协议；合同\n- [[fartyg]] — 船只，舰船\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[drönare]] — 无人机\n- [[sprängning]] — 爆炸，爆破\n- [[vapen]] — 武器\n\n## 备注 (Notes)\n\n- 与 [[topic-samhälle-och-politik]] 相关（政治/外交方面有重叠）。\n- 来源: [[source-2026-06-18-listening-svt-latt]]\n",
+      "name": "krig-och-konflikt",
+      "zh": "战争与冲突",
+      "created": "2026-06-18",
+      "kind": "semantic-field",
+      "backlinks": [
+        "avtal",
+        "drönare",
+        "fartyg",
+        "kärnvapen",
+        "kriga",
+        "source-2026-06-18-listening-svt-latt",
+        "sprängning",
+        "straff"
       ]
     },
     {
@@ -25448,11 +27588,13 @@ window.KB_DATA = {
       "type": "topic",
       "title": "samhälle-och-politik",
       "path": "knowledge_base/topics/topic-samhälle-och-politik.md",
-      "body": "# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]",
-      "excerpt": "🗂️ samhälle och politik — 社会与政治 类型: semantic field 成员 (Members) rösta — 投票 regering — 政府 medborgare — 公民 kommun — 市/市政 nationaldag — 国庆日 invånare — 居民 provins — 省 självständig — 独立的 missnöjd — 不满的 备注 (Notes) 与新闻话题\"加拿大独立",
+      "body": "# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n- [[avtal]] — 协议；合同\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[sprängning]] — 爆炸，爆破\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]",
+      "excerpt": "🗂️ samhälle och politik — 社会与政治 类型: semantic field 成员 (Members) rösta — 投票 regering — 政府 medborgare — 公民 kommun — 市/市政 nationaldag — 国庆日 invånare — 居民 provins — 省 självständig — 独立的 missnöjd — 不满的 avtal — 协议；合同 kärnvape",
       "forms": [],
       "links": [
+        "avtal",
         "invånare",
+        "kärnvapen",
         "kommun",
         "medborgare",
         "missnöjd",
@@ -25461,14 +27603,17 @@ window.KB_DATA = {
         "regering",
         "rösta",
         "självständig",
+        "sprängning",
+        "straff",
         "topic-nyheter-vecka22"
       ],
-      "searchText": "samhälle-och-politik topic-samhälle-och-politik knowledge_base/topics/topic-samhälle-och-politik.md ---\ntype: topic\nname: \"samhälle-och-politik\"\nkind: semantic-field\nzh: \"社会与政治\"\nmembers: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd]\ncreated: \"2026-06-04\"\n---\n\n# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]\n",
+      "searchText": "samhälle-och-politik topic-samhälle-och-politik knowledge_base/topics/topic-samhälle-och-politik.md ---\ntype: topic\nname: \"samhälle-och-politik\"\nkind: semantic-field\nzh: \"社会与政治\"\nmembers: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning]\ncreated: \"2026-06-04\"\n---\n\n# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n- [[avtal]] — 协议；合同\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[sprängning]] — 爆炸，爆破\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]\n",
       "name": "samhälle-och-politik",
       "zh": "社会与政治",
       "created": "2026-06-04",
       "kind": "semantic-field",
       "backlinks": [
+        "avtal",
         "bekymmersam",
         "döma",
         "fängelse",
@@ -25478,8 +27623,10 @@ window.KB_DATA = {
         "i-genomsnitt",
         "index",
         "invånare",
+        "kärnvapen",
         "kommun",
         "krig",
+        "kriga",
         "ledare",
         "medborgare",
         "missnöjd",
@@ -25510,8 +27657,12 @@ window.KB_DATA = {
         "skatt",
         "skillnad",
         "source-2026-06-04-nyheter-vecka-22",
+        "source-2026-06-18-listening-svt-latt",
         "source-2026-06-18-nyheter-8sidor",
+        "sprängning",
         "statistik",
+        "straff",
+        "topic-krig-och-konflikt",
         "väljare",
         "välkomna",
         "vapen"
@@ -25843,11 +27994,12 @@ window.KB_DATA = {
       "type": "topic",
       "title": "Ämne: Väder och årstider — 天气与季节",
       "path": "knowledge_base/topics/topic-vader-och-arstider.md",
-      "body": "# Ämne: Väder och årstider — 天气与季节\n\n词汇主题：瑞典四季、天气相关词汇及表达。\n\n## 成员词汇 (Members)\n\n**季节 (Seasons)**\n- [[årstid]] — 季节\n- [[vinter]] — 冬天\n- [[vår]] — 春天\n- [[sommar]] — 夏天\n- [[höst]] — 秋天\n\n**天气/自然 (Weather/Nature)**\n- [[snö]] — 雪\n- [[blomma]] — 花\n- [[sval]] — 凉爽的\n- [[tydlig]] — 明显的\n\n**动词 (Verbs)**\n- [[täcka]] — 覆盖\n- [[njuta]] — 享受\n- [[färga]] — 染色\n- [[tillbringa]] — 度过（时间）\n- [[intensiv]] — 强烈的；充实的\n\n**其他**\n- [[stövel]] — 靴子\n\n## 相关词组 (Related Phrases)\n\n- [[på-vintern]] — 在冬天（泛指）\n- [[hålla-värmen]] — 保暖\n- [[klä-på-sig]] — 穿上衣服\n- [[ta-semester]] — 休假\n- [[plocka-svamp]] — 采蘑菇\n- [[njuta-av]] — 享受…\n\n## 语法提示\n\n- 季节前置词规律：*på vintern / på våren / på sommaren / på hösten*（用 *på*，泛指）\n- *i vinter / i vår / i sommar / i höst*（用 *i*，特指本季度或下一个/上一个季度）\n\n## 来源 (Sources)\n\n- [[source-2026-06-16-vadret-och-arstiderna]]",
-      "excerpt": "Ämne: Väder och årstider — 天气与季节 词汇主题：瑞典四季、天气相关词汇及表达。 成员词汇 (Members) 季节 (Seasons) årstid — 季节 vinter — 冬天 vår — 春天 sommar — 夏天 höst — 秋天 天气/自然 (Weather/Nature) snö — 雪 blomma — 花 sval — 凉爽的 tydlig — 明显的 动词 (Verbs) täcka ",
+      "body": "# Ämne: Väder och årstider — 天气与季节\n\n词汇主题：瑞典四季、天气相关词汇及表达。\n\n## 成员词汇 (Members)\n\n**季节 (Seasons)**\n- [[årstid]] — 季节\n- [[vinter]] — 冬天\n- [[vår]] — 春天\n- [[sommar]] — 夏天\n- [[höst]] — 秋天\n\n**天气/自然 (Weather/Nature)**\n- [[snö]] — 雪\n- [[åska]] — 雷，雷暴\n- [[blomma]] — 花\n- [[sval]] — 凉爽的\n- [[tydlig]] — 明显的\n\n**动词 (Verbs)**\n- [[täcka]] — 覆盖\n- [[njuta]] — 享受\n- [[färga]] — 染色\n- [[tillbringa]] — 度过（时间）\n- [[intensiv]] — 强烈的；充实的\n\n**其他**\n- [[stövel]] — 靴子\n\n## 相关词组 (Related Phrases)\n\n- [[på-vintern]] — 在冬天（泛指）\n- [[hålla-värmen]] — 保暖\n- [[klä-på-sig]] — 穿上衣服\n- [[ta-semester]] — 休假\n- [[plocka-svamp]] — 采蘑菇\n- [[njuta-av]] — 享受…\n\n## 语法提示\n\n- 季节前置词规律：*på vintern / på våren / på sommaren / på hösten*（用 *på*，泛指）\n- *i vinter / i vår / i sommar / i höst*（用 *i*，特指本季度或下一个/上一个季度）\n\n## 来源 (Sources)\n\n- [[source-2026-06-16-vadret-och-arstiderna]]",
+      "excerpt": "Ämne: Väder och årstider — 天气与季节 词汇主题：瑞典四季、天气相关词汇及表达。 成员词汇 (Members) 季节 (Seasons) årstid — 季节 vinter — 冬天 vår — 春天 sommar — 夏天 höst — 秋天 天气/自然 (Weather/Nature) snö — 雪 åska — 雷，雷暴 blomma — 花 sval — 凉爽的 tydlig — 明显的 动词 (V",
       "forms": [],
       "links": [
         "årstid",
+        "åska",
         "blomma",
         "färga",
         "hålla-värmen",
@@ -25870,12 +28022,13 @@ window.KB_DATA = {
         "vår",
         "vinter"
       ],
-      "searchText": "Ämne: Väder och årstider — 天气与季节 topic-vader-och-arstider knowledge_base/topics/topic-vader-och-arstider.md ---\ntype: topic\nslug: topic-vader-och-arstider\nzh: \"天气与季节\"\nen: \"Weather and Seasons\"\nmembers:\n  - årstid\n  - vinter\n  - vår\n  - sommar\n  - höst\n  - snö\n  - stövel\n  - blomma\n  - tydlig\n  - täcka\n  - sval\n  - njuta\n  - färga\n  - intensiv\n  - tillbringa\ncreated: 2026-06-16\n---\n\n# Ämne: Väder och årstider — 天气与季节\n\n词汇主题：瑞典四季、天气相关词汇及表达。\n\n## 成员词汇 (Members)\n\n**季节 (Seasons)**\n- [[årstid]] — 季节\n- [[vinter]] — 冬天\n- [[vår]] — 春天\n- [[sommar]] — 夏天\n- [[höst]] — 秋天\n\n**天气/自然 (Weather/Nature)**\n- [[snö]] — 雪\n- [[blomma]] — 花\n- [[sval]] — 凉爽的\n- [[tydlig]] — 明显的\n\n**动词 (Verbs)**\n- [[täcka]] — 覆盖\n- [[njuta]] — 享受\n- [[färga]] — 染色\n- [[tillbringa]] — 度过（时间）\n- [[intensiv]] — 强烈的；充实的\n\n**其他**\n- [[stövel]] — 靴子\n\n## 相关词组 (Related Phrases)\n\n- [[på-vintern]] — 在冬天（泛指）\n- [[hålla-värmen]] — 保暖\n- [[klä-på-sig]] — 穿上衣服\n- [[ta-semester]] — 休假\n- [[plocka-svamp]] — 采蘑菇\n- [[njuta-av]] — 享受…\n\n## 语法提示\n\n- 季节前置词规律：*på vintern / på våren / på sommaren / på hösten*（用 *på*，泛指）\n- *i vinter / i vår / i sommar / i höst*（用 *i*，特指本季度或下一个/上一个季度）\n\n## 来源 (Sources)\n\n- [[source-2026-06-16-vadret-och-arstiderna]]\n",
+      "searchText": "Ämne: Väder och årstider — 天气与季节 topic-vader-och-arstider knowledge_base/topics/topic-vader-och-arstider.md ---\ntype: topic\nslug: topic-vader-och-arstider\nzh: \"天气与季节\"\nen: \"Weather and Seasons\"\nmembers:\n  - årstid\n  - vinter\n  - vår\n  - sommar\n  - höst\n  - snö\n  - stövel\n  - blomma\n  - tydlig\n  - täcka\n  - sval\n  - njuta\n  - färga\n  - intensiv\n  - tillbringa\n  - åska\ncreated: 2026-06-16\n---\n\n# Ämne: Väder och årstider — 天气与季节\n\n词汇主题：瑞典四季、天气相关词汇及表达。\n\n## 成员词汇 (Members)\n\n**季节 (Seasons)**\n- [[årstid]] — 季节\n- [[vinter]] — 冬天\n- [[vår]] — 春天\n- [[sommar]] — 夏天\n- [[höst]] — 秋天\n\n**天气/自然 (Weather/Nature)**\n- [[snö]] — 雪\n- [[åska]] — 雷，雷暴\n- [[blomma]] — 花\n- [[sval]] — 凉爽的\n- [[tydlig]] — 明显的\n\n**动词 (Verbs)**\n- [[täcka]] — 覆盖\n- [[njuta]] — 享受\n- [[färga]] — 染色\n- [[tillbringa]] — 度过（时间）\n- [[intensiv]] — 强烈的；充实的\n\n**其他**\n- [[stövel]] — 靴子\n\n## 相关词组 (Related Phrases)\n\n- [[på-vintern]] — 在冬天（泛指）\n- [[hålla-värmen]] — 保暖\n- [[klä-på-sig]] — 穿上衣服\n- [[ta-semester]] — 休假\n- [[plocka-svamp]] — 采蘑菇\n- [[njuta-av]] — 享受…\n\n## 语法提示\n\n- 季节前置词规律：*på vintern / på våren / på sommaren / på hösten*（用 *på*，泛指）\n- *i vinter / i vår / i sommar / i höst*（用 *i*，特指本季度或下一个/上一个季度）\n\n## 来源 (Sources)\n\n- [[source-2026-06-16-vadret-och-arstiderna]]\n",
       "zh": "天气与季节",
       "en": "Weather and Seasons",
       "created": "2026-06-16",
       "backlinks": [
         "årstid",
+        "åska",
         "blomma",
         "färga",
         "höst",
@@ -25887,6 +28040,7 @@ window.KB_DATA = {
         "sent-speciellt-langst-i-norr",
         "snö",
         "sommar",
+        "source-2026-06-18-listening-svt-latt",
         "stövel",
         "sval",
         "täcka",
@@ -26743,7 +28897,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "ansvarig",
-        "sent-fika-också-hektiskt-men-roligt"
+        "sent-fika-också-hektiskt-men-roligt",
+        "sent-för-att-det-kan-leda-till-missbruk"
       ]
     },
     {
@@ -27379,6 +29534,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "åska",
+      "type": "word",
+      "title": "åska",
+      "path": "knowledge_base/words/åska.md",
+      "body": "# åska — substantiv (en)\n\n📖 中文：雷，雷暴 · English: thunder, thunderstorm\n发音提示：OS-ka\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | en åska | åskan | åskor | åskorna |\n\nNote: `åska` används oftast i singular för ett åskväder.\n\n## 词组搭配 (Collocations)\n\n- `åska och blixt` — 雷和闪电\n- `ett åskväder` — 一场雷暴\n- `kraftig åska` — 强烈雷暴\n- `det åskar` — 在打雷（动词用法）\n\n## 例句 (Sentences)\n\n- 🇸🇪 I söder kommer både regn eller åska som kan vara kraftiga. — 🇨🇳 南部会有雨或雷暴，可能很强。\n- 🇸🇪 Det är åska ute — stäng fönstret! — 🇨🇳 外面在打雷——关上窗户！\n- 🇸🇪 Åskan hördes långt borta. — 🇨🇳 雷声从远处传来。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- `åska` fungerar både som substantiv (ett åskväder / åskan rullar) och verb (det åskar).\n- `blixt` = 闪电 (lightning); `åska` = 雷 (thunder). Ihop: `åska och blixt`.",
+      "excerpt": "åska — substantiv (en) 📖 中文：雷，雷暴 · English: thunder, thunderstorm 发音提示：OS ka 语法变形 (Forms) form singular obestämd singular bestämd plural obestämd plural bestämd grundform en åska åskan åskor åskorna Note: åska används o",
+      "forms": [
+        "åska",
+        "åskan",
+        "åskor",
+        "åskorna"
+      ],
+      "links": [
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "åska åska knowledge_base/words/åska.md ---\ntype: word\nlemma: \"åska\"\nordklass: substantiv\ngenus: en\ncefr: \"A2\"\nzh: \"雷，雷暴\"\nen: \"thunder, thunderstorm\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-vader-och-arstider\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# åska — substantiv (en)\n\n📖 中文：雷，雷暴 · English: thunder, thunderstorm\n发音提示：OS-ka\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | en åska | åskan | åskor | åskorna |\n\nNote: `åska` används oftast i singular för ett åskväder.\n\n## 词组搭配 (Collocations)\n\n- `åska och blixt` — 雷和闪电\n- `ett åskväder` — 一场雷暴\n- `kraftig åska` — 强烈雷暴\n- `det åskar` — 在打雷（动词用法）\n\n## 例句 (Sentences)\n\n- 🇸🇪 I söder kommer både regn eller åska som kan vara kraftiga. — 🇨🇳 南部会有雨或雷暴，可能很强。\n- 🇸🇪 Det är åska ute — stäng fönstret! — 🇨🇳 外面在打雷——关上窗户！\n- 🇸🇪 Åskan hördes långt borta. — 🇨🇳 雷声从远处传来。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- `åska` fungerar både som substantiv (ett åskväder / åskan rullar) och verb (det åskar).\n- `blixt` = 闪电 (lightning); `åska` = 雷 (thunder). Ihop: `åska och blixt`.\n",
+      "lemma": "åska",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "雷，雷暴",
+      "en": "thunder, thunderstorm",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "sent-i-söder-kommer-både-regn-eller-åska",
+        "source-2026-06-18-listening-svt-latt",
+        "topic-vader-och-arstider"
+      ]
+    },
+    {
       "slug": "åsna",
       "type": "word",
       "title": "åsna",
@@ -27561,6 +29750,46 @@ window.KB_DATA = {
         "påbörja",
         "skolavslutning",
         "source-2026-06-10-zlatan-subst-verb"
+      ]
+    },
+    {
+      "slug": "avtal",
+      "type": "word",
+      "title": "avtal",
+      "path": "knowledge_base/words/avtal.md",
+      "body": "# avtal — substantiv (ett)\n\n📖 中文：协议；合同 · English: agreement, deal, contract\n发音提示：AV-tal（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | ett avtal | avtalet | avtal | avtalen |\n\n## 词组搭配 (Collocations)\n\n- `skriva under ett avtal` — 签署一份协议 → see [[skriva-under]]\n- `ingå ett avtal` — 缔结一份协议\n- `bryta ett avtal` — 违反协议\n\n## 例句 (Sentences)\n\n- 🇸🇪 USA:s och Irans presidenter har skrivit under ett avtal. — 🇨🇳 美国和伊朗的总统签署了一项协议。\n- 🇸🇪 Vi har ett avtal om att dela på kostnaderna. — 🇨🇳 我们有一份分担费用的协议。\n- 🇸🇪 Avtalet gäller i ett år. — 🇨🇳 这份协议有效期为一年。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- `avtal` är ett ett-ord med oförändrat plural: ett avtal / flera avtal.\n- Vanlig kollokation: `skriva under avtalet` (skriva under = signera).",
+      "excerpt": "avtal — substantiv (ett) 📖 中文：协议；合同 · English: agreement, deal, contract 发音提示：AV tal（重音在第一音节） 语法变形 (Forms) form singular obestämd singular bestämd plural obestämd plural bestämd grundform ett avtal avtalet avtal avtalen",
+      "forms": [
+        "avtal",
+        "avtalet",
+        "avtalen"
+      ],
+      "links": [
+        "skriva-under",
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "avtal avtal knowledge_base/words/avtal.md ---\ntype: word\nlemma: \"avtal\"\nordklass: substantiv\ngenus: ett\ncefr: \"B1\"\nzh: \"协议；合同\"\nen: \"agreement, deal, contract\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-samhälle-och-politik\n  - topic-krig-och-konflikt\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# avtal — substantiv (ett)\n\n📖 中文：协议；合同 · English: agreement, deal, contract\n发音提示：AV-tal（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | ett avtal | avtalet | avtal | avtalen |\n\n## 词组搭配 (Collocations)\n\n- `skriva under ett avtal` — 签署一份协议 → see [[skriva-under]]\n- `ingå ett avtal` — 缔结一份协议\n- `bryta ett avtal` — 违反协议\n\n## 例句 (Sentences)\n\n- 🇸🇪 USA:s och Irans presidenter har skrivit under ett avtal. — 🇨🇳 美国和伊朗的总统签署了一项协议。\n- 🇸🇪 Vi har ett avtal om att dela på kostnaderna. — 🇨🇳 我们有一份分担费用的协议。\n- 🇸🇪 Avtalet gäller i ett år. — 🇨🇳 这份协议有效期为一年。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- `avtal` är ett ett-ord med oförändrat plural: ett avtal / flera avtal.\n- Vanlig kollokation: `skriva under avtalet` (skriva under = signera).\n",
+      "lemma": "avtal",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "协议；合同",
+      "en": "agreement, deal, contract",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "sent-flera-experter-säger-att-det-är-iran",
+        "sent-i-avtalet-lovar-iran-bland-annat",
+        "sent-usas-och-irans-presidenter-har-skrivit",
+        "skriva-under",
+        "source-2026-06-18-listening-svt-latt",
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik"
       ]
     },
     {
@@ -29648,6 +31877,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "brinna",
+      "type": "word",
+      "title": "brinna",
+      "path": "knowledge_base/words/brinna.md",
+      "body": "# brinna — verb (grupp 4, starkt)\n\n📖 中文：燃烧，着火 · English: to burn\n发音提示：BRIN-na\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | brinna |\n| presens | brinner |\n| preteritum | brann |\n| supinum | brunnit |\n| imperativ | brinn! |\n\n## 词组搭配 (Collocations)\n\n- `det brinner` — 着火了（非人称用法）\n- `brinna upp` — 烧毁\n- `ljuset brinner` — 蜡烛在燃烧\n\n## 例句 (Sentences)\n\n- 🇸🇪 Tidigt i morse brann det i en byggnad där man hanterar olja. — 🇨🇳 今天清晨，一座处理石油的建筑发生了火灾。\n- 🇸🇪 Det brinner i skogen! Vi måste ringa 112. — 🇨🇳 森林着火了！我们必须拨打 112。\n- 🇸🇪 Ljusen brinner hela natten. — 🇨🇳 蜡烛整夜燃烧。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[]]\n\n## 用法提示 (Usage Notes)\n\n- Starkt verb (grupp 4): brinner / brann / brunnit — oregelbundet preteritum.\n- `det brinner` är den vanliga opersonliga konstruktionen för \"there is a fire\".\n- Jämför: `bränna` (transitiv, v.1) = att göra något brinna.",
+      "excerpt": "brinna — verb (grupp 4, starkt) 📖 中文：燃烧，着火 · English: to burn 发音提示：BRIN na 语法变形 (Forms) form Swedish infinitiv brinna presens brinner preteritum brann supinum brunnit imperativ brinn! 词组搭配 (Collocations) det brinner — 着",
+      "forms": [
+        "brinna",
+        "brinner",
+        "brann",
+        "brunnit",
+        "brinn!"
+      ],
+      "links": [],
+      "searchText": "brinna brinna knowledge_base/words/brinna.md ---\ntype: word\nlemma: \"brinna\"\nordklass: verb\nverbgrupp: \"4\"\ncefr: \"A2\"\nzh: \"燃烧，着火\"\nen: \"to burn\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# brinna — verb (grupp 4, starkt)\n\n📖 中文：燃烧，着火 · English: to burn\n发音提示：BRIN-na\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | brinna |\n| presens | brinner |\n| preteritum | brann |\n| supinum | brunnit |\n| imperativ | brinn! |\n\n## 词组搭配 (Collocations)\n\n- `det brinner` — 着火了（非人称用法）\n- `brinna upp` — 烧毁\n- `ljuset brinner` — 蜡烛在燃烧\n\n## 例句 (Sentences)\n\n- 🇸🇪 Tidigt i morse brann det i en byggnad där man hanterar olja. — 🇨🇳 今天清晨，一座处理石油的建筑发生了火灾。\n- 🇸🇪 Det brinner i skogen! Vi måste ringa 112. — 🇨🇳 森林着火了！我们必须拨打 112。\n- 🇸🇪 Ljusen brinner hela natten. — 🇨🇳 蜡烛整夜燃烧。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[]]\n\n## 用法提示 (Usage Notes)\n\n- Starkt verb (grupp 4): brinner / brann / brunnit — oregelbundet preteritum.\n- `det brinner` är den vanliga opersonliga konstruktionen för \"there is a fire\".\n- Jämför: `bränna` (transitiv, v.1) = att göra något brinna.\n",
+      "lemma": "brinna",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "燃烧，着火",
+      "en": "to burn",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-tidigt-i-morse-brann-det-i-en",
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "brist",
       "type": "word",
       "title": "brist",
@@ -30165,6 +32424,7 @@ window.KB_DATA = {
         "hus",
         "sent-apoteket-ligger-mitt-emot-en-stor-byggnad",
         "sent-du-ser-en-stor-rod-byggnad",
+        "sent-tidigt-i-morse-brann-det-i-en",
         "sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank",
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-09-beskriva-en-gata",
@@ -30744,8 +33004,11 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "fängelse",
+        "livstids-fängelse",
         "sent-i-mandags-domdes-mette-marits-son",
-        "source-2026-06-17-listening-svt-latt"
+        "sent-idag-dömdes-en-av-foxtrots-högsta",
+        "source-2026-06-17-listening-svt-latt",
+        "source-2026-06-18-listening-svt-latt"
       ]
     },
     {
@@ -30903,6 +33166,39 @@ window.KB_DATA = {
         "sent-de-hoppas-att-de-ska-drömma",
         "source-2026-06-18-nyheter-8sidor",
         "topic-midsommar-traditioner"
+      ]
+    },
+    {
+      "slug": "drönare",
+      "type": "word",
+      "title": "drönare",
+      "path": "knowledge_base/words/drönare.md",
+      "body": "# drönare — substantiv (en)\n\n📖 中文：无人机 · English: drone\n发音提示：DRÖN-a-re\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | en drönare | drönaren | drönare | drönarna |\n\n## 词组搭配 (Collocations)\n\n- `attacker med drönare` — 无人机袭击\n- `skjuta ned en drönare` — 击落一架无人机\n- `militär drönare` — 军用无人机\n\n## 例句 (Sentences)\n\n- 🇸🇪 Idag har det varit flera ukrainska attacker med drönare mot Moskva. — 🇨🇳 今天发生了多起乌克兰用无人机对莫斯科的袭击。\n- 🇸🇪 Drönaren flög högt över staden. — 🇨🇳 无人机在城市上空高飞。\n- 🇸🇪 Militären använder drönare för att övervaka gränsen. — 🇨🇳 军队使用无人机来监视边境。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- `drönare` är en en-ord med pluralformen `drönare` (oförändrat).\n- Används både om militära och civila drönare.",
+      "excerpt": "drönare — substantiv (en) 📖 中文：无人机 · English: drone 发音提示：DRÖN a re 语法变形 (Forms) form singular obestämd singular bestämd plural obestämd plural bestämd grundform en drönare drönaren drönare drönarna 词组搭配 (Collocations) a",
+      "forms": [
+        "drönare",
+        "drönaren",
+        "drönarna"
+      ],
+      "links": [
+        "topic-krig-och-konflikt"
+      ],
+      "searchText": "drönare drönare knowledge_base/words/drönare.md ---\ntype: word\nlemma: \"drönare\"\nordklass: substantiv\ngenus: en\ncefr: \"B1\"\nzh: \"无人机\"\nen: \"drone\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-krig-och-konflikt\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# drönare — substantiv (en)\n\n📖 中文：无人机 · English: drone\n发音提示：DRÖN-a-re\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | en drönare | drönaren | drönare | drönarna |\n\n## 词组搭配 (Collocations)\n\n- `attacker med drönare` — 无人机袭击\n- `skjuta ned en drönare` — 击落一架无人机\n- `militär drönare` — 军用无人机\n\n## 例句 (Sentences)\n\n- 🇸🇪 Idag har det varit flera ukrainska attacker med drönare mot Moskva. — 🇨🇳 今天发生了多起乌克兰用无人机对莫斯科的袭击。\n- 🇸🇪 Drönaren flög högt över staden. — 🇨🇳 无人机在城市上空高飞。\n- 🇸🇪 Militären använder drönare för att övervaka gränsen. — 🇨🇳 军队使用无人机来监视边境。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- `drönare` är en en-ord med pluralformen `drönare` (oförändrat).\n- Används både om militära och civila drönare.\n",
+      "lemma": "drönare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "无人机",
+      "en": "drone",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "sent-idag-har-det-varit-flera-ukrainska",
+        "source-2026-06-18-listening-svt-latt",
+        "topic-krig-och-konflikt"
       ]
     },
     {
@@ -31612,6 +33908,7 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "sent-flera-experter-säger-att-det-är-iran",
         "source-2026-06-18-nyheter-8sidor"
       ]
     },
@@ -31753,7 +34050,9 @@ window.KB_DATA = {
         "[[topic-samhälle-och-politik]]"
       ],
       "backlinks": [
+        "livstids-fängelse",
         "sent-i-mandags-domdes-mette-marits-son",
+        "sent-idag-dömdes-en-av-foxtrots-högsta",
         "sent-till-fyra-ars-fangelse-for-flera-brott",
         "source-2026-06-17-listening-svt-latt"
       ]
@@ -31940,6 +34239,39 @@ window.KB_DATA = {
       "backlinks": [
         "sent-fika-men-vi-har-farsk-kanelbulle",
         "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "fartyg",
+      "type": "word",
+      "title": "fartyg",
+      "path": "knowledge_base/words/fartyg.md",
+      "body": "# fartyg — substantiv (ett)\n\n📖 中文：船只，舰船 · English: vessel, ship\n发音提示：FAR-tyg\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | ett fartyg | fartyget | fartyg | fartygen |\n\n## 词组搭配 (Collocations)\n\n- `krigsfartyg` — 战舰\n- `handelsfartyg` — 商船\n- `fartyg kan börja åka` — 船只可以重新通行\n\n## 例句 (Sentences)\n\n- 🇸🇪 Iran ska öppna sundet så att fartyg kan börja åka igen. — 🇨🇳 伊朗将开放海峡，让船只能重新通行。\n- 🇸🇪 Fartyget är på väg till hamnen. — 🇨🇳 这艘船正在前往港口。\n- 🇸🇪 Flera stora fartyg passerade sundet varje dag. — 🇨🇳 每天有几艘大船经过海峡。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- `fartyg` är ett ett-ord med oförändrat plural: ett fartyg / flera fartyg.\n- Mer formellt/tekniskt än `båt` (小船 / boat).",
+      "excerpt": "fartyg — substantiv (ett) 📖 中文：船只，舰船 · English: vessel, ship 发音提示：FAR tyg 语法变形 (Forms) form singular obestämd singular bestämd plural obestämd plural bestämd grundform ett fartyg fartyget fartyg fartygen 词组搭配 (Collocati",
+      "forms": [
+        "fartyg",
+        "fartyget",
+        "fartygen"
+      ],
+      "links": [
+        "topic-krig-och-konflikt"
+      ],
+      "searchText": "fartyg fartyg knowledge_base/words/fartyg.md ---\ntype: word\nlemma: \"fartyg\"\nordklass: substantiv\ngenus: ett\ncefr: \"B1\"\nzh: \"船只，舰船\"\nen: \"vessel, ship\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-krig-och-konflikt\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fartyg — substantiv (ett)\n\n📖 中文：船只，舰船 · English: vessel, ship\n发音提示：FAR-tyg\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | ett fartyg | fartyget | fartyg | fartygen |\n\n## 词组搭配 (Collocations)\n\n- `krigsfartyg` — 战舰\n- `handelsfartyg` — 商船\n- `fartyg kan börja åka` — 船只可以重新通行\n\n## 例句 (Sentences)\n\n- 🇸🇪 Iran ska öppna sundet så att fartyg kan börja åka igen. — 🇨🇳 伊朗将开放海峡，让船只能重新通行。\n- 🇸🇪 Fartyget är på väg till hamnen. — 🇨🇳 这艘船正在前往港口。\n- 🇸🇪 Flera stora fartyg passerade sundet varje dag. — 🇨🇳 每天有几艘大船经过海峡。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- `fartyg` är ett ett-ord med oförändrat plural: ett fartyg / flera fartyg.\n- Mer formellt/tekniskt än `båt` (小船 / boat).\n",
+      "lemma": "fartyg",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "船只，舰船",
+      "en": "vessel, ship",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "sent-iran-ska-öppna-sundet-i-hormuz-genast",
+        "source-2026-06-18-listening-svt-latt",
+        "topic-krig-och-konflikt"
       ]
     },
     {
@@ -37980,6 +40312,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "kärnvapen",
+      "type": "word",
+      "title": "kärnvapen",
+      "path": "knowledge_base/words/kärnvapen.md",
+      "body": "# kärnvapen — substantiv (ett)\n\n📖 中文：核武器 · English: nuclear weapon\n发音提示：SHÄRN-VA-pen（kärn- 发 sh 音）\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | ett kärnvapen | kärnvapnet | kärnvapen | kärnvapnen |\n\n## 词组搭配 (Collocations)\n\n- `ha kärnvapen` — 拥有核武器\n- `kärnvapenfritt` — 无核的\n- `kärnvapentest` — 核试验\n\n## 例句 (Sentences)\n\n- 🇸🇪 I avtalet lovar Iran att inte ha kärnvapen. — 🇨🇳 在协议中，伊朗承诺不拥有核武器。\n- 🇸🇪 Många länder vill ha en värld fri från kärnvapen. — 🇨🇳 许多国家希望建立一个无核世界。\n- 🇸🇪 Kärnvapen är extremt farliga. — 🇨🇳 核武器极为危险。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vapen]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: `kärn-` (核) + `vapen` (武器).\n- `[[vapen]]` är redan inlärt i KB.",
+      "excerpt": "kärnvapen — substantiv (ett) 📖 中文：核武器 · English: nuclear weapon 发音提示：SHÄRN VA pen（kärn 发 sh 音） 语法变形 (Forms) form singular obestämd singular bestämd plural obestämd plural bestämd grundform ett kärnvapen kärnvapnet kärnv",
+      "forms": [
+        "kärnvapen",
+        "kärnvapnet",
+        "kärnvapnen"
+      ],
+      "links": [
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik",
+        "vapen"
+      ],
+      "searchText": "kärnvapen kärnvapen knowledge_base/words/kärnvapen.md ---\ntype: word\nlemma: \"kärnvapen\"\nordklass: substantiv\ngenus: ett\ncefr: \"B1\"\nzh: \"核武器\"\nen: \"nuclear weapon\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-samhälle-och-politik\n  - topic-krig-och-konflikt\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kärnvapen — substantiv (ett)\n\n📖 中文：核武器 · English: nuclear weapon\n发音提示：SHÄRN-VA-pen（kärn- 发 sh 音）\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | ett kärnvapen | kärnvapnet | kärnvapen | kärnvapnen |\n\n## 词组搭配 (Collocations)\n\n- `ha kärnvapen` — 拥有核武器\n- `kärnvapenfritt` — 无核的\n- `kärnvapentest` — 核试验\n\n## 例句 (Sentences)\n\n- 🇸🇪 I avtalet lovar Iran att inte ha kärnvapen. — 🇨🇳 在协议中，伊朗承诺不拥有核武器。\n- 🇸🇪 Många länder vill ha en värld fri från kärnvapen. — 🇨🇳 许多国家希望建立一个无核世界。\n- 🇸🇪 Kärnvapen är extremt farliga. — 🇨🇳 核武器极为危险。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vapen]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: `kärn-` (核) + `vapen` (武器).\n- `[[vapen]]` är redan inlärt i KB.\n",
+      "lemma": "kärnvapen",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "核武器",
+      "en": "nuclear weapon",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "sent-i-avtalet-lovar-iran-bland-annat",
+        "source-2026-06-18-listening-svt-latt",
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik"
+      ]
+    },
+    {
       "slug": "karta",
       "type": "word",
       "title": "karta",
@@ -39313,8 +41682,48 @@ window.KB_DATA = {
         "topic-samhälle-och-politik"
       ],
       "backlinks": [
+        "kriga",
         "sent-de-kom-överens-om-att-fortsätta",
-        "source-2026-06-18-nyheter-8sidor"
+        "source-2026-06-18-nyheter-8sidor",
+        "topic-krig-och-konflikt"
+      ]
+    },
+    {
+      "slug": "kriga",
+      "type": "word",
+      "title": "kriga",
+      "path": "knowledge_base/words/kriga.md",
+      "body": "# kriga — verb (grupp 1)\n\n📖 中文：打仗，作战 · English: to wage war, to fight (a war)\n发音提示：KREE-ga\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | kriga |\n| presens | krigar |\n| preteritum | krigade |\n| supinum | krigat |\n| imperativ | kriga! |\n\n## 词组搭配 (Collocations)\n\n- `sluta kriga` — 停止作战\n- `kriga mot` — 与……作战\n- `kriga i 60 dagar` — 停战 60 天（停止作战）\n\n## 例句 (Sentences)\n\n- 🇸🇪 De lovar att sluta kriga i 60 dagar. — 🇨🇳 他们承诺停战 60 天。\n- 🇸🇪 Länderna har krigat i flera år. — 🇨🇳 这些国家已经交战多年。\n- 🇸🇪 Ingen vill kriga, men konflikten fortsätter. — 🇨🇳 没有人想打仗，但冲突仍在继续。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[krig]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- `kriga` är verbgrupp 1 (regelbundet): krigar / krigade / krigat.\n- Substantivet [[krig]] (ett krig) är redan inlärt.\n- Vanlig fras: `sluta kriga` = ceasefire / stop fighting.",
+      "excerpt": "kriga — verb (grupp 1) 📖 中文：打仗，作战 · English: to wage war, to fight (a war) 发音提示：KREE ga 语法变形 (Forms) form Swedish infinitiv kriga presens krigar preteritum krigade supinum krigat imperativ kriga! 词组搭配 (Collocations) slu",
+      "forms": [
+        "kriga",
+        "krigar",
+        "krigade",
+        "krigat",
+        "kriga!"
+      ],
+      "links": [
+        "krig",
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "kriga kriga knowledge_base/words/kriga.md ---\ntype: word\nlemma: \"kriga\"\nordklass: verb\nverbgrupp: \"1\"\ncefr: \"B1\"\nzh: \"打仗，作战\"\nen: \"to wage war, to fight (a war)\"\nsynonyms: []\nantonyms: []\nfamily:\n  - krig\ntopics:\n  - topic-samhälle-och-politik\n  - topic-krig-och-konflikt\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kriga — verb (grupp 1)\n\n📖 中文：打仗，作战 · English: to wage war, to fight (a war)\n发音提示：KREE-ga\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | kriga |\n| presens | krigar |\n| preteritum | krigade |\n| supinum | krigat |\n| imperativ | kriga! |\n\n## 词组搭配 (Collocations)\n\n- `sluta kriga` — 停止作战\n- `kriga mot` — 与……作战\n- `kriga i 60 dagar` — 停战 60 天（停止作战）\n\n## 例句 (Sentences)\n\n- 🇸🇪 De lovar att sluta kriga i 60 dagar. — 🇨🇳 他们承诺停战 60 天。\n- 🇸🇪 Länderna har krigat i flera år. — 🇨🇳 这些国家已经交战多年。\n- 🇸🇪 Ingen vill kriga, men konflikten fortsätter. — 🇨🇳 没有人想打仗，但冲突仍在继续。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[krig]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- `kriga` är verbgrupp 1 (regelbundet): krigar / krigade / krigat.\n- Substantivet [[krig]] (ett krig) är redan inlärt.\n- Vanlig fras: `sluta kriga` = ceasefire / stop fighting.\n",
+      "lemma": "kriga",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "打仗，作战",
+      "en": "to wage war, to fight (a war)",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "sent-de-lovar-att-sluta-kriga-i-60-dagar",
+        "source-2026-06-18-listening-svt-latt",
+        "topic-krig-och-konflikt"
       ]
     },
     {
@@ -40765,6 +43174,7 @@ window.KB_DATA = {
         "topic-samhälle-och-politik"
       ],
       "backlinks": [
+        "sent-idag-dömdes-en-av-foxtrots-högsta",
         "sent-ledare-fran-olika-lander-har-samlats",
         "sent-nyligen-hade-ländernas-ledare",
         "sent-till-evian-i-frankrike-nu",
@@ -42345,6 +44755,8 @@ window.KB_DATA = {
         "midsommarstång",
         "sent-folk-i-sverige-har-firat",
         "sent-många-vill-ha-svenska-jordgubbar",
+        "sent-nu-önskar-vi-er-alla-en-riktigt",
+        "sent-nu-ska-vi-se-hur-vädret-blir",
         "sent-redan-i-midsommar-kan-det-bli",
         "source-2026-06-18-nyheter-8sidor",
         "topic-midsommar-traditioner"
@@ -42384,6 +44796,7 @@ window.KB_DATA = {
         "midsommar",
         "midsommarstång",
         "sent-fredagen-den-19-juni-är-det",
+        "sent-imorgon-på-midsommarafton-blir-det",
         "source-2026-06-18-nyheter-8sidor",
         "topic-midsommar-traditioner"
       ]
@@ -42503,6 +44916,40 @@ window.KB_DATA = {
         "sent-du-kan-inte-missa-den",
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-18-fraga-efter-vagen"
+      ]
+    },
+    {
+      "slug": "missbruk",
+      "type": "word",
+      "title": "missbruk",
+      "path": "knowledge_base/words/missbruk.md",
+      "body": "# missbruk — substantiv (ett)\n\n📖 中文：滥用，成瘾 · English: abuse, addiction, misuse\n发音提示：MIS-bruk\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | ett missbruk | missbruket | missbruk | missbruken |\n\n## 词组搭配 (Collocations)\n\n- `leda till missbruk` — 导致成瘾/滥用\n- `alkoholmissbruk` — 酗酒\n- `drogmissbruk` — 毒品滥用\n- `spelmissbruk` — 赌博成瘾\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det kan leda till missbruk också. — 🇨🇳 因为它也可能导致成瘾。\n- 🇸🇪 Han sökte hjälp för sitt missbruk. — 🇨🇳 他为自己的成瘾问题寻求了帮助。\n- 🇸🇪 Alkoholmissbruk är ett stort samhällsproblem. — 🇨🇳 酗酒是一个严重的社会问题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- `missbruk` är ett ett-ord med oförändrat plural.\n- Prefix `miss-` = fel/dålig användning → \"missuse\".\n- `missbruka` = verbet (att missbruka alkohol / droger / spel).",
+      "excerpt": "missbruk — substantiv (ett) 📖 中文：滥用，成瘾 · English: abuse, addiction, misuse 发音提示：MIS bruk 语法变形 (Forms) form singular obestämd singular bestämd plural obestämd plural bestämd grundform ett missbruk missbruket missbruk mis",
+      "forms": [
+        "missbruk",
+        "missbruket",
+        "missbruken"
+      ],
+      "links": [
+        "topic-hälsa"
+      ],
+      "searchText": "missbruk missbruk knowledge_base/words/missbruk.md ---\ntype: word\nlemma: \"missbruk\"\nordklass: substantiv\ngenus: ett\ncefr: \"B1\"\nzh: \"滥用，成瘾\"\nen: \"abuse, addiction, misuse\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-hälsa\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# missbruk — substantiv (ett)\n\n📖 中文：滥用，成瘾 · English: abuse, addiction, misuse\n发音提示：MIS-bruk\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | ett missbruk | missbruket | missbruk | missbruken |\n\n## 词组搭配 (Collocations)\n\n- `leda till missbruk` — 导致成瘾/滥用\n- `alkoholmissbruk` — 酗酒\n- `drogmissbruk` — 毒品滥用\n- `spelmissbruk` — 赌博成瘾\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det kan leda till missbruk också. — 🇨🇳 因为它也可能导致成瘾。\n- 🇸🇪 Han sökte hjälp för sitt missbruk. — 🇨🇳 他为自己的成瘾问题寻求了帮助。\n- 🇸🇪 Alkoholmissbruk är ett stort samhällsproblem. — 🇨🇳 酗酒是一个严重的社会问题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- `missbruk` är ett ett-ord med oförändrat plural.\n- Prefix `miss-` = fel/dålig användning → \"missuse\".\n- `missbruka` = verbet (att missbruka alkohol / droger / spel).\n",
+      "lemma": "missbruk",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "滥用，成瘾",
+      "en": "abuse, addiction, misuse",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "sent-för-att-det-kan-leda-till-missbruk",
+        "source-2026-06-18-listening-svt-latt",
+        "spel-om-pengar",
+        "topic-hälsa"
       ]
     },
     {
@@ -43264,6 +45711,8 @@ window.KB_DATA = {
         "topic-samhälle-och-politik"
       ],
       "backlinks": [
+        "sent-det-här-rapporterar-lokala-ryska",
+        "source-2026-06-18-listening-svt-latt",
         "source-2026-06-18-nyheter-8sidor"
       ]
     },
@@ -44256,6 +46705,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-länderna-ska-göra-det-svårare",
+        "sent-tidigt-i-morse-brann-det-i-en",
         "source-2026-06-18-nyheter-8sidor"
       ]
     },
@@ -46057,6 +48507,7 @@ window.KB_DATA = {
         "topic-yrken"
       ],
       "backlinks": [
+        "sent-redan-som-tonåring-blev-babis-stefanidis",
         "source-2026-06-09-zlatan-bio",
         "topic-fotboll",
         "topic-yrken"
@@ -49035,6 +51486,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "skuld",
+      "type": "word",
+      "title": "skuld",
+      "path": "knowledge_base/words/skuld.md",
+      "body": "# skuld — substantiv (en)\n\n📖 中文：债务；过错，罪责 · English: debt; guilt, fault\n发音提示：SKULD\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | en skuld | skulden | skulder | skulderna |\n\n## 词组搭配 (Collocations)\n\n- `ha skulder` — 有债务\n- `betala av skulden` — 还债\n- `ta på sig skulden` — 承担过错/罪责\n- `skulderna finns kvar` — 债务依然存在\n\n## 例句 (Sentences)\n\n**义项 1 — 债务:**\n- 🇸🇪 Idag är Babis Stefanidis fri från spel, men skulderna finns kvar. — 🇨🇳 如今他已戒掉赌博，但债务依然存在。\n- 🇸🇪 Han har stora skulder efter spelandet. — 🇨🇳 他因赌博欠下了巨额债务。\n\n**义项 2 — 过错/罪责:**\n- 🇸🇪 Det är inte hennes skuld att det gick fel. — 🇨🇳 事情出错不是她的错。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord, plural: skulder.\n- 两个核心义项注意区分：债务 (financial debt) vs. 过错/罪责 (guilt/blame)。\n- `skuldkänsla` = 愧疚感 (guilt feeling).",
+      "excerpt": "skuld — substantiv (en) 📖 中文：债务；过错，罪责 · English: debt; guilt, fault 发音提示：SKULD 语法变形 (Forms) form singular obestämd singular bestämd plural obestämd plural bestämd grundform en skuld skulden skulder skulderna 词组搭配 (Collo",
+      "forms": [
+        "skuld",
+        "skulden",
+        "skulder",
+        "skulderna"
+      ],
+      "links": [],
+      "searchText": "skuld skuld knowledge_base/words/skuld.md ---\ntype: word\nlemma: \"skuld\"\nordklass: substantiv\ngenus: en\ncefr: \"B1\"\nzh: \"债务；过错，罪责\"\nen: \"debt; guilt, fault\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skuld — substantiv (en)\n\n📖 中文：债务；过错，罪责 · English: debt; guilt, fault\n发音提示：SKULD\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | en skuld | skulden | skulder | skulderna |\n\n## 词组搭配 (Collocations)\n\n- `ha skulder` — 有债务\n- `betala av skulden` — 还债\n- `ta på sig skulden` — 承担过错/罪责\n- `skulderna finns kvar` — 债务依然存在\n\n## 例句 (Sentences)\n\n**义项 1 — 债务:**\n- 🇸🇪 Idag är Babis Stefanidis fri från spel, men skulderna finns kvar. — 🇨🇳 如今他已戒掉赌博，但债务依然存在。\n- 🇸🇪 Han har stora skulder efter spelandet. — 🇨🇳 他因赌博欠下了巨额债务。\n\n**义项 2 — 过错/罪责:**\n- 🇸🇪 Det är inte hennes skuld att det gick fel. — 🇨🇳 事情出错不是她的错。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord, plural: skulder.\n- 两个核心义项注意区分：债务 (financial debt) vs. 过错/罪责 (guilt/blame)。\n- `skuldkänsla` = 愧疚感 (guilt feeling).\n",
+      "lemma": "skuld",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "债务；过错，罪责",
+      "en": "debt; guilt, fault",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "sent-idag-är-babis-stefanidis-fri-från-spel",
+        "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "skvallra",
       "type": "word",
       "title": "skvallra",
@@ -49908,6 +52388,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-jag-promenerar-langs-storgatan-solig-tisdag",
+        "sent-söndagen-blir-dock-torr-och-solig",
         "source-2026-06-09-beskriva-en-gata",
         "topic-stadsmiljo"
       ]
@@ -50317,6 +52798,43 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-08-djur",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "sprängning",
+      "type": "word",
+      "title": "sprängning",
+      "path": "knowledge_base/words/sprängning.md",
+      "body": "# sprängning — substantiv (en)\n\n📖 中文：爆炸，爆破 · English: explosion, bombing, detonation\n发音提示：SPRENG-ning\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | en sprängning | sprängningen | sprängningar | sprängningarna |\n\n## 词组搭配 (Collocations)\n\n- `beordra sprängningar` — 下令实施爆炸\n- `en sprängning inträffade` — 发生了一起爆炸\n- `bombangrepp och sprängningar` — 轰炸与爆炸\n\n## 例句 (Sentences)\n\n- 🇸🇪 Från utlandet beställde han mord och sprängningar. — 🇨🇳 他在国外下令实施谋杀和爆炸。\n- 🇸🇪 En sprängning skakade hela kvarteret. — 🇨🇳 一场爆炸震动了整个街区。\n- 🇸🇪 Polisen undersöker en misstänkt sprängning i centrum. — 🇨🇳 警察正在调查市中心一起疑似爆炸事件。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord, plural: sprängningar.\n- Härledd av verbet `spränga` (att spränga = to blow up, to detonate).\n- I gangsterkontext: kriminella gäng utför sprängningar mot fastigheter.",
+      "excerpt": "sprängning — substantiv (en) 📖 中文：爆炸，爆破 · English: explosion, bombing, detonation 发音提示：SPRENG ning 语法变形 (Forms) form singular obestämd singular bestämd plural obestämd plural bestämd grundform en sprängning sprängningen",
+      "forms": [
+        "sprängning",
+        "sprängningen",
+        "sprängningar",
+        "sprängningarna"
+      ],
+      "links": [
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "sprängning sprängning knowledge_base/words/sprängning.md ---\ntype: word\nlemma: \"sprängning\"\nordklass: substantiv\ngenus: en\ncefr: \"B1\"\nzh: \"爆炸，爆破\"\nen: \"explosion, bombing, detonation\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-samhälle-och-politik\n  - topic-krig-och-konflikt\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# sprängning — substantiv (en)\n\n📖 中文：爆炸，爆破 · English: explosion, bombing, detonation\n发音提示：SPRENG-ning\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | en sprängning | sprängningen | sprängningar | sprängningarna |\n\n## 词组搭配 (Collocations)\n\n- `beordra sprängningar` — 下令实施爆炸\n- `en sprängning inträffade` — 发生了一起爆炸\n- `bombangrepp och sprängningar` — 轰炸与爆炸\n\n## 例句 (Sentences)\n\n- 🇸🇪 Från utlandet beställde han mord och sprängningar. — 🇨🇳 他在国外下令实施谋杀和爆炸。\n- 🇸🇪 En sprängning skakade hela kvarteret. — 🇨🇳 一场爆炸震动了整个街区。\n- 🇸🇪 Polisen undersöker en misstänkt sprängning i centrum. — 🇨🇳 警察正在调查市中心一起疑似爆炸事件。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord, plural: sprängningar.\n- Härledd av verbet `spränga` (att spränga = to blow up, to detonate).\n- I gangsterkontext: kriminella gäng utför sprängningar mot fastigheter.\n",
+      "lemma": "sprängning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "爆炸，爆破",
+      "en": "explosion, bombing, detonation",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "sent-från-utlandet-beställde-han-mord",
+        "source-2026-06-18-listening-svt-latt",
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik"
       ]
     },
     {
@@ -50852,6 +53370,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "straff",
+      "type": "word",
+      "title": "straff",
+      "path": "knowledge_base/words/straff.md",
+      "body": "# straff — substantiv (ett)\n\n📖 中文：惩罚；（经济）制裁 · English: punishment, penalty; sanction\n发音提示：STRAF（短促）\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | ett straff | straffet | straff | straffen |\n\n## 词组搭配 (Collocations)\n\n- `ekonomiska straff` — 经济制裁（sanctions）\n- `sluta med straff` — 停止制裁\n- `straffrättslig` — 刑事的\n\n## 例句 (Sentences)\n\n**义项 1 — 惩罚/刑罚:**\n- 🇸🇪 Vilket straff får han för brottet? — 🇨🇳 他因这项罪行会受到什么惩罚？\n- 🇸🇪 Straffet för stöld är böter eller fängelse. — 🇨🇳 盗窃的刑罚是罚款或监禁。\n\n**义项 2 — 经济制裁:**\n- 🇸🇪 USA lovar att sluta med ekonomiska straff mot Iran. — 🇨🇳 美国承诺停止对伊朗的经济制裁。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- `straff` är ett ett-ord med oförändrat plural.\n- I politiska sammanhang = sanktioner (economic sanctions).\n- I juridiska sammanhang = dom/påföljd.",
+      "excerpt": "straff — substantiv (ett) 📖 中文：惩罚；（经济）制裁 · English: punishment, penalty; sanction 发音提示：STRAF（短促） 语法变形 (Forms) form singular obestämd singular bestämd plural obestämd plural bestämd grundform ett straff straffet straff s",
+      "forms": [
+        "straff",
+        "straffet",
+        "straffen"
+      ],
+      "links": [
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "straff straff knowledge_base/words/straff.md ---\ntype: word\nlemma: \"straff\"\nordklass: substantiv\ngenus: ett\ncefr: \"B1\"\nzh: \"惩罚；（经济）制裁\"\nen: \"punishment, penalty; (economic) sanction\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-samhälle-och-politik\n  - topic-krig-och-konflikt\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# straff — substantiv (ett)\n\n📖 中文：惩罚；（经济）制裁 · English: punishment, penalty; sanction\n发音提示：STRAF（短促）\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | ett straff | straffet | straff | straffen |\n\n## 词组搭配 (Collocations)\n\n- `ekonomiska straff` — 经济制裁（sanctions）\n- `sluta med straff` — 停止制裁\n- `straffrättslig` — 刑事的\n\n## 例句 (Sentences)\n\n**义项 1 — 惩罚/刑罚:**\n- 🇸🇪 Vilket straff får han för brottet? — 🇨🇳 他因这项罪行会受到什么惩罚？\n- 🇸🇪 Straffet för stöld är böter eller fängelse. — 🇨🇳 盗窃的刑罚是罚款或监禁。\n\n**义项 2 — 经济制裁:**\n- 🇸🇪 USA lovar att sluta med ekonomiska straff mot Iran. — 🇨🇳 美国承诺停止对伊朗的经济制裁。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- `straff` är ett ett-ord med oförändrat plural.\n- I politiska sammanhang = sanktioner (economic sanctions).\n- I juridiska sammanhang = dom/påföljd.\n",
+      "lemma": "straff",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "惩罚；（经济）制裁",
+      "en": "punishment, penalty; (economic) sanction",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "sent-och-usa-lovar-att-sluta-med-ekonomiska",
+        "source-2026-06-18-listening-svt-latt",
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik"
+      ]
+    },
+    {
       "slug": "stressig",
       "type": "word",
       "title": "stressig",
@@ -51060,6 +53614,8 @@ window.KB_DATA = {
         "topic-hälsa"
       ],
       "backlinks": [
+        "sent-iran-ska-öppna-sundet-i-hormuz-genast",
+        "source-2026-06-18-listening-svt-latt",
         "topic-hälsa"
       ]
     },
@@ -53445,6 +56001,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "undersökning",
+      "type": "word",
+      "title": "undersökning",
+      "path": "knowledge_base/words/undersökning.md",
+      "body": "# undersökning — substantiv (en)\n\n📖 中文：调查，研究；检查 · English: survey, study, investigation; examination\n发音提示：un-der-SÖK-ning\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | en undersökning | undersökningen | undersökningar | undersökningarna |\n\n## 词组搭配 (Collocations)\n\n- `en ny undersökning` — 一项新调查\n- `en undersökning visar` — 一项调查显示\n- `läkarundersökning` — 体检，医学检查\n\n## 例句 (Sentences)\n\n**义项 1 — 调查/研究:**\n- 🇸🇪 Det här visar en ny undersökning. — 🇨🇳 这是一项新调查显示的。\n- 🇸🇪 Undersökningen från Karolinska institutet visar att problemet är stort. — 🇨🇳 卡罗林斯卡学院的调查显示这个问题很严重。\n\n**义项 2 — 医学检查:**\n- 🇸🇪 Doktorn gör en undersökning av patienten. — 🇨🇳 医生对病人进行检查。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord, pluralform: undersökningar.\n- Härledd av verbet `undersöka` (att undersöka = to investigate/examine).\n- `ny undersökning` = vanlig fras i nyhetsspråk.",
+      "excerpt": "undersökning — substantiv (en) 📖 中文：调查，研究；检查 · English: survey, study, investigation; examination 发音提示：un der SÖK ning 语法变形 (Forms) form singular obestämd singular bestämd plural obestämd plural bestämd grundform en und",
+      "forms": [
+        "undersökning",
+        "undersökningen",
+        "undersökningar",
+        "undersökningarna"
+      ],
+      "links": [
+        "topic-hälsa"
+      ],
+      "searchText": "undersökning undersökning knowledge_base/words/undersökning.md ---\ntype: word\nlemma: \"undersökning\"\nordklass: substantiv\ngenus: en\ncefr: \"B1\"\nzh: \"调查，研究；检查\"\nen: \"survey, study, investigation; examination\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - topic-hälsa\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# undersökning — substantiv (en)\n\n📖 中文：调查，研究；检查 · English: survey, study, investigation; examination\n发音提示：un-der-SÖK-ning\n\n## 语法变形 (Forms)\n\n| form | singular obestämd | singular bestämd | plural obestämd | plural bestämd |\n|------|-------------------|-----------------|-----------------|----------------|\n| grundform | en undersökning | undersökningen | undersökningar | undersökningarna |\n\n## 词组搭配 (Collocations)\n\n- `en ny undersökning` — 一项新调查\n- `en undersökning visar` — 一项调查显示\n- `läkarundersökning` — 体检，医学检查\n\n## 例句 (Sentences)\n\n**义项 1 — 调查/研究:**\n- 🇸🇪 Det här visar en ny undersökning. — 🇨🇳 这是一项新调查显示的。\n- 🇸🇪 Undersökningen från Karolinska institutet visar att problemet är stort. — 🇨🇳 卡罗林斯卡学院的调查显示这个问题很严重。\n\n**义项 2 — 医学检查:**\n- 🇸🇪 Doktorn gör en undersökning av patienten. — 🇨🇳 医生对病人进行检查。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[]]\n- 同义词: [[]]\n- 反义词: [[]]\n- 主题: [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord, pluralform: undersökningar.\n- Härledd av verbet `undersöka` (att undersöka = to investigate/examine).\n- `ny undersökning` = vanlig fras i nyhetsspråk.\n",
+      "lemma": "undersökning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "调查，研究；检查",
+      "en": "survey, study, investigation; examination",
+      "created": "2026-06-18",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "sent-det-visar-en-ny-undersökning-från-karolinska",
+        "sent-har-problem-med-spel-om-pengar",
+        "source-2026-06-18-listening-svt-latt",
+        "topic-hälsa"
+      ]
+    },
+    {
       "slug": "ung",
       "type": "word",
       "title": "ung",
@@ -53673,7 +56264,8 @@ window.KB_DATA = {
         "topic-skola-och-utbildning"
       ],
       "backlinks": [
-        "bildning"
+        "bildning",
+        "sent-föreningen-svensk-elitfotboll-har-nu"
       ]
     },
     {
@@ -54066,6 +56658,7 @@ window.KB_DATA = {
         "topic-personer"
       ],
       "backlinks": [
+        "sent-hej-och-välkommen-till-nyheter",
         "topic-personer",
         "välkomna"
       ]
@@ -54412,8 +57005,10 @@ window.KB_DATA = {
         "topic-samhälle-och-politik"
       ],
       "backlinks": [
+        "kärnvapen",
         "sent-länderna-ska-skicka-mer-vapen",
-        "source-2026-06-18-nyheter-8sidor"
+        "source-2026-06-18-nyheter-8sidor",
+        "topic-krig-och-konflikt"
       ]
     },
     {
