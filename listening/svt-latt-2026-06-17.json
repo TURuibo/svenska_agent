@@ -62,20 +62,29 @@
     { "start": 249.48, "end": 255.6, "sv": "Här slutar Nyheter på lätt svenska. Vi önskar trevlig kväll!", "zh": "《简易瑞典语新闻》到此结束。祝您度过一个愉快的夜晚！" }
   ],
   "vocab": [
-    { "sv": "akuten", "pos": "substantiv en", "zh": "急诊室（akut 的定形）", "en": "the emergency room" },
-    { "sv": "väntetid", "pos": "substantiv en", "zh": "等待时间", "en": "waiting time" },
-    { "sv": "statistik", "pos": "substantiv en", "zh": "统计；统计数据", "en": "statistics" },
-    { "sv": "i genomsnitt", "pos": "uttryck", "zh": "平均", "en": "on average" },
-    { "sv": "skillnad", "pos": "substantiv en", "zh": "差别；区别", "en": "difference" },
-    { "sv": "öka", "pos": "verb v.2", "zh": "增加（ökar / ökade / ökat）", "en": "to increase" },
-    { "sv": "väljare", "pos": "substantiv en", "zh": "选民", "en": "voter" },
-    { "sv": "regering", "pos": "substantiv en", "zh": "政府", "en": "government" },
-    { "sv": "val", "pos": "substantiv ett", "zh": "选举", "en": "election" },
-    { "sv": "ränta", "pos": "substantiv en", "zh": "利率；利息", "en": "interest rate" },
-    { "sv": "höja", "pos": "verb v.2", "zh": "提高（höjer / höjde / höjt）", "en": "to raise" },
-    { "sv": "doma / döma", "pos": "verb v.2", "zh": "判决（döms / dömde / dömt）", "en": "to sentence, judge" },
-    { "sv": "fängelse", "pos": "substantiv ett", "zh": "监狱；监禁", "en": "prison" },
-    { "sv": "stiga", "pos": "verb v.4", "zh": "上升（stiger / steg / stigit）", "en": "to rise" },
-    { "sv": "bekymmersam", "pos": "adjektiv", "zh": "令人担忧的", "en": "worrying" }
+    { "sv": "akuten", "lemma": "akut", "pos": "substantiv en", "zh": "急诊室（akut 的定形）", "en": "the emergency room" },
+    { "sv": "väntetid", "lemma": "väntetid", "pos": "substantiv en", "zh": "等待时间", "en": "waiting time" },
+    { "sv": "statistik", "lemma": "statistik", "pos": "substantiv en", "zh": "统计；统计数据", "en": "statistics" },
+    { "sv": "skillnad", "lemma": "skillnad", "pos": "substantiv en", "zh": "差别；区别", "en": "difference" },
+    { "sv": "öka", "lemma": "öka", "pos": "verb v.2", "zh": "增加（ökar / ökade / ökat）", "en": "to increase" },
+    { "sv": "väljare", "lemma": "väljare", "pos": "substantiv en", "zh": "选民", "en": "voter" },
+    { "sv": "regering", "lemma": "regering", "pos": "substantiv en", "zh": "政府", "en": "government" },
+    { "sv": "val", "lemma": "val", "pos": "substantiv ett", "zh": "选举", "en": "election" },
+    { "sv": "ränta", "lemma": "ränta", "pos": "substantiv en", "zh": "利率；利息", "en": "interest rate" },
+    { "sv": "höja", "lemma": "höja", "pos": "verb v.2", "zh": "提高（höjer / höjde / höjt）", "en": "to raise" },
+    { "sv": "döma", "lemma": "döma", "pos": "verb v.2", "zh": "判决（döms / dömde / dömt）", "en": "to sentence, judge" },
+    { "sv": "fängelse", "lemma": "fängelse", "pos": "substantiv ett", "zh": "监狱；监禁", "en": "prison" },
+    { "sv": "stiga", "lemma": "stiga", "pos": "verb v.4", "zh": "上升（stiger / steg / stigit）", "en": "to rise" },
+    { "sv": "bekymmersam", "lemma": "bekymmersam", "pos": "adjektiv", "zh": "令人担忧的", "en": "worrying" }
+  ],
+  "phrases": [
+    { "sv": "i genomsnitt", "lemma": "i genomsnitt", "category": "uttryck", "zh": "平均", "en": "on average" },
+    { "sv": "söka hjälp", "lemma": "söka hjälp", "category": "kollokation", "zh": "求助；寻求帮助", "en": "to seek help" },
+    { "sv": "förlora makten", "lemma": "förlora makten", "category": "kollokation", "zh": "失去政权", "en": "to lose power" },
+    { "sv": "bland annat", "lemma": "bland annat", "category": "diskursmarkör", "zh": "其中；包括", "en": "among other things" }
+  ],
+  "grammar": [
+    { "name": "komparativ", "lemma": "komparativ", "zh": "比较级（längre, kortast）", "en": "comparative/superlative" },
+    { "name": "passiv-s", "lemma": "passiv-s", "zh": "-s 被动态（dömdes）", "en": "s-passive" }
   ]
 }

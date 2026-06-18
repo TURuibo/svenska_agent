@@ -30,11 +30,14 @@ allowed-tools: WebFetch, WebSearch, Read, Write, Bash
 2. `WebFetch` 那个 `.vtt` URL → **逐句字幕**(每条带 `start --> end` 时间轴 + 瑞典语文本)。原样保留分句，
    末尾的 "Textning: SVT…©" 版权行可丢弃。
 
-## 3. 翻译 + 生词 (遵循 swedish 技能)
+## 3. 翻译 + 学习项 (遵循 swedish 技能)
 
 - 对**每一条字幕**给出忠实的**简体中文翻译**(逐句对齐，便于对照精听)。
-- 选 **10–15 个**最值得记的生词/词组(grundform)，给 `pos`(词性)、`zh`、`en`。分类遵循
-  `swedish-dictionary` / `swedish-phrases`。
+- 抽取学习项，**全部用 grundform**，分类遵循 `swedish-dictionary` / `swedish-phrases` / `swedish-grammar`：
+  - **生词** 10–15 个：`lemma`(grundform，作 KB slug 用) + 显示形 `sv` + `pos` + `zh` + `en`。
+    显示形可保留字幕里的形态(如 `akuten`)，但 `lemma` 必须是基础形(`akut`)。
+  - **词组** 3–6 个：`lemma`(grundform) + `sv` + `category` + `zh` + `en`。
+  - **语法** 1–3 个：`name`/`lemma` + `zh` + `en`。
 
 ## 4. 查重 + 写数据文件
 
@@ -54,20 +57,33 @@ allowed-tools: WebFetch, WebSearch, Read, Write, Bash
   "hlsUrl": "<.m3u8>",
   "vttUrl": "<.vtt>",
   "cues": [ { "start": <秒.毫秒>, "end": <秒.毫秒>, "sv": "<瑞典语>", "zh": "<中文>" }, … ],
-  "vocab": [ { "sv": "<lemma>", "pos": "<词性>", "zh": "<中文>", "en": "<English>" }, … ]
+  "vocab":   [ { "sv": "<显示形>", "lemma": "<grundform>", "pos": "<词性>", "zh": "<中文>", "en": "<English>" }, … ],
+  "phrases": [ { "sv": "<词组>", "lemma": "<grundform>", "category": "<类型>", "zh": "<中文>", "en": "<English>" }, … ],
+  "grammar": [ { "name": "<语法点>", "lemma": "<语法点>", "zh": "<中文>", "en": "<English>" }, … ]
 }
 ```
 
 时间戳转成**秒**(浮点，如 `00:01:57.800` → `117.8`)。
 
-## 5. 重建听力站 + 收尾
+`tools/build-listening-site.js` 会拿每个 `lemma` 去 `knowledge_base/_index/slugs.json` 匹配，命中就给该条目
+加 KB 链接(站点上变成可点 → 跳词条解释页)，所以 `lemma` 一定要是 KB slug 用的 grundform。
+
+## 5. 入库 (KB import — 让它进 recap/搜索/review)
+
+听力学习项要像每日新闻一样**进知识库**(否则不会出现在 recap/Dagbok、主站搜索、`/review`，词卡也无法链接解释)。
+所以**额外**写一个导入文件 `inbox/horning-<DATE>.md`：可读正文(原文+🇨🇳) + 一个 fenced ` ```svensk-export v1 ` 块，
+块里 `words`(用 lemma) / `phrases` / `sentences`(覆盖**每一条字幕** `sv | zh`) / `grammar`，格式照 `EXPORT_PROTOCOL.md` Part A。
+入库由日后 `/import`(或每日脚本 `scripts/daily-listening.ps1` 自动调 `import-and-rebuild.ps1`)完成 —— 本命令不直接写 `knowledge_base/`。
+
+## 6. 重建听力站 + 收尾
 
 - 运行 `node tools/build-listening-site.js`(扫 `listening/*.json` → `site/listening/listening-data.js`)。
 - 输出一行精简确认：
 
 ```
-✅ 今日听力已生成: listening/svt-latt-<DATE>.json  ·  <N> 句 · <M> 生词 · <时长>
-🎧 打开主站侧栏「🎧 Lyssna」即可练习(盲听/精听/单句循环/倍速)。
+✅ 今日听力已生成: listening/svt-latt-<DATE>.json (播放) + inbox/horning-<DATE>.md (待入库)
+   <N> 句 · <M> 生词 · <P> 词组 · <时长>
+🎧 打开主站侧栏「🎧 Lyssna」练习；/import horning-<DATE>.md 入库后词卡可点看解释。
 ```
 
 > 这是真实字幕抓取，**不得编造**台词或译文。逐句中文翻译要忠实于瑞典语原文。

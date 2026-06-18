@@ -148,7 +148,10 @@
   border: 1px solid var(--line); border-radius: 10px; background: var(--panel); padding: 10px 12px;
   display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline;
 }
+.itemsHint { font-size: 13px; color: var(--muted); margin: 0 0 14px; line-height: 1.5; }
 .vSv { font-weight: 600; color: var(--ink); }
+.vLink { color: var(--green-dark); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--green); cursor: pointer; }
+.vLink:hover { color: var(--green); background: var(--panel-soft); border-radius: 4px; }
 .vPos { font-size: 12px; color: var(--gold); }
 .vZh { font-size: 14px; color: var(--ink); font-family: var(--cjk); width: 100%; }
 .vEn { font-size: 12px; color: var(--muted); width: 100%; }
