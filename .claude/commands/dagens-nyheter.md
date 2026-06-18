@@ -58,8 +58,11 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 
 ---
 
+📺 今日听力 (lyssna): **SVT Nyheter på lätt svenska** — 简易瑞典语新闻视频（vardagar ~17:15，约 4 分钟，带瑞典语字幕，可全球观看）：https://www.svtplay.se/nyheter-pa-latt-svenska
 ⏭ 想录入知识库：/import news-<DATE>.md
 ```
+
+> 📺 那行 SVT 听力链接**固定写死**（始终指向 SVT Play 节目页，自动显示最新一集），不进 KB、不参与抓取，只是给用户配套的听力资源。
 
 ### 3b. 紧接一个 fenced ` ```svensk-export v1 ` 块
 

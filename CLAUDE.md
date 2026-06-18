@@ -72,6 +72,7 @@ For a **single word/phrase/sentence**, don't spawn a subagent — just store it 
 - `/import` — ingest a `svensk-export v1` block (pasted or from `inbox/`) with dedup + linking.
 - `/scenario` — 生成情景练习文本 (generate a Swedish practice scenario — dialogue/text/narrative) into `inbox/` for review, then import with `/import`.
 - `/dagens-nyheter` — 抓取 5 条最新瑞典语简易新闻 (8 Sidor lättläst) 写入 `inbox/`（人读正文 + 导入块），供 `/import` 入库。每日由 routine `svensk-news-daily` 自动跑（见 §4.4）。
+- `/dagens-horovning` — 抓取最新一集 SVT「Nyheter på lätt svenska」字幕(原文+时间轴)配中文翻译+生词，生成 **Lyssna 听力站** 练习数据（见 §4.5）。
 
 ---
 
@@ -225,7 +226,9 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 **三个部件：**
 - `/dagens-nyheter [YYYY-MM-DD]` — 命令 `.claude/commands/dagens-nyheter.md`：用 `WebFetch`/`WebSearch`
   抓 8 Sidor 最新 5 条，写成「可读新闻摘要 + `svensk-export v1` 导入块」存入 `inbox/news-<DATE>.md`。
-  不碰 `knowledge_base/`。新闻为真实抓取，**不得编造**。
+  不碰 `knowledge_base/`。新闻为真实抓取，**不得编造**。可读正文底部固定附一行 **SVT Nyheter på lätt
+  svenska** 听力链接（`svtplay.se/nyheter-pa-latt-svenska`，简易瑞典语新闻视频）——只是配套听力资源，
+  写死、不进 KB、不参与抓取。（SVT 那档是**视频**汇总，无法逐条抓文字，所以抓取链路仍只用 8 Sidor。）
 - `scripts/daily-news.ps1` — 包装脚本：算好日期传给命令，调 headless `claude -p`，**allowedTools 含
   `WebSearch,WebFetch`**（新闻需要联网抓取）。产出后调共享助手 `scripts/import-and-rebuild.ps1`
   → headless `/import` → `node tools/build-kb-site.js` → 归档到 `imported/` → push，最后弹 Windows toast。
@@ -235,6 +238,29 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
   `list_scheduled_tasks` / `update_scheduled_task` / 侧栏「Scheduled」。**只在 Claude 桌面应用开着时准点跑**，关着下次启动补跑。
 
 所以新闻和 scenario/adjsubst 一样**全自动入库**，用户只剩 `/review`。
+
+### §4.5 听力练习 (Listening — SVT lätt svenska)
+
+**`/dagens-horovning [svt-video-id]`** 抓取 **SVT「Nyheter på lätt svenska」**(简易瑞典语新闻**视频**，
+工作日 ~17:15 约 4.5 分钟)的**字幕原文 + 时间轴**，配**逐句中文翻译**和**生词表**，生成一集听力数据，
+供在 **Lyssna 听力站** 里盲听/精听/跟读/单句循环/倍速练习。命令 `.claude/commands/dagens-horovning.md`。
+
+**数据链(全部经 SVT 官方接口，真实抓取、不编造）：**
+1. 节目页 `svtplay.se/nyheter-pa-latt-svenska` → 最新一集 video id。
+2. `api.svt.se/video/<id>` → HLS `.m3u8` 流 URL + 瑞典语 WebVTT `.vtt` 字幕 URL + `contentDuration`。
+3. WebFetch `.vtt` → 逐句字幕(带时间轴) → 我配中文翻译 + 10–15 生词 → 写 `listening/svt-latt-<DATE>.json`。
+4. `node tools/build-listening-site.js` 扫 `listening/*.json` → `site/listening/listening-data.js`。
+
+**站点 `site/listening/`(主站侧栏 🎧 Lyssna 入口)**：`index.html` + `listening.js` + `listening.css`。
+用 **hls.js**(CDN)播放 SVT 的 HLS 流(已验证 SVT 的 akamai CDN 回 `Access-Control-Allow-Origin: *`，
+Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点击跳转 + 播放时自动高亮跟随**、
+🇸🇪 原文 / 🇨🇳 翻译显隐(盲听 = 隐藏原文，仅当前句揭示)、🔁 单句循环、0.75/1/1.25× 倍速、生词卡。
+
+**只存元数据 + 我生成的译文/生词**：音频、字幕**实时从 SVT CDN 取**，不下载、不转存(版权安全)。
+媒体 URL 仅在该集可看期(~1 周)内有效，过期后站点提示并回退到「📺 在 SVT Play 看」。
+
+> 注意：`listening/` 与 `site/listening/` 都是 **tracked**(不像 `inbox/` 被 gitignore)，随 git 正常多设备同步。
+> SVT 那档是**视频**、没有逐条文字页面，所以它**只做听力**；抓**文字入库**的每日新闻仍走 8 Sidor(§4.4)——两条线分工不冲突。
 
 ---
 
