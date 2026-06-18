@@ -8,6 +8,32 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— Fråga efter vägen 问路 (2026-06-18) — 7词 / 4词组 / 12句 / 2语法 —** | | | | | | |
+| [[förlåt]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[svänga]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[passera]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[karta]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[rondell]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[hjälpsam]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[härifrån]] | word | — | 0 | 2.5 | 2026-06-18 | no |
+| [[hur-kommer-jag-dit]] | phrase | — | 0 | 2.5 | 2026-06-18 | no |
+| [[till-höger]] | phrase | — | 0 | 2.5 | 2026-06-18 | no |
+| [[i-närheten]] | phrase | — | 0 | 2.5 | 2026-06-18 | no |
+| [[hoppas-du-hittar-det]] | phrase | — | 0 | 2.5 | 2026-06-18 | no |
+| [[grammar-bisats-tills]] | grammar | — | 0 | 2.5 | 2026-06-18 | no |
+| [[grammar-platspronomen-dit-dar]] | grammar | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-förlåt-kan-du-hjälpa-mig]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-jag-letar-efter-apoteket]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-det-är-inte-så-långt-härifrån]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-hur-kommer-jag-dit]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-gå-rakt-fram-längs-den-här-gatan]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-sedan-svänger-du-till-höger]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-till-höger-vid-trafikljusen]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-apoteket-ligger-mitt-emot-en-stor-byggnad]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-finns-det-en-karta-någonstans]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-men-om-du-vill-kan-du-ta-en-bild]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-du-är-väldigt-hjälpsam]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| [[sent-varsågod-hoppas-du-hittar-det]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
 | [[arbeta]] | word | — | 0 | 2.5 | 立即 | no |
 | [[jobba]] | word | — | 0 | 2.5 | 立即 | no |
 | [[jobb]] | word | — | 0 | 2.5 | 立即 | no |
