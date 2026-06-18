@@ -27,6 +27,15 @@ can jump between **all five** pages from any page. On desktop it's a slim sticky
 phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted). Add a new
 destination once, in `nav.js`'s `DEST` list — never per page.
 
+## Cache-busting (`?v=N`)
+
+Static code assets (`styles.css`, `nav.js`, each page's `*.css` / `*.js`) are referenced with a
+`?v=N` query, e.g. `styles.css?v=2`. **When you edit any of those files, bump the number** (same `N`
+across all pages) so browsers fetch the new copy instead of a stale cached one — important since the
+site is used on both laptop and phone. Data files (`kb-data.js`, `reading-data.js`,
+`listening-data.js`) are intentionally left unversioned: the daily routines regenerate them, and a
+frozen `?v` would hide fresh data.
+
 ## Sök (search tool)
 
 `site/sok/` supports category filters, full-text search (term highlighting + match snippets), note
