@@ -45,7 +45,7 @@
   function inline(s) {
     let t = escapeHtml(s);
     t = t.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_m, slug, label) =>
-      `<a href="../#note=${encodeURIComponent(slug)}" target="_blank" rel="noopener">${escapeHtml(label || slug)}</a>`);
+      `<a href="../sok/#note=${encodeURIComponent(slug)}" target="_blank" rel="noopener">${escapeHtml(label || slug)}</a>`);
     t = t.replace(/`([^`]+)`/g, '<code>$1</code>');
     t = t.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
     return t;
@@ -124,7 +124,7 @@
   }
   const BACK_TARGETS = {
     forms: { href: '../forms/#', label: '← 返回词形表' },
-    recap: { href: '../recap/#', label: '← 返回 Dagbok' },
+    recap: { href: '../#', label: '← 返回 Dagbok' },
   };
   const _h = parseHash();
   const backAnchor = _h.from || '';

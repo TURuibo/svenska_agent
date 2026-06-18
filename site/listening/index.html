@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../styles.css" />
     <link rel="stylesheet" href="listening.css" />
   </head>
-  <body class="listenBody">
+  <body class="listenBody" data-site="listening">
     <header class="listenHeader">
       <div class="listenHeaderInner">
         <div class="listenBrand">
@@ -15,11 +15,6 @@
           <h1>Lyssna <span class="brandSub">SVT 简易新闻听力</span></h1>
           <p id="listenUpdated" class="updated">Loading…</p>
         </div>
-        <nav class="listenNav" aria-label="Site nav">
-          <a class="navLink" href="../">🔍 Search KB</a>
-          <a class="navLink" href="../reading/">📖 Läsning</a>
-          <a class="navLink" href="../recap/">📅 Dagbok</a>
-        </nav>
       </div>
     </header>
 
@@ -87,5 +82,6 @@
     <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.13/dist/hls.min.js"></script>
     <script src="listening-data.js"></script>
     <script src="listening.js"></script>
+    <script src="../nav.js"></script>
   </body>
 </html>

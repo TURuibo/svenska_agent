@@ -196,7 +196,7 @@
 
 .jumpBar button {
   border: 1px solid var(--line);
-  background: rgba(255, 255, 255, 0.85);
+  background: var(--panel);
   padding: 6px 14px;
   border-radius: 999px;
   cursor: pointer;
@@ -500,7 +500,7 @@
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  z-index: 50;
+  z-index: 210;
 }
 
 .peekHeader {
@@ -648,7 +648,7 @@
 .flashOverlay {
   position: fixed;
   inset: 0;
-  z-index: 100;
+  z-index: 300;
   background: rgba(23, 33, 27, 0.86);
   backdrop-filter: blur(6px);
   display: flex;
@@ -849,7 +849,7 @@
 
 @media (max-width: 760px) {
   .recapHeader { padding: 16px 14px 8px; }
-  .recapMain { padding: 8px 14px 80px; }
+  .recapMain { padding: 8px 14px 24px; }
   .recapBrand h1 { font-size: 28px; }
   .brandSub { font-size: 16px; }
 
@@ -860,10 +860,11 @@
   .statN { font-size: 20px; }
 
   .heatmap {
-    grid-auto-columns: 12px;
-    grid-template-rows: repeat(7, 12px);
+    grid-auto-columns: 15px;
+    grid-template-rows: repeat(7, 15px);
+    gap: 4px;
   }
-  .heatCell { width: 12px; height: 12px; }
+  .heatCell { width: 15px; height: 15px; }
 
   .typeRow {
     grid-template-columns: 1fr;
@@ -874,9 +875,9 @@
   .peekPanel {
     right: 8px;
     left: 8px;
-    bottom: 8px;
+    bottom: calc(var(--nav-h) + 8px + env(safe-area-inset-bottom));
     width: auto;
-    max-height: 70vh;
+    max-height: 64vh;
   }
 
   .flashStage {
@@ -895,4 +896,28 @@
   :root {
     color-scheme: dark;
   }
+
+  /* Hardcoded light tints that don't read on a dark background. The shared
+     palette variables (--ink/--panel/...) already flip via styles.css; only
+     these literal colors need a dark counterpart. */
+  .heatCell { background: #233029; }
+  .heatCell.l0,
+  .legendCell.l0 { background: #20302a; }
+  .heatCell.l1,
+  .legendCell.l1 { background: #2f5a44; }
+  .heatCell.l2,
+  .legendCell.l2 { background: #468a63; }
+  .heatCell.l3,
+  .legendCell.l3 { background: #5fae8c; }
+
+  .chip:hover { background: var(--panel-soft); }
+  .chip[data-type="phrase"] { background: #3a3320; border-color: #5c5230; }
+  .chip[data-type="phrase"]:hover { background: #463d26; }
+  .chip[data-type="sentence"] { background: #25303f; border-color: #38506b; }
+  .chip[data-type="sentence"]:hover { background: #2d3a4d; }
+  .chip[data-type="grammar"] { background: #3a2c2f; border-color: #5e4045; }
+  .chip[data-type="grammar"]:hover { background: #463438; }
+
+  .peekBody pre,
+  .peekBody th { background: #0f1714; }
 }

@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../styles.css" />
     <link rel="stylesheet" href="reading.css" />
   </head>
-  <body class="readingBody">
+  <body class="readingBody" data-site="reading">
     <header class="readingHeader">
       <div class="readingHeaderInner">
         <div class="readingBrand">
@@ -15,10 +15,6 @@
           <h1>Läsning <span class="brandSub">情景 / 文章阅读</span></h1>
           <p id="readingUpdated" class="updated">Loading…</p>
         </div>
-        <nav class="readingNav" aria-label="Site nav">
-          <a class="navLink" href="../">🔍 Search KB</a>
-          <a class="navLink" href="../recap/">📅 Dagbok</a>
-        </nav>
       </div>
 
       <nav class="filterBar" aria-label="Filters">
@@ -47,5 +43,6 @@
 
     <script src="reading-data.js"></script>
     <script src="reading.js"></script>
+    <script src="../nav.js"></script>
   </body>
 </html>
