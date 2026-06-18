@@ -79,13 +79,25 @@ function Show-Toast([string]$Title, [string]$Text) {
 
 if ($after -and ($null -eq $before -or $after.Name -ne $before.Name)) {
   "OK new episode: $($after.Name)" | Add-Content -Encoding utf8 $Log
-  # --- push（best-effort：sync-kb 会重建听力数据并暂存 listening/ + site/listening/）---
-  try {
-    & powershell -NoProfile -ExecutionPolicy Bypass -File (Join-Path $Proj 'tools\sync-kb.ps1') `
-        -Message "Daily SVT listening $($after.BaseName)"
-    "sync-kb exit=$LASTEXITCODE" | Add-Content -Encoding utf8 $Log
-  } catch {
-    "WARN: push failed (data generated, will sync next time): $($_.Exception.Message)" | Add-Content -Encoding utf8 $Log
+  # --- 入库 + push：把同日 inbox/horning-<DATE>.md 走 import-and-rebuild（KB 入库 →
+  #     重建 kb-site → 归档 inbox→imported → sync-kb push，push 含 listening/）。
+  #     这样听力的 词/词组/句子/语法 进 KB，出现在 recap/搜索/review，词卡可链接解释。---
+  $stamp = ($after.BaseName -replace '^svt-latt-', '')   # svt-latt-2026-06-17 → 2026-06-17
+  $horning = Join-Path $Proj "inbox\horning-$stamp.md"
+  if (Test-Path $horning) {
+    $ir = Join-Path $Proj 'scripts\import-and-rebuild.ps1'
+    & powershell.exe -NoProfile -ExecutionPolicy Bypass -File $ir -File $horning
+    "import-and-rebuild exit=$LASTEXITCODE" | Add-Content -Encoding utf8 $Log
+  } else {
+    # 没有导入文件就只 push 听力数据本身（sync-kb 已纳入 listening/）。
+    "WARN: $horning 不存在 —— 只 push 听力数据，不入库" | Add-Content -Encoding utf8 $Log
+    try {
+      & powershell -NoProfile -ExecutionPolicy Bypass -File (Join-Path $Proj 'tools\sync-kb.ps1') `
+          -Message "Daily SVT listening $($after.BaseName)"
+      "sync-kb exit=$LASTEXITCODE" | Add-Content -Encoding utf8 $Log
+    } catch {
+      "WARN: push failed (data generated, will sync next time): $($_.Exception.Message)" | Add-Content -Encoding utf8 $Log
+    }
   }
   Show-Toast "🎧 今日 SVT 听力已就绪" "$($after.BaseName)  —  打开主站侧栏 🎧 Lyssna 练习"
 } elseif ($after) {

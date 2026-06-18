@@ -34,6 +34,36 @@ if (!fs.existsSync(srcDir)) {
   process.exit(0);
 }
 
+// Load the KB's authoritative slug set so we only emit a "click → explanation"
+// link when the note actually exists in knowledge_base/. Words keep their
+// Swedish lemma verbatim (öka, väntetid); phrases/grammar are sometimes
+// ascii-folded, so we try the exact slug and an ascii-folded variant.
+const slugsPath = path.join(repoRoot, 'knowledge_base', '_index', 'slugs.json');
+let KB = { words: new Set(), phrases: new Set(), grammar: new Set() };
+try {
+  // slugs.json uses SINGULAR keys: word / phrase / grammar / sentence / topic.
+  const raw = JSON.parse(fs.readFileSync(slugsPath, 'utf8'));
+  KB = {
+    words: new Set(raw.word || raw.words || []),
+    phrases: new Set(raw.phrase || raw.phrases || []),
+    grammar: new Set(raw.grammar || []),
+  };
+} catch (e) {
+  console.error(`(no slugs.json yet — links will be omitted: ${e.message})`);
+}
+function asciiFold(s) {
+  return s.replace(/å|ä/g, 'a').replace(/ö/g, 'o').replace(/é/g, 'e').replace(/ü/g, 'u');
+}
+// Resolve a lemma to an existing KB slug in `set`, or null. Tries exact then folded.
+function resolveSlug(lemma, set, { phrase = false, grammar = false } = {}) {
+  if (!lemma) return null;
+  let base = String(lemma).trim().toLowerCase();
+  if (phrase) base = base.replace(/\s+/g, '-');
+  const candidates = grammar ? ['grammar-' + base, 'grammar-' + asciiFold(base)] : [base, asciiFold(base)];
+  for (const c of candidates) { if (set.has(c)) return c; }
+  return null;
+}
+
 const files = fs.readdirSync(srcDir).filter((f) => f.endsWith('.json') && !f.startsWith('_'));
 const episodes = [];
 
@@ -47,6 +77,19 @@ for (const file of files) {
     continue;
   }
   const cues = Array.isArray(ep.cues) ? ep.cues : [];
+  // Attach a KB link to each vocab/phrase/grammar item when its note exists.
+  const vocab = (Array.isArray(ep.vocab) ? ep.vocab : []).map((v) => {
+    const slug = resolveSlug(v.lemma || v.sv, KB.words);
+    return slug ? Object.assign({}, v, { slug }) : v;
+  });
+  const phrases = (Array.isArray(ep.phrases) ? ep.phrases : []).map((p) => {
+    const slug = resolveSlug(p.lemma || p.sv, KB.phrases, { phrase: true });
+    return slug ? Object.assign({}, p, { slug }) : p;
+  });
+  const grammar = (Array.isArray(ep.grammar) ? ep.grammar : []).map((g) => {
+    const slug = resolveSlug(g.lemma || g.name, KB.grammar, { grammar: true });
+    return slug ? Object.assign({}, g, { slug }) : g;
+  });
   episodes.push({
     id: ep.id || file.replace(/\.json$/, ''),
     file,
@@ -59,9 +102,11 @@ for (const file of files) {
     hlsUrl: ep.hlsUrl || '',
     vttUrl: ep.vttUrl || '',
     cueCount: cues.length,
-    vocabCount: Array.isArray(ep.vocab) ? ep.vocab.length : 0,
+    vocabCount: vocab.length,
     cues,
-    vocab: Array.isArray(ep.vocab) ? ep.vocab : [],
+    vocab,
+    phrases,
+    grammar,
   });
 }
 

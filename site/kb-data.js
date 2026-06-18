@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-18 12:23:57",
+  "generatedAt": "2026-06-18 14:07:56",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -180,11 +180,20 @@ window.KB_DATA = {
         "grammar-bisats-eftersom",
         "grammar-sin-sina",
         "grammar-v2-ordfoljd",
+        "sent-55-procent-tror-att-oppositionen-far-flest",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-hoppas-att-de-ska-drömma",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
+        "sent-det-ar-gladjande-att-vi-lyckas",
         "sent-det-är-också-viktigt-att-köra",
+        "sent-det-ar-viktigt-att-titta-vidare-pa",
+        "sent-det-beror-pa-att-planeten-blir-allt-varmare",
+        "sent-det-finns-risk-att-over-10000-hus",
+        "sent-detta-beror-pa-att-nivan-pa-varldens-hav",
+        "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
         "sent-och-jag-är-jätteglad-att-ni",
+        "sent-politik-nu-en-stor-del-av-valjarna",
+        "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-15-restaurang-fodelsedag",
         "vara-säker-på-att"
@@ -271,6 +280,7 @@ window.KB_DATA = {
         "grammar-v2-ordfoljd",
         "ha-rad-att",
         "hoppas-det-smakar",
+        "sent-det-ar-bekymmersamt-men-vi-vet-inte",
         "sent-fick-fotbollsskor-trots-mamma",
         "sent-fika-det-smakar-ju-faktiskt-för-gott",
         "sent-fika-hur-är-det-med-jobbet",
@@ -344,6 +354,7 @@ window.KB_DATA = {
         "sent-innan-jag-somnar-laser-jag-nagra-sidor",
         "sent-just-da-markte-jag-att-min-planbok-var-borta",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
+        "sent-medan-region-jonkoping-hade-kortast-tid",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-tid-och-tidsuttryck"
       ]
@@ -399,6 +410,10 @@ window.KB_DATA = {
         "grammar-bisats-tills",
         "grammar-for-att-infinitiv",
         "grammar-nar-bisats",
+        "sent-beroende-var-i-landet-man-bor",
+        "sent-de-tar-bort-vaxter-som-hotar-andra-arter",
+        "sent-det-ar-bekymmersamt-men-vi-vet-inte",
+        "sent-hur-lange-man-far-vanta-i-olika-delar",
         "sent-man-plockar-svamp-och-njuter",
         "sent-människor-jobbar-där-och-de-kan"
       ]
@@ -517,6 +532,7 @@ window.KB_DATA = {
         "grammar-ligga-sta-sitta",
         "grammar-prepositioner-rum",
         "sent-bredvid-banken-finns-apotek-gront-kors-skylten",
+        "sent-det-finns-risk-att-over-10000-hus",
         "sent-det-låter-gott-men-jag-är",
         "sent-finns-det-en-karta-någonstans",
         "sent-i-vardagsrummet-finns-soffa-fatoljerna",
@@ -620,6 +636,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "sent-arbetena-är-till-för-att-vägarna",
+        "sent-det-ar-viktigt-att-titta-vidare-pa",
         "sent-finns-det-en-karta-någonstans",
         "sent-man-klar-pa-sig-tjocka-jackor",
         "source-2026-06-16-vadret-och-arstiderna"
@@ -713,14 +730,24 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "köra-för-fort",
+        "sent-an-kvinnor-i-samma-alder",
         "sent-arbetena-är-till-för-att-vägarna",
         "sent-den-som-ska-ut-och-köra-bil",
         "sent-det-blir-svalare-och-regnet",
+        "sent-for-naturen-an-vad-vanliga-kor-klarat",
+        "sent-kvinnor-far-vanta-langre-an-man",
         "sent-länderna-ska-göra-det-svårare",
+        "sent-langst-tid-pa-akuten-hade-patienter-i-region-skane",
+        "sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80",
+        "sent-man-19-34-ar-ar-i-genomsnitt",
+        "sent-medan-region-jonkoping-hade-kortast-tid",
         "sent-när-det-finns-färre-jordgubbar",
         "sent-nar-varen-kommer-borjar-dagarna",
+        "sent-pa-tre-manader-har-just-dessa-vattenbufflar",
         "sent-redan-i-midsommar-kan-det-bli",
+        "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
         "source-2026-06-16-vadret-och-arstiderna",
+        "source-2026-06-17-listening-svt-latt",
         "source-2026-06-18-nyheter-8sidor"
       ]
     },
@@ -1002,17 +1029,22 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "det-märks",
+        "döma",
         "föda",
         "födas",
         "grammar-deponensverb",
         "index",
+        "sent-det-blir-ingen-hojning-nu-men-rantan",
         "sent-dricks-är-helt-frivilligt-i-sverige",
         "sent-gransen-kallas-fribelopp",
         "sent-han-foddes-1981-rosengard",
+        "sent-i-mandags-domdes-mette-marits-son",
+        "sent-ledare-fran-olika-lander-har-samlats",
         "skilja_sig",
         "skiljas",
         "source-2026-06-04-nyheter-vecka-22",
-        "source-2026-06-09-zlatan-bio"
+        "source-2026-06-09-zlatan-bio",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -1038,11 +1070,17 @@ window.KB_DATA = {
         "ända-sedan",
         "har-ni-bestämt-er",
         "har-ni-bokat-bord",
+        "sent-allt-har-hittills-gatt-bra-men-hon",
+        "sent-bland-annat-har-ukrainas-president-zelenskyj",
+        "sent-det-har-varit-oroligt-kring-norges-kungahus",
         "sent-folk-i-sverige-har-firat",
         "sent-god-kväll-och-välkomna-har-ni-bokat",
         "sent-har-ni-bestämt-er-eller-behöver-ni",
+        "sent-i-norge-har-kronprinsessan-mette-marit",
         "sent-ja-vi-har-bokat-ett-bord-för-två",
+        "sent-ledare-fran-olika-lander-har-samlats",
         "sent-ni-har-reserverat-för-sex-gäster",
+        "sent-pa-tre-manader-har-just-dessa-vattenbufflar",
         "sent-sedan-1800-talet-har-människor",
         "sent-våren-har-varit-kall-därför",
         "source-2026-06-15-restaurang-fodelsedag",
@@ -1391,6 +1429,7 @@ window.KB_DATA = {
         "sent-antligen-kunde-jag-andas-ut",
         "sent-dar-fanns-ingen-mat-ga-hungrig",
         "sent-den-första-filmen-toy-story",
+        "sent-den-totala-tiden-personer-ar-pa-akuten",
         "sent-det-tog-ungefar-en-timme",
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
         "sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok",
@@ -1404,8 +1443,11 @@ window.KB_DATA = {
         "sent-fika-johan-det-var-länge-sedan",
         "sent-fika-men-vi-har-farsk-kanelbulle",
         "sent-fika-ursäkta-vad-sa-du-hörde-inte",
+        "sent-forra-aret-okade-besoken-till-akuten",
         "sent-gick-aldrig-klart-gymnasiet-satsade",
         "sent-han-foddes-1981-rosengard",
+        "sent-i-mandags-domdes-mette-marits-son",
+        "sent-idag-kom-besked-fran-riksbanken-om-rantan",
         "sent-igar-var-en-ovantad-dag",
         "sent-jag-gick-in-i-en-bokhandel-tittade-pa-bocker",
         "sent-jag-gick-tillbaka-till-tunnelbanestationen-fragade-personal",
@@ -1418,6 +1460,7 @@ window.KB_DATA = {
         "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
         "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
+        "sent-till-evian-i-frankrike-nu",
         "sent-till-slut-var-allt-bra-igen",
         "sent-ukrainas-ledare-volodymyr-zelenskyj",
         "sent-vid-halv-nio-kom-jag-fram-till-centralstationen",
@@ -2166,6 +2209,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "index",
+        "sent-det-beror-pa-att-planeten-blir-allt-varmare",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22"
       ]
@@ -2456,8 +2500,10 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "annan",
+        "sent-bland-annat-har-ukrainas-president-zelenskyj",
         "source-2026-06-02-astrid-lindgren",
-        "source-2026-06-09-zlatan-bio"
+        "source-2026-06-09-zlatan-bio",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -3454,6 +3500,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "förlora-makten",
+      "type": "phrase",
+      "title": "förlora makten",
+      "path": "knowledge_base/phrases/förlora-makten.md",
+      "body": "# förlora makten\n\n🗣️ 类型: kollokation · 语域: neutralt · 常用度: 3/5\n🇨🇳 失去政权；失权 · 🇬🇧 to lose power\n📝 字面: förlora = 失去，makten = 权力（定形）\n\n## 用法说明 (Usage)\n\n- 政治语境的常见搭配，特指执政党/政府在选举中失去政权。\n- 反义：*ta makten / vinna makten*（夺取/赢得政权）。\n- *makten* 用定形（bestämd form），因为指的是那个特定的执政权。\n\n## 短语中的语法 (Grammar inside)\n\n- 动词 + 名词宾语（bestämd form）：makten 用定冠词形式\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 tappa makten（失去权力，口语）\n- 🔄 vinna makten（赢得政权）\n- 🔗 [[rösta-om]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-att-regeringen-forlorar-makten-efter-valet]] 🇸🇪 En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september. 🇨🇳 很大一部分选民预计政府将在九月大选后失去执政权。",
+      "excerpt": "förlora makten 🗣️ 类型: kollokation · 语域: neutralt · 常用度: 3/5 🇨🇳 失去政权；失权 · 🇬🇧 to lose power 📝 字面: förlora = 失去，makten = 权力（定形） 用法说明 (Usage) 政治语境的常见搭配，特指执政党/政府在选举中失去政权。 反义： ta makten / vinna makten （夺取/赢得政权）。 makten 用",
+      "forms": [],
+      "links": [
+        "regering",
+        "rösta-om",
+        "sent-att-regeringen-forlorar-makten-efter-valet",
+        "topic-samhälle-och-politik",
+        "val"
+      ],
+      "searchText": "förlora makten förlora-makten knowledge_base/phrases/förlora-makten.md ---\ntype: phrase\nphrase: \"förlora makten\"\ncategory: kollokation\nregister: neutralt\nfrequency: 3\nzh: \"失去政权；失权\"\nen: \"to lose power\"\nliteral: \"förlora = lose, makten = the power\"\nhead_words:\n  - \"[[regering]]\"\n  - \"[[val]]\"\ngrammar: []\nrelated:\n  - \"[[rösta-om]]\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-att-regeringen-forlorar-makten-efter-valet]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förlora makten\n\n🗣️ 类型: kollokation · 语域: neutralt · 常用度: 3/5\n🇨🇳 失去政权；失权 · 🇬🇧 to lose power\n📝 字面: förlora = 失去，makten = 权力（定形）\n\n## 用法说明 (Usage)\n\n- 政治语境的常见搭配，特指执政党/政府在选举中失去政权。\n- 反义：*ta makten / vinna makten*（夺取/赢得政权）。\n- *makten* 用定形（bestämd form），因为指的是那个特定的执政权。\n\n## 短语中的语法 (Grammar inside)\n\n- 动词 + 名词宾语（bestämd form）：makten 用定冠词形式\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 tappa makten（失去权力，口语）\n- 🔄 vinna makten（赢得政权）\n- 🔗 [[rösta-om]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-att-regeringen-forlorar-makten-efter-valet]] 🇸🇪 En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september. 🇨🇳 很大一部分选民预计政府将在九月大选后失去执政权。\n",
+      "zh": "失去政权；失权",
+      "en": "to lose power",
+      "created": "2026-06-17",
+      "known": false,
+      "phrase": "förlora makten",
+      "category": "kollokation",
+      "sentences": [
+        "[[sent-att-regeringen-forlorar-makten-efter-valet]]"
+      ],
+      "grammar": [],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "sent-att-regeringen-forlorar-makten-efter-valet",
+        "sent-politik-nu-en-stor-del-av-valjarna",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "frisk-luft",
       "type": "phrase",
       "title": "frisk luft",
@@ -4415,6 +4496,42 @@ window.KB_DATA = {
         "sent-hur-tar-jag-mig-dit",
         "source-2026-06-03-fraga-vagen-pub",
         "topic-riktningar"
+      ]
+    },
+    {
+      "slug": "i-genomsnitt",
+      "type": "phrase",
+      "title": "i genomsnitt",
+      "path": "knowledge_base/phrases/i-genomsnitt.md",
+      "body": "# i genomsnitt\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 平均；平均来说 · 🇬🇧 on average\n📝 字面: i genomsnitt = 在平均/概览之中\n\n## 用法说明 (Usage)\n\n- 用于表示平均数值，位置灵活，可放句首、句中或句末。\n- 例：*i genomsnitt fyra timmar*（平均四个小时）\n- 例：*Männen är i genomsnitt längre.*（男性平均更高。）\n\n## 短语中的语法 (Grammar inside)\n\n- 介词短语结构：i + 名词\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 i medeltal（同义，略书面）\n- 🔄 genomsnittligt（副词形式）\n- 🔗 [[statistik]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-i-genomsnitt-fyra-timmar-och-57-minuter]] 🇸🇪 I genomsnitt fyra timmar och 57 minuter. 🇨🇳 平均为 4 小时 57 分钟。\n- [[sent-man-19-34-ar-ar-i-genomsnitt]] 🇸🇪 Män 19–34 år är i genomsnitt 18 minuter mindre på akuten. 🇨🇳 19 至 34 岁的男性平均在急诊少待 18 分钟。",
+      "excerpt": "i genomsnitt 🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5 🇨🇳 平均；平均来说 · 🇬🇧 on average 📝 字面: i genomsnitt = 在平均/概览之中 用法说明 (Usage) 用于表示平均数值，位置灵活，可放句首、句中或句末。 例： i genomsnitt fyra timmar （平均四个小时） 例： Männen är i genomsnitt l",
+      "forms": [],
+      "links": [
+        "sent-i-genomsnitt-fyra-timmar-och-57-minuter",
+        "sent-man-19-34-ar-ar-i-genomsnitt",
+        "statistik",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "i genomsnitt i-genomsnitt knowledge_base/phrases/i-genomsnitt.md ---\ntype: phrase\nphrase: \"i genomsnitt\"\ncategory: uttryck\nregister: neutralt\nfrequency: 4\nzh: \"平均；平均来说\"\nen: \"on average\"\nliteral: \"i genomsnitt = in average/summary\"\nhead_words:\n  - \"[[statistik]]\"\ngrammar: []\nrelated: []\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-i-genomsnitt-fyra-timmar-och-57-minuter]]\"\n  - \"[[sent-man-19-34-ar-ar-i-genomsnitt]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# i genomsnitt\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 平均；平均来说 · 🇬🇧 on average\n📝 字面: i genomsnitt = 在平均/概览之中\n\n## 用法说明 (Usage)\n\n- 用于表示平均数值，位置灵活，可放句首、句中或句末。\n- 例：*i genomsnitt fyra timmar*（平均四个小时）\n- 例：*Männen är i genomsnitt längre.*（男性平均更高。）\n\n## 短语中的语法 (Grammar inside)\n\n- 介词短语结构：i + 名词\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 i medeltal（同义，略书面）\n- 🔄 genomsnittligt（副词形式）\n- 🔗 [[statistik]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-i-genomsnitt-fyra-timmar-och-57-minuter]] 🇸🇪 I genomsnitt fyra timmar och 57 minuter. 🇨🇳 平均为 4 小时 57 分钟。\n- [[sent-man-19-34-ar-ar-i-genomsnitt]] 🇸🇪 Män 19–34 år är i genomsnitt 18 minuter mindre på akuten. 🇨🇳 19 至 34 岁的男性平均在急诊少待 18 分钟。\n",
+      "zh": "平均；平均来说",
+      "en": "on average",
+      "created": "2026-06-17",
+      "known": false,
+      "phrase": "i genomsnitt",
+      "category": "uttryck",
+      "sentences": [
+        "[[sent-i-genomsnitt-fyra-timmar-och-57-minuter]]",
+        "[[sent-man-19-34-ar-ar-i-genomsnitt]]"
+      ],
+      "grammar": [],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "sent-i-genomsnitt-fyra-timmar-och-57-minuter",
+        "sent-man-19-34-ar-ar-i-genomsnitt",
+        "sent-till-ett-snitt-pa-fyra-timmar",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -6273,6 +6390,7 @@ window.KB_DATA = {
         "topic-samhälle-och-politik"
       ],
       "backlinks": [
+        "förlora-makten",
         "index",
         "rösta",
         "sent-den-fragan-ska-invanarna-i-alberta",
@@ -6605,6 +6723,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "söka-hjälp",
+      "type": "phrase",
+      "title": "söka hjälp",
+      "path": "knowledge_base/phrases/söka-hjälp.md",
+      "body": "# söka hjälp\n\n🗣️ 类型: kollokation · 语域: neutralt · 常用度: 4/5\n🇨🇳 寻求帮助；求助 · 🇬🇧 to seek help\n📝 字面: söka = 寻找，hjälp = 帮助\n\n## 用法说明 (Usage)\n\n- 通用短语，适用于医疗、心理、法律等各种求助场景。\n- 常搭配 *på akuten*（在急诊）、*hos läkare*（找医生）。\n- 也可用 *söka vård*（寻求医疗）。\n\n## 短语中的语法 (Grammar inside)\n\n- 动词 + 名词宾语（无冠词）：söka hjälp，hjälp 不加冠词为惯用搭配\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 söka vård（寻求医疗）\n- 🔄 be om hjälp（请求帮助）\n- 🔗 [[ta-hand-om]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-kvinnor-far-vanta-langre-an-man]] 🇸🇪 Kvinnor får vänta längre än män när de söker hjälp på akuten. 🇨🇳 女性在急诊就医时，等待时间比男性更长。",
+      "excerpt": "söka hjälp 🗣️ 类型: kollokation · 语域: neutralt · 常用度: 4/5 🇨🇳 寻求帮助；求助 · 🇬🇧 to seek help 📝 字面: söka = 寻找，hjälp = 帮助 用法说明 (Usage) 通用短语，适用于医疗、心理、法律等各种求助场景。 常搭配 på akuten （在急诊）、 hos läkare （找医生）。 也可用 söka vård （寻求医疗）。 短语中",
+      "forms": [],
+      "links": [
+        "sent-kvinnor-far-vanta-langre-an-man",
+        "ta-hand-om",
+        "topic-hälsa"
+      ],
+      "searchText": "söka hjälp söka-hjälp knowledge_base/phrases/söka-hjälp.md ---\ntype: phrase\nphrase: \"söka hjälp\"\ncategory: kollokation\nregister: neutralt\nfrequency: 4\nzh: \"寻求帮助；求助\"\nen: \"to seek help\"\nliteral: \"söka = seek/look for, hjälp = help\"\nhead_words: []\ngrammar: []\nrelated:\n  - \"[[ta-hand-om]]\"\ntopics:\n  - \"[[topic-hälsa]]\"\nsentences:\n  - \"[[sent-kvinnor-far-vanta-langre-an-man]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# söka hjälp\n\n🗣️ 类型: kollokation · 语域: neutralt · 常用度: 4/5\n🇨🇳 寻求帮助；求助 · 🇬🇧 to seek help\n📝 字面: söka = 寻找，hjälp = 帮助\n\n## 用法说明 (Usage)\n\n- 通用短语，适用于医疗、心理、法律等各种求助场景。\n- 常搭配 *på akuten*（在急诊）、*hos läkare*（找医生）。\n- 也可用 *söka vård*（寻求医疗）。\n\n## 短语中的语法 (Grammar inside)\n\n- 动词 + 名词宾语（无冠词）：söka hjälp，hjälp 不加冠词为惯用搭配\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 söka vård（寻求医疗）\n- 🔄 be om hjälp（请求帮助）\n- 🔗 [[ta-hand-om]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-kvinnor-far-vanta-langre-an-man]] 🇸🇪 Kvinnor får vänta längre än män när de söker hjälp på akuten. 🇨🇳 女性在急诊就医时，等待时间比男性更长。\n",
+      "zh": "寻求帮助；求助",
+      "en": "to seek help",
+      "created": "2026-06-17",
+      "known": false,
+      "phrase": "söka hjälp",
+      "category": "kollokation",
+      "sentences": [
+        "[[sent-kvinnor-far-vanta-langre-an-man]]"
+      ],
+      "grammar": [],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "sent-kvinnor-far-vanta-langre-an-man",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "söka-till",
       "type": "phrase",
       "title": "söka till",
@@ -6828,6 +6978,7 @@ window.KB_DATA = {
       "backlinks": [
         "sent-eftersom-astrid-var-ensam-kunde-hon",
         "sent-grattis-jag-heter-mikael-och-tar",
+        "söka-hjälp",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-15-restaurang-fodelsedag"
       ]
@@ -8205,6 +8356,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-55-procent-tror-att-oppositionen-far-flest",
+      "type": "sentence",
+      "title": "🇸🇪 55 % tror att oppositionen får flest röster.",
+      "path": "knowledge_base/sentences/sent-55-procent-tror-att-oppositionen-far-flest.md",
+      "body": "# 🇸🇪 55 % tror att oppositionen får flest röster.\n\n🇨🇳 55% 的人认为反对派将获得最多选票。\n\n## 结构 (Structure)\n\n```\n[55 %] [tror] [att oppositionen får flest röster]\n  55%    认为      反对派将获得最多选票\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *tror att…* 宾语从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[rösta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 55 % tror att oppositionen får flest röster. 🇨🇳 55% 的人认为反对派将获得最多选票。 结构 (Structure) [55 %] [tror] [att oppositionen får flest röster] 55% 认为 反对派将获得最多选票 语法点 (Grammar) 📌 grammar att sats — tror att… 宾语从句 生词 & 词组 (Wo",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "rösta",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 55 % tror att oppositionen får flest röster. sent-55-procent-tror-att-oppositionen-far-flest knowledge_base/sentences/sent-55-procent-tror-att-oppositionen-far-flest.md ---\ntype: sentence\nsentence: \"55 % tror att oppositionen får flest röster.\"\nzh: \"55% 的人认为反对派将获得最多选票。\"\ncefr: A2\nwords:\n  - \"[[rösta]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-att-sats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 55 % tror att oppositionen får flest röster.\n\n🇨🇳 55% 的人认为反对派将获得最多选票。\n\n## 结构 (Structure)\n\n```\n[55 %] [tror] [att oppositionen får flest röster]\n  55%    认为      反对派将获得最多选票\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *tror att…* 宾语从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[rösta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "55% 的人认为反对派将获得最多选票。",
+      "created": "2026-06-17",
+      "sentence": "55 % tror att oppositionen får flest röster.",
+      "words": [
+        "[[rösta]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-att-sats]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-absolut-smaklig-måltid",
       "type": "sentence",
       "title": "🇸🇪 Absolut. Smaklig måltid!",
@@ -8310,6 +8494,63 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "source-2026-06-15-restaurang-fodelsedag"
+      ]
+    },
+    {
+      "slug": "sent-allt-har-hittills-gatt-bra-men-hon",
+      "type": "sentence",
+      "title": "🇸🇪 Allt har hittills gått bra, men hon blir kvar på sjukhus i flera veckor.",
+      "path": "knowledge_base/sentences/sent-allt-har-hittills-gatt-bra-men-hon.md",
+      "body": "# 🇸🇪 Allt har hittills gått bra, men hon blir kvar på sjukhus i flera veckor.\n\n🇨🇳 目前一切顺利，但她还要在医院住几周。\n\n## 结构 (Structure)\n\n```\n[Allt] [har hittills gått bra], [men hon] [blir kvar] [på sjukhus] [i flera veckor]\n  一切    迄今一切顺利              但她        留着           在医院         几周\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har gått* 现在完成时\n- 📌 *bli kvar* = 留下来，固定搭配\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Allt har hittills gått bra, men hon blir kvar på sjukhus i flera veckor. 🇨🇳 目前一切顺利，但她还要在医院住几周。 结构 (Structure) [Allt] [har hittills gått bra], [men hon] [blir kvar] [på sjukhus] [i flera veckor] 一切 迄今一切顺利 但她 留着 在医院",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Allt har hittills gått bra, men hon blir kvar på sjukhus i flera veckor. sent-allt-har-hittills-gatt-bra-men-hon knowledge_base/sentences/sent-allt-har-hittills-gatt-bra-men-hon.md ---\ntype: sentence\nsentence: \"Allt har hittills gått bra, men hon blir kvar på sjukhus i flera veckor.\"\nzh: \"目前一切顺利，但她还要在医院住几周。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar:\n  - \"[[grammar-perfekt]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Allt har hittills gått bra, men hon blir kvar på sjukhus i flera veckor.\n\n🇨🇳 目前一切顺利，但她还要在医院住几周。\n\n## 结构 (Structure)\n\n```\n[Allt] [har hittills gått bra], [men hon] [blir kvar] [på sjukhus] [i flera veckor]\n  一切    迄今一切顺利              但她        留着           在医院         几周\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har gått* 现在完成时\n- 📌 *bli kvar* = 留下来，固定搭配\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "目前一切顺利，但她还要在医院住几周。",
+      "created": "2026-06-17",
+      "sentence": "Allt har hittills gått bra, men hon blir kvar på sjukhus i flera veckor.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-perfekt]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-an-kvinnor-i-samma-alder",
+      "type": "sentence",
+      "title": "🇸🇪 än kvinnor i samma ålder.",
+      "path": "knowledge_base/sentences/sent-an-kvinnor-i-samma-alder.md",
+      "body": "# 🇸🇪 än kvinnor i samma ålder.\n\n🇨🇳 比同龄女性少（18 分钟）。\n\n## 结构 (Structure)\n\n```\n[än] [kvinnor] [i samma ålder]\n  比    女性      同龄\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *än* 引导比较对象\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 än kvinnor i samma ålder. 🇨🇳 比同龄女性少（18 分钟）。 结构 (Structure) [än] [kvinnor] [i samma ålder] 比 女性 同龄 语法点 (Grammar) 📌 grammar komparativ — än 引导比较对象 生词 & 词组 (Words & Phrases) 词: — 来源 (Source) source 2026 06 17 listen",
+      "forms": [],
+      "links": [
+        "grammar-komparativ",
+        "source-2026-06-17-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 än kvinnor i samma ålder. sent-an-kvinnor-i-samma-alder knowledge_base/sentences/sent-an-kvinnor-i-samma-alder.md ---\ntype: sentence\nsentence: \"än kvinnor i samma ålder.\"\nzh: \"比同龄女性少 18 分钟。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar:\n  - \"[[grammar-komparativ]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 än kvinnor i samma ålder.\n\n🇨🇳 比同龄女性少（18 分钟）。\n\n## 结构 (Structure)\n\n```\n[än] [kvinnor] [i samma ålder]\n  比    女性      同龄\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *än* 引导比较对象\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "比同龄女性少 18 分钟。",
+      "created": "2026-06-17",
+      "sentence": "än kvinnor i samma ålder.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-komparativ]]"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -8434,6 +8675,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-ar-det-olika-orsaker-behov-eller-kon",
+      "type": "sentence",
+      "title": "🇸🇪 Är det olika orsaker, behov eller kön?",
+      "path": "knowledge_base/sentences/sent-ar-det-olika-orsaker-behov-eller-kon.md",
+      "body": "# 🇸🇪 Är det olika orsaker, behov eller kön?\n\n🇨🇳 是不同的病因、需求，还是性别造成的？\n\n## 结构 (Structure)\n\n```\n[Är det] [olika orsaker, behov eller kön]?\n  是不是    不同病因、需求还是性别\n```\n\n## 语法点 (Grammar)\n\n- 📌 疑问句：动词提前，*är* 开头\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Är det olika orsaker, behov eller kön? 🇨🇳 是不同的病因、需求，还是性别造成的？ 结构 (Structure) [Är det] [olika orsaker, behov eller kön]? 是不是 不同病因、需求还是性别 语法点 (Grammar) 📌 疑问句：动词提前， är 开头 生词 & 词组 (Words & Phrases) 词: — 来源 (Source) so",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Är det olika orsaker, behov eller kön? sent-ar-det-olika-orsaker-behov-eller-kon knowledge_base/sentences/sent-ar-det-olika-orsaker-behov-eller-kon.md ---\ntype: sentence\nsentence: \"Är det olika orsaker, behov eller kön?\"\nzh: \"是不同的病因、需求，还是性别造成的？\"\ncefr: A2\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Är det olika orsaker, behov eller kön?\n\n🇨🇳 是不同的病因、需求，还是性别造成的？\n\n## 结构 (Structure)\n\n```\n[Är det] [olika orsaker, behov eller kön]?\n  是不是    不同病因、需求还是性别\n```\n\n## 语法点 (Grammar)\n\n- 📌 疑问句：动词提前，*är* 开头\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "是不同的病因、需求，还是性别造成的？",
+      "created": "2026-06-17",
+      "sentence": "Är det olika orsaker, behov eller kön?",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-ar-en-vanlig-dag-pa-storgatan-full-av-liv",
       "type": "sentence",
       "title": "🇸🇈 Det är en vanlig dag på Storgatan — full av liv och rörelse.",
@@ -8509,6 +8777,105 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-18-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "sent-att-regeringen-forlorar-makten-efter-valet",
+      "type": "sentence",
+      "title": "🇸🇪 att regeringen förlorar makten efter valet i september.",
+      "path": "knowledge_base/sentences/sent-att-regeringen-forlorar-makten-efter-valet.md",
+      "body": "# 🇸🇪 att regeringen förlorar makten efter valet i september.\n\n🇨🇳 政府将在九月大选后失去执政权。\n\n## 结构 (Structure)\n\n```\n[att] [regeringen] [förlorar] [makten] [efter valet i september]\n  (att)   政府         失去        政权       在九月大选之后\n```\n\n## 语法点 (Grammar)\n\n- 📌 att 从句部分，*efter valet* 时间状语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[regering]] · [[val]]\n- 词组: [[förlora-makten]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 att regeringen förlorar makten efter valet i september. 🇨🇳 政府将在九月大选后失去执政权。 结构 (Structure) [att] [regeringen] [förlorar] [makten] [efter valet i september] (att) 政府 失去 政权 在九月大选之后 语法点 (Grammar) 📌 att 从句部分， efter va",
+      "forms": [],
+      "links": [
+        "förlora-makten",
+        "regering",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik",
+        "val"
+      ],
+      "searchText": "🇸🇪 att regeringen förlorar makten efter valet i september. sent-att-regeringen-forlorar-makten-efter-valet knowledge_base/sentences/sent-att-regeringen-forlorar-makten-efter-valet.md ---\ntype: sentence\nsentence: \"att regeringen förlorar makten efter valet i september.\"\nzh: \"政府将在九月大选后失去执政权。\"\ncefr: B1\nwords:\n  - \"[[regering]]\"\n  - \"[[val]]\"\nphrases:\n  - \"[[förlora-makten]]\"\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 att regeringen förlorar makten efter valet i september.\n\n🇨🇳 政府将在九月大选后失去执政权。\n\n## 结构 (Structure)\n\n```\n[att] [regeringen] [förlorar] [makten] [efter valet i september]\n  (att)   政府         失去        政权       在九月大选之后\n```\n\n## 语法点 (Grammar)\n\n- 📌 att 从句部分，*efter valet* 时间状语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[regering]] · [[val]]\n- 词组: [[förlora-makten]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "政府将在九月大选后失去执政权。",
+      "created": "2026-06-17",
+      "sentence": "att regeringen förlorar makten efter valet i september.",
+      "words": [
+        "[[regering]]",
+        "[[val]]"
+      ],
+      "phrases": [
+        "[[förlora-makten]]"
+      ],
+      "grammar": [],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "förlora-makten",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-beroende-var-i-landet-man-bor",
+      "type": "sentence",
+      "title": "🇸🇪 beroende var i landet man bor.",
+      "path": "knowledge_base/sentences/sent-beroende-var-i-landet-man-bor.md",
+      "body": "# 🇸🇪 beroende var i landet man bor.\n\n🇨🇳 取决于你住在全国哪个地方。\n\n## 结构 (Structure)\n\n```\n[beroende] [var] [i landet] [man bor]\n  取决于      在哪里   在这个国家  人们住\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — *var man bor* 间接疑问从句作状语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 beroende var i landet man bor. 🇨🇳 取决于你住在全国哪个地方。 结构 (Structure) [beroende] [var] [i landet] [man bor] 取决于 在哪里 在这个国家 人们住 语法点 (Grammar) 📌 grammar bisats — var man bor 间接疑问从句作状语 生词 & 词组 (Words & Phrases) 词: — 来源 (Sou",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "source-2026-06-17-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 beroende var i landet man bor. sent-beroende-var-i-landet-man-bor knowledge_base/sentences/sent-beroende-var-i-landet-man-bor.md ---\ntype: sentence\nsentence: \"beroende var i landet man bor.\"\nzh: \"取决于你住在全国哪个地方。\"\ncefr: B1\nwords: []\nphrases: []\ngrammar:\n  - \"[[grammar-bisats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 beroende var i landet man bor.\n\n🇨🇳 取决于你住在全国哪个地方。\n\n## 结构 (Structure)\n\n```\n[beroende] [var] [i landet] [man bor]\n  取决于      在哪里   在这个国家  人们住\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — *var man bor* 间接疑问从句作状语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "取决于你住在全国哪个地方。",
+      "created": "2026-06-17",
+      "sentence": "beroende var i landet man bor.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-bisats]]"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-bland-annat-har-ukrainas-president-zelenskyj",
+      "type": "sentence",
+      "title": "🇸🇪 Bland annat har Ukrainas president Zelenskyj haft möte med USA:s president Donald Trump.",
+      "path": "knowledge_base/sentences/sent-bland-annat-har-ukrainas-president-zelenskyj.md",
+      "body": "# 🇸🇪 Bland annat har Ukrainas president Zelenskyj haft möte med USA:s president Donald Trump.\n\n🇨🇳 其中，乌克兰总统泽连斯基与美国总统唐纳德·特朗普举行了会晤。\n\n## 结构 (Structure)\n\n```\n[Bland annat] [har] [Ukrainas president Zelenskyj] [haft möte] [med USA:s president Donald Trump]\n    其中          有     乌克兰总统泽连斯基                   举行了会晤       与美国总统特朗普\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har haft* 现在完成时\n- 📌 [[bland-annat]] 作话语标记词，提前强调\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[möte]]\n- 词组: [[bland-annat]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Bland annat har Ukrainas president Zelenskyj haft möte med USA:s president Donald Trump. 🇨🇳 其中，乌克兰总统泽连斯基与美国总统唐纳德·特朗普举行了会晤。 结构 (Structure) [Bland annat] [har] [Ukrainas president Zelenskyj] [haft möte] [med USA:s p",
+      "forms": [],
+      "links": [
+        "bland-annat",
+        "grammar-perfekt",
+        "möte",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 Bland annat har Ukrainas president Zelenskyj haft möte med USA:s president Donald Trump. sent-bland-annat-har-ukrainas-president-zelenskyj knowledge_base/sentences/sent-bland-annat-har-ukrainas-president-zelenskyj.md ---\ntype: sentence\nsentence: \"Bland annat har Ukrainas president Zelenskyj haft möte med USA:s president Donald Trump.\"\nzh: \"其中，乌克兰总统泽连斯基与美国总统唐纳德·特朗普举行了会晤。\"\ncefr: B1\nwords:\n  - \"[[möte]]\"\nphrases:\n  - \"[[bland-annat]]\"\ngrammar:\n  - \"[[grammar-perfekt]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Bland annat har Ukrainas president Zelenskyj haft möte med USA:s president Donald Trump.\n\n🇨🇳 其中，乌克兰总统泽连斯基与美国总统唐纳德·特朗普举行了会晤。\n\n## 结构 (Structure)\n\n```\n[Bland annat] [har] [Ukrainas president Zelenskyj] [haft möte] [med USA:s president Donald Trump]\n    其中          有     乌克兰总统泽连斯基                   举行了会晤       与美国总统特朗普\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har haft* 现在完成时\n- 📌 [[bland-annat]] 作话语标记词，提前强调\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[möte]]\n- 词组: [[bland-annat]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "其中，乌克兰总统泽连斯基与美国总统唐纳德·特朗普举行了会晤。",
+      "created": "2026-06-17",
+      "sentence": "Bland annat har Ukrainas president Zelenskyj haft möte med USA:s president Donald Trump.",
+      "words": [
+        "[[möte]]"
+      ],
+      "phrases": [
+        "[[bland-annat]]"
+      ],
+      "grammar": [
+        "[[grammar-perfekt]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -8903,6 +9270,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-de-tar-bort-vaxter-som-hotar-andra-arter",
+      "type": "sentence",
+      "title": "🇸🇪 De tar bort växter som hotar andra arter.",
+      "path": "knowledge_base/sentences/sent-de-tar-bort-vaxter-som-hotar-andra-arter.md",
+      "body": "# 🇸🇪 De tar bort växter som hotar andra arter.\n\n🇨🇳 它们清除掉那些威胁其他物种的植物。\n\n## 结构 (Structure)\n\n```\n[De] [tar bort] [växter] [som hotar andra arter]\n  它们   清除        植物      威胁其他物种的\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — *som hotar…* 关系从句修饰 *växter*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 De tar bort växter som hotar andra arter. 🇨🇳 它们清除掉那些威胁其他物种的植物。 结构 (Structure) [De] [tar bort] [växter] [som hotar andra arter] 它们 清除 植物 威胁其他物种的 语法点 (Grammar) 📌 grammar bisats — som hotar… 关系从句修饰 växter 生词 & 词组 (W",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-djur"
+      ],
+      "searchText": "🇸🇪 De tar bort växter som hotar andra arter. sent-de-tar-bort-vaxter-som-hotar-andra-arter knowledge_base/sentences/sent-de-tar-bort-vaxter-som-hotar-andra-arter.md ---\ntype: sentence\nsentence: \"De tar bort växter som hotar andra arter.\"\nzh: \"它们清除掉那些威胁其他物种的植物。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar:\n  - \"[[grammar-bisats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-djur]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 De tar bort växter som hotar andra arter.\n\n🇨🇳 它们清除掉那些威胁其他物种的植物。\n\n## 结构 (Structure)\n\n```\n[De] [tar bort] [växter] [som hotar andra arter]\n  它们   清除        植物      威胁其他物种的\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — *som hotar…* 关系从句修饰 *växter*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "它们清除掉那些威胁其他物种的植物。",
+      "created": "2026-06-17",
+      "sentence": "De tar bort växter som hotar andra arter.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-bisats]]"
+      ],
+      "topics": [
+        "[[topic-djur]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
       "type": "sentence",
       "title": "🇸🇪 De var oroliga att barn som läste om Pippi skulle börja göra som henne.",
@@ -8937,6 +9334,33 @@ window.KB_DATA = {
         "grammar-att-sats",
         "orolig",
         "source-2026-06-02-astrid-lindgren"
+      ]
+    },
+    {
+      "slug": "sent-delar-av-sodra-norrland-far-regn",
+      "type": "sentence",
+      "title": "🇸🇪 Delar av södra Norrland får regn.",
+      "path": "knowledge_base/sentences/sent-delar-av-sodra-norrland-far-regn.md",
+      "body": "# 🇸🇪 Delar av södra Norrland får regn.\n\n🇨🇳 诺尔兰南部部分地区会下雨。\n\n## 结构 (Structure)\n\n```\n[Delar av södra Norrland] [får] [regn]\n   诺尔兰南部部分地区         将有    雨\n```\n\n## 语法点 (Grammar)\n\n- 📌 *få regn* = 降雨（收到雨水，习惯表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Delar av södra Norrland får regn. 🇨🇳 诺尔兰南部部分地区会下雨。 结构 (Structure) [Delar av södra Norrland] [får] [regn] 诺尔兰南部部分地区 将有 雨 语法点 (Grammar) 📌 få regn = 降雨（收到雨水，习惯表达） 生词 & 词组 (Words & Phrases) 词: — 来源 (Source) source 20",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "🇸🇪 Delar av södra Norrland får regn. sent-delar-av-sodra-norrland-far-regn knowledge_base/sentences/sent-delar-av-sodra-norrland-far-regn.md ---\ntype: sentence\nsentence: \"Delar av södra Norrland får regn.\"\nzh: \"诺尔兰南部部分地区会下雨。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-vader-och-arstider]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Delar av södra Norrland får regn.\n\n🇨🇳 诺尔兰南部部分地区会下雨。\n\n## 结构 (Structure)\n\n```\n[Delar av södra Norrland] [får] [regn]\n   诺尔兰南部部分地区         将有    雨\n```\n\n## 语法点 (Grammar)\n\n- 📌 *få regn* = 降雨（收到雨水，习惯表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "诺尔兰南部部分地区会下雨。",
+      "created": "2026-06-17",
+      "sentence": "Delar av södra Norrland får regn.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-vader-och-arstider]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -9056,6 +9480,111 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-den-totala-tiden-personer-ar-pa-akuten",
+      "type": "sentence",
+      "title": "🇸🇪 Den totala tiden personer är på akuten ökade också till ett snitt på fyra timmar och 16 minuter.",
+      "path": "knowledge_base/sentences/sent-den-totala-tiden-personer-ar-pa-akuten.md",
+      "body": "# 🇸🇪 Den totala tiden personer är på akuten ökade också till ett snitt på fyra timmar och 16 minuter.\n\n🇨🇳 人们待在急诊的总时长也增加了，平均达到 4 小时 16 分钟。\n\n## 结构 (Structure)\n\n```\n[Den totala tiden] [personer är på akuten] [ökade också] [till ett snitt på fyra timmar och 16 minuter]\n   总时长               人们在急诊待的           也增加了          达到平均 4 小时 16 分钟\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *ökade*（增加了）\n- 📌 关系从句：*den tid som personer är på akuten*（主语从句修饰名词）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]] · [[öka]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Den totala tiden personer är på akuten ökade också till ett snitt på fyra timmar och 16 minuter. 🇨🇳 人们待在急诊的总时长也增加了，平均达到 4 小时 16 分钟。 结构 (Structure) [Den totala tiden] [personer är på akuten] [ökade också] [till ett",
+      "forms": [],
+      "links": [
+        "akut",
+        "grammar-preteritum",
+        "öka",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Den totala tiden personer är på akuten ökade också till ett snitt på fyra timmar och 16 minuter. sent-den-totala-tiden-personer-ar-pa-akuten knowledge_base/sentences/sent-den-totala-tiden-personer-ar-pa-akuten.md ---\ntype: sentence\nsentence: \"Den totala tiden personer är på akuten ökade också till ett snitt på fyra timmar och 16 minuter.\"\nzh: \"人们待在急诊的总时长也增加了，平均达到 4 小时 16 分钟。\"\ncefr: B1\nwords:\n  - \"[[akut]]\"\n  - \"[[öka]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-preteritum]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Den totala tiden personer är på akuten ökade också till ett snitt på fyra timmar och 16 minuter.\n\n🇨🇳 人们待在急诊的总时长也增加了，平均达到 4 小时 16 分钟。\n\n## 结构 (Structure)\n\n```\n[Den totala tiden] [personer är på akuten] [ökade också] [till ett snitt på fyra timmar och 16 minuter]\n   总时长               人们在急诊待的           也增加了          达到平均 4 小时 16 分钟\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *ökade*（增加了）\n- 📌 关系从句：*den tid som personer är på akuten*（主语从句修饰名词）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]] · [[öka]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "人们待在急诊的总时长也增加了，平均达到 4 小时 16 分钟。",
+      "created": "2026-06-17",
+      "sentence": "Den totala tiden personer är på akuten ökade också till ett snitt på fyra timmar och 16 minuter.",
+      "words": [
+        "[[akut]]",
+        "[[öka]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-preteritum]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "akut",
+        "öka",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-dessutom-ar-det-stor-skillnad-pa",
+      "type": "sentence",
+      "title": "🇸🇪 Dessutom är det stor skillnad på hur länge man får vänta i olika delar av landet.",
+      "path": "knowledge_base/sentences/sent-dessutom-ar-det-stor-skillnad-pa.md",
+      "body": "# 🇸🇪 Dessutom är det stor skillnad på hur länge man får vänta i olika delar av landet.\n\n🇨🇳 此外，在全国不同地区，等待时间差别还很大。\n\n## 结构 (Structure)\n\n```\n[Dessutom] [är det] [stor skillnad på] [hur länge man får vänta] [i olika delar av landet]\n    此外      是        很大差别在         等多长时间                   在全国不同地区\n```\n\n## 语法点 (Grammar)\n\n- 📌 *skillnad på* — 表示\"在……方面的差别\"，介词用 *på*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skillnad]] · [[vänta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Dessutom är det stor skillnad på hur länge man får vänta i olika delar av landet. 🇨🇳 此外，在全国不同地区，等待时间差别还很大。 结构 (Structure) [Dessutom] [är det] [stor skillnad på] [hur länge man får vänta] [i olika delar av landet] ",
+      "forms": [],
+      "links": [
+        "skillnad",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa",
+        "vänta"
+      ],
+      "searchText": "🇸🇪 Dessutom är det stor skillnad på hur länge man får vänta i olika delar av landet. sent-dessutom-ar-det-stor-skillnad-pa knowledge_base/sentences/sent-dessutom-ar-det-stor-skillnad-pa.md ---\ntype: sentence\nsentence: \"Dessutom är det stor skillnad på hur länge man får vänta i olika delar av landet.\"\nzh: \"此外，在全国不同地区，等待时间差别还很大。\"\ncefr: A2\nwords:\n  - \"[[skillnad]]\"\n  - \"[[vänta]]\"\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Dessutom är det stor skillnad på hur länge man får vänta i olika delar av landet.\n\n🇨🇳 此外，在全国不同地区，等待时间差别还很大。\n\n## 结构 (Structure)\n\n```\n[Dessutom] [är det] [stor skillnad på] [hur länge man får vänta] [i olika delar av landet]\n    此外      是        很大差别在         等多长时间                   在全国不同地区\n```\n\n## 语法点 (Grammar)\n\n- 📌 *skillnad på* — 表示\"在……方面的差别\"，介词用 *på*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skillnad]] · [[vänta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "此外，在全国不同地区，等待时间差别还很大。",
+      "created": "2026-06-17",
+      "sentence": "Dessutom är det stor skillnad på hur länge man får vänta i olika delar av landet.",
+      "words": [
+        "[[skillnad]]",
+        "[[vänta]]"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "skillnad",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-det-ar-bekymmersamt-men-vi-vet-inte",
+      "type": "sentence",
+      "title": "🇸🇪 Det är bekymmersamt, men vi vet inte vad det beror på.",
+      "path": "knowledge_base/sentences/sent-det-ar-bekymmersamt-men-vi-vet-inte.md",
+      "body": "# 🇸🇪 Det är bekymmersamt, men vi vet inte vad det beror på.\n\n🇨🇳 这令人担忧，但我们还不知道原因是什么。\n\n## 结构 (Structure)\n\n```\n[Det] [är bekymmersamt], [men vi vet inte] [vad det beror på]\n  这    令人担忧              但我们不知道         原因是什么\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — *vad det beror på* 间接疑问从句（宾语从句）\n- 📌 *inte* 在 bisats 中位于动词后 → [[grammar-bisats-biff]]\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bekymmersam]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det är bekymmersamt, men vi vet inte vad det beror på. 🇨🇳 这令人担忧，但我们还不知道原因是什么。 结构 (Structure) [Det] [är bekymmersamt], [men vi vet inte] [vad det beror på] 这 令人担忧 但我们不知道 原因是什么 语法点 (Grammar) 📌 grammar bisats — vad ",
+      "forms": [],
+      "links": [
+        "bekymmersam",
+        "grammar-bisats",
+        "grammar-bisats-biff",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Det är bekymmersamt, men vi vet inte vad det beror på. sent-det-ar-bekymmersamt-men-vi-vet-inte knowledge_base/sentences/sent-det-ar-bekymmersamt-men-vi-vet-inte.md ---\ntype: sentence\nsentence: \"Det är bekymmersamt, men vi vet inte vad det beror på.\"\nzh: \"这令人担忧，但我们还不知道原因是什么。\"\ncefr: B1\nwords:\n  - \"[[bekymmersam]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-bisats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är bekymmersamt, men vi vet inte vad det beror på.\n\n🇨🇳 这令人担忧，但我们还不知道原因是什么。\n\n## 结构 (Structure)\n\n```\n[Det] [är bekymmersamt], [men vi vet inte] [vad det beror på]\n  这    令人担忧              但我们不知道         原因是什么\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — *vad det beror på* 间接疑问从句（宾语从句）\n- 📌 *inte* 在 bisats 中位于动词后 → [[grammar-bisats-biff]]\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bekymmersam]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "这令人担忧，但我们还不知道原因是什么。",
+      "created": "2026-06-17",
+      "sentence": "Det är bekymmersamt, men vi vet inte vad det beror på.",
+      "words": [
+        "[[bekymmersam]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-bisats]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "bekymmersam",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-det-är-brist-på-jordgubbar-i",
       "type": "sentence",
       "title": "🇸🇪 Det är brist på jordgubbar i Skåne och i Västsverige.",
@@ -9088,6 +9617,36 @@ window.KB_DATA = {
       "backlinks": [
         "brist-på",
         "source-2026-06-18-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "sent-det-ar-gladjande-att-vi-lyckas",
+      "type": "sentence",
+      "title": "🇸🇪 Det är glädjande att vi lyckas med patientsäkerhetsarbetet",
+      "path": "knowledge_base/sentences/sent-det-ar-gladjande-att-vi-lyckas.md",
+      "body": "# 🇸🇪 Det är glädjande att vi lyckas med patientsäkerhetsarbetet\n\n🇨🇳 我们在病人安全工作上做得不错，这令人高兴，\n\n## 结构 (Structure)\n\n```\n[Det] [är glädjande] [att vi lyckas med patientsäkerhetsarbetet]\n  这      令人高兴          我们在病人安全工作上做得好\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *Det är glädjande att…* 形式主语 + att 从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det är glädjande att vi lyckas med patientsäkerhetsarbetet 🇨🇳 我们在病人安全工作上做得不错，这令人高兴， 结构 (Structure) [Det] [är glädjande] [att vi lyckas med patientsäkerhetsarbetet] 这 令人高兴 我们在病人安全工作上做得好 语法点 (Grammar) 📌 grammar att",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Det är glädjande att vi lyckas med patientsäkerhetsarbetet sent-det-ar-gladjande-att-vi-lyckas knowledge_base/sentences/sent-det-ar-gladjande-att-vi-lyckas.md ---\ntype: sentence\nsentence: \"Det är glädjande att vi lyckas med patientsäkerhetsarbetet\"\nzh: \"我们在病人安全工作上做得不错，这令人高兴，\"\ncefr: B1\nwords: []\nphrases: []\ngrammar:\n  - \"[[grammar-att-sats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är glädjande att vi lyckas med patientsäkerhetsarbetet\n\n🇨🇳 我们在病人安全工作上做得不错，这令人高兴，\n\n## 结构 (Structure)\n\n```\n[Det] [är glädjande] [att vi lyckas med patientsäkerhetsarbetet]\n  这      令人高兴          我们在病人安全工作上做得好\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *Det är glädjande att…* 形式主语 + att 从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "我们在病人安全工作上做得不错，这令人高兴，",
+      "created": "2026-06-17",
+      "sentence": "Det är glädjande att vi lyckas med patientsäkerhetsarbetet",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-att-sats]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -9203,6 +9762,102 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-det-ar-viktigt-att-titta-vidare-pa",
+      "type": "sentence",
+      "title": "🇸🇪 Det är viktigt att titta vidare på.",
+      "path": "knowledge_base/sentences/sent-det-ar-viktigt-att-titta-vidare-pa.md",
+      "body": "# 🇸🇪 Det är viktigt att titta vidare på.\n\n🇨🇳 这一点很重要，需要进一步研究。\n\n## 结构 (Structure)\n\n```\n[Det] [är viktigt] [att titta vidare på]\n  这     很重要         进一步研究\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *Det är viktigt att…* 形式主语 + att 不定式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det är viktigt att titta vidare på. 🇨🇳 这一点很重要，需要进一步研究。 结构 (Structure) [Det] [är viktigt] [att titta vidare på] 这 很重要 进一步研究 语法点 (Grammar) 📌 grammar att sats — Det är viktigt att… 形式主语 + att 不定式 生词 & 词组 (Words & Ph",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "grammar-for-att-infinitiv",
+        "source-2026-06-17-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Det är viktigt att titta vidare på. sent-det-ar-viktigt-att-titta-vidare-pa knowledge_base/sentences/sent-det-ar-viktigt-att-titta-vidare-pa.md ---\ntype: sentence\nsentence: \"Det är viktigt att titta vidare på.\"\nzh: \"这一点很重要，需要进一步研究。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar:\n  - \"[[grammar-att-sats]]\"\n  - \"[[grammar-for-att-infinitiv]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är viktigt att titta vidare på.\n\n🇨🇳 这一点很重要，需要进一步研究。\n\n## 结构 (Structure)\n\n```\n[Det] [är viktigt] [att titta vidare på]\n  这     很重要         进一步研究\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *Det är viktigt att…* 形式主语 + att 不定式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "这一点很重要，需要进一步研究。",
+      "created": "2026-06-17",
+      "sentence": "Det är viktigt att titta vidare på.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-att-sats]]",
+        "[[grammar-for-att-infinitiv]]"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-det-beror-pa-att-planeten-blir-allt-varmare",
+      "type": "sentence",
+      "title": "🇸🇪 Det beror på att planeten blir allt varmare.",
+      "path": "knowledge_base/sentences/sent-det-beror-pa-att-planeten-blir-allt-varmare.md",
+      "body": "# 🇸🇪 Det beror på att planeten blir allt varmare.\n\n🇨🇳 而这又是因为地球正变得越来越暖。\n\n## 结构 (Structure)\n\n```\n[Det] [beror på] [att planeten blir allt varmare]\n  这    因为           地球变得越来越暖\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *beror på att…* 原因从句\n- 📌 *allt varmare* = 越来越暖（allt + 比较级）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[allt-mer]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det beror på att planeten blir allt varmare. 🇨🇳 而这又是因为地球正变得越来越暖。 结构 (Structure) [Det] [beror på] [att planeten blir allt varmare] 这 因为 地球变得越来越暖 语法点 (Grammar) 📌 grammar att sats — beror på att… 原因从句 📌 allt varmar",
+      "forms": [],
+      "links": [
+        "allt-mer",
+        "grammar-att-sats",
+        "source-2026-06-17-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Det beror på att planeten blir allt varmare. sent-det-beror-pa-att-planeten-blir-allt-varmare knowledge_base/sentences/sent-det-beror-pa-att-planeten-blir-allt-varmare.md ---\ntype: sentence\nsentence: \"Det beror på att planeten blir allt varmare.\"\nzh: \"而这又是因为地球正变得越来越暖。\"\ncefr: A2\nwords: []\nphrases:\n  - \"[[allt-mer]]\"\ngrammar:\n  - \"[[grammar-att-sats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det beror på att planeten blir allt varmare.\n\n🇨🇳 而这又是因为地球正变得越来越暖。\n\n## 结构 (Structure)\n\n```\n[Det] [beror på] [att planeten blir allt varmare]\n  这    因为           地球变得越来越暖\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *beror på att…* 原因从句\n- 📌 *allt varmare* = 越来越暖（allt + 比较级）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[allt-mer]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "而这又是因为地球正变得越来越暖。",
+      "created": "2026-06-17",
+      "sentence": "Det beror på att planeten blir allt varmare.",
+      "words": [],
+      "phrases": [
+        "[[allt-mer]]"
+      ],
+      "grammar": [
+        "[[grammar-att-sats]]"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-det-blir-ingen-hojning-nu-men-rantan",
+      "type": "sentence",
+      "title": "🇸🇪 Det blir ingen höjning nu, men räntan kan komma att höjas senare i år.",
+      "path": "knowledge_base/sentences/sent-det-blir-ingen-hojning-nu-men-rantan.md",
+      "body": "# 🇸🇪 Det blir ingen höjning nu, men räntan kan komma att höjas senare i år.\n\n🇨🇳 现在不加息，但利率今年晚些时候可能会上调。\n\n## 结构 (Structure)\n\n```\n[Det blir ingen höjning nu], [men räntan] [kan komma att höjas] [senare i år]\n   现在不加息                     但利率         可能会被上调           今年晚些时候\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — *höjas*（被提高）是 -s 被动态\n- 📌 *kan komma att* 表示将来可能性（弱预测）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ränta]] · [[höja]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det blir ingen höjning nu, men räntan kan komma att höjas senare i år. 🇨🇳 现在不加息，但利率今年晚些时候可能会上调。 结构 (Structure) [Det blir ingen höjning nu], [men räntan] [kan komma att höjas] [senare i år] 现在不加息 但利率 可能会被上调 今年晚些时候 ",
+      "forms": [],
+      "links": [
+        "grammar-passiv-med-s",
+        "höja",
+        "ränta",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 Det blir ingen höjning nu, men räntan kan komma att höjas senare i år. sent-det-blir-ingen-hojning-nu-men-rantan knowledge_base/sentences/sent-det-blir-ingen-hojning-nu-men-rantan.md ---\ntype: sentence\nsentence: \"Det blir ingen höjning nu, men räntan kan komma att höjas senare i år.\"\nzh: \"现在不加息，但利率今年晚些时候可能会上调。\"\ncefr: B1\nwords:\n  - \"[[ränta]]\"\n  - \"[[höja]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-passiv-med-s]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det blir ingen höjning nu, men räntan kan komma att höjas senare i år.\n\n🇨🇳 现在不加息，但利率今年晚些时候可能会上调。\n\n## 结构 (Structure)\n\n```\n[Det blir ingen höjning nu], [men räntan] [kan komma att höjas] [senare i år]\n   现在不加息                     但利率         可能会被上调           今年晚些时候\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — *höjas*（被提高）是 -s 被动态\n- 📌 *kan komma att* 表示将来可能性（弱预测）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ränta]] · [[höja]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "现在不加息，但利率今年晚些时候可能会上调。",
+      "created": "2026-06-17",
+      "sentence": "Det blir ingen höjning nu, men räntan kan komma att höjas senare i år.",
+      "words": [
+        "[[ränta]]",
+        "[[höja]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-passiv-med-s]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "höja",
+        "ränta",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-det-blir-svalare-och-regnet",
       "type": "sentence",
       "title": "Det blir svalare och regnet återkommer.",
@@ -9234,6 +9889,35 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-komparativ",
         "sval"
+      ]
+    },
+    {
+      "slug": "sent-det-finns-risk-att-over-10000-hus",
+      "type": "sentence",
+      "title": "🇸🇪 Det finns risk att över 10 000 hus hamnar under vatten i framtiden.",
+      "path": "knowledge_base/sentences/sent-det-finns-risk-att-over-10000-hus.md",
+      "body": "# 🇸🇪 Det finns risk att över 10 000 hus hamnar under vatten i framtiden.\n\n🇨🇳 未来有超过一万栋房屋可能被水淹没的风险。\n\n## 结构 (Structure)\n\n```\n[Det finns] [risk] [att över 10 000 hus hamnar under vatten] [i framtiden]\n  存在          风险    超过一万栋房屋被水淹没                        未来\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-det-finns]] — *det finns* 存在句\n- 📌 [[grammar-att-sats]] — *risk att…* 后接 att 从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det finns risk att över 10 000 hus hamnar under vatten i framtiden. 🇨🇳 未来有超过一万栋房屋可能被水淹没的风险。 结构 (Structure) [Det finns] [risk] [att över 10 000 hus hamnar under vatten] [i framtiden] 存在 风险 超过一万栋房屋被水淹没 未来 语法点 (Gramm",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "grammar-det-finns",
+        "source-2026-06-17-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Det finns risk att över 10 000 hus hamnar under vatten i framtiden. sent-det-finns-risk-att-over-10000-hus knowledge_base/sentences/sent-det-finns-risk-att-over-10000-hus.md ---\ntype: sentence\nsentence: \"Det finns risk att över 10 000 hus hamnar under vatten i framtiden.\"\nzh: \"未来有超过一万栋房屋可能被水淹没的风险。\"\ncefr: B1\nwords: []\nphrases: []\ngrammar:\n  - \"[[grammar-att-sats]]\"\n  - \"[[grammar-det-finns]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det finns risk att över 10 000 hus hamnar under vatten i framtiden.\n\n🇨🇳 未来有超过一万栋房屋可能被水淹没的风险。\n\n## 结构 (Structure)\n\n```\n[Det finns] [risk] [att över 10 000 hus hamnar under vatten] [i framtiden]\n  存在          风险    超过一万栋房屋被水淹没                        未来\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-det-finns]] — *det finns* 存在句\n- 📌 [[grammar-att-sats]] — *risk att…* 后接 att 从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "未来有超过一万栋房屋可能被水淹没的风险。",
+      "created": "2026-06-17",
+      "sentence": "Det finns risk att över 10 000 hus hamnar under vatten i framtiden.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-att-sats]]",
+        "[[grammar-det-finns]]"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -9269,6 +9953,63 @@ window.KB_DATA = {
       "backlinks": [
         "som-vanligt",
         "source-2026-06-18-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "sent-det-har-varit-oroligt-kring-norges-kungahus",
+      "type": "sentence",
+      "title": "🇸🇪 Det har varit oroligt kring Norges kungahus den senaste tiden.",
+      "path": "knowledge_base/sentences/sent-det-har-varit-oroligt-kring-norges-kungahus.md",
+      "body": "# 🇸🇪 Det har varit oroligt kring Norges kungahus den senaste tiden.\n\n🇨🇳 近来挪威王室一直不太平。\n\n## 结构 (Structure)\n\n```\n[Det] [har varit oroligt] [kring Norges kungahus] [den senaste tiden]\n  这      一直不太平            围绕挪威王室                近来\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har varit* 持续状态的完成时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[orolig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det har varit oroligt kring Norges kungahus den senaste tiden. 🇨🇳 近来挪威王室一直不太平。 结构 (Structure) [Det] [har varit oroligt] [kring Norges kungahus] [den senaste tiden] 这 一直不太平 围绕挪威王室 近来 语法点 (Grammar) 📌 grammar perfek",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "orolig",
+        "source-2026-06-17-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Det har varit oroligt kring Norges kungahus den senaste tiden. sent-det-har-varit-oroligt-kring-norges-kungahus knowledge_base/sentences/sent-det-har-varit-oroligt-kring-norges-kungahus.md ---\ntype: sentence\nsentence: \"Det har varit oroligt kring Norges kungahus den senaste tiden.\"\nzh: \"近来挪威王室一直不太平。\"\ncefr: B1\nwords:\n  - \"[[orolig]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-perfekt]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det har varit oroligt kring Norges kungahus den senaste tiden.\n\n🇨🇳 近来挪威王室一直不太平。\n\n## 结构 (Structure)\n\n```\n[Det] [har varit oroligt] [kring Norges kungahus] [den senaste tiden]\n  这      一直不太平            围绕挪威王室                近来\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har varit* 持续状态的完成时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[orolig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "近来挪威王室一直不太平。",
+      "created": "2026-06-17",
+      "sentence": "Det har varit oroligt kring Norges kungahus den senaste tiden.",
+      "words": [
+        "[[orolig]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-perfekt]]"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-det-kan-ocksa-bli-regn-pa-andra-platser",
+      "type": "sentence",
+      "title": "🇸🇪 Det kan också bli regn på andra platser i landet.",
+      "path": "knowledge_base/sentences/sent-det-kan-ocksa-bli-regn-pa-andra-platser.md",
+      "body": "# 🇸🇪 Det kan också bli regn på andra platser i landet.\n\n🇨🇳 全国其他地方也可能下雨。\n\n## 结构 (Structure)\n\n```\n[Det] [kan bli] [regn] [på andra platser i landet]\n  这    可能会      雨      在全国其他地方\n```\n\n## 语法点 (Grammar)\n\n- 📌 *det kan bli regn* = 可能会下雨（天气预报标准表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det kan också bli regn på andra platser i landet. 🇨🇳 全国其他地方也可能下雨。 结构 (Structure) [Det] [kan bli] [regn] [på andra platser i landet] 这 可能会 雨 在全国其他地方 语法点 (Grammar) 📌 det kan bli regn = 可能会下雨（天气预报标准表达） 生词 & 词组 (Word",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "🇸🇪 Det kan också bli regn på andra platser i landet. sent-det-kan-ocksa-bli-regn-pa-andra-platser knowledge_base/sentences/sent-det-kan-ocksa-bli-regn-pa-andra-platser.md ---\ntype: sentence\nsentence: \"Det kan också bli regn på andra platser i landet.\"\nzh: \"全国其他地方也可能下雨。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-vader-och-arstider]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det kan också bli regn på andra platser i landet.\n\n🇨🇳 全国其他地方也可能下雨。\n\n## 结构 (Structure)\n\n```\n[Det] [kan bli] [regn] [på andra platser i landet]\n  这    可能会      雨      在全国其他地方\n```\n\n## 语法点 (Grammar)\n\n- 📌 *det kan bli regn* = 可能会下雨（天气预报标准表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "全国其他地方也可能下雨。",
+      "created": "2026-06-17",
+      "sentence": "Det kan också bli regn på andra platser i landet.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-vader-och-arstider]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -9389,6 +10130,94 @@ window.KB_DATA = {
         "topic-betalning"
       ],
       "backlinks": []
+    },
+    {
+      "slug": "sent-det-visar-en-ny-undersokning-av-indikator",
+      "type": "sentence",
+      "title": "🇸🇪 Det visar en ny undersökning, av Indikator Opinion.",
+      "path": "knowledge_base/sentences/sent-det-visar-en-ny-undersokning-av-indikator.md",
+      "body": "# 🇸🇪 Det visar en ny undersökning, av Indikator Opinion.\n\n🇨🇳 这是 Indikator Opinion 的一项新调查显示的。\n\n## 结构 (Structure)\n\n```\n[Det] [visar] [en ny undersökning, av Indikator Opinion]\n  这    显示     一项新调查（来自 Indikator Opinion）\n```\n\n## 语法点 (Grammar)\n\n- 📌 新闻倒装：宾语 *det*（指前述内容）提前\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det visar en ny undersökning, av Indikator Opinion. 🇨🇳 这是 Indikator Opinion 的一项新调查显示的。 结构 (Structure) [Det] [visar] [en ny undersökning, av Indikator Opinion] 这 显示 一项新调查（来自 Indikator Opinion） 语法点 (Grammar) 📌 新闻倒装",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 Det visar en ny undersökning, av Indikator Opinion. sent-det-visar-en-ny-undersokning-av-indikator knowledge_base/sentences/sent-det-visar-en-ny-undersokning-av-indikator.md ---\ntype: sentence\nsentence: \"Det visar en ny undersökning, av Indikator Opinion.\"\nzh: \"这是 Indikator Opinion 的一项新调查显示的。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det visar en ny undersökning, av Indikator Opinion.\n\n🇨🇳 这是 Indikator Opinion 的一项新调查显示的。\n\n## 结构 (Structure)\n\n```\n[Det] [visar] [en ny undersökning, av Indikator Opinion]\n  这    显示     一项新调查（来自 Indikator Opinion）\n```\n\n## 语法点 (Grammar)\n\n- 📌 新闻倒装：宾语 *det*（指前述内容）提前\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "这是 Indikator Opinion 的一项新调查显示的。",
+      "created": "2026-06-17",
+      "sentence": "Det visar en ny undersökning, av Indikator Opinion.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-det-visar-ny-statistik-fran-socialstyrelsen",
+      "type": "sentence",
+      "title": "🇸🇪 Det visar ny statistik från Socialstyrelsen.",
+      "path": "knowledge_base/sentences/sent-det-visar-ny-statistik-fran-socialstyrelsen.md",
+      "body": "# 🇸🇪 Det visar ny statistik från Socialstyrelsen.\n\n🇨🇳 这是国家卫生与福利署（Socialstyrelsen）的新统计数据显示的。\n\n## 结构 (Structure)\n\n```\n[Det] [visar] [ny statistik] [från Socialstyrelsen]\n  它    显示     新的统计数据      来自社会局\n```\n\n## 语法点 (Grammar)\n\n- 📌 倒装句：宾语 *det*（即前文提到的事实）提前，动词 *visar* 跟随\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[statistik]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det visar ny statistik från Socialstyrelsen. 🇨🇳 这是国家卫生与福利署（Socialstyrelsen）的新统计数据显示的。 结构 (Structure) [Det] [visar] [ny statistik] [från Socialstyrelsen] 它 显示 新的统计数据 来自社会局 语法点 (Grammar) 📌 倒装句：宾语 det （即前文提到的事实）提前，动",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt",
+        "statistik",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 Det visar ny statistik från Socialstyrelsen. sent-det-visar-ny-statistik-fran-socialstyrelsen knowledge_base/sentences/sent-det-visar-ny-statistik-fran-socialstyrelsen.md ---\ntype: sentence\nsentence: \"Det visar ny statistik från Socialstyrelsen.\"\nzh: \"这是国家卫生与福利署（Socialstyrelsen）的新统计数据显示的。\"\ncefr: A2\nwords:\n  - \"[[statistik]]\"\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det visar ny statistik från Socialstyrelsen.\n\n🇨🇳 这是国家卫生与福利署（Socialstyrelsen）的新统计数据显示的。\n\n## 结构 (Structure)\n\n```\n[Det] [visar] [ny statistik] [från Socialstyrelsen]\n  它    显示     新的统计数据      来自社会局\n```\n\n## 语法点 (Grammar)\n\n- 📌 倒装句：宾语 *det*（即前文提到的事实）提前，动词 *visar* 跟随\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[statistik]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "这是国家卫生与福利署（Socialstyrelsen）的新统计数据显示的。",
+      "created": "2026-06-17",
+      "sentence": "Det visar ny statistik från Socialstyrelsen.",
+      "words": [
+        "[[statistik]]"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt",
+        "statistik"
+      ]
+    },
+    {
+      "slug": "sent-detta-beror-pa-att-nivan-pa-varldens-hav",
+      "type": "sentence",
+      "title": "🇸🇪 Detta beror på att nivån på världens hav stiger.",
+      "path": "knowledge_base/sentences/sent-detta-beror-pa-att-nivan-pa-varldens-hav.md",
+      "body": "# 🇸🇪 Detta beror på att nivån på världens hav stiger.\n\n🇨🇳 这是因为全球海平面正在上升。\n\n## 结构 (Structure)\n\n```\n[Detta] [beror på] [att nivån på världens hav stiger]\n   这      因为           世界海平面正在上升\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *beror på att…* 原因从句\n- 📌 *stiger* 是 [[stiga]] 的现在时（presens）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stiga]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Detta beror på att nivån på världens hav stiger. 🇨🇳 这是因为全球海平面正在上升。 结构 (Structure) [Detta] [beror på] [att nivån på världens hav stiger] 这 因为 世界海平面正在上升 语法点 (Grammar) 📌 grammar att sats — beror på att… 原因从句 📌 stig",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "source-2026-06-17-listening-svt-latt",
+        "stiga"
+      ],
+      "searchText": "🇸🇪 Detta beror på att nivån på världens hav stiger. sent-detta-beror-pa-att-nivan-pa-varldens-hav knowledge_base/sentences/sent-detta-beror-pa-att-nivan-pa-varldens-hav.md ---\ntype: sentence\nsentence: \"Detta beror på att nivån på världens hav stiger.\"\nzh: \"这是因为全球海平面正在上升。\"\ncefr: B1\nwords:\n  - \"[[stiga]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-att-sats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Detta beror på att nivån på världens hav stiger.\n\n🇨🇳 这是因为全球海平面正在上升。\n\n## 结构 (Structure)\n\n```\n[Detta] [beror på] [att nivån på världens hav stiger]\n   这      因为           世界海平面正在上升\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *beror på att…* 原因从句\n- 📌 *stiger* 是 [[stiga]] 的现在时（presens）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stiga]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "这是因为全球海平面正在上升。",
+      "created": "2026-06-17",
+      "sentence": "Detta beror på att nivån på världens hav stiger.",
+      "words": [
+        "[[stiga]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-att-sats]]"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
     },
     {
       "slug": "sent-dricks-är-helt-frivilligt-i-sverige",
@@ -11580,6 +12409,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-for-naturen-an-vad-vanliga-kor-klarat",
+      "type": "sentence",
+      "title": "🇸🇪 för naturen än vad vanliga kor klarat på 30 år.",
+      "path": "knowledge_base/sentences/sent-for-naturen-an-vad-vanliga-kor-klarat.md",
+      "body": "# 🇸🇪 för naturen än vad vanliga kor klarat på 30 år.\n\n🇨🇳 比普通奶牛 30 年里为自然做的还要多。\n\n## 结构 (Structure)\n\n```\n[för naturen] [än] [vad vanliga kor klarat på 30 år]\n   为了自然      比      普通奶牛在 30 年里做到的\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *än vad…* = 比……还（复合比较结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 för naturen än vad vanliga kor klarat på 30 år. 🇨🇳 比普通奶牛 30 年里为自然做的还要多。 结构 (Structure) [för naturen] [än] [vad vanliga kor klarat på 30 år] 为了自然 比 普通奶牛在 30 年里做到的 语法点 (Grammar) 📌 grammar komparativ — än vad… = 比……",
+      "forms": [],
+      "links": [
+        "grammar-komparativ",
+        "source-2026-06-17-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 för naturen än vad vanliga kor klarat på 30 år. sent-for-naturen-an-vad-vanliga-kor-klarat knowledge_base/sentences/sent-for-naturen-an-vad-vanliga-kor-klarat.md ---\ntype: sentence\nsentence: \"för naturen än vad vanliga kor klarat på 30 år.\"\nzh: \"比普通奶牛 30 年里为自然做的还要多。\"\ncefr: B1\nwords: []\nphrases: []\ngrammar:\n  - \"[[grammar-komparativ]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 för naturen än vad vanliga kor klarat på 30 år.\n\n🇨🇳 比普通奶牛 30 年里为自然做的还要多。\n\n## 结构 (Structure)\n\n```\n[för naturen] [än] [vad vanliga kor klarat på 30 år]\n   为了自然      比      普通奶牛在 30 年里做到的\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *än vad…* = 比……还（复合比较结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "比普通奶牛 30 年里为自然做的还要多。",
+      "created": "2026-06-17",
+      "sentence": "för naturen än vad vanliga kor klarat på 30 år.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-komparativ]]"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-förlåt-kan-du-hjälpa-mig",
       "type": "sentence",
       "title": "🇸🇪 Förlåt, kan du hjälpa mig?",
@@ -11610,6 +12466,43 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-18-fraga-efter-vagen"
+      ]
+    },
+    {
+      "slug": "sent-forra-aret-okade-besoken-till-akuten",
+      "type": "sentence",
+      "title": "🇸🇪 Förra året ökade besöken till akuten med 3 %.",
+      "path": "knowledge_base/sentences/sent-forra-aret-okade-besoken-till-akuten.md",
+      "body": "# 🇸🇪 Förra året ökade besöken till akuten med 3 %.\n\n🇨🇳 去年急诊就诊量增长了 3%。\n\n## 结构 (Structure)\n\n```\n[Förra året] [ökade] [besöken till akuten] [med 3 %]\n   去年         增长了    急诊就诊量              3%\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *ökade* 是 *öka* 的过去式（grupp 2：-ade）\n- 📌 *med X %* — 增长了 X%（数量差）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]] · [[öka]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Förra året ökade besöken till akuten med 3 %. 🇨🇳 去年急诊就诊量增长了 3%。 结构 (Structure) [Förra året] [ökade] [besöken till akuten] [med 3 %] 去年 增长了 急诊就诊量 3% 语法点 (Grammar) 📌 grammar preteritum — ökade 是 öka 的过去式（grupp 2： a",
+      "forms": [],
+      "links": [
+        "akut",
+        "grammar-preteritum",
+        "öka",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Förra året ökade besöken till akuten med 3 %. sent-forra-aret-okade-besoken-till-akuten knowledge_base/sentences/sent-forra-aret-okade-besoken-till-akuten.md ---\ntype: sentence\nsentence: \"Förra året ökade besöken till akuten med 3 %.\"\nzh: \"去年急诊就诊量增长了 3%。\"\ncefr: A2\nwords:\n  - \"[[akut]]\"\n  - \"[[öka]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-preteritum]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Förra året ökade besöken till akuten med 3 %.\n\n🇨🇳 去年急诊就诊量增长了 3%。\n\n## 结构 (Structure)\n\n```\n[Förra året] [ökade] [besöken till akuten] [med 3 %]\n   去年         增长了    急诊就诊量              3%\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *ökade* 是 *öka* 的过去式（grupp 2：-ade）\n- 📌 *med X %* — 增长了 X%（数量差）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]] · [[öka]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "去年急诊就诊量增长了 3%。",
+      "created": "2026-06-17",
+      "sentence": "Förra året ökade besöken till akuten med 3 %.",
+      "words": [
+        "[[akut]]",
+        "[[öka]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-preteritum]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "akut",
+        "öka",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -12137,6 +13030,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-haft-mote-med-usas-president-donald-trump",
+      "type": "sentence",
+      "title": "🇸🇪 haft möte med USA:s president Donald Trump.",
+      "path": "knowledge_base/sentences/sent-haft-mote-med-usas-president-donald-trump.md",
+      "body": "# 🇸🇪 haft möte med USA:s president Donald Trump.\n\n🇨🇳 与美国总统唐纳德·特朗普举行了会晤。\n\n## 结构 (Structure)\n\n```\n[haft möte] [med USA:s president Donald Trump]\n  举行了会晤    与美国总统特朗普\n```\n\n## 语法点 (Grammar)\n\n- 📌 *ha möte med ngn* — 与某人开会/会晤（固定搭配）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[möte]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 haft möte med USA:s president Donald Trump. 🇨🇳 与美国总统唐纳德·特朗普举行了会晤。 结构 (Structure) [haft möte] [med USA:s president Donald Trump] 举行了会晤 与美国总统特朗普 语法点 (Grammar) 📌 ha möte med ngn — 与某人开会/会晤（固定搭配） 生词 & 词组 (Words & Phr",
+      "forms": [],
+      "links": [
+        "möte",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 haft möte med USA:s president Donald Trump. sent-haft-mote-med-usas-president-donald-trump knowledge_base/sentences/sent-haft-mote-med-usas-president-donald-trump.md ---\ntype: sentence\nsentence: \"haft möte med USA:s president Donald Trump.\"\nzh: \"与美国总统唐纳德·特朗普举行了会晤。\"\ncefr: A2\nwords:\n  - \"[[möte]]\"\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 haft möte med USA:s president Donald Trump.\n\n🇨🇳 与美国总统唐纳德·特朗普举行了会晤。\n\n## 结构 (Structure)\n\n```\n[haft möte] [med USA:s president Donald Trump]\n  举行了会晤    与美国总统特朗普\n```\n\n## 语法点 (Grammar)\n\n- 📌 *ha möte med ngn* — 与某人开会/会晤（固定搭配）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[möte]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "与美国总统唐纳德·特朗普举行了会晤。",
+      "created": "2026-06-17",
+      "sentence": "haft möte med USA:s president Donald Trump.",
+      "words": [
+        "[[möte]]"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-han-foddes-1981-rosengard",
       "type": "sentence",
       "title": "🇸🇪 Han föddes 1981 i Rosengård i Malmö.",
@@ -12212,6 +13135,30 @@ window.KB_DATA = {
       "backlinks": [
         "har-ni-bestämt-er",
         "source-2026-06-15-restaurang-middag"
+      ]
+    },
+    {
+      "slug": "sent-har-slutar-nyheter-pa-latt-svenska",
+      "type": "sentence",
+      "title": "🇸🇪 Här slutar Nyheter på lätt svenska. Vi önskar trevlig kväll!",
+      "path": "knowledge_base/sentences/sent-har-slutar-nyheter-pa-latt-svenska.md",
+      "body": "# 🇸🇪 Här slutar Nyheter på lätt svenska. Vi önskar trevlig kväll!\n\n🇨🇳 《简易瑞典语新闻》到此结束。祝您度过一个愉快的夜晚！\n\n## 结构 (Structure)\n\n```\n[Här] [slutar] [Nyheter på lätt svenska.] [Vi] [önskar] [trevlig kväll]!\n  这里   结束      简易瑞典语新闻               我们   祝愿       愉快的夜晚\n```\n\n## 语法点 (Grammar)\n\n- 📌 *önskar X Y*（祝愿某人某事）结构，这里 X 省略\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Här slutar Nyheter på lätt svenska. Vi önskar trevlig kväll! 🇨🇳 《简易瑞典语新闻》到此结束。祝您度过一个愉快的夜晚！ 结构 (Structure) [Här] [slutar] [Nyheter på lätt svenska.] [Vi] [önskar] [trevlig kväll]! 这里 结束 简易瑞典语新闻 我们 祝愿 愉快的夜晚 语法点 (Gra",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Här slutar Nyheter på lätt svenska. Vi önskar trevlig kväll! sent-har-slutar-nyheter-pa-latt-svenska knowledge_base/sentences/sent-har-slutar-nyheter-pa-latt-svenska.md ---\ntype: sentence\nsentence: \"Här slutar Nyheter på lätt svenska. Vi önskar trevlig kväll!\"\nzh: \"《简易瑞典语新闻》到此结束。祝您度过一个愉快的夜晚！\"\ncefr: A1\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Här slutar Nyheter på lätt svenska. Vi önskar trevlig kväll!\n\n🇨🇳 《简易瑞典语新闻》到此结束。祝您度过一个愉快的夜晚！\n\n## 结构 (Structure)\n\n```\n[Här] [slutar] [Nyheter på lätt svenska.] [Vi] [önskar] [trevlig kväll]!\n  这里   结束      简易瑞典语新闻               我们   祝愿       愉快的夜晚\n```\n\n## 语法点 (Grammar)\n\n- 📌 *önskar X Y*（祝愿某人某事）结构，这里 X 省略\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "《简易瑞典语新闻》到此结束。祝您度过一个愉快的夜晚！",
+      "created": "2026-06-17",
+      "sentence": "Här slutar Nyheter på lätt svenska. Vi önskar trevlig kväll!",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -12383,6 +13330,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-hur-lange-man-far-vanta-i-olika-delar",
+      "type": "sentence",
+      "title": "🇸🇪 hur länge man får vänta i olika delar av landet.",
+      "path": "knowledge_base/sentences/sent-hur-lange-man-far-vanta-i-olika-delar.md",
+      "body": "# 🇸🇪 hur länge man får vänta i olika delar av landet.\n\n🇨🇳 在全国不同地区，等待的时间各不相同。\n\n## 结构 (Structure)\n\n```\n[hur länge] [man] [får vänta] [i olika delar av landet]\n  多长时间    人们   被迫等待       在全国各地\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — *hur länge* 引导间接疑问从句（bisats）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vänta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 hur länge man får vänta i olika delar av landet. 🇨🇳 在全国不同地区，等待的时间各不相同。 结构 (Structure) [hur länge] [man] [får vänta] [i olika delar av landet] 多长时间 人们 被迫等待 在全国各地 语法点 (Grammar) 📌 grammar bisats — hur länge 引导间接疑问从句",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa",
+        "vänta"
+      ],
+      "searchText": "🇸🇪 hur länge man får vänta i olika delar av landet. sent-hur-lange-man-far-vanta-i-olika-delar knowledge_base/sentences/sent-hur-lange-man-far-vanta-i-olika-delar.md ---\ntype: sentence\nsentence: \"hur länge man får vänta i olika delar av landet.\"\nzh: \"在全国不同地区，等待的时间各不相同。\"\ncefr: A2\nwords:\n  - \"[[vänta]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-bisats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 hur länge man får vänta i olika delar av landet.\n\n🇨🇳 在全国不同地区，等待的时间各不相同。\n\n## 结构 (Structure)\n\n```\n[hur länge] [man] [får vänta] [i olika delar av landet]\n  多长时间    人们   被迫等待       在全国各地\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — *hur länge* 引导间接疑问从句（bisats）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vänta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "在全国不同地区，等待的时间各不相同。",
+      "created": "2026-06-17",
+      "sentence": "hur länge man får vänta i olika delar av landet.",
+      "words": [
+        "[[vänta]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-bisats]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-hur-tar-jag-mig-dit",
       "type": "sentence",
       "title": "🇸🇪 Hur tar jag mig dit?",
@@ -12505,6 +13485,37 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-i-genomsnitt-fyra-timmar-och-57-minuter",
+      "type": "sentence",
+      "title": "🇸🇪 I genomsnitt fyra timmar och 57 minuter.",
+      "path": "knowledge_base/sentences/sent-i-genomsnitt-fyra-timmar-och-57-minuter.md",
+      "body": "# 🇸🇪 I genomsnitt fyra timmar och 57 minuter.\n\n🇨🇳 平均为 4 小时 57 分钟。\n\n## 结构 (Structure)\n\n```\n[I genomsnitt] [fyra timmar och 57 minuter]\n    平均             4 小时 57 分钟\n```\n\n## 语法点 (Grammar)\n\n- 📌 简短统计表达，无谓语，作数据补充\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[i-genomsnitt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 I genomsnitt fyra timmar och 57 minuter. 🇨🇳 平均为 4 小时 57 分钟。 结构 (Structure) [I genomsnitt] [fyra timmar och 57 minuter] 平均 4 小时 57 分钟 语法点 (Grammar) 📌 简短统计表达，无谓语，作数据补充 生词 & 词组 (Words & Phrases) 词组: i genomsnitt 来源 ",
+      "forms": [],
+      "links": [
+        "i-genomsnitt",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 I genomsnitt fyra timmar och 57 minuter. sent-i-genomsnitt-fyra-timmar-och-57-minuter knowledge_base/sentences/sent-i-genomsnitt-fyra-timmar-och-57-minuter.md ---\ntype: sentence\nsentence: \"I genomsnitt fyra timmar och 57 minuter.\"\nzh: \"平均为 4 小时 57 分钟。\"\ncefr: A1\nwords: []\nphrases:\n  - \"[[i-genomsnitt]]\"\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I genomsnitt fyra timmar och 57 minuter.\n\n🇨🇳 平均为 4 小时 57 分钟。\n\n## 结构 (Structure)\n\n```\n[I genomsnitt] [fyra timmar och 57 minuter]\n    平均             4 小时 57 分钟\n```\n\n## 语法点 (Grammar)\n\n- 📌 简短统计表达，无谓语，作数据补充\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[i-genomsnitt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "平均为 4 小时 57 分钟。",
+      "created": "2026-06-17",
+      "sentence": "I genomsnitt fyra timmar och 57 minuter.",
+      "words": [],
+      "phrases": [
+        "[[i-genomsnitt]]"
+      ],
+      "grammar": [],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "i-genomsnitt",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-i-hornet-till-vanster-om-dorren-star-kladskap",
       "type": "sentence",
       "title": "🇸🇪 I hörnet till vänster om dörren står ett klädskåp.",
@@ -12553,6 +13564,74 @@ window.KB_DATA = {
         "i-hörnet",
         "source-2026-06-09-rumsliga-relationer",
         "till-vänster-om"
+      ]
+    },
+    {
+      "slug": "sent-i-mandags-domdes-mette-marits-son",
+      "type": "sentence",
+      "title": "🇸🇪 I måndags dömdes Mette-Marits son Marius Borg Høiby till fyra års fängelse för flera brott.",
+      "path": "knowledge_base/sentences/sent-i-mandags-domdes-mette-marits-son.md",
+      "body": "# 🇸🇪 I måndags dömdes Mette-Marits son Marius Borg Høiby till fyra års fängelse för flera brott.\n\n🇨🇳 上周一，梅特-玛丽特的儿子 Marius Borg Høiby 因多项罪行被判处四年监禁。\n\n## 结构 (Structure)\n\n```\n[I måndags] [dömdes] [Mette-Marits son Marius Borg Høiby] [till fyra års fängelse] [för flera brott]\n   上周一      被判决        梅特-玛丽特的儿子…                   四年监禁                  因多项罪行\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — *dömdes*（被判处）-s 被动过去式\n- 📌 [[grammar-preteritum]] — *dömdes* 为过去时态\n- 📌 *till X års fängelse* — 判处 X 年监禁，固定句式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[döma]] · [[fängelse]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 I måndags dömdes Mette Marits son Marius Borg Høiby till fyra års fängelse för flera brott. 🇨🇳 上周一，梅特 玛丽特的儿子 Marius Borg Høiby 因多项罪行被判处四年监禁。 结构 (Structure) [I måndags] [dömdes] [Mette Marits son Marius Borg Høiby]",
+      "forms": [],
+      "links": [
+        "döma",
+        "fängelse",
+        "grammar-passiv-med-s",
+        "grammar-preteritum",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 I måndags dömdes Mette-Marits son Marius Borg Høiby till fyra års fängelse för flera brott. sent-i-mandags-domdes-mette-marits-son knowledge_base/sentences/sent-i-mandags-domdes-mette-marits-son.md ---\ntype: sentence\nsentence: \"I måndags dömdes Mette-Marits son Marius Borg Høiby till fyra års fängelse för flera brott.\"\nzh: \"上周一，梅特-玛丽特的儿子 Marius Borg Høiby 因多项罪行被判处四年监禁。\"\ncefr: B1\nwords:\n  - \"[[döma]]\"\n  - \"[[fängelse]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-passiv-med-s]]\"\n  - \"[[grammar-preteritum]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I måndags dömdes Mette-Marits son Marius Borg Høiby till fyra års fängelse för flera brott.\n\n🇨🇳 上周一，梅特-玛丽特的儿子 Marius Borg Høiby 因多项罪行被判处四年监禁。\n\n## 结构 (Structure)\n\n```\n[I måndags] [dömdes] [Mette-Marits son Marius Borg Høiby] [till fyra års fängelse] [för flera brott]\n   上周一      被判决        梅特-玛丽特的儿子…                   四年监禁                  因多项罪行\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — *dömdes*（被判处）-s 被动过去式\n- 📌 [[grammar-preteritum]] — *dömdes* 为过去时态\n- 📌 *till X års fängelse* — 判处 X 年监禁，固定句式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[döma]] · [[fängelse]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "上周一，梅特-玛丽特的儿子 Marius Borg Høiby 因多项罪行被判处四年监禁。",
+      "created": "2026-06-17",
+      "sentence": "I måndags dömdes Mette-Marits son Marius Borg Høiby till fyra års fängelse för flera brott.",
+      "words": [
+        "[[döma]]",
+        "[[fängelse]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-passiv-med-s]]",
+        "[[grammar-preteritum]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "döma",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-i-norge-har-kronprinsessan-mette-marit",
+      "type": "sentence",
+      "title": "🇸🇪 I Norge har kronprinsessan Mette-Marit fått nya lungor.",
+      "path": "knowledge_base/sentences/sent-i-norge-har-kronprinsessan-mette-marit.md",
+      "body": "# 🇸🇪 I Norge har kronprinsessan Mette-Marit fått nya lungor.\n\n🇨🇳 在挪威，王储妃梅特-玛丽特（Mette-Marit）移植了新的肺。\n\n## 结构 (Structure)\n\n```\n[I Norge] [har] [kronprinsessan Mette-Marit] [fått nya lungor]\n  在挪威     有       王储妃梅特-玛丽特             获得了新的肺\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har fått* 现在完成时，强调结果状态\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lunga]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 I Norge har kronprinsessan Mette Marit fått nya lungor. 🇨🇳 在挪威，王储妃梅特 玛丽特（Mette Marit）移植了新的肺。 结构 (Structure) [I Norge] [har] [kronprinsessan Mette Marit] [fått nya lungor] 在挪威 有 王储妃梅特 玛丽特 获得了新的肺 语法点 (Grammar) 📌 gr",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "lunga",
+        "source-2026-06-17-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 I Norge har kronprinsessan Mette-Marit fått nya lungor. sent-i-norge-har-kronprinsessan-mette-marit knowledge_base/sentences/sent-i-norge-har-kronprinsessan-mette-marit.md ---\ntype: sentence\nsentence: \"I Norge har kronprinsessan Mette-Marit fått nya lungor.\"\nzh: \"在挪威，王储妃梅特-玛丽特（Mette-Marit）移植了新的肺。\"\ncefr: A2\nwords:\n  - \"[[lunga]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-perfekt]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I Norge har kronprinsessan Mette-Marit fått nya lungor.\n\n🇨🇳 在挪威，王储妃梅特-玛丽特（Mette-Marit）移植了新的肺。\n\n## 结构 (Structure)\n\n```\n[I Norge] [har] [kronprinsessan Mette-Marit] [fått nya lungor]\n  在挪威     有       王储妃梅特-玛丽特             获得了新的肺\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har fått* 现在完成时，强调结果状态\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lunga]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "在挪威，王储妃梅特-玛丽特（Mette-Marit）移植了新的肺。",
+      "created": "2026-06-17",
+      "sentence": "I Norge har kronprinsessan Mette-Marit fått nya lungor.",
+      "words": [
+        "[[lunga]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-perfekt]]"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -12674,6 +13753,40 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "gå-en-promenad"
+      ]
+    },
+    {
+      "slug": "sent-idag-kom-besked-fran-riksbanken-om-rantan",
+      "type": "sentence",
+      "title": "🇸🇪 Idag kom besked från Riksbanken om räntan.",
+      "path": "knowledge_base/sentences/sent-idag-kom-besked-fran-riksbanken-om-rantan.md",
+      "body": "# 🇸🇪 Idag kom besked från Riksbanken om räntan.\n\n🇨🇳 今天中央银行（Riksbanken）公布了利率的消息。\n\n## 结构 (Structure)\n\n```\n[Idag] [kom] [besked] [från Riksbanken] [om räntan]\n  今天   来了   消息      来自中央银行        关于利率\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *kom*（来了）是 *komma* 的过去式（强变化）\n- 📌 倒装：时间状语 *idag* 提前\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ränta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Idag kom besked från Riksbanken om räntan. 🇨🇳 今天中央银行（Riksbanken）公布了利率的消息。 结构 (Structure) [Idag] [kom] [besked] [från Riksbanken] [om räntan] 今天 来了 消息 来自中央银行 关于利率 语法点 (Grammar) 📌 grammar preteritum — kom （来了）是 kom",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "ränta",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 Idag kom besked från Riksbanken om räntan. sent-idag-kom-besked-fran-riksbanken-om-rantan knowledge_base/sentences/sent-idag-kom-besked-fran-riksbanken-om-rantan.md ---\ntype: sentence\nsentence: \"Idag kom besked från Riksbanken om räntan.\"\nzh: \"今天中央银行（Riksbanken）公布了利率的消息。\"\ncefr: A2\nwords:\n  - \"[[ränta]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-preteritum]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Idag kom besked från Riksbanken om räntan.\n\n🇨🇳 今天中央银行（Riksbanken）公布了利率的消息。\n\n## 结构 (Structure)\n\n```\n[Idag] [kom] [besked] [från Riksbanken] [om räntan]\n  今天   来了   消息      来自中央银行        关于利率\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *kom*（来了）是 *komma* 的过去式（强变化）\n- 📌 倒装：时间状语 *idag* 提前\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ränta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "今天中央银行（Riksbanken）公布了利率的消息。",
+      "created": "2026-06-17",
+      "sentence": "Idag kom besked från Riksbanken om räntan.",
+      "words": [
+        "[[ränta]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-preteritum]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "ränta",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -13868,6 +14981,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-kvinnor-far-vanta-langre-an-man",
+      "type": "sentence",
+      "title": "🇸🇪 Kvinnor får vänta längre än män när de söker hjälp på akuten.",
+      "path": "knowledge_base/sentences/sent-kvinnor-far-vanta-langre-an-man.md",
+      "body": "# 🇸🇪 Kvinnor får vänta längre än män när de söker hjälp på akuten.\n\n🇨🇳 女性在急诊就医时，等待的时间比男性更长。\n\n## 结构 (Structure)\n\n```\n[Kvinnor] [får vänta] [längre än män] [när de söker hjälp på akuten]\n  女性      被迫等待      比男性更长         当她们在急诊就医时\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *längre* 是 *lång* 的比较级，*längre än* = 比……更长\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]] · [[vänta]]\n- 词组: [[söka-hjälp]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Kvinnor får vänta längre än män när de söker hjälp på akuten. 🇨🇳 女性在急诊就医时，等待的时间比男性更长。 结构 (Structure) [Kvinnor] [får vänta] [längre än män] [när de söker hjälp på akuten] 女性 被迫等待 比男性更长 当她们在急诊就医时 语法点 (Grammar) 📌 gr",
+      "forms": [],
+      "links": [
+        "akut",
+        "grammar-komparativ",
+        "söka-hjälp",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa",
+        "vänta"
+      ],
+      "searchText": "🇸🇪 Kvinnor får vänta längre än män när de söker hjälp på akuten. sent-kvinnor-far-vanta-langre-an-man knowledge_base/sentences/sent-kvinnor-far-vanta-langre-an-man.md ---\ntype: sentence\nsentence: \"Kvinnor får vänta längre än män när de söker hjälp på akuten.\"\nzh: \"女性在急诊就医时，等待的时间比男性更长。\"\ncefr: A2\nwords:\n  - \"[[akut]]\"\n  - \"[[vänta]]\"\nphrases:\n  - \"[[söka-hjälp]]\"\ngrammar:\n  - \"[[grammar-komparativ]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Kvinnor får vänta längre än män när de söker hjälp på akuten.\n\n🇨🇳 女性在急诊就医时，等待的时间比男性更长。\n\n## 结构 (Structure)\n\n```\n[Kvinnor] [får vänta] [längre än män] [när de söker hjälp på akuten]\n  女性      被迫等待      比男性更长         当她们在急诊就医时\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *längre* 是 *lång* 的比较级，*längre än* = 比……更长\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]] · [[vänta]]\n- 词组: [[söka-hjälp]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "女性在急诊就医时，等待的时间比男性更长。",
+      "created": "2026-06-17",
+      "sentence": "Kvinnor får vänta längre än män när de söker hjälp på akuten.",
+      "words": [
+        "[[akut]]",
+        "[[vänta]]"
+      ],
+      "phrases": [
+        "[[söka-hjälp]]"
+      ],
+      "grammar": [
+        "[[grammar-komparativ]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "akut",
+        "söka-hjälp",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-länderna-ska-göra-det-svårare",
       "type": "sentence",
       "title": "🇸🇪 Länderna ska göra det svårare för Ryssland att sälja olja och gas.",
@@ -13990,6 +15143,113 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-langst-tid-pa-akuten-hade-patienter-i-region-skane",
+      "type": "sentence",
+      "title": "🇸🇪 Längst tid på akuten hade patienter i Region Skåne.",
+      "path": "knowledge_base/sentences/sent-langst-tid-pa-akuten-hade-patienter-i-region-skane.md",
+      "body": "# 🇸🇪 Längst tid på akuten hade patienter i Region Skåne.\n\n🇨🇳 在急诊待得最久的是斯科讷大区（Region Skåne）的病人。\n\n## 结构 (Structure)\n\n```\n[Längst tid] [på akuten] [hade] [patienter i Region Skåne]\n  最长的时间    在急诊        有        斯科讷大区的病人\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *längst* 是 *lång* 的最高级\n- 📌 倒装：状语提前，动词前置\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]] · [[patient]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Längst tid på akuten hade patienter i Region Skåne. 🇨🇳 在急诊待得最久的是斯科讷大区（Region Skåne）的病人。 结构 (Structure) [Längst tid] [på akuten] [hade] [patienter i Region Skåne] 最长的时间 在急诊 有 斯科讷大区的病人 语法点 (Grammar) 📌 grammar kompa",
+      "forms": [],
+      "links": [
+        "akut",
+        "grammar-komparativ",
+        "patient",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Längst tid på akuten hade patienter i Region Skåne. sent-langst-tid-pa-akuten-hade-patienter-i-region-skane knowledge_base/sentences/sent-langst-tid-pa-akuten-hade-patienter-i-region-skane.md ---\ntype: sentence\nsentence: \"Längst tid på akuten hade patienter i Region Skåne.\"\nzh: \"在急诊待得最久的是斯科讷大区（Region Skåne）的病人。\"\ncefr: B1\nwords:\n  - \"[[akut]]\"\n  - \"[[patient]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-komparativ]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Längst tid på akuten hade patienter i Region Skåne.\n\n🇨🇳 在急诊待得最久的是斯科讷大区（Region Skåne）的病人。\n\n## 结构 (Structure)\n\n```\n[Längst tid] [på akuten] [hade] [patienter i Region Skåne]\n  最长的时间    在急诊        有        斯科讷大区的病人\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *längst* 是 *lång* 的最高级\n- 📌 倒装：状语提前，动词前置\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]] · [[patient]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "在急诊待得最久的是斯科讷大区（Region Skåne）的病人。",
+      "created": "2026-06-17",
+      "sentence": "Längst tid på akuten hade patienter i Region Skåne.",
+      "words": [
+        "[[akut]]",
+        "[[patient]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-komparativ]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "akut",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80",
+      "type": "sentence",
+      "title": "🇸🇪 Längst tid på akuten tillbringar kvinnor över 80 år.",
+      "path": "knowledge_base/sentences/sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80.md",
+      "body": "# 🇸🇪 Längst tid på akuten tillbringar kvinnor över 80 år.\n\n🇨🇳 在急诊待得最久的是 80 岁以上的女性。\n\n## 结构 (Structure)\n\n```\n[Längst tid] [på akuten] [tillbringar] [kvinnor över 80 år]\n  最长时间      在急诊         花费              80 岁以上的女性\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *längst* 是 *lång* 的最高级\n- 📌 倒装强调：最高级时间状语提前\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]] · [[tillbringa]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Längst tid på akuten tillbringar kvinnor över 80 år. 🇨🇳 在急诊待得最久的是 80 岁以上的女性。 结构 (Structure) [Längst tid] [på akuten] [tillbringar] [kvinnor över 80 år] 最长时间 在急诊 花费 80 岁以上的女性 语法点 (Grammar) 📌 grammar komparativ — l",
+      "forms": [],
+      "links": [
+        "akut",
+        "grammar-komparativ",
+        "source-2026-06-17-listening-svt-latt",
+        "tillbringa",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Längst tid på akuten tillbringar kvinnor över 80 år. sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80 knowledge_base/sentences/sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80.md ---\ntype: sentence\nsentence: \"Längst tid på akuten tillbringar kvinnor över 80 år.\"\nzh: \"在急诊待得最久的是 80 岁以上的女性。\"\ncefr: B1\nwords:\n  - \"[[akut]]\"\n  - \"[[tillbringa]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-komparativ]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Längst tid på akuten tillbringar kvinnor över 80 år.\n\n🇨🇳 在急诊待得最久的是 80 岁以上的女性。\n\n## 结构 (Structure)\n\n```\n[Längst tid] [på akuten] [tillbringar] [kvinnor över 80 år]\n  最长时间      在急诊         花费              80 岁以上的女性\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *längst* 是 *lång* 的最高级\n- 📌 倒装强调：最高级时间状语提前\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]] · [[tillbringa]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "在急诊待得最久的是 80 岁以上的女性。",
+      "created": "2026-06-17",
+      "sentence": "Längst tid på akuten tillbringar kvinnor över 80 år.",
+      "words": [
+        "[[akut]]",
+        "[[tillbringa]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-komparativ]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "akut",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-ledare-fran-olika-lander-har-samlats",
+      "type": "sentence",
+      "title": "🇸🇪 Ledare från olika länder har samlats under två dagar för samtal.",
+      "path": "knowledge_base/sentences/sent-ledare-fran-olika-lander-har-samlats.md",
+      "body": "# 🇸🇪 Ledare från olika länder har samlats under två dagar för samtal.\n\n🇨🇳 各国领导人聚在一起会谈了两天。\n\n## 结构 (Structure)\n\n```\n[Ledare från olika länder] [har samlats] [under två dagar] [för samtal]\n      各国领导人                 聚集了           两天期间          为了会谈\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — *samlats*（-s 被动/反身，聚集）\n- 📌 [[grammar-perfekt]] — *har samlats* 现在完成时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Ledare från olika länder har samlats under två dagar för samtal. 🇨🇳 各国领导人聚在一起会谈了两天。 结构 (Structure) [Ledare från olika länder] [har samlats] [under två dagar] [för samtal] 各国领导人 聚集了 两天期间 为了会谈 语法点 (Grammar) 📌 gramm",
+      "forms": [],
+      "links": [
+        "grammar-passiv-med-s",
+        "grammar-perfekt",
+        "ledare",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 Ledare från olika länder har samlats under två dagar för samtal. sent-ledare-fran-olika-lander-har-samlats knowledge_base/sentences/sent-ledare-fran-olika-lander-har-samlats.md ---\ntype: sentence\nsentence: \"Ledare från olika länder har samlats under två dagar för samtal.\"\nzh: \"各国领导人聚在一起会谈了两天。\"\ncefr: B1\nwords:\n  - \"[[ledare]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-passiv-med-s]]\"\n  - \"[[grammar-perfekt]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ledare från olika länder har samlats under två dagar för samtal.\n\n🇨🇳 各国领导人聚在一起会谈了两天。\n\n## 结构 (Structure)\n\n```\n[Ledare från olika länder] [har samlats] [under två dagar] [för samtal]\n      各国领导人                 聚集了           两天期间          为了会谈\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — *samlats*（-s 被动/反身，聚集）\n- 📌 [[grammar-perfekt]] — *har samlats* 现在完成时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "各国领导人聚在一起会谈了两天。",
+      "created": "2026-06-17",
+      "sentence": "Ledare från olika länder har samlats under två dagar för samtal.",
+      "words": [
+        "[[ledare]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-passiv-med-s]]",
+        "[[grammar-perfekt]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-lisa-vi-är-så-glada-att",
       "type": "sentence",
       "title": "🇸🇪 Lisa, vi är så glada att fira med dig!",
@@ -14104,6 +15364,44 @@ window.KB_DATA = {
         "topic-vader-och-arstider"
       ],
       "backlinks": []
+    },
+    {
+      "slug": "sent-man-19-34-ar-ar-i-genomsnitt",
+      "type": "sentence",
+      "title": "🇸🇪 Män 19–34 år är i genomsnitt 18 minuter mindre på akuten än kvinnor i samma ålder.",
+      "path": "knowledge_base/sentences/sent-man-19-34-ar-ar-i-genomsnitt.md",
+      "body": "# 🇸🇪 Män 19–34 år är i genomsnitt 18 minuter mindre på akuten än kvinnor i samma ålder.\n\n🇨🇳 19 至 34 岁的男性平均待在急诊的时间，比同龄女性少 18 分钟。\n\n## 结构 (Structure)\n\n```\n[Män 19–34 år] [är] [i genomsnitt 18 minuter mindre på akuten] [än kvinnor i samma ålder]\n  19-34岁男性    是      平均在急诊少 18 分钟                         比同龄女性\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *mindre … än* = 比……少\n- 📌 [[i-genomsnitt]] 作状语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]]\n- 词组: [[i-genomsnitt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Män 19–34 år är i genomsnitt 18 minuter mindre på akuten än kvinnor i samma ålder. 🇨🇳 19 至 34 岁的男性平均待在急诊的时间，比同龄女性少 18 分钟。 结构 (Structure) [Män 19–34 år] [är] [i genomsnitt 18 minuter mindre på akuten] [än kvinnor i",
+      "forms": [],
+      "links": [
+        "akut",
+        "grammar-komparativ",
+        "i-genomsnitt",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Män 19–34 år är i genomsnitt 18 minuter mindre på akuten än kvinnor i samma ålder. sent-man-19-34-ar-ar-i-genomsnitt knowledge_base/sentences/sent-man-19-34-ar-ar-i-genomsnitt.md ---\ntype: sentence\nsentence: \"Män 19–34 år är i genomsnitt 18 minuter mindre på akuten än kvinnor i samma ålder.\"\nzh: \"19 至 34 岁的男性平均待在急诊的时间，比同龄女性少 18 分钟。\"\ncefr: B1\nwords:\n  - \"[[akut]]\"\nphrases:\n  - \"[[i-genomsnitt]]\"\ngrammar:\n  - \"[[grammar-komparativ]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Män 19–34 år är i genomsnitt 18 minuter mindre på akuten än kvinnor i samma ålder.\n\n🇨🇳 19 至 34 岁的男性平均待在急诊的时间，比同龄女性少 18 分钟。\n\n## 结构 (Structure)\n\n```\n[Män 19–34 år] [är] [i genomsnitt 18 minuter mindre på akuten] [än kvinnor i samma ålder]\n  19-34岁男性    是      平均在急诊少 18 分钟                         比同龄女性\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *mindre … än* = 比……少\n- 📌 [[i-genomsnitt]] 作状语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[akut]]\n- 词组: [[i-genomsnitt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "19 至 34 岁的男性平均待在急诊的时间，比同龄女性少 18 分钟。",
+      "created": "2026-06-17",
+      "sentence": "Män 19–34 år är i genomsnitt 18 minuter mindre på akuten än kvinnor i samma ålder.",
+      "words": [
+        "[[akut]]"
+      ],
+      "phrases": [
+        "[[i-genomsnitt]]"
+      ],
+      "grammar": [
+        "[[grammar-komparativ]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "akut",
+        "i-genomsnitt",
+        "source-2026-06-17-listening-svt-latt"
+      ]
     },
     {
       "slug": "sent-man-klar-pa-sig-tjocka-jackor",
@@ -14439,6 +15737,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-medan-region-jonkoping-hade-kortast-tid",
+      "type": "sentence",
+      "title": "🇸🇪 Medan Region Jönköping hade kortast tid, tre timmar och två minuter.",
+      "path": "knowledge_base/sentences/sent-medan-region-jonkoping-hade-kortast-tid.md",
+      "body": "# 🇸🇪 Medan Region Jönköping hade kortast tid, tre timmar och två minuter.\n\n🇨🇳 而延雪平大区（Region Jönköping）时间最短，为 3 小时 2 分钟。\n\n## 结构 (Structure)\n\n```\n[Medan] [Region Jönköping] [hade] [kortast tid], [tre timmar och två minuter]\n  而        延雪平大区          有       最短的时间        3 小时 2 分钟\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *kortast* 是 *kort* 的最高级\n- 📌 *medan* 连接对比从句（而 / 然而）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Medan Region Jönköping hade kortast tid, tre timmar och två minuter. 🇨🇳 而延雪平大区（Region Jönköping）时间最短，为 3 小时 2 分钟。 结构 (Structure) [Medan] [Region Jönköping] [hade] [kortast tid], [tre timmar och två minuter] 而 延雪平大",
+      "forms": [],
+      "links": [
+        "grammar-bisats-tidskonnektor",
+        "grammar-komparativ",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Medan Region Jönköping hade kortast tid, tre timmar och två minuter. sent-medan-region-jonkoping-hade-kortast-tid knowledge_base/sentences/sent-medan-region-jonkoping-hade-kortast-tid.md ---\ntype: sentence\nsentence: \"Medan Region Jönköping hade kortast tid, tre timmar och två minuter.\"\nzh: \"而延雪平大区（Region Jönköping）时间最短，为 3 小时 2 分钟。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar:\n  - \"[[grammar-komparativ]]\"\n  - \"[[grammar-bisats-tidskonnektor]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Medan Region Jönköping hade kortast tid, tre timmar och två minuter.\n\n🇨🇳 而延雪平大区（Region Jönköping）时间最短，为 3 小时 2 分钟。\n\n## 结构 (Structure)\n\n```\n[Medan] [Region Jönköping] [hade] [kortast tid], [tre timmar och två minuter]\n  而        延雪平大区          有       最短的时间        3 小时 2 分钟\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *kortast* 是 *kort* 的最高级\n- 📌 *medan* 连接对比从句（而 / 然而）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "而延雪平大区（Region Jönköping）时间最短，为 3 小时 2 分钟。",
+      "created": "2026-06-17",
+      "sentence": "Medan Region Jönköping hade kortast tid, tre timmar och två minuter.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-komparativ]]",
+        "[[grammar-bisats-tidskonnektor]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
       "type": "sentence",
       "title": "🇸🇈 Mellan torget och kaféet löper en bred trottoar där barn cyklar och hundar promenerar med sina ägare.",
@@ -14522,6 +15852,42 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-18-fraga-efter-vagen"
+      ]
+    },
+    {
+      "slug": "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
+      "type": "sentence",
+      "title": "🇸🇪 Men statistiken visar att det finns stora skillnader beroende var i landet man bor.",
+      "path": "knowledge_base/sentences/sent-men-statistiken-visar-att-det-finns-stora-skillnader.md",
+      "body": "# 🇸🇪 Men statistiken visar att det finns stora skillnader beroende var i landet man bor.\n\n🇨🇳 但统计显示存在很大的差异，取决于你住在全国哪个地方。\n\n## 结构 (Structure)\n\n```\n[Men] [statistiken] [visar] [att det finns stora skillnader] [beroende var i landet man bor]\n  但    统计数据        显示     存在很大差异                        取决于住在哪里\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *visar att…* 用 att 引导宾语从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[statistik]] · [[skillnad]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Men statistiken visar att det finns stora skillnader beroende var i landet man bor. 🇨🇳 但统计显示存在很大的差异，取决于你住在全国哪个地方。 结构 (Structure) [Men] [statistiken] [visar] [att det finns stora skillnader] [beroende var i landet ",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "skillnad",
+        "source-2026-06-17-listening-svt-latt",
+        "statistik",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 Men statistiken visar att det finns stora skillnader beroende var i landet man bor. sent-men-statistiken-visar-att-det-finns-stora-skillnader knowledge_base/sentences/sent-men-statistiken-visar-att-det-finns-stora-skillnader.md ---\ntype: sentence\nsentence: \"Men statistiken visar att det finns stora skillnader beroende var i landet man bor.\"\nzh: \"但统计显示存在很大的差异，取决于你住在全国哪个地方。\"\ncefr: A2\nwords:\n  - \"[[statistik]]\"\n  - \"[[skillnad]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-att-sats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Men statistiken visar att det finns stora skillnader beroende var i landet man bor.\n\n🇨🇳 但统计显示存在很大的差异，取决于你住在全国哪个地方。\n\n## 结构 (Structure)\n\n```\n[Men] [statistiken] [visar] [att det finns stora skillnader] [beroende var i landet man bor]\n  但    统计数据        显示     存在很大差异                        取决于住在哪里\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *visar att…* 用 att 引导宾语从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[statistik]] · [[skillnad]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "但统计显示存在很大的差异，取决于你住在全国哪个地方。",
+      "created": "2026-06-17",
+      "sentence": "Men statistiken visar att det finns stora skillnader beroende var i landet man bor.",
+      "words": [
+        "[[statistik]]",
+        "[[skillnad]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-att-sats]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "skillnad",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -15076,6 +16442,37 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-och-haller-korta-vantetider-i-jamforelse",
+      "type": "sentence",
+      "title": "🇸🇪 och håller korta väntetider i jämförelse med nationella tal.",
+      "path": "knowledge_base/sentences/sent-och-haller-korta-vantetider-i-jamforelse.md",
+      "body": "# 🇸🇪 och håller korta väntetider i jämförelse med nationella tal.\n\n🇨🇳 与全国数字相比，我们把等待时间控制得很短。\n\n## 结构 (Structure)\n\n```\n[och håller] [korta väntetider] [i jämförelse med nationella tal]\n  并保持           短暂的等待时间        与全国数字相比\n```\n\n## 语法点 (Grammar)\n\n- 📌 *i jämförelse med* = 与……相比（对比状语短语）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[väntetid]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 och håller korta väntetider i jämförelse med nationella tal. 🇨🇳 与全国数字相比，我们把等待时间控制得很短。 结构 (Structure) [och håller] [korta väntetider] [i jämförelse med nationella tal] 并保持 短暂的等待时间 与全国数字相比 语法点 (Grammar) 📌 i jämföre",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa",
+        "väntetid"
+      ],
+      "searchText": "🇸🇪 och håller korta väntetider i jämförelse med nationella tal. sent-och-haller-korta-vantetider-i-jamforelse knowledge_base/sentences/sent-och-haller-korta-vantetider-i-jamforelse.md ---\ntype: sentence\nsentence: \"och håller korta väntetider i jämförelse med nationella tal.\"\nzh: \"与全国数字相比，我们把等待时间控制得很短。\"\ncefr: B1\nwords:\n  - \"[[väntetid]]\"\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 och håller korta väntetider i jämförelse med nationella tal.\n\n🇨🇳 与全国数字相比，我们把等待时间控制得很短。\n\n## 结构 (Structure)\n\n```\n[och håller] [korta väntetider] [i jämförelse med nationella tal]\n  并保持           短暂的等待时间        与全国数字相比\n```\n\n## 语法点 (Grammar)\n\n- 📌 *i jämförelse med* = 与……相比（对比状语短语）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[väntetid]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "与全国数字相比，我们把等待时间控制得很短。",
+      "created": "2026-06-17",
+      "sentence": "och håller korta väntetider i jämförelse med nationella tal.",
+      "words": [
+        "[[väntetid]]"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt",
+        "väntetid"
+      ]
+    },
+    {
       "slug": "sent-och-jag-är-jätteglad-att-ni",
       "type": "sentence",
       "title": "🇸🇪 Och jag är jätteglad att ni alla är här!",
@@ -15607,6 +17004,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-pa-tre-manader-har-just-dessa-vattenbufflar",
+      "type": "sentence",
+      "title": "🇸🇪 På tre månader har just dessa vattenbufflar i Skåne gjort mer för naturen än vad vanliga kor klarat på 30 år.",
+      "path": "knowledge_base/sentences/sent-pa-tre-manader-har-just-dessa-vattenbufflar.md",
+      "body": "# 🇸🇪 På tre månader har just dessa vattenbufflar i Skåne gjort mer för naturen än vad vanliga kor klarat på 30 år.\n\n🇨🇳 在三个月里，斯科讷的这些水牛所做的，比普通奶牛 30 年里为自然做的还要多。\n\n## 结构 (Structure)\n\n```\n[På tre månader] [har…gjort mer] [för naturen] [än vad vanliga kor klarat på 30 år]\n   三个月内          做得更多          为了自然         比普通奶牛 30 年做的还多\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *mer … än* 比较级\n- 📌 [[grammar-perfekt]] — *har gjort*，*klarat* 现在完成时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 På tre månader har just dessa vattenbufflar i Skåne gjort mer för naturen än vad vanliga kor klarat på 30 år. 🇨🇳 在三个月里，斯科讷的这些水牛所做的，比普通奶牛 30 年里为自然做的还要多。 结构 (Structure) [På tre månader] [har…gjort mer] [för naturen]",
+      "forms": [],
+      "links": [
+        "grammar-komparativ",
+        "grammar-perfekt",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-djur"
+      ],
+      "searchText": "🇸🇪 På tre månader har just dessa vattenbufflar i Skåne gjort mer för naturen än vad vanliga kor klarat på 30 år. sent-pa-tre-manader-har-just-dessa-vattenbufflar knowledge_base/sentences/sent-pa-tre-manader-har-just-dessa-vattenbufflar.md ---\ntype: sentence\nsentence: \"På tre månader har just dessa vattenbufflar i Skåne gjort mer för naturen än vad vanliga kor klarat på 30 år.\"\nzh: \"在三个月里，斯科讷的这些水牛所做的，比普通奶牛 30 年里为自然做的还要多。\"\ncefr: B1\nwords: []\nphrases: []\ngrammar:\n  - \"[[grammar-komparativ]]\"\n  - \"[[grammar-perfekt]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-djur]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 På tre månader har just dessa vattenbufflar i Skåne gjort mer för naturen än vad vanliga kor klarat på 30 år.\n\n🇨🇳 在三个月里，斯科讷的这些水牛所做的，比普通奶牛 30 年里为自然做的还要多。\n\n## 结构 (Structure)\n\n```\n[På tre månader] [har…gjort mer] [för naturen] [än vad vanliga kor klarat på 30 år]\n   三个月内          做得更多          为了自然         比普通奶牛 30 年做的还多\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *mer … än* 比较级\n- 📌 [[grammar-perfekt]] — *har gjort*，*klarat* 现在完成时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "在三个月里，斯科讷的这些水牛所做的，比普通奶牛 30 年里为自然做的还要多。",
+      "created": "2026-06-17",
+      "sentence": "På tre månader har just dessa vattenbufflar i Skåne gjort mer för naturen än vad vanliga kor klarat på 30 år.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-komparativ]]",
+        "[[grammar-perfekt]]"
+      ],
+      "topics": [
+        "[[topic-djur]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-pa-vintern-ar-det-morkt-och-kallt",
       "type": "sentence",
       "title": "På vintern är det mörkt och kallt.",
@@ -15722,6 +17151,47 @@ window.KB_DATA = {
         "grammar-preteritum",
         "grammar-v2-ordfoljd",
         "source-2026-06-09-en-handelse-i-tidsordning"
+      ]
+    },
+    {
+      "slug": "sent-politik-nu-en-stor-del-av-valjarna",
+      "type": "sentence",
+      "title": "🇸🇪 Politik nu. En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september.",
+      "path": "knowledge_base/sentences/sent-politik-nu-en-stor-del-av-valjarna.md",
+      "body": "# 🇸🇪 Politik nu. En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september.\n\n🇨🇳 现在说政治。很大一部分选民预计，政府将在九月大选后失去执政权。\n\n## 结构 (Structure)\n\n```\n[En stor del av väljarna] [räknar med] [att regeringen förlorar makten] [efter valet i september]\n   很大一部分选民              预计              政府将失去政权                    在九月大选之后\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *räknar med att…* 宾语从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[väljare]] · [[regering]] · [[val]]\n- 词组: [[förlora-makten]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Politik nu. En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september. 🇨🇳 现在说政治。很大一部分选民预计，政府将在九月大选后失去执政权。 结构 (Structure) [En stor del av väljarna] [räknar med] [att regeringen förlo",
+      "forms": [],
+      "links": [
+        "förlora-makten",
+        "grammar-att-sats",
+        "regering",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik",
+        "val",
+        "väljare"
+      ],
+      "searchText": "🇸🇪 Politik nu. En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september. sent-politik-nu-en-stor-del-av-valjarna knowledge_base/sentences/sent-politik-nu-en-stor-del-av-valjarna.md ---\ntype: sentence\nsentence: \"Politik nu. En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september.\"\nzh: \"现在说政治。很大一部分选民预计，政府将在九月大选后失去执政权。\"\ncefr: B1\nwords:\n  - \"[[väljare]]\"\n  - \"[[regering]]\"\n  - \"[[val]]\"\nphrases:\n  - \"[[förlora-makten]]\"\ngrammar:\n  - \"[[grammar-att-sats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Politik nu. En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september.\n\n🇨🇳 现在说政治。很大一部分选民预计，政府将在九月大选后失去执政权。\n\n## 结构 (Structure)\n\n```\n[En stor del av väljarna] [räknar med] [att regeringen förlorar makten] [efter valet i september]\n   很大一部分选民              预计              政府将失去政权                    在九月大选之后\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *räknar med att…* 宾语从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[väljare]] · [[regering]] · [[val]]\n- 词组: [[förlora-makten]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "现在说政治。很大一部分选民预计，政府将在九月大选后失去执政权。",
+      "created": "2026-06-17",
+      "sentence": "Politik nu. En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september.",
+      "words": [
+        "[[väljare]]",
+        "[[regering]]",
+        "[[val]]"
+      ],
+      "phrases": [
+        "[[förlora-makten]]"
+      ],
+      "grammar": [
+        "[[grammar-att-sats]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt",
+        "väljare"
       ]
     },
     {
@@ -15848,6 +17318,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-sa-vadret-solen-kan-visa-sig-pa-flera",
+      "type": "sentence",
+      "title": "🇸🇪 Så vädret: Solen kan visa sig på flera ställen imorgon, speciellt längst i norr.",
+      "path": "knowledge_base/sentences/sent-sa-vadret-solen-kan-visa-sig-pa-flera.md",
+      "body": "# 🇸🇪 Så vädret: Solen kan visa sig på flera ställen imorgon, speciellt längst i norr.\n\n🇨🇳 再看天气：明天多地可能见到太阳，尤其是最北部。\n\n## 结构 (Structure)\n\n```\n[Så vädret:] [Solen] [kan visa sig] [på flera ställen] [imorgon], [speciellt längst i norr]\n   再说天气      太阳     可能出现         在多个地方            明天        尤其是最北部\n```\n\n## 语法点 (Grammar)\n\n- 📌 *visa sig* = 出现；露面（反身动词用法）\n- 📌 *längst i norr* = 最北部（最高级 + 介词）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Så vädret: Solen kan visa sig på flera ställen imorgon, speciellt längst i norr. 🇨🇳 再看天气：明天多地可能见到太阳，尤其是最北部。 结构 (Structure) [Så vädret:] [Solen] [kan visa sig] [på flera ställen] [imorgon], [speciellt längst i norr",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "🇸🇪 Så vädret: Solen kan visa sig på flera ställen imorgon, speciellt längst i norr. sent-sa-vadret-solen-kan-visa-sig-pa-flera knowledge_base/sentences/sent-sa-vadret-solen-kan-visa-sig-pa-flera.md ---\ntype: sentence\nsentence: \"Så vädret: Solen kan visa sig på flera ställen imorgon, speciellt längst i norr.\"\nzh: \"再看天气：明天多地可能见到太阳，尤其是最北部。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-vader-och-arstider]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Så vädret: Solen kan visa sig på flera ställen imorgon, speciellt längst i norr.\n\n🇨🇳 再看天气：明天多地可能见到太阳，尤其是最北部。\n\n## 结构 (Structure)\n\n```\n[Så vädret:] [Solen] [kan visa sig] [på flera ställen] [imorgon], [speciellt längst i norr]\n   再说天气      太阳     可能出现         在多个地方            明天        尤其是最北部\n```\n\n## 语法点 (Grammar)\n\n- 📌 *visa sig* = 出现；露面（反身动词用法）\n- 📌 *längst i norr* = 最北部（最高级 + 介词）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "再看天气：明天多地可能见到太阳，尤其是最北部。",
+      "created": "2026-06-17",
+      "sentence": "Så vädret: Solen kan visa sig på flera ställen imorgon, speciellt längst i norr.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-vader-och-arstider]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-sangens-star-langs-vaggen-under-sangen",
       "type": "sentence",
       "title": "🇸🇪 Sängen står längs väggen, och under sängen ligger ett par skor.",
@@ -15899,6 +17396,30 @@ window.KB_DATA = {
         "grammar-prepositioner-rum",
         "längs-väggen",
         "source-2026-06-09-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "sent-sarskilt-galler-det-sodra-sverige",
+      "type": "sentence",
+      "title": "🇸🇪 Särskilt gäller det södra Sverige.",
+      "path": "knowledge_base/sentences/sent-sarskilt-galler-det-sodra-sverige.md",
+      "body": "# 🇸🇪 Särskilt gäller det södra Sverige.\n\n🇨🇳 尤其是瑞典南部。\n\n## 结构 (Structure)\n\n```\n[Särskilt] [gäller det] [södra Sverige]\n   尤其是      适用于         瑞典南部\n```\n\n## 语法点 (Grammar)\n\n- 📌 *gälla* = 适用于；涉及（*detta gäller X* = 这适用于 X）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Särskilt gäller det södra Sverige. 🇨🇳 尤其是瑞典南部。 结构 (Structure) [Särskilt] [gäller det] [södra Sverige] 尤其是 适用于 瑞典南部 语法点 (Grammar) 📌 gälla = 适用于；涉及（ detta gäller X = 这适用于 X） 生词 & 词组 (Words & Phrases) 词: — 来源 (Sourc",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Särskilt gäller det södra Sverige. sent-sarskilt-galler-det-sodra-sverige knowledge_base/sentences/sent-sarskilt-galler-det-sodra-sverige.md ---\ntype: sentence\nsentence: \"Särskilt gäller det södra Sverige.\"\nzh: \"尤其是瑞典南部。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics: []\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Särskilt gäller det södra Sverige.\n\n🇨🇳 尤其是瑞典南部。\n\n## 结构 (Structure)\n\n```\n[Särskilt] [gäller det] [södra Sverige]\n   尤其是      适用于         瑞典南部\n```\n\n## 语法点 (Grammar)\n\n- 📌 *gälla* = 适用于；涉及（*detta gäller X* = 这适用于 X）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "尤其是瑞典南部。",
+      "created": "2026-06-17",
+      "sentence": "Särskilt gäller det södra Sverige.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -16359,6 +17880,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
+      "type": "sentence",
+      "title": "🇸🇪 Socialstyrelsens statistik visar att kvinnor väntar längre tid än män.",
+      "path": "knowledge_base/sentences/sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta.md",
+      "body": "# 🇸🇪 Socialstyrelsens statistik visar att kvinnor väntar längre tid än män.\n\n🇨🇳 国家卫生与福利署的统计显示，女性等待的时间比男性长。\n\n## 结构 (Structure)\n\n```\n[Socialstyrelsens statistik] [visar] [att kvinnor väntar längre tid än män]\n     社会局的统计数据             显示       女性等待时间比男性长\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *längre* 是 *lång* 的比较级\n- 📌 [[grammar-att-sats]] — *visar att…* 宾语从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[statistik]] · [[vänta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Socialstyrelsens statistik visar att kvinnor väntar längre tid än män. 🇨🇳 国家卫生与福利署的统计显示，女性等待的时间比男性长。 结构 (Structure) [Socialstyrelsens statistik] [visar] [att kvinnor väntar längre tid än män] 社会局的统计数据 显示 女性等待时间比男性",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "grammar-komparativ",
+        "source-2026-06-17-listening-svt-latt",
+        "statistik",
+        "topic-hälsa",
+        "vänta"
+      ],
+      "searchText": "🇸🇪 Socialstyrelsens statistik visar att kvinnor väntar längre tid än män. sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta knowledge_base/sentences/sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta.md ---\ntype: sentence\nsentence: \"Socialstyrelsens statistik visar att kvinnor väntar längre tid än män.\"\nzh: \"国家卫生与福利署的统计显示，女性等待的时间比男性长。\"\ncefr: A2\nwords:\n  - \"[[statistik]]\"\n  - \"[[vänta]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-komparativ]]\"\n  - \"[[grammar-att-sats]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Socialstyrelsens statistik visar att kvinnor väntar längre tid än män.\n\n🇨🇳 国家卫生与福利署的统计显示，女性等待的时间比男性长。\n\n## 结构 (Structure)\n\n```\n[Socialstyrelsens statistik] [visar] [att kvinnor väntar längre tid än män]\n     社会局的统计数据             显示       女性等待时间比男性长\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *längre* 是 *lång* 的比较级\n- 📌 [[grammar-att-sats]] — *visar att…* 宾语从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[statistik]] · [[vänta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "国家卫生与福利署的统计显示，女性等待的时间比男性长。",
+      "created": "2026-06-17",
+      "sentence": "Socialstyrelsens statistik visar att kvinnor väntar längre tid än män.",
+      "words": [
+        "[[statistik]]",
+        "[[vänta]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-komparativ]]",
+        "[[grammar-att-sats]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt",
+        "statistik"
+      ]
+    },
+    {
       "slug": "sent-soffan-star-mitt-i-rummet-framfor-soffbord",
       "type": "sentence",
       "title": "🇸🇈 Soffan står mitt i rummet, framför ett litet soffbord.",
@@ -16473,6 +18032,33 @@ window.KB_DATA = {
       "backlinks": [
         "intensiv",
         "sommar"
+      ]
+    },
+    {
+      "slug": "sent-speciellt-langst-i-norr",
+      "type": "sentence",
+      "title": "🇸🇪 speciellt längst i norr.",
+      "path": "knowledge_base/sentences/sent-speciellt-langst-i-norr.md",
+      "body": "# 🇸🇪 speciellt längst i norr.\n\n🇨🇳 尤其是最北部。\n\n## 结构 (Structure)\n\n```\n[speciellt] [längst i norr]\n    尤其是      最北部\n```\n\n## 语法点 (Grammar)\n\n- 📌 *längst i norr* — *längst*（最高级）作副词：最远处在北方 = 最北部\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 speciellt längst i norr. 🇨🇳 尤其是最北部。 结构 (Structure) [speciellt] [längst i norr] 尤其是 最北部 语法点 (Grammar) 📌 längst i norr — längst （最高级）作副词：最远处在北方 = 最北部 生词 & 词组 (Words & Phrases) 词: — 来源 (Source) source 2026 06 17 lis",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "🇸🇪 speciellt längst i norr. sent-speciellt-langst-i-norr knowledge_base/sentences/sent-speciellt-langst-i-norr.md ---\ntype: sentence\nsentence: \"speciellt längst i norr.\"\nzh: \"尤其是最北部。\"\ncefr: A1\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-vader-och-arstider]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 speciellt längst i norr.\n\n🇨🇳 尤其是最北部。\n\n## 结构 (Structure)\n\n```\n[speciellt] [längst i norr]\n    尤其是      最北部\n```\n\n## 语法点 (Grammar)\n\n- 📌 *längst i norr* — *längst*（最高级）作副词：最远处在北方 = 最北部\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "尤其是最北部。",
+      "created": "2026-06-17",
+      "sentence": "speciellt längst i norr.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-vader-och-arstider]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -16738,6 +18324,100 @@ window.KB_DATA = {
         "mitt-emot-soffan",
         "på-väggen",
         "source-2026-06-09-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "sent-till-ett-snitt-pa-fyra-timmar",
+      "type": "sentence",
+      "title": "🇸🇪 till ett snitt på fyra timmar och 16 minuter.",
+      "path": "knowledge_base/sentences/sent-till-ett-snitt-pa-fyra-timmar.md",
+      "body": "# 🇸🇪 till ett snitt på fyra timmar och 16 minuter.\n\n🇨🇳 平均达到 4 小时 16 分钟。\n\n## 结构 (Structure)\n\n```\n[till] [ett snitt på] [fyra timmar och 16 minuter]\n  到      平均达到          4 小时 16 分钟\n```\n\n## 语法点 (Grammar)\n\n- 📌 *ett snitt på* = 平均为（*snitt* 口语/正式，同 *genomsnitt*）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[i-genomsnitt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 till ett snitt på fyra timmar och 16 minuter. 🇨🇳 平均达到 4 小时 16 分钟。 结构 (Structure) [till] [ett snitt på] [fyra timmar och 16 minuter] 到 平均达到 4 小时 16 分钟 语法点 (Grammar) 📌 ett snitt på = 平均为（ snitt 口语/正式，同 genomsnitt ）",
+      "forms": [],
+      "links": [
+        "i-genomsnitt",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-hälsa"
+      ],
+      "searchText": "🇸🇪 till ett snitt på fyra timmar och 16 minuter. sent-till-ett-snitt-pa-fyra-timmar knowledge_base/sentences/sent-till-ett-snitt-pa-fyra-timmar.md ---\ntype: sentence\nsentence: \"till ett snitt på fyra timmar och 16 minuter.\"\nzh: \"平均达到 4 小时 16 分钟。\"\ncefr: A2\nwords: []\nphrases:\n  - \"[[i-genomsnitt]]\"\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-hälsa]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 till ett snitt på fyra timmar och 16 minuter.\n\n🇨🇳 平均达到 4 小时 16 分钟。\n\n## 结构 (Structure)\n\n```\n[till] [ett snitt på] [fyra timmar och 16 minuter]\n  到      平均达到          4 小时 16 分钟\n```\n\n## 语法点 (Grammar)\n\n- 📌 *ett snitt på* = 平均为（*snitt* 口语/正式，同 *genomsnitt*）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[i-genomsnitt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "平均达到 4 小时 16 分钟。",
+      "created": "2026-06-17",
+      "sentence": "till ett snitt på fyra timmar och 16 minuter.",
+      "words": [],
+      "phrases": [
+        "[[i-genomsnitt]]"
+      ],
+      "grammar": [],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-till-evian-i-frankrike-nu",
+      "type": "sentence",
+      "title": "🇸🇪 Till Evian i Frankrike nu. Där slutade idag G7-mötet.",
+      "path": "knowledge_base/sentences/sent-till-evian-i-frankrike-nu.md",
+      "body": "# 🇸🇪 Till Evian i Frankrike nu. Där slutade idag G7-mötet.\n\n🇨🇳 现在转到法国埃维昂。七国集团（G7）峰会今天在那里结束。\n\n## 结构 (Structure)\n\n```\n[Till Evian i Frankrike nu.] [Där] [slutade] [idag] [G7-mötet]\n   现在转到法国埃维昂              那里    结束了      今天     G7峰会\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *slutade*（结束了）\n- 📌 新闻叙述风格：地点短语作引导\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Till Evian i Frankrike nu. Där slutade idag G7 mötet. 🇨🇳 现在转到法国埃维昂。七国集团（G7）峰会今天在那里结束。 结构 (Structure) [Till Evian i Frankrike nu.] [Där] [slutade] [idag] [G7 mötet] 现在转到法国埃维昂 那里 结束了 今天 G7峰会 语法点 (Grammar) 📌 grammar",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "ledare",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 Till Evian i Frankrike nu. Där slutade idag G7-mötet. sent-till-evian-i-frankrike-nu knowledge_base/sentences/sent-till-evian-i-frankrike-nu.md ---\ntype: sentence\nsentence: \"Till Evian i Frankrike nu. Där slutade idag G7-mötet.\"\nzh: \"现在转到法国埃维昂。七国集团（G7）峰会今天在那里结束。\"\ncefr: A2\nwords:\n  - \"[[ledare]]\"\nphrases: []\ngrammar:\n  - \"[[grammar-preteritum]]\"\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Till Evian i Frankrike nu. Där slutade idag G7-mötet.\n\n🇨🇳 现在转到法国埃维昂。七国集团（G7）峰会今天在那里结束。\n\n## 结构 (Structure)\n\n```\n[Till Evian i Frankrike nu.] [Där] [slutade] [idag] [G7-mötet]\n   现在转到法国埃维昂              那里    结束了      今天     G7峰会\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *slutade*（结束了）\n- 📌 新闻叙述风格：地点短语作引导\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "现在转到法国埃维昂。七国集团（G7）峰会今天在那里结束。",
+      "created": "2026-06-17",
+      "sentence": "Till Evian i Frankrike nu. Där slutade idag G7-mötet.",
+      "words": [
+        "[[ledare]]"
+      ],
+      "phrases": [],
+      "grammar": [
+        "[[grammar-preteritum]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-till-fyra-ars-fangelse-for-flera-brott",
+      "type": "sentence",
+      "title": "🇸🇪 till fyra års fängelse för flera brott.",
+      "path": "knowledge_base/sentences/sent-till-fyra-ars-fangelse-for-flera-brott.md",
+      "body": "# 🇸🇪 till fyra års fängelse för flera brott.\n\n🇨🇳 因多项罪行获刑四年。\n\n## 结构 (Structure)\n\n```\n[till] [fyra års fängelse] [för flera brott]\n  到      四年监禁              因多项罪行\n```\n\n## 语法点 (Grammar)\n\n- 📌 *till X års fängelse* — 量刑表达：判处 X 年监禁（句式固定）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fängelse]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 till fyra års fängelse för flera brott. 🇨🇳 因多项罪行获刑四年。 结构 (Structure) [till] [fyra års fängelse] [för flera brott] 到 四年监禁 因多项罪行 语法点 (Grammar) 📌 till X års fängelse — 量刑表达：判处 X 年监禁（句式固定） 生词 & 词组 (Words & Phrases) 词",
+      "forms": [],
+      "links": [
+        "fängelse",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 till fyra års fängelse för flera brott. sent-till-fyra-ars-fangelse-for-flera-brott knowledge_base/sentences/sent-till-fyra-ars-fangelse-for-flera-brott.md ---\ntype: sentence\nsentence: \"till fyra års fängelse för flera brott.\"\nzh: \"因多项罪行获刑四年。\"\ncefr: B1\nwords:\n  - \"[[fängelse]]\"\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 till fyra års fängelse för flera brott.\n\n🇨🇳 因多项罪行获刑四年。\n\n## 结构 (Structure)\n\n```\n[till] [fyra års fängelse] [för flera brott]\n  到      四年监禁              因多项罪行\n```\n\n## 语法点 (Grammar)\n\n- 📌 *till X års fängelse* — 量刑表达：判处 X 年监禁（句式固定）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fängelse]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "因多项罪行获刑四年。",
+      "created": "2026-06-17",
+      "sentence": "till fyra års fängelse för flera brott.",
+      "words": [
+        "[[fängelse]]"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "fängelse",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -17221,6 +18901,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-valkomna-till-nyheter-pa-latt-svenska",
+      "type": "sentence",
+      "title": "🇸🇪 Välkomna till Nyheter på lätt svenska!",
+      "path": "knowledge_base/sentences/sent-valkomna-till-nyheter-pa-latt-svenska.md",
+      "body": "# 🇸🇪 Välkomna till Nyheter på lätt svenska!\n\n🇨🇳 欢迎收看《简易瑞典语新闻》！\n\n## 结构 (Structure)\n\n```\n[Välkomna] [till] [Nyheter på lätt svenska]!\n  欢迎         到      简易瑞典语新闻\n```\n\n## 语法点 (Grammar)\n\n- 📌 *Välkomna* = 复数欢迎词，对多人说；单数为 *Välkommen*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Välkomna till Nyheter på lätt svenska! 🇨🇳 欢迎收看《简易瑞典语新闻》！ 结构 (Structure) [Välkomna] [till] [Nyheter på lätt svenska]! 欢迎 到 简易瑞典语新闻 语法点 (Grammar) 📌 Välkomna = 复数欢迎词，对多人说；单数为 Välkommen 生词 & 词组 (Words & Phrases) 词: —",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "🇸🇪 Välkomna till Nyheter på lätt svenska! sent-valkomna-till-nyheter-pa-latt-svenska knowledge_base/sentences/sent-valkomna-till-nyheter-pa-latt-svenska.md ---\ntype: sentence\nsentence: \"Välkomna till Nyheter på lätt svenska!\"\nzh: \"欢迎收看《简易瑞典语新闻》！\"\ncefr: A1\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Välkomna till Nyheter på lätt svenska!\n\n🇨🇳 欢迎收看《简易瑞典语新闻》！\n\n## 结构 (Structure)\n\n```\n[Välkomna] [till] [Nyheter på lätt svenska]!\n  欢迎         到      简易瑞典语新闻\n```\n\n## 语法点 (Grammar)\n\n- 📌 *Välkomna* = 复数欢迎词，对多人说；单数为 *Välkommen*\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "欢迎收看《简易瑞典语新闻》！",
+      "created": "2026-06-17",
+      "sentence": "Välkomna till Nyheter på lätt svenska!",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-var-ar-ni-egentligen-ikvallt",
       "type": "sentence",
       "title": "🇸🇪 Var är ni egentligen ikväll?",
@@ -17416,6 +19123,63 @@ window.KB_DATA = {
       "backlinks": [
         "hoppas-du-hittar-det",
         "source-2026-06-18-fraga-efter-vagen"
+      ]
+    },
+    {
+      "slug": "sent-vattenbufflar-gor-ett-jattebra-jobb",
+      "type": "sentence",
+      "title": "🇸🇪 Vattenbufflar gör ett jättebra jobb i naturen.",
+      "path": "knowledge_base/sentences/sent-vattenbufflar-gor-ett-jattebra-jobb.md",
+      "body": "# 🇸🇪 Vattenbufflar gör ett jättebra jobb i naturen.\n\n🇨🇳 水牛在大自然里干得非常出色。\n\n## 结构 (Structure)\n\n```\n[Vattenbufflar] [gör] [ett jättebra jobb] [i naturen]\n     水牛           做      非常出色的工作       在大自然里\n```\n\n## 语法点 (Grammar)\n\n- 📌 *göra ett bra jobb* — 做得好（固定搭配）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Vattenbufflar gör ett jättebra jobb i naturen. 🇨🇳 水牛在大自然里干得非常出色。 结构 (Structure) [Vattenbufflar] [gör] [ett jättebra jobb] [i naturen] 水牛 做 非常出色的工作 在大自然里 语法点 (Grammar) 📌 göra ett bra jobb — 做得好（固定搭配） 生词 & 词组 (Word",
+      "forms": [],
+      "links": [
+        "source-2026-06-17-listening-svt-latt",
+        "topic-djur"
+      ],
+      "searchText": "🇸🇪 Vattenbufflar gör ett jättebra jobb i naturen. sent-vattenbufflar-gor-ett-jattebra-jobb knowledge_base/sentences/sent-vattenbufflar-gor-ett-jattebra-jobb.md ---\ntype: sentence\nsentence: \"Vattenbufflar gör ett jättebra jobb i naturen.\"\nzh: \"水牛在大自然里干得非常出色。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-djur]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vattenbufflar gör ett jättebra jobb i naturen.\n\n🇨🇳 水牛在大自然里干得非常出色。\n\n## 结构 (Structure)\n\n```\n[Vattenbufflar] [gör] [ett jättebra jobb] [i naturen]\n     水牛           做      非常出色的工作       在大自然里\n```\n\n## 语法点 (Grammar)\n\n- 📌 *göra ett bra jobb* — 做得好（固定搭配）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: —\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "水牛在大自然里干得非常出色。",
+      "created": "2026-06-17",
+      "sentence": "Vattenbufflar gör ett jättebra jobb i naturen.",
+      "words": [],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-djur]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-vattenbufflarna-ar-ocksa-bra-for-insekter",
+      "type": "sentence",
+      "title": "🇸🇪 Vattenbufflarna är också bra för insekter och fåglar.",
+      "path": "knowledge_base/sentences/sent-vattenbufflarna-ar-ocksa-bra-for-insekter.md",
+      "body": "# 🇸🇪 Vattenbufflarna är också bra för insekter och fåglar.\n\n🇨🇳 这些水牛对昆虫和鸟类也有好处。\n\n## 结构 (Structure)\n\n```\n[Vattenbufflarna] [är också bra] [för insekter och fåglar]\n    这些水牛           对……也有好处       昆虫和鸟类\n```\n\n## 语法点 (Grammar)\n\n- 📌 *bra för* = 对……有好处（固定搭配）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fågel]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Vattenbufflarna är också bra för insekter och fåglar. 🇨🇳 这些水牛对昆虫和鸟类也有好处。 结构 (Structure) [Vattenbufflarna] [är också bra] [för insekter och fåglar] 这些水牛 对……也有好处 昆虫和鸟类 语法点 (Grammar) 📌 bra för = 对……有好处（固定搭配） 生词 & 词组",
+      "forms": [],
+      "links": [
+        "fågel",
+        "source-2026-06-17-listening-svt-latt",
+        "topic-djur"
+      ],
+      "searchText": "🇸🇪 Vattenbufflarna är också bra för insekter och fåglar. sent-vattenbufflarna-ar-ocksa-bra-for-insekter knowledge_base/sentences/sent-vattenbufflarna-ar-ocksa-bra-for-insekter.md ---\ntype: sentence\nsentence: \"Vattenbufflarna är också bra för insekter och fåglar.\"\nzh: \"这些水牛对昆虫和鸟类也有好处。\"\ncefr: A1\nwords:\n  - \"[[fågel]]\"\nphrases: []\ngrammar: []\nsource: \"source-2026-06-17-listening-svt-latt\"\ntopics:\n  - \"[[topic-djur]]\"\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vattenbufflarna är också bra för insekter och fåglar.\n\n🇨🇳 这些水牛对昆虫和鸟类也有好处。\n\n## 结构 (Structure)\n\n```\n[Vattenbufflarna] [är också bra] [för insekter och fåglar]\n    这些水牛           对……也有好处       昆虫和鸟类\n```\n\n## 语法点 (Grammar)\n\n- 📌 *bra för* = 对……有好处（固定搭配）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fågel]]\n\n## 来源 (Source)\n\n- [[source-2026-06-17-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "这些水牛对昆虫和鸟类也有好处。",
+      "created": "2026-06-17",
+      "sentence": "Vattenbufflarna är också bra för insekter och fåglar.",
+      "words": [
+        "[[fågel]]"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "[[topic-djur]]"
+      ],
+      "backlinks": [
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -21252,6 +23016,225 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-17-listening-svt-latt",
+      "type": "source",
+      "title": "SVT Nyheter på lätt svenska 2026-06-17",
+      "path": "knowledge_base/sources/source-2026-06-17-listening-svt-latt.md",
+      "body": "# 📄 SVT Nyheter på lätt svenska 2026-06-17\n\n类型: listening · 难度: A2–B1\n\n## 原文 (Source Text)\n\n```\nVälkomna till Nyheter på lätt svenska!\nKvinnor får vänta längre än män när de söker hjälp på akuten.\nDet visar ny statistik från Socialstyrelsen.\nDessutom är det stor skillnad på hur länge man får vänta i olika delar av landet.\nFörra året ökade besöken till akuten med 3 %.\nDen totala tiden personer är på akuten ökade också till ett snitt på fyra timmar och 16 minuter.\nMen statistiken visar att det finns stora skillnader beroende var i landet man bor.\nLängst tid på akuten hade patienter i Region Skåne. I genomsnitt fyra timmar och 57 minuter.\nMedan Region Jönköping hade kortast tid, tre timmar och två minuter.\nDet är glädjande att vi lyckas med patientsäkerhetsarbetet och håller korta väntetider i jämförelse med nationella tal.\nSocialstyrelsens statistik visar att kvinnor vänta längre tid än män.\nMän 19–34 år är i genomsnitt 18 minuter mindre på akuten än kvinnor i samma ålder.\nLängst tid på akuten tillbringar kvinnor över 80 år.\nDet är bekymmersamt, men vi vet inte vad det beror på.\nÄr det olika orsaker, behov eller kön?\nDet är viktigt att titta vidare på.\nPolitik nu. En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september.\nDet visar en ny undersökning, av Indikator Opinion.\n55 % tror att oppositionen får flest röster.\nIdag kom besked från Riksbanken om räntan.\nDet blir ingen höjning nu, men räntan kan komma att höjas senare i år.\nI Norge har kronprinsessan Mette-Marit fått nya lungor.\nAllt har hittills gått bra, men hon blir kvar på sjukhus i flera veckor.\nDet har varit oroligt kring Norges kungahus den senaste tiden.\nI måndags dömdes Mette-Marits son Marius Borg Høiby till fyra års fängelse för flera brott.\nTill Evian i Frankrike nu. Där slutade idag G7-mötet.\nLedare från olika länder har samlats under två dagar för samtal.\nBland annat har Ukrainas president Zelenskyj haft möte med USA:s president Donald Trump.\nDet finns risk att över 10 000 hus hamnar under vatten i framtiden.\nSärskilt gäller det södra Sverige.\nDetta beror på att nivån på världens hav stiger.\nDet beror på att planeten blir allt varmare.\nVattenbufflar gör ett jättebra jobb i naturen.\nDe tar bort växter som hotar andra arter.\nVattenbufflarna är också bra för insekter och fåglar.\nPå tre månader har just dessa vattenbufflar i Skåne gjort mer för naturen än vad vanliga kor klarat på 30 år.\nSå vädret: Solen kan visa sig på flera imorgon speciellt längst i norr.\nDelar av södra Norrland får regn.\nDet kan också bli regn på andra platser i landet.\nHär slutar Nyheter på lätt svenska. Vi önskar trevlig kväll!\n```\n\n## 全文翻译 (Translation)\n\n🇨🇳 欢迎收看《简易瑞典语新闻》！女性在急诊就医时，等待的时间比男性更长。这是国家卫生与福利署的新统计数据显示的。此外，在全国不同地区等待时间差别很大。去年急诊就诊量增长了 3%，平均待在急诊的总时长也增加到 4 小时 16 分钟。斯科讷大区最长（4 小时 57 分钟），延雪平大区最短（3 小时 2 分钟）。80 岁以上女性在急诊待的时间最长，情况令人担忧。政治方面：55% 选民认为政府将在 9 月大选后失去执政权。中央银行今日宣布暂不加息，但今年晚些时候可能上调。挪威王储妃梅特-玛丽特接受肺移植，其子因多项罪行被判四年监禁。G7 峰会在法国埃维昂结束，泽连斯基与特朗普举行了会晤。未来超过一万栋房屋面临被洪水淹没风险。水牛对自然生态贡献巨大。明天多地可见阳光，诺尔兰南部有雨。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: [[akut]] · [[väntetid]] · [[statistik]] · [[skillnad]] · [[öka]] · [[väljare]] · [[regering]] · [[val]] · [[ränta]] · [[höja]] · [[döma]] · [[fängelse]] · [[stiga]] · [[bekymmersam]]\n- 词组: [[i-genomsnitt]] · [[söka-hjälp]] · [[förlora-makten]] · [[bland-annat]]\n- 语法: [[grammar-komparativ]] · [[grammar-passiv-med-s]]",
+      "excerpt": "📄 SVT Nyheter på lätt svenska 2026 06 17 类型: listening · 难度: A2–B1 原文 (Source Text) Välkomna till Nyheter på lätt svenska! Kvinnor får vänta längre än män när de söker hjälp på akuten. Det visar ny statistik från Social",
+      "forms": [],
+      "links": [
+        "akut",
+        "bekymmersam",
+        "bland-annat",
+        "döma",
+        "fängelse",
+        "förlora-makten",
+        "grammar-komparativ",
+        "grammar-passiv-med-s",
+        "höja",
+        "i-genomsnitt",
+        "öka",
+        "ränta",
+        "regering",
+        "sent-55-procent-tror-att-oppositionen-far-flest",
+        "sent-allt-har-hittills-gatt-bra-men-hon",
+        "sent-an-kvinnor-i-samma-alder",
+        "sent-ar-det-olika-orsaker-behov-eller-kon",
+        "sent-att-regeringen-forlorar-makten-efter-valet",
+        "sent-beroende-var-i-landet-man-bor",
+        "sent-bland-annat-har-ukrainas-president-zelenskyj",
+        "sent-de-tar-bort-vaxter-som-hotar-andra-arter",
+        "sent-delar-av-sodra-norrland-far-regn",
+        "sent-den-totala-tiden-personer-ar-pa-akuten",
+        "sent-dessutom-ar-det-stor-skillnad-pa",
+        "sent-det-ar-bekymmersamt-men-vi-vet-inte",
+        "sent-det-ar-gladjande-att-vi-lyckas",
+        "sent-det-ar-viktigt-att-titta-vidare-pa",
+        "sent-det-beror-pa-att-planeten-blir-allt-varmare",
+        "sent-det-blir-ingen-hojning-nu-men-rantan",
+        "sent-det-finns-risk-att-over-10000-hus",
+        "sent-det-har-varit-oroligt-kring-norges-kungahus",
+        "sent-det-kan-ocksa-bli-regn-pa-andra-platser",
+        "sent-det-visar-en-ny-undersokning-av-indikator",
+        "sent-det-visar-ny-statistik-fran-socialstyrelsen",
+        "sent-detta-beror-pa-att-nivan-pa-varldens-hav",
+        "sent-for-naturen-an-vad-vanliga-kor-klarat",
+        "sent-forra-aret-okade-besoken-till-akuten",
+        "sent-haft-mote-med-usas-president-donald-trump",
+        "sent-har-slutar-nyheter-pa-latt-svenska",
+        "sent-hur-lange-man-far-vanta-i-olika-delar",
+        "sent-i-genomsnitt-fyra-timmar-och-57-minuter",
+        "sent-i-mandags-domdes-mette-marits-son",
+        "sent-i-norge-har-kronprinsessan-mette-marit",
+        "sent-idag-kom-besked-fran-riksbanken-om-rantan",
+        "sent-kvinnor-far-vanta-langre-an-man",
+        "sent-langst-tid-pa-akuten-hade-patienter-i-region-skane",
+        "sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80",
+        "sent-ledare-fran-olika-lander-har-samlats",
+        "sent-man-19-34-ar-ar-i-genomsnitt",
+        "sent-medan-region-jonkoping-hade-kortast-tid",
+        "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
+        "sent-och-haller-korta-vantetider-i-jamforelse",
+        "sent-pa-tre-manader-har-just-dessa-vattenbufflar",
+        "sent-politik-nu-en-stor-del-av-valjarna",
+        "sent-sa-vadret-solen-kan-visa-sig-pa-flera",
+        "sent-sarskilt-galler-det-sodra-sverige",
+        "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
+        "sent-speciellt-langst-i-norr",
+        "sent-till-ett-snitt-pa-fyra-timmar",
+        "sent-till-evian-i-frankrike-nu",
+        "sent-till-fyra-ars-fangelse-for-flera-brott",
+        "sent-valkomna-till-nyheter-pa-latt-svenska",
+        "sent-vattenbufflar-gor-ett-jattebra-jobb",
+        "sent-vattenbufflarna-ar-ocksa-bra-for-insekter",
+        "skillnad",
+        "söka-hjälp",
+        "statistik",
+        "stiga",
+        "val",
+        "väljare",
+        "väntetid"
+      ],
+      "searchText": "SVT Nyheter på lätt svenska 2026-06-17 source-2026-06-17-listening-svt-latt knowledge_base/sources/source-2026-06-17-listening-svt-latt.md ---\ntype: source\ntitle: \"SVT Nyheter på lätt svenska 2026-06-17\"\nkind: listening\ncefr: A2–B1\ndate_added: 2026-06-17\nsource_label: \"listening — SVT Nyheter på lätt svenska 2026-06-17\"\nwords:\n  - \"[[akut]]\"\n  - \"[[väntetid]]\"\n  - \"[[statistik]]\"\n  - \"[[skillnad]]\"\n  - \"[[öka]]\"\n  - \"[[väljare]]\"\n  - \"[[regering]]\"\n  - \"[[val]]\"\n  - \"[[ränta]]\"\n  - \"[[höja]]\"\n  - \"[[döma]]\"\n  - \"[[fängelse]]\"\n  - \"[[stiga]]\"\n  - \"[[bekymmersam]]\"\nphrases:\n  - \"[[i-genomsnitt]]\"\n  - \"[[söka-hjälp]]\"\n  - \"[[förlora-makten]]\"\n  - \"[[bland-annat]]\"\nsentences:\n  - \"[[sent-valkomna-till-nyheter-pa-latt-svenska]]\"\n  - \"[[sent-kvinnor-far-vanta-langre-an-man]]\"\n  - \"[[sent-det-visar-ny-statistik-fran-socialstyrelsen]]\"\n  - \"[[sent-dessutom-ar-det-stor-skillnad-pa]]\"\n  - \"[[sent-hur-lange-man-far-vanta-i-olika-delar]]\"\n  - \"[[sent-forra-aret-okade-besoken-till-akuten]]\"\n  - \"[[sent-den-totala-tiden-personer-ar-pa-akuten]]\"\n  - \"[[sent-till-ett-snitt-pa-fyra-timmar]]\"\n  - \"[[sent-men-statistiken-visar-att-det-finns-stora-skillnader]]\"\n  - \"[[sent-beroende-var-i-landet-man-bor]]\"\n  - \"[[sent-langst-tid-pa-akuten-hade-patienter-i-region-skane]]\"\n  - \"[[sent-i-genomsnitt-fyra-timmar-och-57-minuter]]\"\n  - \"[[sent-medan-region-jonkoping-hade-kortast-tid]]\"\n  - \"[[sent-det-ar-gladjande-att-vi-lyckas]]\"\n  - \"[[sent-och-haller-korta-vantetider-i-jamforelse]]\"\n  - \"[[sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta]]\"\n  - \"[[sent-man-19-34-ar-ar-i-genomsnitt]]\"\n  - \"[[sent-an-kvinnor-i-samma-alder]]\"\n  - \"[[sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80]]\"\n  - \"[[sent-det-ar-bekymmersamt-men-vi-vet-inte]]\"\n  - \"[[sent-ar-det-olika-orsaker-behov-eller-kon]]\"\n  - \"[[sent-det-ar-viktigt-att-titta-vidare-pa]]\"\n  - \"[[sent-politik-nu-en-stor-del-av-valjarna]]\"\n  - \"[[sent-att-regeringen-forlorar-makten-efter-valet]]\"\n  - \"[[sent-det-visar-en-ny-undersokning-av-indikator]]\"\n  - \"[[sent-55-procent-tror-att-oppositionen-far-flest]]\"\n  - \"[[sent-idag-kom-besked-fran-riksbanken-om-rantan]]\"\n  - \"[[sent-det-blir-ingen-hojning-nu-men-rantan]]\"\n  - \"[[sent-i-norge-har-kronprinsessan-mette-marit]]\"\n  - \"[[sent-allt-har-hittills-gatt-bra-men-hon]]\"\n  - \"[[sent-det-har-varit-oroligt-kring-norges-kungahus]]\"\n  - \"[[sent-i-mandags-domdes-mette-marits-son]]\"\n  - \"[[sent-till-fyra-ars-fangelse-for-flera-brott]]\"\n  - \"[[sent-till-evian-i-frankrike-nu]]\"\n  - \"[[sent-ledare-fran-olika-lander-har-samlats]]\"\n  - \"[[sent-bland-annat-har-ukrainas-president-zelenskyj]]\"\n  - \"[[sent-haft-mote-med-usas-president-donald-trump]]\"\n  - \"[[sent-det-finns-risk-att-over-10000-hus]]\"\n  - \"[[sent-sarskilt-galler-det-sodra-sverige]]\"\n  - \"[[sent-detta-beror-pa-att-nivan-pa-varldens-hav]]\"\n  - \"[[sent-det-beror-pa-att-planeten-blir-allt-varmare]]\"\n  - \"[[sent-vattenbufflar-gor-ett-jattebra-jobb]]\"\n  - \"[[sent-de-tar-bort-vaxter-som-hotar-andra-arter]]\"\n  - \"[[sent-vattenbufflarna-ar-ocksa-bra-for-insekter]]\"\n  - \"[[sent-pa-tre-manader-har-just-dessa-vattenbufflar]]\"\n  - \"[[sent-for-naturen-an-vad-vanliga-kor-klarat]]\"\n  - \"[[sent-sa-vadret-solen-kan-visa-sig-pa-flera]]\"\n  - \"[[sent-speciellt-langst-i-norr]]\"\n  - \"[[sent-delar-av-sodra-norrland-far-regn]]\"\n  - \"[[sent-det-kan-ocksa-bli-regn-pa-andra-platser]]\"\n  - \"[[sent-har-slutar-nyheter-pa-latt-svenska]]\"\ngrammar:\n  - \"[[grammar-komparativ]]\"\n  - \"[[grammar-passiv-med-s]]\"\n---\n\n# 📄 SVT Nyheter på lätt svenska 2026-06-17\n\n类型: listening · 难度: A2–B1\n\n## 原文 (Source Text)\n\n```\nVälkomna till Nyheter på lätt svenska!\nKvinnor får vänta längre än män när de söker hjälp på akuten.\nDet visar ny statistik från Socialstyrelsen.\nDessutom är det stor skillnad på hur länge man får vänta i olika delar av landet.\nFörra året ökade besöken till akuten med 3 %.\nDen totala tiden personer är på akuten ökade också till ett snitt på fyra timmar och 16 minuter.\nMen statistiken visar att det finns stora skillnader beroende var i landet man bor.\nLängst tid på akuten hade patienter i Region Skåne. I genomsnitt fyra timmar och 57 minuter.\nMedan Region Jönköping hade kortast tid, tre timmar och två minuter.\nDet är glädjande att vi lyckas med patientsäkerhetsarbetet och håller korta väntetider i jämförelse med nationella tal.\nSocialstyrelsens statistik visar att kvinnor vänta längre tid än män.\nMän 19–34 år är i genomsnitt 18 minuter mindre på akuten än kvinnor i samma ålder.\nLängst tid på akuten tillbringar kvinnor över 80 år.\nDet är bekymmersamt, men vi vet inte vad det beror på.\nÄr det olika orsaker, behov eller kön?\nDet är viktigt att titta vidare på.\nPolitik nu. En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september.\nDet visar en ny undersökning, av Indikator Opinion.\n55 % tror att oppositionen får flest röster.\nIdag kom besked från Riksbanken om räntan.\nDet blir ingen höjning nu, men räntan kan komma att höjas senare i år.\nI Norge har kronprinsessan Mette-Marit fått nya lungor.\nAllt har hittills gått bra, men hon blir kvar på sjukhus i flera veckor.\nDet har varit oroligt kring Norges kungahus den senaste tiden.\nI måndags dömdes Mette-Marits son Marius Borg Høiby till fyra års fängelse för flera brott.\nTill Evian i Frankrike nu. Där slutade idag G7-mötet.\nLedare från olika länder har samlats under två dagar för samtal.\nBland annat har Ukrainas president Zelenskyj haft möte med USA:s president Donald Trump.\nDet finns risk att över 10 000 hus hamnar under vatten i framtiden.\nSärskilt gäller det södra Sverige.\nDetta beror på att nivån på världens hav stiger.\nDet beror på att planeten blir allt varmare.\nVattenbufflar gör ett jättebra jobb i naturen.\nDe tar bort växter som hotar andra arter.\nVattenbufflarna är också bra för insekter och fåglar.\nPå tre månader har just dessa vattenbufflar i Skåne gjort mer för naturen än vad vanliga kor klarat på 30 år.\nSå vädret: Solen kan visa sig på flera imorgon speciellt längst i norr.\nDelar av södra Norrland får regn.\nDet kan också bli regn på andra platser i landet.\nHär slutar Nyheter på lätt svenska. Vi önskar trevlig kväll!\n```\n\n## 全文翻译 (Translation)\n\n🇨🇳 欢迎收看《简易瑞典语新闻》！女性在急诊就医时，等待的时间比男性更长。这是国家卫生与福利署的新统计数据显示的。此外，在全国不同地区等待时间差别很大。去年急诊就诊量增长了 3%，平均待在急诊的总时长也增加到 4 小时 16 分钟。斯科讷大区最长（4 小时 57 分钟），延雪平大区最短（3 小时 2 分钟）。80 岁以上女性在急诊待的时间最长，情况令人担忧。政治方面：55% 选民认为政府将在 9 月大选后失去执政权。中央银行今日宣布暂不加息，但今年晚些时候可能上调。挪威王储妃梅特-玛丽特接受肺移植，其子因多项罪行被判四年监禁。G7 峰会在法国埃维昂结束，泽连斯基与特朗普举行了会晤。未来超过一万栋房屋面临被洪水淹没风险。水牛对自然生态贡献巨大。明天多地可见阳光，诺尔兰南部有雨。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: [[akut]] · [[väntetid]] · [[statistik]] · [[skillnad]] · [[öka]] · [[väljare]] · [[regering]] · [[val]] · [[ränta]] · [[höja]] · [[döma]] · [[fängelse]] · [[stiga]] · [[bekymmersam]]\n- 词组: [[i-genomsnitt]] · [[söka-hjälp]] · [[förlora-makten]] · [[bland-annat]]\n- 语法: [[grammar-komparativ]] · [[grammar-passiv-med-s]]\n",
+      "cefr": "A2–B1",
+      "date_added": "2026-06-17",
+      "source_label": "listening — SVT Nyheter på lätt svenska 2026-06-17",
+      "kind": "listening",
+      "words": [
+        "[[akut]]",
+        "[[väntetid]]",
+        "[[statistik]]",
+        "[[skillnad]]",
+        "[[öka]]",
+        "[[väljare]]",
+        "[[regering]]",
+        "[[val]]",
+        "[[ränta]]",
+        "[[höja]]",
+        "[[döma]]",
+        "[[fängelse]]",
+        "[[stiga]]",
+        "[[bekymmersam]]"
+      ],
+      "phrases": [
+        "[[i-genomsnitt]]",
+        "[[söka-hjälp]]",
+        "[[förlora-makten]]",
+        "[[bland-annat]]"
+      ],
+      "sentences": [
+        "[[sent-valkomna-till-nyheter-pa-latt-svenska]]",
+        "[[sent-kvinnor-far-vanta-langre-an-man]]",
+        "[[sent-det-visar-ny-statistik-fran-socialstyrelsen]]",
+        "[[sent-dessutom-ar-det-stor-skillnad-pa]]",
+        "[[sent-hur-lange-man-far-vanta-i-olika-delar]]",
+        "[[sent-forra-aret-okade-besoken-till-akuten]]",
+        "[[sent-den-totala-tiden-personer-ar-pa-akuten]]",
+        "[[sent-till-ett-snitt-pa-fyra-timmar]]",
+        "[[sent-men-statistiken-visar-att-det-finns-stora-skillnader]]",
+        "[[sent-beroende-var-i-landet-man-bor]]",
+        "[[sent-langst-tid-pa-akuten-hade-patienter-i-region-skane]]",
+        "[[sent-i-genomsnitt-fyra-timmar-och-57-minuter]]",
+        "[[sent-medan-region-jonkoping-hade-kortast-tid]]",
+        "[[sent-det-ar-gladjande-att-vi-lyckas]]",
+        "[[sent-och-haller-korta-vantetider-i-jamforelse]]",
+        "[[sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta]]",
+        "[[sent-man-19-34-ar-ar-i-genomsnitt]]",
+        "[[sent-an-kvinnor-i-samma-alder]]",
+        "[[sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80]]",
+        "[[sent-det-ar-bekymmersamt-men-vi-vet-inte]]",
+        "[[sent-ar-det-olika-orsaker-behov-eller-kon]]",
+        "[[sent-det-ar-viktigt-att-titta-vidare-pa]]",
+        "[[sent-politik-nu-en-stor-del-av-valjarna]]",
+        "[[sent-att-regeringen-forlorar-makten-efter-valet]]",
+        "[[sent-det-visar-en-ny-undersokning-av-indikator]]",
+        "[[sent-55-procent-tror-att-oppositionen-far-flest]]",
+        "[[sent-idag-kom-besked-fran-riksbanken-om-rantan]]",
+        "[[sent-det-blir-ingen-hojning-nu-men-rantan]]",
+        "[[sent-i-norge-har-kronprinsessan-mette-marit]]",
+        "[[sent-allt-har-hittills-gatt-bra-men-hon]]",
+        "[[sent-det-har-varit-oroligt-kring-norges-kungahus]]",
+        "[[sent-i-mandags-domdes-mette-marits-son]]",
+        "[[sent-till-fyra-ars-fangelse-for-flera-brott]]",
+        "[[sent-till-evian-i-frankrike-nu]]",
+        "[[sent-ledare-fran-olika-lander-har-samlats]]",
+        "[[sent-bland-annat-har-ukrainas-president-zelenskyj]]",
+        "[[sent-haft-mote-med-usas-president-donald-trump]]",
+        "[[sent-det-finns-risk-att-over-10000-hus]]",
+        "[[sent-sarskilt-galler-det-sodra-sverige]]",
+        "[[sent-detta-beror-pa-att-nivan-pa-varldens-hav]]",
+        "[[sent-det-beror-pa-att-planeten-blir-allt-varmare]]",
+        "[[sent-vattenbufflar-gor-ett-jattebra-jobb]]",
+        "[[sent-de-tar-bort-vaxter-som-hotar-andra-arter]]",
+        "[[sent-vattenbufflarna-ar-ocksa-bra-for-insekter]]",
+        "[[sent-pa-tre-manader-har-just-dessa-vattenbufflar]]",
+        "[[sent-for-naturen-an-vad-vanliga-kor-klarat]]",
+        "[[sent-sa-vadret-solen-kan-visa-sig-pa-flera]]",
+        "[[sent-speciellt-langst-i-norr]]",
+        "[[sent-delar-av-sodra-norrland-far-regn]]",
+        "[[sent-det-kan-ocksa-bli-regn-pa-andra-platser]]",
+        "[[sent-har-slutar-nyheter-pa-latt-svenska]]"
+      ],
+      "grammar": [
+        "[[grammar-komparativ]]",
+        "[[grammar-passiv-med-s]]"
+      ],
+      "backlinks": [
+        "sent-55-procent-tror-att-oppositionen-far-flest",
+        "sent-allt-har-hittills-gatt-bra-men-hon",
+        "sent-an-kvinnor-i-samma-alder",
+        "sent-ar-det-olika-orsaker-behov-eller-kon",
+        "sent-att-regeringen-forlorar-makten-efter-valet",
+        "sent-beroende-var-i-landet-man-bor",
+        "sent-bland-annat-har-ukrainas-president-zelenskyj",
+        "sent-de-tar-bort-vaxter-som-hotar-andra-arter",
+        "sent-delar-av-sodra-norrland-far-regn",
+        "sent-den-totala-tiden-personer-ar-pa-akuten",
+        "sent-dessutom-ar-det-stor-skillnad-pa",
+        "sent-det-ar-bekymmersamt-men-vi-vet-inte",
+        "sent-det-ar-gladjande-att-vi-lyckas",
+        "sent-det-ar-viktigt-att-titta-vidare-pa",
+        "sent-det-beror-pa-att-planeten-blir-allt-varmare",
+        "sent-det-blir-ingen-hojning-nu-men-rantan",
+        "sent-det-finns-risk-att-over-10000-hus",
+        "sent-det-har-varit-oroligt-kring-norges-kungahus",
+        "sent-det-kan-ocksa-bli-regn-pa-andra-platser",
+        "sent-det-visar-en-ny-undersokning-av-indikator",
+        "sent-det-visar-ny-statistik-fran-socialstyrelsen",
+        "sent-detta-beror-pa-att-nivan-pa-varldens-hav",
+        "sent-for-naturen-an-vad-vanliga-kor-klarat",
+        "sent-forra-aret-okade-besoken-till-akuten",
+        "sent-haft-mote-med-usas-president-donald-trump",
+        "sent-har-slutar-nyheter-pa-latt-svenska",
+        "sent-hur-lange-man-far-vanta-i-olika-delar",
+        "sent-i-genomsnitt-fyra-timmar-och-57-minuter",
+        "sent-i-mandags-domdes-mette-marits-son",
+        "sent-i-norge-har-kronprinsessan-mette-marit",
+        "sent-idag-kom-besked-fran-riksbanken-om-rantan",
+        "sent-kvinnor-far-vanta-langre-an-man",
+        "sent-langst-tid-pa-akuten-hade-patienter-i-region-skane",
+        "sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80",
+        "sent-ledare-fran-olika-lander-har-samlats",
+        "sent-man-19-34-ar-ar-i-genomsnitt",
+        "sent-medan-region-jonkoping-hade-kortast-tid",
+        "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
+        "sent-och-haller-korta-vantetider-i-jamforelse",
+        "sent-pa-tre-manader-har-just-dessa-vattenbufflar",
+        "sent-politik-nu-en-stor-del-av-valjarna",
+        "sent-sa-vadret-solen-kan-visa-sig-pa-flera",
+        "sent-sarskilt-galler-det-sodra-sverige",
+        "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
+        "sent-speciellt-langst-i-norr",
+        "sent-till-ett-snitt-pa-fyra-timmar",
+        "sent-till-evian-i-frankrike-nu",
+        "sent-till-fyra-ars-fangelse-for-flera-brott",
+        "sent-valkomna-till-nyheter-pa-latt-svenska",
+        "sent-vattenbufflar-gor-ett-jattebra-jobb",
+        "sent-vattenbufflarna-ar-ocksa-bra-for-insekter"
+      ]
+    },
+    {
       "slug": "source-2026-06-17-min-vardag",
       "type": "source",
       "title": "Källa: Min vardag — 我的日常",
@@ -22062,6 +24045,10 @@ window.KB_DATA = {
         "randig",
         "räv",
         "säl",
+        "sent-de-tar-bort-vaxter-som-hotar-andra-arter",
+        "sent-pa-tre-manader-har-just-dessa-vattenbufflar",
+        "sent-vattenbufflar-gor-ett-jattebra-jobb",
+        "sent-vattenbufflarna-ar-ocksa-bra-for-insekter",
         "sköldpadda",
         "skygg",
         "snabb",
@@ -22339,7 +24326,9 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "kind": "semantic-field",
       "backlinks": [
+        "akut",
         "allergisk",
+        "bekymmersam",
         "blodig",
         "energidryck",
         "förkylning",
@@ -22358,18 +24347,38 @@ window.KB_DATA = {
         "patient",
         "plåster",
         "recept",
+        "sent-allt-har-hittills-gatt-bra-men-hon",
+        "sent-ar-det-olika-orsaker-behov-eller-kon",
+        "sent-den-totala-tiden-personer-ar-pa-akuten",
+        "sent-dessutom-ar-det-stor-skillnad-pa",
+        "sent-det-ar-bekymmersamt-men-vi-vet-inte",
+        "sent-det-ar-gladjande-att-vi-lyckas",
+        "sent-forra-aret-okade-besoken-till-akuten",
+        "sent-hur-lange-man-far-vanta-i-olika-delar",
+        "sent-i-genomsnitt-fyra-timmar-och-57-minuter",
+        "sent-kvinnor-far-vanta-langre-an-man",
+        "sent-langst-tid-pa-akuten-hade-patienter-i-region-skane",
+        "sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80",
+        "sent-man-19-34-ar-ar-i-genomsnitt",
+        "sent-medan-region-jonkoping-hade-kortast-tid",
+        "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
+        "sent-och-haller-korta-vantetider-i-jamforelse",
+        "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
+        "sent-till-ett-snitt-pa-fyra-timmar",
         "sjuk",
         "sjukdom",
         "skada",
         "smärta",
         "smittsam",
+        "söka-hjälp",
         "sömn",
         "source-2026-06-04-nyheter-vecka-22",
         "source-2026-06-17-kropp-halsa",
         "sund",
         "tåla",
         "topic-kropp",
-        "trött"
+        "trött",
+        "väntetid"
       ]
     },
     {
@@ -23460,7 +25469,13 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "kind": "semantic-field",
       "backlinks": [
+        "bekymmersam",
+        "döma",
+        "fängelse",
+        "förlora-makten",
         "gas",
+        "höja",
+        "i-genomsnitt",
         "index",
         "invånare",
         "kommun",
@@ -23471,14 +25486,33 @@ window.KB_DATA = {
         "möte",
         "myndighet",
         "nationaldag",
+        "öka",
         "olja",
         "provins",
+        "ränta",
         "regering",
         "rösta",
+        "sent-55-procent-tror-att-oppositionen-far-flest",
+        "sent-att-regeringen-forlorar-makten-efter-valet",
+        "sent-bland-annat-har-ukrainas-president-zelenskyj",
+        "sent-det-blir-ingen-hojning-nu-men-rantan",
+        "sent-det-visar-en-ny-undersokning-av-indikator",
+        "sent-det-visar-ny-statistik-fran-socialstyrelsen",
+        "sent-haft-mote-med-usas-president-donald-trump",
+        "sent-i-mandags-domdes-mette-marits-son",
+        "sent-idag-kom-besked-fran-riksbanken-om-rantan",
+        "sent-ledare-fran-olika-lander-har-samlats",
+        "sent-politik-nu-en-stor-del-av-valjarna",
+        "sent-till-evian-i-frankrike-nu",
+        "sent-till-fyra-ars-fangelse-for-flera-brott",
+        "sent-valkomna-till-nyheter-pa-latt-svenska",
         "självständig",
         "skatt",
+        "skillnad",
         "source-2026-06-04-nyheter-vecka-22",
         "source-2026-06-18-nyheter-8sidor",
+        "statistik",
+        "väljare",
         "välkomna",
         "vapen"
       ]
@@ -23847,6 +25881,10 @@ window.KB_DATA = {
         "höst",
         "intensiv",
         "njuta",
+        "sent-delar-av-sodra-norrland-far-regn",
+        "sent-det-kan-ocksa-bli-regn-pa-andra-platser",
+        "sent-sa-vadret-solen-kan-visa-sig-pa-flera",
+        "sent-speciellt-langst-i-norr",
         "snö",
         "sommar",
         "stövel",
@@ -24153,6 +26191,58 @@ window.KB_DATA = {
       "backlinks": [
         "hård",
         "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "akut",
+      "type": "word",
+      "title": "akut",
+      "path": "knowledge_base/words/akut.md",
+      "body": "# akut — substantiv (en)\n\n📖 中文：急诊；急性的（**akuten** = 定形\"急诊室\"） · English: acute; the emergency room (akuten)\n发音提示：[\"aku:t]，重音在第二音节\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | ett akut (fall) / en akut (situation) |\n| bestämd sg (sjukhusavdelning) | **akuten** (the ER) |\n| plural | akuter |\n| bestämd plural | akuterna |\n\n> 作形容词用时不变形：*ett akut problem*（紧急问题）。  \n> 最常见用法：名词 **(på) akuten** = 在急诊室。\n\n## 词组搭配 (Collocations)\n\n- `åka till akuten` — 去急诊 → 见 [[topic-hälsa]]\n- `vara på akuten` — 在急诊室\n- `komma in akut` — 被紧急送入\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kvinnor får vänta längre än män när de söker hjälp på akuten. — 🇨🇳 女性在急诊就医时，等待的时间比男性更长。\n- 🇸🇪 Förra året ökade besöken till akuten med 3 %. — 🇨🇳 去年急诊就诊量增长了 3%。\n- 🇸🇪 Längst tid på akuten hade patienter i Region Skåne. — 🇨🇳 在急诊待得最久的是斯科讷大区的病人。\n- 🇸🇪 Han fick åka akut till sjukhuset med magont. — 🇨🇳 他因腹痛被紧急送往医院。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: akutavdelning（急诊科）、akutfall（急诊案例）\n- 同义词: —\n- 反义词: planerad (vård)（计划内的医疗）\n- 主题: [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- **akuten**（带定冠词）特指\"急诊室\"这个地方，是口语中最常见的形式。\n- 形容词 akut 可修饰各类名词：*akut kris*（紧急危机）、*akut smärta*（急性疼痛）。",
+      "excerpt": "akut — substantiv (en) 📖 中文：急诊；急性的（ akuten = 定形\"急诊室\"） · English: acute; the emergency room (akuten) 发音提示：[\"aku:t]，重音在第二音节 语法变形 (Forms) form exempel obestämd sg ett akut (fall) / en akut (situation) bestämd sg (sjukhusav",
+      "forms": [
+        "akut",
+        "akuten",
+        "akuter",
+        "akuterna"
+      ],
+      "links": [
+        "sent-den-totala-tiden-personer-ar-pa-akuten",
+        "sent-forra-aret-okade-besoken-till-akuten",
+        "sent-kvinnor-far-vanta-langre-an-man",
+        "sent-langst-tid-pa-akuten-hade-patienter-i-region-skane",
+        "sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80",
+        "sent-man-19-34-ar-ar-i-genomsnitt",
+        "topic-hälsa"
+      ],
+      "searchText": "akut akut knowledge_base/words/akut.md ---\ntype: word\nlemma: \"akut\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: \"急诊；急性的（akuten = 定形\"急诊室\"）\"\nen: \"acute; emergency room (akuten)\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - \"[[topic-hälsa]]\"\nsentences:\n  - \"[[sent-kvinnor-far-vanta-langre-an-man]]\"\n  - \"[[sent-forra-aret-okade-besoken-till-akuten]]\"\n  - \"[[sent-den-totala-tiden-personer-ar-pa-akuten]]\"\n  - \"[[sent-langst-tid-pa-akuten-hade-patienter-i-region-skane]]\"\n  - \"[[sent-man-19-34-ar-ar-i-genomsnitt]]\"\n  - \"[[sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# akut — substantiv (en)\n\n📖 中文：急诊；急性的（**akuten** = 定形\"急诊室\"） · English: acute; the emergency room (akuten)\n发音提示：[\"aku:t]，重音在第二音节\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | ett akut (fall) / en akut (situation) |\n| bestämd sg (sjukhusavdelning) | **akuten** (the ER) |\n| plural | akuter |\n| bestämd plural | akuterna |\n\n> 作形容词用时不变形：*ett akut problem*（紧急问题）。  \n> 最常见用法：名词 **(på) akuten** = 在急诊室。\n\n## 词组搭配 (Collocations)\n\n- `åka till akuten` — 去急诊 → 见 [[topic-hälsa]]\n- `vara på akuten` — 在急诊室\n- `komma in akut` — 被紧急送入\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kvinnor får vänta längre än män när de söker hjälp på akuten. — 🇨🇳 女性在急诊就医时，等待的时间比男性更长。\n- 🇸🇪 Förra året ökade besöken till akuten med 3 %. — 🇨🇳 去年急诊就诊量增长了 3%。\n- 🇸🇪 Längst tid på akuten hade patienter i Region Skåne. — 🇨🇳 在急诊待得最久的是斯科讷大区的病人。\n- 🇸🇪 Han fick åka akut till sjukhuset med magont. — 🇨🇳 他因腹痛被紧急送往医院。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: akutavdelning（急诊科）、akutfall（急诊案例）\n- 同义词: —\n- 反义词: planerad (vård)（计划内的医疗）\n- 主题: [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- **akuten**（带定冠词）特指\"急诊室\"这个地方，是口语中最常见的形式。\n- 形容词 akut 可修饰各类名词：*akut kris*（紧急危机）、*akut smärta*（急性疼痛）。\n",
+      "lemma": "akut",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "急诊；急性的（akuten = 定形\"急诊室\"）",
+      "en": "acute; emergency room (akuten)",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-kvinnor-far-vanta-langre-an-man]]",
+        "[[sent-forra-aret-okade-besoken-till-akuten]]",
+        "[[sent-den-totala-tiden-personer-ar-pa-akuten]]",
+        "[[sent-langst-tid-pa-akuten-hade-patienter-i-region-skane]]",
+        "[[sent-man-19-34-ar-ar-i-genomsnitt]]",
+        "[[sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "kronisk",
+        "sent-den-totala-tiden-personer-ar-pa-akuten",
+        "sent-forra-aret-okade-besoken-till-akuten",
+        "sent-kvinnor-far-vanta-langre-an-man",
+        "sent-langst-tid-pa-akuten-hade-patienter-i-region-skane",
+        "sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80",
+        "sent-man-19-34-ar-ar-i-genomsnitt",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -25961,6 +28051,44 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "obekväm"
+      ]
+    },
+    {
+      "slug": "bekymmersam",
+      "type": "word",
+      "title": "bekymmersam",
+      "path": "knowledge_base/words/bekymmersam.md",
+      "body": "# bekymmersam — adjektiv\n\n📖 中文：令人担忧的；棘手的 · English: worrying; troublesome\n发音提示：[bɛ.\"çymɛrˌsam]，重音在 -sam\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| utrum sg | bekymmersam |\n| neutrum sg | bekymmersamt |\n| plural / bestämd | bekymmersamm**a** |\n\n> 常见中性形式 *bekymmersamt* 用于 *det är bekymmersamt*（这令人担忧）。\n\n## 词组搭配 (Collocations)\n\n- `det är bekymmersamt` — 这令人担忧\n- `en bekymmersam situation` — 一个令人担忧的处境\n- `bekymmersamt mönster` — 令人担忧的模式\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det är bekymmersamt, men vi vet inte vad det beror på. — 🇨🇳 这令人担忧，但我们还不知道原因是什么。\n- 🇸🇪 Situationen är bekymmersam för många patienter. — 🇨🇳 这种情况对许多病人来说令人担忧。\n- 🇸🇪 Det är ett bekymmersamt mönster som behöver undersökas. — 🇨🇳 这是一个需要调查的令人担忧的模式。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: bekymmer（名词，烦恼；担忧）、bekymra（使担忧）\n- 同义词: [[orolig]]（令人不安的）、oroande（令人担忧的）\n- 反义词: lugnande（令人放心的）\n- 主题: [[topic-hälsa]] · [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *bekymmersam* 是正式/书面语，口语中更常说 *oroande* 或 *jobbig*。\n- 注意 *bekymmersamt*（中性形）在 *det är…* 结构中最常见。",
+      "excerpt": "bekymmersam — adjektiv 📖 中文：令人担忧的；棘手的 · English: worrying; troublesome 发音提示：[bɛ.\"çymɛrˌsam]，重音在 sam 语法变形 (Forms) form exempel utrum sg bekymmersam neutrum sg bekymmersamt plural / bestämd bekymmersamm a 常见中性形式 bekymmers",
+      "forms": [
+        "bekymmersam",
+        "bekymmersamt",
+        "bekymmersamma"
+      ],
+      "links": [
+        "orolig",
+        "sent-det-ar-bekymmersamt-men-vi-vet-inte",
+        "topic-hälsa",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "bekymmersam bekymmersam knowledge_base/words/bekymmersam.md ---\ntype: word\nlemma: \"bekymmersam\"\nordklass: adjektiv\ncefr: B1\nzh: \"令人担忧的；棘手的\"\nen: \"worrying; troublesome\"\nsynonyms:\n  - \"[[orolig]]\"\nantonyms: []\nfamily: []\ntopics:\n  - \"[[topic-hälsa]]\"\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-det-ar-bekymmersamt-men-vi-vet-inte]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bekymmersam — adjektiv\n\n📖 中文：令人担忧的；棘手的 · English: worrying; troublesome\n发音提示：[bɛ.\"çymɛrˌsam]，重音在 -sam\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| utrum sg | bekymmersam |\n| neutrum sg | bekymmersamt |\n| plural / bestämd | bekymmersamm**a** |\n\n> 常见中性形式 *bekymmersamt* 用于 *det är bekymmersamt*（这令人担忧）。\n\n## 词组搭配 (Collocations)\n\n- `det är bekymmersamt` — 这令人担忧\n- `en bekymmersam situation` — 一个令人担忧的处境\n- `bekymmersamt mönster` — 令人担忧的模式\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det är bekymmersamt, men vi vet inte vad det beror på. — 🇨🇳 这令人担忧，但我们还不知道原因是什么。\n- 🇸🇪 Situationen är bekymmersam för många patienter. — 🇨🇳 这种情况对许多病人来说令人担忧。\n- 🇸🇪 Det är ett bekymmersamt mönster som behöver undersökas. — 🇨🇳 这是一个需要调查的令人担忧的模式。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: bekymmer（名词，烦恼；担忧）、bekymra（使担忧）\n- 同义词: [[orolig]]（令人不安的）、oroande（令人担忧的）\n- 反义词: lugnande（令人放心的）\n- 主题: [[topic-hälsa]] · [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *bekymmersam* 是正式/书面语，口语中更常说 *oroande* 或 *jobbig*。\n- 注意 *bekymmersamt*（中性形）在 *det är…* 结构中最常见。\n",
+      "lemma": "bekymmersam",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "令人担忧的；棘手的",
+      "en": "worrying; troublesome",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-det-ar-bekymmersamt-men-vi-vet-inte]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]",
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "sent-det-ar-bekymmersamt-men-vi-vet-inte",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -28581,6 +30709,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "döma",
+      "type": "word",
+      "title": "döma",
+      "path": "knowledge_base/words/döma.md",
+      "body": "# döma — verb (grupp 2)\n\n📖 中文：判决；裁判；评判 · English: to sentence; to judge\n发音提示：[\"døːma]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| infinitiv | döma |\n| presens | dömer |\n| preteritum | dömde |\n| supinum | dömt |\n| s-passiv presens | döms |\n| s-passiv preteritum | dömdes |\n\n## 词组搭配 (Collocations)\n\n- `dömas till fängelse` — 被判处监禁\n- `dömas för brott` — 因犯罪被判决\n- `döma skuldig` — 判有罪\n- `döma oskyldig` — 判无罪\n\n## 例句 (Sentences)\n\n**义项 1 — 法律判决:**\n- 🇸🇪 I måndags dömdes Marius Borg Høiby till fyra års fängelse för flera brott. — 🇨🇳 上周一，Marius Borg Høiby 因多项罪行被判处四年监禁。\n- 🇸🇪 Domstolen dömde honom skyldig. — 🇨🇳 法庭判他有罪。\n\n**义项 2 — 评判/裁判:**\n- 🇸🇪 Man ska inte döma en bok efter omslaget. — 🇨🇳 不要以貌取书（不要根据封面评判一本书）。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: dom（判决，名词）、domare（法官/裁判员）、domstol（法院）\n- 同义词: fälla（判有罪，口语）\n- 反义词: fria（宣判无罪）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *dömas* (-s 被动态) 是新闻中的标准用法：*han dömdes till…*（他被判处……）。\n- 参见语法 [[grammar-passiv-med-s]]。",
+      "excerpt": "döma — verb (grupp 2) 📖 中文：判决；裁判；评判 · English: to sentence; to judge 发音提示：[\"døːma] 语法变形 (Forms) form exempel infinitiv döma presens dömer preteritum dömde supinum dömt s passiv presens döms s passiv preteritum dömdes 词组",
+      "forms": [
+        "döma",
+        "dömer",
+        "dömde",
+        "dömt",
+        "döms",
+        "dömdes"
+      ],
+      "links": [
+        "grammar-passiv-med-s",
+        "sent-i-mandags-domdes-mette-marits-son",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "döma döma knowledge_base/words/döma.md ---\ntype: word\nlemma: \"döma\"\nordklass: verb\nverbgrupp: \"2\"\ncefr: B1\nzh: \"判决；裁判；评判\"\nen: \"to sentence; to judge\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-i-mandags-domdes-mette-marits-son]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# döma — verb (grupp 2)\n\n📖 中文：判决；裁判；评判 · English: to sentence; to judge\n发音提示：[\"døːma]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| infinitiv | döma |\n| presens | dömer |\n| preteritum | dömde |\n| supinum | dömt |\n| s-passiv presens | döms |\n| s-passiv preteritum | dömdes |\n\n## 词组搭配 (Collocations)\n\n- `dömas till fängelse` — 被判处监禁\n- `dömas för brott` — 因犯罪被判决\n- `döma skuldig` — 判有罪\n- `döma oskyldig` — 判无罪\n\n## 例句 (Sentences)\n\n**义项 1 — 法律判决:**\n- 🇸🇪 I måndags dömdes Marius Borg Høiby till fyra års fängelse för flera brott. — 🇨🇳 上周一，Marius Borg Høiby 因多项罪行被判处四年监禁。\n- 🇸🇪 Domstolen dömde honom skyldig. — 🇨🇳 法庭判他有罪。\n\n**义项 2 — 评判/裁判:**\n- 🇸🇪 Man ska inte döma en bok efter omslaget. — 🇨🇳 不要以貌取书（不要根据封面评判一本书）。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: dom（判决，名词）、domare（法官/裁判员）、domstol（法院）\n- 同义词: fälla（判有罪，口语）\n- 反义词: fria（宣判无罪）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *dömas* (-s 被动态) 是新闻中的标准用法：*han dömdes till…*（他被判处……）。\n- 参见语法 [[grammar-passiv-med-s]]。\n",
+      "lemma": "döma",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "判决；裁判；评判",
+      "en": "to sentence; to judge",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-i-mandags-domdes-mette-marits-son]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "fängelse",
+        "sent-i-mandags-domdes-mette-marits-son",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "döpa",
       "type": "word",
       "title": "döpa",
@@ -29483,6 +31651,7 @@ window.KB_DATA = {
         "örn",
         "papegoja",
         "sent-faglarna-sjunger-och-de-forsta",
+        "sent-vattenbufflarna-ar-ocksa-bra-for-insekter",
         "source-2026-06-08-djur",
         "svan",
         "topic-djur",
@@ -29549,6 +31718,44 @@ window.KB_DATA = {
       "backlinks": [
         "förälder",
         "topic-personer"
+      ]
+    },
+    {
+      "slug": "fängelse",
+      "type": "word",
+      "title": "fängelse",
+      "path": "knowledge_base/words/fängelse.md",
+      "body": "# fängelse — substantiv (ett)\n\n📖 中文：监狱；监禁 · English: prison; imprisonment\n发音提示：[\"fɛŋɛlsɛ]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | ett fängelse |\n| bestämd sg | fängelset |\n| obestämd pl | fängelser |\n| bestämd pl | fängelserna |\n\n## 词组搭配 (Collocations)\n\n- `dömas till fängelse` — 被判处监禁（抽象）\n- `sitta i fängelse` — 坐牢\n- `fyra års fängelse` — 四年监禁（刑期）\n- `rymma från fängelset` — 从监狱逃跑\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han dömdes till fyra års fängelse för flera brott. — 🇨🇳 他因多项罪行被判处四年监禁。\n- 🇸🇪 Han sitter i fängelse nu. — 🇨🇳 他现在在坐牢。\n- 🇸🇪 Det finns strängare straff som fängelse för allvarliga brott. — 🇨🇳 对于严重犯罪，有监禁这样更严厉的惩罚。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[döma]]（判决）、fånge（囚犯）、fängslad（被囚禁的）\n- 同义词: —\n- 反义词: frihet（自由）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *fängelse*（抽象）= 监禁这一刑罚；*fängelset*（定形具体）= 那所监狱。\n- 刑期表达：*X års fängelse*（X 年监禁），介词省略，直接放数词。",
+      "excerpt": "fängelse — substantiv (ett) 📖 中文：监狱；监禁 · English: prison; imprisonment 发音提示：[\"fɛŋɛlsɛ] 语法变形 (Forms) form exempel obestämd sg ett fängelse bestämd sg fängelset obestämd pl fängelser bestämd pl fängelserna 词组搭配 (Collocati",
+      "forms": [
+        "fängelse",
+        "fängelset",
+        "fängelser",
+        "fängelserna"
+      ],
+      "links": [
+        "döma",
+        "sent-till-fyra-ars-fangelse-for-flera-brott",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "fängelse fängelse knowledge_base/words/fängelse.md ---\ntype: word\nlemma: \"fängelse\"\nordklass: substantiv\ngenus: ett\ncefr: B1\nzh: \"监狱；监禁\"\nen: \"prison; imprisonment\"\nsynonyms: []\nantonyms: []\nfamily:\n  - \"[[döma]]\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-till-fyra-ars-fangelse-for-flera-brott]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fängelse — substantiv (ett)\n\n📖 中文：监狱；监禁 · English: prison; imprisonment\n发音提示：[\"fɛŋɛlsɛ]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | ett fängelse |\n| bestämd sg | fängelset |\n| obestämd pl | fängelser |\n| bestämd pl | fängelserna |\n\n## 词组搭配 (Collocations)\n\n- `dömas till fängelse` — 被判处监禁（抽象）\n- `sitta i fängelse` — 坐牢\n- `fyra års fängelse` — 四年监禁（刑期）\n- `rymma från fängelset` — 从监狱逃跑\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han dömdes till fyra års fängelse för flera brott. — 🇨🇳 他因多项罪行被判处四年监禁。\n- 🇸🇪 Han sitter i fängelse nu. — 🇨🇳 他现在在坐牢。\n- 🇸🇪 Det finns strängare straff som fängelse för allvarliga brott. — 🇨🇳 对于严重犯罪，有监禁这样更严厉的惩罚。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[döma]]（判决）、fånge（囚犯）、fängslad（被囚禁的）\n- 同义词: —\n- 反义词: frihet（自由）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *fängelse*（抽象）= 监禁这一刑罚；*fängelset*（定形具体）= 那所监狱。\n- 刑期表达：*X års fängelse*（X 年监禁），介词省略，直接放数词。\n",
+      "lemma": "fängelse",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "监狱；监禁",
+      "en": "prison; imprisonment",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-till-fyra-ars-fangelse-for-flera-brott]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "sent-i-mandags-domdes-mette-marits-son",
+        "sent-till-fyra-ars-fangelse-for-flera-brott",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -34239,6 +36446,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "höja",
+      "type": "word",
+      "title": "höja",
+      "path": "knowledge_base/words/höja.md",
+      "body": "# höja — verb (grupp 2)\n\n📖 中文：提高；举起；加（息） · English: to raise; to increase\n发音提示：[\"høːja]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| infinitiv | höja |\n| presens | höjer |\n| preteritum | höjde |\n| supinum | höjt |\n| imperativ | höj! |\n\n## 词组搭配 (Collocations)\n\n- `höja räntan` — 加息\n- `höja lönen` — 涨薪\n- `höja rösten` — 提高嗓音\n- `höja skatten` — 提高税率\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det blir ingen höjning nu, men räntan kan komma att höjas senare i år. — 🇨🇳 现在不加息，但利率今年晚些时候可能会上调。\n- 🇸🇪 Regeringen vill höja lönen för lärarna. — 🇨🇳 政府希望给教师涨薪。\n- 🇸🇪 Han höjde rösten för att alla skulle höra. — 🇨🇳 他提高了嗓音，让所有人都能听见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höjning（名词，提高/加息）、höjd（高度，形容词\"高的\"）\n- 同义词: [[öka]]（增加）\n- 反义词: sänka（降低）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *höja* 是及物动词，需要宾语：*höja räntan*（提高利率）。\n- 被动形式 *höjas*（被提高）：*räntan kan höjas*（利率可能被上调）。",
+      "excerpt": "höja — verb (grupp 2) 📖 中文：提高；举起；加（息） · English: to raise; to increase 发音提示：[\"høːja] 语法变形 (Forms) form exempel infinitiv höja presens höjer preteritum höjde supinum höjt imperativ höj! 词组搭配 (Collocations) höja räntan — ",
+      "forms": [
+        "höja",
+        "höjer",
+        "höjde",
+        "höjt",
+        "höj!"
+      ],
+      "links": [
+        "öka",
+        "sent-det-blir-ingen-hojning-nu-men-rantan",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "höja höja knowledge_base/words/höja.md ---\ntype: word\nlemma: \"höja\"\nordklass: verb\nverbgrupp: \"2\"\ncefr: A2\nzh: \"提高；举起；加（息）\"\nen: \"to raise; to increase\"\nsynonyms:\n  - \"[[öka]]\"\nantonyms: []\nfamily: []\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-det-blir-ingen-hojning-nu-men-rantan]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# höja — verb (grupp 2)\n\n📖 中文：提高；举起；加（息） · English: to raise; to increase\n发音提示：[\"høːja]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| infinitiv | höja |\n| presens | höjer |\n| preteritum | höjde |\n| supinum | höjt |\n| imperativ | höj! |\n\n## 词组搭配 (Collocations)\n\n- `höja räntan` — 加息\n- `höja lönen` — 涨薪\n- `höja rösten` — 提高嗓音\n- `höja skatten` — 提高税率\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det blir ingen höjning nu, men räntan kan komma att höjas senare i år. — 🇨🇳 现在不加息，但利率今年晚些时候可能会上调。\n- 🇸🇪 Regeringen vill höja lönen för lärarna. — 🇨🇳 政府希望给教师涨薪。\n- 🇸🇪 Han höjde rösten för att alla skulle höra. — 🇨🇳 他提高了嗓音，让所有人都能听见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höjning（名词，提高/加息）、höjd（高度，形容词\"高的\"）\n- 同义词: [[öka]]（增加）\n- 反义词: sänka（降低）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *höja* 是及物动词，需要宾语：*höja räntan*（提高利率）。\n- 被动形式 *höjas*（被提高）：*räntan kan höjas*（利率可能被上调）。\n",
+      "lemma": "höja",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "提高；举起；加（息）",
+      "en": "to raise; to increase",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-det-blir-ingen-hojning-nu-men-rantan]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "sent-det-blir-ingen-hojning-nu-men-rantan",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "höna",
       "type": "word",
       "title": "höna",
@@ -38520,7 +40765,9 @@ window.KB_DATA = {
         "topic-samhälle-och-politik"
       ],
       "backlinks": [
+        "sent-ledare-fran-olika-lander-har-samlats",
         "sent-nyligen-hade-ländernas-ledare",
+        "sent-till-evian-i-frankrike-nu",
         "sent-ukrainas-ledare-volodymyr-zelenskyj",
         "source-2026-06-18-nyheter-8sidor"
       ]
@@ -39402,6 +41649,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "njure",
+        "sent-i-norge-har-kronprinsessan-mette-marit",
         "topic-kropp"
       ]
     },
@@ -40761,6 +43009,8 @@ window.KB_DATA = {
         "topic-arbete"
       ],
       "backlinks": [
+        "sent-bland-annat-har-ukrainas-president-zelenskyj",
+        "sent-haft-mote-med-usas-president-donald-trump",
         "sent-nyligen-hade-ländernas-ledare",
         "sent-ukrainas-ledare-volodymyr-zelenskyj",
         "source-2026-06-18-nyheter-8sidor"
@@ -41857,6 +44107,51 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "öka",
+      "type": "word",
+      "title": "öka",
+      "path": "knowledge_base/words/öka.md",
+      "body": "# öka — verb (grupp 2)\n\n📖 中文：增加；增长 · English: to increase\n发音提示：[\"øːka]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| infinitiv | öka |\n| presens | ökar |\n| preteritum | ökade |\n| supinum | ökat |\n| imperativ | öka! |\n\n## 词组搭配 (Collocations)\n\n- `öka med X %` — 增长了 X%\n- `öka kraftigt` — 大幅增长\n- `antalet ökade` — 数量增加了\n\n## 例句 (Sentences)\n\n- 🇸🇪 Förra året ökade besöken till akuten med 3 %. — 🇨🇳 去年急诊就诊量增长了 3%。\n- 🇸🇪 Den totala tiden personer är på akuten ökade också. — 🇨🇳 人们待在急诊的总时长也增加了。\n- 🇸🇪 Temperaturen ökar varje år på grund av klimatförändringarna. — 🇨🇳 由于气候变化，气温每年都在升高。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ökning（名词，增长）\n- 同义词: [[stiga]]（上升）\n- 反义词: minska（减少）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *öka* 是不及物动词（intransitivt），主语是增加的事物本身。\n- 搭配 *med*：*öka med 10 %*（增加 10%）。",
+      "excerpt": "öka — verb (grupp 2) 📖 中文：增加；增长 · English: to increase 发音提示：[\"øːka] 语法变形 (Forms) form exempel infinitiv öka presens ökar preteritum ökade supinum ökat imperativ öka! 词组搭配 (Collocations) öka med X % — 增长了 X% öka kraftigt",
+      "forms": [
+        "öka",
+        "ökar",
+        "ökade",
+        "ökat",
+        "öka!"
+      ],
+      "links": [
+        "minska",
+        "sent-den-totala-tiden-personer-ar-pa-akuten",
+        "sent-forra-aret-okade-besoken-till-akuten",
+        "stiga",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "öka öka knowledge_base/words/öka.md ---\ntype: word\nlemma: \"öka\"\nordklass: verb\nverbgrupp: \"2\"\ncefr: A2\nzh: \"增加；增长\"\nen: \"to increase\"\nsynonyms:\n  - \"[[stiga]]\"\nantonyms:\n  - \"[[minska]]\"\nfamily: []\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-forra-aret-okade-besoken-till-akuten]]\"\n  - \"[[sent-den-totala-tiden-personer-ar-pa-akuten]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# öka — verb (grupp 2)\n\n📖 中文：增加；增长 · English: to increase\n发音提示：[\"øːka]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| infinitiv | öka |\n| presens | ökar |\n| preteritum | ökade |\n| supinum | ökat |\n| imperativ | öka! |\n\n## 词组搭配 (Collocations)\n\n- `öka med X %` — 增长了 X%\n- `öka kraftigt` — 大幅增长\n- `antalet ökade` — 数量增加了\n\n## 例句 (Sentences)\n\n- 🇸🇪 Förra året ökade besöken till akuten med 3 %. — 🇨🇳 去年急诊就诊量增长了 3%。\n- 🇸🇪 Den totala tiden personer är på akuten ökade också. — 🇨🇳 人们待在急诊的总时长也增加了。\n- 🇸🇪 Temperaturen ökar varje år på grund av klimatförändringarna. — 🇨🇳 由于气候变化，气温每年都在升高。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ökning（名词，增长）\n- 同义词: [[stiga]]（上升）\n- 反义词: minska（减少）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *öka* 是不及物动词（intransitivt），主语是增加的事物本身。\n- 搭配 *med*：*öka med 10 %*（增加 10%）。\n",
+      "lemma": "öka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "增加；增长",
+      "en": "to increase",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-forra-aret-okade-besoken-till-akuten]]",
+        "[[sent-den-totala-tiden-personer-ar-pa-akuten]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "halvera",
+        "höja",
+        "sent-den-totala-tiden-personer-ar-pa-akuten",
+        "sent-forra-aret-okade-besoken-till-akuten",
+        "source-2026-06-17-listening-svt-latt",
+        "växa"
+      ]
+    },
+    {
       "slug": "okänd",
       "type": "word",
       "title": "okänd",
@@ -42263,9 +44558,11 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "andas-ut",
+        "bekymmersam",
         "lugn",
         "oro",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
+        "sent-det-har-varit-oroligt-kring-norges-kungahus",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-09-en-handelse-i-tidsordning",
@@ -43018,6 +45315,7 @@ window.KB_DATA = {
         "topic-hälsa"
       ],
       "backlinks": [
+        "sent-langst-tid-pa-akuten-hade-patienter-i-region-skane",
         "source-2026-06-07-kropp-halsa",
         "topic-hälsa",
         "topic-kropp"
@@ -44162,6 +46460,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "ränta",
+      "type": "word",
+      "title": "ränta",
+      "path": "knowledge_base/words/ränta.md",
+      "body": "# ränta — substantiv (en)\n\n📖 中文：利率；利息 · English: interest rate; interest\n发音提示：[\"rɛnta]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | en ränta |\n| bestämd sg | räntan |\n| obestämd pl | räntor |\n| bestämd pl | räntorna |\n\n## 词组搭配 (Collocations)\n\n- `höja räntan` — 加息；提高利率\n- `sänka räntan` — 降息；降低利率\n- `styrränta` — 基准利率（央行政策利率）\n- `betala ränta` — 支付利息\n\n## 例句 (Sentences)\n\n- 🇸🇪 Idag kom besked från Riksbanken om räntan. — 🇨🇳 今天中央银行公布了利率的消息。\n- 🇸🇪 Det blir ingen höjning nu, men räntan kan komma att höjas senare i år. — 🇨🇳 现在不加息，但利率今年晚些时候可能会上调。\n- 🇸🇪 Riksbanken sänkte räntan förra månaden. — 🇨🇳 中央银行上个月降息了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: räntehöjning（加息）、räntesänkning（降息）、räntekostnad（利息成本）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *räntan*（定形）= 那个利率，通常指当前央行基准利率，新闻中极常见。\n- 区分 *ränta*（利率/利息）和 *pris*（价格）。",
+      "excerpt": "ränta — substantiv (en) 📖 中文：利率；利息 · English: interest rate; interest 发音提示：[\"rɛnta] 语法变形 (Forms) form exempel obestämd sg en ränta bestämd sg räntan obestämd pl räntor bestämd pl räntorna 词组搭配 (Collocations) höja räntan",
+      "forms": [
+        "ränta",
+        "räntan",
+        "räntor",
+        "räntorna"
+      ],
+      "links": [
+        "sent-det-blir-ingen-hojning-nu-men-rantan",
+        "sent-idag-kom-besked-fran-riksbanken-om-rantan",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "ränta ränta knowledge_base/words/ränta.md ---\ntype: word\nlemma: \"ränta\"\nordklass: substantiv\ngenus: en\ncefr: B1\nzh: \"利率；利息\"\nen: \"interest rate; interest\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-idag-kom-besked-fran-riksbanken-om-rantan]]\"\n  - \"[[sent-det-blir-ingen-hojning-nu-men-rantan]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ränta — substantiv (en)\n\n📖 中文：利率；利息 · English: interest rate; interest\n发音提示：[\"rɛnta]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | en ränta |\n| bestämd sg | räntan |\n| obestämd pl | räntor |\n| bestämd pl | räntorna |\n\n## 词组搭配 (Collocations)\n\n- `höja räntan` — 加息；提高利率\n- `sänka räntan` — 降息；降低利率\n- `styrränta` — 基准利率（央行政策利率）\n- `betala ränta` — 支付利息\n\n## 例句 (Sentences)\n\n- 🇸🇪 Idag kom besked från Riksbanken om räntan. — 🇨🇳 今天中央银行公布了利率的消息。\n- 🇸🇪 Det blir ingen höjning nu, men räntan kan komma att höjas senare i år. — 🇨🇳 现在不加息，但利率今年晚些时候可能会上调。\n- 🇸🇪 Riksbanken sänkte räntan förra månaden. — 🇨🇳 中央银行上个月降息了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: räntehöjning（加息）、räntesänkning（降息）、räntekostnad（利息成本）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *räntan*（定形）= 那个利率，通常指当前央行基准利率，新闻中极常见。\n- 区分 *ränta*（利率/利息）和 *pris*（价格）。\n",
+      "lemma": "ränta",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "利率；利息",
+      "en": "interest rate; interest",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-idag-kom-besked-fran-riksbanken-om-rantan]]",
+        "[[sent-det-blir-ingen-hojning-nu-men-rantan]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "sent-det-blir-ingen-hojning-nu-men-rantan",
+        "sent-idag-kom-besked-fran-riksbanken-om-rantan",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "rast",
       "type": "word",
       "title": "rast",
@@ -44338,9 +46675,13 @@ window.KB_DATA = {
         "topic-samhälle-och-politik"
       ],
       "backlinks": [
+        "förlora-makten",
         "index",
+        "sent-att-regeringen-forlorar-makten-efter-valet",
+        "sent-politik-nu-en-stor-del-av-valjarna",
         "sent-regeringen-vill-halvera-priset",
         "source-2026-06-04-nyheter-vecka-22",
+        "source-2026-06-17-listening-svt-latt",
         "topic-nyheter-vecka22",
         "topic-samhälle-och-politik"
       ]
@@ -45049,6 +47390,7 @@ window.KB_DATA = {
         "medborgare",
         "röst",
         "rösta-om",
+        "sent-55-procent-tror-att-oppositionen-far-flest",
         "sent-den-fragan-ska-invanarna-i-alberta",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22",
@@ -46409,6 +48751,45 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-deponensverb",
         "source-2026-06-10-zlatan-subst-verb"
+      ]
+    },
+    {
+      "slug": "skillnad",
+      "type": "word",
+      "title": "skillnad",
+      "path": "knowledge_base/words/skillnad.md",
+      "body": "# skillnad — substantiv (en)\n\n📖 中文：差别；区别 · English: difference\n发音提示：[\"ʃɪlˌnad]，sh-音开头\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | en skillnad |\n| bestämd sg | skillnaden |\n| obestämd pl | skillnader |\n| bestämd pl | skillnaderna |\n\n## 词组搭配 (Collocations)\n\n- `stor skillnad` — 很大的差别\n- `skillnad på / mellan` — ……之间的差别\n- `det är skillnad på X och Y` — X 和 Y 有区别\n- `ingen skillnad` — 没有区别\n\n## 例句 (Sentences)\n\n- 🇸🇪 Dessutom är det stor skillnad på hur länge man får vänta i olika delar av landet. — 🇨🇳 此外，在全国不同地区，等待时间差别很大。\n- 🇸🇪 Det finns stora skillnader beroende var i landet man bor. — 🇨🇳 差异很大，取决于你住在全国哪个地方。\n- 🇸🇪 Vad är skillnaden mellan dessa två ord? — 🇨🇳 这两个词有什么区别？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: skilja（区分）、skild（分开的）\n- 同义词: olikhet（不同）\n- 反义词: likhet（相似）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常用短语 *det är skillnad på X och Y*（X 和 Y 是有区别的）。\n- 与英语 *difference* 用法高度对应。",
+      "excerpt": "skillnad — substantiv (en) 📖 中文：差别；区别 · English: difference 发音提示：[\"ʃɪlˌnad]，sh 音开头 语法变形 (Forms) form exempel obestämd sg en skillnad bestämd sg skillnaden obestämd pl skillnader bestämd pl skillnaderna 词组搭配 (Collocation",
+      "forms": [
+        "skillnad",
+        "skillnaden",
+        "skillnader",
+        "skillnaderna"
+      ],
+      "links": [
+        "sent-dessutom-ar-det-stor-skillnad-pa",
+        "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "skillnad skillnad knowledge_base/words/skillnad.md ---\ntype: word\nlemma: \"skillnad\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: \"差别；区别\"\nen: \"difference\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-dessutom-ar-det-stor-skillnad-pa]]\"\n  - \"[[sent-men-statistiken-visar-att-det-finns-stora-skillnader]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skillnad — substantiv (en)\n\n📖 中文：差别；区别 · English: difference\n发音提示：[\"ʃɪlˌnad]，sh-音开头\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | en skillnad |\n| bestämd sg | skillnaden |\n| obestämd pl | skillnader |\n| bestämd pl | skillnaderna |\n\n## 词组搭配 (Collocations)\n\n- `stor skillnad` — 很大的差别\n- `skillnad på / mellan` — ……之间的差别\n- `det är skillnad på X och Y` — X 和 Y 有区别\n- `ingen skillnad` — 没有区别\n\n## 例句 (Sentences)\n\n- 🇸🇪 Dessutom är det stor skillnad på hur länge man får vänta i olika delar av landet. — 🇨🇳 此外，在全国不同地区，等待时间差别很大。\n- 🇸🇪 Det finns stora skillnader beroende var i landet man bor. — 🇨🇳 差异很大，取决于你住在全国哪个地方。\n- 🇸🇪 Vad är skillnaden mellan dessa två ord? — 🇨🇳 这两个词有什么区别？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: skilja（区分）、skild（分开的）\n- 同义词: olikhet（不同）\n- 反义词: likhet（相似）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常用短语 *det är skillnad på X och Y*（X 和 Y 是有区别的）。\n- 与英语 *difference* 用法高度对应。\n",
+      "lemma": "skillnad",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "差别；区别",
+      "en": "difference",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-dessutom-ar-det-stor-skillnad-pa]]",
+        "[[sent-men-statistiken-visar-att-det-finns-stora-skillnader]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "sent-dessutom-ar-det-stor-skillnad-pa",
+        "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -48180,6 +50561,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "statistik",
+      "type": "word",
+      "title": "statistik",
+      "path": "knowledge_base/words/statistik.md",
+      "body": "# statistik — substantiv (en)\n\n📖 中文：统计；统计数据 · English: statistics\n发音提示：[sta.tɪ.\"stiːk]，重音在最后音节\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | statistik（不可数用法，通常不加冠词）|\n| bestämd sg | statistiken |\n| plural | statistiker（统计学家）/ statistiska uppgifter（统计数据，用其他表达）|\n\n> *statistik* 作\"统计数据\"时通常不可数，如 *ny statistik visar att…*\n\n## 词组搭配 (Collocations)\n\n- `ny statistik visar` — 新的统计数据显示\n- `statistik från Socialstyrelsen` — 来自社会局的统计数据\n- `enligt statistiken` — 根据统计数据\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det visar ny statistik från Socialstyrelsen. — 🇨🇳 这是国家卫生与福利署的新统计数据显示的。\n- 🇸🇪 Statistiken visar att skillnaderna är stora. — 🇨🇳 统计数据显示差异很大。\n- 🇸🇪 Enligt statistiken ökar antalet sjuka. — 🇨🇳 根据统计，患病人数在增加。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: statistisk（形容词，统计的）、statistiker（统计学家）\n- 同义词: data（数据）、siffror（数字）\n- 反义词: —\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常见搭配：*statistiken visar att…*（统计显示……）。\n- 注意与英语类似，但在瑞典语中通常作单数不可数名词使用。",
+      "excerpt": "statistik — substantiv (en) 📖 中文：统计；统计数据 · English: statistics 发音提示：[sta.tɪ.\"stiːk]，重音在最后音节 语法变形 (Forms) form exempel obestämd sg statistik（不可数用法，通常不加冠词） bestämd sg statistiken plural statistiker（统计学家）/ statistiska uppg",
+      "forms": [
+        "statistik（不可数用法，通常不加冠词）",
+        "statistiken",
+        "statistiker（统计学家）",
+        "statistiska uppgifter（统计数据，用其他表达）"
+      ],
+      "links": [
+        "sent-det-visar-ny-statistik-fran-socialstyrelsen",
+        "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "statistik statistik knowledge_base/words/statistik.md ---\ntype: word\nlemma: \"statistik\"\nordklass: substantiv\ngenus: en\ncefr: B1\nzh: \"统计；统计数据\"\nen: \"statistics\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-det-visar-ny-statistik-fran-socialstyrelsen]]\"\n  - \"[[sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# statistik — substantiv (en)\n\n📖 中文：统计；统计数据 · English: statistics\n发音提示：[sta.tɪ.\"stiːk]，重音在最后音节\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | statistik（不可数用法，通常不加冠词）|\n| bestämd sg | statistiken |\n| plural | statistiker（统计学家）/ statistiska uppgifter（统计数据，用其他表达）|\n\n> *statistik* 作\"统计数据\"时通常不可数，如 *ny statistik visar att…*\n\n## 词组搭配 (Collocations)\n\n- `ny statistik visar` — 新的统计数据显示\n- `statistik från Socialstyrelsen` — 来自社会局的统计数据\n- `enligt statistiken` — 根据统计数据\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det visar ny statistik från Socialstyrelsen. — 🇨🇳 这是国家卫生与福利署的新统计数据显示的。\n- 🇸🇪 Statistiken visar att skillnaderna är stora. — 🇨🇳 统计数据显示差异很大。\n- 🇸🇪 Enligt statistiken ökar antalet sjuka. — 🇨🇳 根据统计，患病人数在增加。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: statistisk（形容词，统计的）、statistiker（统计学家）\n- 同义词: data（数据）、siffror（数字）\n- 反义词: —\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常见搭配：*statistiken visar att…*（统计显示……）。\n- 注意与英语类似，但在瑞典语中通常作单数不可数名词使用。\n",
+      "lemma": "statistik",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "统计；统计数据",
+      "en": "statistics",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-det-visar-ny-statistik-fran-socialstyrelsen]]",
+        "[[sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "i-genomsnitt",
+        "sent-det-visar-ny-statistik-fran-socialstyrelsen",
+        "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
+        "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
+        "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "stiga",
       "type": "word",
       "title": "stiga",
@@ -48216,8 +50638,11 @@ window.KB_DATA = {
         "topic-vardagsrutin"
       ],
       "backlinks": [
+        "öka",
+        "sent-detta-beror-pa-att-nivan-pa-varldens-hav",
         "sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "source-2026-06-17-listening-svt-latt",
         "topic-vardagsrutin"
       ]
     },
@@ -49709,6 +52134,7 @@ window.KB_DATA = {
         "topic-fritid-och-resor"
       ],
       "backlinks": [
+        "sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80",
         "sent-manga-svenskar-tar-semester-tillbringar",
         "source-2026-06-16-vadret-och-arstiderna",
         "topic-vader-och-arstider"
@@ -51533,9 +53959,14 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "byteskö",
+        "förlora-makten",
         "index",
+        "sent-att-regeringen-forlorar-makten-efter-valet",
         "sent-bra-val-vill-du-ha-efterrätt",
-        "source-2026-06-03-sundbyberg-forskola"
+        "sent-politik-nu-en-stor-del-av-valjarna",
+        "source-2026-06-03-sundbyberg-forskola",
+        "source-2026-06-17-listening-svt-latt",
+        "väljare"
       ]
     },
     {
@@ -51567,6 +53998,43 @@ window.KB_DATA = {
         "ju",
         "nog",
         "topic-satsadverbial"
+      ]
+    },
+    {
+      "slug": "väljare",
+      "type": "word",
+      "title": "väljare",
+      "path": "knowledge_base/words/väljare.md",
+      "body": "# väljare — substantiv (en)\n\n📖 中文：选民 · English: voter\n发音提示：[\"vɛlˌjare]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | en väljare |\n| bestämd sg | väljaren |\n| obestämd pl | väljare（同形）|\n| bestämd pl | väljarna |\n\n## 词组搭配 (Collocations)\n\n- `en stor del av väljarna` — 很大一部分选民\n- `svenska väljare` — 瑞典选民\n- `väljarna bestämmer` — 选民决定\n\n## 例句 (Sentences)\n\n- 🇸🇪 En stor del av väljarna räknar med att regeringen förlorar makten. — 🇨🇳 很大一部分选民预计政府将失去执政权。\n- 🇸🇪 Väljarna röstar i september. — 🇨🇳 选民在九月投票。\n- 🇸🇪 Vad tycker väljarna om den nya lagen? — 🇨🇳 选民对新法律怎么看？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[val]]（选举）、rösta（投票）\n- 同义词: röstberättigad（有投票权的人）\n- 反义词: —\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *väljare* 的复数形式与单数相同（-are 结尾的词规律）。\n- 来自动词 *välja*（选择），väljare = 做出选择的人。",
+      "excerpt": "väljare — substantiv (en) 📖 中文：选民 · English: voter 发音提示：[\"vɛlˌjare] 语法变形 (Forms) form exempel obestämd sg en väljare bestämd sg väljaren obestämd pl väljare（同形） bestämd pl väljarna 词组搭配 (Collocations) en stor del av väl",
+      "forms": [
+        "väljare",
+        "väljaren",
+        "väljare（同形）",
+        "väljarna"
+      ],
+      "links": [
+        "sent-politik-nu-en-stor-del-av-valjarna",
+        "topic-samhälle-och-politik",
+        "val"
+      ],
+      "searchText": "väljare väljare knowledge_base/words/väljare.md ---\ntype: word\nlemma: \"väljare\"\nordklass: substantiv\ngenus: en\ncefr: B1\nzh: \"选民\"\nen: \"voter\"\nsynonyms: []\nantonyms: []\nfamily:\n  - \"[[val]]\"\ntopics:\n  - \"[[topic-samhälle-och-politik]]\"\nsentences:\n  - \"[[sent-politik-nu-en-stor-del-av-valjarna]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# väljare — substantiv (en)\n\n📖 中文：选民 · English: voter\n发音提示：[\"vɛlˌjare]\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | en väljare |\n| bestämd sg | väljaren |\n| obestämd pl | väljare（同形）|\n| bestämd pl | väljarna |\n\n## 词组搭配 (Collocations)\n\n- `en stor del av väljarna` — 很大一部分选民\n- `svenska väljare` — 瑞典选民\n- `väljarna bestämmer` — 选民决定\n\n## 例句 (Sentences)\n\n- 🇸🇪 En stor del av väljarna räknar med att regeringen förlorar makten. — 🇨🇳 很大一部分选民预计政府将失去执政权。\n- 🇸🇪 Väljarna röstar i september. — 🇨🇳 选民在九月投票。\n- 🇸🇪 Vad tycker väljarna om den nya lagen? — 🇨🇳 选民对新法律怎么看？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[val]]（选举）、rösta（投票）\n- 同义词: röstberättigad（有投票权的人）\n- 反义词: —\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *väljare* 的复数形式与单数相同（-are 结尾的词规律）。\n- 来自动词 *välja*（选择），väljare = 做出选择的人。\n",
+      "lemma": "väljare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "选民",
+      "en": "voter",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-politik-nu-en-stor-del-av-valjarna]]"
+      ],
+      "topics": [
+        "[[topic-samhälle-och-politik]]"
+      ],
+      "backlinks": [
+        "sent-politik-nu-en-stor-del-av-valjarna",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
@@ -51866,12 +54334,54 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "oväntad",
+        "sent-dessutom-ar-det-stor-skillnad-pa",
+        "sent-hur-lange-man-far-vanta-i-olika-delar",
+        "sent-kvinnor-far-vanta-langre-an-man",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
         "sent-nagra-manniskor-vantar-cyklister-stannar-trafikljuset",
+        "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
         "sent-vi-vantar-pa-dig",
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-09-en-handelse-i-tidsordning",
-        "topic-vardagsrutin"
+        "topic-vardagsrutin",
+        "väntetid"
+      ]
+    },
+    {
+      "slug": "väntetid",
+      "type": "word",
+      "title": "väntetid",
+      "path": "knowledge_base/words/väntetid.md",
+      "body": "# väntetid — substantiv (en)\n\n📖 中文：等待时间 · English: waiting time\n发音提示：[\"vɛntɛˌtiːd]，复合词，两个重音\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | en väntetid |\n| bestämd sg | väntetiden |\n| obestämd pl | väntetider |\n| bestämd pl | väntetiderna |\n\n## 词组搭配 (Collocations)\n\n- `korta väntetider` — 短暂的等待时间\n- `långa väntetider` — 漫长的等待时间\n- `minska väntetiderna` — 缩短等待时间\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi håller korta väntetider i jämförelse med nationella tal. — 🇨🇳 与全国数字相比，我们把等待时间控制得很短。\n- 🇸🇪 Väntetiden på akuten var fyra timmar. — 🇨🇳 急诊的等待时间是四个小时。\n- 🇸🇪 Långa väntetider är ett problem i sjukvården. — 🇨🇳 漫长的等待时间是医疗系统中的一个问题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vänta]]（等待）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词 = vänta（等待）+ tid（时间）。\n- 在医疗语境中极常见，尤其讨论 akuten 或手术排队时。",
+      "excerpt": "väntetid — substantiv (en) 📖 中文：等待时间 · English: waiting time 发音提示：[\"vɛntɛˌtiːd]，复合词，两个重音 语法变形 (Forms) form exempel obestämd sg en väntetid bestämd sg väntetiden obestämd pl väntetider bestämd pl väntetiderna 词组搭配 (Collo",
+      "forms": [
+        "väntetid",
+        "väntetiden",
+        "väntetider",
+        "väntetiderna"
+      ],
+      "links": [
+        "sent-och-haller-korta-vantetider-i-jamforelse",
+        "topic-hälsa",
+        "vänta"
+      ],
+      "searchText": "väntetid väntetid knowledge_base/words/väntetid.md ---\ntype: word\nlemma: \"väntetid\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: \"等待时间\"\nen: \"waiting time\"\nsynonyms: []\nantonyms: []\nfamily:\n  - \"[[vänta]]\"\ntopics:\n  - \"[[topic-hälsa]]\"\nsentences:\n  - \"[[sent-och-haller-korta-vantetider-i-jamforelse]]\"\nknown: false\ncreated: \"2026-06-17\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# väntetid — substantiv (en)\n\n📖 中文：等待时间 · English: waiting time\n发音提示：[\"vɛntɛˌtiːd]，复合词，两个重音\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | en väntetid |\n| bestämd sg | väntetiden |\n| obestämd pl | väntetider |\n| bestämd pl | väntetiderna |\n\n## 词组搭配 (Collocations)\n\n- `korta väntetider` — 短暂的等待时间\n- `långa väntetider` — 漫长的等待时间\n- `minska väntetiderna` — 缩短等待时间\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi håller korta väntetider i jämförelse med nationella tal. — 🇨🇳 与全国数字相比，我们把等待时间控制得很短。\n- 🇸🇪 Väntetiden på akuten var fyra timmar. — 🇨🇳 急诊的等待时间是四个小时。\n- 🇸🇪 Långa väntetider är ett problem i sjukvården. — 🇨🇳 漫长的等待时间是医疗系统中的一个问题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vänta]]（等待）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词 = vänta（等待）+ tid（时间）。\n- 在医疗语境中极常见，尤其讨论 akuten 或手术排队时。\n",
+      "lemma": "väntetid",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "等待时间",
+      "en": "waiting time",
+      "created": "2026-06-17",
+      "known": false,
+      "sentences": [
+        "[[sent-och-haller-korta-vantetider-i-jamforelse]]"
+      ],
+      "topics": [
+        "[[topic-hälsa]]"
+      ],
+      "backlinks": [
+        "sent-och-haller-korta-vantetider-i-jamforelse",
+        "source-2026-06-17-listening-svt-latt"
       ]
     },
     {
