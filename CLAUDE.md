@@ -256,6 +256,11 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点击跳转 + 播放时自动高亮跟随**、
 🇸🇪 原文 / 🇨🇳 翻译显隐(盲听 = 隐藏原文，仅当前句揭示)、🔁 单句循环、0.75/1/1.25× 倍速、生词卡。
 
+**每日自动抓取(routine)：** `scripts/daily-listening.ps1`(UTF-8 BOM)headless 跑 `/dagens-horovning`
+(allowedTools 含 `WebSearch,WebFetch,Bash`)→ 重建听力数据 → 有新一集则 `tools/sync-kb.ps1` push → Windows toast。
+触发器 = Claude Code scheduled task **`svensk-horning-daily`**，cron `30 18 * * *`(SVT ~17:15 播完后)。日志 `scripts/listening-run.log`。
+`tools/sync-kb.ps1` 已把 `listening/` + `site/listening/listening-data.js` 纳入重建与暂存，所以 `/sync` 也会带上听力数据。
+
 **只存元数据 + 我生成的译文/生词**：音频、字幕**实时从 SVT CDN 取**，不下载、不转存(版权安全)。
 媒体 URL 仅在该集可看期(~1 周)内有效，过期后站点提示并回退到「📺 在 SVT Play 看」。
 

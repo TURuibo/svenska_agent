@@ -52,9 +52,13 @@ Write-Host "==> Rebuilding site/reading/reading-data.js" -ForegroundColor Cyan
 & node (Join-Path $PSScriptRoot "build-reading-site.js")
 if ($LASTEXITCODE -ne 0) { throw "build-reading-site.js failed (exit $LASTEXITCODE)" }
 
+Write-Host "==> Rebuilding site/listening/listening-data.js" -ForegroundColor Cyan
+& node (Join-Path $PSScriptRoot "build-listening-site.js")
+if ($LASTEXITCODE -ne 0) { throw "build-listening-site.js failed (exit $LASTEXITCODE)" }
+
 # 3. Stage only content paths that exist
-$paths = @(".gitattributes", "knowledge_base", "imported", "review/schedule.md", "profile",
-           "site/kb-data.js", "site/reading/reading-data.js", "tools") |
+$paths = @(".gitattributes", "knowledge_base", "imported", "listening", "review/schedule.md", "profile",
+           "site/kb-data.js", "site/reading/reading-data.js", "site/listening/listening-data.js", "tools") |
     Where-Object { Test-Path $_ }
 git add -- $paths
 
