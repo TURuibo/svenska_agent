@@ -1,6 +1,527 @@
 window.LISTENING_DATA = {
-  "generatedAt": "2026-06-18 16:08:37",
+  "generatedAt": "2026-06-18 18:51:34",
   "episodes": [
+    {
+      "id": "egWWNBk",
+      "file": "svt-latt-2026-06-18.json",
+      "date": "2026-06-18",
+      "title": "Nyheter på lätt svenska — 18 jun",
+      "source": "SVT Nyheter på lätt svenska",
+      "cefr": "A2–B1",
+      "duration": 272,
+      "svtPlayUrl": "https://www.svtplay.se/video/egWWNBk/nyheter-pa-latt-svenska",
+      "hlsUrl": "https://svt-vod-8l.akamaized.net/d0/world/20260618/f22fe3a3-3158-4ba6-b8f0-d5bcb6e5a3cd/hls-cmaf-full.m3u8",
+      "vttUrl": "https://svt-vod-8l.akamaized.net/d0/world/20260618/f22fe3a3-3158-4ba6-b8f0-d5bcb6e5a3cd/text/text-auto.vtt",
+      "cueCount": 53,
+      "vocabCount": 15,
+      "cues": [
+        {
+          "start": 13.04,
+          "end": 16.52,
+          "sv": "Hej och välkommen till Nyheter på lätt svenska.",
+          "zh": "你好，欢迎收看《简易瑞典语新闻》。"
+        },
+        {
+          "start": 16.72,
+          "end": 20.8,
+          "sv": "USA:s och Irans presidenter har skrivit under ett avtal.",
+          "zh": "美国和伊朗的总统签署了一项协议。"
+        },
+        {
+          "start": 21,
+          "end": 28,
+          "sv": "De lovar att sluta kriga i 60 dagar. Även striderna i Libanon ska pausas.",
+          "zh": "他们承诺停战 60 天。黎巴嫩的战斗也将暂停。"
+        },
+        {
+          "start": 28.16,
+          "end": 35.2,
+          "sv": "Iran ska öppna sundet i Hormuz genast så att fartyg kan börja åka igen.",
+          "zh": "伊朗将立即开放霍尔木兹海峡，让船只能重新通行。"
+        },
+        {
+          "start": 35.4,
+          "end": 40.16,
+          "sv": "I avtalet lovar Iran bland annat att inte ha kärnvapen.",
+          "zh": "在协议中，伊朗承诺的内容之一是不拥有核武器。"
+        },
+        {
+          "start": 40.36,
+          "end": 45,
+          "sv": "Och USA lovar att sluta med ekonomiska straff mot Iran.",
+          "zh": "而美国承诺停止对伊朗的经济制裁。"
+        },
+        {
+          "start": 45.16,
+          "end": 50.56,
+          "sv": "Flera experter säger att det är Iran som är vinnare på avtalet.",
+          "zh": "多位专家说，在这份协议中获益的是伊朗。"
+        },
+        {
+          "start": 50.8,
+          "end": 55.88,
+          "sv": "Idag har det varit flera ukrainska attacker med drönare mot Moskva.",
+          "zh": "今天发生了多起乌克兰用无人机对莫斯科的袭击。"
+        },
+        {
+          "start": 56.08,
+          "end": 59.92,
+          "sv": "Tidigt i morse brann det i en byggnad där man hanterar olja.",
+          "zh": "今天清晨，一座处理石油的建筑发生了火灾。"
+        },
+        {
+          "start": 60.12,
+          "end": 64.04,
+          "sv": "Det här rapporterar lokala ryska myndigheter.",
+          "zh": "这是俄罗斯当地当局报道的。"
+        },
+        {
+          "start": 64.2,
+          "end": 68.76,
+          "sv": "Även flera hus med lägenheter verkar ha träffats.",
+          "zh": "多栋公寓楼似乎也被击中。"
+        },
+        {
+          "start": 68.92,
+          "end": 73.32,
+          "sv": "Samtidigt har det under natten varit flera ryska attacker mot Kiev",
+          "zh": "与此同时，夜间发生了多起俄罗斯对基辅的袭击，"
+        },
+        {
+          "start": 73.48,
+          "end": 78.52,
+          "sv": "och hot om attacker mot ukrainska Zaporizjzja.",
+          "zh": "以及对乌克兰扎波罗热的袭击威胁。"
+        },
+        {
+          "start": 78.72,
+          "end": 81.44,
+          "sv": "Nu ska det handla om problem med spel.",
+          "zh": "接下来要谈的是赌博问题。"
+        },
+        {
+          "start": 81.6,
+          "end": 86.56,
+          "sv": "För en av tio unga fotbollsspelare som spelar på elitnivå",
+          "zh": "因为每十名踢精英级别的年轻足球运动员中，就有一人"
+        },
+        {
+          "start": 86.72,
+          "end": 92,
+          "sv": "har problem med spel om pengar. Det här visar en ny undersökning.",
+          "zh": "存在赌钱问题。这是一项新调查显示的。"
+        },
+        {
+          "start": 92.2,
+          "end": 95.68,
+          "sv": "Vi har träffat en av dem som hade såna här problem.",
+          "zh": "我们采访了其中一位曾有这类问题的人。"
+        },
+        {
+          "start": 95.88,
+          "end": 100.96,
+          "sv": "Redan som tonåring blev Babis Stefanidis proffs utomlands.",
+          "zh": "巴比斯·斯特凡尼迪斯十几岁时就已在国外成为职业球员。"
+        },
+        {
+          "start": 101.12,
+          "end": 105.8,
+          "sv": "Sen kom han tillbaka till Sverige och spelade i allsvenskan.",
+          "zh": "后来他回到瑞典，在瑞典超级联赛（Allsvenskan）踢球。"
+        },
+        {
+          "start": 106,
+          "end": 112.8,
+          "sv": "Bakom framgången fanns ett hemligt problem med spelande om pengar.",
+          "zh": "在成功的背后，藏着一个秘密的赌钱问题。"
+        },
+        {
+          "start": 112.96,
+          "end": 116.4,
+          "sv": "Du har mycket tid, du är fotbollsspelare, du har mycket pengar.",
+          "zh": "你有很多时间，你是足球运动员，你有很多钱。"
+        },
+        {
+          "start": 116.56,
+          "end": 120.64,
+          "sv": "Och fotbollsspelare är tränade till att vinna.",
+          "zh": "而足球运动员被训练成要赢。"
+        },
+        {
+          "start": 120.84,
+          "end": 123.84,
+          "sv": "I spelbranschen tror man:",
+          "zh": "在赌博这个行当里，人们会想："
+        },
+        {
+          "start": 124.04,
+          "end": 128.72,
+          "sv": "\"Jag har ju vunnit SM-guld. Klart att jag kan vinna över de här bolagen.\"",
+          "zh": "“我可是拿过瑞典锦标赛金牌，当然能赢过这些公司。”"
+        },
+        {
+          "start": 128.88,
+          "end": 132.12,
+          "sv": "\"Snart kommer det att vända. Men det gör inte det.\"",
+          "zh": "“很快就会翻盘。但其实并不会。”"
+        },
+        {
+          "start": 132.36,
+          "end": 136.52,
+          "sv": "Fler än tre av tio unga manliga elitfotbollsspelare",
+          "zh": "超过十分之三的年轻男性精英足球运动员，"
+        },
+        {
+          "start": 136.72,
+          "end": 141.28,
+          "sv": "har spelat om pengar i nån form det senaste året.",
+          "zh": "在过去一年里以某种形式赌过钱。"
+        },
+        {
+          "start": 141.44,
+          "end": 145.76,
+          "sv": "Det visar en ny undersökning från Karolinska institutet.",
+          "zh": "这是卡罗林斯卡学院（Karolinska institutet）的一项新调查显示的。"
+        },
+        {
+          "start": 145.92,
+          "end": 151.48,
+          "sv": "Och nästan en av tio tros dessutom ha problem med spelandet.",
+          "zh": "此外，估计近十分之一的人有赌博问题。"
+        },
+        {
+          "start": 151.64,
+          "end": 156.84,
+          "sv": "Problemet är också stort bland dem som är under 18 år.",
+          "zh": "在 18 岁以下的人群中，这个问题也很严重。"
+        },
+        {
+          "start": 157.04,
+          "end": 162.08,
+          "sv": "Föreningen Svensk elitfotboll har nu startat utbildningar om spel",
+          "zh": "瑞典精英足球协会现已开设关于赌博的培训课程，"
+        },
+        {
+          "start": 162.28,
+          "end": 164.96,
+          "sv": "för att hjälpa sina medlemmar.",
+          "zh": "以帮助其成员。"
+        },
+        {
+          "start": 165.12,
+          "end": 167.4,
+          "sv": "Det är viktigt att skapa en kultur",
+          "zh": "营造一种文化很重要——"
+        },
+        {
+          "start": 167.6,
+          "end": 170.8,
+          "sv": "där alla har så stor förståelse som möjligt",
+          "zh": "让所有人都尽可能充分地理解，"
+        },
+        {
+          "start": 171,
+          "end": 175.48,
+          "sv": "för att det kan leda till missbruk också. Där har vi jättestort ansvar.",
+          "zh": "因为它也可能导致成瘾。在这方面我们责任重大。"
+        },
+        {
+          "start": 175.64,
+          "end": 181.04,
+          "sv": "Idag är Babis Stefanidis fri från spel, men skulderna finns kvar",
+          "zh": "如今巴比斯·斯特凡尼迪斯已戒掉赌博，但债务依然存在，"
+        },
+        {
+          "start": 181.2,
+          "end": 184.04,
+          "sv": "och han vill varna andra.",
+          "zh": "他想警示他人。"
+        },
+        {
+          "start": 184.2,
+          "end": 190.4,
+          "sv": "Det är inte värt det fram i tiden. Konsekvenserna blir ju enorma.",
+          "zh": "从长远看这并不值得。后果是巨大的。"
+        },
+        {
+          "start": 191.56,
+          "end": 196.76,
+          "sv": "Idag dömdes en av Foxtrots högsta ledare till livstids fängelse.",
+          "zh": "今天，Foxtrot 犯罪团伙的一名最高头目被判处终身监禁。"
+        },
+        {
+          "start": 196.92,
+          "end": 199.84,
+          "sv": "Han heter Poya Shafie och är 30 år.",
+          "zh": "他叫波亚·沙菲（Poya Shafie），30 岁。"
+        },
+        {
+          "start": 200,
+          "end": 203.44,
+          "sv": "Från utlandet beställde han mord och sprängningar",
+          "zh": "他在国外下令实施谋杀和爆炸，"
+        },
+        {
+          "start": 203.6,
+          "end": 207.68,
+          "sv": "när konflikten mellan gängen Foxtrot och Dalennätverket",
+          "zh": "当时 Foxtrot 团伙与 Dalen 网络之间的冲突"
+        },
+        {
+          "start": 207.88,
+          "end": 214.44,
+          "sv": "var som värst under 2023. Han själv har nekat till brotten.",
+          "zh": "在 2023 年最为激烈。他本人否认了这些罪行。"
+        },
+        {
+          "start": 214.6,
+          "end": 218.6,
+          "sv": "Nu ska vi se hur vädret blir under midsommarhelgen:",
+          "zh": "现在来看看仲夏节假期的天气如何："
+        },
+        {
+          "start": 218.76,
+          "end": 223.12,
+          "sv": "Imorgon på midsommarafton, blir det både molnigt och varmt i söder",
+          "zh": "明天仲夏节前夜，南部既多云又温暖，"
+        },
+        {
+          "start": 223.28,
+          "end": 228.36,
+          "sv": "och kanske lite regn. I norr mer moln och regn på vissa platser.",
+          "zh": "可能还有些小雨。北部云更多，部分地区有雨。"
+        },
+        {
+          "start": 228.56,
+          "end": 233.16,
+          "sv": "På midsommardagen blir det varmare och kanske regn norrut i landet.",
+          "zh": "仲夏节当天会更暖，全国北部可能有雨。"
+        },
+        {
+          "start": 233.32,
+          "end": 237.32,
+          "sv": "I söder kommer både regn eller åska som kan vara kraftiga.",
+          "zh": "南部会有雨或雷暴，可能很强。"
+        },
+        {
+          "start": 237.52,
+          "end": 244.12,
+          "sv": "Söndagen blir dock torr och solig i söder och regnigare i norr.",
+          "zh": "不过周日南部干燥晴朗，北部则雨水较多。"
+        },
+        {
+          "start": 244.36,
+          "end": 246.48,
+          "sv": "Det var allt för den här veckan.",
+          "zh": "本周的内容就到这里。"
+        },
+        {
+          "start": 246.68,
+          "end": 249.6,
+          "sv": "Men Nyheter på lätt svenska är tillbaka igen på måndag.",
+          "zh": "但《简易瑞典语新闻》周一会再回来。"
+        },
+        {
+          "start": 249.8,
+          "end": 252.8,
+          "sv": "Då på den nya tiden klockan 17.25.",
+          "zh": "届时改到新的时间，17:25。"
+        },
+        {
+          "start": 253,
+          "end": 257.96,
+          "sv": "Nu önskar vi er alla en riktigt trevlig midsommar. Tack för oss!",
+          "zh": "现在我们祝大家仲夏节快乐。再见！"
+        }
+      ],
+      "vocab": [
+        {
+          "sv": "avtal",
+          "lemma": "avtal",
+          "pos": "subst (ett)",
+          "zh": "协议，合同",
+          "en": "agreement, deal",
+          "slug": "avtal"
+        },
+        {
+          "sv": "kriga",
+          "lemma": "kriga",
+          "pos": "verb",
+          "zh": "打仗，作战",
+          "en": "to wage war",
+          "slug": "kriga"
+        },
+        {
+          "sv": "sundet",
+          "lemma": "sund",
+          "pos": "subst (ett)",
+          "zh": "海峡",
+          "en": "strait, sound",
+          "slug": "sund"
+        },
+        {
+          "sv": "fartyg",
+          "lemma": "fartyg",
+          "pos": "subst (ett)",
+          "zh": "船只，舰船",
+          "en": "vessel, ship",
+          "slug": "fartyg"
+        },
+        {
+          "sv": "kärnvapen",
+          "lemma": "kärnvapen",
+          "pos": "subst (ett)",
+          "zh": "核武器",
+          "en": "nuclear weapon",
+          "slug": "kärnvapen"
+        },
+        {
+          "sv": "straff",
+          "lemma": "straff",
+          "pos": "subst (ett)",
+          "zh": "惩罚；（经济）制裁",
+          "en": "punishment, penalty",
+          "slug": "straff"
+        },
+        {
+          "sv": "drönare",
+          "lemma": "drönare",
+          "pos": "subst (en)",
+          "zh": "无人机",
+          "en": "drone",
+          "slug": "drönare"
+        },
+        {
+          "sv": "brann",
+          "lemma": "brinna",
+          "pos": "verb",
+          "zh": "燃烧，着火",
+          "en": "to burn",
+          "slug": "brinna"
+        },
+        {
+          "sv": "myndigheter",
+          "lemma": "myndighet",
+          "pos": "subst (en)",
+          "zh": "当局，政府部门",
+          "en": "authority",
+          "slug": "myndighet"
+        },
+        {
+          "sv": "undersökning",
+          "lemma": "undersökning",
+          "pos": "subst (en)",
+          "zh": "调查，研究",
+          "en": "survey, study",
+          "slug": "undersökning"
+        },
+        {
+          "sv": "skulderna",
+          "lemma": "skuld",
+          "pos": "subst (en)",
+          "zh": "债务；过错",
+          "en": "debt; guilt",
+          "slug": "skuld"
+        },
+        {
+          "sv": "missbruk",
+          "lemma": "missbruk",
+          "pos": "subst (ett)",
+          "zh": "滥用，成瘾",
+          "en": "abuse, addiction",
+          "slug": "missbruk"
+        },
+        {
+          "sv": "dömdes",
+          "lemma": "döma",
+          "pos": "verb",
+          "zh": "判决，宣判",
+          "en": "to sentence, to judge",
+          "slug": "döma"
+        },
+        {
+          "sv": "sprängningar",
+          "lemma": "sprängning",
+          "pos": "subst (en)",
+          "zh": "爆炸，爆破",
+          "en": "explosion, bombing",
+          "slug": "sprängning"
+        },
+        {
+          "sv": "åska",
+          "lemma": "åska",
+          "pos": "subst (en)",
+          "zh": "雷，雷暴",
+          "en": "thunder",
+          "slug": "åska"
+        }
+      ],
+      "phrases": [
+        {
+          "sv": "skriva under",
+          "lemma": "skriva under",
+          "category": "partikelverb",
+          "zh": "签署，签字",
+          "en": "to sign",
+          "slug": "skriva-under"
+        },
+        {
+          "sv": "spel om pengar",
+          "lemma": "spel om pengar",
+          "category": "uttryck",
+          "zh": "赌博，赌钱",
+          "en": "gambling (for money)",
+          "slug": "spel-om-pengar"
+        },
+        {
+          "sv": "livstids fängelse",
+          "lemma": "livstids fängelse",
+          "category": "uttryck",
+          "zh": "终身监禁",
+          "en": "life imprisonment",
+          "slug": "livstids-fängelse"
+        },
+        {
+          "sv": "neka till brott",
+          "lemma": "neka till brott",
+          "category": "uttryck",
+          "zh": "否认罪行",
+          "en": "to deny the crime(s)",
+          "slug": "neka-till-brott"
+        },
+        {
+          "sv": "vara värt det",
+          "lemma": "vara värt det",
+          "category": "uttryck",
+          "zh": "值得",
+          "en": "to be worth it",
+          "slug": "vara-värt-det"
+        },
+        {
+          "sv": "en av tio",
+          "lemma": "en av tio",
+          "category": "uttryck",
+          "zh": "十分之一",
+          "en": "one in ten",
+          "slug": "en-av-tio"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "s-passiv",
+          "lemma": "s-passiv",
+          "zh": "s-被动语态（pausas, träffats, dömdes 等动词加 -s 表被动）",
+          "en": "s-passive (verb + -s for the passive voice)"
+        },
+        {
+          "name": "perfekt",
+          "lemma": "perfekt",
+          "zh": "现在完成时（har + supinum，如 har skrivit under, har nekat）",
+          "en": "perfect tense (har + supine)",
+          "slug": "grammar-perfekt"
+        }
+      ]
+    },
     {
       "id": "eakkN4D",
       "file": "svt-latt-2026-06-17.json",

@@ -3,7 +3,7 @@ type: topic
 name: "hälsa"
 kind: semantic-field
 zh: "健康"
-members: [sömn, hjärtklappning, oro, energidryck, koffein, patient, kur, sund, kronisk, sjukdom, smittsam, förkylning, smärta, blodig, recept, plåster, apotek, trött, känslig]
+members: [sömn, hjärtklappning, oro, energidryck, koffein, patient, kur, sund, kronisk, sjukdom, smittsam, förkylning, smärta, blodig, recept, plåster, apotek, trött, känslig, missbruk, undersökning]
 created: "2026-06-04"
 ---
 
@@ -44,6 +44,8 @@ created: "2026-06-04"
 - [[energidryck]] — 能量饮料（与健康风险相关）
 - [[koffein]] — 咖啡因
 - [[hälsa]] — 健康（名词义，已有词条）
+- [[missbruk]] — 滥用，成瘾
+- [[undersökning]] — 调查，研究；检查
 
 ## 备注 (Notes)
 
