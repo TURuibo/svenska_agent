@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-17 19:38:46",
+  "generatedAt": "2026-06-18 04:32:35",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -1990,6 +1990,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "phrase": "allt mer",
+      "category": "prepositionsuttryck",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -2020,6 +2021,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "andas ut",
+      "category": "partikelverb",
       "sentences": [
         "sent-antligen-kunde-jag-andas-ut"
       ],
@@ -2054,6 +2056,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "anmäla förlusten",
+      "category": "vardagsfras",
       "sentences": [
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten"
       ],
@@ -2090,6 +2093,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "är du ensam",
+      "category": "situationsfras",
       "sentences": [
         "sent-hej-och-välkommen-är-du-ensam"
       ],
@@ -2121,6 +2125,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "phrase": "bestå av",
+      "category": "prepositionsuttryck",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -2152,6 +2157,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "betala med kort eller Swish",
+      "category": "situationsfras",
       "sentences": [
         "sent-vill-ni-betala-med-kort-eller-swish",
         "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks"
@@ -2188,6 +2194,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "phrase": "betala tillbaka",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -2218,6 +2225,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "bjuda på",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [
         "grammar-partikelverb"
@@ -2245,6 +2253,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "phrase": "bland annat",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -2273,6 +2282,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "bli arg på ngn",
+      "category": "kollokation",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -2300,6 +2310,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "bli frisk",
+      "category": "verbfras",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -2331,6 +2342,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "bli sjuk",
+      "category": "verbfras",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -2364,6 +2376,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "bra val",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-bra-val-vill-du-ha-efterrätt"
       ],
@@ -2395,6 +2408,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "bredvid sig",
+      "category": "prepositionsuttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -2422,6 +2436,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "dagens rätt",
+      "category": "restauranguttryck",
       "sentences": [
         "sent-dagens-rätt-är-en-vegetarisk-pasta"
       ],
@@ -2456,6 +2471,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "dela på en sallad",
+      "category": "vardagsfras",
       "sentences": [
         "sent-kan-vi-dela-på-en-sallad"
       ],
@@ -2491,6 +2507,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "dela på notan",
+      "category": "vardagsfras",
       "sentences": [
         "sent-en-kopp-kaffe-tack-och-sedan"
       ],
@@ -2523,6 +2540,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "det är bra så",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -2549,6 +2567,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "det blir X kronor",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -2579,6 +2598,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "phrase": "det börjar bli dags för",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -2612,6 +2632,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "det finns",
+      "category": "vardagsfras",
       "sentences": [
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
         "sent-i-vardagsrummet-finns-soffa-fatoljerna",
@@ -2651,6 +2672,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "det gick bra för honom",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [
         "grammar-preteritum"
@@ -2680,6 +2702,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "det låter gott",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-det-låter-gott-men-jag-är"
       ],
@@ -2712,6 +2735,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "det löser sig",
+      "category": "idiom",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -2739,6 +2763,7 @@ window.KB_DATA = {
       "created": "2026-06-16",
       "known": false,
       "phrase": "det märks",
+      "category": "习语",
       "sentences": [
         "sent-sverige-har-fyra-tydliga-arstider"
       ],
@@ -2772,6 +2797,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "Det ordnar vi.",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-vår-fisksoppa-är-nötfri-och-kycklingen"
       ],
@@ -2805,6 +2831,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "det räcker bra så",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -2835,6 +2862,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "det var länge sedan",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [
         "grammar-preteritum"
@@ -2864,6 +2892,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "du kan inte missa den",
+      "category": "idiom",
       "sentences": [
         "sent-du-kan-inte-missa-den"
       ],
@@ -2897,6 +2926,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "duktig på att",
+      "category": "uttryck",
       "sentences": [],
       "grammar": [
         "grammar-att-sats"
@@ -2927,6 +2957,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "efter det",
+      "category": "diskursmarkor",
       "sentences": [
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten"
       ],
@@ -2963,6 +2994,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "en av Sveriges mest kända",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-zlatan-en-av-sveriges-mest-kanda"
       ],
@@ -2994,6 +3026,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "en kopp kaffe",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-vill-ni-ha-notan-nu-eller",
         "sent-en-kopp-kaffe-tack-och-sedan"
@@ -3029,6 +3062,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "en stund senare",
+      "category": "diskursmarkor",
       "sentences": [
         "sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok"
       ],
@@ -3065,6 +3099,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "finns det något ledigt bord",
+      "category": "restaurangfras",
       "sentences": [
         "sent-ja-jag-är-ensam-finns-det"
       ],
@@ -3098,6 +3133,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "finns det",
+      "category": "vardagsfras",
       "sentences": [],
       "grammar": [
         "grammar-det-finns",
@@ -3127,6 +3163,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "följ med mig",
+      "category": "situationsfras",
       "sentences": [
         "sent-perfekt-det-stämmer-följ-med-mig"
       ],
@@ -3156,6 +3193,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "för all del",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -3178,6 +3216,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "förlåt att jag stör",
+      "category": "vardagsfras",
       "sentences": [],
       "grammar": [
         "grammar-att-sats"
@@ -3205,6 +3244,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "frisk luft",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -3233,6 +3273,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "full av liv",
+      "category": "idiom",
       "sentences": [
         "sent-ar-en-vanlig-dag-pa-storgatan-full-av-liv"
       ],
@@ -3263,6 +3304,7 @@ window.KB_DATA = {
       "created": "2026-06-17",
       "known": false,
       "phrase": "gå en promenad",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-ibland-traffar-jag-en-van-eller-gar"
       ],
@@ -3296,6 +3338,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "gå hungrig",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-dar-fanns-ingen-mat-ga-hungrig"
       ],
@@ -3328,6 +3371,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "gå klart i",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-gick-aldrig-klart-gymnasiet-satsade"
       ],
@@ -3358,6 +3402,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "gå sönder",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [
         "grammar-partikelverb"
@@ -3386,6 +3431,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "gå tillbaka",
+      "category": "partikelverb",
       "sentences": [
         "sent-jag-gick-tillbaka-till-tunnelbanestationen-fragade-personal"
       ],
@@ -3421,6 +3467,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "göra mål",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-zlatan-mycket-bra-karriar-mal"
       ],
@@ -3455,6 +3502,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "grattis på födelsedagen",
+      "category": "hälsningsfras",
       "sentences": [
         "sent-grattis-på-födelsedagen-lisa"
       ],
@@ -3490,6 +3538,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "ha råd att",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-fick-fotbollsskor-trots-mamma"
       ],
@@ -3518,6 +3567,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "hålla kontakten",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [
         "grammar-partikelverb"
@@ -3547,6 +3597,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "hålla med",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [
         "grammar-partikelverb"
@@ -3576,6 +3627,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "hålla någon sällskap",
+      "category": "uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -3605,6 +3657,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "hålla på",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [
         "grammar-partikelverb",
@@ -3635,6 +3688,7 @@ window.KB_DATA = {
       "created": "2026-06-16",
       "known": false,
       "phrase": "hålla värmen",
+      "category": "动词搭配",
       "sentences": [
         "sent-man-klar-pa-sig-tjocka-jackor"
       ],
@@ -3666,6 +3720,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "phrase": "hälsa på",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -3691,6 +3746,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "handla om",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -3720,6 +3776,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "har ni bestämt er",
+      "category": "situationsfras",
       "sentences": [
         "sent-har-ni-bestämt-er-eller-behöver-ni"
       ],
@@ -3757,6 +3814,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "har ni bokat bord",
+      "category": "situationsfras",
       "sentences": [
         "sent-god-kväll-och-välkomna-har-ni-bokat"
       ],
@@ -3792,6 +3850,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "har ni",
+      "category": "vardagsfras",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -3822,6 +3881,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "phrase": "hitta på",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -3848,6 +3908,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "hoppas det smakar",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [
         "grammar-bisats-biff"
@@ -3880,6 +3941,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "hur är det med jobbet",
+      "category": "vardagsfras",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -3909,6 +3971,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "hur har du haft det",
+      "category": "vardagsfras",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -3941,6 +4004,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "hur tar jag mig dit",
+      "category": "situationsfras",
       "sentences": [
         "sent-hur-tar-jag-mig-dit"
       ],
@@ -3974,6 +4038,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "phrase": "i hela Sverige",
+      "category": "prepositionsuttryck",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -4005,6 +4070,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "i hörnet av",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-lite-langre-fram-i-hornet-storgatan-parkgatan-kafé"
       ],
@@ -4041,6 +4107,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "i hörnet",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-i-hornet-till-vanster-om-dorren-star-kladskap"
       ],
@@ -4076,6 +4143,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "Inga problem.",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-inga-problem-vi-lagar-den-laktosfri"
       ],
@@ -4108,6 +4176,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "ingenting att",
+      "category": "uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -4132,6 +4201,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "inte särskilt",
+      "category": "uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -4160,6 +4230,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "istället för",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-gick-aldrig-klart-gymnasiet-satsade"
       ],
@@ -4191,6 +4262,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "Jag är allergisk mot …",
+      "category": "situationsfras",
       "sentences": [
         "sent-jag-är-allergisk-mot-nötter-vad-kan-ni"
       ],
@@ -4224,6 +4296,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "jag skulle vilja ha",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [
         "grammar-konditionalis"
@@ -4259,6 +4332,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "phrase": "jobba extra",
+      "category": "vardagsfras",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -4291,6 +4365,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "just då",
+      "category": "diskursmarkor",
       "sentences": [
         "sent-just-da-markte-jag-att-min-planbok-var-borta"
       ],
@@ -4325,6 +4400,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "phrase": "kämpa mot",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -4352,6 +4428,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "kan jag få",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -4390,6 +4467,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "Kan vi dela på notan?",
+      "category": "situationsfras",
       "sentences": [
         "sent-skulle-vi-vilja-betala-dela-på-notan"
       ],
@@ -4429,6 +4507,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "kan vi få notan",
+      "category": "situationsfras",
       "sentences": [
         "sent-nej-tack-det-räcker-bra-men-notan"
       ],
@@ -4465,6 +4544,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "känna sig pigg",
+      "category": "uttryck",
       "sentences": [],
       "grammar": [
         "grammar-reflexivt-verb"
@@ -4493,6 +4573,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "känna sig",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [
         "grammar-reflexivt-verb"
@@ -4521,6 +4602,7 @@ window.KB_DATA = {
       "created": "2026-06-16",
       "known": false,
       "phrase": "klä på sig",
+      "category": "partikelverb",
       "sentences": [
         "sent-man-klar-pa-sig-tjocka-jackor"
       ],
@@ -4555,6 +4637,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "klara av",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [
         "grammar-partikelverb"
@@ -4584,6 +4667,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "klara sig",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [
         "grammar-reflexivt-verb",
@@ -4615,6 +4699,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "klockan sex",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex"
       ],
@@ -4649,6 +4734,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "komma fram",
+      "category": "partikelverb",
       "sentences": [
         "sent-vid-halv-nio-kom-jag-fram-till-centralstationen"
       ],
@@ -4686,6 +4772,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "kvällens rätt",
+      "category": "situationsfras",
       "sentences": [
         "sent-kvällens-rätt-är-lammkotlett-med-örtsås"
       ],
@@ -4719,6 +4806,7 @@ window.KB_DATA = {
       "created": "2026-06-17",
       "known": false,
       "phrase": "laga middag",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-pa-kvallen-lagar-jag-middag-och-tittar"
       ],
@@ -4754,6 +4842,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "lägga sig",
+      "category": "partikelverb",
       "sentences": [
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt"
       ],
@@ -4794,6 +4883,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "lägga till dricks",
+      "category": "situationsfras",
       "sentences": [
         "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
         "sent-dricks-är-helt-frivilligt-i-sverige"
@@ -4829,6 +4919,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "phrase": "låna ut",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -4857,6 +4948,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "längs väggen",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-sangens-star-langs-vaggen-under-sangen"
       ],
@@ -4890,6 +4982,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "leta efter",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [
         "grammar-partikelverb"
@@ -4917,6 +5010,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "phrase": "leva kvar",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -4943,6 +5037,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "lite längre fram",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-lite-langre-fram-i-hornet-storgatan-parkgatan-kafé"
       ],
@@ -4977,6 +5072,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "logga in",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -5001,6 +5097,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "med eller utan",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -5029,6 +5126,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "med vänlig hälsning",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -5054,6 +5152,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "min egen",
+      "category": "uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -5081,6 +5180,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "mitt emot soffan",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-television-hanger-pa-vaggen-mitt-emot-soffan"
       ],
@@ -5117,6 +5217,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "mitt i rummet",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-soffan-star-mitt-i-rummet-framfor-soffbord"
       ],
@@ -5155,6 +5256,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "mot söder",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-ga-mot-soder"
       ],
@@ -5191,6 +5293,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "mousserande vin",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-vi-har-mousserande-vin-och-champagne"
       ],
@@ -5222,6 +5325,7 @@ window.KB_DATA = {
       "created": "2026-06-16",
       "known": false,
       "phrase": "njuta av",
+      "category": "partikelverb",
       "sentences": [
         "sent-man-plockar-svamp-och-njuter"
       ],
@@ -5255,6 +5359,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "om tjugo minuter",
+      "category": "tidsuttryck",
       "sentences": [
         "sent-jag-ar-dar-om-tjugo-minuter"
       ],
@@ -5287,6 +5392,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "på andra sidan gatan",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-mitt-emot-parken-pa-andra-sidan-gatan-livsmedelsbutik"
       ],
@@ -5324,6 +5430,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "på golvet",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-pa-golvet-mellan-sangen-skriv-stor-matta",
         "sent-pa-golvet-framfor-soffan-rund-matta"
@@ -5362,6 +5469,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "på höger sida",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-fortsatt-lite-till-gra-dorr"
       ],
@@ -5397,6 +5505,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "på kvällen",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt"
       ],
@@ -5433,6 +5542,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "på morgonen",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex"
       ],
@@ -5469,6 +5579,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "på väggen",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-mitt-emot-sangen-hanger-en-tavla-pa-vaggen",
         "sent-television-hanger-pa-vaggen-mitt-emot-soffan"
@@ -5506,6 +5617,7 @@ window.KB_DATA = {
       "created": "2026-06-16",
       "known": false,
       "phrase": "på vintern",
+      "category": "介词短语",
       "sentences": [
         "sent-pa-vintern-ar-det-morkt-och-kallt"
       ],
@@ -5538,6 +5650,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "pigg på",
+      "category": "uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -5563,6 +5676,7 @@ window.KB_DATA = {
       "created": "2026-06-16",
       "known": false,
       "phrase": "plocka svamp",
+      "category": "动词搭配",
       "sentences": [
         "sent-man-plockar-svamp-och-njuter"
       ],
@@ -5599,6 +5713,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "rakt fram",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-sen-gar-du-rakt-fram-langs-vattnet",
         "sent-rakt-fram-ser-jag-ett-torg"
@@ -5641,6 +5756,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "phrase": "rösta om",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-den-fragan-ska-invanarna-i-alberta"
       ],
@@ -5678,6 +5794,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "runt fontänen",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-pa-torget-finns-fontan-flera-bankar-runt-fontanen"
       ],
@@ -5714,6 +5831,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "satsa på",
+      "category": "partikelverb",
       "sentences": [
         "sent-gick-aldrig-klart-gymnasiet-satsade"
       ],
@@ -5749,6 +5867,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "sedan sju",
+      "category": "tidsuttryck",
       "sentences": [
         "sent-sedan-sju"
       ],
@@ -5777,6 +5896,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "skål för",
+      "category": "hälsningsfras",
       "sentences": [
         "sent-skål-för-födelsedagsfirandet"
       ],
@@ -5806,6 +5926,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "phrase": "skicka in",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -5833,6 +5954,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "phrase": "skulle ut och fiska",
+      "category": "vardagsfras",
       "sentences": [
         "sent-ett-par-i-sodertälje-skulle-ut"
       ],
@@ -5870,6 +5992,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "skynda dig",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-skynda-dig-lite"
       ],
@@ -5904,6 +6027,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "smaklig måltid",
+      "category": "artighetsfras",
       "sentences": [
         "sent-absolut-smaklig-måltid"
       ],
@@ -5937,6 +6061,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "snäll mot ngn",
+      "category": "kollokation",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -5964,6 +6089,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "söka till",
+      "category": "partikelverb",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -5995,6 +6121,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "spärra kort",
+      "category": "vardagsfras",
       "sentences": [
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort"
       ],
@@ -6031,6 +6158,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "stiga upp",
+      "category": "partikelverb",
       "sentences": [
         "sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost"
       ],
@@ -6067,6 +6195,7 @@ window.KB_DATA = {
       "created": "2026-06-17",
       "known": false,
       "phrase": "ta bussen",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-sedan-tar-jag-bussen-till-jobbet"
       ],
@@ -6099,6 +6228,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "ta en plats",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -6129,6 +6259,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "phrase": "ta hand om",
+      "category": "partikelverb",
       "sentences": [
         "sent-eftersom-astrid-var-ensam-kunde-hon"
       ],
@@ -6158,6 +6289,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "ta in allt tillsammans",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [
         "grammar-partikelverb"
@@ -6187,6 +6319,7 @@ window.KB_DATA = {
       "created": "2026-06-16",
       "known": false,
       "phrase": "ta semester",
+      "category": "动词搭配",
       "sentences": [
         "sent-manga-svenskar-tar-semester-tillbringar"
       ],
@@ -6221,6 +6354,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "phrase": "ta studenten",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -6256,6 +6390,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "ta tunnelbanan",
+      "category": "partikelverb",
       "sentences": [
         "sent-sedan-tog-jag-tunnelbanan-in-till-stan"
       ],
@@ -6292,6 +6427,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "tack för sällskapet",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -6315,6 +6451,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "tack så mycket",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -6345,6 +6482,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "phrase": "tacka ja",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -6373,6 +6511,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "phrase": "tacka nej",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -6402,6 +6541,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "tappa bort",
+      "category": "partikelverb",
       "sentences": [
         "sent-jag-tankte-var-tappade-jag-den"
       ],
@@ -6436,6 +6576,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "tar ni kort",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -6471,6 +6612,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "till höger om",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-till-hoger-om-soffan-star-bokhylla",
         "sent-i-hornet-till-vanster-om-dorren-star-kladskap",
@@ -6508,6 +6650,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "till sin mamma",
+      "category": "prepositionsuttryck",
       "sentences": [],
       "grammar": [
         "grammar-sin-sina"
@@ -6537,6 +6680,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "till slut",
+      "category": "diskursmarkor",
       "sentences": [
         "sent-till-slut-var-allt-bra-igen"
       ],
@@ -6574,6 +6718,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "till vänster om",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-i-hornet-till-vanster-om-dorren-star-kladskap",
         "sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank"
@@ -6613,6 +6758,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "till vänster",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-du-ser-en-stor-rod-byggnad"
       ],
@@ -6650,6 +6796,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "trots att",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-fick-fotbollsskor-trots-mamma"
       ],
@@ -6680,6 +6827,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "ungefär en timme",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-det-tog-ungefar-en-timme"
       ],
@@ -6712,6 +6860,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "ursäkta vad sa du",
+      "category": "vardagsfras",
       "sentences": [],
       "grammar": [
         "grammar-preteritum"
@@ -6740,6 +6889,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "vad får det vara",
+      "category": "situationsfras",
       "sentences": [],
       "grammar": [
         "grammar-konditionalis"
@@ -6773,6 +6923,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "vad gjorde du i helgen",
+      "category": "vardagsfras",
       "sentences": [],
       "grammar": [
         "grammar-preteritum"
@@ -6804,6 +6955,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "vad har ni för",
+      "category": "frågefras",
       "sentences": [
         "sent-ja-gärna-vad-har-ni-för"
       ],
@@ -6838,6 +6990,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "Vad kan ni rekommendera?",
+      "category": "situationsfras",
       "sentences": [
         "sent-jag-är-allergisk-mot-nötter-vad-kan-ni"
       ],
@@ -6875,6 +7028,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "vad rekommenderar ni",
+      "category": "restaurangfras",
       "sentences": [
         "sent-tack-så-mycket-vad-rekommenderar-ni"
       ],
@@ -6910,6 +7064,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "välkommen åter",
+      "category": "artighetsfras",
       "sentences": [
         "sent-självklart-du-kan-betala-här-vid"
       ],
@@ -6942,6 +7097,7 @@ window.KB_DATA = {
       "created": "2026-06-15",
       "known": false,
       "phrase": "var sin del",
+      "category": "fast-uttryck",
       "sentences": [
         "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks"
       ],
@@ -6975,6 +7131,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "vara duktig på",
+      "category": "uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -7001,6 +7158,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "vara säker på att",
+      "category": "uttryck",
       "sentences": [],
       "grammar": [
         "grammar-att-sats"
@@ -7030,6 +7188,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "vara säker på",
+      "category": "uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [],
@@ -7057,6 +7216,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "phrase": "vara sjuk",
+      "category": "verbfras",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -7086,6 +7246,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "varsågod",
+      "category": "fast-uttryck",
       "sentences": [],
       "grammar": [],
       "topics": [
@@ -7117,6 +7278,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "vi får ses oftare",
+      "category": "vardagsfras",
       "sentences": [],
       "grammar": [
         "grammar-presens"
@@ -7146,6 +7308,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "phrase": "vi ses snart",
+      "category": "hälsningsfras",
       "sentences": [
         "sent-vi-ses-snart"
       ],
@@ -7180,6 +7343,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "vid busshållplatsen",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-framfor-butiken-stannar-buss-vid-busshallplatsen",
         "sent-nagra-manniskor-vantar-cyklister-stannar-trafikljuset"
@@ -7217,6 +7381,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "vid fönstret",
+      "category": "prepositionsuttryck",
       "sentences": [],
       "grammar": [
         "grammar-prepositioner-rum"
@@ -7246,6 +7411,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "vid halv nio",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-vid-halv-nio-kom-jag-fram-till-centralstationen"
       ],
@@ -7281,6 +7447,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "vid korsningen",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-vid-korsningen-blinkar-trafikljuset-rott-bilar-cyklister"
       ],
@@ -7319,6 +7486,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "known": false,
       "phrase": "vid väggen",
+      "category": "prepositionsuttryck",
       "sentences": [
         "sent-framfor-fonster-vid-vaggen-stor-krukvaxt"
       ],
@@ -17600,6 +17768,11 @@ window.KB_DATA = {
       "date": "2026-06-10",
       "source_label": "瑞典语词汇学习",
       "kind": "import",
+      "tags": [
+        "source",
+        "import",
+        "vocab"
+      ],
       "words": [
         "dyr",
         "ingen",
@@ -18321,6 +18494,11 @@ window.KB_DATA = {
       "date": "2026-06-15",
       "source_label": "scenario — på restaurang utan bokning (rekommendation, efterrätt, betala med kort)",
       "kind": "import",
+      "tags": [
+        "restaurang",
+        "mat-dryck",
+        "scenario"
+      ],
       "words": [
         "vegetarisk",
         "pasta",
@@ -18702,6 +18880,11 @@ window.KB_DATA = {
       "date": "2026-06-17",
       "source_label": "Adjektiv+substantiv böjning (Body & Health)",
       "kind": "import",
+      "tags": [
+        "adjsubst-bojning",
+        "kropp",
+        "hälsa"
+      ],
       "words": [
         "kur",
         "tå",
@@ -18809,6 +18992,11 @@ window.KB_DATA = {
       "date": "2026-06-17",
       "source_label": "scenario — min vardag (en dag i mitt liv, story)",
       "kind": "import",
+      "tags": [
+        "vardag",
+        "rutin",
+        "story"
+      ],
       "words": [
         "kontor",
         "kollega",

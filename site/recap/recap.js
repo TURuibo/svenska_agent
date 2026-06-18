@@ -14,6 +14,35 @@
   const TYPE_LABELS = { word: '词', phrase: '词组', sentence: '句子', grammar: '语法', topic: '主题', source: '来源' };
   const ITEM_TYPES = ['word', 'phrase', 'sentence', 'grammar'];
 
+  // ---------- source categories (origin of each item) ----------
+  // An item's origin is the category of the source note that claims it; items
+  // claimed by no source are individual dictionary lookups ('lookup').
+  const SOURCE_CATS = {
+    sfi:      { label: '教材/SFI', icon: '📚' },
+    lookup:   { label: '查词',     icon: '🔍' },
+    scenario: { label: '情景练习', icon: '🎭' },
+    adjsubst: { label: '词形变化', icon: '🔤' },
+    other:    { label: '其他',     icon: '✏️' },
+  };
+  // Display order in the filter bar.
+  const SOURCE_ORDER = ['sfi', 'lookup', 'scenario', 'adjsubst', 'other'];
+  // '重点' preset = the high-value buckets (study material + intentional lookups).
+  const PRIORITY_CATS = new Set(['sfi', 'lookup']);
+
+  // Classify a source note into a category. Honors an explicit `category:`
+  // frontmatter field; otherwise derives it from source_label / title / kind,
+  // since the raw `kind` field is inconsistent across the KB.
+  function classifySource(src) {
+    if (src.category) return String(src.category);
+    const kind = String(src.kind || '').toLowerCase();
+    const hay = `${src.source_label || ''} ${src.title || ''} ${src.slug || ''}`.toLowerCase();
+    if (/adjektiv\+substantiv|adjsubst|böjning|bojning/.test(hay) || kind === 'drill') return 'adjsubst';
+    if (/\bsfi\b|språkvägen|sprakvagen|nyhets|biografi|\bkurs\b|kapitel|läsning|lasning|övning|ovning|练习|練習|词汇|vocab|ordlista|artikel|传记文章/.test(hay)
+        || kind === 'article' || kind === 'functional') return 'sfi';
+    if (/scenario|dialog|berättelse|berattelse|story|samtal/.test(hay) || kind === 'scenario' || kind === 'dialogue') return 'scenario';
+    return 'other';
+  }
+
   // ---------- local state (known/star overrides) ----------
 
   const LS_KNOWN = 'dagbok.known.v1';
@@ -141,6 +170,36 @@
       }
     }
     return claimed;
+  }
+
+  // Map each item slug to its origin category (first claiming source wins).
+  // Items in no source default to 'lookup' (individual dictionary lookups).
+  const catBySlug = new Map();
+  for (const n of notes) {
+    if (n.type !== 'source') continue;
+    const cat = classifySource(n);
+    for (const slug of sourceClaims(n)) {
+      if (!catBySlug.has(slug)) catBySlug.set(slug, cat);
+    }
+  }
+  function itemCategory(n) {
+    return catBySlug.get(n.slug) || 'lookup';
+  }
+
+  // Per-category item counts (drives which filter buttons appear + their badges).
+  const catCounts = {};
+  for (const [, items] of itemsByDate) {
+    for (const it of items) {
+      const c = itemCategory(it);
+      catCounts[c] = (catCounts[c] || 0) + 1;
+    }
+  }
+
+  function matchesSource(n) {
+    if (activeSource === 'all') return true;
+    const c = itemCategory(n);
+    if (activeSource === 'priority') return PRIORITY_CATS.has(c);
+    return c === activeSource;
   }
 
   // ---------- stats ----------
@@ -352,24 +411,36 @@
     return `${date.getMonth() + 1}-${String(date.getDate()).padStart(2, '0')}`;
   }
 
-  function renderTimeline(filterType) {
+  function passesType(n) {
+    if (activeType === 'starred') return isStarred(n.slug);
+    if (activeType && activeType !== 'all') return n.type === activeType;
+    return true;
+  }
+
+  function updateFilterCount(shown) {
+    const el = document.getElementById('filterCount');
+    if (!el) return;
+    const filtered = activeType !== 'all' || activeSource !== 'all';
+    el.textContent = filtered ? `显示 ${shown} 项` : '';
+  }
+
+  function renderTimeline() {
     TIMELINE.innerHTML = '';
     const dates = Array.from(itemsByDate.keys()).sort((a, b) => b.localeCompare(a));
     if (dates.length === 0) {
       TIMELINE.innerHTML = '<p class="timelineEmpty">还没有任何录入条目。先去 /learn 一些瑞典语吧 🇸🇪</p>';
+      updateFilterCount(0);
       return;
     }
 
     let renderedDays = 0;
+    let shownCount = 0;
     for (const dateKey of dates) {
       const date = parseISODate(dateKey);
       let items = itemsByDate.get(dateKey) || [];
-      if (filterType === 'starred') {
-        items = items.filter((n) => isStarred(n.slug));
-      } else if (filterType && filterType !== 'all') {
-        items = items.filter((n) => n.type === filterType);
-      }
+      items = items.filter((n) => matchesSource(n) && passesType(n));
       if (items.length === 0) continue;
+      shownCount += items.length;
 
       const section = document.createElement('section');
       section.className = 'daySection';
@@ -497,8 +568,9 @@
     }
 
     if (renderedDays === 0) {
-      TIMELINE.innerHTML = '<p class="timelineEmpty">当前筛选下没有条目。试试别的类型？</p>';
+      TIMELINE.innerHTML = '<p class="timelineEmpty">当前筛选下没有条目。试试别的类型或来源？</p>';
     }
+    updateFilterCount(shownCount);
   }
 
   // ---------- peek panel ----------
@@ -759,7 +831,7 @@
 
   // ---------- jump bar & filter ----------
 
-  let activeFilter = 'all';
+  let activeType = 'all';
 
   function jumpTo(target) {
     let date = null;
@@ -796,15 +868,59 @@
     btn.addEventListener('click', () => {
       document.querySelectorAll('.typeFilter').forEach((b) => b.classList.remove('active'));
       btn.classList.add('active');
-      activeFilter = btn.dataset.type;
-      renderTimeline(activeFilter);
+      activeType = btn.dataset.type;
+      renderTimeline();
     });
   });
+
+  // ---------- source (origin) filter ----------
+
+  const LS_SRC = 'dagbok.sourceFilter.v1';
+  let activeSource = 'all';
+  try { activeSource = localStorage.getItem(LS_SRC) || 'all'; } catch (_e) {}
+
+  function buildSourceBar() {
+    const bar = document.getElementById('sourceFilters');
+    if (!bar) return;
+
+    // Available buttons: 全部, ⭐重点 (if any priority items), then non-empty categories.
+    const defs = [{ key: 'all', label: '全部' }];
+    const priorityTotal = SOURCE_ORDER
+      .filter((k) => PRIORITY_CATS.has(k))
+      .reduce((sum, k) => sum + (catCounts[k] || 0), 0);
+    if (priorityTotal > 0) defs.push({ key: 'priority', label: '重点', icon: '⭐', priority: true });
+    for (const key of SOURCE_ORDER) {
+      if ((catCounts[key] || 0) > 0) {
+        defs.push({ key, label: SOURCE_CATS[key].label, icon: SOURCE_CATS[key].icon, count: catCounts[key] });
+      }
+    }
+
+    // Drop a persisted selection that no longer has any matching items.
+    if (!defs.some((d) => d.key === activeSource)) activeSource = 'all';
+
+    bar.innerHTML = '';
+    for (const d of defs) {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'sourceFilter' + (d.priority ? ' priority' : '') + (d.key === activeSource ? ' active' : '');
+      btn.dataset.source = d.key;
+      btn.textContent = (d.icon ? d.icon + ' ' : '') + d.label + (d.count ? ` ${d.count}` : '');
+      if (d.key === 'priority') btn.title = '只看学习资料/SFI + 查词（高价值内容）';
+      btn.addEventListener('click', () => {
+        activeSource = d.key;
+        try { localStorage.setItem(LS_SRC, activeSource); } catch (_e) {}
+        bar.querySelectorAll('.sourceFilter').forEach((b) => b.classList.toggle('active', b.dataset.source === activeSource));
+        renderTimeline();
+      });
+      bar.appendChild(btn);
+    }
+  }
 
   // ---------- init ----------
 
   buildHeatmap();
-  renderTimeline('all');
+  buildSourceBar();
+  renderTimeline();
 
   // brief flash style for jumped sections
   const style = document.createElement('style');

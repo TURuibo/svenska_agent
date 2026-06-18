@@ -228,6 +228,35 @@
   color: var(--muted);
 }
 
+/* ---------- Source (origin) filter ---------- */
+
+.sourceBar {
+  margin-top: 8px;
+}
+
+/* let the dynamically-added buttons participate in the .jumpBar flex row */
+.sourceFilters {
+  display: contents;
+}
+
+.sourceBar .sourceFilter.active {
+  background: var(--blue);
+  border-color: var(--blue);
+  color: #fff;
+}
+
+.sourceBar .sourceFilter.priority.active {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: #fff;
+}
+
+.filterCount {
+  margin-left: auto;
+  font-size: 12px;
+  color: var(--muted);
+}
+
 /* ---------- Timeline ---------- */
 
 .recapMain {
