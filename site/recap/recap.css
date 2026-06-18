@@ -426,6 +426,25 @@
   border-color: var(--green);
 }
 
+/* 📖 jump to the readable Läsning article (batch header + peek panel) */
+.batchReadLink {
+  font-family: var(--cjk);
+  font-size: 12px;
+  padding: 3px 10px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 999px;
+  color: var(--blue);
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.15s, border-color 0.15s;
+}
+.batchReadLink:hover { background: var(--panel-soft); border-color: var(--blue); }
+
+.batchHeader .batchReadLink { margin-left: 4px; }
+
+.peekRead { margin: 2px 0 10px; }
+
 .navButton {
   border: 1px solid var(--line);
   cursor: pointer;
