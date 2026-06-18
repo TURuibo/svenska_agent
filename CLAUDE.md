@@ -71,6 +71,7 @@ For a **single word/phrase/sentence**, don't spawn a subagent — just store it 
 - `/kb` — show knowledge-base stats and health (counts, orphan notes, broken links).
 - `/import` — ingest a `svensk-export v1` block (pasted or from `inbox/`) with dedup + linking.
 - `/scenario` — 生成情景练习文本 (generate a Swedish practice scenario — dialogue/text/narrative) into `inbox/` for review, then import with `/import`.
+- `/dagens-nyheter` — 抓取 5 条最新瑞典语简易新闻 (8 Sidor lättläst) 写入 `inbox/`（人读正文 + 导入块），供 `/import` 入库。每日由 routine `svensk-news-daily` 自动跑（见 §4.4）。
 
 ---
 
@@ -214,6 +215,26 @@ KB 文件本身是 tracked 的，能正常同步。但**入库 ≠ 上 GitHub**�
 3. 导入、归档（移到 repo 根的 tracked `imported/`）、重建站点由 `sv-importer` 自己完成。
 
 > 注意：手机端查词**不再**产生 inbox 文件，所以那条链只服务于生成类/跨聊天导入，不与手机查词冲突。
+
+### §4.4 每日新闻 (Daily news — 5 条 8 Sidor lättläst)
+
+每天早上自动抓取 **5 条最新瑞典语简易新闻**（来自 **8 Sidor** —— Sveriges Radio 的 lättläst
+nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学习素材入库。与 `/scenario`、`/adjsubst`
+是**同一套 headless 流水线**（见 §4.3、[[daily-scenario-automation]]、[[daily-adjsubst-automation]]）。
+
+**三个部件：**
+- `/dagens-nyheter [YYYY-MM-DD]` — 命令 `.claude/commands/dagens-nyheter.md`：用 `WebFetch`/`WebSearch`
+  抓 8 Sidor 最新 5 条，写成「可读新闻摘要 + `svensk-export v1` 导入块」存入 `inbox/news-<DATE>.md`。
+  不碰 `knowledge_base/`。新闻为真实抓取，**不得编造**。
+- `scripts/daily-news.ps1` — 包装脚本：算好日期传给命令，调 headless `claude -p`，**allowedTools 含
+  `WebSearch,WebFetch`**（新闻需要联网抓取）。产出后调共享助手 `scripts/import-and-rebuild.ps1`
+  → headless `/import` → `node tools/build-kb-site.js` → 归档到 `imported/` → push，最后弹 Windows toast。
+  模型默认 `claude-opus-4-8`；含 emoji/中文，存为 **UTF-8 BOM**（PS 5.1 坑，同 scenario）。日志 `scripts/news-run.log`。
+- 触发器：Claude Code scheduled task **`svensk-news-daily`**，cron `30 7 * * *`（实际 ~07:3x，有 jitter）。
+  routine prompt = 「跑 `scripts/daily-news.ps1` 然后读 `scripts/news-run.log` 末尾报告」。管理同其它 routine：
+  `list_scheduled_tasks` / `update_scheduled_task` / 侧栏「Scheduled」。**只在 Claude 桌面应用开着时准点跑**，关着下次启动补跑。
+
+所以新闻和 scenario/adjsubst 一样**全自动入库**，用户只剩 `/review`。
 
 ---
 
