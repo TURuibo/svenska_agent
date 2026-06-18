@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lyssna — Swedish Listening</title>
+    <link rel="stylesheet" href="../styles.css" />
+    <link rel="stylesheet" href="listening.css" />
+  </head>
+  <body class="listenBody">
+    <header class="listenHeader">
+      <div class="listenHeaderInner">
+        <div class="listenBrand">
+          <p class="eyebrow">svensk_agent</p>
+          <h1>Lyssna <span class="brandSub">SVT 简易新闻听力</span></h1>
+          <p id="listenUpdated" class="updated">Loading…</p>
+        </div>
+        <nav class="listenNav" aria-label="Site nav">
+          <a class="navLink" href="../">🔍 Search KB</a>
+          <a class="navLink" href="../reading/">📖 Läsning</a>
+          <a class="navLink" href="../recap/">📅 Dagbok</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="listenMain">
+      <aside class="episodeList" aria-label="Episode list">
+        <h2 class="listHeading">节目 Avsnitt</h2>
+        <ul id="episodeItems"></ul>
+      </aside>
+
+      <section class="player" aria-label="Listening player">
+        <div id="playerEmpty" class="playerEmpty">← 选择一集开始练习听力</div>
+
+        <article id="playerView" class="playerView" hidden>
+          <div class="playerTopbar">
+            <div>
+              <h2 id="epTitle" class="epTitle"></h2>
+              <p id="epMeta" class="epMeta"></p>
+            </div>
+            <a id="epSvtLink" class="svtLink" href="#" target="_blank" rel="noopener">📺 在 SVT Play 看 ↗</a>
+          </div>
+
+          <div class="mediaWrap">
+            <video id="mediaEl" class="mediaEl" controls preload="metadata" playsinline></video>
+            <p id="mediaError" class="mediaError" hidden></p>
+          </div>
+
+          <div class="controls" role="toolbar" aria-label="Practice controls">
+            <div class="ctrlGroup">
+              <span class="ctrlLabel">速度</span>
+              <button type="button" class="speedBtn" data-speed="0.75">0.75×</button>
+              <button type="button" class="speedBtn active" data-speed="1">1×</button>
+              <button type="button" class="speedBtn" data-speed="1.25">1.25×</button>
+            </div>
+            <div class="ctrlGroup">
+              <button type="button" id="toggleSv" class="toggleBtn active">🇸🇪 原文</button>
+              <button type="button" id="toggleZh" class="toggleBtn">🇨🇳 翻译</button>
+              <button type="button" id="toggleLoop" class="toggleBtn" title="循环当前这句">🔁 单句循环</button>
+              <button type="button" id="toggleAuto" class="toggleBtn active" title="跟随播放自动滚动并高亮">🎯 自动跟随</button>
+            </div>
+          </div>
+
+          <ol id="transcript" class="transcript" aria-label="Transcript"></ol>
+
+          <section id="vocabPanel" class="vocabPanel" aria-label="Vocabulary">
+            <h3>📌 生词 Ordlista</h3>
+            <ul id="vocabItems" class="vocabItems"></ul>
+          </section>
+        </article>
+      </section>
+    </main>
+
+    <!-- hls.js for browsers without native HLS (Chrome/Firefox/Edge). Safari plays HLS natively. -->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.13/dist/hls.min.js"></script>
+    <script src="listening-data.js"></script>
+    <script src="listening.js"></script>
+  </body>
+</html>
