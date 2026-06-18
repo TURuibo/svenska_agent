@@ -85,6 +85,6 @@
   ],
   "grammar": [
     { "name": "komparativ", "lemma": "komparativ", "zh": "比较级（längre, kortast）", "en": "comparative/superlative" },
-    { "name": "passiv-s", "lemma": "passiv-s", "zh": "-s 被动态（dömdes）", "en": "s-passive" }
+    { "name": "passiv-s", "lemma": "passiv-med-s", "zh": "-s 被动态（dömdes）", "en": "s-passive" }
   ]
 }

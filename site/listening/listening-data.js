@@ -1,5 +1,5 @@
 window.LISTENING_DATA = {
-  "generatedAt": "2026-06-18 14:14:00",
+  "generatedAt": "2026-06-18 16:08:37",
   "episodes": [
     {
       "id": "eakkN4D",
@@ -13,7 +13,7 @@ window.LISTENING_DATA = {
       "hlsUrl": "https://svt-vod-2k.akamaized.net/d0/world/20260617/68e78763-f716-4e60-9ff8-024276d079b8/hls-cmaf-full.m3u8",
       "vttUrl": "https://svt-vod-2k.akamaized.net/d0/world/20260617/68e78763-f716-4e60-9ff8-024276d079b8/text/text-auto.vtt",
       "cueCount": 51,
-      "vocabCount": 15,
+      "vocabCount": 14,
       "cues": [
         {
           "start": 8.64,
@@ -325,93 +325,165 @@ window.LISTENING_DATA = {
       "vocab": [
         {
           "sv": "akuten",
+          "lemma": "akut",
           "pos": "substantiv en",
           "zh": "急诊室（akut 的定形）",
-          "en": "the emergency room"
+          "en": "the emergency room",
+          "slug": "akut"
         },
         {
           "sv": "väntetid",
+          "lemma": "väntetid",
           "pos": "substantiv en",
           "zh": "等待时间",
-          "en": "waiting time"
+          "en": "waiting time",
+          "slug": "väntetid"
         },
         {
           "sv": "statistik",
+          "lemma": "statistik",
           "pos": "substantiv en",
           "zh": "统计；统计数据",
-          "en": "statistics"
-        },
-        {
-          "sv": "i genomsnitt",
-          "pos": "uttryck",
-          "zh": "平均",
-          "en": "on average"
+          "en": "statistics",
+          "slug": "statistik"
         },
         {
           "sv": "skillnad",
+          "lemma": "skillnad",
           "pos": "substantiv en",
           "zh": "差别；区别",
-          "en": "difference"
+          "en": "difference",
+          "slug": "skillnad"
         },
         {
           "sv": "öka",
+          "lemma": "öka",
           "pos": "verb v.2",
           "zh": "增加（ökar / ökade / ökat）",
-          "en": "to increase"
+          "en": "to increase",
+          "slug": "öka"
         },
         {
           "sv": "väljare",
+          "lemma": "väljare",
           "pos": "substantiv en",
           "zh": "选民",
-          "en": "voter"
+          "en": "voter",
+          "slug": "väljare"
         },
         {
           "sv": "regering",
+          "lemma": "regering",
           "pos": "substantiv en",
           "zh": "政府",
-          "en": "government"
+          "en": "government",
+          "slug": "regering"
         },
         {
           "sv": "val",
+          "lemma": "val",
           "pos": "substantiv ett",
           "zh": "选举",
-          "en": "election"
+          "en": "election",
+          "slug": "val"
         },
         {
           "sv": "ränta",
+          "lemma": "ränta",
           "pos": "substantiv en",
           "zh": "利率；利息",
-          "en": "interest rate"
+          "en": "interest rate",
+          "slug": "ränta"
         },
         {
           "sv": "höja",
+          "lemma": "höja",
           "pos": "verb v.2",
           "zh": "提高（höjer / höjde / höjt）",
-          "en": "to raise"
+          "en": "to raise",
+          "slug": "höja"
         },
         {
-          "sv": "doma / döma",
+          "sv": "döma",
+          "lemma": "döma",
           "pos": "verb v.2",
           "zh": "判决（döms / dömde / dömt）",
-          "en": "to sentence, judge"
+          "en": "to sentence, judge",
+          "slug": "döma"
         },
         {
           "sv": "fängelse",
+          "lemma": "fängelse",
           "pos": "substantiv ett",
           "zh": "监狱；监禁",
-          "en": "prison"
+          "en": "prison",
+          "slug": "fängelse"
         },
         {
           "sv": "stiga",
+          "lemma": "stiga",
           "pos": "verb v.4",
           "zh": "上升（stiger / steg / stigit）",
-          "en": "to rise"
+          "en": "to rise",
+          "slug": "stiga"
         },
         {
           "sv": "bekymmersam",
+          "lemma": "bekymmersam",
           "pos": "adjektiv",
           "zh": "令人担忧的",
-          "en": "worrying"
+          "en": "worrying",
+          "slug": "bekymmersam"
+        }
+      ],
+      "phrases": [
+        {
+          "sv": "i genomsnitt",
+          "lemma": "i genomsnitt",
+          "category": "uttryck",
+          "zh": "平均",
+          "en": "on average",
+          "slug": "i-genomsnitt"
+        },
+        {
+          "sv": "söka hjälp",
+          "lemma": "söka hjälp",
+          "category": "kollokation",
+          "zh": "求助；寻求帮助",
+          "en": "to seek help",
+          "slug": "söka-hjälp"
+        },
+        {
+          "sv": "förlora makten",
+          "lemma": "förlora makten",
+          "category": "kollokation",
+          "zh": "失去政权",
+          "en": "to lose power",
+          "slug": "förlora-makten"
+        },
+        {
+          "sv": "bland annat",
+          "lemma": "bland annat",
+          "category": "diskursmarkör",
+          "zh": "其中；包括",
+          "en": "among other things",
+          "slug": "bland-annat"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "komparativ",
+          "lemma": "komparativ",
+          "zh": "比较级（längre, kortast）",
+          "en": "comparative/superlative",
+          "slug": "grammar-komparativ"
+        },
+        {
+          "name": "passiv-s",
+          "lemma": "passiv-med-s",
+          "zh": "-s 被动态（dömdes）",
+          "en": "s-passive",
+          "slug": "grammar-passiv-med-s"
         }
       ]
     }

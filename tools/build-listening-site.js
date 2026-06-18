@@ -41,10 +41,11 @@ if (!fs.existsSync(srcDir)) {
 const slugsPath = path.join(repoRoot, 'knowledge_base', '_index', 'slugs.json');
 let KB = { words: new Set(), phrases: new Set(), grammar: new Set() };
 try {
+  // slugs.json uses SINGULAR keys: word / phrase / grammar / sentence / topic.
   const raw = JSON.parse(fs.readFileSync(slugsPath, 'utf8'));
   KB = {
-    words: new Set(raw.words || []),
-    phrases: new Set(raw.phrases || []),
+    words: new Set(raw.word || raw.words || []),
+    phrases: new Set(raw.phrase || raw.phrases || []),
     grammar: new Set(raw.grammar || []),
   };
 } catch (e) {
