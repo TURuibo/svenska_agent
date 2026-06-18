@@ -193,7 +193,16 @@ KB 文件本身是 tracked 的，能正常同步。但**入库 ≠ 上 GitHub**�
 `site/kb-data.js` → 一个 commit → `pull --rebase` → push 到 GitHub。其他设备 `git pull` 即拿到；
 `site/kb-data.js` 也会由 GitHub Action 在 push 后自动重建。
 
-- 提示用户：换设备时先 `git pull`（或开会话让 SessionStart 钩子自动 pull）再开始，避免分叉。
+**换设备同步现在全自动**，无需提醒用户手动 `git pull`。每次开会话，`SessionStart` 钩子
+`git_autopull.ps1` 会 `git fetch` 并按情况自动同步：
+- **纯落后**（别的设备 push 过、本机无本地提交）→ 自动 `git pull --ff-only --autostash`。
+- **分叉**（本机有未推送的本地提交，远端也更新了）→ 自动 `git pull --rebase --autostash`；
+  仅当遇到真正冲突时才 `git rebase --abort` 安全回退并提示用户手动解决（绝不丢工作、不留半截 rebase）。
+- **纯领先**（有未推送提交）→ 提示跑 `/sync`。
+- 离线 / fetch 超时 / 正在 rebase|merge 中 → 跳过，不打扰。
+
+所以 agent **不要**再在回复结尾叮嘱「换设备记得先 git pull」——钩子已经做了。只有钩子明确报告
+冲突回退时，才需要让用户手动处理。
 
 **`inbox/` 自动后台导入仍保留**（用于 `/scenario`、`/adjsubst`、跨聊天 `/import` 这些**合法写 inbox**
 的来源）：
