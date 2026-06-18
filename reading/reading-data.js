@@ -1,6 +1,34 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-18 07:06:51",
+  "generatedAt": "2026-06-18 07:14:56",
   "articles": [
+    {
+      "slug": "adjsubst-2026-06-18-djur",
+      "file": "adjsubst-2026-06-18-djur.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "adjsubst",
+      "kindLabel": {
+        "zh": "词形变化",
+        "en": "adj+subst drill"
+      },
+      "title": "Adjektiv + substantiv böjning — 2026-06-18 (Djur 动物)",
+      "cefr": "",
+      "date": "2026-06-18",
+      "theme": "Djur (动物)",
+      "source": "",
+      "path": "imported/adjsubst-2026-06-18-djur.md",
+      "counts": {
+        "words": 50,
+        "phrases": 0,
+        "sentences": 0,
+        "grammar": 0
+      },
+      "itemTotal": 50,
+      "body": "# Adjektiv + substantiv böjning — 2026-06-18 (Djur 动物)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-18-djur.md`\n导出块只含 **words**（精简种子，无 böjning）→ `/import` 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| Obestämd sg. | Bestämd sg. | Obestämd pl. | Bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en gul kyckling | den gula kycklingen | gula kycklingar | de gula kycklingarna | 黄色的小鸡 |\n| en mager ekorre | den magra ekorren | magra ekorrar | de magra ekorrarna | 瘦的松鼠 |\n| en lätt hare | den lätta haren | lätta harar | de lätta hararna | 轻盈的野兔 |\n| en rund igelkott | den runda igelkotten | runda igelkottar | de runda igelkottarna | 圆滚滚的刺猬 |\n| en ullig ren | den ulliga renen | ulliga renar | de ulliga renarna | 毛茸茸的驯鹿 |\n| ett skyggt rådjur | det skygga rådjuret | skygga rådjur | de skygga rådjuren | 胆小的狍子 |\n| en trött åsna | den trötta åsnan | trötta åsnor | de trötta åsnorna | 疲倦的驴 |\n| en tung kamel | den tunga kamelen | tunga kameler | de tunga kamelerna | 沉重的骆驼 |\n| en fläckig giraff | den fläckiga giraffen | fläckiga giraffer | de fläckiga girafferna | 有斑点的长颈鹿 |\n| en randig zebra | den randiga zebran | randiga zebror | de randiga zebrorna | 有条纹的斑马 |\n| en vaken örn | den vakna örnen | vakna örnar | de vakna örnarna | 警醒的鹰 |\n| en klok uggla | den kloka ugglan | kloka ugglor | de kloka ugglorna | 聪明的猫头鹰 |\n| en lång svan | den långa svanen | långa svanar | de långa svanarna | 修长的天鹅 |\n| en lugn gås | den lugna gåsen | lugna gäss | de lugna gässen | 安静的鹅 |\n| en grön papegoja | den gröna papegojan | gröna papegojor | de gröna papegojorna | 绿色的鹦鹉 |\n| en blå fjäril | den blåa fjärilen | blåa fjärilar | de blåa fjärilarna | 蓝色的蝴蝶 |\n| ett nytt bi | det nya biet | nya bin | de nya bina | 新的蜜蜂 |\n| en tyst myra | den tysta myran | tysta myror | de tysta myrorna | 安静的蚂蚁 |\n| en pigg fluga | den pigga flugan | pigga flugor | de pigga flugorna | 活泼的苍蝇 |\n| en mjuk snigel | den mjuka snigeln | mjuka sniglar | de mjuka sniglarna | 柔软的蜗牛 |\n| en fet val | den feta valen | feta valar | de feta valarna | 肥硕的鲸鱼 |\n| en fri säl | den fria sälen | fria sälar | de fria sälarna | 自由的海豹 |\n| en vass haj | den vassa hajen | vassa hajar | de vassa hajarna | 牙齿锋利的鲨鱼 |\n| en glupsk krokodil | den glupska krokodilen | glupska krokodiler | de glupska krokodilerna | 贪婪的鳄鱼 |\n| en hård sköldpadda | den hårda sköldpaddan | hårda sköldpaddor | de hårda sköldpaddorna | 坚硬的乌龟 |\n\n## 导入块（words only · 精简种子）",
+      "searchText": "adjsubst-2026-06-18-djur adjektiv + substantiv böjning — 2026-06-18 (djur 动物) # adjektiv + substantiv böjning — 2026-06-18 (djur 动物)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-18-djur.md`\n导出块只含 **words**（精简种子，无 böjning）→ `/import` 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| obestämd sg. | bestämd sg. | obestämd pl. | bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en gul kyckling | den gula kycklingen | gula kycklingar | de gula kycklingarna | 黄色的小鸡 |\n| en mager ekorre | den magra ekorren | magra ekorrar | de magra ekorrarna | 瘦的松鼠 |\n| en lätt hare | den lätta haren | lätta harar | de lätta hararna | 轻盈的野兔 |\n| en rund igelkott | den runda igelkotten | runda igelkottar | de runda igelkottarna | 圆滚滚的刺猬 |\n| en ullig ren | den ulliga renen | ulliga renar | de ulliga renarna | 毛茸茸的驯鹿 |\n| ett skyggt rådjur | det skygga rådjuret | skygga rådjur | de skygga rådjuren | 胆小的狍子 |\n| en trött åsna | den trötta åsnan | trötta åsnor | de trötta åsnorna | 疲倦的驴 |\n| en tung kamel | den tunga kamelen | tunga kameler | de tunga kamelerna | 沉重的骆驼 |\n| en fläckig giraff | den fläckiga giraffen | fläckiga giraffer | de fläckiga girafferna | 有斑点的长颈鹿 |\n| en randig zebra | den randiga zebran | randiga zebror | de randiga zebrorna | 有条纹的斑马 |\n| en vaken örn | den vakna örnen | vakna örnar | de vakna örnarna | 警醒的鹰 |\n| en klok uggla | den kloka ugglan | kloka ugglor | de kloka ugglorna | 聪明的猫头鹰 |\n| en lång svan | den långa svanen | långa svanar | de långa svanarna | 修长的天鹅 |\n| en lugn gås | den lugna gåsen | lugna gäss | de lugna gässen | 安静的鹅 |\n| en grön papegoja | den gröna papegojan | gröna papegojor | de gröna papegojorna | 绿色的鹦鹉 |\n| en blå fjäril | den blåa fjärilen | blåa fjärilar | de blåa fjärilarna | 蓝色的蝴蝶 |\n| ett nytt bi | det nya biet | nya bin | de nya bina | 新的蜜蜂 |\n| en tyst myra | den tysta myran | tysta myror | de tysta myrorna | 安静的蚂蚁 |\n| en pigg fluga | den pigga flugan | pigga flugor | de pigga flugorna | 活泼的苍蝇 |\n| en mjuk snigel | den mjuka snigeln | mjuka sniglar | de mjuka sniglarna | 柔软的蜗牛 |\n| en fet val | den feta valen | feta valar | de feta valarna | 肥硕的鲸鱼 |\n| en fri säl | den fria sälen | fria sälar | de fria sälarna | 自由的海豹 |\n| en vass haj | den vassa hajen | vassa hajar | de vassa hajarna | 牙齿锋利的鲨鱼 |\n| en glupsk krokodil | den glupska krokodilen | glupska krokodiler | de glupska krokodilerna | 贪婪的鳄鱼 |\n| en hård sköldpadda | den hårda sköldpaddan | hårda sköldpaddor | de hårda sköldpaddorna | 坚硬的乌龟 |\n\n## 导入块（words only · 精简种子）"
+    },
     {
       "slug": "scenario-2026-06-18-fraga-efter-vagen",
       "file": "scenario-2026-06-18-fraga-efter-vagen.md",
