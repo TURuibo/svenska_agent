@@ -95,6 +95,70 @@
     }
   }
 
+  // ---- Läsning cross-link: map each 来源 to its readable article ----
+  // The reading site (site/reading/) holds the human-readable version of each
+  // generated scenario / drill / pasted text. A KB source note and its reading
+  // article share a date and topic but not an exact slug
+  // (source-2026-06-15-restaurang-allergi-nota ↔ scenario-…-pa-restaurang-allergi-och-nota),
+  // so we match on same date + best topic-token overlap. Sources with no reading
+  // article (news, dictionary lookups, older sources) simply get no link.
+  const READING = (window.READING_DATA && Array.isArray(window.READING_DATA.articles))
+    ? window.READING_DATA.articles : [];
+  // Tokens that carry no topic meaning: structural words, file-kind prefixes, and
+  // the date components (filtered separately as pure digits).
+  const SLUG_STOP = new Set([
+    'pa', 'och', 'en', 'ett', 'i', 'att', 'med', 'av', 'om', 'till', 'och', 'eller',
+    'bojning', 'scenario', 'adjsubst', 'paste', 'source', 'other', 'text', 'story', 'dialog',
+  ]);
+  // Fold Swedish diacritics so a label ("hälsa", "födelsedag") matches an
+  // ASCII-folded reading slug ("halsa", "fodelsedag").
+  function fold(s) {
+    return String(s || '').toLowerCase().replace(/å/g, 'a').replace(/ä/g, 'a').replace(/ö/g, 'o');
+  }
+  // Topic tokens from free text (slug, label or title): drop digits (dates),
+  // 1-char fragments, and stopwords.
+  function topicTokens(str) {
+    return new Set(
+      fold(str).split(/[^a-z0-9]+/)
+        .filter((t) => t.length > 1 && !/^\d+$/.test(t) && !SLUG_STOP.has(t))
+    );
+  }
+  function dateInSlug(slug) {
+    const m = /(\d{4}-\d{2}-\d{2})/.exec(String(slug || ''));
+    return m ? m[1] : '';
+  }
+  const readingByDate = new Map(); // 'YYYY-MM-DD' -> [article...]
+  for (const a of READING) {
+    const d = a.date || dateInSlug(a.slug);
+    if (!d) continue;
+    if (!readingByDate.has(d)) readingByDate.set(d, []);
+    readingByDate.get(d).push(a);
+  }
+  // Resolve the reading article for a KB source note (or null). Matches on same
+  // date + best topic-token overlap, drawing tokens from both the slug and the
+  // human label/title so a topic word that lives only in the label still counts.
+  function readingFor(src) {
+    if (!src) return null;
+    const d = srcDate(src) || dateInSlug(src.slug);
+    const cands = readingByDate.get(d);
+    if (!cands || !cands.length) return null;
+    const want = topicTokens(`${src.slug} ${srcLabel(src)}`);
+    let best = null;
+    let bestScore = 0;
+    for (const a of cands) {
+      const have = topicTokens(`${a.slug} ${a.title || ''}`);
+      let shared = 0;
+      for (const t of want) if (have.has(t)) shared += 1;
+      if (shared > bestScore) { bestScore = shared; best = a; }
+    }
+    return bestScore > 0 ? best : null;
+  }
+  // Deep link into Läsning, carrying a back-anchor to this forms date section.
+  function readingHref(article, dateKey) {
+    const from = dateKey ? `&from=${encodeURIComponent('date-' + dateKey)}` : '';
+    return `../reading/#article=${encodeURIComponent(article.slug)}${from}`;
+  }
+
   let sortMode = 'new';
   let groupMode = 'date';
   let query = '';
@@ -296,11 +360,22 @@
           return `<span class="${c}">${esc(f)}</span>`;
         }).join('')}</div>`
       : '';
+    // For a 来源 note that has a readable Läsning article, offer a jump to read
+    // the full original text (with 中文 translation) — and a back-anchor home.
+    let readBlock = '';
+    if (note.type === 'source') {
+      const article = readingFor(note);
+      if (article) {
+        const href = readingHref(article, srcDate(note));
+        readBlock = `<a class="fmReadLink" href="${href}">📖 阅读原文（Läsning，可看中文翻译）→</a>`;
+      }
+    }
     return (
       '<header class="fmHead">' +
       `<h2 id="fmTitle">${esc(lemma)}</h2>` +
       (gloss ? `<p class="fmGloss">${esc(gloss)}</p>` : '') +
       (meta.length ? `<div class="fmMeta">${meta.join('')}</div>` : '') +
+      readBlock +
       forms +
       '</header>' +
       `<div class="fmDoc">${mdToHtml(note.body || '')}</div>`
@@ -462,6 +537,10 @@
         .map((s) => batches.get(s.slug));
       for (const { src, items } of orderedBatches) {
         items.sort((a, b) => a.lemma.localeCompare(b.lemma, 'sv'));
+        const article = readingFor(src);
+        const readLink = article
+          ? `<a class="srcReadLink" href="${readingHref(article, dateKey)}" title="在 Läsning 阅读原文（可看中文翻译）">📖 阅读原文</a>`
+          : '';
         parts.push('<div class="srcBatch">');
         parts.push(
           '<div class="srcHead">' +
@@ -469,6 +548,7 @@
           `<span class="srcIco">${srcIcon(src.kind)}</span>` +
           `<span class="srcName">${esc(srcLabel(src))}</span></button>` +
           srcMetaHtml(src) +
+          readLink +
           `<span class="srcCount">${items.length} 词</span>` +
           '</div>'
         );
@@ -586,6 +666,20 @@
       `${words.length} 词 · ${orderedClasses.length} 词性 · 数据 ${data.generatedAt || ''}`;
   }
 
+  // The page renders async, so an anchor in the URL (e.g. arriving back from
+  // Läsning at #date-2026-06-17) won't have scrolled. Do it after render, and
+  // briefly highlight the target section.
+  function scrollToHash() {
+    const id = decodeURIComponent((location.hash || '').replace(/^#/, ''));
+    if (!id) return;
+    const el = document.getElementById(id);
+    if (!el) return;
+    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    el.classList.add('hashFlash');
+    setTimeout(() => el.classList.remove('hashFlash'), 1400);
+  }
+
   renderNav();
   render();
+  scrollToHash();
 })();

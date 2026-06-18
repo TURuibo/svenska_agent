@@ -359,6 +359,49 @@
   color: var(--muted);
   font-variant-numeric: tabular-nums;
 }
+
+/* 📖 jump to the readable Läsning article for this source */
+.srcReadLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  font-family: var(--cjk);
+  font-size: 0.78rem;
+  color: var(--blue);
+  text-decoration: none;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.05rem 0.55rem;
+  background: rgba(255, 255, 255, 0.7);
+  white-space: nowrap;
+  transition: background 0.15s, border-color 0.15s;
+}
+.srcReadLink:hover { background: var(--panel-soft); border-color: var(--blue); }
+
+/* same link inside the source-note popup */
+.fmReadLink {
+  display: inline-block;
+  margin-top: 0.6rem;
+  font-family: var(--cjk);
+  font-size: 0.9rem;
+  color: var(--blue);
+  text-decoration: none;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.35rem 0.7rem;
+  background: rgba(255, 255, 255, 0.7);
+  transition: background 0.15s, border-color 0.15s;
+}
+.fmReadLink:hover { background: var(--panel-soft); border-color: var(--blue); }
+
+/* brief highlight when jumping to a #date- section (e.g. back from Läsning) */
+.hashFlash {
+  animation: hashFlash 1.4s ease-out;
+}
+@keyframes hashFlash {
+  0% { box-shadow: 0 0 0 3px var(--gold); }
+  100% { box-shadow: 0 0 0 3px transparent; }
+}
 .srcBatch .formsTable {
   border: 0;
   border-radius: 0;
