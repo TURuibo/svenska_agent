@@ -170,19 +170,80 @@
     return claimed;
   }
 
-  // Map each item slug to its origin category (first claiming source wins).
-  // Items in no source default to 'sfi' — individual dictionary lookups share
-  // the high-value bucket with study material.
+  // Map each item slug to its origin category + its source note (first claiming
+  // source wins). Items in no source default to 'sfi' — individual dictionary
+  // lookups share the high-value bucket with study material.
   const catBySlug = new Map();
+  const sourceBySlug = new Map(); // item slug -> source note (for peek read-link)
   for (const n of notes) {
     if (n.type !== 'source') continue;
     const cat = classifySource(n);
     for (const slug of sourceClaims(n)) {
       if (!catBySlug.has(slug)) catBySlug.set(slug, cat);
+      if (!sourceBySlug.has(slug)) sourceBySlug.set(slug, n);
     }
   }
   function itemCategory(n) {
     return catBySlug.get(n.slug) || 'sfi';
+  }
+
+  // ---------- Läsning cross-link: map a 来源 to its readable article ----------
+  // The reading site holds the human-readable version of each generated scenario
+  // / drill / pasted text. A source note and its reading article share a date and
+  // topic but not an exact slug, so match on same date + best topic-token overlap
+  // (tokens drawn from slug AND label/title). Sources with no reading article
+  // (older sources, news, pure lookups) simply get no link. Mirrors forms.js.
+  const READING = (window.READING_DATA && Array.isArray(window.READING_DATA.articles))
+    ? window.READING_DATA.articles : [];
+  const SLUG_STOP = new Set([
+    'pa', 'och', 'en', 'ett', 'i', 'att', 'med', 'av', 'om', 'till', 'eller',
+    'bojning', 'scenario', 'adjsubst', 'paste', 'source', 'other', 'text', 'story', 'dialog',
+  ]);
+  function fold(s) {
+    return String(s || '').toLowerCase().replace(/å/g, 'a').replace(/ä/g, 'a').replace(/ö/g, 'o');
+  }
+  function topicTokens(str) {
+    return new Set(
+      fold(str).split(/[^a-z0-9]+/)
+        .filter((t) => t.length > 1 && !/^\d+$/.test(t) && !SLUG_STOP.has(t))
+    );
+  }
+  function dateInSlug(slug) {
+    const m = /(\d{4}-\d{2}-\d{2})/.exec(String(slug || ''));
+    return m ? m[1] : '';
+  }
+  function srcDateOf(src) {
+    return String(src.date || src.date_added || src.created || '') || dateInSlug(src.slug);
+  }
+  function srcLabelOf(src) {
+    return String(src.source_label || src.title || src.slug || '');
+  }
+  const readingByDate = new Map();
+  for (const a of READING) {
+    const d = a.date || dateInSlug(a.slug);
+    if (!d) continue;
+    if (!readingByDate.has(d)) readingByDate.set(d, []);
+    readingByDate.get(d).push(a);
+  }
+  function readingFor(src) {
+    if (!src) return null;
+    const cands = readingByDate.get(srcDateOf(src));
+    if (!cands || !cands.length) return null;
+    const want = topicTokens(`${src.slug} ${srcLabelOf(src)}`);
+    let best = null;
+    let bestScore = 0;
+    for (const a of cands) {
+      const have = topicTokens(`${a.slug} ${a.title || ''}`);
+      let shared = 0;
+      for (const t of want) if (have.has(t)) shared += 1;
+      if (shared > bestScore) { bestScore = shared; best = a; }
+    }
+    return bestScore > 0 ? best : null;
+  }
+  // Deep link into Läsning carrying a back-anchor to this Dagbok day.
+  function readingHref(article, dateKey) {
+    const from = dateKey ? `&from=${encodeURIComponent('day-' + dateKey)}&frompage=recap` : '';
+    return `../reading/#article=${encodeURIComponent(article.slug)}${from}`;
   }
 
   // Per-category item counts (drives which filter buttons appear + their badges).
@@ -523,6 +584,16 @@
         bHead.appendChild(icon);
         bHead.appendChild(title);
         bHead.appendChild(counts);
+        // 📖 jump to the readable Läsning article for this source (if any)
+        const article = readingFor(src);
+        if (article) {
+          const read = document.createElement('a');
+          read.className = 'batchReadLink';
+          read.href = readingHref(article, dateKey);
+          read.textContent = '📖 阅读原文';
+          read.title = '在 Läsning 阅读站看原文（可切中文翻译），可一键跳回';
+          bHead.appendChild(read);
+        }
         bHead.appendChild(batchFlash);
         batch.appendChild(bHead);
 
@@ -670,7 +741,16 @@
     if (n.zh) meta.push(`🇨🇳 ${escapeHtml(String(n.zh))}`);
     if (n.en) meta.push(`🇬🇧 ${escapeHtml(String(n.en))}`);
     const metaHtml = meta.length ? `<div class="peekMeta">${meta.join(' · ')}</div>` : '';
-    peekBody.innerHTML = metaHtml + mdToHtml(n.body || '');
+    // If this item came from a source with a readable Läsning article, offer a
+    // jump to read the original (with 中文), carrying a back-anchor to its day.
+    let readHtml = '';
+    const src = sourceBySlug.get(n.slug);
+    const article = src && readingFor(src);
+    if (article) {
+      const dateKey = String(n.created || srcDateOf(src) || '');
+      readHtml = `<div class="peekRead"><a class="batchReadLink" href="${readingHref(article, dateKey)}">📖 阅读原文（Läsning，可看中文翻译）→</a></div>`;
+    }
+    peekBody.innerHTML = metaHtml + readHtml + mdToHtml(n.body || '');
     peekOpen.href = `../#note=${encodeURIComponent(n.slug)}`;
     peek.hidden = false;
     syncPeekActions();
@@ -930,6 +1010,34 @@
     syncActive();
   }
 
+  // Arriving back from Läsning with #day-YYYY-MM-DD → scroll to that day and
+  // flash it. If a source filter hides the day, clear the filter first so the
+  // target is actually rendered.
+  function scrollToDayHash() {
+    const m = /^#day-(\d{4}-\d{2}-\d{2})$/.exec(location.hash || '');
+    if (!m) return;
+    // Stop the browser from restoring the previous scroll position on top of ours.
+    try { if ('scrollRestoration' in history) history.scrollRestoration = 'manual'; } catch (_e) {}
+    const key = m[1];
+    let anchor = document.querySelector(`[data-day="${key}"]`);
+    if (!anchor && activeSources.size > 0) {
+      activeSources.clear();
+      saveSources();
+      buildSourceBar();
+      renderTimeline();
+      anchor = document.querySelector(`[data-day="${key}"]`);
+    }
+    if (!anchor) return;
+    // Defer past initial layout + the browser's own scroll restoration — a
+    // synchronous scrollIntoView during load gets ignored or overridden. Use an
+    // instant jump (smooth is unreliable right after load) to land on the day.
+    setTimeout(() => {
+      anchor.scrollIntoView({ block: 'start' });
+      anchor.classList.add('flash');
+      setTimeout(() => anchor.classList.remove('flash'), 1400);
+    }, 60);
+  }
+
   // ---------- init ----------
 
   buildHeatmap();
@@ -941,4 +1049,6 @@
   style.textContent =
     '.daySection.flash { box-shadow: 0 0 0 3px var(--gold), 0 24px 60px rgba(32,47,38,0.18); transition: box-shadow 0.4s; }';
   document.head.appendChild(style);
+
+  scrollToDayHash();
 })();
