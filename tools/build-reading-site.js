@@ -72,6 +72,7 @@ function kindFromName(name) {
   if (name.startsWith('scenario-')) return 'scenario';
   if (name.startsWith('adjsubst-')) return 'adjsubst';
   if (name.startsWith('paste-')) return 'paste';
+  if (name.startsWith('news-')) return 'news';
   return 'other';
 }
 
@@ -79,6 +80,7 @@ const KIND_LABELS = {
   scenario: { zh: '情景练习', en: 'scenario' },
   adjsubst: { zh: '词形变化', en: 'adj+subst drill' },
   paste: { zh: '粘贴文章', en: 'pasted text' },
+  news: { zh: '新闻', en: 'news' },
   other: { zh: '其他', en: 'other' },
 };
 

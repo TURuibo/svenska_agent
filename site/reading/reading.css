@@ -155,6 +155,7 @@
 .cardKind.kind-scenario { background: rgba(47, 111, 85, 0.14); color: var(--green); }
 .cardKind.kind-paste    { background: rgba(49, 95, 125, 0.14); color: var(--blue); }
 .cardKind.kind-adjsubst { background: rgba(169, 120, 42, 0.16); color: var(--gold); }
+.cardKind.kind-news     { background: rgba(155, 79, 67, 0.14); color: var(--red); }
 .cardKind.kind-other    { background: var(--paper); color: var(--muted); }
 .cardStatus { border: 1px solid var(--line); color: var(--muted); }
 .status-pending { color: var(--gold); border-color: var(--gold); }
