@@ -112,7 +112,7 @@
 
   // ---------- list ----------
 
-  const KIND_BADGE = { scenario: 'scenario', paste: 'paste', adjsubst: 'adjsubst', other: 'other' };
+  const KIND_BADGE = { scenario: 'scenario', paste: 'paste', adjsubst: 'adjsubst', news: 'news', other: 'other' };
   let activeKind = 'all', query = '', currentSlug = null, unreadOnly = false;
 
   // Deep link from another page: #article=<slug>&from=<anchor>&frompage=<forms|recap>.

@@ -1,5 +1,5 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-19 11:13:07",
+  "generatedAt": "2026-06-19 19:54:15",
   "articles": [
     {
       "slug": "news-2026-06-19",
@@ -8,10 +8,10 @@ window.READING_DATA = {
       "status": "imported",
       "statusLabel": "已导入",
       "statusEn": "imported",
-      "kind": "other",
+      "kind": "news",
       "kindLabel": {
-        "zh": "其他",
-        "en": "other"
+        "zh": "新闻",
+        "en": "news"
       },
       "title": "🇸🇪 Dagens nyheter (8 Sidor) — 2026-06-19",
       "cefr": "A2",
@@ -64,10 +64,10 @@ window.READING_DATA = {
       "status": "imported",
       "statusLabel": "已导入",
       "statusEn": "imported",
-      "kind": "other",
+      "kind": "news",
       "kindLabel": {
-        "zh": "其他",
-        "en": "other"
+        "zh": "新闻",
+        "en": "news"
       },
       "title": "🇸🇪 Dagens nyheter (8 Sidor) — 2026-06-18",
       "cefr": "A2",
