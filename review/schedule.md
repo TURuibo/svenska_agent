@@ -8,6 +8,15 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— Adj+subst böjning 2026-06-19 — 8 nya ord —** | | | | | | |
+| [[öppen]] | word | — | 0 | 2.5 | 2026-06-19 | no |
+| [[dag]] | word | — | 0 | 2.5 | 2026-06-19 | no |
+| [[land]] | word | — | 0 | 2.5 | 2026-06-19 | no |
+| [[penna]] | word | — | 0 | 2.5 | 2026-06-19 | no |
+| [[brev]] | word | — | 0 | 2.5 | 2026-06-19 | no |
+| [[klocka]] | word | — | 0 | 2.5 | 2026-06-19 | no |
+| [[nyckel]] | word | — | 0 | 2.5 | 2026-06-19 | no |
+| [[hand]] | word | — | 0 | 2.5 | 2026-06-19 | no |
 | **— SVT Nyheter på lätt svenska 2026-06-18 听力 — 12词 / 6词组 —** | | | | | | |
 | [[avtal]] | word | — | 0 | 2.5 | 2026-06-18 | no |
 | [[kriga]] | word | — | 0 | 2.5 | 2026-06-18 | no |
