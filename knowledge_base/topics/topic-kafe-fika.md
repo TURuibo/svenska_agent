@@ -32,6 +32,18 @@ members:
   - kan-jag-få
   - med-eller-utan
   - det-räcker-bra-så
+  - barista
+  - havredryck
+  - morotskaka
+  - macka
+  - vetebröd
+  - stämpelkort
+  - att-ta-med
+  - var-tionde-kaffe
+  - betala-med-swish
+  - ha-en-fin-dag
+  - tack-detsamma
+  - ha-bråttom
 created: "2026-06-09"
 ---
 
@@ -68,6 +80,18 @@ created: "2026-06-09"
 - [[jag-skulle-vilja-ha]] — 我想要……
 - [[kan-jag-få]] — 请给我……
 - [[med-eller-utan]] — 加还是不加
+- [[barista]] — 咖啡师
+- [[havredryck]] — 燕麦奶（燕麦饮品）
+- [[morotskaka]] — 胡萝卜蛋糕
+- [[macka]] — 三明治（口语）
+- [[vetebröd]] — 小麦面包
+- [[stämpelkort]] — 集点卡
+- [[att-ta-med]] — 外带；打包带走
+- [[var-tionde-kaffe]] — 每第十杯咖啡免费
+- [[betala-med-swish]] — 用 Swish 付款
+- [[ha-en-fin-dag]] — 祝你今天愉快
+- [[tack-detsamma]] — 谢谢，你也一样
+- [[ha-bråttom]] — 赶时间；着急
 
 ## 备注 (Notes)
 

@@ -21,6 +21,11 @@ members:
   - kan-vi-dela-på-notan
   - betala-med-kort-eller-swish
   - lägga-till-dricks
+  - betala-med-swish
+  - stämpelkort
+  - kod
+  - gratis
+  - hur-mycket-blir-det
 created: "2026-06-09"
 ---
 
@@ -57,6 +62,11 @@ created: "2026-06-09"
 
 **Kassafraser (收银台用语)**
 - [[det-blir-x-kronor]] — 一共X克朗
+- [[hur-mycket-blir-det]] — 多少钱？
+- [[betala-med-swish]] — 用 Swish 付款
+- [[stämpelkort]] — 集点卡
+- [[kod]] — 付款码；代码
+- [[gratis]] — 免费的
 
 ## 备注 (Notes)
 

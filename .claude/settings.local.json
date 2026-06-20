@@ -22,7 +22,11 @@
       "Bash(gh auth:*)",
       "Bash(gh pr create --title 'Import NYHETS-SIDAN Vecka 22: 62 new KB entries' --body ':*)",
       "Bash(grep -l \"synonyms: \\\\[\\\\]\" knowledge_base/words/*.md)",
-      "Bash(ls knowledge_base/words/*.md)"
+      "Bash(ls knowledge_base/words/*.md)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git pull *)",
+      "PowerShell(git push origin main)"
     ]
   }
 }

@@ -3,7 +3,7 @@ type: topic
 name: "yrken"
 kind: semantic-field
 zh: 职业（语义场）
-members: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba, författare, proffs]
+members: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba, författare, proffs, barista, kassör]
 created: "2026-06-02"
 ---
 
@@ -21,6 +21,8 @@ created: "2026-06-02"
 - [[jobba]] — 工作（口语）(to work, colloquial)
 - [[författare]] — 作家 (author)
 - [[proffs]] — 职业选手；专业人士 (professional)
+- [[barista]] — 咖啡师 (barista)
+- [[kassör]] — 收银员 (cashier)
 
 ## 备注 (Notes)
 

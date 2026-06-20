@@ -83,6 +83,15 @@ members:
   - bra-val
   - vad-har-ni-för
   - välkommen-åter
+  - havredryck
+  - gluten
+  - glutenfri
+  - morotskaka
+  - macka
+  - vetebröd
+  - undvika
+  - tål-inte-laktos
+  - något-glutenfritt
 created: 2026-06-11
 ---
 
@@ -159,6 +168,17 @@ created: 2026-06-11
 - [[allergisk]] — 过敏的
 - [[tåla]] — 耐受
 - [[värma]] — 加热
+- [[gluten]] — 麸质
+- [[glutenfri]] — 无麸质的
+- [[undvika]] — 避免
+- [[tål-inte-laktos]] — 乳糖不耐受
+- [[något-glutenfritt]] — 有无麸质的东西
+
+**Café-bakverk (咖啡馆烘焙品)**
+- [[havredryck]] — 燕麦奶
+- [[morotskaka]] — 胡萝卜蛋糕
+- [[macka]] — 三明治（口语）
+- [[vetebröd]] — 小麦面包
 
 **Smak-adjektiv (味道形容词)**
 - [[salt]] — 咸的
