@@ -267,6 +267,31 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 > 注意：`listening/` 与 `site/listening/` 都是 **tracked**(不像 `inbox/` 被 gitignore)，随 git 正常多设备同步。
 > SVT 那档是**视频**、没有逐条文字页面，所以它**只做听力**；抓**文字入库**的每日新闻仍走 8 Sidor(§4.4)——两条线分工不冲突。
 
+### §4.6 云端 routine (Cloud routines — Claude Code on the web)
+
+§4.3–§4.5 那套每日自动化原本是 **Windows 桌面**链路：`scripts/*.ps1` + Claude Code 桌面定时任务，
+**只在桌面 App 开着时**才跑。要让它们在 **Claude Code on the web**（云端、无人值守、电脑关机也跑）上跑，
+用**云端版命令**——它们把 `.ps1` 那套（headless 抓取 + import-and-rebuild + sync-kb）压成**一次云会话内**
+的一条龙：**生成 → `sv-import` 入库 → `node tools/build-*.js` 重建站点 → git commit + push**。
+
+- `/dagens-nyheter-cloud [YYYY-MM-DD]` — 新闻（要联网抓 8 Sidor）。
+- `/dagens-scenario-cloud [date] [0-13]` — 情景练习（不联网）。
+- `/adjsubst-cloud [date] [0-9]` — adjsubst 变形页（不联网）。
+
+**与桌面版的关键差异（务必记住）：**
+- **Linux 容器**：没有 PowerShell/桌面通知。所有构建用 `node tools/build-kb-site.js` +
+  `build-reading-site.js`（跨平台），**绝不**用 `build-kb-site.ps1`（已在 `/import` 里改用 node）。
+- **容器临时 + `inbox/` 被 gitignore**：生成的 inbox 文件**关机即失**，所以**必须同一次 run 里**走完
+  import，并把可读正文 `git mv` 到 tracked 的 `imported/`，最后 commit+push 才留得住。
+- **联网受 Network policy 限制**：`/dagens-nyheter-cloud` 要在环境里把 `8sidor.se` 等加入 **Network
+  access** 白名单（或用 `Full`），否则 WebFetch 403。
+- **配置在网页后台**：在 `claude.ai/code/routines` 给每条挂一个**定时触发**（最小间隔 **1 小时**，
+  按订阅额度计费、有每日 run 上限），routine prompt 就写对应的 `…-cloud` 命令。
+- **listening（SVT）暂未云化**——它还走桌面 `scripts/daily-listening.ps1`。
+
+> 桌面版（§4.4/§4.5 的 `/dagens-nyheter`、`.ps1`、桌面定时任务）保留不动；云端版是并行的另一条入口，
+> 同一个 repo、同一套 KB，谁先跑谁入库，import 的查重保证不重复。
+
 ---
 
 ## 5. 水平档案 (Learner Profile)

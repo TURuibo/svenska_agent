@@ -41,8 +41,10 @@ Follow sv-import §4b and §5:
 ## 4. Archive + rebuild
 
 Follow sv-import §8: if the source was an inbox file, move it to the tracked root `imported/` folder
-after a successful store, then rebuild both generated sites:
-- `powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1` (KB viewer + slug manifest)
+after a successful store, then rebuild both generated sites (use the cross-platform node builders —
+they work on Windows, macOS and the Linux cloud container alike; `build-kb-site.ps1` is the
+Windows-only wrapper and must NOT be used in cloud/Linux sessions):
+- `node tools/build-kb-site.js` (KB viewer + slug manifest)
 - `node tools/build-reading-site.js` (Läsning reading data — surfaces the archived scenario/article)
 
 ## 5. Give the concise receipt
