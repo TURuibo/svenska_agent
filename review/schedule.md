@@ -8,6 +8,34 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— scenario-2026-06-21-handla-i-mataffären — 8词 / 6词组 / 12句 / 1语法 —** | | | | | | |
+| [[mataffär]] | word | — | 0 | 2.5 | 2026-06-21 | no |
+| [[extrapris]] | word | — | 0 | 2.5 | 2026-06-21 | no |
+| [[väga]] | word | — | 0 | 2.5 | 2026-06-21 | no |
+| [[våg]] | word | — | 0 | 2.5 | 2026-06-21 | no |
+| [[bageri]] | word | — | 0 | 2.5 | 2026-06-21 | no |
+| [[kasse]] | word | — | 0 | 2.5 | 2026-06-21 | no |
+| [[kassa]] | word | — | 0 | 2.5 | 2026-06-21 | no |
+| [[frukt]] | word | — | 0 | 2.5 | 2026-06-21 | no |
+| [[var-hittar-jag]] | phrase | — | 0 | 2.5 | 2026-06-21 | no |
+| [[på-extrapris]] | phrase | — | 0 | 2.5 | 2026-06-21 | no |
+| [[där-borta]] | phrase | — | 0 | 2.5 | 2026-06-21 | no |
+| [[tack-så-mycket-för-hjälpen]] | phrase | — | 0 | 2.5 | 2026-06-21 | no |
+| [[kan-jag-betala-med-kort]] | phrase | — | 0 | 2.5 | 2026-06-21 | no |
+| [[behöver-du-en-kasse]] | phrase | — | 0 | 2.5 | 2026-06-21 | no |
+| [[grammar-platsadverb]] | grammar | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-ursäkta-var-hittar-jag-mjölken]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-den-star-langst-bak-till-hoger-bredvid-ostarna]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-har-ni-laktosfri-mjolk-ocksa]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-ja-den-star-pa-samma-hylla-langst-ner]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-forresten-ar-bananerna-pa-extrapris-idag]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-ja-de-kostar-nu-nio-kronor-kilot-du-vager-dem-sjalv-vid-vagen-dar-borta]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-och-var-ligger-brodet]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-ga-rakt-fram-forbi-frukten-sa-ser-du-bageriet-till-vanster]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-tack-sa-mycket-for-hjalpen]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-varsagod-behover-du-en-kasse]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-ja-garna-en-papperskasse-tack-kan-jag-betala-med-kort]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
+| [[sent-sjalvklart-du-kan-betala-vid-kassan-dar-framme]] | sentence | — | 0 | 2.5 | 2026-06-21 | no |
 | **— scenario-2026-06-20-SMS-till-en-vän — 7词 / 5词组 / 14句 / 3语法 —** | | | | | | |
 | [[läge]] | word | — | 0 | 2.5 | 2026-06-20 | no |
 | [[sjö]] | word | — | 0 | 2.5 | 2026-06-20 | no |
