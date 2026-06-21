@@ -3,7 +3,7 @@ type: topic
 name: "kropp"
 kind: semantic-field
 zh: "身体；身体部位"
-members: [arm, hals, ben, knä, stark, öm, bruten, svullen, pigg, patient, tå, haka, höft, läpp, axel, mun, hud, armbåge, handled, kind, panna, muskel, lunga, njure, näsa, finger, lår, skelett, mager, len, trött, känslig, böjd]
+members: [arm, hals, ben, knä, stark, öm, bruten, svullen, pigg, patient, tå, haka, höft, läpp, axel, mun, hud, armbåge, handled, kind, panna, muskel, lunga, njure, näsa, finger, lår, skelett, mager, len, trött, känslig, böjd, lockig]
 created: "2026-06-07"
 ---
 
@@ -50,6 +50,7 @@ created: "2026-06-07"
 - [[trött]] — 累的、疲惫的
 - [[känslig]] — 敏感的
 - [[böjd]] — 弯曲的
+- [[lockig]] — 卷曲的（卷发）
 
 ### 医疗相关 (Medical)
 

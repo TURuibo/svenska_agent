@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-21 20:22:02",
+  "generatedAt": "2026-06-21 21:17:40",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -30102,6 +30102,7 @@ window.KB_DATA = {
         "tiger",
         "tjock",
         "topic-kropp",
+        "topic-monster",
         "trogen",
         "tyst",
         "uggla",
@@ -30617,7 +30618,7 @@ window.KB_DATA = {
       "type": "topic",
       "title": "karaktärsord",
       "path": "knowledge_base/topics/topic-karaktarsord.md",
-      "body": "# 🗂️ karaktärsord — 性格与情绪形容词（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[lycklig]] — 快乐的/幸福的 (happy, fortunate)\n- [[tråkig]] — 无聊的/令人厌烦的 (boring, dull)\n- [[orolig]] — 担心的/焦虑的 (worried, anxious)\n- [[modig]] — 勇敢的 (brave, courageous)\n- [[ensam]] — 孤独的/独自的 (alone, lonely)\n- [[ovanlig]] — 不寻常的/罕见的 (unusual, rare)\n- [[annorlunda]] — 与众不同的 (different, unusual)\n- [[obekväm]] — 不舒适的 (uncomfortable)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章中描写人物性格与情感状态的形容词。\n- 许多带有 `o-` 前缀（否定）：orolig, ovanlig, obekväm。\n- 反义词对：lycklig ↔ olycklig，modig ↔ feg，tråkig ↔ rolig/spännande。",
+      "body": "# 🗂️ karaktärsord — 性格与情绪形容词（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[lycklig]] — 快乐的/幸福的 (happy, fortunate)\n- [[tråkig]] — 无聊的/令人厌烦的 (boring, dull)\n- [[orolig]] — 担心的/焦虑的 (worried, anxious)\n- [[modig]] — 勇敢的 (brave, courageous)\n- [[ensam]] — 孤独的/独自的 (alone, lonely)\n- [[ovanlig]] — 不寻常的/罕见的 (unusual, rare)\n- [[annorlunda]] — 与众不同的 (different, unusual)\n- [[obekväm]] — 不舒适的 (uncomfortable)\n- [[rädd]] — 害怕的/担心的 (afraid, scared)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章中描写人物性格与情感状态的形容词。\n- 许多带有 `o-` 前缀（否定）：orolig, ovanlig, obekväm。\n- 反义词对：lycklig ↔ olycklig，modig ↔ feg，tråkig ↔ rolig/spännande。",
       "excerpt": "🗂️ karaktärsord — 性格与情绪形容词（语义场） 类型: semantic field 成员 (Members) lycklig — 快乐的/幸福的 (happy, fortunate) tråkig — 无聊的/令人厌烦的 (boring, dull) orolig — 担心的/焦虑的 (worried, anxious) modig — 勇敢的 (brave, courageous) ensam — 孤独的/独自的 ",
       "forms": [],
       "links": [
@@ -30628,9 +30629,10 @@ window.KB_DATA = {
         "obekväm",
         "orolig",
         "ovanlig",
+        "rädd",
         "tråkig"
       ],
-      "searchText": "karaktärsord topic-karaktarsord knowledge_base/topics/topic-karaktarsord.md ---\ntype: topic\nname: \"karaktärsord\"\nkind: semantic-field\nzh: 性格与情绪形容词（语义场）\nmembers: [lycklig, tråkig, orolig, modig, ensam, ovanlig, annorlunda, obekväm]\ncreated: \"2026-06-02\"\n---\n\n# 🗂️ karaktärsord — 性格与情绪形容词（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[lycklig]] — 快乐的/幸福的 (happy, fortunate)\n- [[tråkig]] — 无聊的/令人厌烦的 (boring, dull)\n- [[orolig]] — 担心的/焦虑的 (worried, anxious)\n- [[modig]] — 勇敢的 (brave, courageous)\n- [[ensam]] — 孤独的/独自的 (alone, lonely)\n- [[ovanlig]] — 不寻常的/罕见的 (unusual, rare)\n- [[annorlunda]] — 与众不同的 (different, unusual)\n- [[obekväm]] — 不舒适的 (uncomfortable)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章中描写人物性格与情感状态的形容词。\n- 许多带有 `o-` 前缀（否定）：orolig, ovanlig, obekväm。\n- 反义词对：lycklig ↔ olycklig，modig ↔ feg，tråkig ↔ rolig/spännande。\n",
+      "searchText": "karaktärsord topic-karaktarsord knowledge_base/topics/topic-karaktarsord.md ---\ntype: topic\nname: \"karaktärsord\"\nkind: semantic-field\nzh: 性格与情绪形容词（语义场）\nmembers: [lycklig, tråkig, orolig, modig, ensam, ovanlig, annorlunda, obekväm, rädd]\ncreated: \"2026-06-02\"\n---\n\n# 🗂️ karaktärsord — 性格与情绪形容词（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[lycklig]] — 快乐的/幸福的 (happy, fortunate)\n- [[tråkig]] — 无聊的/令人厌烦的 (boring, dull)\n- [[orolig]] — 担心的/焦虑的 (worried, anxious)\n- [[modig]] — 勇敢的 (brave, courageous)\n- [[ensam]] — 孤独的/独自的 (alone, lonely)\n- [[ovanlig]] — 不寻常的/罕见的 (unusual, rare)\n- [[annorlunda]] — 与众不同的 (different, unusual)\n- [[obekväm]] — 不舒适的 (uncomfortable)\n- [[rädd]] — 害怕的/担心的 (afraid, scared)\n\n## 备注 (Notes)\n\n- 来自 Astrid Lindgren 传记文章中描写人物性格与情感状态的形容词。\n- 许多带有 `o-` 前缀（否定）：orolig, ovanlig, obekväm。\n- 反义词对：lycklig ↔ olycklig，modig ↔ feg，tråkig ↔ rolig/spännande。\n",
       "name": "karaktärsord",
       "zh": "性格与情绪形容词（语义场）",
       "created": "2026-06-02",
@@ -30683,6 +30685,7 @@ window.KB_DATA = {
         "orolig",
         "ovanlig",
         "praktisk",
+        "rädd",
         "rolig",
         "säker",
         "särskild",
@@ -30792,7 +30795,7 @@ window.KB_DATA = {
       "type": "topic",
       "title": "kropp",
       "path": "knowledge_base/topics/topic-kropp.md",
-      "body": "# topic-kropp — 身体 / 身体部位\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 身体部位 (Body parts)\n\n- [[arm]] — 手臂\n- [[hals]] — 脖子；喉咙\n- [[ben]] — 腿；骨头\n- [[knä]] — 膝盖\n- [[tå]] — 脚趾\n- [[haka]] — 下巴\n- [[höft]] — 髋部\n- [[läpp]] — 嘴唇\n- [[axel]] — 肩膀\n- [[mun]] — 嘴\n- [[hud]] — 皮肤\n- [[armbåge]] — 手肘\n- [[handled]] — 手腕\n- [[kind]] — 脸颊\n- [[panna]] — 额头\n- [[muskel]] — 肌肉\n- [[lunga]] — 肺\n- [[njure]] — 肾\n- [[näsa]] — 鼻子\n- [[finger]] — 手指\n- [[lår]] — 大腿\n- [[skelett]] — 骨骼\n\n### 描述身体状态的形容词 (Adjectives for body states)\n\n- [[stark]] — 强壮的；强烈的\n- [[öm]] — 酸痛的；体贴的\n- [[bruten]] — 断的；骨折的\n- [[svullen]] — 肿的；肿胀的\n- [[pigg]] — 精神的；有活力的\n- [[mager]] — 瘦的\n- [[len]] — 光滑的、柔滑的\n- [[trött]] — 累的、疲惫的\n- [[känslig]] — 敏感的\n- [[böjd]] — 弯曲的\n\n### 医疗相关 (Medical)\n\n- [[patient]] — 病人\n\n## 备注 (Notes)\n\n- 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。\n- 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。\n- [[stark]] 同时属于 [[topic-djur]] (动物形容词)。\n- 来源: [[source-2026-06-07-kropp-halsa]], [[source-2026-06-17-kropp-halsa]]",
+      "body": "# topic-kropp — 身体 / 身体部位\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 身体部位 (Body parts)\n\n- [[arm]] — 手臂\n- [[hals]] — 脖子；喉咙\n- [[ben]] — 腿；骨头\n- [[knä]] — 膝盖\n- [[tå]] — 脚趾\n- [[haka]] — 下巴\n- [[höft]] — 髋部\n- [[läpp]] — 嘴唇\n- [[axel]] — 肩膀\n- [[mun]] — 嘴\n- [[hud]] — 皮肤\n- [[armbåge]] — 手肘\n- [[handled]] — 手腕\n- [[kind]] — 脸颊\n- [[panna]] — 额头\n- [[muskel]] — 肌肉\n- [[lunga]] — 肺\n- [[njure]] — 肾\n- [[näsa]] — 鼻子\n- [[finger]] — 手指\n- [[lår]] — 大腿\n- [[skelett]] — 骨骼\n\n### 描述身体状态的形容词 (Adjectives for body states)\n\n- [[stark]] — 强壮的；强烈的\n- [[öm]] — 酸痛的；体贴的\n- [[bruten]] — 断的；骨折的\n- [[svullen]] — 肿的；肿胀的\n- [[pigg]] — 精神的；有活力的\n- [[mager]] — 瘦的\n- [[len]] — 光滑的、柔滑的\n- [[trött]] — 累的、疲惫的\n- [[känslig]] — 敏感的\n- [[böjd]] — 弯曲的\n- [[lockig]] — 卷曲的（卷发）\n\n### 医疗相关 (Medical)\n\n- [[patient]] — 病人\n\n## 备注 (Notes)\n\n- 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。\n- 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。\n- [[stark]] 同时属于 [[topic-djur]] (动物形容词)。\n- 来源: [[source-2026-06-07-kropp-halsa]], [[source-2026-06-17-kropp-halsa]]",
       "excerpt": "topic kropp — 身体 / 身体部位 类型: semantic field 成员 (Members) 身体部位 (Body parts) arm — 手臂 hals — 脖子；喉咙 ben — 腿；骨头 knä — 膝盖 tå — 脚趾 haka — 下巴 höft — 髋部 läpp — 嘴唇 axel — 肩膀 mun — 嘴 hud — 皮肤 armbåge — 手肘 handled — 手腕 kind — 脸颊 pan",
       "forms": [],
       "links": [
@@ -30814,6 +30817,7 @@ window.KB_DATA = {
         "läpp",
         "lår",
         "len",
+        "lockig",
         "lunga",
         "mager",
         "mun",
@@ -30834,7 +30838,7 @@ window.KB_DATA = {
         "topic-hälsa",
         "trött"
       ],
-      "searchText": "kropp topic-kropp knowledge_base/topics/topic-kropp.md ---\ntype: topic\nname: \"kropp\"\nkind: semantic-field\nzh: \"身体；身体部位\"\nmembers: [arm, hals, ben, knä, stark, öm, bruten, svullen, pigg, patient, tå, haka, höft, läpp, axel, mun, hud, armbåge, handled, kind, panna, muskel, lunga, njure, näsa, finger, lår, skelett, mager, len, trött, känslig, böjd]\ncreated: \"2026-06-07\"\n---\n\n# topic-kropp — 身体 / 身体部位\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 身体部位 (Body parts)\n\n- [[arm]] — 手臂\n- [[hals]] — 脖子；喉咙\n- [[ben]] — 腿；骨头\n- [[knä]] — 膝盖\n- [[tå]] — 脚趾\n- [[haka]] — 下巴\n- [[höft]] — 髋部\n- [[läpp]] — 嘴唇\n- [[axel]] — 肩膀\n- [[mun]] — 嘴\n- [[hud]] — 皮肤\n- [[armbåge]] — 手肘\n- [[handled]] — 手腕\n- [[kind]] — 脸颊\n- [[panna]] — 额头\n- [[muskel]] — 肌肉\n- [[lunga]] — 肺\n- [[njure]] — 肾\n- [[näsa]] — 鼻子\n- [[finger]] — 手指\n- [[lår]] — 大腿\n- [[skelett]] — 骨骼\n\n### 描述身体状态的形容词 (Adjectives for body states)\n\n- [[stark]] — 强壮的；强烈的\n- [[öm]] — 酸痛的；体贴的\n- [[bruten]] — 断的；骨折的\n- [[svullen]] — 肿的；肿胀的\n- [[pigg]] — 精神的；有活力的\n- [[mager]] — 瘦的\n- [[len]] — 光滑的、柔滑的\n- [[trött]] — 累的、疲惫的\n- [[känslig]] — 敏感的\n- [[böjd]] — 弯曲的\n\n### 医疗相关 (Medical)\n\n- [[patient]] — 病人\n\n## 备注 (Notes)\n\n- 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。\n- 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。\n- [[stark]] 同时属于 [[topic-djur]] (动物形容词)。\n- 来源: [[source-2026-06-07-kropp-halsa]], [[source-2026-06-17-kropp-halsa]]\n",
+      "searchText": "kropp topic-kropp knowledge_base/topics/topic-kropp.md ---\ntype: topic\nname: \"kropp\"\nkind: semantic-field\nzh: \"身体；身体部位\"\nmembers: [arm, hals, ben, knä, stark, öm, bruten, svullen, pigg, patient, tå, haka, höft, läpp, axel, mun, hud, armbåge, handled, kind, panna, muskel, lunga, njure, näsa, finger, lår, skelett, mager, len, trött, känslig, böjd, lockig]\ncreated: \"2026-06-07\"\n---\n\n# topic-kropp — 身体 / 身体部位\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 身体部位 (Body parts)\n\n- [[arm]] — 手臂\n- [[hals]] — 脖子；喉咙\n- [[ben]] — 腿；骨头\n- [[knä]] — 膝盖\n- [[tå]] — 脚趾\n- [[haka]] — 下巴\n- [[höft]] — 髋部\n- [[läpp]] — 嘴唇\n- [[axel]] — 肩膀\n- [[mun]] — 嘴\n- [[hud]] — 皮肤\n- [[armbåge]] — 手肘\n- [[handled]] — 手腕\n- [[kind]] — 脸颊\n- [[panna]] — 额头\n- [[muskel]] — 肌肉\n- [[lunga]] — 肺\n- [[njure]] — 肾\n- [[näsa]] — 鼻子\n- [[finger]] — 手指\n- [[lår]] — 大腿\n- [[skelett]] — 骨骼\n\n### 描述身体状态的形容词 (Adjectives for body states)\n\n- [[stark]] — 强壮的；强烈的\n- [[öm]] — 酸痛的；体贴的\n- [[bruten]] — 断的；骨折的\n- [[svullen]] — 肿的；肿胀的\n- [[pigg]] — 精神的；有活力的\n- [[mager]] — 瘦的\n- [[len]] — 光滑的、柔滑的\n- [[trött]] — 累的、疲惫的\n- [[känslig]] — 敏感的\n- [[böjd]] — 弯曲的\n- [[lockig]] — 卷曲的（卷发）\n\n### 医疗相关 (Medical)\n\n- [[patient]] — 病人\n\n## 备注 (Notes)\n\n- 本主题词汇来自 Adjektiv+substantiv böjning 练习，主题：身体与健康。\n- 参见 [[topic-hälsa]] (健康话题，含医疗/健康风险词汇)。\n- [[stark]] 同时属于 [[topic-djur]] (动物形容词)。\n- 来源: [[source-2026-06-07-kropp-halsa]], [[source-2026-06-17-kropp-halsa]]\n",
       "name": "kropp",
       "zh": "身体；身体部位",
       "created": "2026-06-07",
@@ -30861,6 +30865,7 @@ window.KB_DATA = {
         "läpp",
         "lår",
         "len",
+        "lockig",
         "lunga",
         "mager",
         "mun",
@@ -31261,6 +31266,31 @@ window.KB_DATA = {
         "tavla",
         "topic-hemmet",
         "topic-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "topic-monster",
+      "type": "topic",
+      "title": "mönster",
+      "path": "knowledge_base/topics/topic-monster.md",
+      "body": "# 🗂️ mönster — 花纹与图案形容词（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rutig]] — 格子的 (checkered, plaid)\n- [[randig]] — 条纹的 (striped)\n- [[prickig]] — 圆点的 (spotted, polka-dot)\n- [[enfärgad]] — 单色的 (solid-colour) ← 与上面三种「有花纹」相对\n\n## 备注 (Notes)\n\n- 描述布料、衣服、桌布等的图案；都是 `-ig` 结尾的派生形容词（rut-ig, rand-ig, prick-ig）。\n- 多由名词派生：ruta（方格）→ rutig，rand（条纹）→ randig，prick（点）→ prickig。\n- [[randig]] 也属于 [[topic-djur]]（斑马、老虎等有条纹的动物）。",
+      "excerpt": "🗂️ mönster — 花纹与图案形容词（语义场） 类型: semantic field 成员 (Members) rutig — 格子的 (checkered, plaid) randig — 条纹的 (striped) prickig — 圆点的 (spotted, polka dot) enfärgad — 单色的 (solid colour) ← 与上面三种「有花纹」相对 备注 (Notes) 描述布料、衣服、桌布等的图案；",
+      "forms": [],
+      "links": [
+        "enfärgad",
+        "prickig",
+        "randig",
+        "rutig",
+        "topic-djur"
+      ],
+      "searchText": "mönster topic-monster knowledge_base/topics/topic-monster.md ---\ntype: topic\nname: \"mönster\"\nkind: semantic-field\nzh: 花纹与图案形容词（语义场）\nmembers: [rutig, randig, prickig, enfärgad]\ncreated: \"2026-06-21\"\n---\n\n# 🗂️ mönster — 花纹与图案形容词（语义场）\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rutig]] — 格子的 (checkered, plaid)\n- [[randig]] — 条纹的 (striped)\n- [[prickig]] — 圆点的 (spotted, polka-dot)\n- [[enfärgad]] — 单色的 (solid-colour) ← 与上面三种「有花纹」相对\n\n## 备注 (Notes)\n\n- 描述布料、衣服、桌布等的图案；都是 `-ig` 结尾的派生形容词（rut-ig, rand-ig, prick-ig）。\n- 多由名词派生：ruta（方格）→ rutig，rand（条纹）→ randig，prick（点）→ prickig。\n- [[randig]] 也属于 [[topic-djur]]（斑马、老虎等有条纹的动物）。\n",
+      "name": "mönster",
+      "zh": "花纹与图案形容词（语义场）",
+      "created": "2026-06-21",
+      "kind": "semantic-field",
+      "backlinks": [
+        "randig",
+        "rutig"
       ]
     },
     {
@@ -49261,6 +49291,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "lockig",
+      "type": "word",
+      "title": "lockig",
+      "path": "knowledge_base/words/lockig.md",
+      "body": "# lockig — adjektiv\n\n📖 中文：卷曲的（卷发的） · English: curly\n发音提示：/ˈlɔkːɪɡ/ o 读作短开口的 å 音；ck 双辅音读短促。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | lockig |\n| neutrum obestämd | lockigt |\n| bestämd/plural | lockiga |\n| komparativ | lockigare |\n| superlativ | lockigast |\n\n## 词组搭配 (Collocations)\n\n- `lockigt hår` — 卷发（hår 是 ett-ord，所以用 lockig**t**）\n- `en lockig pojke` — 一个卷发的男孩\n- `lockiga lockar` — 一卷卷的卷发\n- `naturligt lockigt` — 天然卷\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon har långt, lockigt hår. — 🇨🇳 她有一头又长又卷的头发。\n- 🇸🇪 Mitt hår blir lockigt när det regnar. — 🇨🇳 一下雨我的头发就变卷。\n- 🇸🇪 Han var en liten pojke med lockigt hår. — 🇨🇳 他是个卷发的小男孩。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lock]] (n. 一绺卷发；也指「盖子」)\n- 同义词: [[krullig]] (卷曲的)\n- 反义词: [[rak]] (直的，如 rakt hår 直发)\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- 主要用来描述**头发** (hår)。hår 是 ett-ord，搭配 ett-form：`lockigt hår`。\n- ⚠️ 别和动词 `locka`（引诱、吸引）混淆——同根但词义不同。",
+      "excerpt": "lockig — adjektiv 📖 中文：卷曲的（卷发的） · English: curly 发音提示：/ˈlɔkːɪɡ/ o 读作短开口的 å 音；ck 双辅音读短促。 语法变形 (Forms) form böjning utrum obestämd lockig neutrum obestämd lockigt bestämd/plural lockiga komparativ lockigare superlativ loc",
+      "forms": [
+        "lockig",
+        "lockigt",
+        "lockiga",
+        "lockigare",
+        "lockigast"
+      ],
+      "links": [
+        "krullig",
+        "lock",
+        "rak",
+        "topic-kropp"
+      ],
+      "searchText": "lockig lockig knowledge_base/words/lockig.md ---\ntype: word\nlemma: \"lockig\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"卷曲的（卷发的）\"\nen: \"curly\"\nsynonyms: [krullig]\nantonyms: [rak]\nfamily: [lock]\ntopics: [topic-kropp]\nsentences: []\nknown: false\ncreated: \"2026-06-21\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lockig — adjektiv\n\n📖 中文：卷曲的（卷发的） · English: curly\n发音提示：/ˈlɔkːɪɡ/ o 读作短开口的 å 音；ck 双辅音读短促。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | lockig |\n| neutrum obestämd | lockigt |\n| bestämd/plural | lockiga |\n| komparativ | lockigare |\n| superlativ | lockigast |\n\n## 词组搭配 (Collocations)\n\n- `lockigt hår` — 卷发（hår 是 ett-ord，所以用 lockig**t**）\n- `en lockig pojke` — 一个卷发的男孩\n- `lockiga lockar` — 一卷卷的卷发\n- `naturligt lockigt` — 天然卷\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon har långt, lockigt hår. — 🇨🇳 她有一头又长又卷的头发。\n- 🇸🇪 Mitt hår blir lockigt när det regnar. — 🇨🇳 一下雨我的头发就变卷。\n- 🇸🇪 Han var en liten pojke med lockigt hår. — 🇨🇳 他是个卷发的小男孩。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lock]] (n. 一绺卷发；也指「盖子」)\n- 同义词: [[krullig]] (卷曲的)\n- 反义词: [[rak]] (直的，如 rakt hår 直发)\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- 主要用来描述**头发** (hår)。hår 是 ett-ord，搭配 ett-form：`lockigt hår`。\n- ⚠️ 别和动词 `locka`（引诱、吸引）混淆——同根但词义不同。\n",
+      "lemma": "lockig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "卷曲的（卷发的）",
+      "en": "curly",
+      "created": "2026-06-21",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-kropp"
+      ],
+      "backlinks": [
+        "topic-kropp"
+      ]
+    },
+    {
       "slug": "lök",
       "type": "word",
       "title": "lök",
@@ -50839,6 +50905,7 @@ window.KB_DATA = {
         "topic-karaktarsord"
       ],
       "backlinks": [
+        "rädd",
         "skygg",
         "source-2026-06-02-astrid-lindgren",
         "topic-karaktarsord"
@@ -52870,6 +52937,7 @@ window.KB_DATA = {
         "bekymmersam",
         "lugn",
         "oro",
+        "rädd",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "sent-det-har-varit-oroligt-kring-norges-kungahus",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
@@ -54741,6 +54809,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "rädd",
+      "type": "word",
+      "title": "rädd",
+      "path": "knowledge_base/words/rädd.md",
+      "body": "# rädd — adjektiv\n\n📖 中文：害怕的；担心的 · English: afraid, scared\n发音提示：/rɛdː/ ä = 短开口的 e；结尾 -dd 双辅音读短促。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | rädd |\n| neutrum obestämd | **rätt** ⚠️ (-dd → -tt，与 rätt「对的」同形) |\n| bestämd/plural | rädda |\n| komparativ | räddare（少用，常说 mer rädd） |\n| superlativ | räddast（少用，常说 mest rädd） |\n\n## 词组搭配 (Collocations)\n\n- `rädd för (något)` — 害怕某物（介词用 **för**！）\n- `rädd att + infinitiv` — 害怕做某事 (rädd att förlora 害怕失去)\n- `bli rädd` — 受惊、害怕起来\n- `vara rädd om (något/någon)` — 爱惜、小心呵护（**rädd om ≠ rädd för**，意思完全不同！）\n- `jätterädd` — 非常害怕（口语强调）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är rädd för spindlar. — 🇨🇳 我怕蜘蛛。\n- 🇸🇪 Var inte rädd, det gör inte ont. — 🇨🇳 别怕，不会疼的。\n- 🇸🇪 Barnet blev rätt när hunden skällde. — 🇨🇳 狗叫的时候小孩受惊了。（neutrum: rätt）\n- 🇸🇪 Hon är rädd om sin nya cykel. — 🇨🇳 她很爱惜自己的新自行车。（rädd om = 爱惜）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rädsla]] (n. 恐惧、害怕)\n- 同义词: [[orolig]] (担心的), [[skraj]] (口语：害怕的)\n- 反义词: [[modig]] (勇敢的), [[orädd]] (无所畏惧的)\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ **介词陷阱**：「害怕…」用 `rädd för`，不是 rädd av/till。\n- ⚠️ **rädd för ≠ rädd om**：`rädd för X` = 怕 X；`rädd om X` = 爱惜/小心对待 X。\n- ⚠️ **neutrum 同形陷阱**：ett-form 是 `rätt`，和 rätt「正确的」拼写相同，靠上下文区分。",
+      "excerpt": "rädd — adjektiv 📖 中文：害怕的；担心的 · English: afraid, scared 发音提示：/rɛdː/ ä = 短开口的 e；结尾 dd 双辅音读短促。 语法变形 (Forms) form böjning utrum obestämd rädd neutrum obestämd rätt ⚠️ ( dd → tt，与 rätt「对的」同形) bestämd/plural rädda komparativ ",
+      "forms": [
+        "rädd",
+        "rätt ⚠️",
+        "rädda",
+        "räddare（少用，常说 mer rädd）",
+        "räddast（少用，常说 mest rädd）"
+      ],
+      "links": [
+        "modig",
+        "orädd",
+        "orolig",
+        "rädsla",
+        "skraj",
+        "topic-karaktarsord"
+      ],
+      "searchText": "rädd rädd knowledge_base/words/rädd.md ---\ntype: word\nlemma: \"rädd\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"害怕的；担心的\"\nen: \"afraid, scared\"\nsynonyms: [orolig]\nantonyms: [modig]\nfamily: [rädsla]\ntopics: [topic-karaktarsord]\nsentences: []\nknown: false\ncreated: \"2026-06-21\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rädd — adjektiv\n\n📖 中文：害怕的；担心的 · English: afraid, scared\n发音提示：/rɛdː/ ä = 短开口的 e；结尾 -dd 双辅音读短促。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | rädd |\n| neutrum obestämd | **rätt** ⚠️ (-dd → -tt，与 rätt「对的」同形) |\n| bestämd/plural | rädda |\n| komparativ | räddare（少用，常说 mer rädd） |\n| superlativ | räddast（少用，常说 mest rädd） |\n\n## 词组搭配 (Collocations)\n\n- `rädd för (något)` — 害怕某物（介词用 **för**！）\n- `rädd att + infinitiv` — 害怕做某事 (rädd att förlora 害怕失去)\n- `bli rädd` — 受惊、害怕起来\n- `vara rädd om (något/någon)` — 爱惜、小心呵护（**rädd om ≠ rädd för**，意思完全不同！）\n- `jätterädd` — 非常害怕（口语强调）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är rädd för spindlar. — 🇨🇳 我怕蜘蛛。\n- 🇸🇪 Var inte rädd, det gör inte ont. — 🇨🇳 别怕，不会疼的。\n- 🇸🇪 Barnet blev rätt när hunden skällde. — 🇨🇳 狗叫的时候小孩受惊了。（neutrum: rätt）\n- 🇸🇪 Hon är rädd om sin nya cykel. — 🇨🇳 她很爱惜自己的新自行车。（rädd om = 爱惜）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rädsla]] (n. 恐惧、害怕)\n- 同义词: [[orolig]] (担心的), [[skraj]] (口语：害怕的)\n- 反义词: [[modig]] (勇敢的), [[orädd]] (无所畏惧的)\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ **介词陷阱**：「害怕…」用 `rädd för`，不是 rädd av/till。\n- ⚠️ **rädd för ≠ rädd om**：`rädd för X` = 怕 X；`rädd om X` = 爱惜/小心对待 X。\n- ⚠️ **neutrum 同形陷阱**：ett-form 是 `rätt`，和 rätt「正确的」拼写相同，靠上下文区分。\n",
+      "lemma": "rädd",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "害怕的；担心的",
+      "en": "afraid, scared",
+      "created": "2026-06-21",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "topic-karaktarsord"
+      ]
+    },
+    {
       "slug": "rådjur",
       "type": "word",
       "title": "rådjur",
@@ -54815,7 +54921,7 @@ window.KB_DATA = {
       "type": "word",
       "title": "randig",
       "path": "knowledge_base/words/randig.md",
-      "body": "# randig — adjektiv\n\n📖 中文：有条纹的 · English: striped\n发音提示：/ˈrandɪɡ/\n\n## 语法变形 (Forms)\n\n| form | en-form | ett-form | plural/bestämd |\n|------|---------|----------|----------------|\n| positiv obestämd | en randig (zebra) | ett randigt (djur) | randiga (djur) |\n| positiv bestämd | den randiga (zebran) | det randiga (djuret) | de randiga (djuren) |\n| komparativ | randigare | | |\n| superlativ | randigast / randigaste | | |\n\n## 词组搭配 (Collocations)\n\n- `randig päls` — 有条纹的皮毛\n- `en randig zebra` — 一匹有条纹的斑马\n- `randiga djur` — 有条纹的动物\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rand]] (条纹、边缘)\n- 同义词: —\n- 反义词: [[fläckig]]\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Avledd av *rand* (stripe). Typiska randiga djur: zebra, tiger.\n- 与 [[grammar-adjektiv-bojning]] 规则一致；与 [[grammar-adjektiv-kongruens]] 一起练习。",
+      "body": "# randig — adjektiv\n\n📖 中文：有条纹的 · English: striped\n发音提示：/ˈrandɪɡ/\n\n## 语法变形 (Forms)\n\n| form | en-form | ett-form | plural/bestämd |\n|------|---------|----------|----------------|\n| positiv obestämd | en randig (zebra) | ett randigt (djur) | randiga (djur) |\n| positiv bestämd | den randiga (zebran) | det randiga (djuret) | de randiga (djuren) |\n| komparativ | randigare | | |\n| superlativ | randigast / randigaste | | |\n\n## 词组搭配 (Collocations)\n\n- `randig päls` — 有条纹的皮毛\n- `en randig zebra` — 一匹有条纹的斑马\n- `randiga djur` — 有条纹的动物\n- `en randig tröja` — 一件条纹毛衣\n- `randiga strumpor` — 条纹袜子\n\n## 例句 (Sentences)\n\n- 🇸🇪 Zebran är svart och vit randig. — 🇨🇳 斑马是黑白条纹的。\n- 🇸🇪 Hon hade en randig tröja på sig. — 🇨🇳 她穿着一件条纹毛衣。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rand]] (条纹、边缘)\n- 同义词: —\n- 反义词: [[fläckig]], [[enfärgad]] (单色的)\n- 主题: [[topic-djur]], [[topic-monster]]\n- 相关花纹词: [[rutig]] (格子的), [[prickig]] (圆点的)\n\n## 用法提示 (Usage Notes)\n\n- Avledd av *rand* (stripe). Typiska randiga djur: zebra, tiger.\n- 与 [[grammar-adjektiv-bojning]] 规则一致；与 [[grammar-adjektiv-kongruens]] 一起练习。",
       "excerpt": "randig — adjektiv 📖 中文：有条纹的 · English: striped 发音提示：/ˈrandɪɡ/ 语法变形 (Forms) form en form ett form plural/bestämd positiv obestämd en randig (zebra) ett randigt (djur) randiga (djur) positiv bestämd den randiga (zebran) d",
       "forms": [
         "randig",
@@ -54829,13 +54935,17 @@ window.KB_DATA = {
         "randigaste"
       ],
       "links": [
+        "enfärgad",
         "fläckig",
         "grammar-adjektiv-bojning",
         "grammar-adjektiv-kongruens",
+        "prickig",
         "rand",
-        "topic-djur"
+        "rutig",
+        "topic-djur",
+        "topic-monster"
       ],
-      "searchText": "randig randig knowledge_base/words/randig.md ---\ntype: word\nlemma: \"randig\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: \"有条纹的\"\nen: \"striped\"\nsynonyms: []\nantonyms: [\"fläckig\"]\nfamily: [\"rand\"]\ntopics: [\"topic-djur\"]\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# randig — adjektiv\n\n📖 中文：有条纹的 · English: striped\n发音提示：/ˈrandɪɡ/\n\n## 语法变形 (Forms)\n\n| form | en-form | ett-form | plural/bestämd |\n|------|---------|----------|----------------|\n| positiv obestämd | en randig (zebra) | ett randigt (djur) | randiga (djur) |\n| positiv bestämd | den randiga (zebran) | det randiga (djuret) | de randiga (djuren) |\n| komparativ | randigare | | |\n| superlativ | randigast / randigaste | | |\n\n## 词组搭配 (Collocations)\n\n- `randig päls` — 有条纹的皮毛\n- `en randig zebra` — 一匹有条纹的斑马\n- `randiga djur` — 有条纹的动物\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rand]] (条纹、边缘)\n- 同义词: —\n- 反义词: [[fläckig]]\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Avledd av *rand* (stripe). Typiska randiga djur: zebra, tiger.\n- 与 [[grammar-adjektiv-bojning]] 规则一致；与 [[grammar-adjektiv-kongruens]] 一起练习。\n",
+      "searchText": "randig randig knowledge_base/words/randig.md ---\ntype: word\nlemma: \"randig\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: \"有条纹的\"\nen: \"striped\"\nsynonyms: []\nantonyms: [\"fläckig\"]\nfamily: [\"rand\"]\ntopics: [\"topic-djur\", \"topic-monster\"]\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# randig — adjektiv\n\n📖 中文：有条纹的 · English: striped\n发音提示：/ˈrandɪɡ/\n\n## 语法变形 (Forms)\n\n| form | en-form | ett-form | plural/bestämd |\n|------|---------|----------|----------------|\n| positiv obestämd | en randig (zebra) | ett randigt (djur) | randiga (djur) |\n| positiv bestämd | den randiga (zebran) | det randiga (djuret) | de randiga (djuren) |\n| komparativ | randigare | | |\n| superlativ | randigast / randigaste | | |\n\n## 词组搭配 (Collocations)\n\n- `randig päls` — 有条纹的皮毛\n- `en randig zebra` — 一匹有条纹的斑马\n- `randiga djur` — 有条纹的动物\n- `en randig tröja` — 一件条纹毛衣\n- `randiga strumpor` — 条纹袜子\n\n## 例句 (Sentences)\n\n- 🇸🇪 Zebran är svart och vit randig. — 🇨🇳 斑马是黑白条纹的。\n- 🇸🇪 Hon hade en randig tröja på sig. — 🇨🇳 她穿着一件条纹毛衣。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rand]] (条纹、边缘)\n- 同义词: —\n- 反义词: [[fläckig]], [[enfärgad]] (单色的)\n- 主题: [[topic-djur]], [[topic-monster]]\n- 相关花纹词: [[rutig]] (格子的), [[prickig]] (圆点的)\n\n## 用法提示 (Usage Notes)\n\n- Avledd av *rand* (stripe). Typiska randiga djur: zebra, tiger.\n- 与 [[grammar-adjektiv-bojning]] 规则一致；与 [[grammar-adjektiv-kongruens]] 一起练习。\n",
       "lemma": "randig",
       "ordklass": "adjektiv",
       "cefr": "A2",
@@ -54845,11 +54955,14 @@ window.KB_DATA = {
       "known": false,
       "sentences": [],
       "topics": [
-        "topic-djur"
+        "topic-djur",
+        "topic-monster"
       ],
       "backlinks": [
         "fläckig",
-        "topic-djur"
+        "rutig",
+        "topic-djur",
+        "topic-monster"
       ]
     },
     {
@@ -55985,6 +56098,44 @@ window.KB_DATA = {
         "sent-pa-golvet-framfor-soffan-rund-matta",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-19-adjsubst-blandat"
+      ]
+    },
+    {
+      "slug": "rutig",
+      "type": "word",
+      "title": "rutig",
+      "path": "knowledge_base/words/rutig.md",
+      "body": "# rutig — adjektiv\n\n📖 中文：格子的；方格图案的 · English: checkered, checked, plaid\n发音提示：/ˈrʉːtɪɡ/ u 是瑞典语特有的圆唇长 u 音。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | rutig |\n| neutrum obestämd | rutigt |\n| bestämd/plural | rutiga |\n| komparativ | rutigare |\n| superlativ | rutigast |\n\n## 词组搭配 (Collocations)\n\n- `en rutig skjorta` — 一件格子衬衫\n- `rutigt tyg` — 格子布料\n- `en rutig duk` — 格子桌布\n- `rutigt mönster` — 格子图案\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han hade på sig en rutig skjorta. — 🇨🇳 他穿着一件格子衬衫。\n- 🇸🇪 Vi la en rutig duk på bordet. — 🇨🇳 我们在桌上铺了一块格子桌布。\n- 🇸🇪 Jag gillar rutiga mönster bättre än randiga. — 🇨🇳 比起条纹，我更喜欢格子图案。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[ruta]] (n. 方格、格子)\n- 同义词: —\n- 反义词: [[enfärgad]] (单色的)\n- 主题: [[topic-monster]]\n- 相关花纹词: [[randig]] (条纹的), [[prickig]] (圆点的)\n\n## 用法提示 (Usage Notes)\n\n- 由名词 `ruta`（方格）派生。常用于描述布料、衣服、桌布的图案。\n- 同类花纹形容词：[[randig]] 条纹、[[prickig]] 圆点、enfärgad 单色。",
+      "excerpt": "rutig — adjektiv 📖 中文：格子的；方格图案的 · English: checkered, checked, plaid 发音提示：/ˈrʉːtɪɡ/ u 是瑞典语特有的圆唇长 u 音。 语法变形 (Forms) form böjning utrum obestämd rutig neutrum obestämd rutigt bestämd/plural rutiga komparativ rutigare supe",
+      "forms": [
+        "rutig",
+        "rutigt",
+        "rutiga",
+        "rutigare",
+        "rutigast"
+      ],
+      "links": [
+        "enfärgad",
+        "prickig",
+        "randig",
+        "ruta",
+        "topic-monster"
+      ],
+      "searchText": "rutig rutig knowledge_base/words/rutig.md ---\ntype: word\nlemma: \"rutig\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"格子的；方格图案的\"\nen: \"checkered, checked, plaid\"\nsynonyms: []\nantonyms: [enfärgad]\nfamily: [ruta]\ntopics: [topic-monster]\nsentences: []\nknown: false\ncreated: \"2026-06-21\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rutig — adjektiv\n\n📖 中文：格子的；方格图案的 · English: checkered, checked, plaid\n发音提示：/ˈrʉːtɪɡ/ u 是瑞典语特有的圆唇长 u 音。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | rutig |\n| neutrum obestämd | rutigt |\n| bestämd/plural | rutiga |\n| komparativ | rutigare |\n| superlativ | rutigast |\n\n## 词组搭配 (Collocations)\n\n- `en rutig skjorta` — 一件格子衬衫\n- `rutigt tyg` — 格子布料\n- `en rutig duk` — 格子桌布\n- `rutigt mönster` — 格子图案\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han hade på sig en rutig skjorta. — 🇨🇳 他穿着一件格子衬衫。\n- 🇸🇪 Vi la en rutig duk på bordet. — 🇨🇳 我们在桌上铺了一块格子桌布。\n- 🇸🇪 Jag gillar rutiga mönster bättre än randiga. — 🇨🇳 比起条纹，我更喜欢格子图案。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[ruta]] (n. 方格、格子)\n- 同义词: —\n- 反义词: [[enfärgad]] (单色的)\n- 主题: [[topic-monster]]\n- 相关花纹词: [[randig]] (条纹的), [[prickig]] (圆点的)\n\n## 用法提示 (Usage Notes)\n\n- 由名词 `ruta`（方格）派生。常用于描述布料、衣服、桌布的图案。\n- 同类花纹形容词：[[randig]] 条纹、[[prickig]] 圆点、enfärgad 单色。\n",
+      "lemma": "rutig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "格子的；方格图案的",
+      "en": "checkered, checked, plaid",
+      "created": "2026-06-21",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-monster"
+      ],
+      "backlinks": [
+        "randig",
+        "topic-monster"
       ]
     },
     {

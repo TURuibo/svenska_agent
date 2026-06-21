@@ -3,7 +3,7 @@ type: topic
 name: "karaktärsord"
 kind: semantic-field
 zh: 性格与情绪形容词（语义场）
-members: [lycklig, tråkig, orolig, modig, ensam, ovanlig, annorlunda, obekväm]
+members: [lycklig, tråkig, orolig, modig, ensam, ovanlig, annorlunda, obekväm, rädd]
 created: "2026-06-02"
 ---
 
@@ -21,6 +21,7 @@ created: "2026-06-02"
 - [[ovanlig]] — 不寻常的/罕见的 (unusual, rare)
 - [[annorlunda]] — 与众不同的 (different, unusual)
 - [[obekväm]] — 不舒适的 (uncomfortable)
+- [[rädd]] — 害怕的/担心的 (afraid, scared)
 
 ## 备注 (Notes)
 
