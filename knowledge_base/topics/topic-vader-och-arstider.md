@@ -20,6 +20,11 @@ members:
   - intensiv
   - tillbringa
   - åska
+  - värme
+  - torka
+  - uttorkad
+  - ek
+  - gren
 created: 2026-06-16
 ---
 
@@ -52,6 +57,11 @@ created: 2026-06-16
 
 **其他**
 - [[stövel]] — 靴子
+- [[värme]] — 热，热量
+- [[torka]] — 干旱
+- [[uttorkad]] — 脱水的，干燥的
+- [[ek]] — 橡树
+- [[gren]] — 树枝
 
 ## 相关词组 (Related Phrases)
 

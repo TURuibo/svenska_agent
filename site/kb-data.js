@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 18:45:58",
+  "generatedAt": "2026-06-22 18:49:59",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -197,10 +197,13 @@ window.KB_DATA = {
         "förlåt-att-jag-stör",
         "grammar-bisats",
         "grammar-bisats-eftersom",
+        "grammar-perfekt-infinitiv",
         "grammar-sin-sina",
+        "grammar-trots-substantiv",
         "grammar-v2-ordfoljd",
         "se-till-att",
         "sent-55-procent-tror-att-oppositionen-far-flest",
+        "sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt",
         "sent-att-sla-nagon-i-sin-familj-kallas",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-hoppas-att-de-ska-drömma",
@@ -214,12 +217,14 @@ window.KB_DATA = {
         "sent-det-finns-risk-att-over-10000-hus",
         "sent-det-slutade-med-att-jag-tog-stryptag",
         "sent-detta-beror-pa-att-nivan-pa-varldens-hav",
+        "sent-folk-ar-misnojda-med-att-maten-ar-dyr",
         "sent-hon-säger-själv-att-det-hjälper-henne",
         "sent-hon-ville-att-politikerna-skulle-lyssna",
         "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
         "sent-nasta-helg-hoppas-jag-att-vadret",
         "sent-och-jag-är-jätteglad-att-ni",
         "sent-politik-nu-en-stor-del-av-valjarna",
+        "sent-regeringen-forbjuder-barer-att-salja-alkohol",
         "sent-ryssland-säger-att-de-sköt",
         "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
         "source-2026-06-02-astrid-lindgren",
@@ -315,6 +320,7 @@ window.KB_DATA = {
         "grammar-partikelverb",
         "grammar-perfekt",
         "grammar-presens",
+        "grammar-relativ-bisats-med-som",
         "grammar-riktnings-adverb",
         "grammar-satsadverbial",
         "grammar-utan-vs-men",
@@ -368,7 +374,6 @@ window.KB_DATA = {
         "grammar-bisats-om",
         "grammar-bisats-tidskonnektor",
         "grammar-v2-ordfoljd",
-        "på-grund-av",
         "sent-år-2019-åkte-hon-med-en-segelbåt",
         "sent-eftersom-astrid-var-ensam-kunde-hon",
         "source-2026-06-02-astrid-lindgren",
@@ -400,10 +405,12 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "sent-forskare-varnar-för-att-ännu-fler",
+        "sent-ingen-vet-om-robin-hood-funnits-pa-riktigt",
         "sent-jag-tänkte-höra-om-du-är-ledig",
         "sent-säg-till-om-det-passar",
         "sent-vi-kan-ses-där-först-om-du-vill",
-        "source-2026-06-20-sms-till-en-van"
+        "source-2026-06-20-sms-till-en-van",
+        "source-2026-06-22-nyheter-8sidor"
       ]
     },
     {
@@ -491,6 +498,8 @@ window.KB_DATA = {
         "grammar-bisats-tills",
         "grammar-for-att-infinitiv",
         "grammar-nar-bisats",
+        "grammar-relativ-bisats-med-som",
+        "grammar-trots-substantiv",
         "se-till-att",
         "sent-beroende-var-i-landet-man-bor",
         "sent-där-alla-har-så-stor-förståelse",
@@ -886,9 +895,11 @@ window.KB_DATA = {
         "sent-arbetena-är-till-för-att-vägarna",
         "sent-där-alla-har-så-stor-förståelse",
         "sent-den-som-ska-ut-och-köra-bil",
+        "sent-det-ar-en-av-de-storsta-forlusterna-i-vm",
         "sent-det-blir-svalare-och-regnet",
         "sent-det-gör-värmeböljorna-både-vanligare",
         "sent-for-naturen-an-vad-vanliga-kor-klarat",
+        "sent-han-har-blivit-allt-mindre-popularr",
         "sent-idag-är-hon-en-av-världens-mest-kända-röster",
         "sent-klimatet-blir-varmare",
         "sent-kvinnor-far-vanta-langre-an-man",
@@ -1173,6 +1184,7 @@ window.KB_DATA = {
         "dela-på-en-sallad",
         "dela-på-notan",
         "gå-sönder",
+        "gå-vidare",
         "ge-order",
         "hålla-kontakten",
         "hålla-med",
@@ -1189,10 +1201,12 @@ window.KB_DATA = {
         "sent-en-kopp-kaffe-tack-och-sedan",
         "sent-fika-vi-får-ses-oftare",
         "sent-kan-vi-dela-på-en-sallad",
+        "sent-poliserna-i-colombia-har-tagit-fast",
         "skriva-under",
         "source-2026-06-10-zlatan-subst-verb",
         "source-2026-06-15-restaurang-fodelsedag",
         "source-2026-06-18-nyheter-8sidor",
+        "ta-fast",
         "ta-in-allt-tillsammans",
         "ta-sig-fram",
         "titta-på",
@@ -1221,7 +1235,8 @@ window.KB_DATA = {
       "created": "2026-06-22",
       "known": false,
       "backlinks": [
-        "sent-66-procent-av-flickorna-blir"
+        "sent-66-procent-av-flickorna-blir",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -1278,6 +1293,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grammar-perfekt-infinitiv",
+      "type": "grammar",
+      "title": "perfekt infinitiv",
+      "path": "knowledge_base/grammar/grammar-perfekt-infinitiv.md",
+      "body": "# 📗 perfekt infinitiv — 完成式不定式 (perfect infinitive)\n\n级别: B1\n一句话: 表示\"在主句动作之前已发生\"的不定式动作，结构为 *att ha + supinum*。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\natt ha + supinum (past participle)\n```\n\n例：\n- *att ha smugglat* — having smuggled / to have smuggled\n- *att ha läst* — having read / to have read\n- *att ha glömt* — having forgotten / to have forgotten\n\n与中文对比: 中文用\"曾经\"\"已经\"表达，如\"涉嫌**曾经**走私过毒品\"。\n与英文对比: 与英语 perfect infinitive 结构相同：*to have + past participle*。\n\n## 详细讲解 (Detail)\n\n完成式不定式用于表示一个不定式动作发生在主句时态**之前**：\n\n1. **在形容词/分词之后**：\n   - *misstänkt för att ha smugglat droger* — 涉嫌（曾经）走私毒品\n   - *anklagad för att ha stulit pengar* — 被指控曾经偷钱\n\n2. **在动词之后**（表达在主句动作之前完成的动作）：\n   - *Han hoppas att ha läst klart boken.* — 他希望（到那时）已经读完书了。\n   - *Hon verkar ha glömt mötet.* — 她好像已经忘了会议。\n\n3. **常见触发词**：*misstänkt för att ha...*, *anklagad för att ha...*, *verka ha...*, *hoppas att ha...*\n\n## 例句 (Examples)\n\n- ✅ [[sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat]] 🇸🇪 Mannen är misstänkt för att ha smugglat droger. 🇨🇳 该男子被怀疑走私毒品。\n- ✅ Han hoppas att ha läst klart boken innan semestern. 🇨🇳 他希望在假期前已经读完这本书。\n- ✅ Hon verkar ha glömt mötet. 🇨🇳 她好像已经忘了会议。\n- ❌ *misstänkt för att smuggla* ← 错误：这表示\"正在进行\"，而非\"曾经发生\"\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混淆 *att smuggla*（普通不定式，表同时/将来）与 *att ha smugglat*（完成式，表之前已发生）。\n- ⚠️ Supinum 形式用错（如用 preteritum 代替）：✅ *ha smugglat* ❌ *ha smugglade*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-supinum]] — supinum 形式规则\n- 📎 [[grammar-att-sats]] — att-satser 一般规则\n- 📎 [[grammar-perfekt]] — perfekt 时态",
+      "excerpt": "📗 perfekt infinitiv — 完成式不定式 (perfect infinitive) 级别: B1 一句话: 表示\"在主句动作之前已发生\"的不定式动作，结构为 att ha + supinum 。 规则说明 (Rules) 📐 结构公式: att ha + supinum (past participle) 例： att ha smugglat — having smuggled / to have smuggled ",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "grammar-perfekt",
+        "grammar-supinum",
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat"
+      ],
+      "searchText": "perfekt infinitiv grammar-perfekt-infinitiv knowledge_base/grammar/grammar-perfekt-infinitiv.md ---\ntype: grammar\nname: \"perfekt infinitiv\"\nzh: \"完成式不定式\"\nen: \"perfect infinitive\"\nlevel: \"B1\"\nrelated: [grammar-supinum, grammar-att-sats, grammar-perfekt]\nexamples:\n  - sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 perfekt infinitiv — 完成式不定式 (perfect infinitive)\n\n级别: B1\n一句话: 表示\"在主句动作之前已发生\"的不定式动作，结构为 *att ha + supinum*。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\natt ha + supinum (past participle)\n```\n\n例：\n- *att ha smugglat* — having smuggled / to have smuggled\n- *att ha läst* — having read / to have read\n- *att ha glömt* — having forgotten / to have forgotten\n\n与中文对比: 中文用\"曾经\"\"已经\"表达，如\"涉嫌**曾经**走私过毒品\"。\n与英文对比: 与英语 perfect infinitive 结构相同：*to have + past participle*。\n\n## 详细讲解 (Detail)\n\n完成式不定式用于表示一个不定式动作发生在主句时态**之前**：\n\n1. **在形容词/分词之后**：\n   - *misstänkt för att ha smugglat droger* — 涉嫌（曾经）走私毒品\n   - *anklagad för att ha stulit pengar* — 被指控曾经偷钱\n\n2. **在动词之后**（表达在主句动作之前完成的动作）：\n   - *Han hoppas att ha läst klart boken.* — 他希望（到那时）已经读完书了。\n   - *Hon verkar ha glömt mötet.* — 她好像已经忘了会议。\n\n3. **常见触发词**：*misstänkt för att ha...*, *anklagad för att ha...*, *verka ha...*, *hoppas att ha...*\n\n## 例句 (Examples)\n\n- ✅ [[sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat]] 🇸🇪 Mannen är misstänkt för att ha smugglat droger. 🇨🇳 该男子被怀疑走私毒品。\n- ✅ Han hoppas att ha läst klart boken innan semestern. 🇨🇳 他希望在假期前已经读完这本书。\n- ✅ Hon verkar ha glömt mötet. 🇨🇳 她好像已经忘了会议。\n- ❌ *misstänkt för att smuggla* ← 错误：这表示\"正在进行\"，而非\"曾经发生\"\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混淆 *att smuggla*（普通不定式，表同时/将来）与 *att ha smugglat*（完成式，表之前已发生）。\n- ⚠️ Supinum 形式用错（如用 preteritum 代替）：✅ *ha smugglat* ❌ *ha smugglade*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-supinum]] — supinum 形式规则\n- 📎 [[grammar-att-sats]] — att-satser 一般规则\n- 📎 [[grammar-perfekt]] — perfekt 时态\n",
+      "name": "perfekt infinitiv",
+      "zh": "完成式不定式",
+      "en": "perfect infinitive",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "misstänkt",
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat",
+        "smuggla",
+        "source-2026-06-22-nyheter-8sidor"
+      ]
+    },
+    {
       "slug": "grammar-perfekt",
       "type": "grammar",
       "title": "perfekt",
@@ -1299,6 +1341,7 @@ window.KB_DATA = {
       "backlinks": [
         "ända-sedan",
         "grammar-passiv-konstruktion",
+        "grammar-perfekt-infinitiv",
         "grammar-preteritum-i-berattelse",
         "har-ni-bestämt-er",
         "har-ni-bokat-bord",
@@ -1308,10 +1351,13 @@ window.KB_DATA = {
         "sent-bland-annat-har-ukrainas-president-zelenskyj",
         "sent-de-har-kommit-overens-om-en-plan",
         "sent-det-har-varit-oroligt-kring-norges-kungahus",
+        "sent-folk-har-berättat-om-robin-hood-hundra-ar",
         "sent-folk-i-sverige-har-firat",
         "sent-föreningen-svensk-elitfotboll-har-nu",
         "sent-god-kväll-och-välkomna-har-ni-bokat",
         "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
+        "sent-han-har-blivit-allt-mindre-popularr",
+        "sent-han-har-styrt-landet-sedan-ar-2024",
         "sent-har-ni-bestämt-er-eller-behöver-ni",
         "sent-har-spelat-om-pengar-i-nån-form",
         "sent-i-norge-har-kronprinsessan-mette-marit",
@@ -1322,6 +1368,7 @@ window.KB_DATA = {
         "sent-ledare-fran-olika-lander-har-samlats",
         "sent-ni-har-reserverat-för-sex-gäster",
         "sent-pa-tre-manader-har-just-dessa-vattenbufflar",
+        "sent-poliserna-i-colombia-har-tagit-fast",
         "sent-samtidigt-har-det-under-natten-varit",
         "sent-sedan-1800-talet-har-människor",
         "sent-usa-och-iran-ha-haft-sina-forsta",
@@ -1807,8 +1854,10 @@ window.KB_DATA = {
         "sent-år-2019-åkte-hon-med-en-segelbåt",
         "sent-då-bestämde-greta-sig-för-att-göra-något",
         "sent-dar-fanns-ingen-mat-ga-hungrig",
+        "sent-de-berattade-om-robin-hood-rika-fattiga",
         "sent-den-första-filmen-toy-story",
         "sent-den-totala-tiden-personer-ar-pa-akuten",
+        "sent-det-gick-daligt-for-sverige",
         "sent-det-slutade-med-att-jag-tog-stryptag",
         "sent-det-tog-ungefar-en-timme",
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
@@ -1832,6 +1881,7 @@ window.KB_DATA = {
         "sent-hon-föddes-den-3-januari-2003-i-stockholm",
         "sent-hon-förstod-inte-varför-så-få-människor",
         "sent-hon-hade-en-skylt-med-texten-skolstrejk",
+        "sent-i-lordags-spelade-sverige-mot-nederlanderna",
         "sent-i-mandags-domdes-mette-marits-son",
         "sent-i-stället-satte-hon-sig-utanför-riksdagen",
         "sent-idag-kom-besked-fran-riksbanken-om-rantan",
@@ -1842,6 +1892,7 @@ window.KB_DATA = {
         "sent-jag-tankte-var-tappade-jag-den",
         "sent-just-da-markte-jag-att-min-planbok-var-borta",
         "sent-många-unga-människor-började-också-strejka",
+        "sent-matchen-slutade-5-1-till-nederlanderna",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
         "sent-när-greta-var-åtta-år-hörde-hon",
         "sent-nyligen-hade-ländernas-ledare",
@@ -1955,6 +2006,33 @@ window.KB_DATA = {
         "source-2026-06-22-greta-thunberg",
         "ta-sig-fram",
         "vi-ses-snart"
+      ]
+    },
+    {
+      "slug": "grammar-relativ-bisats-med-som",
+      "type": "grammar",
+      "title": "relativ bisats med som",
+      "path": "knowledge_base/grammar/grammar-relativ-bisats-med-som.md",
+      "body": "# 📗 relativ bisats med som — som引导的关系从句 (relative clause with 'som')\n\n级别: A2\n一句话: 瑞典语用 **som** 引导关系从句，**放在被修饰名词之后**，与中文的前置定语顺序相反。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n名词 + som + [关系从句（主语/宾语由 som 充当）]\n```\n\n例：\n```\nvuxna  som  lyssnar  på deras berättelser\n  ↑          ↑\n被修饰词   som 既做连接词，又作从句的主语（those adults who listen）\n```\n\n与中文对比:\n- 🇨🇳 **倾听他们的**大人（定语前置）\n- 🇸🇪 vuxna **som lyssnar på dem**（定语后置）\n- 关键差异：瑞典语关系从句**永远后置**于被修饰名词。\n\n与英文对比: 与英语 \"who/that/which\" 结构相同，区别在于瑞典语统一用 **som**（不区分人/物/主格/宾格）。\n\n## 详细讲解 (Detail)\n\n**som 可以做从句中的：**\n\n| 角色 | 例子 | 说明 |\n|------|------|------|\n| 主语 | en plan **som** fungerar | som 作从句主语（一个有效的计划） |\n| 宾语 | nåt **som** jag tyckte | som 作从句宾语（我认为的某事） |\n\n**省略 som（非正式口语）：**\n在非正式口语中，当 som 作宾语时常被省略：\n- 正式：nåt **som** jag tyckte hon hade fel om\n- 口语：nåt [som省略] jag tyckte hon hade fel om\n\n## 例句 (Examples)\n\n- ✅ [[sent-barn-och-unga-behover-mota-vuxna]] 🇸🇪 vuxna **som** lyssnar på deras berättelser 🇨🇳 倾听他们故事的大人\n- ✅ [[sent-jag-och-storasyrran-borjade-tjafsa]] 🇸🇪 nåt jag tyckte hon hade helt fel om 🇨🇳 我认为她完全搞错了的那件事（省略了som）\n- ❌ *de vuxna lyssnar* (省略som同时保留名词，中文式前置，错误)\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 中文学习者常把修饰语放在名词前：*det *lyssnande* vuxna* ← 错误（如果是完整从句必须后置）\n- ⚠️ 混淆 **som**（关系代词）和 **som**（比较连词：Han är lika gammal **som** jag = He is as old as me）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats-biff]] — 关系从句内部副词语序（BIFF规则）\n- 📎 [[grammar-bisats]] — 从句总览",
+      "excerpt": "📗 relativ bisats med som — som引导的关系从句 (relative clause with 'som') 级别: A2 一句话: 瑞典语用 som 引导关系从句， 放在被修饰名词之后 ，与中文的前置定语顺序相反。 规则说明 (Rules) 📐 结构公式: 名词 + som + [关系从句（主语/宾语由 som 充当）] 例： vuxna som lyssnar på deras berättelser ↑",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "grammar-bisats-biff",
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "sent-jag-och-storasyrran-borjade-tjafsa"
+      ],
+      "searchText": "relativ bisats med som grammar-relativ-bisats-med-som knowledge_base/grammar/grammar-relativ-bisats-med-som.md ---\ntype: grammar\nname: \"relativ bisats med som\"\nzh: som引导的关系从句（后置定语）\nen: relative clause introduced by 'som' (postpositive, unlike Chinese)\nlevel: A2\nrelated: [\"grammar-bisats-biff\", \"grammar-bisats\"]\nexamples:\n  - sent-barn-och-unga-behover-mota-vuxna\n  - sent-jag-och-storasyrran-borjade-tjafsa\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 relativ bisats med som — som引导的关系从句 (relative clause with 'som')\n\n级别: A2\n一句话: 瑞典语用 **som** 引导关系从句，**放在被修饰名词之后**，与中文的前置定语顺序相反。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n名词 + som + [关系从句（主语/宾语由 som 充当）]\n```\n\n例：\n```\nvuxna  som  lyssnar  på deras berättelser\n  ↑          ↑\n被修饰词   som 既做连接词，又作从句的主语（those adults who listen）\n```\n\n与中文对比:\n- 🇨🇳 **倾听他们的**大人（定语前置）\n- 🇸🇪 vuxna **som lyssnar på dem**（定语后置）\n- 关键差异：瑞典语关系从句**永远后置**于被修饰名词。\n\n与英文对比: 与英语 \"who/that/which\" 结构相同，区别在于瑞典语统一用 **som**（不区分人/物/主格/宾格）。\n\n## 详细讲解 (Detail)\n\n**som 可以做从句中的：**\n\n| 角色 | 例子 | 说明 |\n|------|------|------|\n| 主语 | en plan **som** fungerar | som 作从句主语（一个有效的计划） |\n| 宾语 | nåt **som** jag tyckte | som 作从句宾语（我认为的某事） |\n\n**省略 som（非正式口语）：**\n在非正式口语中，当 som 作宾语时常被省略：\n- 正式：nåt **som** jag tyckte hon hade fel om\n- 口语：nåt [som省略] jag tyckte hon hade fel om\n\n## 例句 (Examples)\n\n- ✅ [[sent-barn-och-unga-behover-mota-vuxna]] 🇸🇪 vuxna **som** lyssnar på deras berättelser 🇨🇳 倾听他们故事的大人\n- ✅ [[sent-jag-och-storasyrran-borjade-tjafsa]] 🇸🇪 nåt jag tyckte hon hade helt fel om 🇨🇳 我认为她完全搞错了的那件事（省略了som）\n- ❌ *de vuxna lyssnar* (省略som同时保留名词，中文式前置，错误)\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 中文学习者常把修饰语放在名词前：*det *lyssnande* vuxna* ← 错误（如果是完整从句必须后置）\n- ⚠️ 混淆 **som**（关系代词）和 **som**（比较连词：Han är lika gammal **som** jag = He is as old as me）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats-biff]] — 关系从句内部副词语序（BIFF规则）\n- 📎 [[grammar-bisats]] — 从句总览\n",
+      "name": "relativ bisats med som",
+      "zh": "som引导的关系从句（后置定语）",
+      "en": "relative clause introduced by 'som' (postpositive, unlike Chinese)",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "sent-att-sla-nagon-i-sin-familj-kallas",
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "sent-jag-och-storasyrran-borjade-tjafsa",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -2173,7 +2251,9 @@ window.KB_DATA = {
         "sent-jag-ska-berätta-vad-som-hände",
         "sent-länderna-ska-göra-det-svårare",
         "sent-länderna-ska-skicka-mer-vapen",
+        "sent-nu-ska-starmers-parti-labour-ordna-ledare",
         "sent-ungefär-hundra-personer-ska-arbeta",
+        "sent-varmen-ska-vara-kvar-i-flera-dagar",
         "skulle-ut-och-fiska",
         "source-2026-06-04-nyheter-vecka-22"
       ]
@@ -2335,8 +2415,34 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-infinitiv",
         "grammar-perfekt",
+        "grammar-perfekt-infinitiv",
         "grammar-starka-verb",
         "source-2026-06-10-zlatan-subst-verb"
+      ]
+    },
+    {
+      "slug": "grammar-trots-substantiv",
+      "type": "grammar",
+      "title": "trots + substantiv",
+      "path": "knowledge_base/grammar/grammar-trots-substantiv.md",
+      "body": "# 📗 trots + substantiv — \"尽管\"介词用法（接名词） (despite + noun phrase)\n\n级别: B1\n一句话: *trots* 作介词时直接接名词短语（无 *att*）；作连词时接 *trots att + bisats*。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\ntrots + substantivfras (NP)          ← 介词用法\ntrots att + bisats (全句)             ← 连词用法\n```\n\n例：\n- *Trots förlusten kan Sverige gå vidare.* — 尽管失利，瑞典仍可晋级。（介词 + NP）\n- *Trots att Sverige förlorade, kan de gå vidare.* — 尽管瑞典输了，他们仍可晋级。（连词 + bisats）\n\n与中文对比: 中文\"尽管\"后接完整句子；*trots* 接名词时无需附加动词。\n与英文对比: 等同于 *despite + NP* vs. *even though + clause*。\n\n## 详细讲解 (Detail)\n\n**trots 的两种用法：**\n\n| 用法 | 接什么 | 例子 |\n|------|--------|------|\n| 介词 (preposition) | + substantivfras | *Trots regnet gick vi ut.* |\n| 连词 (konjunktion) | + att + bisats | *Trots att det regnade gick vi ut.* |\n\n关键规则：\n- *trots* 作介词 → 直接接名词（无 *att*）\n- *trots att* 是固定连词短语 → 后接完整子句\n- 两者语义相同，可互换（只要语法结构正确）\n- 注意语序：*trots*-frasen 放句首时，主句遵循 V2 规则（动词在第二位）\n\n## 例句 (Examples)\n\n- ✅ [[sent-trots-forlusten-kan-sverige-ga-vidare]] 🇸🇪 Trots förlusten kan Sverige fortfarande gå vidare. 🇨🇳 尽管失利，瑞典仍可晋级。\n- ✅ Trots regnet gick vi ut. 🇨🇳 尽管下雨，我们还是出去了。\n- ✅ Trots värmen åt de lunch utomhus. 🇨🇳 尽管天气炎热，他们还是在户外吃午饭。\n- ✅ Trots att det var varmt åt de lunch utomhus. 🇨🇳 （同义，连词用法）\n- ❌ *Trots av regnet* ← 错误：*trots* 不与 *av* 搭配\n- ❌ *Trots det regnade* ← 错误：连词必须用 *trots att*\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 用 *trots* 直接接动词句而不加 *att*：❌ *Trots Sverige förlorade* → ✅ *Trots att Sverige förlorade*\n- ⚠️ *trots*-frasen在句首后忘记V2语序：❌ *Trots förlusten Sverige kan gå* → ✅ *Trots förlusten kan Sverige gå*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats]] — 子句结构\n- 📎 [[grammar-att-sats]] — att-satser\n- 📎 [[trots-att]] — 短语 *trots att* (已存在)",
+      "excerpt": "📗 trots + substantiv — \"尽管\"介词用法（接名词） (despite + noun phrase) 级别: B1 一句话: trots 作介词时直接接名词短语（无 att ）；作连词时接 trots att + bisats 。 规则说明 (Rules) 📐 结构公式: trots + substantivfras (NP) ← 介词用法 trots att + bisats (全句) ← 连词用法 例： Tr",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "grammar-bisats",
+        "sent-trots-forlusten-kan-sverige-ga-vidare",
+        "trots-att"
+      ],
+      "searchText": "trots + substantiv grammar-trots-substantiv knowledge_base/grammar/grammar-trots-substantiv.md ---\ntype: grammar\nname: \"trots + substantiv\"\nzh: \"\\\"尽管\\\"介词用法（接名词）\"\nen: \"despite + noun phrase (preposition trots)\"\nlevel: \"B1\"\nrelated: [grammar-bisats, grammar-att-sats]\nexamples:\n  - sent-trots-forlusten-kan-sverige-ga-vidare\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 trots + substantiv — \"尽管\"介词用法（接名词） (despite + noun phrase)\n\n级别: B1\n一句话: *trots* 作介词时直接接名词短语（无 *att*）；作连词时接 *trots att + bisats*。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\ntrots + substantivfras (NP)          ← 介词用法\ntrots att + bisats (全句)             ← 连词用法\n```\n\n例：\n- *Trots förlusten kan Sverige gå vidare.* — 尽管失利，瑞典仍可晋级。（介词 + NP）\n- *Trots att Sverige förlorade, kan de gå vidare.* — 尽管瑞典输了，他们仍可晋级。（连词 + bisats）\n\n与中文对比: 中文\"尽管\"后接完整句子；*trots* 接名词时无需附加动词。\n与英文对比: 等同于 *despite + NP* vs. *even though + clause*。\n\n## 详细讲解 (Detail)\n\n**trots 的两种用法：**\n\n| 用法 | 接什么 | 例子 |\n|------|--------|------|\n| 介词 (preposition) | + substantivfras | *Trots regnet gick vi ut.* |\n| 连词 (konjunktion) | + att + bisats | *Trots att det regnade gick vi ut.* |\n\n关键规则：\n- *trots* 作介词 → 直接接名词（无 *att*）\n- *trots att* 是固定连词短语 → 后接完整子句\n- 两者语义相同，可互换（只要语法结构正确）\n- 注意语序：*trots*-frasen 放句首时，主句遵循 V2 规则（动词在第二位）\n\n## 例句 (Examples)\n\n- ✅ [[sent-trots-forlusten-kan-sverige-ga-vidare]] 🇸🇪 Trots förlusten kan Sverige fortfarande gå vidare. 🇨🇳 尽管失利，瑞典仍可晋级。\n- ✅ Trots regnet gick vi ut. 🇨🇳 尽管下雨，我们还是出去了。\n- ✅ Trots värmen åt de lunch utomhus. 🇨🇳 尽管天气炎热，他们还是在户外吃午饭。\n- ✅ Trots att det var varmt åt de lunch utomhus. 🇨🇳 （同义，连词用法）\n- ❌ *Trots av regnet* ← 错误：*trots* 不与 *av* 搭配\n- ❌ *Trots det regnade* ← 错误：连词必须用 *trots att*\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 用 *trots* 直接接动词句而不加 *att*：❌ *Trots Sverige förlorade* → ✅ *Trots att Sverige förlorade*\n- ⚠️ *trots*-frasen在句首后忘记V2语序：❌ *Trots förlusten Sverige kan gå* → ✅ *Trots förlusten kan Sverige gå*\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats]] — 子句结构\n- 📎 [[grammar-att-sats]] — att-satser\n- 📎 [[trots-att]] — 短语 *trots att* (已存在)\n",
+      "name": "trots + substantiv",
+      "zh": "\\\"尽管\\\"介词用法（接名词）",
+      "en": "despite + noun phrase (preposition trots)",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "sent-trots-forlusten-kan-sverige-ga-vidare",
+        "source-2026-06-22-nyheter-8sidor"
       ]
     },
     {
@@ -3237,9 +3343,11 @@ window.KB_DATA = {
         "annan",
         "sent-bland-annat-har-ukrainas-president-zelenskyj",
         "sent-i-avtalet-lovar-iran-bland-annat",
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-09-zlatan-bio",
-        "source-2026-06-17-listening-svt-latt"
+        "source-2026-06-17-listening-svt-latt",
+        "source-2026-06-22-nyheter-8sidor"
       ]
     },
     {
@@ -4505,7 +4613,8 @@ window.KB_DATA = {
         "topic-tid-och-tidsuttryck"
       ],
       "backlinks": [
-        "sent-lagen-mot-fortryck-pa-grund-av-heder"
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -4789,6 +4898,42 @@ window.KB_DATA = {
       "backlinks": [
         "sent-jag-gick-tillbaka-till-tunnelbanestationen-fragade-personal",
         "source-2026-06-09-en-handelse-i-tidsordning"
+      ]
+    },
+    {
+      "slug": "gå-vidare",
+      "type": "phrase",
+      "title": "gå vidare",
+      "path": "knowledge_base/phrases/gå-vidare.md",
+      "body": "# gå vidare\n\n🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 4/5\n🇨🇳 晋级，继续前进 · 🇬🇧 to advance, to move on\n📝 字面: go + further/onward\n\n## 用法说明 (Usage)\n\n- 体育语境：从小组赛晋级（*gå vidare från gruppen*）。\n- 通用语境：向前走，继续（*Livet går vidare* — 生活继续）。\n- 变位：*går vidare / gick vidare / gått vidare*\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-partikelverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *avancera* — 晋级（更正式）\n- 🔄 *komma vidare* — 推进，向前走\n- 🔗 [[topic-fotboll]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-trots-forlusten-kan-sverige-ga-vidare]] 🇸🇪 Trots förlusten kan Sverige fortfarande gå vidare från sin grupp. 🇨🇳 尽管失利，瑞典仍可从小组晋级。\n- 🇸🇪 Sverige gick vidare till kvartsfinalen. — 🇨🇳 瑞典晋级四分之一决赛。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "gå vidare 🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 4/5 🇨🇳 晋级，继续前进 · 🇬🇧 to advance, to move on 📝 字面: go + further/onward 用法说明 (Usage) 体育语境：从小组赛晋级（ gå vidare från gruppen ）。 通用语境：向前走，继续（ Livet går vidare — 生活继续）。 变位",
+      "forms": [],
+      "links": [
+        "grammar-partikelverb",
+        "sent-trots-forlusten-kan-sverige-ga-vidare",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-fotboll"
+      ],
+      "searchText": "gå vidare gå-vidare knowledge_base/phrases/gå-vidare.md ---\ntype: phrase\nphrase: \"gå vidare\"\ncategory: partikelverb\nregister: neutralt\nfrequency: 4\nzh: \"晋级，继续前进\"\nen: \"to advance, to move on\"\nliteral: \"go further\"\nhead_words: []\ngrammar: [grammar-partikelverb]\nrelated: []\ntopics: [topic-fotboll, topic-samhälle-och-politik]\nsentences:\n  - sent-trots-forlusten-kan-sverige-ga-vidare\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# gå vidare\n\n🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 4/5\n🇨🇳 晋级，继续前进 · 🇬🇧 to advance, to move on\n📝 字面: go + further/onward\n\n## 用法说明 (Usage)\n\n- 体育语境：从小组赛晋级（*gå vidare från gruppen*）。\n- 通用语境：向前走，继续（*Livet går vidare* — 生活继续）。\n- 变位：*går vidare / gick vidare / gått vidare*\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-partikelverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *avancera* — 晋级（更正式）\n- 🔄 *komma vidare* — 推进，向前走\n- 🔗 [[topic-fotboll]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-trots-forlusten-kan-sverige-ga-vidare]] 🇸🇪 Trots förlusten kan Sverige fortfarande gå vidare från sin grupp. 🇨🇳 尽管失利，瑞典仍可从小组晋级。\n- 🇸🇪 Sverige gick vidare till kvartsfinalen. — 🇨🇳 瑞典晋级四分之一决赛。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "zh": "晋级，继续前进",
+      "en": "to advance, to move on",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "gå vidare",
+      "category": "partikelverb",
+      "sentences": [
+        "sent-trots-forlusten-kan-sverige-ga-vidare"
+      ],
+      "grammar": [
+        "grammar-partikelverb"
+      ],
+      "topics": [
+        "topic-fotboll",
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-trots-forlusten-kan-sverige-ga-vidare",
+        "source-2026-06-22-nyheter-8sidor"
       ]
     },
     {
@@ -5991,6 +6136,7 @@ window.KB_DATA = {
         "topic-tid-och-tidsuttryck"
       ],
       "backlinks": [
+        "sent-i-lordags-spelade-sverige-mot-nederlanderna",
         "sent-i-lordags-vaknade-jag-tidigt-fast",
         "source-2026-06-22-en-helg"
       ]
@@ -7805,34 +7951,31 @@ window.KB_DATA = {
       "type": "phrase",
       "title": "på grund av",
       "path": "knowledge_base/phrases/på-grund-av.md",
-      "body": "# på grund av\n\n🗣️ 类型: prepositionsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 因为，由于 · 🇬🇧 because of, due to\n📝 字面: on the basis of (on account of)\n\n## 用法说明 (Usage)\n\n- 表示原因，相当于英语 \"because of\" 或 \"due to\"。\n- 后接名词短语（不接从句）：**på grund av + 名词**。\n- 常见于正式和非正式场合，使用频率非常高。\n\n## 短语中的语法 (Grammar inside)\n\n- 介词短语结构：**på** + **grund** (en grund = 基础/原因) + **av** (介词)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 därför att（因为，后接从句）\n- 🔄 eftersom（因为，后接从句）\n- 🔗 [[grammar-bisats-eftersom]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-lagen-mot-fortryck-pa-grund-av-heder]] 🇸🇪 Lagen mot förtryck **på grund av** heder blir hårdare. 🇨🇳 针对以荣誉为由实施压迫的法律将变得更加严格。\n- [[sent-den-svenska-regeringen-ger-nu-17]] 🇸🇪 17 miljoner kronor **på grund av** hedersvåld i familjer. 🇨🇳 因家庭荣誉暴力问题，拨款1700万克朗。\n- [[sent-dar-ska-over-800-skolor-halla-stangt]] 🇸🇪 Skolorna håller stängt **på grund av** värmen. 🇨🇳 学校因高温关闭。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
-      "excerpt": "på grund av 🗣️ 类型: prepositionsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 因为，由于 · 🇬🇧 because of, due to 📝 字面: on the basis of (on account of) 用法说明 (Usage) 表示原因，相当于英语 \"because of\" 或 \"due to\"。 后接名词短语（不接从句）： på grund av + 名词 。",
+      "body": "# på grund av\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 由于，因为 · 🇬🇧 because of, due to\n📝 字面: on basis of\n\n## 用法说明 (Usage)\n\n- *på grund av* 是三词介词短语，后直接接名词短语（不接子句）。\n- 若要接完整子句，用 *eftersom* 或 *för att*。\n- 非常常用，出现在各类语境（新闻、正式文本、口语）。\n\n## 短语中的语法 (Grammar inside)\n\n（komplext prepositionsuttryck — ingen särskild grammatikpunkt）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *på grund av* → *till följd av* （更正式）\n- 🔄 *beroende på* — 取决于/由于\n- 🔄 *eftersom* — 因为（+ bisats）\n- 🔗 [[värme]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Skolor stängs på grund av värmen. — 🇨🇳 学校由于高温而关闭。\n- 🇸🇪 Matchen ställdes in på grund av regnet. — 🇨🇳 比赛由于下雨而取消了。\n- 🇸🇪 På grund av sjukdom kan hon inte komma. — 🇨🇳 由于生病，她不能来。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "på grund av 🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 5/5 🇨🇳 由于，因为 · 🇬🇧 because of, due to 📝 字面: on basis of 用法说明 (Usage) på grund av 是三词介词短语，后直接接名词短语（不接子句）。 若要接完整子句，用 eftersom 或 för att 。 非常常用，出现在各类语境（新闻、正式",
       "forms": [],
       "links": [
-        "grammar-bisats-eftersom",
-        "sent-dar-ska-over-800-skolor-halla-stangt",
-        "sent-den-svenska-regeringen-ger-nu-17",
-        "sent-lagen-mot-fortryck-pa-grund-av-heder",
-        "source-2026-06-22-listening-svt-latt"
+        "source-2026-06-22-nyheter-8sidor",
+        "värme"
       ],
-      "searchText": "på grund av på-grund-av knowledge_base/phrases/på-grund-av.md ---\ntype: phrase\nphrase: \"på grund av\"\ncategory: prepositionsfras\nregister: neutralt\nfrequency: 5\nzh: 因为，由于\nen: because of, due to\nliteral: \"on the basis of\"\nhead_words: [\"grund\"]\ngrammar: []\nrelated: []\ntopics: []\nsentences:\n  - sent-lagen-mot-fortryck-pa-grund-av-heder\n  - sent-den-svenska-regeringen-ger-nu-17\n  - sent-dar-ska-over-800-skolor-halla-stangt\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# på grund av\n\n🗣️ 类型: prepositionsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 因为，由于 · 🇬🇧 because of, due to\n📝 字面: on the basis of (on account of)\n\n## 用法说明 (Usage)\n\n- 表示原因，相当于英语 \"because of\" 或 \"due to\"。\n- 后接名词短语（不接从句）：**på grund av + 名词**。\n- 常见于正式和非正式场合，使用频率非常高。\n\n## 短语中的语法 (Grammar inside)\n\n- 介词短语结构：**på** + **grund** (en grund = 基础/原因) + **av** (介词)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 därför att（因为，后接从句）\n- 🔄 eftersom（因为，后接从句）\n- 🔗 [[grammar-bisats-eftersom]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-lagen-mot-fortryck-pa-grund-av-heder]] 🇸🇪 Lagen mot förtryck **på grund av** heder blir hårdare. 🇨🇳 针对以荣誉为由实施压迫的法律将变得更加严格。\n- [[sent-den-svenska-regeringen-ger-nu-17]] 🇸🇪 17 miljoner kronor **på grund av** hedersvåld i familjer. 🇨🇳 因家庭荣誉暴力问题，拨款1700万克朗。\n- [[sent-dar-ska-over-800-skolor-halla-stangt]] 🇸🇪 Skolorna håller stängt **på grund av** värmen. 🇨🇳 学校因高温关闭。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
-      "zh": "因为，由于",
+      "searchText": "på grund av på-grund-av knowledge_base/phrases/på-grund-av.md ---\ntype: phrase\nphrase: \"på grund av\"\ncategory: prepositionsuttryck\nregister: neutralt\nfrequency: 5\nzh: \"由于，因为\"\nen: \"because of, due to\"\nliteral: \"on basis of\"\nhead_words: []\ngrammar: []\nrelated: []\ntopics: []\nsentences:\n  - sent-regeringen-forbjuder-barer-att-salja-alkohol\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# på grund av\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 由于，因为 · 🇬🇧 because of, due to\n📝 字面: on basis of\n\n## 用法说明 (Usage)\n\n- *på grund av* 是三词介词短语，后直接接名词短语（不接子句）。\n- 若要接完整子句，用 *eftersom* 或 *för att*。\n- 非常常用，出现在各类语境（新闻、正式文本、口语）。\n\n## 短语中的语法 (Grammar inside)\n\n（komplext prepositionsuttryck — ingen särskild grammatikpunkt）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *på grund av* → *till följd av* （更正式）\n- 🔄 *beroende på* — 取决于/由于\n- 🔄 *eftersom* — 因为（+ bisats）\n- 🔗 [[värme]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Skolor stängs på grund av värmen. — 🇨🇳 学校由于高温而关闭。\n- 🇸🇪 Matchen ställdes in på grund av regnet. — 🇨🇳 比赛由于下雨而取消了。\n- 🇸🇪 På grund av sjukdom kan hon inte komma. — 🇨🇳 由于生病，她不能来。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "zh": "由于，因为",
       "en": "because of, due to",
       "created": "2026-06-22",
       "known": false,
       "phrase": "på grund av",
-      "category": "prepositionsfras",
+      "category": "prepositionsuttryck",
       "sentences": [
-        "sent-lagen-mot-fortryck-pa-grund-av-heder",
-        "sent-den-svenska-regeringen-ger-nu-17",
-        "sent-dar-ska-over-800-skolor-halla-stangt"
+        "sent-regeringen-forbjuder-barer-att-salja-alkohol"
       ],
       "grammar": [],
       "topics": [],
       "backlinks": [
         "sent-dar-ska-over-800-skolor-halla-stangt",
         "sent-den-svenska-regeringen-ger-nu-17",
-        "sent-lagen-mot-fortryck-pa-grund-av-heder"
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "source-2026-06-22-listening-svt-latt",
+        "source-2026-06-22-nyheter-8sidor"
       ]
     },
     {
@@ -7948,6 +8091,36 @@ window.KB_DATA = {
         "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-tid-och-tidsuttryck"
+      ]
+    },
+    {
+      "slug": "på-riktigt",
+      "type": "phrase",
+      "title": "på riktigt",
+      "path": "knowledge_base/phrases/på-riktigt.md",
+      "body": "# på riktigt\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 真的，在现实中 · 🇬🇧 for real, in reality\n📝 字面: on real\n\n## 用法说明 (Usage)\n\n- 用于强调某事是真实的，不是假装的或虚构的。\n- 常见于口语和新闻中对真实性的讨论。\n- *på riktigt* vs *verkligen*：两者都表示\"真的\"，但 *på riktigt* 更强调\"在现实中/不是虚构的\"。\n\n## 短语中的语法 (Grammar inside)\n\n（无特别语法点）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *på allvar* — 认真地，严肃地\n- 🔄 *verkligen* — 真的，确实\n- 🔗 [[riktigt]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-ingen-vet-om-robin-hood-funnits-pa-riktigt]] 🇸🇪 Ingen vet egentligen om Robin Hood har funnits på riktigt. 🇨🇳 没有人真正知道罗宾汉是否真实存在过。\n- 🇸🇪 Är det på riktigt? — 🇨🇳 这是真的吗？\n- 🇸🇪 Nu jobbar vi på riktigt, inte övar. — 🇨🇳 现在我们是真正在工作，不是练习。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "på riktigt 🗣️ 类型: fast uttryck · 语域: vardagligt · 常用度: 4/5 🇨🇳 真的，在现实中 · 🇬🇧 for real, in reality 📝 字面: on real 用法说明 (Usage) 用于强调某事是真实的，不是假装的或虚构的。 常见于口语和新闻中对真实性的讨论。 på riktigt vs verkligen ：两者都表示\"真的\"，但 på riktigt 更强调",
+      "forms": [],
+      "links": [
+        "riktigt",
+        "sent-ingen-vet-om-robin-hood-funnits-pa-riktigt",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "på riktigt på-riktigt knowledge_base/phrases/på-riktigt.md ---\ntype: phrase\nphrase: \"på riktigt\"\ncategory: fast-uttryck\nregister: vardagligt\nfrequency: 4\nzh: \"真的，在现实中\"\nen: \"for real, in reality, actually\"\nliteral: \"on real\"\nhead_words: [riktigt]\ngrammar: []\nrelated: []\ntopics: []\nsentences:\n  - sent-ingen-vet-om-robin-hood-funnits-pa-riktigt\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# på riktigt\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 真的，在现实中 · 🇬🇧 for real, in reality\n📝 字面: on real\n\n## 用法说明 (Usage)\n\n- 用于强调某事是真实的，不是假装的或虚构的。\n- 常见于口语和新闻中对真实性的讨论。\n- *på riktigt* vs *verkligen*：两者都表示\"真的\"，但 *på riktigt* 更强调\"在现实中/不是虚构的\"。\n\n## 短语中的语法 (Grammar inside)\n\n（无特别语法点）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *på allvar* — 认真地，严肃地\n- 🔄 *verkligen* — 真的，确实\n- 🔗 [[riktigt]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-ingen-vet-om-robin-hood-funnits-pa-riktigt]] 🇸🇪 Ingen vet egentligen om Robin Hood har funnits på riktigt. 🇨🇳 没有人真正知道罗宾汉是否真实存在过。\n- 🇸🇪 Är det på riktigt? — 🇨🇳 这是真的吗？\n- 🇸🇪 Nu jobbar vi på riktigt, inte övar. — 🇨🇳 现在我们是真正在工作，不是练习。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "zh": "真的，在现实中",
+      "en": "for real, in reality, actually",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "på riktigt",
+      "category": "fast-uttryck",
+      "sentences": [
+        "sent-ingen-vet-om-robin-hood-funnits-pa-riktigt"
+      ],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "sent-ingen-vet-om-robin-hood-funnits-pa-riktigt",
+        "source-2026-06-22-nyheter-8sidor"
       ]
     },
     {
@@ -8938,6 +9111,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "ta-fast",
+      "type": "phrase",
+      "title": "ta fast",
+      "path": "knowledge_base/phrases/ta-fast.md",
+      "body": "# ta fast\n\n🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 4/5\n🇨🇳 抓住，逮捕 · 🇬🇧 to catch, to apprehend\n📝 字面: take + fast (fixedly)\n\n## 用法说明 (Usage)\n\n- 主要用于警察抓住嫌疑人或罪犯的语境。\n- 变位：*tar fast / tog fast / tagit fast*\n- 宾语在 *ta* 和 *fast* 之间：*ta honom fast* 或置 *fast* 于末尾。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-partikelverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *gripa* — 逮捕（更正式）\n- 🔄 *arrestera* — 逮捕（借自英语）\n- 🔗 [[brottsling]]\n- 🔗 [[polis]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-poliserna-i-colombia-har-tagit-fast]] 🇸🇪 Poliserna i Colombia har tagit fast en svensk man. 🇨🇳 哥伦比亚警方逮捕了一名瑞典男子。\n- 🇸🇪 Polisen tog fast tjuven utanför butiken. — 🇨🇳 警察在商店外抓住了小偷。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "ta fast 🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 4/5 🇨🇳 抓住，逮捕 · 🇬🇧 to catch, to apprehend 📝 字面: take + fast (fixedly) 用法说明 (Usage) 主要用于警察抓住嫌疑人或罪犯的语境。 变位： tar fast / tog fast / tagit fast 宾语在 ta 和 fast 之间： ta honom",
+      "forms": [],
+      "links": [
+        "brottsling",
+        "grammar-partikelverb",
+        "polis",
+        "sent-poliserna-i-colombia-har-tagit-fast",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "ta fast ta-fast knowledge_base/phrases/ta-fast.md ---\ntype: phrase\nphrase: \"ta fast\"\ncategory: partikelverb\nregister: neutralt\nfrequency: 4\nzh: \"抓住，逮捕\"\nen: \"to catch, to apprehend\"\nliteral: \"take fast\"\nhead_words: [brottsling, polis]\ngrammar: [grammar-partikelverb]\nrelated: []\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-poliserna-i-colombia-har-tagit-fast\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ta fast\n\n🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 4/5\n🇨🇳 抓住，逮捕 · 🇬🇧 to catch, to apprehend\n📝 字面: take + fast (fixedly)\n\n## 用法说明 (Usage)\n\n- 主要用于警察抓住嫌疑人或罪犯的语境。\n- 变位：*tar fast / tog fast / tagit fast*\n- 宾语在 *ta* 和 *fast* 之间：*ta honom fast* 或置 *fast* 于末尾。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-partikelverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *gripa* — 逮捕（更正式）\n- 🔄 *arrestera* — 逮捕（借自英语）\n- 🔗 [[brottsling]]\n- 🔗 [[polis]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-poliserna-i-colombia-har-tagit-fast]] 🇸🇪 Poliserna i Colombia har tagit fast en svensk man. 🇨🇳 哥伦比亚警方逮捕了一名瑞典男子。\n- 🇸🇪 Polisen tog fast tjuven utanför butiken. — 🇨🇳 警察在商店外抓住了小偷。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "zh": "抓住，逮捕",
+      "en": "to catch, to apprehend",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "ta fast",
+      "category": "partikelverb",
+      "sentences": [
+        "sent-poliserna-i-colombia-har-tagit-fast"
+      ],
+      "grammar": [
+        "grammar-partikelverb"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "brottsling",
+        "sent-poliserna-i-colombia-har-tagit-fast",
+        "source-2026-06-22-nyheter-8sidor"
+      ]
+    },
+    {
       "slug": "ta-hand-om",
       "type": "phrase",
       "title": "ta hand om",
@@ -9098,6 +9308,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "ta-skydd",
+      "type": "phrase",
+      "title": "ta skydd",
+      "path": "knowledge_base/phrases/ta-skydd.md",
+      "body": "# ta skydd\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 寻求庇护，躲避 · 🇬🇧 to take shelter, to take cover\n📝 字面: take + shelter/protection\n\n## 用法说明 (Usage)\n\n- *ta skydd* = 躲到某处避开坏天气、危险等。\n- 常与 *under* 搭配：*ta skydd under ett träd/en ek*（在树下避雨）。\n- 变位：*tar skydd / tog skydd / tagit skydd*\n\n## 短语中的语法 (Grammar inside)\n\n（无特别语法点）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *söka skydd* — 寻求庇护（更正式）\n- 🔄 *gömma sig* — 躲藏起来\n- 🔗 [[ek]]\n- 🔗 [[topic-vader-och-arstider]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Han tog skydd under en ek när det börjar regna. — 🇨🇳 下雨时他在橡树下躲避。\n- 🇸🇪 Ta skydd om det åskar! — 🇨🇳 打雷时要躲起来！\n- 🇸🇪 De tog skydd inomhus på grund av värmen. — 🇨🇳 由于酷热，他们躲到室内。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "ta skydd 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 寻求庇护，躲避 · 🇬🇧 to take shelter, to take cover 📝 字面: take + shelter/protection 用法说明 (Usage) ta skydd = 躲到某处避开坏天气、危险等。 常与 under 搭配： ta skydd under ett träd/en e",
+      "forms": [],
+      "links": [
+        "ek",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "ta skydd ta-skydd knowledge_base/phrases/ta-skydd.md ---\ntype: phrase\nphrase: \"ta skydd\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 3\nzh: \"寻求庇护，躲避\"\nen: \"to take shelter, to take cover\"\nliteral: \"take shelter/protection\"\nhead_words: []\ngrammar: []\nrelated: []\ntopics: [topic-vader-och-arstider]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ta skydd\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 寻求庇护，躲避 · 🇬🇧 to take shelter, to take cover\n📝 字面: take + shelter/protection\n\n## 用法说明 (Usage)\n\n- *ta skydd* = 躲到某处避开坏天气、危险等。\n- 常与 *under* 搭配：*ta skydd under ett träd/en ek*（在树下避雨）。\n- 变位：*tar skydd / tog skydd / tagit skydd*\n\n## 短语中的语法 (Grammar inside)\n\n（无特别语法点）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 *söka skydd* — 寻求庇护（更正式）\n- 🔄 *gömma sig* — 躲藏起来\n- 🔗 [[ek]]\n- 🔗 [[topic-vader-och-arstider]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Han tog skydd under en ek när det börjar regna. — 🇨🇳 下雨时他在橡树下躲避。\n- 🇸🇪 Ta skydd om det åskar! — 🇨🇳 打雷时要躲起来！\n- 🇸🇪 De tog skydd inomhus på grund av värmen. — 🇨🇳 由于酷热，他们躲到室内。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "zh": "寻求庇护，躲避",
+      "en": "to take shelter, to take cover",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "ta skydd",
+      "category": "fast-uttryck",
+      "sentences": [],
+      "grammar": [],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "ek",
+        "source-2026-06-22-nyheter-8sidor"
+      ]
+    },
+    {
       "slug": "ta-slut",
       "type": "phrase",
       "title": "ta slut — partikelverb",
@@ -9156,6 +9396,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-det-slutade-med-att-jag-tog-stryptag",
+        "source-2026-06-22-listening-svt-latt",
         "stryptag"
       ]
     },
@@ -9827,6 +10068,7 @@ window.KB_DATA = {
       ],
       "topics": [],
       "backlinks": [
+        "grammar-trots-substantiv",
         "sent-fick-fotbollsskor-trots-mamma",
         "source-2026-06-09-zlatan-bio"
       ]
@@ -10729,7 +10971,8 @@ window.KB_DATA = {
         "topic-samhälle-och-politik"
       ],
       "backlinks": [
-        "sent-barn-och-unga-behover-mota-vuxna"
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -10824,7 +11067,8 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
-        "grammar-passiv-konstruktion"
+        "grammar-passiv-konstruktion",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -11366,6 +11610,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt",
+      "type": "sentence",
+      "title": "🇸🇪 Att dricka alkohol när det är mycket varmt är farligt.",
+      "path": "knowledge_base/sentences/sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt.md",
+      "body": "# 🇸🇪 Att dricka alkohol när det är mycket varmt är farligt.\n\n🇨🇳 天气非常热时饮酒是危险的。\n\n## 结构 (Structure)\n\n```\n[Att dricka alkohol när det är mycket varmt] [är] [farligt]\n        att-infinitiv短语作主语                系动词   表语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *att + infinitiv* 整体作句子主语（相当于英语动名词做主语）\n- 📌 *farligt* 为中性形（ett-ord 形式），因主语是 att-sats（视为 ett-ord）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[farlig]], [[dricka]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Att dricka alkohol när det är mycket varmt är farligt. 🇨🇳 天气非常热时饮酒是危险的。 结构 (Structure) [Att dricka alkohol när det är mycket varmt] [är] [farligt] att infinitiv短语作主语 系动词 表语 语法点 (Grammar) 📌 grammar att sats — att ",
+      "forms": [],
+      "links": [
+        "dricka",
+        "farlig",
+        "grammar-att-sats",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Att dricka alkohol när det är mycket varmt är farligt. sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt knowledge_base/sentences/sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt.md ---\ntype: sentence\nsentence: \"Att dricka alkohol när det är mycket varmt är farligt.\"\nzh: \"天气非常热时饮酒是危险的。\"\ncefr: B1\nwords: [farlig, dricka]\nphrases: []\ngrammar: [grammar-att-sats]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-vader-och-arstider]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Att dricka alkohol när det är mycket varmt är farligt.\n\n🇨🇳 天气非常热时饮酒是危险的。\n\n## 结构 (Structure)\n\n```\n[Att dricka alkohol när det är mycket varmt] [är] [farligt]\n        att-infinitiv短语作主语                系动词   表语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *att + infinitiv* 整体作句子主语（相当于英语动名词做主语）\n- 📌 *farligt* 为中性形（ett-ord 形式），因主语是 att-sats（视为 ett-ord）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[farlig]], [[dricka]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "天气非常热时饮酒是危险的。",
+      "created": "2026-06-22",
+      "sentence": "Att dricka alkohol när det är mycket varmt är farligt.",
+      "words": [
+        "farlig",
+        "dricka"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-att-sats"
+      ],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-att-regeringen-forlorar-makten-efter-valet",
       "type": "sentence",
       "title": "🇸🇪 att regeringen förlorar makten efter valet i september.",
@@ -11440,7 +11716,8 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
-        "grammar-passiv-konstruktion"
+        "grammar-passiv-konstruktion",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -11545,6 +11822,8 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
+        "grammar-relativ-bisats-med-som",
+        "source-2026-06-22-listening-svt-latt",
         "vidta-åtgärder"
       ]
     },
@@ -12160,8 +12439,38 @@ window.KB_DATA = {
         "topic-skola-och-utbildning"
       ],
       "backlinks": [
-        "på-grund-av"
+        "source-2026-06-22-listening-svt-latt"
       ]
+    },
+    {
+      "slug": "sent-de-berattade-om-robin-hood-rika-fattiga",
+      "type": "sentence",
+      "title": "🇸🇪 De berättade om hjälten Robin Hood som tog från de rika och gav till de fattiga.",
+      "path": "knowledge_base/sentences/sent-de-berattade-om-robin-hood-rika-fattiga.md",
+      "body": "# 🇸🇪 De berättade om hjälten Robin Hood som tog från de rika och gav till de fattiga.\n\n🇨🇳 他们讲述了英雄罗宾汉从富人那里抢来给穷人的故事。\n\n## 结构 (Structure)\n\n```\n[De] [berättade] [om hjälten Robin Hood [som tog från de rika och gav till de fattiga]]\n主语   动词          关系从句修饰成分\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *berättade, tog, gav* 均为过去时\n- 📌 *som* 引导关系从句（relativsats）\n- 📌 *de rika / de fattiga* — 形容词加定冠词作名词（\"富人/穷人\"）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fattig]], [[rik]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 De berättade om hjälten Robin Hood som tog från de rika och gav till de fattiga. 🇨🇳 他们讲述了英雄罗宾汉从富人那里抢来给穷人的故事。 结构 (Structure) [De] [berättade] [om hjälten Robin Hood [som tog från de rika och gav till de fattiga]] 主",
+      "forms": [],
+      "links": [
+        "fattig",
+        "grammar-preteritum",
+        "rik",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 De berättade om hjälten Robin Hood som tog från de rika och gav till de fattiga. sent-de-berattade-om-robin-hood-rika-fattiga knowledge_base/sentences/sent-de-berattade-om-robin-hood-rika-fattiga.md ---\ntype: sentence\nsentence: \"De berättade om hjälten Robin Hood som tog från de rika och gav till de fattiga.\"\nzh: \"他们讲述了英雄罗宾汉从富人那里抢来给穷人的故事。\"\ncefr: A2\nwords: [fattig, rik]\nphrases: []\ngrammar: [grammar-preteritum]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 De berättade om hjälten Robin Hood som tog från de rika och gav till de fattiga.\n\n🇨🇳 他们讲述了英雄罗宾汉从富人那里抢来给穷人的故事。\n\n## 结构 (Structure)\n\n```\n[De] [berättade] [om hjälten Robin Hood [som tog från de rika och gav till de fattiga]]\n主语   动词          关系从句修饰成分\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *berättade, tog, gav* 均为过去时\n- 📌 *som* 引导关系从句（relativsats）\n- 📌 *de rika / de fattiga* — 形容词加定冠词作名词（\"富人/穷人\"）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fattig]], [[rik]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "他们讲述了英雄罗宾汉从富人那里抢来给穷人的故事。",
+      "created": "2026-06-22",
+      "sentence": "De berättade om hjälten Robin Hood som tog från de rika och gav till de fattiga.",
+      "words": [
+        "fattig",
+        "rik"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [],
+      "backlinks": []
     },
     {
       "slug": "sent-de-forstod-ocksa-att-barn-behover-leka",
@@ -12264,7 +12573,9 @@ window.KB_DATA = {
       "topics": [
         "topic-krig-och-konflikt"
       ],
-      "backlinks": []
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
     },
     {
       "slug": "sent-de-hoppas-att-de-ska-drömma",
@@ -12504,6 +12815,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-den-26-juni-kommer-ny-film-robin-hood",
+      "type": "sentence",
+      "title": "🇸🇪 Den 26 juni kommer en ny film om Robin Hood.",
+      "path": "knowledge_base/sentences/sent-den-26-juni-kommer-ny-film-robin-hood.md",
+      "body": "# 🇸🇪 Den 26 juni kommer en ny film om Robin Hood.\n\n🇨🇳 6月26日将有一部关于罗宾汉的新电影上映。\n\n## 结构 (Structure)\n\n```\n[Den 26 juni] [kommer] [en ny film om Robin Hood]\n  日期状语（首位） 动词（V2）     主语（后置）\n```\n\n## 语法点 (Grammar)\n\n- 📌 V2规则：日期在句首 → 动词 *kommer* 紧跟（主语 *en ny film* 后置）\n- 📌 *komma* 此处表将来时（即将到来）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[film]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Den 26 juni kommer en ny film om Robin Hood. 🇨🇳 6月26日将有一部关于罗宾汉的新电影上映。 结构 (Structure) [Den 26 juni] [kommer] [en ny film om Robin Hood] 日期状语（首位） 动词（V2） 主语（后置） 语法点 (Grammar) 📌 V2规则：日期在句首 → 动词 kommer 紧跟（主语 en ny fil",
+      "forms": [],
+      "links": [
+        "film",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Den 26 juni kommer en ny film om Robin Hood. sent-den-26-juni-kommer-ny-film-robin-hood knowledge_base/sentences/sent-den-26-juni-kommer-ny-film-robin-hood.md ---\ntype: sentence\nsentence: \"Den 26 juni kommer en ny film om Robin Hood.\"\nzh: \"6月26日将有一部关于罗宾汉的新电影上映。\"\ncefr: A2\nwords: [film]\nphrases: []\ngrammar: []\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-film]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Den 26 juni kommer en ny film om Robin Hood.\n\n🇨🇳 6月26日将有一部关于罗宾汉的新电影上映。\n\n## 结构 (Structure)\n\n```\n[Den 26 juni] [kommer] [en ny film om Robin Hood]\n  日期状语（首位） 动词（V2）     主语（后置）\n```\n\n## 语法点 (Grammar)\n\n- 📌 V2规则：日期在句首 → 动词 *kommer* 紧跟（主语 *en ny film* 后置）\n- 📌 *komma* 此处表将来时（即将到来）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[film]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "6月26日将有一部关于罗宾汉的新电影上映。",
+      "created": "2026-06-22",
+      "sentence": "Den 26 juni kommer en ny film om Robin Hood.",
+      "words": [
+        "film"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-film"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-den-första-filmen-toy-story",
       "type": "sentence",
       "title": "🇸🇪 Den första filmen Toy Story kom redan för 30 år sedan.",
@@ -12693,8 +13031,35 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
-        "på-grund-av"
+        "source-2026-06-22-listening-svt-latt"
       ]
+    },
+    {
+      "slug": "sent-den-svenska-skadespelaren-bill-skarsgard-ar-med",
+      "type": "sentence",
+      "title": "🇸🇪 Den svenska skådespelaren Bill Skarsgård är med i filmen.",
+      "path": "knowledge_base/sentences/sent-den-svenska-skadespelaren-bill-skarsgard-ar-med.md",
+      "body": "# 🇸🇪 Den svenska skådespelaren Bill Skarsgård är med i filmen.\n\n🇨🇳 瑞典演员比尔·斯卡斯加德出演了这部电影。\n\n## 结构 (Structure)\n\n```\n[Den svenska skådespelaren Bill Skarsgård] [är med] [i filmen]\n            主语（名词短语）                   动词短语   地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 *vara med i* = 参与，出演（是…的一员）\n- 📌 *den + adjektiv + substantiv* = 定冠词形式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skådespelare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Den svenska skådespelaren Bill Skarsgård är med i filmen. 🇨🇳 瑞典演员比尔·斯卡斯加德出演了这部电影。 结构 (Structure) [Den svenska skådespelaren Bill Skarsgård] [är med] [i filmen] 主语（名词短语） 动词短语 地点 语法点 (Grammar) 📌 vara med i = 参与，出演（",
+      "forms": [],
+      "links": [
+        "skådespelare",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Den svenska skådespelaren Bill Skarsgård är med i filmen. sent-den-svenska-skadespelaren-bill-skarsgard-ar-med knowledge_base/sentences/sent-den-svenska-skadespelaren-bill-skarsgard-ar-med.md ---\ntype: sentence\nsentence: \"Den svenska skådespelaren Bill Skarsgård är med i filmen.\"\nzh: \"瑞典演员比尔·斯卡斯加德出演了这部电影。\"\ncefr: A2\nwords: [skådespelare]\nphrases: []\ngrammar: []\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-film]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Den svenska skådespelaren Bill Skarsgård är med i filmen.\n\n🇨🇳 瑞典演员比尔·斯卡斯加德出演了这部电影。\n\n## 结构 (Structure)\n\n```\n[Den svenska skådespelaren Bill Skarsgård] [är med] [i filmen]\n            主语（名词短语）                   动词短语   地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 *vara med i* = 参与，出演（是…的一员）\n- 📌 *den + adjektiv + substantiv* = 定冠词形式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skådespelare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "瑞典演员比尔·斯卡斯加德出演了这部电影。",
+      "created": "2026-06-22",
+      "sentence": "Den svenska skådespelaren Bill Skarsgård är med i filmen.",
+      "words": [
+        "skådespelare"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-film"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-den-totala-tiden-personer-ar-pa-akuten",
@@ -12838,6 +13203,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-det-ar-en-av-de-storsta-forlusterna-i-vm",
+      "type": "sentence",
+      "title": "🇸🇪 Det är en av de största förlusterna någonsin för Sverige i ett VM.",
+      "path": "knowledge_base/sentences/sent-det-ar-en-av-de-storsta-forlusterna-i-vm.md",
+      "body": "# 🇸🇪 Det är en av de största förlusterna någonsin för Sverige i ett VM.\n\n🇨🇳 这是瑞典世界杯历史上最惨重的失利之一。\n\n## 结构 (Structure)\n\n```\n[Det] [är] [en av de största förlusterna] [någonsin] [för Sverige] [i ett VM]\n形式主语 系动词   最高级短语+名词            时间副词     属于谁       语境\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *störst* = 最大的（superlativ），*de största* 使用定冠词复数\n- 📌 *en av de + superlativ* = 其中之一最…（固定结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förlust]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Det är en av de största förlusterna någonsin för Sverige i ett VM. 🇨🇳 这是瑞典世界杯历史上最惨重的失利之一。 结构 (Structure) [Det] [är] [en av de största förlusterna] [någonsin] [för Sverige] [i ett VM] 形式主语 系动词 最高级短语+名词 时间副词 属于谁 语境 ",
+      "forms": [],
+      "links": [
+        "förlust",
+        "grammar-komparativ",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Det är en av de största förlusterna någonsin för Sverige i ett VM. sent-det-ar-en-av-de-storsta-forlusterna-i-vm knowledge_base/sentences/sent-det-ar-en-av-de-storsta-forlusterna-i-vm.md ---\ntype: sentence\nsentence: \"Det är en av de största förlusterna någonsin för Sverige i ett VM.\"\nzh: \"这是瑞典世界杯历史上最惨重的失利之一。\"\ncefr: B1\nwords: [förlust]\nphrases: []\ngrammar: [grammar-komparativ]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-fotboll]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är en av de största förlusterna någonsin för Sverige i ett VM.\n\n🇨🇳 这是瑞典世界杯历史上最惨重的失利之一。\n\n## 结构 (Structure)\n\n```\n[Det] [är] [en av de största förlusterna] [någonsin] [för Sverige] [i ett VM]\n形式主语 系动词   最高级短语+名词            时间副词     属于谁       语境\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *störst* = 最大的（superlativ），*de största* 使用定冠词复数\n- 📌 *en av de + superlativ* = 其中之一最…（固定结构）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förlust]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "这是瑞典世界杯历史上最惨重的失利之一。",
+      "created": "2026-06-22",
+      "sentence": "Det är en av de största förlusterna någonsin för Sverige i ett VM.",
+      "words": [
+        "förlust"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-komparativ"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-det-ar-gladjande-att-vi-lyckas",
       "type": "sentence",
       "title": "🇸🇪 Det är glädjande att vi lyckas med patientsäkerhetsarbetet",
@@ -12965,7 +13360,9 @@ window.KB_DATA = {
       "topics": [
         "topic-vader-och-arstider"
       ],
-      "backlinks": []
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
     },
     {
       "slug": "sent-det-är-mycket-ovanligt-att-skjuta",
@@ -13080,6 +13477,37 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-18-nyheter-8sidor"
       ]
+    },
+    {
+      "slug": "sent-det-ar-ovanligt-varmt-vader-i-europa",
+      "type": "sentence",
+      "title": "🇸🇪 Det är ovanligt varmt väder i Europa just nu.",
+      "path": "knowledge_base/sentences/sent-det-ar-ovanligt-varmt-vader-i-europa.md",
+      "body": "# 🇸🇪 Det är ovanligt varmt väder i Europa just nu.\n\n🇨🇳 现在欧洲天气异常炎热。\n\n## 结构 (Structure)\n\n```\n[Det] [är] [ovanligt varmt väder] [i Europa] [just nu]\n形式主语  系动词   形容词短语 + 名词     地点       时间\n```\n\n## 语法点 (Grammar)\n\n- 📌 *ovanligt* 修饰 *varmt*（副词修饰形容词）：异常地热\n- 📌 *det* 作形式主语：*Det är varmt.* 是瑞典语典型天气句型\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[väder]], [[värme]], [[ovanlig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Det är ovanligt varmt väder i Europa just nu. 🇨🇳 现在欧洲天气异常炎热。 结构 (Structure) [Det] [är] [ovanligt varmt väder] [i Europa] [just nu] 形式主语 系动词 形容词短语 + 名词 地点 时间 语法点 (Grammar) 📌 ovanligt 修饰 varmt （副词修饰形容词）：异常地热 📌 det",
+      "forms": [],
+      "links": [
+        "ovanlig",
+        "source-2026-06-22-nyheter-8sidor",
+        "väder",
+        "värme"
+      ],
+      "searchText": "🇸🇪 Det är ovanligt varmt väder i Europa just nu. sent-det-ar-ovanligt-varmt-vader-i-europa knowledge_base/sentences/sent-det-ar-ovanligt-varmt-vader-i-europa.md ---\ntype: sentence\nsentence: \"Det är ovanligt varmt väder i Europa just nu.\"\nzh: \"现在欧洲天气异常炎热。\"\ncefr: A2\nwords: [väder, värme, ovanlig]\nphrases: []\ngrammar: []\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-vader-och-arstider]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är ovanligt varmt väder i Europa just nu.\n\n🇨🇳 现在欧洲天气异常炎热。\n\n## 结构 (Structure)\n\n```\n[Det] [är] [ovanligt varmt väder] [i Europa] [just nu]\n形式主语  系动词   形容词短语 + 名词     地点       时间\n```\n\n## 语法点 (Grammar)\n\n- 📌 *ovanligt* 修饰 *varmt*（副词修饰形容词）：异常地热\n- 📌 *det* 作形式主语：*Det är varmt.* 是瑞典语典型天气句型\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[väder]], [[värme]], [[ovanlig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "现在欧洲天气异常炎热。",
+      "created": "2026-06-22",
+      "sentence": "Det är ovanligt varmt väder i Europa just nu.",
+      "words": [
+        "väder",
+        "värme",
+        "ovanlig"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-det-är-viktigt-att-skapa-en-kultur",
@@ -13335,7 +13763,9 @@ window.KB_DATA = {
       "topics": [
         "topic-karaktarsord"
       ],
-      "backlinks": []
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
     },
     {
       "slug": "sent-det-finns-risk-att-over-10000-hus",
@@ -13365,6 +13795,33 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-17-listening-svt-latt"
       ]
+    },
+    {
+      "slug": "sent-det-gick-daligt-for-sverige",
+      "type": "sentence",
+      "title": "🇸🇪 Det gick dåligt för Sverige.",
+      "path": "knowledge_base/sentences/sent-det-gick-daligt-for-sverige.md",
+      "body": "# 🇸🇪 Det gick dåligt för Sverige.\n\n🇨🇳 瑞典踢得很差。\n\n## 结构 (Structure)\n\n```\n[Det] [gick] [dåligt] [för Sverige]\n形式主语  动词   副词      受事者\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *gick* 为 *gå* 的过去时（不规则：går–gick–gått）\n- 📌 *det går bra/dåligt för ngn* — 某人/某队表现好/差（固定表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n（无新生词）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Det gick dåligt för Sverige. 🇨🇳 瑞典踢得很差。 结构 (Structure) [Det] [gick] [dåligt] [för Sverige] 形式主语 动词 副词 受事者 语法点 (Grammar) 📌 grammar preteritum — gick 为 gå 的过去时（不规则：går–gick–gått） 📌 det går bra/dåligt för ngn — 某人/",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Det gick dåligt för Sverige. sent-det-gick-daligt-for-sverige knowledge_base/sentences/sent-det-gick-daligt-for-sverige.md ---\ntype: sentence\nsentence: \"Det gick dåligt för Sverige.\"\nzh: \"瑞典踢得很差。\"\ncefr: A1\nwords: []\nphrases: []\ngrammar: [grammar-preteritum]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-fotboll]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det gick dåligt för Sverige.\n\n🇨🇳 瑞典踢得很差。\n\n## 结构 (Structure)\n\n```\n[Det] [gick] [dåligt] [för Sverige]\n形式主语  动词   副词      受事者\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *gick* 为 *gå* 的过去时（不规则：går–gick–gått）\n- 📌 *det går bra/dåligt för ngn* — 某人/某队表现好/差（固定表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n（无新生词）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A1",
+      "zh": "瑞典踢得很差。",
+      "created": "2026-06-22",
+      "sentence": "Det gick dåligt för Sverige.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-det-gör-värmeböljorna-både-vanligare",
@@ -13648,6 +14105,7 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
+        "source-2026-06-22-listening-svt-latt",
         "ta-stryptag-på"
       ]
     },
@@ -16388,6 +16846,61 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-folk-ar-misnojda-med-att-maten-ar-dyr",
+      "type": "sentence",
+      "title": "🇸🇪 Folk är missnöjda med att maten är dyr och att landet har dålig ekonomi.",
+      "path": "knowledge_base/sentences/sent-folk-ar-misnojda-med-att-maten-ar-dyr.md",
+      "body": "# 🇸🇪 Folk är missnöjda med att maten är dyr och att landet har dålig ekonomi.\n\n🇨🇳 人们对食品价格高和国家经济状况差感到不满。\n\n## 结构 (Structure)\n\n```\n[Folk] [är missnöjda] [med att maten är dyr] [och att landet har dålig ekonomi]\n  主语     谓语           att-sats 1（宾语）         att-sats 2（并列）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *med att + bisats* 作介词宾语；两个 att-satser 并列\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[missnöjd]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Folk är missnöjda med att maten är dyr och att landet har dålig ekonomi. 🇨🇳 人们对食品价格高和国家经济状况差感到不满。 结构 (Structure) [Folk] [är missnöjda] [med att maten är dyr] [och att landet har dålig ekonomi] 主语 谓语 att sats 1（宾语）",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "missnöjd",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Folk är missnöjda med att maten är dyr och att landet har dålig ekonomi. sent-folk-ar-misnojda-med-att-maten-ar-dyr knowledge_base/sentences/sent-folk-ar-misnojda-med-att-maten-ar-dyr.md ---\ntype: sentence\nsentence: \"Folk är missnöjda med att maten är dyr och att landet har dålig ekonomi.\"\nzh: \"人们对食品价格高和国家经济状况差感到不满。\"\ncefr: B1\nwords: [missnöjd]\nphrases: []\ngrammar: [grammar-att-sats]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Folk är missnöjda med att maten är dyr och att landet har dålig ekonomi.\n\n🇨🇳 人们对食品价格高和国家经济状况差感到不满。\n\n## 结构 (Structure)\n\n```\n[Folk] [är missnöjda] [med att maten är dyr] [och att landet har dålig ekonomi]\n  主语     谓语           att-sats 1（宾语）         att-sats 2（并列）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *med att + bisats* 作介词宾语；两个 att-satser 并列\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[missnöjd]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "人们对食品价格高和国家经济状况差感到不满。",
+      "created": "2026-06-22",
+      "sentence": "Folk är missnöjda med att maten är dyr och att landet har dålig ekonomi.",
+      "words": [
+        "missnöjd"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-att-sats"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-folk-har-berättat-om-robin-hood-hundra-ar",
+      "type": "sentence",
+      "title": "🇸🇪 Folk har berättat om hjälten Robin Hood i många hundra år.",
+      "path": "knowledge_base/sentences/sent-folk-har-berättat-om-robin-hood-hundra-ar.md",
+      "body": "# 🇸🇪 Folk har berättat om hjälten Robin Hood i många hundra år.\n\n🇨🇳 数百年来人们一直在讲述英雄罗宾汉的故事。\n\n## 结构 (Structure)\n\n```\n[Folk] [har berättat] [om hjälten Robin Hood] [i många hundra år]\n  主语   perfekt时态      介词短语（内容）          时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har berättat* 表示持续到现在的行为，与 *i + tidsperiod* 搭配\n\n## 生词 & 词组 (Words & Phrases)\n\n（无新生词）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Folk har berättat om hjälten Robin Hood i många hundra år. 🇨🇳 数百年来人们一直在讲述英雄罗宾汉的故事。 结构 (Structure) [Folk] [har berättat] [om hjälten Robin Hood] [i många hundra år] 主语 perfekt时态 介词短语（内容） 时间状语 语法点 (Grammar) 📌 gramm",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Folk har berättat om hjälten Robin Hood i många hundra år. sent-folk-har-berättat-om-robin-hood-hundra-ar knowledge_base/sentences/sent-folk-har-berättat-om-robin-hood-hundra-ar.md ---\ntype: sentence\nsentence: \"Folk har berättat om hjälten Robin Hood i många hundra år.\"\nzh: \"数百年来人们一直在讲述英雄罗宾汉的故事。\"\ncefr: A2\nwords: []\nphrases: []\ngrammar: [grammar-perfekt]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Folk har berättat om hjälten Robin Hood i många hundra år.\n\n🇨🇳 数百年来人们一直在讲述英雄罗宾汉的故事。\n\n## 结构 (Structure)\n\n```\n[Folk] [har berättat] [om hjälten Robin Hood] [i många hundra år]\n  主语   perfekt时态      介词短语（内容）          时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har berättat* 表示持续到现在的行为，与 *i + tidsperiod* 搭配\n\n## 生词 & 词组 (Words & Phrases)\n\n（无新生词）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "数百年来人们一直在讲述英雄罗宾汉的故事。",
+      "created": "2026-06-22",
+      "sentence": "Folk har berättat om hjälten Robin Hood i många hundra år.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
       "slug": "sent-folk-i-sverige-har-firat",
       "type": "sentence",
       "title": "🇸🇪 Folk i Sverige har firat midsommar ända sedan 1500-talet.",
@@ -17771,6 +18284,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-han-ar-misstankt-for-manga-brott",
+      "type": "sentence",
+      "title": "🇸🇪 Han är misstänkt för många brott.",
+      "path": "knowledge_base/sentences/sent-han-ar-misstankt-for-manga-brott.md",
+      "body": "# 🇸🇪 Han är misstänkt för många brott.\n\n🇨🇳 他被怀疑犯有多项罪行。\n\n## 结构 (Structure)\n\n```\n[Han] [är] [misstänkt] [för många brott]\n 主语  链接动词  形容词      介词短语（原因）\n```\n\n## 语法点 (Grammar)\n\n- 📌 *misstänkt för* — 固定搭配，\"涉嫌/被怀疑……\"（见 [[misstänkt]]）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[misstänkt]], [[brottsling]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Han är misstänkt för många brott. 🇨🇳 他被怀疑犯有多项罪行。 结构 (Structure) [Han] [är] [misstänkt] [för många brott] 主语 链接动词 形容词 介词短语（原因） 语法点 (Grammar) 📌 misstänkt för — 固定搭配，\"涉嫌/被怀疑……\"（见 misstänkt） 生词 & 词组 (Words & Phrases)",
+      "forms": [],
+      "links": [
+        "brottsling",
+        "misstänkt",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Han är misstänkt för många brott. sent-han-ar-misstankt-for-manga-brott knowledge_base/sentences/sent-han-ar-misstankt-for-manga-brott.md ---\ntype: sentence\nsentence: \"Han är misstänkt för många brott.\"\nzh: \"他被怀疑犯有多项罪行。\"\ncefr: B1\nwords: [misstänkt, brottsling]\nphrases: []\ngrammar: []\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Han är misstänkt för många brott.\n\n🇨🇳 他被怀疑犯有多项罪行。\n\n## 结构 (Structure)\n\n```\n[Han] [är] [misstänkt] [för många brott]\n 主语  链接动词  形容词      介词短语（原因）\n```\n\n## 语法点 (Grammar)\n\n- 📌 *misstänkt för* — 固定搭配，\"涉嫌/被怀疑……\"（见 [[misstänkt]]）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[misstänkt]], [[brottsling]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "他被怀疑犯有多项罪行。",
+      "created": "2026-06-22",
+      "sentence": "Han är misstänkt för många brott.",
+      "words": [
+        "misstänkt",
+        "brottsling"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-han-foddes-1981-rosengard",
       "type": "sentence",
       "title": "🇸🇪 Han föddes 1981 i Rosengård i Malmö.",
@@ -17807,6 +18349,68 @@ window.KB_DATA = {
         "grammar-passiv-med-s",
         "grammar-preteritum"
       ]
+    },
+    {
+      "slug": "sent-han-har-blivit-allt-mindre-popularr",
+      "type": "sentence",
+      "title": "🇸🇪 Han har blivit allt mindre populär.",
+      "path": "knowledge_base/sentences/sent-han-har-blivit-allt-mindre-popularr.md",
+      "body": "# 🇸🇪 Han har blivit allt mindre populär.\n\n🇨🇳 他变得越来越不受欢迎。\n\n## 结构 (Structure)\n\n```\n[Han] [har blivit] [allt mindre populär]\n 主语   perfekt时态    副词+比较级+形容词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *mindre populär* = less popular（比较级）\n- 📌 *allt* + 比较级 = 越来越… (*allt mer* = more and more, *allt mindre* = less and less)\n- 📌 [[grammar-perfekt]] — *har blivit* 表示变化结果持续到现在\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[populär]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Han har blivit allt mindre populär. 🇨🇳 他变得越来越不受欢迎。 结构 (Structure) [Han] [har blivit] [allt mindre populär] 主语 perfekt时态 副词+比较级+形容词 语法点 (Grammar) 📌 grammar komparativ — mindre populär = less popular（比较级） 📌 allt +",
+      "forms": [],
+      "links": [
+        "grammar-komparativ",
+        "grammar-perfekt",
+        "populär",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Han har blivit allt mindre populär. sent-han-har-blivit-allt-mindre-popularr knowledge_base/sentences/sent-han-har-blivit-allt-mindre-popularr.md ---\ntype: sentence\nsentence: \"Han har blivit allt mindre populär.\"\nzh: \"他变得越来越不受欢迎。\"\ncefr: B1\nwords: [populär]\nphrases: []\ngrammar: [grammar-komparativ, grammar-perfekt]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Han har blivit allt mindre populär.\n\n🇨🇳 他变得越来越不受欢迎。\n\n## 结构 (Structure)\n\n```\n[Han] [har blivit] [allt mindre populär]\n 主语   perfekt时态    副词+比较级+形容词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — *mindre populär* = less popular（比较级）\n- 📌 *allt* + 比较级 = 越来越… (*allt mer* = more and more, *allt mindre* = less and less)\n- 📌 [[grammar-perfekt]] — *har blivit* 表示变化结果持续到现在\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[populär]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "他变得越来越不受欢迎。",
+      "created": "2026-06-22",
+      "sentence": "Han har blivit allt mindre populär.",
+      "words": [
+        "populär"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-komparativ",
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-han-har-styrt-landet-sedan-ar-2024",
+      "type": "sentence",
+      "title": "🇸🇪 Han har styrt landet sedan år 2024.",
+      "path": "knowledge_base/sentences/sent-han-har-styrt-landet-sedan-ar-2024.md",
+      "body": "# 🇸🇪 Han har styrt landet sedan år 2024.\n\n🇨🇳 他自2024年以来一直领导这个国家。\n\n## 结构 (Structure)\n\n```\n[Han] [har styrt] [landet] [sedan år 2024]\n 主语   perfekt时态   宾语       时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har styrt* 表示从过去持续到现在的动作，与 *sedan* 搭配强调延续性\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[land]] (landet = 定冠词形式)\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Han har styrt landet sedan år 2024. 🇨🇳 他自2024年以来一直领导这个国家。 结构 (Structure) [Han] [har styrt] [landet] [sedan år 2024] 主语 perfekt时态 宾语 时间状语 语法点 (Grammar) 📌 grammar perfekt — har styrt 表示从过去持续到现在的动作，与 sedan 搭配强调延续性 生",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "land",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Han har styrt landet sedan år 2024. sent-han-har-styrt-landet-sedan-ar-2024 knowledge_base/sentences/sent-han-har-styrt-landet-sedan-ar-2024.md ---\ntype: sentence\nsentence: \"Han har styrt landet sedan år 2024.\"\nzh: \"他自2024年以来一直领导这个国家。\"\ncefr: A2\nwords: [land]\nphrases: []\ngrammar: [grammar-perfekt]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Han har styrt landet sedan år 2024.\n\n🇨🇳 他自2024年以来一直领导这个国家。\n\n## 结构 (Structure)\n\n```\n[Han] [har styrt] [landet] [sedan år 2024]\n 主语   perfekt时态   宾语       时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har styrt* 表示从过去持续到现在的动作，与 *sedan* 搭配强调延续性\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[land]] (landet = 定冠词形式)\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "他自2024年以来一直领导这个国家。",
+      "created": "2026-06-22",
+      "sentence": "Han har styrt landet sedan år 2024.",
+      "words": [
+        "land"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-han-heter-poya-shafie-och-är-30-år",
@@ -18804,6 +19408,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-i-delar-av-frankrike-italien-spanien-40-grader",
+      "type": "sentence",
+      "title": "🇸🇪 I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt.",
+      "path": "knowledge_base/sentences/sent-i-delar-av-frankrike-italien-spanien-40-grader.md",
+      "body": "# 🇸🇪 I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt.\n\n🇨🇳 法国、意大利和西班牙部分地区气温超过40度。\n\n## 结构 (Structure)\n\n```\n[I delar av Frankrike, Italien och Spanien] [blir det] [över 40 grader varmt]\n            地点状语（句首，V2后续）           情态+形式主语    温度说明\n```\n\n## 语法点 (Grammar)\n\n- 📌 V2规则：地点短语在首位 → 动词 *blir* 紧跟在第二位\n- 📌 *X grader varmt* — 瑞典语温度表达法：数字 + grader + varmt/kallt\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[värme]], [[grad]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt. 🇨🇳 法国、意大利和西班牙部分地区气温超过40度。 结构 (Structure) [I delar av Frankrike, Italien och Spanien] [blir det] [över 40 grader varmt] 地点状语（句首，V2后续） 情态+形式主语",
+      "forms": [],
+      "links": [
+        "grad",
+        "source-2026-06-22-nyheter-8sidor",
+        "värme"
+      ],
+      "searchText": "🇸🇪 I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt. sent-i-delar-av-frankrike-italien-spanien-40-grader knowledge_base/sentences/sent-i-delar-av-frankrike-italien-spanien-40-grader.md ---\ntype: sentence\nsentence: \"I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt.\"\nzh: \"法国、意大利和西班牙部分地区气温超过40度。\"\ncefr: A2\nwords: [värme, grad]\nphrases: []\ngrammar: []\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-vader-och-arstider]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt.\n\n🇨🇳 法国、意大利和西班牙部分地区气温超过40度。\n\n## 结构 (Structure)\n\n```\n[I delar av Frankrike, Italien och Spanien] [blir det] [över 40 grader varmt]\n            地点状语（句首，V2后续）           情态+形式主语    温度说明\n```\n\n## 语法点 (Grammar)\n\n- 📌 V2规则：地点短语在首位 → 动词 *blir* 紧跟在第二位\n- 📌 *X grader varmt* — 瑞典语温度表达法：数字 + grader + varmt/kallt\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[värme]], [[grad]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "法国、意大利和西班牙部分地区气温超过40度。",
+      "created": "2026-06-22",
+      "sentence": "I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt.",
+      "words": [
+        "värme",
+        "grad"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-i-genomsnitt-fyra-timmar-och-57-minuter",
       "type": "sentence",
       "title": "🇸🇪 I genomsnitt fyra timmar och 57 minuter.",
@@ -18884,6 +19517,36 @@ window.KB_DATA = {
         "source-2026-06-09-rumsliga-relationer",
         "till-vänster-om"
       ]
+    },
+    {
+      "slug": "sent-i-lordags-spelade-sverige-mot-nederlanderna",
+      "type": "sentence",
+      "title": "🇸🇪 I lördags spelade Sverige mot Nederländerna i Houston, USA.",
+      "path": "knowledge_base/sentences/sent-i-lordags-spelade-sverige-mot-nederlanderna.md",
+      "body": "# 🇸🇪 I lördags spelade Sverige mot Nederländerna i Houston, USA.\n\n🇨🇳 上周六瑞典在美国休斯顿对阵荷兰。\n\n## 结构 (Structure)\n\n```\n[I lördags] [spelade] [Sverige] [mot Nederländerna] [i Houston, USA]\n  时间副词    动词（V2）   主语       对手（介词短语）      地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *spelade* 过去时\n- 📌 V2规则：时间短语 *I lördags* 在首位 → 动词 *spelade* 第二位\n- 📌 [[i-lördags]] 短语（上周六）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[i-lördags]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 I lördags spelade Sverige mot Nederländerna i Houston, USA. 🇨🇳 上周六瑞典在美国休斯顿对阵荷兰。 结构 (Structure) [I lördags] [spelade] [Sverige] [mot Nederländerna] [i Houston, USA] 时间副词 动词（V2） 主语 对手（介词短语） 地点 语法点 (Grammar) 📌 gramm",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "i-lördags",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 I lördags spelade Sverige mot Nederländerna i Houston, USA. sent-i-lordags-spelade-sverige-mot-nederlanderna knowledge_base/sentences/sent-i-lordags-spelade-sverige-mot-nederlanderna.md ---\ntype: sentence\nsentence: \"I lördags spelade Sverige mot Nederländerna i Houston, USA.\"\nzh: \"上周六瑞典在美国休斯顿对阵荷兰。\"\ncefr: A2\nwords: []\nphrases: [i-lördags]\ngrammar: [grammar-preteritum]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-fotboll]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I lördags spelade Sverige mot Nederländerna i Houston, USA.\n\n🇨🇳 上周六瑞典在美国休斯顿对阵荷兰。\n\n## 结构 (Structure)\n\n```\n[I lördags] [spelade] [Sverige] [mot Nederländerna] [i Houston, USA]\n  时间副词    动词（V2）   主语       对手（介词短语）      地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *spelade* 过去时\n- 📌 V2规则：时间短语 *I lördags* 在首位 → 动词 *spelade* 第二位\n- 📌 [[i-lördags]] 短语（上周六）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[i-lördags]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "上周六瑞典在美国休斯顿对阵荷兰。",
+      "created": "2026-06-22",
+      "sentence": "I lördags spelade Sverige mot Nederländerna i Houston, USA.",
+      "words": [],
+      "phrases": [
+        "i-lördags"
+      ],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-i-lordags-vaknade-jag-tidigt-fast",
@@ -19613,6 +20276,36 @@ window.KB_DATA = {
       "backlinks": [
         "ingen-stress",
         "source-2026-06-20-sms-till-en-van"
+      ]
+    },
+    {
+      "slug": "sent-ingen-vet-om-robin-hood-funnits-pa-riktigt",
+      "type": "sentence",
+      "title": "🇸🇪 Ingen vet egentligen om Robin Hood har funnits på riktigt.",
+      "path": "knowledge_base/sentences/sent-ingen-vet-om-robin-hood-funnits-pa-riktigt.md",
+      "body": "# 🇸🇪 Ingen vet egentligen om Robin Hood har funnits på riktigt.\n\n🇨🇳 没有人真正知道罗宾汉是否真实存在过。\n\n## 结构 (Structure)\n\n```\n[Ingen] [vet] [egentligen] [om Robin Hood har funnits på riktigt]\n  主语   动词   satsadv.      om-bisats（宾语从句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-om]] — *om* 引导间接疑问句（是否…）\n- 📌 *ingen* = no one（否定主语）\n- 📌 *har funnits* = perfekt av *finnas*（存在过）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[på-riktigt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Ingen vet egentligen om Robin Hood har funnits på riktigt. 🇨🇳 没有人真正知道罗宾汉是否真实存在过。 结构 (Structure) [Ingen] [vet] [egentligen] [om Robin Hood har funnits på riktigt] 主语 动词 satsadv. om bisats（宾语从句） 语法点 (Grammar) 📌 gra",
+      "forms": [],
+      "links": [
+        "grammar-bisats-om",
+        "på-riktigt",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Ingen vet egentligen om Robin Hood har funnits på riktigt. sent-ingen-vet-om-robin-hood-funnits-pa-riktigt knowledge_base/sentences/sent-ingen-vet-om-robin-hood-funnits-pa-riktigt.md ---\ntype: sentence\nsentence: \"Ingen vet egentligen om Robin Hood har funnits på riktigt.\"\nzh: \"没有人真正知道罗宾汉是否真实存在过。\"\ncefr: B1\nwords: []\nphrases: [på-riktigt]\ngrammar: [grammar-bisats-om]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ingen vet egentligen om Robin Hood har funnits på riktigt.\n\n🇨🇳 没有人真正知道罗宾汉是否真实存在过。\n\n## 结构 (Structure)\n\n```\n[Ingen] [vet] [egentligen] [om Robin Hood har funnits på riktigt]\n  主语   动词   satsadv.      om-bisats（宾语从句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-om]] — *om* 引导间接疑问句（是否…）\n- 📌 *ingen* = no one（否定主语）\n- 📌 *har funnits* = perfekt av *finnas*（存在过）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[på-riktigt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "没有人真正知道罗宾汉是否真实存在过。",
+      "created": "2026-06-22",
+      "sentence": "Ingen vet egentligen om Robin Hood har funnits på riktigt.",
+      "words": [],
+      "phrases": [
+        "på-riktigt"
+      ],
+      "grammar": [
+        "grammar-bisats-om"
+      ],
+      "topics": [],
+      "backlinks": [
+        "på-riktigt"
       ]
     },
     {
@@ -20563,7 +21256,10 @@ window.KB_DATA = {
       "topics": [
         "topic-familj-och-barn"
       ],
-      "backlinks": []
+      "backlinks": [
+        "grammar-relativ-bisats-med-som",
+        "source-2026-06-22-listening-svt-latt"
+      ]
     },
     {
       "slug": "sent-jag-promenerar-langs-storgatan-solig-tisdag",
@@ -21227,6 +21923,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-kroppen-blir-uttorkad-extra-snabbt",
+      "type": "sentence",
+      "title": "🇸🇪 Kroppen blir uttorkad extra snabbt.",
+      "path": "knowledge_base/sentences/sent-kroppen-blir-uttorkad-extra-snabbt.md",
+      "body": "# 🇸🇪 Kroppen blir uttorkad extra snabbt.\n\n🇨🇳 身体脱水得特别快。\n\n## 结构 (Structure)\n\n```\n[Kroppen] [blir] [uttorkad] [extra snabbt]\n   主语    变化动词  形容词（结果）   程度副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 *bli + adjektiv* = 变成…的状态（结果变化）\n- 📌 *extra* 修饰副词 *snabbt*（加强程度）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[uttorkad]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Kroppen blir uttorkad extra snabbt. 🇨🇳 身体脱水得特别快。 结构 (Structure) [Kroppen] [blir] [uttorkad] [extra snabbt] 主语 变化动词 形容词（结果） 程度副词 语法点 (Grammar) 📌 bli + adjektiv = 变成…的状态（结果变化） 📌 extra 修饰副词 snabbt （加强程度） 生词 & 词组 (W",
+      "forms": [],
+      "links": [
+        "source-2026-06-22-nyheter-8sidor",
+        "uttorkad"
+      ],
+      "searchText": "🇸🇪 Kroppen blir uttorkad extra snabbt. sent-kroppen-blir-uttorkad-extra-snabbt knowledge_base/sentences/sent-kroppen-blir-uttorkad-extra-snabbt.md ---\ntype: sentence\nsentence: \"Kroppen blir uttorkad extra snabbt.\"\nzh: \"身体脱水得特别快。\"\ncefr: B1\nwords: [uttorkad]\nphrases: []\ngrammar: []\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-vader-och-arstider]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Kroppen blir uttorkad extra snabbt.\n\n🇨🇳 身体脱水得特别快。\n\n## 结构 (Structure)\n\n```\n[Kroppen] [blir] [uttorkad] [extra snabbt]\n   主语    变化动词  形容词（结果）   程度副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 *bli + adjektiv* = 变成…的状态（结果变化）\n- 📌 *extra* 修饰副词 *snabbt*（加强程度）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[uttorkad]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "身体脱水得特别快。",
+      "created": "2026-06-22",
+      "sentence": "Kroppen blir uttorkad extra snabbt.",
+      "words": [
+        "uttorkad"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-kvällens-rätt-är-lammkotlett-med-örtsås",
       "type": "sentence",
       "title": "🇸🇪 Kvällens rätt är lammkotlett med örtsås.",
@@ -21341,7 +22064,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "från-och-med",
-        "på-grund-av"
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -22072,6 +22795,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat",
+      "type": "sentence",
+      "title": "🇸🇪 Mannen är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai.",
+      "path": "knowledge_base/sentences/sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat.md",
+      "body": "# 🇸🇪 Mannen är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai.\n\n🇨🇳 该男子尤其被怀疑从南美洲向欧洲和迪拜走私毒品。\n\n## 结构 (Structure)\n\n```\n[Mannen] [är] [bland annat misstänkt] [för att ha smugglat droger] [från Sydamerika till Europa och Dubai]\n  主语   链接  satsadverbial + adj.    perfekt infinitiv短语（原因）          地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt-infinitiv]] — *för att ha smugglat* = \"for having smuggled\"（完成式不定式）\n- 📌 *bland annat* — 短语副词\"尤其是，在其他方面\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[misstänkt]], [[smuggla]], [[drog]]\n- 词组: [[bland-annat]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Mannen är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai. 🇨🇳 该男子尤其被怀疑从南美洲向欧洲和迪拜走私毒品。 结构 (Structure) [Mannen] [är] [bland annat misstänkt] [för att ha smugglat droger] [från ",
+      "forms": [],
+      "links": [
+        "bland-annat",
+        "drog",
+        "grammar-perfekt-infinitiv",
+        "misstänkt",
+        "smuggla",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Mannen är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai. sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat knowledge_base/sentences/sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat.md ---\ntype: sentence\nsentence: \"Mannen är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai.\"\nzh: \"该男子尤其被怀疑从南美洲向欧洲和迪拜走私毒品。\"\ncefr: B1\nwords: [misstänkt, smuggla, drog]\nphrases: [bland-annat]\ngrammar: [grammar-perfekt-infinitiv]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Mannen är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai.\n\n🇨🇳 该男子尤其被怀疑从南美洲向欧洲和迪拜走私毒品。\n\n## 结构 (Structure)\n\n```\n[Mannen] [är] [bland annat misstänkt] [för att ha smugglat droger] [från Sydamerika till Europa och Dubai]\n  主语   链接  satsadverbial + adj.    perfekt infinitiv短语（原因）          地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt-infinitiv]] — *för att ha smugglat* = \"for having smuggled\"（完成式不定式）\n- 📌 *bland annat* — 短语副词\"尤其是，在其他方面\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[misstänkt]], [[smuggla]], [[drog]]\n- 词组: [[bland-annat]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "该男子尤其被怀疑从南美洲向欧洲和迪拜走私毒品。",
+      "created": "2026-06-22",
+      "sentence": "Mannen är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai.",
+      "words": [
+        "misstänkt",
+        "smuggla",
+        "drog"
+      ],
+      "phrases": [
+        "bland-annat"
+      ],
+      "grammar": [
+        "grammar-perfekt-infinitiv"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "grammar-perfekt-infinitiv"
+      ]
+    },
+    {
       "slug": "sent-människor-brukar-plocka-sju-sorters",
       "type": "sentence",
       "title": "🇸🇪 Människor brukar plocka sju sorters blommor och lägga under sin kudde innan de sover.",
@@ -22151,6 +22913,38 @@ window.KB_DATA = {
         "köra-för-fort",
         "source-2026-06-18-nyheter-8sidor"
       ]
+    },
+    {
+      "slug": "sent-matchen-slutade-5-1-till-nederlanderna",
+      "type": "sentence",
+      "title": "🇸🇪 Matchen slutade 5–1 till Nederländerna.",
+      "path": "knowledge_base/sentences/sent-matchen-slutade-5-1-till-nederlanderna.md",
+      "body": "# 🇸🇪 Matchen slutade 5–1 till Nederländerna.\n\n🇨🇳 比赛以5比1结束，荷兰获胜。\n\n## 结构 (Structure)\n\n```\n[Matchen] [slutade] [5–1] [till Nederländerna]\n   主语     动词（过去）  比分     受益者/胜者\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *slutade* = 结束（reg. verb, grupp 1）\n- 📌 *X–Y till Z* — 结果 X 比 Y，Z 获胜（体育比分表达法）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[match]], [[förlust]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Matchen slutade 5–1 till Nederländerna. 🇨🇳 比赛以5比1结束，荷兰获胜。 结构 (Structure) [Matchen] [slutade] [5–1] [till Nederländerna] 主语 动词（过去） 比分 受益者/胜者 语法点 (Grammar) 📌 grammar preteritum — slutade = 结束（reg. verb, grupp 1） 📌",
+      "forms": [],
+      "links": [
+        "förlust",
+        "grammar-preteritum",
+        "match",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Matchen slutade 5–1 till Nederländerna. sent-matchen-slutade-5-1-till-nederlanderna knowledge_base/sentences/sent-matchen-slutade-5-1-till-nederlanderna.md ---\ntype: sentence\nsentence: \"Matchen slutade 5–1 till Nederländerna.\"\nzh: \"比赛以5比1结束，荷兰获胜。\"\ncefr: A2\nwords: [match, förlust]\nphrases: []\ngrammar: [grammar-preteritum]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-fotboll]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Matchen slutade 5–1 till Nederländerna.\n\n🇨🇳 比赛以5比1结束，荷兰获胜。\n\n## 结构 (Structure)\n\n```\n[Matchen] [slutade] [5–1] [till Nederländerna]\n   主语     动词（过去）  比分     受益者/胜者\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — *slutade* = 结束（reg. verb, grupp 1）\n- 📌 *X–Y till Z* — 结果 X 比 Y，Z 获胜（体育比分表达法）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[match]], [[förlust]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "比赛以5比1结束，荷兰获胜。",
+      "created": "2026-06-22",
+      "sentence": "Matchen slutade 5–1 till Nederländerna.",
+      "words": [
+        "match",
+        "förlust"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
@@ -23250,6 +24044,36 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-18-listening-svt-latt"
       ]
+    },
+    {
+      "slug": "sent-nu-ska-starmers-parti-labour-ordna-ledare",
+      "type": "sentence",
+      "title": "🇸🇪 Nu ska Starmers parti Labour ordna en ny ledare.",
+      "path": "knowledge_base/sentences/sent-nu-ska-starmers-parti-labour-ordna-ledare.md",
+      "body": "# 🇸🇪 Nu ska Starmers parti Labour ordna en ny ledare.\n\n🇨🇳 现在斯塔默的工党将选出一位新领导人。\n\n## 结构 (Structure)\n\n```\n[Nu] [ska] [Starmers parti Labour] [ordna] [en ny ledare]\n 时间  情态动词      主语                动词      宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-ska-infinitiv]] — *ska + infinitiv* 表示将来时/计划\n- 📌 V2规则：时间副词 *nu* 在首位，动词 *ska* 在第二位\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Nu ska Starmers parti Labour ordna en ny ledare. 🇨🇳 现在斯塔默的工党将选出一位新领导人。 结构 (Structure) [Nu] [ska] [Starmers parti Labour] [ordna] [en ny ledare] 时间 情态动词 主语 动词 宾语 语法点 (Grammar) 📌 grammar ska infinitiv — ska + infin",
+      "forms": [],
+      "links": [
+        "grammar-ska-infinitiv",
+        "ledare",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Nu ska Starmers parti Labour ordna en ny ledare. sent-nu-ska-starmers-parti-labour-ordna-ledare knowledge_base/sentences/sent-nu-ska-starmers-parti-labour-ordna-ledare.md ---\ntype: sentence\nsentence: \"Nu ska Starmers parti Labour ordna en ny ledare.\"\nzh: \"现在斯塔默的工党将选出一位新领导人。\"\ncefr: A2\nwords: [ledare]\nphrases: []\ngrammar: [grammar-ska-infinitiv]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Nu ska Starmers parti Labour ordna en ny ledare.\n\n🇨🇳 现在斯塔默的工党将选出一位新领导人。\n\n## 结构 (Structure)\n\n```\n[Nu] [ska] [Starmers parti Labour] [ordna] [en ny ledare]\n 时间  情态动词      主语                动词      宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-ska-infinitiv]] — *ska + infinitiv* 表示将来时/计划\n- 📌 V2规则：时间副词 *nu* 在首位，动词 *ska* 在第二位\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "现在斯塔默的工党将选出一位新领导人。",
+      "created": "2026-06-22",
+      "sentence": "Nu ska Starmers parti Labour ordna en ny ledare.",
+      "words": [
+        "ledare"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-ska-infinitiv"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-nu-ska-vi-se-hur-vädret-blir",
@@ -24581,6 +25405,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-poliserna-i-colombia-har-tagit-fast",
+      "type": "sentence",
+      "title": "🇸🇪 Poliserna i Colombia har tagit fast en svensk man.",
+      "path": "knowledge_base/sentences/sent-poliserna-i-colombia-har-tagit-fast.md",
+      "body": "# 🇸🇪 Poliserna i Colombia har tagit fast en svensk man.\n\n🇨🇳 哥伦比亚警方逮捕了一名瑞典男子。\n\n## 结构 (Structure)\n\n```\n[Poliserna i Colombia] [har tagit fast] [en svensk man]\n       主语                perfekt时态         宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har tagit fast* 完成时，强调结果\n- 📌 [[grammar-partikelverb]] — *ta fast*（分离式：*tagit fast*，fast 放最后）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[polis]], [[brottsling]]\n- 词组: [[ta-fast]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Poliserna i Colombia har tagit fast en svensk man. 🇨🇳 哥伦比亚警方逮捕了一名瑞典男子。 结构 (Structure) [Poliserna i Colombia] [har tagit fast] [en svensk man] 主语 perfekt时态 宾语 语法点 (Grammar) 📌 grammar perfekt — har tagit fast 完成时，强",
+      "forms": [],
+      "links": [
+        "brottsling",
+        "grammar-partikelverb",
+        "grammar-perfekt",
+        "polis",
+        "source-2026-06-22-nyheter-8sidor",
+        "ta-fast"
+      ],
+      "searchText": "🇸🇪 Poliserna i Colombia har tagit fast en svensk man. sent-poliserna-i-colombia-har-tagit-fast knowledge_base/sentences/sent-poliserna-i-colombia-har-tagit-fast.md ---\ntype: sentence\nsentence: \"Poliserna i Colombia har tagit fast en svensk man.\"\nzh: \"哥伦比亚警方逮捕了一名瑞典男子。\"\ncefr: A2\nwords: [brottsling, polis]\nphrases: [ta-fast]\ngrammar: [grammar-perfekt]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Poliserna i Colombia har tagit fast en svensk man.\n\n🇨🇳 哥伦比亚警方逮捕了一名瑞典男子。\n\n## 结构 (Structure)\n\n```\n[Poliserna i Colombia] [har tagit fast] [en svensk man]\n       主语                perfekt时态         宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — *har tagit fast* 完成时，强调结果\n- 📌 [[grammar-partikelverb]] — *ta fast*（分离式：*tagit fast*，fast 放最后）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[polis]], [[brottsling]]\n- 词组: [[ta-fast]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "哥伦比亚警方逮捕了一名瑞典男子。",
+      "created": "2026-06-22",
+      "sentence": "Poliserna i Colombia har tagit fast en svensk man.",
+      "words": [
+        "brottsling",
+        "polis"
+      ],
+      "phrases": [
+        "ta-fast"
+      ],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "ta-fast"
+      ]
+    },
+    {
       "slug": "sent-politik-nu-en-stor-del-av-valjarna",
       "type": "sentence",
       "title": "🇸🇪 Politik nu. En stor del av väljarna räknar med att regeringen förlorar makten efter valet i september.",
@@ -24802,6 +25664,38 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-18-listening-svt-latt"
       ]
+    },
+    {
+      "slug": "sent-regeringen-forbjuder-barer-att-salja-alkohol",
+      "type": "sentence",
+      "title": "🇸🇪 Regeringen förbjuder barer att sälja alkohol i vissa områden.",
+      "path": "knowledge_base/sentences/sent-regeringen-forbjuder-barer-att-salja-alkohol.md",
+      "body": "# 🇸🇪 Regeringen förbjuder barer att sälja alkohol i vissa områden.\n\n🇨🇳 政府禁止部分地区酒吧销售酒精。\n\n## 结构 (Structure)\n\n```\n[Regeringen] [förbjuder] [barer] [att sälja alkohol] [i vissa områden]\n    主语         动词        宾语      att-infinitiv短语      地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *förbjuda ngn att göra ngt* = 禁止某人做某事（att + infinitiv 作宾补）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förbjuda]], [[regering]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Regeringen förbjuder barer att sälja alkohol i vissa områden. 🇨🇳 政府禁止部分地区酒吧销售酒精。 结构 (Structure) [Regeringen] [förbjuder] [barer] [att sälja alkohol] [i vissa områden] 主语 动词 宾语 att infinitiv短语 地点状语 语法点 (Grammar) 📌",
+      "forms": [],
+      "links": [
+        "förbjuda",
+        "grammar-att-sats",
+        "regering",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Regeringen förbjuder barer att sälja alkohol i vissa områden. sent-regeringen-forbjuder-barer-att-salja-alkohol knowledge_base/sentences/sent-regeringen-forbjuder-barer-att-salja-alkohol.md ---\ntype: sentence\nsentence: \"Regeringen förbjuder barer att sälja alkohol i vissa områden.\"\nzh: \"政府禁止部分地区酒吧销售酒精。\"\ncefr: B1\nwords: [förbjuda, regering]\nphrases: []\ngrammar: [grammar-att-sats]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Regeringen förbjuder barer att sälja alkohol i vissa områden.\n\n🇨🇳 政府禁止部分地区酒吧销售酒精。\n\n## 结构 (Structure)\n\n```\n[Regeringen] [förbjuder] [barer] [att sälja alkohol] [i vissa områden]\n    主语         动词        宾语      att-infinitiv短语      地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — *förbjuda ngn att göra ngt* = 禁止某人做某事（att + infinitiv 作宾补）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förbjuda]], [[regering]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "政府禁止部分地区酒吧销售酒精。",
+      "created": "2026-06-22",
+      "sentence": "Regeringen förbjuder barer att sälja alkohol i vissa områden.",
+      "words": [
+        "förbjuda",
+        "regering"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-att-sats"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-regeringen-vill-halvera-priset",
@@ -26056,6 +26950,33 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-storbritanniens-ledare-keir-starmer-slutar",
+      "type": "sentence",
+      "title": "🇸🇪 Storbritanniens ledare Keir Starmer slutar.",
+      "path": "knowledge_base/sentences/sent-storbritanniens-ledare-keir-starmer-slutar.md",
+      "body": "# 🇸🇪 Storbritanniens ledare Keir Starmer slutar.\n\n🇨🇳 英国领导人基尔·斯塔默辞职。\n\n## 结构 (Structure)\n\n```\n[Storbritanniens ledare Keir Starmer] [slutar]\n        主语（名词短语）                  动词（presens）\n```\n\n## 语法点 (Grammar)\n\n- 📌 presens — *slutar* 为现在时，此处表示将发生之事（新闻常用presens表近将来）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Storbritanniens ledare Keir Starmer slutar. 🇨🇳 英国领导人基尔·斯塔默辞职。 结构 (Structure) [Storbritanniens ledare Keir Starmer] [slutar] 主语（名词短语） 动词（presens） 语法点 (Grammar) 📌 presens — slutar 为现在时，此处表示将发生之事（新闻常用presens表近将来） 生词",
+      "forms": [],
+      "links": [
+        "ledare",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Storbritanniens ledare Keir Starmer slutar. sent-storbritanniens-ledare-keir-starmer-slutar knowledge_base/sentences/sent-storbritanniens-ledare-keir-starmer-slutar.md ---\ntype: sentence\nsentence: \"Storbritanniens ledare Keir Starmer slutar.\"\nzh: \"英国领导人基尔·斯塔默辞职。\"\ncefr: A2\nwords: [ledare]\nphrases: []\ngrammar: []\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Storbritanniens ledare Keir Starmer slutar.\n\n🇨🇳 英国领导人基尔·斯塔默辞职。\n\n## 结构 (Structure)\n\n```\n[Storbritanniens ledare Keir Starmer] [slutar]\n        主语（名词短语）                  动词（presens）\n```\n\n## 语法点 (Grammar)\n\n- 📌 presens — *slutar* 为现在时，此处表示将发生之事（新闻常用presens表近将来）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "英国领导人基尔·斯塔默辞职。",
+      "created": "2026-06-22",
+      "sentence": "Storbritanniens ledare Keir Starmer slutar.",
+      "words": [
+        "ledare"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-sundet-hormuz-ligger-i-havet",
       "type": "sentence",
       "title": "🇸🇪 Sundet Hormuz ligger i havet nära Iran.",
@@ -26836,6 +27757,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-trots-forlusten-kan-sverige-ga-vidare",
+      "type": "sentence",
+      "title": "🇸🇪 Trots förlusten kan Sverige fortfarande gå vidare från sin grupp.",
+      "path": "knowledge_base/sentences/sent-trots-forlusten-kan-sverige-ga-vidare.md",
+      "body": "# 🇸🇪 Trots förlusten kan Sverige fortfarande gå vidare från sin grupp.\n\n🇨🇳 尽管失利，瑞典仍有可能从小组中晋级。\n\n## 结构 (Structure)\n\n```\n[Trots förlusten] [kan] [Sverige] [fortfarande] [gå vidare] [från sin grupp]\n  介词短语（V2触发）  情态动词   主语    satsadverbial    动词短语      地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-trots-substantiv]] — *trots + substantiv*（尽管…），介词用法\n- 📌 V2规则：*trots*-frasen在首 → *kan* 第二位（主语 *Sverige* 第三位）\n- 📌 *fortfarande* = 仍然（satsadverbial，置于情态动词与主要动词之间）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förlust]], [[fortfarande]]\n- 词组: [[gå-vidare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Trots förlusten kan Sverige fortfarande gå vidare från sin grupp. 🇨🇳 尽管失利，瑞典仍有可能从小组中晋级。 结构 (Structure) [Trots förlusten] [kan] [Sverige] [fortfarande] [gå vidare] [från sin grupp] 介词短语（V2触发） 情态动词 主语 satsadverbial ",
+      "forms": [],
+      "links": [
+        "förlust",
+        "fortfarande",
+        "gå-vidare",
+        "grammar-trots-substantiv",
+        "source-2026-06-22-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Trots förlusten kan Sverige fortfarande gå vidare från sin grupp. sent-trots-forlusten-kan-sverige-ga-vidare knowledge_base/sentences/sent-trots-forlusten-kan-sverige-ga-vidare.md ---\ntype: sentence\nsentence: \"Trots förlusten kan Sverige fortfarande gå vidare från sin grupp.\"\nzh: \"尽管失利，瑞典仍有可能从小组中晋级。\"\ncefr: B1\nwords: [förlust, fortfarande]\nphrases: [gå-vidare]\ngrammar: [grammar-trots-substantiv]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-fotboll]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Trots förlusten kan Sverige fortfarande gå vidare från sin grupp.\n\n🇨🇳 尽管失利，瑞典仍有可能从小组中晋级。\n\n## 结构 (Structure)\n\n```\n[Trots förlusten] [kan] [Sverige] [fortfarande] [gå vidare] [från sin grupp]\n  介词短语（V2触发）  情态动词   主语    satsadverbial    动词短语      地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-trots-substantiv]] — *trots + substantiv*（尽管…），介词用法\n- 📌 V2规则：*trots*-frasen在首 → *kan* 第二位（主语 *Sverige* 第三位）\n- 📌 *fortfarande* = 仍然（satsadverbial，置于情态动词与主要动词之间）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förlust]], [[fortfarande]]\n- 词组: [[gå-vidare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "尽管失利，瑞典仍有可能从小组中晋级。",
+      "created": "2026-06-22",
+      "sentence": "Trots förlusten kan Sverige fortfarande gå vidare från sin grupp.",
+      "words": [
+        "förlust",
+        "fortfarande"
+      ],
+      "phrases": [
+        "gå-vidare"
+      ],
+      "grammar": [
+        "grammar-trots-substantiv"
+      ],
+      "topics": [
+        "topic-fotboll"
+      ],
+      "backlinks": [
+        "gå-vidare",
+        "grammar-trots-substantiv"
+      ]
+    },
+    {
       "slug": "sent-två-glas-vatten-räcker-tack",
       "type": "sentence",
       "title": "🇸🇪 Två glas vatten räcker, tack.",
@@ -26902,7 +27861,9 @@ window.KB_DATA = {
       "topics": [
         "topic-trafik"
       ],
-      "backlinks": []
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
     },
     {
       "slug": "sent-ukrainas-ledare-volodymyr-zelenskyj",
@@ -27160,7 +28121,9 @@ window.KB_DATA = {
       "topics": [
         "topic-krig-och-konflikt"
       ],
-      "backlinks": []
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
     },
     {
       "slug": "sent-usas-och-irans-presidenter-har-skrivit",
@@ -27595,6 +28558,36 @@ window.KB_DATA = {
         "source-2026-06-18-nyheter-8sidor",
         "source-2026-06-19-nyheter-8sidor"
       ]
+    },
+    {
+      "slug": "sent-varmen-ska-vara-kvar-i-flera-dagar",
+      "type": "sentence",
+      "title": "🇸🇪 Värmen ska vara kvar i flera dagar.",
+      "path": "knowledge_base/sentences/sent-varmen-ska-vara-kvar-i-flera-dagar.md",
+      "body": "# 🇸🇪 Värmen ska vara kvar i flera dagar.\n\n🇨🇳 高温将持续几天。\n\n## 结构 (Structure)\n\n```\n[Värmen] [ska vara kvar] [i flera dagar]\n  主语    情态动词+副词      时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-ska-infinitiv]] — *ska + infinitiv* 表将来（天气预报中常见）\n- 📌 *vara kvar* = 留下，继续（stay/remain）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[värme]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Värmen ska vara kvar i flera dagar. 🇨🇳 高温将持续几天。 结构 (Structure) [Värmen] [ska vara kvar] [i flera dagar] 主语 情态动词+副词 时间状语 语法点 (Grammar) 📌 grammar ska infinitiv — ska + infinitiv 表将来（天气预报中常见） 📌 vara kvar = 留下，继续（st",
+      "forms": [],
+      "links": [
+        "grammar-ska-infinitiv",
+        "source-2026-06-22-nyheter-8sidor",
+        "värme"
+      ],
+      "searchText": "🇸🇪 Värmen ska vara kvar i flera dagar. sent-varmen-ska-vara-kvar-i-flera-dagar knowledge_base/sentences/sent-varmen-ska-vara-kvar-i-flera-dagar.md ---\ntype: sentence\nsentence: \"Värmen ska vara kvar i flera dagar.\"\nzh: \"高温将持续几天。\"\ncefr: A2\nwords: [värme]\nphrases: []\ngrammar: [grammar-ska-infinitiv]\nsource: \"source-2026-06-22-nyheter-8sidor\"\ntopics: [topic-vader-och-arstider]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Värmen ska vara kvar i flera dagar.\n\n🇨🇳 高温将持续几天。\n\n## 结构 (Structure)\n\n```\n[Värmen] [ska vara kvar] [i flera dagar]\n  主语    情态动词+副词      时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-ska-infinitiv]] — *ska + infinitiv* 表将来（天气预报中常见）\n- 📌 *vara kvar* = 留下，继续（stay/remain）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[värme]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "高温将持续几天。",
+      "created": "2026-06-22",
+      "sentence": "Värmen ska vara kvar i flera dagar.",
+      "words": [
+        "värme"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-ska-infinitiv"
+      ],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-varsagod-behover-du-en-kasse",
@@ -33740,22 +34733,15 @@ window.KB_DATA = {
       "type": "source",
       "title": "SVT Nyheter på lätt svenska — 22 jun 2026",
       "path": "knowledge_base/sources/source-2026-06-22-listening-svt-latt.md",
-      "body": "# 🎧 SVT Nyheter på lätt svenska — 22 jun 2026\n\n类型: listening (hörvning) · 难度: A2–B1 · Avsnitt 116\n\n🎧 [SVT Play](https://www.svtplay.se/video/jxggQ1B/nyheter-pa-latt-svenska)\n\n## 原文概要 (Source Summary)\n\n三大新闻：美伊瑞士会谈、瑞典荣誉暴力立法、慕尼黑火车事故；欧洲热浪；天气预报。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: (librarian fills)\n- 词组: (librarian fills)\n- 句子: (librarian fills)\n- 语法: (librarian fills)",
+      "body": "# 🎧 SVT Nyheter på lätt svenska — 22 jun 2026\n\n类型: listening (hörvning) · 难度: A2–B1 · Avsnitt 116\n\n🎧 [SVT Play](https://www.svtplay.se/video/jxggQ1B/nyheter-pa-latt-svenska)\n\n## 原文概要 (Source Summary)\n\n三大新闻：美伊瑞士会谈、瑞典荣誉暴力立法、慕尼黑火车事故；欧洲热浪；天气预报。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: [[hedersvåld]] · [[olaglig]] · [[omhänderta]] · [[förtryck]] · [[tjafsa]] · [[stryptag]] · [[vagn]] · [[spår]] · [[krocka]] · [[förbjuda]] · [[självreflektering]] · [[utsatthet]] · [[jämställdhet]] · [[inblandad]]\n- 词组: [[på-grund-av]] · [[från-och-med]] · [[ta-stryptag-på]] · [[vidta-åtgärder]]\n- 句子: [[sent-usa-och-iran-ha-haft-sina-forsta]] · [[sent-de-har-kommit-overens-om-en-plan]] · [[sent-att-sla-nagon-i-sin-familj-kallas]] · [[sent-den-svenska-regeringen-ger-nu-17]] · [[sent-jag-och-storasyrran-borjade-tjafsa]] · [[sent-det-slutade-med-att-jag-tog-stryptag]] · [[sent-66-procent-av-flickorna-blir]] · [[sent-barn-och-unga-behover-mota-vuxna]] · [[sent-lagen-mot-fortryck-pa-grund-av-heder]] · [[sent-det-borjar-med-sjalvreflektering]] · [[sent-tva-vagnar-lamnade-sparet-och-foll]] · [[sent-det-ar-just-nu-mycket-varmt]] · [[sent-dar-ska-over-800-skolor-halla-stangt]]\n- 语法: [[grammar-passiv-konstruktion]] · [[grammar-relativ-bisats-med-som]]",
       "excerpt": "🎧 SVT Nyheter på lätt svenska — 22 jun 2026 类型: listening (hörvning) · 难度: A2–B1 · Avsnitt 116 🎧 [SVT Play](https://www.svtplay.se/video/jxggQ1B/nyheter pa latt svenska) 原文概要 (Source Summary) 三大新闻：美伊瑞士会谈、瑞典荣誉暴力立法、慕尼黑火车",
       "forms": [],
-      "links": [],
-      "searchText": "SVT Nyheter på lätt svenska — 22 jun 2026 source-2026-06-22-listening-svt-latt knowledge_base/sources/source-2026-06-22-listening-svt-latt.md ---\ntype: source\ntitle: \"SVT Nyheter på lätt svenska — 22 jun 2026\"\nkind: listening\ncefr: A2-B1\ndate_added: 2026-06-22\nwords: []\nphrases: []\nsentences: []\ngrammar: []\n---\n\n# 🎧 SVT Nyheter på lätt svenska — 22 jun 2026\n\n类型: listening (hörvning) · 难度: A2–B1 · Avsnitt 116\n\n🎧 [SVT Play](https://www.svtplay.se/video/jxggQ1B/nyheter-pa-latt-svenska)\n\n## 原文概要 (Source Summary)\n\n三大新闻：美伊瑞士会谈、瑞典荣誉暴力立法、慕尼黑火车事故；欧洲热浪；天气预报。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: (librarian fills)\n- 词组: (librarian fills)\n- 句子: (librarian fills)\n- 语法: (librarian fills)\n",
-      "cefr": "A2-B1",
-      "date_added": "2026-06-22",
-      "kind": "listening",
-      "words": [],
-      "phrases": [],
-      "sentences": [],
-      "grammar": [],
-      "backlinks": [
+      "links": [
         "förbjuda",
         "förtryck",
         "från-och-med",
+        "grammar-passiv-konstruktion",
+        "grammar-relativ-bisats-med-som",
         "hedersvåld",
         "inblandad",
         "jämställdhet",
@@ -33784,6 +34770,214 @@ window.KB_DATA = {
         "utsatthet",
         "vagn",
         "vidta-åtgärder"
+      ],
+      "searchText": "SVT Nyheter på lätt svenska — 22 jun 2026 source-2026-06-22-listening-svt-latt knowledge_base/sources/source-2026-06-22-listening-svt-latt.md ---\ntype: source\ntitle: \"SVT Nyheter på lätt svenska — 22 jun 2026\"\nkind: listening\ncefr: A2-B1\ndate_added: 2026-06-22\nwords:\n  - hedersvåld\n  - olaglig\n  - omhänderta\n  - förtryck\n  - tjafsa\n  - stryptag\n  - vagn\n  - spår\n  - krocka\n  - förbjuda\n  - självreflektering\n  - utsatthet\n  - jämställdhet\n  - inblandad\nphrases:\n  - på-grund-av\n  - från-och-med\n  - ta-stryptag-på\n  - vidta-åtgärder\nsentences:\n  - sent-usa-och-iran-ha-haft-sina-forsta\n  - sent-de-har-kommit-overens-om-en-plan\n  - sent-att-sla-nagon-i-sin-familj-kallas\n  - sent-den-svenska-regeringen-ger-nu-17\n  - sent-jag-och-storasyrran-borjade-tjafsa\n  - sent-det-slutade-med-att-jag-tog-stryptag\n  - sent-66-procent-av-flickorna-blir\n  - sent-barn-och-unga-behover-mota-vuxna\n  - sent-lagen-mot-fortryck-pa-grund-av-heder\n  - sent-det-borjar-med-sjalvreflektering\n  - sent-tva-vagnar-lamnade-sparet-och-foll\n  - sent-det-ar-just-nu-mycket-varmt\n  - sent-dar-ska-over-800-skolor-halla-stangt\ngrammar:\n  - grammar-passiv-konstruktion\n  - grammar-relativ-bisats-med-som\n---\n\n# 🎧 SVT Nyheter på lätt svenska — 22 jun 2026\n\n类型: listening (hörvning) · 难度: A2–B1 · Avsnitt 116\n\n🎧 [SVT Play](https://www.svtplay.se/video/jxggQ1B/nyheter-pa-latt-svenska)\n\n## 原文概要 (Source Summary)\n\n三大新闻：美伊瑞士会谈、瑞典荣誉暴力立法、慕尼黑火车事故；欧洲热浪；天气预报。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: [[hedersvåld]] · [[olaglig]] · [[omhänderta]] · [[förtryck]] · [[tjafsa]] · [[stryptag]] · [[vagn]] · [[spår]] · [[krocka]] · [[förbjuda]] · [[självreflektering]] · [[utsatthet]] · [[jämställdhet]] · [[inblandad]]\n- 词组: [[på-grund-av]] · [[från-och-med]] · [[ta-stryptag-på]] · [[vidta-åtgärder]]\n- 句子: [[sent-usa-och-iran-ha-haft-sina-forsta]] · [[sent-de-har-kommit-overens-om-en-plan]] · [[sent-att-sla-nagon-i-sin-familj-kallas]] · [[sent-den-svenska-regeringen-ger-nu-17]] · [[sent-jag-och-storasyrran-borjade-tjafsa]] · [[sent-det-slutade-med-att-jag-tog-stryptag]] · [[sent-66-procent-av-flickorna-blir]] · [[sent-barn-och-unga-behover-mota-vuxna]] · [[sent-lagen-mot-fortryck-pa-grund-av-heder]] · [[sent-det-borjar-med-sjalvreflektering]] · [[sent-tva-vagnar-lamnade-sparet-och-foll]] · [[sent-det-ar-just-nu-mycket-varmt]] · [[sent-dar-ska-over-800-skolor-halla-stangt]]\n- 语法: [[grammar-passiv-konstruktion]] · [[grammar-relativ-bisats-med-som]]\n",
+      "cefr": "A2-B1",
+      "date_added": "2026-06-22",
+      "kind": "listening",
+      "words": [
+        "hedersvåld",
+        "olaglig",
+        "omhänderta",
+        "förtryck",
+        "tjafsa",
+        "stryptag",
+        "vagn",
+        "spår",
+        "krocka",
+        "förbjuda",
+        "självreflektering",
+        "utsatthet",
+        "jämställdhet",
+        "inblandad"
+      ],
+      "phrases": [
+        "på-grund-av",
+        "från-och-med",
+        "ta-stryptag-på",
+        "vidta-åtgärder"
+      ],
+      "sentences": [
+        "sent-usa-och-iran-ha-haft-sina-forsta",
+        "sent-de-har-kommit-overens-om-en-plan",
+        "sent-att-sla-nagon-i-sin-familj-kallas",
+        "sent-den-svenska-regeringen-ger-nu-17",
+        "sent-jag-och-storasyrran-borjade-tjafsa",
+        "sent-det-slutade-med-att-jag-tog-stryptag",
+        "sent-66-procent-av-flickorna-blir",
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "sent-det-borjar-med-sjalvreflektering",
+        "sent-tva-vagnar-lamnade-sparet-och-foll",
+        "sent-det-ar-just-nu-mycket-varmt",
+        "sent-dar-ska-over-800-skolor-halla-stangt"
+      ],
+      "grammar": [
+        "grammar-passiv-konstruktion",
+        "grammar-relativ-bisats-med-som"
+      ],
+      "backlinks": [
+        "förtryck",
+        "från-och-med",
+        "hedersvåld",
+        "inblandad",
+        "jämställdhet",
+        "krocka",
+        "olaglig",
+        "omhänderta",
+        "sent-66-procent-av-flickorna-blir",
+        "sent-att-sla-nagon-i-sin-familj-kallas",
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "sent-dar-ska-over-800-skolor-halla-stangt",
+        "sent-de-har-kommit-overens-om-en-plan",
+        "sent-den-svenska-regeringen-ger-nu-17",
+        "sent-det-ar-just-nu-mycket-varmt",
+        "sent-det-borjar-med-sjalvreflektering",
+        "sent-det-slutade-med-att-jag-tog-stryptag",
+        "sent-jag-och-storasyrran-borjade-tjafsa",
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "sent-tva-vagnar-lamnade-sparet-och-foll",
+        "sent-usa-och-iran-ha-haft-sina-forsta",
+        "självreflektering",
+        "spår",
+        "stryptag",
+        "ta-stryptag-på",
+        "tjafsa",
+        "utsatthet",
+        "vagn",
+        "vidta-åtgärder"
+      ]
+    },
+    {
+      "slug": "source-2026-06-22-nyheter-8sidor",
+      "type": "source",
+      "title": "8 Sidor lättläst nyheter — 2026-06-22",
+      "path": "knowledge_base/sources/source-2026-06-22-nyheter-8sidor.md",
+      "body": "# 📄 8 Sidor lättläst nyheter — 2026-06-22\n\n类型: news · 难度: A2–B1\n\n## 原文 (Source Text)\n\n5 条 lättläst 新闻，来自 8 Sidor (Sveriges Radio)，抓取日期 2026-06-22。\n\n1. **Starmer slutar** — Keir Starmer avgår som Storbritanniens ledare och partiledare för Labour.\n2. **Svensk brottsling är fast** — El Sueco gripen i Colombia, misstänkt för narkotikasmuggling.\n3. **Skolor stängs i värmen** — Extrem värme i Europa, 845 franska skolor stängda.\n4. **Sverige förlorade i VM** — Sverige förlora 1–5 mot Nederländerna i Houston.\n5. **Ny film om Robin Hood** — Bill Skarsgård i ny Robin Hood-film, berömd ek i Sherwoodskogen har dött.\n\n## Extraherade lärposter (→ linked notes)\n\n- 生词: [[invandrare]] [[brottsling]] [[misstänkt]] [[smuggla]] [[drog]] [[uttorkad]] [[torka]] [[förbjuda]] [[värme]] [[ek]] [[gren]]\n- 词组: [[ta-fast]] [[gå-vidare]] [[på-riktigt]] [[på-grund-av]] [[ta-skydd]]\n- 语法: [[grammar-perfekt-infinitiv]] [[grammar-trots-substantiv]]\n- DUP-skipped: [[ledare]] [[populär]] [[missnöjd]] [[förlust]] [[skådespelare]] [[bland-annat]] [[grammar-bisats-om]]",
+      "excerpt": "📄 8 Sidor lättläst nyheter — 2026 06 22 类型: news · 难度: A2–B1 原文 (Source Text) 5 条 lättläst 新闻，来自 8 Sidor (Sveriges Radio)，抓取日期 2026 06 22。 1. Starmer slutar — Keir Starmer avgår som Storbritanniens ledare och partiledar",
+      "forms": [],
+      "links": [
+        "bland-annat",
+        "brottsling",
+        "drog",
+        "ek",
+        "förbjuda",
+        "förlust",
+        "gå-vidare",
+        "grammar-bisats-om",
+        "grammar-perfekt-infinitiv",
+        "grammar-trots-substantiv",
+        "gren",
+        "invandrare",
+        "ledare",
+        "missnöjd",
+        "misstänkt",
+        "på-grund-av",
+        "på-riktigt",
+        "populär",
+        "skådespelare",
+        "smuggla",
+        "ta-fast",
+        "ta-skydd",
+        "torka",
+        "uttorkad",
+        "värme"
+      ],
+      "searchText": "8 Sidor lättläst nyheter — 2026-06-22 source-2026-06-22-nyheter-8sidor knowledge_base/sources/source-2026-06-22-nyheter-8sidor.md ---\ntype: source\ntitle: \"8 Sidor lättläst nyheter — 2026-06-22\"\nkind: import\nsource_label: \"news — 8 Sidor lättläst 2026-06-22\"\ndate: 2026-06-22\ncefr: A2-B1\nwords: [invandrare, brottsling, misstänkt, smuggla, drog, uttorkad, torka, förbjuda, värme, ek, gren]\nphrases: [ta-fast, gå-vidare, på-riktigt, på-grund-av, ta-skydd]\nsentences: [sent-storbritanniens-ledare-keir-starmer-slutar, sent-han-har-styrt-landet-sedan-ar-2024, sent-han-har-blivit-allt-mindre-popularr, sent-nu-ska-starmers-parti-labour-ordna-ledare, sent-folk-ar-misnojda-med-att-maten-ar-dyr, sent-poliserna-i-colombia-har-tagit-fast, sent-han-ar-misstankt-for-manga-brott, sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat, sent-det-ar-ovanligt-varmt-vader-i-europa, sent-i-delar-av-frankrike-italien-spanien-40-grader, sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt, sent-kroppen-blir-uttorkad-extra-snabbt, sent-varmen-ska-vara-kvar-i-flera-dagar, sent-regeringen-forbjuder-barer-att-salja-alkohol, sent-i-lordags-spelade-sverige-mot-nederlanderna, sent-det-gick-daligt-for-sverige, sent-matchen-slutade-5-1-till-nederlanderna, sent-det-ar-en-av-de-storsta-forlusterna-i-vm, sent-trots-forlusten-kan-sverige-ga-vidare, sent-folk-har-berättat-om-robin-hood-hundra-ar, sent-de-berattade-om-robin-hood-rika-fattiga, sent-ingen-vet-om-robin-hood-funnits-pa-riktigt, sent-den-26-juni-kommer-ny-film-robin-hood, sent-den-svenska-skadespelaren-bill-skarsgard-ar-med]\ngrammar: [grammar-perfekt-infinitiv, grammar-trots-substantiv]\n---\n\n# 📄 8 Sidor lättläst nyheter — 2026-06-22\n\n类型: news · 难度: A2–B1\n\n## 原文 (Source Text)\n\n5 条 lättläst 新闻，来自 8 Sidor (Sveriges Radio)，抓取日期 2026-06-22。\n\n1. **Starmer slutar** — Keir Starmer avgår som Storbritanniens ledare och partiledare för Labour.\n2. **Svensk brottsling är fast** — El Sueco gripen i Colombia, misstänkt för narkotikasmuggling.\n3. **Skolor stängs i värmen** — Extrem värme i Europa, 845 franska skolor stängda.\n4. **Sverige förlorade i VM** — Sverige förlora 1–5 mot Nederländerna i Houston.\n5. **Ny film om Robin Hood** — Bill Skarsgård i ny Robin Hood-film, berömd ek i Sherwoodskogen har dött.\n\n## Extraherade lärposter (→ linked notes)\n\n- 生词: [[invandrare]] [[brottsling]] [[misstänkt]] [[smuggla]] [[drog]] [[uttorkad]] [[torka]] [[förbjuda]] [[värme]] [[ek]] [[gren]]\n- 词组: [[ta-fast]] [[gå-vidare]] [[på-riktigt]] [[på-grund-av]] [[ta-skydd]]\n- 语法: [[grammar-perfekt-infinitiv]] [[grammar-trots-substantiv]]\n- DUP-skipped: [[ledare]] [[populär]] [[missnöjd]] [[förlust]] [[skådespelare]] [[bland-annat]] [[grammar-bisats-om]]\n",
+      "cefr": "A2-B1",
+      "date": "2026-06-22",
+      "source_label": "news — 8 Sidor lättläst 2026-06-22",
+      "kind": "import",
+      "words": [
+        "invandrare",
+        "brottsling",
+        "misstänkt",
+        "smuggla",
+        "drog",
+        "uttorkad",
+        "torka",
+        "förbjuda",
+        "värme",
+        "ek",
+        "gren"
+      ],
+      "phrases": [
+        "ta-fast",
+        "gå-vidare",
+        "på-riktigt",
+        "på-grund-av",
+        "ta-skydd"
+      ],
+      "sentences": [
+        "sent-storbritanniens-ledare-keir-starmer-slutar",
+        "sent-han-har-styrt-landet-sedan-ar-2024",
+        "sent-han-har-blivit-allt-mindre-popularr",
+        "sent-nu-ska-starmers-parti-labour-ordna-ledare",
+        "sent-folk-ar-misnojda-med-att-maten-ar-dyr",
+        "sent-poliserna-i-colombia-har-tagit-fast",
+        "sent-han-ar-misstankt-for-manga-brott",
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat",
+        "sent-det-ar-ovanligt-varmt-vader-i-europa",
+        "sent-i-delar-av-frankrike-italien-spanien-40-grader",
+        "sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt",
+        "sent-kroppen-blir-uttorkad-extra-snabbt",
+        "sent-varmen-ska-vara-kvar-i-flera-dagar",
+        "sent-regeringen-forbjuder-barer-att-salja-alkohol",
+        "sent-i-lordags-spelade-sverige-mot-nederlanderna",
+        "sent-det-gick-daligt-for-sverige",
+        "sent-matchen-slutade-5-1-till-nederlanderna",
+        "sent-det-ar-en-av-de-storsta-forlusterna-i-vm",
+        "sent-trots-forlusten-kan-sverige-ga-vidare",
+        "sent-folk-har-berättat-om-robin-hood-hundra-ar",
+        "sent-de-berattade-om-robin-hood-rika-fattiga",
+        "sent-ingen-vet-om-robin-hood-funnits-pa-riktigt",
+        "sent-den-26-juni-kommer-ny-film-robin-hood",
+        "sent-den-svenska-skadespelaren-bill-skarsgard-ar-med"
+      ],
+      "grammar": [
+        "grammar-perfekt-infinitiv",
+        "grammar-trots-substantiv"
+      ],
+      "backlinks": [
+        "brottsling",
+        "drog",
+        "ek",
+        "förbjuda",
+        "gå-vidare",
+        "gren",
+        "invandrare",
+        "misstänkt",
+        "på-grund-av",
+        "på-riktigt",
+        "sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt",
+        "sent-de-berattade-om-robin-hood-rika-fattiga",
+        "sent-den-26-juni-kommer-ny-film-robin-hood",
+        "sent-den-svenska-skadespelaren-bill-skarsgard-ar-med",
+        "sent-det-ar-en-av-de-storsta-forlusterna-i-vm",
+        "sent-det-ar-ovanligt-varmt-vader-i-europa",
+        "sent-det-gick-daligt-for-sverige",
+        "sent-folk-ar-misnojda-med-att-maten-ar-dyr",
+        "sent-folk-har-berättat-om-robin-hood-hundra-ar",
+        "sent-han-ar-misstankt-for-manga-brott",
+        "sent-han-har-blivit-allt-mindre-popularr",
+        "sent-han-har-styrt-landet-sedan-ar-2024",
+        "sent-i-delar-av-frankrike-italien-spanien-40-grader",
+        "sent-i-lordags-spelade-sverige-mot-nederlanderna",
+        "sent-ingen-vet-om-robin-hood-funnits-pa-riktigt",
+        "sent-kroppen-blir-uttorkad-extra-snabbt",
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat",
+        "sent-matchen-slutade-5-1-till-nederlanderna",
+        "sent-nu-ska-starmers-parti-labour-ordna-ledare",
+        "sent-poliserna-i-colombia-har-tagit-fast",
+        "sent-regeringen-forbjuder-barer-att-salja-alkohol",
+        "sent-storbritanniens-ledare-keir-starmer-slutar",
+        "sent-trots-forlusten-kan-sverige-ga-vidare",
+        "sent-varmen-ska-vara-kvar-i-flera-dagar",
+        "smuggla",
+        "ta-fast",
+        "ta-skydd",
+        "torka",
+        "uttorkad"
       ]
     },
     {
@@ -34441,6 +35635,7 @@ window.KB_DATA = {
         "boll",
         "debutera",
         "fotbollssko",
+        "gå-vidare",
         "känd",
         "klubblag",
         "lag",
@@ -35912,17 +37107,22 @@ window.KB_DATA = {
       "type": "topic",
       "title": "samhälle-och-politik",
       "path": "knowledge_base/topics/topic-samhälle-och-politik.md",
-      "body": "# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n- [[avtal]] — 协议；合同\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[sprängning]] — 爆炸，爆破\n- [[riksdag]] — 国会，议会\n- [[politiker]] — 政治家\n- [[strejka]] — 罢工/罢课（政治行动）\n- [[utsläpp]] — 排放\n- [[minska]] — 减少\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]\n- 参见 [[topic-miljö-och-klimat]]（气候行动、政治倡导）\n- Greta Thunberg 相关词汇见 [[source-2026-06-22-greta-thunberg]]",
+      "body": "# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n- [[avtal]] — 协议；合同\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[sprängning]] — 爆炸，爆破\n- [[riksdag]] — 国会，议会\n- [[politiker]] — 政治家\n- [[strejka]] — 罢工/罢课（政治行动）\n- [[utsläpp]] — 排放\n- [[minska]] — 减少\n- [[invandrare]] — 移民\n- [[brottsling]] — 罪犯\n- [[misstänkt]] — 涉嫌的，嫌疑人\n- [[smuggla]] — 走私\n- [[drog]] — 毒品\n- [[förbjuda]] — 禁止\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]\n- 参见 [[topic-miljö-och-klimat]]（气候行动、政治倡导）\n- Greta Thunberg 相关词汇见 [[source-2026-06-22-greta-thunberg]]",
       "excerpt": "🗂️ samhälle och politik — 社会与政治 类型: semantic field 成员 (Members) rösta — 投票 regering — 政府 medborgare — 公民 kommun — 市/市政 nationaldag — 国庆日 invånare — 居民 provins — 省 självständig — 独立的 missnöjd — 不满的 avtal — 协议；合同 kärnvape",
       "forms": [],
       "links": [
         "avtal",
+        "brottsling",
+        "drog",
+        "förbjuda",
         "invånare",
+        "invandrare",
         "kärnvapen",
         "kommun",
         "medborgare",
         "minska",
         "missnöjd",
+        "misstänkt",
         "nationaldag",
         "politiker",
         "provins",
@@ -35930,6 +37130,7 @@ window.KB_DATA = {
         "riksdag",
         "rösta",
         "självständig",
+        "smuggla",
         "source-2026-06-22-greta-thunberg",
         "sprängning",
         "straff",
@@ -35938,7 +37139,7 @@ window.KB_DATA = {
         "topic-nyheter-vecka22",
         "utsläpp"
       ],
-      "searchText": "samhälle-och-politik topic-samhälle-och-politik knowledge_base/topics/topic-samhälle-och-politik.md ---\ntype: topic\nname: \"samhälle-och-politik\"\nkind: semantic-field\nzh: \"社会与政治\"\nmembers: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska]\ncreated: \"2026-06-04\"\n---\n\n# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n- [[avtal]] — 协议；合同\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[sprängning]] — 爆炸，爆破\n- [[riksdag]] — 国会，议会\n- [[politiker]] — 政治家\n- [[strejka]] — 罢工/罢课（政治行动）\n- [[utsläpp]] — 排放\n- [[minska]] — 减少\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]\n- 参见 [[topic-miljö-och-klimat]]（气候行动、政治倡导）\n- Greta Thunberg 相关词汇见 [[source-2026-06-22-greta-thunberg]]\n",
+      "searchText": "samhälle-och-politik topic-samhälle-och-politik knowledge_base/topics/topic-samhälle-och-politik.md ---\ntype: topic\nname: \"samhälle-och-politik\"\nkind: semantic-field\nzh: \"社会与政治\"\nmembers: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda]\ncreated: \"2026-06-04\"\n---\n\n# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n- [[avtal]] — 协议；合同\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[sprängning]] — 爆炸，爆破\n- [[riksdag]] — 国会，议会\n- [[politiker]] — 政治家\n- [[strejka]] — 罢工/罢课（政治行动）\n- [[utsläpp]] — 排放\n- [[minska]] — 减少\n- [[invandrare]] — 移民\n- [[brottsling]] — 罪犯\n- [[misstänkt]] — 涉嫌的，嫌疑人\n- [[smuggla]] — 走私\n- [[drog]] — 毒品\n- [[förbjuda]] — 禁止\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]\n- 参见 [[topic-miljö-och-klimat]]（气候行动、政治倡导）\n- Greta Thunberg 相关词汇见 [[source-2026-06-22-greta-thunberg]]\n",
       "name": "samhälle-och-politik",
       "zh": "社会与政治",
       "created": "2026-06-04",
@@ -35946,9 +37147,11 @@ window.KB_DATA = {
       "backlinks": [
         "avtal",
         "bekymmersam",
+        "brottsling",
         "civil",
         "döma",
         "domstol",
+        "drog",
         "fängelse",
         "förbjuda",
         "förlora-makten",
@@ -35963,6 +37166,7 @@ window.KB_DATA = {
         "inblandad",
         "index",
         "invånare",
+        "invandrare",
         "jämställdhet",
         "kärnvapen",
         "klimatmål",
@@ -35975,6 +37179,7 @@ window.KB_DATA = {
         "ledare",
         "medborgare",
         "missnöjd",
+        "misstänkt",
         "möte",
         "myndighet",
         "nationaldag",
@@ -36005,6 +37210,7 @@ window.KB_DATA = {
         "självständig",
         "skatt",
         "skillnad",
+        "smuggla",
         "source-2026-06-04-nyheter-vecka-22",
         "source-2026-06-18-listening-svt-latt",
         "source-2026-06-18-nyheter-8sidor",
@@ -36407,14 +37613,16 @@ window.KB_DATA = {
       "type": "topic",
       "title": "Ämne: Väder och årstider — 天气与季节",
       "path": "knowledge_base/topics/topic-vader-och-arstider.md",
-      "body": "# Ämne: Väder och årstider — 天气与季节\n\n词汇主题：瑞典四季、天气相关词汇及表达。\n\n## 成员词汇 (Members)\n\n**季节 (Seasons)**\n- [[årstid]] — 季节\n- [[vinter]] — 冬天\n- [[vår]] — 春天\n- [[sommar]] — 夏天\n- [[höst]] — 秋天\n\n**天气/自然 (Weather/Nature)**\n- [[snö]] — 雪\n- [[åska]] — 雷，雷暴\n- [[blomma]] — 花\n- [[sval]] — 凉爽的\n- [[tydlig]] — 明显的\n\n**动词 (Verbs)**\n- [[täcka]] — 覆盖\n- [[njuta]] — 享受\n- [[färga]] — 染色\n- [[tillbringa]] — 度过（时间）\n- [[intensiv]] — 强烈的；充实的\n\n**其他**\n- [[stövel]] — 靴子\n\n## 相关词组 (Related Phrases)\n\n- [[på-vintern]] — 在冬天（泛指）\n- [[hålla-värmen]] — 保暖\n- [[klä-på-sig]] — 穿上衣服\n- [[ta-semester]] — 休假\n- [[plocka-svamp]] — 采蘑菇\n- [[njuta-av]] — 享受…\n\n## 语法提示\n\n- 季节前置词规律：*på vintern / på våren / på sommaren / på hösten*（用 *på*，泛指）\n- *i vinter / i vår / i sommar / i höst*（用 *i*，特指本季度或下一个/上一个季度）\n\n## 来源 (Sources)\n\n- [[source-2026-06-16-vadret-och-arstiderna]]",
+      "body": "# Ämne: Väder och årstider — 天气与季节\n\n词汇主题：瑞典四季、天气相关词汇及表达。\n\n## 成员词汇 (Members)\n\n**季节 (Seasons)**\n- [[årstid]] — 季节\n- [[vinter]] — 冬天\n- [[vår]] — 春天\n- [[sommar]] — 夏天\n- [[höst]] — 秋天\n\n**天气/自然 (Weather/Nature)**\n- [[snö]] — 雪\n- [[åska]] — 雷，雷暴\n- [[blomma]] — 花\n- [[sval]] — 凉爽的\n- [[tydlig]] — 明显的\n\n**动词 (Verbs)**\n- [[täcka]] — 覆盖\n- [[njuta]] — 享受\n- [[färga]] — 染色\n- [[tillbringa]] — 度过（时间）\n- [[intensiv]] — 强烈的；充实的\n\n**其他**\n- [[stövel]] — 靴子\n- [[värme]] — 热，热量\n- [[torka]] — 干旱\n- [[uttorkad]] — 脱水的，干燥的\n- [[ek]] — 橡树\n- [[gren]] — 树枝\n\n## 相关词组 (Related Phrases)\n\n- [[på-vintern]] — 在冬天（泛指）\n- [[hålla-värmen]] — 保暖\n- [[klä-på-sig]] — 穿上衣服\n- [[ta-semester]] — 休假\n- [[plocka-svamp]] — 采蘑菇\n- [[njuta-av]] — 享受…\n\n## 语法提示\n\n- 季节前置词规律：*på vintern / på våren / på sommaren / på hösten*（用 *på*，泛指）\n- *i vinter / i vår / i sommar / i höst*（用 *i*，特指本季度或下一个/上一个季度）\n\n## 来源 (Sources)\n\n- [[source-2026-06-16-vadret-och-arstiderna]]",
       "excerpt": "Ämne: Väder och årstider — 天气与季节 词汇主题：瑞典四季、天气相关词汇及表达。 成员词汇 (Members) 季节 (Seasons) årstid — 季节 vinter — 冬天 vår — 春天 sommar — 夏天 höst — 秋天 天气/自然 (Weather/Nature) snö — 雪 åska — 雷，雷暴 blomma — 花 sval — 凉爽的 tydlig — 明显的 动词 (V",
       "forms": [],
       "links": [
         "årstid",
         "åska",
         "blomma",
+        "ek",
         "färga",
+        "gren",
         "hålla-värmen",
         "höst",
         "intensiv",
@@ -36431,11 +37639,14 @@ window.KB_DATA = {
         "ta-semester",
         "täcka",
         "tillbringa",
+        "torka",
         "tydlig",
+        "uttorkad",
         "vår",
+        "värme",
         "vinter"
       ],
-      "searchText": "Ämne: Väder och årstider — 天气与季节 topic-vader-och-arstider knowledge_base/topics/topic-vader-och-arstider.md ---\ntype: topic\nslug: topic-vader-och-arstider\nzh: \"天气与季节\"\nen: \"Weather and Seasons\"\nmembers:\n  - årstid\n  - vinter\n  - vår\n  - sommar\n  - höst\n  - snö\n  - stövel\n  - blomma\n  - tydlig\n  - täcka\n  - sval\n  - njuta\n  - färga\n  - intensiv\n  - tillbringa\n  - åska\ncreated: 2026-06-16\n---\n\n# Ämne: Väder och årstider — 天气与季节\n\n词汇主题：瑞典四季、天气相关词汇及表达。\n\n## 成员词汇 (Members)\n\n**季节 (Seasons)**\n- [[årstid]] — 季节\n- [[vinter]] — 冬天\n- [[vår]] — 春天\n- [[sommar]] — 夏天\n- [[höst]] — 秋天\n\n**天气/自然 (Weather/Nature)**\n- [[snö]] — 雪\n- [[åska]] — 雷，雷暴\n- [[blomma]] — 花\n- [[sval]] — 凉爽的\n- [[tydlig]] — 明显的\n\n**动词 (Verbs)**\n- [[täcka]] — 覆盖\n- [[njuta]] — 享受\n- [[färga]] — 染色\n- [[tillbringa]] — 度过（时间）\n- [[intensiv]] — 强烈的；充实的\n\n**其他**\n- [[stövel]] — 靴子\n\n## 相关词组 (Related Phrases)\n\n- [[på-vintern]] — 在冬天（泛指）\n- [[hålla-värmen]] — 保暖\n- [[klä-på-sig]] — 穿上衣服\n- [[ta-semester]] — 休假\n- [[plocka-svamp]] — 采蘑菇\n- [[njuta-av]] — 享受…\n\n## 语法提示\n\n- 季节前置词规律：*på vintern / på våren / på sommaren / på hösten*（用 *på*，泛指）\n- *i vinter / i vår / i sommar / i höst*（用 *i*，特指本季度或下一个/上一个季度）\n\n## 来源 (Sources)\n\n- [[source-2026-06-16-vadret-och-arstiderna]]\n",
+      "searchText": "Ämne: Väder och årstider — 天气与季节 topic-vader-och-arstider knowledge_base/topics/topic-vader-och-arstider.md ---\ntype: topic\nslug: topic-vader-och-arstider\nzh: \"天气与季节\"\nen: \"Weather and Seasons\"\nmembers:\n  - årstid\n  - vinter\n  - vår\n  - sommar\n  - höst\n  - snö\n  - stövel\n  - blomma\n  - tydlig\n  - täcka\n  - sval\n  - njuta\n  - färga\n  - intensiv\n  - tillbringa\n  - åska\n  - värme\n  - torka\n  - uttorkad\n  - ek\n  - gren\ncreated: 2026-06-16\n---\n\n# Ämne: Väder och årstider — 天气与季节\n\n词汇主题：瑞典四季、天气相关词汇及表达。\n\n## 成员词汇 (Members)\n\n**季节 (Seasons)**\n- [[årstid]] — 季节\n- [[vinter]] — 冬天\n- [[vår]] — 春天\n- [[sommar]] — 夏天\n- [[höst]] — 秋天\n\n**天气/自然 (Weather/Nature)**\n- [[snö]] — 雪\n- [[åska]] — 雷，雷暴\n- [[blomma]] — 花\n- [[sval]] — 凉爽的\n- [[tydlig]] — 明显的\n\n**动词 (Verbs)**\n- [[täcka]] — 覆盖\n- [[njuta]] — 享受\n- [[färga]] — 染色\n- [[tillbringa]] — 度过（时间）\n- [[intensiv]] — 强烈的；充实的\n\n**其他**\n- [[stövel]] — 靴子\n- [[värme]] — 热，热量\n- [[torka]] — 干旱\n- [[uttorkad]] — 脱水的，干燥的\n- [[ek]] — 橡树\n- [[gren]] — 树枝\n\n## 相关词组 (Related Phrases)\n\n- [[på-vintern]] — 在冬天（泛指）\n- [[hålla-värmen]] — 保暖\n- [[klä-på-sig]] — 穿上衣服\n- [[ta-semester]] — 休假\n- [[plocka-svamp]] — 采蘑菇\n- [[njuta-av]] — 享受…\n\n## 语法提示\n\n- 季节前置词规律：*på vintern / på våren / på sommaren / på hösten*（用 *på*，泛指）\n- *i vinter / i vår / i sommar / i höst*（用 *i*，特指本季度或下一个/上一个季度）\n\n## 来源 (Sources)\n\n- [[source-2026-06-16-vadret-och-arstiderna]]\n",
       "zh": "天气与季节",
       "en": "Weather and Seasons",
       "created": "2026-06-16",
@@ -36443,8 +37654,10 @@ window.KB_DATA = {
         "årstid",
         "åska",
         "blomma",
+        "ek",
         "färga",
         "grad",
+        "gren",
         "höst",
         "intensiv",
         "klimat",
@@ -36465,10 +37678,13 @@ window.KB_DATA = {
         "source-2026-06-19-nyheter-8sidor",
         "stövel",
         "sval",
+        "ta-skydd",
         "täcka",
         "tillbringa",
         "topic-miljö-och-klimat",
+        "torka",
         "tydlig",
+        "uttorkad",
         "väder",
         "vår",
         "värme",
@@ -40887,6 +42103,53 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "brottsling",
+      "type": "word",
+      "title": "brottsling",
+      "path": "knowledge_base/words/brottsling.md",
+      "body": "# brottsling — substantiv\n\n📖 中文：罪犯 · English: criminal\n发音提示：[BROTTS-ling]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en brottsling | brottslingar |\n| bestämd | brottslingen | brottslingarna |\n\n## 词组搭配 (Collocations)\n\n- `ta fast en brottsling` — 抓住罪犯 → see [[ta-fast]]\n- `farlig brottsling` — 危险罪犯\n- `internationell brottsling` — 国际罪犯\n\n## 例句 (Sentences)\n\n- 🇸🇪 Polisen har tagit fast den kände brottslingen. — 🇨🇳 警方已抓获这名知名罪犯。\n- 🇸🇪 Han är en av de mest eftersökte brottslingarna i Sverige. — 🇨🇳 他是瑞典最被通缉的罪犯之一。\n- 🇸🇪 Brottslingen dömdes till fängelse i många år. — 🇨🇳 这名罪犯被判处多年监禁。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[brott]], [[brottslig]]\n- 相关: [[misstänkt]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *brottsling* = 已确认犯罪的人；*misstänkt* = 被怀疑犯罪但尚未定罪的人。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "brottsling — substantiv 📖 中文：罪犯 · English: criminal 发音提示：[BROTTS ling] 语法变形 (Forms) form singular plural obestämd en brottsling brottslingar bestämd brottslingen brottslingarna 词组搭配 (Collocations) ta fast en brottsling ",
+      "forms": [
+        "brottsling",
+        "brottslingar",
+        "brottslingen",
+        "brottslingarna"
+      ],
+      "links": [
+        "brott",
+        "brottslig",
+        "misstänkt",
+        "source-2026-06-22-nyheter-8sidor",
+        "ta-fast",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "brottsling brottsling knowledge_base/words/brottsling.md ---\ntype: word\nlemma: \"brottsling\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: B1\nzh: \"罪犯\"\nen: \"criminal\"\nsynonyms: []\nantonyms: []\nfamily: [brott, brottslig]\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-poliserna-i-colombia-har-tagit-fast\n  - sent-han-ar-misstankt-for-manga-brott\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# brottsling — substantiv\n\n📖 中文：罪犯 · English: criminal\n发音提示：[BROTTS-ling]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en brottsling | brottslingar |\n| bestämd | brottslingen | brottslingarna |\n\n## 词组搭配 (Collocations)\n\n- `ta fast en brottsling` — 抓住罪犯 → see [[ta-fast]]\n- `farlig brottsling` — 危险罪犯\n- `internationell brottsling` — 国际罪犯\n\n## 例句 (Sentences)\n\n- 🇸🇪 Polisen har tagit fast den kände brottslingen. — 🇨🇳 警方已抓获这名知名罪犯。\n- 🇸🇪 Han är en av de mest eftersökte brottslingarna i Sverige. — 🇨🇳 他是瑞典最被通缉的罪犯之一。\n- 🇸🇪 Brottslingen dömdes till fängelse i många år. — 🇨🇳 这名罪犯被判处多年监禁。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[brott]], [[brottslig]]\n- 相关: [[misstänkt]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *brottsling* = 已确认犯罪的人；*misstänkt* = 被怀疑犯罪但尚未定罪的人。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "lemma": "brottsling",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "罪犯",
+      "en": "criminal",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-poliserna-i-colombia-har-tagit-fast",
+        "sent-han-ar-misstankt-for-manga-brott"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "drog",
+        "misstänkt",
+        "sent-han-ar-misstankt-for-manga-brott",
+        "sent-poliserna-i-colombia-har-tagit-fast",
+        "smuggla",
+        "source-2026-06-22-nyheter-8sidor",
+        "ta-fast",
+        "topic-samhälle-och-politik"
+      ]
+    },
+    {
       "slug": "bruka",
       "type": "word",
       "title": "bruka",
@@ -42294,6 +43557,7 @@ window.KB_DATA = {
         "äta",
         "havredryck",
         "öl",
+        "sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt",
         "sent-får-jag-ta-er-beställning",
         "sent-forst-dricker-jag-en-kopp-kaffe",
         "sent-inga-problem-vi-lagar-den-laktosfri",
@@ -42343,6 +43607,48 @@ window.KB_DATA = {
         "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
         "source-2026-06-15-restaurang-allergi-nota",
         "topic-betalning"
+      ]
+    },
+    {
+      "slug": "drog",
+      "type": "word",
+      "title": "drog",
+      "path": "knowledge_base/words/drog.md",
+      "body": "# drog — substantiv\n\n📖 中文：毒品，药物 · English: drug\n发音提示：[drOOg]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en drog | droger |\n| bestämd | drogen | drogerna |\n\n## 词组搭配 (Collocations)\n\n- `smuggla droger` — 走私毒品 → see [[smuggla]]\n- `ta droger` — 吸毒\n- `hård drog` — 重毒品（海洛因等）\n- `mjuk drog` — 软性毒品（如大麻）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han är misstänkt för att ha smugglat droger. — 🇨🇳 他被怀疑走私毒品。\n- 🇸🇪 Polisen hittade droger i bilen. — 🇨🇳 警方在车里发现了毒品。\n- 🇸🇪 Det är olagligt att sälja droger i Sverige. — 🇨🇳 在瑞典销售毒品是违法的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[drogmissbruk]], [[droghandel]]\n- 相关: [[smuggla]], [[brottsling]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *drog* 在瑞典语中主要指非法毒品；处方药通常说 *medicin* 或 *läkemedel*。\n- 复数 *droger*（不规则：en → -er 变化属 deklination 3/5，需记忆）。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "drog — substantiv 📖 中文：毒品，药物 · English: drug 发音提示：[drOOg] 语法变形 (Forms) form singular plural obestämd en drog droger bestämd drogen drogerna 词组搭配 (Collocations) smuggla droger — 走私毒品 → see smuggla ta droger — 吸毒 hård dro",
+      "forms": [
+        "drog",
+        "droger",
+        "drogen",
+        "drogerna"
+      ],
+      "links": [
+        "brottsling",
+        "droghandel",
+        "drogmissbruk",
+        "smuggla",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "drog drog knowledge_base/words/drog.md ---\ntype: word\nlemma: \"drog\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: B1\nzh: \"毒品，药物\"\nen: \"drug\"\nsynonyms: []\nantonyms: []\nfamily: [drogmissbruk, droghandel]\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# drog — substantiv\n\n📖 中文：毒品，药物 · English: drug\n发音提示：[drOOg]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en drog | droger |\n| bestämd | drogen | drogerna |\n\n## 词组搭配 (Collocations)\n\n- `smuggla droger` — 走私毒品 → see [[smuggla]]\n- `ta droger` — 吸毒\n- `hård drog` — 重毒品（海洛因等）\n- `mjuk drog` — 软性毒品（如大麻）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han är misstänkt för att ha smugglat droger. — 🇨🇳 他被怀疑走私毒品。\n- 🇸🇪 Polisen hittade droger i bilen. — 🇨🇳 警方在车里发现了毒品。\n- 🇸🇪 Det är olagligt att sälja droger i Sverige. — 🇨🇳 在瑞典销售毒品是违法的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[drogmissbruk]], [[droghandel]]\n- 相关: [[smuggla]], [[brottsling]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *drog* 在瑞典语中主要指非法毒品；处方药通常说 *medicin* 或 *läkemedel*。\n- 复数 *droger*（不规则：en → -er 变化属 deklination 3/5，需记忆）。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "lemma": "drog",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "毒品，药物",
+      "en": "drug",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat",
+        "smuggla",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-samhälle-och-politik"
       ]
     },
     {
@@ -42701,6 +44007,49 @@ window.KB_DATA = {
       "backlinks": [
         "sent-var-ar-ni-egentligen-ikvallt",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "ek",
+      "type": "word",
+      "title": "ek",
+      "path": "knowledge_base/words/ek.md",
+      "body": "# ek — substantiv\n\n📖 中文：橡树 · English: oak tree\n发音提示：[eek]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en ek | ekar |\n| bestämd | eken | ekarna |\n\n## 词组搭配 (Collocations)\n\n- `ta skydd under en ek` — 在橡树下躲避 → see [[ta-skydd]]\n- `gammal ek` — 老橡树\n- `Sherwoodskogens berömdaste ek` — 舍伍德森林最著名的橡树\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han tog skydd under en gammal ek. — 🇨🇳 他在一棵老橡树下躲雨。\n- 🇸🇪 Den berömdaste eken i Sherwoodskogen har dött. — 🇨🇳 舍伍德森林最著名的橡树已经死了。\n- 🇸🇪 Ekar kan bli mycket gamla — över 1000 år. — 🇨🇳 橡树可以变得非常老——超过1000年。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[eklöv]], [[ekollon]], [[gren]]\n- 相关: [[gren]], [[träd]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- Plural *ekar* (dekl. 2, -ar).\n- Robinia (robiniaek) och vanlig ek (quercus) är olika träd — i Sverige avses oftast *skogsek* eller *sommarsek*.\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "ek — substantiv 📖 中文：橡树 · English: oak tree 发音提示：[eek] 语法变形 (Forms) form singular plural obestämd en ek ekar bestämd eken ekarna 词组搭配 (Collocations) ta skydd under en ek — 在橡树下躲避 → see ta skydd gammal ek — 老橡树 Sherwoods",
+      "forms": [
+        "ek",
+        "ekar",
+        "eken",
+        "ekarna"
+      ],
+      "links": [
+        "eklöv",
+        "ekollon",
+        "gren",
+        "source-2026-06-22-nyheter-8sidor",
+        "ta-skydd",
+        "topic-vader-och-arstider",
+        "träd"
+      ],
+      "searchText": "ek ek knowledge_base/words/ek.md ---\ntype: word\nlemma: \"ek\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: B1\nzh: \"橡树\"\nen: \"oak tree\"\nsynonyms: []\nantonyms: []\nfamily: [eklöv, ekollon]\ntopics: [topic-vader-och-arstider]\nsentences:\n  - sent-den-svenska-skadespelaren-bill-skarsgard-ar-med\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ek — substantiv\n\n📖 中文：橡树 · English: oak tree\n发音提示：[eek]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en ek | ekar |\n| bestämd | eken | ekarna |\n\n## 词组搭配 (Collocations)\n\n- `ta skydd under en ek` — 在橡树下躲避 → see [[ta-skydd]]\n- `gammal ek` — 老橡树\n- `Sherwoodskogens berömdaste ek` — 舍伍德森林最著名的橡树\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han tog skydd under en gammal ek. — 🇨🇳 他在一棵老橡树下躲雨。\n- 🇸🇪 Den berömdaste eken i Sherwoodskogen har dött. — 🇨🇳 舍伍德森林最著名的橡树已经死了。\n- 🇸🇪 Ekar kan bli mycket gamla — över 1000 år. — 🇨🇳 橡树可以变得非常老——超过1000年。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[eklöv]], [[ekollon]], [[gren]]\n- 相关: [[gren]], [[träd]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- Plural *ekar* (dekl. 2, -ar).\n- Robinia (robiniaek) och vanlig ek (quercus) är olika träd — i Sverige avses oftast *skogsek* eller *sommarsek*.\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "lemma": "ek",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "橡树",
+      "en": "oak tree",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-den-svenska-skadespelaren-bill-skarsgard-ar-med"
+      ],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "gren",
+        "source-2026-06-22-nyheter-8sidor",
+        "ta-skydd",
+        "topic-vader-och-arstider"
       ]
     },
     {
@@ -43466,6 +44815,7 @@ window.KB_DATA = {
       "backlinks": [
         "försiktig",
         "säker",
+        "sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt",
         "sent-det-gör-värmeböljorna-både-vanligare",
         "source-2026-06-08-djur",
         "topic-djur"
@@ -43675,7 +45025,8 @@ window.KB_DATA = {
         "topic-karaktarsord"
       ],
       "backlinks": [
-        "rik"
+        "rik",
+        "sent-de-berattade-om-robin-hood-rika-fattiga"
       ]
     },
     {
@@ -43829,6 +45180,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "animerad",
+        "sent-den-26-juni-kommer-ny-film-robin-hood",
         "sent-den-första-filmen-toy-story",
         "sent-figurerna-från-filmen-toy-story",
         "sent-filmen-är-gjord-i-dator",
@@ -44701,36 +46053,42 @@ window.KB_DATA = {
       "type": "word",
       "title": "förbjuda",
       "path": "knowledge_base/words/förbjuda.md",
-      "body": "# förbjuda — verb (oregelbundet, grupp 4)\n\n📖 中文：禁止 · English: to forbid, to ban\n发音提示：feur-BYOO-da\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | förbjuda |\n| presens | förbjuder |\n| preteritum | förbjöd |\n| supinum | förbjudit |\n| perfekt particip | förbjuden / förbjudet / förbjudna |\n| imperativ | förbjud! |\n\n## 词组搭配 (Collocations)\n\n- `det är förbjudet att` — 禁止……（正式用法）\n- `förbjuda rökning` — 禁止吸烟\n- `lagen förbjuder` — 法律禁止\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det är förbjudet att röka på restauranger i Sverige. — 🇨🇳 在瑞典，餐厅内禁止吸烟。\n- 🇸🇪 Lagen förbjuder hedersvåld i alla former. — 🇨🇳 法律禁止一切形式的荣誉暴力。\n- 🇸🇪 Regeringen har förbjudit försäljning av energidrycker till unga under 15 år. — 🇨🇳 政府已禁止向15岁以下青少年销售能量饮料。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: förbud（禁令），förbjuden（被禁止的），[[olaglig]]\n- 反义词: tillåta（允许）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 形容词形式 **förbjuden** 常用：**det är förbjudet**（这是被禁止的）。\n- 注意不规则变化：**förbjöd**（preteritum），**förbjudit**（supinum）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
-      "excerpt": "förbjuda — verb (oregelbundet, grupp 4) 📖 中文：禁止 · English: to forbid, to ban 发音提示：feur BYOO da 语法变形 (Forms) form Swedish infinitiv förbjuda presens förbjuder preteritum förbjöd supinum förbjudit perfekt particip förbjud",
+      "body": "# förbjuda — verb\n\n📖 中文：禁止 · English: to prohibit, to ban\n发音提示：[fer-BYOO-da]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | förbjuda |\n| presens | förbjuder |\n| preteritum | förbjöd |\n| supinum | förbjudit |\n| imperativ | förbjud! |\n\nOregelbundet (stark verb, grupp 4).\n\n## 词组搭配 (Collocations)\n\n- `förbjuda att + infinitiv` — 禁止做某事\n- `det är förbjudet att` — 禁止…（被动/形容词用法）\n- `förbjuda alkohol` — 禁止酒精\n\n## 例句 (Sentences)\n\n- 🇸🇪 Regeringen förbjuder barer att sälja alkohol i värmen. — 🇨🇳 政府禁止酒吧在高温期间销售酒精。\n- 🇸🇪 Det är förbjudet att röka inne på restauranger. — 🇨🇳 餐厅内禁止吸烟。\n- 🇸🇪 Länder kan förbjuda vissa droger. — 🇨🇳 国家可以禁止某些毒品。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förbud]], [[förbjuden]]\n- 反义词: [[tillåta]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 强动词变化要记住：*förbjöd*（过去式）和 *förbjudit*（supinum）都不规则。\n- 被动形容词 *förbjuden/förbjudet/förbjudna*：*Det är förbjudet!*（这是禁止的！）\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "förbjuda — verb 📖 中文：禁止 · English: to prohibit, to ban 发音提示：[fer BYOO da] 语法变形 (Forms) form Swedish infinitiv förbjuda presens förbjuder preteritum förbjöd supinum förbjudit imperativ förbjud! Oregelbundet (stark verb, ",
       "forms": [
         "förbjuda",
         "förbjuder",
         "förbjöd",
         "förbjudit",
-        "förbjuden",
-        "förbjudet",
-        "förbjudna",
         "förbjud!"
       ],
       "links": [
-        "olaglig",
-        "source-2026-06-22-listening-svt-latt",
+        "förbjuden",
+        "förbud",
+        "source-2026-06-22-nyheter-8sidor",
+        "tillåta",
         "topic-samhälle-och-politik"
       ],
-      "searchText": "förbjuda förbjuda knowledge_base/words/förbjuda.md ---\ntype: word\nlemma: \"förbjuda\"\nordklass: verb\nverbgrupp: oregelbundet\ngenus: \"\"\ncefr: A2\nzh: 禁止\nen: to forbid, to ban\nsynonyms: []\nantonyms: [\"tillåta\"]\nfamily: [\"förbud\", \"förbjuden\", \"olaglig\"]\ntopics: [\"topic-samhälle-och-politik\"]\nsentences: []\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förbjuda — verb (oregelbundet, grupp 4)\n\n📖 中文：禁止 · English: to forbid, to ban\n发音提示：feur-BYOO-da\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | förbjuda |\n| presens | förbjuder |\n| preteritum | förbjöd |\n| supinum | förbjudit |\n| perfekt particip | förbjuden / förbjudet / förbjudna |\n| imperativ | förbjud! |\n\n## 词组搭配 (Collocations)\n\n- `det är förbjudet att` — 禁止……（正式用法）\n- `förbjuda rökning` — 禁止吸烟\n- `lagen förbjuder` — 法律禁止\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det är förbjudet att röka på restauranger i Sverige. — 🇨🇳 在瑞典，餐厅内禁止吸烟。\n- 🇸🇪 Lagen förbjuder hedersvåld i alla former. — 🇨🇳 法律禁止一切形式的荣誉暴力。\n- 🇸🇪 Regeringen har förbjudit försäljning av energidrycker till unga under 15 år. — 🇨🇳 政府已禁止向15岁以下青少年销售能量饮料。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: förbud（禁令），förbjuden（被禁止的），[[olaglig]]\n- 反义词: tillåta（允许）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 形容词形式 **förbjuden** 常用：**det är förbjudet**（这是被禁止的）。\n- 注意不规则变化：**förbjöd**（preteritum），**förbjudit**（supinum）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "searchText": "förbjuda förbjuda knowledge_base/words/förbjuda.md ---\ntype: word\nlemma: \"förbjuda\"\nordklass: verb\nverbgrupp: \"oregelbundet\"\ngenus: \"\"\ncefr: B1\nzh: \"禁止\"\nen: \"to prohibit, to ban\"\nsynonyms: []\nantonyms: []\nfamily: [förbud, förbjuden]\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-regeringen-forbjuder-barer-att-salja-alkohol\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förbjuda — verb\n\n📖 中文：禁止 · English: to prohibit, to ban\n发音提示：[fer-BYOO-da]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | förbjuda |\n| presens | förbjuder |\n| preteritum | förbjöd |\n| supinum | förbjudit |\n| imperativ | förbjud! |\n\nOregelbundet (stark verb, grupp 4).\n\n## 词组搭配 (Collocations)\n\n- `förbjuda att + infinitiv` — 禁止做某事\n- `det är förbjudet att` — 禁止…（被动/形容词用法）\n- `förbjuda alkohol` — 禁止酒精\n\n## 例句 (Sentences)\n\n- 🇸🇪 Regeringen förbjuder barer att sälja alkohol i värmen. — 🇨🇳 政府禁止酒吧在高温期间销售酒精。\n- 🇸🇪 Det är förbjudet att röka inne på restauranger. — 🇨🇳 餐厅内禁止吸烟。\n- 🇸🇪 Länder kan förbjuda vissa droger. — 🇨🇳 国家可以禁止某些毒品。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förbud]], [[förbjuden]]\n- 反义词: [[tillåta]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 强动词变化要记住：*förbjöd*（过去式）和 *förbjudit*（supinum）都不规则。\n- 被动形容词 *förbjuden/förbjudet/förbjudna*：*Det är förbjudet!*（这是禁止的！）\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
       "lemma": "förbjuda",
       "ordklass": "verb",
-      "cefr": "A2",
+      "cefr": "B1",
       "zh": "禁止",
-      "en": "to forbid, to ban",
+      "en": "to prohibit, to ban",
       "created": "2026-06-22",
       "known": false,
-      "sentences": [],
+      "sentences": [
+        "sent-regeringen-forbjuder-barer-att-salja-alkohol"
+      ],
       "topics": [
         "topic-samhälle-och-politik"
       ],
-      "backlinks": []
+      "backlinks": [
+        "sent-regeringen-forbjuder-barer-att-salja-alkohol",
+        "source-2026-06-22-listening-svt-latt",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-samhälle-och-politik"
+      ]
     },
     {
       "slug": "föredra",
@@ -44985,8 +46343,12 @@ window.KB_DATA = {
         "topic-vardagsrutin"
       ],
       "backlinks": [
+        "sent-det-ar-en-av-de-storsta-forlusterna-i-vm",
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
+        "sent-matchen-slutade-5-1-till-nederlanderna",
+        "sent-trots-forlusten-kan-sverige-ga-vidare",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "source-2026-06-22-nyheter-8sidor",
         "topic-vardagsrutin"
       ]
     },
@@ -45248,6 +46610,7 @@ window.KB_DATA = {
         "topic-tid-och-tidsuttryck"
       ],
       "backlinks": [
+        "sent-trots-forlusten-kan-sverige-ga-vidare",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-tid-och-tidsuttryck"
       ]
@@ -45285,7 +46648,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "hedersvåld",
-        "sent-lagen-mot-fortryck-pa-grund-av-heder"
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -46873,6 +48237,7 @@ window.KB_DATA = {
         "topic-vader-och-arstider"
       ],
       "backlinks": [
+        "sent-i-delar-av-frankrike-italien-spanien-40-grader",
         "sent-i-södra-sverige-blir-det",
         "source-2026-06-19-nyheter-8sidor",
         "väder"
@@ -47143,6 +48508,43 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-02-astrid-lindgren",
         "topic-familj-och-barn"
+      ]
+    },
+    {
+      "slug": "gren",
+      "type": "word",
+      "title": "gren",
+      "path": "knowledge_base/words/gren.md",
+      "body": "# gren — substantiv\n\n📖 中文：树枝，枝杈 · English: branch\n发音提示：[grehn]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en gren | grenar |\n| bestämd | grenen | grenarna |\n\n## 词组搭配 (Collocations)\n\n- `sittandes på en gren` — 坐在树枝上\n- `bryta av en gren` — 折断一根树枝\n- `fågelns kvist` — （小树枝用 kvist）\n\n## 例句 (Sentences)\n\n- 🇸🇪 En fågel sitter på grenen utanför fönstret. — 🇨🇳 一只鸟坐在窗外的树枝上。\n- 🇸🇪 Stormen bröt av många grenar på ekarna. — 🇨🇳 风暴折断了橡树上的许多树枝。（见 [[ek]]）\n- 🇸🇪 Barnen klättrade upp i grenarna på det stora trädet. — 🇨🇳 孩子们爬上了那棵大树的树枝上。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[träd]], [[ek]]\n- 相关: [[ek]], [[träd]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- *gren* = 较粗树枝；*kvist* = 细枝、小树枝。\n- 比喻用法：*en gren av vetenskap* = 一个学科分支（类似英语 branch of science）。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "gren — substantiv 📖 中文：树枝，枝杈 · English: branch 发音提示：[grehn] 语法变形 (Forms) form singular plural obestämd en gren grenar bestämd grenen grenarna 词组搭配 (Collocations) sittandes på en gren — 坐在树枝上 bryta av en gren — 折断一根树枝 få",
+      "forms": [
+        "gren",
+        "grenar",
+        "grenen",
+        "grenarna"
+      ],
+      "links": [
+        "ek",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-vader-och-arstider",
+        "träd"
+      ],
+      "searchText": "gren gren knowledge_base/words/gren.md ---\ntype: word\nlemma: \"gren\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: B1\nzh: \"树枝，枝杈\"\nen: \"branch\"\nsynonyms: []\nantonyms: []\nfamily: [trädgren, grenar]\ntopics: [topic-vader-och-arstider]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# gren — substantiv\n\n📖 中文：树枝，枝杈 · English: branch\n发音提示：[grehn]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en gren | grenar |\n| bestämd | grenen | grenarna |\n\n## 词组搭配 (Collocations)\n\n- `sittandes på en gren` — 坐在树枝上\n- `bryta av en gren` — 折断一根树枝\n- `fågelns kvist` — （小树枝用 kvist）\n\n## 例句 (Sentences)\n\n- 🇸🇪 En fågel sitter på grenen utanför fönstret. — 🇨🇳 一只鸟坐在窗外的树枝上。\n- 🇸🇪 Stormen bröt av många grenar på ekarna. — 🇨🇳 风暴折断了橡树上的许多树枝。（见 [[ek]]）\n- 🇸🇪 Barnen klättrade upp i grenarna på det stora trädet. — 🇨🇳 孩子们爬上了那棵大树的树枝上。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[träd]], [[ek]]\n- 相关: [[ek]], [[träd]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- *gren* = 较粗树枝；*kvist* = 细枝、小树枝。\n- 比喻用法：*en gren av vetenskap* = 一个学科分支（类似英语 branch of science）。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "lemma": "gren",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "树枝，枝杈",
+      "en": "branch",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "ek",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-vader-och-arstider"
       ]
     },
     {
@@ -48287,7 +49689,8 @@ window.KB_DATA = {
       "backlinks": [
         "förtryck",
         "sent-att-sla-nagon-i-sin-familj-kallas",
-        "sent-den-svenska-regeringen-ger-nu-17"
+        "sent-den-svenska-regeringen-ger-nu-17",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -49435,7 +50838,9 @@ window.KB_DATA = {
       "topics": [
         "topic-samhälle-och-politik"
       ],
-      "backlinks": []
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
     },
     {
       "slug": "ingen",
@@ -49782,10 +51187,49 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "index",
+        "invandrare",
         "medborgare",
         "sent-den-fragan-ska-invanarna-i-alberta",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22",
+        "topic-samhälle-och-politik"
+      ]
+    },
+    {
+      "slug": "invandrare",
+      "type": "word",
+      "title": "invandrare",
+      "path": "knowledge_base/words/invandrare.md",
+      "body": "# invandrare — substantiv\n\n📖 中文：移民 · English: immigrant\n发音提示：[in-VAN-dra-re]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en invandrare | invandrare |\n| bestämd | invandraren | invandrarna |\n\n> 注意：singular 和 plural obestämd 形式相同 (sg=pl)。\n\n## 词组搭配 (Collocations)\n\n- `ta emot invandrare` — 接收移民\n- `invandrare från Sydamerika` — 来自南美的移民\n- `ensamkommande invandrare` — 无人陪伴的移民\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sverige tar emot många invandrare varje år. — 🇨🇳 瑞典每年接收很多移民。\n- 🇸🇪 Mannen är invandrare från Colombia. — 🇨🇳 这名男子是来自哥伦比亚的移民。\n- 🇸🇪 Många invandrare lär sig svenska på SFI. — 🇨🇳 很多移民在SFI学习瑞典语。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[invandring]], [[invandra]]\n- 同义词: [[invånare]] (居民，更广义)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *invandrare* 指从国外移居瑞典的人；*invånare* 是\"居民\"（不含移民背景含义）。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "invandrare — substantiv 📖 中文：移民 · English: immigrant 发音提示：[in VAN dra re] 语法变形 (Forms) form singular plural obestämd en invandrare invandrare bestämd invandraren invandrarna 注意：singular 和 plural obestämd 形式相同 (sg=pl)。 词",
+      "forms": [
+        "invandrare",
+        "invandraren",
+        "invandrarna"
+      ],
+      "links": [
+        "invånare",
+        "invandra",
+        "invandring",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "invandrare invandrare knowledge_base/words/invandrare.md ---\ntype: word\nlemma: \"invandrare\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: A2\nzh: \"移民\"\nen: \"immigrant\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-poliserna-i-colombia-har-tagit-fast\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# invandrare — substantiv\n\n📖 中文：移民 · English: immigrant\n发音提示：[in-VAN-dra-re]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en invandrare | invandrare |\n| bestämd | invandraren | invandrarna |\n\n> 注意：singular 和 plural obestämd 形式相同 (sg=pl)。\n\n## 词组搭配 (Collocations)\n\n- `ta emot invandrare` — 接收移民\n- `invandrare från Sydamerika` — 来自南美的移民\n- `ensamkommande invandrare` — 无人陪伴的移民\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sverige tar emot många invandrare varje år. — 🇨🇳 瑞典每年接收很多移民。\n- 🇸🇪 Mannen är invandrare från Colombia. — 🇨🇳 这名男子是来自哥伦比亚的移民。\n- 🇸🇪 Många invandrare lär sig svenska på SFI. — 🇨🇳 很多移民在SFI学习瑞典语。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[invandring]], [[invandra]]\n- 同义词: [[invånare]] (居民，更广义)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *invandrare* 指从国外移居瑞典的人；*invånare* 是\"居民\"（不含移民背景含义）。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "lemma": "invandrare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "移民",
+      "en": "immigrant",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-poliserna-i-colombia-har-tagit-fast"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "source-2026-06-22-nyheter-8sidor",
         "topic-samhälle-och-politik"
       ]
     },
@@ -49816,7 +51260,9 @@ window.KB_DATA = {
       "topics": [
         "topic-samhälle-och-politik"
       ],
-      "backlinks": []
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
     },
     {
       "slug": "jobb",
@@ -52547,7 +53993,9 @@ window.KB_DATA = {
       "topics": [
         "topic-trafik"
       ],
-      "backlinks": []
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
     },
     {
       "slug": "krokodil",
@@ -53584,6 +55032,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "landslag",
+        "sent-han-har-styrt-landet-sedan-ar-2024",
         "source-2026-06-19-adjsubst-blandat"
       ]
     },
@@ -54196,10 +55645,13 @@ window.KB_DATA = {
       "backlinks": [
         "sent-idag-dömdes-en-av-foxtrots-högsta",
         "sent-ledare-fran-olika-lander-har-samlats",
+        "sent-nu-ska-starmers-parti-labour-ordna-ledare",
         "sent-nyligen-hade-ländernas-ledare",
+        "sent-storbritanniens-ledare-keir-starmer-slutar",
         "sent-till-evian-i-frankrike-nu",
         "sent-ukrainas-ledare-volodymyr-zelenskyj",
-        "source-2026-06-18-nyheter-8sidor"
+        "source-2026-06-18-nyheter-8sidor",
+        "source-2026-06-22-nyheter-8sidor"
       ]
     },
     {
@@ -55770,6 +57222,7 @@ window.KB_DATA = {
         "topic-fotboll"
       ],
       "backlinks": [
+        "sent-matchen-slutade-5-1-till-nederlanderna",
         "source-2026-06-19-nyheter-8sidor"
       ]
     },
@@ -56433,8 +57886,53 @@ window.KB_DATA = {
       "backlinks": [
         "index",
         "nöjd",
+        "sent-folk-ar-misnojda-med-att-maten-ar-dyr",
         "source-2026-06-04-nyheter-vecka-22",
+        "source-2026-06-22-nyheter-8sidor",
         "topic-nyheter-vecka22",
+        "topic-samhälle-och-politik"
+      ]
+    },
+    {
+      "slug": "misstänkt",
+      "type": "word",
+      "title": "misstänkt",
+      "path": "knowledge_base/words/misstänkt.md",
+      "body": "# misstänkt — adjektiv\n\n📖 中文：被怀疑的，涉嫌的 · English: suspected\n发音提示：[mis-STENKT]\n\n## 语法变形 (Forms)\n\n| form | utrum | neutrum | plural/bestämd |\n|------|-------|---------|----------------|\n| positiv | misstänkt | misstänkt | misstänkta |\n\n## 词组搭配 (Collocations)\n\n- `misstänkt för brott` — 涉嫌犯罪\n- `misstänkt för att ha + supinum` — 涉嫌曾经… → see [[grammar-perfekt-infinitiv]]\n- `den misstänkte` — 嫌疑人（名词用法）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han är misstänkt för smuggling. — 🇨🇳 他涉嫌走私。\n- 🇸🇪 Den misstänkte nekade till alla brott. — 🇨🇳 嫌疑人否认所有罪行。\n- 🇸🇪 Mannen är misstänkt för att ha smugglat droger från Sydamerika. — 🇨🇳 该男子被怀疑从南美走私毒品。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[misstänka]], [[misstanke]]\n- 相关: [[brottsling]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常与介词 *för* 搭配：*misstänkt för stöld*（涉嫌盗窃）。\n- 接完成式不定式：*misstänkt för att ha smugglat* — 见 [[grammar-perfekt-infinitiv]]。\n- *den misstänkte* 作名词用 = \"嫌疑人\"。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "misstänkt — adjektiv 📖 中文：被怀疑的，涉嫌的 · English: suspected 发音提示：[mis STENKT] 语法变形 (Forms) form utrum neutrum plural/bestämd positiv misstänkt misstänkt misstänkta 词组搭配 (Collocations) misstänkt för brott — 涉嫌犯罪 misstänkt fö",
+      "forms": [
+        "misstänkt",
+        "misstänkta"
+      ],
+      "links": [
+        "brottsling",
+        "grammar-perfekt-infinitiv",
+        "misstänka",
+        "misstanke",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "misstänkt misstänkt knowledge_base/words/misstänkt.md ---\ntype: word\nlemma: \"misstänkt\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: B1\nzh: \"被怀疑的，涉嫌的\"\nen: \"suspected\"\nsynonyms: []\nantonyms: []\nfamily: [misstänka, misstanke]\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-han-ar-misstankt-for-manga-brott\n  - sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# misstänkt — adjektiv\n\n📖 中文：被怀疑的，涉嫌的 · English: suspected\n发音提示：[mis-STENKT]\n\n## 语法变形 (Forms)\n\n| form | utrum | neutrum | plural/bestämd |\n|------|-------|---------|----------------|\n| positiv | misstänkt | misstänkt | misstänkta |\n\n## 词组搭配 (Collocations)\n\n- `misstänkt för brott` — 涉嫌犯罪\n- `misstänkt för att ha + supinum` — 涉嫌曾经… → see [[grammar-perfekt-infinitiv]]\n- `den misstänkte` — 嫌疑人（名词用法）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han är misstänkt för smuggling. — 🇨🇳 他涉嫌走私。\n- 🇸🇪 Den misstänkte nekade till alla brott. — 🇨🇳 嫌疑人否认所有罪行。\n- 🇸🇪 Mannen är misstänkt för att ha smugglat droger från Sydamerika. — 🇨🇳 该男子被怀疑从南美走私毒品。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[misstänka]], [[misstanke]]\n- 相关: [[brottsling]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常与介词 *för* 搭配：*misstänkt för stöld*（涉嫌盗窃）。\n- 接完成式不定式：*misstänkt för att ha smugglat* — 见 [[grammar-perfekt-infinitiv]]。\n- *den misstänkte* 作名词用 = \"嫌疑人\"。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "lemma": "misstänkt",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "被怀疑的，涉嫌的",
+      "en": "suspected",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-han-ar-misstankt-for-manga-brott",
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "brottsling",
+        "sent-han-ar-misstankt-for-manga-brott",
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat",
+        "smuggla",
+        "source-2026-06-22-nyheter-8sidor",
         "topic-samhälle-och-politik"
       ]
     },
@@ -58437,7 +59935,7 @@ window.KB_DATA = {
         "topic-samhälle-och-politik"
       ],
       "backlinks": [
-        "förbjuda"
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -58550,7 +60048,8 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
-        "sent-66-procent-av-flickorna-blir"
+        "sent-66-procent-av-flickorna-blir",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -59086,6 +60585,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-det-är-mycket-ovanligt-att-skjuta",
+        "sent-det-ar-ovanligt-varmt-vader-i-europa",
         "source-2026-06-02-astrid-lindgren",
         "topic-karaktarsord",
         "vanlig"
@@ -60246,7 +61746,9 @@ window.KB_DATA = {
       "backlinks": [
         "anmäla-förlusten",
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
+        "sent-poliserna-i-colombia-har-tagit-fast",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "ta-fast",
         "topic-vardagsrutin"
       ]
     },
@@ -60328,7 +61830,9 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "sent-han-har-blivit-allt-mindre-popularr",
         "source-2026-06-15-stad-trafik",
+        "source-2026-06-22-nyheter-8sidor",
         "stad",
         "topic-stadsmiljo"
       ]
@@ -61188,6 +62692,7 @@ window.KB_DATA = {
         "sent-att-regeringen-forlorar-makten-efter-valet",
         "sent-den-svenska-regeringen-ger-nu-17",
         "sent-politik-nu-en-stor-del-av-valjarna",
+        "sent-regeringen-forbjuder-barer-att-salja-alkohol",
         "sent-regeringen-vill-halvera-priset",
         "source-2026-06-04-nyheter-vecka-22",
         "source-2026-06-17-listening-svt-latt",
@@ -61477,6 +62982,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "fattig",
+        "sent-de-berattade-om-robin-hood-rika-fattiga",
         "sent-gruppen-g7-är-sju-av-världens",
         "source-2026-06-18-nyheter-8sidor",
         "topic-personer"
@@ -61540,6 +63046,7 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "på-riktigt",
         "sent-fika-men-nu-tar-vi-en-fika",
         "sent-fika-ursäkta-vad-sa-du-hörde-inte"
       ]
@@ -63151,7 +64658,8 @@ window.KB_DATA = {
         "topic-karaktarsord"
       ],
       "backlinks": [
-        "sent-det-borjar-med-sjalvreflektering"
+        "sent-det-borjar-med-sjalvreflektering",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -63382,8 +64890,10 @@ window.KB_DATA = {
         "topic-yrken"
       ],
       "backlinks": [
+        "sent-den-svenska-skadespelaren-bill-skarsgard-ar-med",
         "sent-hennes-pappa-heter-svante-och-är-skådespelare",
         "source-2026-06-22-greta-thunberg",
+        "source-2026-06-22-nyheter-8sidor",
         "topic-personer"
       ]
     },
@@ -64596,6 +66106,51 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "smuggla",
+      "type": "word",
+      "title": "smuggla",
+      "path": "knowledge_base/words/smuggla.md",
+      "body": "# smuggla — verb\n\n📖 中文：走私，偷运 · English: to smuggle\n发音提示：[SMUG-la]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | smuggla |\n| presens | smugglar |\n| preteritum | smugglade |\n| supinum | smugglat |\n| imperativ | smuggla! |\n\nVerbgrupp 1 (-ar verb), regelbundet.\n\n## 词组搭配 (Collocations)\n\n- `smuggla droger` — 走私毒品 → see [[drog]]\n- `smuggla vapen` — 走私武器\n- `smuggla in / ut` — 偷运进来/出去\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han smugglade droger från Colombia till Europa. — 🇨🇳 他从哥伦比亚向欧洲走私毒品。\n- 🇸🇪 Tullen stoppade mannen som försökte smuggla alkohol. — 🇨🇳 海关拦截了试图走私酒精的男子。\n- 🇸🇪 Han är misstänkt för att ha smugglat droger. — 🇨🇳 他被怀疑走私过毒品。（见 [[grammar-perfekt-infinitiv]]）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[smuggling]], [[smugglare]]\n- 相关: [[misstänkt]], [[brottsling]], [[drog]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- Verbgrupp 1: regelbundet (-ar, -ade, -at).\n- 常用搭配：*smuggla + substans/varor*（走私某种物品）。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "smuggla — verb 📖 中文：走私，偷运 · English: to smuggle 发音提示：[SMUG la] 语法变形 (Forms) form Swedish infinitiv smuggla presens smugglar preteritum smugglade supinum smugglat imperativ smuggla! Verbgrupp 1 ( ar verb), regelbundet. 词",
+      "forms": [
+        "smuggla",
+        "smugglar",
+        "smugglade",
+        "smugglat",
+        "smuggla!"
+      ],
+      "links": [
+        "brottsling",
+        "drog",
+        "grammar-perfekt-infinitiv",
+        "misstänkt",
+        "smugglare",
+        "smuggling",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "smuggla smuggla knowledge_base/words/smuggla.md ---\ntype: word\nlemma: \"smuggla\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: B1\nzh: \"走私，偷运\"\nen: \"to smuggle\"\nsynonyms: []\nantonyms: []\nfamily: [smuggling, smugglare]\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# smuggla — verb\n\n📖 中文：走私，偷运 · English: to smuggle\n发音提示：[SMUG-la]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | smuggla |\n| presens | smugglar |\n| preteritum | smugglade |\n| supinum | smugglat |\n| imperativ | smuggla! |\n\nVerbgrupp 1 (-ar verb), regelbundet.\n\n## 词组搭配 (Collocations)\n\n- `smuggla droger` — 走私毒品 → see [[drog]]\n- `smuggla vapen` — 走私武器\n- `smuggla in / ut` — 偷运进来/出去\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han smugglade droger från Colombia till Europa. — 🇨🇳 他从哥伦比亚向欧洲走私毒品。\n- 🇸🇪 Tullen stoppade mannen som försökte smuggla alkohol. — 🇨🇳 海关拦截了试图走私酒精的男子。\n- 🇸🇪 Han är misstänkt för att ha smugglat droger. — 🇨🇳 他被怀疑走私过毒品。（见 [[grammar-perfekt-infinitiv]]）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[smuggling]], [[smugglare]]\n- 相关: [[misstänkt]], [[brottsling]], [[drog]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- Verbgrupp 1: regelbundet (-ar, -ade, -at).\n- 常用搭配：*smuggla + substans/varor*（走私某种物品）。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "lemma": "smuggla",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "走私，偷运",
+      "en": "to smuggle",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "drog",
+        "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-samhälle-och-politik"
+      ]
+    },
+    {
       "slug": "snabb",
       "type": "word",
       "title": "snabb",
@@ -65366,6 +66921,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-tva-vagnar-lamnade-sparet-och-foll",
+        "source-2026-06-22-listening-svt-latt",
         "spårvagn",
         "vagn"
       ]
@@ -66543,6 +68099,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-det-slutade-med-att-jag-tog-stryptag",
+        "source-2026-06-22-listening-svt-latt",
         "ta-stryptag-på"
       ]
     },
@@ -67965,7 +69522,8 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
-        "sent-jag-och-storasyrran-borjade-tjafsa"
+        "sent-jag-och-storasyrran-borjade-tjafsa",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -68221,6 +69779,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "torka",
+      "type": "word",
+      "title": "torka",
+      "path": "knowledge_base/words/torka.md",
+      "body": "# torka — substantiv\n\n📖 中文：干旱 · English: drought\n发音提示：[TOR-ka]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en torka | torkor |\n| bestämd | torkan | torkorna |\n\n> OBS: *torka* kan också vara ett verb (att torka = att torka/wipen). Här handlar det om substantivet.\n\n## 词组搭配 (Collocations)\n\n- `svår torka` — 严重干旱\n- `lång torka` — 长期干旱\n- `torka drabbar landet` — 干旱袭击这个国家\n\n## 例句 (Sentences)\n\n- 🇸🇪 Europa drabbades av svår torka i sommar. — 🇨🇳 今夏欧洲遭受严重干旱。\n- 🇸🇪 Torkan gör att skörden blir dålig. — 🇨🇳 干旱导致收成不好。\n- 🇸🇪 Många länder i Afrika lider av torka. — 🇨🇳 非洲许多国家饱受干旱之苦。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[uttorkad]], [[torr]], [[torkad]]\n- 相关: [[värme]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- *torka* (substantiv) = 干旱（自然现象）。\n- *torka* (verb, grupp 1) = 擦干，擦拭（*torkar–torkade–torkat*）—— 同形异义，需注意语境。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "torka — substantiv 📖 中文：干旱 · English: drought 发音提示：[TOR ka] 语法变形 (Forms) form singular plural obestämd en torka torkor bestämd torkan torkorna OBS: torka kan också vara ett verb (att torka = att torka/wipen). Här handla",
+      "forms": [
+        "torka",
+        "torkor",
+        "torkan",
+        "torkorna"
+      ],
+      "links": [
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-vader-och-arstider",
+        "torkad",
+        "torr",
+        "uttorkad",
+        "värme"
+      ],
+      "searchText": "torka torka knowledge_base/words/torka.md ---\ntype: word\nlemma: \"torka\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: B1\nzh: \"干旱\"\nen: \"drought\"\nsynonyms: []\nantonyms: []\nfamily: [uttorkad, torr, torkad]\ntopics: [topic-vader-och-arstider]\nsentences:\n  - sent-det-ar-ovanligt-varmt-vader-i-europa\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# torka — substantiv\n\n📖 中文：干旱 · English: drought\n发音提示：[TOR-ka]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en torka | torkor |\n| bestämd | torkan | torkorna |\n\n> OBS: *torka* kan också vara ett verb (att torka = att torka/wipen). Här handlar det om substantivet.\n\n## 词组搭配 (Collocations)\n\n- `svår torka` — 严重干旱\n- `lång torka` — 长期干旱\n- `torka drabbar landet` — 干旱袭击这个国家\n\n## 例句 (Sentences)\n\n- 🇸🇪 Europa drabbades av svår torka i sommar. — 🇨🇳 今夏欧洲遭受严重干旱。\n- 🇸🇪 Torkan gör att skörden blir dålig. — 🇨🇳 干旱导致收成不好。\n- 🇸🇪 Många länder i Afrika lider av torka. — 🇨🇳 非洲许多国家饱受干旱之苦。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[uttorkad]], [[torr]], [[torkad]]\n- 相关: [[värme]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- *torka* (substantiv) = 干旱（自然现象）。\n- *torka* (verb, grupp 1) = 擦干，擦拭（*torkar–torkade–torkat*）—— 同形异义，需注意语境。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "lemma": "torka",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "干旱",
+      "en": "drought",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-det-ar-ovanligt-varmt-vader-i-europa"
+      ],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-vader-och-arstider",
+        "uttorkad"
+      ]
+    },
+    {
       "slug": "totalt",
       "type": "word",
       "title": "totalt",
@@ -68284,6 +69883,8 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "ek",
+        "gren",
         "grön",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
         "source-2026-06-09-beskriva-en-gata",
@@ -69608,7 +71209,8 @@ window.KB_DATA = {
         "topic-hälsa"
       ],
       "backlinks": [
-        "sent-barn-och-unga-behover-mota-vuxna"
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -69650,6 +71252,46 @@ window.KB_DATA = {
         "source-2026-06-22-greta-thunberg",
         "topic-miljö-och-klimat",
         "topic-samhälle-och-politik"
+      ]
+    },
+    {
+      "slug": "uttorkad",
+      "type": "word",
+      "title": "uttorkad",
+      "path": "knowledge_base/words/uttorkad.md",
+      "body": "# uttorkad — adjektiv\n\n📖 中文：脱水的，干燥的 · English: dehydrated, dried out\n发音提示：[UT-tor-kad]\n\n## 语法变形 (Forms)\n\n| form | utrum | neutrum | plural/bestämd |\n|------|-------|---------|----------------|\n| positiv | uttorkad | uttorkat | uttorkade |\n\n## 词组搭配 (Collocations)\n\n- `bli uttorkad` — 变得脱水\n- `uttorkad jord` — 干燥的土地\n- `uttorkad mark` — 干旱地面\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kroppen blir uttorkad extra snabbt när det är varmt. — 🇨🇳 天气热时身体脱水得特别快。\n- 🇸🇪 Drick vatten så att du inte blir uttorkad. — 🇨🇳 喝水，这样你就不会脱水。\n- 🇸🇪 Marken är uttorkad efter flera veckors torka. — 🇨🇳 经过数周干旱后，土地已经干透了。（见 [[torka]]）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[torka]], [[uttorkning]]\n- 相关: [[torka]], [[värme]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- *uttorkad* = participform av \"uttorka\" (att torka ut)，用作形容词。\n- 身体语境：*uttorkad* 专指人/动物缺水（脱水）；土地语境：表示\"干旱的\"。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]",
+      "excerpt": "uttorkad — adjektiv 📖 中文：脱水的，干燥的 · English: dehydrated, dried out 发音提示：[UT tor kad] 语法变形 (Forms) form utrum neutrum plural/bestämd positiv uttorkad uttorkat uttorkade 词组搭配 (Collocations) bli uttorkad — 变得脱水 uttorkad jor",
+      "forms": [
+        "uttorkad",
+        "uttorkat",
+        "uttorkade"
+      ],
+      "links": [
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-vader-och-arstider",
+        "torka",
+        "uttorkning",
+        "värme"
+      ],
+      "searchText": "uttorkad uttorkad knowledge_base/words/uttorkad.md ---\ntype: word\nlemma: \"uttorkad\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: B1\nzh: \"脱水的，干燥的\"\nen: \"dehydrated, dried out\"\nsynonyms: []\nantonyms: []\nfamily: [torka, uttorkning]\ntopics: [topic-vader-och-arstider]\nsentences:\n  - sent-kroppen-blir-uttorkad-extra-snabbt\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# uttorkad — adjektiv\n\n📖 中文：脱水的，干燥的 · English: dehydrated, dried out\n发音提示：[UT-tor-kad]\n\n## 语法变形 (Forms)\n\n| form | utrum | neutrum | plural/bestämd |\n|------|-------|---------|----------------|\n| positiv | uttorkad | uttorkat | uttorkade |\n\n## 词组搭配 (Collocations)\n\n- `bli uttorkad` — 变得脱水\n- `uttorkad jord` — 干燥的土地\n- `uttorkad mark` — 干旱地面\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kroppen blir uttorkad extra snabbt när det är varmt. — 🇨🇳 天气热时身体脱水得特别快。\n- 🇸🇪 Drick vatten så att du inte blir uttorkad. — 🇨🇳 喝水，这样你就不会脱水。\n- 🇸🇪 Marken är uttorkad efter flera veckors torka. — 🇨🇳 经过数周干旱后，土地已经干透了。（见 [[torka]]）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[torka]], [[uttorkning]]\n- 相关: [[torka]], [[värme]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- *uttorkad* = participform av \"uttorka\" (att torka ut)，用作形容词。\n- 身体语境：*uttorkad* 专指人/动物缺水（脱水）；土地语境：表示\"干旱的\"。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]\n",
+      "lemma": "uttorkad",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "脱水的，干燥的",
+      "en": "dehydrated, dried out",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-kroppen-blir-uttorkad-extra-snabbt"
+      ],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "sent-kroppen-blir-uttorkad-extra-snabbt",
+        "source-2026-06-22-nyheter-8sidor",
+        "topic-vader-och-arstider",
+        "torka"
       ]
     },
     {
@@ -69728,6 +71370,7 @@ window.KB_DATA = {
       "backlinks": [
         "moln",
         "regn",
+        "sent-det-ar-ovanligt-varmt-vader-i-europa",
         "sent-nasta-helg-hoppas-jag-att-vadret",
         "sent-solen-sken-och-vadret-var-fint",
         "sent-vädret-ska-bli-fint-tänkte-vi-kunde",
@@ -69944,6 +71587,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-tva-vagnar-lamnade-sparet-och-foll",
+        "source-2026-06-22-listening-svt-latt",
         "spår",
         "spårvagn"
       ]
@@ -70880,10 +72524,18 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "element",
+        "på-grund-av",
         "sent-allt-fler-människor-dör-av-värme",
         "sent-dar-ska-over-800-skolor-halla-stangt",
+        "sent-det-ar-ovanligt-varmt-vader-i-europa",
+        "sent-i-delar-av-frankrike-italien-spanien-40-grader",
+        "sent-varmen-ska-vara-kvar-i-flera-dagar",
         "source-2026-06-22-nyheter",
+        "source-2026-06-22-nyheter-8sidor",
         "topic-miljö-och-klimat",
+        "topic-vader-och-arstider",
+        "torka",
+        "uttorkad",
         "värmebölja"
       ]
     },

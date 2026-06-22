@@ -9,6 +9,49 @@
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
 | **— biografi-2026-06-22-greta-thunberg — 17词 / 8词组 / 25句 / 0语法(5 DUP) —** | | | | | | |
+| **— nyheter-8sidor-2026-06-22 — 11词 / 5词组 / 24句 / 2语法 (5词DUP 1词组DUP 1语法DUP) —** | | | | | | |
+| [[invandrare]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[brottsling]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[misstänkt]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[smuggla]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[drog]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[uttorkad]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[torka]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[förbjuda]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[värme]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[ek]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[gren]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[ta-fast]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[gå-vidare]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[på-riktigt]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[på-grund-av]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[ta-skydd]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[grammar-perfekt-infinitiv]] | grammar | — | 0 | 2.5 | 2026-06-22 | no |
+| [[grammar-trots-substantiv]] | grammar | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-storbritanniens-ledare-keir-starmer-slutar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-han-har-styrt-landet-sedan-ar-2024]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-han-har-blivit-allt-mindre-popularr]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-nu-ska-starmers-parti-labour-ordna-ledare]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-folk-ar-misnojda-med-att-maten-ar-dyr]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-poliserna-i-colombia-har-tagit-fast]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-han-ar-misstankt-for-manga-brott]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-ar-ovanligt-varmt-vader-i-europa]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-i-delar-av-frankrike-italien-spanien-40-grader]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-kroppen-blir-uttorkad-extra-snabbt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-varmen-ska-vara-kvar-i-flera-dagar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-regeringen-forbjuder-barer-att-salja-alkohol]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-i-lordags-spelade-sverige-mot-nederlanderna]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-gick-daligt-for-sverige]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-matchen-slutade-5-1-till-nederlanderna]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-ar-en-av-de-storsta-forlusterna-i-vm]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-trots-forlusten-kan-sverige-ga-vidare]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-folk-har-berättat-om-robin-hood-hundra-ar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-de-berattade-om-robin-hood-rika-fattiga]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-ingen-vet-om-robin-hood-funnits-pa-riktigt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-den-26-juni-kommer-ny-film-robin-hood]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-den-svenska-skadespelaren-bill-skarsgard-ar-med]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 | [[klimataktivist]] | word | — | 0 | 2.5 | 2026-06-22 | no |
 | [[klimatförändring]] | word | — | 0 | 2.5 | 2026-06-22 | no |
 | [[operasångare]] | word | — | 0 | 2.5 | 2026-06-22 | no |

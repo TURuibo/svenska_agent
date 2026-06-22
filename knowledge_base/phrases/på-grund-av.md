@@ -1,22 +1,20 @@
 ---
 type: phrase
 phrase: "på grund av"
-category: prepositionsfras
+category: prepositionsuttryck
 register: neutralt
 frequency: 5
-zh: 因为，由于
-en: because of, due to
-literal: "on the basis of"
-head_words: ["grund"]
+zh: "由于，因为"
+en: "because of, due to"
+literal: "on basis of"
+head_words: []
 grammar: []
 related: []
 topics: []
 sentences:
-  - sent-lagen-mot-fortryck-pa-grund-av-heder
-  - sent-den-svenska-regeringen-ger-nu-17
-  - sent-dar-ska-over-800-skolor-halla-stangt
+  - sent-regeringen-forbjuder-barer-att-salja-alkohol
 known: false
-created: 2026-06-22
+created: "2026-06-22"
 reviewed: ""
 review_count: 0
 ease: 2.5
@@ -25,29 +23,30 @@ interval: 0
 
 # på grund av
 
-🗣️ 类型: prepositionsfras · 语域: neutralt · 常用度: 5/5
-🇨🇳 因为，由于 · 🇬🇧 because of, due to
-📝 字面: on the basis of (on account of)
+🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 5/5
+🇨🇳 由于，因为 · 🇬🇧 because of, due to
+📝 字面: on basis of
 
 ## 用法说明 (Usage)
 
-- 表示原因，相当于英语 "because of" 或 "due to"。
-- 后接名词短语（不接从句）：**på grund av + 名词**。
-- 常见于正式和非正式场合，使用频率非常高。
+- *på grund av* 是三词介词短语，后直接接名词短语（不接子句）。
+- 若要接完整子句，用 *eftersom* 或 *för att*。
+- 非常常用，出现在各类语境（新闻、正式文本、口语）。
 
 ## 短语中的语法 (Grammar inside)
 
-- 介词短语结构：**på** + **grund** (en grund = 基础/原因) + **av** (介词)
+（komplext prepositionsuttryck — ingen särskild grammatikpunkt）
 
 ## 变体 & 相关 (Variations & Related)
 
-- 🔄 därför att（因为，后接从句）
-- 🔄 eftersom（因为，后接从句）
-- 🔗 [[grammar-bisats-eftersom]]
+- 🔄 *på grund av* → *till följd av* （更正式）
+- 🔄 *beroende på* — 取决于/由于
+- 🔄 *eftersom* — 因为（+ bisats）
+- 🔗 [[värme]]
 
 ## 例句 / 对话 (Examples)
 
-- [[sent-lagen-mot-fortryck-pa-grund-av-heder]] 🇸🇪 Lagen mot förtryck **på grund av** heder blir hårdare. 🇨🇳 针对以荣誉为由实施压迫的法律将变得更加严格。
-- [[sent-den-svenska-regeringen-ger-nu-17]] 🇸🇪 17 miljoner kronor **på grund av** hedersvåld i familjer. 🇨🇳 因家庭荣誉暴力问题，拨款1700万克朗。
-- [[sent-dar-ska-over-800-skolor-halla-stangt]] 🇸🇪 Skolorna håller stängt **på grund av** värmen. 🇨🇳 学校因高温关闭。
-- 来源: [[source-2026-06-22-listening-svt-latt]]
+- 🇸🇪 Skolor stängs på grund av värmen. — 🇨🇳 学校由于高温而关闭。
+- 🇸🇪 Matchen ställdes in på grund av regnet. — 🇨🇳 比赛由于下雨而取消了。
+- 🇸🇪 På grund av sjukdom kan hon inte komma. — 🇨🇳 由于生病，她不能来。
+- 来源: [[source-2026-06-22-nyheter-8sidor]]
