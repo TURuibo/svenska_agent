@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 11:08:35",
+  "generatedAt": "2026-06-22 11:10:59",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -31796,6 +31796,7 @@ window.KB_DATA = {
         "klass",
         "kurs",
         "lån",
+        "lära",
         "lärande",
         "lärorik",
         "läxa",
@@ -31929,6 +31930,7 @@ window.KB_DATA = {
         "bred",
         "bro",
         "busshållplats",
+        "bygga",
         "central",
         "cykla",
         "cyklist",
@@ -36765,6 +36767,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "bygga",
+      "type": "word",
+      "title": "bygga",
+      "path": "knowledge_base/words/bygga.md",
+      "body": "# bygga — verb (grupp 2a)\n\n📖 中文：建造、盖、搭建 · English: to build\n发音提示：BYGG-a；y 圆唇，gg 浊塞音。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) bygga |\n| Presens | bygger |\n| Preteritum | byggde |\n| Supinum | byggt |\n| Imperativ | **bygg!** |\n\n> 你输入的 `bygg` 是 **imperativ**（命令式）/ 词干，grundform 是 `bygga`。\n\n## 词组搭配 (Collocations)\n\n- `bygga ett hus` — 盖一栋房子\n- `bygga upp` — 建立起、搭建起（partikelverb）\n- `bygga om` — 改建、翻修\n- `bygga på` — 以…为基础、依靠（bygga på erfarenhet）\n\n## 例句 (Sentences)\n\n- 🇸🇪 De bygger ett nytt hus. — 🇨🇳 他们在盖一栋新房子。\n- 🇸🇪 Vi byggde en koja när vi var barn. — 🇨🇳 我们小时候搭过一个小棚屋。\n- 🇸🇪 Förtroende byggs upp långsamt. — 🇨🇳 信任是慢慢建立起来的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[byggnad]] (建筑), [[byggare]] (建造者), [[byggnation]] (建设活动)\n- 同义词: [[konstruera]] (构造/建造，更技术)\n- 反义词: [[riva]] (拆除)\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- grupp 2a：词干以浊音结尾，preteritum 加 `-de`（byggde），supinum 加 `-t`（byggt）。\n- 抽象用法很常见：`bygga upp förtroende/ett företag`（建立信任/一家公司）。",
+      "excerpt": "bygga — verb (grupp 2a) 📖 中文：建造、盖、搭建 · English: to build 发音提示：BYGG a；y 圆唇，gg 浊塞音。 语法变形 (Forms) Tempus Swedish Infinitiv (att) bygga Presens bygger Preteritum byggde Supinum byggt Imperativ bygg! 你输入的 bygg 是 imperativ （命",
+      "forms": [
+        "bygga",
+        "bygger",
+        "byggde",
+        "byggt",
+        "bygg!"
+      ],
+      "links": [
+        "byggare",
+        "byggnad",
+        "byggnation",
+        "konstruera",
+        "riva",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "bygga bygga knowledge_base/words/bygga.md ---\ntype: word\nlemma: \"bygga\"\nordklass: verb\nverbgrupp: \"2a\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"建造、盖、搭建\"\nen: \"to build\"\nsynonyms: [konstruera]\nantonyms: [riva]\nfamily: [byggnad, byggare, bygge, byggnation]\ntopics: [topic-stadsmiljo]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bygga — verb (grupp 2a)\n\n📖 中文：建造、盖、搭建 · English: to build\n发音提示：BYGG-a；y 圆唇，gg 浊塞音。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) bygga |\n| Presens | bygger |\n| Preteritum | byggde |\n| Supinum | byggt |\n| Imperativ | **bygg!** |\n\n> 你输入的 `bygg` 是 **imperativ**（命令式）/ 词干，grundform 是 `bygga`。\n\n## 词组搭配 (Collocations)\n\n- `bygga ett hus` — 盖一栋房子\n- `bygga upp` — 建立起、搭建起（partikelverb）\n- `bygga om` — 改建、翻修\n- `bygga på` — 以…为基础、依靠（bygga på erfarenhet）\n\n## 例句 (Sentences)\n\n- 🇸🇪 De bygger ett nytt hus. — 🇨🇳 他们在盖一栋新房子。\n- 🇸🇪 Vi byggde en koja när vi var barn. — 🇨🇳 我们小时候搭过一个小棚屋。\n- 🇸🇪 Förtroende byggs upp långsamt. — 🇨🇳 信任是慢慢建立起来的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[byggnad]] (建筑), [[byggare]] (建造者), [[byggnation]] (建设活动)\n- 同义词: [[konstruera]] (构造/建造，更技术)\n- 反义词: [[riva]] (拆除)\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- grupp 2a：词干以浊音结尾，preteritum 加 `-de`（byggde），supinum 加 `-t`（byggt）。\n- 抽象用法很常见：`bygga upp förtroende/ett företag`（建立信任/一家公司）。\n",
+      "lemma": "bygga",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "建造、盖、搭建",
+      "en": "to build",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "byggnad"
+      ]
+    },
+    {
       "slug": "byggnad",
       "type": "word",
       "title": "byggnad",
@@ -36801,6 +36841,7 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "bygga",
         "du-kan-inte-missa-den",
         "hus",
         "sent-apoteket-ligger-mitt-emot-en-stor-byggnad",
@@ -44289,6 +44330,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "hyra",
+      "type": "word",
+      "title": "hyra",
+      "path": "knowledge_base/words/hyra.md",
+      "body": "# hyra — verb (grupp 2b)\n\n📖 中文：租用、租进 · English: to rent / hire\n发音提示：HY-ra；y 是圆唇前元音（似德语 ü）。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) hyra |\n| Presens | hyr |\n| Preteritum | hyrde |\n| Supinum | hyrt |\n| Imperativ | hyr! |\n\n> 也可作 **substantiv**：`en hyra` = 房租（bestämd: hyran, pl. hyror）。\n\n## 词组搭配 (Collocations)\n\n- `hyra en lägenhet` — 租一套公寓\n- `hyra ut` — 把（房/物）出租出去（partikelverb）\n- `betala hyran` — 付房租\n- `hög / låg hyra` — 房租高 / 低\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi vill hyra en lägenhet i centrum. — 🇨🇳 我们想在市中心租一套公寓。\n- 🇸🇪 Hyran är 8000 kronor i månaden. — 🇨🇳 房租每月 8000 克朗。\n- 🇸🇪 Han hyr ut ett rum till en student. — 🇨🇳 他把一个房间租给一个学生。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hyresgäst]] (租客), [[hyresvärd]] (房东), [[uthyrning]] (出租)\n- 同义词: —\n- 反义词: [[äga]] (拥有)\n- 主题: [[topic-boende]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ 方向区分：`hyra` = **租进**（我当租客）；`hyra ut` = **租出**（我当房东）。\n- `en hyra`（名词，房租）≠ 动词 `hyra`（租）；语境区分。\n- 短租车/工具也用 `hyra`：`hyra en bil` 租车。",
+      "excerpt": "hyra — verb (grupp 2b) 📖 中文：租用、租进 · English: to rent / hire 发音提示：HY ra；y 是圆唇前元音（似德语 ü）。 语法变形 (Forms) Tempus Swedish Infinitiv (att) hyra Presens hyr Preteritum hyrde Supinum hyrt Imperativ hyr! 也可作 substantiv ： en hyra ",
+      "forms": [
+        "hyra",
+        "hyr",
+        "hyrde",
+        "hyrt",
+        "hyr!"
+      ],
+      "links": [
+        "äga",
+        "hyresgäst",
+        "hyresvärd",
+        "topic-boende",
+        "uthyrning"
+      ],
+      "searchText": "hyra hyra knowledge_base/words/hyra.md ---\ntype: word\nlemma: \"hyra\"\nordklass: verb\nverbgrupp: \"2b\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"租（动词）；（en hyra）房租\"\nen: \"rent / hire; (noun) the rent\"\nsynonyms: []\nantonyms: [äga]\nfamily: [hyresgäst, hyresvärd, uthyrning]\ntopics: [topic-boende]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hyra — verb (grupp 2b)\n\n📖 中文：租用、租进 · English: to rent / hire\n发音提示：HY-ra；y 是圆唇前元音（似德语 ü）。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) hyra |\n| Presens | hyr |\n| Preteritum | hyrde |\n| Supinum | hyrt |\n| Imperativ | hyr! |\n\n> 也可作 **substantiv**：`en hyra` = 房租（bestämd: hyran, pl. hyror）。\n\n## 词组搭配 (Collocations)\n\n- `hyra en lägenhet` — 租一套公寓\n- `hyra ut` — 把（房/物）出租出去（partikelverb）\n- `betala hyran` — 付房租\n- `hög / låg hyra` — 房租高 / 低\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi vill hyra en lägenhet i centrum. — 🇨🇳 我们想在市中心租一套公寓。\n- 🇸🇪 Hyran är 8000 kronor i månaden. — 🇨🇳 房租每月 8000 克朗。\n- 🇸🇪 Han hyr ut ett rum till en student. — 🇨🇳 他把一个房间租给一个学生。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hyresgäst]] (租客), [[hyresvärd]] (房东), [[uthyrning]] (出租)\n- 同义词: —\n- 反义词: [[äga]] (拥有)\n- 主题: [[topic-boende]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ 方向区分：`hyra` = **租进**（我当租客）；`hyra ut` = **租出**（我当房东）。\n- `en hyra`（名词，房租）≠ 动词 `hyra`（租）；语境区分。\n- 短租车/工具也用 `hyra`：`hyra en bil` 租车。\n",
+      "lemma": "hyra",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "租（动词）；（en hyra）房租",
+      "en": "rent / hire; (noun) the rent",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-boende"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "igelkott",
       "type": "word",
       "title": "igelkott",
@@ -48306,6 +48382,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "lära",
+      "type": "word",
+      "title": "lära",
+      "path": "knowledge_base/words/lära.md",
+      "body": "# lära — verb (grupp 2b)\n\n📖 中文：教；lära sig = 学（自己学会）· English: teach / (reflexive) learn\n发音提示：LÄ-ra；长 ä 音。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) lära |\n| Presens | lär |\n| Preteritum | lärde |\n| Supinum | lärt |\n| Imperativ | lär! |\n\n> 也可作 **substantiv**：`en lära` = 学说/教义（pl. läror）。\n\n## 词组搭配 (Collocations)\n\n- `lära sig (något)` — 学会、掌握（反身，= 自己学）\n- `lära (någon) något` — 教某人某事\n- `lära känna (någon)` — 结识、认识某人\n- `lära ut` — 把知识教出去（partikelverb）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag vill lära mig svenska. — 🇨🇳 我想学瑞典语。\n- 🇸🇪 Hon lärde mig att laga mat. — 🇨🇳 她教我做饭。\n- 🇸🇪 Vi lärde känna varandra på jobbet. — 🇨🇳 我们在工作中相识。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lärande]] (学习), [[lärare]] (老师), [[lärorik]] (有教益的)\n- 同义词: [[undervisa]] (授课/讲授)\n- 反义词: —\n- 主题: [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ 关键区分：`lära sig` = **学**（学的人是主语）；`lära någon` = **教**（教的人是主语）。\n- `lära sig` 的反身代词随主语变：jag lär **mig**, du lär **dig**, hon lär **sig** …\n- 口语里\"教\"也常用 `lära ut`；\"学\"也用 `studera`（更正式/系统）。",
+      "excerpt": "lära — verb (grupp 2b) 📖 中文：教；lära sig = 学（自己学会）· English: teach / (reflexive) learn 发音提示：LÄ ra；长 ä 音。 语法变形 (Forms) Tempus Swedish Infinitiv (att) lära Presens lär Preteritum lärde Supinum lärt Imperativ lär! 也可作 substa",
+      "forms": [
+        "lära",
+        "lär",
+        "lärde",
+        "lärt",
+        "lär!"
+      ],
+      "links": [
+        "lärande",
+        "lärare",
+        "lärorik",
+        "topic-skola-och-utbildning",
+        "undervisa"
+      ],
+      "searchText": "lära lära knowledge_base/words/lära.md ---\ntype: word\nlemma: \"lära\"\nordklass: verb\nverbgrupp: \"2b\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"教；（lära sig）学；（en lära）学说\"\nen: \"teach; (lära sig) learn; (noun) doctrine\"\nsynonyms: [undervisa]\nantonyms: []\nfamily: [lärande, lärare, lärarinna, lärdom, lärorik]\ntopics: [topic-skola-och-utbildning]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lära — verb (grupp 2b)\n\n📖 中文：教；lära sig = 学（自己学会）· English: teach / (reflexive) learn\n发音提示：LÄ-ra；长 ä 音。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) lära |\n| Presens | lär |\n| Preteritum | lärde |\n| Supinum | lärt |\n| Imperativ | lär! |\n\n> 也可作 **substantiv**：`en lära` = 学说/教义（pl. läror）。\n\n## 词组搭配 (Collocations)\n\n- `lära sig (något)` — 学会、掌握（反身，= 自己学）\n- `lära (någon) något` — 教某人某事\n- `lära känna (någon)` — 结识、认识某人\n- `lära ut` — 把知识教出去（partikelverb）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag vill lära mig svenska. — 🇨🇳 我想学瑞典语。\n- 🇸🇪 Hon lärde mig att laga mat. — 🇨🇳 她教我做饭。\n- 🇸🇪 Vi lärde känna varandra på jobbet. — 🇨🇳 我们在工作中相识。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lärande]] (学习), [[lärare]] (老师), [[lärorik]] (有教益的)\n- 同义词: [[undervisa]] (授课/讲授)\n- 反义词: —\n- 主题: [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ 关键区分：`lära sig` = **学**（学的人是主语）；`lära någon` = **教**（教的人是主语）。\n- `lära sig` 的反身代词随主语变：jag lär **mig**, du lär **dig**, hon lär **sig** …\n- 口语里\"教\"也常用 `lära ut`；\"学\"也用 `studera`（更正式/系统）。\n",
+      "lemma": "lära",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "教；（lära sig）学；（en lära）学说",
+      "en": "teach; (lära sig) learn; (noun) doctrine",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-skola-och-utbildning"
+      ],
+      "backlinks": [
+        "lärande",
+        "lärorik"
+      ]
+    },
+    {
       "slug": "lärande",
       "type": "word",
       "title": "lärande",
@@ -48340,6 +48454,7 @@ window.KB_DATA = {
       "backlinks": [
         "bildning",
         "index",
+        "lära",
         "source-2026-06-03-sundbyberg-forskola",
         "topic-skola-och-utbildning"
       ]
@@ -48367,7 +48482,7 @@ window.KB_DATA = {
         "topic-skola-och-utbildning",
         "utbildande"
       ],
-      "searchText": "lärorik lärorik knowledge_base/words/lärorik.md ---\ntype: word\nlemma: \"lärorik\"\nordklass: adjektiv\ngenus: \"\"\ncefr: \"B1\"\nzh: \"有教益的、长知识的\"\nen: \"instructive\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-karaktarsord\", \"topic-skola-och-utbildning\"]\nsentences: []\nsources: [\"source-2026-06-16-arbete-skola\"]\nknown: false\ncreated: \"2026-06-16\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lärorik — adjektiv\n\n📖 中文：有教益的、长知识的 · English: instructive\n发音提示：LÄ-ro-rik\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| en-form (utrum) | lärorik |\n| ett-form (neutrum) | lärorikt |\n| plural / bestämd | lärorika |\n\n## 词组搭配 (Collocations)\n\n- `en lärorik upplevelse` — 一次有教益的体验\n- `ett lärorikt ämne` — 一门很长知识的科目\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lära]], [[lärare]], [[lärobok]]\n- 同义词: [[intressant]], [[utbildande]]\n- 反义词: []\n- 主题: [[topic-karaktarsord]], [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: lär(a) + rik. Neutrum: lärorikt; plural/bestämd: lärorika.\n- Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]\n",
+      "searchText": "lärorik lärorik knowledge_base/words/lärorik.md ---\ntype: word\nlemma: \"lärorik\"\nordklass: adjektiv\ngenus: \"\"\ncefr: \"B1\"\nzh: \"有教益的、长知识的\"\nen: \"instructive\"\nsynonyms: []\nantonyms: []\nfamily: [lära, lärande]\ntopics: [\"topic-karaktarsord\", \"topic-skola-och-utbildning\"]\nsentences: []\nsources: [\"source-2026-06-16-arbete-skola\"]\nknown: false\ncreated: \"2026-06-16\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lärorik — adjektiv\n\n📖 中文：有教益的、长知识的 · English: instructive\n发音提示：LÄ-ro-rik\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| en-form (utrum) | lärorik |\n| ett-form (neutrum) | lärorikt |\n| plural / bestämd | lärorika |\n\n## 词组搭配 (Collocations)\n\n- `en lärorik upplevelse` — 一次有教益的体验\n- `ett lärorikt ämne` — 一门很长知识的科目\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lära]], [[lärare]], [[lärobok]]\n- 同义词: [[intressant]], [[utbildande]]\n- 反义词: []\n- 主题: [[topic-karaktarsord]], [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: lär(a) + rik. Neutrum: lärorikt; plural/bestämd: lärorika.\n- Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]\n",
       "lemma": "lärorik",
       "ordklass": "adjektiv",
       "cefr": "B1",
@@ -48380,7 +48495,9 @@ window.KB_DATA = {
         "topic-karaktarsord",
         "topic-skola-och-utbildning"
       ],
-      "backlinks": []
+      "backlinks": [
+        "lära"
+      ]
     },
     {
       "slug": "lastbil",

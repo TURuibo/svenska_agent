@@ -8,7 +8,7 @@ zh: "有教益的、长知识的"
 en: "instructive"
 synonyms: []
 antonyms: []
-family: []
+family: [lära, lärande]
 topics: ["topic-karaktarsord", "topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
