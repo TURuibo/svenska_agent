@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 11:52:27",
+  "generatedAt": "2026-06-22 11:59:19",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -822,6 +822,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "köra-för-fort",
+        "längst-bak",
         "sent-an-kvinnor-i-samma-alder",
         "sent-arbetena-är-till-för-att-vägarna",
         "sent-där-alla-har-så-stor-förståelse",
@@ -1252,6 +1253,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "där-borta",
+        "längst-bak",
         "sent-den-star-langst-bak-till-hoger-bredvid-ostarna",
         "sent-ga-rakt-fram-forbi-frukten-sa-ser-du-bageriet-till-vanster",
         "sent-ja-de-kostar-nu-nio-kronor-kilot-du-vager-dem-sjalv-vid-vagen-dar-borta",
@@ -6383,6 +6385,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "längst-bak",
+      "type": "phrase",
+      "title": "längst bak",
+      "path": "knowledge_base/phrases/längst-bak.md",
+      "body": "# längst bak\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 在最后面；最后排 · 🇬🇧 at the very back / furthest back\n📝 字面: longest back\n\n## 用法说明 (Usage)\n\n- `längst` 是 `långt`（远）的 **superlativ**（最高级）→ \"最…（远）\"；`bak` = 后面。合起来 = **最后面/最靠后**。\n- 描述空间位置（货架、车厢、教室、队伍）：*Mjölken står längst bak i butiken.* — 牛奶在店里最里面（最后面）。\n- 同一构式系列：längst **bak**（最后）/ längst **fram**（最前）/ längst **ner**（最下）/ längst **upp**（最上）/ längst **in**（最里）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-komparativ]] — längst 是 långt 的最高级\n- → [[grammar-platsadverb]] — 方位副词\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `längst fram` — 最前面（反义）\n- 🔄 `längst ner` / `längst upp` — 最下面 / 最上面\n- 🔄 `längst in` — 最里面\n- 🔗 [[lite-längre-fram]] — 再往前一点\n- 🔗 [[rakt-fram]] — 直走/正前方\n\n## 例句 / 对话 (Examples)\n\n- · **货架位置**: [[sent-den-star-langst-bak-till-hoger-bredvid-ostarna]] 🇸🇪 Den står **längst bak** till höger, bredvid ostarna. 🇨🇳 它在最后面靠右，奶酪旁边。\n- · **排队/座位**: 🇸🇪 Vi satt **längst bak** i bussen. — 🇨🇳 我们坐在公交车最后排。\n- · **反义对照**: 🇸🇪 Han står **längst fram**, jag står **längst bak**. — 🇨🇳 他站最前面，我站最后面。",
+      "excerpt": "längst bak 🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 4/5 🇨🇳 在最后面；最后排 · 🇬🇧 at the very back / furthest back 📝 字面: longest back 用法说明 (Usage) längst 是 långt （远）的 superlativ （最高级）→ \"最…（远）\"； bak = 后面。合起来 = 最后面/最靠",
+      "forms": [],
+      "links": [
+        "grammar-komparativ",
+        "grammar-platsadverb",
+        "lite-längre-fram",
+        "rakt-fram",
+        "sent-den-star-langst-bak-till-hoger-bredvid-ostarna"
+      ],
+      "searchText": "längst bak längst-bak knowledge_base/phrases/längst-bak.md ---\ntype: phrase\nphrase: \"längst bak\"\ncategory: prepositionsuttryck\nregister: neutralt\nfrequency: 4\nzh: \"在最后面；最后排\"\nen: \"at the very back; furthest back\"\nliteral: \"longest back\"\nhead_words: [bak]\ngrammar: [grammar-komparativ, grammar-platsadverb]\nrelated: [lite-längre-fram, rakt-fram]\ntopics: [topic-rumsliga-relationer]\nsentences:\n  - sent-den-star-langst-bak-till-hoger-bredvid-ostarna\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# längst bak\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 在最后面；最后排 · 🇬🇧 at the very back / furthest back\n📝 字面: longest back\n\n## 用法说明 (Usage)\n\n- `längst` 是 `långt`（远）的 **superlativ**（最高级）→ \"最…（远）\"；`bak` = 后面。合起来 = **最后面/最靠后**。\n- 描述空间位置（货架、车厢、教室、队伍）：*Mjölken står längst bak i butiken.* — 牛奶在店里最里面（最后面）。\n- 同一构式系列：längst **bak**（最后）/ längst **fram**（最前）/ längst **ner**（最下）/ längst **upp**（最上）/ längst **in**（最里）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-komparativ]] — längst 是 långt 的最高级\n- → [[grammar-platsadverb]] — 方位副词\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `längst fram` — 最前面（反义）\n- 🔄 `längst ner` / `längst upp` — 最下面 / 最上面\n- 🔄 `längst in` — 最里面\n- 🔗 [[lite-längre-fram]] — 再往前一点\n- 🔗 [[rakt-fram]] — 直走/正前方\n\n## 例句 / 对话 (Examples)\n\n- · **货架位置**: [[sent-den-star-langst-bak-till-hoger-bredvid-ostarna]] 🇸🇪 Den står **längst bak** till höger, bredvid ostarna. 🇨🇳 它在最后面靠右，奶酪旁边。\n- · **排队/座位**: 🇸🇪 Vi satt **längst bak** i bussen. — 🇨🇳 我们坐在公交车最后排。\n- · **反义对照**: 🇸🇪 Han står **längst fram**, jag står **längst bak**. — 🇨🇳 他站最前面，我站最后面。\n",
+      "zh": "在最后面；最后排",
+      "en": "at the very back; furthest back",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "längst bak",
+      "category": "prepositionsuttryck",
+      "sentences": [
+        "sent-den-star-langst-bak-till-hoger-bredvid-ostarna"
+      ],
+      "grammar": [
+        "grammar-komparativ",
+        "grammar-platsadverb"
+      ],
+      "topics": [
+        "topic-rumsliga-relationer"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "leta-efter",
       "type": "phrase",
       "title": "leta efter",
@@ -6467,6 +6503,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "i-hörnet-av",
+        "längst-bak",
         "sent-lite-langre-fram-i-hornet-storgatan-parkgatan-kafé",
         "source-2026-06-09-beskriva-en-gata",
         "topic-rumsliga-relationer"
@@ -7317,6 +7354,7 @@ window.KB_DATA = {
         "hur-kommer-jag-dit",
         "hur-tar-jag-mig-dit",
         "i-hörnet-av",
+        "längst-bak",
         "lite-längre-fram",
         "mot-söder",
         "på-höger-sida",
@@ -11282,6 +11320,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "grammar-platsadverb",
+        "längst-bak",
         "source-2026-06-21-handla-i-mataffaren"
       ]
     },
