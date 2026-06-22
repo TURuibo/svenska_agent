@@ -1,6 +1,34 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-22 12:26:59",
+  "generatedAt": "2026-06-22 13:20:47",
   "articles": [
+    {
+      "slug": "news-2026-06-22",
+      "file": "news-2026-06-22.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "news",
+      "kindLabel": {
+        "zh": "新闻",
+        "en": "news"
+      },
+      "title": "🇸🇪 Dagens nyheter (8 Sidor) — 2026-06-22",
+      "cefr": "A2",
+      "date": "2026-06-22",
+      "theme": "news",
+      "source": "",
+      "path": "imported/news-2026-06-22.md",
+      "counts": {
+        "words": 32,
+        "phrases": 4,
+        "sentences": 23,
+        "grammar": 4
+      },
+      "itemTotal": 63,
+      "body": "# 🇸🇪 Dagens nyheter (8 Sidor) — 2026-06-22\n\n**类型 (type):** news\n**来源 (source):** 8 Sidor — lättläst nyheter\n**CEFR 估计:** A2–B1\n**生成日期:** 2026-06-22\n\n---\n\n## 1. Google bygger i Dalarna\nGoogle ska bygga ett stort datacenter i byn Horndal. Byn ligger i Avesta kommun i Dalarna. Det blir Googles första datacenter i Sverige. Ungefär hundra personer ska arbeta där när det är klart.\n🇨🇳 谷歌将在霍恩达尔（Horndal）村建一座大型数据中心。这个村子位于达拉纳省阿维斯塔市。这将是谷歌在瑞典的第一座数据中心。建成后大约有一百人在那里工作。\n\n## 2. Mette-Marit har fått nya lungor\nMette-Marit är kronprinsessa i Norge. Läkare har opererat henne och gett henne nya lungor. Hon har en sjukdom i lungorna. Operationen gick bra, säger det norska hovet. Nu måste hon vila länge.\n🇨🇳 梅特-玛丽特是挪威的王储妃。医生为她做了手术，给她换了新的肺。她患有肺部疾病。挪威王室表示手术很顺利。现在她必须长时间休养。\n\n## 3. Sverige måste göra mer\nUtsläppen i Sverige minskar. Men Sverige gör inte tillräckligt för att nå sina klimatmål. Det säger Naturvårdsverket. Politikerna måste se till att utsläppen från bilar och lastbilar minskar mer. Tiden håller på att ta slut.\n🇨🇳 瑞典的（温室气体）排放正在减少。但瑞典做得还不够，无法达到其气候目标。瑞典环保局这样说。政界人士必须确保来自汽车和卡车的排放进一步减少。时间快不够了。\n\n## 4. Ryskt fartyg sköt skott\nEtt ryskt militärfartyg sköt skott mot en civil båt. Det hände i Engelska kanalen, mellan Storbritannien och Frankrike. På båten fanns ett brittiskt par. Ryssland säger att de sköt för att varna båten. Det är mycket ovanligt att skjuta mot en civil båt.\n🇨🇳 一艘俄罗斯军舰向一艘民用船只开了枪。事件发生在英国与法国之间的英吉利海峡。船上有一对英国夫妇。俄罗斯称他们开枪是为了警告这艘船。向民用船只开枪是非常罕见的。\n\n## 5. Många dör av värme\nAllt fler människor dör av värme i Europa. Klimatet blir varmare. Det gör värmeböljorna både vanligare och farligare. Forskare varnar för att ännu fler kan dö i framtiden om jorden blir varmare.\n🇨🇳 在欧洲，越来越多的人死于高温。气候正变得更热。这使得热浪更频繁也更危险。研究人员警告说，如果地球继续变暖，未来可能会有更多人死亡。\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n- 📌 **bygga (建造)** 是规则的第二类动词：bygga – bygger – byggde – byggt。「Google ska bygga …」用 `ska + 不定式` 表示将来计划。\n- 📐 **被动/完成体 har fått / har opererat**：`ha + supinum` 构成 perfekt（现在完成时）。`få` 不规则：få – får – fick – fått；「fått nya lungor」= 得到了新的肺。\n- 📌 **utsläpp (排放)** 与 **klimatmål (气候目标)** 是常见复合词（ett utsläpp 中性词，复数同形）。环保/气候话题高频词：minska 减少、nå 达到、Naturvårdsverket 环保局。\n- ⚠️ **skjuta (射击)** 强变化动词，preteritum 是 **sköt**，supinum **skjutit**；别和 sköta(照料) 混淆。「sköt skott」= 开了枪。\n\n---\n\n📺 今日听力 (lyssna): **SVT Nyheter på lätt svenska** — 简易瑞典语新闻视频（vardagar ~17:15，约 4 分钟，带瑞典语字幕，可全球观看）：https://www.svtplay.se/nyheter-pa-latt-svenska\n⏭ 想录入知识库：/import news-2026-06-22.md",
+      "searchText": "news-2026-06-22 🇸🇪 dagens nyheter (8 sidor) — 2026-06-22 # 🇸🇪 dagens nyheter (8 sidor) — 2026-06-22\n\n**类型 (type):** news\n**来源 (source):** 8 sidor — lättläst nyheter\n**cefr 估计:** a2–b1\n**生成日期:** 2026-06-22\n\n---\n\n## 1. google bygger i dalarna\ngoogle ska bygga ett stort datacenter i byn horndal. byn ligger i avesta kommun i dalarna. det blir googles första datacenter i sverige. ungefär hundra personer ska arbeta där när det är klart.\n🇨🇳 谷歌将在霍恩达尔（horndal）村建一座大型数据中心。这个村子位于达拉纳省阿维斯塔市。这将是谷歌在瑞典的第一座数据中心。建成后大约有一百人在那里工作。\n\n## 2. mette-marit har fått nya lungor\nmette-marit är kronprinsessa i norge. läkare har opererat henne och gett henne nya lungor. hon har en sjukdom i lungorna. operationen gick bra, säger det norska hovet. nu måste hon vila länge.\n🇨🇳 梅特-玛丽特是挪威的王储妃。医生为她做了手术，给她换了新的肺。她患有肺部疾病。挪威王室表示手术很顺利。现在她必须长时间休养。\n\n## 3. sverige måste göra mer\nutsläppen i sverige minskar. men sverige gör inte tillräckligt för att nå sina klimatmål. det säger naturvårdsverket. politikerna måste se till att utsläppen från bilar och lastbilar minskar mer. tiden håller på att ta slut.\n🇨🇳 瑞典的（温室气体）排放正在减少。但瑞典做得还不够，无法达到其气候目标。瑞典环保局这样说。政界人士必须确保来自汽车和卡车的排放进一步减少。时间快不够了。\n\n## 4. ryskt fartyg sköt skott\nett ryskt militärfartyg sköt skott mot en civil båt. det hände i engelska kanalen, mellan storbritannien och frankrike. på båten fanns ett brittiskt par. ryssland säger att de sköt för att varna båten. det är mycket ovanligt att skjuta mot en civil båt.\n🇨🇳 一艘俄罗斯军舰向一艘民用船只开了枪。事件发生在英国与法国之间的英吉利海峡。船上有一对英国夫妇。俄罗斯称他们开枪是为了警告这艘船。向民用船只开枪是非常罕见的。\n\n## 5. många dör av värme\nallt fler människor dör av värme i europa. klimatet blir varmare. det gör värmeböljorna både vanligare och farligare. forskare varnar för att ännu fler kan dö i framtiden om jorden blir varmare.\n🇨🇳 在欧洲，越来越多的人死于高温。气候正变得更热。这使得热浪更频繁也更危险。研究人员警告说，如果地球继续变暖，未来可能会有更多人死亡。\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n- 📌 **bygga (建造)** 是规则的第二类动词：bygga – bygger – byggde – byggt。「google ska bygga …」用 `ska + 不定式` 表示将来计划。\n- 📐 **被动/完成体 har fått / har opererat**：`ha + supinum` 构成 perfekt（现在完成时）。`få` 不规则：få – får – fick – fått；「fått nya lungor」= 得到了新的肺。\n- 📌 **utsläpp (排放)** 与 **klimatmål (气候目标)** 是常见复合词（ett utsläpp 中性词，复数同形）。环保/气候话题高频词：minska 减少、nå 达到、naturvårdsverket 环保局。\n- ⚠️ **skjuta (射击)** 强变化动词，preteritum 是 **sköt**，supinum **skjutit**；别和 sköta(照料) 混淆。「sköt skott」= 开了枪。\n\n---\n\n📺 今日听力 (lyssna): **svt nyheter på lätt svenska** — 简易瑞典语新闻视频（vardagar ~17:15，约 4 分钟，带瑞典语字幕，可全球观看）：https://www.svtplay.se/nyheter-pa-latt-svenska\n⏭ 想录入知识库：/import news-2026-06-22.md"
+    },
     {
       "slug": "scenario-2026-06-22-en-helg",
       "file": "scenario-2026-06-22-en-helg.md",
