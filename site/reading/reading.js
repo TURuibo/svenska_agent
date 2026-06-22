@@ -135,6 +135,22 @@
   const LS_VOCAB = 'lasning.vocab.v1';
   let vocabOn = (() => { try { return localStorage.getItem(LS_VOCAB) !== '0'; } catch (_e) { return true; } })();
 
+  // 查词模式 (lookup mode): when on, every Swedish word with NO KB note becomes
+  // tappable too — tapping opens a search over the in-memory `vocab` so the
+  // learner can find the KB note this surface really belongs to and queue a
+  // permanent link (written back via /link-forms). Default off so plain reading
+  // stays uncluttered. The link queue (surface → KB slug) lives in localStorage.
+  const LS_LOOKUP = 'lasning.lookupmode.v1';
+  let lookupMode = (() => { try { return localStorage.getItem(LS_LOOKUP) === '1'; } catch (_e) { return false; } })();
+
+  const LS_LINKQ = 'lasning.linkqueue.v1';
+  function loadQueue() {
+    try { const a = JSON.parse(localStorage.getItem(LS_LINKQ) || '[]'); return Array.isArray(a) ? a : []; }
+    catch (_e) { return []; }
+  }
+  function saveQueue() { try { localStorage.setItem(LS_LINKQ, JSON.stringify(linkQueue)); } catch (_e) {} }
+  let linkQueue = loadQueue();   // [{ surface, slug, lemma }]
+
   // Don't linkify inside links, code, headings, or the 🇨🇳-translation layer.
   const VOCAB_SKIP_TAGS = new Set(['A', 'CODE', 'PRE', 'SCRIPT', 'STYLE', 'BUTTON', 'H1', 'H2', 'H3', 'H4', 'TH']);
   function vocabSkip(node, root) {
@@ -182,6 +198,49 @@
     targets.forEach(wrapTextNode);   // mutate after the walk so the walker isn't disturbed
   }
 
+  // 查词模式: wrap every still-plain Swedish word as a .lookupWord so it can be
+  // tapped to search the KB. Runs AFTER linkifyVocab, so KB words are already in
+  // .vocabWord spans and the remaining text-node tokens are exactly the words
+  // with no KB note (the "not in vocabIndex" guard is just belt-and-braces).
+  function wrapLookupTextNode(node) {
+    const text = node.nodeValue;
+    VOCAB_TOKEN.lastIndex = 0;
+    let m, last = 0, frag = null;
+    while ((m = VOCAB_TOKEN.exec(text))) {
+      if (vocabIndex.has(m[0].toLowerCase())) continue;
+      if (!frag) frag = document.createDocumentFragment();
+      if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+      const span = document.createElement('span');
+      span.className = 'lookupWord';
+      span.textContent = m[0];
+      frag.appendChild(span);
+      last = m.index + m[0].length;
+    }
+    if (frag) {
+      if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
+      node.parentNode.replaceChild(frag, node);
+    }
+  }
+  function decorateLookup(container) {
+    const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null);
+    const targets = [];
+    let node;
+    while ((node = walker.nextNode())) {
+      if (!node.nodeValue || !/[A-Za-zÀ-ÿ]/.test(node.nodeValue)) continue;
+      if (vocabSkip(node, container)) continue;
+      const p = node.parentNode;
+      if (p && p.classList && p.classList.contains('vocabWord')) continue;
+      targets.push(node);
+    }
+    targets.forEach(wrapLookupTextNode);
+  }
+  function undecorateLookup(container) {
+    container.querySelectorAll('.lookupWord').forEach((el) => {
+      el.replaceWith(document.createTextNode(el.textContent));
+    });
+    container.normalize();
+  }
+
   // ---- glossary popover (full note detail, rendered in-page) ----
   // Desktop: a card anchored next to the tapped word.
   // Mobile:  a bottom sheet with a dimmed backdrop, sticky header and scroll-lock.
@@ -191,12 +250,32 @@
     if (popEl) { popEl.remove(); popEl = null; }
     document.body.classList.remove('vocabPopOpen');
   }
-  function positionPop(pop, _span) {
+  function positionPop(pop) {
     // Mobile: a bottom sheet (CSS .sheet pins it to the bottom).
     // Desktop: a fixed side panel positioned entirely by CSS — we no longer chase
     // the tapped word (that used to push a tall card below the fold and force a
     // page-scroll to read it). The card now stays at a stable, always-visible spot.
     if (isMobile()) pop.classList.add('sheet');
+  }
+
+  // Mount an empty popover shell (desktop side panel / mobile bottom sheet),
+  // wire its backdrop + scroll-lock, and return it. Callers fill .innerHTML.
+  // Shared by the glossary card, the 查词 lookup card, and the 链接清单 panel.
+  function mountPop(extraClass, onClick) {
+    closePop();
+    popEl = document.createElement('div');
+    popEl.className = 'vocabPop' + (extraClass ? ' ' + extraClass : '');
+    if (onClick) popEl.addEventListener('click', onClick);
+    document.body.appendChild(popEl);
+    positionPop(popEl);
+    if (popEl.classList.contains('sheet')) {
+      backdropEl = document.createElement('div');
+      backdropEl.className = 'vocabBackdrop';
+      backdropEl.addEventListener('click', closePop);
+      document.body.insertBefore(backdropEl, popEl);
+      document.body.classList.add('vocabPopOpen');
+    }
+    return popEl;
   }
 
   // Build the full detail card for one vocab entry: a sticky header (grip + close
@@ -236,51 +315,156 @@
     popEl.scrollTop = 0;
   }
 
-  function openPop(span) {
-    closePop();
-    const entry = vocabBySlug.get(span.dataset.slug);
-    if (!entry) return;
-    popEl = document.createElement('div');
-    popEl.className = 'vocabPop';
-    // Delegated: close button, plus in-card navigation — a [[wikilink]] to another
-    // KB word opens that word's card in place instead of jumping away to Sök.
-    popEl.addEventListener('click', (e) => {
-      if (e.target.closest('.vocabPopClose')) { closePop(); return; }
-      // The explicit "在 Sök 中打开完整笔记 →" link must always navigate to Sök —
-      // never treat it as in-card nav (its slug IS the current word, which is a
-      // vocab entry, so the body-wikilink branch below would otherwise swallow it).
-      if (e.target.closest('.vocabPopLink')) return;
-      const a = e.target.closest('a');
-      if (!a) return;
-      const m = (a.getAttribute('href') || '').match(/#note=([^&]+)/);
-      if (m) {
-        const slug = decodeURIComponent(m[1]);
-        if (vocabBySlug.has(slug)) { e.preventDefault(); showEntry(vocabBySlug.get(slug)); }
-      }
-    });
-    document.body.appendChild(popEl);
-    showEntry(entry);
-    positionPop(popEl, span);
-    // Mobile sheet: add a dimmed backdrop (tap to close) and lock background scroll.
-    if (popEl.classList.contains('sheet')) {
-      backdropEl = document.createElement('div');
-      backdropEl.className = 'vocabBackdrop';
-      backdropEl.addEventListener('click', closePop);
-      document.body.insertBefore(backdropEl, popEl);
-      document.body.classList.add('vocabPopOpen');
+  // Delegated handler for the glossary card: close button, plus in-card navigation
+  // — a [[wikilink]] to another KB word opens that word's card in place instead of
+  // jumping away to Sök.
+  function entryPopClick(e) {
+    if (e.target.closest('.vocabPopClose')) { closePop(); return; }
+    // The explicit "在 Sök 中打开完整笔记 →" link must always navigate to Sök —
+    // never treat it as in-card nav (its slug IS the current word, which is a
+    // vocab entry, so the body-wikilink branch below would otherwise swallow it).
+    if (e.target.closest('.vocabPopLink')) return;
+    const a = e.target.closest('a');
+    if (!a) return;
+    const m = (a.getAttribute('href') || '').match(/#note=([^&]+)/);
+    if (m) {
+      const slug = decodeURIComponent(m[1]);
+      if (vocabBySlug.has(slug)) { e.preventDefault(); showEntry(vocabBySlug.get(slug)); }
     }
   }
 
-  // Delegated: a tap on a highlighted word opens its glossary card (when 生词 is on).
+  function openPop(span) {
+    const entry = vocabBySlug.get(span.dataset.slug);
+    if (!entry) return;
+    mountPop('', entryPopClick);
+    showEntry(entry);
+  }
+
+  // ---- 查词 lookup card (find the KB note a non-linked surface belongs to) ----
+
+  // Rank KB vocab entries against a query. Lets an inflected/definite surface
+  // (e.g. "arbetet") surface its lemma ("arbete") via prefix/shared-prefix
+  // matching, and lets the learner type the 中文/English meaning when the form
+  // is irregular and shares little with the lemma.
+  function searchVocab(raw) {
+    const q = (raw || '').trim().toLowerCase();
+    if (!q) return [];
+    const hits = [];
+    for (const v of vocabList) {
+      const lemma = (v.lemma || '').toLowerCase();
+      let score = 0;
+      if (lemma === q) score = 100;
+      else if (lemma.startsWith(q) || q.startsWith(lemma)) score = 80 - Math.abs(lemma.length - q.length);
+      else if ((v.forms || []).some((f) => (f || '').toLowerCase() === q)) score = 75;
+      else if (lemma.includes(q) || q.includes(lemma)) score = 55;
+      else {
+        let p = 0;
+        while (p < lemma.length && p < q.length && lemma[p] === q[p]) p += 1;
+        if (p >= 3) score = 20 + p;
+      }
+      if ((v.zh || '').toLowerCase().includes(q) || (v.en || '').toLowerCase().includes(q)) {
+        score = Math.max(score, 45);
+      }
+      if (score > 0) hits.push({ v, score });
+    }
+    hits.sort((a, b) => b.score - a.score || a.v.lemma.localeCompare(b.v.lemma));
+    return hits.slice(0, 30).map((h) => h.v);
+  }
+
+  function lookupResultRowHtml(v, surface) {
+    const meta = [];
+    if (v.ordklass) meta.push(escapeHtml(v.ordklass));
+    if (v.cefr) meta.push(escapeHtml(v.cefr));
+    if (v.known) meta.push('✓');
+    const gloss = [v.zh, v.en].filter(Boolean).map(escapeHtml).join(' · ');
+    const queued = linkQueue.some((q) => q.slug === v.slug && q.surface.toLowerCase() === surface.toLowerCase());
+    return (
+      `<div class="lookupResult">` +
+        `<div class="lookupResultText">` +
+          `<div class="lookupResultMain">` +
+            `<span class="lookupResultLemma">${escapeHtml(v.lemma)}</span>` +
+            (meta.length ? `<span class="lookupResultMeta">${meta.join(' · ')}</span>` : '') +
+          `</div>` +
+          (gloss ? `<div class="lookupResultGloss">🇨🇳 ${gloss}</div>` : '') +
+        `</div>` +
+        `<button type="button" class="lookupLinkBtn${queued ? ' queued' : ''}" data-slug="${escapeHtml(v.slug)}"${queued ? ' disabled' : ''}>` +
+          (queued ? '✓ 已加入' : '🔗 链接') +
+        `</button>` +
+      `</div>`
+    );
+  }
+
+  // Queue a surface → KB-word link, and give instant feedback: register the
+  // surface in the live index and promote any visible occurrences into working
+  // glossary chips right away (the permanent write happens later via /link-forms).
+  function confirmLink(surface, v) {
+    const key = surface.toLowerCase();
+    if (!linkQueue.some((q) => q.slug === v.slug && q.surface.toLowerCase() === key)) {
+      linkQueue.push({ surface, slug: v.slug, lemma: v.lemma });
+      saveQueue();
+      renderLinkBtn();
+    }
+    if (!vocabIndex.has(key)) vocabIndex.set(key, v);
+    if (!(v.forms || []).some((f) => (f || '').toLowerCase() === key)) (v.forms = v.forms || []).push(surface);
+    promoteLookupWords(key, v);
+  }
+
+  function promoteLookupWords(surfaceKey, entry) {
+    const bodyEl = viewEl.querySelector('.articleBody');
+    if (!bodyEl) return;
+    bodyEl.querySelectorAll('.lookupWord').forEach((el) => {
+      if ((el.textContent || '').toLowerCase() === surfaceKey) {
+        el.className = 'vocabWord' + (entry.known ? ' known' : '');
+        el.dataset.slug = entry.slug;
+      }
+    });
+  }
+
+  function openLookup(span) {
+    const surface = (span.textContent || '').trim();
+    mountPop('lookupPop', (e) => { if (e.target.closest('.vocabPopClose')) closePop(); });
+    popEl.innerHTML =
+      `<div class="vocabPopHeader lookupHead">` +
+        `<span class="vocabPopGrip" aria-hidden="true"></span>` +
+        `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
+        `<div class="lookupTitle">🔍 在 KB 里查找 <b>${escapeHtml(surface)}</b></div>` +
+        `<input type="search" class="lookupInput" autocomplete="off" placeholder="瑞典语 / 中文 / 英文…" />` +
+        `<div class="lookupHint">找到正确的词 → 「🔗 链接」把 <b>${escapeHtml(surface)}</b> 永久接到它。没找到？说明 KB 里确实还没有。</div>` +
+      `</div>` +
+      `<div class="lookupResults"></div>`;
+    const input = popEl.querySelector('.lookupInput');
+    const resultsEl = popEl.querySelector('.lookupResults');
+    function renderResults() {
+      if (!input.value.trim()) { resultsEl.innerHTML = '<p class="lookupEmpty">输入要查找的词…</p>'; return; }
+      const hits = searchVocab(input.value);
+      if (!hits.length) { resultsEl.innerHTML = '<p class="lookupEmpty">KB 里没找到匹配 —— 这词可能确实还没入库。</p>'; return; }
+      resultsEl.innerHTML = hits.map((v) => lookupResultRowHtml(v, surface)).join('');
+    }
+    input.value = surface;
+    input.addEventListener('input', renderResults);
+    resultsEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('.lookupLinkBtn');
+      if (!btn || btn.disabled) return;
+      const v = vocabBySlug.get(btn.dataset.slug);
+      if (!v) return;
+      confirmLink(surface, v);
+      renderResults();
+    });
+    renderResults();
+    setTimeout(() => { try { input.focus(); input.select(); } catch (_e) {} }, 50);
+  }
+
+  // Delegated: a tap on a KB word opens its glossary card (when 生词 is on); a tap
+  // on a plain word opens the 查词 lookup card (when 查词模式 is on).
   viewEl.addEventListener('click', (e) => {
-    const span = e.target.closest('.vocabWord');
-    if (!span || !vocabOn) return;
-    e.preventDefault();
-    openPop(span);
+    const vw = e.target.closest('.vocabWord');
+    if (vw && vocabOn) { e.preventDefault(); openPop(vw); return; }
+    const lw = e.target.closest('.lookupWord');
+    if (lw && lookupMode) { e.preventDefault(); openLookup(lw); }
   });
   document.addEventListener('click', (e) => {
     if (!popEl) return;
-    if (e.target.closest('.vocabPop') || e.target.closest('.vocabWord')) return;
+    if (e.target.closest('.vocabPop') || e.target.closest('.vocabWord') || e.target.closest('.lookupWord')) return;
     closePop();
   });
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closePop(); });
@@ -404,9 +588,13 @@
     document.getElementById('mobileBackBtn').addEventListener('click', backToList);
 
     // Turn KB words in the freshly rendered text into clickable glossary chips.
+    // When 查词模式 is on, also make the remaining (non-KB) words tappable.
     closePop();
     const bodyEl = viewEl.querySelector('.articleBody');
-    if (bodyEl) linkifyVocab(bodyEl);
+    if (bodyEl) {
+      linkifyVocab(bodyEl);
+      if (lookupMode) decorateLookup(bodyEl);
+    }
     viewEl.classList.toggle('vocab-off', !vocabOn);
 
     // Mobile master-detail: hide the list, show the reading pane full-screen.
@@ -450,6 +638,100 @@
     viewEl.classList.toggle('vocab-off', !vocabOn);
     if (!vocabOn) closePop();
   });
+
+  // 查词模式 toggle — adds/removes the .lookupWord wrapping on the current article
+  // in place (no re-render, scroll preserved), mirroring how 生词 flips its chips.
+  const lookupBtn = document.getElementById('toggleLookup');
+  if (lookupBtn) {
+    lookupBtn.classList.toggle('active', lookupMode);
+    lookupBtn.addEventListener('click', () => {
+      lookupMode = !lookupMode;
+      try { localStorage.setItem(LS_LOOKUP, lookupMode ? '1' : '0'); } catch (_e) {}
+      lookupBtn.classList.toggle('active', lookupMode);
+      const bodyEl = viewEl.querySelector('.articleBody');
+      if (bodyEl) {
+        if (lookupMode) decorateLookup(bodyEl);
+        else { undecorateLookup(bodyEl); }
+      }
+      if (!lookupMode) closePop();
+    });
+  }
+
+  // 链接清单 — the queued surface → KB-word links, with a ready-to-paste
+  // /link-forms command for writing them back permanently.
+  const linkBtn = document.getElementById('openLinkQueue');
+  function renderLinkBtn() {
+    if (!linkBtn) return;
+    linkBtn.textContent = '🔗 链接清单' + (linkQueue.length ? ' (' + linkQueue.length + ')' : '');
+    linkBtn.classList.toggle('active', linkQueue.length > 0);
+  }
+  function linkCommandText() {
+    const bySlug = new Map();
+    for (const q of linkQueue) {
+      if (!bySlug.has(q.slug)) bySlug.set(q.slug, []);
+      const arr = bySlug.get(q.slug);
+      if (!arr.some((f) => f.toLowerCase() === q.surface.toLowerCase())) arr.push(q.surface);
+    }
+    const lines = ['/link-forms'];
+    for (const [slug, forms] of bySlug) lines.push(`${slug}: ${forms.join(', ')}`);
+    return lines.join('\n');
+  }
+  function renderQueuePanel() {
+    if (!popEl) return;
+    const header =
+      `<div class="vocabPopHeader">` +
+        `<span class="vocabPopGrip" aria-hidden="true"></span>` +
+        `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
+        `<div class="lookupTitle">🔗 待链接清单</div>` +
+        `<div class="lookupHint">回 Claude Code 粘贴下面的命令跑 <code>/link-forms</code>，把这些形式永久写进词笔记；<code>/sync</code> 推送后阅读站全局生效。</div>` +
+      `</div>`;
+    if (!linkQueue.length) {
+      popEl.innerHTML = header +
+        `<div class="linkQueueBody"><p class="lookupEmpty">还没有待链接的词。开启 🔍 查词，点正文里没链接、但其实 KB 已有的词。</p></div>`;
+      return;
+    }
+    const rows = linkQueue.map((q, i) =>
+      `<div class="linkQueueRow">` +
+        `<span class="lqSurface">${escapeHtml(q.surface)}</span>` +
+        `<span class="lqArrow">→</span>` +
+        `<span class="lqLemma">${escapeHtml(q.lemma)}</span>` +
+        `<button type="button" class="linkQueueRemove" data-i="${i}" aria-label="移除">✕</button>` +
+      `</div>`).join('');
+    popEl.innerHTML = header +
+      `<div class="linkQueueBody">` +
+        rows +
+        `<pre class="linkQueueCmd">${escapeHtml(linkCommandText())}</pre>` +
+        `<div class="linkQueueActions">` +
+          `<button type="button" class="viewBtn linkQueueCopy">📋 复制命令</button>` +
+          `<button type="button" class="viewBtn linkQueueClear">清空</button>` +
+        `</div>` +
+      `</div>`;
+  }
+  function openLinkQueue() {
+    mountPop('linkQueuePop', (e) => {
+      if (e.target.closest('.vocabPopClose')) { closePop(); return; }
+      const rm = e.target.closest('.linkQueueRemove');
+      if (rm) {
+        linkQueue.splice(Number(rm.dataset.i), 1);
+        saveQueue(); renderLinkBtn(); renderQueuePanel();
+        return;
+      }
+      if (e.target.closest('.linkQueueClear')) {
+        linkQueue = []; saveQueue(); renderLinkBtn(); renderQueuePanel();
+        return;
+      }
+      const copy = e.target.closest('.linkQueueCopy');
+      if (copy) {
+        const text = linkCommandText();
+        const done = () => { copy.textContent = '✓ 已复制'; setTimeout(() => { if (copy.isConnected) copy.textContent = '📋 复制命令'; }, 1500); };
+        if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(done, done);
+        else done();
+      }
+    });
+    renderQueuePanel();
+  }
+  if (linkBtn) linkBtn.addEventListener('click', openLinkQueue);
+  renderLinkBtn();
 
   // ---------- init ----------
 
