@@ -449,6 +449,16 @@ function setMode(mode) {
   elements.shell.classList.toggle("mode-detail", mode === "detail");
 }
 
+// Focus mode hides the middle browse column so a deep-linked note (e.g. opened
+// from Läsning) reads as a clean full-width article. The search sidebar stays.
+function setFocus(on) {
+  elements.shell.classList.toggle("mode-focus", on);
+}
+
+function exitFocus() {
+  if (elements.shell.classList.contains("mode-focus")) setFocus(false);
+}
+
 function parseHashSlug() {
   const match = /(?:^#|&)note=([^&]+)/.exec(location.hash);
   return match ? decodeURIComponent(match[1]) : null;
@@ -534,12 +544,14 @@ function syncSidebarExtras() {
 
 function bindEvents() {
   elements.searchInput.addEventListener("input", (event) => {
+    exitFocus(); // user wants to browse → bring the results column back
     state.query = event.target.value;
     state.activeIndex = -1;
     renderResults();
   });
 
   elements.sortSelect.addEventListener("change", (event) => {
+    exitFocus();
     state.sort = event.target.value;
     renderResults();
   });
@@ -547,6 +559,7 @@ function bindEvents() {
   elements.typeFilters.addEventListener("click", (event) => {
     const button = event.target.closest("[data-type]");
     if (!button) return;
+    exitFocus();
     state.type = button.dataset.type;
     state.activeIndex = -1;
     renderFilters();
@@ -568,7 +581,10 @@ function bindEvents() {
     if (bySlug.has(target)) navigateTo(target);
   });
 
-  elements.backButton.addEventListener("click", () => showList());
+  elements.backButton.addEventListener("click", () => {
+    if (elements.shell.classList.contains("mode-focus")) exitFocus();
+    else showList();
+  });
 
   window.addEventListener("popstate", () => {
     const slug = parseHashSlug();
@@ -602,6 +618,7 @@ function init() {
   if (initialSlug && bySlug.has(initialSlug)) {
     renderDetail(initialSlug);
     if (mobileQuery.matches) setMode("detail");
+    else setFocus(true); // arrived via deep link → focused article view
   } else if (!mobileQuery.matches) {
     selectFirstVisible();
   }
