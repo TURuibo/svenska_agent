@@ -34,15 +34,75 @@ description: >
 
 ## 2. 情景分类与篇幅指南 (Scenario Taxonomy & Length)
 
+情景有**三种基础 type**（决定结构与篇幅）：
+
 | 类型 (type token) | 描述 | 典型篇幅 |
 |-------------------|------|----------|
 | `dialog` | 两人或多人对话，有说话人标签（`A:` / `B:` 等） | 6–12 轮次（往返各算一轮） |
-| `text` | 功能性文本：邮件、短信、告示、菜单、公告 | 80–150 词 |
+| `text` | 功能性 / 信息性 / 论说性书面文本（见下方体裁目录） | 80–150 词 |
 | `story` | 短篇叙述：第一人称或第三人称小故事 | 80–150 词 |
 
 **原则：不要太长。** 每篇文本应让初学者能在一次学习中消化，不追求完整性，追求密度与可理解性。
+若用户未指定 type，按下方体裁目录的 type 列自动选择最合适的（例如"问路"→ dialog，"租房公告"→ text，"我的第一天"→ story）。
 
-若用户未指定类型，根据情景主题自动选择最合适的类型（例如"问路"→ 对话，"租房公告"→ 功能性文本，"我的第一天"→ 叙述）。
+### 2a. 国家考试体裁目录 (National-test genre catalog)
+
+下表把瑞典 **SFI** 与 **Svenska som andraspråk (Sva)** 国家考试 (Nationella prov) 里反复出现的体裁，
+映射到本项目的 `type`、CEFR 区间、以及对应的考试部分 (delprov: **Läsa** 读 · **Höra** 听 · **Skriva** 写 ·
+**Tala/Samtala** 说)。生成时**按体裁选择正确的 type 和语域**；`/scenario <体裁/主题>` 与每日 `/dagens-scenario`
+轮换都从这张目录取材。⭐ = 用户特别点名的体裁。
+
+**对话/口语类 (dialog — Tala/Höra)**
+- `vardagssamtal` 服务场景对话（商店 / 医院 / 工作）— A2–B1
+- `telefonsamtal` 电话预约 / 取消 / 改约 — A2
+- `intervju-arbete` **求职面试**（角色扮演 rollspel）— B1 ⭐
+- `intervju-portratt` 报刊 / 人物专访（Q&A 作阅读文本）— B1–B2 ⭐
+- `diskussion` 双人讨论 / 班级辩论（陈述 + 反驳观点，达成一致）— B1 ⭐
+- `presentation` 口头陈述 + 小组讨论（delprov A）— A2–B1
+
+**功能性 / 信息性文本 (text — Läsa/Skriva, A2–B1)**
+- `anslag` 公告 / 社区·市政信息 / 海报（停水、回收、开放时间）— ⭐社区通知
+- `skolinfo` **学校 → 监护人通知**（家长会、请假、活动 information till vårdnadshavare）— ⭐学校通知
+- `grannforum` **邻里论坛帖 / 致住户协会的投书**（近邻议题：噪音、垃圾、院子）— ⭐小区讨论帖
+- `meddelande` 短信 / 便条 / 私人留言（读出意图：约时间 / 道歉 / 通知迟到）
+- `personligt-brev` 私人信件 / 邮件（致朋友，含 hälsnings-/avskedsfras）
+- `inbjudan` 邀请函（聚会 / 会议，含 OSA）
+- `annons` 广告（租房 / 招聘 platsannons / 二手 / 活动）
+- `schema` 日程 / 节目单 / 时刻表 / 开放时间（非连续文本，见 §2b）
+- `instruktion` 说明书 / 食谱 / 分步指引（imperativ + först/sedan/till sist）
+- `notis` · `nyhetsartikel` 简讯 / 新闻报道（rubrik + ingress + brödtext，答 vem/vad/när/var/varför）
+- `nyhetsinslag` 简短新闻 / 天气预报（Höra 听力脚本）
+
+**正式 / 论说 / 书面产出 (text — Skriva, B1–B2 进阶)**
+- `formellt-brev` 致政府 / 企业 / 学校的正式信函（mottagaranpassning、niande、明确 ärende）
+- `felanmalan` 报修 / 退换货 reklamation / 投诉（问题描述 + 期望处理 önskad åtgärd）
+- `insandare` 读者来信（短论说：presentera ämne → argument → förslag → uppmaning → 署名）— B1
+- `debattartikel` 辩论文章 / 辩论帖（tes + 论据 + 反驳 motargument）— B1–B2
+- `kronika` 专栏随笔（个人反思 jag-perspektiv，由日常引向更大主题）— B1
+- `recension` 评论（电影 / 书 / 餐厅：referat + 主观 omdöme）— B1
+- `referat` 客观转述 / 摘要（referatmarkörer + källhänvisning，无个人观点）— B1–B2
+- `faktatext` 事实文 / 说明性长文（rubrik + stycken）— B1
+- `utredande` 论述文 / PM（多源 källhänvisning + 结论）— B2（aspirational，每月最多 1 篇）
+- `blankett` 表格 / 申请表（填写；非连续文本，见 §2b）— A2–B1
+
+**叙述类 (story — Läsa/Skriva)**
+- `berattelse` 记叙文 / 短篇（inledning–konflikt–avslutning，可留 oväntat slut）— A2–B1
+- `monolog` 自我介绍 / 讲一段经历（口头独白脚本）— A2–B1
+- `dikt` 诗 / 小说节选（虚构；纯文本管线下近似处理，无配图）— A2–B1
+
+### 2b. 非连续文本写法 (icke-löpande text)
+
+`blankett` / `schema` / `diagram` 等是**非连续文本**，不适合 `sentences:` 一行一句的契约。生成这类体裁时：
+可读正文用**字段 + 说明行**呈现（如 `Namn: ______`、`Datum: ______`、`Tid: 09:00–12:00`），
+`sentences:` 节只收录其中**完整的指令句 / 说明句**（如 "Fyll i blanketten med bläck." / "Biblioteket
+har öppet till klockan 19 på torsdagar."），不要把表格字段硬拆成句子。其余 words/phrases 照常提取。
+
+### 2c. 语域提醒 (register)
+
+- **正式 / 论说体裁**（formellt-brev、insandare、debattartikel、referat、utredande、felanmalan）用书面、
+  礼貌、niande 语域，结构清晰（tes/ärende → 论据/内容 → 结尾/署名），CEFR 偏 B1–B2，**不要降到 A1**。
+- **功能性体裁**（anslag、annons、schema、blankett、notis）用简洁、要点式语域，A2 即可。
+- **对话体裁**用自然口语；面试 / 辩论比闲聊正式半档。
 
 ---
 

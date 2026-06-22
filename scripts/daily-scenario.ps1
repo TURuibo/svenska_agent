@@ -1,7 +1,8 @@
 ﻿<#
 .SYNOPSIS
   每日由 Windows 任务计划调用：跑 headless Claude Code 生成今天的情景练习
-  （对话 / 功能文本 / 小故事）到 inbox/，然后弹一个 Windows 系统通知。
+  （一周一轮、每天 5 篇：对话 / 功能文本 / 小故事）到 inbox/，逐篇 import+rebuild，然后弹 Windows 通知。
+  轮换节奏（OFFSET=day-of-year mod 7，取 index mod 7==OFFSET 的 5 篇）固化在 dagens-scenario.md §1。
 
   手动测试： powershell -NoProfile -ExecutionPolicy Bypass -File scripts\daily-scenario.ps1
   生成指定日期： ... -File scripts\daily-scenario.ps1 -Date 2026-06-15
@@ -16,7 +17,7 @@ $Proj  = 'C:\Users\ruibo\Documents\svenska_agent'
 $Inbox = Join-Path $Proj 'inbox'
 $Log   = Join-Path $Proj 'scripts\scenario-run.log'
 $Model = 'claude-opus-4-8'   # 语言质量要求高，用 opus；想省成本可改 claude-sonnet-4-6
-$TimeoutMin = 12             # 生成上限；超时杀进程树，不留 leftover
+$TimeoutMin = 40             # 批量生成 5 篇上限；超时杀进程树，不留 leftover
 
 . (Join-Path $PSScriptRoot 'headless-claude.ps1')   # Invoke-ClaudeHeadless / Clear-HeadlessLeftovers
 
@@ -32,26 +33,25 @@ if (-not $claude) {
 }
 if (-not $claude) { "ERROR: claude.exe not found on PATH" | Add-Content -Encoding utf8 $Log; throw "claude.exe not found" }
 
-# --- 算好 date + index，传给命令（headless 运行就不需要再做任何计算/Bash）---
+# --- 算好 date，裸调命令（不传 index = 批量模式：命令自己按 OFFSET=day-of-year mod 7 生成当天 5 篇）---
+#     一周一轮、每天 5 篇、stride-7 的节奏固化在 dagens-scenario.md §1；脚本只管裸调，不再预算 index。
 $d = if ($Date) { [datetime]::ParseExact($Date, 'yyyy-MM-dd', $null) } else { Get-Date }
 $dateStr = $d.ToString('yyyy-MM-dd')
-$index   = $d.DayOfYear % 14
 
-# --- 断点续跑：今天的情景文件若还躺在 inbox（成功跑完会被 import-and-rebuild 移到 imported/，
-#     不会留在 inbox），说明上次「生成成功但 import/建站/归档/push 没跑完就被中断」。
-#     这种情况跳过生成，直接补跑后半截 import-and-rebuild，避免再生成一篇 + 旧文件成孤儿。
-#     -Force 可强制重新生成（手动想多出一篇时用）。---
-$pending = Get-ChildItem -Path $Inbox -Filter "scenario-$dateStr-*.md" -ErrorAction SilentlyContinue |
-           Sort-Object LastWriteTime -Descending | Select-Object -First 1
-$resume = ($null -ne $pending -and -not $Force)
+# --- 断点续跑：今天的情景文件若还躺在 inbox（成功会被 import-and-rebuild 移到 imported/，不留 inbox），
+#     说明上次「生成成功但 import/建站/归档/push 没跑完就被中断」。这种情况跳过生成，直接补跑后半截
+#     import（对所有 pending 逐篇）。注意：批量下若上次只生成了部分（如崩在第 3 篇），这里会跳过生成、
+#     只导入已有那几篇——缺的当天不会补（隔天 OFFSET 不同）；想强制重生成整批用 -Force。---
+$pending = @(Get-ChildItem -Path $Inbox -Filter "scenario-$dateStr-*.md" -ErrorAction SilentlyContinue)
+$resume = ($pending.Count -gt 0 -and -not $Force)
 
 if ($resume) {
-  "RESUME: $($pending.Name) 已在 inbox 未导入（上次被中断）—— 跳过生成，直接 import+rebuild" | Add-Content -Encoding utf8 $Log
+  "RESUME: 今天已有 $($pending.Count) 篇在 inbox 未导入（上次被中断）—— 跳过生成，直接 import+rebuild" | Add-Content -Encoding utf8 $Log
 } else {
-  $prompt  = "/dagens-scenario $dateStr $index"
+  $prompt  = "/dagens-scenario $dateStr"   # 裸调 = 批量生成当天 5 篇
   "prompt: $prompt" | Add-Content -Encoding utf8 $Log
 
-  # --- 跑 headless claude：带超时 + 进程树清理（见 headless-claude.ps1），只开放读写/查找工具，不给 Bash ---
+  # --- 跑 headless claude：批量生成 5 篇要更长超时；只开放读写/查找工具，不给 Bash ---
   $r = Invoke-ClaudeHeadless -Claude $claude -Prompt $prompt -Model $Model `
          -AllowedTools 'Read,Glob,Grep,Edit,Write' -TimeoutMinutes $TimeoutMin
   $r.Output | Add-Content -Encoding utf8 $Log
@@ -59,10 +59,10 @@ if ($resume) {
   "claude exit=$($r.ExitCode)" | Add-Content -Encoding utf8 $Log
 }
 
-# --- 找今天（或指定日期）生成的文件 ---
+# --- 找今天（或指定日期）生成的所有文件（批量 = 5 篇）---
 $stamp = $dateStr
-$file  = Get-ChildItem -Path $Inbox -Filter "scenario-$stamp-*.md" -ErrorAction SilentlyContinue |
-         Sort-Object LastWriteTime -Descending | Select-Object -First 1
+$files = @(Get-ChildItem -Path $Inbox -Filter "scenario-$stamp-*.md" -ErrorAction SilentlyContinue |
+           Sort-Object Name)
 
 # --- 通知函数：WinRT toast，失败回退到气泡提示 ---
 function Show-Toast([string]$Title, [string]$Text) {
@@ -89,17 +89,21 @@ function Show-Toast([string]$Title, [string]$Text) {
   }
 }
 
-if ($file) {
-  "OK generated: $($file.Name)" | Add-Content -Encoding utf8 $Log
-  # --- 自动 import + rebuild + 归档（共享助手脚本）---
+if ($files.Count -gt 0) {
+  "OK generated: $($files.Count) 篇 — $(($files | ForEach-Object { $_.Name }) -join ', ')" | Add-Content -Encoding utf8 $Log
+  # --- 自动 import + rebuild + 归档（共享助手脚本）—— 逐篇调用（它内部有全局锁，串行安全）---
   $ir = Join-Path $Proj 'scripts\import-and-rebuild.ps1'
-  & powershell.exe -NoProfile -ExecutionPolicy Bypass -File $ir -File $file.FullName
-  $irExit = $LASTEXITCODE
-  "import-and-rebuild exit=$irExit" | Add-Content -Encoding utf8 $Log
-  if ($irExit -eq 0) {
-    Show-Toast "🇸🇪 今日情景已生成并录入" "$($file.BaseName)  —  已进知识库 · 站点已重建"
+  $okCount = 0; $failCount = 0
+  foreach ($f in $files) {
+    & powershell.exe -NoProfile -ExecutionPolicy Bypass -File $ir -File $f.FullName
+    $irExit = $LASTEXITCODE
+    "import-and-rebuild [$($f.Name)] exit=$irExit" | Add-Content -Encoding utf8 $Log
+    if ($irExit -eq 0) { $okCount++ } else { $failCount++ }
+  }
+  if ($failCount -eq 0) {
+    Show-Toast "🇸🇪 今日情景已生成并录入" "$okCount 篇已进知识库 · 站点已重建"
   } else {
-    Show-Toast "⚠️ 情景已生成但录入失败" "$($file.BaseName) 仍在 inbox，详见 scripts\import-rebuild.log"
+    Show-Toast "⚠️ 情景部分录入失败" "$okCount 篇成功 / $failCount 篇仍在 inbox，详见 scripts\import-rebuild.log"
   }
 } else {
   "ERROR: no inbox file for $stamp" | Add-Content -Encoding utf8 $Log
