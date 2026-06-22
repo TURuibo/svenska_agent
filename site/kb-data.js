@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 11:15:47",
+  "generatedAt": "2026-06-22 11:36:30",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -30683,6 +30683,7 @@ window.KB_DATA = {
         "orolig",
         "ovanlig",
         "praktisk",
+        "rädd",
         "rolig",
         "säker",
         "särskild",
@@ -40026,6 +40027,39 @@ window.KB_DATA = {
         "source-2026-06-10-zlatan-subst-verb",
         "topic-personer"
       ]
+    },
+    {
+      "slug": "förbättra",
+      "type": "word",
+      "title": "förbättra",
+      "path": "knowledge_base/words/förbättra.md",
+      "body": "# förbättra — verb (grupp 1)\n\n📖 中文：改善、改进、提高 · English: to improve\n发音提示：för-**BÄTT**-ra；重音在 bätt，för- 弱读。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) förbättra |\n| Presens | **förbättrar** |\n| Preteritum | förbättrade |\n| Supinum | förbättrat |\n| Imperativ | förbättra! |\n\n> grupp 1（词干以 -a 结尾，最规则）：presens `-ar`、preteritum `-ade`、supinum `-at`。\n> 你输入的 `förbättrar` 是 **presens**。\n\n## 词组搭配 (Collocations)\n\n- `förbättra sina kunskaper` — 提高自己的知识/水平\n- `förbättra läget / situationen` — 改善局面/状况\n- `förbättra sig` — （自己）进步、变好（反身）\n- `ständig förbättring` — 持续改进\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag vill förbättra min svenska. — 🇨🇳 我想提高我的瑞典语。\n- 🇸🇪 Företaget förbättrar arbetsmiljön. — 🇨🇳 公司在改善工作环境。\n- 🇸🇪 Hennes hälsa har förbättrats. — 🇨🇳 她的健康状况好转了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bättre]] (更好的，bra 的比较级), [[förbättring]] (改善/改进)\n- 同义词: [[förbättras]] (变好，自动/s-形式), [[utveckla]] (发展/开发)\n- 反义词: [[försämra]] (使变差、恶化)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ 及物 vs 自动：`förbättra ngt`（**改善某物**，要宾语）vs `förbättras`（**自己变好**，s-动词、不带宾语）。\n  例：Vi förbättrar X（我们改善 X）/ X förbättras（X 在变好）。\n- 词根是比较级 **bättre**（更好），för- + bättra = \"使更好\"。",
+      "excerpt": "förbättra — verb (grupp 1) 📖 中文：改善、改进、提高 · English: to improve 发音提示：för BÄTT ra；重音在 bätt，för 弱读。 语法变形 (Forms) Tempus Swedish Infinitiv (att) förbättra Presens förbättrar Preteritum förbättrade Supinum förbättrat Imperat",
+      "forms": [
+        "förbättra",
+        "förbättrar",
+        "förbättrade",
+        "förbättrat",
+        "förbättra!"
+      ],
+      "links": [
+        "bättre",
+        "förbättras",
+        "förbättring",
+        "försämra",
+        "utveckla"
+      ],
+      "searchText": "förbättra förbättra knowledge_base/words/förbättra.md ---\ntype: word\nlemma: \"förbättra\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"改善、改进、提高\"\nen: \"to improve\"\nsynonyms: [förbättras, utveckla]\nantonyms: [försämra]\nfamily: [bättre, förbättring]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förbättra — verb (grupp 1)\n\n📖 中文：改善、改进、提高 · English: to improve\n发音提示：för-**BÄTT**-ra；重音在 bätt，för- 弱读。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) förbättra |\n| Presens | **förbättrar** |\n| Preteritum | förbättrade |\n| Supinum | förbättrat |\n| Imperativ | förbättra! |\n\n> grupp 1（词干以 -a 结尾，最规则）：presens `-ar`、preteritum `-ade`、supinum `-at`。\n> 你输入的 `förbättrar` 是 **presens**。\n\n## 词组搭配 (Collocations)\n\n- `förbättra sina kunskaper` — 提高自己的知识/水平\n- `förbättra läget / situationen` — 改善局面/状况\n- `förbättra sig` — （自己）进步、变好（反身）\n- `ständig förbättring` — 持续改进\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag vill förbättra min svenska. — 🇨🇳 我想提高我的瑞典语。\n- 🇸🇪 Företaget förbättrar arbetsmiljön. — 🇨🇳 公司在改善工作环境。\n- 🇸🇪 Hennes hälsa har förbättrats. — 🇨🇳 她的健康状况好转了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bättre]] (更好的，bra 的比较级), [[förbättring]] (改善/改进)\n- 同义词: [[förbättras]] (变好，自动/s-形式), [[utveckla]] (发展/开发)\n- 反义词: [[försämra]] (使变差、恶化)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ 及物 vs 自动：`förbättra ngt`（**改善某物**，要宾语）vs `förbättras`（**自己变好**，s-动词、不带宾语）。\n  例：Vi förbättrar X（我们改善 X）/ X förbättras（X 在变好）。\n- 词根是比较级 **bättre**（更好），för- + bättra = \"使更好\"。\n",
+      "lemma": "förbättra",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "改善、改进、提高",
+      "en": "to improve",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": []
     },
     {
       "slug": "föredra",
@@ -51020,6 +51054,7 @@ window.KB_DATA = {
         "topic-karaktarsord"
       ],
       "backlinks": [
+        "rädd",
         "skygg",
         "source-2026-06-02-astrid-lindgren",
         "topic-karaktarsord"
@@ -53051,6 +53086,7 @@ window.KB_DATA = {
         "bekymmersam",
         "lugn",
         "oro",
+        "rädd",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "sent-det-har-varit-oroligt-kring-norges-kungahus",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
@@ -54920,6 +54956,42 @@ window.KB_DATA = {
         "source-2026-06-09-zlatan-bio",
         "topic-nyheter-vecka22"
       ]
+    },
+    {
+      "slug": "rädd",
+      "type": "word",
+      "title": "rädd",
+      "path": "knowledge_base/words/rädd.md",
+      "body": "# rädd — adjektiv\n\n📖 中文：害怕的、担心的 · English: afraid / scared\n发音提示：rädd [rɛd]；短 ä，结尾 dd 收得干脆。\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| en-form (grundform) | rädd |\n| ett-form | rätt → **rädt**（罕见，几乎不用中性单数）|\n| plural / bestämd | rädda |\n| komparativ | räddare |\n| superlativ | räddast |\n\n> ⚠️ 注意：**rädda**（rädd 的复数）≠ 动词 **rädda**（拯救）——拼法相同，靠语境/词类区分。\n\n## 词组搭配 (Collocations)\n\n- `vara rädd för (något)` — 害怕某物\n- `rädd för att (göra)` — 害怕去做某事\n- `jag är rädd att …` — 恐怕…（委婉表达坏消息）\n- `dödsrädd` — 怕得要死\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är rädd för hundar. — 🇨🇳 我怕狗。\n- 🇸🇪 Barnen är rädda i mörkret. — 🇨🇳 孩子们在黑暗里害怕。\n- 🇸🇪 Jag är rädd att vi kommer för sent. — 🇨🇳 恐怕我们要迟到了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rädsla]] (en, 恐惧), [[rädas]] (v. 惧怕，文学语体)\n- 同义词: [[orolig]] (担心的、不安的)\n- 反义词: [[modig]] (勇敢的), [[trygg]] (安心的)\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- 固定搭配是 **rädd för**（怕…）；\"害怕做某事\" = `rädd för att + infinitiv`。\n- `Jag är rädd att …` 是英语 \"I'm afraid that…\" 的对应，用来委婉引出不好的消息。\n- 中性单数 (ett-form) 实际几乎不用——`rädd` 多作表语 (vara rädd)，少作 ett-名词的定语。",
+      "excerpt": "rädd — adjektiv 📖 中文：害怕的、担心的 · English: afraid / scared 发音提示：rädd [rɛd]；短 ä，结尾 dd 收得干脆。 语法变形 (Forms) form exempel en form (grundform) rädd ett form rätt → rädt （罕见，几乎不用中性单数） plural / bestämd rädda komparativ räddare sup",
+      "forms": [
+        "rädd",
+        "rätt → rädt（罕见，几乎不用中性单数）",
+        "rädda",
+        "räddare",
+        "räddast"
+      ],
+      "links": [
+        "modig",
+        "orolig",
+        "rädas",
+        "rädsla",
+        "topic-karaktarsord",
+        "trygg"
+      ],
+      "searchText": "rädd rädd knowledge_base/words/rädd.md ---\ntype: word\nlemma: \"rädd\"\nordklass: adjektiv\ngenus: \"\"\ncefr: \"A1\"\nzh: \"害怕的、担心的\"\nen: \"afraid; scared\"\nsynonyms: [orolig]\nantonyms: [modig, trygg]\nfamily: [rädsla, rädas]\ntopics: [topic-karaktarsord]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rädd — adjektiv\n\n📖 中文：害怕的、担心的 · English: afraid / scared\n发音提示：rädd [rɛd]；短 ä，结尾 dd 收得干脆。\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| en-form (grundform) | rädd |\n| ett-form | rätt → **rädt**（罕见，几乎不用中性单数）|\n| plural / bestämd | rädda |\n| komparativ | räddare |\n| superlativ | räddast |\n\n> ⚠️ 注意：**rädda**（rädd 的复数）≠ 动词 **rädda**（拯救）——拼法相同，靠语境/词类区分。\n\n## 词组搭配 (Collocations)\n\n- `vara rädd för (något)` — 害怕某物\n- `rädd för att (göra)` — 害怕去做某事\n- `jag är rädd att …` — 恐怕…（委婉表达坏消息）\n- `dödsrädd` — 怕得要死\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är rädd för hundar. — 🇨🇳 我怕狗。\n- 🇸🇪 Barnen är rädda i mörkret. — 🇨🇳 孩子们在黑暗里害怕。\n- 🇸🇪 Jag är rädd att vi kommer för sent. — 🇨🇳 恐怕我们要迟到了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rädsla]] (en, 恐惧), [[rädas]] (v. 惧怕，文学语体)\n- 同义词: [[orolig]] (担心的、不安的)\n- 反义词: [[modig]] (勇敢的), [[trygg]] (安心的)\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- 固定搭配是 **rädd för**（怕…）；\"害怕做某事\" = `rädd för att + infinitiv`。\n- `Jag är rädd att …` 是英语 \"I'm afraid that…\" 的对应，用来委婉引出不好的消息。\n- 中性单数 (ett-form) 实际几乎不用——`rädd` 多作表语 (vara rädd)，少作 ett-名词的定语。\n",
+      "lemma": "rädd",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "害怕的、担心的",
+      "en": "afraid; scared",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-karaktarsord"
+      ],
+      "backlinks": []
     },
     {
       "slug": "rådjur",
