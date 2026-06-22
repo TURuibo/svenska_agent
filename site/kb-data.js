@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 15:00:30",
+  "generatedAt": "2026-06-22 15:03:06",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -29820,6 +29820,7 @@ window.KB_DATA = {
         "arbeta",
         "arbetare",
         "arbete",
+        "arbetsuppgift",
         "avdelning",
         "effektiv",
         "flexibel",
@@ -29843,6 +29844,7 @@ window.KB_DATA = {
         "strukturerad",
         "tjäna",
         "topic-yrken",
+        "uppgift",
         "vikarie",
         "yrke"
       ]
@@ -33458,6 +33460,7 @@ window.KB_DATA = {
       "backlinks": [
         "arbetare",
         "arbete",
+        "arbetsuppgift",
         "index",
         "jobb",
         "jobba",
@@ -33509,7 +33512,7 @@ window.KB_DATA = {
       "type": "word",
       "title": "arbete",
       "path": "knowledge_base/words/arbete.md",
-      "body": "# arbete — substantiv (ett)\n\n📖 中文：工作; 施工 · English: work; roadwork\n发音提示：ar-be-te（三音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett arbete |\n| bestämd sing. | arbetet |\n| obestämd pl. | arbeten |\n| bestämd pl. | arbetena |\n\n## 词组搭配 (Collocations)\n\n- `arbeten på vägen` — 公路施工\n- `söka arbete` — 找工作\n- `ha ett arbete` — 有工作\n\n## 例句 (Sentences)\n\n- 🇸🇪 I sommar ska det bli arbeten på flera vägar i Sverige. — 🇨🇳 今年夏天瑞典多条公路将施工。\n- 🇸🇪 Arbetena är till för att vägarna ska bli bättre. — 🇨🇳 施工是为了让路况变好。\n- 🇸🇪 Han söker arbete som ingenjör. — 🇨🇳 他正在找工程师工作。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[arbeta]], [[arbetare]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- `arbete` (ett) = 工作（名词概念）; `jobb` (ett) = 工作（口语）; `arbeta` = 工作（动词）\n- 施工含义多用复数 `arbeten`：väg**arbeten** = 道路施工",
+      "body": "# arbete — substantiv (ett)\n\n📖 中文：工作; 施工 · English: work; roadwork\n发音提示：ar-be-te（三音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett arbete |\n| bestämd sing. | arbetet |\n| obestämd pl. | arbeten |\n| bestämd pl. | arbetena |\n\n## 词组搭配 (Collocations)\n\n- `arbeten på vägen` — 公路施工\n- `söka arbete` — 找工作\n- `ha ett arbete` — 有工作\n\n## 例句 (Sentences)\n\n- 🇸🇪 I sommar ska det bli arbeten på flera vägar i Sverige. — 🇨🇳 今年夏天瑞典多条公路将施工。\n- 🇸🇪 Arbetena är till för att vägarna ska bli bättre. — 🇨🇳 施工是为了让路况变好。\n- 🇸🇪 Han söker arbete som ingenjör. — 🇨🇳 他正在找工程师工作。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[arbeta]], [[arbetare]], [[arbetsuppgift]] (工作任务/内容)\n- 同义词:\n- 反义词:\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- `arbete` (ett) = 工作（名词概念）; `jobb` (ett) = 工作（口语）; `arbeta` = 工作（动词）\n- 施工含义多用复数 `arbeten`：väg**arbeten** = 道路施工",
       "excerpt": "arbete — substantiv (ett) 📖 中文：工作; 施工 · English: work; roadwork 发音提示：ar be te（三音节） 语法变形 (Forms) form Swedish obestämd sing. ett arbete bestämd sing. arbetet obestämd pl. arbeten bestämd pl. arbetena 词组搭配 (Collocations) ",
       "forms": [
         "arbete",
@@ -33520,9 +33523,10 @@ window.KB_DATA = {
       "links": [
         "arbeta",
         "arbetare",
+        "arbetsuppgift",
         "topic-arbete"
       ],
-      "searchText": "arbete arbete knowledge_base/words/arbete.md ---\ntype: word\nlemma: \"arbete\"\nordklass: \"substantiv\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"工作; 施工\"\nen: \"work; roadwork\"\nsynonyms: []\nantonyms: []\nfamily: [\"arbeta\", \"arbetare\"]\ntopics: [\"topic-arbete\"]\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# arbete — substantiv (ett)\n\n📖 中文：工作; 施工 · English: work; roadwork\n发音提示：ar-be-te（三音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett arbete |\n| bestämd sing. | arbetet |\n| obestämd pl. | arbeten |\n| bestämd pl. | arbetena |\n\n## 词组搭配 (Collocations)\n\n- `arbeten på vägen` — 公路施工\n- `söka arbete` — 找工作\n- `ha ett arbete` — 有工作\n\n## 例句 (Sentences)\n\n- 🇸🇪 I sommar ska det bli arbeten på flera vägar i Sverige. — 🇨🇳 今年夏天瑞典多条公路将施工。\n- 🇸🇪 Arbetena är till för att vägarna ska bli bättre. — 🇨🇳 施工是为了让路况变好。\n- 🇸🇪 Han söker arbete som ingenjör. — 🇨🇳 他正在找工程师工作。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[arbeta]], [[arbetare]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- `arbete` (ett) = 工作（名词概念）; `jobb` (ett) = 工作（口语）; `arbeta` = 工作（动词）\n- 施工含义多用复数 `arbeten`：väg**arbeten** = 道路施工\n",
+      "searchText": "arbete arbete knowledge_base/words/arbete.md ---\ntype: word\nlemma: \"arbete\"\nordklass: \"substantiv\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"工作; 施工\"\nen: \"work; roadwork\"\nsynonyms: []\nantonyms: []\nfamily: [\"arbeta\", \"arbetare\", \"arbetsuppgift\"]\ntopics: [\"topic-arbete\"]\nsentences: []\nknown: false\ncreated: \"2026-06-18\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# arbete — substantiv (ett)\n\n📖 中文：工作; 施工 · English: work; roadwork\n发音提示：ar-be-te（三音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett arbete |\n| bestämd sing. | arbetet |\n| obestämd pl. | arbeten |\n| bestämd pl. | arbetena |\n\n## 词组搭配 (Collocations)\n\n- `arbeten på vägen` — 公路施工\n- `söka arbete` — 找工作\n- `ha ett arbete` — 有工作\n\n## 例句 (Sentences)\n\n- 🇸🇪 I sommar ska det bli arbeten på flera vägar i Sverige. — 🇨🇳 今年夏天瑞典多条公路将施工。\n- 🇸🇪 Arbetena är till för att vägarna ska bli bättre. — 🇨🇳 施工是为了让路况变好。\n- 🇸🇪 Han söker arbete som ingenjör. — 🇨🇳 他正在找工程师工作。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[arbeta]], [[arbetare]], [[arbetsuppgift]] (工作任务/内容)\n- 同义词:\n- 反义词:\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- `arbete` (ett) = 工作（名词概念）; `jobb` (ett) = 工作（口语）; `arbeta` = 工作（动词）\n- 施工含义多用复数 `arbeten`：väg**arbeten** = 道路施工\n",
       "lemma": "arbete",
       "ordklass": "substantiv",
       "cefr": "A2",
@@ -33537,12 +33541,50 @@ window.KB_DATA = {
       "backlinks": [
         "arbeta",
         "arbetare",
+        "arbetsuppgift",
         "jobb",
         "jobba",
         "sent-arbetena-är-till-för-att-vägarna",
         "sent-det-är-också-viktigt-att-köra",
         "sent-i-sommar-ska-det-bli-arbeten",
         "source-2026-06-18-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "arbetsuppgift",
+      "type": "word",
+      "title": "arbetsuppgift",
+      "path": "knowledge_base/words/arbetsuppgift.md",
+      "body": "# arbetsuppgift — substantiv (en)\n\n📖 中文：工作任务；工作内容；职责 · English: work task, job duty\n发音提示：ARbets-uppgift；合成词重音在第一部分。\n\n## 语法变形 (Forms)\n\n| Form | Obestämd | Bestämd |\n|------|----------|---------|\n| Singular | en arbetsuppgift | arbetsuppgiften |\n| Plural | arbetsuppgifter | arbetsuppgifterna |\n\n> 合成词 = **arbete** + **s**（fog-s 连接音）+ **uppgift**。\n\n## 词组搭配 (Collocations)\n\n- `dagliga arbetsuppgifter` — 日常工作内容\n- `mina arbetsuppgifter` — 我的工作职责\n- `en viktig arbetsuppgift` — 一项重要任务\n- `fördela arbetsuppgifter` — 分配任务\n- `utföra en arbetsuppgift` — 执行/完成一项任务\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vilka är dina arbetsuppgifter på jobbet? — 🇨🇳 你工作上的职责/内容有哪些？\n- 🇸🇪 Chefen fördelar arbetsuppgifterna varje måndag. — 🇨🇳 老板每周一分配工作任务。\n- 🇸🇪 En av mina arbetsuppgifter är att svara på mejl. — 🇨🇳 我的工作内容之一是回复邮件。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[arbete]] (ett, 工作), [[uppgift]] (en, 任务/信息), [[arbeta]] (v. 工作)\n- 同义词: [[uppgift]] (任务), [[uppdrag]] (任务、委托)\n- 反义词: —\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- 「工作内容/工作职责」最自然的说法就是 `arbetsuppgifter`（常用复数）。\n- 注意 fog-s：arbete**s**uppgift（很多瑞典语合成词在接缝处加 -s-）。\n- 近义 `uppdrag`(en) 更偏「受委托的任务、使命」；`uppgift` 更通用。",
+      "excerpt": "arbetsuppgift — substantiv (en) 📖 中文：工作任务；工作内容；职责 · English: work task, job duty 发音提示：ARbets uppgift；合成词重音在第一部分。 语法变形 (Forms) Form Obestämd Bestämd Singular en arbetsuppgift arbetsuppgiften Plural arbetsuppgifter arbets",
+      "forms": [
+        "arbetsuppgift",
+        "arbetsuppgiften",
+        "arbetsuppgifter",
+        "arbetsuppgifterna"
+      ],
+      "links": [
+        "arbeta",
+        "arbete",
+        "topic-arbete",
+        "uppdrag",
+        "uppgift"
+      ],
+      "searchText": "arbetsuppgift arbetsuppgift knowledge_base/words/arbetsuppgift.md ---\ntype: word\nlemma: \"arbetsuppgift\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"工作任务；工作内容；职责\"\nen: \"work task, job duty, assignment\"\nsynonyms: [uppgift, uppdrag]\nantonyms: []\nfamily: [arbete, uppgift, arbeta]\ntopics: [topic-arbete]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# arbetsuppgift — substantiv (en)\n\n📖 中文：工作任务；工作内容；职责 · English: work task, job duty\n发音提示：ARbets-uppgift；合成词重音在第一部分。\n\n## 语法变形 (Forms)\n\n| Form | Obestämd | Bestämd |\n|------|----------|---------|\n| Singular | en arbetsuppgift | arbetsuppgiften |\n| Plural | arbetsuppgifter | arbetsuppgifterna |\n\n> 合成词 = **arbete** + **s**（fog-s 连接音）+ **uppgift**。\n\n## 词组搭配 (Collocations)\n\n- `dagliga arbetsuppgifter` — 日常工作内容\n- `mina arbetsuppgifter` — 我的工作职责\n- `en viktig arbetsuppgift` — 一项重要任务\n- `fördela arbetsuppgifter` — 分配任务\n- `utföra en arbetsuppgift` — 执行/完成一项任务\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vilka är dina arbetsuppgifter på jobbet? — 🇨🇳 你工作上的职责/内容有哪些？\n- 🇸🇪 Chefen fördelar arbetsuppgifterna varje måndag. — 🇨🇳 老板每周一分配工作任务。\n- 🇸🇪 En av mina arbetsuppgifter är att svara på mejl. — 🇨🇳 我的工作内容之一是回复邮件。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[arbete]] (ett, 工作), [[uppgift]] (en, 任务/信息), [[arbeta]] (v. 工作)\n- 同义词: [[uppgift]] (任务), [[uppdrag]] (任务、委托)\n- 反义词: —\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- 「工作内容/工作职责」最自然的说法就是 `arbetsuppgifter`（常用复数）。\n- 注意 fog-s：arbete**s**uppgift（很多瑞典语合成词在接缝处加 -s-）。\n- 近义 `uppdrag`(en) 更偏「受委托的任务、使命」；`uppgift` 更通用。\n",
+      "lemma": "arbetsuppgift",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "工作任务；工作内容；职责",
+      "en": "work task, job duty, assignment",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-arbete"
+      ],
+      "backlinks": [
+        "arbete",
+        "uppgift"
       ]
     },
     {
@@ -62899,6 +62941,41 @@ window.KB_DATA = {
         "topic-skola-och-utbildning"
       ],
       "backlinks": []
+    },
+    {
+      "slug": "uppgift",
+      "type": "word",
+      "title": "uppgift",
+      "path": "knowledge_base/words/uppgift.md",
+      "body": "# uppgift — substantiv (en)\n\n📖 中文：任务；（复数常指）信息、数据 · English: task; (pl.) information, data\n发音提示：UPP-gift；重音在第一音节。⚠️ 与 `gift`（毒/已婚）无关，别被吓到。\n\n## 语法变形 (Forms)\n\n| Form | Obestämd | Bestämd |\n|------|----------|---------|\n| Singular | en uppgift | uppgiften |\n| Plural | uppgifter | uppgifterna |\n\n## 词组搭配 (Collocations)\n\n**义项 1 — 任务 (task):**\n- `lösa en uppgift` — 解题、完成任务\n- `en svår uppgift` — 一项艰巨的任务\n- `ha till uppgift att...` — 任务是去做…\n\n**义项 2 — 信息/数据 (information, 多用复数):**\n- `lämna uppgifter` — 提供信息\n- `personuppgifter` — 个人信息\n- `enligt uppgift` — 据称、据报道\n\n## 例句 (Sentences)\n\n义项 1（任务）:\n- 🇸🇪 Eleverna fick en svår uppgift i matte. — 🇨🇳 学生们拿到一道很难的数学题。\n- 🇸🇪 Min uppgift är att boka mötet. — 🇨🇳 我的任务是预约会议。\n\n义项 2（信息/数据）:\n- 🇸🇪 Fyll i dina personuppgifter här. — 🇨🇳 在这里填写你的个人信息。\n- 🇸🇪 Enligt uppgift är vägen avstängd. — 🇨🇳 据称这条路封闭了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[uppge]] (v. 申报、提供（信息）), [[arbetsuppgift]] (en, 工作任务)\n- 同义词: [[uppdrag]] (任务、委托)\n- 反义词: —\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ **一词两义**：单数多指「任务」；复数 `uppgifter` 常指「信息/数据」(personuppgifter, kontaktuppgifter)。靠上下文区分。\n- ⚠️ 不要拆字误读：upp**gift** 里的 gift 不是「毒/已婚」，这是合成词 upp + gift（给出 → 给定的事项）。\n- `enligt uppgift` 是新闻里常见的固定说法 = 据报道/据称。",
+      "excerpt": "uppgift — substantiv (en) 📖 中文：任务；（复数常指）信息、数据 · English: task; (pl.) information, data 发音提示：UPP gift；重音在第一音节。⚠️ 与 gift （毒/已婚）无关，别被吓到。 语法变形 (Forms) Form Obestämd Bestämd Singular en uppgift uppgiften Plural uppgifter upp",
+      "forms": [
+        "uppgift",
+        "uppgiften",
+        "uppgifter",
+        "uppgifterna"
+      ],
+      "links": [
+        "arbetsuppgift",
+        "topic-arbete",
+        "uppdrag",
+        "uppge"
+      ],
+      "searchText": "uppgift uppgift knowledge_base/words/uppgift.md ---\ntype: word\nlemma: \"uppgift\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"任务；（复数常指）信息、数据\"\nen: \"task; (often pl.) information, data, details\"\nsynonyms: [uppdrag]\nantonyms: []\nfamily: [uppge, arbetsuppgift]\ntopics: [topic-arbete]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# uppgift — substantiv (en)\n\n📖 中文：任务；（复数常指）信息、数据 · English: task; (pl.) information, data\n发音提示：UPP-gift；重音在第一音节。⚠️ 与 `gift`（毒/已婚）无关，别被吓到。\n\n## 语法变形 (Forms)\n\n| Form | Obestämd | Bestämd |\n|------|----------|---------|\n| Singular | en uppgift | uppgiften |\n| Plural | uppgifter | uppgifterna |\n\n## 词组搭配 (Collocations)\n\n**义项 1 — 任务 (task):**\n- `lösa en uppgift` — 解题、完成任务\n- `en svår uppgift` — 一项艰巨的任务\n- `ha till uppgift att...` — 任务是去做…\n\n**义项 2 — 信息/数据 (information, 多用复数):**\n- `lämna uppgifter` — 提供信息\n- `personuppgifter` — 个人信息\n- `enligt uppgift` — 据称、据报道\n\n## 例句 (Sentences)\n\n义项 1（任务）:\n- 🇸🇪 Eleverna fick en svår uppgift i matte. — 🇨🇳 学生们拿到一道很难的数学题。\n- 🇸🇪 Min uppgift är att boka mötet. — 🇨🇳 我的任务是预约会议。\n\n义项 2（信息/数据）:\n- 🇸🇪 Fyll i dina personuppgifter här. — 🇨🇳 在这里填写你的个人信息。\n- 🇸🇪 Enligt uppgift är vägen avstängd. — 🇨🇳 据称这条路封闭了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[uppge]] (v. 申报、提供（信息）), [[arbetsuppgift]] (en, 工作任务)\n- 同义词: [[uppdrag]] (任务、委托)\n- 反义词: —\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ **一词两义**：单数多指「任务」；复数 `uppgifter` 常指「信息/数据」(personuppgifter, kontaktuppgifter)。靠上下文区分。\n- ⚠️ 不要拆字误读：upp**gift** 里的 gift 不是「毒/已婚」，这是合成词 upp + gift（给出 → 给定的事项）。\n- `enligt uppgift` 是新闻里常见的固定说法 = 据报道/据称。\n",
+      "lemma": "uppgift",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "任务；（复数常指）信息、数据",
+      "en": "task; (often pl.) information, data, details",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-arbete"
+      ],
+      "backlinks": [
+        "arbetsuppgift"
+      ]
     },
     {
       "slug": "uppsats",

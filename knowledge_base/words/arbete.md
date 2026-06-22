@@ -8,7 +8,7 @@ zh: "工作; 施工"
 en: "work; roadwork"
 synonyms: []
 antonyms: []
-family: ["arbeta", "arbetare"]
+family: ["arbeta", "arbetare", "arbetsuppgift"]
 topics: ["topic-arbete"]
 sentences: []
 known: false
@@ -47,7 +47,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[arbeta]], [[arbetare]]
+- 词族: [[arbeta]], [[arbetare]], [[arbetsuppgift]] (工作任务/内容)
 - 同义词:
 - 反义词:
 - 主题: [[topic-arbete]]
