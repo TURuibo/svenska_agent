@@ -18,21 +18,22 @@
 
 .readingHeaderInner {
   display: flex;
-  align-items: flex-end;
+  align-items: baseline;
   justify-content: space-between;
-  gap: 16px;
-  padding: 16px 24px 10px;
+  flex-wrap: wrap;
+  gap: 2px 14px;
+  padding: 7px 24px 3px;
   max-width: 1180px;
   margin: 0 auto;
 }
 
 .readingBrand h1 {
-  margin: 2px 0 4px;
-  font-size: 26px;
+  margin: 0;
+  font-size: 19px;
 }
 .brandSub {
   font-family: var(--cjk);
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 500;
   color: var(--muted);
 }
@@ -69,7 +70,7 @@
   flex-wrap: wrap;
   align-items: center;
   gap: 8px;
-  padding: 8px 24px 12px;
+  padding: 4px 24px 7px;
   max-width: 1180px;
   margin: 0 auto;
   font-family: var(--cjk);
@@ -122,8 +123,8 @@
   flex-direction: column;
   gap: 10px;
   position: sticky;
-  top: calc(132px + var(--nav-h));
-  max-height: calc(100vh - 150px - var(--nav-h));
+  top: calc(var(--nav-h) + 78px);
+  max-height: calc(100vh - var(--nav-h) - 96px);
   overflow-y: auto;
   padding-right: 4px;
 }
@@ -277,11 +278,18 @@
 /* When 生词 highlighting is toggled off, the chips melt back into plain text. */
 .vocab-off .vocabWord { cursor: text; border-bottom: none; background: none; }
 
+/* Desktop: a fixed side panel docked to the right edge of the reading column.
+   Because it's position:fixed and bounded to the viewport height (with its own
+   internal scroll), the whole card is ALWAYS visible — opening a word never
+   forces a page-scroll, and the card stays put while the article scrolls.
+   `right` aligns to the right edge of the 1180px content column on wide screens. */
 .vocabPop {
-  position: absolute;
+  position: fixed;
   z-index: 50;
-  width: min(420px, calc(100vw - 24px));
-  max-height: 74vh;
+  top: calc(var(--nav-h) + 84px);
+  right: max(16px, calc((100vw - 1180px) / 2));
+  width: min(420px, calc(100vw - 32px));
+  max-height: calc(100vh - var(--nav-h) - 108px);
   overflow-y: auto;
   overscroll-behavior: contain;
   -webkit-overflow-scrolling: touch;
@@ -428,9 +436,9 @@ body.vocabPopOpen { overflow: hidden; }   /* lock background scroll while the sh
 @media (max-width: 760px) {
   /* Header scrolls away (not sticky) so reading text can use the full screen. */
   .readingHeader { position: static; }
-  .readingHeaderInner { padding: 12px 16px 6px; }
-  .readingBrand h1 { font-size: 22px; }
-  .filterBar { padding: 6px 16px 10px; }
+  .readingHeaderInner { padding: 8px 16px 4px; }
+  .readingBrand h1 { font-size: 18px; }
+  .filterBar { padding: 4px 16px 8px; }
   .readingSearch input { min-width: 0; flex: 1 1 140px; font-size: 16px; }
 
   .readingMain {
