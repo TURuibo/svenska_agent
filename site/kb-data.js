@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 15:06:02",
+  "generatedAt": "2026-06-22 20:35:48",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -979,7 +979,10 @@ window.KB_DATA = {
       "created": "2026-06-22",
       "known": false,
       "backlinks": [
-        "grammar-komparativ"
+        "fler",
+        "flest",
+        "grammar-komparativ",
+        "mer"
       ]
     },
     {
@@ -39687,6 +39690,70 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "fler",
+      "type": "word",
+      "title": "fler",
+      "path": "knowledge_base/words/fler.md",
+      "body": "# fler — kvantitetsord（komparativ av många）\n\n📖 中文：更多的（可数） · English: more (countable)\n发音提示：/fleːr/ 长 e。\n\n## 语法变形 (Forms)\n\n可数名词「多」的三级： **många → fler → flest**（多 → 更多 → 最多）\n\n| 原级 | 比较级 | 最高级 |\n|------|--------|--------|\n| många | **fler** | flest |\n\n## 词组搭配 (Collocations)\n\n- `fler böcker` — 更多的书（后接可数复数名词）\n- `allt fler` — 越来越多\n- `fler och fler` — 越来越多\n- `inte fler` — 不再多了\n- `fler än` — 比…多\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag behöver fler stolar till festen. — 🇨🇳 派对我需要更多椅子。\n- 🇸🇪 Allt fler svenskar cyklar till jobbet. — 🇨🇳 越来越多瑞典人骑车上班。\n- 🇸🇪 Det kom fler gäster än vi väntade. — 🇨🇳 来的客人比我们预期的多。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[många]] (原级，多), [[flest]] (最高级，最多)\n- 同义词: —\n- 反义词: [[färre]] (更少)\n- 相关语法: [[grammar-mangd-jamforelse]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `fler`（可数）vs [[mer]]（不可数）：`fler böcker`（数得清）✅ / `mer kaffe`（量）✅。\n- fler 后接**可数复数名词**：fler bilar, fler personer。",
+      "excerpt": "fler — kvantitetsord（komparativ av många） 📖 中文：更多的（可数） · English: more (countable) 发音提示：/fleːr/ 长 e。 语法变形 (Forms) 可数名词「多」的三级： många → fler → flest （多 → 更多 → 最多） 原级 比较级 最高级 många fler flest 词组搭配 (Collocations) fler böcke",
+      "forms": [
+        "fler",
+        "flest"
+      ],
+      "links": [
+        "färre",
+        "flest",
+        "grammar-mangd-jamforelse",
+        "många",
+        "mer"
+      ],
+      "searchText": "fler fler knowledge_base/words/fler.md ---\ntype: word\nlemma: \"fler\"\nordklass: \"kvantitetsord\"\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"更多的（可数）\"\nen: \"more (countable)\"\nsynonyms: []\nantonyms: [färre]\nfamily: [många, flest]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fler — kvantitetsord（komparativ av många）\n\n📖 中文：更多的（可数） · English: more (countable)\n发音提示：/fleːr/ 长 e。\n\n## 语法变形 (Forms)\n\n可数名词「多」的三级： **många → fler → flest**（多 → 更多 → 最多）\n\n| 原级 | 比较级 | 最高级 |\n|------|--------|--------|\n| många | **fler** | flest |\n\n## 词组搭配 (Collocations)\n\n- `fler böcker` — 更多的书（后接可数复数名词）\n- `allt fler` — 越来越多\n- `fler och fler` — 越来越多\n- `inte fler` — 不再多了\n- `fler än` — 比…多\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag behöver fler stolar till festen. — 🇨🇳 派对我需要更多椅子。\n- 🇸🇪 Allt fler svenskar cyklar till jobbet. — 🇨🇳 越来越多瑞典人骑车上班。\n- 🇸🇪 Det kom fler gäster än vi väntade. — 🇨🇳 来的客人比我们预期的多。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[många]] (原级，多), [[flest]] (最高级，最多)\n- 同义词: —\n- 反义词: [[färre]] (更少)\n- 相关语法: [[grammar-mangd-jamforelse]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `fler`（可数）vs [[mer]]（不可数）：`fler böcker`（数得清）✅ / `mer kaffe`（量）✅。\n- fler 后接**可数复数名词**：fler bilar, fler personer。\n",
+      "lemma": "fler",
+      "ordklass": "kvantitetsord",
+      "cefr": "A2",
+      "zh": "更多的（可数）",
+      "en": "more (countable)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "flest",
+        "mer"
+      ]
+    },
+    {
+      "slug": "flest",
+      "type": "word",
+      "title": "flest",
+      "path": "knowledge_base/words/flest.md",
+      "body": "# flest — kvantitetsord（superlativ av många）\n\n📖 中文：最多的（可数） · English: most (countable)\n发音提示：/fleːst/ 长 e。\n\n## 语法变形 (Forms)\n\n可数名词「多」的三级： **många → fler → flest**（多 → 更多 → 最多）\n\n| 原级 | 比较级 | 最高级 |\n|------|--------|--------|\n| många | fler | **flest** |\n\n## 词组搭配 (Collocations)\n\n- `flest poäng` — 最多的分数\n- `de flesta` — 大多数（固定说法！）\n- `flest röster` — 最多的票\n- `den som har flest...` — 拥有最多…的人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vilket lag har flest poäng? — 🇨🇳 哪支队伍分数最多？\n- 🇸🇪 De flesta tycker om kaffe. — 🇨🇳 大多数人喜欢咖啡。\n- 🇸🇪 Produkten med flest sålda enheter vann. — 🇨🇳 销量（件数）最多的产品赢了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[många]] (原级，多), [[fler]] (比较级，更多)\n- 同义词: —\n- 反义词: [[färst]] (最少，可数)\n- 相关语法: [[grammar-mangd-jamforelse]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `flest` = **最多**（可数），不是「最少」！最少（可数）= färst，量的最少 = minst/lägst。\n- 📌 固定说法 `de flesta` = 「大多数（人/事物）」，超高频，单独记。\n- 销量/数量等「不可数概念」的最多用 **mest/högst**，不用 flest。",
+      "excerpt": "flest — kvantitetsord（superlativ av många） 📖 中文：最多的（可数） · English: most (countable) 发音提示：/fleːst/ 长 e。 语法变形 (Forms) 可数名词「多」的三级： många → fler → flest （多 → 更多 → 最多） 原级 比较级 最高级 många fler flest 词组搭配 (Collocations) flest po",
+      "forms": [
+        "fler",
+        "flest"
+      ],
+      "links": [
+        "färst",
+        "fler",
+        "grammar-mangd-jamforelse",
+        "många"
+      ],
+      "searchText": "flest flest knowledge_base/words/flest.md ---\ntype: word\nlemma: \"flest\"\nordklass: \"kvantitetsord\"\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"最多的（可数）\"\nen: \"most (countable)\"\nsynonyms: []\nantonyms: [färst]\nfamily: [många, fler]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# flest — kvantitetsord（superlativ av många）\n\n📖 中文：最多的（可数） · English: most (countable)\n发音提示：/fleːst/ 长 e。\n\n## 语法变形 (Forms)\n\n可数名词「多」的三级： **många → fler → flest**（多 → 更多 → 最多）\n\n| 原级 | 比较级 | 最高级 |\n|------|--------|--------|\n| många | fler | **flest** |\n\n## 词组搭配 (Collocations)\n\n- `flest poäng` — 最多的分数\n- `de flesta` — 大多数（固定说法！）\n- `flest röster` — 最多的票\n- `den som har flest...` — 拥有最多…的人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vilket lag har flest poäng? — 🇨🇳 哪支队伍分数最多？\n- 🇸🇪 De flesta tycker om kaffe. — 🇨🇳 大多数人喜欢咖啡。\n- 🇸🇪 Produkten med flest sålda enheter vann. — 🇨🇳 销量（件数）最多的产品赢了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[många]] (原级，多), [[fler]] (比较级，更多)\n- 同义词: —\n- 反义词: [[färst]] (最少，可数)\n- 相关语法: [[grammar-mangd-jamforelse]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `flest` = **最多**（可数），不是「最少」！最少（可数）= färst，量的最少 = minst/lägst。\n- 📌 固定说法 `de flesta` = 「大多数（人/事物）」，超高频，单独记。\n- 销量/数量等「不可数概念」的最多用 **mest/högst**，不用 flest。\n",
+      "lemma": "flest",
+      "ordklass": "kvantitetsord",
+      "cefr": "A2",
+      "zh": "最多的（可数）",
+      "en": "most (countable)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "fler"
+      ]
+    },
+    {
       "slug": "flexibel",
       "type": "word",
       "title": "flexibel",
@@ -50473,6 +50540,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "mer",
+      "type": "word",
+      "title": "mer",
+      "path": "knowledge_base/words/mer.md",
+      "body": "# mer — kvantitetsord（komparativ av mycket）\n\n📖 中文：更多的（不可数 / 量） · English: more (uncountable)\n发音提示：/meːr/ 长 e。口语也作 `mera`。\n\n## 语法变形 (Forms)\n\n不可数「量」的三级： **mycket → mer → mest**（多 → 更多 → 最多）\n\n| 原级 | 比较级 | 最高级 |\n|------|--------|--------|\n| mycket | **mer** | mest |\n\n## 词组搭配 (Collocations)\n\n- `mer tid` — 更多时间\n- `mer pengar` — 更多钱\n- `lite mer` — 多一点\n- `inte mer` — 不再了、没有更多\n- `mer än` — 多于、超过\n- `mer och mer` — 越来越（多）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan jag få lite mer kaffe? — 🇨🇳 能再给我一点咖啡吗？\n- 🇸🇪 Vi behöver mer tid för projektet. — 🇨🇳 这个项目我们需要更多时间。\n- 🇸🇪 Det kostar mer än jag trodde. — 🇨🇳 这比我以为的贵。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[mycket]] (原级，很多), [[mest]] (最高级，最多)\n- 同义词: [[mera]] (= mer，口语)\n- 反义词: [[mindre]] (更少)\n- 相关语法: [[grammar-mangd-jamforelse]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `mer`（不可数/量）vs [[fler]]（可数）：`mer vatten` ✅ / `fler glas` ✅。\n- 也用于抽象比较：`mer intresserad`（更感兴趣）——形容词用 mer 而非 -are 时（如长词、particip）。",
+      "excerpt": "mer — kvantitetsord（komparativ av mycket） 📖 中文：更多的（不可数 / 量） · English: more (uncountable) 发音提示：/meːr/ 长 e。口语也作 mera 。 语法变形 (Forms) 不可数「量」的三级： mycket → mer → mest （多 → 更多 → 最多） 原级 比较级 最高级 mycket mer mest 词组搭配 (Collocatio",
+      "forms": [
+        "mer",
+        "mest"
+      ],
+      "links": [
+        "fler",
+        "grammar-mangd-jamforelse",
+        "mera",
+        "mest",
+        "mindre",
+        "mycket"
+      ],
+      "searchText": "mer mer knowledge_base/words/mer.md ---\ntype: word\nlemma: \"mer\"\nordklass: \"kvantitetsord\"\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"更多的（不可数/量）\"\nen: \"more (uncountable)\"\nsynonyms: [mera]\nantonyms: [mindre]\nfamily: [mycket, mest]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mer — kvantitetsord（komparativ av mycket）\n\n📖 中文：更多的（不可数 / 量） · English: more (uncountable)\n发音提示：/meːr/ 长 e。口语也作 `mera`。\n\n## 语法变形 (Forms)\n\n不可数「量」的三级： **mycket → mer → mest**（多 → 更多 → 最多）\n\n| 原级 | 比较级 | 最高级 |\n|------|--------|--------|\n| mycket | **mer** | mest |\n\n## 词组搭配 (Collocations)\n\n- `mer tid` — 更多时间\n- `mer pengar` — 更多钱\n- `lite mer` — 多一点\n- `inte mer` — 不再了、没有更多\n- `mer än` — 多于、超过\n- `mer och mer` — 越来越（多）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan jag få lite mer kaffe? — 🇨🇳 能再给我一点咖啡吗？\n- 🇸🇪 Vi behöver mer tid för projektet. — 🇨🇳 这个项目我们需要更多时间。\n- 🇸🇪 Det kostar mer än jag trodde. — 🇨🇳 这比我以为的贵。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[mycket]] (原级，很多), [[mest]] (最高级，最多)\n- 同义词: [[mera]] (= mer，口语)\n- 反义词: [[mindre]] (更少)\n- 相关语法: [[grammar-mangd-jamforelse]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `mer`（不可数/量）vs [[fler]]（可数）：`mer vatten` ✅ / `fler glas` ✅。\n- 也用于抽象比较：`mer intresserad`（更感兴趣）——形容词用 mer 而非 -are 时（如长词、particip）。\n",
+      "lemma": "mer",
+      "ordklass": "kvantitetsord",
+      "cefr": "A2",
+      "zh": "更多的（不可数/量）",
+      "en": "more (uncountable)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "fler"
+      ]
+    },
+    {
       "slug": "mest",
       "type": "word",
       "title": "mest",
@@ -50492,6 +50592,7 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "mer",
         "sent-fika-jag-var-hemma-mest"
       ]
     },
