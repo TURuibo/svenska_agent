@@ -178,6 +178,9 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 ```
 > ⚠️ **本地与云端二选一**：同时在本地任务和云端跑会同一天生成两篇。改用云端后，请在桌面把本地那条 scenario 任务**停用**。
 
+> **adjsubst 同理**（也纯生成、不联网）：另建一条云端 routine，把上面 prompt 里的 `/dagens-scenario` 换成 `/adjsubst`、
+> `scenario-*.md` 换成 `adjsubst-*.md` 即可（`/adjsubst` 裸调时自己按 `day-of-year mod 10` 轮换 10 主题）。同样记得把本地 adjsubst 任务停用。
+
 **阅读已生成的情景 (Läsning reading site):** `/import` 把 inbox 文件的学习项拆进 KB 后，会把那份**可读正文**
 （🇸🇪 原文 + 🇨🇳 翻译 + 教学备注）归档到 repo 根的 **`imported/`**（tracked）。`tools/build-reading-site.js`
 扫描 `inbox/`(待导入) + `imported/`(已导入) 生成 `site/reading/reading-data.js`，于是所有情景/文章都能在
