@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 11:59:19",
+  "generatedAt": "2026-06-22 12:15:30",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -1795,6 +1795,7 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "backlinks": [
+        "förbi",
         "grammar-bisats-biff",
         "grammar-platsadverb",
         "grammar-platspronomen-dit-dar",
@@ -15345,6 +15346,7 @@ window.KB_DATA = {
         "topic-riktningar"
       ],
       "backlinks": [
+        "förbi",
         "source-2026-06-21-handla-i-mataffaren"
       ]
     },
@@ -31670,6 +31672,7 @@ window.KB_DATA = {
         "bredvid",
         "finnas",
         "fönster",
+        "förbi",
         "framför",
         "golv",
         "hänga",
@@ -40133,6 +40136,40 @@ window.KB_DATA = {
       "known": false,
       "sentences": [],
       "topics": [],
+      "backlinks": []
+    },
+    {
+      "slug": "förbi",
+      "type": "word",
+      "title": "förbi",
+      "path": "knowledge_base/words/förbi.md",
+      "body": "# förbi — preposition / adverb\n\n📖 中文：经过、从…旁边过去 · English: past / by\n发音提示：för-BI；重音在第二音节。\n\n## 语法变形 (Forms)\n\n不变形。可作**介词**（förbi + 名词）或**副词**（gå förbi 走过去）。\n\n## 词组搭配 (Collocations)\n\n- `gå förbi (något)` — 走过、经过（某物）\n- `köra förbi` — （开车）超过、驶过\n- `springa förbi` — 跑过去\n- `gå förbi varandra` — 擦肩而过\n- `Tiden går förbi` — 时间流逝（引申）\n\n## 例句 (Sentences)\n\n- · **经过（指路）**: [[sent-ga-rakt-fram-forbi-frukten-sa-ser-du-bageriet-till-vanster]] 🇸🇪 Gå rakt fram **förbi** frukten, så ser du bageriet till vänster. — 🇨🇳 一直往前走，**过了**水果区，你就会看到左边的面包店。\n- · **开车超过**: 🇸🇪 Bilen körde **förbi** oss. — 🇨🇳 那辆车从我们旁边超了过去。\n- · **擦肩/路过**: 🇸🇪 Hon gick **förbi** utan att säga hej. — 🇨🇳 她走过去，没打招呼。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[passera]] (v. 经过，更正式/及物：passera frukten)\n- 反义词: —\n- 主题: [[topic-rumsliga-relationer]]\n- 语法: [[grammar-riktnings-adverb]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `förbi` 含\"**经过并越过**\"的方向感（路过 X 继续往前），不是停在旁边（那是 [[vid]]）。\n- 介词 vs 副词：`gå förbi huset`（介词，+宾语）/ `huset ligger på vägen, gå bara förbi`（副词）。\n- 同义 `passera` 更书面、且常**直接带宾语**：*passera frukten*；`förbi` 更口语、更带\"经过…继续走\"的画面。",
+      "excerpt": "förbi — preposition / adverb 📖 中文：经过、从…旁边过去 · English: past / by 发音提示：för BI；重音在第二音节。 语法变形 (Forms) 不变形。可作 介词 （förbi + 名词）或 副词 （gå förbi 走过去）。 词组搭配 (Collocations) gå förbi (något) — 走过、经过（某物） köra förbi — （开车）超过、驶过 sprin",
+      "forms": [],
+      "links": [
+        "grammar-riktnings-adverb",
+        "passera",
+        "sent-ga-rakt-fram-forbi-frukten-sa-ser-du-bageriet-till-vanster",
+        "topic-rumsliga-relationer",
+        "vid"
+      ],
+      "searchText": "förbi förbi knowledge_base/words/förbi.md ---\ntype: word\nlemma: \"förbi\"\nordklass: preposition\ngenus: \"\"\ncefr: \"A2\"\nzh: \"经过、越过、从…旁边过去\"\nen: \"past; by\"\nsynonyms: [passera]\nantonyms: []\nfamily: []\ntopics: [topic-rumsliga-relationer]\nsentences:\n  - sent-ga-rakt-fram-forbi-frukten-sa-ser-du-bageriet-till-vanster\ngrammar: [grammar-riktnings-adverb]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förbi — preposition / adverb\n\n📖 中文：经过、从…旁边过去 · English: past / by\n发音提示：för-BI；重音在第二音节。\n\n## 语法变形 (Forms)\n\n不变形。可作**介词**（förbi + 名词）或**副词**（gå förbi 走过去）。\n\n## 词组搭配 (Collocations)\n\n- `gå förbi (något)` — 走过、经过（某物）\n- `köra förbi` — （开车）超过、驶过\n- `springa förbi` — 跑过去\n- `gå förbi varandra` — 擦肩而过\n- `Tiden går förbi` — 时间流逝（引申）\n\n## 例句 (Sentences)\n\n- · **经过（指路）**: [[sent-ga-rakt-fram-forbi-frukten-sa-ser-du-bageriet-till-vanster]] 🇸🇪 Gå rakt fram **förbi** frukten, så ser du bageriet till vänster. — 🇨🇳 一直往前走，**过了**水果区，你就会看到左边的面包店。\n- · **开车超过**: 🇸🇪 Bilen körde **förbi** oss. — 🇨🇳 那辆车从我们旁边超了过去。\n- · **擦肩/路过**: 🇸🇪 Hon gick **förbi** utan att säga hej. — 🇨🇳 她走过去，没打招呼。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[passera]] (v. 经过，更正式/及物：passera frukten)\n- 反义词: —\n- 主题: [[topic-rumsliga-relationer]]\n- 语法: [[grammar-riktnings-adverb]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `förbi` 含\"**经过并越过**\"的方向感（路过 X 继续往前），不是停在旁边（那是 [[vid]]）。\n- 介词 vs 副词：`gå förbi huset`（介词，+宾语）/ `huset ligger på vägen, gå bara förbi`（副词）。\n- 同义 `passera` 更书面、且常**直接带宾语**：*passera frukten*；`förbi` 更口语、更带\"经过…继续走\"的画面。\n",
+      "lemma": "förbi",
+      "ordklass": "preposition",
+      "cefr": "A2",
+      "zh": "经过、越过、从…旁边过去",
+      "en": "past; by",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-ga-rakt-fram-forbi-frukten-sa-ser-du-bageriet-till-vanster"
+      ],
+      "grammar": [
+        "grammar-riktnings-adverb"
+      ],
+      "topics": [
+        "topic-rumsliga-relationer"
+      ],
       "backlinks": []
     },
     {
@@ -53890,6 +53927,7 @@ window.KB_DATA = {
         "topic-riktningar"
       ],
       "backlinks": [
+        "förbi",
         "passa",
         "source-2026-06-18-fraga-efter-vagen",
         "topic-riktningar"
@@ -64672,6 +64710,7 @@ window.KB_DATA = {
         "topic-rumsliga-relationer"
       ],
       "backlinks": [
+        "förbi",
         "sent-framfor-fonster-vid-vaggen-stor-krukvaxt",
         "source-2026-06-09-rumsliga-relationer",
         "topic-rumsliga-relationer"
