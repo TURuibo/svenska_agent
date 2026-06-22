@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 11:10:59",
+  "generatedAt": "2026-06-22 11:15:47",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -36546,6 +36546,37 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "bry",
+      "type": "word",
+      "title": "bry",
+      "path": "knowledge_base/words/bry.md",
+      "body": "# bry — verb (grupp 3)\n\n📖 中文：在乎、关心（几乎只用反身 **bry sig (om)**）· English: to care / bother\n发音提示：bry [bryː]；长 y（圆唇），单音节。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) bry |\n| Presens | **bryr** |\n| Preteritum | brydde |\n| Supinum | brytt |\n| Imperativ | bry! |\n\n> grupp 3：preteritum `-dde`、supinum `-tt`（brydde / brytt）。\n> 你输入的 `bry` 是 **infinitiv/词干**。\n\n## 词组搭配 (Collocations)\n\n- `bry sig om (något/någon)` — 在乎、关心某事/某人\n- `bry sig` — 理会、上心（口语，常用于否定）\n- `inte bry sig` — 不在乎、不理\n- `bry dig inte om det` — 别管那个 / 别在意\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag bryr mig om dig. — 🇨🇳 我在乎你。\n- 🇸🇪 Han bryr sig inte om vad andra tycker. — 🇨🇳 他不在乎别人怎么想。\n- 🇸🇪 Bry dig inte om det! — 🇨🇳 别理那事 / 别放在心上！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bryderi]] (困惑/为难)\n- 同义词: [[bekymra]] (使忧虑；bekymra sig 担忧)\n- 反义词: [[strunta]] (strunta i = 不当回事)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ 几乎永远带反身 + `om`：**bry sig om**。光 `bry` 不单用。\n- 反身代词随主语：jag bryr **mig**, du bryr **dig**, han bryr **sig** …\n- 否定句最常见：`inte bry sig om` = 满不在乎。",
+      "excerpt": "bry — verb (grupp 3) 📖 中文：在乎、关心（几乎只用反身 bry sig (om) ）· English: to care / bother 发音提示：bry [bryː]；长 y（圆唇），单音节。 语法变形 (Forms) Tempus Swedish Infinitiv (att) bry Presens bryr Preteritum brydde Supinum brytt Imperativ bry! g",
+      "forms": [
+        "bry",
+        "bryr",
+        "brydde",
+        "brytt",
+        "bry!"
+      ],
+      "links": [
+        "bekymra",
+        "bryderi",
+        "strunta"
+      ],
+      "searchText": "bry bry knowledge_base/words/bry.md ---\ntype: word\nlemma: \"bry\"\nordklass: verb\nverbgrupp: \"3\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"（bry sig om）在乎、关心；（bry sig）理会\"\nen: \"to care / bother (about)\"\nsynonyms: [bekymra]\nantonyms: [strunta]\nfamily: [bryderi]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bry — verb (grupp 3)\n\n📖 中文：在乎、关心（几乎只用反身 **bry sig (om)**）· English: to care / bother\n发音提示：bry [bryː]；长 y（圆唇），单音节。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) bry |\n| Presens | **bryr** |\n| Preteritum | brydde |\n| Supinum | brytt |\n| Imperativ | bry! |\n\n> grupp 3：preteritum `-dde`、supinum `-tt`（brydde / brytt）。\n> 你输入的 `bry` 是 **infinitiv/词干**。\n\n## 词组搭配 (Collocations)\n\n- `bry sig om (något/någon)` — 在乎、关心某事/某人\n- `bry sig` — 理会、上心（口语，常用于否定）\n- `inte bry sig` — 不在乎、不理\n- `bry dig inte om det` — 别管那个 / 别在意\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag bryr mig om dig. — 🇨🇳 我在乎你。\n- 🇸🇪 Han bryr sig inte om vad andra tycker. — 🇨🇳 他不在乎别人怎么想。\n- 🇸🇪 Bry dig inte om det! — 🇨🇳 别理那事 / 别放在心上！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bryderi]] (困惑/为难)\n- 同义词: [[bekymra]] (使忧虑；bekymra sig 担忧)\n- 反义词: [[strunta]] (strunta i = 不当回事)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ 几乎永远带反身 + `om`：**bry sig om**。光 `bry` 不单用。\n- 反身代词随主语：jag bryr **mig**, du bryr **dig**, han bryr **sig** …\n- 否定句最常见：`inte bry sig om` = 满不在乎。\n",
+      "lemma": "bry",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "（bry sig om）在乎、关心；（bry sig）理会",
+      "en": "to care / bother (about)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": []
+    },
+    {
       "slug": "bryggkaffe",
       "type": "word",
       "title": "bryggkaffe",
@@ -45799,6 +45830,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "klä",
+      "type": "word",
+      "title": "klä",
+      "path": "knowledge_base/words/klä.md",
+      "body": "# klä — verb (grupp 3)\n\n📖 中文：给…穿衣；klä sig = 自己穿衣 · English: to dress\n发音提示：klä [klɛː]；长 ä，单音节。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) klä |\n| Presens | **klär** |\n| Preteritum | klädde |\n| Supinum | klätt |\n| Imperativ | klä! |\n\n> grupp 3 动词（词干以重读元音结尾）：preteritum 加 `-dde`，supinum 加 `-tt`。\n> 你输入的 `klär` 是 **presens**。\n\n## 词组搭配 (Collocations)\n\n- `klä sig` — 穿衣打扮（反身）\n- `klä på sig` — 把衣服穿上（partikelverb）\n- `klä av sig` — 脱衣服\n- `klä om sig` — 换衣服\n- `klä ut sig (till …)` — 装扮成…（化装）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon klär sig alltid snyggt. — 🇨🇳 她总是穿得很得体。\n- 🇸🇪 Jag klär på mig och går ut. — 🇨🇳 我穿上衣服就出门。\n- 🇸🇪 Den röda klänningen klär dig. — 🇨🇳 这条红裙子很衬你 / 很适合你。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kläder]] (衣服), [[klädsel]] (着装), [[klädskåp]] (衣柜)\n- 同义词: —\n- 反义词: [[klä av]] (脱衣)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `klä sig`（自己穿）vs `klä någon`（给别人穿）；反身代词随主语变。\n- 特殊义：`X klär dig` = X **衬你/适合你**（说穿戴好看），很常用、很地道。",
+      "excerpt": "klä — verb (grupp 3) 📖 中文：给…穿衣；klä sig = 自己穿衣 · English: to dress 发音提示：klä [klɛː]；长 ä，单音节。 语法变形 (Forms) Tempus Swedish Infinitiv (att) klä Presens klär Preteritum klädde Supinum klätt Imperativ klä! grupp 3 动词（词干以重读元音结尾",
+      "forms": [
+        "klä",
+        "klär",
+        "klädde",
+        "klätt",
+        "klä!"
+      ],
+      "links": [
+        "klä av",
+        "kläder",
+        "klädsel",
+        "klädskåp"
+      ],
+      "searchText": "klä klä knowledge_base/words/klä.md ---\ntype: word\nlemma: \"klä\"\nordklass: verb\nverbgrupp: \"3\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"给…穿衣；（klä sig）穿衣打扮；（klä i）适合、衬\"\nen: \"to dress; (klä sig) get dressed; suit/become someone\"\nsynonyms: []\nantonyms: [klä av]\nfamily: [kläder, klädsel, klädskåp]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# klä — verb (grupp 3)\n\n📖 中文：给…穿衣；klä sig = 自己穿衣 · English: to dress\n发音提示：klä [klɛː]；长 ä，单音节。\n\n## 语法变形 (Forms)\n\n| Tempus | Swedish |\n|--------|---------|\n| Infinitiv | (att) klä |\n| Presens | **klär** |\n| Preteritum | klädde |\n| Supinum | klätt |\n| Imperativ | klä! |\n\n> grupp 3 动词（词干以重读元音结尾）：preteritum 加 `-dde`，supinum 加 `-tt`。\n> 你输入的 `klär` 是 **presens**。\n\n## 词组搭配 (Collocations)\n\n- `klä sig` — 穿衣打扮（反身）\n- `klä på sig` — 把衣服穿上（partikelverb）\n- `klä av sig` — 脱衣服\n- `klä om sig` — 换衣服\n- `klä ut sig (till …)` — 装扮成…（化装）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon klär sig alltid snyggt. — 🇨🇳 她总是穿得很得体。\n- 🇸🇪 Jag klär på mig och går ut. — 🇨🇳 我穿上衣服就出门。\n- 🇸🇪 Den röda klänningen klär dig. — 🇨🇳 这条红裙子很衬你 / 很适合你。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kläder]] (衣服), [[klädsel]] (着装), [[klädskåp]] (衣柜)\n- 同义词: —\n- 反义词: [[klä av]] (脱衣)\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ `klä sig`（自己穿）vs `klä någon`（给别人穿）；反身代词随主语变。\n- 特殊义：`X klär dig` = X **衬你/适合你**（说穿戴好看），很常用、很地道。\n",
+      "lemma": "klä",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "给…穿衣；（klä sig）穿衣打扮；（klä i）适合、衬",
+      "en": "to dress; (klä sig) get dressed; suit/become someone",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": []
+    },
+    {
       "slug": "klädskåp",
       "type": "word",
       "title": "klädskåp",
@@ -45835,6 +45898,7 @@ window.KB_DATA = {
         "topic-hemmet"
       ],
       "backlinks": [
+        "klä",
         "sent-i-hornet-till-vanster-om-dorren-star-kladskap",
         "source-2026-06-09-rumsliga-relationer",
         "topic-hemmet",
