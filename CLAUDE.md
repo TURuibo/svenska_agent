@@ -167,6 +167,17 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 
 **Key constraint:** `sv-scenario-writer` must NOT write into `knowledge_base/`. All KB writes happen exclusively through the `/import` pipeline.
 
+**云端版 (remote, 推荐用它替代本地)：** scenario 这条 routine 同样可放到 Claude Code on the web 定时 session
+（和 §4.6 阅读文章同一模式），桌面关着也能每天跑。**scenario 纯生成、不联网**，所以环境网络策略无所谓
+（开不开出站都行）。`/dagens-scenario` 不传参时会自己按 `day-of-year mod 14` 算主题号，routine 直接裸调即可。routine prompt：
+```
+在 remote 环境里生成今日情景练习并入库：
+1. /dagens-scenario   （自动按 day-of-year 轮换 14 主题，不需联网）
+2. 对刚生成的 inbox/scenario-*.md 跑 /import
+3. git add -A，commit，git pull --rebase origin main 后 push -u origin main
+```
+> ⚠️ **本地与云端二选一**：同时在本地任务和云端跑会同一天生成两篇。改用云端后，请在桌面把本地那条 scenario 任务**停用**。
+
 **阅读已生成的情景 (Läsning reading site):** `/import` 把 inbox 文件的学习项拆进 KB 后，会把那份**可读正文**
 （🇸🇪 原文 + 🇨🇳 翻译 + 教学备注）归档到 repo 根的 **`imported/`**（tracked）。`tools/build-reading-site.js`
 扫描 `inbox/`(待导入) + `imported/`(已导入) 生成 `site/reading/reading-data.js`，于是所有情景/文章都能在
