@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 12:15:30",
+  "generatedAt": "2026-06-22 12:52:21",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -64620,11 +64620,11 @@ window.KB_DATA = {
       "type": "word",
       "title": "verkligen",
       "path": "knowledge_base/words/verkligen.md",
-      "body": "# verkligen — adverb\n\n📖 中文：真的；确实 · English: really; truly\n发音提示：VERK-li-gen\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `ja, verkligen!` — 是啊，真的！\n- `det är verkligen bra` — 这真的很好\n- `verkligen inte` — 真的不是\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, verkligen! — 🇨🇳 是啊，真的！\n- 🇸🇪 Jag är riktigt hungrig. — 🇨🇳 我真的饿了。\n- 🇸🇪 Det är verkligen ett mysigt kafé. — 🇨🇳 这真的是一家温馨的咖啡馆。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: verklighet (现实), verklig (真实的)\n- 同义词: faktiskt (实际上), riktigt (真正地), sant (确实)\n\n## 用法提示 (Usage Notes)\n\n- *Verkligen* 表示真诚的确认或强调，比 *riktigt* 更正式，比 *faktiskt* 更强调真实性。",
+      "body": "# verkligen — adverb\n\n📖 中文：真的；确实 · English: really; truly\n发音提示：VERK-li-gen\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `ja, verkligen!` — 是啊，真的！\n- `det är verkligen bra` — 这真的很好\n- `verkligen inte` — 真的不是\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, verkligen! — 🇨🇳 是啊，真的！\n- 🇸🇪 Tror du verkligen det? — 🇨🇳 你真的这么认为吗？\n- 🇸🇪 Det är verkligen ett mysigt kafé. — 🇨🇳 这真的是一家温馨的咖啡馆。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: verklighet (现实), verklig (真实的)\n- 同义词: faktiskt (实际上), riktigt (真正地), sant (确实)\n\n## 用法提示 (Usage Notes)\n\n- *Verkligen* 表示真诚的确认或强调，比 *riktigt* 更正式，比 *faktiskt* 更强调真实性。",
       "excerpt": "verkligen — adverb 📖 中文：真的；确实 · English: really; truly 发音提示：VERK li gen 语法变形 (Forms) Adverb: oförändrad 词组搭配 (Collocations) ja, verkligen! — 是啊，真的！ det är verkligen bra — 这真的很好 verkligen inte — 真的不是 例句 (Sentences) 🇸🇪 ",
       "forms": [],
       "links": [],
-      "searchText": "verkligen verkligen knowledge_base/words/verkligen.md ---\ntype: word\nlemma: \"verkligen\"\nordklass: adverb\ncefr: A2\nzh: 真的；确实\nen: really; truly\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# verkligen — adverb\n\n📖 中文：真的；确实 · English: really; truly\n发音提示：VERK-li-gen\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `ja, verkligen!` — 是啊，真的！\n- `det är verkligen bra` — 这真的很好\n- `verkligen inte` — 真的不是\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, verkligen! — 🇨🇳 是啊，真的！\n- 🇸🇪 Jag är riktigt hungrig. — 🇨🇳 我真的饿了。\n- 🇸🇪 Det är verkligen ett mysigt kafé. — 🇨🇳 这真的是一家温馨的咖啡馆。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: verklighet (现实), verklig (真实的)\n- 同义词: faktiskt (实际上), riktigt (真正地), sant (确实)\n\n## 用法提示 (Usage Notes)\n\n- *Verkligen* 表示真诚的确认或强调，比 *riktigt* 更正式，比 *faktiskt* 更强调真实性。\n",
+      "searchText": "verkligen verkligen knowledge_base/words/verkligen.md ---\ntype: word\nlemma: \"verkligen\"\nordklass: adverb\ncefr: A2\nzh: 真的；确实\nen: really; truly\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# verkligen — adverb\n\n📖 中文：真的；确实 · English: really; truly\n发音提示：VERK-li-gen\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `ja, verkligen!` — 是啊，真的！\n- `det är verkligen bra` — 这真的很好\n- `verkligen inte` — 真的不是\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, verkligen! — 🇨🇳 是啊，真的！\n- 🇸🇪 Tror du verkligen det? — 🇨🇳 你真的这么认为吗？\n- 🇸🇪 Det är verkligen ett mysigt kafé. — 🇨🇳 这真的是一家温馨的咖啡馆。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: verklighet (现实), verklig (真实的)\n- 同义词: faktiskt (实际上), riktigt (真正地), sant (确实)\n\n## 用法提示 (Usage Notes)\n\n- *Verkligen* 表示真诚的确认或强调，比 *riktigt* 更正式，比 *faktiskt* 更强调真实性。\n",
       "lemma": "verkligen",
       "ordklass": "adverb",
       "cefr": "A2",

@@ -36,7 +36,7 @@ interval: 0
 ## 例句 (Sentences)
 
 - 🇸🇪 Ja, verkligen! — 🇨🇳 是啊，真的！
-- 🇸🇪 Jag är riktigt hungrig. — 🇨🇳 我真的饿了。
+- 🇸🇪 Tror du verkligen det? — 🇨🇳 你真的这么认为吗？
 - 🇸🇪 Det är verkligen ett mysigt kafé. — 🇨🇳 这真的是一家温馨的咖啡馆。
 
 ## 词族 / 同义 / 反义 (Relations)
