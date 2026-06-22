@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 20:42:00",
+  "generatedAt": "2026-06-22 20:59:10",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -146,6 +146,7 @@ window.KB_DATA = {
         "lärorik",
         "lätt",
         "ledsen",
+        "ljusa-nätter",
         "lugn",
         "motiverad",
         "nervös",
@@ -441,6 +442,7 @@ window.KB_DATA = {
         "grammar-bisats-tills",
         "grammar-presens-preteritum-ram",
         "grammar-preteritum",
+        "grammar-tidsadverbial",
         "sent-innan-jag-somnar-laser-jag-nagra-sidor",
         "sent-just-da-markte-jag-att-min-planbok-var-borta",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
@@ -1280,6 +1282,7 @@ window.KB_DATA = {
         "sent-figurerna-måste-kämpa-för",
         "sent-gransen-kallas-fribelopp",
         "sent-han-foddes-1981-rosengard",
+        "sent-hela-byn-samlas",
         "sent-hon-föddes-den-3-januari-2003-i-stockholm",
         "sent-i-mandags-domdes-mette-marits-son",
         "sent-idag-dömdes-en-av-foxtrots-högsta",
@@ -1603,15 +1606,22 @@ window.KB_DATA = {
         "sent-absolut-jag-fixar-koden",
         "sent-absolut-vi-har-ett-ledigt-bord",
         "sent-åh-vad-fint-jag-är-alldeles",
+        "sent-alla-dansar-runt-stangen-och-sjunger",
         "sent-äppelpaj-tack-den-älskar-jag",
         "sent-ar-en-vanlig-dag-pa-storgatan-full-av-liv",
+        "sent-barnen-hoppar-och-skrattar",
         "sent-då-tar-jag-en-bit-morotskaka",
         "sent-då-tar-jag-fläskfilén-tack",
         "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "sent-de-plockar-blommor-och-grona-kvistar",
         "sent-det-ar-just-nu-mycket-varmt",
+        "sent-det-är-midsommarafton",
         "sent-det-blir-femtiofem-kronor",
         "sent-det-låter-gott-men-jag-är",
+        "sent-det-smakar-gott",
         "sent-efter-jobbet-handlar-jag-mat-i-affaren",
+        "sent-emma-gor-en-blomsterkrans-och-satter",
+        "sent-emma-vaknar-tidigt",
         "sent-en-kopp-kaffe-tack-och-sedan",
         "sent-en-latte-tack-men-kan-jag-fa-den",
         "sent-fika-allt-finns-med-eller-utan-mjölk",
@@ -1654,9 +1664,11 @@ window.KB_DATA = {
         "sent-greta-har-en-lillasyster-som-heter-beata",
         "sent-greta-thunberg-är-en-känd-klimataktivist",
         "sent-hej-och-välkommen-är-du-ensam",
+        "sent-hela-byn-samlas",
         "sent-hennes-mamma-heter-malena-ernman-och-är",
         "sent-hennes-pappa-heter-svante-och-är-skådespelare",
         "sent-hon-fortsätter-att-kämpa-för-klimatet",
+        "sent-hon-lagger-dem-under-kudden",
         "sent-ibland-traffar-jag-en-van-eller-gar",
         "sent-inga-problem-vi-har-havredryck",
         "sent-innan-jag-somnar-laser-jag-nagra-sidor",
@@ -1671,20 +1683,25 @@ window.KB_DATA = {
         "sent-jag-promenerar-langs-storgatan-solig-tisdag",
         "sent-jag-tar-lammkottletten-det-låter-fantastiskt",
         "sent-jag-vaknar-klockan-sju-varje-morgon",
+        "sent-klockan-ar-nastan-midnatt-men-himlen",
         "sent-kvällens-rätt-är-lammkotlett-med-örtsås",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
         "sent-lisa-vi-är-så-glada-att",
         "sent-mackorna-innehåller-tyvärr-vetebröd",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
+        "sent-midsommar-ar-midsommar",
         "sent-min-vardag-ar-ganska-enkel-men-jag",
         "sent-nagra-manniskor-vantar-cyklister-stannar-trafikljuset",
+        "sent-natten-ar-ljus",
         "sent-naturligtvis-jag-kommer-strax",
         "sent-och-jag-är-jätteglad-att-ni",
         "sent-pa-kvallen-lagar-jag-middag-och-tittar",
         "sent-pa-lunchen-brukar-jag-ata-tillsammans",
+        "sent-pappa-skalar-med-snaps",
         "sent-rakt-fram-ser-jag-ett-torg",
         "sent-sedan-tar-jag-bussen-till-jobbet",
         "sent-självklart-varsågod-jag-stämplar",
+        "sent-solen-skiner-redan",
         "sent-tack-detsamma-vi-ses-snart-igen",
         "sent-tack-så-mycket-kan-jag-betala-med-swish",
         "sent-tack-så-mycket-vad-rekommenderar-ni",
@@ -1699,6 +1716,7 @@ window.KB_DATA = {
         "source-2026-06-09-beskriva-en-gata",
         "source-2026-06-10-zlatan-subst-verb",
         "source-2026-06-15-restaurang-fodelsedag",
+        "source-2026-06-22-en-dag-pa-midsommar",
         "tål-inte-laktos",
         "tar-ni-kort",
         "topic-stadsmiljo",
@@ -1761,6 +1779,7 @@ window.KB_DATA = {
       "created": "2026-06-22",
       "known": false,
       "backlinks": [
+        "grammar-tidsadverbial",
         "sent-det-var-en-vanlig-helg-men-jag-trivdes",
         "sent-efter-frukosten-cyklade-jag-till-parken",
         "sent-jag-motte-en-gammal-van-dar",
@@ -1984,6 +2003,7 @@ window.KB_DATA = {
         "har-ni-bestämt-er",
         "hör-av-dig",
         "hur-tar-jag-mig-dit",
+        "ingen-bryr-sig",
         "känna-sig",
         "känna-sig-pigg",
         "klara-sig",
@@ -1995,6 +2015,7 @@ window.KB_DATA = {
         "sent-i-stället-satte-hon-sig-utanför-riksdagen",
         "sent-jag-motte-en-gammal-van-dar",
         "sent-luften-kanns-frisk-och-ren",
+        "sent-men-ingen-bryr-sig",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
         "sent-skynda-dig-lite",
@@ -2129,9 +2150,11 @@ window.KB_DATA = {
         "grammar-adjektiv-kongruens",
         "laktos",
         "nöt",
+        "sent-emma-gor-en-blomsterkrans-och-satter",
         "sent-inga-problem-vi-lagar-den-laktosfri",
         "sent-vår-fisksoppa-är-nötfri-och-kycklingen",
-        "source-2026-06-15-restaurang-allergi-nota"
+        "source-2026-06-15-restaurang-allergi-nota",
+        "source-2026-06-22-en-dag-pa-midsommar"
       ]
     },
     {
@@ -2188,6 +2211,7 @@ window.KB_DATA = {
         "sent-eftersom-astrid-var-ensam-kunde-hon",
         "sent-fick-fotbollsskor-trots-mamma",
         "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
+        "sent-kanske-drommar-hon-om-sin-framtida-karlek",
         "sent-manga-kommuner-valkomnar-sina-nya",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
         "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
@@ -2425,6 +2449,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grammar-tidsadverbial",
+      "type": "grammar",
+      "title": "tidsadverbial",
+      "path": "knowledge_base/grammar/grammar-tidsadverbial.md",
+      "body": "# 📗 tidsadverbial — 时间状语推进叙事 (time adverbials for narrative sequencing)\n\n级别: A2\n一句话: 用时间状语（på morgonen, sedan, till lunch, på kvällen…）把故事按时间顺序串起来，放句首时触发 V2 倒装。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[Tidsadverbial] + V2 倒装\npå morgonen   går    Emma ut i ängen\nsedan         klär   de  stången\ntill lunch    äter   de  sill\npå kvällen    plockar hon blommor\n```\n\n与中文对比: 中文时间词同样可放句首，但不触发倒装（\"早上爱玛走进草地\"）\n与英文对比: 英语时间副词通常不倒装（\"In the morning Emma goes out\"），瑞典语主谓必须倒装\n\n## 详细讲解 (Detail)\n\n常见叙事时间状语（按一天顺序）：\n- **på morgonen** — 早上\n- **sedan** — 接着/然后（最常用的推进词）\n- **till lunch** — 到午餐时\n- **på eftermiddagen** — 下午\n- **på kvällen** — 傍晚/晚上\n- **till slut** — 最终/终于（表示结束/高潮）\n\n这些词放句首时，主语和动词位置交换（V2 规则）：\n- ✅ *På morgonen **går** Emma ut.* （时间词 + 动词 + 主语）\n- ❌ *På morgonen Emma går ut.* （错：主语不能紧跟时间词）\n\n## 例句 (Examples)\n\n- ✅ [[sent-pa-morgonen-gar-emma-och-hennes-familj]] 🇸🇪 *På morgonen går Emma och hennes familj ut i ängen.* 🇨🇳 早上，爱玛和她的家人走进草地。\n- ✅ [[sent-sedan-klar-de-midsommarstangen-med-blommor]] 🇸🇪 *Sedan klär de midsommarstången med blommor och löv.* 🇨🇳 接着，他们用花和树叶装饰花柱。\n- ✅ [[sent-till-lunch-ater-de-sill-med-farskpotatis]] 🇸🇪 *Till lunch äter de sill med färskpotatis och gräddfil.* 🇨🇳 午餐时吃腌鲱鱼配新鲜土豆。\n- ✅ [[sent-pa-eftermiddagen-borjar-det-regna]] 🇸🇪 *På eftermiddagen börjar det regna.* 🇨🇳 下午开始下雨了。\n- ✅ [[sent-pa-kvallen-plockar-emma-sju-sorters-blommor]] 🇸🇪 *På kvällen plockar Emma sju sorters blommor.* 🇨🇳 傍晚，爱玛采了七种花。\n- ❌ *På morgonen Emma går ut.* ← V2 错误：主谓未倒装\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 时间词前置后忘记倒装：*Sedan de klär stången* → 应为 *Sedan klär de stången*\n- ⚠️ 混淆 sedan（时间推进连词）与 sen（口语形式，意思相同但更随意）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-v2-ordfoljd]] — V2 倒装总规则\n- 📎 [[grammar-preteritum-i-berattelse]] — 叙事中的过去时\n- 📎 [[grammar-bisats-tidskonnektor]] — 时间从句连词",
+      "excerpt": "📗 tidsadverbial — 时间状语推进叙事 (time adverbials for narrative sequencing) 级别: A2 一句话: 用时间状语（på morgonen, sedan, till lunch, på kvällen…）把故事按时间顺序串起来，放句首时触发 V2 倒装。 规则说明 (Rules) 📐 结构公式: [Tidsadverbial] + V2 倒装 på morgonen går",
+      "forms": [],
+      "links": [
+        "grammar-bisats-tidskonnektor",
+        "grammar-preteritum-i-berattelse",
+        "grammar-v2-ordfoljd",
+        "sent-pa-eftermiddagen-borjar-det-regna",
+        "sent-pa-kvallen-plockar-emma-sju-sorters-blommor",
+        "sent-pa-morgonen-gar-emma-och-hennes-familj",
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
+        "sent-till-lunch-ater-de-sill-med-farskpotatis"
+      ],
+      "searchText": "tidsadverbial grammar-tidsadverbial knowledge_base/grammar/grammar-tidsadverbial.md ---\ntype: grammar\nname: \"tidsadverbial\"\nzh: \"时间状语推进叙事\"\nen: \"time adverbials for narrative sequencing\"\nlevel: \"A2\"\nrelated: [\"grammar-v2-ordfoljd\", \"grammar-preteritum-i-berattelse\", \"grammar-bisats-tidskonnektor\"]\nexamples: [\"sent-pa-morgonen-gar-emma-och-hennes-familj\", \"sent-sedan-klar-de-midsommarstangen-med-blommor\", \"sent-till-lunch-ater-de-sill-med-farskpotatis\", \"sent-pa-eftermiddagen-borjar-det-regna\", \"sent-pa-kvallen-plockar-emma-sju-sorters-blommor\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 tidsadverbial — 时间状语推进叙事 (time adverbials for narrative sequencing)\n\n级别: A2\n一句话: 用时间状语（på morgonen, sedan, till lunch, på kvällen…）把故事按时间顺序串起来，放句首时触发 V2 倒装。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[Tidsadverbial] + V2 倒装\npå morgonen   går    Emma ut i ängen\nsedan         klär   de  stången\ntill lunch    äter   de  sill\npå kvällen    plockar hon blommor\n```\n\n与中文对比: 中文时间词同样可放句首，但不触发倒装（\"早上爱玛走进草地\"）\n与英文对比: 英语时间副词通常不倒装（\"In the morning Emma goes out\"），瑞典语主谓必须倒装\n\n## 详细讲解 (Detail)\n\n常见叙事时间状语（按一天顺序）：\n- **på morgonen** — 早上\n- **sedan** — 接着/然后（最常用的推进词）\n- **till lunch** — 到午餐时\n- **på eftermiddagen** — 下午\n- **på kvällen** — 傍晚/晚上\n- **till slut** — 最终/终于（表示结束/高潮）\n\n这些词放句首时，主语和动词位置交换（V2 规则）：\n- ✅ *På morgonen **går** Emma ut.* （时间词 + 动词 + 主语）\n- ❌ *På morgonen Emma går ut.* （错：主语不能紧跟时间词）\n\n## 例句 (Examples)\n\n- ✅ [[sent-pa-morgonen-gar-emma-och-hennes-familj]] 🇸🇪 *På morgonen går Emma och hennes familj ut i ängen.* 🇨🇳 早上，爱玛和她的家人走进草地。\n- ✅ [[sent-sedan-klar-de-midsommarstangen-med-blommor]] 🇸🇪 *Sedan klär de midsommarstången med blommor och löv.* 🇨🇳 接着，他们用花和树叶装饰花柱。\n- ✅ [[sent-till-lunch-ater-de-sill-med-farskpotatis]] 🇸🇪 *Till lunch äter de sill med färskpotatis och gräddfil.* 🇨🇳 午餐时吃腌鲱鱼配新鲜土豆。\n- ✅ [[sent-pa-eftermiddagen-borjar-det-regna]] 🇸🇪 *På eftermiddagen börjar det regna.* 🇨🇳 下午开始下雨了。\n- ✅ [[sent-pa-kvallen-plockar-emma-sju-sorters-blommor]] 🇸🇪 *På kvällen plockar Emma sju sorters blommor.* 🇨🇳 傍晚，爱玛采了七种花。\n- ❌ *På morgonen Emma går ut.* ← V2 错误：主谓未倒装\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 时间词前置后忘记倒装：*Sedan de klär stången* → 应为 *Sedan klär de stången*\n- ⚠️ 混淆 sedan（时间推进连词）与 sen（口语形式，意思相同但更随意）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-v2-ordfoljd]] — V2 倒装总规则\n- 📎 [[grammar-preteritum-i-berattelse]] — 叙事中的过去时\n- 📎 [[grammar-bisats-tidskonnektor]] — 时间从句连词\n",
+      "name": "tidsadverbial",
+      "zh": "时间状语推进叙事",
+      "en": "time adverbials for narrative sequencing",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "sent-pa-eftermiddagen-borjar-det-regna",
+        "sent-pa-kvallen-plockar-emma-sju-sorters-blommor",
+        "sent-pa-morgonen-gar-emma-och-hennes-familj",
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
+        "sent-till-lunch-ater-de-sill-med-farskpotatis",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ]
+    },
+    {
       "slug": "grammar-trots-substantiv",
       "type": "grammar",
       "title": "trots + substantiv",
@@ -2526,10 +2583,12 @@ window.KB_DATA = {
         "grammar-preteritum-oregelbundna",
         "grammar-satsadverbial",
         "grammar-ska-infinitiv",
+        "grammar-tidsadverbial",
         "hur-är-läget",
         "hur-kommer-jag-dit",
         "index",
         "just-då",
+        "klä-stången-med-blommor",
         "plötsligt",
         "sent-annars-funkar-söndag-också",
         "sent-antligen-kunde-jag-andas-ut",
@@ -2546,6 +2605,7 @@ window.KB_DATA = {
         "sent-den-fragan-ska-invanarna-i-alberta",
         "sent-det-blir-femtiofem-kronor",
         "sent-det-här-rapporterar-lokala-ryska",
+        "sent-det-tar-tid-men-till-slut-star-den",
         "sent-det-visar-en-ny-undersökning-från-karolinska",
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
         "sent-efter-frukosten-cyklade-jag-till-parken",
@@ -2592,6 +2652,7 @@ window.KB_DATA = {
         "sent-jag-arbetar-pa-ett-sjukhus",
         "sent-jag-föredrar-fisken-vad-säger-du",
         "sent-just-da-markte-jag-att-min-planbok-var-borta",
+        "sent-kanske-drommar-hon-om-sin-framtida-karlek",
         "sent-lite-langre-fram-i-hornet-storgatan-parkgatan-kafé",
         "sent-man-plockar-svamp-och-njuter",
         "sent-manga-svenskar-tar-semester-tillbringar",
@@ -2605,15 +2666,18 @@ window.KB_DATA = {
         "sent-nu-går-nya-filmen-toy-story",
         "sent-nyligen-hade-ländernas-ledare",
         "sent-och-var-ligger-brodet",
+        "sent-pa-eftermiddagen-borjar-det-regna",
         "sent-pa-eftermiddagen-handlade-vi-mat",
         "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
         "sent-pa-golvet-framfor-soffan-rund-matta",
         "sent-pa-golvet-mellan-sangen-skriv-stor-matta",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
         "sent-pa-kvallen-lagar-jag-middag-och-tittar",
+        "sent-pa-kvallen-plockar-emma-sju-sorters-blommor",
         "sent-pa-kvallen-ringde-jag-mina-foraldrar",
         "sent-pa-lunchen-brukar-jag-ata-tillsammans",
         "sent-på-midsommardagen-blir-det-varmare",
+        "sent-pa-morgonen-gar-emma-och-hennes-familj",
         "sent-pa-morgonen-lagade-jag-frukost-och-drack",
         "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex",
         "sent-pa-nattduksbord-star-lampa-bok-bredvid",
@@ -2629,6 +2693,7 @@ window.KB_DATA = {
         "sent-samtidigt-har-det-under-natten-varit",
         "sent-sangens-star-langs-vaggen-under-sangen",
         "sent-sedan-1800-talet-har-människor",
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
         "sent-sedan-svänger-du-till-höger",
         "sent-sedan-tar-jag-bussen-till-jobbet",
         "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
@@ -2641,8 +2706,10 @@ window.KB_DATA = {
         "sent-tidigt-i-morse-brann-det-i-en",
         "sent-till-hoger-om-mig-ligger-en-park",
         "sent-till-hoger-om-soffan-star-bokhylla",
+        "sent-till-lunch-ater-de-sill-med-farskpotatis",
         "sent-till-slut-var-allt-bra-igen",
         "sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank",
+        "sent-tillsammans-reser-de-stangen",
         "sent-under-fonster-finns-ett-element",
         "sent-under-tavlan-star-ett-skrivbord",
         "sent-ursäkta-var-hittar-jag-mjölken",
@@ -2655,6 +2722,7 @@ window.KB_DATA = {
         "source-2026-06-15-restaurang-fodelsedag",
         "source-2026-06-18-fraga-efter-vagen",
         "source-2026-06-21-handla-i-mataffaren",
+        "source-2026-06-22-en-dag-pa-midsommar",
         "source-2026-06-22-en-helg",
         "till-slut",
         "var-hittar-jag"
@@ -6239,10 +6307,45 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "det-ordnar-vi",
+        "ingen-bryr-sig",
         "jag-är-allergisk-mot",
         "sent-inga-problem-vi-lagar-den-laktosfri",
         "source-2026-06-15-restaurang-allergi-nota",
         "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "ingen-bryr-sig",
+      "type": "phrase",
+      "title": "ingen bryr sig",
+      "path": "knowledge_base/phrases/ingen-bryr-sig.md",
+      "body": "# ingen bryr sig\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 没有人在意 · 🇬🇧 nobody cares / no one minds\n📝 字面: no one cares themselves (reflexive)\n\n## 用法说明 (Usage)\n\n- 常用于表达某件事（如下雨）不会影响大家的心情或计划\n- ingen（没有人）+ bryr sig（在乎/介意，反身动词）\n- 语气轻松，有时带有幽默感\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-reflexivt-verb]]：bry sig（在意）是反身动词，必须带 sig\n- ingen = 没有人（不定代词，用于否定）\n- bry sig om = 在意某事/某人（更完整形式）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 Det bryr sig ingen om — 没人在意这件事（更正式语序）\n- 🔄 Ingen bryr sig om det — 没有人在意那件事\n- 🔗 [[inga-problem]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-men-ingen-bryr-sig]] 🇸🇪 Men ingen bryr sig. 🇨🇳 但没有人在意。",
+      "excerpt": "ingen bryr sig 🗣️ 类型: fast uttryck · 语域: vardagligt · 常用度: 4/5 🇨🇳 没有人在意 · 🇬🇧 nobody cares / no one minds 📝 字面: no one cares themselves (reflexive) 用法说明 (Usage) 常用于表达某件事（如下雨）不会影响大家的心情或计划 ingen（没有人）+ bryr sig（在乎/介意，反",
+      "forms": [],
+      "links": [
+        "grammar-reflexivt-verb",
+        "inga-problem",
+        "sent-men-ingen-bryr-sig"
+      ],
+      "searchText": "ingen bryr sig ingen-bryr-sig knowledge_base/phrases/ingen-bryr-sig.md ---\ntype: phrase\nphrase: \"ingen bryr sig\"\ncategory: \"fast-uttryck\"\nregister: \"vardagligt\"\nfrequency: 4\nzh: \"没有人在意\"\nen: \"nobody cares / no one minds\"\nliteral: \"no one cares themselves\"\nhead_words: [\"ingen\", \"bry\"]\ngrammar: [\"grammar-reflexivt-verb\"]\nrelated: []\ntopics: [\"topic-social-kontakt\"]\nsentences: [\"sent-men-ingen-bryr-sig\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ingen bryr sig\n\n🗣️ 类型: fast-uttryck · 语域: vardagligt · 常用度: 4/5\n🇨🇳 没有人在意 · 🇬🇧 nobody cares / no one minds\n📝 字面: no one cares themselves (reflexive)\n\n## 用法说明 (Usage)\n\n- 常用于表达某件事（如下雨）不会影响大家的心情或计划\n- ingen（没有人）+ bryr sig（在乎/介意，反身动词）\n- 语气轻松，有时带有幽默感\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-reflexivt-verb]]：bry sig（在意）是反身动词，必须带 sig\n- ingen = 没有人（不定代词，用于否定）\n- bry sig om = 在意某事/某人（更完整形式）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 Det bryr sig ingen om — 没人在意这件事（更正式语序）\n- 🔄 Ingen bryr sig om det — 没有人在意那件事\n- 🔗 [[inga-problem]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-men-ingen-bryr-sig]] 🇸🇪 Men ingen bryr sig. 🇨🇳 但没有人在意。\n",
+      "zh": "没有人在意",
+      "en": "nobody cares / no one minds",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "ingen bryr sig",
+      "category": "fast-uttryck",
+      "sentences": [
+        "sent-men-ingen-bryr-sig"
+      ],
+      "grammar": [
+        "grammar-reflexivt-verb"
+      ],
+      "topics": [
+        "topic-social-kontakt"
+      ],
+      "backlinks": [
+        "sent-men-ingen-bryr-sig",
+        "source-2026-06-22-en-dag-pa-midsommar"
       ]
     },
     {
@@ -6809,9 +6912,46 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "hålla-värmen",
+        "klä",
         "sent-man-klar-pa-sig-tjocka-jackor",
         "source-2026-06-16-vadret-och-arstiderna",
         "topic-vader-och-arstider"
+      ]
+    },
+    {
+      "slug": "klä-stången-med-blommor",
+      "type": "phrase",
+      "title": "klä stången med blommor",
+      "path": "knowledge_base/phrases/klä-stången-med-blommor.md",
+      "body": "# klä stången med blommor\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 用花装饰仲夏节花柱 · 🇬🇧 to dress the maypole with flowers\n📝 字面: dress the pole with flowers\n\n## 用法说明 (Usage)\n\n- 仲夏节传统活动：用鲜花和绿枝把仲夏柱（midsommarstången）装饰起来\n- 动词 klä + 宾语 + med + 装饰材料 是固定句式\n- 全村人在节日前夕一起完成这项工作\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-v2-ordfoljd]] （以 Sedan 开头时触发倒装）\n- klä ... med = 用…来装饰\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 klä midsommarstången med löv och blommor — 用树叶和花装饰仲夏柱\n- 🔗 [[sju-sorters-blommor]]\n- 🔗 [[klä]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-sedan-klar-de-midsommarstangen-med-blommor]] 🇸🇪 Sedan klär de midsommarstången med blommor och löv. 🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。",
+      "excerpt": "klä stången med blommor 🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 3/5 🇨🇳 用花装饰仲夏节花柱 · 🇬🇧 to dress the maypole with flowers 📝 字面: dress the pole with flowers 用法说明 (Usage) 仲夏节传统活动：用鲜花和绿枝把仲夏柱（midsommarstången）装饰起来 动词 kl",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "klä",
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
+        "sju-sorters-blommor"
+      ],
+      "searchText": "klä stången med blommor klä-stången-med-blommor knowledge_base/phrases/klä-stången-med-blommor.md ---\ntype: phrase\nphrase: \"klä stången med blommor\"\ncategory: \"vardagsfras\"\nregister: \"neutralt\"\nfrequency: 3\nzh: \"用花装饰仲夏节花柱\"\nen: \"to dress the maypole with flowers\"\nliteral: \"dress the pole with flowers\"\nhead_words: [\"klä\", \"midsommarstång\", \"blomma\"]\ngrammar: [\"grammar-v2-ordfoljd\"]\nrelated: [\"sju-sorters-blommor\"]\ntopics: [\"topic-midsommar-traditioner\"]\nsentences: [\"sent-sedan-klar-de-midsommarstangen-med-blommor\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# klä stången med blommor\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 用花装饰仲夏节花柱 · 🇬🇧 to dress the maypole with flowers\n📝 字面: dress the pole with flowers\n\n## 用法说明 (Usage)\n\n- 仲夏节传统活动：用鲜花和绿枝把仲夏柱（midsommarstången）装饰起来\n- 动词 klä + 宾语 + med + 装饰材料 是固定句式\n- 全村人在节日前夕一起完成这项工作\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-v2-ordfoljd]] （以 Sedan 开头时触发倒装）\n- klä ... med = 用…来装饰\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 klä midsommarstången med löv och blommor — 用树叶和花装饰仲夏柱\n- 🔗 [[sju-sorters-blommor]]\n- 🔗 [[klä]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-sedan-klar-de-midsommarstangen-med-blommor]] 🇸🇪 Sedan klär de midsommarstången med blommor och löv. 🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。\n",
+      "zh": "用花装饰仲夏节花柱",
+      "en": "to dress the maypole with flowers",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "klä stången med blommor",
+      "category": "vardagsfras",
+      "sentences": [
+        "sent-sedan-klar-de-midsommarstangen-med-blommor"
+      ],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
       ]
     },
     {
@@ -7203,6 +7343,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "lägga-under-kudden",
+      "type": "phrase",
+      "title": "lägga under kudden",
+      "path": "knowledge_base/phrases/lägga-under-kudden.md",
+      "body": "# lägga under kudden\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 2/5\n🇨🇳 放在枕头下面 · 🇬🇧 to put under the pillow\n📝 字面: lay under the pillow\n\n## 用法说明 (Usage)\n\n- 仲夏节传统：采七种花（sju sorters blommor）后放在枕头下面，相传会梦见未来的爱人\n- lägga（放置）+ under（在…下面）+ kudden（枕头，定式）\n- 常与 sju sorters blommor 搭配出现\n\n## 短语中的语法 (Grammar inside)\n\n- lägga（v.2r）：lägger / lade / lagt\n- kudden = kudde（枕头）的bestämd form singular\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 lägga blommorna under kudden — 把花放在枕头下面\n- 🔗 [[sju-sorters-blommor]]\n- 🔗 [[kudde]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hon-lagger-dem-under-kudden]] 🇸🇪 Hon lägger dem under kudden. 🇨🇳 她把花放在枕头下面。",
+      "excerpt": "lägga under kudden 🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 2/5 🇨🇳 放在枕头下面 · 🇬🇧 to put under the pillow 📝 字面: lay under the pillow 用法说明 (Usage) 仲夏节传统：采七种花（sju sorters blommor）后放在枕头下面，相传会梦见未来的爱人 lägga（放置）+ under（在…下面",
+      "forms": [],
+      "links": [
+        "kudde",
+        "sent-hon-lagger-dem-under-kudden",
+        "sju-sorters-blommor"
+      ],
+      "searchText": "lägga under kudden lägga-under-kudden knowledge_base/phrases/lägga-under-kudden.md ---\ntype: phrase\nphrase: \"lägga under kudden\"\ncategory: \"vardagsfras\"\nregister: \"neutralt\"\nfrequency: 2\nzh: \"放在枕头下面\"\nen: \"to put under the pillow\"\nliteral: \"lay under the pillow\"\nhead_words: [\"lägga\", \"kudde\"]\ngrammar: []\nrelated: [\"sju-sorters-blommor\"]\ntopics: [\"topic-midsommar-traditioner\"]\nsentences: [\"sent-hon-lagger-dem-under-kudden\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lägga under kudden\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 2/5\n🇨🇳 放在枕头下面 · 🇬🇧 to put under the pillow\n📝 字面: lay under the pillow\n\n## 用法说明 (Usage)\n\n- 仲夏节传统：采七种花（sju sorters blommor）后放在枕头下面，相传会梦见未来的爱人\n- lägga（放置）+ under（在…下面）+ kudden（枕头，定式）\n- 常与 sju sorters blommor 搭配出现\n\n## 短语中的语法 (Grammar inside)\n\n- lägga（v.2r）：lägger / lade / lagt\n- kudden = kudde（枕头）的bestämd form singular\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 lägga blommorna under kudden — 把花放在枕头下面\n- 🔗 [[sju-sorters-blommor]]\n- 🔗 [[kudde]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hon-lagger-dem-under-kudden]] 🇸🇪 Hon lägger dem under kudden. 🇨🇳 她把花放在枕头下面。\n",
+      "zh": "放在枕头下面",
+      "en": "to put under the pillow",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "lägga under kudden",
+      "category": "vardagsfras",
+      "sentences": [
+        "sent-hon-lagger-dem-under-kudden"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "sent-hon-lagger-dem-under-kudden",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
+      ]
+    },
+    {
       "slug": "låna-ut",
       "type": "phrase",
       "title": "låna ut",
@@ -7383,6 +7556,42 @@ window.KB_DATA = {
         "bli-dömd-till",
         "sent-idag-dömdes-en-av-foxtrots-högsta",
         "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "ljusa-nätter",
+      "type": "phrase",
+      "title": "ljusa nätter",
+      "path": "knowledge_base/phrases/ljusa-nätter.md",
+      "body": "# ljusa nätter\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 明亮的夜晚(瑞典夏夜) · 🇬🇧 bright nights (Swedish summer)\n📝 字面: bright nights\n\n## 用法说明 (Usage)\n\n- 描述瑞典夏天特有的现象：夏至前后，午夜天空仍然明亮\n- ljus（明亮的）+ nätter（natt的复数）\n- 瑞典夏天的标志性体验，尤其在北部地区（midnattssol 午夜阳光）\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-adjektiv-kongruens]]：ljus → ljusa（形容词复数变形）\n- natt（en natt）→ nätter（复数），不规则变化\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 ljusa sommarnätter — 明亮的夏夜\n- 🔄 Natten är ljus — 夜晚是明亮的（单数）\n- 🔗 [[ljus]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-natten-ar-ljus]] 🇸🇪 Natten är ljus. 🇨🇳 夜晚是明亮的。\n- 🇸🇪 Svenska ljusa nätter på sommaren är magiska. 🇨🇳 瑞典夏天的明亮夜晚是神奇的。",
+      "excerpt": "ljusa nätter 🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 3/5 🇨🇳 明亮的夜晚(瑞典夏夜) · 🇬🇧 bright nights (Swedish summer) 📝 字面: bright nights 用法说明 (Usage) 描述瑞典夏天特有的现象：夏至前后，午夜天空仍然明亮 ljus（明亮的）+ nätter（natt的复数） 瑞典夏天的标志性体验，尤其在北部地区（",
+      "forms": [],
+      "links": [
+        "grammar-adjektiv-kongruens",
+        "ljus",
+        "sent-natten-ar-ljus"
+      ],
+      "searchText": "ljusa nätter ljusa-nätter knowledge_base/phrases/ljusa-nätter.md ---\ntype: phrase\nphrase: \"ljusa nätter\"\ncategory: \"vardagsfras\"\nregister: \"neutralt\"\nfrequency: 3\nzh: \"明亮的夜晚(瑞典夏夜)\"\nen: \"bright nights (Swedish summer)\"\nliteral: \"bright nights\"\nhead_words: [\"ljus\", \"natt\"]\ngrammar: [\"grammar-adjektiv-kongruens\"]\nrelated: []\ntopics: [\"topic-midsommar-traditioner\", \"topic-vader-och-arstider\"]\nsentences: [\"sent-natten-ar-ljus\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ljusa nätter\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 3/5\n🇨🇳 明亮的夜晚(瑞典夏夜) · 🇬🇧 bright nights (Swedish summer)\n📝 字面: bright nights\n\n## 用法说明 (Usage)\n\n- 描述瑞典夏天特有的现象：夏至前后，午夜天空仍然明亮\n- ljus（明亮的）+ nätter（natt的复数）\n- 瑞典夏天的标志性体验，尤其在北部地区（midnattssol 午夜阳光）\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-adjektiv-kongruens]]：ljus → ljusa（形容词复数变形）\n- natt（en natt）→ nätter（复数），不规则变化\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 ljusa sommarnätter — 明亮的夏夜\n- 🔄 Natten är ljus — 夜晚是明亮的（单数）\n- 🔗 [[ljus]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-natten-ar-ljus]] 🇸🇪 Natten är ljus. 🇨🇳 夜晚是明亮的。\n- 🇸🇪 Svenska ljusa nätter på sommaren är magiska. 🇨🇳 瑞典夏天的明亮夜晚是神奇的。\n",
+      "zh": "明亮的夜晚(瑞典夏夜)",
+      "en": "bright nights (Swedish summer)",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "ljusa nätter",
+      "category": "vardagsfras",
+      "sentences": [
+        "sent-natten-ar-ljus"
+      ],
+      "grammar": [
+        "grammar-adjektiv-kongruens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "sent-natten-ar-ljus",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
       ]
     },
     {
@@ -8553,8 +8762,12 @@ window.KB_DATA = {
         "topic-midsommar-traditioner"
       ],
       "backlinks": [
+        "klä-stången-med-blommor",
+        "lägga-under-kudden",
         "sent-människor-brukar-plocka-sju-sorters",
+        "sent-pa-kvallen-plockar-emma-sju-sorters-blommor",
         "source-2026-06-18-nyheter-8sidor",
+        "source-2026-06-22-en-dag-pa-midsommar",
         "topic-midsommar-traditioner"
       ]
     },
@@ -8585,7 +8798,44 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-skål-för-födelsedagsfirandet",
+        "skåla",
+        "skåla-med-snaps",
         "source-2026-06-15-restaurang-fodelsedag"
+      ]
+    },
+    {
+      "slug": "skåla-med-snaps",
+      "type": "phrase",
+      "title": "skåla med snaps",
+      "path": "knowledge_base/phrases/skåla-med-snaps.md",
+      "body": "# skåla med snaps\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 3/5\n🇨🇳 用烈酒干杯 · 🇬🇧 to toast with snaps\n📝 字面: toast with snaps (aquavit)\n\n## 用法说明 (Usage)\n\n- 仲夏节最典型的餐桌仪式：举起 snaps（烈酒）互相碰杯，通常配着唱 snapsvisor（干杯歌）\n- skåla + med + 饮料 = 用…干杯\n- 也可单独说 Skål! 作为祝酒词\n\n## 短语中的语法 (Grammar inside)\n\n- skåla（v.1）：skålar / skålade / skålat\n- med = 用（工具/方式）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 skåla för midsommar — 为仲夏节干杯\n- 🔄 Ta en snaps — 喝一口烈酒\n- 🔗 [[skål-för]]\n- 🔗 [[skåla]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-pappa-skalar-med-snaps]] 🇸🇪 Pappa skålar med snaps. 🇨🇳 爸爸举起小酒杯干杯。",
+      "excerpt": "skåla med snaps 🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 3/5 🇨🇳 用烈酒干杯 · 🇬🇧 to toast with snaps 📝 字面: toast with snaps (aquavit) 用法说明 (Usage) 仲夏节最典型的餐桌仪式：举起 snaps（烈酒）互相碰杯，通常配着唱 snapsvisor（干杯歌） skåla + med + 饮料 = 用",
+      "forms": [],
+      "links": [
+        "sent-pappa-skalar-med-snaps",
+        "skål-för",
+        "skåla"
+      ],
+      "searchText": "skåla med snaps skåla-med-snaps knowledge_base/phrases/skåla-med-snaps.md ---\ntype: phrase\nphrase: \"skåla med snaps\"\ncategory: \"vardagsfras\"\nregister: \"vardagligt\"\nfrequency: 3\nzh: \"用烈酒干杯\"\nen: \"to toast with snaps\"\nliteral: \"toast with snaps\"\nhead_words: [\"skåla\", \"snaps\"]\ngrammar: []\nrelated: [\"skål-för\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-social-kontakt\", \"topic-mat-dryck\"]\nsentences: [\"sent-pappa-skalar-med-snaps\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skåla med snaps\n\n🗣️ 类型: vardagsfras · 语域: vardagligt · 常用度: 3/5\n🇨🇳 用烈酒干杯 · 🇬🇧 to toast with snaps\n📝 字面: toast with snaps (aquavit)\n\n## 用法说明 (Usage)\n\n- 仲夏节最典型的餐桌仪式：举起 snaps（烈酒）互相碰杯，通常配着唱 snapsvisor（干杯歌）\n- skåla + med + 饮料 = 用…干杯\n- 也可单独说 Skål! 作为祝酒词\n\n## 短语中的语法 (Grammar inside)\n\n- skåla（v.1）：skålar / skålade / skålat\n- med = 用（工具/方式）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 skåla för midsommar — 为仲夏节干杯\n- 🔄 Ta en snaps — 喝一口烈酒\n- 🔗 [[skål-för]]\n- 🔗 [[skåla]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-pappa-skalar-med-snaps]] 🇸🇪 Pappa skålar med snaps. 🇨🇳 爸爸举起小酒杯干杯。\n",
+      "zh": "用烈酒干杯",
+      "en": "to toast with snaps",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "skåla med snaps",
+      "category": "vardagsfras",
+      "sentences": [
+        "sent-pappa-skalar-med-snaps"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-social-kontakt",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-pappa-skalar-med-snaps",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
       ]
     },
     {
@@ -9919,8 +10169,10 @@ window.KB_DATA = {
       "backlinks": [
         "efter-det",
         "en-stund-senare",
+        "sent-det-tar-tid-men-till-slut-star-den",
         "sent-till-slut-var-allt-bra-igen",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "source-2026-06-22-en-dag-pa-midsommar",
         "topic-tid-och-tidsuttryck"
       ]
     },
@@ -11225,6 +11477,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-alla-dansar-runt-stangen-och-sjunger",
+      "type": "sentence",
+      "title": "🇸🇪 Alla dansar runt stången och sjunger \"Små grodorna\".",
+      "path": "knowledge_base/sentences/sent-alla-dansar-runt-stangen-och-sjunger.md",
+      "body": "# 🇸🇪 Alla dansar runt stången och sjunger \"Små grodorna\".\n\n🇨🇳 所有人都围着花柱跳舞，唱着《小青蛙》。\n\n## 结构 (Structure)\n\n```\n[Alla]  [dansar]  [runt stången]  och  [sjunger]  [\"Små grodorna\"]\n  主语    动词1       介词短语          动词2           宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — dansar（dansa v.1），sjunger（sjunga 不规则）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[dansa]] · [[sjunga]] · [[midsommarstång]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Alla dansar runt stången och sjunger \"Små grodorna\". 🇨🇳 所有人都围着花柱跳舞，唱着《小青蛙》。 结构 (Structure) [Alla] [dansar] [runt stången] och [sjunger] [\"Små grodorna\"] 主语 动词1 介词短语 动词2 宾语 语法点 (Grammar) 📌 grammar presens — dansar",
+      "forms": [],
+      "links": [
+        "dansa",
+        "grammar-presens",
+        "midsommarstång",
+        "sjunga",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Alla dansar runt stången och sjunger \"Små grodorna\". sent-alla-dansar-runt-stangen-och-sjunger knowledge_base/sentences/sent-alla-dansar-runt-stangen-och-sjunger.md ---\ntype: sentence\nsentence: \"Alla dansar runt stången och sjunger \\\"Små grodorna\\\".\"\nzh: \"所有人都围着花柱跳舞，唱着《小青蛙》。\"\ncefr: \"A2\"\nwords: [\"dansa\", \"sjunga\", \"midsommarstång\"]\nphrases: []\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Alla dansar runt stången och sjunger \"Små grodorna\".\n\n🇨🇳 所有人都围着花柱跳舞，唱着《小青蛙》。\n\n## 结构 (Structure)\n\n```\n[Alla]  [dansar]  [runt stången]  och  [sjunger]  [\"Små grodorna\"]\n  主语    动词1       介词短语          动词2           宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — dansar（dansa v.1），sjunger（sjunga 不规则）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[dansa]] · [[sjunga]] · [[midsommarstång]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "所有人都围着花柱跳舞，唱着《小青蛙》。",
+      "created": "2026-06-22",
+      "sentence": "Alla dansar runt stången och sjunger \\\"Små grodorna\\\".",
+      "words": [
+        "dansa",
+        "sjunga",
+        "midsommarstång"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-allt-fler-människor-dör-av-värme",
       "type": "sentence",
       "title": "Allt fler människor dör av värme i Europa.",
@@ -11830,6 +12116,40 @@ window.KB_DATA = {
         "source-2026-06-22-listening-svt-latt",
         "vidta-åtgärder"
       ]
+    },
+    {
+      "slug": "sent-barnen-hoppar-och-skrattar",
+      "type": "sentence",
+      "title": "🇸🇪 Barnen hoppar och skrattar.",
+      "path": "knowledge_base/sentences/sent-barnen-hoppar-och-skrattar.md",
+      "body": "# 🇸🇪 Barnen hoppar och skrattar.\n\n🇨🇳 孩子们又蹦又跳，笑声不断。\n\n## 结构 (Structure)\n\n```\n[Barnen]  [hoppar]  och  [skrattar]\n   主语     动词1          动词2\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — hoppar（hoppa v.1），skrattar（skratta v.1）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[barn]] · [[hoppa]] · [[skratta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Barnen hoppar och skrattar. 🇨🇳 孩子们又蹦又跳，笑声不断。 结构 (Structure) [Barnen] [hoppar] och [skrattar] 主语 动词1 动词2 语法点 (Grammar) 📌 grammar presens — hoppar（hoppa v.1），skrattar（skratta v.1） 生词 & 词组 (Words & Phrases) 词: barn ",
+      "forms": [],
+      "links": [
+        "barn",
+        "grammar-presens",
+        "hoppa",
+        "skratta",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Barnen hoppar och skrattar. sent-barnen-hoppar-och-skrattar knowledge_base/sentences/sent-barnen-hoppar-och-skrattar.md ---\ntype: sentence\nsentence: \"Barnen hoppar och skrattar.\"\nzh: \"孩子们又蹦又跳，笑声不断。\"\ncefr: \"A1\"\nwords: [\"barn\", \"hoppa\", \"skratta\"]\nphrases: []\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Barnen hoppar och skrattar.\n\n🇨🇳 孩子们又蹦又跳，笑声不断。\n\n## 结构 (Structure)\n\n```\n[Barnen]  [hoppar]  och  [skrattar]\n   主语     动词1          动词2\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — hoppar（hoppa v.1），skrattar（skratta v.1）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[barn]] · [[hoppa]] · [[skratta]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A1",
+      "zh": "孩子们又蹦又跳，笑声不断。",
+      "created": "2026-06-22",
+      "sentence": "Barnen hoppar och skrattar.",
+      "words": [
+        "barn",
+        "hoppa",
+        "skratta"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-beroende-var-i-landet-man-bor",
@@ -12691,6 +13011,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-de-plockar-blommor-och-grona-kvistar",
+      "type": "sentence",
+      "title": "🇸🇪 De plockar blommor och gröna kvistar.",
+      "path": "knowledge_base/sentences/sent-de-plockar-blommor-och-grona-kvistar.md",
+      "body": "# 🇸🇪 De plockar blommor och gröna kvistar.\n\n🇨🇳 他们采摘鲜花和绿色的小树枝。\n\n## 结构 (Structure)\n\n```\n[De]  [plockar]  [blommor och gröna kvistar]\n 主语    动词              宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — plocka → plockar（v.1）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[plocka]] · [[blomma]] · [[kvist]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 De plockar blommor och gröna kvistar. 🇨🇳 他们采摘鲜花和绿色的小树枝。 结构 (Structure) [De] [plockar] [blommor och gröna kvistar] 主语 动词 宾语 语法点 (Grammar) 📌 grammar presens — plocka → plockar（v.1） 生词 & 词组 (Words & Phrases) 词: ploc",
+      "forms": [],
+      "links": [
+        "blomma",
+        "grammar-presens",
+        "kvist",
+        "plocka",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 De plockar blommor och gröna kvistar. sent-de-plockar-blommor-och-grona-kvistar knowledge_base/sentences/sent-de-plockar-blommor-och-grona-kvistar.md ---\ntype: sentence\nsentence: \"De plockar blommor och gröna kvistar.\"\nzh: \"他们采摘鲜花和绿色的小树枝。\"\ncefr: \"A1\"\nwords: [\"plocka\", \"blomma\", \"kvist\"]\nphrases: []\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 De plockar blommor och gröna kvistar.\n\n🇨🇳 他们采摘鲜花和绿色的小树枝。\n\n## 结构 (Structure)\n\n```\n[De]  [plockar]  [blommor och gröna kvistar]\n 主语    动词              宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — plocka → plockar（v.1）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[plocka]] · [[blomma]] · [[kvist]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A1",
+      "zh": "他们采摘鲜花和绿色的小树枝。",
+      "created": "2026-06-22",
+      "sentence": "De plockar blommor och gröna kvistar.",
+      "words": [
+        "plocka",
+        "blomma",
+        "kvist"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-de-tar-bort-vaxter-som-hotar-andra-arter",
       "type": "sentence",
       "title": "🇸🇪 De tar bort växter som hotar andra arter.",
@@ -13367,6 +13721,36 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-22-listening-svt-latt"
       ]
+    },
+    {
+      "slug": "sent-det-är-midsommarafton",
+      "type": "sentence",
+      "title": "🇸🇪 Det är midsommarafton.",
+      "path": "knowledge_base/sentences/sent-det-är-midsommarafton.md",
+      "body": "# 🇸🇪 Det är midsommarafton.\n\n🇨🇳 仲夏节前夕到了。\n\n## 结构 (Structure)\n\n```\n[Det]  [är]   [midsommarafton]\n  形主    动词      表语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 现在时 är（是 be 动词）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[midsommarafton]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Det är midsommarafton. 🇨🇳 仲夏节前夕到了。 结构 (Structure) [Det] [är] [midsommarafton] 形主 动词 表语 语法点 (Grammar) 📌 grammar presens — 现在时 är（是 be 动词） 生词 & 词组 (Words & Phrases) 词: midsommarafton 来源 (Source) source 2026 06 22 e",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "midsommarafton",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Det är midsommarafton. sent-det-är-midsommarafton knowledge_base/sentences/sent-det-är-midsommarafton.md ---\ntype: sentence\nsentence: \"Det är midsommarafton.\"\nzh: \"仲夏节前夕到了。\"\ncefr: \"A1\"\nwords: [\"midsommarafton\"]\nphrases: []\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är midsommarafton.\n\n🇨🇳 仲夏节前夕到了。\n\n## 结构 (Structure)\n\n```\n[Det]  [är]   [midsommarafton]\n  形主    动词      表语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 现在时 är（是 be 动词）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[midsommarafton]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A1",
+      "zh": "仲夏节前夕到了。",
+      "created": "2026-06-22",
+      "sentence": "Det är midsommarafton.",
+      "words": [
+        "midsommarafton"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-det-är-mycket-ovanligt-att-skjuta",
@@ -14114,6 +14498,74 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-det-smakar-gott",
+      "type": "sentence",
+      "title": "🇸🇪 Det smakar gott!",
+      "path": "knowledge_base/sentences/sent-det-smakar-gott.md",
+      "body": "# 🇸🇪 Det smakar gott!\n\n🇨🇳 味道真好！\n\n## 结构 (Structure)\n\n```\n[Det]  [smakar]  [gott]\n  主    动词       副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — smakar（smaka v.1）；gott 是 god 的中性形（副词用法）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[smaka]] · [[god]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Det smakar gott! 🇨🇳 味道真好！ 结构 (Structure) [Det] [smakar] [gott] 主 动词 副词 语法点 (Grammar) 📌 grammar presens — smakar（smaka v.1）；gott 是 god 的中性形（副词用法） 生词 & 词组 (Words & Phrases) 词: smaka · god 来源 (Source) source 2026 06",
+      "forms": [],
+      "links": [
+        "god",
+        "grammar-presens",
+        "smaka",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Det smakar gott! sent-det-smakar-gott knowledge_base/sentences/sent-det-smakar-gott.md ---\ntype: sentence\nsentence: \"Det smakar gott!\"\nzh: \"味道真好！\"\ncefr: \"A1\"\nwords: [\"smaka\", \"god\"]\nphrases: []\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\", \"topic-mat-dryck\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det smakar gott!\n\n🇨🇳 味道真好！\n\n## 结构 (Structure)\n\n```\n[Det]  [smakar]  [gott]\n  主    动词       副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — smakar（smaka v.1）；gott 是 god 的中性形（副词用法）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[smaka]] · [[god]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A1",
+      "zh": "味道真好！",
+      "created": "2026-06-22",
+      "sentence": "Det smakar gott!",
+      "words": [
+        "smaka",
+        "god"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-mat-dryck"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-det-tar-tid-men-till-slut-star-den",
+      "type": "sentence",
+      "title": "🇸🇪 Det tar tid, men till slut står den rakt.",
+      "path": "knowledge_base/sentences/sent-det-tar-tid-men-till-slut-star-den.md",
+      "body": "# 🇸🇪 Det tar tid, men till slut står den rakt.\n\n🇨🇳 这需要一些时间，但最终花柱笔直地矗立着。\n\n## 结构 (Structure)\n\n```\n[Det]  [tar]  [tid],  men  [till slut]  [står]  [den]  [rakt]\n  主    动词    宾语        副词短语       动词     主语    副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"till slut\" 前置于第二分句，触发倒装：står 在 den 前\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tid]] · [[rakt]]\n- 词组: [[till-slut]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Det tar tid, men till slut står den rakt. 🇨🇳 这需要一些时间，但最终花柱笔直地矗立着。 结构 (Structure) [Det] [tar] [tid], men [till slut] [står] [den] [rakt] 主 动词 宾语 副词短语 动词 主语 副词 语法点 (Grammar) 📌 grammar v2 ordfoljd — \"till slut\" 前置于第",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "rakt",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "tid",
+        "till-slut"
+      ],
+      "searchText": "🇸🇪 Det tar tid, men till slut står den rakt. sent-det-tar-tid-men-till-slut-star-den knowledge_base/sentences/sent-det-tar-tid-men-till-slut-star-den.md ---\ntype: sentence\nsentence: \"Det tar tid, men till slut står den rakt.\"\nzh: \"这需要一些时间，但最终花柱笔直地矗立着。\"\ncefr: \"A2\"\nwords: [\"tid\", \"rakt\"]\nphrases: [\"till-slut\"]\ngrammar: [\"grammar-v2-ordfoljd\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det tar tid, men till slut står den rakt.\n\n🇨🇳 这需要一些时间，但最终花柱笔直地矗立着。\n\n## 结构 (Structure)\n\n```\n[Det]  [tar]  [tid],  men  [till slut]  [står]  [den]  [rakt]\n  主    动词    宾语        副词短语       动词     主语    副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"till slut\" 前置于第二分句，触发倒装：står 在 den 前\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tid]] · [[rakt]]\n- 词组: [[till-slut]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "这需要一些时间，但最终花柱笔直地矗立着。",
+      "created": "2026-06-22",
+      "sentence": "Det tar tid, men till slut står den rakt.",
+      "words": [
+        "tid",
+        "rakt"
+      ],
+      "phrases": [
+        "till-slut"
+      ],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-det-tog-ungefar-en-timme",
       "type": "sentence",
       "title": "🇸🇈 Det tog ungefär en timme.",
@@ -14778,6 +15230,68 @@ window.KB_DATA = {
         "source-2026-06-02-astrid-lindgren",
         "ta-hand-om"
       ]
+    },
+    {
+      "slug": "sent-emma-gor-en-blomsterkrans-och-satter",
+      "type": "sentence",
+      "title": "🇸🇪 Emma gör en blomsterkrans och sätter den på huvudet.",
+      "path": "knowledge_base/sentences/sent-emma-gor-en-blomsterkrans-och-satter.md",
+      "body": "# 🇸🇪 Emma gör en blomsterkrans och sätter den på huvudet.\n\n🇨🇳 爱玛做了一个花环，戴在头上。\n\n## 结构 (Structure)\n\n```\n[Emma]  [gör]  [en blomsterkrans]  och  [sätter]  [den]  [på huvudet]\n  主语   动词1        宾语           连    动词2      代词      介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — gör（göra 不规则），sätter（v.2）\n- 📌 [[grammar-sammansatt-ord]] — blomsterkrans = blomster + krans\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[blomsterkrans]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Emma gör en blomsterkrans och sätter den på huvudet. 🇨🇳 爱玛做了一个花环，戴在头上。 结构 (Structure) [Emma] [gör] [en blomsterkrans] och [sätter] [den] [på huvudet] 主语 动词1 宾语 连 动词2 代词 介词短语 语法点 (Grammar) 📌 grammar presens — gör（",
+      "forms": [],
+      "links": [
+        "blomsterkrans",
+        "grammar-presens",
+        "grammar-sammansatt-ord",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Emma gör en blomsterkrans och sätter den på huvudet. sent-emma-gor-en-blomsterkrans-och-satter knowledge_base/sentences/sent-emma-gor-en-blomsterkrans-och-satter.md ---\ntype: sentence\nsentence: \"Emma gör en blomsterkrans och sätter den på huvudet.\"\nzh: \"爱玛做了一个花环，戴在头上。\"\ncefr: \"A2\"\nwords: [\"blomsterkrans\"]\nphrases: []\ngrammar: [\"grammar-presens\", \"grammar-sammansatt-ord\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Emma gör en blomsterkrans och sätter den på huvudet.\n\n🇨🇳 爱玛做了一个花环，戴在头上。\n\n## 结构 (Structure)\n\n```\n[Emma]  [gör]  [en blomsterkrans]  och  [sätter]  [den]  [på huvudet]\n  主语   动词1        宾语           连    动词2      代词      介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — gör（göra 不规则），sätter（v.2）\n- 📌 [[grammar-sammansatt-ord]] — blomsterkrans = blomster + krans\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[blomsterkrans]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "爱玛做了一个花环，戴在头上。",
+      "created": "2026-06-22",
+      "sentence": "Emma gör en blomsterkrans och sätter den på huvudet.",
+      "words": [
+        "blomsterkrans"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-sammansatt-ord"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-emma-vaknar-tidigt",
+      "type": "sentence",
+      "title": "🇸🇪 Emma vaknar tidigt.",
+      "path": "knowledge_base/sentences/sent-emma-vaknar-tidigt.md",
+      "body": "# 🇸🇪 Emma vaknar tidigt.\n\n🇨🇳 爱玛一大早就醒来了。\n\n## 结构 (Structure)\n\n```\n[Emma]  [vaknar]  [tidigt]\n  主语     动词      时间副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 现在时，vakna → vaknar（v.1规则变化）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vakna]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Emma vaknar tidigt. 🇨🇳 爱玛一大早就醒来了。 结构 (Structure) [Emma] [vaknar] [tidigt] 主语 动词 时间副词 语法点 (Grammar) 📌 grammar presens — 现在时，vakna → vaknar（v.1规则变化） 生词 & 词组 (Words & Phrases) 词: vakna 来源 (Source) source 2026 06 22 ",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "vakna"
+      ],
+      "searchText": "🇸🇪 Emma vaknar tidigt. sent-emma-vaknar-tidigt knowledge_base/sentences/sent-emma-vaknar-tidigt.md ---\ntype: sentence\nsentence: \"Emma vaknar tidigt.\"\nzh: \"爱玛一大早就醒来了。\"\ncefr: \"A1\"\nwords: [\"vakna\"]\nphrases: []\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Emma vaknar tidigt.\n\n🇨🇳 爱玛一大早就醒来了。\n\n## 结构 (Structure)\n\n```\n[Emma]  [vaknar]  [tidigt]\n  主语     动词      时间副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 现在时，vakna → vaknar（v.1规则变化）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vakna]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A1",
+      "zh": "爱玛一大早就醒来了。",
+      "created": "2026-06-22",
+      "sentence": "Emma vaknar tidigt.",
+      "words": [
+        "vakna"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-en-kopp-kaffe-tack-och-sedan",
@@ -18728,6 +19242,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-hela-byn-samlas",
+      "type": "sentence",
+      "title": "🇸🇪 Hela byn samlas.",
+      "path": "knowledge_base/sentences/sent-hela-byn-samlas.md",
+      "body": "# 🇸🇪 Hela byn samlas.\n\n🇨🇳 全村的人聚集在一起。\n\n## 结构 (Structure)\n\n```\n[Hela byn]  [samlas]\n   主语        动词(s-verb)\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 现在时\n- 📌 [[grammar-passiv-med-s]] — samlas 是 s-verb（聚集，reciproc/deponens）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[by]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Hela byn samlas. 🇨🇳 全村的人聚集在一起。 结构 (Structure) [Hela byn] [samlas] 主语 动词(s verb) 语法点 (Grammar) 📌 grammar presens — 现在时 📌 grammar passiv med s — samlas 是 s verb（聚集，reciproc/deponens） 生词 & 词组 (Words & Phrases) 词: b",
+      "forms": [],
+      "links": [
+        "by",
+        "grammar-passiv-med-s",
+        "grammar-presens",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Hela byn samlas. sent-hela-byn-samlas knowledge_base/sentences/sent-hela-byn-samlas.md ---\ntype: sentence\nsentence: \"Hela byn samlas.\"\nzh: \"全村的人聚集在一起。\"\ncefr: \"A2\"\nwords: [\"by\", \"samlas\"]\nphrases: []\ngrammar: [\"grammar-presens\", \"grammar-passiv-med-s\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hela byn samlas.\n\n🇨🇳 全村的人聚集在一起。\n\n## 结构 (Structure)\n\n```\n[Hela byn]  [samlas]\n   主语        动词(s-verb)\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 现在时\n- 📌 [[grammar-passiv-med-s]] — samlas 是 s-verb（聚集，reciproc/deponens）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[by]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "全村的人聚集在一起。",
+      "created": "2026-06-22",
+      "sentence": "Hela byn samlas.",
+      "words": [
+        "by",
+        "samlas"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-passiv-med-s"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-hennes-mamma-heter-malena-ernman-och-är",
       "type": "sentence",
       "title": "🇸🇪 Hennes mamma heter Malena Ernman och är operasångare.",
@@ -19002,6 +19549,43 @@ window.KB_DATA = {
       "grammar": [],
       "backlinks": [
         "source-2026-06-22-nyheter"
+      ]
+    },
+    {
+      "slug": "sent-hon-lagger-dem-under-kudden",
+      "type": "sentence",
+      "title": "🇸🇪 Hon lägger dem under kudden.",
+      "path": "knowledge_base/sentences/sent-hon-lagger-dem-under-kudden.md",
+      "body": "# 🇸🇪 Hon lägger dem under kudden.\n\n🇨🇳 她把花放在枕头下面。\n\n## 结构 (Structure)\n\n```\n[Hon]  [lägger]  [dem]  [under kudden]\n  主语    动词     宾语      介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — lägger（lägga v.2r，不规则：lägger/lade/lagt）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lägga]] · [[kudde]]\n- 词组: [[lägga-under-kudden]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Hon lägger dem under kudden. 🇨🇳 她把花放在枕头下面。 结构 (Structure) [Hon] [lägger] [dem] [under kudden] 主语 动词 宾语 介词短语 语法点 (Grammar) 📌 grammar presens — lägger（lägga v.2r，不规则：lägger/lade/lagt） 生词 & 词组 (Words & Phrases) 词: l",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "kudde",
+        "lägga",
+        "lägga-under-kudden",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Hon lägger dem under kudden. sent-hon-lagger-dem-under-kudden knowledge_base/sentences/sent-hon-lagger-dem-under-kudden.md ---\ntype: sentence\nsentence: \"Hon lägger dem under kudden.\"\nzh: \"她把花放在枕头下面。\"\ncefr: \"A2\"\nwords: [\"lägga\", \"kudde\"]\nphrases: [\"lägga-under-kudden\"]\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hon lägger dem under kudden.\n\n🇨🇳 她把花放在枕头下面。\n\n## 结构 (Structure)\n\n```\n[Hon]  [lägger]  [dem]  [under kudden]\n  主语    动词     宾语      介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — lägger（lägga v.2r，不规则：lägger/lade/lagt）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lägga]] · [[kudde]]\n- 词组: [[lägga-under-kudden]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "她把花放在枕头下面。",
+      "created": "2026-06-22",
+      "sentence": "Hon lägger dem under kudden.",
+      "words": [
+        "lägga",
+        "kudde"
+      ],
+      "phrases": [
+        "lägga-under-kudden"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "lägga-under-kudden"
       ]
     },
     {
@@ -21836,6 +22420,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-kanske-drommar-hon-om-sin-framtida-karlek",
+      "type": "sentence",
+      "title": "🇸🇪 Kanske drömmer hon om sin framtida kärlek.",
+      "path": "knowledge_base/sentences/sent-kanske-drommar-hon-om-sin-framtida-karlek.md",
+      "body": "# 🇸🇪 Kanske drömmer hon om sin framtida kärlek.\n\n🇨🇳 也许她会梦见自己未来的爱人。\n\n## 结构 (Structure)\n\n```\n[Kanske]  [drömmer]  [hon]  [om sin framtida kärlek]\n  副词       动词      主语        介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"Kanske\" 前置，倒装：drömmer 在 hon 前\n- 📌 [[grammar-sin-sina]] — sin 指 hon（主语）的所有物（自身所有格反身）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[drömma]] · [[framtid]] · [[kärlek]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Kanske drömmer hon om sin framtida kärlek. 🇨🇳 也许她会梦见自己未来的爱人。 结构 (Structure) [Kanske] [drömmer] [hon] [om sin framtida kärlek] 副词 动词 主语 介词短语 语法点 (Grammar) 📌 grammar v2 ordfoljd — \"Kanske\" 前置，倒装：drömmer 在 hon 前 📌 ",
+      "forms": [],
+      "links": [
+        "drömma",
+        "framtid",
+        "grammar-sin-sina",
+        "grammar-v2-ordfoljd",
+        "kärlek",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Kanske drömmer hon om sin framtida kärlek. sent-kanske-drommar-hon-om-sin-framtida-karlek knowledge_base/sentences/sent-kanske-drommar-hon-om-sin-framtida-karlek.md ---\ntype: sentence\nsentence: \"Kanske drömmer hon om sin framtida kärlek.\"\nzh: \"也许她会梦见自己未来的爱人。\"\ncefr: \"A2\"\nwords: [\"drömma\", \"framtid\", \"kärlek\"]\nphrases: []\ngrammar: [\"grammar-v2-ordfoljd\", \"grammar-sin-sina\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Kanske drömmer hon om sin framtida kärlek.\n\n🇨🇳 也许她会梦见自己未来的爱人。\n\n## 结构 (Structure)\n\n```\n[Kanske]  [drömmer]  [hon]  [om sin framtida kärlek]\n  副词       动词      主语        介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"Kanske\" 前置，倒装：drömmer 在 hon 前\n- 📌 [[grammar-sin-sina]] — sin 指 hon（主语）的所有物（自身所有格反身）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[drömma]] · [[framtid]] · [[kärlek]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "也许她会梦见自己未来的爱人。",
+      "created": "2026-06-22",
+      "sentence": "Kanske drömmer hon om sin framtida kärlek.",
+      "words": [
+        "drömma",
+        "framtid",
+        "kärlek"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-sin-sina"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-kanske-vid-sjön",
       "type": "sentence",
       "title": "🇸🇪 Kanske vid sjön?",
@@ -21896,6 +22516,44 @@ window.KB_DATA = {
         "klimat",
         "source-2026-06-22-nyheter"
       ]
+    },
+    {
+      "slug": "sent-klockan-ar-nastan-midnatt-men-himlen",
+      "type": "sentence",
+      "title": "🇸🇪 Klockan är nästan midnatt, men himlen är fortfarande blå.",
+      "path": "knowledge_base/sentences/sent-klockan-ar-nastan-midnatt-men-himlen.md",
+      "body": "# 🇸🇪 Klockan är nästan midnatt, men himlen är fortfarande blå.\n\n🇨🇳 快到午夜了，但天空依然是蓝色的。\n\n## 结构 (Structure)\n\n```\n[Klockan]  [är]  [nästan midnatt],  men  [himlen]  [är]  [fortfarande blå]\n   主语      动词     表语                    主语      动词      表语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 两个 är（be 动词）连接两个等式分句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[klocka]] · [[midnatt]] · [[fortfarande]] · [[blå]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Klockan är nästan midnatt, men himlen är fortfarande blå. 🇨🇳 快到午夜了，但天空依然是蓝色的。 结构 (Structure) [Klockan] [är] [nästan midnatt], men [himlen] [är] [fortfarande blå] 主语 动词 表语 主语 动词 表语 语法点 (Grammar) 📌 grammar presens ",
+      "forms": [],
+      "links": [
+        "blå",
+        "fortfarande",
+        "grammar-presens",
+        "klocka",
+        "midnatt",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Klockan är nästan midnatt, men himlen är fortfarande blå. sent-klockan-ar-nastan-midnatt-men-himlen knowledge_base/sentences/sent-klockan-ar-nastan-midnatt-men-himlen.md ---\ntype: sentence\nsentence: \"Klockan är nästan midnatt, men himlen är fortfarande blå.\"\nzh: \"快到午夜了，但天空依然是蓝色的。\"\ncefr: \"A2\"\nwords: [\"klocka\", \"midnatt\", \"himmel\", \"fortfarande\", \"blå\"]\nphrases: []\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\", \"topic-vader-och-arstider\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Klockan är nästan midnatt, men himlen är fortfarande blå.\n\n🇨🇳 快到午夜了，但天空依然是蓝色的。\n\n## 结构 (Structure)\n\n```\n[Klockan]  [är]  [nästan midnatt],  men  [himlen]  [är]  [fortfarande blå]\n   主语      动词     表语                    主语      动词      表语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 两个 är（be 动词）连接两个等式分句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[klocka]] · [[midnatt]] · [[fortfarande]] · [[blå]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "快到午夜了，但天空依然是蓝色的。",
+      "created": "2026-06-22",
+      "sentence": "Klockan är nästan midnatt, men himlen är fortfarande blå.",
+      "words": [
+        "klocka",
+        "midnatt",
+        "himmel",
+        "fortfarande",
+        "blå"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-kram-anna",
@@ -23118,6 +23776,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-men-ingen-bryr-sig",
+      "type": "sentence",
+      "title": "🇸🇪 Men ingen bryr sig.",
+      "path": "knowledge_base/sentences/sent-men-ingen-bryr-sig.md",
+      "body": "# 🇸🇪 Men ingen bryr sig.\n\n🇨🇳 但没有人在意。\n\n## 结构 (Structure)\n\n```\n[Men]  [ingen]  [bryr]  [sig]\n  连词    主语    动词    反身代词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-reflexivt-verb]] — bry sig（在意）= 反身动词，sig 不可省略\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ingen]]\n- 词组: [[ingen-bryr-sig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Men ingen bryr sig. 🇨🇳 但没有人在意。 结构 (Structure) [Men] [ingen] [bryr] [sig] 连词 主语 动词 反身代词 语法点 (Grammar) 📌 grammar reflexivt verb — bry sig（在意）= 反身动词，sig 不可省略 生词 & 词组 (Words & Phrases) 词: ingen 词组: ingen bryr sig 来源 ",
+      "forms": [],
+      "links": [
+        "grammar-reflexivt-verb",
+        "ingen",
+        "ingen-bryr-sig",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Men ingen bryr sig. sent-men-ingen-bryr-sig knowledge_base/sentences/sent-men-ingen-bryr-sig.md ---\ntype: sentence\nsentence: \"Men ingen bryr sig.\"\nzh: \"但没有人在意。\"\ncefr: \"A2\"\nwords: [\"ingen\", \"bry\"]\nphrases: [\"ingen-bryr-sig\"]\ngrammar: [\"grammar-reflexivt-verb\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Men ingen bryr sig.\n\n🇨🇳 但没有人在意。\n\n## 结构 (Structure)\n\n```\n[Men]  [ingen]  [bryr]  [sig]\n  连词    主语    动词    反身代词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-reflexivt-verb]] — bry sig（在意）= 反身动词，sig 不可省略\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ingen]]\n- 词组: [[ingen-bryr-sig]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "但没有人在意。",
+      "created": "2026-06-22",
+      "sentence": "Men ingen bryr sig.",
+      "words": [
+        "ingen",
+        "bry"
+      ],
+      "phrases": [
+        "ingen-bryr-sig"
+      ],
+      "grammar": [
+        "grammar-reflexivt-verb"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "ingen-bryr-sig"
+      ]
+    },
+    {
       "slug": "sent-men-nyheter-på-lätt-svenska-är-tillbaka",
       "type": "sentence",
       "title": "🇸🇈 Men Nyheter på lätt svenska är tillbaka igen på måndag.",
@@ -23273,6 +23967,36 @@ window.KB_DATA = {
         "kronprinsessa",
         "source-2026-06-22-nyheter"
       ]
+    },
+    {
+      "slug": "sent-midsommar-ar-midsommar",
+      "type": "sentence",
+      "title": "🇸🇪 Midsommar är midsommar.",
+      "path": "knowledge_base/sentences/sent-midsommar-ar-midsommar.md",
+      "body": "# 🇸🇪 Midsommar är midsommar.\n\n🇨🇳 仲夏就是仲夏。\n\n## 结构 (Structure)\n\n```\n[Midsommar]  [är]  [midsommar]\n    主语       动词     表语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 等式句（A är A），表达某事无可辩驳的本质\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[midsommar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Midsommar är midsommar. 🇨🇳 仲夏就是仲夏。 结构 (Structure) [Midsommar] [är] [midsommar] 主语 动词 表语 语法点 (Grammar) 📌 grammar presens — 等式句（A är A），表达某事无可辩驳的本质 生词 & 词组 (Words & Phrases) 词: midsommar 来源 (Source) source 2026 06 ",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "midsommar",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Midsommar är midsommar. sent-midsommar-ar-midsommar knowledge_base/sentences/sent-midsommar-ar-midsommar.md ---\ntype: sentence\nsentence: \"Midsommar är midsommar.\"\nzh: \"仲夏就是仲夏。\"\ncefr: \"A1\"\nwords: [\"midsommar\"]\nphrases: []\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Midsommar är midsommar.\n\n🇨🇳 仲夏就是仲夏。\n\n## 结构 (Structure)\n\n```\n[Midsommar]  [är]  [midsommar]\n    主语       动词     表语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 等式句（A är A），表达某事无可辩驳的本质\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[midsommar]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A1",
+      "zh": "仲夏就是仲夏。",
+      "created": "2026-06-22",
+      "sentence": "Midsommar är midsommar.",
+      "words": [
+        "midsommar"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
@@ -23759,6 +24483,44 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-22-en-helg"
+      ]
+    },
+    {
+      "slug": "sent-natten-ar-ljus",
+      "type": "sentence",
+      "title": "🇸🇪 Natten är ljus.",
+      "path": "knowledge_base/sentences/sent-natten-ar-ljus.md",
+      "body": "# 🇸🇪 Natten är ljus.\n\n🇨🇳 夜晚是明亮的。\n\n## 结构 (Structure)\n\n```\n[Natten]  [är]  [ljus]\n   主语     动词   形容词（表语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — är（be 动词）；ljus（原形，与 en-词 natten 的不定式形一致）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[natt]] · [[ljus]]\n- 词组: [[ljusa-nätter]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Natten är ljus. 🇨🇳 夜晚是明亮的。 结构 (Structure) [Natten] [är] [ljus] 主语 动词 形容词（表语） 语法点 (Grammar) 📌 grammar presens — är（be 动词）；ljus（原形，与 en 词 natten 的不定式形一致） 生词 & 词组 (Words & Phrases) 词: natt · ljus 词组: ljusa nätter 来源",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "ljus",
+        "ljusa-nätter",
+        "natt",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Natten är ljus. sent-natten-ar-ljus knowledge_base/sentences/sent-natten-ar-ljus.md ---\ntype: sentence\nsentence: \"Natten är ljus.\"\nzh: \"夜晚是明亮的。\"\ncefr: \"A1\"\nwords: [\"natt\", \"ljus\"]\nphrases: [\"ljusa-nätter\"]\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\", \"topic-vader-och-arstider\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Natten är ljus.\n\n🇨🇳 夜晚是明亮的。\n\n## 结构 (Structure)\n\n```\n[Natten]  [är]  [ljus]\n   主语     动词   形容词（表语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — är（be 动词）；ljus（原形，与 en-词 natten 的不定式形一致）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[natt]] · [[ljus]]\n- 词组: [[ljusa-nätter]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A1",
+      "zh": "夜晚是明亮的。",
+      "created": "2026-06-22",
+      "sentence": "Natten är ljus.",
+      "words": [
+        "natt",
+        "ljus"
+      ],
+      "phrases": [
+        "ljusa-nätter"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "ljusa-nätter"
       ]
     },
     {
@@ -24475,6 +25237,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-pa-eftermiddagen-borjar-det-regna",
+      "type": "sentence",
+      "title": "🇸🇪 På eftermiddagen börjar det regna.",
+      "path": "knowledge_base/sentences/sent-pa-eftermiddagen-borjar-det-regna.md",
+      "body": "# 🇸🇪 På eftermiddagen börjar det regna.\n\n🇨🇳 下午开始下雨了。\n\n## 结构 (Structure)\n\n```\n[På eftermiddagen]  [börjar]  [det]  [regna]\n    时间状语           动词      主语    不定式\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"På eftermiddagen\" 前置，倒装：börjar 在 det 前\n- 📌 [[grammar-tidsadverbial]] — på eftermiddagen 推进叙事\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[eftermiddag]] · [[börja]] · [[regna]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 På eftermiddagen börjar det regna. 🇨🇳 下午开始下雨了。 结构 (Structure) [På eftermiddagen] [börjar] [det] [regna] 时间状语 动词 主语 不定式 语法点 (Grammar) 📌 grammar v2 ordfoljd — \"På eftermiddagen\" 前置，倒装：börjar 在 det 前 📌 grammar tids",
+      "forms": [],
+      "links": [
+        "börja",
+        "eftermiddag",
+        "grammar-tidsadverbial",
+        "grammar-v2-ordfoljd",
+        "regna",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 På eftermiddagen börjar det regna. sent-pa-eftermiddagen-borjar-det-regna knowledge_base/sentences/sent-pa-eftermiddagen-borjar-det-regna.md ---\ntype: sentence\nsentence: \"På eftermiddagen börjar det regna.\"\nzh: \"下午开始下雨了。\"\ncefr: \"A2\"\nwords: [\"eftermiddag\", \"börja\", \"regna\"]\nphrases: []\ngrammar: [\"grammar-v2-ordfoljd\", \"grammar-tidsadverbial\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\", \"topic-vader-och-arstider\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 På eftermiddagen börjar det regna.\n\n🇨🇳 下午开始下雨了。\n\n## 结构 (Structure)\n\n```\n[På eftermiddagen]  [börjar]  [det]  [regna]\n    时间状语           动词      主语    不定式\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"På eftermiddagen\" 前置，倒装：börjar 在 det 前\n- 📌 [[grammar-tidsadverbial]] — på eftermiddagen 推进叙事\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[eftermiddag]] · [[börja]] · [[regna]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "下午开始下雨了。",
+      "created": "2026-06-22",
+      "sentence": "På eftermiddagen börjar det regna.",
+      "words": [
+        "eftermiddag",
+        "börja",
+        "regna"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-tidsadverbial"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "grammar-tidsadverbial"
+      ]
+    },
+    {
       "slug": "sent-pa-eftermiddagen-handlade-vi-mat",
       "type": "sentence",
       "title": "🇸🇪 På eftermiddagen handlade vi mat tillsammans och lagade middag hemma hos mig.",
@@ -24789,6 +25590,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-pa-kvallen-plockar-emma-sju-sorters-blommor",
+      "type": "sentence",
+      "title": "🇸🇪 På kvällen plockar Emma sju sorters blommor.",
+      "path": "knowledge_base/sentences/sent-pa-kvallen-plockar-emma-sju-sorters-blommor.md",
+      "body": "# 🇸🇪 På kvällen plockar Emma sju sorters blommor.\n\n🇨🇳 傍晚，爱玛采了七种花。\n\n## 结构 (Structure)\n\n```\n[På kvällen]  [plockar]  [Emma]  [sju sorters blommor]\n   时间状语      动词        主语         宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"På kvällen\" 前置，倒装：plockar 在 Emma 前\n- 📌 [[grammar-tidsadverbial]] — på kvällen 作傍晚时间状语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kväll]] · [[plocka]] · [[blomma]]\n- 词组: [[sju-sorters-blommor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 På kvällen plockar Emma sju sorters blommor. 🇨🇳 傍晚，爱玛采了七种花。 结构 (Structure) [På kvällen] [plockar] [Emma] [sju sorters blommor] 时间状语 动词 主语 宾语 语法点 (Grammar) 📌 grammar v2 ordfoljd — \"På kvällen\" 前置，倒装：plockar 在 Emma",
+      "forms": [],
+      "links": [
+        "blomma",
+        "grammar-tidsadverbial",
+        "grammar-v2-ordfoljd",
+        "kväll",
+        "plocka",
+        "sju-sorters-blommor",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 På kvällen plockar Emma sju sorters blommor. sent-pa-kvallen-plockar-emma-sju-sorters-blommor knowledge_base/sentences/sent-pa-kvallen-plockar-emma-sju-sorters-blommor.md ---\ntype: sentence\nsentence: \"På kvällen plockar Emma sju sorters blommor.\"\nzh: \"傍晚，爱玛采了七种花。\"\ncefr: \"A2\"\nwords: [\"kväll\", \"plocka\", \"blomma\"]\nphrases: [\"sju-sorters-blommor\"]\ngrammar: [\"grammar-v2-ordfoljd\", \"grammar-tidsadverbial\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 På kvällen plockar Emma sju sorters blommor.\n\n🇨🇳 傍晚，爱玛采了七种花。\n\n## 结构 (Structure)\n\n```\n[På kvällen]  [plockar]  [Emma]  [sju sorters blommor]\n   时间状语      动词        主语         宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"På kvällen\" 前置，倒装：plockar 在 Emma 前\n- 📌 [[grammar-tidsadverbial]] — på kvällen 作傍晚时间状语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kväll]] · [[plocka]] · [[blomma]]\n- 词组: [[sju-sorters-blommor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "傍晚，爱玛采了七种花。",
+      "created": "2026-06-22",
+      "sentence": "På kvällen plockar Emma sju sorters blommor.",
+      "words": [
+        "kväll",
+        "plocka",
+        "blomma"
+      ],
+      "phrases": [
+        "sju-sorters-blommor"
+      ],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-tidsadverbial"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "grammar-tidsadverbial"
+      ]
+    },
+    {
       "slug": "sent-pa-kvallen-ringde-jag-mina-foraldrar",
       "type": "sentence",
       "title": "🇸🇪 På kvällen ringde jag mina föräldrar och berättade om helgen.",
@@ -24905,6 +25747,44 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-pa-morgonen-gar-emma-och-hennes-familj",
+      "type": "sentence",
+      "title": "🇸🇪 På morgonen går Emma och hennes familj ut i ängen.",
+      "path": "knowledge_base/sentences/sent-pa-morgonen-gar-emma-och-hennes-familj.md",
+      "body": "# 🇸🇪 På morgonen går Emma och hennes familj ut i ängen.\n\n🇨🇳 早上，爱玛和她的家人走进草地。\n\n## 结构 (Structure)\n\n```\n[På morgonen]  [går]  [Emma och hennes familj]  [ut i ängen]\n  时间状语       动词           主语                  地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语\"På morgonen\"前置，主谓倒装：gå 在主语前\n- 📌 [[grammar-tidsadverbial]] — 用时间状语（på morgonen）推进叙事\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[morgon]] · [[familj]] · [[äng]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 På morgonen går Emma och hennes familj ut i ängen. 🇨🇳 早上，爱玛和她的家人走进草地。 结构 (Structure) [På morgonen] [går] [Emma och hennes familj] [ut i ängen] 时间状语 动词 主语 地点 语法点 (Grammar) 📌 grammar v2 ordfoljd — 时间状语\"På morgonen\"",
+      "forms": [],
+      "links": [
+        "äng",
+        "familj",
+        "grammar-tidsadverbial",
+        "grammar-v2-ordfoljd",
+        "morgon",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 På morgonen går Emma och hennes familj ut i ängen. sent-pa-morgonen-gar-emma-och-hennes-familj knowledge_base/sentences/sent-pa-morgonen-gar-emma-och-hennes-familj.md ---\ntype: sentence\nsentence: \"På morgonen går Emma och hennes familj ut i ängen.\"\nzh: \"早上，爱玛和她的家人走进草地。\"\ncefr: \"A2\"\nwords: [\"morgon\", \"familj\", \"äng\"]\nphrases: []\ngrammar: [\"grammar-v2-ordfoljd\", \"grammar-tidsadverbial\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 På morgonen går Emma och hennes familj ut i ängen.\n\n🇨🇳 早上，爱玛和她的家人走进草地。\n\n## 结构 (Structure)\n\n```\n[På morgonen]  [går]  [Emma och hennes familj]  [ut i ängen]\n  时间状语       动词           主语                  地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语\"På morgonen\"前置，主谓倒装：gå 在主语前\n- 📌 [[grammar-tidsadverbial]] — 用时间状语（på morgonen）推进叙事\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[morgon]] · [[familj]] · [[äng]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "早上，爱玛和她的家人走进草地。",
+      "created": "2026-06-22",
+      "sentence": "På morgonen går Emma och hennes familj ut i ängen.",
+      "words": [
+        "morgon",
+        "familj",
+        "äng"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-tidsadverbial"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "grammar-tidsadverbial"
       ]
     },
     {
@@ -25328,6 +26208,45 @@ window.KB_DATA = {
       "backlinks": [
         "på-vintern",
         "vinter"
+      ]
+    },
+    {
+      "slug": "sent-pappa-skalar-med-snaps",
+      "type": "sentence",
+      "title": "🇸🇪 Pappa skålar med snaps.",
+      "path": "knowledge_base/sentences/sent-pappa-skalar-med-snaps.md",
+      "body": "# 🇸🇪 Pappa skålar med snaps.\n\n🇨🇳 爸爸举起小酒杯干杯。\n\n## 结构 (Structure)\n\n```\n[Pappa]  [skålar]  [med snaps]\n   主语    动词      介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — skålar（skåla v.1）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[pappa]] · [[skåla]] · [[snaps]]\n- 词组: [[skåla-med-snaps]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Pappa skålar med snaps. 🇨🇳 爸爸举起小酒杯干杯。 结构 (Structure) [Pappa] [skålar] [med snaps] 主语 动词 介词短语 语法点 (Grammar) 📌 grammar presens — skålar（skåla v.1） 生词 & 词组 (Words & Phrases) 词: pappa · skåla · snaps 词组: skåla med sn",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "pappa",
+        "skåla",
+        "skåla-med-snaps",
+        "snaps",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Pappa skålar med snaps. sent-pappa-skalar-med-snaps knowledge_base/sentences/sent-pappa-skalar-med-snaps.md ---\ntype: sentence\nsentence: \"Pappa skålar med snaps.\"\nzh: \"爸爸举起小酒杯干杯。\"\ncefr: \"A2\"\nwords: [\"pappa\", \"skåla\", \"snaps\"]\nphrases: [\"skåla-med-snaps\"]\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Pappa skålar med snaps.\n\n🇨🇳 爸爸举起小酒杯干杯。\n\n## 结构 (Structure)\n\n```\n[Pappa]  [skålar]  [med snaps]\n   主语    动词      介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — skålar（skåla v.1）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[pappa]] · [[skåla]] · [[snaps]]\n- 词组: [[skåla-med-snaps]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "爸爸举起小酒杯干杯。",
+      "created": "2026-06-22",
+      "sentence": "Pappa skålar med snaps.",
+      "words": [
+        "pappa",
+        "skåla",
+        "snaps"
+      ],
+      "phrases": [
+        "skåla-med-snaps"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "skåla-med-snaps"
       ]
     },
     {
@@ -26019,6 +26938,50 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-18-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "sent-sedan-klar-de-midsommarstangen-med-blommor",
+      "type": "sentence",
+      "title": "🇸🇪 Sedan klär de midsommarstången med blommor och löv.",
+      "path": "knowledge_base/sentences/sent-sedan-klar-de-midsommarstangen-med-blommor.md",
+      "body": "# 🇸🇪 Sedan klär de midsommarstången med blommor och löv.\n\n🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。\n\n## 结构 (Structure)\n\n```\n[Sedan]  [klär]  [de]  [midsommarstången]  [med blommor och löv]\n  连词     动词    主语        宾语                介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — sedan（接着）前置，触发主谓倒装：klär 在主语 de 前\n- 📌 [[grammar-tidsadverbial]] — sedan 作时间推进词\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[klä]] · [[midsommarstång]] · [[blomma]] · [[löv]]\n- 词组: [[klä-stången-med-blommor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Sedan klär de midsommarstången med blommor och löv. 🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。 结构 (Structure) [Sedan] [klär] [de] [midsommarstången] [med blommor och löv] 连词 动词 主语 宾语 介词短语 语法点 (Grammar) 📌 grammar v2 ordfoljd — sedan（",
+      "forms": [],
+      "links": [
+        "blomma",
+        "grammar-tidsadverbial",
+        "grammar-v2-ordfoljd",
+        "klä",
+        "klä-stången-med-blommor",
+        "löv",
+        "midsommarstång",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Sedan klär de midsommarstången med blommor och löv. sent-sedan-klar-de-midsommarstangen-med-blommor knowledge_base/sentences/sent-sedan-klar-de-midsommarstangen-med-blommor.md ---\ntype: sentence\nsentence: \"Sedan klär de midsommarstången med blommor och löv.\"\nzh: \"接着，他们用花朵和树叶装饰仲夏节花柱。\"\ncefr: \"A2\"\nwords: [\"klä\", \"midsommarstång\", \"blomma\", \"löv\"]\nphrases: [\"klä-stången-med-blommor\"]\ngrammar: [\"grammar-v2-ordfoljd\", \"grammar-tidsadverbial\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Sedan klär de midsommarstången med blommor och löv.\n\n🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。\n\n## 结构 (Structure)\n\n```\n[Sedan]  [klär]  [de]  [midsommarstången]  [med blommor och löv]\n  连词     动词    主语        宾语                介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — sedan（接着）前置，触发主谓倒装：klär 在主语 de 前\n- 📌 [[grammar-tidsadverbial]] — sedan 作时间推进词\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[klä]] · [[midsommarstång]] · [[blomma]] · [[löv]]\n- 词组: [[klä-stången-med-blommor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "接着，他们用花朵和树叶装饰仲夏节花柱。",
+      "created": "2026-06-22",
+      "sentence": "Sedan klär de midsommarstången med blommor och löv.",
+      "words": [
+        "klä",
+        "midsommarstång",
+        "blomma",
+        "löv"
+      ],
+      "phrases": [
+        "klä-stången-med-blommor"
+      ],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-tidsadverbial"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "grammar-tidsadverbial",
+        "klä-stången-med-blommor"
       ]
     },
     {
@@ -26772,6 +27735,37 @@ window.KB_DATA = {
         "grammar-v2-ordfoljd"
       ],
       "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-solen-skiner-redan",
+      "type": "sentence",
+      "title": "🇸🇪 Solen skiner redan.",
+      "path": "knowledge_base/sentences/sent-solen-skiner-redan.md",
+      "body": "# 🇸🇪 Solen skiner redan.\n\n🇨🇳 太阳已经在照耀。\n\n## 结构 (Structure)\n\n```\n[Solen]  [skiner]  [redan]\n   主语     动词      时间副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 现在时；skina（不规则强变化）→ skiner\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skina]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Solen skiner redan. 🇨🇳 太阳已经在照耀。 结构 (Structure) [Solen] [skiner] [redan] 主语 动词 时间副词 语法点 (Grammar) 📌 grammar presens — 现在时；skina（不规则强变化）→ skiner 生词 & 词组 (Words & Phrases) 词: skina 来源 (Source) source 2026 06 22 en d",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "skina",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Solen skiner redan. sent-solen-skiner-redan knowledge_base/sentences/sent-solen-skiner-redan.md ---\ntype: sentence\nsentence: \"Solen skiner redan.\"\nzh: \"太阳已经在照耀。\"\ncefr: \"A1\"\nwords: [\"skina\"]\nphrases: []\ngrammar: [\"grammar-presens\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\", \"topic-vader-och-arstider\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Solen skiner redan.\n\n🇨🇳 太阳已经在照耀。\n\n## 结构 (Structure)\n\n```\n[Solen]  [skiner]  [redan]\n   主语     动词      时间副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 现在时；skina（不规则强变化）→ skiner\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skina]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A1",
+      "zh": "太阳已经在照耀。",
+      "created": "2026-06-22",
+      "sentence": "Solen skiner redan.",
+      "words": [
+        "skina"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
         "topic-vader-och-arstider"
       ],
       "backlinks": []
@@ -27675,6 +28669,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-till-lunch-ater-de-sill-med-farskpotatis",
+      "type": "sentence",
+      "title": "🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil.",
+      "path": "knowledge_base/sentences/sent-till-lunch-ater-de-sill-med-farskpotatis.md",
+      "body": "# 🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil.\n\n🇨🇳 午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。\n\n## 结构 (Structure)\n\n```\n[Till lunch]  [äter]  [de]  [sill med färskpotatis och gräddfil]\n  时间状语      动词    主语               宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"Till lunch\" 前置，倒装：äter 在 de 前\n- 📌 [[grammar-tidsadverbial]] — till lunch 作时间状语推进叙事\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[sill]] · [[färskpotatis]] · [[gräddfil]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil. 🇨🇳 午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。 结构 (Structure) [Till lunch] [äter] [de] [sill med färskpotatis och gräddfil] 时间状语 动词 主语 宾语 语法点 (Grammar) 📌 grammar v2 ordfoljd — \"Til",
+      "forms": [],
+      "links": [
+        "färskpotatis",
+        "gräddfil",
+        "grammar-tidsadverbial",
+        "grammar-v2-ordfoljd",
+        "sill",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil. sent-till-lunch-ater-de-sill-med-farskpotatis knowledge_base/sentences/sent-till-lunch-ater-de-sill-med-farskpotatis.md ---\ntype: sentence\nsentence: \"Till lunch äter de sill med färskpotatis och gräddfil.\"\nzh: \"午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。\"\ncefr: \"A2\"\nwords: [\"sill\", \"färskpotatis\", \"gräddfil\"]\nphrases: []\ngrammar: [\"grammar-v2-ordfoljd\", \"grammar-tidsadverbial\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\", \"topic-mat-dryck\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil.\n\n🇨🇳 午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。\n\n## 结构 (Structure)\n\n```\n[Till lunch]  [äter]  [de]  [sill med färskpotatis och gräddfil]\n  时间状语      动词    主语               宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"Till lunch\" 前置，倒装：äter 在 de 前\n- 📌 [[grammar-tidsadverbial]] — till lunch 作时间状语推进叙事\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[sill]] · [[färskpotatis]] · [[gräddfil]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。",
+      "created": "2026-06-22",
+      "sentence": "Till lunch äter de sill med färskpotatis och gräddfil.",
+      "words": [
+        "sill",
+        "färskpotatis",
+        "gräddfil"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-tidsadverbial"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "grammar-tidsadverbial"
+      ]
+    },
+    {
       "slug": "sent-till-slut-var-allt-bra-igen",
       "type": "sentence",
       "title": "🇸🇈 Till slut var allt bra igen.",
@@ -27759,6 +28792,38 @@ window.KB_DATA = {
         "grammar-ligga-sta-sitta",
         "source-2026-06-09-beskriva-en-gata"
       ]
+    },
+    {
+      "slug": "sent-tillsammans-reser-de-stangen",
+      "type": "sentence",
+      "title": "🇸🇪 Tillsammans reser de stången.",
+      "path": "knowledge_base/sentences/sent-tillsammans-reser-de-stangen.md",
+      "body": "# 🇸🇪 Tillsammans reser de stången.\n\n🇨🇳 大家一起把花柱立起来。\n\n## 结构 (Structure)\n\n```\n[Tillsammans]  [reser]  [de]  [stången]\n   副词          动词     主语    宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 副词\"Tillsammans\"前置，主谓倒装：reser 在主语 de 前\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[resa]] · [[midsommarstång]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]",
+      "excerpt": "🇸🇪 Tillsammans reser de stången. 🇨🇳 大家一起把花柱立起来。 结构 (Structure) [Tillsammans] [reser] [de] [stången] 副词 动词 主语 宾语 语法点 (Grammar) 📌 grammar v2 ordfoljd — 副词\"Tillsammans\"前置，主谓倒装：reser 在主语 de 前 生词 & 词组 (Words & Phrases) 词",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "midsommarstång",
+        "resa",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ],
+      "searchText": "🇸🇪 Tillsammans reser de stången. sent-tillsammans-reser-de-stangen knowledge_base/sentences/sent-tillsammans-reser-de-stangen.md ---\ntype: sentence\nsentence: \"Tillsammans reser de stången.\"\nzh: \"大家一起把花柱立起来。\"\ncefr: \"A2\"\nwords: [\"resa\", \"midsommarstång\"]\nphrases: []\ngrammar: [\"grammar-v2-ordfoljd\"]\nsource: \"source-2026-06-22-en-dag-pa-midsommar\"\ntopics: [\"topic-midsommar-traditioner\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Tillsammans reser de stången.\n\n🇨🇳 大家一起把花柱立起来。\n\n## 结构 (Structure)\n\n```\n[Tillsammans]  [reser]  [de]  [stången]\n   副词          动词     主语    宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 副词\"Tillsammans\"前置，主谓倒装：reser 在主语 de 前\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[resa]] · [[midsommarstång]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-dag-pa-midsommar]]\n",
+      "cefr": "A2",
+      "zh": "大家一起把花柱立起来。",
+      "created": "2026-06-22",
+      "sentence": "Tillsammans reser de stången.",
+      "words": [
+        "resa",
+        "midsommarstång"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-trots-forlusten-kan-sverige-ga-vidare",
@@ -34570,6 +35635,141 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-22-en-dag-pa-midsommar",
+      "type": "source",
+      "title": "Källa: En dag på midsommar — 仲夏节的一天",
+      "path": "knowledge_base/sources/source-2026-06-22-en-dag-pa-midsommar.md",
+      "body": "# Källa: En dag på midsommar — 仲夏节的一天\n\n**日期:** 2026-06-22\n**类型:** scenario (story)\n**CEFR:** A2–B1\n\n瑞典仲夏节一天的叙事场景，从清晨采花、立仲夏柱、跳舞唱歌，到午餐 sill + 新土豆、傍晚采七种花放枕下许愿、明亮的夏夜。涵盖仲夏传统词汇、复合词与时间状语推进叙事的语法。\n\n## 词汇 (Words)\n\n- [[äng]] — 草地\n- [[kvist]] — 小树枝\n- [[blomsterkrans]] — 花环\n- [[krans]] — 环；花环\n- [[klä]] — 装饰；穿戴\n- [[löv]] — 叶子；树叶\n- [[resa]] — 立起；旅行\n- [[sjunga]] — 唱歌\n- [[färskpotatis]] — 新鲜小土豆\n- [[gräddfil]] — 酸奶油\n- [[skåla]] — 干杯\n- [[snaps]] — 小杯烈酒\n- [[regna]] — 下雨\n- [[kärlek]] — 爱；爱情\n- [[midnatt]] — 午夜\n- [[vakna]] — 醒来（DUP, existing）\n- [[hoppa]] — 跳跃（DUP, existing）\n- [[skratta]] — 笑（DUP, existing）\n- [[kudde]] — 枕头（DUP, existing）\n- [[framtid]] — 未来（DUP, existing）\n- [[ljus]] — 明亮的（DUP, existing）\n\n## 词组 (Phrases)\n\n- [[klä-stången-med-blommor]] — 用花装饰仲夏柱\n- [[lägga-under-kudden]] — 放在枕头下面\n- [[skåla-med-snaps]] — 用烈酒干杯\n- [[ingen-bryr-sig]] — 没有人在意\n- [[ljusa-nätter]] — 明亮的夜晚\n- [[sju-sorters-blommor]] — 七种花（DUP, existing）\n- [[till-slut]] — 最终；终于（DUP, existing）\n\n## 语法 (Grammar)\n\n- [[grammar-tidsadverbial]] — 时间状语推进叙事\n- [[grammar-presens]] — 现在时（DUP, existing）\n- [[grammar-v2-ordfoljd]] — V2 语序（DUP, existing）\n- [[grammar-sammansatt-ord]] — 复合词构成（DUP, existing）",
+      "excerpt": "Källa: En dag på midsommar — 仲夏节的一天 日期: 2026 06 22 类型: scenario (story) CEFR: A2–B1 瑞典仲夏节一天的叙事场景，从清晨采花、立仲夏柱、跳舞唱歌，到午餐 sill + 新土豆、傍晚采七种花放枕下许愿、明亮的夏夜。涵盖仲夏传统词汇、复合词与时间状语推进叙事的语法。 词汇 (Words) äng — 草地 kvist — 小树枝 blomsterkrans — ",
+      "forms": [],
+      "links": [
+        "äng",
+        "blomsterkrans",
+        "färskpotatis",
+        "framtid",
+        "gräddfil",
+        "grammar-presens",
+        "grammar-sammansatt-ord",
+        "grammar-tidsadverbial",
+        "grammar-v2-ordfoljd",
+        "hoppa",
+        "ingen-bryr-sig",
+        "kärlek",
+        "klä",
+        "klä-stången-med-blommor",
+        "krans",
+        "kudde",
+        "kvist",
+        "lägga-under-kudden",
+        "ljus",
+        "ljusa-nätter",
+        "löv",
+        "midnatt",
+        "regna",
+        "resa",
+        "sju-sorters-blommor",
+        "sjunga",
+        "skåla",
+        "skåla-med-snaps",
+        "skratta",
+        "snaps",
+        "till-slut",
+        "vakna"
+      ],
+      "searchText": "Källa: En dag på midsommar — 仲夏节的一天 source-2026-06-22-en-dag-pa-midsommar knowledge_base/sources/source-2026-06-22-en-dag-pa-midsommar.md ---\ntype: source\nkind: import\nsource_label: \"scenario — en dag på midsommar (仲夏节的一天)\"\ndate: 2026-06-22\nwords: [\"äng\", \"kvist\", \"blomsterkrans\", \"krans\", \"klä\", \"löv\", \"resa\", \"sjunga\", \"färskpotatis\", \"gräddfil\", \"skåla\", \"snaps\", \"regna\", \"kärlek\", \"midnatt\", \"vakna\", \"hoppa\", \"skratta\", \"kudde\", \"framtid\", \"ljus\"]\nphrases: [\"klä-stången-med-blommor\", \"lägga-under-kudden\", \"skåla-med-snaps\", \"ingen-bryr-sig\", \"ljusa-nätter\", \"sju-sorters-blommor\", \"till-slut\"]\nsentences: [\"sent-det-är-midsommarafton\", \"sent-emma-vaknar-tidigt\", \"sent-solen-skiner-redan\", \"sent-pa-morgonen-gar-emma-och-hennes-familj\", \"sent-de-plockar-blommor-och-grona-kvistar\", \"sent-emma-gor-en-blomsterkrans-och-satter\", \"sent-sedan-klar-de-midsommarstangen-med-blommor\", \"sent-hela-byn-samlas\", \"sent-tillsammans-reser-de-stangen\", \"sent-det-tar-tid-men-till-slut-star-den\", \"sent-alla-dansar-runt-stangen-och-sjunger\", \"sent-barnen-hoppar-och-skrattar\", \"sent-till-lunch-ater-de-sill-med-farskpotatis\", \"sent-pappa-skalar-med-snaps\", \"sent-det-smakar-gott\", \"sent-pa-eftermiddagen-borjar-det-regna\", \"sent-men-ingen-bryr-sig\", \"sent-midsommar-ar-midsommar\", \"sent-pa-kvallen-plockar-emma-sju-sorters-blommor\", \"sent-hon-lagger-dem-under-kudden\", \"sent-kanske-drommar-hon-om-sin-framtida-karlek\", \"sent-natten-ar-ljus\", \"sent-klockan-ar-nastan-midnatt-men-himlen\"]\ngrammar: [\"grammar-tidsadverbial\", \"grammar-presens\", \"grammar-v2-ordfoljd\", \"grammar-sammansatt-ord\"]\n---\n\n# Källa: En dag på midsommar — 仲夏节的一天\n\n**日期:** 2026-06-22\n**类型:** scenario (story)\n**CEFR:** A2–B1\n\n瑞典仲夏节一天的叙事场景，从清晨采花、立仲夏柱、跳舞唱歌，到午餐 sill + 新土豆、傍晚采七种花放枕下许愿、明亮的夏夜。涵盖仲夏传统词汇、复合词与时间状语推进叙事的语法。\n\n## 词汇 (Words)\n\n- [[äng]] — 草地\n- [[kvist]] — 小树枝\n- [[blomsterkrans]] — 花环\n- [[krans]] — 环；花环\n- [[klä]] — 装饰；穿戴\n- [[löv]] — 叶子；树叶\n- [[resa]] — 立起；旅行\n- [[sjunga]] — 唱歌\n- [[färskpotatis]] — 新鲜小土豆\n- [[gräddfil]] — 酸奶油\n- [[skåla]] — 干杯\n- [[snaps]] — 小杯烈酒\n- [[regna]] — 下雨\n- [[kärlek]] — 爱；爱情\n- [[midnatt]] — 午夜\n- [[vakna]] — 醒来（DUP, existing）\n- [[hoppa]] — 跳跃（DUP, existing）\n- [[skratta]] — 笑（DUP, existing）\n- [[kudde]] — 枕头（DUP, existing）\n- [[framtid]] — 未来（DUP, existing）\n- [[ljus]] — 明亮的（DUP, existing）\n\n## 词组 (Phrases)\n\n- [[klä-stången-med-blommor]] — 用花装饰仲夏柱\n- [[lägga-under-kudden]] — 放在枕头下面\n- [[skåla-med-snaps]] — 用烈酒干杯\n- [[ingen-bryr-sig]] — 没有人在意\n- [[ljusa-nätter]] — 明亮的夜晚\n- [[sju-sorters-blommor]] — 七种花（DUP, existing）\n- [[till-slut]] — 最终；终于（DUP, existing）\n\n## 语法 (Grammar)\n\n- [[grammar-tidsadverbial]] — 时间状语推进叙事\n- [[grammar-presens]] — 现在时（DUP, existing）\n- [[grammar-v2-ordfoljd]] — V2 语序（DUP, existing）\n- [[grammar-sammansatt-ord]] — 复合词构成（DUP, existing）\n",
+      "date": "2026-06-22",
+      "source_label": "scenario — en dag på midsommar (仲夏节的一天)",
+      "kind": "import",
+      "words": [
+        "äng",
+        "kvist",
+        "blomsterkrans",
+        "krans",
+        "klä",
+        "löv",
+        "resa",
+        "sjunga",
+        "färskpotatis",
+        "gräddfil",
+        "skåla",
+        "snaps",
+        "regna",
+        "kärlek",
+        "midnatt",
+        "vakna",
+        "hoppa",
+        "skratta",
+        "kudde",
+        "framtid",
+        "ljus"
+      ],
+      "phrases": [
+        "klä-stången-med-blommor",
+        "lägga-under-kudden",
+        "skåla-med-snaps",
+        "ingen-bryr-sig",
+        "ljusa-nätter",
+        "sju-sorters-blommor",
+        "till-slut"
+      ],
+      "sentences": [
+        "sent-det-är-midsommarafton",
+        "sent-emma-vaknar-tidigt",
+        "sent-solen-skiner-redan",
+        "sent-pa-morgonen-gar-emma-och-hennes-familj",
+        "sent-de-plockar-blommor-och-grona-kvistar",
+        "sent-emma-gor-en-blomsterkrans-och-satter",
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
+        "sent-hela-byn-samlas",
+        "sent-tillsammans-reser-de-stangen",
+        "sent-det-tar-tid-men-till-slut-star-den",
+        "sent-alla-dansar-runt-stangen-och-sjunger",
+        "sent-barnen-hoppar-och-skrattar",
+        "sent-till-lunch-ater-de-sill-med-farskpotatis",
+        "sent-pappa-skalar-med-snaps",
+        "sent-det-smakar-gott",
+        "sent-pa-eftermiddagen-borjar-det-regna",
+        "sent-men-ingen-bryr-sig",
+        "sent-midsommar-ar-midsommar",
+        "sent-pa-kvallen-plockar-emma-sju-sorters-blommor",
+        "sent-hon-lagger-dem-under-kudden",
+        "sent-kanske-drommar-hon-om-sin-framtida-karlek",
+        "sent-natten-ar-ljus",
+        "sent-klockan-ar-nastan-midnatt-men-himlen"
+      ],
+      "grammar": [
+        "grammar-tidsadverbial",
+        "grammar-presens",
+        "grammar-v2-ordfoljd",
+        "grammar-sammansatt-ord"
+      ],
+      "backlinks": [
+        "sent-alla-dansar-runt-stangen-och-sjunger",
+        "sent-barnen-hoppar-och-skrattar",
+        "sent-de-plockar-blommor-och-grona-kvistar",
+        "sent-det-är-midsommarafton",
+        "sent-det-smakar-gott",
+        "sent-det-tar-tid-men-till-slut-star-den",
+        "sent-emma-gor-en-blomsterkrans-och-satter",
+        "sent-emma-vaknar-tidigt",
+        "sent-hela-byn-samlas",
+        "sent-hon-lagger-dem-under-kudden",
+        "sent-kanske-drommar-hon-om-sin-framtida-karlek",
+        "sent-klockan-ar-nastan-midnatt-men-himlen",
+        "sent-men-ingen-bryr-sig",
+        "sent-midsommar-ar-midsommar",
+        "sent-natten-ar-ljus",
+        "sent-pa-eftermiddagen-borjar-det-regna",
+        "sent-pa-kvallen-plockar-emma-sju-sorters-blommor",
+        "sent-pa-morgonen-gar-emma-och-hennes-familj",
+        "sent-pappa-skalar-med-snaps",
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
+        "sent-solen-skiner-redan",
+        "sent-till-lunch-ater-de-sill-med-farskpotatis",
+        "sent-tillsammans-reser-de-stangen"
+      ]
+    },
+    {
       "slug": "source-2026-06-22-en-helg",
       "type": "source",
       "title": "来源：En helg — vad jag gjorde（情景练习 story / berättelse，2026-06-22）",
@@ -35821,6 +37021,7 @@ window.KB_DATA = {
         "njuta",
         "passa",
         "promenad",
+        "resa",
         "segelbåt",
         "semester",
         "sjö",
@@ -36280,6 +37481,7 @@ window.KB_DATA = {
         "jacka",
         "kappa",
         "kjol",
+        "klä",
         "klänning",
         "kostym",
         "linne",
@@ -36645,6 +37847,7 @@ window.KB_DATA = {
         "café",
         "champagne",
         "efterrätt",
+        "färskpotatis",
         "fira",
         "fisksoppa",
         "fläskfilé",
@@ -36655,6 +37858,7 @@ window.KB_DATA = {
         "gluten",
         "glutenfri",
         "grädde",
+        "gräddfil",
         "grillad",
         "grönsak",
         "gurka",
@@ -36708,6 +37912,8 @@ window.KB_DATA = {
         "salt",
         "servitör",
         "sill",
+        "skåla",
+        "snaps",
         "soppa",
         "source-2026-06-15-restaurang-allergi-nota",
         "source-2026-06-15-restaurang-fodelsedag",
@@ -36777,43 +37983,72 @@ window.KB_DATA = {
       "type": "topic",
       "title": "midsommar-traditioner",
       "path": "knowledge_base/topics/topic-midsommar-traditioner.md",
-      "body": "# 🗂️ midsommar-traditioner — 仲夏节传统\n\n类型: thematic\n\n## 成员 (Members)\n\n- [[midsommar]] — 仲夏节\n- [[midsommarafton]] — 仲夏节前夕\n- [[midsommarstång]] — 仲夏柱\n- [[högtid]] — 节日/节庆\n- [[fira]] — 庆祝\n- [[dansa]] — 跳舞\n- [[plocka]] — 采摘\n- [[drömma]] — 做梦/梦到\n- [[gifta-sig-med]] — 和…结婚\n- [[sju-sorters-blommor]] — 七种花\n- [[jordgubbe]] — 草莓\n- [[sill]] — 鲱鱼\n- [[potatis]] — 土豆\n- [[lax]] — 三文鱼\n- [[köttbulle]] — 肉丸\n\n## 备注 (Notes)\n\n- 瑞典仲夏节（Midsommar）是每年六月最重要的节日，自16世纪起就有记载\n- 传统：围着仲夏柱唱歌跳舞、采七种花放枕头下许愿、吃草莓和鲱鱼\n- 仲夏节前夕（midsommarafton）是主要庆祝日",
+      "body": "# 🗂️ midsommar-traditioner — 仲夏节传统\n\n类型: thematic\n\n## 成员 (Members)\n\n- [[midsommar]] — 仲夏节\n- [[midsommarafton]] — 仲夏节前夕\n- [[midsommarstång]] — 仲夏柱\n- [[högtid]] — 节日/节庆\n- [[fira]] — 庆祝\n- [[dansa]] — 跳舞\n- [[plocka]] — 采摘\n- [[drömma]] — 做梦/梦到\n- [[gifta-sig-med]] — 和…结婚\n- [[sju-sorters-blommor]] — 七种花（仲夏习俗）\n- [[jordgubbe]] — 草莓\n- [[sill]] — 鲱鱼\n- [[potatis]] — 土豆\n- [[lax]] — 三文鱼\n- [[köttbulle]] — 肉丸\n- [[blomsterkrans]] — 花环（头戴花环是仲夏节标志）\n- [[krans]] — 环/花环\n- [[äng]] — 草地（采花的地方）\n- [[sjunga]] — 唱歌（围柱唱《小青蛙》）\n- [[skåla]] — 干杯\n- [[snaps]] — 小杯烈酒（仲夏传统饮品）\n- [[gräddfil]] — 酸奶油（与土豆鲱鱼同食）\n- [[färskpotatis]] — 新鲜小土豆（仲夏经典菜）\n- [[midnatt]] — 午夜（仲夏夜晚依然明亮）\n- [[kärlek]] — 爱/爱情（七种花许愿梦见爱人）\n- [[klä-stången-med-blommor]] — 用花装饰仲夏柱\n- [[lägga-under-kudden]] — 放枕下（七种花习俗）\n- [[skåla-med-snaps]] — 用烈酒干杯\n- [[ljusa-nätter]] — 明亮的夜晚\n\n## 备注 (Notes)\n\n- 瑞典仲夏节（Midsommar）是每年六月最重要的节日，自16世纪起就有记载\n- 传统：围着仲夏柱唱歌跳舞、采七种花放枕头下许愿、吃草莓和鲱鱼\n- 仲夏节前夕（midsommarafton）是主要庆祝日\n- 仲夏一夜明亮（ljusa nätter）是瑞典夏天独特的自然现象",
       "excerpt": "🗂️ midsommar traditioner — 仲夏节传统 类型: thematic 成员 (Members) midsommar — 仲夏节 midsommarafton — 仲夏节前夕 midsommarstång — 仲夏柱 högtid — 节日/节庆 fira — 庆祝 dansa — 跳舞 plocka — 采摘 drömma — 做梦/梦到 gifta sig med — 和…结婚 sju sorters blom",
       "forms": [],
       "links": [
+        "äng",
+        "blomsterkrans",
         "dansa",
         "drömma",
+        "färskpotatis",
         "fira",
         "gifta-sig-med",
+        "gräddfil",
         "högtid",
         "jordgubbe",
+        "kärlek",
+        "klä-stången-med-blommor",
         "köttbulle",
+        "krans",
+        "lägga-under-kudden",
         "lax",
+        "ljusa-nätter",
+        "midnatt",
         "midsommar",
         "midsommarafton",
         "midsommarstång",
         "plocka",
         "potatis",
         "sill",
-        "sju-sorters-blommor"
+        "sju-sorters-blommor",
+        "sjunga",
+        "skåla",
+        "skåla-med-snaps",
+        "snaps"
       ],
-      "searchText": "midsommar-traditioner topic-midsommar-traditioner knowledge_base/topics/topic-midsommar-traditioner.md ---\ntype: topic\nname: \"midsommar-traditioner\"\nkind: thematic\nzh: \"仲夏节传统\"\nmembers: [\"midsommar\", \"midsommarafton\", \"midsommarstång\", \"högtid\", \"fira\", \"dansa\", \"plocka\", \"drömma\", \"gifta-sig-med\", \"sju-sorters-blommor\", \"jordgubbe\", \"sill\", \"potatis\", \"lax\", \"köttbulle\"]\ncreated: \"2026-06-18\"\n---\n\n# 🗂️ midsommar-traditioner — 仲夏节传统\n\n类型: thematic\n\n## 成员 (Members)\n\n- [[midsommar]] — 仲夏节\n- [[midsommarafton]] — 仲夏节前夕\n- [[midsommarstång]] — 仲夏柱\n- [[högtid]] — 节日/节庆\n- [[fira]] — 庆祝\n- [[dansa]] — 跳舞\n- [[plocka]] — 采摘\n- [[drömma]] — 做梦/梦到\n- [[gifta-sig-med]] — 和…结婚\n- [[sju-sorters-blommor]] — 七种花\n- [[jordgubbe]] — 草莓\n- [[sill]] — 鲱鱼\n- [[potatis]] — 土豆\n- [[lax]] — 三文鱼\n- [[köttbulle]] — 肉丸\n\n## 备注 (Notes)\n\n- 瑞典仲夏节（Midsommar）是每年六月最重要的节日，自16世纪起就有记载\n- 传统：围着仲夏柱唱歌跳舞、采七种花放枕头下许愿、吃草莓和鲱鱼\n- 仲夏节前夕（midsommarafton）是主要庆祝日\n",
+      "searchText": "midsommar-traditioner topic-midsommar-traditioner knowledge_base/topics/topic-midsommar-traditioner.md ---\ntype: topic\nname: \"midsommar-traditioner\"\nkind: thematic\nzh: \"仲夏节传统\"\nmembers: [\"midsommar\", \"midsommarafton\", \"midsommarstång\", \"högtid\", \"fira\", \"dansa\", \"plocka\", \"drömma\", \"gifta-sig-med\", \"sju-sorters-blommor\", \"jordgubbe\", \"sill\", \"potatis\", \"lax\", \"köttbulle\", \"blomsterkrans\", \"krans\", \"äng\", \"sjunga\", \"skåla\", \"snaps\", \"gräddfil\", \"färskpotatis\", \"midnatt\", \"kärlek\", \"klä-stången-med-blommor\", \"lägga-under-kudden\", \"skåla-med-snaps\", \"ljusa-nätter\"]\ncreated: \"2026-06-18\"\n---\n\n# 🗂️ midsommar-traditioner — 仲夏节传统\n\n类型: thematic\n\n## 成员 (Members)\n\n- [[midsommar]] — 仲夏节\n- [[midsommarafton]] — 仲夏节前夕\n- [[midsommarstång]] — 仲夏柱\n- [[högtid]] — 节日/节庆\n- [[fira]] — 庆祝\n- [[dansa]] — 跳舞\n- [[plocka]] — 采摘\n- [[drömma]] — 做梦/梦到\n- [[gifta-sig-med]] — 和…结婚\n- [[sju-sorters-blommor]] — 七种花（仲夏习俗）\n- [[jordgubbe]] — 草莓\n- [[sill]] — 鲱鱼\n- [[potatis]] — 土豆\n- [[lax]] — 三文鱼\n- [[köttbulle]] — 肉丸\n- [[blomsterkrans]] — 花环（头戴花环是仲夏节标志）\n- [[krans]] — 环/花环\n- [[äng]] — 草地（采花的地方）\n- [[sjunga]] — 唱歌（围柱唱《小青蛙》）\n- [[skåla]] — 干杯\n- [[snaps]] — 小杯烈酒（仲夏传统饮品）\n- [[gräddfil]] — 酸奶油（与土豆鲱鱼同食）\n- [[färskpotatis]] — 新鲜小土豆（仲夏经典菜）\n- [[midnatt]] — 午夜（仲夏夜晚依然明亮）\n- [[kärlek]] — 爱/爱情（七种花许愿梦见爱人）\n- [[klä-stången-med-blommor]] — 用花装饰仲夏柱\n- [[lägga-under-kudden]] — 放枕下（七种花习俗）\n- [[skåla-med-snaps]] — 用烈酒干杯\n- [[ljusa-nätter]] — 明亮的夜晚\n\n## 备注 (Notes)\n\n- 瑞典仲夏节（Midsommar）是每年六月最重要的节日，自16世纪起就有记载\n- 传统：围着仲夏柱唱歌跳舞、采七种花放枕头下许愿、吃草莓和鲱鱼\n- 仲夏节前夕（midsommarafton）是主要庆祝日\n- 仲夏一夜明亮（ljusa nätter）是瑞典夏天独特的自然现象\n",
       "name": "midsommar-traditioner",
       "zh": "仲夏节传统",
       "created": "2026-06-18",
       "kind": "thematic",
       "backlinks": [
+        "äng",
+        "blomsterkrans",
         "dansa",
         "drömma",
+        "färskpotatis",
+        "gräddfil",
         "högtid",
         "jordgubbe",
+        "kärlek",
+        "klä",
+        "krans",
+        "kvist",
+        "löv",
+        "midnatt",
         "midsommar",
         "midsommarafton",
         "midsommardag",
         "midsommarstång",
         "plocka",
+        "regna",
+        "resa",
         "samlas",
         "sill",
+        "sjunga",
+        "skåla",
+        "snaps",
         "source-2026-06-18-nyheter-8sidor",
         "source-2026-06-19-nyheter-8sidor"
       ]
@@ -37564,9 +38799,11 @@ window.KB_DATA = {
         "funka",
         "gå-bra",
         "helg",
+        "kärlek",
         "kram",
         "läge",
         "passa",
+        "skåla",
         "stress"
       ]
     },
@@ -37733,6 +38970,7 @@ window.KB_DATA = {
         "helg",
         "just",
         "klocka",
+        "midnatt",
         "morgon",
         "plötsligt",
         "redan",
@@ -37871,6 +39109,7 @@ window.KB_DATA = {
       "en": "Weather and Seasons",
       "created": "2026-06-16",
       "backlinks": [
+        "äng",
         "årstid",
         "åska",
         "blomma",
@@ -37881,10 +39120,13 @@ window.KB_DATA = {
         "höst",
         "intensiv",
         "klimat",
+        "kvist",
+        "löv",
         "midsommardag",
         "moln",
         "njuta",
         "regn",
+        "regna",
         "sent-delar-av-sodra-norrland-far-regn",
         "sent-det-kan-ocksa-bli-regn-pa-andra-platser",
         "sent-sa-vadret-solen-kan-visa-sig-pa-flera",
@@ -38428,6 +39670,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "hata",
+        "kärlek",
         "sent-äppelpaj-tack-den-älskar-jag",
         "source-2026-06-09-zlatan-bio",
         "source-2026-06-10-zlatan-subst-verb",
@@ -38541,6 +39784,46 @@ window.KB_DATA = {
         "sent-antligen-kunde-jag-andas-ut",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "äng",
+      "type": "word",
+      "title": "äng",
+      "path": "knowledge_base/words/äng.md",
+      "body": "# äng — substantiv\n\n📖 中文：草地；牧场 · English: meadow\n发音提示：[ɛŋ]，单音节，短元音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en äng |\n| bestämd singular | ängen |\n| obestämd plural | ängar |\n| bestämd plural | ängarna |\n\n## 词组搭配 (Collocations)\n\n- `gå ut i ängen` — 走进草地\n- `blomsteräng` — 野花草地（复合词）\n- `plocka blommor i ängen` — 在草地上采花\n\n## 例句 (Sentences)\n\n- 🇸🇪 På morgonen går Emma och hennes familj ut i ängen. — 🇨🇳 早上，爱玛和她的家人走进草地。\n- 🇸🇪 Ängen är full av vilda blommor på sommaren. — 🇨🇳 草地上在夏天开满了野花。\n- 🇸🇪 Vi sitter i ängen och tittar på molnen. — 🇨🇳 我们坐在草地上看云。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[blomsteräng]]\n- 同义词: [[gräsmatta]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典仲夏节最常见的场景词：全家走进 ängen 采花、装饰仲夏柱\n- 与 gräsmatta（人工草坪）区分：äng 是天然野生草地，常有野花",
+      "excerpt": "äng — substantiv 📖 中文：草地；牧场 · English: meadow 发音提示：[ɛŋ]，单音节，短元音 语法变形 (Forms) form Swedish obestämd singular en äng bestämd singular ängen obestämd plural ängar bestämd plural ängarna 词组搭配 (Collocations) gå ut i ängen — ",
+      "forms": [
+        "äng",
+        "ängen",
+        "ängar",
+        "ängarna"
+      ],
+      "links": [
+        "blomsteräng",
+        "gräsmatta",
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "äng äng knowledge_base/words/äng.md ---\ntype: word\nlemma: \"äng\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"草地；牧场\"\nen: \"meadow\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-midsommar-traditioner\", \"topic-vader-och-arstider\"]\nsentences: [\"sent-pa-morgonen-gar-emma-och-hennes-familj\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# äng — substantiv\n\n📖 中文：草地；牧场 · English: meadow\n发音提示：[ɛŋ]，单音节，短元音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en äng |\n| bestämd singular | ängen |\n| obestämd plural | ängar |\n| bestämd plural | ängarna |\n\n## 词组搭配 (Collocations)\n\n- `gå ut i ängen` — 走进草地\n- `blomsteräng` — 野花草地（复合词）\n- `plocka blommor i ängen` — 在草地上采花\n\n## 例句 (Sentences)\n\n- 🇸🇪 På morgonen går Emma och hennes familj ut i ängen. — 🇨🇳 早上，爱玛和她的家人走进草地。\n- 🇸🇪 Ängen är full av vilda blommor på sommaren. — 🇨🇳 草地上在夏天开满了野花。\n- 🇸🇪 Vi sitter i ängen och tittar på molnen. — 🇨🇳 我们坐在草地上看云。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[blomsteräng]]\n- 同义词: [[gräsmatta]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典仲夏节最常见的场景词：全家走进 ängen 采花、装饰仲夏柱\n- 与 gräsmatta（人工草坪）区分：äng 是天然野生草地，常有野花\n",
+      "lemma": "äng",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "草地；牧场",
+      "en": "meadow",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-pa-morgonen-gar-emma-och-hennes-familj"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "sent-pa-morgonen-gar-emma-och-hennes-familj",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
       ]
     },
     {
@@ -40209,6 +41492,7 @@ window.KB_DATA = {
         "bebis",
         "grammar-substantiv-plural",
         "nyfödd",
+        "sent-barnen-hoppar-och-skrattar",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-19-adjsubst-blandat",
         "spädbarn",
@@ -41188,6 +42472,7 @@ window.KB_DATA = {
         "topic-djur"
       ],
       "backlinks": [
+        "sent-klockan-ar-nastan-midnatt-men-himlen",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
         "topic-djur",
@@ -41373,13 +42658,56 @@ window.KB_DATA = {
         "topic-natur"
       ],
       "backlinks": [
+        "blomsterkrans",
         "krukväxt",
+        "sent-de-plockar-blommor-och-grona-kvistar",
         "sent-faglarna-sjunger-och-de-forsta",
         "sent-människor-brukar-plocka-sju-sorters",
+        "sent-pa-kvallen-plockar-emma-sju-sorters-blommor",
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
         "source-2026-06-16-vadret-och-arstiderna",
         "source-2026-06-18-nyheter-8sidor",
         "source-2026-06-19-adjsubst-blandat",
         "topic-vader-och-arstider"
+      ]
+    },
+    {
+      "slug": "blomsterkrans",
+      "type": "word",
+      "title": "blomsterkrans",
+      "path": "knowledge_base/words/blomsterkrans.md",
+      "body": "# blomsterkrans — substantiv\n\n📖 中文：花环 · English: flower wreath\n发音提示：[ˈblɔmstɛrkrans]，blomster + krans 复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en blomsterkrans |\n| bestämd singular | blomsterkransen |\n| obestämd plural | blomsterkransar |\n| bestämd plural | blomsterkransarna |\n\n## 词组搭配 (Collocations)\n\n- `göra en blomsterkrans` — 做一个花环\n- `sätta blomsterkransen på huvudet` — 把花环戴在头上\n- `bära blomsterkrans` — 戴花环\n\n## 例句 (Sentences)\n\n- 🇸🇪 Emma gör en blomsterkrans och sätter den på huvudet. — 🇨🇳 爱玛做了一个花环，戴在头上。\n- 🇸🇪 På midsommar bär många flickor blomsterkrans. — 🇨🇳 在仲夏节，许多女孩戴着花环。\n- 🇸🇪 Jag vill göra en blomsterkrans av sju sorters blommor. — 🇨🇳 我想用七种花做一个花环。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[krans]] · [[blomma]]\n- 同义词: [[krans]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：blomster（花朵的诗意形式）+ krans（环）\n- 仲夏节标志性装饰：女孩和女性头戴用野花编成的花环\n- blomsterkrans 特指花环；krans 更通用（也可指圣诞花环等）",
+      "excerpt": "blomsterkrans — substantiv 📖 中文：花环 · English: flower wreath 发音提示：[ˈblɔmstɛrkrans]，blomster + krans 复合词 语法变形 (Forms) form Swedish obestämd singular en blomsterkrans bestämd singular blomsterkransen obestämd plural blomst",
+      "forms": [
+        "blomsterkrans",
+        "blomsterkransen",
+        "blomsterkransar",
+        "blomsterkransarna"
+      ],
+      "links": [
+        "blomma",
+        "krans",
+        "topic-midsommar-traditioner"
+      ],
+      "searchText": "blomsterkrans blomsterkrans knowledge_base/words/blomsterkrans.md ---\ntype: word\nlemma: \"blomsterkrans\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"花环\"\nen: \"flower wreath\"\nsynonyms: [\"krans\"]\nantonyms: []\nfamily: [\"krans\", \"blomma\"]\ntopics: [\"topic-midsommar-traditioner\"]\nsentences: [\"sent-emma-gor-en-blomsterkrans-och-satter\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# blomsterkrans — substantiv\n\n📖 中文：花环 · English: flower wreath\n发音提示：[ˈblɔmstɛrkrans]，blomster + krans 复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en blomsterkrans |\n| bestämd singular | blomsterkransen |\n| obestämd plural | blomsterkransar |\n| bestämd plural | blomsterkransarna |\n\n## 词组搭配 (Collocations)\n\n- `göra en blomsterkrans` — 做一个花环\n- `sätta blomsterkransen på huvudet` — 把花环戴在头上\n- `bära blomsterkrans` — 戴花环\n\n## 例句 (Sentences)\n\n- 🇸🇪 Emma gör en blomsterkrans och sätter den på huvudet. — 🇨🇳 爱玛做了一个花环，戴在头上。\n- 🇸🇪 På midsommar bär många flickor blomsterkrans. — 🇨🇳 在仲夏节，许多女孩戴着花环。\n- 🇸🇪 Jag vill göra en blomsterkrans av sju sorters blommor. — 🇨🇳 我想用七种花做一个花环。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[krans]] · [[blomma]]\n- 同义词: [[krans]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：blomster（花朵的诗意形式）+ krans（环）\n- 仲夏节标志性装饰：女孩和女性头戴用野花编成的花环\n- blomsterkrans 特指花环；krans 更通用（也可指圣诞花环等）\n",
+      "lemma": "blomsterkrans",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "花环",
+      "en": "flower wreath",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-emma-gor-en-blomsterkrans-och-satter"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "krans",
+        "sent-emma-gor-en-blomsterkrans-och-satter",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
       ]
     },
     {
@@ -41937,6 +43265,7 @@ window.KB_DATA = {
         "avsluta",
         "påbörja",
         "sent-det-borjar-med-sjalvreflektering",
+        "sent-pa-eftermiddagen-borjar-det-regna",
         "source-2026-06-10-zlatan-subst-verb"
       ]
     },
@@ -42813,6 +44142,7 @@ window.KB_DATA = {
       "backlinks": [
         "sent-byn-ligger-i-avesta-kommun-i-dalarna",
         "sent-google-ska-bygga-ett-stort-datacenter",
+        "sent-hela-byn-samlas",
         "source-2026-06-22-nyheter"
       ]
     },
@@ -43477,6 +44807,7 @@ window.KB_DATA = {
         "topic-fritid-och-resor"
       ],
       "backlinks": [
+        "sent-alla-dansar-runt-stangen-och-sjunger",
         "sent-sedan-1800-talet-har-människor",
         "source-2026-06-18-nyheter-8sidor",
         "topic-midsommar-traditioner"
@@ -44014,6 +45345,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-de-hoppas-att-de-ska-drömma",
+        "sent-kanske-drommar-hon-om-sin-framtida-karlek",
         "source-2026-06-18-nyheter-8sidor",
         "topic-midsommar-traditioner"
       ]
@@ -44957,6 +46289,7 @@ window.KB_DATA = {
       "backlinks": [
         "förälder",
         "sent-att-sla-nagon-i-sin-familj-kallas",
+        "sent-pa-morgonen-gar-emma-och-hennes-familj",
         "topic-personer"
       ]
     },
@@ -45185,8 +46518,49 @@ window.KB_DATA = {
         "topic-kafe-fika"
       ],
       "backlinks": [
+        "färskpotatis",
         "sent-fika-men-vi-har-farsk-kanelbulle",
         "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "färskpotatis",
+      "type": "word",
+      "title": "färskpotatis",
+      "path": "knowledge_base/words/färskpotatis.md",
+      "body": "# färskpotatis — substantiv\n\n📖 中文：新鲜小土豆 · English: new potatoes\n发音提示：[ˈfærskpʊˌtɑːtɪs]，färsk + potatis 复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en färskpotatis |\n| bestämd singular | färskpotatisen |\n| obestämd plural | färskpotatisar (少用) / färskpotatis (常用集合名词) |\n| bestämd plural | färskpotatisarna |\n\n## 词组搭配 (Collocations)\n\n- `sill med färskpotatis` — 腌鲱鱼配新鲜小土豆（仲夏传统菜）\n- `kokt färskpotatis` — 煮新鲜小土豆\n- `färskpotatis med dill` — 配莳萝的新鲜小土豆\n- `färskpotatis och gräddfil` — 新土豆配酸奶油\n\n## 例句 (Sentences)\n\n- 🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil. — 🇨🇳 午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。\n- 🇸🇪 Färskpotatis smakar bäst med smör och dill. — 🇨🇳 新鲜小土豆配黄油和莳萝味道最好。\n- 🇸🇪 På midsommar äter vi alltid färskpotatis. — 🇨🇳 仲夏节我们总是吃新鲜小土豆。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[potatis]] · [[färsk]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：färsk（新鲜的）+ potatis（土豆）\n- 仲夏节传统菜单：sill（腌鲱鱼）+ färskpotatis + gräddfil（酸奶油）是标配\n- 通常是春夏季早期收获的小土豆，皮薄嫩，不去皮直接煮",
+      "excerpt": "färskpotatis — substantiv 📖 中文：新鲜小土豆 · English: new potatoes 发音提示：[ˈfærskpʊˌtɑːtɪs]，färsk + potatis 复合词 语法变形 (Forms) form Swedish obestämd singular en färskpotatis bestämd singular färskpotatisen obestämd plural färskpo",
+      "forms": [
+        "färskpotatis",
+        "färskpotatisen",
+        "färskpotatisar",
+        "färskpotatisarna"
+      ],
+      "links": [
+        "färsk",
+        "potatis",
+        "topic-mat-dryck",
+        "topic-midsommar-traditioner"
+      ],
+      "searchText": "färskpotatis färskpotatis knowledge_base/words/färskpotatis.md ---\ntype: word\nlemma: \"färskpotatis\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"新鲜小土豆\"\nen: \"new potatoes\"\nsynonyms: []\nantonyms: []\nfamily: [\"potatis\", \"färsk\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-mat-dryck\"]\nsentences: [\"sent-till-lunch-ater-de-sill-med-farskpotatis\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# färskpotatis — substantiv\n\n📖 中文：新鲜小土豆 · English: new potatoes\n发音提示：[ˈfærskpʊˌtɑːtɪs]，färsk + potatis 复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en färskpotatis |\n| bestämd singular | färskpotatisen |\n| obestämd plural | färskpotatisar (少用) / färskpotatis (常用集合名词) |\n| bestämd plural | färskpotatisarna |\n\n## 词组搭配 (Collocations)\n\n- `sill med färskpotatis` — 腌鲱鱼配新鲜小土豆（仲夏传统菜）\n- `kokt färskpotatis` — 煮新鲜小土豆\n- `färskpotatis med dill` — 配莳萝的新鲜小土豆\n- `färskpotatis och gräddfil` — 新土豆配酸奶油\n\n## 例句 (Sentences)\n\n- 🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil. — 🇨🇳 午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。\n- 🇸🇪 Färskpotatis smakar bäst med smör och dill. — 🇨🇳 新鲜小土豆配黄油和莳萝味道最好。\n- 🇸🇪 På midsommar äter vi alltid färskpotatis. — 🇨🇳 仲夏节我们总是吃新鲜小土豆。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[potatis]] · [[färsk]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：färsk（新鲜的）+ potatis（土豆）\n- 仲夏节传统菜单：sill（腌鲱鱼）+ färskpotatis + gräddfil（酸奶油）是标配\n- 通常是春夏季早期收获的小土豆，皮薄嫩，不去皮直接煮\n",
+      "lemma": "färskpotatis",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "新鲜小土豆",
+      "en": "new potatoes",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-till-lunch-ater-de-sill-med-farskpotatis"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-till-lunch-ater-de-sill-med-farskpotatis",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
       ]
     },
     {
@@ -46984,6 +48358,7 @@ window.KB_DATA = {
         "topic-tid-och-tidsuttryck"
       ],
       "backlinks": [
+        "sent-klockan-ar-nastan-midnatt-men-himlen",
         "sent-trots-forlusten-kan-sverige-ga-vidare",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-tid-och-tidsuttryck"
@@ -47290,6 +48665,8 @@ window.KB_DATA = {
       "backlinks": [
         "framför",
         "sent-hon-fortsätter-att-kämpa-för-klimatet",
+        "sent-kanske-drommar-hon-om-sin-framtida-karlek",
+        "source-2026-06-22-en-dag-pa-midsommar",
         "source-2026-06-22-greta-thunberg",
         "topic-miljö-och-klimat"
       ]
@@ -48490,6 +49867,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "bra",
+        "sent-det-smakar-gott",
         "source-2026-06-19-adjsubst-blandat",
         "topic-personer"
       ]
@@ -48651,9 +50029,48 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "gräddfil",
         "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
         "source-2026-06-15-restaurang-allergi-nota",
         "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "gräddfil",
+      "type": "word",
+      "title": "gräddfil",
+      "path": "knowledge_base/words/gräddfil.md",
+      "body": "# gräddfil — substantiv\n\n📖 中文：酸奶油 · English: sour cream\n发音提示：[ˈgrɛdˌfiːl]，grädde + fil 复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en gräddfil |\n| bestämd singular | gräddfilen |\n| obestämd plural | (通常不可数，单数使用) |\n| bestämd plural | — |\n\n## 词组搭配 (Collocations)\n\n- `sill med gräddfil` — 鲱鱼配酸奶油\n- `potatis med gräddfil` — 土豆配酸奶油\n- `en klick gräddfil` — 一勺酸奶油\n- `gräddfil och lök` — 酸奶油和洋葱（常见搭配）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil. — 🇨🇳 午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。\n- 🇸🇪 Vill du ha gräddfil till potatisen? — 🇨🇳 你要酸奶油配土豆吗？\n- 🇸🇪 Gräddfil är vanlig i det svenska köket. — 🇨🇳 酸奶油在瑞典厨房很常见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[grädde]] · [[mjölk]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：grädde（奶油）+ fil（发酵乳/酸奶）\n- 瑞典仲夏节经典配料，与 sill 和 färskpotatis 是黄金组合\n- 类似英语 sour cream，但比一般酸奶油更浓稠",
+      "excerpt": "gräddfil — substantiv 📖 中文：酸奶油 · English: sour cream 发音提示：[ˈgrɛdˌfiːl]，grädde + fil 复合词 语法变形 (Forms) form Swedish obestämd singular en gräddfil bestämd singular gräddfilen obestämd plural (通常不可数，单数使用) bestämd plural — 词",
+      "forms": [
+        "gräddfil",
+        "gräddfilen"
+      ],
+      "links": [
+        "grädde",
+        "mjölk",
+        "topic-mat-dryck",
+        "topic-midsommar-traditioner"
+      ],
+      "searchText": "gräddfil gräddfil knowledge_base/words/gräddfil.md ---\ntype: word\nlemma: \"gräddfil\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"酸奶油\"\nen: \"sour cream\"\nsynonyms: []\nantonyms: []\nfamily: [\"grädde\", \"fil\", \"mjölk\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-mat-dryck\"]\nsentences: [\"sent-till-lunch-ater-de-sill-med-farskpotatis\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# gräddfil — substantiv\n\n📖 中文：酸奶油 · English: sour cream\n发音提示：[ˈgrɛdˌfiːl]，grädde + fil 复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en gräddfil |\n| bestämd singular | gräddfilen |\n| obestämd plural | (通常不可数，单数使用) |\n| bestämd plural | — |\n\n## 词组搭配 (Collocations)\n\n- `sill med gräddfil` — 鲱鱼配酸奶油\n- `potatis med gräddfil` — 土豆配酸奶油\n- `en klick gräddfil` — 一勺酸奶油\n- `gräddfil och lök` — 酸奶油和洋葱（常见搭配）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil. — 🇨🇳 午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。\n- 🇸🇪 Vill du ha gräddfil till potatisen? — 🇨🇳 你要酸奶油配土豆吗？\n- 🇸🇪 Gräddfil är vanlig i det svenska köket. — 🇨🇳 酸奶油在瑞典厨房很常见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[grädde]] · [[mjölk]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：grädde（奶油）+ fil（发酵乳/酸奶）\n- 瑞典仲夏节经典配料，与 sill 和 färskpotatis 是黄金组合\n- 类似英语 sour cream，但比一般酸奶油更浓稠\n",
+      "lemma": "gräddfil",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "酸奶油",
+      "en": "sour cream",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-till-lunch-ater-de-sill-med-farskpotatis"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-till-lunch-ater-de-sill-med-farskpotatis",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
       ]
     },
     {
@@ -48920,6 +50337,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "ek",
+        "kvist",
         "source-2026-06-22-nyheter-8sidor",
         "topic-vader-och-arstider"
       ]
@@ -50909,7 +52327,9 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
-        "index"
+        "index",
+        "sent-barnen-hoppar-och-skrattar",
+        "source-2026-06-22-en-dag-pa-midsommar"
       ]
     },
     {
@@ -51359,7 +52779,8 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "ingenting",
-        "någon"
+        "någon",
+        "sent-men-ingen-bryr-sig"
       ]
     },
     {
@@ -52619,6 +54040,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "kärlek",
+      "type": "word",
+      "title": "kärlek",
+      "path": "knowledge_base/words/kärlek.md",
+      "body": "# kärlek — substantiv\n\n📖 中文：爱；爱情 · English: love\n发音提示：[ˈçærleːk]，两音节，k- 在前元音前发 [ç]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en kärlek |\n| bestämd singular | kärleken |\n| obestämd plural | (通常不可数) |\n| bestämd plural | — |\n\n## 词组搭配 (Collocations)\n\n- `sin framtida kärlek` — 未来的爱人（仲夏节传说）\n- `kärlek vid första ögonkastet` — 一见钟情\n- `kärlek och vänskap` — 爱与友情\n- `full av kärlek` — 充满爱\n- `familjekärlek` — 家庭之爱\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kanske drömmer hon om sin framtida kärlek. — 🇨🇳 也许她会梦见自己未来的爱人。\n- 🇸🇪 Kärlek är det viktigaste i livet. — 🇨🇳 爱是生命中最重要的事。\n- 🇸🇪 Han är full av kärlek till sin familj. — 🇨🇳 他对家人充满爱。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[älska]] · [[kär]]\n- 同义词:\n- 反义词: [[hat]]\n- 主题: [[topic-midsommar-traditioner]] · [[topic-social-kontakt]]\n\n## 用法提示 (Usage Notes)\n\n- kärlek 通常作不可数名词，表示爱/爱情这种情感\n- sin framtida kärlek = 未来的爱人（kärlek 这里指\"爱的对象\"）\n- 仲夏节传说：女孩睡前在枕下放七种花，会梦见未来的爱人",
+      "excerpt": "kärlek — substantiv 📖 中文：爱；爱情 · English: love 发音提示：[ˈçærleːk]，两音节，k 在前元音前发 [ç] 语法变形 (Forms) form Swedish obestämd singular en kärlek bestämd singular kärleken obestämd plural (通常不可数) bestämd plural — 词组搭配 (Collocations)",
+      "forms": [
+        "kärlek",
+        "kärleken"
+      ],
+      "links": [
+        "älska",
+        "hat",
+        "kär",
+        "topic-midsommar-traditioner",
+        "topic-social-kontakt"
+      ],
+      "searchText": "kärlek kärlek knowledge_base/words/kärlek.md ---\ntype: word\nlemma: \"kärlek\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"爱；爱情\"\nen: \"love\"\nsynonyms: []\nantonyms: [\"hat\"]\nfamily: [\"älska\", \"kär\", \"kärestan\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-social-kontakt\"]\nsentences: [\"sent-kanske-drommar-hon-om-sin-framtida-karlek\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kärlek — substantiv\n\n📖 中文：爱；爱情 · English: love\n发音提示：[ˈçærleːk]，两音节，k- 在前元音前发 [ç]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en kärlek |\n| bestämd singular | kärleken |\n| obestämd plural | (通常不可数) |\n| bestämd plural | — |\n\n## 词组搭配 (Collocations)\n\n- `sin framtida kärlek` — 未来的爱人（仲夏节传说）\n- `kärlek vid första ögonkastet` — 一见钟情\n- `kärlek och vänskap` — 爱与友情\n- `full av kärlek` — 充满爱\n- `familjekärlek` — 家庭之爱\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kanske drömmer hon om sin framtida kärlek. — 🇨🇳 也许她会梦见自己未来的爱人。\n- 🇸🇪 Kärlek är det viktigaste i livet. — 🇨🇳 爱是生命中最重要的事。\n- 🇸🇪 Han är full av kärlek till sin familj. — 🇨🇳 他对家人充满爱。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[älska]] · [[kär]]\n- 同义词:\n- 反义词: [[hat]]\n- 主题: [[topic-midsommar-traditioner]] · [[topic-social-kontakt]]\n\n## 用法提示 (Usage Notes)\n\n- kärlek 通常作不可数名词，表示爱/爱情这种情感\n- sin framtida kärlek = 未来的爱人（kärlek 这里指\"爱的对象\"）\n- 仲夏节传说：女孩睡前在枕下放七种花，会梦见未来的爱人\n",
+      "lemma": "kärlek",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "爱；爱情",
+      "en": "love",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-kanske-drommar-hon-om-sin-framtida-karlek"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-social-kontakt"
+      ],
+      "backlinks": [
+        "älska",
+        "sent-kanske-drommar-hon-om-sin-framtida-karlek",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
+      ]
+    },
+    {
       "slug": "kärnvapen",
       "type": "word",
       "title": "kärnvapen",
@@ -52955,6 +54416,49 @@ window.KB_DATA = {
         "klänning",
         "source-2026-06-22-adjsubst-klader",
         "topic-klader"
+      ]
+    },
+    {
+      "slug": "klä",
+      "type": "word",
+      "title": "klä",
+      "path": "knowledge_base/words/klä.md",
+      "body": "# klä — verb\n\n📖 中文：装饰；穿戴 · English: to dress; to decorate\n发音提示：[kleː]，长元音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | klä |\n| presens | klär |\n| preteritum | klädde |\n| supinum | klätt |\n| imperativ | klä! |\n\n## 词组搭配 (Collocations)\n\n- `klä ... med blommor` — 用花装饰…\n- `klä stången` — 装饰仲夏柱\n- `klä på sig` — 穿衣服（自身）→ 见 [[klä-på-sig]]\n- `klä av sig` — 脱衣服\n- `klä sig i` — 穿着…打扮\n- `klä julgranen` — 装饰圣诞树\n\n## 例句 (Sentences)\n\n**义项1 装饰 (decorate):**\n- 🇸🇪 Sedan klär de midsommarstången med blommor och löv. — 🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。\n- 🇸🇪 Vi klär julgranen med kulor och ljus. — 🇨🇳 我们用球和灯装饰圣诞树。\n\n**义项2 穿衣 (dress):**\n- 🇸🇪 Hon klär sig i en röd klänning till midsommar. — 🇨🇳 她穿着红色裙子参加仲夏节。\n- 🇸🇪 Klä på dig! Det är kallt ute. — 🇨🇳 穿上衣服！外面很冷。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kläder]] · [[klädsel]]\n- 同义词: [[dekorera]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- klä ... med = 用…来装饰某物（他动）\n- klä på sig = 穿上衣服（自身动作，反身）\n- klä sig i = 穿着某种服装（描述装束）",
+      "excerpt": "klä — verb 📖 中文：装饰；穿戴 · English: to dress; to decorate 发音提示：[kleː]，长元音 语法变形 (Forms) form Swedish infinitiv klä presens klär preteritum klädde supinum klätt imperativ klä! 词组搭配 (Collocations) klä ... med blommor — 用花装饰… ",
+      "forms": [
+        "klä",
+        "klär",
+        "klädde",
+        "klätt",
+        "klä!"
+      ],
+      "links": [
+        "dekorera",
+        "klä-på-sig",
+        "kläder",
+        "klädsel",
+        "topic-klader",
+        "topic-midsommar-traditioner"
+      ],
+      "searchText": "klä klä knowledge_base/words/klä.md ---\ntype: word\nlemma: \"klä\"\nordklass: \"verb\"\nverbgrupp: \"2r\"\ncefr: \"A2\"\nzh: \"装饰；穿戴\"\nen: \"to dress; to decorate\"\nsynonyms: [\"dekorera\", \"pryda\"]\nantonyms: []\nfamily: [\"kläder\", \"klädsel\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-klader\"]\nsentences: [\"sent-sedan-klar-de-midsommarstangen-med-blommor\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# klä — verb\n\n📖 中文：装饰；穿戴 · English: to dress; to decorate\n发音提示：[kleː]，长元音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | klä |\n| presens | klär |\n| preteritum | klädde |\n| supinum | klätt |\n| imperativ | klä! |\n\n## 词组搭配 (Collocations)\n\n- `klä ... med blommor` — 用花装饰…\n- `klä stången` — 装饰仲夏柱\n- `klä på sig` — 穿衣服（自身）→ 见 [[klä-på-sig]]\n- `klä av sig` — 脱衣服\n- `klä sig i` — 穿着…打扮\n- `klä julgranen` — 装饰圣诞树\n\n## 例句 (Sentences)\n\n**义项1 装饰 (decorate):**\n- 🇸🇪 Sedan klär de midsommarstången med blommor och löv. — 🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。\n- 🇸🇪 Vi klär julgranen med kulor och ljus. — 🇨🇳 我们用球和灯装饰圣诞树。\n\n**义项2 穿衣 (dress):**\n- 🇸🇪 Hon klär sig i en röd klänning till midsommar. — 🇨🇳 她穿着红色裙子参加仲夏节。\n- 🇸🇪 Klä på dig! Det är kallt ute. — 🇨🇳 穿上衣服！外面很冷。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kläder]] · [[klädsel]]\n- 同义词: [[dekorera]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- klä ... med = 用…来装饰某物（他动）\n- klä på sig = 穿上衣服（自身动作，反身）\n- klä sig i = 穿着某种服装（描述装束）\n",
+      "lemma": "klä",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "装饰；穿戴",
+      "en": "to dress; to decorate",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-sedan-klar-de-midsommarstangen-med-blommor"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-klader"
+      ],
+      "backlinks": [
+        "klä-stången-med-blommor",
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
+        "source-2026-06-22-en-dag-pa-midsommar"
       ]
     },
     {
@@ -53403,6 +54907,7 @@ window.KB_DATA = {
         "topic-tid-och-tidsuttryck"
       ],
       "backlinks": [
+        "sent-klockan-ar-nastan-midnatt-men-himlen",
         "source-2026-06-19-adjsubst-blandat"
       ]
     },
@@ -54448,6 +55953,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "krans",
+      "type": "word",
+      "title": "krans",
+      "path": "knowledge_base/words/krans.md",
+      "body": "# krans — substantiv\n\n📖 中文：环；花环 · English: wreath; garland\n发音提示：[krans]，短促有力\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en krans |\n| bestämd singular | kransen |\n| obestämd plural | kransar |\n| bestämd plural | kransarna |\n\n## 词组搭配 (Collocations)\n\n- `blomsterkrans` — 花环（复合词）\n- `julkrans` — 圣诞花环\n- `lagerkrans` — 月桂花环（荣誉象征）\n- `sätta en krans på dörren` — 在门上挂花环\n\n## 例句 (Sentences)\n\n- 🇸🇪 De lägger en krans av blommor på graven. — 🇨🇳 他们在墓前放了一个花圈。\n- 🇸🇪 En blomsterkrans är en krans gjord av blommor. — 🇨🇳 花环是用花做的环。\n- 🇸🇪 På julafton hänger vi en krans på dörren. — 🇨🇳 在圣诞夜，我们在门上挂花环。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[blomsterkrans]]\n- 同义词: [[blomsterkrans]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- krans 是通用词，指任何环形装饰物\n- blomsterkrans 特指花朵编成的花环（仲夏节）\n- lagerkrans 指用月桂叶编的荣誉冠（古希腊/罗马传统）",
+      "excerpt": "krans — substantiv 📖 中文：环；花环 · English: wreath; garland 发音提示：[krans]，短促有力 语法变形 (Forms) form Swedish obestämd singular en krans bestämd singular kransen obestämd plural kransar bestämd plural kransarna 词组搭配 (Collocations",
+      "forms": [
+        "krans",
+        "kransen",
+        "kransar",
+        "kransarna"
+      ],
+      "links": [
+        "blomsterkrans",
+        "topic-midsommar-traditioner"
+      ],
+      "searchText": "krans krans knowledge_base/words/krans.md ---\ntype: word\nlemma: \"krans\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"环；花环\"\nen: \"wreath; garland\"\nsynonyms: [\"blomsterkrans\"]\nantonyms: []\nfamily: [\"blomsterkrans\"]\ntopics: [\"topic-midsommar-traditioner\"]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# krans — substantiv\n\n📖 中文：环；花环 · English: wreath; garland\n发音提示：[krans]，短促有力\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en krans |\n| bestämd singular | kransen |\n| obestämd plural | kransar |\n| bestämd plural | kransarna |\n\n## 词组搭配 (Collocations)\n\n- `blomsterkrans` — 花环（复合词）\n- `julkrans` — 圣诞花环\n- `lagerkrans` — 月桂花环（荣誉象征）\n- `sätta en krans på dörren` — 在门上挂花环\n\n## 例句 (Sentences)\n\n- 🇸🇪 De lägger en krans av blommor på graven. — 🇨🇳 他们在墓前放了一个花圈。\n- 🇸🇪 En blomsterkrans är en krans gjord av blommor. — 🇨🇳 花环是用花做的环。\n- 🇸🇪 På julafton hänger vi en krans på dörren. — 🇨🇳 在圣诞夜，我们在门上挂花环。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[blomsterkrans]]\n- 同义词: [[blomsterkrans]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- krans 是通用词，指任何环形装饰物\n- blomsterkrans 特指花朵编成的花环（仲夏节）\n- lagerkrans 指用月桂叶编的荣誉冠（古希腊/罗马传统）\n",
+      "lemma": "krans",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "环；花环",
+      "en": "wreath; garland",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "blomsterkrans",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
+      ]
+    },
+    {
       "slug": "kreativ",
       "type": "word",
       "title": "kreativ",
@@ -54895,10 +56435,13 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "filt",
+        "lägga-under-kudden",
+        "sent-hon-lagger-dem-under-kudden",
         "sent-människor-brukar-plocka-sju-sorters",
         "sent-pa-sangen-ligger-en-kudde-och-en-filt",
         "source-2026-06-09-rumsliga-relationer",
-        "source-2026-06-18-nyheter-8sidor"
+        "source-2026-06-18-nyheter-8sidor",
+        "source-2026-06-22-en-dag-pa-midsommar"
       ]
     },
     {
@@ -55102,6 +56645,44 @@ window.KB_DATA = {
         "dam",
         "man",
         "topic-personer"
+      ]
+    },
+    {
+      "slug": "kvist",
+      "type": "word",
+      "title": "kvist",
+      "path": "knowledge_base/words/kvist.md",
+      "body": "# kvist — substantiv\n\n📖 中文：小树枝 · English: twig; sprig\n发音提示：[kvɪst]，kv- 开头，注意双辅音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en kvist |\n| bestämd singular | kvisten |\n| obestämd plural | kvistar |\n| bestämd plural | kvistarna |\n\n## 词组搭配 (Collocations)\n\n- `gröna kvistar` — 绿色的小树枝（仲夏节装饰）\n- `björkkvist` — 白桦枝（仲夏常用）\n- `plocka kvistar` — 采树枝\n\n## 例句 (Sentences)\n\n- 🇸🇪 De plockar blommor och gröna kvistar. — 🇨🇳 他们采摘鲜花和绿色的小树枝。\n- 🇸🇪 Emma samlar kvistar till midsommarstången. — 🇨🇳 爱玛为仲夏柱收集小树枝。\n- 🇸🇪 Kvisten är liten men grön. — 🇨🇳 这根小树枝很小，但是绿色的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gren]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- kvist = 小枝（末端细枝）；gren = 较粗的树枝；trädstam = 树干\n- 仲夏节装饰中常用 gröna kvistar 与花朵一起编花环或装饰花柱",
+      "excerpt": "kvist — substantiv 📖 中文：小树枝 · English: twig; sprig 发音提示：[kvɪst]，kv 开头，注意双辅音 语法变形 (Forms) form Swedish obestämd singular en kvist bestämd singular kvisten obestämd plural kvistar bestämd plural kvistarna 词组搭配 (Collocatio",
+      "forms": [
+        "kvist",
+        "kvisten",
+        "kvistar",
+        "kvistarna"
+      ],
+      "links": [
+        "gren",
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "kvist kvist knowledge_base/words/kvist.md ---\ntype: word\nlemma: \"kvist\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"小树枝\"\nen: \"twig; sprig\"\nsynonyms: []\nantonyms: []\nfamily: [\"gren\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-vader-och-arstider\"]\nsentences: [\"sent-de-plockar-blommor-och-grona-kvistar\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kvist — substantiv\n\n📖 中文：小树枝 · English: twig; sprig\n发音提示：[kvɪst]，kv- 开头，注意双辅音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en kvist |\n| bestämd singular | kvisten |\n| obestämd plural | kvistar |\n| bestämd plural | kvistarna |\n\n## 词组搭配 (Collocations)\n\n- `gröna kvistar` — 绿色的小树枝（仲夏节装饰）\n- `björkkvist` — 白桦枝（仲夏常用）\n- `plocka kvistar` — 采树枝\n\n## 例句 (Sentences)\n\n- 🇸🇪 De plockar blommor och gröna kvistar. — 🇨🇳 他们采摘鲜花和绿色的小树枝。\n- 🇸🇪 Emma samlar kvistar till midsommarstången. — 🇨🇳 爱玛为仲夏柱收集小树枝。\n- 🇸🇪 Kvisten är liten men grön. — 🇨🇳 这根小树枝很小，但是绿色的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gren]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- kvist = 小枝（末端细枝）；gren = 较粗的树枝；trädstam = 树干\n- 仲夏节装饰中常用 gröna kvistar 与花朵一起编花环或装饰花柱\n",
+      "lemma": "kvist",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "小树枝",
+      "en": "twig; sprig",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-de-plockar-blommor-och-grona-kvistar"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "sent-de-plockar-blommor-och-grona-kvistar",
+        "source-2026-06-22-en-dag-pa-midsommar"
       ]
     },
     {
@@ -55377,6 +56958,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "ligga",
+        "sent-hon-lagger-dem-under-kudden",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-vardagsrutin"
@@ -57043,13 +58625,16 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "lampa",
+        "ljusa-nätter",
         "mörk",
         "sent-fika-då-är-det-ljust",
         "sent-man-plockar-svamp-och-njuter",
         "sent-nar-varen-kommer-borjar-dagarna",
+        "sent-natten-ar-ljus",
         "source-2026-06-15-restaurang-fodelsedag",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-22-en-dag-pa-midsommar",
         "topic-klader",
         "trafikljus"
       ]
@@ -57156,6 +58741,44 @@ window.KB_DATA = {
       "backlinks": [
         "fixa",
         "sent-fika-men-det-löser-sig"
+      ]
+    },
+    {
+      "slug": "löv",
+      "type": "word",
+      "title": "löv",
+      "path": "knowledge_base/words/löv.md",
+      "body": "# löv — substantiv\n\n📖 中文：叶子；树叶(统称) · English: leaf; foliage\n发音提示：[løːv]，长元音 ö\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett löv |\n| bestämd singular | lövet |\n| obestämd plural | löv (同形) |\n| bestämd plural | löven |\n\n## 词组搭配 (Collocations)\n\n- `gröna löv` — 绿叶\n- `höstlöv` — 秋叶\n- `löven faller` — 树叶飘落\n- `klä med löv` — 用树叶装饰\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sedan klär de midsommarstången med blommor och löv. — 🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。\n- 🇸🇪 På hösten är löven röda och gula. — 🇨🇳 秋天时，树叶变成红色和黄色。\n- 🇸🇪 Ett löv faller från trädet. — 🇨🇳 一片叶子从树上落下。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lövträd]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- ett löv (中性词)，复数同形：ett löv / löven\n- 注意：löv 常以集合名词使用（指一堆叶子）；单片叶子也用 ett löv\n- 与 nål（针叶）对比：lövträd（阔叶树）vs barrträd（针叶树）",
+      "excerpt": "löv — substantiv 📖 中文：叶子；树叶(统称) · English: leaf; foliage 发音提示：[løːv]，长元音 ö 语法变形 (Forms) form Swedish obestämd singular ett löv bestämd singular lövet obestämd plural löv (同形) bestämd plural löven 词组搭配 (Collocations) grö",
+      "forms": [
+        "löv",
+        "lövet",
+        "löven"
+      ],
+      "links": [
+        "lövträd",
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "löv löv knowledge_base/words/löv.md ---\ntype: word\nlemma: \"löv\"\nordklass: \"substantiv\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"叶子；树叶(统称)\"\nen: \"leaf; foliage\"\nsynonyms: []\nantonyms: []\nfamily: [\"lövträd\", \"lövverk\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-vader-och-arstider\"]\nsentences: [\"sent-sedan-klar-de-midsommarstangen-med-blommor\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# löv — substantiv\n\n📖 中文：叶子；树叶(统称) · English: leaf; foliage\n发音提示：[løːv]，长元音 ö\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett löv |\n| bestämd singular | lövet |\n| obestämd plural | löv (同形) |\n| bestämd plural | löven |\n\n## 词组搭配 (Collocations)\n\n- `gröna löv` — 绿叶\n- `höstlöv` — 秋叶\n- `löven faller` — 树叶飘落\n- `klä med löv` — 用树叶装饰\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sedan klär de midsommarstången med blommor och löv. — 🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。\n- 🇸🇪 På hösten är löven röda och gula. — 🇨🇳 秋天时，树叶变成红色和黄色。\n- 🇸🇪 Ett löv faller från trädet. — 🇨🇳 一片叶子从树上落下。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lövträd]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- ett löv (中性词)，复数同形：ett löv / löven\n- 注意：löv 常以集合名词使用（指一堆叶子）；单片叶子也用 ett löv\n- 与 nål（针叶）对比：lövträd（阔叶树）vs barrträd（针叶树）\n",
+      "lemma": "löv",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "叶子；树叶(统称)",
+      "en": "leaf; foliage",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-sedan-klar-de-midsommarstangen-med-blommor"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "träd"
       ]
     },
     {
@@ -58199,6 +59822,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "midnatt",
+      "type": "word",
+      "title": "midnatt",
+      "path": "knowledge_base/words/midnatt.md",
+      "body": "# midnatt — substantiv\n\n📖 中文：午夜 · English: midnight\n发音提示：[ˈmɪdnat]，mitt（中间）+ natt（夜晚）复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en midnatt |\n| bestämd singular | midnatten |\n| obestämd plural | (通常单数) |\n| bestämd plural | — |\n\n## 词组搭配 (Collocations)\n\n- `vid midnatt` — 在午夜\n- `klockan tolv på natten` — 夜里十二点（=午夜）\n- `midnattsol` — 午夜太阳（北极夏天现象）\n- `nästan midnatt` — 快到午夜了\n\n## 例句 (Sentences)\n\n- 🇸🇪 Klockan är nästan midnatt, men himlen är fortfarande blå. — 🇨🇳 快到午夜了，但天空依然是蓝色的。\n- 🇸🇪 Vi dansar vid midnatt. — 🇨🇳 我们在午夜跳舞。\n- 🇸🇪 I Sverige på midsommar är det ljust vid midnatt. — 🇨🇳 在瑞典，仲夏节午夜时天仍然是亮的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[natt]] · [[middag]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-tid-och-tidsuttryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：mitt（中间）+ natt（夜晚）→ midnatt（午夜，夜晚的中间）\n- 类比：middag = 正午（天的中间）；midnatt = 午夜（夜的中间）\n- 瑞典仲夏：接近北极圈，夏至前后午夜天空仍然明亮（midnattsol 午夜阳光）",
+      "excerpt": "midnatt — substantiv 📖 中文：午夜 · English: midnight 发音提示：[ˈmɪdnat]，mitt（中间）+ natt（夜晚）复合词 语法变形 (Forms) form Swedish obestämd singular en midnatt bestämd singular midnatten obestämd plural (通常单数) bestämd plural — 词组搭配 (Collo",
+      "forms": [
+        "midnatt",
+        "midnatten"
+      ],
+      "links": [
+        "middag",
+        "natt",
+        "topic-midsommar-traditioner",
+        "topic-tid-och-tidsuttryck"
+      ],
+      "searchText": "midnatt midnatt knowledge_base/words/midnatt.md ---\ntype: word\nlemma: \"midnatt\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"午夜\"\nen: \"midnight\"\nsynonyms: []\nantonyms: [\"middag (noon)\"]\nfamily: [\"mitt\", \"natt\", \"middag\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-tid-och-tidsuttryck\"]\nsentences: [\"sent-klockan-ar-nastan-midnatt-men-himlen\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# midnatt — substantiv\n\n📖 中文：午夜 · English: midnight\n发音提示：[ˈmɪdnat]，mitt（中间）+ natt（夜晚）复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en midnatt |\n| bestämd singular | midnatten |\n| obestämd plural | (通常单数) |\n| bestämd plural | — |\n\n## 词组搭配 (Collocations)\n\n- `vid midnatt` — 在午夜\n- `klockan tolv på natten` — 夜里十二点（=午夜）\n- `midnattsol` — 午夜太阳（北极夏天现象）\n- `nästan midnatt` — 快到午夜了\n\n## 例句 (Sentences)\n\n- 🇸🇪 Klockan är nästan midnatt, men himlen är fortfarande blå. — 🇨🇳 快到午夜了，但天空依然是蓝色的。\n- 🇸🇪 Vi dansar vid midnatt. — 🇨🇳 我们在午夜跳舞。\n- 🇸🇪 I Sverige på midsommar är det ljust vid midnatt. — 🇨🇳 在瑞典，仲夏节午夜时天仍然是亮的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[natt]] · [[middag]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-tid-och-tidsuttryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：mitt（中间）+ natt（夜晚）→ midnatt（午夜，夜晚的中间）\n- 类比：middag = 正午（天的中间）；midnatt = 午夜（夜的中间）\n- 瑞典仲夏：接近北极圈，夏至前后午夜天空仍然明亮（midnattsol 午夜阳光）\n",
+      "lemma": "midnatt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "午夜",
+      "en": "midnight",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-klockan-ar-nastan-midnatt-men-himlen"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-tid-och-tidsuttryck"
+      ],
+      "backlinks": [
+        "sent-klockan-ar-nastan-midnatt-men-himlen",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
+      ]
+    },
+    {
       "slug": "midsommar",
       "type": "word",
       "title": "midsommar",
@@ -58235,6 +59896,7 @@ window.KB_DATA = {
         "midsommarstång",
         "sent-folk-i-sverige-har-firat",
         "sent-många-vill-ha-svenska-jordgubbar",
+        "sent-midsommar-ar-midsommar",
         "sent-nu-önskar-vi-er-alla-en-riktigt",
         "sent-nu-ska-vi-se-hur-vädret-blir",
         "sent-på-fredag-den-19-juni",
@@ -58279,6 +59941,7 @@ window.KB_DATA = {
         "midsommar",
         "midsommardag",
         "midsommarstång",
+        "sent-det-är-midsommarafton",
         "sent-fredagen-den-19-juni-är-det",
         "sent-imorgon-på-midsommarafton-blir-det",
         "sent-på-fredag-den-19-juni",
@@ -58355,7 +60018,10 @@ window.KB_DATA = {
       "backlinks": [
         "midsommar",
         "midsommarafton",
+        "sent-alla-dansar-runt-stangen-och-sjunger",
         "sent-sedan-1800-talet-har-människor",
+        "sent-sedan-klar-de-midsommarstangen-med-blommor",
+        "sent-tillsammans-reser-de-stangen",
         "source-2026-06-18-nyheter-8sidor",
         "topic-midsommar-traditioner"
       ]
@@ -58756,6 +60422,7 @@ window.KB_DATA = {
         "topic-kafe-fika"
       ],
       "backlinks": [
+        "gräddfil",
         "havredryck",
         "sent-en-latte-tack-men-kan-jag-fa-den",
         "sent-fika-allt-finns-med-eller-utan-mjölk",
@@ -59164,6 +60831,7 @@ window.KB_DATA = {
         "förmiddag",
         "sent-god-morgon-kan-jag-fa-en-stor",
         "sent-god-morgon-visst-vill-du-ha-vanligt",
+        "sent-pa-morgonen-gar-emma-och-hennes-familj",
         "sent-pa-morgonen-lagade-jag-frukost-och-drack",
         "source-2026-06-19-pa-cafe-bestalla"
       ]
@@ -61676,6 +63344,7 @@ window.KB_DATA = {
         "förälder",
         "mamma",
         "sent-hennes-pappa-heter-svante-och-är-skådespelare",
+        "sent-pappa-skalar-med-snaps",
         "topic-personer"
       ]
     },
@@ -62442,7 +64111,9 @@ window.KB_DATA = {
         "topic-midsommar-traditioner"
       ],
       "backlinks": [
+        "sent-de-plockar-blommor-och-grona-kvistar",
         "sent-människor-brukar-plocka-sju-sorters",
+        "sent-pa-kvallen-plockar-emma-sju-sorters-blommor",
         "source-2026-06-18-nyheter-8sidor",
         "topic-midsommar-traditioner"
       ]
@@ -62693,6 +64364,7 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "färskpotatis",
         "potatismos",
         "sent-det-är-ofta-färsk-potatis-lax",
         "soppa",
@@ -63247,6 +64919,7 @@ window.KB_DATA = {
       "backlinks": [
         "lite-längre-fram",
         "rakt-fram",
+        "sent-det-tar-tid-men-till-slut-star-den",
         "sent-sen-gar-du-rakt-fram-langs-vattnet",
         "source-2026-06-03-fraga-vagen-pub",
         "topic-riktningar"
@@ -63556,9 +65229,51 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "moln",
+        "regna",
         "sent-men-experterna-varnar-för",
         "source-2026-06-19-nyheter-8sidor",
         "väder"
+      ]
+    },
+    {
+      "slug": "regna",
+      "type": "word",
+      "title": "regna",
+      "path": "knowledge_base/words/regna.md",
+      "body": "# regna — verb\n\n📖 中文：下雨 · English: to rain\n发音提示：[ˈrɛŋna]，两音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | regna |\n| presens | regnar |\n| preteritum | regnade |\n| supinum | regnat |\n| imperativ | — (天气动词无命令式) |\n\n## 词组搭配 (Collocations)\n\n- `det regnar` — 正在下雨（天气动词，必须用 det）\n- `det börjar regna` — 开始下雨了\n- `det regnar mycket` — 雨下得很大\n- `det regnar och blåser` — 又下雨又刮风\n\n## 例句 (Sentences)\n\n- 🇸🇪 På eftermiddagen börjar det regna. — 🇨🇳 下午开始下雨了。\n- 🇸🇪 Det regnar ofta på midsommar. — 🇨🇳 仲夏节经常下雨。\n- 🇸🇪 Det regnade hela dagen igår. — 🇨🇳 昨天下了一整天的雨。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[regn]] · [[regnig]] · [[regnbåge]]\n- 同义词:\n- 反义词: [[skina]]\n- 主题: [[topic-vader-och-arstider]] · [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- 天气动词必须搭配形式主语 det：det regnar（不能说 *regnar*）\n- 与中文\"下雨\"不同，瑞典语必须有主语 det\n- 仲夏节下雨是瑞典的老笑话：即使下雨，大家也不在意（Midsommar är midsommar!）",
+      "excerpt": "regna — verb 📖 中文：下雨 · English: to rain 发音提示：[ˈrɛŋna]，两音节 语法变形 (Forms) form Swedish infinitiv regna presens regnar preteritum regnade supinum regnat imperativ — (天气动词无命令式) 词组搭配 (Collocations) det regnar — 正在下雨（天气动词，必须用 ",
+      "forms": [
+        "regna",
+        "regnar",
+        "regnade",
+        "regnat"
+      ],
+      "links": [
+        "regn",
+        "regnbåge",
+        "regnig",
+        "skina",
+        "topic-midsommar-traditioner",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "regna regna knowledge_base/words/regna.md ---\ntype: word\nlemma: \"regna\"\nordklass: \"verb\"\nverbgrupp: \"1\"\ncefr: \"A1\"\nzh: \"下雨\"\nen: \"to rain\"\nsynonyms: []\nantonyms: [\"skina\"]\nfamily: [\"regn\", \"regnig\", \"regnbåge\"]\ntopics: [\"topic-vader-och-arstider\", \"topic-midsommar-traditioner\"]\nsentences: [\"sent-pa-eftermiddagen-borjar-det-regna\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# regna — verb\n\n📖 中文：下雨 · English: to rain\n发音提示：[ˈrɛŋna]，两音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | regna |\n| presens | regnar |\n| preteritum | regnade |\n| supinum | regnat |\n| imperativ | — (天气动词无命令式) |\n\n## 词组搭配 (Collocations)\n\n- `det regnar` — 正在下雨（天气动词，必须用 det）\n- `det börjar regna` — 开始下雨了\n- `det regnar mycket` — 雨下得很大\n- `det regnar och blåser` — 又下雨又刮风\n\n## 例句 (Sentences)\n\n- 🇸🇪 På eftermiddagen börjar det regna. — 🇨🇳 下午开始下雨了。\n- 🇸🇪 Det regnar ofta på midsommar. — 🇨🇳 仲夏节经常下雨。\n- 🇸🇪 Det regnade hela dagen igår. — 🇨🇳 昨天下了一整天的雨。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[regn]] · [[regnig]] · [[regnbåge]]\n- 同义词:\n- 反义词: [[skina]]\n- 主题: [[topic-vader-och-arstider]] · [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- 天气动词必须搭配形式主语 det：det regnar（不能说 *regnar*）\n- 与中文\"下雨\"不同，瑞典语必须有主语 det\n- 仲夏节下雨是瑞典的老笑话：即使下雨，大家也不在意（Midsommar är midsommar!）\n",
+      "lemma": "regna",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "下雨",
+      "en": "to rain",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-pa-eftermiddagen-borjar-det-regna"
+      ],
+      "topics": [
+        "topic-vader-och-arstider",
+        "topic-midsommar-traditioner"
+      ],
+      "backlinks": [
+        "sent-pa-eftermiddagen-borjar-det-regna",
+        "source-2026-06-22-en-dag-pa-midsommar"
       ]
     },
     {
@@ -63671,6 +65386,46 @@ window.KB_DATA = {
         "sent-luften-kanns-frisk-och-ren",
         "tallrik",
         "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "resa",
+      "type": "word",
+      "title": "resa",
+      "path": "knowledge_base/words/resa.md",
+      "body": "# resa — verb\n\n📖 中文：立起；旅行 · English: to raise; to travel\n发音提示：[ˈreːsa]，两音节，重音在前\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | resa |\n| presens | reser |\n| preteritum | reste |\n| supinum | rest |\n| imperativ | res! |\n\n## 词组搭配 (Collocations)\n\n- `resa stången` — 立起花柱（仲夏节）\n- `resa utomlands` — 出国旅行\n- `resa till Sverige` — 去瑞典旅行\n- `resa sig` — 站起来（反身）\n\n## 例句 (Sentences)\n\n**义项1 立起 (raise/erect):**\n- 🇸🇪 Tillsammans reser de stången. — 🇨🇳 大家一起把花柱立起来。\n- 🇸🇪 Vi reser flaggan varje morgon. — 🇨🇳 我们每天早上把旗子升起来。\n\n**义项2 旅行 (travel):**\n- 🇸🇪 Hon reser till Stockholm varje vecka. — 🇨🇳 她每周去斯德哥尔摩。\n- 🇸🇪 Vi vill resa till Japan nästa sommar. — 🇨🇳 我们想明年夏天去日本旅行。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[resenär]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- 两个主要义项：(1) 立起/竖起某物 (resa stången); (2) 旅行 (resa till X)\n- resa sig = 站起来（非他动用法）\n- resa 也作名词：en resa（一次旅行）",
+      "excerpt": "resa — verb 📖 中文：立起；旅行 · English: to raise; to travel 发音提示：[ˈreːsa]，两音节，重音在前 语法变形 (Forms) form Swedish infinitiv resa presens reser preteritum reste supinum rest imperativ res! 词组搭配 (Collocations) resa stången — 立起花柱（仲夏",
+      "forms": [
+        "resa",
+        "reser",
+        "reste",
+        "rest",
+        "res!"
+      ],
+      "links": [
+        "resenär",
+        "topic-fritid-och-resor",
+        "topic-midsommar-traditioner"
+      ],
+      "searchText": "resa resa knowledge_base/words/resa.md ---\ntype: word\nlemma: \"resa\"\nordklass: \"verb\"\nverbgrupp: \"2r\"\ncefr: \"A1\"\nzh: \"立起；旅行\"\nen: \"to raise; to travel\"\nsynonyms: []\nantonyms: []\nfamily: [\"resa (substantiv)\", \"resenär\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-fritid-och-resor\"]\nsentences: [\"sent-tillsammans-reser-de-stangen\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# resa — verb\n\n📖 中文：立起；旅行 · English: to raise; to travel\n发音提示：[ˈreːsa]，两音节，重音在前\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | resa |\n| presens | reser |\n| preteritum | reste |\n| supinum | rest |\n| imperativ | res! |\n\n## 词组搭配 (Collocations)\n\n- `resa stången` — 立起花柱（仲夏节）\n- `resa utomlands` — 出国旅行\n- `resa till Sverige` — 去瑞典旅行\n- `resa sig` — 站起来（反身）\n\n## 例句 (Sentences)\n\n**义项1 立起 (raise/erect):**\n- 🇸🇪 Tillsammans reser de stången. — 🇨🇳 大家一起把花柱立起来。\n- 🇸🇪 Vi reser flaggan varje morgon. — 🇨🇳 我们每天早上把旗子升起来。\n\n**义项2 旅行 (travel):**\n- 🇸🇪 Hon reser till Stockholm varje vecka. — 🇨🇳 她每周去斯德哥尔摩。\n- 🇸🇪 Vi vill resa till Japan nästa sommar. — 🇨🇳 我们想明年夏天去日本旅行。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[resenär]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- 两个主要义项：(1) 立起/竖起某物 (resa stången); (2) 旅行 (resa till X)\n- resa sig = 站起来（非他动用法）\n- resa 也作名词：en resa（一次旅行）\n",
+      "lemma": "resa",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "立起；旅行",
+      "en": "to raise; to travel",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-tillsammans-reser-de-stangen"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-fritid-och-resor"
+      ],
+      "backlinks": [
+        "sent-tillsammans-reser-de-stangen",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-fritid-och-resor"
       ]
     },
     {
@@ -65430,6 +67185,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-det-är-ofta-färsk-potatis-lax",
+        "sent-till-lunch-ater-de-sill-med-farskpotatis",
         "source-2026-06-18-nyheter-8sidor",
         "topic-midsommar-traditioner"
       ]
@@ -65687,6 +67443,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sjunga",
+      "type": "word",
+      "title": "sjunga",
+      "path": "knowledge_base/words/sjunga.md",
+      "body": "# sjunga — verb\n\n📖 中文：唱歌 · English: to sing\n发音提示：[ˈɧʉŋa]，sj- 发 [ɧ]（类似英语 sh 但更靠后）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | sjunga |\n| presens | sjunger |\n| preteritum | sjöng |\n| supinum | sjungit |\n| imperativ | sjung! |\n\n## 词组搭配 (Collocations)\n\n- `sjunga en sång` — 唱一首歌\n- `sjunga \"Små grodorna\"` — 唱《小青蛙》（仲夏传统）\n- `sjunga i kör` — 合唱\n- `sjunga falskt` — 唱跑调\n- `fåglarna sjunger` — 鸟儿在歌唱\n\n## 例句 (Sentences)\n\n- 🇸🇪 Alla dansar runt stången och sjunger \"Små grodorna\". — 🇨🇳 所有人都围着花柱跳舞，唱着《小青蛙》。\n- 🇸🇪 Fåglarna sjunger tidigt på morgonen. — 🇨🇳 鸟儿在清晨歌唱。\n- 🇸🇪 Kan du sjunga den här sången? — 🇨🇳 你能唱这首歌吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sång]] · [[sångare]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则动词（强变化）：sjunga / sjunger / sjöng / sjungit\n- preteritum 变音：sjunga → sjöng（u→ö 元音变换，starka verb 特征）\n- \"Små grodorna\"（小青蛙）是瑞典仲夏节最著名的歌曲，围着花柱跳舞时必唱",
+      "excerpt": "sjunga — verb 📖 中文：唱歌 · English: to sing 发音提示：[ˈɧʉŋa]，sj 发 [ɧ]（类似英语 sh 但更靠后） 语法变形 (Forms) form Swedish infinitiv sjunga presens sjunger preteritum sjöng supinum sjungit imperativ sjung! 词组搭配 (Collocations) sjunga en sån",
+      "forms": [
+        "sjunga",
+        "sjunger",
+        "sjöng",
+        "sjungit",
+        "sjung!"
+      ],
+      "links": [
+        "sång",
+        "sångare",
+        "topic-midsommar-traditioner"
+      ],
+      "searchText": "sjunga sjunga knowledge_base/words/sjunga.md ---\ntype: word\nlemma: \"sjunga\"\nordklass: \"verb\"\nverbgrupp: \"oregelbundet\"\ncefr: \"A1\"\nzh: \"唱歌\"\nen: \"to sing\"\nsynonyms: []\nantonyms: []\nfamily: [\"sång\", \"sångare\", \"sjungande\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-fritid-och-resor\"]\nsentences: [\"sent-alla-dansar-runt-stangen-och-sjunger\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# sjunga — verb\n\n📖 中文：唱歌 · English: to sing\n发音提示：[ˈɧʉŋa]，sj- 发 [ɧ]（类似英语 sh 但更靠后）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | sjunga |\n| presens | sjunger |\n| preteritum | sjöng |\n| supinum | sjungit |\n| imperativ | sjung! |\n\n## 词组搭配 (Collocations)\n\n- `sjunga en sång` — 唱一首歌\n- `sjunga \"Små grodorna\"` — 唱《小青蛙》（仲夏传统）\n- `sjunga i kör` — 合唱\n- `sjunga falskt` — 唱跑调\n- `fåglarna sjunger` — 鸟儿在歌唱\n\n## 例句 (Sentences)\n\n- 🇸🇪 Alla dansar runt stången och sjunger \"Små grodorna\". — 🇨🇳 所有人都围着花柱跳舞，唱着《小青蛙》。\n- 🇸🇪 Fåglarna sjunger tidigt på morgonen. — 🇨🇳 鸟儿在清晨歌唱。\n- 🇸🇪 Kan du sjunga den här sången? — 🇨🇳 你能唱这首歌吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sång]] · [[sångare]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则动词（强变化）：sjunga / sjunger / sjöng / sjungit\n- preteritum 变音：sjunga → sjöng（u→ö 元音变换，starka verb 特征）\n- \"Små grodorna\"（小青蛙）是瑞典仲夏节最著名的歌曲，围着花柱跳舞时必唱\n",
+      "lemma": "sjunga",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "唱歌",
+      "en": "to sing",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-alla-dansar-runt-stangen-och-sjunger"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-fritid-och-resor"
+      ],
+      "backlinks": [
+        "sent-alla-dansar-runt-stangen-och-sjunger",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
+      ]
+    },
+    {
       "slug": "skada",
       "type": "word",
       "title": "skada",
@@ -65792,6 +67588,50 @@ window.KB_DATA = {
       "backlinks": [
         "sent-nej-men-det-vill-jag-gärna-ha",
         "source-2026-06-19-pa-cafe-bestalla"
+      ]
+    },
+    {
+      "slug": "skåla",
+      "type": "word",
+      "title": "skåla",
+      "path": "knowledge_base/words/skåla.md",
+      "body": "# skåla — verb\n\n📖 中文：干杯 · English: to toast; to clink glasses\n发音提示：[ˈskoːla]，skål 是感叹词，加 -a 成为动词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | skåla |\n| presens | skålar |\n| preteritum | skålade |\n| supinum | skålat |\n| imperativ | skåla! |\n\n## 词组搭配 (Collocations)\n\n- `skåla med snaps` — 用烈酒干杯（仲夏传统）\n- `skåla för ngn` — 为某人干杯\n- `skåla för brudparet` — 为新婚夫妇干杯\n- `Skål!` — 干杯！（感叹词）→ 见 [[skål-för]]\n\n## 例句 (Sentences)\n\n- 🇸🇪 Pappa skålar med snaps. — 🇨🇳 爸爸举起小酒杯干杯。\n- 🇸🇪 Vi skålar för midsommar och sommaren! — 🇨🇳 我们为仲夏节和夏天干杯！\n- 🇸🇪 Alla skålar och säger Skål! — 🇨🇳 大家都举杯说\"干杯\"！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skål]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-social-kontakt]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- skåla = 干杯的动作（动词）；Skål! = 干杯（感叹词/祝酒词）\n- skåla för ngn = 为某人/某事祝酒\n- 仲夏节传统：用 snaps（烈酒）多次干杯，配仲夏歌",
+      "excerpt": "skåla — verb 📖 中文：干杯 · English: to toast; to clink glasses 发音提示：[ˈskoːla]，skål 是感叹词，加 a 成为动词 语法变形 (Forms) form Swedish infinitiv skåla presens skålar preteritum skålade supinum skålat imperativ skåla! 词组搭配 (Collocations",
+      "forms": [
+        "skåla",
+        "skålar",
+        "skålade",
+        "skålat",
+        "skåla!"
+      ],
+      "links": [
+        "skål",
+        "skål-för",
+        "topic-mat-dryck",
+        "topic-midsommar-traditioner",
+        "topic-social-kontakt"
+      ],
+      "searchText": "skåla skåla knowledge_base/words/skåla.md ---\ntype: word\nlemma: \"skåla\"\nordklass: \"verb\"\nverbgrupp: \"1\"\ncefr: \"A2\"\nzh: \"干杯\"\nen: \"to toast; to clink glasses\"\nsynonyms: []\nantonyms: []\nfamily: [\"skål\", \"skålning\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-social-kontakt\", \"topic-mat-dryck\"]\nsentences: [\"sent-pappa-skalar-med-snaps\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skåla — verb\n\n📖 中文：干杯 · English: to toast; to clink glasses\n发音提示：[ˈskoːla]，skål 是感叹词，加 -a 成为动词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | skåla |\n| presens | skålar |\n| preteritum | skålade |\n| supinum | skålat |\n| imperativ | skåla! |\n\n## 词组搭配 (Collocations)\n\n- `skåla med snaps` — 用烈酒干杯（仲夏传统）\n- `skåla för ngn` — 为某人干杯\n- `skåla för brudparet` — 为新婚夫妇干杯\n- `Skål!` — 干杯！（感叹词）→ 见 [[skål-för]]\n\n## 例句 (Sentences)\n\n- 🇸🇪 Pappa skålar med snaps. — 🇨🇳 爸爸举起小酒杯干杯。\n- 🇸🇪 Vi skålar för midsommar och sommaren! — 🇨🇳 我们为仲夏节和夏天干杯！\n- 🇸🇪 Alla skålar och säger Skål! — 🇨🇳 大家都举杯说\"干杯\"！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skål]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-social-kontakt]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- skåla = 干杯的动作（动词）；Skål! = 干杯（感叹词/祝酒词）\n- skåla för ngn = 为某人/某事祝酒\n- 仲夏节传统：用 snaps（烈酒）多次干杯，配仲夏歌\n",
+      "lemma": "skåla",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "干杯",
+      "en": "to toast; to clink glasses",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-pappa-skalar-med-snaps"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-social-kontakt",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-pappa-skalar-med-snaps",
+        "skåla-med-snaps",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
       ]
     },
     {
@@ -66049,7 +67889,9 @@ window.KB_DATA = {
         "topic-vader-och-arstider"
       ],
       "backlinks": [
+        "regna",
         "sent-solen-sken-och-vadret-var-fint",
+        "sent-solen-skiner-redan",
         "source-2026-06-22-en-helg"
       ]
     },
@@ -66452,7 +68294,10 @@ window.KB_DATA = {
       "known": false,
       "sentences": [],
       "topics": [],
-      "backlinks": []
+      "backlinks": [
+        "sent-barnen-hoppar-och-skrattar",
+        "source-2026-06-22-en-dag-pa-midsommar"
+      ]
     },
     {
       "slug": "skrivbord",
@@ -66814,6 +68659,7 @@ window.KB_DATA = {
         "topic-kafe-fika"
       ],
       "backlinks": [
+        "sent-det-smakar-gott",
         "sent-fika-det-smakar-ju-faktiskt-för-gott",
         "sent-fika-varsågod-hoppas-det-smakar",
         "topic-kafe-fika"
@@ -67208,6 +69054,47 @@ window.KB_DATA = {
         "topic-djur",
         "topic-personer",
         "vänlig"
+      ]
+    },
+    {
+      "slug": "snaps",
+      "type": "word",
+      "title": "snaps",
+      "path": "knowledge_base/words/snaps.md",
+      "body": "# snaps — substantiv\n\n📖 中文：小杯烈酒(仲夏传统) · English: aquavit shot; snaps\n发音提示：[snaps]，和英语 snaps 类似\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en snaps |\n| bestämd singular | snapsen |\n| obestämd plural | snapsar |\n| bestämd plural | snapsarna |\n\n## 词组搭配 (Collocations)\n\n- `skåla med snaps` — 用烈酒干杯\n- `ta en snaps` — 喝一杯小烈酒\n- `snapsvisor` — 干杯歌（仲夏传统）\n- `brännvin / aquavit` — 瑞典传统烈酒\n\n## 例句 (Sentences)\n\n- 🇸🇪 Pappa skålar med snaps. — 🇨🇳 爸爸举起小酒杯干杯。\n- 🇸🇪 På midsommar sjunger man snapsvisor. — 🇨🇳 仲夏节时人们唱干杯歌。\n- 🇸🇪 Vill du ha en snaps till sillen? — 🇨🇳 你要一杯烈酒配鲱鱼吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sprit]]\n- 同义词: [[nubbe]] · [[brännvin]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- snaps 是仲夏节桌上必备：与 sill + potatis 一起，配 snapsvisor（专门的干杯歌）\n- 通常是 aquavit（阿夸维特，香料蒸馏酒）或 brännvin（白酒）\n- nubbe 是 snaps 的口语别称",
+      "excerpt": "snaps — substantiv 📖 中文：小杯烈酒(仲夏传统) · English: aquavit shot; snaps 发音提示：[snaps]，和英语 snaps 类似 语法变形 (Forms) form Swedish obestämd singular en snaps bestämd singular snapsen obestämd plural snapsar bestämd plural snapsarna ",
+      "forms": [
+        "snaps",
+        "snapsen",
+        "snapsar",
+        "snapsarna"
+      ],
+      "links": [
+        "brännvin",
+        "nubbe",
+        "sprit",
+        "topic-mat-dryck",
+        "topic-midsommar-traditioner"
+      ],
+      "searchText": "snaps snaps knowledge_base/words/snaps.md ---\ntype: word\nlemma: \"snaps\"\nordklass: \"substantiv\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"小杯烈酒(仲夏传统)\"\nen: \"aquavit shot; snaps\"\nsynonyms: [\"nubbe\", \"brännvin\"]\nantonyms: []\nfamily: [\"sprit\", \"alkohol\"]\ntopics: [\"topic-midsommar-traditioner\", \"topic-mat-dryck\"]\nsentences: [\"sent-pappa-skalar-med-snaps\"]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# snaps — substantiv\n\n📖 中文：小杯烈酒(仲夏传统) · English: aquavit shot; snaps\n发音提示：[snaps]，和英语 snaps 类似\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en snaps |\n| bestämd singular | snapsen |\n| obestämd plural | snapsar |\n| bestämd plural | snapsarna |\n\n## 词组搭配 (Collocations)\n\n- `skåla med snaps` — 用烈酒干杯\n- `ta en snaps` — 喝一杯小烈酒\n- `snapsvisor` — 干杯歌（仲夏传统）\n- `brännvin / aquavit` — 瑞典传统烈酒\n\n## 例句 (Sentences)\n\n- 🇸🇪 Pappa skålar med snaps. — 🇨🇳 爸爸举起小酒杯干杯。\n- 🇸🇪 På midsommar sjunger man snapsvisor. — 🇨🇳 仲夏节时人们唱干杯歌。\n- 🇸🇪 Vill du ha en snaps till sillen? — 🇨🇳 你要一杯烈酒配鲱鱼吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sprit]]\n- 同义词: [[nubbe]] · [[brännvin]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- snaps 是仲夏节桌上必备：与 sill + potatis 一起，配 snapsvisor（专门的干杯歌）\n- 通常是 aquavit（阿夸维特，香料蒸馏酒）或 brännvin（白酒）\n- nubbe 是 snaps 的口语别称\n",
+      "lemma": "snaps",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "小杯烈酒(仲夏传统)",
+      "en": "aquavit shot; snaps",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-pappa-skalar-med-snaps"
+      ],
+      "topics": [
+        "topic-midsommar-traditioner",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-pappa-skalar-med-snaps",
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "topic-midsommar-traditioner"
       ]
     },
     {
@@ -72730,11 +74617,13 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "lägga-sig",
+        "sent-emma-vaknar-tidigt",
         "sent-i-lordags-vaknade-jag-tidigt-fast",
         "sent-jag-vaknar-klockan-sju-varje-morgon",
         "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex",
         "somna",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "source-2026-06-22-en-dag-pa-midsommar",
         "source-2026-06-22-en-helg",
         "stiga-upp",
         "topic-vardagsrutin",
