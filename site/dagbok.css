@@ -499,6 +499,23 @@
   color: var(--muted);
 }
 .chip[data-type="sentence"]:hover { background: #dde3ee; border-color: var(--blue); }
+
+/* Collapse long sentence lists: hide the overflow, reveal via a toggle. */
+.chipHidden { display: none; }
+.rowToggle {
+  align-self: flex-start;
+  margin-top: 2px;
+  font-family: var(--cjk);
+  font-size: 12px;
+  padding: 3px 11px;
+  border: 1px dashed var(--line);
+  background: transparent;
+  border-radius: 999px;
+  color: var(--blue);
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.rowToggle:hover { background: var(--panel-soft); border-color: var(--blue); }
 .chip[data-type="grammar"] { background: #f3e9e7; border-color: #e0c4bf; }
 .chip[data-type="grammar"]:hover { background: #ecd9d5; border-color: var(--red); }
 
