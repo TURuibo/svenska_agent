@@ -285,6 +285,18 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 触发器 = Claude Code scheduled task **`svensk-horning-daily`**，cron `30 18 * * *`(SVT ~17:15 播完后)。日志 `scripts/listening-run.log`。
 `tools/sync-kb.ps1` 已把 `listening/` + `site/listening/listening-data.js` 纳入重建与暂存，所以 `/sync` 也会带上听力数据。
 
+**云端版 (remote, 推荐用它替代本地)：** listening 这条**联网类** routine 也可放到 Claude Code on the web 定时 session。
+环境需**允许出站访问**(抓 SVT api/字幕)。与 news/scenario 不同，它要**两步**：`/dagens-horovning` 既写
+`listening/*.json`+跑 `build-listening-site.js`，又写 `inbox/horning-<DATE>.md` 供 `/import`(让生词进 KB)。routine prompt：
+```
+在 remote 环境里抓今日 SVT 简易新闻听力并入库：
+1. /dagens-horovning   （抓最新一集字幕→听力数据→重建 Lyssna 站，并写 inbox/horning-*.md）
+2. 若生成了 inbox/horning-*.md，对它跑 /import
+3. git add -A；若无改动(无新一集)则跳过不 commit；否则 commit、git pull --rebase origin main 后 push -u origin main
+```
+> SVT 仅**工作日 ~17:15** 更新，cron 建议 `30 16 * * 1-5`(UTC，≈瑞典夏令时 18:30，播完后)；周末跑也无害(查到的还是周五那集→已存在→无改动→跳过 push)。
+> ⚠️ **本地与云端二选一**：改用云端后请在桌面把本地 `svensk-horning-daily` **停用**。
+
 **只存元数据 + 我生成的译文/生词**：音频、字幕**实时从 SVT CDN 取**，不下载、不转存(版权安全)。
 媒体 URL 仅在该集可看期(~1 周)内有效，过期后站点提示并回退到「📺 在 SVT Play 看」。
 
