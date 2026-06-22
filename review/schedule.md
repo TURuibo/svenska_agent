@@ -1449,6 +1449,52 @@
 | [[sent-när-flickan-får-en-dator]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
 | [[sent-den-första-filmen-toy-story]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
 | [[sent-filmen-är-gjord-i-dator]] | sentence | — | 0 | 2.5 | 2026-06-18 | no |
+| **— news-2026-06-22-nyheter — 18词 / 4词组 / 23句 / 0语法(4 DUP) —** | | | | | | |
+| [[bygga]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[datacenter]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[by]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[klar]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[kronprinsessa]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[läkare]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[operera]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[hov]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[klimatmål]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[militärfartyg]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[skjuta]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[skott]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[civil]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[båt]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[värme]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[klimat]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[värmebölja]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[jord]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[ta-slut]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[se-till-att]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[gå-bra]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[allt-fler]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-google-ska-bygga-ett-stort-datacenter]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-byn-ligger-i-avesta-kommun-i-dalarna]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-blir-googles-första-datacenter]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-ungefär-hundra-personer-ska-arbeta]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-mette-marit-är-kronprinsessa-i-norge]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-läkare-har-opererat-henne-och-gett]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hon-har-en-sjukdom-i-lungorna]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-operationen-gick-bra-säger-det-norska]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-nu-måste-hon-vila-länge]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-utsläppen-i-sverige-minskar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-men-sverige-gör-inte-tillräckligt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-säger-naturvårdsverket]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-politikerna-måste-se-till-att]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-tiden-håller-på-att-ta-slut]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-ett-ryskt-militärfartyg-sköt-skott]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-hände-i-engelska-kanalen]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-på-båten-fanns-ett-brittiskt-par]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-ryssland-säger-att-de-sköt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-är-mycket-ovanligt-att-skjuta]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-allt-fler-människor-dör-av-värme]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-klimatet-blir-varmare]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-gör-värmeböljorna-både-vanligare]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-forskare-varnar-för-att-ännu-fler]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 
 ## 说明
 

@@ -3,7 +3,7 @@ type: topic
 name: "yrken"
 kind: semantic-field
 zh: 职业（语义场）
-members: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba, författare, proffs, barista, kassör]
+members: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba, författare, proffs, barista, kassör, läkare]
 created: "2026-06-02"
 ---
 

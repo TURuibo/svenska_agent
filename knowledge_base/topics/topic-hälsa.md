@@ -3,7 +3,7 @@ type: topic
 name: "hälsa"
 kind: semantic-field
 zh: "健康"
-members: [sömn, hjärtklappning, oro, energidryck, koffein, patient, kur, sund, kronisk, sjukdom, smittsam, förkylning, smärta, blodig, recept, plåster, apotek, trött, känslig, missbruk, undersökning]
+members: [sömn, hjärtklappning, oro, energidryck, koffein, patient, kur, sund, kronisk, sjukdom, smittsam, förkylning, smärta, blodig, recept, plåster, apotek, trött, känslig, missbruk, undersökning, läkare, operera, lunga]
 created: "2026-06-04"
 ---
 

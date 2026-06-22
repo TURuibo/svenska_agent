@@ -13,6 +13,11 @@ members:
   - strejka
   - skolstrejk
   - framtid
+  - klimat
+  - klimatmål
+  - värme
+  - värmebölja
+  - jord
 created: "2026-06-22"
 ---
 
@@ -31,6 +36,11 @@ created: "2026-06-22"
 - [[strejka]] — 罢课/罢工（为气候行动）
 - [[skolstrejk]] — 罢课
 - [[framtid]] — 未来
+- [[klimat]] — 气候
+- [[klimatmål]] — 气候目标
+- [[värme]] — 热；高温
+- [[värmebölja]] — 热浪
+- [[jord]] — 地球
 
 ## 备注 (Notes)
 

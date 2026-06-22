@@ -13,6 +13,11 @@ members:
   - drönare
   - sprängning
   - vapen
+  - militärfartyg
+  - skjuta
+  - skott
+  - civil
+  - båt
 created: "2026-06-18"
 ---
 
@@ -31,6 +36,11 @@ created: "2026-06-18"
 - [[drönare]] — 无人机
 - [[sprängning]] — 爆炸，爆破
 - [[vapen]] — 武器
+- [[militärfartyg]] — 军舰
+- [[skjuta]] — 射击，开枪
+- [[skott]] — 枪声，射击
+- [[civil]] — 民用的
+- [[båt]] — 船
 
 ## 备注 (Notes)
 
