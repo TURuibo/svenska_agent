@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 12:26:59",
+  "generatedAt": "2026-06-22 12:45:51",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -155,6 +155,7 @@ window.KB_DATA = {
         "randig",
         "sent-dagens-rätt-är-en-vegetarisk-pasta",
         "sent-de-har-jättegoda-kanelbullar",
+        "sent-gamla-stan-är-mer-än-700-år",
         "sent-ja-vi-har-en-fläskfilé",
         "sent-pa-sondagen-var-jag-lat",
         "skygg",
@@ -170,6 +171,29 @@ window.KB_DATA = {
         "vaken",
         "vara-värt-det",
         "vass"
+      ]
+    },
+    {
+      "slug": "grammar-är-byggd-adjektivisk-passiv",
+      "type": "grammar",
+      "title": "är byggd — adjektivisk passiv",
+      "path": "knowledge_base/grammar/grammar-är-byggd-adjektivisk-passiv.md",
+      "body": "# 📗 är byggd — adjektivisk passiv — 形容词化被动（结果状态）\n\n级别: B1\n一句话: \"är + participform\" 表示一种持续的结果状态，不是动作本身。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nvara (presens) + participform (perfektparticip)\när  +  byggd/byggt/byggda\n```\n\n- byggd（en-ord）、byggt（ett-ord）、byggda（plural/bestämd）\n- 表达结果状态，不是被动动作（建造这件事已完成，结果是\"建在……上\"）\n\n与中文对比: 汉语\"是建在……上的\"强调结果，与此结构语义相同\n与英文对比: 英语 \"is built on\" — 完全对应\n\n## 详细讲解 (Detail)\n\n形容词化被动（adjektivisk passiv）与动作被动（s-passiv/bli-passiv）有区别：\n\n| 形式 | 含义 | 例子 |\n|------|------|------|\n| är byggd (adjektivisk) | 状态：已经建好，建在... | Stockholm är byggd på öar |\n| byggs (s-passiv) | 动作：正在建造 | Huset byggs nu |\n| blev byggt (bli-passiv) | 动作（过去）：被建造了 | Huset blev byggt 1900 |\n\nperfektparticip 在此作形容词，必须与主语的 genus/numerus 一致：\n- en stad → är byggd\n- ett hus → är byggt\n- städerna → är byggda\n\n## 例句 (Examples)\n\n- ✅ [[sent-stockholm-är-byggd-på-14-öar]] 🇸🇪 Stockholm är byggd på 14 öar. 🇨🇳 斯德哥尔摩建在14座岛屿上。\n- ✅ 🇸🇪 Huset är byggt av trä. 🇨🇳 这栋房子是用木头建造的。\n- ❌ Stockholm är byggt på öar. ← 错误：Stockholm 是 en-ord，应用 byggd 而非 byggt\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 忘记 perfektparticip 与主语的性/数一致\n- ⚠️ 把状态被动与动作被动混淆（är byggd vs. byggs）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-passiv-med-s]]",
+      "excerpt": "📗 är byggd — adjektivisk passiv — 形容词化被动（结果状态） 级别: B1 一句话: \"är + participform\" 表示一种持续的结果状态，不是动作本身。 规则说明 (Rules) 📐 结构公式: vara (presens) + participform (perfektparticip) är + byggd/byggt/byggda byggd（en ord）、byggt（ett or",
+      "forms": [],
+      "links": [
+        "grammar-passiv-med-s",
+        "sent-stockholm-är-byggd-på-14-öar"
+      ],
+      "searchText": "är byggd — adjektivisk passiv grammar-är-byggd-adjektivisk-passiv knowledge_base/grammar/grammar-är-byggd-adjektivisk-passiv.md ---\ntype: grammar\nname: \"är byggd — adjektivisk passiv\"\nzh: \"形容词化被动（结果状态）\"\nen: \"adjectival passive (resultant state)\"\nlevel: \"B1\"\nrelated: [grammar-passiv-med-s]\nexamples:\n  - sent-stockholm-är-byggd-på-14-öar\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 är byggd — adjektivisk passiv — 形容词化被动（结果状态）\n\n级别: B1\n一句话: \"är + participform\" 表示一种持续的结果状态，不是动作本身。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nvara (presens) + participform (perfektparticip)\när  +  byggd/byggt/byggda\n```\n\n- byggd（en-ord）、byggt（ett-ord）、byggda（plural/bestämd）\n- 表达结果状态，不是被动动作（建造这件事已完成，结果是\"建在……上\"）\n\n与中文对比: 汉语\"是建在……上的\"强调结果，与此结构语义相同\n与英文对比: 英语 \"is built on\" — 完全对应\n\n## 详细讲解 (Detail)\n\n形容词化被动（adjektivisk passiv）与动作被动（s-passiv/bli-passiv）有区别：\n\n| 形式 | 含义 | 例子 |\n|------|------|------|\n| är byggd (adjektivisk) | 状态：已经建好，建在... | Stockholm är byggd på öar |\n| byggs (s-passiv) | 动作：正在建造 | Huset byggs nu |\n| blev byggt (bli-passiv) | 动作（过去）：被建造了 | Huset blev byggt 1900 |\n\nperfektparticip 在此作形容词，必须与主语的 genus/numerus 一致：\n- en stad → är byggd\n- ett hus → är byggt\n- städerna → är byggda\n\n## 例句 (Examples)\n\n- ✅ [[sent-stockholm-är-byggd-på-14-öar]] 🇸🇪 Stockholm är byggd på 14 öar. 🇨🇳 斯德哥尔摩建在14座岛屿上。\n- ✅ 🇸🇪 Huset är byggt av trä. 🇨🇳 这栋房子是用木头建造的。\n- ❌ Stockholm är byggt på öar. ← 错误：Stockholm 是 en-ord，应用 byggd 而非 byggt\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 忘记 perfektparticip 与主语的性/数一致\n- ⚠️ 把状态被动与动作被动混淆（är byggd vs. byggs）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-passiv-med-s]]\n",
+      "name": "är byggd — adjektivisk passiv",
+      "zh": "形容词化被动（结果状态）",
+      "en": "adjectival passive (resultant state)",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "sent-stockholm-är-byggd-på-14-öar",
+        "source-2026-06-22-plats-stockholm"
       ]
     },
     {
@@ -363,6 +387,7 @@ window.KB_DATA = {
         "grammar-v2-ordfoljd",
         "sent-år-2019-åkte-hon-med-en-segelbåt",
         "sent-eftersom-astrid-var-ensam-kunde-hon",
+        "sent-stockholm-kallas-ibland-nordens-venedig",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-22-greta-thunberg"
       ]
@@ -480,6 +505,7 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-bisats-om",
         "grammar-bisats-tills",
+        "grammar-där-relativsats",
         "grammar-for-att-infinitiv",
         "grammar-nar-bisats",
         "sent-beroende-var-i-landet-man-bor",
@@ -525,6 +551,32 @@ window.KB_DATA = {
         "sent-människor-brukar-plocka-sju-sorters",
         "sent-pa-lunchen-brukar-jag-ata-tillsammans",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "grammar-där-relativsats",
+      "type": "grammar",
+      "title": "där-relativsats",
+      "path": "knowledge_base/grammar/grammar-där-relativsats.md",
+      "body": "# 📗 där-relativsats — där引导的关系从句（表地点）\n\n级别: A2\n一句话: 用 där（在那里/那里）引导表示地点的关系从句，相当于英语的 \"where\"。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[主句] + där + [从句（bisats语序）]\n[plats] + där + [subjekt + verb + ...]\n```\n\n- där 既可作关系代词（引导从句），也作地点副词\n- 从句内部保持 bisats 语序（satsadverbial 前移至动词前）\n\n与中文对比: 汉语可用\"在那里\"或\"那里\"引导地点从句，功能相同\n与英文对比: 与英语 \"where\" 完全对应\n\n## 详细讲解 (Detail)\n\n**两种 där 用法（需区分）：**\n\n1. **关系代词 där** — 引导修饰前面地点名词的从句：\n   - Staden, **där** kungafamiljen bor, är gammal.（那座城市，王室住在那里，很古老。）\n\n2. **连词 där** — 引导表示条件地点的从句（antingen…eller / där）：\n   - Mälaren möter Östersjön **där** Stockholm ligger.（梅拉伦湖在斯德哥尔摩所在处汇入波罗的海。）\n\n在本文：\n- \"Mälaren möter Östersjön\" — 主句\n- \"där\" — 此处指\"在那里\"，表地点结果\n- 整句：Staden ligger i östra Sverige, **där** sjön Mälaren möter Östersjön.\n\n## 例句 (Examples)\n\n- ✅ [[sent-staden-ligger-i-östra-sverige]] 🇸🇪 Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön. 🇨🇳 城市位于瑞典东部，梅拉伦湖与波罗的海在此相汇。\n- ✅ [[sent-där-ligger-stockholms-slott]] 🇸🇪 Där ligger Stockholms slott, där kungafamiljen bor. 🇨🇳 王宫坐落于此，王室住在那里。\n- ✅ 🇸🇪 Det är ett café där man kan sitta utomhus. 🇨🇳 那是一家可以坐在户外的咖啡馆。\n- ❌ Det är ett café som man kan sitta utomhus. ← 当指地点时，用 där 而非 som\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 指地点时用 som 代替 där（英语\"that/which\"习惯）\n- ⚠️ 混淆关系代词 där 与疑问词 var（var=哪里，疑问；där=那里，关系）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats]]\n- 📎 [[grammar-v2-ordfoljd]]",
+      "excerpt": "📗 där relativsats — där引导的关系从句（表地点） 级别: A2 一句话: 用 där（在那里/那里）引导表示地点的关系从句，相当于英语的 \"where\"。 规则说明 (Rules) 📐 结构公式: [主句] + där + [从句（bisats语序）] [plats] + där + [subjekt + verb + ...] där 既可作关系代词（引导从句），也作地点副词 从句内部保持 bisats 语序",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "grammar-v2-ordfoljd",
+        "sent-där-ligger-stockholms-slott",
+        "sent-staden-ligger-i-östra-sverige"
+      ],
+      "searchText": "där-relativsats grammar-där-relativsats knowledge_base/grammar/grammar-där-relativsats.md ---\ntype: grammar\nname: \"där-relativsats\"\nzh: \"där引导的关系从句（表地点）\"\nen: \"relative clause with 'där' (where)\"\nlevel: \"A2\"\nrelated: [grammar-bisats, grammar-v2-ordfoljd]\nexamples:\n  - sent-staden-ligger-i-östra-sverige\n  - sent-där-ligger-stockholms-slott\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 där-relativsats — där引导的关系从句（表地点）\n\n级别: A2\n一句话: 用 där（在那里/那里）引导表示地点的关系从句，相当于英语的 \"where\"。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n[主句] + där + [从句（bisats语序）]\n[plats] + där + [subjekt + verb + ...]\n```\n\n- där 既可作关系代词（引导从句），也作地点副词\n- 从句内部保持 bisats 语序（satsadverbial 前移至动词前）\n\n与中文对比: 汉语可用\"在那里\"或\"那里\"引导地点从句，功能相同\n与英文对比: 与英语 \"where\" 完全对应\n\n## 详细讲解 (Detail)\n\n**两种 där 用法（需区分）：**\n\n1. **关系代词 där** — 引导修饰前面地点名词的从句：\n   - Staden, **där** kungafamiljen bor, är gammal.（那座城市，王室住在那里，很古老。）\n\n2. **连词 där** — 引导表示条件地点的从句（antingen…eller / där）：\n   - Mälaren möter Östersjön **där** Stockholm ligger.（梅拉伦湖在斯德哥尔摩所在处汇入波罗的海。）\n\n在本文：\n- \"Mälaren möter Östersjön\" — 主句\n- \"där\" — 此处指\"在那里\"，表地点结果\n- 整句：Staden ligger i östra Sverige, **där** sjön Mälaren möter Östersjön.\n\n## 例句 (Examples)\n\n- ✅ [[sent-staden-ligger-i-östra-sverige]] 🇸🇪 Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön. 🇨🇳 城市位于瑞典东部，梅拉伦湖与波罗的海在此相汇。\n- ✅ [[sent-där-ligger-stockholms-slott]] 🇸🇪 Där ligger Stockholms slott, där kungafamiljen bor. 🇨🇳 王宫坐落于此，王室住在那里。\n- ✅ 🇸🇪 Det är ett café där man kan sitta utomhus. 🇨🇳 那是一家可以坐在户外的咖啡馆。\n- ❌ Det är ett café som man kan sitta utomhus. ← 当指地点时，用 där 而非 som\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 指地点时用 som 代替 där（英语\"that/which\"习惯）\n- ⚠️ 混淆关系代词 där 与疑问词 var（var=哪里，疑问；där=那里，关系）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats]]\n- 📎 [[grammar-v2-ordfoljd]]\n",
+      "name": "där-relativsats",
+      "zh": "där引导的关系从句（表地点）",
+      "en": "relative clause with 'där' (where)",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "sent-där-ligger-stockholms-slott",
+        "sent-staden-ligger-i-östra-sverige",
+        "source-2026-06-22-plats-stockholm"
       ]
     },
     {
@@ -618,9 +670,11 @@ window.KB_DATA = {
         "grammar-ligga-sta-sitta",
         "grammar-prepositioner-rum",
         "sent-bredvid-banken-finns-apotek-gront-kors-skylten",
+        "sent-det-finns-många-broar-i-staden",
         "sent-det-finns-risk-att-over-10000-hus",
         "sent-det-låter-gott-men-jag-är",
         "sent-finns-det-en-karta-någonstans",
+        "sent-i-gamla-stan-finns-smala-gator",
         "sent-i-vardagsrummet-finns-soffa-fatoljerna",
         "sent-ja-jag-är-ensam-finns-det",
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
@@ -831,13 +885,40 @@ window.KB_DATA = {
         "bestämma-sig-för-att",
         "grammar-bruka-infinitiv",
         "grammar-for-att-infinitiv",
+        "grammar-kan-man-infinitiv",
         "grammar-modala-hjalpverb",
         "något-att-äta-till",
         "sent-får-jag-ta-er-beställning",
+        "sent-han-ville-skydda-sverige-mot-fiender",
         "sent-hon-fortsätter-att-kämpa-för-klimatet",
         "sent-lisa-vi-är-så-glada-att",
         "source-2026-06-10-zlatan-subst-verb",
         "source-2026-06-15-restaurang-fodelsedag"
+      ]
+    },
+    {
+      "slug": "grammar-kan-man-infinitiv",
+      "type": "grammar",
+      "title": "kan man + infinitiv",
+      "path": "knowledge_base/grammar/grammar-kan-man-infinitiv.md",
+      "body": "# 📗 kan man + infinitiv — 泛指主语\"man\"加情态动词\n\n级别: A2\n一句话: man 是瑞典语泛指代词（相当于英语的 \"one/you/people\"），与情态动词 kan 结合，表示\"可以/能……\"的一般性陈述。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nman + modal + infinitiv\nman + kan   + se/göra/...\n\n倒装（V2语序）时：\n[fronted element] + modal + man + infinitiv\nFrån broarna      + kan   + man + se vatten\n```\n\n- man 没有宾格/所有格：man（主语）→ en（宾格/口语）→ ens（所有格）\n- 与 kan 组合：kan man（能/可以）；måste man（必须）；bör man（应该）\n- V2规则：当非主语成分放到句首，情态动词提前，man 紧跟在情态动词后\n\n与中文对比: 中文常省略泛指主语（\"从桥上可以看到水\"），而瑞典语必须用 man 填补主语位置\n与英文对比: 英语 \"one can\" / \"you can\"（泛指）\n\n## 详细讲解 (Detail)\n\nman 是瑞典语泛指代词：\n- 不特指某人，表示\"一般人/人们/你\"\n- 动词仍用第三人称单数形式\n- 常见搭配：kan man, måste man, får man, bör man, ska man, brukar man\n\n**倒装示例：**\n- 正常语序：Man kan se vatten från broarna.\n- 倒装（地点前置）：Från broarna kan man se vatten. ← V2 语序\n\n## 例句 (Examples)\n\n- ✅ [[sent-från-broarna-kan-man-se-vatten]] 🇸🇪 Från broarna kan man se vatten på alla sidor. 🇨🇳 从桥上望去，四面都是水。\n- ✅ 🇸🇪 I Sverige kan man dricka kranvatten. 🇨🇳 在瑞典，人们可以喝自来水。\n- ✅ 🇸🇪 Man måste köpa biljett. 🇨🇳 （人们/你）必须买票。\n- ❌ Kan vi se vatten? ← 不是泛指，而是特指\"我们\"，语义不同\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 倒装后忘记将动词提前（*Från broarna man kan se... ← 错误）\n- ⚠️ 混淆 man（泛指）与 man（丈夫，名词）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-modala-hjalpverb]]\n- 📎 [[grammar-infinitiv]]\n- 📎 [[grammar-v2-ordfoljd]]",
+      "excerpt": "📗 kan man + infinitiv — 泛指主语\"man\"加情态动词 级别: A2 一句话: man 是瑞典语泛指代词（相当于英语的 \"one/you/people\"），与情态动词 kan 结合，表示\"可以/能……\"的一般性陈述。 规则说明 (Rules) 📐 结构公式: man + modal + infinitiv man + kan + se/göra/... 倒装（V2语序）时： [fronted element] ",
+      "forms": [],
+      "links": [
+        "grammar-infinitiv",
+        "grammar-modala-hjalpverb",
+        "grammar-v2-ordfoljd",
+        "sent-från-broarna-kan-man-se-vatten"
+      ],
+      "searchText": "kan man + infinitiv grammar-kan-man-infinitiv knowledge_base/grammar/grammar-kan-man-infinitiv.md ---\ntype: grammar\nname: \"kan man + infinitiv\"\nzh: \"泛指主语\\\"man\\\"加情态动词\"\nen: \"impersonal 'man' with modal verb\"\nlevel: \"A2\"\nrelated: [grammar-modala-hjalpverb, grammar-infinitiv]\nexamples:\n  - sent-från-broarna-kan-man-se-vatten\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 kan man + infinitiv — 泛指主语\"man\"加情态动词\n\n级别: A2\n一句话: man 是瑞典语泛指代词（相当于英语的 \"one/you/people\"），与情态动词 kan 结合，表示\"可以/能……\"的一般性陈述。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nman + modal + infinitiv\nman + kan   + se/göra/...\n\n倒装（V2语序）时：\n[fronted element] + modal + man + infinitiv\nFrån broarna      + kan   + man + se vatten\n```\n\n- man 没有宾格/所有格：man（主语）→ en（宾格/口语）→ ens（所有格）\n- 与 kan 组合：kan man（能/可以）；måste man（必须）；bör man（应该）\n- V2规则：当非主语成分放到句首，情态动词提前，man 紧跟在情态动词后\n\n与中文对比: 中文常省略泛指主语（\"从桥上可以看到水\"），而瑞典语必须用 man 填补主语位置\n与英文对比: 英语 \"one can\" / \"you can\"（泛指）\n\n## 详细讲解 (Detail)\n\nman 是瑞典语泛指代词：\n- 不特指某人，表示\"一般人/人们/你\"\n- 动词仍用第三人称单数形式\n- 常见搭配：kan man, måste man, får man, bör man, ska man, brukar man\n\n**倒装示例：**\n- 正常语序：Man kan se vatten från broarna.\n- 倒装（地点前置）：Från broarna kan man se vatten. ← V2 语序\n\n## 例句 (Examples)\n\n- ✅ [[sent-från-broarna-kan-man-se-vatten]] 🇸🇪 Från broarna kan man se vatten på alla sidor. 🇨🇳 从桥上望去，四面都是水。\n- ✅ 🇸🇪 I Sverige kan man dricka kranvatten. 🇨🇳 在瑞典，人们可以喝自来水。\n- ✅ 🇸🇪 Man måste köpa biljett. 🇨🇳 （人们/你）必须买票。\n- ❌ Kan vi se vatten? ← 不是泛指，而是特指\"我们\"，语义不同\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 倒装后忘记将动词提前（*Från broarna man kan se... ← 错误）\n- ⚠️ 混淆 man（泛指）与 man（丈夫，名词）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-modala-hjalpverb]]\n- 📎 [[grammar-infinitiv]]\n- 📎 [[grammar-v2-ordfoljd]]\n",
+      "name": "kan man + infinitiv",
+      "zh": "泛指主语\\\"man\\\"加情态动词",
+      "en": "impersonal 'man' with modal verb",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "sent-från-broarna-kan-man-se-vatten",
+        "source-2026-06-22-plats-stockholm"
       ]
     },
     {
@@ -863,12 +944,15 @@ window.KB_DATA = {
       "backlinks": [
         "en-av-världens-mest-kända",
         "köra-för-fort",
+        "mer-än",
         "sent-an-kvinnor-i-samma-alder",
         "sent-arbetena-är-till-för-att-vägarna",
         "sent-där-alla-har-så-stor-förståelse",
         "sent-den-som-ska-ut-och-köra-bil",
+        "sent-det-är-nordens-största-stad",
         "sent-det-blir-svalare-och-regnet",
         "sent-for-naturen-an-vad-vanliga-kor-klarat",
+        "sent-gamla-stan-är-mer-än-700-år",
         "sent-idag-är-hon-en-av-världens-mest-kända-röster",
         "sent-kvinnor-far-vanta-langre-an-man",
         "sent-länderna-ska-göra-det-svårare",
@@ -1027,6 +1111,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "grammar-bruka-infinitiv",
+        "grammar-kan-man-infinitiv",
         "grammar-preteritum-artighet",
         "kan-jag-betala-med-kort",
         "kan-vi-dela-på-notan",
@@ -1038,6 +1123,7 @@ window.KB_DATA = {
         "sent-förlåt-kan-du-hjälpa-mig",
         "sent-god-morgon-kan-jag-fa-en-stor",
         "sent-god-morgon-visst-vill-du-ha-vanligt",
+        "sent-han-ville-skydda-sverige-mot-fiender",
         "sent-i-år-kan-en-liter-svenska",
         "sent-inga-problem-vi-lagar-den-laktosfri",
         "sent-ja-garna-en-papperskasse-tack-kan-jag-betala-med-kort",
@@ -1118,7 +1204,9 @@ window.KB_DATA = {
         "grammar-deklination",
         "något-glutenfritt",
         "på-ett-annorlunda-sätt",
+        "sent-djurgården-är-en-stor-ö",
         "sent-ja-vi-har-en-glutenfri-morotskaka",
+        "sent-vasa-museet-på-djurgården-visar",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-10-zlatan-subst-verb"
       ]
@@ -1167,6 +1255,7 @@ window.KB_DATA = {
         "source-2026-06-10-zlatan-subst-verb",
         "source-2026-06-15-restaurang-fodelsedag",
         "source-2026-06-18-nyheter-8sidor",
+        "ta-emot-gäster",
         "ta-in-allt-tillsammans",
         "ta-sig-fram",
         "titta-på",
@@ -1199,9 +1288,12 @@ window.KB_DATA = {
         "döma",
         "föda",
         "födas",
+        "grammar-är-byggd-adjektivisk-passiv",
         "grammar-deponensverb",
         "grammar-s-verb-reciprok",
+        "grundas",
         "index",
+        "kallas",
         "sent-även-flera-hus-med-lägenheter-verkar",
         "sent-de-lovar-att-sluta-kriga-i-60-dagar",
         "sent-det-blir-ingen-hojning-nu-men-rantan",
@@ -1215,6 +1307,8 @@ window.KB_DATA = {
         "sent-ledare-fran-olika-lander-har-samlats",
         "sent-och-fotbollsspelare-är-tränade-till",
         "sent-och-nästan-en-av-tio-tros-dessutom",
+        "sent-staden-grundades-år-1252-av-birger",
+        "sent-stockholm-kallas-ibland-nordens-venedig",
         "skilja_sig",
         "skiljas",
         "source-2026-06-04-nyheter-vecka-22",
@@ -1374,6 +1468,7 @@ window.KB_DATA = {
         "längs-väggen",
         "mitt-emot-soffan",
         "mitt-i-rummet",
+        "på-alla-sidor",
         "på-andra-sidan-gatan",
         "på-golvet",
         "på-väggen",
@@ -1395,6 +1490,7 @@ window.KB_DATA = {
         "sent-pa-torget-finns-fontan-flera-bankar-runt-fontanen",
         "sent-sangens-star-langs-vaggen-under-sangen",
         "sent-soffan-star-mitt-i-rummet-framfor-soffbord",
+        "sent-stockholm-är-byggd-på-14-öar",
         "sent-stolen-star-framfor-skrivbordet",
         "sent-television-hanger-pa-vaggen-mitt-emot-soffan",
         "sent-till-hoger-om-mig-ligger-en-park",
@@ -1492,6 +1588,7 @@ window.KB_DATA = {
         "hur-har-du-haft-det",
         "hur-mycket-blir-det",
         "kan-jag-få",
+        "möter-östersjön",
         "promenera",
         "sent-absolut-jag-fixar-koden",
         "sent-absolut-vi-har-ett-ledigt-bord",
@@ -1503,6 +1600,7 @@ window.KB_DATA = {
         "sent-dagens-rätt-är-en-vegetarisk-pasta",
         "sent-det-blir-femtiofem-kronor",
         "sent-det-låter-gott-men-jag-är",
+        "sent-djurgården-är-en-stor-ö",
         "sent-efter-jobbet-handlar-jag-mat-i-affaren",
         "sent-en-kopp-kaffe-tack-och-sedan",
         "sent-en-latte-tack-men-kan-jag-fa-den",
@@ -1549,6 +1647,7 @@ window.KB_DATA = {
         "sent-hennes-mamma-heter-malena-ernman-och-är",
         "sent-hennes-pappa-heter-svante-och-är-skådespelare",
         "sent-hon-fortsätter-att-kämpa-för-klimatet",
+        "sent-i-dag-bor-nästan-en-miljon",
         "sent-ibland-traffar-jag-en-van-eller-gar",
         "sent-inga-problem-vi-har-havredryck",
         "sent-innan-jag-somnar-laser-jag-nagra-sidor",
@@ -1577,11 +1676,14 @@ window.KB_DATA = {
         "sent-rakt-fram-ser-jag-ett-torg",
         "sent-sedan-tar-jag-bussen-till-jobbet",
         "sent-självklart-varsågod-jag-stämplar",
+        "sent-staden-ligger-i-östra-sverige",
+        "sent-stockholm-är-sveriges-huvudstad",
         "sent-tack-detsamma-vi-ses-snart-igen",
         "sent-tack-så-mycket-kan-jag-betala-med-swish",
         "sent-tack-så-mycket-vad-rekommenderar-ni",
         "sent-utanfor-kafeet-star-tre-bankar-sitter-par-manniskor",
         "sent-utmärkt-jag-kommer-strax-med-beställning",
+        "sent-vasa-museet-på-djurgården-visar",
         "sent-vi-har-en-liten-överraskning-till",
         "sent-vi-har-hemgjord-glass-och-äppelpaj",
         "sent-vi-har-mousserande-vin-och-champagne",
@@ -1793,6 +1895,7 @@ window.KB_DATA = {
         "sent-sen-kom-han-tillbaka-till-sverige",
         "sent-snart-blev-greta-känd-i-hela-världen",
         "sent-sommaren-2018-var-mycket-varm-i-sverige",
+        "sent-staden-grundades-år-1252-av-birger",
         "sent-till-evian-i-frankrike-nu",
         "sent-till-slut-var-allt-bra-igen",
         "sent-ukrainas-ledare-volodymyr-zelenskyj",
@@ -2018,6 +2121,7 @@ window.KB_DATA = {
         "sent-mackorna-innehåller-tyvärr-vetebröd",
         "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
         "sent-söndagen-blir-dock-torr-och-solig",
+        "sent-stockholm-kallas-ibland-nordens-venedig",
         "topic-satsadverbial"
       ]
     },
@@ -2340,8 +2444,10 @@ window.KB_DATA = {
         "grammar-bisats-eftersom",
         "grammar-bisats-tidskonnektor",
         "grammar-bisats-tills",
+        "grammar-där-relativsats",
         "grammar-det-finns",
         "grammar-i-lordags-vs-pa-lordag",
+        "grammar-kan-man-infinitiv",
         "grammar-konditionalis",
         "grammar-konditionell-topikalisering",
         "grammar-nar-bisats",
@@ -2365,6 +2471,7 @@ window.KB_DATA = {
         "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
         "sent-då-bestämde-greta-sig-för-att-göra-något",
         "sent-då-tar-jag-en-bit-morotskaka",
+        "sent-där-ligger-stockholms-slott",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
@@ -2391,6 +2498,7 @@ window.KB_DATA = {
         "sent-forst-dricker-jag-en-kopp-kaffe",
         "sent-framfor-butiken-stannar-buss-vid-busshallplatsen",
         "sent-framfor-fonster-vid-vaggen-stor-krukvaxt",
+        "sent-från-broarna-kan-man-se-vatten",
         "sent-från-utlandet-beställde-han-mord",
         "sent-gärna-har-ni-något-glutenfritt",
         "sent-god-morgon-kan-jag-fa-en-stor",
@@ -2400,6 +2508,8 @@ window.KB_DATA = {
         "sent-hur-kommer-jag-dit",
         "sent-i-avtalet-lovar-iran-bland-annat",
         "sent-i-bokhyllan-star-manga-bocker-foto-sitter",
+        "sent-i-dag-bor-nästan-en-miljon",
+        "sent-i-gamla-stan-finns-smala-gator",
         "sent-i-hornet-till-vanster-om-dorren-star-kladskap",
         "sent-i-lordags-vaknade-jag-tidigt-fast",
         "sent-i-söder-kommer-både-regn-eller-åska",
@@ -2664,6 +2774,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "index",
+        "mer-än",
         "sent-det-beror-pa-att-planeten-blir-allt-varmare",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22"
@@ -3632,8 +3743,10 @@ window.KB_DATA = {
       "backlinks": [
         "apotek",
         "kafé",
+        "sent-det-finns-många-broar-i-staden",
         "sent-i-vardagsrummet-finns-soffa-fatoljerna",
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
+        "sent-stockholm-kallas-ibland-nordens-venedig",
         "sent-under-fonster-finns-ett-element",
         "source-2026-06-09-rumsliga-relationer"
       ]
@@ -7157,6 +7270,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "mer-än",
+      "type": "phrase",
+      "title": "mer än",
+      "path": "knowledge_base/phrases/mer-än.md",
+      "body": "# mer än\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 超过；多于 · 🇬🇧 more than\n📝 字面: 更多于\n\n## 用法说明 (Usage)\n\n- 用于数量比较：mer än + 数字/名词\n- mer = mycket 的比较级（英语 more）\n- 类似用法：fler än（更多……，用于可数名词，如 fler än tio människor）\n\n## 短语中的语法 (Grammar inside)\n\n- komparativ av mycket → [[grammar-komparativ]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 fler än（用于可数名词复数）\n- 🔄 över（超过，更口语，如 över 700 år）\n- 🔗 [[allt-mer]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-gamla-stan-är-mer-än-700-år]] 🇸🇪 Gamla Stan är mer än 700 år gammal. 🇨🇳 老城区已有700多年历史。\n- 🇸🇪 Det bor mer än en miljon människor i Stockholm. 🇨🇳 斯德哥尔摩居住着超过一百万人。",
+      "excerpt": "mer än 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 5/5 🇨🇳 超过；多于 · 🇬🇧 more than 📝 字面: 更多于 用法说明 (Usage) 用于数量比较：mer än + 数字/名词 mer = mycket 的比较级（英语 more） 类似用法：fler än（更多……，用于可数名词，如 fler än tio människor） 短语中的语法 (Grammar",
+      "forms": [],
+      "links": [
+        "allt-mer",
+        "grammar-komparativ",
+        "sent-gamla-stan-är-mer-än-700-år"
+      ],
+      "searchText": "mer än mer-än knowledge_base/phrases/mer-än.md ---\ntype: phrase\nphrase: \"mer än\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 5\nzh: \"超过；多于；不止\"\nen: \"more than\"\nliteral: \"more than\"\nhead_words: []\ngrammar: [grammar-komparativ]\nrelated: [allt-mer]\ntopics: []\nsentences:\n  - sent-gamla-stan-är-mer-än-700-år\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mer än\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 超过；多于 · 🇬🇧 more than\n📝 字面: 更多于\n\n## 用法说明 (Usage)\n\n- 用于数量比较：mer än + 数字/名词\n- mer = mycket 的比较级（英语 more）\n- 类似用法：fler än（更多……，用于可数名词，如 fler än tio människor）\n\n## 短语中的语法 (Grammar inside)\n\n- komparativ av mycket → [[grammar-komparativ]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 fler än（用于可数名词复数）\n- 🔄 över（超过，更口语，如 över 700 år）\n- 🔗 [[allt-mer]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-gamla-stan-är-mer-än-700-år]] 🇸🇪 Gamla Stan är mer än 700 år gammal. 🇨🇳 老城区已有700多年历史。\n- 🇸🇪 Det bor mer än en miljon människor i Stockholm. 🇨🇳 斯德哥尔摩居住着超过一百万人。\n",
+      "zh": "超过；多于；不止",
+      "en": "more than",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "mer än",
+      "category": "fast-uttryck",
+      "sentences": [
+        "sent-gamla-stan-är-mer-än-700-år"
+      ],
+      "grammar": [
+        "grammar-komparativ"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-gamla-stan-är-mer-än-700-år",
+        "source-2026-06-22-plats-stockholm"
+      ]
+    },
+    {
       "slug": "min-egen",
       "type": "phrase",
       "title": "min egen",
@@ -7293,6 +7438,40 @@ window.KB_DATA = {
         "source-2026-06-03-fraga-vagen-pub",
         "till-vänster",
         "topic-riktningar"
+      ]
+    },
+    {
+      "slug": "möter-östersjön",
+      "type": "phrase",
+      "title": "möter Östersjön",
+      "path": "knowledge_base/phrases/möter-östersjön.md",
+      "body": "# möter Östersjön\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 2/5\n🇨🇳 汇入波罗的海；与波罗的海相汇 · 🇬🇧 meets the Baltic Sea\n📝 字面: 遇见/汇入波罗的海\n\n## 用法说明 (Usage)\n\n- 用于描述地理特征：水体（河流/湖泊）与大海的交汇处\n- möta = 相遇；此处表示水域的汇合\n- Östersjön = 波罗的海（öster = 东方，sjön = 湖/海）\n\n## 短语中的语法 (Grammar inside)\n\n- möter = presens av möta → [[grammar-presens]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 där Mälaren möter Östersjön（梅拉伦湖与波罗的海相汇处）\n- 🔗 [[sjö]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-staden-ligger-i-östra-sverige]] 🇸🇪 Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön. 🇨🇳 这座城市位于瑞典东部，梅拉伦湖与波罗的海在这里相汇。",
+      "excerpt": "möter Östersjön 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 2/5 🇨🇳 汇入波罗的海；与波罗的海相汇 · 🇬🇧 meets the Baltic Sea 📝 字面: 遇见/汇入波罗的海 用法说明 (Usage) 用于描述地理特征：水体（河流/湖泊）与大海的交汇处 möta = 相遇；此处表示水域的汇合 Östersjön = 波罗的海（öster = 东方，sjön ",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "sent-staden-ligger-i-östra-sverige",
+        "sjö"
+      ],
+      "searchText": "möter Östersjön möter-östersjön knowledge_base/phrases/möter-östersjön.md ---\ntype: phrase\nphrase: \"möter Östersjön\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 2\nzh: \"汇入波罗的海；与波罗的海相汇\"\nen: \"meets the Baltic Sea\"\nliteral: \"meets the Baltic Sea\"\nhead_words: [sjö]\ngrammar: [grammar-presens]\nrelated: []\ntopics: [topic-stadsmiljo]\nsentences:\n  - sent-staden-ligger-i-östra-sverige\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# möter Östersjön\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 2/5\n🇨🇳 汇入波罗的海；与波罗的海相汇 · 🇬🇧 meets the Baltic Sea\n📝 字面: 遇见/汇入波罗的海\n\n## 用法说明 (Usage)\n\n- 用于描述地理特征：水体（河流/湖泊）与大海的交汇处\n- möta = 相遇；此处表示水域的汇合\n- Östersjön = 波罗的海（öster = 东方，sjön = 湖/海）\n\n## 短语中的语法 (Grammar inside)\n\n- möter = presens av möta → [[grammar-presens]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 där Mälaren möter Östersjön（梅拉伦湖与波罗的海相汇处）\n- 🔗 [[sjö]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-staden-ligger-i-östra-sverige]] 🇸🇪 Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön. 🇨🇳 这座城市位于瑞典东部，梅拉伦湖与波罗的海在这里相汇。\n",
+      "zh": "汇入波罗的海；与波罗的海相汇",
+      "en": "meets the Baltic Sea",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "möter Östersjön",
+      "category": "fast-uttryck",
+      "sentences": [
+        "sent-staden-ligger-i-östra-sverige"
+      ],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "sent-staden-ligger-i-östra-sverige",
+        "source-2026-06-22-plats-stockholm"
       ]
     },
     {
@@ -7466,6 +7645,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "nordens-venedig",
+      "type": "phrase",
+      "title": "Nordens Venedig",
+      "path": "knowledge_base/phrases/nordens-venedig.md",
+      "body": "# Nordens Venedig\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 2/5\n🇨🇳 北欧的威尼斯 · 🇬🇧 Venice of the North\n📝 字面: 北欧的威尼斯\n\n## 用法说明 (Usage)\n\n- 斯德哥尔摩的别称，因城市建在14座岛屿上、水道纵横而得名\n- Norden（北欧）的属格 Nordens + Venedig（威尼斯）\n- 是一个固定文化表达，首字母大写\n\n## 短语中的语法 (Grammar inside)\n\n- Nordens = genitivform av Norden（北欧）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 \"Nordens Venedig\" 通常加引号，表示别称\n- 🔗 [[kallas]], [[ö]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-stockholm-kallas-ibland-nordens-venedig]] 🇸🇪 Stockholm kallas ibland \"Nordens Venedig\" för att det finns så mycket vatten i och runt staden. 🇨🇳 斯德哥尔摩有时被称为\"北欧的威尼斯\"，因为城市里外都有大量的水域。",
+      "excerpt": "Nordens Venedig 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 2/5 🇨🇳 北欧的威尼斯 · 🇬🇧 Venice of the North 📝 字面: 北欧的威尼斯 用法说明 (Usage) 斯德哥尔摩的别称，因城市建在14座岛屿上、水道纵横而得名 Norden（北欧）的属格 Nordens + Venedig（威尼斯） 是一个固定文化表达，首字母大写 短语中的语法 (G",
+      "forms": [],
+      "links": [
+        "kallas",
+        "ö",
+        "sent-stockholm-kallas-ibland-nordens-venedig"
+      ],
+      "searchText": "Nordens Venedig nordens-venedig knowledge_base/phrases/nordens-venedig.md ---\ntype: phrase\nphrase: \"Nordens Venedig\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 2\nzh: \"北欧的威尼斯\"\nen: \"Venice of the North\"\nliteral: \"Venice of the North\"\nhead_words: []\ngrammar: []\nrelated: []\ntopics: [topic-stadsmiljo]\nsentences:\n  - sent-stockholm-kallas-ibland-nordens-venedig\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# Nordens Venedig\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 2/5\n🇨🇳 北欧的威尼斯 · 🇬🇧 Venice of the North\n📝 字面: 北欧的威尼斯\n\n## 用法说明 (Usage)\n\n- 斯德哥尔摩的别称，因城市建在14座岛屿上、水道纵横而得名\n- Norden（北欧）的属格 Nordens + Venedig（威尼斯）\n- 是一个固定文化表达，首字母大写\n\n## 短语中的语法 (Grammar inside)\n\n- Nordens = genitivform av Norden（北欧）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 \"Nordens Venedig\" 通常加引号，表示别称\n- 🔗 [[kallas]], [[ö]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-stockholm-kallas-ibland-nordens-venedig]] 🇸🇪 Stockholm kallas ibland \"Nordens Venedig\" för att det finns så mycket vatten i och runt staden. 🇨🇳 斯德哥尔摩有时被称为\"北欧的威尼斯\"，因为城市里外都有大量的水域。\n",
+      "zh": "北欧的威尼斯",
+      "en": "Venice of the North",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "Nordens Venedig",
+      "category": "fast-uttryck",
+      "sentences": [
+        "sent-stockholm-kallas-ibland-nordens-venedig"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "sent-stockholm-kallas-ibland-nordens-venedig",
+        "source-2026-06-22-plats-stockholm"
+      ]
+    },
+    {
       "slug": "om-tjugo-minuter",
       "type": "phrase",
       "title": "om tjugo minuter",
@@ -7493,6 +7704,40 @@ window.KB_DATA = {
         "sedan-sju",
         "sent-jag-ar-dar-om-tjugo-minuter",
         "source-2026-06-03-fraga-vagen-pub"
+      ]
+    },
+    {
+      "slug": "på-alla-sidor",
+      "type": "phrase",
+      "title": "på alla sidor",
+      "path": "knowledge_base/phrases/på-alla-sidor.md",
+      "body": "# på alla sidor\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 四面八方；各个方向 · 🇬🇧 on all sides\n📝 字面: 在所有边/方向上\n\n## 用法说明 (Usage)\n\n- 描述某物被水/建筑/人群等从四面包围\n- alla = 所有的；sidor = 边、侧面（sida 的复数）\n- 常与 på 搭配：på alla sidor om = 在……的四周\n\n## 短语中的语法 (Grammar inside)\n\n- 介词 på 表位置 → [[grammar-prepositioner-rum]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 på alla håll（四面八方，更口语）\n- 🔗 [[topic-rumsliga-relationer]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-från-broarna-kan-man-se-vatten]] 🇸🇪 Från broarna kan man se vatten på alla sidor. 🇨🇳 从桥上望去，四面都是水。",
+      "excerpt": "på alla sidor 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 四面八方；各个方向 · 🇬🇧 on all sides 📝 字面: 在所有边/方向上 用法说明 (Usage) 描述某物被水/建筑/人群等从四面包围 alla = 所有的；sidor = 边、侧面（sida 的复数） 常与 på 搭配：på alla sidor om = 在……的四周 短语中的语法 ",
+      "forms": [],
+      "links": [
+        "grammar-prepositioner-rum",
+        "sent-från-broarna-kan-man-se-vatten",
+        "topic-rumsliga-relationer"
+      ],
+      "searchText": "på alla sidor på-alla-sidor knowledge_base/phrases/på-alla-sidor.md ---\ntype: phrase\nphrase: \"på alla sidor\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 3\nzh: \"四面八方；各个方向；到处\"\nen: \"on all sides\"\nliteral: \"on all sides\"\nhead_words: []\ngrammar: [grammar-prepositioner-rum]\nrelated: []\ntopics: [topic-rumsliga-relationer]\nsentences:\n  - sent-från-broarna-kan-man-se-vatten\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# på alla sidor\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 四面八方；各个方向 · 🇬🇧 on all sides\n📝 字面: 在所有边/方向上\n\n## 用法说明 (Usage)\n\n- 描述某物被水/建筑/人群等从四面包围\n- alla = 所有的；sidor = 边、侧面（sida 的复数）\n- 常与 på 搭配：på alla sidor om = 在……的四周\n\n## 短语中的语法 (Grammar inside)\n\n- 介词 på 表位置 → [[grammar-prepositioner-rum]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 på alla håll（四面八方，更口语）\n- 🔗 [[topic-rumsliga-relationer]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-från-broarna-kan-man-se-vatten]] 🇸🇪 Från broarna kan man se vatten på alla sidor. 🇨🇳 从桥上望去，四面都是水。\n",
+      "zh": "四面八方；各个方向；到处",
+      "en": "on all sides",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "på alla sidor",
+      "category": "fast-uttryck",
+      "sentences": [
+        "sent-från-broarna-kan-man-se-vatten"
+      ],
+      "grammar": [
+        "grammar-prepositioner-rum"
+      ],
+      "topics": [
+        "topic-rumsliga-relationer"
+      ],
+      "backlinks": [
+        "sent-från-broarna-kan-man-se-vatten",
+        "source-2026-06-22-plats-stockholm"
       ]
     },
     {
@@ -8646,6 +8891,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "ta-emot-gäster",
+      "type": "phrase",
+      "title": "ta emot gäster",
+      "path": "knowledge_base/phrases/ta-emot-gäster.md",
+      "body": "# ta emot gäster\n\n🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 3/5\n🇨🇳 接待宾客；招待客人 · 🇬🇧 to receive/host guests\n📝 字面: 接过来客人\n\n## 用法说明 (Usage)\n\n- ta emot = 接受、接待（partikelverb：ta + partikeln emot）\n- ta emot gäster = 接待客人（正式或非正式场合均可用）\n- 也用于：ta emot ett paket（接收包裹），ta emot hjälp（接受帮助）\n\n## 短语中的语法 (Grammar inside)\n\n- partikelverb → [[grammar-partikelverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 välkomna gäster（欢迎客人，更正式）\n- 🔄 ha gäster（有客人）\n- 🔗 [[ta-hand-om]], [[gäst]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-där-ligger-stockholms-slott]] 🇸🇪 Kungafamiljen bor och tar emot gäster i slottet. 🇨🇳 王室在宫殿里生活和接待宾客。",
+      "excerpt": "ta emot gäster 🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 3/5 🇨🇳 接待宾客；招待客人 · 🇬🇧 to receive/host guests 📝 字面: 接过来客人 用法说明 (Usage) ta emot = 接受、接待（partikelverb：ta + partikeln emot） ta emot gäster = 接待客人（正式或非正式场合均可用） 也用",
+      "forms": [],
+      "links": [
+        "gäst",
+        "grammar-partikelverb",
+        "sent-där-ligger-stockholms-slott",
+        "ta-hand-om"
+      ],
+      "searchText": "ta emot gäster ta-emot-gäster knowledge_base/phrases/ta-emot-gäster.md ---\ntype: phrase\nphrase: \"ta emot gäster\"\ncategory: partikelverb\nregister: neutralt\nfrequency: 3\nzh: \"接待宾客；招待客人\"\nen: \"to receive/host guests\"\nliteral: \"take in guests\"\nhead_words: [gäst]\ngrammar: [grammar-partikelverb]\nrelated: [ta-hand-om]\ntopics: [topic-social-kontakt]\nsentences:\n  - sent-där-ligger-stockholms-slott\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ta emot gäster\n\n🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 3/5\n🇨🇳 接待宾客；招待客人 · 🇬🇧 to receive/host guests\n📝 字面: 接过来客人\n\n## 用法说明 (Usage)\n\n- ta emot = 接受、接待（partikelverb：ta + partikeln emot）\n- ta emot gäster = 接待客人（正式或非正式场合均可用）\n- 也用于：ta emot ett paket（接收包裹），ta emot hjälp（接受帮助）\n\n## 短语中的语法 (Grammar inside)\n\n- partikelverb → [[grammar-partikelverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 välkomna gäster（欢迎客人，更正式）\n- 🔄 ha gäster（有客人）\n- 🔗 [[ta-hand-om]], [[gäst]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-där-ligger-stockholms-slott]] 🇸🇪 Kungafamiljen bor och tar emot gäster i slottet. 🇨🇳 王室在宫殿里生活和接待宾客。\n",
+      "zh": "接待宾客；招待客人",
+      "en": "to receive/host guests",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "ta emot gäster",
+      "category": "partikelverb",
+      "sentences": [
+        "sent-där-ligger-stockholms-slott"
+      ],
+      "grammar": [
+        "grammar-partikelverb"
+      ],
+      "topics": [
+        "topic-social-kontakt"
+      ],
+      "backlinks": [
+        "sent-där-ligger-stockholms-slott",
+        "source-2026-06-22-plats-stockholm"
+      ]
+    },
+    {
       "slug": "ta-en-fika",
       "type": "phrase",
       "title": "ta en fika",
@@ -8740,7 +9020,8 @@ window.KB_DATA = {
         "sent-grattis-jag-heter-mikael-och-tar",
         "söka-hjälp",
         "source-2026-06-02-astrid-lindgren",
-        "source-2026-06-15-restaurang-fodelsedag"
+        "source-2026-06-15-restaurang-fodelsedag",
+        "ta-emot-gäster"
       ]
     },
     {
@@ -11617,6 +11898,50 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-där-ligger-stockholms-slott",
+      "type": "sentence",
+      "title": "🇸🇪 Där ligger Stockholms slott, där kungafamiljen bor och tar emot gäster.",
+      "path": "knowledge_base/sentences/sent-där-ligger-stockholms-slott.md",
+      "body": "# 🇸🇪 Där ligger Stockholms slott, där kungafamiljen bor och tar emot gäster.\n\n🇨🇳 王宫就坐落于此，瑞典王室在这里生活和接待宾客。\n\n## 结构 (Structure)\n\n```\n[Där] [ligger] [Stockholms slott], [där kungafamiljen bor och tar emot gäster]\n地点副词  动词       主语                     där引导的关系从句\n         ↑ V2倒装\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-där-relativsats]] — 第二个 där 引导修饰 slott 的关系从句\n- 📌 [[grammar-v2-ordfoljd]] — 地点副词 Där 前置，动词倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[slott]], [[gäst]], [[ligga]], [[bo]]\n- 词组: [[ta-emot-gäster]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Där ligger Stockholms slott, där kungafamiljen bor och tar emot gäster. 🇨🇳 王宫就坐落于此，瑞典王室在这里生活和接待宾客。 结构 (Structure) [Där] [ligger] [Stockholms slott], [där kungafamiljen bor och tar emot gäster] 地点副词 动词 主语 där引导的关系从",
+      "forms": [],
+      "links": [
+        "bo",
+        "gäst",
+        "grammar-där-relativsats",
+        "grammar-v2-ordfoljd",
+        "ligga",
+        "slott",
+        "source-2026-06-22-plats-stockholm",
+        "ta-emot-gäster"
+      ],
+      "searchText": "🇸🇪 Där ligger Stockholms slott, där kungafamiljen bor och tar emot gäster. sent-där-ligger-stockholms-slott knowledge_base/sentences/sent-där-ligger-stockholms-slott.md ---\ntype: sentence\nsentence: \"Där ligger Stockholms slott, där kungafamiljen bor och tar emot gäster.\"\nzh: \"王宫就坐落于此，瑞典王室在这里生活和接待宾客。\"\ncefr: \"B1\"\nwords: [slott, gäst, ligga, bo]\nphrases: [ta-emot-gäster]\ngrammar: [grammar-där-relativsats, grammar-v2-ordfoljd]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Där ligger Stockholms slott, där kungafamiljen bor och tar emot gäster.\n\n🇨🇳 王宫就坐落于此，瑞典王室在这里生活和接待宾客。\n\n## 结构 (Structure)\n\n```\n[Där] [ligger] [Stockholms slott], [där kungafamiljen bor och tar emot gäster]\n地点副词  动词       主语                     där引导的关系从句\n         ↑ V2倒装\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-där-relativsats]] — 第二个 där 引导修饰 slott 的关系从句\n- 📌 [[grammar-v2-ordfoljd]] — 地点副词 Där 前置，动词倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[slott]], [[gäst]], [[ligga]], [[bo]]\n- 词组: [[ta-emot-gäster]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "B1",
+      "zh": "王宫就坐落于此，瑞典王室在这里生活和接待宾客。",
+      "created": "2026-06-22",
+      "sentence": "Där ligger Stockholms slott, där kungafamiljen bor och tar emot gäster.",
+      "words": [
+        "slott",
+        "gäst",
+        "ligga",
+        "bo"
+      ],
+      "phrases": [
+        "ta-emot-gäster"
+      ],
+      "grammar": [
+        "grammar-där-relativsats",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "grammar-där-relativsats",
+        "ta-emot-gäster"
+      ]
+    },
+    {
       "slug": "sent-de-forstod-ocksa-att-barn-behover-leka",
       "type": "sentence",
       "title": "🇸🇪 De förstod också att barn behöver leka för att må bra.",
@@ -12310,6 +12635,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-det-är-nordens-största-stad",
+      "type": "sentence",
+      "title": "🇸🇪 Det är Nordens största stad.",
+      "path": "knowledge_base/sentences/sent-det-är-nordens-största-stad.md",
+      "body": "# 🇸🇪 Det är Nordens största stad.\n\n🇨🇳 它是北欧最大的城市。\n\n## 结构 (Structure)\n\n```\n[Det]  [är]  [Nordens] [största stad]\n 代词   动词   属格（的）   最高级+名词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — största = stor 的最高级（superlativ）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stad]], [[stor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Det är Nordens största stad. 🇨🇳 它是北欧最大的城市。 结构 (Structure) [Det] [är] [Nordens] [största stad] 代词 动词 属格（的） 最高级+名词 语法点 (Grammar) 📌 grammar komparativ — största = stor 的最高级（superlativ） 生词 & 词组 (Words & Phrases) 词: s",
+      "forms": [],
+      "links": [
+        "grammar-komparativ",
+        "source-2026-06-22-plats-stockholm",
+        "stad",
+        "stor"
+      ],
+      "searchText": "🇸🇪 Det är Nordens största stad. sent-det-är-nordens-största-stad knowledge_base/sentences/sent-det-är-nordens-största-stad.md ---\ntype: sentence\nsentence: \"Det är Nordens största stad.\"\nzh: \"它是北欧最大的城市。\"\ncefr: \"A2\"\nwords: [stad, stor]\nphrases: []\ngrammar: [grammar-komparativ, grammar-presens]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är Nordens största stad.\n\n🇨🇳 它是北欧最大的城市。\n\n## 结构 (Structure)\n\n```\n[Det]  [är]  [Nordens] [största stad]\n 代词   动词   属格（的）   最高级+名词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — största = stor 的最高级（superlativ）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stad]], [[stor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A2",
+      "zh": "它是北欧最大的城市。",
+      "created": "2026-06-22",
+      "sentence": "Det är Nordens största stad.",
+      "words": [
+        "stad",
+        "stor"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-komparativ",
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-det-är-också-viktigt-att-köra",
       "type": "sentence",
       "title": "🇸🇪 Det är också viktigt att köra extra långsamt förbi arbeten på vägarna.",
@@ -12579,6 +12937,42 @@ window.KB_DATA = {
         "grammar-komparativ",
         "sval"
       ]
+    },
+    {
+      "slug": "sent-det-finns-många-broar-i-staden",
+      "type": "sentence",
+      "title": "🇸🇪 Det finns många broar i staden.",
+      "path": "knowledge_base/sentences/sent-det-finns-många-broar-i-staden.md",
+      "body": "# 🇸🇪 Det finns många broar i staden.\n\n🇨🇳 城里有许多桥梁。\n\n## 结构 (Structure)\n\n```\n[Det] [finns]  [många broar] [i staden]\n 形式主语  动词    真实主语      状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-det-finns]] — det finns = 存在句型\"有……\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bro]], [[stad]]\n- 词组: [[det-finns]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Det finns många broar i staden. 🇨🇳 城里有许多桥梁。 结构 (Structure) [Det] [finns] [många broar] [i staden] 形式主语 动词 真实主语 状语 语法点 (Grammar) 📌 grammar det finns — det finns = 存在句型\"有……\" 生词 & 词组 (Words & Phrases) 词: bro, stad 词",
+      "forms": [],
+      "links": [
+        "bro",
+        "det-finns",
+        "grammar-det-finns",
+        "source-2026-06-22-plats-stockholm",
+        "stad"
+      ],
+      "searchText": "🇸🇪 Det finns många broar i staden. sent-det-finns-många-broar-i-staden knowledge_base/sentences/sent-det-finns-många-broar-i-staden.md ---\ntype: sentence\nsentence: \"Det finns många broar i staden.\"\nzh: \"城里有许多桥梁。\"\ncefr: \"A1\"\nwords: [bro, stad, många]\nphrases: [det-finns]\ngrammar: [grammar-det-finns]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det finns många broar i staden.\n\n🇨🇳 城里有许多桥梁。\n\n## 结构 (Structure)\n\n```\n[Det] [finns]  [många broar] [i staden]\n 形式主语  动词    真实主语      状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-det-finns]] — det finns = 存在句型\"有……\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bro]], [[stad]]\n- 词组: [[det-finns]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A1",
+      "zh": "城里有许多桥梁。",
+      "created": "2026-06-22",
+      "sentence": "Det finns många broar i staden.",
+      "words": [
+        "bro",
+        "stad",
+        "många"
+      ],
+      "phrases": [
+        "det-finns"
+      ],
+      "grammar": [
+        "grammar-det-finns"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-det-finns-risk-att-over-10000-hus",
@@ -13101,6 +13495,43 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-17-listening-svt-latt"
       ]
+    },
+    {
+      "slug": "sent-djurgården-är-en-stor-ö",
+      "type": "sentence",
+      "title": "🇸🇪 Djurgården är en stor ö med parker och museer.",
+      "path": "knowledge_base/sentences/sent-djurgården-är-en-stor-ö.md",
+      "body": "# 🇸🇪 Djurgården är en stor ö med parker och museer.\n\n🇨🇳 动物园岛是一座大岛，岛上有公园和博物馆。\n\n## 结构 (Structure)\n\n```\n[Djurgården] [är] [en stor ö] [med parker och museer]\n    主语       动词  表语（不定冠词+形容词+名词）  介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-obestämd-form]] — en stor ö（不定形式，描述类别）\n- 📌 [[grammar-presens]] — är\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ö]], [[park]], [[stor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Djurgården är en stor ö med parker och museer. 🇨🇳 动物园岛是一座大岛，岛上有公园和博物馆。 结构 (Structure) [Djurgården] [är] [en stor ö] [med parker och museer] 主语 动词 表语（不定冠词+形容词+名词） 介词短语 语法点 (Grammar) 📌 grammar obestämd form — en st",
+      "forms": [],
+      "links": [
+        "grammar-obestämd-form",
+        "grammar-presens",
+        "ö",
+        "park",
+        "source-2026-06-22-plats-stockholm",
+        "stor"
+      ],
+      "searchText": "🇸🇪 Djurgården är en stor ö med parker och museer. sent-djurgården-är-en-stor-ö knowledge_base/sentences/sent-djurgården-är-en-stor-ö.md ---\ntype: sentence\nsentence: \"Djurgården är en stor ö med parker och museer.\"\nzh: \"动物园岛是一座大岛，岛上有公园和博物馆。\"\ncefr: \"A2\"\nwords: [ö, park, stor]\nphrases: []\ngrammar: [grammar-presens, grammar-obestämd-form]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo, topic-fritid-och-resor]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Djurgården är en stor ö med parker och museer.\n\n🇨🇳 动物园岛是一座大岛，岛上有公园和博物馆。\n\n## 结构 (Structure)\n\n```\n[Djurgården] [är] [en stor ö] [med parker och museer]\n    主语       动词  表语（不定冠词+形容词+名词）  介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-obestämd-form]] — en stor ö（不定形式，描述类别）\n- 📌 [[grammar-presens]] — är\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ö]], [[park]], [[stor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A2",
+      "zh": "动物园岛是一座大岛，岛上有公园和博物馆。",
+      "created": "2026-06-22",
+      "sentence": "Djurgården är en stor ö med parker och museer.",
+      "words": [
+        "ö",
+        "park",
+        "stor"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-obestämd-form"
+      ],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-fritid-och-resor"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-dricks-är-helt-frivilligt-i-sverige",
@@ -16036,6 +16467,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-från-broarna-kan-man-se-vatten",
+      "type": "sentence",
+      "title": "🇸🇪 Från broarna kan man se vatten på alla sidor.",
+      "path": "knowledge_base/sentences/sent-från-broarna-kan-man-se-vatten.md",
+      "body": "# 🇸🇪 Från broarna kan man se vatten på alla sidor.\n\n🇨🇳 从桥上望去，四面都是水。\n\n## 结构 (Structure)\n\n```\n[Från broarna] [kan] [man] [se] [vatten] [på alla sidor]\n  前置状语      情态  泛指   动词   宾语      方式状语\n               ↑ V2倒装：状语前置，动词提前\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-kan-man-infinitiv]] — 泛指主语 man + 情态动词 kan\n- 📌 [[grammar-v2-ordfoljd]] — 前置状语导致 V2 倒装（kan man 而非 man kan）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bro]], [[vatten]]\n- 词组: [[på-alla-sidor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Från broarna kan man se vatten på alla sidor. 🇨🇳 从桥上望去，四面都是水。 结构 (Structure) [Från broarna] [kan] [man] [se] [vatten] [på alla sidor] 前置状语 情态 泛指 动词 宾语 方式状语 ↑ V2倒装：状语前置，动词提前 语法点 (Grammar) 📌 grammar kan man infinit",
+      "forms": [],
+      "links": [
+        "bro",
+        "grammar-kan-man-infinitiv",
+        "grammar-v2-ordfoljd",
+        "på-alla-sidor",
+        "source-2026-06-22-plats-stockholm",
+        "vatten"
+      ],
+      "searchText": "🇸🇪 Från broarna kan man se vatten på alla sidor. sent-från-broarna-kan-man-se-vatten knowledge_base/sentences/sent-från-broarna-kan-man-se-vatten.md ---\ntype: sentence\nsentence: \"Från broarna kan man se vatten på alla sidor.\"\nzh: \"从桥上望去，四面都是水。\"\ncefr: \"A2\"\nwords: [bro, vatten, se]\nphrases: [på-alla-sidor]\ngrammar: [grammar-kan-man-infinitiv, grammar-v2-ordfoljd]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Från broarna kan man se vatten på alla sidor.\n\n🇨🇳 从桥上望去，四面都是水。\n\n## 结构 (Structure)\n\n```\n[Från broarna] [kan] [man] [se] [vatten] [på alla sidor]\n  前置状语      情态  泛指   动词   宾语      方式状语\n               ↑ V2倒装：状语前置，动词提前\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-kan-man-infinitiv]] — 泛指主语 man + 情态动词 kan\n- 📌 [[grammar-v2-ordfoljd]] — 前置状语导致 V2 倒装（kan man 而非 man kan）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bro]], [[vatten]]\n- 词组: [[på-alla-sidor]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A2",
+      "zh": "从桥上望去，四面都是水。",
+      "created": "2026-06-22",
+      "sentence": "Från broarna kan man se vatten på alla sidor.",
+      "words": [
+        "bro",
+        "vatten",
+        "se"
+      ],
+      "phrases": [
+        "på-alla-sidor"
+      ],
+      "grammar": [
+        "grammar-kan-man-infinitiv",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "grammar-kan-man-infinitiv",
+        "på-alla-sidor"
+      ]
+    },
+    {
       "slug": "sent-från-utlandet-beställde-han-mord",
       "type": "sentence",
       "title": "🇸🇪 Från utlandet beställde han mord och sprängningar",
@@ -16225,6 +16697,44 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-bisats-tills",
         "source-2026-06-18-fraga-efter-vagen"
+      ]
+    },
+    {
+      "slug": "sent-gamla-stan-är-mer-än-700-år",
+      "type": "sentence",
+      "title": "🇸🇪 Gamla Stan är mer än 700 år gammal.",
+      "path": "knowledge_base/sentences/sent-gamla-stan-är-mer-än-700-år.md",
+      "body": "# 🇸🇪 Gamla Stan är mer än 700 år gammal.\n\n🇨🇳 老城区已有700多年历史。\n\n## 结构 (Structure)\n\n```\n[Gamla Stan] [är] [mer än 700 år] [gammal]\n    主语       动词    比较短语        形容词（表语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — mer än（超过，比较表达）\n- 📌 [[grammar-adjektiv-kongruens]] — gammal（en-ord，单数，与 Gamla Stan 一致）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[gammal]]\n- 词组: [[mer-än]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Gamla Stan är mer än 700 år gammal. 🇨🇳 老城区已有700多年历史。 结构 (Structure) [Gamla Stan] [är] [mer än 700 år] [gammal] 主语 动词 比较短语 形容词（表语） 语法点 (Grammar) 📌 grammar komparativ — mer än（超过，比较表达） 📌 grammar adjektiv kongruens",
+      "forms": [],
+      "links": [
+        "gammal",
+        "grammar-adjektiv-kongruens",
+        "grammar-komparativ",
+        "mer-än",
+        "source-2026-06-22-plats-stockholm"
+      ],
+      "searchText": "🇸🇪 Gamla Stan är mer än 700 år gammal. sent-gamla-stan-är-mer-än-700-år knowledge_base/sentences/sent-gamla-stan-är-mer-än-700-år.md ---\ntype: sentence\nsentence: \"Gamla Stan är mer än 700 år gammal.\"\nzh: \"老城区已有700多年历史。\"\ncefr: \"A2\"\nwords: [gammal, stad]\nphrases: [mer-än]\ngrammar: [grammar-komparativ, grammar-adjektiv-kongruens]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Gamla Stan är mer än 700 år gammal.\n\n🇨🇳 老城区已有700多年历史。\n\n## 结构 (Structure)\n\n```\n[Gamla Stan] [är] [mer än 700 år] [gammal]\n    主语       动词    比较短语        形容词（表语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — mer än（超过，比较表达）\n- 📌 [[grammar-adjektiv-kongruens]] — gammal（en-ord，单数，与 Gamla Stan 一致）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[gammal]]\n- 词组: [[mer-än]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A2",
+      "zh": "老城区已有700多年历史。",
+      "created": "2026-06-22",
+      "sentence": "Gamla Stan är mer än 700 år gammal.",
+      "words": [
+        "gammal",
+        "stad"
+      ],
+      "phrases": [
+        "mer-än"
+      ],
+      "grammar": [
+        "grammar-komparativ",
+        "grammar-adjektiv-kongruens"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "mer-än"
       ]
     },
     {
@@ -16842,6 +17352,41 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-18-listening-svt-latt"
       ]
+    },
+    {
+      "slug": "sent-han-ville-skydda-sverige-mot-fiender",
+      "type": "sentence",
+      "title": "🇸🇪 Han ville skydda Sverige mot fiender och kontrollera handeln.",
+      "path": "knowledge_base/sentences/sent-han-ville-skydda-sverige-mot-fiender.md",
+      "body": "# 🇸🇪 Han ville skydda Sverige mot fiender och kontrollera handeln.\n\n🇨🇳 他想保护瑞典免受敌人侵犯，并控制贸易。\n\n## 结构 (Structure)\n\n```\n[Han] [ville] [skydda Sverige mot fiender] [och] [kontrollera handeln]\n 主语  情态动词    不定式短语1（宾语+介词短语）   连词   不定式短语2\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — ville = vilja 的 preteritum（想要）\n- 📌 [[grammar-infinitiv]] — skydda, kontrollera = 两个并列不定式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fiende]], [[handel]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Han ville skydda Sverige mot fiender och kontrollera handeln. 🇨🇳 他想保护瑞典免受敌人侵犯，并控制贸易。 结构 (Structure) [Han] [ville] [skydda Sverige mot fiender] [och] [kontrollera handeln] 主语 情态动词 不定式短语1（宾语+介词短语） 连词 不定式短语2 语法点 (Gra",
+      "forms": [],
+      "links": [
+        "fiende",
+        "grammar-infinitiv",
+        "grammar-modala-hjalpverb",
+        "handel",
+        "source-2026-06-22-plats-stockholm"
+      ],
+      "searchText": "🇸🇪 Han ville skydda Sverige mot fiender och kontrollera handeln. sent-han-ville-skydda-sverige-mot-fiender knowledge_base/sentences/sent-han-ville-skydda-sverige-mot-fiender.md ---\ntype: sentence\nsentence: \"Han ville skydda Sverige mot fiender och kontrollera handeln.\"\nzh: \"他想保护瑞典免受敌人侵犯，并控制贸易。\"\ncefr: \"B1\"\nwords: [fiende, handel, vilja]\nphrases: []\ngrammar: [grammar-modala-hjalpverb, grammar-infinitiv]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Han ville skydda Sverige mot fiender och kontrollera handeln.\n\n🇨🇳 他想保护瑞典免受敌人侵犯，并控制贸易。\n\n## 结构 (Structure)\n\n```\n[Han] [ville] [skydda Sverige mot fiender] [och] [kontrollera handeln]\n 主语  情态动词    不定式短语1（宾语+介词短语）   连词   不定式短语2\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — ville = vilja 的 preteritum（想要）\n- 📌 [[grammar-infinitiv]] — skydda, kontrollera = 两个并列不定式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fiende]], [[handel]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "B1",
+      "zh": "他想保护瑞典免受敌人侵犯，并控制贸易。",
+      "created": "2026-06-22",
+      "sentence": "Han ville skydda Sverige mot fiender och kontrollera handeln.",
+      "words": [
+        "fiende",
+        "handel",
+        "vilja"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-modala-hjalpverb",
+        "grammar-infinitiv"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-har-ni-bestämt-er-eller-behöver-ni",
@@ -17785,6 +18330,82 @@ window.KB_DATA = {
         "grammar-ligga-sta-sitta",
         "source-2026-06-09-rumsliga-relationer"
       ]
+    },
+    {
+      "slug": "sent-i-dag-bor-nästan-en-miljon",
+      "type": "sentence",
+      "title": "🇸🇪 I dag bor nästan en miljon människor i Stockholm.",
+      "path": "knowledge_base/sentences/sent-i-dag-bor-nästan-en-miljon.md",
+      "body": "# 🇸🇪 I dag bor nästan en miljon människor i Stockholm.\n\n🇨🇳 如今，斯德哥尔摩居住着近一百万人。\n\n## 结构 (Structure)\n\n```\n[I dag]  [bor]  [nästan en miljon människor]  [i Stockholm]\n 时间状语  动词          主语                      地点状语\n         ↑ V2倒装：时间状语前置，动词提前\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语 I dag 前置导致倒装\n- 📌 [[grammar-presens]] — bor = bo 的现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[människa]], [[bo]], [[invånare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 I dag bor nästan en miljon människor i Stockholm. 🇨🇳 如今，斯德哥尔摩居住着近一百万人。 结构 (Structure) [I dag] [bor] [nästan en miljon människor] [i Stockholm] 时间状语 动词 主语 地点状语 ↑ V2倒装：时间状语前置，动词提前 语法点 (Grammar) 📌 grammar v2 ordfolj",
+      "forms": [],
+      "links": [
+        "bo",
+        "grammar-presens",
+        "grammar-v2-ordfoljd",
+        "invånare",
+        "människa",
+        "source-2026-06-22-plats-stockholm"
+      ],
+      "searchText": "🇸🇪 I dag bor nästan en miljon människor i Stockholm. sent-i-dag-bor-nästan-en-miljon knowledge_base/sentences/sent-i-dag-bor-nästan-en-miljon.md ---\ntype: sentence\nsentence: \"I dag bor nästan en miljon människor i Stockholm.\"\nzh: \"如今，斯德哥尔摩居住着近一百万人。\"\ncefr: \"A2\"\nwords: [människa, bo, invånare]\nphrases: []\ngrammar: [grammar-v2-ordfoljd, grammar-presens]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I dag bor nästan en miljon människor i Stockholm.\n\n🇨🇳 如今，斯德哥尔摩居住着近一百万人。\n\n## 结构 (Structure)\n\n```\n[I dag]  [bor]  [nästan en miljon människor]  [i Stockholm]\n 时间状语  动词          主语                      地点状语\n         ↑ V2倒装：时间状语前置，动词提前\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语 I dag 前置导致倒装\n- 📌 [[grammar-presens]] — bor = bo 的现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[människa]], [[bo]], [[invånare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A2",
+      "zh": "如今，斯德哥尔摩居住着近一百万人。",
+      "created": "2026-06-22",
+      "sentence": "I dag bor nästan en miljon människor i Stockholm.",
+      "words": [
+        "människa",
+        "bo",
+        "invånare"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-i-gamla-stan-finns-smala-gator",
+      "type": "sentence",
+      "title": "🇸🇪 I Gamla Stan finns smala gator och gamla hus.",
+      "path": "knowledge_base/sentences/sent-i-gamla-stan-finns-smala-gator.md",
+      "body": "# 🇸🇪 I Gamla Stan finns smala gator och gamla hus.\n\n🇨🇳 老城区有狭窄的街道和古老的房屋。\n\n## 结构 (Structure)\n\n```\n[I Gamla Stan]  [finns]  [smala gator och gamla hus]\n   地点状语       存在动词         存在主语\n               ↑ 地点前置 + 倒装 finns（V2）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-det-finns]] — finns（无 det，地点前置后省略 det）\n- 📌 [[grammar-v2-ordfoljd]] — 地点状语前置导致倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[gata]], [[hus]], [[smal]], [[gammal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 I Gamla Stan finns smala gator och gamla hus. 🇨🇳 老城区有狭窄的街道和古老的房屋。 结构 (Structure) [I Gamla Stan] [finns] [smala gator och gamla hus] 地点状语 存在动词 存在主语 ↑ 地点前置 + 倒装 finns（V2） 语法点 (Grammar) 📌 grammar det finns — finns（无",
+      "forms": [],
+      "links": [
+        "gammal",
+        "gata",
+        "grammar-det-finns",
+        "grammar-v2-ordfoljd",
+        "hus",
+        "smal",
+        "source-2026-06-22-plats-stockholm"
+      ],
+      "searchText": "🇸🇪 I Gamla Stan finns smala gator och gamla hus. sent-i-gamla-stan-finns-smala-gator knowledge_base/sentences/sent-i-gamla-stan-finns-smala-gator.md ---\ntype: sentence\nsentence: \"I Gamla Stan finns smala gator och gamla hus.\"\nzh: \"老城区有狭窄的街道和古老的房屋。\"\ncefr: \"A2\"\nwords: [gata, hus, smal, gammal]\nphrases: [det-finns]\ngrammar: [grammar-det-finns, grammar-v2-ordfoljd]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I Gamla Stan finns smala gator och gamla hus.\n\n🇨🇳 老城区有狭窄的街道和古老的房屋。\n\n## 结构 (Structure)\n\n```\n[I Gamla Stan]  [finns]  [smala gator och gamla hus]\n   地点状语       存在动词         存在主语\n               ↑ 地点前置 + 倒装 finns（V2）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-det-finns]] — finns（无 det，地点前置后省略 det）\n- 📌 [[grammar-v2-ordfoljd]] — 地点状语前置导致倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[gata]], [[hus]], [[smal]], [[gammal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A2",
+      "zh": "老城区有狭窄的街道和古老的房屋。",
+      "created": "2026-06-22",
+      "sentence": "I Gamla Stan finns smala gator och gamla hus.",
+      "words": [
+        "gata",
+        "hus",
+        "smal",
+        "gammal"
+      ],
+      "phrases": [
+        "det-finns"
+      ],
+      "grammar": [
+        "grammar-det-finns",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-i-genomsnitt-fyra-timmar-och-57-minuter",
@@ -24634,6 +25255,195 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-staden-grundades-år-1252-av-birger",
+      "type": "sentence",
+      "title": "🇸🇪 Staden grundades år 1252 av Birger Jarl.",
+      "path": "knowledge_base/sentences/sent-staden-grundades-år-1252-av-birger.md",
+      "body": "# 🇸🇪 Staden grundades år 1252 av Birger Jarl.\n\n🇨🇳 这座城市由比尔耶尔·雅尔于1252年创立。\n\n## 结构 (Structure)\n\n```\n[Staden] [grundades] [år 1252] [av Birger Jarl]\n  主语    动词（s-passiv）  时间状语    施动者（av + 施动者）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — grundades = s-passiv preteritum（被动过去时）\n- 📌 [[grammar-preteritum]] — 过去时叙述历史事实\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stad]], [[grundas]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Staden grundades år 1252 av Birger Jarl. 🇨🇳 这座城市由比尔耶尔·雅尔于1252年创立。 结构 (Structure) [Staden] [grundades] [år 1252] [av Birger Jarl] 主语 动词（s passiv） 时间状语 施动者（av + 施动者） 语法点 (Grammar) 📌 grammar passiv med s — grundades",
+      "forms": [],
+      "links": [
+        "grammar-passiv-med-s",
+        "grammar-preteritum",
+        "grundas",
+        "source-2026-06-22-plats-stockholm",
+        "stad"
+      ],
+      "searchText": "🇸🇪 Staden grundades år 1252 av Birger Jarl. sent-staden-grundades-år-1252-av-birger knowledge_base/sentences/sent-staden-grundades-år-1252-av-birger.md ---\ntype: sentence\nsentence: \"Staden grundades år 1252 av Birger Jarl.\"\nzh: \"这座城市由比尔耶尔·雅尔于1252年创立。\"\ncefr: \"B1\"\nwords: [stad, grundas]\nphrases: []\ngrammar: [grammar-passiv-med-s, grammar-preteritum]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Staden grundades år 1252 av Birger Jarl.\n\n🇨🇳 这座城市由比尔耶尔·雅尔于1252年创立。\n\n## 结构 (Structure)\n\n```\n[Staden] [grundades] [år 1252] [av Birger Jarl]\n  主语    动词（s-passiv）  时间状语    施动者（av + 施动者）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — grundades = s-passiv preteritum（被动过去时）\n- 📌 [[grammar-preteritum]] — 过去时叙述历史事实\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stad]], [[grundas]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "B1",
+      "zh": "这座城市由比尔耶尔·雅尔于1252年创立。",
+      "created": "2026-06-22",
+      "sentence": "Staden grundades år 1252 av Birger Jarl.",
+      "words": [
+        "stad",
+        "grundas"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-passiv-med-s",
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-staden-ligger-i-östra-sverige",
+      "type": "sentence",
+      "title": "🇸🇪 Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön.",
+      "path": "knowledge_base/sentences/sent-staden-ligger-i-östra-sverige.md",
+      "body": "# 🇸🇪 Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön.\n\n🇨🇳 这座城市位于瑞典东部，梅拉伦湖与波罗的海在这里相汇。\n\n## 结构 (Structure)\n\n```\n[Staden] [ligger] [i östra Sverige], [där sjön Mälaren möter Östersjön]\n  主语    动词       状语（地点）         där引导的关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-där-relativsats]] — där 引导地点关系从句\n- 📌 [[grammar-presens]] — ligger, möter\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stad]], [[sjö]], [[ligga]]\n- 词组: [[möter-östersjön]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön. 🇨🇳 这座城市位于瑞典东部，梅拉伦湖与波罗的海在这里相汇。 结构 (Structure) [Staden] [ligger] [i östra Sverige], [där sjön Mälaren möter Östersjön] 主语 动词 状语（地点） där引导的关系从句 语法点 (Gr",
+      "forms": [],
+      "links": [
+        "grammar-där-relativsats",
+        "grammar-presens",
+        "ligga",
+        "möter-östersjön",
+        "sjö",
+        "source-2026-06-22-plats-stockholm",
+        "stad"
+      ],
+      "searchText": "🇸🇪 Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön. sent-staden-ligger-i-östra-sverige knowledge_base/sentences/sent-staden-ligger-i-östra-sverige.md ---\ntype: sentence\nsentence: \"Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön.\"\nzh: \"这座城市位于瑞典东部，梅拉伦湖与波罗的海在这里相汇。\"\ncefr: \"A2\"\nwords: [stad, sjö, ligga]\nphrases: [möter-östersjön]\ngrammar: [grammar-där-relativsats, grammar-presens]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön.\n\n🇨🇳 这座城市位于瑞典东部，梅拉伦湖与波罗的海在这里相汇。\n\n## 结构 (Structure)\n\n```\n[Staden] [ligger] [i östra Sverige], [där sjön Mälaren möter Östersjön]\n  主语    动词       状语（地点）         där引导的关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-där-relativsats]] — där 引导地点关系从句\n- 📌 [[grammar-presens]] — ligger, möter\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stad]], [[sjö]], [[ligga]]\n- 词组: [[möter-östersjön]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A2",
+      "zh": "这座城市位于瑞典东部，梅拉伦湖与波罗的海在这里相汇。",
+      "created": "2026-06-22",
+      "sentence": "Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön.",
+      "words": [
+        "stad",
+        "sjö",
+        "ligga"
+      ],
+      "phrases": [
+        "möter-östersjön"
+      ],
+      "grammar": [
+        "grammar-där-relativsats",
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "grammar-där-relativsats",
+        "möter-östersjön"
+      ]
+    },
+    {
+      "slug": "sent-stockholm-är-byggd-på-14-öar",
+      "type": "sentence",
+      "title": "🇸🇪 Stockholm är byggd på 14 öar.",
+      "path": "knowledge_base/sentences/sent-stockholm-är-byggd-på-14-öar.md",
+      "body": "# 🇸🇪 Stockholm är byggd på 14 öar.\n\n🇨🇳 斯德哥尔摩建在14座岛屿上。\n\n## 结构 (Structure)\n\n```\n[Stockholm]  [är byggd]  [på 14 öar]\n   主语       形容词被动    介词短语（在……上）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-är-byggd-adjektivisk-passiv]] — är byggd = 形容词化被动，表结果状态\n- 📌 [[grammar-prepositioner-rum]] — på = 在……上\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ö]], [[stad]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Stockholm är byggd på 14 öar. 🇨🇳 斯德哥尔摩建在14座岛屿上。 结构 (Structure) [Stockholm] [är byggd] [på 14 öar] 主语 形容词被动 介词短语（在……上） 语法点 (Grammar) 📌 grammar är byggd adjektivisk passiv — är byggd = 形容词化被动，表结果状态 📌 grammar prepo",
+      "forms": [],
+      "links": [
+        "grammar-är-byggd-adjektivisk-passiv",
+        "grammar-prepositioner-rum",
+        "ö",
+        "source-2026-06-22-plats-stockholm",
+        "stad"
+      ],
+      "searchText": "🇸🇪 Stockholm är byggd på 14 öar. sent-stockholm-är-byggd-på-14-öar knowledge_base/sentences/sent-stockholm-är-byggd-på-14-öar.md ---\ntype: sentence\nsentence: \"Stockholm är byggd på 14 öar.\"\nzh: \"斯德哥尔摩建在14座岛屿上。\"\ncefr: \"A2\"\nwords: [ö, stad]\nphrases: []\ngrammar: [grammar-är-byggd-adjektivisk-passiv, grammar-prepositioner-rum]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Stockholm är byggd på 14 öar.\n\n🇨🇳 斯德哥尔摩建在14座岛屿上。\n\n## 结构 (Structure)\n\n```\n[Stockholm]  [är byggd]  [på 14 öar]\n   主语       形容词被动    介词短语（在……上）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-är-byggd-adjektivisk-passiv]] — är byggd = 形容词化被动，表结果状态\n- 📌 [[grammar-prepositioner-rum]] — på = 在……上\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ö]], [[stad]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A2",
+      "zh": "斯德哥尔摩建在14座岛屿上。",
+      "created": "2026-06-22",
+      "sentence": "Stockholm är byggd på 14 öar.",
+      "words": [
+        "ö",
+        "stad"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-är-byggd-adjektivisk-passiv",
+        "grammar-prepositioner-rum"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "grammar-är-byggd-adjektivisk-passiv"
+      ]
+    },
+    {
+      "slug": "sent-stockholm-är-sveriges-huvudstad",
+      "type": "sentence",
+      "title": "🇸🇪 Stockholm är Sveriges huvudstad.",
+      "path": "knowledge_base/sentences/sent-stockholm-är-sveriges-huvudstad.md",
+      "body": "# 🇸🇪 Stockholm är Sveriges huvudstad.\n\n🇨🇳 斯德哥尔摩是瑞典的首都。\n\n## 结构 (Structure)\n\n```\n[Stockholm]  [är]  [Sveriges huvudstad]\n   主语       动词       表语（名词短语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — är = vara 的现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[huvudstad]], [[stad]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Stockholm är Sveriges huvudstad. 🇨🇳 斯德哥尔摩是瑞典的首都。 结构 (Structure) [Stockholm] [är] [Sveriges huvudstad] 主语 动词 表语（名词短语） 语法点 (Grammar) 📌 grammar presens — är = vara 的现在时 生词 & 词组 (Words & Phrases) 词: huvudstad, stad 来",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "huvudstad",
+        "source-2026-06-22-plats-stockholm",
+        "stad"
+      ],
+      "searchText": "🇸🇪 Stockholm är Sveriges huvudstad. sent-stockholm-är-sveriges-huvudstad knowledge_base/sentences/sent-stockholm-är-sveriges-huvudstad.md ---\ntype: sentence\nsentence: \"Stockholm är Sveriges huvudstad.\"\nzh: \"斯德哥尔摩是瑞典的首都。\"\ncefr: \"A1\"\nwords: [huvudstad, stad]\nphrases: []\ngrammar: [grammar-presens]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Stockholm är Sveriges huvudstad.\n\n🇨🇳 斯德哥尔摩是瑞典的首都。\n\n## 结构 (Structure)\n\n```\n[Stockholm]  [är]  [Sveriges huvudstad]\n   主语       动词       表语（名词短语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — är = vara 的现在时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[huvudstad]], [[stad]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A1",
+      "zh": "斯德哥尔摩是瑞典的首都。",
+      "created": "2026-06-22",
+      "sentence": "Stockholm är Sveriges huvudstad.",
+      "words": [
+        "huvudstad",
+        "stad"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-stockholm-kallas-ibland-nordens-venedig",
+      "type": "sentence",
+      "title": "🇸🇪 Stockholm kallas ibland \"Nordens Venedig\" för att det finns så mycket vatten i och runt staden.",
+      "path": "knowledge_base/sentences/sent-stockholm-kallas-ibland-nordens-venedig.md",
+      "body": "# 🇸🇪 Stockholm kallas ibland \"Nordens Venedig\" för att det finns så mycket vatten i och runt staden.\n\n🇨🇳 斯德哥尔摩有时被称为\"北欧的威尼斯\"，因为城市里外都有大量的水域。\n\n## 结构 (Structure)\n\n```\n[Stockholm] [kallas] [ibland] [\"Nordens Venedig\"] [för att det finns så mycket vatten...]\n   主语      s-被动    副词       宾语/称谓               för att引导的原因从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — kallas = s-passiv presens（被称为）\n- 📌 [[grammar-satsadverbial]] — ibland（有时）位于动词后，典型句子副词位置\n- 📌 [[grammar-bisats-eftersom]] — för att（因为）引导原因从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kallas]], [[vatten]], [[stad]]\n- 词组: [[nordens-venedig]], [[det-finns]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Stockholm kallas ibland \"Nordens Venedig\" för att det finns så mycket vatten i och runt staden. 🇨🇳 斯德哥尔摩有时被称为\"北欧的威尼斯\"，因为城市里外都有大量的水域。 结构 (Structure) [Stockholm] [kallas] [ibland] [\"Nordens Venedig\"] [för att det fi",
+      "forms": [],
+      "links": [
+        "det-finns",
+        "grammar-bisats-eftersom",
+        "grammar-passiv-med-s",
+        "grammar-satsadverbial",
+        "kallas",
+        "nordens-venedig",
+        "source-2026-06-22-plats-stockholm",
+        "stad",
+        "vatten"
+      ],
+      "searchText": "🇸🇪 Stockholm kallas ibland \"Nordens Venedig\" för att det finns så mycket vatten i och runt staden. sent-stockholm-kallas-ibland-nordens-venedig knowledge_base/sentences/sent-stockholm-kallas-ibland-nordens-venedig.md ---\ntype: sentence\nsentence: \"Stockholm kallas ibland \\\"Nordens Venedig\\\" för att det finns så mycket vatten i och runt staden.\"\nzh: \"斯德哥尔摩有时被称为\"北欧的威尼斯\"，因为城市里外都有大量的水域。\"\ncefr: \"B1\"\nwords: [kallas, vatten, stad]\nphrases: [nordens-venedig, det-finns]\ngrammar: [grammar-passiv-med-s, grammar-bisats-eftersom, grammar-satsadverbial]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Stockholm kallas ibland \"Nordens Venedig\" för att det finns så mycket vatten i och runt staden.\n\n🇨🇳 斯德哥尔摩有时被称为\"北欧的威尼斯\"，因为城市里外都有大量的水域。\n\n## 结构 (Structure)\n\n```\n[Stockholm] [kallas] [ibland] [\"Nordens Venedig\"] [för att det finns så mycket vatten...]\n   主语      s-被动    副词       宾语/称谓               för att引导的原因从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — kallas = s-passiv presens（被称为）\n- 📌 [[grammar-satsadverbial]] — ibland（有时）位于动词后，典型句子副词位置\n- 📌 [[grammar-bisats-eftersom]] — för att（因为）引导原因从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kallas]], [[vatten]], [[stad]]\n- 词组: [[nordens-venedig]], [[det-finns]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "B1",
+      "zh": "斯德哥尔摩有时被称为\"北欧的威尼斯\"，因为城市里外都有大量的水域。",
+      "created": "2026-06-22",
+      "sentence": "Stockholm kallas ibland \\\"Nordens Venedig\\\" för att det finns så mycket vatten i och runt staden.",
+      "words": [
+        "kallas",
+        "vatten",
+        "stad"
+      ],
+      "phrases": [
+        "nordens-venedig",
+        "det-finns"
+      ],
+      "grammar": [
+        "grammar-passiv-med-s",
+        "grammar-bisats-eftersom",
+        "grammar-satsadverbial"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "nordens-venedig"
+      ]
+    },
+    {
       "slug": "sent-stolen-star-framfor-skrivbordet",
       "type": "sentence",
       "title": "🇸🇪 Stolen står framför skrivbordet.",
@@ -26127,6 +26937,43 @@ window.KB_DATA = {
         "hoppas-du-hittar-det",
         "source-2026-06-18-fraga-efter-vagen"
       ]
+    },
+    {
+      "slug": "sent-vasa-museet-på-djurgården-visar",
+      "type": "sentence",
+      "title": "🇸🇪 Vasa museet på Djurgården visar ett gammalt fartyg från år 1628.",
+      "path": "knowledge_base/sentences/sent-vasa-museet-på-djurgården-visar.md",
+      "body": "# 🇸🇪 Vasa museet på Djurgården visar ett gammalt fartyg från år 1628.\n\n🇨🇳 动物园岛上的瓦萨博物馆展示着一艘1628年的古船。\n\n## 结构 (Structure)\n\n```\n[Vasa museet på Djurgården] [visar] [ett gammalt fartyg] [från år 1628]\n        主语（名词短语）          动词      宾语                时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-obestämd-form]] — ett gammalt fartyg（不定形式）\n- 📌 [[grammar-presens]] — visar（现在时，表现存状态）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fartyg]], [[gammal]], [[ö]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]",
+      "excerpt": "🇸🇪 Vasa museet på Djurgården visar ett gammalt fartyg från år 1628. 🇨🇳 动物园岛上的瓦萨博物馆展示着一艘1628年的古船。 结构 (Structure) [Vasa museet på Djurgården] [visar] [ett gammalt fartyg] [från år 1628] 主语（名词短语） 动词 宾语 时间状语 语法点 (Grammar",
+      "forms": [],
+      "links": [
+        "fartyg",
+        "gammal",
+        "grammar-obestämd-form",
+        "grammar-presens",
+        "ö",
+        "source-2026-06-22-plats-stockholm"
+      ],
+      "searchText": "🇸🇪 Vasa museet på Djurgården visar ett gammalt fartyg från år 1628. sent-vasa-museet-på-djurgården-visar knowledge_base/sentences/sent-vasa-museet-på-djurgården-visar.md ---\ntype: sentence\nsentence: \"Vasa museet på Djurgården visar ett gammalt fartyg från år 1628.\"\nzh: \"动物园岛上的瓦萨博物馆展示着一艘1628年的古船。\"\ncefr: \"A2\"\nwords: [fartyg, gammal, ö]\nphrases: []\ngrammar: [grammar-presens, grammar-obestämd-form]\nsource: \"source-2026-06-22-plats-stockholm\"\ntopics: [topic-stadsmiljo, topic-fritid-och-resor]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Vasa museet på Djurgården visar ett gammalt fartyg från år 1628.\n\n🇨🇳 动物园岛上的瓦萨博物馆展示着一艘1628年的古船。\n\n## 结构 (Structure)\n\n```\n[Vasa museet på Djurgården] [visar] [ett gammalt fartyg] [från år 1628]\n        主语（名词短语）          动词      宾语                时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-obestämd-form]] — ett gammalt fartyg（不定形式）\n- 📌 [[grammar-presens]] — visar（现在时，表现存状态）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fartyg]], [[gammal]], [[ö]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-plats-stockholm]]\n",
+      "cefr": "A2",
+      "zh": "动物园岛上的瓦萨博物馆展示着一艘1628年的古船。",
+      "created": "2026-06-22",
+      "sentence": "Vasa museet på Djurgården visar ett gammalt fartyg från år 1628.",
+      "words": [
+        "fartyg",
+        "gammal",
+        "ö"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-obestämd-form"
+      ],
+      "topics": [
+        "topic-stadsmiljo",
+        "topic-fritid-och-resor"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-vattenbufflar-gor-ett-jattebra-jobb",
@@ -32195,6 +33042,95 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-22-plats-stockholm",
+      "type": "source",
+      "title": "Stockholm — Sveriges hjärta",
+      "path": "knowledge_base/sources/source-2026-06-22-plats-stockholm.md",
+      "body": "# 📄 Stockholm — Sveriges hjärta\n\n类型: article (plats / lättläst) · 难度: A2–B1\n\n## 原文 (Source Text)\n\n```\nStockholm är Sveriges huvudstad. Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön.\n\nStockholm är byggd på 14 öar. Det finns många broar i staden. Från broarna kan man se vatten på alla sidor.\n\nStaden grundades år 1252 av Birger Jarl. Han ville skydda Sverige mot fiender och kontrollera handeln.\n\nI dag bor nästan en miljon människor i Stockholm. Det är Nordens största stad. Stockholms tunnelbana — som kallas T-banan — har 100 stationer.\n\nI Gamla Stan finns smala gator och gamla hus. Gamla Stan är mer än 700 år gammal. Där ligger Stockholms slott, där kungafamiljen bor och tar emot gäster.\n\nStockholm har många museer och parker. Djurgården är en stor ö med parker och museer. Vasa museet på Djurgården visar ett gammalt fartyg från år 1628.\n\nStockholm kallas ibland \"Nordens Venedig\" för att det finns så mycket vatten i och runt staden.\n```\n\n## 全文翻译 (Translation)\n\n🇨🇳 斯德哥尔摩是瑞典的首都。这座城市位于瑞典东部，梅拉伦湖与波罗的海在这里相汇。斯德哥尔摩建在14座岛屿上。城里有许多桥梁。从桥上望去，四面都是水。这座城市由比尔耶尔·雅尔于1252年创立。他想保护瑞典免受敌人侵犯，并控制贸易。如今，斯德哥尔摩居住着近一百万人，是北欧最大的城市。地铁T-banan有100个站。老城区（Gamla Stan）有狭窄的街道和古老的房屋，已有700多年历史。王宫就坐落于此，瑞典王室在这里生活和接待宾客。动物园岛（Djurgården）是一座大岛，岛上有公园和博物馆。岛上的瓦萨博物馆展示着一艘1628年的古船。斯德哥尔摩有时被称为\"北欧的威尼斯\"，因为城市里外都有大量的水域。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: [[huvudstad]] · [[ö]] · [[hamn]] · [[slott]] · [[fiende]] · [[handel]] · [[grundas]] · [[kallas]]\n- 词组: [[möter-östersjön]] · [[på-alla-sidor]] · [[nordens-venedig]] · [[ta-emot-gäster]] · [[mer-än]]\n- 语法: [[grammar-är-byggd-adjektivisk-passiv]] · [[grammar-där-relativsats]] · [[grammar-kan-man-infinitiv]]",
+      "excerpt": "📄 Stockholm — Sveriges hjärta 类型: article (plats / lättläst) · 难度: A2–B1 原文 (Source Text) Stockholm är Sveriges huvudstad. Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön. Stockholm är byggd på 14 öar. D",
+      "forms": [],
+      "links": [
+        "fiende",
+        "grammar-är-byggd-adjektivisk-passiv",
+        "grammar-där-relativsats",
+        "grammar-kan-man-infinitiv",
+        "grundas",
+        "hamn",
+        "handel",
+        "huvudstad",
+        "kallas",
+        "mer-än",
+        "möter-östersjön",
+        "nordens-venedig",
+        "ö",
+        "på-alla-sidor",
+        "slott",
+        "ta-emot-gäster"
+      ],
+      "searchText": "Stockholm — Sveriges hjärta source-2026-06-22-plats-stockholm knowledge_base/sources/source-2026-06-22-plats-stockholm.md ---\ntype: source\ntitle: \"Stockholm — Sveriges hjärta\"\nkind: article\ncefr: \"A2-B1\"\ndate_added: \"2026-06-22\"\nsource_label: \"plats — Stockholm (lättläst)\"\nwords:\n  - huvudstad\n  - ö\n  - hamn\n  - slott\n  - fiende\n  - handel\n  - grundas\n  - kallas\nphrases:\n  - möter-östersjön\n  - på-alla-sidor\n  - nordens-venedig\n  - ta-emot-gäster\n  - mer-än\nsentences:\n  - sent-stockholm-är-sveriges-huvudstad\n  - sent-staden-ligger-i-östra-sverige\n  - sent-stockholm-är-byggd-på-14-öar\n  - sent-det-finns-många-broar-i-staden\n  - sent-från-broarna-kan-man-se-vatten\n  - sent-staden-grundades-år-1252-av-birger\n  - sent-han-ville-skydda-sverige-mot-fiender\n  - sent-i-dag-bor-nästan-en-miljon\n  - sent-det-är-nordens-största-stad\n  - sent-i-gamla-stan-finns-smala-gator\n  - sent-gamla-stan-är-mer-än-700-år\n  - sent-där-ligger-stockholms-slott\n  - sent-djurgården-är-en-stor-ö\n  - sent-vasa-museet-på-djurgården-visar\n  - sent-stockholm-kallas-ibland-nordens-venedig\ngrammar:\n  - grammar-är-byggd-adjektivisk-passiv\n  - grammar-där-relativsats\n  - grammar-kan-man-infinitiv\n---\n\n# 📄 Stockholm — Sveriges hjärta\n\n类型: article (plats / lättläst) · 难度: A2–B1\n\n## 原文 (Source Text)\n\n```\nStockholm är Sveriges huvudstad. Staden ligger i östra Sverige, där sjön Mälaren möter Östersjön.\n\nStockholm är byggd på 14 öar. Det finns många broar i staden. Från broarna kan man se vatten på alla sidor.\n\nStaden grundades år 1252 av Birger Jarl. Han ville skydda Sverige mot fiender och kontrollera handeln.\n\nI dag bor nästan en miljon människor i Stockholm. Det är Nordens största stad. Stockholms tunnelbana — som kallas T-banan — har 100 stationer.\n\nI Gamla Stan finns smala gator och gamla hus. Gamla Stan är mer än 700 år gammal. Där ligger Stockholms slott, där kungafamiljen bor och tar emot gäster.\n\nStockholm har många museer och parker. Djurgården är en stor ö med parker och museer. Vasa museet på Djurgården visar ett gammalt fartyg från år 1628.\n\nStockholm kallas ibland \"Nordens Venedig\" för att det finns så mycket vatten i och runt staden.\n```\n\n## 全文翻译 (Translation)\n\n🇨🇳 斯德哥尔摩是瑞典的首都。这座城市位于瑞典东部，梅拉伦湖与波罗的海在这里相汇。斯德哥尔摩建在14座岛屿上。城里有许多桥梁。从桥上望去，四面都是水。这座城市由比尔耶尔·雅尔于1252年创立。他想保护瑞典免受敌人侵犯，并控制贸易。如今，斯德哥尔摩居住着近一百万人，是北欧最大的城市。地铁T-banan有100个站。老城区（Gamla Stan）有狭窄的街道和古老的房屋，已有700多年历史。王宫就坐落于此，瑞典王室在这里生活和接待宾客。动物园岛（Djurgården）是一座大岛，岛上有公园和博物馆。岛上的瓦萨博物馆展示着一艘1628年的古船。斯德哥尔摩有时被称为\"北欧的威尼斯\"，因为城市里外都有大量的水域。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: [[huvudstad]] · [[ö]] · [[hamn]] · [[slott]] · [[fiende]] · [[handel]] · [[grundas]] · [[kallas]]\n- 词组: [[möter-östersjön]] · [[på-alla-sidor]] · [[nordens-venedig]] · [[ta-emot-gäster]] · [[mer-än]]\n- 语法: [[grammar-är-byggd-adjektivisk-passiv]] · [[grammar-där-relativsats]] · [[grammar-kan-man-infinitiv]]\n",
+      "cefr": "A2-B1",
+      "date_added": "2026-06-22",
+      "source_label": "plats — Stockholm (lättläst)",
+      "kind": "article",
+      "words": [
+        "huvudstad",
+        "ö",
+        "hamn",
+        "slott",
+        "fiende",
+        "handel",
+        "grundas",
+        "kallas"
+      ],
+      "phrases": [
+        "möter-östersjön",
+        "på-alla-sidor",
+        "nordens-venedig",
+        "ta-emot-gäster",
+        "mer-än"
+      ],
+      "sentences": [
+        "sent-stockholm-är-sveriges-huvudstad",
+        "sent-staden-ligger-i-östra-sverige",
+        "sent-stockholm-är-byggd-på-14-öar",
+        "sent-det-finns-många-broar-i-staden",
+        "sent-från-broarna-kan-man-se-vatten",
+        "sent-staden-grundades-år-1252-av-birger",
+        "sent-han-ville-skydda-sverige-mot-fiender",
+        "sent-i-dag-bor-nästan-en-miljon",
+        "sent-det-är-nordens-största-stad",
+        "sent-i-gamla-stan-finns-smala-gator",
+        "sent-gamla-stan-är-mer-än-700-år",
+        "sent-där-ligger-stockholms-slott",
+        "sent-djurgården-är-en-stor-ö",
+        "sent-vasa-museet-på-djurgården-visar",
+        "sent-stockholm-kallas-ibland-nordens-venedig"
+      ],
+      "grammar": [
+        "grammar-är-byggd-adjektivisk-passiv",
+        "grammar-där-relativsats",
+        "grammar-kan-man-infinitiv"
+      ],
+      "backlinks": [
+        "sent-där-ligger-stockholms-slott",
+        "sent-det-är-nordens-största-stad",
+        "sent-det-finns-många-broar-i-staden",
+        "sent-djurgården-är-en-stor-ö",
+        "sent-från-broarna-kan-man-se-vatten",
+        "sent-gamla-stan-är-mer-än-700-år",
+        "sent-han-ville-skydda-sverige-mot-fiender",
+        "sent-i-dag-bor-nästan-en-miljon",
+        "sent-i-gamla-stan-finns-smala-gator",
+        "sent-staden-grundades-år-1252-av-birger",
+        "sent-staden-ligger-i-östra-sverige",
+        "sent-stockholm-är-byggd-på-14-öar",
+        "sent-stockholm-är-sveriges-huvudstad",
+        "sent-stockholm-kallas-ibland-nordens-venedig",
+        "sent-vasa-museet-på-djurgården-visar",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
       "slug": "topic-arbete",
       "type": "topic",
       "title": "arbete",
@@ -33194,6 +34130,7 @@ window.KB_DATA = {
         "domstol",
         "drönare",
         "fartyg",
+        "fiende",
         "gäng",
         "gripa",
         "kärnvapen",
@@ -34114,6 +35051,7 @@ window.KB_DATA = {
         "mellan",
         "mitt-emot",
         "överst",
+        "på-alla-sidor",
         "sitta",
         "source-2026-06-09-beskriva-en-gata",
         "source-2026-06-09-rumsliga-relationer",
@@ -34168,10 +35106,12 @@ window.KB_DATA = {
         "döma",
         "domstol",
         "fängelse",
+        "fiende",
         "förlora-makten",
         "gäng",
         "gas",
         "gripa",
+        "handel",
         "höja",
         "i-genomsnitt",
         "index",
@@ -34353,7 +35293,7 @@ window.KB_DATA = {
       "type": "topic",
       "title": "stadsmiljö",
       "path": "knowledge_base/topics/topic-stadsmiljo.md",
-      "body": "# 🗂️ stadsmiljö — 城市环境；街道场景\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 建筑与设施 (Byggnader & Anläggningar)\n- [[bank]] — 银行\n- [[apotek]] — 药店\n- [[kafé]] — 咖啡馆\n- [[livsmedelsbutik]] — 食品超市\n- [[byggnad]] — 建筑；楼\n- [[skylt]] — 招牌；标志\n- [[hus]] — 房子；楼房\n- [[station]] — 车站\n\n### 公共空间 (Offentliga platser)\n- [[park]] — 公园\n- [[torg]] — 广场\n- [[trottoar]] — 人行道\n- [[korsning]] — 十字路口\n- [[busshållplats]] — 公共汽车站\n- [[gata]] — 街道\n- [[väg]] — 道路\n- [[bro]] — 桥梁\n- [[tunnel]] — 隧道\n- [[parkering]] — 停车场\n- [[stad]] — 城市\n\n### 自然与景观 (Natur & Landskap)\n- [[träd]] — 树\n- [[fontän]] — 喷泉\n- [[bänk]] — 长椅\n\n### 交通 (Trafik)\n- [[trafikljus]] — 交通灯\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 活动与状态 (Aktiviteter)\n- [[promenera]] — 散步\n- [[växa]] — 生长\n- [[blinka]] — 闪烁\n\n### 形容词 (Adjektiv)\n- [[solig]] — 晴朗的\n- [[vanlig]] — 普通的\n- [[hög]] — 高的\n- [[bred]] — 宽阔的\n- [[trång]] — 狭窄的；拥挤的\n- [[grön]] — 绿色的\n- [[gul]] — 黄色的\n- [[central]] — 中心的\n- [[tom]] — 空的\n- [[populär]] — 受欢迎的\n- [[livlig]] — 热闹的；活跃的\n- [[trasig]] — 损坏的\n\n### 名词 (Substantiv)\n- [[förmiddag]] — 上午\n- [[rörelse]] — 运动；活动\n- [[ägare]] — 主人\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]]\n- 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]\n- 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]",
+      "body": "# 🗂️ stadsmiljö — 城市环境；街道场景\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 建筑与设施 (Byggnader & Anläggningar)\n- [[bank]] — 银行\n- [[apotek]] — 药店\n- [[kafé]] — 咖啡馆\n- [[livsmedelsbutik]] — 食品超市\n- [[byggnad]] — 建筑；楼\n- [[skylt]] — 招牌；标志\n- [[hus]] — 房子；楼房\n- [[station]] — 车站\n\n### 公共空间 (Offentliga platser)\n- [[park]] — 公园\n- [[torg]] — 广场\n- [[trottoar]] — 人行道\n- [[korsning]] — 十字路口\n- [[busshållplats]] — 公共汽车站\n- [[gata]] — 街道\n- [[väg]] — 道路\n- [[bro]] — 桥梁\n- [[tunnel]] — 隧道\n- [[parkering]] — 停车场\n- [[stad]] — 城市\n\n### 自然与景观 (Natur & Landskap)\n- [[träd]] — 树\n- [[fontän]] — 喷泉\n- [[bänk]] — 长椅\n\n### 交通 (Trafik)\n- [[trafikljus]] — 交通灯\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 活动与状态 (Aktiviteter)\n- [[promenera]] — 散步\n- [[växa]] — 生长\n- [[blinka]] — 闪烁\n\n### 形容词 (Adjektiv)\n- [[solig]] — 晴朗的\n- [[vanlig]] — 普通的\n- [[hög]] — 高的\n- [[bred]] — 宽阔的\n- [[trång]] — 狭窄的；拥挤的\n- [[grön]] — 绿色的\n- [[gul]] — 黄色的\n- [[central]] — 中心的\n- [[tom]] — 空的\n- [[populär]] — 受欢迎的\n- [[livlig]] — 热闹的；活跃的\n- [[trasig]] — 损坏的\n\n### 名词 (Substantiv)\n- [[förmiddag]] — 上午\n- [[rörelse]] — 运动；活动\n- [[ägare]] — 主人\n\n### 地标与地理 (Landmärken & Geografi) — tillagd 2026-06-22\n- [[huvudstad]] — 首都\n- [[ö]] — 岛屿\n- [[hamn]] — 港口\n- [[slott]] — 宫殿；城堡\n- [[grundas]] — 创立；建立\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]], [[source-2026-06-22-plats-stockholm]]\n- 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]\n- 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]",
       "excerpt": "🗂️ stadsmiljö — 城市环境；街道场景 类型: semantic field 成员 (Members) 建筑与设施 (Byggnader & Anläggningar) bank — 银行 apotek — 药店 kafé — 咖啡馆 livsmedelsbutik — 食品超市 byggnad — 建筑；楼 skylt — 招牌；标志 hus — 房子；楼房 station — 车站 公共空间 (Offentliga p",
       "forms": [],
       "links": [
@@ -34377,22 +35317,28 @@ window.KB_DATA = {
         "grammar-prepositioner-rum",
         "grammar-presens",
         "grön",
+        "grundas",
         "gul",
+        "hamn",
         "hög",
         "hus",
+        "huvudstad",
         "kafé",
         "korsning",
         "livlig",
         "livsmedelsbutik",
+        "ö",
         "park",
         "parkering",
         "populär",
         "promenera",
         "rörelse",
         "skylt",
+        "slott",
         "solig",
         "source-2026-06-09-beskriva-en-gata",
         "source-2026-06-15-stad-trafik",
+        "source-2026-06-22-plats-stockholm",
         "stad",
         "station",
         "tom",
@@ -34410,7 +35356,7 @@ window.KB_DATA = {
         "vanlig",
         "växa"
       ],
-      "searchText": "stadsmiljö topic-stadsmiljo knowledge_base/topics/topic-stadsmiljo.md ---\ntype: topic\nname: stadsmiljö\nkind: semantic-field\nzh: 城市环境；街道场景\nmembers:\n  - bank\n  - apotek\n  - kafé\n  - bänk\n  - park\n  - träd\n  - livsmedelsbutik\n  - busshållplats\n  - trafikljus\n  - torg\n  - fontän\n  - trottoar\n  - korsning\n  - cykla\n  - cyklist\n  - ägare\n  - blinka\n  - rörelse\n  - vanlig\n  - växa\n  - promenera\n  - solig\n  - förmiddag\n  - byggnad\n  - skylt\n  - gata\n  - väg\n  - bro\n  - station\n  - hus\n  - tunnel\n  - parkering\n  - stad\n  - hög\n  - bred\n  - trång\n  - grön\n  - gul\n  - central\n  - tom\n  - populär\n  - livlig\n  - trasig\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ stadsmiljö — 城市环境；街道场景\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 建筑与设施 (Byggnader & Anläggningar)\n- [[bank]] — 银行\n- [[apotek]] — 药店\n- [[kafé]] — 咖啡馆\n- [[livsmedelsbutik]] — 食品超市\n- [[byggnad]] — 建筑；楼\n- [[skylt]] — 招牌；标志\n- [[hus]] — 房子；楼房\n- [[station]] — 车站\n\n### 公共空间 (Offentliga platser)\n- [[park]] — 公园\n- [[torg]] — 广场\n- [[trottoar]] — 人行道\n- [[korsning]] — 十字路口\n- [[busshållplats]] — 公共汽车站\n- [[gata]] — 街道\n- [[väg]] — 道路\n- [[bro]] — 桥梁\n- [[tunnel]] — 隧道\n- [[parkering]] — 停车场\n- [[stad]] — 城市\n\n### 自然与景观 (Natur & Landskap)\n- [[träd]] — 树\n- [[fontän]] — 喷泉\n- [[bänk]] — 长椅\n\n### 交通 (Trafik)\n- [[trafikljus]] — 交通灯\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 活动与状态 (Aktiviteter)\n- [[promenera]] — 散步\n- [[växa]] — 生长\n- [[blinka]] — 闪烁\n\n### 形容词 (Adjektiv)\n- [[solig]] — 晴朗的\n- [[vanlig]] — 普通的\n- [[hög]] — 高的\n- [[bred]] — 宽阔的\n- [[trång]] — 狭窄的；拥挤的\n- [[grön]] — 绿色的\n- [[gul]] — 黄色的\n- [[central]] — 中心的\n- [[tom]] — 空的\n- [[populär]] — 受欢迎的\n- [[livlig]] — 热闹的；活跃的\n- [[trasig]] — 损坏的\n\n### 名词 (Substantiv)\n- [[förmiddag]] — 上午\n- [[rörelse]] — 运动；活动\n- [[ägare]] — 主人\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]]\n- 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]\n- 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]\n",
+      "searchText": "stadsmiljö topic-stadsmiljo knowledge_base/topics/topic-stadsmiljo.md ---\ntype: topic\nname: stadsmiljö\nkind: semantic-field\nzh: 城市环境；街道场景\nmembers:\n  - bank\n  - apotek\n  - kafé\n  - bänk\n  - park\n  - träd\n  - livsmedelsbutik\n  - busshållplats\n  - trafikljus\n  - torg\n  - fontän\n  - trottoar\n  - korsning\n  - cykla\n  - cyklist\n  - ägare\n  - blinka\n  - rörelse\n  - vanlig\n  - växa\n  - promenera\n  - solig\n  - förmiddag\n  - byggnad\n  - skylt\n  - gata\n  - väg\n  - bro\n  - station\n  - hus\n  - tunnel\n  - parkering\n  - stad\n  - hög\n  - bred\n  - trång\n  - grön\n  - gul\n  - central\n  - tom\n  - populär\n  - livlig\n  - trasig\n  - huvudstad\n  - ö\n  - hamn\n  - slott\n  - grundas\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ stadsmiljö — 城市环境；街道场景\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 建筑与设施 (Byggnader & Anläggningar)\n- [[bank]] — 银行\n- [[apotek]] — 药店\n- [[kafé]] — 咖啡馆\n- [[livsmedelsbutik]] — 食品超市\n- [[byggnad]] — 建筑；楼\n- [[skylt]] — 招牌；标志\n- [[hus]] — 房子；楼房\n- [[station]] — 车站\n\n### 公共空间 (Offentliga platser)\n- [[park]] — 公园\n- [[torg]] — 广场\n- [[trottoar]] — 人行道\n- [[korsning]] — 十字路口\n- [[busshållplats]] — 公共汽车站\n- [[gata]] — 街道\n- [[väg]] — 道路\n- [[bro]] — 桥梁\n- [[tunnel]] — 隧道\n- [[parkering]] — 停车场\n- [[stad]] — 城市\n\n### 自然与景观 (Natur & Landskap)\n- [[träd]] — 树\n- [[fontän]] — 喷泉\n- [[bänk]] — 长椅\n\n### 交通 (Trafik)\n- [[trafikljus]] — 交通灯\n- [[cyklist]] — 骑自行车的人\n- [[cykla]] — 骑自行车\n\n### 活动与状态 (Aktiviteter)\n- [[promenera]] — 散步\n- [[växa]] — 生长\n- [[blinka]] — 闪烁\n\n### 形容词 (Adjektiv)\n- [[solig]] — 晴朗的\n- [[vanlig]] — 普通的\n- [[hög]] — 高的\n- [[bred]] — 宽阔的\n- [[trång]] — 狭窄的；拥挤的\n- [[grön]] — 绿色的\n- [[gul]] — 黄色的\n- [[central]] — 中心的\n- [[tom]] — 空的\n- [[populär]] — 受欢迎的\n- [[livlig]] — 热闹的；活跃的\n- [[trasig]] — 损坏的\n\n### 名词 (Substantiv)\n- [[förmiddag]] — 上午\n- [[rörelse]] — 运动；活动\n- [[ägare]] — 主人\n\n### 地标与地理 (Landmärken & Geografi) — tillagd 2026-06-22\n- [[huvudstad]] — 首都\n- [[ö]] — 岛屿\n- [[hamn]] — 港口\n- [[slott]] — 宫殿；城堡\n- [[grundas]] — 创立；建立\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]], [[source-2026-06-22-plats-stockholm]]\n- 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]\n- 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]\n",
       "name": "stadsmiljö",
       "zh": "城市环境；街道场景",
       "created": "2026-06-09",
@@ -34432,20 +35378,25 @@ window.KB_DATA = {
         "förmiddag",
         "gata",
         "grön",
+        "grundas",
         "gul",
+        "hamn",
         "hög",
         "hus",
+        "huvudstad",
         "kafé",
         "kors",
         "korsning",
         "livlig",
         "livsmedelsbutik",
+        "ö",
         "park",
         "parkering",
         "polis",
         "populär",
         "promenera",
         "rörelse",
+        "slott",
         "solig",
         "source-2026-06-09-beskriva-en-gata",
         "stad",
@@ -38155,7 +39106,9 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "invånare",
-        "sambo"
+        "sambo",
+        "sent-där-ligger-stockholms-slott",
+        "sent-i-dag-bor-nästan-en-miljon"
       ]
     },
     {
@@ -38939,6 +39892,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "hög",
+        "sent-det-finns-många-broar-i-staden",
+        "sent-från-broarna-kan-man-se-vatten",
         "source-2026-06-15-stad-trafik",
         "topic-stadsmiljo",
         "topic-trafik"
@@ -41507,7 +42462,9 @@ window.KB_DATA = {
         "topic-krig-och-konflikt"
       ],
       "backlinks": [
+        "hamn",
         "sent-iran-ska-öppna-sundet-i-hormuz-genast",
+        "sent-vasa-museet-på-djurgården-visar",
         "source-2026-06-18-listening-svt-latt",
         "topic-krig-och-konflikt"
       ]
@@ -41694,6 +42651,45 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "fiende",
+      "type": "word",
+      "title": "fiende",
+      "path": "knowledge_base/words/fiende.md",
+      "body": "# fiende — substantiv\n\n📖 中文：敌人 · English: enemy\n发音提示：FI-en-de（三音节，重音第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en fiende |\n| bestämd singular | fienden |\n| obestämd plural | fiender |\n| bestämd plural | fienderna |\n\n## 词组搭配 (Collocations)\n\n- `skydda mot fiender` — 防御敌人\n- `bli fiender` — 成为敌人\n- `en gammal fiende` — 一个老敌人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han ville skydda Sverige mot fiender och kontrollera handeln. — 🇨🇳 他想保护瑞典免受敌人侵犯，并控制贸易。\n- 🇸🇪 Det är viktigt att känna sina fiender. — 🇨🇳 了解自己的敌人很重要。\n- 🇸🇪 De var fiender under kriget men vänner efteråt. — 🇨🇳 他们在战争期间是敌人，但之后成了朋友。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: [[vän]]\n- 主题: [[topic-samhälle-och-politik]], [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- 反义词 vän（朋友）\n- fiendtlig = 敌对的（形容词派生）",
+      "excerpt": "fiende — substantiv 📖 中文：敌人 · English: enemy 发音提示：FI en de（三音节，重音第一音节） 语法变形 (Forms) form Swedish obestämd singular en fiende bestämd singular fienden obestämd plural fiender bestämd plural fienderna 词组搭配 (Collocations) ",
+      "forms": [
+        "fiende",
+        "fienden",
+        "fiender",
+        "fienderna"
+      ],
+      "links": [
+        "topic-krig-och-konflikt",
+        "topic-samhälle-och-politik",
+        "vän"
+      ],
+      "searchText": "fiende fiende knowledge_base/words/fiende.md ---\ntype: word\nlemma: \"fiende\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"B1\"\nzh: \"敌人\"\nen: \"enemy\"\nsynonyms: []\nantonyms: [vän]\nfamily: []\ntopics: [topic-samhälle-och-politik, topic-krig-och-konflikt]\nsentences:\n  - sent-han-ville-skydda-sverige-mot-fiender\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fiende — substantiv\n\n📖 中文：敌人 · English: enemy\n发音提示：FI-en-de（三音节，重音第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en fiende |\n| bestämd singular | fienden |\n| obestämd plural | fiender |\n| bestämd plural | fienderna |\n\n## 词组搭配 (Collocations)\n\n- `skydda mot fiender` — 防御敌人\n- `bli fiender` — 成为敌人\n- `en gammal fiende` — 一个老敌人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han ville skydda Sverige mot fiender och kontrollera handeln. — 🇨🇳 他想保护瑞典免受敌人侵犯，并控制贸易。\n- 🇸🇪 Det är viktigt att känna sina fiender. — 🇨🇳 了解自己的敌人很重要。\n- 🇸🇪 De var fiender under kriget men vänner efteråt. — 🇨🇳 他们在战争期间是敌人，但之后成了朋友。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: [[vän]]\n- 主题: [[topic-samhälle-och-politik]], [[topic-krig-och-konflikt]]\n\n## 用法提示 (Usage Notes)\n\n- 反义词 vän（朋友）\n- fiendtlig = 敌对的（形容词派生）\n",
+      "lemma": "fiende",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "敌人",
+      "en": "enemy",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-han-ville-skydda-sverige-mot-fiender"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "sent-han-ville-skydda-sverige-mot-fiender",
+        "source-2026-06-22-plats-stockholm",
+        "vän"
       ]
     },
     {
@@ -43872,7 +44868,10 @@ window.KB_DATA = {
         "hus",
         "modern",
         "ny",
+        "sent-gamla-stan-är-mer-än-700-år",
+        "sent-i-gamla-stan-finns-smala-gator",
         "sent-jag-motte-en-gammal-van-dar",
+        "sent-vasa-museet-på-djurgården-visar",
         "source-2026-06-08-djur",
         "source-2026-06-19-adjsubst-blandat",
         "topic-djur",
@@ -44111,8 +45110,10 @@ window.KB_DATA = {
         "topic-personer"
       ],
       "backlinks": [
+        "sent-där-ligger-stockholms-slott",
         "sent-ni-har-reserverat-för-sex-gäster",
         "source-2026-06-15-restaurang-fodelsedag",
+        "ta-emot-gäster",
         "topic-personer"
       ]
     },
@@ -44155,6 +45156,7 @@ window.KB_DATA = {
       "backlinks": [
         "livlig",
         "sent-gå-rakt-fram-längs-den-här-gatan",
+        "sent-i-gamla-stan-finns-smala-gator",
         "source-2026-06-15-stad-trafik",
         "source-2026-06-19-adjsubst-blandat",
         "topic-stadsmiljo",
@@ -45279,6 +46281,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grundas",
+      "type": "word",
+      "title": "grundas",
+      "path": "knowledge_base/words/grundas.md",
+      "body": "# grundas — verb\n\n📖 中文：创立；建立（被动式） · English: to be founded, to found\n发音提示：GRUN-das（重音第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv (aktiv) | grunda |\n| presens | grundar |\n| preteritum | grundade |\n| supinum | grundat |\n| presens passiv (s-passiv) | grundas |\n| preteritum passiv | grundades |\n| imperativ | grunda! |\n\n> 动词组1（-ar 变化）；s-passiv形式 grundas/grundades 最常用于历史叙述\n\n## 词组搭配 (Collocations)\n\n- `grundas år X` — 于X年创立\n- `grundas av någon` — 由某人创立\n- `grunda ett företag` — 创立一家公司\n\n## 例句 (Sentences)\n\n- 🇸🇪 Staden grundades år 1252 av Birger Jarl. — 🇨🇳 这座城市由比尔耶尔·雅尔于1252年创立。\n- 🇸🇪 Företaget grundades av två bröder. — 🇨🇳 这家公司由两兄弟创立。\n- 🇸🇪 När grundades Stockholm? — 🇨🇳 斯德哥尔摩是什么时候建立的？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[grundskola]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- grunda（主动）= 创立；grundas（被动）= 被创立\n- 历史叙述中常用 preteritum passiv：grundades\n- grund = 基础（名词），grunda = 建立在基础上\n- 相关语法：[[grammar-passiv-med-s]]",
+      "excerpt": "grundas — verb 📖 中文：创立；建立（被动式） · English: to be founded, to found 发音提示：GRUN das（重音第一音节） 语法变形 (Forms) form Swedish infinitiv (aktiv) grunda presens grundar preteritum grundade supinum grundat presens passiv (s passiv) gr",
+      "forms": [
+        "grunda",
+        "grundar",
+        "grundade",
+        "grundat",
+        "grundas",
+        "grundades",
+        "grunda!"
+      ],
+      "links": [
+        "grammar-passiv-med-s",
+        "grundskola",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "grundas grundas knowledge_base/words/grundas.md ---\ntype: word\nlemma: \"grundas\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"创立；建立（被动）\"\nen: \"to be founded, to found\"\nsynonyms: []\nantonyms: []\nfamily: [grundskola]\ntopics: [topic-stadsmiljo]\nsentences:\n  - sent-staden-grundades-år-1252-av-birger\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# grundas — verb\n\n📖 中文：创立；建立（被动式） · English: to be founded, to found\n发音提示：GRUN-das（重音第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv (aktiv) | grunda |\n| presens | grundar |\n| preteritum | grundade |\n| supinum | grundat |\n| presens passiv (s-passiv) | grundas |\n| preteritum passiv | grundades |\n| imperativ | grunda! |\n\n> 动词组1（-ar 变化）；s-passiv形式 grundas/grundades 最常用于历史叙述\n\n## 词组搭配 (Collocations)\n\n- `grundas år X` — 于X年创立\n- `grundas av någon` — 由某人创立\n- `grunda ett företag` — 创立一家公司\n\n## 例句 (Sentences)\n\n- 🇸🇪 Staden grundades år 1252 av Birger Jarl. — 🇨🇳 这座城市由比尔耶尔·雅尔于1252年创立。\n- 🇸🇪 Företaget grundades av två bröder. — 🇨🇳 这家公司由两兄弟创立。\n- 🇸🇪 När grundades Stockholm? — 🇨🇳 斯德哥尔摩是什么时候建立的？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[grundskola]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- grunda（主动）= 创立；grundas（被动）= 被创立\n- 历史叙述中常用 preteritum passiv：grundades\n- grund = 基础（名词），grunda = 建立在基础上\n- 相关语法：[[grammar-passiv-med-s]]\n",
+      "lemma": "grundas",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "创立；建立（被动）",
+      "en": "to be founded, to found",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-staden-grundades-år-1252-av-birger"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "sent-staden-grundades-år-1252-av-birger",
+        "source-2026-06-22-plats-stockholm",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
       "slug": "grundskola",
       "type": "word",
       "title": "grundskola",
@@ -45316,6 +46359,7 @@ window.KB_DATA = {
         "topic-skola-och-utbildning"
       ],
       "backlinks": [
+        "grundas",
         "gymnasieelev",
         "index",
         "skola",
@@ -45758,6 +46802,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "hamn",
+      "type": "word",
+      "title": "hamn",
+      "path": "knowledge_base/words/hamn.md",
+      "body": "# hamn — substantiv\n\n📖 中文：港口 · English: harbour, port\n发音提示：HAMN（m+n结尾，n不发音在口语快读时）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en hamn |\n| bestämd singular | hamnen |\n| obestämd plural | hamnar |\n| bestämd plural | hamnarna |\n\n## 词组搭配 (Collocations)\n\n- `gå till hamnen` — 去港口\n- `båten ligger i hamnen` — 船停在港口\n- `Stockholms hamn` — 斯德哥尔摩港\n\n## 例句 (Sentences)\n\n- 🇸🇪 Båten lade till i hamnen tidigt på morgonen. — 🇨🇳 船一大早就靠港了。\n- 🇸🇪 Stockholm har en stor hamn vid vattnet. — 🇨🇳 斯德哥尔摩有一个临水的大港口。\n- 🇸🇪 Många fartyg kommer in till hamnen varje dag. — 🇨🇳 每天有许多船只驶入港口。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fartyg]], [[ö]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词常见：hamnarbetare（港口工人），hamnstad（港口城市）",
+      "excerpt": "hamn — substantiv 📖 中文：港口 · English: harbour, port 发音提示：HAMN（m+n结尾，n不发音在口语快读时） 语法变形 (Forms) form Swedish obestämd singular en hamn bestämd singular hamnen obestämd plural hamnar bestämd plural hamnarna 词组搭配 (Collocation",
+      "forms": [
+        "hamn",
+        "hamnen",
+        "hamnar",
+        "hamnarna"
+      ],
+      "links": [
+        "fartyg",
+        "ö",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "hamn hamn knowledge_base/words/hamn.md ---\ntype: word\nlemma: \"hamn\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"A2\"\nzh: \"港口\"\nen: \"harbour, port\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-stadsmiljo]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hamn — substantiv\n\n📖 中文：港口 · English: harbour, port\n发音提示：HAMN（m+n结尾，n不发音在口语快读时）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en hamn |\n| bestämd singular | hamnen |\n| obestämd plural | hamnar |\n| bestämd plural | hamnarna |\n\n## 词组搭配 (Collocations)\n\n- `gå till hamnen` — 去港口\n- `båten ligger i hamnen` — 船停在港口\n- `Stockholms hamn` — 斯德哥尔摩港\n\n## 例句 (Sentences)\n\n- 🇸🇪 Båten lade till i hamnen tidigt på morgonen. — 🇨🇳 船一大早就靠港了。\n- 🇸🇪 Stockholm har en stor hamn vid vattnet. — 🇨🇳 斯德哥尔摩有一个临水的大港口。\n- 🇸🇪 Många fartyg kommer in till hamnen varje dag. — 🇨🇳 每天有许多船只驶入港口。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fartyg]], [[ö]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词常见：hamnarbetare（港口工人），hamnstad（港口城市）\n",
+      "lemma": "hamn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "港口",
+      "en": "harbour, port",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "ö",
+        "source-2026-06-22-plats-stockholm",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
       "slug": "hand",
       "type": "word",
       "title": "hand",
@@ -45792,6 +46872,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "handel",
+      "type": "word",
+      "title": "handel",
+      "path": "knowledge_base/words/handel.md",
+      "body": "# handel — substantiv\n\n📖 中文：贸易；商业 · English: trade, commerce\n发音提示：HAN-del（重音第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en handel |\n| bestämd singular | handeln |\n| obestämd plural | — (oräknelig i singular, sällan plural i denna betydelse) |\n\n> 在\"贸易\"义项下通常不可数，用 handeln 表示\"这/该贸易\"\n\n## 词组搭配 (Collocations)\n\n- `kontrollera handeln` — 控制贸易\n- `fri handel` — 自由贸易\n- `handel med något` — 与某物/某地的贸易\n- `utrikeshandel` — 对外贸易\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han ville kontrollera handeln i området. — 🇨🇳 他想控制该地区的贸易。\n- 🇸🇪 Sverige har fri handel med många länder. — 🇨🇳 瑞典与许多国家进行自由贸易。\n- 🇸🇪 Handeln mellan länderna ökade mycket. — 🇨🇳 两国之间的贸易大幅增长。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[handla]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- handla（动词）= 购物 / 贸易；handel（名词）= 贸易、商业\n- 注意区分：handla mat（买菜）vs. handel（正式的贸易/商业）\n- 复合词：handelsavtal（贸易协定），handelsman（商人）",
+      "excerpt": "handel — substantiv 📖 中文：贸易；商业 · English: trade, commerce 发音提示：HAN del（重音第一音节） 语法变形 (Forms) form Swedish obestämd singular en handel bestämd singular handeln obestämd plural — (oräknelig i singular, sällan plural i denn",
+      "forms": [
+        "handel",
+        "handeln",
+        "— (oräknelig i singular",
+        "sällan plural i denna betydelse)"
+      ],
+      "links": [
+        "handla",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "handel handel knowledge_base/words/handel.md ---\ntype: word\nlemma: \"handel\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"B1\"\nzh: \"贸易；商业\"\nen: \"trade, commerce\"\nsynonyms: []\nantonyms: []\nfamily: [handla]\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-han-ville-skydda-sverige-mot-fiender\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# handel — substantiv\n\n📖 中文：贸易；商业 · English: trade, commerce\n发音提示：HAN-del（重音第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en handel |\n| bestämd singular | handeln |\n| obestämd plural | — (oräknelig i singular, sällan plural i denna betydelse) |\n\n> 在\"贸易\"义项下通常不可数，用 handeln 表示\"这/该贸易\"\n\n## 词组搭配 (Collocations)\n\n- `kontrollera handeln` — 控制贸易\n- `fri handel` — 自由贸易\n- `handel med något` — 与某物/某地的贸易\n- `utrikeshandel` — 对外贸易\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han ville kontrollera handeln i området. — 🇨🇳 他想控制该地区的贸易。\n- 🇸🇪 Sverige har fri handel med många länder. — 🇨🇳 瑞典与许多国家进行自由贸易。\n- 🇸🇪 Handeln mellan länderna ökade mycket. — 🇨🇳 两国之间的贸易大幅增长。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[handla]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- handla（动词）= 购物 / 贸易；handel（名词）= 贸易、商业\n- 注意区分：handla mat（买菜）vs. handel（正式的贸易/商业）\n- 复合词：handelsavtal（贸易协定），handelsman（商人）\n",
+      "lemma": "handel",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "贸易；商业",
+      "en": "trade, commerce",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-han-ville-skydda-sverige-mot-fiender"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "bokhandel",
+        "sent-han-ville-skydda-sverige-mot-fiender",
+        "source-2026-06-22-plats-stockholm"
+      ]
+    },
+    {
       "slug": "handla",
       "type": "word",
       "title": "handla",
@@ -45822,6 +46939,7 @@ window.KB_DATA = {
         "topic-arbete"
       ],
       "backlinks": [
+        "handel",
         "sent-efter-jobbet-handlar-jag-mat-i-affaren",
         "sent-pa-eftermiddagen-handlade-vi-mat"
       ]
@@ -47142,9 +48260,47 @@ window.KB_DATA = {
       "backlinks": [
         "byggnad",
         "hög",
+        "sent-i-gamla-stan-finns-smala-gator",
         "source-2026-06-15-stad-trafik",
         "source-2026-06-19-adjsubst-blandat",
         "tom",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
+      "slug": "huvudstad",
+      "type": "word",
+      "title": "huvudstad",
+      "path": "knowledge_base/words/huvudstad.md",
+      "body": "# huvudstad — substantiv\n\n📖 中文：首都 · English: capital city\n发音提示：HUV-ud-stad（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en huvudstad |\n| bestämd singular | huvudstaden |\n| obestämd plural | huvudstäder |\n| bestämd plural | huvudstäderna |\n\n> 复合词：huvud(头/主要) + stad(城市)\n\n## 词组搭配 (Collocations)\n\n- `vara huvudstad` — 是首都\n- `bli huvudstad` — 成为首都\n- `landets huvudstad` — 这个国家的首都\n\n## 例句 (Sentences)\n\n- 🇸🇪 Stockholm är Sveriges huvudstad. — 🇨🇳 斯德哥尔摩是瑞典的首都。\n- 🇸🇪 Berlin är Tysklands huvudstad. — 🇨🇳 柏林是德国的首都。\n- 🇸🇪 Vad heter Frankrikes huvudstad? — 🇨🇳 法国的首都叫什么？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[stad]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 是\"主要城市\"的含义，huvud- 前缀表示\"主要的\"（同：huvudkontor 总部，huvudperson 主角）",
+      "excerpt": "huvudstad — substantiv 📖 中文：首都 · English: capital city 发音提示：HUV ud stad（重音在第一音节） 语法变形 (Forms) form Swedish obestämd singular en huvudstad bestämd singular huvudstaden obestämd plural huvudstäder bestämd plural huvudstäd",
+      "forms": [
+        "huvudstad",
+        "huvudstaden",
+        "huvudstäder",
+        "huvudstäderna"
+      ],
+      "links": [
+        "stad",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "huvudstad huvudstad knowledge_base/words/huvudstad.md ---\ntype: word\nlemma: \"huvudstad\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"A2\"\nzh: \"首都\"\nen: \"capital city\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-stadsmiljo]\nsentences:\n  - sent-stockholm-är-sveriges-huvudstad\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# huvudstad — substantiv\n\n📖 中文：首都 · English: capital city\n发音提示：HUV-ud-stad（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en huvudstad |\n| bestämd singular | huvudstaden |\n| obestämd plural | huvudstäder |\n| bestämd plural | huvudstäderna |\n\n> 复合词：huvud(头/主要) + stad(城市)\n\n## 词组搭配 (Collocations)\n\n- `vara huvudstad` — 是首都\n- `bli huvudstad` — 成为首都\n- `landets huvudstad` — 这个国家的首都\n\n## 例句 (Sentences)\n\n- 🇸🇪 Stockholm är Sveriges huvudstad. — 🇨🇳 斯德哥尔摩是瑞典的首都。\n- 🇸🇪 Berlin är Tysklands huvudstad. — 🇨🇳 柏林是德国的首都。\n- 🇸🇪 Vad heter Frankrikes huvudstad? — 🇨🇳 法国的首都叫什么？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[stad]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 是\"主要城市\"的含义，huvud- 前缀表示\"主要的\"（同：huvudkontor 总部，huvudperson 主角）\n",
+      "lemma": "huvudstad",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "首都",
+      "en": "capital city",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-stockholm-är-sveriges-huvudstad"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "sent-stockholm-är-sveriges-huvudstad",
+        "source-2026-06-22-plats-stockholm",
         "topic-stadsmiljo"
       ]
     },
@@ -47576,6 +48732,7 @@ window.KB_DATA = {
         "index",
         "medborgare",
         "sent-den-fragan-ska-invanarna-i-alberta",
+        "sent-i-dag-bor-nästan-en-miljon",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22",
         "topic-samhälle-och-politik"
@@ -47945,6 +49102,43 @@ window.KB_DATA = {
         "source-2026-06-18-nyheter-8sidor",
         "varm",
         "värma"
+      ]
+    },
+    {
+      "slug": "kallas",
+      "type": "word",
+      "title": "kallas",
+      "path": "knowledge_base/words/kallas.md",
+      "body": "# kallas — verb\n\n📖 中文：被称为；叫做 · English: to be called\n发音提示：KAL-las（重音第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv (aktiv) | kalla |\n| presens (aktiv) | kallar |\n| preteritum (aktiv) | kallade |\n| supinum (aktiv) | kallat |\n| presens passiv (s-passiv) | kallas |\n| preteritum passiv | kallades |\n| imperativ | kalla! |\n\n> kallas 是 kalla 的 s-passiv 形式；在\"叫做/被称为\"语义下，kallas/kallades 最常用\n\n## 词组搭配 (Collocations)\n\n- `kallas för` — 被称为\n- `kallas ibland` — 有时被称为\n- `vad kallas det?` — 这叫什么？\n\n## 例句 (Sentences)\n\n- 🇸🇪 Stockholm kallas ibland \"Nordens Venedig\". — 🇨🇳 斯德哥尔摩有时被称为\"北欧的威尼斯\"。\n- 🇸🇪 T-banan kallas också tunnelbanan. — 🇨🇳 T-banan也被称为tunnelbanan（地铁）。\n- 🇸🇪 Vad kallas det här på svenska? — 🇨🇳 这个用瑞典语怎么说？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- kallas（现在时）= is called；kallades（过去时）= was called\n- kallas för + 名称：更口语化的表达（T-banan kallas för tunnelbanan）\n- 相关语法：[[grammar-passiv-med-s]]",
+      "excerpt": "kallas — verb 📖 中文：被称为；叫做 · English: to be called 发音提示：KAL las（重音第一音节） 语法变形 (Forms) form Swedish infinitiv (aktiv) kalla presens (aktiv) kallar preteritum (aktiv) kallade supinum (aktiv) kallat presens passiv (s passiv)",
+      "forms": [
+        "kalla",
+        "kallar",
+        "kallade",
+        "kallat",
+        "kallas",
+        "kallades",
+        "kalla!"
+      ],
+      "links": [
+        "grammar-passiv-med-s"
+      ],
+      "searchText": "kallas kallas knowledge_base/words/kallas.md ---\ntype: word\nlemma: \"kallas\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"被称为；叫做\"\nen: \"to be called\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: []\nsentences:\n  - sent-stockholm-kallas-ibland-nordens-venedig\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kallas — verb\n\n📖 中文：被称为；叫做 · English: to be called\n发音提示：KAL-las（重音第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv (aktiv) | kalla |\n| presens (aktiv) | kallar |\n| preteritum (aktiv) | kallade |\n| supinum (aktiv) | kallat |\n| presens passiv (s-passiv) | kallas |\n| preteritum passiv | kallades |\n| imperativ | kalla! |\n\n> kallas 是 kalla 的 s-passiv 形式；在\"叫做/被称为\"语义下，kallas/kallades 最常用\n\n## 词组搭配 (Collocations)\n\n- `kallas för` — 被称为\n- `kallas ibland` — 有时被称为\n- `vad kallas det?` — 这叫什么？\n\n## 例句 (Sentences)\n\n- 🇸🇪 Stockholm kallas ibland \"Nordens Venedig\". — 🇨🇳 斯德哥尔摩有时被称为\"北欧的威尼斯\"。\n- 🇸🇪 T-banan kallas också tunnelbanan. — 🇨🇳 T-banan也被称为tunnelbanan（地铁）。\n- 🇸🇪 Vad kallas det här på svenska? — 🇨🇳 这个用瑞典语怎么说？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- kallas（现在时）= is called；kallades（过去时）= was called\n- kallas för + 名称：更口语化的表达（T-banan kallas för tunnelbanan）\n- 相关语法：[[grammar-passiv-med-s]]\n",
+      "lemma": "kallas",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "被称为；叫做",
+      "en": "to be called",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-stockholm-kallas-ibland-nordens-venedig"
+      ],
+      "topics": [],
+      "backlinks": [
+        "nordens-venedig",
+        "sent-stockholm-kallas-ibland-nordens-venedig",
+        "source-2026-06-22-plats-stockholm"
       ]
     },
     {
@@ -52030,6 +53224,7 @@ window.KB_DATA = {
         "livsmedelsbutik",
         "park",
         "sent-apoteket-ligger-mitt-emot-en-stor-byggnad",
+        "sent-där-ligger-stockholms-slott",
         "sent-lite-langre-fram-i-hornet-storgatan-parkgatan-kafé",
         "sent-mitt-emot-parken-pa-andra-sidan-gatan-livsmedelsbutik",
         "sent-pa-golvet-framfor-soffan-rund-matta",
@@ -52038,6 +53233,7 @@ window.KB_DATA = {
         "sent-pa-sangen-ligger-en-kudde-och-en-filt",
         "sent-pa-soffbord-ligger-fjarrkontroll-tidningar",
         "sent-sangens-star-langs-vaggen-under-sangen",
+        "sent-staden-ligger-i-östra-sverige",
         "sent-till-hoger-om-mig-ligger-en-park",
         "sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank",
         "sitta",
@@ -53087,6 +54283,7 @@ window.KB_DATA = {
         "person",
         "sent-då-samlas-många-människor",
         "sent-hon-förstod-inte-varför-så-få-människor",
+        "sent-i-dag-bor-nästan-en-miljon",
         "sent-många-unga-människor-började-också-strejka",
         "topic-personer"
       ]
@@ -55618,6 +56815,49 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "ö",
+      "type": "word",
+      "title": "ö",
+      "path": "knowledge_base/words/ö.md",
+      "body": "# ö — substantiv\n\n📖 中文：岛；岛屿 · English: island\n发音提示：与字母Ö同音，短促 /øː/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en ö |\n| bestämd singular | ön |\n| obestämd plural | öar |\n| bestämd plural | öarna |\n\n## 词组搭配 (Collocations)\n\n- `leva på en ö` — 生活在岛上\n- `en liten ö` — 一座小岛\n- `byggd på öar` — 建在岛屿上\n\n## 例句 (Sentences)\n\n- 🇸🇪 Stockholm är byggd på 14 öar. — 🇨🇳 斯德哥尔摩建在14座岛屿上。\n- 🇸🇪 Djurgården är en stor ö med parker och museer. — 🇨🇳 动物园岛是一座大岛，岛上有公园和博物馆。\n- 🇸🇪 Sverige har många öar längs kusten. — 🇨🇳 瑞典沿海有许多岛屿。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sjö]], [[hamn]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 单字母单词，注意区分 ö（岛）和 å（小河，也是字母）\n- 瑞典群岛 skärgård 由成千上万的 öar 组成",
+      "excerpt": "ö — substantiv 📖 中文：岛；岛屿 · English: island 发音提示：与字母Ö同音，短促 /øː/ 语法变形 (Forms) form Swedish obestämd singular en ö bestämd singular ön obestämd plural öar bestämd plural öarna 词组搭配 (Collocations) leva på en ö — 生活在岛上 en li",
+      "forms": [
+        "ö",
+        "ön",
+        "öar",
+        "öarna"
+      ],
+      "links": [
+        "hamn",
+        "sjö",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "ö ö knowledge_base/words/ö.md ---\ntype: word\nlemma: \"ö\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: \"A2\"\nzh: \"岛；岛屿\"\nen: \"island\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-stadsmiljo]\nsentences:\n  - sent-stockholm-är-byggd-på-14-öar\n  - sent-djurgården-är-en-stor-ö\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ö — substantiv\n\n📖 中文：岛；岛屿 · English: island\n发音提示：与字母Ö同音，短促 /øː/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en ö |\n| bestämd singular | ön |\n| obestämd plural | öar |\n| bestämd plural | öarna |\n\n## 词组搭配 (Collocations)\n\n- `leva på en ö` — 生活在岛上\n- `en liten ö` — 一座小岛\n- `byggd på öar` — 建在岛屿上\n\n## 例句 (Sentences)\n\n- 🇸🇪 Stockholm är byggd på 14 öar. — 🇨🇳 斯德哥尔摩建在14座岛屿上。\n- 🇸🇪 Djurgården är en stor ö med parker och museer. — 🇨🇳 动物园岛是一座大岛，岛上有公园和博物馆。\n- 🇸🇪 Sverige har många öar längs kusten. — 🇨🇳 瑞典沿海有许多岛屿。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sjö]], [[hamn]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 单字母单词，注意区分 ö（岛）和 å（小河，也是字母）\n- 瑞典群岛 skärgård 由成千上万的 öar 组成\n",
+      "lemma": "ö",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "岛；岛屿",
+      "en": "island",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-stockholm-är-byggd-på-14-öar",
+        "sent-djurgården-är-en-stor-ö"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "hamn",
+        "nordens-venedig",
+        "sent-djurgården-är-en-stor-ö",
+        "sent-stockholm-är-byggd-på-14-öar",
+        "sent-vasa-museet-på-djurgården-visar",
+        "source-2026-06-22-plats-stockholm",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
       "slug": "obekväm",
       "type": "word",
       "title": "obekväm",
@@ -56784,6 +58024,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "grön",
+        "sent-djurgården-är-en-stor-ö",
         "sent-efter-frukosten-cyklade-jag-till-parken",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
         "sent-mitt-emot-parken-pa-andra-sidan-gatan-livsmedelsbutik",
@@ -60514,7 +61755,10 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "å",
+        "möter-östersjön",
+        "ö",
         "sent-kanske-vid-sjön",
+        "sent-staden-ligger-i-östra-sverige",
         "source-2026-06-20-sms-till-en-van"
       ]
     },
@@ -61567,6 +62811,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "slott",
+      "type": "word",
+      "title": "slott",
+      "path": "knowledge_base/words/slott.md",
+      "body": "# slott — substantiv\n\n📖 中文：宫殿；城堡 · English: castle, palace\n发音提示：SLOTT（双t，短促闭音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett slott |\n| bestämd singular | slottet |\n| obestämd plural | slott（oförändrat） |\n| bestämd plural | slotten |\n\n> ett-ord，复数与单数原形相同（中性词常见规律）\n\n## 词组搭配 (Collocations)\n\n- `Stockholms slott` — 斯德哥尔摩王宫\n- `kungaslott` — 王宫\n- `bo på ett slott` — 住在城堡里\n\n## 例句 (Sentences)\n\n- 🇸🇪 Där ligger Stockholms slott, där kungafamiljen bor. — 🇨🇳 王宫就坐落于此，瑞典王室在这里生活。\n- 🇸🇪 Det gamla slottet syns från vattnet. — 🇨🇳 这座古老的城堡从水上就能看到。\n- 🇸🇪 Turister besöker slottet varje dag. — 🇨🇳 游客每天都去参观这座宫殿。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- slott 偏指宫殿/王宫风格（如 Stockholms slott, Drottningholms slott）\n- borg 更偏防御性城堡（如 Kalmar slott，但也用 slott）\n- 两个词实际上常混用",
+      "excerpt": "slott — substantiv 📖 中文：宫殿；城堡 · English: castle, palace 发音提示：SLOTT（双t，短促闭音节） 语法变形 (Forms) form Swedish obestämd singular ett slott bestämd singular slottet obestämd plural slott（oförändrat） bestämd plural slotten ett or",
+      "forms": [
+        "slott",
+        "slottet",
+        "slott（oförändrat）",
+        "slotten"
+      ],
+      "links": [
+        "topic-stadsmiljo"
+      ],
+      "searchText": "slott slott knowledge_base/words/slott.md ---\ntype: word\nlemma: \"slott\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: ett\ncefr: \"A2\"\nzh: \"宫殿；城堡\"\nen: \"castle, palace\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-stadsmiljo]\nsentences:\n  - sent-där-ligger-stockholms-slott\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# slott — substantiv\n\n📖 中文：宫殿；城堡 · English: castle, palace\n发音提示：SLOTT（双t，短促闭音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett slott |\n| bestämd singular | slottet |\n| obestämd plural | slott（oförändrat） |\n| bestämd plural | slotten |\n\n> ett-ord，复数与单数原形相同（中性词常见规律）\n\n## 词组搭配 (Collocations)\n\n- `Stockholms slott` — 斯德哥尔摩王宫\n- `kungaslott` — 王宫\n- `bo på ett slott` — 住在城堡里\n\n## 例句 (Sentences)\n\n- 🇸🇪 Där ligger Stockholms slott, där kungafamiljen bor. — 🇨🇳 王宫就坐落于此，瑞典王室在这里生活。\n- 🇸🇪 Det gamla slottet syns från vattnet. — 🇨🇳 这座古老的城堡从水上就能看到。\n- 🇸🇪 Turister besöker slottet varje dag. — 🇨🇳 游客每天都去参观这座宫殿。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- slott 偏指宫殿/王宫风格（如 Stockholms slott, Drottningholms slott）\n- borg 更偏防御性城堡（如 Kalmar slott，但也用 slott）\n- 两个词实际上常混用\n",
+      "lemma": "slott",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "宫殿；城堡",
+      "en": "castle, palace",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-där-ligger-stockholms-slott"
+      ],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "sent-där-ligger-stockholms-slott",
+        "source-2026-06-22-plats-stockholm",
+        "topic-stadsmiljo"
+      ]
+    },
+    {
       "slug": "smaka",
       "type": "word",
       "title": "smaka",
@@ -61635,6 +62915,7 @@ window.KB_DATA = {
       "backlinks": [
         "fet",
         "mager",
+        "sent-i-gamla-stan-finns-smala-gator",
         "topic-djur",
         "trång",
         "tunn"
@@ -62860,8 +64141,16 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "huvudstad",
         "kommun",
         "populär",
+        "sent-det-är-nordens-största-stad",
+        "sent-det-finns-många-broar-i-staden",
+        "sent-staden-grundades-år-1252-av-birger",
+        "sent-staden-ligger-i-östra-sverige",
+        "sent-stockholm-är-byggd-på-14-öar",
+        "sent-stockholm-är-sveriges-huvudstad",
+        "sent-stockholm-kallas-ibland-nordens-venedig",
         "source-2026-06-15-stad-trafik",
         "source-2026-06-19-adjsubst-blandat",
         "stan",
@@ -63406,6 +64695,8 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-adjektiv-bojning",
         "liten",
+        "sent-det-är-nordens-största-stad",
+        "sent-djurgården-är-en-stor-ö",
         "sent-framfor-fonster-vid-vaggen-stor-krukvaxt",
         "sent-god-morgon-kan-jag-fa-en-stor",
         "sent-pa-golvet-mellan-sangen-skriv-stor-matta",
@@ -67266,6 +68557,7 @@ window.KB_DATA = {
         "topic-relationer"
       ],
       "backlinks": [
+        "fiende",
         "index",
         "kompis",
         "sent-ibland-traffar-jag-en-van-eller-gar",
@@ -67944,9 +69236,11 @@ window.KB_DATA = {
         "topic-hemmet"
       ],
       "backlinks": [
+        "sent-från-broarna-kan-man-se-vatten",
         "sent-ja-gärna-ett-glas-rödvin-och-vatten",
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
         "sent-sen-gar-du-rakt-fram-langs-vattnet",
+        "sent-stockholm-kallas-ibland-nordens-venedig",
         "sent-två-glas-vatten-räcker-tack",
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-09-rumsliga-relationer",

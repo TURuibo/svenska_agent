@@ -47,6 +47,11 @@ members:
   - populär
   - livlig
   - trasig
+  - huvudstad
+  - ö
+  - hamn
+  - slott
+  - grundas
 created: "2026-06-09"
 ---
 
@@ -113,8 +118,15 @@ created: "2026-06-09"
 - [[rörelse]] — 运动；活动
 - [[ägare]] — 主人
 
+### 地标与地理 (Landmärken & Geografi) — tillagd 2026-06-22
+- [[huvudstad]] — 首都
+- [[ö]] — 岛屿
+- [[hamn]] — 港口
+- [[slott]] — 宫殿；城堡
+- [[grundas]] — 创立；建立
+
 ## 备注 (Notes)
 
-- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]]
+- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]], [[source-2026-06-22-plats-stockholm]]
 - 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]
 - 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]
