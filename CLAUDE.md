@@ -269,11 +269,13 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 ### §4.5 听力练习 (Listening — SVT lätt svenska)
 
 **`/dagens-horovning [svt-video-id]`** 抓取 **SVT「Nyheter på lätt svenska」**(简易瑞典语新闻**视频**，
-工作日 ~17:15 约 4.5 分钟)的**字幕原文 + 时间轴**，配**逐句中文翻译**和**生词表**，生成一集听力数据，
+工作日 ~17:25 约 4.5 分钟)的**字幕原文 + 时间轴**，配**逐句中文翻译**和**生词表**，生成一集听力数据，
 供在 **Lyssna 听力站** 里盲听/精听/跟读/单句循环/倍速练习。命令 `.claude/commands/dagens-horovning.md`。
 
 **数据链(全部经 SVT 官方接口，真实抓取、不编造）：**
-1. 节目页 `svtplay.se/nyheter-pa-latt-svenska` → 最新一集 video id。
+1. 节目页 → 最新一集 video id。⚠️ **Remote 环境下 svtplay.se 返回 403**，改用
+   `https://webb-tv.nu/svt-nyheter-pa-latt-svenska-svt-play/` 取今日 id（更可靠）。
+   详见命令文件 §1。
 2. `api.svt.se/video/<id>` → HLS `.m3u8` 流 URL + 瑞典语 WebVTT `.vtt` 字幕 URL + `contentDuration`。
 3. WebFetch `.vtt` → 逐句字幕(带时间轴) → 我配中文翻译 + 10–15 生词 → 写 `listening/svt-latt-<DATE>.json`。
 4. `node tools/build-listening-site.js` 扫 `listening/*.json` → `site/listening/listening-data.js`。
@@ -285,7 +287,7 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 
 **每日自动抓取(routine)：** `scripts/daily-listening.ps1`(UTF-8 BOM)headless 跑 `/dagens-horovning`
 (allowedTools 含 `WebSearch,WebFetch,Bash`)→ 重建听力数据 → 有新一集则 `tools/sync-kb.ps1` push → Windows toast。
-触发器 = Claude Code scheduled task **`svensk-horning-daily`**，cron `30 18 * * *`(SVT ~17:15 播完后)。日志 `scripts/listening-run.log`。
+触发器 = Claude Code scheduled task **`svensk-horning-daily`**，cron `30 18 * * *`(SVT ~17:25 播完后)。日志 `scripts/listening-run.log`。
 `tools/sync-kb.ps1` 已把 `listening/` + `site/listening/listening-data.js` 纳入重建与暂存，所以 `/sync` 也会带上听力数据。
 
 **云端版 (remote, 推荐用它替代本地)：** listening 这条**联网类** routine 也可放到 Claude Code on the web 定时 session。
@@ -297,7 +299,7 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 2. 若生成了 inbox/horning-*.md，对它跑 /import
 3. git add -A；若无改动(无新一集)则跳过不 commit；否则 commit、git pull --rebase origin main 后 push -u origin main
 ```
-> SVT 仅**工作日 ~17:15** 更新，cron 建议 `30 16 * * 1-5`(UTC，≈瑞典夏令时 18:30，播完后)；周末跑也无害(查到的还是周五那集→已存在→无改动→跳过 push)。
+> SVT 仅**工作日 ~17:25** 更新，cron 建议 `30 16 * * 1-5`(UTC，≈瑞典夏令时 18:30，播完后)；周末跑也无害(查到的还是周五那集→已存在→无改动→跳过 push)。
 > ⚠️ **本地与云端二选一**：改用云端后请在桌面把本地 `svensk-horning-daily` **停用**。
 
 **只存元数据 + 我生成的译文/生词**：音频、字幕**实时从 SVT CDN 取**，不下载、不转存(版权安全)。
