@@ -438,9 +438,31 @@
     lab.textContent = `${label} · ${items.length}`;
     const chips = document.createElement('div');
     chips.className = 'chips';
-    for (const it of items) chips.appendChild(chipForNote(it));
+    const chipEls = items.map((it) => {
+      const c = chipForNote(it);
+      chips.appendChild(c);
+      return c;
+    });
     row.appendChild(lab);
     row.appendChild(chips);
+
+    // Long sentence lists are collapsed by default so the diary stays scannable.
+    const COLLAPSE_AFTER = 3;
+    if (type === 'sentence' && chipEls.length > COLLAPSE_AFTER) {
+      const hidden = chipEls.slice(COLLAPSE_AFTER);
+      hidden.forEach((c) => c.classList.add('chipHidden'));
+      const toggle = document.createElement('button');
+      toggle.type = 'button';
+      toggle.className = 'rowToggle';
+      let expanded = false;
+      const sync = () => {
+        hidden.forEach((c) => c.classList.toggle('chipHidden', !expanded));
+        toggle.textContent = expanded ? '收起 ▴' : `展开剩余 ${hidden.length} 句 ▾`;
+      };
+      toggle.addEventListener('click', () => { expanded = !expanded; sync(); });
+      sync();
+      chips.appendChild(toggle);
+    }
     return row;
   }
 
