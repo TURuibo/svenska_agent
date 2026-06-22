@@ -78,7 +78,8 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 ---
 
 ## 瑞典语原文 (Källtext)
-<SFI 风格瑞典语文章>
+<SFI 风格瑞典语文章 —— 直接写成普通段落（每段一行、段间空行），**绝不要**用 ``` 代码块包裹，
+否则 Läsning 阅读站会渲染成等宽代码、且无法点词查词>
 
 ---
 

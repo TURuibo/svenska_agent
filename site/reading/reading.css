@@ -153,7 +153,7 @@
 /* Scope the tinted fill to the card/header badge pills — the same kind-* class
    also lands on .articleBody, where the fill would flood the whole reading pane. */
 .cardKind.kind-scenario { background: rgba(47, 111, 85, 0.14); color: var(--green); }
-.cardKind.kind-paste    { background: rgba(49, 95, 125, 0.14); color: var(--blue); }
+.cardKind.kind-article  { background: rgba(49, 95, 125, 0.14); color: var(--blue); }
 .cardKind.kind-adjsubst { background: rgba(169, 120, 42, 0.16); color: var(--gold); }
 .cardKind.kind-news     { background: rgba(155, 79, 67, 0.14); color: var(--red); }
 .cardKind.kind-other    { background: var(--paper); color: var(--muted); }
@@ -574,7 +574,7 @@ body.vocabPopOpen { overflow: hidden; }   /* lock background scroll while the sh
 
   /* 词形变化 (adjsubst) 复习表在窄屏会横向溢出、难读 —— 把每组 adj+subst 的一行
      重排成一张竖排卡片，每个变形格前面用列名 (Obestämd sg. …) 当标签。
-     只对 .kind-adjsubst 生效，情景/粘贴文章的表格仍保留可横向滚动的原样。 */
+     只对 .kind-adjsubst 生效，情景/文章的表格仍保留可横向滚动的原样。 */
   .articleBody.kind-adjsubst table { display: block; overflow-x: visible; width: 100%; font-size: 1em; }
   .articleBody.kind-adjsubst thead { display: none; }
   .articleBody.kind-adjsubst tbody { display: block; }

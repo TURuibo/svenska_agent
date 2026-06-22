@@ -83,18 +83,28 @@ function stripExportBlocks(body) {
   return { body: kept.join('\n').replace(/\n{3,}/g, '\n\n').trim(), counts };
 }
 
+// `/dagens-artikel` writes one file per genre, each with its own slug prefix
+// (see .claude/commands/dagens-artikel.md). Pasted articles use `paste-`. They
+// are all the same thing to a reader — a narrative/expository article — so they
+// share one "文章" (article) kind.
+const ARTICLE_PREFIXES = [
+  'paste-',
+  'biografi-', 'sverige-', 'historia-', 'tradition-',
+  'natur-', 'plats-', 'uppfinning-', 'vetenskap-',
+];
+
 function kindFromName(name) {
   if (name.startsWith('scenario-')) return 'scenario';
   if (name.startsWith('adjsubst-')) return 'adjsubst';
-  if (name.startsWith('paste-')) return 'paste';
   if (name.startsWith('news-')) return 'news';
+  if (ARTICLE_PREFIXES.some((p) => name.startsWith(p))) return 'article';
   return 'other';
 }
 
 const KIND_LABELS = {
   scenario: { zh: '情景练习', en: 'scenario' },
   adjsubst: { zh: '词形变化', en: 'adj+subst drill' },
-  paste: { zh: '粘贴文章', en: 'pasted text' },
+  article: { zh: '文章', en: 'article' },
   news: { zh: '新闻', en: 'news' },
   other: { zh: '其他', en: 'other' },
 };

@@ -9,32 +9,15 @@
 
 ## 瑞典语原文 (Källtext)
 
-```
-Greta Thunberg är en känd klimataktivist från Sverige. Hon föddes den 3 januari
-2003 i Stockholm. Hennes mamma heter Malena Ernman och är operasångare. Hennes
-pappa heter Svante och är skådespelare. Greta har en lillasyster som heter Beata.
+Greta Thunberg är en känd klimataktivist från Sverige. Hon föddes den 3 januari 2003 i Stockholm. Hennes mamma heter Malena Ernman och är operasångare. Hennes pappa heter Svante och är skådespelare. Greta har en lillasyster som heter Beata.
 
-När Greta var åtta år hörde hon för första gången om klimatförändringarna. Hon
-förstod inte varför så få människor gjorde något åt problemet. Hon blev orolig
-och ledsen. Greta har Aspergers syndrom. Hon säger själv att det hjälper henne
-att se världen på ett annorlunda sätt.
+När Greta var åtta år hörde hon för första gången om klimatförändringarna. Hon förstod inte varför så få människor gjorde något åt problemet. Hon blev orolig och ledsen. Greta har Aspergers syndrom. Hon säger själv att det hjälper henne att se världen på ett annorlunda sätt.
 
-Sommaren 2018 var mycket varm i Sverige och det brann i många skogar. Då bestämde
-Greta sig för att göra något. Den 20 augusti 2018 gick hon inte till skolan. I
-stället satte hon sig utanför riksdagen i Stockholm. Hon hade en skylt med texten
-"Skolstrejk för klimatet". Hon ville att politikerna skulle lyssna och minska
-utsläppen.
+Sommaren 2018 var mycket varm i Sverige och det brann i många skogar. Då bestämde Greta sig för att göra något. Den 20 augusti 2018 gick hon inte till skolan. I stället satte hon sig utanför riksdagen i Stockholm. Hon hade en skylt med texten "Skolstrejk för klimatet". Hon ville att politikerna skulle lyssna och minska utsläppen.
 
-Snart blev Greta känd i hela världen. Många unga människor började också strejka
-för klimatet på fredagar. Rörelsen fick namnet "Fridays for Future". Greta
-reste till andra länder för att hålla tal. År 2019 åkte hon med en segelbåt över
-Atlanten till USA, eftersom hon inte ville flyga. På ett stort möte i FN höll hon
-ett känt tal.
+Snart blev Greta känd i hela världen. Många unga människor började också strejka för klimatet på fredagar. Rörelsen fick namnet "Fridays for Future". Greta reste till andra länder för att hålla tal. År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga. På ett stort möte i FN höll hon ett känt tal.
 
-Greta har vunnit många priser för sitt arbete. Hon fortsätter att kämpa för
-klimatet och för en bättre framtid. Idag är hon en av världens mest kända röster
-för miljön.
-```
+Greta har vunnit många priser för sitt arbete. Hon fortsätter att kämpa för klimatet och för en bättre framtid. Idag är hon en av världens mest kända röster för miljön.
 
 ---
 
