@@ -28,6 +28,12 @@ Examples of how to parse:
 - `/scenario text hyresavi från hyresvärden` → type=text, level=, topic="hyresavi från hyresvärden"
 - `/scenario story min första dag i Sverige` → type=story, level=, topic="min första dag i Sverige"
 
+任何 **国家考试体裁** 都可手动点名（见 `sv-scenario` 技能 §2a 体裁目录），例如：
+- `/scenario insändare behöver vårt område fler cykelvägar` → 读者来信（论说，B1）
+- `/scenario dialog arbetsintervju som vårdbiträde` → 求职面试（面试 ⭐）
+- `/scenario text inlägg i grannforumet om störande musik` → 小区讨论帖 ⭐
+- `/scenario text information från skolan om utvecklingssamtal` → 学校通知 ⭐
+
 ## 2. 计算 inbox 路径 (Compute the inbox path)
 
 Transliterate the scenario topic to an ascii kebab-case slug:

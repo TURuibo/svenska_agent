@@ -39,10 +39,21 @@ genuinely new words per scenario (sv-scenario SKILL §3b).
 
 ### 3. Decide the type (if auto)
 
-If type is `auto`, pick the type that best fits the scenario:
-- Transactional situations (buying, asking, ordering) → `dialog`
-- Written documents (emails, notices, signs, menus, SMS) → `text`
-- Personal experience, anecdote, narrative → `story`
+First consult the **national-test genre catalog in sv-scenario SKILL §2a** — it maps every genre to a
+type, CEFR band and delprov. If type is `auto`, pick the type that best fits the scenario:
+- Transactional / service / interview / discussion situations → `dialog`
+  (vardagssamtal, telefonsamtal, **arbetsintervju**, **diskussion/debatt**, muntlig presentation)
+- Written functional / informational / formal / argumentative documents → `text`
+  (**anslag/samhällsinformation**, **skolinfo till vårdnadshavare**, **grannforum-inlägg**, meddelande,
+  brev/mejl, inbjudan, annons, schema, instruktion, notis/nyhetsartikel, **insändare, debattinlägg,
+  krönika, recension, referat, faktatext, felanmälan, formellt brev**)
+- Personal experience, narrative, self-presentation → `story` (berättelse, monolog)
+
+**Register (SKILL §2c):** formal/argumentative genres (insändare, debattinlägg, formellt brev, referat,
+felanmälan) use a polite, written, B1–B2 register with clear structure (tes/ärende → argument/innehåll →
+avslutning/signatur) — do NOT flatten them to A1. Functional notices/ads/schemas stay terse at A2.
+For **non-running text** (blankett, schema, diagram) follow SKILL §2b: render fields + instruction lines,
+and only put complete instruction sentences in `sentences:`.
 
 ### 4. Generate the Swedish text
 

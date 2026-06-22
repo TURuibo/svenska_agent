@@ -169,11 +169,13 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 
 **云端版 (remote, 推荐用它替代本地)：** scenario 这条 routine 同样可放到 Claude Code on the web 定时 session
 （和 §4.6 阅读文章同一模式），桌面关着也能每天跑。**scenario 纯生成、不联网**，所以环境网络策略无所谓
-（开不开出站都行）。`/dagens-scenario` 不传参时会自己按 `day-of-year mod 14` 算主题号，routine 直接裸调即可。routine prompt：
+（开不开出站都行）。`/dagens-scenario` 不传参 = 批量模式：按 `OFFSET = day-of-year mod 7` **一次生成当天 5 篇**
+（一周一轮覆盖全部 35 个体裁；stride-7 选取保证每天跨难度跨 type；详见命令文件 §1 与 sv-scenario 技能 §2 体裁目录），
+routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，routine 无需改动**。routine prompt：
 ```
 在 remote 环境里生成今日情景练习并入库：
-1. /dagens-scenario   （自动按 day-of-year 轮换 14 主题，不需联网）
-2. 对刚生成的 inbox/scenario-*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
+1. /dagens-scenario   （批量：按 day-of-year 生成当天 5 篇，一周轮完 35 体裁，不需联网）
+2. 对刚生成的**每一个** inbox/scenario-<date>-*.md（今天 5 篇）逐篇跑 /import（spawn librarian/importer 用前台，每篇等完整 manifest 再做下一篇）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 生成 slugs.json；`git add` 源文件 + slugs.json
    （**不要 add `site/kb-data.js`、`site/reading/reading-data.js` —— Action 会重建并提交**）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405 冲突按 §4.7 ④（merge origin/main → 重建数据文件 → push → 再 merge PR）
