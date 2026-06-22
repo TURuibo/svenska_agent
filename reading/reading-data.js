@@ -1,5 +1,5 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-22 20:42:01",
+  "generatedAt": "2026-06-22 20:59:11",
   "articles": [
     {
       "slug": "news-2026-06-22",
@@ -140,6 +140,34 @@ window.READING_DATA = {
       "itemTotal": 50,
       "body": "# Adjektiv + substantiv böjning — 2026-06-22 (Kläder)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-22-klader.md`\n导出块只含 words（精简种子，无 böjning）→ /import 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| Obestämd sg. | Bestämd sg. | Obestämd pl. | Bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en stor jacka | den stora jackan | stora jackor | de stora jackorna | 大夹克 |\n| en liten kjol | den lilla kjolen | små kjolar | de små kjolarna | 小裙子 |\n| en ny skjorta | den nya skjortan | nya skjortor | de nya skjortorna | 新衬衫 |\n| en gammal klänning | den gamla klänningen | gamla klänningar | de gamla klänningarna | 旧连衣裙 |\n| en vacker tröja | den vackra tröjan | vackra tröjor | de vackra tröjorna | 漂亮的毛衣 |\n| en snygg byxa | den snygga byxan | snygga byxor | de snygga byxorna | 时髦的裤子 |\n| en fin strumpa | den fina strumpan | fina strumpor | de fina strumporna | 精致的袜子 |\n| en mörk sko | den mörka skon | mörka skor | de mörka skorna | 深色的鞋 |\n| en ljus mössa | den ljusa mössan | ljusa mössor | de ljusa mössorna | 浅色的毛线帽 |\n| en röd halsduk | den röda halsduken | röda halsdukar | de röda halsdukarna | 红色围巾 |\n| en blå handske | den blåa handsken | blåa handskar | de blåa handskarna | 蓝色手套 |\n| en grön väska | den gröna väskan | gröna väskor | de gröna väskorna | 绿色包包 |\n| en gul kappa | den gula kappan | gula kappor | de gula kapporna | 黄色外套 |\n| en vit kostym | den vita kostymen | vita kostymer | de vita kostymerna | 白色西装 |\n| en svart blus | den svarta blusen | svarta blusar | de svarta blusarna | 黑色衬衣 |\n| en grå hatt | den gråa hatten | gråa hattar | de gråa hattarna | 灰色帽子 |\n| en brun uniform | den bruna uniformen | bruna uniformer | de bruna uniformerna | 棕色制服 |\n| en lång rock | den långa rocken | långa rockar | de långa rockarna | 长款大衣 |\n| ett kort bälte | det korta bältet | korta bälten | de korta bältena | 短腰带 |\n| ett brett plagg | det breda plagget | breda plagg | de breda plaggen | 宽松的服装 |\n| ett smalt tyg | det smala tyget | smala tyger | de smala tygerna | 窄幅布料 |\n| ett tjockt linne | det tjocka linnet | tjocka linnen | de tjocka linnena | 厚的背心 |\n| ett tunt smycke | det tunna smycket | tunna smycken | de tunna smyckena | 细的饰品 |\n| ett enkelt par | det enkla paret | enkla par | de enkla paren | 简单的一双 |\n| ett elegant märke | det eleganta märket | eleganta märken | de eleganta märkena | 优雅的品牌 |\n\n## 导入块（words only · 精简种子）",
       "searchText": "adjsubst-2026-06-22-klader adjektiv + substantiv böjning — 2026-06-22 (kläder) # adjektiv + substantiv böjning — 2026-06-22 (kläder)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-22-klader.md`\n导出块只含 words（精简种子，无 böjning）→ /import 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| obestämd sg. | bestämd sg. | obestämd pl. | bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en stor jacka | den stora jackan | stora jackor | de stora jackorna | 大夹克 |\n| en liten kjol | den lilla kjolen | små kjolar | de små kjolarna | 小裙子 |\n| en ny skjorta | den nya skjortan | nya skjortor | de nya skjortorna | 新衬衫 |\n| en gammal klänning | den gamla klänningen | gamla klänningar | de gamla klänningarna | 旧连衣裙 |\n| en vacker tröja | den vackra tröjan | vackra tröjor | de vackra tröjorna | 漂亮的毛衣 |\n| en snygg byxa | den snygga byxan | snygga byxor | de snygga byxorna | 时髦的裤子 |\n| en fin strumpa | den fina strumpan | fina strumpor | de fina strumporna | 精致的袜子 |\n| en mörk sko | den mörka skon | mörka skor | de mörka skorna | 深色的鞋 |\n| en ljus mössa | den ljusa mössan | ljusa mössor | de ljusa mössorna | 浅色的毛线帽 |\n| en röd halsduk | den röda halsduken | röda halsdukar | de röda halsdukarna | 红色围巾 |\n| en blå handske | den blåa handsken | blåa handskar | de blåa handskarna | 蓝色手套 |\n| en grön väska | den gröna väskan | gröna väskor | de gröna väskorna | 绿色包包 |\n| en gul kappa | den gula kappan | gula kappor | de gula kapporna | 黄色外套 |\n| en vit kostym | den vita kostymen | vita kostymer | de vita kostymerna | 白色西装 |\n| en svart blus | den svarta blusen | svarta blusar | de svarta blusarna | 黑色衬衣 |\n| en grå hatt | den gråa hatten | gråa hattar | de gråa hattarna | 灰色帽子 |\n| en brun uniform | den bruna uniformen | bruna uniformer | de bruna uniformerna | 棕色制服 |\n| en lång rock | den långa rocken | långa rockar | de långa rockarna | 长款大衣 |\n| ett kort bälte | det korta bältet | korta bälten | de korta bältena | 短腰带 |\n| ett brett plagg | det breda plagget | breda plagg | de breda plaggen | 宽松的服装 |\n| ett smalt tyg | det smala tyget | smala tyger | de smala tygerna | 窄幅布料 |\n| ett tjockt linne | det tjocka linnet | tjocka linnen | de tjocka linnena | 厚的背心 |\n| ett tunt smycke | det tunna smycket | tunna smycken | de tunna smyckena | 细的饰品 |\n| ett enkelt par | det enkla paret | enkla par | de enkla paren | 简单的一双 |\n| ett elegant märke | det eleganta märket | eleganta märken | de eleganta märkena | 优雅的品牌 |\n\n## 导入块（words only · 精简种子）"
+    },
+    {
+      "slug": "scenario-2026-06-22-en-dag-pa-midsommar",
+      "file": "scenario-2026-06-22-en-dag-pa-midsommar.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "scenario",
+      "kindLabel": {
+        "zh": "情景练习",
+        "en": "scenario"
+      },
+      "title": "En dag på midsommar — 仲夏节的一天",
+      "cefr": "A2",
+      "date": "2026-06-22",
+      "theme": "story",
+      "source": "",
+      "path": "imported/scenario-2026-06-22-en-dag-pa-midsommar.md",
+      "counts": {
+        "words": 21,
+        "phrases": 7,
+        "sentences": 23,
+        "grammar": 4
+      },
+      "itemTotal": 55,
+      "body": "# En dag på midsommar — 仲夏节的一天\n\n**类型 (type):** story\n**CEFR 估计:** A2–B1\n**生成日期:** 2026-06-22\n\n---\n\n## 瑞典语原文\n\nDet är midsommarafton. Emma vaknar tidigt. Solen skiner redan.\n\nPå morgonen går Emma och hennes familj ut i ängen. De plockar blommor och gröna kvistar. Emma gör en blomsterkrans och sätter den på huvudet.\n\nSedan klär de midsommarstången med blommor och löv. Hela byn samlas. Tillsammans reser de stången. Det tar tid, men till slut står den rakt.\n\nAlla dansar runt stången och sjunger \"Små grodorna\". Barnen hoppar och skrattar.\n\nTill lunch äter de sill med färskpotatis och gräddfil. Pappa skålar med snaps. Det smakar gott!\n\nPå eftermiddagen börjar det regna. Men ingen bryr sig. Midsommar är midsommar.\n\nPå kvällen plockar Emma sju sorters blommor. Hon lägger dem under kudden. Kanske drömmer hon om sin framtida kärlek.\n\nNatten är ljus. Klockan är nästan midnatt, men himlen är fortfarande blå.\n\n---\n\n## 🇨🇳 全文翻译\n\n仲夏节前夕到了。爱玛一大早就醒来了。太阳已经在照耀。\n\n早上，爱玛和她的家人走进草地。他们采摘鲜花和绿色的小树枝。爱玛做了一个花环，戴在头上。\n\n接着，他们用花朵和树叶装饰仲夏节花柱。全村的人聚集在一起。大家一起把花柱立起来。这需要一些时间，但最终花柱笔直地矗立着。\n\n所有人都围着花柱跳舞，唱着《小青蛙》。孩子们又蹦又跳，笑声不断。\n\n午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。爸爸举起小酒杯干杯。味道真好！\n\n下午开始下雨了。但没有人在意。仲夏就是仲夏。\n\n傍晚，爱玛采了七种花。她把花放在枕头下面。也许她会梦见自己未来的爱人。\n\n夜晚是明亮的。快到午夜了，但天空依然是蓝色的。\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **blomsterkrans**（花环）= `blomster`（花，诗意形式）+ `krans`（环形物）。瑞典仲夏节女生戴花环是标志性传统。单词 `krans` 是 en-词，复数 `kransar`。\n\n⚠️ **klä ... med**（用…装饰）是固定搭配：*klä stången med blommor*（用花装饰花柱）。注意不要用 *dekorera*——瑞典人描述仲夏节装饰时用 *klä*，更地道。\n\n📐 **till slut / sedan / på kvällen** — 故事中用这些时间状语词组推进叙事。当它们放在句首时，动词仍须紧跟主语之前（V2 语序）：*Till slut **står** den rakt*（最终它笔直地立着）。\n\n📌 **skåla** — 干杯的动词。*Pappa skålar med snaps* = 爸爸用 snaps 干杯。瑞典仲夏传统中 snaps（一小杯烈酒）配腌鲱鱼是固定组合，常伴有饮酒歌（snapsvisor）。\n\n---",
+      "searchText": "scenario-2026-06-22-en-dag-pa-midsommar en dag på midsommar — 仲夏节的一天 # en dag på midsommar — 仲夏节的一天\n\n**类型 (type):** story\n**cefr 估计:** a2–b1\n**生成日期:** 2026-06-22\n\n---\n\n## 瑞典语原文\n\ndet är midsommarafton. emma vaknar tidigt. solen skiner redan.\n\npå morgonen går emma och hennes familj ut i ängen. de plockar blommor och gröna kvistar. emma gör en blomsterkrans och sätter den på huvudet.\n\nsedan klär de midsommarstången med blommor och löv. hela byn samlas. tillsammans reser de stången. det tar tid, men till slut står den rakt.\n\nalla dansar runt stången och sjunger \"små grodorna\". barnen hoppar och skrattar.\n\ntill lunch äter de sill med färskpotatis och gräddfil. pappa skålar med snaps. det smakar gott!\n\npå eftermiddagen börjar det regna. men ingen bryr sig. midsommar är midsommar.\n\npå kvällen plockar emma sju sorters blommor. hon lägger dem under kudden. kanske drömmer hon om sin framtida kärlek.\n\nnatten är ljus. klockan är nästan midnatt, men himlen är fortfarande blå.\n\n---\n\n## 🇨🇳 全文翻译\n\n仲夏节前夕到了。爱玛一大早就醒来了。太阳已经在照耀。\n\n早上，爱玛和她的家人走进草地。他们采摘鲜花和绿色的小树枝。爱玛做了一个花环，戴在头上。\n\n接着，他们用花朵和树叶装饰仲夏节花柱。全村的人聚集在一起。大家一起把花柱立起来。这需要一些时间，但最终花柱笔直地矗立着。\n\n所有人都围着花柱跳舞，唱着《小青蛙》。孩子们又蹦又跳，笑声不断。\n\n午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。爸爸举起小酒杯干杯。味道真好！\n\n下午开始下雨了。但没有人在意。仲夏就是仲夏。\n\n傍晚，爱玛采了七种花。她把花放在枕头下面。也许她会梦见自己未来的爱人。\n\n夜晚是明亮的。快到午夜了，但天空依然是蓝色的。\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **blomsterkrans**（花环）= `blomster`（花，诗意形式）+ `krans`（环形物）。瑞典仲夏节女生戴花环是标志性传统。单词 `krans` 是 en-词，复数 `kransar`。\n\n⚠️ **klä ... med**（用…装饰）是固定搭配：*klä stången med blommor*（用花装饰花柱）。注意不要用 *dekorera*——瑞典人描述仲夏节装饰时用 *klä*，更地道。\n\n📐 **till slut / sedan / på kvällen** — 故事中用这些时间状语词组推进叙事。当它们放在句首时，动词仍须紧跟主语之前（v2 语序）：*till slut **står** den rakt*（最终它笔直地立着）。\n\n📌 **skåla** — 干杯的动词。*pappa skålar med snaps* = 爸爸用 snaps 干杯。瑞典仲夏传统中 snaps（一小杯烈酒）配腌鲱鱼是固定组合，常伴有饮酒歌（snapsvisor）。\n\n---"
     },
     {
       "slug": "scenario-2026-06-21-handla-i-mataffaren",
@@ -1235,6 +1263,23 @@ window.READING_DATA = {
         "andats"
       ],
       "body": "# andas — verb (grupp 1, deponens)\n\n📖 中文：呼吸 · English: to breathe\n发音提示：AN-das；两音节，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att andas |\n| Presens | andas |\n| Preteritum | andades |\n| Supinum | (har) andats |\n\n注意：`andas` 是**反身动词（deponensverb）**，形式带 -s 但意义是主动的。\n\n## 词组搭配 (Collocations)\n\n- `andas ut` — 呼气；松一口气（比喻）→ see [[andas-ut]]\n- `andas in` — 吸气\n- `andas frisk luft` — 呼吸新鲜空气\n- `inte kunna andas` — 无法呼吸\n\n## 例句 (Sentences)\n\n- 🇸🇪 Äntligen kunde jag **andas** ut. — 🇨🇳 终于，我可以松一口气了。\n- 🇸🇈 Kom ut och **andas** frisk luft! — 🇨🇳 出来呼吸新鲜空气吧！\n- 🇸🇈 Djup**andas** tre gånger för att slappna av. — 🇨🇳 深呼吸三次来放松。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[andetag]] (ett, 一口气/呼吸), [[andning]] (en, 呼吸/呼吸作用)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]], [[topic-vardagsrutin]]\n\n## 用法提示 (Usage Notes)\n\n- `andas ut`（字面：呼出气）= 比喻放下心来/松一口气，非常自然的表达。\n- 作为 deponensverb，`andas` 的所有形式都带 `-s`，但意义是主动的，不是被动的。\n- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]"
+    },
+    {
+      "slug": "äng",
+      "lemma": "äng",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "草地；牧场",
+      "en": "meadow",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "äng",
+        "ängen",
+        "ängar",
+        "ängarna"
+      ],
+      "body": "# äng — substantiv\n\n📖 中文：草地；牧场 · English: meadow\n发音提示：[ɛŋ]，单音节，短元音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en äng |\n| bestämd singular | ängen |\n| obestämd plural | ängar |\n| bestämd plural | ängarna |\n\n## 词组搭配 (Collocations)\n\n- `gå ut i ängen` — 走进草地\n- `blomsteräng` — 野花草地（复合词）\n- `plocka blommor i ängen` — 在草地上采花\n\n## 例句 (Sentences)\n\n- 🇸🇪 På morgonen går Emma och hennes familj ut i ängen. — 🇨🇳 早上，爱玛和她的家人走进草地。\n- 🇸🇪 Ängen är full av vilda blommor på sommaren. — 🇨🇳 草地上在夏天开满了野花。\n- 🇸🇪 Vi sitter i ängen och tittar på molnen. — 🇨🇳 我们坐在草地上看云。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[blomsteräng]]\n- 同义词: [[gräsmatta]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典仲夏节最常见的场景词：全家走进 ängen 采花、装饰仲夏柱\n- 与 gräsmatta（人工草坪）区分：äng 是天然野生草地，常有野花"
     },
     {
       "slug": "animerad",
@@ -2476,6 +2521,23 @@ window.READING_DATA = {
         "blommorna"
       ],
       "body": "# blomma — substantiv (en)\n\n📖 中文：花；花朵 · English: flower\n发音提示：/ˈblɔma/\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| singular obestämd | en blomma |\n| singular bestämd | blomman |\n| plural obestämd | blommor |\n| plural bestämd | blommorna |\n\n## 词组搭配 (Collocations)\n\n- `plocka blommor` — 采花\n- `vårblommor` — 春花\n- `ge blommor` — 送花\n- `sticker upp ur marken` — 从土里冒出来（春花常见表达）\n\n## 例句 (Sentences)\n\n- 🇸🇪 De första blommorna sticker upp ur marken. — 🇨🇳 最早的花朵从土里冒出来。 → [[sent-faglarna-sjunger-och-de-forsta]]\n- 🇸🇪 Jag köpte en blomma till min mamma. — 🇨🇳 我给妈妈买了一朵花。\n- 🇸🇪 Blommorna i parken är vackra på sommaren. — 🇨🇳 夏天公园里的花很漂亮。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: blomning（开花，名词），blommig（花纹的）\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- 复数 *blommor*（-a 结尾变 -or）。\n- 在瑞典，春天第一批花（如 vitsippa 银莲花、krokus 番红花）是春天到来的象征。"
+    },
+    {
+      "slug": "blomsterkrans",
+      "lemma": "blomsterkrans",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "花环",
+      "en": "flower wreath",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "blomsterkrans",
+        "blomsterkransen",
+        "blomsterkransar",
+        "blomsterkransarna"
+      ],
+      "body": "# blomsterkrans — substantiv\n\n📖 中文：花环 · English: flower wreath\n发音提示：[ˈblɔmstɛrkrans]，blomster + krans 复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en blomsterkrans |\n| bestämd singular | blomsterkransen |\n| obestämd plural | blomsterkransar |\n| bestämd plural | blomsterkransarna |\n\n## 词组搭配 (Collocations)\n\n- `göra en blomsterkrans` — 做一个花环\n- `sätta blomsterkransen på huvudet` — 把花环戴在头上\n- `bära blomsterkrans` — 戴花环\n\n## 例句 (Sentences)\n\n- 🇸🇪 Emma gör en blomsterkrans och sätter den på huvudet. — 🇨🇳 爱玛做了一个花环，戴在头上。\n- 🇸🇪 På midsommar bär många flickor blomsterkrans. — 🇨🇳 在仲夏节，许多女孩戴着花环。\n- 🇸🇪 Jag vill göra en blomsterkrans av sju sorters blommor. — 🇨🇳 我想用七种花做一个花环。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[krans]] · [[blomma]]\n- 同义词: [[krans]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：blomster（花朵的诗意形式）+ krans（环）\n- 仲夏节标志性装饰：女孩和女性头戴用野花编成的花环\n- blomsterkrans 特指花环；krans 更通用（也可指圣诞花环等）"
     },
     {
       "slug": "blöt",
@@ -4102,6 +4164,23 @@ window.READING_DATA = {
       "body": "# färsk — adjektiv\n\n📖 中文：新鲜的；刚出炉的 · English: fresh\n发音提示：FERSK\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| utrum singular | färsk |\n| neutrum singular | färskt |\n| plural/definite | färska |\n\n## 词组搭配 (Collocations)\n\n- `färska kanelbullar` — 新鲜肉桂卷\n- `färsk mat` — 新鲜食物\n- `färskt bröd` — 新鲜面包\n- `nyfärskt` — 非常新鲜\n\n## 例句 (Sentences)\n\n- 🇸🇪 Men vi har färska kanelbullar och kardemummabullar. — 🇨🇳 不过我们有新鲜的肉桂卷和小豆蔻卷。\n- 🇸🇪 Det finns ingenting bättre än färskt bröd. — 🇨🇳 没什么比新鲜面包更好的了。\n- 🇸🇪 Är frukterna färska? — 🇨🇳 水果新鲜吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: gammal (旧的), inaktuell (过时的)\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- *Färsk* = 新鲜的（食物），也可形容 *färsk student* = 刚毕业的学生（新鲜出炉）。"
     },
     {
+      "slug": "färskpotatis",
+      "lemma": "färskpotatis",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "新鲜小土豆",
+      "en": "new potatoes",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "färskpotatis",
+        "färskpotatisen",
+        "färskpotatisar",
+        "färskpotatisarna"
+      ],
+      "body": "# färskpotatis — substantiv\n\n📖 中文：新鲜小土豆 · English: new potatoes\n发音提示：[ˈfærskpʊˌtɑːtɪs]，färsk + potatis 复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en färskpotatis |\n| bestämd singular | färskpotatisen |\n| obestämd plural | färskpotatisar (少用) / färskpotatis (常用集合名词) |\n| bestämd plural | färskpotatisarna |\n\n## 词组搭配 (Collocations)\n\n- `sill med färskpotatis` — 腌鲱鱼配新鲜小土豆（仲夏传统菜）\n- `kokt färskpotatis` — 煮新鲜小土豆\n- `färskpotatis med dill` — 配莳萝的新鲜小土豆\n- `färskpotatis och gräddfil` — 新土豆配酸奶油\n\n## 例句 (Sentences)\n\n- 🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil. — 🇨🇳 午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。\n- 🇸🇪 Färskpotatis smakar bäst med smör och dill. — 🇨🇳 新鲜小土豆配黄油和莳萝味道最好。\n- 🇸🇪 På midsommar äter vi alltid färskpotatis. — 🇨🇳 仲夏节我们总是吃新鲜小土豆。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[potatis]] · [[färsk]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：färsk（新鲜的）+ potatis（土豆）\n- 仲夏节传统菜单：sill（腌鲱鱼）+ färskpotatis + gräddfil（酸奶油）是标配\n- 通常是春夏季早期收获的小土豆，皮薄嫩，不去皮直接煮"
+    },
+    {
       "slug": "fartyg",
       "lemma": "fartyg",
       "ordklass": "substantiv",
@@ -5584,6 +5663,21 @@ window.READING_DATA = {
         "grädden"
       ],
       "body": "# grädde — substantiv (en)\n\n📖 中文：奶油；鲜奶油 · English: cream\n发音提示：/ˈɡrɛdə/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | en grädde / grädde |\n| Sg bestämd | grädden |\n| Pl obestämd | — （通常不可数）|\n\n## 词组搭配 (Collocations)\n\n- `utan grädde` — 不加奶油 → [[laktos]]\n- `vispgrädde` — 打发鲜奶油（whipped cream）\n- `gräddfil` — 酸奶油（sour cream）\n- `en rätt med grädde` — 一道含奶油的菜\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan ni göra rätten utan grädde? — 🇨🇳 能做成不加奶油的吗？\n- 🇸🇪 Soppan innehåller grädde — den är inte laktosfri. — 🇨🇳 汤里有奶油——不是无乳糖的。\n- 🇸🇪 Jag vill ha kaffe med lite grädde. — 🇨🇳 我想要加一点奶油的咖啡。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: vispgrädde（打发奶油），gräddfil（酸奶油），laktosfri（无乳糖）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- *grädde* 含乳糖，乳糖不耐的人需要无乳糖版本 → [[laktos]], [[tåla]]\n- *utan grädde* 是餐厅中请求特殊饮食的常用说法"
+    },
+    {
+      "slug": "gräddfil",
+      "lemma": "gräddfil",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "酸奶油",
+      "en": "sour cream",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "gräddfil",
+        "gräddfilen"
+      ],
+      "body": "# gräddfil — substantiv\n\n📖 中文：酸奶油 · English: sour cream\n发音提示：[ˈgrɛdˌfiːl]，grädde + fil 复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en gräddfil |\n| bestämd singular | gräddfilen |\n| obestämd plural | (通常不可数，单数使用) |\n| bestämd plural | — |\n\n## 词组搭配 (Collocations)\n\n- `sill med gräddfil` — 鲱鱼配酸奶油\n- `potatis med gräddfil` — 土豆配酸奶油\n- `en klick gräddfil` — 一勺酸奶油\n- `gräddfil och lök` — 酸奶油和洋葱（常见搭配）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Till lunch äter de sill med färskpotatis och gräddfil. — 🇨🇳 午餐时，大家吃腌鲱鱼配新鲜土豆和酸奶油。\n- 🇸🇪 Vill du ha gräddfil till potatisen? — 🇨🇳 你要酸奶油配土豆吗？\n- 🇸🇪 Gräddfil är vanlig i det svenska köket. — 🇨🇳 酸奶油在瑞典厨房很常见。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[grädde]] · [[mjölk]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：grädde（奶油）+ fil（发酵乳/酸奶）\n- 瑞典仲夏节经典配料，与 sill 和 färskpotatis 是黄金组合\n- 类似英语 sour cream，但比一般酸奶油更浓稠"
     },
     {
       "slug": "granne",
@@ -7312,6 +7406,21 @@ window.READING_DATA = {
       "body": "# kardemummate — substantiv (ett)\n\n📖 中文：小豆蔻茶 · English: cardamom tea\n发音提示：kar-deh-MUM-mah-teh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett kardemummate |\n| bestämd singular | kardemummatet |\n| obestämd plural | kardemummateer |\n| bestämd plural | kardemummateerna |\n\n## 词组搭配 (Collocations)\n\n- `en kopp kardemummate` — 一杯小豆蔻茶\n- `varmt kardemummate` — 热小豆蔻茶\n\n## 例句 (Sentences)\n\n- 🇸🇪 Har ni kardemummate? Det är jättepopulärt! — 🇨🇳 你们有小豆蔻茶吗？那很受欢迎！\n- 🇸🇪 Jag provar kardemummatet för första gången. — 🇨🇳 我第一次尝试小豆蔻茶。\n- 🇸🇪 Kardemummate passar bra med en bulle. — 🇨🇳 小豆蔻茶配面包卷很好喝。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[te]] (茶), kardemumma (小豆蔻), [[kardemummabulle]]\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansättning: kardemumma (小豆蔻) + te (茶)。在北欧咖啡馆中越来越流行。"
     },
     {
+      "slug": "kärlek",
+      "lemma": "kärlek",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "爱；爱情",
+      "en": "love",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "kärlek",
+        "kärleken"
+      ],
+      "body": "# kärlek — substantiv\n\n📖 中文：爱；爱情 · English: love\n发音提示：[ˈçærleːk]，两音节，k- 在前元音前发 [ç]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en kärlek |\n| bestämd singular | kärleken |\n| obestämd plural | (通常不可数) |\n| bestämd plural | — |\n\n## 词组搭配 (Collocations)\n\n- `sin framtida kärlek` — 未来的爱人（仲夏节传说）\n- `kärlek vid första ögonkastet` — 一见钟情\n- `kärlek och vänskap` — 爱与友情\n- `full av kärlek` — 充满爱\n- `familjekärlek` — 家庭之爱\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kanske drömmer hon om sin framtida kärlek. — 🇨🇳 也许她会梦见自己未来的爱人。\n- 🇸🇪 Kärlek är det viktigaste i livet. — 🇨🇳 爱是生命中最重要的事。\n- 🇸🇪 Han är full av kärlek till sin familj. — 🇨🇳 他对家人充满爱。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[älska]] · [[kär]]\n- 同义词:\n- 反义词: [[hat]]\n- 主题: [[topic-midsommar-traditioner]] · [[topic-social-kontakt]]\n\n## 用法提示 (Usage Notes)\n\n- kärlek 通常作不可数名词，表示爱/爱情这种情感\n- sin framtida kärlek = 未来的爱人（kärlek 这里指\"爱的对象\"）\n- 仲夏节传说：女孩睡前在枕下放七种花，会梦见未来的爱人"
+    },
+    {
       "slug": "kärnvapen",
       "lemma": "kärnvapen",
       "ordklass": "substantiv",
@@ -7462,6 +7571,23 @@ window.READING_DATA = {
         "kjolarna"
       ],
       "body": "# kjol — substantiv (en-ord)\n\n📖 中文：裙子 · English: skirt\n发音提示：/çuːl/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en kjol | kjolen |\n| plural | kjolar | kjolarna |\n\n## 词组搭配 (Collocations)\n\n- `lång kjol` — 长裙\n- `kort kjol` — 短裙\n- `en blommig kjol` — 一条有花纹的裙子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"kjol\" avser specifikt kjol (skirt), inte klänning (dress).\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
+    },
+    {
+      "slug": "klä",
+      "lemma": "klä",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "装饰；穿戴",
+      "en": "to dress; to decorate",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "klä",
+        "klär",
+        "klädde",
+        "klätt"
+      ],
+      "body": "# klä — verb\n\n📖 中文：装饰；穿戴 · English: to dress; to decorate\n发音提示：[kleː]，长元音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | klä |\n| presens | klär |\n| preteritum | klädde |\n| supinum | klätt |\n| imperativ | klä! |\n\n## 词组搭配 (Collocations)\n\n- `klä ... med blommor` — 用花装饰…\n- `klä stången` — 装饰仲夏柱\n- `klä på sig` — 穿衣服（自身）→ 见 [[klä-på-sig]]\n- `klä av sig` — 脱衣服\n- `klä sig i` — 穿着…打扮\n- `klä julgranen` — 装饰圣诞树\n\n## 例句 (Sentences)\n\n**义项1 装饰 (decorate):**\n- 🇸🇪 Sedan klär de midsommarstången med blommor och löv. — 🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。\n- 🇸🇪 Vi klär julgranen med kulor och ljus. — 🇨🇳 我们用球和灯装饰圣诞树。\n\n**义项2 穿衣 (dress):**\n- 🇸🇪 Hon klär sig i en röd klänning till midsommar. — 🇨🇳 她穿着红色裙子参加仲夏节。\n- 🇸🇪 Klä på dig! Det är kallt ute. — 🇨🇳 穿上衣服！外面很冷。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kläder]] · [[klädsel]]\n- 同义词: [[dekorera]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- klä ... med = 用…来装饰某物（他动）\n- klä på sig = 穿上衣服（自身动作，反身）\n- klä sig i = 穿着某种服装（描述装束）"
     },
     {
       "slug": "klädskåp",
@@ -8113,6 +8239,23 @@ window.READING_DATA = {
       "body": "# kramgo — adjektiv\n\n📖 中文：爱抱抱的；亲人的；惹人搂抱的 · English: cuddly; affectionate; huggable\n发音提示：/ˈkramɡuː/\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| en-form (grundform) | kramgo |\n| ett-form | kramgott |\n| plural / bestämd | kramgoa / kramgoda |\n| komparativ | mer kramgo |\n| superlativ | mest kramgo |\n\n## 词组搭配 (Collocations)\n\n- `en kramgo hund` — 一只爱抱抱的狗\n- `vara kramgo` — 很亲人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vår katt är väldigt kramgo. — 🇨🇳 我们的猫非常爱抱抱。\n- 🇸🇪 Barnet var så kramgott att man bara ville krama det. — 🇨🇳 那孩子太可爱了，让人忍不住想抱。\n- 🇸🇪 Björnar ser kramgoa ut men är farliga. — 🇨🇳 熊看起来很萌很想抱，但其实很危险。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: kram (拥抱, substantiv)\n- 同义词: [[mysig]] (温馨的), [[gullig]] (可爱的)\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- `kramgo` 是口语俚语词，多用于描述动物（尤其是宠物）或可爱的小孩。\n- 组合词：kram (抱抱) + go (好的/善良的)，字面义\"抱起来好\"。"
     },
     {
+      "slug": "krans",
+      "lemma": "krans",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "环；花环",
+      "en": "wreath; garland",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "krans",
+        "kransen",
+        "kransar",
+        "kransarna"
+      ],
+      "body": "# krans — substantiv\n\n📖 中文：环；花环 · English: wreath; garland\n发音提示：[krans]，短促有力\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en krans |\n| bestämd singular | kransen |\n| obestämd plural | kransar |\n| bestämd plural | kransarna |\n\n## 词组搭配 (Collocations)\n\n- `blomsterkrans` — 花环（复合词）\n- `julkrans` — 圣诞花环\n- `lagerkrans` — 月桂花环（荣誉象征）\n- `sätta en krans på dörren` — 在门上挂花环\n\n## 例句 (Sentences)\n\n- 🇸🇪 De lägger en krans av blommor på graven. — 🇨🇳 他们在墓前放了一个花圈。\n- 🇸🇪 En blomsterkrans är en krans gjord av blommor. — 🇨🇳 花环是用花做的环。\n- 🇸🇪 På julafton hänger vi en krans på dörren. — 🇨🇳 在圣诞夜，我们在门上挂花环。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[blomsterkrans]]\n- 同义词: [[blomsterkrans]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- krans 是通用词，指任何环形装饰物\n- blomsterkrans 特指花朵编成的花环（仲夏节）\n- lagerkrans 指用月桂叶编的荣誉冠（古希腊/罗马传统）"
+    },
+    {
       "slug": "kreativ",
       "lemma": "kreativ",
       "ordklass": "adjektiv",
@@ -8410,6 +8553,23 @@ window.READING_DATA = {
         "kvinnorna"
       ],
       "body": "# kvinna — substantiv (en)\n\n📖 中文：女人 · English: woman\n发音提示：/ˈkvɪna/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd sg. | en kvinna |\n| Bestämd sg. | kvinnan |\n| Obestämd pl. | kvinnor |\n| Bestämd pl. | kvinnorna |\n\n## 词组搭配 (Collocations)\n\n- `en vänlig kvinna` — 一位友好的女人\n- `en ung kvinna` — 一位年轻女性\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[dam]]\n- 反义词: [[man]]\n- 主题: [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 规则 en-ord 变形：kvinna / kvinnan / kvinnor / kvinnorna"
+    },
+    {
+      "slug": "kvist",
+      "lemma": "kvist",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "小树枝",
+      "en": "twig; sprig",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "kvist",
+        "kvisten",
+        "kvistar",
+        "kvistarna"
+      ],
+      "body": "# kvist — substantiv\n\n📖 中文：小树枝 · English: twig; sprig\n发音提示：[kvɪst]，kv- 开头，注意双辅音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en kvist |\n| bestämd singular | kvisten |\n| obestämd plural | kvistar |\n| bestämd plural | kvistarna |\n\n## 词组搭配 (Collocations)\n\n- `gröna kvistar` — 绿色的小树枝（仲夏节装饰）\n- `björkkvist` — 白桦枝（仲夏常用）\n- `plocka kvistar` — 采树枝\n\n## 例句 (Sentences)\n\n- 🇸🇪 De plockar blommor och gröna kvistar. — 🇨🇳 他们采摘鲜花和绿色的小树枝。\n- 🇸🇪 Emma samlar kvistar till midsommarstången. — 🇨🇳 爱玛为仲夏柱收集小树枝。\n- 🇸🇪 Kvisten är liten men grön. — 🇨🇳 这根小树枝很小，但是绿色的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gren]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- kvist = 小枝（末端细枝）；gren = 较粗的树枝；trädstam = 树干\n- 仲夏节装饰中常用 gröna kvistar 与花朵一起编花环或装饰花柱"
     },
     {
       "slug": "kvitto",
@@ -9284,6 +9444,22 @@ window.READING_DATA = {
       "body": "# lösa — verb (grupp 2)\n\n📖 中文：解决；解开 · English: to solve; to resolve\n发音提示：LÖ-sah\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| infinitiv | lösa |\n| presens | löser |\n| preteritum | löste |\n| supinum | löst |\n| imperativ | lös! |\n\n## 词组搭配 (Collocations)\n\n- `det löser sig` — 会解决的（习语）\n- `lösa ett problem` — 解决问题\n- `lösa konflikten` — 化解冲突\n- `lösa upp` — 溶解；解开\n\n## 例句 (Sentences)\n\n- 🇸🇪 Men det löser sig. — 🇨🇳 不过会解决的。\n- 🇸🇪 Vi måste lösa det här problemet. — 🇨🇳 我们必须解决这个问题。\n- 🇸🇪 Löser du korsord? — 🇨🇳 你做填字游戏吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lösning (解决方案), lös (松散的/溶解的)\n- 同义词: klara av (完成), fixa (解决，口语)\n\n## 用法提示 (Usage Notes)\n\n- *Det löser sig* 是常用习语，表达乐观态度：事情会自己解决的。\n- *Lösa sig* = 自行解决；*lösa något* = 解决某事（需要主动努力）。"
     },
     {
+      "slug": "löv",
+      "lemma": "löv",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "叶子；树叶(统称)",
+      "en": "leaf; foliage",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "löv",
+        "lövet",
+        "löven"
+      ],
+      "body": "# löv — substantiv\n\n📖 中文：叶子；树叶(统称) · English: leaf; foliage\n发音提示：[løːv]，长元音 ö\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett löv |\n| bestämd singular | lövet |\n| obestämd plural | löv (同形) |\n| bestämd plural | löven |\n\n## 词组搭配 (Collocations)\n\n- `gröna löv` — 绿叶\n- `höstlöv` — 秋叶\n- `löven faller` — 树叶飘落\n- `klä med löv` — 用树叶装饰\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sedan klär de midsommarstången med blommor och löv. — 🇨🇳 接着，他们用花朵和树叶装饰仲夏节花柱。\n- 🇸🇪 På hösten är löven röda och gula. — 🇨🇳 秋天时，树叶变成红色和黄色。\n- 🇸🇪 Ett löv faller från trädet. — 🇨🇳 一片叶子从树上落下。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lövträd]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- ett löv (中性词)，复数同形：ett löv / löven\n- 注意：löv 常以集合名词使用（指一堆叶子）；单片叶子也用 ett löv\n- 与 nål（针叶）对比：lövträd（阔叶树）vs barrträd（针叶树）"
+    },
+    {
       "slug": "lova",
       "lemma": "lova",
       "ordklass": "verb",
@@ -9734,6 +9910,21 @@ window.READING_DATA = {
         "mest"
       ],
       "body": "# mest — adverb\n\n📖 中文：大部分；主要；最 · English: mostly; mainly; most\n发音提示：MEST\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad (superlativ av \"mycket\")\n\n## 词组搭配 (Collocations)\n\n- `var hemma mest` — 大部分时间在家\n- `mest av allt` — 最重要的是\n- `det är mest bra` — 大部分是好的\n- `vem gör mest?` — 谁做得最多？\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag var hemma mest, men på lördagen gick jag på konsert. — 🇨🇳 我大部分时间在家，不过周六去听了场音乐会。\n- 🇸🇪 Vad gillar du mest? — 🇨🇳 你最喜欢什么？\n- 🇸🇪 Det regnar mest på hösten. — 🇨🇳 秋天雨水最多。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mer (更多，比较级), mycket (很多，原级)\n- 同义词: huvudsakligen (主要地), till stor del (很大程度上)\n\n## 用法提示 (Usage Notes)\n\n- *Mest* 是 *mycket* 的最高级（superlativ），也可表示\"大部分时间/大多数情况下\"。"
+    },
+    {
+      "slug": "midnatt",
+      "lemma": "midnatt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "午夜",
+      "en": "midnight",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "midnatt",
+        "midnatten"
+      ],
+      "body": "# midnatt — substantiv\n\n📖 中文：午夜 · English: midnight\n发音提示：[ˈmɪdnat]，mitt（中间）+ natt（夜晚）复合词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en midnatt |\n| bestämd singular | midnatten |\n| obestämd plural | (通常单数) |\n| bestämd plural | — |\n\n## 词组搭配 (Collocations)\n\n- `vid midnatt` — 在午夜\n- `klockan tolv på natten` — 夜里十二点（=午夜）\n- `midnattsol` — 午夜太阳（北极夏天现象）\n- `nästan midnatt` — 快到午夜了\n\n## 例句 (Sentences)\n\n- 🇸🇪 Klockan är nästan midnatt, men himlen är fortfarande blå. — 🇨🇳 快到午夜了，但天空依然是蓝色的。\n- 🇸🇪 Vi dansar vid midnatt. — 🇨🇳 我们在午夜跳舞。\n- 🇸🇪 I Sverige på midsommar är det ljust vid midnatt. — 🇨🇳 在瑞典，仲夏节午夜时天仍然是亮的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[natt]] · [[middag]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-tid-och-tidsuttryck]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：mitt（中间）+ natt（夜晚）→ midnatt（午夜，夜晚的中间）\n- 类比：middag = 正午（天的中间）；midnatt = 午夜（夜的中间）\n- 瑞典仲夏：接近北极圈，夏至前后午夜天空仍然明亮（midnattsol 午夜阳光）"
     },
     {
       "slug": "midsommar",
@@ -12052,6 +12243,23 @@ window.READING_DATA = {
       "body": "# regn — substantiv (ett)\n\n📖 中文：雨 · English: rain\n发音提示：[reŋn]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett regn |\n| bestämd singular | regnet |\n| plural (obestämd) | regn |\n| plural (bestämd) | regnen |\n\n## 词组搭配 (Collocations)\n\n- `mycket regn` — 大雨\n- `lite regn` — 小雨\n- `det kan bli regn` — 可能下雨\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det kan bli åska och mycket regn i helgen. — 🇨🇳 周末可能有雷暴和大雨。\n- 🇸🇪 Det regnar ute, ta med paraply. — 🇨🇳 外面在下雨，带上雨伞。\n- 🇸🇪 Efter regnet kom solen fram. — 🇨🇳 雨后阳光出来了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: regna (下雨), regnig (雨天的), regnbåge (彩虹)\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- `det regnar` = 在下雨（动词 regna）；`regn` 是名词。\n- 关联词：[[väder]] (天气)、[[moln]] (云)、[[åska]] (雷暴)。\n- 来源: [[source-2026-06-19-nyheter-8sidor]]"
     },
     {
+      "slug": "regna",
+      "lemma": "regna",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "下雨",
+      "en": "to rain",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "regna",
+        "regnar",
+        "regnade",
+        "regnat"
+      ],
+      "body": "# regna — verb\n\n📖 中文：下雨 · English: to rain\n发音提示：[ˈrɛŋna]，两音节\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | regna |\n| presens | regnar |\n| preteritum | regnade |\n| supinum | regnat |\n| imperativ | — (天气动词无命令式) |\n\n## 词组搭配 (Collocations)\n\n- `det regnar` — 正在下雨（天气动词，必须用 det）\n- `det börjar regna` — 开始下雨了\n- `det regnar mycket` — 雨下得很大\n- `det regnar och blåser` — 又下雨又刮风\n\n## 例句 (Sentences)\n\n- 🇸🇪 På eftermiddagen börjar det regna. — 🇨🇳 下午开始下雨了。\n- 🇸🇪 Det regnar ofta på midsommar. — 🇨🇳 仲夏节经常下雨。\n- 🇸🇪 Det regnade hela dagen igår. — 🇨🇳 昨天下了一整天的雨。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[regn]] · [[regnig]] · [[regnbåge]]\n- 同义词:\n- 反义词: [[skina]]\n- 主题: [[topic-vader-och-arstider]] · [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- 天气动词必须搭配形式主语 det：det regnar（不能说 *regnar*）\n- 与中文\"下雨\"不同，瑞典语必须有主语 det\n- 仲夏节下雨是瑞典的老笑话：即使下雨，大家也不在意（Midsommar är midsommar!）"
+    },
+    {
       "slug": "rekommendera",
       "lemma": "rekommendera",
       "ordklass": "verb",
@@ -12102,6 +12310,24 @@ window.READING_DATA = {
         "renaste"
       ],
       "body": "# ren — adjektiv\n\n📖 中文：干净的、清洁的 · English: clean, pure\n发音提示：[reːn]\n\n## 语法变形 (Forms)\n\n| form | en-ord | ett-ord | plural / def |\n|------|--------|---------|--------------|\n| positiv | ren | rent | rena |\n| komparativ | renare | renare | renare |\n| superlativ | renast / renaste | renast | renaste |\n\n## 词组搭配 (Collocations)\n\n- `ren tallrik` — 干净的盘子 → see [[tallrik]]\n- `rent vatten` — 纯净水\n- `rena händer` — 干净的手\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: rengöra (清洁 v), renlighet (清洁度 n), rengöring (清洁)\n- 同义词: —\n- 反义词: smutsig（脏的）\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- ren 也可指\"纯粹的\"（ren tur = 纯粹的运气）。\n- [[grammar-adjektiv-bojning]]\n- 来源: [[source-2026-06-11-mat-dryck]]"
+    },
+    {
+      "slug": "resa",
+      "lemma": "resa",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "立起；旅行",
+      "en": "to raise; to travel",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "resa",
+        "reser",
+        "reste",
+        "rest",
+        "res"
+      ],
+      "body": "# resa — verb\n\n📖 中文：立起；旅行 · English: to raise; to travel\n发音提示：[ˈreːsa]，两音节，重音在前\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | resa |\n| presens | reser |\n| preteritum | reste |\n| supinum | rest |\n| imperativ | res! |\n\n## 词组搭配 (Collocations)\n\n- `resa stången` — 立起花柱（仲夏节）\n- `resa utomlands` — 出国旅行\n- `resa till Sverige` — 去瑞典旅行\n- `resa sig` — 站起来（反身）\n\n## 例句 (Sentences)\n\n**义项1 立起 (raise/erect):**\n- 🇸🇪 Tillsammans reser de stången. — 🇨🇳 大家一起把花柱立起来。\n- 🇸🇪 Vi reser flaggan varje morgon. — 🇨🇳 我们每天早上把旗子升起来。\n\n**义项2 旅行 (travel):**\n- 🇸🇪 Hon reser till Stockholm varje vecka. — 🇨🇳 她每周去斯德哥尔摩。\n- 🇸🇪 Vi vill resa till Japan nästa sommar. — 🇨🇳 我们想明年夏天去日本旅行。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[resenär]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- 两个主要义项：(1) 立起/竖起某物 (resa stången); (2) 旅行 (resa till X)\n- resa sig = 站起来（非他动用法）\n- resa 也作名词：en resa（一次旅行）"
     },
     {
       "slug": "reservera",
@@ -12974,6 +13200,24 @@ window.READING_DATA = {
       "body": "# sjukdom — substantiv (en)\n\n📖 中文：疾病 · English: disease, illness\n发音提示：/ˈɧʉːkdɔmː/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Grundform (obestämd singular) | en sjukdom |\n| Bestämd singular | sjukdomen |\n| Obestämd plural | sjukdomar |\n| Bestämd plural | sjukdomarna |\n\n## 词组搭配 (Collocations)\n\n- `kronisk sjukdom` — 慢性病\n- `smittsam sjukdom` — 传染性疾病\n- `drabbas av sjukdom` — 患上疾病\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sjuk]], [[sjukhus]], [[sjuksköterska]]\n- 同义词:\n- 反义词: [[hälsa]]\n- 主题: [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- Sjukdom är ett substantiv (sjuk = adjektiv, sjukdom = noun). Sammansatt av sjuk + dom (suffix för tillstånd).\n- 来源: [[source-2026-06-17-kropp-halsa]]"
     },
     {
+      "slug": "sjunga",
+      "lemma": "sjunga",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "唱歌",
+      "en": "to sing",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "sjunga",
+        "sjunger",
+        "sjöng",
+        "sjungit",
+        "sjung"
+      ],
+      "body": "# sjunga — verb\n\n📖 中文：唱歌 · English: to sing\n发音提示：[ˈɧʉŋa]，sj- 发 [ɧ]（类似英语 sh 但更靠后）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | sjunga |\n| presens | sjunger |\n| preteritum | sjöng |\n| supinum | sjungit |\n| imperativ | sjung! |\n\n## 词组搭配 (Collocations)\n\n- `sjunga en sång` — 唱一首歌\n- `sjunga \"Små grodorna\"` — 唱《小青蛙》（仲夏传统）\n- `sjunga i kör` — 合唱\n- `sjunga falskt` — 唱跑调\n- `fåglarna sjunger` — 鸟儿在歌唱\n\n## 例句 (Sentences)\n\n- 🇸🇪 Alla dansar runt stången och sjunger \"Små grodorna\". — 🇨🇳 所有人都围着花柱跳舞，唱着《小青蛙》。\n- 🇸🇪 Fåglarna sjunger tidigt på morgonen. — 🇨🇳 鸟儿在清晨歌唱。\n- 🇸🇪 Kan du sjunga den här sången? — 🇨🇳 你能唱这首歌吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sång]] · [[sångare]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则动词（强变化）：sjunga / sjunger / sjöng / sjungit\n- preteritum 变音：sjunga → sjöng（u→ö 元音变换，starka verb 特征）\n- \"Små grodorna\"（小青蛙）是瑞典仲夏节最著名的歌曲，围着花柱跳舞时必唱"
+    },
+    {
       "slug": "skada",
       "lemma": "skada",
       "ordklass": "verb",
@@ -13022,6 +13266,23 @@ window.READING_DATA = {
         "skaffat"
       ],
       "body": "# skaffa — verb (grupp 1)\n\n📖 中文：弄到；获得；办（某物） · English: to get; to obtain; to acquire\n发音提示：/ˈskafːa/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | (att) skaffa |\n| Presens | skaffar |\n| Preteritum | skaffade |\n| Supinum | skaffat |\n| Imperativ | skaffa! |\n\n## 词组搭配 (Collocations)\n\n- `skaffa ett stämpelkort` — 办一张集点卡\n- `skaffa barn` — 生孩子（固定短语）\n- `skaffa sig en vana` — 养成一个习惯\n- `skaffa ett jobb` — 找到一份工作\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan jag skaffa ett stämpelkort nu? — 🇨🇳 我现在能办一张集点卡吗？\n- 🇸🇪 Jag måste skaffa ett nytt körkort. — 🇨🇳 我必须补办一张新驾照。\n- 🇸🇈 Vi ska skaffa en hund nästa år. — 🇨🇳 我们明年打算养一只狗。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: anskaffa（获取，较正式）, köpa（购买）\n\n## 用法提示 (Usage Notes)\n\n- `skaffa` 强调\"弄到手/获取\"的过程，比 `köpa`（买）范围更广（不一定花钱）。\n- `skaffa sig`（自反用法）也常见：`skaffa sig en bil`（弄到一辆车）。\n- 来源: [[source-2026-06-19-pa-cafe-bestalla]]"
+    },
+    {
+      "slug": "skåla",
+      "lemma": "skåla",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "干杯",
+      "en": "to toast; to clink glasses",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "skåla",
+        "skålar",
+        "skålade",
+        "skålat"
+      ],
+      "body": "# skåla — verb\n\n📖 中文：干杯 · English: to toast; to clink glasses\n发音提示：[ˈskoːla]，skål 是感叹词，加 -a 成为动词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | skåla |\n| presens | skålar |\n| preteritum | skålade |\n| supinum | skålat |\n| imperativ | skåla! |\n\n## 词组搭配 (Collocations)\n\n- `skåla med snaps` — 用烈酒干杯（仲夏传统）\n- `skåla för ngn` — 为某人干杯\n- `skåla för brudparet` — 为新婚夫妇干杯\n- `Skål!` — 干杯！（感叹词）→ 见 [[skål-för]]\n\n## 例句 (Sentences)\n\n- 🇸🇪 Pappa skålar med snaps. — 🇨🇳 爸爸举起小酒杯干杯。\n- 🇸🇪 Vi skålar för midsommar och sommaren! — 🇨🇳 我们为仲夏节和夏天干杯！\n- 🇸🇪 Alla skålar och säger Skål! — 🇨🇳 大家都举杯说\"干杯\"！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skål]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-social-kontakt]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- skåla = 干杯的动作（动词）；Skål! = 干杯（感叹词/祝酒词）\n- skåla för ngn = 为某人/某事祝酒\n- 仲夏节传统：用 snaps（烈酒）多次干杯，配仲夏歌"
     },
     {
       "slug": "skatt",
@@ -13645,6 +13906,23 @@ window.READING_DATA = {
         "snällast"
       ],
       "body": "# snäll — adjektiv\n\n📖 中文：善良的；友善的 · English: kind\n发音提示：/snɛlː/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | snäll |\n| neutrum obestämd | snällt |\n| bestämd/plural | snälla |\n| komparativ | snällare |\n| superlativ | snällast |\n\n## 词组搭配 (Collocations)\n\n- `en snäll elefant` — 一头温顺的大象\n- `snäll mot djur` — 对动物友善\n- `var snäll och…` — 请（polite request）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Elefanten är känd för att vara snäll och intelligent. — 🇨🇳 大象以温顺和聪明著称。\n- 🇸🇪 Var snäll och stäng dörren. — 🇨🇳 请把门关上。\n- 🇸🇪 Hon är snäll mot alla djur i stallet. — 🇨🇳 她对马厩里所有的动物都很温柔。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[snällhet]] (善良)\n- 同义词: [[vänlig]] (友好的)\n- 反义词: [[arg]], [[elak]] (坏心的；凶的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- \"Var snäll och...\" = 请..., 是礼貌请求的常用句式.\n- 来源: [[source-2026-06-08-djur]], [[source-2026-06-09-zlatan-bio]]"
+    },
+    {
+      "slug": "snaps",
+      "lemma": "snaps",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "小杯烈酒(仲夏传统)",
+      "en": "aquavit shot; snaps",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "snaps",
+        "snapsen",
+        "snapsar",
+        "snapsarna"
+      ],
+      "body": "# snaps — substantiv\n\n📖 中文：小杯烈酒(仲夏传统) · English: aquavit shot; snaps\n发音提示：[snaps]，和英语 snaps 类似\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en snaps |\n| bestämd singular | snapsen |\n| obestämd plural | snapsar |\n| bestämd plural | snapsarna |\n\n## 词组搭配 (Collocations)\n\n- `skåla med snaps` — 用烈酒干杯\n- `ta en snaps` — 喝一杯小烈酒\n- `snapsvisor` — 干杯歌（仲夏传统）\n- `brännvin / aquavit` — 瑞典传统烈酒\n\n## 例句 (Sentences)\n\n- 🇸🇪 Pappa skålar med snaps. — 🇨🇳 爸爸举起小酒杯干杯。\n- 🇸🇪 På midsommar sjunger man snapsvisor. — 🇨🇳 仲夏节时人们唱干杯歌。\n- 🇸🇪 Vill du ha en snaps till sillen? — 🇨🇳 你要一杯烈酒配鲱鱼吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sprit]]\n- 同义词: [[nubbe]] · [[brännvin]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- snaps 是仲夏节桌上必备：与 sill + potatis 一起，配 snapsvisor（专门的干杯歌）\n- 通常是 aquavit（阿夸维特，香料蒸馏酒）或 brännvin（白酒）\n- nubbe 是 snaps 的口语别称"
     },
     {
       "slug": "snart",
