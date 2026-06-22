@@ -80,3 +80,4 @@ Sommaren är varmare än hösten.  夏天比秋天热。
 
 - 📎 [[grammar-adjektiv-bojning]] — 形容词屈折变化
 - 📎 [[grammar-adjektiv-kongruens]] — 形容词格位一致
+- 📎 [[grammar-mangd-jamforelse]] — 量的比较（många/fler/flest、mycket/mer/mest）
