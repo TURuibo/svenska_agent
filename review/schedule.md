@@ -8,6 +8,33 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— scenario-2026-06-22-en-helg-inne — 6词 / 5词组 / 12句 / 3语法 (4词DUP, 1词组DUP) —** | | | | | | |
+| [[regna]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[baka]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[serie]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[hinna]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[mejl]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[stressad]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[stanna-hemma]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[ta-lång-tid]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[insvept-i]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[inte-alls]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[en-av-de-bästa]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-i-fredags-regnade-det]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-jag-bestämde-mig-för-att-stanna-hemma]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-på-lördagsmorgonen-bakade-jag-kanelbullar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-tog-lång-tid-men-de-blev-jättegoda]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-jag-åt-dem-med-en-kopp-te-satt-insvept]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-på-eftermiddagen-läste-jag-en-bok]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-sedan-tittade-jag-på-en-svensk-serie]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-var-verkligen-mysigt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-på-söndagen-hann-jag-också-städa]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-på-kvällen-lyssnade-jag-på-musik]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-var-faktiskt-en-av-de-bästa]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-ibland-behöver-man-bara-stanna-hemma]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[grammar-hinna-infinitiv]] | grammar | — | 0 | 2.5 | 2026-06-22 | no |
+| [[grammar-pluskvamperfekt]] | grammar | — | 0 | 2.5 | 2026-06-22 | no |
+| [[grammar-man-pronomen]] | grammar | — | 0 | 2.5 | 2026-06-22 | no |
 | **— biografi-2026-06-22-greta-thunberg — 17词 / 8词组 / 25句 / 0语法(5 DUP) —** | | | | | | |
 | [[klimataktivist]] | word | — | 0 | 2.5 | 2026-06-22 | no |
 | [[klimatförändring]] | word | — | 0 | 2.5 | 2026-06-22 | no |

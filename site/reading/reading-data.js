@@ -1,5 +1,5 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-22 12:26:59",
+  "generatedAt": "2026-06-22 12:49:11",
   "articles": [
     {
       "slug": "scenario-2026-06-22-en-helg",
@@ -28,6 +28,34 @@ window.READING_DATA = {
       "itemTotal": 0,
       "body": "# 🇸🇪 En helg — vad jag gjorde\n\n> **类型 (type):** story (berättelse, dåtid)\n> **CEFR:** A2–B1\n> **日期:** 2026-06-22\n> **主题:** En helg — vad jag gjorde (周末做了什么)\n> 导入：`/import scenario-2026-06-22-en-helg.md`\n\n## 瑞典语原文\n\nI lördags vaknade jag tidigt, fast jag inte behövde gå till jobbet. Solen sken och vädret var fint, så jag bestämde mig för att ta det lugnt. På morgonen lagade jag frukost och drack kaffe ute på balkongen.\n\nEfter frukosten cyklade jag till parken och tog en lång promenad. Jag mötte en gammal vän där, och vi satte oss på en bänk och pratade länge. På eftermiddagen handlade vi mat tillsammans och lagade middag hemma hos mig.\n\nPå söndagen var jag lat. Jag städade lite, tvättade kläder och vilade på soffan. På kvällen ringde jag mina föräldrar och berättade om helgen. Det var en vanlig helg, men jag trivdes verkligen. Nästa helg hoppas jag att vädret blir lika fint.\n\n## 🇨🇳 全文翻译\n\n上周六我醒得很早，尽管我不用去上班。太阳照耀着，天气很好，所以我决定放松一下。早上我做了早餐，在阳台上喝咖啡。\n\n早餐后我骑车去公园，散了很长时间的步。我在那里遇到了一位老朋友，我们坐在长椅上聊了很久。下午我们一起买了菜，在我家做了晚饭。\n\n周日我很懒。我稍微打扫了一下，洗了衣服，在沙发上休息。晚上我给父母打电话，跟他们讲了这个周末。这是个普通的周末，但我真的过得很愉快。下个周末我希望天气一样好。\n\n## 📌 教学备注\n\n1. **「I lördags」= 上周六**（已经过去的那个星期六）。同理 `i söndags`、`i fredags`。要区别于 `på lördag`（这/下周六，未来）和 `på lördagen`（泛指周六/那个周六，叙事中常用）。\n2. **全篇 preteritum（过去时）**：讲已经发生的事用过去式 —— `vaknade, sken, lagade, cyklade, mötte, satte, handlade, ringde`。注意强变化动词 `mötte`(möta)、`satte`(sätta)、`drack`(dricka)。\n3. **反身动词 `bestämma sig för`**（下定决心做…）+ `att` + 动词原形：`jag bestämde mig för att ta det lugnt`。`ta det lugnt` = 放轻松、慢慢来（固定表达）。\n4. **`trivas`**（感到舒适愉快、过得开心）是常用反身/不及物动词，preteritum 是 `trivdes`：`jag trivdes verkligen`。",
       "searchText": "scenario-2026-06-22-en-helg 🇸🇪 en helg — vad jag gjorde # 🇸🇪 en helg — vad jag gjorde\n\n> **类型 (type):** story (berättelse, dåtid)\n> **cefr:** a2–b1\n> **日期:** 2026-06-22\n> **主题:** en helg — vad jag gjorde (周末做了什么)\n> 导入：`/import scenario-2026-06-22-en-helg.md`\n\n## 瑞典语原文\n\ni lördags vaknade jag tidigt, fast jag inte behövde gå till jobbet. solen sken och vädret var fint, så jag bestämde mig för att ta det lugnt. på morgonen lagade jag frukost och drack kaffe ute på balkongen.\n\nefter frukosten cyklade jag till parken och tog en lång promenad. jag mötte en gammal vän där, och vi satte oss på en bänk och pratade länge. på eftermiddagen handlade vi mat tillsammans och lagade middag hemma hos mig.\n\npå söndagen var jag lat. jag städade lite, tvättade kläder och vilade på soffan. på kvällen ringde jag mina föräldrar och berättade om helgen. det var en vanlig helg, men jag trivdes verkligen. nästa helg hoppas jag att vädret blir lika fint.\n\n## 🇨🇳 全文翻译\n\n上周六我醒得很早，尽管我不用去上班。太阳照耀着，天气很好，所以我决定放松一下。早上我做了早餐，在阳台上喝咖啡。\n\n早餐后我骑车去公园，散了很长时间的步。我在那里遇到了一位老朋友，我们坐在长椅上聊了很久。下午我们一起买了菜，在我家做了晚饭。\n\n周日我很懒。我稍微打扫了一下，洗了衣服，在沙发上休息。晚上我给父母打电话，跟他们讲了这个周末。这是个普通的周末，但我真的过得很愉快。下个周末我希望天气一样好。\n\n## 📌 教学备注\n\n1. **「i lördags」= 上周六**（已经过去的那个星期六）。同理 `i söndags`、`i fredags`。要区别于 `på lördag`（这/下周六，未来）和 `på lördagen`（泛指周六/那个周六，叙事中常用）。\n2. **全篇 preteritum（过去时）**：讲已经发生的事用过去式 —— `vaknade, sken, lagade, cyklade, mötte, satte, handlade, ringde`。注意强变化动词 `mötte`(möta)、`satte`(sätta)、`drack`(dricka)。\n3. **反身动词 `bestämma sig för`**（下定决心做…）+ `att` + 动词原形：`jag bestämde mig för att ta det lugnt`。`ta det lugnt` = 放轻松、慢慢来（固定表达）。\n4. **`trivas`**（感到舒适愉快、过得开心）是常用反身/不及物动词，preteritum 是 `trivdes`：`jag trivdes verkligen`。"
+    },
+    {
+      "slug": "scenario-2026-06-22-en-helg-inne",
+      "file": "scenario-2026-06-22-en-helg-inne.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "scenario",
+      "kindLabel": {
+        "zh": "情景练习",
+        "en": "scenario"
+      },
+      "title": "🇸🇪 En helg hemma — mysigt inomhus",
+      "cefr": "A2",
+      "date": "2026-06-22",
+      "theme": "story",
+      "source": "",
+      "path": "imported/scenario-2026-06-22-en-helg-inne.md",
+      "counts": {
+        "words": 10,
+        "phrases": 6,
+        "sentences": 12,
+        "grammar": 3
+      },
+      "itemTotal": 31,
+      "body": "# 🇸🇪 En helg hemma — mysigt inomhus\n\n**类型 (type):** story\n**CEFR 估计:** A2–B1\n**生成日期:** 2026-06-22\n**主题:** En helg — vad jag gjorde (周末做了什么) — 视角：下雨天待在家里\n\n---\n\n## 瑞典语原文\n\nI fredags regnade det. Jag bestämde mig för att stanna hemma hela helgen.\n\nPå lördagsmorgonen bakade jag kanelbullar för första gången. Det tog lång tid, men de blev jättegoda. Jag åt dem med en kopp te och satt insvept i en filt.\n\nPå eftermiddagen läste jag en bok som jag länge hade velat läsa. Sedan tittade jag på en svensk serie. Det var verkligen mysigt.\n\nPå söndagen hann jag också städa och svara på några mejl. På kvällen lyssnade jag på musik och stressade inte alls.\n\nDet var faktiskt en av de bästa helgerna på länge. Ibland behöver man bara stanna hemma och vila.\n\n---\n\n## 🇨🇳 全文翻译\n\n上周五下雨了。我决定整个周末都待在家里。\n\n周六早上我第一次烤了肉桂卷。花了很长时间，但做出来非常好吃。我裹着毯子坐着，就着一杯茶吃。\n\n下午我读了一本一直很想读的书。然后我看了一部瑞典电视剧。真的很温馨惬意。\n\n周日我还抽空打扫了屋子，回了几封邮件。晚上我听音乐，一点也不着急。\n\n这实际上是最近最棒的周末之一。有时候人只需要待在家里休息一下。\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **hinna** — 表示\"来得及、有时间做某事\"：`hann jag städa`（我来得及打扫了）。preteritum 是 `hann`（强变化）。不要和 `behöva`（需要）混淆。\n⚠️ **mysig** — 瑞典语特有的文化词，表示温馨、惬意、令人放松的氛围（类似丹麦语 *hygge*）。很常用，口语中频率极高。\n📐 **Pluskvamperfekt**: `som jag länge hade velat läsa`（我一直很想读的）—— hade + supinum，表示\"在过去的某个时间点之前已经……\"，常用于描述背景或前情。\n📌 **man（泛指代词）** — `ibland behöver man bara...`，`man` 表示泛指的\"人/大家/一个人\"，类似英语 one/you。主动中性，无性别，不可用 `han/hon` 替换。\n\n---\n\n> 导入命令：`/import scenario-2026-06-22-en-helg-inne.md`",
+      "searchText": "scenario-2026-06-22-en-helg-inne 🇸🇪 en helg hemma — mysigt inomhus # 🇸🇪 en helg hemma — mysigt inomhus\n\n**类型 (type):** story\n**cefr 估计:** a2–b1\n**生成日期:** 2026-06-22\n**主题:** en helg — vad jag gjorde (周末做了什么) — 视角：下雨天待在家里\n\n---\n\n## 瑞典语原文\n\ni fredags regnade det. jag bestämde mig för att stanna hemma hela helgen.\n\npå lördagsmorgonen bakade jag kanelbullar för första gången. det tog lång tid, men de blev jättegoda. jag åt dem med en kopp te och satt insvept i en filt.\n\npå eftermiddagen läste jag en bok som jag länge hade velat läsa. sedan tittade jag på en svensk serie. det var verkligen mysigt.\n\npå söndagen hann jag också städa och svara på några mejl. på kvällen lyssnade jag på musik och stressade inte alls.\n\ndet var faktiskt en av de bästa helgerna på länge. ibland behöver man bara stanna hemma och vila.\n\n---\n\n## 🇨🇳 全文翻译\n\n上周五下雨了。我决定整个周末都待在家里。\n\n周六早上我第一次烤了肉桂卷。花了很长时间，但做出来非常好吃。我裹着毯子坐着，就着一杯茶吃。\n\n下午我读了一本一直很想读的书。然后我看了一部瑞典电视剧。真的很温馨惬意。\n\n周日我还抽空打扫了屋子，回了几封邮件。晚上我听音乐，一点也不着急。\n\n这实际上是最近最棒的周末之一。有时候人只需要待在家里休息一下。\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **hinna** — 表示\"来得及、有时间做某事\"：`hann jag städa`（我来得及打扫了）。preteritum 是 `hann`（强变化）。不要和 `behöva`（需要）混淆。\n⚠️ **mysig** — 瑞典语特有的文化词，表示温馨、惬意、令人放松的氛围（类似丹麦语 *hygge*）。很常用，口语中频率极高。\n📐 **pluskvamperfekt**: `som jag länge hade velat läsa`（我一直很想读的）—— hade + supinum，表示\"在过去的某个时间点之前已经……\"，常用于描述背景或前情。\n📌 **man（泛指代词）** — `ibland behöver man bara...`，`man` 表示泛指的\"人/大家/一个人\"，类似英语 one/you。主动中性，无性别，不可用 `han/hon` 替换。\n\n---\n\n> 导入命令：`/import scenario-2026-06-22-en-helg-inne.md`"
     },
     {
       "slug": "biografi-2026-06-22-greta-thunberg",

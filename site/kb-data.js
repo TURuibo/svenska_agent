@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 12:26:59",
+  "generatedAt": "2026-06-22 12:49:14",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -482,6 +482,7 @@ window.KB_DATA = {
         "grammar-bisats-tills",
         "grammar-for-att-infinitiv",
         "grammar-nar-bisats",
+        "grammar-pluskvamperfekt",
         "sent-beroende-var-i-landet-man-bor",
         "sent-där-alla-har-så-stor-förståelse",
         "sent-de-tar-bort-vaxter-som-hotar-andra-arter",
@@ -495,6 +496,7 @@ window.KB_DATA = {
         "sent-man-plockar-svamp-och-njuter",
         "sent-människor-jobbar-där-och-de-kan",
         "sent-nu-ska-vi-se-hur-vädret-blir",
+        "sent-på-eftermiddagen-läste-jag-en-bok",
         "sent-problemet-är-också-stort-bland-dem",
         "sent-vi-har-träffat-en-av-dem-som-hade"
       ]
@@ -730,12 +732,38 @@ window.KB_DATA = {
         "sent-för-att-hjälpa-sina-medlemmar",
         "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
         "sent-iran-ska-öppna-sundet-i-hormuz-genast",
+        "sent-jag-bestämde-mig-för-att-stanna-hemma",
         "sent-man-klar-pa-sig-tjocka-jackor",
         "sent-men-experterna-varnar-för",
         "sent-och-fotbollsspelare-är-tränade-till",
         "source-2026-06-16-vadret-och-arstiderna",
         "source-2026-06-19-nyheter-8sidor",
         "varna-för"
+      ]
+    },
+    {
+      "slug": "grammar-hinna-infinitiv",
+      "type": "grammar",
+      "title": "hinna + infinitiv",
+      "path": "knowledge_base/grammar/grammar-hinna-infinitiv.md",
+      "body": "# 📗 hinna + infinitiv — 来得及做某事 (to have time to / manage to)\n\n级别: A2\n一句话: \"hinna\" 表示有足够时间做某事，或来得及赶上某事；常接不定式（infinitiv）\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nhinna (+ att) + infinitiv\n\n肯定: Jag hann (att) städa.     我来得及打扫了。\n否定: Jag hann inte ringa.      我没来得及打电话。\n疑问: Hann du äta?              你来得及吃了吗？\n```\n\n与中文对比: \"来得及\" / \"有时间做\" — 中文也有类似表达，但强变化形式需特别记忆\n与英文对比: \"I managed to clean\" / \"I had time to clean\" — 英语用 \"manage to\" 或 \"have time to\"\n\n## 详细讲解 (Detail)\n\n**变位（强变化）：**\n| form | Swedish |\n|------|---------|\n| infinitiv | hinna |\n| presens | hinner |\n| preteritum | hann |\n| supinum | hunnit |\n\n**att 可省略：** \"hann (att) städa\" — att 在口语中常省略\n\n**用法范围：**\n- 时间充裕（肯定）：Jag hann laga mat. — 我来得及做饭了。\n- 时间不够（否定）：Jag hann inte — 我没来得及。\n- 赶上交通/时间：Hann du med tåget? — 你赶上火车了吗？\n\n## 例句 (Examples)\n\n- ✅ [[sent-på-söndagen-hann-jag-också-städa]] 🇸🇪 På söndagen hann jag också städa och svara på några mejl. 🇨🇳 周日我还抽空打扫了屋子，回了几封邮件。\n- ✅ 🇸🇪 Hann du äta frukost? 🇨🇳 你来得及吃早饭了吗？\n- ❌ Jag **hinnde** inte ringa. ← 错误，过去时是 hann，不是 hinnde\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 过去时用 \"hann\"，不要说 \"hinnade\"（第一组变化错误套用）\n- ⚠️ hinner / hann / hunnit 是强变化，需整体记忆\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-starka-verb]]\n- 📎 [[grammar-modala-hjalpverb]]\n- 📎 [[grammar-infinitiv]]",
+      "excerpt": "📗 hinna + infinitiv — 来得及做某事 (to have time to / manage to) 级别: A2 一句话: \"hinna\" 表示有足够时间做某事，或来得及赶上某事；常接不定式（infinitiv） 规则说明 (Rules) 📐 结构公式: hinna (+ att) + infinitiv 肯定: Jag hann (att) städa. 我来得及打扫了。 否定: Jag hann inte ri",
+      "forms": [],
+      "links": [
+        "grammar-infinitiv",
+        "grammar-modala-hjalpverb",
+        "grammar-starka-verb",
+        "sent-på-söndagen-hann-jag-också-städa"
+      ],
+      "searchText": "hinna + infinitiv grammar-hinna-infinitiv knowledge_base/grammar/grammar-hinna-infinitiv.md ---\ntype: grammar\nname: \"hinna + infinitiv\"\nzh: 来得及做某事（强变化：hinner/hann/hunnit）\nen: hinna + infinitive — to have time to / to manage to do something\nlevel: A2\nrelated: [\"grammar-modala-hjalpverb\", \"grammar-starka-verb\", \"grammar-infinitiv\"]\nexamples:\n  - sent-på-söndagen-hann-jag-också-städa\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 hinna + infinitiv — 来得及做某事 (to have time to / manage to)\n\n级别: A2\n一句话: \"hinna\" 表示有足够时间做某事，或来得及赶上某事；常接不定式（infinitiv）\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nhinna (+ att) + infinitiv\n\n肯定: Jag hann (att) städa.     我来得及打扫了。\n否定: Jag hann inte ringa.      我没来得及打电话。\n疑问: Hann du äta?              你来得及吃了吗？\n```\n\n与中文对比: \"来得及\" / \"有时间做\" — 中文也有类似表达，但强变化形式需特别记忆\n与英文对比: \"I managed to clean\" / \"I had time to clean\" — 英语用 \"manage to\" 或 \"have time to\"\n\n## 详细讲解 (Detail)\n\n**变位（强变化）：**\n| form | Swedish |\n|------|---------|\n| infinitiv | hinna |\n| presens | hinner |\n| preteritum | hann |\n| supinum | hunnit |\n\n**att 可省略：** \"hann (att) städa\" — att 在口语中常省略\n\n**用法范围：**\n- 时间充裕（肯定）：Jag hann laga mat. — 我来得及做饭了。\n- 时间不够（否定）：Jag hann inte — 我没来得及。\n- 赶上交通/时间：Hann du med tåget? — 你赶上火车了吗？\n\n## 例句 (Examples)\n\n- ✅ [[sent-på-söndagen-hann-jag-också-städa]] 🇸🇪 På söndagen hann jag också städa och svara på några mejl. 🇨🇳 周日我还抽空打扫了屋子，回了几封邮件。\n- ✅ 🇸🇪 Hann du äta frukost? 🇨🇳 你来得及吃早饭了吗？\n- ❌ Jag **hinnde** inte ringa. ← 错误，过去时是 hann，不是 hinnde\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 过去时用 \"hann\"，不要说 \"hinnade\"（第一组变化错误套用）\n- ⚠️ hinner / hann / hunnit 是强变化，需整体记忆\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-starka-verb]]\n- 📎 [[grammar-modala-hjalpverb]]\n- 📎 [[grammar-infinitiv]]\n",
+      "name": "hinna + infinitiv",
+      "zh": "来得及做某事（强变化：hinner/hann/hunnit）",
+      "en": "hinna + infinitive — to have time to / to manage to do something",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "hinna",
+        "sent-på-söndagen-hann-jag-också-städa"
       ]
     },
     {
@@ -831,6 +859,7 @@ window.KB_DATA = {
         "bestämma-sig-för-att",
         "grammar-bruka-infinitiv",
         "grammar-for-att-infinitiv",
+        "grammar-hinna-infinitiv",
         "grammar-modala-hjalpverb",
         "något-att-äta-till",
         "sent-får-jag-ta-er-beställning",
@@ -861,6 +890,7 @@ window.KB_DATA = {
       "created": "2026-06-16",
       "known": false,
       "backlinks": [
+        "en-av-de-bästa",
         "en-av-världens-mest-kända",
         "köra-för-fort",
         "sent-an-kvinnor-i-samma-alder",
@@ -868,6 +898,7 @@ window.KB_DATA = {
         "sent-där-alla-har-så-stor-förståelse",
         "sent-den-som-ska-ut-och-köra-bil",
         "sent-det-blir-svalare-och-regnet",
+        "sent-det-var-faktiskt-en-av-de-bästa",
         "sent-for-naturen-an-vad-vanliga-kor-klarat",
         "sent-idag-är-hon-en-av-världens-mest-kända-röster",
         "sent-kvinnor-far-vanta-langre-an-man",
@@ -1004,6 +1035,29 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grammar-man-pronomen",
+      "type": "grammar",
+      "title": "man-pronomen",
+      "path": "knowledge_base/grammar/grammar-man-pronomen.md",
+      "body": "# 📗 man-pronomen — 泛指代词 man (impersonal \"one/you/people\")\n\n级别: A2\n一句话: \"man\" 是泛指代词，表示\"一个人/人们/大家\"，动词用第三人称单数形式\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nman + 动词（第三人称单数）\n\nMan behöver vila.          一个人需要休息。/ 人需要休息。\nMan kan inte alltid vinna. 人不总能赢。\nHur gör man det?           这怎么做？\n```\n\n**man 的屈折形式：**\n| 格 | 形式 |\n|----|------|\n| 主格 | man |\n| 宾格 | en（口语）/ man |\n| 反身代词 | sig |\n| 所有格 | sin / sitt / sina |\n\n与中文对比: 类似于中文\"人家\"、\"大家\"或泛指的\"你/人\"，例：\"有时候人需要休息\"\n与英文对比: 类似英语的 \"one\" 或口语中泛指的 \"you\"；\"One must work hard\" / \"You need to rest\"\n\n## 详细讲解 (Detail)\n\n**使用场景：**\n1. 表达一般真理/惯例：Man äter middag klockan sex i Sverige.（瑞典人通常六点吃晚饭）\n2. 使句子更客观，避免直接指人：Man får inte röka här.（这里不能抽烟）\n3. 描述大家都经历的事：Ibland behöver man bara vila.（有时候人需要休息）\n\n**反身代词必须用 \"sig\"，不用 \"mig/dig\"：**\n- Man tvättar **sig** varje dag.（人每天洗澡）\n- Man kan skada **sig** om man inte är försiktig.\n\n**所有格用 \"sin/sitt/sina\"：**\n- Man glömmer lätt **sina** nycklar.（人很容易忘记自己的钥匙）\n\n## 例句 (Examples)\n\n- ✅ [[sent-ibland-behöver-man-bara-stanna-hemma]] 🇸🇪 Ibland behöver man bara stanna hemma och vila. 🇨🇳 有时候人只需要待在家里休息一下。\n- ✅ 🇸🇪 I Sverige dricker man mycket kaffe. 🇨🇳 在瑞典，人们喝很多咖啡。\n- ❌ Man tvättar **mig** varje dag. ← 错误：man 的反身代词是 sig，不是 mig\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 反身代词错用 \"mig/dig\" 代替 \"sig\"\n- ⚠️ 所有格错用 \"hans/hennes/dess\" 代替 \"sin/sitt/sina\"\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-reflexivt-pronomen]]\n- 📎 [[grammar-sin-sina]]",
+      "excerpt": "📗 man pronomen — 泛指代词 man (impersonal \"one/you/people\") 级别: A2 一句话: \"man\" 是泛指代词，表示\"一个人/人们/大家\"，动词用第三人称单数形式 规则说明 (Rules) 📐 结构公式: man + 动词（第三人称单数） Man behöver vila. 一个人需要休息。/ 人需要休息。 Man kan inte alltid vinna. 人不总能赢。 Hur g",
+      "forms": [],
+      "links": [
+        "grammar-reflexivt-pronomen",
+        "grammar-sin-sina",
+        "sent-ibland-behöver-man-bara-stanna-hemma"
+      ],
+      "searchText": "man-pronomen grammar-man-pronomen knowledge_base/grammar/grammar-man-pronomen.md ---\ntype: grammar\nname: \"man-pronomen\"\nzh: 泛指代词 man = 一个人/大家，用于一般陈述\nen: impersonal pronoun \"man\" — one / you / people in general\nlevel: A2\nrelated: [\"grammar-reflexivt-pronomen\", \"grammar-sin-sina\"]\nexamples:\n  - sent-ibland-behöver-man-bara-stanna-hemma\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 man-pronomen — 泛指代词 man (impersonal \"one/you/people\")\n\n级别: A2\n一句话: \"man\" 是泛指代词，表示\"一个人/人们/大家\"，动词用第三人称单数形式\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nman + 动词（第三人称单数）\n\nMan behöver vila.          一个人需要休息。/ 人需要休息。\nMan kan inte alltid vinna. 人不总能赢。\nHur gör man det?           这怎么做？\n```\n\n**man 的屈折形式：**\n| 格 | 形式 |\n|----|------|\n| 主格 | man |\n| 宾格 | en（口语）/ man |\n| 反身代词 | sig |\n| 所有格 | sin / sitt / sina |\n\n与中文对比: 类似于中文\"人家\"、\"大家\"或泛指的\"你/人\"，例：\"有时候人需要休息\"\n与英文对比: 类似英语的 \"one\" 或口语中泛指的 \"you\"；\"One must work hard\" / \"You need to rest\"\n\n## 详细讲解 (Detail)\n\n**使用场景：**\n1. 表达一般真理/惯例：Man äter middag klockan sex i Sverige.（瑞典人通常六点吃晚饭）\n2. 使句子更客观，避免直接指人：Man får inte röka här.（这里不能抽烟）\n3. 描述大家都经历的事：Ibland behöver man bara vila.（有时候人需要休息）\n\n**反身代词必须用 \"sig\"，不用 \"mig/dig\"：**\n- Man tvättar **sig** varje dag.（人每天洗澡）\n- Man kan skada **sig** om man inte är försiktig.\n\n**所有格用 \"sin/sitt/sina\"：**\n- Man glömmer lätt **sina** nycklar.（人很容易忘记自己的钥匙）\n\n## 例句 (Examples)\n\n- ✅ [[sent-ibland-behöver-man-bara-stanna-hemma]] 🇸🇪 Ibland behöver man bara stanna hemma och vila. 🇨🇳 有时候人只需要待在家里休息一下。\n- ✅ 🇸🇪 I Sverige dricker man mycket kaffe. 🇨🇳 在瑞典，人们喝很多咖啡。\n- ❌ Man tvättar **mig** varje dag. ← 错误：man 的反身代词是 sig，不是 mig\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 反身代词错用 \"mig/dig\" 代替 \"sig\"\n- ⚠️ 所有格错用 \"hans/hennes/dess\" 代替 \"sin/sitt/sina\"\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-reflexivt-pronomen]]\n- 📎 [[grammar-sin-sina]]\n",
+      "name": "man-pronomen",
+      "zh": "泛指代词 man = 一个人/大家，用于一般陈述",
+      "en": "impersonal pronoun \"man\" — one / you / people in general",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "sent-ibland-behöver-man-bara-stanna-hemma"
+      ]
+    },
+    {
       "slug": "grammar-modala-hjalpverb",
       "type": "grammar",
       "title": "modala-hjälpverb",
@@ -1027,6 +1081,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "grammar-bruka-infinitiv",
+        "grammar-hinna-infinitiv",
         "grammar-preteritum-artighet",
         "kan-jag-betala-med-kort",
         "kan-vi-dela-på-notan",
@@ -1039,6 +1094,7 @@ window.KB_DATA = {
         "sent-god-morgon-kan-jag-fa-en-stor",
         "sent-god-morgon-visst-vill-du-ha-vanligt",
         "sent-i-år-kan-en-liter-svenska",
+        "sent-ibland-behöver-man-bara-stanna-hemma",
         "sent-inga-problem-vi-lagar-den-laktosfri",
         "sent-ja-garna-en-papperskasse-tack-kan-jag-betala-med-kort",
         "sent-jag-är-allergisk-mot-nötter-vad-kan-ni",
@@ -1245,6 +1301,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "ända-sedan",
+        "grammar-pluskvamperfekt",
         "grammar-preteritum-i-berattelse",
         "har-ni-bestämt-er",
         "har-ni-bokat-bord",
@@ -1338,6 +1395,31 @@ window.KB_DATA = {
         "sent-hur-kommer-jag-dit",
         "source-2026-06-18-fraga-efter-vagen",
         "topic-riktningar"
+      ]
+    },
+    {
+      "slug": "grammar-pluskvamperfekt",
+      "type": "grammar",
+      "title": "pluskvamperfekt",
+      "path": "knowledge_base/grammar/grammar-pluskvamperfekt.md",
+      "body": "# 📗 pluskvamperfekt — 过去完成时 (past perfect / pluperfect)\n\n级别: B1\n一句话: 用 hade + supinum 描述在过去某一时刻之前已经发生/完成的动作\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nhade + supinum（动词第四形式）\n\nJag hade läst boken.         我已经读完了那本书。（在过去某时点之前）\nHon hade velat resa.          她一直想旅行。（比叙事时间更早的愿望）\n```\n\n与中文对比: 类似\"已经……了\"，但只用于描述**过去**某时点之前的完成状态\n与英文对比: 与英语 \"had + past participle\" 完全对应（e.g., \"I had read the book\"）\n\n## 详细讲解 (Detail)\n\n**构成：** 助动词 \"hade\"（har 的过去时）+ 动词 supinum\n\n**对比三种完成时：**\n| 时态 | 结构 | 时间参照 |\n|------|------|---------|\n| perfekt | har + supinum | 从过去到现在的完成 |\n| preteritum | 简单过去时 | 过去发生的动作 |\n| pluskvamperfekt | hade + supinum | 在过去某时点之**前**已完成 |\n\n**在从句中常见：**\n- en bok som jag länge **hade velat** läsa — 一本我一直想读的书（想读是比\"读\"更早的愿望）\n- Han berättade att han **hade bott** i Stockholm. — 他说他曾经住在斯德哥尔摩。\n\n## 例句 (Examples)\n\n- ✅ [[sent-på-eftermiddagen-läste-jag-en-bok]] 🇸🇪 På eftermiddagen läste jag en bok som jag länge hade velat läsa. 🇨🇳 下午我读了一本一直很想读的书。\n- ✅ 🇸🇪 När jag kom hem hade han redan ätit. 🇨🇳 当我到家时，他已经吃完了。\n- ❌ När jag kom hem **har** han ätit. ← 错误：主句是过去时语境，应用 hade 不用 har\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混淆 perfekt（har + supinum）和 pluskvamperfekt（hade + supinum）\n- ⚠️ 在叙述过去的语境中，保持时态一致：全句用过去时，完成事件用 pluskvamperfekt\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-perfekt]]\n- 📎 [[grammar-preteritum]]\n- 📎 [[grammar-supinum]]\n- 📎 [[grammar-bisats]]",
+      "excerpt": "📗 pluskvamperfekt — 过去完成时 (past perfect / pluperfect) 级别: B1 一句话: 用 hade + supinum 描述在过去某一时刻之前已经发生/完成的动作 规则说明 (Rules) 📐 结构公式: hade + supinum（动词第四形式） Jag hade läst boken. 我已经读完了那本书。（在过去某时点之前） Hon hade velat resa. 她一直想旅行",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "grammar-perfekt",
+        "grammar-preteritum",
+        "grammar-supinum",
+        "sent-på-eftermiddagen-läste-jag-en-bok"
+      ],
+      "searchText": "pluskvamperfekt grammar-pluskvamperfekt knowledge_base/grammar/grammar-pluskvamperfekt.md ---\ntype: grammar\nname: \"pluskvamperfekt\"\nzh: 过去完成时：hade + supinum，描述比叙事时间更早发生的事\nen: past perfect (pluperfect) — had + past participle\nlevel: B1\nrelated: [\"grammar-perfekt\", \"grammar-preteritum\", \"grammar-supinum\", \"grammar-bisats\"]\nexamples:\n  - sent-på-eftermiddagen-läste-jag-en-bok\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 pluskvamperfekt — 过去完成时 (past perfect / pluperfect)\n\n级别: B1\n一句话: 用 hade + supinum 描述在过去某一时刻之前已经发生/完成的动作\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\nhade + supinum（动词第四形式）\n\nJag hade läst boken.         我已经读完了那本书。（在过去某时点之前）\nHon hade velat resa.          她一直想旅行。（比叙事时间更早的愿望）\n```\n\n与中文对比: 类似\"已经……了\"，但只用于描述**过去**某时点之前的完成状态\n与英文对比: 与英语 \"had + past participle\" 完全对应（e.g., \"I had read the book\"）\n\n## 详细讲解 (Detail)\n\n**构成：** 助动词 \"hade\"（har 的过去时）+ 动词 supinum\n\n**对比三种完成时：**\n| 时态 | 结构 | 时间参照 |\n|------|------|---------|\n| perfekt | har + supinum | 从过去到现在的完成 |\n| preteritum | 简单过去时 | 过去发生的动作 |\n| pluskvamperfekt | hade + supinum | 在过去某时点之**前**已完成 |\n\n**在从句中常见：**\n- en bok som jag länge **hade velat** läsa — 一本我一直想读的书（想读是比\"读\"更早的愿望）\n- Han berättade att han **hade bott** i Stockholm. — 他说他曾经住在斯德哥尔摩。\n\n## 例句 (Examples)\n\n- ✅ [[sent-på-eftermiddagen-läste-jag-en-bok]] 🇸🇪 På eftermiddagen läste jag en bok som jag länge hade velat läsa. 🇨🇳 下午我读了一本一直很想读的书。\n- ✅ 🇸🇪 När jag kom hem hade han redan ätit. 🇨🇳 当我到家时，他已经吃完了。\n- ❌ När jag kom hem **har** han ätit. ← 错误：主句是过去时语境，应用 hade 不用 har\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混淆 perfekt（har + supinum）和 pluskvamperfekt（hade + supinum）\n- ⚠️ 在叙述过去的语境中，保持时态一致：全句用过去时，完成事件用 pluskvamperfekt\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-perfekt]]\n- 📎 [[grammar-preteritum]]\n- 📎 [[grammar-supinum]]\n- 📎 [[grammar-bisats]]\n",
+      "name": "pluskvamperfekt",
+      "zh": "过去完成时：hade + supinum，描述比叙事时间更早发生的事",
+      "en": "past perfect (pluperfect) — had + past participle",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "sent-på-eftermiddagen-läste-jag-en-bok"
       ]
     },
     {
@@ -1733,6 +1815,7 @@ window.KB_DATA = {
         "gå-tillbaka",
         "grammar-i-lordags-vs-pa-lordag",
         "grammar-perfekt",
+        "grammar-pluskvamperfekt",
         "grammar-presens",
         "grammar-presens-preteritum-ram",
         "grammar-preteritum-artighet",
@@ -1751,7 +1834,10 @@ window.KB_DATA = {
         "sent-dar-fanns-ingen-mat-ga-hungrig",
         "sent-den-första-filmen-toy-story",
         "sent-den-totala-tiden-personer-ar-pa-akuten",
+        "sent-det-tog-lång-tid-men-de-blev-jättegoda",
         "sent-det-tog-ungefar-en-timme",
+        "sent-det-var-faktiskt-en-av-de-bästa",
+        "sent-det-var-verkligen-mysigt",
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
         "sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok",
         "sent-ett-par-i-sodertälje-skulle-ut",
@@ -1772,10 +1858,12 @@ window.KB_DATA = {
         "sent-hon-föddes-den-3-januari-2003-i-stockholm",
         "sent-hon-förstod-inte-varför-så-få-människor",
         "sent-hon-hade-en-skylt-med-texten-skolstrejk",
+        "sent-i-fredags-regnade-det",
         "sent-i-mandags-domdes-mette-marits-son",
         "sent-i-stället-satte-hon-sig-utanför-riksdagen",
         "sent-idag-kom-besked-fran-riksbanken-om-rantan",
         "sent-igar-var-en-ovantad-dag",
+        "sent-jag-åt-dem-med-en-kopp-te-satt-insvept",
         "sent-jag-gick-in-i-en-bokhandel-tittade-pa-bocker",
         "sent-jag-gick-tillbaka-till-tunnelbanestationen-fragade-personal",
         "sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost",
@@ -1786,9 +1874,12 @@ window.KB_DATA = {
         "sent-när-greta-var-åtta-år-hörde-hon",
         "sent-nyligen-hade-ländernas-ledare",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
+        "sent-på-kvällen-lyssnade-jag-på-musik",
+        "sent-på-lördagsmorgonen-bakade-jag-kanelbullar",
         "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
         "sent-rörelsen-fick-namnet-fridays-for-future",
+        "sent-sedan-tittade-jag-på-en-svensk-serie",
         "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
         "sent-sen-kom-han-tillbaka-till-sverige",
         "sent-snart-blev-greta-känd-i-hela-världen",
@@ -1832,6 +1923,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "backlinks": [
+        "grammar-man-pronomen",
         "klä-på-sig",
         "sent-man-klar-pa-sig-tjocka-jackor"
       ]
@@ -1878,6 +1970,7 @@ window.KB_DATA = {
         "sent-har-ni-bestämt-er-eller-behöver-ni",
         "sent-hur-tar-jag-mig-dit",
         "sent-i-stället-satte-hon-sig-utanför-riksdagen",
+        "sent-jag-bestämde-mig-för-att-stanna-hemma",
         "sent-jag-motte-en-gammal-van-dar",
         "sent-luften-kanns-frisk-och-ren",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
@@ -2011,6 +2104,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "backlinks": [
+        "inte-alls",
         "sent-apoteket-ligger-mitt-emot-en-stor-byggnad",
         "sent-det-är-inte-så-långt-härifrån",
         "sent-det-är-inte-värt-det-fram-i-tiden",
@@ -2042,6 +2136,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "backlinks": [
+        "grammar-man-pronomen",
         "grammar-reflexivt-pronomen",
         "sent-eftersom-astrid-var-ensam-kunde-hon",
         "sent-fick-fotbollsskor-trots-mamma",
@@ -2134,6 +2229,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "backlinks": [
+        "grammar-hinna-infinitiv",
         "grammar-preteritum-i-berattelse",
         "grammar-supinum",
         "source-2026-06-10-zlatan-subst-verb"
@@ -2271,6 +2367,7 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-infinitiv",
         "grammar-perfekt",
+        "grammar-pluskvamperfekt",
         "grammar-starka-verb",
         "source-2026-06-10-zlatan-subst-verb"
       ]
@@ -2431,12 +2528,15 @@ window.KB_DATA = {
         "sent-nyligen-hade-ländernas-ledare",
         "sent-och-var-ligger-brodet",
         "sent-pa-eftermiddagen-handlade-vi-mat",
+        "sent-på-eftermiddagen-läste-jag-en-bok",
         "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
         "sent-pa-golvet-framfor-soffan-rund-matta",
         "sent-pa-golvet-mellan-sangen-skriv-stor-matta",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
         "sent-pa-kvallen-lagar-jag-middag-och-tittar",
+        "sent-på-kvällen-lyssnade-jag-på-musik",
         "sent-pa-kvallen-ringde-jag-mina-foraldrar",
+        "sent-på-lördagsmorgonen-bakade-jag-kanelbullar",
         "sent-pa-lunchen-brukar-jag-ata-tillsammans",
         "sent-på-midsommardagen-blir-det-varmare",
         "sent-pa-morgonen-lagade-jag-frukost-och-drack",
@@ -2445,6 +2545,7 @@ window.KB_DATA = {
         "sent-pa-sangen-ligger-en-kudde-och-en-filt",
         "sent-pa-skrivbordet-finns-en-dator-glas-vatten",
         "sent-pa-soffbord-ligger-fjarrkontroll-tidningar",
+        "sent-på-söndagen-hann-jag-också-städa",
         "sent-pa-sondagen-var-jag-lat",
         "sent-pa-vintern-ar-det-morkt-och-kallt",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
@@ -2456,6 +2557,7 @@ window.KB_DATA = {
         "sent-sedan-1800-talet-har-människor",
         "sent-sedan-svänger-du-till-höger",
         "sent-sedan-tar-jag-bussen-till-jobbet",
+        "sent-sedan-tittade-jag-på-en-svensk-serie",
         "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
         "sent-självklart-varsågod-jag-stämplar",
         "sent-snart-blev-greta-känd-i-hela-världen",
@@ -2935,6 +3037,7 @@ window.KB_DATA = {
       "backlinks": [
         "bestämma-sig",
         "sent-då-bestämde-greta-sig-för-att-göra-något",
+        "sent-jag-bestämde-mig-för-att-stanna-hemma",
         "source-2026-06-22-greta-thunberg"
       ]
     },
@@ -3964,6 +4067,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "en-av-de-bästa",
+      "type": "phrase",
+      "title": "en av de bästa",
+      "path": "knowledge_base/phrases/en-av-de-bästa.md",
+      "body": "# en av de bästa\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 最好的之一 · 🇬🇧 one of the best\n📝 字面: one of the best\n\n## 用法说明 (Usage)\n\n- 固定句式：en/ett av de + superlativ（最高级）\n- 用于表达某事物排在最顶级之列，但并非唯一第一\n- ett av de bästa（当中心词为 ett-词时）：Det var ett av de bästa valen.\n\n## 短语中的语法 (Grammar inside)\n\n- \"bästa\" 是 bra 的最高级（superlativ）\n- \"en av de + superlativ\" 结构：中心名词决定 en/ett\n- → [[grammar-komparativ]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 ett av de bästa — 最好之一（中性词）\n- 🔄 en av de sämsta — 最差之一\n- 🔄 en av de mest + adjektiv — 最……之一\n- 🔗 [[en-av-världens-mest-kända]]\n- 🔗 [[en-av-sveriges-mest-kanda]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-det-var-faktiskt-en-av-de-bästa]] 🇸🇪 Det var faktiskt en av de bästa helgerna på länge. 🇨🇳 这实际上是最近最棒的周末之一。",
+      "excerpt": "en av de bästa 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 4/5 🇨🇳 最好的之一 · 🇬🇧 one of the best 📝 字面: one of the best 用法说明 (Usage) 固定句式：en/ett av de + superlativ（最高级） 用于表达某事物排在最顶级之列，但并非唯一第一 ett av de bästa（当中心词为 ett 词时）",
+      "forms": [],
+      "links": [
+        "en-av-sveriges-mest-kanda",
+        "en-av-världens-mest-kända",
+        "grammar-komparativ",
+        "sent-det-var-faktiskt-en-av-de-bästa"
+      ],
+      "searchText": "en av de bästa en-av-de-bästa knowledge_base/phrases/en-av-de-bästa.md ---\ntype: phrase\nphrase: \"en av de bästa\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 4\nzh: 最好的之一\nen: one of the best\nliteral: \"one of the best\"\nhead_words: []\ngrammar: [\"grammar-komparativ\"]\nrelated: [\"en-av-världens-mest-kända\", \"en-av-sveriges-mest-kanda\"]\ntopics: []\nsentences:\n  - sent-det-var-faktiskt-en-av-de-bästa\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# en av de bästa\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 最好的之一 · 🇬🇧 one of the best\n📝 字面: one of the best\n\n## 用法说明 (Usage)\n\n- 固定句式：en/ett av de + superlativ（最高级）\n- 用于表达某事物排在最顶级之列，但并非唯一第一\n- ett av de bästa（当中心词为 ett-词时）：Det var ett av de bästa valen.\n\n## 短语中的语法 (Grammar inside)\n\n- \"bästa\" 是 bra 的最高级（superlativ）\n- \"en av de + superlativ\" 结构：中心名词决定 en/ett\n- → [[grammar-komparativ]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 ett av de bästa — 最好之一（中性词）\n- 🔄 en av de sämsta — 最差之一\n- 🔄 en av de mest + adjektiv — 最……之一\n- 🔗 [[en-av-världens-mest-kända]]\n- 🔗 [[en-av-sveriges-mest-kanda]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-det-var-faktiskt-en-av-de-bästa]] 🇸🇪 Det var faktiskt en av de bästa helgerna på länge. 🇨🇳 这实际上是最近最棒的周末之一。\n",
+      "zh": "最好的之一",
+      "en": "one of the best",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "en av de bästa",
+      "category": "fast-uttryck",
+      "sentences": [
+        "sent-det-var-faktiskt-en-av-de-bästa"
+      ],
+      "grammar": [
+        "grammar-komparativ"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-det-var-faktiskt-en-av-de-bästa"
+      ]
+    },
+    {
       "slug": "en-av-sveriges-mest-kanda",
       "type": "phrase",
       "title": "en av Sveriges mest kända",
@@ -3991,6 +4126,7 @@ window.KB_DATA = {
         "topic-fotboll"
       ],
       "backlinks": [
+        "en-av-de-bästa",
         "en-av-världens-mest-kända",
         "sent-zlatan-en-av-sveriges-mest-kanda",
         "source-2026-06-09-zlatan-bio"
@@ -4052,6 +4188,7 @@ window.KB_DATA = {
       ],
       "topics": [],
       "backlinks": [
+        "en-av-de-bästa",
         "sent-idag-är-hon-en-av-världens-mest-kända-röster",
         "source-2026-06-22-greta-thunberg"
       ]
@@ -4314,6 +4451,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-när-greta-var-åtta-år-hörde-hon",
+        "sent-på-lördagsmorgonen-bakade-jag-kanelbullar",
         "source-2026-06-22-greta-thunberg"
       ]
     },
@@ -5311,7 +5449,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-pa-eftermiddagen-handlade-vi-mat",
-        "source-2026-06-22-en-helg"
+        "source-2026-06-22-en-helg",
+        "stanna-hemma"
       ]
     },
     {
@@ -5964,6 +6103,7 @@ window.KB_DATA = {
         "topic-social-kontakt"
       ],
       "backlinks": [
+        "inte-alls",
         "sent-ingen-stress",
         "source-2026-06-20-sms-till-en-van",
         "stress",
@@ -5994,6 +6134,69 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "ingenting"
+      ]
+    },
+    {
+      "slug": "insvept-i",
+      "type": "phrase",
+      "title": "insvept i",
+      "path": "knowledge_base/phrases/insvept-i.md",
+      "body": "# insvept i\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 裹着；包裹在……里 · 🇬🇧 wrapped in\n📝 字面: wrapped in\n\n## 用法说明 (Usage)\n\n- \"insvept\" 是 \"svepa in\" 的过去分词形式（participium），意为\"包裹进去\"\n- 常用来描述舒适地裹着毯子、围巾等的情景，带有温馨感\n- 搭配：insvept i en filt（裹着毯子）、insvept i en sjal（裹着围巾）\n\n## 短语中的语法 (Grammar inside)\n\n- \"insvept\" = 动词 \"svepa in\" 的过去分词，用作形容词\n- 与 \"i\" 连用表示包裹的材料/物品\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 svepa in sig i — 将自己裹进……\n- 🔄 täckt av — 被……覆盖（更广义）\n- 🔗 [[filt]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-jag-åt-dem-med-en-kopp-te-satt-insvept]] 🇸🇪 Jag åt dem med en kopp te och satt insvept i en filt. 🇨🇳 我裹着毯子坐着，就着一杯茶吃。",
+      "excerpt": "insvept i 🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 裹着；包裹在……里 · 🇬🇧 wrapped in 📝 字面: wrapped in 用法说明 (Usage) \"insvept\" 是 \"svepa in\" 的过去分词形式（participium），意为\"包裹进去\" 常用来描述舒适地裹着毯子、围巾等的情景，带有温馨感 搭配：insvept i ",
+      "forms": [],
+      "links": [
+        "filt",
+        "sent-jag-åt-dem-med-en-kopp-te-satt-insvept"
+      ],
+      "searchText": "insvept i insvept-i knowledge_base/phrases/insvept-i.md ---\ntype: phrase\nphrase: \"insvept i\"\ncategory: prepositionsuttryck\nregister: neutralt\nfrequency: 3\nzh: 裹着；包裹在……里\nen: wrapped in\nliteral: \"wrapped in\"\nhead_words: []\ngrammar: []\nrelated: []\ntopics: [\"topic-hemmet\"]\nsentences:\n  - sent-jag-åt-dem-med-en-kopp-te-satt-insvept\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# insvept i\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 裹着；包裹在……里 · 🇬🇧 wrapped in\n📝 字面: wrapped in\n\n## 用法说明 (Usage)\n\n- \"insvept\" 是 \"svepa in\" 的过去分词形式（participium），意为\"包裹进去\"\n- 常用来描述舒适地裹着毯子、围巾等的情景，带有温馨感\n- 搭配：insvept i en filt（裹着毯子）、insvept i en sjal（裹着围巾）\n\n## 短语中的语法 (Grammar inside)\n\n- \"insvept\" = 动词 \"svepa in\" 的过去分词，用作形容词\n- 与 \"i\" 连用表示包裹的材料/物品\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 svepa in sig i — 将自己裹进……\n- 🔄 täckt av — 被……覆盖（更广义）\n- 🔗 [[filt]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-jag-åt-dem-med-en-kopp-te-satt-insvept]] 🇸🇪 Jag åt dem med en kopp te och satt insvept i en filt. 🇨🇳 我裹着毯子坐着，就着一杯茶吃。\n",
+      "zh": "裹着；包裹在……里",
+      "en": "wrapped in",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "insvept i",
+      "category": "prepositionsuttryck",
+      "sentences": [
+        "sent-jag-åt-dem-med-en-kopp-te-satt-insvept"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "sent-jag-åt-dem-med-en-kopp-te-satt-insvept"
+      ]
+    },
+    {
+      "slug": "inte-alls",
+      "type": "phrase",
+      "title": "inte alls",
+      "path": "knowledge_base/phrases/inte-alls.md",
+      "body": "# inte alls\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 一点也不；根本不 · 🇬🇧 not at all\n📝 字面: not at all\n\n## 用法说明 (Usage)\n\n- 用于完全否定某状态或程度，语气强于单独的 \"inte\"\n- 作为独立回答：— Är du trött? — Inte alls!（你累吗？——一点也不！）\n- 在句子中作状语：Jag är inte alls trött（我一点也不累）\n\n## 短语中的语法 (Grammar inside)\n\n- \"inte\" 是否定副词（satsadverbial）\n- \"alls\" 是加强语气的副词，与 \"inte\" 搭配表示完全否定\n- → [[grammar-satsadverbial]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 absolut inte — 绝对不\n- 🔄 ingenting alls — 什么都没有\n- 🔗 [[ingen-stress]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-på-kvällen-lyssnade-jag-på-musik]] 🇸🇪 På kvällen lyssnade jag på musik och stressade inte alls. 🇨🇳 晚上我听音乐，一点也不着急。",
+      "excerpt": "inte alls 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 5/5 🇨🇳 一点也不；根本不 · 🇬🇧 not at all 📝 字面: not at all 用法说明 (Usage) 用于完全否定某状态或程度，语气强于单独的 \"inte\" 作为独立回答：— Är du trött? — Inte alls!（你累吗？——一点也不！） 在句子中作状语：Jag är inte alls",
+      "forms": [],
+      "links": [
+        "grammar-satsadverbial",
+        "ingen-stress",
+        "sent-på-kvällen-lyssnade-jag-på-musik"
+      ],
+      "searchText": "inte alls inte-alls knowledge_base/phrases/inte-alls.md ---\ntype: phrase\nphrase: \"inte alls\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 5\nzh: 一点也不；根本不\nen: not at all\nliteral: \"not at all\"\nhead_words: []\ngrammar: [\"grammar-satsadverbial\"]\nrelated: [\"ingen-stress\", \"ta-det-lugnt\"]\ntopics: [\"topic-vardagsrutin\"]\nsentences:\n  - sent-på-kvällen-lyssnade-jag-på-musik\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# inte alls\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 一点也不；根本不 · 🇬🇧 not at all\n📝 字面: not at all\n\n## 用法说明 (Usage)\n\n- 用于完全否定某状态或程度，语气强于单独的 \"inte\"\n- 作为独立回答：— Är du trött? — Inte alls!（你累吗？——一点也不！）\n- 在句子中作状语：Jag är inte alls trött（我一点也不累）\n\n## 短语中的语法 (Grammar inside)\n\n- \"inte\" 是否定副词（satsadverbial）\n- \"alls\" 是加强语气的副词，与 \"inte\" 搭配表示完全否定\n- → [[grammar-satsadverbial]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 absolut inte — 绝对不\n- 🔄 ingenting alls — 什么都没有\n- 🔗 [[ingen-stress]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-på-kvällen-lyssnade-jag-på-musik]] 🇸🇪 På kvällen lyssnade jag på musik och stressade inte alls. 🇨🇳 晚上我听音乐，一点也不着急。\n",
+      "zh": "一点也不；根本不",
+      "en": "not at all",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "inte alls",
+      "category": "fast-uttryck",
+      "sentences": [
+        "sent-på-kvällen-lyssnade-jag-på-musik"
+      ],
+      "grammar": [
+        "grammar-satsadverbial"
+      ],
+      "topics": [
+        "topic-vardagsrutin"
+      ],
+      "backlinks": [
+        "sent-på-kvällen-lyssnade-jag-på-musik"
       ]
     },
     {
@@ -7709,6 +7912,7 @@ window.KB_DATA = {
         "på-morgonen",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
         "sent-pa-kvallen-lagar-jag-middag-och-tittar",
+        "sent-på-kvällen-lyssnade-jag-på-musik",
         "sent-pa-kvallen-ringde-jag-mina-foraldrar",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-tid-och-tidsuttryck",
@@ -8541,6 +8745,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "stanna-hemma",
+      "type": "phrase",
+      "title": "stanna hemma",
+      "path": "knowledge_base/phrases/stanna-hemma.md",
+      "body": "# stanna hemma\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 待在家里 · 🇬🇧 to stay home\n📝 字面: stay home\n\n## 用法说明 (Usage)\n\n- 极其常用的日常表达，用于描述不外出、待在家里的状态或决定\n- \"stanna kvar hemma\" 是加强形式，含义相同，更强调\"留下来\"\n- 常与 \"bestämma sig för att\" 连用：Jag bestämde mig för att stanna hemma（我决定待在家里）\n\n## 短语中的语法 (Grammar inside)\n\n- \"stanna\" 是第二变化组动词（stannar/stannade/stannat）\n- \"hemma\" 是表示在家的地方副词（区别于 \"hem\" = 回家的方向）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 stanna kvar hemma — 更强调\"留下来待在家\"\n- 🔄 vara hemma — 在家（状态，不强调\"留下\"的动作）\n- 🔗 [[ta-det-lugnt]]\n- 🔗 [[hemma-hos]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-jag-bestämde-mig-för-att-stanna-hemma]] 🇸🇪 Jag bestämde mig för att stanna hemma hela helgen. 🇨🇳 我决定整个周末都待在家里。\n- [[sent-ibland-behöver-man-bara-stanna-hemma]] 🇸🇪 Ibland behöver man bara stanna hemma och vila. 🇨🇳 有时候人只需要待在家里休息一下。",
+      "excerpt": "stanna hemma 🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 待在家里 · 🇬🇧 to stay home 📝 字面: stay home 用法说明 (Usage) 极其常用的日常表达，用于描述不外出、待在家里的状态或决定 \"stanna kvar hemma\" 是加强形式，含义相同，更强调\"留下来\" 常与 \"bestämma sig för att\" 连用：Jag",
+      "forms": [],
+      "links": [
+        "hemma-hos",
+        "sent-ibland-behöver-man-bara-stanna-hemma",
+        "sent-jag-bestämde-mig-för-att-stanna-hemma",
+        "ta-det-lugnt"
+      ],
+      "searchText": "stanna hemma stanna-hemma knowledge_base/phrases/stanna-hemma.md ---\ntype: phrase\nphrase: \"stanna hemma\"\ncategory: vardagsfras\nregister: neutralt\nfrequency: 5\nzh: 待在家里；呆在家\nen: to stay home\nliteral: \"stay home\"\nhead_words: [\"stanna\", \"hemma\"]\ngrammar: []\nrelated: [\"ta-det-lugnt\", \"hemma-hos\"]\ntopics: [\"topic-vardagsrutin\", \"topic-hemmet\"]\nsentences:\n  - sent-jag-bestämde-mig-för-att-stanna-hemma\n  - sent-ibland-behöver-man-bara-stanna-hemma\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stanna hemma\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 待在家里 · 🇬🇧 to stay home\n📝 字面: stay home\n\n## 用法说明 (Usage)\n\n- 极其常用的日常表达，用于描述不外出、待在家里的状态或决定\n- \"stanna kvar hemma\" 是加强形式，含义相同，更强调\"留下来\"\n- 常与 \"bestämma sig för att\" 连用：Jag bestämde mig för att stanna hemma（我决定待在家里）\n\n## 短语中的语法 (Grammar inside)\n\n- \"stanna\" 是第二变化组动词（stannar/stannade/stannat）\n- \"hemma\" 是表示在家的地方副词（区别于 \"hem\" = 回家的方向）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 stanna kvar hemma — 更强调\"留下来待在家\"\n- 🔄 vara hemma — 在家（状态，不强调\"留下\"的动作）\n- 🔗 [[ta-det-lugnt]]\n- 🔗 [[hemma-hos]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-jag-bestämde-mig-för-att-stanna-hemma]] 🇸🇪 Jag bestämde mig för att stanna hemma hela helgen. 🇨🇳 我决定整个周末都待在家里。\n- [[sent-ibland-behöver-man-bara-stanna-hemma]] 🇸🇪 Ibland behöver man bara stanna hemma och vila. 🇨🇳 有时候人只需要待在家里休息一下。\n",
+      "zh": "待在家里；呆在家",
+      "en": "to stay home",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "stanna hemma",
+      "category": "vardagsfras",
+      "sentences": [
+        "sent-jag-bestämde-mig-för-att-stanna-hemma",
+        "sent-ibland-behöver-man-bara-stanna-hemma"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-vardagsrutin",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "sent-ibland-behöver-man-bara-stanna-hemma",
+        "sent-jag-bestämde-mig-för-att-stanna-hemma"
+      ]
+    },
+    {
       "slug": "stiga-upp",
       "type": "phrase",
       "title": "stiga upp",
@@ -8642,7 +8881,9 @@ window.KB_DATA = {
       "backlinks": [
         "bestämma-sig-för",
         "sent-solen-sken-och-vadret-var-fint",
-        "source-2026-06-22-en-helg"
+        "source-2026-06-22-en-helg",
+        "stanna-hemma",
+        "ta-lång-tid"
       ]
     },
     {
@@ -8770,6 +9011,37 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-15-restaurang-fodelsedag"
+      ]
+    },
+    {
+      "slug": "ta-lång-tid",
+      "type": "phrase",
+      "title": "ta lång tid",
+      "path": "knowledge_base/phrases/ta-lång-tid.md",
+      "body": "# ta lång tid\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 花很长时间 · 🇬🇧 to take a long time\n📝 字面: take long time\n\n## 用法说明 (Usage)\n\n- 描述某事耗时很长。主语通常是虚指的 **det** 或者具体的事物\n- 过去式：det **tog** lång tid（花了很长时间）\n- 询问耗时：Hur lång tid tar det?（需要多长时间？）\n\n## 短语中的语法 (Grammar inside)\n\n- ta → tar（presens）/ tog（preteritum）/ tagit（supinum）\n- \"lång\" 修饰 \"tid\"（tid = en-词，但在成语中固定用 lång）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 det tog lång tid — 花了很长时间（过去时）\n- 🔄 ta kort tid — 花很短时间\n- 🔄 ta tid — 需要时间（不限长短）\n- 🔗 [[ta-det-lugnt]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-det-tog-lång-tid-men-de-blev-jättegoda]] 🇸🇪 Det tog lång tid, men de blev jättegoda. 🇨🇳 花了很长时间，但做出来非常好吃。",
+      "excerpt": "ta lång tid 🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5 🇨🇳 花很长时间 · 🇬🇧 to take a long time 📝 字面: take long time 用法说明 (Usage) 描述某事耗时很长。主语通常是虚指的 det 或者具体的事物 过去式：det tog lång tid（花了很长时间） 询问耗时：Hur lång tid tar det?（需要多",
+      "forms": [],
+      "links": [
+        "sent-det-tog-lång-tid-men-de-blev-jättegoda",
+        "ta-det-lugnt"
+      ],
+      "searchText": "ta lång tid ta-lång-tid knowledge_base/phrases/ta-lång-tid.md ---\ntype: phrase\nphrase: \"ta lång tid\"\ncategory: vardagsfras\nregister: neutralt\nfrequency: 5\nzh: 花很长时间\nen: to take a long time\nliteral: \"take long time\"\nhead_words: [\"lång\"]\ngrammar: []\nrelated: [\"ta-det-lugnt\"]\ntopics: [\"topic-vardagsrutin\", \"topic-tid-och-tidsuttryck\"]\nsentences:\n  - sent-det-tog-lång-tid-men-de-blev-jättegoda\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ta lång tid\n\n🗣️ 类型: vardagsfras · 语域: neutralt · 常用度: 5/5\n🇨🇳 花很长时间 · 🇬🇧 to take a long time\n📝 字面: take long time\n\n## 用法说明 (Usage)\n\n- 描述某事耗时很长。主语通常是虚指的 **det** 或者具体的事物\n- 过去式：det **tog** lång tid（花了很长时间）\n- 询问耗时：Hur lång tid tar det?（需要多长时间？）\n\n## 短语中的语法 (Grammar inside)\n\n- ta → tar（presens）/ tog（preteritum）/ tagit（supinum）\n- \"lång\" 修饰 \"tid\"（tid = en-词，但在成语中固定用 lång）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 det tog lång tid — 花了很长时间（过去时）\n- 🔄 ta kort tid — 花很短时间\n- 🔄 ta tid — 需要时间（不限长短）\n- 🔗 [[ta-det-lugnt]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-det-tog-lång-tid-men-de-blev-jättegoda]] 🇸🇪 Det tog lång tid, men de blev jättegoda. 🇨🇳 花了很长时间，但做出来非常好吃。\n",
+      "zh": "花很长时间",
+      "en": "to take a long time",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "ta lång tid",
+      "category": "vardagsfras",
+      "sentences": [
+        "sent-det-tog-lång-tid-men-de-blev-jättegoda"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-vardagsrutin",
+        "topic-tid-och-tidsuttryck"
+      ],
+      "backlinks": [
+        "sent-det-tog-lång-tid-men-de-blev-jättegoda"
       ]
     },
     {
@@ -9506,6 +9778,7 @@ window.KB_DATA = {
       "backlinks": [
         "sent-det-var-rekord-på-svt-play",
         "sent-många-tittar-på-vm-på-tv",
+        "sent-sedan-tittade-jag-på-en-svensk-serie",
         "source-2026-06-19-nyheter-8sidor"
       ]
     },
@@ -12779,6 +13052,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-det-tog-lång-tid-men-de-blev-jättegoda",
+      "type": "sentence",
+      "title": "🇸🇪 Det tog lång tid, men de blev jättegoda.",
+      "path": "knowledge_base/sentences/sent-det-tog-lång-tid-men-de-blev-jättegoda.md",
+      "body": "# 🇸🇪 Det tog lång tid, men de blev jättegoda.\n\n🇨🇳 花了很长时间，但做出来非常好吃。\n\n## 结构 (Structure)\n\n```\n[Det]  [tog]  [lång tid]  ,  [men]  [de]  [blev]  [jättegoda]\n  主语   动词    宾语              连词   主语   系动词    表语(形容词)\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：ta → tog（强变化不规则动词）\n- \"men\" 是对等连词，连接转折关系\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[baka]]（implied — kanelbullarna）\n- 词组: [[ta-lång-tid]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 Det tog lång tid, men de blev jättegoda. 🇨🇳 花了很长时间，但做出来非常好吃。 结构 (Structure) [Det] [tog] [lång tid] , [men] [de] [blev] [jättegoda] 主语 动词 宾语 连词 主语 系动词 表语(形容词) 语法点 (Grammar) 📌 grammar preteritum — 过去时：ta → tog（强变化不",
+      "forms": [],
+      "links": [
+        "baka",
+        "grammar-preteritum",
+        "source-2026-06-22-en-helg-inne",
+        "ta-lång-tid"
+      ],
+      "searchText": "🇸🇪 Det tog lång tid, men de blev jättegoda. sent-det-tog-lång-tid-men-de-blev-jättegoda knowledge_base/sentences/sent-det-tog-lång-tid-men-de-blev-jättegoda.md ---\ntype: sentence\nsentence: \"Det tog lång tid, men de blev jättegoda.\"\nzh: 花了很长时间，但做出来非常好吃。\ncefr: A2\nwords: [\"baka\"]\nphrases: [\"ta-lång-tid\"]\ngrammar: [\"grammar-preteritum\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-mat-dryck\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det tog lång tid, men de blev jättegoda.\n\n🇨🇳 花了很长时间，但做出来非常好吃。\n\n## 结构 (Structure)\n\n```\n[Det]  [tog]  [lång tid]  ,  [men]  [de]  [blev]  [jättegoda]\n  主语   动词    宾语              连词   主语   系动词    表语(形容词)\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：ta → tog（强变化不规则动词）\n- \"men\" 是对等连词，连接转折关系\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[baka]]（implied — kanelbullarna）\n- 词组: [[ta-lång-tid]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A2",
+      "zh": "花了很长时间，但做出来非常好吃。",
+      "created": "2026-06-22",
+      "sentence": "Det tog lång tid, men de blev jättegoda.",
+      "words": [
+        "baka"
+      ],
+      "phrases": [
+        "ta-lång-tid"
+      ],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "ta-lång-tid"
+      ]
+    },
+    {
       "slug": "sent-det-tog-ungefar-en-timme",
       "type": "sentence",
       "title": "🇸🇈 Det tog ungefär en timme.",
@@ -12878,6 +13186,45 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-22-en-helg"
+      ]
+    },
+    {
+      "slug": "sent-det-var-faktiskt-en-av-de-bästa",
+      "type": "sentence",
+      "title": "🇸🇪 Det var faktiskt en av de bästa helgerna på länge.",
+      "path": "knowledge_base/sentences/sent-det-var-faktiskt-en-av-de-bästa.md",
+      "body": "# 🇸🇪 Det var faktiskt en av de bästa helgerna på länge.\n\n🇨🇳 这实际上是最近最棒的周末之一。\n\n## 结构 (Structure)\n\n```\n[Det]  [var]  [faktiskt]  [en av de bästa helgerna]  [på länge]\n  主语   动词    副词(语气)       表语（最高级短语）           时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：vara → var\n- 📌 [[grammar-komparativ]] — \"bästa\" 是 bra 的最高级；\"en av de + superlativ\" 结构\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[helg]], [[faktiskt]]\n- 词组: [[en-av-de-bästa]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 Det var faktiskt en av de bästa helgerna på länge. 🇨🇳 这实际上是最近最棒的周末之一。 结构 (Structure) [Det] [var] [faktiskt] [en av de bästa helgerna] [på länge] 主语 动词 副词(语气) 表语（最高级短语） 时间状语 语法点 (Grammar) 📌 grammar preteritum — 过去",
+      "forms": [],
+      "links": [
+        "en-av-de-bästa",
+        "faktiskt",
+        "grammar-komparativ",
+        "grammar-preteritum",
+        "helg",
+        "source-2026-06-22-en-helg-inne"
+      ],
+      "searchText": "🇸🇪 Det var faktiskt en av de bästa helgerna på länge. sent-det-var-faktiskt-en-av-de-bästa knowledge_base/sentences/sent-det-var-faktiskt-en-av-de-bästa.md ---\ntype: sentence\nsentence: \"Det var faktiskt en av de bästa helgerna på länge.\"\nzh: 这实际上是最近最棒的周末之一。\ncefr: A2\nwords: [\"helg\", \"faktiskt\"]\nphrases: [\"en-av-de-bästa\"]\ngrammar: [\"grammar-preteritum\", \"grammar-komparativ\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-vardagsrutin\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det var faktiskt en av de bästa helgerna på länge.\n\n🇨🇳 这实际上是最近最棒的周末之一。\n\n## 结构 (Structure)\n\n```\n[Det]  [var]  [faktiskt]  [en av de bästa helgerna]  [på länge]\n  主语   动词    副词(语气)       表语（最高级短语）           时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：vara → var\n- 📌 [[grammar-komparativ]] — \"bästa\" 是 bra 的最高级；\"en av de + superlativ\" 结构\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[helg]], [[faktiskt]]\n- 词组: [[en-av-de-bästa]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A2",
+      "zh": "这实际上是最近最棒的周末之一。",
+      "created": "2026-06-22",
+      "sentence": "Det var faktiskt en av de bästa helgerna på länge.",
+      "words": [
+        "helg",
+        "faktiskt"
+      ],
+      "phrases": [
+        "en-av-de-bästa"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-komparativ"
+      ],
+      "topics": [
+        "topic-vardagsrutin"
+      ],
+      "backlinks": [
+        "en-av-de-bästa"
       ]
     },
     {
@@ -12983,6 +13330,39 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-19-nyheter-8sidor"
       ]
+    },
+    {
+      "slug": "sent-det-var-verkligen-mysigt",
+      "type": "sentence",
+      "title": "🇸🇪 Det var verkligen mysigt.",
+      "path": "knowledge_base/sentences/sent-det-var-verkligen-mysigt.md",
+      "body": "# 🇸🇪 Det var verkligen mysigt.\n\n🇨🇳 真的很温馨惬意。\n\n## 结构 (Structure)\n\n```\n[Det]  [var]  [verkligen]  [mysigt]\n  主语   系动   副词(强调)    表语(形容词)\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：vara → var\n- \"mysigt\" 是 mysig 的中性形式（ett-词或泛指时用）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[mysig]], [[verkligen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 Det var verkligen mysigt. 🇨🇳 真的很温馨惬意。 结构 (Structure) [Det] [var] [verkligen] [mysigt] 主语 系动 副词(强调) 表语(形容词) 语法点 (Grammar) 📌 grammar preteritum — 过去时：vara → var \"mysigt\" 是 mysig 的中性形式（ett 词或泛指时用） 生词 & 词组 (Words & P",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "mysig",
+        "source-2026-06-22-en-helg-inne",
+        "verkligen"
+      ],
+      "searchText": "🇸🇪 Det var verkligen mysigt. sent-det-var-verkligen-mysigt knowledge_base/sentences/sent-det-var-verkligen-mysigt.md ---\ntype: sentence\nsentence: \"Det var verkligen mysigt.\"\nzh: 真的很温馨惬意。\ncefr: A1\nwords: [\"mysig\", \"verkligen\"]\nphrases: []\ngrammar: [\"grammar-preteritum\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-hemmet\", \"topic-vardagsrutin\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det var verkligen mysigt.\n\n🇨🇳 真的很温馨惬意。\n\n## 结构 (Structure)\n\n```\n[Det]  [var]  [verkligen]  [mysigt]\n  主语   系动   副词(强调)    表语(形容词)\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：vara → var\n- \"mysigt\" 是 mysig 的中性形式（ett-词或泛指时用）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[mysig]], [[verkligen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A1",
+      "zh": "真的很温馨惬意。",
+      "created": "2026-06-22",
+      "sentence": "Det var verkligen mysigt.",
+      "words": [
+        "mysig",
+        "verkligen"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-hemmet",
+        "topic-vardagsrutin"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-det-visar-en-ny-undersokning-av-indikator",
@@ -17787,6 +18167,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-i-fredags-regnade-det",
+      "type": "sentence",
+      "title": "🇸🇪 I fredags regnade det.",
+      "path": "knowledge_base/sentences/sent-i-fredags-regnade-det.md",
+      "body": "# 🇸🇪 I fredags regnade det.\n\n🇨🇳 上周五下雨了。\n\n## 结构 (Structure)\n\n```\n[I fredags]  [regnade]  [det]\n  时间状语      动词      主语(虚指)\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：regna → regnade（规则第一组）\n- 📌 主题前置（topikalisering）：时间状语 \"i fredags\" 置于句首，动词仍保持第二位\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[regna]] — 下雨（非人称动词，主语永远是 det）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 I fredags regnade det. 🇨🇳 上周五下雨了。 结构 (Structure) [I fredags] [regnade] [det] 时间状语 动词 主语(虚指) 语法点 (Grammar) 📌 grammar preteritum — 过去时：regna → regnade（规则第一组） 📌 主题前置（topikalisering）：时间状语 \"i fredags\" 置于句首，动词仍保持第二位 生",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "regna",
+        "source-2026-06-22-en-helg-inne"
+      ],
+      "searchText": "🇸🇪 I fredags regnade det. sent-i-fredags-regnade-det knowledge_base/sentences/sent-i-fredags-regnade-det.md ---\ntype: sentence\nsentence: \"I fredags regnade det.\"\nzh: 上周五下雨了。\ncefr: A1\nwords: [\"regna\"]\nphrases: []\ngrammar: [\"grammar-preteritum\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-vader-och-arstider\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I fredags regnade det.\n\n🇨🇳 上周五下雨了。\n\n## 结构 (Structure)\n\n```\n[I fredags]  [regnade]  [det]\n  时间状语      动词      主语(虚指)\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：regna → regnade（规则第一组）\n- 📌 主题前置（topikalisering）：时间状语 \"i fredags\" 置于句首，动词仍保持第二位\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[regna]] — 下雨（非人称动词，主语永远是 det）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A1",
+      "zh": "上周五下雨了。",
+      "created": "2026-06-22",
+      "sentence": "I fredags regnade det.",
+      "words": [
+        "regna"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-i-genomsnitt-fyra-timmar-och-57-minuter",
       "type": "sentence",
       "title": "🇸🇪 I genomsnitt fyra timmar och 57 minuter.",
@@ -18196,6 +18606,47 @@ window.KB_DATA = {
         "det-finns",
         "grammar-det-finns",
         "source-2026-06-09-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "sent-ibland-behöver-man-bara-stanna-hemma",
+      "type": "sentence",
+      "title": "🇸🇪 Ibland behöver man bara stanna hemma och vila.",
+      "path": "knowledge_base/sentences/sent-ibland-behöver-man-bara-stanna-hemma.md",
+      "body": "# 🇸🇪 Ibland behöver man bara stanna hemma och vila.\n\n🇨🇳 有时候人只需要待在家里休息一下。\n\n## 结构 (Structure)\n\n```\n[Ibland]  [behöver]  [man]  [bara]  [stanna hemma]  [och]  [vila]\n   状语      动词      主语    副词      动词短语        连词    infinitiv\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-man-pronomen]] — 泛指代词 man = 一个人/大家/人们\n- 📌 [[grammar-modala-hjalpverb]] — behöver + infinitiv（需要做某事）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vila]], [[stanna]]\n- 词组: [[stanna-hemma]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 Ibland behöver man bara stanna hemma och vila. 🇨🇳 有时候人只需要待在家里休息一下。 结构 (Structure) [Ibland] [behöver] [man] [bara] [stanna hemma] [och] [vila] 状语 动词 主语 副词 动词短语 连词 infinitiv 语法点 (Grammar) 📌 grammar man pronomen — 泛",
+      "forms": [],
+      "links": [
+        "grammar-man-pronomen",
+        "grammar-modala-hjalpverb",
+        "source-2026-06-22-en-helg-inne",
+        "stanna",
+        "stanna-hemma",
+        "vila"
+      ],
+      "searchText": "🇸🇪 Ibland behöver man bara stanna hemma och vila. sent-ibland-behöver-man-bara-stanna-hemma knowledge_base/sentences/sent-ibland-behöver-man-bara-stanna-hemma.md ---\ntype: sentence\nsentence: \"Ibland behöver man bara stanna hemma och vila.\"\nzh: 有时候人只需要待在家里休息一下。\ncefr: A2\nwords: [\"vila\", \"stanna\"]\nphrases: [\"stanna-hemma\"]\ngrammar: [\"grammar-man-pronomen\", \"grammar-modala-hjalpverb\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-vardagsrutin\", \"topic-hemmet\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Ibland behöver man bara stanna hemma och vila.\n\n🇨🇳 有时候人只需要待在家里休息一下。\n\n## 结构 (Structure)\n\n```\n[Ibland]  [behöver]  [man]  [bara]  [stanna hemma]  [och]  [vila]\n   状语      动词      主语    副词      动词短语        连词    infinitiv\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-man-pronomen]] — 泛指代词 man = 一个人/大家/人们\n- 📌 [[grammar-modala-hjalpverb]] — behöver + infinitiv（需要做某事）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vila]], [[stanna]]\n- 词组: [[stanna-hemma]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A2",
+      "zh": "有时候人只需要待在家里休息一下。",
+      "created": "2026-06-22",
+      "sentence": "Ibland behöver man bara stanna hemma och vila.",
+      "words": [
+        "vila",
+        "stanna"
+      ],
+      "phrases": [
+        "stanna-hemma"
+      ],
+      "grammar": [
+        "grammar-man-pronomen",
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [
+        "topic-vardagsrutin",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "grammar-man-pronomen",
+        "stanna-hemma"
       ]
     },
     {
@@ -19291,6 +19742,92 @@ window.KB_DATA = {
         "arbeta",
         "grammar-v2-ordfoljd",
         "index"
+      ]
+    },
+    {
+      "slug": "sent-jag-åt-dem-med-en-kopp-te-satt-insvept",
+      "type": "sentence",
+      "title": "🇸🇪 Jag åt dem med en kopp te och satt insvept i en filt.",
+      "path": "knowledge_base/sentences/sent-jag-åt-dem-med-en-kopp-te-satt-insvept.md",
+      "body": "# 🇸🇪 Jag åt dem med en kopp te och satt insvept i en filt.\n\n🇨🇳 我裹着毯子坐着，就着一杯茶吃。\n\n## 结构 (Structure)\n\n```\n[Jag]  [åt]  [dem]  [med en kopp te]  [och]  [satt]  [insvept i en filt]\n  主语   动词   宾语       状语           连词   动词        状语（分词短语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 强变化过去时：äta → åt；sitta → satt\n- \"insvept i\" = \"svepa in\" 的过去分词作定语/状语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[äta]], [[te]], [[filt]], [[sitta]]\n- 词组: [[insvept-i]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 Jag åt dem med en kopp te och satt insvept i en filt. 🇨🇳 我裹着毯子坐着，就着一杯茶吃。 结构 (Structure) [Jag] [åt] [dem] [med en kopp te] [och] [satt] [insvept i en filt] 主语 动词 宾语 状语 连词 动词 状语（分词短语） 语法点 (Grammar) 📌 grammar preter",
+      "forms": [],
+      "links": [
+        "äta",
+        "filt",
+        "grammar-preteritum",
+        "insvept-i",
+        "sitta",
+        "source-2026-06-22-en-helg-inne",
+        "te"
+      ],
+      "searchText": "🇸🇪 Jag åt dem med en kopp te och satt insvept i en filt. sent-jag-åt-dem-med-en-kopp-te-satt-insvept knowledge_base/sentences/sent-jag-åt-dem-med-en-kopp-te-satt-insvept.md ---\ntype: sentence\nsentence: \"Jag åt dem med en kopp te och satt insvept i en filt.\"\nzh: 我裹着毯子坐着，就着一杯茶吃。\ncefr: A2\nwords: [\"äta\", \"te\", \"filt\", \"sitta\"]\nphrases: [\"insvept-i\"]\ngrammar: [\"grammar-preteritum\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-hemmet\", \"topic-mat-dryck\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Jag åt dem med en kopp te och satt insvept i en filt.\n\n🇨🇳 我裹着毯子坐着，就着一杯茶吃。\n\n## 结构 (Structure)\n\n```\n[Jag]  [åt]  [dem]  [med en kopp te]  [och]  [satt]  [insvept i en filt]\n  主语   动词   宾语       状语           连词   动词        状语（分词短语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 强变化过去时：äta → åt；sitta → satt\n- \"insvept i\" = \"svepa in\" 的过去分词作定语/状语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[äta]], [[te]], [[filt]], [[sitta]]\n- 词组: [[insvept-i]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A2",
+      "zh": "我裹着毯子坐着，就着一杯茶吃。",
+      "created": "2026-06-22",
+      "sentence": "Jag åt dem med en kopp te och satt insvept i en filt.",
+      "words": [
+        "äta",
+        "te",
+        "filt",
+        "sitta"
+      ],
+      "phrases": [
+        "insvept-i"
+      ],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-hemmet",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "insvept-i"
+      ]
+    },
+    {
+      "slug": "sent-jag-bestämde-mig-för-att-stanna-hemma",
+      "type": "sentence",
+      "title": "🇸🇪 Jag bestämde mig för att stanna hemma hela helgen.",
+      "path": "knowledge_base/sentences/sent-jag-bestämde-mig-för-att-stanna-hemma.md",
+      "body": "# 🇸🇪 Jag bestämde mig för att stanna hemma hela helgen.\n\n🇨🇳 我决定整个周末都待在家里。\n\n## 结构 (Structure)\n\n```\n[Jag]  [bestämde]  [mig]  [för att]  [stanna hemma]  [hela helgen]\n  主语     动词      反身     连词        动词短语          时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-reflexivt-verb]] — 反身动词：bestämma sig（决定）\n- 📌 [[grammar-for-att-infinitiv]] — för att + infinitiv 表目的/结果\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bestämma-sig]], [[stanna]], [[helg]]\n- 词组: [[bestämma-sig-för-att]], [[stanna-hemma]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 Jag bestämde mig för att stanna hemma hela helgen. 🇨🇳 我决定整个周末都待在家里。 结构 (Structure) [Jag] [bestämde] [mig] [för att] [stanna hemma] [hela helgen] 主语 动词 反身 连词 动词短语 时间状语 语法点 (Grammar) 📌 grammar reflexivt verb — 反身动词",
+      "forms": [],
+      "links": [
+        "bestämma-sig",
+        "bestämma-sig-för-att",
+        "grammar-for-att-infinitiv",
+        "grammar-reflexivt-verb",
+        "helg",
+        "source-2026-06-22-en-helg-inne",
+        "stanna",
+        "stanna-hemma"
+      ],
+      "searchText": "🇸🇪 Jag bestämde mig för att stanna hemma hela helgen. sent-jag-bestämde-mig-för-att-stanna-hemma knowledge_base/sentences/sent-jag-bestämde-mig-för-att-stanna-hemma.md ---\ntype: sentence\nsentence: \"Jag bestämde mig för att stanna hemma hela helgen.\"\nzh: 我决定整个周末都待在家里。\ncefr: A2\nwords: [\"bestämma-sig\", \"stanna\", \"helg\"]\nphrases: [\"bestämma-sig-för-att\", \"stanna-hemma\"]\ngrammar: [\"grammar-reflexivt-verb\", \"grammar-for-att-infinitiv\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-vardagsrutin\", \"topic-hemmet\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Jag bestämde mig för att stanna hemma hela helgen.\n\n🇨🇳 我决定整个周末都待在家里。\n\n## 结构 (Structure)\n\n```\n[Jag]  [bestämde]  [mig]  [för att]  [stanna hemma]  [hela helgen]\n  主语     动词      反身     连词        动词短语          时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-reflexivt-verb]] — 反身动词：bestämma sig（决定）\n- 📌 [[grammar-for-att-infinitiv]] — för att + infinitiv 表目的/结果\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bestämma-sig]], [[stanna]], [[helg]]\n- 词组: [[bestämma-sig-för-att]], [[stanna-hemma]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A2",
+      "zh": "我决定整个周末都待在家里。",
+      "created": "2026-06-22",
+      "sentence": "Jag bestämde mig för att stanna hemma hela helgen.",
+      "words": [
+        "bestämma-sig",
+        "stanna",
+        "helg"
+      ],
+      "phrases": [
+        "bestämma-sig-för-att",
+        "stanna-hemma"
+      ],
+      "grammar": [
+        "grammar-reflexivt-verb",
+        "grammar-for-att-infinitiv"
+      ],
+      "topics": [
+        "topic-vardagsrutin",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "stanna-hemma"
       ]
     },
     {
@@ -22390,6 +22927,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-på-eftermiddagen-läste-jag-en-bok",
+      "type": "sentence",
+      "title": "🇸🇪 På eftermiddagen läste jag en bok som jag länge hade velat läsa.",
+      "path": "knowledge_base/sentences/sent-på-eftermiddagen-läste-jag-en-bok.md",
+      "body": "# 🇸🇪 På eftermiddagen läste jag en bok som jag länge hade velat läsa.\n\n🇨🇳 下午我读了一本一直很想读的书。\n\n## 结构 (Structure)\n\n```\n[På eftermiddagen]  [läste]  [jag]  [en bok]  [som jag länge hade velat läsa]\n      时间状语          动词     主语    宾语              关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-pluskvamperfekt]] — 过去完成时：hade velat（had wanted）— 描述比主句更早的动作\n- 📌 [[grammar-bisats]] — 关系从句：som jag länge hade velat läsa（定语从句修饰 bok）\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，动词 läste 保持第二位\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bok]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 På eftermiddagen läste jag en bok som jag länge hade velat läsa. 🇨🇳 下午我读了一本一直很想读的书。 结构 (Structure) [På eftermiddagen] [läste] [jag] [en bok] [som jag länge hade velat läsa] 时间状语 动词 主语 宾语 关系从句 语法点 (Grammar) 📌 gram",
+      "forms": [],
+      "links": [
+        "bok",
+        "grammar-bisats",
+        "grammar-pluskvamperfekt",
+        "grammar-v2-ordfoljd",
+        "source-2026-06-22-en-helg-inne"
+      ],
+      "searchText": "🇸🇪 På eftermiddagen läste jag en bok som jag länge hade velat läsa. sent-på-eftermiddagen-läste-jag-en-bok knowledge_base/sentences/sent-på-eftermiddagen-läste-jag-en-bok.md ---\ntype: sentence\nsentence: \"På eftermiddagen läste jag en bok som jag länge hade velat läsa.\"\nzh: 下午我读了一本一直很想读的书。\ncefr: B1\nwords: [\"läsa\", \"bok\", \"länge\", \"vilja\"]\nphrases: []\ngrammar: [\"grammar-pluskvamperfekt\", \"grammar-bisats\", \"grammar-v2-ordfoljd\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-fritid-och-resor\", \"topic-vardagsrutin\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 På eftermiddagen läste jag en bok som jag länge hade velat läsa.\n\n🇨🇳 下午我读了一本一直很想读的书。\n\n## 结构 (Structure)\n\n```\n[På eftermiddagen]  [läste]  [jag]  [en bok]  [som jag länge hade velat läsa]\n      时间状语          动词     主语    宾语              关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-pluskvamperfekt]] — 过去完成时：hade velat（had wanted）— 描述比主句更早的动作\n- 📌 [[grammar-bisats]] — 关系从句：som jag länge hade velat läsa（定语从句修饰 bok）\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，动词 läste 保持第二位\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bok]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "B1",
+      "zh": "下午我读了一本一直很想读的书。",
+      "created": "2026-06-22",
+      "sentence": "På eftermiddagen läste jag en bok som jag länge hade velat läsa.",
+      "words": [
+        "läsa",
+        "bok",
+        "länge",
+        "vilja"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-pluskvamperfekt",
+        "grammar-bisats",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-fritid-och-resor",
+        "topic-vardagsrutin"
+      ],
+      "backlinks": [
+        "grammar-pluskvamperfekt"
+      ]
+    },
+    {
       "slug": "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
       "type": "sentence",
       "title": "🇸🇪 På ett stort möte i FN höll hon ett känt tal.",
@@ -22657,6 +23234,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-på-kvällen-lyssnade-jag-på-musik",
+      "type": "sentence",
+      "title": "🇸🇪 På kvällen lyssnade jag på musik och stressade inte alls.",
+      "path": "knowledge_base/sentences/sent-på-kvällen-lyssnade-jag-på-musik.md",
+      "body": "# 🇸🇪 På kvällen lyssnade jag på musik och stressade inte alls.\n\n🇨🇳 晚上我听音乐，一点也不着急。\n\n## 结构 (Structure)\n\n```\n[På kvällen]  [lyssnade]  [jag]  [på musik]  [och]  [stressade]  [inte alls]\n   时间状语      动词       主语     宾语介词      连词     动词          否定副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：lyssna → lyssnade；stressa → stressade\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stressad]]\n- 词组: [[inte-alls]], [[på-kvällen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 På kvällen lyssnade jag på musik och stressade inte alls. 🇨🇳 晚上我听音乐，一点也不着急。 结构 (Structure) [På kvällen] [lyssnade] [jag] [på musik] [och] [stressade] [inte alls] 时间状语 动词 主语 宾语介词 连词 动词 否定副词 语法点 (Grammar) 📌 grammar",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd",
+        "inte-alls",
+        "på-kvällen",
+        "source-2026-06-22-en-helg-inne",
+        "stressad"
+      ],
+      "searchText": "🇸🇪 På kvällen lyssnade jag på musik och stressade inte alls. sent-på-kvällen-lyssnade-jag-på-musik knowledge_base/sentences/sent-på-kvällen-lyssnade-jag-på-musik.md ---\ntype: sentence\nsentence: \"På kvällen lyssnade jag på musik och stressade inte alls.\"\nzh: 晚上我听音乐，一点也不着急。\ncefr: A2\nwords: [\"stressad\", \"musik\"]\nphrases: [\"inte-alls\", \"på-kvällen\"]\ngrammar: [\"grammar-preteritum\", \"grammar-v2-ordfoljd\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-vardagsrutin\", \"topic-fritid-och-resor\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 På kvällen lyssnade jag på musik och stressade inte alls.\n\n🇨🇳 晚上我听音乐，一点也不着急。\n\n## 结构 (Structure)\n\n```\n[På kvällen]  [lyssnade]  [jag]  [på musik]  [och]  [stressade]  [inte alls]\n   时间状语      动词       主语     宾语介词      连词     动词          否定副词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：lyssna → lyssnade；stressa → stressade\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stressad]]\n- 词组: [[inte-alls]], [[på-kvällen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A2",
+      "zh": "晚上我听音乐，一点也不着急。",
+      "created": "2026-06-22",
+      "sentence": "På kvällen lyssnade jag på musik och stressade inte alls.",
+      "words": [
+        "stressad",
+        "musik"
+      ],
+      "phrases": [
+        "inte-alls",
+        "på-kvällen"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-vardagsrutin",
+        "topic-fritid-och-resor"
+      ],
+      "backlinks": [
+        "inte-alls"
+      ]
+    },
+    {
       "slug": "sent-pa-kvallen-ringde-jag-mina-foraldrar",
       "type": "sentence",
       "title": "🇸🇪 På kvällen ringde jag mina föräldrar och berättade om helgen.",
@@ -22701,6 +23319,44 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-22-en-helg"
       ]
+    },
+    {
+      "slug": "sent-på-lördagsmorgonen-bakade-jag-kanelbullar",
+      "type": "sentence",
+      "title": "🇸🇪 På lördagsmorgonen bakade jag kanelbullar för första gången.",
+      "path": "knowledge_base/sentences/sent-på-lördagsmorgonen-bakade-jag-kanelbullar.md",
+      "body": "# 🇸🇪 På lördagsmorgonen bakade jag kanelbullar för första gången.\n\n🇨🇳 周六早上我第一次烤了肉桂卷。\n\n## 结构 (Structure)\n\n```\n[På lördagsmorgonen]  [bakade]  [jag]  [kanelbullar]  [för första gången]\n       时间状语           动词     主语      宾语              状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：baka → bakade\n- 📌 [[grammar-v2-ordfoljd]] — V2 词序：时间状语前置时，动词仍在第二位，主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[baka]], [[kanelbulle]]\n- 词组: [[för-första-gången]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 På lördagsmorgonen bakade jag kanelbullar för första gången. 🇨🇳 周六早上我第一次烤了肉桂卷。 结构 (Structure) [På lördagsmorgonen] [bakade] [jag] [kanelbullar] [för första gången] 时间状语 动词 主语 宾语 状语 语法点 (Grammar) 📌 grammar preteri",
+      "forms": [],
+      "links": [
+        "baka",
+        "för-första-gången",
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd",
+        "kanelbulle",
+        "source-2026-06-22-en-helg-inne"
+      ],
+      "searchText": "🇸🇪 På lördagsmorgonen bakade jag kanelbullar för första gången. sent-på-lördagsmorgonen-bakade-jag-kanelbullar knowledge_base/sentences/sent-på-lördagsmorgonen-bakade-jag-kanelbullar.md ---\ntype: sentence\nsentence: \"På lördagsmorgonen bakade jag kanelbullar för första gången.\"\nzh: 周六早上我第一次烤了肉桂卷。\ncefr: A2\nwords: [\"baka\", \"kanelbulle\"]\nphrases: [\"för-första-gången\"]\ngrammar: [\"grammar-preteritum\", \"grammar-v2-ordfoljd\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-mat-dryck\", \"topic-vardagsrutin\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 På lördagsmorgonen bakade jag kanelbullar för första gången.\n\n🇨🇳 周六早上我第一次烤了肉桂卷。\n\n## 结构 (Structure)\n\n```\n[På lördagsmorgonen]  [bakade]  [jag]  [kanelbullar]  [för första gången]\n       时间状语           动词     主语      宾语              状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：baka → bakade\n- 📌 [[grammar-v2-ordfoljd]] — V2 词序：时间状语前置时，动词仍在第二位，主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[baka]], [[kanelbulle]]\n- 词组: [[för-första-gången]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A2",
+      "zh": "周六早上我第一次烤了肉桂卷。",
+      "created": "2026-06-22",
+      "sentence": "På lördagsmorgonen bakade jag kanelbullar för första gången.",
+      "words": [
+        "baka",
+        "kanelbulle"
+      ],
+      "phrases": [
+        "för-första-gången"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-mat-dryck",
+        "topic-vardagsrutin"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-pa-lunchen-brukar-jag-ata-tillsammans",
@@ -23041,6 +23697,45 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-09-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "sent-på-söndagen-hann-jag-också-städa",
+      "type": "sentence",
+      "title": "🇸🇪 På söndagen hann jag också städa och svara på några mejl.",
+      "path": "knowledge_base/sentences/sent-på-söndagen-hann-jag-också-städa.md",
+      "body": "# 🇸🇪 På söndagen hann jag också städa och svara på några mejl.\n\n🇨🇳 周日我还抽空打扫了屋子，回了几封邮件。\n\n## 结构 (Structure)\n\n```\n[På söndagen]  [hann]  [jag]  [också]  [städa]  [och]  [svara på några mejl]\n   时间状语      动词    主语    副词      infinitiv  连词       infinitiv短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-hinna-infinitiv]] — hinna + infinitiv：来得及做某事；preteritum: hann\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hinna]], [[städa]], [[mejl]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 På söndagen hann jag också städa och svara på några mejl. 🇨🇳 周日我还抽空打扫了屋子，回了几封邮件。 结构 (Structure) [På söndagen] [hann] [jag] [också] [städa] [och] [svara på några mejl] 时间状语 动词 主语 副词 infinitiv 连词 infinitiv短语 语法点 (Gr",
+      "forms": [],
+      "links": [
+        "grammar-hinna-infinitiv",
+        "grammar-v2-ordfoljd",
+        "hinna",
+        "mejl",
+        "source-2026-06-22-en-helg-inne",
+        "städa"
+      ],
+      "searchText": "🇸🇪 På söndagen hann jag också städa och svara på några mejl. sent-på-söndagen-hann-jag-också-städa knowledge_base/sentences/sent-på-söndagen-hann-jag-också-städa.md ---\ntype: sentence\nsentence: \"På söndagen hann jag också städa och svara på några mejl.\"\nzh: 周日我还抽空打扫了屋子，回了几封邮件。\ncefr: A2\nwords: [\"hinna\", \"städa\", \"mejl\"]\nphrases: []\ngrammar: [\"grammar-hinna-infinitiv\", \"grammar-v2-ordfoljd\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-vardagsrutin\", \"topic-hemmet\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 På söndagen hann jag också städa och svara på några mejl.\n\n🇨🇳 周日我还抽空打扫了屋子，回了几封邮件。\n\n## 结构 (Structure)\n\n```\n[På söndagen]  [hann]  [jag]  [också]  [städa]  [och]  [svara på några mejl]\n   时间状语      动词    主语    副词      infinitiv  连词       infinitiv短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-hinna-infinitiv]] — hinna + infinitiv：来得及做某事；preteritum: hann\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hinna]], [[städa]], [[mejl]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A2",
+      "zh": "周日我还抽空打扫了屋子，回了几封邮件。",
+      "created": "2026-06-22",
+      "sentence": "På söndagen hann jag också städa och svara på några mejl.",
+      "words": [
+        "hinna",
+        "städa",
+        "mejl"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-hinna-infinitiv",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-vardagsrutin",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "grammar-hinna-infinitiv"
       ]
     },
     {
@@ -23851,6 +24546,44 @@ window.KB_DATA = {
       "backlinks": [
         "ta-bussen"
       ]
+    },
+    {
+      "slug": "sent-sedan-tittade-jag-på-en-svensk-serie",
+      "type": "sentence",
+      "title": "🇸🇪 Sedan tittade jag på en svensk serie.",
+      "path": "knowledge_base/sentences/sent-sedan-tittade-jag-på-en-svensk-serie.md",
+      "body": "# 🇸🇪 Sedan tittade jag på en svensk serie.\n\n🇨🇳 然后我看了一部瑞典电视剧。\n\n## 结构 (Structure)\n\n```\n[Sedan]  [tittade]  [jag]  [på]  [en svensk serie]\n  状语      动词      主语   介词       宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：titta → tittade\n- 📌 [[grammar-v2-ordfoljd]] — \"sedan\" 前置，主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[titta]], [[serie]]\n- 词组: [[titta-på]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]",
+      "excerpt": "🇸🇪 Sedan tittade jag på en svensk serie. 🇨🇳 然后我看了一部瑞典电视剧。 结构 (Structure) [Sedan] [tittade] [jag] [på] [en svensk serie] 状语 动词 主语 介词 宾语 语法点 (Grammar) 📌 grammar preteritum — 过去时：titta → tittade 📌 grammar v2 ordfoljd ",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd",
+        "serie",
+        "source-2026-06-22-en-helg-inne",
+        "titta",
+        "titta-på"
+      ],
+      "searchText": "🇸🇪 Sedan tittade jag på en svensk serie. sent-sedan-tittade-jag-på-en-svensk-serie knowledge_base/sentences/sent-sedan-tittade-jag-på-en-svensk-serie.md ---\ntype: sentence\nsentence: \"Sedan tittade jag på en svensk serie.\"\nzh: 然后我看了一部瑞典电视剧。\ncefr: A1\nwords: [\"titta\", \"serie\"]\nphrases: [\"titta-på\"]\ngrammar: [\"grammar-preteritum\", \"grammar-v2-ordfoljd\"]\nsource: \"source-2026-06-22-en-helg-inne\"\ntopics: [\"topic-fritid-och-resor\", \"topic-vardagsrutin\"]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Sedan tittade jag på en svensk serie.\n\n🇨🇳 然后我看了一部瑞典电视剧。\n\n## 结构 (Structure)\n\n```\n[Sedan]  [tittade]  [jag]  [på]  [en svensk serie]\n  状语      动词      主语   介词       宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — 过去时：titta → tittade\n- 📌 [[grammar-v2-ordfoljd]] — \"sedan\" 前置，主谓倒装\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[titta]], [[serie]]\n- 词组: [[titta-på]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-en-helg-inne]]\n",
+      "cefr": "A1",
+      "zh": "然后我看了一部瑞典电视剧。",
+      "created": "2026-06-22",
+      "sentence": "Sedan tittade jag på en svensk serie.",
+      "words": [
+        "titta",
+        "serie"
+      ],
+      "phrases": [
+        "titta-på"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-fritid-och-resor",
+        "topic-vardagsrutin"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
@@ -31902,6 +32635,68 @@ window.KB_DATA = {
       "backlinks": []
     },
     {
+      "slug": "source-2026-06-22-en-helg-inne",
+      "type": "scenario",
+      "title": "Source: En helg hemma (story, 2026-06-22)",
+      "path": "knowledge_base/sources/source-2026-06-22-en-helg-inne.md",
+      "body": "# Source: En helg hemma (story, 2026-06-22)\n\n情景练习故事：下雨天的室内周末。\n\n> 来源文件: `imported/scenario-2026-06-22-en-helg-inne.md`",
+      "excerpt": "Source: En helg hemma (story, 2026 06 22) 情景练习故事：下雨天的室内周末。 来源文件: imported/scenario 2026 06 22 en helg inne.md",
+      "forms": [],
+      "links": [],
+      "searchText": "Source: En helg hemma (story, 2026-06-22) source-2026-06-22-en-helg-inne knowledge_base/sources/source-2026-06-22-en-helg-inne.md ---\nslug: source-2026-06-22-en-helg-inne\nkind: import\nsource_label: \"scenario — En helg hemma (story, inomhus/regnigt)\"\ndate: 2026-06-22\ntype: scenario\nwords:\n  - regna\n  - baka\n  - serie\n  - hinna\n  - mejl\n  - stressad\nphrases:\n  - stanna-hemma\n  - ta-lång-tid\n  - insvept-i\n  - inte-alls\n  - en-av-de-bästa\nsentences:\n  - sent-i-fredags-regnade-det\n  - sent-jag-bestämde-mig-för-att-stanna-hemma\n  - sent-på-lördagsmorgonen-bakade-jag-kanelbullar\n  - sent-det-tog-lång-tid-men-de-blev-jättegoda\n  - sent-jag-åt-dem-med-en-kopp-te-satt-insvept\n  - sent-på-eftermiddagen-läste-jag-en-bok\n  - sent-sedan-tittade-jag-på-en-svensk-serie\n  - sent-det-var-verkligen-mysigt\n  - sent-på-söndagen-hann-jag-också-städa\n  - sent-på-kvällen-lyssnade-jag-på-musik\n  - sent-det-var-faktiskt-en-av-de-bästa\n  - sent-ibland-behöver-man-bara-stanna-hemma\ngrammar:\n  - grammar-hinna-infinitiv\n  - grammar-pluskvamperfekt\n  - grammar-man-pronomen\n---\n\n# Source: En helg hemma (story, 2026-06-22)\n\n情景练习故事：下雨天的室内周末。\n\n> 来源文件: `imported/scenario-2026-06-22-en-helg-inne.md`\n",
+      "date": "2026-06-22",
+      "source_label": "scenario — En helg hemma (story, inomhus/regnigt)",
+      "kind": "import",
+      "words": [
+        "regna",
+        "baka",
+        "serie",
+        "hinna",
+        "mejl",
+        "stressad"
+      ],
+      "phrases": [
+        "stanna-hemma",
+        "ta-lång-tid",
+        "insvept-i",
+        "inte-alls",
+        "en-av-de-bästa"
+      ],
+      "sentences": [
+        "sent-i-fredags-regnade-det",
+        "sent-jag-bestämde-mig-för-att-stanna-hemma",
+        "sent-på-lördagsmorgonen-bakade-jag-kanelbullar",
+        "sent-det-tog-lång-tid-men-de-blev-jättegoda",
+        "sent-jag-åt-dem-med-en-kopp-te-satt-insvept",
+        "sent-på-eftermiddagen-läste-jag-en-bok",
+        "sent-sedan-tittade-jag-på-en-svensk-serie",
+        "sent-det-var-verkligen-mysigt",
+        "sent-på-söndagen-hann-jag-också-städa",
+        "sent-på-kvällen-lyssnade-jag-på-musik",
+        "sent-det-var-faktiskt-en-av-de-bästa",
+        "sent-ibland-behöver-man-bara-stanna-hemma"
+      ],
+      "grammar": [
+        "grammar-hinna-infinitiv",
+        "grammar-pluskvamperfekt",
+        "grammar-man-pronomen"
+      ],
+      "backlinks": [
+        "sent-det-tog-lång-tid-men-de-blev-jättegoda",
+        "sent-det-var-faktiskt-en-av-de-bästa",
+        "sent-det-var-verkligen-mysigt",
+        "sent-i-fredags-regnade-det",
+        "sent-ibland-behöver-man-bara-stanna-hemma",
+        "sent-jag-åt-dem-med-en-kopp-te-satt-insvept",
+        "sent-jag-bestämde-mig-för-att-stanna-hemma",
+        "sent-på-eftermiddagen-läste-jag-en-bok",
+        "sent-på-kvällen-lyssnade-jag-på-musik",
+        "sent-på-lördagsmorgonen-bakade-jag-kanelbullar",
+        "sent-på-söndagen-hann-jag-också-städa",
+        "sent-sedan-tittade-jag-på-en-svensk-serie"
+      ]
+    },
+    {
       "slug": "source-2026-06-22-en-helg",
       "type": "source",
       "title": "来源：En helg — vad jag gjorde（情景练习 story / berättelse，2026-06-22）",
@@ -32230,6 +33025,7 @@ window.KB_DATA = {
         "kollega",
         "kontor",
         "lön",
+        "mejl",
         "möte",
         "motiverad",
         "odlare",
@@ -32737,6 +33533,7 @@ window.KB_DATA = {
         "promenad",
         "segelbåt",
         "semester",
+        "serie",
         "sjö",
         "source-2026-06-10-vardagsord",
         "tillbringa",
@@ -32839,6 +33636,7 @@ window.KB_DATA = {
         "source-2026-06-17-kropp-halsa",
         "source-2026-06-18-listening-svt-latt",
         "stress",
+        "stressad",
         "sund",
         "tåla",
         "topic-kropp",
@@ -32890,6 +33688,7 @@ window.KB_DATA = {
       "created": "2026-06-09",
       "kind": "semantic-field",
       "backlinks": [
+        "baka",
         "balkong",
         "bekväm",
         "bok",
@@ -32922,6 +33721,7 @@ window.KB_DATA = {
         "penna",
         "rum",
         "säng",
+        "serie",
         "sko",
         "skrivbord",
         "soffa",
@@ -33110,6 +33910,7 @@ window.KB_DATA = {
         "source-2026-06-19-adjsubst-blandat",
         "stilig",
         "stolt",
+        "stressad",
         "stressig",
         "strukturerad",
         "svag",
@@ -33449,6 +34250,7 @@ window.KB_DATA = {
         "äppelpaj",
         "äpple",
         "bageri",
+        "baka",
         "banan",
         "beställa",
         "bit",
@@ -34507,6 +35309,7 @@ window.KB_DATA = {
         "fortfarande",
         "framtid",
         "helg",
+        "hinna",
         "just",
         "klocka",
         "morgon",
@@ -34649,6 +35452,7 @@ window.KB_DATA = {
         "moln",
         "njuta",
         "regn",
+        "regna",
         "sent-delar-av-sodra-norrland-far-regn",
         "sent-det-kan-ocksa-bli-regn-pa-andra-platser",
         "sent-sa-vadret-solen-kan-visa-sig-pa-flera",
@@ -34757,6 +35561,7 @@ window.KB_DATA = {
         "dricka",
         "förlust",
         "frukost",
+        "hinna",
         "hitta",
         "kollega",
         "kontor",
@@ -34764,6 +35569,7 @@ window.KB_DATA = {
         "laga",
         "lägga",
         "märka",
+        "mejl",
         "morgon",
         "oväntad",
         "personal",
@@ -34771,6 +35577,7 @@ window.KB_DATA = {
         "plötsligt",
         "polis",
         "promenad",
+        "regna",
         "ringa",
         "samtal",
         "snabbt",
@@ -36325,6 +37132,7 @@ window.KB_DATA = {
       "backlinks": [
         "dricka",
         "sent-forst-dricker-jag-en-kopp-kaffe",
+        "sent-jag-åt-dem-med-en-kopp-te-satt-insvept",
         "sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost",
         "sent-pa-lunchen-brukar-jag-ata-tillsammans",
         "source-2026-06-09-en-handelse-i-tidsordning",
@@ -36648,9 +37456,50 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "baka",
         "sent-ga-rakt-fram-forbi-frukten-sa-ser-du-bageriet-till-vanster",
         "source-2026-06-21-handla-i-mataffaren",
         "topic-mataffär"
+      ]
+    },
+    {
+      "slug": "baka",
+      "type": "word",
+      "title": "baka",
+      "path": "knowledge_base/words/baka.md",
+      "body": "# baka — verb\n\n📖 中文：烘焙；烤（面包、糕点） · English: to bake\n发音提示：['bɑːka]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | baka |\n| presens | bakar |\n| preteritum | bakade |\n| supinum | bakat |\n| imperativ | baka |\n\n## 词组搭配 (Collocations)\n\n- `baka bröd` — 烤面包\n- `baka kanelbullar` — 烤肉桂卷\n- `baka kaka` — 烤蛋糕/饼干\n- `baka en paj` — 烤派\n- `baka hemma` — 在家烘焙\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag bakar kanelbullar varje lördag. — 🇨🇳 我每周六都烤肉桂卷。\n- 🇸🇪 Mamma bakade ett stort bröd till frukost. — 🇨🇳 妈妈烤了一个大面包当早餐。\n- 🇸🇪 Vi ska baka tillsammans i helgen. — 🇨🇳 我们这个周末要一起烘焙。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bageri]], [[bulle]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 第一变化组动词，规则变化\n- 只用于烤箱烘焙；\"grilla\" 是烧烤，\"steka\" 是煎/炒",
+      "excerpt": "baka — verb 📖 中文：烘焙；烤（面包、糕点） · English: to bake 发音提示：['bɑːka] 语法变形 (Forms) form Swedish infinitiv baka presens bakar preteritum bakade supinum bakat imperativ baka 词组搭配 (Collocations) baka bröd — 烤面包 baka kanelbullar — ",
+      "forms": [
+        "baka",
+        "bakar",
+        "bakade",
+        "bakat"
+      ],
+      "links": [
+        "bageri",
+        "bulle",
+        "topic-hemmet",
+        "topic-mat-dryck"
+      ],
+      "searchText": "baka baka knowledge_base/words/baka.md ---\ntype: word\nlemma: \"baka\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: A2\nzh: 烘焙；烤（面包、糕点）\nen: to bake\nsynonyms: []\nantonyms: []\nfamily: [\"bakelse\", \"bageri\", \"bakverk\"]\ntopics: [\"topic-mat-dryck\", \"topic-hemmet\"]\nsentences:\n  - sent-på-lördagsmorgonen-bakade-jag-kanelbullar\n  - sent-det-tog-lång-tid-men-de-blev-jättegoda\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# baka — verb\n\n📖 中文：烘焙；烤（面包、糕点） · English: to bake\n发音提示：['bɑːka]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | baka |\n| presens | bakar |\n| preteritum | bakade |\n| supinum | bakat |\n| imperativ | baka |\n\n## 词组搭配 (Collocations)\n\n- `baka bröd` — 烤面包\n- `baka kanelbullar` — 烤肉桂卷\n- `baka kaka` — 烤蛋糕/饼干\n- `baka en paj` — 烤派\n- `baka hemma` — 在家烘焙\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag bakar kanelbullar varje lördag. — 🇨🇳 我每周六都烤肉桂卷。\n- 🇸🇪 Mamma bakade ett stort bröd till frukost. — 🇨🇳 妈妈烤了一个大面包当早餐。\n- 🇸🇪 Vi ska baka tillsammans i helgen. — 🇨🇳 我们这个周末要一起烘焙。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bageri]], [[bulle]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 第一变化组动词，规则变化\n- 只用于烤箱烘焙；\"grilla\" 是烧烤，\"steka\" 是煎/炒\n",
+      "lemma": "baka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "烘焙；烤（面包、糕点）",
+      "en": "to bake",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-på-lördagsmorgonen-bakade-jag-kanelbullar",
+        "sent-det-tog-lång-tid-men-de-blev-jättegoda"
+      ],
+      "topics": [
+        "topic-mat-dryck",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "sent-det-tog-lång-tid-men-de-blev-jättegoda",
+        "sent-på-lördagsmorgonen-bakade-jag-kanelbullar"
       ]
     },
     {
@@ -37328,6 +38177,7 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "sent-då-bestämde-greta-sig-för-att-göra-något",
+        "sent-jag-bestämde-mig-för-att-stanna-hemma",
         "source-2026-06-22-greta-thunberg"
       ]
     },
@@ -38236,6 +39086,7 @@ window.KB_DATA = {
         "författare",
         "sent-i-bokhyllan-star-manga-bocker-foto-sitter",
         "sent-innan-jag-somnar-laser-jag-nagra-sidor",
+        "sent-på-eftermiddagen-läste-jag-en-bok",
         "sent-pa-nattduksbord-star-lampa-bok-bredvid",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-10-zlatan-subst-verb",
@@ -39212,6 +40063,7 @@ window.KB_DATA = {
         "topic-mat-dryck"
       ],
       "backlinks": [
+        "baka",
         "bröd",
         "köttbulle",
         "mjuk",
@@ -41211,6 +42063,7 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "egentligen",
+        "sent-det-var-faktiskt-en-av-de-bästa",
         "sent-fika-det-smakar-ju-faktiskt-för-gott",
         "sent-fika-ungefar-likadant-faktiskt"
       ]
@@ -41807,6 +42660,7 @@ window.KB_DATA = {
         "sent-figurerna-från-filmen-toy-story",
         "sent-filmen-är-gjord-i-dator",
         "sent-nu-går-nya-filmen-toy-story",
+        "serie",
         "source-2026-06-18-nyheter-8sidor",
         "topic-film"
       ]
@@ -41848,7 +42702,9 @@ window.KB_DATA = {
         "topic-hemmet"
       ],
       "backlinks": [
+        "insvept-i",
         "kudde",
+        "sent-jag-åt-dem-med-en-kopp-te-satt-insvept",
         "sent-pa-sangen-ligger-en-kudde-och-en-filt",
         "source-2026-06-09-rumsliga-relationer"
       ]
@@ -46219,7 +47075,9 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-det-var-en-vanlig-helg-men-jag-trivdes",
+        "sent-det-var-faktiskt-en-av-de-bästa",
         "sent-jag-är-ledig-hela-helgen",
+        "sent-jag-bestämde-mig-för-att-stanna-hemma",
         "sent-nasta-helg-hoppas-jag-att-vadret",
         "sent-pa-kvallen-ringde-jag-mina-foraldrar",
         "source-2026-06-20-sms-till-en-van",
@@ -46369,6 +47227,44 @@ window.KB_DATA = {
       "backlinks": [
         "topic-mat-dryck",
         "varm"
+      ]
+    },
+    {
+      "slug": "hinna",
+      "type": "word",
+      "title": "hinna",
+      "path": "knowledge_base/words/hinna.md",
+      "body": "# hinna — verb\n\n📖 中文：来得及；有时间（做某事） · English: to have time to; to manage to; to make it (in time)\n发音提示：['hɪna]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | hinna |\n| presens | hinner |\n| preteritum | hann |\n| supinum | hunnit |\n| imperativ | hinn |\n\n> ⚠️ 强变化动词（oregelbundet）：hinna → hinner → hann → hunnit\n\n## 词组搭配 (Collocations)\n\n- `hinna (med) att + infinitiv` — 来得及做某事\n- `hinna inte` — 来不及；没时间\n- `hann du äta?` — 你吃了吗？（来得及吃吗？）\n- `hinna hem` — 来得及回家\n- `hinna med tåget` — 赶上火车\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag hann inte ringa dig igår. — 🇨🇳 我昨天没来得及给你打电话。\n- 🇸🇪 Hann du äta frukost innan jobbet? — 🇨🇳 你上班前来得及吃早饭吗？\n- 🇸🇪 Vi hinner inte med det nu. — 🇨🇳 我们现在没时间做那件事。\n- 🇸🇪 Hann du städa och svara på mejlen? — 🇨🇳 你来得及打扫和回邮件了吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[grammar-hinna-infinitiv]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-vardagsrutin]], [[topic-tid-och-tidsuttryck]]\n\n## 用法提示 (Usage Notes)\n\n- 强变化动词，需记忆：hinner / hann / hunnit\n- 常与 infinitiv 连用，att 可省略：hann (att) städa\n- 否定式 \"hann inte\" = \"didn't have time to\" / \"didn't make it\"\n- 参见: [[grammar-hinna-infinitiv]]",
+      "excerpt": "hinna — verb 📖 中文：来得及；有时间（做某事） · English: to have time to; to manage to; to make it (in time) 发音提示：['hɪna] 语法变形 (Forms) form Swedish infinitiv hinna presens hinner preteritum hann supinum hunnit imperativ hinn ⚠️ 强变化动词（",
+      "forms": [
+        "hinna",
+        "hinner",
+        "hann",
+        "hunnit",
+        "hinn"
+      ],
+      "links": [
+        "grammar-hinna-infinitiv",
+        "topic-tid-och-tidsuttryck",
+        "topic-vardagsrutin"
+      ],
+      "searchText": "hinna hinna knowledge_base/words/hinna.md ---\ntype: word\nlemma: \"hinna\"\nordklass: verb\nverbgrupp: oregelbundet\ngenus: \"\"\ncefr: A2\nzh: 来得及；有时间（做某事）\nen: to have time (to do sth); to make it (in time)\nsynonyms: []\nantonyms: []\nfamily: [\"hinner\", \"hann\", \"hunnit\"]\ntopics: [\"topic-vardagsrutin\", \"topic-tid-och-tidsuttryck\"]\nsentences:\n  - sent-på-söndagen-hann-jag-också-städa\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hinna — verb\n\n📖 中文：来得及；有时间（做某事） · English: to have time to; to manage to; to make it (in time)\n发音提示：['hɪna]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | hinna |\n| presens | hinner |\n| preteritum | hann |\n| supinum | hunnit |\n| imperativ | hinn |\n\n> ⚠️ 强变化动词（oregelbundet）：hinna → hinner → hann → hunnit\n\n## 词组搭配 (Collocations)\n\n- `hinna (med) att + infinitiv` — 来得及做某事\n- `hinna inte` — 来不及；没时间\n- `hann du äta?` — 你吃了吗？（来得及吃吗？）\n- `hinna hem` — 来得及回家\n- `hinna med tåget` — 赶上火车\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag hann inte ringa dig igår. — 🇨🇳 我昨天没来得及给你打电话。\n- 🇸🇪 Hann du äta frukost innan jobbet? — 🇨🇳 你上班前来得及吃早饭吗？\n- 🇸🇪 Vi hinner inte med det nu. — 🇨🇳 我们现在没时间做那件事。\n- 🇸🇪 Hann du städa och svara på mejlen? — 🇨🇳 你来得及打扫和回邮件了吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[grammar-hinna-infinitiv]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-vardagsrutin]], [[topic-tid-och-tidsuttryck]]\n\n## 用法提示 (Usage Notes)\n\n- 强变化动词，需记忆：hinner / hann / hunnit\n- 常与 infinitiv 连用，att 可省略：hann (att) städa\n- 否定式 \"hann inte\" = \"didn't have time to\" / \"didn't make it\"\n- 参见: [[grammar-hinna-infinitiv]]\n",
+      "lemma": "hinna",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "来得及；有时间（做某事）",
+      "en": "to have time (to do sth); to make it (in time)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-på-söndagen-hann-jag-också-städa"
+      ],
+      "topics": [
+        "topic-vardagsrutin",
+        "topic-tid-och-tidsuttryck"
+      ],
+      "backlinks": [
+        "sent-på-söndagen-hann-jag-också-städa"
       ]
     },
     {
@@ -48176,6 +49072,7 @@ window.KB_DATA = {
         "sent-fika-en-till-kanelbulle-skadar-väl-inte",
         "sent-fika-jag-skulle-vilja-ha-kanelbulle",
         "sent-fika-men-vi-har-farsk-kanelbulle",
+        "sent-på-lördagsmorgonen-bakade-jag-kanelbullar",
         "source-2026-06-20-sms-till-en-van",
         "topic-kafe-fika"
       ]
@@ -52618,6 +53515,7 @@ window.KB_DATA = {
         "oro",
         "orolig",
         "stress",
+        "stressad",
         "stressig",
         "topic-djur",
         "tyst"
@@ -53378,6 +54276,43 @@ window.KB_DATA = {
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22",
         "topic-samhälle-och-politik"
+      ]
+    },
+    {
+      "slug": "mejl",
+      "type": "word",
+      "title": "mejl",
+      "path": "knowledge_base/words/mejl.md",
+      "body": "# mejl — substantiv (ett)\n\n📖 中文：电子邮件 · English: email\n发音提示：[mejl]，与英语 \"mail\" 同音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett mejl |\n| bestämd singular | mejlet |\n| obestämd plural | mejl / mejlar |\n| bestämd plural | mejlen / mejlarna |\n\n> 📌 plural: \"mejl\" (无词尾) 和 \"mejlar\" 均可用，前者更正式。\n\n## 词组搭配 (Collocations)\n\n- `skriva ett mejl` — 写一封邮件\n- `svara på ett mejl` — 回邮件\n- `skicka ett mejl` — 发送邮件\n- `få ett mejl` — 收到一封邮件\n- `läsa sina mejl` — 查阅邮件\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag fick ett mejl från chefen. — 🇨🇳 我收到了老板的一封邮件。\n- 🇸🇪 Kan du svara på det mejlet? — 🇨🇳 你能回复那封邮件吗？\n- 🇸🇪 Jag ska skicka ett mejl till dig. — 🇨🇳 我要给你发一封邮件。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mejla（动词，发邮件）\n- 同义词: e-post（较正式）\n- 反义词: —\n- 主题: [[topic-vardagsrutin]], [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- \"mejl\" 是从英语 \"email\" 借来的非正式拼写，日常口语中最常用\n- 正式场合和文件中用 \"e-post\"\n- 动词形式：\"mejla\" (att mejla) — 发邮件给某人：mejla mig！",
+      "excerpt": "mejl — substantiv (ett) 📖 中文：电子邮件 · English: email 发音提示：[mejl]，与英语 \"mail\" 同音 语法变形 (Forms) form Swedish obestämd singular ett mejl bestämd singular mejlet obestämd plural mejl / mejlar bestämd plural mejlen / mejlarna 📌",
+      "forms": [
+        "mejl",
+        "mejlet",
+        "mejlar",
+        "mejlen",
+        "mejlarna"
+      ],
+      "links": [
+        "topic-arbete",
+        "topic-vardagsrutin"
+      ],
+      "searchText": "mejl mejl knowledge_base/words/mejl.md ---\ntype: word\nlemma: \"mejl\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: ett\ncefr: A1\nzh: 电子邮件\nen: email\nsynonyms: [\"e-tjänst\"]\nantonyms: []\nfamily: [\"mejla\", \"e-post\"]\ntopics: [\"topic-vardagsrutin\", \"topic-arbete\"]\nsentences:\n  - sent-på-söndagen-hann-jag-också-städa\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mejl — substantiv (ett)\n\n📖 中文：电子邮件 · English: email\n发音提示：[mejl]，与英语 \"mail\" 同音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett mejl |\n| bestämd singular | mejlet |\n| obestämd plural | mejl / mejlar |\n| bestämd plural | mejlen / mejlarna |\n\n> 📌 plural: \"mejl\" (无词尾) 和 \"mejlar\" 均可用，前者更正式。\n\n## 词组搭配 (Collocations)\n\n- `skriva ett mejl` — 写一封邮件\n- `svara på ett mejl` — 回邮件\n- `skicka ett mejl` — 发送邮件\n- `få ett mejl` — 收到一封邮件\n- `läsa sina mejl` — 查阅邮件\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag fick ett mejl från chefen. — 🇨🇳 我收到了老板的一封邮件。\n- 🇸🇪 Kan du svara på det mejlet? — 🇨🇳 你能回复那封邮件吗？\n- 🇸🇪 Jag ska skicka ett mejl till dig. — 🇨🇳 我要给你发一封邮件。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mejla（动词，发邮件）\n- 同义词: e-post（较正式）\n- 反义词: —\n- 主题: [[topic-vardagsrutin]], [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- \"mejl\" 是从英语 \"email\" 借来的非正式拼写，日常口语中最常用\n- 正式场合和文件中用 \"e-post\"\n- 动词形式：\"mejla\" (att mejla) — 发邮件给某人：mejla mig！\n",
+      "lemma": "mejl",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "电子邮件",
+      "en": "email",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-på-söndagen-hann-jag-också-städa"
+      ],
+      "topics": [
+        "topic-vardagsrutin",
+        "topic-arbete"
+      ],
+      "backlinks": [
+        "sent-på-söndagen-hann-jag-också-städa"
       ]
     },
     {
@@ -54910,6 +55845,7 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "kramgo",
+        "sent-det-var-verkligen-mysigt",
         "sent-fika-ska-vi-ga-in-mysigt",
         "trevlig"
       ]
@@ -58547,9 +59483,49 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "moln",
+        "regna",
         "sent-men-experterna-varnar-för",
         "source-2026-06-19-nyheter-8sidor",
         "väder"
+      ]
+    },
+    {
+      "slug": "regna",
+      "type": "word",
+      "title": "regna",
+      "path": "knowledge_base/words/regna.md",
+      "body": "# regna — verb\n\n📖 中文：下雨 · English: to rain\n发音提示：['rɛŋːna]，g 不发音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | regna |\n| presens | regnar |\n| preteritum | regnade |\n| supinum | regnat |\n| imperativ | regna |\n\n> ⚠️ 主语永远是非人称代词 **det**：det regnar（下雨了）。永远不说 \"himlen regnar\"。\n\n## 词组搭配 (Collocations)\n\n- `det regnar` — 下雨（现在时）\n- `det regnade` — 下雨了（过去时）\n- `det regnar ute` — 外面下雨\n- `det ska regna` — 要下雨了\n- `regna ihop med snö` — 雨夹雪\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det regnar ute idag. — 🇨🇳 今天外面在下雨。\n- 🇸🇪 Det regnade hela helgen. — 🇨🇳 整个周末都在下雨。\n- 🇸🇪 Det ska regna imorgon, ta med ett paraply. — 🇨🇳 明天会下雨，带上一把伞。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[regn]]\n- 同义词: —\n- 反义词: [[skina]] (太阳照耀)\n- 主题: [[topic-vader-och-arstider]], [[topic-vardagsrutin]]\n\n## 用法提示 (Usage Notes)\n\n- 非人称动词：主语必须是虚指的 **det**，与中文\"下雨\"类似但英文中 \"it rains\" 也一样\n- 与天气词汇一起用：det snöar（下雪）、det blåser（刮风）、det åskar（打雷）",
+      "excerpt": "regna — verb 📖 中文：下雨 · English: to rain 发音提示：['rɛŋːna]，g 不发音 语法变形 (Forms) form Swedish infinitiv regna presens regnar preteritum regnade supinum regnat imperativ regna ⚠️ 主语永远是非人称代词 det ：det regnar（下雨了）。永远不说 \"himlen reg",
+      "forms": [
+        "regna",
+        "regnar",
+        "regnade",
+        "regnat"
+      ],
+      "links": [
+        "regn",
+        "skina",
+        "topic-vader-och-arstider",
+        "topic-vardagsrutin"
+      ],
+      "searchText": "regna regna knowledge_base/words/regna.md ---\ntype: word\nlemma: \"regna\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: A1\nzh: 下雨\nen: to rain\nsynonyms: []\nantonyms: []\nfamily: [\"regn\"]\ntopics: [\"topic-vader-och-arstider\", \"topic-vardagsrutin\"]\nsentences:\n  - sent-i-fredags-regnade-det\n  - sent-det-blir-svalare-och-regnet\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# regna — verb\n\n📖 中文：下雨 · English: to rain\n发音提示：['rɛŋːna]，g 不发音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | regna |\n| presens | regnar |\n| preteritum | regnade |\n| supinum | regnat |\n| imperativ | regna |\n\n> ⚠️ 主语永远是非人称代词 **det**：det regnar（下雨了）。永远不说 \"himlen regnar\"。\n\n## 词组搭配 (Collocations)\n\n- `det regnar` — 下雨（现在时）\n- `det regnade` — 下雨了（过去时）\n- `det regnar ute` — 外面下雨\n- `det ska regna` — 要下雨了\n- `regna ihop med snö` — 雨夹雪\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det regnar ute idag. — 🇨🇳 今天外面在下雨。\n- 🇸🇪 Det regnade hela helgen. — 🇨🇳 整个周末都在下雨。\n- 🇸🇪 Det ska regna imorgon, ta med ett paraply. — 🇨🇳 明天会下雨，带上一把伞。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[regn]]\n- 同义词: —\n- 反义词: [[skina]] (太阳照耀)\n- 主题: [[topic-vader-och-arstider]], [[topic-vardagsrutin]]\n\n## 用法提示 (Usage Notes)\n\n- 非人称动词：主语必须是虚指的 **det**，与中文\"下雨\"类似但英文中 \"it rains\" 也一样\n- 与天气词汇一起用：det snöar（下雪）、det blåser（刮风）、det åskar（打雷）\n",
+      "lemma": "regna",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "下雨",
+      "en": "to rain",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-i-fredags-regnade-det",
+        "sent-det-blir-svalare-och-regnet"
+      ],
+      "topics": [
+        "topic-vader-och-arstider",
+        "topic-vardagsrutin"
+      ],
+      "backlinks": [
+        "sent-i-fredags-regnade-det"
       ]
     },
     {
@@ -60309,6 +61285,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "serie",
+      "type": "word",
+      "title": "serie",
+      "path": "knowledge_base/words/serie.md",
+      "body": "# serie — substantiv (en)\n\n📖 中文：电视剧；系列；连环漫画 · English: TV series; series; comic strip\n发音提示：['seːrɪe]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en serie |\n| bestämd singular | serien |\n| obestämd plural | serier |\n| bestämd plural | serierna |\n\n## 词组搭配 (Collocations)\n\n- `titta på en serie` — 看电视剧\n- `en svensk serie` — 一部瑞典剧\n- `en bra serie` — 一部好剧\n- `en serietidning` — 漫画杂志\n- `en tecknad serie` — 动画片；卡通连环画\n\n## 例句 (Sentences)\n\n**义项 1 — 电视剧 / TV-serie:**\n- 🇸🇪 Jag tittar på en bra serie på Netflix. — 🇨🇳 我在 Netflix 上看一部好剧。\n- 🇸🇪 Den här serien har tio avsnitt. — 🇨🇳 这部剧有十集。\n\n**义项 2 — 系列 / series (general):**\n- 🇸🇪 Det är en serie av händelser. — 🇨🇳 这是一系列事件。\n\n**义项 3 — 连环漫画 / comic strip:**\n- 🇸🇪 Jag läser en tecknad serie. — 🇨🇳 我在看一本连环漫画。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[film]] (泛指影视)\n- 反义词: —\n- 主题: [[topic-fritid-och-resor]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 最常见用法：titta på en serie（看剧）= watch a TV series\n- \"en tecknad serie\" 特指卡通连环画或动画片\n- 与 \"film\"（电影）区分：film 通常是独立一部，serie 是连续多集",
+      "excerpt": "serie — substantiv (en) 📖 中文：电视剧；系列；连环漫画 · English: TV series; series; comic strip 发音提示：['seːrɪe] 语法变形 (Forms) form Swedish obestämd singular en serie bestämd singular serien obestämd plural serier bestämd plural serier",
+      "forms": [
+        "serie",
+        "serien",
+        "serier",
+        "serierna"
+      ],
+      "links": [
+        "film",
+        "topic-fritid-och-resor",
+        "topic-hemmet"
+      ],
+      "searchText": "serie serie knowledge_base/words/serie.md ---\ntype: word\nlemma: \"serie\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: en\ncefr: A2\nzh: 电视剧；系列；连环漫画\nen: TV series; series; comic strip\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-fritid-och-resor\", \"topic-hemmet\"]\nsentences:\n  - sent-sedan-tittade-jag-på-en-svensk-serie\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# serie — substantiv (en)\n\n📖 中文：电视剧；系列；连环漫画 · English: TV series; series; comic strip\n发音提示：['seːrɪe]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en serie |\n| bestämd singular | serien |\n| obestämd plural | serier |\n| bestämd plural | serierna |\n\n## 词组搭配 (Collocations)\n\n- `titta på en serie` — 看电视剧\n- `en svensk serie` — 一部瑞典剧\n- `en bra serie` — 一部好剧\n- `en serietidning` — 漫画杂志\n- `en tecknad serie` — 动画片；卡通连环画\n\n## 例句 (Sentences)\n\n**义项 1 — 电视剧 / TV-serie:**\n- 🇸🇪 Jag tittar på en bra serie på Netflix. — 🇨🇳 我在 Netflix 上看一部好剧。\n- 🇸🇪 Den här serien har tio avsnitt. — 🇨🇳 这部剧有十集。\n\n**义项 2 — 系列 / series (general):**\n- 🇸🇪 Det är en serie av händelser. — 🇨🇳 这是一系列事件。\n\n**义项 3 — 连环漫画 / comic strip:**\n- 🇸🇪 Jag läser en tecknad serie. — 🇨🇳 我在看一本连环漫画。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[film]] (泛指影视)\n- 反义词: —\n- 主题: [[topic-fritid-och-resor]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 最常见用法：titta på en serie（看剧）= watch a TV series\n- \"en tecknad serie\" 特指卡通连环画或动画片\n- 与 \"film\"（电影）区分：film 通常是独立一部，serie 是连续多集\n",
+      "lemma": "serie",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "电视剧；系列；连环漫画",
+      "en": "TV series; series; comic strip",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-sedan-tittade-jag-på-en-svensk-serie"
+      ],
+      "topics": [
+        "topic-fritid-och-resor",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "sent-sedan-tittade-jag-på-en-svensk-serie"
+      ]
+    },
+    {
       "slug": "servitör",
       "type": "word",
       "title": "servitör",
@@ -60427,6 +61440,7 @@ window.KB_DATA = {
         "ligga",
         "sent-absolut-vi-har-ett-ledigt-bord",
         "sent-i-bokhyllan-star-manga-bocker-foto-sitter",
+        "sent-jag-åt-dem-med-en-kopp-te-satt-insvept",
         "sent-langs-parken-vaxer-hoga-trad-sitter-man-tidning",
         "sent-utanfor-kafeet-star-tre-bankar-sitter-par-manniskor",
         "source-2026-06-09-beskriva-en-gata",
@@ -60956,6 +61970,7 @@ window.KB_DATA = {
         "topic-vader-och-arstider"
       ],
       "backlinks": [
+        "regna",
         "sent-solen-sken-och-vadret-var-fint",
         "source-2026-06-22-en-helg"
       ]
@@ -62905,6 +63920,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-jag-stadade-lite-tvattade-klader",
+        "sent-på-söndagen-hann-jag-också-städa",
         "source-2026-06-22-en-helg"
       ]
     },
@@ -63069,6 +64085,8 @@ window.KB_DATA = {
         "topic-vardagsrutin"
       ],
       "backlinks": [
+        "sent-ibland-behöver-man-bara-stanna-hemma",
+        "sent-jag-bestämde-mig-för-att-stanna-hemma",
         "source-2026-06-19-pa-cafe-bestalla"
       ]
     },
@@ -63577,8 +64595,48 @@ window.KB_DATA = {
         "ingen-stress",
         "sent-ingen-stress",
         "source-2026-06-20-sms-till-en-van",
+        "stressad",
         "stressig",
         "topic-social-kontakt"
+      ]
+    },
+    {
+      "slug": "stressad",
+      "type": "word",
+      "title": "stressad",
+      "path": "knowledge_base/words/stressad.md",
+      "body": "# stressad — adjektiv\n\n📖 中文：压力大的；着急的；紧张忙碌的 · English: stressed; stressed out\n发音提示：['strɛsad]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum singular | stressad |\n| neutrum singular | stressat |\n| plural / bestämd | stressade |\n\n## 词组搭配 (Collocations)\n\n- `känna sig stressad` — 感到有压力\n- `vara stressad` — 处于压力之下\n- `inte alls stressad` — 一点也不着急\n- `bli stressad av` — 因……而感到压力\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är stressad av arbetet denna veckan. — 🇨🇳 这周工作让我压力很大。\n- 🇸🇪 Hon verkade inte alls stressad. — 🇨🇳 她看起来一点也不着急。\n- 🇸🇪 Varför är du så stressad idag? — 🇨🇳 你今天为什么这么紧张？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[stress]]\n- 同义词: [[stressig]]\n- 反义词: [[lugn]], avslappnad\n- 主题: [[topic-karaktarsord]], [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- \"stressad\" 描述一个人的状态（感到有压力）\n- \"stressig\" 描述情况或环境（很忙乱、令人有压力）：en stressig dag（一个忙碌/紧张的一天）\n- 区分：Jag är stressad（我压力大）vs. Det är en stressig dag（今天很忙）",
+      "excerpt": "stressad — adjektiv 📖 中文：压力大的；着急的；紧张忙碌的 · English: stressed; stressed out 发音提示：['strɛsad] 语法变形 (Forms) form Swedish utrum singular stressad neutrum singular stressat plural / bestämd stressade 词组搭配 (Collocations) känna ",
+      "forms": [
+        "stressad",
+        "stressat",
+        "stressade"
+      ],
+      "links": [
+        "lugn",
+        "stress",
+        "stressig",
+        "topic-hälsa",
+        "topic-karaktarsord"
+      ],
+      "searchText": "stressad stressad knowledge_base/words/stressad.md ---\ntype: word\nlemma: \"stressad\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: A2\nzh: 压力大的；着急的；紧张忙碌的\nen: stressed; stressed out\nsynonyms: [\"stressig\"]\nantonyms: [\"lugn\", \"avslappnad\"]\nfamily: [\"stress\"]\ntopics: [\"topic-karaktarsord\", \"topic-hälsa\"]\nsentences:\n  - sent-på-kvällen-lyssnade-jag-på-musik\n  - sent-det-var-faktiskt-en-av-de-bästa\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stressad — adjektiv\n\n📖 中文：压力大的；着急的；紧张忙碌的 · English: stressed; stressed out\n发音提示：['strɛsad]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum singular | stressad |\n| neutrum singular | stressat |\n| plural / bestämd | stressade |\n\n## 词组搭配 (Collocations)\n\n- `känna sig stressad` — 感到有压力\n- `vara stressad` — 处于压力之下\n- `inte alls stressad` — 一点也不着急\n- `bli stressad av` — 因……而感到压力\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag är stressad av arbetet denna veckan. — 🇨🇳 这周工作让我压力很大。\n- 🇸🇪 Hon verkade inte alls stressad. — 🇨🇳 她看起来一点也不着急。\n- 🇸🇪 Varför är du så stressad idag? — 🇨🇳 你今天为什么这么紧张？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[stress]]\n- 同义词: [[stressig]]\n- 反义词: [[lugn]], avslappnad\n- 主题: [[topic-karaktarsord]], [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- \"stressad\" 描述一个人的状态（感到有压力）\n- \"stressig\" 描述情况或环境（很忙乱、令人有压力）：en stressig dag（一个忙碌/紧张的一天）\n- 区分：Jag är stressad（我压力大）vs. Det är en stressig dag（今天很忙）\n",
+      "lemma": "stressad",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "压力大的；着急的；紧张忙碌的",
+      "en": "stressed; stressed out",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-på-kvällen-lyssnade-jag-på-musik",
+        "sent-det-var-faktiskt-en-av-de-bästa"
+      ],
+      "topics": [
+        "topic-karaktarsord",
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "sent-på-kvällen-lyssnade-jag-på-musik"
       ]
     },
     {
@@ -63619,7 +64677,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "nervös",
-        "stress"
+        "stress",
+        "stressad"
       ]
     },
     {
@@ -64715,6 +65774,7 @@ window.KB_DATA = {
       "backlinks": [
         "kardemummate",
         "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+        "sent-jag-åt-dem-med-en-kopp-te-satt-insvept",
         "topic-kafe-fika"
       ]
     },
@@ -65040,6 +66100,7 @@ window.KB_DATA = {
         "sent-jag-gick-in-i-en-bokhandel-tittade-pa-bocker",
         "sent-många-tittar-på-vm-på-tv",
         "sent-pa-kvallen-lagar-jag-middag-och-tittar",
+        "sent-sedan-tittade-jag-på-en-svensk-serie",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-vardagsrutin"
       ]
@@ -68162,6 +69223,7 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "sent-det-var-en-vanlig-helg-men-jag-trivdes",
+        "sent-det-var-verkligen-mysigt",
         "sent-fika-ja-verkligen-förresten-bulle",
         "sent-sverige-har-fyra-tydliga-arstider",
         "source-2026-06-02-valj-ratt-form"
@@ -68348,6 +69410,7 @@ window.KB_DATA = {
         "topic-fritid-och-resor"
       ],
       "backlinks": [
+        "sent-ibland-behöver-man-bara-stanna-hemma",
         "sent-jag-stadade-lite-tvattade-klader",
         "sömn",
         "source-2026-06-22-en-helg"
