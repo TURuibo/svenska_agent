@@ -198,7 +198,12 @@ function buildVocab() {
       zh: fm.zh || '',
       en: fm.en || '',
       known: fm.known === 'true' || fm.known === true,
+      created: fm.created || '',
       forms: surfaces,
+      // Full note body (markdown) so the reading page can render the SAME rich
+      // detail card as Former (forms table, collocations, sentences, usage notes)
+      // without having to load the multi-MB kb-data.js.
+      body: body.trim(),
     });
   }
   vocab.sort((a, b) => a.lemma.localeCompare(b.lemma));
