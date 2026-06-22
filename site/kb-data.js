@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 11:02:24",
+  "generatedAt": "2026-06-22 15:00:30",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -32044,6 +32044,7 @@ window.KB_DATA = {
         "just",
         "klocka",
         "morgon",
+        "paus",
         "plötsligt",
         "redan",
         "sedan",
@@ -53789,6 +53790,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "paus",
+      "type": "word",
+      "title": "paus",
+      "path": "knowledge_base/words/paus.md",
+      "body": "# paus — substantiv (en)\n\n📖 中文：暂停；休息；间歇 · English: pause, break, intermission\n发音提示：/paʉs/ au 读作近似「a-u」的滑音；u 是圆唇音。\n\n## 语法变形 (Forms)\n\n| Form | Obestämd | Bestämd |\n|------|----------|---------|\n| Singular | en paus | pausen |\n| Plural | pauser | pauserna |\n\n## 词组搭配 (Collocations)\n\n- `ta en paus` — 休息一下、歇一会儿\n- `göra en paus` — 暂停一下\n- `en kort paus` — 短暂的休息\n- `kaffepaus` — 喝咖啡的休息（≈ fika）\n- `lunchpaus` — 午休\n- `en paus i (något)` — …中的中断、间歇\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi tar en kort paus och fortsätter sedan. — 🇨🇳 我们休息一下，然后继续。\n- 🇸🇪 Kan vi göra en paus? Jag är trött. — 🇨🇳 我们能歇一会儿吗？我累了。\n- 🇸🇪 Det blev en lång paus i samtalet. — 🇨🇳 谈话中出现了长时间的停顿。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[pausa]] (v. 暂停，如暂停视频/活动)\n- 同义词: [[rast]] (工间/课间休息), [[uppehåll]] (中断、间歇)\n- 反义词: —\n- 主题: [[topic-tid-och-tidsuttryck]]\n\n## 用法提示 (Usage Notes)\n\n- `paus` vs `rast`：`rast` 多指学校/工作中固定的休息（课间、工间）；`paus` 更通用，也指活动/视频/谈话的暂停。\n- 动词用 `pausa`：`pausa filmen`（暂停电影）。\n- 口语里休息常说 `ta en paus` 或 `ta en fika`（去喝咖啡歇一下）。",
+      "excerpt": "paus — substantiv (en) 📖 中文：暂停；休息；间歇 · English: pause, break, intermission 发音提示：/paʉs/ au 读作近似「a u」的滑音；u 是圆唇音。 语法变形 (Forms) Form Obestämd Bestämd Singular en paus pausen Plural pauser pauserna 词组搭配 (Collocations) ta en ",
+      "forms": [
+        "paus",
+        "pausen",
+        "pauser",
+        "pauserna"
+      ],
+      "links": [
+        "pausa",
+        "rast",
+        "topic-tid-och-tidsuttryck",
+        "uppehåll"
+      ],
+      "searchText": "paus paus knowledge_base/words/paus.md ---\ntype: word\nlemma: \"paus\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"暂停；休息；间歇\"\nen: \"pause, break, intermission\"\nsynonyms: [rast, uppehåll]\nantonyms: []\nfamily: [pausa]\ntopics: [topic-tid-och-tidsuttryck]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# paus — substantiv (en)\n\n📖 中文：暂停；休息；间歇 · English: pause, break, intermission\n发音提示：/paʉs/ au 读作近似「a-u」的滑音；u 是圆唇音。\n\n## 语法变形 (Forms)\n\n| Form | Obestämd | Bestämd |\n|------|----------|---------|\n| Singular | en paus | pausen |\n| Plural | pauser | pauserna |\n\n## 词组搭配 (Collocations)\n\n- `ta en paus` — 休息一下、歇一会儿\n- `göra en paus` — 暂停一下\n- `en kort paus` — 短暂的休息\n- `kaffepaus` — 喝咖啡的休息（≈ fika）\n- `lunchpaus` — 午休\n- `en paus i (något)` — …中的中断、间歇\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi tar en kort paus och fortsätter sedan. — 🇨🇳 我们休息一下，然后继续。\n- 🇸🇪 Kan vi göra en paus? Jag är trött. — 🇨🇳 我们能歇一会儿吗？我累了。\n- 🇸🇪 Det blev en lång paus i samtalet. — 🇨🇳 谈话中出现了长时间的停顿。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[pausa]] (v. 暂停，如暂停视频/活动)\n- 同义词: [[rast]] (工间/课间休息), [[uppehåll]] (中断、间歇)\n- 反义词: —\n- 主题: [[topic-tid-och-tidsuttryck]]\n\n## 用法提示 (Usage Notes)\n\n- `paus` vs `rast`：`rast` 多指学校/工作中固定的休息（课间、工间）；`paus` 更通用，也指活动/视频/谈话的暂停。\n- 动词用 `pausa`：`pausa filmen`（暂停电影）。\n- 口语里休息常说 `ta en paus` 或 `ta en fika`（去喝咖啡歇一下）。\n",
+      "lemma": "paus",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "暂停；休息；间歇",
+      "en": "pause, break, intermission",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-tid-och-tidsuttryck"
+      ],
+      "backlinks": [
+        "rast"
+      ]
+    },
+    {
       "slug": "penna",
       "type": "word",
       "title": "penna",
@@ -55077,7 +55113,9 @@ window.KB_DATA = {
       "topics": [
         "topic-skola-och-utbildning"
       ],
-      "backlinks": []
+      "backlinks": [
+        "paus"
+      ]
     },
     {
       "slug": "räv",
