@@ -3,7 +3,7 @@ type: topic
 name: "samhälle-och-politik"
 kind: semantic-field
 zh: "社会与政治"
-members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska]
+members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda]
 created: "2026-06-04"
 ---
 
@@ -31,6 +31,12 @@ created: "2026-06-04"
 - [[strejka]] — 罢工/罢课（政治行动）
 - [[utsläpp]] — 排放
 - [[minska]] — 减少
+- [[invandrare]] — 移民
+- [[brottsling]] — 罪犯
+- [[misstänkt]] — 涉嫌的，嫌疑人
+- [[smuggla]] — 走私
+- [[drog]] — 毒品
+- [[förbjuda]] — 禁止
 
 ## 备注 (Notes)
 
