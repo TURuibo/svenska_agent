@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Former — 词形变化 by 词性</title>
     <link rel="stylesheet" href="../styles.css?v=2" />
-    <link rel="stylesheet" href="forms.css?v=2" />
+    <link rel="stylesheet" href="forms.css?v=3" />
   </head>
   <body class="formsBody" data-site="forms">
     <header class="formsHeader">
@@ -17,15 +17,17 @@
         <label class="formsSearch">
           <input id="formsSearch" type="search" autocomplete="off" placeholder="🔍 筛选 词 / 词形 / 意思…  ( / )" />
         </label>
-        <div class="formsGroup" role="group" aria-label="分组方式">
-          <span class="groupLabel">分组</span>
-          <button type="button" class="groupBtn" data-group="class" title="按词性分组">词性</button>
-          <button type="button" class="groupBtn active" data-group="date" title="按录入日期 + 来源分组">日期</button>
-        </div>
-        <div class="formsSort">
-          <button type="button" class="sortBtn active" data-sort="new" title="最新在前">最新</button>
-          <button type="button" class="sortBtn" data-sort="old" title="最早在前">最早</button>
-          <button type="button" class="sortBtn" data-sort="alpha" title="按字母">A–Ö</button>
+        <div class="formsControls">
+          <div class="formsGroup" role="group" aria-label="分组方式">
+            <span class="groupLabel">分组</span>
+            <button type="button" class="groupBtn" data-group="class" title="按词性分组">词性</button>
+            <button type="button" class="groupBtn active" data-group="date" title="按录入日期 + 来源分组">日期</button>
+          </div>
+          <div class="formsSort">
+            <button type="button" class="sortBtn active" data-sort="new" title="最新在前">最新</button>
+            <button type="button" class="sortBtn" data-sort="old" title="最早在前">最早</button>
+            <button type="button" class="sortBtn" data-sort="alpha" title="按字母">A–Ö</button>
+          </div>
         </div>
         <nav class="formsNav" aria-label="Page actions">
           <button type="button" id="chipToggle" class="navLink" title="显示/隐藏词性导航">词性 ▾</button>

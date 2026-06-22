@@ -87,6 +87,9 @@
   border-color: var(--green-dark);
 }
 
+/* Wrapper around 分组 + 排序 so they can share one scrollable row on phones. */
+.formsControls { display: flex; align-items: center; gap: 0.6rem 1rem; flex-wrap: wrap; flex: 0 0 auto; }
+
 .formsSort { display: flex; align-items: center; gap: 0.25rem; flex: 0 0 auto; }
 
 .sortBtn {
@@ -439,17 +442,21 @@
     font-size: 16px; /* prevents iOS zoom-on-focus */
   }
 
-  /* group + sort share one horizontally scrollable strip so pills never
-     get squashed; each pill is a comfortable tap target. */
-  .formsGroup,
-  .formsSort {
+  /* 分组 + 排序 share ONE horizontally scrollable strip (instead of wrapping
+     onto two separate rows) so the sticky header stays short and more word
+     cards are visible above the fold. Each pill keeps a comfortable tap size. */
+  .formsControls {
     order: 3;
+    flex: 1 1 100%;
+    flex-wrap: nowrap;
+    gap: 0.5rem;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
   }
-  .formsGroup::-webkit-scrollbar,
-  .formsSort::-webkit-scrollbar { display: none; }
+  .formsControls::-webkit-scrollbar { display: none; }
+  .formsGroup,
+  .formsSort { flex: 0 0 auto; }
   .groupBtn,
   .sortBtn,
   .navLink {
