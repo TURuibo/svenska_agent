@@ -8,6 +8,29 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— scenario-2026-06-22-en-helg — 5词 / 4词组 / 11句 / 2语法 —** | | | | | | |
+| [[skina]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[balkong]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[lat]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[städa]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[vila]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[i-lördags]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[ta-det-lugnt]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[bestämma-sig-för]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[hemma-hos]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-i-lordags-vaknade-jag-tidigt-fast]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-solen-sken-och-vadret-var-fint]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-pa-morgonen-lagade-jag-frukost-och-drack]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-efter-frukosten-cyklade-jag-till-parken]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-jag-motte-en-gammal-van-dar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-pa-eftermiddagen-handlade-vi-mat]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-pa-sondagen-var-jag-lat]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-jag-stadade-lite-tvattade-klader]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-pa-kvallen-ringde-jag-mina-foraldrar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-var-en-vanlig-helg-men-jag-trivdes]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-nasta-helg-hoppas-jag-att-vadret]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[grammar-preteritum-i-berattelse]] | grammar | — | 0 | 2.5 | 2026-06-22 | no |
+| [[grammar-i-lordags-vs-pa-lordag]] | grammar | — | 0 | 2.5 | 2026-06-22 | no |
 | **— scenario-2026-06-21-handla-i-mataffären — 8词 / 6词组 / 12句 / 1语法 —** | | | | | | |
 | [[mataffär]] | word | — | 0 | 2.5 | 2026-06-21 | no |
 | [[extrapris]] | word | — | 0 | 2.5 | 2026-06-21 | no |
