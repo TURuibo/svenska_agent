@@ -280,44 +280,89 @@
 .vocabPop {
   position: absolute;
   z-index: 50;
-  width: min(320px, calc(100vw - 24px));
+  width: min(420px, calc(100vw - 24px));
+  max-height: 74vh;
+  overflow-y: auto;
+  overscroll-behavior: contain;
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: 12px;
   box-shadow: 0 8px 28px rgba(32, 47, 38, 0.18);
-  padding: 12px 14px 12px;
+  padding: 14px 16px 16px;
   font-family: var(--cjk);
   font-size: 14px;
   line-height: 1.5;
 }
 .vocabPopClose {
-  position: absolute;
-  top: 6px;
-  right: 8px;
+  position: sticky;
+  float: right;
+  top: 0;
+  margin: -4px -6px 0 0;
   border: none;
   background: none;
   color: var(--muted);
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1;
   cursor: pointer;
   padding: 2px 4px;
+  z-index: 1;
 }
 .vocabPopClose:hover { color: var(--ink); }
-.vocabPopHead { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; padding-right: 18px; }
+.vocabPopHead { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px; padding-right: 18px; }
 .vocabPopLemma {
   font-family: "Iowan Old Style", Georgia, serif;
-  font-size: 19px;
+  font-size: 22px;
   font-weight: 600;
-  color: var(--ink);
+  color: var(--green);
 }
+.vocabPopMeta { display: inline-flex; flex-wrap: wrap; align-items: baseline; gap: 6px; }
 .vocabPopTag { font-size: 12px; color: var(--muted); }
 .vocabPopCefr {
   font-size: 11px; font-weight: 600; color: var(--gold);
   border: 1px solid var(--gold); border-radius: 999px; padding: 1px 7px;
 }
 .vocabPopKnown { font-size: 11px; color: var(--green); font-weight: 600; }
-.vocabPopGloss { margin-top: 8px; color: var(--ink); }
-.vocabPopForms { margin-top: 6px; font-size: 13px; color: var(--muted); }
+.vocabPopDate { font-size: 11px; color: var(--muted); }
+.vocabPopGloss { margin-top: 8px; color: var(--ink); font-size: 15px; }
+
+/* Form chips (lemma highlighted) — mirrors Former's detail card. */
+.vocabPopForms { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px; }
+.vpForm {
+  font-size: 13px; color: var(--ink);
+  background: var(--paper); border: 1px solid var(--line);
+  border-radius: 6px; padding: 2px 8px;
+}
+.vpForm.base { background: rgba(47, 111, 85, 0.14); border-color: var(--green); color: var(--green); font-weight: 600; }
+
+/* Rendered note body inside the card — a compact echo of .articleBody. */
+.vocabPopBody {
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+  font-size: 14px;
+  line-height: 1.65;
+}
+.vocabPopBody h1, .vocabPopBody h2, .vocabPopBody h3, .vocabPopBody h4 {
+  font-family: var(--cjk);
+  font-size: 14px;
+  margin: 14px 0 6px;
+  color: var(--muted);
+  font-weight: 700;
+}
+.vocabPopBody p { margin: 6px 0; }
+.vocabPopBody ul { margin: 6px 0; padding-left: 18px; }
+.vocabPopBody li { margin: 3px 0; }
+.vocabPopBody a { color: var(--blue); text-decoration: none; }
+.vocabPopBody a:hover { text-decoration: underline; }
+.vocabPopBody hr { border: none; border-top: 1px solid var(--line); margin: 10px 0; }
+.vocabPopBody code {
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 0.85em; background: var(--paper);
+  border: 1px solid var(--line); border-radius: 4px; padding: 1px 5px;
+}
+.vocabPopBody table { border-collapse: collapse; margin: 8px 0; font-size: 0.9em; width: 100%; }
+.vocabPopBody th, .vocabPopBody td { border: 1px solid var(--line); padding: 4px 8px; text-align: left; vertical-align: top; }
+.vocabPopBody th { background: var(--paper); font-weight: 600; }
 .vocabPopLink {
   display: inline-block;
   margin-top: 10px;

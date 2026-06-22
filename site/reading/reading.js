@@ -182,7 +182,7 @@
     targets.forEach(wrapTextNode);   // mutate after the walk so the walker isn't disturbed
   }
 
-  // ---- glossary popover ----
+  // ---- glossary popover (full note detail, rendered in-page) ----
   let popEl = null;
   function closePop() { if (popEl) { popEl.remove(); popEl = null; } }
   function positionPop(pop, span) {
@@ -198,28 +198,62 @@
     pop.style.left = left + 'px';
     pop.style.top = top + 'px';
   }
+
+  // Build the full detail card for one vocab entry: header (lemma + tags + gloss
+  // + form chips) followed by the note's whole markdown body (Forms table,
+  // collocations, sentences, usage notes …) — the same content Former shows.
+  function popInnerHtml(entry) {
+    const lemmaLc = entry.lemma.toLowerCase();
+    const meta = [];
+    if (entry.ordklass) meta.push(`<span class="vocabPopTag">${escapeHtml(entry.ordklass)}</span>`);
+    if (entry.cefr) meta.push(`<span class="vocabPopCefr">${escapeHtml(entry.cefr)}</span>`);
+    if (entry.known) meta.push(`<span class="vocabPopKnown">✓ 已掌握</span>`);
+    if (entry.created) meta.push(`<span class="vocabPopDate">${escapeHtml(entry.created)}</span>`);
+    const chips = (entry.forms || []).map((f) =>
+      `<span class="vpForm${f.toLowerCase() === lemmaLc ? ' base' : ''}">${escapeHtml(f)}</span>`).join('');
+    // Drop the leading "# lemma — ordklass" H1; the header above already shows it.
+    const bodyMd = (entry.body || '').replace(/^#\s+.*(\r?\n)+/, '');
+    return (
+      `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
+      `<div class="vocabPopHead">` +
+        `<span class="vocabPopLemma">${escapeHtml(entry.lemma)}</span>` +
+        (meta.length ? `<span class="vocabPopMeta">${meta.join('')}</span>` : '') +
+      `</div>` +
+      ((entry.zh || entry.en)
+        ? `<div class="vocabPopGloss">🇨🇳 ${escapeHtml(entry.zh || '—')}　·　${escapeHtml(entry.en || '—')}</div>` : '') +
+      (chips ? `<div class="vocabPopForms">${chips}</div>` : '') +
+      (bodyMd ? `<div class="vocabPopBody">${mdToHtml(bodyMd)}</div>` : '') +
+      `<a class="vocabPopLink" href="../sok/#note=${encodeURIComponent(entry.slug)}" target="_blank" rel="noopener">在 Sök 中打开完整笔记 →</a>`
+    );
+  }
+
+  function showEntry(entry) {
+    if (!popEl) return;
+    popEl.innerHTML = popInnerHtml(entry);
+    popEl.scrollTop = 0;
+  }
+
   function openPop(span) {
     closePop();
     const entry = vocabBySlug.get(span.dataset.slug);
     if (!entry) return;
-    const forms = (entry.forms || []).slice(0, 8).join(' · ');
     popEl = document.createElement('div');
     popEl.className = 'vocabPop';
-    popEl.innerHTML =
-      `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
-      `<div class="vocabPopHead">` +
-        `<span class="vocabPopLemma">${escapeHtml(entry.lemma)}</span>` +
-        (entry.ordklass ? `<span class="vocabPopTag">${escapeHtml(entry.ordklass)}</span>` : '') +
-        (entry.cefr ? `<span class="vocabPopCefr">${escapeHtml(entry.cefr)}</span>` : '') +
-        (entry.known ? `<span class="vocabPopKnown">✓ 已掌握</span>` : '') +
-      `</div>` +
-      ((entry.zh || entry.en)
-        ? `<div class="vocabPopGloss">🇨🇳 ${escapeHtml(entry.zh || '—')}　·　${escapeHtml(entry.en || '—')}</div>` : '') +
-      (forms ? `<div class="vocabPopForms">📐 ${escapeHtml(forms)}</div>` : '') +
-      `<a class="vocabPopLink" href="../sok/#note=${encodeURIComponent(entry.slug)}" target="_blank" rel="noopener">完整笔记 →</a>`;
+    // Delegated: close button, plus in-card navigation — a [[wikilink]] to another
+    // KB word opens that word's card in place instead of jumping away to Sök.
+    popEl.addEventListener('click', (e) => {
+      if (e.target.closest('.vocabPopClose')) { closePop(); return; }
+      const a = e.target.closest('a');
+      if (!a) return;
+      const m = (a.getAttribute('href') || '').match(/#note=([^&]+)/);
+      if (m) {
+        const slug = decodeURIComponent(m[1]);
+        if (vocabBySlug.has(slug)) { e.preventDefault(); showEntry(vocabBySlug.get(slug)); }
+      }
+    });
     document.body.appendChild(popEl);
+    showEntry(entry);
     positionPop(popEl, span);
-    popEl.querySelector('.vocabPopClose').addEventListener('click', closePop);
   }
 
   // Delegated: a tap on a highlighted word opens its glossary card (when 生词 is on).
