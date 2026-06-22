@@ -3,7 +3,7 @@ type: topic
 name: "midsommar-traditioner"
 kind: thematic
 zh: "仲夏节传统"
-members: ["midsommar", "midsommarafton", "midsommarstång", "högtid", "fira", "dansa", "plocka", "drömma", "gifta-sig-med", "sju-sorters-blommor", "jordgubbe", "sill", "potatis", "lax", "köttbulle"]
+members: ["midsommar", "midsommarafton", "midsommarstång", "högtid", "fira", "dansa", "plocka", "drömma", "gifta-sig-med", "sju-sorters-blommor", "jordgubbe", "sill", "potatis", "lax", "köttbulle", "blomsterkrans", "krans", "äng", "sjunga", "skåla", "snaps", "gräddfil", "färskpotatis", "midnatt", "kärlek", "klä-stången-med-blommor", "lägga-under-kudden", "skåla-med-snaps", "ljusa-nätter"]
 created: "2026-06-18"
 ---
 
@@ -22,15 +22,30 @@ created: "2026-06-18"
 - [[plocka]] — 采摘
 - [[drömma]] — 做梦/梦到
 - [[gifta-sig-med]] — 和…结婚
-- [[sju-sorters-blommor]] — 七种花
+- [[sju-sorters-blommor]] — 七种花（仲夏习俗）
 - [[jordgubbe]] — 草莓
 - [[sill]] — 鲱鱼
 - [[potatis]] — 土豆
 - [[lax]] — 三文鱼
 - [[köttbulle]] — 肉丸
+- [[blomsterkrans]] — 花环（头戴花环是仲夏节标志）
+- [[krans]] — 环/花环
+- [[äng]] — 草地（采花的地方）
+- [[sjunga]] — 唱歌（围柱唱《小青蛙》）
+- [[skåla]] — 干杯
+- [[snaps]] — 小杯烈酒（仲夏传统饮品）
+- [[gräddfil]] — 酸奶油（与土豆鲱鱼同食）
+- [[färskpotatis]] — 新鲜小土豆（仲夏经典菜）
+- [[midnatt]] — 午夜（仲夏夜晚依然明亮）
+- [[kärlek]] — 爱/爱情（七种花许愿梦见爱人）
+- [[klä-stången-med-blommor]] — 用花装饰仲夏柱
+- [[lägga-under-kudden]] — 放枕下（七种花习俗）
+- [[skåla-med-snaps]] — 用烈酒干杯
+- [[ljusa-nätter]] — 明亮的夜晚
 
 ## 备注 (Notes)
 
 - 瑞典仲夏节（Midsommar）是每年六月最重要的节日，自16世纪起就有记载
 - 传统：围着仲夏柱唱歌跳舞、采七种花放枕头下许愿、吃草莓和鲱鱼
 - 仲夏节前夕（midsommarafton）是主要庆祝日
+- 仲夏一夜明亮（ljusa nätter）是瑞典夏天独特的自然现象

@@ -8,6 +8,51 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— scenario-2026-06-22-en-dag-pa-midsommar — 15词 / 5词组 / 23句 / 1语法 (6词DUP 2词组DUP 3语法DUP) —** | | | | | | |
+| [[äng]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[kvist]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[blomsterkrans]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[krans]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[klä]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[löv]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[resa]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sjunga]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[färskpotatis]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[gräddfil]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[skåla]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[snaps]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[regna]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[kärlek]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[midnatt]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[klä-stången-med-blommor]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[lägga-under-kudden]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[skåla-med-snaps]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[ingen-bryr-sig]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[ljusa-nätter]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[grammar-tidsadverbial]] | grammar | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-är-midsommarafton]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-emma-vaknar-tidigt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-solen-skiner-redan]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-pa-morgonen-gar-emma-och-hennes-familj]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-de-plockar-blommor-och-grona-kvistar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-emma-gor-en-blomsterkrans-och-satter]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-sedan-klar-de-midsommarstangen-med-blommor]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hela-byn-samlas]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-tillsammans-reser-de-stangen]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-tar-tid-men-till-slut-star-den]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-alla-dansar-runt-stangen-och-sjunger]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-barnen-hoppar-och-skrattar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-till-lunch-ater-de-sill-med-farskpotatis]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-pappa-skalar-med-snaps]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-smakar-gott]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-pa-eftermiddagen-borjar-det-regna]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-men-ingen-bryr-sig]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-midsommar-ar-midsommar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-pa-kvallen-plockar-emma-sju-sorters-blommor]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hon-lagger-dem-under-kudden]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-kanske-drommar-hon-om-sin-framtida-karlek]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-natten-ar-ljus]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-klockan-ar-nastan-midnatt-men-himlen]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 | **— biografi-2026-06-22-greta-thunberg — 17词 / 8词组 / 25句 / 0语法(5 DUP) —** | | | | | | |
 | **— nyheter-8sidor-2026-06-22 — 11词 / 5词组 / 24句 / 2语法 (5词DUP 1词组DUP 1语法DUP) —** | | | | | | |
 | [[invandrare]] | word | — | 0 | 2.5 | 2026-06-22 | no |
