@@ -174,7 +174,8 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 在 remote 环境里生成今日情景练习并入库：
 1. /dagens-scenario   （自动按 day-of-year 轮换 14 主题，不需联网）
 2. 对刚生成的 inbox/scenario-*.md 跑 /import
-3. git add -A，commit，git pull --rebase origin main 后 push -u origin main
+3. git add -A，commit 后 push -u origin <branch>
+4. 用 mcp__github__ 工具创建 PR（base=main）并 merge_pull_request（squash）——若冲突先 merge origin/main、重建数据文件、push，再 merge PR
 ```
 > ⚠️ **本地与云端二选一**：同时在本地任务和云端跑会同一天生成两篇。改用云端后，请在桌面把本地那条 scenario 任务**停用**。
 
@@ -261,7 +262,8 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 在 remote 环境里抓今日瑞典语简易新闻并入库：
 1. /dagens-nyheter
 2. 对刚生成的 inbox/news-*.md 跑 /import
-3. git add -A，commit，git pull --rebase origin main 后 push -u origin main
+3. git add -A，commit 后 push -u origin <branch>
+4. 用 mcp__github__ 工具创建 PR（base=main）并 merge_pull_request（squash）——若冲突先 merge origin/main、重建数据文件、push，再 merge PR
 ```
 > ⚠️ **本地与云端二选一**：news 同时在本地 `svensk-news-daily` 和云端跑会重复抓取/产生两份当日新闻。
 > 改用云端后，请在桌面把本地 `svensk-news-daily` 任务**停用**。
@@ -297,7 +299,8 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 在 remote 环境里抓今日 SVT 简易新闻听力并入库：
 1. /dagens-horovning   （抓最新一集字幕→听力数据→重建 Lyssna 站，并写 inbox/horning-*.md）
 2. 若生成了 inbox/horning-*.md，对它跑 /import
-3. git add -A；若无改动(无新一集)则跳过不 commit；否则 commit、git pull --rebase origin main 后 push -u origin main
+3. git add -A；若无改动(无新一集)则跳过不 commit；否则 commit 后 push -u origin <branch>
+4. 有改动时：用 mcp__github__ 工具创建 PR（head=当前 branch，base=main），然后 merge_pull_request（squash）——若有冲突先 merge origin/main 进 branch、重建数据文件、再 push，然后 merge PR
 ```
 > SVT 仅**工作日 ~17:25** 更新，cron 建议 `30 16 * * 1-5`(UTC，≈瑞典夏令时 18:30，播完后)；周末跑也无害(查到的还是周五那集→已存在→无改动→跳过 push)。
 > ⚠️ **本地与云端二选一**：改用云端后请在桌面把本地 `svensk-horning-daily` **停用**。
@@ -335,7 +338,8 @@ A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
   在 remote 环境里跑一篇今日 lättläst 阅读文章并入库：
   1. /dagens-artikel   （按 day-of-year 自动轮换体裁、自动查重、联网核实事实后生成到 inbox/）
   2. 对刚生成的那份新 inbox/*.md 跑 /import（去重、建双向链接、归档到 imported/、重建站点数据）
-  3. git add -A 后用一句话 commit（如 "artikel: <体裁> <题材> daily"），push -u origin claude/stoic-franklin-jbjp20
+  3. git add -A 后用一句话 commit，push -u origin <branch>
+  4. 用 mcp__github__ 工具创建 PR（base=main）并 merge_pull_request（squash）——若冲突先 merge origin/main、重建数据文件、push，再 merge PR
   ```
 - session 在隔离的临时容器里跑，**改动必须 commit+push 才会留存**，所以第 3 步不可省。
 - 我（主 agent）**无法**从会话内创建这个 web 定时触发器——那是 web UI 的动作；上面这段 prompt 直接贴进
