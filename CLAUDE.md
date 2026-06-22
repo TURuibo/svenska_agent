@@ -73,7 +73,8 @@ For a **single word/phrase/sentence**, don't spawn a subagent — just store it 
 - `/scenario` — 生成情景练习文本 (generate a Swedish practice scenario — dialogue/text/narrative) into `inbox/` for review, then import with `/import`.
 - `/dagens-nyheter` — 抓取 5 条最新瑞典语简易新闻 (8 Sidor lättläst) 写入 `inbox/`（人读正文 + 导入块），供 `/import` 入库。每日由 routine `svensk-news-daily` 自动跑（见 §4.4）。
 - `/dagens-horovning` — 抓取最新一集 SVT「Nyheter på lätt svenska」字幕(原文+时间轴)配中文翻译+生词，生成 **Lyssna 听力站** 练习数据（见 §4.5）。
-- `/dagens-biografi` — 生成/抓取一篇 SFI 风格人物传记（lättläst，仿 Astrid Lindgren / Zlatan 那类文章）写入 `inbox/`（人读正文 + 导入块），供 `/import` 入库。每天可由 **remote 定时 session** 自动跑（见 §4.6）。
+- `/dagens-artikel` — 生成今日一篇 lättläst 阅读文章，按 day-of-year **轮换 8 种体裁**（传记/国情/历史/传统/自然/地方/发明/科普）写入 `inbox/`（人读正文 + 导入块），供 `/import` 入库。每天由 **remote 定时 session** 自动跑（见 §4.6）。
+- `/dagens-biografi` — `/dagens-artikel` 体裁 0 的**单独入口**：强制生成一篇 SFI 风格人物传记（仿 Astrid Lindgren / Zlatan）。手动想指定写某人时用它。
 
 ---
 
@@ -268,39 +269,41 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 > 注意：`listening/` 与 `site/listening/` 都是 **tracked**(不像 `inbox/` 被 gitignore)，随 git 正常多设备同步。
 > SVT 那档是**视频**、没有逐条文字页面，所以它**只做听力**；抓**文字入库**的每日新闻仍走 8 Sidor(§4.4)——两条线分工不冲突。
 
-### §4.6 每日人物传记 (Daily biography — SFI / lättläst，**跑在 remote**)
+### §4.6 每日 lättläst 阅读文章 (Daily reading article — 轮换体裁，**跑在 remote**)
 
-每天生成/抓取一篇 **SFI 风格的瑞典语人物传记**（lättläst），仿 KB 里
-[[source-2026-06-02-astrid-lindgren]] 和 [[source-2026-06-09-zlatan-bio]] 那类文章：短句、A2–B1、
-按时间顺序讲一个名人的一生。素材层面与 `/scenario`、`/dagens-nyheter` 同一套两段式（可读正文 + `svensk-export v1` 导入块）。
+每天生成一篇 **SFI 风格的瑞典语 lättläst 阅读文章**，体裁**按 day-of-year 轮换**，让阅读素材多样
+（不只是传记）。仿 KB 里 [[source-2026-06-02-astrid-lindgren]] / [[source-2026-06-09-zlatan-bio]] 那种短句、
+A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` 导入块）与 `/scenario`、`/dagens-nyheter` 一致。
 
-- `/dagens-biografi [人名] [YYYY-MM-DD]` — 命令 `.claude/commands/dagens-biografi.md`：先**查重**(不重复已入库人物，
-  Astrid/Zlatan 已写)，再 `WebSearch`/`WebFetch` 查**真实事实**(不得编造)，用简单瑞典语写成传记 + 中文翻译 + 生词，
-  存入 `inbox/biografi-<DATE>-<slug>.md`。不碰 `knowledge_base/`、不自动 import。
+- `/dagens-artikel [YYYY-MM-DD] [genre 0-7]` — 命令 `.claude/commands/dagens-artikel.md`：按
+  `INDEX = day-of-year mod 8` 选体裁 → **查重**（不重复已入库题材）→ `WebSearch`/`WebFetch` 查**真实事实**
+  （不得编造）→ 用简单瑞典语写文章 + 中文翻译 + 生词 → 存 `inbox/<体裁前缀>-<DATE>-<slug>.md`。不碰 `knowledge_base/`。
+  **8 种体裁**：`0 传记 · 1 国情 · 2 历史 · 3 传统 · 4 自然 · 5 地方 · 6 发明 · 7 科普`（详见命令文件的体裁表）。
+- `/dagens-biografi` 是体裁 0 的单独入口（强制传记、可指定人名）。
 
 **与 §4.4 新闻等 routine 的关键区别：这条线跑在 *remote*（Claude Code on the web），不在本地 PowerShell。**
 原因：本地 `scripts/daily-*.ps1` + 桌面「Scheduled task」只在**桌面应用开着时**才跑，且写死 Windows 路径/toast。
-人物传记不依赖本机，适合放云端**定时 session**，桌面关着也能每天产出。
+阅读文章不依赖本机，适合放云端**定时 session**，桌面关着也能每天产出。
 
 **remote 定时 session 怎么配（用户在 Claude Code on the web 里建一个 scheduled trigger / routine）：**
 - **环境网络策略**必须允许出站访问（要 `WebSearch`/`WebFetch` 查事实)。见
   https://code.claude.com/docs/en/claude-code-on-the-web 。
-- **触发频率**：建议每日一次（如 cron `0 8 * * *`）。
+- **触发频率**：建议每日一次（如 cron `0 8 * * *`，UTC）。
 - **routine prompt**（云端无桌面 SessionStart 后台 importer，也没有本地 PS 流水线，所以这条 session
   自己跑完**整条管线**：生成 → 导入 → 重建站点 → commit/push）：
 
   ```
-  在 remote 环境里跑一篇今日人物传记并入库：
-  1. /dagens-biografi
-  2. 对刚生成的 inbox/biografi-*.md 跑 /import（它会去重、建双向链接、归档到 imported/、重建站点数据）
-  3. git add -A 后用一句话 commit（如 "biografi: <人物> daily"），push -u origin claude/stoic-franklin-jbjp20
+  在 remote 环境里跑一篇今日 lättläst 阅读文章并入库：
+  1. /dagens-artikel   （按 day-of-year 自动轮换体裁、自动查重、联网核实事实后生成到 inbox/）
+  2. 对刚生成的那份新 inbox/*.md 跑 /import（去重、建双向链接、归档到 imported/、重建站点数据）
+  3. git add -A 后用一句话 commit（如 "artikel: <体裁> <题材> daily"），push -u origin claude/stoic-franklin-jbjp20
   ```
 - session 在隔离的临时容器里跑，**改动必须 commit+push 才会留存**，所以第 3 步不可省。
 - 我（主 agent）**无法**从会话内创建这个 web 定时触发器——那是 web UI 的动作；上面这段 prompt 直接贴进
   scheduled trigger 即可。
 
-> 与本地 routine 不冲突：本地那批仍走 `scripts/*.ps1`+桌面 Scheduled task；传记这条独立跑 remote。
-> `inbox/` 被 gitignore，所以传记必须当场 `/import` 进 tracked 的 `knowledge_base/`+`imported/` 才同步得到别的设备。
+> 与本地 routine 不冲突：本地那批仍走 `scripts/*.ps1`+桌面 Scheduled task；阅读文章这条独立跑 remote。
+> `inbox/` 被 gitignore，所以文章必须当场 `/import` 进 tracked 的 `knowledge_base/`+`imported/` 才同步得到别的设备。
 
 ---
 
