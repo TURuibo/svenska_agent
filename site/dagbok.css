@@ -471,11 +471,32 @@
 
 .chip[data-type="phrase"] { background: #fbf2e2; border-color: #ead7ad; }
 .chip[data-type="phrase"]:hover { background: #f5e7c5; border-color: var(--gold); }
+/* Sentences read better stacked one-per-row with 中文 on its own line below
+   the Swedish, and a capped line length, instead of wide single-line pills. */
+.typeRow[data-type="sentence"] .chips {
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
+}
 .chip[data-type="sentence"] {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 3px;
+  width: 100%;
+  max-width: 640px;
+  padding: 9px 12px;
   background: #eef0f7;
   border-color: #c8d2e1;
+  border-left: 3px solid var(--blue);
   font-style: italic;
-  max-width: 100%;
+  line-height: 1.55;
+}
+.chip[data-type="sentence"] .chipTitle { white-space: normal; }
+.chip[data-type="sentence"] .zh {
+  font-style: normal;
+  font-size: 12.5px;
+  color: var(--muted);
 }
 .chip[data-type="sentence"]:hover { background: #dde3ee; border-color: var(--blue); }
 .chip[data-type="grammar"] { background: #f3e9e7; border-color: #e0c4bf; }
