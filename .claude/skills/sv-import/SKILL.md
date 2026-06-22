@@ -262,3 +262,8 @@ Per the project memory, rebuild **both** generated sites after any KB write so v
 powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1   # KB viewer + slugs.json
 node tools/build-reading-site.js                                              # Läsning reading data
 ```
+
+> **Remote routine（Claude Code on the web）收尾另见 `CLAUDE.md §4.7`：** 重建后**只提交** `slugs.json`
+> （dedup 依赖）+（听力时）`site/listening/listening-data.js`；**不要提交** `site/kb-data.js`、
+> `site/reading/reading-data.js` —— GitHub Action 会在 push 到 main 后自动重建并提交这两个，routine
+> 一起提交只会和 Action 抢、每次 PR merge 后必冲突。用 `node tools/build-kb-site.js`（remote 无 PowerShell）。
