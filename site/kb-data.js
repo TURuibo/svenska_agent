@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 11:36:30",
+  "generatedAt": "2026-06-22 11:38:32",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -349,6 +349,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "backlinks": [
+        "därför",
         "grammar-att-sats",
         "grammar-bisats",
         "grammar-bisats-om",
@@ -2203,6 +2204,7 @@ window.KB_DATA = {
       "created": "2026-06-02",
       "known": false,
       "backlinks": [
+        "därför",
         "det-finns",
         "det-ordnar-vi",
         "efter-det",
@@ -37382,6 +37384,38 @@ window.KB_DATA = {
         "source-2026-06-18-nyheter-8sidor",
         "topic-midsommar-traditioner"
       ]
+    },
+    {
+      "slug": "därför",
+      "type": "word",
+      "title": "därför",
+      "path": "knowledge_base/words/därför.md",
+      "body": "# därför — adverb (konjunktionellt)\n\n📖 中文：所以、因此 · English: therefore / that's why\n发音提示：DÄR-för；重音在第一音节，för 弱读。\n\n## 语法变形 (Forms)\n\n副词，不变形。属**连接副词 (konjunktionellt adverb)**：放句首会触发 **V2 倒装**。\n\n| 用法 | 结构 | 含义 |\n|------|------|------|\n| `därför` | 引出**结果** | 所以、因此 |\n| `därför att` | 引出**原因**（从句 bisats）| 因为 |\n\n## 词组搭配 (Collocations)\n\n- `och därför …` — 因而…\n- `just därför` — 正因如此\n- `därför att …` — 因为…（= eftersom，但只能放后面）\n- `Det är därför (som) …` — 这就是为什么…\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det regnar. **Därför** stannar jag hemma. — 🇨🇳 下雨了，所以我待在家。（句首→倒装 stannar jag）\n- 🇸🇪 Jag stannar hemma **därför att** det regnar. — 🇨🇳 我待在家因为下雨。（原因从句）\n- 🇸🇪 Just **därför** måste vi öva mer. — 🇨🇳 正因如此我们得多练。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[så]] (所以，口语), [[alltså]] (因此/也就是说)\n- 反义词: —\n- 语法: [[grammar-v2-ordfoljd]] (句首触发倒装), [[grammar-bisats-eftersom]] (原因从句)\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ 核心区分：**därför**（→结果，所以）vs **därför att / eftersom**（→原因，因为）。两者方向相反！\n- `därför` 放句首 → **V2 倒装**：Därför **är** jag …（动词第二位，主语后置）。\n- `därför att` 引导从句、只能放主句后；要放句首表原因得用 **eftersom**。",
+      "excerpt": "därför — adverb (konjunktionellt) 📖 中文：所以、因此 · English: therefore / that's why 发音提示：DÄR för；重音在第一音节，för 弱读。 语法变形 (Forms) 副词，不变形。属 连接副词 (konjunktionellt adverb) ：放句首会触发 V2 倒装 。 用法 结构 含义 därför 引出 结果 所以、因此 därför att 引出 原",
+      "forms": [
+        "引出原因（从句 bisats）"
+      ],
+      "links": [
+        "alltså",
+        "grammar-bisats-eftersom",
+        "grammar-v2-ordfoljd",
+        "så"
+      ],
+      "searchText": "därför därför knowledge_base/words/därför.md ---\ntype: word\nlemma: \"därför\"\nordklass: adverb\ngenus: \"\"\ncefr: \"A2\"\nzh: \"所以、因此；（därför att）因为\"\nen: \"therefore, that's why; (därför att) because\"\nsynonyms: [\"så\", alltså]\nantonyms: []\nfamily: []\ntopics: []\nsentences: []\ngrammar: [grammar-v2-ordfoljd, grammar-bisats-eftersom]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# därför — adverb (konjunktionellt)\n\n📖 中文：所以、因此 · English: therefore / that's why\n发音提示：DÄR-för；重音在第一音节，för 弱读。\n\n## 语法变形 (Forms)\n\n副词，不变形。属**连接副词 (konjunktionellt adverb)**：放句首会触发 **V2 倒装**。\n\n| 用法 | 结构 | 含义 |\n|------|------|------|\n| `därför` | 引出**结果** | 所以、因此 |\n| `därför att` | 引出**原因**（从句 bisats）| 因为 |\n\n## 词组搭配 (Collocations)\n\n- `och därför …` — 因而…\n- `just därför` — 正因如此\n- `därför att …` — 因为…（= eftersom，但只能放后面）\n- `Det är därför (som) …` — 这就是为什么…\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det regnar. **Därför** stannar jag hemma. — 🇨🇳 下雨了，所以我待在家。（句首→倒装 stannar jag）\n- 🇸🇪 Jag stannar hemma **därför att** det regnar. — 🇨🇳 我待在家因为下雨。（原因从句）\n- 🇸🇪 Just **därför** måste vi öva mer. — 🇨🇳 正因如此我们得多练。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[så]] (所以，口语), [[alltså]] (因此/也就是说)\n- 反义词: —\n- 语法: [[grammar-v2-ordfoljd]] (句首触发倒装), [[grammar-bisats-eftersom]] (原因从句)\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ 核心区分：**därför**（→结果，所以）vs **därför att / eftersom**（→原因，因为）。两者方向相反！\n- `därför` 放句首 → **V2 倒装**：Därför **är** jag …（动词第二位，主语后置）。\n- `därför att` 引导从句、只能放主句后；要放句首表原因得用 **eftersom**。\n",
+      "lemma": "därför",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "所以、因此；（därför att）因为",
+      "en": "therefore, that's why; (därför att) because",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-bisats-eftersom"
+      ],
+      "topics": [],
+      "backlinks": []
     },
     {
       "slug": "dator",
