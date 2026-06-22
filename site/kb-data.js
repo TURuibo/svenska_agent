@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-21 21:17:40",
+  "generatedAt": "2026-06-22 11:02:24",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -31959,6 +31959,7 @@ window.KB_DATA = {
         "bred",
         "bro",
         "busshållplats",
+        "bygga",
         "central",
         "cykla",
         "cyklist",
@@ -36795,6 +36796,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "bygga",
+      "type": "word",
+      "title": "bygga",
+      "path": "knowledge_base/words/bygga.md",
+      "body": "# bygga — verb\n\n📖 中文：建造；盖；搭建 · English: to build\n发音提示：BYGG-a；y 是圆唇前元音，gg 发浊音。\n\n## 语法变形 (Forms)\n\nverbgrupp **2**（词干 bygg- 以浊辅音结尾 → preteritum 加 -de）\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att bygga |\n| Imperativ | bygg! |\n| Presens | bygger |\n| Preteritum | byggde |\n| Supinum | (har) byggt |\n| Perfekt particip | byggd / byggt / byggda |\n\n## 词组搭配 (Collocations)\n\n- `bygga ett hus` — 盖一栋房子\n- `bygga upp` — 建立、搭建起来（partikelverb）\n- `bygga om` — 改建、翻新（partikelverb）\n- `bygga ut` — 扩建（partikelverb）\n- `bygga vidare på` — 在…基础上继续发展\n- `bygga på (något)` — 基于、以…为基础\n\n## 例句 (Sentences)\n\n- 🇸🇪 De bygger ett nytt hus vid sjön. — 🇨🇳 他们在湖边盖一栋新房子。\n- 🇸🇪 Vi byggde en koja när vi var små. — 🇨🇳 我们小时候搭过一个小屋。\n- 🇸🇪 Förtroende byggs upp långsamt. — 🇨🇳 信任是慢慢建立起来的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[byggnad]] (n. 建筑、楼), [[byggare]] (n. 建造者), [[byggnadsarbetare]] (n. 建筑工人)\n- 同义词: [[konstruera]] (建造、构造)\n- 反义词: [[riva]] (拆除)\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 命令式（imperativ）就是 `bygg!` —— 和你刚输入的形式一致。\n- partikelverb 很常用：`bygga **upp**`（建立）、`bygga **om**`（改建）、`bygga **ut**`（扩建）、`bygga **till**`（加盖）。\n- 抽象用法也常见：`bygga upp förtroende/ett företag`（建立信任/创办公司）。",
+      "excerpt": "bygga — verb 📖 中文：建造；盖；搭建 · English: to build 发音提示：BYGG a；y 是圆唇前元音，gg 发浊音。 语法变形 (Forms) verbgrupp 2 （词干 bygg 以浊辅音结尾 → preteritum 加 de） Form Swedish Infinitiv att bygga Imperativ bygg! Presens bygger Preteritum byggde Su",
+      "forms": [
+        "bygga",
+        "bygg!",
+        "bygger",
+        "byggde",
+        "byggt",
+        "byggd",
+        "byggda"
+      ],
+      "links": [
+        "byggare",
+        "byggnad",
+        "byggnadsarbetare",
+        "konstruera",
+        "riva",
+        "topic-stadsmiljo"
+      ],
+      "searchText": "bygga bygga knowledge_base/words/bygga.md ---\ntype: word\nlemma: \"bygga\"\nordklass: verb\nverbgrupp: \"2\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"建造；盖；搭建\"\nen: \"to build\"\nsynonyms: [konstruera]\nantonyms: [riva]\nfamily: [byggnad, byggare]\ntopics: [topic-stadsmiljo]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bygga — verb\n\n📖 中文：建造；盖；搭建 · English: to build\n发音提示：BYGG-a；y 是圆唇前元音，gg 发浊音。\n\n## 语法变形 (Forms)\n\nverbgrupp **2**（词干 bygg- 以浊辅音结尾 → preteritum 加 -de）\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att bygga |\n| Imperativ | bygg! |\n| Presens | bygger |\n| Preteritum | byggde |\n| Supinum | (har) byggt |\n| Perfekt particip | byggd / byggt / byggda |\n\n## 词组搭配 (Collocations)\n\n- `bygga ett hus` — 盖一栋房子\n- `bygga upp` — 建立、搭建起来（partikelverb）\n- `bygga om` — 改建、翻新（partikelverb）\n- `bygga ut` — 扩建（partikelverb）\n- `bygga vidare på` — 在…基础上继续发展\n- `bygga på (något)` — 基于、以…为基础\n\n## 例句 (Sentences)\n\n- 🇸🇪 De bygger ett nytt hus vid sjön. — 🇨🇳 他们在湖边盖一栋新房子。\n- 🇸🇪 Vi byggde en koja när vi var små. — 🇨🇳 我们小时候搭过一个小屋。\n- 🇸🇪 Förtroende byggs upp långsamt. — 🇨🇳 信任是慢慢建立起来的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[byggnad]] (n. 建筑、楼), [[byggare]] (n. 建造者), [[byggnadsarbetare]] (n. 建筑工人)\n- 同义词: [[konstruera]] (建造、构造)\n- 反义词: [[riva]] (拆除)\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 命令式（imperativ）就是 `bygg!` —— 和你刚输入的形式一致。\n- partikelverb 很常用：`bygga **upp**`（建立）、`bygga **om**`（改建）、`bygga **ut**`（扩建）、`bygga **till**`（加盖）。\n- 抽象用法也常见：`bygga upp förtroende/ett företag`（建立信任/创办公司）。\n",
+      "lemma": "bygga",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "建造；盖；搭建",
+      "en": "to build",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-stadsmiljo"
+      ],
+      "backlinks": [
+        "byggnad"
+      ]
+    },
+    {
       "slug": "byggnad",
       "type": "word",
       "title": "byggnad",
@@ -36815,7 +36856,7 @@ window.KB_DATA = {
         "lokal",
         "sent-du-ser-en-stor-rod-byggnad"
       ],
-      "searchText": "byggnad byggnad knowledge_base/words/byggnad.md ---\ntype: word\nlemma: \"byggnad\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"建筑；楼\"\nen: \"building\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-stadsmiljo]\nsentences:\n  - sent-du-ser-en-stor-rod-byggnad\n  - sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# byggnad — substantiv (en)\n\n📖 中文：建筑；楼 · English: building\n发音提示：BYGG-nad；两音节，gg 发浊音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byggnad |\n| Singular bestämd | byggnaden |\n| Plural obestämd | byggnader |\n| Plural bestämd | byggnaderna |\n\n## 词组搭配 (Collocations)\n\n- `stor röd byggnad` — 大红楼\n- `historisk byggnad` — 历史建筑\n- `offentlig byggnad` — 公共建筑\n- `byggnadsarbetare` — 建筑工人\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bygga]] (v. 建造), [[byggare]] (建造者), [[byggnation]] (建设活动)\n- 同义词: [[hus]] (ett, 房屋/楼), [[lokal]] (en, 场所/房间)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `byggnad` 偏正式，指建筑物整体；`hus` 更口语，通常指住宅/房屋。\n",
+      "searchText": "byggnad byggnad knowledge_base/words/byggnad.md ---\ntype: word\nlemma: \"byggnad\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"建筑；楼\"\nen: \"building\"\nsynonyms: []\nantonyms: []\nfamily: [bygga, byggare]\ntopics: [topic-stadsmiljo]\nsentences:\n  - sent-du-ser-en-stor-rod-byggnad\n  - sent-till-vanster-om-mig-ligger-stor-rod-byggnad-bank\nknown: false\ncreated: \"2026-06-03\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# byggnad — substantiv (en)\n\n📖 中文：建筑；楼 · English: building\n发音提示：BYGG-nad；两音节，gg 发浊音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byggnad |\n| Singular bestämd | byggnaden |\n| Plural obestämd | byggnader |\n| Plural bestämd | byggnaderna |\n\n## 词组搭配 (Collocations)\n\n- `stor röd byggnad` — 大红楼\n- `historisk byggnad` — 历史建筑\n- `offentlig byggnad` — 公共建筑\n- `byggnadsarbetare` — 建筑工人\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bygga]] (v. 建造), [[byggare]] (建造者), [[byggnation]] (建设活动)\n- 同义词: [[hus]] (ett, 房屋/楼), [[lokal]] (en, 场所/房间)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `byggnad` 偏正式，指建筑物整体；`hus` 更口语，通常指住宅/房屋。\n",
       "lemma": "byggnad",
       "ordklass": "substantiv",
       "cefr": "A2",
@@ -36831,6 +36872,7 @@ window.KB_DATA = {
         "topic-stadsmiljo"
       ],
       "backlinks": [
+        "bygga",
         "du-kan-inte-missa-den",
         "hus",
         "sent-apoteket-ligger-mitt-emot-en-stor-byggnad",

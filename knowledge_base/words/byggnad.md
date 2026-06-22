@@ -9,7 +9,7 @@ zh: "建筑；楼"
 en: "building"
 synonyms: []
 antonyms: []
-family: []
+family: [bygga, byggare]
 topics: [topic-stadsmiljo]
 sentences:
   - sent-du-ser-en-stor-rod-byggnad
