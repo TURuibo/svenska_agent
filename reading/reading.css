@@ -260,6 +260,83 @@
 .backToForms { text-decoration: none; color: var(--blue); border-color: var(--blue); }
 .backToForms:hover { background: var(--panel-soft); }
 
+/* ---------- vocabulary glossary (clickable KB words) ---------- */
+
+/* A word the learner has a KB note for: dotted underline, tap to open its card. */
+.vocabWord {
+  cursor: pointer;
+  border-bottom: 1.5px dotted var(--green);
+  border-radius: 2px;
+  transition: background 0.12s;
+}
+.vocabWord:hover { background: rgba(47, 111, 85, 0.12); }
+/* 已掌握 (known) words are real but muted — still clickable, just quieter. */
+.vocabWord.known { border-bottom-color: var(--line); }
+.vocabWord.known:hover { background: rgba(0, 0, 0, 0.05); }
+
+/* When 生词 highlighting is toggled off, the chips melt back into plain text. */
+.vocab-off .vocabWord { cursor: text; border-bottom: none; background: none; }
+
+.vocabPop {
+  position: absolute;
+  z-index: 50;
+  width: min(320px, calc(100vw - 24px));
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: 0 8px 28px rgba(32, 47, 38, 0.18);
+  padding: 12px 14px 12px;
+  font-family: var(--cjk);
+  font-size: 14px;
+  line-height: 1.5;
+}
+.vocabPopClose {
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  border: none;
+  background: none;
+  color: var(--muted);
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 2px 4px;
+}
+.vocabPopClose:hover { color: var(--ink); }
+.vocabPopHead { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; padding-right: 18px; }
+.vocabPopLemma {
+  font-family: "Iowan Old Style", Georgia, serif;
+  font-size: 19px;
+  font-weight: 600;
+  color: var(--ink);
+}
+.vocabPopTag { font-size: 12px; color: var(--muted); }
+.vocabPopCefr {
+  font-size: 11px; font-weight: 600; color: var(--gold);
+  border: 1px solid var(--gold); border-radius: 999px; padding: 1px 7px;
+}
+.vocabPopKnown { font-size: 11px; color: var(--green); font-weight: 600; }
+.vocabPopGloss { margin-top: 8px; color: var(--ink); }
+.vocabPopForms { margin-top: 6px; font-size: 13px; color: var(--muted); }
+.vocabPopLink {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 13px;
+  color: var(--blue);
+  text-decoration: none;
+}
+.vocabPopLink:hover { text-decoration: underline; }
+
+/* On phones the card docks to the bottom as a sheet rather than chasing the word. */
+.vocabPop.sheet {
+  position: fixed;
+  left: 0; right: 0; bottom: 0; top: auto;
+  width: auto;
+  border-radius: 16px 16px 0 0;
+  padding: 16px 18px 22px;
+  box-shadow: 0 -6px 24px rgba(32, 47, 38, 0.22);
+}
+
 @media (max-width: 760px) {
   /* Header scrolls away (not sticky) so reading text can use the full screen. */
   .readingHeader { position: static; }
