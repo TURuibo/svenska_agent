@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 20:22:23",
+  "generatedAt": "2026-06-22 20:24:34",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -87,6 +87,7 @@ window.KB_DATA = {
         "source-2026-06-16-arbete-skola",
         "source-2026-06-18-djur",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
         "stressig",
         "strukturerad",
         "sur",
@@ -161,6 +162,7 @@ window.KB_DATA = {
         "smart",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-19-nyheter-8sidor",
+        "source-2026-06-22-adjsubst-klader",
         "stressig",
         "strukturerad",
         "svag",
@@ -289,6 +291,7 @@ window.KB_DATA = {
         "source-2026-06-18-nyheter-8sidor",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-21-handla-i-mataffaren",
+        "source-2026-06-22-adjsubst-klader",
         "tack-så-mycket-för-hjälpen"
       ]
     },
@@ -2376,6 +2379,7 @@ window.KB_DATA = {
         "source-2026-06-16-arbete-skola",
         "source-2026-06-18-djur",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
         "stad",
         "station",
         "svan",
@@ -34436,6 +34440,136 @@ window.KB_DATA = {
       "backlinks": []
     },
     {
+      "slug": "source-2026-06-22-adjsubst-klader",
+      "type": "source",
+      "title": "来源：Adjektiv + substantiv böjning (Kläder 衣物) 2026-06-22",
+      "path": "knowledge_base/sources/source-2026-06-22-adjsubst-klader.md",
+      "body": "# 来源：Adjektiv + substantiv böjning (Kläder 衣物) 2026-06-22\n\n每日 adj+subst 四式变形练习页（`/adjsubst`，主题 = Kläder 衣物）。25 组\n「形容词 + 名词」覆盖 obestämd/bestämd × singular/plural 全套变形。导入块只含 words 种子，\n经 `/import` 跑 swedish-dictionary 补全为完整词条。\n\n导入日期: 2026-06-22 · 可读复习表见 [[../../imported/adjsubst-2026-06-22-klader]]\n\n## 词汇 (Words — 50)\n\n### 新词 (NEW — 23)\n形容词: [[fin]]\n名词: [[jacka]], [[kjol]], [[skjorta]], [[klänning]], [[byxa]], [[strumpa]], [[mössa]], [[halsduk]], [[handske]], [[väska]], [[kappa]], [[kostym]], [[blus]], [[hatt]], [[uniform]], [[rock]], [[bälte]], [[plagg]], [[tyg]], [[linne]], [[smycke]], [[märke]]\n\n### 已存在 (DUP — 27)\n形容词: [[stor]], [[liten]], [[ny]], [[gammal]], [[vacker]], [[snygg]], [[mörk]], [[ljus]], [[röd]], [[blå]], [[grön]], [[gul]], [[vit]], [[svart]], [[grå]], [[brun]], [[lång]], [[kort]], [[bred]], [[smal]], [[tjock]], [[tunn]], [[enkel]], [[elegant]]\n名词: [[tröja]], [[sko]], [[par]]\n\n## 语法 (Grammar — all DUP)\n\n- [[grammar-adjektiv-bojning]] — 形容词变形\n- [[grammar-adjektiv-kongruens]] — 形容词一致 (en/ett/plural)\n- [[grammar-substantiv-plural]] — 名词复数\n- [[grammar-bestämd-form]] — 定指形式\n\n## 主题 (Topics)\n\n- [[topic-klader]] — jacka, kjol, skjorta, klänning, byxa, strumpa, mössa, halsduk, handske, väska, kappa, kostym, blus, hatt, uniform, rock, bälte, plagg, tyg, linne, smycke, märke, fin",
+      "excerpt": "来源：Adjektiv + substantiv böjning (Kläder 衣物) 2026 06 22 每日 adj+subst 四式变形练习页（ /adjsubst ，主题 = Kläder 衣物）。25 组 「形容词 + 名词」覆盖 obestämd/bestämd × singular/plural 全套变形。导入块只含 words 种子， 经 /import 跑 swedish dictionary 补全为完整词条。 导",
+      "forms": [],
+      "links": [
+        "../../imported/adjsubst-2026-06-22-klader",
+        "bälte",
+        "blå",
+        "blus",
+        "bred",
+        "brun",
+        "byxa",
+        "elegant",
+        "enkel",
+        "fin",
+        "gammal",
+        "grå",
+        "grammar-adjektiv-bojning",
+        "grammar-adjektiv-kongruens",
+        "grammar-bestämd-form",
+        "grammar-substantiv-plural",
+        "grön",
+        "gul",
+        "halsduk",
+        "handske",
+        "hatt",
+        "jacka",
+        "kappa",
+        "kjol",
+        "klänning",
+        "kort",
+        "kostym",
+        "lång",
+        "linne",
+        "liten",
+        "ljus",
+        "märke",
+        "mörk",
+        "mössa",
+        "ny",
+        "par",
+        "plagg",
+        "rock",
+        "röd",
+        "skjorta",
+        "sko",
+        "smal",
+        "smycke",
+        "snygg",
+        "stor",
+        "strumpa",
+        "svart",
+        "tjock",
+        "topic-klader",
+        "tröja",
+        "tunn",
+        "tyg",
+        "uniform",
+        "vacker",
+        "väska",
+        "vit"
+      ],
+      "searchText": "来源：Adjektiv + substantiv böjning (Kläder 衣物) 2026-06-22 source-2026-06-22-adjsubst-klader knowledge_base/sources/source-2026-06-22-adjsubst-klader.md ---\ntype: source\nkind: import\nsource_label: \"Adjektiv+substantiv böjning (Clothing) 2026-06-22\"\ndate: \"2026-06-22\"\nwords:\n  - fin\n  - jacka\n  - kjol\n  - skjorta\n  - klänning\n  - byxa\n  - strumpa\n  - mössa\n  - halsduk\n  - handske\n  - väska\n  - kappa\n  - kostym\n  - blus\n  - hatt\n  - uniform\n  - rock\n  - bälte\n  - plagg\n  - tyg\n  - linne\n  - smycke\n  - märke\nphrases: []\nsentences: []\ngrammar:\n  - grammar-adjektiv-bojning\n  - grammar-adjektiv-kongruens\n  - grammar-substantiv-plural\n  - grammar-bestämd-form\n---\n\n# 来源：Adjektiv + substantiv böjning (Kläder 衣物) 2026-06-22\n\n每日 adj+subst 四式变形练习页（`/adjsubst`，主题 = Kläder 衣物）。25 组\n「形容词 + 名词」覆盖 obestämd/bestämd × singular/plural 全套变形。导入块只含 words 种子，\n经 `/import` 跑 swedish-dictionary 补全为完整词条。\n\n导入日期: 2026-06-22 · 可读复习表见 [[../../imported/adjsubst-2026-06-22-klader]]\n\n## 词汇 (Words — 50)\n\n### 新词 (NEW — 23)\n形容词: [[fin]]\n名词: [[jacka]], [[kjol]], [[skjorta]], [[klänning]], [[byxa]], [[strumpa]], [[mössa]], [[halsduk]], [[handske]], [[väska]], [[kappa]], [[kostym]], [[blus]], [[hatt]], [[uniform]], [[rock]], [[bälte]], [[plagg]], [[tyg]], [[linne]], [[smycke]], [[märke]]\n\n### 已存在 (DUP — 27)\n形容词: [[stor]], [[liten]], [[ny]], [[gammal]], [[vacker]], [[snygg]], [[mörk]], [[ljus]], [[röd]], [[blå]], [[grön]], [[gul]], [[vit]], [[svart]], [[grå]], [[brun]], [[lång]], [[kort]], [[bred]], [[smal]], [[tjock]], [[tunn]], [[enkel]], [[elegant]]\n名词: [[tröja]], [[sko]], [[par]]\n\n## 语法 (Grammar — all DUP)\n\n- [[grammar-adjektiv-bojning]] — 形容词变形\n- [[grammar-adjektiv-kongruens]] — 形容词一致 (en/ett/plural)\n- [[grammar-substantiv-plural]] — 名词复数\n- [[grammar-bestämd-form]] — 定指形式\n\n## 主题 (Topics)\n\n- [[topic-klader]] — jacka, kjol, skjorta, klänning, byxa, strumpa, mössa, halsduk, handske, väska, kappa, kostym, blus, hatt, uniform, rock, bälte, plagg, tyg, linne, smycke, märke, fin\n",
+      "date": "2026-06-22",
+      "source_label": "Adjektiv+substantiv böjning (Clothing) 2026-06-22",
+      "kind": "import",
+      "words": [
+        "fin",
+        "jacka",
+        "kjol",
+        "skjorta",
+        "klänning",
+        "byxa",
+        "strumpa",
+        "mössa",
+        "halsduk",
+        "handske",
+        "väska",
+        "kappa",
+        "kostym",
+        "blus",
+        "hatt",
+        "uniform",
+        "rock",
+        "bälte",
+        "plagg",
+        "tyg",
+        "linne",
+        "smycke",
+        "märke"
+      ],
+      "phrases": [],
+      "sentences": [],
+      "grammar": [
+        "grammar-adjektiv-bojning",
+        "grammar-adjektiv-kongruens",
+        "grammar-substantiv-plural",
+        "grammar-bestämd-form"
+      ],
+      "backlinks": [
+        "bälte",
+        "blus",
+        "byxa",
+        "fin",
+        "halsduk",
+        "handske",
+        "hatt",
+        "jacka",
+        "kappa",
+        "kjol",
+        "klänning",
+        "kostym",
+        "linne",
+        "märke",
+        "mössa",
+        "plagg",
+        "rock",
+        "skjorta",
+        "smycke",
+        "strumpa",
+        "topic-klader",
+        "tyg",
+        "uniform",
+        "väska"
+      ]
+    },
+    {
       "slug": "source-2026-06-22-en-helg",
       "type": "source",
       "title": "来源：En helg — vad jag gjorde（情景练习 story / berättelse，2026-06-22）",
@@ -36074,6 +36208,92 @@ window.KB_DATA = {
         "tråkig",
         "tunn",
         "vänlig"
+      ]
+    },
+    {
+      "slug": "topic-klader",
+      "type": "topic",
+      "title": "Kläder — 衣物 / Clothing",
+      "path": "knowledge_base/topics/topic-klader.md",
+      "body": "# Kläder — 衣物 / Clothing\n\nOrd som hör till ämnesområdet **kläder och mode** (clothing and fashion).\n\n## Plagg (Garments)\n\n- [[jacka]] — 夹克/外套 jacket\n- [[kjol]] — 裙子 skirt\n- [[skjorta]] — 衬衫 shirt\n- [[klänning]] — 连衣裙 dress\n- [[byxa]] — 裤子 trouser/trousers\n- [[strumpa]] — 袜子 sock\n- [[mössa]] — 毛线帽 winter hat/beanie\n- [[halsduk]] — 围巾 scarf\n- [[handske]] — 手套 glove\n- [[kappa]] — 外套/大衣 coat\n- [[kostym]] — 西装/套装 suit\n- [[blus]] — 女式衬衣 blouse\n- [[hatt]] — 帽子 hat\n- [[uniform]] — 制服 uniform\n- [[rock]] — 大衣/长外套 overcoat\n- [[bälte]] — 腰带/皮带 belt\n- [[linne]] — 背心/内衬 tank top/undershirt\n- [[tröja]] — 毛衣/卫衣 sweater/sweatshirt\n- [[sko]] — 鞋 shoe\n\n## 配饰 / 材料 (Accessories & Materials)\n\n- [[väska]] — 包/手提包 bag/handbag\n- [[smycke]] — 饰品/首饰 jewellery/ornament\n- [[märke]] — 品牌/标志 brand/label\n- [[plagg]] — 服装/衣物 garment (general)\n- [[tyg]] — 布料/面料 fabric\n\n## 形容词 (Adjectives for clothing)\n\n- [[fin]] — 精致的/好的 fine/nice\n- [[snygg]] — 好看的/时髦的 stylish\n- [[elegant]] — 优雅的 elegant\n- [[enkel]] — 简单的/朴素的 simple\n- [[lång]] — 长的 long\n- [[kort]] — 短的 short\n- [[bred]] — 宽的 wide\n- [[smal]] — 窄的/修身的 narrow/slim\n- [[tjock]] — 厚的 thick\n- [[tunn]] — 薄的 thin\n- [[mörk]] — 深色的 dark\n- [[ljus]] — 浅色的 light\n\n## 颜色 (Colors)\n\n- [[röd]] — 红色 red\n- [[blå]] — 蓝色 blue\n- [[grön]] — 绿色 green\n- [[gul]] — 黄色 yellow\n- [[vit]] — 白色 white\n- [[svart]] — 黑色 black\n- [[grå]] — 灰色 grey\n- [[brun]] — 棕色 brown\n\n## 来源 (Sources)\n\n- [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "Kläder — 衣物 / Clothing Ord som hör till ämnesområdet kläder och mode (clothing and fashion). Plagg (Garments) jacka — 夹克/外套 jacket kjol — 裙子 skirt skjorta — 衬衫 shirt klänning — 连衣裙 dress byxa — 裤子 trouser/trousers strump",
+      "forms": [],
+      "links": [
+        "bälte",
+        "blå",
+        "blus",
+        "bred",
+        "brun",
+        "byxa",
+        "elegant",
+        "enkel",
+        "fin",
+        "grå",
+        "grön",
+        "gul",
+        "halsduk",
+        "handske",
+        "hatt",
+        "jacka",
+        "kappa",
+        "kjol",
+        "klänning",
+        "kort",
+        "kostym",
+        "lång",
+        "linne",
+        "ljus",
+        "märke",
+        "mörk",
+        "mössa",
+        "plagg",
+        "rock",
+        "röd",
+        "skjorta",
+        "sko",
+        "smal",
+        "smycke",
+        "snygg",
+        "source-2026-06-22-adjsubst-klader",
+        "strumpa",
+        "svart",
+        "tjock",
+        "tröja",
+        "tunn",
+        "tyg",
+        "uniform",
+        "väska",
+        "vit"
+      ],
+      "searchText": "Kläder — 衣物 / Clothing topic-klader knowledge_base/topics/topic-klader.md ---\ntype: topic\nslug: topic-klader\nlabel: \"Kläder 衣物\"\nzh: \"衣物/服装\"\nen: \"Clothing / Fashion\"\ncreated: \"2026-06-22\"\nmembers:\n  - jacka\n  - kjol\n  - skjorta\n  - klänning\n  - byxa\n  - strumpa\n  - mössa\n  - halsduk\n  - handske\n  - väska\n  - kappa\n  - kostym\n  - blus\n  - hatt\n  - uniform\n  - rock\n  - bälte\n  - plagg\n  - tyg\n  - linne\n  - smycke\n  - märke\n  - fin\n  - tröja\n  - sko\n---\n\n# Kläder — 衣物 / Clothing\n\nOrd som hör till ämnesområdet **kläder och mode** (clothing and fashion).\n\n## Plagg (Garments)\n\n- [[jacka]] — 夹克/外套 jacket\n- [[kjol]] — 裙子 skirt\n- [[skjorta]] — 衬衫 shirt\n- [[klänning]] — 连衣裙 dress\n- [[byxa]] — 裤子 trouser/trousers\n- [[strumpa]] — 袜子 sock\n- [[mössa]] — 毛线帽 winter hat/beanie\n- [[halsduk]] — 围巾 scarf\n- [[handske]] — 手套 glove\n- [[kappa]] — 外套/大衣 coat\n- [[kostym]] — 西装/套装 suit\n- [[blus]] — 女式衬衣 blouse\n- [[hatt]] — 帽子 hat\n- [[uniform]] — 制服 uniform\n- [[rock]] — 大衣/长外套 overcoat\n- [[bälte]] — 腰带/皮带 belt\n- [[linne]] — 背心/内衬 tank top/undershirt\n- [[tröja]] — 毛衣/卫衣 sweater/sweatshirt\n- [[sko]] — 鞋 shoe\n\n## 配饰 / 材料 (Accessories & Materials)\n\n- [[väska]] — 包/手提包 bag/handbag\n- [[smycke]] — 饰品/首饰 jewellery/ornament\n- [[märke]] — 品牌/标志 brand/label\n- [[plagg]] — 服装/衣物 garment (general)\n- [[tyg]] — 布料/面料 fabric\n\n## 形容词 (Adjectives for clothing)\n\n- [[fin]] — 精致的/好的 fine/nice\n- [[snygg]] — 好看的/时髦的 stylish\n- [[elegant]] — 优雅的 elegant\n- [[enkel]] — 简单的/朴素的 simple\n- [[lång]] — 长的 long\n- [[kort]] — 短的 short\n- [[bred]] — 宽的 wide\n- [[smal]] — 窄的/修身的 narrow/slim\n- [[tjock]] — 厚的 thick\n- [[tunn]] — 薄的 thin\n- [[mörk]] — 深色的 dark\n- [[ljus]] — 浅色的 light\n\n## 颜色 (Colors)\n\n- [[röd]] — 红色 red\n- [[blå]] — 蓝色 blue\n- [[grön]] — 绿色 green\n- [[gul]] — 黄色 yellow\n- [[vit]] — 白色 white\n- [[svart]] — 黑色 black\n- [[grå]] — 灰色 grey\n- [[brun]] — 棕色 brown\n\n## 来源 (Sources)\n\n- [[source-2026-06-22-adjsubst-klader]]\n",
+      "zh": "衣物/服装",
+      "en": "Clothing / Fashion",
+      "created": "2026-06-22",
+      "backlinks": [
+        "bälte",
+        "blus",
+        "byxa",
+        "fin",
+        "halsduk",
+        "handske",
+        "hatt",
+        "jacka",
+        "kappa",
+        "kjol",
+        "klänning",
+        "kostym",
+        "linne",
+        "märke",
+        "mössa",
+        "plagg",
+        "rock",
+        "skjorta",
+        "smycke",
+        "source-2026-06-22-adjsubst-klader",
+        "strumpa",
+        "tyg",
+        "uniform",
+        "väska"
       ]
     },
     {
@@ -39746,6 +39966,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "bälte",
+      "type": "word",
+      "title": "bälte",
+      "path": "knowledge_base/words/bälte.md",
+      "body": "# bälte — substantiv (ett-ord)\n\n📖 中文：腰带/皮带 · English: belt\n发音提示：/ˈbɛltɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett bälte | bältet |\n| plural | bälten | bältena |\n\n## 词组搭配 (Collocations)\n\n- `ett läderbälte` — 一条皮腰带\n- `spänna bältet` — 系上腰带\n- `säkerhetsbälte` — 安全带\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"bälte\" kan syfta på klädaccessoar (belt) eller säkerhetsbälte (seatbelt).\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "bälte — substantiv (ett ord) 📖 中文：腰带/皮带 · English: belt 发音提示：/ˈbɛltɛ/ 语法变形 (Forms) — obestämd bestämd singular ett bälte bältet plural bälten bältena 词组搭配 (Collocations) ett läderbälte — 一条皮腰带 spänna bältet — 系上腰带 säker",
+      "forms": [
+        "bälte",
+        "bältet",
+        "bälten",
+        "bältena"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "bälte bälte knowledge_base/words/bälte.md ---\ntype: word\nlemma: \"bälte\"\nordklass: substantiv\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"腰带/皮带\"\nen: \"belt\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bälte — substantiv (ett-ord)\n\n📖 中文：腰带/皮带 · English: belt\n发音提示：/ˈbɛltɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett bälte | bältet |\n| plural | bälten | bältena |\n\n## 词组搭配 (Collocations)\n\n- `ett läderbälte` — 一条皮腰带\n- `spänna bältet` — 系上腰带\n- `säkerhetsbälte` — 安全带\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"bälte\" kan syfta på klädaccessoar (belt) eller säkerhetsbälte (seatbelt).\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "bälte",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "腰带/皮带",
+      "en": "belt",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
+    },
+    {
       "slug": "banan",
       "type": "word",
       "title": "banan",
@@ -40935,7 +41189,9 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-19-adjsubst-blandat",
-        "topic-djur"
+        "source-2026-06-22-adjsubst-klader",
+        "topic-djur",
+        "topic-klader"
       ]
     },
     {
@@ -41162,6 +41418,43 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-08-djur",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "blus",
+      "type": "word",
+      "title": "blus",
+      "path": "knowledge_base/words/blus.md",
+      "body": "# blus — substantiv (en-ord)\n\n📖 中文：女式衬衣 · English: blouse\n发音提示：/bluːs/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en blus | blusen |\n| plural | blusar | blusarna |\n\n## 词组搭配 (Collocations)\n\n- `en silkesblus` — 丝质女衬衫\n- `en tunn blus` — 一件薄衬衫\n- `ha på sig en blus` — 穿着女式衬衫\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[skjorta]] (性别中性用词)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"blus\" används oftast för damkläder. \"Skjorta\" är mer könsneutral.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "blus — substantiv (en ord) 📖 中文：女式衬衣 · English: blouse 发音提示：/bluːs/ 语法变形 (Forms) — obestämd bestämd singular en blus blusen plural blusar blusarna 词组搭配 (Collocations) en silkesblus — 丝质女衬衫 en tunn blus — 一件薄衬衫 ha på sig",
+      "forms": [
+        "blus",
+        "blusen",
+        "blusar",
+        "blusarna"
+      ],
+      "links": [
+        "skjorta",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "blus blus knowledge_base/words/blus.md ---\ntype: word\nlemma: \"blus\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"女式衬衣\"\nen: \"blouse\"\nsynonyms: [skjorta]\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# blus — substantiv (en-ord)\n\n📖 中文：女式衬衣 · English: blouse\n发音提示：/bluːs/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en blus | blusen |\n| plural | blusar | blusarna |\n\n## 词组搭配 (Collocations)\n\n- `en silkesblus` — 丝质女衬衫\n- `en tunn blus` — 一件薄衬衫\n- `ha på sig en blus` — 穿着女式衬衫\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[skjorta]] (性别中性用词)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"blus\" används oftast för damkläder. \"Skjorta\" är mer könsneutral.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "blus",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "女式衬衣",
+      "en": "blouse",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "skjorta",
+        "source-2026-06-02-valj-ratt-form",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -41801,6 +42094,8 @@ window.KB_DATA = {
         "bro",
         "gata",
         "source-2026-06-15-stad-trafik",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader",
         "topic-stadsmiljo",
         "topic-trafik",
         "trång",
@@ -42218,7 +42513,9 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-08-djur",
-        "topic-djur"
+        "source-2026-06-22-adjsubst-klader",
+        "topic-djur",
+        "topic-klader"
       ]
     },
     {
@@ -42649,6 +42946,40 @@ window.KB_DATA = {
         "kvar",
         "source-2026-06-03-sundbyberg-forskola",
         "topic-förskola-system"
+      ]
+    },
+    {
+      "slug": "byxa",
+      "type": "word",
+      "title": "byxa",
+      "path": "knowledge_base/words/byxa.md",
+      "body": "# byxa — substantiv (en-ord)\n\n📖 中文：裤子 · English: trouser/trousers (usually used in pl. byxor)\n发音提示：/ˈbyːksa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en byxa | byxan |\n| plural | byxor | byxorna |\n\n## 词组搭配 (Collocations)\n\n- `ett par byxor` — 一条裤子（一双/一件）\n- `jeans/jeanbyxor` — 牛仔裤\n- `kortbyxor` — 短裤\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- I svenska används \"byxor\" (plural) normalt för att syfta på ett plagg, precis som på engelska \"trousers\".\n- \"ett par byxor\" = one pair of trousers.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "byxa — substantiv (en ord) 📖 中文：裤子 · English: trouser/trousers (usually used in pl. byxor) 发音提示：/ˈbyːksa/ 语法变形 (Forms) — obestämd bestämd singular en byxa byxan plural byxor byxorna 词组搭配 (Collocations) ett par byxor — 一",
+      "forms": [
+        "byxa",
+        "byxan",
+        "byxor",
+        "byxorna"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "byxa byxa knowledge_base/words/byxa.md ---\ntype: word\nlemma: \"byxa\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"裤子\"\nen: \"trouser/trousers (usually used in pl. byxor)\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# byxa — substantiv (en-ord)\n\n📖 中文：裤子 · English: trouser/trousers (usually used in pl. byxor)\n发音提示：/ˈbyːksa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en byxa | byxan |\n| plural | byxor | byxorna |\n\n## 词组搭配 (Collocations)\n\n- `ett par byxor` — 一条裤子（一双/一件）\n- `jeans/jeanbyxor` — 牛仔裤\n- `kortbyxor` — 短裤\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- I svenska används \"byxor\" (plural) normalt för att syfta på ett plagg, precis som på engelska \"trousers\".\n- \"ett par byxor\" = one pair of trousers.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "byxa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "裤子",
+      "en": "trouser/trousers (usually used in pl. byxor)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -44152,6 +44483,9 @@ window.KB_DATA = {
         "topic-karaktarsord"
       ],
       "backlinks": [
+        "fin",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader",
         "topic-personer"
       ]
     },
@@ -44282,7 +44616,9 @@ window.KB_DATA = {
       "backlinks": [
         "komplicerad",
         "sent-min-vardag-ar-ganska-enkel-men-jag",
-        "svår"
+        "source-2026-06-22-adjsubst-klader",
+        "svår",
+        "topic-klader"
       ]
     },
     {
@@ -45229,6 +45565,44 @@ window.KB_DATA = {
         "kudde",
         "sent-pa-sangen-ligger-en-kudde-och-en-filt",
         "source-2026-06-09-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "fin",
+      "type": "word",
+      "title": "fin",
+      "path": "knowledge_base/words/fin.md",
+      "body": "# fin — adjektiv\n\n📖 中文：精致的/好的 · English: fine/nice\n发音提示：/fiːn/\n\n## 语法变形 (Forms)\n\n| form | example |\n|------|---------|\n| grundform (en-ord) | fin |\n| grundform (ett-ord) | fint |\n| bestämd / plural | fina |\n\n| — | obestämd sg | bestämd sg | plural |\n|---|-------------|-----------|--------|\n| en-ord | en fin jacka | den fina jackan | fina jackor |\n| ett-ord | ett fint plagg | det fina plagget | fina plagg |\n\n## 词组搭配 (Collocations)\n\n- `fin stil` — 好看的风格\n- `fin kvalitet` — 精良的品质\n- `fina kläder` — 精致的衣物 → see [[topic-klader]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[snygg]], [[vacker]], [[elegant]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"fin\" är mångsidigt: kan beteckna utseende (snygg), kvalitet (bra) eller känsla (trevlig).\n- Neutrum: \"fint\" — t.ex. *ett fint tyg*.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "fin — adjektiv 📖 中文：精致的/好的 · English: fine/nice 发音提示：/fiːn/ 语法变形 (Forms) form example grundform (en ord) fin grundform (ett ord) fint bestämd / plural fina — obestämd sg bestämd sg plural en ord en fin jacka den fina ja",
+      "forms": [
+        "fin",
+        "fint",
+        "fina"
+      ],
+      "links": [
+        "elegant",
+        "snygg",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader",
+        "vacker"
+      ],
+      "searchText": "fin fin knowledge_base/words/fin.md ---\ntype: word\nlemma: \"fin\"\nordklass: adjektiv\ngenus: \"\"\ncefr: \"A2\"\nzh: \"精致的/好的\"\nen: \"fine/nice\"\nsynonyms: [snygg, vacker, elegant]\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fin — adjektiv\n\n📖 中文：精致的/好的 · English: fine/nice\n发音提示：/fiːn/\n\n## 语法变形 (Forms)\n\n| form | example |\n|------|---------|\n| grundform (en-ord) | fin |\n| grundform (ett-ord) | fint |\n| bestämd / plural | fina |\n\n| — | obestämd sg | bestämd sg | plural |\n|---|-------------|-----------|--------|\n| en-ord | en fin jacka | den fina jackan | fina jackor |\n| ett-ord | ett fint plagg | det fina plagget | fina plagg |\n\n## 词组搭配 (Collocations)\n\n- `fin stil` — 好看的风格\n- `fin kvalitet` — 精良的品质\n- `fina kläder` — 精致的衣物 → see [[topic-klader]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[snygg]], [[vacker]], [[elegant]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"fin\" är mångsidigt: kan beteckna utseende (snygg), kvalitet (bra) eller känsla (trevlig).\n- Neutrum: \"fint\" — t.ex. *ett fint tyg*.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "fin",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "精致的/好的",
+      "en": "fine/nice",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "sent-nasta-helg-hoppas-jag-att-vadret",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader",
+        "vacker"
       ]
     },
     {
@@ -47340,6 +47714,7 @@ window.KB_DATA = {
         "sent-jag-motte-en-gammal-van-dar",
         "source-2026-06-08-djur",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
         "topic-djur",
         "topic-personer",
         "ung"
@@ -48204,7 +48579,9 @@ window.KB_DATA = {
         "sent-fortsatt-lite-till-gra-dorr",
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-08-djur",
-        "topic-djur"
+        "source-2026-06-22-adjsubst-klader",
+        "topic-djur",
+        "topic-klader"
       ]
     },
     {
@@ -48732,6 +49109,8 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-15-stad-trafik",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader",
         "topic-stadsmiljo"
       ]
     },
@@ -48866,6 +49245,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-15-stad-trafik",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader",
         "topic-stadsmiljo",
         "topic-trafik"
       ]
@@ -49173,6 +49554,7 @@ window.KB_DATA = {
         "topic-kropp"
       ],
       "backlinks": [
+        "halsduk",
         "source-2026-06-07-kropp-halsa",
         "topic-kropp"
       ]
@@ -49212,6 +49594,42 @@ window.KB_DATA = {
         "sund",
         "topic-hälsa",
         "välkomna"
+      ]
+    },
+    {
+      "slug": "halsduk",
+      "type": "word",
+      "title": "halsduk",
+      "path": "knowledge_base/words/halsduk.md",
+      "body": "# halsduk — substantiv (en-ord)\n\n📖 中文：围巾 · English: scarf\n发音提示：/ˈhalsˌduːk/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en halsduk | halsduken |\n| plural | halsdukar | halsdukarna |\n\n## 词组搭配 (Collocations)\n\n- `linda halsduk om halsen` — 把围巾绕在脖子上\n- `ullig halsduk` — 羊毛围巾\n- `en lång halsduk` — 一条长围巾\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hals]] (颈部) + [[tyg]] (布料/面料)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: hals (neck) + duk (cloth). Direkt: \"neck cloth\".\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "halsduk — substantiv (en ord) 📖 中文：围巾 · English: scarf 发音提示：/ˈhalsˌduːk/ 语法变形 (Forms) — obestämd bestämd singular en halsduk halsduken plural halsdukar halsdukarna 词组搭配 (Collocations) linda halsduk om halsen — 把围巾绕在脖子上 ",
+      "forms": [
+        "halsduk",
+        "halsduken",
+        "halsdukar",
+        "halsdukarna"
+      ],
+      "links": [
+        "hals",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader",
+        "tyg"
+      ],
+      "searchText": "halsduk halsduk knowledge_base/words/halsduk.md ---\ntype: word\nlemma: \"halsduk\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"围巾\"\nen: \"scarf\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# halsduk — substantiv (en-ord)\n\n📖 中文：围巾 · English: scarf\n发音提示：/ˈhalsˌduːk/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en halsduk | halsduken |\n| plural | halsdukar | halsdukarna |\n\n## 词组搭配 (Collocations)\n\n- `linda halsduk om halsen` — 把围巾绕在脖子上\n- `ullig halsduk` — 羊毛围巾\n- `en lång halsduk` — 一条长围巾\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hals]] (颈部) + [[tyg]] (布料/面料)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: hals (neck) + duk (cloth). Direkt: \"neck cloth\".\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "halsduk",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "围巾",
+      "en": "scarf",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -49291,6 +49709,7 @@ window.KB_DATA = {
         "topic-kropp"
       ],
       "backlinks": [
+        "handske",
         "omhänderta",
         "source-2026-06-19-adjsubst-blandat"
       ]
@@ -49367,6 +49786,41 @@ window.KB_DATA = {
         "finger",
         "hand",
         "topic-kropp"
+      ]
+    },
+    {
+      "slug": "handske",
+      "type": "word",
+      "title": "handske",
+      "path": "knowledge_base/words/handske.md",
+      "body": "# handske — substantiv (en-ord)\n\n📖 中文：手套 · English: glove\n发音提示：/ˈhandˌskeː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en handske | handsken |\n| plural | handskar | handskarna |\n\n## 词组搭配 (Collocations)\n\n- `ett par handskar` — 一双手套\n- `läderhandskar` — 皮手套\n- `ta på sig handskarna` — 戴上手套\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hand]] (手)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: hand + ske (skede = spoon?). Historisk etymologi. Plural: handskar (oregelbunden).\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "handske — substantiv (en ord) 📖 中文：手套 · English: glove 发音提示：/ˈhandˌskeː/ 语法变形 (Forms) — obestämd bestämd singular en handske handsken plural handskar handskarna 词组搭配 (Collocations) ett par handskar — 一双手套 läderhandskar ",
+      "forms": [
+        "handske",
+        "handsken",
+        "handskar",
+        "handskarna"
+      ],
+      "links": [
+        "hand",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "handske handske knowledge_base/words/handske.md ---\ntype: word\nlemma: \"handske\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"手套\"\nen: \"glove\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# handske — substantiv (en-ord)\n\n📖 中文：手套 · English: glove\n发音提示：/ˈhandˌskeː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en handske | handsken |\n| plural | handskar | handskarna |\n\n## 词组搭配 (Collocations)\n\n- `ett par handskar` — 一双手套\n- `läderhandskar` — 皮手套\n- `ta på sig handskarna` — 戴上手套\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hand]] (手)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: hand + ske (skede = spoon?). Historisk etymologi. Plural: handskar (oregelbunden).\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "handske",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "手套",
+      "en": "glove",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -49606,6 +50060,42 @@ window.KB_DATA = {
       "backlinks": [
         "älska",
         "source-2026-06-10-zlatan-subst-verb"
+      ]
+    },
+    {
+      "slug": "hatt",
+      "type": "word",
+      "title": "hatt",
+      "path": "knowledge_base/words/hatt.md",
+      "body": "# hatt — substantiv (en-ord)\n\n📖 中文：帽子 · English: hat\n发音提示：/hatː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en hatt | hatten |\n| plural | hattar | hattarna |\n\n## 词组搭配 (Collocations)\n\n- `ta på sig hatten` — 戴上帽子\n- `en bred hatt` — 一顶宽檐帽\n- `sommarhatt` — 夏日帽\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[mössa]] (针织帽/冬帽)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"hatt\" har brätte (brim). \"Mössa\" = beanie/knit hat utan brätte.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "hatt — substantiv (en ord) 📖 中文：帽子 · English: hat 发音提示：/hatː/ 语法变形 (Forms) — obestämd bestämd singular en hatt hatten plural hattar hattarna 词组搭配 (Collocations) ta på sig hatten — 戴上帽子 en bred hatt — 一顶宽檐帽 sommarhatt — ",
+      "forms": [
+        "hatt",
+        "hatten",
+        "hattar",
+        "hattarna"
+      ],
+      "links": [
+        "mössa",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "hatt hatt knowledge_base/words/hatt.md ---\ntype: word\nlemma: \"hatt\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"帽子\"\nen: \"hat\"\nsynonyms: [mössa]\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hatt — substantiv (en-ord)\n\n📖 中文：帽子 · English: hat\n发音提示：/hatː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en hatt | hatten |\n| plural | hattar | hattarna |\n\n## 词组搭配 (Collocations)\n\n- `ta på sig hatten` — 戴上帽子\n- `en bred hatt` — 一顶宽檐帽\n- `sommarhatt` — 夏日帽\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[mössa]] (针织帽/冬帽)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"hatt\" har brätte (brim). \"Mössa\" = beanie/knit hat utan brätte.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "hatt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "帽子",
+      "en": "hat",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "mössa",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -51234,6 +51724,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "jacka",
+      "type": "word",
+      "title": "jacka",
+      "path": "knowledge_base/words/jacka.md",
+      "body": "# jacka — substantiv (en-ord)\n\n📖 中文：夹克/外套 · English: jacket\n发音提示：/ˈjakːa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en jacka | jackan |\n| plural | jackor | jackorna |\n\n## 词组搭配 (Collocations)\n\n- `ta på sig jackan` — 穿上外套\n- `hänga upp jackan` — 挂起外套\n- `en varm jacka` — 一件暖和的外套\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kappa]], [[rock]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"jacka\" är kortare och lättare än \"kappa\" (coat) eller \"rock\" (overcoat).\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "jacka — substantiv (en ord) 📖 中文：夹克/外套 · English: jacket 发音提示：/ˈjakːa/ 语法变形 (Forms) — obestämd bestämd singular en jacka jackan plural jackor jackorna 词组搭配 (Collocations) ta på sig jackan — 穿上外套 hänga upp jackan — 挂起外套 ",
+      "forms": [
+        "jacka",
+        "jackan",
+        "jackor",
+        "jackorna"
+      ],
+      "links": [
+        "kappa",
+        "rock",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "jacka jacka knowledge_base/words/jacka.md ---\ntype: word\nlemma: \"jacka\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"夹克/外套\"\nen: \"jacket\"\nsynonyms: [kappa, rock]\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# jacka — substantiv (en-ord)\n\n📖 中文：夹克/外套 · English: jacket\n发音提示：/ˈjakːa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en jacka | jackan |\n| plural | jackor | jackorna |\n\n## 词组搭配 (Collocations)\n\n- `ta på sig jackan` — 穿上外套\n- `hänga upp jackan` — 挂起外套\n- `en varm jacka` — 一件暖和的外套\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kappa]], [[rock]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"jacka\" är kortare och lättare än \"kappa\" (coat) eller \"rock\" (overcoat).\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "jacka",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "夹克/外套",
+      "en": "jacket",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "kappa",
+        "rock",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
+    },
+    {
       "slug": "jämställdhet",
       "type": "word",
       "title": "jämställdhet",
@@ -51978,6 +52506,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "kappa",
+      "type": "word",
+      "title": "kappa",
+      "path": "knowledge_base/words/kappa.md",
+      "body": "# kappa — substantiv (en-ord)\n\n📖 中文：外套/大衣 · English: coat\n发音提示：/ˈkapːa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en kappa | kappan |\n| plural | kappor | kapporna |\n\n## 词组搭配 (Collocations)\n\n- `vinterkappa` — 冬季大衣\n- `ta på sig kappan` — 穿上大衣\n- `en lång kappa` — 一件长大衣\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[jacka]], [[rock]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"kappa\" är en längre, formellare ytterrock än \"jacka\". Mer feminint kodat ord.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "kappa — substantiv (en ord) 📖 中文：外套/大衣 · English: coat 发音提示：/ˈkapːa/ 语法变形 (Forms) — obestämd bestämd singular en kappa kappan plural kappor kapporna 词组搭配 (Collocations) vinterkappa — 冬季大衣 ta på sig kappan — 穿上大衣 en lång",
+      "forms": [
+        "kappa",
+        "kappan",
+        "kappor",
+        "kapporna"
+      ],
+      "links": [
+        "jacka",
+        "rock",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "kappa kappa knowledge_base/words/kappa.md ---\ntype: word\nlemma: \"kappa\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"外套/大衣\"\nen: \"coat\"\nsynonyms: [jacka, rock]\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kappa — substantiv (en-ord)\n\n📖 中文：外套/大衣 · English: coat\n发音提示：/ˈkapːa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en kappa | kappan |\n| plural | kappor | kapporna |\n\n## 词组搭配 (Collocations)\n\n- `vinterkappa` — 冬季大衣\n- `ta på sig kappan` — 穿上大衣\n- `en lång kappa` — 一件长大衣\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[jacka]], [[rock]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"kappa\" är en längre, formellare ytterrock än \"jacka\". Mer feminint kodat ord.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "kappa",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "外套/大衣",
+      "en": "coat",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "jacka",
+        "rock",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
+    },
+    {
       "slug": "kardemummabulle",
       "type": "word",
       "title": "kardemummabulle",
@@ -52357,6 +52923,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "kjol",
+      "type": "word",
+      "title": "kjol",
+      "path": "knowledge_base/words/kjol.md",
+      "body": "# kjol — substantiv (en-ord)\n\n📖 中文：裙子 · English: skirt\n发音提示：/çuːl/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en kjol | kjolen |\n| plural | kjolar | kjolarna |\n\n## 词组搭配 (Collocations)\n\n- `lång kjol` — 长裙\n- `kort kjol` — 短裙\n- `en blommig kjol` — 一条有花纹的裙子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"kjol\" avser specifikt kjol (skirt), inte klänning (dress).\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "kjol — substantiv (en ord) 📖 中文：裙子 · English: skirt 发音提示：/çuːl/ 语法变形 (Forms) — obestämd bestämd singular en kjol kjolen plural kjolar kjolarna 词组搭配 (Collocations) lång kjol — 长裙 kort kjol — 短裙 en blommig kjol — 一条有花纹的裙子",
+      "forms": [
+        "kjol",
+        "kjolen",
+        "kjolar",
+        "kjolarna"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "kjol kjol knowledge_base/words/kjol.md ---\ntype: word\nlemma: \"kjol\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"裙子\"\nen: \"skirt\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kjol — substantiv (en-ord)\n\n📖 中文：裙子 · English: skirt\n发音提示：/çuːl/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en kjol | kjolen |\n| plural | kjolar | kjolarna |\n\n## 词组搭配 (Collocations)\n\n- `lång kjol` — 长裙\n- `kort kjol` — 短裙\n- `en blommig kjol` — 一条有花纹的裙子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"kjol\" avser specifikt kjol (skirt), inte klänning (dress).\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "kjol",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "裙子",
+      "en": "skirt",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "klänning",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
+    },
+    {
       "slug": "klädskåp",
       "type": "word",
       "title": "klädskåp",
@@ -52397,6 +52998,41 @@ window.KB_DATA = {
         "source-2026-06-09-rumsliga-relationer",
         "topic-hemmet",
         "topic-mobler"
+      ]
+    },
+    {
+      "slug": "klänning",
+      "type": "word",
+      "title": "klänning",
+      "path": "knowledge_base/words/klänning.md",
+      "body": "# klänning — substantiv (en-ord)\n\n📖 中文：连衣裙 · English: dress\n发音提示：/ˈklɛnːɪŋ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en klänning | klänningen |\n| plural | klänningar | klänningarna |\n\n## 词组搭配 (Collocations)\n\n- `en lång klänning` — 一条长裙\n- `brudklänning` — 婚纱\n- `sommarklänning` — 夏日连衣裙\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"klänning\" täcker hela kroppen (kjol + överdel i ett). Skilj från [[kjol]] (enbart kjol).\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "klänning — substantiv (en ord) 📖 中文：连衣裙 · English: dress 发音提示：/ˈklɛnːɪŋ/ 语法变形 (Forms) — obestämd bestämd singular en klänning klänningen plural klänningar klänningarna 词组搭配 (Collocations) en lång klänning — 一条长裙 brudklä",
+      "forms": [
+        "klänning",
+        "klänningen",
+        "klänningar",
+        "klänningarna"
+      ],
+      "links": [
+        "kjol",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "klänning klänning knowledge_base/words/klänning.md ---\ntype: word\nlemma: \"klänning\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"连衣裙\"\nen: \"dress\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# klänning — substantiv (en-ord)\n\n📖 中文：连衣裙 · English: dress\n发音提示：/ˈklɛnːɪŋ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en klänning | klänningen |\n| plural | klänningar | klänningarna |\n\n## 词组搭配 (Collocations)\n\n- `en lång klänning` — 一条长裙\n- `brudklänning` — 婚纱\n- `sommarklänning` — 夏日连衣裙\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"klänning\" täcker hela kroppen (kjol + överdel i ett). Skilj från [[kjol]] (enbart kjol).\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "klänning",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "连衣裙",
+      "en": "dress",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -53541,8 +54177,10 @@ window.KB_DATA = {
         "source-2026-06-09-en-handelse-i-tidsordning",
         "source-2026-06-15-restaurang-allergi-nota",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
         "stämpelkort",
         "topic-betalning",
+        "topic-klader",
         "topic-vardagsrutin"
       ]
     },
@@ -53583,6 +54221,40 @@ window.KB_DATA = {
         "bröd",
         "topic-mat-dryck",
         "varm"
+      ]
+    },
+    {
+      "slug": "kostym",
+      "type": "word",
+      "title": "kostym",
+      "path": "knowledge_base/words/kostym.md",
+      "body": "# kostym — substantiv (en-ord)\n\n📖 中文：西装/套装 · English: suit\n发音提示：/kɔsˈtyːm/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en kostym | kostymen |\n| plural | kostymer | kostymerna |\n\n## 词组搭配 (Collocations)\n\n- `ha på sig kostym` — 穿西装\n- `en mörk kostym` — 一套深色西装\n- `kostym och slips` — 西装加领带\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"kostym\" = suit (jacket + trousers). Kan också syfta på kostym för teater (costume).\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "kostym — substantiv (en ord) 📖 中文：西装/套装 · English: suit 发音提示：/kɔsˈtyːm/ 语法变形 (Forms) — obestämd bestämd singular en kostym kostymen plural kostymer kostymerna 词组搭配 (Collocations) ha på sig kostym — 穿西装 en mörk kostym — ",
+      "forms": [
+        "kostym",
+        "kostymen",
+        "kostymer",
+        "kostymerna"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "kostym kostym knowledge_base/words/kostym.md ---\ntype: word\nlemma: \"kostym\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"西装/套装\"\nen: \"suit\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kostym — substantiv (en-ord)\n\n📖 中文：西装/套装 · English: suit\n发音提示：/kɔsˈtyːm/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en kostym | kostymen |\n| plural | kostymer | kostymerna |\n\n## 词组搭配 (Collocations)\n\n- `ha på sig kostym` — 穿西装\n- `en mörk kostym` — 一套深色西装\n- `kostym och slips` — 西装加领带\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"kostym\" = suit (jacket + trousers). Kan också syfta på kostym för teater (costume).\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "kostym",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "西装/套装",
+      "en": "suit",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -55113,6 +55785,8 @@ window.KB_DATA = {
       "backlinks": [
         "sent-det-är-inte-så-långt-härifrån",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader",
         "topic-personer"
       ]
     },
@@ -56138,6 +56812,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "linne",
+      "type": "word",
+      "title": "linne",
+      "path": "knowledge_base/words/linne.md",
+      "body": "# linne — substantiv (ett-ord)\n\n📖 中文：背心/内衬 · English: tank top/undershirt\n发音提示：/ˈlɪnːɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett linne | linnet |\n| plural | linnen | linnena |\n\n## 词组搭配 (Collocations)\n\n- `ett bomullslinne` — 棉质背心\n- `ha linne under skjortan` — 衬衫内穿背心\n- `ett vitt linne` — 一件白色背心\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"linne\" kan syfta på linne-plagg (tank top/undershirt) eller på lin-tyg (linen fabric). Kontexten avgör.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "linne — substantiv (ett ord) 📖 中文：背心/内衬 · English: tank top/undershirt 发音提示：/ˈlɪnːɛ/ 语法变形 (Forms) — obestämd bestämd singular ett linne linnet plural linnen linnena 词组搭配 (Collocations) ett bomullslinne — 棉质背心 ha linne u",
+      "forms": [
+        "linne",
+        "linnet",
+        "linnen",
+        "linnena"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "linne linne knowledge_base/words/linne.md ---\ntype: word\nlemma: \"linne\"\nordklass: substantiv\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"背心/内衬\"\nen: \"tank top/undershirt\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# linne — substantiv (ett-ord)\n\n📖 中文：背心/内衬 · English: tank top/undershirt\n发音提示：/ˈlɪnːɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett linne | linnet |\n| plural | linnen | linnena |\n\n## 词组搭配 (Collocations)\n\n- `ett bomullslinne` — 棉质背心\n- `ha linne under skjortan` — 衬衫内穿背心\n- `ett vitt linne` — 一件白色背心\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"linne\" kan syfta på linne-plagg (tank top/undershirt) eller på lin-tyg (linen fabric). Kontexten avgör.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "linne",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "背心/内衬",
+      "en": "tank top/undershirt",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
+    },
+    {
       "slug": "liten",
       "type": "word",
       "title": "liten",
@@ -56182,6 +56890,7 @@ window.KB_DATA = {
         "source-2026-06-08-djur",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
         "stor",
         "topic-djur",
         "topic-personer"
@@ -56340,6 +57049,8 @@ window.KB_DATA = {
         "sent-nar-varen-kommer-borjar-dagarna",
         "source-2026-06-15-restaurang-fodelsedag",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader",
         "trafikljus"
       ]
     },
@@ -57103,9 +57814,46 @@ window.KB_DATA = {
         "topic-vardagsrutin"
       ],
       "backlinks": [
+        "märke",
         "sent-just-da-markte-jag-att-min-planbok-var-borta",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "märke",
+      "type": "word",
+      "title": "märke",
+      "path": "knowledge_base/words/märke.md",
+      "body": "# märke — substantiv (ett-ord)\n\n📖 中文：品牌/标志 · English: brand/label\n发音提示：/ˈmɛrkɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett märke | märket |\n| plural | märken | märkena |\n\n## 词组搭配 (Collocations)\n\n- `ett känt märke` — 一个知名品牌\n- `märkeskläder` — 名牌服装\n- `lägga märke till` — 注意到/留意\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[märka]] (注意到; 标记)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"märke\" har flera betydelser: brand/label, mark/sign, badge. I klädkontexten = brand/label.\n- \"lägga märke till\" = to notice (phrasal, unrelated to clothing).\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "märke — substantiv (ett ord) 📖 中文：品牌/标志 · English: brand/label 发音提示：/ˈmɛrkɛ/ 语法变形 (Forms) — obestämd bestämd singular ett märke märket plural märken märkena 词组搭配 (Collocations) ett känt märke — 一个知名品牌 märkeskläder — 名牌服",
+      "forms": [
+        "märke",
+        "märket",
+        "märken",
+        "märkena"
+      ],
+      "links": [
+        "märka",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "märke märke knowledge_base/words/märke.md ---\ntype: word\nlemma: \"märke\"\nordklass: substantiv\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"品牌/标志\"\nen: \"brand/label\"\nsynonyms: []\nantonyms: []\nfamily: [märka]\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# märke — substantiv (ett-ord)\n\n📖 中文：品牌/标志 · English: brand/label\n发音提示：/ˈmɛrkɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett märke | märket |\n| plural | märken | märkena |\n\n## 词组搭配 (Collocations)\n\n- `ett känt märke` — 一个知名品牌\n- `märkeskläder` — 名牌服装\n- `lägga märke till` — 注意到/留意\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[märka]] (注意到; 标记)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"märke\" har flera betydelser: brand/label, mark/sign, badge. I klädkontexten = brand/label.\n- \"lägga märke till\" = to notice (phrasal, unrelated to clothing).\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "märke",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "品牌/标志",
+      "en": "brand/label",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "märka",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -58453,7 +59201,9 @@ window.KB_DATA = {
       "backlinks": [
         "blek",
         "sent-man-plockar-svamp-och-njuter",
-        "sent-pa-vintern-ar-det-morkt-och-kallt"
+        "sent-pa-vintern-ar-det-morkt-och-kallt",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -58537,6 +59287,44 @@ window.KB_DATA = {
         "source-2026-06-19-pa-cafe-bestalla",
         "topic-kafe-fika",
         "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "mössa",
+      "type": "word",
+      "title": "mössa",
+      "path": "knowledge_base/words/mössa.md",
+      "body": "# mössa — substantiv (en-ord)\n\n📖 中文：毛线帽/冬帽 · English: winter hat/beanie\n发音提示：/ˈmœsːa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en mössa | mössan |\n| plural | mössor | mössorna |\n\n## 词组搭配 (Collocations)\n\n- `stickad mössa` — 针织帽\n- `ta på sig mössan` — 戴上帽子\n- `studentmössa` — 学生白帽（毕业帽）\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[hatt]] (不同类型的帽子)\n- 家族词: [[studentmössa]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"mössa\" = knit/winter hat (beanie). \"Hatt\" = hat with brim. 两者不可互换。\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "mössa — substantiv (en ord) 📖 中文：毛线帽/冬帽 · English: winter hat/beanie 发音提示：/ˈmœsːa/ 语法变形 (Forms) — obestämd bestämd singular en mössa mössan plural mössor mössorna 词组搭配 (Collocations) stickad mössa — 针织帽 ta på sig mössan",
+      "forms": [
+        "mössa",
+        "mössan",
+        "mössor",
+        "mössorna"
+      ],
+      "links": [
+        "hatt",
+        "source-2026-06-22-adjsubst-klader",
+        "studentmössa",
+        "topic-klader"
+      ],
+      "searchText": "mössa mössa knowledge_base/words/mössa.md ---\ntype: word\nlemma: \"mössa\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"毛线帽/冬帽\"\nen: \"winter hat/beanie\"\nsynonyms: [hatt]\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mössa — substantiv (en-ord)\n\n📖 中文：毛线帽/冬帽 · English: winter hat/beanie\n发音提示：/ˈmœsːa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en mössa | mössan |\n| plural | mössor | mössorna |\n\n## 词组搭配 (Collocations)\n\n- `stickad mössa` — 针织帽\n- `ta på sig mössan` — 戴上帽子\n- `studentmössa` — 学生白帽（毕业帽）\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[hatt]] (不同类型的帽子)\n- 家族词: [[studentmössa]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"mössa\" = knit/winter hat (beanie). \"Hatt\" = hat with brim. 两者不可互换。\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "mössa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "毛线帽/冬帽",
+      "en": "winter hat/beanie",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "hatt",
+        "source-2026-06-22-adjsubst-klader",
+        "studentmössa",
+        "topic-klader"
       ]
     },
     {
@@ -59531,7 +60319,8 @@ window.KB_DATA = {
       "backlinks": [
         "sent-jag-värmer-en-ny-åt-dig-direkt",
         "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
-        "source-2026-06-19-adjsubst-blandat"
+        "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader"
       ]
     },
     {
@@ -60921,6 +61710,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-02-valj-ratt-form",
+        "source-2026-06-22-adjsubst-klader",
         "topic-personer"
       ]
     },
@@ -61468,6 +62258,39 @@ window.KB_DATA = {
         "index",
         "source-2026-06-03-sundbyberg-forskola",
         "topic-förskola-system"
+      ]
+    },
+    {
+      "slug": "plagg",
+      "type": "word",
+      "title": "plagg",
+      "path": "knowledge_base/words/plagg.md",
+      "body": "# plagg — substantiv (ett-ord)\n\n📖 中文：服装/衣物 · English: garment\n发音提示：/plaɡː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett plagg | plagget |\n| plural | plagg | plaggen |\n\n## 词组搭配 (Collocations)\n\n- `ett klädesplagg` — 一件衣物\n- `ett fint plagg` — 一件精美的服装\n- `tvättplagg` — 需要洗涤的衣物\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"plagg\" är ett neutralt, allmänt ord för ett klädesplagg (any single piece of clothing).\n- Plural obestämd = plural bestämd i stavning: \"plagg\" / \"plaggen\".\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "plagg — substantiv (ett ord) 📖 中文：服装/衣物 · English: garment 发音提示：/plaɡː/ 语法变形 (Forms) — obestämd bestämd singular ett plagg plagget plural plagg plaggen 词组搭配 (Collocations) ett klädesplagg — 一件衣物 ett fint plagg — 一件精美的服装",
+      "forms": [
+        "plagg",
+        "plagget",
+        "plaggen"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "plagg plagg knowledge_base/words/plagg.md ---\ntype: word\nlemma: \"plagg\"\nordklass: substantiv\ngenus: \"ett\"\ncefr: \"B1\"\nzh: \"服装/衣物\"\nen: \"garment\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# plagg — substantiv (ett-ord)\n\n📖 中文：服装/衣物 · English: garment\n发音提示：/plaɡː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett plagg | plagget |\n| plural | plagg | plaggen |\n\n## 词组搭配 (Collocations)\n\n- `ett klädesplagg` — 一件衣物\n- `ett fint plagg` — 一件精美的服装\n- `tvättplagg` — 需要洗涤的衣物\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"plagg\" är ett neutralt, allmänt ord för ett klädesplagg (any single piece of clothing).\n- Plural obestämd = plural bestämd i stavning: \"plagg\" / \"plaggen\".\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "plagg",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "服装/衣物",
+      "en": "garment",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -63213,6 +64036,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "rock",
+      "type": "word",
+      "title": "rock",
+      "path": "knowledge_base/words/rock.md",
+      "body": "# rock — substantiv (en-ord)\n\n📖 中文：大衣/长外套 · English: overcoat\n发音提示：/rɔkː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en rock | rocken |\n| plural | rockar | rockarna |\n\n## 词组搭配 (Collocations)\n\n- `ta på sig rocken` — 穿上大衣\n- `en lång rock` — 一件长大衣\n- `en tung rock` — 一件厚重的大衣\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kappa]], [[jacka]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ \"rock\" (klädesplagg) ska inte förväxlas med \"rock\" (musikgenre). Samma stavning, olika betydelse.\n- \"rock\" = overcoat/long coat (manligt kodat). \"kappa\" = coat (feminint kodat).\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "rock — substantiv (en ord) 📖 中文：大衣/长外套 · English: overcoat 发音提示：/rɔkː/ 语法变形 (Forms) — obestämd bestämd singular en rock rocken plural rockar rockarna 词组搭配 (Collocations) ta på sig rocken — 穿上大衣 en lång rock — 一件长大衣 en t",
+      "forms": [
+        "rock",
+        "rocken",
+        "rockar",
+        "rockarna"
+      ],
+      "links": [
+        "jacka",
+        "kappa",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "rock rock knowledge_base/words/rock.md ---\ntype: word\nlemma: \"rock\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"大衣/长外套\"\nen: \"overcoat\"\nsynonyms: [kappa, jacka]\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# rock — substantiv (en-ord)\n\n📖 中文：大衣/长外套 · English: overcoat\n发音提示：/rɔkː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en rock | rocken |\n| plural | rockar | rockarna |\n\n## 词组搭配 (Collocations)\n\n- `ta på sig rocken` — 穿上大衣\n- `en lång rock` — 一件长大衣\n- `en tung rock` — 一件厚重的大衣\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kappa]], [[jacka]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ \"rock\" (klädesplagg) ska inte förväxlas med \"rock\" (musikgenre). Samma stavning, olika betydelse.\n- \"rock\" = overcoat/long coat (manligt kodat). \"kappa\" = coat (feminint kodat).\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "rock",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "大衣/长外套",
+      "en": "overcoat",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "jacka",
+        "kappa",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
+    },
+    {
       "slug": "röd",
       "type": "word",
       "title": "röd",
@@ -63245,7 +64106,9 @@ window.KB_DATA = {
         "grön",
         "sent-du-ser-en-stor-rod-byggnad",
         "source-2026-06-03-fraga-vagen-pub",
-        "source-2026-06-19-adjsubst-blandat"
+        "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -65191,6 +66054,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "skjorta",
+      "type": "word",
+      "title": "skjorta",
+      "path": "knowledge_base/words/skjorta.md",
+      "body": "# skjorta — substantiv (en-ord)\n\n📖 中文：衬衫 · English: shirt\n发音提示：/ˈɧuːrta/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en skjorta | skjortan |\n| plural | skjortor | skjortorna |\n\n## 词组搭配 (Collocations)\n\n- `en vit skjorta` — 一件白衬衫\n- `ha på sig skjortan` — 穿着衬衫\n- `knäppa skjortan` — 扣上衬衫扣子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[blus]] (女式衬衣)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"skjorta\" är vanligtvis en knäppbar skjorta (button-up). \"Blus\" är mer feminint.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "skjorta — substantiv (en ord) 📖 中文：衬衫 · English: shirt 发音提示：/ˈɧuːrta/ 语法变形 (Forms) — obestämd bestämd singular en skjorta skjortan plural skjortor skjortorna 词组搭配 (Collocations) en vit skjorta — 一件白衬衫 ha på sig skjortan",
+      "forms": [
+        "skjorta",
+        "skjortan",
+        "skjortor",
+        "skjortorna"
+      ],
+      "links": [
+        "blus",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "skjorta skjorta knowledge_base/words/skjorta.md ---\ntype: word\nlemma: \"skjorta\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"衬衫\"\nen: \"shirt\"\nsynonyms: [blus]\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skjorta — substantiv (en-ord)\n\n📖 中文：衬衫 · English: shirt\n发音提示：/ˈɧuːrta/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en skjorta | skjortan |\n| plural | skjortor | skjortorna |\n\n## 词组搭配 (Collocations)\n\n- `en vit skjorta` — 一件白衬衫\n- `ha på sig skjortan` — 穿着衬衫\n- `knäppa skjortan` — 扣上衬衫扣子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[blus]] (女式衬衣)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"skjorta\" är vanligtvis en knäppbar skjorta (button-up). \"Blus\" är mer feminint.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "skjorta",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "衬衫",
+      "en": "shirt",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "blus",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
+    },
+    {
       "slug": "skjuta",
       "type": "word",
       "title": "skjuta",
@@ -65275,7 +66174,9 @@ window.KB_DATA = {
         "fotbollssko",
         "sent-sangens-star-langs-vaggen-under-sangen",
         "source-2026-06-09-rumsliga-relationer",
-        "source-2026-06-19-adjsubst-blandat"
+        "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -65952,7 +66853,9 @@ window.KB_DATA = {
       "backlinks": [
         "fet",
         "mager",
+        "source-2026-06-22-adjsubst-klader",
         "topic-djur",
+        "topic-klader",
         "trång",
         "tunn"
       ]
@@ -66148,6 +67051,40 @@ window.KB_DATA = {
         "sent-mannen-ar-bland-annat-misstankt-for-att-ha-smugglat",
         "source-2026-06-22-nyheter-8sidor",
         "topic-samhälle-och-politik"
+      ]
+    },
+    {
+      "slug": "smycke",
+      "type": "word",
+      "title": "smycke",
+      "path": "knowledge_base/words/smycke.md",
+      "body": "# smycke — substantiv (ett-ord)\n\n📖 中文：饰品/首饰 · English: jewellery/ornament\n发音提示：/ˈsmyːkɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett smycke | smycket |\n| plural | smycken | smyckena |\n\n## 词组搭配 (Collocations)\n\n- `ett guldsmycke` — 一件金饰\n- `bära smycken` — 佩戴首饰\n- `silversmycke` — 银饰\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"smycke\" är ett generellt ord för jewellery/ornament. Inkluderar halsband, armband, örhängen etc.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "smycke — substantiv (ett ord) 📖 中文：饰品/首饰 · English: jewellery/ornament 发音提示：/ˈsmyːkɛ/ 语法变形 (Forms) — obestämd bestämd singular ett smycke smycket plural smycken smyckena 词组搭配 (Collocations) ett guldsmycke — 一件金饰 bära sm",
+      "forms": [
+        "smycke",
+        "smycket",
+        "smycken",
+        "smyckena"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "smycke smycke knowledge_base/words/smycke.md ---\ntype: word\nlemma: \"smycke\"\nordklass: substantiv\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"饰品/首饰\"\nen: \"jewellery/ornament\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# smycke — substantiv (ett-ord)\n\n📖 中文：饰品/首饰 · English: jewellery/ornament\n发音提示：/ˈsmyːkɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett smycke | smycket |\n| plural | smycken | smyckena |\n\n## 词组搭配 (Collocations)\n\n- `ett guldsmycke` — 一件金饰\n- `bära smycken` — 佩戴首饰\n- `silversmycke` — 银饰\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"smycke\" är ett generellt ord för jewellery/ornament. Inkluderar halsband, armband, örhängen etc.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "smycke",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "饰品/首饰",
+      "en": "jewellery/ornament",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -66412,7 +67349,11 @@ window.KB_DATA = {
       "topics": [
         "topic-karaktarsord"
       ],
-      "backlinks": []
+      "backlinks": [
+        "fin",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
     },
     {
       "slug": "söder",
@@ -67817,6 +68758,7 @@ window.KB_DATA = {
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-19-pa-cafe-bestalla",
+        "source-2026-06-22-adjsubst-klader",
         "topic-djur",
         "topic-personer"
       ]
@@ -68067,6 +69009,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "strumpa",
+      "type": "word",
+      "title": "strumpa",
+      "path": "knowledge_base/words/strumpa.md",
+      "body": "# strumpa — substantiv (en-ord)\n\n📖 中文：袜子 · English: sock\n发音提示：/ˈstrɵmpa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en strumpa | strumpan |\n| plural | strumpor | strumporna |\n\n## 词组搭配 (Collocations)\n\n- `ett par strumpor` — 一双袜子\n- `ullstrumpor` — 羊毛袜\n- `knästrumpor` — 及膝袜\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"strumpa\" kan syfta på vanlig strumpa (sock) eller långstrumpa (stocking). Kontexten avgör.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "strumpa — substantiv (en ord) 📖 中文：袜子 · English: sock 发音提示：/ˈstrɵmpa/ 语法变形 (Forms) — obestämd bestämd singular en strumpa strumpan plural strumpor strumporna 词组搭配 (Collocations) ett par strumpor — 一双袜子 ullstrumpor — 羊毛袜",
+      "forms": [
+        "strumpa",
+        "strumpan",
+        "strumpor",
+        "strumporna"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "strumpa strumpa knowledge_base/words/strumpa.md ---\ntype: word\nlemma: \"strumpa\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"袜子\"\nen: \"sock\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# strumpa — substantiv (en-ord)\n\n📖 中文：袜子 · English: sock\n发音提示：/ˈstrɵmpa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en strumpa | strumpan |\n| plural | strumpor | strumporna |\n\n## 词组搭配 (Collocations)\n\n- `ett par strumpor` — 一双袜子\n- `ullstrumpor` — 羊毛袜\n- `knästrumpor` — 及膝袜\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"strumpa\" kan syfta på vanlig strumpa (sock) eller långstrumpa (stocking). Kontexten avgör.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "strumpa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "袜子",
+      "en": "sock",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
+    },
+    {
       "slug": "stryptag",
       "type": "word",
       "title": "stryptag",
@@ -68143,6 +69119,7 @@ window.KB_DATA = {
       "backlinks": [
         "gymnasieelev",
         "index",
+        "mössa",
         "nationaldag",
         "skolavslutning",
         "source-2026-06-04-nyheter-vecka-22",
@@ -68557,7 +69534,9 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-08-djur",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
         "topic-djur",
+        "topic-klader",
         "vit"
       ]
     },
@@ -69647,7 +70626,9 @@ window.KB_DATA = {
         "mager",
         "smal",
         "source-2026-06-08-djur",
+        "source-2026-06-22-adjsubst-klader",
         "topic-djur",
+        "topic-klader",
         "tunn"
       ]
     },
@@ -70218,7 +71199,9 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
-        "source-2026-06-02-valj-ratt-form"
+        "source-2026-06-02-valj-ratt-form",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -70421,7 +71404,9 @@ window.KB_DATA = {
         "fet",
         "mager",
         "smal",
-        "tjock"
+        "source-2026-06-22-adjsubst-klader",
+        "tjock",
+        "topic-klader"
       ]
     },
     {
@@ -70620,6 +71605,41 @@ window.KB_DATA = {
         "sent-sverige-har-fyra-tydliga-arstider",
         "source-2026-06-16-vadret-och-arstiderna",
         "topic-vader-och-arstider"
+      ]
+    },
+    {
+      "slug": "tyg",
+      "type": "word",
+      "title": "tyg",
+      "path": "knowledge_base/words/tyg.md",
+      "body": "# tyg — substantiv (ett-ord)\n\n📖 中文：布料/面料 · English: fabric\n发音提示：/tyːɡ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett tyg | tyget |\n| plural | tyger | tygerna |\n\n## 词组搭配 (Collocations)\n\n- `bomullstyg` — 棉布\n- `ett fint tyg` — 精美的面料\n- `sy av tyg` — 用布料缝制\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"tyg\" = fabric/cloth/material. Används när man pratar om råmaterialet i kläder.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "tyg — substantiv (ett ord) 📖 中文：布料/面料 · English: fabric 发音提示：/tyːɡ/ 语法变形 (Forms) — obestämd bestämd singular ett tyg tyget plural tyger tygerna 词组搭配 (Collocations) bomullstyg — 棉布 ett fint tyg — 精美的面料 sy av tyg — 用布料缝制 ",
+      "forms": [
+        "tyg",
+        "tyget",
+        "tyger",
+        "tygerna"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "tyg tyg knowledge_base/words/tyg.md ---\ntype: word\nlemma: \"tyg\"\nordklass: substantiv\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"布料/面料\"\nen: \"fabric\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tyg — substantiv (ett-ord)\n\n📖 中文：布料/面料 · English: fabric\n发音提示：/tyːɡ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett tyg | tyget |\n| plural | tyger | tygerna |\n\n## 词组搭配 (Collocations)\n\n- `bomullstyg` — 棉布\n- `ett fint tyg` — 精美的面料\n- `sy av tyg` — 用布料缝制\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"tyg\" = fabric/cloth/material. Används när man pratar om råmaterialet i kläder.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "tyg",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "布料/面料",
+      "en": "fabric",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "halsduk",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
       ]
     },
     {
@@ -71040,6 +72060,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "uniform",
+      "type": "word",
+      "title": "uniform",
+      "path": "knowledge_base/words/uniform.md",
+      "body": "# uniform — substantiv (en-ord)\n\n📖 中文：制服 · English: uniform\n发音提示：/uniˈfɔrm/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en uniform | uniformen |\n| plural | uniformer | uniformerna |\n\n## 词组搭配 (Collocations)\n\n- `bära uniform` — 穿制服\n- `militäruniform` — 军装\n- `skoluniform` — 校服\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"uniform\" används för officiella/yrkesmässiga klädsel: militär, polis, skola etc.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "uniform — substantiv (en ord) 📖 中文：制服 · English: uniform 发音提示：/uniˈfɔrm/ 语法变形 (Forms) — obestämd bestämd singular en uniform uniformen plural uniformer uniformerna 词组搭配 (Collocations) bära uniform — 穿制服 militäruniform —",
+      "forms": [
+        "uniform",
+        "uniformen",
+        "uniformer",
+        "uniformerna"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "uniform uniform knowledge_base/words/uniform.md ---\ntype: word\nlemma: \"uniform\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"制服\"\nen: \"uniform\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# uniform — substantiv (en-ord)\n\n📖 中文：制服 · English: uniform\n发音提示：/uniˈfɔrm/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en uniform | uniformen |\n| plural | uniformer | uniformerna |\n\n## 词组搭配 (Collocations)\n\n- `bära uniform` — 穿制服\n- `militäruniform` — 军装\n- `skoluniform` — 校服\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"uniform\" används för officiella/yrkesmässiga klädsel: militär, polis, skola etc.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "uniform",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "制服",
+      "en": "uniform",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
+    },
+    {
       "slug": "universitet",
       "type": "word",
       "title": "universitet",
@@ -71329,9 +72383,11 @@ window.KB_DATA = {
         "topic-djur"
       ],
       "backlinks": [
+        "fin",
         "snygg",
         "source-2026-06-08-djur",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
         "topic-djur"
       ]
     },
@@ -72615,6 +73671,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "väska",
+      "type": "word",
+      "title": "väska",
+      "path": "knowledge_base/words/väska.md",
+      "body": "# väska — substantiv (en-ord)\n\n📖 中文：包/手提包 · English: bag/handbag\n发音提示：/ˈvɛsːka/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en väska | väskan |\n| plural | väskor | väskorna |\n\n## 词组搭配 (Collocations)\n\n- `en handväska` — 手提包\n- `en ryggsäck` — 背包\n- `förlora sin väska` — 遗失包包\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"väska\" är ett allmänt ord för bag/handbag. \"Ryggsäck\" = backpack. \"Plånbok\" = wallet.\n- 来源: [[source-2026-06-22-adjsubst-klader]]",
+      "excerpt": "väska — substantiv (en ord) 📖 中文：包/手提包 · English: bag/handbag 发音提示：/ˈvɛsːka/ 语法变形 (Forms) — obestämd bestämd singular en väska väskan plural väskor väskorna 词组搭配 (Collocations) en handväska — 手提包 en ryggsäck — 背包 förlor",
+      "forms": [
+        "väska",
+        "väskan",
+        "väskor",
+        "väskorna"
+      ],
+      "links": [
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ],
+      "searchText": "väska väska knowledge_base/words/väska.md ---\ntype: word\nlemma: \"väska\"\nordklass: substantiv\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"包/手提包\"\nen: \"bag/handbag\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-klader]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# väska — substantiv (en-ord)\n\n📖 中文：包/手提包 · English: bag/handbag\n发音提示：/ˈvɛsːka/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en väska | väskan |\n| plural | väskor | väskorna |\n\n## 词组搭配 (Collocations)\n\n- `en handväska` — 手提包\n- `en ryggsäck` — 背包\n- `förlora sin väska` — 遗失包包\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"väska\" är ett allmänt ord för bag/handbag. \"Ryggsäck\" = backpack. \"Plånbok\" = wallet.\n- 来源: [[source-2026-06-22-adjsubst-klader]]\n",
+      "lemma": "väska",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "包/手提包",
+      "en": "bag/handbag",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-klader"
+      ],
+      "backlinks": [
+        "plånbok",
+        "source-2026-06-22-adjsubst-klader",
+        "topic-klader"
+      ]
+    },
+    {
       "slug": "vass",
       "type": "word",
       "title": "vass",
@@ -73324,8 +74415,10 @@ window.KB_DATA = {
         "sent-snon-faller-tyst-och-tacker-marken",
         "source-2026-06-08-djur",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-22-adjsubst-klader",
         "svart",
-        "topic-djur"
+        "topic-djur",
+        "topic-klader"
       ]
     },
     {

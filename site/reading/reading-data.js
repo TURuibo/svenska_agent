@@ -1,5 +1,5 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-22 20:22:23",
+  "generatedAt": "2026-06-22 20:24:34",
   "articles": [
     {
       "slug": "news-2026-06-22",
@@ -112,6 +112,34 @@ window.READING_DATA = {
       "itemTotal": 37,
       "body": "# 🎧 SVT Nyheter på lätt svenska — 22 jun 2026\n\n**Avsnitt 116 · 周一 17:25 · 4 分 32 秒 · A2–B1**\n▶️ [在 SVT Play 收听](https://www.svtplay.se/video/jxggQ1B/nyheter-pa-latt-svenska)\n\n---\n\n## 本集内容 (Avsnitt 116, 2026-06-22)\n\n**三大新闻 + 天气预报：**\n1. **美伊谈判** — 美国和伊朗在瑞士举行首次会谈，制定了两个月内达成和平协议的计划，并将建立沟通渠道避免霍尔木兹海峡紧张局势；美、伊、黎将成立联合监督小组确保停战。\n2. **荣誉暴力** — 瑞典政府拨款 1700 万克朗打击家庭荣誉暴力；SVT 调查显示，当警察介入时，被打的男孩比女孩获得的帮助少——66% 的女孩被安置到家外，而男孩仅 28%；7 月 2 日起相关法律将收紧。\n3. **慕尼黑火车事故** — 两列火车在桥上相撞，一人遇难，两节车厢脱轨坠落桥下公路；事故原因不明。\n4. **欧洲热浪** — 法国多地超 40°C，逾 800 所学校停课，当局禁止在部分地点饮酒。\n5. **天气** — 周二：南部晴热，北部多云有局部阵雨。\n\n---\n\n## 逐句对照 (Alla repliker)\n\n🇸🇪 God kväll och välkommen till Nyheter på lätt svenska.\n🇨🇳 晚上好，欢迎收看《简易瑞典语新闻》。\n\n🇸🇪 USA och Iran ha haft sina första samtal i Schweiz.\n🇨🇳 美国和伊朗在瑞士举行了首次会谈。\n\n🇸🇪 De har kommit överens om en plan för att försöka nå ett avtal om fred inom två månader.\n🇨🇳 他们达成了一项计划，试图在两个月内达成和平协议。\n\n🇸🇪 Länderna vill också starta ett enklare sätt att prata med varandra för att undvika problem i Hormuzsundet.\n🇨🇳 两国还希望建立一种更简便的沟通方式，以避免霍尔木兹海峡出现问题。\n\n🇸🇪 USA, Iran och Libanon ska dessutom göra en grupp som ska se till att ingen bryter stoppet för strider i Libanon.\n🇨🇳 此外，美国、伊朗和黎巴嫩还将成立一个小组，负责确保没有人违反黎巴嫩停战协议。\n\n🇸🇪 Midsommarhelgen var som vanligt en av årets mest intensiva helger i trafiken.\n🇨🇳 一如既往，仲夏节长假是全年交通最繁忙的假期之一。\n\n🇸🇪 På flera vägar var det långa köer, till exempel på bron till Öland.\n🇨🇳 多条公路出现长时间堵车，例如通往厄兰岛的大桥。\n\n🇸🇪 Flera svåra olyckor hände och fem personer dog i olika olyckor under helgen.\n🇨🇳 发生了几起严重事故，假期期间共有五人在各类事故中遇难。\n\n🇸🇪 Trafikverket säger ändå att trafiken för det mesta fungerade som vanligt.\n🇨🇳 瑞典交通管理局表示，整体而言交通运行基本正常。\n\n🇸🇪 Att slå någon i sin familj för att den till exempel klär sig på ett visst sätt eller umgås med fel kompisar, kallas hedersvåld.\n🇨🇳 殴打自己的家庭成员，例如因为对方的着装方式或与\"错误的\"朋友来往，这被称为\"荣誉暴力\"。\n\n🇸🇪 Det är olagligt i Sverige.\n🇨🇳 这在瑞典是违法的。\n\n🇸🇪 Den svenska regeringen ger nu 17 miljoner kronor till kommunerna för att försöka stoppa våld på grund av heder i familjer.\n🇨🇳 瑞典政府现向各市政府拨款 1700 万克朗，以努力阻止家庭中以\"荣誉\"为由的暴力行为。\n\n🇸🇪 Adam växte upp som den äldste sonen i en kristen familj från Irak.\n🇨🇳 亚当在伊拉克一个基督教家庭中作为长子长大。\n\n🇸🇪 Han fick lära sig att det var han som var man i huset som skulle lära sina systrar vad som var rätt och fel i deras kultur.\n🇨🇳 他被教导，身为家中的男性，有责任教导姐妹们在他们的文化中什么是对是错。\n\n🇸🇪 Ofta skedde det här genom att slå systrarna.\n🇨🇳 这种教导往往是通过打姐妹来实现的。\n\n🇸🇪 Vi hade varit utomlands, i Egypten och så kom vi hem.\n🇨🇳 我们去过国外，去了埃及，然后回家了。\n\n🇸🇪 Jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om.\n🇨🇳 我和大姐开始为我认为她完全搞错的一件事争吵。\n\n🇸🇪 Det slutade med att jag tog stryptag på henne i köket och jag hörde hur alla skrek runtomkring mig.\n🇨🇳 结果我在厨房掐住了她的脖子，我听到周围所有人都在尖叫。\n\n🇸🇪 En undersökning som SVT gjort visar att många av pojkarna som slår sina systrar, inte får samma hjälp som flickorna när polisen blir inblandad.\n🇨🇳 SVT 的一项调查显示，许多男孩在打了姐妹之后，与女孩相比得不到同等的帮助，即便警察介入也是如此。\n\n🇸🇪 Socialtjänsten låter de flesta pojkar vara kvar i hemmet medan flickorna får lämna det.\n🇨🇳 社会服务机构让大多数男孩留在家中，而女孩则被送离家庭。\n\n🇸🇪 66 procent av flickorna blir omhändertagna medan bara 28 % av pojkarna får lämna hemmet.\n🇨🇳 66% 的女孩被转移安置，而只有 28% 的男孩被送离家庭。\n\n🇸🇪 Myndigheten för jämställdhet i Sverige tycker att det är fel mot pojkarna.\n🇨🇳 瑞典平等权威机构认为这对男孩不公平。\n\n🇸🇪 Barn och unga behöver möta vuxna som lyssnar på deras berättelser men inte bara lyssnar, utan vidtar åtgärder utifrån den utsatthet de kanske befinner sig i.\n🇨🇳 儿童和青少年需要遇到愿意倾听他们诉说的成年人，不仅仅是倾听，还要根据他们所处的脆弱处境采取行动。\n\n🇸🇪 Lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli i år.\n🇨🇳 针对以\"荣誉\"为由实施压迫的法律将从今年 7 月 2 日起变得更加严格。\n\n🇸🇪 Regeringen satsar också 17 miljoner kronor i svenska kommuner för att försöka stoppa hedersvåldet.\n🇨🇳 政府还在瑞典各市投入 1700 万克朗，以努力阻止荣誉暴力。\n\n🇸🇪 Jag tror också nånstans att du själv måste välja att ändra dig.\n🇨🇳 我也认为，你自己必须选择做出改变。\n\n🇸🇪 Det börjar med självreflektering, att kunna se att: \"jag har gjort fel\".\n🇨🇳 一切从自我反思开始——能够认识到\"我犯了错\"。\n\n🇸🇪 En person dog efter att två tåg krockade på en bro i den tyska staden München i helgen.\n🇨🇳 两列火车在一座桥上相撞后，一人死亡，事故发生在上周末的德国城市慕尼黑。\n\n🇸🇪 Två vagnar lämnade spåret och föll ner på en väg under bron.\n🇨🇳 两节车厢脱轨，坠落到桥下的公路上。\n\n🇸🇪 Omkring 60 personer arbetade för att rädda människor och saker på platsen.\n🇨🇳 约 60 人参与现场救援，抢救人员和物资。\n\n🇸🇪 Det är fortfarande ingen som vet varför olyckan hände.\n🇨🇳 目前仍无人知晓事故原因。\n\n🇸🇪 Det är just nu mycket varmt på många platser i Europa.\n🇨🇳 目前欧洲许多地方非常炎热。\n\n🇸🇪 I Frankrike är det över 40 grader på flera håll.\n🇨🇳 法国多地气温超过 40 摄氏度。\n\n🇸🇪 Där ska över 800 skolor hålla stängt på grund av värmen.\n🇨🇳 那里有超过 800 所学校将因高温关闭。\n\n🇸🇪 Myndigheter i Frankrike har också förbjudit folk från att dricka alkohol på vissa platser.\n🇨🇳 法国当局还禁止人们在某些地方饮酒。\n\n🇸🇪 Så vädret: Under tisdagen blir det mest soligt och varmt i söder medan det i norr blir svalare med en hel del moln och lokalt regn.\n🇨🇳 天气方面：周二南部大多晴天且温暖，而北部较为凉爽，云层较多，局部有雨。\n\n🇸🇪 Det var allt vi hade att berätta idag. Tack och ha en trevlig kväll!\n🇨🇳 这就是我们今天要报道的所有内容。谢谢，祝您晚上愉快！\n\n---",
       "searchText": "horning-2026-06-22 🎧 svt nyheter på lätt svenska — 22 jun 2026 # 🎧 svt nyheter på lätt svenska — 22 jun 2026\n\n**avsnitt 116 · 周一 17:25 · 4 分 32 秒 · a2–b1**\n▶️ [在 svt play 收听](https://www.svtplay.se/video/jxggq1b/nyheter-pa-latt-svenska)\n\n---\n\n## 本集内容 (avsnitt 116, 2026-06-22)\n\n**三大新闻 + 天气预报：**\n1. **美伊谈判** — 美国和伊朗在瑞士举行首次会谈，制定了两个月内达成和平协议的计划，并将建立沟通渠道避免霍尔木兹海峡紧张局势；美、伊、黎将成立联合监督小组确保停战。\n2. **荣誉暴力** — 瑞典政府拨款 1700 万克朗打击家庭荣誉暴力；svt 调查显示，当警察介入时，被打的男孩比女孩获得的帮助少——66% 的女孩被安置到家外，而男孩仅 28%；7 月 2 日起相关法律将收紧。\n3. **慕尼黑火车事故** — 两列火车在桥上相撞，一人遇难，两节车厢脱轨坠落桥下公路；事故原因不明。\n4. **欧洲热浪** — 法国多地超 40°c，逾 800 所学校停课，当局禁止在部分地点饮酒。\n5. **天气** — 周二：南部晴热，北部多云有局部阵雨。\n\n---\n\n## 逐句对照 (alla repliker)\n\n🇸🇪 god kväll och välkommen till nyheter på lätt svenska.\n🇨🇳 晚上好，欢迎收看《简易瑞典语新闻》。\n\n🇸🇪 usa och iran ha haft sina första samtal i schweiz.\n🇨🇳 美国和伊朗在瑞士举行了首次会谈。\n\n🇸🇪 de har kommit överens om en plan för att försöka nå ett avtal om fred inom två månader.\n🇨🇳 他们达成了一项计划，试图在两个月内达成和平协议。\n\n🇸🇪 länderna vill också starta ett enklare sätt att prata med varandra för att undvika problem i hormuzsundet.\n🇨🇳 两国还希望建立一种更简便的沟通方式，以避免霍尔木兹海峡出现问题。\n\n🇸🇪 usa, iran och libanon ska dessutom göra en grupp som ska se till att ingen bryter stoppet för strider i libanon.\n🇨🇳 此外，美国、伊朗和黎巴嫩还将成立一个小组，负责确保没有人违反黎巴嫩停战协议。\n\n🇸🇪 midsommarhelgen var som vanligt en av årets mest intensiva helger i trafiken.\n🇨🇳 一如既往，仲夏节长假是全年交通最繁忙的假期之一。\n\n🇸🇪 på flera vägar var det långa köer, till exempel på bron till öland.\n🇨🇳 多条公路出现长时间堵车，例如通往厄兰岛的大桥。\n\n🇸🇪 flera svåra olyckor hände och fem personer dog i olika olyckor under helgen.\n🇨🇳 发生了几起严重事故，假期期间共有五人在各类事故中遇难。\n\n🇸🇪 trafikverket säger ändå att trafiken för det mesta fungerade som vanligt.\n🇨🇳 瑞典交通管理局表示，整体而言交通运行基本正常。\n\n🇸🇪 att slå någon i sin familj för att den till exempel klär sig på ett visst sätt eller umgås med fel kompisar, kallas hedersvåld.\n🇨🇳 殴打自己的家庭成员，例如因为对方的着装方式或与\"错误的\"朋友来往，这被称为\"荣誉暴力\"。\n\n🇸🇪 det är olagligt i sverige.\n🇨🇳 这在瑞典是违法的。\n\n🇸🇪 den svenska regeringen ger nu 17 miljoner kronor till kommunerna för att försöka stoppa våld på grund av heder i familjer.\n🇨🇳 瑞典政府现向各市政府拨款 1700 万克朗，以努力阻止家庭中以\"荣誉\"为由的暴力行为。\n\n🇸🇪 adam växte upp som den äldste sonen i en kristen familj från irak.\n🇨🇳 亚当在伊拉克一个基督教家庭中作为长子长大。\n\n🇸🇪 han fick lära sig att det var han som var man i huset som skulle lära sina systrar vad som var rätt och fel i deras kultur.\n🇨🇳 他被教导，身为家中的男性，有责任教导姐妹们在他们的文化中什么是对是错。\n\n🇸🇪 ofta skedde det här genom att slå systrarna.\n🇨🇳 这种教导往往是通过打姐妹来实现的。\n\n🇸🇪 vi hade varit utomlands, i egypten och så kom vi hem.\n🇨🇳 我们去过国外，去了埃及，然后回家了。\n\n🇸🇪 jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om.\n🇨🇳 我和大姐开始为我认为她完全搞错的一件事争吵。\n\n🇸🇪 det slutade med att jag tog stryptag på henne i köket och jag hörde hur alla skrek runtomkring mig.\n🇨🇳 结果我在厨房掐住了她的脖子，我听到周围所有人都在尖叫。\n\n🇸🇪 en undersökning som svt gjort visar att många av pojkarna som slår sina systrar, inte får samma hjälp som flickorna när polisen blir inblandad.\n🇨🇳 svt 的一项调查显示，许多男孩在打了姐妹之后，与女孩相比得不到同等的帮助，即便警察介入也是如此。\n\n🇸🇪 socialtjänsten låter de flesta pojkar vara kvar i hemmet medan flickorna får lämna det.\n🇨🇳 社会服务机构让大多数男孩留在家中，而女孩则被送离家庭。\n\n🇸🇪 66 procent av flickorna blir omhändertagna medan bara 28 % av pojkarna får lämna hemmet.\n🇨🇳 66% 的女孩被转移安置，而只有 28% 的男孩被送离家庭。\n\n🇸🇪 myndigheten för jämställdhet i sverige tycker att det är fel mot pojkarna.\n🇨🇳 瑞典平等权威机构认为这对男孩不公平。\n\n🇸🇪 barn och unga behöver möta vuxna som lyssnar på deras berättelser men inte bara lyssnar, utan vidtar åtgärder utifrån den utsatthet de kanske befinner sig i.\n🇨🇳 儿童和青少年需要遇到愿意倾听他们诉说的成年人，不仅仅是倾听，还要根据他们所处的脆弱处境采取行动。\n\n🇸🇪 lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli i år.\n🇨🇳 针对以\"荣誉\"为由实施压迫的法律将从今年 7 月 2 日起变得更加严格。\n\n🇸🇪 regeringen satsar också 17 miljoner kronor i svenska kommuner för att försöka stoppa hedersvåldet.\n🇨🇳 政府还在瑞典各市投入 1700 万克朗，以努力阻止荣誉暴力。\n\n🇸🇪 jag tror också nånstans att du själv måste välja att ändra dig.\n🇨🇳 我也认为，你自己必须选择做出改变。\n\n🇸🇪 det börjar med självreflektering, att kunna se att: \"jag har gjort fel\".\n🇨🇳 一切从自我反思开始——能够认识到\"我犯了错\"。\n\n🇸🇪 en person dog efter att två tåg krockade på en bro i den tyska staden münchen i helgen.\n🇨🇳 两列火车在一座桥上相撞后，一人死亡，事故发生在上周末的德国城市慕尼黑。\n\n🇸🇪 två vagnar lämnade spåret och föll ner på en väg under bron.\n🇨🇳 两节车厢脱轨，坠落到桥下的公路上。\n\n🇸🇪 omkring 60 personer arbetade för att rädda människor och saker på platsen.\n🇨🇳 约 60 人参与现场救援，抢救人员和物资。\n\n🇸🇪 det är fortfarande ingen som vet varför olyckan hände.\n🇨🇳 目前仍无人知晓事故原因。\n\n🇸🇪 det är just nu mycket varmt på många platser i europa.\n🇨🇳 目前欧洲许多地方非常炎热。\n\n🇸🇪 i frankrike är det över 40 grader på flera håll.\n🇨🇳 法国多地气温超过 40 摄氏度。\n\n🇸🇪 där ska över 800 skolor hålla stängt på grund av värmen.\n🇨🇳 那里有超过 800 所学校将因高温关闭。\n\n🇸🇪 myndigheter i frankrike har också förbjudit folk från att dricka alkohol på vissa platser.\n🇨🇳 法国当局还禁止人们在某些地方饮酒。\n\n🇸🇪 så vädret: under tisdagen blir det mest soligt och varmt i söder medan det i norr blir svalare med en hel del moln och lokalt regn.\n🇨🇳 天气方面：周二南部大多晴天且温暖，而北部较为凉爽，云层较多，局部有雨。\n\n🇸🇪 det var allt vi hade att berätta idag. tack och ha en trevlig kväll!\n🇨🇳 这就是我们今天要报道的所有内容。谢谢，祝您晚上愉快！\n\n---"
+    },
+    {
+      "slug": "adjsubst-2026-06-22-klader",
+      "file": "adjsubst-2026-06-22-klader.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "adjsubst",
+      "kindLabel": {
+        "zh": "词形变化",
+        "en": "adj+subst drill"
+      },
+      "title": "Adjektiv + substantiv böjning — 2026-06-22 (Kläder)",
+      "cefr": "",
+      "date": "2026-06-22",
+      "theme": "Kläder (衣物)",
+      "source": "",
+      "path": "imported/adjsubst-2026-06-22-klader.md",
+      "counts": {
+        "words": 50,
+        "phrases": 0,
+        "sentences": 0,
+        "grammar": 0
+      },
+      "itemTotal": 50,
+      "body": "# Adjektiv + substantiv böjning — 2026-06-22 (Kläder)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-22-klader.md`\n导出块只含 words（精简种子，无 böjning）→ /import 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| Obestämd sg. | Bestämd sg. | Obestämd pl. | Bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en stor jacka | den stora jackan | stora jackor | de stora jackorna | 大夹克 |\n| en liten kjol | den lilla kjolen | små kjolar | de små kjolarna | 小裙子 |\n| en ny skjorta | den nya skjortan | nya skjortor | de nya skjortorna | 新衬衫 |\n| en gammal klänning | den gamla klänningen | gamla klänningar | de gamla klänningarna | 旧连衣裙 |\n| en vacker tröja | den vackra tröjan | vackra tröjor | de vackra tröjorna | 漂亮的毛衣 |\n| en snygg byxa | den snygga byxan | snygga byxor | de snygga byxorna | 时髦的裤子 |\n| en fin strumpa | den fina strumpan | fina strumpor | de fina strumporna | 精致的袜子 |\n| en mörk sko | den mörka skon | mörka skor | de mörka skorna | 深色的鞋 |\n| en ljus mössa | den ljusa mössan | ljusa mössor | de ljusa mössorna | 浅色的毛线帽 |\n| en röd halsduk | den röda halsduken | röda halsdukar | de röda halsdukarna | 红色围巾 |\n| en blå handske | den blåa handsken | blåa handskar | de blåa handskarna | 蓝色手套 |\n| en grön väska | den gröna väskan | gröna väskor | de gröna väskorna | 绿色包包 |\n| en gul kappa | den gula kappan | gula kappor | de gula kapporna | 黄色外套 |\n| en vit kostym | den vita kostymen | vita kostymer | de vita kostymerna | 白色西装 |\n| en svart blus | den svarta blusen | svarta blusar | de svarta blusarna | 黑色衬衣 |\n| en grå hatt | den gråa hatten | gråa hattar | de gråa hattarna | 灰色帽子 |\n| en brun uniform | den bruna uniformen | bruna uniformer | de bruna uniformerna | 棕色制服 |\n| en lång rock | den långa rocken | långa rockar | de långa rockarna | 长款大衣 |\n| ett kort bälte | det korta bältet | korta bälten | de korta bältena | 短腰带 |\n| ett brett plagg | det breda plagget | breda plagg | de breda plaggen | 宽松的服装 |\n| ett smalt tyg | det smala tyget | smala tyger | de smala tygerna | 窄幅布料 |\n| ett tjockt linne | det tjocka linnet | tjocka linnen | de tjocka linnena | 厚的背心 |\n| ett tunt smycke | det tunna smycket | tunna smycken | de tunna smyckena | 细的饰品 |\n| ett enkelt par | det enkla paret | enkla par | de enkla paren | 简单的一双 |\n| ett elegant märke | det eleganta märket | eleganta märken | de eleganta märkena | 优雅的品牌 |\n\n## 导入块（words only · 精简种子）",
+      "searchText": "adjsubst-2026-06-22-klader adjektiv + substantiv böjning — 2026-06-22 (kläder) # adjektiv + substantiv böjning — 2026-06-22 (kläder)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-22-klader.md`\n导出块只含 words（精简种子，无 böjning）→ /import 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| obestämd sg. | bestämd sg. | obestämd pl. | bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en stor jacka | den stora jackan | stora jackor | de stora jackorna | 大夹克 |\n| en liten kjol | den lilla kjolen | små kjolar | de små kjolarna | 小裙子 |\n| en ny skjorta | den nya skjortan | nya skjortor | de nya skjortorna | 新衬衫 |\n| en gammal klänning | den gamla klänningen | gamla klänningar | de gamla klänningarna | 旧连衣裙 |\n| en vacker tröja | den vackra tröjan | vackra tröjor | de vackra tröjorna | 漂亮的毛衣 |\n| en snygg byxa | den snygga byxan | snygga byxor | de snygga byxorna | 时髦的裤子 |\n| en fin strumpa | den fina strumpan | fina strumpor | de fina strumporna | 精致的袜子 |\n| en mörk sko | den mörka skon | mörka skor | de mörka skorna | 深色的鞋 |\n| en ljus mössa | den ljusa mössan | ljusa mössor | de ljusa mössorna | 浅色的毛线帽 |\n| en röd halsduk | den röda halsduken | röda halsdukar | de röda halsdukarna | 红色围巾 |\n| en blå handske | den blåa handsken | blåa handskar | de blåa handskarna | 蓝色手套 |\n| en grön väska | den gröna väskan | gröna väskor | de gröna väskorna | 绿色包包 |\n| en gul kappa | den gula kappan | gula kappor | de gula kapporna | 黄色外套 |\n| en vit kostym | den vita kostymen | vita kostymer | de vita kostymerna | 白色西装 |\n| en svart blus | den svarta blusen | svarta blusar | de svarta blusarna | 黑色衬衣 |\n| en grå hatt | den gråa hatten | gråa hattar | de gråa hattarna | 灰色帽子 |\n| en brun uniform | den bruna uniformen | bruna uniformer | de bruna uniformerna | 棕色制服 |\n| en lång rock | den långa rocken | långa rockar | de långa rockarna | 长款大衣 |\n| ett kort bälte | det korta bältet | korta bälten | de korta bältena | 短腰带 |\n| ett brett plagg | det breda plagget | breda plagg | de breda plaggen | 宽松的服装 |\n| ett smalt tyg | det smala tyget | smala tyger | de smala tygerna | 窄幅布料 |\n| ett tjockt linne | det tjocka linnet | tjocka linnen | de tjocka linnena | 厚的背心 |\n| ett tunt smycke | det tunna smycket | tunna smycken | de tunna smyckena | 细的饰品 |\n| ett enkelt par | det enkla paret | enkla par | de enkla paren | 简单的一双 |\n| ett elegant märke | det eleganta märket | eleganta märken | de eleganta märkena | 优雅的品牌 |\n\n## 导入块（words only · 精简种子）"
     },
     {
       "slug": "scenario-2026-06-21-handla-i-mataffaren",
@@ -1837,6 +1865,23 @@ window.READING_DATA = {
       "body": "# balkong — substantiv\n\n📖 中文：阳台 · English: balcony\n发音提示：/balˈkɔŋ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en balkong |\n| singular bestämd | balkongen |\n| plural obestämd | balkonger |\n| plural bestämd | balkongerna |\n\n## 词组搭配 (Collocations)\n\n- `på balkongen` — 在阳台上\n- `sitta på balkongen` — 坐在阳台上\n- `dricka kaffe på balkongen` — 在阳台上喝咖啡\n- `ha en balkong` — 有阳台\n\n## 例句 (Sentences)\n\n- 🇸🇪 På morgonen drack jag kaffe ute på balkongen. — 🇨🇳 早上我在阳台上喝咖啡。\n- 🇸🇪 Vi satt på balkongen och tittade på solnedgången. — 🇨🇳 我们坐在阳台上看日落。\n- 🇸🇪 Lägenheten har en stor balkong med utsikt över parken. — 🇨🇳 这套公寓有一个俯瞰公园的大阳台。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- `på balkongen` = 在阳台上（静态位置用 på）\n- 常见于描述公寓（lägenhet）的设施，瑞典许多公寓楼都有阳台。"
     },
     {
+      "slug": "bälte",
+      "lemma": "bälte",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "腰带/皮带",
+      "en": "belt",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "bälte",
+        "bältet",
+        "bälten",
+        "bältena"
+      ],
+      "body": "# bälte — substantiv (ett-ord)\n\n📖 中文：腰带/皮带 · English: belt\n发音提示：/ˈbɛltɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett bälte | bältet |\n| plural | bälten | bältena |\n\n## 词组搭配 (Collocations)\n\n- `ett läderbälte` — 一条皮腰带\n- `spänna bältet` — 系上腰带\n- `säkerhetsbälte` — 安全带\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"bälte\" kan syfta på klädaccessoar (belt) eller säkerhetsbälte (seatbelt).\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
+    },
+    {
       "slug": "banan",
       "lemma": "banan",
       "ordklass": "substantiv",
@@ -2449,6 +2494,23 @@ window.READING_DATA = {
         "blötast"
       ],
       "body": "# blöt — adjektiv\n\n📖 中文：湿的 · English: wet\n发音提示：/bløːt/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum obestämd | blöt |\n| neutrum obestämd | blött |\n| bestämd/plural | blöta |\n| komparativ | blötare |\n| superlativ | blötast |\n\n## 词组搭配 (Collocations)\n\n- `en blöt fisk` — 一条湿鱼（刚出水）\n- `blöta kläder` — 湿衣服\n- `blöt mark` — 潮湿的地面\n\n## 例句 (Sentences)\n\n- 🇸🇪 Fisken är blöt och hal att hålla i. — 🇨🇳 鱼是湿的，很滑，不好拿。\n- 🇸🇪 Mina kläder är blöta efter regnet. — 🇨🇳 下雨后我的衣服都湿了。\n- 🇸🇪 Hunden hoppar i sjön och blir helt blöt. — 🇨🇳 狗跳进湖里，全身湿透了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[blötlägga]] (浸泡), [[blöta]] (v. blötlägga)\n- 同义词: —\n- 反义词: [[torr]] (干燥的)\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Neutrum dubbel-t: blött (ett blött handduken / 一条湿毛巾).\n- 来源: [[source-2026-06-08-djur]]"
+    },
+    {
+      "slug": "blus",
+      "lemma": "blus",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "女式衬衣",
+      "en": "blouse",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "blus",
+        "blusen",
+        "blusar",
+        "blusarna"
+      ],
+      "body": "# blus — substantiv (en-ord)\n\n📖 中文：女式衬衣 · English: blouse\n发音提示：/bluːs/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en blus | blusen |\n| plural | blusar | blusarna |\n\n## 词组搭配 (Collocations)\n\n- `en silkesblus` — 丝质女衬衫\n- `en tunn blus` — 一件薄衬衫\n- `ha på sig en blus` — 穿着女式衬衫\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[skjorta]] (性别中性用词)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"blus\" används oftast för damkläder. \"Skjorta\" är mer könsneutral.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "blyg",
@@ -3069,6 +3131,23 @@ window.READING_DATA = {
         "bytesköerna"
       ],
       "body": "# byteskö — substantiv (en)\n\n📖 中文：换位等候队列（接受保证名额后仍在等待首选名额的队列） · English: transfer/switching queue\n发音提示：**by**-tes-kö，复合词，重音在第一部分。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byteskö |\n| Singular bestämd | byteskön |\n| Plural obestämd | bytesköer |\n| Plural bestämd | bytesköerna |\n\n## 词组搭配 (Collocations)\n\n- `stå kvar i byteskön` — 仍留在换位队列中 → [[kvar]]\n- `stå i byteskö` — 在换位队列中等待\n- `byteskön till önskade val` — 意愿名额的换位队列 → [[val]]\n\n## 例句 (Sentences)\n\n- 🇸🇪 …står ditt barn **kvar** i **byteskön** till era önskade val.\n  🇨🇳 你的孩子仍将留在换位等候队列中等待你的意愿名额。\n  📄 [[source-2026-06-03-sundbyberg-forskola]]\n- 🇸🇪 Vi tackar ja till garantiplatsen men är fortfarande kvar i **byteskön**.\n  🇨🇳 我们接受了保证名额，但仍然在换位等候队列中。\n- 🇸🇪 **Byteskön** till vår önskade förskola är lång — det kan ta tid.\n  🇨🇳 我们首选幼儿园的换位等候队列很长——可能需要一段时间。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[byte]] (名词：交换/切换), [[kö]] (名词：队列/等候)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-förskola-system]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：`byte`（切换/交换）+ `kö`（队列）。特指瑞典幼儿园/学校系统中的换位等候机制。\n- 接受 `garantiplacering` 后，孩子仍自动留在此队列中等待首选幼儿园名额。→ [[garantiplacering]]\n- `kvar i byteskön` 中的 `kvar` 强调\"仍然在队列中，没有离开\"。→ [[kvar]]"
+    },
+    {
+      "slug": "byxa",
+      "lemma": "byxa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "裤子",
+      "en": "trouser/trousers (usually used in pl. byxor)",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "byxa",
+        "byxan",
+        "byxor",
+        "byxorna"
+      ],
+      "body": "# byxa — substantiv (en-ord)\n\n📖 中文：裤子 · English: trouser/trousers (usually used in pl. byxor)\n发音提示：/ˈbyːksa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en byxa | byxan |\n| plural | byxor | byxorna |\n\n## 词组搭配 (Collocations)\n\n- `ett par byxor` — 一条裤子（一双/一件）\n- `jeans/jeanbyxor` — 牛仔裤\n- `kortbyxor` — 短裤\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- I svenska används \"byxor\" (plural) normalt för att syfta på ett plagg, precis som på engelska \"trousers\".\n- \"ett par byxor\" = one pair of trousers.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "café",
@@ -4194,6 +4273,22 @@ window.READING_DATA = {
         "filtarna"
       ],
       "body": "# filt — substantiv (en)\n\n📖 中文：毯子；毛毯 · English: blanket\n发音提示：filt（单音节）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en filt |\n| Singular bestämd | filten |\n| Plural obestämd | filtar |\n| Plural bestämd | filtarna |\n\n## 词组搭配 (Collocations)\n\n- `ligga under filten` — 盖着毯子\n- `en varm filt` — 一条暖毯\n- `fleecefilt` — 抓绒毯\n\n## 例句 (Sentences)\n\n- 🇸🇈 På sängen **ligger** en kudde och en filt. — 🇨🇳 床上放着一个枕头和一条毯子。\n- 🇸🇈 Det är kallt — ta med en filt! — 🇨🇳 天冷了——带上毯子！\n- 🇸🇈 Hon sov under en tjock filt. — 🇨🇳 她盖着一条厚毯子睡觉。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kudde]] (枕头), [[täcke]] (被子), [[sängkläder]] (床上用品)\n- 同义词: [[täcke]] (被子，比 filt 更厚)\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 毯子用 **ligga**（平铺，扁平物体）。\n- `filt` 一般指较薄的毯子；`täcke` 是较厚的被子。\n- 来源: [[source-2026-06-09-rumsliga-relationer]]"
+    },
+    {
+      "slug": "fin",
+      "lemma": "fin",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "精致的/好的",
+      "en": "fine/nice",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "fin",
+        "fint",
+        "fina"
+      ],
+      "body": "# fin — adjektiv\n\n📖 中文：精致的/好的 · English: fine/nice\n发音提示：/fiːn/\n\n## 语法变形 (Forms)\n\n| form | example |\n|------|---------|\n| grundform (en-ord) | fin |\n| grundform (ett-ord) | fint |\n| bestämd / plural | fina |\n\n| — | obestämd sg | bestämd sg | plural |\n|---|-------------|-----------|--------|\n| en-ord | en fin jacka | den fina jackan | fina jackor |\n| ett-ord | ett fint plagg | det fina plagget | fina plagg |\n\n## 词组搭配 (Collocations)\n\n- `fin stil` — 好看的风格\n- `fin kvalitet` — 精良的品质\n- `fina kläder` — 精致的衣物 → see [[topic-klader]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[snygg]], [[vacker]], [[elegant]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"fin\" är mångsidigt: kan beteckna utseende (snygg), kvalitet (bra) eller känsla (trevlig).\n- Neutrum: \"fint\" — t.ex. *ett fint tyg*.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "finger",
@@ -5899,6 +5994,23 @@ window.READING_DATA = {
       "body": "# hälsa — verb\n\n📖 中文：打招呼；问候；代某人致意 · English: to greet; to say hello; to send regards\n发音提示：重音在第一音节：**HÄL-sa**。注意和名词 `hälsa`（健康）同形，但这里是动词。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att hälsa |\n| Imperativ | hälsa! |\n| Presens | hälsar |\n| Preteritum | hälsade |\n| Supinum | (har) hälsat |\n\n规则的 grupp 1 动词（-ar/-ade/-at）。\n\n## 词组搭配 (Collocations)\n\n- `hälsa på ngn` — 拜访某人；去看望某人\n- `hälsa ngn välkommen` — 欢迎某人\n- `hälsa från ngn` — 代某人问好\n- `hälsa på publiken` — 向观众致意\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon **hälsade** vänligt på grannarna.\n  🇨🇳 她友好地和邻居们打了招呼。\n- 🇸🇪 Kan du **hälsa** från mig?\n  🇨🇳 你能代我问好吗？\n- 🇸🇪 Vi ska **hälsa på** mormor i helgen.\n  🇨🇳 这个周末我们要去看望外婆。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: []\n- 同义词: []\n- 反义词: []\n- 主题: []\n\n## 用法提示 (Usage Notes)\n\n- `hälsade` 是 `hälsa` 的过去时，表示”打了招呼 / 问候了”。\n- `hälsa på` 很常用，意思常常不是”打招呼一下”，而是”拜访、探望”。\n- `hälsa` 也可作名词，表示”健康”；查词时要靠上下文区分词性。\n\n---\n\n## 🔔 同形名词补充 (Homonymous Noun)\n\n> **`hälsa` — substantiv (en)** — 健康 / health\n\n*hälsa* 在作名词时意为”健康状态”，是一个完全不同的语义。\n\n| Form | Swedish |\n|------|---------|\n| Singular bestämd | hälsan |\n| Plural | — (通常不可数) |\n\n**常用搭配（名词）：**\n- `god hälsa` — 好的健康状态\n- `dålig hälsa` — 差的健康状态\n- `hälso-` 前缀 — 如 *hälsovård*（医疗保健），*hälsokost*（健康食品）\n- `av hälsoskäl` — 出于健康原因\n\n**区分方法：** 动词 *hälsa* 需要宾语或介词（*hälsa på ngn*）；名词 *hälsa* 直接与形容词或介词短语搭配（*god hälsa*）。\n\n参见主题：[[topic-hälsa]]"
     },
     {
+      "slug": "halsduk",
+      "lemma": "halsduk",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "围巾",
+      "en": "scarf",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "halsduk",
+        "halsduken",
+        "halsdukar",
+        "halsdukarna"
+      ],
+      "body": "# halsduk — substantiv (en-ord)\n\n📖 中文：围巾 · English: scarf\n发音提示：/ˈhalsˌduːk/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en halsduk | halsduken |\n| plural | halsdukar | halsdukarna |\n\n## 词组搭配 (Collocations)\n\n- `linda halsduk om halsen` — 把围巾绕在脖子上\n- `ullig halsduk` — 羊毛围巾\n- `en lång halsduk` — 一条长围巾\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hals]] (颈部) + [[tyg]] (布料/面料)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: hals (neck) + duk (cloth). Direkt: \"neck cloth\".\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
+    },
+    {
       "slug": "halvera",
       "lemma": "halvera",
       "ordklass": "verb",
@@ -5965,6 +6077,23 @@ window.READING_DATA = {
         "handlederna"
       ],
       "body": "# handled — substantiv (en)\n\n📖 中文：手腕 · English: wrist\n发音提示：/ˈhandlɛd/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Grundform (obestämd singular) | en handled |\n| Bestämd singular | handleden |\n| Obestämd plural | handleder |\n| Bestämd plural | handlederna |\n\n## 词组搭配 (Collocations)\n\n- `vrida handleden` — 扭动手腕\n- `handledsur` — 手表（手腕上的表）\n- `bruten handled` — 手腕骨折\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[arm]], [[armbåge]], [[finger]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: hand + led (joint). Handleden = the hand joint = wrist. Plural: handleder.\n- 来源: [[source-2026-06-17-kropp-halsa]]"
+    },
+    {
+      "slug": "handske",
+      "lemma": "handske",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "手套",
+      "en": "glove",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "handske",
+        "handsken",
+        "handskar",
+        "handskarna"
+      ],
+      "body": "# handske — substantiv (en-ord)\n\n📖 中文：手套 · English: glove\n发音提示：/ˈhandˌskeː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en handske | handsken |\n| plural | handskar | handskarna |\n\n## 词组搭配 (Collocations)\n\n- `ett par handskar` — 一双手套\n- `läderhandskar` — 皮手套\n- `ta på sig handskarna` — 戴上手套\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hand]] (手)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: hand + ske (skede = spoon?). Historisk etymologi. Plural: handskar (oregelbunden).\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "hänga",
@@ -6067,6 +6196,23 @@ window.READING_DATA = {
         "hatat"
       ],
       "body": "# hata — verb\n\n📖 中文：恨 / 讨厌 · English: to hate\n发音提示：['hɑːta]\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | hata |\n| Presens | hatar |\n| Preteritum | hatade |\n| Supinum | hatat |\n| Imperativ | hata! |\n\nVerbgrupp 1 (–ar). Regelbundet.\n\n## 词组搭配 (Collocations)\n\n- `hata förlust` — 讨厌输\n- `hata orättvisa` — 痛恨不公正\n\n## 例句 (Sentences)\n\n- 🇸🇪 Zlatan hatade att förlora en match. — 🇨🇳 Zlatan 讨厌输掉比赛。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: [[älska]]\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- Stark känsloterm. Vanlig antonym: [[älska]] (to love)."
+    },
+    {
+      "slug": "hatt",
+      "lemma": "hatt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "帽子",
+      "en": "hat",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "hatt",
+        "hatten",
+        "hattar",
+        "hattarna"
+      ],
+      "body": "# hatt — substantiv (en-ord)\n\n📖 中文：帽子 · English: hat\n发音提示：/hatː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en hatt | hatten |\n| plural | hattar | hattarna |\n\n## 词组搭配 (Collocations)\n\n- `ta på sig hatten` — 戴上帽子\n- `en bred hatt` — 一顶宽檐帽\n- `sommarhatt` — 夏日帽\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[mössa]] (针织帽/冬帽)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"hatt\" har brätte (brim). \"Mössa\" = beanie/knit hat utan brätte.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "havredryck",
@@ -6782,6 +6928,23 @@ window.READING_DATA = {
       "body": "# invandrare — substantiv\n\n📖 中文：移民 · English: immigrant\n发音提示：[in-VAN-dra-re]\n\n## 语法变形 (Forms)\n\n| form | singular | plural |\n|------|----------|--------|\n| obestämd | en invandrare | invandrare |\n| bestämd | invandraren | invandrarna |\n\n> 注意：singular 和 plural obestämd 形式相同 (sg=pl)。\n\n## 词组搭配 (Collocations)\n\n- `ta emot invandrare` — 接收移民\n- `invandrare från Sydamerika` — 来自南美的移民\n- `ensamkommande invandrare` — 无人陪伴的移民\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sverige tar emot många invandrare varje år. — 🇨🇳 瑞典每年接收很多移民。\n- 🇸🇪 Mannen är invandrare från Colombia. — 🇨🇳 这名男子是来自哥伦比亚的移民。\n- 🇸🇪 Många invandrare lär sig svenska på SFI. — 🇨🇳 很多移民在SFI学习瑞典语。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[invandring]], [[invandra]]\n- 同义词: [[invånare]] (居民，更广义)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *invandrare* 指从国外移居瑞典的人；*invånare* 是\"居民\"（不含移民背景含义）。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]"
     },
     {
+      "slug": "jacka",
+      "lemma": "jacka",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "夹克/外套",
+      "en": "jacket",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "jacka",
+        "jackan",
+        "jackor",
+        "jackorna"
+      ],
+      "body": "# jacka — substantiv (en-ord)\n\n📖 中文：夹克/外套 · English: jacket\n发音提示：/ˈjakːa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en jacka | jackan |\n| plural | jackor | jackorna |\n\n## 词组搭配 (Collocations)\n\n- `ta på sig jackan` — 穿上外套\n- `hänga upp jackan` — 挂起外套\n- `en varm jacka` — 一件暖和的外套\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kappa]], [[rock]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"jacka\" är kortare och lättare än \"kappa\" (coat) eller \"rock\" (overcoat).\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
+    },
+    {
       "slug": "jämställdhet",
       "lemma": "jämställdhet",
       "ordklass": "substantiv",
@@ -7098,6 +7261,23 @@ window.READING_DATA = {
       "body": "# känslig — adjektiv\n\n📖 中文：敏感的 · English: sensitive\n发音提示：/ˈɕɛnsliɡ/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Positiv utrum (en-ord) | känslig |\n| Positiv neutrum (ett-ord) | känsligt |\n| Positiv plural/bestämd | känsliga |\n| Komparativ | känsligare |\n| Superlativ | känsligast / känsligaste |\n\n## 词组搭配 (Collocations)\n\n- `känslig hud` — 敏感皮肤\n- `känslig för smärta` — 对疼痛敏感\n- `känslig information` — 敏感信息\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[känsla]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-kropp]], [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- Känslig kan avse fysisk känslighet (hud, smärta) eller emotionell/social känslighet. Relaterat ord: [[känsla]] (känsla = feeling/sensation).\n- 来源: [[source-2026-06-17-kropp-halsa]]"
     },
     {
+      "slug": "kappa",
+      "lemma": "kappa",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "外套/大衣",
+      "en": "coat",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "kappa",
+        "kappan",
+        "kappor",
+        "kapporna"
+      ],
+      "body": "# kappa — substantiv (en-ord)\n\n📖 中文：外套/大衣 · English: coat\n发音提示：/ˈkapːa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en kappa | kappan |\n| plural | kappor | kapporna |\n\n## 词组搭配 (Collocations)\n\n- `vinterkappa` — 冬季大衣\n- `ta på sig kappan` — 穿上大衣\n- `en lång kappa` — 一件长大衣\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[jacka]], [[rock]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"kappa\" är en längre, formellare ytterrock än \"jacka\". Mer feminint kodat ord.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
+    },
+    {
       "slug": "kardemummabulle",
       "lemma": "kardemummabulle",
       "ordklass": "substantiv",
@@ -7267,6 +7447,23 @@ window.READING_DATA = {
       "body": "# kind — substantiv (en)\n\n📖 中文：脸颊 · English: cheek\n发音提示：/ɕɪnd/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Grundform (obestämd singular) | en kind |\n| Bestämd singular | kinden |\n| Obestämd plural | kinder |\n| Bestämd plural | kinderna |\n\n## 词组搭配 (Collocations)\n\n- `röda kinder` — 红脸颊\n- `kindpuss` — 贴脸亲吻\n- `tårar rann längs kinderna` — 眼泪沿脸颊流下\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[panna]], [[haka]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- Kind (cheek) — plural: kinder. Kindpuss = peck on the cheek (common Swedish greeting).\n- 来源: [[source-2026-06-17-kropp-halsa]]"
     },
     {
+      "slug": "kjol",
+      "lemma": "kjol",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "裙子",
+      "en": "skirt",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "kjol",
+        "kjolen",
+        "kjolar",
+        "kjolarna"
+      ],
+      "body": "# kjol — substantiv (en-ord)\n\n📖 中文：裙子 · English: skirt\n发音提示：/çuːl/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en kjol | kjolen |\n| plural | kjolar | kjolarna |\n\n## 词组搭配 (Collocations)\n\n- `lång kjol` — 长裙\n- `kort kjol` — 短裙\n- `en blommig kjol` — 一条有花纹的裙子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"kjol\" avser specifikt kjol (skirt), inte klänning (dress).\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
+    },
+    {
       "slug": "klädskåp",
       "lemma": "klädskåp",
       "ordklass": "substantiv",
@@ -7281,6 +7478,23 @@ window.READING_DATA = {
         "klädskåpen"
       ],
       "body": "# klädskåp — substantiv (ett)\n\n📖 中文：衣柜 · English: wardrobe; closet\n发音提示：KLÄD-skåp；två stavelser.\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett klädskåp |\n| Singular bestämd | klädskåpet |\n| Plural obestämd | klädskåp（零复数）|\n| Plural bestämd | klädskåpen |\n\n## 词组搭配 (Collocations)\n\n- `i hörnet` — 在角落里（典型位置）\n- `i klädskåpet` — 在衣柜里\n- `hänge upp kläderna i klädskåpet` — 把衣服挂进衣柜\n\n## 例句 (Sentences)\n\n- 🇸🇈 I hörnet till vänster om dörren **står** ett klädskåp. — 🇨🇳 门左边的角落里立着一个衣柜。\n- 🇸🇈 Mina kläder hänger i klädskåpet. — 🇨🇳 我的衣服挂在衣柜里。\n- 🇸🇈 Klädskåpet är fullt av kläder. — 🇨🇳 衣柜装满了衣服。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skåp]] (柜子), [[kläder]] (衣服), [[garderob]] (衣橱)\n- 同义词: [[garderob]] (衣橱，通常指嵌入式)\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 衣柜是竖立家具 → 用 **stå**。\n- `klädskåp` = 独立衣柜；`garderob` = 嵌入式衣橱（内嵌在墙里）。\n- 合成词：kläd (衣服) + skåp (柜子)。\n- 来源: [[source-2026-06-09-rumsliga-relationer]]"
+    },
+    {
+      "slug": "klänning",
+      "lemma": "klänning",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "连衣裙",
+      "en": "dress",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "klänning",
+        "klänningen",
+        "klänningar",
+        "klänningarna"
+      ],
+      "body": "# klänning — substantiv (en-ord)\n\n📖 中文：连衣裙 · English: dress\n发音提示：/ˈklɛnːɪŋ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en klänning | klänningen |\n| plural | klänningar | klänningarna |\n\n## 词组搭配 (Collocations)\n\n- `en lång klänning` — 一条长裙\n- `brudklänning` — 婚纱\n- `sommarklänning` — 夏日连衣裙\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"klänning\" täcker hela kroppen (kjol + överdel i ett). Skilj från [[kjol]] (enbart kjol).\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "klar",
@@ -7796,6 +8010,23 @@ window.READING_DATA = {
         "korvarna"
       ],
       "body": "# korv — substantiv (en-ord)\n\n📖 中文：香肠 · English: sausage\n发音提示：[kɔrv]\n\n## 语法变形 (Forms)\n\n| | obestämd | bestämd |\n|---|---|---|\n| singular | en korv | korven |\n| plural | korvar | korvarna |\n\n## 词组搭配 (Collocations)\n\n- `grillad korv` — 烤香肠\n- `varm korv` — 热狗/热香肠 → see [[varm]]\n- `korv med bröd` — 面包夹香肠（热狗）→ see [[bröd]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: korvkiosk (香肠亭), varmkorv (热狗)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- en-ord；复数 korvar。varmkorv（热狗）是常见合成词。\n- [[grammar-substantiv-plural]] · [[grammar-en-ord-ett-ord]]\n- 来源: [[source-2026-06-11-mat-dryck]]"
+    },
+    {
+      "slug": "kostym",
+      "lemma": "kostym",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "西装/套装",
+      "en": "suit",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "kostym",
+        "kostymen",
+        "kostymer",
+        "kostymerna"
+      ],
+      "body": "# kostym — substantiv (en-ord)\n\n📖 中文：西装/套装 · English: suit\n发音提示：/kɔsˈtyːm/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en kostym | kostymen |\n| plural | kostymer | kostymerna |\n\n## 词组搭配 (Collocations)\n\n- `ha på sig kostym` — 穿西装\n- `en mörk kostym` — 一套深色西装\n- `kostym och slips` — 西装加领带\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"kostym\" = suit (jacket + trousers). Kan också syfta på kostym för teater (costume).\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "kött",
@@ -8899,6 +9130,23 @@ window.READING_DATA = {
       "body": "# linje — substantiv (en)\n\n📖 中文：线路；线 · English: line\n发音提示：LIN-je；两音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en linje |\n| Singular bestämd | linjen |\n| Plural obestämd | linjer |\n| Plural bestämd | linjerna |\n\n## 词组搭配 (Collocations)\n\n- `tunnelbanelinje` — 地铁线路\n- `linje 13` — 13号线\n- `hålla linjen` — 保持立场/路线\n- `stå i linje` — 排队\n\n## 例句 (Sentences)\n\n- [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen, linje 13 eller 14. 🇨🇳 坐地铁到斯鲁森站，13或14号线。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[linjal]] (尺子), [[linjär]] (adj. 线性的)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-riktningar]]\n\n## 用法提示 (Usage Notes)\n\n- 交通语境：`linje 13` 指线路号，不加冠词。\n- 复数 `linjer` 注意不是 `linjer` → 规则变化。"
     },
     {
+      "slug": "linne",
+      "lemma": "linne",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "背心/内衬",
+      "en": "tank top/undershirt",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "linne",
+        "linnet",
+        "linnen",
+        "linnena"
+      ],
+      "body": "# linne — substantiv (ett-ord)\n\n📖 中文：背心/内衬 · English: tank top/undershirt\n发音提示：/ˈlɪnːɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett linne | linnet |\n| plural | linnen | linnena |\n\n## 词组搭配 (Collocations)\n\n- `ett bomullslinne` — 棉质背心\n- `ha linne under skjortan` — 衬衫内穿背心\n- `ett vitt linne` — 一件白色背心\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"linne\" kan syfta på linne-plagg (tank top/undershirt) eller på lin-tyg (linen fabric). Kontexten avgör.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
+    },
+    {
       "slug": "liten",
       "lemma": "liten",
       "ordklass": "adjektiv",
@@ -9322,6 +9570,23 @@ window.READING_DATA = {
         "märkt"
       ],
       "body": "# märka — verb (grupp 2)\n\n📖 中文：注意到；发现 · English: to notice / realise\n发音提示：MÄR-ka；两音节，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att märka |\n| Presens | märker |\n| Preteritum | märkte |\n| Supinum | (har) märkt |\n\n## 词组搭配 (Collocations)\n\n- `märka att` — 注意到……（后接 att-sats 从句）\n- `märka skillnaden` — 注意到区别\n- `inte märka någonting` — 没注意到任何事\n\n## 例句 (Sentences)\n\n- 🇸🇪 Just då **märkte** jag att min plånbok var borta. — 🇨🇳 就在那时，我发现我的钱包不见了。\n- 🇸🇈 Jag **märkte** inte att hon var ledsen. — 🇨🇳 我没注意到她很难过。\n- 🇸🇈 Man **märker** direkt om ett ord uttalas fel. — 🇨🇳 一旦一个词发音不对，马上就能注意到。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[märke]] (ett, 标志/品牌/注意), [[anmärka]] (v. 评论/标注), [[märkbar]] (adj. 明显的)\n- 同义词: [[lägga märke till]] (注意到，强调主动), [[notera]] (v. 注意到，较正式)\n- 反义词: [[missa]] (v. 错过/没注意到)\n- 主题: [[topic-vardagsrutin]]\n\n## 用法提示 (Usage Notes)\n\n- `märka att` + 从句：*Jag märkte att han var trött.* — 我发现他很累。\n- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]"
+    },
+    {
+      "slug": "märke",
+      "lemma": "märke",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "品牌/标志",
+      "en": "brand/label",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "märke",
+        "märket",
+        "märken",
+        "märkena"
+      ],
+      "body": "# märke — substantiv (ett-ord)\n\n📖 中文：品牌/标志 · English: brand/label\n发音提示：/ˈmɛrkɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett märke | märket |\n| plural | märken | märkena |\n\n## 词组搭配 (Collocations)\n\n- `ett känt märke` — 一个知名品牌\n- `märkeskläder` — 名牌服装\n- `lägga märke till` — 注意到/留意\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[märka]] (注意到; 标记)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"märke\" har flera betydelser: brand/label, mark/sign, badge. I klädkontexten = brand/label.\n- \"lägga märke till\" = to notice (phrasal, unrelated to clothing).\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "mask",
@@ -9923,6 +10188,23 @@ window.READING_DATA = {
         "morotskakorna"
       ],
       "body": "# morotskaka — substantiv (en)\n\n📖 中文：胡萝卜蛋糕 · English: carrot cake\n发音提示：/ˈmuːrɔtsˌkɑːka/；合成词 morot（胡萝卜）+ kaka（糕饼）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en morotskaka |\n| Singular bestämd | morotskakaen / morotskakan |\n| Plural obestämd | morotskakor |\n| Plural bestämd | morotskakorna |\n\n## 词组搭配 (Collocations)\n\n- `en glutenfri morotskaka` — 一个无麸质胡萝卜蛋糕\n- `en bit morotskaka` — 一块胡萝卜蛋糕\n- `baka morotskaka` — 烤胡萝卜蛋糕\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, vi har en glutenfri morotskaka idag. — 🇨🇳 是的，我们今天有一个无麸质胡萝卜蛋糕。\n- 🇸🇪 Kan jag få en bit morotskaka, tack? — 🇨🇳 能给我一块胡萝卜蛋糕吗？\n- 🇸🇪 Morotskakan var saftig och inte för söt. — 🇨🇳 胡萝卜蛋糕很湿润，不太甜。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: morot（胡萝卜），[[kaka]] (糕饼/饼干)\n- 主题: [[topic-mat-dryck]], [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- 合成词规律：morot + s (连接音) + kaka = morotskaka。\n- 来源: [[source-2026-06-19-pa-cafe-bestalla]]"
+    },
+    {
+      "slug": "mössa",
+      "lemma": "mössa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "毛线帽/冬帽",
+      "en": "winter hat/beanie",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "mössa",
+        "mössan",
+        "mössor",
+        "mössorna"
+      ],
+      "body": "# mössa — substantiv (en-ord)\n\n📖 中文：毛线帽/冬帽 · English: winter hat/beanie\n发音提示：/ˈmœsːa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en mössa | mössan |\n| plural | mössor | mössorna |\n\n## 词组搭配 (Collocations)\n\n- `stickad mössa` — 针织帽\n- `ta på sig mössan` — 戴上帽子\n- `studentmössa` — 学生白帽（毕业帽）\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[hatt]] (不同类型的帽子)\n- 家族词: [[studentmössa]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"mössa\" = knit/winter hat (beanie). \"Hatt\" = hat with brim. 两者不可互换。\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "moster",
@@ -11224,6 +11506,22 @@ window.READING_DATA = {
       "body": "# placering — substantiv (en)\n\n📖 中文：安置；名额；排位；放置 · English: placement, position\n发音提示：pla-**se**-ring，重音在第二音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en placering |\n| Singular bestämd | placeringen |\n| Plural obestämd | placeringar |\n| Plural bestämd (de) | placeringarna |\n\n## 词组搭配 (Collocations)\n\n- `erbjudande om placering` — 名额邀约\n- `garantiplacering` — 保证名额 → [[garantiplacering]]\n- `placering på förskola` — 幼儿园名额\n\n## 例句 (Sentences)\n\n- 🇸🇪 Har du fått erbjudande om **placering** på en förskola som du inte sökt till…\n  🇨🇳 若你收到了一所并非你申请过的幼儿园名额……\n  📄 [[source-2026-06-03-sundbyberg-forskola]]\n- 🇸🇪 Barnet fick en **placering** på en förskola nära hemmet.\n  🇨🇳 孩子在离家近的一所幼儿园获得了名额。\n- 🇸🇪 Han fick en andraplats — en bra **placering** i tävlingen.\n  🇨🇳 他获得了第二名——在比赛中取得了好成绩。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[placera]] (动词：安置、放置), [[garantiplacering]]\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- 在学校/幼儿园场景中，`placering` 专指\"被分配/安排的名额\"。\n- 复合词：`garantiplacering`（保证名额）= `garanti` + `placering`。"
     },
     {
+      "slug": "plagg",
+      "lemma": "plagg",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "服装/衣物",
+      "en": "garment",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "plagg",
+        "plagget",
+        "plaggen"
+      ],
+      "body": "# plagg — substantiv (ett-ord)\n\n📖 中文：服装/衣物 · English: garment\n发音提示：/plaɡː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett plagg | plagget |\n| plural | plagg | plaggen |\n\n## 词组搭配 (Collocations)\n\n- `ett klädesplagg` — 一件衣物\n- `ett fint plagg` — 一件精美的服装\n- `tvättplagg` — 需要洗涤的衣物\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"plagg\" är ett neutralt, allmänt ord för ett klädesplagg (any single piece of clothing).\n- Plural obestämd = plural bestämd i stavning: \"plagg\" / \"plaggen\".\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
+    },
+    {
       "slug": "plånbok",
       "lemma": "plånbok",
       "ordklass": "substantiv",
@@ -11966,6 +12264,23 @@ window.READING_DATA = {
         "riset"
       ],
       "body": "# ris — substantiv (ett)\n\n📖 中文：米饭 · English: rice\n发音提示：/riːs/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Sg obestämd | ett ris / ris |\n| Sg bestämd | riset |\n| Pl obestämd | — （不可数，无常用复数）|\n| Pl bestämd | — |\n\n## 词组搭配 (Collocations)\n\n- `kyckling med ris` — 鸡肉配米饭 → [[kyckling]]\n- `kokt ris` — 煮熟的米饭\n- `ris och bönor` — 米饭和豆子\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag äter ris till middag. — 🇨🇳 我晚饭吃米饭。\n- 🇸🇪 Kycklingen serveras med ris och sallad. — 🇨🇳 鸡肉配米饭和沙拉。\n- 🇸🇪 Kokt ris tar ungefär tjugo minuter. — 🇨🇳 煮米饭大约需要二十分钟。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: risgrynsgröt（米粥）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 不可数名词，一般不用复数\n- 注意 *ris* 也可以意思为\"树枝/嫩枝\"（复数形式相同），但在饮食语境中总是指米饭"
+    },
+    {
+      "slug": "rock",
+      "lemma": "rock",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "大衣/长外套",
+      "en": "overcoat",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "rock",
+        "rocken",
+        "rockar",
+        "rockarna"
+      ],
+      "body": "# rock — substantiv (en-ord)\n\n📖 中文：大衣/长外套 · English: overcoat\n发音提示：/rɔkː/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en rock | rocken |\n| plural | rockar | rockarna |\n\n## 词组搭配 (Collocations)\n\n- `ta på sig rocken` — 穿上大衣\n- `en lång rock` — 一件长大衣\n- `en tung rock` — 一件厚重的大衣\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[kappa]], [[jacka]]\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ \"rock\" (klädesplagg) ska inte förväxlas med \"rock\" (musikgenre). Samma stavning, olika betydelse.\n- \"rock\" = overcoat/long coat (manligt kodat). \"kappa\" = coat (feminint kodat).\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "röd",
@@ -12825,6 +13140,23 @@ window.READING_DATA = {
       "body": "# skina — verb\n\n📖 中文：照耀；发光 · English: to shine\n发音提示：/²ʃiːna/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | skina |\n| presens | skiner |\n| preteritum | **sken** (强变化) |\n| supinum | skinit |\n| imperativ | skin! |\n\n强变化 (stark verb)：skina – sken – skinit\n\n## 词组搭配 (Collocations)\n\n- `solen skiner/sken` — 太阳照耀 → 常用于天气描述\n- `skina som en sol` — 笑容灿烂（比喻）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Solen sken och himlen var blå hela dagen. — 🇨🇳 太阳照耀，整天都是蓝天。\n- 🇸🇪 Det skiner starkt ute — du behöver solglasögon. — 🇨🇳 外面阳光很强——你需要墨镜。\n- 🇸🇪 Imorgon skiner solen igen, säger väderlekstjänsten. — 🇨🇳 天气预报说明天太阳又会出来。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lysa]] (发光/照亮，更通用)\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- 注意强变化过去式：preteritum = **sken**（不是 skinade）。\n- `solen skiner`（presens）/ `solen sken`（preteritum）是讲天气最常用的句型。\n- 与 `lysa` 的区别：`skina` 侧重自然光（太阳、星星）；`lysa` 侧重人造光（灯）或发亮。"
     },
     {
+      "slug": "skjorta",
+      "lemma": "skjorta",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "衬衫",
+      "en": "shirt",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "skjorta",
+        "skjortan",
+        "skjortor",
+        "skjortorna"
+      ],
+      "body": "# skjorta — substantiv (en-ord)\n\n📖 中文：衬衫 · English: shirt\n发音提示：/ˈɧuːrta/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en skjorta | skjortan |\n| plural | skjortor | skjortorna |\n\n## 词组搭配 (Collocations)\n\n- `en vit skjorta` — 一件白衬衫\n- `ha på sig skjortan` — 穿着衬衫\n- `knäppa skjortan` — 扣上衬衫扣子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[blus]] (女式衬衣)\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"skjorta\" är vanligtvis en knäppbar skjorta (button-up). \"Blus\" är mer feminint.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
+    },
+    {
       "slug": "skjuta",
       "lemma": "skjuta",
       "ordklass": "verb",
@@ -13246,6 +13578,23 @@ window.READING_DATA = {
         "smugglat"
       ],
       "body": "# smuggla — verb\n\n📖 中文：走私，偷运 · English: to smuggle\n发音提示：[SMUG-la]\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | smuggla |\n| presens | smugglar |\n| preteritum | smugglade |\n| supinum | smugglat |\n| imperativ | smuggla! |\n\nVerbgrupp 1 (-ar verb), regelbundet.\n\n## 词组搭配 (Collocations)\n\n- `smuggla droger` — 走私毒品 → see [[drog]]\n- `smuggla vapen` — 走私武器\n- `smuggla in / ut` — 偷运进来/出去\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han smugglade droger från Colombia till Europa. — 🇨🇳 他从哥伦比亚向欧洲走私毒品。\n- 🇸🇪 Tullen stoppade mannen som försökte smuggla alkohol. — 🇨🇳 海关拦截了试图走私酒精的男子。\n- 🇸🇪 Han är misstänkt för att ha smugglat droger. — 🇨🇳 他被怀疑走私过毒品。（见 [[grammar-perfekt-infinitiv]]）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[smuggling]], [[smugglare]]\n- 相关: [[misstänkt]], [[brottsling]], [[drog]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- Verbgrupp 1: regelbundet (-ar, -ade, -at).\n- 常用搭配：*smuggla + substans/varor*（走私某种物品）。\n- 来源: [[source-2026-06-22-nyheter-8sidor]]"
+    },
+    {
+      "slug": "smycke",
+      "lemma": "smycke",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "饰品/首饰",
+      "en": "jewellery/ornament",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "smycke",
+        "smycket",
+        "smycken",
+        "smyckena"
+      ],
+      "body": "# smycke — substantiv (ett-ord)\n\n📖 中文：饰品/首饰 · English: jewellery/ornament\n发音提示：/ˈsmyːkɛ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett smycke | smycket |\n| plural | smycken | smyckena |\n\n## 词组搭配 (Collocations)\n\n- `ett guldsmycke` — 一件金饰\n- `bära smycken` — 佩戴首饰\n- `silversmycke` — 银饰\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"smycke\" är ett generellt ord för jewellery/ornament. Inkluderar halsband, armband, örhängen etc.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "snabb",
@@ -14004,6 +14353,23 @@ window.READING_DATA = {
         "strukturerade"
       ],
       "body": "# strukturerad — adjektiv\n\n📖 中文：有条理的 · English: structured\n发音提示：struk-TUH-reh-rad\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| en-form (utrum) | strukturerad |\n| ett-form (neutrum) | strukturerat |\n| plural / bestämd | strukturerade |\n\n## 词组搭配 (Collocations)\n\n- `ett strukturerat arbetssätt` — 有条理的工作方式\n- `strukturerad undervisning` — 有组织的教学\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[struktur]], [[strukturera]]\n- 同义词: [[noggrann]], [[organiserad]]\n- 反义词: [[ostrukturerad]]\n- 主题: [[topic-karaktarsord]], [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- Particip-adjektiv av \"strukturera\". Neutrum: strukturerat; plural/bestämd: strukturerade.\n- Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]"
+    },
+    {
+      "slug": "strumpa",
+      "lemma": "strumpa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "袜子",
+      "en": "sock",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "strumpa",
+        "strumpan",
+        "strumpor",
+        "strumporna"
+      ],
+      "body": "# strumpa — substantiv (en-ord)\n\n📖 中文：袜子 · English: sock\n发音提示：/ˈstrɵmpa/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en strumpa | strumpan |\n| plural | strumpor | strumporna |\n\n## 词组搭配 (Collocations)\n\n- `ett par strumpor` — 一双袜子\n- `ullstrumpor` — 羊毛袜\n- `knästrumpor` — 及膝袜\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"strumpa\" kan syfta på vanlig strumpa (sock) eller långstrumpa (stocking). Kontexten avgör.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "stryptag",
@@ -15076,6 +15442,23 @@ window.READING_DATA = {
       "body": "# tydlig — adjektiv\n\n📖 中文：明显的；清晰的；清楚的 · English: clear; distinct; obvious\n发音提示：/ˈtyːdlɪɡ/\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| en-form (grundform) | tydlig |\n| ett-form | tydligt |\n| plural / bestämd | tydliga |\n| komparativ | tydligare |\n| superlativ | tydligast |\n\n## 词组搭配 (Collocations)\n\n- `tydliga årstider` — 分明的季节\n- `en tydlig skillnad` — 一个明显的区别\n- `tala tydligt` — 说话清晰\n- `göra något tydligt` — 把某事说清楚\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sverige har fyra tydliga årstider. — 🇨🇳 瑞典有四个分明的季节。 → [[sent-sverige-har-fyra-tydliga-arstider]]\n- 🇸🇪 Det är en tydlig skillnad mellan sommar och vinter. — 🇨🇳 夏天和冬天之间有明显的区别。\n- 🇸🇪 Kan du tala lite tydligare? — 🇨🇳 你能说得再清楚一点吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tydligen（显然地，副词），tydlighet（清晰度，名词）\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- *tydlig* 强调客观上的清晰可辨；*klar* 语义更宽，也可表示\"准备好了\"。\n- 副词形式：*tydligt*（中性形）也用作副词，如 *tala tydligt*（说话清晰）。"
     },
     {
+      "slug": "tyg",
+      "lemma": "tyg",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "布料/面料",
+      "en": "fabric",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "tyg",
+        "tyget",
+        "tyger",
+        "tygerna"
+      ],
+      "body": "# tyg — substantiv (ett-ord)\n\n📖 中文：布料/面料 · English: fabric\n发音提示：/tyːɡ/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | ett tyg | tyget |\n| plural | tyger | tygerna |\n\n## 词组搭配 (Collocations)\n\n- `bomullstyg` — 棉布\n- `ett fint tyg` — 精美的面料\n- `sy av tyg` — 用布料缝制\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"tyg\" = fabric/cloth/material. Används när man pratar om råmaterialet i kläder.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
+    },
+    {
       "slug": "tyst",
       "lemma": "tyst",
       "ordklass": "adjektiv",
@@ -15257,6 +15640,23 @@ window.READING_DATA = {
         "ungefär"
       ],
       "body": "# ungefär — adverb\n\n📖 中文：大约；差不多 · English: approximately / about\n发音提示：UN-ge-fär；三音节，重音在首音节。\n\n## 语法变形 (Forms)\n\n副词，不变形。\n\n## 词组搭配 (Collocations)\n\n- `ungefär en timme` — 大约一小时\n- `ungefär klockan tre` — 大约三点钟\n- `det tar ungefär tio minuter` — 大约需要十分钟\n- `ungefär hälften` — 大约一半\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det tog **ungefär** en timme. — 🇨🇳 大约花了一个小时。\n- 🇸🇈 Jag bor **ungefär** fem kilometer från centrum. — 🇨🇳 我住在距市中心大约五公里处。\n- 🇸🇈 Det är **ungefär** hälften så dyrt som i Stockholm. — 🇨🇳 大约是斯德哥尔摩价格的一半。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[cirka]] (adv. 大约，书面/正式), [[runt]] (adv. 大约，口语)\n- 反义词: [[exakt]] (adv. 精确地), [[precis]] (adv. 正好)\n- 主题: [[topic-tid-och-tidsuttryck]]\n\n## 用法提示 (Usage Notes)\n\n- `ungefär` 通常前置于数字/时间表达；书面语也用 `ca.` (circa)。\n- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]"
+    },
+    {
+      "slug": "uniform",
+      "lemma": "uniform",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "制服",
+      "en": "uniform",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "uniform",
+        "uniformen",
+        "uniformer",
+        "uniformerna"
+      ],
+      "body": "# uniform — substantiv (en-ord)\n\n📖 中文：制服 · English: uniform\n发音提示：/uniˈfɔrm/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en uniform | uniformen |\n| plural | uniformer | uniformerna |\n\n## 词组搭配 (Collocations)\n\n- `bära uniform` — 穿制服\n- `militäruniform` — 军装\n- `skoluniform` — 校服\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"uniform\" används för officiella/yrkesmässiga klädsel: militär, polis, skola etc.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "universitet",
@@ -15900,6 +16300,23 @@ window.READING_DATA = {
         "varnat"
       ],
       "body": "# varna — verb\n\n📖 中文：警告，提醒 · English: to warn\n发音提示：[ˈvɑːɳa]\n\n## 语法变形 (Forms)\n\n| tid | form |\n|-----|------|\n| infinitiv | varna |\n| presens | varnar |\n| preteritum | varnade |\n| supinum | varnat |\n\n## 词组搭配 (Collocations)\n\n- `varna för ngt` — 警告某事\n- `varna ngn för fara` — 警告某人有危险\n- `experterna varnar` — 专家警告\n\n## 例句 (Sentences)\n\n- 🇸🇪 Experterna varnar för att det kan bli åska. — 🇨🇳 专家警告说可能有雷暴。\n- 🇸🇪 Polisen varnade för is på vägarna. — 🇨🇳 警察警告路上有冰。\n- 🇸🇪 Jag vill varna dig för den farliga situationen. — 🇨🇳 我想提醒你注意这个危险情况。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: varning (en, 警告), varningsskylt (警告标志)\n\n## 用法提示 (Usage Notes)\n\n- 固定搭配 `varna för` + 名词/att-sats：总是用介词 `för`，不用 `om`。\n- 例：`varna för storm`（警告有风暴）/ `varna för att köra fort`（警告不要开快车）。\n- 来源: [[source-2026-06-19-nyheter-8sidor]]"
+    },
+    {
+      "slug": "väska",
+      "lemma": "väska",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "包/手提包",
+      "en": "bag/handbag",
+      "known": false,
+      "created": "2026-06-22",
+      "forms": [
+        "väska",
+        "väskan",
+        "väskor",
+        "väskorna"
+      ],
+      "body": "# väska — substantiv (en-ord)\n\n📖 中文：包/手提包 · English: bag/handbag\n发音提示：/ˈvɛsːka/\n\n## 语法变形 (Forms)\n\n| — | obestämd | bestämd |\n|---|----------|---------|\n| singular | en väska | väskan |\n| plural | väskor | väskorna |\n\n## 词组搭配 (Collocations)\n\n- `en handväska` — 手提包\n- `en ryggsäck` — 背包\n- `förlora sin väska` — 遗失包包\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-klader]]\n\n## 用法提示 (Usage Notes)\n\n- \"väska\" är ett allmänt ord för bag/handbag. \"Ryggsäck\" = backpack. \"Plånbok\" = wallet.\n- 来源: [[source-2026-06-22-adjsubst-klader]]"
     },
     {
       "slug": "vass",
