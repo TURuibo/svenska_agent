@@ -183,8 +183,14 @@
   }
 
   // ---- glossary popover (full note detail, rendered in-page) ----
-  let popEl = null;
-  function closePop() { if (popEl) { popEl.remove(); popEl = null; } }
+  // Desktop: a card anchored next to the tapped word.
+  // Mobile:  a bottom sheet with a dimmed backdrop, sticky header and scroll-lock.
+  let popEl = null, backdropEl = null;
+  function closePop() {
+    if (backdropEl) { backdropEl.remove(); backdropEl = null; }
+    if (popEl) { popEl.remove(); popEl = null; }
+    document.body.classList.remove('vocabPopOpen');
+  }
   function positionPop(pop, span) {
     if (isMobile()) { pop.classList.add('sheet'); return; }   // CSS pins .sheet to the bottom
     const r = span.getBoundingClientRect();
@@ -199,9 +205,9 @@
     pop.style.top = top + 'px';
   }
 
-  // Build the full detail card for one vocab entry: header (lemma + tags + gloss
-  // + form chips) followed by the note's whole markdown body (Forms table,
-  // collocations, sentences, usage notes …) — the same content Former shows.
+  // Build the full detail card for one vocab entry: a sticky header (grip + close
+  // + lemma + tags + gloss + form chips) followed by the note's whole markdown
+  // body (Forms table, collocations, sentences, usage notes …) — same as Former.
   function popInnerHtml(entry) {
     const lemmaLc = entry.lemma.toLowerCase();
     const meta = [];
@@ -214,14 +220,17 @@
     // Drop the leading "# lemma — ordklass" H1; the header above already shows it.
     const bodyMd = (entry.body || '').replace(/^#\s+.*(\r?\n)+/, '');
     return (
-      `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
-      `<div class="vocabPopHead">` +
-        `<span class="vocabPopLemma">${escapeHtml(entry.lemma)}</span>` +
-        (meta.length ? `<span class="vocabPopMeta">${meta.join('')}</span>` : '') +
+      `<div class="vocabPopHeader">` +
+        `<span class="vocabPopGrip" aria-hidden="true"></span>` +
+        `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
+        `<div class="vocabPopHead">` +
+          `<span class="vocabPopLemma">${escapeHtml(entry.lemma)}</span>` +
+          (meta.length ? `<span class="vocabPopMeta">${meta.join('')}</span>` : '') +
+        `</div>` +
+        ((entry.zh || entry.en)
+          ? `<div class="vocabPopGloss">🇨🇳 ${escapeHtml(entry.zh || '—')}　·　${escapeHtml(entry.en || '—')}</div>` : '') +
+        (chips ? `<div class="vocabPopForms">${chips}</div>` : '') +
       `</div>` +
-      ((entry.zh || entry.en)
-        ? `<div class="vocabPopGloss">🇨🇳 ${escapeHtml(entry.zh || '—')}　·　${escapeHtml(entry.en || '—')}</div>` : '') +
-      (chips ? `<div class="vocabPopForms">${chips}</div>` : '') +
       (bodyMd ? `<div class="vocabPopBody">${mdToHtml(bodyMd)}</div>` : '') +
       `<a class="vocabPopLink" href="../sok/#note=${encodeURIComponent(entry.slug)}" target="_blank" rel="noopener">在 Sök 中打开完整笔记 →</a>`
     );
@@ -254,6 +263,14 @@
     document.body.appendChild(popEl);
     showEntry(entry);
     positionPop(popEl, span);
+    // Mobile sheet: add a dimmed backdrop (tap to close) and lock background scroll.
+    if (popEl.classList.contains('sheet')) {
+      backdropEl = document.createElement('div');
+      backdropEl.className = 'vocabBackdrop';
+      backdropEl.addEventListener('click', closePop);
+      document.body.insertBefore(backdropEl, popEl);
+      document.body.classList.add('vocabPopOpen');
+    }
   }
 
   // Delegated: a tap on a highlighted word opens its glossary card (when 生词 is on).
