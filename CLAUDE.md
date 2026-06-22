@@ -188,6 +188,13 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 **Läsning 阅读站**（`site/reading/`，主站侧栏 📖 入口）当文章阅读，可切换中文翻译显隐。导入后务必重建该数据
 （`node tools/build-reading-site.js`，已接入 `/import`、`/sync`、GitHub Action）。
 
+> **生词点查 (in-page glossary):** `build-reading-site.js` 同时扫 `knowledge_base/words/*.md`，把每个词压成
+> 紧凑的 `vocab` 记录（lemma + ordklass/cefr/zh/en/known + 从 Forms 表抽出的**变形 surface forms**），一并写进
+> `reading-data.js`。阅读站据此把瑞典语正文里**任何 KB 里有笔记的词**（含其变形，如 `arbetade`→`arbeta`）
+> 标成可点的虚线词，点开即在**同页弹出**释义卡（中文/英文/词类/CEFR/变形 + 「完整笔记 →」跳 Sök），
+> 中文译文层/代码/标题不参与高亮。顶栏 **🔤 生词** 开关可整体开关（状态存 localStorage）。所以新词只要进过 KB，
+> 下次读文章时就自动变成可查的链接，无需手动标注。
+
 ### §4.3 多设备同步 (Multi-device sync via GitHub)
 
 手机端 CC 与电脑端是**同一个 GitHub repo 的两份 checkout**，靠 git 同步。因此：
