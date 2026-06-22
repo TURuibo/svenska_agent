@@ -188,6 +188,13 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 **Läsning 阅读站**（`site/reading/`，主站侧栏 📖 入口）当文章阅读，可切换中文翻译显隐。导入后务必重建该数据
 （`node tools/build-reading-site.js`，已接入 `/import`、`/sync`、GitHub Action）。
 
+> **生词点查 (in-page glossary):** `build-reading-site.js` 同时扫 `knowledge_base/words/*.md`，把每个词压成
+> 紧凑的 `vocab` 记录（lemma + ordklass/cefr/zh/en/known + 从 Forms 表抽出的**变形 surface forms**），一并写进
+> `reading-data.js`。阅读站据此把瑞典语正文里**任何 KB 里有笔记的词**（含其变形，如 `arbetade`→`arbeta`）
+> 标成可点的虚线词，点开即在**同页弹出**释义卡（中文/英文/词类/CEFR/变形 + 「完整笔记 →」跳 Sök），
+> 中文译文层/代码/标题不参与高亮。顶栏 **🔤 生词** 开关可整体开关（状态存 localStorage）。所以新词只要进过 KB，
+> 下次读文章时就自动变成可查的链接，无需手动标注。
+
 ### §4.3 多设备同步 (Multi-device sync via GitHub)
 
 手机端 CC 与电脑端是**同一个 GitHub repo 的两份 checkout**，靠 git 同步。因此：
@@ -347,6 +354,21 @@ A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 
 > 与本地 routine 不冲突：本地那批仍走 `scripts/*.ps1`+桌面 Scheduled task；阅读文章这条独立跑 remote。
 > `inbox/` 被 gitignore，所以文章必须当场 `/import` 进 tracked 的 `knowledge_base/`+`imported/` 才同步得到别的设备。
+
+### §4.7 Routine 的 git 收尾：自动开 PR 并 merge
+
+> ⚠️ **仅限 routine / 定时(scheduled)会话**（§4.2–§4.6 这些每天自动跑的 session）。**交互式人工会话默认不开 PR**
+> ——除非用户当场明确要求(见运行环境指令)。
+
+routine 会话跑完产出、commit 并 push 到它的开发分支后，**还要自己把改动合进主分支**，否则每天的内容只堆在分支上、
+别的设备 `git pull` 主分支拿不到。所以 routine 的 git 收尾固定为:
+
+1. `git add -A` → commit → `git pull --rebase origin <主分支>` → `push -u origin <开发分支>`(同各 routine prompt 第 3 步)。
+2. **自动 create PR**(用 GitHub MCP 工具 `mcp__github__create_pull_request`，base = 主分支，head = 该开发分支)。
+3. **自动 merge** 这个 PR(`mcp__github__merge_pull_request`)。无改动(无新内容)则跳过——不空开 PR。
+
+这是用户对自动会话的固定偏好：**routine 里一律自动 create PR → merge**，不必每次问。把上面各 routine prompt 的第 3 步
+理解为「commit/push **并按 §4.7 开 PR + merge**」。
 
 ---
 

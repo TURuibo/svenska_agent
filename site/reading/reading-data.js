@@ -1,5 +1,5 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-22 18:54:54",
+  "generatedAt": "2026-06-22 18:56:46",
   "articles": [
     {
       "slug": "news-2026-06-22",
@@ -1008,6 +1008,13440 @@ window.READING_DATA = {
       "itemTotal": 50,
       "body": "# Adjektiv + substantiv böjning — 2026-06-06 (Arbete & Skola 工作学校)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-06-arbete-skola.md`\n导出块只含 **words**（精简种子，无 böjning）→ `/import` 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| Obestämd sg. | Bestämd sg. | Obestämd pl. | Bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en ny lärare | den nya läraren | nya lärare | de nya lärarna | 新老师 |\n| ett gammalt klassrum | det gamla klassrummet | gamla klassrum | de gamla klassrummen | 旧教室 |\n| en sträng rektor | den stränga rektorn | stränga rektorer | de stränga rektorerna | 严厉的校长 |\n| ett svårt prov | det svåra provet | svåra prov | de svåra proven | 难的考试 |\n| en flitig elev | den flitiga eleven | flitiga elever | de flitiga eleverna | 勤奋的学生 |\n| en lång lektion | den långa lektionen | långa lektioner | de långa lektionerna | 长的课 |\n| ett viktigt möte | det viktiga mötet | viktiga möten | de viktiga mötena | 重要的会议 |\n| en snäll kollega | den snälla kollegan | snälla kollegor | de snälla kollegorna | 友善的同事 |\n| ett rent kontor | det rena kontoret | rena kontor | de rena kontoren | 干净的办公室 |\n| en duktig student | den duktiga studenten | duktiga studenter | de duktiga studenterna | 优秀的大学生 |\n| en trasig dator | den trasiga datorn | trasiga datorer | de trasiga datorerna | 坏掉的电脑 |\n| ett tråkigt schema | det tråkiga schemat | tråkiga scheman | de tråkiga schemana | 无聊的课表 |\n| en kort fråga | den korta frågan | korta frågor | de korta frågorna | 简短的问题 |\n| ett tydligt svar | det tydliga svaret | tydliga svar | de tydliga svaren | 清楚的回答 |\n| en tjock bok | den tjocka boken | tjocka böcker | de tjocka böckerna | 厚的书 |\n| en röd penna | den röda pennan | röda pennor | de röda pennorna | 红色的笔 |\n| ett runt bord | det runda bordet | runda bord | de runda borden | 圆桌 |\n| en bekväm stol | den bekväma stolen | bekväma stolar | de bekväma stolarna | 舒适的椅子 |\n| en lätt uppgift | den lätta uppgiften | lätta uppgifter | de lätta uppgifterna | 简单的任务 |\n| ett digitalt bibliotek | det digitala biblioteket | digitala bibliotek | de digitala biblioteken | 数字图书馆 |\n| en upptagen chef | den upptagna chefen | upptagna chefer | de upptagna cheferna | 忙碌的老板 |\n| en tyst sal | den tysta salen | tysta salar | de tysta salarna | 安静的礼堂 |\n| ett godkänt betyg | det godkända betyget | godkända betyg | de godkända betygen | 及格的成绩 |\n| en liten miniräknare | den lilla miniräknaren | små miniräknare | de små miniräknarna | 小计算器 |\n| en färgglad ryggsäck | den färgglada ryggsäcken | färgglada ryggsäckar | de färgglada ryggsäckarna | 五颜六色的背包 |\n\n## 导入块（words only · 精简种子）",
       "searchText": "adjsubst-2026-06-06-arbete-skola adjektiv + substantiv böjning — 2026-06-06 (arbete & skola 工作学校) # adjektiv + substantiv böjning — 2026-06-06 (arbete & skola 工作学校)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-06-arbete-skola.md`\n导出块只含 **words**（精简种子，无 böjning）→ `/import` 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| obestämd sg. | bestämd sg. | obestämd pl. | bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en ny lärare | den nya läraren | nya lärare | de nya lärarna | 新老师 |\n| ett gammalt klassrum | det gamla klassrummet | gamla klassrum | de gamla klassrummen | 旧教室 |\n| en sträng rektor | den stränga rektorn | stränga rektorer | de stränga rektorerna | 严厉的校长 |\n| ett svårt prov | det svåra provet | svåra prov | de svåra proven | 难的考试 |\n| en flitig elev | den flitiga eleven | flitiga elever | de flitiga eleverna | 勤奋的学生 |\n| en lång lektion | den långa lektionen | långa lektioner | de långa lektionerna | 长的课 |\n| ett viktigt möte | det viktiga mötet | viktiga möten | de viktiga mötena | 重要的会议 |\n| en snäll kollega | den snälla kollegan | snälla kollegor | de snälla kollegorna | 友善的同事 |\n| ett rent kontor | det rena kontoret | rena kontor | de rena kontoren | 干净的办公室 |\n| en duktig student | den duktiga studenten | duktiga studenter | de duktiga studenterna | 优秀的大学生 |\n| en trasig dator | den trasiga datorn | trasiga datorer | de trasiga datorerna | 坏掉的电脑 |\n| ett tråkigt schema | det tråkiga schemat | tråkiga scheman | de tråkiga schemana | 无聊的课表 |\n| en kort fråga | den korta frågan | korta frågor | de korta frågorna | 简短的问题 |\n| ett tydligt svar | det tydliga svaret | tydliga svar | de tydliga svaren | 清楚的回答 |\n| en tjock bok | den tjocka boken | tjocka böcker | de tjocka böckerna | 厚的书 |\n| en röd penna | den röda pennan | röda pennor | de röda pennorna | 红色的笔 |\n| ett runt bord | det runda bordet | runda bord | de runda borden | 圆桌 |\n| en bekväm stol | den bekväma stolen | bekväma stolar | de bekväma stolarna | 舒适的椅子 |\n| en lätt uppgift | den lätta uppgiften | lätta uppgifter | de lätta uppgifterna | 简单的任务 |\n| ett digitalt bibliotek | det digitala biblioteket | digitala bibliotek | de digitala biblioteken | 数字图书馆 |\n| en upptagen chef | den upptagna chefen | upptagna chefer | de upptagna cheferna | 忙碌的老板 |\n| en tyst sal | den tysta salen | tysta salar | de tysta salarna | 安静的礼堂 |\n| ett godkänt betyg | det godkända betyget | godkända betyg | de godkända betygen | 及格的成绩 |\n| en liten miniräknare | den lilla miniräknaren | små miniräknare | de små miniräknarna | 小计算器 |\n| en färgglad ryggsäck | den färgglada ryggsäcken | färgglada ryggsäckar | de färgglada ryggsäckarna | 五颜六色的背包 |\n\n## 导入块（words only · 精简种子）"
+    }
+  ],
+  "vocab": [
+    {
+      "slug": "å",
+      "lemma": "å",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "小河/溪流",
+      "en": "stream, creek, brook",
+      "known": false,
+      "forms": [
+        "å",
+        "ån",
+        "åar",
+        "åarna"
+      ]
+    },
+    {
+      "slug": "affär",
+      "lemma": "affär",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "商店",
+      "en": "shop / store",
+      "known": false,
+      "forms": [
+        "affär",
+        "affären",
+        "affärer",
+        "affärerna"
+      ]
+    },
+    {
+      "slug": "ägare",
+      "lemma": "ägare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "主人；所有者",
+      "en": "owner",
+      "known": false,
+      "forms": [
+        "ägare",
+        "ägaren",
+        "ägarna"
+      ]
+    },
+    {
+      "slug": "ägg",
+      "lemma": "ägg",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "鸡蛋",
+      "en": "egg",
+      "known": false,
+      "forms": [
+        "ägg",
+        "ägget",
+        "äggen"
+      ]
+    },
+    {
+      "slug": "akut",
+      "lemma": "akut",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "急诊；急性的（akuten = 定形\"急诊室\"）",
+      "en": "acute; emergency room (akuten)",
+      "known": false,
+      "forms": [
+        "akut",
+        "akuten",
+        "akuter",
+        "akuterna"
+      ]
+    },
+    {
+      "slug": "älg",
+      "lemma": "älg",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "驼鹿；麋鹿",
+      "en": "moose/elk",
+      "known": false,
+      "forms": [
+        "älg",
+        "älgen",
+        "älgar",
+        "älgarna"
+      ]
+    },
+    {
+      "slug": "allergisk",
+      "lemma": "allergisk",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "过敏的",
+      "en": "allergic",
+      "known": false,
+      "forms": [
+        "allergisk",
+        "den"
+      ]
+    },
+    {
+      "slug": "allvarlig",
+      "lemma": "allvarlig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "严肃的/严重的",
+      "en": "serious, grave",
+      "known": false,
+      "forms": [
+        "allvarlig",
+        "allvarligare",
+        "allvarligast"
+      ]
+    },
+    {
+      "slug": "älska",
+      "lemma": "älska",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "热爱；爱",
+      "en": "to love",
+      "known": false,
+      "forms": [
+        "älska",
+        "älskar",
+        "älskade",
+        "älskat"
+      ]
+    },
+    {
+      "slug": "ambitiös",
+      "lemma": "ambitiös",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "有抱负的",
+      "en": "ambitious",
+      "known": false,
+      "forms": [
+        "ambitiös",
+        "ambitiöst",
+        "ambitiösa"
+      ]
+    },
+    {
+      "slug": "ämne",
+      "lemma": "ämne",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "科目、题目",
+      "en": "subject",
+      "known": false,
+      "forms": [
+        "ämne",
+        "ämnet",
+        "ämnen",
+        "ämnena"
+      ]
+    },
+    {
+      "slug": "andas",
+      "lemma": "andas",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "呼吸",
+      "en": "to breathe",
+      "known": false,
+      "forms": [
+        "andas",
+        "andades",
+        "andats"
+      ]
+    },
+    {
+      "slug": "animerad",
+      "lemma": "animerad",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "动画的",
+      "en": "animated",
+      "known": false,
+      "forms": [
+        "animerad",
+        "animerat",
+        "animerade"
+      ]
+    },
+    {
+      "slug": "anka",
+      "lemma": "anka",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "鸭子",
+      "en": "duck",
+      "known": false,
+      "forms": [
+        "anka",
+        "ankan",
+        "ankor",
+        "ankorna"
+      ]
+    },
+    {
+      "slug": "anmäla",
+      "lemma": "anmäla",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "报案；申报；报告",
+      "en": "to report (to authorities) / register",
+      "known": false,
+      "forms": [
+        "anmäla",
+        "anmäler",
+        "anmälde",
+        "anmält"
+      ]
+    },
+    {
+      "slug": "annan",
+      "lemma": "annan",
+      "ordklass": "adjektiv/pronomen",
+      "cefr": "A1",
+      "zh": "另一个；其他的；不同的",
+      "en": "another; other; different",
+      "known": false,
+      "forms": [
+        "annan",
+        "annat",
+        "andra"
+      ]
+    },
+    {
+      "slug": "annars",
+      "lemma": "annars",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "否则；其他方面",
+      "en": "otherwise; apart from that",
+      "known": false,
+      "forms": [
+        "annars"
+      ]
+    },
+    {
+      "slug": "annons",
+      "lemma": "annons",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "广告；启事",
+      "en": "advertisement; ad; notice",
+      "known": false,
+      "forms": [
+        "annons",
+        "annonsen",
+        "annonser",
+        "annonserna"
+      ]
+    },
+    {
+      "slug": "annorlunda",
+      "lemma": "annorlunda",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "与众不同的/不一样",
+      "en": "different, unusual",
+      "known": false,
+      "forms": [
+        "annorlunda"
+      ]
+    },
+    {
+      "slug": "ansvar",
+      "lemma": "ansvar",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "责任",
+      "en": "responsibility",
+      "known": false,
+      "forms": [
+        "ansvar",
+        "ansvaret",
+        "ansvaren"
+      ]
+    },
+    {
+      "slug": "ansvarig",
+      "lemma": "ansvarig",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "负责的",
+      "en": "responsible",
+      "known": false,
+      "forms": [
+        "ansvarig",
+        "ansvarigt",
+        "ansvariga"
+      ]
+    },
+    {
+      "slug": "äntligen",
+      "lemma": "äntligen",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "终于；总算",
+      "en": "finally / at last",
+      "known": false,
+      "forms": [
+        "äntligen"
+      ]
+    },
+    {
+      "slug": "användbar",
+      "lemma": "användbar",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "实用的、好用的",
+      "en": "usable, handy",
+      "known": false,
+      "forms": [
+        "användbar",
+        "användbart",
+        "användbara"
+      ]
+    },
+    {
+      "slug": "apa",
+      "lemma": "apa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "猴子",
+      "en": "monkey",
+      "known": false,
+      "forms": [
+        "apa",
+        "apan",
+        "apor",
+        "aporna"
+      ]
+    },
+    {
+      "slug": "apelsin",
+      "lemma": "apelsin",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "橙子",
+      "en": "orange (fruit)",
+      "known": false,
+      "forms": [
+        "apelsin",
+        "apelsinen",
+        "apelsiner",
+        "apelsinerna"
+      ]
+    },
+    {
+      "slug": "apotek",
+      "lemma": "apotek",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "药店；药房",
+      "en": "pharmacy",
+      "known": false,
+      "forms": [
+        "apotek",
+        "apoteket",
+        "apoteken"
+      ]
+    },
+    {
+      "slug": "äppelpaj",
+      "lemma": "äppelpaj",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "苹果派",
+      "en": "apple pie",
+      "known": false,
+      "forms": [
+        "äppelpaj",
+        "äppelpajen",
+        "äppelpajer",
+        "äppelpajerna"
+      ]
+    },
+    {
+      "slug": "äpple",
+      "lemma": "äpple",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "苹果",
+      "en": "apple",
+      "known": false,
+      "forms": [
+        "äpple",
+        "äpplet",
+        "äpplen",
+        "äpplena"
+      ]
+    },
+    {
+      "slug": "arbeta",
+      "lemma": "arbeta",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "工作",
+      "en": "to work",
+      "known": false,
+      "forms": [
+        "arbeta",
+        "arbetar",
+        "arbetade",
+        "arbetat"
+      ]
+    },
+    {
+      "slug": "arbetare",
+      "lemma": "arbetare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "工人",
+      "en": "worker",
+      "known": false,
+      "forms": [
+        "arbetare",
+        "arbetaren",
+        "arbetarna"
+      ]
+    },
+    {
+      "slug": "arbete",
+      "lemma": "arbete",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "工作; 施工",
+      "en": "work; roadwork",
+      "known": false,
+      "forms": [
+        "arbete",
+        "arbetet",
+        "arbeten",
+        "arbetena"
+      ]
+    },
+    {
+      "slug": "arg",
+      "lemma": "arg",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "生气的",
+      "en": "angry",
+      "known": false,
+      "forms": [
+        "arg",
+        "argt",
+        "arga",
+        "argare",
+        "argast"
+      ]
+    },
+    {
+      "slug": "ärlig",
+      "lemma": "ärlig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "诚实的、公道的",
+      "en": "honest, fair",
+      "known": false,
+      "forms": [
+        "ärlig",
+        "ärligt",
+        "ärliga"
+      ]
+    },
+    {
+      "slug": "arm",
+      "lemma": "arm",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "手臂",
+      "en": "arm",
+      "known": false,
+      "forms": [
+        "arm",
+        "armen",
+        "armar",
+        "armarna"
+      ]
+    },
+    {
+      "slug": "armbåge",
+      "lemma": "armbåge",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "手肘",
+      "en": "elbow",
+      "known": false,
+      "forms": [
+        "armbåge",
+        "armbågen",
+        "armbågar",
+        "armbågarna"
+      ]
+    },
+    {
+      "slug": "årstid",
+      "lemma": "årstid",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "季节",
+      "en": "season",
+      "known": false,
+      "forms": [
+        "årstid",
+        "årstiden",
+        "årstider",
+        "årstiderna"
+      ]
+    },
+    {
+      "slug": "åska",
+      "lemma": "åska",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "雷，雷暴",
+      "en": "thunder, thunderstorm",
+      "known": false,
+      "forms": [
+        "åska",
+        "åskan",
+        "åskor",
+        "åskorna"
+      ]
+    },
+    {
+      "slug": "åsna",
+      "lemma": "åsna",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "驴",
+      "en": "donkey",
+      "known": false,
+      "forms": [
+        "åsna",
+        "åsnan",
+        "åsnor",
+        "åsnorna"
+      ]
+    },
+    {
+      "slug": "äta",
+      "lemma": "äta",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "吃",
+      "en": "to eat",
+      "known": false,
+      "forms": [
+        "äta",
+        "äter",
+        "åt",
+        "ätit"
+      ]
+    },
+    {
+      "slug": "avdelning",
+      "lemma": "avdelning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "部门、科室、（商店）区",
+      "en": "department, section",
+      "known": false,
+      "forms": [
+        "avdelning",
+        "avdelningen",
+        "avdelningar",
+        "avdelningarna"
+      ]
+    },
+    {
+      "slug": "avrunda",
+      "lemma": "avrunda",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "取整；凑整",
+      "en": "to round (off/up/down)",
+      "known": false,
+      "forms": [
+        "avrunda",
+        "avrundar",
+        "avrundade",
+        "avrundat"
+      ]
+    },
+    {
+      "slug": "avsluta",
+      "lemma": "avsluta",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "结束 / 完成",
+      "en": "to finish / to end / to conclude",
+      "known": false,
+      "forms": [
+        "avsluta",
+        "avslutar",
+        "avslutade",
+        "avslutat"
+      ]
+    },
+    {
+      "slug": "avtal",
+      "lemma": "avtal",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "协议；合同",
+      "en": "agreement, deal, contract",
+      "known": false,
+      "forms": [
+        "avtal",
+        "avtalet",
+        "avtalen"
+      ]
+    },
+    {
+      "slug": "axel",
+      "lemma": "axel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "肩膀",
+      "en": "shoulder",
+      "known": false,
+      "forms": [
+        "axel",
+        "axeln",
+        "axlar",
+        "axlarna"
+      ]
+    },
+    {
+      "slug": "bada",
+      "lemma": "bada",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "游泳/洗澡",
+      "en": "to swim/bathe",
+      "known": false,
+      "forms": [
+        "bada",
+        "badar",
+        "badade",
+        "badat"
+      ]
+    },
+    {
+      "slug": "badbyxor",
+      "lemma": "badbyxor",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "游泳裤",
+      "en": "swimming trunks; swim shorts",
+      "known": false,
+      "forms": [
+        "badbyxor",
+        "badbyxorna",
+        "badbyxa"
+      ]
+    },
+    {
+      "slug": "badstrand",
+      "lemma": "badstrand",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "游泳海滩；海水浴场",
+      "en": "bathing beach; swimming beach",
+      "known": false,
+      "forms": [
+        "badstrand",
+        "badstranden",
+        "badstränder",
+        "badstränderna"
+      ]
+    },
+    {
+      "slug": "bageri",
+      "lemma": "bageri",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "面包房",
+      "en": "bakery",
+      "known": false,
+      "forms": [
+        "bageri",
+        "bageriet",
+        "bagerier",
+        "bagerierna"
+      ]
+    },
+    {
+      "slug": "bakverksdisk",
+      "lemma": "bakverksdisk",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "糕点展示柜",
+      "en": "pastry display counter",
+      "known": false,
+      "forms": [
+        "bakverksdisk",
+        "bakverksdisken",
+        "bakverksdiskar",
+        "bakverksdiskarna"
+      ]
+    },
+    {
+      "slug": "balkong",
+      "lemma": "balkong",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "阳台",
+      "en": "balcony",
+      "known": false,
+      "forms": [
+        "balkong",
+        "balkongen",
+        "balkonger",
+        "balkongerna"
+      ]
+    },
+    {
+      "slug": "banan",
+      "lemma": "banan",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "香蕉",
+      "en": "banana",
+      "known": false,
+      "forms": [
+        "banan",
+        "bananen",
+        "bananer",
+        "bananerna"
+      ]
+    },
+    {
+      "slug": "bank",
+      "lemma": "bank",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "银行",
+      "en": "bank",
+      "known": false,
+      "forms": [
+        "bank",
+        "banken",
+        "banker",
+        "bankerna"
+      ]
+    },
+    {
+      "slug": "bänk",
+      "lemma": "bänk",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "长椅；板凳",
+      "en": "bench",
+      "known": false,
+      "forms": [
+        "bänk",
+        "bänken",
+        "bänkar",
+        "bänkarna"
+      ]
+    },
+    {
+      "slug": "barista",
+      "lemma": "barista",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "咖啡师",
+      "en": "barista",
+      "known": false,
+      "forms": [
+        "barista",
+        "baristan",
+        "baristor",
+        "baristas",
+        "baristorna",
+        "baristasna"
+      ]
+    },
+    {
+      "slug": "barn",
+      "lemma": "barn",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "孩子",
+      "en": "child",
+      "known": false,
+      "forms": [
+        "barn",
+        "barnet",
+        "barnen"
+      ]
+    },
+    {
+      "slug": "barnboksförfattare",
+      "lemma": "barnboksförfattare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "儿童书作家",
+      "en": "children's book author",
+      "known": false,
+      "forms": [
+        "barnboksförfattare",
+        "barnboksförfattaren",
+        "barnboksförfattarna"
+      ]
+    },
+    {
+      "slug": "barndom",
+      "lemma": "barndom",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "童年",
+      "en": "childhood",
+      "known": false,
+      "forms": [
+        "barndom",
+        "barndomen",
+        "barndommar",
+        "barndommarma"
+      ]
+    },
+    {
+      "slug": "båt",
+      "lemma": "båt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "船，小船",
+      "en": "boat",
+      "known": false,
+      "forms": [
+        "båt",
+        "båtar",
+        "båten",
+        "båtarna"
+      ]
+    },
+    {
+      "slug": "bebis",
+      "lemma": "bebis",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "婴儿",
+      "en": "baby",
+      "known": false,
+      "forms": [
+        "bebis",
+        "bebisen",
+        "bebisar",
+        "bebisarna"
+      ]
+    },
+    {
+      "slug": "bekväm",
+      "lemma": "bekväm",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "舒适的；方便的",
+      "en": "comfortable; convenient",
+      "known": false,
+      "forms": [
+        "bekväm",
+        "bekvämt",
+        "bekväma",
+        "bekvämare",
+        "bekvämaset"
+      ]
+    },
+    {
+      "slug": "bekymmersam",
+      "lemma": "bekymmersam",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "令人担忧的；棘手的",
+      "en": "worrying; troublesome",
+      "known": false,
+      "forms": [
+        "bekymmersam",
+        "bekymmersamt",
+        "bekymmersamma"
+      ]
+    },
+    {
+      "slug": "ben",
+      "lemma": "ben",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "腿；骨头",
+      "en": "leg; bone",
+      "known": false,
+      "forms": [
+        "ben",
+        "benet",
+        "benen"
+      ]
+    },
+    {
+      "slug": "berätta",
+      "lemma": "berätta",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "讲述",
+      "en": "to tell, to narrate",
+      "known": false,
+      "forms": [
+        "berätta",
+        "berättar",
+        "berättade",
+        "berättat"
+      ]
+    },
+    {
+      "slug": "bestå",
+      "lemma": "bestå",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "由…组成；持续",
+      "en": "to consist (of); to endure",
+      "known": false,
+      "forms": [
+        "bestå",
+        "består",
+        "bestod",
+        "bestått"
+      ]
+    },
+    {
+      "slug": "beställa",
+      "lemma": "beställa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "点（餐）；订购",
+      "en": "to order; to place an order",
+      "known": false,
+      "forms": [
+        "beställa",
+        "beställer",
+        "beställde",
+        "beställt",
+        "beställ"
+      ]
+    },
+    {
+      "slug": "bestämma",
+      "lemma": "bestämma",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "决定",
+      "en": "to decide",
+      "known": false,
+      "forms": [
+        "bestämma",
+        "bestäm",
+        "bestämmer",
+        "bestämde",
+        "bestämt"
+      ]
+    },
+    {
+      "slug": "bestämma-sig",
+      "lemma": "bestämma sig",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "下决心，决定",
+      "en": "decide, make up one's mind",
+      "known": false,
+      "forms": [
+        "bestämma sig"
+      ]
+    },
+    {
+      "slug": "besvara",
+      "lemma": "besvara",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "回复；答复（正式）",
+      "en": "to respond to, to answer (formal)",
+      "known": false,
+      "forms": [
+        "besvara",
+        "besvarar",
+        "besvarade",
+        "besvarat"
+      ]
+    },
+    {
+      "slug": "betala",
+      "lemma": "betala",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "支付；付钱",
+      "en": "to pay",
+      "known": false,
+      "forms": [
+        "betala",
+        "betalar",
+        "betalade",
+        "betalat"
+      ]
+    },
+    {
+      "slug": "bi",
+      "lemma": "bi",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "蜜蜂",
+      "en": "bee",
+      "known": false,
+      "forms": [
+        "bi",
+        "biet",
+        "bin",
+        "bina"
+      ]
+    },
+    {
+      "slug": "bidrag",
+      "lemma": "bidrag",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "补贴、补助",
+      "en": "grant / subsidy",
+      "known": false,
+      "forms": [
+        "bidrag",
+        "bidraget",
+        "bidragen"
+      ]
+    },
+    {
+      "slug": "bil",
+      "lemma": "bil",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "汽车；小汽车",
+      "en": "car",
+      "known": false,
+      "forms": [
+        "bil",
+        "bilar",
+        "bilen",
+        "bilarna"
+      ]
+    },
+    {
+      "slug": "bildning",
+      "lemma": "bildning",
+      "ordklass": "substantiv",
+      "cefr": "B2",
+      "zh": "教育；文化素养；知识培育",
+      "en": "education, formation, cultivation",
+      "known": false,
+      "forms": [
+        "bildning",
+        "bildningen"
+      ]
+    },
+    {
+      "slug": "billig",
+      "lemma": "billig",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "便宜的",
+      "en": "cheap; inexpensive",
+      "known": false,
+      "forms": [
+        "billig",
+        "billigt",
+        "billiga",
+        "billigare",
+        "billigast"
+      ]
+    },
+    {
+      "slug": "bio",
+      "lemma": "bio",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "电影院",
+      "en": "cinema, movie theater",
+      "known": false,
+      "forms": [
+        "bio",
+        "bion",
+        "bior",
+        "biorna"
+      ]
+    },
+    {
+      "slug": "bit",
+      "lemma": "bit",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "一块；一片；一点",
+      "en": "piece; slice; bit",
+      "known": false,
+      "forms": [
+        "bit",
+        "biten",
+        "bitar",
+        "bitarna"
+      ]
+    },
+    {
+      "slug": "bitter",
+      "lemma": "bitter",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "苦的",
+      "en": "bitter",
+      "known": false,
+      "forms": [
+        "bitter",
+        "bittert",
+        "bittra",
+        "bittrare",
+        "bittrast",
+        "bittraste"
+      ]
+    },
+    {
+      "slug": "björn",
+      "lemma": "björn",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "熊",
+      "en": "bear",
+      "known": false,
+      "forms": [
+        "björn",
+        "björnen",
+        "björnar",
+        "björnarna"
+      ]
+    },
+    {
+      "slug": "bjuda",
+      "lemma": "bjuda",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "邀请；请客；提供",
+      "en": "invite; treat; offer",
+      "known": false,
+      "forms": [
+        "bjuda",
+        "bjuder",
+        "bjöd",
+        "bjudit",
+        "bjud"
+      ]
+    },
+    {
+      "slug": "blå",
+      "lemma": "blå",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "蓝色的",
+      "en": "blue",
+      "known": false,
+      "forms": [
+        "blå",
+        "blått",
+        "blåa",
+        "blåare",
+        "blåast",
+        "blåaste"
+      ]
+    },
+    {
+      "slug": "blek",
+      "lemma": "blek",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "苍白的, 浅色的",
+      "en": "pale",
+      "known": false,
+      "forms": [
+        "blek",
+        "blekt",
+        "bleka",
+        "blekare",
+        "blekast"
+      ]
+    },
+    {
+      "slug": "bli",
+      "lemma": "bli",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "变成, 成为; 将会",
+      "en": "to become; will be",
+      "known": false,
+      "forms": [
+        "bli",
+        "blir",
+        "blev",
+        "blivit"
+      ]
+    },
+    {
+      "slug": "blinka",
+      "lemma": "blinka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "闪烁；（灯）闪",
+      "en": "to blink / flash",
+      "known": false,
+      "forms": [
+        "blinka",
+        "blinkar",
+        "blinkade",
+        "blinkat"
+      ]
+    },
+    {
+      "slug": "blodig",
+      "lemma": "blodig",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "流血的、血淋淋的",
+      "en": "bloody",
+      "known": false,
+      "forms": [
+        "blodig",
+        "blodigt",
+        "blodiga"
+      ]
+    },
+    {
+      "slug": "blomma",
+      "lemma": "blomma",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "花；花朵",
+      "en": "flower",
+      "known": false,
+      "forms": [
+        "blomma",
+        "blomman",
+        "blommor",
+        "blommorna"
+      ]
+    },
+    {
+      "slug": "blöt",
+      "lemma": "blöt",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "湿的",
+      "en": "wet",
+      "known": false,
+      "forms": [
+        "blöt",
+        "blött",
+        "blöta",
+        "blötare",
+        "blötast"
+      ]
+    },
+    {
+      "slug": "blyg",
+      "lemma": "blyg",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "害羞的",
+      "en": "shy",
+      "known": false,
+      "forms": [
+        "blyg",
+        "blygt",
+        "blyga"
+      ]
+    },
+    {
+      "slug": "bo",
+      "lemma": "bo",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "居住；住",
+      "en": "live; reside; stay",
+      "known": false,
+      "forms": [
+        "bo",
+        "bor",
+        "bodde",
+        "bott"
+      ]
+    },
+    {
+      "slug": "böjd",
+      "lemma": "böjd",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "弯曲的",
+      "en": "bent, curved",
+      "known": false,
+      "forms": [
+        "böjd",
+        "böjt",
+        "böjda"
+      ]
+    },
+    {
+      "slug": "bok",
+      "lemma": "bok",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "书",
+      "en": "book",
+      "known": false,
+      "forms": [
+        "bok",
+        "boken",
+        "böcker",
+        "böckerna"
+      ]
+    },
+    {
+      "slug": "boka",
+      "lemma": "boka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "预订",
+      "en": "to book; to reserve",
+      "known": false,
+      "forms": [
+        "boka",
+        "bokar",
+        "bokade",
+        "bokat"
+      ]
+    },
+    {
+      "slug": "bokförlag",
+      "lemma": "bokförlag",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "出版社",
+      "en": "publishing house",
+      "known": false,
+      "forms": [
+        "bokförlag",
+        "bokförlaget",
+        "bokförlagen"
+      ]
+    },
+    {
+      "slug": "bokhandel",
+      "lemma": "bokhandel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "书店",
+      "en": "bookshop / bookstore",
+      "known": false,
+      "forms": [
+        "bokhandel",
+        "bokhandeln",
+        "bokhandlar",
+        "bokhandlarna"
+      ]
+    },
+    {
+      "slug": "bokhylla",
+      "lemma": "bokhylla",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "书架",
+      "en": "bookshelf; bookcase",
+      "known": false,
+      "forms": [
+        "bokhylla",
+        "bokhyllan",
+        "bokhyllor",
+        "bokhyllorna"
+      ]
+    },
+    {
+      "slug": "boll",
+      "lemma": "boll",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "球",
+      "en": "ball",
+      "known": false,
+      "forms": [
+        "boll",
+        "bollen",
+        "bollar",
+        "bollarna"
+      ]
+    },
+    {
+      "slug": "bonde",
+      "lemma": "bonde",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "农民",
+      "en": "farmer",
+      "known": false,
+      "forms": [
+        "bonde",
+        "bonden",
+        "bönder",
+        "bönderna"
+      ]
+    },
+    {
+      "slug": "bord",
+      "lemma": "bord",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "桌子",
+      "en": "table",
+      "known": false,
+      "forms": [
+        "bord",
+        "bordet",
+        "borden"
+      ]
+    },
+    {
+      "slug": "börja",
+      "lemma": "börja",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "开始",
+      "en": "to begin / to start",
+      "known": false,
+      "forms": [
+        "börja",
+        "börjar",
+        "började",
+        "börjat"
+      ]
+    },
+    {
+      "slug": "borta",
+      "lemma": "borta",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "不见了；消失；离开在外",
+      "en": "gone / missing / away",
+      "known": false,
+      "forms": [
+        "borta"
+      ]
+    },
+    {
+      "slug": "bra",
+      "lemma": "bra",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "好的, 不错的",
+      "en": "good, fine",
+      "known": false,
+      "forms": [
+        "bra",
+        "bättre",
+        "bäst"
+      ]
+    },
+    {
+      "slug": "bråka",
+      "lemma": "bråka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "吵架；捣乱",
+      "en": "to quarrel, to fight, to cause trouble",
+      "known": false,
+      "forms": [
+        "bråka",
+        "bråkar",
+        "bråkade",
+        "bråkat"
+      ]
+    },
+    {
+      "slug": "bred",
+      "lemma": "bred",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "宽的；宽阔的",
+      "en": "wide, broad",
+      "known": false,
+      "forms": [
+        "bred",
+        "brett",
+        "breda",
+        "bredare",
+        "bredast",
+        "bredaste"
+      ]
+    },
+    {
+      "slug": "bredvid",
+      "lemma": "bredvid",
+      "ordklass": "preposition",
+      "cefr": "A2",
+      "zh": "旁边；紧靠",
+      "en": "next to; beside",
+      "known": false,
+      "forms": [
+        "bredvid"
+      ]
+    },
+    {
+      "slug": "brev",
+      "lemma": "brev",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "信",
+      "en": "letter",
+      "known": false,
+      "forms": [
+        "brev",
+        "brevet",
+        "breven"
+      ]
+    },
+    {
+      "slug": "bricka",
+      "lemma": "bricka",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "托盘",
+      "en": "tray",
+      "known": false,
+      "forms": [
+        "bricka",
+        "brickan",
+        "brickor",
+        "brickorna"
+      ]
+    },
+    {
+      "slug": "brinna",
+      "lemma": "brinna",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "燃烧，着火",
+      "en": "to burn",
+      "known": false,
+      "forms": [
+        "brinna",
+        "brinner",
+        "brann",
+        "brunnit",
+        "brinn"
+      ]
+    },
+    {
+      "slug": "brist",
+      "lemma": "brist",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "短缺, 缺乏",
+      "en": "shortage, lack",
+      "known": false,
+      "forms": [
+        "brist",
+        "bristen",
+        "brister",
+        "bristerna"
+      ]
+    },
+    {
+      "slug": "bro",
+      "lemma": "bro",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "桥；桥梁",
+      "en": "bridge",
+      "known": false,
+      "forms": [
+        "bro",
+        "broar",
+        "bron",
+        "broarna"
+      ]
+    },
+    {
+      "slug": "bröd",
+      "lemma": "bröd",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "面包",
+      "en": "bread",
+      "known": false,
+      "forms": [
+        "bröd",
+        "brödet",
+        "bröden"
+      ]
+    },
+    {
+      "slug": "bror",
+      "lemma": "bror",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "哥哥、弟弟",
+      "en": "brother",
+      "known": false,
+      "forms": [
+        "bror",
+        "brodern",
+        "bröder",
+        "bröderna"
+      ]
+    },
+    {
+      "slug": "brottsling",
+      "lemma": "brottsling",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "罪犯",
+      "en": "criminal",
+      "known": false,
+      "forms": [
+        "brottsling",
+        "brottslingar",
+        "brottslingen",
+        "brottslingarna"
+      ]
+    },
+    {
+      "slug": "bruka",
+      "lemma": "bruka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "通常、习惯（做某事）",
+      "en": "to usually (do); to be accustomed to",
+      "known": false,
+      "forms": [
+        "bruka",
+        "brukar",
+        "brukade",
+        "brukat"
+      ]
+    },
+    {
+      "slug": "brun",
+      "lemma": "brun",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "棕色的",
+      "en": "brown",
+      "known": false,
+      "forms": [
+        "brun",
+        "brunt",
+        "bruna",
+        "brunare",
+        "brunast"
+      ]
+    },
+    {
+      "slug": "bruten",
+      "lemma": "bruten",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "断的；骨折的",
+      "en": "broken",
+      "known": false,
+      "forms": [
+        "bruten",
+        "brutet",
+        "brutna"
+      ]
+    },
+    {
+      "slug": "bryggkaffe",
+      "lemma": "bryggkaffe",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "滴滤咖啡",
+      "en": "drip coffee; brewed coffee",
+      "known": false,
+      "forms": [
+        "bryggkaffe",
+        "bryggkaffet",
+        "bryggkaffen",
+        "bryggkaffena"
+      ]
+    },
+    {
+      "slug": "bulle",
+      "lemma": "bulle",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "小圆面包",
+      "en": "bun, roll",
+      "known": false,
+      "forms": [
+        "bulle",
+        "bullen",
+        "bullar",
+        "bullarna"
+      ]
+    },
+    {
+      "slug": "burk",
+      "lemma": "burk",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "罐、罐头",
+      "en": "can / jar / tin",
+      "known": false,
+      "forms": [
+        "burk",
+        "burken",
+        "burkar",
+        "burkarna"
+      ]
+    },
+    {
+      "slug": "buss",
+      "lemma": "buss",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "公共汽车；巴士",
+      "en": "bus",
+      "known": false,
+      "forms": [
+        "buss",
+        "bussar",
+        "bussen",
+        "bussarna"
+      ]
+    },
+    {
+      "slug": "busshållplats",
+      "lemma": "busshållplats",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "公共汽车站",
+      "en": "bus stop",
+      "known": false,
+      "forms": [
+        "busshållplats",
+        "busshållplatsen",
+        "busshållplatser",
+        "busshållplatserna"
+      ]
+    },
+    {
+      "slug": "by",
+      "lemma": "by",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "村庄，小村",
+      "en": "village",
+      "known": false,
+      "forms": [
+        "by",
+        "byar",
+        "byn",
+        "byarna"
+      ]
+    },
+    {
+      "slug": "bygga",
+      "lemma": "bygga",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "建造，建设",
+      "en": "to build, to construct",
+      "known": false,
+      "forms": [
+        "bygga",
+        "bygger",
+        "byggde",
+        "byggt",
+        "bygg"
+      ]
+    },
+    {
+      "slug": "byggnad",
+      "lemma": "byggnad",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "建筑；楼",
+      "en": "building",
+      "known": false,
+      "forms": [
+        "byggnad",
+        "byggnaden",
+        "byggnader",
+        "byggnaderna"
+      ]
+    },
+    {
+      "slug": "byteskö",
+      "lemma": "byteskö",
+      "ordklass": "substantiv",
+      "cefr": "B2",
+      "zh": "换位等候队列（接受保证名额后仍在等待首选名额的队列）",
+      "en": "transfer/switching queue",
+      "known": false,
+      "forms": [
+        "byteskö",
+        "byteskön",
+        "bytesköer",
+        "bytesköerna"
+      ]
+    },
+    {
+      "slug": "café",
+      "lemma": "café",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "咖啡馆",
+      "en": "café; coffee shop",
+      "known": false,
+      "forms": [
+        "café",
+        "caf",
+        "caféet",
+        "caféer",
+        "caféerna"
+      ]
+    },
+    {
+      "slug": "cappuccino",
+      "lemma": "cappuccino",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "卡布奇诺",
+      "en": "cappuccino",
+      "known": false,
+      "forms": [
+        "cappuccino",
+        "cappuccinon",
+        "cappuccinoer",
+        "cappuccinoerna"
+      ]
+    },
+    {
+      "slug": "central",
+      "lemma": "central",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "中心的；中央的；核心的",
+      "en": "central",
+      "known": false,
+      "forms": [
+        "central",
+        "centralt",
+        "centrala"
+      ]
+    },
+    {
+      "slug": "centralstation",
+      "lemma": "centralstation",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "中央车站",
+      "en": "central station",
+      "known": false,
+      "forms": [
+        "centralstation",
+        "centralstationen",
+        "centralstationer",
+        "centralstationerna"
+      ]
+    },
+    {
+      "slug": "champagne",
+      "lemma": "champagne",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "香槟",
+      "en": "champagne",
+      "known": false,
+      "forms": [
+        "champagne",
+        "champagnen",
+        "champagner"
+      ]
+    },
+    {
+      "slug": "civil",
+      "lemma": "civil",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "民用的；平民的；非军事的",
+      "en": "civilian; civil; non-military",
+      "known": false,
+      "forms": [
+        "civil",
+        "civilt",
+        "civila"
+      ]
+    },
+    {
+      "slug": "cykel",
+      "lemma": "cykel",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "自行车",
+      "en": "bicycle, bike",
+      "known": false,
+      "forms": [
+        "cykel",
+        "cyklar",
+        "cykeln",
+        "cyklarna"
+      ]
+    },
+    {
+      "slug": "cykla",
+      "lemma": "cykla",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "骑自行车",
+      "en": "to cycle / ride a bike",
+      "known": false,
+      "forms": [
+        "cykla",
+        "cyklar",
+        "cyklade",
+        "cyklat"
+      ]
+    },
+    {
+      "slug": "cyklist",
+      "lemma": "cyklist",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "骑自行车的人",
+      "en": "cyclist",
+      "known": false,
+      "forms": [
+        "cyklist",
+        "cyklisten",
+        "cyklister",
+        "cyklisterna"
+      ]
+    },
+    {
+      "slug": "dag",
+      "lemma": "dag",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "天/日子",
+      "en": "day",
+      "known": false,
+      "forms": [
+        "dag",
+        "dagen",
+        "dagar",
+        "dagarna"
+      ]
+    },
+    {
+      "slug": "dam",
+      "lemma": "dam",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "女士",
+      "en": "lady",
+      "known": false,
+      "forms": [
+        "dam",
+        "damen",
+        "damer",
+        "damerna"
+      ]
+    },
+    {
+      "slug": "dansa",
+      "lemma": "dansa",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "跳舞",
+      "en": "to dance",
+      "known": false,
+      "forms": [
+        "dansa",
+        "dansar",
+        "dansade",
+        "dansat"
+      ]
+    },
+    {
+      "slug": "datacenter",
+      "lemma": "datacenter",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "数据中心",
+      "en": "data centre",
+      "known": false,
+      "forms": [
+        "datacenter",
+        "datacentret",
+        "datacentren"
+      ]
+    },
+    {
+      "slug": "dator",
+      "lemma": "dator",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "电脑",
+      "en": "computer",
+      "known": false,
+      "forms": [
+        "dator",
+        "datorn",
+        "datorer",
+        "datorerna"
+      ]
+    },
+    {
+      "slug": "debutera",
+      "lemma": "debutera",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "首次登场",
+      "en": "to debut / to make one's debut",
+      "known": false,
+      "forms": [
+        "debutera",
+        "debuterar",
+        "debuterade",
+        "debuterat"
+      ]
+    },
+    {
+      "slug": "detsamma",
+      "lemma": "detsamma",
+      "ordklass": "pronomen/uttryck",
+      "cefr": "A2",
+      "zh": "同样；你也一样",
+      "en": "the same (to you); likewise",
+      "known": false,
+      "forms": [
+        "detsamma"
+      ]
+    },
+    {
+      "slug": "direkt",
+      "lemma": "direkt",
+      "ordklass": "adjektiv/adverb",
+      "cefr": "A2",
+      "zh": "直接地；立刻；直接的",
+      "en": "directly; right away; direct",
+      "known": false,
+      "forms": [
+        "direkt",
+        "direkta"
+      ]
+    },
+    {
+      "slug": "djur",
+      "lemma": "djur",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "动物",
+      "en": "animal",
+      "known": false,
+      "forms": [
+        "djur",
+        "djuret",
+        "djuren"
+      ]
+    },
+    {
+      "slug": "döma",
+      "lemma": "döma",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "判决；裁判；评判",
+      "en": "to sentence; to judge",
+      "known": false,
+      "forms": [
+        "döma",
+        "dömer",
+        "dömde",
+        "dömt",
+        "döms",
+        "dömdes"
+      ]
+    },
+    {
+      "slug": "domstol",
+      "lemma": "domstol",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "法院",
+      "en": "court (of law)",
+      "known": false,
+      "forms": [
+        "domstol",
+        "domstolen",
+        "domstolar",
+        "domstolarna"
+      ]
+    },
+    {
+      "slug": "döpa",
+      "lemma": "döpa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "命名/洗礼",
+      "en": "to baptize, to name",
+      "known": false,
+      "forms": [
+        "döpa",
+        "döp",
+        "döper",
+        "döpte",
+        "döpt"
+      ]
+    },
+    {
+      "slug": "dotter",
+      "lemma": "dotter",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "女儿",
+      "en": "daughter",
+      "known": false,
+      "forms": [
+        "dotter",
+        "dottern",
+        "döttrar",
+        "döttrarna"
+      ]
+    },
+    {
+      "slug": "dricka",
+      "lemma": "dricka",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "喝",
+      "en": "to drink",
+      "known": false,
+      "forms": [
+        "dricka",
+        "dricker",
+        "drack",
+        "druckit"
+      ]
+    },
+    {
+      "slug": "dricks",
+      "lemma": "dricks",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "小费",
+      "en": "tip (gratuity)",
+      "known": false,
+      "forms": [
+        "dricks",
+        "dricksen"
+      ]
+    },
+    {
+      "slug": "drog",
+      "lemma": "drog",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "毒品，药物",
+      "en": "drug",
+      "known": false,
+      "forms": [
+        "drog",
+        "droger",
+        "drogen",
+        "drogerna"
+      ]
+    },
+    {
+      "slug": "drömma",
+      "lemma": "drömma",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "做梦, 梦到",
+      "en": "to dream",
+      "known": false,
+      "forms": [
+        "drömma",
+        "drömmer",
+        "drömde",
+        "drömt",
+        "dröm"
+      ]
+    },
+    {
+      "slug": "drönare",
+      "lemma": "drönare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "无人机",
+      "en": "drone",
+      "known": false,
+      "forms": [
+        "drönare",
+        "drönaren",
+        "drönarna"
+      ]
+    },
+    {
+      "slug": "duktig",
+      "lemma": "duktig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "能干的；擅长的；努力的",
+      "en": "skilled; capable; diligent; good",
+      "known": false,
+      "forms": [
+        "duktig",
+        "duktigt",
+        "duktiga",
+        "duktigare",
+        "duktigast"
+      ]
+    },
+    {
+      "slug": "dum",
+      "lemma": "dum",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "愚蠢的；笨的",
+      "en": "stupid; foolish; dumb",
+      "known": false,
+      "forms": [
+        "dum",
+        "dumt",
+        "dumma",
+        "dummast"
+      ]
+    },
+    {
+      "slug": "dyr",
+      "lemma": "dyr",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "贵的；昂贵的",
+      "en": "expensive",
+      "known": false,
+      "forms": [
+        "dyr",
+        "dyrt",
+        "dyra",
+        "dyrare",
+        "dyrast"
+      ]
+    },
+    {
+      "slug": "e-tjänst",
+      "lemma": "e-tjänst",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "电子服务；政府/机构网上服务平台",
+      "en": "e-service, online service",
+      "known": false,
+      "forms": [
+        "e-tjänst",
+        "e-tjänsten",
+        "e-tjänster",
+        "e-tjänsterna"
+      ]
+    },
+    {
+      "slug": "effektiv",
+      "lemma": "effektiv",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "高效的",
+      "en": "efficient",
+      "known": false,
+      "forms": [
+        "effektiv",
+        "effektivt",
+        "effektiva"
+      ]
+    },
+    {
+      "slug": "efterrätt",
+      "lemma": "efterrätt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "甜点；餐后甜品",
+      "en": "dessert",
+      "known": false,
+      "forms": [
+        "efterrätt",
+        "efterrätten",
+        "efterrätter",
+        "efterrätterna"
+      ]
+    },
+    {
+      "slug": "egen",
+      "lemma": "egen",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "自己的；本身的",
+      "en": "own; one's own",
+      "known": false,
+      "forms": [
+        "egen",
+        "eget",
+        "egna"
+      ]
+    },
+    {
+      "slug": "egentligen",
+      "lemma": "egentligen",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "到底；其实",
+      "en": "actually / really",
+      "known": false,
+      "forms": [
+        "egentligen"
+      ]
+    },
+    {
+      "slug": "ek",
+      "lemma": "ek",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "橡树",
+      "en": "oak tree",
+      "known": false,
+      "forms": [
+        "ek",
+        "ekar",
+        "eken",
+        "ekarna"
+      ]
+    },
+    {
+      "slug": "ekorre",
+      "lemma": "ekorre",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "松鼠",
+      "en": "squirrel",
+      "known": false,
+      "forms": [
+        "ekorre",
+        "ekorren",
+        "ekorrar",
+        "ekorrarna"
+      ]
+    },
+    {
+      "slug": "elefant",
+      "lemma": "elefant",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "大象",
+      "en": "elephant",
+      "known": false,
+      "forms": [
+        "elefant",
+        "elefanten",
+        "elefanter",
+        "elefanterna"
+      ]
+    },
+    {
+      "slug": "elegant",
+      "lemma": "elegant",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "优雅的",
+      "en": "elegant",
+      "known": false,
+      "forms": [
+        "elegant",
+        "eleganta"
+      ]
+    },
+    {
+      "slug": "element",
+      "lemma": "element",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "暖气片；散热器",
+      "en": "radiator",
+      "known": false,
+      "forms": [
+        "element",
+        "elementet",
+        "elementen"
+      ]
+    },
+    {
+      "slug": "energidryck",
+      "lemma": "energidryck",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "能量饮料",
+      "en": "energy drink",
+      "known": false,
+      "forms": [
+        "energidryck",
+        "energidrycken",
+        "energidrycker",
+        "energidryckerna"
+      ]
+    },
+    {
+      "slug": "enkel",
+      "lemma": "enkel",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "简单的；容易的",
+      "en": "simple; easy; single",
+      "known": false,
+      "forms": [
+        "enkel",
+        "enkelt",
+        "enkla",
+        "enklare",
+        "enklast"
+      ]
+    },
+    {
+      "slug": "ensam",
+      "lemma": "ensam",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "孤独的/独自的",
+      "en": "alone, lonely",
+      "known": false,
+      "forms": [
+        "ensam",
+        "ensamt",
+        "ensamma"
+      ]
+    },
+    {
+      "slug": "envis",
+      "lemma": "envis",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "固执的",
+      "en": "stubborn",
+      "known": false,
+      "forms": [
+        "envis",
+        "envist",
+        "envisa",
+        "envisare",
+        "envisast"
+      ]
+    },
+    {
+      "slug": "erbjudande",
+      "lemma": "erbjudande",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "邀约；提议；报价",
+      "en": "offer",
+      "known": false,
+      "forms": [
+        "erbjudande",
+        "erbjudandet",
+        "erbjudanden",
+        "erbjudandena"
+      ]
+    },
+    {
+      "slug": "espresso",
+      "lemma": "espresso",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "浓缩咖啡",
+      "en": "espresso",
+      "known": false,
+      "forms": [
+        "espresso",
+        "espression",
+        "espressoer",
+        "espressoerna"
+      ]
+    },
+    {
+      "slug": "expert",
+      "lemma": "expert",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "专家",
+      "en": "expert",
+      "known": false,
+      "forms": [
+        "expert",
+        "experten",
+        "experter",
+        "experterna"
+      ]
+    },
+    {
+      "slug": "extrapris",
+      "lemma": "extrapris",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "特价",
+      "en": "special price / special offer",
+      "known": false,
+      "forms": [
+        "extrapris",
+        "extrapriset",
+        "extrapriser",
+        "extrapriserna"
+      ]
+    },
+    {
+      "slug": "fågel",
+      "lemma": "fågel",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "鸟",
+      "en": "bird",
+      "known": false,
+      "forms": [
+        "fågel",
+        "fågeln",
+        "fåglar",
+        "fåglarna"
+      ]
+    },
+    {
+      "slug": "faktiskt",
+      "lemma": "faktiskt",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "实际上；说实话",
+      "en": "actually; in fact",
+      "known": false,
+      "forms": [
+        "faktiskt"
+      ]
+    },
+    {
+      "slug": "familj",
+      "lemma": "familj",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "家庭",
+      "en": "family",
+      "known": false,
+      "forms": [
+        "familj",
+        "familjen",
+        "familjer",
+        "familjerna"
+      ]
+    },
+    {
+      "slug": "fängelse",
+      "lemma": "fängelse",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "监狱；监禁",
+      "en": "prison; imprisonment",
+      "known": false,
+      "forms": [
+        "fängelse",
+        "fängelset",
+        "fängelser",
+        "fängelserna"
+      ]
+    },
+    {
+      "slug": "far",
+      "lemma": "far",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "父亲（书面/正式）",
+      "en": "father (written/formal)",
+      "known": false,
+      "forms": [
+        "far",
+        "fadern",
+        "fäder",
+        "fäderna"
+      ]
+    },
+    {
+      "slug": "får",
+      "lemma": "får",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "羊；绵羊",
+      "en": "sheep",
+      "known": false,
+      "forms": [
+        "får",
+        "fåret",
+        "fåren"
+      ]
+    },
+    {
+      "slug": "färga",
+      "lemma": "färga",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "染色；使变色；着色",
+      "en": "to colour; to dye; to tint",
+      "known": false,
+      "forms": [
+        "färga",
+        "färgar",
+        "färgade",
+        "färgat"
+      ]
+    },
+    {
+      "slug": "farlig",
+      "lemma": "farlig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "危险的",
+      "en": "dangerous",
+      "known": false,
+      "forms": [
+        "farlig",
+        "farligt",
+        "farliga",
+        "farligare",
+        "farligast"
+      ]
+    },
+    {
+      "slug": "färsk",
+      "lemma": "färsk",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "新鲜的；刚出炉的",
+      "en": "fresh",
+      "known": false,
+      "forms": [
+        "färsk",
+        "färskt",
+        "färska"
+      ]
+    },
+    {
+      "slug": "fartyg",
+      "lemma": "fartyg",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "船只，舰船",
+      "en": "vessel, ship",
+      "known": false,
+      "forms": [
+        "fartyg",
+        "fartyget",
+        "fartygen"
+      ]
+    },
+    {
+      "slug": "fast",
+      "lemma": "fast",
+      "ordklass": "konjunktion",
+      "cefr": "A2",
+      "zh": "但是；虽然；然而（连词）；牢固的；紧的（形容词）",
+      "en": "but; although; however (conj.); firm; tight; stuck (adj.)",
+      "known": false,
+      "forms": [
+        "fast",
+        "fasta",
+        "fastare",
+        "fastast"
+      ]
+    },
+    {
+      "slug": "faster",
+      "lemma": "faster",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "姑姑（父亲的姐妹）",
+      "en": "paternal aunt (father's sister)",
+      "known": false,
+      "forms": [
+        "faster",
+        "fastern",
+        "fastrar",
+        "fastrarna"
+      ]
+    },
+    {
+      "slug": "fåtölj",
+      "lemma": "fåtölj",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "扶手椅；单人沙发",
+      "en": "armchair",
+      "known": false,
+      "forms": [
+        "fåtölj",
+        "fåtöljen",
+        "fåtöljer",
+        "fåtöljerna"
+      ]
+    },
+    {
+      "slug": "fattig",
+      "lemma": "fattig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "贫穷的",
+      "en": "poor, impoverished",
+      "known": false,
+      "forms": [
+        "fattig",
+        "fattigt",
+        "fattiga"
+      ]
+    },
+    {
+      "slug": "fet",
+      "lemma": "fet",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "肥的",
+      "en": "fat",
+      "known": false,
+      "forms": [
+        "fet",
+        "fett",
+        "feta",
+        "fetare",
+        "fetast",
+        "fetaste"
+      ]
+    },
+    {
+      "slug": "figur",
+      "lemma": "figur",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "角色, 人物; 形状",
+      "en": "character, figure",
+      "known": false,
+      "forms": [
+        "figur",
+        "figuren",
+        "figurer",
+        "figurerna"
+      ]
+    },
+    {
+      "slug": "fika",
+      "lemma": "fika",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "下午茶；咖啡时间",
+      "en": "coffee break; fika (Swedish coffee tradition)",
+      "known": false,
+      "forms": [
+        "fika",
+        "fikan",
+        "fikaster",
+        "fikapauser",
+        "fikar",
+        "fikade",
+        "fikat"
+      ]
+    },
+    {
+      "slug": "film",
+      "lemma": "film",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "电影",
+      "en": "film, movie",
+      "known": false,
+      "forms": [
+        "film",
+        "filmen",
+        "filmer",
+        "filmerna"
+      ]
+    },
+    {
+      "slug": "filt",
+      "lemma": "filt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "毯子；毛毯",
+      "en": "blanket",
+      "known": false,
+      "forms": [
+        "filt",
+        "filten",
+        "filtar",
+        "filtarna"
+      ]
+    },
+    {
+      "slug": "finger",
+      "lemma": "finger",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "手指",
+      "en": "finger",
+      "known": false,
+      "forms": [
+        "finger",
+        "fingret",
+        "fingrar",
+        "fingrarna"
+      ]
+    },
+    {
+      "slug": "finnas",
+      "lemma": "finnas",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "存在；有",
+      "en": "to exist; there is/are",
+      "known": false,
+      "forms": [
+        "finnas",
+        "finns",
+        "fanns",
+        "funnits"
+      ]
+    },
+    {
+      "slug": "fira",
+      "lemma": "fira",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "庆祝",
+      "en": "to celebrate",
+      "known": false,
+      "forms": [
+        "fira",
+        "firar",
+        "firade",
+        "firat"
+      ]
+    },
+    {
+      "slug": "fisk",
+      "lemma": "fisk",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "鱼",
+      "en": "fish",
+      "known": false,
+      "forms": [
+        "fisk",
+        "fisken",
+        "fiskar",
+        "fiskarna"
+      ]
+    },
+    {
+      "slug": "fisksoppa",
+      "lemma": "fisksoppa",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "鱼汤",
+      "en": "fish soup",
+      "known": false,
+      "forms": [
+        "fisksoppa",
+        "fisksoppan",
+        "fisksoppor",
+        "fisksopporna"
+      ]
+    },
+    {
+      "slug": "fixa",
+      "lemma": "fixa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "搞定；弄好（口语）",
+      "en": "to fix; to sort out; to handle",
+      "known": false,
+      "forms": [
+        "fixa",
+        "fixar",
+        "fixade",
+        "fixat"
+      ]
+    },
+    {
+      "slug": "fjäril",
+      "lemma": "fjäril",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "蝴蝶",
+      "en": "butterfly",
+      "known": false,
+      "forms": [
+        "fjäril",
+        "fjärilen",
+        "fjärilar",
+        "fjärilarna"
+      ]
+    },
+    {
+      "slug": "fjärrkontroll",
+      "lemma": "fjärrkontroll",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "遥控器",
+      "en": "remote control",
+      "known": false,
+      "forms": [
+        "fjärrkontroll",
+        "fjärrkontrollen",
+        "fjärrkontroller",
+        "fjärrkontrollerna"
+      ]
+    },
+    {
+      "slug": "fläckig",
+      "lemma": "fläckig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "有斑点的",
+      "en": "spotted",
+      "known": false,
+      "forms": [
+        "fläckig",
+        "fläckigt",
+        "fläckiga",
+        "fläckigare",
+        "fläckigast",
+        "fläckigaste"
+      ]
+    },
+    {
+      "slug": "fläskfilé",
+      "lemma": "fläskfilé",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "猪柳；猪里脊",
+      "en": "pork tenderloin",
+      "known": false,
+      "forms": [
+        "fläskfilé",
+        "fläskfil",
+        "fläskfilén",
+        "fläskfiléer",
+        "fläskfiléerna"
+      ]
+    },
+    {
+      "slug": "flexibel",
+      "lemma": "flexibel",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "灵活的",
+      "en": "flexible",
+      "known": false,
+      "forms": [
+        "flexibel",
+        "flexibelt",
+        "flexibla"
+      ]
+    },
+    {
+      "slug": "flicka",
+      "lemma": "flicka",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "女孩",
+      "en": "girl",
+      "known": false,
+      "forms": [
+        "flicka",
+        "flickan",
+        "flickor",
+        "flickorna"
+      ]
+    },
+    {
+      "slug": "fluga",
+      "lemma": "fluga",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "苍蝇",
+      "en": "fly",
+      "known": false,
+      "forms": [
+        "fluga",
+        "flugan",
+        "flugor",
+        "flugorna"
+      ]
+    },
+    {
+      "slug": "flytta",
+      "lemma": "flytta",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "搬家；移动",
+      "en": "to move (house); to move (object)",
+      "known": false,
+      "forms": [
+        "flytta",
+        "flyttar",
+        "flyttade",
+        "flyttat"
+      ]
+    },
+    {
+      "slug": "föda",
+      "lemma": "föda",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "生育；出生",
+      "en": "give birth / be born",
+      "known": false,
+      "forms": [
+        "föda",
+        "föd",
+        "föder",
+        "födde",
+        "fött"
+      ]
+    },
+    {
+      "slug": "födas",
+      "lemma": "födas",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "出生",
+      "en": "to be born",
+      "known": false,
+      "forms": [
+        "födas",
+        "föds",
+        "föddes",
+        "fötts"
+      ]
+    },
+    {
+      "slug": "födelsedag",
+      "lemma": "födelsedag",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "生日",
+      "en": "birthday",
+      "known": false,
+      "forms": [
+        "födelsedag",
+        "födelsedagar",
+        "födelsedagen",
+        "födelsedagarna"
+      ]
+    },
+    {
+      "slug": "fönster",
+      "lemma": "fönster",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "窗户",
+      "en": "window",
+      "known": false,
+      "forms": [
+        "fönster",
+        "fönstret",
+        "fönstren"
+      ]
+    },
+    {
+      "slug": "fontän",
+      "lemma": "fontän",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "喷泉",
+      "en": "fountain",
+      "known": false,
+      "forms": [
+        "fontän",
+        "fontänen",
+        "fontäner",
+        "fontänerna"
+      ]
+    },
+    {
+      "slug": "förälder",
+      "lemma": "förälder",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "家长、父母",
+      "en": "parent",
+      "known": false,
+      "forms": [
+        "förälder",
+        "föräldern",
+        "föräldrar",
+        "föräldrarna"
+      ]
+    },
+    {
+      "slug": "förbjuda",
+      "lemma": "förbjuda",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "禁止",
+      "en": "to prohibit, to ban",
+      "known": false,
+      "forms": [
+        "förbjuda",
+        "förbjuder",
+        "förbjöd",
+        "förbjudit",
+        "förbjud"
+      ]
+    },
+    {
+      "slug": "föredra",
+      "lemma": "föredra",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "更喜欢；偏好",
+      "en": "to prefer",
+      "known": false,
+      "forms": [
+        "föredra",
+        "föredrar",
+        "föredrog",
+        "föredragit"
+      ]
+    },
+    {
+      "slug": "föreläsning",
+      "lemma": "föreläsning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "讲座",
+      "en": "lecture",
+      "known": false,
+      "forms": [
+        "föreläsning",
+        "föreläsningen",
+        "föreläsningar",
+        "föreläsningarna"
+      ]
+    },
+    {
+      "slug": "författare",
+      "lemma": "författare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "作家；作者",
+      "en": "author, writer",
+      "known": false,
+      "forms": [
+        "författare",
+        "författaren",
+        "författarna"
+      ]
+    },
+    {
+      "slug": "förkylning",
+      "lemma": "förkylning",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "感冒",
+      "en": "cold (illness)",
+      "known": false,
+      "forms": [
+        "förkylning",
+        "förkylningen",
+        "förkylningar",
+        "förkylningarna"
+      ]
+    },
+    {
+      "slug": "förlag",
+      "lemma": "förlag",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "出版社；出版商",
+      "en": "publishing house; publisher",
+      "known": false,
+      "forms": [
+        "förlag",
+        "förlaget",
+        "förlagen"
+      ]
+    },
+    {
+      "slug": "förlåt",
+      "lemma": "förlåt",
+      "ordklass": "interjektion",
+      "cefr": "A1",
+      "zh": "对不起；打扰一下；原谅",
+      "en": "excuse me; sorry; forgive",
+      "known": false,
+      "forms": [
+        "förlåt",
+        "förlåta",
+        "förlåter",
+        "förlät",
+        "förlåtit"
+      ]
+    },
+    {
+      "slug": "förlust",
+      "lemma": "förlust",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "丢失；损失；失败",
+      "en": "loss",
+      "known": false,
+      "forms": [
+        "förlust",
+        "förlusten",
+        "förluster",
+        "förlusterna"
+      ]
+    },
+    {
+      "slug": "förmiddag",
+      "lemma": "förmiddag",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "上午（中午前）",
+      "en": "morning / forenoon",
+      "known": false,
+      "forms": [
+        "förmiddag",
+        "förmiddagen",
+        "förmiddagar",
+        "förmiddagarna"
+      ]
+    },
+    {
+      "slug": "förrätt",
+      "lemma": "förrätt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "前菜",
+      "en": "starter; appetizer",
+      "known": false,
+      "forms": [
+        "förrätt",
+        "förrätten",
+        "förrätter",
+        "förrätterna"
+      ]
+    },
+    {
+      "slug": "förresten",
+      "lemma": "förresten",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "顺带一提；对了",
+      "en": "by the way; incidentally",
+      "known": false,
+      "forms": [
+        "förresten"
+      ]
+    },
+    {
+      "slug": "försiktig",
+      "lemma": "försiktig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "谨慎的/小心的",
+      "en": "careful, cautious",
+      "known": false,
+      "forms": [
+        "försiktig",
+        "försiktigare",
+        "försiktigast"
+      ]
+    },
+    {
+      "slug": "forskare",
+      "lemma": "forskare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "研究员",
+      "en": "researcher",
+      "known": false,
+      "forms": [
+        "forskare",
+        "forskaren",
+        "forskarna"
+      ]
+    },
+    {
+      "slug": "förskola",
+      "lemma": "förskola",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "幼儿园；学前班",
+      "en": "preschool",
+      "known": false,
+      "forms": [
+        "förskola",
+        "förskolan",
+        "förskolor",
+        "förskolorna"
+      ]
+    },
+    {
+      "slug": "fortfarande",
+      "lemma": "fortfarande",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "仍然；还",
+      "en": "still",
+      "known": false,
+      "forms": [
+        "fortfarande"
+      ]
+    },
+    {
+      "slug": "förtryck",
+      "lemma": "förtryck",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "压迫，压制",
+      "en": "oppression, repression",
+      "known": false,
+      "forms": [
+        "förtryck",
+        "förtrycket",
+        "förtrycken"
+      ]
+    },
+    {
+      "slug": "fortsätta",
+      "lemma": "fortsätta",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "继续",
+      "en": "to continue",
+      "known": false,
+      "forms": [
+        "fortsätta",
+        "fortsätt",
+        "fortsätter",
+        "fortsatte",
+        "fortsatt"
+      ]
+    },
+    {
+      "slug": "förutom",
+      "lemma": "förutom",
+      "ordklass": "preposition/adverb",
+      "cefr": "A2",
+      "zh": "除了；除……之外；此外",
+      "en": "except for; besides; apart from",
+      "known": false,
+      "forms": [
+        "förutom"
+      ]
+    },
+    {
+      "slug": "fotbollssko",
+      "lemma": "fotbollssko",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "足球鞋",
+      "en": "football boot",
+      "known": false,
+      "forms": [
+        "fotbollssko",
+        "fotbollsskon",
+        "fotbollsskor",
+        "fotbollsskorna"
+      ]
+    },
+    {
+      "slug": "foto",
+      "lemma": "foto",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "照片",
+      "en": "photo; photograph",
+      "known": false,
+      "forms": [
+        "foto",
+        "fotot",
+        "foton",
+        "fotona"
+      ]
+    },
+    {
+      "slug": "framför",
+      "lemma": "framför",
+      "ordklass": "preposition/adverb",
+      "cefr": "A2",
+      "zh": "在……前面；在……面前",
+      "en": "in front of; before; ahead of",
+      "known": false,
+      "forms": [
+        "framför"
+      ]
+    },
+    {
+      "slug": "främling",
+      "lemma": "främling",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "陌生人",
+      "en": "stranger",
+      "known": false,
+      "forms": [
+        "främling",
+        "främlingen",
+        "främlingar",
+        "främlingarna"
+      ]
+    },
+    {
+      "slug": "framtid",
+      "lemma": "framtid",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "未来",
+      "en": "future",
+      "known": false,
+      "forms": [
+        "framtid",
+        "framtiden"
+      ]
+    },
+    {
+      "slug": "fri",
+      "lemma": "fri",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "自由的",
+      "en": "free",
+      "known": false,
+      "forms": [
+        "fri",
+        "fritt",
+        "fria",
+        "friare",
+        "friast",
+        "friaste"
+      ]
+    },
+    {
+      "slug": "fribelopp",
+      "lemma": "fribelopp",
+      "ordklass": "substantiv",
+      "cefr": "C1",
+      "zh": "免税额（可赚取而不影响助学金的金额上限）",
+      "en": "tax-free allowance amount",
+      "known": false,
+      "forms": [
+        "fribelopp",
+        "fribeloppet",
+        "fribeloppen"
+      ]
+    },
+    {
+      "slug": "frisk",
+      "lemma": "frisk",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "健康的；恢复健康的",
+      "en": "healthy; well; recovered",
+      "known": false,
+      "forms": [
+        "frisk",
+        "friskt",
+        "friska",
+        "friskare",
+        "friskast"
+      ]
+    },
+    {
+      "slug": "frivillig",
+      "lemma": "frivillig",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "自愿的；非强制的",
+      "en": "voluntary; optional",
+      "known": false,
+      "forms": [
+        "frivillig",
+        "frivilligt",
+        "frivilliga"
+      ]
+    },
+    {
+      "slug": "fru",
+      "lemma": "fru",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "妻子；夫人",
+      "en": "wife; Mrs",
+      "known": false,
+      "forms": [
+        "fru",
+        "frun",
+        "fruar",
+        "fruarna"
+      ]
+    },
+    {
+      "slug": "frukost",
+      "lemma": "frukost",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "早餐",
+      "en": "breakfast",
+      "known": false,
+      "forms": [
+        "frukost",
+        "frukosten",
+        "frukostar",
+        "frukostarna"
+      ]
+    },
+    {
+      "slug": "frukt",
+      "lemma": "frukt",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "水果",
+      "en": "fruit",
+      "known": false,
+      "forms": [
+        "frukt",
+        "frukten",
+        "frukter",
+        "frukterna"
+      ]
+    },
+    {
+      "slug": "funka",
+      "lemma": "funka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "行得通；好使（口语）",
+      "en": "to work (informal, = fungera)",
+      "known": false,
+      "forms": [
+        "funka",
+        "funkar",
+        "funkade",
+        "funkat"
+      ]
+    },
+    {
+      "slug": "gälla",
+      "lemma": "gälla",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "适用、生效",
+      "en": "to apply / be valid",
+      "known": false,
+      "forms": [
+        "gälla",
+        "gäller",
+        "gällde",
+        "gällt"
+      ]
+    },
+    {
+      "slug": "gammal",
+      "lemma": "gammal",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "老的；旧的",
+      "en": "old",
+      "known": false,
+      "forms": [
+        "gammal",
+        "gammalt",
+        "gamla",
+        "äldre",
+        "äldst"
+      ]
+    },
+    {
+      "slug": "gäng",
+      "lemma": "gäng",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "（犯罪）团伙，帮派；（口语）一群人",
+      "en": "gang; group (informal)",
+      "known": false,
+      "forms": [
+        "gäng",
+        "gänget",
+        "gängen"
+      ]
+    },
+    {
+      "slug": "ganska",
+      "lemma": "ganska",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "相当、挺",
+      "en": "quite, fairly, rather",
+      "known": false,
+      "forms": [
+        "ganska"
+      ]
+    },
+    {
+      "slug": "garantiplacering",
+      "lemma": "garantiplacering",
+      "ordklass": "substantiv",
+      "cefr": "B2",
+      "zh": "保证名额（所有首选幼儿园都满员时由市政分配的名额）",
+      "en": "guaranteed placement",
+      "known": false,
+      "forms": [
+        "garantiplacering",
+        "garantiplaceringen",
+        "garantiplaceringar",
+        "garantiplaceringarna"
+      ]
+    },
+    {
+      "slug": "gärna",
+      "lemma": "gärna",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "乐意地；愿意地；请（表示礼貌）",
+      "en": "gladly; willingly; with pleasure",
+      "known": false,
+      "forms": [
+        "gärna"
+      ]
+    },
+    {
+      "slug": "gas",
+      "lemma": "gas",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "天然气; 气体",
+      "en": "gas",
+      "known": false,
+      "forms": [
+        "gas",
+        "gasen",
+        "gaser",
+        "gaserna"
+      ]
+    },
+    {
+      "slug": "gås",
+      "lemma": "gås",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "鹅",
+      "en": "goose",
+      "known": false,
+      "forms": [
+        "gås",
+        "gåsen",
+        "gäss",
+        "gässen"
+      ]
+    },
+    {
+      "slug": "gäst",
+      "lemma": "gäst",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "客人",
+      "en": "guest",
+      "known": false,
+      "forms": [
+        "gäst",
+        "gästen",
+        "gäster",
+        "gästerna"
+      ]
+    },
+    {
+      "slug": "gata",
+      "lemma": "gata",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "街道；马路",
+      "en": "street",
+      "known": false,
+      "forms": [
+        "gata",
+        "gator",
+        "gatan",
+        "gatorna"
+      ]
+    },
+    {
+      "slug": "ge",
+      "lemma": "ge",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "给",
+      "en": "to give",
+      "known": false,
+      "forms": [
+        "ge",
+        "ger",
+        "gav",
+        "gett"
+      ]
+    },
+    {
+      "slug": "get",
+      "lemma": "get",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "山羊",
+      "en": "goat",
+      "known": false,
+      "forms": [
+        "get",
+        "geten",
+        "getter",
+        "getterna"
+      ]
+    },
+    {
+      "slug": "gift",
+      "lemma": "gift",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "已婚的",
+      "en": "married",
+      "known": false,
+      "forms": [
+        "gift",
+        "gifta"
+      ]
+    },
+    {
+      "slug": "giraff",
+      "lemma": "giraff",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "长颈鹿",
+      "en": "giraffe",
+      "known": false,
+      "forms": [
+        "giraff",
+        "giraffen",
+        "giraffer",
+        "girafferna"
+      ]
+    },
+    {
+      "slug": "glad",
+      "lemma": "glad",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "高兴的",
+      "en": "happy",
+      "known": false,
+      "forms": [
+        "glad",
+        "glatt",
+        "glada"
+      ]
+    },
+    {
+      "slug": "glas",
+      "lemma": "glas",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "杯子；玻璃杯",
+      "en": "glass",
+      "known": false,
+      "forms": [
+        "glas",
+        "glaset",
+        "glasen"
+      ]
+    },
+    {
+      "slug": "glass",
+      "lemma": "glass",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "冰淇淋",
+      "en": "ice cream",
+      "known": false,
+      "forms": [
+        "glass",
+        "glassen",
+        "glassar",
+        "glassarna"
+      ]
+    },
+    {
+      "slug": "glömd",
+      "lemma": "glömd",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "被遗忘的",
+      "en": "forgotten",
+      "known": false,
+      "forms": [
+        "glömd",
+        "glömt",
+        "glömda"
+      ]
+    },
+    {
+      "slug": "glömma",
+      "lemma": "glömma",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "忘记",
+      "en": "to forget",
+      "known": false,
+      "forms": [
+        "glömma",
+        "glömmer",
+        "glömde",
+        "glömt"
+      ]
+    },
+    {
+      "slug": "glupsk",
+      "lemma": "glupsk",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "贪吃的、贪婪的",
+      "en": "voracious / greedy",
+      "known": false,
+      "forms": [
+        "glupsk",
+        "glupska",
+        "glupskare",
+        "glupskast",
+        "glupskaste"
+      ]
+    },
+    {
+      "slug": "gluten",
+      "lemma": "gluten",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "麸质",
+      "en": "gluten",
+      "known": false,
+      "forms": [
+        "gluten",
+        "glutenet"
+      ]
+    },
+    {
+      "slug": "glutenfri",
+      "lemma": "glutenfri",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "无麸质的",
+      "en": "gluten-free",
+      "known": false,
+      "forms": [
+        "glutenfri",
+        "glutenfritt",
+        "glutenfria"
+      ]
+    },
+    {
+      "slug": "god",
+      "lemma": "god",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "好的、善良的",
+      "en": "good",
+      "known": false,
+      "forms": [
+        "god",
+        "gott",
+        "goda"
+      ]
+    },
+    {
+      "slug": "golv",
+      "lemma": "golv",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "地板；地面",
+      "en": "floor",
+      "known": false,
+      "forms": [
+        "golv",
+        "golvet",
+        "golven"
+      ]
+    },
+    {
+      "slug": "grå",
+      "lemma": "grå",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "灰色的",
+      "en": "grey",
+      "known": false,
+      "forms": [
+        "grå",
+        "grått",
+        "gråa"
+      ]
+    },
+    {
+      "slug": "grad",
+      "lemma": "grad",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "度（温度）；程度",
+      "en": "degree",
+      "known": false,
+      "forms": [
+        "grad",
+        "graden",
+        "grader",
+        "graderna"
+      ]
+    },
+    {
+      "slug": "grädde",
+      "lemma": "grädde",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "奶油；鲜奶油",
+      "en": "cream",
+      "known": false,
+      "forms": [
+        "grädde",
+        "grädden"
+      ]
+    },
+    {
+      "slug": "granne",
+      "lemma": "granne",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "邻居",
+      "en": "neighbor",
+      "known": false,
+      "forms": [
+        "granne",
+        "grannen",
+        "grannar",
+        "grannarna"
+      ]
+    },
+    {
+      "slug": "gräns",
+      "lemma": "gräns",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "限制、边界",
+      "en": "limit / border",
+      "known": false,
+      "forms": [
+        "gräns",
+        "gränsen",
+        "gränser",
+        "gränserna"
+      ]
+    },
+    {
+      "slug": "gratis",
+      "lemma": "gratis",
+      "ordklass": "adjektiv/adverb",
+      "cefr": "A1",
+      "zh": "免费的；免费地",
+      "en": "free (of charge); for free",
+      "known": false,
+      "forms": [
+        "gratis"
+      ]
+    },
+    {
+      "slug": "grattis",
+      "lemma": "grattis",
+      "ordklass": "interjektion",
+      "cefr": "A1",
+      "zh": "恭喜；生日快乐",
+      "en": "congratulations; happy birthday",
+      "known": false,
+      "forms": [
+        "grattis"
+      ]
+    },
+    {
+      "slug": "gräva",
+      "lemma": "gräva",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "挖",
+      "en": "to dig",
+      "known": false,
+      "forms": [
+        "gräva",
+        "gräv",
+        "gräver",
+        "grävde",
+        "grävt"
+      ]
+    },
+    {
+      "slug": "gravid",
+      "lemma": "gravid",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "怀孕的",
+      "en": "pregnant",
+      "known": false,
+      "forms": [
+        "gravid",
+        "gravida"
+      ]
+    },
+    {
+      "slug": "gren",
+      "lemma": "gren",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "树枝，枝杈",
+      "en": "branch",
+      "known": false,
+      "forms": [
+        "gren",
+        "grenar",
+        "grenen",
+        "grenarna"
+      ]
+    },
+    {
+      "slug": "grillad",
+      "lemma": "grillad",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "烤的；炙烤的",
+      "en": "grilled",
+      "known": false,
+      "forms": [
+        "grillad",
+        "grillat",
+        "grillade"
+      ]
+    },
+    {
+      "slug": "gripa",
+      "lemma": "gripa",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "抓捕，逮捕；抓住",
+      "en": "to seize, arrest; to grasp",
+      "known": false,
+      "forms": [
+        "gripa",
+        "griper",
+        "grep",
+        "gripit",
+        "greps",
+        "grip"
+      ]
+    },
+    {
+      "slug": "gris",
+      "lemma": "gris",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "猪",
+      "en": "pig",
+      "known": false,
+      "forms": [
+        "gris",
+        "grisen",
+        "grisar",
+        "grisarna"
+      ]
+    },
+    {
+      "slug": "groda",
+      "lemma": "groda",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "青蛙",
+      "en": "frog",
+      "known": false,
+      "forms": [
+        "groda",
+        "grodan",
+        "grodor",
+        "grodorna"
+      ]
+    },
+    {
+      "slug": "grön",
+      "lemma": "grön",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "绿色的",
+      "en": "green",
+      "known": false,
+      "forms": [
+        "grön",
+        "grönt",
+        "gröna",
+        "grönare",
+        "grönast",
+        "grönaste"
+      ]
+    },
+    {
+      "slug": "grönsak",
+      "lemma": "grönsak",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "蔬菜",
+      "en": "vegetable",
+      "known": false,
+      "forms": [
+        "grönsak",
+        "grönsaken",
+        "grönsaker",
+        "grönsakerna"
+      ]
+    },
+    {
+      "slug": "grundskola",
+      "lemma": "grundskola",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "小学/基础学校",
+      "en": "primary/compulsory school",
+      "known": false,
+      "forms": [
+        "grundskola",
+        "grundskolan",
+        "grundskolor",
+        "grundskolorna"
+      ]
+    },
+    {
+      "slug": "gul",
+      "lemma": "gul",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "黄色的",
+      "en": "yellow",
+      "known": false,
+      "forms": [
+        "gul",
+        "gult",
+        "gula",
+        "gulare",
+        "gulast",
+        "gulaste"
+      ]
+    },
+    {
+      "slug": "gullig",
+      "lemma": "gullig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "可爱的",
+      "en": "cute",
+      "known": false,
+      "forms": [
+        "gullig",
+        "gulligt",
+        "gulliga",
+        "gulligare",
+        "gulligast"
+      ]
+    },
+    {
+      "slug": "gurka",
+      "lemma": "gurka",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "黄瓜",
+      "en": "cucumber",
+      "known": false,
+      "forms": [
+        "gurka",
+        "gurkan",
+        "gurkor",
+        "gurkorna"
+      ]
+    },
+    {
+      "slug": "gymnasieelev",
+      "lemma": "gymnasieelev",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "高中生",
+      "en": "upper secondary student",
+      "known": false,
+      "forms": [
+        "gymnasieelev",
+        "gymnasieeleven",
+        "gymnasieelever",
+        "gymnasieeleverna"
+      ]
+    },
+    {
+      "slug": "haj",
+      "lemma": "haj",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "鲨鱼",
+      "en": "shark",
+      "known": false,
+      "forms": [
+        "haj",
+        "hajen",
+        "hajar",
+        "hajarna"
+      ]
+    },
+    {
+      "slug": "haka",
+      "lemma": "haka",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "下巴",
+      "en": "chin",
+      "known": false,
+      "forms": [
+        "haka",
+        "hakan",
+        "hakor",
+        "hakorna"
+      ]
+    },
+    {
+      "slug": "hålla",
+      "lemma": "hålla",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "拿着；保持；举行；同意（搭配）",
+      "en": "hold; keep; last; agree with (in phrases)",
+      "known": false,
+      "forms": [
+        "hålla",
+        "håller",
+        "höll",
+        "hållit",
+        "håll"
+      ]
+    },
+    {
+      "slug": "hållplats",
+      "lemma": "hållplats",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "站点；停靠站（公共汽车/有轨电车）",
+      "en": "stop (bus/tram stop)",
+      "known": false,
+      "forms": [
+        "hållplats",
+        "hållplatser",
+        "hållplatsen",
+        "hållplatserna"
+      ]
+    },
+    {
+      "slug": "hals",
+      "lemma": "hals",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "脖子；喉咙",
+      "en": "neck; throat",
+      "known": false,
+      "forms": [
+        "hals",
+        "halsen",
+        "halsar",
+        "halsarna"
+      ]
+    },
+    {
+      "slug": "hälsa",
+      "lemma": "hälsa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "打招呼；问候；代某人致意",
+      "en": "to greet; to say hello; to send regards",
+      "known": false,
+      "forms": [
+        "hälsa",
+        "hälsar",
+        "hälsade",
+        "hälsat"
+      ]
+    },
+    {
+      "slug": "halvera",
+      "lemma": "halvera",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "减半",
+      "en": "to halve",
+      "known": false,
+      "forms": [
+        "halvera",
+        "halverar",
+        "halverade",
+        "halverat"
+      ]
+    },
+    {
+      "slug": "hand",
+      "lemma": "hand",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "手",
+      "en": "hand",
+      "known": false,
+      "forms": [
+        "hand",
+        "handen",
+        "händer",
+        "händerna"
+      ]
+    },
+    {
+      "slug": "handla",
+      "lemma": "handla",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "购物；行动；关于",
+      "en": "shop; act; be about",
+      "known": false,
+      "forms": [
+        "handla",
+        "handlar",
+        "handlade",
+        "handlat"
+      ]
+    },
+    {
+      "slug": "handled",
+      "lemma": "handled",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "手腕",
+      "en": "wrist",
+      "known": false,
+      "forms": [
+        "handled",
+        "handleden",
+        "handleder",
+        "handlederna"
+      ]
+    },
+    {
+      "slug": "hänga",
+      "lemma": "hänga",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "挂；悬挂",
+      "en": "to hang",
+      "known": false,
+      "forms": [
+        "hänga",
+        "häng",
+        "hänger",
+        "hängde",
+        "hängt"
+      ]
+    },
+    {
+      "slug": "hård",
+      "lemma": "hård",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "硬的",
+      "en": "hard",
+      "known": false,
+      "forms": [
+        "hård",
+        "hårt",
+        "hårda",
+        "hårdare",
+        "hårdast",
+        "hårdaste"
+      ]
+    },
+    {
+      "slug": "hare",
+      "lemma": "hare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "野兔",
+      "en": "hare",
+      "known": false,
+      "forms": [
+        "hare",
+        "haren",
+        "harar",
+        "hararna"
+      ]
+    },
+    {
+      "slug": "härifrån",
+      "lemma": "härifrån",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "从这里；离这里",
+      "en": "from here",
+      "known": false,
+      "forms": [
+        "härifrån"
+      ]
+    },
+    {
+      "slug": "häst",
+      "lemma": "häst",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "马",
+      "en": "horse",
+      "known": false,
+      "forms": [
+        "häst",
+        "hästen",
+        "hästar",
+        "hästarna"
+      ]
+    },
+    {
+      "slug": "hata",
+      "lemma": "hata",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "恨 / 讨厌",
+      "en": "to hate",
+      "known": false,
+      "forms": [
+        "hata",
+        "hatar",
+        "hatade",
+        "hatat"
+      ]
+    },
+    {
+      "slug": "havredryck",
+      "lemma": "havredryck",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "燕麦奶（燕麦饮品）",
+      "en": "oat drink; oat milk",
+      "known": false,
+      "forms": [
+        "havredryck",
+        "havredrycken",
+        "havredrycker",
+        "havredrykerna"
+      ]
+    },
+    {
+      "slug": "hedersvåld",
+      "lemma": "hedersvåld",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "荣誉暴力（以家族荣誉为由的暴力）",
+      "en": "honour-based violence",
+      "known": false,
+      "forms": [
+        "hedersvåld",
+        "hedersvåldet",
+        "hedersvålden"
+      ]
+    },
+    {
+      "slug": "hektisk",
+      "lemma": "hektisk",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "繁忙的；紧张的",
+      "en": "hectic",
+      "known": false,
+      "forms": [
+        "hektisk",
+        "hektiskt",
+        "hektiska"
+      ]
+    },
+    {
+      "slug": "helg",
+      "lemma": "helg",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "周末；假日",
+      "en": "weekend; holiday",
+      "known": false,
+      "forms": [
+        "helg",
+        "helgen",
+        "helger",
+        "helgerna"
+      ]
+    },
+    {
+      "slug": "hellre",
+      "lemma": "hellre",
+      "ordklass": "adverb",
+      "cefr": "B1",
+      "zh": "宁愿；更想要；更喜欢",
+      "en": "rather; preferably; sooner",
+      "known": false,
+      "forms": [
+        "hellre",
+        "helst"
+      ]
+    },
+    {
+      "slug": "hemmafru",
+      "lemma": "hemmafru",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "家庭主妇",
+      "en": "housewife, stay-at-home mother",
+      "known": false,
+      "forms": [
+        "hemmafru",
+        "hemmafrun",
+        "hemmafruar",
+        "hemmagruarna"
+      ]
+    },
+    {
+      "slug": "herre",
+      "lemma": "herre",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "先生",
+      "en": "gentleman",
+      "known": false,
+      "forms": [
+        "herre",
+        "herren",
+        "herrar",
+        "herrarna"
+      ]
+    },
+    {
+      "slug": "het",
+      "lemma": "het",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "热的、烫的、辣的",
+      "en": "hot (temp), spicy",
+      "known": false,
+      "forms": [
+        "het",
+        "hett",
+        "heta",
+        "hetare",
+        "hetast",
+        "hetaste"
+      ]
+    },
+    {
+      "slug": "hitta",
+      "lemma": "hitta",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "找到；发现",
+      "en": "to find / discover",
+      "known": false,
+      "forms": [
+        "hitta",
+        "hittar",
+        "hittade",
+        "hittat"
+      ]
+    },
+    {
+      "slug": "hittelön",
+      "lemma": "hittelön",
+      "ordklass": "substantiv",
+      "cefr": "C1",
+      "zh": "拾得物奖金",
+      "en": "finder's reward",
+      "known": false,
+      "forms": [
+        "hittelön",
+        "hittelönen",
+        "hittelöner",
+        "hittelönerna"
+      ]
+    },
+    {
+      "slug": "hjälpa",
+      "lemma": "hjälpa",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "帮助",
+      "en": "to help",
+      "known": false,
+      "forms": [
+        "hjälpa",
+        "hjälper",
+        "hjälpte",
+        "hjälpt",
+        "hjälp"
+      ]
+    },
+    {
+      "slug": "hjälpsam",
+      "lemma": "hjälpsam",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "乐于助人的；热心的",
+      "en": "helpful; willing to help",
+      "known": false,
+      "forms": [
+        "hjälpsam",
+        "hjälpsamt",
+        "hjälpsamma"
+      ]
+    },
+    {
+      "slug": "hjärtklappning",
+      "lemma": "hjärtklappning",
+      "ordklass": "substantiv",
+      "cefr": "C1",
+      "zh": "心悸",
+      "en": "heart palpitation",
+      "known": false,
+      "forms": [
+        "hjärtklappning",
+        "hjärtklappningen",
+        "hjärtklappningar",
+        "hjärtklappningarna"
+      ]
+    },
+    {
+      "slug": "hö",
+      "lemma": "hö",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "干草",
+      "en": "hay",
+      "known": false,
+      "forms": [
+        "hö",
+        "höet"
+      ]
+    },
+    {
+      "slug": "höft",
+      "lemma": "höft",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "髋部",
+      "en": "hip",
+      "known": false,
+      "forms": [
+        "höft",
+        "höften",
+        "höfter",
+        "höfterna"
+      ]
+    },
+    {
+      "slug": "hög",
+      "lemma": "hög",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "高的；高大的",
+      "en": "high, tall",
+      "known": false,
+      "forms": [
+        "hög",
+        "högt",
+        "höga",
+        "högre",
+        "högst",
+        "högsta"
+      ]
+    },
+    {
+      "slug": "höger",
+      "lemma": "höger",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "右；右边",
+      "en": "right",
+      "known": false,
+      "forms": [
+        "höger"
+      ]
+    },
+    {
+      "slug": "högtid",
+      "lemma": "högtid",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "节日, 节庆",
+      "en": "festival, holiday, high day",
+      "known": false,
+      "forms": [
+        "högtid",
+        "högtiden",
+        "högtider",
+        "högtiderna"
+      ]
+    },
+    {
+      "slug": "höja",
+      "lemma": "höja",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "提高；举起；加（息）",
+      "en": "to raise; to increase",
+      "known": false,
+      "forms": [
+        "höja",
+        "höjer",
+        "höjde",
+        "höjt",
+        "höj"
+      ]
+    },
+    {
+      "slug": "höna",
+      "lemma": "höna",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "母鸡",
+      "en": "hen",
+      "known": false,
+      "forms": [
+        "höna",
+        "hönan",
+        "hönor",
+        "hönorna"
+      ]
+    },
+    {
+      "slug": "hoppa",
+      "lemma": "hoppa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "跳",
+      "en": "to jump",
+      "known": false,
+      "forms": [
+        "hoppa",
+        "hoppar",
+        "hoppade",
+        "hoppat"
+      ]
+    },
+    {
+      "slug": "hoppas",
+      "lemma": "hoppas",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "希望",
+      "en": "to hope",
+      "known": false,
+      "forms": [
+        "hoppas",
+        "hoppades",
+        "hoppats"
+      ]
+    },
+    {
+      "slug": "hörn",
+      "lemma": "hörn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "角落；转角",
+      "en": "corner",
+      "known": false,
+      "forms": [
+        "hörn",
+        "hörnet",
+        "hörnen"
+      ]
+    },
+    {
+      "slug": "höst",
+      "lemma": "höst",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "秋天；秋季",
+      "en": "autumn; fall",
+      "known": false,
+      "forms": [
+        "höst",
+        "hösten",
+        "höstar",
+        "höstarna"
+      ]
+    },
+    {
+      "slug": "hov",
+      "lemma": "hov",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "宫廷；王室；蹄子（马蹄）",
+      "en": "royal court; hoof",
+      "known": false,
+      "forms": [
+        "hov",
+        "hovet",
+        "hoven"
+      ]
+    },
+    {
+      "slug": "hud",
+      "lemma": "hud",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "皮肤",
+      "en": "skin",
+      "known": false,
+      "forms": [
+        "hud",
+        "huden",
+        "hudar",
+        "hudarna"
+      ]
+    },
+    {
+      "slug": "hund",
+      "lemma": "hund",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "狗",
+      "en": "dog",
+      "known": false,
+      "forms": [
+        "hund",
+        "hunden",
+        "hundar",
+        "hundarna"
+      ]
+    },
+    {
+      "slug": "hungrig",
+      "lemma": "hungrig",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "饥饿的",
+      "en": "hungry",
+      "known": false,
+      "forms": [
+        "hungrig",
+        "hungrigt",
+        "hungriga",
+        "hungrigare",
+        "hungrigast"
+      ]
+    },
+    {
+      "slug": "hus",
+      "lemma": "hus",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "房子；楼房；建筑",
+      "en": "house, building",
+      "known": false,
+      "forms": [
+        "hus",
+        "huset",
+        "husen"
+      ]
+    },
+    {
+      "slug": "hylla",
+      "lemma": "hylla",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "架子；搁板",
+      "en": "shelf",
+      "known": false,
+      "forms": [
+        "hylla",
+        "hyllan",
+        "hyllor",
+        "hyllorna"
+      ]
+    },
+    {
+      "slug": "igelkott",
+      "lemma": "igelkott",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "刺猬",
+      "en": "hedgehog",
+      "known": false,
+      "forms": [
+        "igelkott",
+        "igelkotten",
+        "igelkottar",
+        "igelkottarna"
+      ]
+    },
+    {
+      "slug": "inblandad",
+      "lemma": "inblandad",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "被卷入的，介入的",
+      "en": "involved, implicated",
+      "known": false,
+      "forms": [
+        "inblandad",
+        "inblandat",
+        "inblandade"
+      ]
+    },
+    {
+      "slug": "ingen",
+      "lemma": "ingen",
+      "ordklass": "pronomen",
+      "cefr": "A1",
+      "zh": "没有人；没有任何（东西）",
+      "en": "no one; nobody; none; no",
+      "known": false,
+      "forms": [
+        "ingen",
+        "en-genus",
+        "ett-genus"
+      ]
+    },
+    {
+      "slug": "ingenjör",
+      "lemma": "ingenjör",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "工程师",
+      "en": "engineer",
+      "known": false,
+      "forms": [
+        "ingenjör",
+        "ingenjören",
+        "ingenjörer",
+        "ingenjörerna"
+      ]
+    },
+    {
+      "slug": "ingenting",
+      "lemma": "ingenting",
+      "ordklass": "pronomen",
+      "cefr": "A2",
+      "zh": "什么都没有；没有任何东西",
+      "en": "nothing",
+      "known": false,
+      "forms": [
+        "ingenting"
+      ]
+    },
+    {
+      "slug": "inne",
+      "lemma": "inne",
+      "ordklass": "adverb",
+      "cefr": "A1",
+      "zh": "里面；在室内",
+      "en": "inside; indoors",
+      "known": false,
+      "forms": [
+        "inne"
+      ]
+    },
+    {
+      "slug": "innebära",
+      "lemma": "innebära",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "意味着；意指；包含（含义）",
+      "en": "to mean, to imply, to entail",
+      "known": false,
+      "forms": [
+        "innebära",
+        "innebär",
+        "innebar",
+        "inneburit"
+      ]
+    },
+    {
+      "slug": "innehålla",
+      "lemma": "innehålla",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "包含",
+      "en": "to contain",
+      "known": false,
+      "forms": [
+        "innehålla",
+        "innehåller",
+        "innehöll",
+        "innehållit"
+      ]
+    },
+    {
+      "slug": "intensiv",
+      "lemma": "intensiv",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "强烈的；充实的；密集的",
+      "en": "intense; intensive",
+      "known": false,
+      "forms": [
+        "intensiv",
+        "intensivt",
+        "intensiva",
+        "intensivare",
+        "intensivast"
+      ]
+    },
+    {
+      "slug": "intervju",
+      "lemma": "intervju",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "面试、采访",
+      "en": "interview",
+      "known": false,
+      "forms": [
+        "intervju",
+        "intervjun",
+        "intervjuer",
+        "intervjuerna"
+      ]
+    },
+    {
+      "slug": "intressant",
+      "lemma": "intressant",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "有趣的",
+      "en": "interesting",
+      "known": false,
+      "forms": [
+        "intressant",
+        "intressanta"
+      ]
+    },
+    {
+      "slug": "invånare",
+      "lemma": "invånare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "居民",
+      "en": "inhabitant",
+      "known": false,
+      "forms": [
+        "invånare",
+        "invånaren",
+        "invånarna"
+      ]
+    },
+    {
+      "slug": "invandrare",
+      "lemma": "invandrare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "移民",
+      "en": "immigrant",
+      "known": false,
+      "forms": [
+        "invandrare",
+        "invandraren",
+        "invandrarna"
+      ]
+    },
+    {
+      "slug": "jämställdhet",
+      "lemma": "jämställdhet",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "性别平等",
+      "en": "gender equality",
+      "known": false,
+      "forms": [
+        "jämställdhet",
+        "jämställdheten"
+      ]
+    },
+    {
+      "slug": "jobb",
+      "lemma": "jobb",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "工作/活儿（口语）",
+      "en": "job, work (colloquial)",
+      "known": false,
+      "forms": [
+        "jobb",
+        "jobbet",
+        "jobben"
+      ]
+    },
+    {
+      "slug": "jobba",
+      "lemma": "jobba",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "工作（口语）",
+      "en": "to work (colloquial)",
+      "known": false,
+      "forms": [
+        "jobba",
+        "jobbar",
+        "jobbade",
+        "jobbat"
+      ]
+    },
+    {
+      "slug": "jord",
+      "lemma": "jord",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "地球；土壤；土地",
+      "en": "earth; soil; ground",
+      "known": false,
+      "forms": [
+        "jord",
+        "jorden"
+      ]
+    },
+    {
+      "slug": "jordgubbe",
+      "lemma": "jordgubbe",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "草莓",
+      "en": "strawberry",
+      "known": false,
+      "forms": [
+        "jordgubbe",
+        "jordgubben",
+        "jordgubbar",
+        "jordgubbarna"
+      ]
+    },
+    {
+      "slug": "ju",
+      "lemma": "ju",
+      "ordklass": "satsadverbial",
+      "cefr": "A2",
+      "zh": "本来就；你也知道（情态副词）",
+      "en": "after all; you know; of course (modal particle)",
+      "known": false,
+      "forms": [
+        "ju"
+      ]
+    },
+    {
+      "slug": "juice",
+      "lemma": "juice",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "果汁",
+      "en": "juice",
+      "known": false,
+      "forms": [
+        "juice",
+        "juicen",
+        "juicer",
+        "juicerna"
+      ]
+    },
+    {
+      "slug": "just",
+      "lemma": "just",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "正好；就在；恰恰",
+      "en": "just / right at that moment / exactly",
+      "known": false,
+      "forms": [
+        "just"
+      ]
+    },
+    {
+      "slug": "kafé",
+      "lemma": "kafé",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "咖啡馆",
+      "en": "café",
+      "known": false,
+      "forms": [
+        "kafé",
+        "kaf",
+        "kaféet",
+        "kaféer",
+        "kaféerna"
+      ]
+    },
+    {
+      "slug": "kaka",
+      "lemma": "kaka",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "饼干、蛋糕",
+      "en": "cookie, cake, biscuit",
+      "known": false,
+      "forms": [
+        "kaka",
+        "kakan",
+        "kakor",
+        "kakorna"
+      ]
+    },
+    {
+      "slug": "kall",
+      "lemma": "kall",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "冷的；寒冷的",
+      "en": "cold",
+      "known": false,
+      "forms": [
+        "kall",
+        "kallt",
+        "kalla",
+        "kallare",
+        "kallast"
+      ]
+    },
+    {
+      "slug": "kamel",
+      "lemma": "kamel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "骆驼",
+      "en": "camel",
+      "known": false,
+      "forms": [
+        "kamel",
+        "kamelen",
+        "kameler",
+        "kamelerna"
+      ]
+    },
+    {
+      "slug": "kämpa",
+      "lemma": "kämpa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "奋斗/斗争",
+      "en": "to fight, to struggle",
+      "known": false,
+      "forms": [
+        "kämpa",
+        "kämpar",
+        "kämpade",
+        "kämpat"
+      ]
+    },
+    {
+      "slug": "kamrat",
+      "lemma": "kamrat",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "伙伴 / 同伴",
+      "en": "comrade / mate / friend",
+      "known": false,
+      "forms": [
+        "kamrat",
+        "kamraten",
+        "kamrater",
+        "kamraterna"
+      ]
+    },
+    {
+      "slug": "känd",
+      "lemma": "känd",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "有名的",
+      "en": "famous, known",
+      "known": false,
+      "forms": [
+        "känd",
+        "känt",
+        "kända",
+        "kändast"
+      ]
+    },
+    {
+      "slug": "kändis",
+      "lemma": "kändis",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "名人, 明星",
+      "en": "celebrity",
+      "known": false,
+      "forms": [
+        "kändis",
+        "kändisen",
+        "kändisar",
+        "kändisarna"
+      ]
+    },
+    {
+      "slug": "kanelbulle",
+      "lemma": "kanelbulle",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "肉桂卷",
+      "en": "cinnamon bun",
+      "known": false,
+      "forms": [
+        "kanelbulle",
+        "kanelbullen",
+        "kanelbullar",
+        "kanelbullarna"
+      ]
+    },
+    {
+      "slug": "kanin",
+      "lemma": "kanin",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "兔子",
+      "en": "rabbit",
+      "known": false,
+      "forms": [
+        "kanin",
+        "kaninen",
+        "kaniner",
+        "kaninerna"
+      ]
+    },
+    {
+      "slug": "känslig",
+      "lemma": "känslig",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "敏感的",
+      "en": "sensitive",
+      "known": false,
+      "forms": [
+        "känslig",
+        "känsligt",
+        "känsliga",
+        "känsligare",
+        "känsligast",
+        "känsligaste"
+      ]
+    },
+    {
+      "slug": "kardemummabulle",
+      "lemma": "kardemummabulle",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "小豆蔻卷",
+      "en": "cardamom bun",
+      "known": false,
+      "forms": [
+        "kardemummabulle",
+        "kardemummabullen",
+        "kardemummabullar",
+        "kardemummabullarna"
+      ]
+    },
+    {
+      "slug": "kardemummate",
+      "lemma": "kardemummate",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "小豆蔻茶",
+      "en": "cardamom tea",
+      "known": false,
+      "forms": [
+        "kardemummate",
+        "kardemummatet",
+        "kardemummateer",
+        "kardemummateerna"
+      ]
+    },
+    {
+      "slug": "kärnvapen",
+      "lemma": "kärnvapen",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "核武器",
+      "en": "nuclear weapon",
+      "known": false,
+      "forms": [
+        "kärnvapen",
+        "kärnvapnet",
+        "kärnvapnen"
+      ]
+    },
+    {
+      "slug": "karta",
+      "lemma": "karta",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "地图",
+      "en": "map",
+      "known": false,
+      "forms": [
+        "karta",
+        "kartan",
+        "kartor",
+        "kartorna"
+      ]
+    },
+    {
+      "slug": "kassa",
+      "lemma": "kassa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "收银台；收银机",
+      "en": "checkout; cash register",
+      "known": false,
+      "forms": [
+        "kassa",
+        "kassan",
+        "kassor",
+        "kassorna"
+      ]
+    },
+    {
+      "slug": "kasse",
+      "lemma": "kasse",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "购物袋",
+      "en": "shopping bag",
+      "known": false,
+      "forms": [
+        "kasse",
+        "kassen",
+        "kassar",
+        "kassarna"
+      ]
+    },
+    {
+      "slug": "kassör",
+      "lemma": "kassör",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "收银员",
+      "en": "cashier",
+      "known": false,
+      "forms": [
+        "kassör",
+        "kassören",
+        "kassörer",
+        "kassörerna"
+      ]
+    },
+    {
+      "slug": "katt",
+      "lemma": "katt",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "猫",
+      "en": "cat",
+      "known": false,
+      "forms": [
+        "katt",
+        "katten",
+        "katter",
+        "katterna"
+      ]
+    },
+    {
+      "slug": "kille",
+      "lemma": "kille",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "小伙子、男孩",
+      "en": "guy",
+      "known": false,
+      "forms": [
+        "kille",
+        "killen",
+        "killar",
+        "killarna"
+      ]
+    },
+    {
+      "slug": "kind",
+      "lemma": "kind",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "脸颊",
+      "en": "cheek",
+      "known": false,
+      "forms": [
+        "kind",
+        "kinden",
+        "kinder",
+        "kinderna"
+      ]
+    },
+    {
+      "slug": "klädskåp",
+      "lemma": "klädskåp",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "衣柜",
+      "en": "wardrobe; closet",
+      "known": false,
+      "forms": [
+        "klädskåp",
+        "klädskåpet",
+        "klädskåpen"
+      ]
+    },
+    {
+      "slug": "klar",
+      "lemma": "klar",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "完成的；清楚的；就绪的",
+      "en": "finished; clear; ready",
+      "known": false,
+      "forms": [
+        "klar",
+        "klart",
+        "klara",
+        "klarare",
+        "klarast"
+      ]
+    },
+    {
+      "slug": "klara",
+      "lemma": "klara",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "应付；通过；搞定",
+      "en": "manage; pass; handle; cope",
+      "known": false,
+      "forms": [
+        "klara",
+        "klarar",
+        "klarade",
+        "klarat"
+      ]
+    },
+    {
+      "slug": "klass",
+      "lemma": "klass",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "班级",
+      "en": "class",
+      "known": false,
+      "forms": [
+        "klass",
+        "klassen",
+        "klasser",
+        "klasserna"
+      ]
+    },
+    {
+      "slug": "klättra",
+      "lemma": "klättra",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "爬/攀登",
+      "en": "to climb",
+      "known": false,
+      "forms": [
+        "klättra",
+        "klättrar",
+        "klättrade",
+        "klättrat"
+      ]
+    },
+    {
+      "slug": "klia",
+      "lemma": "klia",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "发痒/痒",
+      "en": "to itch",
+      "known": false,
+      "forms": [
+        "klia",
+        "kliar",
+        "kliade",
+        "kliat"
+      ]
+    },
+    {
+      "slug": "klimat",
+      "lemma": "klimat",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "气候",
+      "en": "climate",
+      "known": false,
+      "forms": [
+        "klimat",
+        "klimatet",
+        "klimaten"
+      ]
+    },
+    {
+      "slug": "klimataktivist",
+      "lemma": "klimataktivist",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "气候活动家",
+      "en": "climate activist",
+      "known": false,
+      "forms": [
+        "klimataktivist",
+        "klimataktivisten",
+        "klimataktivister",
+        "klimataktivisterna"
+      ]
+    },
+    {
+      "slug": "klimatförändring",
+      "lemma": "klimatförändring",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "气候变化",
+      "en": "climate change",
+      "known": false,
+      "forms": [
+        "klimatförändring",
+        "klimatförändringen",
+        "klimatförändringar",
+        "klimatförändringarna"
+      ]
+    },
+    {
+      "slug": "klimatmål",
+      "lemma": "klimatmål",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "气候目标",
+      "en": "climate goal, climate target",
+      "known": false,
+      "forms": [
+        "klimatmål",
+        "klimatmålet",
+        "klimatmålen"
+      ]
+    },
+    {
+      "slug": "klocka",
+      "lemma": "klocka",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "钟/表;点钟",
+      "en": "clock/watch",
+      "known": false,
+      "forms": [
+        "klocka",
+        "klockan",
+        "klockor",
+        "klockorna"
+      ]
+    },
+    {
+      "slug": "klok",
+      "lemma": "klok",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "明智的；有智慧的",
+      "en": "wise; sensible; clever",
+      "known": false,
+      "forms": [
+        "klok",
+        "klokt",
+        "kloka",
+        "klokare",
+        "klokast"
+      ]
+    },
+    {
+      "slug": "klubblag",
+      "lemma": "klubblag",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "俱乐部球队",
+      "en": "club team",
+      "known": false,
+      "forms": [
+        "klubblag",
+        "klubblaget",
+        "klubblagen"
+      ]
+    },
+    {
+      "slug": "knä",
+      "lemma": "knä",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "膝盖",
+      "en": "knee",
+      "known": false,
+      "forms": [
+        "knä",
+        "knäet",
+        "knän",
+        "knäna"
+      ]
+    },
+    {
+      "slug": "ko",
+      "lemma": "ko",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "牛；奶牛",
+      "en": "cow",
+      "known": false,
+      "forms": [
+        "ko",
+        "kon",
+        "kor",
+        "korna"
+      ]
+    },
+    {
+      "slug": "kod",
+      "lemma": "kod",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "码；代码；密码",
+      "en": "code",
+      "known": false,
+      "forms": [
+        "kod",
+        "koden",
+        "koder",
+        "koderna"
+      ]
+    },
+    {
+      "slug": "koffein",
+      "lemma": "koffein",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "咖啡因",
+      "en": "caffeine",
+      "known": false,
+      "forms": [
+        "koffein",
+        "koffeinet"
+      ]
+    },
+    {
+      "slug": "kollega",
+      "lemma": "kollega",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "同事",
+      "en": "colleague",
+      "known": false,
+      "forms": [
+        "kollega",
+        "kollegan",
+        "kollegor",
+        "kollegorna"
+      ]
+    },
+    {
+      "slug": "kollektivtrafik",
+      "lemma": "kollektivtrafik",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "公共交通",
+      "en": "public transport",
+      "known": false,
+      "forms": [
+        "kollektivtrafik",
+        "kollektivtrafiken"
+      ]
+    },
+    {
+      "slug": "kommun",
+      "lemma": "kommun",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "市/市政",
+      "en": "municipality",
+      "known": false,
+      "forms": [
+        "kommun",
+        "kommunen",
+        "kommuner",
+        "kommunerna"
+      ]
+    },
+    {
+      "slug": "kompis",
+      "lemma": "kompis",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "好友、伙伴",
+      "en": "buddy",
+      "known": false,
+      "forms": [
+        "kompis",
+        "kompisen",
+        "kompisar",
+        "kompisarna"
+      ]
+    },
+    {
+      "slug": "komplicerad",
+      "lemma": "komplicerad",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "复杂的",
+      "en": "complicated",
+      "known": false,
+      "forms": [
+        "komplicerad",
+        "komplicerat",
+        "komplicerade"
+      ]
+    },
+    {
+      "slug": "konditori",
+      "lemma": "konditori",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "糕点咖啡馆",
+      "en": "pastry café; konditori",
+      "known": false,
+      "forms": [
+        "konditori",
+        "konditoriet",
+        "konditorier",
+        "konditorerna"
+      ]
+    },
+    {
+      "slug": "konsert",
+      "lemma": "konsert",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "音乐会；演唱会",
+      "en": "concert",
+      "known": false,
+      "forms": [
+        "konsert",
+        "konserten",
+        "konserter",
+        "konserterna"
+      ]
+    },
+    {
+      "slug": "kontant",
+      "lemma": "kontant",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "现金；用现金",
+      "en": "cash; in cash",
+      "known": false,
+      "forms": [
+        "kontant"
+      ]
+    },
+    {
+      "slug": "kontor",
+      "lemma": "kontor",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "办公室",
+      "en": "office",
+      "known": false,
+      "forms": [
+        "kontor",
+        "kontoret",
+        "kontoren"
+      ]
+    },
+    {
+      "slug": "kopp",
+      "lemma": "kopp",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "杯子（有耳朵的杯）",
+      "en": "cup",
+      "known": false,
+      "forms": [
+        "kopp",
+        "koppen",
+        "koppar",
+        "kopparna"
+      ]
+    },
+    {
+      "slug": "köra",
+      "lemma": "köra",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "开（车）, 驾驶",
+      "en": "to drive",
+      "known": false,
+      "forms": [
+        "köra",
+        "kör",
+        "körde",
+        "kört"
+      ]
+    },
+    {
+      "slug": "kors",
+      "lemma": "kors",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "十字；十字架",
+      "en": "cross",
+      "known": false,
+      "forms": [
+        "kors",
+        "korset",
+        "korsen"
+      ]
+    },
+    {
+      "slug": "korsning",
+      "lemma": "korsning",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "十字路口；交叉口",
+      "en": "intersection / crossroads",
+      "known": false,
+      "forms": [
+        "korsning",
+        "korsningen",
+        "korsningar",
+        "korsningarna"
+      ]
+    },
+    {
+      "slug": "kort",
+      "lemma": "kort",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "卡；银行卡；明信片",
+      "en": "card",
+      "known": false,
+      "forms": [
+        "kort",
+        "kortet",
+        "korten"
+      ]
+    },
+    {
+      "slug": "korv",
+      "lemma": "korv",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "香肠",
+      "en": "sausage",
+      "known": false,
+      "forms": [
+        "korv",
+        "korven",
+        "korvar",
+        "korvarna"
+      ]
+    },
+    {
+      "slug": "kött",
+      "lemma": "kött",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "肉",
+      "en": "meat",
+      "known": false,
+      "forms": [
+        "kött",
+        "köttet"
+      ]
+    },
+    {
+      "slug": "köttbulle",
+      "lemma": "köttbulle",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "肉丸",
+      "en": "meatball",
+      "known": false,
+      "forms": [
+        "köttbulle",
+        "köttbullen",
+        "köttbullar",
+        "köttbullarna"
+      ]
+    },
+    {
+      "slug": "kraftig",
+      "lemma": "kraftig",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "强劲的；大量的；结实的",
+      "en": "strong; heavy; powerful; sturdy",
+      "known": false,
+      "forms": [
+        "kraftig",
+        "kraftigt",
+        "kraftiga",
+        "kraftigare",
+        "kraftigast"
+      ]
+    },
+    {
+      "slug": "kram",
+      "lemma": "kram",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "拥抱；（信末问候语）抱抱",
+      "en": "hug; (letter/SMS closing) hugs",
+      "known": false,
+      "forms": [
+        "kram",
+        "kramen",
+        "kramar",
+        "kramarna"
+      ]
+    },
+    {
+      "slug": "kramgo",
+      "lemma": "kramgo",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "爱抱抱的；亲人的；惹人搂抱的",
+      "en": "cuddly; affectionate; huggable",
+      "known": false,
+      "forms": [
+        "kramgo",
+        "kramgott",
+        "kramgoa",
+        "kramgoda"
+      ]
+    },
+    {
+      "slug": "kreativ",
+      "lemma": "kreativ",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "有创意的",
+      "en": "creative",
+      "known": false,
+      "forms": [
+        "kreativ",
+        "kreativt",
+        "kreativa"
+      ]
+    },
+    {
+      "slug": "krig",
+      "lemma": "krig",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "战争",
+      "en": "war",
+      "known": false,
+      "forms": [
+        "krig",
+        "kriget",
+        "krigen"
+      ]
+    },
+    {
+      "slug": "kriga",
+      "lemma": "kriga",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "打仗，作战",
+      "en": "to wage war, to fight (a war)",
+      "known": false,
+      "forms": [
+        "kriga",
+        "krigar",
+        "krigade",
+        "krigat"
+      ]
+    },
+    {
+      "slug": "kris",
+      "lemma": "kris",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "危机",
+      "en": "crisis",
+      "known": false,
+      "forms": [
+        "kris",
+        "krisen",
+        "kriser",
+        "kriserna"
+      ]
+    },
+    {
+      "slug": "krispig",
+      "lemma": "krispig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "脆的",
+      "en": "crispy, crunchy",
+      "known": false,
+      "forms": [
+        "krispig",
+        "krispigt",
+        "krispiga",
+        "krispigare",
+        "krispigast",
+        "krispigaste"
+      ]
+    },
+    {
+      "slug": "krocka",
+      "lemma": "krocka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "碰撞，相撞",
+      "en": "to crash, to collide",
+      "known": false,
+      "forms": [
+        "krocka",
+        "krockar",
+        "krockade",
+        "krockat"
+      ]
+    },
+    {
+      "slug": "krokodil",
+      "lemma": "krokodil",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "鳄鱼",
+      "en": "crocodile",
+      "known": false,
+      "forms": [
+        "krokodil",
+        "krokodilen",
+        "krokodiler",
+        "krokodilerna"
+      ]
+    },
+    {
+      "slug": "krona",
+      "lemma": "krona",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "克朗（瑞典货币）",
+      "en": "Swedish krona",
+      "known": false,
+      "forms": [
+        "krona",
+        "kronan",
+        "kronor",
+        "kronorna"
+      ]
+    },
+    {
+      "slug": "kronisk",
+      "lemma": "kronisk",
+      "ordklass": "adjektiv",
+      "cefr": "B2",
+      "zh": "慢性的",
+      "en": "chronic",
+      "known": false,
+      "forms": [
+        "kronisk",
+        "kroniskt",
+        "kroniska"
+      ]
+    },
+    {
+      "slug": "kronprinsessa",
+      "lemma": "kronprinsessa",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "王储妃，王太女",
+      "en": "crown princess",
+      "known": false,
+      "forms": [
+        "kronprinsessa",
+        "kronprinsessor",
+        "kronprinsessan",
+        "kronprinsessorna"
+      ]
+    },
+    {
+      "slug": "krukväxt",
+      "lemma": "krukväxt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "盆栽植物",
+      "en": "potted plant; houseplant",
+      "known": false,
+      "forms": [
+        "krukväxt",
+        "krukväxten",
+        "krukväxter",
+        "krukväxterna"
+      ]
+    },
+    {
+      "slug": "kudde",
+      "lemma": "kudde",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "枕头；靠垫",
+      "en": "pillow; cushion",
+      "known": false,
+      "forms": [
+        "kudde",
+        "kudden",
+        "kuddar",
+        "kuddarna"
+      ]
+    },
+    {
+      "slug": "kul",
+      "lemma": "kul",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "有趣的、好玩的（口语）",
+      "en": "fun, cool (colloquial)",
+      "known": false,
+      "forms": [
+        "kul"
+      ]
+    },
+    {
+      "slug": "kur",
+      "lemma": "kur",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "疗程",
+      "en": "course of treatment",
+      "known": false,
+      "forms": [
+        "kur",
+        "kuren",
+        "kurer",
+        "kurerna"
+      ]
+    },
+    {
+      "slug": "kurs",
+      "lemma": "kurs",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "课程",
+      "en": "course",
+      "known": false,
+      "forms": [
+        "kurs",
+        "kursen",
+        "kurser",
+        "kurserna"
+      ]
+    },
+    {
+      "slug": "kusin",
+      "lemma": "kusin",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "表/堂兄弟姐妹",
+      "en": "cousin",
+      "known": false,
+      "forms": [
+        "kusin",
+        "kusinen",
+        "kusiner",
+        "kusinerna"
+      ]
+    },
+    {
+      "slug": "kvar",
+      "lemma": "kvar",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "留下；剩下；仍然在原处",
+      "en": "left; remaining; still there",
+      "known": false,
+      "forms": [
+        "kvar"
+      ]
+    },
+    {
+      "slug": "kvinna",
+      "lemma": "kvinna",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "女人",
+      "en": "woman",
+      "known": false,
+      "forms": [
+        "kvinna",
+        "kvinnan",
+        "kvinnor",
+        "kvinnorna"
+      ]
+    },
+    {
+      "slug": "kvitto",
+      "lemma": "kvitto",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "收据",
+      "en": "receipt",
+      "known": false,
+      "forms": [
+        "kvitto",
+        "kvittot",
+        "kvitton",
+        "kvittona"
+      ]
+    },
+    {
+      "slug": "kyckling",
+      "lemma": "kyckling",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "鸡肉、鸡",
+      "en": "chicken",
+      "known": false,
+      "forms": [
+        "kyckling",
+        "kycklingen",
+        "kycklingar",
+        "kycklingarna"
+      ]
+    },
+    {
+      "slug": "låda",
+      "lemma": "låda",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "抽屉 / 盒子",
+      "en": "drawer / box",
+      "known": false,
+      "forms": [
+        "låda",
+        "lådan",
+        "lådor",
+        "lådorna"
+      ]
+    },
+    {
+      "slug": "lag",
+      "lemma": "lag",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "队伍；法律",
+      "en": "team; law",
+      "known": false,
+      "forms": [
+        "lag",
+        "laget",
+        "lagen"
+      ]
+    },
+    {
+      "slug": "laga",
+      "lemma": "laga",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "做（饭）；修理",
+      "en": "to cook; to repair/fix",
+      "known": false,
+      "forms": [
+        "laga",
+        "lagar",
+        "lagade",
+        "lagat"
+      ]
+    },
+    {
+      "slug": "läge",
+      "lemma": "läge",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "情况；位置",
+      "en": "situation; position",
+      "known": false,
+      "forms": [
+        "läge",
+        "läget",
+        "lägen",
+        "lägena"
+      ]
+    },
+    {
+      "slug": "lägga",
+      "lemma": "lägga",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "放；搁置；躺下（lägga sig）",
+      "en": "to lay / put / place",
+      "known": false,
+      "forms": [
+        "lägga",
+        "lägger",
+        "lade",
+        "lagt"
+      ]
+    },
+    {
+      "slug": "lagkamrat",
+      "lemma": "lagkamrat",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "队友",
+      "en": "teammate",
+      "known": false,
+      "forms": [
+        "lagkamrat",
+        "lagkamraten",
+        "lagkamrater",
+        "lagkamraterna"
+      ]
+    },
+    {
+      "slug": "läkare",
+      "lemma": "läkare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "医生",
+      "en": "doctor, physician",
+      "known": false,
+      "forms": [
+        "läkare",
+        "läkaren",
+        "läkarna"
+      ]
+    },
+    {
+      "slug": "laktos",
+      "lemma": "laktos",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "乳糖",
+      "en": "lactose",
+      "known": false,
+      "forms": [
+        "laktos",
+        "laktosen"
+      ]
+    },
+    {
+      "slug": "lammkotlett",
+      "lemma": "lammkotlett",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "羊排",
+      "en": "lamb chop",
+      "known": false,
+      "forms": [
+        "lammkotlett",
+        "lammkotletter",
+        "lammkotletten",
+        "lammkotletterna"
+      ]
+    },
+    {
+      "slug": "lampa",
+      "lemma": "lampa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "灯；台灯",
+      "en": "lamp; light",
+      "known": false,
+      "forms": [
+        "lampa",
+        "lampan",
+        "lampor",
+        "lamporna"
+      ]
+    },
+    {
+      "slug": "lån",
+      "lemma": "lån",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "贷款",
+      "en": "loan",
+      "known": false,
+      "forms": [
+        "lån",
+        "lånet",
+        "lånen"
+      ]
+    },
+    {
+      "slug": "låna",
+      "lemma": "låna",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "借（进/出）",
+      "en": "to borrow/lend",
+      "known": false,
+      "forms": [
+        "låna",
+        "lånar",
+        "lånade",
+        "lånat"
+      ]
+    },
+    {
+      "slug": "land",
+      "lemma": "land",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "国家;陆地;乡下",
+      "en": "country/land",
+      "known": false,
+      "forms": [
+        "land",
+        "landet",
+        "länder",
+        "länderna"
+      ]
+    },
+    {
+      "slug": "landslag",
+      "lemma": "landslag",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "国家队",
+      "en": "national team",
+      "known": false,
+      "forms": [
+        "landslag",
+        "landslaget",
+        "landslagen"
+      ]
+    },
+    {
+      "slug": "lång",
+      "lemma": "lång",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "长的、高的",
+      "en": "long, tall",
+      "known": false,
+      "forms": [
+        "lång",
+        "långt",
+        "långa"
+      ]
+    },
+    {
+      "slug": "längs",
+      "lemma": "längs",
+      "ordklass": "preposition",
+      "cefr": "A2",
+      "zh": "沿着",
+      "en": "along",
+      "known": false,
+      "forms": [
+        "längs"
+      ]
+    },
+    {
+      "slug": "långsam",
+      "lemma": "långsam",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "慢的",
+      "en": "slow",
+      "known": false,
+      "forms": [
+        "långsam",
+        "långsamt",
+        "långsamma",
+        "långsammare",
+        "långsammast"
+      ]
+    },
+    {
+      "slug": "längta",
+      "lemma": "längta",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "思念/渴望",
+      "en": "to long for, to miss",
+      "known": false,
+      "forms": [
+        "längta",
+        "längtar",
+        "längtade",
+        "längtat"
+      ]
+    },
+    {
+      "slug": "läpp",
+      "lemma": "läpp",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "嘴唇",
+      "en": "lip",
+      "known": false,
+      "forms": [
+        "läpp",
+        "läppen",
+        "läppar",
+        "läpparna"
+      ]
+    },
+    {
+      "slug": "lår",
+      "lemma": "lår",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "大腿",
+      "en": "thigh",
+      "known": false,
+      "forms": [
+        "lår",
+        "låret",
+        "låren"
+      ]
+    },
+    {
+      "slug": "lärande",
+      "lemma": "lärande",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "学习；教与学",
+      "en": "learning",
+      "known": false,
+      "forms": [
+        "lärande",
+        "lärandet"
+      ]
+    },
+    {
+      "slug": "lärorik",
+      "lemma": "lärorik",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "有教益的、长知识的",
+      "en": "instructive",
+      "known": false,
+      "forms": [
+        "lärorik",
+        "lärorikt",
+        "lärorika"
+      ]
+    },
+    {
+      "slug": "lastbil",
+      "lemma": "lastbil",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "卡车；货车",
+      "en": "truck, lorry",
+      "known": false,
+      "forms": [
+        "lastbil",
+        "lastbilar",
+        "lastbilen",
+        "lastbilarna"
+      ]
+    },
+    {
+      "slug": "lat",
+      "lemma": "lat",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "懒的；懒惰的",
+      "en": "lazy",
+      "known": false,
+      "forms": [
+        "lat",
+        "lata"
+      ]
+    },
+    {
+      "slug": "lätt",
+      "lemma": "lätt",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "轻的、容易的",
+      "en": "light / easy",
+      "known": false,
+      "forms": [
+        "lätt",
+        "lätta",
+        "lättare",
+        "lättast",
+        "lättaste"
+      ]
+    },
+    {
+      "slug": "latte",
+      "lemma": "latte",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "拿铁",
+      "en": "latte",
+      "known": false,
+      "forms": [
+        "latte",
+        "latten",
+        "latter",
+        "latterna"
+      ]
+    },
+    {
+      "slug": "lax",
+      "lemma": "lax",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "三文鱼",
+      "en": "salmon",
+      "known": false,
+      "forms": [
+        "lax",
+        "laxen",
+        "laxar",
+        "laxarna"
+      ]
+    },
+    {
+      "slug": "läxa",
+      "lemma": "läxa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "家庭作业",
+      "en": "homework",
+      "known": false,
+      "forms": [
+        "läxa",
+        "läxan",
+        "läxor",
+        "läxorna"
+      ]
+    },
+    {
+      "slug": "ledare",
+      "lemma": "ledare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "领导人",
+      "en": "leader",
+      "known": false,
+      "forms": [
+        "ledare",
+        "ledaren",
+        "ledarna"
+      ]
+    },
+    {
+      "slug": "ledig",
+      "lemma": "ledig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "空闲的；空着的",
+      "en": "free; vacant; available",
+      "known": false,
+      "forms": [
+        "ledig",
+        "ledigt",
+        "lediga"
+      ]
+    },
+    {
+      "slug": "ledsen",
+      "lemma": "ledsen",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "难过的/伤心的",
+      "en": "sad, sorry",
+      "known": false,
+      "forms": [
+        "ledsen",
+        "ledsnare",
+        "ledsnast"
+      ]
+    },
+    {
+      "slug": "lejon",
+      "lemma": "lejon",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "狮子",
+      "en": "lion",
+      "known": false,
+      "forms": [
+        "lejon",
+        "lejonet",
+        "lejonen"
+      ]
+    },
+    {
+      "slug": "leka",
+      "lemma": "leka",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "玩耍",
+      "en": "to play",
+      "known": false,
+      "forms": [
+        "leka",
+        "leker",
+        "lekte",
+        "lekt",
+        "lek"
+      ]
+    },
+    {
+      "slug": "leksak",
+      "lemma": "leksak",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "玩具",
+      "en": "toy",
+      "known": false,
+      "forms": [
+        "leksak",
+        "leksaken",
+        "leksaker",
+        "leksakerna"
+      ]
+    },
+    {
+      "slug": "len",
+      "lemma": "len",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "光滑的、柔滑的",
+      "en": "smooth, silky",
+      "known": false,
+      "forms": [
+        "len",
+        "lent",
+        "lena",
+        "lenare",
+        "lenast",
+        "lenaste"
+      ]
+    },
+    {
+      "slug": "leta",
+      "lemma": "leta",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "寻找",
+      "en": "to search / to look for",
+      "known": false,
+      "forms": [
+        "leta",
+        "letar",
+        "letade",
+        "letat"
+      ]
+    },
+    {
+      "slug": "leva",
+      "lemma": "leva",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "生活；活着；生存",
+      "en": "to live; to be alive",
+      "known": false,
+      "forms": [
+        "leva",
+        "lev",
+        "lever",
+        "levde",
+        "levt"
+      ]
+    },
+    {
+      "slug": "ligga",
+      "lemma": "ligga",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "躺；平放",
+      "en": "to lie; to be lying",
+      "known": false,
+      "forms": [
+        "ligga",
+        "ligg",
+        "ligger",
+        "låg",
+        "legat"
+      ]
+    },
+    {
+      "slug": "lillasyster",
+      "lemma": "lillasyster",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "妹妹",
+      "en": "little sister, younger sister",
+      "known": false,
+      "forms": [
+        "lillasyster",
+        "lillasystern",
+        "lillasystrar",
+        "lillasystrarna"
+      ]
+    },
+    {
+      "slug": "linjal",
+      "lemma": "linjal",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "尺子、直尺",
+      "en": "ruler",
+      "known": false,
+      "forms": [
+        "linjal",
+        "linjalen",
+        "linjaler",
+        "linjalerna"
+      ]
+    },
+    {
+      "slug": "linje",
+      "lemma": "linje",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "线路；线",
+      "en": "line",
+      "known": false,
+      "forms": [
+        "linje",
+        "linjen",
+        "linjer",
+        "linjerna"
+      ]
+    },
+    {
+      "slug": "liten",
+      "lemma": "liten",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "小的",
+      "en": "small",
+      "known": false,
+      "forms": [
+        "liten",
+        "litet",
+        "lilla",
+        "små"
+      ]
+    },
+    {
+      "slug": "liter",
+      "lemma": "liter",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "升",
+      "en": "litre",
+      "known": false,
+      "forms": [
+        "liter",
+        "litern",
+        "litrarna"
+      ]
+    },
+    {
+      "slug": "livlig",
+      "lemma": "livlig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "热闹的；活跃的；繁忙的",
+      "en": "lively, busy",
+      "known": false,
+      "forms": [
+        "livlig",
+        "livligt",
+        "livliga",
+        "livligare",
+        "livligast",
+        "livligaste"
+      ]
+    },
+    {
+      "slug": "livsmedelsbutik",
+      "lemma": "livsmedelsbutik",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "食品超市；食品店",
+      "en": "grocery store / food shop",
+      "known": false,
+      "forms": [
+        "livsmedelsbutik",
+        "livsmedelsbutiken",
+        "livsmedelsbutiker",
+        "livsmedelsbutikerna"
+      ]
+    },
+    {
+      "slug": "ljus",
+      "lemma": "ljus",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "明亮的；浅色的",
+      "en": "bright; light",
+      "known": false,
+      "forms": [
+        "ljus",
+        "ljust",
+        "ljusa"
+      ]
+    },
+    {
+      "slug": "lök",
+      "lemma": "lök",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "洋葱",
+      "en": "onion",
+      "known": false,
+      "forms": [
+        "lök",
+        "löken",
+        "lökar",
+        "lökarna"
+      ]
+    },
+    {
+      "slug": "lön",
+      "lemma": "lön",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "工资",
+      "en": "salary, wage",
+      "known": false,
+      "forms": [
+        "lön",
+        "lönen",
+        "löner",
+        "lönerna"
+      ]
+    },
+    {
+      "slug": "lösa",
+      "lemma": "lösa",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "解决；解开",
+      "en": "to solve; to resolve",
+      "known": false,
+      "forms": [
+        "lösa",
+        "löser",
+        "löste",
+        "löst",
+        "lös"
+      ]
+    },
+    {
+      "slug": "lova",
+      "lemma": "lova",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "承诺；保证",
+      "en": "to promise",
+      "known": false,
+      "forms": [
+        "lova",
+        "lovar",
+        "lovade",
+        "lovat"
+      ]
+    },
+    {
+      "slug": "lovande",
+      "lemma": "lovande",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "有前途的；充满希望的",
+      "en": "promising",
+      "known": false,
+      "forms": [
+        "lovande"
+      ]
+    },
+    {
+      "slug": "luft",
+      "lemma": "luft",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "空气",
+      "en": "air",
+      "known": false,
+      "forms": [
+        "luft",
+        "luften"
+      ]
+    },
+    {
+      "slug": "lugn",
+      "lemma": "lugn",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "平静的、安静的",
+      "en": "calm",
+      "known": false,
+      "forms": [
+        "lugn",
+        "lugnt",
+        "lugna",
+        "lugnare",
+        "lugnast",
+        "lugnaste"
+      ]
+    },
+    {
+      "slug": "lunga",
+      "lemma": "lunga",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "肺",
+      "en": "lung",
+      "known": false,
+      "forms": [
+        "lunga",
+        "lungan",
+        "lungor",
+        "lungorna"
+      ]
+    },
+    {
+      "slug": "lurvig",
+      "lemma": "lurvig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "毛茸茸的",
+      "en": "shaggy/furry",
+      "known": false,
+      "forms": [
+        "lurvig",
+        "lurvigt",
+        "lurviga",
+        "lurvigare",
+        "lurvigast"
+      ]
+    },
+    {
+      "slug": "lycklig",
+      "lemma": "lycklig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "快乐的/幸福的",
+      "en": "happy, fortunate",
+      "known": false,
+      "forms": [
+        "lycklig",
+        "lyckligt",
+        "lyckliga",
+        "lyckligare",
+        "lyckligast"
+      ]
+    },
+    {
+      "slug": "macka",
+      "lemma": "macka",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "三明治；开口面包片（口语）",
+      "en": "sandwich; open sandwich (colloquial)",
+      "known": false,
+      "forms": [
+        "macka",
+        "mackan",
+        "mackor",
+        "mackorna"
+      ]
+    },
+    {
+      "slug": "mager",
+      "lemma": "mager",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "瘦的",
+      "en": "lean, thin",
+      "known": false,
+      "forms": [
+        "mager",
+        "magert",
+        "magra",
+        "magrare",
+        "magrast",
+        "magraste"
+      ]
+    },
+    {
+      "slug": "make",
+      "lemma": "make",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "丈夫；配偶",
+      "en": "husband; spouse",
+      "known": false,
+      "forms": [
+        "make",
+        "maken",
+        "makar",
+        "makarna"
+      ]
+    },
+    {
+      "slug": "mål",
+      "lemma": "mål",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "进球 / 目标",
+      "en": "goal (football) / goal (aim)",
+      "known": false,
+      "forms": [
+        "mål",
+        "målet",
+        "målen"
+      ]
+    },
+    {
+      "slug": "måltid",
+      "lemma": "måltid",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "一餐；餐食",
+      "en": "meal",
+      "known": false,
+      "forms": [
+        "måltid",
+        "måltiden",
+        "måltider",
+        "måltiderna"
+      ]
+    },
+    {
+      "slug": "mamma",
+      "lemma": "mamma",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "妈妈",
+      "en": "mom",
+      "known": false,
+      "forms": [
+        "mamma",
+        "mamman",
+        "mammor",
+        "mammorna"
+      ]
+    },
+    {
+      "slug": "man",
+      "lemma": "man",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "男人",
+      "en": "man",
+      "known": false,
+      "forms": [
+        "man",
+        "mannen",
+        "män",
+        "männen"
+      ]
+    },
+    {
+      "slug": "månadskort",
+      "lemma": "månadskort",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "月票",
+      "en": "monthly pass",
+      "known": false,
+      "forms": [
+        "månadskort",
+        "månadskortet",
+        "månadskorten"
+      ]
+    },
+    {
+      "slug": "människa",
+      "lemma": "människa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "人；人类（个体）",
+      "en": "person; human being",
+      "known": false,
+      "forms": [
+        "människa",
+        "människan",
+        "människor",
+        "människorna"
+      ]
+    },
+    {
+      "slug": "märka",
+      "lemma": "märka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "注意到；发现",
+      "en": "to notice / realise",
+      "known": false,
+      "forms": [
+        "märka",
+        "märker",
+        "märkte",
+        "märkt"
+      ]
+    },
+    {
+      "slug": "mask",
+      "lemma": "mask",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "蚯蚓；面具",
+      "en": "worm; mask",
+      "known": false,
+      "forms": [
+        "mask",
+        "masken",
+        "maskar",
+        "maskarna"
+      ]
+    },
+    {
+      "slug": "mataffär",
+      "lemma": "mataffär",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "食品店；超市",
+      "en": "grocery store",
+      "known": false,
+      "forms": [
+        "mataffär",
+        "mataffären",
+        "mataffärer",
+        "mataffärerna"
+      ]
+    },
+    {
+      "slug": "match",
+      "lemma": "match",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "比赛，竞赛",
+      "en": "match, game",
+      "known": false,
+      "forms": [
+        "match",
+        "matchen",
+        "matcher",
+        "matcherna"
+      ]
+    },
+    {
+      "slug": "matta",
+      "lemma": "matta",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "地毯；垫子",
+      "en": "rug; mat; carpet",
+      "known": false,
+      "forms": [
+        "matta",
+        "mattan",
+        "mattor",
+        "mattorna"
+      ]
+    },
+    {
+      "slug": "måttlig",
+      "lemma": "måttlig",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "适度的；中等的；不太好的",
+      "en": "moderate; modest; mediocre",
+      "known": false,
+      "forms": [
+        "måttlig",
+        "måttligt",
+        "måttliga",
+        "måttligare",
+        "måttligast"
+      ]
+    },
+    {
+      "slug": "medborgare",
+      "lemma": "medborgare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "公民",
+      "en": "citizen",
+      "known": false,
+      "forms": [
+        "medborgare",
+        "medborgaren",
+        "medborgarna"
+      ]
+    },
+    {
+      "slug": "mellan",
+      "lemma": "mellan",
+      "ordklass": "preposition",
+      "cefr": "A1",
+      "zh": "在……之间",
+      "en": "between",
+      "known": false,
+      "forms": [
+        "mellan"
+      ]
+    },
+    {
+      "slug": "meny",
+      "lemma": "meny",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "菜单",
+      "en": "menu",
+      "known": false,
+      "forms": [
+        "meny",
+        "menyn",
+        "menyer",
+        "menyerna"
+      ]
+    },
+    {
+      "slug": "mest",
+      "lemma": "mest",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "大部分；主要",
+      "en": "mostly; mainly",
+      "known": false,
+      "forms": [
+        "mest"
+      ]
+    },
+    {
+      "slug": "midsommar",
+      "lemma": "midsommar",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "仲夏节",
+      "en": "Midsummer",
+      "known": false,
+      "forms": [
+        "midsommar",
+        "midsommaren",
+        "midsomrar",
+        "midsomrarna"
+      ]
+    },
+    {
+      "slug": "midsommarafton",
+      "lemma": "midsommarafton",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "仲夏节前夕",
+      "en": "Midsummer's Eve",
+      "known": false,
+      "forms": [
+        "midsommarafton",
+        "midsommaraftonen",
+        "midsommaraftnar",
+        "midsommaraftnarna"
+      ]
+    },
+    {
+      "slug": "midsommardag",
+      "lemma": "midsommardag",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "仲夏节（节日当天）",
+      "en": "Midsummer Day",
+      "known": false,
+      "forms": [
+        "midsommardag",
+        "midsommardagen",
+        "midsommardagar",
+        "midsommardagarna"
+      ]
+    },
+    {
+      "slug": "midsommarstång",
+      "lemma": "midsommarstång",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "仲夏柱",
+      "en": "maypole (Midsummer pole)",
+      "known": false,
+      "forms": [
+        "midsommarstång",
+        "midsommarstången",
+        "midsommarstänger",
+        "midsommarstängerna"
+      ]
+    },
+    {
+      "slug": "militärfartyg",
+      "lemma": "militärfartyg",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "军舰，军用舰艇",
+      "en": "military vessel, warship",
+      "known": false,
+      "forms": [
+        "militärfartyg",
+        "militärfartyget",
+        "militärfartygen"
+      ]
+    },
+    {
+      "slug": "miljö",
+      "lemma": "miljö",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "环境",
+      "en": "environment",
+      "known": false,
+      "forms": [
+        "miljö",
+        "miljön",
+        "miljöer",
+        "miljöerna"
+      ]
+    },
+    {
+      "slug": "minnas",
+      "lemma": "minnas",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "记得/回忆",
+      "en": "to remember",
+      "known": false,
+      "forms": [
+        "minnas",
+        "minns",
+        "mindes",
+        "mints"
+      ]
+    },
+    {
+      "slug": "minska",
+      "lemma": "minska",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "减少",
+      "en": "reduce, decrease, diminish",
+      "known": false,
+      "forms": [
+        "minska",
+        "minskar",
+        "minskade",
+        "minskat"
+      ]
+    },
+    {
+      "slug": "missa",
+      "lemma": "missa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "错过",
+      "en": "to miss",
+      "known": false,
+      "forms": [
+        "missa",
+        "missar",
+        "missade",
+        "missat"
+      ]
+    },
+    {
+      "slug": "missbruk",
+      "lemma": "missbruk",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "滥用，成瘾",
+      "en": "abuse, addiction, misuse",
+      "known": false,
+      "forms": [
+        "missbruk",
+        "missbruket",
+        "missbruken"
+      ]
+    },
+    {
+      "slug": "missnöjd",
+      "lemma": "missnöjd",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "不满的",
+      "en": "dissatisfied",
+      "known": false,
+      "forms": [
+        "missnöjd",
+        "missnöjt",
+        "missnöjda"
+      ]
+    },
+    {
+      "slug": "misstänkt",
+      "lemma": "misstänkt",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "被怀疑的，涉嫌的",
+      "en": "suspected",
+      "known": false,
+      "forms": [
+        "misstänkt",
+        "misstänkta"
+      ]
+    },
+    {
+      "slug": "mitt-emot",
+      "lemma": "mitt emot",
+      "ordklass": "preposition",
+      "cefr": "A2",
+      "zh": "正对面；对面",
+      "en": "directly opposite; across from",
+      "known": false,
+      "forms": [
+        "mitt emot"
+      ]
+    },
+    {
+      "slug": "mjölk",
+      "lemma": "mjölk",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "牛奶",
+      "en": "milk",
+      "known": false,
+      "forms": [
+        "mjölk",
+        "mjölken"
+      ]
+    },
+    {
+      "slug": "mjuk",
+      "lemma": "mjuk",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "软的",
+      "en": "soft",
+      "known": false,
+      "forms": [
+        "mjuk",
+        "mjukt",
+        "mjuka",
+        "mjukare",
+        "mjukast",
+        "mjukaste"
+      ]
+    },
+    {
+      "slug": "möbel",
+      "lemma": "möbel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "家具（单件）",
+      "en": "piece of furniture",
+      "known": false,
+      "forms": [
+        "möbel",
+        "möbeln",
+        "möbler",
+        "möblerna"
+      ]
+    },
+    {
+      "slug": "modern",
+      "lemma": "modern",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "现代的",
+      "en": "modern",
+      "known": false,
+      "forms": [
+        "modern",
+        "modernt",
+        "moderna"
+      ]
+    },
+    {
+      "slug": "modig",
+      "lemma": "modig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "勇敢的",
+      "en": "brave, courageous",
+      "known": false,
+      "forms": [
+        "modig",
+        "modigt",
+        "modiga",
+        "modigare",
+        "modigast"
+      ]
+    },
+    {
+      "slug": "mogen",
+      "lemma": "mogen",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "成熟的、熟的",
+      "en": "ripe, mature",
+      "known": false,
+      "forms": [
+        "mogen",
+        "moget",
+        "mogna",
+        "mognare",
+        "mognast",
+        "mognaste"
+      ]
+    },
+    {
+      "slug": "mogna",
+      "lemma": "mogna",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "成熟, 变熟",
+      "en": "to ripen, to mature",
+      "known": false,
+      "forms": [
+        "mogna",
+        "mognar",
+        "mognade",
+        "mognat"
+      ]
+    },
+    {
+      "slug": "moln",
+      "lemma": "moln",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "云",
+      "en": "cloud",
+      "known": false,
+      "forms": [
+        "moln",
+        "molnet",
+        "molnen"
+      ]
+    },
+    {
+      "slug": "mor",
+      "lemma": "mor",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "母亲（书面/正式）",
+      "en": "mother (written/formal)",
+      "known": false,
+      "forms": [
+        "mor",
+        "modern",
+        "mödrar",
+        "mödrarna"
+      ]
+    },
+    {
+      "slug": "mörda",
+      "lemma": "mörda",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "谋杀",
+      "en": "to murder",
+      "known": false,
+      "forms": [
+        "mörda",
+        "mördar",
+        "mördade",
+        "mördat"
+      ]
+    },
+    {
+      "slug": "morgon",
+      "lemma": "morgon",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "早晨；上午",
+      "en": "morning",
+      "known": false,
+      "forms": [
+        "morgon",
+        "morgonen",
+        "morgnar",
+        "morgnarna"
+      ]
+    },
+    {
+      "slug": "mörk",
+      "lemma": "mörk",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "黑暗的；深色的",
+      "en": "dark",
+      "known": false,
+      "forms": [
+        "mörk",
+        "mörkt",
+        "mörka",
+        "mörkare",
+        "mörkast"
+      ]
+    },
+    {
+      "slug": "morot",
+      "lemma": "morot",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "胡萝卜",
+      "en": "carrot",
+      "known": false,
+      "forms": [
+        "morot",
+        "moroten",
+        "morötter",
+        "morötterna"
+      ]
+    },
+    {
+      "slug": "morotskaka",
+      "lemma": "morotskaka",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "胡萝卜蛋糕",
+      "en": "carrot cake",
+      "known": false,
+      "forms": [
+        "morotskaka",
+        "morotskakaen",
+        "morotskakan",
+        "morotskakor",
+        "morotskakorna"
+      ]
+    },
+    {
+      "slug": "moster",
+      "lemma": "moster",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "姨妈（母亲的姐妹）",
+      "en": "maternal aunt (mother's sister)",
+      "known": false,
+      "forms": [
+        "moster",
+        "mostern",
+        "mostrar",
+        "mostrarna"
+      ]
+    },
+    {
+      "slug": "möte",
+      "lemma": "möte",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "会议, 会面",
+      "en": "meeting",
+      "known": false,
+      "forms": [
+        "möte",
+        "mötet",
+        "möten",
+        "mötena"
+      ]
+    },
+    {
+      "slug": "motiverad",
+      "lemma": "motiverad",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "有上进心的、有动力的",
+      "en": "motivated",
+      "known": false,
+      "forms": [
+        "motiverad",
+        "motiverat",
+        "motiverade"
+      ]
+    },
+    {
+      "slug": "motspelare",
+      "lemma": "motspelare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "对手",
+      "en": "opponent",
+      "known": false,
+      "forms": [
+        "motspelare",
+        "motspelaren",
+        "motspelarna"
+      ]
+    },
+    {
+      "slug": "mousserande",
+      "lemma": "mousserande",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "起泡的",
+      "en": "sparkling; effervescent",
+      "known": false,
+      "forms": [
+        "mousserande"
+      ]
+    },
+    {
+      "slug": "mun",
+      "lemma": "mun",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "嘴",
+      "en": "mouth",
+      "known": false,
+      "forms": [
+        "mun",
+        "munnen",
+        "munnar",
+        "munnarna"
+      ]
+    },
+    {
+      "slug": "mus",
+      "lemma": "mus",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "老鼠",
+      "en": "mouse",
+      "known": false,
+      "forms": [
+        "mus",
+        "musen",
+        "möss",
+        "mössen"
+      ]
+    },
+    {
+      "slug": "muskel",
+      "lemma": "muskel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "肌肉",
+      "en": "muscle",
+      "known": false,
+      "forms": [
+        "muskel",
+        "muskeln",
+        "muskler",
+        "musklerna"
+      ]
+    },
+    {
+      "slug": "myndighet",
+      "lemma": "myndighet",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "政府机关, 管理局",
+      "en": "authority, agency",
+      "known": false,
+      "forms": [
+        "myndighet",
+        "myndigheten",
+        "myndigheter",
+        "myndigheterna"
+      ]
+    },
+    {
+      "slug": "mynt",
+      "lemma": "mynt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "硬币",
+      "en": "coin",
+      "known": false,
+      "forms": [
+        "mynt",
+        "myntet",
+        "mynten"
+      ]
+    },
+    {
+      "slug": "myra",
+      "lemma": "myra",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "蚂蚁",
+      "en": "ant",
+      "known": false,
+      "forms": [
+        "myra",
+        "myran",
+        "myror",
+        "myrorna"
+      ]
+    },
+    {
+      "slug": "mysig",
+      "lemma": "mysig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "温馨的；舒适的",
+      "en": "cozy; snug",
+      "known": false,
+      "forms": [
+        "mysig",
+        "mysigt",
+        "mysiga"
+      ]
+    },
+    {
+      "slug": "någon",
+      "lemma": "någon",
+      "ordklass": "pronomen",
+      "cefr": "A1",
+      "zh": "某人；某个；一些",
+      "en": "someone; some; any",
+      "known": false,
+      "forms": [
+        "någon",
+        "en-genus",
+        "ett-genus"
+      ]
+    },
+    {
+      "slug": "några",
+      "lemma": "några",
+      "ordklass": "pronomen",
+      "cefr": "A1",
+      "zh": "一些；几个",
+      "en": "some; a few; several",
+      "known": false,
+      "forms": [
+        "några"
+      ]
+    },
+    {
+      "slug": "näsa",
+      "lemma": "näsa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "鼻子",
+      "en": "nose",
+      "known": false,
+      "forms": [
+        "näsa",
+        "näsan",
+        "näsor",
+        "näsorna"
+      ]
+    },
+    {
+      "slug": "nationaldag",
+      "lemma": "nationaldag",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "国庆日",
+      "en": "national day",
+      "known": false,
+      "forms": [
+        "nationaldag",
+        "nationaldagen",
+        "nationaldagar",
+        "nationaldagarna"
+      ]
+    },
+    {
+      "slug": "nattduksbord",
+      "lemma": "nattduksbord",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "床头柜",
+      "en": "bedside table; nightstand",
+      "known": false,
+      "forms": [
+        "nattduksbord",
+        "nattduksbordet",
+        "nattduksborden"
+      ]
+    },
+    {
+      "slug": "nederländsk",
+      "lemma": "nederländsk",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "荷兰的",
+      "en": "Dutch, of the Netherlands",
+      "known": false,
+      "forms": [
+        "nederländsk",
+        "nederländskt",
+        "nederländska"
+      ]
+    },
+    {
+      "slug": "nervös",
+      "lemma": "nervös",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "紧张的",
+      "en": "nervous",
+      "known": false,
+      "forms": [
+        "nervös",
+        "nervöst",
+        "nervösa"
+      ]
+    },
+    {
+      "slug": "njure",
+      "lemma": "njure",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "肾",
+      "en": "kidney",
+      "known": false,
+      "forms": [
+        "njure",
+        "njuren",
+        "njurar",
+        "njurarna"
+      ]
+    },
+    {
+      "slug": "njuta",
+      "lemma": "njuta",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "享受；陶醉；品味",
+      "en": "to enjoy; to relish; to savour",
+      "known": false,
+      "forms": [
+        "njuta",
+        "njuter",
+        "njöt",
+        "njutit",
+        "njut"
+      ]
+    },
+    {
+      "slug": "nog",
+      "lemma": "nog",
+      "ordklass": "satsadverbial",
+      "cefr": "A2",
+      "zh": "大概；应该；足够（情态副词）",
+      "en": "probably; I suppose; enough (modal particle / adverb)",
+      "known": false,
+      "forms": [
+        "nog"
+      ]
+    },
+    {
+      "slug": "noggrann",
+      "lemma": "noggrann",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "严谨的、仔细的",
+      "en": "careful, thorough",
+      "known": false,
+      "forms": [
+        "noggrann",
+        "noggrant",
+        "noggranna"
+      ]
+    },
+    {
+      "slug": "nöjd",
+      "lemma": "nöjd",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "满意的/满足的",
+      "en": "satisfied, pleased, content",
+      "known": false,
+      "forms": [
+        "nöjd",
+        "nöjdare",
+        "nöjdast"
+      ]
+    },
+    {
+      "slug": "nöt",
+      "lemma": "nöt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "坚果",
+      "en": "nut",
+      "known": false,
+      "forms": [
+        "nöt",
+        "nöten",
+        "nötter",
+        "nötterna"
+      ]
+    },
+    {
+      "slug": "nota",
+      "lemma": "nota",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "账单",
+      "en": "bill; check",
+      "known": false,
+      "forms": [
+        "nota",
+        "notan",
+        "notor",
+        "notorna"
+      ]
+    },
+    {
+      "slug": "ny",
+      "lemma": "ny",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "新的",
+      "en": "new",
+      "known": false,
+      "forms": [
+        "ny",
+        "nytt",
+        "nya",
+        "nyare",
+        "nyast"
+      ]
+    },
+    {
+      "slug": "nyckel",
+      "lemma": "nyckel",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "钥匙",
+      "en": "key",
+      "known": false,
+      "forms": [
+        "nyckel",
+        "nyckeln",
+        "nycklar",
+        "nycklarna"
+      ]
+    },
+    {
+      "slug": "nyfiken",
+      "lemma": "nyfiken",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "好奇的",
+      "en": "curious",
+      "known": false,
+      "forms": [
+        "nyfiken",
+        "nyfiket",
+        "nyfikna",
+        "nyfiknare",
+        "nyfiknast"
+      ]
+    },
+    {
+      "slug": "nyfödd",
+      "lemma": "nyfödd",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "新生的",
+      "en": "newborn",
+      "known": false,
+      "forms": [
+        "nyfödd",
+        "nyfött",
+        "nyfödda"
+      ]
+    },
+    {
+      "slug": "nyttig",
+      "lemma": "nyttig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "有益健康的",
+      "en": "healthy, nutritious, good for you",
+      "known": false,
+      "forms": [
+        "nyttig",
+        "nyttigt",
+        "nyttiga",
+        "nyttigare",
+        "nyttigast",
+        "nyttigaste"
+      ]
+    },
+    {
+      "slug": "obekväm",
+      "lemma": "obekväm",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "不舒适的",
+      "en": "uncomfortable",
+      "known": false,
+      "forms": [
+        "obekväm",
+        "obekvämt",
+        "obekväma"
+      ]
+    },
+    {
+      "slug": "obligatorisk",
+      "lemma": "obligatorisk",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "必修的、强制的",
+      "en": "mandatory",
+      "known": false,
+      "forms": [
+        "obligatorisk",
+        "obligatoriskt",
+        "obligatoriska"
+      ]
+    },
+    {
+      "slug": "odlare",
+      "lemma": "odlare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "种植户, 农户",
+      "en": "grower, farmer",
+      "known": false,
+      "forms": [
+        "odlare",
+        "odlaren",
+        "odlarna"
+      ]
+    },
+    {
+      "slug": "öka",
+      "lemma": "öka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "增加；增长",
+      "en": "to increase",
+      "known": false,
+      "forms": [
+        "öka",
+        "ökar",
+        "ökade",
+        "ökat"
+      ]
+    },
+    {
+      "slug": "okänd",
+      "lemma": "okänd",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "陌生的、不知名的",
+      "en": "unknown",
+      "known": false,
+      "forms": [
+        "okänd",
+        "okänt",
+        "okända"
+      ]
+    },
+    {
+      "slug": "öl",
+      "lemma": "öl",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "啤酒",
+      "en": "beer",
+      "known": false,
+      "forms": [
+        "öl",
+        "en",
+        "ölen",
+        "ölet",
+        "ölar"
+      ]
+    },
+    {
+      "slug": "olaglig",
+      "lemma": "olaglig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "违法的，非法的",
+      "en": "illegal",
+      "known": false,
+      "forms": [
+        "olaglig",
+        "olagligt",
+        "olagliga"
+      ]
+    },
+    {
+      "slug": "olja",
+      "lemma": "olja",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "石油; 油",
+      "en": "oil",
+      "known": false,
+      "forms": [
+        "olja",
+        "oljan",
+        "oljor",
+        "oljorna"
+      ]
+    },
+    {
+      "slug": "öm",
+      "lemma": "öm",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "酸痛的；体贴的",
+      "en": "sore; tender",
+      "known": false,
+      "forms": [
+        "öm",
+        "ömt",
+        "ömma",
+        "ömmre",
+        "ömmast"
+      ]
+    },
+    {
+      "slug": "omhänderta",
+      "lemma": "omhänderta",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "被当局接管安置（离开家庭）",
+      "en": "to take into care (by authorities)",
+      "known": false,
+      "forms": [
+        "omhänderta",
+        "omhändertar",
+        "omhändertog",
+        "omhändertagit",
+        "omhändertas",
+        "omhändertagen",
+        "omhändertagna"
+      ]
+    },
+    {
+      "slug": "omogen",
+      "lemma": "omogen",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "未成熟的, 生的",
+      "en": "unripe, immature",
+      "known": false,
+      "forms": [
+        "omogen",
+        "omoget",
+        "omogna",
+        "mognare",
+        "mognast"
+      ]
+    },
+    {
+      "slug": "operasångare",
+      "lemma": "operasångare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "歌剧演唱家",
+      "en": "opera singer",
+      "known": false,
+      "forms": [
+        "operasångare",
+        "operasångaren",
+        "operasångarna"
+      ]
+    },
+    {
+      "slug": "operera",
+      "lemma": "operera",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "做手术；手术治疗",
+      "en": "to operate (surgery); to perform surgery",
+      "known": false,
+      "forms": [
+        "operera",
+        "opererar",
+        "opererade",
+        "opererat"
+      ]
+    },
+    {
+      "slug": "öppen",
+      "lemma": "öppen",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "开着的/开放的",
+      "en": "open",
+      "known": false,
+      "forms": [
+        "öppen",
+        "öppet",
+        "öppna",
+        "öppnare",
+        "öppnast"
+      ]
+    },
+    {
+      "slug": "orättvisa",
+      "lemma": "orättvisa",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "不公正/不公平",
+      "en": "injustice, unfairness",
+      "known": false,
+      "forms": [
+        "orättvisa",
+        "orättvisan",
+        "orättvisor",
+        "orättvisorna"
+      ]
+    },
+    {
+      "slug": "öre",
+      "lemma": "öre",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "厄雷（克朗的百分之一）",
+      "en": "öre (1/100 of a krona)",
+      "known": false,
+      "forms": [
+        "öre",
+        "öret",
+        "örena"
+      ]
+    },
+    {
+      "slug": "orm",
+      "lemma": "orm",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "蛇",
+      "en": "snake",
+      "known": false,
+      "forms": [
+        "orm",
+        "ormen",
+        "ormar",
+        "ormarna"
+      ]
+    },
+    {
+      "slug": "örn",
+      "lemma": "örn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "鹰、雕",
+      "en": "eagle",
+      "known": false,
+      "forms": [
+        "örn",
+        "örnen",
+        "örnar",
+        "örnarna"
+      ]
+    },
+    {
+      "slug": "oro",
+      "lemma": "oro",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "焦虑、不安",
+      "en": "anxiety / worry",
+      "known": false,
+      "forms": [
+        "oro",
+        "oron"
+      ]
+    },
+    {
+      "slug": "orolig",
+      "lemma": "orolig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "担心的/焦虑的",
+      "en": "worried, anxious",
+      "known": false,
+      "forms": [
+        "orolig",
+        "oroligt",
+        "oroliga"
+      ]
+    },
+    {
+      "slug": "örtsås",
+      "lemma": "örtsås",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "香草酱",
+      "en": "herb sauce",
+      "known": false,
+      "forms": [
+        "örtsås",
+        "örtsåser",
+        "örtsåsen",
+        "örtsåserna"
+      ]
+    },
+    {
+      "slug": "ost",
+      "lemma": "ost",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "奶酪",
+      "en": "cheese",
+      "known": false,
+      "forms": [
+        "ost",
+        "osten",
+        "ostar",
+        "ostarna"
+      ]
+    },
+    {
+      "slug": "öva",
+      "lemma": "öva",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "练习",
+      "en": "to practice / to train",
+      "known": false,
+      "forms": [
+        "öva",
+        "övar",
+        "övade",
+        "övat"
+      ]
+    },
+    {
+      "slug": "ovanlig",
+      "lemma": "ovanlig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "不寻常的/罕见的",
+      "en": "unusual, rare",
+      "known": false,
+      "forms": [
+        "ovanlig",
+        "ovanligt",
+        "ovanliga",
+        "ovanligare",
+        "ovanligast"
+      ]
+    },
+    {
+      "slug": "oväntad",
+      "lemma": "oväntad",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "意外的；出乎意料的",
+      "en": "unexpected",
+      "known": false,
+      "forms": [
+        "oväntad",
+        "oväntat",
+        "oväntade"
+      ]
+    },
+    {
+      "slug": "överraskning",
+      "lemma": "överraskning",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "惊喜；意外",
+      "en": "surprise",
+      "known": false,
+      "forms": [
+        "överraskning",
+        "överraskningar",
+        "överraskningen",
+        "överraskningarna"
+      ]
+    },
+    {
+      "slug": "överst",
+      "lemma": "överst",
+      "ordklass": "adjektiv/adverb",
+      "cefr": "A2",
+      "zh": "最上面的；最上方",
+      "en": "topmost; at the top",
+      "known": false,
+      "forms": [
+        "överst",
+        "översta"
+      ]
+    },
+    {
+      "slug": "påbörja",
+      "lemma": "påbörja",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "开始、启动",
+      "en": "to begin/initiate",
+      "known": false,
+      "forms": [
+        "påbörja",
+        "påbörjar",
+        "påbörjade",
+        "påbörjat"
+      ]
+    },
+    {
+      "slug": "paj",
+      "lemma": "paj",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "果馅饼；馅饼",
+      "en": "pie; tart",
+      "known": false,
+      "forms": [
+        "paj",
+        "pajen",
+        "pajer",
+        "pajerna"
+      ]
+    },
+    {
+      "slug": "panna",
+      "lemma": "panna",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "额头",
+      "en": "forehead",
+      "known": false,
+      "forms": [
+        "panna",
+        "pannan",
+        "pannor",
+        "pannorna"
+      ]
+    },
+    {
+      "slug": "papegoja",
+      "lemma": "papegoja",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "鹦鹉",
+      "en": "parrot",
+      "known": false,
+      "forms": [
+        "papegoja",
+        "papegojaN",
+        "papegojor",
+        "papegojorna"
+      ]
+    },
+    {
+      "slug": "pappa",
+      "lemma": "pappa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "爸爸",
+      "en": "dad",
+      "known": false,
+      "forms": [
+        "pappa",
+        "pappan",
+        "pappor",
+        "papporna"
+      ]
+    },
+    {
+      "slug": "par",
+      "lemma": "par",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "一对、夫妇",
+      "en": "couple",
+      "known": false,
+      "forms": [
+        "par",
+        "paret",
+        "paren"
+      ]
+    },
+    {
+      "slug": "park",
+      "lemma": "park",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "公园",
+      "en": "park",
+      "known": false,
+      "forms": [
+        "park",
+        "parken",
+        "parker",
+        "parkerna"
+      ]
+    },
+    {
+      "slug": "parkering",
+      "lemma": "parkering",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "停车场；停车",
+      "en": "parking, car park",
+      "known": false,
+      "forms": [
+        "parkering",
+        "parkeringar",
+        "parkeringen",
+        "parkeringarna"
+      ]
+    },
+    {
+      "slug": "pärla",
+      "lemma": "pärla",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "珍珠",
+      "en": "pearl",
+      "known": false,
+      "forms": [
+        "pärla",
+        "pärlan",
+        "pärlor",
+        "pärlorna"
+      ]
+    },
+    {
+      "slug": "päron",
+      "lemma": "päron",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "梨",
+      "en": "pear",
+      "known": false,
+      "forms": [
+        "päron",
+        "päronet",
+        "päronen"
+      ]
+    },
+    {
+      "slug": "passa",
+      "lemma": "passa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "合适；适合；照看",
+      "en": "to suit; to fit; to watch over",
+      "known": false,
+      "forms": [
+        "passa",
+        "passar",
+        "passade",
+        "passat"
+      ]
+    },
+    {
+      "slug": "passera",
+      "lemma": "passera",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "经过；路过；通过",
+      "en": "to pass; to go past",
+      "known": false,
+      "forms": [
+        "passera",
+        "passerar",
+        "passerade",
+        "passerat"
+      ]
+    },
+    {
+      "slug": "pasta",
+      "lemma": "pasta",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "意面",
+      "en": "pasta",
+      "known": false,
+      "forms": [
+        "pasta",
+        "pastan"
+      ]
+    },
+    {
+      "slug": "patient",
+      "lemma": "patient",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "病人",
+      "en": "patient",
+      "known": false,
+      "forms": [
+        "patient",
+        "patienten",
+        "patienter",
+        "patienterna"
+      ]
+    },
+    {
+      "slug": "penna",
+      "lemma": "penna",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "笔",
+      "en": "pen",
+      "known": false,
+      "forms": [
+        "penna",
+        "pennan",
+        "pennor",
+        "pennorna"
+      ]
+    },
+    {
+      "slug": "person",
+      "lemma": "person",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "人",
+      "en": "person",
+      "known": false,
+      "forms": [
+        "person",
+        "personen",
+        "personer",
+        "personerna"
+      ]
+    },
+    {
+      "slug": "personal",
+      "lemma": "personal",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "工作人员；员工；职员",
+      "en": "staff / personnel",
+      "known": false,
+      "forms": [
+        "personal",
+        "personalen"
+      ]
+    },
+    {
+      "slug": "pigg",
+      "lemma": "pigg",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "精神的；有活力的",
+      "en": "alert; lively; perky",
+      "known": false,
+      "forms": [
+        "pigg",
+        "piggt",
+        "pigga"
+      ]
+    },
+    {
+      "slug": "pizza",
+      "lemma": "pizza",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "披萨",
+      "en": "pizza",
+      "known": false,
+      "forms": [
+        "pizza",
+        "pizzan",
+        "pizzor",
+        "pizzorna"
+      ]
+    },
+    {
+      "slug": "placering",
+      "lemma": "placering",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "安置；名额；排位；放置",
+      "en": "placement, position",
+      "known": false,
+      "forms": [
+        "placering",
+        "placeringen",
+        "placeringar",
+        "placeringarna"
+      ]
+    },
+    {
+      "slug": "plånbok",
+      "lemma": "plånbok",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "钱包",
+      "en": "wallet / purse",
+      "known": false,
+      "forms": [
+        "plånbok",
+        "plånboken",
+        "plånböcker",
+        "plånböckerna"
+      ]
+    },
+    {
+      "slug": "plåster",
+      "lemma": "plåster",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "创可贴",
+      "en": "plaster, band-aid",
+      "known": false,
+      "forms": [
+        "plåster",
+        "plåstret",
+        "plåstren"
+      ]
+    },
+    {
+      "slug": "plats",
+      "lemma": "plats",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "位置；地方；位子",
+      "en": "place, spot, seat",
+      "known": false,
+      "forms": [
+        "plats",
+        "platsen",
+        "platser",
+        "platserna"
+      ]
+    },
+    {
+      "slug": "plocka",
+      "lemma": "plocka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "采摘, 拣, 取",
+      "en": "to pick",
+      "known": false,
+      "forms": [
+        "plocka",
+        "plockar",
+        "plockade",
+        "plockat"
+      ]
+    },
+    {
+      "slug": "plötsligt",
+      "lemma": "plötsligt",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "突然；猛然",
+      "en": "suddenly",
+      "known": false,
+      "forms": [
+        "plötsligt"
+      ]
+    },
+    {
+      "slug": "pojke",
+      "lemma": "pojke",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "男孩",
+      "en": "boy",
+      "known": false,
+      "forms": [
+        "pojke",
+        "pojken",
+        "pojkar",
+        "pojkarna"
+      ]
+    },
+    {
+      "slug": "polis",
+      "lemma": "polis",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "警察；警察局",
+      "en": "police / police officer",
+      "known": false,
+      "forms": [
+        "polis",
+        "polisen",
+        "poliser",
+        "poliserna"
+      ]
+    },
+    {
+      "slug": "politiker",
+      "lemma": "politiker",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "政治家",
+      "en": "politician",
+      "known": false,
+      "forms": [
+        "politiker",
+        "politikern",
+        "politikerna"
+      ]
+    },
+    {
+      "slug": "populär",
+      "lemma": "populär",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "受欢迎的；流行的",
+      "en": "popular",
+      "known": false,
+      "forms": [
+        "populär",
+        "populärt",
+        "populära",
+        "populärare",
+        "populärast",
+        "populäraste"
+      ]
+    },
+    {
+      "slug": "potatis",
+      "lemma": "potatis",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "土豆、马铃薯",
+      "en": "potato",
+      "known": false,
+      "forms": [
+        "potatis",
+        "potatisen",
+        "potatisar",
+        "potatisarna"
+      ]
+    },
+    {
+      "slug": "potatismos",
+      "lemma": "potatismos",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "土豆泥",
+      "en": "mashed potatoes",
+      "known": false,
+      "forms": [
+        "potatismos",
+        "potatismoset"
+      ]
+    },
+    {
+      "slug": "praktikant",
+      "lemma": "praktikant",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "实习生",
+      "en": "intern",
+      "known": false,
+      "forms": [
+        "praktikant",
+        "praktikanten",
+        "praktikanter",
+        "praktikanterna"
+      ]
+    },
+    {
+      "slug": "praktisk",
+      "lemma": "praktisk",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "实用的",
+      "en": "practical",
+      "known": false,
+      "forms": [
+        "praktisk",
+        "praktiskt",
+        "praktiska"
+      ]
+    },
+    {
+      "slug": "pris",
+      "lemma": "pris",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "价格; 奖项",
+      "en": "price; prize",
+      "known": false,
+      "forms": [
+        "pris",
+        "priset",
+        "priser",
+        "priserna"
+      ]
+    },
+    {
+      "slug": "proffs",
+      "lemma": "proffs",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "职业选手；专业人士",
+      "en": "professional",
+      "known": false,
+      "forms": [
+        "proffs",
+        "proffset",
+        "proffsen"
+      ]
+    },
+    {
+      "slug": "projekt",
+      "lemma": "projekt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "项目",
+      "en": "project",
+      "known": false,
+      "forms": [
+        "projekt",
+        "projektet",
+        "projekten"
+      ]
+    },
+    {
+      "slug": "promenad",
+      "lemma": "promenad",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "散步",
+      "en": "walk; stroll",
+      "known": false,
+      "forms": [
+        "promenad",
+        "promenaden",
+        "promenader",
+        "promenaderna"
+      ]
+    },
+    {
+      "slug": "promenera",
+      "lemma": "promenera",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "散步；步行",
+      "en": "to walk / stroll",
+      "known": false,
+      "forms": [
+        "promenera",
+        "promenerar",
+        "promenerade",
+        "promenerat"
+      ]
+    },
+    {
+      "slug": "provins",
+      "lemma": "provins",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "省",
+      "en": "province",
+      "known": false,
+      "forms": [
+        "provins",
+        "provinsen",
+        "provinser",
+        "provinserna"
+      ]
+    },
+    {
+      "slug": "publicera",
+      "lemma": "publicera",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "出版/发表",
+      "en": "to publish",
+      "known": false,
+      "forms": [
+        "publicera",
+        "publicerar",
+        "publicerade",
+        "publicerat"
+      ]
+    },
+    {
+      "slug": "rå",
+      "lemma": "rå",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "生的、未煮熟的",
+      "en": "raw, uncooked",
+      "known": false,
+      "forms": [
+        "rå",
+        "rått",
+        "råa",
+        "råare",
+        "råast",
+        "råaste"
+      ]
+    },
+    {
+      "slug": "råd",
+      "lemma": "råd",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "建议",
+      "en": "advice",
+      "known": false,
+      "forms": [
+        "råd",
+        "rådet",
+        "råden"
+      ]
+    },
+    {
+      "slug": "rådjur",
+      "lemma": "rådjur",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "狍子、欧洲狍",
+      "en": "roe deer",
+      "known": false,
+      "forms": [
+        "rådjur",
+        "rådjuret",
+        "rådjuren"
+      ]
+    },
+    {
+      "slug": "rakt",
+      "lemma": "rakt",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "直地；笔直地",
+      "en": "straight",
+      "known": false,
+      "forms": [
+        "rakt"
+      ]
+    },
+    {
+      "slug": "randig",
+      "lemma": "randig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "有条纹的",
+      "en": "striped",
+      "known": false,
+      "forms": [
+        "randig",
+        "randigt",
+        "randiga",
+        "randigare",
+        "randigast",
+        "randigaste"
+      ]
+    },
+    {
+      "slug": "ränta",
+      "lemma": "ränta",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "利率；利息",
+      "en": "interest rate; interest",
+      "known": false,
+      "forms": [
+        "ränta",
+        "räntan",
+        "räntor",
+        "räntorna"
+      ]
+    },
+    {
+      "slug": "rast",
+      "lemma": "rast",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "课间休息、歇息",
+      "en": "break, recess",
+      "known": false,
+      "forms": [
+        "rast",
+        "rasten",
+        "raster",
+        "rasterna"
+      ]
+    },
+    {
+      "slug": "räv",
+      "lemma": "räv",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "狐狸",
+      "en": "fox",
+      "known": false,
+      "forms": [
+        "räv",
+        "räven",
+        "rävar",
+        "rävarna"
+      ]
+    },
+    {
+      "slug": "recept",
+      "lemma": "recept",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "处方",
+      "en": "prescription; recipe",
+      "known": false,
+      "forms": [
+        "recept",
+        "receptet",
+        "recepten"
+      ]
+    },
+    {
+      "slug": "redan",
+      "lemma": "redan",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "已经",
+      "en": "already",
+      "known": false,
+      "forms": [
+        "redan"
+      ]
+    },
+    {
+      "slug": "regering",
+      "lemma": "regering",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "政府",
+      "en": "government",
+      "known": false,
+      "forms": [
+        "regering",
+        "regeringen",
+        "regeringar",
+        "regeringarna"
+      ]
+    },
+    {
+      "slug": "regn",
+      "lemma": "regn",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "雨",
+      "en": "rain",
+      "known": false,
+      "forms": [
+        "regn",
+        "regnet",
+        "regnen"
+      ]
+    },
+    {
+      "slug": "rekommendera",
+      "lemma": "rekommendera",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "推荐",
+      "en": "to recommend",
+      "known": false,
+      "forms": [
+        "rekommendera",
+        "rekommenderar",
+        "rekommenderade",
+        "rekommenderat"
+      ]
+    },
+    {
+      "slug": "rekord",
+      "lemma": "rekord",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "纪录",
+      "en": "record",
+      "known": false,
+      "forms": [
+        "rekord",
+        "rekordet",
+        "rekorden"
+      ]
+    },
+    {
+      "slug": "ren",
+      "lemma": "ren",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "干净的、清洁的",
+      "en": "clean, pure",
+      "known": false,
+      "forms": [
+        "ren",
+        "rent",
+        "rena",
+        "renare",
+        "renast",
+        "renaste"
+      ]
+    },
+    {
+      "slug": "reservera",
+      "lemma": "reservera",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "预订；预留",
+      "en": "to reserve; to book",
+      "known": false,
+      "forms": [
+        "reservera",
+        "reserverar",
+        "reserverade",
+        "reserverat"
+      ]
+    },
+    {
+      "slug": "respekt",
+      "lemma": "respekt",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "尊重",
+      "en": "respect",
+      "known": false,
+      "forms": [
+        "respekt",
+        "respekten"
+      ]
+    },
+    {
+      "slug": "restaurang",
+      "lemma": "restaurang",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "餐厅",
+      "en": "restaurant",
+      "known": false,
+      "forms": [
+        "restaurang",
+        "restaurangen",
+        "restauranger",
+        "restaurangerna"
+      ]
+    },
+    {
+      "slug": "rik",
+      "lemma": "rik",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "富有的",
+      "en": "rich",
+      "known": false,
+      "forms": [
+        "rik",
+        "rikt",
+        "rika"
+      ]
+    },
+    {
+      "slug": "riksdag",
+      "lemma": "riksdag",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "国会，议会",
+      "en": "parliament (Swedish parliament)",
+      "known": false,
+      "forms": [
+        "riksdag",
+        "riksdagen",
+        "riksdagar",
+        "riksdagarna"
+      ]
+    },
+    {
+      "slug": "riktigt",
+      "lemma": "riktigt",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "真地；非常（口语强调词）",
+      "en": "really; quite (colloquial intensifier)",
+      "known": false,
+      "forms": [
+        "riktigt"
+      ]
+    },
+    {
+      "slug": "riktning",
+      "lemma": "riktning",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "方向",
+      "en": "direction",
+      "known": false,
+      "forms": [
+        "riktning",
+        "riktningen",
+        "riktningar",
+        "riktningarna"
+      ]
+    },
+    {
+      "slug": "ring",
+      "lemma": "ring",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "戒指",
+      "en": "ring",
+      "known": false,
+      "forms": [
+        "ring",
+        "ringen",
+        "ringar",
+        "ringarna"
+      ]
+    },
+    {
+      "slug": "ringa",
+      "lemma": "ringa",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "打电话；响铃",
+      "en": "to call / ring",
+      "known": false,
+      "forms": [
+        "ringa",
+        "ringer",
+        "ringde",
+        "ringt"
+      ]
+    },
+    {
+      "slug": "ris",
+      "lemma": "ris",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "米饭",
+      "en": "rice",
+      "known": false,
+      "forms": [
+        "ris",
+        "riset"
+      ]
+    },
+    {
+      "slug": "röd",
+      "lemma": "röd",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "红色的",
+      "en": "red",
+      "known": false,
+      "forms": [
+        "röd",
+        "rött",
+        "röda"
+      ]
+    },
+    {
+      "slug": "rödvin",
+      "lemma": "rödvin",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "红酒",
+      "en": "red wine",
+      "known": false,
+      "forms": [
+        "rödvin",
+        "rödvinet",
+        "rödviner",
+        "rödvinerna"
+      ]
+    },
+    {
+      "slug": "rolig",
+      "lemma": "rolig",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "有趣的",
+      "en": "fun",
+      "known": false,
+      "forms": [
+        "rolig",
+        "roligt",
+        "roliga"
+      ]
+    },
+    {
+      "slug": "rondell",
+      "lemma": "rondell",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "环形交叉路；环岛；转盘",
+      "en": "roundabout; traffic circle",
+      "known": false,
+      "forms": [
+        "rondell",
+        "rondellen",
+        "rondeller",
+        "rondellerna"
+      ]
+    },
+    {
+      "slug": "rörd",
+      "lemma": "rörd",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "感动的",
+      "en": "moved; touched",
+      "known": false,
+      "forms": [
+        "rörd",
+        "rört",
+        "rörda"
+      ]
+    },
+    {
+      "slug": "rörelse",
+      "lemma": "rörelse",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "运动；活动；动静",
+      "en": "movement / motion",
+      "known": false,
+      "forms": [
+        "rörelse",
+        "rörelsen",
+        "rörelser",
+        "rörelserna"
+      ]
+    },
+    {
+      "slug": "röst",
+      "lemma": "röst",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "声音; 配音; 选票",
+      "en": "voice; vote",
+      "known": false,
+      "forms": [
+        "röst",
+        "rösten",
+        "röster",
+        "rösterna"
+      ]
+    },
+    {
+      "slug": "rösta",
+      "lemma": "rösta",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "投票",
+      "en": "to vote",
+      "known": false,
+      "forms": [
+        "rösta",
+        "röstar",
+        "röstade",
+        "röstat"
+      ]
+    },
+    {
+      "slug": "rostad",
+      "lemma": "rostad",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "烤的；焙的",
+      "en": "roasted",
+      "known": false,
+      "forms": [
+        "rostad",
+        "rostat",
+        "rostade"
+      ]
+    },
+    {
+      "slug": "rum",
+      "lemma": "rum",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "房间",
+      "en": "room",
+      "known": false,
+      "forms": [
+        "rum",
+        "rummet",
+        "rummen"
+      ]
+    },
+    {
+      "slug": "rund",
+      "lemma": "rund",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "圆的；圆形的",
+      "en": "round",
+      "known": false,
+      "forms": [
+        "rund",
+        "runt",
+        "runda",
+        "rundare",
+        "rundast"
+      ]
+    },
+    {
+      "slug": "saftig",
+      "lemma": "saftig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "多汁的",
+      "en": "juicy",
+      "known": false,
+      "forms": [
+        "saftig",
+        "saftigt",
+        "saftiga",
+        "saftigare",
+        "saftigast",
+        "saftigaste"
+      ]
+    },
+    {
+      "slug": "saga",
+      "lemma": "saga",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "故事/童话",
+      "en": "story, fairy tale",
+      "known": false,
+      "forms": [
+        "saga",
+        "sagan",
+        "sagor",
+        "sagorna"
+      ]
+    },
+    {
+      "slug": "säker",
+      "lemma": "säker",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "安全的；确定的；有把握的",
+      "en": "safe; sure; certain",
+      "known": false,
+      "forms": [
+        "säker",
+        "säkert",
+        "säkra",
+        "säkrare",
+        "säkrast"
+      ]
+    },
+    {
+      "slug": "säl",
+      "lemma": "säl",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "海豹",
+      "en": "seal",
+      "known": false,
+      "forms": [
+        "säl",
+        "sälen",
+        "sälar",
+        "sälarna"
+      ]
+    },
+    {
+      "slug": "sälja",
+      "lemma": "sälja",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "卖, 出售",
+      "en": "to sell",
+      "known": false,
+      "forms": [
+        "sälja",
+        "säljer",
+        "sålde",
+        "sålt",
+        "sälj"
+      ]
+    },
+    {
+      "slug": "sallad",
+      "lemma": "sallad",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "沙拉",
+      "en": "salad",
+      "known": false,
+      "forms": [
+        "sallad",
+        "salladen",
+        "sallader",
+        "salladerna"
+      ]
+    },
+    {
+      "slug": "sällskap",
+      "lemma": "sällskap",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "陪伴；同伴；组织",
+      "en": "company; companionship; group; society",
+      "known": false,
+      "forms": [
+        "sällskap",
+        "sällskapet",
+        "sällskapen"
+      ]
+    },
+    {
+      "slug": "salt",
+      "lemma": "salt",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "咸的",
+      "en": "salty",
+      "known": false,
+      "forms": [
+        "salt",
+        "salta",
+        "saltare",
+        "saltast",
+        "saltaste"
+      ]
+    },
+    {
+      "slug": "sambo",
+      "lemma": "sambo",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "同居伴侣",
+      "en": "live-in partner, cohabiting partner",
+      "known": false,
+      "forms": [
+        "sambo",
+        "sambon",
+        "sambor",
+        "samborna"
+      ]
+    },
+    {
+      "slug": "samhälle",
+      "lemma": "samhälle",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "社会/社区",
+      "en": "society, community",
+      "known": false,
+      "forms": [
+        "samhälle",
+        "samhället",
+        "samhällen",
+        "samhällena"
+      ]
+    },
+    {
+      "slug": "samlas",
+      "lemma": "samlas",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "聚集，聚会",
+      "en": "to gather, to assemble",
+      "known": false,
+      "forms": [
+        "samlas",
+        "samlades",
+        "samlats"
+      ]
+    },
+    {
+      "slug": "samtal",
+      "lemma": "samtal",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "电话；通话；对话；谈话",
+      "en": "call / conversation / talk",
+      "known": false,
+      "forms": [
+        "samtal",
+        "samtalet",
+        "samtalen"
+      ]
+    },
+    {
+      "slug": "säng",
+      "lemma": "säng",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "床",
+      "en": "bed",
+      "known": false,
+      "forms": [
+        "säng",
+        "sängen",
+        "sängar",
+        "sängarna"
+      ]
+    },
+    {
+      "slug": "sänkning",
+      "lemma": "sänkning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "降低、削减",
+      "en": "reduction",
+      "known": false,
+      "forms": [
+        "sänkning",
+        "sänkningen",
+        "sänkningar",
+        "sänkningarna"
+      ]
+    },
+    {
+      "slug": "särskild",
+      "lemma": "särskild",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "特别的；特殊的；专门的",
+      "en": "special; particular; specific; separate",
+      "known": false,
+      "forms": [
+        "särskild",
+        "särskilt",
+        "särskilda"
+      ]
+    },
+    {
+      "slug": "satsa",
+      "lemma": "satsa",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "投入；押注；追求",
+      "en": "to invest in, go for, bet on",
+      "known": false,
+      "forms": [
+        "satsa",
+        "satsar",
+        "satsade",
+        "satsat"
+      ]
+    },
+    {
+      "slug": "sax",
+      "lemma": "sax",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "剪刀",
+      "en": "scissors",
+      "known": false,
+      "forms": [
+        "sax",
+        "saxen",
+        "saxar",
+        "saxarna"
+      ]
+    },
+    {
+      "slug": "sedan",
+      "lemma": "sedan",
+      "ordklass": "adverb",
+      "cefr": "A1",
+      "zh": "然后；接着；之后",
+      "en": "then / after that / since",
+      "known": false,
+      "forms": [
+        "sedan"
+      ]
+    },
+    {
+      "slug": "segelbåt",
+      "lemma": "segelbåt",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "帆船",
+      "en": "sailboat, sailing boat",
+      "known": false,
+      "forms": [
+        "segelbåt",
+        "segelbåten",
+        "segelbåtar",
+        "segelbåtarna"
+      ]
+    },
+    {
+      "slug": "sekreterare",
+      "lemma": "sekreterare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "秘书",
+      "en": "secretary",
+      "known": false,
+      "forms": [
+        "sekreterare",
+        "sekreteraren",
+        "sekreterarna"
+      ]
+    },
+    {
+      "slug": "semester",
+      "lemma": "semester",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "假期、休假",
+      "en": "vacation, holiday",
+      "known": false,
+      "forms": [
+        "semester",
+        "semestern",
+        "semestrar",
+        "semestrarna"
+      ]
+    },
+    {
+      "slug": "semla",
+      "lemma": "semla",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "奶油小圆面包（瑞典传统甜点）",
+      "en": "Swedish cream bun",
+      "known": false,
+      "forms": [
+        "semla",
+        "semlan",
+        "semlor",
+        "semlorna"
+      ]
+    },
+    {
+      "slug": "servitör",
+      "lemma": "servitör",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "服务员",
+      "en": "waiter; server",
+      "known": false,
+      "forms": [
+        "servitör",
+        "servitörer",
+        "servitören",
+        "servitörerna"
+      ]
+    },
+    {
+      "slug": "sill",
+      "lemma": "sill",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "鲱鱼",
+      "en": "herring",
+      "known": false,
+      "forms": [
+        "sill",
+        "sillen",
+        "sillar",
+        "sillarna"
+      ]
+    },
+    {
+      "slug": "sitta",
+      "lemma": "sitta",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "坐；固定；贴附",
+      "en": "to sit; to be fixed",
+      "known": false,
+      "forms": [
+        "sitta",
+        "sitt",
+        "sitter",
+        "satt",
+        "suttit"
+      ]
+    },
+    {
+      "slug": "självreflektering",
+      "lemma": "självreflektering",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "自我反思",
+      "en": "self-reflection",
+      "known": false,
+      "forms": [
+        "självreflektering",
+        "självreflekteringen",
+        "självreflekteringar",
+        "självreflekteringarna"
+      ]
+    },
+    {
+      "slug": "självständig",
+      "lemma": "självständig",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "独立的",
+      "en": "independent",
+      "known": false,
+      "forms": [
+        "självständig",
+        "självständigt",
+        "självständiga"
+      ]
+    },
+    {
+      "slug": "sjö",
+      "lemma": "sjö",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "湖；海",
+      "en": "lake; sea",
+      "known": false,
+      "forms": [
+        "sjö",
+        "sjön",
+        "sjöar",
+        "sjöarna"
+      ]
+    },
+    {
+      "slug": "sjuk",
+      "lemma": "sjuk",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "生病的",
+      "en": "sick; ill",
+      "known": false,
+      "forms": [
+        "sjuk",
+        "sjukt",
+        "sjuka",
+        "sjukare",
+        "sjukast"
+      ]
+    },
+    {
+      "slug": "sjukdom",
+      "lemma": "sjukdom",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "疾病",
+      "en": "disease, illness",
+      "known": false,
+      "forms": [
+        "sjukdom",
+        "sjukdomen",
+        "sjukdomar",
+        "sjukdomarna"
+      ]
+    },
+    {
+      "slug": "skada",
+      "lemma": "skada",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "伤害, 损坏",
+      "en": "to injure, to damage",
+      "known": false,
+      "forms": [
+        "skada",
+        "skadar",
+        "skadade",
+        "skadat"
+      ]
+    },
+    {
+      "slug": "skådespelare",
+      "lemma": "skådespelare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "演员",
+      "en": "actor, actress",
+      "known": false,
+      "forms": [
+        "skådespelare",
+        "skådespelaren",
+        "skådespelarna"
+      ]
+    },
+    {
+      "slug": "skaffa",
+      "lemma": "skaffa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "弄到；获得；办（某物）",
+      "en": "to get; to obtain; to acquire",
+      "known": false,
+      "forms": [
+        "skaffa",
+        "skaffar",
+        "skaffade",
+        "skaffat"
+      ]
+    },
+    {
+      "slug": "skatt",
+      "lemma": "skatt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "宝藏；税",
+      "en": "treasure; tax",
+      "known": false,
+      "forms": [
+        "skatt",
+        "skatten",
+        "skatter",
+        "skatterna"
+      ]
+    },
+    {
+      "slug": "skelett",
+      "lemma": "skelett",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "骨骼",
+      "en": "skeleton",
+      "known": false,
+      "forms": [
+        "skelett",
+        "skelettet",
+        "skeletten"
+      ]
+    },
+    {
+      "slug": "skicka",
+      "lemma": "skicka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "寄, 发送, 运送",
+      "en": "to send",
+      "known": false,
+      "forms": [
+        "skicka",
+        "skickar",
+        "skickade",
+        "skickat"
+      ]
+    },
+    {
+      "slug": "skilja_sig",
+      "lemma": "skilja sig",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "离婚",
+      "en": "to divorce, to separate",
+      "known": false,
+      "forms": [
+        "skilja sig"
+      ]
+    },
+    {
+      "slug": "skiljas",
+      "lemma": "skiljas",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "离婚 / 分开",
+      "en": "to divorce / to separate / to part",
+      "known": false,
+      "forms": [
+        "skiljas",
+        "skiljs",
+        "skildes",
+        "skilts"
+      ]
+    },
+    {
+      "slug": "skillnad",
+      "lemma": "skillnad",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "差别；区别",
+      "en": "difference",
+      "known": false,
+      "forms": [
+        "skillnad",
+        "skillnaden",
+        "skillnader",
+        "skillnaderna"
+      ]
+    },
+    {
+      "slug": "skina",
+      "lemma": "skina",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "照耀；发光",
+      "en": "to shine",
+      "known": false,
+      "forms": [
+        "skina",
+        "skiner",
+        "sken",
+        "skinit",
+        "skin"
+      ]
+    },
+    {
+      "slug": "skjuta",
+      "lemma": "skjuta",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "射击，开枪；推动；发射",
+      "en": "to shoot; to push; to fire",
+      "known": false,
+      "forms": [
+        "skjuta",
+        "skjuter",
+        "sköt",
+        "skjutit",
+        "skjut"
+      ]
+    },
+    {
+      "slug": "sko",
+      "lemma": "sko",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "鞋",
+      "en": "shoe",
+      "known": false,
+      "forms": [
+        "sko",
+        "skon",
+        "skor",
+        "skorna"
+      ]
+    },
+    {
+      "slug": "skog",
+      "lemma": "skog",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "森林",
+      "en": "forest, wood",
+      "known": false,
+      "forms": [
+        "skog",
+        "skogen",
+        "skogar",
+        "skogarna"
+      ]
+    },
+    {
+      "slug": "skola",
+      "lemma": "skola",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "学校",
+      "en": "school",
+      "known": false,
+      "forms": [
+        "skola",
+        "skolan",
+        "skolor",
+        "skolorna"
+      ]
+    },
+    {
+      "slug": "skolavslutning",
+      "lemma": "skolavslutning",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "学校结业典礼",
+      "en": "school closing ceremony",
+      "known": false,
+      "forms": [
+        "skolavslutning",
+        "skolavslutningen",
+        "skolavslutningar",
+        "skolavslutningarna"
+      ]
+    },
+    {
+      "slug": "sköldpadda",
+      "lemma": "sköldpadda",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "乌龟、龟",
+      "en": "turtle / tortoise",
+      "known": false,
+      "forms": [
+        "sköldpadda",
+        "sköldpaddan",
+        "sköldpaddor",
+        "sköldpaddorna"
+      ]
+    },
+    {
+      "slug": "skolstrejk",
+      "lemma": "skolstrejk",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "罢课",
+      "en": "school strike",
+      "known": false,
+      "forms": [
+        "skolstrejk",
+        "skolstrejken",
+        "skolstrejker",
+        "skolstrejkerna"
+      ]
+    },
+    {
+      "slug": "skott",
+      "lemma": "skott",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "枪声；射击；枪弹",
+      "en": "shot; gunshot",
+      "known": false,
+      "forms": [
+        "skott",
+        "skottet",
+        "skotten"
+      ]
+    },
+    {
+      "slug": "skratta",
+      "lemma": "skratta",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "笑；大笑",
+      "en": "to laugh",
+      "known": false,
+      "forms": [
+        "skratta",
+        "skrattar",
+        "skrattade",
+        "skrattat"
+      ]
+    },
+    {
+      "slug": "skrivbord",
+      "lemma": "skrivbord",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "书桌；办公桌",
+      "en": "desk",
+      "known": false,
+      "forms": [
+        "skrivbord",
+        "skrivbordet",
+        "skrivborden"
+      ]
+    },
+    {
+      "slug": "skuld",
+      "lemma": "skuld",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "债务；过错，罪责",
+      "en": "debt; guilt, fault",
+      "known": false,
+      "forms": [
+        "skuld",
+        "skulden",
+        "skulder",
+        "skulderna"
+      ]
+    },
+    {
+      "slug": "skvallra",
+      "lemma": "skvallra",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "八卦/议论",
+      "en": "to gossip",
+      "known": false,
+      "forms": [
+        "skvallra",
+        "skvallrar",
+        "skvallrade",
+        "skvallrat"
+      ]
+    },
+    {
+      "slug": "skygg",
+      "lemma": "skygg",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "胆小的、怕生的",
+      "en": "shy / timid",
+      "known": false,
+      "forms": [
+        "skygg",
+        "skyggare",
+        "skyggast",
+        "skyggaste"
+      ]
+    },
+    {
+      "slug": "skylt",
+      "lemma": "skylt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "招牌；标志",
+      "en": "sign",
+      "known": false,
+      "forms": [
+        "skylt",
+        "skylten",
+        "skyltar",
+        "skyltarna"
+      ]
+    },
+    {
+      "slug": "skynda",
+      "lemma": "skynda",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "赶快；急忙",
+      "en": "to hurry",
+      "known": false,
+      "forms": [
+        "skynda",
+        "skyndar",
+        "skyndade",
+        "skyndat"
+      ]
+    },
+    {
+      "slug": "slå",
+      "lemma": "slå",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "打 / 击 / slå rekord",
+      "en": "to hit / to beat / to strike",
+      "known": false,
+      "forms": [
+        "slå",
+        "slår",
+        "slog",
+        "slagit"
+      ]
+    },
+    {
+      "slug": "slev",
+      "lemma": "slev",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "汤勺",
+      "en": "ladle",
+      "known": false,
+      "forms": [
+        "slev",
+        "sleven",
+        "slevar",
+        "slevarna"
+      ]
+    },
+    {
+      "slug": "slippa",
+      "lemma": "slippa",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "免于 / 不必",
+      "en": "to not have to / to avoid / to be spared",
+      "known": false,
+      "forms": [
+        "slippa",
+        "slipper",
+        "slapp",
+        "sluppit"
+      ]
+    },
+    {
+      "slug": "smaka",
+      "lemma": "smaka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "品尝；尝起来",
+      "en": "to taste; to try",
+      "known": false,
+      "forms": [
+        "smaka",
+        "smakar",
+        "smakade",
+        "smakat"
+      ]
+    },
+    {
+      "slug": "smal",
+      "lemma": "smal",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "瘦的；狭窄的",
+      "en": "slim; narrow; slender",
+      "known": false,
+      "forms": [
+        "smal",
+        "smalt",
+        "smala",
+        "smalare",
+        "smalast"
+      ]
+    },
+    {
+      "slug": "smart",
+      "lemma": "smart",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "聪明的/机灵的",
+      "en": "smart, clever, intelligent",
+      "known": false,
+      "forms": [
+        "smart",
+        "smartare",
+        "smartast"
+      ]
+    },
+    {
+      "slug": "smärta",
+      "lemma": "smärta",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "疼痛",
+      "en": "pain",
+      "known": false,
+      "forms": [
+        "smärta",
+        "smärtan",
+        "smärtor",
+        "smärtorna"
+      ]
+    },
+    {
+      "slug": "smittsam",
+      "lemma": "smittsam",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "传染性的",
+      "en": "contagious, infectious",
+      "known": false,
+      "forms": [
+        "smittsam",
+        "smittsamt",
+        "smittsamma"
+      ]
+    },
+    {
+      "slug": "smörgås",
+      "lemma": "smörgås",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "三明治；面包片",
+      "en": "sandwich; open-faced sandwich",
+      "known": false,
+      "forms": [
+        "smörgås",
+        "smörgåsen",
+        "smörgåsar",
+        "smörgåsarna"
+      ]
+    },
+    {
+      "slug": "smuggla",
+      "lemma": "smuggla",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "走私，偷运",
+      "en": "to smuggle",
+      "known": false,
+      "forms": [
+        "smuggla",
+        "smugglar",
+        "smugglade",
+        "smugglat"
+      ]
+    },
+    {
+      "slug": "snabb",
+      "lemma": "snabb",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "快的",
+      "en": "fast",
+      "known": false,
+      "forms": [
+        "snabb",
+        "snabbt",
+        "snabba",
+        "snabbare",
+        "snabbast"
+      ]
+    },
+    {
+      "slug": "snabbt",
+      "lemma": "snabbt",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "快速地；迅速地",
+      "en": "quickly / fast",
+      "known": false,
+      "forms": [
+        "snabbt"
+      ]
+    },
+    {
+      "slug": "snäll",
+      "lemma": "snäll",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "善良的；友善的",
+      "en": "kind",
+      "known": false,
+      "forms": [
+        "snäll",
+        "snällt",
+        "snälla",
+        "snällare",
+        "snällast"
+      ]
+    },
+    {
+      "slug": "snart",
+      "lemma": "snart",
+      "ordklass": "adverb",
+      "cefr": "A1",
+      "zh": "很快；即将",
+      "en": "soon",
+      "known": false,
+      "forms": [
+        "snart"
+      ]
+    },
+    {
+      "slug": "snigel",
+      "lemma": "snigel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "蜗牛、鼻涕虫",
+      "en": "snail / slug",
+      "known": false,
+      "forms": [
+        "snigel",
+        "snigeln",
+        "sniglar",
+        "sniglarna"
+      ]
+    },
+    {
+      "slug": "snö",
+      "lemma": "snö",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "雪",
+      "en": "snow",
+      "known": false,
+      "forms": [
+        "snö",
+        "snön"
+      ]
+    },
+    {
+      "slug": "snygg",
+      "lemma": "snygg",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "好看的；帅的；漂亮的",
+      "en": "attractive; stylish; good-looking",
+      "known": false,
+      "forms": [
+        "snygg",
+        "snyggt",
+        "snygga",
+        "snyggare",
+        "snyggast"
+      ]
+    },
+    {
+      "slug": "söder",
+      "lemma": "söder",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "南；向南",
+      "en": "south",
+      "known": false,
+      "forms": [
+        "söder",
+        "södern"
+      ]
+    },
+    {
+      "slug": "soffa",
+      "lemma": "soffa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "沙发",
+      "en": "sofa; couch",
+      "known": false,
+      "forms": [
+        "soffa",
+        "soffan",
+        "soffor",
+        "sofforna"
+      ]
+    },
+    {
+      "slug": "soffbord",
+      "lemma": "soffbord",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "茶几；咖啡桌",
+      "en": "coffee table",
+      "known": false,
+      "forms": [
+        "soffbord",
+        "soffbordet",
+        "soffborden"
+      ]
+    },
+    {
+      "slug": "solig",
+      "lemma": "solig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "晴朗的；阳光明媚的",
+      "en": "sunny",
+      "known": false,
+      "forms": [
+        "solig",
+        "soligt",
+        "soliga"
+      ]
+    },
+    {
+      "slug": "sommar",
+      "lemma": "sommar",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "夏天；夏季",
+      "en": "summer",
+      "known": false,
+      "forms": [
+        "sommar",
+        "sommaren",
+        "somrar",
+        "somrarna"
+      ]
+    },
+    {
+      "slug": "sömn",
+      "lemma": "sömn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "睡眠",
+      "en": "sleep",
+      "known": false,
+      "forms": [
+        "sömn",
+        "sömnen"
+      ]
+    },
+    {
+      "slug": "somna",
+      "lemma": "somna",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "入睡、睡着",
+      "en": "to fall asleep",
+      "known": false,
+      "forms": [
+        "somna",
+        "somnar",
+        "somnade",
+        "somnat"
+      ]
+    },
+    {
+      "slug": "son",
+      "lemma": "son",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "儿子",
+      "en": "son",
+      "known": false,
+      "forms": [
+        "son",
+        "sonen",
+        "söner",
+        "sönerna"
+      ]
+    },
+    {
+      "slug": "soppa",
+      "lemma": "soppa",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "汤",
+      "en": "soup",
+      "known": false,
+      "forms": [
+        "soppa",
+        "soppan",
+        "soppor",
+        "sopporna"
+      ]
+    },
+    {
+      "slug": "söt",
+      "lemma": "söt",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "可爱的、甜的",
+      "en": "cute, sweet",
+      "known": false,
+      "forms": [
+        "söt",
+        "sött",
+        "söta"
+      ]
+    },
+    {
+      "slug": "spädbarn",
+      "lemma": "spädbarn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "婴儿、新生儿",
+      "en": "infant, newborn baby",
+      "known": false,
+      "forms": [
+        "spädbarn",
+        "spädbarnet",
+        "spädbarnen"
+      ]
+    },
+    {
+      "slug": "spår",
+      "lemma": "spår",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "铁路轨道；痕迹",
+      "en": "track (railway); trace, trail",
+      "known": false,
+      "forms": [
+        "spår",
+        "spåret",
+        "spåren"
+      ]
+    },
+    {
+      "slug": "spärra",
+      "lemma": "spärra",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "冻结；封锁；拦截",
+      "en": "to block / freeze / bar",
+      "known": false,
+      "forms": [
+        "spärra",
+        "spärrar",
+        "spärrade",
+        "spärr"
+      ]
+    },
+    {
+      "slug": "spårvagn",
+      "lemma": "spårvagn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "有轨电车",
+      "en": "tram",
+      "known": false,
+      "forms": [
+        "spårvagn",
+        "spårvagnen",
+        "spårvagnar",
+        "spårvagnarna"
+      ]
+    },
+    {
+      "slug": "spela",
+      "lemma": "spela",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "玩 / 踢 / 演奏",
+      "en": "to play (sport/music/games)",
+      "known": false,
+      "forms": [
+        "spela",
+        "spelar",
+        "spelade",
+        "spelat"
+      ]
+    },
+    {
+      "slug": "spindel",
+      "lemma": "spindel",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "蜘蛛",
+      "en": "spider",
+      "known": false,
+      "forms": [
+        "spindel",
+        "spindeln",
+        "spindlar",
+        "spindlarna"
+      ]
+    },
+    {
+      "slug": "spränga",
+      "lemma": "spränga",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "炸，爆破；炸毁",
+      "en": "to blow up, detonate, blast",
+      "known": false,
+      "forms": [
+        "spränga",
+        "spränger",
+        "sprängde",
+        "sprängt",
+        "spräng"
+      ]
+    },
+    {
+      "slug": "sprängning",
+      "lemma": "sprängning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "爆炸，爆破",
+      "en": "explosion, bombing, detonation",
+      "known": false,
+      "forms": [
+        "sprängning",
+        "sprängningen",
+        "sprängningar",
+        "sprängningarna"
+      ]
+    },
+    {
+      "slug": "stå",
+      "lemma": "stå",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "站；立；摆放",
+      "en": "to stand; to be standing",
+      "known": false,
+      "forms": [
+        "stå",
+        "står",
+        "stod",
+        "stått"
+      ]
+    },
+    {
+      "slug": "stad",
+      "lemma": "stad",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "城市；市镇",
+      "en": "city, town",
+      "known": false,
+      "forms": [
+        "stad",
+        "städer",
+        "staden",
+        "städerna"
+      ]
+    },
+    {
+      "slug": "städa",
+      "lemma": "städa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "打扫；收拾；整理",
+      "en": "to clean; to tidy up",
+      "known": false,
+      "forms": [
+        "städa",
+        "städar",
+        "städade",
+        "städat"
+      ]
+    },
+    {
+      "slug": "stämpelkort",
+      "lemma": "stämpelkort",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "集点卡；印章卡",
+      "en": "stamp card; loyalty card",
+      "known": false,
+      "forms": [
+        "stämpelkort",
+        "stämpelkortet",
+        "stämpelkorten"
+      ]
+    },
+    {
+      "slug": "stämpla",
+      "lemma": "stämpla",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "盖章；打印；盖戳",
+      "en": "to stamp",
+      "known": false,
+      "forms": [
+        "stämpla",
+        "stämplar",
+        "stämplade",
+        "stämplat"
+      ]
+    },
+    {
+      "slug": "stan",
+      "lemma": "stan",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "城里；市中心",
+      "en": "the city centre / downtown (informal)",
+      "known": false,
+      "forms": [
+        "stan"
+      ]
+    },
+    {
+      "slug": "stanna",
+      "lemma": "stanna",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "停下；停留",
+      "en": "to stop; to stay",
+      "known": false,
+      "forms": [
+        "stanna",
+        "stannar",
+        "stannade",
+        "stannat"
+      ]
+    },
+    {
+      "slug": "stark",
+      "lemma": "stark",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "强壮的；强烈的",
+      "en": "strong",
+      "known": false,
+      "forms": [
+        "stark",
+        "starkt",
+        "starka",
+        "starkare",
+        "starkast"
+      ]
+    },
+    {
+      "slug": "station",
+      "lemma": "station",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "车站；站",
+      "en": "station",
+      "known": false,
+      "forms": [
+        "station",
+        "stationer",
+        "stationen",
+        "stationerna"
+      ]
+    },
+    {
+      "slug": "statistik",
+      "lemma": "statistik",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "统计；统计数据",
+      "en": "statistics",
+      "known": false,
+      "forms": [
+        "statistik",
+        "statistiken",
+        "statistiker"
+      ]
+    },
+    {
+      "slug": "stiga",
+      "lemma": "stiga",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "上升；迈步；走上",
+      "en": "to rise / step / climb",
+      "known": false,
+      "forms": [
+        "stiga",
+        "stiger",
+        "steg",
+        "stigit"
+      ]
+    },
+    {
+      "slug": "stilig",
+      "lemma": "stilig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "帅气的",
+      "en": "handsome",
+      "known": false,
+      "forms": [
+        "stilig",
+        "stiligt",
+        "stiliga"
+      ]
+    },
+    {
+      "slug": "stol",
+      "lemma": "stol",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "椅子",
+      "en": "chair",
+      "known": false,
+      "forms": [
+        "stol",
+        "stolen",
+        "stolar",
+        "stolarna"
+      ]
+    },
+    {
+      "slug": "stolt",
+      "lemma": "stolt",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "自豪的",
+      "en": "proud",
+      "known": false,
+      "forms": [
+        "stolt",
+        "stolta"
+      ]
+    },
+    {
+      "slug": "stor",
+      "lemma": "stor",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "大的",
+      "en": "big",
+      "known": false,
+      "forms": [
+        "stor",
+        "stort",
+        "stora",
+        "större",
+        "störst"
+      ]
+    },
+    {
+      "slug": "stövel",
+      "lemma": "stövel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "靴子",
+      "en": "boot",
+      "known": false,
+      "forms": [
+        "stövel",
+        "stöveln",
+        "stövlar",
+        "stövlarna"
+      ]
+    },
+    {
+      "slug": "straff",
+      "lemma": "straff",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "惩罚；（经济）制裁",
+      "en": "punishment, penalty; (economic) sanction",
+      "known": false,
+      "forms": [
+        "straff",
+        "straffet",
+        "straffen"
+      ]
+    },
+    {
+      "slug": "strejka",
+      "lemma": "strejka",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "罢工，罢课",
+      "en": "strike, protest",
+      "known": false,
+      "forms": [
+        "strejka",
+        "strejkar",
+        "strejkade",
+        "strejkat"
+      ]
+    },
+    {
+      "slug": "stress",
+      "lemma": "stress",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "压力；紧张",
+      "en": "stress",
+      "known": false,
+      "forms": [
+        "stress",
+        "stressen"
+      ]
+    },
+    {
+      "slug": "stressig",
+      "lemma": "stressig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "紧张的、有压力的",
+      "en": "stressful",
+      "known": false,
+      "forms": [
+        "stressig",
+        "stressigt",
+        "stressiga"
+      ]
+    },
+    {
+      "slug": "strukturerad",
+      "lemma": "strukturerad",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "有条理的",
+      "en": "structured",
+      "known": false,
+      "forms": [
+        "strukturerad",
+        "strukturerat",
+        "strukturerade"
+      ]
+    },
+    {
+      "slug": "stryptag",
+      "lemma": "stryptag",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "扼颈，掐脖子",
+      "en": "stranglehold, chokehold",
+      "known": false,
+      "forms": [
+        "stryptag",
+        "stryptaget",
+        "stryptagen"
+      ]
+    },
+    {
+      "slug": "studentmössa",
+      "lemma": "studentmössa",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "毕业帽",
+      "en": "graduation cap",
+      "known": false,
+      "forms": [
+        "studentmössa",
+        "studentmössan",
+        "studentmössor",
+        "studentmössorna"
+      ]
+    },
+    {
+      "slug": "studiemedel",
+      "lemma": "studiemedel",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "助学金",
+      "en": "student aid",
+      "known": false,
+      "forms": [
+        "studiemedel",
+        "studiemedlet",
+        "studiemedlen"
+      ]
+    },
+    {
+      "slug": "sund",
+      "lemma": "sund",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "健康的",
+      "en": "healthy, sound",
+      "known": false,
+      "forms": [
+        "sund",
+        "sunt",
+        "sunda",
+        "sundare",
+        "sundast",
+        "sundaste"
+      ]
+    },
+    {
+      "slug": "sur",
+      "lemma": "sur",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "酸的",
+      "en": "sour, acidic",
+      "known": false,
+      "forms": [
+        "sur",
+        "surt",
+        "sura",
+        "surare",
+        "surast",
+        "suraste"
+      ]
+    },
+    {
+      "slug": "svag",
+      "lemma": "svag",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "虚弱的/弱的",
+      "en": "weak, feeble",
+      "known": false,
+      "forms": [
+        "svag",
+        "svagare",
+        "svagast"
+      ]
+    },
+    {
+      "slug": "sval",
+      "lemma": "sval",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "凉爽的",
+      "en": "cool",
+      "known": false,
+      "forms": [
+        "sval",
+        "svalt",
+        "svala",
+        "svalare",
+        "svalast"
+      ]
+    },
+    {
+      "slug": "svamp",
+      "lemma": "svamp",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "蘑菇",
+      "en": "mushroom",
+      "known": false,
+      "forms": [
+        "svamp",
+        "svampen",
+        "svampar",
+        "svamparna"
+      ]
+    },
+    {
+      "slug": "svan",
+      "lemma": "svan",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "天鹅",
+      "en": "swan",
+      "known": false,
+      "forms": [
+        "svan",
+        "svanen",
+        "svanar",
+        "svanarna"
+      ]
+    },
+    {
+      "slug": "svänga",
+      "lemma": "svänga",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "转；拐弯；摇摆",
+      "en": "to turn; to swing",
+      "known": false,
+      "forms": [
+        "svänga",
+        "svänger",
+        "svängde",
+        "svängt",
+        "sväng"
+      ]
+    },
+    {
+      "slug": "svår",
+      "lemma": "svår",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "困难的",
+      "en": "difficult, hard",
+      "known": false,
+      "forms": [
+        "svår",
+        "svårt",
+        "svåra",
+        "svårare",
+        "svårast"
+      ]
+    },
+    {
+      "slug": "svart",
+      "lemma": "svart",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "黑色的",
+      "en": "black",
+      "known": false,
+      "forms": [
+        "svart",
+        "svarta",
+        "svartare",
+        "svartast"
+      ]
+    },
+    {
+      "slug": "svullen",
+      "lemma": "svullen",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "肿的；肿胀的",
+      "en": "swollen",
+      "known": false,
+      "forms": [
+        "svullen",
+        "svullet",
+        "svullna"
+      ]
+    },
+    {
+      "slug": "syskon",
+      "lemma": "syskon",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "兄弟姐妹",
+      "en": "siblings",
+      "known": false,
+      "forms": [
+        "syskon",
+        "syskonet",
+        "syskonen"
+      ]
+    },
+    {
+      "slug": "syster",
+      "lemma": "syster",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "姐姐、妹妹",
+      "en": "sister",
+      "known": false,
+      "forms": [
+        "syster",
+        "systern",
+        "systrar",
+        "systrarna"
+      ]
+    },
+    {
+      "slug": "tå",
+      "lemma": "tå",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "脚趾",
+      "en": "toe",
+      "known": false,
+      "forms": [
+        "tå",
+        "tån",
+        "tår",
+        "tårna"
+      ]
+    },
+    {
+      "slug": "täcka",
+      "lemma": "täcka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "覆盖；盖住",
+      "en": "to cover",
+      "known": false,
+      "forms": [
+        "täcka",
+        "täcker",
+        "täckte",
+        "täckt",
+        "täck"
+      ]
+    },
+    {
+      "slug": "tåg",
+      "lemma": "tåg",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "火车；列车",
+      "en": "train",
+      "known": false,
+      "forms": [
+        "tåg",
+        "tåget",
+        "tågen"
+      ]
+    },
+    {
+      "slug": "tal",
+      "lemma": "tal",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "演讲；数字；数",
+      "en": "speech; number; count",
+      "known": false,
+      "forms": [
+        "tal",
+        "talet",
+        "talen"
+      ]
+    },
+    {
+      "slug": "tåla",
+      "lemma": "tåla",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "受得了；耐受",
+      "en": "to tolerate; to stand",
+      "known": false,
+      "forms": [
+        "tåla",
+        "tål",
+        "tålde",
+        "tålt"
+      ]
+    },
+    {
+      "slug": "tallrik",
+      "lemma": "tallrik",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "盘子",
+      "en": "plate",
+      "known": false,
+      "forms": [
+        "tallrik",
+        "tallriken",
+        "tallrikar",
+        "tallrikarna"
+      ]
+    },
+    {
+      "slug": "tam",
+      "lemma": "tam",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "温驯的；驯养的",
+      "en": "tame",
+      "known": false,
+      "forms": [
+        "tam",
+        "tamt",
+        "tama",
+        "tamare",
+        "tamast"
+      ]
+    },
+    {
+      "slug": "tänka",
+      "lemma": "tänka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "想；思考；打算",
+      "en": "to think / plan",
+      "known": false,
+      "forms": [
+        "tänka",
+        "tänker",
+        "tänkte",
+        "tänkt"
+      ]
+    },
+    {
+      "slug": "tappa",
+      "lemma": "tappa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "丢失；掉落；失去",
+      "en": "to drop / lose",
+      "known": false,
+      "forms": [
+        "tappa",
+        "tappar",
+        "tappade",
+        "tappat"
+      ]
+    },
+    {
+      "slug": "tårta",
+      "lemma": "tårta",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "蛋糕（奶油层蛋糕）",
+      "en": "cake (layered/cream cake)",
+      "known": false,
+      "forms": [
+        "tårta",
+        "tårtan",
+        "tårtor",
+        "tårtorna"
+      ]
+    },
+    {
+      "slug": "tavla",
+      "lemma": "tavla",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "画；挂画",
+      "en": "painting; picture",
+      "known": false,
+      "forms": [
+        "tavla",
+        "tavlan",
+        "tavlor",
+        "tavlorna"
+      ]
+    },
+    {
+      "slug": "te",
+      "lemma": "te",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "茶",
+      "en": "tea",
+      "known": false,
+      "forms": [
+        "te",
+        "teet",
+        "teen",
+        "teer",
+        "teerna"
+      ]
+    },
+    {
+      "slug": "television",
+      "lemma": "television",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "电视机",
+      "en": "television",
+      "known": false,
+      "forms": [
+        "television",
+        "televisionen",
+        "televisioner",
+        "televisionerna"
+      ]
+    },
+    {
+      "slug": "teoretisk",
+      "lemma": "teoretisk",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "理论的",
+      "en": "theoretical",
+      "known": false,
+      "forms": [
+        "teoretisk",
+        "teoretiskt",
+        "teoretiska"
+      ]
+    },
+    {
+      "slug": "tidig",
+      "lemma": "tidig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "早的",
+      "en": "early",
+      "known": false,
+      "forms": [
+        "tidig",
+        "tidigt",
+        "tidiga"
+      ]
+    },
+    {
+      "slug": "tidigt",
+      "lemma": "tidigt",
+      "ordklass": "adverb",
+      "cefr": "A1",
+      "zh": "早；提早",
+      "en": "early",
+      "known": false,
+      "forms": [
+        "tidigt"
+      ]
+    },
+    {
+      "slug": "tidning",
+      "lemma": "tidning",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "报纸；杂志",
+      "en": "newspaper; magazine",
+      "known": false,
+      "forms": [
+        "tidning",
+        "tidningen",
+        "tidningar",
+        "tidningarna"
+      ]
+    },
+    {
+      "slug": "tiger",
+      "lemma": "tiger",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "老虎",
+      "en": "tiger",
+      "known": false,
+      "forms": [
+        "tiger",
+        "tigern",
+        "tigrar",
+        "tigrarna"
+      ]
+    },
+    {
+      "slug": "tillbringa",
+      "lemma": "tillbringa",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "度过（时间）；消磨（时间）",
+      "en": "to spend (time)",
+      "known": false,
+      "forms": [
+        "tillbringa",
+        "tillbringar",
+        "tillbringade",
+        "tillbringat"
+      ]
+    },
+    {
+      "slug": "titta",
+      "lemma": "titta",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "看；看一看",
+      "en": "to look / have a look",
+      "known": false,
+      "forms": [
+        "titta",
+        "tittar",
+        "tittade",
+        "tittat"
+      ]
+    },
+    {
+      "slug": "tjafsa",
+      "lemma": "tjafsa",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "争吵，斗嘴（口语）",
+      "en": "to bicker, to quarrel (informal)",
+      "known": false,
+      "forms": [
+        "tjafsa",
+        "tjafsar",
+        "tjáfsade",
+        "tjafsat"
+      ]
+    },
+    {
+      "slug": "tjäna",
+      "lemma": "tjäna",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "赚（钱）；服务",
+      "en": "to earn; to serve",
+      "known": false,
+      "forms": [
+        "tjäna",
+        "tjänar",
+        "tjänade",
+        "tjänat"
+      ]
+    },
+    {
+      "slug": "tjej",
+      "lemma": "tjej",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "姑娘、女孩",
+      "en": "girl",
+      "known": false,
+      "forms": [
+        "tjej",
+        "tjejen",
+        "tjejer",
+        "tjejerna"
+      ]
+    },
+    {
+      "slug": "tjock",
+      "lemma": "tjock",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "肥的；厚的",
+      "en": "fat/thick",
+      "known": false,
+      "forms": [
+        "tjock",
+        "tjockt",
+        "tjocka",
+        "tjockare",
+        "tjockast"
+      ]
+    },
+    {
+      "slug": "tom",
+      "lemma": "tom",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "空的；空荡荡的",
+      "en": "empty",
+      "known": false,
+      "forms": [
+        "tom",
+        "tomt",
+        "tomma",
+        "tommare",
+        "tommast",
+        "tommaste"
+      ]
+    },
+    {
+      "slug": "tomat",
+      "lemma": "tomat",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "番茄、西红柿",
+      "en": "tomato",
+      "known": false,
+      "forms": [
+        "tomat",
+        "tomaten",
+        "tomater",
+        "tomaterna"
+      ]
+    },
+    {
+      "slug": "torg",
+      "lemma": "torg",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "广场；集市广场",
+      "en": "town square / square",
+      "known": false,
+      "forms": [
+        "torg",
+        "torget",
+        "torgen"
+      ]
+    },
+    {
+      "slug": "torka",
+      "lemma": "torka",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "干旱",
+      "en": "drought",
+      "known": false,
+      "forms": [
+        "torka",
+        "torkor",
+        "torkan",
+        "torkorna"
+      ]
+    },
+    {
+      "slug": "totalt",
+      "lemma": "totalt",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "总共；一共",
+      "en": "in total; altogether",
+      "known": false,
+      "forms": [
+        "totalt"
+      ]
+    },
+    {
+      "slug": "träd",
+      "lemma": "träd",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "树",
+      "en": "tree",
+      "known": false,
+      "forms": [
+        "träd",
+        "trädet",
+        "träden"
+      ]
+    },
+    {
+      "slug": "trafikljus",
+      "lemma": "trafikljus",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "交通灯；红绿灯",
+      "en": "traffic light",
+      "known": false,
+      "forms": [
+        "trafikljus",
+        "trafikljuset",
+        "trafikljusen"
+      ]
+    },
+    {
+      "slug": "tråkig",
+      "lemma": "tråkig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "无聊的/令人厌烦的",
+      "en": "boring, dull",
+      "known": false,
+      "forms": [
+        "tråkig",
+        "tråkigt",
+        "tråkiga",
+        "tråkigare",
+        "tråkigast"
+      ]
+    },
+    {
+      "slug": "trång",
+      "lemma": "trång",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "狭窄的；拥挤的",
+      "en": "narrow, cramped",
+      "known": false,
+      "forms": [
+        "trång",
+        "trångt",
+        "trångare",
+        "trångast",
+        "trångaste"
+      ]
+    },
+    {
+      "slug": "trasig",
+      "lemma": "trasig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "坏的；损坏的；破损的",
+      "en": "broken, out of order",
+      "known": false,
+      "forms": [
+        "trasig",
+        "trasigt",
+        "trasiga"
+      ]
+    },
+    {
+      "slug": "trevlig",
+      "lemma": "trevlig",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "令人愉快的；可爱的",
+      "en": "nice; pleasant; lovely",
+      "known": false,
+      "forms": [
+        "trevlig",
+        "trevligt",
+        "trevliga",
+        "trevligare",
+        "trevligast"
+      ]
+    },
+    {
+      "slug": "trivas",
+      "lemma": "trivas",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "感到自在；适应得好",
+      "en": "feel at ease, thrive, enjoy oneself",
+      "known": false,
+      "forms": [
+        "trivas",
+        "trivs",
+        "trivdes",
+        "trivts"
+      ]
+    },
+    {
+      "slug": "trogen",
+      "lemma": "trogen",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "忠诚的",
+      "en": "loyal",
+      "known": false,
+      "forms": [
+        "trogen",
+        "troget",
+        "trogna",
+        "trognare",
+        "trognast"
+      ]
+    },
+    {
+      "slug": "tröja",
+      "lemma": "tröja",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "毛衣；针织衫；上衣",
+      "en": "sweater; jumper; top",
+      "known": false,
+      "forms": [
+        "tröja",
+        "tröjan",
+        "tröjor",
+        "tröjorna"
+      ]
+    },
+    {
+      "slug": "trots_att",
+      "lemma": "trots att",
+      "ordklass": "konjunktion",
+      "cefr": "B1",
+      "zh": "尽管",
+      "en": "although, even though",
+      "known": false,
+      "forms": [
+        "trots att"
+      ]
+    },
+    {
+      "slug": "trött",
+      "lemma": "trött",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "累的、疲惫的",
+      "en": "tired",
+      "known": false,
+      "forms": [
+        "trött",
+        "trötta",
+        "tröttare",
+        "tröttast",
+        "tröttaste"
+      ]
+    },
+    {
+      "slug": "trottoar",
+      "lemma": "trottoar",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "人行道",
+      "en": "pavement / sidewalk",
+      "known": false,
+      "forms": [
+        "trottoar",
+        "trottoaren",
+        "trottoarer",
+        "trottoarerna"
+      ]
+    },
+    {
+      "slug": "tung",
+      "lemma": "tung",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "重的；沉重的",
+      "en": "heavy",
+      "known": false,
+      "forms": [
+        "tung",
+        "tungt",
+        "tunga",
+        "tyngre",
+        "tyngst",
+        "tyngsta"
+      ]
+    },
+    {
+      "slug": "tunn",
+      "lemma": "tunn",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "薄的；细的；瘦的",
+      "en": "thin; slim; fine",
+      "known": false,
+      "forms": [
+        "tunn",
+        "tunt",
+        "tunna",
+        "tunnare",
+        "tunnast"
+      ]
+    },
+    {
+      "slug": "tunnel",
+      "lemma": "tunnel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "隧道",
+      "en": "tunnel",
+      "known": false,
+      "forms": [
+        "tunnel",
+        "tunnlar",
+        "tunneln",
+        "tunnlarna"
+      ]
+    },
+    {
+      "slug": "tunnelbana",
+      "lemma": "tunnelbana",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "地铁",
+      "en": "metro / subway",
+      "known": false,
+      "forms": [
+        "tunnelbana",
+        "tunnelbanan",
+        "tunnelbanor",
+        "tunnelbanorna"
+      ]
+    },
+    {
+      "slug": "turist",
+      "lemma": "turist",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "游客",
+      "en": "tourist",
+      "known": false,
+      "forms": [
+        "turist",
+        "turisten",
+        "turister",
+        "turisterna"
+      ]
+    },
+    {
+      "slug": "tvungen",
+      "lemma": "tvungen",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "被迫的/不得不",
+      "en": "forced to, compelled",
+      "known": false,
+      "forms": [
+        "tvungen",
+        "tvunget",
+        "tvungna"
+      ]
+    },
+    {
+      "slug": "tydlig",
+      "lemma": "tydlig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "明显的；清晰的；清楚的",
+      "en": "clear; distinct; obvious",
+      "known": false,
+      "forms": [
+        "tydlig",
+        "tydligt",
+        "tydliga",
+        "tydligare",
+        "tydligast"
+      ]
+    },
+    {
+      "slug": "tyst",
+      "lemma": "tyst",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "安静的、沉默的",
+      "en": "quiet / silent",
+      "known": false,
+      "forms": [
+        "tyst",
+        "tysta",
+        "tystare",
+        "tystast",
+        "tystaste"
+      ]
+    },
+    {
+      "slug": "tyvärr",
+      "lemma": "tyvärr",
+      "ordklass": "adverb",
+      "cefr": "A1",
+      "zh": "可惜；遗憾地",
+      "en": "unfortunately; I'm afraid",
+      "known": false,
+      "forms": [
+        "tyvärr"
+      ]
+    },
+    {
+      "slug": "uggla",
+      "lemma": "uggla",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "猫头鹰",
+      "en": "owl",
+      "known": false,
+      "forms": [
+        "uggla",
+        "ugglan",
+        "ugglor",
+        "ugglorna"
+      ]
+    },
+    {
+      "slug": "ugn",
+      "lemma": "ugn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "烤箱；炉子",
+      "en": "oven",
+      "known": false,
+      "forms": [
+        "ugn",
+        "ugnen",
+        "ugnar",
+        "ugnarna"
+      ]
+    },
+    {
+      "slug": "ullig",
+      "lemma": "ullig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "毛茸茸的、羊毛般的",
+      "en": "woolly",
+      "known": false,
+      "forms": [
+        "ullig",
+        "ullligt",
+        "ulliga",
+        "ulligare",
+        "ulligast",
+        "ulligaste"
+      ]
+    },
+    {
+      "slug": "under",
+      "lemma": "under",
+      "ordklass": "preposition",
+      "cefr": "A1",
+      "zh": "在……下面",
+      "en": "under; beneath; below",
+      "known": false,
+      "forms": [
+        "under"
+      ]
+    },
+    {
+      "slug": "undersökning",
+      "lemma": "undersökning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "调查，研究；检查",
+      "en": "survey, study, investigation; examination",
+      "known": false,
+      "forms": [
+        "undersökning",
+        "undersökningen",
+        "undersökningar",
+        "undersökningarna"
+      ]
+    },
+    {
+      "slug": "undvika",
+      "lemma": "undvika",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "避免；回避",
+      "en": "to avoid",
+      "known": false,
+      "forms": [
+        "undvika",
+        "undviker",
+        "undvek",
+        "undvikit",
+        "undvik"
+      ]
+    },
+    {
+      "slug": "ung",
+      "lemma": "ung",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "年轻的；年幼的",
+      "en": "young",
+      "known": false,
+      "forms": [
+        "ung",
+        "ungt",
+        "unga",
+        "yngre",
+        "yngst"
+      ]
+    },
+    {
+      "slug": "ungdom",
+      "lemma": "ungdom",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "年轻人",
+      "en": "young person / youth",
+      "known": false,
+      "forms": [
+        "ungdom",
+        "ungdomen",
+        "ungdomar",
+        "ungdomarna"
+      ]
+    },
+    {
+      "slug": "ungefär",
+      "lemma": "ungefär",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "大约；差不多",
+      "en": "approximately / about",
+      "known": false,
+      "forms": [
+        "ungefär"
+      ]
+    },
+    {
+      "slug": "universitet",
+      "lemma": "universitet",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "大学",
+      "en": "university",
+      "known": false,
+      "forms": [
+        "universitet",
+        "universitetet",
+        "universiteten"
+      ]
+    },
+    {
+      "slug": "uppsats",
+      "lemma": "uppsats",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "论文、作文",
+      "en": "essay, paper",
+      "known": false,
+      "forms": [
+        "uppsats",
+        "uppsatsen",
+        "uppsatser",
+        "uppsatserna"
+      ]
+    },
+    {
+      "slug": "utbildning",
+      "lemma": "utbildning",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "教育、培训",
+      "en": "education, training",
+      "known": false,
+      "forms": [
+        "utbildning",
+        "utbildningen",
+        "utbildningar",
+        "utbildningarna"
+      ]
+    },
+    {
+      "slug": "utomhus",
+      "lemma": "utomhus",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "户外；在外面",
+      "en": "outdoors; outside",
+      "known": false,
+      "forms": [
+        "utomhus"
+      ]
+    },
+    {
+      "slug": "utsatthet",
+      "lemma": "utsatthet",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "脆弱性；处于风险中的处境",
+      "en": "vulnerability, exposed situation",
+      "known": false,
+      "forms": [
+        "utsatthet",
+        "utsattheten"
+      ]
+    },
+    {
+      "slug": "utsläpp",
+      "lemma": "utsläpp",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "排放",
+      "en": "emission(s)",
+      "known": false,
+      "forms": [
+        "utsläpp",
+        "utsläppet",
+        "utsläppen"
+      ]
+    },
+    {
+      "slug": "uttorkad",
+      "lemma": "uttorkad",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "脱水的，干燥的",
+      "en": "dehydrated, dried out",
+      "known": false,
+      "forms": [
+        "uttorkad",
+        "uttorkat",
+        "uttorkade"
+      ]
+    },
+    {
+      "slug": "vacker",
+      "lemma": "vacker",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "美丽的",
+      "en": "beautiful",
+      "known": false,
+      "forms": [
+        "vacker",
+        "vackert",
+        "vackra",
+        "vackrare",
+        "vackrast"
+      ]
+    },
+    {
+      "slug": "väder",
+      "lemma": "väder",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "天气",
+      "en": "weather",
+      "known": false,
+      "forms": [
+        "väder",
+        "vädret",
+        "vädren"
+      ]
+    },
+    {
+      "slug": "våg",
+      "lemma": "våg",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "秤；（另义）波浪",
+      "en": "scale; (also) wave",
+      "known": false,
+      "forms": [
+        "våg",
+        "vågen",
+        "vågar",
+        "vågarna"
+      ]
+    },
+    {
+      "slug": "väg",
+      "lemma": "väg",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "路；道路；途径",
+      "en": "road, way",
+      "known": false,
+      "forms": [
+        "väg",
+        "vägar",
+        "vägen",
+        "vägarna"
+      ]
+    },
+    {
+      "slug": "väga",
+      "lemma": "väga",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "称重；重达",
+      "en": "to weigh",
+      "known": false,
+      "forms": [
+        "väga",
+        "väger",
+        "vägde",
+        "vägt",
+        "väg"
+      ]
+    },
+    {
+      "slug": "vägg",
+      "lemma": "vägg",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "墙；墙壁",
+      "en": "wall",
+      "known": false,
+      "forms": [
+        "vägg",
+        "väggen",
+        "väggar",
+        "väggarna"
+      ]
+    },
+    {
+      "slug": "vagn",
+      "lemma": "vagn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "车厢；马车",
+      "en": "carriage, wagon",
+      "known": false,
+      "forms": [
+        "vagn",
+        "vagnen",
+        "vagnar",
+        "vagnarna"
+      ]
+    },
+    {
+      "slug": "vaken",
+      "lemma": "vaken",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "清醒的、警醒的",
+      "en": "awake / alert",
+      "known": false,
+      "forms": [
+        "vaken",
+        "vaket",
+        "vakna",
+        "vakare",
+        "vakast"
+      ]
+    },
+    {
+      "slug": "vakna",
+      "lemma": "vakna",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "醒来；醒",
+      "en": "to wake up",
+      "known": false,
+      "forms": [
+        "vakna",
+        "vaknar",
+        "vaknade",
+        "vaknat"
+      ]
+    },
+    {
+      "slug": "val",
+      "lemma": "val",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "选择；选项；投票（选举）",
+      "en": "choice; election",
+      "known": false,
+      "forms": [
+        "val",
+        "valet",
+        "valen"
+      ]
+    },
+    {
+      "slug": "väl",
+      "lemma": "väl",
+      "ordklass": "satsadverbial",
+      "cefr": "A2",
+      "zh": "吧；应该；想必（情态副词）",
+      "en": "right?; probably; I suppose (modal particle)",
+      "known": false,
+      "forms": [
+        "väl"
+      ]
+    },
+    {
+      "slug": "väljare",
+      "lemma": "väljare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "选民",
+      "en": "voter",
+      "known": false,
+      "forms": [
+        "väljare",
+        "väljaren",
+        "väljarna"
+      ]
+    },
+    {
+      "slug": "välkommen",
+      "lemma": "välkommen",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "受欢迎的",
+      "en": "welcome",
+      "known": false,
+      "forms": [
+        "välkommen",
+        "välkommet",
+        "välkomna"
+      ]
+    },
+    {
+      "slug": "välkomna",
+      "lemma": "välkomna",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "欢迎",
+      "en": "to welcome",
+      "known": false,
+      "forms": [
+        "välkomna",
+        "välkomnar",
+        "välkomnade",
+        "välkomnat"
+      ]
+    },
+    {
+      "slug": "vän",
+      "lemma": "vän",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "朋友",
+      "en": "friend",
+      "known": false,
+      "forms": [
+        "vän",
+        "vännen",
+        "vänner",
+        "vännerna"
+      ]
+    },
+    {
+      "slug": "vanlig",
+      "lemma": "vanlig",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "普通的；寻常的",
+      "en": "ordinary / common",
+      "known": false,
+      "forms": [
+        "vanlig",
+        "vanligt",
+        "vanliga"
+      ]
+    },
+    {
+      "slug": "vänlig",
+      "lemma": "vänlig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "友好的",
+      "en": "friendly",
+      "known": false,
+      "forms": [
+        "vänlig",
+        "vänligt",
+        "vänliga"
+      ]
+    },
+    {
+      "slug": "vänster",
+      "lemma": "vänster",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "左；左边",
+      "en": "left",
+      "known": false,
+      "forms": [
+        "vänster"
+      ]
+    },
+    {
+      "slug": "vänta",
+      "lemma": "vänta",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "等待",
+      "en": "to wait",
+      "known": false,
+      "forms": [
+        "vänta",
+        "väntar",
+        "väntade",
+        "väntat"
+      ]
+    },
+    {
+      "slug": "väntetid",
+      "lemma": "väntetid",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "等待时间",
+      "en": "waiting time",
+      "known": false,
+      "forms": [
+        "väntetid",
+        "väntetiden",
+        "väntetider",
+        "väntetiderna"
+      ]
+    },
+    {
+      "slug": "vapen",
+      "lemma": "vapen",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "武器",
+      "en": "weapon",
+      "known": false,
+      "forms": [
+        "vapen",
+        "vapnet",
+        "vapnen"
+      ]
+    },
+    {
+      "slug": "vår",
+      "lemma": "vår",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "春天；春季",
+      "en": "spring",
+      "known": false,
+      "forms": [
+        "vår",
+        "våren",
+        "vårar",
+        "vårarna"
+      ]
+    },
+    {
+      "slug": "vara",
+      "lemma": "vara",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "是 / 存在",
+      "en": "to be",
+      "known": false,
+      "forms": [
+        "vara",
+        "är",
+        "var",
+        "varit"
+      ]
+    },
+    {
+      "slug": "varandra",
+      "lemma": "varandra",
+      "ordklass": "pronomen",
+      "cefr": "A2",
+      "zh": "彼此；互相；相互",
+      "en": "each other; one another",
+      "known": false,
+      "forms": [
+        "varandra",
+        "varandras"
+      ]
+    },
+    {
+      "slug": "vardag",
+      "lemma": "vardag",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "日常；工作日",
+      "en": "everyday life; weekday",
+      "known": false,
+      "forms": [
+        "vardag",
+        "vardagen",
+        "vardagar",
+        "vardagarna"
+      ]
+    },
+    {
+      "slug": "vardagsrum",
+      "lemma": "vardagsrum",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "客厅",
+      "en": "living room",
+      "known": false,
+      "forms": [
+        "vardagsrum",
+        "vardagsrummet",
+        "vardagsrummen"
+      ]
+    },
+    {
+      "slug": "varg",
+      "lemma": "varg",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "狼",
+      "en": "wolf",
+      "known": false,
+      "forms": [
+        "varg",
+        "vargen",
+        "vargar",
+        "vargarna"
+      ]
+    },
+    {
+      "slug": "varm",
+      "lemma": "varm",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "热的、温暖的",
+      "en": "warm, hot",
+      "known": false,
+      "forms": [
+        "varm",
+        "varmt",
+        "varma",
+        "varmare",
+        "varmast",
+        "varmaste"
+      ]
+    },
+    {
+      "slug": "värma",
+      "lemma": "värma",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "加热；使变暖",
+      "en": "to heat; to warm",
+      "known": false,
+      "forms": [
+        "värma",
+        "värmer",
+        "värmde",
+        "värmt",
+        "värm"
+      ]
+    },
+    {
+      "slug": "värme",
+      "lemma": "värme",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "热；高温；温暖",
+      "en": "heat; warmth",
+      "known": false,
+      "forms": [
+        "värme",
+        "värmen"
+      ]
+    },
+    {
+      "slug": "värmebölja",
+      "lemma": "värmebölja",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "热浪",
+      "en": "heatwave",
+      "known": false,
+      "forms": [
+        "värmebölja",
+        "värmeböljor",
+        "värmeböljan",
+        "värmeböljorna"
+      ]
+    },
+    {
+      "slug": "varna",
+      "lemma": "varna",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "警告，提醒",
+      "en": "to warn",
+      "known": false,
+      "forms": [
+        "varna",
+        "varnar",
+        "varnade",
+        "varnat"
+      ]
+    },
+    {
+      "slug": "vass",
+      "lemma": "vass",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "锋利的",
+      "en": "sharp",
+      "known": false,
+      "forms": [
+        "vass",
+        "vasst",
+        "vassa",
+        "vassare",
+        "vassast",
+        "vassaste"
+      ]
+    },
+    {
+      "slug": "vatten",
+      "lemma": "vatten",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "水；水边",
+      "en": "water",
+      "known": false,
+      "forms": [
+        "vatten",
+        "vattnet",
+        "vattnen"
+      ]
+    },
+    {
+      "slug": "växa",
+      "lemma": "växa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "生长；成长",
+      "en": "to grow",
+      "known": false,
+      "forms": [
+        "växa",
+        "väx",
+        "växer",
+        "växte",
+        "växt"
+      ]
+    },
+    {
+      "slug": "vecka",
+      "lemma": "vecka",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "周、星期",
+      "en": "week",
+      "known": false,
+      "forms": [
+        "vecka",
+        "veckan",
+        "veckor",
+        "veckorna"
+      ]
+    },
+    {
+      "slug": "veckodagar",
+      "lemma": "veckodag",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "工作日；平日（周一至周五，非周末）",
+      "en": "weekday",
+      "known": false,
+      "forms": [
+        "veckodag",
+        "veckodagen",
+        "veckodagar",
+        "veckodagarna"
+      ]
+    },
+    {
+      "slug": "vegetarisk",
+      "lemma": "vegetarisk",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "素食的",
+      "en": "vegetarian",
+      "known": false,
+      "forms": [
+        "vegetarisk",
+        "vegetariskt",
+        "vegetariska"
+      ]
+    },
+    {
+      "slug": "verka",
+      "lemma": "verka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "看起来；似乎",
+      "en": "to seem; to appear",
+      "known": false,
+      "forms": [
+        "verka",
+        "verkar",
+        "verkade",
+        "verkat"
+      ]
+    },
+    {
+      "slug": "verkligen",
+      "lemma": "verkligen",
+      "ordklass": "adverb",
+      "cefr": "A2",
+      "zh": "真的；确实",
+      "en": "really; truly",
+      "known": false,
+      "forms": [
+        "verkligen"
+      ]
+    },
+    {
+      "slug": "vetebröd",
+      "lemma": "vetebröd",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "小麦面包；甜面包",
+      "en": "wheat bread; white bread",
+      "known": false,
+      "forms": [
+        "vetebröd",
+        "vetebrödet",
+        "vetebröden"
+      ]
+    },
+    {
+      "slug": "vid",
+      "lemma": "vid",
+      "ordklass": "preposition",
+      "cefr": "A1",
+      "zh": "靠近；在……旁",
+      "en": "at; by; near",
+      "known": false,
+      "forms": [
+        "vid"
+      ]
+    },
+    {
+      "slug": "vikarie",
+      "lemma": "vikarie",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "代课老师、临时替工",
+      "en": "substitute teacher, stand-in",
+      "known": false,
+      "forms": [
+        "vikarie",
+        "vikarien",
+        "vikarier",
+        "vikarierna"
+      ]
+    },
+    {
+      "slug": "viktig",
+      "lemma": "viktig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "重要的",
+      "en": "important",
+      "known": false,
+      "forms": [
+        "viktig",
+        "viktigt",
+        "viktiga",
+        "viktigare",
+        "viktigast"
+      ]
+    },
+    {
+      "slug": "vila",
+      "lemma": "vila",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "休息；歇息",
+      "en": "to rest",
+      "known": false,
+      "forms": [
+        "vila",
+        "vilar",
+        "vilade",
+        "vilat"
+      ]
+    },
+    {
+      "slug": "vild",
+      "lemma": "vild",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "野生的；野的",
+      "en": "wild",
+      "known": false,
+      "forms": [
+        "vild",
+        "vilt",
+        "vilda",
+        "vildare",
+        "vildast"
+      ]
+    },
+    {
+      "slug": "vinnare",
+      "lemma": "vinnare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "赢家，胜利者",
+      "en": "winner",
+      "known": false,
+      "forms": [
+        "vinnare",
+        "vinnaren",
+        "vinnarna"
+      ]
+    },
+    {
+      "slug": "vinst",
+      "lemma": "vinst",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "胜利；利润，盈利",
+      "en": "win, victory; profit",
+      "known": false,
+      "forms": [
+        "vinst",
+        "vinsten",
+        "vinster",
+        "vinsterna"
+      ]
+    },
+    {
+      "slug": "vinter",
+      "lemma": "vinter",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "冬天；冬季",
+      "en": "winter",
+      "known": false,
+      "forms": [
+        "vinter",
+        "vintern",
+        "vintrar",
+        "vintrarna"
+      ]
+    },
+    {
+      "slug": "visa",
+      "lemma": "visa",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "展示/显示",
+      "en": "to show",
+      "known": false,
+      "forms": [
+        "visa",
+        "visar",
+        "visade",
+        "visat"
+      ]
+    },
+    {
+      "slug": "vit",
+      "lemma": "vit",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "白色的",
+      "en": "white",
+      "known": false,
+      "forms": [
+        "vit",
+        "vitt",
+        "vita",
+        "vitare",
+        "vitast"
+      ]
+    },
+    {
+      "slug": "vuxen",
+      "lemma": "vuxen",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "成年人/成年的",
+      "en": "adult, grown-up",
+      "known": false,
+      "forms": [
+        "vuxen",
+        "vuxna"
+      ]
+    },
+    {
+      "slug": "yrke",
+      "lemma": "yrke",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "职业",
+      "en": "profession, occupation",
+      "known": false,
+      "forms": [
+        "yrke",
+        "yrket",
+        "yrken",
+        "yrkena"
+      ]
+    },
+    {
+      "slug": "zebra",
+      "lemma": "zebra",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "斑马",
+      "en": "zebra",
+      "known": false,
+      "forms": [
+        "zebra",
+        "zebran",
+        "zebror",
+        "zebrorna"
+      ]
     }
   ]
 };
