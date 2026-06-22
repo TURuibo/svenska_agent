@@ -57,6 +57,10 @@ members:
   - lycklig
   - gift
   - ungdom
+  - lillasyster
+  - skådespelare
+  - operasångare
+  - klimataktivist
 created: "2026-06-10"
 ---
 
@@ -123,8 +127,20 @@ created: "2026-06-10"
 - [[lycklig]] — 幸福的
 - [[gift]] — 已婚的
 
+### 家庭称谓（补充）
+- [[lillasyster]] — 妹妹
+
+### 职业（与人物相关）
+- [[skådespelare]] — 演员
+- [[operasångare]] — 歌剧演唱家
+
+### 社会角色
+- [[klimataktivist]] — 气候活动家
+
 ## 备注 (Notes)
 
 - 涵盖人物主题的名词（家庭成员、社会角色）及常用描述性形容词
 - 与 [[topic-familj-och-barn]] 主题部分重叠（家庭成员词汇共享）
 - 与 [[topic-karaktarsord]] 主题重叠（性格描述词汇）
+- 参见 [[topic-yrken]] 职业主题
+- 传记文章: [[source-2026-06-22-greta-thunberg]] (Greta Thunberg)

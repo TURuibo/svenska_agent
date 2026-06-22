@@ -8,6 +8,57 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— biografi-2026-06-22-greta-thunberg — 17词 / 8词组 / 25句 / 0语法(5 DUP) —** | | | | | | |
+| [[klimataktivist]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[klimatförändring]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[operasångare]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[skådespelare]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[lillasyster]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[skog]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[skolstrejk]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[riksdag]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[politiker]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[utsläpp]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[minska]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[tal]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[segelbåt]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[framtid]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[miljö]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[strejka]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[bestämma-sig]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[för-första-gången]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[göra-något-åt]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[på-ett-annorlunda-sätt]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[bestämma-sig-för-att]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[i-stället]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[hålla-tal]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[kämpa-för]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[en-av-världens-mest-kända]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-greta-thunberg-är-en-känd-klimataktivist]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hon-föddes-den-3-januari-2003-i-stockholm]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hennes-mamma-heter-malena-ernman-och-är]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hennes-pappa-heter-svante-och-är-skådespelare]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-greta-har-en-lillasyster-som-heter-beata]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-när-greta-var-åtta-år-hörde-hon]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hon-förstod-inte-varför-så-få-människor]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hon-blev-orolig-och-ledsen]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-greta-har-aspergers-syndrom]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hon-säger-själv-att-det-hjälper-henne]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-sommaren-2018-var-mycket-varm-i-sverige]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-då-bestämde-greta-sig-för-att-göra-något]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-den-20-augusti-2018-gick-hon-inte-till-skolan]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-i-stället-satte-hon-sig-utanför-riksdagen]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hon-hade-en-skylt-med-texten-skolstrejk]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hon-ville-att-politikerna-skulle-lyssna]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-snart-blev-greta-känd-i-hela-världen]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-många-unga-människor-började-också-strejka]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-rörelsen-fick-namnet-fridays-for-future]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-greta-reste-till-andra-länder-för-att-hålla-tal]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-år-2019-åkte-hon-med-en-segelbåt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-greta-har-vunnit-många-priser-för-sitt-arbete]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-hon-fortsätter-att-kämpa-för-klimatet]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-idag-är-hon-en-av-världens-mest-kända-röster]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 | **— scenario-2026-06-22-en-helg — 5词 / 4词组 / 11句 / 2语法 —** | | | | | | |
 | [[skina]] | word | — | 0 | 2.5 | 2026-06-22 | no |
 | [[balkong]] | word | — | 0 | 2.5 | 2026-06-22 | no |
