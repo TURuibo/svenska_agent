@@ -355,6 +355,21 @@ A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 > 与本地 routine 不冲突：本地那批仍走 `scripts/*.ps1`+桌面 Scheduled task；阅读文章这条独立跑 remote。
 > `inbox/` 被 gitignore，所以文章必须当场 `/import` 进 tracked 的 `knowledge_base/`+`imported/` 才同步得到别的设备。
 
+### §4.7 Routine 的 git 收尾：自动开 PR 并 merge
+
+> ⚠️ **仅限 routine / 定时(scheduled)会话**（§4.2–§4.6 这些每天自动跑的 session）。**交互式人工会话默认不开 PR**
+> ——除非用户当场明确要求(见运行环境指令)。
+
+routine 会话跑完产出、commit 并 push 到它的开发分支后，**还要自己把改动合进主分支**，否则每天的内容只堆在分支上、
+别的设备 `git pull` 主分支拿不到。所以 routine 的 git 收尾固定为:
+
+1. `git add -A` → commit → `git pull --rebase origin <主分支>` → `push -u origin <开发分支>`(同各 routine prompt 第 3 步)。
+2. **自动 create PR**(用 GitHub MCP 工具 `mcp__github__create_pull_request`，base = 主分支，head = 该开发分支)。
+3. **自动 merge** 这个 PR(`mcp__github__merge_pull_request`)。无改动(无新内容)则跳过——不空开 PR。
+
+这是用户对自动会话的固定偏好：**routine 里一律自动 create PR → merge**，不必每次问。把上面各 routine prompt 的第 3 步
+理解为「commit/push **并按 §4.7 开 PR + merge**」。
+
 ---
 
 ## 5. 水平档案 (Learner Profile)
