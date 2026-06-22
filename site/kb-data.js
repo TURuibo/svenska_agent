@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 11:40:55",
+  "generatedAt": "2026-06-22 11:52:27",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -1804,7 +1804,8 @@ window.KB_DATA = {
         "sent-vilken-riktning-ska-jag-ga",
         "source-2026-06-03-fraga-vagen-pub",
         "till-höger",
-        "topic-riktningar"
+        "topic-riktningar",
+        "ute"
       ]
     },
     {
@@ -44595,13 +44596,14 @@ window.KB_DATA = {
       "type": "word",
       "title": "inne",
       "path": "knowledge_base/words/inne.md",
-      "body": "# inne — adverb\n\n📖 中文：里面；在室内 · English: inside; indoors\n发音提示：IN-neh\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `sitta inne` — 坐在里面\n- `vara inne` — 在里面\n- `gå in` — 进去（注意区分 inne/in）\n- `det ser mysigt ut där inne` — 里面看起来很温馨\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det ser mysigt ut där inne. — 🇨🇳 里面看起来很温馨。\n- 🇸🇪 Vill du sitta utomhus eller inne? — 🇨🇳 你想坐外面还是里面？\n- 🇸🇪 Det är kallt ute, vi stannar inne. — 🇨🇳 外面很冷，我们待在里面。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[utomhus]] (户外), ute (外面)\n- 相关: in (往里，方向), inomhus (在室内，较正式)\n\n## 用法提示 (Usage Notes)\n\n- *Inne* = 位置（在里面）；*in* = 方向（往里）。*Gå in* = 进去；*vara inne* = 在里面。",
+      "body": "# inne — adverb\n\n📖 中文：里面；在室内 · English: inside; indoors\n发音提示：IN-neh\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `sitta inne` — 坐在里面\n- `vara inne` — 在里面\n- `gå in` — 进去（注意区分 inne/in）\n- `det ser mysigt ut där inne` — 里面看起来很温馨\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det ser mysigt ut där inne. — 🇨🇳 里面看起来很温馨。\n- 🇸🇪 Vill du sitta utomhus eller inne? — 🇨🇳 你想坐外面还是里面？\n- 🇸🇪 Det är kallt ute, vi stannar inne. — 🇨🇳 外面很冷，我们待在里面。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[utomhus]] (户外), [[ute]] (外面)\n- 相关: in (往里，方向), inomhus (在室内，较正式)\n\n## 用法提示 (Usage Notes)\n\n- *Inne* = 位置（在里面）；*in* = 方向（往里）。*Gå in* = 进去；*vara inne* = 在里面。",
       "excerpt": "inne — adverb 📖 中文：里面；在室内 · English: inside; indoors 发音提示：IN neh 语法变形 (Forms) Adverb: oförändrad 词组搭配 (Collocations) sitta inne — 坐在里面 vara inne — 在里面 gå in — 进去（注意区分 inne/in） det ser mysigt ut där inne — 里面看起来很温馨 例句 (S",
       "forms": [],
       "links": [
+        "ute",
         "utomhus"
       ],
-      "searchText": "inne inne knowledge_base/words/inne.md ---\ntype: word\nlemma: \"inne\"\nordklass: adverb\ncefr: A1\nzh: 里面；在室内\nen: inside; indoors\nsynonyms: []\nantonyms: [\"utomhus\"]\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# inne — adverb\n\n📖 中文：里面；在室内 · English: inside; indoors\n发音提示：IN-neh\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `sitta inne` — 坐在里面\n- `vara inne` — 在里面\n- `gå in` — 进去（注意区分 inne/in）\n- `det ser mysigt ut där inne` — 里面看起来很温馨\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det ser mysigt ut där inne. — 🇨🇳 里面看起来很温馨。\n- 🇸🇪 Vill du sitta utomhus eller inne? — 🇨🇳 你想坐外面还是里面？\n- 🇸🇪 Det är kallt ute, vi stannar inne. — 🇨🇳 外面很冷，我们待在里面。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[utomhus]] (户外), ute (外面)\n- 相关: in (往里，方向), inomhus (在室内，较正式)\n\n## 用法提示 (Usage Notes)\n\n- *Inne* = 位置（在里面）；*in* = 方向（往里）。*Gå in* = 进去；*vara inne* = 在里面。\n",
+      "searchText": "inne inne knowledge_base/words/inne.md ---\ntype: word\nlemma: \"inne\"\nordklass: adverb\ncefr: A1\nzh: 里面；在室内\nen: inside; indoors\nsynonyms: []\nantonyms: [\"utomhus\"]\nfamily: []\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-09\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# inne — adverb\n\n📖 中文：里面；在室内 · English: inside; indoors\n发音提示：IN-neh\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `sitta inne` — 坐在里面\n- `vara inne` — 在里面\n- `gå in` — 进去（注意区分 inne/in）\n- `det ser mysigt ut där inne` — 里面看起来很温馨\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det ser mysigt ut där inne. — 🇨🇳 里面看起来很温馨。\n- 🇸🇪 Vill du sitta utomhus eller inne? — 🇨🇳 你想坐外面还是里面？\n- 🇸🇪 Det är kallt ute, vi stannar inne. — 🇨🇳 外面很冷，我们待在里面。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[utomhus]] (户外), [[ute]] (外面)\n- 相关: in (往里，方向), inomhus (在室内，较正式)\n\n## 用法提示 (Usage Notes)\n\n- *Inne* = 位置（在里面）；*in* = 方向（往里）。*Gå in* = 进去；*vara inne* = 在里面。\n",
       "lemma": "inne",
       "ordklass": "adverb",
       "cefr": "A1",
@@ -44616,6 +44618,7 @@ window.KB_DATA = {
         "sent-fika-det-är-så-soligt-idag",
         "sent-fika-ska-vi-ga-in-mysigt",
         "sent-fika-vill-du-sitta-utomhus-eller-inne",
+        "ute",
         "utomhus"
       ]
     },
@@ -63029,6 +63032,37 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "ute",
+      "type": "word",
+      "title": "ute",
+      "path": "knowledge_base/words/ute.md",
+      "body": "# ute — adverb\n\n📖 中文：外面；在户外 · English: outside / outdoors\n发音提示：U-te [ˈʉːtə]；长 u（圆唇）。\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad（副词，不变形）\n\n## 词组搭配 (Collocations)\n\n- `vara ute` — 在外面（位置）\n- `leka / äta ute` — 在外面玩 / 在外面吃\n- `där ute` — 在那外面\n- `ute på landet` — 在乡下\n- `tiden är ute` — 时间到了（引申义）\n\n## 例句 (Sentences)\n\n- · **在外面（位置）**: 🇸🇪 Barnen leker **ute** i trädgården. — 🇨🇳 孩子们在花园里（外面）玩。\n- · **外面（天气/环境）**: 🇸🇪 Det är kallt **ute**, vi stannar inne. — 🇨🇳 外面很冷，我们待在里面。\n- · **引申：时间到了**: 🇸🇪 Tiden är **ute**. — 🇨🇳 时间到了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[ut]] (往外，方向), [[utomhus]] (户外，较正式)\n- 同义词: [[utomhus]] (在户外)\n- 反义词: [[inne]] (在里面)\n- 语法: [[grammar-riktnings-adverb]] (位置 vs 方向副词)\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ **ute = 位置（在外面）**；**ut = 方向（往外）**。`gå ut` 出去（动作）/ `vara ute` 在外面（状态）。\n  和 inne/in 完全对称：ute↔inne（位置），ut↔in（方向）。\n- `utomhus` 比 `ute` 更正式、更强调\"户外（相对室内）\"。",
+      "excerpt": "ute — adverb 📖 中文：外面；在户外 · English: outside / outdoors 发音提示：U te [ˈʉːtə]；长 u（圆唇）。 语法变形 (Forms) Adverb: oförändrad（副词，不变形） 词组搭配 (Collocations) vara ute — 在外面（位置） leka / äta ute — 在外面玩 / 在外面吃 där ute — 在那外面 ute på landet ",
+      "forms": [],
+      "links": [
+        "grammar-riktnings-adverb",
+        "inne",
+        "ut",
+        "utomhus"
+      ],
+      "searchText": "ute ute knowledge_base/words/ute.md ---\ntype: word\nlemma: \"ute\"\nordklass: adverb\ngenus: \"\"\ncefr: \"A1\"\nzh: \"外面；在户外\"\nen: \"outside; outdoors\"\nsynonyms: [utomhus]\nantonyms: [inne]\nfamily: [ut, utomhus]\ntopics: []\nsentences: []\ngrammar: [grammar-riktnings-adverb]\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ute — adverb\n\n📖 中文：外面；在户外 · English: outside / outdoors\n发音提示：U-te [ˈʉːtə]；长 u（圆唇）。\n\n## 语法变形 (Forms)\n\n- Adverb: oförändrad（副词，不变形）\n\n## 词组搭配 (Collocations)\n\n- `vara ute` — 在外面（位置）\n- `leka / äta ute` — 在外面玩 / 在外面吃\n- `där ute` — 在那外面\n- `ute på landet` — 在乡下\n- `tiden är ute` — 时间到了（引申义）\n\n## 例句 (Sentences)\n\n- · **在外面（位置）**: 🇸🇪 Barnen leker **ute** i trädgården. — 🇨🇳 孩子们在花园里（外面）玩。\n- · **外面（天气/环境）**: 🇸🇪 Det är kallt **ute**, vi stannar inne. — 🇨🇳 外面很冷，我们待在里面。\n- · **引申：时间到了**: 🇸🇪 Tiden är **ute**. — 🇨🇳 时间到了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[ut]] (往外，方向), [[utomhus]] (户外，较正式)\n- 同义词: [[utomhus]] (在户外)\n- 反义词: [[inne]] (在里面)\n- 语法: [[grammar-riktnings-adverb]] (位置 vs 方向副词)\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ **ute = 位置（在外面）**；**ut = 方向（往外）**。`gå ut` 出去（动作）/ `vara ute` 在外面（状态）。\n  和 inne/in 完全对称：ute↔inne（位置），ut↔in（方向）。\n- `utomhus` 比 `ute` 更正式、更强调\"户外（相对室内）\"。\n",
+      "lemma": "ute",
+      "ordklass": "adverb",
+      "cefr": "A1",
+      "zh": "外面；在户外",
+      "en": "outside; outdoors",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "grammar": [
+        "grammar-riktnings-adverb"
+      ],
+      "topics": [],
+      "backlinks": [
+        "inne"
+      ]
+    },
+    {
       "slug": "utomhus",
       "type": "word",
       "title": "utomhus",
@@ -63055,7 +63089,8 @@ window.KB_DATA = {
         "sent-fika-vill-du-sitta-utomhus-eller-inne",
         "sent-solen-skiner-lange-och-det-ar",
         "source-2026-06-19-nyheter-8sidor",
-        "topic-fritid-och-resor"
+        "topic-fritid-och-resor",
+        "ute"
       ]
     },
     {

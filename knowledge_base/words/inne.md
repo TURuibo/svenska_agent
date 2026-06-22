@@ -42,7 +42,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: [[utomhus]] (户外), ute (外面)
+- 反义词: [[utomhus]] (户外), [[ute]] (外面)
 - 相关: in (往里，方向), inomhus (在室内，较正式)
 
 ## 用法提示 (Usage Notes)
