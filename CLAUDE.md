@@ -241,6 +241,17 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 
 所以新闻和 scenario/adjsubst 一样**全自动入库**，用户只剩 `/review`。
 
+**云端版 (remote, 推荐用它替代本地)：** news 这条**联网类** routine 同样可以放到 Claude Code on the web 的定时 session
+（和 §4.6 阅读文章同一模式），桌面关着也能每天跑。环境需**允许出站访问**（抓 8 Sidor）。routine prompt：
+```
+在 remote 环境里抓今日瑞典语简易新闻并入库：
+1. /dagens-nyheter
+2. 对刚生成的 inbox/news-*.md 跑 /import
+3. git add -A，commit，git pull --rebase origin main 后 push -u origin main
+```
+> ⚠️ **本地与云端二选一**：news 同时在本地 `svensk-news-daily` 和云端跑会重复抓取/产生两份当日新闻。
+> 改用云端后，请在桌面把本地 `svensk-news-daily` 任务**停用**。
+
 ### §4.5 听力练习 (Listening — SVT lätt svenska)
 
 **`/dagens-horovning [svt-video-id]`** 抓取 **SVT「Nyheter på lätt svenska」**(简易瑞典语新闻**视频**，
