@@ -1,5 +1,5 @@
 window.LISTENING_DATA = {
-  "generatedAt": "2026-06-22 18:34:46",
+  "generatedAt": "2026-06-22 18:52:05",
   "episodes": [
     {
       "id": "jxggQ1B",
@@ -378,98 +378,112 @@ window.LISTENING_DATA = {
           "lemma": "hedersvåld",
           "pos": "subst (ett)",
           "zh": "荣誉暴力",
-          "en": "honour-based violence"
+          "en": "honour-based violence",
+          "slug": "hedersvåld"
         },
         {
           "sv": "olagligt",
           "lemma": "olaglig",
           "pos": "adj",
           "zh": "违法的，非法的",
-          "en": "illegal"
+          "en": "illegal",
+          "slug": "olaglig"
         },
         {
           "sv": "omhändertagna",
           "lemma": "omhänderta",
           "pos": "verb",
           "zh": "被当局接管（安置）",
-          "en": "to take into care"
+          "en": "to take into care",
+          "slug": "omhänderta"
         },
         {
           "sv": "förtryck",
           "lemma": "förtryck",
           "pos": "subst (ett)",
           "zh": "压迫，压制",
-          "en": "oppression"
+          "en": "oppression",
+          "slug": "förtryck"
         },
         {
           "sv": "tjafsa",
           "lemma": "tjafsa",
           "pos": "verb",
           "zh": "争吵，斗嘴（口语）",
-          "en": "to bicker, quarrel"
+          "en": "to bicker, quarrel",
+          "slug": "tjafsa"
         },
         {
           "sv": "stryptag",
           "lemma": "stryptag",
           "pos": "subst (ett)",
           "zh": "扼颈，掐脖子",
-          "en": "stranglehold, chokehold"
+          "en": "stranglehold, chokehold",
+          "slug": "stryptag"
         },
         {
           "sv": "vagnar",
           "lemma": "vagn",
           "pos": "subst (en)",
           "zh": "车厢；马车",
-          "en": "carriage, wagon"
+          "en": "carriage, wagon",
+          "slug": "vagn"
         },
         {
           "sv": "spåret",
           "lemma": "spår",
           "pos": "subst (ett)",
           "zh": "铁路轨道；痕迹",
-          "en": "track; trace"
+          "en": "track; trace",
+          "slug": "spår"
         },
         {
           "sv": "krockade",
           "lemma": "krocka",
           "pos": "verb",
           "zh": "碰撞，相撞",
-          "en": "to crash, collide"
+          "en": "to crash, collide",
+          "slug": "krocka"
         },
         {
           "sv": "förbjudit",
           "lemma": "förbjuda",
           "pos": "verb",
           "zh": "禁止",
-          "en": "to forbid, ban"
+          "en": "to forbid, ban",
+          "slug": "förbjuda"
         },
         {
           "sv": "självreflektering",
           "lemma": "självreflektering",
           "pos": "subst (en)",
           "zh": "自我反思",
-          "en": "self-reflection"
+          "en": "self-reflection",
+          "slug": "självreflektering"
         },
         {
           "sv": "utsatthet",
           "lemma": "utsatthet",
           "pos": "subst (en)",
           "zh": "脆弱性；处于风险中的处境",
-          "en": "vulnerability, exposed situation"
+          "en": "vulnerability, exposed situation",
+          "slug": "utsatthet"
         },
         {
           "sv": "jämställdhet",
           "lemma": "jämställdhet",
           "pos": "subst (en)",
           "zh": "性别平等",
-          "en": "gender equality"
+          "en": "gender equality",
+          "slug": "jämställdhet"
         },
         {
           "sv": "inblandad",
           "lemma": "inblandad",
           "pos": "adj/verb",
           "zh": "被卷入的，介入的",
-          "en": "involved, implicated"
+          "en": "involved, implicated",
+          "slug": "inblandad"
         }
       ],
       "phrases": [
@@ -486,7 +500,8 @@ window.LISTENING_DATA = {
           "lemma": "på grund av",
           "category": "prepositionsfras",
           "zh": "因为，由于",
-          "en": "because of, due to"
+          "en": "because of, due to",
+          "slug": "på-grund-av"
         },
         {
           "sv": "se till att",
@@ -501,21 +516,24 @@ window.LISTENING_DATA = {
           "lemma": "från och med",
           "category": "prepositionsfras",
           "zh": "从……起（时间点）",
-          "en": "from (a date) onwards"
+          "en": "from (a date) onwards",
+          "slug": "från-och-med"
         },
         {
           "sv": "ta stryptag på",
           "lemma": "ta stryptag på",
           "category": "uttryck",
           "zh": "掐住（某人）的脖子",
-          "en": "to grab by the throat, to strangle"
+          "en": "to grab by the throat, to strangle",
+          "slug": "ta-stryptag-på"
         },
         {
           "sv": "vidta åtgärder",
           "lemma": "vidta åtgärder",
           "category": "uttryck",
           "zh": "采取措施",
-          "en": "to take measures/action"
+          "en": "to take measures/action",
+          "slug": "vidta-åtgärder"
         }
       ],
       "grammar": [
@@ -523,7 +541,8 @@ window.LISTENING_DATA = {
           "name": "passiv konstruktion",
           "lemma": "passiv-konstruktion",
           "zh": "被动语态（kallas, blir inblandad, förbjudit, omhändertagna）——瑞典语用 bli+PP 或 s-passiv表被动",
-          "en": "passive construction (bli + past participle or s-passive)"
+          "en": "passive construction (bli + past participle or s-passive)",
+          "slug": "grammar-passiv-konstruktion"
         },
         {
           "name": "perfekt med ha",
