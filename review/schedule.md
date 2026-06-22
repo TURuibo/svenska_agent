@@ -1572,6 +1572,30 @@
 | [[sent-tva-vagnar-lamnade-sparet-och-foll]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 | [[sent-det-ar-just-nu-mycket-varmt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 | [[sent-dar-ska-over-800-skolor-halla-stangt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| **— adjsubst-2026-06-22-klader — 23词 (drill) —** | | | | | | |
+| [[fin]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[jacka]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[kjol]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[skjorta]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[klänning]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[byxa]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[strumpa]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[mössa]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[halsduk]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[handske]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[väska]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[kappa]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[kostym]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[blus]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[hatt]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[uniform]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[rock]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[bälte]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[plagg]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[tyg]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[linne]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[smycke]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[märke]] | word | — | 0 | 2.5 | 2026-06-22 | no |
 
 ## 说明
 
