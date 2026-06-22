@@ -1538,6 +1538,40 @@
 | [[sent-klimatet-blir-varmare]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 | [[sent-det-gör-värmeböljorna-både-vanligare]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 | [[sent-forskare-varnar-för-att-ännu-fler]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| **— SVT Nyheter på lätt svenska 2026-06-22 听力 — 14词 / 4词组 / 13句 / 2语法 —** | | | | | | |
+| [[hedersvåld]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[olaglig]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[omhänderta]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[förtryck]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[tjafsa]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[stryptag]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[vagn]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[spår]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[krocka]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[förbjuda]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[självreflektering]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[utsatthet]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[jämställdhet]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[inblandad]] | word | — | 0 | 2.5 | 2026-06-22 | no |
+| [[på-grund-av]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[från-och-med]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[ta-stryptag-på]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[vidta-åtgärder]] | phrase | — | 0 | 2.5 | 2026-06-22 | no |
+| [[grammar-passiv-konstruktion]] | grammar | — | 0 | 2.5 | 2026-06-22 | no |
+| [[grammar-relativ-bisats-med-som]] | grammar | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-usa-och-iran-ha-haft-sina-forsta]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-de-har-kommit-overens-om-en-plan]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-att-sla-nagon-i-sin-familj-kallas]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-den-svenska-regeringen-ger-nu-17]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-jag-och-storasyrran-borjade-tjafsa]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-slutade-med-att-jag-tog-stryptag]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-66-procent-av-flickorna-blir]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-barn-och-unga-behover-mota-vuxna]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-lagen-mot-fortryck-pa-grund-av-heder]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-borjar-med-sjalvreflektering]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-tva-vagnar-lamnade-sparet-och-foll]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-det-ar-just-nu-mycket-varmt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| [[sent-dar-ska-over-800-skolor-halla-stangt]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 
 ## 说明
 

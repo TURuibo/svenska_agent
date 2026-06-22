@@ -4,7 +4,7 @@ argument-hint: "[svt-video-id]  —— 可选；缺省自动取最新一集"
 allowed-tools: WebFetch, WebSearch, Read, Write, Bash
 ---
 
-抓取 **SVT「Nyheter på lätt svenska」**(SR/SVT 的简易瑞典语新闻**视频**，每个工作日 ~17:15，约 4.5 分钟)
+抓取 **SVT「Nyheter på lätt svenska」**(SR/SVT 的简易瑞典语新闻**视频**，每个工作日 ~17:25，约 4.5 分钟)
 的**字幕原文 + 时间轴**，配上**逐句中文翻译**与**生词表**，写成一集听力数据 `listening/svt-latt-<DATE>.json`，
 再重建 **Lyssna 听力站**(`site/listening/`)。供在网页里**精听/盲听/跟读/单句循环**。
 
@@ -13,13 +13,25 @@ allowed-tools: WebFetch, WebSearch, Read, Write, Bash
 
 参数 `$ARGUMENTS`：可含一个 SVT video id(如 `eakkN4D`)。缺省则自动取**最新一集**。
 
+> ⚠️ **Remote 环境注意事项（2026-06-22 经验总结）：**
+> 1. `https://www.svtplay.se/nyheter-pa-latt-svenska` 在 remote 环境返回 **HTTP 403**，无法直接抓。
+> 2. 用搜索引擎找到的 video id 往往是**过时缓存**，即使标着「Idag/今日」也可能是数周前的旧集。
+> 3. **可靠方案**：直接 `WebFetch` → `https://webb-tv.nu/svt-nyheter-pa-latt-svenska-svt-play/`，
+>    该页面列出真实的最新集 id（格式 `/video/<ID>/`），认准今天日期对应的那条。
+> 4. 若 `api.svt.se/video/<ID>` 返回空 `videoReferences`/`subtitleReferences`，说明 id 错误，
+>    回去 webb-tv.nu 找正确 id。
+
 ---
 
 ## 1. 找最新一集 (Resolve episode)
 
 - 若 `$ARGUMENTS` 给了 video id → 直接用。
-- 否则 `WebFetch` → `https://www.svtplay.se/nyheter-pa-latt-svenska`，取列表里**最新一集**的
-  `/video/<ID>/…` 链接，拿到其 `<ID>` 与播出日期。
+- 否则：
+  1. **优先** `WebFetch` → `https://webb-tv.nu/svt-nyheter-pa-latt-svenska-svt-play/`，
+     取页面中当天日期对应的 `/video/<ID>/` 链接，提取 `<ID>`。
+  2. 备选：`WebSearch` 搜索 `site:svtplay.se "nyheter på lätt svenska" <今日日期>`，
+     但务必用 `api.svt.se/video/<ID>` 验证返回的 `videoReferences` 非空后才信任该 id。
+  3. 不可直接 `WebFetch` svtplay.se 主页（remote 环境 403）。
 
 ## 2. 取媒体 + 字幕 (SVT API)
 
@@ -39,7 +51,7 @@ allowed-tools: WebFetch, WebSearch, Read, Write, Bash
   - **词组** 3–6 个：`lemma`(grundform) + `sv` + `category` + `zh` + `en`。
   - **语法** 1–3 个：`name`/`lemma` + `zh` + `en`。
 
-## 4. 查重 + 写数据文件
+## 4. 查重 + 写数据文件 — ⚠️ JSON 中文引号陷阱
 
 - `Glob`/检查 `listening/svt-latt-<DATE>.json` 是否已存在(按播出日期)。**已存在则不重复抓取**，
   直接跳到第 5 步重建即可(除非用户显式要求重抓)。
@@ -64,6 +76,14 @@ allowed-tools: WebFetch, WebSearch, Read, Write, Bash
 ```
 
 时间戳转成**秒**(浮点，如 `00:01:57.800` → `117.8`)。
+
+> ⚠️ **JSON 中文引号陷阱**：在 `zh` 字段里，绝对**不要**用 ASCII 双引号 `"` (U+0022) 作为汉语中的
+> 引号（如 `"错误的"朋友`）——这会提前截断 JSON 字符串，导致 `JSON.parse` 报错。
+> 有两种安全做法（优先选前者）：
+> 1. **改写译文，绕开引号**（推荐）：`"错误的"朋友` → `所谓错误的朋友` 或 `问题朋友`。
+> 2. **用 Unicode 弯引号**（次选）：`"` (U+201C) 和 `"` (U+201D)，不会影响 JSON 解析。
+>    若用 Bash/Python 脚本写文件，注意 Python 字符串里的 `"` 仍是 ASCII 0x22，需要
+>    用变量：`LQUOTE = '“'`，不能直接写 `'"'`。
 
 `tools/build-listening-site.js` 会拿每个 `lemma` 去 `knowledge_base/_index/slugs.json` 匹配，命中就给该条目
 加 KB 链接(站点上变成可点 → 跳词条解释页)，所以 `lemma` 一定要是 KB slug 用的 grundform。
