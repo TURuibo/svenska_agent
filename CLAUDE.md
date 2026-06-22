@@ -277,6 +277,7 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 - `/dagens-nyheter-cloud [YYYY-MM-DD]` — 新闻（要联网抓 8 Sidor）。
 - `/dagens-scenario-cloud [date] [0-13]` — 情景练习（不联网）。
 - `/adjsubst-cloud [date] [0-9]` — adjsubst 变形页（不联网）。
+- `/dagens-horovning-cloud [svt-video-id]` — SVT 听力（要联网抓 `svtplay.se`/`api.svt.se`/SVT CDN）。
 
 **与桌面版的关键差异（务必记住）：**
 - **Linux 容器**：没有 PowerShell/桌面通知。所有构建用 `node tools/build-kb-site.js` +
@@ -287,7 +288,8 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
   access** 白名单（或用 `Full`），否则 WebFetch 403。
 - **配置在网页后台**：在 `claude.ai/code/routines` 给每条挂一个**定时触发**（最小间隔 **1 小时**，
   按订阅额度计费、有每日 run 上限），routine prompt 就写对应的 `…-cloud` 命令。
-- **listening（SVT）暂未云化**——它还走桌面 `scripts/daily-listening.ps1`。
+- **listening（SVT）已云化** = `/dagens-horovning-cloud`，与桌面 `scripts/daily-listening.ps1` 并行；
+  云端要额外把 `svtplay.se`/`api.svt.se`/SVT CDN 加进 Network access 白名单。
 
 > 桌面版（§4.4/§4.5 的 `/dagens-nyheter`、`.ps1`、桌面定时任务）保留不动；云端版是并行的另一条入口，
 > 同一个 repo、同一套 KB，谁先跑谁入库，import 的查重保证不重复。
