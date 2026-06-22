@@ -419,8 +419,19 @@ git commit --no-edit && git push          # 再回到 ③ merge PR
 **⑤ 无改动则跳过：** 若该 routine 当天无新内容（如听力无新一集、抓到的全是 dup），
 `git status` 干净就**直接结束**，不 commit、不开 PR。
 
-> routine 会话**还要自己把改动合进主分支**，否则每天的内容只堆在分支上、别的设备 `git pull` 主分支拿不到——
-> 这正是上面 ③ create PR → squash merge 的目的。
+**⑥ merge 成功后把开发分支对齐 main（消除历史包袱，下次更通畅）：** squash merge 后 main 会多出
+①你的 squash commit + ②Action 的 `Update KB viewer data` commit，而开发分支仍停在旧历史。若不对齐，
+分支会**累积已 merge 的旧 commit + 旧 viewer 文件**，下次 routine 一开 PR 就因旧 viewer 版本和 main 冲突。
+所以收尾最后一步：
+```bash
+git fetch origin main
+git reset --hard origin/main          # 内容已全在 main，无损失
+git push -f origin <开发分支>          # 只 force-push 本 routine 专用分支，安全（main 绝不 force）
+```
+对齐后开发分支 = main，下次 routine 从干净状态起步，新 PR 只含当天源文件、能**直接 squash merge 不冲突**。
+
+> routine 会话**必须自己把改动合进主分支**（③ create PR → squash merge），否则每天内容只堆在分支上、
+> 别的设备 `git pull` 主分支拿不到。
 
 > 长远优化（需用户拍板，属架构改动）：把 `site/kb-data.js`、`site/reading/reading-data.js` 加进
 > `.gitignore`、纯由 Action/CI 生成，可彻底消除这类冲突。本节是在不改架构前提下的稳妥规避法。
