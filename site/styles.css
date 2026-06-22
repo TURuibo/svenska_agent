@@ -106,6 +106,37 @@ select {
   padding: 16px;
 }
 
+/* focus mode: landed via a #note= deep link (e.g. from Läsning) — hide the
+   middle browse column and show the note content directly, search still in reach */
+.shell.mode-focus {
+  grid-template-columns: minmax(280px, 340px) minmax(0, 1fr);
+}
+
+.shell.mode-focus .resultsPane {
+  display: none;
+}
+
+.shell.mode-focus .backBar {
+  display: block;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  width: 100%;
+  padding: 14px 18px;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--green-dark);
+  font: inherit;
+  font-weight: 700;
+  text-align: left;
+  cursor: pointer;
+}
+
+.shell.mode-focus .backBar:hover {
+  background: var(--paper);
+}
+
 .sidebar,
 .resultsPane,
 .detailPane {
@@ -658,6 +689,13 @@ mark {
 
   .detailPane {
     grid-area: detail;
+  }
+
+  .shell.mode-focus {
+    grid-template-areas:
+      "sidebar"
+      "detail";
+    grid-template-columns: minmax(0, 1fr);
   }
 }
 
