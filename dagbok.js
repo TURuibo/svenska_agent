@@ -428,10 +428,11 @@
     return map[p.toLowerCase()] || p;
   }
 
-  function typeRow(label, items) {
+  function typeRow(label, items, type) {
     if (!items || items.length === 0) return null;
     const row = document.createElement('div');
     row.className = 'typeRow';
+    if (type) row.dataset.type = type;
     const lab = document.createElement('div');
     lab.className = 'typeLabel';
     lab.textContent = `${label} · ${items.length}`;
@@ -454,7 +455,7 @@
     }
     let added = 0;
     for (const t of ITEM_TYPES) {
-      const row = typeRow(TYPE_LABELS[t], buckets[t]);
+      const row = typeRow(TYPE_LABELS[t], buckets[t], t);
       if (row) { container.appendChild(row); added += 1; }
     }
     return added;
