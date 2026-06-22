@@ -1,5 +1,5 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-22 04:52:14",
+  "generatedAt": "2026-06-22 11:08:36",
   "articles": [
     {
       "slug": "scenario-2026-06-21-handla-i-mataffaren",
