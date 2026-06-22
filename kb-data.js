@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 11:18:48",
+  "generatedAt": "2026-06-22 12:01:11",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -210,6 +210,8 @@ window.KB_DATA = {
         "sent-det-beror-pa-att-planeten-blir-allt-varmare",
         "sent-det-finns-risk-att-over-10000-hus",
         "sent-detta-beror-pa-att-nivan-pa-varldens-hav",
+        "sent-hon-säger-själv-att-det-hjälper-henne",
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
         "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
         "sent-nasta-helg-hoppas-jag-att-vadret",
         "sent-och-jag-är-jätteglad-att-ni",
@@ -239,6 +241,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "bord",
+        "för-första-gången",
         "grammar-adjektiv-bojning",
         "grammar-deklination",
         "grammar-en-ord-ett-ord",
@@ -321,6 +324,7 @@ window.KB_DATA = {
         "sent-fika-ursäkta-vad-sa-du-hörde-inte",
         "sent-fika-varsågod-hoppas-det-smakar",
         "sent-fika-vi-har-ett-stort-projekt",
+        "sent-hon-förstod-inte-varför-så-få-människor",
         "sent-i-lordags-vaknade-jag-tidigt-fast",
         "sent-jag-ska-berätta-vad-som-hände",
         "sent-vet-du-var-det-ar",
@@ -357,8 +361,10 @@ window.KB_DATA = {
         "grammar-bisats-om",
         "grammar-bisats-tidskonnektor",
         "grammar-v2-ordfoljd",
+        "sent-år-2019-åkte-hon-med-en-segelbåt",
         "sent-eftersom-astrid-var-ensam-kunde-hon",
-        "source-2026-06-02-astrid-lindgren"
+        "source-2026-06-02-astrid-lindgren",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -483,6 +489,7 @@ window.KB_DATA = {
         "sent-flera-experter-säger-att-det-är-iran",
         "sent-för-att-det-kan-leda-till-missbruk",
         "sent-för-en-av-tio-unga-fotbollsspelare",
+        "sent-greta-har-en-lillasyster-som-heter-beata",
         "sent-hur-lange-man-far-vanta-i-olika-delar",
         "sent-i-söder-kommer-både-regn-eller-åska",
         "sent-man-plockar-svamp-och-njuter",
@@ -721,6 +728,7 @@ window.KB_DATA = {
         "sent-figurerna-måste-kämpa-för",
         "sent-finns-det-en-karta-någonstans",
         "sent-för-att-hjälpa-sina-medlemmar",
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
         "sent-iran-ska-öppna-sundet-i-hormuz-genast",
         "sent-man-klar-pa-sig-tjocka-jackor",
         "sent-men-experterna-varnar-för",
@@ -820,11 +828,13 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "backlinks": [
+        "bestämma-sig-för-att",
         "grammar-bruka-infinitiv",
         "grammar-for-att-infinitiv",
         "grammar-modala-hjalpverb",
         "något-att-äta-till",
         "sent-får-jag-ta-er-beställning",
+        "sent-hon-fortsätter-att-kämpa-för-klimatet",
         "sent-lisa-vi-är-så-glada-att",
         "source-2026-06-10-zlatan-subst-verb",
         "source-2026-06-15-restaurang-fodelsedag"
@@ -851,6 +861,7 @@ window.KB_DATA = {
       "created": "2026-06-16",
       "known": false,
       "backlinks": [
+        "en-av-världens-mest-kända",
         "köra-för-fort",
         "sent-an-kvinnor-i-samma-alder",
         "sent-arbetena-är-till-för-att-vägarna",
@@ -858,6 +869,7 @@ window.KB_DATA = {
         "sent-den-som-ska-ut-och-köra-bil",
         "sent-det-blir-svalare-och-regnet",
         "sent-for-naturen-an-vad-vanliga-kor-klarat",
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster",
         "sent-kvinnor-far-vanta-langre-an-man",
         "sent-länderna-ska-göra-det-svårare",
         "sent-langst-tid-pa-akuten-hade-patienter-i-region-skane",
@@ -899,6 +911,7 @@ window.KB_DATA = {
         "grammar-preteritum-artighet",
         "jag-skulle-vilja-ha",
         "sent-fika-jag-skulle-vilja-ha-kanelbulle",
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
         "sent-men-om-du-vill-kan-du-ta-en-bild",
         "sent-skulle-vi-vilja-betala-dela-på-notan",
         "vad-får-det-vara"
@@ -1075,6 +1088,7 @@ window.KB_DATA = {
         "sent-jordgubbar-är-röda-när-de-är",
         "sent-när-det-finns-färre-jordgubbar",
         "sent-när-flickan-får-en-dator",
+        "sent-när-greta-var-åtta-år-hörde-hon",
         "sent-när-konflikten-mellan-gängen-foxtrot",
         "sent-nar-varen-kommer-borjar-dagarna",
         "source-2026-06-16-vadret-och-arstiderna"
@@ -1103,6 +1117,7 @@ window.KB_DATA = {
         "grammar-bestämd-form",
         "grammar-deklination",
         "något-glutenfritt",
+        "på-ett-annorlunda-sätt",
         "sent-ja-vi-har-en-glutenfri-morotskaka",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-10-zlatan-subst-verb"
@@ -1194,6 +1209,7 @@ window.KB_DATA = {
         "sent-figurerna-måste-kämpa-för",
         "sent-gransen-kallas-fribelopp",
         "sent-han-foddes-1981-rosengard",
+        "sent-hon-föddes-den-3-januari-2003-i-stockholm",
         "sent-i-mandags-domdes-mette-marits-son",
         "sent-idag-dömdes-en-av-foxtrots-högsta",
         "sent-ledare-fran-olika-lander-har-samlats",
@@ -1204,7 +1220,8 @@ window.KB_DATA = {
         "source-2026-06-04-nyheter-vecka-22",
         "source-2026-06-09-zlatan-bio",
         "source-2026-06-17-listening-svt-latt",
-        "source-2026-06-18-listening-svt-latt"
+        "source-2026-06-18-listening-svt-latt",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -1239,6 +1256,7 @@ window.KB_DATA = {
         "sent-folk-i-sverige-har-firat",
         "sent-föreningen-svensk-elitfotboll-har-nu",
         "sent-god-kväll-och-välkomna-har-ni-bokat",
+        "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
         "sent-har-ni-bestämt-er-eller-behöver-ni",
         "sent-har-spelat-om-pengar-i-nån-form",
         "sent-i-norge-har-kronprinsessan-mette-marit",
@@ -1524,7 +1542,13 @@ window.KB_DATA = {
         "sent-forst-dricker-jag-en-kopp-kaffe",
         "sent-gärna-har-ni-något-glutenfritt",
         "sent-grattis-jag-heter-mikael-och-tar",
+        "sent-greta-har-aspergers-syndrom",
+        "sent-greta-har-en-lillasyster-som-heter-beata",
+        "sent-greta-thunberg-är-en-känd-klimataktivist",
         "sent-hej-och-välkommen-är-du-ensam",
+        "sent-hennes-mamma-heter-malena-ernman-och-är",
+        "sent-hennes-pappa-heter-svante-och-är-skådespelare",
+        "sent-hon-fortsätter-att-kämpa-för-klimatet",
         "sent-ibland-traffar-jag-en-van-eller-gar",
         "sent-inga-problem-vi-har-havredryck",
         "sent-innan-jag-somnar-laser-jag-nagra-sidor",
@@ -1663,7 +1687,11 @@ window.KB_DATA = {
         "grammar-preteritum",
         "grammar-preteritum-i-berattelse",
         "grammar-starka-verb",
-        "source-2026-06-02-astrid-lindgren"
+        "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
+        "sent-sommaren-2018-var-mycket-varm-i-sverige",
+        "source-2026-06-02-astrid-lindgren",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -1718,6 +1746,8 @@ window.KB_DATA = {
         "komma-fram",
         "lägga-sig",
         "sent-antligen-kunde-jag-andas-ut",
+        "sent-år-2019-åkte-hon-med-en-segelbåt",
+        "sent-då-bestämde-greta-sig-för-att-göra-något",
         "sent-dar-fanns-ingen-mat-ga-hungrig",
         "sent-den-första-filmen-toy-story",
         "sent-den-totala-tiden-personer-ar-pa-akuten",
@@ -1736,8 +1766,14 @@ window.KB_DATA = {
         "sent-fika-ursäkta-vad-sa-du-hörde-inte",
         "sent-forra-aret-okade-besoken-till-akuten",
         "sent-gick-aldrig-klart-gymnasiet-satsade",
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
         "sent-han-foddes-1981-rosengard",
+        "sent-hon-blev-orolig-och-ledsen",
+        "sent-hon-föddes-den-3-januari-2003-i-stockholm",
+        "sent-hon-förstod-inte-varför-så-få-människor",
+        "sent-hon-hade-en-skylt-med-texten-skolstrejk",
         "sent-i-mandags-domdes-mette-marits-son",
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen",
         "sent-idag-kom-besked-fran-riksbanken-om-rantan",
         "sent-igar-var-en-ovantad-dag",
         "sent-jag-gick-in-i-en-bokhandel-tittade-pa-bocker",
@@ -1745,13 +1781,18 @@ window.KB_DATA = {
         "sent-jag-steg-upp-drack-en-kopp-kaffe-at-frukost",
         "sent-jag-tankte-var-tappade-jag-den",
         "sent-just-da-markte-jag-att-min-planbok-var-borta",
+        "sent-många-unga-människor-började-också-strejka",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
+        "sent-när-greta-var-åtta-år-hörde-hon",
         "sent-nyligen-hade-ländernas-ledare",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
         "sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
+        "sent-rörelsen-fick-namnet-fridays-for-future",
         "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
         "sent-sen-kom-han-tillbaka-till-sverige",
+        "sent-snart-blev-greta-känd-i-hela-världen",
+        "sent-sommaren-2018-var-mycket-varm-i-sverige",
         "sent-till-evian-i-frankrike-nu",
         "sent-till-slut-var-allt-bra-igen",
         "sent-ukrainas-ledare-volodymyr-zelenskyj",
@@ -1762,6 +1803,7 @@ window.KB_DATA = {
         "source-2026-06-09-en-handelse-i-tidsordning",
         "source-2026-06-09-zlatan-bio",
         "source-2026-06-10-zlatan-subst-verb",
+        "source-2026-06-22-greta-thunberg",
         "spärra-kort",
         "stiga-upp",
         "ta-tunnelbanan",
@@ -1815,7 +1857,9 @@ window.KB_DATA = {
       "created": "2026-06-03",
       "known": false,
       "backlinks": [
+        "bestämma-sig",
         "bestämma-sig-för",
+        "bestämma-sig-för-att",
         "bredvid-sig",
         "gifta-sig-med",
         "grammar-imperativ",
@@ -1829,9 +1873,11 @@ window.KB_DATA = {
         "känna-sig-pigg",
         "klara-sig",
         "lägga-sig",
+        "sent-då-bestämde-greta-sig-för-att-göra-något",
         "sent-de-hoppas-att-de-ska-drömma",
         "sent-har-ni-bestämt-er-eller-behöver-ni",
         "sent-hur-tar-jag-mig-dit",
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen",
         "sent-jag-motte-en-gammal-van-dar",
         "sent-luften-kanns-frisk-och-ren",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
@@ -1845,6 +1891,7 @@ window.KB_DATA = {
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-15-restaurang-middag",
         "source-2026-06-18-nyheter-8sidor",
+        "source-2026-06-22-greta-thunberg",
         "ta-sig-fram",
         "vi-ses-snart"
       ]
@@ -1998,6 +2045,7 @@ window.KB_DATA = {
         "grammar-reflexivt-pronomen",
         "sent-eftersom-astrid-var-ensam-kunde-hon",
         "sent-fick-fotbollsskor-trots-mamma",
+        "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
         "sent-manga-kommuner-valkomnar-sina-nya",
         "sent-mellan-torget-kafeet-bred-trottoar-barn-cyklar-hundar",
         "sent-var-sin-del-med-kort-ska-man-lägga-till-dricks",
@@ -2311,12 +2359,15 @@ window.KB_DATA = {
         "plötsligt",
         "sent-annars-funkar-söndag-också",
         "sent-antligen-kunde-jag-andas-ut",
+        "sent-år-2019-åkte-hon-med-en-segelbåt",
         "sent-bakom-framgången-fanns-ett-hemligt",
         "sent-bredvid-sangen-star-ett-litet-nattduksbord",
         "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
+        "sent-då-bestämde-greta-sig-för-att-göra-något",
         "sent-då-tar-jag-en-bit-morotskaka",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
+        "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
         "sent-den-fragan-ska-invanarna-i-alberta",
         "sent-det-blir-femtiofem-kronor",
         "sent-det-här-rapporterar-lokala-ryska",
@@ -2353,8 +2404,10 @@ window.KB_DATA = {
         "sent-i-lordags-vaknade-jag-tidigt-fast",
         "sent-i-söder-kommer-både-regn-eller-åska",
         "sent-i-spelbranschen-tror-man",
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen",
         "sent-i-vardagsrummet-finns-soffa-fatoljerna",
         "sent-ibland-traffar-jag-en-van-eller-gar",
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster",
         "sent-idag-dömdes-en-av-foxtrots-högsta",
         "sent-idag-har-det-varit-flera-ukrainska",
         "sent-igar-var-en-ovantad-dag",
@@ -2378,6 +2431,7 @@ window.KB_DATA = {
         "sent-nyligen-hade-ländernas-ledare",
         "sent-och-var-ligger-brodet",
         "sent-pa-eftermiddagen-handlade-vi-mat",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
         "sent-pa-golvet-framfor-soffan-rund-matta",
         "sent-pa-golvet-mellan-sangen-skriv-stor-matta",
         "sent-pa-kvallen-kom-jag-hem-lade-mig-tidigt",
@@ -2404,6 +2458,7 @@ window.KB_DATA = {
         "sent-sedan-tar-jag-bussen-till-jobbet",
         "sent-sedan-tog-jag-tunnelbanan-in-till-stan",
         "sent-självklart-varsågod-jag-stämplar",
+        "sent-snart-blev-greta-känd-i-hela-världen",
         "sent-snon-faller-tyst-och-tacker-marken",
         "sent-solen-skiner-lange-och-det-ar",
         "sent-sverige-har-fyra-tydliga-arstider",
@@ -2849,6 +2904,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "bestämma-sig-för-att",
+      "type": "phrase",
+      "title": "bestämma sig för att",
+      "path": "knowledge_base/phrases/bestämma-sig-för-att.md",
+      "body": "# bestämma sig för att\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 决定去做（某事）· 🇬🇧 decide to (do something)\n📝 字面: decide oneself to\n\n## 用法说明 (Usage)\n\n- `bestämma sig för att` + 动词原形 = 决定做某事。\n- 反身结构：sig 随主语变化（mig/dig/sig/oss/er）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-reflexivt-verb]]（反身动词 bestämma sig）\n- → [[grammar-infinitiv]]（att + 动词原形）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[bestämma-sig-för]]（决定某事/选择某物）\n\n## 例句 / 对话 (Examples)\n\n- [[sent-då-bestämde-greta-sig-för-att-göra-något]] 🇸🇪 Då bestämde Greta sig för att göra något. 🇨🇳 于是格蕾塔决定做点什么。",
+      "excerpt": "bestämma sig för att 🗣️ 类型: uttryck · 语域: neutralt · 常用度: 5/5 🇨🇳 决定去做（某事）· 🇬🇧 decide to (do something) 📝 字面: decide oneself to 用法说明 (Usage) bestämma sig för att + 动词原形 = 决定做某事。 反身结构：sig 随主语变化（mig/dig/sig/oss/er）。 短",
+      "forms": [],
+      "links": [
+        "bestämma-sig-för",
+        "grammar-infinitiv",
+        "grammar-reflexivt-verb",
+        "sent-då-bestämde-greta-sig-för-att-göra-något"
+      ],
+      "searchText": "bestämma sig för att bestämma-sig-för-att knowledge_base/phrases/bestämma-sig-för-att.md ---\ntype: phrase\nphrase: \"bestämma sig för att\"\ncategory: \"uttryck\"\nregister: \"neutralt\"\nfrequency: 5\nzh: \"决定去做（某事）\"\nen: \"decide to (do something)\"\nliteral: \"decide oneself to\"\nhead_words: [bestämma-sig]\ngrammar: [grammar-reflexivt-verb, grammar-infinitiv]\nrelated: [bestämma-sig-för]\ntopics: []\nsentences:\n  - sent-då-bestämde-greta-sig-för-att-göra-något\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bestämma sig för att\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 决定去做（某事）· 🇬🇧 decide to (do something)\n📝 字面: decide oneself to\n\n## 用法说明 (Usage)\n\n- `bestämma sig för att` + 动词原形 = 决定做某事。\n- 反身结构：sig 随主语变化（mig/dig/sig/oss/er）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-reflexivt-verb]]（反身动词 bestämma sig）\n- → [[grammar-infinitiv]]（att + 动词原形）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[bestämma-sig-för]]（决定某事/选择某物）\n\n## 例句 / 对话 (Examples)\n\n- [[sent-då-bestämde-greta-sig-för-att-göra-något]] 🇸🇪 Då bestämde Greta sig för att göra något. 🇨🇳 于是格蕾塔决定做点什么。\n",
+      "zh": "决定去做（某事）",
+      "en": "decide to (do something)",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "bestämma sig för att",
+      "category": "uttryck",
+      "sentences": [
+        "sent-då-bestämde-greta-sig-för-att-göra-något"
+      ],
+      "grammar": [
+        "grammar-reflexivt-verb",
+        "grammar-infinitiv"
+      ],
+      "topics": [],
+      "backlinks": [
+        "bestämma-sig",
+        "sent-då-bestämde-greta-sig-för-att-göra-något",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "bestämma-sig-för",
       "type": "phrase",
       "title": "bestämma sig för",
@@ -2878,6 +2968,7 @@ window.KB_DATA = {
         "topic-vardagsrutin"
       ],
       "backlinks": [
+        "bestämma-sig-för-att",
         "sent-solen-sken-och-vadret-var-fint",
         "source-2026-06-22-en-helg",
         "ta-det-lugnt"
@@ -3900,6 +3991,7 @@ window.KB_DATA = {
         "topic-fotboll"
       ],
       "backlinks": [
+        "en-av-världens-mest-kända",
         "sent-zlatan-en-av-sveriges-mest-kanda",
         "source-2026-06-09-zlatan-bio"
       ]
@@ -3930,6 +4022,38 @@ window.KB_DATA = {
         "sent-för-en-av-tio-unga-fotbollsspelare",
         "sent-och-nästan-en-av-tio-tros-dessutom",
         "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "en-av-världens-mest-kända",
+      "type": "phrase",
+      "title": "en av världens mest kända",
+      "path": "knowledge_base/phrases/en-av-världens-mest-kända.md",
+      "body": "# en av världens mest kända\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 世界上最有名的之一 · 🇬🇧 one of the world's most famous\n📝 字面: one of the world's most known\n\n## 用法说明 (Usage)\n\n- 句式：`en av [X]s mest kända [Y]` = \"[X]最有名的[Y]之一\"。\n- `kända` = känd 的复数形式（用于复数名词或 `en av...` 结构）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-komparativ]]（`mest kända` = most famous，分析性最高级）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[en-av-sveriges-mest-kanda]]（瑞典最有名的...之一）\n- 🔄 `en av [X]s mest kända [Y]` — 通用句式\n\n## 例句 / 对话 (Examples)\n\n- [[sent-idag-är-hon-en-av-världens-mest-kända-röster]] 🇸🇪 Idag är hon en av världens mest kända röster för miljön. 🇨🇳 今天她是世界上最有名的环保声音之一。",
+      "excerpt": "en av världens mest kända 🗣️ 类型: uttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 世界上最有名的之一 · 🇬🇧 one of the world's most famous 📝 字面: one of the world's most known 用法说明 (Usage) 句式： en av [X]s mest kända [Y] = \"[X]最有名的[Y]之一\"。 k",
+      "forms": [],
+      "links": [
+        "en-av-sveriges-mest-kanda",
+        "grammar-komparativ",
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster"
+      ],
+      "searchText": "en av världens mest kända en-av-världens-mest-kända knowledge_base/phrases/en-av-världens-mest-kända.md ---\ntype: phrase\nphrase: \"en av världens mest kända\"\ncategory: \"uttryck\"\nregister: \"neutralt\"\nfrequency: 3\nzh: \"世界上最有名的之一\"\nen: \"one of the world's most famous\"\nliteral: \"one of the world's most known\"\nhead_words: [känd]\ngrammar: [grammar-komparativ]\nrelated: [en-av-sveriges-mest-kanda]\ntopics: []\nsentences:\n  - sent-idag-är-hon-en-av-världens-mest-kända-röster\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# en av världens mest kända\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 世界上最有名的之一 · 🇬🇧 one of the world's most famous\n📝 字面: one of the world's most known\n\n## 用法说明 (Usage)\n\n- 句式：`en av [X]s mest kända [Y]` = \"[X]最有名的[Y]之一\"。\n- `kända` = känd 的复数形式（用于复数名词或 `en av...` 结构）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-komparativ]]（`mest kända` = most famous，分析性最高级）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[en-av-sveriges-mest-kanda]]（瑞典最有名的...之一）\n- 🔄 `en av [X]s mest kända [Y]` — 通用句式\n\n## 例句 / 对话 (Examples)\n\n- [[sent-idag-är-hon-en-av-världens-mest-kända-röster]] 🇸🇪 Idag är hon en av världens mest kända röster för miljön. 🇨🇳 今天她是世界上最有名的环保声音之一。\n",
+      "zh": "世界上最有名的之一",
+      "en": "one of the world's most famous",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "en av världens mest kända",
+      "category": "uttryck",
+      "sentences": [
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster"
+      ],
+      "grammar": [
+        "grammar-komparativ"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -4158,6 +4282,39 @@ window.KB_DATA = {
       "backlinks": [
         "sent-då-samlas-många-människor",
         "source-2026-06-19-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "för-första-gången",
+      "type": "phrase",
+      "title": "för första gången",
+      "path": "knowledge_base/phrases/för-första-gången.md",
+      "body": "# för första gången\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 第一次 · 🇬🇧 for the first time\n📝 字面: for the first time\n\n## 用法说明 (Usage)\n\n- 非常常用的时间表达，意为\"第一次\"。\n- `gången` = 次数（带定冠词），`första` = 第一（序数词）。\n- 类似：`för andra gången`（第二次），`för sista gången`（最后一次）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-bestämd-form]]（`gången` 带定冠词，`första` 是序数词）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `för andra/tredje gången` — 第二次/第三次\n- 🔄 `för sista gången` — 最后一次\n\n## 例句 / 对话 (Examples)\n\n- [[sent-när-greta-var-åtta-år-hörde-hon]] 🇸🇪 När Greta var åtta år hörde hon för första gången om klimatförändringarna. 🇨🇳 格蕾塔八岁时第一次听说气候变化。",
+      "excerpt": "för första gången 🗣️ 类型: uttryck · 语域: neutralt · 常用度: 5/5 🇨🇳 第一次 · 🇬🇧 for the first time 📝 字面: for the first time 用法说明 (Usage) 非常常用的时间表达，意为\"第一次\"。 gången = 次数（带定冠词）， första = 第一（序数词）。 类似： för andra gången （第二次）， fö",
+      "forms": [],
+      "links": [
+        "grammar-bestämd-form",
+        "sent-när-greta-var-åtta-år-hörde-hon"
+      ],
+      "searchText": "för första gången för-första-gången knowledge_base/phrases/för-första-gången.md ---\ntype: phrase\nphrase: \"för första gången\"\ncategory: \"uttryck\"\nregister: \"neutralt\"\nfrequency: 5\nzh: \"第一次\"\nen: \"for the first time\"\nliteral: \"for the first time\"\nhead_words: [gång]\ngrammar: [grammar-bestämd-form]\nrelated: []\ntopics: [topic-tid-och-tidsuttryck]\nsentences:\n  - sent-när-greta-var-åtta-år-hörde-hon\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# för första gången\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 5/5\n🇨🇳 第一次 · 🇬🇧 for the first time\n📝 字面: for the first time\n\n## 用法说明 (Usage)\n\n- 非常常用的时间表达，意为\"第一次\"。\n- `gången` = 次数（带定冠词），`första` = 第一（序数词）。\n- 类似：`för andra gången`（第二次），`för sista gången`（最后一次）。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-bestämd-form]]（`gången` 带定冠词，`första` 是序数词）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `för andra/tredje gången` — 第二次/第三次\n- 🔄 `för sista gången` — 最后一次\n\n## 例句 / 对话 (Examples)\n\n- [[sent-när-greta-var-åtta-år-hörde-hon]] 🇸🇪 När Greta var åtta år hörde hon för första gången om klimatförändringarna. 🇨🇳 格蕾塔八岁时第一次听说气候变化。\n",
+      "zh": "第一次",
+      "en": "for the first time",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "för första gången",
+      "category": "uttryck",
+      "sentences": [
+        "sent-när-greta-var-åtta-år-hörde-hon"
+      ],
+      "grammar": [
+        "grammar-bestämd-form"
+      ],
+      "topics": [
+        "topic-tid-och-tidsuttryck"
+      ],
+      "backlinks": [
+        "sent-när-greta-var-åtta-år-hörde-hon",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -4573,6 +4730,36 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "göra-något-åt",
+      "type": "phrase",
+      "title": "göra något åt",
+      "path": "knowledge_base/phrases/göra-något-åt.md",
+      "body": "# göra något åt\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 对…采取行动，对…做点什么 · 🇬🇧 do something about\n📝 字面: do something at/towards\n\n## 用法说明 (Usage)\n\n- 表示针对某个问题采取行动：`göra något åt + problemet/det`。\n- 常用于表达对问题有所作为：`Vi måste göra något åt det.`\n\n## 短语中的语法 (Grammar inside)\n\n- `åt` 在此作介词，表示\"针对/朝向\"。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `göra ingenting åt det` — 对此什么也不做\n- 🔄 `vad ska vi göra åt det?` — 我们该怎么处理这件事？\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hon-förstod-inte-varför-så-få-människor]] 🇸🇪 Hon förstod inte varför så få människor gjorde något åt problemet. 🇨🇳 她不明白为什么这么少的人为这个问题做点什么。",
+      "excerpt": "göra något åt 🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5 🇨🇳 对…采取行动，对…做点什么 · 🇬🇧 do something about 📝 字面: do something at/towards 用法说明 (Usage) 表示针对某个问题采取行动： göra något åt + problemet/det 。 常用于表达对问题有所作为： Vi måste göra n",
+      "forms": [],
+      "links": [
+        "sent-hon-förstod-inte-varför-så-få-människor"
+      ],
+      "searchText": "göra något åt göra-något-åt knowledge_base/phrases/göra-något-åt.md ---\ntype: phrase\nphrase: \"göra något åt\"\ncategory: \"uttryck\"\nregister: \"neutralt\"\nfrequency: 4\nzh: \"对…采取行动，对…做点什么\"\nen: \"do something about\"\nliteral: \"do something at/towards\"\nhead_words: [göra]\ngrammar: []\nrelated: []\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-hon-förstod-inte-varför-så-få-människor\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# göra något åt\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 对…采取行动，对…做点什么 · 🇬🇧 do something about\n📝 字面: do something at/towards\n\n## 用法说明 (Usage)\n\n- 表示针对某个问题采取行动：`göra något åt + problemet/det`。\n- 常用于表达对问题有所作为：`Vi måste göra något åt det.`\n\n## 短语中的语法 (Grammar inside)\n\n- `åt` 在此作介词，表示\"针对/朝向\"。\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `göra ingenting åt det` — 对此什么也不做\n- 🔄 `vad ska vi göra åt det?` — 我们该怎么处理这件事？\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hon-förstod-inte-varför-så-få-människor]] 🇸🇪 Hon förstod inte varför så få människor gjorde något åt problemet. 🇨🇳 她不明白为什么这么少的人为这个问题做点什么。\n",
+      "zh": "对…采取行动，对…做点什么",
+      "en": "do something about",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "göra något åt",
+      "category": "uttryck",
+      "sentences": [
+        "sent-hon-förstod-inte-varför-så-få-människor"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-hon-förstod-inte-varför-så-få-människor",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "grattis-på-födelsedagen",
       "type": "phrase",
       "title": "grattis på födelsedagen",
@@ -4859,6 +5046,41 @@ window.KB_DATA = {
       "backlinks": [
         "hålla",
         "hålla-med"
+      ]
+    },
+    {
+      "slug": "hålla-tal",
+      "type": "phrase",
+      "title": "hålla tal",
+      "path": "knowledge_base/phrases/hålla-tal.md",
+      "body": "# hålla tal\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 发表演讲 · 🇬🇧 give a speech, make a speech\n📝 字面: hold speech\n\n## 用法说明 (Usage)\n\n- 固定搭配：`hålla tal` = 发表演讲（不加冠词）。\n- 也可说 `hålla ett tal om X`（发表关于X的演讲）。\n\n## 短语中的语法 (Grammar inside)\n\n- `hålla` 不规则动词（pres. håller, pret. höll, sup. hållit）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[hålla]] （持有/举办，多义词）\n- 🔄 `hålla ett tal om + ämne` — 就某话题发表演讲\n\n## 例句 / 对话 (Examples)\n\n- [[sent-greta-reste-till-andra-länder-för-att-hålla-tal]] 🇸🇪 Greta reste till andra länder för att hålla tal. 🇨🇳 格蕾塔到其他国家去演讲。\n- [[sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal]] 🇸🇪 På ett stort möte i FN höll hon ett känt tal. 🇨🇳 在联合国的一场大型会议上她发表了一场著名的演讲。",
+      "excerpt": "hålla tal 🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5 🇨🇳 发表演讲 · 🇬🇧 give a speech, make a speech 📝 字面: hold speech 用法说明 (Usage) 固定搭配： hålla tal = 发表演讲（不加冠词）。 也可说 hålla ett tal om X （发表关于X的演讲）。 短语中的语法 (Grammar inside) h",
+      "forms": [],
+      "links": [
+        "hålla",
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal"
+      ],
+      "searchText": "hålla tal hålla-tal knowledge_base/phrases/hålla-tal.md ---\ntype: phrase\nphrase: \"hålla tal\"\ncategory: \"uttryck\"\nregister: \"neutralt\"\nfrequency: 4\nzh: \"发表演讲\"\nen: \"give a speech, make a speech\"\nliteral: \"hold speech\"\nhead_words: [hålla, tal]\ngrammar: []\nrelated: []\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-greta-reste-till-andra-länder-för-att-hålla-tal\n  - sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hålla tal\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 发表演讲 · 🇬🇧 give a speech, make a speech\n📝 字面: hold speech\n\n## 用法说明 (Usage)\n\n- 固定搭配：`hålla tal` = 发表演讲（不加冠词）。\n- 也可说 `hålla ett tal om X`（发表关于X的演讲）。\n\n## 短语中的语法 (Grammar inside)\n\n- `hålla` 不规则动词（pres. håller, pret. höll, sup. hållit）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[hålla]] （持有/举办，多义词）\n- 🔄 `hålla ett tal om + ämne` — 就某话题发表演讲\n\n## 例句 / 对话 (Examples)\n\n- [[sent-greta-reste-till-andra-länder-för-att-hålla-tal]] 🇸🇪 Greta reste till andra länder för att hålla tal. 🇨🇳 格蕾塔到其他国家去演讲。\n- [[sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal]] 🇸🇪 På ett stort möte i FN höll hon ett känt tal. 🇨🇳 在联合国的一场大型会议上她发表了一场著名的演讲。\n",
+      "zh": "发表演讲",
+      "en": "give a speech, make a speech",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "hålla tal",
+      "category": "uttryck",
+      "sentences": [
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
+        "source-2026-06-22-greta-thunberg",
+        "tal"
       ]
     },
     {
@@ -5650,6 +5872,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "i-stället",
+      "type": "phrase",
+      "title": "i stället",
+      "path": "knowledge_base/phrases/i-stället.md",
+      "body": "# i stället\n\n🗣️ 类型: adverb · 语域: neutralt · 常用度: 5/5\n🇨🇳 取而代之，反而，改为 · 🇬🇧 instead\n📝 字面: in place\n\n## 用法说明 (Usage)\n\n- `i stället` 单独用作副词，意为\"取而代之/改为\"。\n- `i stället för + 名词/动词` = \"而不是/代替\"（参见 [[istallet-for]]）。\n\n## 短语中的语法 (Grammar inside)\n\n- 作句首状语时，主谓倒装（V2 规则）：`I stället **satte** hon sig utanför riksdagen.`\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[istallet-for]]（i stället för = 而不是...）\n- 🔄 `istället`（写法变体，两词合一）\n\n## 例句 / 对话 (Examples)\n\n- [[sent-i-stället-satte-hon-sig-utanför-riksdagen]] 🇸🇪 I stället satte hon sig utanför riksdagen i Stockholm. 🇨🇳 她反而坐在斯德哥尔摩的国会大楼外。",
+      "excerpt": "i stället 🗣️ 类型: adverb · 语域: neutralt · 常用度: 5/5 🇨🇳 取而代之，反而，改为 · 🇬🇧 instead 📝 字面: in place 用法说明 (Usage) i stället 单独用作副词，意为\"取而代之/改为\"。 i stället för + 名词/动词 = \"而不是/代替\"（参见 istallet for）。 短语中的语法 (Grammar inside) 作句首状",
+      "forms": [],
+      "links": [
+        "istallet-for",
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen"
+      ],
+      "searchText": "i stället i-stället knowledge_base/phrases/i-stället.md ---\ntype: phrase\nphrase: \"i stället\"\ncategory: \"adverb\"\nregister: \"neutralt\"\nfrequency: 5\nzh: \"取而代之，反而，改为\"\nen: \"instead\"\nliteral: \"in place\"\nhead_words: []\ngrammar: []\nrelated: [istallet-for]\ntopics: []\nsentences:\n  - sent-i-stället-satte-hon-sig-utanför-riksdagen\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# i stället\n\n🗣️ 类型: adverb · 语域: neutralt · 常用度: 5/5\n🇨🇳 取而代之，反而，改为 · 🇬🇧 instead\n📝 字面: in place\n\n## 用法说明 (Usage)\n\n- `i stället` 单独用作副词，意为\"取而代之/改为\"。\n- `i stället för + 名词/动词` = \"而不是/代替\"（参见 [[istallet-for]]）。\n\n## 短语中的语法 (Grammar inside)\n\n- 作句首状语时，主谓倒装（V2 规则）：`I stället **satte** hon sig utanför riksdagen.`\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[istallet-for]]（i stället för = 而不是...）\n- 🔄 `istället`（写法变体，两词合一）\n\n## 例句 / 对话 (Examples)\n\n- [[sent-i-stället-satte-hon-sig-utanför-riksdagen]] 🇸🇪 I stället satte hon sig utanför riksdagen i Stockholm. 🇨🇳 她反而坐在斯德哥尔摩的国会大楼外。\n",
+      "zh": "取而代之，反而，改为",
+      "en": "instead",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "i stället",
+      "category": "adverb",
+      "sentences": [
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen"
+      ],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "inga-problem",
       "type": "phrase",
       "title": "Inga problem.",
@@ -5800,6 +6051,7 @@ window.KB_DATA = {
       ],
       "topics": [],
       "backlinks": [
+        "i-stället",
         "sent-en-latte-tack-men-kan-jag-fa-den",
         "sent-gick-aldrig-klart-gymnasiet-satsade",
         "source-2026-06-09-zlatan-bio"
@@ -5947,6 +6199,37 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "kämpa-för",
+      "type": "phrase",
+      "title": "kämpa för",
+      "path": "knowledge_base/phrases/kämpa-för.md",
+      "body": "# kämpa för\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 为…奋斗，为…而战 · 🇬🇧 fight for, struggle for\n📝 字面: fight for\n\n## 用法说明 (Usage)\n\n- `kämpa för + 名词/事业` = 为...而斗争/奋斗（正面意义）。\n- 区别于 [[kämpa-mot]]（对抗/抵抗某事物）。\n\n## 短语中的语法 (Grammar inside)\n\n- `kämpa` v.1（kämpar, kämpade, kämpat）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[kämpa-mot]]（对抗）\n- 🔄 `kämpa för klimatet/rättvisa/rättigheter` — 为气候/正义/权利而战\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hon-fortsätter-att-kämpa-för-klimatet]] 🇸🇪 Hon fortsätter att kämpa för klimatet och för en bättre framtid. 🇨🇳 她继续为气候、为更美好的未来而奋斗。",
+      "excerpt": "kämpa för 🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5 🇨🇳 为…奋斗，为…而战 · 🇬🇧 fight for, struggle for 📝 字面: fight for 用法说明 (Usage) kämpa för + 名词/事业 = 为...而斗争/奋斗（正面意义）。 区别于 kämpa mot（对抗/抵抗某事物）。 短语中的语法 (Grammar inside) kämpa",
+      "forms": [],
+      "links": [
+        "kämpa-mot",
+        "sent-hon-fortsätter-att-kämpa-för-klimatet"
+      ],
+      "searchText": "kämpa för kämpa-för knowledge_base/phrases/kämpa-för.md ---\ntype: phrase\nphrase: \"kämpa för\"\ncategory: \"uttryck\"\nregister: \"neutralt\"\nfrequency: 4\nzh: \"为…奋斗，为…而战\"\nen: \"fight for, struggle for\"\nliteral: \"fight for\"\nhead_words: [kämpa]\ngrammar: []\nrelated: [kämpa-mot]\ntopics: [topic-miljö-och-klimat]\nsentences:\n  - sent-hon-fortsätter-att-kämpa-för-klimatet\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kämpa för\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 为…奋斗，为…而战 · 🇬🇧 fight for, struggle for\n📝 字面: fight for\n\n## 用法说明 (Usage)\n\n- `kämpa för + 名词/事业` = 为...而斗争/奋斗（正面意义）。\n- 区别于 [[kämpa-mot]]（对抗/抵抗某事物）。\n\n## 短语中的语法 (Grammar inside)\n\n- `kämpa` v.1（kämpar, kämpade, kämpat）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔗 [[kämpa-mot]]（对抗）\n- 🔄 `kämpa för klimatet/rättvisa/rättigheter` — 为气候/正义/权利而战\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hon-fortsätter-att-kämpa-för-klimatet]] 🇸🇪 Hon fortsätter att kämpa för klimatet och för en bättre framtid. 🇨🇳 她继续为气候、为更美好的未来而奋斗。\n",
+      "zh": "为…奋斗，为…而战",
+      "en": "fight for, struggle for",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "kämpa för",
+      "category": "uttryck",
+      "sentences": [
+        "sent-hon-fortsätter-att-kämpa-för-klimatet"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-miljö-och-klimat"
+      ],
+      "backlinks": [
+        "sent-hon-fortsätter-att-kämpa-för-klimatet",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "kämpa-mot",
       "type": "phrase",
       "title": "kämpa mot",
@@ -5969,6 +6252,7 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "kämpa",
+        "kämpa-för",
         "source-2026-06-02-astrid-lindgren"
       ]
     },
@@ -7247,6 +7531,38 @@ window.KB_DATA = {
         "sent-mitt-emot-parken-pa-andra-sidan-gatan-livsmedelsbutik",
         "source-2026-06-09-beskriva-en-gata",
         "topic-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "på-ett-annorlunda-sätt",
+      "type": "phrase",
+      "title": "på ett annorlunda sätt",
+      "path": "knowledge_base/phrases/på-ett-annorlunda-sätt.md",
+      "body": "# på ett annorlunda sätt\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 以不同的方式 · 🇬🇧 in a different way\n📝 字面: in a different manner\n\n## 用法说明 (Usage)\n\n- `sätt`（方式/方法）+ 形容词描述方式。\n- 模式：`på ett [adj] sätt` = 以...的方式。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-obestämd-form]]（ett sätt 不定冠词中性）\n- `annorlunda` 作形容词修饰 `sätt`\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `på ett annat sätt` — 以另一种方式\n- 🔄 `på ett bättre sätt` — 以更好的方式\n- 🔗 [[annorlunda]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hon-säger-själv-att-det-hjälper-henne]] 🇸🇪 Hon säger själv att det hjälper henne att se världen på ett annorlunda sätt. 🇨🇳 她自己说，这帮助她以一种不同的方式看世界。",
+      "excerpt": "på ett annorlunda sätt 🗣️ 类型: uttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 以不同的方式 · 🇬🇧 in a different way 📝 字面: in a different manner 用法说明 (Usage) sätt （方式/方法）+ 形容词描述方式。 模式： på ett [adj] sätt = 以...的方式。 短语中的语法 (Grammar ins",
+      "forms": [],
+      "links": [
+        "annorlunda",
+        "grammar-obestämd-form",
+        "sent-hon-säger-själv-att-det-hjälper-henne"
+      ],
+      "searchText": "på ett annorlunda sätt på-ett-annorlunda-sätt knowledge_base/phrases/på-ett-annorlunda-sätt.md ---\ntype: phrase\nphrase: \"på ett annorlunda sätt\"\ncategory: \"uttryck\"\nregister: \"neutralt\"\nfrequency: 3\nzh: \"以不同的方式\"\nen: \"in a different way\"\nliteral: \"in a different manner\"\nhead_words: [sätt, annorlunda]\ngrammar: [grammar-obestämd-form]\nrelated: []\ntopics: []\nsentences:\n  - sent-hon-säger-själv-att-det-hjälper-henne\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# på ett annorlunda sätt\n\n🗣️ 类型: uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 以不同的方式 · 🇬🇧 in a different way\n📝 字面: in a different manner\n\n## 用法说明 (Usage)\n\n- `sätt`（方式/方法）+ 形容词描述方式。\n- 模式：`på ett [adj] sätt` = 以...的方式。\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-obestämd-form]]（ett sätt 不定冠词中性）\n- `annorlunda` 作形容词修饰 `sätt`\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `på ett annat sätt` — 以另一种方式\n- 🔄 `på ett bättre sätt` — 以更好的方式\n- 🔗 [[annorlunda]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-hon-säger-själv-att-det-hjälper-henne]] 🇸🇪 Hon säger själv att det hjälper henne att se världen på ett annorlunda sätt. 🇨🇳 她自己说，这帮助她以一种不同的方式看世界。\n",
+      "zh": "以不同的方式",
+      "en": "in a different way",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "på ett annorlunda sätt",
+      "category": "uttryck",
+      "sentences": [
+        "sent-hon-säger-själv-att-det-hjälper-henne"
+      ],
+      "grammar": [
+        "grammar-obestämd-form"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-hon-säger-själv-att-det-hjälper-henne",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -10513,6 +10829,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-år-2019-åkte-hon-med-en-segelbåt",
+      "type": "sentence",
+      "title": "🇸🇪 År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga.",
+      "path": "knowledge_base/sentences/sent-år-2019-åkte-hon-med-en-segelbåt.md",
+      "body": "# 🇸🇪 År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga.\n\n🇨🇳 2019年她乘帆船横渡大西洋去了美国，因为她不想坐飞机。\n\n## 结构 (Structure)\n\n```\n[År 2019] [åkte] [hon] [med en segelbåt] [över Atlanten] [till USA], [eftersom hon inte ville flyga]\n 时间状语   动词    主语     方式状语           方向             目的地        eftersom原因从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-eftersom]] — `eftersom hon inte ville flyga`（`inte` 在动词前，BIFF规则）。\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，`åkte` 第二位。\n- 📌 [[grammar-preteritum]] — `åka→åkte`（v.2不规则），`villa→ville`。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[segelbåt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga. 🇨🇳 2019年她乘帆船横渡大西洋去了美国，因为她不想坐飞机。 结构 (Structure) [År 2019] [åkte] [hon] [med en segelbåt] [över Atlanten] [till USA], [eftersom",
+      "forms": [],
+      "links": [
+        "grammar-bisats-eftersom",
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd",
+        "segelbåt",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga. sent-år-2019-åkte-hon-med-en-segelbåt knowledge_base/sentences/sent-år-2019-åkte-hon-med-en-segelbåt.md ---\ntype: sentence\nsentence: \"År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga.\"\nzh: \"2019年她乘帆船横渡大西洋去了美国，因为她不想坐飞机。\"\ncefr: \"A2\"\nwords: [segelbåt]\nphrases: []\ngrammar: [grammar-bisats-eftersom, grammar-preteritum, grammar-v2-ordfoljd]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-miljö-och-klimat, topic-fritid-och-resor]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga.\n\n🇨🇳 2019年她乘帆船横渡大西洋去了美国，因为她不想坐飞机。\n\n## 结构 (Structure)\n\n```\n[År 2019] [åkte] [hon] [med en segelbåt] [över Atlanten] [till USA], [eftersom hon inte ville flyga]\n 时间状语   动词    主语     方式状语           方向             目的地        eftersom原因从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-eftersom]] — `eftersom hon inte ville flyga`（`inte` 在动词前，BIFF规则）。\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，`åkte` 第二位。\n- 📌 [[grammar-preteritum]] — `åka→åkte`（v.2不规则），`villa→ville`。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[segelbåt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "2019年她乘帆船横渡大西洋去了美国，因为她不想坐飞机。",
+      "created": "2026-06-22",
+      "sentence": "År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga.",
+      "words": [
+        "segelbåt"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-bisats-eftersom",
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat",
+        "topic-fritid-och-resor"
+      ],
+      "backlinks": [
+        "segelbåt",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "sent-ar-det-olika-orsaker-behov-eller-kon",
       "type": "sentence",
       "title": "🇸🇪 Är det olika orsaker, behov eller kön?",
@@ -10938,6 +11292,45 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-15-restaurang-allergi-nota"
+      ]
+    },
+    {
+      "slug": "sent-då-bestämde-greta-sig-för-att-göra-något",
+      "type": "sentence",
+      "title": "🇸🇪 Då bestämde Greta sig för att göra något.",
+      "path": "knowledge_base/sentences/sent-då-bestämde-greta-sig-för-att-göra-något.md",
+      "body": "# 🇸🇪 Då bestämde Greta sig för att göra något.\n\n🇨🇳 于是格蕾塔决定做点什么。\n\n## 结构 (Structure)\n\n```\n[Då] [bestämde] [Greta] [sig] [för att göra något]\n 副词   动词（前置）  主语   反身代词    介词短语+不定式\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 句首 `då` 导致主谓倒装（V2）。\n- 📌 [[grammar-reflexivt-verb]] — `bestämma sig`反身动词。\n- 📌 [[grammar-preteritum]] — `bestämde`。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bestämma-sig]]\n- 词组: [[bestämma-sig-för-att]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Då bestämde Greta sig för att göra något. 🇨🇳 于是格蕾塔决定做点什么。 结构 (Structure) [Då] [bestämde] [Greta] [sig] [för att göra något] 副词 动词（前置） 主语 反身代词 介词短语+不定式 语法点 (Grammar) 📌 grammar v2 ordfoljd — 句首 då 导致主谓倒装（V2）。 📌 gr",
+      "forms": [],
+      "links": [
+        "bestämma-sig",
+        "bestämma-sig-för-att",
+        "grammar-preteritum",
+        "grammar-reflexivt-verb",
+        "grammar-v2-ordfoljd",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Då bestämde Greta sig för att göra något. sent-då-bestämde-greta-sig-för-att-göra-något knowledge_base/sentences/sent-då-bestämde-greta-sig-för-att-göra-något.md ---\ntype: sentence\nsentence: \"Då bestämde Greta sig för att göra något.\"\nzh: \"于是格蕾塔决定做点什么。\"\ncefr: \"A2\"\nwords: [bestämma-sig]\nphrases: [bestämma-sig-för-att]\ngrammar: [grammar-preteritum, grammar-reflexivt-verb, grammar-v2-ordfoljd]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Då bestämde Greta sig för att göra något.\n\n🇨🇳 于是格蕾塔决定做点什么。\n\n## 结构 (Structure)\n\n```\n[Då] [bestämde] [Greta] [sig] [för att göra något]\n 副词   动词（前置）  主语   反身代词    介词短语+不定式\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 句首 `då` 导致主谓倒装（V2）。\n- 📌 [[grammar-reflexivt-verb]] — `bestämma sig`反身动词。\n- 📌 [[grammar-preteritum]] — `bestämde`。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[bestämma-sig]]\n- 词组: [[bestämma-sig-för-att]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "于是格蕾塔决定做点什么。",
+      "created": "2026-06-22",
+      "sentence": "Då bestämde Greta sig för att göra något.",
+      "words": [
+        "bestämma-sig"
+      ],
+      "phrases": [
+        "bestämma-sig-för-att"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-reflexivt-verb",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [],
+      "backlinks": [
+        "bestämma-sig",
+        "bestämma-sig-för-att",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -11491,6 +11884,40 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
+      "type": "sentence",
+      "title": "🇸🇪 Den 20 augusti 2018 gick hon inte till skolan.",
+      "path": "knowledge_base/sentences/sent-den-20-augusti-2018-gick-hon-inte-till-skolan.md",
+      "body": "# 🇸🇪 Den 20 augusti 2018 gick hon inte till skolan.\n\n🇨🇳 2018年8月20日她没有去上学。\n\n## 结构 (Structure)\n\n```\n[Den 20 augusti 2018] [gick] [hon] [inte] [till skolan]\n      时间状语（前置）    动词    主语   否定    方向状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，动词 `gick` 在第二位。\n- 📌 [[grammar-preteritum-oregelbundna]] — `gå→gick`（不规则动词）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skola]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Den 20 augusti 2018 gick hon inte till skolan. 🇨🇳 2018年8月20日她没有去上学。 结构 (Structure) [Den 20 augusti 2018] [gick] [hon] [inte] [till skolan] 时间状语（前置） 动词 主语 否定 方向状语 语法点 (Grammar) 📌 grammar v2 ordfoljd — 时间状语前置，动词 gi",
+      "forms": [],
+      "links": [
+        "grammar-preteritum-oregelbundna",
+        "grammar-v2-ordfoljd",
+        "skola",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Den 20 augusti 2018 gick hon inte till skolan. sent-den-20-augusti-2018-gick-hon-inte-till-skolan knowledge_base/sentences/sent-den-20-augusti-2018-gick-hon-inte-till-skolan.md ---\ntype: sentence\nsentence: \"Den 20 augusti 2018 gick hon inte till skolan.\"\nzh: \"2018年8月20日她没有去上学。\"\ncefr: \"A2\"\nwords: [skola, gå]\nphrases: []\ngrammar: [grammar-preteritum, grammar-preteritum-oregelbundna, grammar-v2-ordfoljd]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Den 20 augusti 2018 gick hon inte till skolan.\n\n🇨🇳 2018年8月20日她没有去上学。\n\n## 结构 (Structure)\n\n```\n[Den 20 augusti 2018] [gick] [hon] [inte] [till skolan]\n      时间状语（前置）    动词    主语   否定    方向状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，动词 `gick` 在第二位。\n- 📌 [[grammar-preteritum-oregelbundna]] — `gå→gick`（不规则动词）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skola]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "2018年8月20日她没有去上学。",
+      "created": "2026-06-22",
+      "sentence": "Den 20 augusti 2018 gick hon inte till skolan.",
+      "words": [
+        "skola",
+        "gå"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-preteritum-oregelbundna",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -16122,6 +16549,177 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-greta-har-aspergers-syndrom",
+      "type": "sentence",
+      "title": "🇸🇪 Greta har Aspergers syndrom.",
+      "path": "knowledge_base/sentences/sent-greta-har-aspergers-syndrom.md",
+      "body": "# 🇸🇪 Greta har Aspergers syndrom.\n\n🇨🇳 格蕾塔患有阿斯伯格综合症。\n\n## 结构 (Structure)\n\n```\n[Greta] [har] [Aspergers syndrom]\n  主语    动词        宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — `har` 现在时。\n- `ha + sjukdom/syndrom` = 患有（某病症）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- Aspergers syndrom（阿斯伯格综合症）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Greta har Aspergers syndrom. 🇨🇳 格蕾塔患有阿斯伯格综合症。 结构 (Structure) [Greta] [har] [Aspergers syndrom] 主语 动词 宾语 语法点 (Grammar) 📌 grammar presens — har 现在时。 ha + sjukdom/syndrom = 患有（某病症）。 生词 & 词组 (Words & Phrases) Asperge",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Greta har Aspergers syndrom. sent-greta-har-aspergers-syndrom knowledge_base/sentences/sent-greta-har-aspergers-syndrom.md ---\ntype: sentence\nsentence: \"Greta har Aspergers syndrom.\"\nzh: \"格蕾塔患有阿斯伯格综合症。\"\ncefr: \"A2\"\nwords: []\nphrases: []\ngrammar: [grammar-presens]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-hälsa]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Greta har Aspergers syndrom.\n\n🇨🇳 格蕾塔患有阿斯伯格综合症。\n\n## 结构 (Structure)\n\n```\n[Greta] [har] [Aspergers syndrom]\n  主语    动词        宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — `har` 现在时。\n- `ha + sjukdom/syndrom` = 患有（某病症）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- Aspergers syndrom（阿斯伯格综合症）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "格蕾塔患有阿斯伯格综合症。",
+      "created": "2026-06-22",
+      "sentence": "Greta har Aspergers syndrom.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-greta-har-en-lillasyster-som-heter-beata",
+      "type": "sentence",
+      "title": "🇸🇪 Greta har en lillasyster som heter Beata.",
+      "path": "knowledge_base/sentences/sent-greta-har-en-lillasyster-som-heter-beata.md",
+      "body": "# 🇸🇪 Greta har en lillasyster som heter Beata.\n\n🇨🇳 格蕾塔有一个妹妹，叫贝娅塔。\n\n## 结构 (Structure)\n\n```\n[Greta] [har] [en lillasyster] [som heter Beata]\n  主语    动词      宾语            关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `som heter Beata` 是关系从句（relative clause），`som` = who/that。\n- 📌 [[grammar-presens]] — 现在时。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lillasyster]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Greta har en lillasyster som heter Beata. 🇨🇳 格蕾塔有一个妹妹，叫贝娅塔。 结构 (Structure) [Greta] [har] [en lillasyster] [som heter Beata] 主语 动词 宾语 关系从句 语法点 (Grammar) 📌 grammar bisats — som heter Beata 是关系从句（relative clause）， s",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "grammar-presens",
+        "lillasyster",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Greta har en lillasyster som heter Beata. sent-greta-har-en-lillasyster-som-heter-beata knowledge_base/sentences/sent-greta-har-en-lillasyster-som-heter-beata.md ---\ntype: sentence\nsentence: \"Greta har en lillasyster som heter Beata.\"\nzh: \"格蕾塔有一个妹妹，叫贝娅塔。\"\ncefr: \"A1\"\nwords: [lillasyster]\nphrases: []\ngrammar: [grammar-presens, grammar-bisats]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-familj-och-barn]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Greta har en lillasyster som heter Beata.\n\n🇨🇳 格蕾塔有一个妹妹，叫贝娅塔。\n\n## 结构 (Structure)\n\n```\n[Greta] [har] [en lillasyster] [som heter Beata]\n  主语    动词      宾语            关系从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats]] — `som heter Beata` 是关系从句（relative clause），`som` = who/that。\n- 📌 [[grammar-presens]] — 现在时。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[lillasyster]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A1",
+      "zh": "格蕾塔有一个妹妹，叫贝娅塔。",
+      "created": "2026-06-22",
+      "sentence": "Greta har en lillasyster som heter Beata.",
+      "words": [
+        "lillasyster"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens",
+        "grammar-bisats"
+      ],
+      "topics": [
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "lillasyster",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
+      "type": "sentence",
+      "title": "🇸🇪 Greta har vunnit många priser för sitt arbete.",
+      "path": "knowledge_base/sentences/sent-greta-har-vunnit-många-priser-för-sitt-arbete.md",
+      "body": "# 🇸🇪 Greta har vunnit många priser för sitt arbete.\n\n🇨🇳 格蕾塔因她的工作赢得了许多奖项。\n\n## 结构 (Structure)\n\n```\n[Greta] [har vunnit] [många priser] [för sitt arbete]\n  主语    助动词+supinum    宾语（复数）       介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har vunnit`（现在完成时）。\n- 📌 [[grammar-sin-sina]] — `sitt arbete`（自身的工作，主语是 Greta 所以用 sitt）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[pris]]（已存在）, [[arbete]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Greta har vunnit många priser för sitt arbete. 🇨🇳 格蕾塔因她的工作赢得了许多奖项。 结构 (Structure) [Greta] [har vunnit] [många priser] [för sitt arbete] 主语 助动词+supinum 宾语（复数） 介词短语 语法点 (Grammar) 📌 grammar perfekt — har vunnit （现在完",
+      "forms": [],
+      "links": [
+        "arbete",
+        "grammar-perfekt",
+        "grammar-sin-sina",
+        "pris",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Greta har vunnit många priser för sitt arbete. sent-greta-har-vunnit-många-priser-för-sitt-arbete knowledge_base/sentences/sent-greta-har-vunnit-många-priser-för-sitt-arbete.md ---\ntype: sentence\nsentence: \"Greta har vunnit många priser för sitt arbete.\"\nzh: \"格蕾塔因她的工作赢得了许多奖项。\"\ncefr: \"A2\"\nwords: [pris, arbete]\nphrases: []\ngrammar: [grammar-perfekt, grammar-sin-sina]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Greta har vunnit många priser för sitt arbete.\n\n🇨🇳 格蕾塔因她的工作赢得了许多奖项。\n\n## 结构 (Structure)\n\n```\n[Greta] [har vunnit] [många priser] [för sitt arbete]\n  主语    助动词+supinum    宾语（复数）       介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har vunnit`（现在完成时）。\n- 📌 [[grammar-sin-sina]] — `sitt arbete`（自身的工作，主语是 Greta 所以用 sitt）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[pris]]（已存在）, [[arbete]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "格蕾塔因她的工作赢得了许多奖项。",
+      "created": "2026-06-22",
+      "sentence": "Greta har vunnit många priser för sitt arbete.",
+      "words": [
+        "pris",
+        "arbete"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt",
+        "grammar-sin-sina"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
+      "type": "sentence",
+      "title": "🇸🇪 Greta reste till andra länder för att hålla tal.",
+      "path": "knowledge_base/sentences/sent-greta-reste-till-andra-länder-för-att-hålla-tal.md",
+      "body": "# 🇸🇪 Greta reste till andra länder för att hålla tal.\n\n🇨🇳 格蕾塔到其他国家去演讲。\n\n## 结构 (Structure)\n\n```\n[Greta] [reste] [till andra länder] [för att hålla tal]\n  主语    动词        目的地              目的从句（for att）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-for-att-infinitiv]] — `för att + infinitiv` 表目的：为了...。\n- 📌 [[grammar-preteritum]] — `resa→reste`（v.2）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tal]]\n- 词组: [[hålla-tal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Greta reste till andra länder för att hålla tal. 🇨🇳 格蕾塔到其他国家去演讲。 结构 (Structure) [Greta] [reste] [till andra länder] [för att hålla tal] 主语 动词 目的地 目的从句（for att） 语法点 (Grammar) 📌 grammar for att infinitiv — för att ",
+      "forms": [],
+      "links": [
+        "grammar-for-att-infinitiv",
+        "grammar-preteritum",
+        "hålla-tal",
+        "source-2026-06-22-greta-thunberg",
+        "tal"
+      ],
+      "searchText": "🇸🇪 Greta reste till andra länder för att hålla tal. sent-greta-reste-till-andra-länder-för-att-hålla-tal knowledge_base/sentences/sent-greta-reste-till-andra-länder-för-att-hålla-tal.md ---\ntype: sentence\nsentence: \"Greta reste till andra länder för att hålla tal.\"\nzh: \"格蕾塔到其他国家去演讲。\"\ncefr: \"A2\"\nwords: [tal]\nphrases: [hålla-tal]\ngrammar: [grammar-preteritum, grammar-for-att-infinitiv]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Greta reste till andra länder för att hålla tal.\n\n🇨🇳 格蕾塔到其他国家去演讲。\n\n## 结构 (Structure)\n\n```\n[Greta] [reste] [till andra länder] [för att hålla tal]\n  主语    动词        目的地              目的从句（for att）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-for-att-infinitiv]] — `för att + infinitiv` 表目的：为了...。\n- 📌 [[grammar-preteritum]] — `resa→reste`（v.2）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tal]]\n- 词组: [[hålla-tal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "格蕾塔到其他国家去演讲。",
+      "created": "2026-06-22",
+      "sentence": "Greta reste till andra länder för att hålla tal.",
+      "words": [
+        "tal"
+      ],
+      "phrases": [
+        "hålla-tal"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-for-att-infinitiv"
+      ],
+      "topics": [],
+      "backlinks": [
+        "hålla-tal",
+        "source-2026-06-22-greta-thunberg",
+        "tal"
+      ]
+    },
+    {
+      "slug": "sent-greta-thunberg-är-en-känd-klimataktivist",
+      "type": "sentence",
+      "title": "🇸🇪 Greta Thunberg är en känd klimataktivist från Sverige.",
+      "path": "knowledge_base/sentences/sent-greta-thunberg-är-en-känd-klimataktivist.md",
+      "body": "# 🇸🇪 Greta Thunberg är en känd klimataktivist från Sverige.\n\n🇨🇳 格蕾塔·通贝里是一位来自瑞典的著名气候活动家。\n\n## 结构 (Structure)\n\n```\n[Greta Thunberg] [är] [en känd klimataktivist] [från Sverige]\n     主语           动词      表语（名词短语）        介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — `är` 是 vara 的现在时，用于描述人物。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[klimataktivist]], [[känd]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Greta Thunberg är en känd klimataktivist från Sverige. 🇨🇳 格蕾塔·通贝里是一位来自瑞典的著名气候活动家。 结构 (Structure) [Greta Thunberg] [är] [en känd klimataktivist] [från Sverige] 主语 动词 表语（名词短语） 介词短语 语法点 (Grammar) 📌 grammar presens —",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "känd",
+        "klimataktivist",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Greta Thunberg är en känd klimataktivist från Sverige. sent-greta-thunberg-är-en-känd-klimataktivist knowledge_base/sentences/sent-greta-thunberg-är-en-känd-klimataktivist.md ---\ntype: sentence\nsentence: \"Greta Thunberg är en känd klimataktivist från Sverige.\"\nzh: \"格蕾塔·通贝里是一位来自瑞典的著名气候活动家。\"\ncefr: \"A2\"\nwords: [klimataktivist, känd]\nphrases: []\ngrammar: [grammar-presens]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-miljö-och-klimat, topic-personer]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Greta Thunberg är en känd klimataktivist från Sverige.\n\n🇨🇳 格蕾塔·通贝里是一位来自瑞典的著名气候活动家。\n\n## 结构 (Structure)\n\n```\n[Greta Thunberg] [är] [en känd klimataktivist] [från Sverige]\n     主语           动词      表语（名词短语）        介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — `är` 是 vara 的现在时，用于描述人物。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[klimataktivist]], [[känd]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "格蕾塔·通贝里是一位来自瑞典的著名气候活动家。",
+      "created": "2026-06-22",
+      "sentence": "Greta Thunberg är en känd klimataktivist från Sverige.",
+      "words": [
+        "klimataktivist",
+        "känd"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat",
+        "topic-personer"
+      ],
+      "backlinks": [
+        "klimataktivist",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "sent-gruppen-g7-är-sju-av-världens",
       "type": "sentence",
       "title": "🇸🇪 Gruppen G7 är sju av världens rikaste länder.",
@@ -16530,6 +17128,333 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-15-restaurang-allergi-nota"
+      ]
+    },
+    {
+      "slug": "sent-hennes-mamma-heter-malena-ernman-och-är",
+      "type": "sentence",
+      "title": "🇸🇪 Hennes mamma heter Malena Ernman och är operasångare.",
+      "path": "knowledge_base/sentences/sent-hennes-mamma-heter-malena-ernman-och-är.md",
+      "body": "# 🇸🇪 Hennes mamma heter Malena Ernman och är operasångare.\n\n🇨🇳 她妈妈叫玛莱娜·埃恩曼，是一位歌剧演唱家。\n\n## 结构 (Structure)\n\n```\n[Hennes mamma] [heter] [Malena Ernman] [och] [är] [operasångare]\n     主语          动词      姓名             连词   动词   职业（无冠词）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — `heter`/`är` 现在时。\n- ⚠️ 职业表语不加冠词：`är operasångare`（非 `är en operasångare`）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[mamma]], [[operasångare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Hennes mamma heter Malena Ernman och är operasångare. 🇨🇳 她妈妈叫玛莱娜·埃恩曼，是一位歌剧演唱家。 结构 (Structure) [Hennes mamma] [heter] [Malena Ernman] [och] [är] [operasångare] 主语 动词 姓名 连词 动词 职业（无冠词） 语法点 (Grammar) 📌 grammar presen",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "mamma",
+        "operasångare",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Hennes mamma heter Malena Ernman och är operasångare. sent-hennes-mamma-heter-malena-ernman-och-är knowledge_base/sentences/sent-hennes-mamma-heter-malena-ernman-och-är.md ---\ntype: sentence\nsentence: \"Hennes mamma heter Malena Ernman och är operasångare.\"\nzh: \"她妈妈叫玛莱娜·埃恩曼，是一位歌剧演唱家。\"\ncefr: \"A1\"\nwords: [mamma, operasångare]\nphrases: []\ngrammar: [grammar-presens]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-yrken, topic-familj-och-barn]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hennes mamma heter Malena Ernman och är operasångare.\n\n🇨🇳 她妈妈叫玛莱娜·埃恩曼，是一位歌剧演唱家。\n\n## 结构 (Structure)\n\n```\n[Hennes mamma] [heter] [Malena Ernman] [och] [är] [operasångare]\n     主语          动词      姓名             连词   动词   职业（无冠词）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — `heter`/`är` 现在时。\n- ⚠️ 职业表语不加冠词：`är operasångare`（非 `är en operasångare`）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[mamma]], [[operasångare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A1",
+      "zh": "她妈妈叫玛莱娜·埃恩曼，是一位歌剧演唱家。",
+      "created": "2026-06-22",
+      "sentence": "Hennes mamma heter Malena Ernman och är operasångare.",
+      "words": [
+        "mamma",
+        "operasångare"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-yrken",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "operasångare",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-hennes-pappa-heter-svante-och-är-skådespelare",
+      "type": "sentence",
+      "title": "🇸🇪 Hennes pappa heter Svante och är skådespelare.",
+      "path": "knowledge_base/sentences/sent-hennes-pappa-heter-svante-och-är-skådespelare.md",
+      "body": "# 🇸🇪 Hennes pappa heter Svante och är skådespelare.\n\n🇨🇳 她爸爸叫斯万特，是一位演员。\n\n## 结构 (Structure)\n\n```\n[Hennes pappa] [heter] [Svante] [och] [är] [skådespelare]\n     主语          动词    姓名     连词   动词    职业（无冠词）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 现在时。\n- ⚠️ 职业作表语不加冠词。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[pappa]], [[skådespelare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Hennes pappa heter Svante och är skådespelare. 🇨🇳 她爸爸叫斯万特，是一位演员。 结构 (Structure) [Hennes pappa] [heter] [Svante] [och] [är] [skådespelare] 主语 动词 姓名 连词 动词 职业（无冠词） 语法点 (Grammar) 📌 grammar presens — 现在时。 ⚠️ 职业作表语不加冠词",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "pappa",
+        "skådespelare",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Hennes pappa heter Svante och är skådespelare. sent-hennes-pappa-heter-svante-och-är-skådespelare knowledge_base/sentences/sent-hennes-pappa-heter-svante-och-är-skådespelare.md ---\ntype: sentence\nsentence: \"Hennes pappa heter Svante och är skådespelare.\"\nzh: \"她爸爸叫斯万特，是一位演员。\"\ncefr: \"A1\"\nwords: [pappa, skådespelare]\nphrases: []\ngrammar: [grammar-presens]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-yrken, topic-familj-och-barn]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hennes pappa heter Svante och är skådespelare.\n\n🇨🇳 她爸爸叫斯万特，是一位演员。\n\n## 结构 (Structure)\n\n```\n[Hennes pappa] [heter] [Svante] [och] [är] [skådespelare]\n     主语          动词    姓名     连词   动词    职业（无冠词）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — 现在时。\n- ⚠️ 职业作表语不加冠词。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[pappa]], [[skådespelare]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A1",
+      "zh": "她爸爸叫斯万特，是一位演员。",
+      "created": "2026-06-22",
+      "sentence": "Hennes pappa heter Svante och är skådespelare.",
+      "words": [
+        "pappa",
+        "skådespelare"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-yrken",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "skådespelare",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-hon-blev-orolig-och-ledsen",
+      "type": "sentence",
+      "title": "🇸🇪 Hon blev orolig och ledsen.",
+      "path": "knowledge_base/sentences/sent-hon-blev-orolig-och-ledsen.md",
+      "body": "# 🇸🇪 Hon blev orolig och ledsen.\n\n🇨🇳 她变得忧虑又难过。\n\n## 结构 (Structure)\n\n```\n[Hon] [blev] [orolig] [och] [ledsen]\n  主语   动词    表语1    连词    表语2\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `blev` 是 bli 的过去式（bli→blev）。\n- `bli + adjektiv` = 变得...（状态变化）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[orolig]]（已存在）, [[ledsen]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Hon blev orolig och ledsen. 🇨🇳 她变得忧虑又难过。 结构 (Structure) [Hon] [blev] [orolig] [och] [ledsen] 主语 动词 表语1 连词 表语2 语法点 (Grammar) 📌 grammar preteritum — blev 是 bli 的过去式（bli→blev）。 bli + adjektiv = 变得...（状态变化）。 生词 & 词组 ",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "ledsen",
+        "orolig",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Hon blev orolig och ledsen. sent-hon-blev-orolig-och-ledsen knowledge_base/sentences/sent-hon-blev-orolig-och-ledsen.md ---\ntype: sentence\nsentence: \"Hon blev orolig och ledsen.\"\nzh: \"她变得忧虑又难过。\"\ncefr: \"A1\"\nwords: [orolig, ledsen, bli]\nphrases: []\ngrammar: [grammar-preteritum]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hon blev orolig och ledsen.\n\n🇨🇳 她变得忧虑又难过。\n\n## 结构 (Structure)\n\n```\n[Hon] [blev] [orolig] [och] [ledsen]\n  主语   动词    表语1    连词    表语2\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `blev` 是 bli 的过去式（bli→blev）。\n- `bli + adjektiv` = 变得...（状态变化）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[orolig]]（已存在）, [[ledsen]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A1",
+      "zh": "她变得忧虑又难过。",
+      "created": "2026-06-22",
+      "sentence": "Hon blev orolig och ledsen.",
+      "words": [
+        "orolig",
+        "ledsen",
+        "bli"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-hon-föddes-den-3-januari-2003-i-stockholm",
+      "type": "sentence",
+      "title": "🇸🇪 Hon föddes den 3 januari 2003 i Stockholm.",
+      "path": "knowledge_base/sentences/sent-hon-föddes-den-3-januari-2003-i-stockholm.md",
+      "body": "# 🇸🇪 Hon föddes den 3 januari 2003 i Stockholm.\n\n🇨🇳 她于2003年1月3日出生在斯德哥尔摩。\n\n## 结构 (Structure)\n\n```\n[Hon] [föddes] [den 3 januari 2003] [i Stockholm]\n  主语   动词（s被动）    时间状语             地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `föddes` 是 föda 的 s-passiv 过去时，意为\"被生下来/出生\"。\n- 📌 [[grammar-preteritum]] — 过去时叙事。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[födas]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Hon föddes den 3 januari 2003 i Stockholm. 🇨🇳 她于2003年1月3日出生在斯德哥尔摩。 结构 (Structure) [Hon] [föddes] [den 3 januari 2003] [i Stockholm] 主语 动词（s被动） 时间状语 地点状语 语法点 (Grammar) 📌 grammar passiv med s — föddes 是 föda 的 s pa",
+      "forms": [],
+      "links": [
+        "födas",
+        "grammar-passiv-med-s",
+        "grammar-preteritum",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Hon föddes den 3 januari 2003 i Stockholm. sent-hon-föddes-den-3-januari-2003-i-stockholm knowledge_base/sentences/sent-hon-föddes-den-3-januari-2003-i-stockholm.md ---\ntype: sentence\nsentence: \"Hon föddes den 3 januari 2003 i Stockholm.\"\nzh: \"她于2003年1月3日出生在斯德哥尔摩。\"\ncefr: \"A2\"\nwords: [födas]\nphrases: []\ngrammar: [grammar-passiv-med-s, grammar-preteritum]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hon föddes den 3 januari 2003 i Stockholm.\n\n🇨🇳 她于2003年1月3日出生在斯德哥尔摩。\n\n## 结构 (Structure)\n\n```\n[Hon] [föddes] [den 3 januari 2003] [i Stockholm]\n  主语   动词（s被动）    时间状语             地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `föddes` 是 föda 的 s-passiv 过去时，意为\"被生下来/出生\"。\n- 📌 [[grammar-preteritum]] — 过去时叙事。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[födas]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "她于2003年1月3日出生在斯德哥尔摩。",
+      "created": "2026-06-22",
+      "sentence": "Hon föddes den 3 januari 2003 i Stockholm.",
+      "words": [
+        "födas"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-passiv-med-s",
+        "grammar-preteritum"
+      ],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-hon-förstod-inte-varför-så-få-människor",
+      "type": "sentence",
+      "title": "🇸🇪 Hon förstod inte varför så få människor gjorde något åt problemet.",
+      "path": "knowledge_base/sentences/sent-hon-förstod-inte-varför-så-få-människor.md",
+      "body": "# 🇸🇪 Hon förstod inte varför så få människor gjorde något åt problemet.\n\n🇨🇳 她不明白为什么这么少的人为这个问题做点什么。\n\n## 结构 (Structure)\n\n```\n[Hon] [förstod] [inte] [varför så få människor gjorde något åt problemet]\n  主语    动词    否定词                    宾语从句（varför引导）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-biff]] — 宾语从句中 `inte` 前置于动词 `gjorde`：`varför ... människor **inte** gjorde...`（BIFF规则）。\n- 📌 [[grammar-preteritum]] — 过去时叙事。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[människa]]\n- 词组: [[göra-något-åt]]（对...采取行动）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Hon förstod inte varför så få människor gjorde något åt problemet. 🇨🇳 她不明白为什么这么少的人为这个问题做点什么。 结构 (Structure) [Hon] [förstod] [inte] [varför så få människor gjorde något åt problemet] 主语 动词 否定词 宾语从句（varför引导） 语法点 (G",
+      "forms": [],
+      "links": [
+        "göra-något-åt",
+        "grammar-bisats-biff",
+        "grammar-preteritum",
+        "människa",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Hon förstod inte varför så få människor gjorde något åt problemet. sent-hon-förstod-inte-varför-så-få-människor knowledge_base/sentences/sent-hon-förstod-inte-varför-så-få-människor.md ---\ntype: sentence\nsentence: \"Hon förstod inte varför så få människor gjorde något åt problemet.\"\nzh: \"她不明白为什么这么少的人为这个问题做点什么。\"\ncefr: \"A2\"\nwords: [människa]\nphrases: [göra-något-åt]\ngrammar: [grammar-bisats-biff, grammar-preteritum]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hon förstod inte varför så få människor gjorde något åt problemet.\n\n🇨🇳 她不明白为什么这么少的人为这个问题做点什么。\n\n## 结构 (Structure)\n\n```\n[Hon] [förstod] [inte] [varför så få människor gjorde något åt problemet]\n  主语    动词    否定词                    宾语从句（varför引导）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-bisats-biff]] — 宾语从句中 `inte` 前置于动词 `gjorde`：`varför ... människor **inte** gjorde...`（BIFF规则）。\n- 📌 [[grammar-preteritum]] — 过去时叙事。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[människa]]\n- 词组: [[göra-något-åt]]（对...采取行动）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "她不明白为什么这么少的人为这个问题做点什么。",
+      "created": "2026-06-22",
+      "sentence": "Hon förstod inte varför så få människor gjorde något åt problemet.",
+      "words": [
+        "människa"
+      ],
+      "phrases": [
+        "göra-något-åt"
+      ],
+      "grammar": [
+        "grammar-bisats-biff",
+        "grammar-preteritum"
+      ],
+      "topics": [],
+      "backlinks": [
+        "göra-något-åt",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-hon-fortsätter-att-kämpa-för-klimatet",
+      "type": "sentence",
+      "title": "🇸🇪 Hon fortsätter att kämpa för klimatet och för en bättre framtid.",
+      "path": "knowledge_base/sentences/sent-hon-fortsätter-att-kämpa-för-klimatet.md",
+      "body": "# 🇸🇪 Hon fortsätter att kämpa för klimatet och för en bättre framtid.\n\n🇨🇳 她继续为气候、为更美好的未来而奋斗。\n\n## 结构 (Structure)\n\n```\n[Hon] [fortsätter] [att kämpa] [för klimatet] [och] [för en bättre framtid]\n  主语     动词        不定式         目标1          连词         目标2\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-infinitiv]] — `fortsätta att + infinitiv` = 继续做...。\n- 📌 [[grammar-presens]] — `fortsätter` 现在时。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[framtid]], [[kämpa]]（已存在）\n- 词组: [[kämpa-för]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Hon fortsätter att kämpa för klimatet och för en bättre framtid. 🇨🇳 她继续为气候、为更美好的未来而奋斗。 结构 (Structure) [Hon] [fortsätter] [att kämpa] [för klimatet] [och] [för en bättre framtid] 主语 动词 不定式 目标1 连词 目标2 语法点 (Grammar) ",
+      "forms": [],
+      "links": [
+        "framtid",
+        "grammar-infinitiv",
+        "grammar-presens",
+        "kämpa",
+        "kämpa-för",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Hon fortsätter att kämpa för klimatet och för en bättre framtid. sent-hon-fortsätter-att-kämpa-för-klimatet knowledge_base/sentences/sent-hon-fortsätter-att-kämpa-för-klimatet.md ---\ntype: sentence\nsentence: \"Hon fortsätter att kämpa för klimatet och för en bättre framtid.\"\nzh: \"她继续为气候、为更美好的未来而奋斗。\"\ncefr: \"A2\"\nwords: [framtid, kämpa]\nphrases: [kämpa-för]\ngrammar: [grammar-presens, grammar-infinitiv]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-miljö-och-klimat]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hon fortsätter att kämpa för klimatet och för en bättre framtid.\n\n🇨🇳 她继续为气候、为更美好的未来而奋斗。\n\n## 结构 (Structure)\n\n```\n[Hon] [fortsätter] [att kämpa] [för klimatet] [och] [för en bättre framtid]\n  主语     动词        不定式         目标1          连词         目标2\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-infinitiv]] — `fortsätta att + infinitiv` = 继续做...。\n- 📌 [[grammar-presens]] — `fortsätter` 现在时。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[framtid]], [[kämpa]]（已存在）\n- 词组: [[kämpa-för]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "她继续为气候、为更美好的未来而奋斗。",
+      "created": "2026-06-22",
+      "sentence": "Hon fortsätter att kämpa för klimatet och för en bättre framtid.",
+      "words": [
+        "framtid",
+        "kämpa"
+      ],
+      "phrases": [
+        "kämpa-för"
+      ],
+      "grammar": [
+        "grammar-presens",
+        "grammar-infinitiv"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat"
+      ],
+      "backlinks": [
+        "framtid",
+        "kämpa-för",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-hon-hade-en-skylt-med-texten-skolstrejk",
+      "type": "sentence",
+      "title": "🇸🇪 Hon hade en skylt med texten \"Skolstrejk för klimatet\".",
+      "path": "knowledge_base/sentences/sent-hon-hade-en-skylt-med-texten-skolstrejk.md",
+      "body": "# 🇸🇪 Hon hade en skylt med texten \"Skolstrejk för klimatet\".\n\n🇨🇳 她举着一块牌子，上面写着\"为气候罢课\"。\n\n## 结构 (Structure)\n\n```\n[Hon] [hade] [en skylt] [med texten \"Skolstrejk för klimatet\"]\n  主语   动词     宾语             介词短语（描述牌子内容）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `hade`（ha→hade）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skylt]]（已存在）, [[skolstrejk]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Hon hade en skylt med texten \"Skolstrejk för klimatet\". 🇨🇳 她举着一块牌子，上面写着\"为气候罢课\"。 结构 (Structure) [Hon] [hade] [en skylt] [med texten \"Skolstrejk för klimatet\"] 主语 动词 宾语 介词短语（描述牌子内容） 语法点 (Grammar) 📌 grammar preterit",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "skolstrejk",
+        "skylt",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Hon hade en skylt med texten \"Skolstrejk för klimatet\". sent-hon-hade-en-skylt-med-texten-skolstrejk knowledge_base/sentences/sent-hon-hade-en-skylt-med-texten-skolstrejk.md ---\ntype: sentence\nsentence: \"Hon hade en skylt med texten \\\"Skolstrejk för klimatet\\\".\"\nzh: \"她举着一块牌子，上面写着\"为气候罢课\"。\"\ncefr: \"A2\"\nwords: [skylt, skolstrejk]\nphrases: []\ngrammar: [grammar-preteritum]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-miljö-och-klimat]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hon hade en skylt med texten \"Skolstrejk för klimatet\".\n\n🇨🇳 她举着一块牌子，上面写着\"为气候罢课\"。\n\n## 结构 (Structure)\n\n```\n[Hon] [hade] [en skylt] [med texten \"Skolstrejk för klimatet\"]\n  主语   动词     宾语             介词短语（描述牌子内容）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `hade`（ha→hade）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skylt]]（已存在）, [[skolstrejk]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "她举着一块牌子，上面写着\"为气候罢课\"。",
+      "created": "2026-06-22",
+      "sentence": "Hon hade en skylt med texten \\\"Skolstrejk för klimatet\\\".",
+      "words": [
+        "skylt",
+        "skolstrejk"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat"
+      ],
+      "backlinks": [
+        "skolstrejk",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-hon-säger-själv-att-det-hjälper-henne",
+      "type": "sentence",
+      "title": "🇸🇪 Hon säger själv att det hjälper henne att se världen på ett annorlunda sätt.",
+      "path": "knowledge_base/sentences/sent-hon-säger-själv-att-det-hjälper-henne.md",
+      "body": "# 🇸🇪 Hon säger själv att det hjälper henne att se världen på ett annorlunda sätt.\n\n🇨🇳 她自己说，这帮助她以一种不同的方式看世界。\n\n## 结构 (Structure)\n\n```\n[Hon] [säger] [själv] [att det hjälper henne att se världen på ett annorlunda sätt]\n  主语   动词    强调词                    att宾语从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — `att` 引导宾语从句。\n- `det hjälper henne att se...` — 形式主语 det + 不定式 att se。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[annorlunda]]（已存在）\n- 词组: [[på-ett-annorlunda-sätt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Hon säger själv att det hjälper henne att se världen på ett annorlunda sätt. 🇨🇳 她自己说，这帮助她以一种不同的方式看世界。 结构 (Structure) [Hon] [säger] [själv] [att det hjälper henne att se världen på ett annorlunda sätt] 主语 动词 强调词 at",
+      "forms": [],
+      "links": [
+        "annorlunda",
+        "grammar-att-sats",
+        "på-ett-annorlunda-sätt",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Hon säger själv att det hjälper henne att se världen på ett annorlunda sätt. sent-hon-säger-själv-att-det-hjälper-henne knowledge_base/sentences/sent-hon-säger-själv-att-det-hjälper-henne.md ---\ntype: sentence\nsentence: \"Hon säger själv att det hjälper henne att se världen på ett annorlunda sätt.\"\nzh: \"她自己说，这帮助她以一种不同的方式看世界。\"\ncefr: \"A2\"\nwords: [annorlunda]\nphrases: [på-ett-annorlunda-sätt]\ngrammar: [grammar-att-sats, grammar-presens]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: []\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hon säger själv att det hjälper henne att se världen på ett annorlunda sätt.\n\n🇨🇳 她自己说，这帮助她以一种不同的方式看世界。\n\n## 结构 (Structure)\n\n```\n[Hon] [säger] [själv] [att det hjälper henne att se världen på ett annorlunda sätt]\n  主语   动词    强调词                    att宾语从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — `att` 引导宾语从句。\n- `det hjälper henne att se...` — 形式主语 det + 不定式 att se。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[annorlunda]]（已存在）\n- 词组: [[på-ett-annorlunda-sätt]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "她自己说，这帮助她以一种不同的方式看世界。",
+      "created": "2026-06-22",
+      "sentence": "Hon säger själv att det hjälper henne att se världen på ett annorlunda sätt.",
+      "words": [
+        "annorlunda"
+      ],
+      "phrases": [
+        "på-ett-annorlunda-sätt"
+      ],
+      "grammar": [
+        "grammar-att-sats",
+        "grammar-presens"
+      ],
+      "topics": [],
+      "backlinks": [
+        "på-ett-annorlunda-sätt",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
+      "slug": "sent-hon-ville-att-politikerna-skulle-lyssna",
+      "type": "sentence",
+      "title": "🇸🇪 Hon ville att politikerna skulle lyssna och minska utsläppen.",
+      "path": "knowledge_base/sentences/sent-hon-ville-att-politikerna-skulle-lyssna.md",
+      "body": "# 🇸🇪 Hon ville att politikerna skulle lyssna och minska utsläppen.\n\n🇨🇳 她想让政治家们倾听，并减少排放。\n\n## 结构 (Structure)\n\n```\n[Hon] [ville] [att politikerna skulle lyssna och minska utsläppen]\n  主语   动词                att宾语从句（条件/虚拟语气）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-konditionalis]] — `skulle lyssna/minska` 表示虚拟/希望的行为（过去的未来）。\n- 📌 [[grammar-att-sats]] — `att` 引导宾语从句。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[politiker]], [[utsläpp]], [[minska]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Hon ville att politikerna skulle lyssna och minska utsläppen. 🇨🇳 她想让政治家们倾听，并减少排放。 结构 (Structure) [Hon] [ville] [att politikerna skulle lyssna och minska utsläppen] 主语 动词 att宾语从句（条件/虚拟语气） 语法点 (Grammar) 📌 grammar k",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "grammar-konditionalis",
+        "minska",
+        "politiker",
+        "source-2026-06-22-greta-thunberg",
+        "utsläpp"
+      ],
+      "searchText": "🇸🇪 Hon ville att politikerna skulle lyssna och minska utsläppen. sent-hon-ville-att-politikerna-skulle-lyssna knowledge_base/sentences/sent-hon-ville-att-politikerna-skulle-lyssna.md ---\ntype: sentence\nsentence: \"Hon ville att politikerna skulle lyssna och minska utsläppen.\"\nzh: \"她想让政治家们倾听，并减少排放。\"\ncefr: \"B1\"\nwords: [politiker, utsläpp, minska]\nphrases: []\ngrammar: [grammar-konditionalis, grammar-att-sats, grammar-preteritum]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-miljö-och-klimat, topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Hon ville att politikerna skulle lyssna och minska utsläppen.\n\n🇨🇳 她想让政治家们倾听，并减少排放。\n\n## 结构 (Structure)\n\n```\n[Hon] [ville] [att politikerna skulle lyssna och minska utsläppen]\n  主语   动词                att宾语从句（条件/虚拟语气）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-konditionalis]] — `skulle lyssna/minska` 表示虚拟/希望的行为（过去的未来）。\n- 📌 [[grammar-att-sats]] — `att` 引导宾语从句。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[politiker]], [[utsläpp]], [[minska]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "B1",
+      "zh": "她想让政治家们倾听，并减少排放。",
+      "created": "2026-06-22",
+      "sentence": "Hon ville att politikerna skulle lyssna och minska utsläppen.",
+      "words": [
+        "politiker",
+        "utsläpp",
+        "minska"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-konditionalis",
+        "grammar-att-sats",
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat",
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "minska",
+        "politiker",
+        "source-2026-06-22-greta-thunberg",
+        "utsläpp"
       ]
     },
     {
@@ -17188,6 +18113,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-i-stället-satte-hon-sig-utanför-riksdagen",
+      "type": "sentence",
+      "title": "🇸🇪 I stället satte hon sig utanför riksdagen i Stockholm.",
+      "path": "knowledge_base/sentences/sent-i-stället-satte-hon-sig-utanför-riksdagen.md",
+      "body": "# 🇸🇪 I stället satte hon sig utanför riksdagen i Stockholm.\n\n🇨🇳 她反而坐在斯德哥尔摩的国会大楼外。\n\n## 结构 (Structure)\n\n```\n[I stället] [satte] [hon] [sig] [utanför riksdagen] [i Stockholm]\n    副词       动词    主语  反身   方向/位置状语         地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — `I stället` 前置，主谓倒装。\n- 📌 [[grammar-reflexivt-verb]] — `sätta sig`（坐下，反身动词）。\n- 📌 [[grammar-preteritum]] — `satte`（sätta→satte）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[riksdag]]\n- 词组: [[i-stället]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 I stället satte hon sig utanför riksdagen i Stockholm. 🇨🇳 她反而坐在斯德哥尔摩的国会大楼外。 结构 (Structure) [I stället] [satte] [hon] [sig] [utanför riksdagen] [i Stockholm] 副词 动词 主语 反身 方向/位置状语 地点 语法点 (Grammar) 📌 grammar v2 ordfo",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "grammar-reflexivt-verb",
+        "grammar-v2-ordfoljd",
+        "i-stället",
+        "riksdag",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 I stället satte hon sig utanför riksdagen i Stockholm. sent-i-stället-satte-hon-sig-utanför-riksdagen knowledge_base/sentences/sent-i-stället-satte-hon-sig-utanför-riksdagen.md ---\ntype: sentence\nsentence: \"I stället satte hon sig utanför riksdagen i Stockholm.\"\nzh: \"她反而坐在斯德哥尔摩的国会大楼外。\"\ncefr: \"A2\"\nwords: [riksdag]\nphrases: [i-stället]\ngrammar: [grammar-preteritum, grammar-reflexivt-verb, grammar-v2-ordfoljd]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I stället satte hon sig utanför riksdagen i Stockholm.\n\n🇨🇳 她反而坐在斯德哥尔摩的国会大楼外。\n\n## 结构 (Structure)\n\n```\n[I stället] [satte] [hon] [sig] [utanför riksdagen] [i Stockholm]\n    副词       动词    主语  反身   方向/位置状语         地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — `I stället` 前置，主谓倒装。\n- 📌 [[grammar-reflexivt-verb]] — `sätta sig`（坐下，反身动词）。\n- 📌 [[grammar-preteritum]] — `satte`（sätta→satte）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[riksdag]]\n- 词组: [[i-stället]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "她反而坐在斯德哥尔摩的国会大楼外。",
+      "created": "2026-06-22",
+      "sentence": "I stället satte hon sig utanför riksdagen i Stockholm.",
+      "words": [
+        "riksdag"
+      ],
+      "phrases": [
+        "i-stället"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-reflexivt-verb",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "i-stället",
+        "riksdag",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "sent-i-vardagsrummet-finns-soffa-fatoljerna",
       "type": "sentence",
       "title": "🇸🇈 I vardagsrummet finns en soffa och två fåtöljer.",
@@ -17299,6 +18265,51 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-idag-är-hon-en-av-världens-mest-kända-röster",
+      "type": "sentence",
+      "title": "🇸🇪 Idag är hon en av världens mest kända röster för miljön.",
+      "path": "knowledge_base/sentences/sent-idag-är-hon-en-av-världens-mest-kända-röster.md",
+      "body": "# 🇸🇪 Idag är hon en av världens mest kända röster för miljön.\n\n🇨🇳 今天她是世界上最有名的环保声音之一。\n\n## 结构 (Structure)\n\n```\n[Idag] [är] [hon] [en av världens mest kända röster] [för miljön]\n  副词   动词  主语           表语（名词短语）                介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — `Idag` 前置，`är` 第二位。\n- 📌 [[grammar-komparativ]] — `mest kända`（分析性最高级）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[röst]]（已存在）, [[miljö]], [[känd]]（已存在）\n- 词组: [[en-av-världens-mest-kända]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Idag är hon en av världens mest kända röster för miljön. 🇨🇳 今天她是世界上最有名的环保声音之一。 结构 (Structure) [Idag] [är] [hon] [en av världens mest kända röster] [för miljön] 副词 动词 主语 表语（名词短语） 介词短语 语法点 (Grammar) 📌 grammar v2 or",
+      "forms": [],
+      "links": [
+        "en-av-världens-mest-kända",
+        "grammar-komparativ",
+        "grammar-v2-ordfoljd",
+        "känd",
+        "miljö",
+        "röst",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Idag är hon en av världens mest kända röster för miljön. sent-idag-är-hon-en-av-världens-mest-kända-röster knowledge_base/sentences/sent-idag-är-hon-en-av-världens-mest-kända-röster.md ---\ntype: sentence\nsentence: \"Idag är hon en av världens mest kända röster för miljön.\"\nzh: \"今天她是世界上最有名的环保声音之一。\"\ncefr: \"A2\"\nwords: [röst, miljö, känd]\nphrases: [en-av-världens-mest-kända]\ngrammar: [grammar-presens, grammar-v2-ordfoljd, grammar-komparativ]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-miljö-och-klimat, topic-personer]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Idag är hon en av världens mest kända röster för miljön.\n\n🇨🇳 今天她是世界上最有名的环保声音之一。\n\n## 结构 (Structure)\n\n```\n[Idag] [är] [hon] [en av världens mest kända röster] [för miljön]\n  副词   动词  主语           表语（名词短语）                介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — `Idag` 前置，`är` 第二位。\n- 📌 [[grammar-komparativ]] — `mest kända`（分析性最高级）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[röst]]（已存在）, [[miljö]], [[känd]]（已存在）\n- 词组: [[en-av-världens-mest-kända]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "今天她是世界上最有名的环保声音之一。",
+      "created": "2026-06-22",
+      "sentence": "Idag är hon en av världens mest kända röster för miljön.",
+      "words": [
+        "röst",
+        "miljö",
+        "känd"
+      ],
+      "phrases": [
+        "en-av-världens-mest-kända"
+      ],
+      "grammar": [
+        "grammar-presens",
+        "grammar-v2-ordfoljd",
+        "grammar-komparativ"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat",
+        "topic-personer"
+      ],
+      "backlinks": [
+        "en-av-världens-mest-kända",
+        "miljö",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -19832,6 +20843,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-många-unga-människor-började-också-strejka",
+      "type": "sentence",
+      "title": "🇸🇪 Många unga människor började också strejka för klimatet på fredagar.",
+      "path": "knowledge_base/sentences/sent-många-unga-människor-började-också-strejka.md",
+      "body": "# 🇸🇪 Många unga människor började också strejka för klimatet på fredagar.\n\n🇨🇳 许多年轻人也开始在周五为气候罢课。\n\n## 结构 (Structure)\n\n```\n[Många unga människor] [började] [också] [strejka för klimatet] [på fredagar]\n         主语               动词     副词       动词短语               时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `börja→började`（v.1 动词）。\n- `börja + infinitiv` = 开始做...\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[strejka]], [[människa]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Många unga människor började också strejka för klimatet på fredagar. 🇨🇳 许多年轻人也开始在周五为气候罢课。 结构 (Structure) [Många unga människor] [började] [också] [strejka för klimatet] [på fredagar] 主语 动词 副词 动词短语 时间状语 语法点 (Gramma",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "människa",
+        "source-2026-06-22-greta-thunberg",
+        "strejka"
+      ],
+      "searchText": "🇸🇪 Många unga människor började också strejka för klimatet på fredagar. sent-många-unga-människor-började-också-strejka knowledge_base/sentences/sent-många-unga-människor-började-också-strejka.md ---\ntype: sentence\nsentence: \"Många unga människor började också strejka för klimatet på fredagar.\"\nzh: \"许多年轻人也开始在周五为气候罢课。\"\ncefr: \"A2\"\nwords: [strejka, människa, ung]\nphrases: []\ngrammar: [grammar-preteritum]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-miljö-och-klimat]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Många unga människor började också strejka för klimatet på fredagar.\n\n🇨🇳 许多年轻人也开始在周五为气候罢课。\n\n## 结构 (Structure)\n\n```\n[Många unga människor] [började] [också] [strejka för klimatet] [på fredagar]\n         主语               动词     副词       动词短语               时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `börja→började`（v.1 动词）。\n- `börja + infinitiv` = 开始做...\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[strejka]], [[människa]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "许多年轻人也开始在周五为气候罢课。",
+      "created": "2026-06-22",
+      "sentence": "Många unga människor började också strejka för klimatet på fredagar.",
+      "words": [
+        "strejka",
+        "människa",
+        "ung"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat"
+      ],
+      "backlinks": [
+        "source-2026-06-22-greta-thunberg",
+        "strejka"
+      ]
+    },
+    {
       "slug": "sent-många-vill-ha-svenska-jordgubbar",
       "type": "sentence",
       "title": "🇸🇪 Många vill ha svenska jordgubbar på midsommar.",
@@ -20549,6 +21596,45 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-18-nyheter-8sidor",
         "source-2026-06-19-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "sent-när-greta-var-åtta-år-hörde-hon",
+      "type": "sentence",
+      "title": "🇸🇪 När Greta var åtta år hörde hon för första gången om klimatförändringarna.",
+      "path": "knowledge_base/sentences/sent-när-greta-var-åtta-år-hörde-hon.md",
+      "body": "# 🇸🇪 När Greta var åtta år hörde hon för första gången om klimatförändringarna.\n\n🇨🇳 格蕾塔八岁时第一次听说气候变化。\n\n## 结构 (Structure)\n\n```\n[När Greta var åtta år] [hörde] [hon] [för första gången] [om klimatförändringarna]\n       时间从句              动词    主语      时间状语              介词短语（宾语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-nar-bisats]] — `när`引导时间从句，主句动词 `hörde` 前置（V2规则）。\n- 📌 [[grammar-preteritum]] — 过去时叙事。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[klimatförändring]]\n- 词组: [[för-första-gången]]（第一次）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 När Greta var åtta år hörde hon för första gången om klimatförändringarna. 🇨🇳 格蕾塔八岁时第一次听说气候变化。 结构 (Structure) [När Greta var åtta år] [hörde] [hon] [för första gången] [om klimatförändringarna] 时间从句 动词 主语 时间状语 介词短",
+      "forms": [],
+      "links": [
+        "för-första-gången",
+        "grammar-nar-bisats",
+        "grammar-preteritum",
+        "klimatförändring",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 När Greta var åtta år hörde hon för första gången om klimatförändringarna. sent-när-greta-var-åtta-år-hörde-hon knowledge_base/sentences/sent-när-greta-var-åtta-år-hörde-hon.md ---\ntype: sentence\nsentence: \"När Greta var åtta år hörde hon för första gången om klimatförändringarna.\"\nzh: \"格蕾塔八岁时第一次听说气候变化。\"\ncefr: \"A2\"\nwords: [klimatförändring]\nphrases: [för-första-gången]\ngrammar: [grammar-preteritum, grammar-nar-bisats]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-miljö-och-klimat]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 När Greta var åtta år hörde hon för första gången om klimatförändringarna.\n\n🇨🇳 格蕾塔八岁时第一次听说气候变化。\n\n## 结构 (Structure)\n\n```\n[När Greta var åtta år] [hörde] [hon] [för första gången] [om klimatförändringarna]\n       时间从句              动词    主语      时间状语              介词短语（宾语）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-nar-bisats]] — `när`引导时间从句，主句动词 `hörde` 前置（V2规则）。\n- 📌 [[grammar-preteritum]] — 过去时叙事。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[klimatförändring]]\n- 词组: [[för-första-gången]]（第一次）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "格蕾塔八岁时第一次听说气候变化。",
+      "created": "2026-06-22",
+      "sentence": "När Greta var åtta år hörde hon för första gången om klimatförändringarna.",
+      "words": [
+        "klimatförändring"
+      ],
+      "phrases": [
+        "för-första-gången"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-nar-bisats"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat"
+      ],
+      "backlinks": [
+        "för-första-gången",
+        "klimatförändring",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -21301,6 +22387,49 @@ window.KB_DATA = {
       "backlinks": [
         "hemma-hos",
         "source-2026-06-22-en-helg"
+      ]
+    },
+    {
+      "slug": "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
+      "type": "sentence",
+      "title": "🇸🇪 På ett stort möte i FN höll hon ett känt tal.",
+      "path": "knowledge_base/sentences/sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal.md",
+      "body": "# 🇸🇪 På ett stort möte i FN höll hon ett känt tal.\n\n🇨🇳 在联合国的一场大型会议上她发表了一场著名的演讲。\n\n## 结构 (Structure)\n\n```\n[På ett stort möte i FN] [höll] [hon] [ett känt tal]\n        地点状语（前置）    动词    主语     宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 介词短语前置，`höll` 在第二位。\n- 📌 [[grammar-preteritum-oregelbundna]] — `hålla→höll`（不规则）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tal]], [[känd]]（已存在）\n- 词组: [[hålla-tal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 På ett stort möte i FN höll hon ett känt tal. 🇨🇳 在联合国的一场大型会议上她发表了一场著名的演讲。 结构 (Structure) [På ett stort möte i FN] [höll] [hon] [ett känt tal] 地点状语（前置） 动词 主语 宾语 语法点 (Grammar) 📌 grammar v2 ordfoljd — 介词短语前置， höll 在",
+      "forms": [],
+      "links": [
+        "grammar-preteritum-oregelbundna",
+        "grammar-v2-ordfoljd",
+        "hålla-tal",
+        "känd",
+        "source-2026-06-22-greta-thunberg",
+        "tal"
+      ],
+      "searchText": "🇸🇪 På ett stort möte i FN höll hon ett känt tal. sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal knowledge_base/sentences/sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal.md ---\ntype: sentence\nsentence: \"På ett stort möte i FN höll hon ett känt tal.\"\nzh: \"在联合国的一场大型会议上她发表了一场著名的演讲。\"\ncefr: \"A2\"\nwords: [möte, tal, känd]\nphrases: [hålla-tal]\ngrammar: [grammar-preteritum, grammar-preteritum-oregelbundna, grammar-v2-ordfoljd]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-samhälle-och-politik]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 På ett stort möte i FN höll hon ett känt tal.\n\n🇨🇳 在联合国的一场大型会议上她发表了一场著名的演讲。\n\n## 结构 (Structure)\n\n```\n[På ett stort möte i FN] [höll] [hon] [ett känt tal]\n        地点状语（前置）    动词    主语     宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 介词短语前置，`höll` 在第二位。\n- 📌 [[grammar-preteritum-oregelbundna]] — `hålla→höll`（不规则）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tal]], [[känd]]（已存在）\n- 词组: [[hålla-tal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "在联合国的一场大型会议上她发表了一场著名的演讲。",
+      "created": "2026-06-22",
+      "sentence": "På ett stort möte i FN höll hon ett känt tal.",
+      "words": [
+        "möte",
+        "tal",
+        "känd"
+      ],
+      "phrases": [
+        "hålla-tal"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-preteritum-oregelbundna",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "hålla-tal",
+        "source-2026-06-22-greta-thunberg",
+        "tal"
       ]
     },
     {
@@ -22371,6 +23500,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-rörelsen-fick-namnet-fridays-for-future",
+      "type": "sentence",
+      "title": "🇸🇪 Rörelsen fick namnet \"Fridays for Future\".",
+      "path": "knowledge_base/sentences/sent-rörelsen-fick-namnet-fridays-for-future.md",
+      "body": "# 🇸🇪 Rörelsen fick namnet \"Fridays for Future\".\n\n🇨🇳 这场运动叫做\"未来星期五\"。\n\n## 结构 (Structure)\n\n```\n[Rörelsen] [fick] [namnet \"Fridays for Future\"]\n    主语     动词            宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `få→fick`（不规则动词）。\n- `fick namnet` = 被命名为/叫做。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[rörelse]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Rörelsen fick namnet \"Fridays for Future\". 🇨🇳 这场运动叫做\"未来星期五\"。 结构 (Structure) [Rörelsen] [fick] [namnet \"Fridays for Future\"] 主语 动词 宾语 语法点 (Grammar) 📌 grammar preteritum — få→fick （不规则动词）。 fick namnet = 被命名为/叫做。 生词",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "rörelse",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Rörelsen fick namnet \"Fridays for Future\". sent-rörelsen-fick-namnet-fridays-for-future knowledge_base/sentences/sent-rörelsen-fick-namnet-fridays-for-future.md ---\ntype: sentence\nsentence: \"Rörelsen fick namnet \\\"Fridays for Future\\\".\"\nzh: \"这场运动叫做\"未来星期五\"。\"\ncefr: \"A2\"\nwords: [rörelse]\nphrases: []\ngrammar: [grammar-preteritum]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-miljö-och-klimat]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Rörelsen fick namnet \"Fridays for Future\".\n\n🇨🇳 这场运动叫做\"未来星期五\"。\n\n## 结构 (Structure)\n\n```\n[Rörelsen] [fick] [namnet \"Fridays for Future\"]\n    主语     动词            宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `få→fick`（不规则动词）。\n- `fick namnet` = 被命名为/叫做。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[rörelse]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "这场运动叫做\"未来星期五\"。",
+      "created": "2026-06-22",
+      "sentence": "Rörelsen fick namnet \\\"Fridays for Future\\\".",
+      "words": [
+        "rörelse"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat"
+      ],
+      "backlinks": [
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "sent-sa-vadret-solen-kan-visa-sig-pa-flera",
       "type": "sentence",
       "title": "🇸🇪 Så vädret: Solen kan visa sig på flera ställen imorgon, speciellt längst i norr.",
@@ -23072,6 +24233,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-snart-blev-greta-känd-i-hela-världen",
+      "type": "sentence",
+      "title": "🇸🇪 Snart blev Greta känd i hela världen.",
+      "path": "knowledge_base/sentences/sent-snart-blev-greta-känd-i-hela-världen.md",
+      "body": "# 🇸🇪 Snart blev Greta känd i hela världen.\n\n🇨🇳 很快格蕾塔在全世界都出了名。\n\n## 结构 (Structure)\n\n```\n[Snart] [blev] [Greta] [känd] [i hela världen]\n  副词    动词    主语    表语       地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — `Snart` 前置，主谓倒装。\n- 📌 [[grammar-preteritum]] — `bli→blev`（不规则）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[känd]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Snart blev Greta känd i hela världen. 🇨🇳 很快格蕾塔在全世界都出了名。 结构 (Structure) [Snart] [blev] [Greta] [känd] [i hela världen] 副词 动词 主语 表语 地点状语 语法点 (Grammar) 📌 grammar v2 ordfoljd — Snart 前置，主谓倒装。 📌 grammar preteritum — ",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd",
+        "känd",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Snart blev Greta känd i hela världen. sent-snart-blev-greta-känd-i-hela-världen knowledge_base/sentences/sent-snart-blev-greta-känd-i-hela-världen.md ---\ntype: sentence\nsentence: \"Snart blev Greta känd i hela världen.\"\nzh: \"很快格蕾塔在全世界都出了名。\"\ncefr: \"A2\"\nwords: [känd, bli]\nphrases: []\ngrammar: [grammar-preteritum, grammar-v2-ordfoljd]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-personer]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Snart blev Greta känd i hela världen.\n\n🇨🇳 很快格蕾塔在全世界都出了名。\n\n## 结构 (Structure)\n\n```\n[Snart] [blev] [Greta] [känd] [i hela världen]\n  副词    动词    主语    表语       地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — `Snart` 前置，主谓倒装。\n- 📌 [[grammar-preteritum]] — `bli→blev`（不规则）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[känd]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "很快格蕾塔在全世界都出了名。",
+      "created": "2026-06-22",
+      "sentence": "Snart blev Greta känd i hela världen.",
+      "words": [
+        "känd",
+        "bli"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-personer"
+      ],
+      "backlinks": [
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "sent-snart-kommer-det-att-vända",
       "type": "sentence",
       "title": "🇸🇪 Snart kommer det att vända. Men det gör inte det.",
@@ -23300,6 +24496,46 @@ window.KB_DATA = {
         "topic-vader-och-arstider"
       ],
       "backlinks": []
+    },
+    {
+      "slug": "sent-sommaren-2018-var-mycket-varm-i-sverige",
+      "type": "sentence",
+      "title": "🇸🇪 Sommaren 2018 var mycket varm i Sverige och det brann i många skogar.",
+      "path": "knowledge_base/sentences/sent-sommaren-2018-var-mycket-varm-i-sverige.md",
+      "body": "# 🇸🇪 Sommaren 2018 var mycket varm i Sverige och det brann i många skogar.\n\n🇨🇳 2018年的夏天瑞典非常炎热，很多森林着了火。\n\n## 结构 (Structure)\n\n```\n[Sommaren 2018] [var] [mycket varm] [i Sverige] [och] [det brann] [i många skogar]\n   时间状语（主）  动词     表语        地点            连词  形式主语 动词   地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `var`（vara→var），`brann`（brinna→brann）。\n- 📌 [[grammar-preteritum-oregelbundna]] — `brinna→brann`（不规则动词）。\n- `det brann` = 失火了（形式主语 det）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skog]], [[brinna]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "🇸🇪 Sommaren 2018 var mycket varm i Sverige och det brann i många skogar. 🇨🇳 2018年的夏天瑞典非常炎热，很多森林着了火。 结构 (Structure) [Sommaren 2018] [var] [mycket varm] [i Sverige] [och] [det brann] [i många skogar] 时间状语（主） 动词 表语 地点 连",
+      "forms": [],
+      "links": [
+        "brinna",
+        "grammar-preteritum",
+        "grammar-preteritum-oregelbundna",
+        "skog",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "🇸🇪 Sommaren 2018 var mycket varm i Sverige och det brann i många skogar. sent-sommaren-2018-var-mycket-varm-i-sverige knowledge_base/sentences/sent-sommaren-2018-var-mycket-varm-i-sverige.md ---\ntype: sentence\nsentence: \"Sommaren 2018 var mycket varm i Sverige och det brann i många skogar.\"\nzh: \"2018年的夏天瑞典非常炎热，很多森林着了火。\"\ncefr: \"A2\"\nwords: [skog, brinna, sommar, varm]\nphrases: []\ngrammar: [grammar-preteritum, grammar-preteritum-oregelbundna]\nsource: \"source-2026-06-22-greta-thunberg\"\ntopics: [topic-miljö-och-klimat, topic-vader-och-arstider]\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Sommaren 2018 var mycket varm i Sverige och det brann i många skogar.\n\n🇨🇳 2018年的夏天瑞典非常炎热，很多森林着了火。\n\n## 结构 (Structure)\n\n```\n[Sommaren 2018] [var] [mycket varm] [i Sverige] [och] [det brann] [i många skogar]\n   时间状语（主）  动词     表语        地点            连词  形式主语 动词   地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `var`（vara→var），`brann`（brinna→brann）。\n- 📌 [[grammar-preteritum-oregelbundna]] — `brinna→brann`（不规则动词）。\n- `det brann` = 失火了（形式主语 det）。\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skog]], [[brinna]]（已存在）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-greta-thunberg]]\n",
+      "cefr": "A2",
+      "zh": "2018年的夏天瑞典非常炎热，很多森林着了火。",
+      "created": "2026-06-22",
+      "sentence": "Sommaren 2018 var mycket varm i Sverige och det brann i många skogar.",
+      "words": [
+        "skog",
+        "brinna",
+        "sommar",
+        "varm"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-preteritum-oregelbundna"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat",
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "skog",
+        "source-2026-06-22-greta-thunberg"
+      ]
     },
     {
       "slug": "sent-sommaren-ar-kort-men-intensiv",
@@ -30760,6 +31996,205 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-22-greta-thunberg",
+      "type": "source",
+      "title": "Greta Thunberg — biografi (lättläst)",
+      "path": "knowledge_base/sources/source-2026-06-22-greta-thunberg.md",
+      "body": "# Greta Thunberg — biografi (lättläst)\n\n类型: biografi · 难度: A2–B1\n来源: lättläst 改写（事实核对自 Wikipedia / Internetmuseum）\n日期: 2026-06-22\n\n## 原文 (Source Text)\n\n```\nGreta Thunberg är en känd klimataktivist från Sverige. Hon föddes den 3 januari\n2003 i Stockholm. Hennes mamma heter Malena Ernman och är operasångare. Hennes\npappa heter Svante och är skådespelare. Greta har en lillasyster som heter Beata.\n\nNär Greta var åtta år hörde hon för första gången om klimatförändringarna. Hon\nförstod inte varför så få människor gjorde något åt problemet. Hon blev orolig\noch ledsen. Greta har Aspergers syndrom. Hon säger själv att det hjälper henne\natt se världen på ett annorlunda sätt.\n\nSommaren 2018 var mycket varm i Sverige och det brann i många skogar. Då bestämde\nGreta sig för att göra något. Den 20 augusti 2018 gick hon inte till skolan. I\nstället satte hon sig utanför riksdagen i Stockholm. Hon hade en skylt med texten\n\"Skolstrejk för klimatet\". Hon ville att politikerna skulle lyssna och minska\nutsläppen.\n\nSnart blev Greta känd i hela världen. Många unga människor började också strejka\nför klimatet på fredagar. Rörelsen fick namnet \"Fridays for Future\". Greta\nreste till andra länder för att hålla tal. År 2019 åkte hon med en segelbåt över\nAtlanten till USA, eftersom hon inte ville flyga. På ett stort möte i FN höll hon\nett känt tal.\n\nGreta har vunnit många priser för sitt arbete. Hon fortsätter att kämpa för\nklimatet och för en bättre framtid. Idag är hon en av världens mest kända röster\nför miljön.\n```\n\n## 全文翻译 (Translation)\n\n🇨🇳 格蕾塔·通贝里是一位来自瑞典的著名气候活动家。她于2003年1月3日出生在斯德哥尔摩。她妈妈叫玛莱娜·埃恩曼，是一位歌剧演唱家。她爸爸叫斯万特，是一位演员。格蕾塔有一个妹妹，叫贝娅塔。\n\n🇨🇳 格蕾塔八岁时第一次听说气候变化。她不明白为什么这么少的人为这个问题做点什么。她变得忧虑又难过。格蕾塔患有阿斯伯格综合症。她自己说，这帮助她以一种不同的方式看世界。\n\n🇨🇳 2018年的夏天瑞典非常炎热，很多森林着了火。于是格蕾塔决定做点什么。2018年8月20日她没有去上学。她反而坐在斯德哥尔摩的国会大楼外。她举着一块牌子，上面写着\"为气候罢课\"。她想让政治家们倾听，并减少排放。\n\n🇨🇳 很快格蕾塔在全世界都出了名。许多年轻人也开始在周五为气候罢课。这场运动叫做\"未来星期五\"。格蕾塔到其他国家去演讲。2019年她乘帆船横渡大西洋去了美国，因为她不想坐飞机。在联合国的一场大型会议上她发表了一场著名的演讲。\n\n🇨🇳 格蕾塔因她的工作赢得了许多奖项。她继续为气候、为更美好的未来而奋斗。今天她是世界上最有名的环保声音之一。\n\n## 提取 (Extracted → linked notes)\n\n### 新词 (NEW — 17)\n- [[klimataktivist]] · [[klimatförändring]] · [[operasångare]] · [[skådespelare]] · [[lillasyster]]\n- [[skog]] · [[skolstrejk]] · [[riksdag]] · [[politiker]] · [[utsläpp]]\n- [[minska]] · [[tal]] · [[segelbåt]] · [[framtid]] · [[miljö]]\n- [[strejka]] · [[bestämma-sig]]\n\n### 重复词 (DUP — 8, skipped)\n- [[orolig]] · [[ledsen]] · [[annorlunda]] · [[brinna]] · [[skylt]] · [[rörelse]] · [[pris]] · [[röst]]\n\n### 新词组 (NEW — 8)\n- [[för-första-gången]] · [[göra-något-åt]] · [[på-ett-annorlunda-sätt]]\n- [[bestämma-sig-för-att]] · [[i-stället]] · [[hålla-tal]]\n- [[kämpa-för]] · [[en-av-världens-mest-kända]]\n\n### 新句子 (NEW — 25)\n- [[sent-greta-thunberg-är-en-känd-klimataktivist]]\n- [[sent-hon-föddes-den-3-januari-2003-i-stockholm]]\n- [[sent-hennes-mamma-heter-malena-ernman-och-är]]\n- [[sent-hennes-pappa-heter-svante-och-är-skådespelare]]\n- [[sent-greta-har-en-lillasyster-som-heter-beata]]\n- [[sent-när-greta-var-åtta-år-hörde-hon]]\n- [[sent-hon-förstod-inte-varför-så-få-människor]]\n- [[sent-hon-blev-orolig-och-ledsen]]\n- [[sent-greta-har-aspergers-syndrom]]\n- [[sent-hon-säger-själv-att-det-hjälper-henne]]\n- [[sent-sommaren-2018-var-mycket-varm-i-sverige]]\n- [[sent-då-bestämde-greta-sig-för-att-göra-något]]\n- [[sent-den-20-augusti-2018-gick-hon-inte-till-skolan]]\n- [[sent-i-stället-satte-hon-sig-utanför-riksdagen]]\n- [[sent-hon-hade-en-skylt-med-texten-skolstrejk]]\n- [[sent-hon-ville-att-politikerna-skulle-lyssna]]\n- [[sent-snart-blev-greta-känd-i-hela-världen]]\n- [[sent-många-unga-människor-började-också-strejka]]\n- [[sent-rörelsen-fick-namnet-fridays-for-future]]\n- [[sent-greta-reste-till-andra-länder-för-att-hålla-tal]]\n- [[sent-år-2019-åkte-hon-med-en-segelbåt]]\n- [[sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal]]\n- [[sent-greta-har-vunnit-många-priser-för-sitt-arbete]]\n- [[sent-hon-fortsätter-att-kämpa-för-klimatet]]\n- [[sent-idag-är-hon-en-av-världens-mest-kända-röster]]\n\n### 语法 (DUP — 5, already exist)\n- [[grammar-preteritum]] · [[grammar-preteritum-oregelbundna]] · [[grammar-passiv-med-s]] · [[grammar-reflexivt-verb]] · [[grammar-bisats-eftersom]]\n\n## 主题 (Topics)\n\n- [[topic-miljö-och-klimat]] — 环境与气候\n- [[topic-personer]] — Greta Thunberg 传记\n- [[topic-samhälle-och-politik]] — 政治行动、议会",
+      "excerpt": "Greta Thunberg — biografi (lättläst) 类型: biografi · 难度: A2–B1 来源: lättläst 改写（事实核对自 Wikipedia / Internetmuseum） 日期: 2026 06 22 原文 (Source Text) Greta Thunberg är en känd klimataktivist från Sverige. Hon föddes den 3 janu",
+      "forms": [],
+      "links": [
+        "annorlunda",
+        "bestämma-sig",
+        "bestämma-sig-för-att",
+        "brinna",
+        "en-av-världens-mest-kända",
+        "för-första-gången",
+        "framtid",
+        "göra-något-åt",
+        "grammar-bisats-eftersom",
+        "grammar-passiv-med-s",
+        "grammar-preteritum",
+        "grammar-preteritum-oregelbundna",
+        "grammar-reflexivt-verb",
+        "hålla-tal",
+        "i-stället",
+        "kämpa-för",
+        "klimataktivist",
+        "klimatförändring",
+        "ledsen",
+        "lillasyster",
+        "miljö",
+        "minska",
+        "operasångare",
+        "orolig",
+        "på-ett-annorlunda-sätt",
+        "politiker",
+        "pris",
+        "riksdag",
+        "rörelse",
+        "röst",
+        "segelbåt",
+        "sent-år-2019-åkte-hon-med-en-segelbåt",
+        "sent-då-bestämde-greta-sig-för-att-göra-något",
+        "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
+        "sent-greta-har-aspergers-syndrom",
+        "sent-greta-har-en-lillasyster-som-heter-beata",
+        "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
+        "sent-greta-thunberg-är-en-känd-klimataktivist",
+        "sent-hennes-mamma-heter-malena-ernman-och-är",
+        "sent-hennes-pappa-heter-svante-och-är-skådespelare",
+        "sent-hon-blev-orolig-och-ledsen",
+        "sent-hon-föddes-den-3-januari-2003-i-stockholm",
+        "sent-hon-förstod-inte-varför-så-få-människor",
+        "sent-hon-fortsätter-att-kämpa-för-klimatet",
+        "sent-hon-hade-en-skylt-med-texten-skolstrejk",
+        "sent-hon-säger-själv-att-det-hjälper-henne",
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen",
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster",
+        "sent-många-unga-människor-började-också-strejka",
+        "sent-när-greta-var-åtta-år-hörde-hon",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
+        "sent-rörelsen-fick-namnet-fridays-for-future",
+        "sent-snart-blev-greta-känd-i-hela-världen",
+        "sent-sommaren-2018-var-mycket-varm-i-sverige",
+        "skådespelare",
+        "skog",
+        "skolstrejk",
+        "skylt",
+        "strejka",
+        "tal",
+        "topic-miljö-och-klimat",
+        "topic-personer",
+        "topic-samhälle-och-politik",
+        "utsläpp"
+      ],
+      "searchText": "Greta Thunberg — biografi (lättläst) source-2026-06-22-greta-thunberg knowledge_base/sources/source-2026-06-22-greta-thunberg.md ---\ntype: source\ntitle: \"Greta Thunberg — biografi (lättläst)\"\nkind: biografi\ncefr: \"A2-B1\"\ndate_added: \"2026-06-22\"\nwords:\n  - klimataktivist\n  - klimatförändring\n  - operasångare\n  - skådespelare\n  - lillasyster\n  - orolig\n  - ledsen\n  - annorlunda\n  - skog\n  - brinna\n  - skylt\n  - skolstrejk\n  - riksdag\n  - politiker\n  - utsläpp\n  - minska\n  - rörelse\n  - tal\n  - segelbåt\n  - pris\n  - framtid\n  - miljö\n  - röst\n  - strejka\n  - bestämma-sig\nphrases:\n  - för-första-gången\n  - göra-något-åt\n  - på-ett-annorlunda-sätt\n  - bestämma-sig-för-att\n  - i-stället\n  - hålla-tal\n  - kämpa-för\n  - en-av-världens-mest-kända\nsentences:\n  - sent-greta-thunberg-är-en-känd-klimataktivist\n  - sent-hon-föddes-den-3-januari-2003-i-stockholm\n  - sent-hennes-mamma-heter-malena-ernman-och-är\n  - sent-hennes-pappa-heter-svante-och-är-skådespelare\n  - sent-greta-har-en-lillasyster-som-heter-beata\n  - sent-när-greta-var-åtta-år-hörde-hon\n  - sent-hon-förstod-inte-varför-så-få-människor\n  - sent-hon-blev-orolig-och-ledsen\n  - sent-greta-har-aspergers-syndrom\n  - sent-hon-säger-själv-att-det-hjälper-henne\n  - sent-sommaren-2018-var-mycket-varm-i-sverige\n  - sent-då-bestämde-greta-sig-för-att-göra-något\n  - sent-den-20-augusti-2018-gick-hon-inte-till-skolan\n  - sent-i-stället-satte-hon-sig-utanför-riksdagen\n  - sent-hon-hade-en-skylt-med-texten-skolstrejk\n  - sent-hon-ville-att-politikerna-skulle-lyssna\n  - sent-snart-blev-greta-känd-i-hela-världen\n  - sent-många-unga-människor-började-också-strejka\n  - sent-rörelsen-fick-namnet-fridays-for-future\n  - sent-greta-reste-till-andra-länder-för-att-hålla-tal\n  - sent-år-2019-åkte-hon-med-en-segelbåt\n  - sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal\n  - sent-greta-har-vunnit-många-priser-för-sitt-arbete\n  - sent-hon-fortsätter-att-kämpa-för-klimatet\n  - sent-idag-är-hon-en-av-världens-mest-kända-röster\ngrammar:\n  - grammar-preteritum\n  - grammar-preteritum-oregelbundna\n  - grammar-passiv-med-s\n  - grammar-reflexivt-verb\n  - grammar-bisats-eftersom\n---\n\n# Greta Thunberg — biografi (lättläst)\n\n类型: biografi · 难度: A2–B1\n来源: lättläst 改写（事实核对自 Wikipedia / Internetmuseum）\n日期: 2026-06-22\n\n## 原文 (Source Text)\n\n```\nGreta Thunberg är en känd klimataktivist från Sverige. Hon föddes den 3 januari\n2003 i Stockholm. Hennes mamma heter Malena Ernman och är operasångare. Hennes\npappa heter Svante och är skådespelare. Greta har en lillasyster som heter Beata.\n\nNär Greta var åtta år hörde hon för första gången om klimatförändringarna. Hon\nförstod inte varför så få människor gjorde något åt problemet. Hon blev orolig\noch ledsen. Greta har Aspergers syndrom. Hon säger själv att det hjälper henne\natt se världen på ett annorlunda sätt.\n\nSommaren 2018 var mycket varm i Sverige och det brann i många skogar. Då bestämde\nGreta sig för att göra något. Den 20 augusti 2018 gick hon inte till skolan. I\nstället satte hon sig utanför riksdagen i Stockholm. Hon hade en skylt med texten\n\"Skolstrejk för klimatet\". Hon ville att politikerna skulle lyssna och minska\nutsläppen.\n\nSnart blev Greta känd i hela världen. Många unga människor började också strejka\nför klimatet på fredagar. Rörelsen fick namnet \"Fridays for Future\". Greta\nreste till andra länder för att hålla tal. År 2019 åkte hon med en segelbåt över\nAtlanten till USA, eftersom hon inte ville flyga. På ett stort möte i FN höll hon\nett känt tal.\n\nGreta har vunnit många priser för sitt arbete. Hon fortsätter att kämpa för\nklimatet och för en bättre framtid. Idag är hon en av världens mest kända röster\nför miljön.\n```\n\n## 全文翻译 (Translation)\n\n🇨🇳 格蕾塔·通贝里是一位来自瑞典的著名气候活动家。她于2003年1月3日出生在斯德哥尔摩。她妈妈叫玛莱娜·埃恩曼，是一位歌剧演唱家。她爸爸叫斯万特，是一位演员。格蕾塔有一个妹妹，叫贝娅塔。\n\n🇨🇳 格蕾塔八岁时第一次听说气候变化。她不明白为什么这么少的人为这个问题做点什么。她变得忧虑又难过。格蕾塔患有阿斯伯格综合症。她自己说，这帮助她以一种不同的方式看世界。\n\n🇨🇳 2018年的夏天瑞典非常炎热，很多森林着了火。于是格蕾塔决定做点什么。2018年8月20日她没有去上学。她反而坐在斯德哥尔摩的国会大楼外。她举着一块牌子，上面写着\"为气候罢课\"。她想让政治家们倾听，并减少排放。\n\n🇨🇳 很快格蕾塔在全世界都出了名。许多年轻人也开始在周五为气候罢课。这场运动叫做\"未来星期五\"。格蕾塔到其他国家去演讲。2019年她乘帆船横渡大西洋去了美国，因为她不想坐飞机。在联合国的一场大型会议上她发表了一场著名的演讲。\n\n🇨🇳 格蕾塔因她的工作赢得了许多奖项。她继续为气候、为更美好的未来而奋斗。今天她是世界上最有名的环保声音之一。\n\n## 提取 (Extracted → linked notes)\n\n### 新词 (NEW — 17)\n- [[klimataktivist]] · [[klimatförändring]] · [[operasångare]] · [[skådespelare]] · [[lillasyster]]\n- [[skog]] · [[skolstrejk]] · [[riksdag]] · [[politiker]] · [[utsläpp]]\n- [[minska]] · [[tal]] · [[segelbåt]] · [[framtid]] · [[miljö]]\n- [[strejka]] · [[bestämma-sig]]\n\n### 重复词 (DUP — 8, skipped)\n- [[orolig]] · [[ledsen]] · [[annorlunda]] · [[brinna]] · [[skylt]] · [[rörelse]] · [[pris]] · [[röst]]\n\n### 新词组 (NEW — 8)\n- [[för-första-gången]] · [[göra-något-åt]] · [[på-ett-annorlunda-sätt]]\n- [[bestämma-sig-för-att]] · [[i-stället]] · [[hålla-tal]]\n- [[kämpa-för]] · [[en-av-världens-mest-kända]]\n\n### 新句子 (NEW — 25)\n- [[sent-greta-thunberg-är-en-känd-klimataktivist]]\n- [[sent-hon-föddes-den-3-januari-2003-i-stockholm]]\n- [[sent-hennes-mamma-heter-malena-ernman-och-är]]\n- [[sent-hennes-pappa-heter-svante-och-är-skådespelare]]\n- [[sent-greta-har-en-lillasyster-som-heter-beata]]\n- [[sent-när-greta-var-åtta-år-hörde-hon]]\n- [[sent-hon-förstod-inte-varför-så-få-människor]]\n- [[sent-hon-blev-orolig-och-ledsen]]\n- [[sent-greta-har-aspergers-syndrom]]\n- [[sent-hon-säger-själv-att-det-hjälper-henne]]\n- [[sent-sommaren-2018-var-mycket-varm-i-sverige]]\n- [[sent-då-bestämde-greta-sig-för-att-göra-något]]\n- [[sent-den-20-augusti-2018-gick-hon-inte-till-skolan]]\n- [[sent-i-stället-satte-hon-sig-utanför-riksdagen]]\n- [[sent-hon-hade-en-skylt-med-texten-skolstrejk]]\n- [[sent-hon-ville-att-politikerna-skulle-lyssna]]\n- [[sent-snart-blev-greta-känd-i-hela-världen]]\n- [[sent-många-unga-människor-började-också-strejka]]\n- [[sent-rörelsen-fick-namnet-fridays-for-future]]\n- [[sent-greta-reste-till-andra-länder-för-att-hålla-tal]]\n- [[sent-år-2019-åkte-hon-med-en-segelbåt]]\n- [[sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal]]\n- [[sent-greta-har-vunnit-många-priser-för-sitt-arbete]]\n- [[sent-hon-fortsätter-att-kämpa-för-klimatet]]\n- [[sent-idag-är-hon-en-av-världens-mest-kända-röster]]\n\n### 语法 (DUP — 5, already exist)\n- [[grammar-preteritum]] · [[grammar-preteritum-oregelbundna]] · [[grammar-passiv-med-s]] · [[grammar-reflexivt-verb]] · [[grammar-bisats-eftersom]]\n\n## 主题 (Topics)\n\n- [[topic-miljö-och-klimat]] — 环境与气候\n- [[topic-personer]] — Greta Thunberg 传记\n- [[topic-samhälle-och-politik]] — 政治行动、议会\n",
+      "cefr": "A2-B1",
+      "date_added": "2026-06-22",
+      "kind": "biografi",
+      "words": [
+        "klimataktivist",
+        "klimatförändring",
+        "operasångare",
+        "skådespelare",
+        "lillasyster",
+        "orolig",
+        "ledsen",
+        "annorlunda",
+        "skog",
+        "brinna",
+        "skylt",
+        "skolstrejk",
+        "riksdag",
+        "politiker",
+        "utsläpp",
+        "minska",
+        "rörelse",
+        "tal",
+        "segelbåt",
+        "pris",
+        "framtid",
+        "miljö",
+        "röst",
+        "strejka",
+        "bestämma-sig"
+      ],
+      "phrases": [
+        "för-första-gången",
+        "göra-något-åt",
+        "på-ett-annorlunda-sätt",
+        "bestämma-sig-för-att",
+        "i-stället",
+        "hålla-tal",
+        "kämpa-för",
+        "en-av-världens-mest-kända"
+      ],
+      "sentences": [
+        "sent-greta-thunberg-är-en-känd-klimataktivist",
+        "sent-hon-föddes-den-3-januari-2003-i-stockholm",
+        "sent-hennes-mamma-heter-malena-ernman-och-är",
+        "sent-hennes-pappa-heter-svante-och-är-skådespelare",
+        "sent-greta-har-en-lillasyster-som-heter-beata",
+        "sent-när-greta-var-åtta-år-hörde-hon",
+        "sent-hon-förstod-inte-varför-så-få-människor",
+        "sent-hon-blev-orolig-och-ledsen",
+        "sent-greta-har-aspergers-syndrom",
+        "sent-hon-säger-själv-att-det-hjälper-henne",
+        "sent-sommaren-2018-var-mycket-varm-i-sverige",
+        "sent-då-bestämde-greta-sig-för-att-göra-något",
+        "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen",
+        "sent-hon-hade-en-skylt-med-texten-skolstrejk",
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
+        "sent-snart-blev-greta-känd-i-hela-världen",
+        "sent-många-unga-människor-började-också-strejka",
+        "sent-rörelsen-fick-namnet-fridays-for-future",
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
+        "sent-år-2019-åkte-hon-med-en-segelbåt",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
+        "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
+        "sent-hon-fortsätter-att-kämpa-för-klimatet",
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster"
+      ],
+      "grammar": [
+        "grammar-preteritum",
+        "grammar-preteritum-oregelbundna",
+        "grammar-passiv-med-s",
+        "grammar-reflexivt-verb",
+        "grammar-bisats-eftersom"
+      ],
+      "backlinks": [
+        "bestämma-sig",
+        "framtid",
+        "klimataktivist",
+        "klimatförändring",
+        "lillasyster",
+        "miljö",
+        "minska",
+        "operasångare",
+        "politiker",
+        "riksdag",
+        "segelbåt",
+        "sent-år-2019-åkte-hon-med-en-segelbåt",
+        "sent-då-bestämde-greta-sig-för-att-göra-något",
+        "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
+        "sent-greta-har-aspergers-syndrom",
+        "sent-greta-har-en-lillasyster-som-heter-beata",
+        "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
+        "sent-greta-thunberg-är-en-känd-klimataktivist",
+        "sent-hennes-mamma-heter-malena-ernman-och-är",
+        "sent-hennes-pappa-heter-svante-och-är-skådespelare",
+        "sent-hon-blev-orolig-och-ledsen",
+        "sent-hon-föddes-den-3-januari-2003-i-stockholm",
+        "sent-hon-förstod-inte-varför-så-få-människor",
+        "sent-hon-fortsätter-att-kämpa-för-klimatet",
+        "sent-hon-hade-en-skylt-med-texten-skolstrejk",
+        "sent-hon-säger-själv-att-det-hjälper-henne",
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen",
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster",
+        "sent-många-unga-människor-började-också-strejka",
+        "sent-när-greta-var-åtta-år-hörde-hon",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
+        "sent-rörelsen-fick-namnet-fridays-for-future",
+        "sent-snart-blev-greta-känd-i-hela-världen",
+        "sent-sommaren-2018-var-mycket-varm-i-sverige",
+        "skådespelare",
+        "skog",
+        "skolstrejk",
+        "strejka",
+        "tal",
+        "topic-miljö-och-klimat",
+        "topic-personer",
+        "topic-samhälle-och-politik",
+        "utsläpp"
+      ]
+    },
+    {
       "slug": "topic-arbete",
       "type": "topic",
       "title": "arbete",
@@ -31129,6 +32564,7 @@ window.KB_DATA = {
         "kusin",
         "leka",
         "leksak",
+        "lillasyster",
         "make",
         "mamma",
         "mor",
@@ -31299,6 +32735,7 @@ window.KB_DATA = {
         "njuta",
         "passa",
         "promenad",
+        "segelbåt",
         "semester",
         "sjö",
         "source-2026-06-10-vardagsord",
@@ -32197,6 +33634,47 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "topic-miljö-och-klimat",
+      "type": "topic",
+      "title": "miljö-och-klimat",
+      "path": "knowledge_base/topics/topic-miljö-och-klimat.md",
+      "body": "# 🗂️ miljö-och-klimat — 环境与气候\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[klimataktivist]] — 气候活动家\n- [[klimatförändring]] — 气候变化\n- [[miljö]] — 环境\n- [[utsläpp]] — 排放\n- [[skog]] — 森林\n- [[minska]] — 减少\n- [[strejka]] — 罢课/罢工（为气候行动）\n- [[skolstrejk]] — 罢课\n- [[framtid]] — 未来\n\n## 备注 (Notes)\n\n- 与 Greta Thunberg 传记 [[source-2026-06-22-greta-thunberg]] 相关\n- 参见 [[topic-samhälle-och-politik]]（社会行动、政治）\n- 参见 [[topic-vader-och-arstider]]（天气与气候变化背景）",
+      "excerpt": "🗂️ miljö och klimat — 环境与气候 类型: semantic field 成员 (Members) klimataktivist — 气候活动家 klimatförändring — 气候变化 miljö — 环境 utsläpp — 排放 skog — 森林 minska — 减少 strejka — 罢课/罢工（为气候行动） skolstrejk — 罢课 framtid — 未来 备注 (Notes) 与 G",
+      "forms": [],
+      "links": [
+        "framtid",
+        "klimataktivist",
+        "klimatförändring",
+        "miljö",
+        "minska",
+        "skog",
+        "skolstrejk",
+        "source-2026-06-22-greta-thunberg",
+        "strejka",
+        "topic-samhälle-och-politik",
+        "topic-vader-och-arstider",
+        "utsläpp"
+      ],
+      "searchText": "miljö-och-klimat topic-miljö-och-klimat knowledge_base/topics/topic-miljö-och-klimat.md ---\ntype: topic\nname: \"miljö-och-klimat\"\nkind: \"semantic-field\"\nzh: \"环境与气候\"\nmembers:\n  - klimataktivist\n  - klimatförändring\n  - miljö\n  - utsläpp\n  - skog\n  - minska\n  - strejka\n  - skolstrejk\n  - framtid\ncreated: \"2026-06-22\"\n---\n\n# 🗂️ miljö-och-klimat — 环境与气候\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[klimataktivist]] — 气候活动家\n- [[klimatförändring]] — 气候变化\n- [[miljö]] — 环境\n- [[utsläpp]] — 排放\n- [[skog]] — 森林\n- [[minska]] — 减少\n- [[strejka]] — 罢课/罢工（为气候行动）\n- [[skolstrejk]] — 罢课\n- [[framtid]] — 未来\n\n## 备注 (Notes)\n\n- 与 Greta Thunberg 传记 [[source-2026-06-22-greta-thunberg]] 相关\n- 参见 [[topic-samhälle-och-politik]]（社会行动、政治）\n- 参见 [[topic-vader-och-arstider]]（天气与气候变化背景）\n",
+      "name": "miljö-och-klimat",
+      "zh": "环境与气候",
+      "created": "2026-06-22",
+      "kind": "semantic-field",
+      "backlinks": [
+        "framtid",
+        "klimataktivist",
+        "klimatförändring",
+        "miljö",
+        "minska",
+        "skog",
+        "skolstrejk",
+        "source-2026-06-22-greta-thunberg",
+        "strejka",
+        "topic-samhälle-och-politik",
+        "utsläpp"
+      ]
+    },
+    {
       "slug": "topic-mobler",
       "type": "topic",
       "title": "möbler",
@@ -32374,7 +33852,7 @@ window.KB_DATA = {
       "type": "topic",
       "title": "personer",
       "path": "knowledge_base/topics/topic-personer.md",
-      "body": "# 🗂️ personer — 人物\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 人物（名词）\n- [[man]] — 男人\n- [[kvinna]] — 女人\n- [[pojke]] — 男孩\n- [[flicka]] — 女孩\n- [[barn]] — 孩子\n- [[mamma]] — 妈妈\n- [[pappa]] — 爸爸\n- [[syster]] — 姐姐、妹妹\n- [[bror]] — 哥哥、弟弟\n- [[granne]] — 邻居\n- [[person]] — 人\n- [[tjej]] — 姑娘、女孩\n- [[kille]] — 小伙子、男孩\n- [[kompis]] — 好友、伙伴\n- [[gäst]] — 客人\n- [[familj]] — 家庭\n- [[herre]] — 先生\n- [[dam]] — 女士\n- [[främling]] — 陌生人\n- [[par]] — 一对、夫妇\n- [[förälder]] — 家长、父母\n- [[bebis]] — 婴儿\n- [[mor]] — 母亲（书面/正式）\n- [[far]] — 父亲（书面/正式）\n- [[spädbarn]] — 婴儿、新生儿\n- [[vän]] — 朋友\n- [[människa]] — 人、人类\n- [[ungdom]] — 青少年\n\n### 描述人物（形容词）\n- [[vänlig]] — 友好的\n- [[glad]] — 高兴的\n- [[blyg]] — 害羞的\n- [[god]] — 好的、善良的\n- [[lång]] — 长的、高的\n- [[söt]] — 可爱的、甜的\n- [[stilig]] — 帅气的\n- [[rolig]] — 有趣的\n- [[välkommen]] — 受欢迎的\n- [[elegant]] — 优雅的\n- [[rik]] — 富有的\n- [[okänd]] — 陌生的、不知名的\n- [[stolt]] — 自豪的\n- [[modern]] — 现代的\n- [[nyfödd]] — 新生的\n- [[ung]] — 年轻的\n- [[liten]] — 小的\n- [[snäll]] — 善良的\n- [[stor]] — 大的\n- [[trogen]] — 忠诚的\n- [[gammal]] — 老的、旧的\n- [[känd]] — 著名的\n- [[vanlig]] — 普通的\n- [[lycklig]] — 幸福的\n- [[gift]] — 已婚的\n\n## 备注 (Notes)\n\n- 涵盖人物主题的名词（家庭成员、社会角色）及常用描述性形容词\n- 与 [[topic-familj-och-barn]] 主题部分重叠（家庭成员词汇共享）\n- 与 [[topic-karaktarsord]] 主题重叠（性格描述词汇）",
+      "body": "# 🗂️ personer — 人物\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 人物（名词）\n- [[man]] — 男人\n- [[kvinna]] — 女人\n- [[pojke]] — 男孩\n- [[flicka]] — 女孩\n- [[barn]] — 孩子\n- [[mamma]] — 妈妈\n- [[pappa]] — 爸爸\n- [[syster]] — 姐姐、妹妹\n- [[bror]] — 哥哥、弟弟\n- [[granne]] — 邻居\n- [[person]] — 人\n- [[tjej]] — 姑娘、女孩\n- [[kille]] — 小伙子、男孩\n- [[kompis]] — 好友、伙伴\n- [[gäst]] — 客人\n- [[familj]] — 家庭\n- [[herre]] — 先生\n- [[dam]] — 女士\n- [[främling]] — 陌生人\n- [[par]] — 一对、夫妇\n- [[förälder]] — 家长、父母\n- [[bebis]] — 婴儿\n- [[mor]] — 母亲（书面/正式）\n- [[far]] — 父亲（书面/正式）\n- [[spädbarn]] — 婴儿、新生儿\n- [[vän]] — 朋友\n- [[människa]] — 人、人类\n- [[ungdom]] — 青少年\n\n### 描述人物（形容词）\n- [[vänlig]] — 友好的\n- [[glad]] — 高兴的\n- [[blyg]] — 害羞的\n- [[god]] — 好的、善良的\n- [[lång]] — 长的、高的\n- [[söt]] — 可爱的、甜的\n- [[stilig]] — 帅气的\n- [[rolig]] — 有趣的\n- [[välkommen]] — 受欢迎的\n- [[elegant]] — 优雅的\n- [[rik]] — 富有的\n- [[okänd]] — 陌生的、不知名的\n- [[stolt]] — 自豪的\n- [[modern]] — 现代的\n- [[nyfödd]] — 新生的\n- [[ung]] — 年轻的\n- [[liten]] — 小的\n- [[snäll]] — 善良的\n- [[stor]] — 大的\n- [[trogen]] — 忠诚的\n- [[gammal]] — 老的、旧的\n- [[känd]] — 著名的\n- [[vanlig]] — 普通的\n- [[lycklig]] — 幸福的\n- [[gift]] — 已婚的\n\n### 家庭称谓（补充）\n- [[lillasyster]] — 妹妹\n\n### 职业（与人物相关）\n- [[skådespelare]] — 演员\n- [[operasångare]] — 歌剧演唱家\n\n### 社会角色\n- [[klimataktivist]] — 气候活动家\n\n## 备注 (Notes)\n\n- 涵盖人物主题的名词（家庭成员、社会角色）及常用描述性形容词\n- 与 [[topic-familj-och-barn]] 主题部分重叠（家庭成员词汇共享）\n- 与 [[topic-karaktarsord]] 主题重叠（性格描述词汇）\n- 参见 [[topic-yrken]] 职业主题\n- 传记文章: [[source-2026-06-22-greta-thunberg]] (Greta Thunberg)",
       "excerpt": "🗂️ personer — 人物 类型: semantic field 成员 (Members) 人物（名词） man — 男人 kvinna — 女人 pojke — 男孩 flicka — 女孩 barn — 孩子 mamma — 妈妈 pappa — 爸爸 syster — 姐姐、妹妹 bror — 哥哥、弟弟 granne — 邻居 person — 人 tjej — 姑娘、女孩 kille — 小伙子、男孩 kompis —",
       "forms": [],
       "links": [
@@ -32398,9 +33876,11 @@ window.KB_DATA = {
         "herre",
         "känd",
         "kille",
+        "klimataktivist",
         "kompis",
         "kvinna",
         "lång",
+        "lillasyster",
         "liten",
         "lycklig",
         "mamma",
@@ -32410,14 +33890,17 @@ window.KB_DATA = {
         "mor",
         "nyfödd",
         "okänd",
+        "operasångare",
         "pappa",
         "par",
         "person",
         "pojke",
         "rik",
         "rolig",
+        "skådespelare",
         "snäll",
         "söt",
+        "source-2026-06-22-greta-thunberg",
         "spädbarn",
         "stilig",
         "stolt",
@@ -32426,6 +33909,7 @@ window.KB_DATA = {
         "tjej",
         "topic-familj-och-barn",
         "topic-karaktarsord",
+        "topic-yrken",
         "trogen",
         "ung",
         "ungdom",
@@ -32434,7 +33918,7 @@ window.KB_DATA = {
         "vanlig",
         "vänlig"
       ],
-      "searchText": "personer topic-personer knowledge_base/topics/topic-personer.md ---\ntype: topic\nname: \"personer\"\nkind: \"semantic-field\"\nzh: \"人物\"\nmembers:\n  - man\n  - kvinna\n  - pojke\n  - flicka\n  - barn\n  - mamma\n  - pappa\n  - syster\n  - bror\n  - granne\n  - person\n  - tjej\n  - kille\n  - kompis\n  - gäst\n  - familj\n  - herre\n  - dam\n  - främling\n  - par\n  - förälder\n  - bebis\n  - mor\n  - far\n  - spädbarn\n  - vänlig\n  - glad\n  - blyg\n  - god\n  - lång\n  - söt\n  - stilig\n  - rolig\n  - välkommen\n  - elegant\n  - rik\n  - okänd\n  - stolt\n  - modern\n  - nyfödd\n  - ung\n  - liten\n  - vän\n  - snäll\n  - stor\n  - trogen\n  - gammal\n  - känd\n  - vanlig\n  - människa\n  - lycklig\n  - gift\n  - ungdom\ncreated: \"2026-06-10\"\n---\n\n# 🗂️ personer — 人物\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 人物（名词）\n- [[man]] — 男人\n- [[kvinna]] — 女人\n- [[pojke]] — 男孩\n- [[flicka]] — 女孩\n- [[barn]] — 孩子\n- [[mamma]] — 妈妈\n- [[pappa]] — 爸爸\n- [[syster]] — 姐姐、妹妹\n- [[bror]] — 哥哥、弟弟\n- [[granne]] — 邻居\n- [[person]] — 人\n- [[tjej]] — 姑娘、女孩\n- [[kille]] — 小伙子、男孩\n- [[kompis]] — 好友、伙伴\n- [[gäst]] — 客人\n- [[familj]] — 家庭\n- [[herre]] — 先生\n- [[dam]] — 女士\n- [[främling]] — 陌生人\n- [[par]] — 一对、夫妇\n- [[förälder]] — 家长、父母\n- [[bebis]] — 婴儿\n- [[mor]] — 母亲（书面/正式）\n- [[far]] — 父亲（书面/正式）\n- [[spädbarn]] — 婴儿、新生儿\n- [[vän]] — 朋友\n- [[människa]] — 人、人类\n- [[ungdom]] — 青少年\n\n### 描述人物（形容词）\n- [[vänlig]] — 友好的\n- [[glad]] — 高兴的\n- [[blyg]] — 害羞的\n- [[god]] — 好的、善良的\n- [[lång]] — 长的、高的\n- [[söt]] — 可爱的、甜的\n- [[stilig]] — 帅气的\n- [[rolig]] — 有趣的\n- [[välkommen]] — 受欢迎的\n- [[elegant]] — 优雅的\n- [[rik]] — 富有的\n- [[okänd]] — 陌生的、不知名的\n- [[stolt]] — 自豪的\n- [[modern]] — 现代的\n- [[nyfödd]] — 新生的\n- [[ung]] — 年轻的\n- [[liten]] — 小的\n- [[snäll]] — 善良的\n- [[stor]] — 大的\n- [[trogen]] — 忠诚的\n- [[gammal]] — 老的、旧的\n- [[känd]] — 著名的\n- [[vanlig]] — 普通的\n- [[lycklig]] — 幸福的\n- [[gift]] — 已婚的\n\n## 备注 (Notes)\n\n- 涵盖人物主题的名词（家庭成员、社会角色）及常用描述性形容词\n- 与 [[topic-familj-och-barn]] 主题部分重叠（家庭成员词汇共享）\n- 与 [[topic-karaktarsord]] 主题重叠（性格描述词汇）\n",
+      "searchText": "personer topic-personer knowledge_base/topics/topic-personer.md ---\ntype: topic\nname: \"personer\"\nkind: \"semantic-field\"\nzh: \"人物\"\nmembers:\n  - man\n  - kvinna\n  - pojke\n  - flicka\n  - barn\n  - mamma\n  - pappa\n  - syster\n  - bror\n  - granne\n  - person\n  - tjej\n  - kille\n  - kompis\n  - gäst\n  - familj\n  - herre\n  - dam\n  - främling\n  - par\n  - förälder\n  - bebis\n  - mor\n  - far\n  - spädbarn\n  - vänlig\n  - glad\n  - blyg\n  - god\n  - lång\n  - söt\n  - stilig\n  - rolig\n  - välkommen\n  - elegant\n  - rik\n  - okänd\n  - stolt\n  - modern\n  - nyfödd\n  - ung\n  - liten\n  - vän\n  - snäll\n  - stor\n  - trogen\n  - gammal\n  - känd\n  - vanlig\n  - människa\n  - lycklig\n  - gift\n  - ungdom\n  - lillasyster\n  - skådespelare\n  - operasångare\n  - klimataktivist\ncreated: \"2026-06-10\"\n---\n\n# 🗂️ personer — 人物\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 人物（名词）\n- [[man]] — 男人\n- [[kvinna]] — 女人\n- [[pojke]] — 男孩\n- [[flicka]] — 女孩\n- [[barn]] — 孩子\n- [[mamma]] — 妈妈\n- [[pappa]] — 爸爸\n- [[syster]] — 姐姐、妹妹\n- [[bror]] — 哥哥、弟弟\n- [[granne]] — 邻居\n- [[person]] — 人\n- [[tjej]] — 姑娘、女孩\n- [[kille]] — 小伙子、男孩\n- [[kompis]] — 好友、伙伴\n- [[gäst]] — 客人\n- [[familj]] — 家庭\n- [[herre]] — 先生\n- [[dam]] — 女士\n- [[främling]] — 陌生人\n- [[par]] — 一对、夫妇\n- [[förälder]] — 家长、父母\n- [[bebis]] — 婴儿\n- [[mor]] — 母亲（书面/正式）\n- [[far]] — 父亲（书面/正式）\n- [[spädbarn]] — 婴儿、新生儿\n- [[vän]] — 朋友\n- [[människa]] — 人、人类\n- [[ungdom]] — 青少年\n\n### 描述人物（形容词）\n- [[vänlig]] — 友好的\n- [[glad]] — 高兴的\n- [[blyg]] — 害羞的\n- [[god]] — 好的、善良的\n- [[lång]] — 长的、高的\n- [[söt]] — 可爱的、甜的\n- [[stilig]] — 帅气的\n- [[rolig]] — 有趣的\n- [[välkommen]] — 受欢迎的\n- [[elegant]] — 优雅的\n- [[rik]] — 富有的\n- [[okänd]] — 陌生的、不知名的\n- [[stolt]] — 自豪的\n- [[modern]] — 现代的\n- [[nyfödd]] — 新生的\n- [[ung]] — 年轻的\n- [[liten]] — 小的\n- [[snäll]] — 善良的\n- [[stor]] — 大的\n- [[trogen]] — 忠诚的\n- [[gammal]] — 老的、旧的\n- [[känd]] — 著名的\n- [[vanlig]] — 普通的\n- [[lycklig]] — 幸福的\n- [[gift]] — 已婚的\n\n### 家庭称谓（补充）\n- [[lillasyster]] — 妹妹\n\n### 职业（与人物相关）\n- [[skådespelare]] — 演员\n- [[operasångare]] — 歌剧演唱家\n\n### 社会角色\n- [[klimataktivist]] — 气候活动家\n\n## 备注 (Notes)\n\n- 涵盖人物主题的名词（家庭成员、社会角色）及常用描述性形容词\n- 与 [[topic-familj-och-barn]] 主题部分重叠（家庭成员词汇共享）\n- 与 [[topic-karaktarsord]] 主题重叠（性格描述词汇）\n- 参见 [[topic-yrken]] 职业主题\n- 传记文章: [[source-2026-06-22-greta-thunberg]] (Greta Thunberg)\n",
       "name": "personer",
       "zh": "人物",
       "created": "2026-06-10",
@@ -32463,11 +33947,13 @@ window.KB_DATA = {
         "granne",
         "herre",
         "kille",
+        "klimataktivist",
         "kompis",
         "kusin",
         "kvinna",
         "lång",
         "ledsen",
+        "lillasyster",
         "make",
         "mamma",
         "man",
@@ -32486,6 +33972,7 @@ window.KB_DATA = {
         "smart",
         "son",
         "söt",
+        "source-2026-06-22-greta-thunberg",
         "spädbarn",
         "stilig",
         "stolt",
@@ -32644,7 +34131,7 @@ window.KB_DATA = {
       "type": "topic",
       "title": "samhälle-och-politik",
       "path": "knowledge_base/topics/topic-samhälle-och-politik.md",
-      "body": "# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n- [[avtal]] — 协议；合同\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[sprängning]] — 爆炸，爆破\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]",
+      "body": "# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n- [[avtal]] — 协议；合同\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[sprängning]] — 爆炸，爆破\n- [[riksdag]] — 国会，议会\n- [[politiker]] — 政治家\n- [[strejka]] — 罢工/罢课（政治行动）\n- [[utsläpp]] — 排放\n- [[minska]] — 减少\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]\n- 参见 [[topic-miljö-och-klimat]]（气候行动、政治倡导）\n- Greta Thunberg 相关词汇见 [[source-2026-06-22-greta-thunberg]]",
       "excerpt": "🗂️ samhälle och politik — 社会与政治 类型: semantic field 成员 (Members) rösta — 投票 regering — 政府 medborgare — 公民 kommun — 市/市政 nationaldag — 国庆日 invånare — 居民 provins — 省 självständig — 独立的 missnöjd — 不满的 avtal — 协议；合同 kärnvape",
       "forms": [],
       "links": [
@@ -32653,17 +34140,24 @@ window.KB_DATA = {
         "kärnvapen",
         "kommun",
         "medborgare",
+        "minska",
         "missnöjd",
         "nationaldag",
+        "politiker",
         "provins",
         "regering",
+        "riksdag",
         "rösta",
         "självständig",
+        "source-2026-06-22-greta-thunberg",
         "sprängning",
         "straff",
-        "topic-nyheter-vecka22"
+        "strejka",
+        "topic-miljö-och-klimat",
+        "topic-nyheter-vecka22",
+        "utsläpp"
       ],
-      "searchText": "samhälle-och-politik topic-samhälle-och-politik knowledge_base/topics/topic-samhälle-och-politik.md ---\ntype: topic\nname: \"samhälle-och-politik\"\nkind: semantic-field\nzh: \"社会与政治\"\nmembers: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning]\ncreated: \"2026-06-04\"\n---\n\n# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n- [[avtal]] — 协议；合同\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[sprängning]] — 爆炸，爆破\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]\n",
+      "searchText": "samhälle-och-politik topic-samhälle-och-politik knowledge_base/topics/topic-samhälle-och-politik.md ---\ntype: topic\nname: \"samhälle-och-politik\"\nkind: semantic-field\nzh: \"社会与政治\"\nmembers: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska]\ncreated: \"2026-06-04\"\n---\n\n# 🗂️ samhälle-och-politik — 社会与政治\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[rösta]] — 投票\n- [[regering]] — 政府\n- [[medborgare]] — 公民\n- [[kommun]] — 市/市政\n- [[nationaldag]] — 国庆日\n- [[invånare]] — 居民\n- [[provins]] — 省\n- [[självständig]] — 独立的\n- [[missnöjd]] — 不满的\n- [[avtal]] — 协议；合同\n- [[kärnvapen]] — 核武器\n- [[straff]] — 惩罚；制裁\n- [[sprängning]] — 爆炸，爆破\n- [[riksdag]] — 国会，议会\n- [[politiker]] — 政治家\n- [[strejka]] — 罢工/罢课（政治行动）\n- [[utsläpp]] — 排放\n- [[minska]] — 减少\n\n## 备注 (Notes)\n\n- 与新闻话题\"加拿大独立公投\"和\"国庆日入籍\"相关。\n- 参见 [[topic-nyheter-vecka22]]\n- 参见 [[topic-miljö-och-klimat]]（气候行动、政治倡导）\n- Greta Thunberg 相关词汇见 [[source-2026-06-22-greta-thunberg]]\n",
       "name": "samhälle-och-politik",
       "zh": "社会与政治",
       "created": "2026-06-04",
@@ -32696,9 +34190,11 @@ window.KB_DATA = {
         "nationaldag",
         "öka",
         "olja",
+        "politiker",
         "provins",
         "ränta",
         "regering",
+        "riksdag",
         "rösta",
         "sent-55-procent-tror-att-oppositionen-far-flest",
         "sent-att-regeringen-forlorar-makten-efter-valet",
@@ -32722,10 +34218,14 @@ window.KB_DATA = {
         "source-2026-06-18-nyheter-8sidor",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-19-nyheter-8sidor",
+        "source-2026-06-22-greta-thunberg",
         "sprängning",
         "statistik",
         "straff",
+        "strejka",
+        "tal",
         "topic-krig-och-konflikt",
+        "topic-miljö-och-klimat",
         "väljare",
         "välkomna",
         "vapen"
@@ -32800,6 +34300,7 @@ window.KB_DATA = {
         "sax",
         "skola",
         "skolavslutning",
+        "skolstrejk",
         "studentmössa",
         "studiemedel",
         "teoretisk",
@@ -33004,6 +34505,7 @@ window.KB_DATA = {
         "äntligen",
         "dag",
         "fortfarande",
+        "framtid",
         "helg",
         "just",
         "klocka",
@@ -33153,6 +34655,7 @@ window.KB_DATA = {
         "sent-speciellt-langst-i-norr",
         "sjö",
         "skina",
+        "skog",
         "snö",
         "sommar",
         "source-2026-06-18-listening-svt-latt",
@@ -33161,6 +34664,7 @@ window.KB_DATA = {
         "sval",
         "täcka",
         "tillbringa",
+        "topic-miljö-och-klimat",
         "tydlig",
         "väder",
         "vår",
@@ -33322,13 +34826,17 @@ window.KB_DATA = {
         "hemmafru",
         "ingenjör",
         "kassör",
+        "operasångare",
+        "politiker",
         "praktikant",
         "proffs",
         "sekreterare",
         "servitör",
+        "skådespelare",
         "source-2026-06-09-zlatan-bio",
         "topic-fotboll",
         "topic-litteratur-och-kultur",
+        "topic-personer",
         "vikarie",
         "yrke"
       ]
@@ -34028,8 +35536,11 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "ovanlig",
+        "på-ett-annorlunda-sätt",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
+        "sent-hon-säger-själv-att-det-hjälper-henne",
         "source-2026-06-02-astrid-lindgren",
+        "source-2026-06-22-greta-thunberg",
         "topic-karaktarsord"
       ]
     },
@@ -34508,6 +36019,7 @@ window.KB_DATA = {
         "jobba",
         "sent-arbetena-är-till-för-att-vägarna",
         "sent-det-är-också-viktigt-att-köra",
+        "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
         "sent-i-sommar-ska-det-bli-arbeten",
         "source-2026-06-18-nyheter-8sidor"
       ]
@@ -35695,6 +37207,7 @@ window.KB_DATA = {
         "sent-pa-kvallen-ringde-jag-mina-foraldrar",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-09-zlatan-bio",
+        "tal",
         "topic-litteratur-och-kultur"
       ]
     },
@@ -35781,6 +37294,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "bestämma-sig",
+      "type": "word",
+      "title": "bestämma sig",
+      "path": "knowledge_base/words/bestämma-sig.md",
+      "body": "# bestämma sig — verb (v.2, reflexivt)\n\n📖 中文：下决心，决定 · English: decide, make up one's mind\n发音提示：/bɛˈstɛmːa sɛɡ/；反身动词，需带反身代词。\n\n## 语法变形 (Forms)\n\n| tempus | form |\n|--------|------|\n| infinitiv | bestämma sig |\n| presens | bestämmer sig |\n| preteritum | bestämde sig |\n| supinum | bestämt sig |\n| imperativ | bestäm dig! |\n\n⚠️ 反身代词随主语变化：jag bestämmer **mig**, du bestämmer **dig**, hon/han bestämmer **sig**。\n\n## 词组搭配 (Collocations)\n\n- `bestämma sig för att + infinitiv` — 决定做某事\n- `bestämde sig för att göra något` — 决定做点什么\n- `jag har bestämt mig` — 我已经下定决心\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-då-bestämde-greta-sig-för-att-göra-något]] Då bestämde Greta sig för att göra något. — 🇨🇳 于是格蕾塔决定做点什么。\n- 🇸🇪 Jag har bestämt mig för att börja träna. — 🇨🇳 我已经决定开始锻炼。\n- 🇸🇪 De bestämde sig för att resa till Sverige. — 🇨🇳 他们决定去瑞典旅行。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bestämma]]（决定/规定），besluta（决定），bestämmelse（规定）\n- 参见词组: [[bestämma-sig-för-att]]（决定去做）\n\n## 用法提示 (Usage Notes)\n\n- `bestämma sig` 强调内心的抉择过程；`bestämma sig för att` + infinitiv = 下定决心去做某事。\n- 区别于 `bestämma`（单独使用时 = 规定/做主）。\n- 参见 [[grammar-reflexivt-verb]]（反身动词）\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "bestämma sig — verb (v.2, reflexivt) 📖 中文：下决心，决定 · English: decide, make up one's mind 发音提示：/bɛˈstɛmːa sɛɡ/；反身动词，需带反身代词。 语法变形 (Forms) tempus form infinitiv bestämma sig presens bestämmer sig preteritum bestämde sig supi",
+      "forms": [
+        "bestämma sig",
+        "bestämmer sig",
+        "bestämde sig",
+        "bestämt sig",
+        "bestäm dig!"
+      ],
+      "links": [
+        "bestämma",
+        "bestämma-sig-för-att",
+        "grammar-reflexivt-verb",
+        "sent-då-bestämde-greta-sig-för-att-göra-något",
+        "source-2026-06-22-greta-thunberg"
+      ],
+      "searchText": "bestämma sig bestämma-sig knowledge_base/words/bestämma-sig.md ---\ntype: word\nlemma: \"bestämma sig\"\nordklass: verb\nverbgrupp: \"2\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"下决心，决定\"\nen: \"decide, make up one's mind\"\nsynonyms: []\nantonyms: []\nfamily: [bestämma, besluta, bestämmelse]\ntopics: []\nsentences:\n  - sent-då-bestämde-greta-sig-för-att-göra-något\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bestämma sig — verb (v.2, reflexivt)\n\n📖 中文：下决心，决定 · English: decide, make up one's mind\n发音提示：/bɛˈstɛmːa sɛɡ/；反身动词，需带反身代词。\n\n## 语法变形 (Forms)\n\n| tempus | form |\n|--------|------|\n| infinitiv | bestämma sig |\n| presens | bestämmer sig |\n| preteritum | bestämde sig |\n| supinum | bestämt sig |\n| imperativ | bestäm dig! |\n\n⚠️ 反身代词随主语变化：jag bestämmer **mig**, du bestämmer **dig**, hon/han bestämmer **sig**。\n\n## 词组搭配 (Collocations)\n\n- `bestämma sig för att + infinitiv` — 决定做某事\n- `bestämde sig för att göra något` — 决定做点什么\n- `jag har bestämt mig` — 我已经下定决心\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-då-bestämde-greta-sig-för-att-göra-något]] Då bestämde Greta sig för att göra något. — 🇨🇳 于是格蕾塔决定做点什么。\n- 🇸🇪 Jag har bestämt mig för att börja träna. — 🇨🇳 我已经决定开始锻炼。\n- 🇸🇪 De bestämde sig för att resa till Sverige. — 🇨🇳 他们决定去瑞典旅行。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bestämma]]（决定/规定），besluta（决定），bestämmelse（规定）\n- 参见词组: [[bestämma-sig-för-att]]（决定去做）\n\n## 用法提示 (Usage Notes)\n\n- `bestämma sig` 强调内心的抉择过程；`bestämma sig för att` + infinitiv = 下定决心去做某事。\n- 区别于 `bestämma`（单独使用时 = 规定/做主）。\n- 参见 [[grammar-reflexivt-verb]]（反身动词）\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "bestämma sig",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "下决心，决定",
+      "en": "decide, make up one's mind",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-då-bestämde-greta-sig-för-att-göra-något"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-då-bestämde-greta-sig-för-att-göra-något",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "bestämma",
       "type": "word",
       "title": "bestämma",
@@ -35810,6 +37361,7 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "bestämma-sig",
         "har-ni-bestämt-er",
         "index",
         "sent-har-ni-bestämt-er-eller-behöver-ni",
@@ -37315,8 +38867,10 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "sent-sommaren-2018-var-mycket-varm-i-sverige",
         "sent-tidigt-i-morse-brann-det-i-en",
-        "source-2026-06-18-listening-svt-latt"
+        "source-2026-06-18-listening-svt-latt",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -40933,6 +42487,7 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "grammar-deponensverb",
+        "sent-hon-föddes-den-3-januari-2003-i-stockholm",
         "source-2026-06-10-zlatan-subst-verb"
       ]
     },
@@ -41859,6 +43414,45 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "topic-personer"
+      ]
+    },
+    {
+      "slug": "framtid",
+      "type": "word",
+      "title": "framtid",
+      "path": "knowledge_base/words/framtid.md",
+      "body": "# framtid — substantiv (en)\n\n📖 中文：未来 · English: future\n发音提示：/ˈframˌtiːd/；fram（前）+ tid（时间）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en framtid |\n| sing. bestämd | framtiden |\n| plur. sällan används | — |\n\n⚠️ 通常以单数使用：`framtiden` = 未来（定冠词）。\n\n## 词组搭配 (Collocations)\n\n- `en bättre framtid` — 一个更美好的未来\n- `kämpa för framtiden` — 为未来而奋斗\n- `i framtiden` — 在将来\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hon-fortsätter-att-kämpa-för-klimatet]] Hon fortsätter att kämpa för klimatet och för en bättre framtid. — 🇨🇳 她继续为气候、为更美好的未来而奋斗。\n- 🇸🇪 Vi måste tänka på framtiden. — 🇨🇳 我们必须考虑未来。\n- 🇸🇪 \"Fridays for Future\" är ett namn som handlar om framtiden. — 🇨🇳 \"未来星期五\"是一个关于未来的名字。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: framtida（未来的，adj.），fram（向前），tid（时间）\n- 反义词: dåtid（过去）, förflutet（过去）\n- 主题: [[topic-miljö-och-klimat]], [[topic-tid-och-tidsuttryck]]\n\n## 用法提示 (Usage Notes)\n\n- 通常以 `framtiden`（带定冠词）使用，表示\"(人类的)未来\"。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "framtid — substantiv (en) 📖 中文：未来 · English: future 发音提示：/ˈframˌtiːd/；fram（前）+ tid（时间）。 语法变形 (Forms) form böjning sing. obestämd en framtid sing. bestämd framtiden plur. sällan används — ⚠️ 通常以单数使用： framtiden = 未来（定冠词）。",
+      "forms": [
+        "framtid",
+        "framtiden"
+      ],
+      "links": [
+        "sent-hon-fortsätter-att-kämpa-för-klimatet",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat",
+        "topic-tid-och-tidsuttryck"
+      ],
+      "searchText": "framtid framtid knowledge_base/words/framtid.md ---\ntype: word\nlemma: \"framtid\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"未来\"\nen: \"future\"\nsynonyms: []\nantonyms: [dåtid, förflutet]\nfamily: [fram, tid, framtida]\ntopics: [topic-miljö-och-klimat, topic-tid-och-tidsuttryck]\nsentences:\n  - sent-hon-fortsätter-att-kämpa-för-klimatet\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# framtid — substantiv (en)\n\n📖 中文：未来 · English: future\n发音提示：/ˈframˌtiːd/；fram（前）+ tid（时间）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en framtid |\n| sing. bestämd | framtiden |\n| plur. sällan används | — |\n\n⚠️ 通常以单数使用：`framtiden` = 未来（定冠词）。\n\n## 词组搭配 (Collocations)\n\n- `en bättre framtid` — 一个更美好的未来\n- `kämpa för framtiden` — 为未来而奋斗\n- `i framtiden` — 在将来\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hon-fortsätter-att-kämpa-för-klimatet]] Hon fortsätter att kämpa för klimatet och för en bättre framtid. — 🇨🇳 她继续为气候、为更美好的未来而奋斗。\n- 🇸🇪 Vi måste tänka på framtiden. — 🇨🇳 我们必须考虑未来。\n- 🇸🇪 \"Fridays for Future\" är ett namn som handlar om framtiden. — 🇨🇳 \"未来星期五\"是一个关于未来的名字。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: framtida（未来的，adj.），fram（向前），tid（时间）\n- 反义词: dåtid（过去）, förflutet（过去）\n- 主题: [[topic-miljö-och-klimat]], [[topic-tid-och-tidsuttryck]]\n\n## 用法提示 (Usage Notes)\n\n- 通常以 `framtiden`（带定冠词）使用，表示\"(人类的)未来\"。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "framtid",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "未来",
+      "en": "future",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-hon-fortsätter-att-kämpa-för-klimatet"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat",
+        "topic-tid-och-tidsuttryck"
+      ],
+      "backlinks": [
+        "framför",
+        "sent-hon-fortsätter-att-kämpa-för-klimatet",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat"
       ]
     },
     {
@@ -43997,6 +45591,7 @@ window.KB_DATA = {
         "hålla-med",
         "hålla-någon-sällskap",
         "hålla-på",
+        "hålla-tal",
         "hålla-värmen",
         "innehålla"
       ]
@@ -46421,6 +48016,7 @@ window.KB_DATA = {
         "index",
         "kämpa-mot",
         "sent-figurerna-måste-kämpa-för",
+        "sent-hon-fortsätter-att-kämpa-för-klimatet",
         "source-2026-06-19-nyheter-8sidor"
       ]
     },
@@ -46498,6 +48094,10 @@ window.KB_DATA = {
         "en-av-sveriges-mest-kanda",
         "kändis",
         "okänd",
+        "sent-greta-thunberg-är-en-känd-klimataktivist",
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
+        "sent-snart-blev-greta-känd-i-hela-världen",
         "sent-zlatan-en-av-sveriges-mest-kanda",
         "source-2026-06-09-zlatan-bio",
         "topic-fotboll",
@@ -47203,6 +48803,90 @@ window.KB_DATA = {
       "backlinks": [
         "index",
         "source-2026-06-02-astrid-lindgren"
+      ]
+    },
+    {
+      "slug": "klimataktivist",
+      "type": "word",
+      "title": "klimataktivist",
+      "path": "knowledge_base/words/klimataktivist.md",
+      "body": "# klimataktivist — substantiv (en)\n\n📖 中文：气候活动家 · English: climate activist\n发音提示：/ˈklɪmaːtaktiˌvɪst/；复合词，重音在第一音节。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en klimataktivist |\n| sing. bestämd | klimataktivisten |\n| plur. obestämd | klimataktivister |\n| plur. bestämd | klimataktivisterna |\n\n## 词组搭配 (Collocations)\n\n- `känd klimataktivist` — 著名的气候活动家\n- `ung klimataktivist` — 年轻的气候活动家\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-greta-thunberg-är-en-känd-klimataktivist]] Greta Thunberg är en känd klimataktivist från Sverige. — 🇨🇳 格蕾塔·通贝里是一位来自瑞典的著名气候活动家。\n- 🇸🇪 Hon är en av världens mest kända klimataktivister. — 🇨🇳 她是世界上最知名的气候活动家之一。\n- 🇸🇪 Klimataktivisten demonstrerade utanför riksdagen. — 🇨🇳 气候活动家在议会大厦外示威。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[klimatförändring]]（气候变化），aktivist（活动家）\n- 主题: [[topic-miljö-och-klimat]], [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：klimat（气候）+ aktivist（活动家）。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "klimataktivist — substantiv (en) 📖 中文：气候活动家 · English: climate activist 发音提示：/ˈklɪmaːtaktiˌvɪst/；复合词，重音在第一音节。 语法变形 (Forms) form böjning sing. obestämd en klimataktivist sing. bestämd klimataktivisten plur. obestämd klim",
+      "forms": [
+        "klimataktivist",
+        "klimataktivisten",
+        "klimataktivister",
+        "klimataktivisterna"
+      ],
+      "links": [
+        "klimatförändring",
+        "sent-greta-thunberg-är-en-känd-klimataktivist",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat",
+        "topic-personer"
+      ],
+      "searchText": "klimataktivist klimataktivist knowledge_base/words/klimataktivist.md ---\ntype: word\nlemma: \"klimataktivist\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"气候活动家\"\nen: \"climate activist\"\nsynonyms: []\nantonyms: []\nfamily: [klimat, aktivist, klimatförändring]\ntopics: [topic-miljö-och-klimat, topic-personer]\nsentences:\n  - sent-greta-thunberg-är-en-känd-klimataktivist\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# klimataktivist — substantiv (en)\n\n📖 中文：气候活动家 · English: climate activist\n发音提示：/ˈklɪmaːtaktiˌvɪst/；复合词，重音在第一音节。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en klimataktivist |\n| sing. bestämd | klimataktivisten |\n| plur. obestämd | klimataktivister |\n| plur. bestämd | klimataktivisterna |\n\n## 词组搭配 (Collocations)\n\n- `känd klimataktivist` — 著名的气候活动家\n- `ung klimataktivist` — 年轻的气候活动家\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-greta-thunberg-är-en-känd-klimataktivist]] Greta Thunberg är en känd klimataktivist från Sverige. — 🇨🇳 格蕾塔·通贝里是一位来自瑞典的著名气候活动家。\n- 🇸🇪 Hon är en av världens mest kända klimataktivister. — 🇨🇳 她是世界上最知名的气候活动家之一。\n- 🇸🇪 Klimataktivisten demonstrerade utanför riksdagen. — 🇨🇳 气候活动家在议会大厦外示威。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[klimatförändring]]（气候变化），aktivist（活动家）\n- 主题: [[topic-miljö-och-klimat]], [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：klimat（气候）+ aktivist（活动家）。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "klimataktivist",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "气候活动家",
+      "en": "climate activist",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-greta-thunberg-är-en-känd-klimataktivist"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat",
+        "topic-personer"
+      ],
+      "backlinks": [
+        "klimatförändring",
+        "sent-greta-thunberg-är-en-känd-klimataktivist",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat",
+        "topic-personer"
+      ]
+    },
+    {
+      "slug": "klimatförändring",
+      "type": "word",
+      "title": "klimatförändring",
+      "path": "knowledge_base/words/klimatförändring.md",
+      "body": "# klimatförändring — substantiv (en)\n\n📖 中文：气候变化 · English: climate change\n发音提示：/ˈklɪmaːtˌfœrˌɛndriŋ/；常用复数形式 klimatförändringarna。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en klimatförändring |\n| sing. bestämd | klimatförändringen |\n| plur. obestämd | klimatförändringar |\n| plur. bestämd | klimatförändringarna |\n\n⚠️ 文本中常用复数形式 `klimatförändringarna`（气候变化，带定冠词复数）。\n\n## 词组搭配 (Collocations)\n\n- `höra om klimatförändringarna` — 听说气候变化\n- `kämpa mot klimatförändringarna` — 对抗气候变化\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-när-greta-var-åtta-år-hörde-hon]] När Greta var åtta år hörde hon för första gången om klimatförändringarna. — 🇨🇳 格蕾塔八岁时第一次听说气候变化。\n- 🇸🇪 Klimatförändringarna påverkar hela världen. — 🇨🇳 气候变化影响着全世界。\n- 🇸🇪 Vi måste minska utsläppen för att stoppa klimatförändringarna. — 🇨🇳 我们必须减少排放以阻止气候变化。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[klimataktivist]]（气候活动家），förändring（变化）\n- 主题: [[topic-miljö-och-klimat]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：klimat（气候）+ förändring（变化）。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "klimatförändring — substantiv (en) 📖 中文：气候变化 · English: climate change 发音提示：/ˈklɪmaːtˌfœrˌɛndriŋ/；常用复数形式 klimatförändringarna。 语法变形 (Forms) form böjning sing. obestämd en klimatförändring sing. bestämd klimatförändringe",
+      "forms": [
+        "klimatförändring",
+        "klimatförändringen",
+        "klimatförändringar",
+        "klimatförändringarna"
+      ],
+      "links": [
+        "klimataktivist",
+        "sent-när-greta-var-åtta-år-hörde-hon",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat"
+      ],
+      "searchText": "klimatförändring klimatförändring knowledge_base/words/klimatförändring.md ---\ntype: word\nlemma: \"klimatförändring\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"气候变化\"\nen: \"climate change\"\nsynonyms: []\nantonyms: []\nfamily: [klimat, klimataktivist, förändring]\ntopics: [topic-miljö-och-klimat]\nsentences:\n  - sent-när-greta-var-åtta-år-hörde-hon\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# klimatförändring — substantiv (en)\n\n📖 中文：气候变化 · English: climate change\n发音提示：/ˈklɪmaːtˌfœrˌɛndriŋ/；常用复数形式 klimatförändringarna。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en klimatförändring |\n| sing. bestämd | klimatförändringen |\n| plur. obestämd | klimatförändringar |\n| plur. bestämd | klimatförändringarna |\n\n⚠️ 文本中常用复数形式 `klimatförändringarna`（气候变化，带定冠词复数）。\n\n## 词组搭配 (Collocations)\n\n- `höra om klimatförändringarna` — 听说气候变化\n- `kämpa mot klimatförändringarna` — 对抗气候变化\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-när-greta-var-åtta-år-hörde-hon]] När Greta var åtta år hörde hon för första gången om klimatförändringarna. — 🇨🇳 格蕾塔八岁时第一次听说气候变化。\n- 🇸🇪 Klimatförändringarna påverkar hela världen. — 🇨🇳 气候变化影响着全世界。\n- 🇸🇪 Vi måste minska utsläppen för att stoppa klimatförändringarna. — 🇨🇳 我们必须减少排放以阻止气候变化。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[klimataktivist]]（气候活动家），förändring（变化）\n- 主题: [[topic-miljö-och-klimat]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：klimat（气候）+ förändring（变化）。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "klimatförändring",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "气候变化",
+      "en": "climate change",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-när-greta-var-åtta-år-hörde-hon"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat"
+      ],
+      "backlinks": [
+        "klimataktivist",
+        "miljö",
+        "sent-när-greta-var-åtta-år-hörde-hon",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat"
       ]
     },
     {
@@ -50068,7 +51752,9 @@ window.KB_DATA = {
         "[[topic-karaktarsord]]"
       ],
       "backlinks": [
-        "förlåt"
+        "förlåt",
+        "sent-hon-blev-orolig-och-ledsen",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -50359,6 +52045,47 @@ window.KB_DATA = {
         "source-2026-06-09-rumsliga-relationer",
         "stå",
         "topic-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "lillasyster",
+      "type": "word",
+      "title": "lillasyster",
+      "path": "knowledge_base/words/lillasyster.md",
+      "body": "# lillasyster — substantiv (en)\n\n📖 中文：妹妹 · English: little sister, younger sister\n发音提示：/ˈlɪlaˌsʏstər/；lilla（小）+ syster（姐妹）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en lillasyster |\n| sing. bestämd | lillasystern |\n| plur. obestämd | lillasystrar |\n| plur. bestämd | lillasystrarna |\n\n## 词组搭配 (Collocations)\n\n- `ha en lillasyster` — 有一个妹妹\n- `min lillasyster` — 我的妹妹\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-greta-har-en-lillasyster-som-heter-beata]] Greta har en lillasyster som heter Beata. — 🇨🇳 格蕾塔有一个妹妹，叫贝娅塔。\n- 🇸🇪 Min lillasyster är fyra år yngre än jag. — 🇨🇳 我妹妹比我小四岁。\n- 🇸🇪 Lillasystern leker i parken. — 🇨🇳 妹妹在公园里玩。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[syster]]（姐/妹），lillebror（弟弟），storasyster（姐姐）\n- 反义词: storasyster（姐姐）\n- 主题: [[topic-familj-och-barn]], [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- `lillasyster` = 妹妹（年纪更小）；`storasyster` = 姐姐（年纪更大）。\n- 参见 [[syster]]（泛指姐妹）\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "lillasyster — substantiv (en) 📖 中文：妹妹 · English: little sister, younger sister 发音提示：/ˈlɪlaˌsʏstər/；lilla（小）+ syster（姐妹）。 语法变形 (Forms) form böjning sing. obestämd en lillasyster sing. bestämd lillasystern plur. obestämd ",
+      "forms": [
+        "lillasyster",
+        "lillasystern",
+        "lillasystrar",
+        "lillasystrarna"
+      ],
+      "links": [
+        "sent-greta-har-en-lillasyster-som-heter-beata",
+        "source-2026-06-22-greta-thunberg",
+        "syster",
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "searchText": "lillasyster lillasyster knowledge_base/words/lillasyster.md ---\ntype: word\nlemma: \"lillasyster\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"妹妹\"\nen: \"little sister, younger sister\"\nsynonyms: []\nantonyms: [storasyster]\nfamily: [syster, lilla, lillebror]\ntopics: [topic-familj-och-barn, topic-personer]\nsentences:\n  - sent-greta-har-en-lillasyster-som-heter-beata\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lillasyster — substantiv (en)\n\n📖 中文：妹妹 · English: little sister, younger sister\n发音提示：/ˈlɪlaˌsʏstər/；lilla（小）+ syster（姐妹）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en lillasyster |\n| sing. bestämd | lillasystern |\n| plur. obestämd | lillasystrar |\n| plur. bestämd | lillasystrarna |\n\n## 词组搭配 (Collocations)\n\n- `ha en lillasyster` — 有一个妹妹\n- `min lillasyster` — 我的妹妹\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-greta-har-en-lillasyster-som-heter-beata]] Greta har en lillasyster som heter Beata. — 🇨🇳 格蕾塔有一个妹妹，叫贝娅塔。\n- 🇸🇪 Min lillasyster är fyra år yngre än jag. — 🇨🇳 我妹妹比我小四岁。\n- 🇸🇪 Lillasystern leker i parken. — 🇨🇳 妹妹在公园里玩。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[syster]]（姐/妹），lillebror（弟弟），storasyster（姐姐）\n- 反义词: storasyster（姐姐）\n- 主题: [[topic-familj-och-barn]], [[topic-personer]]\n\n## 用法提示 (Usage Notes)\n\n- `lillasyster` = 妹妹（年纪更小）；`storasyster` = 姐姐（年纪更大）。\n- 参见 [[syster]]（泛指姐妹）\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "lillasyster",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "妹妹",
+      "en": "little sister, younger sister",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-greta-har-en-lillasyster-som-heter-beata"
+      ],
+      "topics": [
+        "topic-familj-och-barn",
+        "topic-personer"
+      ],
+      "backlinks": [
+        "sent-greta-har-en-lillasyster-som-heter-beata",
+        "source-2026-06-22-greta-thunberg",
+        "topic-personer"
       ]
     },
     {
@@ -51238,6 +52965,7 @@ window.KB_DATA = {
         "förälder",
         "mor",
         "pappa",
+        "sent-hennes-mamma-heter-malena-ernman-och-är",
         "topic-personer"
       ]
     },
@@ -51358,6 +53086,8 @@ window.KB_DATA = {
       "backlinks": [
         "person",
         "sent-då-samlas-många-människor",
+        "sent-hon-förstod-inte-varför-så-få-människor",
+        "sent-många-unga-människor-började-också-strejka",
         "topic-personer"
       ]
     },
@@ -51908,6 +53638,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "miljö",
+      "type": "word",
+      "title": "miljö",
+      "path": "knowledge_base/words/miljö.md",
+      "body": "# miljö — substantiv (en)\n\n📖 中文：环境 · English: environment\n发音提示：/mɪlˈjøː/；借自法语 milieu；ö 是前圆唇元音。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en miljö |\n| sing. bestämd | miljön |\n| plur. obestämd | miljöer |\n| plur. bestämd | miljöerna |\n\n## 词组搭配 (Collocations)\n\n- `kämpa för miljön` — 为环境而奋斗\n- `miljövänlig` — 环保的\n- `skydda miljön` — 保护环境\n- `röst för miljön` — 环保的声音\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-idag-är-hon-en-av-världens-mest-kända-röster]] Idag är hon en av världens mest kända röster för miljön. — 🇨🇳 今天她是世界上最有名的环保声音之一。\n- 🇸🇪 Vi måste skydda miljön för framtida generationer. — 🇨🇳 我们必须为子孙后代保护环境。\n- 🇸🇪 Föroreningar är ett stort problem för miljön. — 🇨🇳 污染是环境的一大问题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: miljöproblem（环境问题），miljövänlig（环保的），[[klimatförändring]]（气候变化）\n- 主题: [[topic-miljö-och-klimat]]\n\n## 用法提示 (Usage Notes)\n\n- `miljö` 即可指自然环境，也可指（学习/工作）环境；在气候语境下特指自然/生态环境。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "miljö — substantiv (en) 📖 中文：环境 · English: environment 发音提示：/mɪlˈjøː/；借自法语 milieu；ö 是前圆唇元音。 语法变形 (Forms) form böjning sing. obestämd en miljö sing. bestämd miljön plur. obestämd miljöer plur. bestämd miljöerna 词组搭配 (Col",
+      "forms": [
+        "miljö",
+        "miljön",
+        "miljöer",
+        "miljöerna"
+      ],
+      "links": [
+        "klimatförändring",
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat"
+      ],
+      "searchText": "miljö miljö knowledge_base/words/miljö.md ---\ntype: word\nlemma: \"miljö\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"环境\"\nen: \"environment\"\nsynonyms: []\nantonyms: []\nfamily: [miljöproblem, miljövänlig, klimat]\ntopics: [topic-miljö-och-klimat]\nsentences:\n  - sent-idag-är-hon-en-av-världens-mest-kända-röster\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# miljö — substantiv (en)\n\n📖 中文：环境 · English: environment\n发音提示：/mɪlˈjøː/；借自法语 milieu；ö 是前圆唇元音。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en miljö |\n| sing. bestämd | miljön |\n| plur. obestämd | miljöer |\n| plur. bestämd | miljöerna |\n\n## 词组搭配 (Collocations)\n\n- `kämpa för miljön` — 为环境而奋斗\n- `miljövänlig` — 环保的\n- `skydda miljön` — 保护环境\n- `röst för miljön` — 环保的声音\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-idag-är-hon-en-av-världens-mest-kända-röster]] Idag är hon en av världens mest kända röster för miljön. — 🇨🇳 今天她是世界上最有名的环保声音之一。\n- 🇸🇪 Vi måste skydda miljön för framtida generationer. — 🇨🇳 我们必须为子孙后代保护环境。\n- 🇸🇪 Föroreningar är ett stort problem för miljön. — 🇨🇳 污染是环境的一大问题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: miljöproblem（环境问题），miljövänlig（环保的），[[klimatförändring]]（气候变化）\n- 主题: [[topic-miljö-och-klimat]]\n\n## 用法提示 (Usage Notes)\n\n- `miljö` 即可指自然环境，也可指（学习/工作）环境；在气候语境下特指自然/生态环境。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "miljö",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "环境",
+      "en": "environment",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat"
+      ],
+      "backlinks": [
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat"
+      ]
+    },
+    {
       "slug": "minnas",
       "type": "word",
       "title": "minnas",
@@ -51944,6 +53713,49 @@ window.KB_DATA = {
         "glömma",
         "index",
         "source-2026-06-02-astrid-lindgren"
+      ]
+    },
+    {
+      "slug": "minska",
+      "type": "word",
+      "title": "minska",
+      "path": "knowledge_base/words/minska.md",
+      "body": "# minska — verb (v.1)\n\n📖 中文：减少 · English: reduce, decrease, diminish\n发音提示：/ˈmɪnska/；v.1 动词（-ar 结尾）。\n\n## 语法变形 (Forms)\n\n| tempus | form |\n|--------|------|\n| infinitiv | minska |\n| presens | minskar |\n| preteritum | minskade |\n| supinum | minskat |\n| imperativ | minska |\n\n既可用作及物动词（减少某物）也可用作不及物动词（减少了）。\n\n## 词组搭配 (Collocations)\n\n- `minska utsläppen` — 减少排放\n- `minska risken` — 降低风险\n- `antalet minskar` — 数量减少了\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hon-ville-att-politikerna-skulle-lyssna]] Hon ville att politikerna skulle lyssna och minska utsläppen. — 🇨🇳 她想让政治家们倾听，并减少排放。\n- 🇸🇪 Temperaturen minskade snabbt. — 🇨🇳 温度迅速下降。\n- 🇸🇪 Vi måste minska vårt koldioxidavtryck. — 🇨🇳 我们必须减少我们的碳足迹。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: minskning（减少，名词），liten（小的）\n- 同义词: reducera（减少）\n- 反义词: [[öka]]（增加）\n- 主题: [[topic-miljö-och-klimat]]\n\n## 用法提示 (Usage Notes)\n\n- 及物用法：`minska ngt`（减少某物）；不及物用法：`ngt minskar`（某物减少）。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "minska — verb (v.1) 📖 中文：减少 · English: reduce, decrease, diminish 发音提示：/ˈmɪnska/；v.1 动词（ ar 结尾）。 语法变形 (Forms) tempus form infinitiv minska presens minskar preteritum minskade supinum minskat imperativ minska 既可用作及物动词（减少",
+      "forms": [
+        "minska",
+        "minskar",
+        "minskade",
+        "minskat"
+      ],
+      "links": [
+        "öka",
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat"
+      ],
+      "searchText": "minska minska knowledge_base/words/minska.md ---\ntype: word\nlemma: \"minska\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"减少\"\nen: \"reduce, decrease, diminish\"\nsynonyms: [reducera]\nantonyms: [öka]\nfamily: [minskning, liten]\ntopics: [topic-miljö-och-klimat]\nsentences:\n  - sent-hon-ville-att-politikerna-skulle-lyssna\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# minska — verb (v.1)\n\n📖 中文：减少 · English: reduce, decrease, diminish\n发音提示：/ˈmɪnska/；v.1 动词（-ar 结尾）。\n\n## 语法变形 (Forms)\n\n| tempus | form |\n|--------|------|\n| infinitiv | minska |\n| presens | minskar |\n| preteritum | minskade |\n| supinum | minskat |\n| imperativ | minska |\n\n既可用作及物动词（减少某物）也可用作不及物动词（减少了）。\n\n## 词组搭配 (Collocations)\n\n- `minska utsläppen` — 减少排放\n- `minska risken` — 降低风险\n- `antalet minskar` — 数量减少了\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hon-ville-att-politikerna-skulle-lyssna]] Hon ville att politikerna skulle lyssna och minska utsläppen. — 🇨🇳 她想让政治家们倾听，并减少排放。\n- 🇸🇪 Temperaturen minskade snabbt. — 🇨🇳 温度迅速下降。\n- 🇸🇪 Vi måste minska vårt koldioxidavtryck. — 🇨🇳 我们必须减少我们的碳足迹。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: minskning（减少，名词），liten（小的）\n- 同义词: reducera（减少）\n- 反义词: [[öka]]（增加）\n- 主题: [[topic-miljö-och-klimat]]\n\n## 用法提示 (Usage Notes)\n\n- 及物用法：`minska ngt`（减少某物）；不及物用法：`ngt minskar`（某物减少）。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "minska",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "减少",
+      "en": "reduce, decrease, diminish",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-hon-ville-att-politikerna-skulle-lyssna"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat"
+      ],
+      "backlinks": [
+        "halvera",
+        "öka",
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat",
+        "topic-samhälle-och-politik",
+        "växa"
       ]
     },
     {
@@ -53949,6 +55761,7 @@ window.KB_DATA = {
       "backlinks": [
         "halvera",
         "höja",
+        "minska",
         "sent-den-totala-tiden-personer-ar-pa-akuten",
         "sent-forra-aret-okade-besoken-till-akuten",
         "source-2026-06-17-listening-svt-latt",
@@ -54136,6 +55949,44 @@ window.KB_DATA = {
         "mogna",
         "source-2026-06-18-nyheter-8sidor",
         "source-2026-06-19-nyheter-8sidor"
+      ]
+    },
+    {
+      "slug": "operasångare",
+      "type": "word",
+      "title": "operasångare",
+      "path": "knowledge_base/words/operasångare.md",
+      "body": "# operasångare — substantiv (en)\n\n📖 中文：歌剧演唱家 · English: opera singer\n发音提示：/ˌɔpəraˈsɔŋarə/；复合词，重音在 -sång-。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en operasångare |\n| sing. bestämd | operasångaren |\n| plur. obestämd | operasångare（不变）|\n| plur. bestämd | operasångarna |\n\n⚠️ 以 -are 结尾的名词，单复数形式相同（obestämd）。\n\n## 词组搭配 (Collocations)\n\n- `är operasångare` — 是歌剧演唱家（无冠词，表示职业）\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hennes-mamma-heter-malena-ernman-och-är]] Hennes mamma heter Malena Ernman och är operasångare. — 🇨🇳 她妈妈叫玛莱娜·埃恩曼，是一位歌剧演唱家。\n- 🇸🇪 Hon är en känd operasångare i Sverige. — 🇨🇳 她是瑞典的一位著名歌剧演唱家。\n- 🇸🇪 Operasångaren sjöng på Kungliga Operan. — 🇨🇳 歌剧演唱家在皇家歌剧院演唱。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: opera（歌剧），sångare（歌手），sjunga（唱歌）\n- 主题: [[topic-yrken]]\n\n## 用法提示 (Usage Notes)\n\n- 职业名词后不加冠词：`Hon är operasångare`（不说 `en operasångare`）当作表语时。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "operasångare — substantiv (en) 📖 中文：歌剧演唱家 · English: opera singer 发音提示：/ˌɔpəraˈsɔŋarə/；复合词，重音在 sång 。 语法变形 (Forms) form böjning sing. obestämd en operasångare sing. bestämd operasångaren plur. obestämd operasångare（不变） ",
+      "forms": [
+        "operasångare",
+        "operasångaren",
+        "operasångare（不变）",
+        "operasångarna"
+      ],
+      "links": [
+        "sent-hennes-mamma-heter-malena-ernman-och-är",
+        "source-2026-06-22-greta-thunberg",
+        "topic-yrken"
+      ],
+      "searchText": "operasångare operasångare knowledge_base/words/operasångare.md ---\ntype: word\nlemma: \"operasångare\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"歌剧演唱家\"\nen: \"opera singer\"\nsynonyms: []\nantonyms: []\nfamily: [opera, sångare, sjunga]\ntopics: [topic-yrken]\nsentences:\n  - sent-hennes-mamma-heter-malena-ernman-och-är\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# operasångare — substantiv (en)\n\n📖 中文：歌剧演唱家 · English: opera singer\n发音提示：/ˌɔpəraˈsɔŋarə/；复合词，重音在 -sång-。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en operasångare |\n| sing. bestämd | operasångaren |\n| plur. obestämd | operasångare（不变）|\n| plur. bestämd | operasångarna |\n\n⚠️ 以 -are 结尾的名词，单复数形式相同（obestämd）。\n\n## 词组搭配 (Collocations)\n\n- `är operasångare` — 是歌剧演唱家（无冠词，表示职业）\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hennes-mamma-heter-malena-ernman-och-är]] Hennes mamma heter Malena Ernman och är operasångare. — 🇨🇳 她妈妈叫玛莱娜·埃恩曼，是一位歌剧演唱家。\n- 🇸🇪 Hon är en känd operasångare i Sverige. — 🇨🇳 她是瑞典的一位著名歌剧演唱家。\n- 🇸🇪 Operasångaren sjöng på Kungliga Operan. — 🇨🇳 歌剧演唱家在皇家歌剧院演唱。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: opera（歌剧），sångare（歌手），sjunga（唱歌）\n- 主题: [[topic-yrken]]\n\n## 用法提示 (Usage Notes)\n\n- 职业名词后不加冠词：`Hon är operasångare`（不说 `en operasångare`）当作表语时。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "operasångare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "歌剧演唱家",
+      "en": "opera singer",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-hennes-mamma-heter-malena-ernman-och-är"
+      ],
+      "topics": [
+        "topic-yrken"
+      ],
+      "backlinks": [
+        "sent-hennes-mamma-heter-malena-ernman-och-är",
+        "source-2026-06-22-greta-thunberg",
+        "topic-personer"
       ]
     },
     {
@@ -54408,9 +56259,11 @@ window.KB_DATA = {
         "oro",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "sent-det-har-varit-oroligt-kring-norges-kungahus",
+        "sent-hon-blev-orolig-och-ledsen",
         "sent-plotsligt-kande-jag-mig-valdigt-orolig",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-09-en-handelse-i-tidsordning",
+        "source-2026-06-22-greta-thunberg",
         "topic-karaktarsord",
         "topic-vardagsrutin"
       ]
@@ -54856,6 +56709,7 @@ window.KB_DATA = {
         "far",
         "förälder",
         "mamma",
+        "sent-hennes-pappa-heter-svante-och-är-skådespelare",
         "topic-personer"
       ]
     },
@@ -55718,6 +57572,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "politiker",
+      "type": "word",
+      "title": "politiker",
+      "path": "knowledge_base/words/politiker.md",
+      "body": "# politiker — substantiv (en)\n\n📖 中文：政治家 · English: politician\n发音提示：/pɔˈlɪːtɪkər/；复数形式同原形（以 -er 结尾）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en politiker |\n| sing. bestämd | politikern |\n| plur. obestämd | politiker（不变）|\n| plur. bestämd | politikerna |\n\n## 词组搭配 (Collocations)\n\n- `politikerna skulle lyssna` — 政治家们应该倾听\n- `känd politiker` — 著名政治家\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hon-ville-att-politikerna-skulle-lyssna]] Hon ville att politikerna skulle lyssna och minska utsläppen. — 🇨🇳 她想让政治家们倾听，并减少排放。\n- 🇸🇪 Politikerna debatterar om klimatpolitiken. — 🇨🇳 政治家们在辩论气候政策。\n- 🇸🇪 Många unga vill bli politiker. — 🇨🇳 许多年轻人想成为政治家。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: politik（政治），politisk（政治的）\n- 主题: [[topic-samhälle-och-politik]], [[topic-yrken]]\n\n## 用法提示 (Usage Notes)\n\n- 以 -er 结尾，单复数形式相同（obestämd）。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "politiker — substantiv (en) 📖 中文：政治家 · English: politician 发音提示：/pɔˈlɪːtɪkər/；复数形式同原形（以 er 结尾）。 语法变形 (Forms) form böjning sing. obestämd en politiker sing. bestämd politikern plur. obestämd politiker（不变） plur. bestämd p",
+      "forms": [
+        "politiker",
+        "politikern",
+        "politiker（不变）",
+        "politikerna"
+      ],
+      "links": [
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
+        "source-2026-06-22-greta-thunberg",
+        "topic-samhälle-och-politik",
+        "topic-yrken"
+      ],
+      "searchText": "politiker politiker knowledge_base/words/politiker.md ---\ntype: word\nlemma: \"politiker\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"政治家\"\nen: \"politician\"\nsynonyms: []\nantonyms: []\nfamily: [politik, politisk]\ntopics: [topic-samhälle-och-politik, topic-yrken]\nsentences:\n  - sent-hon-ville-att-politikerna-skulle-lyssna\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# politiker — substantiv (en)\n\n📖 中文：政治家 · English: politician\n发音提示：/pɔˈlɪːtɪkər/；复数形式同原形（以 -er 结尾）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en politiker |\n| sing. bestämd | politikern |\n| plur. obestämd | politiker（不变）|\n| plur. bestämd | politikerna |\n\n## 词组搭配 (Collocations)\n\n- `politikerna skulle lyssna` — 政治家们应该倾听\n- `känd politiker` — 著名政治家\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hon-ville-att-politikerna-skulle-lyssna]] Hon ville att politikerna skulle lyssna och minska utsläppen. — 🇨🇳 她想让政治家们倾听，并减少排放。\n- 🇸🇪 Politikerna debatterar om klimatpolitiken. — 🇨🇳 政治家们在辩论气候政策。\n- 🇸🇪 Många unga vill bli politiker. — 🇨🇳 许多年轻人想成为政治家。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: politik（政治），politisk（政治的）\n- 主题: [[topic-samhälle-och-politik]], [[topic-yrken]]\n\n## 用法提示 (Usage Notes)\n\n- 以 -er 结尾，单复数形式相同（obestämd）。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "politiker",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "政治家",
+      "en": "politician",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-hon-ville-att-politikerna-skulle-lyssna"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-yrken"
+      ],
+      "backlinks": [
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
+        "source-2026-06-22-greta-thunberg",
+        "topic-samhälle-och-politik"
+      ]
+    },
+    {
       "slug": "populär",
       "type": "word",
       "title": "populär",
@@ -55946,9 +57840,11 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "extrapris",
+        "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
         "sent-i-år-kan-en-liter-svenska",
         "sent-när-det-finns-färre-jordgubbar",
-        "source-2026-06-18-nyheter-8sidor"
+        "source-2026-06-18-nyheter-8sidor",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -56906,6 +58802,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "riksdag",
+      "type": "word",
+      "title": "riksdag",
+      "path": "knowledge_base/words/riksdag.md",
+      "body": "# riksdag — substantiv (en)\n\n📖 中文：国会，议会 · English: parliament (Swedish parliament)\n发音提示：/ˈrɪksˌdaːɡ/；rike（王国）+ dag（大会/集会）的复合词。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en riksdag |\n| sing. bestämd | riksdagen |\n| plur. obestämd | riksdagar |\n| plur. bestämd | riksdagarna |\n\n⚠️ 专用于瑞典议会时通常不加冠词或特指：`riksdagen` = 瑞典国会（专有名词化）。\n\n## 词组搭配 (Collocations)\n\n- `utanför riksdagen` — 在国会外\n- `riksdagen röstade` — 议会投票\n- `ledamot i riksdagen` — 议会成员\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-i-stället-satte-hon-sig-utanför-riksdagen]] I stället satte hon sig utanför riksdagen i Stockholm. — 🇨🇳 她反而坐在斯德哥尔摩的国会大楼外。\n- 🇸🇪 Riksdagen bestämmer om nya lagar i Sverige. — 🇨🇳 瑞典国会决定新法律。\n- 🇸🇪 Det finns 349 ledamöter i riksdagen. — 🇨🇳 瑞典国会有349名议员。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: riksdagsledamot（议员），riksdagsman（男议员）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- `Riksdagen` 特指瑞典国会，位于斯德哥尔摩。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "riksdag — substantiv (en) 📖 中文：国会，议会 · English: parliament (Swedish parliament) 发音提示：/ˈrɪksˌdaːɡ/；rike（王国）+ dag（大会/集会）的复合词。 语法变形 (Forms) form böjning sing. obestämd en riksdag sing. bestämd riksdagen plur. obestämd riks",
+      "forms": [
+        "riksdag",
+        "riksdagen",
+        "riksdagar",
+        "riksdagarna"
+      ],
+      "links": [
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen",
+        "source-2026-06-22-greta-thunberg",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "riksdag riksdag knowledge_base/words/riksdag.md ---\ntype: word\nlemma: \"riksdag\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"国会，议会\"\nen: \"parliament (Swedish parliament)\"\nsynonyms: []\nantonyms: []\nfamily: [riksdagsledamot, riksdagsman]\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-i-stället-satte-hon-sig-utanför-riksdagen\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# riksdag — substantiv (en)\n\n📖 中文：国会，议会 · English: parliament (Swedish parliament)\n发音提示：/ˈrɪksˌdaːɡ/；rike（王国）+ dag（大会/集会）的复合词。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en riksdag |\n| sing. bestämd | riksdagen |\n| plur. obestämd | riksdagar |\n| plur. bestämd | riksdagarna |\n\n⚠️ 专用于瑞典议会时通常不加冠词或特指：`riksdagen` = 瑞典国会（专有名词化）。\n\n## 词组搭配 (Collocations)\n\n- `utanför riksdagen` — 在国会外\n- `riksdagen röstade` — 议会投票\n- `ledamot i riksdagen` — 议会成员\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-i-stället-satte-hon-sig-utanför-riksdagen]] I stället satte hon sig utanför riksdagen i Stockholm. — 🇨🇳 她反而坐在斯德哥尔摩的国会大楼外。\n- 🇸🇪 Riksdagen bestämmer om nya lagar i Sverige. — 🇨🇳 瑞典国会决定新法律。\n- 🇸🇪 Det finns 349 ledamöter i riksdagen. — 🇨🇳 瑞典国会有349名议员。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: riksdagsledamot（议员），riksdagsman（男议员）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- `Riksdagen` 特指瑞典国会，位于斯德哥尔摩。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "riksdag",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "国会，议会",
+      "en": "parliament (Swedish parliament)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-i-stället-satte-hon-sig-utanför-riksdagen",
+        "source-2026-06-22-greta-thunberg",
+        "topic-samhälle-och-politik"
+      ]
+    },
+    {
       "slug": "riktigt",
       "type": "word",
       "title": "riktigt",
@@ -57310,7 +59244,9 @@ window.KB_DATA = {
       "backlinks": [
         "full-av-liv",
         "sent-ar-en-vanlig-dag-pa-storgatan-full-av-liv",
+        "sent-rörelsen-fick-namnet-fridays-for-future",
         "source-2026-06-09-beskriva-en-gata",
+        "source-2026-06-22-greta-thunberg",
         "topic-stadsmiljo"
       ]
     },
@@ -57346,7 +59282,9 @@ window.KB_DATA = {
       "backlinks": [
         "rösta",
         "sent-filmen-är-gjord-i-dator",
+        "sent-idag-är-hon-en-av-världens-mest-kända-röster",
         "source-2026-06-18-nyheter-8sidor",
+        "source-2026-06-22-greta-thunberg",
         "topic-film"
       ]
     },
@@ -58228,6 +60166,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "segelbåt",
+      "type": "word",
+      "title": "segelbåt",
+      "path": "knowledge_base/words/segelbåt.md",
+      "body": "# segelbåt — substantiv (en)\n\n📖 中文：帆船 · English: sailboat, sailing boat\n发音提示：/ˈseːɡəlˌboːt/；segel（帆）+ båt（船）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en segelbåt |\n| sing. bestämd | segelbåten |\n| plur. obestämd | segelbåtar |\n| plur. bestämd | segelbåtarna |\n\n## 词组搭配 (Collocations)\n\n- `åka med en segelbåt` — 乘坐帆船\n- `segla med en segelbåt` — 驾驶帆船航行\n- `segelbåt över Atlanten` — 横渡大西洋的帆船\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-år-2019-åkte-hon-med-en-segelbåt]] År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga. — 🇨🇳 2019年她乘帆船横渡大西洋去了美国，因为她不想坐飞机。\n- 🇸🇪 Vi hyrde en segelbåt och seglade längs kusten. — 🇨🇳 我们租了一艘帆船，沿着海岸航行。\n- 🇸🇪 Segelbåten klarade den långa resan. — 🇨🇳 帆船完成了这段漫长的航行。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: segla（航行），båt（船），segel（帆）\n- 主题: [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- Greta 2019年乘帆船横渡大西洋，以示不乘飞机的气候立场。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "segelbåt — substantiv (en) 📖 中文：帆船 · English: sailboat, sailing boat 发音提示：/ˈseːɡəlˌboːt/；segel（帆）+ båt（船）。 语法变形 (Forms) form böjning sing. obestämd en segelbåt sing. bestämd segelbåten plur. obestämd segelbåtar plur. be",
+      "forms": [
+        "segelbåt",
+        "segelbåten",
+        "segelbåtar",
+        "segelbåtarna"
+      ],
+      "links": [
+        "sent-år-2019-åkte-hon-med-en-segelbåt",
+        "source-2026-06-22-greta-thunberg",
+        "topic-fritid-och-resor"
+      ],
+      "searchText": "segelbåt segelbåt knowledge_base/words/segelbåt.md ---\ntype: word\nlemma: \"segelbåt\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"帆船\"\nen: \"sailboat, sailing boat\"\nsynonyms: []\nantonyms: []\nfamily: [segla, båt, segel]\ntopics: [topic-fritid-och-resor]\nsentences:\n  - sent-år-2019-åkte-hon-med-en-segelbåt\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# segelbåt — substantiv (en)\n\n📖 中文：帆船 · English: sailboat, sailing boat\n发音提示：/ˈseːɡəlˌboːt/；segel（帆）+ båt（船）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en segelbåt |\n| sing. bestämd | segelbåten |\n| plur. obestämd | segelbåtar |\n| plur. bestämd | segelbåtarna |\n\n## 词组搭配 (Collocations)\n\n- `åka med en segelbåt` — 乘坐帆船\n- `segla med en segelbåt` — 驾驶帆船航行\n- `segelbåt över Atlanten` — 横渡大西洋的帆船\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-år-2019-åkte-hon-med-en-segelbåt]] År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga. — 🇨🇳 2019年她乘帆船横渡大西洋去了美国，因为她不想坐飞机。\n- 🇸🇪 Vi hyrde en segelbåt och seglade längs kusten. — 🇨🇳 我们租了一艘帆船，沿着海岸航行。\n- 🇸🇪 Segelbåten klarade den långa resan. — 🇨🇳 帆船完成了这段漫长的航行。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: segla（航行），båt（船），segel（帆）\n- 主题: [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- Greta 2019年乘帆船横渡大西洋，以示不乘飞机的气候立场。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "segelbåt",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "帆船",
+      "en": "sailboat, sailing boat",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-år-2019-åkte-hon-med-en-segelbåt"
+      ],
+      "topics": [
+        "topic-fritid-och-resor"
+      ],
+      "backlinks": [
+        "sent-år-2019-åkte-hon-med-en-segelbåt",
+        "source-2026-06-22-greta-thunberg"
+      ]
+    },
+    {
       "slug": "sekreterare",
       "type": "word",
       "title": "sekreterare",
@@ -58655,6 +60630,44 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "skådespelare",
+      "type": "word",
+      "title": "skådespelare",
+      "path": "knowledge_base/words/skådespelare.md",
+      "body": "# skådespelare — substantiv (en)\n\n📖 中文：演员 · English: actor, actress\n发音提示：/ˈskɔːdəˌspɛːlarə/；复合词 skåde（观看/舞台）+ spelare（演奏者）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en skådespelare |\n| sing. bestämd | skådespelaren |\n| plur. obestämd | skådespelare（不变）|\n| plur. bestämd | skådespelarna |\n\n⚠️ 以 -are 结尾，单复数形式相同（obestämd）。无男女区分，适用于所有性别。\n\n## 词组搭配 (Collocations)\n\n- `är skådespelare` — 是演员（无冠词表职业）\n- `känd skådespelare` — 著名演员\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hennes-pappa-heter-svante-och-är-skådespelare]] Hennes pappa heter Svante och är skådespelare. — 🇨🇳 她爸爸叫斯万特，是一位演员。\n- 🇸🇪 Han är en känd skådespelare i Sverige. — 🇨🇳 他是瑞典的一位著名演员。\n- 🇸🇪 Skådespelarna spelade pjäsen perfekt. — 🇨🇳 演员们完美地演出了这出戏。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: skådespel（戏剧）, spela（玩/表演）\n- 主题: [[topic-yrken]]\n\n## 用法提示 (Usage Notes)\n\n- 性别中立词，适用于所有性别的演员。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "skådespelare — substantiv (en) 📖 中文：演员 · English: actor, actress 发音提示：/ˈskɔːdəˌspɛːlarə/；复合词 skåde（观看/舞台）+ spelare（演奏者）。 语法变形 (Forms) form böjning sing. obestämd en skådespelare sing. bestämd skådespelaren plur. obestäm",
+      "forms": [
+        "skådespelare",
+        "skådespelaren",
+        "skådespelare（不变）",
+        "skådespelarna"
+      ],
+      "links": [
+        "sent-hennes-pappa-heter-svante-och-är-skådespelare",
+        "source-2026-06-22-greta-thunberg",
+        "topic-yrken"
+      ],
+      "searchText": "skådespelare skådespelare knowledge_base/words/skådespelare.md ---\ntype: word\nlemma: \"skådespelare\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"演员\"\nen: \"actor, actress\"\nsynonyms: []\nantonyms: []\nfamily: [skådespel, spela, teater]\ntopics: [topic-yrken]\nsentences:\n  - sent-hennes-pappa-heter-svante-och-är-skådespelare\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skådespelare — substantiv (en)\n\n📖 中文：演员 · English: actor, actress\n发音提示：/ˈskɔːdəˌspɛːlarə/；复合词 skåde（观看/舞台）+ spelare（演奏者）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en skådespelare |\n| sing. bestämd | skådespelaren |\n| plur. obestämd | skådespelare（不变）|\n| plur. bestämd | skådespelarna |\n\n⚠️ 以 -are 结尾，单复数形式相同（obestämd）。无男女区分，适用于所有性别。\n\n## 词组搭配 (Collocations)\n\n- `är skådespelare` — 是演员（无冠词表职业）\n- `känd skådespelare` — 著名演员\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hennes-pappa-heter-svante-och-är-skådespelare]] Hennes pappa heter Svante och är skådespelare. — 🇨🇳 她爸爸叫斯万特，是一位演员。\n- 🇸🇪 Han är en känd skådespelare i Sverige. — 🇨🇳 他是瑞典的一位著名演员。\n- 🇸🇪 Skådespelarna spelade pjäsen perfekt. — 🇨🇳 演员们完美地演出了这出戏。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: skådespel（戏剧）, spela（玩/表演）\n- 主题: [[topic-yrken]]\n\n## 用法提示 (Usage Notes)\n\n- 性别中立词，适用于所有性别的演员。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "skådespelare",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "演员",
+      "en": "actor, actress",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-hennes-pappa-heter-svante-och-är-skådespelare"
+      ],
+      "topics": [
+        "topic-yrken"
+      ],
+      "backlinks": [
+        "sent-hennes-pappa-heter-svante-och-är-skådespelare",
+        "source-2026-06-22-greta-thunberg",
+        "topic-personer"
+      ]
+    },
+    {
       "slug": "skaffa",
       "type": "word",
       "title": "skaffa",
@@ -58989,6 +61002,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "skog",
+      "type": "word",
+      "title": "skog",
+      "path": "knowledge_base/words/skog.md",
+      "body": "# skog — substantiv (en)\n\n📖 中文：森林 · English: forest, wood\n发音提示：/skuːɡ/；单音节，长元音。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en skog |\n| sing. bestämd | skogen |\n| plur. obestämd | skogar |\n| plur. bestämd | skogarna |\n\n## 词组搭配 (Collocations)\n\n- `det brann i skogarna` — 森林失火\n- `plocka svamp i skogen` — 在森林里采蘑菇\n- `vandra i skogen` — 在森林里远足\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-sommaren-2018-var-mycket-varm-i-sverige]] Sommaren 2018 var mycket varm i Sverige och det brann i många skogar. — 🇨🇳 2018年的夏天瑞典非常炎热，很多森林着了火。\n- 🇸🇪 I Sverige finns det mycket skog. — 🇨🇳 瑞典有很多森林。\n- 🇸🇪 Vi vandrade i skogen hela dagen. — 🇨🇳 我们在森林里走了一整天。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: skogsbruk（林业），skogsbrand（森林火灾）\n- 主题: [[topic-miljö-och-klimat]], [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- `skog` 既可指大森林也可指小树林。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "skog — substantiv (en) 📖 中文：森林 · English: forest, wood 发音提示：/skuːɡ/；单音节，长元音。 语法变形 (Forms) form böjning sing. obestämd en skog sing. bestämd skogen plur. obestämd skogar plur. bestämd skogarna 词组搭配 (Collocations) det bra",
+      "forms": [
+        "skog",
+        "skogen",
+        "skogar",
+        "skogarna"
+      ],
+      "links": [
+        "sent-sommaren-2018-var-mycket-varm-i-sverige",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat",
+        "topic-vader-och-arstider"
+      ],
+      "searchText": "skog skog knowledge_base/words/skog.md ---\ntype: word\nlemma: \"skog\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"森林\"\nen: \"forest, wood\"\nsynonyms: []\nantonyms: []\nfamily: [skogsbruk, skogsbrand]\ntopics: [topic-miljö-och-klimat, topic-vader-och-arstider]\nsentences:\n  - sent-sommaren-2018-var-mycket-varm-i-sverige\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skog — substantiv (en)\n\n📖 中文：森林 · English: forest, wood\n发音提示：/skuːɡ/；单音节，长元音。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en skog |\n| sing. bestämd | skogen |\n| plur. obestämd | skogar |\n| plur. bestämd | skogarna |\n\n## 词组搭配 (Collocations)\n\n- `det brann i skogarna` — 森林失火\n- `plocka svamp i skogen` — 在森林里采蘑菇\n- `vandra i skogen` — 在森林里远足\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-sommaren-2018-var-mycket-varm-i-sverige]] Sommaren 2018 var mycket varm i Sverige och det brann i många skogar. — 🇨🇳 2018年的夏天瑞典非常炎热，很多森林着了火。\n- 🇸🇪 I Sverige finns det mycket skog. — 🇨🇳 瑞典有很多森林。\n- 🇸🇪 Vi vandrade i skogen hela dagen. — 🇨🇳 我们在森林里走了一整天。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: skogsbruk（林业），skogsbrand（森林火灾）\n- 主题: [[topic-miljö-och-klimat]], [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- `skog` 既可指大森林也可指小树林。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "skog",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "森林",
+      "en": "forest, wood",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-sommaren-2018-var-mycket-varm-i-sverige"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat",
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "sent-sommaren-2018-var-mycket-varm-i-sverige",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat"
+      ]
+    },
+    {
       "slug": "skola",
       "type": "word",
       "title": "skola",
@@ -59023,7 +61076,9 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "grundskola",
+        "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
         "skolavslutning",
+        "skolstrejk",
         "source-2026-06-02-valj-ratt-form",
         "universitet"
       ]
@@ -59109,6 +61164,49 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "skolstrejk",
+      "type": "word",
+      "title": "skolstrejk",
+      "path": "knowledge_base/words/skolstrejk.md",
+      "body": "# skolstrejk — substantiv (en)\n\n📖 中文：罢课 · English: school strike\n发音提示：/ˈskuːlˌstrɛjk/；复合词 skola + strejk。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en skolstrejk |\n| sing. bestämd | skolstrejken |\n| plur. obestämd | skolstrejker |\n| plur. bestämd | skolstrejkerna |\n\n## 词组搭配 (Collocations)\n\n- `Skolstrejk för klimatet` — 为气候罢课（Greta Thunberg 运动口号）\n- `delta i en skolstrejk` — 参加罢课\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hon-hade-en-skylt-med-texten-skolstrejk]] Hon hade en skylt med texten \"Skolstrejk för klimatet\". — 🇨🇳 她举着一块牌子，上面写着\"为气候罢课\"。\n- 🇸🇪 Tusentals elever deltog i skolstrejken. — 🇨🇳 数千名学生参加了罢课。\n- 🇸🇪 Skolstrejken inspirerade ungdomar i hela världen. — 🇨🇳 这场罢课运动激励了全世界的年轻人。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skola]]（学校），[[strejka]]（罢工/罢课），strejk（罢工）\n- 主题: [[topic-miljö-och-klimat]], [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- 与 Greta Thunberg 的\"Fridays for Future\"运动密切相关。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "skolstrejk — substantiv (en) 📖 中文：罢课 · English: school strike 发音提示：/ˈskuːlˌstrɛjk/；复合词 skola + strejk。 语法变形 (Forms) form böjning sing. obestämd en skolstrejk sing. bestämd skolstrejken plur. obestämd skolstrejker plur. ",
+      "forms": [
+        "skolstrejk",
+        "skolstrejken",
+        "skolstrejker",
+        "skolstrejkerna"
+      ],
+      "links": [
+        "sent-hon-hade-en-skylt-med-texten-skolstrejk",
+        "skola",
+        "source-2026-06-22-greta-thunberg",
+        "strejka",
+        "topic-miljö-och-klimat",
+        "topic-skola-och-utbildning"
+      ],
+      "searchText": "skolstrejk skolstrejk knowledge_base/words/skolstrejk.md ---\ntype: word\nlemma: \"skolstrejk\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"罢课\"\nen: \"school strike\"\nsynonyms: []\nantonyms: []\nfamily: [skola, strejka, strejk]\ntopics: [topic-miljö-och-klimat, topic-skola-och-utbildning]\nsentences:\n  - sent-hon-hade-en-skylt-med-texten-skolstrejk\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skolstrejk — substantiv (en)\n\n📖 中文：罢课 · English: school strike\n发音提示：/ˈskuːlˌstrɛjk/；复合词 skola + strejk。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en skolstrejk |\n| sing. bestämd | skolstrejken |\n| plur. obestämd | skolstrejker |\n| plur. bestämd | skolstrejkerna |\n\n## 词组搭配 (Collocations)\n\n- `Skolstrejk för klimatet` — 为气候罢课（Greta Thunberg 运动口号）\n- `delta i en skolstrejk` — 参加罢课\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hon-hade-en-skylt-med-texten-skolstrejk]] Hon hade en skylt med texten \"Skolstrejk för klimatet\". — 🇨🇳 她举着一块牌子，上面写着\"为气候罢课\"。\n- 🇸🇪 Tusentals elever deltog i skolstrejken. — 🇨🇳 数千名学生参加了罢课。\n- 🇸🇪 Skolstrejken inspirerade ungdomar i hela världen. — 🇨🇳 这场罢课运动激励了全世界的年轻人。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skola]]（学校），[[strejka]]（罢工/罢课），strejk（罢工）\n- 主题: [[topic-miljö-och-klimat]], [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- 与 Greta Thunberg 的\"Fridays for Future\"运动密切相关。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "skolstrejk",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "罢课",
+      "en": "school strike",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-hon-hade-en-skylt-med-texten-skolstrejk"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat",
+        "topic-skola-och-utbildning"
+      ],
+      "backlinks": [
+        "sent-hon-hade-en-skylt-med-texten-skolstrejk",
+        "source-2026-06-22-greta-thunberg",
+        "strejka",
+        "topic-miljö-och-klimat"
       ]
     },
     {
@@ -59335,9 +61433,11 @@ window.KB_DATA = {
         "du-kan-inte-missa-den",
         "sent-bredvid-banken-finns-apotek-gront-kors-skylten",
         "sent-finns-det-en-skylt",
+        "sent-hon-hade-en-skylt-med-texten-skolstrejk",
         "sent-ja-det-hanger-en-liten-svart-skylt",
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-09-beskriva-en-gata",
+        "source-2026-06-22-greta-thunberg",
         "topic-stadsmiljo"
       ]
     },
@@ -61394,6 +63494,49 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "strejka",
+      "type": "word",
+      "title": "strejka",
+      "path": "knowledge_base/words/strejka.md",
+      "body": "# strejka — verb (v.1)\n\n📖 中文：罢工，罢课 · English: strike, protest\n发音提示：/ˈstrɛjka/；v.1 动词（-ar 结尾）。\n\n## 语法变形 (Forms)\n\n| tempus | form |\n|--------|------|\n| infinitiv | strejka |\n| presens | strejkar |\n| preteritum | strejkade |\n| supinum | strejkat |\n| imperativ | strejka |\n\n## 词组搭配 (Collocations)\n\n- `strejka för klimatet` — 为气候罢课\n- `strejka på fredagar` — 在星期五罢课\n- `börja strejka` — 开始罢工/罢课\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-många-unga-människor-började-också-strejka]] Många unga människor började också strejka för klimatet på fredagar. — 🇨🇳 许多年轻人也开始在周五为气候罢课。\n- 🇸🇪 Arbetarna strejkade för bättre löner. — 🇨🇳 工人们为了更好的工资而罢工。\n- 🇸🇪 Eleverna strejkade varje fredag. — 🇨🇳 学生们每个星期五都罢课。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: strejk（罢工，名词），strejkare（罢工者），[[skolstrejk]]（罢课）\n- 主题: [[topic-miljö-och-klimat]], [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 本词在气候语境中特指学生罢课（skolstrejk）。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "strejka — verb (v.1) 📖 中文：罢工，罢课 · English: strike, protest 发音提示：/ˈstrɛjka/；v.1 动词（ ar 结尾）。 语法变形 (Forms) tempus form infinitiv strejka presens strejkar preteritum strejkade supinum strejkat imperativ strejka 词组搭配 (Colloc",
+      "forms": [
+        "strejka",
+        "strejkar",
+        "strejkade",
+        "strejkat"
+      ],
+      "links": [
+        "sent-många-unga-människor-började-också-strejka",
+        "skolstrejk",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "strejka strejka knowledge_base/words/strejka.md ---\ntype: word\nlemma: \"strejka\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"罢工，罢课\"\nen: \"strike, protest\"\nsynonyms: []\nantonyms: []\nfamily: [strejk, strejkare, skolstrejk]\ntopics: [topic-miljö-och-klimat, topic-samhälle-och-politik]\nsentences:\n  - sent-många-unga-människor-började-också-strejka\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# strejka — verb (v.1)\n\n📖 中文：罢工，罢课 · English: strike, protest\n发音提示：/ˈstrɛjka/；v.1 动词（-ar 结尾）。\n\n## 语法变形 (Forms)\n\n| tempus | form |\n|--------|------|\n| infinitiv | strejka |\n| presens | strejkar |\n| preteritum | strejkade |\n| supinum | strejkat |\n| imperativ | strejka |\n\n## 词组搭配 (Collocations)\n\n- `strejka för klimatet` — 为气候罢课\n- `strejka på fredagar` — 在星期五罢课\n- `börja strejka` — 开始罢工/罢课\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-många-unga-människor-började-också-strejka]] Många unga människor började också strejka för klimatet på fredagar. — 🇨🇳 许多年轻人也开始在周五为气候罢课。\n- 🇸🇪 Arbetarna strejkade för bättre löner. — 🇨🇳 工人们为了更好的工资而罢工。\n- 🇸🇪 Eleverna strejkade varje fredag. — 🇨🇳 学生们每个星期五都罢课。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: strejk（罢工，名词），strejkare（罢工者），[[skolstrejk]]（罢课）\n- 主题: [[topic-miljö-och-klimat]], [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 本词在气候语境中特指学生罢课（skolstrejk）。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "strejka",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "罢工，罢课",
+      "en": "strike, protest",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-många-unga-människor-började-också-strejka"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat",
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-många-unga-människor-började-också-strejka",
+        "skolstrejk",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat",
+        "topic-samhälle-och-politik"
+      ]
+    },
+    {
       "slug": "stress",
       "type": "word",
       "title": "stress",
@@ -62087,6 +64230,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "bror",
+        "lillasyster",
         "syskon",
         "topic-personer"
       ]
@@ -62202,6 +64346,48 @@ window.KB_DATA = {
         "station",
         "topic-kollektivtrafik",
         "topic-trafik"
+      ]
+    },
+    {
+      "slug": "tal",
+      "type": "word",
+      "title": "tal",
+      "path": "knowledge_base/words/tal.md",
+      "body": "# tal — substantiv (ett)\n\n📖 中文：演讲；数字；数 · English: speech; number; count\n发音提示：/tɑːl/；单音节，长元音。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | ett tal |\n| sing. bestämd | talet |\n| plur. obestämd | tal（不变）|\n| plur. bestämd | talen |\n\n⚠️ 多义词：义项1 = 演讲；义项2 = 数字/数学中的数。\n\n## 词组搭配 (Collocations)\n\n**义项1：演讲**\n- `hålla tal` — 发表演讲\n- `ett känt tal` — 一场著名的演讲\n- `hålla ett tal om klimatet` — 发表关于气候的演讲\n\n**义项2：数字**\n- `ett stort tal` — 一个大数字\n- `jämna tal` — 偶数\n\n## 例句 (Sentences)\n\n**义项1：演讲**\n- 🇸🇪 [[sent-greta-reste-till-andra-länder-för-att-hålla-tal]] Greta reste till andra länder för att hålla tal. — 🇨🇳 格蕾塔到其他国家去演讲。\n- 🇸🇪 [[sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal]] På ett stort möte i FN höll hon ett känt tal. — 🇨🇳 在联合国的一场大型会议上她发表了一场著名的演讲。\n\n**义项2：数字**\n- 🇸🇪 Fem är ett udda tal. — 🇨🇳 五是一个奇数。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tala（说话），talare（演讲者），[[berätta]]（讲述）\n- 同义词: anförande（正式演讲）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- `hålla tal` = 发表演讲（固定搭配，参见 [[hålla-tal]]）。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "tal — substantiv (ett) 📖 中文：演讲；数字；数 · English: speech; number; count 发音提示：/tɑːl/；单音节，长元音。 语法变形 (Forms) form böjning sing. obestämd ett tal sing. bestämd talet plur. obestämd tal（不变） plur. bestämd talen ⚠️ 多义词：义项1 = 演讲；义",
+      "forms": [
+        "tal",
+        "talet",
+        "tal（不变）",
+        "talen"
+      ],
+      "links": [
+        "berätta",
+        "hålla-tal",
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
+        "source-2026-06-22-greta-thunberg",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "tal tal knowledge_base/words/tal.md ---\ntype: word\nlemma: \"tal\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"演讲；数字；数\"\nen: \"speech; number; count\"\nsynonyms: [anförande]\nantonyms: []\nfamily: [tala, talare, berätta]\ntopics: [topic-samhälle-och-politik]\nsentences:\n  - sent-greta-reste-till-andra-länder-för-att-hålla-tal\n  - sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tal — substantiv (ett)\n\n📖 中文：演讲；数字；数 · English: speech; number; count\n发音提示：/tɑːl/；单音节，长元音。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | ett tal |\n| sing. bestämd | talet |\n| plur. obestämd | tal（不变）|\n| plur. bestämd | talen |\n\n⚠️ 多义词：义项1 = 演讲；义项2 = 数字/数学中的数。\n\n## 词组搭配 (Collocations)\n\n**义项1：演讲**\n- `hålla tal` — 发表演讲\n- `ett känt tal` — 一场著名的演讲\n- `hålla ett tal om klimatet` — 发表关于气候的演讲\n\n**义项2：数字**\n- `ett stort tal` — 一个大数字\n- `jämna tal` — 偶数\n\n## 例句 (Sentences)\n\n**义项1：演讲**\n- 🇸🇪 [[sent-greta-reste-till-andra-länder-för-att-hålla-tal]] Greta reste till andra länder för att hålla tal. — 🇨🇳 格蕾塔到其他国家去演讲。\n- 🇸🇪 [[sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal]] På ett stort möte i FN höll hon ett känt tal. — 🇨🇳 在联合国的一场大型会议上她发表了一场著名的演讲。\n\n**义项2：数字**\n- 🇸🇪 Fem är ett udda tal. — 🇨🇳 五是一个奇数。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tala（说话），talare（演讲者），[[berätta]]（讲述）\n- 同义词: anförande（正式演讲）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- `hålla tal` = 发表演讲（固定搭配，参见 [[hålla-tal]]）。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "tal",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "演讲；数字；数",
+      "en": "speech; number; count",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
+        "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
+        "source-2026-06-22-greta-thunberg"
       ]
     },
     {
@@ -64462,6 +66648,45 @@ window.KB_DATA = {
         "sent-solen-skiner-lange-och-det-ar",
         "source-2026-06-19-nyheter-8sidor",
         "topic-fritid-och-resor"
+      ]
+    },
+    {
+      "slug": "utsläpp",
+      "type": "word",
+      "title": "utsläpp",
+      "path": "knowledge_base/words/utsläpp.md",
+      "body": "# utsläpp — substantiv (ett)\n\n📖 中文：排放 · English: emission(s)\n发音提示：/ˈʉːtslɛp/；ut（出）+ släpp（释放）的复合词。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | ett utsläpp |\n| sing. bestämd | utsläppet |\n| plur. obestämd | utsläpp（不变）|\n| plur. bestämd | utsläppen |\n\n## 词组搭配 (Collocations)\n\n- `minska utsläppen` — 减少排放\n- `koldioxidutsläpp` — 二氧化碳排放\n- `utsläpp av växthusgaser` — 温室气体排放\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hon-ville-att-politikerna-skulle-lyssna]] Hon ville att politikerna skulle lyssna och minska utsläppen. — 🇨🇳 她想让政治家们倾听，并减少排放。\n- 🇸🇪 Sverige arbetar för att minska koldioxidutsläppen. — 🇨🇳 瑞典致力于减少二氧化碳排放。\n- 🇸🇪 Utsläppen från bilar och fabriker är ett stort problem. — 🇨🇳 来自汽车和工厂的排放是一个大问题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: släppa ut（释放），utsläppsminskning（减排）\n- 主题: [[topic-miljö-och-klimat]]\n\n## 用法提示 (Usage Notes)\n\n- 常用复数 `utsläppen`（定冠词复数），指代\"那些排放\"。\n- 来源: [[source-2026-06-22-greta-thunberg]]",
+      "excerpt": "utsläpp — substantiv (ett) 📖 中文：排放 · English: emission(s) 发音提示：/ˈʉːtslɛp/；ut（出）+ släpp（释放）的复合词。 语法变形 (Forms) form böjning sing. obestämd ett utsläpp sing. bestämd utsläppet plur. obestämd utsläpp（不变） plur. bestämd utslä",
+      "forms": [
+        "utsläpp",
+        "utsläppet",
+        "utsläpp（不变）",
+        "utsläppen"
+      ],
+      "links": [
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat"
+      ],
+      "searchText": "utsläpp utsläpp knowledge_base/words/utsläpp.md ---\ntype: word\nlemma: \"utsläpp\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"B1\"\nzh: \"排放\"\nen: \"emission(s)\"\nsynonyms: []\nantonyms: []\nfamily: [släppa ut, utsläppsminskning]\ntopics: [topic-miljö-och-klimat]\nsentences:\n  - sent-hon-ville-att-politikerna-skulle-lyssna\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# utsläpp — substantiv (ett)\n\n📖 中文：排放 · English: emission(s)\n发音提示：/ˈʉːtslɛp/；ut（出）+ släpp（释放）的复合词。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | ett utsläpp |\n| sing. bestämd | utsläppet |\n| plur. obestämd | utsläpp（不变）|\n| plur. bestämd | utsläppen |\n\n## 词组搭配 (Collocations)\n\n- `minska utsläppen` — 减少排放\n- `koldioxidutsläpp` — 二氧化碳排放\n- `utsläpp av växthusgaser` — 温室气体排放\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hon-ville-att-politikerna-skulle-lyssna]] Hon ville att politikerna skulle lyssna och minska utsläppen. — 🇨🇳 她想让政治家们倾听，并减少排放。\n- 🇸🇪 Sverige arbetar för att minska koldioxidutsläppen. — 🇨🇳 瑞典致力于减少二氧化碳排放。\n- 🇸🇪 Utsläppen från bilar och fabriker är ett stort problem. — 🇨🇳 来自汽车和工厂的排放是一个大问题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: släppa ut（释放），utsläppsminskning（减排）\n- 主题: [[topic-miljö-och-klimat]]\n\n## 用法提示 (Usage Notes)\n\n- 常用复数 `utsläppen`（定冠词复数），指代\"那些排放\"。\n- 来源: [[source-2026-06-22-greta-thunberg]]\n",
+      "lemma": "utsläpp",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "排放",
+      "en": "emission(s)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-hon-ville-att-politikerna-skulle-lyssna"
+      ],
+      "topics": [
+        "topic-miljö-och-klimat"
+      ],
+      "backlinks": [
+        "sent-hon-ville-att-politikerna-skulle-lyssna",
+        "source-2026-06-22-greta-thunberg",
+        "topic-miljö-och-klimat",
+        "topic-samhälle-och-politik"
       ]
     },
     {
