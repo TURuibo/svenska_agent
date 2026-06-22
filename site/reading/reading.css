@@ -284,31 +284,41 @@
   max-height: 74vh;
   overflow-y: auto;
   overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: 12px;
   box-shadow: 0 8px 28px rgba(32, 47, 38, 0.18);
-  padding: 14px 16px 16px;
+  padding: 0 16px 16px;
   font-family: var(--cjk);
   font-size: 14px;
   line-height: 1.5;
 }
-.vocabPopClose {
+/* Sticky header so lemma + gloss + forms stay visible while the note scrolls. */
+.vocabPopHeader {
   position: sticky;
-  float: right;
   top: 0;
-  margin: -4px -6px 0 0;
+  z-index: 2;
+  margin: 0 -16px;
+  padding: 14px 16px 10px;
+  background: var(--panel);
+  border-bottom: 1px solid var(--line);
+}
+.vocabPopGrip { display: none; }   /* drag handle — only shown on the mobile sheet */
+.vocabPopClose {
+  position: absolute;
+  top: 8px;
+  right: 8px;
   border: none;
   background: none;
   color: var(--muted);
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1;
   cursor: pointer;
-  padding: 2px 4px;
-  z-index: 1;
+  padding: 4px 8px;
 }
 .vocabPopClose:hover { color: var(--ink); }
-.vocabPopHead { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px; padding-right: 18px; }
+.vocabPopHead { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px; padding-right: 28px; }
 .vocabPopLemma {
   font-family: "Iowan Old Style", Georgia, serif;
   font-size: 22px;
@@ -337,8 +347,6 @@
 /* Rendered note body inside the card — a compact echo of .articleBody. */
 .vocabPopBody {
   margin-top: 12px;
-  padding-top: 10px;
-  border-top: 1px solid var(--line);
   font-size: 14px;
   line-height: 1.65;
 }
@@ -372,14 +380,49 @@
 }
 .vocabPopLink:hover { text-decoration: underline; }
 
+/* Dimmed backdrop behind the mobile bottom sheet (tap to close). */
+.vocabBackdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 49;
+  background: rgba(20, 30, 24, 0.42);
+  animation: vpFade 0.18s ease;
+}
+body.vocabPopOpen { overflow: hidden; }   /* lock background scroll while the sheet is up */
+
 /* On phones the card docks to the bottom as a sheet rather than chasing the word. */
 .vocabPop.sheet {
   position: fixed;
   left: 0; right: 0; bottom: 0; top: auto;
   width: auto;
-  border-radius: 16px 16px 0 0;
-  padding: 16px 18px 22px;
-  box-shadow: 0 -6px 24px rgba(32, 47, 38, 0.22);
+  max-height: 86vh;
+  border: none;
+  border-radius: 18px 18px 0 0;
+  padding: 0 18px calc(20px + env(safe-area-inset-bottom, 0px));
+  box-shadow: 0 -6px 24px rgba(32, 47, 38, 0.28);
+  animation: vpSheetUp 0.24s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+.vocabPop.sheet .vocabPopHeader {
+  margin: 0 -18px;
+  padding: 8px 18px 10px;
+  border-radius: 18px 18px 0 0;
+}
+/* Drag-handle bar at the very top of the sheet. */
+.vocabPop.sheet .vocabPopGrip {
+  display: block;
+  width: 40px;
+  height: 4px;
+  margin: 0 auto 8px;
+  border-radius: 999px;
+  background: var(--line);
+}
+.vocabPop.sheet .vocabPopClose { top: 6px; right: 10px; font-size: 26px; padding: 6px 10px; }
+.vocabPop.sheet .vocabPopLemma { font-size: 24px; }
+
+@keyframes vpSheetUp { from { transform: translateY(100%); } to { transform: translateY(0); } }
+@keyframes vpFade { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) {
+  .vocabPop.sheet, .vocabBackdrop { animation: none; }
 }
 
 @media (max-width: 760px) {
