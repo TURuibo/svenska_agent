@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 20:35:48",
+  "generatedAt": "2026-06-22 20:41:59",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -31907,7 +31907,8 @@ window.KB_DATA = {
         "kram",
         "läge",
         "passa",
-        "stress"
+        "stress",
+        "träffa"
       ]
     },
     {
@@ -50797,7 +50798,8 @@ window.KB_DATA = {
         "sent-apoteket-ligger-mitt-emot-en-stor-byggnad",
         "sent-du-kan-inte-missa-den",
         "source-2026-06-03-fraga-vagen-pub",
-        "source-2026-06-18-fraga-efter-vagen"
+        "source-2026-06-18-fraga-efter-vagen",
+        "träffa"
       ]
     },
     {
@@ -61886,6 +61888,44 @@ window.KB_DATA = {
         "source-2026-06-19-adjsubst-blandat",
         "topic-stadsmiljo"
       ]
+    },
+    {
+      "slug": "träffa",
+      "type": "word",
+      "title": "träffa",
+      "path": "knowledge_base/words/träffa.md",
+      "body": "# träffa — verb\n\n📖 中文：见面，遇见；击中 · English: to meet; to hit (a target)\n发音提示：TRÄFF-a；ä 短开口 e，ff 双辅音短促。\n\n## 语法变形 (Forms)\n\nverbgrupp **1**（-ar 动词，最规则）\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att träffa |\n| Imperativ | träffa! |\n| Presens | träffar |\n| Preteritum | träffade |\n| Supinum | (har) träffat |\n| Perfekt particip | träffad / träffat / träffade |\n\n**-s 形（互相/被动）:** träffas — träffas — träffades — (har) träffats\n\n## 词组搭配 (Collocations)\n\n义项 1 — 见面/遇见:\n- `träffa en vän` — 见一个朋友\n- `Ska vi träffas?` — 我们见个面吧？（**träffas** = 互相见面）\n- `träffas på en fika` — 约着喝咖啡见面\n- `trevligt att träffas` — 很高兴认识你\n\n义项 2 — 击中/命中:\n- `träffa målet` — 命中目标\n- `träffa rätt` — 说对、猜对、正中要害\n- `träffa mitt i prick` — 正中靶心\n\n## 例句 (Sentences)\n\n义项 1（见面）:\n- 🇸🇪 Vi träffades på ett kafé i går. — 🇨🇳 我们昨天在咖啡馆见了面。\n- 🇸🇪 Jag ska träffa min chef imorgon. — 🇨🇳 我明天要见我老板。\n- 🇸🇪 Trevligt att träffas! — 🇨🇳 很高兴认识你！\n\n义项 2（击中）:\n- 🇸🇪 Bollen träffade fönstret. — 🇨🇳 球击中了窗户。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[träff]] (n. 见面、约会；命中), [[träffas]] (互相见面), [[träffsäker]] (adj. 精准的)\n- 同义词: [[möta]] (遇见), [[ses]] (见面，= träffas，更口语)\n- 反义词: [[missa]] (错过；没击中)\n- 主题: [[topic-social-kontakt]]\n\n## 用法提示 (Usage Notes)\n\n- 📌 `träffa` 后**直接加宾语**（träffa **en vän**）；`träffas`（-s 形）= 双方**互相**见面，不带宾语（`Vi träffas kl. 6`）。\n- `ses` ≈ `träffas`，口语里告别常说 `Vi ses!`（回头见！）。\n- ⚠️ 别和 `möta`（迎面相遇/接站）混：约好碰头多用 träffa(s)；偶遇/迎接用 möta。",
+      "excerpt": "träffa — verb 📖 中文：见面，遇见；击中 · English: to meet; to hit (a target) 发音提示：TRÄFF a；ä 短开口 e，ff 双辅音短促。 语法变形 (Forms) verbgrupp 1 （ ar 动词，最规则） Form Swedish Infinitiv att träffa Imperativ träffa! Presens träffar Preteritum träff",
+      "forms": [
+        "träffa",
+        "träffa!",
+        "träffar",
+        "träffade",
+        "träffat",
+        "träffad"
+      ],
+      "links": [
+        "missa",
+        "möta",
+        "ses",
+        "topic-social-kontakt",
+        "träff",
+        "träffas",
+        "träffsäker"
+      ],
+      "searchText": "träffa träffa knowledge_base/words/träffa.md ---\ntype: word\nlemma: \"träffa\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"见面，遇见；击中\"\nen: \"to meet; to hit (a target)\"\nsynonyms: [möta, ses]\nantonyms: [missa]\nfamily: [träff, träffas]\ntopics: [topic-social-kontakt]\nsentences: []\nknown: false\ncreated: \"2026-06-22\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# träffa — verb\n\n📖 中文：见面，遇见；击中 · English: to meet; to hit (a target)\n发音提示：TRÄFF-a；ä 短开口 e，ff 双辅音短促。\n\n## 语法变形 (Forms)\n\nverbgrupp **1**（-ar 动词，最规则）\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att träffa |\n| Imperativ | träffa! |\n| Presens | träffar |\n| Preteritum | träffade |\n| Supinum | (har) träffat |\n| Perfekt particip | träffad / träffat / träffade |\n\n**-s 形（互相/被动）:** träffas — träffas — träffades — (har) träffats\n\n## 词组搭配 (Collocations)\n\n义项 1 — 见面/遇见:\n- `träffa en vän` — 见一个朋友\n- `Ska vi träffas?` — 我们见个面吧？（**träffas** = 互相见面）\n- `träffas på en fika` — 约着喝咖啡见面\n- `trevligt att träffas` — 很高兴认识你\n\n义项 2 — 击中/命中:\n- `träffa målet` — 命中目标\n- `träffa rätt` — 说对、猜对、正中要害\n- `träffa mitt i prick` — 正中靶心\n\n## 例句 (Sentences)\n\n义项 1（见面）:\n- 🇸🇪 Vi träffades på ett kafé i går. — 🇨🇳 我们昨天在咖啡馆见了面。\n- 🇸🇪 Jag ska träffa min chef imorgon. — 🇨🇳 我明天要见我老板。\n- 🇸🇪 Trevligt att träffas! — 🇨🇳 很高兴认识你！\n\n义项 2（击中）:\n- 🇸🇪 Bollen träffade fönstret. — 🇨🇳 球击中了窗户。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[träff]] (n. 见面、约会；命中), [[träffas]] (互相见面), [[träffsäker]] (adj. 精准的)\n- 同义词: [[möta]] (遇见), [[ses]] (见面，= träffas，更口语)\n- 反义词: [[missa]] (错过；没击中)\n- 主题: [[topic-social-kontakt]]\n\n## 用法提示 (Usage Notes)\n\n- 📌 `träffa` 后**直接加宾语**（träffa **en vän**）；`träffas`（-s 形）= 双方**互相**见面，不带宾语（`Vi träffas kl. 6`）。\n- `ses` ≈ `träffas`，口语里告别常说 `Vi ses!`（回头见！）。\n- ⚠️ 别和 `möta`（迎面相遇/接站）混：约好碰头多用 träffa(s)；偶遇/迎接用 möta。\n",
+      "lemma": "träffa",
+      "ordklass": "verb",
+      "cefr": "A1",
+      "zh": "见面，遇见；击中",
+      "en": "to meet; to hit (a target)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-social-kontakt"
+      ],
+      "backlinks": []
     },
     {
       "slug": "trafikljus",
