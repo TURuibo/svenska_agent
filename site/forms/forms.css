@@ -13,6 +13,7 @@
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--line);
   padding: 0.4rem clamp(0.75rem, 3vw, 2rem);
+  transition: transform 0.25s ease;
 }
 
 .formsBar {
@@ -126,14 +127,16 @@
 }
 .navLink:hover { border-color: var(--green); }
 
+/* 跳转 chips live behind the 筛选 toggle — collapsed by default everywhere,
+   revealed when the header carries .filtersOpen. Keeps the header short. */
 .classFilters {
-  display: flex;
+  display: none;
   gap: 0.3rem;
   flex-wrap: wrap;
   flex-basis: 100%;
   margin-top: 0.4rem;
 }
-.classFilters.hidden { display: none; }
+.formsHeader.filtersOpen .classFilters { display: flex; }
 
 .classChip {
   display: inline-flex;
@@ -419,10 +422,11 @@
 
 /* ---------- mobile ---------- */
 @media (max-width: 760px) {
-  /* Header: stop the controls from cramming into one tight wrapping row.
-     Brand + nav share the top line; search gets its own full-width row;
-     group/sort pills sit on a scrollable row below with bigger tap targets. */
-  /* Bottom tab bar on phones — header sticks to the very top, no nav offset. */
+  /* Header on phones, resting state: brand + 筛选 toggle on the top line,
+     search on its own full-width row. Everything else (分组/排序/跳转) is
+     collapsed behind the toggle, and the whole header auto-hides while reading
+     (see .headerHidden + forms.js), so words own the screen.
+     Bottom tab bar on phones — header sticks to the very top, no nav offset. */
   .formsHeader { top: 0; padding: 0.5rem 0.85rem; }
   .formsBar { gap: 0.5rem 0.6rem; }
 
@@ -442,9 +446,10 @@
     font-size: 16px; /* prevents iOS zoom-on-focus */
   }
 
-  /* 分组 + 排序 share ONE horizontally scrollable strip (instead of wrapping
-     onto two separate rows) so the sticky header stays short and more word
-     cards are visible above the fold. Each pill keeps a comfortable tap size. */
+  /* Resting header on phones = brand + search only. 分组 / 排序 collapse behind
+     the 筛选 toggle (display:none until .filtersOpen), so the sticky header is
+     ~2 short rows and words show high on screen. When opened they share ONE
+     horizontally scrollable strip instead of wrapping onto two rows. */
   .formsControls {
     order: 3;
     flex: 1 1 100%;
@@ -453,10 +458,16 @@
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
+    display: none;
   }
+  .formsHeader.filtersOpen .formsControls { display: flex; }
   .formsControls::-webkit-scrollbar { display: none; }
   .formsGroup,
   .formsSort { flex: 0 0 auto; }
+
+  /* Auto-hide on scroll-down: JS adds .headerHidden while reading downward and
+     removes it on any upward flick, so the whole viewport becomes words. */
+  .formsHeader.headerHidden { transform: translateY(-100%); }
   .groupBtn,
   .sortBtn,
   .navLink {

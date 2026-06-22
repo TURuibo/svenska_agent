@@ -653,11 +653,42 @@
     }
   });
 
+  // 筛选 toggle: reveal/collapse the secondary controls (sort/group on phones)
+  // and the jump-chip rail. Collapsed by default so the header stays short.
+  const header = document.querySelector('.formsHeader');
   const chipToggle = document.getElementById('chipToggle');
-  if (chipToggle) {
+  if (chipToggle && header) {
     chipToggle.addEventListener('click', () => {
-      document.getElementById('classFilters').classList.toggle('hidden');
+      const open = header.classList.toggle('filtersOpen');
+      chipToggle.setAttribute('aria-expanded', String(open));
+      chipToggle.textContent = open ? '筛选 ▴' : '筛选 ▾';
+      if (open) header.classList.remove('headerHidden');
     });
+  }
+
+  // Auto-hide the sticky header while scrolling DOWN (reading), reveal on any
+  // upward flick or near the top — phones only. Frees the whole viewport for
+  // words mid-read; controls stay one flick away. Paused while filters are open.
+  if (header) {
+    const mq = window.matchMedia('(max-width: 760px)');
+    let lastY = window.scrollY;
+    let ticking = false;
+    const onScroll = () => {
+      ticking = false;
+      if (!mq.matches || header.classList.contains('filtersOpen')) {
+        header.classList.remove('headerHidden');
+        lastY = window.scrollY;
+        return;
+      }
+      const y = window.scrollY;
+      const dy = y - lastY;
+      if (y < 8 || dy < -6) header.classList.remove('headerHidden');
+      else if (dy > 6) header.classList.add('headerHidden');
+      lastY = y;
+    };
+    window.addEventListener('scroll', () => {
+      if (!ticking) { window.requestAnimationFrame(onScroll); ticking = true; }
+    }, { passive: true });
   }
 
   const updated = document.getElementById('formsUpdated');
