@@ -18,22 +18,21 @@
 
 .readingHeaderInner {
   display: flex;
-  align-items: baseline;
+  align-items: flex-end;
   justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 2px 14px;
-  padding: 7px 24px 3px;
+  gap: 16px;
+  padding: 16px 24px 10px;
   max-width: 1180px;
   margin: 0 auto;
 }
 
 .readingBrand h1 {
-  margin: 0;
-  font-size: 19px;
+  margin: 2px 0 4px;
+  font-size: 26px;
 }
 .brandSub {
   font-family: var(--cjk);
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 500;
   color: var(--muted);
 }
@@ -70,7 +69,7 @@
   flex-wrap: wrap;
   align-items: center;
   gap: 8px;
-  padding: 4px 24px 7px;
+  padding: 8px 24px 12px;
   max-width: 1180px;
   margin: 0 auto;
   font-family: var(--cjk);
@@ -433,12 +432,29 @@ body.vocabPopOpen { overflow: hidden; }   /* lock background scroll while the sh
   .vocabPop.sheet, .vocabBackdrop { animation: none; }
 }
 
+/* Desktop only: compress the header so the reading content gets more room.
+   Mobile keeps its original, already-tuned header — nothing here applies ≤760px,
+   so the phone layout is byte-for-byte unchanged (see the max-width block below). */
+@media (min-width: 761px) {
+  .readingHeaderInner { padding: 7px 24px 3px; }
+  .readingBrand {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    column-gap: 12px;
+  }
+  .readingBrand .eyebrow { display: none; }   /* brand identity already lives in the top nav */
+  .readingBrand h1 { margin: 0; font-size: 19px; }
+  .brandSub { font-size: 13px; }
+  .filterBar { padding: 4px 24px 7px; }
+}
+
 @media (max-width: 760px) {
   /* Header scrolls away (not sticky) so reading text can use the full screen. */
   .readingHeader { position: static; }
-  .readingHeaderInner { padding: 8px 16px 4px; }
-  .readingBrand h1 { font-size: 18px; }
-  .filterBar { padding: 4px 16px 8px; }
+  .readingHeaderInner { padding: 12px 16px 6px; }
+  .readingBrand h1 { font-size: 22px; }
+  .filterBar { padding: 6px 16px 10px; }
   .readingSearch input { min-width: 0; flex: 1 1 140px; font-size: 16px; }
 
   .readingMain {
