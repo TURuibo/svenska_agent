@@ -122,8 +122,8 @@
   flex-direction: column;
   gap: 10px;
   position: sticky;
-  top: calc(132px + var(--nav-h));
-  max-height: calc(100vh - 150px - var(--nav-h));
+  top: calc(var(--nav-h) + 78px);
+  max-height: calc(100vh - var(--nav-h) - 96px);
   overflow-y: auto;
   padding-right: 4px;
 }
@@ -277,11 +277,18 @@
 /* When 生词 highlighting is toggled off, the chips melt back into plain text. */
 .vocab-off .vocabWord { cursor: text; border-bottom: none; background: none; }
 
+/* Desktop: a fixed side panel docked to the right edge of the reading column.
+   Because it's position:fixed and bounded to the viewport height (with its own
+   internal scroll), the whole card is ALWAYS visible — opening a word never
+   forces a page-scroll, and the card stays put while the article scrolls.
+   `right` aligns to the right edge of the 1180px content column on wide screens. */
 .vocabPop {
-  position: absolute;
+  position: fixed;
   z-index: 50;
-  width: min(420px, calc(100vw - 24px));
-  max-height: 74vh;
+  top: calc(var(--nav-h) + 84px);
+  right: max(16px, calc((100vw - 1180px) / 2));
+  width: min(420px, calc(100vw - 32px));
+  max-height: calc(100vh - var(--nav-h) - 108px);
   overflow-y: auto;
   overscroll-behavior: contain;
   -webkit-overflow-scrolling: touch;
@@ -423,6 +430,23 @@ body.vocabPopOpen { overflow: hidden; }   /* lock background scroll while the sh
 @keyframes vpFade { from { opacity: 0; } to { opacity: 1; } }
 @media (prefers-reduced-motion: reduce) {
   .vocabPop.sheet, .vocabBackdrop { animation: none; }
+}
+
+/* Desktop only: compress the header so the reading content gets more room.
+   Mobile keeps its original, already-tuned header — nothing here applies ≤760px,
+   so the phone layout is byte-for-byte unchanged (see the max-width block below). */
+@media (min-width: 761px) {
+  .readingHeaderInner { padding: 7px 24px 3px; }
+  .readingBrand {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    column-gap: 12px;
+  }
+  .readingBrand .eyebrow { display: none; }   /* brand identity already lives in the top nav */
+  .readingBrand h1 { margin: 0; font-size: 19px; }
+  .brandSub { font-size: 13px; }
+  .filterBar { padding: 4px 24px 7px; }
 }
 
 @media (max-width: 760px) {

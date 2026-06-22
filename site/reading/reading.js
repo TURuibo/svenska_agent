@@ -191,18 +191,12 @@
     if (popEl) { popEl.remove(); popEl = null; }
     document.body.classList.remove('vocabPopOpen');
   }
-  function positionPop(pop, span) {
-    if (isMobile()) { pop.classList.add('sheet'); return; }   // CSS pins .sheet to the bottom
-    const r = span.getBoundingClientRect();
-    const pw = pop.offsetWidth, ph = pop.offsetHeight;
-    let left = r.left + window.scrollX;
-    let top = r.bottom + window.scrollY + 6;
-    const maxLeft = window.scrollX + document.documentElement.clientWidth - pw - 8;
-    if (left > maxLeft) left = maxLeft;
-    if (left < window.scrollX + 8) left = window.scrollX + 8;
-    if (r.bottom + ph + 10 > window.innerHeight && r.top - ph - 6 > 0) top = r.top + window.scrollY - ph - 6;
-    pop.style.left = left + 'px';
-    pop.style.top = top + 'px';
+  function positionPop(pop, _span) {
+    // Mobile: a bottom sheet (CSS .sheet pins it to the bottom).
+    // Desktop: a fixed side panel positioned entirely by CSS — we no longer chase
+    // the tapped word (that used to push a tall card below the fold and force a
+    // page-scroll to read it). The card now stays at a stable, always-visible spot.
+    if (isMobile()) pop.classList.add('sheet');
   }
 
   // Build the full detail card for one vocab entry: a sticky header (grip + close
@@ -252,6 +246,10 @@
     // KB word opens that word's card in place instead of jumping away to Sök.
     popEl.addEventListener('click', (e) => {
       if (e.target.closest('.vocabPopClose')) { closePop(); return; }
+      // The explicit "在 Sök 中打开完整笔记 →" link must always navigate to Sök —
+      // never treat it as in-card nav (its slug IS the current word, which is a
+      // vocab entry, so the body-wikilink branch below would otherwise swallow it).
+      if (e.target.closest('.vocabPopLink')) return;
       const a = e.target.closest('a');
       if (!a) return;
       const m = (a.getAttribute('href') || '').match(/#note=([^&]+)/);
