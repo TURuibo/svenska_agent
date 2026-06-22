@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 18:42:16",
+  "generatedAt": "2026-06-22 18:49:59",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -204,6 +204,7 @@ window.KB_DATA = {
         "se-till-att",
         "sent-55-procent-tror-att-oppositionen-far-flest",
         "sent-att-dricka-alkohol-nar-det-ar-varmt-ar-farligt",
+        "sent-att-sla-nagon-i-sin-familj-kallas",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-hoppas-att-de-ska-drömma",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
@@ -212,7 +213,9 @@ window.KB_DATA = {
         "sent-det-är-viktigt-att-skapa-en-kultur",
         "sent-det-ar-viktigt-att-titta-vidare-pa",
         "sent-det-beror-pa-att-planeten-blir-allt-varmare",
+        "sent-det-borjar-med-sjalvreflektering",
         "sent-det-finns-risk-att-over-10000-hus",
+        "sent-det-slutade-med-att-jag-tog-stryptag",
         "sent-detta-beror-pa-att-nivan-pa-varldens-hav",
         "sent-folk-ar-misnojda-med-att-maten-ar-dyr",
         "sent-hon-säger-själv-att-det-hjälper-henne",
@@ -317,12 +320,14 @@ window.KB_DATA = {
         "grammar-partikelverb",
         "grammar-perfekt",
         "grammar-presens",
+        "grammar-relativ-bisats-med-som",
         "grammar-riktnings-adverb",
         "grammar-satsadverbial",
         "grammar-utan-vs-men",
         "grammar-v2-ordfoljd",
         "ha-rad-att",
         "hoppas-det-smakar",
+        "sent-barn-och-unga-behover-mota-vuxna",
         "sent-det-ar-bekymmersamt-men-vi-vet-inte",
         "sent-fick-fotbollsskor-trots-mamma",
         "sent-fika-det-smakar-ju-faktiskt-för-gott",
@@ -333,6 +338,7 @@ window.KB_DATA = {
         "sent-fika-vi-har-ett-stort-projekt",
         "sent-hon-förstod-inte-varför-så-få-människor",
         "sent-i-lordags-vaknade-jag-tidigt-fast",
+        "sent-jag-och-storasyrran-borjade-tjafsa",
         "sent-jag-ska-berätta-vad-som-hände",
         "sent-vet-du-var-det-ar",
         "sent-vilken-riktning-ska-jag-ga",
@@ -492,6 +498,7 @@ window.KB_DATA = {
         "grammar-bisats-tills",
         "grammar-for-att-infinitiv",
         "grammar-nar-bisats",
+        "grammar-relativ-bisats-med-som",
         "grammar-trots-substantiv",
         "se-till-att",
         "sent-beroende-var-i-landet-man-bor",
@@ -737,6 +744,8 @@ window.KB_DATA = {
         "för-att-fira",
         "sent-arbetena-är-till-för-att-vägarna",
         "sent-då-samlas-många-människor",
+        "sent-de-har-kommit-overens-om-en-plan",
+        "sent-den-svenska-regeringen-ger-nu-17",
         "sent-det-ar-viktigt-att-titta-vidare-pa",
         "sent-figurerna-måste-kämpa-för",
         "sent-finns-det-en-karta-någonstans",
@@ -849,6 +858,7 @@ window.KB_DATA = {
         "grammar-modala-hjalpverb",
         "något-att-äta-till",
         "sent-det-är-mycket-ovanligt-att-skjuta",
+        "sent-det-borjar-med-sjalvreflektering",
         "sent-får-jag-ta-er-beställning",
         "sent-hon-fortsätter-att-kämpa-för-klimatet",
         "sent-lisa-vi-är-så-glada-att",
@@ -893,6 +903,7 @@ window.KB_DATA = {
         "sent-idag-är-hon-en-av-världens-mest-kända-röster",
         "sent-klimatet-blir-varmare",
         "sent-kvinnor-far-vanta-langre-an-man",
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
         "sent-länderna-ska-göra-det-svårare",
         "sent-langst-tid-pa-akuten-hade-patienter-i-region-skane",
         "sent-langst-tid-pa-akuten-tillbringar-kvinnor-over-80",
@@ -1204,6 +1215,31 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grammar-passiv-konstruktion",
+      "type": "grammar",
+      "title": "passiv konstruktion",
+      "path": "knowledge_base/grammar/grammar-passiv-konstruktion.md",
+      "body": "# 📗 passiv konstruktion — 被动语态：bli + perfektparticip (passive voice)\n\n级别: B1\n一句话: 瑞典语有两种被动语态——**bli-被动**（描述动作过程）和 **s-被动**（描述状态/通用规则）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主语 + bli (böjt) + perfektparticip (kongruens med subjektet)\n```\n\n例：\n```\nFlickorna  blir  omhändertagna.\n  主语      bli   perfektparticip（与flickorna一致 → -na结尾）\n```\n\n与中文对比: 中文用\"被/让/给\"或语序暗示被动；瑞典语用 bli + particip 或 verb-s 两套系统。\n与英文对比: 英语 be + past participle（They are taken care of）≈ 瑞典语 bli-被动（de blir omhändertagna）。\n\n## 详细讲解 (Detail)\n\n**两种被动的选择规则：**\n\n| 结构 | 场景 | 例句 |\n|------|------|------|\n| bli + particip | 强调**动态过程**（正在发生/将会发生） | Flickorna **blir omhändertagna** （女孩们正在被安置） |\n| verb + -s | **通用规则、习惯、定义** | Huset **säljs** / Det **kallas** hedersvåld |\n\n**perfektparticip 与主语的性数一致性：**\n\n| 主语 | particip形式 | 例子 |\n|------|-------------|------|\n| en-词（单数） | -d / -ad | flickan blir omhändertagen |\n| ett-词（单数） | -t / -at | barnet blir omhändertagit |\n| 复数/bestämd | -de / -ade / -na | flickorna blir omhändertagna |\n\n## 例句 (Examples)\n\n- ✅ [[sent-66-procent-av-flickorna-blir]] 🇸🇪 66 procent av flickorna **blir omhändertagna**. 🇨🇳 66%的女孩被转移安置。\n- ✅ [[sent-att-sla-nagon-i-sin-familj-kallas]] 🇸🇪 Det **kallas** hedersvåld. 🇨🇳 这被称为荣誉暴力（s-被动）。\n- ❌ *Flickorna är omhändertagna i år.* ← 用 **är** 表动态过程是错误的；应用 **blir**\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混淆 **bli**（动态）和 **vara**（静态状态）：\n  - 正确：*Dörren **blir** stängd kl. 18.* （六点时门被关上）\n  - 正确：*Dörren **är** stängd.* （门现在是关着的，描述状态）\n- ⚠️ 忘记 particip 与主语的性数一致：*pojken blir omhändertagen*（不是 omhändertagit）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-passiv-med-s]] — s-被动（另一种被动形式）\n- 📎 [[grammar-perfekt]] — 现在完成时（与被动被动 particip 形式关系密切）",
+      "excerpt": "📗 passiv konstruktion — 被动语态：bli + perfektparticip (passive voice) 级别: B1 一句话: 瑞典语有两种被动语态—— bli 被动 （描述动作过程）和 s 被动 （描述状态/通用规则）。 规则说明 (Rules) 📐 结构公式: 主语 + bli (böjt) + perfektparticip (kongruens med subjektet) 例： Flickor",
+      "forms": [],
+      "links": [
+        "grammar-passiv-med-s",
+        "grammar-perfekt",
+        "sent-66-procent-av-flickorna-blir",
+        "sent-att-sla-nagon-i-sin-familj-kallas"
+      ],
+      "searchText": "passiv konstruktion grammar-passiv-konstruktion knowledge_base/grammar/grammar-passiv-konstruktion.md ---\ntype: grammar\nname: \"passiv konstruktion\"\nzh: 被动语态：bli + perfektparticip\nen: passive voice — bli + past participle\nlevel: B1\nrelated: [\"grammar-passiv-med-s\"]\nexamples:\n  - sent-66-procent-av-flickorna-blir\n  - sent-att-sla-nagon-i-sin-familj-kallas\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 passiv konstruktion — 被动语态：bli + perfektparticip (passive voice)\n\n级别: B1\n一句话: 瑞典语有两种被动语态——**bli-被动**（描述动作过程）和 **s-被动**（描述状态/通用规则）。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主语 + bli (böjt) + perfektparticip (kongruens med subjektet)\n```\n\n例：\n```\nFlickorna  blir  omhändertagna.\n  主语      bli   perfektparticip（与flickorna一致 → -na结尾）\n```\n\n与中文对比: 中文用\"被/让/给\"或语序暗示被动；瑞典语用 bli + particip 或 verb-s 两套系统。\n与英文对比: 英语 be + past participle（They are taken care of）≈ 瑞典语 bli-被动（de blir omhändertagna）。\n\n## 详细讲解 (Detail)\n\n**两种被动的选择规则：**\n\n| 结构 | 场景 | 例句 |\n|------|------|------|\n| bli + particip | 强调**动态过程**（正在发生/将会发生） | Flickorna **blir omhändertagna** （女孩们正在被安置） |\n| verb + -s | **通用规则、习惯、定义** | Huset **säljs** / Det **kallas** hedersvåld |\n\n**perfektparticip 与主语的性数一致性：**\n\n| 主语 | particip形式 | 例子 |\n|------|-------------|------|\n| en-词（单数） | -d / -ad | flickan blir omhändertagen |\n| ett-词（单数） | -t / -at | barnet blir omhändertagit |\n| 复数/bestämd | -de / -ade / -na | flickorna blir omhändertagna |\n\n## 例句 (Examples)\n\n- ✅ [[sent-66-procent-av-flickorna-blir]] 🇸🇪 66 procent av flickorna **blir omhändertagna**. 🇨🇳 66%的女孩被转移安置。\n- ✅ [[sent-att-sla-nagon-i-sin-familj-kallas]] 🇸🇪 Det **kallas** hedersvåld. 🇨🇳 这被称为荣誉暴力（s-被动）。\n- ❌ *Flickorna är omhändertagna i år.* ← 用 **är** 表动态过程是错误的；应用 **blir**\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 混淆 **bli**（动态）和 **vara**（静态状态）：\n  - 正确：*Dörren **blir** stängd kl. 18.* （六点时门被关上）\n  - 正确：*Dörren **är** stängd.* （门现在是关着的，描述状态）\n- ⚠️ 忘记 particip 与主语的性数一致：*pojken blir omhändertagen*（不是 omhändertagit）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-passiv-med-s]] — s-被动（另一种被动形式）\n- 📎 [[grammar-perfekt]] — 现在完成时（与被动被动 particip 形式关系密切）\n",
+      "name": "passiv konstruktion",
+      "zh": "被动语态：bli + perfektparticip",
+      "en": "passive voice — bli + past participle",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "sent-66-procent-av-flickorna-blir",
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "grammar-passiv-med-s",
       "type": "grammar",
       "title": "Passiv med -s",
@@ -1229,8 +1265,11 @@ window.KB_DATA = {
         "föda",
         "födas",
         "grammar-deponensverb",
+        "grammar-passiv-konstruktion",
         "grammar-s-verb-reciprok",
         "index",
+        "sent-66-procent-av-flickorna-blir",
+        "sent-att-sla-nagon-i-sin-familj-kallas",
         "sent-även-flera-hus-med-lägenheter-verkar",
         "sent-de-lovar-att-sluta-kriga-i-60-dagar",
         "sent-det-blir-ingen-hojning-nu-men-rantan",
@@ -1301,6 +1340,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "ända-sedan",
+        "grammar-passiv-konstruktion",
         "grammar-perfekt-infinitiv",
         "grammar-preteritum-i-berattelse",
         "har-ni-bestämt-er",
@@ -1309,6 +1349,7 @@ window.KB_DATA = {
         "sent-allt-har-hittills-gatt-bra-men-hon",
         "sent-även-flera-hus-med-lägenheter-verkar",
         "sent-bland-annat-har-ukrainas-president-zelenskyj",
+        "sent-de-har-kommit-overens-om-en-plan",
         "sent-det-har-varit-oroligt-kring-norges-kungahus",
         "sent-folk-har-berättat-om-robin-hood-hundra-ar",
         "sent-folk-i-sverige-har-firat",
@@ -1330,6 +1371,7 @@ window.KB_DATA = {
         "sent-poliserna-i-colombia-har-tagit-fast",
         "sent-samtidigt-har-det-under-natten-varit",
         "sent-sedan-1800-talet-har-människor",
+        "sent-usa-och-iran-ha-haft-sina-forsta",
         "sent-usas-och-irans-presidenter-har-skrivit",
         "sent-var-som-värst-under-2023",
         "sent-våren-har-varit-kall-därför",
@@ -1563,6 +1605,7 @@ window.KB_DATA = {
         "sent-då-tar-jag-en-bit-morotskaka",
         "sent-då-tar-jag-fläskfilén-tack",
         "sent-dagens-rätt-är-en-vegetarisk-pasta",
+        "sent-det-ar-just-nu-mycket-varmt",
         "sent-det-blir-femtiofem-kronor",
         "sent-det-låter-gott-men-jag-är",
         "sent-efter-jobbet-handlar-jag-mat-i-affaren",
@@ -1815,6 +1858,7 @@ window.KB_DATA = {
         "sent-den-första-filmen-toy-story",
         "sent-den-totala-tiden-personer-ar-pa-akuten",
         "sent-det-gick-daligt-for-sverige",
+        "sent-det-slutade-med-att-jag-tog-stryptag",
         "sent-det-tog-ungefar-en-timme",
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
         "sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok",
@@ -1862,6 +1906,7 @@ window.KB_DATA = {
         "sent-sommaren-2018-var-mycket-varm-i-sverige",
         "sent-till-evian-i-frankrike-nu",
         "sent-till-slut-var-allt-bra-igen",
+        "sent-tva-vagnar-lamnade-sparet-och-foll",
         "sent-ukrainas-ledare-volodymyr-zelenskyj",
         "sent-vid-halv-nio-kom-jag-fram-till-centralstationen",
         "sent-zlatans-barndom-var-svar",
@@ -1961,6 +2006,33 @@ window.KB_DATA = {
         "source-2026-06-22-greta-thunberg",
         "ta-sig-fram",
         "vi-ses-snart"
+      ]
+    },
+    {
+      "slug": "grammar-relativ-bisats-med-som",
+      "type": "grammar",
+      "title": "relativ bisats med som",
+      "path": "knowledge_base/grammar/grammar-relativ-bisats-med-som.md",
+      "body": "# 📗 relativ bisats med som — som引导的关系从句 (relative clause with 'som')\n\n级别: A2\n一句话: 瑞典语用 **som** 引导关系从句，**放在被修饰名词之后**，与中文的前置定语顺序相反。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n名词 + som + [关系从句（主语/宾语由 som 充当）]\n```\n\n例：\n```\nvuxna  som  lyssnar  på deras berättelser\n  ↑          ↑\n被修饰词   som 既做连接词，又作从句的主语（those adults who listen）\n```\n\n与中文对比:\n- 🇨🇳 **倾听他们的**大人（定语前置）\n- 🇸🇪 vuxna **som lyssnar på dem**（定语后置）\n- 关键差异：瑞典语关系从句**永远后置**于被修饰名词。\n\n与英文对比: 与英语 \"who/that/which\" 结构相同，区别在于瑞典语统一用 **som**（不区分人/物/主格/宾格）。\n\n## 详细讲解 (Detail)\n\n**som 可以做从句中的：**\n\n| 角色 | 例子 | 说明 |\n|------|------|------|\n| 主语 | en plan **som** fungerar | som 作从句主语（一个有效的计划） |\n| 宾语 | nåt **som** jag tyckte | som 作从句宾语（我认为的某事） |\n\n**省略 som（非正式口语）：**\n在非正式口语中，当 som 作宾语时常被省略：\n- 正式：nåt **som** jag tyckte hon hade fel om\n- 口语：nåt [som省略] jag tyckte hon hade fel om\n\n## 例句 (Examples)\n\n- ✅ [[sent-barn-och-unga-behover-mota-vuxna]] 🇸🇪 vuxna **som** lyssnar på deras berättelser 🇨🇳 倾听他们故事的大人\n- ✅ [[sent-jag-och-storasyrran-borjade-tjafsa]] 🇸🇪 nåt jag tyckte hon hade helt fel om 🇨🇳 我认为她完全搞错了的那件事（省略了som）\n- ❌ *de vuxna lyssnar* (省略som同时保留名词，中文式前置，错误)\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 中文学习者常把修饰语放在名词前：*det *lyssnande* vuxna* ← 错误（如果是完整从句必须后置）\n- ⚠️ 混淆 **som**（关系代词）和 **som**（比较连词：Han är lika gammal **som** jag = He is as old as me）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats-biff]] — 关系从句内部副词语序（BIFF规则）\n- 📎 [[grammar-bisats]] — 从句总览",
+      "excerpt": "📗 relativ bisats med som — som引导的关系从句 (relative clause with 'som') 级别: A2 一句话: 瑞典语用 som 引导关系从句， 放在被修饰名词之后 ，与中文的前置定语顺序相反。 规则说明 (Rules) 📐 结构公式: 名词 + som + [关系从句（主语/宾语由 som 充当）] 例： vuxna som lyssnar på deras berättelser ↑",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "grammar-bisats-biff",
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "sent-jag-och-storasyrran-borjade-tjafsa"
+      ],
+      "searchText": "relativ bisats med som grammar-relativ-bisats-med-som knowledge_base/grammar/grammar-relativ-bisats-med-som.md ---\ntype: grammar\nname: \"relativ bisats med som\"\nzh: som引导的关系从句（后置定语）\nen: relative clause introduced by 'som' (postpositive, unlike Chinese)\nlevel: A2\nrelated: [\"grammar-bisats-biff\", \"grammar-bisats\"]\nexamples:\n  - sent-barn-och-unga-behover-mota-vuxna\n  - sent-jag-och-storasyrran-borjade-tjafsa\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 relativ bisats med som — som引导的关系从句 (relative clause with 'som')\n\n级别: A2\n一句话: 瑞典语用 **som** 引导关系从句，**放在被修饰名词之后**，与中文的前置定语顺序相反。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n名词 + som + [关系从句（主语/宾语由 som 充当）]\n```\n\n例：\n```\nvuxna  som  lyssnar  på deras berättelser\n  ↑          ↑\n被修饰词   som 既做连接词，又作从句的主语（those adults who listen）\n```\n\n与中文对比:\n- 🇨🇳 **倾听他们的**大人（定语前置）\n- 🇸🇪 vuxna **som lyssnar på dem**（定语后置）\n- 关键差异：瑞典语关系从句**永远后置**于被修饰名词。\n\n与英文对比: 与英语 \"who/that/which\" 结构相同，区别在于瑞典语统一用 **som**（不区分人/物/主格/宾格）。\n\n## 详细讲解 (Detail)\n\n**som 可以做从句中的：**\n\n| 角色 | 例子 | 说明 |\n|------|------|------|\n| 主语 | en plan **som** fungerar | som 作从句主语（一个有效的计划） |\n| 宾语 | nåt **som** jag tyckte | som 作从句宾语（我认为的某事） |\n\n**省略 som（非正式口语）：**\n在非正式口语中，当 som 作宾语时常被省略：\n- 正式：nåt **som** jag tyckte hon hade fel om\n- 口语：nåt [som省略] jag tyckte hon hade fel om\n\n## 例句 (Examples)\n\n- ✅ [[sent-barn-och-unga-behover-mota-vuxna]] 🇸🇪 vuxna **som** lyssnar på deras berättelser 🇨🇳 倾听他们故事的大人\n- ✅ [[sent-jag-och-storasyrran-borjade-tjafsa]] 🇸🇪 nåt jag tyckte hon hade helt fel om 🇨🇳 我认为她完全搞错了的那件事（省略了som）\n- ❌ *de vuxna lyssnar* (省略som同时保留名词，中文式前置，错误)\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 中文学习者常把修饰语放在名词前：*det *lyssnande* vuxna* ← 错误（如果是完整从句必须后置）\n- ⚠️ 混淆 **som**（关系代词）和 **som**（比较连词：Han är lika gammal **som** jag = He is as old as me）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats-biff]] — 关系从句内部副词语序（BIFF规则）\n- 📎 [[grammar-bisats]] — 从句总览\n",
+      "name": "relativ bisats med som",
+      "zh": "som引导的关系从句（后置定语）",
+      "en": "relative clause introduced by 'som' (postpositive, unlike Chinese)",
+      "created": "2026-06-22",
+      "known": false,
+      "backlinks": [
+        "sent-att-sla-nagon-i-sin-familj-kallas",
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "sent-jag-och-storasyrran-borjade-tjafsa",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -2172,6 +2244,7 @@ window.KB_DATA = {
         "grammar-preteritum",
         "index",
         "rösta-om",
+        "sent-dar-ska-over-800-skolor-halla-stangt",
         "sent-den-fragan-ska-invanarna-i-alberta",
         "sent-google-ska-bygga-ett-stort-datacenter",
         "sent-i-sommar-ska-det-bli-arbeten",
@@ -2462,6 +2535,7 @@ window.KB_DATA = {
         "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
         "sent-då-bestämde-greta-sig-för-att-göra-något",
         "sent-då-tar-jag-en-bit-morotskaka",
+        "sent-dar-ska-over-800-skolor-halla-stangt",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
@@ -4512,6 +4586,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "från-och-med",
+      "type": "phrase",
+      "title": "från och med",
+      "path": "knowledge_base/phrases/från-och-med.md",
+      "body": "# från och med\n\n🗣️ 类型: prepositionsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 从……起（时间点） · 🇬🇧 from (a date) onwards; as of; starting from\n📝 字面: from and with\n\n## 用法说明 (Usage)\n\n- 表示时间起点，说明某事从某个具体时间点开始，且包含该时间点本身。\n- 缩写：**f.o.m.** （常见于书面语/公文）\n- 后接日期、时间、时间名词：**från och med den 2 juli**（从7月2日起）。\n\n## 短语中的语法 (Grammar inside)\n\n- **från**（从）+ **och**（和）+ **med**（随/含）= 三词构成的固定介词短语\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 **till och med (t.o.m.)** — 直到（且包含该时间点）为止；甚至（语气词）\n- 🔄 **sedan** — 自从（强调持续状态）\n- 🔗 [[topic-tid-och-tidsuttryck]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-lagen-mot-fortryck-pa-grund-av-heder]] 🇸🇪 Lagen mot förtryck på grund av heder blir hårdare **från och med** den 2 juli i år. 🇨🇳 针对以荣誉为由压迫的法律将从今年7月2日起变得更加严格。\n- 🇸🇪 **Från och med** måndag gäller de nya reglerna. 🇨🇳 从周一起，新规定开始生效。\n- 🇸🇪 **F.o.m.** 1 januari höjs priset. 🇨🇳 从1月1日起价格上涨。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "från och med 🗣️ 类型: prepositionsfras · 语域: neutralt · 常用度: 4/5 🇨🇳 从……起（时间点） · 🇬🇧 from (a date) onwards; as of; starting from 📝 字面: from and with 用法说明 (Usage) 表示时间起点，说明某事从某个具体时间点开始，且包含该时间点本身。 缩写： f.o.m. （常见于书面语/公文） ",
+      "forms": [],
+      "links": [
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "source-2026-06-22-listening-svt-latt",
+        "topic-tid-och-tidsuttryck"
+      ],
+      "searchText": "från och med från-och-med knowledge_base/phrases/från-och-med.md ---\ntype: phrase\nphrase: \"från och med\"\ncategory: prepositionsfras\nregister: neutralt\nfrequency: 4\nzh: 从……起（时间点）\nen: from (a date) onwards; as of; starting from\nliteral: \"from and with\"\nhead_words: []\ngrammar: []\nrelated: [\"till-och-med\"]\ntopics: [\"topic-tid-och-tidsuttryck\"]\nsentences:\n  - sent-lagen-mot-fortryck-pa-grund-av-heder\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# från och med\n\n🗣️ 类型: prepositionsfras · 语域: neutralt · 常用度: 4/5\n🇨🇳 从……起（时间点） · 🇬🇧 from (a date) onwards; as of; starting from\n📝 字面: from and with\n\n## 用法说明 (Usage)\n\n- 表示时间起点，说明某事从某个具体时间点开始，且包含该时间点本身。\n- 缩写：**f.o.m.** （常见于书面语/公文）\n- 后接日期、时间、时间名词：**från och med den 2 juli**（从7月2日起）。\n\n## 短语中的语法 (Grammar inside)\n\n- **från**（从）+ **och**（和）+ **med**（随/含）= 三词构成的固定介词短语\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 **till och med (t.o.m.)** — 直到（且包含该时间点）为止；甚至（语气词）\n- 🔄 **sedan** — 自从（强调持续状态）\n- 🔗 [[topic-tid-och-tidsuttryck]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-lagen-mot-fortryck-pa-grund-av-heder]] 🇸🇪 Lagen mot förtryck på grund av heder blir hårdare **från och med** den 2 juli i år. 🇨🇳 针对以荣誉为由压迫的法律将从今年7月2日起变得更加严格。\n- 🇸🇪 **Från och med** måndag gäller de nya reglerna. 🇨🇳 从周一起，新规定开始生效。\n- 🇸🇪 **F.o.m.** 1 januari höjs priset. 🇨🇳 从1月1日起价格上涨。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "zh": "从……起（时间点）",
+      "en": "from (a date) onwards; as of; starting from",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "från och med",
+      "category": "prepositionsfras",
+      "sentences": [
+        "sent-lagen-mot-fortryck-pa-grund-av-heder"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-tid-och-tidsuttryck"
+      ],
+      "backlinks": [
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "frisk-luft",
       "type": "phrase",
       "title": "frisk luft",
@@ -4953,7 +5059,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-hon-förstod-inte-varför-så-få-människor",
-        "source-2026-06-22-greta-thunberg"
+        "source-2026-06-22-greta-thunberg",
+        "vidta-åtgärder"
       ]
     },
     {
@@ -6867,6 +6974,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "komma-överens",
+        "sent-de-har-kommit-overens-om-en-plan",
         "sent-de-kom-överens-om-att-fortsätta",
         "source-2026-06-18-nyheter-8sidor",
         "vara-överens"
@@ -7863,6 +7971,10 @@ window.KB_DATA = {
       "grammar": [],
       "topics": [],
       "backlinks": [
+        "sent-dar-ska-over-800-skolor-halla-stangt",
+        "sent-den-svenska-regeringen-ger-nu-17",
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "source-2026-06-22-listening-svt-latt",
         "source-2026-06-22-nyheter-8sidor"
       ]
     },
@@ -9060,6 +9172,7 @@ window.KB_DATA = {
       "grammar": [],
       "topics": [],
       "backlinks": [
+        "omhänderta",
         "sent-eftersom-astrid-var-ensam-kunde-hon",
         "sent-grattis-jag-heter-mikael-och-tar",
         "söka-hjälp",
@@ -9252,6 +9365,39 @@ window.KB_DATA = {
       "backlinks": [
         "sent-tiden-håller-på-att-ta-slut",
         "source-2026-06-22-nyheter"
+      ]
+    },
+    {
+      "slug": "ta-stryptag-på",
+      "type": "phrase",
+      "title": "ta stryptag på",
+      "path": "knowledge_base/phrases/ta-stryptag-på.md",
+      "body": "# ta stryptag på\n\n🗣️ 类型: uttryck · 语域: vardagligt · 常用度: 2/5\n🇨🇳 掐住（某人）的脖子 · 🇬🇧 to grab by the throat, to put in a chokehold\n📝 字面: take chokehold on\n\n## 用法说明 (Usage)\n\n- 字面义：用手掐住某人脖子，施加物理压力。\n- 比喻义：控制/主导某人或某事物（例如：**ta stryptag på marknaden** = 主导/垄断市场）。\n- 动词变位：**ta / tar / tog / tagit** stryptag på ngn\n\n## 短语中的语法 (Grammar inside)\n\n- 结构：**ta** + **stryptag** + **på** + 宾语\n- **stryptag** 是直接宾语，**på** 引导介词短语说明对象\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 **ta ett grepp om halsen** — 抓住喉咙（更书面）\n- 🔗 [[stryptag]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-det-slutade-med-att-jag-tog-stryptag]] 🇸🇪 Det slutade med att jag **tog stryptag på** henne i köket. 🇨🇳 结果我在厨房掐住了她的脖子。\n- 🇸🇪 Han **tog stryptag på** sin motspelare under matchen. 🇨🇳 他在比赛中对对手实施了锁喉。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "ta stryptag på 🗣️ 类型: uttryck · 语域: vardagligt · 常用度: 2/5 🇨🇳 掐住（某人）的脖子 · 🇬🇧 to grab by the throat, to put in a chokehold 📝 字面: take chokehold on 用法说明 (Usage) 字面义：用手掐住某人脖子，施加物理压力。 比喻义：控制/主导某人或某事物（例如： ta stryptag på ",
+      "forms": [],
+      "links": [
+        "sent-det-slutade-med-att-jag-tog-stryptag",
+        "source-2026-06-22-listening-svt-latt",
+        "stryptag"
+      ],
+      "searchText": "ta stryptag på ta-stryptag-på knowledge_base/phrases/ta-stryptag-på.md ---\ntype: phrase\nphrase: \"ta stryptag på\"\ncategory: uttryck\nregister: vardagligt\nfrequency: 2\nzh: 掐住（某人）的脖子\nen: to grab by the throat, to put in a chokehold\nliteral: \"take chokehold on\"\nhead_words: [\"stryptag\"]\ngrammar: []\nrelated: []\ntopics: [\"topic-samhälle-och-politik\"]\nsentences:\n  - sent-det-slutade-med-att-jag-tog-stryptag\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ta stryptag på\n\n🗣️ 类型: uttryck · 语域: vardagligt · 常用度: 2/5\n🇨🇳 掐住（某人）的脖子 · 🇬🇧 to grab by the throat, to put in a chokehold\n📝 字面: take chokehold on\n\n## 用法说明 (Usage)\n\n- 字面义：用手掐住某人脖子，施加物理压力。\n- 比喻义：控制/主导某人或某事物（例如：**ta stryptag på marknaden** = 主导/垄断市场）。\n- 动词变位：**ta / tar / tog / tagit** stryptag på ngn\n\n## 短语中的语法 (Grammar inside)\n\n- 结构：**ta** + **stryptag** + **på** + 宾语\n- **stryptag** 是直接宾语，**på** 引导介词短语说明对象\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 **ta ett grepp om halsen** — 抓住喉咙（更书面）\n- 🔗 [[stryptag]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-det-slutade-med-att-jag-tog-stryptag]] 🇸🇪 Det slutade med att jag **tog stryptag på** henne i köket. 🇨🇳 结果我在厨房掐住了她的脖子。\n- 🇸🇪 Han **tog stryptag på** sin motspelare under matchen. 🇨🇳 他在比赛中对对手实施了锁喉。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "zh": "掐住（某人）的脖子",
+      "en": "to grab by the throat, to put in a chokehold",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "ta stryptag på",
+      "category": "uttryck",
+      "sentences": [
+        "sent-det-slutade-med-att-jag-tog-stryptag"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-det-slutade-med-att-jag-tog-stryptag",
+        "source-2026-06-22-listening-svt-latt",
+        "stryptag"
       ]
     },
     {
@@ -10797,6 +10943,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "vidta-åtgärder",
+      "type": "phrase",
+      "title": "vidta åtgärder",
+      "path": "knowledge_base/phrases/vidta-åtgärder.md",
+      "body": "# vidta åtgärder\n\n🗣️ 类型: uttryck · 语域: formellt · 常用度: 3/5\n🇨🇳 采取措施 · 🇬🇧 to take measures, to take action\n📝 字面: undertake measures\n\n## 用法说明 (Usage)\n\n- 正式/行政/新闻语言，相当于英语 \"take measures\" 或 \"take action\"。\n- 动词 **vidta** 是不规则动词（vidtar/vidtog/vidtagit），几乎只出现在这个固定搭配中。\n- **åtgärder** = 措施（复数，单数 en åtgärd）。\n\n## 短语中的语法 (Grammar inside)\n\n- **vidta**（采取，动词）+ **åtgärder**（措施，名词复数）\n- 结构与英语 \"take action\" 完全对应\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 **ta action** (更口语，借自英语)\n- 🔄 **göra något åt** — 对……做点什么 → [[göra-något-åt]]\n- 🔗 [[topic-samhälle-och-politik]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-barn-och-unga-behover-mota-vuxna]] 🇸🇪 Barn behöver möta vuxna som inte bara lyssnar, utan **vidtar åtgärder** utifrån den utsatthet de befinner sig i. 🇨🇳 儿童需要遇到不仅倾听还会根据处境采取行动的成年人。\n- 🇸🇪 Kommunerna måste **vidta åtgärder** mot hedersvåld. 🇨🇳 各市政府必须采取措施应对荣誉暴力。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "vidta åtgärder 🗣️ 类型: uttryck · 语域: formellt · 常用度: 3/5 🇨🇳 采取措施 · 🇬🇧 to take measures, to take action 📝 字面: undertake measures 用法说明 (Usage) 正式/行政/新闻语言，相当于英语 \"take measures\" 或 \"take action\"。 动词 vidta 是不规则动词（vidtar/v",
+      "forms": [],
+      "links": [
+        "göra-något-åt",
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "source-2026-06-22-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "vidta åtgärder vidta-åtgärder knowledge_base/phrases/vidta-åtgärder.md ---\ntype: phrase\nphrase: \"vidta åtgärder\"\ncategory: uttryck\nregister: formellt\nfrequency: 3\nzh: 采取措施\nen: to take measures, to take action\nliteral: \"undertake measures\"\nhead_words: []\ngrammar: []\nrelated: []\ntopics: [\"topic-samhälle-och-politik\"]\nsentences:\n  - sent-barn-och-unga-behover-mota-vuxna\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vidta åtgärder\n\n🗣️ 类型: uttryck · 语域: formellt · 常用度: 3/5\n🇨🇳 采取措施 · 🇬🇧 to take measures, to take action\n📝 字面: undertake measures\n\n## 用法说明 (Usage)\n\n- 正式/行政/新闻语言，相当于英语 \"take measures\" 或 \"take action\"。\n- 动词 **vidta** 是不规则动词（vidtar/vidtog/vidtagit），几乎只出现在这个固定搭配中。\n- **åtgärder** = 措施（复数，单数 en åtgärd）。\n\n## 短语中的语法 (Grammar inside)\n\n- **vidta**（采取，动词）+ **åtgärder**（措施，名词复数）\n- 结构与英语 \"take action\" 完全对应\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 **ta action** (更口语，借自英语)\n- 🔄 **göra något åt** — 对……做点什么 → [[göra-något-åt]]\n- 🔗 [[topic-samhälle-och-politik]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-barn-och-unga-behover-mota-vuxna]] 🇸🇪 Barn behöver möta vuxna som inte bara lyssnar, utan **vidtar åtgärder** utifrån den utsatthet de befinner sig i. 🇨🇳 儿童需要遇到不仅倾听还会根据处境采取行动的成年人。\n- 🇸🇪 Kommunerna måste **vidta åtgärder** mot hedersvåld. 🇨🇳 各市政府必须采取措施应对荣誉暴力。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "zh": "采取措施",
+      "en": "to take measures, to take action",
+      "created": "2026-06-22",
+      "known": false,
+      "phrase": "vidta åtgärder",
+      "category": "uttryck",
+      "sentences": [
+        "sent-barn-och-unga-behover-mota-vuxna"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "visa-respekt-och-hänsyn",
       "type": "phrase",
       "title": "visa respekt och hänsyn",
@@ -10850,6 +11029,46 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-66-procent-av-flickorna-blir",
+      "type": "sentence",
+      "title": "🇸🇪 66 procent av flickorna blir omhändertagna medan bara 28 procent av pojkarna får lämna hemmet.",
+      "path": "knowledge_base/sentences/sent-66-procent-av-flickorna-blir.md",
+      "body": "# 🇸🇪 66 procent av flickorna blir omhändertagna medan bara 28 procent av pojkarna får lämna hemmet.\n\n🇨🇳 66%的女孩被转移安置，而只有28%的男孩被送离家庭。\n\n## 结构 (Structure)\n\n```\n[66 procent av flickorna] [blir omhändertagna] [medan] [bara 28 procent av pojkarna] [får lämna hemmet]\n       主语                  bli+particip被动        对比连词          主语                  模态动词+动词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-konstruktion]] — \"blir omhändertagna\" = bli + perfektparticip，表示被动语态\n- 📌 [[grammar-passiv-med-s]] — 对比被动构成方式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[omhänderta]], [[flicka]], [[pojke]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 66 procent av flickorna blir omhändertagna medan bara 28 procent av pojkarna får lämna hemmet. 🇨🇳 66%的女孩被转移安置，而只有28%的男孩被送离家庭。 结构 (Structure) [66 procent av flickorna] [blir omhändertagna] [medan] [bara 28 procent ",
+      "forms": [],
+      "links": [
+        "flicka",
+        "grammar-passiv-konstruktion",
+        "grammar-passiv-med-s",
+        "omhänderta",
+        "pojke",
+        "source-2026-06-22-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 66 procent av flickorna blir omhändertagna medan bara 28 procent av pojkarna får lämna hemmet. sent-66-procent-av-flickorna-blir knowledge_base/sentences/sent-66-procent-av-flickorna-blir.md ---\ntype: sentence\nsentence: \"66 procent av flickorna blir omhändertagna medan bara 28 procent av pojkarna får lämna hemmet.\"\nzh: 66%的女孩被转移安置，而只有28%的男孩被送离家庭。\ncefr: B1\nwords: [\"omhänderta\", \"flicka\", \"pojke\"]\nphrases: []\ngrammar: [\"grammar-passiv-konstruktion\", \"grammar-passiv-med-s\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-samhälle-och-politik\", \"topic-familj-och-barn\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 66 procent av flickorna blir omhändertagna medan bara 28 procent av pojkarna får lämna hemmet.\n\n🇨🇳 66%的女孩被转移安置，而只有28%的男孩被送离家庭。\n\n## 结构 (Structure)\n\n```\n[66 procent av flickorna] [blir omhändertagna] [medan] [bara 28 procent av pojkarna] [får lämna hemmet]\n       主语                  bli+particip被动        对比连词          主语                  模态动词+动词\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-konstruktion]] — \"blir omhändertagna\" = bli + perfektparticip，表示被动语态\n- 📌 [[grammar-passiv-med-s]] — 对比被动构成方式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[omhänderta]], [[flicka]], [[pojke]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "66%的女孩被转移安置，而只有28%的男孩被送离家庭。",
+      "created": "2026-06-22",
+      "sentence": "66 procent av flickorna blir omhändertagna medan bara 28 procent av pojkarna får lämna hemmet.",
+      "words": [
+        "omhänderta",
+        "flicka",
+        "pojke"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-passiv-konstruktion",
+        "grammar-passiv-med-s"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "grammar-passiv-konstruktion",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -11459,6 +11678,49 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-att-sla-nagon-i-sin-familj-kallas",
+      "type": "sentence",
+      "title": "🇸🇪 Att slå någon i sin familj för att den klär sig på ett visst sätt eller umgås med fel kompisar, kallas hedersvåld.",
+      "path": "knowledge_base/sentences/sent-att-sla-nagon-i-sin-familj-kallas.md",
+      "body": "# 🇸🇪 Att slå någon i sin familj för att den klär sig på ett visst sätt eller umgås med fel kompisar, kallas hedersvåld.\n\n🇨🇳 殴打自己的家庭成员，例如因为对方的着装方式或与错误的朋友来往，这被称为荣誉暴力。\n\n## 结构 (Structure)\n\n```\n[Att slå någon i sin familj…] [kallas] [hedersvåld]\n 主语（att-从句）                  s-被动    宾语补足语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — \"kallas\" = s-被动，字面\"被称为\"\n- 📌 [[grammar-att-sats]] — \"Att slå…\" 作主语的att-不定式从句\n- 📌 [[grammar-relativ-bisats-med-som]] — \"för att den klär sig…\" 原因状语从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hedersvåld]], [[familj]], [[kompis]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Att slå någon i sin familj för att den klär sig på ett visst sätt eller umgås med fel kompisar, kallas hedersvåld. 🇨🇳 殴打自己的家庭成员，例如因为对方的着装方式或与错误的朋友来往，这被称为荣誉暴力。 结构 (Structure) [Att slå någon i sin familj…] [kallas] ",
+      "forms": [],
+      "links": [
+        "familj",
+        "grammar-att-sats",
+        "grammar-passiv-med-s",
+        "grammar-relativ-bisats-med-som",
+        "hedersvåld",
+        "kompis",
+        "source-2026-06-22-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Att slå någon i sin familj för att den klär sig på ett visst sätt eller umgås med fel kompisar, kallas hedersvåld. sent-att-sla-nagon-i-sin-familj-kallas knowledge_base/sentences/sent-att-sla-nagon-i-sin-familj-kallas.md ---\ntype: sentence\nsentence: \"Att slå någon i sin familj för att den klär sig på ett visst sätt eller umgås med fel kompisar, kallas hedersvåld.\"\nzh: 殴打自己的家庭成员，例如因为对方的着装方式或与错误的朋友来往，这被称为荣誉暴力。\ncefr: B1\nwords: [\"hedersvåld\", \"familj\", \"kompis\"]\nphrases: [\"på-ett-annorlunda-sätt\"]\ngrammar: [\"grammar-passiv-med-s\", \"grammar-att-sats\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-samhälle-och-politik\", \"topic-familj-och-barn\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Att slå någon i sin familj för att den klär sig på ett visst sätt eller umgås med fel kompisar, kallas hedersvåld.\n\n🇨🇳 殴打自己的家庭成员，例如因为对方的着装方式或与错误的朋友来往，这被称为荣誉暴力。\n\n## 结构 (Structure)\n\n```\n[Att slå någon i sin familj…] [kallas] [hedersvåld]\n 主语（att-从句）                  s-被动    宾语补足语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — \"kallas\" = s-被动，字面\"被称为\"\n- 📌 [[grammar-att-sats]] — \"Att slå…\" 作主语的att-不定式从句\n- 📌 [[grammar-relativ-bisats-med-som]] — \"för att den klär sig…\" 原因状语从句\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hedersvåld]], [[familj]], [[kompis]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "殴打自己的家庭成员，例如因为对方的着装方式或与错误的朋友来往，这被称为荣誉暴力。",
+      "created": "2026-06-22",
+      "sentence": "Att slå någon i sin familj för att den klär sig på ett visst sätt eller umgås med fel kompisar, kallas hedersvåld.",
+      "words": [
+        "hedersvåld",
+        "familj",
+        "kompis"
+      ],
+      "phrases": [
+        "på-ett-annorlunda-sätt"
+      ],
+      "grammar": [
+        "grammar-passiv-med-s",
+        "grammar-att-sats"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "grammar-passiv-konstruktion",
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-även-flera-hus-med-lägenheter-verkar",
       "type": "sentence",
       "title": "🇸🇪 Även flera hus med lägenheter verkar ha träffats.",
@@ -11519,6 +11781,50 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-barn-och-unga-behover-mota-vuxna",
+      "type": "sentence",
+      "title": "🇸🇪 Barn och unga behöver möta vuxna som lyssnar på deras berättelser men inte bara lyssnar, utan vidtar åtgärder utifrån den utsatthet de kanske befinner sig i.",
+      "path": "knowledge_base/sentences/sent-barn-och-unga-behover-mota-vuxna.md",
+      "body": "# 🇸🇪 Barn och unga behöver möta vuxna som lyssnar på deras berättelser men inte bara lyssnar, utan vidtar åtgärder utifrån den utsatthet de kanske befinner sig i.\n\n🇨🇳 儿童和青少年需要遇到愿意倾听他们诉说的成年人，不仅仅是倾听，还要根据他们所处的脆弱处境采取行动。\n\n## 结构 (Structure)\n\n```\n[Barn och unga] [behöver möta] [vuxna] [som lyssnar… men vidtar åtgärder]\n    主语           情态动词         宾语         关系从句（修饰 vuxna）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-relativ-bisats-med-som]] — \"vuxna **som** lyssnar…\" = som引导的关系从句，后置修饰名词\n- 📌 [[grammar-bisats-biff]] — 从句中副词位置：\"de **kanske** befinner sig\" (adverb efter subjekt i bisats)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vuxen]], [[utsatthet]], [[ung]]\n- 词组: [[vidta-åtgärder]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Barn och unga behöver möta vuxna som lyssnar på deras berättelser men inte bara lyssnar, utan vidtar åtgärder utifrån den utsatthet de kanske befinner sig i. 🇨🇳 儿童和青少年需要遇到愿意倾听他们诉说的成年人，不仅仅是倾听，还要根据他们所处的脆弱处境采取行动。 结构 ",
+      "forms": [],
+      "links": [
+        "grammar-bisats-biff",
+        "grammar-relativ-bisats-med-som",
+        "source-2026-06-22-listening-svt-latt",
+        "ung",
+        "utsatthet",
+        "vidta-åtgärder",
+        "vuxen"
+      ],
+      "searchText": "🇸🇪 Barn och unga behöver möta vuxna som lyssnar på deras berättelser men inte bara lyssnar, utan vidtar åtgärder utifrån den utsatthet de kanske befinner sig i. sent-barn-och-unga-behover-mota-vuxna knowledge_base/sentences/sent-barn-och-unga-behover-mota-vuxna.md ---\ntype: sentence\nsentence: \"Barn och unga behöver möta vuxna som lyssnar på deras berättelser men inte bara lyssnar, utan vidtar åtgärder utifrån den utsatthet de kanske befinner sig i.\"\nzh: 儿童和青少年需要遇到愿意倾听他们诉说的成年人，不仅仅是倾听，还要根据他们所处的脆弱处境采取行动。\ncefr: B1\nwords: [\"vuxen\", \"utsatthet\", \"ung\"]\nphrases: [\"vidta-åtgärder\"]\ngrammar: [\"grammar-relativ-bisats-med-som\", \"grammar-bisats-biff\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-samhälle-och-politik\", \"topic-familj-och-barn\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Barn och unga behöver möta vuxna som lyssnar på deras berättelser men inte bara lyssnar, utan vidtar åtgärder utifrån den utsatthet de kanske befinner sig i.\n\n🇨🇳 儿童和青少年需要遇到愿意倾听他们诉说的成年人，不仅仅是倾听，还要根据他们所处的脆弱处境采取行动。\n\n## 结构 (Structure)\n\n```\n[Barn och unga] [behöver möta] [vuxna] [som lyssnar… men vidtar åtgärder]\n    主语           情态动词         宾语         关系从句（修饰 vuxna）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-relativ-bisats-med-som]] — \"vuxna **som** lyssnar…\" = som引导的关系从句，后置修饰名词\n- 📌 [[grammar-bisats-biff]] — 从句中副词位置：\"de **kanske** befinner sig\" (adverb efter subjekt i bisats)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vuxen]], [[utsatthet]], [[ung]]\n- 词组: [[vidta-åtgärder]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "儿童和青少年需要遇到愿意倾听他们诉说的成年人，不仅仅是倾听，还要根据他们所处的脆弱处境采取行动。",
+      "created": "2026-06-22",
+      "sentence": "Barn och unga behöver möta vuxna som lyssnar på deras berättelser men inte bara lyssnar, utan vidtar åtgärder utifrån den utsatthet de kanske befinner sig i.",
+      "words": [
+        "vuxen",
+        "utsatthet",
+        "ung"
+      ],
+      "phrases": [
+        "vidta-åtgärder"
+      ],
+      "grammar": [
+        "grammar-relativ-bisats-med-som",
+        "grammar-bisats-biff"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "grammar-relativ-bisats-med-som",
+        "source-2026-06-22-listening-svt-latt",
+        "vidta-åtgärder"
       ]
     },
     {
@@ -12097,6 +12403,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-dar-ska-over-800-skolor-halla-stangt",
+      "type": "sentence",
+      "title": "🇸🇪 Där ska över 800 skolor hålla stängt på grund av värmen.",
+      "path": "knowledge_base/sentences/sent-dar-ska-over-800-skolor-halla-stangt.md",
+      "body": "# 🇸🇪 Där ska över 800 skolor hålla stängt på grund av värmen.\n\n🇨🇳 那里有超过800所学校将因高温关闭。\n\n## 结构 (Structure)\n\n```\n[Där] [ska] [över 800 skolor] [hålla stängt] [på grund av värmen]\n 地点状语  情态动词      主语（倒装后置）      动词短语          原因状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"Där ska\" = 地点状语置首，动词 ska 紧跟（V2），主语 skolor 后置\n- 📌 [[grammar-ska-infinitiv]] — ska + hålla（将要……）\n- 📌 [[på-grund-av]] — 原因介词短语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skola]], [[värme]]\n- 词组: [[på-grund-av]]\n\n注：**hålla stängt** = 保持关闭状态（不同于 stänga = 关闭动作）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Där ska över 800 skolor hålla stängt på grund av värmen. 🇨🇳 那里有超过800所学校将因高温关闭。 结构 (Structure) [Där] [ska] [över 800 skolor] [hålla stängt] [på grund av värmen] 地点状语 情态动词 主语（倒装后置） 动词短语 原因状语 语法点 (Grammar) 📌 grammar",
+      "forms": [],
+      "links": [
+        "grammar-ska-infinitiv",
+        "grammar-v2-ordfoljd",
+        "på-grund-av",
+        "skola",
+        "source-2026-06-22-listening-svt-latt",
+        "värme"
+      ],
+      "searchText": "🇸🇪 Där ska över 800 skolor hålla stängt på grund av värmen. sent-dar-ska-over-800-skolor-halla-stangt knowledge_base/sentences/sent-dar-ska-over-800-skolor-halla-stangt.md ---\ntype: sentence\nsentence: \"Där ska över 800 skolor hålla stängt på grund av värmen.\"\nzh: 那里有超过800所学校将因高温关闭。\ncefr: A2\nwords: [\"skola\", \"värme\"]\nphrases: [\"på-grund-av\"]\ngrammar: [\"grammar-ska-infinitiv\", \"grammar-v2-ordfoljd\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-vader-och-arstider\", \"topic-skola-och-utbildning\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Där ska över 800 skolor hålla stängt på grund av värmen.\n\n🇨🇳 那里有超过800所学校将因高温关闭。\n\n## 结构 (Structure)\n\n```\n[Där] [ska] [över 800 skolor] [hålla stängt] [på grund av värmen]\n 地点状语  情态动词      主语（倒装后置）      动词短语          原因状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — \"Där ska\" = 地点状语置首，动词 ska 紧跟（V2），主语 skolor 后置\n- 📌 [[grammar-ska-infinitiv]] — ska + hålla（将要……）\n- 📌 [[på-grund-av]] — 原因介词短语\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[skola]], [[värme]]\n- 词组: [[på-grund-av]]\n\n注：**hålla stängt** = 保持关闭状态（不同于 stänga = 关闭动作）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "那里有超过800所学校将因高温关闭。",
+      "created": "2026-06-22",
+      "sentence": "Där ska över 800 skolor hålla stängt på grund av värmen.",
+      "words": [
+        "skola",
+        "värme"
+      ],
+      "phrases": [
+        "på-grund-av"
+      ],
+      "grammar": [
+        "grammar-ska-infinitiv",
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-vader-och-arstider",
+        "topic-skola-och-utbildning"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-de-berattade-om-robin-hood-rika-fattiga",
       "type": "sentence",
       "title": "🇸🇪 De berättade om hjälten Robin Hood som tog från de rika och gav till de fattiga.",
@@ -12191,6 +12537,44 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-20-sms-till-en-van"
+      ]
+    },
+    {
+      "slug": "sent-de-har-kommit-overens-om-en-plan",
+      "type": "sentence",
+      "title": "🇸🇪 De har kommit överens om en plan för att försöka nå ett avtal om fred inom två månader.",
+      "path": "knowledge_base/sentences/sent-de-har-kommit-overens-om-en-plan.md",
+      "body": "# 🇸🇪 De har kommit överens om en plan för att försöka nå ett avtal om fred inom två månader.\n\n🇨🇳 他们达成了一项计划，试图在两个月内达成和平协议。\n\n## 结构 (Structure)\n\n```\n[De] [har kommit överens om] [en plan] [för att försöka nå ett avtal om fred] [inom två månader]\n 主语    短语动词（达成一致）      宾语         目的状语从句（为了……）                    时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-for-att-infinitiv]] — \"för att försöka\" = 目的状语从句，for att + 动词不定式\n- 📌 [[grammar-perfekt]] — \"har kommit överens\" = 现在完成时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[avtal]]\n- 词组: [[komma-överens-om]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 De har kommit överens om en plan för att försöka nå ett avtal om fred inom två månader. 🇨🇳 他们达成了一项计划，试图在两个月内达成和平协议。 结构 (Structure) [De] [har kommit överens om] [en plan] [för att försöka nå ett avtal om fred] [ino",
+      "forms": [],
+      "links": [
+        "avtal",
+        "grammar-for-att-infinitiv",
+        "grammar-perfekt",
+        "komma-överens-om",
+        "source-2026-06-22-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 De har kommit överens om en plan för att försöka nå ett avtal om fred inom två månader. sent-de-har-kommit-overens-om-en-plan knowledge_base/sentences/sent-de-har-kommit-overens-om-en-plan.md ---\ntype: sentence\nsentence: \"De har kommit överens om en plan för att försöka nå ett avtal om fred inom två månader.\"\nzh: 他们达成了一项计划，试图在两个月内达成和平协议。\ncefr: B1\nwords: [\"avtal\"]\nphrases: [\"komma-överens-om\", \"för-att-fira\"]\ngrammar: [\"grammar-for-att-infinitiv\", \"grammar-perfekt\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-krig-och-konflikt\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 De har kommit överens om en plan för att försöka nå ett avtal om fred inom två månader.\n\n🇨🇳 他们达成了一项计划，试图在两个月内达成和平协议。\n\n## 结构 (Structure)\n\n```\n[De] [har kommit överens om] [en plan] [för att försöka nå ett avtal om fred] [inom två månader]\n 主语    短语动词（达成一致）      宾语         目的状语从句（为了……）                    时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-for-att-infinitiv]] — \"för att försöka\" = 目的状语从句，for att + 动词不定式\n- 📌 [[grammar-perfekt]] — \"har kommit överens\" = 现在完成时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[avtal]]\n- 词组: [[komma-överens-om]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "他们达成了一项计划，试图在两个月内达成和平协议。",
+      "created": "2026-06-22",
+      "sentence": "De har kommit överens om en plan för att försöka nå ett avtal om fred inom två månader.",
+      "words": [
+        "avtal"
+      ],
+      "phrases": [
+        "komma-överens-om",
+        "för-att-fira"
+      ],
+      "grammar": [
+        "grammar-for-att-infinitiv",
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -12609,6 +12993,48 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-den-svenska-regeringen-ger-nu-17",
+      "type": "sentence",
+      "title": "🇸🇪 Den svenska regeringen ger nu 17 miljoner kronor till kommunerna för att försöka stoppa våld på grund av heder i familjer.",
+      "path": "knowledge_base/sentences/sent-den-svenska-regeringen-ger-nu-17.md",
+      "body": "# 🇸🇪 Den svenska regeringen ger nu 17 miljoner kronor till kommunerna för att försöka stoppa våld på grund av heder i familjer.\n\n🇨🇳 瑞典政府现向各市政府拨款1700万克朗，以努力阻止家庭中以荣誉为由的暴力行为。\n\n## 结构 (Structure)\n\n```\n[Den svenska regeringen] [ger nu] [17 miljoner kronor] [till kommunerna] [för att stoppa våld…]\n        主语                动词       直接宾语（金额）         间接宾语         目的状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-for-att-infinitiv]] — \"för att försöka stoppa\" = 目的状语，for att + 动词不定式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hedersvåld]], [[regering]], [[kommun]]\n- 词组: [[på-grund-av]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Den svenska regeringen ger nu 17 miljoner kronor till kommunerna för att försöka stoppa våld på grund av heder i familjer. 🇨🇳 瑞典政府现向各市政府拨款1700万克朗，以努力阻止家庭中以荣誉为由的暴力行为。 结构 (Structure) [Den svenska regeringen] [ger nu",
+      "forms": [],
+      "links": [
+        "grammar-for-att-infinitiv",
+        "hedersvåld",
+        "kommun",
+        "på-grund-av",
+        "regering",
+        "source-2026-06-22-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Den svenska regeringen ger nu 17 miljoner kronor till kommunerna för att försöka stoppa våld på grund av heder i familjer. sent-den-svenska-regeringen-ger-nu-17 knowledge_base/sentences/sent-den-svenska-regeringen-ger-nu-17.md ---\ntype: sentence\nsentence: \"Den svenska regeringen ger nu 17 miljoner kronor till kommunerna för att försöka stoppa våld på grund av heder i familjer.\"\nzh: 瑞典政府现向各市政府拨款1700万克朗，以努力阻止家庭中以荣誉为由的暴力行为。\ncefr: B1\nwords: [\"hedersvåld\", \"regering\", \"kommun\", \"krona\"]\nphrases: [\"på-grund-av\", \"för-att-fira\"]\ngrammar: [\"grammar-for-att-infinitiv\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-samhälle-och-politik\", \"topic-familj-och-barn\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Den svenska regeringen ger nu 17 miljoner kronor till kommunerna för att försöka stoppa våld på grund av heder i familjer.\n\n🇨🇳 瑞典政府现向各市政府拨款1700万克朗，以努力阻止家庭中以荣誉为由的暴力行为。\n\n## 结构 (Structure)\n\n```\n[Den svenska regeringen] [ger nu] [17 miljoner kronor] [till kommunerna] [för att stoppa våld…]\n        主语                动词       直接宾语（金额）         间接宾语         目的状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-for-att-infinitiv]] — \"för att försöka stoppa\" = 目的状语，for att + 动词不定式\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hedersvåld]], [[regering]], [[kommun]]\n- 词组: [[på-grund-av]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "瑞典政府现向各市政府拨款1700万克朗，以努力阻止家庭中以荣誉为由的暴力行为。",
+      "created": "2026-06-22",
+      "sentence": "Den svenska regeringen ger nu 17 miljoner kronor till kommunerna för att försöka stoppa våld på grund av heder i familjer.",
+      "words": [
+        "hedersvåld",
+        "regering",
+        "kommun",
+        "krona"
+      ],
+      "phrases": [
+        "på-grund-av",
+        "för-att-fira"
+      ],
+      "grammar": [
+        "grammar-for-att-infinitiv"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-den-svenska-skadespelaren-bill-skarsgard-ar-med",
       "type": "sentence",
       "title": "🇸🇪 Den svenska skådespelaren Bill Skarsgård är med i filmen.",
@@ -12901,6 +13327,41 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-18-listening-svt-latt",
         "vara-värt-det"
+      ]
+    },
+    {
+      "slug": "sent-det-ar-just-nu-mycket-varmt",
+      "type": "sentence",
+      "title": "🇸🇪 Det är just nu mycket varmt på många platser i Europa.",
+      "path": "knowledge_base/sentences/sent-det-ar-just-nu-mycket-varmt.md",
+      "body": "# 🇸🇪 Det är just nu mycket varmt på många platser i Europa.\n\n🇨🇳 目前欧洲许多地方非常炎热。\n\n## 结构 (Structure)\n\n```\n[Det] [är] [just nu] [mycket varmt] [på många platser] [i Europa]\n 主语   系动词  时间副词    表语（非常热）     地点介词短语        范围补语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — \"är\" = 现在时系动词\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[varm]], [[plats]]\n\n注：**just nu** = right now（现在，此刻）；**mycket varmt** = 非常热（varmt = 中性形式，因为 \"det\" 作形式主语）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det är just nu mycket varmt på många platser i Europa. 🇨🇳 目前欧洲许多地方非常炎热。 结构 (Structure) [Det] [är] [just nu] [mycket varmt] [på många platser] [i Europa] 主语 系动词 时间副词 表语（非常热） 地点介词短语 范围补语 语法点 (Grammar) 📌 grammar pre",
+      "forms": [],
+      "links": [
+        "grammar-presens",
+        "plats",
+        "source-2026-06-22-listening-svt-latt",
+        "varm"
+      ],
+      "searchText": "🇸🇪 Det är just nu mycket varmt på många platser i Europa. sent-det-ar-just-nu-mycket-varmt knowledge_base/sentences/sent-det-ar-just-nu-mycket-varmt.md ---\ntype: sentence\nsentence: \"Det är just nu mycket varmt på många platser i Europa.\"\nzh: 目前欧洲许多地方非常炎热。\ncefr: A1\nwords: [\"varm\", \"plats\"]\nphrases: []\ngrammar: [\"grammar-det-finns\", \"grammar-presens\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-vader-och-arstider\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är just nu mycket varmt på många platser i Europa.\n\n🇨🇳 目前欧洲许多地方非常炎热。\n\n## 结构 (Structure)\n\n```\n[Det] [är] [just nu] [mycket varmt] [på många platser] [i Europa]\n 主语   系动词  时间副词    表语（非常热）     地点介词短语        范围补语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-presens]] — \"är\" = 现在时系动词\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[varm]], [[plats]]\n\n注：**just nu** = right now（现在，此刻）；**mycket varmt** = 非常热（varmt = 中性形式，因为 \"det\" 作形式主语）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "A1",
+      "zh": "目前欧洲许多地方非常炎热。",
+      "created": "2026-06-22",
+      "sentence": "Det är just nu mycket varmt på många platser i Europa.",
+      "words": [
+        "varm",
+        "plats"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-det-finns",
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-vader-och-arstider"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -13271,6 +13732,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-det-borjar-med-sjalvreflektering",
+      "type": "sentence",
+      "title": "🇸🇪 Det börjar med självreflektering, att kunna se att man har gjort fel.",
+      "path": "knowledge_base/sentences/sent-det-borjar-med-sjalvreflektering.md",
+      "body": "# 🇸🇪 Det börjar med självreflektering, att kunna se att man har gjort fel.\n\n🇨🇳 一切从自我反思开始——能够认识到自己犯了错。\n\n## 结构 (Structure)\n\n```\n[Det] [börjar med] [självreflektering], [att kunna se att man har gjort fel]\n 形式主语  动词+介词      宾语（名词）        解释性att-短语（扩展说明）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — \"att kunna se att man har gjort fel\" = att-不定式从句作解释成分\n- 📌 [[grammar-infinitiv]] — \"att kunna se\" = 不定式结构（att + 动词）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[självreflektering]], [[börja]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det börjar med självreflektering, att kunna se att man har gjort fel. 🇨🇳 一切从自我反思开始——能够认识到自己犯了错。 结构 (Structure) [Det] [börjar med] [självreflektering], [att kunna se att man har gjort fel] 形式主语 动词+介词 宾语（名词） 解释性att ",
+      "forms": [],
+      "links": [
+        "börja",
+        "grammar-att-sats",
+        "grammar-infinitiv",
+        "självreflektering",
+        "source-2026-06-22-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Det börjar med självreflektering, att kunna se att man har gjort fel. sent-det-borjar-med-sjalvreflektering knowledge_base/sentences/sent-det-borjar-med-sjalvreflektering.md ---\ntype: sentence\nsentence: \"Det börjar med självreflektering, att kunna se att man har gjort fel.\"\nzh: 一切从自我反思开始——能够认识到自己犯了错。\ncefr: B1\nwords: [\"självreflektering\", \"börja\"]\nphrases: []\ngrammar: [\"grammar-att-sats\", \"grammar-infinitiv\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-karaktarsord\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det börjar med självreflektering, att kunna se att man har gjort fel.\n\n🇨🇳 一切从自我反思开始——能够认识到自己犯了错。\n\n## 结构 (Structure)\n\n```\n[Det] [börjar med] [självreflektering], [att kunna se att man har gjort fel]\n 形式主语  动词+介词      宾语（名词）        解释性att-短语（扩展说明）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — \"att kunna se att man har gjort fel\" = att-不定式从句作解释成分\n- 📌 [[grammar-infinitiv]] — \"att kunna se\" = 不定式结构（att + 动词）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[självreflektering]], [[börja]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "一切从自我反思开始——能够认识到自己犯了错。",
+      "created": "2026-06-22",
+      "sentence": "Det börjar med självreflektering, att kunna se att man har gjort fel.",
+      "words": [
+        "självreflektering",
+        "börja"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-att-sats",
+        "grammar-infinitiv"
+      ],
+      "topics": [
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-det-finns-risk-att-over-10000-hus",
       "type": "sentence",
       "title": "🇸🇪 Det finns risk att över 10 000 hus hamnar under vatten i framtiden.",
@@ -13571,6 +14068,45 @@ window.KB_DATA = {
       "grammar": [],
       "backlinks": [
         "source-2026-06-22-nyheter"
+      ]
+    },
+    {
+      "slug": "sent-det-slutade-med-att-jag-tog-stryptag",
+      "type": "sentence",
+      "title": "🇸🇪 Det slutade med att jag tog stryptag på henne i köket.",
+      "path": "knowledge_base/sentences/sent-det-slutade-med-att-jag-tog-stryptag.md",
+      "body": "# 🇸🇪 Det slutade med att jag tog stryptag på henne i köket.\n\n🇨🇳 结果我在厨房掐住了她的脖子。\n\n## 结构 (Structure)\n\n```\n[Det] [slutade] [med att] [jag tog stryptag på henne] [i köket]\n 形式主语  动词    介词+连词       宾语从句（att-sats）         地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — \"med att jag tog…\" = att-引导的宾语从句\n- 📌 [[grammar-preteritum]] — \"slutade\", \"tog\" = 过去时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stryptag]]\n- 词组: [[ta-stryptag-på]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Det slutade med att jag tog stryptag på henne i köket. 🇨🇳 结果我在厨房掐住了她的脖子。 结构 (Structure) [Det] [slutade] [med att] [jag tog stryptag på henne] [i köket] 形式主语 动词 介词+连词 宾语从句（att sats） 地点状语 语法点 (Grammar) 📌 grammar at",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "grammar-preteritum",
+        "source-2026-06-22-listening-svt-latt",
+        "stryptag",
+        "ta-stryptag-på"
+      ],
+      "searchText": "🇸🇪 Det slutade med att jag tog stryptag på henne i köket. sent-det-slutade-med-att-jag-tog-stryptag knowledge_base/sentences/sent-det-slutade-med-att-jag-tog-stryptag.md ---\ntype: sentence\nsentence: \"Det slutade med att jag tog stryptag på henne i köket.\"\nzh: 结果我在厨房掐住了她的脖子。\ncefr: B1\nwords: [\"stryptag\"]\nphrases: [\"ta-stryptag-på\"]\ngrammar: [\"grammar-att-sats\", \"grammar-preteritum\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-samhälle-och-politik\", \"topic-familj-och-barn\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det slutade med att jag tog stryptag på henne i köket.\n\n🇨🇳 结果我在厨房掐住了她的脖子。\n\n## 结构 (Structure)\n\n```\n[Det] [slutade] [med att] [jag tog stryptag på henne] [i köket]\n 形式主语  动词    介词+连词       宾语从句（att-sats）         地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — \"med att jag tog…\" = att-引导的宾语从句\n- 📌 [[grammar-preteritum]] — \"slutade\", \"tog\" = 过去时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stryptag]]\n- 词组: [[ta-stryptag-på]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "结果我在厨房掐住了她的脖子。",
+      "created": "2026-06-22",
+      "sentence": "Det slutade med att jag tog stryptag på henne i köket.",
+      "words": [
+        "stryptag"
+      ],
+      "phrases": [
+        "ta-stryptag-på"
+      ],
+      "grammar": [
+        "grammar-att-sats",
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt",
+        "ta-stryptag-på"
       ]
     },
     {
@@ -20689,6 +21225,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-jag-och-storasyrran-borjade-tjafsa",
+      "type": "sentence",
+      "title": "🇸🇪 Jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om.",
+      "path": "knowledge_base/sentences/sent-jag-och-storasyrran-borjade-tjafsa.md",
+      "body": "# 🇸🇪 Jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om.\n\n🇨🇳 我和大姐开始为我认为她完全搞错的一件事争吵。\n\n## 结构 (Structure)\n\n```\n[Jag och storasyrran] [började tjafsa] [om nåt] [jag tyckte hon hade helt fel om]\n       主语               开始+动词        介词宾语       关系从句修饰 nåt（某事）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-relativ-bisats-med-som]] — 省略关系代词的从句：\"nåt [som] jag tyckte…\"（非正式口语中常省略 som）\n- 📌 [[grammar-bisats-biff]] — 从句中副词位置：tyckte **hon hade** (bisatsordföljd = BIFF)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tjafsa]], [[syster]]\n\n注：**storasyrran** = 大姐姐（非正式口语，storasyrr + bestämd artikel）；**nåt** = 口语缩写 → något\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om. 🇨🇳 我和大姐开始为我认为她完全搞错的一件事争吵。 结构 (Structure) [Jag och storasyrran] [började tjafsa] [om nåt] [jag tyckte hon hade helt fel om] 主语 开始+动词 介词宾语 关",
+      "forms": [],
+      "links": [
+        "grammar-bisats-biff",
+        "grammar-relativ-bisats-med-som",
+        "source-2026-06-22-listening-svt-latt",
+        "syster",
+        "tjafsa"
+      ],
+      "searchText": "🇸🇪 Jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om. sent-jag-och-storasyrran-borjade-tjafsa knowledge_base/sentences/sent-jag-och-storasyrran-borjade-tjafsa.md ---\ntype: sentence\nsentence: \"Jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om.\"\nzh: 我和大姐开始为我认为她完全搞错的一件事争吵。\ncefr: B1\nwords: [\"tjafsa\", \"syster\"]\nphrases: []\ngrammar: [\"grammar-relativ-bisats-med-som\", \"grammar-bisats-biff\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-familj-och-barn\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om.\n\n🇨🇳 我和大姐开始为我认为她完全搞错的一件事争吵。\n\n## 结构 (Structure)\n\n```\n[Jag och storasyrran] [började tjafsa] [om nåt] [jag tyckte hon hade helt fel om]\n       主语               开始+动词        介词宾语       关系从句修饰 nåt（某事）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-relativ-bisats-med-som]] — 省略关系代词的从句：\"nåt [som] jag tyckte…\"（非正式口语中常省略 som）\n- 📌 [[grammar-bisats-biff]] — 从句中副词位置：tyckte **hon hade** (bisatsordföljd = BIFF)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tjafsa]], [[syster]]\n\n注：**storasyrran** = 大姐姐（非正式口语，storasyrr + bestämd artikel）；**nåt** = 口语缩写 → något\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "我和大姐开始为我认为她完全搞错的一件事争吵。",
+      "created": "2026-06-22",
+      "sentence": "Jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om.",
+      "words": [
+        "tjafsa",
+        "syster"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-relativ-bisats-med-som",
+        "grammar-bisats-biff"
+      ],
+      "topics": [
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "grammar-relativ-bisats-med-som",
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-jag-promenerar-langs-storgatan-solig-tisdag",
       "type": "sentence",
       "title": "🇸🇪 Jag promenerar längs Storgatan en solig tisdag förmiddag.",
@@ -21452,6 +22025,46 @@ window.KB_DATA = {
         "akut",
         "söka-hjälp",
         "source-2026-06-17-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-lagen-mot-fortryck-pa-grund-av-heder",
+      "type": "sentence",
+      "title": "🇸🇪 Lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli i år.",
+      "path": "knowledge_base/sentences/sent-lagen-mot-fortryck-pa-grund-av-heder.md",
+      "body": "# 🇸🇪 Lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli i år.\n\n🇨🇳 针对以荣誉为由实施压迫的法律将从今年7月2日起变得更加严格。\n\n## 结构 (Structure)\n\n```\n[Lagen mot förtryck på grund av heder] [blir] [hårdare] [från och med den 2 juli i år]\n              主语（法律）                 系动词    表语（比较级）       时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — \"hårdare\" = hård 的比较级（harder, more strict）\n- 📌 [[från-och-med]] — 时间介词短语，表示从某时间点开始\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förtryck]], [[lag]]\n- 词组: [[på-grund-av]], [[från-och-med]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli i år. 🇨🇳 针对以荣誉为由实施压迫的法律将从今年7月2日起变得更加严格。 结构 (Structure) [Lagen mot förtryck på grund av heder] [blir] [hårdare] [från och med den 2 juli i å",
+      "forms": [],
+      "links": [
+        "förtryck",
+        "från-och-med",
+        "grammar-komparativ",
+        "lag",
+        "på-grund-av",
+        "source-2026-06-22-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 Lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli i år. sent-lagen-mot-fortryck-pa-grund-av-heder knowledge_base/sentences/sent-lagen-mot-fortryck-pa-grund-av-heder.md ---\ntype: sentence\nsentence: \"Lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli i år.\"\nzh: 针对以荣誉为由实施压迫的法律将从今年7月2日起变得更加严格。\ncefr: B1\nwords: [\"förtryck\", \"lag\"]\nphrases: [\"på-grund-av\", \"från-och-med\"]\ngrammar: [\"grammar-komparativ\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-samhälle-och-politik\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli i år.\n\n🇨🇳 针对以荣誉为由实施压迫的法律将从今年7月2日起变得更加严格。\n\n## 结构 (Structure)\n\n```\n[Lagen mot förtryck på grund av heder] [blir] [hårdare] [från och med den 2 juli i år]\n              主语（法律）                 系动词    表语（比较级）       时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — \"hårdare\" = hård 的比较级（harder, more strict）\n- 📌 [[från-och-med]] — 时间介词短语，表示从某时间点开始\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förtryck]], [[lag]]\n- 词组: [[på-grund-av]], [[från-och-med]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "B1",
+      "zh": "针对以荣誉为由实施压迫的法律将从今年7月2日起变得更加严格。",
+      "created": "2026-06-22",
+      "sentence": "Lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli i år.",
+      "words": [
+        "förtryck",
+        "lag"
+      ],
+      "phrases": [
+        "på-grund-av",
+        "från-och-med"
+      ],
+      "grammar": [
+        "grammar-komparativ"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "från-och-med",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -27216,6 +27829,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-tva-vagnar-lamnade-sparet-och-foll",
+      "type": "sentence",
+      "title": "🇸🇪 Två vagnar lämnade spåret och föll ner på en väg under bron.",
+      "path": "knowledge_base/sentences/sent-tva-vagnar-lamnade-sparet-och-foll.md",
+      "body": "# 🇸🇪 Två vagnar lämnade spåret och föll ner på en väg under bron.\n\n🇨🇳 两节车厢脱轨，坠落到桥下的公路上。\n\n## 结构 (Structure)\n\n```\n[Två vagnar] [lämnade spåret] [och] [föll ner] [på en väg] [under bron]\n    主语        动词+宾语（脱轨）   并列   动词+副词     地点介词短语    方位补语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — \"lämnade\"（v.1 弱变化）, \"föll\"（falla的不规则过去时）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vagn]], [[spår]], [[väg]]\n\n注：**lämna spåret** = 脱轨（字面\"离开轨道\"）；**föll ner** = fell down（坠落）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 Två vagnar lämnade spåret och föll ner på en väg under bron. 🇨🇳 两节车厢脱轨，坠落到桥下的公路上。 结构 (Structure) [Två vagnar] [lämnade spåret] [och] [föll ner] [på en väg] [under bron] 主语 动词+宾语（脱轨） 并列 动词+副词 地点介词短语 方位补语 语法点 (Gramm",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "source-2026-06-22-listening-svt-latt",
+        "spår",
+        "väg",
+        "vagn"
+      ],
+      "searchText": "🇸🇪 Två vagnar lämnade spåret och föll ner på en väg under bron. sent-tva-vagnar-lamnade-sparet-och-foll knowledge_base/sentences/sent-tva-vagnar-lamnade-sparet-och-foll.md ---\ntype: sentence\nsentence: \"Två vagnar lämnade spåret och föll ner på en väg under bron.\"\nzh: 两节车厢脱轨，坠落到桥下的公路上。\ncefr: A2\nwords: [\"vagn\", \"spår\", \"väg\", \"bro\"]\nphrases: []\ngrammar: [\"grammar-preteritum\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-trafik\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Två vagnar lämnade spåret och föll ner på en väg under bron.\n\n🇨🇳 两节车厢脱轨，坠落到桥下的公路上。\n\n## 结构 (Structure)\n\n```\n[Två vagnar] [lämnade spåret] [och] [föll ner] [på en väg] [under bron]\n    主语        动词+宾语（脱轨）   并列   动词+副词     地点介词短语    方位补语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — \"lämnade\"（v.1 弱变化）, \"föll\"（falla的不规则过去时）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[vagn]], [[spår]], [[väg]]\n\n注：**lämna spåret** = 脱轨（字面\"离开轨道\"）；**föll ner** = fell down（坠落）\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "两节车厢脱轨，坠落到桥下的公路上。",
+      "created": "2026-06-22",
+      "sentence": "Två vagnar lämnade spåret och föll ner på en väg under bron.",
+      "words": [
+        "vagn",
+        "spår",
+        "väg",
+        "bro"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "sent-ukrainas-ledare-volodymyr-zelenskyj",
       "type": "sentence",
       "title": "🇸🇪 Ukrainas ledare Volodymyr Zelenskyj var också med på mötet.",
@@ -27439,6 +28089,40 @@ window.KB_DATA = {
         "komma-överens",
         "source-2026-06-19-nyheter-8sidor",
         "vara-överens"
+      ]
+    },
+    {
+      "slug": "sent-usa-och-iran-ha-haft-sina-forsta",
+      "type": "sentence",
+      "title": "🇸🇪 USA och Iran ha haft sina första samtal i Schweiz.",
+      "path": "knowledge_base/sentences/sent-usa-och-iran-ha-haft-sina-forsta.md",
+      "body": "# 🇸🇪 USA och Iran ha haft sina första samtal i Schweiz.\n\n🇨🇳 美国和伊朗在瑞士举行了首次会谈。\n\n## 结构 (Structure)\n\n```\n[USA och Iran] [ha haft] [sina första samtal] [i Schweiz]\n    主语         完成时动词      宾语（会谈）         地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — \"ha haft\" = 现在完成时（har haft），口语/非正式书写中 \"har\" 可缩略为 \"ha\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[avtal]], [[samtal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "🇸🇪 USA och Iran ha haft sina första samtal i Schweiz. 🇨🇳 美国和伊朗在瑞士举行了首次会谈。 结构 (Structure) [USA och Iran] [ha haft] [sina första samtal] [i Schweiz] 主语 完成时动词 宾语（会谈） 地点 语法点 (Grammar) 📌 grammar perfekt — \"ha haft\" = 现在完",
+      "forms": [],
+      "links": [
+        "avtal",
+        "grammar-perfekt",
+        "samtal",
+        "source-2026-06-22-listening-svt-latt"
+      ],
+      "searchText": "🇸🇪 USA och Iran ha haft sina första samtal i Schweiz. sent-usa-och-iran-ha-haft-sina-forsta knowledge_base/sentences/sent-usa-och-iran-ha-haft-sina-forsta.md ---\ntype: sentence\nsentence: \"USA och Iran ha haft sina första samtal i Schweiz.\"\nzh: 美国和伊朗在瑞士举行了首次会谈。\ncefr: A2\nwords: [\"avtal\", \"samtal\"]\nphrases: []\ngrammar: [\"grammar-perfekt\"]\nsource: \"source-2026-06-22-listening-svt-latt\"\ntopics: [\"topic-krig-och-konflikt\"]\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 USA och Iran ha haft sina första samtal i Schweiz.\n\n🇨🇳 美国和伊朗在瑞士举行了首次会谈。\n\n## 结构 (Structure)\n\n```\n[USA och Iran] [ha haft] [sina första samtal] [i Schweiz]\n    主语         完成时动词      宾语（会谈）         地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — \"ha haft\" = 现在完成时（har haft），口语/非正式书写中 \"har\" 可缩略为 \"ha\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[avtal]], [[samtal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-22-listening-svt-latt]]\n",
+      "cefr": "A2",
+      "zh": "美国和伊朗在瑞士举行了首次会谈。",
+      "created": "2026-06-22",
+      "sentence": "USA och Iran ha haft sina första samtal i Schweiz.",
+      "words": [
+        "avtal",
+        "samtal"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-krig-och-konflikt"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -34045,6 +34729,126 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-22-listening-svt-latt",
+      "type": "source",
+      "title": "SVT Nyheter på lätt svenska — 22 jun 2026",
+      "path": "knowledge_base/sources/source-2026-06-22-listening-svt-latt.md",
+      "body": "# 🎧 SVT Nyheter på lätt svenska — 22 jun 2026\n\n类型: listening (hörvning) · 难度: A2–B1 · Avsnitt 116\n\n🎧 [SVT Play](https://www.svtplay.se/video/jxggQ1B/nyheter-pa-latt-svenska)\n\n## 原文概要 (Source Summary)\n\n三大新闻：美伊瑞士会谈、瑞典荣誉暴力立法、慕尼黑火车事故；欧洲热浪；天气预报。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: [[hedersvåld]] · [[olaglig]] · [[omhänderta]] · [[förtryck]] · [[tjafsa]] · [[stryptag]] · [[vagn]] · [[spår]] · [[krocka]] · [[förbjuda]] · [[självreflektering]] · [[utsatthet]] · [[jämställdhet]] · [[inblandad]]\n- 词组: [[på-grund-av]] · [[från-och-med]] · [[ta-stryptag-på]] · [[vidta-åtgärder]]\n- 句子: [[sent-usa-och-iran-ha-haft-sina-forsta]] · [[sent-de-har-kommit-overens-om-en-plan]] · [[sent-att-sla-nagon-i-sin-familj-kallas]] · [[sent-den-svenska-regeringen-ger-nu-17]] · [[sent-jag-och-storasyrran-borjade-tjafsa]] · [[sent-det-slutade-med-att-jag-tog-stryptag]] · [[sent-66-procent-av-flickorna-blir]] · [[sent-barn-och-unga-behover-mota-vuxna]] · [[sent-lagen-mot-fortryck-pa-grund-av-heder]] · [[sent-det-borjar-med-sjalvreflektering]] · [[sent-tva-vagnar-lamnade-sparet-och-foll]] · [[sent-det-ar-just-nu-mycket-varmt]] · [[sent-dar-ska-over-800-skolor-halla-stangt]]\n- 语法: [[grammar-passiv-konstruktion]] · [[grammar-relativ-bisats-med-som]]",
+      "excerpt": "🎧 SVT Nyheter på lätt svenska — 22 jun 2026 类型: listening (hörvning) · 难度: A2–B1 · Avsnitt 116 🎧 [SVT Play](https://www.svtplay.se/video/jxggQ1B/nyheter pa latt svenska) 原文概要 (Source Summary) 三大新闻：美伊瑞士会谈、瑞典荣誉暴力立法、慕尼黑火车",
+      "forms": [],
+      "links": [
+        "förbjuda",
+        "förtryck",
+        "från-och-med",
+        "grammar-passiv-konstruktion",
+        "grammar-relativ-bisats-med-som",
+        "hedersvåld",
+        "inblandad",
+        "jämställdhet",
+        "krocka",
+        "olaglig",
+        "omhänderta",
+        "på-grund-av",
+        "sent-66-procent-av-flickorna-blir",
+        "sent-att-sla-nagon-i-sin-familj-kallas",
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "sent-dar-ska-over-800-skolor-halla-stangt",
+        "sent-de-har-kommit-overens-om-en-plan",
+        "sent-den-svenska-regeringen-ger-nu-17",
+        "sent-det-ar-just-nu-mycket-varmt",
+        "sent-det-borjar-med-sjalvreflektering",
+        "sent-det-slutade-med-att-jag-tog-stryptag",
+        "sent-jag-och-storasyrran-borjade-tjafsa",
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "sent-tva-vagnar-lamnade-sparet-och-foll",
+        "sent-usa-och-iran-ha-haft-sina-forsta",
+        "självreflektering",
+        "spår",
+        "stryptag",
+        "ta-stryptag-på",
+        "tjafsa",
+        "utsatthet",
+        "vagn",
+        "vidta-åtgärder"
+      ],
+      "searchText": "SVT Nyheter på lätt svenska — 22 jun 2026 source-2026-06-22-listening-svt-latt knowledge_base/sources/source-2026-06-22-listening-svt-latt.md ---\ntype: source\ntitle: \"SVT Nyheter på lätt svenska — 22 jun 2026\"\nkind: listening\ncefr: A2-B1\ndate_added: 2026-06-22\nwords:\n  - hedersvåld\n  - olaglig\n  - omhänderta\n  - förtryck\n  - tjafsa\n  - stryptag\n  - vagn\n  - spår\n  - krocka\n  - förbjuda\n  - självreflektering\n  - utsatthet\n  - jämställdhet\n  - inblandad\nphrases:\n  - på-grund-av\n  - från-och-med\n  - ta-stryptag-på\n  - vidta-åtgärder\nsentences:\n  - sent-usa-och-iran-ha-haft-sina-forsta\n  - sent-de-har-kommit-overens-om-en-plan\n  - sent-att-sla-nagon-i-sin-familj-kallas\n  - sent-den-svenska-regeringen-ger-nu-17\n  - sent-jag-och-storasyrran-borjade-tjafsa\n  - sent-det-slutade-med-att-jag-tog-stryptag\n  - sent-66-procent-av-flickorna-blir\n  - sent-barn-och-unga-behover-mota-vuxna\n  - sent-lagen-mot-fortryck-pa-grund-av-heder\n  - sent-det-borjar-med-sjalvreflektering\n  - sent-tva-vagnar-lamnade-sparet-och-foll\n  - sent-det-ar-just-nu-mycket-varmt\n  - sent-dar-ska-over-800-skolor-halla-stangt\ngrammar:\n  - grammar-passiv-konstruktion\n  - grammar-relativ-bisats-med-som\n---\n\n# 🎧 SVT Nyheter på lätt svenska — 22 jun 2026\n\n类型: listening (hörvning) · 难度: A2–B1 · Avsnitt 116\n\n🎧 [SVT Play](https://www.svtplay.se/video/jxggQ1B/nyheter-pa-latt-svenska)\n\n## 原文概要 (Source Summary)\n\n三大新闻：美伊瑞士会谈、瑞典荣誉暴力立法、慕尼黑火车事故；欧洲热浪；天气预报。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: [[hedersvåld]] · [[olaglig]] · [[omhänderta]] · [[förtryck]] · [[tjafsa]] · [[stryptag]] · [[vagn]] · [[spår]] · [[krocka]] · [[förbjuda]] · [[självreflektering]] · [[utsatthet]] · [[jämställdhet]] · [[inblandad]]\n- 词组: [[på-grund-av]] · [[från-och-med]] · [[ta-stryptag-på]] · [[vidta-åtgärder]]\n- 句子: [[sent-usa-och-iran-ha-haft-sina-forsta]] · [[sent-de-har-kommit-overens-om-en-plan]] · [[sent-att-sla-nagon-i-sin-familj-kallas]] · [[sent-den-svenska-regeringen-ger-nu-17]] · [[sent-jag-och-storasyrran-borjade-tjafsa]] · [[sent-det-slutade-med-att-jag-tog-stryptag]] · [[sent-66-procent-av-flickorna-blir]] · [[sent-barn-och-unga-behover-mota-vuxna]] · [[sent-lagen-mot-fortryck-pa-grund-av-heder]] · [[sent-det-borjar-med-sjalvreflektering]] · [[sent-tva-vagnar-lamnade-sparet-och-foll]] · [[sent-det-ar-just-nu-mycket-varmt]] · [[sent-dar-ska-over-800-skolor-halla-stangt]]\n- 语法: [[grammar-passiv-konstruktion]] · [[grammar-relativ-bisats-med-som]]\n",
+      "cefr": "A2-B1",
+      "date_added": "2026-06-22",
+      "kind": "listening",
+      "words": [
+        "hedersvåld",
+        "olaglig",
+        "omhänderta",
+        "förtryck",
+        "tjafsa",
+        "stryptag",
+        "vagn",
+        "spår",
+        "krocka",
+        "förbjuda",
+        "självreflektering",
+        "utsatthet",
+        "jämställdhet",
+        "inblandad"
+      ],
+      "phrases": [
+        "på-grund-av",
+        "från-och-med",
+        "ta-stryptag-på",
+        "vidta-åtgärder"
+      ],
+      "sentences": [
+        "sent-usa-och-iran-ha-haft-sina-forsta",
+        "sent-de-har-kommit-overens-om-en-plan",
+        "sent-att-sla-nagon-i-sin-familj-kallas",
+        "sent-den-svenska-regeringen-ger-nu-17",
+        "sent-jag-och-storasyrran-borjade-tjafsa",
+        "sent-det-slutade-med-att-jag-tog-stryptag",
+        "sent-66-procent-av-flickorna-blir",
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "sent-det-borjar-med-sjalvreflektering",
+        "sent-tva-vagnar-lamnade-sparet-och-foll",
+        "sent-det-ar-just-nu-mycket-varmt",
+        "sent-dar-ska-over-800-skolor-halla-stangt"
+      ],
+      "grammar": [
+        "grammar-passiv-konstruktion",
+        "grammar-relativ-bisats-med-som"
+      ],
+      "backlinks": [
+        "förtryck",
+        "från-och-med",
+        "hedersvåld",
+        "inblandad",
+        "jämställdhet",
+        "krocka",
+        "olaglig",
+        "omhänderta",
+        "sent-66-procent-av-flickorna-blir",
+        "sent-att-sla-nagon-i-sin-familj-kallas",
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "sent-dar-ska-over-800-skolor-halla-stangt",
+        "sent-de-har-kommit-overens-om-en-plan",
+        "sent-den-svenska-regeringen-ger-nu-17",
+        "sent-det-ar-just-nu-mycket-varmt",
+        "sent-det-borjar-med-sjalvreflektering",
+        "sent-det-slutade-med-att-jag-tog-stryptag",
+        "sent-jag-och-storasyrran-borjade-tjafsa",
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "sent-tva-vagnar-lamnade-sparet-och-foll",
+        "sent-usa-och-iran-ha-haft-sina-forsta",
+        "självreflektering",
+        "spår",
+        "stryptag",
+        "ta-stryptag-på",
+        "tjafsa",
+        "utsatthet",
+        "vagn",
+        "vidta-åtgärder"
+      ]
+    },
+    {
       "slug": "source-2026-06-22-nyheter-8sidor",
       "type": "source",
       "title": "8 Sidor lättläst nyheter — 2026-06-22",
@@ -34714,6 +35518,7 @@ window.KB_DATA = {
         "mor",
         "moster",
         "nyfödd",
+        "omhänderta",
         "pappa",
         "par",
         "pojke",
@@ -34726,6 +35531,7 @@ window.KB_DATA = {
         "spädbarn",
         "syskon",
         "syster",
+        "tjafsa",
         "topic-personer",
         "vuxen"
       ]
@@ -34993,6 +35799,7 @@ window.KB_DATA = {
         "trött",
         "undersökning",
         "undvika",
+        "utsatthet",
         "väntetid"
       ]
     },
@@ -35249,6 +36056,7 @@ window.KB_DATA = {
         "rolig",
         "säker",
         "särskild",
+        "självreflektering",
         "skygg",
         "smal",
         "smart",
@@ -36347,15 +37155,19 @@ window.KB_DATA = {
         "fängelse",
         "förbjuda",
         "förlora-makten",
+        "förtryck",
         "gäng",
         "gas",
         "gripa",
+        "hedersvåld",
         "höja",
         "hov",
         "i-genomsnitt",
+        "inblandad",
         "index",
         "invånare",
         "invandrare",
+        "jämställdhet",
         "kärnvapen",
         "klimatmål",
         "kommun",
@@ -36372,7 +37184,9 @@ window.KB_DATA = {
         "myndighet",
         "nationaldag",
         "öka",
+        "olaglig",
         "olja",
+        "omhänderta",
         "politiker",
         "provins",
         "ränta",
@@ -36407,12 +37221,15 @@ window.KB_DATA = {
         "statistik",
         "straff",
         "strejka",
+        "stryptag",
         "tal",
         "topic-krig-och-konflikt",
         "topic-miljö-och-klimat",
+        "utsatthet",
         "väljare",
         "välkomna",
-        "vapen"
+        "vapen",
+        "vidta-åtgärder"
       ]
     },
     {
@@ -36692,6 +37509,7 @@ window.KB_DATA = {
         "dag",
         "fortfarande",
         "framtid",
+        "från-och-med",
         "helg",
         "just",
         "klocka",
@@ -36768,12 +37586,14 @@ window.KB_DATA = {
         "hållplats",
         "köra",
         "korsning",
+        "krocka",
         "lastbil",
         "livlig",
         "parkering",
         "rondell",
         "source-2026-06-09-beskriva-en-gata",
         "source-2026-06-18-nyheter-8sidor",
+        "spår",
         "stanna",
         "station",
         "tåg",
@@ -36784,7 +37604,8 @@ window.KB_DATA = {
         "trottoar",
         "tung",
         "tunnel",
-        "väg"
+        "väg",
+        "vagn"
       ]
     },
     {
@@ -38670,8 +39491,10 @@ window.KB_DATA = {
         "topic-krig-och-konflikt"
       ],
       "backlinks": [
+        "sent-de-har-kommit-overens-om-en-plan",
         "sent-flera-experter-säger-att-det-är-iran",
         "sent-i-avtalet-lovar-iran-bland-annat",
+        "sent-usa-och-iran-ha-haft-sina-forsta",
         "sent-usas-och-irans-presidenter-har-skrivit",
         "skriva-under",
         "source-2026-06-18-listening-svt-latt",
@@ -40820,6 +41643,7 @@ window.KB_DATA = {
       "backlinks": [
         "avsluta",
         "påbörja",
+        "sent-det-borjar-med-sjalvreflektering",
         "source-2026-06-10-zlatan-subst-verb"
       ]
     },
@@ -40930,6 +41754,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-09-zlatan-bio",
+        "tjafsa",
         "topic-familj-och-barn"
       ]
     },
@@ -43795,6 +44620,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "förälder",
+        "sent-att-sla-nagon-i-sin-familj-kallas",
         "topic-personer"
       ]
     },
@@ -44883,6 +45709,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "pojke",
+        "sent-66-procent-av-flickorna-blir",
         "sent-när-flickan-får-en-dator",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-18-nyheter-8sidor",
@@ -45258,6 +46085,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-regeringen-forbjuder-barer-att-salja-alkohol",
+        "source-2026-06-22-listening-svt-latt",
         "source-2026-06-22-nyheter-8sidor",
         "topic-samhälle-och-politik"
       ]
@@ -45785,6 +46613,43 @@ window.KB_DATA = {
         "sent-trots-forlusten-kan-sverige-ga-vidare",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-tid-och-tidsuttryck"
+      ]
+    },
+    {
+      "slug": "förtryck",
+      "type": "word",
+      "title": "förtryck",
+      "path": "knowledge_base/words/förtryck.md",
+      "body": "# förtryck — substantiv (ett)\n\n📖 中文：压迫，压制 · English: oppression, repression\n发音提示：feur-TRICK\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett förtryck |\n| bestämd sing. | förtrycket |\n| obestämd pl. | förtryck |\n| bestämd pl. | förtrycken |\n\n动词形式：**förtrycka**（压迫）→ förtrycker / förtryckte / förtryckt\n\n## 词组搭配 (Collocations)\n\n- `förtryck på grund av heder` — 以荣誉为由的压迫\n- `leva under förtryck` — 生活在压迫下\n- `kämpa mot förtryck` — 反抗压迫\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli. — 🇨🇳 针对以荣誉为由实施压迫的法律将从7月2日起变得更加严格。\n- 🇸🇪 Många unga kvinnor lever under förtryck i sina familjer. — 🇨🇳 许多年轻女性在家庭中生活在压迫之下。\n- 🇸🇪 Förtryck av individen är förbjudet enligt svensk lag. — 🇨🇳 根据瑞典法律，对个人的压迫是被禁止的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hedersvåld]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 通常指系统性的压迫，比 **våld**（暴力）含义更广，包括心理控制、限制自由等。\n- 动词形式 **förtrycka** 较少用于口语。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "förtryck — substantiv (ett) 📖 中文：压迫，压制 · English: oppression, repression 发音提示：feur TRICK 语法变形 (Forms) form Swedish obestämd sing. ett förtryck bestämd sing. förtrycket obestämd pl. förtryck bestämd pl. förtrycken 动词形式： ",
+      "forms": [
+        "förtryck",
+        "förtrycket",
+        "förtrycken"
+      ],
+      "links": [
+        "hedersvåld",
+        "source-2026-06-22-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "förtryck förtryck knowledge_base/words/förtryck.md ---\ntype: word\nlemma: \"förtryck\"\nordklass: substantiv\ngenus: ett\ncefr: B1\nzh: 压迫，压制\nen: oppression, repression\nsynonyms: []\nantonyms: []\nfamily: [\"hedersvåld\"]\ntopics: [\"topic-samhälle-och-politik\"]\nsentences:\n  - sent-lagen-mot-fortryck-pa-grund-av-heder\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förtryck — substantiv (ett)\n\n📖 中文：压迫，压制 · English: oppression, repression\n发音提示：feur-TRICK\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett förtryck |\n| bestämd sing. | förtrycket |\n| obestämd pl. | förtryck |\n| bestämd pl. | förtrycken |\n\n动词形式：**förtrycka**（压迫）→ förtrycker / förtryckte / förtryckt\n\n## 词组搭配 (Collocations)\n\n- `förtryck på grund av heder` — 以荣誉为由的压迫\n- `leva under förtryck` — 生活在压迫下\n- `kämpa mot förtryck` — 反抗压迫\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lagen mot förtryck på grund av heder blir hårdare från och med den 2 juli. — 🇨🇳 针对以荣誉为由实施压迫的法律将从7月2日起变得更加严格。\n- 🇸🇪 Många unga kvinnor lever under förtryck i sina familjer. — 🇨🇳 许多年轻女性在家庭中生活在压迫之下。\n- 🇸🇪 Förtryck av individen är förbjudet enligt svensk lag. — 🇨🇳 根据瑞典法律，对个人的压迫是被禁止的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hedersvåld]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 通常指系统性的压迫，比 **våld**（暴力）含义更广，包括心理控制、限制自由等。\n- 动词形式 **förtrycka** 较少用于口语。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "förtryck",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "压迫，压制",
+      "en": "oppression, repression",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-lagen-mot-fortryck-pa-grund-av-heder"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "hedersvåld",
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -48426,6 +49291,7 @@ window.KB_DATA = {
         "topic-kropp"
       ],
       "backlinks": [
+        "omhänderta",
         "source-2026-06-19-adjsubst-blandat"
       ]
     },
@@ -48784,6 +49650,47 @@ window.KB_DATA = {
         "source-2026-06-19-pa-cafe-bestalla",
         "topic-kafe-fika",
         "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "hedersvåld",
+      "type": "word",
+      "title": "hedersvåld",
+      "path": "knowledge_base/words/hedersvåld.md",
+      "body": "# hedersvåld — substantiv (ett)\n\n📖 中文：荣誉暴力（以家族荣誉为由的暴力） · English: honour-based violence\n发音提示：HEH-ders-vold（重音在 heder）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett hedersvåld |\n| bestämd sing. | hedersvåldet |\n| obestämd pl. | (hedersvåld – sällan plural) |\n| bestämd pl. | hedersvålden |\n\n词源：复合词 **heder**（荣誉）+ **våld**（暴力）\n\n## 词组搭配 (Collocations)\n\n- `hedersvåld i familjer` — 家庭中的荣誉暴力\n- `stoppa hedersvåld` — 阻止荣誉暴力\n- `utsatt för hedersvåld` — 遭受荣誉暴力\n\n## 例句 (Sentences)\n\n- 🇸🇪 Att slå någon i sin familj för att den klär sig på ett visst sätt kallas hedersvåld. — 🇨🇳 殴打家庭成员因其穿着方式，这被称为荣誉暴力。\n- 🇸🇪 Regeringen ger pengar till kommunerna för att stoppa hedersvåld i familjer. — 🇨🇳 政府向各市政府拨款以阻止家庭中的荣誉暴力。\n- 🇸🇪 Lagen mot hedersvåld blir hårdare från och med juli. — 🇨🇳 针对荣誉暴力的法律将从七月起变得更严格。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förtryck]], [[våld]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 专业社会/法律用语，指以维护家族荣誉为名，对家庭成员（尤其是女性和年轻人）实施的暴力或压迫行为。\n- 瑞典法律已将此列为专门罪类，与普通暴力罪区分开来。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "hedersvåld — substantiv (ett) 📖 中文：荣誉暴力（以家族荣誉为由的暴力） · English: honour based violence 发音提示：HEH ders vold（重音在 heder） 语法变形 (Forms) form Swedish obestämd sing. ett hedersvåld bestämd sing. hedersvåldet obestämd pl. (hedersv",
+      "forms": [
+        "hedersvåld",
+        "hedersvåldet",
+        "hedersvålden"
+      ],
+      "links": [
+        "förtryck",
+        "source-2026-06-22-listening-svt-latt",
+        "topic-samhälle-och-politik",
+        "våld"
+      ],
+      "searchText": "hedersvåld hedersvåld knowledge_base/words/hedersvåld.md ---\ntype: word\nlemma: \"hedersvåld\"\nordklass: substantiv\ngenus: ett\ncefr: B1\nzh: 荣誉暴力（以家族荣誉为由的暴力）\nen: honour-based violence\nsynonyms: []\nantonyms: []\nfamily: [\"förtryck\"]\ntopics: [\"topic-samhälle-och-politik\"]\nsentences:\n  - sent-att-sla-nagon-i-sin-familj-kallas\n  - sent-den-svenska-regeringen-ger-nu-17\n  - sent-lagen-mot-fortryck-pa-grund-av-heder\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hedersvåld — substantiv (ett)\n\n📖 中文：荣誉暴力（以家族荣誉为由的暴力） · English: honour-based violence\n发音提示：HEH-ders-vold（重音在 heder）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett hedersvåld |\n| bestämd sing. | hedersvåldet |\n| obestämd pl. | (hedersvåld – sällan plural) |\n| bestämd pl. | hedersvålden |\n\n词源：复合词 **heder**（荣誉）+ **våld**（暴力）\n\n## 词组搭配 (Collocations)\n\n- `hedersvåld i familjer` — 家庭中的荣誉暴力\n- `stoppa hedersvåld` — 阻止荣誉暴力\n- `utsatt för hedersvåld` — 遭受荣誉暴力\n\n## 例句 (Sentences)\n\n- 🇸🇪 Att slå någon i sin familj för att den klär sig på ett visst sätt kallas hedersvåld. — 🇨🇳 殴打家庭成员因其穿着方式，这被称为荣誉暴力。\n- 🇸🇪 Regeringen ger pengar till kommunerna för att stoppa hedersvåld i familjer. — 🇨🇳 政府向各市政府拨款以阻止家庭中的荣誉暴力。\n- 🇸🇪 Lagen mot hedersvåld blir hårdare från och med juli. — 🇨🇳 针对荣誉暴力的法律将从七月起变得更严格。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förtryck]], [[våld]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 专业社会/法律用语，指以维护家族荣誉为名，对家庭成员（尤其是女性和年轻人）实施的暴力或压迫行为。\n- 瑞典法律已将此列为专门罪类，与普通暴力罪区分开来。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "hedersvåld",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "荣誉暴力（以家族荣誉为由的暴力）",
+      "en": "honour-based violence",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-att-sla-nagon-i-sin-familj-kallas",
+        "sent-den-svenska-regeringen-ger-nu-17",
+        "sent-lagen-mot-fortryck-pa-grund-av-heder"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "förtryck",
+        "sent-att-sla-nagon-i-sin-familj-kallas",
+        "sent-den-svenska-regeringen-ger-nu-17",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -49904,6 +50811,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "inblandad",
+      "type": "word",
+      "title": "inblandad",
+      "path": "knowledge_base/words/inblandad.md",
+      "body": "# inblandad — adjektiv\n\n📖 中文：被卷入的，介入的 · English: involved, implicated\n发音提示：IN-bland-ad\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sing. | inblandad |\n| neutrum sing. | inblandat |\n| plural / bestämd | inblandade |\n\n词源：perfektparticip av **blanda in**（混入/介入）→ inblandad\n\n## 词组搭配 (Collocations)\n\n- `vara inblandad i` — 卷入……，参与……\n- `bli inblandad i ett brott` — 被卷入犯罪\n- `de inblandade parterna` — 涉及的各方\n\n## 例句 (Sentences)\n\n- 🇸🇪 Alla inblandade parter måste ta ansvar. — 🇨🇳 所有涉及各方都必须承担责任。\n- 🇸🇪 Han var inte inblandad i brottet. — 🇨🇳 他没有涉及这起犯罪。\n- 🇸🇪 Vilka länder är inblandade i konflikten? — 🇨🇳 哪些国家卷入了这场冲突？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: blanda in（混入），inblandning（介入）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常与介词 **i** 搭配：**vara inblandad i något**（卷入某事）。\n- 是动词 **blanda in** 的过去分词/形容词形式，blanda in = 将某物混入；(被动) bli inblandad = 被卷入。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "inblandad — adjektiv 📖 中文：被卷入的，介入的 · English: involved, implicated 发音提示：IN bland ad 语法变形 (Forms) form Swedish utrum sing. inblandad neutrum sing. inblandat plural / bestämd inblandade 词源：perfektparticip av blanda in （混入",
+      "forms": [
+        "inblandad",
+        "inblandat",
+        "inblandade"
+      ],
+      "links": [
+        "source-2026-06-22-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "inblandad inblandad knowledge_base/words/inblandad.md ---\ntype: word\nlemma: \"inblandad\"\nordklass: adjektiv\ngenus: \"\"\ncefr: B1\nzh: 被卷入的，介入的\nen: involved, implicated\nsynonyms: []\nantonyms: []\nfamily: [\"blanda\", \"inblandning\"]\ntopics: [\"topic-samhälle-och-politik\"]\nsentences: []\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# inblandad — adjektiv\n\n📖 中文：被卷入的，介入的 · English: involved, implicated\n发音提示：IN-bland-ad\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sing. | inblandad |\n| neutrum sing. | inblandat |\n| plural / bestämd | inblandade |\n\n词源：perfektparticip av **blanda in**（混入/介入）→ inblandad\n\n## 词组搭配 (Collocations)\n\n- `vara inblandad i` — 卷入……，参与……\n- `bli inblandad i ett brott` — 被卷入犯罪\n- `de inblandade parterna` — 涉及的各方\n\n## 例句 (Sentences)\n\n- 🇸🇪 Alla inblandade parter måste ta ansvar. — 🇨🇳 所有涉及各方都必须承担责任。\n- 🇸🇪 Han var inte inblandad i brottet. — 🇨🇳 他没有涉及这起犯罪。\n- 🇸🇪 Vilka länder är inblandade i konflikten? — 🇨🇳 哪些国家卷入了这场冲突？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: blanda in（混入），inblandning（介入）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常与介词 **i** 搭配：**vara inblandad i något**（卷入某事）。\n- 是动词 **blanda in** 的过去分词/形容词形式，blanda in = 将某物混入；(被动) bli inblandad = 被卷入。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "inblandad",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "被卷入的，介入的",
+      "en": "involved, implicated",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "ingen",
       "type": "word",
       "title": "ingen",
@@ -50292,6 +51231,37 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-22-nyheter-8sidor",
         "topic-samhälle-och-politik"
+      ]
+    },
+    {
+      "slug": "jämställdhet",
+      "type": "word",
+      "title": "jämställdhet",
+      "path": "knowledge_base/words/jämställdhet.md",
+      "body": "# jämställdhet — substantiv (en)\n\n📖 中文：性别平等 · English: gender equality\n发音提示：YEM-steld-het\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | en jämställdhet |\n| bestämd sing. | jämställdheten |\n| (plural sällan) | — |\n\n词源：**jämställd**（地位平等的）+ **-het** → 抽象名词\n\n## 词组搭配 (Collocations)\n\n- `kämpa för jämställdhet` — 为性别平等而斗争\n- `jämställdhet mellan könen` — 两性之间的平等\n- `jämställdhetspolitik` — 性别平等政策\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sverige arbetar aktivt för jämställdhet mellan kvinnor och män. — 🇨🇳 瑞典积极推进男女之间的性别平等。\n- 🇸🇪 Jämställdheten hotas av hedersvåld och förtryck. — 🇨🇳 性别平等受到荣誉暴力和压迫的威胁。\n- 🇸🇪 Det finns fortfarande stor ojämställdhet på arbetsmarknaden. — 🇨🇳 劳动力市场上仍然存在很大的性别不平等。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: jämlikhet（普遍平等，不限性别）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- **jämställdhet** 专指**性别平等**（男女之间），是瑞典政治中的核心概念。\n- **jämlikhet** = 更广泛的平等（不分种族、阶级、性别等）。\n- 对比：equality of gender = jämställdhet；equality in general = jämlikhet。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "jämställdhet — substantiv (en) 📖 中文：性别平等 · English: gender equality 发音提示：YEM steld het 语法变形 (Forms) form Swedish obestämd sing. en jämställdhet bestämd sing. jämställdheten (plural sällan) — 词源： jämställd （地位平等的）+ het →",
+      "forms": [
+        "jämställdhet",
+        "jämställdheten"
+      ],
+      "links": [
+        "source-2026-06-22-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "jämställdhet jämställdhet knowledge_base/words/jämställdhet.md ---\ntype: word\nlemma: \"jämställdhet\"\nordklass: substantiv\ngenus: en\ncefr: B1\nzh: 性别平等\nen: gender equality\nsynonyms: []\nantonyms: []\nfamily: [\"jämlikhet\"]\ntopics: [\"topic-samhälle-och-politik\"]\nsentences: []\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# jämställdhet — substantiv (en)\n\n📖 中文：性别平等 · English: gender equality\n发音提示：YEM-steld-het\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | en jämställdhet |\n| bestämd sing. | jämställdheten |\n| (plural sällan) | — |\n\n词源：**jämställd**（地位平等的）+ **-het** → 抽象名词\n\n## 词组搭配 (Collocations)\n\n- `kämpa för jämställdhet` — 为性别平等而斗争\n- `jämställdhet mellan könen` — 两性之间的平等\n- `jämställdhetspolitik` — 性别平等政策\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sverige arbetar aktivt för jämställdhet mellan kvinnor och män. — 🇨🇳 瑞典积极推进男女之间的性别平等。\n- 🇸🇪 Jämställdheten hotas av hedersvåld och förtryck. — 🇨🇳 性别平等受到荣誉暴力和压迫的威胁。\n- 🇸🇪 Det finns fortfarande stor ojämställdhet på arbetsmarknaden. — 🇨🇳 劳动力市场上仍然存在很大的性别不平等。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: jämlikhet（普遍平等，不限性别）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- **jämställdhet** 专指**性别平等**（男女之间），是瑞典政治中的核心概念。\n- **jämlikhet** = 更广泛的平等（不分种族、阶级、性别等）。\n- 对比：equality of gender = jämställdhet；equality in general = jämlikhet。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "jämställdhet",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "性别平等",
+      "en": "gender equality",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -52155,6 +53125,7 @@ window.KB_DATA = {
         "medborgare",
         "nationaldag",
         "sent-byn-ligger-i-avesta-kommun-i-dalarna",
+        "sent-den-svenska-regeringen-ger-nu-17",
         "sent-manga-kommuner-valkomnar-sina-nya",
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22",
@@ -52192,6 +53163,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "kollega",
+        "sent-att-sla-nagon-i-sin-familj-kallas",
         "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
         "source-2026-06-02-valj-ratt-form",
         "topic-personer",
@@ -52990,6 +53962,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "krocka",
+      "type": "word",
+      "title": "krocka",
+      "path": "knowledge_base/words/krocka.md",
+      "body": "# krocka — verb (grupp 1)\n\n📖 中文：碰撞，相撞 · English: to crash, to collide\n发音提示：KROK-a\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | krocka |\n| presens | krockar |\n| preteritum | krockade |\n| supinum | krockat |\n| imperativ | krocka! |\n\n名词派生：**en krock** / krocken（碰撞事故）\n\n## 词组搭配 (Collocations)\n\n- `krocka med en bil` — 与一辆车相撞\n- `krocka i korsningen` — 在路口相撞\n- `undvika att krocka` — 避免碰撞\n\n## 例句 (Sentences)\n\n- 🇸🇪 Tåget krockade med ett annat tåg på stationen. — 🇨🇳 火车在车站与另一列火车相撞。\n- 🇸🇪 Två bilar krockade på motorvägen i morse. — 🇨🇳 今早两辆汽车在高速公路上相撞。\n- 🇸🇪 Det är viktigt att inte krocka med cyklister i trafiken. — 🇨🇳 在交通中避免与骑车人相撞很重要。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: krock（名词）\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- **krocka** 是口语/常用词，更正式的表达是 **kollidera**。\n- 名词形式：**en krock**（一次碰撞）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "krocka — verb (grupp 1) 📖 中文：碰撞，相撞 · English: to crash, to collide 发音提示：KROK a 语法变形 (Forms) form Swedish infinitiv krocka presens krockar preteritum krockade supinum krockat imperativ krocka! 名词派生： en krock / krocken（碰撞",
+      "forms": [
+        "krocka",
+        "krockar",
+        "krockade",
+        "krockat",
+        "krocka!"
+      ],
+      "links": [
+        "source-2026-06-22-listening-svt-latt",
+        "topic-trafik"
+      ],
+      "searchText": "krocka krocka knowledge_base/words/krocka.md ---\ntype: word\nlemma: \"krocka\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: A2\nzh: 碰撞，相撞\nen: to crash, to collide\nsynonyms: []\nantonyms: []\nfamily: [\"krock\", \"kollision\"]\ntopics: [\"topic-trafik\"]\nsentences:\n  - sent-tva-vagnar-lamnade-sparet-och-foll\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# krocka — verb (grupp 1)\n\n📖 中文：碰撞，相撞 · English: to crash, to collide\n发音提示：KROK-a\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | krocka |\n| presens | krockar |\n| preteritum | krockade |\n| supinum | krockat |\n| imperativ | krocka! |\n\n名词派生：**en krock** / krocken（碰撞事故）\n\n## 词组搭配 (Collocations)\n\n- `krocka med en bil` — 与一辆车相撞\n- `krocka i korsningen` — 在路口相撞\n- `undvika att krocka` — 避免碰撞\n\n## 例句 (Sentences)\n\n- 🇸🇪 Tåget krockade med ett annat tåg på stationen. — 🇨🇳 火车在车站与另一列火车相撞。\n- 🇸🇪 Två bilar krockade på motorvägen i morse. — 🇨🇳 今早两辆汽车在高速公路上相撞。\n- 🇸🇪 Det är viktigt att inte krocka med cyklister i trafiken. — 🇨🇳 在交通中避免与骑车人相撞很重要。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: krock（名词）\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- **krocka** 是口语/常用词，更正式的表达是 **kollidera**。\n- 名词形式：**en krock**（一次碰撞）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "krocka",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "碰撞，相撞",
+      "en": "to crash, to collide",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-tva-vagnar-lamnade-sparet-och-foll"
+      ],
+      "topics": [
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "krokodil",
       "type": "word",
       "title": "krokodil",
@@ -53566,6 +54574,8 @@ window.KB_DATA = {
         "klubblag",
         "lagkamrat",
         "landslag",
+        "olaglig",
+        "sent-lagen-mot-fortryck-pa-grund-av-heder",
         "sent-zlatan-mycket-bra-karriar-mal",
         "source-2026-06-09-zlatan-bio",
         "source-2026-06-10-zlatan-subst-verb",
@@ -58894,6 +59904,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "olaglig",
+      "type": "word",
+      "title": "olaglig",
+      "path": "knowledge_base/words/olaglig.md",
+      "body": "# olaglig — adjektiv\n\n📖 中文：违法的，非法的 · English: illegal\n发音提示：oo-LAG-lig\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sing. obestämd | olaglig |\n| neutrum sing. obestämd | olagligt |\n| plural / bestämd | olagliga |\n| komparativ | mer olaglig |\n| superlativ | mest olaglig |\n\n## 词组搭配 (Collocations)\n\n- `det är olagligt att…` — 做……是违法的\n- `olaglig verksamhet` — 非法活动\n- `olagliga vapen` — 非法武器\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det är olagligt att köra för fort i Sverige. — 🇨🇳 在瑞典超速驾驶是违法的。\n- 🇸🇪 Hedersvåld är olagligt och straffbart. — 🇨🇳 荣誉暴力是违法且应受惩罚的。\n- 🇸🇪 Att sälja droger är olagligt i de flesta länder. — 🇨🇳 在大多数国家，贩卖毒品是违法的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lag]]\n- 反义词: laglig（合法的）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 前缀 **o-** 表示否定，laglig = 合法的，olaglig = 非法的。\n- 中性形式 **olagligt** 常用于 \"det är olagligt att…\" 句型。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "olaglig — adjektiv 📖 中文：违法的，非法的 · English: illegal 发音提示：oo LAG lig 语法变形 (Forms) form Swedish utrum sing. obestämd olaglig neutrum sing. obestämd olagligt plural / bestämd olagliga komparativ mer olaglig superlativ mest ",
+      "forms": [
+        "olaglig",
+        "olagligt",
+        "olagliga",
+        "mer olaglig",
+        "mest olaglig"
+      ],
+      "links": [
+        "lag",
+        "source-2026-06-22-listening-svt-latt",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "olaglig olaglig knowledge_base/words/olaglig.md ---\ntype: word\nlemma: \"olaglig\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A2\nzh: 违法的，非法的\nen: illegal\nsynonyms: []\nantonyms: [\"laglig\"]\nfamily: [\"lag\", \"laglig\"]\ntopics: [\"topic-samhälle-och-politik\"]\nsentences: []\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# olaglig — adjektiv\n\n📖 中文：违法的，非法的 · English: illegal\n发音提示：oo-LAG-lig\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sing. obestämd | olaglig |\n| neutrum sing. obestämd | olagligt |\n| plural / bestämd | olagliga |\n| komparativ | mer olaglig |\n| superlativ | mest olaglig |\n\n## 词组搭配 (Collocations)\n\n- `det är olagligt att…` — 做……是违法的\n- `olaglig verksamhet` — 非法活动\n- `olagliga vapen` — 非法武器\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det är olagligt att köra för fort i Sverige. — 🇨🇳 在瑞典超速驾驶是违法的。\n- 🇸🇪 Hedersvåld är olagligt och straffbart. — 🇨🇳 荣誉暴力是违法且应受惩罚的。\n- 🇸🇪 Att sälja droger är olagligt i de flesta länder. — 🇨🇳 在大多数国家，贩卖毒品是违法的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lag]]\n- 反义词: laglig（合法的）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 前缀 **o-** 表示否定，laglig = 合法的，olaglig = 非法的。\n- 中性形式 **olagligt** 常用于 \"det är olagligt att…\" 句型。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "olaglig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "违法的，非法的",
+      "en": "illegal",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "source-2026-06-22-listening-svt-latt"
+      ]
+    },
+    {
       "slug": "olja",
       "type": "word",
       "title": "olja",
@@ -58962,6 +60007,49 @@ window.KB_DATA = {
         "hals",
         "source-2026-06-07-kropp-halsa",
         "topic-kropp"
+      ]
+    },
+    {
+      "slug": "omhänderta",
+      "type": "word",
+      "title": "omhänderta",
+      "path": "knowledge_base/words/omhänderta.md",
+      "body": "# omhänderta — verb\n\n📖 中文：被当局接管安置（离开家庭） · English: to take into care (by authorities)\n发音提示：om-HEN-der-ta\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | omhänderta |\n| presens | omhändertar |\n| preteritum | omhändertog |\n| supinum | omhändertagit |\n| passiv presens | omhändertas |\n| perfekt particip | omhändertagen / omhändertagit / omhändertagna |\n\n常见被动形式：**bli omhändertagen/omhändertaget/omhändertagna**\n\n## 词组搭配 (Collocations)\n\n- `bli omhändertagen av socialtjänsten` — 被社会服务部门接管安置\n- `omhändertas av myndigheterna` — 被当局接管\n- `omhändertagandet av barnet` — 对孩子的安置接管\n\n## 例句 (Sentences)\n\n- 🇸🇪 66 procent av flickorna blir omhändertagna medan bara 28 procent av pojkarna får lämna hemmet. — 🇨🇳 66%的女孩被转移安置，而只有28%的男孩被送离家庭。\n- 🇸🇪 Barnet omhändertogs av socialtjänsten på grund av fara i hemmet. — 🇨🇳 孩子因家庭存在危险而被社会服务部门接管。\n- 🇸🇪 Myndigheterna kan omhänderta unga som lever i utsatthet. — 🇨🇳 当局可以接管处于危险处境的年轻人。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hand]], [[ta-hand-om]]\n- 主题: [[topic-samhälle-och-politik]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 常用于儿童保护语境，指社会服务机构将儿童从不安全家庭中移出，临时安置在其他地方。\n- 被动语态更常见：**bli omhändertagen**（被安置接管）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "omhänderta — verb 📖 中文：被当局接管安置（离开家庭） · English: to take into care (by authorities) 发音提示：om HEN der ta 语法变形 (Forms) form Swedish infinitiv omhänderta presens omhändertar preteritum omhändertog supinum omhändertagit passi",
+      "forms": [
+        "omhänderta",
+        "omhändertar",
+        "omhändertog",
+        "omhändertagit",
+        "omhändertas",
+        "omhändertagen",
+        "omhändertagna"
+      ],
+      "links": [
+        "hand",
+        "source-2026-06-22-listening-svt-latt",
+        "ta-hand-om",
+        "topic-familj-och-barn",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "omhänderta omhänderta knowledge_base/words/omhänderta.md ---\ntype: word\nlemma: \"omhänderta\"\nordklass: verb\nverbgrupp: oregelbundet\ngenus: \"\"\ncefr: B1\nzh: 被当局接管安置（离开家庭）\nen: to take into care (by authorities)\nsynonyms: []\nantonyms: []\nfamily: [\"hand\", \"ta-hand-om\"]\ntopics: [\"topic-samhälle-och-politik\", \"topic-familj-och-barn\"]\nsentences:\n  - sent-66-procent-av-flickorna-blir\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# omhänderta — verb\n\n📖 中文：被当局接管安置（离开家庭） · English: to take into care (by authorities)\n发音提示：om-HEN-der-ta\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | omhänderta |\n| presens | omhändertar |\n| preteritum | omhändertog |\n| supinum | omhändertagit |\n| passiv presens | omhändertas |\n| perfekt particip | omhändertagen / omhändertagit / omhändertagna |\n\n常见被动形式：**bli omhändertagen/omhändertaget/omhändertagna**\n\n## 词组搭配 (Collocations)\n\n- `bli omhändertagen av socialtjänsten` — 被社会服务部门接管安置\n- `omhändertas av myndigheterna` — 被当局接管\n- `omhändertagandet av barnet` — 对孩子的安置接管\n\n## 例句 (Sentences)\n\n- 🇸🇪 66 procent av flickorna blir omhändertagna medan bara 28 procent av pojkarna får lämna hemmet. — 🇨🇳 66%的女孩被转移安置，而只有28%的男孩被送离家庭。\n- 🇸🇪 Barnet omhändertogs av socialtjänsten på grund av fara i hemmet. — 🇨🇳 孩子因家庭存在危险而被社会服务部门接管。\n- 🇸🇪 Myndigheterna kan omhänderta unga som lever i utsatthet. — 🇨🇳 当局可以接管处于危险处境的年轻人。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hand]], [[ta-hand-om]]\n- 主题: [[topic-samhälle-och-politik]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- 常用于儿童保护语境，指社会服务机构将儿童从不安全家庭中移出，临时安置在其他地方。\n- 被动语态更常见：**bli omhändertagen**（被安置接管）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "omhänderta",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "被当局接管安置（离开家庭）",
+      "en": "to take into care (by authorities)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-66-procent-av-flickorna-blir"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "sent-66-procent-av-flickorna-blir",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -60494,6 +61582,7 @@ window.KB_DATA = {
       "backlinks": [
         "central",
         "läge",
+        "sent-det-ar-just-nu-mycket-varmt",
         "source-2026-06-09-zlatan-bio",
         "ta-en-plats",
         "topic-fotboll"
@@ -60612,6 +61701,7 @@ window.KB_DATA = {
       "backlinks": [
         "flicka",
         "kille",
+        "sent-66-procent-av-flickorna-blir",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-10-zlatan-subst-verb",
         "topic-personer"
@@ -61600,6 +62690,7 @@ window.KB_DATA = {
         "förlora-makten",
         "index",
         "sent-att-regeringen-forlorar-makten-efter-valet",
+        "sent-den-svenska-regeringen-ger-nu-17",
         "sent-politik-nu-en-stor-del-av-valjarna",
         "sent-regeringen-forbjuder-barer-att-salja-alkohol",
         "sent-regeringen-vill-halvera-priset",
@@ -63007,6 +64098,7 @@ window.KB_DATA = {
       "backlinks": [
         "ringa",
         "sent-en-stund-senare-fick-jag-samtal-personal-hittat-planbok",
+        "sent-usa-och-iran-ha-haft-sina-forsta",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-vardagsrutin"
       ]
@@ -63531,6 +64623,43 @@ window.KB_DATA = {
         "source-2026-06-09-rumsliga-relationer",
         "stå",
         "topic-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "självreflektering",
+      "type": "word",
+      "title": "självreflektering",
+      "path": "knowledge_base/words/självreflektering.md",
+      "body": "# självreflektering — substantiv (en)\n\n📖 中文：自我反思 · English: self-reflection\n发音提示：SYEL-v-re-flek-TEH-ring\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | en självreflektering |\n| bestämd sing. | självreflekteringen |\n| obestämd pl. | självreflekteringar |\n| bestämd pl. | självreflekteringarna |\n\n词源：复合词 **själv**（自我）+ **reflektering**（反思）\n\n## 词组搭配 (Collocations)\n\n- `börja med självreflektering` — 从自我反思开始\n- `djup självreflektering` — 深刻的自我反思\n- `ägna sig åt självreflektering` — 进行自我反思\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det börjar med självreflektering, att kunna se att man har gjort fel. — 🇨🇳 一切从自我反思开始——能够认识到自己犯了错。\n- 🇸🇪 Självreflektering är viktigt för personlig utveckling. — 🇨🇳 自我反思对于个人发展很重要。\n- 🇸🇪 Han tog tid för självreflektering efter konflikten. — 🇨🇳 冲突之后，他花时间进行了自我反思。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关词: reflektera（反思），reflektion（反思）\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- 正式/心理学用语，日常口语可用 **tänka efter**（好好想想）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "självreflektering — substantiv (en) 📖 中文：自我反思 · English: self reflection 发音提示：SYEL v re flek TEH ring 语法变形 (Forms) form Swedish obestämd sing. en självreflektering bestämd sing. självreflekteringen obestämd pl. självref",
+      "forms": [
+        "självreflektering",
+        "självreflekteringen",
+        "självreflekteringar",
+        "självreflekteringarna"
+      ],
+      "links": [
+        "source-2026-06-22-listening-svt-latt",
+        "topic-karaktarsord"
+      ],
+      "searchText": "självreflektering självreflektering knowledge_base/words/självreflektering.md ---\ntype: word\nlemma: \"självreflektering\"\nordklass: substantiv\ngenus: en\ncefr: B1\nzh: 自我反思\nen: self-reflection\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-samhälle-och-politik\", \"topic-karaktarsord\"]\nsentences:\n  - sent-det-borjar-med-sjalvreflektering\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# självreflektering — substantiv (en)\n\n📖 中文：自我反思 · English: self-reflection\n发音提示：SYEL-v-re-flek-TEH-ring\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | en självreflektering |\n| bestämd sing. | självreflekteringen |\n| obestämd pl. | självreflekteringar |\n| bestämd pl. | självreflekteringarna |\n\n词源：复合词 **själv**（自我）+ **reflektering**（反思）\n\n## 词组搭配 (Collocations)\n\n- `börja med självreflektering` — 从自我反思开始\n- `djup självreflektering` — 深刻的自我反思\n- `ägna sig åt självreflektering` — 进行自我反思\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det börjar med självreflektering, att kunna se att man har gjort fel. — 🇨🇳 一切从自我反思开始——能够认识到自己犯了错。\n- 🇸🇪 Självreflektering är viktigt för personlig utveckling. — 🇨🇳 自我反思对于个人发展很重要。\n- 🇸🇪 Han tog tid för självreflektering efter konflikten. — 🇨🇳 冲突之后，他花时间进行了自我反思。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关词: reflektera（反思），reflektion（反思）\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- 正式/心理学用语，日常口语可用 **tänka efter**（好好想想）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "självreflektering",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "自我反思",
+      "en": "self-reflection",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-det-borjar-med-sjalvreflektering"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "sent-det-borjar-med-sjalvreflektering",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -64224,6 +65353,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "grundskola",
+        "sent-dar-ska-over-800-skolor-halla-stangt",
         "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
         "skolavslutning",
         "skolstrejk",
@@ -65757,6 +66887,46 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "spår",
+      "type": "word",
+      "title": "spår",
+      "path": "knowledge_base/words/spår.md",
+      "body": "# spår — substantiv (ett)\n\n📖 中文：铁路轨道；痕迹 · English: track (railway); trace, trail\n发音提示：SPOR（长元音）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett spår |\n| bestämd sing. | spåret |\n| obestämd pl. | spår |\n| bestämd pl. | spåren |\n\n## 词组搭配 (Collocations)\n\n- `lämna spåret` — 脱轨\n- `tågspår` — 火车轨道\n- `inga spår av` — 没有……的踪迹\n- `följa spåret` — 跟着轨迹/线索\n\n## 例句 (Sentences)\n\n**义项 1 — 铁路轨道:**\n- 🇸🇪 Två vagnar lämnade spåret och föll ner på en väg under bron. — 🇨🇳 两节车厢脱轨，坠落到桥下的公路上。\n- 🇸🇪 Tåget stannade på spår 4. — 🇨🇳 火车停在第4站台。\n\n**义项 2 — 痕迹/线索:**\n- 🇸🇪 Polisen hittade inga spår av brottslingen. — 🇨🇳 警察没有找到罪犯的任何踪迹。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vagn]], [[tåg]]\n- 相关: [[spårvagn]]\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 多义词：铁路语境中指轨道/站台编号，侦探/自然语境中指踪迹/痕迹。\n- **lämna spåret** = 脱轨（字面\"离开轨道\"）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "spår — substantiv (ett) 📖 中文：铁路轨道；痕迹 · English: track (railway); trace, trail 发音提示：SPOR（长元音） 语法变形 (Forms) form Swedish obestämd sing. ett spår bestämd sing. spåret obestämd pl. spår bestämd pl. spåren 词组搭配 (Collocations",
+      "forms": [
+        "spår",
+        "spåret",
+        "spåren"
+      ],
+      "links": [
+        "source-2026-06-22-listening-svt-latt",
+        "spårvagn",
+        "tåg",
+        "topic-trafik",
+        "vagn"
+      ],
+      "searchText": "spår spår knowledge_base/words/spår.md ---\ntype: word\nlemma: \"spår\"\nordklass: substantiv\ngenus: ett\ncefr: A2\nzh: 铁路轨道；痕迹\nen: track (railway); trace, trail\nsynonyms: []\nantonyms: []\nfamily: [\"vagn\", \"tåg\"]\ntopics: [\"topic-trafik\"]\nsentences:\n  - sent-tva-vagnar-lamnade-sparet-och-foll\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# spår — substantiv (ett)\n\n📖 中文：铁路轨道；痕迹 · English: track (railway); trace, trail\n发音提示：SPOR（长元音）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett spår |\n| bestämd sing. | spåret |\n| obestämd pl. | spår |\n| bestämd pl. | spåren |\n\n## 词组搭配 (Collocations)\n\n- `lämna spåret` — 脱轨\n- `tågspår` — 火车轨道\n- `inga spår av` — 没有……的踪迹\n- `följa spåret` — 跟着轨迹/线索\n\n## 例句 (Sentences)\n\n**义项 1 — 铁路轨道:**\n- 🇸🇪 Två vagnar lämnade spåret och föll ner på en väg under bron. — 🇨🇳 两节车厢脱轨，坠落到桥下的公路上。\n- 🇸🇪 Tåget stannade på spår 4. — 🇨🇳 火车停在第4站台。\n\n**义项 2 — 痕迹/线索:**\n- 🇸🇪 Polisen hittade inga spår av brottslingen. — 🇨🇳 警察没有找到罪犯的任何踪迹。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vagn]], [[tåg]]\n- 相关: [[spårvagn]]\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 多义词：铁路语境中指轨道/站台编号，侦探/自然语境中指踪迹/痕迹。\n- **lämna spåret** = 脱轨（字面\"离开轨道\"）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "spår",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "铁路轨道；痕迹",
+      "en": "track (railway); trace, trail",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-tva-vagnar-lamnade-sparet-och-foll"
+      ],
+      "topics": [
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "sent-tva-vagnar-lamnade-sparet-och-foll",
+        "source-2026-06-22-listening-svt-latt",
+        "spårvagn",
+        "vagn"
+      ]
+    },
+    {
       "slug": "spärra",
       "type": "word",
       "title": "spärra",
@@ -65841,6 +67011,7 @@ window.KB_DATA = {
         "index",
         "kollektivtrafik",
         "source-2026-06-04-nyheter-vecka-22",
+        "spår",
         "topic-kollektivtrafik",
         "topic-nyheter-vecka22"
       ]
@@ -66896,6 +68067,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "stryptag",
+      "type": "word",
+      "title": "stryptag",
+      "path": "knowledge_base/words/stryptag.md",
+      "body": "# stryptag — substantiv (ett)\n\n📖 中文：扼颈，掐脖子 · English: stranglehold, chokehold\n发音提示：STRY-tag（stry 押韵于 \"fry\"）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett stryptag |\n| bestämd sing. | stryptaget |\n| obestämd pl. | stryptag |\n| bestämd pl. | stryptagen |\n\n词源：复合词 **stryp**（窒息/扼喉，来自 strypa = 勒死）+ **tag**（抓握）\n\n## 词组搭配 (Collocations)\n\n- `ta stryptag på` — 掐住（某人）的脖子 → 见 [[ta-stryptag-på]]\n- `ha stryptag om halsen` — 被人卡住脖子\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det slutade med att jag tog stryptag på henne i köket. — 🇨🇳 结果我在厨房掐住了她的脖子。\n- 🇸🇪 Polisen förbjöd stryptag under arresteringar. — 🇨🇳 警方禁止在逮捕过程中使用锁喉动作。\n- 🇸🇪 Han tog stryptag på sin motspelare under matchen. — 🇨🇳 他在比赛中对对手实施了锁喉。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关词组: [[ta-stryptag-på]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 最常见于短语 **ta stryptag på någon**（掐住某人脖子）。\n- 也可用作比喻：**ha stryptag på marknaden**（垄断市场，字面\"掐住市场脖子\"）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "stryptag — substantiv (ett) 📖 中文：扼颈，掐脖子 · English: stranglehold, chokehold 发音提示：STRY tag（stry 押韵于 \"fry\"） 语法变形 (Forms) form Swedish obestämd sing. ett stryptag bestämd sing. stryptaget obestämd pl. stryptag bestämd pl. s",
+      "forms": [
+        "stryptag",
+        "stryptaget",
+        "stryptagen"
+      ],
+      "links": [
+        "source-2026-06-22-listening-svt-latt",
+        "ta-stryptag-på",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "stryptag stryptag knowledge_base/words/stryptag.md ---\ntype: word\nlemma: \"stryptag\"\nordklass: substantiv\ngenus: ett\ncefr: B1\nzh: 扼颈，掐脖子\nen: stranglehold, chokehold\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-samhälle-och-politik\"]\nsentences:\n  - sent-det-slutade-med-att-jag-tog-stryptag\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stryptag — substantiv (ett)\n\n📖 中文：扼颈，掐脖子 · English: stranglehold, chokehold\n发音提示：STRY-tag（stry 押韵于 \"fry\"）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | ett stryptag |\n| bestämd sing. | stryptaget |\n| obestämd pl. | stryptag |\n| bestämd pl. | stryptagen |\n\n词源：复合词 **stryp**（窒息/扼喉，来自 strypa = 勒死）+ **tag**（抓握）\n\n## 词组搭配 (Collocations)\n\n- `ta stryptag på` — 掐住（某人）的脖子 → 见 [[ta-stryptag-på]]\n- `ha stryptag om halsen` — 被人卡住脖子\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det slutade med att jag tog stryptag på henne i köket. — 🇨🇳 结果我在厨房掐住了她的脖子。\n- 🇸🇪 Polisen förbjöd stryptag under arresteringar. — 🇨🇳 警方禁止在逮捕过程中使用锁喉动作。\n- 🇸🇪 Han tog stryptag på sin motspelare under matchen. — 🇨🇳 他在比赛中对对手实施了锁喉。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 相关词组: [[ta-stryptag-på]]\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 最常见于短语 **ta stryptag på någon**（掐住某人脖子）。\n- 也可用作比喻：**ha stryptag på marknaden**（垄断市场，字面\"掐住市场脖子\"）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "stryptag",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "扼颈，掐脖子",
+      "en": "stranglehold, chokehold",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-det-slutade-med-att-jag-tog-stryptag"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-det-slutade-med-att-jag-tog-stryptag",
+        "source-2026-06-22-listening-svt-latt",
+        "ta-stryptag-på"
+      ]
+    },
+    {
       "slug": "studentmössa",
       "type": "word",
       "title": "studentmössa",
@@ -67464,6 +68672,7 @@ window.KB_DATA = {
       "backlinks": [
         "bror",
         "lillasyster",
+        "sent-jag-och-storasyrran-borjade-tjafsa",
         "syskon",
         "topic-personer"
       ]
@@ -67576,9 +68785,11 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-15-stad-trafik",
+        "spår",
         "station",
         "topic-kollektivtrafik",
-        "topic-trafik"
+        "topic-trafik",
+        "vagn"
       ]
     },
     {
@@ -68275,6 +69486,44 @@ window.KB_DATA = {
         "sent-pa-kvallen-lagar-jag-middag-och-tittar",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "tjafsa",
+      "type": "word",
+      "title": "tjafsa",
+      "path": "knowledge_base/words/tjafsa.md",
+      "body": "# tjafsa — verb (grupp 1)\n\n📖 中文：争吵，斗嘴（口语） · English: to bicker, to quarrel (informal)\n发音提示：CHAF-sa\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | tjafsa |\n| presens | tjafsar |\n| preteritum | tjáfsade |\n| supinum | tjafsat |\n| imperativ | tjafsa! |\n\n名词派生：**tjafset**（争吵，口语名词）\n\n## 词组搭配 (Collocations)\n\n- `tjafsa om något` — 为某事争吵\n- `tjafsa med någon` — 与某人斗嘴\n- `sluta tjafsa!` — 别吵了！\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om. — 🇨🇳 我和大姐开始为我认为她完全搞错的一件事争吵。\n- 🇸🇪 Sluta tjafsa med din bror! — 🇨🇳 别和你弟弟斗嘴了！\n- 🇸🇪 De tjáfsade om vem som skulle diska. — 🇨🇳 他们为谁应该洗碗而争吵。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[bråka]]\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- **tjafsa** 是口语词，比 **bråka** 更轻微，偏向\"斗嘴/拌嘴\"而非严重争吵。\n- 常与介词 **om**（关于）搭配：tjafsa om något。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "tjafsa — verb (grupp 1) 📖 中文：争吵，斗嘴（口语） · English: to bicker, to quarrel (informal) 发音提示：CHAF sa 语法变形 (Forms) form Swedish infinitiv tjafsa presens tjafsar preteritum tjáfsade supinum tjafsat imperativ tjafsa! 名词派生： tjaf",
+      "forms": [
+        "tjafsa",
+        "tjafsar",
+        "tjáfsade",
+        "tjafsat",
+        "tjafsa!"
+      ],
+      "links": [
+        "bråka",
+        "source-2026-06-22-listening-svt-latt",
+        "topic-familj-och-barn"
+      ],
+      "searchText": "tjafsa tjafsa knowledge_base/words/tjafsa.md ---\ntype: word\nlemma: \"tjafsa\"\nordklass: verb\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: B1\nzh: 争吵，斗嘴（口语）\nen: to bicker, to quarrel (informal)\nsynonyms: [\"bråka\"]\nantonyms: []\nfamily: []\ntopics: [\"topic-familj-och-barn\"]\nsentences:\n  - sent-jag-och-storasyrran-borjade-tjafsa\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tjafsa — verb (grupp 1)\n\n📖 中文：争吵，斗嘴（口语） · English: to bicker, to quarrel (informal)\n发音提示：CHAF-sa\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | tjafsa |\n| presens | tjafsar |\n| preteritum | tjáfsade |\n| supinum | tjafsat |\n| imperativ | tjafsa! |\n\n名词派生：**tjafset**（争吵，口语名词）\n\n## 词组搭配 (Collocations)\n\n- `tjafsa om något` — 为某事争吵\n- `tjafsa med någon` — 与某人斗嘴\n- `sluta tjafsa!` — 别吵了！\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag och storasyrran började tjafsa om nåt jag tyckte hon hade helt fel om. — 🇨🇳 我和大姐开始为我认为她完全搞错的一件事争吵。\n- 🇸🇪 Sluta tjafsa med din bror! — 🇨🇳 别和你弟弟斗嘴了！\n- 🇸🇪 De tjáfsade om vem som skulle diska. — 🇨🇳 他们为谁应该洗碗而争吵。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[bråka]]\n- 主题: [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- **tjafsa** 是口语词，比 **bråka** 更轻微，偏向\"斗嘴/拌嘴\"而非严重争吵。\n- 常与介词 **om**（关于）搭配：tjafsa om något。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "tjafsa",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "争吵，斗嘴（口语）",
+      "en": "to bicker, to quarrel (informal)",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-jag-och-storasyrran-borjade-tjafsa"
+      ],
+      "topics": [
+        "topic-familj-och-barn"
+      ],
+      "backlinks": [
+        "sent-jag-och-storasyrran-borjade-tjafsa",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -69698,6 +70947,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "gammal",
+        "sent-barn-och-unga-behover-mota-vuxna",
         "source-2026-06-08-djur",
         "topic-djur",
         "topic-personer",
@@ -69925,6 +71175,42 @@ window.KB_DATA = {
         "sent-solen-skiner-lange-och-det-ar",
         "source-2026-06-19-nyheter-8sidor",
         "topic-fritid-och-resor"
+      ]
+    },
+    {
+      "slug": "utsatthet",
+      "type": "word",
+      "title": "utsatthet",
+      "path": "knowledge_base/words/utsatthet.md",
+      "body": "# utsatthet — substantiv (en)\n\n📖 中文：脆弱性；处于风险中的处境 · English: vulnerability, exposed situation\n发音提示：UT-sat-het\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | en utsatthet |\n| bestämd sing. | utsattheten |\n| (plural sällan) | — |\n\n词源：形容词 **utsatt**（暴露的，脆弱的）+ 后缀 **-het** → 抽象名词\n\n## 词组搭配 (Collocations)\n\n- `befinna sig i utsatthet` — 处于脆弱/危险处境\n- `barn i utsatthet` — 处境危险的儿童\n- `vidta åtgärder utifrån utsattheten` — 根据所处的脆弱处境采取措施\n\n## 例句 (Sentences)\n\n- 🇸🇪 Barn och unga behöver möta vuxna som vidtar åtgärder utifrån den utsatthet de kanske befinner sig i. — 🇨🇳 儿童和青少年需要遇到根据他们所处脆弱处境采取行动的成年人。\n- 🇸🇪 Socialtjänsten arbetar med barn i utsatthet. — 🇨🇳 社会服务部门与处境危险的儿童合作。\n- 🇸🇪 Utsattheten för hedersvåld är ofta dold. — 🇨🇳 遭受荣誉暴力的脆弱处境往往是隐藏的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: utsatt（形容词）\n- 主题: [[topic-samhälle-och-politik]], [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- 社会服务、儿童保护领域的专业词汇。\n- 形容词 **utsatt** 更常见：**utsatta barn**（处境弱势的儿童）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "utsatthet — substantiv (en) 📖 中文：脆弱性；处于风险中的处境 · English: vulnerability, exposed situation 发音提示：UT sat het 语法变形 (Forms) form Swedish obestämd sing. en utsatthet bestämd sing. utsattheten (plural sällan) — 词源：形容词 utsatt （",
+      "forms": [
+        "utsatthet",
+        "utsattheten"
+      ],
+      "links": [
+        "source-2026-06-22-listening-svt-latt",
+        "topic-hälsa",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "utsatthet utsatthet knowledge_base/words/utsatthet.md ---\ntype: word\nlemma: \"utsatthet\"\nordklass: substantiv\ngenus: en\ncefr: B1\nzh: 脆弱性；处于风险中的处境\nen: vulnerability, exposed situation\nsynonyms: []\nantonyms: []\nfamily: [\"utsatt\"]\ntopics: [\"topic-samhälle-och-politik\", \"topic-hälsa\"]\nsentences:\n  - sent-barn-och-unga-behover-mota-vuxna\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# utsatthet — substantiv (en)\n\n📖 中文：脆弱性；处于风险中的处境 · English: vulnerability, exposed situation\n发音提示：UT-sat-het\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | en utsatthet |\n| bestämd sing. | utsattheten |\n| (plural sällan) | — |\n\n词源：形容词 **utsatt**（暴露的，脆弱的）+ 后缀 **-het** → 抽象名词\n\n## 词组搭配 (Collocations)\n\n- `befinna sig i utsatthet` — 处于脆弱/危险处境\n- `barn i utsatthet` — 处境危险的儿童\n- `vidta åtgärder utifrån utsattheten` — 根据所处的脆弱处境采取措施\n\n## 例句 (Sentences)\n\n- 🇸🇪 Barn och unga behöver möta vuxna som vidtar åtgärder utifrån den utsatthet de kanske befinner sig i. — 🇨🇳 儿童和青少年需要遇到根据他们所处脆弱处境采取行动的成年人。\n- 🇸🇪 Socialtjänsten arbetar med barn i utsatthet. — 🇨🇳 社会服务部门与处境危险的儿童合作。\n- 🇸🇪 Utsattheten för hedersvåld är ofta dold. — 🇨🇳 遭受荣誉暴力的脆弱处境往往是隐藏的。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: utsatt（形容词）\n- 主题: [[topic-samhälle-och-politik]], [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- 社会服务、儿童保护领域的专业词汇。\n- 形容词 **utsatt** 更常见：**utsatta barn**（处境弱势的儿童）。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "utsatthet",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "脆弱性；处于风险中的处境",
+      "en": "vulnerability, exposed situation",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-barn-och-unga-behover-mota-vuxna"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik",
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "sent-barn-och-unga-behover-mota-vuxna",
+        "source-2026-06-22-listening-svt-latt"
       ]
     },
     {
@@ -70170,6 +71456,7 @@ window.KB_DATA = {
         "sent-arbetena-är-till-för-att-vägarna",
         "sent-det-är-också-viktigt-att-köra",
         "sent-i-sommar-ska-det-bli-arbeten",
+        "sent-tva-vagnar-lamnade-sparet-och-foll",
         "source-2026-06-15-stad-trafik",
         "source-2026-06-18-nyheter-8sidor",
         "topic-stadsmiljo",
@@ -70263,6 +71550,46 @@ window.KB_DATA = {
         "source-2026-06-09-rumsliga-relationer",
         "topic-hemmet",
         "vid-väggen"
+      ]
+    },
+    {
+      "slug": "vagn",
+      "type": "word",
+      "title": "vagn",
+      "path": "knowledge_base/words/vagn.md",
+      "body": "# vagn — substantiv (en)\n\n📖 中文：车厢；马车 · English: carriage, wagon\n发音提示：VANG-n（短促 a）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | en vagn |\n| bestämd sing. | vagnen |\n| obestämd pl. | vagnar |\n| bestämd pl. | vagnarna |\n\n## 词组搭配 (Collocations)\n\n- `tågvagn` — 火车车厢（复合词）\n- `järnvägsvagn` — 铁路车厢\n- `barnvagn` — 婴儿推车\n- `vagnar lämna spåret` — 车厢脱轨\n\n## 例句 (Sentences)\n\n**义项 1 — 铁路车厢:**\n- 🇸🇪 Två vagnar lämnade spåret och föll ner på en väg under bron. — 🇨🇳 两节车厢脱轨，坠落到桥下的公路上。\n- 🇸🇪 Tåget har åtta vagnar, och vi sitter i vagn tre. — 🇨🇳 这列火车有八节车厢，我们坐在第三节。\n\n**义项 2 — 马车/推车:**\n- 🇸🇪 Hästen drog en tung vagn med ved. — 🇨🇳 马拉着一辆装满木柴的沉重马车。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tåg]], [[spår]]\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 现代语境中多指火车车厢，历史/童话语境中指马车。\n- **barnvagn**（婴儿车）和 **shoppingvagn**（购物推车）都是常见复合词。\n- 来源: [[source-2026-06-22-listening-svt-latt]]",
+      "excerpt": "vagn — substantiv (en) 📖 中文：车厢；马车 · English: carriage, wagon 发音提示：VANG n（短促 a） 语法变形 (Forms) form Swedish obestämd sing. en vagn bestämd sing. vagnen obestämd pl. vagnar bestämd pl. vagnarna 词组搭配 (Collocations) tågvagn —",
+      "forms": [
+        "vagn",
+        "vagnen",
+        "vagnar",
+        "vagnarna"
+      ],
+      "links": [
+        "source-2026-06-22-listening-svt-latt",
+        "spår",
+        "tåg",
+        "topic-trafik"
+      ],
+      "searchText": "vagn vagn knowledge_base/words/vagn.md ---\ntype: word\nlemma: \"vagn\"\nordklass: substantiv\ngenus: en\ncefr: A2\nzh: 车厢；马车\nen: carriage, wagon\nsynonyms: []\nantonyms: []\nfamily: [\"tåg\", \"spår\"]\ntopics: [\"topic-trafik\"]\nsentences:\n  - sent-tva-vagnar-lamnade-sparet-och-foll\nknown: false\ncreated: 2026-06-22\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vagn — substantiv (en)\n\n📖 中文：车厢；马车 · English: carriage, wagon\n发音提示：VANG-n（短促 a）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing. | en vagn |\n| bestämd sing. | vagnen |\n| obestämd pl. | vagnar |\n| bestämd pl. | vagnarna |\n\n## 词组搭配 (Collocations)\n\n- `tågvagn` — 火车车厢（复合词）\n- `järnvägsvagn` — 铁路车厢\n- `barnvagn` — 婴儿推车\n- `vagnar lämna spåret` — 车厢脱轨\n\n## 例句 (Sentences)\n\n**义项 1 — 铁路车厢:**\n- 🇸🇪 Två vagnar lämnade spåret och föll ner på en väg under bron. — 🇨🇳 两节车厢脱轨，坠落到桥下的公路上。\n- 🇸🇪 Tåget har åtta vagnar, och vi sitter i vagn tre. — 🇨🇳 这列火车有八节车厢，我们坐在第三节。\n\n**义项 2 — 马车/推车:**\n- 🇸🇪 Hästen drog en tung vagn med ved. — 🇨🇳 马拉着一辆装满木柴的沉重马车。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tåg]], [[spår]]\n- 主题: [[topic-trafik]]\n\n## 用法提示 (Usage Notes)\n\n- 现代语境中多指火车车厢，历史/童话语境中指马车。\n- **barnvagn**（婴儿车）和 **shoppingvagn**（购物推车）都是常见复合词。\n- 来源: [[source-2026-06-22-listening-svt-latt]]\n",
+      "lemma": "vagn",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "车厢；马车",
+      "en": "carriage, wagon",
+      "created": "2026-06-22",
+      "known": false,
+      "sentences": [
+        "sent-tva-vagnar-lamnade-sparet-och-foll"
+      ],
+      "topics": [
+        "topic-trafik"
+      ],
+      "backlinks": [
+        "sent-tva-vagnar-lamnade-sparet-och-foll",
+        "source-2026-06-22-listening-svt-latt",
+        "spår",
+        "spårvagn"
       ]
     },
     {
@@ -71109,6 +72436,7 @@ window.KB_DATA = {
       "backlinks": [
         "het",
         "korv",
+        "sent-det-ar-just-nu-mycket-varmt",
         "sent-forskare-varnar-för-att-ännu-fler",
         "sent-klimatet-blir-varmare",
         "sent-solen-skiner-lange-och-det-ar",
@@ -71198,6 +72526,7 @@ window.KB_DATA = {
         "element",
         "på-grund-av",
         "sent-allt-fler-människor-dör-av-värme",
+        "sent-dar-ska-over-800-skolor-halla-stangt",
         "sent-det-ar-ovanligt-varmt-vader-i-europa",
         "sent-i-delar-av-frankrike-italien-spanien-40-grader",
         "sent-varmen-ska-vara-kvar-i-flera-dagar",
@@ -72033,6 +73362,7 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
+        "sent-barn-och-unga-behover-mota-vuxna",
         "source-2026-06-02-astrid-lindgren",
         "source-2026-06-02-valj-ratt-form",
         "topic-familj-och-barn",
