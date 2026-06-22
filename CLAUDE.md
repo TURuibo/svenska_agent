@@ -189,6 +189,13 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 **Läsning 阅读站**（`site/reading/`，主站侧栏 📖 入口）当文章阅读，可切换中文翻译显隐。导入后务必重建该数据
 （`node tools/build-reading-site.js`，已接入 `/import`、`/sync`、GitHub Action）。
 
+> **生词点查 (in-page glossary):** `build-reading-site.js` 同时扫 `knowledge_base/words/*.md`，把每个词压成
+> 紧凑的 `vocab` 记录（lemma + ordklass/cefr/zh/en/known + 从 Forms 表抽出的**变形 surface forms**），一并写进
+> `reading-data.js`。阅读站据此把瑞典语正文里**任何 KB 里有笔记的词**（含其变形，如 `arbetade`→`arbeta`）
+> 标成可点的虚线词，点开即在**同页弹出**释义卡（中文/英文/词类/CEFR/变形 + 「完整笔记 →」跳 Sök），
+> 中文译文层/代码/标题不参与高亮。顶栏 **🔤 生词** 开关可整体开关（状态存 localStorage）。所以新词只要进过 KB，
+> 下次读文章时就自动变成可查的链接，无需手动标注。
+
 ### §4.3 多设备同步 (Multi-device sync via GitHub)
 
 手机端 CC 与电脑端是**同一个 GitHub repo 的两份 checkout**，靠 git 同步。因此：
@@ -355,9 +362,13 @@ A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 
 ### §4.7 ⭐ Remote routine 收尾 SOP (commit · PR · 冲突) — **每条 remote routine 都按这个收尾**
 
-所有 §4.4–§4.6 的 remote routine（news / listening / scenario / artikel / adjsubst）跑完生成 + `/import`
-后，**统一**按本节收尾。这是 2026-06-22 听力 routine 踩坑后固化的标准流程，照做可避免反复 merge 冲突、
-避免被 stop hook 逼着分批 commit。
+> ⚠️ **仅限 routine / 定时(scheduled)会话**（§4.2–§4.6 这些每天自动跑的 session）。**交互式人工会话默认不开 PR**
+> ——除非用户当场明确要求(见运行环境指令)。这是用户对自动会话的固定偏好：**routine 里一律自动 create PR → merge**，
+> 不必每次问。
+
+所以 §4.4–§4.6 的 remote routine（news / listening / scenario / artikel / adjsubst）跑完生成 + `/import`
+后，**统一**按本节收尾（commit/push 并自动开 PR + merge）。这是 2026-06-22 听力 routine 踩坑后固化的标准流程，
+照做可避免反复 merge 冲突、避免被 stop hook 逼着分批 commit。
 
 **① 哪些生成文件 routine *绝不要* 提交（最重要、冲突根源）：**
 
@@ -407,6 +418,9 @@ git commit --no-edit && git push          # 再回到 ③ merge PR
 
 **⑤ 无改动则跳过：** 若该 routine 当天无新内容（如听力无新一集、抓到的全是 dup），
 `git status` 干净就**直接结束**，不 commit、不开 PR。
+
+> routine 会话**还要自己把改动合进主分支**，否则每天的内容只堆在分支上、别的设备 `git pull` 主分支拿不到——
+> 这正是上面 ③ create PR → squash merge 的目的。
 
 > 长远优化（需用户拍板，属架构改动）：把 `site/kb-data.js`、`site/reading/reading-data.js` 加进
 > `.gitignore`、纯由 Action/CI 生成，可彻底消除这类冲突。本节是在不改架构前提下的稳妥规避法。

@@ -471,43 +471,56 @@
 
 .chip[data-type="phrase"] { background: #fbf2e2; border-color: #ead7ad; }
 .chip[data-type="phrase"]:hover { background: #f5e7c5; border-color: var(--gold); }
-/* Sentences read better stacked one-per-row with 中文 on its own line below
-   the Swedish, and a capped line length, instead of wide single-line pills. */
+/* Sentences: compact, flat, left-aligned list. 中文 sits on its own line just
+   under the 瑞典语; a thin left rule + divider replaces the bulky card so each
+   sentence takes far less vertical space. */
 .typeRow[data-type="sentence"] .chips {
   flex-direction: column;
-  gap: 6px;
+  gap: 0;
   width: 100%;
 }
 .chip[data-type="sentence"] {
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-  gap: 3px;
+  display: block;          /* override .chip flex; <button> stays a simple block */
   width: 100%;
-  max-width: 640px;
-  padding: 9px 12px;
-  background: #eef0f7;
-  border-color: #c8d2e1;
-  border-left: 3px solid var(--blue);
-  font-style: italic;
-  line-height: 1.55;
-}
-.chip[data-type="sentence"] .chipTitle { white-space: normal; }
-.chip[data-type="sentence"] .zh {
+  max-width: 680px;
+  margin: 0;
+  padding: 2px 8px 3px 10px;
+  background: transparent;
+  border: none;
+  border-left: 2px solid #d3dbe8;
+  border-radius: 0;
+  text-align: left;        /* <button> defaults to center — force left */
   font-style: normal;
-  font-size: 12.5px;
+  line-height: 1.32;
+}
+.chip[data-type="sentence"] + .chip[data-type="sentence"] {
+  border-top: 1px solid var(--line);   /* hairline divider between sentences */
+}
+.chip[data-type="sentence"]:hover {
+  background: #f1f4fa;
+  border-left-color: var(--blue);
+}
+.chip[data-type="sentence"] .chipTitle {
+  display: block;
+  font-style: italic;
+  font-size: 13.5px;
+}
+.chip[data-type="sentence"] .zh {
+  display: block;
+  font-style: normal;
+  font-size: 12px;
   color: var(--muted);
 }
-.chip[data-type="sentence"]:hover { background: #dde3ee; border-color: var(--blue); }
 
-/* Collapse long sentence lists: hide the overflow, reveal via a toggle. */
-.chipHidden { display: none; }
+/* Collapse long sentence lists: hide the overflow, reveal via a toggle.
+   !important so it beats the higher-specificity .chip[data-type=...] display. */
+.chipHidden { display: none !important; }
 .rowToggle {
   align-self: flex-start;
-  margin-top: 2px;
+  margin: 4px 0 0 8px;
   font-family: var(--cjk);
   font-size: 12px;
-  padding: 3px 11px;
+  padding: 2px 10px;
   border: 1px dashed var(--line);
   background: transparent;
   border-radius: 999px;
@@ -951,8 +964,9 @@
   .chip:hover { background: var(--panel-soft); }
   .chip[data-type="phrase"] { background: #3a3320; border-color: #5c5230; }
   .chip[data-type="phrase"]:hover { background: #463d26; }
-  .chip[data-type="sentence"] { background: #25303f; border-color: #38506b; }
-  .chip[data-type="sentence"]:hover { background: #2d3a4d; }
+  .chip[data-type="sentence"] { background: transparent; border-left-color: #38506b; }
+  .chip[data-type="sentence"] + .chip[data-type="sentence"] { border-top-color: var(--line); }
+  .chip[data-type="sentence"]:hover { background: #25303f; border-left-color: var(--blue); }
   .chip[data-type="grammar"] { background: #3a2c2f; border-color: #5e4045; }
   .chip[data-type="grammar"]:hover { background: #463438; }
 

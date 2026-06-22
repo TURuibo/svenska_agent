@@ -110,6 +110,132 @@
     return out.join('\n');
   }
 
+  // ---------- vocabulary glossary (clickable KB words in the Swedish text) ----------
+  // reading-data.js carries a compact `vocab` list: every KB word note reduced to
+  // its lemma + a few fields + inflected surface forms. We index those surfaces so
+  // any Swedish word the learner already has a note for becomes a clickable chip
+  // that opens an in-page glossary popover (no navigation, no 6MB kb-data.js load).
+
+  const vocabList = Array.isArray(data.vocab) ? data.vocab : [];
+  const vocabBySlug = new Map();
+  const vocabIndex = new Map(); // surface form (lowercased) → vocab entry
+  for (const v of vocabList) {
+    vocabBySlug.set(v.slug, v);
+    for (const form of v.forms || []) {
+      const key = (form || '').toLowerCase();
+      if (!key) continue;
+      const existing = vocabIndex.get(key);
+      // Prefer an entry whose lemma IS this surface — a lemma match beats an
+      // inflected-form match when two words share a surface (e.g. var / vara).
+      if (!existing) vocabIndex.set(key, v);
+      else if (existing.lemma.toLowerCase() !== key && v.lemma.toLowerCase() === key) vocabIndex.set(key, v);
+    }
+  }
+
+  const LS_VOCAB = 'lasning.vocab.v1';
+  let vocabOn = (() => { try { return localStorage.getItem(LS_VOCAB) !== '0'; } catch (_e) { return true; } })();
+
+  // Don't linkify inside links, code, headings, or the 🇨🇳-translation layer.
+  const VOCAB_SKIP_TAGS = new Set(['A', 'CODE', 'PRE', 'SCRIPT', 'STYLE', 'BUTTON', 'H1', 'H2', 'H3', 'H4', 'TH']);
+  function vocabSkip(node, root) {
+    for (let el = node.parentNode; el && el !== root; el = el.parentNode) {
+      if (el.nodeType !== 1) continue;
+      if (VOCAB_SKIP_TAGS.has(el.tagName)) return true;
+      if (el.getAttribute && el.getAttribute('data-zh') === '1') return true;
+    }
+    return false;
+  }
+
+  const VOCAB_TOKEN = /[A-Za-zÀ-ÿ]+/g;
+  function wrapTextNode(node) {
+    const text = node.nodeValue;
+    VOCAB_TOKEN.lastIndex = 0;
+    let m, last = 0, frag = null;
+    while ((m = VOCAB_TOKEN.exec(text))) {
+      const entry = vocabIndex.get(m[0].toLowerCase());
+      if (!entry) continue;
+      if (!frag) frag = document.createDocumentFragment();
+      if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+      const span = document.createElement('span');
+      span.className = 'vocabWord' + (entry.known ? ' known' : '');
+      span.dataset.slug = entry.slug;
+      span.textContent = m[0];
+      frag.appendChild(span);
+      last = m.index + m[0].length;
+    }
+    if (frag) {
+      if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
+      node.parentNode.replaceChild(frag, node);
+    }
+  }
+
+  function linkifyVocab(container) {
+    if (!vocabIndex.size) return;
+    const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null);
+    const targets = [];
+    let node;
+    while ((node = walker.nextNode())) {
+      if (!node.nodeValue || !/[A-Za-zÀ-ÿ]/.test(node.nodeValue)) continue;
+      if (vocabSkip(node, container)) continue;
+      targets.push(node);
+    }
+    targets.forEach(wrapTextNode);   // mutate after the walk so the walker isn't disturbed
+  }
+
+  // ---- glossary popover ----
+  let popEl = null;
+  function closePop() { if (popEl) { popEl.remove(); popEl = null; } }
+  function positionPop(pop, span) {
+    if (isMobile()) { pop.classList.add('sheet'); return; }   // CSS pins .sheet to the bottom
+    const r = span.getBoundingClientRect();
+    const pw = pop.offsetWidth, ph = pop.offsetHeight;
+    let left = r.left + window.scrollX;
+    let top = r.bottom + window.scrollY + 6;
+    const maxLeft = window.scrollX + document.documentElement.clientWidth - pw - 8;
+    if (left > maxLeft) left = maxLeft;
+    if (left < window.scrollX + 8) left = window.scrollX + 8;
+    if (r.bottom + ph + 10 > window.innerHeight && r.top - ph - 6 > 0) top = r.top + window.scrollY - ph - 6;
+    pop.style.left = left + 'px';
+    pop.style.top = top + 'px';
+  }
+  function openPop(span) {
+    closePop();
+    const entry = vocabBySlug.get(span.dataset.slug);
+    if (!entry) return;
+    const forms = (entry.forms || []).slice(0, 8).join(' · ');
+    popEl = document.createElement('div');
+    popEl.className = 'vocabPop';
+    popEl.innerHTML =
+      `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
+      `<div class="vocabPopHead">` +
+        `<span class="vocabPopLemma">${escapeHtml(entry.lemma)}</span>` +
+        (entry.ordklass ? `<span class="vocabPopTag">${escapeHtml(entry.ordklass)}</span>` : '') +
+        (entry.cefr ? `<span class="vocabPopCefr">${escapeHtml(entry.cefr)}</span>` : '') +
+        (entry.known ? `<span class="vocabPopKnown">✓ 已掌握</span>` : '') +
+      `</div>` +
+      ((entry.zh || entry.en)
+        ? `<div class="vocabPopGloss">🇨🇳 ${escapeHtml(entry.zh || '—')}　·　${escapeHtml(entry.en || '—')}</div>` : '') +
+      (forms ? `<div class="vocabPopForms">📐 ${escapeHtml(forms)}</div>` : '') +
+      `<a class="vocabPopLink" href="../sok/#note=${encodeURIComponent(entry.slug)}" target="_blank" rel="noopener">完整笔记 →</a>`;
+    document.body.appendChild(popEl);
+    positionPop(popEl, span);
+    popEl.querySelector('.vocabPopClose').addEventListener('click', closePop);
+  }
+
+  // Delegated: a tap on a highlighted word opens its glossary card (when 生词 is on).
+  viewEl.addEventListener('click', (e) => {
+    const span = e.target.closest('.vocabWord');
+    if (!span || !vocabOn) return;
+    e.preventDefault();
+    openPop(span);
+  });
+  document.addEventListener('click', (e) => {
+    if (!popEl) return;
+    if (e.target.closest('.vocabPop') || e.target.closest('.vocabWord')) return;
+    closePop();
+  });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closePop(); });
+
   // ---------- list ----------
 
   const KIND_BADGE = { scenario: 'scenario', paste: 'paste', adjsubst: 'adjsubst', news: 'news', other: 'other' };
@@ -228,6 +354,12 @@
     });
     document.getElementById('mobileBackBtn').addEventListener('click', backToList);
 
+    // Turn KB words in the freshly rendered text into clickable glossary chips.
+    closePop();
+    const bodyEl = viewEl.querySelector('.articleBody');
+    if (bodyEl) linkifyVocab(bodyEl);
+    viewEl.classList.toggle('vocab-off', !vocabOn);
+
     // Mobile master-detail: hide the list, show the reading pane full-screen.
     mainEl.classList.add('viewing');
     viewEl.scrollTop = 0;
@@ -257,6 +389,18 @@
   });
   const searchInput = document.getElementById('readingSearchInput');
   searchInput.addEventListener('input', () => { query = searchInput.value.trim().toLowerCase(); renderList(); });
+
+  // 生词高亮 toggle — flips the styling/clickability of the glossary chips without
+  // re-rendering the article. State persists in localStorage.
+  const vocabBtn = document.getElementById('toggleVocab');
+  vocabBtn.classList.toggle('active', vocabOn);
+  vocabBtn.addEventListener('click', () => {
+    vocabOn = !vocabOn;
+    try { localStorage.setItem(LS_VOCAB, vocabOn ? '1' : '0'); } catch (_e) {}
+    vocabBtn.classList.toggle('active', vocabOn);
+    viewEl.classList.toggle('vocab-off', !vocabOn);
+    if (!vocabOn) closePop();
+  });
 
   // ---------- init ----------
 
