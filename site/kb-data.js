@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-22 20:59:10",
+  "generatedAt": "2026-06-23 00:15:59",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -221,6 +221,7 @@ window.KB_DATA = {
         "sent-det-slutade-med-att-jag-tog-stryptag",
         "sent-detta-beror-pa-att-nivan-pa-varldens-hav",
         "sent-folk-ar-misnojda-med-att-maten-ar-dyr",
+        "sent-han-forstod-att-forpackningar-var-viktiga",
         "sent-hon-säger-själv-att-det-hjälper-henne",
         "sent-hon-ville-att-politikerna-skulle-lyssna",
         "sent-men-statistiken-visar-att-det-finns-stora-skillnader",
@@ -262,6 +263,7 @@ window.KB_DATA = {
         "grammar-singular-plural",
         "grammar-substantiv-plural",
         "grattis-på-födelsedagen",
+        "ha-formen-av",
         "index",
         "kan-vi-få-notan",
         "kvällens-rätt",
@@ -514,6 +516,7 @@ window.KB_DATA = {
         "sent-för-att-det-kan-leda-till-missbruk",
         "sent-för-en-av-tio-unga-fotbollsspelare",
         "sent-greta-har-en-lillasyster-som-heter-beata",
+        "sent-han-forstod-att-forpackningar-var-viktiga",
         "sent-hur-lange-man-far-vanta-i-olika-delar",
         "sent-i-söder-kommer-både-regn-eller-åska",
         "sent-man-plockar-svamp-och-njuter",
@@ -751,6 +754,7 @@ window.KB_DATA = {
         "sent-då-samlas-många-människor",
         "sent-de-har-kommit-overens-om-en-plan",
         "sent-den-svenska-regeringen-ger-nu-17",
+        "sent-den-var-lattare-att-stapla-och-transportera",
         "sent-det-ar-viktigt-att-titta-vidare-pa",
         "sent-figurerna-måste-kämpa-för",
         "sent-finns-det-en-karta-någonstans",
@@ -900,6 +904,7 @@ window.KB_DATA = {
         "sent-arbetena-är-till-för-att-vägarna",
         "sent-där-alla-har-så-stor-förståelse",
         "sent-den-som-ska-ut-och-köra-bil",
+        "sent-den-var-lattare-att-stapla-och-transportera",
         "sent-det-ar-en-av-de-storsta-forlusterna-i-vm",
         "sent-det-blir-svalare-och-regnet",
         "sent-det-gör-värmeböljorna-både-vanligare",
@@ -921,6 +926,7 @@ window.KB_DATA = {
         "sent-redan-i-midsommar-kan-det-bli",
         "sent-socialstyrelsens-statistik-visar-att-kvinnor-vanta",
         "sent-söndagen-blir-dock-torr-och-solig",
+        "sent-tetra-pak-ar-ett-av-sveriges-mest-kanda",
         "source-2026-06-16-vadret-och-arstiderna",
         "source-2026-06-17-listening-svt-latt",
         "source-2026-06-18-nyheter-8sidor"
@@ -1085,6 +1091,7 @@ window.KB_DATA = {
         "sent-kan-vi-dela-på-en-sallad",
         "sent-många-vill-ha-svenska-jordgubbar",
         "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
+        "sent-mjolk-kan-forvaras-lange-utan-kylning",
         "sent-nej-men-det-vill-jag-gärna-ha",
         "sent-nu-måste-hon-vila-länge",
         "sent-politikerna-måste-se-till-att",
@@ -1166,6 +1173,29 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grammar-pa-decennium-talet",
+      "type": "grammar",
+      "title": "på + decennium + -talet",
+      "path": "knowledge_base/grammar/grammar-pa-decennium-talet.md",
+      "body": "# 📗 på + decennium + -talet — 年代的表达法 (Expressing decades)\n\n级别: A2\n一句话: 瑞典语用 `på [年份]-talet` 表示\"在某年代\"，其中 `-talet` 是 `tal`（数/年代）的定冠词形式。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\npå + [年份数字（整十）] + -talet\n例：på 1920-talet = 在1920年代\n    på 1950-talet = 在1950年代\n    på 2000-talet = 在21世纪初/2000年代\n```\n\n注意：\n- `-talet` 是 `tal`（数）的定冠词形式（`ett tal` → `talet`），复合成 `1920-talet`\n- `på` 是固定搭配的介词（\"在…年代\"用 `på`，不用 `i`）\n- 年份数字通常取整十（1920, 1930, 1950...）\n\n与中文对比: 中文\"在1920年代\"→ 瑞典语 `på 1920-talet`（无需额外词语，-talet 已含义年代）\n与英文对比: 英文\"in the 1920s\" → 瑞典语 `på 1920-talet`（介词不同：英文用 `in`，瑞典语用 `på`）\n\n## 详细讲解 (Detail)\n\n**为什么用 `-talet`?**\n`tal` = 数字/计数，`tal` 是 ett-词，所以定冠词形式为 `talet`。\n`1920-talet` 字面意思是\"1920这个数字那一档\"，即\"1920s\"。\n\n**双定冠词结构：**\n当用形容词修饰时，需要额外的定冠词：\n- `det tidiga 1900-talet` = 20世纪初（det + tal + -et 的组合）\n- `det sena 1800-talet` = 19世纪末\n\n**读法（口语）：**\n- `1920-talet` 读作 \"nittonhundratjugotalet\"\n- 或简化为 \"tjugotalet\"（20年代，省略世纪）\n\n## 例句 (Examples)\n\n- ✅ [[sent-han-studerade-i-new-york-pa-1920-talet]] 🇸🇪 Han studerade i New York på 1920-talet. 🇨🇳 他在1920年代在纽约学习。\n- ✅ 🇸🇪 Tetra Pak grundades på 1950-talet. 🇨🇳 Tetra Pak 在1950年代创立。\n- ✅ 🇸🇪 Mobiltelefoner blev vanliga på 1990-talet. 🇨🇳 手机在1990年代变得普遍。\n- ❌ *Han studerade på 1920-tal.* ← 缺少定冠词 `-et`（必须用 `-talet`）\n- ❌ *Han studerade i 1920-talet.* ← 介词错误（必须用 `på`，不用 `i`）\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 忘记加定冠词：写成 `1920-tal` 而非 `1920-talet`\n- ⚠️ 介词用错：用 `i` 代替 `på`（英文 in 的干扰）\n- ⚠️ 年份不取整十：`på 1923-talet` 不自然，应说 `på 1920-talet`（用整十年）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-tidsadverbial]] — 时间状语的一般规则\n- 📎 [[grammar-preteritum-i-berattelse]] — 历史叙事中的时态",
+      "excerpt": "📗 på + decennium + talet — 年代的表达法 (Expressing decades) 级别: A2 一句话: 瑞典语用 på [年份] talet 表示\"在某年代\"，其中 talet 是 tal （数/年代）的定冠词形式。 规则说明 (Rules) 📐 结构公式: på + [年份数字（整十）] + talet 例：på 1920 talet = 在1920年代 på 1950 talet = 在1950年代",
+      "forms": [],
+      "links": [
+        "grammar-preteritum-i-berattelse",
+        "grammar-tidsadverbial",
+        "sent-han-studerade-i-new-york-pa-1920-talet"
+      ],
+      "searchText": "på + decennium + -talet grammar-pa-decennium-talet knowledge_base/grammar/grammar-pa-decennium-talet.md ---\ntype: grammar\nname: \"på + decennium + -talet\"\nzh: \"年代的表达法\"\nen: \"Expressing decades\"\nlevel: \"A2\"\nrelated: [grammar-tidsadverbial, grammar-preteritum-i-berattelse]\nexamples:\n  - sent-han-studerade-i-new-york-pa-1920-talet\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 på + decennium + -talet — 年代的表达法 (Expressing decades)\n\n级别: A2\n一句话: 瑞典语用 `på [年份]-talet` 表示\"在某年代\"，其中 `-talet` 是 `tal`（数/年代）的定冠词形式。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\npå + [年份数字（整十）] + -talet\n例：på 1920-talet = 在1920年代\n    på 1950-talet = 在1950年代\n    på 2000-talet = 在21世纪初/2000年代\n```\n\n注意：\n- `-talet` 是 `tal`（数）的定冠词形式（`ett tal` → `talet`），复合成 `1920-talet`\n- `på` 是固定搭配的介词（\"在…年代\"用 `på`，不用 `i`）\n- 年份数字通常取整十（1920, 1930, 1950...）\n\n与中文对比: 中文\"在1920年代\"→ 瑞典语 `på 1920-talet`（无需额外词语，-talet 已含义年代）\n与英文对比: 英文\"in the 1920s\" → 瑞典语 `på 1920-talet`（介词不同：英文用 `in`，瑞典语用 `på`）\n\n## 详细讲解 (Detail)\n\n**为什么用 `-talet`?**\n`tal` = 数字/计数，`tal` 是 ett-词，所以定冠词形式为 `talet`。\n`1920-talet` 字面意思是\"1920这个数字那一档\"，即\"1920s\"。\n\n**双定冠词结构：**\n当用形容词修饰时，需要额外的定冠词：\n- `det tidiga 1900-talet` = 20世纪初（det + tal + -et 的组合）\n- `det sena 1800-talet` = 19世纪末\n\n**读法（口语）：**\n- `1920-talet` 读作 \"nittonhundratjugotalet\"\n- 或简化为 \"tjugotalet\"（20年代，省略世纪）\n\n## 例句 (Examples)\n\n- ✅ [[sent-han-studerade-i-new-york-pa-1920-talet]] 🇸🇪 Han studerade i New York på 1920-talet. 🇨🇳 他在1920年代在纽约学习。\n- ✅ 🇸🇪 Tetra Pak grundades på 1950-talet. 🇨🇳 Tetra Pak 在1950年代创立。\n- ✅ 🇸🇪 Mobiltelefoner blev vanliga på 1990-talet. 🇨🇳 手机在1990年代变得普遍。\n- ❌ *Han studerade på 1920-tal.* ← 缺少定冠词 `-et`（必须用 `-talet`）\n- ❌ *Han studerade i 1920-talet.* ← 介词错误（必须用 `på`，不用 `i`）\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 忘记加定冠词：写成 `1920-tal` 而非 `1920-talet`\n- ⚠️ 介词用错：用 `i` 代替 `på`（英文 in 的干扰）\n- ⚠️ 年份不取整十：`på 1923-talet` 不自然，应说 `på 1920-talet`（用整十年）\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-tidsadverbial]] — 时间状语的一般规则\n- 📎 [[grammar-preteritum-i-berattelse]] — 历史叙事中的时态\n",
+      "name": "på + decennium + -talet",
+      "zh": "年代的表达法",
+      "en": "Expressing decades",
+      "created": "2026-06-23",
+      "known": false,
+      "backlinks": [
+        "sent-han-studerade-i-new-york-pa-1920-talet"
+      ]
+    },
+    {
       "slug": "grammar-partikelverb",
       "type": "grammar",
       "title": "partikelverb",
@@ -1241,6 +1271,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "sent-66-procent-av-flickorna-blir",
+        "sent-foretaget-ar-fortfarande-baserat-i-sverige",
         "source-2026-06-22-listening-svt-latt"
       ]
     },
@@ -1274,6 +1305,7 @@ window.KB_DATA = {
         "grammar-s-verb-reciprok",
         "index",
         "sent-66-procent-av-flickorna-blir",
+        "sent-ar-1952-levererades-den-forsta-fyllningsmaskinen",
         "sent-att-sla-nagon-i-sin-familj-kallas",
         "sent-även-flera-hus-med-lägenheter-verkar",
         "sent-de-lovar-att-sluta-kriga-i-60-dagar",
@@ -1286,7 +1318,9 @@ window.KB_DATA = {
         "sent-hon-föddes-den-3-januari-2003-i-stockholm",
         "sent-i-mandags-domdes-mette-marits-son",
         "sent-idag-dömdes-en-av-foxtrots-högsta",
+        "sent-kartongen-var-gjord-av-papper-och-plast",
         "sent-ledare-fran-olika-lander-har-samlats",
+        "sent-mjolk-kan-forvaras-lange-utan-kylning",
         "sent-och-fotbollsspelare-är-tränade-till",
         "sent-och-nästan-en-av-tio-tros-dessutom",
         "skilja_sig",
@@ -1295,7 +1329,8 @@ window.KB_DATA = {
         "source-2026-06-09-zlatan-bio",
         "source-2026-06-17-listening-svt-latt",
         "source-2026-06-18-listening-svt-latt",
-        "source-2026-06-22-greta-thunberg"
+        "source-2026-06-22-greta-thunberg",
+        "vara-gjord-av"
       ]
     },
     {
@@ -1670,6 +1705,7 @@ window.KB_DATA = {
         "sent-hon-fortsätter-att-kämpa-för-klimatet",
         "sent-hon-lagger-dem-under-kudden",
         "sent-ibland-traffar-jag-en-van-eller-gar",
+        "sent-idag-saljer-tetra-pak-sina-forpackningar",
         "sent-inga-problem-vi-har-havredryck",
         "sent-innan-jag-somnar-laser-jag-nagra-sidor",
         "sent-ja-det-stämmer-det-är-min",
@@ -1779,9 +1815,14 @@ window.KB_DATA = {
       "created": "2026-06-22",
       "known": false,
       "backlinks": [
+        "grammar-pa-decennium-talet",
         "grammar-tidsadverbial",
+        "sent-ar-1929-startade-rausing-ett-forpackningsforetag",
+        "sent-ar-1951-grundade-han-ab-tetra-pak",
+        "sent-ar-1952-levererades-den-forsta-fyllningsmaskinen",
         "sent-det-var-en-vanlig-helg-men-jag-trivdes",
         "sent-efter-frukosten-cyklade-jag-till-parken",
+        "sent-en-ingenjar-som-hette-erik-wallenberg-uppfann",
         "sent-jag-motte-en-gammal-van-dar",
         "sent-jag-stadade-lite-tvattade-klader",
         "sent-pa-eftermiddagen-handlade-vi-mat",
@@ -1914,6 +1955,7 @@ window.KB_DATA = {
         "sent-jag-tankte-var-tappade-jag-den",
         "sent-just-da-markte-jag-att-min-planbok-var-borta",
         "sent-många-unga-människor-började-också-strejka",
+        "sent-maskinen-fyllde-kartonger-med-gradde",
         "sent-matchen-slutade-5-1-till-nederlanderna",
         "sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort",
         "sent-när-greta-var-åtta-år-hörde-hon",
@@ -2055,6 +2097,7 @@ window.KB_DATA = {
       "backlinks": [
         "sent-att-sla-nagon-i-sin-familj-kallas",
         "sent-barn-och-unga-behover-mota-vuxna",
+        "sent-en-ingenjar-som-hette-erik-wallenberg-uppfann",
         "sent-jag-och-storasyrran-borjade-tjafsa",
         "source-2026-06-22-listening-svt-latt"
       ]
@@ -2179,6 +2222,7 @@ window.KB_DATA = {
         "sent-apoteket-ligger-mitt-emot-en-stor-byggnad",
         "sent-det-är-inte-så-långt-härifrån",
         "sent-det-är-inte-värt-det-fram-i-tiden",
+        "sent-foretaget-ar-fortfarande-baserat-i-sverige",
         "sent-jag-har-ju-vunnit-sm-guld",
         "sent-mackorna-innehåller-tyvärr-vetebröd",
         "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
@@ -2473,6 +2517,7 @@ window.KB_DATA = {
       "created": "2026-06-22",
       "known": false,
       "backlinks": [
+        "grammar-pa-decennium-talet",
         "sent-pa-eftermiddagen-borjar-det-regna",
         "sent-pa-kvallen-plockar-emma-sju-sorters-blommor",
         "sent-pa-morgonen-gar-emma-och-hennes-familj",
@@ -2592,12 +2637,16 @@ window.KB_DATA = {
         "plötsligt",
         "sent-annars-funkar-söndag-också",
         "sent-antligen-kunde-jag-andas-ut",
+        "sent-ar-1929-startade-rausing-ett-forpackningsforetag",
+        "sent-ar-1951-grundade-han-ab-tetra-pak",
+        "sent-ar-1952-levererades-den-forsta-fyllningsmaskinen",
         "sent-år-2019-åkte-hon-med-en-segelbåt",
         "sent-bakom-framgången-fanns-ett-hemligt",
         "sent-bredvid-sangen-star-ett-litet-nattduksbord",
         "sent-då-avrundar-vi-uppåt-tack-för-god-mat",
         "sent-då-bestämde-greta-sig-för-att-göra-något",
         "sent-då-tar-jag-en-bit-morotskaka",
+        "sent-dar-sag-han-självbetjäningsbutiker-for-forsta",
         "sent-dar-ska-over-800-skolor-halla-stangt",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
@@ -2645,6 +2694,7 @@ window.KB_DATA = {
         "sent-idag-är-hon-en-av-världens-mest-kända-röster",
         "sent-idag-dömdes-en-av-foxtrots-högsta",
         "sent-idag-har-det-varit-flera-ukrainska",
+        "sent-idag-saljer-tetra-pak-sina-forpackningar",
         "sent-igar-var-en-ovantad-dag",
         "sent-imorgon-på-midsommarafton-blir-det",
         "sent-inga-problem-vi-har-havredryck",
@@ -3174,7 +3224,8 @@ window.KB_DATA = {
         "bestå",
         "index",
         "source-2026-06-04-nyheter-vecka-22",
-        "topic-nyheter-vecka22"
+        "topic-nyheter-vecka22",
+        "vara-gjord-av"
       ]
     },
     {
@@ -4269,6 +4320,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "en-av-världens-mest-kända",
+        "sent-tetra-pak-ar-ett-av-sveriges-mest-kanda",
         "sent-zlatan-en-av-sveriges-mest-kanda",
         "source-2026-06-09-zlatan-bio"
       ]
@@ -4590,6 +4642,7 @@ window.KB_DATA = {
         "topic-tid-och-tidsuttryck"
       ],
       "backlinks": [
+        "sent-dar-sag-han-självbetjäningsbutiker-for-forsta",
         "sent-när-greta-var-åtta-år-hörde-hon",
         "source-2026-06-22-greta-thunberg"
       ]
@@ -5240,6 +5293,40 @@ window.KB_DATA = {
         "source-2026-06-19-pa-cafe-bestalla",
         "tack-detsamma",
         "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "ha-formen-av",
+      "type": "phrase",
+      "title": "ha formen av",
+      "path": "knowledge_base/phrases/ha-formen-av.md",
+      "body": "# ha formen av\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 2/5\n🇨🇳 呈…形状 · 🇬🇧 to have the shape of\n📝 字面: ha=有 + formen=形状（定冠词） + av=的\n\n## 用法说明 (Usage)\n\n- 描述某物的外形，后接名词短语\n- 结构：`ha formen av + en/ett + 名词`\n- 常用于描述产品、建筑、几何体的形状\n\n## 短语中的语法 (Grammar inside)\n\n- `formen` 是 `form`（形状，en-词）的定冠词形式，故用 `-en` 结尾\n- → [[grammar-bestämd-form]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `se ut som` — 看起来像（更口语化）\n- 🔄 `vara formad som` — 被塑造成…形状（强调过程）\n- 🔗 [[vara-gjord-av]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-den-hade-formen-av-en-tetraeder]] 🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid. 🇨🇳 它的形状像四面体——大概像一个金字塔。",
+      "excerpt": "ha formen av 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 2/5 🇨🇳 呈…形状 · 🇬🇧 to have the shape of 📝 字面: ha=有 + formen=形状（定冠词） + av=的 用法说明 (Usage) 描述某物的外形，后接名词短语 结构： ha formen av + en/ett + 名词 常用于描述产品、建筑、几何体的形状 短语中的语法 (G",
+      "forms": [],
+      "links": [
+        "grammar-bestämd-form",
+        "sent-den-hade-formen-av-en-tetraeder",
+        "vara-gjord-av"
+      ],
+      "searchText": "ha formen av ha-formen-av knowledge_base/phrases/ha-formen-av.md ---\ntype: phrase\nphrase: \"ha formen av\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 2\nzh: \"呈…形状\"\nen: \"to have the shape of\"\nliteral: \"ha=有 + formen=形状（定冠词） + av=的\"\nhead_words: []\ngrammar: [grammar-bestämd-form]\nrelated: [vara-gjord-av]\ntopics: [topic-uppfinning-och-teknik]\nsentences:\n  - sent-den-hade-formen-av-en-tetraeder\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# ha formen av\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 2/5\n🇨🇳 呈…形状 · 🇬🇧 to have the shape of\n📝 字面: ha=有 + formen=形状（定冠词） + av=的\n\n## 用法说明 (Usage)\n\n- 描述某物的外形，后接名词短语\n- 结构：`ha formen av + en/ett + 名词`\n- 常用于描述产品、建筑、几何体的形状\n\n## 短语中的语法 (Grammar inside)\n\n- `formen` 是 `form`（形状，en-词）的定冠词形式，故用 `-en` 结尾\n- → [[grammar-bestämd-form]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `se ut som` — 看起来像（更口语化）\n- 🔄 `vara formad som` — 被塑造成…形状（强调过程）\n- 🔗 [[vara-gjord-av]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-den-hade-formen-av-en-tetraeder]] 🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid. 🇨🇳 它的形状像四面体——大概像一个金字塔。\n",
+      "zh": "呈…形状",
+      "en": "to have the shape of",
+      "created": "2026-06-23",
+      "known": false,
+      "phrase": "ha formen av",
+      "category": "fast-uttryck",
+      "sentences": [
+        "sent-den-hade-formen-av-en-tetraeder"
+      ],
+      "grammar": [
+        "grammar-bestämd-form"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "sent-den-hade-formen-av-en-tetraeder",
+        "vara-gjord-av"
       ]
     },
     {
@@ -10391,6 +10478,37 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "utan-kylning",
+      "type": "phrase",
+      "title": "utan kylning",
+      "path": "knowledge_base/phrases/utan-kylning.md",
+      "body": "# utan kylning\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 不需冷藏/无需冷却 · 🇬🇧 without refrigeration\n📝 字面: utan=没有 + kylning=冷藏\n\n## 用法说明 (Usage)\n\n- 描述食物或物品可在常温下保存，无需冷藏设备\n- 常见于食品包装说明、产品说明书\n- 结构：`utan` + 名词（表示\"无需…\"）\n\n## 短语中的语法 (Grammar inside)\n\n- `utan` 是介词，后接名词（obestämd form）\n- 构成：介词 + 名词 = 前置短语，修饰动词或形容词\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `utan kylskåp` — 没有冰箱（口语变体）\n- 🔄 `i rumstemperatur` — 在常温下（同义说法）\n- 🔗 [[kylning]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-mjolk-kan-forvaras-lange-utan-kylning]] 🇸🇪 Mjölk kan förvaras länge utan kylning. 🇨🇳 牛奶可以不用冷藏而长期保存。",
+      "excerpt": "utan kylning 🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 不需冷藏/无需冷却 · 🇬🇧 without refrigeration 📝 字面: utan=没有 + kylning=冷藏 用法说明 (Usage) 描述食物或物品可在常温下保存，无需冷藏设备 常见于食品包装说明、产品说明书 结构： utan + 名词（表示\"无需…\"） 短语中的语法 ",
+      "forms": [],
+      "links": [
+        "kylning",
+        "sent-mjolk-kan-forvaras-lange-utan-kylning"
+      ],
+      "searchText": "utan kylning utan-kylning knowledge_base/phrases/utan-kylning.md ---\ntype: phrase\nphrase: \"utan kylning\"\ncategory: prepositionsuttryck\nregister: neutralt\nfrequency: 3\nzh: \"不需冷藏/无需冷却\"\nen: \"without refrigeration\"\nliteral: \"utan=没有/不需 + kylning=冷藏\"\nhead_words: [kylning]\ngrammar: []\nrelated: []\ntopics: [topic-uppfinning-och-teknik, topic-mat-dryck]\nsentences:\n  - sent-mjolk-kan-forvaras-lange-utan-kylning\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# utan kylning\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 不需冷藏/无需冷却 · 🇬🇧 without refrigeration\n📝 字面: utan=没有 + kylning=冷藏\n\n## 用法说明 (Usage)\n\n- 描述食物或物品可在常温下保存，无需冷藏设备\n- 常见于食品包装说明、产品说明书\n- 结构：`utan` + 名词（表示\"无需…\"）\n\n## 短语中的语法 (Grammar inside)\n\n- `utan` 是介词，后接名词（obestämd form）\n- 构成：介词 + 名词 = 前置短语，修饰动词或形容词\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `utan kylskåp` — 没有冰箱（口语变体）\n- 🔄 `i rumstemperatur` — 在常温下（同义说法）\n- 🔗 [[kylning]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-mjolk-kan-forvaras-lange-utan-kylning]] 🇸🇪 Mjölk kan förvaras länge utan kylning. 🇨🇳 牛奶可以不用冷藏而长期保存。\n",
+      "zh": "不需冷藏/无需冷却",
+      "en": "without refrigeration",
+      "created": "2026-06-23",
+      "known": false,
+      "phrase": "utan kylning",
+      "category": "prepositionsuttryck",
+      "sentences": [
+        "sent-mjolk-kan-forvaras-lange-utan-kylning"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-uppfinning-och-teknik",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-mjolk-kan-forvaras-lange-utan-kylning"
+      ]
+    },
+    {
       "slug": "vad-får-det-vara",
       "type": "phrase",
       "title": "vad får det vara",
@@ -10733,6 +10851,41 @@ window.KB_DATA = {
       "backlinks": [
         "duktig",
         "duktig-på-att"
+      ]
+    },
+    {
+      "slug": "vara-gjord-av",
+      "type": "phrase",
+      "title": "vara gjord av",
+      "path": "knowledge_base/phrases/vara-gjord-av.md",
+      "body": "# vara gjord av\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 由…制成 · 🇬🇧 to be made of\n📝 字面: vara=是 + gjord=做成的（göra 的过去分词被动形式） + av=由\n\n## 用法说明 (Usage)\n\n- 描述某物的材料成分\n- 结构：`vara gjord av + 材料`（en-ord 用 gjord，ett-ord 用 gjort，复数/bestämd 用 gjorda）\n- 极常用的日常和书面表达\n\n## 短语中的语法 (Grammar inside)\n\n- `gjord` 是 `göra` 的过去分词，与主语性别/数一致（adjektiv-böjning）\n- `av` 表示\"由…（材料）制成\"的介词用法\n- → [[grammar-passiv-med-s]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `gjort av` — ett-ord 主语（ett bord gjort av trä）\n- 🔄 `gjorda av` — 复数/bestämd 主语（kartongerna gjorda av papper）\n- 🔄 `bestå av` — 由…组成（强调成分构成，非材料）→ [[bestå-av]]\n- 🔗 [[ha-formen-av]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-kartongen-var-gjord-av-papper-och-plast]] 🇸🇪 Kartongen var gjord av papper och plast. 🇨🇳 纸盒由纸和塑料制成。",
+      "excerpt": "vara gjord av 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 4/5 🇨🇳 由…制成 · 🇬🇧 to be made of 📝 字面: vara=是 + gjord=做成的（göra 的过去分词被动形式） + av=由 用法说明 (Usage) 描述某物的材料成分 结构： vara gjord av + 材料 （en ord 用 gjord，ett ord 用 gjort，复",
+      "forms": [],
+      "links": [
+        "bestå-av",
+        "grammar-passiv-med-s",
+        "ha-formen-av",
+        "sent-kartongen-var-gjord-av-papper-och-plast"
+      ],
+      "searchText": "vara gjord av vara-gjord-av knowledge_base/phrases/vara-gjord-av.md ---\ntype: phrase\nphrase: \"vara gjord av\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 4\nzh: \"由…制成\"\nen: \"to be made of\"\nliteral: \"vara=是 + gjord=做成的（过去分词） + av=由/用\"\nhead_words: []\ngrammar: [grammar-passiv-med-s]\nrelated: [ha-formen-av, bestå-av]\ntopics: [topic-uppfinning-och-teknik]\nsentences:\n  - sent-kartongen-var-gjord-av-papper-och-plast\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# vara gjord av\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 由…制成 · 🇬🇧 to be made of\n📝 字面: vara=是 + gjord=做成的（göra 的过去分词被动形式） + av=由\n\n## 用法说明 (Usage)\n\n- 描述某物的材料成分\n- 结构：`vara gjord av + 材料`（en-ord 用 gjord，ett-ord 用 gjort，复数/bestämd 用 gjorda）\n- 极常用的日常和书面表达\n\n## 短语中的语法 (Grammar inside)\n\n- `gjord` 是 `göra` 的过去分词，与主语性别/数一致（adjektiv-böjning）\n- `av` 表示\"由…（材料）制成\"的介词用法\n- → [[grammar-passiv-med-s]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 `gjort av` — ett-ord 主语（ett bord gjort av trä）\n- 🔄 `gjorda av` — 复数/bestämd 主语（kartongerna gjorda av papper）\n- 🔄 `bestå av` — 由…组成（强调成分构成，非材料）→ [[bestå-av]]\n- 🔗 [[ha-formen-av]]\n\n## 例句 / 对话 (Examples)\n\n- [[sent-kartongen-var-gjord-av-papper-och-plast]] 🇸🇪 Kartongen var gjord av papper och plast. 🇨🇳 纸盒由纸和塑料制成。\n",
+      "zh": "由…制成",
+      "en": "to be made of",
+      "created": "2026-06-23",
+      "known": false,
+      "phrase": "vara gjord av",
+      "category": "fast-uttryck",
+      "sentences": [
+        "sent-kartongen-var-gjord-av-papper-och-plast"
+      ],
+      "grammar": [
+        "grammar-passiv-med-s"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "ha-formen-av",
+        "sent-kartongen-var-gjord-av-papper-och-plast"
       ]
     },
     {
@@ -11757,6 +11910,106 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-ar-1929-startade-rausing-ett-forpackningsforetag",
+      "type": "sentence",
+      "title": "🇸🇪 År 1929 startade Rausing ett förpackningsföretag i Malmö.",
+      "path": "knowledge_base/sentences/sent-ar-1929-startade-rausing-ett-forpackningsforetag.md",
+      "body": "# 🇸🇪 År 1929 startade Rausing ett förpackningsföretag i Malmö.\n\n🇨🇳 1929年，Rausing 在马尔默创办了一家包装公司。\n\n## 结构 (Structure)\n\n```\n[År 1929] [startade] [Rausing] [ett förpackningsföretag] [i Malmö]\n 时间状语     动词       主语          宾语（一家包装公司）     地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语 `År 1929` 前置，动词 `startade` 在第二位（V2）\n- 📌 [[grammar-preteritum-i-berattelse]] — 叙事性过去时，讲述历史事件\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förpackning]]（复合词中的成分：förpacknings-företag）\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 År 1929 startade Rausing ett förpackningsföretag i Malmö. 🇨🇳 1929年，Rausing 在马尔默创办了一家包装公司。 结构 (Structure) [År 1929] [startade] [Rausing] [ett förpackningsföretag] [i Malmö] 时间状语 动词 主语 宾语（一家包装公司） 地点状语 语法点 (Grammar) ",
+      "forms": [],
+      "links": [
+        "förpackning",
+        "grammar-preteritum-i-berattelse",
+        "grammar-v2-ordfoljd",
+        "source-2026-06-23-tetra-pak"
+      ],
+      "searchText": "🇸🇪 År 1929 startade Rausing ett förpackningsföretag i Malmö. sent-ar-1929-startade-rausing-ett-forpackningsforetag knowledge_base/sentences/sent-ar-1929-startade-rausing-ett-forpackningsforetag.md ---\ntype: sentence\nsentence: \"År 1929 startade Rausing ett förpackningsföretag i Malmö.\"\nzh: \"1929年，Rausing 在马尔默创办了一家包装公司。\"\ncefr: \"A2\"\nwords: [förpackning]\nphrases: []\ngrammar: [grammar-v2-ordfoljd, grammar-preteritum-i-berattelse]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 År 1929 startade Rausing ett förpackningsföretag i Malmö.\n\n🇨🇳 1929年，Rausing 在马尔默创办了一家包装公司。\n\n## 结构 (Structure)\n\n```\n[År 1929] [startade] [Rausing] [ett förpackningsföretag] [i Malmö]\n 时间状语     动词       主语          宾语（一家包装公司）     地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语 `År 1929` 前置，动词 `startade` 在第二位（V2）\n- 📌 [[grammar-preteritum-i-berattelse]] — 叙事性过去时，讲述历史事件\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förpackning]]（复合词中的成分：förpacknings-företag）\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "1929年，Rausing 在马尔默创办了一家包装公司。",
+      "created": "2026-06-23",
+      "sentence": "År 1929 startade Rausing ett förpackningsföretag i Malmö.",
+      "words": [
+        "förpackning"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-preteritum-i-berattelse"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-ar-1951-grundade-han-ab-tetra-pak",
+      "type": "sentence",
+      "title": "🇸🇪 År 1951 grundade han AB Tetra Pak i Lund.",
+      "path": "knowledge_base/sentences/sent-ar-1951-grundade-han-ab-tetra-pak.md",
+      "body": "# 🇸🇪 År 1951 grundade han AB Tetra Pak i Lund.\n\n🇨🇳 1951年，他在隆德创办了 AB Tetra Pak。\n\n## 结构 (Structure)\n\n```\n[År 1951] [grundade] [han] [AB Tetra Pak] [i Lund]\n 时间状语    动词       主语     宾语（公司名）  地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语 `År 1951` 前置，动词 `grundade` 在第二位\n- 📌 [[grammar-preteritum-i-berattelse]] — 历史叙事中的过去时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[grundare]]（动词 `grundade` 的同根词）\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 År 1951 grundade han AB Tetra Pak i Lund. 🇨🇳 1951年，他在隆德创办了 AB Tetra Pak。 结构 (Structure) [År 1951] [grundade] [han] [AB Tetra Pak] [i Lund] 时间状语 动词 主语 宾语（公司名） 地点状语 语法点 (Grammar) 📌 grammar v2 ordfoljd — 时间状语 År 195",
+      "forms": [],
+      "links": [
+        "grammar-preteritum-i-berattelse",
+        "grammar-v2-ordfoljd",
+        "grundare",
+        "source-2026-06-23-tetra-pak"
+      ],
+      "searchText": "🇸🇪 År 1951 grundade han AB Tetra Pak i Lund. sent-ar-1951-grundade-han-ab-tetra-pak knowledge_base/sentences/sent-ar-1951-grundade-han-ab-tetra-pak.md ---\ntype: sentence\nsentence: \"År 1951 grundade han AB Tetra Pak i Lund.\"\nzh: \"1951年，他在隆德创办了 AB Tetra Pak。\"\ncefr: \"A2\"\nwords: [grundare]\nphrases: []\ngrammar: [grammar-v2-ordfoljd, grammar-preteritum-i-berattelse]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 År 1951 grundade han AB Tetra Pak i Lund.\n\n🇨🇳 1951年，他在隆德创办了 AB Tetra Pak。\n\n## 结构 (Structure)\n\n```\n[År 1951] [grundade] [han] [AB Tetra Pak] [i Lund]\n 时间状语    动词       主语     宾语（公司名）  地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语 `År 1951` 前置，动词 `grundade` 在第二位\n- 📌 [[grammar-preteritum-i-berattelse]] — 历史叙事中的过去时\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[grundare]]（动词 `grundade` 的同根词）\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "1951年，他在隆德创办了 AB Tetra Pak。",
+      "created": "2026-06-23",
+      "sentence": "År 1951 grundade han AB Tetra Pak i Lund.",
+      "words": [
+        "grundare"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-preteritum-i-berattelse"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-ar-1952-levererades-den-forsta-fyllningsmaskinen",
+      "type": "sentence",
+      "title": "🇸🇪 År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund.",
+      "path": "knowledge_base/sentences/sent-ar-1952-levererades-den-forsta-fyllningsmaskinen.md",
+      "body": "# 🇸🇪 År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund.\n\n🇨🇳 1952年，第一台灌装机被交付给隆德附近的一家乳品厂。\n\n## 结构 (Structure)\n\n```\n[År 1952] [levererades] [den första fyllningsmaskinen] [till ett mejeri nära Lund]\n 时间状语    被动动词          主语（被交付的机器）            目的地状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `levererades` 是 `leverera` 的 s-被动式过去时（preteritum passiv）\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，动词在第二位（被动动词仍算 V2）\n- 📌 [[grammar-preteritum-i-berattelse]] — 历史叙事时态\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[leverera]], [[mejeri]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund. 🇨🇳 1952年，第一台灌装机被交付给隆德附近的一家乳品厂。 结构 (Structure) [År 1952] [levererades] [den första fyllningsmaskinen] [till ett mejeri nära Lund] 时间状语 被动动",
+      "forms": [],
+      "links": [
+        "grammar-passiv-med-s",
+        "grammar-preteritum-i-berattelse",
+        "grammar-v2-ordfoljd",
+        "leverera",
+        "mejeri",
+        "source-2026-06-23-tetra-pak"
+      ],
+      "searchText": "🇸🇪 År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund. sent-ar-1952-levererades-den-forsta-fyllningsmaskinen knowledge_base/sentences/sent-ar-1952-levererades-den-forsta-fyllningsmaskinen.md ---\ntype: sentence\nsentence: \"År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund.\"\nzh: \"1952年，第一台灌装机被交付给隆德附近的一家乳品厂。\"\ncefr: \"B1\"\nwords: [leverera, mejeri]\nphrases: []\ngrammar: [grammar-v2-ordfoljd, grammar-passiv-med-s, grammar-preteritum-i-berattelse]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund.\n\n🇨🇳 1952年，第一台灌装机被交付给隆德附近的一家乳品厂。\n\n## 结构 (Structure)\n\n```\n[År 1952] [levererades] [den första fyllningsmaskinen] [till ett mejeri nära Lund]\n 时间状语    被动动词          主语（被交付的机器）            目的地状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `levererades` 是 `leverera` 的 s-被动式过去时（preteritum passiv）\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置，动词在第二位（被动动词仍算 V2）\n- 📌 [[grammar-preteritum-i-berattelse]] — 历史叙事时态\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[leverera]], [[mejeri]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "B1",
+      "zh": "1952年，第一台灌装机被交付给隆德附近的一家乳品厂。",
+      "created": "2026-06-23",
+      "sentence": "År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund.",
+      "words": [
+        "leverera",
+        "mejeri"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-passiv-med-s",
+        "grammar-preteritum-i-berattelse"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-år-2019-åkte-hon-med-en-segelbåt",
       "type": "sentence",
       "title": "🇸🇪 År 2019 åkte hon med en segelbåt över Atlanten till USA, eftersom hon inte ville flyga.",
@@ -12727,6 +12980,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-dar-sag-han-självbetjäningsbutiker-for-forsta",
+      "type": "sentence",
+      "title": "🇸🇪 Där såg han självbetjäningsbutiker för första gången.",
+      "path": "knowledge_base/sentences/sent-dar-sag-han-självbetjäningsbutiker-for-forsta.md",
+      "body": "# 🇸🇪 Där såg han självbetjäningsbutiker för första gången.\n\n🇨🇳 在那里，他第一次看到了自助超市。\n\n## 结构 (Structure)\n\n```\n[Där] [såg] [han] [självbetjäningsbutiker] [för första gången]\n 地点   动词   主语        宾语（复数）           时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 地点状语 `Där` 置于句首，动词 `såg` 跟随在第二位（V2规则），主语 `han` 后移\n- `självbetjäningsbutiker` = självbetjäning + butik + -er（复数）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[självbetjäning]]\n- 词组: [[för-första-gången]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Där såg han självbetjäningsbutiker för första gången. 🇨🇳 在那里，他第一次看到了自助超市。 结构 (Structure) [Där] [såg] [han] [självbetjäningsbutiker] [för första gången] 地点 动词 主语 宾语（复数） 时间状语 语法点 (Grammar) 📌 grammar v2 ordfoljd — 地",
+      "forms": [],
+      "links": [
+        "för-första-gången",
+        "grammar-v2-ordfoljd",
+        "självbetjäning",
+        "source-2026-06-23-tetra-pak"
+      ],
+      "searchText": "🇸🇪 Där såg han självbetjäningsbutiker för första gången. sent-dar-sag-han-självbetjäningsbutiker-for-forsta knowledge_base/sentences/sent-dar-sag-han-självbetjäningsbutiker-for-forsta.md ---\ntype: sentence\nsentence: \"Där såg han självbetjäningsbutiker för första gången.\"\nzh: \"在那里，他第一次看到了自助超市。\"\ncefr: \"A2\"\nwords: [självbetjäning]\nphrases: [för-första-gången]\ngrammar: [grammar-v2-ordfoljd]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Där såg han självbetjäningsbutiker för första gången.\n\n🇨🇳 在那里，他第一次看到了自助超市。\n\n## 结构 (Structure)\n\n```\n[Där] [såg] [han] [självbetjäningsbutiker] [för första gången]\n 地点   动词   主语        宾语（复数）           时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 地点状语 `Där` 置于句首，动词 `såg` 跟随在第二位（V2规则），主语 `han` 后移\n- `självbetjäningsbutiker` = självbetjäning + butik + -er（复数）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[självbetjäning]]\n- 词组: [[för-första-gången]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "在那里，他第一次看到了自助超市。",
+      "created": "2026-06-23",
+      "sentence": "Där såg han självbetjäningsbutiker för första gången.",
+      "words": [
+        "självbetjäning"
+      ],
+      "phrases": [
+        "för-första-gången"
+      ],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-dar-ska-over-800-skolor-halla-stangt",
       "type": "sentence",
       "title": "🇸🇪 Där ska över 800 skolor hålla stängt på grund av värmen.",
@@ -13276,6 +13562,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-den-hade-formen-av-en-tetraeder",
+      "type": "sentence",
+      "title": "🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid.",
+      "path": "knowledge_base/sentences/sent-den-hade-formen-av-en-tetraeder.md",
+      "body": "# 🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid.\n\n🇨🇳 它的形状像四面体——大概像一个金字塔。\n\n## 结构 (Structure)\n\n```\n[Den] [hade] [formen av en tetraeder] [– ungefär som en pyramid]\n 主语   动词      宾语（形状）                  补充说明（破折号）\n```\n\n## 语法点 (Grammar)\n\n- 破折号 `–` 用于补充解释，类似于括号的用法\n- `formen` 是 `form` 的定冠词形式（bestämd form）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tetraeder]], [[pyramid]]\n- 词组: [[ha-formen-av]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid. 🇨🇳 它的形状像四面体——大概像一个金字塔。 结构 (Structure) [Den] [hade] [formen av en tetraeder] [– ungefär som en pyramid] 主语 动词 宾语（形状） 补充说明（破折号） 语法点 (Grammar) 破折号 – 用于补充解释，类似",
+      "forms": [],
+      "links": [
+        "ha-formen-av",
+        "pyramid",
+        "source-2026-06-23-tetra-pak",
+        "tetraeder"
+      ],
+      "searchText": "🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid. sent-den-hade-formen-av-en-tetraeder knowledge_base/sentences/sent-den-hade-formen-av-en-tetraeder.md ---\ntype: sentence\nsentence: \"Den hade formen av en tetraeder – ungefär som en pyramid.\"\nzh: \"它的形状像四面体——大概像一个金字塔。\"\ncefr: \"A2\"\nwords: [tetraeder, pyramid]\nphrases: [ha-formen-av]\ngrammar: []\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid.\n\n🇨🇳 它的形状像四面体——大概像一个金字塔。\n\n## 结构 (Structure)\n\n```\n[Den] [hade] [formen av en tetraeder] [– ungefär som en pyramid]\n 主语   动词      宾语（形状）                  补充说明（破折号）\n```\n\n## 语法点 (Grammar)\n\n- 破折号 `–` 用于补充解释，类似于括号的用法\n- `formen` 是 `form` 的定冠词形式（bestämd form）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tetraeder]], [[pyramid]]\n- 词组: [[ha-formen-av]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "它的形状像四面体——大概像一个金字塔。",
+      "created": "2026-06-23",
+      "sentence": "Den hade formen av en tetraeder – ungefär som en pyramid.",
+      "words": [
+        "tetraeder",
+        "pyramid"
+      ],
+      "phrases": [
+        "ha-formen-av"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "ha-formen-av"
+      ]
+    },
+    {
       "slug": "sent-den-som-ska-ut-och-köra-bil",
       "type": "sentence",
       "title": "🇸🇪 Den som ska ut och köra bil kan få svårare att ta sig fram.",
@@ -13455,6 +13775,38 @@ window.KB_DATA = {
         "öka",
         "source-2026-06-17-listening-svt-latt"
       ]
+    },
+    {
+      "slug": "sent-den-var-lattare-att-stapla-och-transportera",
+      "type": "sentence",
+      "title": "🇸🇪 Den var lättare att stapla och transportera.",
+      "path": "knowledge_base/sentences/sent-den-var-lattare-att-stapla-och-transportera.md",
+      "body": "# 🇸🇪 Den var lättare att stapla och transportera.\n\n🇨🇳 它更容易堆叠和运输。\n\n## 结构 (Structure)\n\n```\n[Den] [var] [lättare] [att stapla och transportera]\n 主语  动词  比较级     不定式短语（补充说明\"更容易做什么\"）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — `lättare` 是 `lätt` 的比较级（komparativ）\n- 📌 [[grammar-for-att-infinitiv]] — `att stapla och transportera` 是不定式短语，修饰 `lättare`\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stapla]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Den var lättare att stapla och transportera. 🇨🇳 它更容易堆叠和运输。 结构 (Structure) [Den] [var] [lättare] [att stapla och transportera] 主语 动词 比较级 不定式短语（补充说明\"更容易做什么\"） 语法点 (Grammar) 📌 grammar komparativ — lättare 是 lätt 的比较级",
+      "forms": [],
+      "links": [
+        "grammar-for-att-infinitiv",
+        "grammar-komparativ",
+        "source-2026-06-23-tetra-pak",
+        "stapla"
+      ],
+      "searchText": "🇸🇪 Den var lättare att stapla och transportera. sent-den-var-lattare-att-stapla-och-transportera knowledge_base/sentences/sent-den-var-lattare-att-stapla-och-transportera.md ---\ntype: sentence\nsentence: \"Den var lättare att stapla och transportera.\"\nzh: \"它更容易堆叠和运输。\"\ncefr: \"A2\"\nwords: [stapla]\nphrases: []\ngrammar: [grammar-komparativ, grammar-for-att-infinitiv]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Den var lättare att stapla och transportera.\n\n🇨🇳 它更容易堆叠和运输。\n\n## 结构 (Structure)\n\n```\n[Den] [var] [lättare] [att stapla och transportera]\n 主语  动词  比较级     不定式短语（补充说明\"更容易做什么\"）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — `lättare` 是 `lätt` 的比较级（komparativ）\n- 📌 [[grammar-for-att-infinitiv]] — `att stapla och transportera` 是不定式短语，修饰 `lättare`\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[stapla]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "它更容易堆叠和运输。",
+      "created": "2026-06-23",
+      "sentence": "Den var lättare att stapla och transportera.",
+      "words": [
+        "stapla"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-komparativ",
+        "grammar-for-att-infinitiv"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-dessutom-ar-det-stor-skillnad-pa",
@@ -15290,6 +15642,42 @@ window.KB_DATA = {
       ],
       "topics": [
         "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-en-ingenjar-som-hette-erik-wallenberg-uppfann",
+      "type": "sentence",
+      "title": "🇸🇪 En ingenjör som hette Erik Wallenberg uppfann den speciella kartongen.",
+      "path": "knowledge_base/sentences/sent-en-ingenjar-som-hette-erik-wallenberg-uppfann.md",
+      "body": "# 🇸🇪 En ingenjör som hette Erik Wallenberg uppfann den speciella kartongen.\n\n🇨🇳 一位名叫 Erik Wallenberg 的工程师发明了这种特殊纸盒。\n\n## 结构 (Structure)\n\n```\n[En ingenjör [som hette Erik Wallenberg]] [uppfann] [den speciella kartongen]\n   主语              关系从句                  动词           宾语（特指纸盒）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-relativ-bisats-med-som]] — `som` 引导关系从句，修饰主语 `en ingenjör`\n- 📌 [[grammar-preteritum-i-berattelse]] — `uppfann` 是 `uppfinna` 的不规则过去时（stark verb）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ingenjör]], [[kartong]], [[uppfinning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 En ingenjör som hette Erik Wallenberg uppfann den speciella kartongen. 🇨🇳 一位名叫 Erik Wallenberg 的工程师发明了这种特殊纸盒。 结构 (Structure) [En ingenjör [som hette Erik Wallenberg]] [uppfann] [den speciella kartongen] 主语 关系从句 动词",
+      "forms": [],
+      "links": [
+        "grammar-preteritum-i-berattelse",
+        "grammar-relativ-bisats-med-som",
+        "ingenjör",
+        "kartong",
+        "source-2026-06-23-tetra-pak",
+        "uppfinning"
+      ],
+      "searchText": "🇸🇪 En ingenjör som hette Erik Wallenberg uppfann den speciella kartongen. sent-en-ingenjar-som-hette-erik-wallenberg-uppfann knowledge_base/sentences/sent-en-ingenjar-som-hette-erik-wallenberg-uppfann.md ---\ntype: sentence\nsentence: \"En ingenjör som hette Erik Wallenberg uppfann den speciella kartongen.\"\nzh: \"一位名叫 Erik Wallenberg 的工程师发明了这种特殊纸盒。\"\ncefr: \"A2\"\nwords: [ingenjör, kartong, uppfinning]\nphrases: []\ngrammar: [grammar-relativ-bisats-med-som, grammar-preteritum-i-berattelse]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 En ingenjör som hette Erik Wallenberg uppfann den speciella kartongen.\n\n🇨🇳 一位名叫 Erik Wallenberg 的工程师发明了这种特殊纸盒。\n\n## 结构 (Structure)\n\n```\n[En ingenjör [som hette Erik Wallenberg]] [uppfann] [den speciella kartongen]\n   主语              关系从句                  动词           宾语（特指纸盒）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-relativ-bisats-med-som]] — `som` 引导关系从句，修饰主语 `en ingenjör`\n- 📌 [[grammar-preteritum-i-berattelse]] — `uppfann` 是 `uppfinna` 的不规则过去时（stark verb）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ingenjör]], [[kartong]], [[uppfinning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "一位名叫 Erik Wallenberg 的工程师发明了这种特殊纸盒。",
+      "created": "2026-06-23",
+      "sentence": "En ingenjör som hette Erik Wallenberg uppfann den speciella kartongen.",
+      "words": [
+        "ingenjör",
+        "kartong",
+        "uppfinning"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-relativ-bisats-med-som",
+        "grammar-preteritum-i-berattelse"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
       ],
       "backlinks": []
     },
@@ -17613,6 +18001,38 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-foretaget-ar-fortfarande-baserat-i-sverige",
+      "type": "sentence",
+      "title": "🇸🇪 Företaget är fortfarande baserat i Sverige.",
+      "path": "knowledge_base/sentences/sent-foretaget-ar-fortfarande-baserat-i-sverige.md",
+      "body": "# 🇸🇪 Företaget är fortfarande baserat i Sverige.\n\n🇨🇳 公司至今仍以瑞典为基地。\n\n## 结构 (Structure)\n\n```\n[Företaget] [är] [fortfarande] [baserat] [i Sverige]\n   主语      动词   句子副词      过去分词     地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-konstruktion]] — `är baserat` = 状态被动（vara-passiv），\"被设立于\"\n- 📌 [[grammar-satsadverbial]] — `fortfarande` 是句子副词，表示\"至今/仍然\"，位于动词之后\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fortfarande]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Företaget är fortfarande baserat i Sverige. 🇨🇳 公司至今仍以瑞典为基地。 结构 (Structure) [Företaget] [är] [fortfarande] [baserat] [i Sverige] 主语 动词 句子副词 过去分词 地点状语 语法点 (Grammar) 📌 grammar passiv konstruktion — är baserat = 状态被动",
+      "forms": [],
+      "links": [
+        "fortfarande",
+        "grammar-passiv-konstruktion",
+        "grammar-satsadverbial",
+        "source-2026-06-23-tetra-pak"
+      ],
+      "searchText": "🇸🇪 Företaget är fortfarande baserat i Sverige. sent-foretaget-ar-fortfarande-baserat-i-sverige knowledge_base/sentences/sent-foretaget-ar-fortfarande-baserat-i-sverige.md ---\ntype: sentence\nsentence: \"Företaget är fortfarande baserat i Sverige.\"\nzh: \"公司至今仍以瑞典为基地。\"\ncefr: \"A2\"\nwords: [fortfarande]\nphrases: []\ngrammar: [grammar-passiv-konstruktion, grammar-satsadverbial]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Företaget är fortfarande baserat i Sverige.\n\n🇨🇳 公司至今仍以瑞典为基地。\n\n## 结构 (Structure)\n\n```\n[Företaget] [är] [fortfarande] [baserat] [i Sverige]\n   主语      动词   句子副词      过去分词     地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-konstruktion]] — `är baserat` = 状态被动（vara-passiv），\"被设立于\"\n- 📌 [[grammar-satsadverbial]] — `fortfarande` 是句子副词，表示\"至今/仍然\"，位于动词之后\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[fortfarande]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "公司至今仍以瑞典为基地。",
+      "created": "2026-06-23",
+      "sentence": "Företaget är fortfarande baserat i Sverige.",
+      "words": [
+        "fortfarande"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-passiv-konstruktion",
+        "grammar-satsadverbial"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-förlåt-kan-du-hjälpa-mig",
       "type": "sentence",
       "title": "🇸🇪 Förlåt, kan du hjälpa mig?",
@@ -18869,6 +19289,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-han-forstod-att-forpackningar-var-viktiga",
+      "type": "sentence",
+      "title": "🇸🇪 Han förstod att förpackningar var viktiga för framtiden.",
+      "path": "knowledge_base/sentences/sent-han-forstod-att-forpackningar-var-viktiga.md",
+      "body": "# 🇸🇪 Han förstod att förpackningar var viktiga för framtiden.\n\n🇨🇳 他明白包装对未来非常重要。\n\n## 结构 (Structure)\n\n```\n[Han] [förstod] [att förpackningar var viktiga för framtiden]\n 主语    动词          att-从句（宾语从句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — `att` 引导宾语从句，`förstod att…` = \"明白…\"\n- 📌 [[grammar-bisats]] — 从句中动词 `var` 位于主语 `förpackningar` 之后（从句语序）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förpackning]], [[framtid]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Han förstod att förpackningar var viktiga för framtiden. 🇨🇳 他明白包装对未来非常重要。 结构 (Structure) [Han] [förstod] [att förpackningar var viktiga för framtiden] 主语 动词 att 从句（宾语从句） 语法点 (Grammar) 📌 grammar att sats — att 引导宾",
+      "forms": [],
+      "links": [
+        "förpackning",
+        "framtid",
+        "grammar-att-sats",
+        "grammar-bisats",
+        "source-2026-06-23-tetra-pak"
+      ],
+      "searchText": "🇸🇪 Han förstod att förpackningar var viktiga för framtiden. sent-han-forstod-att-forpackningar-var-viktiga knowledge_base/sentences/sent-han-forstod-att-forpackningar-var-viktiga.md ---\ntype: sentence\nsentence: \"Han förstod att förpackningar var viktiga för framtiden.\"\nzh: \"他明白包装对未来非常重要。\"\ncefr: \"A2\"\nwords: [förpackning, framtid]\nphrases: []\ngrammar: [grammar-att-sats, grammar-bisats]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Han förstod att förpackningar var viktiga för framtiden.\n\n🇨🇳 他明白包装对未来非常重要。\n\n## 结构 (Structure)\n\n```\n[Han] [förstod] [att förpackningar var viktiga för framtiden]\n 主语    动词          att-从句（宾语从句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-att-sats]] — `att` 引导宾语从句，`förstod att…` = \"明白…\"\n- 📌 [[grammar-bisats]] — 从句中动词 `var` 位于主语 `förpackningar` 之后（从句语序）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förpackning]], [[framtid]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "他明白包装对未来非常重要。",
+      "created": "2026-06-23",
+      "sentence": "Han förstod att förpackningar var viktiga för framtiden.",
+      "words": [
+        "förpackning",
+        "framtid"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-att-sats",
+        "grammar-bisats"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-han-har-blivit-allt-mindre-popularr",
       "type": "sentence",
       "title": "🇸🇪 Han har blivit allt mindre populär.",
@@ -18952,6 +19406,35 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "source-2026-06-18-listening-svt-latt"
+      ]
+    },
+    {
+      "slug": "sent-han-studerade-i-new-york-pa-1920-talet",
+      "type": "sentence",
+      "title": "🇸🇪 Han studerade i New York på 1920-talet.",
+      "path": "knowledge_base/sentences/sent-han-studerade-i-new-york-pa-1920-talet.md",
+      "body": "# 🇸🇪 Han studerade i New York på 1920-talet.\n\n🇨🇳 他在1920年代在纽约学习。\n\n## 结构 (Structure)\n\n```\n[Han] [studerade] [i New York] [på 1920-talet]\n 主语    动词       地点状语        时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-pa-decennium-talet]] — `på 1920-talet` 表示\"在1920年代\"，注意介词 `på` + 年份数字 + `-talet`（定冠词形式）\n- `studerade` = studera 的 preteritum（过去时）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[grammar-pa-decennium-talet]]（年代表达法）\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Han studerade i New York på 1920 talet. 🇨🇳 他在1920年代在纽约学习。 结构 (Structure) [Han] [studerade] [i New York] [på 1920 talet] 主语 动词 地点状语 时间状语 语法点 (Grammar) 📌 grammar pa decennium talet — på 1920 talet 表示\"在1920年代\"，注意介词 ",
+      "forms": [],
+      "links": [
+        "grammar-pa-decennium-talet",
+        "source-2026-06-23-tetra-pak"
+      ],
+      "searchText": "🇸🇪 Han studerade i New York på 1920-talet. sent-han-studerade-i-new-york-pa-1920-talet knowledge_base/sentences/sent-han-studerade-i-new-york-pa-1920-talet.md ---\ntype: sentence\nsentence: \"Han studerade i New York på 1920-talet.\"\nzh: \"他在1920年代在纽约学习。\"\ncefr: \"A2\"\nwords: []\nphrases: []\ngrammar: [grammar-pa-decennium-talet]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Han studerade i New York på 1920-talet.\n\n🇨🇳 他在1920年代在纽约学习。\n\n## 结构 (Structure)\n\n```\n[Han] [studerade] [i New York] [på 1920-talet]\n 主语    动词       地点状语        时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-pa-decennium-talet]] — `på 1920-talet` 表示\"在1920年代\"，注意介词 `på` + 年份数字 + `-talet`（定冠词形式）\n- `studerade` = studera 的 preteritum（过去时）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词组: [[grammar-pa-decennium-talet]]（年代表达法）\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "他在1920年代在纽约学习。",
+      "created": "2026-06-23",
+      "sentence": "Han studerade i New York på 1920-talet.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-pa-decennium-talet"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "grammar-pa-decennium-talet"
       ]
     },
     {
@@ -20688,6 +21171,40 @@ window.KB_DATA = {
         "ränta",
         "source-2026-06-17-listening-svt-latt"
       ]
+    },
+    {
+      "slug": "sent-idag-saljer-tetra-pak-sina-forpackningar",
+      "type": "sentence",
+      "title": "🇸🇪 Idag säljer Tetra Pak sina förpackningar i mer än 160 länder.",
+      "path": "knowledge_base/sentences/sent-idag-saljer-tetra-pak-sina-forpackningar.md",
+      "body": "# 🇸🇪 Idag säljer Tetra Pak sina förpackningar i mer än 160 länder.\n\n🇨🇳 今天，Tetra Pak 在160多个国家销售其包装产品。\n\n## 结构 (Structure)\n\n```\n[Idag] [säljer] [Tetra Pak] [sina förpackningar] [i mer än 160 länder]\n 时间    动词      主语           宾语                    地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语 `Idag` 前置，动词 `säljer` 在第二位\n- 📌 [[grammar-presens]] — 现在时描述当前事实\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förpackning]], [[sälja]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Idag säljer Tetra Pak sina förpackningar i mer än 160 länder. 🇨🇳 今天，Tetra Pak 在160多个国家销售其包装产品。 结构 (Structure) [Idag] [säljer] [Tetra Pak] [sina förpackningar] [i mer än 160 länder] 时间 动词 主语 宾语 地点状语 语法点 (Grammar) \ud83d",
+      "forms": [],
+      "links": [
+        "förpackning",
+        "grammar-presens",
+        "grammar-v2-ordfoljd",
+        "sälja",
+        "source-2026-06-23-tetra-pak"
+      ],
+      "searchText": "🇸🇪 Idag säljer Tetra Pak sina förpackningar i mer än 160 länder. sent-idag-saljer-tetra-pak-sina-forpackningar knowledge_base/sentences/sent-idag-saljer-tetra-pak-sina-forpackningar.md ---\ntype: sentence\nsentence: \"Idag säljer Tetra Pak sina förpackningar i mer än 160 länder.\"\nzh: \"今天，Tetra Pak 在160多个国家销售其包装产品。\"\ncefr: \"A2\"\nwords: [förpackning, sälja]\nphrases: []\ngrammar: [grammar-v2-ordfoljd, grammar-presens]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Idag säljer Tetra Pak sina förpackningar i mer än 160 länder.\n\n🇨🇳 今天，Tetra Pak 在160多个国家销售其包装产品。\n\n## 结构 (Structure)\n\n```\n[Idag] [säljer] [Tetra Pak] [sina förpackningar] [i mer än 160 länder]\n 时间    动词      主语           宾语                    地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语 `Idag` 前置，动词 `säljer` 在第二位\n- 📌 [[grammar-presens]] — 现在时描述当前事实\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förpackning]], [[sälja]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "今天，Tetra Pak 在160多个国家销售其包装产品。",
+      "created": "2026-06-23",
+      "sentence": "Idag säljer Tetra Pak sina förpackningar i mer än 160 länder.",
+      "words": [
+        "förpackning",
+        "sälja"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd",
+        "grammar-presens"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-igar-var-en-ovantad-dag",
@@ -22486,6 +23003,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-kartongen-var-gjord-av-papper-och-plast",
+      "type": "sentence",
+      "title": "🇸🇪 Kartongen var gjord av papper och plast.",
+      "path": "knowledge_base/sentences/sent-kartongen-var-gjord-av-papper-och-plast.md",
+      "body": "# 🇸🇪 Kartongen var gjord av papper och plast.\n\n🇨🇳 纸盒由纸和塑料制成。\n\n## 结构 (Structure)\n\n```\n[Kartongen] [var gjord] [av papper och plast]\n   主语        被动动词       材料状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `gjord` 是 `göra` 的过去分词，`var gjord av` = 被动结构\"由…制成\"\n- `av` 引导材料成分\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kartong]]\n- 词组: [[vara-gjord-av]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Kartongen var gjord av papper och plast. 🇨🇳 纸盒由纸和塑料制成。 结构 (Structure) [Kartongen] [var gjord] [av papper och plast] 主语 被动动词 材料状语 语法点 (Grammar) 📌 grammar passiv med s — gjord 是 göra 的过去分词， var gjord av = 被动结构\"由…制成",
+      "forms": [],
+      "links": [
+        "grammar-passiv-med-s",
+        "kartong",
+        "source-2026-06-23-tetra-pak",
+        "vara-gjord-av"
+      ],
+      "searchText": "🇸🇪 Kartongen var gjord av papper och plast. sent-kartongen-var-gjord-av-papper-och-plast knowledge_base/sentences/sent-kartongen-var-gjord-av-papper-och-plast.md ---\ntype: sentence\nsentence: \"Kartongen var gjord av papper och plast.\"\nzh: \"纸盒由纸和塑料制成。\"\ncefr: \"A1\"\nwords: [kartong]\nphrases: [vara-gjord-av]\ngrammar: [grammar-passiv-med-s]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Kartongen var gjord av papper och plast.\n\n🇨🇳 纸盒由纸和塑料制成。\n\n## 结构 (Structure)\n\n```\n[Kartongen] [var gjord] [av papper och plast]\n   主语        被动动词       材料状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `gjord` 是 `göra` 的过去分词，`var gjord av` = 被动结构\"由…制成\"\n- `av` 引导材料成分\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kartong]]\n- 词组: [[vara-gjord-av]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A1",
+      "zh": "纸盒由纸和塑料制成。",
+      "created": "2026-06-23",
+      "sentence": "Kartongen var gjord av papper och plast.",
+      "words": [
+        "kartong"
+      ],
+      "phrases": [
+        "vara-gjord-av"
+      ],
+      "grammar": [
+        "grammar-passiv-med-s"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "vara-gjord-av"
+      ]
+    },
+    {
       "slug": "sent-klimatet-blir-varmare",
       "type": "sentence",
       "title": "Klimatet blir varmare.",
@@ -23577,6 +24129,37 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-maskinen-fyllde-kartonger-med-gradde",
+      "type": "sentence",
+      "title": "🇸🇪 Maskinen fyllde kartonger med grädde.",
+      "path": "knowledge_base/sentences/sent-maskinen-fyllde-kartonger-med-gradde.md",
+      "body": "# 🇸🇪 Maskinen fyllde kartonger med grädde.\n\n🇨🇳 机器用奶油填充纸盒。\n\n## 结构 (Structure)\n\n```\n[Maskinen] [fyllde] [kartonger] [med grädde]\n   主语       动词      宾语         材料状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `fyllde` 是 `fylla` 的过去时（grupp 1/2 混合）\n- `med` + 名词 = 用…（表示手段/内容物）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kartong]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Maskinen fyllde kartonger med grädde. 🇨🇳 机器用奶油填充纸盒。 结构 (Structure) [Maskinen] [fyllde] [kartonger] [med grädde] 主语 动词 宾语 材料状语 语法点 (Grammar) 📌 grammar preteritum — fyllde 是 fylla 的过去时（grupp 1/2 混合） med + 名词 = 用…（表",
+      "forms": [],
+      "links": [
+        "grammar-preteritum",
+        "kartong",
+        "source-2026-06-23-tetra-pak"
+      ],
+      "searchText": "🇸🇪 Maskinen fyllde kartonger med grädde. sent-maskinen-fyllde-kartonger-med-gradde knowledge_base/sentences/sent-maskinen-fyllde-kartonger-med-gradde.md ---\ntype: sentence\nsentence: \"Maskinen fyllde kartonger med grädde.\"\nzh: \"机器用奶油填充纸盒。\"\ncefr: \"A2\"\nwords: [kartong]\nphrases: []\ngrammar: [grammar-preteritum]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik, topic-mat-dryck]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Maskinen fyllde kartonger med grädde.\n\n🇨🇳 机器用奶油填充纸盒。\n\n## 结构 (Structure)\n\n```\n[Maskinen] [fyllde] [kartonger] [med grädde]\n   主语       动词      宾语         材料状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-preteritum]] — `fyllde` 是 `fylla` 的过去时（grupp 1/2 混合）\n- `med` + 名词 = 用…（表示手段/内容物）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[kartong]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "机器用奶油填充纸盒。",
+      "created": "2026-06-23",
+      "sentence": "Maskinen fyllde kartonger med grädde.",
+      "words": [
+        "kartong"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-preteritum"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik",
+        "topic-mat-dryck"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-matchen-slutade-5-1-till-nederlanderna",
       "type": "sentence",
       "title": "🇸🇪 Matchen slutade 5–1 till Nederländerna.",
@@ -24211,6 +24794,46 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "source-2026-06-09-rumsliga-relationer"
+      ]
+    },
+    {
+      "slug": "sent-mjolk-kan-forvaras-lange-utan-kylning",
+      "type": "sentence",
+      "title": "🇸🇪 Mjölk kan förvaras länge utan kylning.",
+      "path": "knowledge_base/sentences/sent-mjolk-kan-forvaras-lange-utan-kylning.md",
+      "body": "# 🇸🇪 Mjölk kan förvaras länge utan kylning.\n\n🇨🇳 牛奶可以不用冷藏而长期保存。\n\n## 结构 (Structure)\n\n```\n[Mjölk] [kan] [förvaras] [länge] [utan kylning]\n  主语    情态  被动不定式  时间状   方式/条件状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `förvaras` 是 `förvara` 的 s-被动式（infinitiv passiv）\n- 📌 [[grammar-modala-hjalpverb]] — `kan` + 被动不定式，表示\"可以被保存\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förvara]], [[kylning]]\n- 词组: [[utan-kylning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Mjölk kan förvaras länge utan kylning. 🇨🇳 牛奶可以不用冷藏而长期保存。 结构 (Structure) [Mjölk] [kan] [förvaras] [länge] [utan kylning] 主语 情态 被动不定式 时间状 方式/条件状语 语法点 (Grammar) 📌 grammar passiv med s — förvaras 是 förvara 的 s 被动式（in",
+      "forms": [],
+      "links": [
+        "förvara",
+        "grammar-modala-hjalpverb",
+        "grammar-passiv-med-s",
+        "kylning",
+        "source-2026-06-23-tetra-pak",
+        "utan-kylning"
+      ],
+      "searchText": "🇸🇪 Mjölk kan förvaras länge utan kylning. sent-mjolk-kan-forvaras-lange-utan-kylning knowledge_base/sentences/sent-mjolk-kan-forvaras-lange-utan-kylning.md ---\ntype: sentence\nsentence: \"Mjölk kan förvaras länge utan kylning.\"\nzh: \"牛奶可以不用冷藏而长期保存。\"\ncefr: \"B1\"\nwords: [förvara, kylning]\nphrases: [utan-kylning]\ngrammar: [grammar-passiv-med-s, grammar-modala-hjalpverb]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik, topic-mat-dryck]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Mjölk kan förvaras länge utan kylning.\n\n🇨🇳 牛奶可以不用冷藏而长期保存。\n\n## 结构 (Structure)\n\n```\n[Mjölk] [kan] [förvaras] [länge] [utan kylning]\n  主语    情态  被动不定式  时间状   方式/条件状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `förvaras` 是 `förvara` 的 s-被动式（infinitiv passiv）\n- 📌 [[grammar-modala-hjalpverb]] — `kan` + 被动不定式，表示\"可以被保存\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[förvara]], [[kylning]]\n- 词组: [[utan-kylning]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "B1",
+      "zh": "牛奶可以不用冷藏而长期保存。",
+      "created": "2026-06-23",
+      "sentence": "Mjölk kan förvaras länge utan kylning.",
+      "words": [
+        "förvara",
+        "kylning"
+      ],
+      "phrases": [
+        "utan-kylning"
+      ],
+      "grammar": [
+        "grammar-passiv-med-s",
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "utan-kylning"
       ]
     },
     {
@@ -28378,6 +29001,41 @@ window.KB_DATA = {
         "på-väggen",
         "source-2026-06-09-rumsliga-relationer"
       ]
+    },
+    {
+      "slug": "sent-tetra-pak-ar-ett-av-sveriges-mest-kanda",
+      "type": "sentence",
+      "title": "🇸🇪 Tetra Pak är ett av Sveriges mest kända företag i hela världen.",
+      "path": "knowledge_base/sentences/sent-tetra-pak-ar-ett-av-sveriges-mest-kanda.md",
+      "body": "# 🇸🇪 Tetra Pak är ett av Sveriges mest kända företag i hela världen.\n\n🇨🇳 Tetra Pak 是瑞典在全世界最知名的企业之一。\n\n## 结构 (Structure)\n\n```\n[Tetra Pak] [är] [ett av Sveriges mest kända företag] [i hela världen]\n   主语       动词          表语（之一的…）                  地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — `mest kända` 是最高级形式（superlativ），\"最著名的\"\n- 结构 `ett av + 最高级 + 名词` = \"…之一\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[uppfinning]], [[förpackning]]\n- 词组: [[en-av-sveriges-mest-kanda]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🇸🇪 Tetra Pak är ett av Sveriges mest kända företag i hela världen. 🇨🇳 Tetra Pak 是瑞典在全世界最知名的企业之一。 结构 (Structure) [Tetra Pak] [är] [ett av Sveriges mest kända företag] [i hela världen] 主语 动词 表语（之一的…） 地点状语 语法点 (Grammar)",
+      "forms": [],
+      "links": [
+        "en-av-sveriges-mest-kanda",
+        "förpackning",
+        "grammar-komparativ",
+        "source-2026-06-23-tetra-pak",
+        "uppfinning"
+      ],
+      "searchText": "🇸🇪 Tetra Pak är ett av Sveriges mest kända företag i hela världen. sent-tetra-pak-ar-ett-av-sveriges-mest-kanda knowledge_base/sentences/sent-tetra-pak-ar-ett-av-sveriges-mest-kanda.md ---\ntype: sentence\nsentence: \"Tetra Pak är ett av Sveriges mest kända företag i hela världen.\"\nzh: \"Tetra Pak 是瑞典在全世界最知名的企业之一。\"\ncefr: \"A2\"\nwords: [uppfinning, förpackning]\nphrases: [en-av-sveriges-mest-kanda]\ngrammar: [grammar-komparativ]\nsource: \"source-2026-06-23-tetra-pak\"\ntopics: [topic-uppfinning-och-teknik]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Tetra Pak är ett av Sveriges mest kända företag i hela världen.\n\n🇨🇳 Tetra Pak 是瑞典在全世界最知名的企业之一。\n\n## 结构 (Structure)\n\n```\n[Tetra Pak] [är] [ett av Sveriges mest kända företag] [i hela världen]\n   主语       动词          表语（之一的…）                  地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-komparativ]] — `mest kända` 是最高级形式（superlativ），\"最著名的\"\n- 结构 `ett av + 最高级 + 名词` = \"…之一\"\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[uppfinning]], [[förpackning]]\n- 词组: [[en-av-sveriges-mest-kanda]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-tetra-pak]]\n",
+      "cefr": "A2",
+      "zh": "Tetra Pak 是瑞典在全世界最知名的企业之一。",
+      "created": "2026-06-23",
+      "sentence": "Tetra Pak är ett av Sveriges mest kända företag i hela världen.",
+      "words": [
+        "uppfinning",
+        "förpackning"
+      ],
+      "phrases": [
+        "en-av-sveriges-mest-kanda"
+      ],
+      "grammar": [
+        "grammar-komparativ"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-tiden-håller-på-att-ta-slut",
@@ -36475,6 +37133,80 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-23-tetra-pak",
+      "type": "source",
+      "title": "Källa: Tetra Pak – en svensk uppfinning",
+      "path": "knowledge_base/sources/source-2026-06-23-tetra-pak.md",
+      "body": "# Källa: Tetra Pak – en svensk uppfinning\n\n**Datum:** 2026-06-23\n**Genre:** uppfinning (发明/创新)\n**CEFR:** A2–B1\n**Inbox-fil:** `inbox/uppfinning-2026-06-23-tetra-pak.md`\n\nEn SFI-stil lättläst artikel om Tetra Pak och Ruben Rausing, Sveriges världskända förpackningsinnovation.\n\n## Innehåll\n\n- 13 nya ord (uppfinning, förpackning, kartong, tetraeder, leverera, stapla, förvara, kylning, mejeri, självbetjäning, grundare, fyrkantig, pyramid)\n- 3 nya fraser (utan kylning, ha formen av, vara gjord av)\n- 15 nya meningar\n- 1 nytt grammatikpunkt (på + decennium + -talet)\n- 1 ny ämnesnot: [[topic-uppfinning-och-teknik]]\n\n## DUP-skipped (already in KB)\n\n- grädde (word)\n- för-första-gången (phrase)\n- s-passiv, som-relativsats, komparativ (grammar)",
+      "excerpt": "Källa: Tetra Pak – en svensk uppfinning Datum: 2026 06 23 Genre: uppfinning (发明/创新) CEFR: A2–B1 Inbox fil: inbox/uppfinning 2026 06 23 tetra pak.md En SFI stil lättläst artikel om Tetra Pak och Ruben Rausing, Sveriges vä",
+      "forms": [],
+      "links": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "Källa: Tetra Pak – en svensk uppfinning source-2026-06-23-tetra-pak knowledge_base/sources/source-2026-06-23-tetra-pak.md ---\nslug: source-2026-06-23-tetra-pak\nkind: import\nsource_label: \"uppfinning — Tetra Pak (lättläst)\"\ndate: 2026-06-23\ngenre: uppfinning\nwords:\n  - uppfinning\n  - förpackning\n  - kartong\n  - tetraeder\n  - leverera\n  - stapla\n  - förvara\n  - kylning\n  - mejeri\n  - självbetjäning\n  - grundare\n  - fyrkantig\n  - pyramid\nphrases:\n  - utan-kylning\n  - ha-formen-av\n  - vara-gjord-av\nsentences:\n  - sent-tetra-pak-ar-ett-av-sveriges-mest-kanda\n  - sent-han-studerade-i-new-york-pa-1920-talet\n  - sent-dar-sag-han-självbetjäningsbutiker-for-forsta\n  - sent-han-forstod-att-forpackningar-var-viktiga\n  - sent-ar-1929-startade-rausing-ett-forpackningsforetag\n  - sent-ar-1951-grundade-han-ab-tetra-pak\n  - sent-en-ingenjar-som-hette-erik-wallenberg-uppfann\n  - sent-den-hade-formen-av-en-tetraeder\n  - sent-kartongen-var-gjord-av-papper-och-plast\n  - sent-ar-1952-levererades-den-forsta-fyllningsmaskinen\n  - sent-maskinen-fyllde-kartonger-med-gradde\n  - sent-den-var-lattare-att-stapla-och-transportera\n  - sent-mjolk-kan-forvaras-lange-utan-kylning\n  - sent-idag-saljer-tetra-pak-sina-forpackningar\n  - sent-foretaget-ar-fortfarande-baserat-i-sverige\ngrammar:\n  - grammar-pa-decennium-talet\n---\n\n# Källa: Tetra Pak – en svensk uppfinning\n\n**Datum:** 2026-06-23\n**Genre:** uppfinning (发明/创新)\n**CEFR:** A2–B1\n**Inbox-fil:** `inbox/uppfinning-2026-06-23-tetra-pak.md`\n\nEn SFI-stil lättläst artikel om Tetra Pak och Ruben Rausing, Sveriges världskända förpackningsinnovation.\n\n## Innehåll\n\n- 13 nya ord (uppfinning, förpackning, kartong, tetraeder, leverera, stapla, förvara, kylning, mejeri, självbetjäning, grundare, fyrkantig, pyramid)\n- 3 nya fraser (utan kylning, ha formen av, vara gjord av)\n- 15 nya meningar\n- 1 nytt grammatikpunkt (på + decennium + -talet)\n- 1 ny ämnesnot: [[topic-uppfinning-och-teknik]]\n\n## DUP-skipped (already in KB)\n\n- grädde (word)\n- för-första-gången (phrase)\n- s-passiv, som-relativsats, komparativ (grammar)\n",
+      "date": "2026-06-23",
+      "source_label": "uppfinning — Tetra Pak (lättläst)",
+      "kind": "import",
+      "words": [
+        "uppfinning",
+        "förpackning",
+        "kartong",
+        "tetraeder",
+        "leverera",
+        "stapla",
+        "förvara",
+        "kylning",
+        "mejeri",
+        "självbetjäning",
+        "grundare",
+        "fyrkantig",
+        "pyramid"
+      ],
+      "phrases": [
+        "utan-kylning",
+        "ha-formen-av",
+        "vara-gjord-av"
+      ],
+      "sentences": [
+        "sent-tetra-pak-ar-ett-av-sveriges-mest-kanda",
+        "sent-han-studerade-i-new-york-pa-1920-talet",
+        "sent-dar-sag-han-självbetjäningsbutiker-for-forsta",
+        "sent-han-forstod-att-forpackningar-var-viktiga",
+        "sent-ar-1929-startade-rausing-ett-forpackningsforetag",
+        "sent-ar-1951-grundade-han-ab-tetra-pak",
+        "sent-en-ingenjar-som-hette-erik-wallenberg-uppfann",
+        "sent-den-hade-formen-av-en-tetraeder",
+        "sent-kartongen-var-gjord-av-papper-och-plast",
+        "sent-ar-1952-levererades-den-forsta-fyllningsmaskinen",
+        "sent-maskinen-fyllde-kartonger-med-gradde",
+        "sent-den-var-lattare-att-stapla-och-transportera",
+        "sent-mjolk-kan-forvaras-lange-utan-kylning",
+        "sent-idag-saljer-tetra-pak-sina-forpackningar",
+        "sent-foretaget-ar-fortfarande-baserat-i-sverige"
+      ],
+      "grammar": [
+        "grammar-pa-decennium-talet"
+      ],
+      "backlinks": [
+        "sent-ar-1929-startade-rausing-ett-forpackningsforetag",
+        "sent-ar-1951-grundade-han-ab-tetra-pak",
+        "sent-ar-1952-levererades-den-forsta-fyllningsmaskinen",
+        "sent-dar-sag-han-självbetjäningsbutiker-for-forsta",
+        "sent-den-hade-formen-av-en-tetraeder",
+        "sent-den-var-lattare-att-stapla-och-transportera",
+        "sent-en-ingenjar-som-hette-erik-wallenberg-uppfann",
+        "sent-foretaget-ar-fortfarande-baserat-i-sverige",
+        "sent-han-forstod-att-forpackningar-var-viktiga",
+        "sent-han-studerade-i-new-york-pa-1920-talet",
+        "sent-idag-saljer-tetra-pak-sina-forpackningar",
+        "sent-kartongen-var-gjord-av-papper-och-plast",
+        "sent-maskinen-fyllde-kartonger-med-gradde",
+        "sent-mjolk-kan-forvaras-lange-utan-kylning",
+        "sent-tetra-pak-ar-ett-av-sveriges-mest-kanda",
+        "topic-uppfinning-och-teknik"
+      ]
+    },
+    {
       "slug": "topic-arbete",
       "type": "topic",
       "title": "arbete",
@@ -36503,6 +37235,7 @@ window.KB_DATA = {
         "datacenter",
         "effektiv",
         "flexibel",
+        "grundare",
         "handla",
         "hektisk",
         "index",
@@ -36511,6 +37244,7 @@ window.KB_DATA = {
         "jobba",
         "kollega",
         "kontor",
+        "leverera",
         "lön",
         "möte",
         "motiverad",
@@ -37192,6 +37926,7 @@ window.KB_DATA = {
         "filt",
         "fjärrkontroll",
         "fönster",
+        "förvara",
         "foto",
         "framför",
         "glas",
@@ -37873,6 +38608,7 @@ window.KB_DATA = {
         "köttbulle",
         "krispig",
         "kyckling",
+        "kylning",
         "laga",
         "laktos",
         "lammkotlett",
@@ -37882,6 +38618,7 @@ window.KB_DATA = {
         "macka",
         "måltid",
         "mataffär",
+        "mejeri",
         "meny",
         "mjuk",
         "mogen",
@@ -37974,6 +38711,7 @@ window.KB_DATA = {
         "kassa",
         "kasse",
         "mataffär",
+        "självbetjäning",
         "våg",
         "väga"
       ]
@@ -39064,6 +39802,52 @@ window.KB_DATA = {
         "tunnel",
         "väg",
         "vagn"
+      ]
+    },
+    {
+      "slug": "topic-uppfinning-och-teknik",
+      "type": "topic",
+      "title": "uppfinning-och-teknik",
+      "path": "knowledge_base/topics/topic-uppfinning-och-teknik.md",
+      "body": "# 🗂️ uppfinning-och-teknik — 发明与技术\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[uppfinning]] — 发明\n- [[förpackning]] — 包装/包装容器\n- [[kartong]] — 纸盒/纸箱\n- [[tetraeder]] — 四面体\n- [[leverera]] — 交付/运送\n- [[stapla]] — 堆叠/摞起\n- [[förvara]] — 存放/保存\n- [[kylning]] — 冷藏/冷却\n- [[mejeri]] — 乳品厂/乳业\n- [[självbetjäning]] — 自助服务\n- [[grundare]] — 创始人\n- [[fyrkantig]] — 方形的/四方的\n- [[pyramid]] — 金字塔/棱锥\n\n## 备注 (Notes)\n\n- 来源：Tetra Pak 瑞典发明故事（lättläst 文章，2026-06-23）\n- 涵盖包装工业、几何描述、商业运营等词汇\n- 关键人物：Ruben Rausing（创始人），Erik Wallenberg（发明工程师）\n- 相关来源：[[source-2026-06-23-tetra-pak]]",
+      "excerpt": "🗂️ uppfinning och teknik — 发明与技术 类型: semantic field 成员 (Members) uppfinning — 发明 förpackning — 包装/包装容器 kartong — 纸盒/纸箱 tetraeder — 四面体 leverera — 交付/运送 stapla — 堆叠/摞起 förvara — 存放/保存 kylning — 冷藏/冷却 mejeri — 乳品厂/乳业 själ",
+      "forms": [],
+      "links": [
+        "förpackning",
+        "förvara",
+        "fyrkantig",
+        "grundare",
+        "kartong",
+        "kylning",
+        "leverera",
+        "mejeri",
+        "pyramid",
+        "självbetjäning",
+        "source-2026-06-23-tetra-pak",
+        "stapla",
+        "tetraeder",
+        "uppfinning"
+      ],
+      "searchText": "uppfinning-och-teknik topic-uppfinning-och-teknik knowledge_base/topics/topic-uppfinning-och-teknik.md ---\ntype: topic\nname: \"uppfinning-och-teknik\"\nkind: semantic-field\nzh: \"发明与技术\"\nmembers:\n  - uppfinning\n  - förpackning\n  - kartong\n  - tetraeder\n  - leverera\n  - stapla\n  - förvara\n  - kylning\n  - mejeri\n  - självbetjäning\n  - grundare\n  - fyrkantig\n  - pyramid\ncreated: \"2026-06-23\"\n---\n\n# 🗂️ uppfinning-och-teknik — 发明与技术\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[uppfinning]] — 发明\n- [[förpackning]] — 包装/包装容器\n- [[kartong]] — 纸盒/纸箱\n- [[tetraeder]] — 四面体\n- [[leverera]] — 交付/运送\n- [[stapla]] — 堆叠/摞起\n- [[förvara]] — 存放/保存\n- [[kylning]] — 冷藏/冷却\n- [[mejeri]] — 乳品厂/乳业\n- [[självbetjäning]] — 自助服务\n- [[grundare]] — 创始人\n- [[fyrkantig]] — 方形的/四方的\n- [[pyramid]] — 金字塔/棱锥\n\n## 备注 (Notes)\n\n- 来源：Tetra Pak 瑞典发明故事（lättläst 文章，2026-06-23）\n- 涵盖包装工业、几何描述、商业运营等词汇\n- 关键人物：Ruben Rausing（创始人），Erik Wallenberg（发明工程师）\n- 相关来源：[[source-2026-06-23-tetra-pak]]\n",
+      "name": "uppfinning-och-teknik",
+      "zh": "发明与技术",
+      "created": "2026-06-23",
+      "kind": "semantic-field",
+      "backlinks": [
+        "förpackning",
+        "förvara",
+        "fyrkantig",
+        "grundare",
+        "kartong",
+        "kylning",
+        "leverera",
+        "mejeri",
+        "pyramid",
+        "självbetjäning",
+        "source-2026-06-23-tetra-pak",
+        "stapla",
+        "tetraeder",
+        "uppfinning"
       ]
     },
     {
@@ -48143,6 +48927,49 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "förpackning",
+      "type": "word",
+      "title": "förpackning",
+      "path": "knowledge_base/words/förpackning.md",
+      "body": "# förpackning — substantiv\n\n📖 中文：包装/包装容器 · English: packaging, package\n发音提示：för-PACK-ning（重音在第二音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en förpackning |\n| singular bestämd | förpackningen |\n| plural obestämd | förpackningar |\n| plural bestämd | förpackningarna |\n\n**Deklination:** grupp 3 (en-ord, -ar plural)\n\n## 词组搭配 (Collocations)\n\n- `en förpackning mjölk` — 一盒牛奶\n- `förpackningsföretag` — 包装公司\n- `öppna/stänga en förpackning` — 打开/关闭包装\n- `miljövänlig förpackning` — 环保包装\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han förstod att förpackningar var viktiga för framtiden. — 🇨🇳 他明白包装对未来非常重要。\n- 🇸🇪 Tetra Pak säljer sina förpackningar i mer än 160 länder. — 🇨🇳 Tetra Pak 在160多个国家销售其包装产品。\n- 🇸🇪 En bra förpackning skyddar maten och gör den lätt att transportera. — 🇨🇳 好的包装能保护食物并使其便于运输。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[packa]] (打包), förpacka (包装)\n- 同义词: [[kartong]]\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- 既指包装材料本身，也指包装好的容器（如一盒牛奶）\n- 复合词构成能力强：`förpacknings-` 前缀 + 名词",
+      "excerpt": "förpackning — substantiv 📖 中文：包装/包装容器 · English: packaging, package 发音提示：för PACK ning（重音在第二音节） 语法变形 (Forms) form Swedish singular obestämd en förpackning singular bestämd förpackningen plural obestämd förpackningar plu",
+      "forms": [
+        "förpackning",
+        "förpackningen",
+        "förpackningar",
+        "förpackningarna"
+      ],
+      "links": [
+        "kartong",
+        "packa",
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "förpackning förpackning knowledge_base/words/förpackning.md ---\ntype: word\nlemma: \"förpackning\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"包装/包装容器\"\nen: \"packaging, package\"\nsynonyms: [kartong]\nantonyms: []\nfamily: [packa, förpacka]\ntopics: [topic-uppfinning-och-teknik]\nsentences:\n  - sent-han-forstod-att-forpackningar-var-viktiga\n  - sent-ar-1929-startade-rausing-ett-forpackningsforetag\n  - sent-idag-saljer-tetra-pak-sina-forpackningar\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förpackning — substantiv\n\n📖 中文：包装/包装容器 · English: packaging, package\n发音提示：för-PACK-ning（重音在第二音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en förpackning |\n| singular bestämd | förpackningen |\n| plural obestämd | förpackningar |\n| plural bestämd | förpackningarna |\n\n**Deklination:** grupp 3 (en-ord, -ar plural)\n\n## 词组搭配 (Collocations)\n\n- `en förpackning mjölk` — 一盒牛奶\n- `förpackningsföretag` — 包装公司\n- `öppna/stänga en förpackning` — 打开/关闭包装\n- `miljövänlig förpackning` — 环保包装\n\n## 例句 (Sentences)\n\n- 🇸🇪 Han förstod att förpackningar var viktiga för framtiden. — 🇨🇳 他明白包装对未来非常重要。\n- 🇸🇪 Tetra Pak säljer sina förpackningar i mer än 160 länder. — 🇨🇳 Tetra Pak 在160多个国家销售其包装产品。\n- 🇸🇪 En bra förpackning skyddar maten och gör den lätt att transportera. — 🇨🇳 好的包装能保护食物并使其便于运输。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[packa]] (打包), förpacka (包装)\n- 同义词: [[kartong]]\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- 既指包装材料本身，也指包装好的容器（如一盒牛奶）\n- 复合词构成能力强：`förpacknings-` 前缀 + 名词\n",
+      "lemma": "förpackning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "包装/包装容器",
+      "en": "packaging, package",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-han-forstod-att-forpackningar-var-viktiga",
+        "sent-ar-1929-startade-rausing-ett-forpackningsforetag",
+        "sent-idag-saljer-tetra-pak-sina-forpackningar"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "kartong",
+        "sent-ar-1929-startade-rausing-ett-forpackningsforetag",
+        "sent-han-forstod-att-forpackningar-var-viktiga",
+        "sent-idag-saljer-tetra-pak-sina-forpackningar",
+        "sent-tetra-pak-ar-ett-av-sveriges-mest-kanda",
+        "topic-uppfinning-och-teknik"
+      ]
+    },
+    {
       "slug": "förrätt",
       "type": "word",
       "title": "förrätt",
@@ -48358,6 +49185,7 @@ window.KB_DATA = {
         "topic-tid-och-tidsuttryck"
       ],
       "backlinks": [
+        "sent-foretaget-ar-fortfarande-baserat-i-sverige",
         "sent-klockan-ar-nastan-midnatt-men-himlen",
         "sent-trots-forlusten-kan-sverige-ga-vidare",
         "source-2026-06-09-en-handelse-i-tidsordning",
@@ -48467,6 +49295,45 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "source-2026-06-02-astrid-lindgren"
+      ]
+    },
+    {
+      "slug": "förvara",
+      "type": "word",
+      "title": "förvara",
+      "path": "knowledge_base/words/förvara.md",
+      "body": "# förvara — verb\n\n📖 中文：存放/保存 · English: to store, to keep\n发音提示：för-VA-ra（重音在第二音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | förvara |\n| presens | förvarar |\n| preteritum | förvarade |\n| supinum | förvaras |\n| imperativ | förvara! |\n\n**Verbgrupp:** 1 (presens +r, preteritum -ade, supinum -at)\n\n## 词组搭配 (Collocations)\n\n- `förvara mjölk` — 存放牛奶\n- `förvara utan kylning` — 不用冷藏保存\n- `förvara på ett svalt ställe` — 存放在凉爽的地方\n- `säkert förvarad` — 安全存放\n\n## 例句 (Sentences)\n\n- 🇸🇪 Mjölk kan förvaras länge utan kylning i en Tetra Pak-kartong. — 🇨🇳 牛奶可以在 Tetra Pak 纸盒中不用冷藏而长期保存。\n- 🇸🇪 Hur ska man förvara färska jordgubbar? — 🇨🇳 新鲜草莓应该怎么存放？\n- 🇸🇪 Medicinen ska förvaras i kylskåpet. — 🇨🇳 药物应该存放在冰箱里。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: förvaring (en, 存储/存放), förvar (ett, 拘留所/存放处)\n- 同义词: [[spara]] (保存/存钱), lagra (储存)\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 强调物品处于\"被存放\"的状态，比 `spara` 更正式\n- 被动式 `förvaras` 常见于包装说明和使用说明\n- 不同于 `spara`（节省/保存文件），`förvara` 专指物理性存放物品",
+      "excerpt": "förvara — verb 📖 中文：存放/保存 · English: to store, to keep 发音提示：för VA ra（重音在第二音节） 语法变形 (Forms) form Swedish infinitiv förvara presens förvarar preteritum förvarade supinum förvaras imperativ förvara! Verbgrupp: 1 (presens ",
+      "forms": [
+        "förvara",
+        "förvarar",
+        "förvarade",
+        "förvaras",
+        "förvara!"
+      ],
+      "links": [
+        "spara",
+        "topic-hemmet",
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "förvara förvara knowledge_base/words/förvara.md ---\ntype: word\nlemma: \"förvara\"\nordklass: \"verb\"\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"存放/保存\"\nen: \"to store, to keep\"\nsynonyms: [spara, lagra]\nantonyms: []\nfamily: [förvaring, förvar]\ntopics: [topic-uppfinning-och-teknik, topic-hemmet]\nsentences:\n  - sent-mjolk-kan-forvaras-lange-utan-kylning\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# förvara — verb\n\n📖 中文：存放/保存 · English: to store, to keep\n发音提示：för-VA-ra（重音在第二音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | förvara |\n| presens | förvarar |\n| preteritum | förvarade |\n| supinum | förvaras |\n| imperativ | förvara! |\n\n**Verbgrupp:** 1 (presens +r, preteritum -ade, supinum -at)\n\n## 词组搭配 (Collocations)\n\n- `förvara mjölk` — 存放牛奶\n- `förvara utan kylning` — 不用冷藏保存\n- `förvara på ett svalt ställe` — 存放在凉爽的地方\n- `säkert förvarad` — 安全存放\n\n## 例句 (Sentences)\n\n- 🇸🇪 Mjölk kan förvaras länge utan kylning i en Tetra Pak-kartong. — 🇨🇳 牛奶可以在 Tetra Pak 纸盒中不用冷藏而长期保存。\n- 🇸🇪 Hur ska man förvara färska jordgubbar? — 🇨🇳 新鲜草莓应该怎么存放？\n- 🇸🇪 Medicinen ska förvaras i kylskåpet. — 🇨🇳 药物应该存放在冰箱里。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: förvaring (en, 存储/存放), förvar (ett, 拘留所/存放处)\n- 同义词: [[spara]] (保存/存钱), lagra (储存)\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 强调物品处于\"被存放\"的状态，比 `spara` 更正式\n- 被动式 `förvaras` 常见于包装说明和使用说明\n- 不同于 `spara`（节省/保存文件），`förvara` 专指物理性存放物品\n",
+      "lemma": "förvara",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "存放/保存",
+      "en": "to store, to keep",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-mjolk-kan-forvaras-lange-utan-kylning"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "sent-mjolk-kan-forvaras-lange-utan-kylning",
+        "topic-uppfinning-och-teknik"
       ]
     },
     {
@@ -48664,6 +49531,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "framför",
+        "sent-han-forstod-att-forpackningar-var-viktiga",
         "sent-hon-fortsätter-att-kämpa-för-klimatet",
         "sent-kanske-drommar-hon-om-sin-framtida-karlek",
         "source-2026-06-22-en-dag-pa-midsommar",
@@ -49009,6 +49877,41 @@ window.KB_DATA = {
         "sent-annars-funkar-söndag-också",
         "source-2026-06-20-sms-till-en-van",
         "topic-social-kontakt"
+      ]
+    },
+    {
+      "slug": "fyrkantig",
+      "type": "word",
+      "title": "fyrkantig",
+      "path": "knowledge_base/words/fyrkantig.md",
+      "body": "# fyrkantig — adjektiv\n\n📖 中文：方形的/四方的 · English: square, rectangular\n发音提示：FYR-kan-tig（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| positiv utrum sing. | fyrkantig |\n| positiv neutrum sing. | fyrkantigt |\n| positiv plural / bestämd | fyrkantiga |\n| komparativ | mer fyrkantig |\n| superlativ | mest fyrkantig |\n\n**Adjektiv:** regelbunden böjning med -t / -a\n\n## 词组搭配 (Collocations)\n\n- `en fyrkantig kartong` — 一个方形纸盒\n- `fyrkantig form` — 方形形状\n- `bli fyrkantig` — 变成方形\n- `fyrkantig förpackning` — 方形包装\n\n## 例句 (Sentences)\n\n- 🇸🇪 Den nya förpackningen var fyrkantig och lättare att stapla. — 🇨🇳 新包装是方形的，更容易堆叠。\n- 🇸🇪 Tetra Pak ändrade sin form från tetraeder till fyrkantig kartong. — 🇨🇳 Tetra Pak 把形状从四面体改成了方形纸盒。\n- 🇸🇪 Bordet är fyrkantigt och rymmer fyra personer. — 🇨🇳 桌子是方形的，可以坐四个人。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: fyrkant (en, 正方形/矩形)\n- 同义词: [[rund]] är antonym; rektangulär (矩形的), kvadratisk (正方形的)\n- 反义词: [[rund]] (圆形的)\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- `fyrkantig` 泛指四方形（既包括正方形也包括矩形）\n- `kvadratisk`（正方形）更精确，但口语中 `fyrkantig` 更常用\n- 比较级一般用 `mer/mest` 而非加后缀",
+      "excerpt": "fyrkantig — adjektiv 📖 中文：方形的/四方的 · English: square, rectangular 发音提示：FYR kan tig（重音在第一音节） 语法变形 (Forms) form Swedish positiv utrum sing. fyrkantig positiv neutrum sing. fyrkantigt positiv plural / bestämd fyrkantiga kom",
+      "forms": [
+        "fyrkantig",
+        "fyrkantigt",
+        "fyrkantiga",
+        "mer fyrkantig",
+        "mest fyrkantig"
+      ],
+      "links": [
+        "rund",
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "fyrkantig fyrkantig knowledge_base/words/fyrkantig.md ---\ntype: word\nlemma: \"fyrkantig\"\nordklass: \"adjektiv\"\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A2\"\nzh: \"方形的/四方的\"\nen: \"square, rectangular\"\nsynonyms: [rektangulär, kvadratisk]\nantonyms: [rund]\nfamily: [fyrkant]\ntopics: [topic-uppfinning-och-teknik]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# fyrkantig — adjektiv\n\n📖 中文：方形的/四方的 · English: square, rectangular\n发音提示：FYR-kan-tig（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| positiv utrum sing. | fyrkantig |\n| positiv neutrum sing. | fyrkantigt |\n| positiv plural / bestämd | fyrkantiga |\n| komparativ | mer fyrkantig |\n| superlativ | mest fyrkantig |\n\n**Adjektiv:** regelbunden böjning med -t / -a\n\n## 词组搭配 (Collocations)\n\n- `en fyrkantig kartong` — 一个方形纸盒\n- `fyrkantig form` — 方形形状\n- `bli fyrkantig` — 变成方形\n- `fyrkantig förpackning` — 方形包装\n\n## 例句 (Sentences)\n\n- 🇸🇪 Den nya förpackningen var fyrkantig och lättare att stapla. — 🇨🇳 新包装是方形的，更容易堆叠。\n- 🇸🇪 Tetra Pak ändrade sin form från tetraeder till fyrkantig kartong. — 🇨🇳 Tetra Pak 把形状从四面体改成了方形纸盒。\n- 🇸🇪 Bordet är fyrkantigt och rymmer fyra personer. — 🇨🇳 桌子是方形的，可以坐四个人。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: fyrkant (en, 正方形/矩形)\n- 同义词: [[rund]] är antonym; rektangulär (矩形的), kvadratisk (正方形的)\n- 反义词: [[rund]] (圆形的)\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- `fyrkantig` 泛指四方形（既包括正方形也包括矩形）\n- `kvadratisk`（正方形）更精确，但口语中 `fyrkantig` 更常用\n- 比较级一般用 `mer/mest` 而非加后缀\n",
+      "lemma": "fyrkantig",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "方形的/四方的",
+      "en": "square, rectangular",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "rund",
+        "topic-uppfinning-och-teknik"
       ]
     },
     {
@@ -50576,6 +51479,44 @@ window.KB_DATA = {
         "sent-ja-vi-har-en-fläskfilé",
         "svamp",
         "topic-mat-dryck"
+      ]
+    },
+    {
+      "slug": "grundare",
+      "type": "word",
+      "title": "grundare",
+      "path": "knowledge_base/words/grundare.md",
+      "body": "# grundare — substantiv\n\n📖 中文：创始人 · English: founder\n发音提示：GRUND-a-re（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en grundare |\n| singular bestämd | grundaren |\n| plural obestämd | grundare |\n| plural bestämd | grundarna |\n\n**Deklination:** grupp 5 (en-ord, oförändrad i plural)\n\n## 词组搭配 (Collocations)\n\n- `grundare av ett företag` — 公司的创始人\n- `medgrundare` — 联合创始人\n- `grundaren av Tetra Pak` — Tetra Pak 的创始人\n- `vara grundare` — 是创始人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ruben Rausing var grundaren av Tetra Pak. — 🇨🇳 Ruben Rausing 是 Tetra Pak 的创始人。\n- 🇸🇪 Apple hade tre grundare: Steve Jobs, Steve Wozniak och Ronald Wayne. — 🇨🇳 苹果公司有三位创始人：乔布斯、沃兹尼亚克和韦恩。\n- 🇸🇪 Grundaren av företaget dog rik och berömd. — 🇨🇳 公司的创始人去世时既富有又著名。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[grunda]] (创立/建立), [[grund]] (基础/原因), grundläggare (奠基人)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- 来自动词 `grunda`（创立）+ -are 后缀（表示做某事的人）\n- `grundläggare` 也表示创始人，但更强调\"奠基\"意味，语域更正式",
+      "excerpt": "grundare — substantiv 📖 中文：创始人 · English: founder 发音提示：GRUND a re（重音在第一音节） 语法变形 (Forms) form Swedish singular obestämd en grundare singular bestämd grundaren plural obestämd grundare plural bestämd grundarna Deklination",
+      "forms": [
+        "grundare",
+        "grundaren",
+        "grundarna"
+      ],
+      "links": [
+        "grund",
+        "grunda",
+        "topic-arbete",
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "grundare grundare knowledge_base/words/grundare.md ---\ntype: word\nlemma: \"grundare\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"创始人\"\nen: \"founder\"\nsynonyms: []\nantonyms: []\nfamily: [grunda, grund, grundläggare]\ntopics: [topic-uppfinning-och-teknik, topic-arbete]\nsentences:\n  - sent-ar-1951-grundade-han-ab-tetra-pak\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# grundare — substantiv\n\n📖 中文：创始人 · English: founder\n发音提示：GRUND-a-re（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en grundare |\n| singular bestämd | grundaren |\n| plural obestämd | grundare |\n| plural bestämd | grundarna |\n\n**Deklination:** grupp 5 (en-ord, oförändrad i plural)\n\n## 词组搭配 (Collocations)\n\n- `grundare av ett företag` — 公司的创始人\n- `medgrundare` — 联合创始人\n- `grundaren av Tetra Pak` — Tetra Pak 的创始人\n- `vara grundare` — 是创始人\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ruben Rausing var grundaren av Tetra Pak. — 🇨🇳 Ruben Rausing 是 Tetra Pak 的创始人。\n- 🇸🇪 Apple hade tre grundare: Steve Jobs, Steve Wozniak och Ronald Wayne. — 🇨🇳 苹果公司有三位创始人：乔布斯、沃兹尼亚克和韦恩。\n- 🇸🇪 Grundaren av företaget dog rik och berömd. — 🇨🇳 公司的创始人去世时既富有又著名。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[grunda]] (创立/建立), [[grund]] (基础/原因), grundläggare (奠基人)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- 来自动词 `grunda`（创立）+ -are 后缀（表示做某事的人）\n- `grundläggare` 也表示创始人，但更强调\"奠基\"意味，语域更正式\n",
+      "lemma": "grundare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "创始人",
+      "en": "founder",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-ar-1951-grundade-han-ab-tetra-pak"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik",
+        "topic-arbete"
+      ],
+      "backlinks": [
+        "sent-ar-1951-grundade-han-ab-tetra-pak",
+        "topic-uppfinning-och-teknik"
       ]
     },
     {
@@ -52814,7 +53755,9 @@ window.KB_DATA = {
       "topics": [
         "topic-yrken"
       ],
-      "backlinks": []
+      "backlinks": [
+        "sent-en-ingenjar-som-hette-erik-wallenberg-uppfann"
+      ]
     },
     {
       "slug": "ingenting",
@@ -54153,6 +55096,47 @@ window.KB_DATA = {
         "sent-men-om-du-vill-kan-du-ta-en-bild",
         "source-2026-06-18-fraga-efter-vagen",
         "topic-riktningar"
+      ]
+    },
+    {
+      "slug": "kartong",
+      "type": "word",
+      "title": "kartong",
+      "path": "knowledge_base/words/kartong.md",
+      "body": "# kartong — substantiv\n\n📖 中文：纸盒/纸箱 · English: carton, cardboard box\n发音提示：kar-TONG（重音在第二音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en kartong |\n| singular bestämd | kartongen |\n| plural obestämd | kartonger |\n| plural bestämd | kartongerna |\n\n**Deklination:** grupp 3 (en-ord, -er plural)\n\n## 词组搭配 (Collocations)\n\n- `en mjölkkartong` — 一盒牛奶（纸盒）\n- `kartong av papper och plast` — 由纸和塑料制成的纸盒\n- `fylla kartonger` — 填充纸盒\n- `byta till kartong` — 换成纸盒\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kartongen var gjord av papper och plast. — 🇨🇳 纸盒由纸和塑料制成。\n- 🇸🇪 Maskinen fyllde kartonger med grädde varje dag. — 🇨🇳 机器每天用奶油填充纸盒。\n- 🇸🇪 En kartong mjölk kostar ungefär tio kronor i Sverige. — 🇨🇳 一盒牛奶在瑞典大约要10克朗。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[förpackning]]\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- `kartong` 既指小纸盒（如牛奶盒）也指大纸箱，由语境决定\n- Tetra Pak 最初的形状是四面体形纸盒，后改为方形",
+      "excerpt": "kartong — substantiv 📖 中文：纸盒/纸箱 · English: carton, cardboard box 发音提示：kar TONG（重音在第二音节） 语法变形 (Forms) form Swedish singular obestämd en kartong singular bestämd kartongen plural obestämd kartonger plural bestämd kartonge",
+      "forms": [
+        "kartong",
+        "kartongen",
+        "kartonger",
+        "kartongerna"
+      ],
+      "links": [
+        "förpackning",
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "kartong kartong knowledge_base/words/kartong.md ---\ntype: word\nlemma: \"kartong\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"纸盒/纸箱\"\nen: \"carton, cardboard box\"\nsynonyms: [förpackning]\nantonyms: []\nfamily: []\ntopics: [topic-uppfinning-och-teknik]\nsentences:\n  - sent-en-ingenjar-som-hette-erik-wallenberg-uppfann\n  - sent-kartongen-var-gjord-av-papper-och-plast\n  - sent-maskinen-fyllde-kartonger-med-gradde\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kartong — substantiv\n\n📖 中文：纸盒/纸箱 · English: carton, cardboard box\n发音提示：kar-TONG（重音在第二音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en kartong |\n| singular bestämd | kartongen |\n| plural obestämd | kartonger |\n| plural bestämd | kartongerna |\n\n**Deklination:** grupp 3 (en-ord, -er plural)\n\n## 词组搭配 (Collocations)\n\n- `en mjölkkartong` — 一盒牛奶（纸盒）\n- `kartong av papper och plast` — 由纸和塑料制成的纸盒\n- `fylla kartonger` — 填充纸盒\n- `byta till kartong` — 换成纸盒\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kartongen var gjord av papper och plast. — 🇨🇳 纸盒由纸和塑料制成。\n- 🇸🇪 Maskinen fyllde kartonger med grädde varje dag. — 🇨🇳 机器每天用奶油填充纸盒。\n- 🇸🇪 En kartong mjölk kostar ungefär tio kronor i Sverige. — 🇨🇳 一盒牛奶在瑞典大约要10克朗。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[förpackning]]\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- `kartong` 既指小纸盒（如牛奶盒）也指大纸箱，由语境决定\n- Tetra Pak 最初的形状是四面体形纸盒，后改为方形\n",
+      "lemma": "kartong",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "纸盒/纸箱",
+      "en": "carton, cardboard box",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-en-ingenjar-som-hette-erik-wallenberg-uppfann",
+        "sent-kartongen-var-gjord-av-papper-och-plast",
+        "sent-maskinen-fyllde-kartonger-med-gradde"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "förpackning",
+        "sent-en-ingenjar-som-hette-erik-wallenberg-uppfann",
+        "sent-kartongen-var-gjord-av-papper-och-plast",
+        "sent-maskinen-fyllde-kartonger-med-gradde",
+        "topic-uppfinning-och-teknik"
       ]
     },
     {
@@ -56762,6 +57746,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "kylning",
+      "type": "word",
+      "title": "kylning",
+      "path": "knowledge_base/words/kylning.md",
+      "body": "# kylning — substantiv\n\n📖 中文：冷藏/冷却 · English: cooling, refrigeration\n发音提示：KYL-ning（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en kylning |\n| singular bestämd | kylningen |\n| plural obestämd | kylningar |\n| plural bestämd | kylningarna |\n\n**Deklination:** grupp 3 (en-ord, -ar plural)\n\n## 词组搭配 (Collocations)\n\n- `utan kylning` — 不需冷藏\n- `behöva kylning` — 需要冷藏\n- `kylning av mat` — 食物的冷却\n- `lagra utan kylning` — 不用冷藏储存\n\n## 例句 (Sentences)\n\n- 🇸🇪 Mjölk kan förvaras länge utan kylning. — 🇨🇳 牛奶可以不用冷藏而长期保存。\n- 🇸🇪 Kylningen av maten är viktig för att undvika bakterier. — 🇨🇳 食物的冷藏对于避免细菌非常重要。\n- 🇸🇪 Utan kylning håller sig maten kortare tid. — 🇨🇳 没有冷藏，食物保质期更短。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kyla]] (冷/寒冷), kylskåp (冰箱), kyl (冷室)\n- 同义词: —\n- 反义词: uppvärmning (加热)\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 动作名词：来自动词 `kyla`（冷却）+ -ning 后缀\n- `utan kylning` 是食品包装中的常见表达（常温保存）\n- 区分 `kylning`（过程）和 `kylskåp`（冰箱，存放的容器）",
+      "excerpt": "kylning — substantiv 📖 中文：冷藏/冷却 · English: cooling, refrigeration 发音提示：KYL ning（重音在第一音节） 语法变形 (Forms) form Swedish singular obestämd en kylning singular bestämd kylningen plural obestämd kylningar plural bestämd kylning",
+      "forms": [
+        "kylning",
+        "kylningen",
+        "kylningar",
+        "kylningarna"
+      ],
+      "links": [
+        "kyla",
+        "topic-mat-dryck",
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "kylning kylning knowledge_base/words/kylning.md ---\ntype: word\nlemma: \"kylning\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"冷藏/冷却\"\nen: \"cooling, refrigeration\"\nsynonyms: []\nantonyms: []\nfamily: [kyla, kylskåp, kyl]\ntopics: [topic-uppfinning-och-teknik, topic-mat-dryck]\nsentences:\n  - sent-mjolk-kan-forvaras-lange-utan-kylning\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kylning — substantiv\n\n📖 中文：冷藏/冷却 · English: cooling, refrigeration\n发音提示：KYL-ning（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en kylning |\n| singular bestämd | kylningen |\n| plural obestämd | kylningar |\n| plural bestämd | kylningarna |\n\n**Deklination:** grupp 3 (en-ord, -ar plural)\n\n## 词组搭配 (Collocations)\n\n- `utan kylning` — 不需冷藏\n- `behöva kylning` — 需要冷藏\n- `kylning av mat` — 食物的冷却\n- `lagra utan kylning` — 不用冷藏储存\n\n## 例句 (Sentences)\n\n- 🇸🇪 Mjölk kan förvaras länge utan kylning. — 🇨🇳 牛奶可以不用冷藏而长期保存。\n- 🇸🇪 Kylningen av maten är viktig för att undvika bakterier. — 🇨🇳 食物的冷藏对于避免细菌非常重要。\n- 🇸🇪 Utan kylning håller sig maten kortare tid. — 🇨🇳 没有冷藏，食物保质期更短。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kyla]] (冷/寒冷), kylskåp (冰箱), kyl (冷室)\n- 同义词: —\n- 反义词: uppvärmning (加热)\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 动作名词：来自动词 `kyla`（冷却）+ -ning 后缀\n- `utan kylning` 是食品包装中的常见表达（常温保存）\n- 区分 `kylning`（过程）和 `kylskåp`（冰箱，存放的容器）\n",
+      "lemma": "kylning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "冷藏/冷却",
+      "en": "cooling, refrigeration",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-mjolk-kan-forvaras-lange-utan-kylning"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-mjolk-kan-forvaras-lange-utan-kylning",
+        "topic-uppfinning-och-teknik",
+        "utan-kylning"
+      ]
+    },
+    {
       "slug": "låda",
       "type": "word",
       "title": "låda",
@@ -58199,6 +59222,46 @@ window.KB_DATA = {
         "bo",
         "leva-kvar",
         "livlig"
+      ]
+    },
+    {
+      "slug": "leverera",
+      "type": "word",
+      "title": "leverera",
+      "path": "knowledge_base/words/leverera.md",
+      "body": "# leverera — verb\n\n📖 中文：交付/运送 · English: to deliver\n发音提示：le-ve-RE-ra（重音在第三音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | leverera |\n| presens | levererar |\n| preteritum | levererade |\n| supinum | levererat |\n| imperativ | leverera! |\n\n**Verbgrupp:** 1 (presens +r, preteritum -ade, supinum -at)\n\n## 词组搭配 (Collocations)\n\n- `leverera en maskin` — 交付一台机器\n- `leverera till ett mejeri` — 向乳品厂交付\n- `leverera i tid` — 按时交付\n- `leverera varor` — 运送货物\n\n## 例句 (Sentences)\n\n- 🇸🇪 År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund. — 🇨🇳 1952年，第一台灌装机被交付给隆德附近的一家乳品厂。\n- 🇸🇪 Företaget levererar förpackningar till hela världen. — 🇨🇳 公司向全世界交付包装产品。\n- 🇸🇪 De levererade ordern i tid trots problemen. — 🇨🇳 尽管遇到问题，他们还是按时完成了交付。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: leverans (en, 交付/运货), leverantör (en, 供应商)\n- 同义词: [[skicka]] (寄送), [[transportera]]\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- 多用于商业/工业语境，指有组织地将货物交付给客户\n- 被动式 `levererades`（第三人称单数过去被动）在叙述中常见\n- 法语借词 livrer → 瑞典语 leverera",
+      "excerpt": "leverera — verb 📖 中文：交付/运送 · English: to deliver 发音提示：le ve RE ra（重音在第三音节） 语法变形 (Forms) form Swedish infinitiv leverera presens levererar preteritum levererade supinum levererat imperativ leverera! Verbgrupp: 1 (presens",
+      "forms": [
+        "leverera",
+        "levererar",
+        "levererade",
+        "levererat",
+        "leverera!"
+      ],
+      "links": [
+        "skicka",
+        "topic-arbete",
+        "topic-uppfinning-och-teknik",
+        "transportera"
+      ],
+      "searchText": "leverera leverera knowledge_base/words/leverera.md ---\ntype: word\nlemma: \"leverera\"\nordklass: \"verb\"\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"交付/运送\"\nen: \"to deliver\"\nsynonyms: [skicka, transportera]\nantonyms: []\nfamily: [leverans, leverantör]\ntopics: [topic-uppfinning-och-teknik, topic-arbete]\nsentences:\n  - sent-ar-1952-levererades-den-forsta-fyllningsmaskinen\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# leverera — verb\n\n📖 中文：交付/运送 · English: to deliver\n发音提示：le-ve-RE-ra（重音在第三音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | leverera |\n| presens | levererar |\n| preteritum | levererade |\n| supinum | levererat |\n| imperativ | leverera! |\n\n**Verbgrupp:** 1 (presens +r, preteritum -ade, supinum -at)\n\n## 词组搭配 (Collocations)\n\n- `leverera en maskin` — 交付一台机器\n- `leverera till ett mejeri` — 向乳品厂交付\n- `leverera i tid` — 按时交付\n- `leverera varor` — 运送货物\n\n## 例句 (Sentences)\n\n- 🇸🇪 År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund. — 🇨🇳 1952年，第一台灌装机被交付给隆德附近的一家乳品厂。\n- 🇸🇪 Företaget levererar förpackningar till hela världen. — 🇨🇳 公司向全世界交付包装产品。\n- 🇸🇪 De levererade ordern i tid trots problemen. — 🇨🇳 尽管遇到问题，他们还是按时完成了交付。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: leverans (en, 交付/运货), leverantör (en, 供应商)\n- 同义词: [[skicka]] (寄送), [[transportera]]\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- 多用于商业/工业语境，指有组织地将货物交付给客户\n- 被动式 `levererades`（第三人称单数过去被动）在叙述中常见\n- 法语借词 livrer → 瑞典语 leverera\n",
+      "lemma": "leverera",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "交付/运送",
+      "en": "to deliver",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-ar-1952-levererades-den-forsta-fyllningsmaskinen"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik",
+        "topic-arbete"
+      ],
+      "backlinks": [
+        "sent-ar-1952-levererades-den-forsta-fyllningsmaskinen",
+        "topic-uppfinning-och-teknik"
       ]
     },
     {
@@ -59724,6 +60787,43 @@ window.KB_DATA = {
         "source-2026-06-04-nyheter-vecka-22",
         "topic-nyheter-vecka22",
         "topic-samhälle-och-politik"
+      ]
+    },
+    {
+      "slug": "mejeri",
+      "type": "word",
+      "title": "mejeri",
+      "path": "knowledge_base/words/mejeri.md",
+      "body": "# mejeri — substantiv\n\n📖 中文：乳品厂/乳业 · English: dairy, dairy plant\n发音提示：me-je-RI（重音在最后一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | ett mejeri |\n| singular bestämd | mejeriet |\n| plural obestämd | mejerier |\n| plural bestämd | mejerierna |\n\n**Deklination:** grupp 5 (ett-ord, -er plural)\n\n## 词组搭配 (Collocations)\n\n- `ett mejeri nära Lund` — 隆德附近的一家乳品厂\n- `leverera till ett mejeri` — 向乳品厂交付\n- `mejeriprodukt` — 乳制品\n- `mejeribranschen` — 乳制品行业\n\n## 例句 (Sentences)\n\n- 🇸🇪 År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund. — 🇨🇳 1952年，第一台灌装机被交付给隆德附近的一家乳品厂。\n- 🇸🇪 Sverige har många mejerier som gör ost och smör. — 🇨🇳 瑞典有许多生产奶酪和黄油的乳品厂。\n- 🇸🇪 Mjölken kommer direkt från mejeriet i byn. — 🇨🇳 牛奶直接来自村里的乳品厂。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mejeriprodukt (乳制品), mejeribranschen (乳制品行业)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 法语借词 laiterie（乳品场）的对应词\n- 常见复合词：`mejeriprodukter`（乳制品）、`mejerivaror`（乳制品商品）",
+      "excerpt": "mejeri — substantiv 📖 中文：乳品厂/乳业 · English: dairy, dairy plant 发音提示：me je RI（重音在最后一音节） 语法变形 (Forms) form Swedish singular obestämd ett mejeri singular bestämd mejeriet plural obestämd mejerier plural bestämd mejerierna D",
+      "forms": [
+        "mejeri",
+        "mejeriet",
+        "mejerier",
+        "mejerierna"
+      ],
+      "links": [
+        "topic-mat-dryck",
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "mejeri mejeri knowledge_base/words/mejeri.md ---\ntype: word\nlemma: \"mejeri\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"B1\"\nzh: \"乳品厂/乳业\"\nen: \"dairy, dairy plant\"\nsynonyms: []\nantonyms: []\nfamily: [mejeriprodukt, mejeribranschen]\ntopics: [topic-uppfinning-och-teknik, topic-mat-dryck]\nsentences:\n  - sent-ar-1952-levererades-den-forsta-fyllningsmaskinen\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# mejeri — substantiv\n\n📖 中文：乳品厂/乳业 · English: dairy, dairy plant\n发音提示：me-je-RI（重音在最后一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | ett mejeri |\n| singular bestämd | mejeriet |\n| plural obestämd | mejerier |\n| plural bestämd | mejerierna |\n\n**Deklination:** grupp 5 (ett-ord, -er plural)\n\n## 词组搭配 (Collocations)\n\n- `ett mejeri nära Lund` — 隆德附近的一家乳品厂\n- `leverera till ett mejeri` — 向乳品厂交付\n- `mejeriprodukt` — 乳制品\n- `mejeribranschen` — 乳制品行业\n\n## 例句 (Sentences)\n\n- 🇸🇪 År 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund. — 🇨🇳 1952年，第一台灌装机被交付给隆德附近的一家乳品厂。\n- 🇸🇪 Sverige har många mejerier som gör ost och smör. — 🇨🇳 瑞典有许多生产奶酪和黄油的乳品厂。\n- 🇸🇪 Mjölken kommer direkt från mejeriet i byn. — 🇨🇳 牛奶直接来自村里的乳品厂。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: mejeriprodukt (乳制品), mejeribranschen (乳制品行业)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 法语借词 laiterie（乳品场）的对应词\n- 常见复合词：`mejeriprodukter`（乳制品）、`mejerivaror`（乳制品商品）\n",
+      "lemma": "mejeri",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "乳品厂/乳业",
+      "en": "dairy, dairy plant",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-ar-1952-levererades-den-forsta-fyllningsmaskinen"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "sent-ar-1952-levererades-den-forsta-fyllningsmaskinen",
+        "topic-uppfinning-och-teknik"
       ]
     },
     {
@@ -64770,6 +65870,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "pyramid",
+      "type": "word",
+      "title": "pyramid",
+      "path": "knowledge_base/words/pyramid.md",
+      "body": "# pyramid — substantiv\n\n📖 中文：金字塔/棱锥 · English: pyramid\n发音提示：py-ra-MID（重音在最后一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en pyramid |\n| singular bestämd | pyramiden |\n| plural obestämd | pyramider |\n| plural bestämd | pyramiderna |\n\n**Deklination:** grupp 3 (en-ord, -er plural)\n\n## 词组搭配 (Collocations)\n\n- `ungefär som en pyramid` — 大概像一个金字塔\n- `pyramiderna i Egypten` — 埃及的金字塔\n- `pyramidform` — 金字塔形状\n- `livsmedels-pyramiden` — 食物金字塔\n\n## 例句 (Sentences)\n\n- 🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid. — 🇨🇳 它的形状像四面体——大概像一个金字塔。\n- 🇸🇪 Pyramiderna i Egypten är bland de äldsta byggnaderna i världen. — 🇨🇳 埃及的金字塔是世界上最古老的建筑之一。\n- 🇸🇪 Skolboken visar en bild av en geometrisk pyramid. — 🇨🇳 教科书上显示了一个几何棱锥的图片。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: pyramidal (金字塔形的)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- 既指古代建筑金字塔，也指几何体棱锥\n- 在 Tetra Pak 语境中用于比较四面体的形状：`ungefär som en pyramid`\n- 国际词汇，各语言发音相近",
+      "excerpt": "pyramid — substantiv 📖 中文：金字塔/棱锥 · English: pyramid 发音提示：py ra MID（重音在最后一音节） 语法变形 (Forms) form Swedish singular obestämd en pyramid singular bestämd pyramiden plural obestämd pyramider plural bestämd pyramiderna Deklina",
+      "forms": [
+        "pyramid",
+        "pyramiden",
+        "pyramider",
+        "pyramiderna"
+      ],
+      "links": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "pyramid pyramid knowledge_base/words/pyramid.md ---\ntype: word\nlemma: \"pyramid\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"金字塔/棱锥\"\nen: \"pyramid\"\nsynonyms: []\nantonyms: []\nfamily: [pyramidal]\ntopics: [topic-uppfinning-och-teknik]\nsentences:\n  - sent-den-hade-formen-av-en-tetraeder\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# pyramid — substantiv\n\n📖 中文：金字塔/棱锥 · English: pyramid\n发音提示：py-ra-MID（重音在最后一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en pyramid |\n| singular bestämd | pyramiden |\n| plural obestämd | pyramider |\n| plural bestämd | pyramiderna |\n\n**Deklination:** grupp 3 (en-ord, -er plural)\n\n## 词组搭配 (Collocations)\n\n- `ungefär som en pyramid` — 大概像一个金字塔\n- `pyramiderna i Egypten` — 埃及的金字塔\n- `pyramidform` — 金字塔形状\n- `livsmedels-pyramiden` — 食物金字塔\n\n## 例句 (Sentences)\n\n- 🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid. — 🇨🇳 它的形状像四面体——大概像一个金字塔。\n- 🇸🇪 Pyramiderna i Egypten är bland de äldsta byggnaderna i världen. — 🇨🇳 埃及的金字塔是世界上最古老的建筑之一。\n- 🇸🇪 Skolboken visar en bild av en geometrisk pyramid. — 🇨🇳 教科书上显示了一个几何棱锥的图片。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: pyramidal (金字塔形的)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- 既指古代建筑金字塔，也指几何体棱锥\n- 在 Tetra Pak 语境中用于比较四面体的形状：`ungefär som en pyramid`\n- 国际词汇，各语言发音相近\n",
+      "lemma": "pyramid",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "金字塔/棱锥",
+      "en": "pyramid",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-den-hade-formen-av-en-tetraeder"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "sent-den-hade-formen-av-en-tetraeder",
+        "topic-uppfinning-och-teknik"
+      ]
+    },
+    {
       "slug": "rå",
       "type": "word",
       "title": "rå",
@@ -66266,6 +67401,7 @@ window.KB_DATA = {
       ],
       "topics": [],
       "backlinks": [
+        "fyrkantig",
         "sent-pa-golvet-framfor-soffan-rund-matta",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-19-adjsubst-blandat"
@@ -66452,6 +67588,7 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "sent-idag-saljer-tetra-pak-sina-forpackningar",
         "sent-länderna-ska-göra-det-svårare",
         "source-2026-06-18-nyheter-8sidor"
       ]
@@ -67245,6 +68382,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "självbetjäning",
+      "type": "word",
+      "title": "självbetjäning",
+      "path": "knowledge_base/words/självbetjäning.md",
+      "body": "# självbetjäning — substantiv\n\n📖 中文：自助服务 · English: self-service\n发音提示：SJÄLV-bet-JÄN-ing（复合词，重音在各部分第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en självbetjäning |\n| singular bestämd | självbetjäningen |\n| plural obestämd | självbetjäningar |\n| plural bestämd | självbetjäningarna |\n\n**Deklination:** grupp 3 (en-ord, -ar plural)\n**Sammansatt ord:** själv (自己) + betjäning (服务)\n\n## 词组搭配 (Collocations)\n\n- `självbetjäningsbutik` — 自助超市\n- `självbetjäningskassa` — 自助收银台\n- `med självbetjäning` — 采用自助服务\n- `se självbetjäning för första gången` — 第一次见到自助服务\n\n## 例句 (Sentences)\n\n- 🇸🇪 Där såg han självbetjäningsbutiker för första gången. — 🇨🇳 在那里，他第一次看到了自助超市。\n- 🇸🇪 Idag har de flesta mataffärer självbetjäning. — 🇨🇳 今天大多数食品商店都有自助服务。\n- 🇸🇪 Självbetjäning i butiker blev vanligt på 1950-talet. — 🇨🇳 商店自助服务在1950年代变得普遍。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: betjäna (服务), betjäning (服务员/服务)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-mataffär]]\n\n## 用法提示 (Usage Notes)\n\n- 合成词：`själv`（自己）+ `betjäning`（服务）\n- 常见复合词：`självbetjäningsbutik`（自助商店）、`självbetjäningskassa`（自助收银台）\n- 现代的自助洗车、自助取款机等概念都用这个词根",
+      "excerpt": "självbetjäning — substantiv 📖 中文：自助服务 · English: self service 发音提示：SJÄLV bet JÄN ing（复合词，重音在各部分第一音节） 语法变形 (Forms) form Swedish singular obestämd en självbetjäning singular bestämd självbetjäningen plural obestämd självb",
+      "forms": [
+        "självbetjäning",
+        "självbetjäningen",
+        "självbetjäningar",
+        "självbetjäningarna"
+      ],
+      "links": [
+        "topic-mataffär",
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "självbetjäning självbetjäning knowledge_base/words/självbetjäning.md ---\ntype: word\nlemma: \"självbetjäning\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"自助服务\"\nen: \"self-service\"\nsynonyms: []\nantonyms: []\nfamily: [betjäna, betjäning]\ntopics: [topic-uppfinning-och-teknik, topic-mataffär]\nsentences:\n  - sent-dar-sag-han-självbetjäningsbutiker-for-forsta\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# självbetjäning — substantiv\n\n📖 中文：自助服务 · English: self-service\n发音提示：SJÄLV-bet-JÄN-ing（复合词，重音在各部分第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en självbetjäning |\n| singular bestämd | självbetjäningen |\n| plural obestämd | självbetjäningar |\n| plural bestämd | självbetjäningarna |\n\n**Deklination:** grupp 3 (en-ord, -ar plural)\n**Sammansatt ord:** själv (自己) + betjäning (服务)\n\n## 词组搭配 (Collocations)\n\n- `självbetjäningsbutik` — 自助超市\n- `självbetjäningskassa` — 自助收银台\n- `med självbetjäning` — 采用自助服务\n- `se självbetjäning för första gången` — 第一次见到自助服务\n\n## 例句 (Sentences)\n\n- 🇸🇪 Där såg han självbetjäningsbutiker för första gången. — 🇨🇳 在那里，他第一次看到了自助超市。\n- 🇸🇪 Idag har de flesta mataffärer självbetjäning. — 🇨🇳 今天大多数食品商店都有自助服务。\n- 🇸🇪 Självbetjäning i butiker blev vanligt på 1950-talet. — 🇨🇳 商店自助服务在1950年代变得普遍。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: betjäna (服务), betjäning (服务员/服务)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-mataffär]]\n\n## 用法提示 (Usage Notes)\n\n- 合成词：`själv`（自己）+ `betjäning`（服务）\n- 常见复合词：`självbetjäningsbutik`（自助商店）、`självbetjäningskassa`（自助收银台）\n- 现代的自助洗车、自助取款机等概念都用这个词根\n",
+      "lemma": "självbetjäning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "自助服务",
+      "en": "self-service",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-dar-sag-han-självbetjäningsbutiker-for-forsta"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik",
+        "topic-mataffär"
+      ],
+      "backlinks": [
+        "sent-dar-sag-han-självbetjäningsbutiker-for-forsta",
+        "topic-uppfinning-och-teknik"
+      ]
+    },
+    {
       "slug": "självreflektering",
       "type": "word",
       "title": "självreflektering",
@@ -67739,6 +68913,7 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "leverera",
         "sent-länderna-ska-skicka-mer-vapen",
         "skicka-in",
         "source-2026-06-18-nyheter-8sidor"
@@ -70305,6 +71480,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "stapla",
+      "type": "word",
+      "title": "stapla",
+      "path": "knowledge_base/words/stapla.md",
+      "body": "# stapla — verb\n\n📖 中文：堆叠/摞起 · English: to stack, to pile\n发音提示：STA-pla（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | stapla |\n| presens | staplar |\n| preteritum | staplade |\n| supinum | staplat |\n| imperativ | stapla! |\n\n**Verbgrupp:** 1 (presens +r, preteritum -ade, supinum -at)\n\n## 词组搭配 (Collocations)\n\n- `stapla kartonger` — 堆叠纸盒\n- `stapla böcker` — 摞书\n- `lätt att stapla` — 容易堆叠\n- `stapla på varandra` — 一个摞一个\n\n## 例句 (Sentences)\n\n- 🇸🇪 Den var lättare att stapla och transportera än de gamla förpackningarna. — 🇨🇳 它比旧包装更容易堆叠和运输。\n- 🇸🇪 Du kan stapla kartongerna i hyllan. — 🇨🇳 你可以把纸盒摞放在架子上。\n- 🇸🇪 Varorna staplas i lager för att spara plats. — 🇨🇳 货物被堆叠在仓库里以节省空间。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: stapel (en, 堆/摞)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- 常与 `på varandra`（一个叠一个）搭配使用\n- 名词形式 `stapel` 指一摞/一堆东西",
+      "excerpt": "stapla — verb 📖 中文：堆叠/摞起 · English: to stack, to pile 发音提示：STA pla（重音在第一音节） 语法变形 (Forms) form Swedish infinitiv stapla presens staplar preteritum staplade supinum staplat imperativ stapla! Verbgrupp: 1 (presens +r, pret",
+      "forms": [
+        "stapla",
+        "staplar",
+        "staplade",
+        "staplat",
+        "stapla!"
+      ],
+      "links": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "stapla stapla knowledge_base/words/stapla.md ---\ntype: word\nlemma: \"stapla\"\nordklass: \"verb\"\nverbgrupp: \"1\"\ngenus: \"\"\ncefr: \"B1\"\nzh: \"堆叠/摞起\"\nen: \"to stack, to pile\"\nsynonyms: []\nantonyms: []\nfamily: [stapel]\ntopics: [topic-uppfinning-och-teknik]\nsentences:\n  - sent-den-var-lattare-att-stapla-och-transportera\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stapla — verb\n\n📖 中文：堆叠/摞起 · English: to stack, to pile\n发音提示：STA-pla（重音在第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | stapla |\n| presens | staplar |\n| preteritum | staplade |\n| supinum | staplat |\n| imperativ | stapla! |\n\n**Verbgrupp:** 1 (presens +r, preteritum -ade, supinum -at)\n\n## 词组搭配 (Collocations)\n\n- `stapla kartonger` — 堆叠纸盒\n- `stapla böcker` — 摞书\n- `lätt att stapla` — 容易堆叠\n- `stapla på varandra` — 一个摞一个\n\n## 例句 (Sentences)\n\n- 🇸🇪 Den var lättare att stapla och transportera än de gamla förpackningarna. — 🇨🇳 它比旧包装更容易堆叠和运输。\n- 🇸🇪 Du kan stapla kartongerna i hyllan. — 🇨🇳 你可以把纸盒摞放在架子上。\n- 🇸🇪 Varorna staplas i lager för att spara plats. — 🇨🇳 货物被堆叠在仓库里以节省空间。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: stapel (en, 堆/摞)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- 常与 `på varandra`（一个叠一个）搭配使用\n- 名词形式 `stapel` 指一摞/一堆东西\n",
+      "lemma": "stapla",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "堆叠/摞起",
+      "en": "to stack, to pile",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-den-var-lattare-att-stapla-och-transportera"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "sent-den-var-lattare-att-stapla-och-transportera",
+        "topic-uppfinning-och-teknik"
+      ]
+    },
+    {
       "slug": "stark",
       "type": "word",
       "title": "stark",
@@ -72106,6 +73317,43 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "praktisk"
+      ]
+    },
+    {
+      "slug": "tetraeder",
+      "type": "word",
+      "title": "tetraeder",
+      "path": "knowledge_base/words/tetraeder.md",
+      "body": "# tetraeder — substantiv\n\n📖 中文：四面体 · English: tetrahedron\n发音提示：te-tra-E-der（重音在第三音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en tetraeder |\n| singular bestämd | tetraedern |\n| plural obestämd | tetraedrar / tetraedrer |\n| plural bestämd | tetraedrarna / tetraedrerna |\n\n**Deklination:** grupp 5 (en-ord, oförändrad i plural med vokalskifte)\n\n## 词组搭配 (Collocations)\n\n- `ha formen av en tetraeder` — 呈四面体形状\n- `ungefär som en pyramid` — 大概像一个金字塔\n- `en geometrisk form` — 一种几何形状\n\n## 例句 (Sentences)\n\n- 🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid. — 🇨🇳 它的形状像四面体——大概像一个金字塔。\n- 🇸🇪 En tetraeder har fyra triangulära sidor. — 🇨🇳 四面体有四个三角形面。\n- 🇸🇪 Tetra Pak fick sitt namn från tetraedern. — 🇨🇳 Tetra Pak 的名字来源于四面体。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- 几何学术语，日常口语中较少使用\n- Tetra Pak 品牌名就来自这个词（tetra = 四，四面体）\n- 同义简化描述：`ungefär som en pyramid`（像金字塔）",
+      "excerpt": "tetraeder — substantiv 📖 中文：四面体 · English: tetrahedron 发音提示：te tra E der（重音在第三音节） 语法变形 (Forms) form Swedish singular obestämd en tetraeder singular bestämd tetraedern plural obestämd tetraedrar / tetraedrer plural bestä",
+      "forms": [
+        "tetraeder",
+        "tetraedern",
+        "tetraedrar",
+        "tetraedrer",
+        "tetraedrarna",
+        "tetraedrerna"
+      ],
+      "links": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "searchText": "tetraeder tetraeder knowledge_base/words/tetraeder.md ---\ntype: word\nlemma: \"tetraeder\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B2\"\nzh: \"四面体\"\nen: \"tetrahedron\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [topic-uppfinning-och-teknik]\nsentences:\n  - sent-den-hade-formen-av-en-tetraeder\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tetraeder — substantiv\n\n📖 中文：四面体 · English: tetrahedron\n发音提示：te-tra-E-der（重音在第三音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en tetraeder |\n| singular bestämd | tetraedern |\n| plural obestämd | tetraedrar / tetraedrer |\n| plural bestämd | tetraedrarna / tetraedrerna |\n\n**Deklination:** grupp 5 (en-ord, oförändrad i plural med vokalskifte)\n\n## 词组搭配 (Collocations)\n\n- `ha formen av en tetraeder` — 呈四面体形状\n- `ungefär som en pyramid` — 大概像一个金字塔\n- `en geometrisk form` — 一种几何形状\n\n## 例句 (Sentences)\n\n- 🇸🇪 Den hade formen av en tetraeder – ungefär som en pyramid. — 🇨🇳 它的形状像四面体——大概像一个金字塔。\n- 🇸🇪 En tetraeder har fyra triangulära sidor. — 🇨🇳 四面体有四个三角形面。\n- 🇸🇪 Tetra Pak fick sitt namn från tetraedern. — 🇨🇳 Tetra Pak 的名字来源于四面体。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- 几何学术语，日常口语中较少使用\n- Tetra Pak 品牌名就来自这个词（tetra = 四，四面体）\n- 同义简化描述：`ungefär som en pyramid`（像金字塔）\n",
+      "lemma": "tetraeder",
+      "ordklass": "substantiv",
+      "cefr": "B2",
+      "zh": "四面体",
+      "en": "tetrahedron",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-den-hade-formen-av-en-tetraeder"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "sent-den-hade-formen-av-en-tetraeder",
+        "topic-uppfinning-och-teknik"
       ]
     },
     {
@@ -74015,6 +75263,44 @@ window.KB_DATA = {
         "topic-skola-och-utbildning"
       ],
       "backlinks": []
+    },
+    {
+      "slug": "uppfinning",
+      "type": "word",
+      "title": "uppfinning",
+      "path": "knowledge_base/words/uppfinning.md",
+      "body": "# uppfinning — substantiv\n\n📖 中文：发明 · English: invention\n发音提示：upp-FIN-ning（重音在第二音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en uppfinning |\n| singular bestämd | uppfinningen |\n| plural obestämd | uppfinningar |\n| plural bestämd | uppfinningarna |\n\n**Deklination:** grupp 3 (en-ord, -ar plural)\n\n## 词组搭配 (Collocations)\n\n- `göra en uppfinning` — 做一项发明\n- `en viktig uppfinning` — 一项重要的发明\n- `uppfinningens historia` — 发明的历史\n- `en svensk uppfinning` — 一项瑞典发明\n\n## 例句 (Sentences)\n\n- 🇸🇪 Tetra Pak är en av Sveriges mest kända uppfinningar. — 🇨🇳 Tetra Pak 是瑞典最著名的发明之一。\n- 🇸🇪 Erik Wallenberg uppfann en speciell kartong – det var en viktig uppfinning. — 🇨🇳 Erik Wallenberg 发明了一种特殊纸盒——那是一项重要的发明。\n- 🇸🇪 Boken handlar om svenska uppfinningar från 1900-talet. — 🇨🇳 这本书讲述的是20世纪的瑞典发明。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[uppfinna]] (动词：发明), uppfinnare (发明家)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- 名词来自动词 `uppfinna`（发明），构词规律：verb + -ning = 名词\n- 常与 `göra`、`skapa`、`patenta` 搭配",
+      "excerpt": "uppfinning — substantiv 📖 中文：发明 · English: invention 发音提示：upp FIN ning（重音在第二音节） 语法变形 (Forms) form Swedish singular obestämd en uppfinning singular bestämd uppfinningen plural obestämd uppfinningar plural bestämd uppfinn",
+      "forms": [
+        "uppfinning",
+        "uppfinningen",
+        "uppfinningar",
+        "uppfinningarna"
+      ],
+      "links": [
+        "topic-uppfinning-och-teknik",
+        "uppfinna"
+      ],
+      "searchText": "uppfinning uppfinning knowledge_base/words/uppfinning.md ---\ntype: word\nlemma: \"uppfinning\"\nordklass: \"substantiv\"\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"发明\"\nen: \"invention\"\nsynonyms: []\nantonyms: []\nfamily: [uppfinna, uppfinnare]\ntopics: [topic-uppfinning-och-teknik]\nsentences:\n  - sent-tetra-pak-ar-ett-av-sveriges-mest-kanda\n  - sent-en-ingenjar-som-hette-erik-wallenberg-uppfann\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# uppfinning — substantiv\n\n📖 中文：发明 · English: invention\n发音提示：upp-FIN-ning（重音在第二音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en uppfinning |\n| singular bestämd | uppfinningen |\n| plural obestämd | uppfinningar |\n| plural bestämd | uppfinningarna |\n\n**Deklination:** grupp 3 (en-ord, -ar plural)\n\n## 词组搭配 (Collocations)\n\n- `göra en uppfinning` — 做一项发明\n- `en viktig uppfinning` — 一项重要的发明\n- `uppfinningens historia` — 发明的历史\n- `en svensk uppfinning` — 一项瑞典发明\n\n## 例句 (Sentences)\n\n- 🇸🇪 Tetra Pak är en av Sveriges mest kända uppfinningar. — 🇨🇳 Tetra Pak 是瑞典最著名的发明之一。\n- 🇸🇪 Erik Wallenberg uppfann en speciell kartong – det var en viktig uppfinning. — 🇨🇳 Erik Wallenberg 发明了一种特殊纸盒——那是一项重要的发明。\n- 🇸🇪 Boken handlar om svenska uppfinningar från 1900-talet. — 🇨🇳 这本书讲述的是20世纪的瑞典发明。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[uppfinna]] (动词：发明), uppfinnare (发明家)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]]\n\n## 用法提示 (Usage Notes)\n\n- 名词来自动词 `uppfinna`（发明），构词规律：verb + -ning = 名词\n- 常与 `göra`、`skapa`、`patenta` 搭配\n",
+      "lemma": "uppfinning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "发明",
+      "en": "invention",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [
+        "sent-tetra-pak-ar-ett-av-sveriges-mest-kanda",
+        "sent-en-ingenjar-som-hette-erik-wallenberg-uppfann"
+      ],
+      "topics": [
+        "topic-uppfinning-och-teknik"
+      ],
+      "backlinks": [
+        "sent-en-ingenjar-som-hette-erik-wallenberg-uppfann",
+        "sent-tetra-pak-ar-ett-av-sveriges-mest-kanda",
+        "topic-uppfinning-och-teknik"
+      ]
     },
     {
       "slug": "uppsats",
