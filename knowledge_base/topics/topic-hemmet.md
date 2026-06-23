@@ -27,6 +27,11 @@ members:
   - krukväxt
   - television
   - dator
+  - kök
+  - dörr
+  - tak
+  - hall
+  - badkar
 created: "2026-06-09"
 ---
 
@@ -66,6 +71,15 @@ created: "2026-06-09"
 - [[krukväxt]] — 盆栽植物
 - [[television]] — 电视机
 - [[dator]] — 电脑
+
+### 建筑空间 (Utrymmen)
+- [[kök]] — 厨房
+- [[hall]] — 门厅；走廊
+
+### 建筑部件（新增）
+- [[dörr]] — 门
+- [[tak]] — 天花板；屋顶
+- [[badkar]] — 浴缸
 
 ## 备注 (Notes)
 
