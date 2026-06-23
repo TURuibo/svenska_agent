@@ -1,6 +1,34 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-23 02:17:51",
+  "generatedAt": "2026-06-23 04:36:36",
   "articles": [
+    {
+      "slug": "scenario-2026-06-23-annons-lagenhet-uthyres",
+      "file": "scenario-2026-06-23-annons-lagenhet-uthyres.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "scenario",
+      "kindLabel": {
+        "zh": "情景练习",
+        "en": "scenario"
+      },
+      "title": "🇸🇪 Annons: lägenhet uthyres — 广告：公寓出租",
+      "cefr": "A2",
+      "date": "2026-06-23",
+      "theme": "text",
+      "source": "",
+      "path": "imported/scenario-2026-06-23-annons-lagenhet-uthyres.md",
+      "counts": {
+        "words": 13,
+        "phrases": 5,
+        "sentences": 9,
+        "grammar": 3
+      },
+      "itemTotal": 30,
+      "body": "# 🇸🇪 Annons: lägenhet uthyres — 广告：公寓出租\n\n**类型 (type):** text\n**CEFR 估计:** A2–B1\n**生成日期:** 2026-06-23\n\n---\n\n## 瑞典语原文\n\n**Hyresannons**\n\nLjus 2 rum och kök, 58 kvm uthyres i Örebro centrum från den 1 september 2026. Lägenheten finns på Storgatan 12, fjärde våningen med hiss.\n\nLägenheten har nyrenoverat kök med diskmaskin, balkong mot söder och tvättmaskin i badrummet. Det är tre minuter till närmaste busshållplats och tio minuter till järnvägsstationen till fots.\n\nHyran är 8 500 kronor per månad, inklusive el och vatten. Kontraktstiden är ett år med möjlighet till förlängning.\n\nVi söker en hyresgäst med fast anställning eller godkänd borgensman. Husdjur och rökning är inte tillåtet.\n\nIntresserade ombeds kontakta Anna Lindberg på 070-123 45 67 eller anna@lindberg.se senast den 15 juli 2026.\n\n---\n\n## 🇨🇳 全文翻译\n\n**租房广告**\n\n一套明亮的两室一厅（58平米）公寓，2026年9月1日起在厄勒布鲁市中心出租。公寓位于斯托加坦12号四楼，有电梯。\n\n公寓配有翻新厨房（含洗碗机）、朝南阳台以及浴室内洗衣机。步行三分钟到最近的公交站，十分钟到火车站。\n\n月租8500克朗，含水电费。合同期为一年，可续租。\n\n我们正在寻找有固定工作或经认可担保人的租户。不允许饲养宠物及吸烟。\n\n有意者请在2026年7月15日前致电070-123 45 67或发邮件至anna@lindberg.se联系安娜·林德伯格。\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **2 rum och kök** — 瑞典房产描述惯例：只数卧室数量，厨房单独列出；\"2 rum och kök\" = 两个房间（通常一卧一起居室）加厨房，相当于中文\"两室一厅\"。\n⚠️ **uthyres** — 被动式（*s*-passiv）：*hyra ut*（出租）→ *uthyres*（正在出租）；租房广告的固定表达，比 *hyrs ut* 更正式。\n📐 **inklusive el och vatten** — 广告常见短语：*inklusive*（含/包括）+ 名词，不加 *att*；对应 *exklusive*（不含）。\n📌 **ombeds kontakta** — 正式邀请表达：*ombes* 是 *be om*（请求）的被动式；\"Intresserade ombeds...\" = \"有意者请...\"，比 *kontakta gärna* 更书面。\n\n---\n\n/import scenario-2026-06-23-annons-lagenhet-uthyres.md",
+      "searchText": "scenario-2026-06-23-annons-lagenhet-uthyres 🇸🇪 annons: lägenhet uthyres — 广告：公寓出租 # 🇸🇪 annons: lägenhet uthyres — 广告：公寓出租\n\n**类型 (type):** text\n**cefr 估计:** a2–b1\n**生成日期:** 2026-06-23\n\n---\n\n## 瑞典语原文\n\n**hyresannons**\n\nljus 2 rum och kök, 58 kvm uthyres i örebro centrum från den 1 september 2026. lägenheten finns på storgatan 12, fjärde våningen med hiss.\n\nlägenheten har nyrenoverat kök med diskmaskin, balkong mot söder och tvättmaskin i badrummet. det är tre minuter till närmaste busshållplats och tio minuter till järnvägsstationen till fots.\n\nhyran är 8 500 kronor per månad, inklusive el och vatten. kontraktstiden är ett år med möjlighet till förlängning.\n\nvi söker en hyresgäst med fast anställning eller godkänd borgensman. husdjur och rökning är inte tillåtet.\n\nintresserade ombeds kontakta anna lindberg på 070-123 45 67 eller anna@lindberg.se senast den 15 juli 2026.\n\n---\n\n## 🇨🇳 全文翻译\n\n**租房广告**\n\n一套明亮的两室一厅（58平米）公寓，2026年9月1日起在厄勒布鲁市中心出租。公寓位于斯托加坦12号四楼，有电梯。\n\n公寓配有翻新厨房（含洗碗机）、朝南阳台以及浴室内洗衣机。步行三分钟到最近的公交站，十分钟到火车站。\n\n月租8500克朗，含水电费。合同期为一年，可续租。\n\n我们正在寻找有固定工作或经认可担保人的租户。不允许饲养宠物及吸烟。\n\n有意者请在2026年7月15日前致电070-123 45 67或发邮件至anna@lindberg.se联系安娜·林德伯格。\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **2 rum och kök** — 瑞典房产描述惯例：只数卧室数量，厨房单独列出；\"2 rum och kök\" = 两个房间（通常一卧一起居室）加厨房，相当于中文\"两室一厅\"。\n⚠️ **uthyres** — 被动式（*s*-passiv）：*hyra ut*（出租）→ *uthyres*（正在出租）；租房广告的固定表达，比 *hyrs ut* 更正式。\n📐 **inklusive el och vatten** — 广告常见短语：*inklusive*（含/包括）+ 名词，不加 *att*；对应 *exklusive*（不含）。\n📌 **ombeds kontakta** — 正式邀请表达：*ombes* 是 *be om*（请求）的被动式；\"intresserade ombeds...\" = \"有意者请...\"，比 *kontakta gärna* 更书面。\n\n---\n\n/import scenario-2026-06-23-annons-lagenhet-uthyres.md"
+    },
     {
       "slug": "news-2026-06-23",
       "file": "news-2026-06-23.md",
@@ -28,6 +56,118 @@ window.READING_DATA = {
       "itemTotal": 60,
       "body": "# 🇸🇪 Dagens nyheter (8 Sidor) — 2026-06-23\n\n**类型 (type):** news\n**来源 (source):** 8 Sidor — lättläst nyheter\n**CEFR 估计:** A2–B1\n**生成日期:** 2026-06-23\n\n---\n\n## 1. Starmer slutar\nStorbritanniens ledare Keir Starmer meddelar sitt avgång. Han säger: \"Jag har lyssnat på mitt parti.\" Starmer har varit landets ledare sedan 2024. Partiets arbetsgrupp Labour måste nu välja en ny ledare. Politikern Andy Burnham anses vara en trolig efterträdare. Allmänheten är missnöjd med höga matpriser och svag ekonomi.\n🇨🇳 英国领导人凯尔·斯塔默宣布辞职。他说：\"我已经倾听了我的党的意见。\"工党现在必须选举一位新领导人。政治家安迪·伯纳姆被认为是最可能的继任者。公众对高食品价格和疲软经济感到不满。\n\n## 2. Svensk brottsling är fast\nPoliserna i Colombia har tagit fast en svensk man som är misstänkt för många brott. Mannen kallas \"El Sueco\" vilket betyder Svensken på spanska. Han är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai. De svenska poliserna vill nu att mannen blir flyttad till Sverige.\n🇨🇳 哥伦比亚警察逮捕了一名涉嫌多项罪行的瑞典男子。该男子被称为\"El Sueco\"，西班牙语意为\"瑞典人\"。他被怀疑将毒品从南美走私到欧洲和迪拜。瑞典警方现在希望将该男子引渡回瑞典。\n\n## 3. Skolor stängs i värmen\nDet är ovanligt varmt väder i Europa just nu. I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt. I Frankrike får barnen sommarlov i början av juli. Men 845 skolor har nu stängt. Regeringen förbjuder därför barer att sälja alkohol i vissa områden. Att dricka alkohol när det är mycket varmt är farligt eftersom kroppen blir uttorkad extra snabbt.\n🇨🇳 欧洲目前天气异常炎热。法国、意大利和西班牙部分地区气温超过40度。在法国，孩子们七月初放暑假，但845所学校已经关闭。政府因此禁止某些地区的酒吧出售酒精饮料。在高温下饮酒很危险，因为身体脱水得更快。\n\n## 4. Politikerna pratar på Gotland\nDen 22 juni börjar mötet Almedalen på ön Gotland. Det är en känd vecka för politik i Sverige. Partiledarna håller tal under veckan. Du kan se talen på SVT Play.\n🇨🇳 6月22日，阿尔梅达伦政治周在哥得兰岛开幕。这是瑞典著名的政治周。各党领袖在本周发表演讲。你可以在SVT Play上收看演讲。\n\n## 5. Ny film om Robin Hood\nBerättelsen om Robin Hood har cirkulerat i hundratals år. Denna legendariska hjälte stjäl från rika för att ge till fattiga. Robin Hood bor enligt sägnerna i Sherwoodskogen i England. Den 26 juni kommer en ny film om Robin Hood. Filmen heter The Death of Robin Hood. Den svenske skådespelaren Bill Skarsgård spelar Lille John, Robin Hoods närmaste följeslagare.\n🇨🇳 罗宾汉的故事流传了数百年。这位传奇英雄劫富济贫。据传说，罗宾汉住在英格兰的舍伍德森林。6月26日将上映一部关于罗宾汉的新电影《罗宾汉之死》。瑞典演员比尔·斯卡斯加德饰演小约翰，罗宾汉最亲密的伙伴。\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **ta fast** (逮捕) — partikelverb：`ta fast ngn` = 抓住/逮捕某人。注意 fast 这里不是形容词\"坚固的\"，而是副词，与 ta 搭配表示\"抓住\"。\n⚠️ **avgång** (辞职/出发) — 一词多义：领导人的\"辞职\"，也指交通工具的\"出发\"(tågets avgång = 火车出发)。根据语境区分。\n📌 **förbjuda** (禁止) — 不规则动词变位：förbjuder / förbjöd / förbjudit。词根同 bjuda (邀请)，前缀 för- 表相反。\n📐 **eftersom** (因为) — 引导原因 bisats（从句）的连词，从句内用 bisats 语序：主语 + (inte) + 谓语动词。\n\n---\n\n📺 今日听力 (lyssna): **SVT Nyheter på lätt svenska** — 简易瑞典语新闻视频（vardagar ~17:15，约 4 分钟，带瑞典语字幕，可全球观看）：https://www.svtplay.se/nyheter-pa-latt-svenska\n⏭ 想录入知识库：/import news-2026-06-23.md\n\n---",
       "searchText": "news-2026-06-23 🇸🇪 dagens nyheter (8 sidor) — 2026-06-23 # 🇸🇪 dagens nyheter (8 sidor) — 2026-06-23\n\n**类型 (type):** news\n**来源 (source):** 8 sidor — lättläst nyheter\n**cefr 估计:** a2–b1\n**生成日期:** 2026-06-23\n\n---\n\n## 1. starmer slutar\nstorbritanniens ledare keir starmer meddelar sitt avgång. han säger: \"jag har lyssnat på mitt parti.\" starmer har varit landets ledare sedan 2024. partiets arbetsgrupp labour måste nu välja en ny ledare. politikern andy burnham anses vara en trolig efterträdare. allmänheten är missnöjd med höga matpriser och svag ekonomi.\n🇨🇳 英国领导人凯尔·斯塔默宣布辞职。他说：\"我已经倾听了我的党的意见。\"工党现在必须选举一位新领导人。政治家安迪·伯纳姆被认为是最可能的继任者。公众对高食品价格和疲软经济感到不满。\n\n## 2. svensk brottsling är fast\npoliserna i colombia har tagit fast en svensk man som är misstänkt för många brott. mannen kallas \"el sueco\" vilket betyder svensken på spanska. han är bland annat misstänkt för att ha smugglat droger från sydamerika till europa och dubai. de svenska poliserna vill nu att mannen blir flyttad till sverige.\n🇨🇳 哥伦比亚警察逮捕了一名涉嫌多项罪行的瑞典男子。该男子被称为\"el sueco\"，西班牙语意为\"瑞典人\"。他被怀疑将毒品从南美走私到欧洲和迪拜。瑞典警方现在希望将该男子引渡回瑞典。\n\n## 3. skolor stängs i värmen\ndet är ovanligt varmt väder i europa just nu. i delar av frankrike, italien och spanien blir det över 40 grader varmt. i frankrike får barnen sommarlov i början av juli. men 845 skolor har nu stängt. regeringen förbjuder därför barer att sälja alkohol i vissa områden. att dricka alkohol när det är mycket varmt är farligt eftersom kroppen blir uttorkad extra snabbt.\n🇨🇳 欧洲目前天气异常炎热。法国、意大利和西班牙部分地区气温超过40度。在法国，孩子们七月初放暑假，但845所学校已经关闭。政府因此禁止某些地区的酒吧出售酒精饮料。在高温下饮酒很危险，因为身体脱水得更快。\n\n## 4. politikerna pratar på gotland\nden 22 juni börjar mötet almedalen på ön gotland. det är en känd vecka för politik i sverige. partiledarna håller tal under veckan. du kan se talen på svt play.\n🇨🇳 6月22日，阿尔梅达伦政治周在哥得兰岛开幕。这是瑞典著名的政治周。各党领袖在本周发表演讲。你可以在svt play上收看演讲。\n\n## 5. ny film om robin hood\nberättelsen om robin hood har cirkulerat i hundratals år. denna legendariska hjälte stjäl från rika för att ge till fattiga. robin hood bor enligt sägnerna i sherwoodskogen i england. den 26 juni kommer en ny film om robin hood. filmen heter the death of robin hood. den svenske skådespelaren bill skarsgård spelar lille john, robin hoods närmaste följeslagare.\n🇨🇳 罗宾汉的故事流传了数百年。这位传奇英雄劫富济贫。据传说，罗宾汉住在英格兰的舍伍德森林。6月26日将上映一部关于罗宾汉的新电影《罗宾汉之死》。瑞典演员比尔·斯卡斯加德饰演小约翰，罗宾汉最亲密的伙伴。\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **ta fast** (逮捕) — partikelverb：`ta fast ngn` = 抓住/逮捕某人。注意 fast 这里不是形容词\"坚固的\"，而是副词，与 ta 搭配表示\"抓住\"。\n⚠️ **avgång** (辞职/出发) — 一词多义：领导人的\"辞职\"，也指交通工具的\"出发\"(tågets avgång = 火车出发)。根据语境区分。\n📌 **förbjuda** (禁止) — 不规则动词变位：förbjuder / förbjöd / förbjudit。词根同 bjuda (邀请)，前缀 för- 表相反。\n📐 **eftersom** (因为) — 引导原因 bisats（从句）的连词，从句内用 bisats 语序：主语 + (inte) + 谓语动词。\n\n---\n\n📺 今日听力 (lyssna): **svt nyheter på lätt svenska** — 简易瑞典语新闻视频（vardagar ~17:15，约 4 分钟，带瑞典语字幕，可全球观看）：https://www.svtplay.se/nyheter-pa-latt-svenska\n⏭ 想录入知识库：/import news-2026-06-23.md\n\n---"
+    },
+    {
+      "slug": "scenario-2026-06-23-debattinlagg-sociala-medier",
+      "file": "scenario-2026-06-23-debattinlagg-sociala-medier.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "scenario",
+      "kindLabel": {
+        "zh": "情景练习",
+        "en": "scenario"
+      },
+      "title": "🇸🇪 Debattinlägg: sociala medier och ungas hälsa — 辩论帖：社交媒体与年轻人健康",
+      "cefr": "B1",
+      "date": "2026-06-23",
+      "theme": "text",
+      "source": "",
+      "path": "imported/scenario-2026-06-23-debattinlagg-sociala-medier.md",
+      "counts": {
+        "words": 13,
+        "phrases": 5,
+        "sentences": 9,
+        "grammar": 5
+      },
+      "itemTotal": 32,
+      "body": "# 🇸🇪 Debattinlägg: sociala medier och ungas hälsa — 辩论帖：社交媒体与年轻人健康\n\n**类型 (type):** text\n**CEFR 估计:** B1–B2\n**生成日期:** 2026-06-23\n\n---\n\n## 瑞典语原文\n\n**Bör sociala medier regleras för att skydda ungas hälsa?**\n\nSociala medier har blivit en central del av många ungdomars vardag. Men forskning visar att ett överdrivet användande kan leda till ångest, sömnproblem och låg självkänsla, särskilt bland tonåringar.\n\nJag anser att samhället måste ta ett större ansvar. Algoritmerna är utformade för att hålla användarna engagerade så länge som möjligt, utan hänsyn till deras välmående. Det kan inte vara acceptabelt att företag tjänar pengar på barns psykiska ohälsa.\n\nVisserligen finns det positiva aspekter: sociala medier möjliggör kontakt med vänner och ökar tillgången till information. Men dessa fördelar uppväger inte riskerna för de mest sårbara grupperna.\n\nDärför bör lagstiftarna sätta åldersgränser och kräva att plattformarna anpassar sina algoritmer för att minska skadligt innehåll för unga. Föräldrar och skolor kan inte lösa detta problem ensamma – det krävs politiska åtgärder.\n\n---\n\n## 🇨🇳 全文翻译\n\n**是否应该通过监管社交媒体来保护年轻人的健康？**\n\n社交媒体已成为许多年轻人日常生活的核心部分。但研究表明，过度使用可能导致焦虑、睡眠问题和低自尊，尤其是青少年群体。\n\n我认为社会必须承担更大的责任。算法被设计为尽可能长时间地吸引用户，不考虑他们的健康。企业从儿童心理健康问题中获利是不可接受的。\n\n诚然，社交媒体也有积极方面：它使与朋友保持联系成为可能，并增加了获取信息的渠道。但这些好处无法弥补对最脆弱群体的风险。\n\n因此，立法者应该设定年龄限制，并要求平台调整其算法以减少对年轻人有害的内容。父母和学校无法单独解决这个问题——需要政治行动。\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **debattinlägg 结构** — 正式辩论文四段式：①tes（论点引入）→ ②argument（论据）→ ③motargument + bemötande（反驳 + 回应）→ ④slutsats + uppmaning（结论 + 呼吁行动）。这篇按此结构写成，适合 Sva/SFI 国家考试 Skriva 部分。\n⚠️ **bör vs ska vs måste** — 三个情态动词强度递增：*bör*（应该，建议/义务）< *ska*（要/将要）< *måste*（必须，强制）；政策建议常用 *bör*，如 \"Lagstiftarna bör sätta åldersgränser\"。\n📐 **visserligen … men** — B1+ 让步结构：\"诚然……但……\"先肯定对方，再转折提出反驳；相当于英语 \"admittedly … however\"；写作中用此结构可显示论述成熟度。\n📌 **det krävs + substantiv** — 非人称被动结构：\"它（被）要求……/需要……\"；正式书面语比 *man behöver* 更有力，政策文本/论说文常见：*det krävs politiska åtgärder* = \"需要政治行动\"。\n\n---\n\n/import scenario-2026-06-23-debattinlagg-sociala-medier.md",
+      "searchText": "scenario-2026-06-23-debattinlagg-sociala-medier 🇸🇪 debattinlägg: sociala medier och ungas hälsa — 辩论帖：社交媒体与年轻人健康 # 🇸🇪 debattinlägg: sociala medier och ungas hälsa — 辩论帖：社交媒体与年轻人健康\n\n**类型 (type):** text\n**cefr 估计:** b1–b2\n**生成日期:** 2026-06-23\n\n---\n\n## 瑞典语原文\n\n**bör sociala medier regleras för att skydda ungas hälsa?**\n\nsociala medier har blivit en central del av många ungdomars vardag. men forskning visar att ett överdrivet användande kan leda till ångest, sömnproblem och låg självkänsla, särskilt bland tonåringar.\n\njag anser att samhället måste ta ett större ansvar. algoritmerna är utformade för att hålla användarna engagerade så länge som möjligt, utan hänsyn till deras välmående. det kan inte vara acceptabelt att företag tjänar pengar på barns psykiska ohälsa.\n\nvisserligen finns det positiva aspekter: sociala medier möjliggör kontakt med vänner och ökar tillgången till information. men dessa fördelar uppväger inte riskerna för de mest sårbara grupperna.\n\ndärför bör lagstiftarna sätta åldersgränser och kräva att plattformarna anpassar sina algoritmer för att minska skadligt innehåll för unga. föräldrar och skolor kan inte lösa detta problem ensamma – det krävs politiska åtgärder.\n\n---\n\n## 🇨🇳 全文翻译\n\n**是否应该通过监管社交媒体来保护年轻人的健康？**\n\n社交媒体已成为许多年轻人日常生活的核心部分。但研究表明，过度使用可能导致焦虑、睡眠问题和低自尊，尤其是青少年群体。\n\n我认为社会必须承担更大的责任。算法被设计为尽可能长时间地吸引用户，不考虑他们的健康。企业从儿童心理健康问题中获利是不可接受的。\n\n诚然，社交媒体也有积极方面：它使与朋友保持联系成为可能，并增加了获取信息的渠道。但这些好处无法弥补对最脆弱群体的风险。\n\n因此，立法者应该设定年龄限制，并要求平台调整其算法以减少对年轻人有害的内容。父母和学校无法单独解决这个问题——需要政治行动。\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **debattinlägg 结构** — 正式辩论文四段式：①tes（论点引入）→ ②argument（论据）→ ③motargument + bemötande（反驳 + 回应）→ ④slutsats + uppmaning（结论 + 呼吁行动）。这篇按此结构写成，适合 sva/sfi 国家考试 skriva 部分。\n⚠️ **bör vs ska vs måste** — 三个情态动词强度递增：*bör*（应该，建议/义务）< *ska*（要/将要）< *måste*（必须，强制）；政策建议常用 *bör*，如 \"lagstiftarna bör sätta åldersgränser\"。\n📐 **visserligen … men** — b1+ 让步结构：\"诚然……但……\"先肯定对方，再转折提出反驳；相当于英语 \"admittedly … however\"；写作中用此结构可显示论述成熟度。\n📌 **det krävs + substantiv** — 非人称被动结构：\"它（被）要求……/需要……\"；正式书面语比 *man behöver* 更有力，政策文本/论说文常见：*det krävs politiska åtgärder* = \"需要政治行动\"。\n\n---\n\n/import scenario-2026-06-23-debattinlagg-sociala-medier.md"
+    },
+    {
+      "slug": "scenario-2026-06-23-handla-i-mataffaren",
+      "file": "scenario-2026-06-23-handla-i-mataffaren.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "scenario",
+      "kindLabel": {
+        "zh": "情景练习",
+        "en": "scenario"
+      },
+      "title": "🇸🇪 Handla i mataffären — 在超市购物（问店员 + 自助结账）",
+      "cefr": "A2",
+      "date": "2026-06-23",
+      "theme": "dialog",
+      "source": "",
+      "path": "imported/scenario-2026-06-23-handla-i-mataffaren.md",
+      "counts": {
+        "words": 12,
+        "phrases": 4,
+        "sentences": 14,
+        "grammar": 3
+      },
+      "itemTotal": 33,
+      "body": "# 🇸🇪 Handla i mataffären — 在超市购物（问店员 + 自助结账）\n\n**类型 (type):** dialog\n**CEFR 估计:** A2\n**生成日期:** 2026-06-23\n\n---\n\n## 瑞典语原文\n\nA: Hej, kan jag hjälpa dig?\nB: Hej! Jag letar efter halloumi. Var finns det?\nA: Det ligger i kylen, i osthyllan längst till höger.\nB: Tack! Finns grädde i närheten?\nA: Ja, precis bredvid ostarna.\nB: Kan jag betala i självkassan?\nA: Absolut! Självkassorna är till vänster om utgången.\nB: Behöver jag kundkort för att få rabatt?\nA: Ja, med kundkortet får du tio procent rabatt på det här erbjudandet.\nB: Hur skaffar jag ett?\nA: Registrera dig i kassan eller i vår app. Det tar bara en minut.\nB: Tack så mycket!\n\n---\n\n## 🇨🇳 全文翻译\n\nA：你好，我能帮你吗？\nB：你好！我在找哈鲁米奶酪，它在哪里？\nA：它在冷藏区，最右边的奶酪货架上。\nB：谢谢！附近有奶油吗？\nA：有，就在奶酪旁边。\nB：我可以在自助收银台付款吗？\nA：当然！自助收银台在出口左边。\nB：我需要会员卡才能享受折扣吗？\nA：是的，用会员卡可以享受这个商品九折优惠。\nB：我怎么办一张？\nA：在收款台或我们的 app 里注册，只需要一分钟。\nB：非常感谢！\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **ligger i kylen** — 瑞典语用 *ligga*（躺/位于）描述物品所在位置，不用 *vara*；\"在冷藏柜里\"固定说 *i kylen*。\n⚠️ **längst till höger/vänster** — 强调\"最靠右/左\"，比 *till höger* 程度更深；*längst* 此处是\"最远处\"。\n📐 **för att + infinitiv** — 表示目的的结构：\"Behöver jag kundkort **för att få** rabatt?\" = \"需要会员卡**为了获得**折扣吗？\"\n📌 **självkassan** — 自助结账台，*kassa* = 收银台/结账台，*självkassa* = self-checkout；注意定式 *-n* 结尾。\n\n---\n\n/import scenario-2026-06-23-handla-i-mataffaren.md",
+      "searchText": "scenario-2026-06-23-handla-i-mataffaren 🇸🇪 handla i mataffären — 在超市购物（问店员 + 自助结账） # 🇸🇪 handla i mataffären — 在超市购物（问店员 + 自助结账）\n\n**类型 (type):** dialog\n**cefr 估计:** a2\n**生成日期:** 2026-06-23\n\n---\n\n## 瑞典语原文\n\na: hej, kan jag hjälpa dig?\nb: hej! jag letar efter halloumi. var finns det?\na: det ligger i kylen, i osthyllan längst till höger.\nb: tack! finns grädde i närheten?\na: ja, precis bredvid ostarna.\nb: kan jag betala i självkassan?\na: absolut! självkassorna är till vänster om utgången.\nb: behöver jag kundkort för att få rabatt?\na: ja, med kundkortet får du tio procent rabatt på det här erbjudandet.\nb: hur skaffar jag ett?\na: registrera dig i kassan eller i vår app. det tar bara en minut.\nb: tack så mycket!\n\n---\n\n## 🇨🇳 全文翻译\n\na：你好，我能帮你吗？\nb：你好！我在找哈鲁米奶酪，它在哪里？\na：它在冷藏区，最右边的奶酪货架上。\nb：谢谢！附近有奶油吗？\na：有，就在奶酪旁边。\nb：我可以在自助收银台付款吗？\na：当然！自助收银台在出口左边。\nb：我需要会员卡才能享受折扣吗？\na：是的，用会员卡可以享受这个商品九折优惠。\nb：我怎么办一张？\na：在收款台或我们的 app 里注册，只需要一分钟。\nb：非常感谢！\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **ligger i kylen** — 瑞典语用 *ligga*（躺/位于）描述物品所在位置，不用 *vara*；\"在冷藏柜里\"固定说 *i kylen*。\n⚠️ **längst till höger/vänster** — 强调\"最靠右/左\"，比 *till höger* 程度更深；*längst* 此处是\"最远处\"。\n📐 **för att + infinitiv** — 表示目的的结构：\"behöver jag kundkort **för att få** rabatt?\" = \"需要会员卡**为了获得**折扣吗？\"\n📌 **självkassan** — 自助结账台，*kassa* = 收银台/结账台，*självkassa* = self-checkout；注意定式 *-n* 结尾。\n\n---\n\n/import scenario-2026-06-23-handla-i-mataffaren.md"
+    },
+    {
+      "slug": "scenario-2026-06-23-recension-film",
+      "file": "scenario-2026-06-23-recension-film.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "scenario",
+      "kindLabel": {
+        "zh": "情景练习",
+        "en": "scenario"
+      },
+      "title": "🇸🇪 Recension: Sameblod — 电影评论：《萨米血脉》",
+      "cefr": "B1",
+      "date": "2026-06-23",
+      "theme": "text",
+      "source": "",
+      "path": "imported/scenario-2026-06-23-recension-film.md",
+      "counts": {
+        "words": 12,
+        "phrases": 5,
+        "sentences": 10,
+        "grammar": 4
+      },
+      "itemTotal": 31,
+      "body": "# 🇸🇪 Recension: Sameblod — 电影评论：《萨米血脉》\n\n**类型 (type):** text\n**CEFR 估计:** B1\n**生成日期:** 2026-06-23\n\n---\n\n## 瑞典语原文\n\n**Recension: Sameblod (2016)**\n\nSameblod är en svensk film från 2016, regisserad av Amanda Kernell. Filmen handlar om Elle-Marja, en ung samisk flicka som på 1930-talet vill lämna sin kultur bakom sig för att leva som svensk.\n\nJag tyckte att filmen var väldigt rörande. Skådespelerskan Lene Cecilia Sparrok är utmärkt i huvudrollen. Hon förmedlar huvudpersonens kluvenhet och längtan med stor känsla och naturlighet.\n\nBerättelsen belyser ett mörkt kapitel i Sveriges historia – tvångsassimileringen av det samiska folket. Det är svårt att inte känna sig berörd när man ser hur Elle-Marja tvingas välja mellan sin identitet och sina drömmar.\n\nVisserligen är filmen tung och ibland svår att se, men det är just det som gör den viktig. Den ger en röst åt en historia som länge har tystats ned.\n\nJag rekommenderar Sameblod varmt till alla som vill förstå mer om Sverige och samerna.\n\n**Betyg: 5 av 5**\n\n---\n\n## 🇨🇳 全文翻译\n\n**影评：《萨米血脉》（2016年）**\n\n《萨米血脉》是2016年的瑞典电影，由阿曼达·科内尔执导。电影讲述了埃勒-玛丽亚的故事——她是20世纪30年代一个年轻的萨米女孩，想要抛弃自己的文化、以瑞典人身份生活。\n\n我觉得这部电影非常感人。女演员莱纳·塞西莉亚·斯帕罗克在主角中表现出色，以深情自然的方式传达了主人公内心的矛盾与渴望。\n\n故事揭示了瑞典历史上一段黑暗篇章——对萨米人的强制同化。当我们看到埃勒-玛丽亚被迫在自己的身份和梦想之间做出选择时，很难不为之动容。\n\n诚然，这部电影沉重，有时令人痛苦，但正是这一点使它重要。它为一段长期被压制的历史发出了声音。\n\n我热烈推荐《萨米血脉》给所有想更多了解瑞典和萨米人的人。\n\n**评分：5/5**\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **handla om** — \"讲述……关于\"：*Filmen handlar om...* 是影评/书评的固定开头；*handla* 在此意为\"涉及/讲述\"，非\"购物\"。\n⚠️ **tyckte att vs tycker att** — *tyckte*（过去时）表示\"我当时觉得\"（看片后的感受），*tycker*（现在时）则是现在的持续观点；影评用过去时谈观影感受，用现在时谈客观评价。\n📐 **visserligen … men** — 让步结构：\"诚然……但……\"，考试写作高分词组；先承认对方观点再反驳，CEFR B1–B2 的标志性写法。\n📌 **ge en röst åt** — 比喻表达\"为……发声\"，字面意\"给……一个声音\"；类似 *ge utrymme åt*（给……空间）。\n\n---\n\n/import scenario-2026-06-23-recension-film.md",
+      "searchText": "scenario-2026-06-23-recension-film 🇸🇪 recension: sameblod — 电影评论：《萨米血脉》 # 🇸🇪 recension: sameblod — 电影评论：《萨米血脉》\n\n**类型 (type):** text\n**cefr 估计:** b1\n**生成日期:** 2026-06-23\n\n---\n\n## 瑞典语原文\n\n**recension: sameblod (2016)**\n\nsameblod är en svensk film från 2016, regisserad av amanda kernell. filmen handlar om elle-marja, en ung samisk flicka som på 1930-talet vill lämna sin kultur bakom sig för att leva som svensk.\n\njag tyckte att filmen var väldigt rörande. skådespelerskan lene cecilia sparrok är utmärkt i huvudrollen. hon förmedlar huvudpersonens kluvenhet och längtan med stor känsla och naturlighet.\n\nberättelsen belyser ett mörkt kapitel i sveriges historia – tvångsassimileringen av det samiska folket. det är svårt att inte känna sig berörd när man ser hur elle-marja tvingas välja mellan sin identitet och sina drömmar.\n\nvisserligen är filmen tung och ibland svår att se, men det är just det som gör den viktig. den ger en röst åt en historia som länge har tystats ned.\n\njag rekommenderar sameblod varmt till alla som vill förstå mer om sverige och samerna.\n\n**betyg: 5 av 5**\n\n---\n\n## 🇨🇳 全文翻译\n\n**影评：《萨米血脉》（2016年）**\n\n《萨米血脉》是2016年的瑞典电影，由阿曼达·科内尔执导。电影讲述了埃勒-玛丽亚的故事——她是20世纪30年代一个年轻的萨米女孩，想要抛弃自己的文化、以瑞典人身份生活。\n\n我觉得这部电影非常感人。女演员莱纳·塞西莉亚·斯帕罗克在主角中表现出色，以深情自然的方式传达了主人公内心的矛盾与渴望。\n\n故事揭示了瑞典历史上一段黑暗篇章——对萨米人的强制同化。当我们看到埃勒-玛丽亚被迫在自己的身份和梦想之间做出选择时，很难不为之动容。\n\n诚然，这部电影沉重，有时令人痛苦，但正是这一点使它重要。它为一段长期被压制的历史发出了声音。\n\n我热烈推荐《萨米血脉》给所有想更多了解瑞典和萨米人的人。\n\n**评分：5/5**\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **handla om** — \"讲述……关于\"：*filmen handlar om...* 是影评/书评的固定开头；*handla* 在此意为\"涉及/讲述\"，非\"购物\"。\n⚠️ **tyckte att vs tycker att** — *tyckte*（过去时）表示\"我当时觉得\"（看片后的感受），*tycker*（现在时）则是现在的持续观点；影评用过去时谈观影感受，用现在时谈客观评价。\n📐 **visserligen … men** — 让步结构：\"诚然……但……\"，考试写作高分词组；先承认对方观点再反驳，cefr b1–b2 的标志性写法。\n📌 **ge en röst åt** — 比喻表达\"为……发声\"，字面意\"给……一个声音\"；类似 *ge utrymme åt*（给……空间）。\n\n---\n\n/import scenario-2026-06-23-recension-film.md"
+    },
+    {
+      "slug": "scenario-2026-06-23-resa-med-buss-och-tag",
+      "file": "scenario-2026-06-23-resa-med-buss-och-tag.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "scenario",
+      "kindLabel": {
+        "zh": "情景练习",
+        "en": "scenario"
+      },
+      "title": "🇸🇪 Resa med buss och tåg — 乘公交和火车（在车站问询）",
+      "cefr": "A2",
+      "date": "2026-06-23",
+      "theme": "dialog",
+      "source": "",
+      "path": "imported/scenario-2026-06-23-resa-med-buss-och-tag.md",
+      "counts": {
+        "words": 12,
+        "phrases": 4,
+        "sentences": 18,
+        "grammar": 3
+      },
+      "itemTotal": 37,
+      "body": "# 🇸🇪 Resa med buss och tåg — 乘公交和火车（在车站问询）\n\n**类型 (type):** dialog\n**CEFR 估计:** A2\n**生成日期:** 2026-06-23\n\n---\n\n## 瑞典语原文\n\nA: Ursäkta, jag ska till Göteborg. Vilken perron avgår tåget från?\nB: Till Göteborg? Du tar tåget från spår tre. Avgångstiden är fjorton tjugo.\nA: Hur länge tar resan?\nB: Ungefär tre timmar med det direkta tåget.\nA: Måste jag byta?\nB: Nej, det är ett direkttåg. Men om du missar det, måste du byta i Hallsberg.\nA: Jag har bara ett busskort. Gäller det på tåget?\nB: Nej, du behöver en separat tågbiljett. Du kan köpa den i automaten eller i vår app.\nA: Är tåget försenat idag?\nB: Nej, det går i tid. Men kolla gärna avgångstavlan för eventuella ändringar.\nA: Tack! Var finns automaten?\nB: Den är rakt fram, bredvid ingången till spåren.\n\n---\n\n## 🇨🇳 全文翻译\n\nA：打扰一下，我要去哥德堡，火车从哪个站台出发？\nB：去哥德堡？你乘3号轨道的火车，出发时间是14:20。\nA：旅程需要多长时间？\nB：乘直达列车大约三小时。\nA：我需要换乘吗？\nB：不，这是直达列车。但如果你错过了，就需要在哈尔斯贝格换乘。\nA：我只有一张公交卡，它在火车上有效吗？\nB：不，你需要一张单独的火车票，可以在自动售票机或我们的 app 里购买。\nA：今天火车晚点吗？\nB：不，准时运行。但请查看出发显示屏以了解可能的变更。\nA：谢谢！自动售票机在哪里？\nB：在正前方，靠近进站入口。\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **spår vs perron** — 两者都指\"站台\"，但 *spår*（字面意\"轨道\"）更常用于指站台号，如 *spår 3*；*perron* 较正式。\n⚠️ **konditionalis med \"om\"** — 条件句：\"om du missar det, **måste** du byta\" = \"如果你错过了，就**必须**换乘\"；注意 *om*-从句用正常语序，不倒装。\n📐 **gäller det?** — *gälla* 在此意为\"有效\"：\"Gäller det på tåget?\" = \"它在火车上有效吗？\" 比 *är det giltigt* 更口语化。\n📌 **avgångstavlan** — 出发显示屏（*avgång* = 出发，*tavla* = 显示板），火车站常见词；*ankomst* = 到达。\n\n---\n\n/import scenario-2026-06-23-resa-med-buss-och-tag.md",
+      "searchText": "scenario-2026-06-23-resa-med-buss-och-tag 🇸🇪 resa med buss och tåg — 乘公交和火车（在车站问询） # 🇸🇪 resa med buss och tåg — 乘公交和火车（在车站问询）\n\n**类型 (type):** dialog\n**cefr 估计:** a2\n**生成日期:** 2026-06-23\n\n---\n\n## 瑞典语原文\n\na: ursäkta, jag ska till göteborg. vilken perron avgår tåget från?\nb: till göteborg? du tar tåget från spår tre. avgångstiden är fjorton tjugo.\na: hur länge tar resan?\nb: ungefär tre timmar med det direkta tåget.\na: måste jag byta?\nb: nej, det är ett direkttåg. men om du missar det, måste du byta i hallsberg.\na: jag har bara ett busskort. gäller det på tåget?\nb: nej, du behöver en separat tågbiljett. du kan köpa den i automaten eller i vår app.\na: är tåget försenat idag?\nb: nej, det går i tid. men kolla gärna avgångstavlan för eventuella ändringar.\na: tack! var finns automaten?\nb: den är rakt fram, bredvid ingången till spåren.\n\n---\n\n## 🇨🇳 全文翻译\n\na：打扰一下，我要去哥德堡，火车从哪个站台出发？\nb：去哥德堡？你乘3号轨道的火车，出发时间是14:20。\na：旅程需要多长时间？\nb：乘直达列车大约三小时。\na：我需要换乘吗？\nb：不，这是直达列车。但如果你错过了，就需要在哈尔斯贝格换乘。\na：我只有一张公交卡，它在火车上有效吗？\nb：不，你需要一张单独的火车票，可以在自动售票机或我们的 app 里购买。\na：今天火车晚点吗？\nb：不，准时运行。但请查看出发显示屏以了解可能的变更。\na：谢谢！自动售票机在哪里？\nb：在正前方，靠近进站入口。\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **spår vs perron** — 两者都指\"站台\"，但 *spår*（字面意\"轨道\"）更常用于指站台号，如 *spår 3*；*perron* 较正式。\n⚠️ **konditionalis med \"om\"** — 条件句：\"om du missar det, **måste** du byta\" = \"如果你错过了，就**必须**换乘\"；注意 *om*-从句用正常语序，不倒装。\n📐 **gäller det?** — *gälla* 在此意为\"有效\"：\"gäller det på tåget?\" = \"它在火车上有效吗？\" 比 *är det giltigt* 更口语化。\n📌 **avgångstavlan** — 出发显示屏（*avgång* = 出发，*tavla* = 显示板），火车站常见词；*ankomst* = 到达。\n\n---\n\n/import scenario-2026-06-23-resa-med-buss-och-tag.md"
     },
     {
       "slug": "uppfinning-2026-06-23-tetra-pak",
@@ -1207,6 +1347,23 @@ window.READING_DATA = {
       "body": "# akut — substantiv (en)\n\n📖 中文：急诊；急性的（**akuten** = 定形\"急诊室\"） · English: acute; the emergency room (akuten)\n发音提示：[\"aku:t]，重音在第二音节\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| obestämd sg | ett akut (fall) / en akut (situation) |\n| bestämd sg (sjukhusavdelning) | **akuten** (the ER) |\n| plural | akuter |\n| bestämd plural | akuterna |\n\n> 作形容词用时不变形：*ett akut problem*（紧急问题）。  \n> 最常见用法：名词 **(på) akuten** = 在急诊室。\n\n## 词组搭配 (Collocations)\n\n- `åka till akuten` — 去急诊 → 见 [[topic-hälsa]]\n- `vara på akuten` — 在急诊室\n- `komma in akut` — 被紧急送入\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kvinnor får vänta längre än män när de söker hjälp på akuten. — 🇨🇳 女性在急诊就医时，等待的时间比男性更长。\n- 🇸🇪 Förra året ökade besöken till akuten med 3 %. — 🇨🇳 去年急诊就诊量增长了 3%。\n- 🇸🇪 Längst tid på akuten hade patienter i Region Skåne. — 🇨🇳 在急诊待得最久的是斯科讷大区的病人。\n- 🇸🇪 Han fick åka akut till sjukhuset med magont. — 🇨🇳 他因腹痛被紧急送往医院。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: akutavdelning（急诊科）、akutfall（急诊案例）\n- 同义词: —\n- 反义词: planerad (vård)（计划内的医疗）\n- 主题: [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- **akuten**（带定冠词）特指\"急诊室\"这个地方，是口语中最常见的形式。\n- 形容词 akut 可修饰各类名词：*akut kris*（紧急危机）、*akut smärta*（急性疼痛）。"
     },
     {
+      "slug": "åldersgräns",
+      "lemma": "åldersgräns",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "年龄限制；年龄门槛",
+      "en": "age limit",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "åldersgräns",
+        "åldersgränsen",
+        "åldersgränser",
+        "åldersgränserna"
+      ],
+      "body": "# åldersgräns — substantiv en\n\n📖 中文：年龄限制；年龄门槛 · English: age limit\n发音提示：/ÅL-ders-gräns/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en åldersgräns |\n| bestämd sing | åldersgränsen |\n| obestämd pl | åldersgränser |\n| bestämd pl | åldersgränserna |\n\n## 词组搭配 (Collocations)\n\n- `sätta åldersgränser` — 设定年龄限制\n- `sänka åldersgränsen` — 降低年龄门槛\n- `åldersgräns på 18 år` — 18岁年龄限制\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lagstiftarna bör sätta åldersgränser för sociala medier. — 🇨🇳 立法者应为社交媒体设定年龄限制。\n- 🇸🇪 Det finns en åldersgräns på 16 år för att köpa alkohol. — 🇨🇳 购买酒精的年龄限制为16岁。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ålder（年龄）· gräns（界限/边界）\n- 相关词组: [[sätta-åldersgränser]]（设定年龄限制）\n- 主题: [[topic-samhälle-och-politik]]"
+    },
+    {
       "slug": "älg",
       "lemma": "älg",
       "ordklass": "substantiv",
@@ -1222,6 +1379,23 @@ window.READING_DATA = {
         "älgarna"
       ],
       "body": "# älg — substantiv (en)\n\n📖 中文：驼鹿；麋鹿 · English: moose/elk\n发音提示：/ɛlj/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| obestämd sg. | en älg |\n| bestämd sg. | älgen |\n| obestämd pl. | älgar |\n| bestämd pl. | älgarna |\n\n## 词组搭配 (Collocations)\n\n- `arg älg` — 愤怒的驼鹿\n- `älgjakt` — 驼鹿狩猎\n- `älg på vägen` — 路上的驼鹿（交通危险）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Älgen är Sveriges nationaldjur och är mycket stor. — 🇨🇳 驼鹿是瑞典的国家代表动物，非常大。\n- 🇸🇪 Vi stannade bilen för en älg på vägen. — 🇨🇳 我们停车让路上的驼鹿先过。\n- 🇸🇪 En arg älg kan vara farlig för människor. — 🇨🇳 一头愤怒的驼鹿对人类可能很危险。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[älgjakt]] (驼鹿狩猎), [[älgkött]] (驼鹿肉)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Älgen kallas ibland \"skogens konung\" (森林之王). Vanlig på svenska vägar höst/vinter — farlig.\n- 来源: [[source-2026-06-08-djur]]"
+    },
+    {
+      "slug": "algoritm",
+      "lemma": "algoritm",
+      "ordklass": "substantiv",
+      "cefr": "B2",
+      "zh": "算法",
+      "en": "algorithm",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "algoritm",
+        "algoritmen",
+        "algoritmer",
+        "algoritmerna"
+      ],
+      "body": "# algoritm — substantiv en\n\n📖 中文：算法 · English: algorithm\n发音提示：/al-go-RITM/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en algoritm |\n| bestämd sing | algoritmen |\n| obestämd pl | algoritmer |\n| bestämd pl | algoritmerna |\n\n## 词组搭配 (Collocations)\n\n- `anpassa algoritmen` — 调整算法\n- `algoritmerna styr` — 算法控制\n- `skadliga algoritmer` — 有害的算法\n\n## 例句 (Sentences)\n\n- 🇸🇪 Algoritmerna är utformade för att hålla användarna engagerade. — 🇨🇳 算法被设计为使用户保持参与/吸引用户。\n- 🇸🇪 Plattformarna måste anpassa sina algoritmer. — 🇨🇳 平台必须调整其算法。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-samhälle-och-politik]]"
     },
     {
       "slug": "alkohol",
@@ -1336,6 +1510,23 @@ window.READING_DATA = {
       "body": "# andas — verb (grupp 1, deponens)\n\n📖 中文：呼吸 · English: to breathe\n发音提示：AN-das；两音节，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att andas |\n| Presens | andas |\n| Preteritum | andades |\n| Supinum | (har) andats |\n\n注意：`andas` 是**反身动词（deponensverb）**，形式带 -s 但意义是主动的。\n\n## 词组搭配 (Collocations)\n\n- `andas ut` — 呼气；松一口气（比喻）→ see [[andas-ut]]\n- `andas in` — 吸气\n- `andas frisk luft` — 呼吸新鲜空气\n- `inte kunna andas` — 无法呼吸\n\n## 例句 (Sentences)\n\n- 🇸🇪 Äntligen kunde jag **andas** ut. — 🇨🇳 终于，我可以松一口气了。\n- 🇸🇈 Kom ut och **andas** frisk luft! — 🇨🇳 出来呼吸新鲜空气吧！\n- 🇸🇈 Djup**andas** tre gånger för att slappna av. — 🇨🇳 深呼吸三次来放松。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[andetag]] (ett, 一口气/呼吸), [[andning]] (en, 呼吸/呼吸作用)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-kropp]], [[topic-vardagsrutin]]\n\n## 用法提示 (Usage Notes)\n\n- `andas ut`（字面：呼出气）= 比喻放下心来/松一口气，非常自然的表达。\n- 作为 deponensverb，`andas` 的所有形式都带 `-s`，但意义是主动的，不是被动的。\n- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]"
     },
     {
+      "slug": "ändring",
+      "lemma": "ändring",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "变更；更改",
+      "en": "change; alteration",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "ändring",
+        "ändringen",
+        "ändringar",
+        "ändringarna"
+      ],
+      "body": "# ändring — substantiv en\n\n📖 中文：变更；更改 · English: change; alteration\n发音提示：/ÄND-ring/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en ändring |\n| bestämd sing | ändringen |\n| obestämd pl | ändringar |\n| bestämd pl | ändringarna |\n\n## 词组搭配 (Collocations)\n\n- `eventuella ändringar` — 可能的变更\n- `göra en ändring` — 进行更改\n- `utan ändring` — 不变\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kolla gärna avgångstavlan för eventuella ändringar. — 🇨🇳 请查看出发显示屏以了解可能的变更。\n- 🇸🇪 Det kan bli ändringar i tidtabellen. — 🇨🇳 时刻表可能会有变更。\n- 🇸🇪 Vi behöver göra en ändring i bokningen. — 🇨🇳 我们需要更改预订。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ändra（动词：更改）\n- 同义词: förändring（更大规模的变化）\n- 主题: [[topic-kollektivtrafik]]"
+    },
+    {
       "slug": "äng",
       "lemma": "äng",
       "ordklass": "substantiv",
@@ -1351,6 +1542,21 @@ window.READING_DATA = {
         "ängarna"
       ],
       "body": "# äng — substantiv\n\n📖 中文：草地；牧场 · English: meadow\n发音提示：[ɛŋ]，单音节，短元音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en äng |\n| bestämd singular | ängen |\n| obestämd plural | ängar |\n| bestämd plural | ängarna |\n\n## 词组搭配 (Collocations)\n\n- `gå ut i ängen` — 走进草地\n- `blomsteräng` — 野花草地（复合词）\n- `plocka blommor i ängen` — 在草地上采花\n\n## 例句 (Sentences)\n\n- 🇸🇪 På morgonen går Emma och hennes familj ut i ängen. — 🇨🇳 早上，爱玛和她的家人走进草地。\n- 🇸🇪 Ängen är full av vilda blommor på sommaren. — 🇨🇳 草地上在夏天开满了野花。\n- 🇸🇪 Vi sitter i ängen och tittar på molnen. — 🇨🇳 我们坐在草地上看云。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[blomsteräng]]\n- 同义词: [[gräsmatta]]\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典仲夏节最常见的场景词：全家走进 ängen 采花、装饰仲夏柱\n- 与 gräsmatta（人工草坪）区分：äng 是天然野生草地，常有野花"
+    },
+    {
+      "slug": "ångest",
+      "lemma": "ångest",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "焦虑；忧虑；恐惧感",
+      "en": "anxiety; anguish",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "ångest",
+        "ångesten"
+      ],
+      "body": "# ångest — substantiv en\n\n📖 中文：焦虑；忧虑；恐惧感 · English: anxiety; anguish\n发音提示：/ÅNG-est/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en ångest |\n| bestämd sing | ångesten |\n| (plural sällan) | — |\n\n## 词组搭配 (Collocations)\n\n- `lida av ångest` — 患有焦虑\n- `känna ångest` — 感到焦虑\n- `social ångest` — 社交焦虑\n\n## 例句 (Sentences)\n\n- 🇸🇪 Forskning visar att sociala medier kan leda till ångest. — 🇨🇳 研究表明社交媒体可能导致焦虑。\n- 🇸🇪 Hon lider av svår ångest. — 🇨🇳 她患有严重的焦虑症。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: ångestfylld（充满焦虑的）\n- 同义词: oro（担忧/不安，稍轻）\n- 主题: [[topic-samhälle-och-politik]]"
     },
     {
       "slug": "animerad",
@@ -1796,6 +2002,40 @@ window.READING_DATA = {
       "body": "# äta — verb (oregelbundet)\n\n📖 中文：吃 · English: to eat\n发音提示：ÄTA；两音节，ä 发开口前元音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att äta |\n| Presens | äter |\n| Preteritum | åt |\n| Supinum | (har) ätit |\n\n## 词组搭配 (Collocations)\n\n- `äta frukost` — 吃早饭\n- `äta lunch` — 吃午饭\n- `äta middag` — 吃晚饭\n- `äta upp` — 吃完/吃光\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag **åt** frukost snabbt innan jag gick. — 🇨🇳 我在出门前快速吃了早饭。\n- 🇸🇪 Vi **äter** alltid middag klockan sex. — 🇨🇳 我们总是六点吃晚饭。\n- 🇸🇪 Vad vill du **äta** idag? — 🇨🇳 你今天想吃什么？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[mat]] (en, 食物), [[ätbar]] (adj. 可食用的), [[måltid]] (en, 一顿饭)\n- 同义词: [[inta mat]] (进食，正式)\n- 反义词: [[dricka]] (v. 喝)\n- 主题: [[topic-vardagsrutin]]\n\n## 用法提示 (Usage Notes)\n\n- 不规则变形：äta → åt → ätit（强变化动词，元音轮换 ä→å→ä）。\n- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]"
     },
     {
+      "slug": "åtgärd",
+      "lemma": "åtgärd",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "措施；行动；手段",
+      "en": "measure; action; step",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "åtgärd",
+        "åtgärden",
+        "åtgärder",
+        "åtgärderna"
+      ],
+      "body": "# åtgärd — substantiv en\n\n📖 中文：措施；行动；手段 · English: measure; action; step\n发音提示：/ÅT-gärd/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en åtgärd |\n| bestämd sing | åtgärden |\n| obestämd pl | åtgärder |\n| bestämd pl | åtgärderna |\n\n## 词组搭配 (Collocations)\n\n- `politiska åtgärder` — 政治措施\n- `vidta åtgärder` — 采取措施\n- `det krävs åtgärder` — 需要采取措施\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det krävs politiska åtgärder för att lösa problemet. — 🇨🇳 解决这个问题需要政治措施。\n- 🇸🇪 Regeringen vidtar nya åtgärder mot brottsligheten. — 🇨🇳 政府正在采取新措施打击犯罪。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: åtgärda（动词：采取措施处理）\n- 相关词组: [[vidta-åtgärder]]（采取措施）\n- 主题: [[topic-samhälle-och-politik]]"
+    },
+    {
+      "slug": "automat",
+      "lemma": "automat",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "自动售票机；自动贩卖机",
+      "en": "ticket machine; vending machine; automat",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "automat",
+        "automaten",
+        "automater",
+        "automaterna"
+      ],
+      "body": "# automat — substantiv en\n\n📖 中文：自动售票机；自动贩卖机 · English: ticket machine; vending machine\n发音提示：/au-to-MAT/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en automat |\n| bestämd sing | automaten |\n| obestämd pl | automater |\n| bestämd pl | automaterna |\n\n## 词组搭配 (Collocations)\n\n- `biljettautomat` — 自动售票机\n- `köpa i automaten` — 在售票机购买\n- `pengautomat / bankomat` — 取款机/ATM\n\n## 例句 (Sentences)\n\n- 🇸🇪 Du kan köpa biljetten i automaten eller i vår app. — 🇨🇳 你可以在自动售票机或我们的 app 里购买。\n- 🇸🇪 Automaten är rakt fram, bredvid ingången. — 🇨🇳 自动售票机在正前方，靠近入口。\n- 🇸🇪 Accepterar automaten bankkort? — 🇨🇳 自动售票机接受银行卡吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: automatisk（自动的）\n- 主题: [[topic-kollektivtrafik]]"
+    },
+    {
       "slug": "avdelning",
       "lemma": "avdelning",
       "ordklass": "substantiv",
@@ -1828,6 +2068,40 @@ window.READING_DATA = {
         "avgångarna"
       ],
       "body": "# avgång — substantiv\n\n📖 中文：辞职；出发 · English: resignation; departure\n发音提示：/ˈɑːvˌgoŋ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en avgång |\n| bestämd singular | avgången |\n| obestämd plural | avgångar |\n| bestämd plural | avgångarna |\n\n## 词组搭配 (Collocations)\n\n- `meddela sin avgång` — 宣布辞职\n- `frivillig avgång` — 自愿离职\n- `tågets avgång` — 火车出发时间\n- `avgångstid` — 出发时间\n\n## 例句 (Sentences)\n\n**义项1 辞职 (resignation):**\n- 🇸🇪 Statsministern meddelade sin avgång efter förlusten i valet. — 🇨🇳 首相在选举失败后宣布辞职。\n- 🇸🇪 Partiet är chockat av ledarens plötsliga avgång. — 🇨🇳 党内对领导人突然辞职感到震惊。\n\n**义项2 出发 (departure — transport):**\n- 🇸🇪 Tågets avgång från Stockholm är klockan åtta. — 🇨🇳 火车从斯德哥尔摩出发的时间是八点。\n- 🇸🇪 Nästa avgång till Göteborg går om tio minuter. — 🇨🇳 下一班去哥德堡的车十分钟后出发。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[avgå]] (verb: 辞职/出发)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 一词多义关键区别：人的\"辞职\" vs. 交通工具的\"出发/班次\"\n- \"meddela sin avgång\" = 正式宣布辞职（常见于政治新闻）\n- tågets avgång = 火车出发，也可指具体\"一班次\""
+    },
+    {
+      "slug": "avgångstavla",
+      "lemma": "avgångstavla",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "出发显示屏；出发公告板",
+      "en": "departures board",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "avgångstavla",
+        "avgångstavlan",
+        "avgångstavlor",
+        "avgångstavlorna"
+      ],
+      "body": "# avgångstavla — substantiv en\n\n📖 中文：出发显示屏；出发公告板 · English: departures board\n发音提示：/AV-gongs-tav-la/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en avgångstavla |\n| bestämd sing | avgångstavlan |\n| obestämd pl | avgångstavlor |\n| bestämd pl | avgångstavlorna |\n\n## 词组搭配 (Collocations)\n\n- `kolla avgångstavlan` — 查看出发显示屏\n- `avgångstavlan visar...` — 出发显示屏显示……\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kolla gärna avgångstavlan för eventuella ändringar. — 🇨🇳 请查看出发显示屏以了解可能的变更。\n- 🇸🇪 Avgångstavlan finns vid entrén. — 🇨🇳 出发显示屏在入口处。\n- 🇸🇪 Enligt avgångstavlan avgår tåget om fem minuter. — 🇨🇳 根据出发显示屏，火车将在五分钟后出发。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[avgång]] · [[avgångstid]]\n- 主题: [[topic-kollektivtrafik]]"
+    },
+    {
+      "slug": "avgångstid",
+      "lemma": "avgångstid",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "出发时间",
+      "en": "departure time",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "avgångstid",
+        "avgångstiden",
+        "avgångstider",
+        "avgångstiderna"
+      ],
+      "body": "# avgångstid — substantiv en\n\n📖 中文：出发时间 · English: departure time\n发音提示：/AV-gongs-tid/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en avgångstid |\n| bestämd sing | avgångstiden |\n| obestämd pl | avgångstider |\n| bestämd pl | avgångstiderna |\n\n## 词组搭配 (Collocations)\n\n- `avgångstiden är...` — 出发时间是……\n- `kontrollera avgångstiden` — 核实出发时间\n\n## 例句 (Sentences)\n\n- 🇸🇪 Avgångstiden är fjorton tjugo. — 🇨🇳 出发时间是14:20。\n- 🇸🇪 Vad är avgångstiden för tåget till Malmö? — 🇨🇳 去马尔默的火车出发时间是什么？\n- 🇸🇪 Avgångstiderna finns på avgångstavlan. — 🇨🇳 出发时间在出发显示屏上。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[avgång]] · [[avgångstavla]]\n- 反义词: ankomsttid（到达时间）\n- 主题: [[topic-kollektivtrafik]]"
     },
     {
       "slug": "avrunda",
@@ -2202,6 +2476,23 @@ window.READING_DATA = {
       "body": "# bekymmersam — adjektiv\n\n📖 中文：令人担忧的；棘手的 · English: worrying; troublesome\n发音提示：[bɛ.\"çymɛrˌsam]，重音在 -sam\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| utrum sg | bekymmersam |\n| neutrum sg | bekymmersamt |\n| plural / bestämd | bekymmersamm**a** |\n\n> 常见中性形式 *bekymmersamt* 用于 *det är bekymmersamt*（这令人担忧）。\n\n## 词组搭配 (Collocations)\n\n- `det är bekymmersamt` — 这令人担忧\n- `en bekymmersam situation` — 一个令人担忧的处境\n- `bekymmersamt mönster` — 令人担忧的模式\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det är bekymmersamt, men vi vet inte vad det beror på. — 🇨🇳 这令人担忧，但我们还不知道原因是什么。\n- 🇸🇪 Situationen är bekymmersam för många patienter. — 🇨🇳 这种情况对许多病人来说令人担忧。\n- 🇸🇪 Det är ett bekymmersamt mönster som behöver undersökas. — 🇨🇳 这是一个需要调查的令人担忧的模式。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: bekymmer（名词，烦恼；担忧）、bekymra（使担忧）\n- 同义词: [[orolig]]（令人不安的）、oroande（令人担忧的）\n- 反义词: lugnande（令人放心的）\n- 主题: [[topic-hälsa]] · [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *bekymmersam* 是正式/书面语，口语中更常说 *oroande* 或 *jobbig*。\n- 注意 *bekymmersamt*（中性形）在 *det är…* 结构中最常见。"
     },
     {
+      "slug": "belysa",
+      "lemma": "belysa",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "阐明；揭示；照亮",
+      "en": "to illuminate; to highlight; to shed light on",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "belysa",
+        "belyser",
+        "belyste",
+        "belyst"
+      ],
+      "body": "# belysa — verb v.2a\n\n📖 中文：阐明；揭示；照亮 · English: to illuminate; to highlight; to shed light on\n发音提示：/be-LY-sa/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | belysa |\n| presens | belyser |\n| preteritum | belyste |\n| supinum | belyst |\n\n## 词组搭配 (Collocations)\n\n- `belysa ett problem` — 阐明一个问题\n- `belysa ett kapitel i historien` — 揭示历史的一章\n- `belysande exempel` — 具有说明性的例子\n\n## 例句 (Sentences)\n\n- 🇸🇪 Berättelsen belyser ett mörkt kapitel i Sveriges historia. — 🇨🇳 故事揭示了瑞典历史上一段黑暗篇章。\n- 🇸🇪 Rapporten belyser vikten av god utbildning. — 🇨🇳 报告阐明了良好教育的重要性。\n- 🇸🇪 Filmen belyser en ovanlig aspekt av livet. — 🇨🇳 电影揭示了生活的一个不寻常方面。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: belysning（照明；阐明）· [[ljus]]\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- 字面意义\"照亮\"（*belysning* = 照明）；引申义\"阐明/揭示\"（更常见于书面语）。"
+    },
+    {
       "slug": "ben",
       "lemma": "ben",
       "ordklass": "substantiv",
@@ -2250,6 +2541,22 @@ window.READING_DATA = {
         "berättelserna"
       ],
       "body": "# berättelse — substantiv\n\n📖 中文：故事；叙述 · English: story; narrative\n发音提示：/bɛˈrɛtɛlsɛ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en berättelse |\n| bestämd singular | berättelsen |\n| obestämd plural | berättelser |\n| bestämd plural | berättelserna |\n\n## 词组搭配 (Collocations)\n\n- `berätta en berättelse` — 讲一个故事\n- `en gammal berättelse` — 一个古老的故事\n- `berättelsen om...` — 关于…的故事\n- `cirkulera i hundratals år` — 流传数百年\n\n## 例句 (Sentences)\n\n- 🇸🇪 Berättelsen om Robin Hood har cirkulerat i hundratals år. — 🇨🇳 罗宾汉的故事已流传了数百年。\n- 🇸🇪 Mormor berättar alltid en spännande berättelse för barnbarnen. — 🇨🇳 外婆总是给孙子们讲一个精彩的故事。\n- 🇸🇪 Boken innehåller många korta berättelser om livet i Sverige. — 🇨🇳 这本书包含许多关于瑞典生活的短篇故事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[berätta]] (verb: 讲述), berättare (narrator), berättande (narrating)\n- 同义词: [[saga]] (fairy tale — more literary/fantasy)\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `berättelse` 是一般意义的\"故事/叙述\"，可以是真实或虚构的\n- `saga` 更偏向童话/神话，且更具文学色彩\n- `novell` = 短篇小说（更正式的文学体裁）"
+    },
+    {
+      "slug": "berörd",
+      "lemma": "berörd",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "感动的；受影响的；受波及的",
+      "en": "moved; touched; affected",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "berörd",
+        "berört",
+        "berörda"
+      ],
+      "body": "# berörd — adjektiv\n\n📖 中文：感动的；受影响的 · English: moved; touched; affected\n发音提示：/be-RÖRD/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sing | berörd |\n| neutrum sing | berört |\n| plural/bestämd | berörda |\n\n## 词组搭配 (Collocations)\n\n- `känna sig berörd` — 感到感动\n- `djupt berörd` — 深受感动\n- `de berörda personerna` — 受影响/相关的人（另一义）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det är svårt att inte känna sig berörd när man ser filmen. — 🇨🇳 看电影时很难不为之动容。\n- 🇸🇪 Jag var djupt berörd av hennes berättelse. — 🇨🇳 我被她的故事深深感动。\n- 🇸🇪 De berörda familjerna fick stöd. — 🇨🇳 受影响的家庭得到了支持。（另义：受波及的）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: beröra（动词：感动；接触）\n- 同义词: [[rörd]]（感动的）\n- 主题: [[topic-film]]\n\n## 用法提示 (Usage Notes)\n\n- *berörd* 有两个常见义：①情感上\"感动的\"（*känna sig berörd*）；②\"受影响的/相关的\"（较正式）。"
     },
     {
       "slug": "bestå",
@@ -2416,6 +2723,23 @@ window.READING_DATA = {
         "bildningen"
       ],
       "body": "# bildning — substantiv (en)\n\n📖 中文：教育；文化素养；知识培育 · English: education, formation, cultivation\n发音提示：**bild**-ning，重音在第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en bildning |\n| Singular bestämd | bildningen |\n| Plural | — (此义通常不用复数) |\n\n## 词组搭配 (Collocations)\n\n- `Sektorn för Lärande och bildning` — 学习与教育部门（官方机构名）\n- `allmän bildning` — 通识素养；博学\n- `bildning och kultur` — 教育与文化\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sektorn för Lärande och **bildning**, Sundbyberg stad.\n  🇨🇳 学习与教育部门，Sundbyberg 市。\n  📄 [[source-2026-06-03-sundbyberg-forskola]]\n- 🇸🇪 Allmän **bildning** är viktig för att förstå världen.\n  🇨🇳 通识素养对于理解这个世界非常重要。\n- 🇸🇪 Hon hade stor **bildning** inom musik och litteratur.\n  🇨🇳 她在音乐和文学方面有很高的文化素养。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bilda]] (动词：组建/教育), [[bildad]] (受过教育的/有素养的)\n- 同义词: [[utbildning]] (更偏正式学校教育/培训)\n- 反义词: —\n- 主题: [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- `bildning` 比 `utbildning` 更具人文/精神色彩，强调文化素养和全人发展，而非技能培训。\n- 常出现在官方机构名称中，如\"Sektorn för Lärande och bildning\"。\n- 与 [[lärande]] 并列使用时两者相辅相成：`lärande`（学习过程）+ `bildning`（知识素养成果）。"
+    },
+    {
+      "slug": "biljett",
+      "lemma": "biljett",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "车票；票",
+      "en": "ticket",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "biljett",
+        "biljetten",
+        "biljetter",
+        "biljetterna"
+      ],
+      "body": "# biljett — substantiv en\n\n📖 中文：车票；票 · English: ticket\n发音提示：/bi-LJETT/（借词自法语 billet）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en biljett |\n| bestämd sing | biljetten |\n| obestämd pl | biljetter |\n| bestämd pl | biljetterna |\n\n## 词组搭配 (Collocations)\n\n- `köpa en biljett` — 买票\n- `tågbiljett` — 火车票\n- `bussbiljett` — 公交票\n- `biljettautomat` — 自动售票机\n\n## 例句 (Sentences)\n\n- 🇸🇪 Du behöver en separat tågbiljett. — 🇨🇳 你需要一张单独的火车票。\n- 🇸🇪 Köp biljetten i automaten eller online. — 🇨🇳 在自动售票机或网上购票。\n- 🇸🇪 Hur mycket kostar en biljett till Göteborg? — 🇨🇳 去哥德堡的票多少钱？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: biljettautomat, tågbiljett, bussbiljett\n- 主题: [[topic-kollektivtrafik]]"
     },
     {
       "slug": "billig",
@@ -2863,6 +3187,23 @@ window.READING_DATA = {
       "body": "# bord — substantiv (ett)\n\n📖 中文：桌子 · English: table\n发音提示：[\"boord\"] — 长音 o\n\n## 语法变形 (Forms)\n\n| form | obestämd | bestämd |\n|------|----------|---------|\n| singular | ett bord | bordet |\n| plural | bord | borden |\n\n词组: obestämd sg. *ett bord* → bestämd sg. *bordet*；复数 *bord / borden*（无变化型）\n\n## 词组搭配 (Collocations)\n\n- `boka bord` — 预订桌位 → see [[har-ni-bokat-bord]]\n- `ledigt bord` — 空余桌位\n- `sätta sig vid bordet` — 坐到桌边\n\n## 例句 (Sentences)\n\n- 🇸🇪 Har ni bokat bord? — 🇨🇳 你们预订桌位了吗？\n- 🇸🇪 Vi har bokat ett bord för två. — 🇨🇳 我们预订了一张两人桌。\n- 🇸🇪 Bordet vid fönstret är ledigt. — 🇨🇳 靠窗的那张桌子空着。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]] · [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 在餐厅语境中 *bord* 特指就餐桌位。\n- *bordet* 是本场景中展示[[grammar-bestämd-form]]的典型例词。\n- 来源: [[source-2026-06-15-restaurang-middag]]"
     },
     {
+      "slug": "borgensman",
+      "lemma": "borgensman",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "担保人",
+      "en": "guarantor",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "borgensman",
+        "borgensmannen",
+        "borgensmän",
+        "borgensmännen"
+      ],
+      "body": "# borgensman — substantiv en\n\n📖 中文：担保人 · English: guarantor\n发音提示：/BOR-gens-man/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en borgensman |\n| bestämd sing | borgensmannen |\n| obestämd pl | borgensmän |\n| bestämd pl | borgensmännen |\n\n## 词组搭配 (Collocations)\n\n- `godkänd borgensman` — 经认可的担保人\n- `ange en borgensman` — 提供担保人\n- `borgen` — 担保（名词）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi söker en hyresgäst med fast anställning eller godkänd borgensman. — 🇨🇳 我们正在寻找有固定工作或经认可担保人的租户。\n- 🇸🇪 Mina föräldrar är borgensmannen för min lägenhet. — 🇨🇳 我父母是我公寓的担保人。\n- 🇸🇪 Hyresvärden kräver en borgensman. — 🇨🇳 房东要求一个担保人。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: borgen（担保）\n- 主题: [[topic-hemmet]]"
+    },
+    {
       "slug": "börja",
       "lemma": "börja",
       "ordklass": "verb",
@@ -3231,6 +3572,22 @@ window.READING_DATA = {
       "body": "# busshållplats — substantiv (en)\n\n📖 中文：公共汽车站 · English: bus stop\n发音提示：BUSS-holl-plats；三音节，重音在首音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en busshållplats |\n| Singular bestämd | busshållplatsen |\n| Plural obestämd | busshållplatser |\n| Plural bestämd | busshållplatserna |\n\n## 词组搭配 (Collocations)\n\n- `vänta vid busshållplatsen` — 在公交站等车\n- `stanna vid busshållplatsen` — 在公交站停靠\n- `vid busshållplatsen` — 在公共汽车站\n\n## 例句 (Sentences)\n\n- 🇸🇈 En buss **stannar** vid **busshållplatsen** framför butiken. — 🇨🇳 一辆公共汽车在超市前的公交站停靠。\n- 🇸🇈 Några människor **väntar** vid **busshållplatsen**. — 🇨🇳 几个人在公共汽车站等车。\n- 🇸🇈 Det finns en **busshållplats** nära parken. — 🇨🇳 公园附近有一个公共汽车站。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[buss]] (en, 公共汽车), [[hållplats]] (en, 站台), [[busslinje]] (en, 公交线路)\n- 同义词: [[hållplats]] (en, 站台，更通用)\n- 反义词: —\n- 主题: [[topic-trafik]], [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- `vid busshållplatsen`（在公交站）是最常见搭配，介词用 `vid`。\n- `hållplats` 可指公交、电车等各种站台，`busshållplats` 特指公共汽车站。\n- 来源: [[source-2026-06-09-beskriva-en-gata]]"
     },
     {
+      "slug": "busskort",
+      "lemma": "busskort",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "公交卡；公共交通卡",
+      "en": "bus card; transit card",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "busskort",
+        "busskortet",
+        "busskorten"
+      ],
+      "body": "# busskort — substantiv ett\n\n📖 中文：公交卡；公共交通卡 · English: bus card; transit card\n发音提示：/BUSS-kort/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | ett busskort |\n| bestämd sing | busskortet |\n| obestämd pl | busskort |\n| bestämd pl | busskorten |\n\n## 词组搭配 (Collocations)\n\n- `gäller på bussen` — 在公交车上有效\n- `ladda busskortet` — 给公交卡充值\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag har bara ett busskort. — 🇨🇳 我只有一张公交卡。\n- 🇸🇪 Gäller busskortet på tåget också? — 🇨🇳 公交卡在火车上也有效吗？\n- 🇸🇪 Jag glömde mitt busskort hemma. — 🇨🇳 我把公交卡忘在家了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[buss]] · [[kort]]\n- 同义词: [[månadskort]]（月票）\n- 主题: [[topic-kollektivtrafik]]"
+    },
+    {
       "slug": "by",
       "lemma": "by",
       "ordklass": "substantiv",
@@ -3281,6 +3638,24 @@ window.READING_DATA = {
         "byggnaderna"
       ],
       "body": "# byggnad — substantiv (en)\n\n📖 中文：建筑；楼 · English: building\n发音提示：BYGG-nad；两音节，gg 发浊音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byggnad |\n| Singular bestämd | byggnaden |\n| Plural obestämd | byggnader |\n| Plural bestämd | byggnaderna |\n\n## 词组搭配 (Collocations)\n\n- `stor röd byggnad` — 大红楼\n- `historisk byggnad` — 历史建筑\n- `offentlig byggnad` — 公共建筑\n- `byggnadsarbetare` — 建筑工人\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bygga]] (v. 建造), [[byggare]] (建造者), [[byggnation]] (建设活动)\n- 同义词: [[hus]] (ett, 房屋/楼), [[lokal]] (en, 场所/房间)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `byggnad` 偏正式，指建筑物整体；`hus` 更口语，通常指住宅/房屋。"
+    },
+    {
+      "slug": "byta",
+      "lemma": "byta",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "换乘；更换；交换",
+      "en": "to transfer (transport); to change; to exchange",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "byta",
+        "byter",
+        "bytte",
+        "bytt",
+        "byt"
+      ],
+      "body": "# byta — verb v.2r\n\n📖 中文：换乘；更换；交换 · English: to transfer; to change; to exchange\n发音提示：/BY-ta/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | byta |\n| presens | byter |\n| preteritum | bytte |\n| supinum | bytt |\n| imperativ | byt |\n\n## 词组搭配 (Collocations)\n\n- `byta tåg` — 换乘火车\n- `byta buss` — 换乘公交\n- `byta i Hallsberg` — 在哈尔斯贝格换乘\n- `byta kläder` — 换衣服\n\n## 例句 (Sentences)\n\n- 🇸🇪 Måste jag byta? — 🇨🇳 我需要换乘吗？\n- 🇸🇪 Om du missar det, måste du byta i Hallsberg. — 🇨🇳 如果你错过了，就需要在哈尔斯贝格换乘。\n- 🇸🇪 Vi måste byta buss vid centralstationen. — 🇨🇳 我们需要在中央车站换乘公交。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[byteskö]]（换乘队列）\n- 主题: [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- 换乘交通：*byta tåg/buss* 或直接 *byta*（省略交通工具名词）。\n- 其他用法：*byta kläder*（换衣服）、*byta pengar*（兑换货币）。"
     },
     {
       "slug": "byteskö",
@@ -3596,6 +3971,23 @@ window.READING_DATA = {
         "direkta"
       ],
       "body": "# direkt — adjektiv/adverb\n\n📖 中文：直接地；立刻；直接的 · English: directly; right away; direct\n发音提示：/dɪˈrɛkt/；法语/拉丁语借词。\n\n## 语法变形 (Forms)\n\n> 作为副词时不变形。作为形容词时：\n\n| Form | Swedish |\n|------|---------|\n| Utrum / Neutrum | direkt |\n| Plural / bestämd form | direkta |\n\n## 词组搭配 (Collocations)\n\n- `direkt nu` — 立刻；马上\n- `gå direkt till` — 直接去到\n- `direkt svar` — 直接的回答\n- `stämpla direkt` — 马上盖章\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag stämplar för dagens kaffe direkt. — 🇨🇳 我直接（立刻）给你今天这杯咖啡的卡盖章。\n- 🇸🇪 Ring mig direkt om det händer något. — 🇨🇳 如果发生什么事马上打电话给我。\n- 🇸🇪 Ta en direkt buss till centrum. — 🇨🇳 坐直达巴士到市中心。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[genast]] (立刻/马上), omedelbart（即刻）\n- 反义词: indirekt（间接地）\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `direkt` 最常用作副词，意为\"立刻/马上\"或\"直接地\"。\n- 作形容词表示\"直接的\"（无中间环节）：`en direkt flygning`（直飞航班）。\n- 来源: [[source-2026-06-19-pa-cafe-bestalla]]"
+    },
+    {
+      "slug": "diskmaskin",
+      "lemma": "diskmaskin",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "洗碗机",
+      "en": "dishwasher",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "diskmaskin",
+        "diskmaskinen",
+        "diskmaskiner",
+        "diskmaskinerna"
+      ],
+      "body": "# diskmaskin — substantiv en\n\n📖 中文：洗碗机 · English: dishwasher\n发音提示：/DISK-ma-shin/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en diskmaskin |\n| bestämd sing | diskmaskinen |\n| obestämd pl | diskmaskiner |\n| bestämd pl | diskmaskinerna |\n\n## 词组搭配 (Collocations)\n\n- `kök med diskmaskin` — 配有洗碗机的厨房\n- `diska för hand` — 手洗碗（无洗碗机时）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lägenheten har nyrenoverat kök med diskmaskin. — 🇨🇳 公寓配有翻新厨房（含洗碗机）。\n- 🇸🇪 Kan jag använda diskmaskinen? — 🇨🇳 我可以使用洗碗机吗？\n- 🇸🇪 Diskmaskinen är full. — 🇨🇳 洗碗机装满了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: diska（洗碗）· [[tvättmaskin]]（洗衣机）\n- 主题: [[topic-hemmet]]"
     },
     {
       "slug": "djur",
@@ -4950,6 +5342,23 @@ window.READING_DATA = {
       "body": "# förlag — substantiv (ett)\n\n📖 中文：出版社；出版商 · English: publishing house; publisher\n发音提示：**FÖR-lag**；重音在第一音节，`ö` 类似英语 *bird* 中的元音但更圆唇。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett förlag |\n| Singular bestämd | förlaget |\n| Plural obestämd | förlag |\n| Plural bestämd | förlagen |\n\n📌 `förlag` 是 **ett-ord**，单数不定式和复数不定式同形：`ett förlag` / `flera förlag`。\n\n## 词组搭配 (Collocations)\n\n- `ett stort/litet förlag` — 大/小出版社\n- `ett svenskt förlag` — 一家瑞典出版社\n- `skicka ett manus till ett förlag` — 把手稿寄给出版社\n- `jobba på ett förlag` — 在出版社工作\n- `förlaget ger ut en bok` — 出版社出版一本书\n- `ett oberoende förlag` — 独立出版社\n- `förlagets redaktör` — 出版社的编辑\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon skickade sitt manus till flera förlag.  \n  🇨🇳 她把自己的手稿寄给了好几家出版社。\n- 🇸🇪 Förlaget ville ge ut boken nästa år.  \n  🇨🇳 出版社想在明年出版这本书。\n- 🇸🇪 Min vän jobbar på ett litet förlag i Stockholm.  \n  🇨🇳 我的朋友在斯德哥尔摩一家小出版社工作。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bokförlag]] (ett, 出版社), [[förläggare]] (en, 出版人/出版商)\n- 同义词: [[bokförlag]]（更明确指“图书出版社”）\n- 反义词: —\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `förlag` 可指公司/机构本身；`bokförlag` 更明确是“图书出版社”。日常说出版社时两者都常见。\n- `förlaget` 常用于指代前文提到的那一家出版社：*Förlaget tackade nej.* — 出版社拒绝了。\n- 和动词 [[publicera]]、短语 `ge ut`（出版）经常一起出现：出版社 **publicerar / ger ut** böcker。"
     },
     {
+      "slug": "förlängning",
+      "lemma": "förlängning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "续期；延长",
+      "en": "extension; renewal",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "förlängning",
+        "förlängningen",
+        "förlängningar",
+        "förlängningarna"
+      ],
+      "body": "# förlängning — substantiv en\n\n📖 中文：续期；延长 · English: extension; renewal\n发音提示：/för-LÄNG-ning/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en förlängning |\n| bestämd sing | förlängningen |\n| obestämd pl | förlängningar |\n| bestämd pl | förlängningarna |\n\n## 词组搭配 (Collocations)\n\n- `möjlighet till förlängning` — 可续租/可续期\n- `förlängning av kontrakt` — 合同续签\n- `automatisk förlängning` — 自动续期\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kontraktstiden är ett år med möjlighet till förlängning. — 🇨🇳 合同期为一年，可续租。\n- 🇸🇪 Vi vill begära en förlängning. — 🇨🇳 我们想申请续期。\n- 🇸🇪 Förlängningen av hyresavtalet godkändes. — 🇨🇳 租约续签获得批准。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: förlänga（动词：延长/续签）\n- 主题: [[topic-hemmet]]"
+    },
+    {
       "slug": "förlåt",
       "lemma": "förlåt",
       "ordklass": "interjektion",
@@ -4983,6 +5392,23 @@ window.READING_DATA = {
         "förlusterna"
       ],
       "body": "# förlust — substantiv (en)\n\n📖 中文：丢失；损失；失败 · English: loss\n发音提示：för-LUST；两音节，重音在末音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en förlust |\n| Singular bestämd | förlusten |\n| Plural obestämd | förluster |\n| Plural bestämd | förlusterna |\n\n## 词组搭配 (Collocations)\n\n- `anmäla förlusten` — 报告丢失情况\n- `en stor förlust` — 一大损失\n- `lida en förlust` — 遭受损失\n- `ekonomisk förlust` — 经济损失\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag gick till polisen och anmälde **förlusten**. — 🇨🇳 我去警察局报告了丢失情况。\n- 🇸🇈 Det var en stor **förlust** för hela laget. — 🇨🇳 这对整个团队来说是很大的损失。\n- 🇸🇈 Företaget redovisade en **förlust** på fem miljoner kronor. — 🇨🇳 公司公告了五百万克朗的亏损。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förlora]] (v. 失去/输), [[vinst]] (en, 获利/胜利，反义)\n- 同义词: [[bortfall]] (ett, 缺失/短缺)\n- 反义词: [[vinst]] (en, 获利/赢)\n- 主题: [[topic-vardagsrutin]]\n\n## 用法提示 (Usage Notes)\n\n- `förlust` 可指实物丢失、财务损失或比赛失败。\n- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]"
+    },
+    {
+      "slug": "förmedla",
+      "lemma": "förmedla",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "传达；传递；传播",
+      "en": "to convey; to communicate; to mediate",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "förmedla",
+        "förmedlar",
+        "förmedlade",
+        "förmedlat"
+      ],
+      "body": "# förmedla — verb v.1\n\n📖 中文：传达；传递；传播 · English: to convey; to communicate\n发音提示：/för-MED-la/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | förmedla |\n| presens | förmedlar |\n| preteritum | förmedlade |\n| supinum | förmedlat |\n\n## 词组搭配 (Collocations)\n\n- `förmedla känslor` — 传达情感\n- `förmedla ett budskap` — 传递一个信息\n- `förmedla kluvenhet` — 传达矛盾心理\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon förmedlar huvudpersonens kluvenhet med stor känsla. — 🇨🇳 她以深情的方式传达了主人公的矛盾心理。\n- 🇸🇪 Musiken förmedlar en känsla av hopp. — 🇨🇳 音乐传递出一种希望的感觉。\n- 🇸🇪 Läraren förmedlar kunskap på ett tydligt sätt. — 🇨🇳 老师以清晰的方式传授知识。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: förmedling（名词：传达；中介）· förmedlare（传达者）\n- 主题: [[topic-film]] · [[topic-litteratur-och-kultur]]"
     },
     {
       "slug": "förmiddag",
@@ -5050,6 +5476,22 @@ window.READING_DATA = {
       "body": "# förresten — adverb\n\n📖 中文：顺带一提；对了 · English: by the way; incidentally\n发音提示：för-RES-ten\n\n## 语法变形 (Forms)\n\n- Adverb/diskursmarkör: oförändrad\n\n## 词组搭配 (Collocations)\n\n- `förresten, ...` — 对了，……（转换话题）\n- `det var förresten...` — 顺带一提，……\n\n## 例句 (Sentences)\n\n- 🇸🇪 Förresten, vad gjorde du i helgen? — 🇨🇳 对了，你周末干什么了？\n- 🇸🇪 Förresten — vill du ha en bulle till? — 🇨🇳 对了——你再来一个面包卷吗？\n- 🇸🇪 Förresten, jag glömde berätta om konserten. — 🇨🇳 对了，我忘了告诉你关于那场音乐会的事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: för övrigt (此外), apropå (顺便一提)\n\n## 用法提示 (Usage Notes)\n\n- *Förresten* 是口语中常用的话题转换词，相当于英语 \"by the way\" 或中文\"对了/顺带说一句\"。\n- 常放在句子开头，后接逗号。"
     },
     {
+      "slug": "försenad",
+      "lemma": "försenad",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "晚点的；延误的",
+      "en": "delayed; late",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "försenad",
+        "försenat",
+        "försenade"
+      ],
+      "body": "# försenad — adjektiv\n\n📖 中文：晚点的；延误的 · English: delayed; late\n发音提示：/för-SE-nad/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sing | försenad |\n| neutrum sing | försenat |\n| plural/bestämd | försenade |\n\n## 词组搭配 (Collocations)\n\n- `tåget är försenat` — 火车晚点了\n- `fem minuter försenat` — 晚点五分钟\n- `försening` — 延误（名词）\n\n## exempel (Sentences)\n\n- 🇸🇪 Är tåget försenat idag? — 🇨🇳 今天火车晚点吗？\n- 🇸🇪 Tåget är tio minuter försenat. — 🇨🇳 火车晚点十分钟。\n- 🇸🇪 Flyget var inte försenat. — 🇨🇳 飞机没有晚点。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: försening（延误/晚点，名词）\n- 主题: [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- 形容词，与名词性别一致：*ett försenat tåg*（neutrum）；*tåget är försenat*（predikativ）。"
+    },
+    {
       "slug": "försiktig",
       "lemma": "försiktig",
       "ordklass": "adjektiv",
@@ -5080,6 +5522,21 @@ window.READING_DATA = {
         "forskarna"
       ],
       "body": "# forskare — substantiv (en-ord)\n\n📖 中文：研究员 · English: researcher\n发音提示：FORS-ka-re\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en forskare |\n| bestämd singular | forskaren |\n| obestämd plural | forskare |\n| bestämd plural | forskarna |\n\n## 词组搭配 (Collocations)\n\n- `en forskare vid universitetet` — 大学研究员\n- `arbeta som forskare` — 从事研究工作\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[forska]], [[forskning]]\n- 同义词: [[vetenskapsman]]\n- 反义词: []\n- 主题: [[topic-yrken]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord. Plural oförändrad: forskare/forskarna (dekl. 5 — samma singular och plural).\n- Se [[grammar-substantiv-plural]], [[grammar-en-ord-ett-ord]]"
+    },
+    {
+      "slug": "forskning",
+      "lemma": "forskning",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "研究；科学研究",
+      "en": "research",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "forskning",
+        "forskningen"
+      ],
+      "body": "# forskning — substantiv en\n\n📖 中文：研究；科学研究 · English: research\n发音提示：/FORSK-ning/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en forskning |\n| bestämd sing | forskningen |\n| (plural sällan) | — |\n\n## 词组搭配 (Collocations)\n\n- `forskning visar att` — 研究表明……\n- `ny forskning` — 新研究\n- `bedriva forskning` — 开展研究\n\n## 例句 (Sentences)\n\n- 🇸🇪 Forskning visar att ett överdrivet användande kan leda till ångest. — 🇨🇳 研究表明过度使用可能导致焦虑。\n- 🇸🇪 Ny forskning tyder på att motion är viktigt. — 🇨🇳 新研究表明运动很重要。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: forska（动词：研究）· forskare（研究员）\n- 主题: [[topic-samhälle-och-politik]]"
     },
     {
       "slug": "förskola",
@@ -6240,6 +6697,23 @@ window.READING_DATA = {
       "body": "# hålla — verb\n\n📖 中文：拿着；保持；举行；同意 · English: hold; keep; last; agree with\n发音提示：/ˈhɔlːa/\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| infinitiv | hålla |\n| presens | håller |\n| preteritum | höll |\n| supinum | hållit |\n| imperativ | håll! |\n\n## 词组搭配 (Collocations)\n\n- `hålla med` — 同意 → see [[hålla-med]]\n- `hålla på` — 正在做 → see [[hålla-på]]\n- `hålla någon sällskap` — 陪伴某人 → see [[hålla-någon-sällskap]]\n- `hålla på att` — 正要（快要）→ 口语\n\n## 例句 (Sentences)\n\n- 🇸🇪 Håll i väskan när du åker tunnelbana. — 🇨🇳 坐地铁时拿紧包包。\n- 🇸🇪 Håller du med mig? — 🇨🇳 你同意我吗？\n- 🇸🇪 Vad håller du på med? — 🇨🇳 你在干什么？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: hållbar (可持续的), hållning (姿势/立场), busshållplats (公交站)\n- 主题:\n\n## 用法提示 (Usage Notes)\n\n- `hålla` 有大量 partikelverb：hålla med (同意)、hålla på (正在做)、hålla ut (坚持)、hålla kvar (继续保持)。\n- oregelbundet: hålla – håller – höll – hållit。"
     },
     {
+      "slug": "halloumi",
+      "lemma": "halloumi",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "哈鲁米奶酪",
+      "en": "halloumi cheese",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "halloumi",
+        "halloumin",
+        "halloumier",
+        "halloumierna"
+      ],
+      "body": "# halloumi — substantiv ett\n\n📖 中文：哈鲁米奶酪 · English: halloumi cheese\n发音提示：/ha-LOO-mi/（借词自塞浦路斯希腊语）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | ett halloumi |\n| bestämd sing | halloumin |\n| obestämd pl | halloumier / halloumi |\n| bestämd pl | halloumierna |\n\n## 词组搭配 (Collocations)\n\n- `halloumi på grillen` — 烤哈鲁米 → [[topic-mat-dryck]]\n- `stekt halloumi` — 煎哈鲁米\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag letar efter halloumi. — 🇨🇳 我在找哈鲁米奶酪。\n- 🇸🇪 Halloumit ligger i kylen på osthyllan. — 🇨🇳 哈鲁米奶酪在冷藏区的奶酪货架上。\n- 🇸🇪 Kan du grilla halloumin? — 🇨🇳 你能把哈鲁米奶酪烤一下吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 一种地中海风格的硬奶酪（原产塞浦路斯），烧烤不会融化，瑞典超市常见。\n- 通常在 *osthyllan*（奶酪货架）或 *mejeriavdelningen*（乳制品区）。"
+    },
+    {
       "slug": "hållplats",
       "lemma": "hållplats",
       "ordklass": "substantiv",
@@ -6646,6 +7120,23 @@ window.READING_DATA = {
       "body": "# het — adjektiv\n\n📖 中文：热的、烫的、辣的 · English: hot (temperature), spicy\n发音提示：[heːt]\n\n## 语法变形 (Forms)\n\n| form | en-ord | ett-ord | plural / def |\n|------|--------|---------|--------------|\n| positiv | het | hett | heta |\n| komparativ | hetare | hetare | hetare |\n| superlativ | hetast / hetaste | hetast | hetaste |\n\n## 词组搭配 (Collocations)\n\n- `het soppa` — 烫汤 → see [[soppa]]\n- `het chili` — 辣椒\n- `hetare kryddor` — 更辣的香料\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: hetta (高热/酷热 n), hetta (变得极热 v)\n- 同义词: [[varm]]（更温和的\"热/温暖\"）\n- 反义词: [[kall]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- het 比 varm 更强烈：het = 很烫 / 辣；varm = 温暖。ett-ord 形式 hett（双写 t）。\n- [[grammar-adjektiv-bojning]]\n- 来源: [[source-2026-06-11-mat-dryck]]"
     },
     {
+      "slug": "hiss",
+      "lemma": "hiss",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "电梯",
+      "en": "elevator; lift",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "hiss",
+        "hissen",
+        "hissar",
+        "hissarna"
+      ],
+      "body": "# hiss — substantiv en\n\n📖 中文：电梯 · English: elevator; lift\n发音提示：/HISS/（短i）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en hiss |\n| bestämd sing | hissen |\n| obestämd pl | hissar |\n| bestämd pl | hissarna |\n\n## 词组搭配 (Collocations)\n\n- `med hiss` — 有电梯的\n- `ta hissen` — 乘电梯\n- `hissen är trasig` — 电梯坏了\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lägenheten finns på fjärde våningen med hiss. — 🇨🇳 公寓在四楼，有电梯。\n- 🇸🇪 Ta hissen upp till tredje våningen. — 🇨🇳 乘电梯上三楼。\n- 🇸🇪 Hissen var tyvärr ur funktion. — 🇨🇳 电梯很遗憾地坏了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: trappa（楼梯）\n- 主题: [[topic-hemmet]] · [[topic-stadsmiljo]]"
+    },
+    {
       "slug": "hitta",
       "lemma": "hitta",
       "ordklass": "verb",
@@ -7032,6 +7523,40 @@ window.READING_DATA = {
       "body": "# hylla — substantiv (en)\n\n📖 中文：架子；搁板 · English: shelf\n发音提示：HYL-la；två stavelser.\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en hylla |\n| Singular bestämd | hyllan |\n| Plural obestämd | hyllor |\n| Plural bestämd | hyllorna |\n\n## 词组搭配 (Collocations)\n\n- `den översta hyllan` — 最上面那层架子\n- `på hyllan` — 在架子上\n- `en väggmonterad hylla` — 壁挂式架子\n\n## 例句 (Sentences)\n\n- 🇸🇈 Ett foto **sitter** på den **översta hyllan**. — 🇨🇳 一张照片固定在最上面那层架子上。\n- 🇸🇈 Böckerna **står** på hyllan. — 🇨🇳 书竖着放在架子上。\n- 🇸🇈 Sätt glaset på hyllan i kylen. — 🇨🇳 把杯子放到冰箱里的架子上。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bokhylla]] (书架), [[överst]] (最上面), [[hyllplan]] (搁板)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- `hylla` 指单层架板；`bokhylla` 是带多层架板的整体书架。\n- 物品在架子上：用 **stå**（竖立的书/瓶子）或 **sitta**（固定贴附的照片）。\n- 来源: [[source-2026-06-09-rumsliga-relationer]]"
     },
     {
+      "slug": "hyra",
+      "lemma": "hyra",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "租金",
+      "en": "rent",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "hyra",
+        "hyran",
+        "hyror",
+        "hyrorna"
+      ],
+      "body": "# hyra — substantiv en\n\n📖 中文：租金 · English: rent\n发音提示：/HY-ra/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en hyra |\n| bestämd sing | hyran |\n| obestämd pl | hyror |\n| bestämd pl | hyrorna |\n\n## 词组搭配 (Collocations)\n\n- `betala hyran` — 付租金\n- `hyran är X kronor per månad` — 月租是X克朗\n- `hyreshöjning` — 涨租\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hyran är 8 500 kronor per månad, inklusive el och vatten. — 🇨🇳 月租8500克朗，含水电费。\n- 🇸🇪 Hyran är för dyr för mig. — 🇨🇳 对我来说租金太贵了。\n- 🇸🇪 Hyran betalas den första varje månad. — 🇨🇳 租金每月一号支付。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[uthyra]]（出租）· [[hyresgäst]]（租户）\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- *hyra* 既是名词（租金）也是动词（租用）：*hyra en lägenhet*（租一套公寓）。\n- 动词 *hyra* vs *uthyra*：*hyra* = 租入（tenant视角）；*uthyra/hyra ut* = 出租（landlord视角）。"
+    },
+    {
+      "slug": "hyresgäst",
+      "lemma": "hyresgäst",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "租户；房客",
+      "en": "tenant; renter",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "hyresgäst",
+        "hyresgästen",
+        "hyresgäster",
+        "hyresgästerna"
+      ],
+      "body": "# hyresgäst — substantiv en\n\n📖 中文：租户；房客 · English: tenant; renter\n发音提示：/HY-re-jest/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en hyresgäst |\n| bestämd sing | hyresgästen |\n| obestämd pl | hyresgäster |\n| bestämd pl | hyresgästerna |\n\n## 词组搭配 (Collocations)\n\n- `söka en hyresgäst` — 寻找租户\n- `hyresgäst med fast anställning` — 有固定工作的租户\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi söker en hyresgäst med fast anställning. — 🇨🇳 我们正在寻找有固定工作的租户。\n- 🇸🇪 Hyresgästen måste betala hyran i tid. — 🇨🇳 租户必须按时缴纳租金。\n- 🇸🇪 Hur länge har du bott som hyresgäst här? — 🇨🇳 你在这里租住多久了？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hyra]] · [[uthyra]]\n- 反义词: hyresvärd（房东）\n- 主题: [[topic-hemmet]]"
+    },
+    {
       "slug": "igelkott",
       "lemma": "igelkott",
       "ordklass": "substantiv",
@@ -7063,6 +7588,23 @@ window.READING_DATA = {
         "inblandade"
       ],
       "body": "# inblandad — adjektiv\n\n📖 中文：被卷入的，介入的 · English: involved, implicated\n发音提示：IN-bland-ad\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sing. | inblandad |\n| neutrum sing. | inblandat |\n| plural / bestämd | inblandade |\n\n词源：perfektparticip av **blanda in**（混入/介入）→ inblandad\n\n## 词组搭配 (Collocations)\n\n- `vara inblandad i` — 卷入……，参与……\n- `bli inblandad i ett brott` — 被卷入犯罪\n- `de inblandade parterna` — 涉及的各方\n\n## 例句 (Sentences)\n\n- 🇸🇪 Alla inblandade parter måste ta ansvar. — 🇨🇳 所有涉及各方都必须承担责任。\n- 🇸🇪 Han var inte inblandad i brottet. — 🇨🇳 他没有涉及这起犯罪。\n- 🇸🇪 Vilka länder är inblandade i konflikten? — 🇨🇳 哪些国家卷入了这场冲突？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: blanda in（混入），inblandning（介入）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常与介词 **i** 搭配：**vara inblandad i något**（卷入某事）。\n- 是动词 **blanda in** 的过去分词/形容词形式，blanda in = 将某物混入；(被动) bli inblandad = 被卷入。\n- 来源: [[source-2026-06-22-listening-svt-latt]]"
+    },
+    {
+      "slug": "ingång",
+      "lemma": "ingång",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "入口",
+      "en": "entrance",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "ingång",
+        "ingången",
+        "ingångar",
+        "ingångarna"
+      ],
+      "body": "# ingång — substantiv en\n\n📖 中文：入口 · English: entrance\n发音提示：/IN-gong/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en ingång |\n| bestämd sing | ingången |\n| obestämd pl | ingångar |\n| bestämd pl | ingångarna |\n\n## 词组搭配 (Collocations)\n\n- `vid ingången` — 在入口处\n- `bredvid ingången` — 在入口旁边\n- `ingången till spåren` — 进站入口\n\n## 例句 (Sentences)\n\n- 🇸🇪 Den är rakt fram, bredvid ingången till spåren. — 🇨🇳 在正前方，靠近进站入口。\n- 🇸🇪 Vi möts vid ingången klockan åtta. — 🇨🇳 我们八点在入口处见。\n- 🇸🇪 Ingången är på baksidan av byggnaden. — 🇨🇳 入口在建筑物的背面。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gå]] · [[utgång]]\n- 反义词: [[utgång]]（出口）\n- 主题: [[topic-stadsmiljo]]"
     },
     {
       "slug": "ingen",
@@ -8063,6 +8605,22 @@ window.READING_DATA = {
       "body": "# klubblag — substantiv\n\n📖 中文：俱乐部球队 · English: club team\n发音提示：['klɵbˌlaːg]\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Obestämd singular | ett klubblag |\n| Bestämd singular | klubblaget |\n| Obestämd plural | klubblag |\n| Bestämd plural | klubblagen |\n\nDeklination 5 (ett-ord, plural oförändrad).\n\n## 词组搭配 (Collocations)\n\n- `spela för ett klubblag` — 效力于一支俱乐部球队\n\n## 例句 (Sentences)\n\n- 🇸🇪 Zlatan spelade för flera stora klubblag i Europa. — 🇨🇳 Zlatan 效力过欧洲多家大型俱乐部球队。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lag]], [[landslag]]\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-fotboll]]\n\n## 用法提示 (Usage Notes)\n\n- Jämför: [[landslag]] (national team) vs [[klubblag]] (club team)."
     },
     {
+      "slug": "kluvenhet",
+      "lemma": "kluvenhet",
+      "ordklass": "substantiv",
+      "cefr": "B2",
+      "zh": "矛盾心理；两难；内心分裂",
+      "en": "ambivalence; inner conflict; being torn",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "kluvenhet",
+        "kluvenheten",
+        "kluvenheter"
+      ],
+      "body": "# kluvenhet — substantiv en\n\n📖 中文：矛盾心理；两难；内心分裂 · English: ambivalence; inner conflict\n发音提示：/KLU-ven-het/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en kluvenhet |\n| bestämd sing | kluvenheten |\n| obestämd pl | kluvenheter (rara) |\n\n## 词组搭配 (Collocations)\n\n- `känna kluvenhet` — 感到矛盾\n- `inre kluvenhet` — 内心的矛盾\n- `kluvenhet inför` — 对……的矛盾态度\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon förmedlar huvudpersonens kluvenhet med stor känsla. — 🇨🇳 她以深情的方式传达了主人公的矛盾心理。\n- 🇸🇪 Jag kände en stor kluvenhet inför beslutet. — 🇨🇳 我对这个决定感到非常矛盾。\n- 🇸🇪 Kluvenheten är ett centralt tema i boken. — 🇨🇳 矛盾心理是这本书的核心主题。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: kluven（形容词：分裂的/矛盾的）\n- 同义词: ambivalens（英语借词）\n- 主题: [[topic-film]] · [[topic-litteratur-och-kultur]]"
+    },
+    {
       "slug": "knä",
       "lemma": "knä",
       "ordklass": "substantiv",
@@ -8727,6 +9285,22 @@ window.READING_DATA = {
       "body": "# kul — adjektiv\n\n📖 中文：有趣的、好玩的（口语）· English: fun, cool (colloquial)\n发音提示：/kʉːl/，单音节，u 发长音\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| en-form (utrum) | kul |\n| ett-form (neutrum) | kul |\n| plural / bestämd form | kul |\n\n> 📌 **Oböjligt (indeclinable)** — alla former är identiska: `kul`.\n\n## 词组搭配 (Collocations)\n\n- `det är kul` — 这很有趣／很好玩\n- `ha kul` — 玩得开心\n- `kul idé` — 好主意、有趣的想法\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det var kul på festen igår! — 🇨🇳 昨天的派对很好玩！\n- 🇸🇪 Vi hade kul i parken med barnen. — 🇨🇳 我们和孩子们在公园里玩得很开心。\n- 🇸🇪 Vad kul att du kan komma! — 🇨🇳 你能来真是太好了！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: [[rolig]]\n- 反义词: [[tråkig]]\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- `kul` är mer vardagligt/talspråkligt än [[rolig]]; undvik i formell skrift.\n- Oböjligt: `ett kul spel`, `en kul idé`, `kula barn` — alla heter bara `kul`.\n- I positiv utrop: `Vad kul!` (太棒了！/真好玩！).\n- Kan också stå som adverb: `Vi hade det kul` (vi hade roligt)."
     },
     {
+      "slug": "kundkort",
+      "lemma": "kundkort",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "会员卡；积分卡",
+      "en": "loyalty card; membership card",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "kundkort",
+        "kundkortet",
+        "kundkorten"
+      ],
+      "body": "# kundkort — substantiv ett\n\n📖 中文：会员卡；积分卡 · English: loyalty card; membership card\n发音提示：/KUND-kort/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | ett kundkort |\n| bestämd sing | kundkortet |\n| obestämd pl | kundkort |\n| bestämd pl | kundkorten |\n\n## 词组搭配 (Collocations)\n\n- `med kundkortet` — 用会员卡\n- `registrera kundkortet` — 注册会员卡\n- `poäng på kundkortet` — 会员积分\n\n## 例句 (Sentences)\n\n- 🇸🇪 Behöver jag kundkort för att få rabatt? — 🇨🇳 我需要会员卡才能享受折扣吗？\n- 🇸🇪 Med kundkortet får du tio procent rabatt. — 🇨🇳 用会员卡你可以享受九折优惠。\n- 🇸🇪 Jag har glömt mitt kundkort hemma. — 🇨🇳 我把会员卡忘在家里了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kort]]\n- 主题: [[topic-mataffär]] · [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：*kund*（顾客/客户）+ *kort*（卡）。\n- 瑞典大型超市（ICA, Coop, Willys）都有各自的 kundkort 积分系统。"
+    },
+    {
       "slug": "kur",
       "lemma": "kur",
       "ordklass": "substantiv",
@@ -8843,6 +9417,20 @@ window.READING_DATA = {
       "body": "# kvitto — substantiv (ett)\n\n📖 中文：收据 · English: receipt\n发音提示：KVIT-oh\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | ett kvitto |\n| bestämd singular | kvittot |\n| obestämd plural | kvitton |\n| bestämd plural | kvittona |\n\n## 词组搭配 (Collocations)\n\n- `vill ni ha kvitto?` — 需要收据吗？\n- `spara kvittot` — 保留收据\n- `digitalt kvitto` — 电子收据\n- `ta emot kvitto` — 接收收据\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vill ni ha kvitto? — 🇨🇳 需要收据吗？\n- 🇸🇪 Nej tack, det är bra så. — 🇨🇳 不用了，这样就好。\n- 🇸🇪 Jag behöver kvittot för att lämna tillbaka varorna. — 🇨🇳 我需要收据才能退货。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典许多咖啡馆和餐厅，收银员会主动询问是否需要收据，常见回答：*Nej tack, det är bra så.*"
     },
     {
+      "slug": "kvm",
+      "lemma": "kvm",
+      "ordklass": "förkortning",
+      "cefr": "A2",
+      "zh": "平方米（kvadratmeter 的缩写）",
+      "en": "square metres (abbreviation of kvadratmeter)",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "kvm"
+      ],
+      "body": "# kvm — förkortning\n\n📖 中文：平方米 · English: square metres (m²)\n发音提示：读作 \"kvadratmeter\" 或拼出各字母\n\n## 词组搭配 (Collocations)\n\n- `58 kvm` — 58平方米\n- `kvm yta` — 平方米面积\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ljus 2 rum och kök, 58 kvm uthyres i Örebro centrum. — 🇨🇳 明亮两室一厅（58平米）在厄勒布鲁市中心出租。\n- 🇸🇪 Lägenheten är 75 kvm. — 🇨🇳 公寓面积75平方米。\n- 🇸🇪 Hur många kvm är bostaden? — 🇨🇳 住所有多少平方米？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: kvadratmeter（全称）\n- 主题: [[topic-hemmet]]"
+    },
+    {
       "slug": "kyckling",
       "lemma": "kyckling",
       "ordklass": "substantiv",
@@ -8858,6 +9446,23 @@ window.READING_DATA = {
         "kycklingarna"
       ],
       "body": "# kyckling — substantiv (en-ord)\n\n📖 中文：鸡肉、鸡 · English: chicken\n发音提示：['çʏklɪŋ]\n\n## 语法变形 (Forms)\n\n| | obestämd | bestämd |\n|---|---|---|\n| singular | en kyckling | kycklingen |\n| plural | kycklingar | kycklingarna |\n\n## 词组搭配 (Collocations)\n\n- `grillad kyckling` — 烤鸡\n- `kycklingfile` — 鸡胸肉\n- `kycklingsoppa` — 鸡汤 → see [[soppa]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höna（母鸡）, kycklingfile (鸡胸肉)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- en-ord；复数 kycklingar（-ar 型）。kyckling 既指食材\"鸡肉\"也指小鸡。\n- [[grammar-substantiv-plural]] · [[grammar-en-ord-ett-ord]]\n- 来源: [[source-2026-06-11-mat-dryck]]"
+    },
+    {
+      "slug": "kyl",
+      "lemma": "kyl",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "冷藏柜；冰箱",
+      "en": "refrigerator; chilled section (in a shop)",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "kyl",
+        "kylen",
+        "kylar",
+        "kylarna"
+      ],
+      "body": "# kyl — substantiv en\n\n📖 中文：冷藏柜；冰箱 · English: refrigerator; chilled section\n发音提示：/çyl/ (kort y)\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en kyl |\n| bestämd sing | kylen |\n| obestämd pl | kylar |\n| bestämd pl | kylarna |\n\n## 词组搭配 (Collocations)\n\n- `i kylen` — 在冷藏区/冰箱里（固定搭配）\n- `kylhyllan` — 冷藏货架\n- `kylskåp` — 家用冰箱（更具体）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det ligger i kylen, i osthyllan längst till höger. — 🇨🇳 它在冷藏区，最右边的奶酪货架上。\n- 🇸🇪 Kom ihåg att lägga mjölken i kylen! — 🇨🇳 记得把牛奶放进冰箱！\n- 🇸🇪 Vi har inga ägg i kylen just nu. — 🇨🇳 我们冰箱里现在没有鸡蛋。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kyla]]\n- 同义词: kylskåp（家用），kylmonter（商业冷柜）\n- 主题: [[topic-mataffär]] · [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 在超市语境中 *kylen* 指整个冷藏区，在家里指冰箱（可与 *kylskåp* 互换）。\n- 介词固定用 *i kylen*（不用 *på kylen*）。"
     },
     {
       "slug": "kylning",
@@ -8976,6 +9581,22 @@ window.READING_DATA = {
         "lagkamraterna"
       ],
       "body": "# lagkamrat — substantiv (en)\n\n📖 中文：队友 · English: teammate\n发音提示：/ˈlɑːgkamˌrɑːt/；复合词，重音在第一词素 lag-。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en lagkamrat |\n| Singular bestämd | lagkamraten |\n| Plural obestämd | lagkamrater |\n| Plural bestämd | lagkamraterna |\n\n词素分析：`lag`（队伍）+ `kamrat`（伙伴/同伴）= 队里的伙伴 = 队友\n\n## 词组搭配 (Collocations)\n\n- `mina lagkamrater` — 我的队友们\n- `bra lagkamrat` — 好队友\n- `spela med sina lagkamrater` — 和队友一起踢球\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-zlatan-mycket-bra-karriar-mal]] Zlatan har gjort mål för sina lagkamrater och i landslaget. — 🇨🇳 兹拉坦为他的队友和国家队进了很多球。\n- 🇸🇪 Han kom bra överens med sina lagkamrater. — 🇨🇳 他和队友们相处得很好。\n- 🇸🇪 En bra lagkamrat hjälper alltid de andra i laget. — 🇨🇳 好队友总是帮助球队中的其他人。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lag]] (ett, 队伍), [[kamrat]] (en, 伙伴/同伴)\n- 同义词: —\n- 反义词: [[motspelare]] (对手)\n- 主题: [[topic-fotboll]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：`lag` + `kamrat` — 瑞典语中复合词非常常见，直接拼合即可。\n- 与 `motspelare`（对手）形成语义对比，两者均出现在球场语境中。\n- 来源: [[source-2026-06-09-zlatan-bio]]"
+    },
+    {
+      "slug": "lagstiftare",
+      "lemma": "lagstiftare",
+      "ordklass": "substantiv",
+      "cefr": "B2",
+      "zh": "立法者；立法机关",
+      "en": "legislator; lawmaker",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "lagstiftare",
+        "lagstiftaren",
+        "lagstiftarna"
+      ],
+      "body": "# lagstiftare — substantiv en\n\n📖 中文：立法者；立法机关 · English: legislator; lawmaker\n发音提示：/LAG-stif-ta-re/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en lagstiftare |\n| bestämd sing | lagstiftaren |\n| obestämd pl | lagstiftare |\n| bestämd pl | lagstiftarna |\n\n## 词组搭配 (Collocations)\n\n- `lagstiftarna bör` — 立法者应该\n- `kräva att lagstiftarna` — 要求立法者\n- `europeiska lagstiftare` — 欧洲立法者\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lagstiftarna bör sätta åldersgränser för sociala medier. — 🇨🇳 立法者应该为社交媒体设定年龄限制。\n- 🇸🇪 Lagstiftarna diskuterar ny reglering. — 🇨🇳 立法者正在讨论新的法规。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lagstiftning（立法/法规）· lag（法律）\n- 主题: [[topic-samhälle-och-politik]]"
     },
     {
       "slug": "läkare",
@@ -9172,6 +9793,20 @@ window.READING_DATA = {
         "längtat"
       ],
       "body": "# längta — verb (v.1)\n\n📖 中文：思念/渴望 · English: to long for, to miss\n发音提示：LÄNG-ta；元音 `ä` 短促，`ng` 鼻音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att längta |\n| Imperativ | längta! |\n| Presens | längtar |\n| Preteritum | längtade |\n| Supinum | (har) längtat |\n\n规则的 grupp 1 动词（-ar/-ade/-at）。\n\n## 词组搭配 (Collocations)\n\n- `längta efter ngn/ngt` — 思念某人/渴望某事\n- `längta hem` — 想家\n- `längta efter sommaren` — 期盼夏天\n\n## 例句 (Sentences)\n\n- 🇸🇪 Astrid **längtade** efter sin son varje dag.\n  🇨🇳 阿斯特丽德每天都思念她的儿子。\n- 🇸🇪 Jag **längtar** hem efter en lång resa.\n  🇨🇳 长途旅行后我想家了。\n- 🇸🇪 Alla **längtar** efter sommaren i Sverige.\n  🇨🇳 在瑞典，每个人都期盼夏天的到来。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[längtan]] (en, 思念/渴望之情)\n- 同义词: [[sakna]] (v. 想念/缺少)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `längta efter` 搭配宾语（人或事物）。\n- `längta hem` 是固定短语，不需 `efter`。\n- 原文：*Astrid längtade efter sin son* — 阿斯特丽德非常思念她的儿子。"
+    },
+    {
+      "slug": "längtan",
+      "lemma": "längtan",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "渴望；向往；思念",
+      "en": "longing; yearning",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "längtan"
+      ],
+      "body": "# längtan — substantiv en\n\n📖 中文：渴望；向往；思念 · English: longing; yearning\n发音提示：/LÄNG-tan/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en längtan |\n| bestämd sing | längtan (oförändrad i bestämd form) |\n| obestämd pl | (sällan plural) |\n\n## 词组搭配 (Collocations)\n\n- `längtan efter` — 对……的渴望\n- `en stark längtan` — 强烈的渴望\n- `med längtan` — 带着渴望\n\n## 例句 (Sentences)\n\n- 🇸🇪 Hon förmedlar huvudpersonens kluvenhet och längtan med stor känsla. — 🇨🇳 她深情地传达了主人公的矛盾与渴望。\n- 🇸🇪 Jag kände en stark längtan efter hem. — 🇨🇳 我感到强烈的思乡之情。\n- 🇸🇪 Längtan efter frihet drev henne. — 🇨🇳 对自由的渴望驱使着她。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: längta（动词：渴望/思念）\n- 同义词: saknad（思念，更侧重\"想念某人\"）\n- 主题: [[topic-film]] · [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- *längtan* 是 *längta*（动词）的名词形式，不规则：bestämd form 仍是 *längtan*（无 -en 结尾）。\n- 常用于情感性语境（文学、电影、诗歌）。"
     },
     {
       "slug": "läpp",
@@ -11637,6 +12272,22 @@ window.READING_DATA = {
       "body": "# oväntad — adjektiv\n\n📖 中文：意外的；出乎意料的 · English: unexpected\n发音提示：o-VÄN-tad；重音在第二音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Utrum singular | oväntad |\n| Neutrum singular | oväntat |\n| Plural / bestämd | oväntade |\n\n## 词组搭配 (Collocations)\n\n- `en oväntad dag` — 一个意外的日子\n- `ett oväntat samtal` — 一通意外的电话\n- `en oväntad händelse` — 一件意外的事件\n\n## 例句 (Sentences)\n\n- 🇸🇪 Igår var en **oväntad** dag. — 🇨🇳 昨天是意外的一天。\n- 🇸🇪 Det var ett **oväntat** samtal från min bror. — 🇨🇳 这是我哥哥打来的意外电话。\n- 🇸🇪 Vi fick en **oväntad** gäst på middag. — 🇨🇳 我们晚饭时来了一位意外的客人。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[vänta]] (v. 等待), [[väntan]] (en, 等待/期待)\n- 同义词: [[överraskande]] (adj. 令人惊讶的)\n- 反义词: [[väntad]] (adj. 预期中的), [[planerad]] (adj. 计划好的)\n- 主题: [[topic-vardagsrutin]]\n\n## 用法提示 (Usage Notes)\n\n- 前缀 `o-` 表否定：`väntad`（预期的）→ `oväntad`（意外的）。\n- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]"
     },
     {
+      "slug": "överdrivet",
+      "lemma": "överdrivet",
+      "ordklass": "adjektiv/adverb",
+      "cefr": "B1",
+      "zh": "过度的；过分的",
+      "en": "excessive; excessively",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "överdrivet",
+        "överdriven",
+        "överdrivna"
+      ],
+      "body": "# överdrivet — adjektiv/adverb\n\n📖 中文：过度的；过分的 · English: excessive; excessively\n发音提示：/ö-ver-DRI-vet/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum | överdriven |\n| neutrum | överdrivet |\n| plural/bestämd | överdrivna |\n| adverb | överdrivet |\n\n## 词组搭配 (Collocations)\n\n- `ett överdrivet användande` — 过度使用\n- `överdrivet beteende` — 过度行为\n- `överdriva` — 夸大；过度（动词）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ett överdrivet användande kan leda till ångest. — 🇨🇳 过度使用可能导致焦虑。\n- 🇸🇪 Jag tycker att du överdrev lite. — 🇨🇳 我觉得你稍微夸大了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: överdriva（动词：夸大）· överdrift（名词：夸张）\n- 反义词: lagom（适度的/恰好的）\n- 主题: [[topic-samhälle-och-politik]]"
+    },
+    {
       "slug": "överraskning",
       "lemma": "överraskning",
       "ordklass": "substantiv",
@@ -11935,6 +12586,23 @@ window.READING_DATA = {
         "pennorna"
       ],
       "body": "# penna — substantiv (en)\n\n📖 中文：笔 · English: pen / pencil\n发音提示：/ˈpɛnːa/；双写 nn。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en penna |\n| Singular bestämd | pennan |\n| Plural obestämd | pennor |\n| Plural bestämd | pennorna |\n\n## 词组搭配 (Collocations)\n\n- `en blå penna` — 蓝笔\n- `skriva med penna` — 用笔写\n- `en blyertspenna` — 铅笔\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan jag låna en penna? Jag måste skriva ner adressen. — 🇨🇳 我能借支笔吗？我需要记下地址。\n- 🇸🇪 Jag har en blå penna och en röd penna i väskan. — 🇨🇳 我包里有一支蓝笔和一支红笔。\n- 🇸🇪 Det är lättare att skriva med penna än med tangentbord ibland. — 🇨🇳 有时候用笔写比用键盘更方便。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- penna 可指钢笔/圆珠笔（bläckpenna）或铅笔（blyertspenna）；上下文决定具体指哪种。\n- 规则变化：第一变格 en-ord（penna → pennor）。\n- 来源: [[source-2026-06-19-adjsubst-blandat]]"
+    },
+    {
+      "slug": "perron",
+      "lemma": "perron",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "站台；月台",
+      "en": "platform (at a train station)",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "perron",
+        "perronen",
+        "perronger",
+        "perrongerna"
+      ],
+      "body": "# perron — substantiv en\n\n📖 中文：站台；月台 · English: platform (at a train station)\n发音提示：/pe-RONG/（借词自法语）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en perron |\n| bestämd sing | perronen |\n| obestämd pl | perronger |\n| bestämd pl | perrongerna |\n\n## 词组搭配 (Collocations)\n\n- `vilken perron` — 哪个站台\n- `gå till perronen` — 前往站台\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vilken perron avgår tåget från? — 🇨🇳 火车从哪个站台出发？\n- 🇸🇪 Gå till perron tre. — 🇨🇳 去3号站台。\n- 🇸🇪 Tåget avgår från perron ett, spår fyra. — 🇨🇳 火车从1号站台、4号轨道出发。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: [[spår]]（更常用于口语中指代站台号）\n- 主题: [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- *Perron* 较正式；日常口语多说 *spår*（如 *spår 3*）。\n- 在大型车站（如 Stockholm Central），*perron* 指整个站台区域，*spår* 指具体轨道/站台号。"
     },
     {
       "slug": "person",
@@ -12366,6 +13034,20 @@ window.READING_DATA = {
       "body": "# provins — substantiv (en)\n\n📖 中文：省 · English: province\n发音提示：pro-VINS，重音第二音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en provins |\n| Singular bestämd | provinsen |\n| Plural obestämd | provinser |\n| Plural bestämd | provinserna |\n\n## 词组搭配 (Collocations)\n\n- `provinsen Alberta` — 阿尔伯塔省\n- `en kanadensisk provins` — 一个加拿大省份\n- `provinsval` — 省级选举\n\n## 例句 (Sentences)\n\n- 🇸🇪 Alberta är en stor **provins** i västra Kanada.\n  🇨🇳 阿尔伯塔是加拿大西部的一个大省。\n- 🇸🇪 Kanada består av tio **provinser** och tre territorier.\n  🇨🇳 加拿大由十个省和三个领地组成。\n- 🇸🇪 Invånarna i **provinsen** ska rösta om självständighet.\n  🇨🇳 该省的居民将就独立问题进行投票。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[provinsiell]] (adj. 地方的/省级的), [[landskap]] (ett, 地区/省份，瑞典历史行政区)\n- 同义词: [[region]] (en, 地区，现代行政区划), [[landskap]] (ett, 地区)\n- 反义词: —\n- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 在独立公投新闻中，*provins* 指加拿大的 Alberta（阿尔伯塔）省。\n- 在瑞典语境中也可指历史省份（如 *Skåne* 在历史上是一个 *provins*）。\n\n## 来源\n\n- [[source-2026-06-04-nyheter-vecka-22]]"
     },
     {
+      "slug": "psykisk-ohälsa",
+      "lemma": "psykisk ohälsa",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "心理健康问题；心理疾病",
+      "en": "mental ill-health; mental health problems",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "psykisk ohälsa"
+      ],
+      "body": "# psykisk ohälsa — substantiv en (sammansatt uttryck)\n\n📖 中文：心理健康问题；心理疾病 · English: mental ill-health; mental health problems\n发音提示：/PSY-kisk O-häl-sa/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | psykisk ohälsa |\n| bestämd sing | den psykiska ohälsan |\n\n## 词组搭配 (Collocations)\n\n- `barns psykiska ohälsa` — 儿童心理健康问题\n- `öka psykisk ohälsa` — 加剧心理健康问题\n- `behandla psykisk ohälsa` — 治疗心理健康问题\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det kan inte vara acceptabelt att företag tjänar pengar på barns psykiska ohälsa. — 🇨🇳 企业从儿童心理健康问题中获利是不可接受的。\n- 🇸🇪 Psykisk ohälsa ökar bland unga. — 🇨🇳 年轻人中心理健康问题日益增多。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: psykisk（形容词：心理的）· ohälsa（不健康）\n- 反义词: psykisk hälsa（心理健康）\n- 主题: [[topic-samhälle-och-politik]]"
+    },
+    {
       "slug": "publicera",
       "lemma": "publicera",
       "ordklass": "verb",
@@ -12417,6 +13099,23 @@ window.READING_DATA = {
         "råaste"
       ],
       "body": "# rå — adjektiv\n\n📖 中文：生的、未煮熟的 · English: raw, uncooked\n发音提示：[roː]\n\n## 语法变形 (Forms)\n\n| form | en-ord | ett-ord | plural / def |\n|------|--------|---------|--------------|\n| positiv | rå | rått | råa |\n| komparativ | råare | råare | råare |\n| superlativ | råast / råaste | råast | råaste |\n\n## 词组搭配 (Collocations)\n\n- `rå morot` — 生胡萝卜 → see [[morot]]\n- `rått kött` — 生肉\n- `råa grönsaker` — 生蔬菜\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: råkost (生食), råhuggen (粗糙)\n- 同义词: —\n- 反义词: [[mogen]]（成熟的/熟的）\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord 形式是 rått（双写 t）；definit plural råa。\n- [[grammar-adjektiv-bojning]]\n- 来源: [[source-2026-06-11-mat-dryck]]"
+    },
+    {
+      "slug": "rabatt",
+      "lemma": "rabatt",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "折扣",
+      "en": "discount",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "rabatt",
+        "rabatten",
+        "rabatter",
+        "rabatterna"
+      ],
+      "body": "# rabatt — substantiv en\n\n📖 中文：折扣 · English: discount\n发音提示：/ra-BATT/（重音在后）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en rabatt |\n| bestämd sing | rabatten |\n| obestämd pl | rabatter |\n| bestämd pl | rabatterna |\n\n## 词组搭配 (Collocations)\n\n- `få rabatt` — 享受折扣\n- `tio procent rabatt` — 九折（字面：10%折扣）\n- `med rabatt` — 打折\n\n## 例句 (Sentences)\n\n- 🇸🇪 Behöver jag kundkort för att få rabatt? — 🇨🇳 我需要会员卡才能享受折扣吗？\n- 🇸🇪 Det är tio procent rabatt på alla mejeriprodukter. — 🇨🇳 所有乳制品都打九折。\n- 🇸🇪 Finns det någon rabatt idag? — 🇨🇳 今天有折扣吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: rabattera（打折）\n- 同义词: rea（打折促销）\n- 主题: [[topic-mataffär]] · [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- *10% rabatt* = 九折（10% off）；瑞典说法与中文\"几折\"方向相反。\n- 常与 *erbjudande*（优惠活动）搭配使用。"
     },
     {
       "slug": "råd",
@@ -12535,6 +13234,23 @@ window.READING_DATA = {
       "body": "# räv — substantiv (en)\n\n📖 中文：狐狸 · English: fox\n发音提示：/rɛːv/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| obestämd sg. | en räv |\n| bestämd sg. | räven |\n| obestämd pl. | rävar |\n| bestämd pl. | rävarna |\n\n## 词组搭配 (Collocations)\n\n- `lurvig räv` — 毛茸茸的狐狸\n- `listig som en räv` — 像狐狸一样狡猾\n- `rävspår` — 狐狸的足迹\n\n## 例句 (Sentences)\n\n- 🇸🇪 Räven är lurvig och listig. — 🇨🇳 狐狸毛茸茸的，而且很狡猾。\n- 🇸🇪 Vi såg en röd räv i skogen. — 🇨🇳 我们在森林里看到了一只红狐狸。\n- 🇸🇪 Räven smyger sig fram mot hönshuset. — 🇨🇳 狐狸悄悄地靠近鸡舍。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[rävunge]] (小狐狸), [[rävlya]] (狐狸窝)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Räven i sagor är alltid listig (狡猾): \"Räven och korpen\" (狐狸和乌鸦) — Aesop.\n- 来源: [[source-2026-06-08-djur]]"
     },
     {
+      "slug": "recension",
+      "lemma": "recension",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "评论；影评；书评",
+      "en": "review (of film, book, etc.)",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "recension",
+        "recensionen",
+        "recensioner",
+        "recensionerna"
+      ],
+      "body": "# recension — substantiv en\n\n📖 中文：评论；影评；书评 · English: review\n发音提示：/re-sen-SJON/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en recension |\n| bestämd sing | recensionen |\n| obestämd pl | recensioner |\n| bestämd pl | recensionerna |\n\n## 词组搭配 (Collocations)\n\n- `skriva en recension` — 写评论\n- `filmrecension` — 影评\n- `bokrecension` — 书评\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag läste en recension av Sameblod online. — 🇨🇳 我在网上读了一篇《萨米血脉》的影评。\n- 🇸🇪 Filmen fick mycket bra recensioner. — 🇨🇳 这部电影获得了很高的评价。\n- 🇸🇪 Kan du skriva en recension till skolbladet? — 🇨🇳 你能为学校报纸写一篇评论吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: recensera（动词：评论）· recensent（评论者）\n- 主题: [[topic-film]] · [[topic-litteratur-och-kultur]]"
+    },
+    {
       "slug": "recept",
       "lemma": "recept",
       "ordklass": "substantiv",
@@ -12580,6 +13296,59 @@ window.READING_DATA = {
         "regeringarna"
       ],
       "body": "# regering — substantiv (en)\n\n📖 中文：政府 · English: government\n发音提示：重音在第二音节：re-GE-ring。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en regering |\n| Singular bestämd | regeringen |\n| Plural obestämd | regeringar |\n| Plural bestämd | regeringarna |\n\n## 词组搭配 (Collocations)\n\n- `regeringen vill` — 政府希望/打算\n- `bilda regering` — 组建政府\n- `fälla regeringen` — 推翻政府\n- `en ny regering` — 一届新政府\n\n## 例句 (Sentences)\n\n- [[sent-regeringen-vill-halvera-priset]] 🇸🇪 Regeringen vill halvera priset på månadskort i kollektivtrafiken. 🇨🇳 政府希望将公共交通月票价格减半。\n- 🇸🇪 Den nya **regeringen** presenterade sina planer i dag.\n  🇨🇳 新政府今天公布了它的计划。\n- 🇸🇪 **Regeringen** beslutar om lagar tillsammans med riksdagen.\n  🇨🇳 政府与议会共同决定法律。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[regera]] (v. 执政), [[regent]] (en, 摄政王/国王), [[regeringsform]] (en, 政府形式)\n- 同义词: [[stat]] (en, 国家/政府，较宽泛)\n- 反义词: [[opposition]] (en, 反对派)\n- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典语 *regeringen* 指瑞典内阁政府（执行权力机构），有别于 *riksdag*（国会/立法机构）。\n\n## 来源\n\n- [[source-2026-06-04-nyheter-vecka-22]]"
+    },
+    {
+      "slug": "regissera",
+      "lemma": "regissera",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "执导；导演",
+      "en": "to direct (a film)",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "regissera",
+        "regisserar",
+        "regisserade",
+        "regisserat",
+        "regisserad"
+      ],
+      "body": "# regissera — verb v.1\n\n📖 中文：执导；导演 · English: to direct (a film)\n发音提示：/re-jis-SE-ra/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | regissera |\n| presens | regisserar |\n| preteritum | regisserade |\n| supinum | regisserat |\n| passiv particip | regisserad (av) |\n\n## 词组搭配 (Collocations)\n\n- `regisserad av` — 由……执导\n- `regissören säger...` — 导演说……\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sameblod är en film regisserad av Amanda Kernell. — 🇨🇳 《萨米血脉》是由阿曼达·科内尔执导的电影。\n- 🇸🇪 Hon regisserade sin första film när hon var 25. — 🇨🇳 她25岁时执导了她的第一部电影。\n- 🇸🇪 Vem har regisserat den här serien? — 🇨🇳 这部剧集是谁执导的？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: regissör（导演，名词）· regi（执导，名词：*i regi av*）\n- 主题: [[topic-film]]\n\n## 用法提示 (Usage Notes)\n\n- *regisserad av* = \"由……执导\"（被动分词，常见于影评和简介）。"
+    },
+    {
+      "slug": "registrera",
+      "lemma": "registrera",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "注册；登记",
+      "en": "to register",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "registrera",
+        "registrerar",
+        "registrerade",
+        "registrerat"
+      ],
+      "body": "# registrera — verb v.1\n\n📖 中文：注册；登记 · English: to register\n发音提示：/re-jis-TRE-ra/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | registrera |\n| presens | registrerar |\n| preteritum | registrerade |\n| supinum | registrerat |\n| imperativ | registrera |\n\n## 词组搭配 (Collocations)\n\n- `registrera sig` — 注册（自反）\n- `registrera dig i kassan` — 在收款台注册\n- `registrera ett konto` — 注册账号\n\n## 例句 (Sentences)\n\n- 🇸🇪 Registrera dig i kassan eller i vår app. — 🇨🇳 在收款台或我们的 app 里注册。\n- 🇸🇪 Du kan registrera dig gratis online. — 🇨🇳 你可以免费在网上注册。\n- 🇸🇪 Jag registrerade mig på deras hemsida. — 🇨🇳 我在他们的网站上注册了。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: registrering（名词：注册）\n- 同义词: [[anmäla]]（登记/报名）\n- 主题: [[topic-mataffär]]\n\n## 用法提示 (Usage Notes)\n\n- 常与 *sig*（自己）搭配：*registrera sig* = 注册自己的账号。\n- Verbgrupp 1：以 *-erade* 变过去时。"
+    },
+    {
+      "slug": "reglera",
+      "lemma": "reglera",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "规范；监管；调节",
+      "en": "to regulate; to control",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "reglera",
+        "reglerar",
+        "reglerade",
+        "reglerat",
+        "regleras"
+      ],
+      "body": "# reglera — verb v.1\n\n📖 中文：规范；监管；调节 · English: to regulate; to control\n发音提示：/reg-LE-ra/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | reglera |\n| presens | reglerar |\n| preteritum | reglerade |\n| supinum | reglerat |\n| passiv presens | regleras |\n\n## 词组搭配 (Collocations)\n\n- `reglera sociala medier` — 监管社交媒体\n- `regleras av lagen` — 受法律规范\n- `bör regleras` — 应该被监管\n\n## 例句 (Sentences)\n\n- 🇸🇪 Bör sociala medier regleras för att skydda ungas hälsa? — 🇨🇳 是否应该通过监管社交媒体来保护年轻人的健康？\n- 🇸🇪 Marknaden regleras av utbud och efterfrågan. — 🇨🇳 市场受供求关系调节。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: reglering（规范/调节）· regel（规则）\n- 同义词: kontrollera（控制）\n- 主题: [[topic-samhälle-och-politik]]"
     },
     {
       "slug": "regn",
@@ -13238,6 +14007,22 @@ window.READING_DATA = {
       "body": "# samhälle — substantiv (ett)\n\n📖 中文：社会/社区 · English: society, community\n发音提示：SAM-häl-le；重音在第一音节，元音 `ä` 短促。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett samhälle |\n| Singular bestämd | samhället |\n| Plural obestämd | samhällen |\n| Plural bestämd | samhällena |\n\n## 词组搭配 (Collocations)\n\n- `ett litet samhälle` — 小社区/小地方\n- `det svenska samhället` — 瑞典社会\n- `samhällsfråga` — 社会问题\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vimmerby var ett litet **samhälle** och folk skvallrade om henne.\n  🇨🇳 维姆比是个小地方，人们议论她。\n- 🇸🇪 Vi lever i ett demokratiskt **samhälle**.\n  🇨🇳 我们生活在一个民主社会里。\n- 🇸🇪 Alla har ett ansvar för att bygga ett bättre **samhälle**.\n  🇨🇳 每个人都有责任建设一个更好的社会。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[samhällsvetenskap]] (social science), [[samhällsproblem]] (social problem)\n- 同义词: [[samhälle]] —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `samhälle` 可以指\"社会\"（抽象：det svenska samhället）或\"社区/小地方\"（具体：ett litet samhälle）。\n- 原文：*Vimmerby var ett litet samhälle och folk skvallrade om henne.* — 维姆比是个小地方，人们议论她。"
     },
     {
+      "slug": "samisk",
+      "lemma": "samisk",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "萨米人的；萨米族的",
+      "en": "Sami; relating to the Sami people",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "samisk",
+        "samiskt",
+        "samiska"
+      ],
+      "body": "# samisk — adjektiv\n\n📖 中文：萨米人的；萨米族的 · English: Sami; relating to the Sami people\n发音提示：/SA-misk/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sing | samisk |\n| neutrum sing | samiskt |\n| plural/bestämd | samiska |\n\n## 词组搭配 (Collocations)\n\n- `samisk flicka` — 萨米女孩\n- `samisk kultur` — 萨米文化\n- `samiska folket` — 萨米人（作为民族）\n- `sameblod` — 萨米血脉（也是电影名）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Elle-Marja är en ung samisk flicka. — 🇨🇳 埃勒-玛丽亚是一个年轻的萨米女孩。\n- 🇸🇪 Det samiska folket bor i norra Sverige, Norge och Finland. — 🇨🇳 萨米人居住在瑞典、挪威和芬兰北部。\n- 🇸🇪 Hon är stolt över sin samiska identitet. — 🇨🇳 她为自己的萨米身份感到自豪。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: same（萨米人，名词）; samerna（萨米人，复数定式）\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- 萨米人（Samer）是北欧的原住民族，传统上居住在拉普兰（Lappland），从事驯鹿牧业。\n- 历史上曾遭受强制同化政策（tvångsassimilering），电影《Sameblod》即以此为背景。"
+    },
+    {
       "slug": "samlas",
       "lemma": "samlas",
       "ordklass": "verb",
@@ -13302,6 +14087,22 @@ window.READING_DATA = {
         "sänkningarna"
       ],
       "body": "# sänkning — substantiv (en)\n\n📖 中文：降低、削减 · English: reduction\n发音提示：SÄNK-ning，重音第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en sänkning |\n| Singular bestämd | sänkningen |\n| Plural obestämd | sänkningar |\n| Plural bestämd | sänkningarna |\n\n## 词组搭配 (Collocations)\n\n- `en sänkning av priset` — 价格削减\n- `en kraftig sänkning` — 大幅削减\n- `prissänkning` — 降价（复合词）\n\n## 例句 (Sentences)\n\n- 🇸🇪 En **sänkning** av priset på månadskortet glädjer många.\n  🇨🇳 月票价格的下调让很多人高兴。\n- 🇸🇪 Riksbanken beslutade om en **sänkning** av räntan.\n  🇨🇳 瑞典央行决定降低利率。\n- 🇸🇪 Det behövs en kraftig **sänkning** av utsläppen.\n  🇨🇳 需要大幅削减排放量。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sänka]] (v. 降低/减少), [[låg]] (adj. 低的), [[sänkt]] (adj. 被降低的)\n- 同义词: [[minskning]] (en, 减少), [[nedgång]] (en, 下降)\n- 反义词: [[höjning]] (en, 提高/上调), [[ökning]] (en, 增加)\n- 主题: [[topic-nyheter-vecka22]]\n\n## 用法提示 (Usage Notes)\n\n- 名词来自动词 `sänka`（降低），加 `-ning` 后缀变名词。\n- 常见于经济/政治新闻：*räntesänkning*（降息），*skattesänkning*（减税）。\n\n## 来源\n\n- [[source-2026-06-04-nyheter-vecka-22]]"
+    },
+    {
+      "slug": "sårbar",
+      "lemma": "sårbar",
+      "ordklass": "adjektiv",
+      "cefr": "B1",
+      "zh": "脆弱的；易受伤害的",
+      "en": "vulnerable",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "sårbar",
+        "sårbart",
+        "sårbara"
+      ],
+      "body": "# sårbar — adjektiv\n\n📖 中文：脆弱的；易受伤害的 · English: vulnerable\n发音提示：/SÅR-bar/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sing | sårbar |\n| neutrum sing | sårbart |\n| plural/bestämd | sårbara |\n\n## 词组搭配 (Collocations)\n\n- `de mest sårbara grupperna` — 最脆弱的群体\n- `sårbara ungdomar` — 脆弱的年轻人\n- `känna sig sårbar` — 感到脆弱\n\n## 例句 (Sentences)\n\n- 🇸🇪 Riskerna är störst för de mest sårbara grupperna. — 🇨🇳 风险对最脆弱的群体最大。\n- 🇸🇪 Barn är ofta mer sårbara än vuxna. — 🇨🇳 儿童通常比成年人更脆弱。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: sårbarhet（脆弱性）\n- 同义词: känslig（敏感的；易受影响的）\n- 反义词: stark（坚强的）\n- 主题: [[topic-samhälle-och-politik]]"
     },
     {
       "slug": "särskild",
@@ -13504,6 +14305,38 @@ window.READING_DATA = {
       "body": "# självbetjäning — substantiv\n\n📖 中文：自助服务 · English: self-service\n发音提示：SJÄLV-bet-JÄN-ing（复合词，重音在各部分第一音节）\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| singular obestämd | en självbetjäning |\n| singular bestämd | självbetjäningen |\n| plural obestämd | självbetjäningar |\n| plural bestämd | självbetjäningarna |\n\n**Deklination:** grupp 3 (en-ord, -ar plural)\n**Sammansatt ord:** själv (自己) + betjäning (服务)\n\n## 词组搭配 (Collocations)\n\n- `självbetjäningsbutik` — 自助超市\n- `självbetjäningskassa` — 自助收银台\n- `med självbetjäning` — 采用自助服务\n- `se självbetjäning för första gången` — 第一次见到自助服务\n\n## 例句 (Sentences)\n\n- 🇸🇪 Där såg han självbetjäningsbutiker för första gången. — 🇨🇳 在那里，他第一次看到了自助超市。\n- 🇸🇪 Idag har de flesta mataffärer självbetjäning. — 🇨🇳 今天大多数食品商店都有自助服务。\n- 🇸🇪 Självbetjäning i butiker blev vanligt på 1950-talet. — 🇨🇳 商店自助服务在1950年代变得普遍。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: betjäna (服务), betjäning (服务员/服务)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-uppfinning-och-teknik]], [[topic-mataffär]]\n\n## 用法提示 (Usage Notes)\n\n- 合成词：`själv`（自己）+ `betjäning`（服务）\n- 常见复合词：`självbetjäningsbutik`（自助商店）、`självbetjäningskassa`（自助收银台）\n- 现代的自助洗车、自助取款机等概念都用这个词根"
     },
     {
+      "slug": "självkänsla",
+      "lemma": "självkänsla",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "自尊；自我价值感",
+      "en": "self-esteem; sense of self-worth",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "självkänsla",
+        "självkänslan"
+      ],
+      "body": "# självkänsla — substantiv en\n\n📖 中文：自尊；自我价值感 · English: self-esteem\n发音提示：/SJÄLV-käns-la/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en självkänsla |\n| bestämd sing | självkänslan |\n\n## 词组搭配 (Collocations)\n\n- `låg självkänsla` — 低自尊\n- `hög självkänsla` — 高自尊\n- `bygga upp självkänslan` — 建立自尊\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sociala medier kan leda till låg självkänsla bland tonåringar. — 🇨🇳 社交媒体可能导致青少年自尊心低落。\n- 🇸🇪 Det är viktigt att barn har en god självkänsla. — 🇨🇳 孩子拥有良好的自我价值感很重要。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: självbild（自我形象）\n- 同义词: självförtroende（自信，稍侧重能力感）\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- **自尊 (självkänsla)** vs **自信 (självförtroende)**：*självkänsla* 侧重\"我有价值\"的内在感受；*självförtroende* 更侧重\"我有能力\"的信心。"
+    },
+    {
+      "slug": "självkassa",
+      "lemma": "självkassa",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "自助收银台",
+      "en": "self-checkout",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "självkassa",
+        "självkassan",
+        "självkassor",
+        "självkassorna"
+      ],
+      "body": "# självkassa — substantiv en\n\n📖 中文：自助收银台 · English: self-checkout\n发音提示：/SJÄLV-kass-a/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en självkassa |\n| bestämd sing | självkassan |\n| obestämd pl | självkassor |\n| bestämd pl | självkassorna |\n\n## 词组搭配 (Collocations)\n\n- `betala i självkassan` — 在自助收银台付款\n- `självbetjäning` — 自助服务（更广义）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kan jag betala i självkassan? — 🇨🇳 我可以在自助收银台付款吗？\n- 🇸🇪 Självkassorna är till vänster om utgången. — 🇨🇳 自助收银台在出口左边。\n- 🇸🇪 Jag föredrar att använda självkassan — det går snabbare. — 🇨🇳 我更喜欢用自助收银台——这样更快。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[kassa]] · [[självbetjäning]]\n- 主题: [[topic-mataffär]] · [[topic-betalning]]\n\n## 用法提示 (Usage Notes)\n\n- 由 *själv-*（自己）+ *kassa*（收银台）构成复合词。\n- 定式 *självkassan* 在对话中最常用；复数定式 *självkassorna* 指多台机器。"
+    },
+    {
       "slug": "självreflektering",
       "lemma": "självreflektering",
       "ordklass": "substantiv",
@@ -13638,6 +14471,23 @@ window.READING_DATA = {
         "skådespelarna"
       ],
       "body": "# skådespelare — substantiv (en)\n\n📖 中文：演员 · English: actor, actress\n发音提示：/ˈskɔːdəˌspɛːlarə/；复合词 skåde（观看/舞台）+ spelare（演奏者）。\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| sing. obestämd | en skådespelare |\n| sing. bestämd | skådespelaren |\n| plur. obestämd | skådespelare（不变）|\n| plur. bestämd | skådespelarna |\n\n⚠️ 以 -are 结尾，单复数形式相同（obestämd）。无男女区分，适用于所有性别。\n\n## 词组搭配 (Collocations)\n\n- `är skådespelare` — 是演员（无冠词表职业）\n- `känd skådespelare` — 著名演员\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-hennes-pappa-heter-svante-och-är-skådespelare]] Hennes pappa heter Svante och är skådespelare. — 🇨🇳 她爸爸叫斯万特，是一位演员。\n- 🇸🇪 Han är en känd skådespelare i Sverige. — 🇨🇳 他是瑞典的一位著名演员。\n- 🇸🇪 Skådespelarna spelade pjäsen perfekt. — 🇨🇳 演员们完美地演出了这出戏。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: skådespel（戏剧）, spela（玩/表演）\n- 主题: [[topic-yrken]]\n\n## 用法提示 (Usage Notes)\n\n- 性别中立词，适用于所有性别的演员。\n- 来源: [[source-2026-06-22-greta-thunberg]]"
+    },
+    {
+      "slug": "skådespelerska",
+      "lemma": "skådespelerska",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "女演员",
+      "en": "actress",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "skådespelerska",
+        "skådespelerskan",
+        "skådespelerskor",
+        "skådespelerskorna"
+      ],
+      "body": "# skådespelerska — substantiv en\n\n📖 中文：女演员 · English: actress\n发音提示：/skO-de-SPEL-er-ska/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en skådespelerska |\n| bestämd sing | skådespelerskan |\n| obestämd pl | skådespelerskor |\n| bestämd pl | skådespelerskorna |\n\n## 词组搭配 (Collocations)\n\n- `känd skådespelerska` — 知名女演员\n- `i huvudrollen` — 在主角中\n\n## 例句 (Sentences)\n\n- 🇸🇪 Skådespelerskan Lene Cecilia Sparrok är utmärkt i huvudrollen. — 🇨🇳 女演员莱纳·塞西莉亚·斯帕罗克在主角中表现出色。\n- 🇸🇪 Hon är en av Sveriges mest kända skådespelerskor. — 🇨🇳 她是瑞典最著名的女演员之一。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skådespelare]]（演员，男性或通称）\n- 主题: [[topic-film]]\n\n## 用法提示 (Usage Notes)\n\n- 现代瑞典语中，*skådespelare* 越来越多用作无性别通称（即使指女性）；*skådespelerska* 是传统女性形式，仍常见于影评和正式文字。"
     },
     {
       "slug": "skaffa",
@@ -15649,6 +16499,22 @@ window.READING_DATA = {
       "body": "# tiger — substantiv (en)\n\n📖 中文：老虎 · English: tiger\n发音提示：/ˈtiːɡɛr/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| obestämd sg. | en tiger |\n| bestämd sg. | tigern |\n| obestämd pl. | tigrar |\n| bestämd pl. | tigrarna |\n\n## 词组搭配 (Collocations)\n\n- `vacker tiger` — 美丽的老虎\n- `bengalisk tiger` — 孟加拉虎\n- `tigerunge` — 幼虎\n\n## 例句 (Sentences)\n\n- 🇸🇪 Tigern är ett vackert men farligt djur. — 🇨🇳 老虎是一种美丽但危险的动物。\n- 🇸🇪 Tigern är utrotningshotad i det vilda. — 🇨🇳 老虎在野外面临灭绝的威胁。\n- 🇸🇪 Vi såg tigrar på djurparken i Stockholm. — 🇨🇳 我们在斯德哥尔摩动物园看到了老虎。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tigerunge]] (幼虎)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- OBS: tiger är också presens av \"tiga\" (保持沉默): Han tiger still. 同样拼写的两个词!\n- Plural: tigrar (tiger → tigr-ar, 去 -er, 加 -ar).\n- 来源: [[source-2026-06-08-djur]]"
     },
     {
+      "slug": "tillåten",
+      "lemma": "tillåten",
+      "ordklass": "adjektiv",
+      "cefr": "A2",
+      "zh": "被允许的；获准的",
+      "en": "permitted; allowed",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "tillåten",
+        "tillåtet",
+        "tillåtna"
+      ],
+      "body": "# tillåten — adjektiv\n\n📖 中文：被允许的；获准的 · English: permitted; allowed\n发音提示：/ti-LO-ten/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum sing | tillåten |\n| neutrum sing | tillåtet |\n| plural/bestämd | tillåtna |\n\n## 词组搭配 (Collocations)\n\n- `inte tillåtet` — 不允许（neutrum，与不定代词 *det* 搭配）\n- `tillåten hastigher` — 限速（允许的速度）\n- `inte tillåten i...` — 在……不被允许\n\n## 例句 (Sentences)\n\n- 🇸🇪 Husdjur och rökning är inte tillåtet. — 🇨🇳 不允许饲养宠物及吸烟。\n- 🇸🇪 Är det tillåtet att parkera här? — 🇨🇳 这里允许停车吗？\n- 🇸🇪 Inga husdjur är tillåtna i lägenheten. — 🇨🇳 公寓内不允许饲养任何宠物。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tillåta（动词：允许）\n- 反义词: [[förbjuden]]（被禁止的）\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- *inte tillåtet* 用 neutrum（中性）形式，因为在此作表语指代不定概念（husdjur 和 rökning 合起来）。\n- 区别：*tillåta* (动词) vs *tillåten/tillåtet* (形容词)。"
+    },
+    {
       "slug": "tillbringa",
       "lemma": "tillbringa",
       "ordklass": "verb",
@@ -16126,6 +16992,39 @@ window.READING_DATA = {
       "body": "# turist — substantiv\n\n📖 中文：游客 · English: tourist\n发音提示：/tʉˈrɪst/\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| singular obestämd | en turist |\n| singular bestämd | turisten |\n| plural obestämd | turister |\n| plural bestämd | turisterna |\n\n## 词组搭配 (Collocations)\n\n- `turister från hela världen` — 来自全世界的游客\n- `turistattraktion` — 旅游景点\n- `vara turist` — 当游客\n\n## 例句 (Sentences)\n\n- 🇸🇪 Stockholm har många turister på sommaren. — 🇨🇳 夏天斯德哥尔摩有很多游客。\n- 🇸🇪 Vi är turister och letar efter ett hotell. — 🇨🇳 我们是游客，正在寻找酒店。\n- 🇸🇪 Det finns massor av turistattraktioner i Gamla Stan. — 🇨🇳 老城区有很多旅游景点。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: turism (旅游业), turistresa (旅游行程)\n- 同义词: besökare (访客, 更正式)\n- 主题: [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- `turist` 通常指外地来的观光者；`besökare` 更广泛，也包括来访的客人。"
     },
     {
+      "slug": "tvångsassimilering",
+      "lemma": "tvångsassimilering",
+      "ordklass": "substantiv",
+      "cefr": "B2",
+      "zh": "强制同化",
+      "en": "forced assimilation",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "tvångsassimilering",
+        "tvångsassimileringen",
+        "tvångsassimileringar"
+      ],
+      "body": "# tvångsassimilering — substantiv en\n\n📖 中文：强制同化 · English: forced assimilation\n发音提示：/TVONGS-as-si-mi-LE-ring/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en tvångsassimilering |\n| bestämd sing | tvångsassimileringen |\n| obestämd pl | tvångsassimileringar |\n\n## 词组搭配 (Collocations)\n\n- `tvångsassimileringen av samerna` — 对萨米人的强制同化\n- `historisk tvångsassimilering` — 历史上的强制同化\n\n## 例句 (Sentences)\n\n- 🇸🇪 Berättelsen belyser tvångsassimileringen av det samiska folket. — 🇨🇳 故事揭示了对萨米人的强制同化。\n- 🇸🇪 Tvångsassimileringen är ett mörkt kapitel i svensk historia. — 🇨🇳 强制同化是瑞典历史上的一段黑暗篇章。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tvång（强制）· assimilering（同化）\n- 主题: [[topic-litteratur-och-kultur]] · [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：*tvång*（强制/强迫）+ *assimilering*（同化）。\n- 与瑞典历史上对萨米人和其他少数民族的政策紧密相关（19世纪末至20世纪中）。"
+    },
+    {
+      "slug": "tvättmaskin",
+      "lemma": "tvättmaskin",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "洗衣机",
+      "en": "washing machine",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "tvättmaskin",
+        "tvättmaskinen",
+        "tvättmaskiner",
+        "tvättmaskinerna"
+      ],
+      "body": "# tvättmaskin — substantiv en\n\n📖 中文：洗衣机 · English: washing machine\n发音提示：/TVÄTT-ma-shin/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en tvättmaskin |\n| bestämd sing | tvättmaskinen |\n| obestämd pl | tvättmaskiner |\n| bestämd pl | tvättmaskinerna |\n\n## 词组搭配 (Collocations)\n\n- `tvättmaskin i badrummet` — 浴室里的洗衣机\n- `gemensam tvättmaskin` — 公共洗衣机（公寓楼共用）\n- `tvätta kläder` — 洗衣服\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lägenheten har tvättmaskin i badrummet. — 🇨🇳 公寓浴室里有洗衣机。\n- 🇸🇪 Tvättmaskinen är trasig. — 🇨🇳 洗衣机坏了。\n- 🇸🇪 Huset har en gemensam tvättmaskin i källaren. — 🇨🇳 楼里地下室有公共洗衣机。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tvätta（洗涤）· [[diskmaskin]]（洗碗机）\n- 主题: [[topic-hemmet]]"
+    },
+    {
       "slug": "tvungen",
       "lemma": "tvungen",
       "ordklass": "adjektiv",
@@ -16193,6 +17092,22 @@ window.READING_DATA = {
         "tystaste"
       ],
       "body": "# tyst — adjektiv\n\n📖 中文：安静的、沉默的 · English: quiet / silent\n发音提示：/tyːst/\n\n## 语法变形 (Forms)\n\n| form | en-form | ett-form | plural/bestämd |\n|------|---------|----------|----------------|\n| positiv obestämd | en tyst (katt) | ett tyst (djur) | tysta (djur) |\n| positiv bestämd | den tysta (katten) | det tysta (djuret) | de tysta (djuren) |\n| komparativ | tystare | | |\n| superlativ | tystast / tystaste | | |\n\n## 词组搭配 (Collocations)\n\n- `vara tyst` — 保持安静\n- `ett tyst djur` — 一只安静的动物\n- `tyst som en mus` — 像老鼠一样安静（俗语）\n- `hålla tyst` — 保持沉默\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tystna]] (变安静), [[tystnad]] (寂静)\n- 同义词: [[lugn]], [[stilla]]\n- 反义词: [[livlig]]\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- *tyst* fokuserar på ljud (brist på ljud); *lugn* fokuserar mer på sinnesstämning.\n- 与 [[grammar-adjektiv-bojning]] 规则一致；与 [[grammar-adjektiv-kongruens]] 一起练习。"
+    },
+    {
+      "slug": "tystas",
+      "lemma": "tystas",
+      "ordklass": "verb",
+      "cefr": "B1",
+      "zh": "被压制；被噤声",
+      "en": "to be silenced; to be suppressed",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "tystas",
+        "tystades",
+        "tystats"
+      ],
+      "body": "# tystas — verb (s-passiv, v.1)\n\n📖 中文：被压制；被噤声 · English: to be silenced; to be suppressed\n发音提示：/TYST-as/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | tystas |\n| presens | tystas |\n| preteritum | tystades |\n| supinum | tystats |\n| perfekt passiv | har tystats ned |\n\n## 词组搭配 (Collocations)\n\n- `tystas ned` — 被噤声；被压制（下去）\n- `tystas av` — 被……压制\n- `länge har tystats ned` — 长期被压制\n\n## 例句 (Sentences)\n\n- 🇸🇪 Den ger en röst åt en historia som länge har tystats ned. — 🇨🇳 它为一段长期被压制的历史发出了声音。\n- 🇸🇪 Vittnen tystades ned av myndigheterna. — 🇨🇳 证人被当局噤声。\n- 🇸🇪 Sanningen får inte tystas. — 🇨🇳 真相不能被压制。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[tyst]]（安静的）· tystnad（沉默）· tystna（变安静）\n- 主题: [[topic-litteratur-och-kultur]] · [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- *tystas ned* 是常见的 s-被动 + 副词组合，表示\"被压制/噤声\"。\n- 在完成时：*har tystats ned*（s-被动完成时，s-passiv i perfekt）。"
     },
     {
       "slug": "tyvärr",
@@ -16427,6 +17342,23 @@ window.READING_DATA = {
       "body": "# uppsats — substantiv (en-ord)\n\n📖 中文：论文、作文 · English: essay, paper\n发音提示：UPP-sats\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en uppsats |\n| bestämd singular | uppsatsen |\n| obestämd plural | uppsatser |\n| bestämd plural | uppsatserna |\n\n## 词组搭配 (Collocations)\n\n- `skriva en uppsats` — 写一篇论文\n- `lämna in uppsatsen` — 提交论文\n- `examensuppsats` — 毕业论文\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: []\n- 同义词: [[avhandling]]\n- 反义词: []\n- 主题: [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord. Plural: uppsatser (dekl. 3).\n- Se [[grammar-substantiv-plural]], [[grammar-en-ord-ett-ord]]"
     },
     {
+      "slug": "uppväga",
+      "lemma": "uppväga",
+      "ordklass": "verb",
+      "cefr": "B2",
+      "zh": "弥补；平衡；超过（风险）",
+      "en": "to outweigh; to compensate for; to offset",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "uppväga",
+        "uppväger",
+        "uppvägde",
+        "uppvägt"
+      ],
+      "body": "# uppväga — verb v.2r\n\n📖 中文：弥补；平衡；超过（风险）· English: to outweigh; to offset\n发音提示：/UPP-vä-ga/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | uppväga |\n| presens | uppväger |\n| preteritum | uppvägde |\n| supinum | uppvägt |\n\n## 词组搭配 (Collocations)\n\n- `uppväger inte riskerna` — 不能弥补/超过风险\n- `fördelarna uppväger` — 好处超过（弥补）\n- `uppväga nackdelarna` — 弥补/平衡缺点\n\n## 例句 (Sentences)\n\n- 🇸🇪 Men dessa fördelar uppväger inte riskerna för de mest sårbara grupperna. — 🇨🇳 但这些好处无法弥补对最脆弱群体的风险。\n- 🇸🇪 Fördelarna uppväger nackdelarna i det här fallet. — 🇨🇳 在这种情况下，好处超过了缺点。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: väga（称重/权衡）\n- 主题: [[topic-samhälle-och-politik]]"
+    },
+    {
       "slug": "utbildning",
       "lemma": "utbildning",
       "ordklass": "substantiv",
@@ -16442,6 +17374,41 @@ window.READING_DATA = {
         "utbildningarna"
       ],
       "body": "# utbildning — substantiv (en-ord)\n\n📖 中文：教育、培训 · English: education, training\n发音提示：ut-BIL-dning\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en utbildning |\n| bestämd singular | utbildningen |\n| obestämd plural | utbildningar |\n| bestämd plural | utbildningarna |\n\n## 词组搭配 (Collocations)\n\n- `högre utbildning` — 高等教育\n- `yrkesutbildning` — 职业培训\n- `genomgå en utbildning` — 接受培训\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[utbilda]], [[utbildad]], [[yrkesutbildning]]\n- 同义词: []\n- 反义词: []\n- 主题: [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord. Plural: utbildningar (dekl. 3, -ar).\n- Bredare begrepp än [[kurs]]; inkluderar hela utbildningsprogram.\n- Se [[grammar-substantiv-plural]], [[grammar-en-ord-ett-ord]]"
+    },
+    {
+      "slug": "utgång",
+      "lemma": "utgång",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "出口",
+      "en": "exit",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "utgång",
+        "utgången",
+        "utgångar",
+        "utgångarna"
+      ],
+      "body": "# utgång — substantiv en\n\n📖 中文：出口 · English: exit\n发音提示：/UT-gong/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | en utgång |\n| bestämd sing | utgången |\n| obestämd pl | utgångar |\n| bestämd pl | utgångarna |\n\n## 词组搭配 (Collocations)\n\n- `till vänster om utgången` — 在出口左边\n- `nödutgång` — 紧急出口\n- `utgångsdatum` — 有效期（另一义：到期日）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Självkassorna är till vänster om utgången. — 🇨🇳 自助收银台在出口左边。\n- 🇸🇪 Var är nödutgången? — 🇨🇳 紧急出口在哪里？\n- 🇸🇪 Gå mot utgången, sedan svänger du till höger. — 🇨🇳 走向出口，然后右转。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[gå]] · [[ingång]]\n- 反义词: [[ingång]]（入口）\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：*ut-*（出）+ *gång*（走道/通道，源自 *gå*）。\n- 注意与 *utgångsdatum*（保质期/有效期）区分——完全不同义。"
+    },
+    {
+      "slug": "uthyra",
+      "lemma": "uthyra",
+      "ordklass": "verb",
+      "cefr": "A2",
+      "zh": "出租",
+      "en": "to rent out; to let",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "uthyra",
+        "uthyr",
+        "uthyrde",
+        "uthyrt",
+        "uthyres"
+      ],
+      "body": "# uthyra — verb v.2r\n\n📖 中文：出租 · English: to rent out; to let\n发音提示：/UT-hy-ra/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | uthyra / hyra ut |\n| presens | uthyr / hyr ut |\n| preteritum | uthyrde / hyrde ut |\n| supinum | uthyrt / hyrt ut |\n| s-passiv presens | uthyres（广告固定表达）|\n\n## 词组搭配 (Collocations)\n\n- `uthyres` — 正在出租（s-被动，广告用）\n- `hyra ut sin lägenhet` — 出租自己的公寓\n- `till uthyrning` — 供出租\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ljus 2 rum och kök uthyres i Örebro centrum. — 🇨🇳 明亮两室一厅公寓在厄勒布鲁市中心出租。\n- 🇸🇪 Hon hyr ut rummet till studenter. — 🇨🇳 她把房间出租给学生。\n- 🇸🇪 Lägenheten uthyres från den 1 september. — 🇨🇳 公寓从9月1日起出租。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hyra]]（租赁；租金）· [[hyresgäst]]（租户）\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 广告中固定用 *uthyres*（s-被动），比 *hyrs ut* 更正式书面。\n- 动词也可拆开：*hyra ut*（分开构词；更口语）。"
     },
     {
       "slug": "utomhus",
@@ -16737,6 +17704,21 @@ window.READING_DATA = {
         "välkomnat"
       ],
       "body": "# välkomna — verb\n\n📖 中文：欢迎 · English: to welcome\n发音提示：VÄL-kom-na，三音节，重音第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att välkomna |\n| Imperativ | välkomna! |\n| Presens | välkomnar |\n| Preteritum | välkomnade |\n| Supinum | (har) välkomnat |\n\n规则 grupp 1 动词（-ar/-ade/-at）。\n\n## 词组搭配 (Collocations)\n\n- `välkomna ngn` — 欢迎某人\n- `hälsa ngn välkommen` — 向某人表示欢迎（参见 [[hälsa]]）\n- `välkomna med öppna armar` — 张开双臂欢迎\n\n## 例句 (Sentences)\n\n- [[sent-manga-kommuner-valkomnar-sina-nya]] 🇸🇪 Många kommuner välkomnar sina nya svenska medborgare den dagen. 🇨🇳 许多市政当局在那天欢迎新的瑞典公民。\n- 🇸🇪 Jag vill **välkomna** dig till Sverige!\n  🇨🇳 我想欢迎你来到瑞典！\n- 🇸🇪 Skolan **välkomnade** alla nya elever på hösten.\n  🇨🇳 学校在秋季欢迎所有新学生。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[välkommen]] (adj./interj. 受欢迎的/欢迎), [[välkomnande]] (adj. 热情好客的)\n- 同义词: [[hälsa välkommen]] (短语, 问候/迎接), [[ta emot]] (v. 接待/接收)\n- 反义词: [[avvisa]] (v. 拒绝/驱逐)\n- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- `välkomna` 是动词\"欢迎\"；名词/形容词 *välkommen*（欢迎/受欢迎的）是相关词。\n- *Välkommen!* 是常用问候，*välkomna* 表示主动欢迎的动作。\n\n## 来源\n\n- [[source-2026-06-04-nyheter-vecka-22]]"
+    },
+    {
+      "slug": "välmående",
+      "lemma": "välmående",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "健康；幸福；安康",
+      "en": "wellbeing; welfare",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "välmående",
+        "välmåendet"
+      ],
+      "body": "# välmående — substantiv ett\n\n📖 中文：健康；幸福；安康 · English: wellbeing; welfare\n发音提示：/VÄL-mo-an-de/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd sing | ett välmående |\n| bestämd sing | välmåendet |\n\n## 词组搭配 (Collocations)\n\n- `psykiskt välmående` — 心理健康\n- `utan hänsyn till deras välmående` — 不考虑他们的健康\n- `främja välmående` — 促进健康\n\n## 例句 (Sentences)\n\n- 🇸🇪 Algoritmerna tar ingen hänsyn till användarnas välmående. — 🇨🇳 算法不考虑用户的健康。\n- 🇸🇪 Elevernas välmående är skolans prioritet. — 🇨🇳 学生的健康是学校的首要任务。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 同义词: välbefinnande（主观上的舒适感）· hälsa（健康）\n- 反义词: ohälsa（不健康）\n- 主题: [[topic-samhälle-och-politik]]"
     },
     {
       "slug": "vän",
