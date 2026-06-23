@@ -7,7 +7,7 @@ cefr: A1
 zh: 高的；高大的
 en: high, tall
 synonyms: []
-antonyms: []
+antonyms: [låg]
 family: ["höjd", "höja"]
 topics: ["topic-stadsmiljo"]
 sentences: []
@@ -46,7 +46,7 @@ interval: 0
 
 - 词族: höjd (高度), höja (升高)
 - 同义词: —
-- 反义词: —
+- 反义词: [[låg]]
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

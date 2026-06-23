@@ -16,6 +16,10 @@ members:
   - matta
   - lampa
   - hylla
+  - gardin
+  - skåp
+  - spegel
+  - byrå
 created: "2026-06-09"
 ---
 
@@ -37,6 +41,10 @@ created: "2026-06-09"
 - [[matta]] — 地毯
 - [[lampa]] — 台灯
 - [[hylla]] — 架子
+- [[gardin]] — 窗帘
+- [[skåp]] — 橱柜；柜子
+- [[spegel]] — 镜子
+- [[byrå]] — 梳妆台；抽屉柜
 
 ## 备注 (Notes)
 
