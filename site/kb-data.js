@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-23 00:15:59",
+  "generatedAt": "2026-06-23 02:17:50",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -210,6 +210,7 @@ window.KB_DATA = {
         "sent-att-sla-nagon-i-sin-familj-kallas",
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-hoppas-att-de-ska-drömma",
+        "sent-de-svenska-poliserna-vill-nu-att-mannen",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "sent-det-ar-gladjande-att-vi-lyckas",
         "sent-det-är-också-viktigt-att-köra",
@@ -321,6 +322,7 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-bisats",
         "grammar-bisats-om",
+        "grammar-bisats-ordfoljd",
         "grammar-bisats-tidskonnektor",
         "grammar-nar-bisats",
         "grammar-partikelverb",
@@ -420,6 +422,30 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "grammar-bisats-ordfoljd",
+      "type": "grammar",
+      "title": "bisats ordföljd",
+      "path": "knowledge_base/grammar/grammar-bisats-ordfoljd.md",
+      "body": "# 📗 bisats ordföljd — 从句语序（BIFF规则） (subordinate clause word order)\n\n级别: A2\n一句话: 从句中，否定词/副词（如 inte）必须放在动词**前面**，与主句相反。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主句语序 (huvudsats):     S + V + INTE + ...\n                          主语  动词  否定词\n\n从句语序 (bisats — BIFF): konjunktion + S + INTE + V + ...\n                          连词          主语  否定词  动词\n```\n\n**BIFF 缩写：**\n- **B**isatskonnektiv (从句引导词: att, om, när, som, eftersom...)\n- **I**nte/satsadverbial (否定词/状语: inte, aldrig, redan, alltid...)\n- **F**init verb (有限动词)\n- **F**öljd (其余)\n\n与中文对比: 中文从句语序与主句相同；瑞典语从句有特殊语序变化。\n与英文对比: 英语从句语序与主句相同（如 \"because he is not here\"）；瑞典语从句须把 inte 提前。\n\n## 详细讲解 (Detail)\n\n**主句 vs 从句对比：**\n\n| 主句 | 从句 |\n|------|------|\n| Han **är inte** hemma. | ...att han **inte är** hemma. |\n| Kroppen **kan inte** svalna. | ...eftersom kroppen **inte kan** svalna. |\n| Det **är alltid** kallt. | ...när det **alltid är** kallt. |\n\n**涉及的 satsadverbial（副词）类型：**\n- 否定: inte, aldrig, inte heller\n- 频率: alltid, ofta, ibland, sällan\n- 时间: redan, fortfarande, nu\n- 态度: nog, kanske, verkligen\n\n## 例句 (Examples)\n\n- ✅ ...eftersom kroppen **inte kan** svalna när det är varmt. — 🇨🇳 …因为身体在热天无法降温。\n- ✅ Jag vet att han **inte är** hemma. — 🇨🇳 我知道他不在家。\n- ✅ Hon ringde när hon **redan hade** ätit. — 🇨🇳 她打电话时已经吃过饭了。\n- ❌ ...eftersom kroppen kan inte svalna. ← 错误：inte 在动词后（主句语序）\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 最常见错误：在从句中忘记把 `inte/aldrig` 等副词移到动词前。\n- ⚠️ 注意：`att dricka alkohol när det är varmt är farligt eftersom kroppen **inte kan** svalna.` — 从句中 inte 必须在 kan 前。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats]] — 从句总论（BIFF规则完整讲解）\n- 📎 [[grammar-bisats-biff]] — BIFF规则详解\n- 📎 [[grammar-satsadverbial]] — 副词/状语位置\n- 📎 [[grammar-v2-ordfoljd]] — 主句V2语序（对比用）",
+      "excerpt": "📗 bisats ordföljd — 从句语序（BIFF规则） (subordinate clause word order) 级别: A2 一句话: 从句中，否定词/副词（如 inte）必须放在动词 前面 ，与主句相反。 规则说明 (Rules) 📐 结构公式: 主句语序 (huvudsats): S + V + INTE + ... 主语 动词 否定词 从句语序 (bisats — BIFF): konjunktion + S",
+      "forms": [],
+      "links": [
+        "grammar-bisats",
+        "grammar-bisats-biff",
+        "grammar-satsadverbial",
+        "grammar-v2-ordfoljd"
+      ],
+      "searchText": "bisats ordföljd grammar-bisats-ordfoljd knowledge_base/grammar/grammar-bisats-ordfoljd.md ---\ntype: grammar\nname: \"bisats ordföljd\"\nzh: \"从句语序（BIFF规则）\"\nen: \"subordinate clause word order (BIFF rule)\"\nlevel: \"A2\"\nrelated: [\"grammar-bisats\", \"grammar-bisats-biff\", \"grammar-satsadverbial\", \"grammar-v2-ordfoljd\"]\nexamples: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 📗 bisats ordföljd — 从句语序（BIFF规则） (subordinate clause word order)\n\n级别: A2\n一句话: 从句中，否定词/副词（如 inte）必须放在动词**前面**，与主句相反。\n\n## 规则说明 (Rules)\n\n📐 结构公式:\n```\n主句语序 (huvudsats):     S + V + INTE + ...\n                          主语  动词  否定词\n\n从句语序 (bisats — BIFF): konjunktion + S + INTE + V + ...\n                          连词          主语  否定词  动词\n```\n\n**BIFF 缩写：**\n- **B**isatskonnektiv (从句引导词: att, om, när, som, eftersom...)\n- **I**nte/satsadverbial (否定词/状语: inte, aldrig, redan, alltid...)\n- **F**init verb (有限动词)\n- **F**öljd (其余)\n\n与中文对比: 中文从句语序与主句相同；瑞典语从句有特殊语序变化。\n与英文对比: 英语从句语序与主句相同（如 \"because he is not here\"）；瑞典语从句须把 inte 提前。\n\n## 详细讲解 (Detail)\n\n**主句 vs 从句对比：**\n\n| 主句 | 从句 |\n|------|------|\n| Han **är inte** hemma. | ...att han **inte är** hemma. |\n| Kroppen **kan inte** svalna. | ...eftersom kroppen **inte kan** svalna. |\n| Det **är alltid** kallt. | ...när det **alltid är** kallt. |\n\n**涉及的 satsadverbial（副词）类型：**\n- 否定: inte, aldrig, inte heller\n- 频率: alltid, ofta, ibland, sällan\n- 时间: redan, fortfarande, nu\n- 态度: nog, kanske, verkligen\n\n## 例句 (Examples)\n\n- ✅ ...eftersom kroppen **inte kan** svalna när det är varmt. — 🇨🇳 …因为身体在热天无法降温。\n- ✅ Jag vet att han **inte är** hemma. — 🇨🇳 我知道他不在家。\n- ✅ Hon ringde när hon **redan hade** ätit. — 🇨🇳 她打电话时已经吃过饭了。\n- ❌ ...eftersom kroppen kan inte svalna. ← 错误：inte 在动词后（主句语序）\n\n## 常见错误 (Common Mistakes)\n\n- ⚠️ 最常见错误：在从句中忘记把 `inte/aldrig` 等副词移到动词前。\n- ⚠️ 注意：`att dricka alkohol när det är varmt är farligt eftersom kroppen **inte kan** svalna.` — 从句中 inte 必须在 kan 前。\n\n## 相关语法 (Related)\n\n- 📎 [[grammar-bisats]] — 从句总论（BIFF规则完整讲解）\n- 📎 [[grammar-bisats-biff]] — BIFF规则详解\n- 📎 [[grammar-satsadverbial]] — 副词/状语位置\n- 📎 [[grammar-v2-ordfoljd]] — 主句V2语序（对比用）\n",
+      "name": "bisats ordföljd",
+      "zh": "从句语序（BIFF规则）",
+      "en": "subordinate clause word order (BIFF rule)",
+      "created": "2026-06-23",
+      "known": false,
+      "backlinks": [
+        "source-2026-06-23-nyheter-8sidor"
+      ]
+    },
+    {
       "slug": "grammar-bisats-tidskonnektor",
       "type": "grammar",
       "title": "Bisats med tidskonnektor",
@@ -502,6 +528,7 @@ window.KB_DATA = {
       "known": false,
       "backlinks": [
         "grammar-bisats-om",
+        "grammar-bisats-ordfoljd",
         "grammar-bisats-tills",
         "grammar-for-att-infinitiv",
         "grammar-nar-bisats",
@@ -755,6 +782,7 @@ window.KB_DATA = {
         "sent-de-har-kommit-overens-om-en-plan",
         "sent-den-svenska-regeringen-ger-nu-17",
         "sent-den-var-lattare-att-stapla-och-transportera",
+        "sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge",
         "sent-det-ar-viktigt-att-titta-vidare-pa",
         "sent-figurerna-måste-kämpa-för",
         "sent-finns-det-en-karta-någonstans",
@@ -768,6 +796,7 @@ window.KB_DATA = {
         "sent-ryssland-säger-att-de-sköt",
         "source-2026-06-16-vadret-och-arstiderna",
         "source-2026-06-19-nyheter-8sidor",
+        "stjäla-från-rika-för-att-ge-till-fattiga",
         "varna-för"
       ]
     },
@@ -1076,6 +1105,7 @@ window.KB_DATA = {
         "kan-vi-dela-på-notan",
         "sent-bra-val-vill-du-ha-efterrätt",
         "sent-det-var-jättegott-kan-jag-betala",
+        "sent-du-kan-se-talen-pa-svt-play",
         "sent-en-latte-tack-men-kan-jag-fa-den",
         "sent-får-jag-ta-er-beställning",
         "sent-får-jag-visa-er-till-bordet",
@@ -1231,6 +1261,7 @@ window.KB_DATA = {
         "komma-överens-om",
         "lägga-till-dricks",
         "leta-efter",
+        "lyssna-på",
         "säg-till",
         "sent-de-kom-överens-om-att-fortsätta",
         "sent-en-kopp-kaffe-tack-och-sedan",
@@ -1270,8 +1301,12 @@ window.KB_DATA = {
       "created": "2026-06-22",
       "known": false,
       "backlinks": [
+        "anses-vara",
+        "bli-uttorkad",
         "sent-66-procent-av-flickorna-blir",
+        "sent-de-svenska-poliserna-vill-nu-att-mannen",
         "sent-foretaget-ar-fortfarande-baserat-i-sverige",
+        "sent-politikern-andy-burnham-anses-vara-efterträdare",
         "source-2026-06-22-listening-svt-latt"
       ]
     },
@@ -1295,6 +1330,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "known": false,
       "backlinks": [
+        "anses-vara",
         "bli-dömd-till",
         "det-märks",
         "döma",
@@ -1320,9 +1356,11 @@ window.KB_DATA = {
         "sent-idag-dömdes-en-av-foxtrots-högsta",
         "sent-kartongen-var-gjord-av-papper-och-plast",
         "sent-ledare-fran-olika-lander-har-samlats",
+        "sent-mannen-kallas-el-sueco-vilket-betyder-svensken",
         "sent-mjolk-kan-forvaras-lange-utan-kylning",
         "sent-och-fotbollsspelare-är-tränade-till",
         "sent-och-nästan-en-av-tio-tros-dessutom",
+        "sent-politikern-andy-burnham-anses-vara-efterträdare",
         "skilja_sig",
         "skiljas",
         "source-2026-06-04-nyheter-vecka-22",
@@ -1389,6 +1427,7 @@ window.KB_DATA = {
         "neka-till-brott",
         "sent-allt-har-hittills-gatt-bra-men-hon",
         "sent-även-flera-hus-med-lägenheter-verkar",
+        "sent-berattelsen-om-robin-hood-har-cirkulerat-i-hundratals-ar",
         "sent-bland-annat-har-ukrainas-president-zelenskyj",
         "sent-de-har-kommit-overens-om-en-plan",
         "sent-det-har-varit-oroligt-kring-norges-kungahus",
@@ -1399,6 +1438,7 @@ window.KB_DATA = {
         "sent-greta-har-vunnit-många-priser-för-sitt-arbete",
         "sent-han-har-blivit-allt-mindre-popularr",
         "sent-han-har-styrt-landet-sedan-ar-2024",
+        "sent-han-sager-jag-har-lyssnat-pa-mitt-parti",
         "sent-har-ni-bestämt-er-eller-behöver-ni",
         "sent-har-spelat-om-pengar-i-nån-form",
         "sent-i-norge-har-kronprinsessan-mette-marit",
@@ -2219,6 +2259,7 @@ window.KB_DATA = {
       "created": "2026-06-10",
       "known": false,
       "backlinks": [
+        "grammar-bisats-ordfoljd",
         "sent-apoteket-ligger-mitt-emot-en-stor-byggnad",
         "sent-det-är-inte-så-långt-härifrån",
         "sent-det-är-inte-värt-det-fram-i-tiden",
@@ -2614,6 +2655,7 @@ window.KB_DATA = {
         "grammar-att-sats",
         "grammar-bisats",
         "grammar-bisats-eftersom",
+        "grammar-bisats-ordfoljd",
         "grammar-bisats-tidskonnektor",
         "grammar-bisats-tills",
         "grammar-det-finns",
@@ -2651,6 +2693,7 @@ window.KB_DATA = {
         "sent-de-forstod-ocksa-att-barn-behover-leka",
         "sent-de-var-oroliga-att-barn-som-laste-om-pippi",
         "sent-den-20-augusti-2018-gick-hon-inte-till-skolan",
+        "sent-den-22-juni-borjar-motet-almedalen-pa-on-gotland",
         "sent-den-fragan-ska-invanarna-i-alberta",
         "sent-det-blir-femtiofem-kronor",
         "sent-det-här-rapporterar-lokala-ryska",
@@ -2684,6 +2727,7 @@ window.KB_DATA = {
         "sent-hur-kommer-jag-dit",
         "sent-i-avtalet-lovar-iran-bland-annat",
         "sent-i-bokhyllan-star-manga-bocker-foto-sitter",
+        "sent-i-frankrike-far-barnen-sommarlov-i-borjan",
         "sent-i-hornet-till-vanster-om-dorren-star-kladskap",
         "sent-i-lordags-vaknade-jag-tidigt-fast",
         "sent-i-söder-kommer-både-regn-eller-åska",
@@ -3091,6 +3135,36 @@ window.KB_DATA = {
         "sent-efter-det-gick-jag-till-polisen-anmalde-forlusten",
         "source-2026-06-09-en-handelse-i-tidsordning",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "anses-vara",
+      "type": "phrase",
+      "title": "anses vara",
+      "path": "knowledge_base/phrases/anses-vara.md",
+      "body": "# anses vara\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 被认为是 · 🇬🇧 to be considered (to be)\n📝 字面: considered to be\n\n## 用法说明 (Usage)\n\n- `ngn anses vara + substantiv/adjektiv` — 某人被认为是…\n- `anses` = passiv s-form av \"anse\" (to consider/regard)\n- 模板: [主语] + anses vara + [名词/形容词]\n- 后面接 `vara` 是固定用法（相当于英语 \"be considered to be\"）\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-passiv-med-s]] (anses = passiv s-form)\n- → [[grammar-passiv-konstruktion]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 bedöms vara (is assessed/judged to be)\n- 🔄 förväntas vara (is expected to be)\n- 🔄 sägs vara (is said to be)\n- 🔄 anses som + substantiv (另一种构型，不接 vara)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Politikern Andy Burnham anses vara en trolig efterträdare. — 🇨🇳 政治家安迪·伯纳姆被认为是最可能的继任者。\n- 🇸🇪 Astrid Lindgren anses vara en av världens bästa barnboksförfattare. — 🇨🇳 阿斯特丽德·林德格伦被认为是世界上最好的儿童文学作家之一。\n- 🇸🇪 Det anses vara farligt att dricka alkohol i hettan. — 🇨🇳 在高温天气喝酒被认为是危险的。",
+      "excerpt": "anses vara 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 4/5 🇨🇳 被认为是 · 🇬🇧 to be considered (to be) 📝 字面: considered to be 用法说明 (Usage) ngn anses vara + substantiv/adjektiv — 某人被认为是… anses = passiv s form av \"anse\" (to ",
+      "forms": [],
+      "links": [
+        "grammar-passiv-konstruktion",
+        "grammar-passiv-med-s"
+      ],
+      "searchText": "anses vara anses-vara knowledge_base/phrases/anses-vara.md ---\ntype: phrase\nphrase: \"anses vara\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 4\nzh: \"被认为是\"\nen: \"to be considered (to be); to be regarded as\"\nliteral: \"considered to be\"\nhead_words: [\"anse\"]\ngrammar: [\"grammar-passiv-konstruktion\", \"grammar-passiv-med-s\"]\nrelated: [\"bedöms-vara\", \"sägs-vara\"]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# anses vara\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 被认为是 · 🇬🇧 to be considered (to be)\n📝 字面: considered to be\n\n## 用法说明 (Usage)\n\n- `ngn anses vara + substantiv/adjektiv` — 某人被认为是…\n- `anses` = passiv s-form av \"anse\" (to consider/regard)\n- 模板: [主语] + anses vara + [名词/形容词]\n- 后面接 `vara` 是固定用法（相当于英语 \"be considered to be\"）\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-passiv-med-s]] (anses = passiv s-form)\n- → [[grammar-passiv-konstruktion]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 bedöms vara (is assessed/judged to be)\n- 🔄 förväntas vara (is expected to be)\n- 🔄 sägs vara (is said to be)\n- 🔄 anses som + substantiv (另一种构型，不接 vara)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Politikern Andy Burnham anses vara en trolig efterträdare. — 🇨🇳 政治家安迪·伯纳姆被认为是最可能的继任者。\n- 🇸🇪 Astrid Lindgren anses vara en av världens bästa barnboksförfattare. — 🇨🇳 阿斯特丽德·林德格伦被认为是世界上最好的儿童文学作家之一。\n- 🇸🇪 Det anses vara farligt att dricka alkohol i hettan. — 🇨🇳 在高温天气喝酒被认为是危险的。\n",
+      "zh": "被认为是",
+      "en": "to be considered (to be); to be regarded as",
+      "created": "2026-06-23",
+      "known": false,
+      "phrase": "anses vara",
+      "category": "fast-uttryck",
+      "sentences": [],
+      "grammar": [
+        "grammar-passiv-konstruktion",
+        "grammar-passiv-med-s"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-politikern-andy-burnham-anses-vara-efterträdare",
+        "source-2026-06-23-nyheter-8sidor"
       ]
     },
     {
@@ -3597,6 +3671,36 @@ window.KB_DATA = {
         "bli-frisk",
         "sjuk",
         "vara-sjuk"
+      ]
+    },
+    {
+      "slug": "bli-uttorkad",
+      "type": "phrase",
+      "title": "bli uttorkad",
+      "path": "knowledge_base/phrases/bli-uttorkad.md",
+      "body": "# bli uttorkad\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 脱水；变干 · 🇬🇧 to become dehydrated; to dry out\n📝 字面: become dried-out\n\n## 用法说明 (Usage)\n\n- `bli + adjektiv` 是瑞典语常见构型，表示\"变得…\"\n- `uttorkad` = 过去分词形式作形容词（dried-out/dehydrated）\n- 用于人体（脱水）或物体（干燥）\n- 变位: kroppen blir uttorkad / kroppen blev uttorkad / kroppen har blivit uttorkad\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-passiv-konstruktion]] (bli + particip = bli-passiv/变化动词)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 bli sjuk (become sick)\n- 🔄 bli frisk (recover)\n- 🔗 [[uttorkad]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Kroppen blir uttorkad extra snabbt när det är mycket varmt. — 🇨🇳 天气非常热时，身体脱水的速度特别快。\n- 🇸🇪 Drick mycket vatten så att du inte blir uttorkad. — 🇨🇳 多喝水，这样就不会脱水。\n- 🇸🇪 Husplantan blev uttorkad under semestern. — 🇨🇳 家里的盆栽在假期里干枯了。",
+      "excerpt": "bli uttorkad 🗣️ 类型: fast uttryck · 语域: neutralt · 常用度: 3/5 🇨🇳 脱水；变干 · 🇬🇧 to become dehydrated; to dry out 📝 字面: become dried out 用法说明 (Usage) bli + adjektiv 是瑞典语常见构型，表示\"变得…\" uttorkad = 过去分词形式作形容词（dried out/dehydrat",
+      "forms": [],
+      "links": [
+        "grammar-passiv-konstruktion",
+        "uttorkad"
+      ],
+      "searchText": "bli uttorkad bli-uttorkad knowledge_base/phrases/bli-uttorkad.md ---\ntype: phrase\nphrase: \"bli uttorkad\"\ncategory: fast-uttryck\nregister: neutralt\nfrequency: 3\nzh: \"脱水；变干\"\nen: \"to become dehydrated; to dry out\"\nliteral: \"become dried-out\"\nhead_words: [\"uttorkad\"]\ngrammar: [\"grammar-passiv-konstruktion\"]\nrelated: [\"bli-sjuk\", \"bli-frisk\"]\ntopics: [\"topic-hälsa\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# bli uttorkad\n\n🗣️ 类型: fast-uttryck · 语域: neutralt · 常用度: 3/5\n🇨🇳 脱水；变干 · 🇬🇧 to become dehydrated; to dry out\n📝 字面: become dried-out\n\n## 用法说明 (Usage)\n\n- `bli + adjektiv` 是瑞典语常见构型，表示\"变得…\"\n- `uttorkad` = 过去分词形式作形容词（dried-out/dehydrated）\n- 用于人体（脱水）或物体（干燥）\n- 变位: kroppen blir uttorkad / kroppen blev uttorkad / kroppen har blivit uttorkad\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-passiv-konstruktion]] (bli + particip = bli-passiv/变化动词)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 bli sjuk (become sick)\n- 🔄 bli frisk (recover)\n- 🔗 [[uttorkad]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Kroppen blir uttorkad extra snabbt när det är mycket varmt. — 🇨🇳 天气非常热时，身体脱水的速度特别快。\n- 🇸🇪 Drick mycket vatten så att du inte blir uttorkad. — 🇨🇳 多喝水，这样就不会脱水。\n- 🇸🇪 Husplantan blev uttorkad under semestern. — 🇨🇳 家里的盆栽在假期里干枯了。\n",
+      "zh": "脱水；变干",
+      "en": "to become dehydrated; to dry out",
+      "created": "2026-06-23",
+      "known": false,
+      "phrase": "bli uttorkad",
+      "category": "fast-uttryck",
+      "sentences": [],
+      "grammar": [
+        "grammar-passiv-konstruktion"
+      ],
+      "topics": [
+        "topic-hälsa"
+      ],
+      "backlinks": [
+        "source-2026-06-23-nyheter-8sidor"
       ]
     },
     {
@@ -7711,6 +7815,35 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "lyssna-på",
+      "type": "phrase",
+      "title": "lyssna på",
+      "path": "knowledge_base/phrases/lyssna-på.md",
+      "body": "# lyssna på\n\n🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 5/5\n🇨🇳 倾听；听从 · 🇬🇧 to listen to\n📝 字面: listen on\n\n## 用法说明 (Usage)\n\n- `lyssna på ngn/ngt` — 听某人说话/听某事\n- 变位: lyssnar på / lyssnade på / lyssnat på\n- 既可表示字面上的\"听\"，也可表示\"听从意见\"\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-partikelverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 höra på (也表示\"听\") — 更偏向随意地听\n- 🔄 lyssna till (更正式，如 lyssna till musik)\n- 🔗 [[lyssna]] (base verb, if note exists)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Jag har lyssnat på mitt parti och bestämt mig för att avgå. — 🇨🇳 我倾听了我的党的意见，决定辞职。\n- 🇸🇪 Lyssna på mig! Det är viktigt. — 🇨🇳 听我说！这很重要。\n- 🇸🇪 Barnen lyssnar inte alltid på sina föräldrar. — 🇨🇳 孩子们不总是听父母的话。",
+      "excerpt": "lyssna på 🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 5/5 🇨🇳 倾听；听从 · 🇬🇧 to listen to 📝 字面: listen on 用法说明 (Usage) lyssna på ngn/ngt — 听某人说话/听某事 变位: lyssnar på / lyssnade på / lyssnat på 既可表示字面上的\"听\"，也可表示\"听从意见\" 短语中的语法 ",
+      "forms": [],
+      "links": [
+        "grammar-partikelverb",
+        "lyssna"
+      ],
+      "searchText": "lyssna på lyssna-på knowledge_base/phrases/lyssna-på.md ---\ntype: phrase\nphrase: \"lyssna på\"\ncategory: partikelverb\nregister: neutralt\nfrequency: 5\nzh: \"倾听；听从\"\nen: \"to listen to\"\nliteral: \"listen on\"\nhead_words: [\"lyssna\"]\ngrammar: [\"grammar-partikelverb\"]\nrelated: [\"höra-på\"]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# lyssna på\n\n🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 5/5\n🇨🇳 倾听；听从 · 🇬🇧 to listen to\n📝 字面: listen on\n\n## 用法说明 (Usage)\n\n- `lyssna på ngn/ngt` — 听某人说话/听某事\n- 变位: lyssnar på / lyssnade på / lyssnat på\n- 既可表示字面上的\"听\"，也可表示\"听从意见\"\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-partikelverb]]\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 höra på (也表示\"听\") — 更偏向随意地听\n- 🔄 lyssna till (更正式，如 lyssna till musik)\n- 🔗 [[lyssna]] (base verb, if note exists)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Jag har lyssnat på mitt parti och bestämt mig för att avgå. — 🇨🇳 我倾听了我的党的意见，决定辞职。\n- 🇸🇪 Lyssna på mig! Det är viktigt. — 🇨🇳 听我说！这很重要。\n- 🇸🇪 Barnen lyssnar inte alltid på sina föräldrar. — 🇨🇳 孩子们不总是听父母的话。\n",
+      "zh": "倾听；听从",
+      "en": "to listen to",
+      "created": "2026-06-23",
+      "known": false,
+      "phrase": "lyssna på",
+      "category": "partikelverb",
+      "sentences": [],
+      "grammar": [
+        "grammar-partikelverb"
+      ],
+      "topics": [],
+      "backlinks": [
+        "sent-han-sager-jag-har-lyssnat-pa-mitt-parti",
+        "source-2026-06-23-nyheter-8sidor"
+      ]
+    },
+    {
       "slug": "med-eller-utan",
       "type": "phrase",
       "title": "med eller utan",
@@ -7786,6 +7919,32 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "egen"
+      ]
+    },
+    {
+      "slug": "missnöjd-med",
+      "type": "phrase",
+      "title": "missnöjd med",
+      "path": "knowledge_base/phrases/missnöjd-med.md",
+      "body": "# missnöjd med\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 对…不满；对…不满意 · 🇬🇧 dissatisfied with; unhappy about\n📝 字面: displeased with\n\n## 用法说明 (Usage)\n\n- `vara missnöjd med ngt/ngn` — 对某事/某人不满意\n- 形容词 `missnöjd` 与介词 `med` 固定搭配\n- 对比: `nöjd med` = 满意（反义）\n\n## 短语中的语法 (Grammar inside)\n\n- `missnöjd` = adjektiv，需与主语性别/数一致（missnöjt / missnöjda）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 nöjd med (satisfied with — 反义)\n- 🔄 besviken på (disappointed with)\n- 🔗 [[missnöjd]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Allmänheten är missnöjd med höga matpriser och svag ekonomi. — 🇨🇳 公众对高食品价格和疲软经济感到不满。\n- 🇸🇪 Jag är missnöjd med det här beslutet. — 🇨🇳 我对这个决定不满意。\n- 🇸🇪 Är du nöjd eller missnöjd med din lägenhet? — 🇨🇳 你对你的公寓满意还是不满意？",
+      "excerpt": "missnöjd med 🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 4/5 🇨🇳 对…不满；对…不满意 · 🇬🇧 dissatisfied with; unhappy about 📝 字面: displeased with 用法说明 (Usage) vara missnöjd med ngt/ngn — 对某事/某人不满意 形容词 missnöjd 与介词 med 固定",
+      "forms": [],
+      "links": [
+        "missnöjd"
+      ],
+      "searchText": "missnöjd med missnöjd-med knowledge_base/phrases/missnöjd-med.md ---\ntype: phrase\nphrase: \"missnöjd med\"\ncategory: prepositionsuttryck\nregister: neutralt\nfrequency: 4\nzh: \"对…不满；对…不满意\"\nen: \"dissatisfied with; unhappy about\"\nliteral: \"displeased with\"\nhead_words: [\"missnöjd\"]\ngrammar: []\nrelated: [\"nöjd-med\"]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# missnöjd med\n\n🗣️ 类型: prepositionsuttryck · 语域: neutralt · 常用度: 4/5\n🇨🇳 对…不满；对…不满意 · 🇬🇧 dissatisfied with; unhappy about\n📝 字面: displeased with\n\n## 用法说明 (Usage)\n\n- `vara missnöjd med ngt/ngn` — 对某事/某人不满意\n- 形容词 `missnöjd` 与介词 `med` 固定搭配\n- 对比: `nöjd med` = 满意（反义）\n\n## 短语中的语法 (Grammar inside)\n\n- `missnöjd` = adjektiv，需与主语性别/数一致（missnöjt / missnöjda）\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 nöjd med (satisfied with — 反义)\n- 🔄 besviken på (disappointed with)\n- 🔗 [[missnöjd]]\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Allmänheten är missnöjd med höga matpriser och svag ekonomi. — 🇨🇳 公众对高食品价格和疲软经济感到不满。\n- 🇸🇪 Jag är missnöjd med det här beslutet. — 🇨🇳 我对这个决定不满意。\n- 🇸🇪 Är du nöjd eller missnöjd med din lägenhet? — 🇨🇳 你对你的公寓满意还是不满意？\n",
+      "zh": "对…不满；对…不满意",
+      "en": "dissatisfied with; unhappy about",
+      "created": "2026-06-23",
+      "known": false,
+      "phrase": "missnöjd med",
+      "category": "prepositionsuttryck",
+      "sentences": [],
+      "grammar": [],
+      "topics": [],
+      "backlinks": [
+        "sent-allmanheten-ar-missnojd-med-hoga-matpriser",
+        "source-2026-06-23-nyheter-8sidor"
       ]
     },
     {
@@ -9316,6 +9475,38 @@ window.KB_DATA = {
         "source-2026-06-09-en-handelse-i-tidsordning",
         "stiga",
         "topic-vardagsrutin"
+      ]
+    },
+    {
+      "slug": "stjäla-från-rika-för-att-ge-till-fattiga",
+      "type": "phrase",
+      "title": "stjäla från rika för att ge till fattiga",
+      "path": "knowledge_base/phrases/stjäla-från-rika-för-att-ge-till-fattiga.md",
+      "body": "# stjäla från rika för att ge till fattiga\n\n🗣️ 类型: idiom · 语域: neutralt · 常用度: 2/5\n🇨🇳 劫富济贫 · 🇬🇧 to steal from the rich to give to the poor\n📝 字面: steal from rich (ones) to give to poor (ones)\n\n## 用法说明 (Usage)\n\n- 固定短语，与罗宾汉传说相关联\n- `för att + infinitiv` = \"in order to\" 的目的结构\n- `rika` / `fattiga` = adjektiv 用作名词（有钱人/穷人）\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-for-att-infinitiv]] (för att + infinitiv = 目的从句)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 Robin Hood-principen (罗宾汉原则)\n- 🔗 [[stjäla]] (to steal)\n- 🔗 [[rik]] (rich), [[fattig]] (poor)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Robin Hood stjäl från rika för att ge till fattiga i Sherwoodskogen. — 🇨🇳 罗宾汉在舍伍德森林劫富济贫。\n- 🇸🇪 Legenden om att stjäla från rika för att ge till fattiga är känd i hela världen. — 🇨🇳 劫富济贫的传说举世皆知。",
+      "excerpt": "stjäla från rika för att ge till fattiga 🗣️ 类型: idiom · 语域: neutralt · 常用度: 2/5 🇨🇳 劫富济贫 · 🇬🇧 to steal from the rich to give to the poor 📝 字面: steal from rich (ones) to give to poor (ones) 用法说明 (Usage) 固定短语，与罗宾汉传说相关",
+      "forms": [],
+      "links": [
+        "fattig",
+        "grammar-for-att-infinitiv",
+        "rik",
+        "stjäla"
+      ],
+      "searchText": "stjäla från rika för att ge till fattiga stjäla-från-rika-för-att-ge-till-fattiga knowledge_base/phrases/stjäla-från-rika-för-att-ge-till-fattiga.md ---\ntype: phrase\nphrase: \"stjäla från rika för att ge till fattiga\"\ncategory: idiom\nregister: neutralt\nfrequency: 2\nzh: \"劫富济贫\"\nen: \"to steal from the rich to give to the poor\"\nliteral: \"steal from rich (ones) to give to poor (ones)\"\nhead_words: [\"stjäla\", \"rik\", \"fattig\"]\ngrammar: [\"grammar-for-att-infinitiv\"]\nrelated: []\ntopics: [\"topic-litteratur-och-kultur\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# stjäla från rika för att ge till fattiga\n\n🗣️ 类型: idiom · 语域: neutralt · 常用度: 2/5\n🇨🇳 劫富济贫 · 🇬🇧 to steal from the rich to give to the poor\n📝 字面: steal from rich (ones) to give to poor (ones)\n\n## 用法说明 (Usage)\n\n- 固定短语，与罗宾汉传说相关联\n- `för att + infinitiv` = \"in order to\" 的目的结构\n- `rika` / `fattiga` = adjektiv 用作名词（有钱人/穷人）\n\n## 短语中的语法 (Grammar inside)\n\n- → [[grammar-for-att-infinitiv]] (för att + infinitiv = 目的从句)\n\n## 变体 & 相关 (Variations & Related)\n\n- 🔄 Robin Hood-principen (罗宾汉原则)\n- 🔗 [[stjäla]] (to steal)\n- 🔗 [[rik]] (rich), [[fattig]] (poor)\n\n## 例句 / 对话 (Examples)\n\n- 🇸🇪 Robin Hood stjäl från rika för att ge till fattiga i Sherwoodskogen. — 🇨🇳 罗宾汉在舍伍德森林劫富济贫。\n- 🇸🇪 Legenden om att stjäla från rika för att ge till fattiga är känd i hela världen. — 🇨🇳 劫富济贫的传说举世皆知。\n",
+      "zh": "劫富济贫",
+      "en": "to steal from the rich to give to the poor",
+      "created": "2026-06-23",
+      "known": false,
+      "phrase": "stjäla från rika för att ge till fattiga",
+      "category": "idiom",
+      "sentences": [],
+      "grammar": [
+        "grammar-for-att-infinitiv"
+      ],
+      "topics": [
+        "topic-litteratur-och-kultur"
+      ],
+      "backlinks": [
+        "sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge"
       ]
     },
     {
@@ -11664,6 +11855,36 @@ window.KB_DATA = {
       "backlinks": []
     },
     {
+      "slug": "sent-allmanheten-ar-missnojd-med-hoga-matpriser",
+      "type": "sentence",
+      "title": "🇸🇪 Allmänheten är missnöjd med höga matpriser och svag ekonomi.",
+      "path": "knowledge_base/sentences/sent-allmanheten-ar-missnojd-med-hoga-matpriser.md",
+      "body": "# 🇸🇪 Allmänheten är missnöjd med höga matpriser och svag ekonomi.\n\n🇨🇳 公众对高食品价格和疲软经济感到不满。\n\n## 结构 (Structure)\n\n```\n[Allmänheten] [är] [missnöjd med] [höga matpriser och svag ekonomi]\n     主语        动词   形容词+介词               宾语\n```\n\n## 语法点 (Grammar)\n\n- `allmänheten` = 公众（bestämd form，冠词内含）\n- `missnöjd` 用 utrum 形式，因为 `allmänheten` 是 en-ord\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[missnöjd]]\n- 词组: [[missnöjd-med]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Allmänheten är missnöjd med höga matpriser och svag ekonomi. 🇨🇳 公众对高食品价格和疲软经济感到不满。 结构 (Structure) [Allmänheten] [är] [missnöjd med] [höga matpriser och svag ekonomi] 主语 动词 形容词+介词 宾语 语法点 (Grammar) allmänheten = 公众（",
+      "forms": [],
+      "links": [
+        "missnöjd",
+        "missnöjd-med",
+        "source-2026-06-23-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Allmänheten är missnöjd med höga matpriser och svag ekonomi. sent-allmanheten-ar-missnojd-med-hoga-matpriser knowledge_base/sentences/sent-allmanheten-ar-missnojd-med-hoga-matpriser.md ---\ntype: sentence\nsentence: \"Allmänheten är missnöjd med höga matpriser och svag ekonomi.\"\nzh: \"公众对高食品价格和疲软经济感到不满。\"\ncefr: \"A2\"\nwords: [\"missnöjd\"]\nphrases: [\"missnöjd-med\"]\ngrammar: []\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: [\"topic-samhälle-och-politik\"]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Allmänheten är missnöjd med höga matpriser och svag ekonomi.\n\n🇨🇳 公众对高食品价格和疲软经济感到不满。\n\n## 结构 (Structure)\n\n```\n[Allmänheten] [är] [missnöjd med] [höga matpriser och svag ekonomi]\n     主语        动词   形容词+介词               宾语\n```\n\n## 语法点 (Grammar)\n\n- `allmänheten` = 公众（bestämd form，冠词内含）\n- `missnöjd` 用 utrum 形式，因为 `allmänheten` 是 en-ord\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[missnöjd]]\n- 词组: [[missnöjd-med]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "公众对高食品价格和疲软经济感到不满。",
+      "created": "2026-06-23",
+      "sentence": "Allmänheten är missnöjd med höga matpriser och svag ekonomi.",
+      "words": [
+        "missnöjd"
+      ],
+      "phrases": [
+        "missnöjd-med"
+      ],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-allt-fler-människor-dör-av-värme",
       "type": "sentence",
       "title": "Allt fler människor dör av värme i Europa.",
@@ -12401,6 +12622,36 @@ window.KB_DATA = {
       ],
       "topics": [
         "topic-midsommar-traditioner"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-berattelsen-om-robin-hood-har-cirkulerat-i-hundratals-ar",
+      "type": "sentence",
+      "title": "🇸🇪 Berättelsen om Robin Hood har cirkulerat i hundratals år.",
+      "path": "knowledge_base/sentences/sent-berattelsen-om-robin-hood-har-cirkulerat-i-hundratals-ar.md",
+      "body": "# 🇸🇪 Berättelsen om Robin Hood har cirkulerat i hundratals år.\n\n🇨🇳 罗宾汉的故事流传了数百年。\n\n## 结构 (Structure)\n\n```\n[Berättelsen om Robin Hood] [har cirkulerat] [i hundratals år]\n          主语                  动词(perfekt)      时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har cirkulerat` = perfekt (has circulated — 持续到现在的动作)\n- `i hundratals år` = for hundreds of years（时间延续）\n- `hundratals` = hundreds of (复数的量词形式)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[berättelse]]\n- `cirkulera` = to circulate/spread\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Berättelsen om Robin Hood har cirkulerat i hundratals år. 🇨🇳 罗宾汉的故事流传了数百年。 结构 (Structure) [Berättelsen om Robin Hood] [har cirkulerat] [i hundratals år] 主语 动词(perfekt) 时间状语 语法点 (Grammar) 📌 grammar perfekt — har c",
+      "forms": [],
+      "links": [
+        "berättelse",
+        "grammar-perfekt",
+        "source-2026-06-23-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Berättelsen om Robin Hood har cirkulerat i hundratals år. sent-berattelsen-om-robin-hood-har-cirkulerat-i-hundratals-ar knowledge_base/sentences/sent-berattelsen-om-robin-hood-har-cirkulerat-i-hundratals-ar.md ---\ntype: sentence\nsentence: \"Berättelsen om Robin Hood har cirkulerat i hundratals år.\"\nzh: \"罗宾汉的故事流传了数百年。\"\ncefr: \"B1\"\nwords: [\"berättelse\"]\nphrases: []\ngrammar: [\"grammar-perfekt\"]\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: [\"topic-litteratur-och-kultur\"]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Berättelsen om Robin Hood har cirkulerat i hundratals år.\n\n🇨🇳 罗宾汉的故事流传了数百年。\n\n## 结构 (Structure)\n\n```\n[Berättelsen om Robin Hood] [har cirkulerat] [i hundratals år]\n          主语                  动词(perfekt)      时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har cirkulerat` = perfekt (has circulated — 持续到现在的动作)\n- `i hundratals år` = for hundreds of years（时间延续）\n- `hundratals` = hundreds of (复数的量词形式)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[berättelse]]\n- `cirkulera` = to circulate/spread\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "罗宾汉的故事流传了数百年。",
+      "created": "2026-06-23",
+      "sentence": "Berättelsen om Robin Hood har cirkulerat i hundratals år.",
+      "words": [
+        "berättelse"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-litteratur-och-kultur"
       ],
       "backlinks": []
     },
@@ -13331,6 +13582,33 @@ window.KB_DATA = {
       "backlinks": []
     },
     {
+      "slug": "sent-de-svenska-poliserna-vill-nu-att-mannen",
+      "type": "sentence",
+      "title": "🇸🇪 De svenska poliserna vill nu att mannen blir flyttad till Sverige.",
+      "path": "knowledge_base/sentences/sent-de-svenska-poliserna-vill-nu-att-mannen.md",
+      "body": "# 🇸🇪 De svenska poliserna vill nu att mannen blir flyttad till Sverige.\n\n🇨🇳 瑞典警方现在希望将该男子转移到瑞典。\n\n## 结构 (Structure)\n\n```\n[De svenska poliserna] [vill] [nu] [att mannen blir flyttad till Sverige]\n         主语           情态动词  副词          att-bisats（宾语从句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-konstruktion]] — `blir flyttad` = bli-passiv (被转移)\n- 📌 [[grammar-att-sats]] — att + bisats 作宾语（想要…）\n- `vill att` + bisats = 希望某事发生（主语不同时用 att-bisats）\n\n## 生词 & 词组 (Words & Phrases)\n\n- `bli flyttad` (be moved/transferred)\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 De svenska poliserna vill nu att mannen blir flyttad till Sverige. 🇨🇳 瑞典警方现在希望将该男子转移到瑞典。 结构 (Structure) [De svenska poliserna] [vill] [nu] [att mannen blir flyttad till Sverige] 主语 情态动词 副词 att bisats（宾语从句） 语法点 (Gr",
+      "forms": [],
+      "links": [
+        "grammar-att-sats",
+        "grammar-passiv-konstruktion",
+        "source-2026-06-23-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 De svenska poliserna vill nu att mannen blir flyttad till Sverige. sent-de-svenska-poliserna-vill-nu-att-mannen knowledge_base/sentences/sent-de-svenska-poliserna-vill-nu-att-mannen.md ---\ntype: sentence\nsentence: \"De svenska poliserna vill nu att mannen blir flyttad till Sverige.\"\nzh: \"瑞典警方现在希望将该男子转移到瑞典。\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar: [\"grammar-passiv-konstruktion\", \"grammar-att-sats\"]\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: []\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 De svenska poliserna vill nu att mannen blir flyttad till Sverige.\n\n🇨🇳 瑞典警方现在希望将该男子转移到瑞典。\n\n## 结构 (Structure)\n\n```\n[De svenska poliserna] [vill] [nu] [att mannen blir flyttad till Sverige]\n         主语           情态动词  副词          att-bisats（宾语从句）\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-konstruktion]] — `blir flyttad` = bli-passiv (被转移)\n- 📌 [[grammar-att-sats]] — att + bisats 作宾语（想要…）\n- `vill att` + bisats = 希望某事发生（主语不同时用 att-bisats）\n\n## 生词 & 词组 (Words & Phrases)\n\n- `bli flyttad` (be moved/transferred)\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "瑞典警方现在希望将该男子转移到瑞典。",
+      "created": "2026-06-23",
+      "sentence": "De svenska poliserna vill nu att mannen blir flyttad till Sverige.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-passiv-konstruktion",
+        "grammar-att-sats"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
       "slug": "sent-de-tar-bort-vaxter-som-hotar-andra-arter",
       "type": "sentence",
       "title": "🇸🇪 De tar bort växter som hotar andra arter.",
@@ -13457,6 +13735,36 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-22-greta-thunberg"
       ]
+    },
+    {
+      "slug": "sent-den-22-juni-borjar-motet-almedalen-pa-on-gotland",
+      "type": "sentence",
+      "title": "🇸🇪 Den 22 juni börjar mötet Almedalen på ön Gotland.",
+      "path": "knowledge_base/sentences/sent-den-22-juni-borjar-motet-almedalen-pa-on-gotland.md",
+      "body": "# 🇸🇪 Den 22 juni börjar mötet Almedalen på ön Gotland.\n\n🇨🇳 6月22日，阿尔梅达伦会议在哥得兰岛开幕。\n\n## 结构 (Structure)\n\n```\n[Den 22 juni] [börjar] [mötet Almedalen] [på ön Gotland]\n  时间状语       动词          主语               地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置 → 动词第二位 → 主语在动词之后（倒装）\n- `på ön` = 在岛上（介词 på + bestämd form ön）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[möte]]\n- Almedalen = 瑞典著名政治周/会议（在 Gotland 岛）\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Den 22 juni börjar mötet Almedalen på ön Gotland. 🇨🇳 6月22日，阿尔梅达伦会议在哥得兰岛开幕。 结构 (Structure) [Den 22 juni] [börjar] [mötet Almedalen] [på ön Gotland] 时间状语 动词 主语 地点状语 语法点 (Grammar) 📌 grammar v2 ordfoljd — 时间状语前置 → 动词",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "möte",
+        "source-2026-06-23-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Den 22 juni börjar mötet Almedalen på ön Gotland. sent-den-22-juni-borjar-motet-almedalen-pa-on-gotland knowledge_base/sentences/sent-den-22-juni-borjar-motet-almedalen-pa-on-gotland.md ---\ntype: sentence\nsentence: \"Den 22 juni börjar mötet Almedalen på ön Gotland.\"\nzh: \"6月22日，阿尔梅达伦会议在哥得兰岛开幕。\"\ncefr: \"A2\"\nwords: [\"möte\"]\nphrases: []\ngrammar: [\"grammar-v2-ordfoljd\"]\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: [\"topic-samhälle-och-politik\"]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Den 22 juni börjar mötet Almedalen på ön Gotland.\n\n🇨🇳 6月22日，阿尔梅达伦会议在哥得兰岛开幕。\n\n## 结构 (Structure)\n\n```\n[Den 22 juni] [börjar] [mötet Almedalen] [på ön Gotland]\n  时间状语       动词          主语               地点状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 时间状语前置 → 动词第二位 → 主语在动词之后（倒装）\n- `på ön` = 在岛上（介词 på + bestämd form ön）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[möte]]\n- Almedalen = 瑞典著名政治周/会议（在 Gotland 岛）\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "6月22日，阿尔梅达伦会议在哥得兰岛开幕。",
+      "created": "2026-06-23",
+      "sentence": "Den 22 juni börjar mötet Almedalen på ön Gotland.",
+      "words": [
+        "möte"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-den-26-juni-kommer-ny-film-robin-hood",
@@ -13809,6 +14117,39 @@ window.KB_DATA = {
       "backlinks": []
     },
     {
+      "slug": "sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge",
+      "type": "sentence",
+      "title": "🇸🇪 Denna legendariska hjälte stjäl från rika för att ge till fattiga.",
+      "path": "knowledge_base/sentences/sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge.md",
+      "body": "# 🇸🇪 Denna legendariska hjälte stjäl från rika för att ge till fattiga.\n\n🇨🇳 这位传奇英雄劫富济贫。\n\n## 结构 (Structure)\n\n```\n[Denna legendariska hjälte] [stjäl] [från rika] [för att ge till fattiga]\n           主语               动词     介词短语       目的从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-for-att-infinitiv]] — `för att ge` = 目的结构 \"in order to give\"\n- `rika` / `fattiga` = adjektiv 用作名词 (the rich / the poor)\n- `denna` = demonstrativt pronomen (this — 正式)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hjälte]]\n- 词组: [[stjäla-från-rika-för-att-ge-till-fattiga]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Denna legendariska hjälte stjäl från rika för att ge till fattiga. 🇨🇳 这位传奇英雄劫富济贫。 结构 (Structure) [Denna legendariska hjälte] [stjäl] [från rika] [för att ge till fattiga] 主语 动词 介词短语 目的从句 语法点 (Grammar) 📌 grammar f",
+      "forms": [],
+      "links": [
+        "grammar-for-att-infinitiv",
+        "hjälte",
+        "source-2026-06-23-nyheter-8sidor",
+        "stjäla-från-rika-för-att-ge-till-fattiga"
+      ],
+      "searchText": "🇸🇪 Denna legendariska hjälte stjäl från rika för att ge till fattiga. sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge knowledge_base/sentences/sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge.md ---\ntype: sentence\nsentence: \"Denna legendariska hjälte stjäl från rika för att ge till fattiga.\"\nzh: \"这位传奇英雄劫富济贫。\"\ncefr: \"B1\"\nwords: [\"hjälte\"]\nphrases: [\"stjäla-från-rika-för-att-ge-till-fattiga\"]\ngrammar: [\"grammar-for-att-infinitiv\"]\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: [\"topic-litteratur-och-kultur\"]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Denna legendariska hjälte stjäl från rika för att ge till fattiga.\n\n🇨🇳 这位传奇英雄劫富济贫。\n\n## 结构 (Structure)\n\n```\n[Denna legendariska hjälte] [stjäl] [från rika] [för att ge till fattiga]\n           主语               动词     介词短语       目的从句\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-for-att-infinitiv]] — `för att ge` = 目的结构 \"in order to give\"\n- `rika` / `fattiga` = adjektiv 用作名词 (the rich / the poor)\n- `denna` = demonstrativt pronomen (this — 正式)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[hjälte]]\n- 词组: [[stjäla-från-rika-för-att-ge-till-fattiga]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "这位传奇英雄劫富济贫。",
+      "created": "2026-06-23",
+      "sentence": "Denna legendariska hjälte stjäl från rika för att ge till fattiga.",
+      "words": [
+        "hjälte"
+      ],
+      "phrases": [
+        "stjäla-från-rika-för-att-ge-till-fattiga"
+      ],
+      "grammar": [
+        "grammar-for-att-infinitiv"
+      ],
+      "topics": [
+        "topic-litteratur-och-kultur"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-dessutom-ar-det-stor-skillnad-pa",
       "type": "sentence",
       "title": "🇸🇪 Dessutom är det stor skillnad på hur länge man får vänta i olika delar av landet.",
@@ -13939,6 +14280,37 @@ window.KB_DATA = {
       ],
       "topics": [
         "topic-fotboll"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-det-ar-en-kand-vecka-for-politik-i-sverige",
+      "type": "sentence",
+      "title": "🇸🇪 Det är en känd vecka för politik i Sverige.",
+      "path": "knowledge_base/sentences/sent-det-ar-en-kand-vecka-for-politik-i-sverige.md",
+      "body": "# 🇸🇪 Det är en känd vecka för politik i Sverige.\n\n🇨🇳 这是瑞典著名的政治周。\n\n## 结构 (Structure)\n\n```\n[Det] [är] [en känd vecka] [för politik] [i Sverige]\n 虚主语  动词    主语补语        介词短语        地点\n```\n\n## 语法点 (Grammar)\n\n- `Det är en...` = 基本句型，\"这是一个…\"\n- `känd` = bestämd/utrum form av `känd` (well-known/famous)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[känd]], [[vecka]], [[parti]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Det är en känd vecka för politik i Sverige. 🇨🇳 这是瑞典著名的政治周。 结构 (Structure) [Det] [är] [en känd vecka] [för politik] [i Sverige] 虚主语 动词 主语补语 介词短语 地点 语法点 (Grammar) Det är en... = 基本句型，\"这是一个…\" känd = bestämd/utrum for",
+      "forms": [],
+      "links": [
+        "känd",
+        "parti",
+        "source-2026-06-23-nyheter-8sidor",
+        "vecka"
+      ],
+      "searchText": "🇸🇪 Det är en känd vecka för politik i Sverige. sent-det-ar-en-kand-vecka-for-politik-i-sverige knowledge_base/sentences/sent-det-ar-en-kand-vecka-for-politik-i-sverige.md ---\ntype: sentence\nsentence: \"Det är en känd vecka för politik i Sverige.\"\nzh: \"这是瑞典著名的政治周。\"\ncefr: \"A1\"\nwords: [\"känd\", \"vecka\", \"parti\"]\nphrases: []\ngrammar: []\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: [\"topic-samhälle-och-politik\"]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Det är en känd vecka för politik i Sverige.\n\n🇨🇳 这是瑞典著名的政治周。\n\n## 结构 (Structure)\n\n```\n[Det] [är] [en känd vecka] [för politik] [i Sverige]\n 虚主语  动词    主语补语        介词短语        地点\n```\n\n## 语法点 (Grammar)\n\n- `Det är en...` = 基本句型，\"这是一个…\"\n- `känd` = bestämd/utrum form av `känd` (well-known/famous)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[känd]], [[vecka]], [[parti]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "A1",
+      "zh": "这是瑞典著名的政治周。",
+      "created": "2026-06-23",
+      "sentence": "Det är en känd vecka för politik i Sverige.",
+      "words": [
+        "känd",
+        "vecka",
+        "parti"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik"
       ],
       "backlinks": []
     },
@@ -15373,6 +15745,34 @@ window.KB_DATA = {
         "missa",
         "source-2026-06-03-fraga-vagen-pub"
       ]
+    },
+    {
+      "slug": "sent-du-kan-se-talen-pa-svt-play",
+      "type": "sentence",
+      "title": "🇸🇪 Du kan se talen på SVT Play.",
+      "path": "knowledge_base/sentences/sent-du-kan-se-talen-pa-svt-play.md",
+      "body": "# 🇸🇪 Du kan se talen på SVT Play.\n\n🇨🇳 你可以在SVT Play上收看演讲。\n\n## 结构 (Structure)\n\n```\n[Du] [kan] [se] [talen] [på SVT Play]\n 主语  情态  动词   宾语      地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — `kan` + infinitiv (kan se = can watch)\n- `talen` = bestämd plural av `tal` (speeches)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Du kan se talen på SVT Play. 🇨🇳 你可以在SVT Play上收看演讲。 结构 (Structure) [Du] [kan] [se] [talen] [på SVT Play] 主语 情态 动词 宾语 地点 语法点 (Grammar) 📌 grammar modala hjalpverb — kan + infinitiv (kan se = can watch) talen = bestä",
+      "forms": [],
+      "links": [
+        "grammar-modala-hjalpverb",
+        "source-2026-06-23-nyheter-8sidor",
+        "tal"
+      ],
+      "searchText": "🇸🇪 Du kan se talen på SVT Play. sent-du-kan-se-talen-pa-svt-play knowledge_base/sentences/sent-du-kan-se-talen-pa-svt-play.md ---\ntype: sentence\nsentence: \"Du kan se talen på SVT Play.\"\nzh: \"你可以在SVT Play上收看演讲。\"\ncefr: \"A1\"\nwords: [\"tal\"]\nphrases: []\ngrammar: [\"grammar-modala-hjalpverb\"]\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: []\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Du kan se talen på SVT Play.\n\n🇨🇳 你可以在SVT Play上收看演讲。\n\n## 结构 (Structure)\n\n```\n[Du] [kan] [se] [talen] [på SVT Play]\n 主语  情态  动词   宾语      地点\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-modala-hjalpverb]] — `kan` + infinitiv (kan se = can watch)\n- `talen` = bestämd plural av `tal` (speeches)\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[tal]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "A1",
+      "zh": "你可以在SVT Play上收看演讲。",
+      "created": "2026-06-23",
+      "sentence": "Du kan se talen på SVT Play.",
+      "words": [
+        "tal"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-modala-hjalpverb"
+      ],
+      "topics": [],
+      "backlinks": []
     },
     {
       "slug": "sent-du-ser-en-stor-rod-byggnad",
@@ -19409,6 +19809,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-han-sager-jag-har-lyssnat-pa-mitt-parti",
+      "type": "sentence",
+      "title": "🇸🇪 Han säger: \"Jag har lyssnat på mitt parti.\"",
+      "path": "knowledge_base/sentences/sent-han-sager-jag-har-lyssnat-pa-mitt-parti.md",
+      "body": "# 🇸🇪 Han säger: \"Jag har lyssnat på mitt parti.\"\n\n🇨🇳 他说：\"我已经倾听了我的党的意见。\"\n\n## 结构 (Structure)\n\n```\n[Jag] [har lyssnat] [på mitt parti]\n 主语    动词(perfekt)    介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har lyssnat` = perfekt form (has listened)\n- 📌 引语中的完整句子保留正常语序\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[parti]]\n- 词组: [[lyssna-på]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Han säger: \"Jag har lyssnat på mitt parti.\" 🇨🇳 他说：\"我已经倾听了我的党的意见。\" 结构 (Structure) [Jag] [har lyssnat] [på mitt parti] 主语 动词(perfekt) 介词短语 语法点 (Grammar) 📌 grammar perfekt — har lyssnat = perfekt form (has listened)",
+      "forms": [],
+      "links": [
+        "grammar-perfekt",
+        "lyssna-på",
+        "parti",
+        "source-2026-06-23-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Han säger: \"Jag har lyssnat på mitt parti.\" sent-han-sager-jag-har-lyssnat-pa-mitt-parti knowledge_base/sentences/sent-han-sager-jag-har-lyssnat-pa-mitt-parti.md ---\ntype: sentence\nsentence: \"Han säger: 'Jag har lyssnat på mitt parti.'\"\nzh: \"他说：\"我已经倾听了我的党的意见。\"\"\ncefr: \"A2\"\nwords: [\"parti\"]\nphrases: [\"lyssna-på\"]\ngrammar: [\"grammar-perfekt\"]\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: [\"topic-samhälle-och-politik\"]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Han säger: \"Jag har lyssnat på mitt parti.\"\n\n🇨🇳 他说：\"我已经倾听了我的党的意见。\"\n\n## 结构 (Structure)\n\n```\n[Jag] [har lyssnat] [på mitt parti]\n 主语    动词(perfekt)    介词短语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-perfekt]] — `har lyssnat` = perfekt form (has listened)\n- 📌 引语中的完整句子保留正常语序\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[parti]]\n- 词组: [[lyssna-på]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "他说：\"我已经倾听了我的党的意见。\"",
+      "created": "2026-06-23",
+      "sentence": "Han säger: 'Jag har lyssnat på mitt parti.'",
+      "words": [
+        "parti"
+      ],
+      "phrases": [
+        "lyssna-på"
+      ],
+      "grammar": [
+        "grammar-perfekt"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-han-studerade-i-new-york-pa-1920-talet",
       "type": "sentence",
       "title": "🇸🇪 Han studerade i New York på 1920-talet.",
@@ -20504,6 +20937,36 @@ window.KB_DATA = {
       "grammar": [],
       "topics": [
         "topic-vader-och-arstider"
+      ],
+      "backlinks": []
+    },
+    {
+      "slug": "sent-i-frankrike-far-barnen-sommarlov-i-borjan",
+      "type": "sentence",
+      "title": "🇸🇪 I Frankrike får barnen sommarlov i början av juli.",
+      "path": "knowledge_base/sentences/sent-i-frankrike-far-barnen-sommarlov-i-borjan.md",
+      "body": "# 🇸🇪 I Frankrike får barnen sommarlov i början av juli.\n\n🇨🇳 在法国，孩子们七月初放暑假。\n\n## 结构 (Structure)\n\n```\n[I Frankrike] [får] [barnen] [sommarlov] [i början av juli]\n  地点状语      动词    主语      宾语           时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 地点状语前置 → 动词第二位（V2）→ 主语移到动词后\n- `i början av` = 在…初/开始（常用时间表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[sommarlov]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 I Frankrike får barnen sommarlov i början av juli. 🇨🇳 在法国，孩子们七月初放暑假。 结构 (Structure) [I Frankrike] [får] [barnen] [sommarlov] [i början av juli] 地点状语 动词 主语 宾语 时间状语 语法点 (Grammar) 📌 grammar v2 ordfoljd — 地点状语前置 → 动词",
+      "forms": [],
+      "links": [
+        "grammar-v2-ordfoljd",
+        "sommarlov",
+        "source-2026-06-23-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 I Frankrike får barnen sommarlov i början av juli. sent-i-frankrike-far-barnen-sommarlov-i-borjan knowledge_base/sentences/sent-i-frankrike-far-barnen-sommarlov-i-borjan.md ---\ntype: sentence\nsentence: \"I Frankrike får barnen sommarlov i början av juli.\"\nzh: \"在法国，孩子们七月初放暑假。\"\ncefr: \"A2\"\nwords: [\"sommarlov\"]\nphrases: []\ngrammar: [\"grammar-v2-ordfoljd\"]\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: [\"topic-skola-och-utbildning\"]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 I Frankrike får barnen sommarlov i början av juli.\n\n🇨🇳 在法国，孩子们七月初放暑假。\n\n## 结构 (Structure)\n\n```\n[I Frankrike] [får] [barnen] [sommarlov] [i början av juli]\n  地点状语      动词    主语      宾语           时间状语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-v2-ordfoljd]] — 地点状语前置 → 动词第二位（V2）→ 主语移到动词后\n- `i början av` = 在…初/开始（常用时间表达）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[sommarlov]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "在法国，孩子们七月初放暑假。",
+      "created": "2026-06-23",
+      "sentence": "I Frankrike får barnen sommarlov i början av juli.",
+      "words": [
+        "sommarlov"
+      ],
+      "phrases": [],
+      "grammar": [
+        "grammar-v2-ordfoljd"
+      ],
+      "topics": [
+        "topic-skola-och-utbildning"
       ],
       "backlinks": []
     },
@@ -24048,6 +24511,31 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-mannen-kallas-el-sueco-vilket-betyder-svensken",
+      "type": "sentence",
+      "title": "🇸🇪 Mannen kallas \"El Sueco\" vilket betyder Svensken på spanska.",
+      "path": "knowledge_base/sentences/sent-mannen-kallas-el-sueco-vilket-betyder-svensken.md",
+      "body": "# 🇸🇪 Mannen kallas \"El Sueco\" vilket betyder Svensken på spanska.\n\n🇨🇳 该男子被称为\"El Sueco\"，西班牙语意为\"瑞典人\"。\n\n## 结构 (Structure)\n\n```\n[Mannen] [kallas] [\"El Sueco\"] [vilket betyder] [Svensken på spanska]\n   主语    被动动词     宾语           关系从句              解释\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `kallas` = s-passiv av \"kalla\" (to call/name)\n- `vilket` = relativpronomen，指代前面整个名字\n\n## 生词 & 词组 (Words & Phrases)\n\n- `kallas` (被称为), `betyder` (means/意味着)\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Mannen kallas \"El Sueco\" vilket betyder Svensken på spanska. 🇨🇳 该男子被称为\"El Sueco\"，西班牙语意为\"瑞典人\"。 结构 (Structure) [Mannen] [kallas] [\"El Sueco\"] [vilket betyder] [Svensken på spanska] 主语 被动动词 宾语 关系从句 解释 语法点 (Grammar) \ud83d",
+      "forms": [],
+      "links": [
+        "grammar-passiv-med-s",
+        "source-2026-06-23-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Mannen kallas \"El Sueco\" vilket betyder Svensken på spanska. sent-mannen-kallas-el-sueco-vilket-betyder-svensken knowledge_base/sentences/sent-mannen-kallas-el-sueco-vilket-betyder-svensken.md ---\ntype: sentence\nsentence: \"Mannen kallas 'El Sueco' vilket betyder Svensken på spanska.\"\nzh: \"该男子被称为\"El Sueco\"，西班牙语意为\"瑞典人\"。\"\ncefr: \"B1\"\nwords: []\nphrases: []\ngrammar: [\"grammar-passiv-med-s\"]\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: []\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Mannen kallas \"El Sueco\" vilket betyder Svensken på spanska.\n\n🇨🇳 该男子被称为\"El Sueco\"，西班牙语意为\"瑞典人\"。\n\n## 结构 (Structure)\n\n```\n[Mannen] [kallas] [\"El Sueco\"] [vilket betyder] [Svensken på spanska]\n   主语    被动动词     宾语           关系从句              解释\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `kallas` = s-passiv av \"kalla\" (to call/name)\n- `vilket` = relativpronomen，指代前面整个名字\n\n## 生词 & 词组 (Words & Phrases)\n\n- `kallas` (被称为), `betyder` (means/意味着)\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "该男子被称为\"El Sueco\"，西班牙语意为\"瑞典人\"。",
+      "created": "2026-06-23",
+      "sentence": "Mannen kallas 'El Sueco' vilket betyder Svensken på spanska.",
+      "words": [],
+      "phrases": [],
+      "grammar": [
+        "grammar-passiv-med-s"
+      ],
+      "topics": [],
+      "backlinks": []
+    },
+    {
       "slug": "sent-människor-brukar-plocka-sju-sorters",
       "type": "sentence",
       "title": "🇸🇪 Människor brukar plocka sju sorters blommor och lägga under sin kudde innan de sover.",
@@ -27030,6 +27518,43 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "sent-politikern-andy-burnham-anses-vara-efterträdare",
+      "type": "sentence",
+      "title": "🇸🇪 Politikern Andy Burnham anses vara en trolig efterträdare.",
+      "path": "knowledge_base/sentences/sent-politikern-andy-burnham-anses-vara-efterträdare.md",
+      "body": "# 🇸🇪 Politikern Andy Burnham anses vara en trolig efterträdare.\n\n🇨🇳 政治家安迪·伯纳姆被认为是最可能的继任者。\n\n## 结构 (Structure)\n\n```\n[Politikern Andy Burnham] [anses vara] [en trolig efterträdare]\n           主语               被动动词          主语补语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `anses` = s-passiv av \"anse\" (to consider)\n- 📌 [[grammar-passiv-konstruktion]] — passiv + vara + predikativ\n- `trolig` = probable/likely（adj.）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[politiker]], [[efterträdare]]\n- 词组: [[anses-vara]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Politikern Andy Burnham anses vara en trolig efterträdare. 🇨🇳 政治家安迪·伯纳姆被认为是最可能的继任者。 结构 (Structure) [Politikern Andy Burnham] [anses vara] [en trolig efterträdare] 主语 被动动词 主语补语 语法点 (Grammar) 📌 grammar passiv med s",
+      "forms": [],
+      "links": [
+        "anses-vara",
+        "efterträdare",
+        "grammar-passiv-konstruktion",
+        "grammar-passiv-med-s",
+        "politiker",
+        "source-2026-06-23-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Politikern Andy Burnham anses vara en trolig efterträdare. sent-politikern-andy-burnham-anses-vara-efterträdare knowledge_base/sentences/sent-politikern-andy-burnham-anses-vara-efterträdare.md ---\ntype: sentence\nsentence: \"Politikern Andy Burnham anses vara en trolig efterträdare.\"\nzh: \"政治家安迪·伯纳姆被认为是最可能的继任者。\"\ncefr: \"B1\"\nwords: [\"politiker\", \"efterträdare\"]\nphrases: [\"anses-vara\"]\ngrammar: [\"grammar-passiv-konstruktion\", \"grammar-passiv-med-s\"]\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: [\"topic-samhälle-och-politik\"]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Politikern Andy Burnham anses vara en trolig efterträdare.\n\n🇨🇳 政治家安迪·伯纳姆被认为是最可能的继任者。\n\n## 结构 (Structure)\n\n```\n[Politikern Andy Burnham] [anses vara] [en trolig efterträdare]\n           主语               被动动词          主语补语\n```\n\n## 语法点 (Grammar)\n\n- 📌 [[grammar-passiv-med-s]] — `anses` = s-passiv av \"anse\" (to consider)\n- 📌 [[grammar-passiv-konstruktion]] — passiv + vara + predikativ\n- `trolig` = probable/likely（adj.）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[politiker]], [[efterträdare]]\n- 词组: [[anses-vara]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "B1",
+      "zh": "政治家安迪·伯纳姆被认为是最可能的继任者。",
+      "created": "2026-06-23",
+      "sentence": "Politikern Andy Burnham anses vara en trolig efterträdare.",
+      "words": [
+        "politiker",
+        "efterträdare"
+      ],
+      "phrases": [
+        "anses-vara"
+      ],
+      "grammar": [
+        "grammar-passiv-konstruktion",
+        "grammar-passiv-med-s"
+      ],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
+    },
+    {
       "slug": "sent-politikerna-måste-se-till-att",
       "type": "sentence",
       "title": "Politikerna måste se till att utsläppen från bilar och lastbilar minskar mer.",
@@ -27283,6 +27808,33 @@ window.KB_DATA = {
         "regering",
         "source-2026-06-04-nyheter-vecka-22"
       ]
+    },
+    {
+      "slug": "sent-robin-hood-bor-enligt-sagnerna-i-sherwoodskogen",
+      "type": "sentence",
+      "title": "🇸🇪 Robin Hood bor enligt sägnerna i Sherwoodskogen i England.",
+      "path": "knowledge_base/sentences/sent-robin-hood-bor-enligt-sagnerna-i-sherwoodskogen.md",
+      "body": "# 🇸🇪 Robin Hood bor enligt sägnerna i Sherwoodskogen i England.\n\n🇨🇳 据传说，罗宾汉住在英格兰的舍伍德森林。\n\n## 结构 (Structure)\n\n```\n[Robin Hood] [bor] [enligt sägnerna] [i Sherwoodskogen] [i England]\n    主语       动词      插入语（据传说）      地点状语           地点\n```\n\n## 语法点 (Grammar)\n\n- `enligt sägnerna` = according to the legends（固定表达）\n- `sägnerna` = bestämd plural av `sägen` (the legends)\n- 现在时 `bor` 用于描述传说/虚构中的事（legendärt presens）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[sägen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Robin Hood bor enligt sägnerna i Sherwoodskogen i England. 🇨🇳 据传说，罗宾汉住在英格兰的舍伍德森林。 结构 (Structure) [Robin Hood] [bor] [enligt sägnerna] [i Sherwoodskogen] [i England] 主语 动词 插入语（据传说） 地点状语 地点 语法点 (Grammar) enligt sägn",
+      "forms": [],
+      "links": [
+        "sägen",
+        "source-2026-06-23-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Robin Hood bor enligt sägnerna i Sherwoodskogen i England. sent-robin-hood-bor-enligt-sagnerna-i-sherwoodskogen knowledge_base/sentences/sent-robin-hood-bor-enligt-sagnerna-i-sherwoodskogen.md ---\ntype: sentence\nsentence: \"Robin Hood bor enligt sägnerna i Sherwoodskogen i England.\"\nzh: \"据传说，罗宾汉住在英格兰的舍伍德森林。\"\ncefr: \"A2\"\nwords: [\"sägen\"]\nphrases: []\ngrammar: []\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: [\"topic-litteratur-och-kultur\"]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Robin Hood bor enligt sägnerna i Sherwoodskogen i England.\n\n🇨🇳 据传说，罗宾汉住在英格兰的舍伍德森林。\n\n## 结构 (Structure)\n\n```\n[Robin Hood] [bor] [enligt sägnerna] [i Sherwoodskogen] [i England]\n    主语       动词      插入语（据传说）      地点状语           地点\n```\n\n## 语法点 (Grammar)\n\n- `enligt sägnerna` = according to the legends（固定表达）\n- `sägnerna` = bestämd plural av `sägen` (the legends)\n- 现在时 `bor` 用于描述传说/虚构中的事（legendärt presens）\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[sägen]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "据传说，罗宾汉住在英格兰的舍伍德森林。",
+      "created": "2026-06-23",
+      "sentence": "Robin Hood bor enligt sägnerna i Sherwoodskogen i England.",
+      "words": [
+        "sägen"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-litteratur-och-kultur"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-rörelsen-fick-namnet-fridays-for-future",
@@ -28569,6 +29121,35 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-09-rumsliga-relationer"
       ]
+    },
+    {
+      "slug": "sent-storbritanniens-ledare-keir-starmer-meddelar",
+      "type": "sentence",
+      "title": "🇸🇪 Storbritanniens ledare Keir Starmer meddelar sitt avgång.",
+      "path": "knowledge_base/sentences/sent-storbritanniens-ledare-keir-starmer-meddelar.md",
+      "body": "# 🇸🇪 Storbritanniens ledare Keir Starmer meddelar sitt avgång.\n\n🇨🇳 英国领导人凯尔·斯塔默宣布辞职。\n\n## 结构 (Structure)\n\n```\n[Storbritanniens ledare Keir Starmer] [meddelar] [sitt avgång]\n           主语                          动词          宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `sitt` = reflexivt possessivt pronomen (referring back to subject)\n- 📌 `avgång` = substantiv, en-ord: resignation/departure\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledare]], [[avgång]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]",
+      "excerpt": "🇸🇪 Storbritanniens ledare Keir Starmer meddelar sitt avgång. 🇨🇳 英国领导人凯尔·斯塔默宣布辞职。 结构 (Structure) [Storbritanniens ledare Keir Starmer] [meddelar] [sitt avgång] 主语 动词 宾语 语法点 (Grammar) 📌 sitt = reflexivt possessivt pro",
+      "forms": [],
+      "links": [
+        "avgång",
+        "ledare",
+        "source-2026-06-23-nyheter-8sidor"
+      ],
+      "searchText": "🇸🇪 Storbritanniens ledare Keir Starmer meddelar sitt avgång. sent-storbritanniens-ledare-keir-starmer-meddelar knowledge_base/sentences/sent-storbritanniens-ledare-keir-starmer-meddelar.md ---\ntype: sentence\nsentence: \"Storbritanniens ledare Keir Starmer meddelar sitt avgång.\"\nzh: \"英国领导人凯尔·斯塔默宣布辞职。\"\ncefr: \"A2\"\nwords: [\"ledare\", \"avgång\"]\nphrases: []\ngrammar: []\nsource: \"source-2026-06-23-nyheter-8sidor\"\ntopics: [\"topic-samhälle-och-politik\"]\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# 🇸🇪 Storbritanniens ledare Keir Starmer meddelar sitt avgång.\n\n🇨🇳 英国领导人凯尔·斯塔默宣布辞职。\n\n## 结构 (Structure)\n\n```\n[Storbritanniens ledare Keir Starmer] [meddelar] [sitt avgång]\n           主语                          动词          宾语\n```\n\n## 语法点 (Grammar)\n\n- 📌 `sitt` = reflexivt possessivt pronomen (referring back to subject)\n- 📌 `avgång` = substantiv, en-ord: resignation/departure\n\n## 生词 & 词组 (Words & Phrases)\n\n- 词: [[ledare]], [[avgång]]\n\n## 来源 (Source)\n\n- [[source-2026-06-23-nyheter-8sidor]]\n",
+      "cefr": "A2",
+      "zh": "英国领导人凯尔·斯塔默宣布辞职。",
+      "created": "2026-06-23",
+      "sentence": "Storbritanniens ledare Keir Starmer meddelar sitt avgång.",
+      "words": [
+        "ledare",
+        "avgång"
+      ],
+      "phrases": [],
+      "grammar": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": []
     },
     {
       "slug": "sent-storbritanniens-ledare-keir-starmer-slutar",
@@ -37133,6 +37714,91 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-23-nyheter-8sidor",
+      "type": "source",
+      "title": "Dagens nyheter (8 Sidor) — 2026-06-23",
+      "path": "knowledge_base/sources/source-2026-06-23-nyheter-8sidor.md",
+      "body": "# 📄 Dagens nyheter (8 Sidor) — 2026-06-23\n\n类型: news · 难度: A2–B1\n来源: 8 Sidor — lättläst nyheter\n\n## 原文 (Source Text — 5 artiklar)\n\n**1. Starmer slutar**\nStorbritanniens ledare Keir Starmer meddelar sitt avgång. Han säger: \"Jag har lyssnat på mitt parti.\" Partiets arbetsgrupp Labour måste nu välja en ny ledare. Politikern Andy Burnham anses vara en trolig efterträdare. Allmänheten är missnöjd med höga matpriser och svag ekonomi.\n\n**2. Svensk brottsling är fast**\nPoliserna i Colombia har tagit fast en svensk man som är misstänkt för många brott. Mannen kallas \"El Sueco\" vilket betyder Svensken på spanska. Han är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai. De svenska poliserna vill nu att mannen blir flyttad till Sverige.\n\n**3. Skolor stängs i värmen**\nDet är ovanligt varmt väder i Europa just nu. I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt. I Frankrike får barnen sommarlov i början av juli. Men 845 skolor har nu stängt. Regeringen förbjuder därför barer att sälja alkohol i vissa områden. Att dricka alkohol när det är mycket varmt är farligt eftersom kroppen blir uttorkad extra snabbt.\n\n**4. Politikerna pratar på Gotland**\nDen 22 juni börjar mötet Almedalen på ön Gotland. Det är en känd vecka för politik i Sverige. Partiledarna håller tal under veckan. Du kan se talen på SVT Play.\n\n**5. Ny film om Robin Hood**\nBerättelsen om Robin Hood har cirkulerat i hundratals år. Denna legendariska hjälte stjäl från rika för att ge till fattiga. Robin Hood bor enligt sägnerna i Sherwoodskogen i England. Den 26 juni kommer en ny film om Robin Hood. Bill Skarsgård spelar Lille John, Robin Hoods närmaste följeslagare.\n\n## 全文翻译 (Translation)\n\n🇨🇳\n1. 英国领导人凯尔·斯塔默宣布辞职。工党现在必须选举新领导人。公众对高食品价格和疲软经济感到不满。\n2. 哥伦比亚警察逮捕了一名涉嫌多项罪行的瑞典男子\"El Sueco\"（瑞典人），涉嫌走私毒品。\n3. 欧洲高温，845所法国学校关闭。政府禁止某些地区出售酒精，以防脱水。\n4. 阿尔梅达伦政治周于哥得兰岛开幕，各党领袖发表演讲。\n5. 罗宾汉传说流传数百年，6月26日新电影上映，比尔·斯卡斯加德饰演小约翰。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: [[avgång]], [[efterträdare]], [[koppling]], [[sommarlov]], [[alkohol]], [[berättelse]], [[hjälte]], [[sägen]], [[följeslagare]], [[populistisk]], [[parti]]\n- 词组: [[lyssna-på]], [[missnöjd-med]], [[anses-vara]], [[bli-uttorkad]]\n- 语法: [[grammar-bisats-ordfoljd]], [[grammar-anses-vara]]",
+      "excerpt": "📄 Dagens nyheter (8 Sidor) — 2026 06 23 类型: news · 难度: A2–B1 来源: 8 Sidor — lättläst nyheter 原文 (Source Text — 5 artiklar) 1. Starmer slutar Storbritanniens ledare Keir Starmer meddelar sitt avgång. Han säger: \"Jag har l",
+      "forms": [],
+      "links": [
+        "alkohol",
+        "anses-vara",
+        "avgång",
+        "berättelse",
+        "bli-uttorkad",
+        "efterträdare",
+        "följeslagare",
+        "grammar-anses-vara",
+        "grammar-bisats-ordfoljd",
+        "hjälte",
+        "koppling",
+        "lyssna-på",
+        "missnöjd-med",
+        "parti",
+        "populistisk",
+        "sägen",
+        "sommarlov"
+      ],
+      "searchText": "Dagens nyheter (8 Sidor) — 2026-06-23 source-2026-06-23-nyheter-8sidor knowledge_base/sources/source-2026-06-23-nyheter-8sidor.md ---\ntype: source\ntitle: \"Dagens nyheter (8 Sidor) — 2026-06-23\"\nkind: news\ncefr: \"A2–B1\"\ndate_added: \"2026-06-23\"\nwords: [\"avgång\", \"efterträdare\", \"koppling\", \"sommarlov\", \"alkohol\", \"berättelse\", \"hjälte\", \"sägen\", \"följeslagare\", \"populistisk\", \"parti\"]\nphrases: [\"lyssna-på\", \"missnöjd-med\", \"anses-vara\", \"stjäla-från-rika-för-att-ge-till-fattiga\", \"bli-uttorkad\"]\nsentences: [\"sent-storbritanniens-ledare-keir-starmer-meddelar\", \"sent-han-sager-jag-har-lyssnat-pa-mitt-parti\", \"sent-politikern-andy-burnham-anses-vara-efterträdare\", \"sent-allmanheten-ar-missnojd-med-hoga-matpriser\", \"sent-mannen-kallas-el-sueco-vilket-betyder-svensken\", \"sent-de-svenska-poliserna-vill-nu-att-mannen\", \"sent-i-frankrike-far-barnen-sommarlov-i-borjan\", \"sent-den-22-juni-borjar-motet-almedalen-pa-on-gotland\", \"sent-det-ar-en-kand-vecka-for-politik-i-sverige\", \"sent-du-kan-se-talen-pa-svt-play\", \"sent-berattelsen-om-robin-hood-har-cirkulerat-i-hundratals-ar\", \"sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge\", \"sent-robin-hood-bor-enligt-sagnerna-i-sherwoodskogen\"]\ngrammar: [\"grammar-bisats-ordfoljd\"]\n---\n\n# 📄 Dagens nyheter (8 Sidor) — 2026-06-23\n\n类型: news · 难度: A2–B1\n来源: 8 Sidor — lättläst nyheter\n\n## 原文 (Source Text — 5 artiklar)\n\n**1. Starmer slutar**\nStorbritanniens ledare Keir Starmer meddelar sitt avgång. Han säger: \"Jag har lyssnat på mitt parti.\" Partiets arbetsgrupp Labour måste nu välja en ny ledare. Politikern Andy Burnham anses vara en trolig efterträdare. Allmänheten är missnöjd med höga matpriser och svag ekonomi.\n\n**2. Svensk brottsling är fast**\nPoliserna i Colombia har tagit fast en svensk man som är misstänkt för många brott. Mannen kallas \"El Sueco\" vilket betyder Svensken på spanska. Han är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai. De svenska poliserna vill nu att mannen blir flyttad till Sverige.\n\n**3. Skolor stängs i värmen**\nDet är ovanligt varmt väder i Europa just nu. I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt. I Frankrike får barnen sommarlov i början av juli. Men 845 skolor har nu stängt. Regeringen förbjuder därför barer att sälja alkohol i vissa områden. Att dricka alkohol när det är mycket varmt är farligt eftersom kroppen blir uttorkad extra snabbt.\n\n**4. Politikerna pratar på Gotland**\nDen 22 juni börjar mötet Almedalen på ön Gotland. Det är en känd vecka för politik i Sverige. Partiledarna håller tal under veckan. Du kan se talen på SVT Play.\n\n**5. Ny film om Robin Hood**\nBerättelsen om Robin Hood har cirkulerat i hundratals år. Denna legendariska hjälte stjäl från rika för att ge till fattiga. Robin Hood bor enligt sägnerna i Sherwoodskogen i England. Den 26 juni kommer en ny film om Robin Hood. Bill Skarsgård spelar Lille John, Robin Hoods närmaste följeslagare.\n\n## 全文翻译 (Translation)\n\n🇨🇳\n1. 英国领导人凯尔·斯塔默宣布辞职。工党现在必须选举新领导人。公众对高食品价格和疲软经济感到不满。\n2. 哥伦比亚警察逮捕了一名涉嫌多项罪行的瑞典男子\"El Sueco\"（瑞典人），涉嫌走私毒品。\n3. 欧洲高温，845所法国学校关闭。政府禁止某些地区出售酒精，以防脱水。\n4. 阿尔梅达伦政治周于哥得兰岛开幕，各党领袖发表演讲。\n5. 罗宾汉传说流传数百年，6月26日新电影上映，比尔·斯卡斯加德饰演小约翰。\n\n## 提取 (Extracted → linked notes)\n\n- 生词: [[avgång]], [[efterträdare]], [[koppling]], [[sommarlov]], [[alkohol]], [[berättelse]], [[hjälte]], [[sägen]], [[följeslagare]], [[populistisk]], [[parti]]\n- 词组: [[lyssna-på]], [[missnöjd-med]], [[anses-vara]], [[bli-uttorkad]]\n- 语法: [[grammar-bisats-ordfoljd]], [[grammar-anses-vara]]\n",
+      "cefr": "A2–B1",
+      "date_added": "2026-06-23",
+      "kind": "news",
+      "words": [
+        "avgång",
+        "efterträdare",
+        "koppling",
+        "sommarlov",
+        "alkohol",
+        "berättelse",
+        "hjälte",
+        "sägen",
+        "följeslagare",
+        "populistisk",
+        "parti"
+      ],
+      "phrases": [
+        "lyssna-på",
+        "missnöjd-med",
+        "anses-vara",
+        "stjäla-från-rika-för-att-ge-till-fattiga",
+        "bli-uttorkad"
+      ],
+      "sentences": [
+        "sent-storbritanniens-ledare-keir-starmer-meddelar",
+        "sent-han-sager-jag-har-lyssnat-pa-mitt-parti",
+        "sent-politikern-andy-burnham-anses-vara-efterträdare",
+        "sent-allmanheten-ar-missnojd-med-hoga-matpriser",
+        "sent-mannen-kallas-el-sueco-vilket-betyder-svensken",
+        "sent-de-svenska-poliserna-vill-nu-att-mannen",
+        "sent-i-frankrike-far-barnen-sommarlov-i-borjan",
+        "sent-den-22-juni-borjar-motet-almedalen-pa-on-gotland",
+        "sent-det-ar-en-kand-vecka-for-politik-i-sverige",
+        "sent-du-kan-se-talen-pa-svt-play",
+        "sent-berattelsen-om-robin-hood-har-cirkulerat-i-hundratals-ar",
+        "sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge",
+        "sent-robin-hood-bor-enligt-sagnerna-i-sherwoodskogen"
+      ],
+      "grammar": [
+        "grammar-bisats-ordfoljd"
+      ],
+      "backlinks": [
+        "sent-allmanheten-ar-missnojd-med-hoga-matpriser",
+        "sent-berattelsen-om-robin-hood-har-cirkulerat-i-hundratals-ar",
+        "sent-de-svenska-poliserna-vill-nu-att-mannen",
+        "sent-den-22-juni-borjar-motet-almedalen-pa-on-gotland",
+        "sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge",
+        "sent-det-ar-en-kand-vecka-for-politik-i-sverige",
+        "sent-du-kan-se-talen-pa-svt-play",
+        "sent-han-sager-jag-har-lyssnat-pa-mitt-parti",
+        "sent-i-frankrike-far-barnen-sommarlov-i-borjan",
+        "sent-mannen-kallas-el-sueco-vilket-betyder-svensken",
+        "sent-politikern-andy-burnham-anses-vara-efterträdare",
+        "sent-robin-hood-bor-enligt-sagnerna-i-sherwoodskogen",
+        "sent-storbritanniens-ledare-keir-starmer-meddelar"
+      ]
+    },
+    {
       "slug": "source-2026-06-23-tetra-pak",
       "type": "source",
       "title": "Källa: Tetra Pak – en svensk uppfinning",
@@ -38097,6 +38763,7 @@ window.KB_DATA = {
         "glad",
         "god",
         "hjälpsam",
+        "hjälte",
         "intressant",
         "kall",
         "klok",
@@ -38449,11 +39116,15 @@ window.KB_DATA = {
       "backlinks": [
         "barnboksförfattare",
         "berätta",
+        "berättelse",
         "bokförlag",
+        "följeslagare",
         "förlag",
         "glömd",
+        "hjälte",
         "publicera",
-        "saga"
+        "saga",
+        "sägen"
       ]
     },
     {
@@ -38566,6 +39237,7 @@ window.KB_DATA = {
       "kind": "semantic-field",
       "backlinks": [
         "ägg",
+        "alkohol",
         "allergisk",
         "apelsin",
         "äppelpaj",
@@ -39338,6 +40010,7 @@ window.KB_DATA = {
       "created": "2026-06-04",
       "kind": "semantic-field",
       "backlinks": [
+        "avgång",
         "avtal",
         "bekymmersam",
         "brottsling",
@@ -39345,6 +40018,7 @@ window.KB_DATA = {
         "döma",
         "domstol",
         "drog",
+        "efterträdare",
         "fängelse",
         "förbjuda",
         "förlora-makten",
@@ -39380,7 +40054,9 @@ window.KB_DATA = {
         "olaglig",
         "olja",
         "omhänderta",
+        "parti",
         "politiker",
+        "populistisk",
         "provins",
         "ränta",
         "regering",
@@ -39495,6 +40171,7 @@ window.KB_DATA = {
         "skola",
         "skolavslutning",
         "skolstrejk",
+        "sommarlov",
         "studentmössa",
         "studiemedel",
         "teoretisk",
@@ -40335,6 +41012,36 @@ window.KB_DATA = {
         "rådjur",
         "source-2026-06-08-djur",
         "topic-djur"
+      ]
+    },
+    {
+      "slug": "alkohol",
+      "type": "word",
+      "title": "alkohol",
+      "path": "knowledge_base/words/alkohol.md",
+      "body": "# alkohol — substantiv\n\n📖 中文：酒精；酒 · English: alcohol\n发音提示：/ˌalkɔˈhuːl/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | alkohol |\n| bestämd singular | alkoholen |\n| plural | (sällan plural — 通常不可数) |\n\n## 词组搭配 (Collocations)\n\n- `dricka alkohol` — 喝酒\n- `sälja alkohol` — 卖酒\n- `förbjuda alkohol` — 禁止酒精\n- `innehåller alkohol` — 含有酒精\n- `alkoholfri dryck` — 无酒精饮料\n\n## 例句 (Sentences)\n\n- 🇸🇪 Att dricka alkohol när det är varmt är farligt för kroppen. — 🇨🇳 天热时喝酒对身体有危险。\n- 🇸🇪 I Sverige säljs alkohol på Systembolaget. — 🇨🇳 在瑞典，酒在Systembolaget（国家酒类专卖店）出售。\n- 🇸🇪 Regeringen förbjöd barer att sälja alkohol i hettan. — 🇨🇳 政府禁止酒吧在高温天气中出售酒精。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: alkoholhaltigt (adj: 含酒精的), alkoholist (酗酒者), alkoholism (酗酒)\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 通常不可数，没有常用复数形式\n- Systembolaget = 瑞典国家酒类专卖局，是唯一合法零售酒精饮料的地方（超过3.5% ABV）",
+      "excerpt": "alkohol — substantiv 📖 中文：酒精；酒 · English: alcohol 发音提示：/ˌalkɔˈhuːl/ 语法变形 (Forms) form Swedish obestämd singular alkohol bestämd singular alkoholen plural (sällan plural — 通常不可数) 词组搭配 (Collocations) dricka alkohol — 喝酒 s",
+      "forms": [
+        "alkohol",
+        "alkoholen"
+      ],
+      "links": [
+        "topic-mat-dryck"
+      ],
+      "searchText": "alkohol alkohol knowledge_base/words/alkohol.md ---\ntype: word\nlemma: \"alkohol\"\nordklass: substantiv\ngenus: en\ncefr: \"A2\"\nzh: \"酒精；酒\"\nen: \"alcohol\"\nsynonyms: []\nantonyms: []\nfamily: [\"alkoholhaltigt\", \"alkoholist\", \"alkoholism\"]\ntopics: [\"topic-mat-dryck\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# alkohol — substantiv\n\n📖 中文：酒精；酒 · English: alcohol\n发音提示：/ˌalkɔˈhuːl/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | alkohol |\n| bestämd singular | alkoholen |\n| plural | (sällan plural — 通常不可数) |\n\n## 词组搭配 (Collocations)\n\n- `dricka alkohol` — 喝酒\n- `sälja alkohol` — 卖酒\n- `förbjuda alkohol` — 禁止酒精\n- `innehåller alkohol` — 含有酒精\n- `alkoholfri dryck` — 无酒精饮料\n\n## 例句 (Sentences)\n\n- 🇸🇪 Att dricka alkohol när det är varmt är farligt för kroppen. — 🇨🇳 天热时喝酒对身体有危险。\n- 🇸🇪 I Sverige säljs alkohol på Systembolaget. — 🇨🇳 在瑞典，酒在Systembolaget（国家酒类专卖店）出售。\n- 🇸🇪 Regeringen förbjöd barer att sälja alkohol i hettan. — 🇨🇳 政府禁止酒吧在高温天气中出售酒精。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: alkoholhaltigt (adj: 含酒精的), alkoholist (酗酒者), alkoholism (酗酒)\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 通常不可数，没有常用复数形式\n- Systembolaget = 瑞典国家酒类专卖局，是唯一合法零售酒精饮料的地方（超过3.5% ABV）\n",
+      "lemma": "alkohol",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "酒精；酒",
+      "en": "alcohol",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "source-2026-06-23-nyheter-8sidor"
       ]
     },
     {
@@ -41676,6 +42383,40 @@ window.KB_DATA = {
       "backlinks": []
     },
     {
+      "slug": "avgång",
+      "type": "word",
+      "title": "avgång",
+      "path": "knowledge_base/words/avgång.md",
+      "body": "# avgång — substantiv\n\n📖 中文：辞职；出发 · English: resignation; departure\n发音提示：/ˈɑːvˌgoŋ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en avgång |\n| bestämd singular | avgången |\n| obestämd plural | avgångar |\n| bestämd plural | avgångarna |\n\n## 词组搭配 (Collocations)\n\n- `meddela sin avgång` — 宣布辞职\n- `frivillig avgång` — 自愿离职\n- `tågets avgång` — 火车出发时间\n- `avgångstid` — 出发时间\n\n## 例句 (Sentences)\n\n**义项1 辞职 (resignation):**\n- 🇸🇪 Statsministern meddelade sin avgång efter förlusten i valet. — 🇨🇳 首相在选举失败后宣布辞职。\n- 🇸🇪 Partiet är chockat av ledarens plötsliga avgång. — 🇨🇳 党内对领导人突然辞职感到震惊。\n\n**义项2 出发 (departure — transport):**\n- 🇸🇪 Tågets avgång från Stockholm är klockan åtta. — 🇨🇳 火车从斯德哥尔摩出发的时间是八点。\n- 🇸🇪 Nästa avgång till Göteborg går om tio minuter. — 🇨🇳 下一班去哥德堡的车十分钟后出发。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[avgå]] (verb: 辞职/出发)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 一词多义关键区别：人的\"辞职\" vs. 交通工具的\"出发/班次\"\n- \"meddela sin avgång\" = 正式宣布辞职（常见于政治新闻）\n- tågets avgång = 火车出发，也可指具体\"一班次\"",
+      "excerpt": "avgång — substantiv 📖 中文：辞职；出发 · English: resignation; departure 发音提示：/ˈɑːvˌgoŋ/ 语法变形 (Forms) form Swedish obestämd singular en avgång bestämd singular avgången obestämd plural avgångar bestämd plural avgångarna 词组搭配 (C",
+      "forms": [
+        "avgång",
+        "avgången",
+        "avgångar",
+        "avgångarna"
+      ],
+      "links": [
+        "avgå",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "avgång avgång knowledge_base/words/avgång.md ---\ntype: word\nlemma: \"avgång\"\nordklass: substantiv\ngenus: en\ncefr: \"B1\"\nzh: \"辞职；出发\"\nen: \"resignation; departure\"\nsynonyms: []\nantonyms: []\nfamily: [\"avgå\"]\ntopics: [\"topic-samhälle-och-politik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# avgång — substantiv\n\n📖 中文：辞职；出发 · English: resignation; departure\n发音提示：/ˈɑːvˌgoŋ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en avgång |\n| bestämd singular | avgången |\n| obestämd plural | avgångar |\n| bestämd plural | avgångarna |\n\n## 词组搭配 (Collocations)\n\n- `meddela sin avgång` — 宣布辞职\n- `frivillig avgång` — 自愿离职\n- `tågets avgång` — 火车出发时间\n- `avgångstid` — 出发时间\n\n## 例句 (Sentences)\n\n**义项1 辞职 (resignation):**\n- 🇸🇪 Statsministern meddelade sin avgång efter förlusten i valet. — 🇨🇳 首相在选举失败后宣布辞职。\n- 🇸🇪 Partiet är chockat av ledarens plötsliga avgång. — 🇨🇳 党内对领导人突然辞职感到震惊。\n\n**义项2 出发 (departure — transport):**\n- 🇸🇪 Tågets avgång från Stockholm är klockan åtta. — 🇨🇳 火车从斯德哥尔摩出发的时间是八点。\n- 🇸🇪 Nästa avgång till Göteborg går om tio minuter. — 🇨🇳 下一班去哥德堡的车十分钟后出发。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[avgå]] (verb: 辞职/出发)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 一词多义关键区别：人的\"辞职\" vs. 交通工具的\"出发/班次\"\n- \"meddela sin avgång\" = 正式宣布辞职（常见于政治新闻）\n- tågets avgång = 火车出发，也可指具体\"一班次\"\n",
+      "lemma": "avgång",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "辞职；出发",
+      "en": "resignation; departure",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-storbritanniens-ledare-keir-starmer-meddelar",
+        "source-2026-06-23-nyheter-8sidor"
+      ]
+    },
+    {
       "slug": "avrunda",
       "type": "word",
       "title": "avrunda",
@@ -42595,6 +43336,7 @@ window.KB_DATA = {
         "topic-litteratur-och-kultur"
       ],
       "backlinks": [
+        "berättelse",
         "handla-om",
         "index",
         "sent-jag-ska-berätta-vad-som-hände",
@@ -42603,6 +43345,44 @@ window.KB_DATA = {
         "source-2026-06-09-zlatan-bio",
         "tal",
         "topic-litteratur-och-kultur"
+      ]
+    },
+    {
+      "slug": "berättelse",
+      "type": "word",
+      "title": "berättelse",
+      "path": "knowledge_base/words/berättelse.md",
+      "body": "# berättelse — substantiv\n\n📖 中文：故事；叙述 · English: story; narrative\n发音提示：/bɛˈrɛtɛlsɛ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en berättelse |\n| bestämd singular | berättelsen |\n| obestämd plural | berättelser |\n| bestämd plural | berättelserna |\n\n## 词组搭配 (Collocations)\n\n- `berätta en berättelse` — 讲一个故事\n- `en gammal berättelse` — 一个古老的故事\n- `berättelsen om...` — 关于…的故事\n- `cirkulera i hundratals år` — 流传数百年\n\n## 例句 (Sentences)\n\n- 🇸🇪 Berättelsen om Robin Hood har cirkulerat i hundratals år. — 🇨🇳 罗宾汉的故事已流传了数百年。\n- 🇸🇪 Mormor berättar alltid en spännande berättelse för barnbarnen. — 🇨🇳 外婆总是给孙子们讲一个精彩的故事。\n- 🇸🇪 Boken innehåller många korta berättelser om livet i Sverige. — 🇨🇳 这本书包含许多关于瑞典生活的短篇故事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[berätta]] (verb: 讲述), berättare (narrator), berättande (narrating)\n- 同义词: [[saga]] (fairy tale — more literary/fantasy)\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `berättelse` 是一般意义的\"故事/叙述\"，可以是真实或虚构的\n- `saga` 更偏向童话/神话，且更具文学色彩\n- `novell` = 短篇小说（更正式的文学体裁）",
+      "excerpt": "berättelse — substantiv 📖 中文：故事；叙述 · English: story; narrative 发音提示：/bɛˈrɛtɛlsɛ/ 语法变形 (Forms) form Swedish obestämd singular en berättelse bestämd singular berättelsen obestämd plural berättelser bestämd plural berättel",
+      "forms": [
+        "berättelse",
+        "berättelsen",
+        "berättelser",
+        "berättelserna"
+      ],
+      "links": [
+        "berätta",
+        "saga",
+        "topic-litteratur-och-kultur"
+      ],
+      "searchText": "berättelse berättelse knowledge_base/words/berättelse.md ---\ntype: word\nlemma: \"berättelse\"\nordklass: substantiv\ngenus: en\ncefr: \"A2\"\nzh: \"故事；叙述\"\nen: \"story; narrative\"\nsynonyms: [\"saga\"]\nantonyms: []\nfamily: [\"berätta\", \"berättare\", \"berättande\"]\ntopics: [\"topic-litteratur-och-kultur\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# berättelse — substantiv\n\n📖 中文：故事；叙述 · English: story; narrative\n发音提示：/bɛˈrɛtɛlsɛ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en berättelse |\n| bestämd singular | berättelsen |\n| obestämd plural | berättelser |\n| bestämd plural | berättelserna |\n\n## 词组搭配 (Collocations)\n\n- `berätta en berättelse` — 讲一个故事\n- `en gammal berättelse` — 一个古老的故事\n- `berättelsen om...` — 关于…的故事\n- `cirkulera i hundratals år` — 流传数百年\n\n## 例句 (Sentences)\n\n- 🇸🇪 Berättelsen om Robin Hood har cirkulerat i hundratals år. — 🇨🇳 罗宾汉的故事已流传了数百年。\n- 🇸🇪 Mormor berättar alltid en spännande berättelse för barnbarnen. — 🇨🇳 外婆总是给孙子们讲一个精彩的故事。\n- 🇸🇪 Boken innehåller många korta berättelser om livet i Sverige. — 🇨🇳 这本书包含许多关于瑞典生活的短篇故事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[berätta]] (verb: 讲述), berättare (narrator), berättande (narrating)\n- 同义词: [[saga]] (fairy tale — more literary/fantasy)\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `berättelse` 是一般意义的\"故事/叙述\"，可以是真实或虚构的\n- `saga` 更偏向童话/神话，且更具文学色彩\n- `novell` = 短篇小说（更正式的文学体裁）\n",
+      "lemma": "berättelse",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "故事；叙述",
+      "en": "story; narrative",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-litteratur-och-kultur"
+      ],
+      "backlinks": [
+        "berätta",
+        "saga",
+        "sägen",
+        "sent-berattelsen-om-robin-hood-har-cirkulerat-i-hundratals-ar",
+        "source-2026-06-23-nyheter-8sidor"
       ]
     },
     {
@@ -46397,6 +47177,39 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "efterträdare",
+      "type": "word",
+      "title": "efterträdare",
+      "path": "knowledge_base/words/efterträdare.md",
+      "body": "# efterträdare — substantiv\n\n📖 中文：继任者；接班人 · English: successor\n发音提示：/ˈɛftərˌtrɛːdarə/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en efterträdare |\n| bestämd singular | efterträdaren |\n| obestämd plural | efterträdare |\n| bestämd plural | efterträdarna |\n\n注意：单复数同形 (same singular/plural in obestämd form)\n\n## 词组搭配 (Collocations)\n\n- `trolig efterträdare` — 可能的继任者\n- `utse en efterträdare` — 指定继任者\n- `väljas till efterträdare` — 被选为继任者\n\n## 例句 (Sentences)\n\n- 🇸🇪 Politikern anses vara en trolig efterträdare till partiledaren. — 🇨🇳 这位政治家被认为是党魁最可能的继任者。\n- 🇸🇪 Presidenten har ännu inte utsett en efterträdare. — 🇨🇳 总统尚未指定继任者。\n- 🇸🇪 Vem blir nästa efterträdare till tronen? — 🇨🇳 谁将成为下一任王位继承人？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[efterträda]] (verb: 继任)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常见于政治、历史或商业语境\n- 词根：`efter` (after) + `träda` (step) → 字面意为\"踏上之后\"的人",
+      "excerpt": "efterträdare — substantiv 📖 中文：继任者；接班人 · English: successor 发音提示：/ˈɛftərˌtrɛːdarə/ 语法变形 (Forms) form Swedish obestämd singular en efterträdare bestämd singular efterträdaren obestämd plural efterträdare bestämd plural e",
+      "forms": [
+        "efterträdare",
+        "efterträdaren",
+        "efterträdarna"
+      ],
+      "links": [
+        "efterträda",
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "efterträdare efterträdare knowledge_base/words/efterträdare.md ---\ntype: word\nlemma: \"efterträdare\"\nordklass: substantiv\ngenus: en\ncefr: \"B1\"\nzh: \"继任者；接班人\"\nen: \"successor\"\nsynonyms: []\nantonyms: []\nfamily: [\"efterträda\"]\ntopics: [\"topic-samhälle-och-politik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# efterträdare — substantiv\n\n📖 中文：继任者；接班人 · English: successor\n发音提示：/ˈɛftərˌtrɛːdarə/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en efterträdare |\n| bestämd singular | efterträdaren |\n| obestämd plural | efterträdare |\n| bestämd plural | efterträdarna |\n\n注意：单复数同形 (same singular/plural in obestämd form)\n\n## 词组搭配 (Collocations)\n\n- `trolig efterträdare` — 可能的继任者\n- `utse en efterträdare` — 指定继任者\n- `väljas till efterträdare` — 被选为继任者\n\n## 例句 (Sentences)\n\n- 🇸🇪 Politikern anses vara en trolig efterträdare till partiledaren. — 🇨🇳 这位政治家被认为是党魁最可能的继任者。\n- 🇸🇪 Presidenten har ännu inte utsett en efterträdare. — 🇨🇳 总统尚未指定继任者。\n- 🇸🇪 Vem blir nästa efterträdare till tronen? — 🇨🇳 谁将成为下一任王位继承人？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[efterträda]] (verb: 继任)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常见于政治、历史或商业语境\n- 词根：`efter` (after) + `träda` (step) → 字面意为\"踏上之后\"的人\n",
+      "lemma": "efterträdare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "继任者；接班人",
+      "en": "successor",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-politikern-andy-burnham-anses-vara-efterträdare",
+        "source-2026-06-23-nyheter-8sidor"
+      ]
+    },
+    {
       "slug": "egen",
       "type": "word",
       "title": "egen",
@@ -47520,7 +48333,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "rik",
-        "sent-de-berattade-om-robin-hood-rika-fattiga"
+        "sent-de-berattade-om-robin-hood-rika-fattiga",
+        "stjäla-från-rika-för-att-ge-till-fattiga"
       ]
     },
     {
@@ -48446,6 +49260,40 @@ window.KB_DATA = {
         "sent-skål-för-födelsedagsfirandet",
         "sent-vi-har-en-liten-överraskning-till",
         "source-2026-06-15-restaurang-fodelsedag"
+      ]
+    },
+    {
+      "slug": "följeslagare",
+      "type": "word",
+      "title": "följeslagare",
+      "path": "knowledge_base/words/följeslagare.md",
+      "body": "# följeslagare — substantiv\n\n📖 中文：伙伴；随从；同伴 · English: companion; follower; sidekick\n发音提示：/ˈfœlɛˌslɑːɡarɛ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en följeslagare |\n| bestämd singular | följeslagaren |\n| obestämd plural | följeslagare |\n| bestämd plural | följeslagarna |\n\n注意：单复数同形 (same obestämd singular/plural)\n\n## 词组搭配 (Collocations)\n\n- `närmaste följeslagare` — 最亲密的伙伴\n- `trogen följeslagare` — 忠实的伙伴\n- `livslång följeslagare` — 终身伴侣/伙伴\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lille John är Robin Hoods närmaste och trognaste följeslagare. — 🇨🇳 小约翰是罗宾汉最亲密、最忠实的伙伴。\n- 🇸🇪 Hunden har i tusentals år varit människans följeslagare. — 🇨🇳 狗千百年来一直是人类的伙伴。\n- 🇸🇪 I sagan hade prinsen en trogen följeslagare på sin resa. — 🇨🇳 在故事中，王子在旅途中有一位忠实的伙伴。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[följa]] (follow), följa med (accompany)\n- 同义词: [[kamrat]] (comrade), [[kompis]] (friend/buddy) — mer vardagliga\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `följeslagare` 是正式/文学用词，常出现在历史、小说或新闻语境\n- 日常更多用 `kompis`/`vän`/`kamrat` 表达\"朋友\"\n- 词根：`följa` (follow) + `slagare` (从 slag/strike，此处作后缀)",
+      "excerpt": "följeslagare — substantiv 📖 中文：伙伴；随从；同伴 · English: companion; follower; sidekick 发音提示：/ˈfœlɛˌslɑːɡarɛ/ 语法变形 (Forms) form Swedish obestämd singular en följeslagare bestämd singular följeslagaren obestämd plural följeslag",
+      "forms": [
+        "följeslagare",
+        "följeslagaren",
+        "följeslagarna"
+      ],
+      "links": [
+        "följa",
+        "kamrat",
+        "kompis",
+        "topic-litteratur-och-kultur"
+      ],
+      "searchText": "följeslagare följeslagare knowledge_base/words/följeslagare.md ---\ntype: word\nlemma: \"följeslagare\"\nordklass: substantiv\ngenus: en\ncefr: \"B1\"\nzh: \"伙伴；随从；同伴\"\nen: \"companion; follower; sidekick\"\nsynonyms: [\"kamrat\", \"kompis\"]\nantonyms: []\nfamily: [\"följa\", \"följa med\"]\ntopics: [\"topic-litteratur-och-kultur\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# följeslagare — substantiv\n\n📖 中文：伙伴；随从；同伴 · English: companion; follower; sidekick\n发音提示：/ˈfœlɛˌslɑːɡarɛ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en följeslagare |\n| bestämd singular | följeslagaren |\n| obestämd plural | följeslagare |\n| bestämd plural | följeslagarna |\n\n注意：单复数同形 (same obestämd singular/plural)\n\n## 词组搭配 (Collocations)\n\n- `närmaste följeslagare` — 最亲密的伙伴\n- `trogen följeslagare` — 忠实的伙伴\n- `livslång följeslagare` — 终身伴侣/伙伴\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lille John är Robin Hoods närmaste och trognaste följeslagare. — 🇨🇳 小约翰是罗宾汉最亲密、最忠实的伙伴。\n- 🇸🇪 Hunden har i tusentals år varit människans följeslagare. — 🇨🇳 狗千百年来一直是人类的伙伴。\n- 🇸🇪 I sagan hade prinsen en trogen följeslagare på sin resa. — 🇨🇳 在故事中，王子在旅途中有一位忠实的伙伴。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[följa]] (follow), följa med (accompany)\n- 同义词: [[kamrat]] (comrade), [[kompis]] (friend/buddy) — mer vardagliga\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `följeslagare` 是正式/文学用词，常出现在历史、小说或新闻语境\n- 日常更多用 `kompis`/`vän`/`kamrat` 表达\"朋友\"\n- 词根：`följa` (follow) + `slagare` (从 slag/strike，此处作后缀)\n",
+      "lemma": "följeslagare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "伙伴；随从；同伴",
+      "en": "companion; follower; sidekick",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-litteratur-och-kultur"
+      ],
+      "backlinks": [
+        "source-2026-06-23-nyheter-8sidor"
       ]
     },
     {
@@ -52938,6 +53786,42 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "hjälte",
+      "type": "word",
+      "title": "hjälte",
+      "path": "knowledge_base/words/hjälte.md",
+      "body": "# hjälte — substantiv\n\n📖 中文：英雄 · English: hero\n发音提示：/ˈjɛltɛ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en hjälte |\n| bestämd singular | hjälten |\n| obestämd plural | hjältar |\n| bestämd plural | hjältarna |\n\n## 词组搭配 (Collocations)\n\n- `folklig hjälte` — 民间英雄\n- `legendarisk hjälte` — 传奇英雄\n- `filmens hjälte` — 电影中的主角/英雄\n- `hjälta upp` — 英雄般地行动\n\n## 例句 (Sentences)\n\n- 🇸🇪 Robin Hood är en legendarisk hjälte som stjäl från rika för att ge till fattiga. — 🇨🇳 罗宾汉是一位传奇英雄，劫富济贫。\n- 🇸🇪 Brandmannen är en riktig hjälte — han räddade tre barn. — 🇨🇳 这位消防员是真正的英雄，他救了三个孩子。\n- 🇸🇪 Vem är din hjälte? — 🇨🇳 你的英雄是谁？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: hjältinna (female hero), [[hjältemod]] (heroism), hjältemodigt (heroically)\n- 反义词: skurk (villain/scoundrel)\n- 主题: [[topic-litteratur-och-kultur]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- `hjälte` 是男性英雄；女性英雄用 `hjältinna`（但现代瑞典语中 `hjälte` 也可指任何性别）\n- 在文学/电影中也表示\"主角\"（protagonist）",
+      "excerpt": "hjälte — substantiv 📖 中文：英雄 · English: hero 发音提示：/ˈjɛltɛ/ 语法变形 (Forms) form Swedish obestämd singular en hjälte bestämd singular hjälten obestämd plural hjältar bestämd plural hjältarna 词组搭配 (Collocations) folklig hjält",
+      "forms": [
+        "hjälte",
+        "hjälten",
+        "hjältar",
+        "hjältarna"
+      ],
+      "links": [
+        "hjältemod",
+        "topic-karaktarsord",
+        "topic-litteratur-och-kultur"
+      ],
+      "searchText": "hjälte hjälte knowledge_base/words/hjälte.md ---\ntype: word\nlemma: \"hjälte\"\nordklass: substantiv\ngenus: en\ncefr: \"A2\"\nzh: \"英雄\"\nen: \"hero\"\nsynonyms: []\nantonyms: [\"skurk\"]\nfamily: [\"hjältinna\", \"hjältemod\", \"hjältemodigt\"]\ntopics: [\"topic-litteratur-och-kultur\", \"topic-karaktarsord\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hjälte — substantiv\n\n📖 中文：英雄 · English: hero\n发音提示：/ˈjɛltɛ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en hjälte |\n| bestämd singular | hjälten |\n| obestämd plural | hjältar |\n| bestämd plural | hjältarna |\n\n## 词组搭配 (Collocations)\n\n- `folklig hjälte` — 民间英雄\n- `legendarisk hjälte` — 传奇英雄\n- `filmens hjälte` — 电影中的主角/英雄\n- `hjälta upp` — 英雄般地行动\n\n## 例句 (Sentences)\n\n- 🇸🇪 Robin Hood är en legendarisk hjälte som stjäl från rika för att ge till fattiga. — 🇨🇳 罗宾汉是一位传奇英雄，劫富济贫。\n- 🇸🇪 Brandmannen är en riktig hjälte — han räddade tre barn. — 🇨🇳 这位消防员是真正的英雄，他救了三个孩子。\n- 🇸🇪 Vem är din hjälte? — 🇨🇳 你的英雄是谁？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: hjältinna (female hero), [[hjältemod]] (heroism), hjältemodigt (heroically)\n- 反义词: skurk (villain/scoundrel)\n- 主题: [[topic-litteratur-och-kultur]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- `hjälte` 是男性英雄；女性英雄用 `hjältinna`（但现代瑞典语中 `hjälte` 也可指任何性别）\n- 在文学/电影中也表示\"主角\"（protagonist）\n",
+      "lemma": "hjälte",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "英雄",
+      "en": "hero",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-litteratur-och-kultur",
+        "topic-karaktarsord"
+      ],
+      "backlinks": [
+        "sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge",
+        "source-2026-06-23-nyheter-8sidor"
+      ]
+    },
+    {
       "slug": "hjärtklappning",
       "type": "word",
       "title": "hjärtklappning",
@@ -54660,6 +55544,7 @@ window.KB_DATA = {
       "sentences": [],
       "topics": [],
       "backlinks": [
+        "följeslagare",
         "lagkamrat",
         "source-2026-06-10-zlatan-subst-verb"
       ]
@@ -54707,6 +55592,7 @@ window.KB_DATA = {
         "en-av-sveriges-mest-kanda",
         "kändis",
         "okänd",
+        "sent-det-ar-en-kand-vecka-for-politik-i-sverige",
         "sent-greta-thunberg-är-en-känd-klimataktivist",
         "sent-idag-är-hon-en-av-världens-mest-kända-röster",
         "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
@@ -56287,6 +57173,7 @@ window.KB_DATA = {
         "topic-personer"
       ],
       "backlinks": [
+        "följeslagare",
         "kollega",
         "sent-att-sla-nagon-i-sin-familj-kallas",
         "sent-kan-ni-göra-den-utan-grädde-hon-tål-inte",
@@ -56494,6 +57381,38 @@ window.KB_DATA = {
         "sent-fika-jag-skulle-vilja-ha-kanelbulle",
         "sent-forst-dricker-jag-en-kopp-kaffe",
         "topic-kafe-fika"
+      ]
+    },
+    {
+      "slug": "koppling",
+      "type": "word",
+      "title": "koppling",
+      "path": "knowledge_base/words/koppling.md",
+      "body": "# koppling — substantiv\n\n📖 中文：联系；关联；离合器 · English: connection; link; clutch\n发音提示：/ˈkɔplɪŋ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en koppling |\n| bestämd singular | kopplingen |\n| obestämd plural | kopplingar |\n| bestämd plural | kopplingarna |\n\n## 词组搭配 (Collocations)\n\n- `koppling till brott` — 与犯罪的关联\n- `tydlig koppling` — 明显的联系\n- `bils koppling` — 汽车离合器\n- `kopplingen brann ut` — 离合器烧坏了\n\n## 例句 (Sentences)\n\n**义项1 联系/关联 (abstract connection):**\n- 🇸🇪 Polisen hittade en tydlig koppling mellan de två brotten. — 🇨🇳 警察发现了这两起犯罪之间的明显关联。\n- 🇸🇪 Det finns ingen koppling mellan de två händelserna. — 🇨🇳 这两件事之间没有任何联系。\n\n**义项2 离合器 (mechanical clutch):**\n- 🇸🇪 Bilens koppling är trasig, det kostar mycket att laga. — 🇨🇳 汽车的离合器坏了，修起来很贵。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[koppla]] (verb: 连接/联系)\n- 同义词（抽象义）: [[samband]], [[anknytning]]\n\n## 用法提示 (Usage Notes)\n\n- 抽象义（联系）最常见于新闻/警察报告：`koppling till terrorismen`\n- 具体义（离合器）= 汽车零件，在日常对话中使用",
+      "excerpt": "koppling — substantiv 📖 中文：联系；关联；离合器 · English: connection; link; clutch 发音提示：/ˈkɔplɪŋ/ 语法变形 (Forms) form Swedish obestämd singular en koppling bestämd singular kopplingen obestämd plural kopplingar bestämd plural koppl",
+      "forms": [
+        "koppling",
+        "kopplingen",
+        "kopplingar",
+        "kopplingarna"
+      ],
+      "links": [
+        "anknytning",
+        "koppla",
+        "samband"
+      ],
+      "searchText": "koppling koppling knowledge_base/words/koppling.md ---\ntype: word\nlemma: \"koppling\"\nordklass: substantiv\ngenus: en\ncefr: \"B1\"\nzh: \"联系；关联；离合器\"\nen: \"connection; link; clutch\"\nsynonyms: []\nantonyms: []\nfamily: [\"koppla\"]\ntopics: []\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# koppling — substantiv\n\n📖 中文：联系；关联；离合器 · English: connection; link; clutch\n发音提示：/ˈkɔplɪŋ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en koppling |\n| bestämd singular | kopplingen |\n| obestämd plural | kopplingar |\n| bestämd plural | kopplingarna |\n\n## 词组搭配 (Collocations)\n\n- `koppling till brott` — 与犯罪的关联\n- `tydlig koppling` — 明显的联系\n- `bils koppling` — 汽车离合器\n- `kopplingen brann ut` — 离合器烧坏了\n\n## 例句 (Sentences)\n\n**义项1 联系/关联 (abstract connection):**\n- 🇸🇪 Polisen hittade en tydlig koppling mellan de två brotten. — 🇨🇳 警察发现了这两起犯罪之间的明显关联。\n- 🇸🇪 Det finns ingen koppling mellan de två händelserna. — 🇨🇳 这两件事之间没有任何联系。\n\n**义项2 离合器 (mechanical clutch):**\n- 🇸🇪 Bilens koppling är trasig, det kostar mycket att laga. — 🇨🇳 汽车的离合器坏了，修起来很贵。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[koppla]] (verb: 连接/联系)\n- 同义词（抽象义）: [[samband]], [[anknytning]]\n\n## 用法提示 (Usage Notes)\n\n- 抽象义（联系）最常见于新闻/警察报告：`koppling till terrorismen`\n- 具体义（离合器）= 汽车零件，在日常对话中使用\n",
+      "lemma": "koppling",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "联系；关联；离合器",
+      "en": "connection; link; clutch",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [],
+      "backlinks": [
+        "source-2026-06-23-nyheter-8sidor"
       ]
     },
     {
@@ -58926,6 +59845,7 @@ window.KB_DATA = {
         "sent-ledare-fran-olika-lander-har-samlats",
         "sent-nu-ska-starmers-parti-labour-ordna-ledare",
         "sent-nyligen-hade-ländernas-ledare",
+        "sent-storbritanniens-ledare-keir-starmer-meddelar",
         "sent-storbritanniens-ledare-keir-starmer-slutar",
         "sent-till-evian-i-frankrike-nu",
         "sent-ukrainas-ledare-volodymyr-zelenskyj",
@@ -61399,7 +62319,9 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "index",
+        "missnöjd-med",
         "nöjd",
+        "sent-allmanheten-ar-missnojd-med-hoga-matpriser",
         "sent-folk-ar-misnojda-med-att-maten-ar-dyr",
         "source-2026-06-04-nyheter-vecka-22",
         "source-2026-06-22-nyheter-8sidor",
@@ -62165,6 +63087,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-bland-annat-har-ukrainas-president-zelenskyj",
+        "sent-den-22-juni-borjar-motet-almedalen-pa-on-gotland",
         "sent-haft-mote-med-usas-president-donald-trump",
         "sent-nyligen-hade-ländernas-ledare",
         "sent-ukrainas-ledare-volodymyr-zelenskyj",
@@ -64651,6 +65574,40 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "parti",
+      "type": "word",
+      "title": "parti",
+      "path": "knowledge_base/words/parti.md",
+      "body": "# parti — substantiv\n\n📖 中文：政党；一批；棋局 · English: (political) party; batch; game\n发音提示：/parˈtiː/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett parti |\n| bestämd singular | partiet |\n| obestämd plural | partier |\n| bestämd plural | partierna |\n\n## 词组搭配 (Collocations)\n\n- `politiskt parti` — 政党\n- `partiledare` — 党魁/党领导人\n- `rösta på ett parti` — 投票给一个政党\n- `ett parti varor` — 一批货物\n- `ett parti schack` — 一局象棋\n\n## 例句 (Sentences)\n\n**义项1 政党 (political party):**\n- 🇸🇪 Han är ledare för partiet Labour i Storbritannien. — 🇨🇳 他是英国工党的领袖。\n- 🇸🇪 Vilket parti röstade du på i valet? — 🇨🇳 你在选举中投票给了哪个政党？\n\n**义项2 一批货物 (batch/lot):**\n- 🇸🇪 Vi har fått ett nytt parti jordgubbar från Sverige. — 🇨🇳 我们收到了一批来自瑞典的草莓。\n\n**义项3 棋局 (game of chess):**\n- 🇸🇪 Vill du spela ett parti schack med mig? — 🇨🇳 你想和我下一局象棋吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: partiledare (party leader), partipolitik (party politics), partimedlem (party member)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 在政治语境中最常见，指\"政党\"\n- `ett parti varor` 商业语境中指\"一批/一批次货物\"\n- `ett parti schack/tennis` 指棋局/球局（一场比赛中的一局）",
+      "excerpt": "parti — substantiv 📖 中文：政党；一批；棋局 · English: (political) party; batch; game 发音提示：/parˈtiː/ 语法变形 (Forms) form Swedish obestämd singular ett parti bestämd singular partiet obestämd plural partier bestämd plural partierna 词",
+      "forms": [
+        "parti",
+        "partiet",
+        "partier",
+        "partierna"
+      ],
+      "links": [
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "parti parti knowledge_base/words/parti.md ---\ntype: word\nlemma: \"parti\"\nordklass: substantiv\ngenus: ett\ncefr: \"A2\"\nzh: \"政党；一批；棋局\"\nen: \"(political) party; batch; game\"\nsynonyms: []\nantonyms: []\nfamily: [\"partiledare\", \"partipolitik\", \"partimedlem\"]\ntopics: [\"topic-samhälle-och-politik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# parti — substantiv\n\n📖 中文：政党；一批；棋局 · English: (political) party; batch; game\n发音提示：/parˈtiː/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett parti |\n| bestämd singular | partiet |\n| obestämd plural | partier |\n| bestämd plural | partierna |\n\n## 词组搭配 (Collocations)\n\n- `politiskt parti` — 政党\n- `partiledare` — 党魁/党领导人\n- `rösta på ett parti` — 投票给一个政党\n- `ett parti varor` — 一批货物\n- `ett parti schack` — 一局象棋\n\n## 例句 (Sentences)\n\n**义项1 政党 (political party):**\n- 🇸🇪 Han är ledare för partiet Labour i Storbritannien. — 🇨🇳 他是英国工党的领袖。\n- 🇸🇪 Vilket parti röstade du på i valet? — 🇨🇳 你在选举中投票给了哪个政党？\n\n**义项2 一批货物 (batch/lot):**\n- 🇸🇪 Vi har fått ett nytt parti jordgubbar från Sverige. — 🇨🇳 我们收到了一批来自瑞典的草莓。\n\n**义项3 棋局 (game of chess):**\n- 🇸🇪 Vill du spela ett parti schack med mig? — 🇨🇳 你想和我下一局象棋吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: partiledare (party leader), partipolitik (party politics), partimedlem (party member)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 在政治语境中最常见，指\"政党\"\n- `ett parti varor` 商业语境中指\"一批/一批次货物\"\n- `ett parti schack/tennis` 指棋局/球局（一场比赛中的一局）\n",
+      "lemma": "parti",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "政党；一批；棋局",
+      "en": "(political) party; batch; game",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "sent-det-ar-en-kand-vecka-for-politik-i-sverige",
+        "sent-han-sager-jag-har-lyssnat-pa-mitt-parti",
+        "source-2026-06-23-nyheter-8sidor"
+      ]
+    },
+    {
       "slug": "passa",
       "type": "word",
       "title": "passa",
@@ -65382,6 +66339,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-hon-ville-att-politikerna-skulle-lyssna",
+        "sent-politikern-andy-burnham-anses-vara-efterträdare",
         "sent-politikerna-måste-se-till-att",
         "source-2026-06-22-greta-thunberg",
         "topic-samhälle-och-politik"
@@ -65429,6 +66387,37 @@ window.KB_DATA = {
         "source-2026-06-22-nyheter-8sidor",
         "stad",
         "topic-stadsmiljo"
+      ]
+    },
+    {
+      "slug": "populistisk",
+      "type": "word",
+      "title": "populistisk",
+      "path": "knowledge_base/words/populistisk.md",
+      "body": "# populistisk — adjektiv\n\n📖 中文：民粹主义的 · English: populist\n发音提示：/ˌpɔpʉˈlɪstɪsk/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum (en-ord) | populistisk |\n| neutrum (ett-ord) | populistiskt |\n| plural/definit | populistiska |\n\n## 词组搭配 (Collocations)\n\n- `populistisk rörelse` — 民粹主义运动\n- `populistisk politik` — 民粹主义政策\n- `populistisk retorik` — 民粹主义言辞\n- `ett populistiskt parti` — 一个民粹主义政党\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det populistiska partiet lovade enkla lösningar på komplicerade problem. — 🇨🇳 这个民粹主义政党承诺对复杂问题提供简单的解决方案。\n- 🇸🇪 Kritikerna kallar politikerns retorik för populistisk. — 🇨🇳 批评者称这位政治家的言辞为民粹主义。\n- 🇸🇪 Populistiska rörelser är vanliga i många europeiska länder. — 🇨🇳 民粹主义运动在许多欧洲国家很普遍。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: populism (民粹主义), populist (民粹主义者)\n- 对比: demokratisk (民主的), auktoritär (威权的), elitistisk (精英主义的)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 通常带有贬义，暗指迎合大众情绪而非理性政策\n- `populist` (substantiv) = 民粹主义者（as a noun）",
+      "excerpt": "populistisk — adjektiv 📖 中文：民粹主义的 · English: populist 发音提示：/ˌpɔpʉˈlɪstɪsk/ 语法变形 (Forms) form Swedish utrum (en ord) populistisk neutrum (ett ord) populistiskt plural/definit populistiska 词组搭配 (Collocations) populistisk ",
+      "forms": [
+        "populistisk",
+        "populistiskt",
+        "populistiska"
+      ],
+      "links": [
+        "topic-samhälle-och-politik"
+      ],
+      "searchText": "populistisk populistisk knowledge_base/words/populistisk.md ---\ntype: word\nlemma: \"populistisk\"\nordklass: adjektiv\ncefr: \"B2\"\nzh: \"民粹主义的\"\nen: \"populist\"\nsynonyms: []\nantonyms: [\"demokratisk\", \"elitistisk\"]\nfamily: [\"populism\", \"populist\"]\ntopics: [\"topic-samhälle-och-politik\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# populistisk — adjektiv\n\n📖 中文：民粹主义的 · English: populist\n发音提示：/ˌpɔpʉˈlɪstɪsk/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum (en-ord) | populistisk |\n| neutrum (ett-ord) | populistiskt |\n| plural/definit | populistiska |\n\n## 词组搭配 (Collocations)\n\n- `populistisk rörelse` — 民粹主义运动\n- `populistisk politik` — 民粹主义政策\n- `populistisk retorik` — 民粹主义言辞\n- `ett populistiskt parti` — 一个民粹主义政党\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det populistiska partiet lovade enkla lösningar på komplicerade problem. — 🇨🇳 这个民粹主义政党承诺对复杂问题提供简单的解决方案。\n- 🇸🇪 Kritikerna kallar politikerns retorik för populistisk. — 🇨🇳 批评者称这位政治家的言辞为民粹主义。\n- 🇸🇪 Populistiska rörelser är vanliga i många europeiska länder. — 🇨🇳 民粹主义运动在许多欧洲国家很普遍。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: populism (民粹主义), populist (民粹主义者)\n- 对比: demokratisk (民主的), auktoritär (威权的), elitistisk (精英主义的)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 通常带有贬义，暗指迎合大众情绪而非理性政策\n- `populist` (substantiv) = 民粹主义者（as a noun）\n",
+      "lemma": "populistisk",
+      "ordklass": "adjektiv",
+      "cefr": "B2",
+      "zh": "民粹主义的",
+      "en": "populist",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-samhälle-och-politik"
+      ],
+      "backlinks": [
+        "source-2026-06-23-nyheter-8sidor"
       ]
     },
     {
@@ -66698,6 +67687,7 @@ window.KB_DATA = {
         "sent-de-berattade-om-robin-hood-rika-fattiga",
         "sent-gruppen-g7-är-sju-av-världens",
         "source-2026-06-18-nyheter-8sidor",
+        "stjäla-från-rika-för-att-ge-till-fattiga",
         "topic-personer"
       ]
     },
@@ -67483,9 +68473,47 @@ window.KB_DATA = {
         "topic-familj-och-barn"
       ],
       "backlinks": [
+        "berättelse",
+        "sägen",
         "source-2026-06-02-astrid-lindgren",
         "topic-familj-och-barn",
         "topic-litteratur-och-kultur"
+      ]
+    },
+    {
+      "slug": "sägen",
+      "type": "word",
+      "title": "sägen",
+      "path": "knowledge_base/words/sägen.md",
+      "body": "# sägen — substantiv\n\n📖 中文：传说；民间故事 · English: legend; folk tale\n发音提示：/ˈsɛːɡɛn/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en sägen |\n| bestämd singular | sägnen |\n| obestämd plural | sägner |\n| bestämd plural | sägnerna |\n\n注意：bestämd singular = sägnen (不规则，去掉词尾 -en 加 -nen)\n\n## 词组搭配 (Collocations)\n\n- `enligt sägnerna` — 据传说\n- `en gammal sägen` — 一个古老的传说\n- `folksägen` — 民间传说\n- `sägnen säger att...` — 传说说…\n\n## 例句 (Sentences)\n\n- 🇸🇪 Robin Hood bor enligt sägnerna i Sherwoodskogen i England. — 🇨🇳 据传说，罗宾汉住在英格兰的舍伍德森林。\n- 🇸🇪 Det finns många gamla sägner om troll och älvor i Sverige. — 🇨🇳 瑞典有许多关于巨魔和精灵的古老传说。\n- 🇸🇪 Är det en sann historia eller en sägen? — 🇨🇳 这是真实故事还是传说？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[säga]] (to say — same root historically)\n- 同义词: legend (传说/legend)\n- 对比: [[saga]] (saga/fairy tale — 更文学化)，[[berättelse]] (story — 更一般)\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `sägen` 偏向民间口耳相传的传说，通常与地点/人物相关\n- `saga` 更多是童话/神话故事\n- \"enligt sägnerna\" = 据传说（常见固定表达）",
+      "excerpt": "sägen — substantiv 📖 中文：传说；民间故事 · English: legend; folk tale 发音提示：/ˈsɛːɡɛn/ 语法变形 (Forms) form Swedish obestämd singular en sägen bestämd singular sägnen obestämd plural sägner bestämd plural sägnerna 注意：bestämd singular",
+      "forms": [
+        "sägen",
+        "sägnen",
+        "sägner",
+        "sägnerna"
+      ],
+      "links": [
+        "berättelse",
+        "saga",
+        "säga",
+        "topic-litteratur-och-kultur"
+      ],
+      "searchText": "sägen sägen knowledge_base/words/sägen.md ---\ntype: word\nlemma: \"sägen\"\nordklass: substantiv\ngenus: en\ncefr: \"B1\"\nzh: \"传说；民间故事\"\nen: \"legend; folk tale\"\nsynonyms: [\"legend\"]\nantonyms: []\nfamily: [\"säga\"]\ntopics: [\"topic-litteratur-och-kultur\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# sägen — substantiv\n\n📖 中文：传说；民间故事 · English: legend; folk tale\n发音提示：/ˈsɛːɡɛn/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en sägen |\n| bestämd singular | sägnen |\n| obestämd plural | sägner |\n| bestämd plural | sägnerna |\n\n注意：bestämd singular = sägnen (不规则，去掉词尾 -en 加 -nen)\n\n## 词组搭配 (Collocations)\n\n- `enligt sägnerna` — 据传说\n- `en gammal sägen` — 一个古老的传说\n- `folksägen` — 民间传说\n- `sägnen säger att...` — 传说说…\n\n## 例句 (Sentences)\n\n- 🇸🇪 Robin Hood bor enligt sägnerna i Sherwoodskogen i England. — 🇨🇳 据传说，罗宾汉住在英格兰的舍伍德森林。\n- 🇸🇪 Det finns många gamla sägner om troll och älvor i Sverige. — 🇨🇳 瑞典有许多关于巨魔和精灵的古老传说。\n- 🇸🇪 Är det en sann historia eller en sägen? — 🇨🇳 这是真实故事还是传说？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[säga]] (to say — same root historically)\n- 同义词: legend (传说/legend)\n- 对比: [[saga]] (saga/fairy tale — 更文学化)，[[berättelse]] (story — 更一般)\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `sägen` 偏向民间口耳相传的传说，通常与地点/人物相关\n- `saga` 更多是童话/神话故事\n- \"enligt sägnerna\" = 据传说（常见固定表达）\n",
+      "lemma": "sägen",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "传说；民间故事",
+      "en": "legend; folk tale",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-litteratur-och-kultur"
+      ],
+      "backlinks": [
+        "sent-robin-hood-bor-enligt-sagnerna-i-sherwoodskogen",
+        "source-2026-06-23-nyheter-8sidor"
       ]
     },
     {
@@ -70641,10 +71669,45 @@ window.KB_DATA = {
       "backlinks": [
         "sent-i-sommar-ska-det-bli-arbeten",
         "sent-sommaren-ar-kort-men-intensiv",
+        "sommarlov",
         "source-2026-06-16-vadret-och-arstiderna",
         "source-2026-06-18-nyheter-8sidor",
         "topic-vader-och-arstider",
         "vinter"
+      ]
+    },
+    {
+      "slug": "sommarlov",
+      "type": "word",
+      "title": "sommarlov",
+      "path": "knowledge_base/words/sommarlov.md",
+      "body": "# sommarlov — substantiv\n\n📖 中文：暑假 · English: summer holiday; summer vacation\n发音提示：/ˈsɔmarˌluːv/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett sommarlov |\n| bestämd singular | sommarlovet |\n| obestämd plural | sommarlov |\n| bestämd plural | sommarlovet → sommarlov (same) |\n\n注意：单复数同形 (ett-ord neutrum)\n\n## 词组搭配 (Collocations)\n\n- `ha sommarlov` — 放暑假\n- `börja sommarlovet` — 暑假开始\n- `under sommarlovet` — 暑假期间\n- `kortare/längre sommarlov` — 较短/较长的暑假\n\n## 例句 (Sentences)\n\n- 🇸🇪 Barnen har sommarlov i juni, juli och en del av augusti. — 🇨🇳 孩子们六月、七月和八月初放暑假。\n- 🇸🇪 Vad ska du göra under sommarlovet? — 🇨🇳 你暑假打算做什么？\n- 🇸🇪 Skolorna stänger och sommarlovet börjar nästa vecka. — 🇨🇳 学校关门，下周暑假开始。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sommar]] (summer), [[lov]] (holiday/permission)\n- 相关: vinterlov (winter break), sportlov (mid-term holiday), påsklov (Easter break), höstlov (autumn break)\n- 主题: [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典学校的暑假通常从六月下旬到八月中旬（约10周）\n- `lov` 在教育语境中 = 假期；在其他语境中 = 许可/允许",
+      "excerpt": "sommarlov — substantiv 📖 中文：暑假 · English: summer holiday; summer vacation 发音提示：/ˈsɔmarˌluːv/ 语法变形 (Forms) form Swedish obestämd singular ett sommarlov bestämd singular sommarlovet obestämd plural sommarlov bestämd plura",
+      "forms": [
+        "sommarlov",
+        "sommarlovet",
+        "sommarlovet → sommarlov"
+      ],
+      "links": [
+        "lov",
+        "sommar",
+        "topic-skola-och-utbildning"
+      ],
+      "searchText": "sommarlov sommarlov knowledge_base/words/sommarlov.md ---\ntype: word\nlemma: \"sommarlov\"\nordklass: substantiv\ngenus: ett\ncefr: \"A2\"\nzh: \"暑假\"\nen: \"summer holiday; summer vacation\"\nsynonyms: []\nantonyms: []\nfamily: [\"sommar\", \"lov\"]\ntopics: [\"topic-skola-och-utbildning\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# sommarlov — substantiv\n\n📖 中文：暑假 · English: summer holiday; summer vacation\n发音提示：/ˈsɔmarˌluːv/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett sommarlov |\n| bestämd singular | sommarlovet |\n| obestämd plural | sommarlov |\n| bestämd plural | sommarlovet → sommarlov (same) |\n\n注意：单复数同形 (ett-ord neutrum)\n\n## 词组搭配 (Collocations)\n\n- `ha sommarlov` — 放暑假\n- `börja sommarlovet` — 暑假开始\n- `under sommarlovet` — 暑假期间\n- `kortare/längre sommarlov` — 较短/较长的暑假\n\n## 例句 (Sentences)\n\n- 🇸🇪 Barnen har sommarlov i juni, juli och en del av augusti. — 🇨🇳 孩子们六月、七月和八月初放暑假。\n- 🇸🇪 Vad ska du göra under sommarlovet? — 🇨🇳 你暑假打算做什么？\n- 🇸🇪 Skolorna stänger och sommarlovet börjar nästa vecka. — 🇨🇳 学校关门，下周暑假开始。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sommar]] (summer), [[lov]] (holiday/permission)\n- 相关: vinterlov (winter break), sportlov (mid-term holiday), påsklov (Easter break), höstlov (autumn break)\n- 主题: [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典学校的暑假通常从六月下旬到八月中旬（约10周）\n- `lov` 在教育语境中 = 假期；在其他语境中 = 许可/允许\n",
+      "lemma": "sommarlov",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "暑假",
+      "en": "summer holiday; summer vacation",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-skola-och-utbildning"
+      ],
+      "backlinks": [
+        "sent-i-frankrike-far-barnen-sommarlov-i-borjan",
+        "source-2026-06-23-nyheter-8sidor"
       ]
     },
     {
@@ -72906,6 +73969,7 @@ window.KB_DATA = {
         "topic-samhälle-och-politik"
       ],
       "backlinks": [
+        "sent-du-kan-se-talen-pa-svt-play",
         "sent-greta-reste-till-andra-länder-för-att-hålla-tal",
         "sent-på-ett-stort-möte-i-fn-höll-hon-ett-känt-tal",
         "source-2026-06-22-greta-thunberg"
@@ -75515,6 +76579,7 @@ window.KB_DATA = {
         "topic-vader-och-arstider"
       ],
       "backlinks": [
+        "bli-uttorkad",
         "sent-kroppen-blir-uttorkad-extra-snabbt",
         "source-2026-06-22-nyheter-8sidor",
         "topic-vader-och-arstider",
@@ -77051,6 +78116,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "index",
+        "sent-det-ar-en-kand-vecka-for-politik-i-sverige",
         "veckodagar"
       ]
     },

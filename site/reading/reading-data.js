@@ -1,6 +1,34 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-23 00:16:00",
+  "generatedAt": "2026-06-23 02:17:51",
   "articles": [
+    {
+      "slug": "news-2026-06-23",
+      "file": "news-2026-06-23.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "news",
+      "kindLabel": {
+        "zh": "新闻",
+        "en": "news"
+      },
+      "title": "🇸🇪 Dagens nyheter (8 Sidor) — 2026-06-23",
+      "cefr": "A2",
+      "date": "2026-06-23",
+      "theme": "news",
+      "source": "",
+      "path": "imported/news-2026-06-23.md",
+      "counts": {
+        "words": 25,
+        "phrases": 9,
+        "sentences": 22,
+        "grammar": 4
+      },
+      "itemTotal": 60,
+      "body": "# 🇸🇪 Dagens nyheter (8 Sidor) — 2026-06-23\n\n**类型 (type):** news\n**来源 (source):** 8 Sidor — lättläst nyheter\n**CEFR 估计:** A2–B1\n**生成日期:** 2026-06-23\n\n---\n\n## 1. Starmer slutar\nStorbritanniens ledare Keir Starmer meddelar sitt avgång. Han säger: \"Jag har lyssnat på mitt parti.\" Starmer har varit landets ledare sedan 2024. Partiets arbetsgrupp Labour måste nu välja en ny ledare. Politikern Andy Burnham anses vara en trolig efterträdare. Allmänheten är missnöjd med höga matpriser och svag ekonomi.\n🇨🇳 英国领导人凯尔·斯塔默宣布辞职。他说：\"我已经倾听了我的党的意见。\"工党现在必须选举一位新领导人。政治家安迪·伯纳姆被认为是最可能的继任者。公众对高食品价格和疲软经济感到不满。\n\n## 2. Svensk brottsling är fast\nPoliserna i Colombia har tagit fast en svensk man som är misstänkt för många brott. Mannen kallas \"El Sueco\" vilket betyder Svensken på spanska. Han är bland annat misstänkt för att ha smugglat droger från Sydamerika till Europa och Dubai. De svenska poliserna vill nu att mannen blir flyttad till Sverige.\n🇨🇳 哥伦比亚警察逮捕了一名涉嫌多项罪行的瑞典男子。该男子被称为\"El Sueco\"，西班牙语意为\"瑞典人\"。他被怀疑将毒品从南美走私到欧洲和迪拜。瑞典警方现在希望将该男子引渡回瑞典。\n\n## 3. Skolor stängs i värmen\nDet är ovanligt varmt väder i Europa just nu. I delar av Frankrike, Italien och Spanien blir det över 40 grader varmt. I Frankrike får barnen sommarlov i början av juli. Men 845 skolor har nu stängt. Regeringen förbjuder därför barer att sälja alkohol i vissa områden. Att dricka alkohol när det är mycket varmt är farligt eftersom kroppen blir uttorkad extra snabbt.\n🇨🇳 欧洲目前天气异常炎热。法国、意大利和西班牙部分地区气温超过40度。在法国，孩子们七月初放暑假，但845所学校已经关闭。政府因此禁止某些地区的酒吧出售酒精饮料。在高温下饮酒很危险，因为身体脱水得更快。\n\n## 4. Politikerna pratar på Gotland\nDen 22 juni börjar mötet Almedalen på ön Gotland. Det är en känd vecka för politik i Sverige. Partiledarna håller tal under veckan. Du kan se talen på SVT Play.\n🇨🇳 6月22日，阿尔梅达伦政治周在哥得兰岛开幕。这是瑞典著名的政治周。各党领袖在本周发表演讲。你可以在SVT Play上收看演讲。\n\n## 5. Ny film om Robin Hood\nBerättelsen om Robin Hood har cirkulerat i hundratals år. Denna legendariska hjälte stjäl från rika för att ge till fattiga. Robin Hood bor enligt sägnerna i Sherwoodskogen i England. Den 26 juni kommer en ny film om Robin Hood. Filmen heter The Death of Robin Hood. Den svenske skådespelaren Bill Skarsgård spelar Lille John, Robin Hoods närmaste följeslagare.\n🇨🇳 罗宾汉的故事流传了数百年。这位传奇英雄劫富济贫。据传说，罗宾汉住在英格兰的舍伍德森林。6月26日将上映一部关于罗宾汉的新电影《罗宾汉之死》。瑞典演员比尔·斯卡斯加德饰演小约翰，罗宾汉最亲密的伙伴。\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **ta fast** (逮捕) — partikelverb：`ta fast ngn` = 抓住/逮捕某人。注意 fast 这里不是形容词\"坚固的\"，而是副词，与 ta 搭配表示\"抓住\"。\n⚠️ **avgång** (辞职/出发) — 一词多义：领导人的\"辞职\"，也指交通工具的\"出发\"(tågets avgång = 火车出发)。根据语境区分。\n📌 **förbjuda** (禁止) — 不规则动词变位：förbjuder / förbjöd / förbjudit。词根同 bjuda (邀请)，前缀 för- 表相反。\n📐 **eftersom** (因为) — 引导原因 bisats（从句）的连词，从句内用 bisats 语序：主语 + (inte) + 谓语动词。\n\n---\n\n📺 今日听力 (lyssna): **SVT Nyheter på lätt svenska** — 简易瑞典语新闻视频（vardagar ~17:15，约 4 分钟，带瑞典语字幕，可全球观看）：https://www.svtplay.se/nyheter-pa-latt-svenska\n⏭ 想录入知识库：/import news-2026-06-23.md\n\n---",
+      "searchText": "news-2026-06-23 🇸🇪 dagens nyheter (8 sidor) — 2026-06-23 # 🇸🇪 dagens nyheter (8 sidor) — 2026-06-23\n\n**类型 (type):** news\n**来源 (source):** 8 sidor — lättläst nyheter\n**cefr 估计:** a2–b1\n**生成日期:** 2026-06-23\n\n---\n\n## 1. starmer slutar\nstorbritanniens ledare keir starmer meddelar sitt avgång. han säger: \"jag har lyssnat på mitt parti.\" starmer har varit landets ledare sedan 2024. partiets arbetsgrupp labour måste nu välja en ny ledare. politikern andy burnham anses vara en trolig efterträdare. allmänheten är missnöjd med höga matpriser och svag ekonomi.\n🇨🇳 英国领导人凯尔·斯塔默宣布辞职。他说：\"我已经倾听了我的党的意见。\"工党现在必须选举一位新领导人。政治家安迪·伯纳姆被认为是最可能的继任者。公众对高食品价格和疲软经济感到不满。\n\n## 2. svensk brottsling är fast\npoliserna i colombia har tagit fast en svensk man som är misstänkt för många brott. mannen kallas \"el sueco\" vilket betyder svensken på spanska. han är bland annat misstänkt för att ha smugglat droger från sydamerika till europa och dubai. de svenska poliserna vill nu att mannen blir flyttad till sverige.\n🇨🇳 哥伦比亚警察逮捕了一名涉嫌多项罪行的瑞典男子。该男子被称为\"el sueco\"，西班牙语意为\"瑞典人\"。他被怀疑将毒品从南美走私到欧洲和迪拜。瑞典警方现在希望将该男子引渡回瑞典。\n\n## 3. skolor stängs i värmen\ndet är ovanligt varmt väder i europa just nu. i delar av frankrike, italien och spanien blir det över 40 grader varmt. i frankrike får barnen sommarlov i början av juli. men 845 skolor har nu stängt. regeringen förbjuder därför barer att sälja alkohol i vissa områden. att dricka alkohol när det är mycket varmt är farligt eftersom kroppen blir uttorkad extra snabbt.\n🇨🇳 欧洲目前天气异常炎热。法国、意大利和西班牙部分地区气温超过40度。在法国，孩子们七月初放暑假，但845所学校已经关闭。政府因此禁止某些地区的酒吧出售酒精饮料。在高温下饮酒很危险，因为身体脱水得更快。\n\n## 4. politikerna pratar på gotland\nden 22 juni börjar mötet almedalen på ön gotland. det är en känd vecka för politik i sverige. partiledarna håller tal under veckan. du kan se talen på svt play.\n🇨🇳 6月22日，阿尔梅达伦政治周在哥得兰岛开幕。这是瑞典著名的政治周。各党领袖在本周发表演讲。你可以在svt play上收看演讲。\n\n## 5. ny film om robin hood\nberättelsen om robin hood har cirkulerat i hundratals år. denna legendariska hjälte stjäl från rika för att ge till fattiga. robin hood bor enligt sägnerna i sherwoodskogen i england. den 26 juni kommer en ny film om robin hood. filmen heter the death of robin hood. den svenske skådespelaren bill skarsgård spelar lille john, robin hoods närmaste följeslagare.\n🇨🇳 罗宾汉的故事流传了数百年。这位传奇英雄劫富济贫。据传说，罗宾汉住在英格兰的舍伍德森林。6月26日将上映一部关于罗宾汉的新电影《罗宾汉之死》。瑞典演员比尔·斯卡斯加德饰演小约翰，罗宾汉最亲密的伙伴。\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **ta fast** (逮捕) — partikelverb：`ta fast ngn` = 抓住/逮捕某人。注意 fast 这里不是形容词\"坚固的\"，而是副词，与 ta 搭配表示\"抓住\"。\n⚠️ **avgång** (辞职/出发) — 一词多义：领导人的\"辞职\"，也指交通工具的\"出发\"(tågets avgång = 火车出发)。根据语境区分。\n📌 **förbjuda** (禁止) — 不规则动词变位：förbjuder / förbjöd / förbjudit。词根同 bjuda (邀请)，前缀 för- 表相反。\n📐 **eftersom** (因为) — 引导原因 bisats（从句）的连词，从句内用 bisats 语序：主语 + (inte) + 谓语动词。\n\n---\n\n📺 今日听力 (lyssna): **svt nyheter på lätt svenska** — 简易瑞典语新闻视频（vardagar ~17:15，约 4 分钟，带瑞典语字幕，可全球观看）：https://www.svtplay.se/nyheter-pa-latt-svenska\n⏭ 想录入知识库：/import news-2026-06-23.md\n\n---"
+    },
     {
       "slug": "uppfinning-2026-06-23-tetra-pak",
       "file": "uppfinning-2026-06-23-tetra-pak.md",
@@ -1196,6 +1224,21 @@ window.READING_DATA = {
       "body": "# älg — substantiv (en)\n\n📖 中文：驼鹿；麋鹿 · English: moose/elk\n发音提示：/ɛlj/\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| obestämd sg. | en älg |\n| bestämd sg. | älgen |\n| obestämd pl. | älgar |\n| bestämd pl. | älgarna |\n\n## 词组搭配 (Collocations)\n\n- `arg älg` — 愤怒的驼鹿\n- `älgjakt` — 驼鹿狩猎\n- `älg på vägen` — 路上的驼鹿（交通危险）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Älgen är Sveriges nationaldjur och är mycket stor. — 🇨🇳 驼鹿是瑞典的国家代表动物，非常大。\n- 🇸🇪 Vi stannade bilen för en älg på vägen. — 🇨🇳 我们停车让路上的驼鹿先过。\n- 🇸🇪 En arg älg kan vara farlig för människor. — 🇨🇳 一头愤怒的驼鹿对人类可能很危险。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[älgjakt]] (驼鹿狩猎), [[älgkött]] (驼鹿肉)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-djur]]\n\n## 用法提示 (Usage Notes)\n\n- Älgen kallas ibland \"skogens konung\" (森林之王). Vanlig på svenska vägar höst/vinter — farlig.\n- 来源: [[source-2026-06-08-djur]]"
     },
     {
+      "slug": "alkohol",
+      "lemma": "alkohol",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "酒精；酒",
+      "en": "alcohol",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "alkohol",
+        "alkoholen"
+      ],
+      "body": "# alkohol — substantiv\n\n📖 中文：酒精；酒 · English: alcohol\n发音提示：/ˌalkɔˈhuːl/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | alkohol |\n| bestämd singular | alkoholen |\n| plural | (sällan plural — 通常不可数) |\n\n## 词组搭配 (Collocations)\n\n- `dricka alkohol` — 喝酒\n- `sälja alkohol` — 卖酒\n- `förbjuda alkohol` — 禁止酒精\n- `innehåller alkohol` — 含有酒精\n- `alkoholfri dryck` — 无酒精饮料\n\n## 例句 (Sentences)\n\n- 🇸🇪 Att dricka alkohol när det är varmt är farligt för kroppen. — 🇨🇳 天热时喝酒对身体有危险。\n- 🇸🇪 I Sverige säljs alkohol på Systembolaget. — 🇨🇳 在瑞典，酒在Systembolaget（国家酒类专卖店）出售。\n- 🇸🇪 Regeringen förbjöd barer att sälja alkohol i hettan. — 🇨🇳 政府禁止酒吧在高温天气中出售酒精。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: alkoholhaltigt (adj: 含酒精的), alkoholist (酗酒者), alkoholism (酗酒)\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 通常不可数，没有常用复数形式\n- Systembolaget = 瑞典国家酒类专卖局，是唯一合法零售酒精饮料的地方（超过3.5% ABV）"
+    },
+    {
       "slug": "allergisk",
       "lemma": "allergisk",
       "ordklass": "adjektiv",
@@ -1770,6 +1813,23 @@ window.READING_DATA = {
       "body": "# avdelning — substantiv (en-ord)\n\n📖 中文：部门、科室、（商店）区 · English: department, section\n发音提示：AV-del-ning\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en avdelning |\n| bestämd singular | avdelningen |\n| obestämd plural | avdelningar |\n| bestämd plural | avdelningarna |\n\n## 词组搭配 (Collocations)\n\n- `ekonomiavdelningen` — 财务部\n- `personalavdelningen / HR-avdelningen` — 人事部\n- `barnavdelning` — 儿科 / 童装区\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[dela]] (分；分享), avdela (划分)\n- 同义词: [[sektion]] (部分、科)\n- 反义词: []\n- 主题: [[topic-arbete]]\n\n## 用法提示 (Usage Notes)\n\n- En-ord. 以 `-ning` 结尾的名词都是 en-ord，复数 +ar：avdelningar (dekl. 2)。\n- 既指公司「部门」，也指医院「科室」、商场「区」。\n- Se [[grammar-substantiv-plural]], [[grammar-en-ord-ett-ord]]"
     },
     {
+      "slug": "avgång",
+      "lemma": "avgång",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "辞职；出发",
+      "en": "resignation; departure",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "avgång",
+        "avgången",
+        "avgångar",
+        "avgångarna"
+      ],
+      "body": "# avgång — substantiv\n\n📖 中文：辞职；出发 · English: resignation; departure\n发音提示：/ˈɑːvˌgoŋ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en avgång |\n| bestämd singular | avgången |\n| obestämd plural | avgångar |\n| bestämd plural | avgångarna |\n\n## 词组搭配 (Collocations)\n\n- `meddela sin avgång` — 宣布辞职\n- `frivillig avgång` — 自愿离职\n- `tågets avgång` — 火车出发时间\n- `avgångstid` — 出发时间\n\n## 例句 (Sentences)\n\n**义项1 辞职 (resignation):**\n- 🇸🇪 Statsministern meddelade sin avgång efter förlusten i valet. — 🇨🇳 首相在选举失败后宣布辞职。\n- 🇸🇪 Partiet är chockat av ledarens plötsliga avgång. — 🇨🇳 党内对领导人突然辞职感到震惊。\n\n**义项2 出发 (departure — transport):**\n- 🇸🇪 Tågets avgång från Stockholm är klockan åtta. — 🇨🇳 火车从斯德哥尔摩出发的时间是八点。\n- 🇸🇪 Nästa avgång till Göteborg går om tio minuter. — 🇨🇳 下一班去哥德堡的车十分钟后出发。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[avgå]] (verb: 辞职/出发)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 一词多义关键区别：人的\"辞职\" vs. 交通工具的\"出发/班次\"\n- \"meddela sin avgång\" = 正式宣布辞职（常见于政治新闻）\n- tågets avgång = 火车出发，也可指具体\"一班次\""
+    },
+    {
       "slug": "avrunda",
       "lemma": "avrunda",
       "ordklass": "verb",
@@ -2173,6 +2233,23 @@ window.READING_DATA = {
         "berättat"
       ],
       "body": "# berätta — verb (v.1)\n\n📖 中文：讲述 · English: to tell, to narrate\n发音提示：be-RÄT-ta；重音在第二音节，双写 `tt`。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att berätta |\n| Imperativ | berätta! |\n| Presens | berättar |\n| Preteritum | berättade |\n| Supinum | (har) berättat |\n\n规则的 grupp 1 动词（-ar/-ade/-at）。\n\n## 词组搭配 (Collocations)\n\n- `berätta en saga/historia` — 讲故事/童话\n- `berätta för ngn` — 告诉某人（例：berätta för mig）\n\n## 例句 (Sentences)\n\n- 🇸🇪 **Berätta** för mig om din dag!\n  🇨🇳 跟我讲讲你今天过得怎么样！\n- 🇸🇪 Pappa **berättade** en saga innan vi somnade.\n  🇨🇳 爸爸在我们睡着之前讲了一个故事。\n- 🇸🇪 Hon **berättar** alltid roliga historier för barnen.\n  🇨🇳 她总是给孩子们讲有趣的故事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[berättelse]] (en, 故事/叙述), [[berättare]] (en, 叙述者)\n- 同义词: [[berätta]] —\n- 反义词: —\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `berätta för ngn att/om` — 告诉某人某事：*Berätta för mig om din dag.*\n- 原文：*En dag bad Karin Astrid berätta en saga* — 有一天卡琳让阿斯特丽德讲故事。\n- 来源: [[source-2026-06-09-zlatan-bio]]"
+    },
+    {
+      "slug": "berättelse",
+      "lemma": "berättelse",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "故事；叙述",
+      "en": "story; narrative",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "berättelse",
+        "berättelsen",
+        "berättelser",
+        "berättelserna"
+      ],
+      "body": "# berättelse — substantiv\n\n📖 中文：故事；叙述 · English: story; narrative\n发音提示：/bɛˈrɛtɛlsɛ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en berättelse |\n| bestämd singular | berättelsen |\n| obestämd plural | berättelser |\n| bestämd plural | berättelserna |\n\n## 词组搭配 (Collocations)\n\n- `berätta en berättelse` — 讲一个故事\n- `en gammal berättelse` — 一个古老的故事\n- `berättelsen om...` — 关于…的故事\n- `cirkulera i hundratals år` — 流传数百年\n\n## 例句 (Sentences)\n\n- 🇸🇪 Berättelsen om Robin Hood har cirkulerat i hundratals år. — 🇨🇳 罗宾汉的故事已流传了数百年。\n- 🇸🇪 Mormor berättar alltid en spännande berättelse för barnbarnen. — 🇨🇳 外婆总是给孙子们讲一个精彩的故事。\n- 🇸🇪 Boken innehåller många korta berättelser om livet i Sverige. — 🇨🇳 这本书包含许多关于瑞典生活的短篇故事。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[berätta]] (verb: 讲述), berättare (narrator), berättande (narrating)\n- 同义词: [[saga]] (fairy tale — more literary/fantasy)\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `berättelse` 是一般意义的\"故事/叙述\"，可以是真实或虚构的\n- `saga` 更偏向童话/神话，且更具文学色彩\n- `novell` = 短篇小说（更正式的文学体裁）"
     },
     {
       "slug": "bestå",
@@ -3794,6 +3871,22 @@ window.READING_DATA = {
       "body": "# efterrätt — substantiv (en)\n\n📖 中文：甜点；餐后甜品 · English: dessert\n发音提示：EF-ter-rätt\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en efterrätt |\n| bestämd singular | efterrätten |\n| obestämd plural | efterrätter |\n| bestämd plural | efterrätterna |\n\n## 词组搭配 (Collocations)\n\n- `vad har ni för efterrätt?` — 你们有什么甜点？\n- `ta en efterrätt` — 点一份甜点\n- `hemgjord efterrätt` — 自制甜点\n\n## 例句 (Sentences)\n\n- see [[sent-bra-val-vill-du-ha-efterrätt]]\n- see [[sent-ja-gärna-vad-har-ni-för]]\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[förrätt]] (前菜/头盘), huvudrätt (主菜)\n- 相关词: [[äppelpaj]], [[glass]], [[tårta]]\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典餐厅通常三道菜：förrätt → huvudrätt → efterrätt。\n- 来源: [[source-2026-06-15-restaurang-rekommendation]]"
     },
     {
+      "slug": "efterträdare",
+      "lemma": "efterträdare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "继任者；接班人",
+      "en": "successor",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "efterträdare",
+        "efterträdaren",
+        "efterträdarna"
+      ],
+      "body": "# efterträdare — substantiv\n\n📖 中文：继任者；接班人 · English: successor\n发音提示：/ˈɛftərˌtrɛːdarə/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en efterträdare |\n| bestämd singular | efterträdaren |\n| obestämd plural | efterträdare |\n| bestämd plural | efterträdarna |\n\n注意：单复数同形 (same singular/plural in obestämd form)\n\n## 词组搭配 (Collocations)\n\n- `trolig efterträdare` — 可能的继任者\n- `utse en efterträdare` — 指定继任者\n- `väljas till efterträdare` — 被选为继任者\n\n## 例句 (Sentences)\n\n- 🇸🇪 Politikern anses vara en trolig efterträdare till partiledaren. — 🇨🇳 这位政治家被认为是党魁最可能的继任者。\n- 🇸🇪 Presidenten har ännu inte utsett en efterträdare. — 🇨🇳 总统尚未指定继任者。\n- 🇸🇪 Vem blir nästa efterträdare till tronen? — 🇨🇳 谁将成为下一任王位继承人？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[efterträda]] (verb: 继任)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 常见于政治、历史或商业语境\n- 词根：`efter` (after) + `träda` (step) → 字面意为\"踏上之后\"的人"
+    },
+    {
       "slug": "egen",
       "lemma": "egen",
       "ordklass": "adjektiv",
@@ -4688,6 +4781,22 @@ window.READING_DATA = {
         "födelsedagarna"
       ],
       "body": "# födelsedag — substantiv (en)\n\n📖 中文：生日 · English: birthday\n发音提示：/ˈføːdəlsɛˌdɑːɡ/\n\n## 语法变形 (Forms)\n\n| Form | Singular | Plural |\n|------|----------|--------|\n| Obestämd | en födelsedag | födelsedagar |\n| Bestämd | födelsedagen | födelsedagarna |\n\n## 词组搭配 (Collocations)\n\n- `grattis på födelsedagen` — 生日快乐 → see [[grattis-på-födelsedagen]]\n- `fira födelsedag` — 庆祝生日\n- `födelsedagstårta` — 生日蛋糕\n- `födelsedagsfirandet` (ett firande) — 生日庆祝活动\n\n## 例句 (Sentences)\n\n- 🇸🇪 Ja, det stämmer. Det är min födelsedag idag! — 🇨🇳 是的，没错。今天是我的生日！\n- 🇸🇪 Grattis på födelsedagen, Lisa! — 🇨🇳 Lisa，生日快乐！\n- 🇸🇪 Skål för födelsedagsfirandet! — 🇨🇳 为生日庆祝干杯！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[fira]], [[grattis]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- Sammansatt ord: födelsedag = födelse (birth) + dag (day).\n- \"på min födelsedag\" — 在我生日那天.\n- \"Grattis på dagen!\" är ett kortare sätt att säga grattis på födelsedagen."
+    },
+    {
+      "slug": "följeslagare",
+      "lemma": "följeslagare",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "伙伴；随从；同伴",
+      "en": "companion; follower; sidekick",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "följeslagare",
+        "följeslagaren",
+        "följeslagarna"
+      ],
+      "body": "# följeslagare — substantiv\n\n📖 中文：伙伴；随从；同伴 · English: companion; follower; sidekick\n发音提示：/ˈfœlɛˌslɑːɡarɛ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en följeslagare |\n| bestämd singular | följeslagaren |\n| obestämd plural | följeslagare |\n| bestämd plural | följeslagarna |\n\n注意：单复数同形 (same obestämd singular/plural)\n\n## 词组搭配 (Collocations)\n\n- `närmaste följeslagare` — 最亲密的伙伴\n- `trogen följeslagare` — 忠实的伙伴\n- `livslång följeslagare` — 终身伴侣/伙伴\n\n## 例句 (Sentences)\n\n- 🇸🇪 Lille John är Robin Hoods närmaste och trognaste följeslagare. — 🇨🇳 小约翰是罗宾汉最亲密、最忠实的伙伴。\n- 🇸🇪 Hunden har i tusentals år varit människans följeslagare. — 🇨🇳 狗千百年来一直是人类的伙伴。\n- 🇸🇪 I sagan hade prinsen en trogen följeslagare på sin resa. — 🇨🇳 在故事中，王子在旅途中有一位忠实的伙伴。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[följa]] (follow), följa med (accompany)\n- 同义词: [[kamrat]] (comrade), [[kompis]] (friend/buddy) — mer vardagliga\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `följeslagare` 是正式/文学用词，常出现在历史、小说或新闻语境\n- 日常更多用 `kompis`/`vän`/`kamrat` 表达\"朋友\"\n- 词根：`följa` (follow) + `slagare` (从 slag/strike，此处作后缀)"
     },
     {
       "slug": "fönster",
@@ -6605,6 +6714,23 @@ window.READING_DATA = {
       "body": "# hjälpsam — adjektiv\n\n📖 中文：乐于助人的；热心的 · English: helpful / willing to help\n发音提示：[ˈjɛlpˌsam] — 两音节，重音在第一音节\n\n## 语法变形 (Forms)\n\n| form | böjning |\n|------|---------|\n| utrum (en-ord) | hjälpsam |\n| neutrum (ett-ord) | hjälpsamt |\n| plural / bestämd | hjälpsamma |\n\n## 词组搭配 (Collocations)\n\n- `vara väldigt hjälpsam` — 非常乐于助人\n- `en hjälpsam person` — 一个热心的人\n- `Du är väldigt hjälpsam!` — 你真的很热心！\n\n## 例句 (Sentences)\n\n- 🇸🇪 Tack så mycket! Du är väldigt hjälpsam. — 🇨🇳 非常感谢！你真的很热心。\n- 🇸🇪 Personalen på hotellet är alltid hjälpsamma. — 🇨🇳 酒店的工作人员总是非常乐于助人。\n- 🇸🇪 Det är bra att ha en hjälpsam granne. — 🇨🇳 有一个热心的邻居真好。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[hjälp]] (en hjälp — 帮助), [[hjälpa]] (att hjälpa — 帮助)\n- 同义词: [[snäll]], [[vänlig]]\n- 反义词: —\n- 主题: [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- **hjälpsam** 专门描述\"愿意帮助别人\"的性格特质，比 *snäll*（善良）更具体。\n- 变形规则：en hjälpsam person → ett hjälpsamt bemötande → de hjälpsamma personerna。\n- 常在问路后感谢对方时用到。"
     },
     {
+      "slug": "hjälte",
+      "lemma": "hjälte",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "英雄",
+      "en": "hero",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "hjälte",
+        "hjälten",
+        "hjältar",
+        "hjältarna"
+      ],
+      "body": "# hjälte — substantiv\n\n📖 中文：英雄 · English: hero\n发音提示：/ˈjɛltɛ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en hjälte |\n| bestämd singular | hjälten |\n| obestämd plural | hjältar |\n| bestämd plural | hjältarna |\n\n## 词组搭配 (Collocations)\n\n- `folklig hjälte` — 民间英雄\n- `legendarisk hjälte` — 传奇英雄\n- `filmens hjälte` — 电影中的主角/英雄\n- `hjälta upp` — 英雄般地行动\n\n## 例句 (Sentences)\n\n- 🇸🇪 Robin Hood är en legendarisk hjälte som stjäl från rika för att ge till fattiga. — 🇨🇳 罗宾汉是一位传奇英雄，劫富济贫。\n- 🇸🇪 Brandmannen är en riktig hjälte — han räddade tre barn. — 🇨🇳 这位消防员是真正的英雄，他救了三个孩子。\n- 🇸🇪 Vem är din hjälte? — 🇨🇳 你的英雄是谁？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: hjältinna (female hero), [[hjältemod]] (heroism), hjältemodigt (heroically)\n- 反义词: skurk (villain/scoundrel)\n- 主题: [[topic-litteratur-och-kultur]], [[topic-karaktarsord]]\n\n## 用法提示 (Usage Notes)\n\n- `hjälte` 是男性英雄；女性英雄用 `hjältinna`（但现代瑞典语中 `hjälte` 也可指任何性别）\n- 在文学/电影中也表示\"主角\"（protagonist）"
+    },
+    {
       "slug": "hjärtklappning",
       "lemma": "hjärtklappning",
       "ordklass": "substantiv",
@@ -8164,6 +8290,23 @@ window.READING_DATA = {
         "kopparna"
       ],
       "body": "# kopp — substantiv (en)\n\n📖 中文：杯子（有耳朵的杯） · English: cup\n发音提示：KOHP\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| obestämd singular | en kopp |\n| bestämd singular | koppen |\n| obestämd plural | koppar |\n| bestämd plural | kopparna |\n\n## 词组搭配 (Collocations)\n\n- `en kopp kaffe` — 一杯咖啡\n- `en kopp te` — 一杯茶\n- `dricka ur koppen` — 从杯子里喝\n- `kaffekopparna` — 咖啡杯们\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag skulle vilja ha en kopp te, tack. — 🇨🇳 我想要一杯茶，谢谢。\n- 🇸🇪 Han dricker sin tredje kopp kaffe idag. — 🇨🇳 他今天喝了第三杯咖啡了。\n- 🇸🇪 Kopparna på kafét är väldigt fina. — 🇨🇳 咖啡馆里的杯子非常漂亮。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 主题: [[topic-kafe-fika]]\n\n## 用法提示 (Usage Notes)\n\n- Kopp 特指有把手的杯子（如咖啡杯、茶杯）；glas 是玻璃杯（无把手）。"
+    },
+    {
+      "slug": "koppling",
+      "lemma": "koppling",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "联系；关联；离合器",
+      "en": "connection; link; clutch",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "koppling",
+        "kopplingen",
+        "kopplingar",
+        "kopplingarna"
+      ],
+      "body": "# koppling — substantiv\n\n📖 中文：联系；关联；离合器 · English: connection; link; clutch\n发音提示：/ˈkɔplɪŋ/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en koppling |\n| bestämd singular | kopplingen |\n| obestämd plural | kopplingar |\n| bestämd plural | kopplingarna |\n\n## 词组搭配 (Collocations)\n\n- `koppling till brott` — 与犯罪的关联\n- `tydlig koppling` — 明显的联系\n- `bils koppling` — 汽车离合器\n- `kopplingen brann ut` — 离合器烧坏了\n\n## 例句 (Sentences)\n\n**义项1 联系/关联 (abstract connection):**\n- 🇸🇪 Polisen hittade en tydlig koppling mellan de två brotten. — 🇨🇳 警察发现了这两起犯罪之间的明显关联。\n- 🇸🇪 Det finns ingen koppling mellan de två händelserna. — 🇨🇳 这两件事之间没有任何联系。\n\n**义项2 离合器 (mechanical clutch):**\n- 🇸🇪 Bilens koppling är trasig, det kostar mycket att laga. — 🇨🇳 汽车的离合器坏了，修起来很贵。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[koppla]] (verb: 连接/联系)\n- 同义词（抽象义）: [[samband]], [[anknytning]]\n\n## 用法提示 (Usage Notes)\n\n- 抽象义（联系）最常见于新闻/警察报告：`koppling till terrorismen`\n- 具体义（离合器）= 汽车零件，在日常对话中使用"
     },
     {
       "slug": "köra",
@@ -11694,6 +11837,23 @@ window.READING_DATA = {
       "body": "# päron — substantiv (ett-ord)\n\n📖 中文：梨 · English: pear\n发音提示：['pæːrɔn]\n\n## 语法变形 (Forms)\n\n| | obestämd | bestämd |\n|---|---|---|\n| singular | ett päron | päronet |\n| plural | päron | päronen |\n\n⚠️ 单复数同形：ett päron / päron\n\n## 词组搭配 (Collocations)\n\n- `ett moget päron` — 一个熟梨 → see [[mogen]]\n- `päronkaka` — 梨蛋糕\n- `gröna päron` — 绿梨\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: päronform（梨形）\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord；复数与单数同形（päron/päron）。\n- [[grammar-substantiv-plural]] · [[grammar-en-ord-ett-ord]]\n- 来源: [[source-2026-06-11-mat-dryck]]"
     },
     {
+      "slug": "parti",
+      "lemma": "parti",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "政党；一批；棋局",
+      "en": "(political) party; batch; game",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "parti",
+        "partiet",
+        "partier",
+        "partierna"
+      ],
+      "body": "# parti — substantiv\n\n📖 中文：政党；一批；棋局 · English: (political) party; batch; game\n发音提示：/parˈtiː/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett parti |\n| bestämd singular | partiet |\n| obestämd plural | partier |\n| bestämd plural | partierna |\n\n## 词组搭配 (Collocations)\n\n- `politiskt parti` — 政党\n- `partiledare` — 党魁/党领导人\n- `rösta på ett parti` — 投票给一个政党\n- `ett parti varor` — 一批货物\n- `ett parti schack` — 一局象棋\n\n## 例句 (Sentences)\n\n**义项1 政党 (political party):**\n- 🇸🇪 Han är ledare för partiet Labour i Storbritannien. — 🇨🇳 他是英国工党的领袖。\n- 🇸🇪 Vilket parti röstade du på i valet? — 🇨🇳 你在选举中投票给了哪个政党？\n\n**义项2 一批货物 (batch/lot):**\n- 🇸🇪 Vi har fått ett nytt parti jordgubbar från Sverige. — 🇨🇳 我们收到了一批来自瑞典的草莓。\n\n**义项3 棋局 (game of chess):**\n- 🇸🇪 Vill du spela ett parti schack med mig? — 🇨🇳 你想和我下一局象棋吗？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: partiledare (party leader), partipolitik (party politics), partimedlem (party member)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 在政治语境中最常见，指\"政党\"\n- `ett parti varor` 商业语境中指\"一批/一批次货物\"\n- `ett parti schack/tennis` 指棋局/球局（一场比赛中的一局）"
+    },
+    {
       "slug": "passa",
       "lemma": "passa",
       "ordklass": "verb",
@@ -12023,6 +12183,22 @@ window.READING_DATA = {
         "populäraste"
       ],
       "body": "# populär — adjektiv\n\n📖 中文：受欢迎的；流行的 · English: popular\n发音提示：/popʊˈlæːr/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | populär | populärt | populära |\n| **Komparativ** | populärare | populärare | populärare |\n| **Superlativ** | populärast / populäraste | populärast / populäraste | populäraste |\n\n## 词组搭配 (Collocations)\n\n- `populär stad` — 受欢迎的城市 → see [[stad]]\n- `populär restaurang` — 受欢迎的餐厅 → see [[restaurang]]\n- `populärt café` — 受欢迎的咖啡馆 → see [[kafé]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: popularitet (受欢迎程度)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]"
+    },
+    {
+      "slug": "populistisk",
+      "lemma": "populistisk",
+      "ordklass": "adjektiv",
+      "cefr": "B2",
+      "zh": "民粹主义的",
+      "en": "populist",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "populistisk",
+        "populistiskt",
+        "populistiska"
+      ],
+      "body": "# populistisk — adjektiv\n\n📖 中文：民粹主义的 · English: populist\n发音提示：/ˌpɔpʉˈlɪstɪsk/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| utrum (en-ord) | populistisk |\n| neutrum (ett-ord) | populistiskt |\n| plural/definit | populistiska |\n\n## 词组搭配 (Collocations)\n\n- `populistisk rörelse` — 民粹主义运动\n- `populistisk politik` — 民粹主义政策\n- `populistisk retorik` — 民粹主义言辞\n- `ett populistiskt parti` — 一个民粹主义政党\n\n## 例句 (Sentences)\n\n- 🇸🇪 Det populistiska partiet lovade enkla lösningar på komplicerade problem. — 🇨🇳 这个民粹主义政党承诺对复杂问题提供简单的解决方案。\n- 🇸🇪 Kritikerna kallar politikerns retorik för populistisk. — 🇨🇳 批评者称这位政治家的言辞为民粹主义。\n- 🇸🇪 Populistiska rörelser är vanliga i många europeiska länder. — 🇨🇳 民粹主义运动在许多欧洲国家很普遍。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: populism (民粹主义), populist (民粹主义者)\n- 对比: demokratisk (民主的), auktoritär (威权的), elitistisk (精英主义的)\n- 主题: [[topic-samhälle-och-politik]]\n\n## 用法提示 (Usage Notes)\n\n- 通常带有贬义，暗指迎合大众情绪而非理性政策\n- `populist` (substantiv) = 民粹主义者（as a noun）"
     },
     {
       "slug": "potatis",
@@ -12905,6 +13081,23 @@ window.READING_DATA = {
         "sagorna"
       ],
       "body": "# saga — substantiv (en)\n\n📖 中文：故事/童话 · English: story, fairy tale\n发音提示：SA-ga；元音 `a` 长音，双音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en saga |\n| Singular bestämd | sagan |\n| Plural obestämd | sagor |\n| Plural bestämd | sagorna |\n\n## 词组搭配 (Collocations)\n\n- `läsa en saga` — 读故事\n- `berätta en saga` — 讲故事\n- `folksaga` — 民间故事\n\n## 例句 (Sentences)\n\n- 🇸🇪 Karin bad Astrid berätta en **saga** om en flicka.\n  🇨🇳 卡琳请阿斯特丽德讲一个关于女孩的故事。\n- 🇸🇪 Pappa läste en **saga** för barnen varje kväll.\n  🇨🇳 爸爸每晚都给孩子们读故事。\n- 🇸🇪 Det är en gammal **saga** som alla barn känner till.\n  🇨🇳 这是一个所有孩子都知道的古老童话。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[folksaga]] (en, 民间故事), [[sagofigur]] (en, 童话人物), [[saglik]] (adj, 童话般的)\n- 同义词: [[berättelse]] (en, 故事/叙述，更通用), [[historia]] (en, 故事/历史)\n- 反义词: —\n- 主题: [[topic-litteratur-och-kultur]], [[topic-familj-och-barn]]\n\n## 用法提示 (Usage Notes)\n\n- `saga` 在北欧语境里也特指维京人流传的\"萨迦\"（Islandic sagas）。\n- 原文：*En dag bad Karin Astrid berätta en saga om en flicka.* — 有一天卡琳请阿斯特丽德讲一个关于女孩的故事。"
+    },
+    {
+      "slug": "sägen",
+      "lemma": "sägen",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "传说；民间故事",
+      "en": "legend; folk tale",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "sägen",
+        "sägnen",
+        "sägner",
+        "sägnerna"
+      ],
+      "body": "# sägen — substantiv\n\n📖 中文：传说；民间故事 · English: legend; folk tale\n发音提示：/ˈsɛːɡɛn/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | en sägen |\n| bestämd singular | sägnen |\n| obestämd plural | sägner |\n| bestämd plural | sägnerna |\n\n注意：bestämd singular = sägnen (不规则，去掉词尾 -en 加 -nen)\n\n## 词组搭配 (Collocations)\n\n- `enligt sägnerna` — 据传说\n- `en gammal sägen` — 一个古老的传说\n- `folksägen` — 民间传说\n- `sägnen säger att...` — 传说说…\n\n## 例句 (Sentences)\n\n- 🇸🇪 Robin Hood bor enligt sägnerna i Sherwoodskogen i England. — 🇨🇳 据传说，罗宾汉住在英格兰的舍伍德森林。\n- 🇸🇪 Det finns många gamla sägner om troll och älvor i Sverige. — 🇨🇳 瑞典有许多关于巨魔和精灵的古老传说。\n- 🇸🇪 Är det en sann historia eller en sägen? — 🇨🇳 这是真实故事还是传说？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[säga]] (to say — same root historically)\n- 同义词: legend (传说/legend)\n- 对比: [[saga]] (saga/fairy tale — 更文学化)，[[berättelse]] (story — 更一般)\n- 主题: [[topic-litteratur-och-kultur]]\n\n## 用法提示 (Usage Notes)\n\n- `sägen` 偏向民间口耳相传的传说，通常与地点/人物相关\n- `saga` 更多是童话/神话故事\n- \"enligt sägnerna\" = 据传说（常见固定表达）"
     },
     {
       "slug": "säker",
@@ -14264,6 +14457,21 @@ window.READING_DATA = {
         "somrarna"
       ],
       "body": "# sommar — substantiv (en)\n\n📖 中文：夏天；夏季 · English: summer\n发音提示：/ˈsɔmar/\n\n## 语法变形 (Forms)\n\n| form | exempel |\n|------|---------|\n| singular obestämd | en sommar |\n| singular bestämd | sommaren |\n| plural obestämd | somrar |\n| plural bestämd | somrarna |\n\n## 词组搭配 (Collocations)\n\n- `på sommaren` — 在夏天（泛指）\n- `i sommar` — 今年夏天（特指）\n- `i somras` — 去年夏天\n- `sommarsemester` — 暑假\n- `sommarvärme` — 夏日暖意\n\n## 例句 (Sentences)\n\n- 🇸🇪 Sommaren är kort men intensiv. — 🇨🇳 夏天短暂却充满活力。 → [[sent-sommaren-ar-kort-men-intensiv]]\n- 🇸🇪 På sommaren badar många svenskar i sjön. — 🇨🇳 夏天许多瑞典人在湖里游泳。\n- 🇸🇪 I sommar ska vi resa till norra Sverige. — 🇨🇳 今年夏天我们要去瑞典北部旅行。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 反义词: [[vinter]]\n- 主题: [[topic-vader-och-arstider]]\n\n## 用法提示 (Usage Notes)\n\n- 复数 *somrar*（不规则变化）。\n- ⚠️ *på sommaren*（泛指）vs. *i sommar*（今年夏天）。\n- 瑞典的夏天虽短（6–8月）但日照极长，尤其在北部可出现极昼。"
+    },
+    {
+      "slug": "sommarlov",
+      "lemma": "sommarlov",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "暑假",
+      "en": "summer holiday; summer vacation",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "sommarlov",
+        "sommarlovet"
+      ],
+      "body": "# sommarlov — substantiv\n\n📖 中文：暑假 · English: summer holiday; summer vacation\n发音提示：/ˈsɔmarˌluːv/\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| obestämd singular | ett sommarlov |\n| bestämd singular | sommarlovet |\n| obestämd plural | sommarlov |\n| bestämd plural | sommarlovet → sommarlov (same) |\n\n注意：单复数同形 (ett-ord neutrum)\n\n## 词组搭配 (Collocations)\n\n- `ha sommarlov` — 放暑假\n- `börja sommarlovet` — 暑假开始\n- `under sommarlovet` — 暑假期间\n- `kortare/längre sommarlov` — 较短/较长的暑假\n\n## 例句 (Sentences)\n\n- 🇸🇪 Barnen har sommarlov i juni, juli och en del av augusti. — 🇨🇳 孩子们六月、七月和八月初放暑假。\n- 🇸🇪 Vad ska du göra under sommarlovet? — 🇨🇳 你暑假打算做什么？\n- 🇸🇪 Skolorna stänger och sommarlovet börjar nästa vecka. — 🇨🇳 学校关门，下周暑假开始。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[sommar]] (summer), [[lov]] (holiday/permission)\n- 相关: vinterlov (winter break), sportlov (mid-term holiday), påsklov (Easter break), höstlov (autumn break)\n- 主题: [[topic-skola-och-utbildning]]\n\n## 用法提示 (Usage Notes)\n\n- 瑞典学校的暑假通常从六月下旬到八月中旬（约10周）\n- `lov` 在教育语境中 = 假期；在其他语境中 = 许可/允许"
     },
     {
       "slug": "sömn",
