@@ -176,9 +176,9 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 在 remote 环境里生成今日情景练习并入库：
 1. /dagens-scenario   （批量：按 day-of-year 生成当天 5 篇，一周轮完 35 体裁，不需联网）
 2. 对刚生成的**每一个** inbox/scenario-<date>-*.md（今天 5 篇）逐篇跑 /import（spawn librarian/importer 用前台，每篇等完整 manifest 再做下一篇）
-3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 生成 slugs.json；`git add` 源文件 + slugs.json
-   （**不要 add `site/kb-data.js`、`site/reading/reading-data.js` —— Action 会重建并提交**）；commit、push
-4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405 冲突按 §4.7 ④（merge origin/main → 重建数据文件 → push → 再 merge PR）
+3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
+   （三个 viewer 数据文件 `kb-data.js`/`reading-data.js`/`listening-data.js` 已 gitignore，git add 自动跳过）；commit、push
+4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：同时在本地任务和云端跑会同一天生成两篇。改用云端后，请在桌面把本地那条 scenario 任务**停用**。
 
@@ -272,9 +272,9 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 在 remote 环境里抓今日瑞典语简易新闻并入库：
 1. /dagens-nyheter
 2. 对刚生成的 inbox/news-*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
-3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 生成 slugs.json；`git add` 源文件 + slugs.json
-   （**不要 add `site/kb-data.js`、`site/reading/reading-data.js` —— Action 会重建并提交**）；commit、push
-4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405 冲突按 §4.7 ④（merge origin/main → 重建数据文件 → push → 再 merge PR）
+3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
+   （三个 viewer 数据文件 `kb-data.js`/`reading-data.js`/`listening-data.js` 已 gitignore，git add 自动跳过）；commit、push
+4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：news 同时在本地 `svensk-news-daily` 和云端跑会重复抓取/产生两份当日新闻。
 > 改用云端后，请在桌面把本地 `svensk-news-daily` 任务**停用**。
@@ -301,7 +301,8 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 **每日自动抓取(routine)：** `scripts/daily-listening.ps1`(UTF-8 BOM)headless 跑 `/dagens-horovning`
 (allowedTools 含 `WebSearch,WebFetch,Bash`)→ 重建听力数据 → 有新一集则 `tools/sync-kb.ps1` push → Windows toast。
 触发器 = Claude Code scheduled task **`svensk-horning-daily`**，cron `30 18 * * *`(SVT ~17:25 播完后)。日志 `scripts/listening-run.log`。
-`tools/sync-kb.ps1` 已把 `listening/` + `site/listening/listening-data.js` 纳入重建与暂存，所以 `/sync` 也会带上听力数据。
+`tools/sync-kb.ps1` 会重建并暂存 `listening/*.json`（源数据，tracked）；`site/listening/listening-data.js`
+已 gitignore（由 Action 生成），不再随 `/sync` 提交。
 
 **云端版 (remote, 推荐用它替代本地)：** listening 这条**联网类** routine 也可放到 Claude Code on the web 定时 session。
 环境需**允许出站访问**(抓 SVT api/字幕)。与 news/scenario 不同，它要**两步**：`/dagens-horovning` 既写
@@ -310,10 +311,10 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 在 remote 环境里抓今日 SVT 简易新闻听力并入库：
 1. /dagens-horovning   （抓最新一集字幕→听力数据→重建 Lyssna 站，并写 inbox/horning-*.md）
 2. 若生成了 inbox/horning-*.md，对它跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
-3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js（slugs.json）+ build-listening-site.js；`git add` 源文件
-   + slugs.json + `site/listening/listening-data.js`（**不要 add `site/kb-data.js`、`site/reading/reading-data.js`**）；
+3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js（更新 slugs.json）；`git add` 源文件（含 `listening/*.json`）
+   + slugs.json（三个 viewer 数据文件已 gitignore，含 `listening-data.js`，git add 自动跳过，由 Action 生成）；
    若无改动(无新一集)则跳过不 commit；否则 commit、push
-4. 有改动时用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405 冲突按 §4.7 ④（merge origin/main → 重建数据文件 → push → 再 merge PR）
+4. 有改动时用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > SVT 仅**工作日 ~17:25** 更新，cron 建议 `30 16 * * 1-5`(UTC，≈瑞典夏令时 18:30，播完后)；周末跑也无害(查到的还是周五那集→已存在→无改动→跳过 push)。
 > ⚠️ **本地与云端二选一**：改用云端后请在桌面把本地 `svensk-horning-daily` **停用**。
@@ -351,9 +352,9 @@ A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
   在 remote 环境里跑一篇今日 lättläst 阅读文章并入库：
   1. /dagens-artikel   （按 day-of-year 自动轮换体裁、自动查重、联网核实事实后生成到 inbox/）
   2. 对刚生成的那份新 inbox/*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
-  3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 生成 slugs.json；`git add` 源文件 + slugs.json
-     （**不要 add `site/kb-data.js`、`site/reading/reading-data.js` —— Action 会重建并提交**）；用一句话 commit、push
-  4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405 冲突按 §4.7 ④（merge origin/main → 重建数据文件 → push → 再 merge PR）
+  3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
+     （三个 viewer 数据文件已 gitignore，git add 自动跳过）；用一句话 commit、push
+  4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
   ```
 - session 在隔离的临时容器里跑，**改动必须 commit+push 才会留存**，所以第 3 步不可省。
 - 我（主 agent）**无法**从会话内创建这个 web 定时触发器——那是 web UI 的动作；上面这段 prompt 直接贴进
@@ -362,43 +363,38 @@ A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 > 与本地 routine 不冲突：本地那批仍走 `scripts/*.ps1`+桌面 Scheduled task；阅读文章这条独立跑 remote。
 > `inbox/` 被 gitignore，所以文章必须当场 `/import` 进 tracked 的 `knowledge_base/`+`imported/` 才同步得到别的设备。
 
-### §4.7 ⭐ Remote routine 收尾 SOP (commit · PR · 冲突) — **每条 remote routine 都按这个收尾**
+### §4.7 ⭐ Remote routine 收尾 SOP (commit · PR) — **每条 remote routine 都按这个收尾**
 
 > ⚠️ **仅限 routine / 定时(scheduled)会话**（§4.2–§4.6 这些每天自动跑的 session）。**交互式人工会话默认不开 PR**
 > ——除非用户当场明确要求(见运行环境指令)。这是用户对自动会话的固定偏好：**routine 里一律自动 create PR → merge**，
 > 不必每次问。
 
 所以 §4.4–§4.6 的 remote routine（news / listening / scenario / artikel / adjsubst）跑完生成 + `/import`
-后，**统一**按本节收尾（commit/push 并自动开 PR + merge）。这是 2026-06-22 听力 routine 踩坑后固化的标准流程，
-照做可避免反复 merge 冲突、避免被 stop hook 逼着分批 commit。
+后，**统一**按本节收尾（commit/push 并自动开 PR + merge）。
 
-**① 哪些生成文件 routine *绝不要* 提交（最重要、冲突根源）：**
+**⭐ 2026-06-23 架构改：三个生成的 viewer 数据文件已移出 git。**
+`site/kb-data.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js` 现在都在 `.gitignore`，
+**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回 main**。所以以前
+「Action 提交 viewer 文件 → 和 routine 抢 → 每次 merge 必冲突」的根源**没了**：routine **绝不碰这三个文件**，
+PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数据文件、⑥force-push 对齐分支）。
 
-GitHub Action `.github/workflows/kb-site.yml` 在**每次 push 到 main 后**会自动重建并提交
-`site/kb-data.js` + `site/reading/reading-data.js`。**routine 若也提交这两个文件，就会和 Action 抢，
-导致每次 PR merge 后 main 领先一个 "Update KB viewer data" commit，下次 routine 必冲突。**
+> 🗂️ **本地 PowerShell 流水线已退役（2026-06-23）。** remote 定时 session 是**唯一**自动入库来源。
+> `scripts/daily-{news,scenario,adjsubst,listening}.ps1` + 桌面 Scheduled task（`svensk-*-daily`）**请全部停用**，
+> 否则会与 remote 同日重复产出 / 制造 add/add 冲突。脚本文件暂留作参考，但不应再被任何 Scheduled task 调用。
 
-| 生成文件 | 谁生成 | Action 是否自动提交 | **routine 是否提交** |
-|---|---|---|---|
-| `knowledge_base/_index/slugs.json` | `build-kb-site.js` | ❌ 重建但不提交 | ✅ **必须提交**（dedup 依赖最新版） |
-| `site/listening/listening-data.js` | `build-listening-site.js` | ❌ Action 完全不碰 | ✅ **必须提交** |
-| `site/kb-data.js` | `build-kb-site.js` | ✅ Action 提交 | 🚫 **不要提交**（交给 Action） |
-| `site/reading/reading-data.js` | `build-reading-site.js` | ✅ Action 提交 | 🚫 **不要提交**（交给 Action） |
-
-所以收尾**只 add 源文件 + slugs.json + listening-data.js**，显式排除那两个 viewer 文件：
+**① 只提交源文件 + `slugs.json`：**
 ```bash
-node tools/build-kb-site.js          # 生成 slugs.json（dedup 用）—— kb-data.js 一并被改但下面不 add 它
-node tools/build-listening-site.js   # 仅 listening routine 需要
-git add knowledge_base/ listening/ imported/ review/ profile/ \
-        knowledge_base/_index/slugs.json site/listening/listening-data.js
-# ⚠️ 故意不 add site/kb-data.js、site/reading/reading-data.js —— Action 会重建并提交它们
+node tools/build-kb-site.js          # 更新 slugs.json（dedup 依赖）；顺带生成的 kb-data.js 是 gitignore，git add 自动跳过
+git add knowledge_base/ listening/ imported/ review/ profile/ knowledge_base/_index/slugs.json
 git commit -m "<routine>: <一句话>"
 git push -u origin <当前 branch>
 ```
+> `knowledge_base/_index/slugs.json` **仍 tracked、仍要提交**（dedup 用最新版）。三个 viewer 数据文件是
+> gitignore，`git add` 自动跳过，**无需再特意排除**。listening routine 不必再单独 build/commit listening-data.js
+> —— Action 会生成它。
 
-**② sv-librarian 用前台、不要 `run_in_background`：** routine 是无人值守的，spawn `sv-librarian`
-（或 import 走 `sv-importer`）时**用前台 `Agent`**，主 agent 阻塞等它返回完整 manifest 再 commit。
-后台跑会让 librarian 边写文件、主 agent 边被 stop hook 逼着分批 commit，产生竞态和半截提交。
+**② sv-librarian / sv-importer 用前台**（不要 `run_in_background`）：routine 无人值守，spawn 时用前台 `Agent`，
+主 agent 阻塞等完整 manifest 再 commit。后台跑会被 stop hook 逼着分批 commit，产生竞态和半截提交。
 
 **③ 创建 PR 并 squash merge：**
 ```
@@ -406,37 +402,23 @@ mcp__github__create_pull_request(base=main, head=<branch>, title/body=一句话)
 mcp__github__merge_pull_request(pullNumber=N, merge_method="squash")
 ```
 
-**④ merge 返回 405 "merge conflicts" 时的标准解法**（几乎只会冲突在被 Action 改过的 viewer 文件）：
+**④ 极少数 merge 405 冲突**：viewer 数据文件已不在 git，唯一可能冲突的是 **KB 笔记 add/add**
+（如两条 routine 同日都产出 `på-grund-av.md`/`förbjuda.md`）。保留 main 版本即可：
 ```bash
 git fetch origin main
-git merge origin/main --no-edit          # viewer 文件会冲突
-node tools/build-kb-site.js && node tools/build-reading-site.js && node tools/build-listening-site.js
-git add site/kb-data.js site/reading/reading-data.js site/listening/listening-data.js knowledge_base/_index/slugs.json
-git commit --no-edit && git push          # 再回到 ③ merge PR
+git merge origin/main --no-edit
+git checkout --theirs <冲突文件> && git add <冲突文件>   # KB 笔记冲突保留 main 版
+git commit --no-edit && git push                          # 再回 ③ merge PR
 ```
-> **数据文件冲突一律重建、绝不手动改** —— 它们是机器生成的。
-> **KB 笔记 add/add 冲突**（如 news 与 listening 同日都产出 `på-grund-av.md`/`förbjuda.md`）：
-> 保留 main 版本即可 —— `git checkout --theirs <file>` 后 `git add <file>`。
 
 **⑤ 无改动则跳过：** 若该 routine 当天无新内容（如听力无新一集、抓到的全是 dup），
 `git status` 干净就**直接结束**，不 commit、不开 PR。
 
-**⑥ merge 成功后把开发分支对齐 main（消除历史包袱，下次更通畅）：** squash merge 后 main 会多出
-①你的 squash commit + ②Action 的 `Update KB viewer data` commit，而开发分支仍停在旧历史。若不对齐，
-分支会**累积已 merge 的旧 commit + 旧 viewer 文件**，下次 routine 一开 PR 就因旧 viewer 版本和 main 冲突。
-所以收尾最后一步：
-```bash
-git fetch origin main
-git reset --hard origin/main          # 内容已全在 main，无损失
-git push -f origin <开发分支>          # 只 force-push 本 routine 专用分支，安全（main 绝不 force）
-```
-对齐后开发分支 = main，下次 routine 从干净状态起步，新 PR 只含当天源文件、能**直接 squash merge 不冲突**。
-
 > routine 会话**必须自己把改动合进主分支**（③ create PR → squash merge），否则每天内容只堆在分支上、
 > 别的设备 `git pull` 主分支拿不到。
-
-> 长远优化（需用户拍板，属架构改动）：把 `site/kb-data.js`、`site/reading/reading-data.js` 加进
-> `.gitignore`、纯由 Action/CI 生成，可彻底消除这类冲突。本节是在不改架构前提下的稳妥规避法。
+>
+> remote 每个 session 是**全新临时容器 + 一次性随机分支**，跑完即弃，所以**不需要**把开发分支对齐 main
+> （旧版 ⑥ 已删）。本地若有持久开发分支，按需 `git pull --rebase` 即可。
 
 ---
 
