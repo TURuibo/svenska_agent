@@ -13,23 +13,23 @@ The markdown knowledge base can be browsed as a static website:
 - Public GitHub Pages URL: https://turuibo.github.io/svenska_agent/
 - Local viewer: open `site/index.html` in a browser.
 - Source of truth: `knowledge_base/` markdown files.
-- Generated search data: `site/kb-data.js`.
+- Generated search data: `site/kb-data.js` — **gitignored**, built on demand (see below).
 
-After adding or editing KB notes, regenerate the viewer data locally:
+The viewer data files (`site/kb-data.js`, `site/reading/reading-data.js`, `site/listening/listening-data.js`)
+are **not tracked in git**. They are generated fresh by the GitHub Actions workflow (`.github/workflows/kb-site.yml`)
+and published only to the `gh-pages` branch — never committed to `main`. This keeps `main` free of ~10MB/day of
+blob churn and removes all viewer-file merge conflicts.
+
+To preview locally after editing KB notes, build the data once (output stays gitignored):
 
 ```bash
-node tools/build-kb-site.js
+node tools/build-kb-site.js        # KB viewer data + knowledge_base/_index/slugs.json (tracked)
+node tools/build-reading-site.js   # Läsning reading data
+node tools/build-listening-site.js # Lyssna listening data
 ```
 
-To publish the updated viewer to GitHub Pages manually (the GitHub Actions workflow also refreshes it on relevant `main` pushes, daily, and on manual dispatch):
-
-```powershell
-git add site
-git commit -m "Update KB viewer data"
-git push
-$sha = git subtree split --prefix site main
-git push origin "$sha`:refs/heads/gh-pages"
-```
+Publishing to GitHub Pages is automatic on relevant `main` pushes (and via manual workflow dispatch) — no manual
+commit of viewer data is needed.
 
 ---
 

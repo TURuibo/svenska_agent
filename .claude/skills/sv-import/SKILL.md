@@ -263,7 +263,8 @@ powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1   # 
 node tools/build-reading-site.js                                              # Läsning reading data
 ```
 
-> **Remote routine（Claude Code on the web）收尾另见 `CLAUDE.md §4.7`：** 重建后**只提交** `slugs.json`
-> （dedup 依赖）+（听力时）`site/listening/listening-data.js`；**不要提交** `site/kb-data.js`、
-> `site/reading/reading-data.js` —— GitHub Action 会在 push 到 main 后自动重建并提交这两个，routine
-> 一起提交只会和 Action 抢、每次 PR merge 后必冲突。用 `node tools/build-kb-site.js`（remote 无 PowerShell）。
+> **Remote routine（Claude Code on the web）收尾另见 `CLAUDE.md §4.7`：** 重建后**只提交源文件 +**
+> `knowledge_base/_index/slugs.json`（dedup 依赖，仍 tracked）。三个生成的 viewer 数据文件
+> `site/kb-data.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js` **已加入 `.gitignore`**
+> （2026-06-23 架构改）——它们只由 GitHub Action 在发布 gh-pages 时生成、永不进 main，`git add` 会自动跳过，
+> 无需特意排除，也不会再和 Action 抢冲突。用 `node tools/build-kb-site.js`（remote 无 PowerShell）。

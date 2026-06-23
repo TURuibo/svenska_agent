@@ -6,13 +6,12 @@ on:
     paths:
       - 'knowledge_base/**'
       - 'imported/**'
+      - 'listening/**'
       - 'site/**'
       - 'tools/build-kb-site.js'
-      - 'tools/build-kb-site.ps1'
       - 'tools/build-reading-site.js'
+      - 'tools/build-listening-site.js'
       - '.github/workflows/kb-site.yml'
-  schedule:
-    - cron: '15 3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -31,25 +30,24 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Regenerate KB viewer data
-        run: node tools/build-kb-site.js
-
-      - name: Regenerate Läsning reading data
-        run: node tools/build-reading-site.js
-
-      - name: Commit refreshed viewer data if needed
+      # The viewer data files (kb-data.js, reading-data.js, listening-data.js)
+      # are .gitignore'd on main and exist ONLY here — regenerated fresh on every
+      # publish. They are never committed back to main, so routines never fight
+      # the CI over them (eliminates the old "Update KB viewer data" churn).
+      - name: Regenerate viewer data (KB + Läsning + Lyssna)
         run: |
-          if git diff --quiet -- site/kb-data.js site/reading/reading-data.js; then
-            echo "Viewer data is already up to date."
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add site/kb-data.js site/reading/reading-data.js
-            git commit -m "Update KB viewer data"
-            git push
-          fi
+          node tools/build-kb-site.js
+          node tools/build-reading-site.js
+          node tools/build-listening-site.js
 
       - name: Publish site folder to gh-pages
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Force-add the gitignored data files into an EPHEMERAL commit used only
+          # to build the gh-pages tree. This commit lives and dies on the runner —
+          # it is never pushed to main (we only push the subtree split to gh-pages).
+          git add -f site/kb-data.js site/reading/reading-data.js site/listening/listening-data.js
+          git commit -q -m "ci: ephemeral build data for gh-pages" || echo "no data changes to stage"
           sha=$(git subtree split --prefix site HEAD)
           git push origin "$sha:refs/heads/gh-pages" --force

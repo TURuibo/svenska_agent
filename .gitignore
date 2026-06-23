@@ -6,6 +6,14 @@ inbox/*
 # per-session trace artifacts (Stop hook) — machine-local, never synced
 traces/
 
+# generated viewer data — built fresh by the GitHub Action (kb-site.yml) and
+# published only to gh-pages; NEVER committed to main (see CLAUDE.md §4.7).
+# Keeping them out of git removes ~10MB/day of blob churn and all merge conflicts.
+# NOTE: knowledge_base/_index/slugs.json stays TRACKED — dedup depends on it.
+site/kb-data.js
+site/reading/reading-data.js
+site/listening/listening-data.js
+
 # editor / OS
 .DS_Store
 Thumbs.db
