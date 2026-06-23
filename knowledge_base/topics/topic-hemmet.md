@@ -84,4 +84,4 @@ created: "2026-06-09"
 ## 备注 (Notes)
 
 - 来源：[[source-2026-06-09-rumsliga-relationer]]
-- 相关主题：[[topic-mobler]]，[[topic-rumsliga-relationer]]
+- 相关主题：[[topic-mobler]]，[[topic-rumsliga-relationer]]，[[topic-boende]]
