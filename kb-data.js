@@ -1,5 +1,5 @@
 window.KB_DATA = {
-  "generatedAt": "2026-06-23 04:38:46",
+  "generatedAt": "2026-06-23 06:14:58",
   "notes": [
     {
       "slug": "grammar-adjektiv-bojning",
@@ -55,6 +55,7 @@ window.KB_DATA = {
         "komplicerad",
         "kreativ",
         "krispig",
+        "låg",
         "lärorik",
         "lätt",
         "ledsen",
@@ -88,6 +89,7 @@ window.KB_DATA = {
         "source-2026-06-18-djur",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "stressig",
         "strukturerad",
         "sur",
@@ -166,6 +168,7 @@ window.KB_DATA = {
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-19-nyheter-8sidor",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "source-2026-06-23-annons-lagenhet-uthyres",
         "stressig",
         "strukturerad",
@@ -302,6 +305,7 @@ window.KB_DATA = {
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-21-handla-i-mataffaren",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "source-2026-06-23-handla-i-mataffaren",
         "tack-så-mycket-för-hjälpen"
       ]
@@ -2760,6 +2764,7 @@ window.KB_DATA = {
         "source-2026-06-18-djur",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "stad",
         "station",
         "svan",
@@ -40138,6 +40143,110 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "source-2026-06-23-adjsubst-hem-mobler",
+      "type": "source",
+      "title": "来源：Adjektiv + substantiv böjning (Hem & Möbler 家居家具) 2026-06-23",
+      "path": "knowledge_base/sources/source-2026-06-23-adjsubst-hem-mobler.md",
+      "body": "# 来源：Adjektiv + substantiv böjning (Hem & Möbler 家居家具) 2026-06-23\n\n每日 adj+subst 四式变形练习页（`/adjsubst`，主题 = Hem & Möbler 家居家具）。25 组\n「形容词 + 名词」覆盖 obestämd/bestämd × singular/plural 全套变形。导入块只含 words 种子，\n经 `/import` 跑 swedish-dictionary 补全为完整词条。\n\n导入日期: 2026-06-23 · 可读复习表见 [[../../imported/adjsubst-2026-06-23-hem-mobler]]\n\n## 词汇 (Words — 50)\n\n### 新词 (NEW — 10)\n形容词: [[låg]]\n名词: [[gardin]], [[skåp]], [[spegel]], [[kök]], [[dörr]], [[tak]], [[byrå]], [[hall]], [[badkar]]\n\n### 已存在 (DUP — 40)\n形容词: [[stor]], [[liten]], [[ny]], [[gammal]], [[fin]], [[vacker]], [[bekväm]], [[mjuk]], [[hård]], [[tung]], [[lätt]], [[bred]], [[smal]], [[hög]], [[rund]], [[mörk]], [[ljus]], [[vit]], [[svart]], [[grå]], [[grön]], [[brun]], [[enkel]], [[modern]]\n名词: [[soffa]], [[stol]], [[bord]], [[säng]], [[lampa]], [[fönster]], [[fåtölj]], [[kudde]], [[golv]], [[matta]], [[filt]], [[hylla]], [[soffbord]], [[rum]], [[vägg]], [[bokhylla]]\n\n## 语法 (Grammar — all DUP)\n\n- [[grammar-adjektiv-bojning]] — 形容词变形\n- [[grammar-adjektiv-kongruens]] — 形容词一致 (en/ett/plural)\n- [[grammar-substantiv-plural]] — 名词复数\n- [[grammar-bestämd-form]] — 定指形式\n\n## 主题 (Topics)\n\n- [[topic-mobler]] — gardin, skåp, spegel, byrå\n- [[topic-hemmet]] — kök, dörr, tak, hall, badkar, låg",
+      "excerpt": "来源：Adjektiv + substantiv böjning (Hem & Möbler 家居家具) 2026 06 23 每日 adj+subst 四式变形练习页（ /adjsubst ，主题 = Hem & Möbler 家居家具）。25 组 「形容词 + 名词」覆盖 obestämd/bestämd × singular/plural 全套变形。导入块只含 words 种子， 经 /import 跑 swedish dicti",
+      "forms": [],
+      "links": [
+        "../../imported/adjsubst-2026-06-23-hem-mobler",
+        "badkar",
+        "bekväm",
+        "bokhylla",
+        "bord",
+        "bred",
+        "brun",
+        "byrå",
+        "dörr",
+        "enkel",
+        "fåtölj",
+        "filt",
+        "fin",
+        "fönster",
+        "gammal",
+        "gardin",
+        "golv",
+        "grå",
+        "grammar-adjektiv-bojning",
+        "grammar-adjektiv-kongruens",
+        "grammar-bestämd-form",
+        "grammar-substantiv-plural",
+        "grön",
+        "hall",
+        "hård",
+        "hög",
+        "hylla",
+        "kök",
+        "kudde",
+        "låg",
+        "lampa",
+        "lätt",
+        "liten",
+        "ljus",
+        "matta",
+        "mjuk",
+        "modern",
+        "mörk",
+        "ny",
+        "rum",
+        "rund",
+        "säng",
+        "skåp",
+        "smal",
+        "soffa",
+        "soffbord",
+        "spegel",
+        "stol",
+        "stor",
+        "svart",
+        "tak",
+        "topic-hemmet",
+        "topic-mobler",
+        "tung",
+        "vacker",
+        "vägg",
+        "vit"
+      ],
+      "searchText": "来源：Adjektiv + substantiv böjning (Hem & Möbler 家居家具) 2026-06-23 source-2026-06-23-adjsubst-hem-mobler knowledge_base/sources/source-2026-06-23-adjsubst-hem-mobler.md ---\ntype: source\nkind: import\nsource_label: \"Adjektiv+substantiv böjning (Home & Furniture) 2026-06-23\"\ndate: \"2026-06-23\"\nwords:\n  - låg\n  - gardin\n  - skåp\n  - spegel\n  - kök\n  - dörr\n  - tak\n  - byrå\n  - hall\n  - badkar\nphrases: []\nsentences: []\ngrammar:\n  - grammar-adjektiv-bojning\n  - grammar-adjektiv-kongruens\n  - grammar-substantiv-plural\n  - grammar-bestämd-form\n---\n\n# 来源：Adjektiv + substantiv böjning (Hem & Möbler 家居家具) 2026-06-23\n\n每日 adj+subst 四式变形练习页（`/adjsubst`，主题 = Hem & Möbler 家居家具）。25 组\n「形容词 + 名词」覆盖 obestämd/bestämd × singular/plural 全套变形。导入块只含 words 种子，\n经 `/import` 跑 swedish-dictionary 补全为完整词条。\n\n导入日期: 2026-06-23 · 可读复习表见 [[../../imported/adjsubst-2026-06-23-hem-mobler]]\n\n## 词汇 (Words — 50)\n\n### 新词 (NEW — 10)\n形容词: [[låg]]\n名词: [[gardin]], [[skåp]], [[spegel]], [[kök]], [[dörr]], [[tak]], [[byrå]], [[hall]], [[badkar]]\n\n### 已存在 (DUP — 40)\n形容词: [[stor]], [[liten]], [[ny]], [[gammal]], [[fin]], [[vacker]], [[bekväm]], [[mjuk]], [[hård]], [[tung]], [[lätt]], [[bred]], [[smal]], [[hög]], [[rund]], [[mörk]], [[ljus]], [[vit]], [[svart]], [[grå]], [[grön]], [[brun]], [[enkel]], [[modern]]\n名词: [[soffa]], [[stol]], [[bord]], [[säng]], [[lampa]], [[fönster]], [[fåtölj]], [[kudde]], [[golv]], [[matta]], [[filt]], [[hylla]], [[soffbord]], [[rum]], [[vägg]], [[bokhylla]]\n\n## 语法 (Grammar — all DUP)\n\n- [[grammar-adjektiv-bojning]] — 形容词变形\n- [[grammar-adjektiv-kongruens]] — 形容词一致 (en/ett/plural)\n- [[grammar-substantiv-plural]] — 名词复数\n- [[grammar-bestämd-form]] — 定指形式\n\n## 主题 (Topics)\n\n- [[topic-mobler]] — gardin, skåp, spegel, byrå\n- [[topic-hemmet]] — kök, dörr, tak, hall, badkar, låg\n",
+      "date": "2026-06-23",
+      "source_label": "Adjektiv+substantiv böjning (Home & Furniture) 2026-06-23",
+      "kind": "import",
+      "words": [
+        "låg",
+        "gardin",
+        "skåp",
+        "spegel",
+        "kök",
+        "dörr",
+        "tak",
+        "byrå",
+        "hall",
+        "badkar"
+      ],
+      "phrases": [],
+      "sentences": [],
+      "grammar": [
+        "grammar-adjektiv-bojning",
+        "grammar-adjektiv-kongruens",
+        "grammar-substantiv-plural",
+        "grammar-bestämd-form"
+      ],
+      "backlinks": [
+        "badkar",
+        "byrå",
+        "dörr",
+        "gardin",
+        "hall",
+        "kök",
+        "låg",
+        "skåp",
+        "spegel",
+        "tak"
+      ]
+    },
+    {
       "slug": "source-2026-06-23-annons-lagenhet-uthyres",
       "type": "source",
       "title": "Annons: lägenhet uthyres i Örebro",
@@ -41389,19 +41498,23 @@ window.KB_DATA = {
       "type": "topic",
       "title": "hemmet",
       "path": "knowledge_base/topics/topic-hemmet.md",
-      "body": "# 🗂️ hemmet — 家；家居\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 房间 (Rum)\n- [[rum]] — 房间\n- [[vardagsrum]] — 客厅\n\n### 建筑部件 (Byggnad)\n- [[vägg]] — 墙\n- [[golv]] — 地板\n- [[fönster]] — 窗户\n- [[hörn]] — 角落\n\n### 家具 (Möbler) → se [[topic-mobler]]\n- [[säng]] — 床\n- [[nattduksbord]] — 床头柜\n- [[skrivbord]] — 书桌\n- [[stol]] — 椅子\n- [[klädskåp]] — 衣柜\n- [[soffa]] — 沙发\n- [[fåtölj]] — 扶手椅\n- [[soffbord]] — 茶几\n- [[bokhylla]] — 书架\n- [[matta]] — 地毯\n- [[lampa]] — 台灯\n- [[hylla]] — 架子\n\n### 物品 & 装饰 (Saker & Dekoration)\n- [[tavla]] — 挂画\n- [[element]] — 暖气片\n- [[krukväxt]] — 盆栽植物\n- [[television]] — 电视机\n- [[dator]] — 电脑\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-rumsliga-relationer]]\n- 相关主题：[[topic-mobler]]，[[topic-rumsliga-relationer]]",
+      "body": "# 🗂️ hemmet — 家；家居\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 房间 (Rum)\n- [[rum]] — 房间\n- [[vardagsrum]] — 客厅\n\n### 建筑部件 (Byggnad)\n- [[vägg]] — 墙\n- [[golv]] — 地板\n- [[fönster]] — 窗户\n- [[hörn]] — 角落\n\n### 家具 (Möbler) → se [[topic-mobler]]\n- [[säng]] — 床\n- [[nattduksbord]] — 床头柜\n- [[skrivbord]] — 书桌\n- [[stol]] — 椅子\n- [[klädskåp]] — 衣柜\n- [[soffa]] — 沙发\n- [[fåtölj]] — 扶手椅\n- [[soffbord]] — 茶几\n- [[bokhylla]] — 书架\n- [[matta]] — 地毯\n- [[lampa]] — 台灯\n- [[hylla]] — 架子\n\n### 物品 & 装饰 (Saker & Dekoration)\n- [[tavla]] — 挂画\n- [[element]] — 暖气片\n- [[krukväxt]] — 盆栽植物\n- [[television]] — 电视机\n- [[dator]] — 电脑\n\n### 建筑空间 (Utrymmen)\n- [[kök]] — 厨房\n- [[hall]] — 门厅；走廊\n\n### 建筑部件（新增）\n- [[dörr]] — 门\n- [[tak]] — 天花板；屋顶\n- [[badkar]] — 浴缸\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-rumsliga-relationer]]\n- 相关主题：[[topic-mobler]]，[[topic-rumsliga-relationer]]",
       "excerpt": "🗂️ hemmet — 家；家居 类型: semantic field 成员 (Members) 房间 (Rum) rum — 房间 vardagsrum — 客厅 建筑部件 (Byggnad) vägg — 墙 golv — 地板 fönster — 窗户 hörn — 角落 家具 (Möbler) → se topic mobler säng — 床 nattduksbord — 床头柜 skrivbord — 书桌 stol —",
       "forms": [],
       "links": [
+        "badkar",
         "bokhylla",
         "dator",
+        "dörr",
         "element",
         "fåtölj",
         "fönster",
         "golv",
+        "hall",
         "hörn",
         "hylla",
         "klädskåp",
+        "kök",
         "krukväxt",
         "lampa",
         "matta",
@@ -41413,6 +41526,7 @@ window.KB_DATA = {
         "soffbord",
         "source-2026-06-09-rumsliga-relationer",
         "stol",
+        "tak",
         "tavla",
         "television",
         "topic-mobler",
@@ -41420,12 +41534,13 @@ window.KB_DATA = {
         "vägg",
         "vardagsrum"
       ],
-      "searchText": "hemmet topic-hemmet knowledge_base/topics/topic-hemmet.md ---\ntype: topic\nname: hemmet\nkind: semantic-field\nzh: 家；家居\nmembers:\n  - rum\n  - vardagsrum\n  - vägg\n  - golv\n  - fönster\n  - hörn\n  - säng\n  - nattduksbord\n  - skrivbord\n  - stol\n  - klädskåp\n  - soffa\n  - fåtölj\n  - soffbord\n  - bokhylla\n  - matta\n  - lampa\n  - hylla\n  - tavla\n  - element\n  - krukväxt\n  - television\n  - dator\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ hemmet — 家；家居\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 房间 (Rum)\n- [[rum]] — 房间\n- [[vardagsrum]] — 客厅\n\n### 建筑部件 (Byggnad)\n- [[vägg]] — 墙\n- [[golv]] — 地板\n- [[fönster]] — 窗户\n- [[hörn]] — 角落\n\n### 家具 (Möbler) → se [[topic-mobler]]\n- [[säng]] — 床\n- [[nattduksbord]] — 床头柜\n- [[skrivbord]] — 书桌\n- [[stol]] — 椅子\n- [[klädskåp]] — 衣柜\n- [[soffa]] — 沙发\n- [[fåtölj]] — 扶手椅\n- [[soffbord]] — 茶几\n- [[bokhylla]] — 书架\n- [[matta]] — 地毯\n- [[lampa]] — 台灯\n- [[hylla]] — 架子\n\n### 物品 & 装饰 (Saker & Dekoration)\n- [[tavla]] — 挂画\n- [[element]] — 暖气片\n- [[krukväxt]] — 盆栽植物\n- [[television]] — 电视机\n- [[dator]] — 电脑\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-rumsliga-relationer]]\n- 相关主题：[[topic-mobler]]，[[topic-rumsliga-relationer]]\n",
+      "searchText": "hemmet topic-hemmet knowledge_base/topics/topic-hemmet.md ---\ntype: topic\nname: hemmet\nkind: semantic-field\nzh: 家；家居\nmembers:\n  - rum\n  - vardagsrum\n  - vägg\n  - golv\n  - fönster\n  - hörn\n  - säng\n  - nattduksbord\n  - skrivbord\n  - stol\n  - klädskåp\n  - soffa\n  - fåtölj\n  - soffbord\n  - bokhylla\n  - matta\n  - lampa\n  - hylla\n  - tavla\n  - element\n  - krukväxt\n  - television\n  - dator\n  - kök\n  - dörr\n  - tak\n  - hall\n  - badkar\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ hemmet — 家；家居\n\n类型: semantic-field\n\n## 成员 (Members)\n\n### 房间 (Rum)\n- [[rum]] — 房间\n- [[vardagsrum]] — 客厅\n\n### 建筑部件 (Byggnad)\n- [[vägg]] — 墙\n- [[golv]] — 地板\n- [[fönster]] — 窗户\n- [[hörn]] — 角落\n\n### 家具 (Möbler) → se [[topic-mobler]]\n- [[säng]] — 床\n- [[nattduksbord]] — 床头柜\n- [[skrivbord]] — 书桌\n- [[stol]] — 椅子\n- [[klädskåp]] — 衣柜\n- [[soffa]] — 沙发\n- [[fåtölj]] — 扶手椅\n- [[soffbord]] — 茶几\n- [[bokhylla]] — 书架\n- [[matta]] — 地毯\n- [[lampa]] — 台灯\n- [[hylla]] — 架子\n\n### 物品 & 装饰 (Saker & Dekoration)\n- [[tavla]] — 挂画\n- [[element]] — 暖气片\n- [[krukväxt]] — 盆栽植物\n- [[television]] — 电视机\n- [[dator]] — 电脑\n\n### 建筑空间 (Utrymmen)\n- [[kök]] — 厨房\n- [[hall]] — 门厅；走廊\n\n### 建筑部件（新增）\n- [[dörr]] — 门\n- [[tak]] — 天花板；屋顶\n- [[badkar]] — 浴缸\n\n## 备注 (Notes)\n\n- 来源：[[source-2026-06-09-rumsliga-relationer]]\n- 相关主题：[[topic-mobler]]，[[topic-rumsliga-relationer]]\n",
       "name": "hemmet",
       "zh": "家；家居",
       "created": "2026-06-09",
       "kind": "semantic-field",
       "backlinks": [
+        "badkar",
         "balkong",
         "bekväm",
         "bok",
@@ -41433,8 +41548,10 @@ window.KB_DATA = {
         "bord",
         "borgensman",
         "brev",
+        "byrå",
         "dator",
         "diskmaskin",
+        "dörr",
         "element",
         "fåtölj",
         "filt",
@@ -41444,8 +41561,10 @@ window.KB_DATA = {
         "förvara",
         "foto",
         "framför",
+        "gardin",
         "glas",
         "golv",
+        "hall",
         "hänga",
         "hiss",
         "hörn",
@@ -41453,10 +41572,12 @@ window.KB_DATA = {
         "hyra",
         "hyresgäst",
         "klädskåp",
+        "kök",
         "krukväxt",
         "kudde",
         "kvm",
         "kyl",
+        "låg",
         "lampa",
         "liten",
         "matta",
@@ -41468,15 +41589,19 @@ window.KB_DATA = {
         "rum",
         "rum-och-kök",
         "säng",
+        "skåp",
         "sko",
         "skrivbord",
         "soffa",
         "soffbord",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "spegel",
         "städa",
         "stol",
         "stor",
+        "tak",
         "tavla",
         "television",
         "tidning",
@@ -41920,6 +42045,7 @@ window.KB_DATA = {
         "arm",
         "armbåge",
         "axel",
+        "badkar",
         "ben",
         "blodig",
         "böjd",
@@ -42155,6 +42281,7 @@ window.KB_DATA = {
         "jordgubbe",
         "juice",
         "kaka",
+        "kök",
         "korv",
         "kött",
         "köttbulle",
@@ -42404,35 +42531,41 @@ window.KB_DATA = {
       "type": "topic",
       "title": "möbler",
       "path": "knowledge_base/topics/topic-mobler.md",
-      "body": "# 🗂️ möbler — 家具\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[säng]] — 床\n- [[nattduksbord]] — 床头柜\n- [[skrivbord]] — 书桌\n- [[stol]] — 椅子\n- [[klädskåp]] — 衣柜\n- [[soffa]] — 沙发\n- [[fåtölj]] — 扶手椅\n- [[soffbord]] — 茶几\n- [[bokhylla]] — 书架\n- [[matta]] — 地毯\n- [[lampa]] — 台灯\n- [[hylla]] — 架子\n\n## 备注 (Notes)\n\n- 家具类词汇，来源：[[source-2026-06-09-rumsliga-relationer]]\n- 相关主题：[[topic-hemmet]]，[[topic-rumsliga-relationer]]\n- 位置动词：大多数家具用 **stå**（竖立）；地毯用 **ligga**（平铺）",
-      "excerpt": "🗂️ möbler — 家具 类型: semantic field 成员 (Members) säng — 床 nattduksbord — 床头柜 skrivbord — 书桌 stol — 椅子 klädskåp — 衣柜 soffa — 沙发 fåtölj — 扶手椅 soffbord — 茶几 bokhylla — 书架 matta — 地毯 lampa — 台灯 hylla — 架子 备注 (Notes) 家具类词汇，来源：",
+      "body": "# 🗂️ möbler — 家具\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[säng]] — 床\n- [[nattduksbord]] — 床头柜\n- [[skrivbord]] — 书桌\n- [[stol]] — 椅子\n- [[klädskåp]] — 衣柜\n- [[soffa]] — 沙发\n- [[fåtölj]] — 扶手椅\n- [[soffbord]] — 茶几\n- [[bokhylla]] — 书架\n- [[matta]] — 地毯\n- [[lampa]] — 台灯\n- [[hylla]] — 架子\n- [[gardin]] — 窗帘\n- [[skåp]] — 橱柜；柜子\n- [[spegel]] — 镜子\n- [[byrå]] — 梳妆台；抽屉柜\n\n## 备注 (Notes)\n\n- 家具类词汇，来源：[[source-2026-06-09-rumsliga-relationer]]\n- 相关主题：[[topic-hemmet]]，[[topic-rumsliga-relationer]]\n- 位置动词：大多数家具用 **stå**（竖立）；地毯用 **ligga**（平铺）",
+      "excerpt": "🗂️ möbler — 家具 类型: semantic field 成员 (Members) säng — 床 nattduksbord — 床头柜 skrivbord — 书桌 stol — 椅子 klädskåp — 衣柜 soffa — 沙发 fåtölj — 扶手椅 soffbord — 茶几 bokhylla — 书架 matta — 地毯 lampa — 台灯 hylla — 架子 gardin — 窗帘 skåp — 橱",
       "forms": [],
       "links": [
         "bokhylla",
+        "byrå",
         "fåtölj",
+        "gardin",
         "hylla",
         "klädskåp",
         "lampa",
         "matta",
         "nattduksbord",
         "säng",
+        "skåp",
         "skrivbord",
         "soffa",
         "soffbord",
         "source-2026-06-09-rumsliga-relationer",
+        "spegel",
         "stol",
         "topic-hemmet",
         "topic-rumsliga-relationer"
       ],
-      "searchText": "möbler topic-mobler knowledge_base/topics/topic-mobler.md ---\ntype: topic\nname: möbler\nkind: semantic-field\nzh: 家具\nmembers:\n  - säng\n  - nattduksbord\n  - skrivbord\n  - stol\n  - klädskåp\n  - soffa\n  - fåtölj\n  - soffbord\n  - bokhylla\n  - matta\n  - lampa\n  - hylla\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ möbler — 家具\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[säng]] — 床\n- [[nattduksbord]] — 床头柜\n- [[skrivbord]] — 书桌\n- [[stol]] — 椅子\n- [[klädskåp]] — 衣柜\n- [[soffa]] — 沙发\n- [[fåtölj]] — 扶手椅\n- [[soffbord]] — 茶几\n- [[bokhylla]] — 书架\n- [[matta]] — 地毯\n- [[lampa]] — 台灯\n- [[hylla]] — 架子\n\n## 备注 (Notes)\n\n- 家具类词汇，来源：[[source-2026-06-09-rumsliga-relationer]]\n- 相关主题：[[topic-hemmet]]，[[topic-rumsliga-relationer]]\n- 位置动词：大多数家具用 **stå**（竖立）；地毯用 **ligga**（平铺）\n",
+      "searchText": "möbler topic-mobler knowledge_base/topics/topic-mobler.md ---\ntype: topic\nname: möbler\nkind: semantic-field\nzh: 家具\nmembers:\n  - säng\n  - nattduksbord\n  - skrivbord\n  - stol\n  - klädskåp\n  - soffa\n  - fåtölj\n  - soffbord\n  - bokhylla\n  - matta\n  - lampa\n  - hylla\n  - gardin\n  - skåp\n  - spegel\n  - byrå\ncreated: \"2026-06-09\"\n---\n\n# 🗂️ möbler — 家具\n\n类型: semantic-field\n\n## 成员 (Members)\n\n- [[säng]] — 床\n- [[nattduksbord]] — 床头柜\n- [[skrivbord]] — 书桌\n- [[stol]] — 椅子\n- [[klädskåp]] — 衣柜\n- [[soffa]] — 沙发\n- [[fåtölj]] — 扶手椅\n- [[soffbord]] — 茶几\n- [[bokhylla]] — 书架\n- [[matta]] — 地毯\n- [[lampa]] — 台灯\n- [[hylla]] — 架子\n- [[gardin]] — 窗帘\n- [[skåp]] — 橱柜；柜子\n- [[spegel]] — 镜子\n- [[byrå]] — 梳妆台；抽屉柜\n\n## 备注 (Notes)\n\n- 家具类词汇，来源：[[source-2026-06-09-rumsliga-relationer]]\n- 相关主题：[[topic-hemmet]]，[[topic-rumsliga-relationer]]\n- 位置动词：大多数家具用 **stå**（竖立）；地毯用 **ligga**（平铺）\n",
       "name": "möbler",
       "zh": "家具",
       "created": "2026-06-09",
       "kind": "semantic-field",
       "backlinks": [
         "bokhylla",
+        "byrå",
         "fåtölj",
         "filt",
+        "gardin",
         "hylla",
         "klädskåp",
         "kudde",
@@ -42441,10 +42574,13 @@ window.KB_DATA = {
         "möbel",
         "nattduksbord",
         "säng",
+        "skåp",
         "skrivbord",
         "soffa",
         "soffbord",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "spegel",
         "stol",
         "tavla",
         "topic-hemmet",
@@ -45797,6 +45933,7 @@ window.KB_DATA = {
       "topics": [],
       "backlinks": [
         "badbyxor",
+        "badkar",
         "index",
         "topic-fritid-och-resor"
       ]
@@ -45833,6 +45970,42 @@ window.KB_DATA = {
       "backlinks": [
         "grammar-sammansatt-ord",
         "topic-fritid-och-resor"
+      ]
+    },
+    {
+      "slug": "badkar",
+      "type": "word",
+      "title": "badkar",
+      "path": "knowledge_base/words/badkar.md",
+      "body": "# badkar — substantiv (ett)\n\n📖 中文：浴缸 · English: bathtub\n发音提示：/ˈbɑːdkɑːr/；复合词，重音在 BAD。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett badkar |\n| Singular bestämd | badkaret |\n| Plural obestämd | badkar |\n| Plural bestämd | badkaren |\n\n## 词组搭配 (Collocations)\n\n- `ett modernt badkar` — 一个现代浴缸\n- `ligga i badkaret` — 泡在浴缸里\n- `fylla badkaret` — 放好浴缸里的水\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bada]] (洗澡), badrum (浴室)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]], [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：bad (洗澡) + kar (桶/盆) → badkar。\n- ett-ord，零复数：ett badkar → badkaret → badkar → badkaren。\n- 泡澡：`ligga i badkaret`（用 i，因为身体在浴缸内）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]",
+      "excerpt": "badkar — substantiv (ett) 📖 中文：浴缸 · English: bathtub 发音提示：/ˈbɑːdkɑːr/；复合词，重音在 BAD。 语法变形 (Forms) Form Swedish Singular obestämd ett badkar Singular bestämd badkaret Plural obestämd badkar Plural bestämd badkaren 词组搭配 (Co",
+      "forms": [
+        "badkar",
+        "badkaret",
+        "badkaren"
+      ],
+      "links": [
+        "bada",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet",
+        "topic-kropp"
+      ],
+      "searchText": "badkar badkar knowledge_base/words/badkar.md ---\ntype: word\nlemma: \"badkar\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"浴缸\"\nen: \"bathtub\"\nsynonyms: []\nantonyms: []\nfamily: [\"bada\", \"badrum\"]\ntopics: [\"topic-hemmet\", \"topic-kropp\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# badkar — substantiv (ett)\n\n📖 中文：浴缸 · English: bathtub\n发音提示：/ˈbɑːdkɑːr/；复合词，重音在 BAD。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett badkar |\n| Singular bestämd | badkaret |\n| Plural obestämd | badkar |\n| Plural bestämd | badkaren |\n\n## 词组搭配 (Collocations)\n\n- `ett modernt badkar` — 一个现代浴缸\n- `ligga i badkaret` — 泡在浴缸里\n- `fylla badkaret` — 放好浴缸里的水\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bada]] (洗澡), badrum (浴室)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]], [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：bad (洗澡) + kar (桶/盆) → badkar。\n- ett-ord，零复数：ett badkar → badkaret → badkar → badkaren。\n- 泡澡：`ligga i badkaret`（用 i，因为身体在浴缸内）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n",
+      "lemma": "badkar",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "浴缸",
+      "en": "bathtub",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-hemmet",
+        "topic-kropp"
+      ],
+      "backlinks": [
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet"
       ]
     },
     {
@@ -46428,7 +46601,8 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "obekväm",
-        "source-2026-06-19-adjsubst-blandat"
+        "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-23-adjsubst-hem-mobler"
       ]
     },
     {
@@ -47979,6 +48153,7 @@ window.KB_DATA = {
         "sent-i-bokhyllan-star-manga-bocker-foto-sitter",
         "sent-till-hoger-om-soffan-star-bokhylla",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-hemmet",
         "topic-mobler"
       ]
@@ -48104,6 +48279,7 @@ window.KB_DATA = {
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-15-restaurang-middag",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "stol",
         "topic-mat-dryck"
       ]
@@ -48335,6 +48511,7 @@ window.KB_DATA = {
         "gata",
         "source-2026-06-15-stad-trafik",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-klader",
         "topic-stadsmiljo",
         "topic-trafik",
@@ -48754,6 +48931,7 @@ window.KB_DATA = {
       "backlinks": [
         "source-2026-06-08-djur",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-djur",
         "topic-klader"
       ]
@@ -49182,6 +49360,43 @@ window.KB_DATA = {
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-09-beskriva-en-gata",
         "topic-stadsmiljo"
+      ]
+    },
+    {
+      "slug": "byrå",
+      "type": "word",
+      "title": "byrå",
+      "path": "knowledge_base/words/byrå.md",
+      "body": "# byrå — substantiv (en)\n\n📖 中文：梳妆台；抽屉柜 · English: chest of drawers; dresser; bureau\n发音提示：/byˈroː/；重音在第二音节，长 o 音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byrå |\n| Singular bestämd | byrån |\n| Plural obestämd | byråer |\n| Plural bestämd | byråerna |\n\n⚠️ 结尾为重读元音 -å：定式单数 + -n（byrå-n）；复数 + -er（byrå-er）。\n\n## 词组搭配 (Collocations)\n\n- `i byrålådan` — 在抽屉里\n- `en grön byrå` — 一个绿色的抽屉柜\n- `polisbyrå` — 警察局（另一含义，字面\"局/办公室\"）\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: byrålåda (抽屉)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- byrå 有两个含义：① 家具\"抽屉柜\"；② 机构\"局/办公室\"（如 polisbyrå 警察局）。根据上下文区分。\n- 复数 byråer（-er 结尾，不是 -or 或 -ar）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]",
+      "excerpt": "byrå — substantiv (en) 📖 中文：梳妆台；抽屉柜 · English: chest of drawers; dresser; bureau 发音提示：/byˈroː/；重音在第二音节，长 o 音。 语法变形 (Forms) Form Swedish Singular obestämd en byrå Singular bestämd byrån Plural obestämd byråer Plural best",
+      "forms": [
+        "byrå",
+        "byrån",
+        "byråer",
+        "byråerna"
+      ],
+      "links": [
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet",
+        "topic-mobler"
+      ],
+      "searchText": "byrå byrå knowledge_base/words/byrå.md ---\ntype: word\nlemma: \"byrå\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"B1\"\nzh: \"梳妆台；抽屉柜\"\nen: \"chest of drawers; dresser; bureau\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-mobler\", \"topic-hemmet\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# byrå — substantiv (en)\n\n📖 中文：梳妆台；抽屉柜 · English: chest of drawers; dresser; bureau\n发音提示：/byˈroː/；重音在第二音节，长 o 音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byrå |\n| Singular bestämd | byrån |\n| Plural obestämd | byråer |\n| Plural bestämd | byråerna |\n\n⚠️ 结尾为重读元音 -å：定式单数 + -n（byrå-n）；复数 + -er（byrå-er）。\n\n## 词组搭配 (Collocations)\n\n- `i byrålådan` — 在抽屉里\n- `en grön byrå` — 一个绿色的抽屉柜\n- `polisbyrå` — 警察局（另一含义，字面\"局/办公室\"）\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: byrålåda (抽屉)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- byrå 有两个含义：① 家具\"抽屉柜\"；② 机构\"局/办公室\"（如 polisbyrå 警察局）。根据上下文区分。\n- 复数 byråer（-er 结尾，不是 -or 或 -ar）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n",
+      "lemma": "byrå",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "梳妆台；抽屉柜",
+      "en": "chest of drawers; dresser; bureau",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-mobler",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "source-2026-06-02-valj-ratt-form",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-mobler"
       ]
     },
     {
@@ -50170,6 +50385,41 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "dörr",
+      "type": "word",
+      "title": "dörr",
+      "path": "knowledge_base/words/dörr.md",
+      "body": "# dörr — substantiv (en)\n\n📖 中文：门 · English: door\n发音提示：/dœr/；单音节，双写 rr。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en dörr |\n| Singular bestämd | dörren |\n| Plural obestämd | dörrar |\n| Plural bestämd | dörrarna |\n\n## 词组搭配 (Collocations)\n\n- `öppna dörren` — 打开门\n- `stänga dörren` — 关门\n- `en svart dörr` — 一扇黑门\n- `ytterdörr` — 大门（外门）\n- `innerdörr` — 内门\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: dörrhandtag (门把手), ytterdörr (外门), innerdörr (内门)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 注意 dörren（定式）vs dörren（同一形式），复数 dörrar（加 -ar）。\n- 竖立物体 → 用 **stå**（dörren **står** öppen）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]",
+      "excerpt": "dörr — substantiv (en) 📖 中文：门 · English: door 发音提示：/dœr/；单音节，双写 rr。 语法变形 (Forms) Form Swedish Singular obestämd en dörr Singular bestämd dörren Plural obestämd dörrar Plural bestämd dörrarna 词组搭配 (Collocations) öppna dö",
+      "forms": [
+        "dörr",
+        "dörren",
+        "dörrar",
+        "dörrarna"
+      ],
+      "links": [
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet"
+      ],
+      "searchText": "dörr dörr knowledge_base/words/dörr.md ---\ntype: word\nlemma: \"dörr\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A1\"\nzh: \"门\"\nen: \"door\"\nsynonyms: []\nantonyms: []\nfamily: [\"dörrhandtag\", \"ytterdörr\", \"innerdörr\"]\ntopics: [\"topic-hemmet\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# dörr — substantiv (en)\n\n📖 中文：门 · English: door\n发音提示：/dœr/；单音节，双写 rr。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en dörr |\n| Singular bestämd | dörren |\n| Plural obestämd | dörrar |\n| Plural bestämd | dörrarna |\n\n## 词组搭配 (Collocations)\n\n- `öppna dörren` — 打开门\n- `stänga dörren` — 关门\n- `en svart dörr` — 一扇黑门\n- `ytterdörr` — 大门（外门）\n- `innerdörr` — 内门\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: dörrhandtag (门把手), ytterdörr (外门), innerdörr (内门)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 注意 dörren（定式）vs dörren（同一形式），复数 dörrar（加 -ar）。\n- 竖立物体 → 用 **stå**（dörren **står** öppen）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n",
+      "lemma": "dörr",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "门",
+      "en": "door",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "fönster",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet"
+      ]
+    },
+    {
       "slug": "dotter",
       "type": "word",
       "title": "dotter",
@@ -51008,6 +51258,7 @@ window.KB_DATA = {
         "komplicerad",
         "sent-min-vardag-ar-ganska-enkel-men-jag",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "svår",
         "topic-klader"
       ]
@@ -51761,6 +52012,7 @@ window.KB_DATA = {
         "sent-i-vardagsrummet-finns-soffa-fatoljerna",
         "soffa",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "stol",
         "topic-hemmet",
         "topic-mobler"
@@ -51999,7 +52251,8 @@ window.KB_DATA = {
       "backlinks": [
         "kudde",
         "sent-pa-sangen-ligger-en-kudde-och-en-filt",
-        "source-2026-06-09-rumsliga-relationer"
+        "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler"
       ]
     },
     {
@@ -52036,6 +52289,7 @@ window.KB_DATA = {
       "backlinks": [
         "sent-nasta-helg-hoppas-jag-att-vadret",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-klader",
         "vacker"
       ]
@@ -52802,6 +53056,7 @@ window.KB_DATA = {
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-hemmet"
       ]
     },
@@ -54446,6 +54701,7 @@ window.KB_DATA = {
         "source-2026-06-08-djur",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-djur",
         "topic-personer",
         "ung"
@@ -54552,6 +54808,42 @@ window.KB_DATA = {
         "placering",
         "source-2026-06-03-sundbyberg-forskola",
         "topic-förskola-system"
+      ]
+    },
+    {
+      "slug": "gardin",
+      "type": "word",
+      "title": "gardin",
+      "path": "knowledge_base/words/gardin.md",
+      "body": "# gardin — substantiv (en)\n\n📖 中文：窗帘 · English: curtain\n发音提示：/ɡarˈdiːn/；重音在第二音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en gardin |\n| Singular bestämd | gardinen |\n| Plural obestämd | gardiner |\n| Plural bestämd | gardinerna |\n\n## 词组搭配 (Collocations)\n\n- `dra igen gardinerna` — 拉上窗帘\n- `tunna gardiner` — 薄窗帘\n- `en smal gardin` — 一条窄窗帘\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 来自法语 *gardine*，复数加 -er（gardin-er）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]",
+      "excerpt": "gardin — substantiv (en) 📖 中文：窗帘 · English: curtain 发音提示：/ɡarˈdiːn/；重音在第二音节。 语法变形 (Forms) Form Swedish Singular obestämd en gardin Singular bestämd gardinen Plural obestämd gardiner Plural bestämd gardinerna 词组搭配 (Collo",
+      "forms": [
+        "gardin",
+        "gardinen",
+        "gardiner",
+        "gardinerna"
+      ],
+      "links": [
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet",
+        "topic-mobler"
+      ],
+      "searchText": "gardin gardin knowledge_base/words/gardin.md ---\ntype: word\nlemma: \"gardin\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"窗帘\"\nen: \"curtain\"\nsynonyms: []\nantonyms: []\nfamily: []\ntopics: [\"topic-mobler\", \"topic-hemmet\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# gardin — substantiv (en)\n\n📖 中文：窗帘 · English: curtain\n发音提示：/ɡarˈdiːn/；重音在第二音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en gardin |\n| Singular bestämd | gardinen |\n| Plural obestämd | gardiner |\n| Plural bestämd | gardinerna |\n\n## 词组搭配 (Collocations)\n\n- `dra igen gardinerna` — 拉上窗帘\n- `tunna gardiner` — 薄窗帘\n- `en smal gardin` — 一条窄窗帘\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 来自法语 *gardine*，复数加 -er（gardin-er）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n",
+      "lemma": "gardin",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "窗帘",
+      "en": "curtain",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-mobler",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-mobler"
       ]
     },
     {
@@ -55271,6 +55563,8 @@ window.KB_DATA = {
         "sent-pa-golvet-mellan-sangen-skriv-stor-matta",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "tak",
         "topic-hemmet"
       ]
     },
@@ -55312,6 +55606,7 @@ window.KB_DATA = {
         "source-2026-06-03-fraga-vagen-pub",
         "source-2026-06-08-djur",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-djur",
         "topic-klader"
       ]
@@ -55882,6 +56177,7 @@ window.KB_DATA = {
         "source-2026-06-15-stad-trafik",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-klader",
         "topic-stadsmiljo"
       ]
@@ -56250,6 +56546,40 @@ window.KB_DATA = {
         "kind",
         "panna",
         "topic-kropp"
+      ]
+    },
+    {
+      "slug": "hall",
+      "type": "word",
+      "title": "hall",
+      "path": "knowledge_base/words/hall.md",
+      "body": "# hall — substantiv (en)\n\n📖 中文：门厅；走廊 · English: hallway; entrance hall\n发音提示：/hal/；短 a 音，双写 ll。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en hall |\n| Singular bestämd | hallen |\n| Plural obestämd | hallar |\n| Plural bestämd | hallarna |\n\n## 词组搭配 (Collocations)\n\n- `i hallen` — 在门厅里\n- `en bred hall` — 宽敞的门厅\n- `hänga jackan i hallen` — 把夹克挂在门厅\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: entré (入口/门厅，更正式)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典公寓里，hall 通常是进门后的小空间，用来挂外套、放鞋子。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]",
+      "excerpt": "hall — substantiv (en) 📖 中文：门厅；走廊 · English: hallway; entrance hall 发音提示：/hal/；短 a 音，双写 ll。 语法变形 (Forms) Form Swedish Singular obestämd en hall Singular bestämd hallen Plural obestämd hallar Plural bestämd hallarna 词组搭配",
+      "forms": [
+        "hall",
+        "hallen",
+        "hallar",
+        "hallarna"
+      ],
+      "links": [
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet"
+      ],
+      "searchText": "hall hall knowledge_base/words/hall.md ---\ntype: word\nlemma: \"hall\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"门厅；走廊\"\nen: \"hallway; entrance hall\"\nsynonyms: []\nantonyms: []\nfamily: [\"entré\"]\ntopics: [\"topic-hemmet\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hall — substantiv (en)\n\n📖 中文：门厅；走廊 · English: hallway; entrance hall\n发音提示：/hal/；短 a 音，双写 ll。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en hall |\n| Singular bestämd | hallen |\n| Plural obestämd | hallar |\n| Plural bestämd | hallarna |\n\n## 词组搭配 (Collocations)\n\n- `i hallen` — 在门厅里\n- `en bred hall` — 宽敞的门厅\n- `hänga jackan i hallen` — 把夹克挂在门厅\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: entré (入口/门厅，更正式)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典公寓里，hall 通常是进门后的小空间，用来挂外套、放鞋子。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n",
+      "lemma": "hall",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "门厅；走廊",
+      "en": "hallway; entrance hall",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet"
       ]
     },
     {
@@ -56764,6 +57094,7 @@ window.KB_DATA = {
         "mjuk",
         "ost",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-mat-dryck"
       ]
     },
@@ -57611,7 +57942,7 @@ window.KB_DATA = {
       "type": "word",
       "title": "hög",
       "path": "knowledge_base/words/hög.md",
-      "body": "# hög — adjektiv\n\n📖 中文：高的；高大的 · English: high, tall\n发音提示：/høːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | hög | högt | höga |\n| **Komparativ** | högre | högre | högre |\n| **Superlativ** | högst / högsta | högst / högsta | högsta |\n\n## 词组搭配 (Collocations)\n\n- `höga hus` — 高楼大厦 → see [[hus]]\n- `högt hus` — 高楼（ett-ord）\n- `hög bro` — 高桥 → see [[bro]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höjd (高度), höja (升高)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 描述建筑、桥梁等城市元素的高度时常用。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "body": "# hög — adjektiv\n\n📖 中文：高的；高大的 · English: high, tall\n发音提示：/høːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | hög | högt | höga |\n| **Komparativ** | högre | högre | högre |\n| **Superlativ** | högst / högsta | högst / högsta | högsta |\n\n## 词组搭配 (Collocations)\n\n- `höga hus` — 高楼大厦 → see [[hus]]\n- `högt hus` — 高楼（ett-ord）\n- `hög bro` — 高桥 → see [[bro]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höjd (高度), höja (升高)\n- 同义词: —\n- 反义词: [[låg]]\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 描述建筑、桥梁等城市元素的高度时常用。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
       "excerpt": "hög — adjektiv 📖 中文：高的；高大的 · English: high, tall 发音提示：/høːɡ/ 语法变形 (Forms) en ord ett ord plural Positiv hög högt höga Komparativ högre högre högre Superlativ högst / högsta högst / högsta högsta 词组搭配 (Collocations) höga",
       "forms": [
         "hög",
@@ -57625,10 +57956,11 @@ window.KB_DATA = {
         "bro",
         "grammar-adjektiv-bojning",
         "hus",
+        "låg",
         "source-2026-06-15-stad-trafik",
         "topic-stadsmiljo"
       ],
-      "searchText": "hög hög knowledge_base/words/hög.md ---\ntype: word\nlemma: \"hög\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A1\nzh: 高的；高大的\nen: high, tall\nsynonyms: []\nantonyms: []\nfamily: [\"höjd\", \"höja\"]\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hög — adjektiv\n\n📖 中文：高的；高大的 · English: high, tall\n发音提示：/høːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | hög | högt | höga |\n| **Komparativ** | högre | högre | högre |\n| **Superlativ** | högst / högsta | högst / högsta | högsta |\n\n## 词组搭配 (Collocations)\n\n- `höga hus` — 高楼大厦 → see [[hus]]\n- `högt hus` — 高楼（ett-ord）\n- `hög bro` — 高桥 → see [[bro]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höjd (高度), höja (升高)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 描述建筑、桥梁等城市元素的高度时常用。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "searchText": "hög hög knowledge_base/words/hög.md ---\ntype: word\nlemma: \"hög\"\nordklass: adjektiv\ngenus: \"\"\ncefr: A1\nzh: 高的；高大的\nen: high, tall\nsynonyms: []\nantonyms: [låg]\nfamily: [\"höjd\", \"höja\"]\ntopics: [\"topic-stadsmiljo\"]\nsentences: []\nknown: false\ncreated: \"2026-06-15\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# hög — adjektiv\n\n📖 中文：高的；高大的 · English: high, tall\n发音提示：/høːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | hög | högt | höga |\n| **Komparativ** | högre | högre | högre |\n| **Superlativ** | högst / högsta | högst / högsta | högsta |\n\n## 词组搭配 (Collocations)\n\n- `höga hus` — 高楼大厦 → see [[hus]]\n- `högt hus` — 高楼（ett-ord）\n- `hög bro` — 高桥 → see [[bro]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höjd (高度), höja (升高)\n- 同义词: —\n- 反义词: [[låg]]\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 描述建筑、桥梁等城市元素的高度时常用。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
       "lemma": "hög",
       "ordklass": "adjektiv",
       "cefr": "A1",
@@ -57643,7 +57975,9 @@ window.KB_DATA = {
       "backlinks": [
         "bro",
         "hus",
+        "låg",
         "source-2026-06-15-stad-trafik",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-stadsmiljo"
       ]
     },
@@ -58182,6 +58516,7 @@ window.KB_DATA = {
         "sent-ja-den-star-pa-samma-hylla-langst-ner",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-21-handla-i-mataffaren",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-hemmet",
         "topic-mataffär",
         "topic-mobler"
@@ -60161,6 +60496,7 @@ window.KB_DATA = {
       ],
       "backlinks": [
         "sent-i-hornet-till-vanster-om-dorren-star-kladskap",
+        "skåp",
         "source-2026-06-09-rumsliga-relationer",
         "topic-hemmet",
         "topic-mobler"
@@ -60833,6 +61169,43 @@ window.KB_DATA = {
         "source-2026-06-04-nyheter-vecka-22",
         "topic-hälsa",
         "topic-nyheter-vecka22"
+      ]
+    },
+    {
+      "slug": "kök",
+      "type": "word",
+      "title": "kök",
+      "path": "knowledge_base/words/kök.md",
+      "body": "# kök — substantiv (ett)\n\n📖 中文：厨房 · English: kitchen\n发音提示：/ɕøːk/；ch 音（软 k）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett kök |\n| Singular bestämd | köket |\n| Plural obestämd | kök |\n| Plural bestämd | köken |\n\n## 词组搭配 (Collocations)\n\n- `ett ljust kök` — 明亮的厨房\n- `rum och kök` — 一居室（带厨房的房间）\n- `nyrenoverat kök` — 新翻修的厨房\n- `laga mat i köket` — 在厨房做饭\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: matlagning (烹饪), köksskåp (橱柜)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]], [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，零复数：ett kök → köket → kök → köken。\n- \"rum och kök\" 是瑞典租房广告中的固定表达，意为\"一室一厅（含厨房）\"。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]",
+      "excerpt": "kök — substantiv (ett) 📖 中文：厨房 · English: kitchen 发音提示：/ɕøːk/；ch 音（软 k）。 语法变形 (Forms) Form Swedish Singular obestämd ett kök Singular bestämd köket Plural obestämd kök Plural bestämd köken 词组搭配 (Collocations) ett ljust ",
+      "forms": [
+        "kök",
+        "köket",
+        "köken"
+      ],
+      "links": [
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet",
+        "topic-mat-dryck"
+      ],
+      "searchText": "kök kök knowledge_base/words/kök.md ---\ntype: word\nlemma: \"kök\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A1\"\nzh: \"厨房\"\nen: \"kitchen\"\nsynonyms: []\nantonyms: []\nfamily: [\"matlagning\", \"köksskåp\"]\ntopics: [\"topic-hemmet\", \"topic-mat-dryck\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# kök — substantiv (ett)\n\n📖 中文：厨房 · English: kitchen\n发音提示：/ɕøːk/；ch 音（软 k）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett kök |\n| Singular bestämd | köket |\n| Plural obestämd | kök |\n| Plural bestämd | köken |\n\n## 词组搭配 (Collocations)\n\n- `ett ljust kök` — 明亮的厨房\n- `rum och kök` — 一居室（带厨房的房间）\n- `nyrenoverat kök` — 新翻修的厨房\n- `laga mat i köket` — 在厨房做饭\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: matlagning (烹饪), köksskåp (橱柜)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]], [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，零复数：ett kök → köket → kök → köken。\n- \"rum och kök\" 是瑞典租房广告中的固定表达，意为\"一室一厅（含厨房）\"。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n",
+      "lemma": "kök",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "厨房",
+      "en": "kitchen",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-hemmet",
+        "topic-mat-dryck"
+      ],
+      "backlinks": [
+        "rum",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet",
+        "vardagsrum"
       ]
     },
     {
@@ -62174,7 +62547,8 @@ window.KB_DATA = {
         "sent-pa-sangen-ligger-en-kudde-och-en-filt",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-18-nyheter-8sidor",
-        "source-2026-06-22-en-dag-pa-midsommar"
+        "source-2026-06-22-en-dag-pa-midsommar",
+        "source-2026-06-23-adjsubst-hem-mobler"
       ]
     },
     {
@@ -62716,6 +63090,45 @@ window.KB_DATA = {
       ]
     },
     {
+      "slug": "låg",
+      "type": "word",
+      "title": "låg",
+      "path": "knowledge_base/words/låg.md",
+      "body": "# låg — adjektiv\n\n📖 中文：低的 · English: low\n发音提示：/loːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | låg | lågt | låga |\n| **Komparativ** | lägre | lägre | lägre |\n| **Superlativ** | lägst / lägsta | lägst / lägsta | lägsta |\n\n## 词组搭配 (Collocations)\n\n- `ett lågt soffbord` — 一张矮茶几\n- `ett lågt tak` — 低矮的天花板\n- `en låg stol` — 一把矮椅子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lägga (放/放置), läge (位置)\n- 同义词: —\n- 反义词: [[hög]]\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 注意不规则比较级：låg → **lägre** → **lägst**（元音变音 å → ä）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n- 语法参考：[[grammar-adjektiv-bojning]]",
+      "excerpt": "låg — adjektiv 📖 中文：低的 · English: low 发音提示：/loːɡ/ 语法变形 (Forms) en ord ett ord plural Positiv låg lågt låga Komparativ lägre lägre lägre Superlativ lägst / lägsta lägst / lägsta lägsta 词组搭配 (Collocations) ett lågt soffbo",
+      "forms": [
+        "låg",
+        "lågt",
+        "låga",
+        "lägre",
+        "lägst",
+        "lägsta"
+      ],
+      "links": [
+        "grammar-adjektiv-bojning",
+        "hög",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet"
+      ],
+      "searchText": "låg låg knowledge_base/words/låg.md ---\ntype: word\nlemma: \"låg\"\nordklass: adjektiv\nverbgrupp: \"\"\ngenus: \"\"\ncefr: \"A1\"\nzh: \"低的\"\nen: \"low\"\nsynonyms: []\nantonyms: [hög]\nfamily: [\"lägga\", \"läge\"]\ntopics: [\"topic-hemmet\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# låg — adjektiv\n\n📖 中文：低的 · English: low\n发音提示：/loːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | låg | lågt | låga |\n| **Komparativ** | lägre | lägre | lägre |\n| **Superlativ** | lägst / lägsta | lägst / lägsta | lägsta |\n\n## 词组搭配 (Collocations)\n\n- `ett lågt soffbord` — 一张矮茶几\n- `ett lågt tak` — 低矮的天花板\n- `en låg stol` — 一把矮椅子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lägga (放/放置), läge (位置)\n- 同义词: —\n- 反义词: [[hög]]\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 注意不规则比较级：låg → **lägre** → **lägst**（元音变音 å → ä）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n- 语法参考：[[grammar-adjektiv-bojning]]\n",
+      "lemma": "låg",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "低的",
+      "en": "low",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "hög",
+        "sänkning",
+        "source-2026-06-23-adjsubst-hem-mobler"
+      ]
+    },
+    {
       "slug": "laga",
       "type": "word",
       "title": "laga",
@@ -63081,6 +63494,7 @@ window.KB_DATA = {
         "sent-pa-nattduksbord-star-lampa-bok-bredvid",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-hemmet",
         "topic-mobler"
       ]
@@ -63699,6 +64113,7 @@ window.KB_DATA = {
         "topic-djur"
       ],
       "backlinks": [
+        "source-2026-06-23-adjsubst-hem-mobler",
         "svår",
         "topic-djur"
       ]
@@ -64462,6 +64877,7 @@ window.KB_DATA = {
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "stor",
         "topic-djur",
         "topic-personer"
@@ -64625,6 +65041,7 @@ window.KB_DATA = {
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
         "source-2026-06-22-en-dag-pa-midsommar",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-klader",
         "trafikljus"
       ]
@@ -65630,6 +66047,7 @@ window.KB_DATA = {
         "sent-pa-golvet-mellan-sangen-skriv-stor-matta",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-hemmet",
         "topic-mobler"
       ]
@@ -66507,6 +66925,7 @@ window.KB_DATA = {
         "hård",
         "krispig",
         "len",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-mat-dryck"
       ]
     },
@@ -66579,6 +66998,7 @@ window.KB_DATA = {
         "topic-personer"
       ],
       "backlinks": [
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-personer"
       ]
     },
@@ -66901,6 +67321,7 @@ window.KB_DATA = {
         "sent-man-plockar-svamp-och-njuter",
         "sent-pa-vintern-ar-det-morkt-och-kallt",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-klader"
       ]
     },
@@ -68019,7 +68440,8 @@ window.KB_DATA = {
         "sent-jag-värmer-en-ny-åt-dig-direkt",
         "sent-min-soppa-är-tyvärr-kall-kan-jag-få-en-ny",
         "source-2026-06-19-adjsubst-blandat",
-        "source-2026-06-22-adjsubst-klader"
+        "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler"
       ]
     },
     {
@@ -72649,6 +73071,7 @@ window.KB_DATA = {
         "sent-soffan-star-mitt-i-rummet-framfor-soffbord",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-hemmet",
         "vardagsrum"
       ]
@@ -72692,7 +73115,8 @@ window.KB_DATA = {
         "fyrkantig",
         "sent-pa-golvet-framfor-soffan-rund-matta",
         "source-2026-06-09-rumsliga-relationer",
-        "source-2026-06-19-adjsubst-blandat"
+        "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-23-adjsubst-hem-mobler"
       ]
     },
     {
@@ -73271,6 +73695,7 @@ window.KB_DATA = {
         "sent-sangens-star-langs-vaggen-under-sangen",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-hemmet",
         "topic-mobler"
       ]
@@ -74315,6 +74740,43 @@ window.KB_DATA = {
         "skåla-med-snaps",
         "source-2026-06-22-en-dag-pa-midsommar",
         "topic-midsommar-traditioner"
+      ]
+    },
+    {
+      "slug": "skåp",
+      "type": "word",
+      "title": "skåp",
+      "path": "knowledge_base/words/skåp.md",
+      "body": "# skåp — substantiv (ett)\n\n📖 中文：橱柜；柜子 · English: cabinet; cupboard; wardrobe\n发音提示：/skoːp/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett skåp |\n| Singular bestämd | skåpet |\n| Plural obestämd | skåp |\n| Plural bestämd | skåpen |\n\n## 词组搭配 (Collocations)\n\n- `ett högt skåp` — 一个高柜子\n- `i skåpet` — 在柜子里\n- `klädskåp` — 衣柜（复合词）\n- `köksskåp` — 厨柜\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[klädskåp]] (衣柜)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，零复数（skåp = skåp）：ett skåp → skåpet → skåp → skåpen。\n- 常作复合词前缀：köksskåp, klädskåp, badrumsskåp。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]",
+      "excerpt": "skåp — substantiv (ett) 📖 中文：橱柜；柜子 · English: cabinet; cupboard; wardrobe 发音提示：/skoːp/ 语法变形 (Forms) Form Swedish Singular obestämd ett skåp Singular bestämd skåpet Plural obestämd skåp Plural bestämd skåpen 词组搭配 (Colloc",
+      "forms": [
+        "skåp",
+        "skåpet",
+        "skåpen"
+      ],
+      "links": [
+        "klädskåp",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet",
+        "topic-mobler"
+      ],
+      "searchText": "skåp skåp knowledge_base/words/skåp.md ---\ntype: word\nlemma: \"skåp\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"橱柜；柜子\"\nen: \"cabinet; cupboard; wardrobe\"\nsynonyms: []\nantonyms: []\nfamily: [\"klädskåp\"]\ntopics: [\"topic-mobler\", \"topic-hemmet\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# skåp — substantiv (ett)\n\n📖 中文：橱柜；柜子 · English: cabinet; cupboard; wardrobe\n发音提示：/skoːp/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett skåp |\n| Singular bestämd | skåpet |\n| Plural obestämd | skåp |\n| Plural bestämd | skåpen |\n\n## 词组搭配 (Collocations)\n\n- `ett högt skåp` — 一个高柜子\n- `i skåpet` — 在柜子里\n- `klädskåp` — 衣柜（复合词）\n- `köksskåp` — 厨柜\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[klädskåp]] (衣柜)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，零复数（skåp = skåp）：ett skåp → skåpet → skåp → skåpen。\n- 常作复合词前缀：köksskåp, klädskåp, badrumsskåp。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n",
+      "lemma": "skåp",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "橱柜；柜子",
+      "en": "cabinet; cupboard; wardrobe",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-mobler",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "klädskåp",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-mobler"
       ]
     },
     {
@@ -75384,6 +75846,7 @@ window.KB_DATA = {
         "fet",
         "mager",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-djur",
         "topic-klader",
         "trång",
@@ -76020,6 +76483,7 @@ window.KB_DATA = {
         "sent-till-hoger-om-soffan-star-bokhylla",
         "soffbord",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "stol",
         "topic-hemmet",
         "topic-mobler"
@@ -76067,6 +76531,7 @@ window.KB_DATA = {
         "sent-soffan-star-mitt-i-rummet-framfor-soffbord",
         "soffa",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-hemmet",
         "topic-mobler"
       ]
@@ -76562,6 +77027,43 @@ window.KB_DATA = {
         "spår",
         "topic-kollektivtrafik",
         "topic-nyheter-vecka22"
+      ]
+    },
+    {
+      "slug": "spegel",
+      "type": "word",
+      "title": "spegel",
+      "path": "knowledge_base/words/spegel.md",
+      "body": "# spegel — substantiv (en)\n\n📖 中文：镜子 · English: mirror\n发音提示：/ˈspɛːɡɛl/；重音在第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en spegel |\n| Singular bestämd | spegeln |\n| Plural obestämd | speglar |\n| Plural bestämd | speglarna |\n\n⚠️ **Syncope**：spegel → speg**l**ar（复数时中间的 -e- 脱落：spegel → spegl-ar → spegl-arna）。\n\n## 词组搭配 (Collocations)\n\n- `titta i spegeln` — 照镜子\n- `en rund spegel` — 一面圆镜子\n- `spegeln på badrumsväggen` — 浴室墙上的镜子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: spegelbild (镜像), spegelvänd (镜像翻转的)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ Syncope（元音脱落）：spegel + ar = speg**l**ar，注意中间的 e 消失！与 fågel→fåglar、tiger→tigrar 同类。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]",
+      "excerpt": "spegel — substantiv (en) 📖 中文：镜子 · English: mirror 发音提示：/ˈspɛːɡɛl/；重音在第一音节。 语法变形 (Forms) Form Swedish Singular obestämd en spegel Singular bestämd spegeln Plural obestämd speglar Plural bestämd speglarna ⚠️ Syncope ：spe",
+      "forms": [
+        "spegel",
+        "spegeln",
+        "speglar",
+        "speglarna"
+      ],
+      "links": [
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet",
+        "topic-mobler"
+      ],
+      "searchText": "spegel spegel knowledge_base/words/spegel.md ---\ntype: word\nlemma: \"spegel\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"en\"\ncefr: \"A2\"\nzh: \"镜子\"\nen: \"mirror\"\nsynonyms: []\nantonyms: []\nfamily: [\"spegelvänd\", \"spegelbild\"]\ntopics: [\"topic-mobler\", \"topic-hemmet\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# spegel — substantiv (en)\n\n📖 中文：镜子 · English: mirror\n发音提示：/ˈspɛːɡɛl/；重音在第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en spegel |\n| Singular bestämd | spegeln |\n| Plural obestämd | speglar |\n| Plural bestämd | speglarna |\n\n⚠️ **Syncope**：spegel → speg**l**ar（复数时中间的 -e- 脱落：spegel → spegl-ar → spegl-arna）。\n\n## 词组搭配 (Collocations)\n\n- `titta i spegeln` — 照镜子\n- `en rund spegel` — 一面圆镜子\n- `spegeln på badrumsväggen` — 浴室墙上的镜子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: spegelbild (镜像), spegelvänd (镜像翻转的)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ Syncope（元音脱落）：spegel + ar = speg**l**ar，注意中间的 e 消失！与 fågel→fåglar、tiger→tigrar 同类。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n",
+      "lemma": "spegel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "镜子",
+      "en": "mirror",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-mobler",
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "source-2026-06-02-valj-ratt-form",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-mobler"
       ]
     },
     {
@@ -77317,6 +77819,7 @@ window.KB_DATA = {
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-09-rumsliga-relationer",
         "source-2026-06-19-adjsubst-blandat",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-hemmet",
         "topic-mobler"
       ]
@@ -77402,6 +77905,7 @@ window.KB_DATA = {
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-19-pa-cafe-bestalla",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-djur",
         "topic-personer"
       ]
@@ -78178,6 +78682,7 @@ window.KB_DATA = {
         "source-2026-06-08-djur",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-djur",
         "topic-klader",
         "vit"
@@ -78414,6 +78919,43 @@ window.KB_DATA = {
         "topic-kollektivtrafik",
         "topic-trafik",
         "vagn"
+      ]
+    },
+    {
+      "slug": "tak",
+      "type": "word",
+      "title": "tak",
+      "path": "knowledge_base/words/tak.md",
+      "body": "# tak — substantiv (ett)\n\n📖 中文：天花板；屋顶 · English: ceiling; roof\n发音提示：/tɑːk/；长 a 音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett tak |\n| Singular bestämd | taket |\n| Plural obestämd | tak |\n| Plural bestämd | taken |\n\n## 词组搭配 (Collocations)\n\n- `ett grått tak` — 灰色天花板/屋顶\n- `under taket` — 在天花板下\n- `högt i tak` — 天花板高（字面）；也比喻\"思想开放\"\n- `ett lågt tak` — 低矮的天花板\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: takläggning (屋顶铺设), taklucka (天窗)\n- 同义词: —\n- 反义词: [[golv]] (地板)\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，零复数：ett tak → taket → tak → taken。\n- **室内**：tak = 天花板；**室外**：tak = 屋顶。语境决定。\n- 惯用语：`högt i tak` 既描述高天花板，也形容宽容、包容的氛围。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]",
+      "excerpt": "tak — substantiv (ett) 📖 中文：天花板；屋顶 · English: ceiling; roof 发音提示：/tɑːk/；长 a 音。 语法变形 (Forms) Form Swedish Singular obestämd ett tak Singular bestämd taket Plural obestämd tak Plural bestämd taken 词组搭配 (Collocations) ett ",
+      "forms": [
+        "tak",
+        "taket",
+        "taken"
+      ],
+      "links": [
+        "golv",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet"
+      ],
+      "searchText": "tak tak knowledge_base/words/tak.md ---\ntype: word\nlemma: \"tak\"\nordklass: substantiv\nverbgrupp: \"\"\ngenus: \"ett\"\ncefr: \"A2\"\nzh: \"天花板；屋顶\"\nen: \"ceiling; roof\"\nsynonyms: []\nantonyms: [golv]\nfamily: [\"takläggning\", \"taklucka\"]\ntopics: [\"topic-hemmet\"]\nsentences: []\nknown: false\ncreated: \"2026-06-23\"\nreviewed: \"\"\nreview_count: 0\nease: 2.5\ninterval: 0\n---\n\n# tak — substantiv (ett)\n\n📖 中文：天花板；屋顶 · English: ceiling; roof\n发音提示：/tɑːk/；长 a 音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett tak |\n| Singular bestämd | taket |\n| Plural obestämd | tak |\n| Plural bestämd | taken |\n\n## 词组搭配 (Collocations)\n\n- `ett grått tak` — 灰色天花板/屋顶\n- `under taket` — 在天花板下\n- `högt i tak` — 天花板高（字面）；也比喻\"思想开放\"\n- `ett lågt tak` — 低矮的天花板\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: takläggning (屋顶铺设), taklucka (天窗)\n- 同义词: —\n- 反义词: [[golv]] (地板)\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，零复数：ett tak → taket → tak → taken。\n- **室内**：tak = 天花板；**室外**：tak = 屋顶。语境决定。\n- 惯用语：`högt i tak` 既描述高天花板，也形容宽容、包容的氛围。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n",
+      "lemma": "tak",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "天花板；屋顶",
+      "en": "ceiling; roof",
+      "created": "2026-06-23",
+      "known": false,
+      "sentences": [],
+      "topics": [
+        "topic-hemmet"
+      ],
+      "backlinks": [
+        "golv",
+        "gräns",
+        "source-2026-06-02-valj-ratt-form",
+        "source-2026-06-23-adjsubst-hem-mobler",
+        "topic-hemmet"
       ]
     },
     {
@@ -80085,6 +80627,7 @@ window.KB_DATA = {
         "lastbil",
         "lätt",
         "source-2026-06-15-stad-trafik",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-trafik"
       ]
     },
@@ -81377,6 +81920,7 @@ window.KB_DATA = {
         "source-2026-06-08-djur",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-djur"
       ]
     },
@@ -81593,6 +82137,7 @@ window.KB_DATA = {
         "sent-television-hanger-pa-vaggen-mitt-emot-soffan",
         "source-2026-06-02-valj-ratt-form",
         "source-2026-06-09-rumsliga-relationer",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "topic-hemmet",
         "vid-väggen"
       ]
@@ -83441,6 +83986,7 @@ window.KB_DATA = {
         "source-2026-06-08-djur",
         "source-2026-06-19-adjsubst-blandat",
         "source-2026-06-22-adjsubst-klader",
+        "source-2026-06-23-adjsubst-hem-mobler",
         "svart",
         "topic-djur",
         "topic-klader"

@@ -1,5 +1,5 @@
 window.READING_DATA = {
-  "generatedAt": "2026-06-23 04:38:47",
+  "generatedAt": "2026-06-23 06:14:58",
   "articles": [
     {
       "slug": "scenario-2026-06-23-annons-lagenhet-uthyres",
@@ -196,6 +196,34 @@ window.READING_DATA = {
       "itemTotal": 37,
       "body": "# 🇸🇪 Tetra Pak – en svensk uppfinning (发明/创新 / uppfinning)\n\n**Typ (type):** uppfinning\n**Källa (source):** lättläst 改写 (baserat på Wikipedia & tetrapak.com)\n**CEFR-uppskattning:** A2–B1\n**Genereringsdatum:** 2026-06-23\n\n---\n\n## 瑞典语原文 (Källtext)\n\nTetra Pak är ett av Sveriges mest kända företag i hela världen. Det började med en enkel idé: att förpacka mjölk på ett bättre sätt.\n\nRuben Rausing föddes 1895 i Sverige. Han studerade i New York på 1920-talet. Där såg han självbetjäningsbutiker för första gången. Han förstod att förpackningar var viktiga för framtiden.\n\nÅr 1929 startade Rausing ett förpackningsföretag i Malmö. Det hette Åkerlund & Rausing. År 1951 grundade han AB Tetra Pak i Lund.\n\nEn ingenjör som hette Erik Wallenberg uppfann den speciella kartongen. Den hade formen av en tetraeder – ungefär som en pyramid. Kartongen var gjord av papper och plast.\n\nÅr 1952 levererades den första fyllningsmaskinen till ett mejeri nära Lund. Maskinen fyllde kartonger med grädde.\n\nPå 1960-talet kom en ny, fyrkantig förpackning – Tetra Brik. Den var lättare att stapla och transportera. Senare fick man en teknik som gör att mjölk kan förvaras länge utan kylning.\n\nIdag säljer Tetra Pak sina förpackningar i mer än 160 länder. Företaget är fortfarande baserat i Sverige.\n\n---\n\n## 🇨🇳 全文翻译 (Översättning)\n\nTetra Pak 是瑞典在全世界最知名的企业之一。它始于一个简单的想法：用更好的方式包装牛奶。\n\nRuben Rausing 于1895年出生在瑞典。他在1920年代在纽约学习。在那里，他第一次看到了自助超市。他明白包装对未来非常重要。\n\n1929年，Rausing 在马尔默创办了一家包装公司，名为 Åkerlund & Rausing。1951年，他在隆德创办了 AB Tetra Pak。\n\n一位名叫 Erik Wallenberg 的工程师发明了这种特殊纸盒。它的形状像四面体——大概像一个金字塔。纸盒由纸和塑料制成。\n\n1952年，第一台灌装机被交付给隆德附近的一家乳品厂。机器用奶油填充纸盒。\n\n1960年代，出现了一种新的方形包装——Tetra Brik。它更容易堆叠和运输。后来，人们获得了一种技术，使牛奶可以不用冷藏而长期保存。\n\n今天，Tetra Pak 在160多个国家销售其包装产品。公司至今仍以瑞典为基地。\n\n---\n\n## 📌 教学备注 (Teaching Notes)\n\n📌 **uppfinna / uppfinning** — \"发明\"（动词/名词对）；preteritum: uppfann（不规则）；supinum: uppfunnit\n⚠️ **levererades** — s-被动式（s-passiv）：leverera → levererades，\"被交付\"；lättläst 文章偶尔出现\n📌 **utan kylning** — \"不需冷藏\"；utan + substantiv（无冠词）表\"没有/不用…\"，高频搭配\n📐 **på 1920-talet / på 1960-talet** — 表示\"年代\"：`på` + 年份 + `-tal` + `-et`（双定冠词结构，注意不写\"i 1920-tal\"）\n\n---\n⏭ 想录入知识库：/import uppfinning-2026-06-23-tetra-pak.md",
       "searchText": "uppfinning-2026-06-23-tetra-pak 🇸🇪 tetra pak – en svensk uppfinning (发明/创新 / uppfinning) # 🇸🇪 tetra pak – en svensk uppfinning (发明/创新 / uppfinning)\n\n**typ (type):** uppfinning\n**källa (source):** lättläst 改写 (baserat på wikipedia & tetrapak.com)\n**cefr-uppskattning:** a2–b1\n**genereringsdatum:** 2026-06-23\n\n---\n\n## 瑞典语原文 (källtext)\n\ntetra pak är ett av sveriges mest kända företag i hela världen. det började med en enkel idé: att förpacka mjölk på ett bättre sätt.\n\nruben rausing föddes 1895 i sverige. han studerade i new york på 1920-talet. där såg han självbetjäningsbutiker för första gången. han förstod att förpackningar var viktiga för framtiden.\n\når 1929 startade rausing ett förpackningsföretag i malmö. det hette åkerlund & rausing. år 1951 grundade han ab tetra pak i lund.\n\nen ingenjör som hette erik wallenberg uppfann den speciella kartongen. den hade formen av en tetraeder – ungefär som en pyramid. kartongen var gjord av papper och plast.\n\når 1952 levererades den första fyllningsmaskinen till ett mejeri nära lund. maskinen fyllde kartonger med grädde.\n\npå 1960-talet kom en ny, fyrkantig förpackning – tetra brik. den var lättare att stapla och transportera. senare fick man en teknik som gör att mjölk kan förvaras länge utan kylning.\n\nidag säljer tetra pak sina förpackningar i mer än 160 länder. företaget är fortfarande baserat i sverige.\n\n---\n\n## 🇨🇳 全文翻译 (översättning)\n\ntetra pak 是瑞典在全世界最知名的企业之一。它始于一个简单的想法：用更好的方式包装牛奶。\n\nruben rausing 于1895年出生在瑞典。他在1920年代在纽约学习。在那里，他第一次看到了自助超市。他明白包装对未来非常重要。\n\n1929年，rausing 在马尔默创办了一家包装公司，名为 åkerlund & rausing。1951年，他在隆德创办了 ab tetra pak。\n\n一位名叫 erik wallenberg 的工程师发明了这种特殊纸盒。它的形状像四面体——大概像一个金字塔。纸盒由纸和塑料制成。\n\n1952年，第一台灌装机被交付给隆德附近的一家乳品厂。机器用奶油填充纸盒。\n\n1960年代，出现了一种新的方形包装——tetra brik。它更容易堆叠和运输。后来，人们获得了一种技术，使牛奶可以不用冷藏而长期保存。\n\n今天，tetra pak 在160多个国家销售其包装产品。公司至今仍以瑞典为基地。\n\n---\n\n## 📌 教学备注 (teaching notes)\n\n📌 **uppfinna / uppfinning** — \"发明\"（动词/名词对）；preteritum: uppfann（不规则）；supinum: uppfunnit\n⚠️ **levererades** — s-被动式（s-passiv）：leverera → levererades，\"被交付\"；lättläst 文章偶尔出现\n📌 **utan kylning** — \"不需冷藏\"；utan + substantiv（无冠词）表\"没有/不用…\"，高频搭配\n📐 **på 1920-talet / på 1960-talet** — 表示\"年代\"：`på` + 年份 + `-tal` + `-et`（双定冠词结构，注意不写\"i 1920-tal\"）\n\n---\n⏭ 想录入知识库：/import uppfinning-2026-06-23-tetra-pak.md"
+    },
+    {
+      "slug": "adjsubst-2026-06-23-hem-mobler",
+      "file": "adjsubst-2026-06-23-hem-mobler.md",
+      "folder": "imported",
+      "status": "imported",
+      "statusLabel": "已导入",
+      "statusEn": "imported",
+      "kind": "adjsubst",
+      "kindLabel": {
+        "zh": "词形变化",
+        "en": "adj+subst drill"
+      },
+      "title": "Adjektiv + substantiv böjning — 2026-06-23 (Hem & Möbler)",
+      "cefr": "",
+      "date": "2026-06-23",
+      "theme": "Hem & Möbler (家居家具)",
+      "source": "",
+      "path": "imported/adjsubst-2026-06-23-hem-mobler.md",
+      "counts": {
+        "words": 50,
+        "phrases": 0,
+        "sentences": 0,
+        "grammar": 0
+      },
+      "itemTotal": 50,
+      "body": "# Adjektiv + substantiv böjning — 2026-06-23 (Hem & Möbler)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-23-hem-mobler.md`\n导出块只含 words（精简种子，无 böjning）→ /import 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| Obestämd sg. | Bestämd sg. | Obestämd pl. | Bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en stor soffa | den stora soffan | stora soffor | de stora sofforna | 大沙发 |\n| en liten stol | den lilla stolen | små stolar | de små stolarna | 小椅子 |\n| ett nytt bord | det nya bordet | nya bord | de nya borden | 新桌子 |\n| en gammal säng | den gamla sängen | gamla sängar | de gamla sängarna | 旧床 |\n| en fin lampa | den fina lampan | fina lampor | de fina lamporna | 漂亮的灯 |\n| ett vackert fönster | det vackra fönstret | vackra fönster | de vackra fönstren | 漂亮的窗户 |\n| en bekväm fåtölj | den bekväma fåtöljen | bekväma fåtöljer | de bekväma fåtöljerna | 舒适的扶手椅 |\n| en mjuk kudde | den mjuka kudden | mjuka kuddar | de mjuka kuddarna | 软枕头 |\n| ett hårt golv | det hårda golvet | hårda golv | de hårda golven | 硬地板 |\n| en tung matta | den tunga mattan | tunga mattor | de tunga mattorna | 重地毯 |\n| en lätt filt | den lätta filten | lätta filtar | de lätta filtarna | 轻毯子 |\n| en bred hylla | den breda hyllan | breda hyllor | de breda hyllorna | 宽架子 |\n| en smal gardin | den smala gardinen | smala gardiner | de smala gardinerna | 窄窗帘 |\n| ett högt skåp | det höga skåpet | höga skåp | de höga skåpen | 高橱柜 |\n| ett lågt soffbord | det låga soffbordet | låga soffbord | de låga soffborden | 低茶几 |\n| en rund spegel | den runda spegeln | runda speglar | de runda speglarna | 圆镜子 |\n| ett mörkt rum | det mörka rummet | mörka rum | de mörka rummen | 黑暗的房间 |\n| ett ljust kök | det ljusa köket | ljusa kök | de ljusa köken | 明亮的厨房 |\n| en vit vägg | den vita väggen | vita väggar | de vita väggarna | 白墙 |\n| en svart dörr | den svarta dörren | svarta dörrar | de svarta dörrarna | 黑门 |\n| ett grått tak | det grå taket | grå tak | de grå taken | 灰天花板 |\n| en grön byrå | den gröna byrån | gröna byråer | de gröna byråerna | 绿色梳妆台 |\n| en brun hall | den bruna hallen | bruna hallar | de bruna hallarna | 棕色走廊 |\n| en enkel bokhylla | den enkla bokhyllan | enkla bokhyllor | de enkla bokhyllorna | 简单书架 |\n| ett modernt badkar | det moderna badkaret | moderna badkar | de moderna badkaren | 现代浴缸 |\n\n## 导入块（words only · 精简种子）",
+      "searchText": "adjsubst-2026-06-23-hem-mobler adjektiv + substantiv böjning — 2026-06-23 (hem & möbler) # adjektiv + substantiv böjning — 2026-06-23 (hem & möbler)\n\n25 组 adj + subst 四式变形。导入命令：`/import adjsubst-2026-06-23-hem-mobler.md`\n导出块只含 words（精简种子，无 böjning）→ /import 会对每词跑完整 swedish-dictionary 生成完整词条。\nböjning 变形见下方人读复习表。\n\n## 复习表（人读用，不导入）\n\n| obestämd sg. | bestämd sg. | obestämd pl. | bestämd pl. | 中文 |\n|---|---|---|---|---|\n| en stor soffa | den stora soffan | stora soffor | de stora sofforna | 大沙发 |\n| en liten stol | den lilla stolen | små stolar | de små stolarna | 小椅子 |\n| ett nytt bord | det nya bordet | nya bord | de nya borden | 新桌子 |\n| en gammal säng | den gamla sängen | gamla sängar | de gamla sängarna | 旧床 |\n| en fin lampa | den fina lampan | fina lampor | de fina lamporna | 漂亮的灯 |\n| ett vackert fönster | det vackra fönstret | vackra fönster | de vackra fönstren | 漂亮的窗户 |\n| en bekväm fåtölj | den bekväma fåtöljen | bekväma fåtöljer | de bekväma fåtöljerna | 舒适的扶手椅 |\n| en mjuk kudde | den mjuka kudden | mjuka kuddar | de mjuka kuddarna | 软枕头 |\n| ett hårt golv | det hårda golvet | hårda golv | de hårda golven | 硬地板 |\n| en tung matta | den tunga mattan | tunga mattor | de tunga mattorna | 重地毯 |\n| en lätt filt | den lätta filten | lätta filtar | de lätta filtarna | 轻毯子 |\n| en bred hylla | den breda hyllan | breda hyllor | de breda hyllorna | 宽架子 |\n| en smal gardin | den smala gardinen | smala gardiner | de smala gardinerna | 窄窗帘 |\n| ett högt skåp | det höga skåpet | höga skåp | de höga skåpen | 高橱柜 |\n| ett lågt soffbord | det låga soffbordet | låga soffbord | de låga soffborden | 低茶几 |\n| en rund spegel | den runda spegeln | runda speglar | de runda speglarna | 圆镜子 |\n| ett mörkt rum | det mörka rummet | mörka rum | de mörka rummen | 黑暗的房间 |\n| ett ljust kök | det ljusa köket | ljusa kök | de ljusa köken | 明亮的厨房 |\n| en vit vägg | den vita väggen | vita väggar | de vita väggarna | 白墙 |\n| en svart dörr | den svarta dörren | svarta dörrar | de svarta dörrarna | 黑门 |\n| ett grått tak | det grå taket | grå tak | de grå taken | 灰天花板 |\n| en grön byrå | den gröna byrån | gröna byråer | de gröna byråerna | 绿色梳妆台 |\n| en brun hall | den bruna hallen | bruna hallar | de bruna hallarna | 棕色走廊 |\n| en enkel bokhylla | den enkla bokhyllan | enkla bokhyllor | de enkla bokhyllorna | 简单书架 |\n| ett modernt badkar | det moderna badkaret | moderna badkar | de moderna badkaren | 现代浴缸 |\n\n## 导入块（words only · 精简种子）"
     },
     {
       "slug": "news-2026-06-22",
@@ -2204,6 +2232,22 @@ window.READING_DATA = {
       "body": "# badbyxor — substantiv\n\n📖 中文：游泳裤 · English: swimming trunks; swim shorts\n发音提示：/ˈbɑːdbyːksɔr/\n\n## 语法变形 (Forms)\n\n`badbyxor` 是复数形式（pluralform）—— 通常只以复数使用。\n\n| form | exempel |\n|------|---------|\n| plural obestämd | badbyxor |\n| plural bestämd | badbyxorna |\n| singular (teknisk) | en badbyxa |\n\n## 词组搭配 (Collocations)\n\n- `ta på sig badbyxor` — 穿上游泳裤\n- `glömma badbyxorna` — 忘带游泳裤\n- `köpa nya badbyxor` — 买新游泳裤\n\n## 例句 (Sentences)\n\n- 🇸🇪 Jag glömde mina badbyxor hemma. — 🇨🇳 我把游泳裤忘在家里了。\n- 🇸🇪 Du behöver ta med badbyxor till stranden. — 🇨🇳 你去海滩要带游泳裤。\n- 🇸🇪 Var kan jag köpa billiga badbyxor? — 🇨🇳 我在哪里能买到便宜的游泳裤？\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bada]] (游泳/洗澡, verb), [[badstrand]] (海滩)\n- 同义词: baddräkt (泳衣，一般指女性)\n- 主题: [[topic-fritid-och-resor]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：bad (游泳) + byxor (裤子)。\n- `badbyxor` 通常指男性游泳短裤；`baddräkt` 指女性泳装。"
     },
     {
+      "slug": "badkar",
+      "lemma": "badkar",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "浴缸",
+      "en": "bathtub",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "badkar",
+        "badkaret",
+        "badkaren"
+      ],
+      "body": "# badkar — substantiv (ett)\n\n📖 中文：浴缸 · English: bathtub\n发音提示：/ˈbɑːdkɑːr/；复合词，重音在 BAD。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett badkar |\n| Singular bestämd | badkaret |\n| Plural obestämd | badkar |\n| Plural bestämd | badkaren |\n\n## 词组搭配 (Collocations)\n\n- `ett modernt badkar` — 一个现代浴缸\n- `ligga i badkaret` — 泡在浴缸里\n- `fylla badkaret` — 放好浴缸里的水\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bada]] (洗澡), badrum (浴室)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]], [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：bad (洗澡) + kar (桶/盆) → badkar。\n- ett-ord，零复数：ett badkar → badkaret → badkar → badkaren。\n- 泡澡：`ligga i badkaret`（用 i，因为身体在浴缸内）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]"
+    },
+    {
       "slug": "badstrand",
       "lemma": "badstrand",
       "ordklass": "substantiv",
@@ -3640,6 +3684,23 @@ window.READING_DATA = {
       "body": "# byggnad — substantiv (en)\n\n📖 中文：建筑；楼 · English: building\n发音提示：BYGG-nad；两音节，gg 发浊音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byggnad |\n| Singular bestämd | byggnaden |\n| Plural obestämd | byggnader |\n| Plural bestämd | byggnaderna |\n\n## 词组搭配 (Collocations)\n\n- `stor röd byggnad` — 大红楼\n- `historisk byggnad` — 历史建筑\n- `offentlig byggnad` — 公共建筑\n- `byggnadsarbetare` — 建筑工人\n\n## 例句 (Sentences)\n\n- [[sent-du-ser-en-stor-rod-byggnad]] 🇸🇪 Du ser en stor röd byggnad till vänster — det är inte det rätta stället. 🇨🇳 你会看到左边有一栋大红楼——那不是对的地方。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[bygga]] (v. 建造), [[byggare]] (建造者), [[byggnation]] (建设活动)\n- 同义词: [[hus]] (ett, 房屋/楼), [[lokal]] (en, 场所/房间)\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `byggnad` 偏正式，指建筑物整体；`hus` 更口语，通常指住宅/房屋。"
     },
     {
+      "slug": "byrå",
+      "lemma": "byrå",
+      "ordklass": "substantiv",
+      "cefr": "B1",
+      "zh": "梳妆台；抽屉柜",
+      "en": "chest of drawers; dresser; bureau",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "byrå",
+        "byrån",
+        "byråer",
+        "byråerna"
+      ],
+      "body": "# byrå — substantiv (en)\n\n📖 中文：梳妆台；抽屉柜 · English: chest of drawers; dresser; bureau\n发音提示：/byˈroː/；重音在第二音节，长 o 音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en byrå |\n| Singular bestämd | byrån |\n| Plural obestämd | byråer |\n| Plural bestämd | byråerna |\n\n⚠️ 结尾为重读元音 -å：定式单数 + -n（byrå-n）；复数 + -er（byrå-er）。\n\n## 词组搭配 (Collocations)\n\n- `i byrålådan` — 在抽屉里\n- `en grön byrå` — 一个绿色的抽屉柜\n- `polisbyrå` — 警察局（另一含义，字面\"局/办公室\"）\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: byrålåda (抽屉)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- byrå 有两个含义：① 家具\"抽屉柜\"；② 机构\"局/办公室\"（如 polisbyrå 警察局）。根据上下文区分。\n- 复数 byråer（-er 结尾，不是 -or 或 -ar）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]"
+    },
+    {
       "slug": "byta",
       "lemma": "byta",
       "ordklass": "verb",
@@ -4058,6 +4119,23 @@ window.READING_DATA = {
         "döpt"
       ],
       "body": "# döpa — verb (v.2a)\n\n📖 中文：命名/洗礼 · English: to baptize, to name\n发音提示：DÖ-pa；元音 `ö` 长音，嘴形圆扁。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Infinitiv | att döpa |\n| Imperativ | döp! |\n| Presens | döper |\n| Preteritum | döpte |\n| Supinum | (har) döpt |\n\nGrupp 2a 动词（-er/-te/-t）。\n\n## 词组搭配 (Collocations)\n\n- `döpa till` — 取名为…（例：döpa till Lars）\n- `döpa ett barn` — 给孩子洗礼/命名\n\n## 例句 (Sentences)\n\n- 🇸🇪 De **döpte** sin dotter till Astrid.\n  🇨🇳 他们给女儿取名阿斯特丽德。\n- 🇸🇪 Barnet **döptes** i kyrkan när det var tre månader gammalt.\n  🇨🇳 孩子三个月大时在教堂受了洗礼。\n- 🇸🇪 De **döpte** båten till \"Hoppet\".\n  🇨🇳 他们给这艘船命名为\"希望号\"。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[dop]] (ett, 洗礼), [[dopceremoni]] (baptism ceremony)\n- 同义词: —\n- 反义词: —\n- 主题: —\n\n## 用法提示 (Usage Notes)\n\n- `döpa till` = 取名为：*Hon döpte sonen till Lars* — 她给儿子取名拉尔斯。\n- 除了宗教洗礼，`döpa` 也可以普通地指\"命名\"（为某物起名）。"
+    },
+    {
+      "slug": "dörr",
+      "lemma": "dörr",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "门",
+      "en": "door",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "dörr",
+        "dörren",
+        "dörrar",
+        "dörrarna"
+      ],
+      "body": "# dörr — substantiv (en)\n\n📖 中文：门 · English: door\n发音提示：/dœr/；单音节，双写 rr。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en dörr |\n| Singular bestämd | dörren |\n| Plural obestämd | dörrar |\n| Plural bestämd | dörrarna |\n\n## 词组搭配 (Collocations)\n\n- `öppna dörren` — 打开门\n- `stänga dörren` — 关门\n- `en svart dörr` — 一扇黑门\n- `ytterdörr` — 大门（外门）\n- `innerdörr` — 内门\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: dörrhandtag (门把手), ytterdörr (外门), innerdörr (内门)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 注意 dörren（定式）vs dörren（同一形式），复数 dörrar（加 -ar）。\n- 竖立物体 → 用 **stå**（dörren **står** öppen）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]"
     },
     {
       "slug": "dotter",
@@ -5950,6 +6028,23 @@ window.READING_DATA = {
       "body": "# garantiplacering — substantiv (en)\n\n📖 中文：保证名额（所有首选幼儿园都满员时由市政分配的名额） · English: guaranteed placement\n发音提示：ga-ran-ti-pla-**se**-ring，复合词，重音在第二部分的第二音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en garantiplacering |\n| Singular bestämd | garantiplaceringen |\n| Plural obestämd | garantiplaceringar |\n| Plural bestämd | garantiplaceringarna |\n\n## 词组搭配 (Collocations)\n\n- `tacka ja till garantiplatsen` — 接受保证名额 → [[tacka-ja]]\n- `erbjudande om garantiplacering` — 保证名额邀约 → [[erbjudande]]\n- `garantiplacering på förskola` — 幼儿园保证名额 → [[förskola]]\n\n## 例句 (Sentences)\n\n- 🇸🇪 Har du fått erbjudande om placering på en förskola som du inte sökt till, är det en **garantiplacering**.\n  🇨🇳 若你收到了一所并非你申请过的幼儿园名额，则为保证名额。\n  📄 [[source-2026-06-03-sundbyberg-forskola]]\n- 🇸🇪 Vi fick en **garantiplacering** eftersom alla våra önskade förskolor var fulla.\n  🇨🇳 因为我们所有首选幼儿园都满员了，我们获得了一个保证名额。\n- 🇸🇪 Om du tackar ja till **garantiplatsen** kan du fortfarande stå kvar i byteskön.\n  🇨🇳 如果你接受保证名额，你仍然可以留在换位等候队列中。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[placering]] (名词：安置、名额), [[garanti]] (名词：保证、担保)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-förskola-system]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：`garanti`（保证）+ `placering`（名额/安置）。\n- 瑞典法律规定每个孩子都有权获得幼儿园名额；当所有首选名额均满时，市政府分配 `garantiplacering`。\n- 接受保证名额后，孩子仍保留在 `byteskön`（换位等候队列）中等待首选名额。→ [[byteskö]]"
     },
     {
+      "slug": "gardin",
+      "lemma": "gardin",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "窗帘",
+      "en": "curtain",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "gardin",
+        "gardinen",
+        "gardiner",
+        "gardinerna"
+      ],
+      "body": "# gardin — substantiv (en)\n\n📖 中文：窗帘 · English: curtain\n发音提示：/ɡarˈdiːn/；重音在第二音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en gardin |\n| Singular bestämd | gardinen |\n| Plural obestämd | gardiner |\n| Plural bestämd | gardinerna |\n\n## 词组搭配 (Collocations)\n\n- `dra igen gardinerna` — 拉上窗帘\n- `tunna gardiner` — 薄窗帘\n- `en smal gardin` — 一条窄窗帘\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: —\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 来自法语 *gardine*，复数加 -er（gardin-er）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]"
+    },
+    {
       "slug": "gärna",
       "lemma": "gärna",
       "ordklass": "adverb",
@@ -6679,6 +6774,23 @@ window.READING_DATA = {
       "body": "# haka — substantiv (en)\n\n📖 中文：下巴 · English: chin\n发音提示：/ˈhɑːka/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Grundform (obestämd singular) | en haka |\n| Bestämd singular | hakan |\n| Obestämd plural | hakor |\n| Bestämd plural | hakorna |\n\n## 词组搭配 (Collocations)\n\n- `haka på` — 搭上去；跟上（phrasal verb — 不同义）\n- `dubbelhaka` — 双下巴\n- `hålla hakan uppe` — 打起精神（比喻）\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族:\n- 同义词:\n- 反义词:\n- 主题: [[topic-kropp]]\n\n## 用法提示 (Usage Notes)\n\n- 注意区分身体部位\"下巴 haka\"与动词/短语动词 haka på（钩住；跟上）。\n- 来源: [[source-2026-06-17-kropp-halsa]]"
     },
     {
+      "slug": "hall",
+      "lemma": "hall",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "门厅；走廊",
+      "en": "hallway; entrance hall",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "hall",
+        "hallen",
+        "hallar",
+        "hallarna"
+      ],
+      "body": "# hall — substantiv (en)\n\n📖 中文：门厅；走廊 · English: hallway; entrance hall\n发音提示：/hal/；短 a 音，双写 ll。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en hall |\n| Singular bestämd | hallen |\n| Plural obestämd | hallar |\n| Plural bestämd | hallarna |\n\n## 词组搭配 (Collocations)\n\n- `i hallen` — 在门厅里\n- `en bred hall` — 宽敞的门厅\n- `hänga jackan i hallen` — 把夹克挂在门厅\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: entré (入口/门厅，更正式)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 在瑞典公寓里，hall 通常是进门后的小空间，用来挂外套、放鞋子。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]"
+    },
+    {
       "slug": "hålla",
       "lemma": "hålla",
       "ordklass": "verb",
@@ -7287,7 +7399,7 @@ window.READING_DATA = {
         "högst",
         "högsta"
       ],
-      "body": "# hög — adjektiv\n\n📖 中文：高的；高大的 · English: high, tall\n发音提示：/høːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | hög | högt | höga |\n| **Komparativ** | högre | högre | högre |\n| **Superlativ** | högst / högsta | högst / högsta | högsta |\n\n## 词组搭配 (Collocations)\n\n- `höga hus` — 高楼大厦 → see [[hus]]\n- `högt hus` — 高楼（ett-ord）\n- `hög bro` — 高桥 → see [[bro]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höjd (高度), höja (升高)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 描述建筑、桥梁等城市元素的高度时常用。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]"
+      "body": "# hög — adjektiv\n\n📖 中文：高的；高大的 · English: high, tall\n发音提示：/høːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | hög | högt | höga |\n| **Komparativ** | högre | högre | högre |\n| **Superlativ** | högst / högsta | högst / högsta | högsta |\n\n## 词组搭配 (Collocations)\n\n- `höga hus` — 高楼大厦 → see [[hus]]\n- `högt hus` — 高楼（ett-ord）\n- `hög bro` — 高桥 → see [[bro]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: höjd (高度), höja (升高)\n- 同义词: —\n- 反义词: [[låg]]\n- 主题: [[topic-stadsmiljo]]\n\n## 用法提示 (Usage Notes)\n\n- 描述建筑、桥梁等城市元素的高度时常用。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-adjektiv-bojning]]"
     },
     {
       "slug": "höger",
@@ -8687,6 +8799,22 @@ window.READING_DATA = {
       "body": "# koffein — substantiv (ett)\n\n📖 中文：咖啡因 · English: caffeine\n发音提示：kof-fe-IN，重音在最后音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett koffein |\n| Singular bestämd | koffeinet |\n| Plural | — (通常不可数) |\n\n## 词组搭配 (Collocations)\n\n- `innehålla koffein` — 含有咖啡因\n- `höga koffeinnivåer` — 高咖啡因含量\n- `känslig för koffein` — 对咖啡因敏感\n- `koffeinfri` — 无咖啡因的（形容词）\n\n## 例句 (Sentences)\n\n- 🇸🇪 Kaffe och te innehåller **koffein**.\n  🇨🇳 咖啡和茶含有咖啡因。\n- 🇸🇪 För mycket **koffein** kan ge hjärtklappning.\n  🇨🇳 摄入太多咖啡因可能导致心悸。\n- 🇸🇪 Energidrycken har väldigt höga **koffein**nivåer.\n  🇨🇳 这款能量饮料的咖啡因含量非常高。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[koffeinfri]] (adj. 无咖啡因的), [[koffeinhalt]] (en, 咖啡因含量)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-nyheter-vecka22]], [[topic-mat-och-dryck]], [[topic-hälsa]]\n\n## 用法提示 (Usage Notes)\n\n- `koffein` 是不可数名词，通常以单数形式出现。\n- 与 [[energidryck]] 语境密切相关；过量摄入可导致 [[hjärtklappning]] 和 [[oro]]。\n\n## 来源\n\n- [[source-2026-06-04-nyheter-vecka-22]]"
     },
     {
+      "slug": "kök",
+      "lemma": "kök",
+      "ordklass": "substantiv",
+      "cefr": "A1",
+      "zh": "厨房",
+      "en": "kitchen",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "kök",
+        "köket",
+        "köken"
+      ],
+      "body": "# kök — substantiv (ett)\n\n📖 中文：厨房 · English: kitchen\n发音提示：/ɕøːk/；ch 音（软 k）。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett kök |\n| Singular bestämd | köket |\n| Plural obestämd | kök |\n| Plural bestämd | köken |\n\n## 词组搭配 (Collocations)\n\n- `ett ljust kök` — 明亮的厨房\n- `rum och kök` — 一居室（带厨房的房间）\n- `nyrenoverat kök` — 新翻修的厨房\n- `laga mat i köket` — 在厨房做饭\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: matlagning (烹饪), köksskåp (橱柜)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-hemmet]], [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，零复数：ett kök → köket → kök → köken。\n- \"rum och kök\" 是瑞典租房广告中的固定表达，意为\"一室一厅（含厨房）\"。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]"
+    },
+    {
       "slug": "kollega",
       "lemma": "kollega",
       "ordklass": "substantiv",
@@ -9513,6 +9641,25 @@ window.READING_DATA = {
         "lagen"
       ],
       "body": "# lag — substantiv\n\n📖 中文：队伍；法律 · English: team; law\n发音提示：/lɑːɡ/；a 长音。\n\n## 语法变形 (Forms)\n\n**lag (ett) = 队伍：**\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett lag |\n| Singular bestämd | laget |\n| Plural obestämd | lag |\n| Plural bestämd | lagen |\n\n⚠️ 词汇歧义：\n- `ett lag` (ett-ord) = 队伍/团队 — *fotbollslagen* (足球队们)\n- `en lag` (en-ord) = 法律 — *lagen* (法律，定冠词形式)\n\n## 词组搭配 (Collocations)\n\n- `ett fotbollslag` — 足球队\n- `svenska landslaget` — 瑞典国家队（固定搭配，定冠词）\n- `spela för ett lag` — 为一支队伍效力\n- `i laget` — 在队里\n\n## 例句 (Sentences)\n\n- 🇸🇪 [[sent-zlatan-mycket-bra-karriar-mal]] Zlatan har gjort mål för sina klubblag och i det svenska landslaget. — 🇨🇳 兹拉坦为俱乐部球队和瑞典国家队进了很多球。\n- 🇸🇪 Vilket lag hejar du på? — 🇨🇳 你支持哪支队？\n- 🇸🇪 Det är mot lagen att parkera här. — 🇨🇳 在这里停车是违法的。（法律义）\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[lagkamrat]] (en, 队友), [[landslag]] (ett, 国家队), [[laganda]] (en, 团队精神)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-fotboll]]\n\n## 用法提示 (Usage Notes)\n\n- 关键歧义：`ett lag` (队伍) vs `en lag` (法律)，词性不同可区分。\n- 在体育语境中几乎总是 `ett lag`（队伍）。\n- 来源: [[source-2026-06-09-zlatan-bio]]"
+    },
+    {
+      "slug": "låg",
+      "lemma": "låg",
+      "ordklass": "adjektiv",
+      "cefr": "A1",
+      "zh": "低的",
+      "en": "low",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "låg",
+        "lågt",
+        "låga",
+        "lägre",
+        "lägst",
+        "lägsta"
+      ],
+      "body": "# låg — adjektiv\n\n📖 中文：低的 · English: low\n发音提示：/loːɡ/\n\n## 语法变形 (Forms)\n\n| | en-ord | ett-ord | plural |\n|---|---|---|---|\n| **Positiv** | låg | lågt | låga |\n| **Komparativ** | lägre | lägre | lägre |\n| **Superlativ** | lägst / lägsta | lägst / lägsta | lägsta |\n\n## 词组搭配 (Collocations)\n\n- `ett lågt soffbord` — 一张矮茶几\n- `ett lågt tak` — 低矮的天花板\n- `en låg stol` — 一把矮椅子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: lägga (放/放置), läge (位置)\n- 同义词: —\n- 反义词: [[hög]]\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- 注意不规则比较级：låg → **lägre** → **lägst**（元音变音 å → ä）。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]\n- 语法参考：[[grammar-adjektiv-bojning]]"
     },
     {
       "slug": "laga",
@@ -14524,6 +14671,22 @@ window.READING_DATA = {
       "body": "# skåla — verb\n\n📖 中文：干杯 · English: to toast; to clink glasses\n发音提示：[ˈskoːla]，skål 是感叹词，加 -a 成为动词\n\n## 语法变形 (Forms)\n\n| form | Swedish |\n|------|---------|\n| infinitiv | skåla |\n| presens | skålar |\n| preteritum | skålade |\n| supinum | skålat |\n| imperativ | skåla! |\n\n## 词组搭配 (Collocations)\n\n- `skåla med snaps` — 用烈酒干杯（仲夏传统）\n- `skåla för ngn` — 为某人干杯\n- `skåla för brudparet` — 为新婚夫妇干杯\n- `Skål!` — 干杯！（感叹词）→ 见 [[skål-för]]\n\n## 例句 (Sentences)\n\n- 🇸🇪 Pappa skålar med snaps. — 🇨🇳 爸爸举起小酒杯干杯。\n- 🇸🇪 Vi skålar för midsommar och sommaren! — 🇨🇳 我们为仲夏节和夏天干杯！\n- 🇸🇪 Alla skålar och säger Skål! — 🇨🇳 大家都举杯说\"干杯\"！\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[skål]]\n- 同义词:\n- 反义词:\n- 主题: [[topic-midsommar-traditioner]] · [[topic-social-kontakt]] · [[topic-mat-dryck]]\n\n## 用法提示 (Usage Notes)\n\n- skåla = 干杯的动作（动词）；Skål! = 干杯（感叹词/祝酒词）\n- skåla för ngn = 为某人/某事祝酒\n- 仲夏节传统：用 snaps（烈酒）多次干杯，配仲夏歌"
     },
     {
+      "slug": "skåp",
+      "lemma": "skåp",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "橱柜；柜子",
+      "en": "cabinet; cupboard; wardrobe",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "skåp",
+        "skåpet",
+        "skåpen"
+      ],
+      "body": "# skåp — substantiv (ett)\n\n📖 中文：橱柜；柜子 · English: cabinet; cupboard; wardrobe\n发音提示：/skoːp/\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett skåp |\n| Singular bestämd | skåpet |\n| Plural obestämd | skåp |\n| Plural bestämd | skåpen |\n\n## 词组搭配 (Collocations)\n\n- `ett högt skåp` — 一个高柜子\n- `i skåpet` — 在柜子里\n- `klädskåp` — 衣柜（复合词）\n- `köksskåp` — 厨柜\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[klädskåp]] (衣柜)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，零复数（skåp = skåp）：ett skåp → skåpet → skåp → skåpen。\n- 常作复合词前缀：köksskåp, klädskåp, badrumsskåp。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]"
+    },
+    {
       "slug": "skatt",
       "lemma": "skatt",
       "ordklass": "substantiv",
@@ -15472,6 +15635,23 @@ window.READING_DATA = {
       "body": "# spårvagn — substantiv (en)\n\n📖 中文：有轨电车 · English: tram\n发音提示：SPÅR-vagn，两音节，重音第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en spårvagn |\n| Singular bestämd | spårvagnen |\n| Plural obestämd | spårvagnar |\n| Plural bestämd | spårvagnarna |\n\n## 词组搭配 (Collocations)\n\n- `åka spårvagn` — 坐有轨电车\n- `spårvagnshållplats` — 有轨电车站\n- `en ny spårvagnslinje` — 一条新的有轨电车线\n\n## 例句 (Sentences)\n\n- 🇸🇪 Vi åker **spårvagn** till centrum i Göteborg.\n  🇨🇳 我们乘坐有轨电车去哥德堡市中心。\n- 🇸🇪 **Spårvagnen** stannade vid hållplatsen och många steg av.\n  🇨🇳 有轨电车在站台停下，许多人下了车。\n- 🇸🇪 Göteborg har ett av Sveriges bästa **spårvagns**system.\n  🇨🇳 哥德堡拥有瑞典最好的有轨电车系统之一。\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: [[spår]] (ett, 轨道), [[vagn]] (en, 车厢), [[spårvagnshållplats]] (en, 有轨电车站)\n- 同义词: [[tram]] (en, 有轨电车，来自英语)\n- 反义词: —\n- 主题: [[topic-nyheter-vecka22]], [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- 复合词：*spår*（轨道）+ *vagn*（车厢/马车）。\n- 有轨电车是 [[kollektivtrafik]] 的重要组成部分，在哥德堡（Göteborg）尤其普遍。\n\n## 来源\n\n- [[source-2026-06-04-nyheter-vecka-22]]"
     },
     {
+      "slug": "spegel",
+      "lemma": "spegel",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "镜子",
+      "en": "mirror",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "spegel",
+        "spegeln",
+        "speglar",
+        "speglarna"
+      ],
+      "body": "# spegel — substantiv (en)\n\n📖 中文：镜子 · English: mirror\n发音提示：/ˈspɛːɡɛl/；重音在第一音节。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | en spegel |\n| Singular bestämd | spegeln |\n| Plural obestämd | speglar |\n| Plural bestämd | speglarna |\n\n⚠️ **Syncope**：spegel → speg**l**ar（复数时中间的 -e- 脱落：spegel → spegl-ar → spegl-arna）。\n\n## 词组搭配 (Collocations)\n\n- `titta i spegeln` — 照镜子\n- `en rund spegel` — 一面圆镜子\n- `spegeln på badrumsväggen` — 浴室墙上的镜子\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: spegelbild (镜像), spegelvänd (镜像翻转的)\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-mobler]], [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ⚠️ Syncope（元音脱落）：spegel + ar = speg**l**ar，注意中间的 e 消失！与 fågel→fåglar、tiger→tigrar 同类。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]"
+    },
+    {
       "slug": "spela",
       "lemma": "spela",
       "ordklass": "verb",
@@ -16227,6 +16407,22 @@ window.READING_DATA = {
         "tågen"
       ],
       "body": "# tåg — substantiv (ett-ord)\n\n📖 中文：火车；列车 · English: train\n发音提示：/toːɡ/\n\n## 语法变形 (Forms)\n\n| | Singular | Plural |\n|---|---|---|\n| **Obestämd** | ett tåg | tåg |\n| **Bestämd** | tåget | tågen |\n\n注意：ett-ord，plural obestämd = grundform（zero-plural）。\n\n## 词组搭配 (Collocations)\n\n- `ta tåget` — 乘火车\n- `tågstation` — 火车站 → see [[station]]\n- `ta tåget till stan` — 乘火车进城 → see [[stan]]\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: tågstation, tågtrafik\n- 同义词: —\n- 反义词: —\n- 主题: [[topic-trafik]], [[topic-kollektivtrafik]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，plural 与 singular 同形：`ett tåg / tåg / tåget / tågen`。\n- 来源：[[source-2026-06-15-stad-trafik]]\n- 语法参考：[[grammar-substantiv-plural]]"
+    },
+    {
+      "slug": "tak",
+      "lemma": "tak",
+      "ordklass": "substantiv",
+      "cefr": "A2",
+      "zh": "天花板；屋顶",
+      "en": "ceiling; roof",
+      "known": false,
+      "created": "2026-06-23",
+      "forms": [
+        "tak",
+        "taket",
+        "taken"
+      ],
+      "body": "# tak — substantiv (ett)\n\n📖 中文：天花板；屋顶 · English: ceiling; roof\n发音提示：/tɑːk/；长 a 音。\n\n## 语法变形 (Forms)\n\n| Form | Swedish |\n|------|---------|\n| Singular obestämd | ett tak |\n| Singular bestämd | taket |\n| Plural obestämd | tak |\n| Plural bestämd | taken |\n\n## 词组搭配 (Collocations)\n\n- `ett grått tak` — 灰色天花板/屋顶\n- `under taket` — 在天花板下\n- `högt i tak` — 天花板高（字面）；也比喻\"思想开放\"\n- `ett lågt tak` — 低矮的天花板\n\n## 例句 (Sentences)\n\n<!-- drill import: examples omitted -->\n\n## 词族 / 同义 / 反义 (Relations)\n\n- 词族: takläggning (屋顶铺设), taklucka (天窗)\n- 同义词: —\n- 反义词: [[golv]] (地板)\n- 主题: [[topic-hemmet]]\n\n## 用法提示 (Usage Notes)\n\n- ett-ord，零复数：ett tak → taket → tak → taken。\n- **室内**：tak = 天花板；**室外**：tak = 屋顶。语境决定。\n- 惯用语：`högt i tak` 既描述高天花板，也形容宽容、包容的氛围。\n- 来源：[[source-2026-06-23-adjsubst-hem-mobler]]"
     },
     {
       "slug": "tal",
