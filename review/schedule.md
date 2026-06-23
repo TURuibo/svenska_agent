@@ -48,6 +48,37 @@
 | [[sent-pa-eftermiddagen-borjar-det-regna]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 | [[sent-men-ingen-bryr-sig]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
 | [[sent-midsommar-ar-midsommar]] | sentence | — | 0 | 2.5 | 2026-06-22 | no |
+| **— nyheter-8sidor-2026-06-23 — 11词 / 5词组 / 13句 / 1语法 (2句DUP) —** | | | | | | |
+| [[avgång]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[efterträdare]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[koppling]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sommarlov]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[alkohol]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[berättelse]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[hjälte]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sägen]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[följeslagare]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[populistisk]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[parti]] | word | — | 0 | 2.5 | 2026-06-23 | no |
+| [[lyssna-på]] | phrase | — | 0 | 2.5 | 2026-06-23 | no |
+| [[missnöjd-med]] | phrase | — | 0 | 2.5 | 2026-06-23 | no |
+| [[anses-vara]] | phrase | — | 0 | 2.5 | 2026-06-23 | no |
+| [[stjäla-från-rika-för-att-ge-till-fattiga]] | phrase | — | 0 | 2.5 | 2026-06-23 | no |
+| [[bli-uttorkad]] | phrase | — | 0 | 2.5 | 2026-06-23 | no |
+| [[grammar-bisats-ordfoljd]] | grammar | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-storbritanniens-ledare-keir-starmer-meddelar]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-han-sager-jag-har-lyssnat-pa-mitt-parti]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-politikern-andy-burnham-anses-vara-efterträdare]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-allmanheten-ar-missnojd-med-hoga-matpriser]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-mannen-kallas-el-sueco-vilket-betyder-svensken]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-de-svenska-poliserna-vill-nu-att-mannen]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-i-frankrike-far-barnen-sommarlov-i-borjan]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-den-22-juni-borjar-motet-almedalen-pa-on-gotland]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-det-ar-en-kand-vecka-for-politik-i-sverige]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-du-kan-se-talen-pa-svt-play]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-berattelsen-om-robin-hood-har-cirkulerat-i-hundratals-ar]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-denna-legendariska-hjalte-stjal-fran-rika-for-att-ge]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
+| [[sent-robin-hood-bor-enligt-sagnerna-i-sherwoodskogen]] | sentence | — | 0 | 2.5 | 2026-06-23 | no |
 | **— source-2026-06-23-tetra-pak — 13词 / 3词组 / 15句 / 1语法 —** | | | | | | |
 | [[uppfinning]] | word | — | 0 | 2.5 | 2026-06-23 | no |
 | [[förpackning]] | word | — | 0 | 2.5 | 2026-06-23 | no |
