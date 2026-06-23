@@ -10,6 +10,7 @@ synonyms: []
 antonyms: []
 family:
   - "[[val]]"
+  - "[[välja]]"
 topics:
   - "[[topic-samhälle-och-politik]]"
 sentences:
@@ -50,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[val]]（选举）、rösta（投票）
+- 词族: [[val]]（选举）、[[välja]]（选择，动词）、rösta（投票）
 - 同义词: röstberättigad（有投票权的人）
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
