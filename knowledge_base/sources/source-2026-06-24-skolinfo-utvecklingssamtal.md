@@ -4,10 +4,10 @@ title: "Information från skolan: kallelse till utvecklingssamtal"
 kind: functional
 cefr: A2–B1
 date_added: 2026-06-24
-words: []
-phrases: []
-sentences: []
-grammar: []
+words: [kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra]
+phrases: [snarast-möjligt, se-fram-emot-att, med-vänliga-hälsningar, osa-senast, hur-det-gar-i-amnena]
+sentences: [sent-det-ar-nu-dags-for, sent-vi-vill-traffa-dig-for, sent-om-du-inte-kan-komma, sent-vi-ser-fram-emot-att]
+grammar: [grammar-se-fram-emot-att, grammar-for-att-syfte]
 ---
 
 # 📄 Information från skolan: kallelse till utvecklingssamtal

@@ -28,6 +28,25 @@
 | [[sätta-åldersgränser]] | phrase | — | 0 | 2.5 | 2026-06-23 | no |
 | [[det-krävs]] | phrase | — | 0 | 2.5 | 2026-06-23 | no |
 | [[grammar-debattstruktur]] | grammar | — | 0 | 2.5 | 2026-06-23 | no |
+| **— source-2026-06-24-skolinfo-utvecklingssamtal — 7词NEW / 5词组NEW / 4句NEW / 2语法NEW (2词DUP: ämne, boka) —** | | | | | | |
+| [[kallelse]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[termin]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[utvecklingssamtal]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[kontakta]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[klasslärare]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[skolgård]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[förbättra]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[snarast-möjligt]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[se-fram-emot-att]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[med-vänliga-hälsningar]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[osa-senast]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[hur-det-gar-i-amnena]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-se-fram-emot-att]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-for-att-syfte]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-ar-nu-dags-for]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-vi-vill-traffa-dig-for]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-om-du-inte-kan-komma]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-vi-ser-fram-emot-att]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | **— source-2026-06-24-morkt-pa-vintern — 11词NEW / 5词组NEW / 18句NEW / 1语法NEW —** | | | | | | |
 | [[luta]] | word | — | 0 | 2.5 | 2026-06-24 | no |
 | [[halvklot]] | word | — | 0 | 2.5 | 2026-06-24 | no |
