@@ -8,6 +8,34 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-24-intervju-bagare-yrke — 11词NEW / 6词组NEW / 7句NEW / 3语法NEW (1词DUP: bageri) —** | | | | | | |
+| [[bagare]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[deg]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[doft]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[hantverksbageri]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[surdeg]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[surdegsbröd]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[konsument]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[tålamod]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[tillfredsställelse]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[rutinmässig]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[slitsam]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[av-en-slump]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[falla-för]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[ta-form]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[utan-tvekan]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[hålla-kvaliteten-hög]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[räds-tidiga-mornar]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-av-en-slump]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-rädas-deponens]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-den-som-relativ]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-var-faktiskt-av]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-jag-tankte-att-det-bara]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-ar-svart-att-forklara]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-man-vanjer-sig-men]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-konsumenterna-blir-mer]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-ger-oss-en-plats]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-ar-ett-yrke]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | **— source-2026-06-24-diskussion-viktigast-dar-ni-bor — 7词NEW / 4词组NEW / 8句NEW / 3语法NEW (2词DUP: kollektivtrafik, orolig; 1词组DUP: i-närheten) —** | | | | | | |
 | [[trygghet]] | word | — | 0 | 2.5 | 2026-06-24 | no |
 | [[kommunikation]] | word | — | 0 | 2.5 | 2026-06-24 | no |
