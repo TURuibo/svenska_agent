@@ -1,16 +1,18 @@
-/* Dagbok — recap UI (site home). Reads window.KB_DATA from kb-data.js. */
+/* Dagbok — recap UI (site home). Reads the shared KB (window.KB from
+   kb-index.js + kb-store.js); note bodies load lazily via KB.body(). */
 
 (function () {
   'use strict';
 
-  const data = window.KB_DATA;
-  if (!data || !Array.isArray(data.notes)) {
+  const KB = window.KB;
+  const MD = window.KBMarkdown;
+  if (!KB || !MD) {
     document.getElementById('timeline').innerHTML =
-      '<p class="timelineEmpty">⚠️ 找不到 kb-data.js — 请先运行 <code>node tools/build-kb-site.js</code>。</p>';
+      '<p class="timelineEmpty">⚠️ 找不到 kb-index.js / kb-store.js — 请先运行 <code>node tools/build-kb-site.js</code>。</p>';
     return;
   }
 
-  const notes = data.notes;
+  const notes = KB.notes;
   const TYPE_LABELS = { word: '词', phrase: '词组', sentence: '句子', grammar: '语法', topic: '主题', source: '来源' };
   const ITEM_TYPES = ['word', 'phrase', 'sentence', 'grammar'];
 
@@ -292,7 +294,7 @@
   document.getElementById('statTotal').textContent = totalItems;
   document.getElementById('statStreak').textContent = streakDays();
   document.getElementById('recapUpdated').textContent =
-    `数据更新于 ${data.generatedAt} · 今天 ${TODAY_KEY} ${weekdayCN(TODAY)}`;
+    `数据更新于 ${KB.generatedAt} · 今天 ${TODAY_KEY} ${weekdayCN(TODAY)}`;
 
   // ---------- heatmap (12 weeks, ending this week) ----------
 
@@ -679,79 +681,10 @@
       .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
   }
 
-  // minimal markdown → HTML (fenced code, headings, lists, bold, wikilinks → link to main viewer)
-  function mdToHtml(md) {
-    const lines = md.split(/\r?\n/);
-    const out = [];
-    let i = 0;
-    let inList = false;
-    function closeList() { if (inList) { out.push('</ul>'); inList = false; } }
-    while (i < lines.length) {
-      const line = lines[i];
-      // fence
-      const fence = line.match(/^```(.*)$/);
-      if (fence) {
-        closeList();
-        const buf = [];
-        i += 1;
-        while (i < lines.length && !/^```/.test(lines[i])) { buf.push(lines[i]); i += 1; }
-        out.push('<pre><code>' + escapeHtml(buf.join('\n')) + '</code></pre>');
-        i += 1; // skip closing fence
-        continue;
-      }
-      // heading
-      const h = line.match(/^(#{1,6})\s+(.+)$/);
-      if (h) {
-        closeList();
-        const level = Math.min(3, h[1].length); // cap at h3 inside peek
-        out.push(`<h${level}>${inline(h[2])}</h${level}>`);
-        i += 1; continue;
-      }
-      // list item
-      const li = line.match(/^\s*[-*]\s+(.+)$/);
-      if (li) {
-        if (!inList) { out.push('<ul>'); inList = true; }
-        out.push('<li>' + inline(li[1]) + '</li>');
-        i += 1; continue;
-      }
-      // table (pipe rows; drop the |---|---| separator)
-      if (/^\s*\|.+\|\s*$/.test(line)) {
-        closeList();
-        const rows = [];
-        while (i < lines.length && /^\s*\|.+\|\s*$/.test(lines[i])) { rows.push(lines[i].trim()); i += 1; }
-        const body = rows.filter((r) => !/^\|\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)+\|$/.test(r));
-        const htmlRows = body.map((row, idx) => {
-          const cells = row.slice(1, -1).split('|').map((c) => inline(c.trim()));
-          const tg = idx === 0 ? 'th' : 'td';
-          return `<tr>${cells.map((c) => `<${tg}>${c}</${tg}>`).join('')}</tr>`;
-        });
-        out.push(`<table>${htmlRows.join('')}</table>`);
-        continue;
-      }
-      // blank
-      if (line.trim() === '') {
-        closeList();
-        i += 1; continue;
-      }
-      // paragraph
-      closeList();
-      out.push('<p>' + inline(line) + '</p>');
-      i += 1;
-    }
-    closeList();
-    return out.join('\n');
-  }
-
-  function inline(s) {
-    let t = escapeHtml(s);
-    t = t.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_m, slug, label) => {
-      const visible = label || slug;
-      return `<a href="sok/#note=${encodeURIComponent(slug)}" target="_blank" rel="noopener">${escapeHtml(visible)}</a>`;
-    });
-    t = t.replace(/`([^`]+)`/g, '<code>$1</code>');
-    t = t.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
-    return t;
-  }
+  // Markdown → HTML for the peek panel uses the shared renderer (kb-markdown.js).
+  // Wikilinks render as data-wikilink buttons; the peek panel delegates clicks to
+  // open the linked note in place (see peekBody handler below).
+  const mdToHtml = (md) => MD.mdToHtml(md, { hasSlug: (t) => KB.bySlug.has(t) });
 
   let peekCurrent = null;
 
@@ -773,10 +706,15 @@
       const dateKey = String(n.created || srcDateOf(src) || '');
       readHtml = `<div class="peekRead"><a class="batchReadLink" href="${readingHref(article, dateKey)}">📖 阅读原文（Läsning，可看中文翻译）→</a></div>`;
     }
-    peekBody.innerHTML = metaHtml + readHtml + mdToHtml(n.body || '');
+    // Body is not in the eager index — show header immediately, fetch body lazily.
+    peekBody.innerHTML = metaHtml + readHtml + '<p class="peekLoading">läser…</p>';
     peekOpen.href = `sok/#note=${encodeURIComponent(n.slug)}`;
     peek.hidden = false;
     syncPeekActions();
+    KB.body(n.slug).then((d) => {
+      if (!peekCurrent || peekCurrent.slug !== n.slug) return; // user opened another
+      peekBody.innerHTML = metaHtml + readHtml + (d ? mdToHtml(d.body || '') : '');
+    });
   }
 
   function syncPeekActions() {
@@ -786,6 +724,13 @@
   }
 
   document.getElementById('peekClose').addEventListener('click', () => { peek.hidden = true; peekCurrent = null; });
+  // In-peek [[wikilink]] navigation: open the linked note in the same panel.
+  peekBody.addEventListener('click', (e) => {
+    const link = e.target.closest('[data-wikilink]');
+    if (!link) return;
+    const target = bySlug.get(link.dataset.wikilink);
+    if (target) { e.preventDefault(); openPeek(target); }
+  });
   document.getElementById('peekKnown').addEventListener('click', () => {
     if (!peekCurrent) return;
     toggleKnown(peekCurrent.slug);
@@ -826,10 +771,9 @@
     if (n.ordklass) subs.push(`<em>${escapeHtml(String(n.ordklass))}</em>`);
     if (n.cefr) subs.push(`CEFR ${escapeHtml(String(n.cefr))}`);
     if (subs.length) lines.push(`<div class="flashSub">${subs.join(' · ')}</div>`);
-    // For grammar without zh, fall back to a body excerpt
-    if (!n.zh && n.body) {
-      const para = String(n.body).split(/\n\s*\n/).find((p) => !/^#/.test(p) && p.trim().length > 0);
-      if (para) lines.push(`<div class="flashSub">${escapeHtml(para.trim().slice(0, 220))}</div>`);
+    // For grammar without zh, fall back to the short excerpt carried in the index.
+    if (!n.zh && n.excerpt) {
+      lines.push(`<div class="flashSub">${escapeHtml(String(n.excerpt).trim())}</div>`);
     }
     if (lines.length === 0) lines.push(`<div class="flashSub">(无翻译)</div>`);
     return lines.join('');

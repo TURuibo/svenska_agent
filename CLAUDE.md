@@ -177,7 +177,7 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 1. /dagens-scenario   （批量：按 day-of-year 生成当天 5 篇，一周轮完 35 体裁，不需联网）
 2. 对刚生成的**每一个** inbox/scenario-<date>-*.md（今天 5 篇）逐篇跑 /import（spawn librarian/importer 用前台，每篇等完整 manifest 再做下一篇）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （三个 viewer 数据文件 `kb-data.js`/`reading-data.js`/`listening-data.js` 已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js` 已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：同时在本地任务和云端跑会同一天生成两篇。改用云端后，请在桌面把本地那条 scenario 任务**停用**。
@@ -227,9 +227,10 @@ KB 文件本身是 tracked 的，能正常同步。但**入库 ≠ 上 GitHub**�
   且照片场景常是临时拍一张就走，用户容易忘记手动 `/sync` 导致丢同步。所以：转写确认 → 分析 →
   `sv-librarian` 批量写库 + 建 `sources/` → **主 agent 直接调用 `/sync`**（commit+push）→ 回报。
 
-**`/sync` 做的事：** 重建站点数据 → 暂存 `knowledge_base/` + `review/schedule.md` + `profile/` +
-`site/kb-data.js` → 一个 commit → `pull --rebase` → push 到 GitHub。其他设备 `git pull` 即拿到；
-`site/kb-data.js` 也会由 GitHub Action 在 push 后自动重建。
+**`/sync` 做的事：** 重建站点数据（`slugs.json`）→ 暂存 `knowledge_base/` + `review/schedule.md` +
+`profile/` + `slugs.json` → 一个 commit → `pull --rebase` → push 到 GitHub。其他设备 `git pull` 即拿到；
+viewer 数据文件（`site/kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`）已 gitignore，
+由 GitHub Action 在 push 后自动重建。
 
 **换设备同步现在全自动**，无需提醒用户手动 `git pull`。每次开会话，`SessionStart` 钩子
 `git_autopull.ps1` 会 `git fetch` 并按情况自动同步：
@@ -282,7 +283,7 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 1. /dagens-nyheter
 2. 对刚生成的 inbox/news-*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （三个 viewer 数据文件 `kb-data.js`/`reading-data.js`/`listening-data.js` 已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js` 已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：news 同时在本地 `svensk-news-daily` 和云端跑会重复抓取/产生两份当日新闻。
@@ -381,11 +382,16 @@ A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 所以 §4.4–§4.6 的 remote routine（news / listening / scenario / artikel / adjsubst）跑完生成 + `/import`
 后，**统一**按本节收尾（commit/push 并自动开 PR + merge）。
 
-**⭐ 2026-06-23 架构改：三个生成的 viewer 数据文件已移出 git。**
-`site/kb-data.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js` 现在都在 `.gitignore`，
-**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回 main**。所以以前
-「Action 提交 viewer 文件 → 和 routine 抢 → 每次 merge 必冲突」的根源**没了**：routine **绝不碰这三个文件**，
-PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数据文件、⑥force-push 对齐分支）。
+**⭐ 2026-06-23 架构改：生成的 viewer 数据文件已移出 git。**
+`site/kb-index.js`、`site/kb-bodies.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js`
+现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
+main**。所以以前「Action 提交 viewer 文件 → 和 routine 抢 → 每次 merge 必冲突」的根源**没了**：routine **绝不碰
+这几个文件**，PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数据文件、⑥force-push 对齐分支）。
+
+> 🔎 **2026-06-24 性能重构：`kb-data.js`（8.9 MB 单块）已拆成 `kb-index.js`（轻量、即时加载）+ `kb-bodies.js`
+> （正文，按需懒加载）。** 所有站点（Sök / Former / Dagbok / Läsning / Lyssna）改用共享模块
+> `site/kb-store.js`（数据 + 搜索 + `KB.openNote` 笔记弹窗）与 `site/kb-markdown.js`（统一 Markdown 渲染）；
+> Sök 重做成命令面板式纯搜索页。这些是源文件（tracked），随源码提交。
 
 > 🗂️ **本地 PowerShell 流水线已退役（2026-06-23）。** remote 定时 session 是**唯一**自动入库来源。
 > `scripts/daily-{news,scenario,adjsubst,listening}.ps1` + 桌面 Scheduled task（`svensk-*-daily`）**请全部停用**，
@@ -393,7 +399,7 @@ PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数�
 
 **① 只提交源文件 + `slugs.json`：**
 ```bash
-node tools/build-kb-site.js          # 更新 slugs.json（dedup 依赖）；顺带生成的 kb-data.js 是 gitignore，git add 自动跳过
+node tools/build-kb-site.js          # 更新 slugs.json（dedup 依赖）；顺带生成的 kb-index.js/kb-bodies.js 是 gitignore，git add 自动跳过
 git add knowledge_base/ listening/ imported/ review/ profile/ knowledge_base/_index/slugs.json
 git commit -m "<routine>: <一句话>"
 git push -u origin <当前 branch>
