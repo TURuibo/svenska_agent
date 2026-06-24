@@ -8,6 +8,50 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-24-listening-svt-latt — 8词NEW / 3词组NEW / 31句NEW / 1语法NEW (6词DUP 2词组DUP 1语法DUP) —** | | | | | | |
+| [[transportera]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[gömma]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[kustbevakning]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[flygvapen]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[undernärd]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[upprop]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[drunkna]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[hetta]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[gå-ombord]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[det-vill-säga]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[framför-allt]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-trots-att]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-ryssland-fortsätter-att-transportera-olja]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-gör-ryssland-för-att-få]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-ryssland-gömmer-oljan-i-gamla-fartyg]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-de-fartygen-kallas-för-en-skuggflotta]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-sverige-har-gått-ombord-på-fem]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-målet-är-att-transportera-oljan]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-svts-undersökning-visar-att-262-skuggfartyg]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-är-farligt-för-svensk-militär]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-därför-finns-flygvapnet-redo-om]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-en-chef-för-kustbevakningen-säger]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-transporten-av-rysk-olja-genom-östersjön]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-pengarna-som-ryssland-tjänar-används]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-sverigedemokraterna-vill-att-det-görs]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-på-den-digitala-kartan-ska-föräldrar]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-partiet-vill-också-att-en-person]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-100-000-äldre-personer-är-undernärda]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-och-så-många-som-800-000-riskerar]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-ett-problem-är-att-det-serveras]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-är-framför-allt-personer-som]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-över-200-kända-personer-har-skrivit]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-de-vill-att-politiker-gör-mer]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-ett-upprop-är-när-många-personer]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-är-väldigt-varmt-i-frankrike]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-igår-var-den-varmaste-dagen-som]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-myndigheterna-är-oroliga-för-att]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-den-senaste-veckan-har-ca-40]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-de-flesta-var-unga-som-badade]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-även-sverige-väntas-få-mycket-varmt]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-smhi-varnar-för-hetta-i-blekinge]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-då-ska-man-vara-noga-med]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-i-norr-blir-det-svalare-med]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | **— source-2026-06-24-adjsubst-natur — 21词NEW (drill, inga exempelmeningar) —** | | | | | | |
 | [[djup]] | word | — | 0 | 2.5 | 2026-06-24 | no |
 | [[fuktig]] | word | — | 0 | 2.5 | 2026-06-24 | no |
