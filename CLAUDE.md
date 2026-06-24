@@ -198,6 +198,15 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 > 中文译文层/代码/标题不参与高亮。顶栏 **🔤 生词** 开关可整体开关（状态存 localStorage）。所以新词只要进过 KB，
 > 下次读文章时就自动变成可查的链接，无需手动标注。
 
+> **查不到的词怎么办 (🔍 查词 → 📥 想学):** 阅读站是纯静态页、连不到 CC，所以"让 CC 帮我查 KB 还没有的词"
+> 靠**攒命令、回 CC 粘贴**这条桥（清单存 localStorage、顶栏带计数）：
+> - **🔍 查词模式** 开启后，正文里**没标的词**也可点。点开在 `vocab`(已入库的词) 里**只读**搜一下，看 KB 有没有、词义是什么。
+> - 若 KB **确实还没有这个词** →「➕ 想学」或「📋 复制 /learn」加入 **📥 想学清单**，复制成一条 `/learn a, b, c`
+>   命令回 CC，让 swedish-dictionary（必要时联网）真正查词入库。
+> 回 CC 跑完 + `/sync` 推送、下次重建后，这些词就在阅读站变成可点的 KB 生词。`/learn` 里存的是**你点的词形**
+> （如 `arbetade`），由 swedish-dictionary 自己还原词元（grundform），不必先猜词元。
+> （注：旧的「🔗 链接清单 / `/link-forms`」把词形手动接到已有词的功能已于 2026-06-24 移除。）
+
 ### §4.3 多设备同步 (Multi-device sync via GitHub)
 
 手机端 CC 与电脑端是**同一个 GitHub repo 的两份 checkout**，靠 git 同步。因此：
@@ -456,3 +465,7 @@ items, quizzes the user, and updates the schedule + frontmatter based on perform
 - Be encouraging and concise in chat. Put the exhaustive material in files.
 - Use the emoji conventions from the Swedish skills (🇸🇪 🇨🇳 📌 📐 ⚠️ …) for scannability.
 - Dates are absolute (e.g. `2026-06-02`), never "today".
+- **结构化回答 (structured answers — Ruibo 的固定偏好):** 回答问题 / 解释概念时，**默认用结构化呈现**——
+  表格、对比矩阵、列表、ASCII 图 / 流程图 / 决策树等——让关键信息**一眼可抓 (capture immediately)**，
+  同时**不丢细节 (without losing details)**。能用表格 / 图表说清的就**不要堆大段纯文字 (avoid plain-text walls)**。
+  此偏好对**所有解释类回答**生效，不限于瑞典语内容。

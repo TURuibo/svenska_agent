@@ -61,6 +61,26 @@ deep-linkable via `#note=<slug>`; the **Back** button retraces wikilink trails; 
 work (`/` or `Ctrl/Cmd-K` to focus search, ↑/↓ to move, Enter to open, Esc to back/clear). Other
 pages link in as `…/sok/#note=<slug>`, or open notes inline via the shared `KB.openNote` popover.
 
+## Läsning (reading)
+
+`site/reading/` lists every scenario / news / article / adjsubst source and reads it with a
+toggleable 🇨🇳 translation. Because the page is fully static (no backend, can't reach Claude Code),
+the toolbar offers an **in-page glossary** plus a "queue a command, paste it back into CC" bridge
+(persisted in `localStorage`, the toolbar button shows a count):
+
+| Toolbar | What it does | Bridge back to CC |
+|---------|--------------|-------------------|
+| **🔤 生词** | Highlight every word that already has a `knowledge_base/words/*.md` note (incl. inflected forms, e.g. `arbetade`→`arbeta`); tap → in-page gloss card. | — (read-only) |
+| **🔍 查词** | Also make un-highlighted words tappable; tapping opens a **read-only** search of the in-memory `vocab` (does the KB already have this word, and what does it mean?). | — (opens the lookup card) |
+| **📥 想学** | When a tapped word is **not in the KB at all** → "➕ 想学" / "📋 复制 /learn" queues it. | Copy → run `/learn a, b, c`; CC does the real lookup (swedish-dictionary + web) and stores it. |
+
+> The old **🔗 链接清单 / `/link-forms`** action (manually link a surface form to an existing KB word)
+> was removed on 2026-06-24.
+
+After running the command in CC and `/sync`-ing, the next site rebuild turns those words into normal
+clickable KB vocab here. The 📥 want-to-learn queue stores the **tapped surface form** (`/learn`
+lemmatizes on import). See CLAUDE.md §4.2 for the full flow.
+
 ## Dagbok (home)
 
 The landing page focuses on **evening recap** rather than search: "what did I add today / yesterday
