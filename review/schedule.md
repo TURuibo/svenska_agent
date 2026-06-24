@@ -28,6 +28,24 @@
 | [[sätta-åldersgränser]] | phrase | — | 0 | 2.5 | 2026-06-23 | no |
 | [[det-krävs]] | phrase | — | 0 | 2.5 | 2026-06-23 | no |
 | [[grammar-debattstruktur]] | grammar | — | 0 | 2.5 | 2026-06-23 | no |
+| **— source-2026-06-24-morkt-pa-vintern — 11词NEW / 5词组NEW / 18句NEW / 1语法NEW —** | | | | | | |
+| [[luta]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[halvklot]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[anledning]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[polcirkel]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[polarnatt]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[midnattssol]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[nordlig]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[latitud]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[dygn]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[märklig]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[tvärtom]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[norr-om-polcirkeln]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[en-av-anledningarna]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[hela-dygnet]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[bort-från]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[hela-dygnet-runt]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-orsaksuttryck-med-till-att]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
 | [[grammar-bör-modal]] | grammar | — | 0 | 2.5 | 2026-06-23 | no |
 | [[grammar-det-kravs]] | grammar | — | 0 | 2.5 | 2026-06-23 | no |
 | [[grammar-utformas-for-att]] | grammar | — | 0 | 2.5 | 2026-06-23 | no |
