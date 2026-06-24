@@ -8,6 +8,28 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-24-adjsubst-natur — 21词NEW (drill, inga exempelmeningar) —** | | | | | | |
+| [[djup]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[fuktig]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[torr]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[brant]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[berg]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[flod]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[ö]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[dal]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[strand]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[himmel]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[vind]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sol]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[gräs]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[mark]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sten]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[klippa]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[källa]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[is]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[dimma]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[bäck]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[dunge]] | word | — | 0 | 2.5 | 2026-06-24 | no |
 | **— source-2026-06-24-intervju-bagare-yrke — 11词NEW / 6词组NEW / 7句NEW / 3语法NEW (1词DUP: bageri) —** | | | | | | |
 | [[bagare]] | word | — | 0 | 2.5 | 2026-06-24 | no |
 | [[deg]] | word | — | 0 | 2.5 | 2026-06-24 | no |
