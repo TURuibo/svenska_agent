@@ -4,10 +4,42 @@ title: "Min vardag — SFI-student med familj"
 kind: story
 cefr: A2
 date_added: 2026-06-24
-words: []
-phrases: []
-sentences: []
-grammar: []
+words:
+  - väcka
+  - gröt
+  - filmjölk
+  - flingor
+  - lämna
+  - hämta
+  - moment
+  - medan
+phrases:
+  - laga-frukost
+  - lämna-barnen-på-förskolan
+  - hämta-barnen
+  - mitt-favoritmoment
+  - det-känns-bra
+sentences:
+  - sent-jag-heter-amara-och-bor
+  - sent-varje-morgon-vaknar-jag-klockan
+  - sent-jag-vacker-barnen-och-lagar
+  - sent-vi-ater-grot-eller-filmjolk
+  - sent-sedan-lamnar-jag-emma-vid
+  - sent-de-ar-glada-och-springer
+  - sent-det-kanns-bra
+  - sent-klockan-nio-borjar-min-sfi
+  - sent-vi-laser-svenska-och-pratar
+  - sent-ibland-ar-det-svart-men-lararen
+  - sent-jag-har-fatt-nya-vanner
+  - sent-pa-eftermiddagen-hamtar-jag
+  - sent-jag-lagar-middag-medan-barnen
+  - sent-vi-ater-middag-tillsammans-och
+  - sent-det-ar-mitt-favoritmoment
+  - sent-det-ar-mycket-att-gora
+grammar:
+  - grammar-vakna-vs-väcka
+  - grammar-v2-regeln-tidsadverb
+  - grammar-medan-bisats
 ---
 
 # 📄 Min vardag — SFI-student med familj
