@@ -26,7 +26,7 @@ For each item:
    if genuinely new info is missing).
 2. **Create** from the matching `_templates/` file, filling frontmatter completely. `created:` = the
    date given to you (absolute).
-3. **Generate example sentences for words** (unless `skip_examples: true`): For every word note,
+3. **Generate example sentences for words** (always): For every word note,
    write example sentences directly in the `## 例句 (Sentences)` section. These are
    inline examples (NOT separate sentence note files). Format each as:
    ```
