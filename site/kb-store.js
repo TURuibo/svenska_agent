@@ -144,6 +144,8 @@ window.KB = (function () {
   }
 
   let overlay = null;
+  let openToken = 0; // bumped on every open/close so a slow body fetch for a
+                     // superseded note can't overwrite the card now showing.
   function ensureOverlay() {
     if (overlay) return overlay;
     overlay = document.createElement("div");
@@ -167,6 +169,7 @@ window.KB = (function () {
   }
 
   function closeNote() {
+    openToken += 1;
     if (overlay) overlay.hidden = true;
     document.body.classList.remove("kbPopOpen");
   }
@@ -176,6 +179,7 @@ window.KB = (function () {
     if (!note) return;
     const ov = ensureOverlay();
     const card = ov.querySelector(".kbPop");
+    const token = ++openToken;
     ov.hidden = false;
     document.body.classList.add("kbPopOpen");
 
@@ -201,8 +205,8 @@ window.KB = (function () {
     `;
 
     const data = await body(slug);
-    // Bail if the user already closed or navigated to another note.
-    if (ov.hidden || !card.querySelector(".kbPopLoading")) return;
+    // Bail if the user closed the popover or opened another note while loading.
+    if (token !== openToken) return;
     const bodyEl = card.querySelector(".kbPopBody");
     if (!data) { bodyEl.innerHTML = `<p class="kbPopLoading">（找不到正文）</p>`; return; }
     const md = String(data.body || "").replace(/^#\s+.*(\r?\n)+/, ""); // drop redundant H1
