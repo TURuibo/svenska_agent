@@ -225,10 +225,9 @@ function buildVocab() {
       known: fm.known === 'true' || fm.known === true,
       created: fm.created || '',
       forms: surfaces,
-      // Full note body (markdown) so the reading page can render the SAME rich
-      // detail card as Former (forms table, collocations, sentences, usage notes)
-      // without having to load the multi-MB kb-data.js.
-      body: body.trim(),
+      // The note body is NOT carried here anymore — the reading glossary popover
+      // fetches it lazily from the shared store (site/kb-bodies.js via window.KB),
+      // which keeps reading-data.js ~1 MB lighter and avoids duplicating bodies.
     });
   }
   vocab.sort((a, b) => a.lemma.localeCompare(b.lemma));

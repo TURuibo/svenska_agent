@@ -5,7 +5,11 @@ const path = require('path');
 const repoRoot = path.resolve(__dirname, '..');
 const kbRoot = path.join(repoRoot, 'knowledge_base');
 const siteRoot = path.join(repoRoot, 'site');
-const dataPath = path.join(siteRoot, 'kb-data.js');
+// Split output: a light, eager index (loaded by every page) + a heavy, lazy
+// bodies map (fetched on demand when a note is first opened). This replaces the
+// old single 8.9 MB kb-data.js that blocked first paint on three pages.
+const indexPath = path.join(siteRoot, 'kb-index.js');
+const bodiesPath = path.join(siteRoot, 'kb-bodies.js');
 
 if (!fs.existsSync(kbRoot)) {
   throw new Error(`knowledge_base folder was not found at ${kbRoot}`);
@@ -214,7 +218,6 @@ const notes = walkMarkdownFiles(kbRoot).map((filePath) => {
     excerpt: getExcerpt(body),
     forms: type === 'word' ? extractForms(body) : [],
     links: getWikilinks(text),
-    searchText: `${title} ${slug} ${relativePath(filePath)} ${text}`,
   };
 
   const carryKeys = [
@@ -264,7 +267,49 @@ fs.writeFileSync(slugManifestPath, JSON.stringify(slugsByType, null, 2), 'utf8')
 console.log(`Generated ${slugManifestPath} with ${notes.length} slugs across ${Object.keys(slugsByType).length} types.`);
 
 const generatedAt = process.env.KB_SITE_GENERATED_AT || new Date().toISOString().replace('T', ' ').slice(0, 19);
-const data = { generatedAt, notes };
-const javascript = `window.KB_DATA = ${JSON.stringify(data, null, 2)};\n`;
-fs.writeFileSync(dataPath, javascript, 'utf8');
-console.log(`Generated ${dataPath} with ${notes.length} notes.`);
+
+// --- D: Split into a light index (eager) and a heavy bodies map (lazy) ---
+// Metadata + a compact search key go in the index so lists/search render
+// instantly; full markdown bodies, links and backlinks live in kb-bodies.js,
+// fetched only when a note is actually opened.
+const INDEX_CARRY_KEYS = [
+  'lemma', 'name', 'ordklass', 'cefr', 'zh', 'en', 'created', 'known',
+  'sentence', 'phrase',
+  'date', 'date_added', 'source_label', 'kind', 'category', 'tags',
+  'words', 'phrases', 'sentences', 'grammar', 'topics',
+];
+
+const indexNotes = notes.map((note) => {
+  const out = { slug: note.slug, type: note.type, title: note.title };
+  for (const key of INDEX_CARRY_KEYS) {
+    if (Object.prototype.hasOwnProperty.call(note, key)) out[key] = note[key];
+  }
+  if (note.type === 'word' && note.forms && note.forms.length) out.forms = note.forms;
+  // Short snippet for result rows (full excerpt/body stays out of the index).
+  out.excerpt = (note.excerpt || '').slice(0, 140);
+  // Lowercase compact search key: title + glosses + inflected forms, so typing
+  // an inflected surface (e.g. "arbetade") still finds its lemma ("arbeta").
+  out.search = [note.title, note.lemma, note.zh, note.en, (note.forms || []).join(' ')]
+    .filter(Boolean)
+    .join(' ')
+    .toLowerCase();
+  return out;
+});
+
+const bodies = {};
+for (const note of notes) {
+  bodies[note.slug] = {
+    body: note.body,
+    links: note.links,
+    backlinks: note.backlinks,
+    path: note.path,
+  };
+}
+
+const indexJs = `window.KB_INDEX = ${JSON.stringify({ generatedAt, notes: indexNotes })};\n`;
+fs.writeFileSync(indexPath, indexJs, 'utf8');
+console.log(`Generated ${indexPath} with ${indexNotes.length} notes (${(indexJs.length / 1048576).toFixed(2)} MB).`);
+
+const bodiesJs = `window.KB_BODIES = ${JSON.stringify(bodies)};\n`;
+fs.writeFileSync(bodiesPath, bodiesJs, 'utf8');
+console.log(`Generated ${bodiesPath} with ${Object.keys(bodies).length} bodies (${(bodiesJs.length / 1048576).toFixed(2)} MB).`);

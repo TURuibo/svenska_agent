@@ -16,6 +16,12 @@
   }
 
   const articles = data.articles;
+  // Shared KB store (kb-index.js + kb-store.js) + markdown renderer (kb-markdown.js).
+  // Vocab metadata stays in reading-data.js (to detect clickable words); the full
+  // note body for the glossary popover now loads lazily from the shared bodies,
+  // so reading-data.js no longer ships ~1 MB of duplicated word bodies.
+  const KB = window.KB;
+  const MD = window.KBMarkdown;
   const mainEl = document.querySelector('.readingMain');
   const isMobile = () => window.matchMedia('(max-width: 760px)').matches;
   document.getElementById('readingUpdated').textContent =
@@ -114,7 +120,8 @@
   // reading-data.js carries a compact `vocab` list: every KB word note reduced to
   // its lemma + a few fields + inflected surface forms. We index those surfaces so
   // any Swedish word the learner already has a note for becomes a clickable chip
-  // that opens an in-page glossary popover (no navigation, no 6MB kb-data.js load).
+  // that opens an in-page glossary popover (no navigation; the body loads lazily
+  // from the shared kb-bodies.js via window.KB, not a multi-MB eager blob).
 
   const vocabList = Array.isArray(data.vocab) ? data.vocab : [];
   const vocabBySlug = new Map();
@@ -290,8 +297,7 @@
     if (entry.created) meta.push(`<span class="vocabPopDate">${escapeHtml(entry.created)}</span>`);
     const chips = (entry.forms || []).map((f) =>
       `<span class="vpForm${f.toLowerCase() === lemmaLc ? ' base' : ''}">${escapeHtml(f)}</span>`).join('');
-    // Drop the leading "# lemma — ordklass" H1; the header above already shows it.
-    const bodyMd = (entry.body || '').replace(/^#\s+.*(\r?\n)+/, '');
+    // The body is no longer carried per-vocab; it loads lazily in showEntry().
     return (
       `<div class="vocabPopHeader">` +
         `<span class="vocabPopGrip" aria-hidden="true"></span>` +
@@ -304,7 +310,7 @@
           ? `<div class="vocabPopGloss">🇨🇳 ${escapeHtml(entry.zh || '—')}　·　${escapeHtml(entry.en || '—')}</div>` : '') +
         (chips ? `<div class="vocabPopForms">${chips}</div>` : '') +
       `</div>` +
-      (bodyMd ? `<div class="vocabPopBody">${mdToHtml(bodyMd)}</div>` : '') +
+      `<div class="vocabPopBody"><p class="vocabPopLoading">läser…</p></div>` +
       `<a class="vocabPopLink" href="../sok/#note=${encodeURIComponent(entry.slug)}" target="_blank" rel="noopener">在 Sök 中打开完整笔记 →</a>`
     );
   }
@@ -313,6 +319,19 @@
     if (!popEl) return;
     popEl.innerHTML = popInnerHtml(entry);
     popEl.scrollTop = 0;
+    const bodyEl = popEl.querySelector('.vocabPopBody');
+    if (!bodyEl) return;
+    if (!KB || !MD) {
+      bodyEl.innerHTML = `<p class="vocabPopLoading"><a href="../sok/#note=${encodeURIComponent(entry.slug)}" target="_blank" rel="noopener">在 Sök 打开完整笔记 →</a></p>`;
+      return;
+    }
+    // Lazy body fetch from the shared store; drop the redundant leading "# lemma" H1.
+    KB.body(entry.slug).then((d) => {
+      if (!bodyEl.isConnected) return; // popover closed or another word opened
+      if (!d) { bodyEl.innerHTML = ''; return; }
+      const md = String(d.body || '').replace(/^#\s+.*(\r?\n)+/, '');
+      bodyEl.innerHTML = MD.mdToHtml(md, { hasSlug: (t) => KB.bySlug.has(t) });
+    });
   }
 
   // Delegated handler for the glossary card: close button, plus in-card navigation
@@ -321,9 +340,19 @@
   function entryPopClick(e) {
     if (e.target.closest('.vocabPopClose')) { closePop(); return; }
     // The explicit "在 Sök 中打开完整笔记 →" link must always navigate to Sök —
-    // never treat it as in-card nav (its slug IS the current word, which is a
-    // vocab entry, so the body-wikilink branch below would otherwise swallow it).
+    // never treat it as in-card nav (its slug IS the current word).
     if (e.target.closest('.vocabPopLink')) return;
+    // Shared markdown renders [[wikilinks]] as data-wikilink buttons. A linked KB
+    // word opens its card in place; a non-word target (phrase/sentence) falls back
+    // to the shared centered popover.
+    const wl = e.target.closest('[data-wikilink]');
+    if (wl) {
+      const slug = wl.dataset.wikilink;
+      e.preventDefault();
+      if (vocabBySlug.has(slug)) showEntry(vocabBySlug.get(slug));
+      else if (KB) KB.openNote(slug);
+      return;
+    }
     const a = e.target.closest('a');
     if (!a) return;
     const m = (a.getAttribute('href') || '').match(/#note=([^&]+)/);

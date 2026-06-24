@@ -1,0 +1,153 @@
+/* Shared in-place KB note popover (window.KB.openNote).
+ * A centered modal card over a dimmed backdrop; used by Läsning, Lyssna and any
+ * page that wants to preview a note without leaving for Sök. Visual language
+ * matches styles.css tokens. Type pill colours reuse the .type-* classes there. */
+
+.kbPopBackdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: clamp(16px, 6vh, 80px) 16px 16px;
+  background: rgba(23, 33, 27, 0.45);
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+  overflow-y: auto;
+}
+.kbPopBackdrop[hidden] { display: none; }
+body.kbPopOpen { overflow: hidden; }
+
+.kbPop {
+  width: min(640px, 100%);
+  max-height: calc(100vh - 2 * clamp(16px, 6vh, 80px));
+  display: flex;
+  flex-direction: column;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.kbPopHead {
+  position: relative;
+  padding: 18px 46px 14px 20px;
+  border-bottom: 1px solid var(--line);
+  background: var(--panel-soft);
+}
+.kbPopClose {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  width: 30px;
+  height: 30px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--muted);
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+}
+.kbPopClose:hover { border-color: var(--gold); color: var(--gold); }
+
+.kbPopType {
+  display: inline-block;
+  font-family: var(--cjk);
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+.kbPopLemma { font-size: 24px; font-weight: 700; color: var(--ink); vertical-align: middle; }
+.kbPopMeta { display: inline-flex; gap: 6px; flex-wrap: wrap; margin-left: 8px; vertical-align: middle; }
+.kbPopTag {
+  font-family: var(--cjk);
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  color: var(--muted);
+}
+.kbPopTag.cefr { color: var(--blue); border-color: var(--blue); }
+.kbPopTag.known { color: var(--green); border-color: var(--green); }
+.kbPopGloss { font-family: var(--cjk); font-size: 14px; color: var(--ink); margin-top: 8px; }
+.kbPopForms { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.kbPopForm {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  color: var(--ink);
+}
+
+.kbPopBody {
+  padding: 16px 20px;
+  overflow-y: auto;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+.kbPopLoading { font-family: var(--cjk); color: var(--muted); }
+.kbPopBody h1, .kbPopBody h2, .kbPopBody h3 { color: var(--green-dark); }
+.kbPopBody table { border-collapse: collapse; width: 100%; margin: 8px 0; }
+.kbPopBody th, .kbPopBody td { border: 1px solid var(--line); padding: 4px 8px; text-align: left; }
+.kbPopBody th { background: var(--panel-soft); }
+.kbPopBody pre { background: var(--panel-soft); padding: 10px; border-radius: 8px; overflow-x: auto; }
+.kbPopBody code { background: var(--panel-soft); padding: 1px 4px; border-radius: 4px; }
+.kbPopBody pre code { background: none; padding: 0; }
+.kbPopBody blockquote { border-left: 3px solid var(--line); margin: 8px 0; padding: 2px 12px; color: var(--muted); }
+
+/* wikilink buttons (from KBMarkdown) rendered as inline text links */
+.kbPopBody .wikiLink {
+  border: none;
+  background: none;
+  padding: 0;
+  font: inherit;
+  color: var(--green);
+  cursor: pointer;
+  text-decoration: underline dotted;
+}
+.kbPopBody .wikiLink:hover { color: var(--gold); }
+.kbPopBody .wikiLink.missingLink { color: var(--muted); cursor: default; text-decoration: none; }
+
+.kbPopRelated { padding: 0 20px 12px; }
+.kbPopRelated h4 { font-family: var(--cjk); font-size: 12px; color: var(--muted); margin: 10px 0 6px; }
+.kbPopChips { display: flex; flex-wrap: wrap; gap: 6px; }
+.kbPopChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--cjk);
+  font-size: 12px;
+  padding: 3px 8px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+}
+.kbPopChip:hover { border-color: var(--gold); }
+.kbPopChip.missing { color: var(--muted); cursor: default; }
+.kbPopChipType { font-size: 10px; padding: 1px 6px; border-radius: 999px; }
+
+.kbPopLink {
+  display: block;
+  padding: 12px 20px;
+  border-top: 1px solid var(--line);
+  font-family: var(--cjk);
+  font-size: 13px;
+  color: var(--green);
+  text-decoration: none;
+  background: var(--panel-soft);
+}
+.kbPopLink:hover { color: var(--gold); }
+
+@media (max-width: 760px) {
+  .kbPopBackdrop { padding: 0; }
+  .kbPop { width: 100%; max-height: 100vh; height: 100vh; border-radius: 0; border: none; }
+}
