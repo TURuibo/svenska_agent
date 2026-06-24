@@ -32,6 +32,7 @@ members:
   - tak
   - hall
   - badkar
+  - tvättstuga
 created: "2026-06-09"
 ---
 
@@ -75,6 +76,7 @@ created: "2026-06-09"
 ### 建筑空间 (Utrymmen)
 - [[kök]] — 厨房
 - [[hall]] — 门厅；走廊
+- [[tvättstuga]] — 洗衣房
 
 ### 建筑部件（新增）
 - [[dörr]] — 门
