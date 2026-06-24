@@ -188,3 +188,7 @@ items, quizzes the user, and updates the schedule + frontmatter based on perform
 - Be encouraging and concise in chat. Put the exhaustive material in files.
 - Use the emoji conventions from the Swedish skills (🇸🇪 🇨🇳 📌 📐 ⚠️ …) for scannability.
 - Dates are absolute (e.g. `2026-06-02`), never "today".
+- **结构化回答 (structured answers — Ruibo 的固定偏好):** 回答问题 / 解释概念时，**默认用结构化呈现**——
+  表格、对比矩阵、列表、ASCII 图 / 流程图 / 决策树等——让关键信息**一眼可抓 (capture immediately)**，
+  同时**不丢细节 (without losing details)**。能用表格 / 图表说清的就**不要堆大段纯文字 (avoid plain-text walls)**。
+  此偏好对**所有解释类回答**生效，不限于瑞典语内容。
