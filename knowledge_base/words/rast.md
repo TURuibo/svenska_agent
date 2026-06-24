@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Barnen leker ute på rasten. — 🇨🇳 孩子们在课间休息时在外面玩耍。
+- 🇸🇪 Vi har lunchrast klockan tolv. — 🇨🇳 我们十二点有午休。
+- 🇸🇪 Kan vi ta en kort rast nu? — 🇨🇳 我们现在可以休息一下吗？
 
 ## 词族 / 同义 / 反义 (Relations)
 

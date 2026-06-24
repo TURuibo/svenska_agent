@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Förkylning är en smittsam sjukdom. — 🇨🇳 感冒是一种传染病。
+- 🇸🇪 Viruset är mycket smittsamt och sprids lätt. — 🇨🇳 这种病毒传染性很强，容易扩散。
+- 🇸🇪 Hennes skratt är smittsamt — alla börjar skratta. — 🇨🇳 她的笑声有感染力——大家都跟着笑起来。
 
 ## 词族 / 同义 / 反义 (Relations)
 

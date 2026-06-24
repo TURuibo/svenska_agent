@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag känner mig motiverad att lära mig svenska. — 🇨🇳 我感到有动力学习瑞典语。
+- 🇸🇪 Hon är en mycket motiverad student. — 🇨🇳 她是一个非常有上进心的学生。
+- 🇸🇪 Vi behöver motiverade medarbetare på jobbet. — 🇨🇳 我们工作中需要有积极性的同事。
 
 ## 词族 / 同义 / 反义 (Relations)
 

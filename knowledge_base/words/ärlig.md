@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han är alltid ärlig mot sina vänner. — 🇨🇳 他对朋友总是诚实的。
+- 🇸🇪 Ärligt sagt förstår jag inte. — 🇨🇳 说实话，我不明白。
+- 🇸🇪 Det är viktigt att vara ärlig. — 🇨🇳 诚实是很重要的。
 
 ## 词族 / 同义 / 反义 (Relations)
 

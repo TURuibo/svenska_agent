@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han har en kronisk sjukdom och tar medicin varje dag. — 🇨🇳 他有慢性病，每天都要吃药。
+- 🇸🇪 Kronisk smärta kan vara svår att behandla. — 🇨🇳 慢性疼痛可能很难治疗。
+- 🇸🇪 Läkaren sa att hennes astma är kronisk. — 🇨🇳 医生说她的哮喘是慢性的。
 
 ## 词族 / 同义 / 反义 (Relations)
 

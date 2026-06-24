@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Min näsa är röd av kylan. — 🇨🇳 我的鼻子因为寒冷变红了。
+- 🇸🇪 Snyta näsan med en näsduk. — 🇨🇳 用手帕擤鼻涕。
+- 🇸🇪 Hunden har en bra näsa för lukter. — 🇨🇳 狗的鼻子对气味很灵敏。
 
 ## 词族 / 同义 / 反义 (Relations)
 

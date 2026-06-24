@@ -44,7 +44,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Tröjorna ligger i byrån i sovrummet. — 🇨🇳 毛衣放在卧室的抽屉柜里。
+- 🇸🇪 Jag öppnar byrålådan och tar fram ett par strumpor. — 🇨🇳 我拉开抽屉柜的抽屉，拿出一双袜子。
+- 🇸🇪 Det är en gammal träbyrå i hörnet. — 🇨🇳 角落里有一个旧木制抽屉柜。
 
 ## 词族 / 同义 / 反义 (Relations)
 

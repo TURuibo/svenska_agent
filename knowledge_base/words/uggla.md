@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Ugglan är aktiv på natten. — 🇨🇳 猫头鹰在夜间活动。
+- 🇸🇪 Vi hörde en uggla i skogen. — 🇨🇳 我们在森林里听到了一只猫头鹰的叫声。
+- 🇸🇪 Ugglan sitter tyst i trädet och väntar. — 🇨🇳 猫头鹰静静地坐在树上等待。
 
 ## 词族 / 同义 / 反义 (Relations)
 

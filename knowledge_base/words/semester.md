@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi åker till Spanien på semester i sommar. — 🇨🇳 我们今年夏天去西班牙度假。
+- 🇸🇪 Han har två veckors semester i juli. — 🇨🇳 他七月份有两周假期。
+- 🇸🇪 Har du semester nu eller jobbar du? — 🇨🇳 你现在在度假还是在工作？
 
 ## 词族 / 同义 / 反义 (Relations)
 

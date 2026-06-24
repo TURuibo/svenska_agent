@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag har ett brunt bälte av läder. — 🇨🇳 我有一条棕色的皮腰带。
+- 🇸🇪 Glöm inte att spänna säkerhetsbältet i bilen. — 🇨🇳 别忘了在车里系好安全带。
+- 🇸🇪 Han köpte ett nytt bälte till sina byxor. — 🇨🇳 他买了一条新腰带配裤子。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Häng jackan i hallen när du kommer hem. — 🇨🇳 回家时把外套挂在门厅里。
+- 🇸🇪 Det finns en spegel i vår hall. — 🇨🇳 我们的门厅里有一面镜子。
+- 🇸🇪 Skorna står i hallen vid dörren. — 🇨🇳 鞋子放在门厅的门边。
 
 ## 词族 / 同义 / 反义 (Relations)
 

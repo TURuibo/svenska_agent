@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det har varit en stressig vecka på jobbet. — 🇨🇳 这周工作很紧张。
+- 🇸🇪 Provet imorgon gör att hon känner sig stressig. — 🇨🇳 明天的考试让她感到有压力。
+- 🇸🇪 Det är stressigt att ha för mycket att göra. — 🇨🇳 事情太多会让人很有压力。
 
 ## 词族 / 同义 / 反义 (Relations)
 

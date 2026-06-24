@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Taket är lågt i det gamla huset. — 🇨🇳 这栋老房子的天花板很低。
+- 🇸🇪 Barnet sitter vid ett lågt bord. — 🇨🇳 孩子坐在一张矮桌子旁边。
+- 🇸🇪 Temperaturen är låg på vintern i Sverige. — 🇨🇳 瑞典冬天气温很低。
 
 ## 词族 / 同义 / 反义 (Relations)
 

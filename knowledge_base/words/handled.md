@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon bär ett armband runt handleden. — 🇨🇳 她手腕上戴着一个手环。
+- 🇸🇪 Han bröt handleden när han föll. — 🇨🇳 他摔倒时手腕骨折了。
+- 🇸🇪 Läkaren tittade på min handled. — 🇨🇳 医生检查了我的手腕。
 
 ## 词族 / 同义 / 反义 (Relations)
 

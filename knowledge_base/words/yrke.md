@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vilket yrke har du? — 🇨🇳 你是做什么职业的？
+- 🇸🇪 Läkare är ett viktigt yrke. — 🇨🇳 医生是一份重要的职业。
+- 🇸🇪 Hon valde ett yrke inom skolan. — 🇨🇳 她选择了教育行业的职业。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Föräldrarna är stolta över sina barn. — 🇨🇳 父母为他们的孩子感到自豪。
+- 🇸🇪 Hon är stolt över sin nya jobb. — 🇨🇳 她为自己的新工作感到自豪。
+- 🇸🇪 Jag är stolt över att jag lärde mig svenska. — 🇨🇳 我为自己学会了瑞典语而感到自豪。
 
 ## 词族 / 同义 / 反义 (Relations)
 

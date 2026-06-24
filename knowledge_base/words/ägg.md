@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag äter ett ägg till frukost. — 🇨🇳 我早餐吃一个鸡蛋。
+- 🇸🇪 Vi behöver tre ägg till kakan. — 🇨🇳 我们需要三个鸡蛋来做蛋糕。
+- 🇸🇪 Äggen är i kylskåpet. — 🇨🇳 鸡蛋在冰箱里。
 
 ## 词族 / 同义 / 反义 (Relations)
 

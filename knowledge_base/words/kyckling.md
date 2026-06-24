@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi äter grillad kyckling till middag. — 🇨🇳 我们晚饭吃烤鸡。
+- 🇸🇪 Jag köpte en hel kyckling på affären. — 🇨🇳 我在商店买了一只整鸡。
+- 🇸🇪 Kycklingfilén är mager och nyttig. — 🇨🇳 鸡胸肉脂肪少，很健康。
 
 ## 词族 / 同义 / 反义 (Relations)
 

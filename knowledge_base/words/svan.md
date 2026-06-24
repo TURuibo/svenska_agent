@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det simmar en vit svan på sjön. — 🇨🇳 湖上有一只白天鹅在游水。
+- 🇸🇪 Barnen matar svanarna med bröd. — 🇨🇳 孩子们用面包喂天鹅。
+- 🇸🇪 Svanen har en lång och elegant hals. — 🇨🇳 天鹅有一条长而优雅的脖子。
 
 ## 词族 / 同义 / 反义 (Relations)
 

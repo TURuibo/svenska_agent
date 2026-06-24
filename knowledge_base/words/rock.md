@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han tar på sig rocken för det är kallt ute. — 🇨🇳 他穿上大衣，因为外面很冷。
+- 🇸🇪 Rocken hänger på kroken vid dörren. — 🇨🇳 大衣挂在门旁的挂钩上。
+- 🇸🇪 Hon köpte en lång svart rock i butiken. — 🇨🇳 她在店里买了一件长款黑色大衣。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En äldre dam satt och läste i parken. — 🇨🇳 一位年长的女士坐在公园里看书。
+- 🇸🇪 Herrar och damer, välkomna till konserten! — 🇨🇳 先生们、女士们，欢迎来到音乐会！
+- 🇸🇪 Damen vid kassan hjälpte mig. — 🇨🇳 收银台的那位女士帮助了我。
 
 ## 词族 / 同义 / 反义 (Relations)
 

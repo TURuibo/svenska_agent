@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag äter en apelsin till frukost varje dag. — 🇨🇳 我每天早餐吃一个橙子。
+- 🇸🇪 Apelsinen är söt och saftig. — 🇨🇳 这个橙子又甜又多汁。
+- 🇸🇪 Kan du köpa apelsiner på affären? — 🇨🇳 你能在商店买一些橙子吗？
 
 ## 词族 / 同义 / 反义 (Relations)
 

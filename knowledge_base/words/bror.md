@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag har en bror som heter Erik. — 🇨🇳 我有一个叫埃里克的兄弟。
+- 🇸🇪 Min bror bor i Stockholm. — 🇨🇳 我的哥哥/弟弟住在斯德哥尔摩。
+- 🇸🇪 Bröderna leker tillsammans i trädgården. — 🇨🇳 兄弟们在花园里一起玩。
 
 ## 词族 / 同义 / 反义 (Relations)
 

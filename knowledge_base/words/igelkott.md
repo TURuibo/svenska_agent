@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi hittade en liten igelkott i trädgården. — 🇨🇳 我们在花园里发现了一只小刺猬。
+- 🇸🇪 Igelkotten rullar ihop sig när den är rädd. — 🇨🇳 刺猬害怕时会蜷成一个球。
+- 🇸🇪 Igelkottar äter maskar och insekter. — 🇨🇳 刺猬吃蚯蚓和昆虫。
 
 ## 词族 / 同义 / 反义 (Relations)
 

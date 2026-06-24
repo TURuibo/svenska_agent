@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Ta det lugnt, det är ingen fara. — 🇨🇳 放轻松，没什么大不了的。
+- 🇸🇪 Sjön är lugn och stilla på morgonen. — 🇨🇳 湖面在早晨平静而宁静。
+- 🇸🇪 Hunden är väldigt lugn och biter inte. — 🇨🇳 这只狗非常温顺，不咬人。
 
 ## 词族 / 同义 / 反义 (Relations)
 

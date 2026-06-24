@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Frukt och grönsaker är nyttiga. — 🇨🇳 水果和蔬菜有益健康。
+- 🇸🇪 Det är nyttigt att äta frukost varje dag. — 🇨🇳 每天吃早饭是有益健康的。
+- 🇸🇪 Vilken mat är nyttigast för kroppen? — 🇨🇳 哪种食物对身体最有益？
 
 ## 词族 / 同义 / 反义 (Relations)
 

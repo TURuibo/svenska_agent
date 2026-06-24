@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det var en lärorik upplevelse att bo utomlands. — 🇨🇳 住在国外是一次很有教益的经历。
+- 🇸🇪 Lektionen var väldigt lärorik. — 🇨🇳 这节课非常有收获。
+- 🇸🇪 Det här programmet är lärorikt för barn. — 🇨🇳 这个节目对孩子很有教育意义。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -44,7 +44,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi går till stranden när det är varmt. — 🇨🇳 天气热的时候我们去海滩。
+- 🇸🇪 Barnen leker i sanden på stranden. — 🇨🇳 孩子们在海滩的沙子里玩耍。
+- 🇸🇪 Det finns många vackra stränder i Sverige. — 🇨🇳 瑞典有很多美丽的海滩。
 
 ## 词族 / 同义 / 反义 (Relations)
 

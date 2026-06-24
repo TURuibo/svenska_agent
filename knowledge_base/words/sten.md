@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Barnet kastade en sten i sjön. — 🇨🇳 孩子把一块石头扔进了湖里。
+- 🇸🇪 Det ligger många stenar längs stigen. — 🇨🇳 小路沿途有很多石头。
+- 🇸🇪 Huset är byggt av sten och är mycket gammalt. — 🇨🇳 这房子用石头建造，非常古老。
 
 ## 词族 / 同义 / 反义 (Relations)
 

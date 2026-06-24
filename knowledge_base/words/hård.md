@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Brödet är gammalt och väldigt hårt. — 🇨🇳 这面包很旧，非常硬。
+- 🇸🇪 Stenen var hård och tung. — 🇨🇳 石头又硬又重。
+- 🇸🇪 Det är hårt att arbeta hela dagen utan paus. — 🇨🇳 整天不休息地工作很辛苦。
 
 ## 词族 / 同义 / 反义 (Relations)
 

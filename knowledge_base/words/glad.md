@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon är glad idag. — 🇨🇳 她今天很高兴。
+- 🇸🇪 Barnet är glatt när det får glass. — 🇨🇳 孩子得到冰淇淋时很开心。
+- 🇸🇪 Vi är glada för att du kan komma. — 🇨🇳 我们很高兴你能来。
 
 ## 词族 / 同义 / 反义 (Relations)
 

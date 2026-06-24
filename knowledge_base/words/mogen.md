@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Den här bananen är mogen och söt. — 🇨🇳 这根香蕉熟透了，很甜。
+- 🇸🇪 Är tomaterna mogna än? — 🇨🇳 西红柿熟了吗？
+- 🇸🇪 Han är ung men väldigt mogen för sin ålder. — 🇨🇳 他很年轻，但对于他这个年龄来说非常成熟。
 
 ## 词族 / 同义 / 反义 (Relations)
 

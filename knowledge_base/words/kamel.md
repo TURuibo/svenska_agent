@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En kamel kan gå länge utan vatten. — 🇨🇳 骆驼可以很久不喝水。
+- 🇸🇪 Vi såg en kamel på djurparken. — 🇨🇳 我们在动物园看到了一头骆驼。
+- 🇸🇪 Kamelen har en stor puckel på ryggen. — 🇨🇳 骆驼背上有一个大驼峰。
 
 ## 词族 / 同义 / 反义 (Relations)
 

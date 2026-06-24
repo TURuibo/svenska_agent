@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är en tjej i min klass som heter Anna. — 🇨🇳 我班上有个女孩叫安娜。
+- 🇸🇪 Tjejerna spelar fotboll i parken. — 🇨🇳 女孩们在公园里踢足球。
+- 🇸🇪 Vilken söt tjej! — 🇨🇳 多可爱的女孩！
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Var tyst, barnen sover! — 🇨🇳 安静点，孩子们在睡觉！
+- 🇸🇪 Biblioteket är alltid tyst. — 🇨🇳 图书馆总是很安静。
+- 🇸🇪 Katten satt tyst och tittade ut genom fönstret. — 🇨🇳 猫安静地坐着，望向窗外。
 
 ## 词族 / 同义 / 反义 (Relations)
 

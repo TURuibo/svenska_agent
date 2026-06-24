@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En giraff har en väldigt lång hals. — 🇨🇳 长颈鹿有一条非常长的脖子。
+- 🇸🇪 Vi såg giraffer på zoo. — 🇨🇳 我们在动物园看到了长颈鹿。
+- 🇸🇪 Giraffen äter blad från trädet. — 🇨🇳 长颈鹿从树上吃叶子。
 
 ## 词族 / 同义 / 反义 (Relations)
 

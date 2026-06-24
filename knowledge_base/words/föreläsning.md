@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag går på en föreläsning om historia imorgon. — 🇨🇳 我明天去听一个关于历史的讲座。
+- 🇸🇪 Professorn håller en föreläsning varje vecka. — 🇨🇳 教授每周举办一场讲座。
+- 🇸🇪 Föreläsningen varade i två timmar. — 🇨🇳 讲座持续了两个小时。
 
 ## 词族 / 同义 / 反义 (Relations)
 

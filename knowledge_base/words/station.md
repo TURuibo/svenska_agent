@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi möts vid stationen klockan tre. — 🇨🇳 我们三点在车站见面。
+- 🇸🇪 Tåget avgår från centralstationen om tio minuter. — 🇨🇳 火车十分钟后从中央车站出发。
+- 🇸🇪 Det är en busstation precis utanför hotellet. — 🇨🇳 酒店正门外就有一个公交车站。
 
 ## 词族 / 同义 / 反义 (Relations)
 

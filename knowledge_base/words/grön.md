@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Gräset är grönt på sommaren. — 🇨🇳 夏天草是绿色的。
+- 🇸🇪 Vi åt en grön sallad till lunch. — 🇨🇳 我们午餐吃了一份绿色沙拉。
+- 🇸🇪 Det är grönt ljus — du kan gå nu. — 🇨🇳 是绿灯——你现在可以走了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

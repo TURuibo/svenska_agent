@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En stor haj simmar i havet. — 🇨🇳 一条大鲨鱼在海里游泳。
+- 🇸🇪 Hajar har vassa tänder. — 🇨🇳 鲨鱼有锋利的牙齿。
+- 🇸🇪 Barnen är rädda för hajen. — 🇨🇳 孩子们害怕那条鲨鱼。
 
 ## 词族 / 同义 / 反义 (Relations)
 

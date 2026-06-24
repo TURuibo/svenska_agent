@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Sverige har bra utbildning för alla barn. — 🇨🇳 瑞典为所有孩子提供良好的教育。
+- 🇸🇪 Han genomgår en utbildning till lärare. — 🇨🇳 他正在接受成为教师的培训。
+- 🇸🇪 Högre utbildning öppnar många dörrar. — 🇨🇳 高等教育打开了很多扇门。
 
 ## 词族 / 同义 / 反义 (Relations)
 

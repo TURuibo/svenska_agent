@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag måste göra läxan innan jag kan leka. — 🇨🇳 我必须先做完作业才能去玩。
+- 🇸🇪 Har du läxa i matematik i dag? — 🇨🇳 你今天有数学作业吗？
+- 🇸🇪 Hon glömde läxan hemma. — 🇨🇳 她把作业忘在家里了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

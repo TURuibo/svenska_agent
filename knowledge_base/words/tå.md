@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag slog tån i bordsben och det gjorde ont. — 🇨🇳 我的脚趾撞到了桌腿，很疼。
+- 🇸🇪 Hon stod på tå för att nå hyllan. — 🇨🇳 她踮起脚尖够架子。
+- 🇸🇪 En människa har fem tår på varje fot. — 🇨🇳 每只脚上有五根脚趾。
 
 ## 词族 / 同义 / 反义 (Relations)
 

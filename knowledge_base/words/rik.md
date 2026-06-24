@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han är en rik man som bor i en stor villa. — 🇨🇳 他是一个住在大别墅里的富人。
+- 🇸🇪 Hon vill bli rik när hon blir stor. — 🇨🇳 她长大后想变得富有。
+- 🇸🇪 Det rika landet har många skolor och sjukhus. — 🇨🇳 这个富裕的国家有很多学校和医院。
 
 ## 词族 / 同义 / 反义 (Relations)
 

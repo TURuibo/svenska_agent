@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Kylen är tom, vi måste handla. — 🇨🇳 冰箱空了，我们得去购物。
+- 🇸🇪 Bussen var nästan tom på morgonen. — 🇨🇳 早上公共汽车几乎是空的。
+- 🇸🇪 Det tomma rummet känns ensamt. — 🇨🇳 那个空房间感觉很孤独。
 
 ## 词族 / 同义 / 反义 (Relations)
 

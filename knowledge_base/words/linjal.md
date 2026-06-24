@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Kan du låna mig din linjal? — 🇨🇳 你能把你的尺子借给我吗？
+- 🇸🇪 Jag drog ett rakt streck med linjalen. — 🇨🇳 我用尺子画了一条直线。
+- 🇸🇪 Det finns en linjal och en penna på bordet. — 🇨🇳 桌子上有一把尺子和一支铅笔。
 
 ## 词族 / 同义 / 反义 (Relations)
 

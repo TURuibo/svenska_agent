@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Babyskinnet är så lent och mjukt. — 🇨🇳 婴儿的皮肤又光滑又柔嫩。
+- 🇸🇪 Krämens konsistens är len och behaglig. — 🇨🇳 这款面霜质地柔滑，用起来很舒适。
+- 🇸🇪 Hon har en len röst som är lugn att lyssna på. — 🇨🇳 她有一把柔和的嗓音，听起来很安心。
 
 ## 词族 / 同义 / 反义 (Relations)
 

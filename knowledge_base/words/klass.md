@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag går i klass tre på skolan. — 🇨🇳 我在学校上三年级。
+- 🇸🇪 Det är tjugo elever i vår klass. — 🇨🇳 我们班有二十名学生。
+- 🇸🇪 Vi har svenska klass på tisdag. — 🇨🇳 我们周二有瑞典语课。
 
 ## 词族 / 同义 / 反义 (Relations)
 

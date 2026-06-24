@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns en grön dal mellan de två bergen. — 🇨🇳 两座山之间有一个绿色的山谷。
+- 🇸🇪 Floden rinner genom dalen. — 🇨🇳 河流流过山谷。
+- 🇸🇪 Vi gick ner i dalen och campade. — 🇨🇳 我们走进山谷并扎营。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns en liten snigel på bladet. — 🇨🇳 叶子上有一只小蜗牛。
+- 🇸🇪 Snigeln kryper långsamt över vägen. — 🇨🇳 蜗牛慢慢地爬过马路。
+- 🇸🇪 Det är många sniglar i trädgården efter regnet. — 🇨🇳 雨后花园里有很多蜗牛。
 
 ## 词族 / 同义 / 反义 (Relations)
 

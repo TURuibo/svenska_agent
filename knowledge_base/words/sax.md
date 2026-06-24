@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Kan du ge mig saxen? Jag vill klippa papperet. — 🇨🇳 你能把剪刀给我吗？我想剪纸。
+- 🇸🇪 Barnen klipper figurer med sax i skolan. — 🇨🇳 孩子们在学校用剪刀剪图形。
+- 🇸🇪 Saxen är vass, var försiktig! — 🇨🇳 剪刀很锋利，小心！
 
 ## 词族 / 同义 / 反义 (Relations)
 

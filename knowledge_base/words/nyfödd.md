@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Den nyfödda bebisen sover hela dagen. — 🇨🇳 这个新生婴儿整天都在睡觉。
+- 🇸🇪 De fick ett nyfött barn i förra veckan. — 🇨🇳 他们上周迎来了一个新生儿。
+- 🇸🇪 Sjukhuset tar hand om nyfödda barn. — 🇨🇳 医院照顾新生儿。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns is på sjön om vintern. — 🇨🇳 冬天湖面上会结冰。
+- 🇸🇪 Kan jag få is i mitt glas? — 🇨🇳 我的杯子里能加冰吗？
+- 🇸🇪 Barnen åker skridskor på isen. — 🇨🇳 孩子们在冰上溜冰。
 
 ## 词族 / 同义 / 反义 (Relations)
 

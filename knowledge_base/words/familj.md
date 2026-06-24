@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Min familj bor i Stockholm. — 🇨🇳 我的家人住在斯德哥尔摩。
+- 🇸🇪 Vi äter middag med hela familjen på söndagar. — 🇨🇳 我们每周日和全家人一起吃晚饭。
+- 🇸🇪 Hon har en stor och lycklig familj. — 🇨🇳 她有一个幸福的大家庭。
 
 ## 词族 / 同义 / 反义 (Relations)
 

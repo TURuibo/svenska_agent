@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En okänd främling frågade mig om vägen. — 🇨🇳 一个陌生人向我问路。
+- 🇸🇪 Man ska inte prata med främlingar. — 🇨🇳 不要和陌生人说话。
+- 🇸🇪 I den lilla byn var han en främling. — 🇨🇳 在那个小村子里，他是个外乡人。
 
 ## 词族 / 同义 / 反义 (Relations)
 

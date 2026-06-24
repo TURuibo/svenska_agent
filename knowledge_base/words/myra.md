@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns många myror i trädgården. — 🇨🇳 花园里有很多蚂蚁。
+- 🇸🇪 En liten myra bär mat till myrstacken. — 🇨🇳 一只小蚂蚁把食物搬到蚁丘。
+- 🇸🇪 Myrorna jobbar alltid hårt. — 🇨🇳 蚂蚁总是努力工作。
 
 ## 词族 / 同义 / 反义 (Relations)
 

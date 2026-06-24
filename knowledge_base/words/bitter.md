@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Kaffet är bittert utan socker. — 🇨🇳 咖啡没有糖是苦的。
+- 🇸🇪 Det bittert läkemedlet smakar hemskt. — 🇨🇳 这种苦味药尝起来很难喝。
+- 🇸🇪 Han är bitter på sin gamla chef. — 🇨🇳 他对前任老板心怀怨恨。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi klättrade upp på den höga klippan. — 🇨🇳 我们爬上了那座高高的岩壁。
+- 🇸🇪 Havet slog mot klipporna längs kusten. — 🇨🇳 海浪拍打着沿海的岩壁。
+- 🇸🇪 Utsikten från klippan var fantastisk. — 🇨🇳 从岩壁上看到的景色令人叹为观止。
 
 ## 词族 / 同义 / 反义 (Relations)
 

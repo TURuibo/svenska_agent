@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är tät dimma ute i morse. — 🇨🇳 今天早上外面雾很浓。
+- 🇸🇪 Bilen körde långsamt i dimman. — 🇨🇳 汽车在雾中缓慢行驶。
+- 🇸🇪 Dimman lyfter när solen kommer upp. — 🇨🇳 太阳升起时雾就散了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

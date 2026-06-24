@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hotellet ligger på ett centralt läge i staden. — 🇨🇳 酒店位于市中心的位置。
+- 🇸🇪 Centralstationen är en central plats för trafiken. — 🇨🇳 中央车站是交通的核心地点。
+- 🇸🇪 Mat är en central del av den svenska kulturen. — 🇨🇳 饮食是瑞典文化的核心部分。
 
 ## 词族 / 同义 / 反义 (Relations)
 

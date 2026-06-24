@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi jobbar med ett nytt projekt på skolan. — 🇨🇳 我们在学校做一个新项目。
+- 🇸🇪 Projektet är klart nästa måndag. — 🇨🇳 这个项目下周一就完成了。
+- 🇸🇪 Hon är ledare för projektet. — 🇨🇳 她是这个项目的负责人。
 
 ## 词族 / 同义 / 反义 (Relations)
 

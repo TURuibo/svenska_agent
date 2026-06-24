@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Katten är så söt! — 🇨🇳 那只猫真可爱！
+- 🇸🇪 Den här kakan smakar sött. — 🇨🇳 这块饼干尝起来很甜。
+- 🇸🇪 Vad söt din lilla syster är! — 🇨🇳 你妹妹真可爱！
 
 ## 词族 / 同义 / 反义 (Relations)
 

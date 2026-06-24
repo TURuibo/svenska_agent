@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi grillar korv i trädgården på sommaren. — 🇨🇳 夏天我们在花园里烤香肠。
+- 🇸🇪 Han köpte en varm korv med bröd. — 🇨🇳 他买了一个面包夹热狗。
+- 🇸🇪 Korv med mos är en typisk svensk rätt. — 🇨🇳 香肠配土豆泥是一道典型的瑞典菜。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Sjön är mycket djup här. — 🇨🇳 这里的湖非常深。
+- 🇸🇪 De hade ett djupt samtal om livet. — 🇨🇳 他们进行了一场关于生活的深刻谈话。
+- 🇸🇪 Barnet sov i djup sömn. — 🇨🇳 孩子睡得很深。
 
 ## 词族 / 同义 / 反义 (Relations)
 

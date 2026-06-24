@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag ligger i badkaret och kopplar av. — 🇨🇳 我泡在浴缸里放松。
+- 🇸🇪 Vi fyller badkaret med varmt vatten. — 🇨🇳 我们在浴缸里放热水。
+- 🇸🇪 Badkaret i vårt badrum är vitt. — 🇨🇳 我们浴室里的浴缸是白色的。
 
 ## 词族 / 同义 / 反义 (Relations)
 

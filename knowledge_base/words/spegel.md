@@ -44,7 +44,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon tittar i spegeln varje morgon. — 🇨🇳 她每天早上照镜子。
+- 🇸🇪 Det hänger en stor spegel på badrumsväggen. — 🇨🇳 浴室墙上挂着一面大镜子。
+- 🇸🇪 Han köpte en ny spegel till sovrummet. — 🇨🇳 他给卧室买了一面新镜子。
 
 ## 词族 / 同义 / 反义 (Relations)
 

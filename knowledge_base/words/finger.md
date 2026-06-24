@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag skar mig i fingret när jag lagade mat. — 🇨🇳 我做饭时割破了手指。
+- 🇸🇪 Hon pekade med fingret på kartan. — 🇨🇳 她用手指指着地图。
+- 🇸🇪 Barnet räknade med fingrarna. — 🇨🇳 孩子用手指数数。
 
 ## 词族 / 同义 / 反义 (Relations)
 

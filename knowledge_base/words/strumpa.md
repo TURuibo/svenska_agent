@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag köper ett par nya strumpor idag. — 🇨🇳 我今天买一双新袜子。
+- 🇸🇪 Det är kallt ute — ta på dig tjocka strumpor! — 🇨🇳 外面很冷——穿上厚袜子！
+- 🇸🇪 Han hittar bara en strumpa, inte två. — 🇨🇳 他只找到一只袜子，不是两只。
 
 ## 词族 / 同义 / 反义 (Relations)
 

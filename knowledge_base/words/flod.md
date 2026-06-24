@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi promenerade längs floden på kvällen. — 🇨🇳 我们傍晚沿着河流散步。
+- 🇸🇪 Den stora floden rinner genom staden. — 🇨🇳 那条大河流过城市。
+- 🇸🇪 Barn lekte vid flodstranden. — 🇨🇳 孩子们在河边玩耍。
 
 ## 词族 / 同义 / 反义 (Relations)
 

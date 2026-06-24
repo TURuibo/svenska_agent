@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han bar väskan på axeln. — 🇨🇳 他把包背在肩上。
+- 🇸🇪 Hon ryckte på axlarna och sade ingenting. — 🇨🇳 她耸了耸肩，什么也没说。
+- 🇸🇪 Min axel gör ont efter simningen. — 🇨🇳 游泳后我的肩膀很痛。
 
 ## 词族 / 同义 / 反义 (Relations)
 

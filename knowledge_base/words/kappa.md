@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är kallt ute, ta på dig kappan. — 🇨🇳 外面很冷，穿上你的大衣。
+- 🇸🇪 Hon har en lång röd kappa. — 🇨🇳 她有一件长红大衣。
+- 🇸🇪 Jag hängde kappan i hallen. — 🇨🇳 我把大衣挂在门廊里。
 
 ## 词族 / 同义 / 反义 (Relations)
 

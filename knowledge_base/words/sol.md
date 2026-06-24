@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Solen skiner starkt idag. — 🇨🇳 今天太阳照得很强烈。
+- 🇸🇪 Vi sitter ute i solen och dricker kaffe. — 🇨🇳 我们坐在室外的阳光下喝咖啡。
+- 🇸🇪 Om sommaren går solen upp tidigt. — 🇨🇳 夏天太阳很早就升起来了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag har en röd väska. — 🇨🇳 我有一个红色的包。
+- 🇸🇪 Var är min väska? — 🇨🇳 我的包在哪里？
+- 🇸🇪 Hon lägger böckerna i väskan. — 🇨🇳 她把书放进包里。
 
 ## 词族 / 同义 / 反义 (Relations)
 

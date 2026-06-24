@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det flyger en fluga runt maten. — 🇨🇳 有一只苍蝇在食物周围飞。
+- 🇸🇪 Han slog ihjäl flugan med en flugsmälla. — 🇨🇳 他用苍蝇拍打死了那只苍蝇。
+- 🇸🇪 Han är snäll — han skulle inte skada en fluga. — 🇨🇳 他很善良——他连苍蝇都不会伤害。
 
 ## 词族 / 同义 / 反义 (Relations)
 

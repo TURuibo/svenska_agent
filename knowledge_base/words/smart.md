@@ -45,7 +45,9 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon är en smart student som lär sig snabbt. — 🇨🇳 她是一个聪明的学生，学得很快。
+- 🇸🇪 Det var ett smart sätt att lösa problemet. — 🇨🇳 这是解决问题的聪明方法。
+- 🇸🇪 Han har en smart lösning på varje fråga. — 🇨🇳 他对每个问题都有聪明的解决方案。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han har en vit skjorta på sig på jobbet. — 🇨🇳 他上班穿着一件白衬衫。
+- 🇸🇪 Jag köpte en ny skjorta i affären igår. — 🇨🇳 我昨天在店里买了一件新衬衫。
+- 🇸🇪 Skjortan är för stor, jag behöver en mindre storlek. — 🇨🇳 这件衬衫太大了，我需要小一号。
 
 ## 词族 / 同义 / 反义 (Relations)
 

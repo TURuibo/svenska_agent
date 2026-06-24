@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Barnet har röda kinder av kölden. — 🇨🇳 孩子的脸颊因寒冷而变红了。
+- 🇸🇪 Han kysste henne på kinden. — 🇨🇳 他亲了她的脸颊。
+- 🇸🇪 Tårarna rann längs hennes kinder. — 🇨🇳 眼泪顺着她的脸颊流下来。
 
 ## 词族 / 同义 / 反义 (Relations)
 

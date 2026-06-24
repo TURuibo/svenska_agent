@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Soppan är för salt, jag dricker vatten. — 🇨🇳 汤太咸了，我喝点水。
+- 🇸🇪 Havet är salt. — 🇨🇳 海水是咸的。
+- 🇸🇪 Maten smakar salt och gott. — 🇨🇳 这道菜味道咸咸的，很好吃。
 
 ## 词族 / 同义 / 反义 (Relations)
 

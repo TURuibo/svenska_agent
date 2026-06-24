@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag slog armbågen i bordet. — 🇨🇳 我把手肘撞到了桌子上。
+- 🇸🇪 Han böjer armbågen när han lyfter. — 🇨🇳 他举重时弯曲手肘。
+- 🇸🇪 Min armbåge gör ont efter träningen. — 🇨🇳 训练后我的手肘很痛。
 
 ## 词族 / 同义 / 反义 (Relations)
 

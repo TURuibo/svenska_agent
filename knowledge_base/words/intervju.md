@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag har en intervju på jobbet imorgon. — 🇨🇳 我明天有一个工作面试。
+- 🇸🇪 Journalisten gör en intervju med presidenten. — 🇨🇳 记者对总统进行采访。
+- 🇸🇪 Hon var nervös inför sin första jobbintervju. — 🇨🇳 她在第一次求职面试前很紧张。
 
 ## 词族 / 同义 / 反义 (Relations)
 

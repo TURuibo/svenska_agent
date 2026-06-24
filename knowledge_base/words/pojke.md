@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är en liten pojke med blå ögon. — 🇨🇳 这是一个蓝眼睛的小男孩。
+- 🇸🇪 Pojkarna spelar fotboll efter skolan. — 🇨🇳 男孩们放学后踢足球。
+- 🇸🇪 Pojken heter Erik och är åtta år. — 🇨🇳 这个男孩叫Erik，八岁。
 
 ## 词族 / 同义 / 反义 (Relations)
 

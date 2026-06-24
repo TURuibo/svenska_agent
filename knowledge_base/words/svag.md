@@ -45,7 +45,9 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han kände sig svag efter sjukdomen. — 🇨🇳 生病后他感觉很虚弱。
+- 🇸🇪 Signalen är svag här inne, jag kan knappt ringa. — 🇨🇳 里面的信号很弱，我几乎打不了电话。
+- 🇸🇪 Jag är svag för choklad — jag kan inte sluta äta. — 🇨🇳 我对巧克力没有抵抗力——我停不下来。
 
 ## 词族 / 同义 / 反义 (Relations)
 

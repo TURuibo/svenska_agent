@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag äter varm soppa till lunch. — 🇨🇳 我午饭吃热汤。
+- 🇸🇪 Mamma lagar tomatsoppa till middag. — 🇨🇳 妈妈做番茄汤当晚饭。
+- 🇸🇪 Soppan luktar gott och smakar bra. — 🇨🇳 这汤闻起来香，喝起来也好喝。
 
 ## 词族 / 同义 / 反义 (Relations)
 

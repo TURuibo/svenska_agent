@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon hade ont i höften efter långa promenaden. — 🇨🇳 长时间散步后她髋部疼痛。
+- 🇸🇪 Gamla människor kan få höftfraktur när de faller. — 🇨🇳 老人跌倒时可能发生髋骨骨折。
+- 🇸🇪 Han lade händerna på höfterna. — 🇨🇳 他把手放在髋部。
 
 ## 词族 / 同义 / 反义 (Relations)
 

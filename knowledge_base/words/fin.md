@@ -45,7 +45,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Du har en fin jacka! — 🇨🇳 你的夹克真好看！
+- 🇸🇪 Det är ett fint väder idag. — 🇨🇳 今天天气真好。
+- 🇸🇪 Hon köpte fina kläder till festen. — 🇨🇳 她为派对买了漂亮的衣服。
 
 ## 词族 / 同义 / 反义 (Relations)
 

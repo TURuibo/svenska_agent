@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag äter en smörgås med ost till frukost. — 🇨🇳 我早餐吃一片奶酪三明治。
+- 🇸🇪 Kan du köpa ost i affären? — 🇨🇳 你能去商店买奶酪吗？
+- 🇸🇪 Hon lägger riven ost på pastan. — 🇨🇳 她在意面上撒了磨碎的奶酪。
 
 ## 词族 / 同义 / 反义 (Relations)
 

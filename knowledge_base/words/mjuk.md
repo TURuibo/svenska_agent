@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det här brödet är mjukt och gott. — 🇨🇳 这个面包又软又好吃。
+- 🇸🇪 Katten har mjuk päls. — 🇨🇳 猫有柔软的毛。
+- 🇸🇪 Kudden är väldigt mjuk att sova på. — 🇨🇳 这个枕头睡起来非常柔软。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns en liten björkdunge vid sjön. — 🇨🇳 湖边有一小片桦树林。
+- 🇸🇪 Vi satte oss i skuggan i dungen. — 🇨🇳 我们坐在树丛的阴凉处。
+- 🇸🇪 Fåglarna sjunger i dungen varje morgon. — 🇨🇳 鸟儿每天早上在树丛里歌唱。
 
 ## 词族 / 同义 / 反义 (Relations)
 
