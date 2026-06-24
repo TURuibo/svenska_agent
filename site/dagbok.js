@@ -696,7 +696,9 @@
     if (n.cefr) meta.push(`CEFR ${escapeHtml(String(n.cefr))}`);
     if (n.zh) meta.push(`🇨🇳 ${escapeHtml(String(n.zh))}`);
     if (n.en) meta.push(`🇬🇧 ${escapeHtml(String(n.en))}`);
-    const metaHtml = meta.length ? `<div class="peekMeta">${meta.join(' · ')}</div>` : '';
+    const speak = (window.SvSpeak && window.SvSpeak.supported && ['word', 'phrase', 'sentence'].includes(n.type))
+      ? window.SvSpeak.buttonHtml(frontText(n)) + ' ' : '';
+    const metaHtml = (speak || meta.length) ? `<div class="peekMeta">${speak}${meta.join(' · ')}</div>` : '';
     // If this item came from a source with a readable Läsning article, offer a
     // jump to read the original (with 中文), carrying a back-anchor to its day.
     let readHtml = '';
@@ -790,12 +792,14 @@
     }
     const n = flashDeck[flashPos];
     const long = String(frontText(n)).length > 20;
+    const speak = (window.SvSpeak && window.SvSpeak.supported && ['word', 'phrase', 'sentence'].includes(n.type))
+      ? window.SvSpeak.buttonHtml(frontText(n)) : '';
     flashFront.innerHTML =
       `<div class="flashTypeChip">${TYPE_LABELS[n.type] || n.type}</div>` +
-      `<div class="flashTerm ${long ? 'flashTermSmall' : ''}">${escapeHtml(frontText(n))}</div>` +
+      `<div class="flashTerm ${long ? 'flashTermSmall' : ''}">${escapeHtml(frontText(n))}${speak}</div>` +
       `<div class="flashHintBack">点击或按空格看翻译</div>`;
     flashBack.innerHTML =
-      `<div class="flashTerm">${escapeHtml(frontText(n))}</div>` + backHtml(n);
+      `<div class="flashTerm">${escapeHtml(frontText(n))}${speak}</div>` + backHtml(n);
     flashFlipped = false;
     flashFront.hidden = false;
     flashBack.hidden = true;

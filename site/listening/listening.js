@@ -160,6 +160,11 @@
       texts.appendChild(zh);
       li.appendChild(time);
       li.appendChild(texts);
+      // 🔊 read this single line via sv-SE TTS — works for precise repetition and
+      // as a fallback when the SVT media URL has expired (audio no longer plays).
+      if (window.SvSpeak && window.SvSpeak.supported && cue.sv) {
+        li.insertAdjacentHTML('beforeend', window.SvSpeak.buttonHtml(cue.sv, 'cueSpeak'));
+      }
       transcriptEl.appendChild(li);
       state.cueEls.push(li);
     });
@@ -185,8 +190,10 @@
     items.forEach(function (it) {
       var li = document.createElement('li');
       li.className = 'vocabItem';
+      var spk = (window.SvSpeak && window.SvSpeak.supported && it[headwordKey])
+        ? window.SvSpeak.buttonHtml(it[headwordKey]) : '';
       li.innerHTML =
-        headwordHtml(it[headwordKey], it.slug) +
+        headwordHtml(it[headwordKey], it.slug) + spk +
         (it[labelKey] ? '<span class="vPos">' + escapeHtml(it[labelKey]) + '</span>' : '') +
         '<span class="vZh">' + escapeHtml(it.zh || '') + '</span>' +
         (it.en ? '<span class="vEn">' + escapeHtml(it.en) + '</span>' : '');
