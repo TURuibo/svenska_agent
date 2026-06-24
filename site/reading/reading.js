@@ -756,7 +756,10 @@
     });
     renderLearnPanel();
   }
-  if (learnBtn) learnBtn.addEventListener('click', openLearnQueue);
+  // stopPropagation so this opening click doesn't bubble to the document-level
+  // "click outside → closePop" handler (which would shut the panel in the same
+  // tick — the button isn't inside .vocabPop, so it'd be treated as an outside click).
+  if (learnBtn) learnBtn.addEventListener('click', (e) => { e.stopPropagation(); openLearnQueue(); });
   renderLearnBtn();
 
   // ---------- init ----------
