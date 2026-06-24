@@ -136,28 +136,19 @@
   let vocabOn = (() => { try { return localStorage.getItem(LS_VOCAB) !== '0'; } catch (_e) { return true; } })();
 
   // 查词模式 (lookup mode): when on, every Swedish word with NO KB note becomes
-  // tappable too — tapping opens a search over the in-memory `vocab` so the
-  // learner can find the KB note this surface really belongs to and queue a
-  // permanent link (written back via /link-forms). Default off so plain reading
-  // stays uncluttered. The link queue (surface → KB slug) lives in localStorage.
+  // tappable too — tapping opens a read-only search over the in-memory `vocab`
+  // so the learner can see whether the KB already has the word. If it doesn't,
+  // the card offers 想学 (queue it for /learn). Default off so plain reading
+  // stays uncluttered.
   const LS_LOOKUP = 'lasning.lookupmode.v1';
   let lookupMode = (() => { try { return localStorage.getItem(LS_LOOKUP) === '1'; } catch (_e) { return false; } })();
 
-  const LS_LINKQ = 'lasning.linkqueue.v1';
-  function loadQueue() {
-    try { const a = JSON.parse(localStorage.getItem(LS_LINKQ) || '[]'); return Array.isArray(a) ? a : []; }
-    catch (_e) { return []; }
-  }
-  function saveQueue() { try { localStorage.setItem(LS_LINKQ, JSON.stringify(linkQueue)); } catch (_e) {} }
-  let linkQueue = loadQueue();   // [{ surface, slug, lemma }]
-
   // 想学清单 (learn queue): words the learner searched for but the KB does NOT
   // have yet. A static page can't run the swedish-dictionary skill or hit the
-  // web, so — exactly like the link queue above — it just accumulates the words
-  // and hands back a ready-to-paste `/learn …` command. Paste it into Claude
-  // Code; CC does the real lookup and stores the note, so on the next build the
-  // word shows up here as a normal KB word. This is the "let CC search for me"
-  // bridge for words the KB simply doesn't have yet.
+  // web, so it just accumulates the words and hands back a ready-to-paste
+  // `/learn …` command. Paste it into Claude Code; CC does the real lookup and
+  // stores the note, so on the next build the word shows up here as a normal KB
+  // word. This is the "let CC search for me" bridge for words the KB lacks.
   const LS_LEARNQ = 'lasning.learnqueue.v1';
   function loadLearnQueue() {
     try { const a = JSON.parse(localStorage.getItem(LS_LEARNQ) || '[]'); return Array.isArray(a) ? a : []; }
@@ -297,7 +288,7 @@
 
   // Mount an empty popover shell (desktop side panel / mobile bottom sheet),
   // wire its backdrop + scroll-lock, and return it. Callers fill .innerHTML.
-  // Shared by the glossary card, the 查词 lookup card, and the 链接清单 panel.
+  // Shared by the glossary card, the 查词 lookup card, and the 想学 panel.
   function mountPop(extraClass, onClick) {
     closePop();
     popEl = document.createElement('div');
@@ -408,13 +399,15 @@
     return hits.slice(0, 30).map((h) => h.v);
   }
 
-  function lookupResultRowHtml(v, surface) {
+  // Read-only KB hit: shows whether (something like) this word is already in the
+  // KB and its gloss. No action button — if it's not the right word, the learner
+  // queues it for /learn via the 想学 footer below.
+  function lookupResultRowHtml(v) {
     const meta = [];
     if (v.ordklass) meta.push(escapeHtml(v.ordklass));
     if (v.cefr) meta.push(escapeHtml(v.cefr));
     if (v.known) meta.push('✓');
     const gloss = [v.zh, v.en].filter(Boolean).map(escapeHtml).join(' · ');
-    const queued = linkQueue.some((q) => q.slug === v.slug && q.surface.toLowerCase() === surface.toLowerCase());
     return (
       `<div class="lookupResult">` +
         `<div class="lookupResultText">` +
@@ -424,37 +417,8 @@
           `</div>` +
           (gloss ? `<div class="lookupResultGloss">🇨🇳 ${gloss}</div>` : '') +
         `</div>` +
-        `<button type="button" class="lookupLinkBtn${queued ? ' queued' : ''}" data-slug="${escapeHtml(v.slug)}"${queued ? ' disabled' : ''}>` +
-          (queued ? '✓ 已加入' : '🔗 链接') +
-        `</button>` +
       `</div>`
     );
-  }
-
-  // Queue a surface → KB-word link, and give instant feedback: register the
-  // surface in the live index and promote any visible occurrences into working
-  // glossary chips right away (the permanent write happens later via /link-forms).
-  function confirmLink(surface, v) {
-    const key = surface.toLowerCase();
-    if (!linkQueue.some((q) => q.slug === v.slug && q.surface.toLowerCase() === key)) {
-      linkQueue.push({ surface, slug: v.slug, lemma: v.lemma });
-      saveQueue();
-      renderLinkBtn();
-    }
-    if (!vocabIndex.has(key)) vocabIndex.set(key, v);
-    if (!(v.forms || []).some((f) => (f || '').toLowerCase() === key)) (v.forms = v.forms || []).push(surface);
-    promoteLookupWords(key, v);
-  }
-
-  function promoteLookupWords(surfaceKey, entry) {
-    const bodyEl = viewEl.querySelector('.articleBody');
-    if (!bodyEl) return;
-    bodyEl.querySelectorAll('.lookupWord').forEach((el) => {
-      if ((el.textContent || '').toLowerCase() === surfaceKey) {
-        el.className = 'vocabWord' + (entry.known ? ' known' : '');
-        el.dataset.slug = entry.slug;
-      }
-    });
   }
 
   function openLookup(span) {
@@ -466,7 +430,7 @@
         `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
         `<div class="lookupTitle">🔍 在 KB 里查找 <b>${escapeHtml(surface)}</b></div>` +
         `<input type="search" class="lookupInput" autocomplete="off" placeholder="瑞典语 / 中文 / 英文…" />` +
-        `<div class="lookupHint">找到正确的词 → 「🔗 链接」把 <b>${escapeHtml(surface)}</b> 永久接到它。没找到？说明 KB 里确实还没有。</div>` +
+        `<div class="lookupHint">看看 KB 里有没有这个词。没有的话 → 「➕ 想学」加进清单，回 Claude Code 跑 <code>/learn</code> 查词入库。</div>` +
       `</div>` +
       `<div class="lookupResults"></div>`;
     const input = popEl.querySelector('.lookupInput');
@@ -497,7 +461,7 @@
         return;
       }
       resultsEl.innerHTML =
-        hits.map((v) => lookupResultRowHtml(v, surface)).join('') +
+        hits.map((v) => lookupResultRowHtml(v)).join('') +
         learnFooterHtml('都不对？这词 KB 可能还没有：');
     }
     input.value = surface;
@@ -505,13 +469,7 @@
     resultsEl.addEventListener('click', (e) => {
       if (e.target.closest('.learnAddBtn')) { addLearn(surface); renderResults(); return; }
       const copy = e.target.closest('.learnCopyBtn');
-      if (copy) { copyToClipboard('/learn ' + surface, copy, '📋 复制 /learn'); return; }
-      const btn = e.target.closest('.lookupLinkBtn');
-      if (!btn || btn.disabled) return;
-      const v = vocabBySlug.get(btn.dataset.slug);
-      if (!v) return;
-      confirmLink(surface, v);
-      renderResults();
+      if (copy) copyToClipboard('/learn ' + surface, copy, '📋 复制 /learn');
     });
     renderResults();
     setTimeout(() => { try { input.focus(); input.select(); } catch (_e) {} }, 50);
@@ -720,80 +678,9 @@
     });
   }
 
-  // 链接清单 — the queued surface → KB-word links, with a ready-to-paste
-  // /link-forms command for writing them back permanently.
-  const linkBtn = document.getElementById('openLinkQueue');
-  function renderLinkBtn() {
-    if (!linkBtn) return;
-    linkBtn.textContent = '🔗 链接清单' + (linkQueue.length ? ' (' + linkQueue.length + ')' : '');
-    linkBtn.classList.toggle('active', linkQueue.length > 0);
-  }
-  function linkCommandText() {
-    const bySlug = new Map();
-    for (const q of linkQueue) {
-      if (!bySlug.has(q.slug)) bySlug.set(q.slug, []);
-      const arr = bySlug.get(q.slug);
-      if (!arr.some((f) => f.toLowerCase() === q.surface.toLowerCase())) arr.push(q.surface);
-    }
-    const lines = ['/link-forms'];
-    for (const [slug, forms] of bySlug) lines.push(`${slug}: ${forms.join(', ')}`);
-    return lines.join('\n');
-  }
-  function renderQueuePanel() {
-    if (!popEl) return;
-    const header =
-      `<div class="vocabPopHeader">` +
-        `<span class="vocabPopGrip" aria-hidden="true"></span>` +
-        `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
-        `<div class="lookupTitle">🔗 待链接清单</div>` +
-        `<div class="lookupHint">回 Claude Code 粘贴下面的命令跑 <code>/link-forms</code>，把这些形式永久写进词笔记；<code>/sync</code> 推送后阅读站全局生效。</div>` +
-      `</div>`;
-    if (!linkQueue.length) {
-      popEl.innerHTML = header +
-        `<div class="linkQueueBody"><p class="lookupEmpty">还没有待链接的词。开启 🔍 查词，点正文里没链接、但其实 KB 已有的词。</p></div>`;
-      return;
-    }
-    const rows = linkQueue.map((q, i) =>
-      `<div class="linkQueueRow">` +
-        `<span class="lqSurface">${escapeHtml(q.surface)}</span>` +
-        `<span class="lqArrow">→</span>` +
-        `<span class="lqLemma">${escapeHtml(q.lemma)}</span>` +
-        `<button type="button" class="linkQueueRemove" data-i="${i}" aria-label="移除">✕</button>` +
-      `</div>`).join('');
-    popEl.innerHTML = header +
-      `<div class="linkQueueBody">` +
-        rows +
-        `<pre class="linkQueueCmd">${escapeHtml(linkCommandText())}</pre>` +
-        `<div class="linkQueueActions">` +
-          `<button type="button" class="viewBtn linkQueueCopy">📋 复制命令</button>` +
-          `<button type="button" class="viewBtn linkQueueClear">清空</button>` +
-        `</div>` +
-      `</div>`;
-  }
-  function openLinkQueue() {
-    mountPop('linkQueuePop', (e) => {
-      if (e.target.closest('.vocabPopClose')) { closePop(); return; }
-      const rm = e.target.closest('.linkQueueRemove');
-      if (rm) {
-        linkQueue.splice(Number(rm.dataset.i), 1);
-        saveQueue(); renderLinkBtn(); renderQueuePanel();
-        return;
-      }
-      if (e.target.closest('.linkQueueClear')) {
-        linkQueue = []; saveQueue(); renderLinkBtn(); renderQueuePanel();
-        return;
-      }
-      const copy = e.target.closest('.linkQueueCopy');
-      if (copy) copyToClipboard(linkCommandText(), copy, '📋 复制命令');
-    });
-    renderQueuePanel();
-  }
-  if (linkBtn) linkBtn.addEventListener('click', openLinkQueue);
-  renderLinkBtn();
-
   // 想学清单 — words the KB doesn't have yet, batched into one /learn command so
   // Claude Code can do the real lookup (swedish-dictionary skill + web) and store
-  // them. Mirrors the link-queue panel above; reuses the same row/cmd styling.
+  // them.
   const learnBtn = document.getElementById('openLearnQueue');
   function renderLearnBtn() {
     if (!learnBtn) return;
@@ -811,19 +698,19 @@
       `</div>`;
     if (!learnQueue.length) {
       popEl.innerHTML = header +
-        `<div class="linkQueueBody"><p class="lookupEmpty">还没有想学的新词。开启 🔍 查词，点正文里 KB 还没有的词，在卡片里选「➕ 想学」。</p></div>`;
+        `<div class="learnQueueBody"><p class="lookupEmpty">还没有想学的新词。开启 🔍 查词，点正文里 KB 还没有的词，在卡片里选「➕ 想学」。</p></div>`;
       return;
     }
     const rows = learnQueue.map((w, i) =>
-      `<div class="linkQueueRow">` +
-        `<span class="lqSurface">${escapeHtml(w)}</span>` +
-        `<button type="button" class="linkQueueRemove learnQueueRemove" data-i="${i}" aria-label="移除">✕</button>` +
+      `<div class="learnQueueRow">` +
+        `<span class="learnSurface">${escapeHtml(w)}</span>` +
+        `<button type="button" class="learnQueueRemove" data-i="${i}" aria-label="移除">✕</button>` +
       `</div>`).join('');
     popEl.innerHTML = header +
-      `<div class="linkQueueBody">` +
+      `<div class="learnQueueBody">` +
         rows +
-        `<pre class="linkQueueCmd">${escapeHtml(learnCommandText())}</pre>` +
-        `<div class="linkQueueActions">` +
+        `<pre class="learnQueueCmd">${escapeHtml(learnCommandText())}</pre>` +
+        `<div class="learnQueueActions">` +
           `<button type="button" class="viewBtn learnQueueCopy">📋 复制命令</button>` +
           `<button type="button" class="viewBtn learnQueueClear">清空</button>` +
         `</div>` +
