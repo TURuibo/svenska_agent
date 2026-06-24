@@ -50,8 +50,8 @@ type, CEFR band and delprov. If type is `auto`, pick the type that best fits the
 - Personal experience, narrative, self-presentation → `story` (berättelse, monolog)
 
 **Register (SKILL §2c):** formal/argumentative genres (insändare, debattinlägg, formellt brev, referat,
-felanmälan) use a polite, written, B1–B2 register with clear structure (tes/ärende → argument/innehåll →
-avslutning/signatur) — do NOT flatten them to A1. Functional notices/ads/schemas stay terse at A2.
+felanmälan) use a polite, written register with clear structure (tes/ärende → argument/innehåll →
+avslutning/signatur), but keep vocabulary and sentences **simple (A2–B1)**, avoid B2. Functional notices/ads/schemas stay terse at A2.
 For **non-running text** (blankett, schema, diagram) follow SKILL §2b: render fields + instruction lines,
 and only put complete instruction sentences in `sentences:`.
 

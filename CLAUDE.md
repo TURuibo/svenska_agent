@@ -339,7 +339,7 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 
 每天生成一篇 **SFI 风格的瑞典语 lättläst 阅读文章**，体裁**按 day-of-year 轮换**，让阅读素材多样
 （不只是传记）。仿 KB 里 [[source-2026-06-02-astrid-lindgren]] / [[source-2026-06-09-zlatan-bio]] 那种短句、
-A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` 导入块）与 `/scenario`、`/dagens-nyheter` 一致。
+A1–A2 的读物。素材两段式格式（可读正文 + `svensk-export v1` 导入块）与 `/scenario`、`/dagens-nyheter` 一致。
 
 - `/dagens-artikel [YYYY-MM-DD] [genre 0-7]` — 命令 `.claude/commands/dagens-artikel.md`：按
   `INDEX = day-of-year mod 8` 选体裁 → **查重**（不重复已入库题材）→ `WebSearch`/`WebFetch` 查**真实事实**

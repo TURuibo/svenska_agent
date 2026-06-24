@@ -48,6 +48,7 @@ allowed-tools: WebFetch, WebSearch, Read, Write, Bash
 - 抽取学习项，**全部用 grundform**，分类遵循 `swedish-dictionary` / `swedish-phrases` / `swedish-grammar`：
   - **生词** 10–15 个：`lemma`(grundform，作 KB slug 用) + 显示形 `sv` + `pos` + `zh` + `en`。
     显示形可保留字幕里的形态(如 `akuten`)，但 `lemma` 必须是基础形(`akut`)。
+    **选词偏向 A1–A2 常用词**：优先选日常高频词和初学者必备表达；B1+ 低频词/专业术语可少量保留但不必全选。
   - **词组** 3–6 个：`lemma`(grundform) + `sv` + `category` + `zh` + `en`。
   - **语法** 1–3 个：`name`/`lemma` + `zh` + `en`。
 

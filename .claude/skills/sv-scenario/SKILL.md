@@ -55,9 +55,9 @@ description: >
 **对话/口语类 (dialog — Tala/Höra)**
 - `vardagssamtal` 服务场景对话（商店 / 医院 / 工作）— A2–B1
 - `telefonsamtal` 电话预约 / 取消 / 改约 — A2
-- `intervju-arbete` **求职面试**（角色扮演 rollspel）— B1 ⭐
-- `intervju-portratt` 报刊 / 人物专访（Q&A 作阅读文本）— B1–B2 ⭐
-- `diskussion` 双人讨论 / 班级辩论（陈述 + 反驳观点，达成一致）— B1 ⭐
+- `intervju-arbete` **求职面试**（角色扮演 rollspel）— A2–B1 ⭐
+- `intervju-portratt` 报刊 / 人物专访（Q&A 作阅读文本）— A2–B1 ⭐
+- `diskussion` 双人讨论 / 班级辩论（陈述 + 反驳观点，达成一致）— A2–B1 ⭐
 - `presentation` 口头陈述 + 小组讨论（delprov A）— A2–B1
 
 **功能性 / 信息性文本 (text — Läsa/Skriva, A2–B1)**
@@ -73,17 +73,17 @@ description: >
 - `notis` · `nyhetsartikel` 简讯 / 新闻报道（rubrik + ingress + brödtext，答 vem/vad/när/var/varför）
 - `nyhetsinslag` 简短新闻 / 天气预报（Höra 听力脚本）
 
-**正式 / 论说 / 书面产出 (text — Skriva, B1–B2 进阶)**
-- `formellt-brev` 致政府 / 企业 / 学校的正式信函（mottagaranpassning、niande、明确 ärende）
-- `felanmalan` 报修 / 退换货 reklamation / 投诉（问题描述 + 期望处理 önskad åtgärd）
-- `insandare` 读者来信（短论说：presentera ämne → argument → förslag → uppmaning → 署名）— B1
-- `debattartikel` 辩论文章 / 辩论帖（tes + 论据 + 反驳 motargument）— B1–B2
-- `kronika` 专栏随笔（个人反思 jag-perspektiv，由日常引向更大主题）— B1
-- `recension` 评论（电影 / 书 / 餐厅：referat + 主观 omdöme）— B1
-- `referat` 客观转述 / 摘要（referatmarkörer + källhänvisning，无个人观点）— B1–B2
-- `faktatext` 事实文 / 说明性长文（rubrik + stycken）— B1
-- `utredande` 论述文 / PM（多源 källhänvisning + 结论）— B2（aspirational，每月最多 1 篇）
-- `blankett` 表格 / 申请表（填写；非连续文本，见 §2b）— A2–B1
+**正式 / 论说 / 书面产出 (text — Skriva, A2–B1，用简单词汇写)**
+- `formellt-brev` 致政府 / 企业 / 学校的正式信函（mottagaranpassning、niande、明确 ärende）— A2–B1
+- `felanmalan` 报修 / 退换货 reklamation / 投诉（问题描述 + 期望处理 önskad åtgärd）— A2–B1
+- `insandare` 读者来信（短论说：presentera ämne → argument → förslag → uppmaning → 署名）— A2–B1
+- `debattartikel` 辩论文章 / 辩论帖（tes + 论据 + 反驳 motargument）— A2–B1
+- `kronika` 专栏随笔（个人反思 jag-perspektiv，由日常引向更大主题）— A2–B1
+- `recension` 评论（电影 / 书 / 餐厅：referat + 主观 omdöme）— A2–B1
+- `referat` 客观转述 / 摘要（referatmarkörer + källhänvisning，无个人观点）— A2–B1
+- `faktatext` 事实文 / 说明性长文（rubrik + stycken）— A2–B1
+- `utredande` 论述文 / PM（多源 källhänvisning + 结论）— B1（上限，每月最多 1 篇）
+- `blankett` 表格 / 申请表（填写；非连续文本，见 §2b）— A2
 
 **叙述类 (story — Läsa/Skriva)**
 - `berattelse` 记叙文 / 短篇（inledning–konflikt–avslutning，可留 oväntat slut）— A2–B1
@@ -100,7 +100,7 @@ har öppet till klockan 19 på torsdagar."），不要把表格字段硬拆成�
 ### 2c. 语域提醒 (register)
 
 - **正式 / 论说体裁**（formellt-brev、insandare、debattartikel、referat、utredande、felanmalan）用书面、
-  礼貌、niande 语域，结构清晰（tes/ärende → 论据/内容 → 结尾/署名），CEFR 偏 B1–B2，**不要降到 A1**。
+  礼貌、niande 语域，结构清晰（tes/ärende → 论据/内容 → 结尾/署名），CEFR 以 **A2–B1** 为主，词汇和句式尽量简单，**避免 B2**。
 - **功能性体裁**（anslag、annons、schema、blankett、notis）用简洁、要点式语域，A2 即可。
 - **对话体裁**用自然口语；面试 / 辩论比闲聊正式半档。
 
@@ -108,11 +108,11 @@ har öppet till klockan 19 på torsdagar."），不要把表格字段硬拆成�
 
 ## 3. 水平/语域规则 (Level & Register Rule)
 
-### 3a. 以情景所需为准，不强制降级
+### 3a. 以 A1–A2 为主，适量 B1 可接受，避免 B2
 
-文本的语域（register）和词汇复杂度由情景本身决定。  
-- 例："邮件给房东"→ 正式书面语（B1–B2 词汇）；"问路"→ 日常口语（A2–B1）；"咖啡馆闲聊"→ 非正式（A1–A2）。  
-- 不强制把文本压到 A1——降低自然度的假瑞典语比稍难一点的真瑞典语更有害。
+文本整体水平以 **A1–A2** 为目标。语域（register）仍由情景决定，但词汇和句式要尽量简化：
+- 例："邮件给房东"→ 正式但简短的书面语（A2–B1 词汇）；"问路"→ 日常口语（A2）；"咖啡馆闲聊"→ 非正式（A1–A2）。
+- 论说/正式体裁允许适量 B1 词汇（如 `insändare`、`felanmälan`），但仍用**短句**、**常见词**为主，**避免 B2**。
 
 ### 3b. 查阅学习者档案，平衡新词与复习词
 
