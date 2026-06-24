@@ -332,6 +332,7 @@
         `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
         `<div class="vocabPopHead">` +
           `<span class="vocabPopLemma">${escapeHtml(entry.lemma)}</span>` +
+          (window.SvSpeak && window.SvSpeak.supported ? window.SvSpeak.buttonHtml(entry.lemma, 'vocabPopSpeak') : '') +
           (meta.length ? `<span class="vocabPopMeta">${meta.join('')}</span>` : '') +
         `</div>` +
         ((entry.zh || entry.en)
@@ -442,6 +443,7 @@
         `<div class="lookupResultText">` +
           `<div class="lookupResultMain">` +
             `<span class="lookupResultLemma">${escapeHtml(v.lemma)}</span>` +
+            (window.SvSpeak && window.SvSpeak.supported ? window.SvSpeak.buttonHtml(v.lemma) : '') +
             (meta.length ? `<span class="lookupResultMeta">${meta.join(' · ')}</span>` : '') +
           `</div>` +
           (gloss ? `<div class="lookupResultGloss">🇨🇳 ${gloss}</div>` : '') +
@@ -600,6 +602,57 @@
 
   // ---------- reading pane ----------
 
+  // Extract just the Swedish prose from a rendered article body, as an ordered
+  // list of sentences, for whole-article read-aloud. We skip the 🇨🇳 translation
+  // and 教学备注 sections (everything from the first such heading onward) and the
+  // heading labels themselves, so the sv-SE voice only reads actual Swedish text.
+  const HAS_CJK = /[㐀-鿿]/;   // any Chinese char ⇒ it's a translation/note, not Swedish
+  function articleSpeechParts(bodyEl) {
+    const parts = [];
+    const pushText = (raw) => {
+      let t = (raw || '').replace(/\s+/g, ' ').trim();
+      if (!t || HAS_CJK.test(t)) return;        // skip 🇨🇳 translation / mixed lines
+      t = t.replace(/[\u{1F1E6}-\u{1F1FF}]{2}/gu, '').trim();   // strip 🇸🇪 / 🇨🇳 flag markers
+      t = t.replace(/^[A-ZÅÄÖ]\s*:\s*/, '');    // drop dialog speaker labels ("A:", "B:")
+      if (!t) return;
+      t.split(/(?<=[.!?…])\s+/).forEach((s) => { const x = s.trim(); if (x) parts.push(x); });
+    };
+    for (const el of Array.from(bodyEl.children)) {
+      const tag = el.tagName.toLowerCase();
+      if (/^h[1-6]$/.test(tag)) {
+        if (/翻译|译文|中文|教学|备注|提示|笔记|notes/i.test(el.textContent || '')) break;
+        continue; // skip section-label headings ("瑞典语原文", news item titles, …)
+      }
+      if (el.getAttribute && el.getAttribute('data-zh') === '1') continue; // 🇨🇳 zone block
+      if (tag === 'pre' || tag === 'hr' || tag === 'table') continue;
+      if (tag === 'ul' || tag === 'ol') {
+        el.querySelectorAll('li').forEach((li) => pushText(li.textContent));
+        continue;
+      }
+      pushText(el.textContent);
+    }
+    return parts;
+  }
+
+  // Wire the 朗读全文 button: toggles sequential sv-SE playback of the article's
+  // Swedish sentences. Re-entrant (a second tap, or leaving the article, stops).
+  function setupReadAloud(slug) {
+    const btn = document.getElementById('readAloudBtn');
+    if (!btn) return;
+    const bodyEl = viewEl.querySelector('.articleBody');
+    const reset = () => { btn.classList.remove('on'); btn.textContent = '🔊 朗读全文'; };
+    btn.addEventListener('click', () => {
+      if (!window.SvSpeak) return;
+      if (window.SvSpeak.isSpeaking() && btn.classList.contains('on')) {
+        window.SvSpeak.cancel(); reset(); return;
+      }
+      const parts = bodyEl ? articleSpeechParts(bodyEl) : [];
+      if (!parts.length) { btn.textContent = '（无瑞典语正文）'; setTimeout(reset, 1500); return; }
+      const ok = window.SvSpeak.speakSequence(parts, { onend: reset, onerror: reset });
+      if (ok) { btn.classList.add('on'); btn.textContent = '⏹ 停止朗读'; }
+    });
+  }
+
   function openArticle(slug) {
     const a = articles.find((x) => x.slug === slug);
     if (!a) return;
@@ -625,6 +678,8 @@
         (a.cefr ? `<span class="viewCefr">${escapeHtml(a.cefr)}</span>` : '') +
         (a.date ? `<span class="viewDate">${escapeHtml(a.date)}</span>` : '') +
         `<span class="viewSpacer"></span>` +
+        ((window.SvSpeak && window.SvSpeak.supported && a.kind !== 'adjsubst')
+          ? `<button type="button" id="readAloudBtn" class="viewBtn" title="用瑞典语朗读全文（只读瑞典语，跳过翻译/备注）">🔊 朗读全文</button>` : '') +
         `<button type="button" id="markReadBtn" class="viewBtn${read ? ' on' : ''}">${read ? '✓ 已读' : '标为已读'}</button>` +
       `</div>` +
       (countBits.length ? `<p class="viewCounts">📚 ${countBits.join(' · ')}</p>` : '') +
@@ -640,6 +695,8 @@
     // Turn KB words in the freshly rendered text into clickable glossary chips.
     // When 查词模式 is on, also make the remaining (non-KB) words tappable.
     closePop();
+    if (window.SvSpeak) window.SvSpeak.cancel();  // stop any read-aloud from the previous article
+    setupReadAloud(slug);
     const bodyEl = viewEl.querySelector('.articleBody');
     if (bodyEl) {
       linkifyVocab(bodyEl);

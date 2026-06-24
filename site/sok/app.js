@@ -85,6 +85,8 @@
       .map((n, i) => {
         const meta = [plain(n.ordklass), plain(n.cefr), plain(n.zh), plain(n.en)].filter(Boolean).join(" · ");
         const known = n.known === true ? `<span class="badge knownBadge">✅ 已掌握</span>` : "";
+        const speak = (window.SvSpeak && window.SvSpeak.supported && ["word", "phrase", "sentence"].includes(n.type))
+          ? window.SvSpeak.buttonHtml(plain(n.lemma) || titleFor(n)) : "";
         const cls = ["resultItem"];
         if (i === state.activeIndex) cls.push("kbActive");
         if (n.slug === state.selectedSlug) cls.push("active");
@@ -92,7 +94,7 @@
           <button class="${cls.join(" ")}" type="button" data-slug="${esc(n.slug)}" data-index="${i}">
             <span class="resultTopline">
               <span class="resultTitle">${highlight(titleFor(n), ts)}</span>
-              <span class="resultBadges">${known}${typeBadge(n.type)}</span>
+              <span class="resultBadges">${speak}${known}${typeBadge(n.type)}</span>
             </span>
             ${meta ? `<span class="resultMeta">${highlight(meta, ts)}</span>` : ""}
             ${n.excerpt ? `<span class="resultExcerpt">${highlight(n.excerpt, ts)}</span>` : ""}
@@ -135,12 +137,14 @@
       if (t) badges.push(`<span>${esc(k)}: ${esc(t)}</span>`);
     }
     const gloss = [plain(n.zh), plain(n.en)].filter(Boolean).join("  ·  ");
+    const speak = (window.SvSpeak && window.SvSpeak.supported && ["word", "phrase", "sentence"].includes(n.type))
+      ? window.SvSpeak.buttonHtml(plain(n.lemma) || titleFor(n)) : "";
 
     els.note.innerHTML = `
       <button class="backBar" type="button" id="backBtn">← 返回结果 Back</button>
       <header class="detailHeader">
         <p class="eyebrow">${typeBadge(n.type)} <span class="detailPath" id="notePath"></span></p>
-        <h2 tabindex="-1">${esc(titleFor(n))}</h2>
+        <h2 tabindex="-1">${esc(titleFor(n))}${speak}</h2>
         ${gloss ? `<p class="detailGloss">${esc(gloss)}</p>` : ""}
         ${badges.length ? `<div class="metadata">${badges.join("")}</div>` : ""}
       </header>
