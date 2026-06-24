@@ -291,4 +291,16 @@
       : '暂无节目';
   }
   renderList();
+
+  // A headword links to its KB note. If the shared store (kb-store.js) is loaded,
+  // open the note in the in-place popover so the audio keeps playing; otherwise
+  // the href falls back to opening Sök in a new tab.
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a.vLink');
+    if (!a || !window.KB) return;
+    var m = (a.getAttribute('href') || '').match(/#note=([^&]+)/);
+    if (!m) return;
+    var slug = decodeURIComponent(m[1]);
+    if (window.KB.bySlug.has(slug)) { e.preventDefault(); window.KB.openNote(slug); }
+  });
 })();
