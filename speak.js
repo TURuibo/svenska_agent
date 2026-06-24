@@ -20,13 +20,30 @@
   // Voices load asynchronously in most browsers; cache the best Swedish match
   // and refresh it when the list arrives (voiceschanged).
   let svVoice = null;
+
+  // Is this a Swedish voice? Match by BCP-47 lang (sv, sv-SE, sv_SE) or, as a
+  // fallback, by a name that mentions Swedish/Sweden (some engines mislabel lang).
+  function isSwedish(v) {
+    const lang = (v.lang || '').toLowerCase();
+    if (lang === 'sv' || lang.startsWith('sv-') || lang.startsWith('sv_')) return true;
+    return /\bsvensk|swedish|sweden\b/i.test(v.name || '');
+  }
+  // Quality score: prefer high-quality neural / cloud voices over the small
+  // built-in (eSpeak-ish) ones. Higher = better.
+  function voiceScore(v) {
+    let s = 0;
+    if ((v.lang || '').toLowerCase() === 'sv-se') s += 4;       // exact sv-SE
+    if (/neural|natural/i.test(v.name || '')) s += 6;           // MS/Google neural
+    if (/google|microsoft/i.test(v.name || '')) s += 3;
+    if (v.localService === false) s += 2;                       // cloud voice, usually better
+    if (/multilingual/i.test(v.name || '')) s += 1;
+    return s;
+  }
   function pickVoice() {
     if (!supported) return null;
-    const voices = synth.getVoices() || [];
-    svVoice =
-      voices.find((v) => /^sv[-_]SE$/i.test(v.lang)) ||
-      voices.find((v) => /^sv\b/i.test(v.lang) || /^sv[-_]/i.test(v.lang)) ||
-      null;
+    const sv = (synth.getVoices() || []).filter(isSwedish);
+    sv.sort((a, b) => voiceScore(b) - voiceScore(a));
+    svVoice = sv[0] || null;
     return svVoice;
   }
   if (supported) {
@@ -43,11 +60,45 @@
     return u;
   }
 
+  // True only when a real Swedish voice is installed. Without one, setting
+  // lang='sv-SE' just makes the browser read Swedish with an ENGLISH voice
+  // ("英音瑞典语") — worse than nothing for a learner, so we refuse + hint.
+  function hasSwedishVoice() {
+    if (!supported) return false;
+    if (!svVoice) pickVoice();
+    return !!svVoice;
+  }
+
+  // One-time, dismissible banner telling the user how to install a Swedish voice.
+  // Shown when they tap 🔊 but no sv-SE voice exists. sessionStorage guards it so
+  // it doesn't nag on every click within a session.
+  function showVoiceHint() {
+    try { if (sessionStorage.getItem('svSpeakHintDismissed') === '1') return; } catch (_e) {}
+    if (document.querySelector('.svSpeakHint')) return;
+    const div = document.createElement('div');
+    div.className = 'svSpeakHint';
+    div.innerHTML =
+      '<div class="svSpeakHintMsg">🔇 没有检测到<b>瑞典语语音</b>，无法朗读（否则会用英语音念瑞典语）。' +
+      '请在系统/浏览器里安装一个 sv-SE 语音：<br>' +
+      '· <b>Windows</b>：设置 → 时间和语言 → 语言 → 添加「Svenska」并安装语音；推荐用 <b>Edge</b>（自带高质量瑞典语神经语音）。<br>' +
+      '· <b>Mac</b>：系统设置 → 辅助功能 → 朗读内容 → 系统语音 → 管理语音 → 添加瑞典语（Alva/Klara）。<br>' +
+      '· <b>iPhone/iPad</b>：设置 → 辅助功能 → 朗读内容 → 声音 → 添加「瑞典语」。<br>' +
+      '· <b>Android</b>：安装/启用 Google 文字转语音的瑞典语语言包。<br>' +
+      '装好后<b>刷新本页</b>即可。</div>' +
+      '<button type="button" class="svSpeakHintClose">知道了</button>';
+    div.querySelector('.svSpeakHintClose').addEventListener('click', () => {
+      try { sessionStorage.setItem('svSpeakHintDismissed', '1'); } catch (_e) {}
+      div.remove();
+    });
+    document.body.appendChild(div);
+  }
+
   // Speak one short item (a word / phrase). Cancels anything in flight so rapid
-  // taps don't pile up.
+  // taps don't pile up. Refuses (and hints) when no real Swedish voice exists.
   function speak(text) {
     const t = (text || '').trim();
     if (!t || !supported) return false;
+    if (!hasSwedishVoice()) { showVoiceHint(); return false; }
     try {
       synth.cancel();
       synth.speak(makeUtterance(t));
@@ -70,6 +121,7 @@
   function speakSequence(parts, opts) {
     const list = (parts || []).map((s) => (s || '').trim()).filter(Boolean);
     if (!list.length || !supported) return false;
+    if (!hasSwedishVoice()) { showVoiceHint(); return false; }
     cancel();                 // stop anything already playing, bump token
     const token = runToken;   // capture; if it changes, abandon this run
     let i = 0;
@@ -133,5 +185,5 @@
     if (el) trigger(el, e);
   }, true);
 
-  window.SvSpeak = { speak, speakSequence, cancel, isSpeaking, buttonHtml, supported };
+  window.SvSpeak = { speak, speakSequence, cancel, isSpeaking, buttonHtml, supported, hasSwedishVoice };
 })();
