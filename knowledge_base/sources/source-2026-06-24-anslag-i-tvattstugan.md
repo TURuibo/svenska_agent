@@ -4,10 +4,10 @@ title: "Anslag i tvättstugan"
 kind: functional
 cefr: A2
 date_added: 2026-06-24
-words: []
-phrases: []
-sentences: []
-grammar: []
+words: [styrelse, påminna, avboka, torktumlare, luddfilter, vaktmästare, förståelse, entré]
+phrases: [till-och-med, senast-24-timmar-i-forvag, lämna-ren-och-städad, ta-med]
+sentences: [sent-boka-din-tid-i-bokningssystemet, sent-du-kan-boka-max, sent-avboka-senast-24-timmar, sent-lamna-tvattstugan-ren-och, sent-tom-luddfiltret-i-torktumlaren, sent-klader-som-lamnas-kvar-kastas]
+grammar: [grammar-imperativ-anslag, grammar-passiv-med-s]
 ---
 
 # 📄 Anslag i tvättstugan

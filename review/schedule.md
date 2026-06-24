@@ -8,6 +8,26 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-24-anslag-i-tvattstugan — 8词NEW / 4词组NEW / 6句NEW / 1语法NEW (2语法DUP: grammar-passiv-med-s, grammar-imperativ) —** | | | | | | |
+| [[styrelse]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[påminna]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[avboka]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[torktumlare]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[luddfilter]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[vaktmästare]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[förståelse]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[entré]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[till-och-med]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[senast-24-timmar-i-forvag]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[lämna-ren-och-städad]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[ta-med]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-imperativ-anslag]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-boka-din-tid-i-bokningssystemet]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-du-kan-boka-max]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-avboka-senast-24-timmar]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-lamna-tvattstugan-ren-och]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-tom-luddfiltret-i-torktumlaren]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-klader-som-lamnas-kvar-kastas]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | **— scenario-2026-06-23-debattinlagg-sociala-medier — 13词NEW / 5词组NEW / 9句NEW / 4语法NEW (1语法DUP) —** | | | | | | |
 | [[reglera]] | word | — | 0 | 2.5 | 2026-06-23 | no |
 | [[forskning]] | word | — | 0 | 2.5 | 2026-06-23 | no |
