@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag har ett par svarta byxor. — 🇨🇳 我有一条黑裤子。
+- 🇸🇪 Han tar på sig byxorna innan han går ut. — 🇨🇳 他出门前穿上裤子。
+- 🇸🇪 De blå byxorna passar bra till den vita skjortan. — 🇨🇳 蓝裤子和白衬衫很搭。
 
 ## 词族 / 同义 / 反义 (Relations)
 

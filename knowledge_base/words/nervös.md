@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag är nervös inför provet imorgon. — 🇨🇳 我对明天的考试感到紧张。
+- 🇸🇪 Hon känner sig nervös när hon talar inför klassen. — 🇨🇳 她在全班面前发言时感到紧张。
+- 🇸🇪 Det är normalt att vara lite nervös. — 🇨🇳 有一点紧张是正常的。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han är mycket mager och behöver äta mer. — 🇨🇳 他非常瘦，需要多吃一点。
+- 🇸🇪 Hon dricker magra mjölk varje dag. — 🇨🇳 她每天喝脱脂牛奶。
+- 🇸🇪 Katten ser mager ut — har den ätit idag? — 🇨🇳 那只猫看起来很瘦——它今天吃东西了吗？
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon är väldigt flexibel med sina arbetstider. — 🇨🇳 她的工作时间非常灵活。
+- 🇸🇪 Det är bra att vara flexibel när man reser. — 🇨🇳 旅行时保持灵活很重要。
+- 🇸🇪 Vi erbjuder flexibla lösningar för alla kunder. — 🇨🇳 我们为所有客户提供灵活的解决方案。
 
 ## 词族 / 同义 / 反义 (Relations)
 

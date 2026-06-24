@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det här brödet är krispigt och gott. — 🇨🇳 这个面包又脆又好吃。
+- 🇸🇪 Jag gillar krispig sallad i min smörgås. — 🇨🇳 我喜欢三明治里放脆脆的沙拉。
+- 🇸🇪 Pizzabottnen är krispig och tunn. — 🇨🇳 披萨底很脆，也很薄。
 
 ## 词族 / 同义 / 反义 (Relations)
 

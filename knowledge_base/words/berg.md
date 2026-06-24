@@ -44,7 +44,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns höga berg i norra Sverige. — 🇨🇳 瑞典北部有高山。
+- 🇸🇪 Vi klättrade på berget i helgen. — 🇨🇳 周末我们爬了山。
+- 🇸🇪 Utsikten från berget är fantastisk. — 🇨🇳 从山上看到的景色很壮观。
 
 ## 词族 / 同义 / 反义 (Relations)
 

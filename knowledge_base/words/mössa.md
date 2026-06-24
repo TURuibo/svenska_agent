@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Ta på dig mössan, det är kallt ute. — 🇨🇳 戴上帽子，外面很冷。
+- 🇸🇪 Hon har en röd stickad mössa. — 🇨🇳 她戴着一顶红色针织帽。
+- 🇸🇪 Var är min mössa? Jag hittar den inte. — 🇨🇳 我的毛线帽在哪里？我找不到它。
 
 ## 词族 / 同义 / 反义 (Relations)
 

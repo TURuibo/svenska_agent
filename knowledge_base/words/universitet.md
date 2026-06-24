@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon studerar medicin på universitetet. — 🇨🇳 她在大学学习医学。
+- 🇸🇪 Jag söker till ett universitet i Stockholm. — 🇨🇳 我申请斯德哥尔摩的一所大学。
+- 🇸🇪 Universitetet öppnar klockan åtta varje morgon. — 🇨🇳 大学每天早上八点开门。
 
 ## 词族 / 同义 / 反义 (Relations)
 

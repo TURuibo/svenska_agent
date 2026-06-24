@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon är en väldigt kreativ konstnär. — 🇨🇳 她是一位非常有创意的艺术家。
+- 🇸🇪 Barnen gör kreativa uppgifter i skolan. — 🇨🇳 孩子们在学校完成有创意的作业。
+- 🇸🇪 Vi behöver ett kreativt sätt att lösa problemet. — 🇨🇳 我们需要一种有创意的方式来解决这个问题。
 
 ## 词族 / 同义 / 反义 (Relations)
 

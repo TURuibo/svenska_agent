@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Backen är mycket brant. — 🇨🇳 这个坡非常陡峭。
+- 🇸🇪 Det är svårt att gå uppför det branta berget. — 🇨🇳 沿着这座陡峭的山往上走很难。
+- 🇸🇪 Vägen ner till sjön är brant. — 🇨🇳 通往湖边的路很陡。
 
 ## 词族 / 同义 / 反义 (Relations)
 

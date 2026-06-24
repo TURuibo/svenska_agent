@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 De är ett lyckligt par. — 🇨🇳 他们是一对幸福的夫妇。
+- 🇸🇪 Jag behöver ett par nya skor. — 🇨🇳 我需要一双新鞋。
+- 🇸🇪 Det unga paret bor i en liten lägenhet. — 🇨🇳 这对年轻夫妇住在一间小公寓里。
 
 ## 词族 / 同义 / 反义 (Relations)
 

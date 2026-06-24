@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Ta på dig jackan, det är kallt ute. — 🇨🇳 穿上外套，外面很冷。
+- 🇸🇪 Jag hänger jackan i hallen. — 🇨🇳 我把外套挂在门厅里。
+- 🇸🇪 Hon köpte en ny blå jacka. — 🇨🇳 她买了一件新的蓝色外套。
 
 ## 词族 / 同义 / 反义 (Relations)
 

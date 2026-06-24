@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han hade ett blodigt sår på knäet. — 🇨🇳 他膝盖上有一处流血的伤口。
+- 🇸🇪 Hennes händer var blodiga efter olyckan. — 🇨🇳 事故后她的双手沾满了血。
+- 🇸🇪 Jag vill ha biffen lite blodig, tack. — 🇨🇳 我想要牛排半熟（带血），谢谢。
 
 ## 词族 / 同义 / 反义 (Relations)
 

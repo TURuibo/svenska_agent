@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon hade ett vitt linne under jackan. — 🇨🇳 她在夹克里面穿了一件白色背心。
+- 🇸🇪 På sommaren bär jag ofta ett tunt linne. — 🇨🇳 夏天我经常穿一件薄背心。
+- 🇸🇪 Linnet är gjort av bomull och är väldigt skönt. — 🇨🇳 这件背心是棉质的，穿起来非常舒服。
 
 ## 词族 / 同义 / 反义 (Relations)
 

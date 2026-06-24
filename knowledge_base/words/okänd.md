@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En okänd person ringde på dörren. — 🇨🇳 一个陌生人按了门铃。
+- 🇸🇪 Konstnären var okänd när hon var ung. — 🇨🇳 那位艺术家年轻时还默默无闻。
+- 🇸🇪 Anledningen till olyckan är fortfarande okänd. — 🇨🇳 事故的原因目前仍不明。
 
 ## 词族 / 同义 / 反义 (Relations)
 

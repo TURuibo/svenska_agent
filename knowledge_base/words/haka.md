@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han slog sig i hakan. — 🇨🇳 他撞到了自己的下巴。
+- 🇸🇪 Hon håller handen under hakan när hon tänker. — 🇨🇳 她思考时用手托着下巴。
+- 🇸🇪 Barnet har en liten rund haka. — 🇨🇳 孩子有一个小小的圆下巴。
 
 ## 词族 / 同义 / 反义 (Relations)
 

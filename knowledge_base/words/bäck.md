@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det rinner en liten bäck genom skogen. — 🇨🇳 一条小溪流淌穿过森林。
+- 🇸🇪 Barnen leker vid bäcken. — 🇨🇳 孩子们在溪边玩耍。
+- 🇸🇪 Vattnet i bäcken är kallt och klart. — 🇨🇳 溪水又冷又清澈。
 
 ## 词族 / 同义 / 反义 (Relations)
 

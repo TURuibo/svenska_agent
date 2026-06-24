@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Mina föräldrar bor i Stockholm. — 🇨🇳 我的父母住在斯德哥尔摩。
+- 🇸🇪 Hon är en bra förälder. — 🇨🇳 她是一位好家长。
+- 🇸🇪 Föräldrarna hämtar barnen från skolan. — 🇨🇳 父母去学校接孩子。
 
 ## 词族 / 同义 / 反义 (Relations)
 

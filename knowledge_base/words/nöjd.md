@@ -47,7 +47,9 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag är nöjd med mitt arbete. — 🇨🇳 我对我的工作很满意。
+- 🇸🇪 Är du nöjd med maten? — 🇨🇳 你对食物满意吗？
+- 🇸🇪 Barnet ser nöjt ut. — 🇨🇳 那个孩子看起来很满足。
 
 ## 词族 / 同义 / 反义 (Relations)
 

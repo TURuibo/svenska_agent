@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon har känslig hud och använder mild tvål. — 🇨🇳 她皮肤敏感，使用温和的肥皂。
+- 🇸🇪 Det är ett känsligt ämne, så vi pratar varsamt. — 🇨🇳 这是个敏感话题，所以我们说话要小心。
+- 🇸🇪 Barnet är känsligt för kyla och klär sig varmt. — 🇨🇳 这个孩子对寒冷很敏感，穿得很暖。
 
 ## 词族 / 同义 / 反义 (Relations)
 

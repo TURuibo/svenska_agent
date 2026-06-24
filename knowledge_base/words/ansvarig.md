@@ -40,7 +40,9 @@ interval: 0
 
 ## exempel
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vem är ansvarig för projektet? — 🇨🇳 谁负责这个项目？
+- 🇸🇪 Hon är ansvarig chef på avdelningen. — 🇨🇳 她是部门的主管。
+- 🇸🇪 Vi är alla ansvariga för våra egna val. — 🇨🇳 我们都要为自己的选择负责。
 
 ## 词族 / 同义 / 反义 (Relations)
 

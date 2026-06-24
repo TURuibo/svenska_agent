@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är en lång väg till staden. — 🇨🇳 去城里的路很长。
+- 🇸🇪 Kan du visa mig vägen? — 🇨🇳 你能告诉我怎么走吗？
+- 🇸🇪 Vi gick längs vägen tillsammans. — 🇨🇳 我们一起沿着路走。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är ett högt tak i rummet. — 🇨🇳 这个房间的天花板很高。
+- 🇸🇪 Taket på huset är rött. — 🇨🇳 房子的屋顶是红色的。
+- 🇸🇪 Det regnar, men vi är under taket. — 🇨🇳 外面在下雨，但我们在屋顶下。
 
 ## 词族 / 同义 / 反义 (Relations)
 

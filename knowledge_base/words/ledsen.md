@@ -48,7 +48,9 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Barnet är ledset för att det tappade sin leksak. — 🇨🇳 孩子因为丢了玩具而很难过。
+- 🇸🇪 Jag är ledsen, jag förstår inte. — 🇨🇳 对不起，我听不懂。
+- 🇸🇪 Hon blev ledsen när hon hörde nyheten. — 🇨🇳 她听到这个消息后很伤心。
 
 ## 词族 / 同义 / 反义 (Relations)
 

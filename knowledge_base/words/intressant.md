@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det här är ett intressant ämne. — 🇨🇳 这是一个有趣的话题。
+- 🇸🇪 Boken är väldigt intressant att läsa. — 🇨🇳 这本书读起来非常有趣。
+- 🇸🇪 Han berättade en intressant historia om sin resa. — 🇨🇳 他讲述了一个关于他旅行的有趣故事。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns en kall källa i skogen. — 🇨🇳 森林里有一处冰凉的泉水。
+- 🇸🇪 Vi dricker vatten direkt från källan. — 🇨🇳 我们直接从泉眼取水喝。
+- 🇸🇪 Tidningen är en pålitlig källa för nyheter. — 🇨🇳 这份报纸是可靠的新闻来源。
 
 ## 词族 / 同义 / 反义 (Relations)
 

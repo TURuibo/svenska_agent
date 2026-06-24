@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 De bor i ett litet rött hus på landet. — 🇨🇳 他们住在乡下一座小红房子里。
+- 🇸🇪 Huset har tre rum och ett kök. — 🇨🇳 这座房子有三个房间和一个厨房。
+- 🇸🇪 Det gamla huset vid sjön är mycket vackert. — 🇨🇳 湖边那座老房子非常漂亮。
 
 ## 词族 / 同义 / 反义 (Relations)
 

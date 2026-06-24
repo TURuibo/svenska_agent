@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Gatan är bred och trafikrik. — 🇨🇳 这条街又宽又繁忙。
+- 🇸🇪 Han har breda axlar. — 🇨🇳 他肩膀很宽。
+- 🇸🇪 Bron är inte bred nog för två bilar. — 🇨🇳 这座桥不够宽，两辆车无法并排通过。
 
 ## 词族 / 同义 / 反义 (Relations)
 

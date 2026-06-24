@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En hare springer mycket snabbt i skogen. — 🇨🇳 一只野兔在森林里跑得非常快。
+- 🇸🇪 Barnen såg en stor hare på ängen. — 🇨🇳 孩子们在草地上看到了一只大野兔。
+- 🇸🇪 Haren gömde sig bakom en buske. — 🇨🇳 野兔躲在一棵灌木后面。
 
 ## 词族 / 同义 / 反义 (Relations)
 

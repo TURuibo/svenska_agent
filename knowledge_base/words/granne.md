@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Min granne heter Lars. — 🇨🇳 我的邻居叫拉斯。
+- 🇸🇪 Vi hälsar alltid på grannarna. — 🇨🇳 我们总是向邻居们问好。
+- 🇸🇪 Grannen hjälpte mig med paketet. — 🇨🇳 邻居帮我拿了包裹。
 
 ## 词族 / 同义 / 反义 (Relations)
 

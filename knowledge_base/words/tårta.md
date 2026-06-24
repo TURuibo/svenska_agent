@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi åt en stor tårta på festen. — 🇨🇳 我们在派对上吃了一个大蛋糕。
+- 🇸🇪 Mamma bakade en tårta till min födelsedag. — 🇨🇳 妈妈为我的生日烤了一个蛋糕。
+- 🇸🇪 Tårtan var dekorerad med jordgubbar. — 🇨🇳 蛋糕上装饰着草莓。
 
 ## 词族 / 同义 / 反义 (Relations)
 

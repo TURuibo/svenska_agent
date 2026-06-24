@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En stor lastbil kör på motorvägen. — 🇨🇳 一辆大卡车在高速公路上行驶。
+- 🇸🇪 Lastbilen levererar mat till affären. — 🇨🇳 卡车把食物送到商店。
+- 🇸🇪 Han arbetar som lastbilschaufför. — 🇨🇳 他是一名卡车司机。
 
 ## 词族 / 同义 / 反义 (Relations)
 

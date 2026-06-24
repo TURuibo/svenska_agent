@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han har smärta i ryggen efter arbetet. — 🇨🇳 工作后他背部疼痛。
+- 🇸🇪 Läkaren frågade var smärtan var värst. — 🇨🇳 医生问哪里最疼。
+- 🇸🇪 Tabletten hjälper mot smärtan. — 🇨🇳 这片药有助于缓解疼痛。
 
 ## 词族 / 同义 / 反义 (Relations)
 

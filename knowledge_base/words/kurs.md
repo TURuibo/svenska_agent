@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag läser en kurs i svenska på kvällen. — 🇨🇳 我晚上在上一门瑞典语课。
+- 🇸🇪 Kursen börjar i september och slutar i december. — 🇨🇳 这门课九月开始，十二月结束。
+- 🇸🇪 Hon har anmält sig till en kurs i matlagning. — 🇨🇳 她报名参加了一门烹饪课。
 
 ## 词族 / 同义 / 反义 (Relations)
 

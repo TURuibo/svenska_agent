@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Gatan i gamla stan är väldigt trång. — 🇨🇳 老城区的街道非常狭窄。
+- 🇸🇪 Det var trångt på bussen i rusningstid. — 🇨🇳 高峰期公共汽车上很拥挤。
+- 🇸🇪 Tunneln är för trång för stora lastbilar. — 🇨🇳 隧道对大型卡车来说太窄了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Mamma bakade chokladkakor till oss. — 🇨🇳 妈妈给我们烤了巧克力饼干。
+- 🇸🇪 Vill du ha en kaka till kaffet? — 🇨🇳 你想要一块饼干配咖啡吗？
+- 🇸🇪 Vi åt pepparkakor på julafton. — 🇨🇳 我们在平安夜吃了姜饼。
 
 ## 词族 / 同义 / 反义 (Relations)
 

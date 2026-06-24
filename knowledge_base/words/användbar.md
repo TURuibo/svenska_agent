@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Den här appen är mycket användbar. — 🇨🇳 这个应用程序非常实用。
+- 🇸🇪 Det är ett användbart verktyg för jobbet. — 🇨🇳 这是工作中一个好用的工具。
+- 🇸🇪 Kunskapen i svenska är användbar i Sverige. — 🇨🇳 瑞典语知识在瑞典很实用。
 
 ## 词族 / 同义 / 反义 (Relations)
 

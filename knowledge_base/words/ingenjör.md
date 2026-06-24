@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Min bror jobbar som ingenjör på ett stort företag. — 🇨🇳 我哥哥在一家大公司担任工程师。
+- 🇸🇪 Hon studerar till ingenjör på universitetet. — 🇨🇳 她在大学攻读工程师学位。
+- 🇸🇪 Ingenjören ritar nya broar och vägar. — 🇨🇳 工程师设计新的桥梁和道路。
 
 ## 词族 / 同义 / 反义 (Relations)
 

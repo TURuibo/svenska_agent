@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Kan du köpa ett bröd på vägen hem? — 🇨🇳 你能在回家的路上买一条面包吗？
+- 🇸🇪 Jag äter bröd med smör till frukost. — 🇨🇳 我早饭吃黄油面包。
+- 🇸🇪 Det finns hårt och mjukt bröd i affären. — 🇨🇳 商店里有脆面包和软面包。
 
 ## 词族 / 同义 / 反义 (Relations)
 

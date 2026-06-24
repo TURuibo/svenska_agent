@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det blåser stark vind idag. — 🇨🇳 今天风很大。
+- 🇸🇪 Vinden är kall på vintern. — 🇨🇳 冬天风很冷。
+- 🇸🇪 Barnen leker i vinden. — 🇨🇳 孩子们在风中玩耍。
 
 ## 词族 / 同义 / 反义 (Relations)
 

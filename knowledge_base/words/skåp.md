@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Glasen står i skåpet ovanför diskbänken. — 🇨🇳 玻璃杯放在水槽上方的橱柜里。
+- 🇸🇪 Lägg kläderna i klädskåpet, tack. — 🇨🇳 请把衣服放进衣柜里。
+- 🇸🇪 Vi köpte ett nytt köksskåp till hemmet. — 🇨🇳 我们为家里买了一个新厨柜。
 
 ## 词族 / 同义 / 反义 (Relations)
 

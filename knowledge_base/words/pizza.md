@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi beställer pizza på fredagar. — 🇨🇳 我们周五点披萨。
+- 🇸🇪 Pizzan med skinka är min favorit. — 🇨🇳 火腿披萨是我的最爱。
+- 🇸🇪 Kan vi äta pizza ikväll? — 🇨🇳 我们今晚可以吃披萨吗？
 
 ## 词族 / 同义 / 反义 (Relations)
 

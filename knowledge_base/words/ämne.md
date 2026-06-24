@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vilket ämne tycker du bäst om? — 🇨🇳 你最喜欢哪个科目？
+- 🇸🇪 Matematik är ett svårt ämne. — 🇨🇳 数学是一门难的科目。
+- 🇸🇪 Vi pratade om ett intressant ämne. — 🇨🇳 我们谈论了一个有趣的话题。
 
 ## 词族 / 同义 / 反义 (Relations)
 

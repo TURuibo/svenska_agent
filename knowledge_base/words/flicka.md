@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Den lilla flickan leker i parken. — 🇨🇳 那个小女孩在公园里玩耍。
+- 🇸🇪 Flickorna sjunger en sång tillsammans. — 🇨🇳 女孩们一起唱歌。
+- 🇸🇪 Det är en blyg flicka i min klass. — 🇨🇳 我班里有一个害羞的女孩。
 
 ## 词族 / 同义 / 反义 (Relations)
 

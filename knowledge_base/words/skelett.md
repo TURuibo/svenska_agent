@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Kroppen har ett skelett som håller den uppe. — 🇨🇳 身体有骨骼来支撑它。
+- 🇸🇪 Vi lär oss om skelettet i biologilektionen. — 🇨🇳 我们在生物课上学习骨骼知识。
+- 🇸🇪 Det mänskliga skelettet har 206 ben. — 🇨🇳 人体骨骼有206块骨头。
 
 ## 词族 / 同义 / 反义 (Relations)
 

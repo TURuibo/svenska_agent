@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Zebran är ett randig djur. — 🇨🇳 斑马是一种有条纹的动物。
+- 🇸🇪 Han har en randig tröja i blått och vitt. — 🇨🇳 他穿着一件蓝白条纹的毛衣。
+- 🇸🇪 Katten har randiga ben. — 🇨🇳 这只猫的腿上有条纹。
 
 ## 词族 / 同义 / 反义 (Relations)
 

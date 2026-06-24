@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag cyklar till jobbet varje dag. — 🇨🇳 我每天骑自行车去上班。
+- 🇸🇪 Han parkerade cykeln utanför affären. — 🇨🇳 他把自行车停在商店外面。
+- 🇸🇪 Det finns många cyklar i Sverige. — 🇨🇳 瑞典有很多自行车。
 
 ## 词族 / 同义 / 反义 (Relations)
 

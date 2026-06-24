@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han slog sig i låret av glädje. — 🇨🇳 他高兴地拍了拍大腿。
+- 🇸🇪 Jag tränar låren på gymmet. — 🇨🇳 我在健身房练大腿肌肉。
+- 🇸🇪 Kycklinglår är godare än kycklingfilé, tycker jag. — 🇨🇳 我觉得鸡腿比鸡胸肉更好吃。
 
 ## 词族 / 同义 / 反义 (Relations)
 

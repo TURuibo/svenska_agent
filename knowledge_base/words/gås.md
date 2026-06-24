@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En stor gås simmar på sjön. — 🇨🇳 一只大鹅在湖上游泳。
+- 🇸🇪 Vi såg många gäss i parken. — 🇨🇳 我们在公园里看到了许多鹅。
+- 🇸🇪 Gåsen äter gräs på ängen. — 🇨🇳 鹅在草地上吃草。
 
 ## 词族 / 同义 / 反义 (Relations)
 

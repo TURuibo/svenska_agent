@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi går över bron för att komma till parken. — 🇨🇳 我们走过桥去公园。
+- 🇸🇪 Det finns en gammal bro i stan. — 🇨🇳 城里有一座古老的桥。
+- 🇸🇪 Bron är stängd i dag. — 🇨🇳 这座桥今天关闭了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

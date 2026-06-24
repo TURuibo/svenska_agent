@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon ser väldigt elegant ut i den klänningen. — 🇨🇳 她穿那条裙子看起来非常优雅。
+- 🇸🇪 Det är ett elegant hotell i centrum. — 🇨🇳 这是市中心一家优雅的酒店。
+- 🇸🇪 Han har en elegant stil. — 🇨🇳 他有一种优雅的风格。
 
 ## 词族 / 同义 / 反义 (Relations)
 

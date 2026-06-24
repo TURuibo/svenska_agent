@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är kallt ute, ta på dig en halsduk. — 🇨🇳 外面很冷，戴上围巾吧。
+- 🇸🇪 Hon har en röd halsduk om halsen. — 🇨🇳 她脖子上围着一条红围巾。
+- 🇸🇪 Jag köpte en varm ullig halsduk i affären. — 🇨🇳 我在商店买了一条温暖的羊毛围巾。
 
 ## 词族 / 同义 / 反义 (Relations)
 

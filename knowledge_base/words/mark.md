@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Barnen leker på marken utanför huset. — 🇨🇳 孩子们在房子外面的地上玩耍。
+- 🇸🇪 Snön täcker marken på vintern. — 🇨🇳 冬天雪覆盖地面。
+- 🇸🇪 Bonden äger mycket mark på landet. — 🇨🇳 这位农民在乡下拥有很多土地。
 
 ## 词族 / 同义 / 反义 (Relations)
 

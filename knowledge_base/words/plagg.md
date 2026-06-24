@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är ett fint plagg av ull. — 🇨🇳 这是一件精美的羊毛服装。
+- 🇸🇪 Varje plagg i butiken kostar minst 200 kronor. — 🇨🇳 商店里每件衣物至少要200克朗。
+- 🇸🇪 Vilket plagg ska jag ha på mig idag? — 🇨🇳 我今天该穿哪件衣服？
 
 ## 词族 / 同义 / 反义 (Relations)
 

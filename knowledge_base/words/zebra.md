@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En zebra har svarta och vita ränder. — 🇨🇳 斑马有黑白条纹。
+- 🇸🇪 Vi såg zebror på zoo. — 🇨🇳 我们在动物园看到了斑马。
+- 🇸🇪 Gå över gatan vid zebraövergången! — 🇨🇳 在斑马线处过马路！
 
 ## 词族 / 同义 / 反义 (Relations)
 

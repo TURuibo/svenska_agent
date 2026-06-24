@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Fåret har en ullig päls. — 🇨🇳 羊有毛茸茸的皮毛。
+- 🇸🇪 Den ulliga hunden är väldigt mjuk att krama. — 🇨🇳 那只毛茸茸的狗抱起来非常柔软。
+- 🇸🇪 Lammet ser ut som ett litet ullboll. — 🇨🇳 小羊看起来像一个小毛球。
 
 ## 词族 / 同义 / 反义 (Relations)
 

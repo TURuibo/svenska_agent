@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är ett högt hus i centrum. — 🇨🇳 市中心有一栋高楼。
+- 🇸🇪 Berget är mycket högt. — 🇨🇳 这座山非常高。
+- 🇸🇪 Hon har höga klackar på skorna. — 🇨🇳 她穿着高跟鞋。
 
 ## 词族 / 同义 / 反义 (Relations)
 

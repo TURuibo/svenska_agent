@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vilket märke är din jacka? — 🇨🇳 你的夹克是什么牌子的？
+- 🇸🇪 Jag lade märke till att dörren var öppen. — 🇨🇳 我注意到门是开着的。
+- 🇸🇪 Det är ett känt märke från Sverige. — 🇨🇳 这是一个来自瑞典的知名品牌。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Torget är livligt på lördagar. — 🇨🇳 广场在周六非常热闹。
+- 🇸🇪 Det är livlig trafik på den här gatan. — 🇨🇳 这条街上交通繁忙。
+- 🇸🇪 Barnen är väldigt livliga efter skolan. — 🇨🇳 孩子们放学后非常活跃。
 
 ## 词族 / 同义 / 反义 (Relations)
 

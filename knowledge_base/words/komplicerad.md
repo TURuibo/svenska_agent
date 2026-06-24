@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Den här uppgiften är för komplicerad för mig. — 🇨🇳 这个任务对我来说太复杂了。
+- 🇸🇪 Grammatiken är ibland komplicerad att lära sig. — 🇨🇳 语法有时候很难学。
+- 🇸🇪 Det är ett komplicerat problem som tar tid att lösa. — 🇨🇳 这是一个需要时间解决的复杂问题。
 
 ## 词族 / 同义 / 反义 (Relations)
 

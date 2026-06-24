@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 PapegojAN kan säga enkla ord. — 🇨🇳 鹦鹉能说简单的词。
+- 🇸🇪 Vi såg en färgglad papegoja på zoo. — 🇨🇳 我们在动物园看到了一只色彩鲜艳的鹦鹉。
+- 🇸🇪 Han upprepar allt som en papegoja. — 🇨🇳 他像鹦鹉一样重复一切。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Rådjuret är skygg och springer bort när det hör oss. — 🇨🇳 狍子很胆小，听到我们就跑走了。
+- 🇸🇪 Den lilla katten är skygg och gömmer sig bakom soffan. — 🇨🇳 这只小猫很怕生，躲在沙发后面。
+- 🇸🇪 Barnet är skygg för nya människor men leker bra med kompisar. — 🇨🇳 这个孩子对陌生人很害羞，但和朋友玩得很好。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Min mamma lagar god mat varje kväll. — 🇨🇳 我妈妈每天晚上做好吃的饭。
+- 🇸🇪 Jag ringer till min mamma på söndagar. — 🇨🇳 我每个星期天给我妈妈打电话。
+- 🇸🇪 Mamman sjunger för barnet. — 🇨🇳 妈妈给孩子唱歌。
 
 ## 词族 / 同义 / 反义 (Relations)
 

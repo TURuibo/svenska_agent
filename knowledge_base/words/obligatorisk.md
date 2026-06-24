@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Svenska är ett obligatoriskt ämne i skolan. — 🇨🇳 瑞典语是学校里的必修科目。
+- 🇸🇪 Det är obligatoriskt att bära hjälm på byggplatsen. — 🇨🇳 在建筑工地必须戴头盔。
+- 🇸🇪 Kursen är obligatorisk för alla studenter. — 🇨🇳 这门课对所有学生都是必修的。
 
 ## 词族 / 同义 / 反义 (Relations)
 

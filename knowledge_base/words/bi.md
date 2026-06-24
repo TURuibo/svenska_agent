@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Ett bi sitter på blomman. — 🇨🇳 一只蜜蜂停在花上。
+- 🇸🇪 Bin samlar nektar och gör honung. — 🇨🇳 蜜蜂采集花蜜，酿造蜂蜜。
+- 🇸🇪 Jag blev stucken av ett bi i trädgården. — 🇨🇳 我在花园里被蜜蜂蜇了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det sitter en ekorre i trädet. — 🇨🇳 树上坐着一只松鼠。
+- 🇸🇪 Ekorren samlar nötter inför vintern. — 🇨🇳 松鼠在冬天来临前收集坚果。
+- 🇸🇪 Vi såg många ekorrar i parken. — 🇨🇳 我们在公园里看到了很多松鼠。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon har känslig hud och använder mild kräm. — 🇨🇳 她皮肤敏感，使用温和的护肤霜。
+- 🇸🇪 Solen kan skada huden om man inte använder solkräm. — 🇨🇳 如果不涂防晒霜，阳光会伤害皮肤。
+- 🇸🇪 Han tar hand om sin hud varje dag. — 🇨🇳 他每天都护理自己的皮肤。
 
 ## 词族 / 同义 / 反义 (Relations)
 

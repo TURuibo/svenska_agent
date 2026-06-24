@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag hackar en lök till soppan. — 🇨🇳 我切一个洋葱放进汤里。
+- 🇸🇪 Stekt lök smakar sött och gott. — 🇨🇳 炒洋葱尝起来甜甜的，很好吃。
+- 🇸🇪 Han gillar inte lök på sin pizza. — 🇨🇳 他不喜欢披萨上放洋葱。
 
 ## 词族 / 同义 / 反义 (Relations)
 

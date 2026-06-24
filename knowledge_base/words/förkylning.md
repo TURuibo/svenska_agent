@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag har en förkylning och stannar hemma. — 🇨🇳 我感冒了，待在家里。
+- 🇸🇪 Hon fick en förkylning efter regnet. — 🇨🇳 她淋雨后感冒了。
+- 🇸🇪 Det tar en vecka att bli av med förkylningen. — 🇨🇳 感冒通常要一周才能好。
 
 ## 词族 / 同义 / 反义 (Relations)
 

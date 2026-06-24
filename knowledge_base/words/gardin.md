@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon drar igen gardinerna på kvällen. — 🇨🇳 她晚上拉上窗帘。
+- 🇸🇪 Vi har vita gardiner i vardagsrummet. — 🇨🇳 我们客厅里有白色窗帘。
+- 🇸🇪 Gardinerna blockerar ljuset. — 🇨🇳 窗帘遮挡了光线。
 
 ## 词族 / 同义 / 反义 (Relations)
 

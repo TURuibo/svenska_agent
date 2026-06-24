@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi äter kokt potatis till middagen. — 🇨🇳 我们晚饭吃煮土豆。
+- 🇸🇪 Kan du skala potatisen? — 🇨🇳 你能削土豆皮吗？
+- 🇸🇪 Sverige odlar mycket potatis. — 🇨🇳 瑞典种植很多土豆。
 
 ## 词族 / 同义 / 反义 (Relations)
 

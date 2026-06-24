@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon är blyg och talar inte mycket. — 🇨🇳 她很害羞，话不多。
+- 🇸🇪 Det blyga barnet gömde sig bakom mamma. — 🇨🇳 害羞的孩子躲在妈妈身后。
+- 🇸🇪 Han var blyg i skolan men är mer öppen nu. — 🇨🇳 他上学时很害羞，但现在更开朗了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han är en stilig kille med blå ögon. — 🇨🇳 他是一个蓝眼睛的帅气男孩。
+- 🇸🇪 Du ser stilig ut i den kostymen. — 🇨🇳 你穿那套西装看起来很帅。
+- 🇸🇪 Det var en stilig bil som körde förbi. — 🇨🇳 一辆帅气的车开了过去。
 
 ## 词族 / 同义 / 反义 (Relations)
 

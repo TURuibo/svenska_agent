@@ -44,7 +44,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Kan du öppna dörren, tack? — 🇨🇳 你能帮我开门吗？谢谢。
+- 🇸🇪 Stäng dörren när du går ut. — 🇨🇳 出去的时候把门关上。
+- 🇸🇪 Det stod en röd dörr på huset. — 🇨🇳 房子上有一扇红色的门。
 
 ## 词族 / 同义 / 反义 (Relations)
 

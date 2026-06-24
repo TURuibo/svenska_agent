@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Läkaren gav mig en kur med antibiotika. — 🇨🇳 医生给我开了一个抗生素疗程。
+- 🇸🇪 Du måste fullfölja hela kuren. — 🇨🇳 你必须完成整个疗程。
+- 🇸🇪 Kuren varar i tio dagar. — 🇨🇳 这个疗程持续十天。
 
 ## 词族 / 同义 / 反义 (Relations)
 

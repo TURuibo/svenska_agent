@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det här är en teoretisk kurs, inte en praktisk. — 🇨🇳 这是一门理论课，不是实践课。
+- 🇸🇪 Han har mycket teoretisk kunskap om kemi. — 🇨🇳 他有很多化学理论知识。
+- 🇸🇪 Det är bra att ha en teoretisk grund. — 🇨🇳 有理论基础是很好的。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag väntar på bussen vid hållplatsen. — 🇨🇳 我在站点等公交车。
+- 🇸🇪 Nästa hållplats är Stortorget — vi kliver av där. — 🇨🇳 下一站是大广场——我们在那里下车。
+- 🇸🇪 Det finns en busshållplats precis utanför skolan. — 🇨🇳 学校门口正好有一个公交站。
 
 ## 词族 / 同义 / 反义 (Relations)
 

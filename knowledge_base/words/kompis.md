@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Min bästa kompis heter Erik. — 🇨🇳 我最好的朋友叫埃里克。
+- 🇸🇪 Vi spelar fotboll med kompisarna efter skolan. — 🇨🇳 放学后我们和朋友们踢足球。
+- 🇸🇪 Hon är en rolig och snäll kompis. — 🇨🇳 她是一个有趣又善良的好朋友。
 
 ## 词族 / 同义 / 反义 (Relations)
 

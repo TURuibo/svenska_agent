@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Min cykel är trasig, jag kan inte cykla. — 🇨🇳 我的自行车坏了，我没法骑。
+- 🇸🇪 Trafikljuset är trasigt vid korsningen. — 🇨🇳 路口的红绿灯坏了。
+- 🇸🇪 Vi ringde ett trasigt telefonnummer. — 🇨🇳 我们拨打了一个失效的电话号码。
 
 ## 词族 / 同义 / 反义 (Relations)
 

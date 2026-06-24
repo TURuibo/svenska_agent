@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Luften är väldigt torr på vintern. — 🇨🇳 冬天空气非常干燥。
+- 🇸🇪 Mina läppar är torra, jag behöver vatten. — 🇨🇳 我的嘴唇很干，我需要喝水。
+- 🇸🇪 Det var torrt väder hela veckan. — 🇨🇳 整个星期天气都很干燥。
 
 ## 词族 / 同义 / 反义 (Relations)
 

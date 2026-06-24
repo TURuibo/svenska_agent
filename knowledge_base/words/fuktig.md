@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Luften är fuktig efter regnet. — 🇨🇳 雨后空气很潮湿。
+- 🇸🇪 Det är varmt och fuktigt i tropikerna. — 🇨🇳 热带地区又热又潮湿。
+- 🇸🇪 Mina kläder är fuktiga — de torkar inte. — 🇨🇳 我的衣服还是湿的——晾不干。
 
 ## 词族 / 同义 / 反义 (Relations)
 

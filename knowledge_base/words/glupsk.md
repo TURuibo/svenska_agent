@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hajen är ett glupsk djur. — 🇨🇳 鲨鱼是一种贪食的动物。
+- 🇸🇪 Han åt glupsk och lämnade ingenting kvar. — 🇨🇳 他狼吞虎咽，什么都没留下。
+- 🇸🇪 Katten har en glupsk aptit. — 🇨🇳 这只猫食欲非常旺盛。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det gamla trädet har en böjd stam. — 🇨🇳 那棵老树的树干是弯曲的。
+- 🇸🇪 Han satt med böjd rygg vid datorn. — 🇨🇳 他驼着背坐在电脑前。
+- 🇸🇪 Knäet är böjt när du springer. — 🇨🇳 跑步时膝盖是弯曲的。
 
 ## 词族 / 同义 / 反义 (Relations)
 

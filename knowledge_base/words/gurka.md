@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag lägger gurka i salladen. — 🇨🇳 我把黄瓜放进沙拉里。
+- 🇸🇪 En gurka är grön och lång. — 🇨🇳 黄瓜是绿色的，而且很长。
+- 🇸🇪 Vi köpte två gurkor på marknaden. — 🇨🇳 我们在市场上买了两根黄瓜。
 
 ## 词族 / 同义 / 反义 (Relations)
 

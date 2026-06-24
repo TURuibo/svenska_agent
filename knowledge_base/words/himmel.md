@@ -44,7 +44,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Himlen är blå och solen skiner i dag. — 🇨🇳 今天天空是蓝色的，阳光明媚。
+- 🇸🇪 Vi såg stjärnorna på himlen i natt. — 🇨🇳 我们昨晚看到了天空中的星星。
+- 🇸🇪 Det är mörka moln på himlen — det ska regna snart. — 🇨🇳 天空中有乌云——快要下雨了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

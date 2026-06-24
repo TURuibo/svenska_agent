@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vem är den killen där? — 🇨🇳 那边那个小伙子是谁？
+- 🇸🇪 Han är en trevlig kille. — 🇨🇳 他是个很好的小伙子。
+- 🇸🇪 Killarna spelar fotboll i parken. — 🇨🇳 小伙子们在公园里踢足球。
 
 ## 词族 / 同义 / 反义 (Relations)
 

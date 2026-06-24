@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns fem personer i mitt hushåll. — 🇨🇳 我家里有五个人。
+- 🇸🇪 Hon är en snäll person. — 🇨🇳 她是一个善良的人。
+- 🇸🇪 Vilken person vill du träffa? — 🇨🇳 你想见哪个人？
 
 ## 词族 / 同义 / 反义 (Relations)
 

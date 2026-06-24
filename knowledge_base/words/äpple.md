@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag äter ett äpple varje dag. — 🇨🇳 我每天吃一个苹果。
+- 🇸🇪 Äpplena på trädet är röda. — 🇨🇳 树上的苹果是红色的。
+- 🇸🇪 Vill du ha ett äpple eller en banan? — 🇨🇳 你想要苹果还是香蕉？
 
 ## 词族 / 同义 / 反义 (Relations)
 

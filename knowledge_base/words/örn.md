@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Örnen flyger högt över skogen. — 🇨🇳 老鹰在森林上空高飞。
+- 🇸🇪 Vi såg en stor örn vid sjön. — 🇨🇳 我们在湖边看到了一只大鹰。
+- 🇸🇪 Havsörnen är Sveriges nationalsymbol. — 🇨🇳 白尾海雕是瑞典的国家象征。
 
 ## 词族 / 同义 / 反义 (Relations)
 

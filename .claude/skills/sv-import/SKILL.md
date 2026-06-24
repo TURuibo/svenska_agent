@@ -148,24 +148,15 @@ If `slugs.json` does not exist (manifest not yet generated), fall back to the pe
 
 ## 5. 录入路由 (Routing: inline vs sv-librarian)
 
-### Detect drill imports (skip_examples flag)
-
-Before routing, inspect the export block header for the `kind:` field:
-- If `kind: drill` (or the spawn prompt / $ARGUMENTS contains `skip_examples` or `drill`) →
-  set **`skip_examples = true`** for this import run.
-- The daily adjsubst böjning generator (via `/adjsubst`) always produces `kind: drill` headers —
-  these imports must always skip example-sentence generation.
-
 ### Small batch (≤ 3 items total across all sections)
 
 Store inline:
 - Create each note directly using the matching template from `knowledge_base/_templates/`.
 - Wire forward `[[wikilinks]]` per sv-knowledge-base §4 (reverse links derived at build time).
-- **Word 例句 (sense-aware count):** for every `words/` note, generate example sentences in the
-  `## 例句` section by meaning:
+- **Word 例句 (sense-aware count):** for every `words/` note, **always** generate example sentences in the
+  `## 例句` section by meaning (including drill/böjning imports):
   - 多个不同义项 (multiple distinct senses) → **每个义项至少 1 个例句**，按义项分组标注。
   - 单一义项 / 义项含义相近 (single or near-identical senses) → **至少 3 个例句**。
-- If `skip_examples = true`, omit the `## 例句` section entirely (do not generate inline examples).
 - Add reviewable notes to `review/schedule.md` with immediate `due:` date.
 
 ### Large batch (> 3 items total)
@@ -189,8 +180,7 @@ Store inline:
    - The fully-enriched (gap-filled), intra-block-deduped item lists.
    - The `date:` to use for `created:` frontmatter.
    - Instruction to add new reviewable notes to `review/schedule.md`.
-   - If `skip_examples = true`, explicitly pass: `skip_examples: true` in the spawn prompt so
-     the librarian skips generating example sentences for every word note in this batch.
+   - The librarian always generates example sentences for every word note in this batch.
 3. Await the librarian's manifest report.
 
 ---

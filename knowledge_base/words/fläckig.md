@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Dalmatinern är en fläckig hund. — 🇨🇳 斑点狗是一种有斑点的狗。
+- 🇸🇪 Giraffen har fläckig päls. — 🇨🇳 长颈鹿有带斑点的皮毛。
+- 🇸🇪 Min tröja blev fläckig av maten. — 🇨🇳 我的毛衣被食物弄脏留下了斑点。
 
 ## 词族 / 同义 / 反义 (Relations)
 

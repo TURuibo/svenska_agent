@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Är du vaken? — 🇨🇳 你醒了吗？
+- 🇸🇪 Barnet är vaken hela natten. — 🇨🇳 孩子整夜都没睡着。
+- 🇸🇪 Hunden är alltid vaken och alert. — 🇨🇳 那只狗总是保持警觉。
 
 ## 词族 / 同义 / 反义 (Relations)
 
