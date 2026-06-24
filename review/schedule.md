@@ -8,6 +8,29 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-24-diskussion-viktigast-dar-ni-bor — 7词NEW / 4词组NEW / 8句NEW / 3语法NEW (2词DUP: kollektivtrafik, orolig; 1词组DUP: i-närheten) —** | | | | | | |
+| [[trygghet]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[kommunikation]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grönområde]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[stämning]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[fördel]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sammanfatta]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[kvällskurs]] | word | — | 0 | 2.5 | 2026-06-24 | no |
+| [[hålla-med-om]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[komma-fram-till]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[tillräckligt-ofta]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[skulle-önska]] | phrase | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-halla-med-om]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-skulle-önska]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
+| [[grammar-negation-i-fraga]] | grammar | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-for-mig-ar-trygghet-det]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-kanns-inte-alltid-tryggt]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-om-bussarna-inte-gar-tillrackligt]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-men-ar-inte-lugnet-en-fordel]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-jo-visst-jag-trivs-med]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-jag-skulle-önska-bättre]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-det-haller-jag-med-om]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| [[sent-kan-ni-sammanfatta-vad-ni]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | **— source-2026-06-24-anslag-i-tvattstugan — 8词NEW / 4词组NEW / 6句NEW / 1语法NEW (2语法DUP: grammar-passiv-med-s, grammar-imperativ) —** | | | | | | |
 | [[styrelse]] | word | — | 0 | 2.5 | 2026-06-24 | no |
 | [[påminna]] | word | — | 0 | 2.5 | 2026-06-24 | no |
