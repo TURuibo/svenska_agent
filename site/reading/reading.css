@@ -485,6 +485,11 @@
 }
 .linkQueueActions { display: flex; gap: 8px; }
 
+/* Lookup-card footer: queue a not-in-KB word for /learn. */
+.learnFooter { margin-top: 10px; padding-top: 8px; border-top: 1px dashed var(--line); }
+.learnActions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+.learnAddBtn.queued { opacity: 0.6; cursor: default; }
+
 /* Dimmed backdrop behind the mobile bottom sheet (tap to close). */
 .vocabBackdrop {
   position: fixed;

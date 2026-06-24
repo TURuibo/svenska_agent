@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Läsning — Swedish Reading</title>
     <link rel="stylesheet" href="../styles.css?v=2" />
-    <link rel="stylesheet" href="reading.css?v=9" />
+    <link rel="stylesheet" href="reading.css?v=10" />
   </head>
   <body class="readingBody" data-site="reading">
     <header class="readingHeader">
@@ -29,6 +29,7 @@
         <button type="button" id="toggleVocab" class="toggleBtn" title="高亮 KB 里有的瑞典语生词，点词查看释义">🔤 生词</button>
         <button type="button" id="toggleLookup" class="toggleBtn" title="开启后可点正文里没链接、但其实 KB 已有的词，搜索并建立永久链接">🔍 查词</button>
         <button type="button" id="openLinkQueue" class="toggleBtn" title="待写入的「形式 → 词」链接清单，复制命令回 Claude Code 跑 /link-forms 永久生效">🔗 链接清单</button>
+        <button type="button" id="openLearnQueue" class="toggleBtn" title="KB 里还没有的词，攒成一条 /learn 命令回 Claude Code 真正查词入库">📥 想学</button>
         <span class="filterDivider" aria-hidden="true"></span>
         <label class="readingSearch">
           <input id="readingSearchInput" type="search" autocomplete="off" placeholder="搜索标题 / 正文…" />
@@ -46,7 +47,7 @@
     </main>
 
     <script src="reading-data.js"></script>
-    <script src="reading.js?v=9"></script>
+    <script src="reading.js?v=10"></script>
     <script src="../nav.js?v=2"></script>
   </body>
 </html>
