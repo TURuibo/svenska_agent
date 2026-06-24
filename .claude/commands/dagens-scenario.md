@@ -26,7 +26,7 @@ allowed-tools: Read, Write, Edit, Glob, Grep
 
 **主题表（一周一轮；当天取 `index mod 7 == day-of-year mod 7` 的 5 行）—— 35 个主题，覆盖 SFI /
 Svenska som andraspråk 的**国家考试 (Nationella prov)** 体裁：**日常生存场景（A2）→ 社会·功能性文本
-（A2–B1，含 ⭐ 用户点名的小区帖／学校通知／社区通知／面试）→ 论说·正式写作（B1–B2）。type 已为每个主题
+（A2–B1，含 ⭐ 用户点名的小区帖／学校通知／社区通知／面试）→ 论说·正式写作（A2–B1，避免 B2）。type 已为每个主题
 指定。**完整体裁说明（语域、对应 delprov）见 `.claude/skills/sv-scenario/SKILL.md` §2 体裁目录。**
 
 | index | type | 主题 (Swedish) | slug | 中文 | CEFR |
@@ -46,26 +46,26 @@ Svenska som andraspråk 的**国家考试 (Nationella prov)** 体裁：**日常�
 | 12 | text | Inlägg i grannforumet: störande musik | grannforum-storande-musik | 邻里论坛帖：扰民音乐（小区讨论帖 ⭐） | A2–B1 |
 | 13 | dialog | Resa med buss och tåg | resa-med-buss-och-tag | 乘公交和火车 | A2 |
 | 14 | text | Anslag i tvättstugan | anslag-i-tvattstugan | 洗衣房告示 | A2 |
-| 15 | dialog | Arbetsintervju: jobb som vårdbiträde | arbetsintervju-vardbitrade | 求职面试：护理助理（面试 ⭐） | B1 |
-| 16 | text | Brev till en vän om mitt nya liv i Sverige | brev-till-van-nya-livet | 给朋友写信：在瑞典的新生活 | A2–B1 |
-| 17 | text | Berätta och ge råd: tips inför SFI | rad-borja-pa-sfi | 给即将上 SFI 的朋友的建议 | A2–B1 |
+| 15 | dialog | Arbetsintervju: jobb som vårdbiträde | arbetsintervju-vardbitrade | 求职面试：护理助理（面试 ⭐） | A2–B1 |
+| 16 | text | Brev till en vän om mitt nya liv i Sverige | brev-till-van-nya-livet | 给朋友写信：在瑞典的新生活 | A2 |
+| 17 | text | Berätta och ge råd: tips inför SFI | rad-borja-pa-sfi | 给即将上 SFI 的朋友的建议 | A2 |
 | 18 | dialog | På restaurang — beställa middag | pa-restaurang-bestalla-middag | 餐厅点晚餐 | A2 |
-| 19 | story | En vändpunkt i mitt liv | vandpunkt-i-mitt-liv | 我人生的转折点 | A2–B1 |
-| 20 | text | Annons: lägenhet uthyres | annons-lagenhet-uthyres | 广告：公寓出租 | A2–B1 |
-| 21 | dialog | Paruppgift: vad är viktigast där ni bor? | diskussion-viktigast-dar-ni-bor | 双人讨论：住处什么最重要（班级辩论 ⭐） | B1 |
-| 22 | text | Instruktion: så källsorterar du hemma | instruktion-kallsortering | 说明：在家如何垃圾分类 | A2–B1 |
+| 19 | story | En vändpunkt i mitt liv | vandpunkt-i-mitt-liv | 我人生的转折点 | A2 |
+| 20 | text | Annons: lägenhet uthyres | annons-lagenhet-uthyres | 广告：公寓出租 | A2 |
+| 21 | dialog | Paruppgift: vad är viktigast där ni bor? | diskussion-viktigast-dar-ni-bor | 双人讨论：住处什么最重要（班级辩论 ⭐） | A2–B1 |
+| 22 | text | Instruktion: så källsorterar du hemma | instruktion-kallsortering | 说明：在家如何垃圾分类 | A2 |
 | 23 | text | Felanmälan till hyresvärden | felanmalan-hyresvard | 向房东报修 | A2–B1 |
 | 24 | story | Vädret och årstiderna | vadret-och-arstiderna | 天气与季节 | A2 |
-| 25 | text | Notis: ny cykelbana invigd i staden | notis-ny-cykelbana | 简讯：城市新自行车道 | A2–B1 |
-| 26 | text | Insändare: behöver vårt område fler cykelvägar? | insandare-fler-cykelvagar | 投书：小区需要更多自行车道吗？ | B1 |
-| 27 | text | Recension: en film jag nyligen sett | recension-film | 评论：我最近看的电影 | B1 |
-| 28 | dialog | Tidningsintervju: en bagare om sitt yrke | intervju-bagare-yrke | 报刊采访：面包师谈职业（人物专访 ⭐） | B1–B2 |
-| 29 | text | Platsannons och ett kort jobbsvar | platsannons-och-jobbsvar | 招聘启事与求职回信 | B1 |
-| 30 | text | Mejl till hyresvärden | mejl-till-hyresvarden | 给房东发邮件（正式） | B1 |
-| 31 | text | Faktatext: källsortering och återvinning i Sverige | faktatext-atervinning | 事实文：瑞典的垃圾分类与回收 | B1 |
-| 32 | text | Krönika: att vara ny i ett nytt land | kronika-ny-i-nytt-land | 专栏随笔：在陌生国家当新人 | B1 |
+| 25 | text | Notis: ny cykelbana invigd i staden | notis-ny-cykelbana | 简讯：城市新自行车道 | A2 |
+| 26 | text | Insändare: behöver vårt område fler cykelvägar? | insandare-fler-cykelvagar | 投书：小区需要更多自行车道吗？ | A2–B1 |
+| 27 | text | Recension: en film jag nyligen sett | recension-film | 评论：我最近看的电影 | A2–B1 |
+| 28 | dialog | Tidningsintervju: en bagare om sitt yrke | intervju-bagare-yrke | 报刊采访：面包师谈职业（人物专访 ⭐） | A2–B1 |
+| 29 | text | Platsannons och ett kort jobbsvar | platsannons-och-jobbsvar | 招聘启事与求职回信 | A2–B1 |
+| 30 | text | Mejl till hyresvärden | mejl-till-hyresvarden | 给房东发邮件（正式） | A2–B1 |
+| 31 | text | Faktatext: källsortering och återvinning i Sverige | faktatext-atervinning | 事实文：瑞典的垃圾分类与回收 | A2–B1 |
+| 32 | text | Krönika: att vara ny i ett nytt land | kronika-ny-i-nytt-land | 专栏随笔：在陌生国家当新人 | A2–B1 |
 | 33 | text | Schema och öppettider: veckoprogram och tidtabell | schema-oppettider-tidtabell | 日程与时刻表 | A2 |
-| 34 | text | Debattinlägg: sociala medier och ungas hälsa | debattinlagg-sociala-medier | 辩论帖：社交媒体与年轻人健康 | B1–B2 |
+| 34 | text | Debattinlägg: sociala medier och ungas hälsa | debattinlagg-sociala-medier | 辩论帖：社交媒体与年轻人健康 | A2–B1 |
 
 ## 2. 读档案 + 查重 (Profile & light dedup)
 
@@ -79,9 +79,9 @@ Svenska som andraspråk 的**国家考试 (Nationella prov)** 体裁：**日常�
 每篇都严格按 **`sv-scenario` 技能的 §2 体裁目录与篇幅、§3 水平规则、§4 输出契约**生成：
 - 用本主题指定的 `type`（dialog 6–12 轮 / text 80–150 词 / story 80–150 词）。
 - **按体裁选语域**（SKILL §2c）：论说/正式体裁（insändare、debattinlägg、formellt brev、felanmälan、
-  referat）用书面、礼貌、结构化语域，CEFR 偏 B1–B2，不要降到 A1；功能性体裁（anslag、annons、schema）
+  referat）用书面、礼貌、结构化语域，CEFR 以 A2–B1 为主，避免 B2；功能性体裁（anslag、annons、schema）
   简洁要点式，A2 即可；对话体裁用自然口语，面试/辩论比闲聊正式半档。
-- 水平由情景决定，以 A2–B1 为主，少数论说体裁可到 B1–B2；不强行把论说文压成 A1。
+- 水平以 **A1–A2 为主**，适量 B1 可接受（如面试、报修等实用场景），**避免 B2**；论说体裁也用简单词汇和短句写。
 - 词汇一律 **grundform**。
 - `sentences:` 必须覆盖文本中每一个有意义的句子（对话每一轮、文本每一句）。**非连续文本**
   （blankett/schema/diagram，SKILL §2b）只把完整的指令/说明句收进 `sentences:`，不要把表格字段硬拆成句子。

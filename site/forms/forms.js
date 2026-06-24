@@ -1,20 +1,23 @@
-/* Former — 词形变化 by 词性. Reads window.KB_DATA from ../kb-data.js.
+/* Former — 词形变化 by 词性. Reads the shared KB (window.KB from kb-index.js +
+   kb-store.js); note bodies for the detail popup load lazily via KB.body().
    One table per word class (ordklass): word | 词形 (forms) | 意思 (meaning), sorted by time. */
 
 (function () {
   'use strict';
 
   const main = document.getElementById('formsMain');
-  const data = window.KB_DATA;
-  if (!data || !Array.isArray(data.notes)) {
+  const KB = window.KB;
+  const MD = window.KBMarkdown;
+  if (!KB || !MD) {
     main.innerHTML =
-      '<p class="formsEmpty">⚠️ 找不到 kb-data.js — 请先运行 <code>node tools/build-kb-site.js</code>。</p>';
+      '<p class="formsEmpty">⚠️ 找不到 kb-index.js / kb-store.js — 请先运行 <code>node tools/build-kb-site.js</code>。</p>';
     return;
   }
 
   // All notes by slug (words + phrases/sentences/grammar/topics) — used by the
   // in-page detail popup so word + wikilink targets resolve without a page load.
-  const bySlug = new Map(data.notes.map((n) => [n.slug, n]));
+  // Metadata is eager (kb-index.js); full note bodies load lazily via KB.body().
+  const bySlug = KB.bySlug;
 
   // Display order + Chinese labels for the word classes.
   const CLASS_ORDER = [
@@ -42,7 +45,7 @@
     return { zh: zh || en, en: zh ? en : '' };
   }
 
-  const words = data.notes
+  const words = KB.notes
     .filter((n) => n.type === 'word')
     .map((n) => ({
       slug: n.slug,
@@ -69,7 +72,7 @@
   // ---- source index (provenance: which 来源/source introduced each word) ----
   // Source notes list the slugs they introduced in `words:`. Invert that so each
   // word knows where it came from, and bucket sources by their date for the
-  // by-date view. No build change needed — kb-data.js already carries it.
+  // by-date view. No build change needed — kb-index.js already carries it.
   const KIND_ICON = {
     article: '📄', text: '📝', dialog: '💬', conversation: '💬',
     story: '📖', narrative: '📖', image: '📷', photo: '📷',
@@ -79,7 +82,7 @@
   function srcDate(s) { return (s.date || s.date_added || s.created || '').toString(); }
   function srcLabel(s) { return (s.source_label || s.title || s.slug || '').toString(); }
 
-  const sources = data.notes.filter((n) => n.type === 'source');
+  const sources = KB.notes.filter((n) => n.type === 'source');
   const sourcesByDate = new Map(); // 'YYYY-MM-DD' -> [source...]
   const wordSource = new Map();    // word slug -> source note (first claimer wins)
   for (const s of sources) {
@@ -212,123 +215,9 @@
       ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   }
 
-  // ---- compact markdown renderer (subset ported from ../app.js) ----
-  // Renders a note body for the in-page popup: headings, lists, tables,
-  // code fences, blockquotes, hr, and inline (code/links/bold/italic/wikilinks).
-
-  function inlineMd(value) {
-    let html = esc(value);
-    html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
-    html = html.replace(/\[([^\]]+)\]\((https?:[^\s)]+)\)/g, (_m, text, url) =>
-      `<a href="${url}" target="_blank" rel="noopener noreferrer">${text}</a>`);
-    html = html.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
-    html = html.replace(/(^|[^*\w])\*([^*\n]+)\*(?!\w)/g, '$1<em>$2</em>');
-    html = html.replace(/(^|[\s(])_([^_\n]+)_(?=[\s).,!?:;]|$)/g, '$1<em>$2</em>');
-    // wikilinks [[target|label]] → clickable if the target exists in the KB
-    html = html.replace(/\[\[([^\]]+)\]\]/g, (_m, raw) => {
-      const target = raw.split('|')[0].trim();
-      const label = raw.includes('|') ? raw.split('|').slice(1).join('|').trim() : target;
-      const exists = bySlug.has(target);
-      const cls = exists ? 'wikiLink' : 'wikiLink missingLink';
-      return `<button type="button" class="${cls}" data-wikilink="${esc(target)}">${esc(label)}</button>`;
-    });
-    return html;
-  }
-
-  function isListLine(line) { return /^[ \t]*([-*+]|\d+\.)\s+/.test(line); }
-  function listIndent(line) { return /^([ \t]*)/.exec(line)[1].replace(/\t/g, '  ').length; }
-
-  function renderList(lines, start, baseIndent) {
-    const first = /^[ \t]*([-*+]|\d+\.)\s+/.exec(lines[start]);
-    const tag = /\d+\./.test(first[1]) ? 'ol' : 'ul';
-    const items = [];
-    let i = start;
-    while (i < lines.length) {
-      const line = lines[i];
-      if (!line.trim()) break;
-      if (!isListLine(line) || listIndent(line) < baseIndent) break;
-      const m = /^[ \t]*(?:[-*+]|\d+\.)\s+(.*)$/.exec(line);
-      let content = inlineMd(m[1]);
-      i += 1;
-      if (i < lines.length && lines[i].trim() && isListLine(lines[i]) && listIndent(lines[i]) > baseIndent) {
-        const nested = renderList(lines, i, listIndent(lines[i]));
-        content += nested.html;
-        i = nested.nextIndex;
-      }
-      items.push(`<li>${content}</li>`);
-    }
-    return { html: `<${tag}>${items.join('')}</${tag}>`, nextIndex: i };
-  }
-
-  function renderTable(lines, start) {
-    const rows = [];
-    let i = start;
-    while (i < lines.length && /^\s*\|.+\|\s*$/.test(lines[i])) { rows.push(lines[i].trim()); i += 1; }
-    const body = rows.filter((r) => !/^\|\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)+\|$/.test(r));
-    const htmlRows = body.map((row, idx) => {
-      const cells = row.slice(1, -1).split('|').map((c) => inlineMd(c.trim()));
-      const tg = idx === 0 ? 'th' : 'td';
-      return `<tr>${cells.map((c) => `<${tg}>${c}</${tg}>`).join('')}</tr>`;
-    });
-    return { html: `<table>${htmlRows.join('')}</table>`, nextIndex: i };
-  }
-
-  function mdToHtml(markdown) {
-    const lines = String(markdown || '').split(/\r?\n/);
-    const blocks = [];
-    let i = 0;
-    while (i < lines.length) {
-      const line = lines[i];
-      if (!line.trim()) { i += 1; continue; }
-
-      const fence = /^(\s*)(`{3,}|~{3,})(.*)$/.exec(line);
-      if (fence) {
-        const marker = fence[2][0];
-        const closeRe = new RegExp(`^\\s*\\${marker}{${fence[2].length},}\\s*$`);
-        const buf = [];
-        i += 1;
-        while (i < lines.length && !closeRe.test(lines[i])) { buf.push(lines[i]); i += 1; }
-        if (i < lines.length) i += 1;
-        blocks.push(`<pre><code>${esc(buf.join('\n'))}</code></pre>`);
-        continue;
-      }
-      const heading = /^(#{1,6})\s+(.+)$/.exec(line);
-      if (heading) {
-        const lvl = heading[1].length;
-        blocks.push(`<h${lvl}>${inlineMd(heading[2])}</h${lvl}>`);
-        i += 1;
-        continue;
-      }
-      if (/^\s*([-*_])(?:\s*\1){2,}\s*$/.test(line)) { blocks.push('<hr>'); i += 1; continue; }
-      if (/^\s*\|.+\|\s*$/.test(line)) {
-        const t = renderTable(lines, i);
-        blocks.push(t.html);
-        i = t.nextIndex;
-        continue;
-      }
-      if (/^\s*>\s?/.test(line)) {
-        const buf = [];
-        while (i < lines.length && /^\s*>\s?/.test(lines[i])) { buf.push(lines[i].replace(/^\s*>\s?/, '')); i += 1; }
-        blocks.push(`<blockquote>${mdToHtml(buf.join('\n'))}</blockquote>`);
-        continue;
-      }
-      if (isListLine(line)) {
-        const list = renderList(lines, i, listIndent(line));
-        blocks.push(list.html);
-        i = list.nextIndex;
-        continue;
-      }
-      const para = [];
-      while (
-        i < lines.length && lines[i].trim() &&
-        !/^(\s*)(`{3,}|~{3,})/.test(lines[i]) && !/^#{1,6}\s+/.test(lines[i]) &&
-        !/^\s*\|.+\|\s*$/.test(lines[i]) && !/^\s*>\s?/.test(lines[i]) &&
-        !isListLine(lines[i]) && !/^\s*([-*_])(?:\s*\1){2,}\s*$/.test(lines[i])
-      ) { para.push(lines[i].trim()); i += 1; }
-      if (para.length) blocks.push(`<p>${inlineMd(para.join(' '))}</p>`);
-    }
-    return blocks.join('');
-  }
+  // Markdown → HTML for the in-page popup comes from the shared renderer
+  // (../kb-markdown.js). Wikilinks resolve against the live KB.
+  const mdToHtml = (md) => MD.mdToHtml(md, { hasSlug: (t) => bySlug.has(t) });
 
   // ---- in-page detail popup ----
 
@@ -378,7 +267,7 @@
       readBlock +
       forms +
       '</header>' +
-      `<div class="fmDoc">${mdToHtml(note.body || '')}</div>`
+      `<div class="fmDoc" id="fmDoc"><p class="fmLoading">läser…</p></div>`
     );
   }
 
@@ -393,6 +282,13 @@
       document.body.classList.add('fmOpen');
     }
     overlay.querySelector('.fmClose').focus();
+    // Body is not in the eager index — fetch it lazily. The placeholder element
+    // is replaced; if the user opened another note meanwhile it is disconnected.
+    const docEl = fmInner.querySelector('#fmDoc');
+    KB.body(slug).then((data) => {
+      if (!docEl || !docEl.isConnected) return;
+      docEl.innerHTML = data ? mdToHtml(data.body || '') : '<p class="fmLoading">（找不到正文）</p>';
+    });
   }
 
   function closeDetail() {
@@ -694,7 +590,7 @@
   const updated = document.getElementById('formsUpdated');
   if (updated) {
     updated.textContent =
-      `${words.length} 词 · ${orderedClasses.length} 词性 · 数据 ${data.generatedAt || ''}`;
+      `${words.length} 词 · ${orderedClasses.length} 词性 · 数据 ${KB.generatedAt || ''}`;
   }
 
   // The page renders async, so an anchor in the URL (e.g. arriving back from

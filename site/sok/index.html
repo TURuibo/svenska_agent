@@ -5,59 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Sök — 查词字典 · svensk_agent</title>
     <link rel="stylesheet" href="../styles.css?v=3" />
+    <link rel="stylesheet" href="sok.css?v=4" />
   </head>
   <body data-site="sok">
-    <main class="shell">
-      <section class="sidebar" aria-label="Knowledge base navigation">
-        <header class="brand">
-          <p class="eyebrow">svensk_agent</p>
-          <h1>Sök <span class="brandSub">查词字典</span></h1>
-          <p id="updatedLabel" class="updated">Loading markdown index...</p>
-        </header>
-
-        <label class="searchBox">
-          <span>Search <span class="kbd">/</span></span>
-          <input id="searchInput" type="search" autocomplete="off" placeholder="word, meaning, grammar, link..." />
-        </label>
-
-        <details id="sidebarExtras" class="sidebarExtras" open>
-          <summary>Filters &amp; stats</summary>
-          <nav id="typeFilters" class="filters" aria-label="Filter by note type"></nav>
-
-          <section class="stats" aria-label="Knowledge base stats">
-            <h2>Stats</h2>
-            <div id="statsGrid" class="statsGrid"></div>
-          </section>
-        </details>
-      </section>
-
-      <section class="resultsPane" aria-label="Search results">
-        <div class="toolbar">
-          <div>
-            <p class="eyebrow">Browse</p>
-            <h2 id="resultCount">0 notes</h2>
-          </div>
-          <select id="sortSelect" aria-label="Sort notes">
-            <option value="title">Sort by title</option>
-            <option value="type">Sort by type</option>
-            <option value="created">Sort by created date</option>
-          </select>
+    <main class="palette">
+      <header class="paletteHead">
+        <p class="eyebrow">svensk_agent</p>
+        <h1>Sök <span class="brandSub">查词字典</span></h1>
+        <div class="searchWrap">
+          <input id="searchInput" type="search" autocomplete="off" autofocus
+                 placeholder="搜索词、词组、句子、语法、链接…" aria-label="Search the knowledge base" />
+          <span class="kbHint"><span class="kbd">/</span></span>
         </div>
-        <div id="resultList" class="resultList"></div>
-      </section>
+        <nav id="typePills" class="typePills" aria-label="Filter by note type"></nav>
+        <p id="statLine" class="statLine"></p>
+      </header>
 
-      <article class="detailPane" aria-label="Selected note">
-        <button id="backButton" class="backBar" type="button">← 浏览全部 Browse all</button>
-        <div id="detailEmpty" class="emptyState">
-          <p class="eyebrow">Select a note</p>
-          <h2>Search and open any markdown entry.</h2>
-        </div>
-        <div id="detailContent" class="detailContent" hidden></div>
-      </article>
+      <!-- results list (shown only while searching) -->
+      <p id="resultCount" hidden></p>
+      <div id="results" class="results" aria-label="Search results" hidden></div>
+
+      <!-- selected note (full width) -->
+      <article id="note" class="note detailContent" aria-label="Selected note" hidden></article>
+
+      <!-- empty / idle hint -->
+      <div id="emptyHint" class="emptyHint">
+        <p class="big">开始输入以搜索知识库</p>
+        <p id="emptyCount"></p>
+      </div>
     </main>
 
-    <script src="../kb-data.js"></script>
-    <script src="app.js?v=3"></script>
+    <script src="../kb-index.js?v=4"></script>
+    <script src="../kb-markdown.js?v=4"></script>
+    <script src="../kb-store.js?v=5"></script>
+    <script src="../speak.js?v=2"></script>
+    <script src="app.js?v=5"></script>
     <script src="../nav.js?v=2"></script>
   </body>
 </html>

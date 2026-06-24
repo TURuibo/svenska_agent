@@ -939,3 +939,72 @@ mark {
     color: #ffe9a8;
   }
 }
+
+/* ============================================================
+   🔊 Pronunciation control (speak.js) — shared by Sök / Läsning
+   / Dagbok / Lyssna. Tap to hear the Swedish via browser sv-SE TTS.
+   Rendered as <span role="button"> so it nests inside button rows.
+   ============================================================ */
+.speakBtn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.55em;
+  height: 1.55em;
+  padding: 0;
+  margin: 0 0 0 0.3em;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel-soft);
+  color: var(--green);
+  font-size: 0.82em;
+  line-height: 1;
+  cursor: pointer;
+  vertical-align: middle;
+  flex: none;
+  user-select: none;
+  -webkit-user-select: none;
+  transition: background 0.15s, border-color 0.15s, transform 0.1s;
+  -webkit-tap-highlight-color: transparent;
+}
+.speakBtn:hover { background: var(--green); border-color: var(--green); }
+.speakBtn.speaking { background: var(--green); border-color: var(--green); transform: scale(1.1); }
+.speakBtn:focus-visible { outline: 2px solid var(--green); outline-offset: 1px; }
+/* Lyssna: keep the per-line 🔊 pinned to the top of a tall cue row. */
+.cue .cueSpeak { align-self: flex-start; margin-top: 2px; }
+
+/* No-Swedish-voice hint banner (speak.js) — fixed, dismissible. */
+.svSpeakHint {
+  position: fixed;
+  left: 50%;
+  bottom: 18px;
+  transform: translateX(-50%);
+  z-index: 9999;
+  max-width: min(560px, calc(100vw - 24px));
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+  font-family: var(--cjk);
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+.svSpeakHint b { color: var(--green-dark); }
+.svSpeakHintMsg { flex: 1 1 auto; }
+.svSpeakHintClose {
+  flex: none;
+  align-self: center;
+  padding: 6px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel-soft);
+  color: var(--green-dark);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.svSpeakHintClose:hover { background: var(--green); color: #fff; border-color: var(--green); }

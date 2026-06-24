@@ -177,7 +177,7 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 1. /dagens-scenario   （批量：按 day-of-year 生成当天 5 篇，一周轮完 35 体裁，不需联网）
 2. 对刚生成的**每一个** inbox/scenario-<date>-*.md（今天 5 篇）逐篇跑 /import（spawn librarian/importer 用前台，每篇等完整 manifest 再做下一篇）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （三个 viewer 数据文件 `kb-data.js`/`reading-data.js`/`listening-data.js` 已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js` 已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：同时在本地任务和云端跑会同一天生成两篇。改用云端后，请在桌面把本地那条 scenario 任务**停用**。
@@ -197,6 +197,15 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 > 标成可点的虚线词，点开即在**同页弹出**释义卡（中文/英文/词类/CEFR/变形 + 「完整笔记 →」跳 Sök），
 > 中文译文层/代码/标题不参与高亮。顶栏 **🔤 生词** 开关可整体开关（状态存 localStorage）。所以新词只要进过 KB，
 > 下次读文章时就自动变成可查的链接，无需手动标注。
+
+> **查不到的词怎么办 (🔍 查词 → 📥 想学):** 阅读站是纯静态页、连不到 CC，所以"让 CC 帮我查 KB 还没有的词"
+> 靠**攒命令、回 CC 粘贴**这条桥（清单存 localStorage、顶栏带计数）：
+> - **🔍 查词模式** 开启后，正文里**没标的词**也可点。点开在 `vocab`(已入库的词) 里**只读**搜一下，看 KB 有没有、词义是什么。
+> - 若 KB **确实还没有这个词** →「➕ 想学」或「📋 复制 /learn」加入 **📥 想学清单**，复制成一条 `/learn a, b, c`
+>   命令回 CC，让 swedish-dictionary（必要时联网）真正查词入库。
+> 回 CC 跑完 + `/sync` 推送、下次重建后，这些词就在阅读站变成可点的 KB 生词。`/learn` 里存的是**你点的词形**
+> （如 `arbetade`），由 swedish-dictionary 自己还原词元（grundform），不必先猜词元。
+> （注：旧的「🔗 链接清单 / `/link-forms`」把词形手动接到已有词的功能已于 2026-06-24 移除。）
 
 ### §4.3 多设备同步 (Multi-device sync via GitHub)
 
@@ -218,9 +227,10 @@ KB 文件本身是 tracked 的，能正常同步。但**入库 ≠ 上 GitHub**�
   且照片场景常是临时拍一张就走，用户容易忘记手动 `/sync` 导致丢同步。所以：转写确认 → 分析 →
   `sv-librarian` 批量写库 + 建 `sources/` → **主 agent 直接调用 `/sync`**（commit+push）→ 回报。
 
-**`/sync` 做的事：** 重建站点数据 → 暂存 `knowledge_base/` + `review/schedule.md` + `profile/` +
-`site/kb-data.js` → 一个 commit → `pull --rebase` → push 到 GitHub。其他设备 `git pull` 即拿到；
-`site/kb-data.js` 也会由 GitHub Action 在 push 后自动重建。
+**`/sync` 做的事：** 重建站点数据（`slugs.json`）→ 暂存 `knowledge_base/` + `review/schedule.md` +
+`profile/` + `slugs.json` → 一个 commit → `pull --rebase` → push 到 GitHub。其他设备 `git pull` 即拿到；
+viewer 数据文件（`site/kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`）已 gitignore，
+由 GitHub Action 在 push 后自动重建。
 
 **换设备同步现在全自动**，无需提醒用户手动 `git pull`。每次开会话，`SessionStart` 钩子
 `git_autopull.ps1` 会 `git fetch` 并按情况自动同步：
@@ -273,7 +283,7 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 1. /dagens-nyheter
 2. 对刚生成的 inbox/news-*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （三个 viewer 数据文件 `kb-data.js`/`reading-data.js`/`listening-data.js` 已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js` 已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：news 同时在本地 `svensk-news-daily` 和云端跑会重复抓取/产生两份当日新闻。
@@ -329,7 +339,7 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 
 每天生成一篇 **SFI 风格的瑞典语 lättläst 阅读文章**，体裁**按 day-of-year 轮换**，让阅读素材多样
 （不只是传记）。仿 KB 里 [[source-2026-06-02-astrid-lindgren]] / [[source-2026-06-09-zlatan-bio]] 那种短句、
-A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` 导入块）与 `/scenario`、`/dagens-nyheter` 一致。
+A1–A2 的读物。素材两段式格式（可读正文 + `svensk-export v1` 导入块）与 `/scenario`、`/dagens-nyheter` 一致。
 
 - `/dagens-artikel [YYYY-MM-DD] [genre 0-7]` — 命令 `.claude/commands/dagens-artikel.md`：按
   `INDEX = day-of-year mod 8` 选体裁 → **查重**（不重复已入库题材）→ `WebSearch`/`WebFetch` 查**真实事实**
@@ -372,11 +382,16 @@ A2–B1 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 所以 §4.4–§4.6 的 remote routine（news / listening / scenario / artikel / adjsubst）跑完生成 + `/import`
 后，**统一**按本节收尾（commit/push 并自动开 PR + merge）。
 
-**⭐ 2026-06-23 架构改：三个生成的 viewer 数据文件已移出 git。**
-`site/kb-data.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js` 现在都在 `.gitignore`，
-**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回 main**。所以以前
-「Action 提交 viewer 文件 → 和 routine 抢 → 每次 merge 必冲突」的根源**没了**：routine **绝不碰这三个文件**，
-PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数据文件、⑥force-push 对齐分支）。
+**⭐ 2026-06-23 架构改：生成的 viewer 数据文件已移出 git。**
+`site/kb-index.js`、`site/kb-bodies.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js`
+现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
+main**。所以以前「Action 提交 viewer 文件 → 和 routine 抢 → 每次 merge 必冲突」的根源**没了**：routine **绝不碰
+这几个文件**，PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数据文件、⑥force-push 对齐分支）。
+
+> 🔎 **2026-06-24 性能重构：`kb-data.js`（8.9 MB 单块）已拆成 `kb-index.js`（轻量、即时加载）+ `kb-bodies.js`
+> （正文，按需懒加载）。** 所有站点（Sök / Former / Dagbok / Läsning / Lyssna）改用共享模块
+> `site/kb-store.js`（数据 + 搜索 + `KB.openNote` 笔记弹窗）与 `site/kb-markdown.js`（统一 Markdown 渲染）；
+> Sök 重做成命令面板式纯搜索页。这些是源文件（tracked），随源码提交。
 
 > 🗂️ **本地 PowerShell 流水线已退役（2026-06-23）。** remote 定时 session 是**唯一**自动入库来源。
 > `scripts/daily-{news,scenario,adjsubst,listening}.ps1` + 桌面 Scheduled task（`svensk-*-daily`）**请全部停用**，
@@ -384,7 +399,7 @@ PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数�
 
 **① 只提交源文件 + `slugs.json`：**
 ```bash
-node tools/build-kb-site.js          # 更新 slugs.json（dedup 依赖）；顺带生成的 kb-data.js 是 gitignore，git add 自动跳过
+node tools/build-kb-site.js          # 更新 slugs.json（dedup 依赖）；顺带生成的 kb-index.js/kb-bodies.js 是 gitignore，git add 自动跳过
 git add knowledge_base/ listening/ imported/ review/ profile/ knowledge_base/_index/slugs.json
 git commit -m "<routine>: <一句话>"
 git push -u origin <当前 branch>
@@ -450,3 +465,7 @@ items, quizzes the user, and updates the schedule + frontmatter based on perform
 - Be encouraging and concise in chat. Put the exhaustive material in files.
 - Use the emoji conventions from the Swedish skills (🇸🇪 🇨🇳 📌 📐 ⚠️ …) for scannability.
 - Dates are absolute (e.g. `2026-06-02`), never "today".
+- **结构化回答 (structured answers — Ruibo 的固定偏好):** 回答问题 / 解释概念时，**默认用结构化呈现**——
+  表格、对比矩阵、列表、ASCII 图 / 流程图 / 决策树等——让关键信息**一眼可抓 (capture immediately)**，
+  同时**不丢细节 (without losing details)**。能用表格 / 图表说清的就**不要堆大段纯文字 (avoid plain-text walls)**。
+  此偏好对**所有解释类回答**生效，不限于瑞典语内容。

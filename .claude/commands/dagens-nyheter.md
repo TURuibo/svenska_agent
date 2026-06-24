@@ -26,7 +26,7 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 ## 2. 读档案 (Profile — 轻量)
 
 `Read` → `profile/level.md`：了解已掌握词，挑选生词时偏向「已知词复习 + 约 5–12 个新词/词组」。
-新闻词汇以原文为准，不强行降级；遇到偏难的专有名词可在备注里点明但不必全部入库。
+生词提取以原文为准，不强行降级；遇到偏难的专有名词可在备注里点明但不必全部入库。
 
 ## 3. 写文件 (Write the inbox page)
 
