@@ -5,7 +5,7 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 ---
 
 生成（或基于真实资料抓取）**一篇 SFI / lättläst 风格的瑞典语人物传记**，仿你 KB 里 [[source-2026-06-02-astrid-lindgren]]
-和 [[source-2026-06-09-zlatan-bio]] 那一类传记文章：短句、A2–B1 词汇、按时间顺序叙述一个名人的一生。
+和 [[source-2026-06-09-zlatan-bio]] 那一类传记文章：短句、A1–A2 词汇、按时间顺序叙述一个名人的一生。
 写成**可读正文 + `svensk-export v1` 导入块**，存入 `inbox/biografi-<DATE>-<slug>.md`。
 不碰 `knowledge_base/`、不自动 `/import`（入库由 `/import` 或定时流水线完成）。
 
@@ -32,7 +32,7 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
    August Strindberg（作家）· Dag Hammarskjöld（联合国）· Raoul Wallenberg（二战义士）·
    Stefan Edberg / Annika Sörenstam（体育）· Astrid 之外的科学家如 Anders Celsius（摄氏度）。
 
-   挑选时偏向：生平有清晰时间线、词汇贴近 A2–B1、和已入库人物**类型不同**（别连写两个足球运动员）。
+   挑选时偏向：生平有清晰时间线、词汇贴近 A1–A2、和已入库人物**类型不同**（别连写两个足球运动员）。
 
 ## 2. 查事实 (Research — 不得编造)
 
@@ -48,7 +48,7 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 ## 3. 写传记正文 (Write the biography — SFI / lättläst 风格)
 
 - **语言**：简单瑞典语，短句，主要时态 **preteritum**，按**时间顺序**（出生 → 童年 → 成名 → 晚年/影响）。
-- **篇幅**：约 **120–220 词**（≈ Astrid / Zlatan 那篇的长度）。CEFR **A2–B1**。
+- **篇幅**：约 **120–220 词**（≈ Astrid / Zlatan 那篇的长度）。CEFR **A1–A2**（适量 B1 词汇可接受，避免 B2）。
 - **词汇**：一律 grundform 入导出块（名词单数不定式、动词不定式、形容词原级）。
 
 ## 4. 写文件 (Write the inbox page)
@@ -62,7 +62,7 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 
 **类型 (type):** biografi
 **来源 (source):** <"lättläst 改写" 或真实来源 URL>
-**CEFR 估计:** <A2–B1>
+**CEFR 估计:** <A1–A2>
 **生成日期:** <DATE>
 
 ---

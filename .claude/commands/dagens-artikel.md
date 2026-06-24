@@ -43,7 +43,7 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 1. `Glob` → `knowledge_base/sources/*.md`、`imported/<slug前缀>*.md`、`inbox/<slug前缀>*.md`，
    `Grep` 标题/题材，列出该体裁**已覆盖**的题材。
 2. 若 `$ARGUMENTS` 指定了具体题材 → 用它（先确认未重复；重复则告诉用户「已存在」并停止）。
-3. 否则从该体裁候选池里挑第一个**尚未覆盖**的题材。优先：事实可查、贴近 A2–B1、与近期已写题材类型不同。
+3. 否则从该体裁候选池里挑第一个**尚未覆盖**的题材。优先：事实可查、贴近 A1–A2、与近期已写题材类型不同。
 
 ## 3. 查事实 (Research — 不得编造)
 
@@ -58,7 +58,7 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 ## 4. 写文章正文 (Write the article — SFI / lättläst 风格)
 
 - **语言**：简单瑞典语、短句。时态按体裁表（传记/历史用 preteritum；国情/自然/地方/科普用 presens）。
-- **篇幅**：约 **120–220 词**。CEFR **A2–B1**（不强行降到 A1）。
+- **篇幅**：约 **120–220 词**。CEFR **A1–A2**（适量 B1 词汇可接受，避免 B2）。
 - **词汇**：导出块一律 grundform（名词单数不定式、动词不定式、形容词原级）。
 
 ## 5. 写文件 (Write the inbox page)
@@ -72,7 +72,7 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 
 **类型 (type):** <genre>
 **来源 (source):** <"lättläst 改写" 或真实来源 URL>
-**CEFR 估计:** <A2–B1>
+**CEFR 估计:** <A1–A2>
 **生成日期:** <DATE>
 
 ---
