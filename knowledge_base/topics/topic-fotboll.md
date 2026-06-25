@@ -3,7 +3,7 @@ type: topic
 name: "fotboll"
 kind: semantic-field
 zh: 足球（语义场）
-members: [lagkamrat, motspelare, lag, plats, satsa, proffs, landslag, ta-en-plats, gora-mal, satsa-pa, känd, föda]
+members: [lagkamrat, motspelare, lag, plats, satsa, proffs, landslag, ta-en-plats, gora-mal, satsa-pa, känd, föda, spelare]
 created: "2026-06-09"
 ---
 
@@ -29,6 +29,7 @@ created: "2026-06-09"
 - [[ta-en-plats]] — 争取一个席位 (secure a spot)
 - [[gora-mal]] — 进球 (score a goal)
 - [[satsa-pa]] — 投入于；追求 (go for, focus on)
+- [[spelare]] — 运动员；球员 (player, athlete)
 
 ## 代表人物 (Example)
 

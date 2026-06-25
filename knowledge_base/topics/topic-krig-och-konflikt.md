@@ -18,6 +18,9 @@ members:
   - skott
   - civil
   - båt
+  - folkmord
+  - militär
+  - paus
 created: "2026-06-18"
 ---
 
@@ -41,6 +44,9 @@ created: "2026-06-18"
 - [[skott]] — 枪声，射击
 - [[civil]] — 民用的
 - [[båt]] — 船
+- [[folkmord]] — 种族灭绝
+- [[militär]] — 军人；军队
+- [[paus]] — 暂停；停火
 
 ## 备注 (Notes)
 
