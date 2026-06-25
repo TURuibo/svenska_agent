@@ -8,6 +8,35 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-25-alfred-nobel — 10词NEW / 4词组NEW / 14句NEW / 0语法NEW (2词DUP: ingenjör, bestämma; 2词ENRICHED: nyfiken, tunnel; 4语法DUP) —** | | | | | | |
+| [[uppfinna]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sprängämne]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[dynamit]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[patent]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kemist]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[välgörare]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[vetenskaplig]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[förmögenhet]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[nyfiken]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[tunnel]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[oroa-sig-för]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[dela-ut]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[för-att-bygga]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[göra-stora-saker]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-alfred-nobel-foddes-den-21-oktober-1833]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-hans-pappa-hette-immanuel-nobel-och-var-ingenjör]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-alfred-var-ett-nyfiket-barn]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-han-gillade-kemi-och-vetenskap]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-han-lärde-sig-tala-sex-språk-när-han-var-ung]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-år-1867-uppfann-alfred-nobel-dynamit]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-dynamit-var-ett-nytt-och-säkrare-sprängämne]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-det-användes-för-att-bygga-tunnlar-och-vägar]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-under-sitt-liv-fick-alfred-355-patent]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-alfred-tjänade-mycket-pengar-på-sina-uppfinningar]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-han-oroade-sig-för-att-folk-använde-dem-i-krig]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-hans-pengar-skulle-gå-till-ett-stort-pris]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-varje-år-får-personer-som-har-gjort-stora-saker]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-det-delas-ut-i-stockholm-och-i-oslo]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | **— source-2026-06-24-listening-svt-latt — 8词NEW / 3词组NEW / 31句NEW / 1语法NEW (6词DUP 2词组DUP 1语法DUP) —** | | | | | | |
 | [[transportera]] | word | — | 0 | 2.5 | 2026-06-24 | no |
 | [[gömma]] | word | — | 0 | 2.5 | 2026-06-24 | no |

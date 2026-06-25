@@ -6,10 +6,44 @@ cefr: "A1-A2"
 date_added: "2026-06-25"
 source_label: "biografi — Alfred Nobel (lättläst)"
 date: "2026-06-25"
-words: []
-phrases: []
-sentences: []
-grammar: []
+words:
+  - uppfinna
+  - sprängämne
+  - dynamit
+  - patent
+  - nyfiken
+  - kemist
+  - välgörare
+  - vetenskaplig
+  - tunnel
+  - förmögenhet
+  - ingenjör
+  - bestämma
+phrases:
+  - oroa-sig-för
+  - dela-ut
+  - för-att-bygga
+  - göra-stora-saker
+sentences:
+  - sent-alfred-nobel-foddes-den-21-oktober-1833
+  - sent-hans-pappa-hette-immanuel-nobel-och-var-ingenjör
+  - sent-alfred-var-ett-nyfiket-barn
+  - sent-han-gillade-kemi-och-vetenskap
+  - sent-han-lärde-sig-tala-sex-språk-när-han-var-ung
+  - sent-år-1867-uppfann-alfred-nobel-dynamit
+  - sent-dynamit-var-ett-nytt-och-säkrare-sprängämne
+  - sent-det-användes-för-att-bygga-tunnlar-och-vägar
+  - sent-under-sitt-liv-fick-alfred-355-patent
+  - sent-alfred-tjänade-mycket-pengar-på-sina-uppfinningar
+  - sent-han-oroade-sig-för-att-folk-använde-dem-i-krig
+  - sent-hans-pengar-skulle-gå-till-ett-stort-pris
+  - sent-varje-år-får-personer-som-har-gjort-stora-saker
+  - sent-det-delas-ut-i-stockholm-och-i-oslo
+grammar:
+  - grammar-starka-verb
+  - grammar-reflexivt-verb
+  - grammar-passiv-med-s
+  - grammar-for-att-infinitiv
 ---
 
 # 📄 Alfred Nobel — kemist, uppfinnare och välgörare
