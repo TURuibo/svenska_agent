@@ -3,7 +3,7 @@ type: topic
 name: "samhälle-och-politik"
 kind: semantic-field
 zh: "社会与政治"
-members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda]
+members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis]
 created: "2026-06-04"
 ---
 
@@ -37,6 +37,15 @@ created: "2026-06-04"
 - [[smuggla]] — 走私
 - [[drog]] — 毒品
 - [[förbjuda]] — 禁止
+- [[undersöka]] — 检查；调查
+- [[brott]] — 罪行；违法行为
+- [[tjänstefel]] — 渎职；公务失职
+- [[misstänka]] — 怀疑；嫌疑
+- [[bevis]] — 证据
+- [[böter]] — 罚款（复数）
+- [[domstol]] — 法院（已存在）
+- [[lag]] — 法律（已存在）
+- [[polis]] — 警察（已存在）
 
 ## 备注 (Notes)
 

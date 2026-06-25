@@ -8,6 +8,57 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-25-nyheter-8sidor — 22词NEW / 4词组NEW / 23句NEW / 1语法NEW (DUP: polis, döma, tappa, domstol, allvarlig, skada, undersökning, blomma, utsläpp, våg, myndighet, straff, skådespelare, flytta, lag, betala, tappa-bort, bland-annat, trots-att, grammar-passiv-konstruktion, grammar-trots-att) —** | | | | | | |
+| [[undersöka]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kläder]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[brott]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[tjänstefel]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[misstänka]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[bevis]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[funktionsnedsättning]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[böter]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[folkmord]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[militär]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[paus]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[alg]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[giftig]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[östersjön]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[badplats]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[svälja]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[jordbruk]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[fabrik]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[miljon]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[miljard]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[spelare]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[teater]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[med-flit]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[vara-kvar]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[bli-känt]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[växa-upp]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[grammar-om-raka-infinitiv]] | grammar | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-en-polis-undersokte-en-mans-klader]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-nu-har-han-blivit-domd-for-brottet]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-polisen-tappade-bort-sin-telefon]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-polisen-hade-for-lite-bevis]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-personen-har-en-funktionsnedsattning]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-polisens-straff-blir-att-betala-boter]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-israel-gor-brottet-folkmord-pa-palestinier]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-folkmord-ar-ett-av-de-allvarligaste]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-den-sager-att-israels-militarer-dodar]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-folkmordet-har-fortsatt-trots-att]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-nu-blommar-algerna-i-nastan-hela]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-algerna-kan-vara-giftiga-for-manniskor]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-du-ska-helst-inte-bada-bland]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-om-du-rakar-svalja-vatten]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-de-giftiga-algerna-beror-bland-annat]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-den-svenska-spelaren-felicia-schroder]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-hacken-sager-att-hon-blir-den-dyraste]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-paris-saint-germain-betalade-2-1]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-staffan-westerberg-har-dott]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-han-var-en-kand-skadespelare]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-westerberg-vaxte-upp-i-lulea]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-han-flyttade-till-stockholm-efter-studenten]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-staffan-westerberg-blev-92-ar-gammal]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | **— source-2026-06-25-alfred-nobel — 10词NEW / 4词组NEW / 14句NEW / 0语法NEW (2词DUP: ingenjör, bestämma; 2词ENRICHED: nyfiken, tunnel; 4语法DUP) —** | | | | | | |
 | [[uppfinna]] | word | — | 0 | 2.5 | 2026-06-25 | no |
 | [[sprängämne]] | word | — | 0 | 2.5 | 2026-06-25 | no |

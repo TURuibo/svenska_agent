@@ -3,7 +3,7 @@ type: topic
 name: "litteratur och kultur"
 kind: semantic-field
 zh: 文学与文化（语义场）
-members: [barnboksförfattare, saga, bokförlag, förlag, publicera, berätta]
+members: [barnboksförfattare, saga, bokförlag, förlag, publicera, berätta, skådespelare, teater]
 created: "2026-06-02"
 ---
 
@@ -19,6 +19,8 @@ created: "2026-06-02"
 - [[förlag]] — 出版社/出版商 (publishing house, publisher)
 - [[publicera]] — 出版/发表 (to publish)
 - [[berätta]] — 讲述 (to tell, narrate)
+- [[skådespelare]] — 演员 (actor, already exists)
+- [[teater]] — 剧院；戏剧 (theatre)
 
 ## 备注 (Notes)
 
