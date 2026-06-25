@@ -8,6 +8,31 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-25-svt-latt-horning — 10词NEW / 3词组NEW / 10句NEW / 1语法NEW (DUP: myndighet, förskola, sval, värme, ta-ansvar, bland-annat, grammar-bisats-eftersom) —** | | | | | | |
+| [[jordbävning]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[efterskalv]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[räddningsarbetare]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kollapsa]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[elsparkcykel]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[trimma]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[laglig]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[misstanke]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[olycka]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[skräckfilm]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[gräva-fram]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[ha-koll-på]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[lika-fort-som]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[grammar-klyvning]] | grammar | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-manga-byggnader-rasat-myndigheterna-säger]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-efter-jordbävning-kommer-ofta-nya]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-farligt-räddningsarbetare-går-in-försöker]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-elsparkcyklarna-blir-allt-vanligare-sverige]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-elsparkcykel-går-fortare-än-20]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-lika-fort-bil-kör-motorvägen]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-föraren-själv-måste-ha-koll]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-föräldrar-ansvar-se-barnen-kör]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-miljöpartiet-vill-finnas-plan-hur]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-partiet-vill-bland-annat-förskolor]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | **— source-2026-06-25-fraga-efter-vagen — 2词NEW / 4词组NEW / 11句NEW / 2语法NEW —** | | | | | | |
 | [[port]] | word | — | 0 | 2.5 | 2026-06-25 | no |
 | [[butik]] | word | — | 0 | 2.5 | 2026-06-25 | no |
@@ -2373,6 +2398,31 @@
 | [[gågata]] | word | — | 0 | 2.5 | 2026-06-25 | no |
 | [[promenadstråk]] | word | — | 0 | 2.5 | 2026-06-25 | no |
 
+| **— source-2026-06-25-svt-latt-horning — 10词NEW / 3词组NEW / 10句NEW / 1语法NEW —** | | | | | | |
+| [[jordbävning]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[efterskalv]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[räddningsarbetare]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kollapsa]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[elsparkcykel]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[trimma]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[laglig]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[misstanke]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[olycka]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[skräckfilm]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[gräva-fram]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[ha-koll-på]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[lika-fort-som]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[grammar-klyvning]] | grammar | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-manga-byggnader-rasat-myndigheterna-säger]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-efter-jordbävning-kommer-ofta-nya]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-farligt-räddningsarbetare-går-in-försöker]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-elsparkcyklarna-blir-allt-vanligare-sverige]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-elsparkcykel-går-fortare-än-20]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-lika-fort-bil-kör-motorvägen]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-föraren-själv-måste-ha-koll]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-föräldrar-ansvar-se-barnen-kör]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-miljöpartiet-vill-finnas-plan-hur]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-partiet-vill-bland-annat-förskolor]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。
