@@ -43,7 +43,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: [[väl]] (吧), troligtvis (很可能)
+- 同义词: [[väl]] (吧), troligtvis (很可能); 「足够」义 ≈ [[tillräcklig]]
 - 主题: [[topic-satsadverbial]]
 
 ## 用法提示 (Usage Notes)
