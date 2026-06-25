@@ -11,6 +11,7 @@ traces/
 # Keeping them out of git removes ~10MB/day of blob churn and all merge conflicts.
 # NOTE: knowledge_base/_index/slugs.json stays TRACKED — dedup depends on it.
 site/kb-index.js
+site/kb-data.js
 site/kb-bodies.js
 site/reading/reading-data.js
 site/listening/listening-data.js
