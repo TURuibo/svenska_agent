@@ -8,6 +8,26 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-25-fraga-efter-vagen — 2词NEW / 4词组NEW / 11句NEW / 2语法NEW —** | | | | | | |
+| [[port]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[butik]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[gott-om-tid]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[om-en-timme]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[ha-en-bra-resa]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[inte-alls-svårt]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[grammar-om-tidsperiod]] | grammar | — | 0 | 2.5 | 2026-06-25 | no |
+| [[grammar-rakt-fram]] | grammar | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-förlåt-att-jag-stör]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-kan-du-hjälpa-mig]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-jag-är-ny-här-och-hittar-inte]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-bra-för-jag-har-en-biljett-och-tåget]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-du-har-gott-om-tid]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-gå-ut-ur-porten-och-sväng-till-vänster]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-sedan-går-du-rakt-fram-längs-storgatan]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-det-tar-ungefär-tio-minuter]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-sväng-till-höger-vid-det-röda-huset]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-stationen-är-precis-där]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-ha-en-bra-resa]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | **— source-2026-06-25-nyheter-8sidor — 22词NEW / 4词组NEW / 23句NEW / 1语法NEW (DUP: polis, döma, tappa, domstol, allvarlig, skada, undersökning, blomma, utsläpp, våg, myndighet, straff, skådespelare, flytta, lag, betala, tappa-bort, bland-annat, trots-att, grammar-passiv-konstruktion, grammar-trots-att) —** | | | | | | |
 | [[undersöka]] | word | — | 0 | 2.5 | 2026-06-25 | no |
 | [[kläder]] | word | — | 0 | 2.5 | 2026-06-25 | no |
@@ -47,6 +67,36 @@
 | [[sent-den-sager-att-israels-militarer-dodar]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | [[sent-folkmordet-har-fortsatt-trots-att]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | [[sent-nu-blommar-algerna-i-nastan-hela]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| **— source-2026-06-25-instruktion-kallsortering — 13词NEW / 5词组NEW / 10句NEW / 1语法NEW —** | | | | | | |
+| [[källsortering]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[avfall]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[matavfall]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[restavfall]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[behållare]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[påse]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kaffesump]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[äggskal]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[wellpapp]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[blöja]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[återvinningsstation]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[batteri]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kemikalie]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[källsortera-hemma]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[bind-ihop]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[vika-ihop]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[lämna-vid]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[farligt-avfall]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[grammar-aldrig-v2-inversion]] | grammar | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-källsortering-är-bra-för-miljön]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-när-vi-sorterar-rätt-kan-mer-material-återvinnas]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-du-behöver-flera-behållare-hemma]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-lägg-matrester-kaffesump-teblad-och-äggskal]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-bind-ihop-påsen-och-lägg-den-i-rätt-kärl]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-skölj-rena-plastförpackningar-burkar-och-glasflaskor]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-wellpapp-och-kartong-viker-du-ihop]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-det-som-inte-kan-återvinnas-läggs]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-farligt-avfall-lämnar-du-aldrig]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-ta-dem-till-din-närmaste-återvinningsstation]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | [[sent-algerna-kan-vara-giftiga-for-manniskor]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | [[sent-du-ska-helst-inte-bada-bland]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | [[sent-om-du-rakar-svalja-vatten]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
@@ -127,6 +177,35 @@
 | [[sent-igår-var-den-varmaste-dagen-som]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | [[sent-myndigheterna-är-oroliga-för-att]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | [[sent-den-senaste-veckan-har-ca-40]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| **— source-2026-06-25-hos-lakaren — 5词NEW / 6词组NEW / 15句NEW / 2语法NEW —** | | | | | | |
+| [[feber]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[halsinfektion]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[antibiotika]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[tablett]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[vårdcentral]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[ha-ont-i]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[ha-en-tid]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[boka-en-tid]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[krya-på-dig]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[verkar-vara]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[ett-par-dagar]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[grammar-ont-i-kroppsdel]] | grammar | — | 0 | 2.5 | 2026-06-25 | no |
+| [[grammar-verkar-infinitiv]] | grammar | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-jag-har-bokat-en-tid-på-vårdcentralen]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-jag-heter-mei-lin-och-jag-har-en-tid]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-vad-är-det-som-händer]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-jag-har-haft-ont-i-halsen-i-tre-dagar]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-hur-hög-är-febern]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-har-du-haft-svårt-att-svälja]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-det-gör-ont-när-jag-dricker]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-kan-du-öppna-munnen-och-säga-aah]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-halsen-är-röd-och-lite-svullen]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-det-verkar-vara-en-halsinfektion]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-är-det-allvarligt]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-jag-skriver-ett-recept-på-antibiotika]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-ta-tre-tabletter-om-dagen-i-sju-dagar]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-det-är-bättre-om-du-vilar-hemma]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-bli-frisk]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | [[sent-de-flesta-var-unga-som-badade]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | [[sent-även-sverige-väntas-få-mycket-varmt]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | [[sent-smhi-varnar-för-hetta-i-blekinge]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
@@ -225,6 +304,35 @@
 | [[sent-lamna-tvattstugan-ren-och]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | [[sent-tom-luddfiltret-i-torktumlaren]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | [[sent-klader-som-lamnas-kvar-kastas]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| **— source-2026-06-25-arbetsintervju-vardbitrade — 10词NEW / 6词组NEW / 11句NEW / 1语法NEW —** | | | | | | |
+| [[vårdbiträde]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[äldreboende]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[anställningsintervju]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sökande]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[erfarenhet]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[demens]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[minnessvårighet]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[egenskap]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[tålmodig]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[respekterad]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[tack-för-att]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[vi-återkommer]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[återkomma]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[berätta-om-dig-själv]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[inom-en-vecka]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[lite-grann]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[grammar-tack-för-att-perfekt]] | grammar | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-tack-för-att-ni-kallade-mig-till-intervju]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-berätta-lite-om-dig-själv]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-jag-har-arbetat-med-äldre-i-mitt-hemland]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-varför-vill-du-arbeta-som-vårdbiträde-här]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-det-är-viktigt-för-mig-att-de-äldre]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-kan-du-arbeta-nätter-och-helger]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-ja-det-kan-jag]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-har-du-erfarenhet-av-att-arbeta-med-personer]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-vad-är-din-starkaste-egenskap]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-jag-är-tålmodig-och-lyssnar-noga]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-vi-återkommer-inom-en-vecka]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | **— scenario-2026-06-23-debattinlagg-sociala-medier — 13词NEW / 5词组NEW / 9句NEW / 4语法NEW (1语法DUP) —** | | | | | | |
 | [[reglera]] | word | — | 0 | 2.5 | 2026-06-23 | no |
 | [[forskning]] | word | — | 0 | 2.5 | 2026-06-23 | no |
@@ -2201,6 +2309,29 @@
 | [[sent-men-aven-om-eken-ar-dad-ska-den-vara-kvar]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | [[sent-om-du-ar-elva-ar-far-du-se-filmen]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
 | [[sent-om-du-har-fyllt-femton-far-du-se-den]] | sentence | — | 0 | 2.5 | 2026-06-24 | no |
+| **— source-2026-06-25-platsannons-och-jobbsvar — 9词NEW / 4词组NEW / 8句NEW / 1语法NEW —** | | | | | | |
+| [[barnskötare]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[deltid]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[heltid]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[ansökan]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[personligt-brev]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[tillträde]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kollektivavtal]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[meriterande]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[tjänst]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sista-ansökningsdag]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[meriterande-men-inget-krav]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[passar-mig-utmärkt]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kalla-till-intervju]] | phrase | — | 0 | 2.5 | 2026-06-25 | no |
+| [[grammar-brevsprak-personligt-brev]] | grammar | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-förskolan-solgården-i-örebro-söker]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-vi-söker-dig-som-är-lugn-och-tålmodig]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-erfarenhet-av-arbete-med-barn-är-meriterande]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-skicka-din-ansökan-med-cv-och-personligt]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-jag-söker-tjänsten-som-barnskötare]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-deltid-passar-mig-utmärkt-eftersom-jag]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-jag-hoppas-att-ni-vill-kalla-mig]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| [[sent-med-vänliga-hälsningar-sara-nguyen]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 
 ## 说明
 
