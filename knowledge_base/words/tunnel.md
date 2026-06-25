@@ -10,7 +10,8 @@ synonyms: []
 antonyms: []
 family: ["tunnelbana"]
 topics: ["topic-stadsmiljo", "topic-trafik"]
-sentences: []
+sentences:
+  - "sent-det-användes-för-att-bygga-tunnlar-och-vägar"
 known: false
 created: "2026-06-15"
 reviewed: ""
