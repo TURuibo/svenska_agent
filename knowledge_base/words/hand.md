@@ -56,5 +56,6 @@ interval: 0
 ## 用法提示 (Usage Notes)
 
 - 复数有元音变音（umlaut）：hand → händer（a → ä），加 -er。
+- ⚠️ 复数 *händer*（手）与动词 [[hända]] 的现在式 *händer*（发生）同形，靠语境区分。
 - 惯用语 `ta i hand`（握手）不带冠词。
 - 来源: [[source-2026-06-19-adjsubst-blandat]]
