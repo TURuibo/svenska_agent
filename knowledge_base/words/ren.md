@@ -7,7 +7,7 @@ cefr: A2
 zh: "干净的、清洁的"
 en: "clean, pure"
 synonyms: []
-antonyms: []
+antonyms: ["smutsig"]
 family: []
 topics: ["topic-mat-dryck"]
 sentences: []
@@ -46,7 +46,7 @@ interval: 0
 
 - 词族: rengöra (清洁 v), renlighet (清洁度 n), rengöring (清洁)
 - 同义词: —
-- 反义词: smutsig（脏的）
+- 反义词: [[smutsig]]（脏的）
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)
