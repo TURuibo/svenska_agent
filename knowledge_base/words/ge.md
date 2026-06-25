@@ -7,7 +7,7 @@ cefr: A1
 zh: "给"
 en: "to give"
 synonyms: []
-antonyms: []
+antonyms: ["få"]
 family: []
 topics: []
 sentences: []
@@ -50,7 +50,7 @@ Starkt verb (verbgrupp 4). Oregelbunden vokalväxling.
 
 - 词族: —
 - 同义词: —
-- 反义词: —
+- 反义词: [[få]]（得到）
 - 主题: —
 
 ## 用法提示 (Usage Notes)
