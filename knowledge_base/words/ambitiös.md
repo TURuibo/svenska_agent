@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon är en ambitiös student som alltid studerar hårt. — 🇨🇳 她是个有抱负的学生，总是努力学习。
+- 🇸🇪 De har ambitiösa mål för företaget. — 🇨🇳 他们对公司有宏伟的目标。
+- 🇸🇪 Han är ambitiös och vill bli chef en dag. — 🇨🇳 他有抱负，希望有一天能成为主管。
 
 ## 词族 / 同义 / 反义 (Relations)
 

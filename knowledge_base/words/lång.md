@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han är väldigt lång, nästan två meter. — 🇨🇳 他非常高，将近两米。
+- 🇸🇪 Det är en lång väg till staden. — 🇨🇳 去城里的路很长。
+- 🇸🇪 Hon har långt hår och blå ögon. — 🇨🇳 她有长发和蓝眼睛。
 
 ## 词族 / 同义 / 反义 (Relations)
 

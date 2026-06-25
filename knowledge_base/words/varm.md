@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Soppan är varm. — 🇨🇳 汤是热的。
+- 🇸🇪 Det är varmt ute idag. — 🇨🇳 今天外面很暖和。
+- 🇸🇪 Jag dricker varmt kaffe på morgonen. — 🇨🇳 我早上喝热咖啡。
 
 ## 词族 / 同义 / 反义 (Relations)
 

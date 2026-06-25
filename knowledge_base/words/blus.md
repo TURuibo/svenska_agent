@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon har en vit blus på sig idag. — 🇨🇳 她今天穿了一件白色女衬衫。
+- 🇸🇪 Jag köpte en ny blus på rea. — 🇨🇳 我在打折时买了一件新女衬衫。
+- 🇸🇪 Den blå blusen passar bra till kjolen. — 🇨🇳 那件蓝色女衬衫和裙子很搭。
 
 ## 词族 / 同义 / 反义 (Relations)
 

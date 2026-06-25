@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är kallt ute, ta på dig handskarna! — 🇨🇳 外面很冷，把手套戴上！
+- 🇸🇪 Jag hittar bara en handske, inte två. — 🇨🇳 我只找到一只手套，不是两只。
+- 🇸🇪 Hon köpte ett par läderhandskar i stan. — 🇨🇳 她在城里买了一副皮手套。
 
 ## 词族 / 同义 / 反义 (Relations)
 

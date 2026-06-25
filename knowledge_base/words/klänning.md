@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon hade på sig en röd klänning på festen. — 🇨🇳 她在派对上穿了一条红色连衣裙。
+- 🇸🇪 Bruden bar en vit brudklänning. — 🇨🇳 新娘穿着一件白色婚纱。
+- 🇸🇪 Jag köpte en ny sommarklänning idag. — 🇨🇳 我今天买了一条新的夏日连衣裙。
 
 ## 词族 / 同义 / 反义 (Relations)
 

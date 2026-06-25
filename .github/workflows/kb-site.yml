@@ -47,7 +47,7 @@ jobs:
           # Force-add the gitignored data files into an EPHEMERAL commit used only
           # to build the gh-pages tree. This commit lives and dies on the runner —
           # it is never pushed to main (we only push the subtree split to gh-pages).
-          git add -f site/kb-data.js site/reading/reading-data.js site/listening/listening-data.js
+          git add -f site/kb-index.js site/kb-bodies.js site/reading/reading-data.js site/listening/listening-data.js
           git commit -q -m "ci: ephemeral build data for gh-pages" || echo "no data changes to stage"
           sha=$(git subtree split --prefix site HEAD)
           git push origin "$sha:refs/heads/gh-pages" --force

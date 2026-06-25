@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon bär ett vackert smycke runt halsen. — 🇨🇳 她脖子上戴着一件漂亮的饰品。
+- 🇸🇪 Han köpte ett guldsmycke till sin mamma. — 🇨🇳 他给妈妈买了一件金饰。
+- 🇸🇪 Smyckena i butiken är dyra men fina. — 🇨🇳 店里的首饰很贵但很漂亮。
 
 ## 词族 / 同义 / 反义 (Relations)
 

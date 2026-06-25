@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Stockholm är en stor och vacker stad. — 🇨🇳 斯德哥尔摩是一座大而美丽的城市。
+- 🇸🇪 Jag bor i en liten stad nära havet. — 🇨🇳 我住在海边的一个小镇。
+- 🇸🇪 Det finns många städer i Sverige. — 🇨🇳 瑞典有很多城市。
 
 ## 词族 / 同义 / 反义 (Relations)
 

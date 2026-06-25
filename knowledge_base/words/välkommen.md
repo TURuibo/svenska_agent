@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Välkommen till Sverige! — 🇨🇳 欢迎来到瑞典！
+- 🇸🇪 Du är alltid välkommen hit. — 🇨🇳 你随时都受欢迎来这里。
+- 🇸🇪 Det var en välkommen nyhet. — 🇨🇳 这是一个令人欢迎的消息。
 
 ## 词族 / 同义 / 反义 (Relations)
 

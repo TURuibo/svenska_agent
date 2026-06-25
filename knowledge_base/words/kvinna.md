@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En kvinna sitter på bänken och läser. — 🇨🇳 一位女人坐在长椅上看书。
+- 🇸🇪 Kvinnan i röd jacka är min granne. — 🇨🇳 穿红色夹克的那位女人是我的邻居。
+- 🇸🇪 Många kvinnor arbetar inom vården. — 🇨🇳 许多女性在医疗行业工作。
 
 ## 词族 / 同义 / 反义 (Relations)
 

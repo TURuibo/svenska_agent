@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han tränar muskler på gymmet varje dag. — 🇨🇳 他每天在健身房锻炼肌肉。
+- 🇸🇪 Jag drog en muskel när jag sprang. — 🇨🇳 我跑步时拉伤了一块肌肉。
+- 🇸🇪 Musklerna i benen är starka. — 🇨🇳 腿部的肌肉很强壮。
 
 ## 词族 / 同义 / 反义 (Relations)
 

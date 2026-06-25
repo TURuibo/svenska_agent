@@ -35,7 +35,7 @@ treat anything there as already-processed too.)
      (parallel tool calls in one message), per the librarian's phased protocol.
    - Honour dedup against `knowledge_base/_index/slugs.json` and the learner profile
      (`profile/level.md`) — skip KNOWN and DUP items.
-   - Respect `kind: drill` / `skip_examples` headers (no example sentences for those).
+   - Always generate example sentences for every new word note, including drill/böjning imports.
 
 3. **Archive each processed file** (sv-import §8): move it from `inbox/<file>.md` to the **tracked**
    `imported/<file>.md` at the repo root (NOT `inbox/imported/`). This keeps the readable text in git

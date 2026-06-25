@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag får lön den sista dagen i månaden. — 🇨🇳 我在每月最后一天领工资。
+- 🇸🇪 Hon vill ha högre lön på sitt nya jobb. — 🇨🇳 她希望在新工作中得到更高的薪水。
+- 🇸🇪 Lönen i Sverige är oftast bra. — 🇨🇳 瑞典的工资通常很不错。
 
 ## 词族 / 同义 / 反义 (Relations)
 

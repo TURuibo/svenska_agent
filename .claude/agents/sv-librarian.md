@@ -13,7 +13,7 @@ into well-linked markdown notes, with strict deduplication. Read
 
 You receive: a `source-*` note slug (already created by the main agent) and/or lists of items to store —
 words (with lemma, ordklass, zh/en, forms, collocations), phrases, sentences, grammar points, plus any
-obvious semantic groupings. You may also receive a `skip_examples: true` flag (see step 3).
+obvious semantic groupings.
 
 The steps below define **what** each note must contain. Execute them in the batched phases described
 in "Execution protocol" below — plan all items first, then write them in parallel batches, never
@@ -26,7 +26,7 @@ For each item:
    if genuinely new info is missing).
 2. **Create** from the matching `_templates/` file, filling frontmatter completely. `created:` = the
    date given to you (absolute).
-3. **Generate example sentences for words** (unless `skip_examples: true`): For every word note,
+3. **Generate example sentences for words** (always): For every word note,
    write example sentences directly in the `## 例句 (Sentences)` section. These are
    inline examples (NOT separate sentence note files). Format each as:
    ```
@@ -37,9 +37,8 @@ For each item:
    - 若该词有**多个不同义项** (multiple distinct senses, e.g. *slag* = 打/种类/战役) → 给**每个义项至少 1 个例句**，
      并按义项分组、用小标题或前缀标注义项（如 `**义项1 打:**`），让学习者看清每个意思的用法。
    - 若该词只有**一个义项，或多个义项含义相近** → 给**至少 3 个例句**，从不同角度展示典型用法/搭配。
-   **Skip this step entirely** when the spawn prompt contains `skip_examples: true` (e.g. for
-   mechanical böjning/declension drill imports — the daily adjsubst batches). Leave the
-   `## 例句` section header with a placeholder `<!-- drill import: examples omitted -->`.
+   **Always generate examples**, even for drill/böjning imports. Every word note must have usable
+   example sentences — the learner depends on them for context.
 4. **Link forward only** (SKILL §4): Write the links that belong naturally ON the note you are
    creating — sentence `words:`, `phrases:`, `grammar:`; phrase `head_words:`, `grammar:`; word
    `synonyms:`, `antonyms:`, `family:`, `topics:`. Do NOT open and edit OTHER existing notes just

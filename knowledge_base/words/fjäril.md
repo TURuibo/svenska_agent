@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En vacker fjäril sitter på blomman. — 🇨🇳 一只漂亮的蝴蝶停在花上。
+- 🇸🇪 Barnen jagade fjärilar i trädgården. — 🇨🇳 孩子们在花园里追蝴蝶。
+- 🇸🇪 Jag fick fjärilar i magen inför provet. — 🇨🇳 考试前我紧张得肚子里像有蝴蝶在飞。
 
 ## 词族 / 同义 / 反义 (Relations)
 

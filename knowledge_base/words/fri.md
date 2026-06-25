@@ -44,7 +44,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Fågeln är fri och flyger högt. — 🇨🇳 鸟儿自由地飞翔在高空。
+- 🇸🇪 Jag har fri tid på helgen. — 🇨🇳 我周末有空闲时间。
+- 🇸🇪 Djuret lever fritt i naturen. — 🇨🇳 动物在大自然中自由生活。
 
 ## 词族 / 同义 / 反义 (Relations)
 

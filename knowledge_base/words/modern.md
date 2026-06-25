@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är ett modernt hus med stora fönster. — 🇨🇳 这是一栋有大窗户的现代房子。
+- 🇸🇪 Hon klär sig alltid på ett modernt sätt. — 🇨🇳 她总是穿着时髦现代。
+- 🇸🇪 Skolan har moderna datorer i varje klassrum. — 🇨🇳 学校每间教室都有现代化的电脑。
 
 ## 词族 / 同义 / 反义 (Relations)
 

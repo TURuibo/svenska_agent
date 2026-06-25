@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Apelsinen är saftig och god. — 🇨🇳 这个橙子多汁又好吃。
+- 🇸🇪 Han grillades ett saftigt kött till middag. — 🇨🇳 他晚餐烤了一块多汁的肉。
+- 🇸🇪 Sommarpäronen är alltid saftiga och söta. — 🇨🇳 夏天的梨总是多汁又甜。
 
 ## 词族 / 同义 / 反义 (Relations)
 

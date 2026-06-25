@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag äter sallad till lunch varje dag. — 🇨🇳 我每天午餐吃沙拉。
+- 🇸🇪 Hon gör en grön sallad med tomat och gurka. — 🇨🇳 她做了一份加番茄和黄瓜的绿色沙拉。
+- 🇸🇪 Vill du ha sallad till maten? — 🇨🇳 你吃饭时要配沙拉吗？
 
 ## 词族 / 同义 / 反义 (Relations)
 

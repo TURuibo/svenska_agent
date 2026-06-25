@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är sunt att äta grönsaker varje dag. — 🇨🇳 每天吃蔬菜是健康的。
+- 🇸🇪 Hon har en sund livsstil med motion och bra mat. — 🇨🇳 她有健康的生活方式，锻炼并吃得好。
+- 🇸🇪 Det är sunt förnuft att ta med paraply när det regnar. — 🇨🇳 下雨时带伞是常识。
 
 ## 词族 / 同义 / 反义 (Relations)
 

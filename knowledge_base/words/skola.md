@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Barnen går till skolan varje morgon. — 🇨🇳 孩子们每天早上去学校。
+- 🇸🇪 Skolan börjar klockan åtta. — 🇨🇳 学校八点开始上课。
+- 🇸🇪 Det finns en ny skola i vår stad. — 🇨🇳 我们城里有一所新学校。
 
 ## 词族 / 同义 / 反义 (Relations)
 

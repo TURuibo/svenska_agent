@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Den feta katten sover hela dagen. — 🇨🇳 那只肥猫整天都在睡觉。
+- 🇸🇪 Undvik fet mat om du vill vara frisk. — 🇨🇳 如果你想保持健康，要避免油腻的食物。
+- 🇸🇪 Det feta djuret är svårt att flytta. — 🇨🇳 那只肥胖的动物很难移动。
 
 ## 词族 / 同义 / 反义 (Relations)
 

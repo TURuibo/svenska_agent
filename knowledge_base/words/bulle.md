@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag köpte en bulle på bageriet. — 🇨🇳 我在面包店买了一个小圆面包。
+- 🇸🇪 Vi äter bullar och dricker kaffe. — 🇨🇳 我们吃小面包，喝咖啡。
+- 🇸🇪 En kanelbulle smakar gott till fika. — 🇨🇳 一个肉桂卷配fika很好吃。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Åsnan bär tunga saker. — 🇨🇳 驴驮着重物。
+- 🇸🇪 Det finns en åsna på gården. — 🇨🇳 农场里有一头驴。
+- 🇸🇪 Åsnan är envis men stark. — 🇨🇳 驴固执但有力气。
 
 ## 词族 / 同义 / 反义 (Relations)
 

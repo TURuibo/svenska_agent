@@ -29,20 +29,6 @@ function parseScalar(value) {
   return trimmed;
 }
 
-// Parse a flat-scalar frontmatter list like "[arbetet, arbeten]" or
-// "arbetet, arbeten" into clean single-token surface forms. Used for the
-// machine-maintained `forms_extra:` field — aliases added from the reading
-// site's "🔗 link this word" action (/link-forms) for KB words whose inflected
-// surface isn't captured by the Forms-table extractor below.
-function parseListField(value) {
-  if (!value) return [];
-  return String(value)
-    .replace(/^\[|\]$/g, '')
-    .split(',')
-    .map((s) => s.trim().replace(/^['"]|['"]$/g, ''))
-    .filter((s) => s && /[A-Za-zÅÄÖåäö]/.test(s) && !/\s/.test(s));
-}
-
 // Minimal YAML-frontmatter reader (flat scalars only — enough for these files).
 function parseFrontmatter(text) {
   const match = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
@@ -203,10 +189,9 @@ function buildVocab() {
     const { frontmatter: fm, body } = parseFrontmatter(raw);
     const slug = path.basename(entry.name, '.md');
     const lemma = fm.lemma || slug;
-    // Collect every surface form the learner might meet in text: the lemma, the
-    // inflected forms from the Forms table, plus any `forms_extra` aliases added
-    // via the reading site's 🔗 link action (lemma always first / preferred).
-    const forms = [lemma, ...extractForms(body), ...parseListField(fm.forms_extra)];
+    // Collect every surface form the learner might meet in text: the lemma plus
+    // the inflected forms from the Forms table (lemma always first / preferred).
+    const forms = [lemma, ...extractForms(body)];
     const seen = new Set();
     const surfaces = [];
     for (const f of forms) {
@@ -225,10 +210,9 @@ function buildVocab() {
       known: fm.known === 'true' || fm.known === true,
       created: fm.created || '',
       forms: surfaces,
-      // Full note body (markdown) so the reading page can render the SAME rich
-      // detail card as Former (forms table, collocations, sentences, usage notes)
-      // without having to load the multi-MB kb-data.js.
-      body: body.trim(),
+      // The note body is NOT carried here anymore — the reading glossary popover
+      // fetches it lazily from the shared store (site/kb-bodies.js via window.KB),
+      // which keeps reading-data.js ~1 MB lighter and avoids duplicating bodies.
     });
   }
   vocab.sort((a, b) => a.lemma.localeCompare(b.lemma));

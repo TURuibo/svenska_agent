@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag vill ha en glass, tack. — 🇨🇳 我想要一个冰淇淋，谢谢。
+- 🇸🇪 Barnen äter glass på sommaren. — 🇨🇳 孩子们夏天吃冰淇淋。
+- 🇸🇪 Vilken smak glass vill du ha? — 🇨🇳 你想要什么口味的冰淇淋？
 
 ## 词族 / 同义 / 反义 (Relations)
 

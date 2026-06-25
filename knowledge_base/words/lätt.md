@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Väskan är lätt, jag kan bära den själv. — 🇨🇳 这个包很轻，我自己能拿。
+- 🇸🇪 Det är lätt att lära sig svenska om man övar varje dag. — 🇨🇳 如果每天练习，学瑞典语是很容易的。
+- 🇸🇪 Provet var lätt och alla klarade sig. — 🇨🇳 考试很简单，所有人都过了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag tar tåget till jobbet varje dag. — 🇨🇳 我每天乘火车去上班。
+- 🇸🇪 Tåget avgår klockan åtta. — 🇨🇳 火车八点出发。
+- 🇸🇪 Det är snabbare att åka tåg än buss. — 🇨🇳 坐火车比坐公共汽车快。
 
 ## 词族 / 同义 / 反义 (Relations)
 

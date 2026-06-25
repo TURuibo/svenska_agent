@@ -45,7 +45,9 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Var försiktig när du korsar gatan! — 🇨🇳 过马路时要小心！
+- 🇸🇪 Hon kör alltid försiktigt i regnet. — 🇨🇳 她下雨天开车总是很谨慎。
+- 🇸🇪 Det är viktigt att vara försiktig med pengar. — 🇨🇳 对钱要谨慎是很重要的。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon arbetar som forskare vid universitetet. — 🇨🇳 她在大学担任研究员。
+- 🇸🇪 Forskarna studerar klimatförändringar. — 🇨🇳 研究人员在研究气候变化。
+- 🇸🇪 Han vill bli forskare när han är stor. — 🇨🇳 他长大后想成为一名研究员。
 
 ## 词族 / 同义 / 反义 (Relations)
 

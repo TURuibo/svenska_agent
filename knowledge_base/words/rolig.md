@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det var en rolig film som vi såg igår. — 🇨🇳 我们昨天看的电影很有趣。
+- 🇸🇪 Han är en rolig kompis som alltid skrattar. — 🇨🇳 他是一个总是笑的有趣朋友。
+- 🇸🇪 Det är roligt att lära sig svenska. — 🇨🇳 学瑞典语很有趣。
 
 ## 词族 / 同义 / 反义 (Relations)
 

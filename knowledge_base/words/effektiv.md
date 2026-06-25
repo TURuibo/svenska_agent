@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon jobbar väldigt effektivt. — 🇨🇳 她工作非常高效。
+- 🇸🇪 Det är ett effektivt sätt att lära sig svenska. — 🇨🇳 这是学习瑞典语的一种有效方式。
+- 🇸🇪 Vi behöver en mer effektiv metod. — 🇨🇳 我们需要一种更有效的方法。
 
 ## 词族 / 同义 / 反义 (Relations)
 

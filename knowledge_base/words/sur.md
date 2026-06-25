@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Citronen är väldigt sur och svår att äta rak. — 🇨🇳 柠檬非常酸，直接吃很难受。
+- 🇸🇪 Den här yoghurten smakar lite sur. — 🇨🇳 这个酸奶味道有点酸。
+- 🇸🇪 Han var sur på mig hela dagen efter grälet. — 🇨🇳 吵架后他一整天都对我没好脸色。
 
 ## 词族 / 同义 / 反义 (Relations)
 

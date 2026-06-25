@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag dricker ett glas apelsinjuice till frukost. — 🇨🇳 我早餐喝一杯橙汁。
+- 🇸🇪 Vill du ha juice eller vatten? — 🇨🇳 你想要果汁还是水？
+- 🇸🇪 Hon pressar äpplen och gör färsk juice. — 🇨🇳 她榨苹果制作新鲜果汁。
 
 ## 词族 / 同义 / 反义 (Relations)
 

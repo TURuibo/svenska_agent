@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag skar mig i fingret och behöver ett plåster. — 🇨🇳 我划破了手指，需要一张创可贴。
+- 🇸🇪 Mamma satte ett plåster på barnets knä. — 🇨🇳 妈妈在孩子的膝盖上贴了一张创可贴。
+- 🇸🇪 Du kan köpa plåster på apoteket. — 🇨🇳 你可以在药店买创可贴。
 
 ## 词族 / 同义 / 反义 (Relations)
 

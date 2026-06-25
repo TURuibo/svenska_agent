@@ -18,6 +18,12 @@ members:
   - värme
   - värmebölja
   - jord
+  - alg
+  - giftig
+  - östersjön
+  - badplats
+  - jordbruk
+  - fabrik
 created: "2026-06-22"
 ---
 
@@ -41,6 +47,12 @@ created: "2026-06-22"
 - [[värme]] — 热；高温
 - [[värmebölja]] — 热浪
 - [[jord]] — 地球
+- [[alg]] — 藻类
+- [[giftig]] — 有毒的
+- [[östersjön]] — 波罗的海
+- [[badplats]] — 游泳场所；海滩
+- [[jordbruk]] — 农业；农场
+- [[fabrik]] — 工厂
 
 ## 备注 (Notes)
 

@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Var försiktig, soppan är väldigt het! — 🇨🇳 小心，这汤非常烫！
+- 🇸🇪 Det är en het sommardag i dag. — 🇨🇳 今天是个炎热的夏日。
+- 🇸🇪 Den here chilin är för stark för mig. — 🇨🇳 这辣椒对我来说太辣了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

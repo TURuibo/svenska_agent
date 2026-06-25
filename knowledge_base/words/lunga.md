@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi har två lungor i bröstet. — 🇨🇳 我们胸腔里有两个肺。
+- 🇸🇪 Rökning är dåligt för lungorna. — 🇨🇳 吸烟对肺有害。
+- 🇸🇪 Han fick lunginflammation och behövde stanna på sjukhuset. — 🇨🇳 他得了肺炎，需要住院。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Bananen är gul och söt. — 🇨🇳 香蕉是黄色的，而且很甜。
+- 🇸🇪 Det gula trafikljuset betyder sakta ner. — 🇨🇳 黄色交通灯意味着减速。
+- 🇸🇪 Hon har en gul jacka. — 🇨🇳 她有一件黄色的夹克。
 
 ## 词族 / 同义 / 反义 (Relations)
 

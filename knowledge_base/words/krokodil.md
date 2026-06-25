@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns en stor krokodil i floden. — 🇨🇳 河里有一条大鳄鱼。
+- 🇸🇪 Krokodilen öppnade munnen. — 🇨🇳 鳄鱼张开了嘴。
+- 🇸🇪 Vi såg krokodiler på zoo. — 🇨🇳 我们在动物园看到了鳄鱼。
 
 ## 词族 / 同义 / 反义 (Relations)
 

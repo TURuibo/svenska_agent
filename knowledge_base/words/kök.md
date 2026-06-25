@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Mamma lagar mat i köket varje kväll. — 🇨🇳 妈妈每天晚上在厨房做饭。
+- 🇸🇪 Vi har ett litet men ljust kök. — 🇨🇳 我们有一个小而明亮的厨房。
+- 🇸🇪 Han diskar tallrikarna i köket. — 🇨🇳 他在厨房洗盘子。
 
 ## 词族 / 同义 / 反义 (Relations)
 

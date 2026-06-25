@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi såg en säl som vilade på en klippa. — 🇨🇳 我们看到一只海豹趴在礁石上休息。
+- 🇸🇪 Det finns många sälar i Östersjön. — 🇨🇳 波罗的海有很多海豹。
+- 🇸🇪 Sälen är ett djur som lever i havet. — 🇨🇳 海豹是一种生活在海里的动物。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -10,7 +10,8 @@ synonyms: []
 antonyms: []
 family: ["tunnelbana"]
 topics: ["topic-stadsmiljo", "topic-trafik"]
-sentences: []
+sentences:
+  - "sent-det-användes-för-att-bygga-tunnlar-och-vägar"
 known: false
 created: "2026-06-15"
 reviewed: ""
@@ -41,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Tåget kör genom en lång tunnel. — 🇨🇳 火车穿过一条长隧道。
+- 🇸🇪 Det är mörkt inne i tunneln. — 🇨🇳 隧道里面很暗。
+- 🇸🇪 Vi körde bil genom tunneln under berget. — 🇨🇳 我们开车穿过山下的隧道。
 
 ## 词族 / 同义 / 反义 (Relations)
 

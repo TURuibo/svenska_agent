@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Den restaurangen är väldigt populär. — 🇨🇳 那家餐厅非常受欢迎。
+- 🇸🇪 Fotboll är en populär sport i Sverige. — 🇨🇳 足球在瑞典是一项受欢迎的运动。
+- 🇸🇪 Det är populärt att cykla i Stockholm. — 🇨🇳 在斯德哥尔摩骑自行车很流行。
 
 ## 词族 / 同义 / 反义 (Relations)
 

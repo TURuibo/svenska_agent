@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Min syster bor i Göteborg. — 🇨🇳 我姐姐/妹妹住在哥德堡。
+- 🇸🇪 Jag har två systrar och en bror. — 🇨🇳 我有两个姐妹和一个兄弟。
+- 🇸🇪 Hon och systern pratar i telefon varje vecka. — 🇨🇳 她和姐妹每周都通电话。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han är en god människa. — 🇨🇳 他是一个善良的人。
+- 🇸🇪 Maten smakar gott. — 🇨🇳 食物味道很好。
+- 🇸🇪 God morgon! Hur mår du? — 🇨🇳 早上好！你好吗？
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon är en mycket vänlig person. — 🇨🇳 她是一个非常友好的人。
+- 🇸🇪 Läraren är alltid vänlig mot eleverna. — 🇨🇳 老师总是对学生很友好。
+- 🇸🇪 Var vänlig och stäng dörren! — 🇨🇳 请把门关上！（礼貌请求）
 
 ## 词族 / 同义 / 反义 (Relations)
 

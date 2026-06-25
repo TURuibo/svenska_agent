@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi har en vikarie idag för läraren är sjuk. — 🇨🇳 今天老师生病了，我们有一位代课老师。
+- 🇸🇪 Hon jobbar som vikarie på skolan. — 🇨🇳 她在学校做代课老师。
+- 🇸🇪 Vikarien är snäll och hjälpsam. — 🇨🇳 这位代课老师既友好又乐于助人。
 
 ## 词族 / 同义 / 反义 (Relations)
 

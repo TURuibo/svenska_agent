@@ -46,7 +46,9 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han har ett allvarligt ansikte men är snäll. — 🇨🇳 他表情严肃，但人很好。
+- 🇸🇪 Det är en allvarlig situation. — 🇨🇳 这是一个严重的情况。
+- 🇸🇪 Läraren talade allvarligt med eleverna. — 🇨🇳 老师严肃地和学生们谈话。
 
 ## 词族 / 同义 / 反义 (Relations)
 

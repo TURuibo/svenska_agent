@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Den här väskan är väldigt tung. — 🇨🇳 这个包非常重。
+- 🇸🇪 Lastbilen är tung och kör långsamt. — 🇨🇳 卡车很重，开得很慢。
+- 🇸🇪 Boxen med böcker var för tung att lyfta. — 🇨🇳 那箱书太重了，抬不起来。
 
 ## 词族 / 同义 / 反义 (Relations)
 

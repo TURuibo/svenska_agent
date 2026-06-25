@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon jobbar som praktikant på ett kontor i Stockholm. — 🇨🇳 她在斯德哥尔摩的一家办公室做实习生。
+- 🇸🇪 Vi tar emot en ny praktikant nästa vecka. — 🇨🇳 我们下周接待一位新实习生。
+- 🇸🇪 Praktikanten lär sig mycket på jobbet. — 🇨🇳 实习生在工作中学到了很多。
 
 ## 词族 / 同义 / 反义 (Relations)
 

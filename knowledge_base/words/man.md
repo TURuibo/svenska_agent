@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är en gammal man i parken. — 🇨🇳 公园里有一个老男人。
+- 🇸🇪 Mannen på bussen läser en tidning. — 🇨🇳 公共汽车上的那个男人在看报纸。
+- 🇸🇪 Två män arbetar i affären. — 🇨🇳 两个男人在店里工作。
 
 ## 词族 / 同义 / 反义 (Relations)
 

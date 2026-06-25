@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Den här kjolen är gjord av mjukt tyg. — 🇨🇳 这条裙子是用柔软的布料做的。
+- 🇸🇪 Jag köpte ett vackert tyg på marknaden. — 🇨🇳 我在市场上买了一块漂亮的面料。
+- 🇸🇪 Hon sydde ett plagg av bomullstyg. — 🇨🇳 她用棉布缝制了一件衣服。
 
 ## 词族 / 同义 / 反义 (Relations)
 

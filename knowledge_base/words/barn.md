@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Barnen leker i parken. — 🇨🇳 孩子们在公园里玩耍。
+- 🇸🇪 Hon har tre barn. — 🇨🇳 她有三个孩子。
+- 🇸🇪 Barnets namn är Erik. — 🇨🇳 这个孩子叫埃里克。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 En äldre herre öppnade dörren för mig. — 🇨🇳 一位年长的先生为我开了门。
+- 🇸🇪 Herrar och damer, välkommen till konserten! — 🇨🇳 女士们先生们，欢迎来到音乐会！
+- 🇸🇪 Den elegante herren satt vid fönstret. — 🇨🇳 那位优雅的先生坐在窗边。
 
 ## 词族 / 同义 / 反义 (Relations)
 

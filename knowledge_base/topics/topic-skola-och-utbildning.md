@@ -3,7 +3,7 @@ type: topic
 name: "skola och utbildning"
 kind: semantic-field
 zh: 学校与教育（语义场）
-members: [förskola, bildning, lärande, barnboksförfattare]
+members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra]
 created: "2026-06-03"
 ---
 
@@ -17,9 +17,17 @@ created: "2026-06-03"
 - [[bildning]] — 教育；文化素养 (education, cultivation)
 - [[lärande]] — 学习；教与学 (learning)
 - [[barnboksförfattare]] — 儿童书作家（教育/文化相关）
+- [[kallelse]] — 召集通知；邀请函 (notice; summons)
+- [[termin]] — 学期 (school term)
+- [[utvecklingssamtal]] — 家长发展谈话 (parent-teacher conference)
+- [[kontakta]] — 联系；取得联系 (to contact)
+- [[klasslärare]] — 班主任；班级老师 (class teacher)
+- [[skolgård]] — 校园；操场 (school yard)
+- [[förbättra]] — 改进；改善 (to improve)
 
 ## 备注 (Notes)
 
 - 核心词汇来自 Sundbyberg 幼儿园通知 [[source-2026-06-03-sundbyberg-forskola]]。
 - `bildning` 与 `lärande` 并列出现于"Sektorn för Lärande och bildning"（官方部门名）。
-- 可扩充：skola（学校）, utbildning（正规教育/培训）, gymnasiet（高中）, universitet（大学）, läroplan（课程大纲）...
+- 2026-06-24: 新增7词来自学校通知 [[source-2026-06-24-skolinfo-utvecklingssamtal]]（家长发展谈话场景）。
+- 可扩充：gymnasiet（高中）, universitet（大学）, läroplan（课程大纲）...

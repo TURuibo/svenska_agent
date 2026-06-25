@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag äter ett päron varje dag. — 🇨🇳 我每天吃一个梨。
+- 🇸🇪 Päronen på bordet är gröna och mogna. — 🇨🇳 桌上的梨是绿色的，已经熟了。
+- 🇸🇪 Vill du ha ett päron eller ett äpple? — 🇨🇳 你想要一个梨还是一个苹果？
 
 ## 词族 / 同义 / 反义 (Relations)
 

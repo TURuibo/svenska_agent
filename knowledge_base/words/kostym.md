@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han hade på sig en mörk kostym på jobbet. — 🇨🇳 他上班时穿着一套深色西装。
+- 🇸🇪 Hon köpte en ny kostym till intervjun. — 🇨🇳 她为面试买了一套新西装。
+- 🇸🇪 Kostym och slips är klädkoden på kontoret. — 🇨🇳 西装加领带是办公室的着装规范。
 
 ## 词族 / 同义 / 反义 (Relations)
 

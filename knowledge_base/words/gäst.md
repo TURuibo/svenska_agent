@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi hade gäster hemma på lördag. — 🇨🇳 我们周六在家招待了客人。
+- 🇸🇪 Gästen fick ett eget rum. — 🇨🇳 客人有一间单独的房间。
+- 🇸🇪 Välkommen som gäst i vårt hem! — 🇨🇳 欢迎来我们家做客！
 
 ## 词族 / 同义 / 反义 (Relations)
 

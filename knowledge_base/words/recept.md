@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Läkaren skriver ut ett recept till mig. — 🇨🇳 医生给我开了一张处方。
+- 🇸🇪 Jag följer ett recept när jag bakar kaka. — 🇨🇳 我烤蛋糕时按食谱来做。
+- 🇸🇪 Du behöver recept för att köpa den medicinen. — 🇨🇳 你需要处方才能购买那种药。
 
 ## 词族 / 同义 / 反义 (Relations)
 

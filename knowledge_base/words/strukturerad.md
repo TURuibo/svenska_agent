@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon är en strukturerad person som alltid planerar noga. — 🇨🇳 她是一个做事有条理的人，总是仔细计划。
+- 🇸🇪 Vi behöver ett mer strukturerat arbetssätt. — 🇨🇳 我们需要一种更有条理的工作方式。
+- 🇸🇪 Lektionen var strukturerad och lätt att följa. — 🇨🇳 这堂课条理清晰，很容易跟上。
 
 ## 词族 / 同义 / 反义 (Relations)
 

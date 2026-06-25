@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag äter en morot till lunch. — 🇨🇳 我午饭吃了一根胡萝卜。
+- 🇸🇪 Morötter är bra för ögonen. — 🇨🇳 胡萝卜对眼睛有好处。
+- 🇸🇪 Kan du köpa morötter i affären? — 🇨🇳 你能在商店买胡萝卜吗？
 
 ## 词族 / 同义 / 反义 (Relations)
 

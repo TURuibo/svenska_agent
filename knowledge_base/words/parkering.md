@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns gratis parkering nära affären. — 🇨🇳 商店附近有免费停车场。
+- 🇸🇪 Jag hittade inte en parkeringsplats i centrum. — 🇨🇳 我在市中心找不到停车位。
+- 🇸🇪 Parkeringen är full på lördagar. — 🇨🇳 停车场在周六总是满的。
 
 ## 词族 / 同义 / 反义 (Relations)
 

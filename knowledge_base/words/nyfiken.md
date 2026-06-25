@@ -10,8 +10,9 @@ en: "curious"
 synonyms: []
 antonyms: []
 family: []
-topics: [topic-djur]
-sentences: []
+topics: [topic-djur, topic-karaktarsord]
+sentences:
+  - "sent-alfred-var-ett-nyfiket-barn"
 known: false
 created: "2026-06-08"
 reviewed: ""

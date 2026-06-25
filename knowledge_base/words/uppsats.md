@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag skriver en uppsats om svensk historia. — 🇨🇳 我在写一篇关于瑞典历史的论文。
+- 🇸🇪 Läraren rättade våra uppsatser i dag. — 🇨🇳 老师今天批改了我们的作文。
+- 🇸🇪 Uppsatsen ska lämnas in på fredag. — 🇨🇳 论文必须在周五交。
 
 ## 词族 / 同义 / 反义 (Relations)
 

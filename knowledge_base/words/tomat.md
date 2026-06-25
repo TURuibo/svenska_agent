@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag köper tomater på marknaden. — 🇨🇳 我在市场上买西红柿。
+- 🇸🇪 Tomaten är röd och saftig. — 🇨🇳 番茄是红色多汁的。
+- 🇸🇪 Vi har tomater i salladen. — 🇨🇳 我们的沙拉里有番茄。
 
 ## 词族 / 同义 / 反义 (Relations)
 

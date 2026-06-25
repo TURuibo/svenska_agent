@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon målade läpparna röda. — 🇨🇳 她把嘴唇涂成红色。
+- 🇸🇪 Han bet sig i läppen när han var nervös. — 🇨🇳 他紧张时咬了咬嘴唇。
+- 🇸🇪 Läpparna blir torra på vintern. — 🇨🇳 冬天嘴唇容易干裂。
 
 ## 词族 / 同义 / 反义 (Relations)
 

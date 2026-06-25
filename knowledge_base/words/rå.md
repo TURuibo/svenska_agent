@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag äter inte rått kött. — 🇨🇳 我不吃生肉。
+- 🇸🇪 Hon skär råa morötter i salladen. — 🇨🇳 她把生胡萝卜切进沙拉里。
+- 🇸🇪 Vissa fiskar äts råa i Japan. — 🇨🇳 在日本，有些鱼生吃。
 
 ## 词族 / 同义 / 反义 (Relations)
 

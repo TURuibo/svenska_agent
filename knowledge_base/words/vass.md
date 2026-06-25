@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Kniven är mycket vass. — 🇨🇳 这把刀非常锋利。
+- 🇸🇪 Katten har vassa klor. — 🇨🇳 猫有锋利的爪子。
+- 🇸🇪 Var försiktig med de vassa tänderna! — 🇨🇳 小心那些锋利的牙齿！
 
 ## 词族 / 同义 / 反义 (Relations)
 

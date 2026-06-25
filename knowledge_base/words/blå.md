@@ -44,7 +44,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Himlen är blå idag. — 🇨🇳 今天天空是蓝色的。
+- 🇸🇪 Hon har blå ögon och blont hår. — 🇨🇳 她有蓝色的眼睛和金色的头发。
+- 🇸🇪 Jag vill ha ett blått paraply. — 🇨🇳 我想要一把蓝色的雨伞。
 
 ## 词族 / 同义 / 反义 (Relations)
 

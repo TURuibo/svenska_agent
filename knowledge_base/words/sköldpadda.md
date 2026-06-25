@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det finns en liten sköldpadda i akvariet. — 🇨🇳 水族馆里有一只小乌龟。
+- 🇸🇪 Sköldpaddan rör sig mycket långsamt. — 🇨🇳 乌龟移动得非常缓慢。
+- 🇸🇪 Vi såg en stor sköldpadda på djurparken. — 🇨🇳 我们在动物园看到了一只大乌龟。
 
 ## 词族 / 同义 / 反义 (Relations)
 

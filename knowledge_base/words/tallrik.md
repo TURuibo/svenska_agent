@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Kan du ta en tallrik från skåpet? — 🇨🇳 你能从柜子里拿一个盘子吗？
+- 🇸🇪 Tallriken är full med pasta. — 🇨🇳 盘子里装满了面食。
+- 🇸🇪 Jag diskar tallrikarna efter middagen. — 🇨🇳 我在晚饭后洗盘子。
 
 ## 词族 / 同义 / 反义 (Relations)
 

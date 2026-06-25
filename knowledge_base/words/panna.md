@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han har en stor skada på pannan. — 🇨🇳 他额头上有一道很大的伤口。
+- 🇸🇪 Barnet kysste mamman på pannan. — 🇨🇳 孩子亲了亲妈妈的额头。
+- 🇸🇪 Hon rynkade pannan när hon funderade. — 🇨🇳 她思考的时候皱起了眉头。
 
 ## 词族 / 同义 / 反义 (Relations)
 

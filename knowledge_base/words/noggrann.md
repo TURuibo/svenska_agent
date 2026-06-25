@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon är mycket noggrann med sitt arbete. — 🇨🇳 她对工作非常仔细认真。
+- 🇸🇪 Var noggrann när du fyller i formuläret. — 🇨🇳 填写表格时要仔细。
+- 🇸🇪 En noggrann läkare kontrollerar allt noggrant. — 🇨🇳 一位细心的医生会仔细检查一切。
 
 ## 词族 / 同义 / 反义 (Relations)
 

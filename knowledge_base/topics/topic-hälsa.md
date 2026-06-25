@@ -3,7 +3,7 @@ type: topic
 name: "hälsa"
 kind: semantic-field
 zh: "健康"
-members: [sömn, hjärtklappning, oro, energidryck, koffein, patient, kur, sund, kronisk, sjukdom, smittsam, förkylning, smärta, blodig, recept, plåster, apotek, trött, känslig, missbruk, undersökning, läkare, operera, lunga]
+members: [sömn, hjärtklappning, oro, energidryck, koffein, patient, kur, sund, kronisk, sjukdom, smittsam, förkylning, smärta, blodig, recept, plåster, apotek, trött, känslig, missbruk, undersökning, läkare, operera, lunga, feber, halsinfektion, antibiotika, tablett, vårdcentral]
 created: "2026-06-04"
 ---
 
@@ -46,6 +46,14 @@ created: "2026-06-04"
 - [[hälsa]] — 健康（名词义，已有词条）
 - [[missbruk]] — 滥用，成瘾
 - [[undersökning]] — 调查，研究；检查
+
+### 诊所与治疗 (Clinic & treatment — 2026-06-25)
+
+- [[vårdcentral]] — 诊所；卫生服务中心
+- [[feber]] — 发烧
+- [[halsinfektion]] — 咽喉感染
+- [[antibiotika]] — 抗生素
+- [[tablett]] — 药片
 
 ## 备注 (Notes)
 

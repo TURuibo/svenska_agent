@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag åker bil till jobbet varje dag. — 🇨🇳 我每天开车上班。
+- 🇸🇪 Bilen är röd och ny. — 🇨🇳 这辆车是红色的，很新。
+- 🇸🇪 Kan du parkera bilen här? — 🇨🇳 你能把车停在这里吗？
 
 ## 词族 / 同义 / 反义 (Relations)
 

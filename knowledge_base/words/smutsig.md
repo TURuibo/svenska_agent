@@ -2,17 +2,14 @@
 type: word
 lemma: "smutsig"
 ordklass: adjektiv
+genus: ""
 cefr: A2
-zh: "脏的、肮脏的"
-en: "dirty"
-synonyms:
-  - "[[skitig]]"
-antonyms:
-  - "[[ren]]"
-family:
-  - "[[smuts]]"
-topics:
-  - "[[topic-karaktarsord]]"
+zh: 肮脏的
+en: dirty
+synonyms: []
+antonyms: ["[[ren]]"]
+family: ["[[smuts]]"]
+topics: ["[[topic-stadsmiljo]]"]
 sentences: []
 known: false
 created: "2026-06-25"
@@ -24,43 +21,38 @@ interval: 0
 
 # smutsig — adjektiv
 
-📖 中文：脏的、肮脏的 · English: dirty
-发音提示：/ˈsmʉtsɪɡ/，u 是瑞典语特有的"紧 u"；重音在首音节 SMUT-sig。
+📖 中文：肮脏的 · English: dirty
+发音提示：SMUTS-ig
 
 ## 语法变形 (Forms)
 
-| Form | Example |
+| Form | Exempel |
 |------|---------|
-| En-form (grundform) | smutsig |
-| Ett-form | smutsigt |
-| Bestämd form / Plural | smutsiga |
-| Komparativ | smutsigare |
-| Superlativ | smutsigast |
+| Utrum sg. indef. | en smutsig gata |
+| Neutrum sg. indef. | ett smutsigt fönster |
+| Definite sg. | den/det smutsiga bilen |
+| Plural indef. | smutsiga kläder |
+| Plural def. | de smutsiga kläderna |
 
 ## 词组搭配 (Collocations)
 
 - `smutsiga händer` — 脏手
-- `smutsiga kläder` — 脏衣服
-- `smutsig disk` — 脏碗碟
+- `smutsiga gator` — 脏街道
 - `bli smutsig` — 变脏
-- `göra ngt smutsigt` — 把某物弄脏
 
 ## 例句 (Sentences)
 
-- 🇸🇪 Mina händer är smutsiga. — 🇨🇳 我的手很脏。
-- 🇸🇪 Golvet är smutsigt, jag måste städa. — 🇨🇳 地板很脏，我得打扫。
-- 🇸🇪 Barnen kom hem med smutsiga kläder. — 🇨🇳 孩子们穿着脏衣服回到家。
+- 🇸🇪 Gatorna i staden är mycket smutsiga efter regnet. — 🇨🇳 雨后城市的街道非常脏。
+- 🇸🇪 Han tvättade sina smutsiga händer innan maten. — 🇨🇳 他在饭前洗了他的脏手。
+- 🇸🇪 Det smutsiga fönstret behöver rengöras. — 🇨🇳 那扇脏窗户需要清洗。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[smuts]]（污垢，名词）、smutsa ner（弄脏，verb）
-- 同义词: [[skitig]]（脏的，更口语）
-- 反义词: [[ren]]（干净的）
-- 主题: [[topic-karaktarsord]]
+- 词族: [[smuts]]
+- 反义词: [[ren]]
+- 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)
 
-- **常用词**。变形规则（-ig 结尾形容词）：smutsig / smutsigt / smutsiga。
-- 你查的 **smutsigt** 是 ett-form（修饰 ett-ord，如 *ett smutsigt golv*）或作副词/表语修饰 ett-ord 名词。
-- 口语里也常说 *skitig*（更随便、略粗）；正式或中性场合用 *smutsig*。
-- 动词"弄脏"用 partikelverb *smutsa ner*：*Smutsa inte ner golvet!*（别把地弄脏！）
+- Motsatsen är **ren** (clean/clean).
+- Compound: *smuts* (dirt) + adj suffix *-ig*.

@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Öppna munnen, säger tandläkaren. — 🇨🇳 牙医说：张开嘴。
+- 🇸🇪 Han har en stor mun och ler alltid. — 🇨🇳 他嘴很大，总是在笑。
+- 🇸🇪 Håll munnen stängd när du äter. — 🇨🇳 吃东西时要闭上嘴。
 
 ## 词族 / 同义 / 反义 (Relations)
 

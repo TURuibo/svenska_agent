@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Det är ett praktiskt verktyg att ha hemma. — 🇨🇳 这是一个在家里很实用的工具。
+- 🇸🇪 Hon har praktisk erfarenhet av arbetet. — 🇨🇳 她有该工作的实际经验。
+- 🇸🇪 Det är praktiskt att bo nära skolan. — 🇨🇳 住在学校附近很方便。
 
 ## 词族 / 同义 / 反义 (Relations)
 

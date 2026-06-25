@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag bor på en liten gata i stan. — 🇨🇳 我住在城里的一条小街上。
+- 🇸🇪 Barnen leker på gatan. — 🇨🇳 孩子们在街上玩耍。
+- 🇸🇪 Vilken gata bor du på? — 🇨🇳 你住在哪条街？
 
 ## 词族 / 同义 / 反义 (Relations)
 

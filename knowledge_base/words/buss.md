@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag tar bussen till jobbet varje dag. — 🇨🇳 我每天坐公共汽车去上班。
+- 🇸🇪 Bussen kommer om tio minuter. — 🇨🇳 公共汽车还有十分钟到。
+- 🇸🇪 Det finns många bussar i stan. — 🇨🇳 城里有很多公共汽车。
 
 ## 词族 / 同义 / 反义 (Relations)
 

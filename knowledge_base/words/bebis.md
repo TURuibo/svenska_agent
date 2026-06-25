@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Bebisen sover i sin säng. — 🇨🇳 婴儿在床上睡觉。
+- 🇸🇪 Vi fick en ny bebis i familjen. — 🇨🇳 我们家来了一个新宝宝。
+- 🇸🇪 Bebisen gråter och är hungrig. — 🇨🇳 婴儿在哭，他饿了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

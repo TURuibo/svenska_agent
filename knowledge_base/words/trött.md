@@ -43,7 +43,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag är trött efter jobbet. — 🇨🇳 下班后我很累。
+- 🇸🇪 Barnet är trött och vill sova. — 🇨🇳 孩子累了，想睡觉。
+- 🇸🇪 Hon är trött på att vänta. — 🇨🇳 她厌倦了等待。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi har två njurar i kroppen. — 🇨🇳 我们身体里有两个肾。
+- 🇸🇪 Njurarna renar blodet varje dag. — 🇨🇳 肾脏每天净化血液。
+- 🇸🇪 Läkaren sa att min njure är frisk. — 🇨🇳 医生说我的肾是健康的。
 
 ## 词族 / 同义 / 反义 (Relations)
 

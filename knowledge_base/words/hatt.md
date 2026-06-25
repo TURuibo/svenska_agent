@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han tog på sig hatten innan han gick ut. — 🇨🇳 他出门前戴上了帽子。
+- 🇸🇪 Det är en fin hatt med bred brätte. — 🇨🇳 这是一顶有宽帽檐的漂亮帽子。
+- 🇸🇪 Var är min hatt? Jag kan inte hitta den. — 🇨🇳 我的帽子在哪里？我找不到它。
 
 ## 词族 / 同义 / 反义 (Relations)
 

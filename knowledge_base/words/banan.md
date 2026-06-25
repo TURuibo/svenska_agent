@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag äter en banan varje morgon. — 🇨🇳 我每天早上吃一根香蕉。
+- 🇸🇪 Bananen är gul och mogen. — 🇨🇳 这根香蕉是黄色的，很熟了。
+- 🇸🇪 Kan du skala bananen åt mig? — 🇨🇳 你能帮我剥香蕉吗？
 
 ## 词族 / 同义 / 反义 (Relations)
 

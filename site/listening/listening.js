@@ -160,6 +160,11 @@
       texts.appendChild(zh);
       li.appendChild(time);
       li.appendChild(texts);
+      // 🔊 read this single line via sv-SE TTS — works for precise repetition and
+      // as a fallback when the SVT media URL has expired (audio no longer plays).
+      if (window.SvSpeak && window.SvSpeak.supported && cue.sv) {
+        li.insertAdjacentHTML('beforeend', window.SvSpeak.buttonHtml(cue.sv, 'cueSpeak'));
+      }
       transcriptEl.appendChild(li);
       state.cueEls.push(li);
     });
@@ -185,8 +190,10 @@
     items.forEach(function (it) {
       var li = document.createElement('li');
       li.className = 'vocabItem';
+      var spk = (window.SvSpeak && window.SvSpeak.supported && it[headwordKey])
+        ? window.SvSpeak.buttonHtml(it[headwordKey]) : '';
       li.innerHTML =
-        headwordHtml(it[headwordKey], it.slug) +
+        headwordHtml(it[headwordKey], it.slug) + spk +
         (it[labelKey] ? '<span class="vPos">' + escapeHtml(it[labelKey]) + '</span>' : '') +
         '<span class="vZh">' + escapeHtml(it.zh || '') + '</span>' +
         (it.en ? '<span class="vEn">' + escapeHtml(it.en) + '</span>' : '');
@@ -291,4 +298,16 @@
       : '暂无节目';
   }
   renderList();
+
+  // A headword links to its KB note. If the shared store (kb-store.js) is loaded,
+  // open the note in the in-place popover so the audio keeps playing; otherwise
+  // the href falls back to opening Sök in a new tab.
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a.vLink');
+    if (!a || !window.KB) return;
+    var m = (a.getAttribute('href') || '').match(/#note=([^&]+)/);
+    if (!m) return;
+    var slug = decodeURIComponent(m[1]);
+    if (window.KB.bySlug.has(slug)) { e.preventDefault(); window.KB.openNote(slug); }
+  });
 })();

@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Han är hemma från jobbet på grund av sjukdom. — 🇨🇳 他因病请假在家。
+- 🇸🇪 Förkylning är en vanlig sjukdom på vintern. — 🇨🇳 感冒是冬天常见的疾病。
+- 🇸🇪 Läkaren hjälper patienter med olika sjukdomar. — 🇨🇳 医生帮助患有各种疾病的患者。
 
 ## 词族 / 同义 / 反义 (Relations)
 

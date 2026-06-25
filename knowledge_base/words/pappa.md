@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Min pappa lagar mat varje kväll. — 🇨🇳 我爸爸每天晚上做饭。
+- 🇸🇪 Pappan läser en bok för barnet. — 🇨🇳 爸爸给孩子读书。
+- 🇸🇪 Jag och min pappa spelar fotboll på helgen. — 🇨🇳 我和我爸爸周末踢足球。
 
 ## 词族 / 同义 / 反义 (Relations)
 

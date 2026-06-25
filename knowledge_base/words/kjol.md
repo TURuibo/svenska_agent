@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Hon har på sig en blå kjol idag. — 🇨🇳 她今天穿着一条蓝色裙子。
+- 🇸🇪 Kjolen är för lång för mig. — 🇨🇳 这条裙子对我来说太长了。
+- 🇸🇪 Jag köpte en ny kjol på affären. — 🇨🇳 我在商店买了一条新裙子。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -41,7 +41,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Vi såg ett rådjur i skogen i morse. — 🇨🇳 我们今早在森林里看到了一只狍子。
+- 🇸🇪 Rådjuret sprang snabbt bort när vi kom. — 🇨🇳 当我们来的时候，狍子迅速跑走了。
+- 🇸🇪 Det finns många rådjur i Sverige. — 🇨🇳 瑞典有很多狍子。
 
 ## 词族 / 同义 / 反义 (Relations)
 

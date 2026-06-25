@@ -39,7 +39,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Polisen bär en blå uniform. — 🇨🇳 警察穿着蓝色制服。
+- 🇸🇪 Eleverna på den skolan har skoluniform. — 🇨🇳 那所学校的学生穿校服。
+- 🇸🇪 Han tog på sig uniformen innan han gick till jobbet. — 🇨🇳 他去上班前穿上了制服。
 
 ## 词族 / 同义 / 反义 (Relations)
 

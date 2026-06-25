@@ -1,6 +1,6 @@
 ---
 description: Generate a Swedish practice scenario (dialogue/text/narrative) into inbox/ for review then /import
-argument-hint: "[dialog|text|story] [A1|A2|B1|B2|C1] <场景描述, e.g. 问路 / asking for directions>"
+argument-hint: "[dialog|text|story] [A1|A2|B1] <场景描述, e.g. 问路 / asking for directions>  —— 默认 A1–A2，避免 B2"
 allowed-tools: Read, Glob, Agent(sv-scenario-writer)
 ---
 
@@ -16,7 +16,7 @@ Scan the argument string for optional leading tokens, then treat the remainder a
 - `story` → short narrative
 
 **Level token** (optional, case-insensitive, may come before or after the type token):
-- Any token matching `A1`, `A2`, `B1`, `B2`, `C1`, `C2` → pass as a CEFR hint to the generator.
+- Any token matching `A1`, `A2`, `B1` → pass as a CEFR hint to the generator. Default is A1–A2; B2+ levels are avoided.
 
 **Scenario topic** — everything remaining after removing the type/level tokens. May be Chinese or English.
 If type and/or level are absent, pass `auto` / empty string respectively — the `sv-scenario-writer`
@@ -29,7 +29,7 @@ Examples of how to parse:
 - `/scenario story min första dag i Sverige` → type=story, level=, topic="min första dag i Sverige"
 
 任何 **国家考试体裁** 都可手动点名（见 `sv-scenario` 技能 §2a 体裁目录），例如：
-- `/scenario insändare behöver vårt område fler cykelvägar` → 读者来信（论说，B1）
+- `/scenario insändare behöver vårt område fler cykelvägar` → 读者来信（论说，A2–B1）
 - `/scenario dialog arbetsintervju som vårdbiträde` → 求职面试（面试 ⭐）
 - `/scenario text inlägg i grannforumet om störande musik` → 小区讨论帖 ⭐
 - `/scenario text information från skolan om utvecklingssamtal` → 学校通知 ⭐

@@ -3,7 +3,7 @@ type: topic
 name: "kollektivtrafik"
 kind: semantic-field
 zh: "公共交通"
-members: [kollektivtrafik, månadskort, spårvagn, tunnelbana, linje, buss, tåg, hållplats, station, cykel]
+members: [kollektivtrafik, månadskort, spårvagn, tunnelbana, linje, buss, tåg, hållplats, station, cykel, överfull, pendeltåg, busskur]
 created: "2026-06-04"
 ---
 

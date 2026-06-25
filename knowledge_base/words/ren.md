@@ -40,7 +40,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Tallriken är ren efter disken. — 🇨🇳 盘子洗碗后干净了。
+- 🇸🇪 Tvätta händerna så att de är rena. — 🇨🇳 洗手，让手保持干净。
+- 🇸🇪 Vattnet i sjön är rent och klart. — 🇨🇳 湖里的水清澈干净。
 
 ## 词族 / 同义 / 反义 (Relations)
 

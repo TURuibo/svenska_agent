@@ -42,7 +42,9 @@ interval: 0
 
 ## 例句 (Sentences)
 
-<!-- drill import: examples omitted -->
+- 🇸🇪 Jag jobbar på ekonomiavdelningen. — 🇨🇳 我在财务部工作。
+- 🇸🇪 Barnet är på barnavdelningen på sjukhuset. — 🇨🇳 孩子在医院的儿科。
+- 🇸🇪 Klädavdelningen finns på andra våningen. — 🇨🇳 服装区在二楼。
 
 ## 词族 / 同义 / 反义 (Relations)
 
