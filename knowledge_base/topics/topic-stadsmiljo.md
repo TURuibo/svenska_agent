@@ -47,6 +47,37 @@ members:
   - populär
   - livlig
   - trasig
+  - smutsig
+  - bullrig
+  - trafikfri
+  - romantisk
+  - välkänd
+  - välskött
+  - industriell
+  - folkrik
+  - historisk
+  - ombyggd
+  - trivsam
+  - avlägsen
+  - trafiktät
+  - kuslig
+  - dekorativ
+  - folktom
+  - välbelyst
+  - hamn
+  - kvarter
+  - bibliotek
+  - museum
+  - cykelväg
+  - stadsdel
+  - rådhus
+  - innergård
+  - utkant
+  - kö
+  - övergångsställe
+  - lykta
+  - gågata
+  - promenadstråk
 created: "2026-06-09"
 ---
 
@@ -115,6 +146,6 @@ created: "2026-06-09"
 
 ## 备注 (Notes)
 
-- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]]
+- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]], [[source-2026-06-25-stad-trafik]]
 - 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]
 - 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]

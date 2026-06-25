@@ -29,6 +29,21 @@ members:
   - tung
   - trasig
   - livlig
+  - bullrig
+  - trafikfri
+  - överfull
+  - trafiktät
+  - flygplats
+  - hamn
+  - järnväg
+  - motorväg
+  - cykelväg
+  - färja
+  - pendeltåg
+  - busskur
+  - kö
+  - övergångsställe
+  - gågata
 created: "2026-06-09"
 ---
 
@@ -75,6 +90,6 @@ created: "2026-06-09"
 
 ## 备注 (Notes)
 
-- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]]
+- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]], [[source-2026-06-25-stad-trafik]]
 - 相关主题：[[topic-stadsmiljo]]，[[topic-kollektivtrafik]]，[[topic-riktningar]]
 - 另见：[[topic-kollektivtrafik]]（公共交通专题）

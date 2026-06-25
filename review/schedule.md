@@ -2333,6 +2333,46 @@
 | [[sent-jag-hoppas-att-ni-vill-kalla-mig]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | [[sent-med-vänliga-hälsningar-sara-nguyen]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 
+| **— source-2026-06-25-stad-trafik — 18形容词NEW / 20名词NEW —** | | | | | | |
+| [[smutsig]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[bullrig]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[trafikfri]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[romantisk]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[välkänd]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[överfull]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[välskött]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[industriell]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[folkrik]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[historisk]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[ombyggd]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[trivsam]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[avlägsen]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[trafiktät]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kuslig]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[dekorativ]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[folktom]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[välbelyst]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[flygplats]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[hamn]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kvarter]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[bibliotek]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[museum]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[järnväg]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[motorväg]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[cykelväg]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[färja]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[pendeltåg]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[busskur]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[stadsdel]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[rådhus]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[innergård]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[utkant]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[kö]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[övergångsställe]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[lykta]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[gågata]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+| [[promenadstråk]] | word | — | 0 | 2.5 | 2026-06-25 | no |
+
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。

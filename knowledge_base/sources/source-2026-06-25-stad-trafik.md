@@ -4,7 +4,45 @@ title: "Adjektiv+substantiv böjning — Stad & Trafik 2026-06-25"
 kind: exercise
 cefr: "A2-B1"
 date_added: "2026-06-25"
-words: []
+words:
+  - smutsig
+  - bullrig
+  - trafikfri
+  - romantisk
+  - välkänd
+  - överfull
+  - välskött
+  - industriell
+  - folkrik
+  - historisk
+  - ombyggd
+  - trivsam
+  - avlägsen
+  - trafiktät
+  - kuslig
+  - dekorativ
+  - folktom
+  - välbelyst
+  - flygplats
+  - hamn
+  - kvarter
+  - bibliotek
+  - museum
+  - järnväg
+  - motorväg
+  - cykelväg
+  - färja
+  - pendeltåg
+  - busskur
+  - stadsdel
+  - rådhus
+  - innergård
+  - utkant
+  - kö
+  - övergångsställe
+  - lykta
+  - gågata
+  - promenadstråk
 phrases: []
 sentences: []
 grammar: []
