@@ -51,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[jobb]] (n. 工作/活儿，口语), [[arbeta]] (v. 工作，正式), [[arbete]] (n. 工作，正式名词)
+- 词族: [[jobb]] (n. 工作/活儿，口语), [[arbeta]] (v. 工作，正式), [[arbete]] (n. 工作，正式名词), [[jobbig]] (adj. 累人的/麻烦的)
 - 同义词: [[arbeta]]（更正式/书面）
 - 主题: [[topic-arbete]]
 

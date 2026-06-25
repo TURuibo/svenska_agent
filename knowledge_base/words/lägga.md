@@ -32,6 +32,7 @@ interval: 0
 | Form | Swedish |
 |------|---------|
 | Infinitiv | att lägga |
+| Imperativ | lägg! |
 | Presens | lägger |
 | Preteritum | lade |
 | Supinum | (har) lagt |
