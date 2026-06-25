@@ -7,7 +7,7 @@ genus: ""
 cefr: A2
 zh: "安全的；确定的；有把握的"
 en: "safe; sure; certain"
-synonyms: []
+synonyms: ["trygg"]
 antonyms: ["farlig", "osäker"]
 family: ["säkerhet", "säkert", "säkra"]
 topics: ["topic-karaktarsord"]
@@ -50,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: säkerhet (安全/确定性), säkra (确保, verb)
-- 同义词: trygg (有安全感的)
+- 同义词: [[trygg]] (有安全感的)
 - 反义词: [[farlig]] (危险的), osäker (不确定的)
 - 主题: [[topic-karaktarsord]]
 
