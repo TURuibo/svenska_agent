@@ -2457,6 +2457,42 @@
 | [[sent-föräldrar-ansvar-se-barnen-kör]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | [[sent-miljöpartiet-vill-finnas-plan-hur]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
 | [[sent-partiet-vill-bland-annat-förskolor]] | sentence | — | 0 | 2.5 | 2026-06-25 | no |
+| **— 8 Sidor nyheter (2026-06-26) — 10词NEW / 4词组NEW / 18句NEW / 3语法NEW (DUP: jordbävning, kraftig, förstöra, rekord, mark, undersöka, skådespelare, trivas, blöt, ägg, på-grund-av, säg-till) —** | | | | | | |
+| [[skadad]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[troligen]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[rasa]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[fläkt]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[kyla]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[stoppa]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[damm]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[trädgård]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[mördarsnigel]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[stålverk]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[bli-av-med]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[äta-upp]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[lägga-ägg]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[få-ont-i-huvudet]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[grammar-bli-passiv-perfekt]] | grammar | — | 0 | 2.5 | 2026-06-26 | no |
+| [[grammar-komparativ-med-färre]] | grammar | — | 0 | 2.5 | 2026-06-26 | no |
+| [[grammar-pa-grund-av-preposition]] | grammar | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-hittills-har-164-manniskor-hittats]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-over-700-personer-ar-skadade]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-ar-troligen-manga-fler-doda]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jordbavningarna-ar-bland-de-varsta]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-i-huvudstaden-caracas-har-byggnader]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-varma-vadret-ar-kvar-i-europa]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-onsdagen-var-den-varmaste-dagen]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-over-70-tusen-fransmar-har-forlorat]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-folk-i-frankrike-har-ocksa-kopt]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-en-till-person-har-blivit-sjuk]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-damm-torr-luft-och-virus]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-de-tycker-att-dammet-fran-marken]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-finns-farre-mordarsniglar]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-beror-pa-den-torra-varen]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-sniglarna-ater-upp-bade-gronsaker]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-ar-svart-att-bli-av-med]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-en-enda-snigel-kan-lagga-flera]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-men-sniglarna-trivs-bast-nar]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。
