@@ -25,6 +25,17 @@ members:
   - meriterande-men-inget-krav
   - passar-mig-utmärkt
   - kalla-till-intervju
+  - dålig
+  - aktiv
+  - professionell
+  - erfaren
+  - rapport
+  - uppgift
+  - chef
+  - anställning
+  - industri
+  - roll
+  - lärare
 created: "2026-06-25"
 ---
 
@@ -49,6 +60,17 @@ created: "2026-06-25"
 | [[erfarenhet]] | substantiv | 经验 |
 | [[egenskap]] | substantiv | 特质；属性 |
 | [[tålmodig]] | adjektiv | 有耐心的 |
+| [[dålig]] | adjektiv | 差的/坏的 |
+| [[aktiv]] | adjektiv | 积极的/活跃的 |
+| [[professionell]] | adjektiv | 专业的 |
+| [[erfaren]] | adjektiv | 有经验的 |
+| [[rapport]] | substantiv | 报告 |
+| [[uppgift]] | substantiv | 任务/作业 |
+| [[chef]] | substantiv | 老板/主管 |
+| [[anställning]] | substantiv | 雇佣/职位 |
+| [[industri]] | substantiv | 行业/产业 |
+| [[roll]] | substantiv | 角色/职责 |
+| [[lärare]] | substantiv | 教师 |
 
 ## 核心短语 (Core Phrases)
 

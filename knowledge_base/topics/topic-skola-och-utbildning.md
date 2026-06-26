@@ -3,7 +3,7 @@ type: topic
 name: "skola och utbildning"
 kind: semantic-field
 zh: 学校与教育（语义场）
-members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra]
+members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student]
 created: "2026-06-03"
 ---
 
@@ -24,6 +24,15 @@ created: "2026-06-03"
 - [[klasslärare]] — 班主任；班级老师 (class teacher)
 - [[skolgård]] — 校园；操场 (school yard)
 - [[förbättra]] — 改进；改善 (to improve)
+- [[dålig]] — 差的/坏的 (bad/poor)
+- [[aktiv]] — 积极的/活跃的 (active)
+- [[uppgift]] — 任务/作业 (task/assignment)
+- [[lektion]] — 课/课程 (lesson/class)
+- [[elev]] — 学生（中小学）(pupil)
+- [[lärare]] — 教师 (teacher)
+- [[prov]] — 考试/测验 (test/exam)
+- [[betyg]] — 成绩/分数 (grade/mark)
+- [[student]] — 大学生 (university student)
 
 ## 备注 (Notes)
 
