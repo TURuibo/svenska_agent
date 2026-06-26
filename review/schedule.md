@@ -8,6 +8,104 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-26-mejl-till-hyresvarden — 5词NEW / 4词组NEW / 6句NEW / 1语法NEW (DUP词: lugn, störa, ansvar; DUP词组: det-krävs; DUP语法: grammar-om-konditionalis→grammar-konditionalis-med-om, grammar-passiv-med-s, grammar-att-bisats) —** | | | | | | |
+| [[tillstånd]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sköta]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[noggrant]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[medveten]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[tacksam]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[vända-sig-till]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[tack-på-förhand]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[höra-av-sig]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[ta-ansvar-för]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[grammar-formellt-mejl]] | grammar | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-skriver-for-att-fraga-om-jag]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-katten-ar-liten-och-lugn-och]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-skoter-stadningen-noggrant-och]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-ar-medveten-om-att-det]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-darfor-vander-jag-mig-till]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-ar-tacksam-om-ni-kan]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| **— source-2026-06-26-felanmalan-hyresvard — 8词NEW / 4词组NEW / 6句NEW / 2语法NEW (DUP词: anmäla, åtgärd; DUP词组: snarast-möjligt; DUP语法: grammar-passiv-med-s) —** | | | | | | |
+| [[hyresvärd]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[ärende]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[kylskåp]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[fungera]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[tvinga]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[konstant]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[reparera]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[felanmälan]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[byta-ut]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[hålla-sig-kall]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[med-vänlig-hälsning]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[kasta-bort]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[grammar-formellt-brev]] | grammar | — | 0 | 2.5 | 2026-06-26 | no |
+| [[grammar-att-bisats]] | grammar | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-skriver-for-att-anmala-ett]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-kylskapet-i-koket-fungerar]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-maten-haller-sig-inte-kall]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-kylskapet-gor-ocksa-ett-hogt]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-onskar-att-ni-byter-ut]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-ni-ar-valkommen-att-kontakta]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| **— source-2026-06-26-brev-till-van-nya-livet — 5词NEW / 3词组NEW / 14句NEW / 1语法NEW (DUP词: annorlunda, midsommar, hjälpsam, granne, ganska, ljus; DUP词组: (det-var-länge-sedan~); DUP语法: grammar-perfekt, grammar-att-sats, grammar-relativ-bisats-med-som) —** | | | | | | |
+| [[snöa]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sakna]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[besöka]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[länge]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[ibland]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[det-är-länge-sedan]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[jämfört-med]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[kram-och-hälsningar]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[grammar-privat-brev]] | grammar | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-hur-mår-du]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-är-länge-sedan-vi-pratade]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-hoppas-att-allt-är-bra]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-bor-i-sverige-nu]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-har-bott-här-i-sex-månader]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-livet-är-ganska-annorlunda]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-vintern-var-mycket-kall]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-nu-är-det-sommar-och-väldigt]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-är-ljust-nästan-hela-natten]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-studerar-svenska-på-sfi]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-är-svårt-ibland-men-lärarna]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-har-också-träffat-trevliga]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-saknar-dig-och-hela-familjen]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-hoppas-att-du-kan-besöka]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| **— source-2026-06-26-inbjudan-kalas — 5词NEW / 3词组NEW / 5句NEW / 1语法NEW (DUP: plats, bjuda-på, osa-senast, grammar-passiv-med-s, grammar-att-sats) —** | | | | | | |
+| [[kalas]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[datum]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[dryck]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[hälsning]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[senast]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[fylla-år]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[hjärtligt-välkommen]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[hjärtliga-hälsningar]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[grammar-datum-och-tid]] | grammar | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-jag-fyller-30-ar-den-15]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-du-ar-hjartligt-valkommen-pa]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-mat-och-dryck-bjuds-det]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-vi-hoppas-att-du-kan]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-osa-senast-den-1-augusti]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| **— source-2026-06-26-anslag-vattenavstangning-container — 10词NEW / 4词组NEW / 7句NEW / 0语法NEW (DUP: farlig→avfall→förståelse, farligt-avfall, grammar-imperativ, grammar-v2-ordfoljd, grammar-sammansatt-ord) —** | | | | | | |
+| [[boende]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[vattenavstängning]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[hink]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[container]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[gård]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[skräp]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[elektronik]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[vitvaror]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[fastighetsförvaltning]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[stänga-av]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[fyll-på-med]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[lägga-dit]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[tack-för-er-förståelse]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-lordagen-den-4-juli-stanger-vi]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-arbetet-borjar-klockan-08-00-och]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-under-den-har-tiden-kan-du]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-fyll-garna-pa-flaskor-eller-hinkar]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-fran-mandag-den-7-juli-till-fredag]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-du-kan-lagga-dit-gamla-mobler]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-lagg-inte-dit-farligt-avfall]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
 | **— source-2026-06-25-svt-latt-horning — 10词NEW / 3词组NEW / 10句NEW / 1语法NEW (DUP: myndighet, förskola, sval, värme, ta-ansvar, bland-annat, grammar-bisats-eftersom) —** | | | | | | |
 | [[jordbävning]] | word | — | 0 | 2.5 | 2026-06-25 | no |
 | [[efterskalv]] | word | — | 0 | 2.5 | 2026-06-25 | no |
