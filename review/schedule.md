@@ -8,6 +8,37 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-26-svt-nyheter-latt-svenska — 8词NEW / 1词组NEW / 20句NEW / 1语法NEW (DUP词: jordbävning, lägenhet, rasa, hamn, värmebölja, landslag, åska; DUP词组: på-grund-av, bland-annat, framför-allt, hålla-tal; DUP语法: grammar-passiv-med-s, grammar-ska-infinitiv) —** | | | | | | |
+| [[drabba]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[bråttom]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[utrikesdepartement]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[elda]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[gnista]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[oavgjort]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[heja]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[mellanrum]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[i-snitt]] | phrase | — | 0 | 2.5 | 2026-06-26 | no |
+| [[grammar-kommer-att-infinitiv]] | grammar | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-nara-600-manniskor-ar-doda-efter]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-antalet-doda-kommer-troligtvis-att-oka]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-de-tva-kraftigaste-jordbavningarna-skedde]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-fler-an-250-byggnader-med-lagenheter]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-ar-brattom-om-man-ska-hitta]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-50-000-manniskor-saknas]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-presidenten-i-venezuela-har-besökt]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-moderaternas-ledare-ulf-kristerssons-tur]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-han-lovade-bland-annat-att-familjer]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-kallas-for-värmebölja]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-nu-ar-det-i-snitt-3-5-grader]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-vi-fortsätter-att-slappa-ut-gaser]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-pa-grund-av-värmen-ar-det-mycket-stor]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-vara-forsiktig-om-man-eldar]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-det-svenska-landslaget-i-fotboll-ar-vidare]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-inatt-spelade-de-oavgjort-mot-japan]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-i-nasta-match-far-sverige]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-och-det-var-manga-i-sverige-som-hejad]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-imorgon-kan-det-bli-over-35-grader]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| [[sent-men-det-kan-komma-regn-och-åska]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
 | **— source-2026-06-26-mejl-till-hyresvarden — 5词NEW / 4词组NEW / 6句NEW / 1语法NEW (DUP词: lugn, störa, ansvar; DUP词组: det-krävs; DUP语法: grammar-om-konditionalis→grammar-konditionalis-med-om, grammar-passiv-med-s, grammar-att-bisats) —** | | | | | | |
 | [[tillstånd]] | word | — | 0 | 2.5 | 2026-06-26 | no |
 | [[sköta]] | word | — | 0 | 2.5 | 2026-06-26 | no |
