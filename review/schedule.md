@@ -2591,6 +2591,23 @@
 | [[sent-det-ar-svart-att-bli-av-med]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
 | [[sent-en-enda-snigel-kan-lagga-flera]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
 | [[sent-men-sniglarna-trivs-bast-nar]] | sentence | — | 0 | 2.5 | 2026-06-26 | no |
+| **— source-2026-06-26-adjsubst-arbete-skola — 16词NEW (adjsubst Work & School böjning) —** | | | | | | |
+| [[dålig]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[aktiv]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[professionell]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[erfaren]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[rapport]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[uppgift]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[lektion]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[elev]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[lärare]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[chef]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[anställning]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[industri]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[roll]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[prov]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[betyg]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| [[student]] | word | — | 0 | 2.5 | 2026-06-26 | no |
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。
