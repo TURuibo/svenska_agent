@@ -19,14 +19,29 @@ words:
   - återvinningsstation
   - batteri
   - kemikalie
+  - återvinning
+  - hushåll
+  - soptunna
+  - miljöstation
+  - sopbil
+  - biogas
+  - kompost
+  - naturresurs
+  - förbränna
+  - spara
+  - kasta
 phrases:
   - källsortera-hemma
   - bind-ihop
   - vika-ihop
   - lämna-vid
   - farligt-avfall
+  - källsortera-sina-sopor
+  - lägger-man-i
+  - tas-till
 sources:
   - source-2026-06-25-instruktion-kallsortering
+  - source-2026-06-27-faktatext-atervinning
 created: "2026-06-25"
 ---
 
@@ -52,7 +67,23 @@ created: "2026-06-25"
 ### 容器与工具
 - [[behållare]] — 容器（通用）
 - [[påse]] — 袋子
+- [[soptunna]] — 垃圾桶
 - [[återvinningsstation]] — 回收站
+- [[miljöstation]] — 环保站（危险废物）
+
+### 处理方式
+- [[återvinning]] — 回收利用
+- [[biogas]] — 沼气（厨余再利用）
+- [[kompost]] — 堆肥（厨余再利用）
+- [[förbränna]] — 焚烧
+- [[spara]] — 节省（资源）
+- [[naturresurs]] — 自然资源
+
+### 交通运输
+- [[sopbil]] — 垃圾车
+
+### 行为动词
+- [[kasta]] — 扔/丢弃
 
 ### 具体废弃物
 - [[kaffesump]] — 咖啡渣
@@ -65,6 +96,9 @@ created: "2026-06-25"
 ## 词组 (Phrases)
 
 - [[källsortera-hemma]] — 在家进行垃圾分类
+- [[källsortera-sina-sopor]] — 分类处理自己的垃圾
+- [[lägger-man-i]] — 人们把……放进（泛指句型）
+- [[tas-till]] — 被送到……
 - [[bind-ihop]] — 把袋子扎好
 - [[vika-ihop]] — 把纸板折叠好
 - [[lämna-vid]] — 送到…处

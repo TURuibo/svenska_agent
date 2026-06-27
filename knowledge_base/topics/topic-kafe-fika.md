@@ -44,6 +44,22 @@ members:
   - ha-en-fin-dag
   - tack-detsamma
   - ha-bråttom
+  - eftermiddag
+  - fruktté
+  - korterminal
+  - servett
+  - disk
+  - beställning
+  - ihop
+  - sugen
+  - dela
+  - önska
+  - vara-sugen-på
+  - gå-och-beställa
+  - var-för-sig
+  - betala-med-kort
+  - ledigt-bord
+  - hämta-servetterna
 created: "2026-06-09"
 ---
 
@@ -92,6 +108,23 @@ created: "2026-06-09"
 - [[ha-en-fin-dag]] — 祝你今天愉快
 - [[tack-detsamma]] — 谢谢，你也一样
 - [[ha-bråttom]] — 赶时间；着急
+
+- [[eftermiddag]] — 下午
+- [[fruktté]] — 果茶
+- [[korterminal]] — 刷卡机
+- [[servett]] — 餐巾
+- [[disk]] — 吧台；柜台
+- [[beställning]] — 点单；订单
+- [[ihop]] — 一起（合付）
+- [[sugen]] — 想要……的
+- [[dela]] — 分；分摊
+- [[önska]] — 希望；想要
+- [[vara-sugen-på]] — 想吃/喝……
+- [[gå-och-beställa]] — 去点餐
+- [[var-för-sig]] — 各付各的；分开
+- [[betala-med-kort]] — 刷卡付款
+- [[ledigt-bord]] — 空桌子
+- [[hämta-servetterna]] — 去拿餐巾
 
 ## 备注 (Notes)
 
