@@ -2952,6 +2952,42 @@
 | [[sent-att-källsortera-är-viktigt]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
 | [[sent-i-sverige-lär-sig-barn-redan-i-grundskolan]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
 | [[sent-det-är-en-naturlig-del-av-vardagslivet]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| **— source-2026-06-27-adjsubst-kropp-halsa — 35词NEW / 15词DUP (akut, allvarlig, blek, feber, frisk, fuktig, läkare, medicin, naturlig, skada, skadad, svag, tablett, torr, tung → skipped) —** | | | | | | |
+| [[stel]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[fräsch]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[frusen]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[stressad]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[utmattad]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[smärtsam]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[lindrig]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[medicinsk]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[yr]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sömig]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[andfådd]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[bräcklig]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[regelbunden]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[hälsosam]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[infekterad]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[hjärta]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[hjärna]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[nacke]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[mage]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[ansikte]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[hosta]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sår]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[öga]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[led]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sena]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sjuksköterska]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[allergi]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[operation]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[huvud]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[rygg]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[bröst]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[tand]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[spruta]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[klinik]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[blåmärke]] | word | — | 0 | 2.5 | 2026-06-27 | no |
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。
