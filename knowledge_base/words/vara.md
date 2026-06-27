@@ -4,8 +4,8 @@ lemma: "vara"
 ordklass: verb
 verbgrupp: "4"
 cefr: A1
-zh: "是 / 存在"
-en: "to be"
+zh: "是 / 存在；持续，延续"
+en: "to be; to last, to endure"
 synonyms: []
 antonyms: []
 family: []
@@ -44,7 +44,12 @@ Oregelbundet/starkt (verbgrupp 4). Mycket hög frekvens.
 
 ## 例句 (Sentences)
 
+**义项 1 — 是（kopulaverb）:**
 - 🇸🇪 Zlatan är en av de bästa fotbollsspelarna i världen. — 🇨🇳 Zlatan 是世界上最好的足球运动员之一。
+
+**义项 2 — 持续，延续（varar = lasts）:**
+- 🇸🇪 Vikingatiden varade från ungefär år 800 till år 1050. — 🇨🇳 维京时代从大约公元 800 年持续到 1050 年。
+- 🇸🇪 Mötet varade i två timmar. — 🇨🇳 会议持续了两个小时。
 
 ## 词族 / 同义 / 反义 (Relations)
 
@@ -57,3 +62,4 @@ Oregelbundet/starkt (verbgrupp 4). Mycket hög frekvens.
 
 - Presens "är" (inte "vara" i presens). Preteritum "var". Supinum "varit" — används med "har": Jag har varit i Sverige.
 - Det vanligaste verbet i svenska. Kopulaverb + lexikalt verb.
+- **义项 2（持续）：** `varar` / `varade` = to last/endure（时间范围内持续）。注意这个义项的 presens 是 `varar`（规律动词），不是 `är`。例：`Sommaren varar i tre månader.`（夏天持续三个月。）

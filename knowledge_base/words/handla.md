@@ -5,8 +5,8 @@ ordklass: verb
 verbgrupp: "1"
 genus: ""
 cefr: A1
-zh: "购物；行动；关于"
-en: "shop; act; be about"
+zh: "购物；行动；关于；交易"
+en: "shop; act; be about; trade"
 synonyms: []
 antonyms: []
 family: ["handel", "handlare", "handling"]
@@ -40,6 +40,7 @@ interval: 0
 - `handla mat` — 买菜/购买食物
 - `handla om` — 关于（主题）→ see [[handla-om]]
 - `handla online` — 网购
+- `handla med` — 与……交易（贸易）→ see [[handla-med]]
 
 ## 例句 (Sentences)
 
@@ -58,3 +59,4 @@ interval: 0
 - `handla mat` = 购买食物（去超市）。
 - `handla om` + substantiv/att-sats = 关于……，讲述……（内容主语）。
 - `handla` 本义是"从事贸易"，衍生出"购物"和"行动"两义。
+- **维京贸易义：** `handla med folk i öst`（与东方的人们进行贸易）— 这是 handla 的原始义，参见 [[handla-med]]。
