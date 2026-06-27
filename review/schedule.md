@@ -8,6 +8,51 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-27-nyheter-8sidor — 15词NEW / 4词组NEW / 25句NEW / 1主题NEW (ENRICHED: hylla→verb sense, vara→noun sense; DUP词: myndighet, väder, värme, grad, expert, regn, jordbävning, människa, räddningsarbetare, olycka, domstol, fängelse, brott, klimat, utsläpp, ledare, tal, varna, stoppa, minska, sakna, skicka, döma, förstöra, öka; DUP词组: på-grund-av, ta-det-lugnt, hålla-tal, dömas-till-fängelse; DUP语法: s-passiv, på-grund-av-preposition) —** | | | | | | |
+| [[varning]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[helikopter]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[tingsrätt]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[terrorist]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[kniv]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[hakkors]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[flagga]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[demokrati]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[samarbete]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[tipsa]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[skaka]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[erkänna]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[misshandla]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sprida]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[skyldig]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[vara-redo-att]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[spåra-ur]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[hamna-under]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[jobba-med-att]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-myndigheten-smhi-varnar-for-mycket-varmt]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-det-kan-bli-35-grader-varmt-i-sodra]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-pa-grund-av-varmen-stoppas-en-del-tag]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-han-tipsar-folk-att-dricka-mycket]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-i-norra-sverige-blir-det-regn]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-i-onsdags-var-det-tva-stora-jordbavningar]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-minst-589-manniskor-har-dott]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-over-50-tusen-manniskor-saknas-fortfarande]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-raddningsarbetare-och-vanliga-manniskor-jobbar]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-flera-lander-skickar-hjalp-till-venezuela]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-aven-sverige-ar-redo-att-hjälpa]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-ett-tag-har-sparat-ur]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-det-var-ett-tag-med-varor]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-det-kan-ta-tva-veckor-att-laga]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-trafikverket-vet-inte-an-varfor-taget]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-en-20-arig-man-doms-till-fangelse]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-mannen-forsökte-starta-en-nazistisk-grupp]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-poliserna-hittade-flera-knivar-och-en-flagga]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-mannen-ar-skyldig-till-brottet-deltagande]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-han-erkanner-delar-av-brottet]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-just-nu-ar-det-arets-vecka-for-politik]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-partiernas-ledare-håller-tal-om-sin-politik]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-de-kallade-konserten-vi-ar-sverige]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-de-som-hade-konserten-ville-visa]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-texten-handlade-om-att-experter-varnar]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
 | **— source-2026-06-27-vikingatiden — 16词NEW / 4词组NEW / 17句NEW / 2语法NEW / 1主题NEW (DUP词: vara→enriched, handla→enriched, saga→no new info, hjälte→skip; DUP语法: grammar-preteritum→skip) —** | | | | | | |
 | [[odla]] | word | — | 0 | 2.5 | 2026-06-27 | no |
 | [[skepp]] | word | — | 0 | 2.5 | 2026-06-27 | no |
@@ -2679,6 +2724,51 @@
 | [[prov]] | word | — | 0 | 2.5 | 2026-06-26 | no |
 | [[betyg]] | word | — | 0 | 2.5 | 2026-06-26 | no |
 | [[student]] | word | — | 0 | 2.5 | 2026-06-26 | no |
+| **— source-2026-06-27-nyheter-8sidor — 15词NEW / 4词组NEW / 25句NEW (DUP词: myndighet/väder/värme/grad/expert/regn/jordbävning/människa/räddningsarbetare/fartyg/olycka/domstol/fängelse/brott/klimat/utsläpp/ledare/tal/krig/varna/stoppa/minska/rasa/sakna/skicka/döma/förstöra/öka→skipped; DUP词组: på-grund-av/ta-det-lugnt/hålla-tal/dömas-till-fängelse→skipped; DUP语法: s-passiv/på-grund-av-preposition→skipped) —** | | | | | | |
+| [[varning]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[helikopter]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[tingsrätt]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[terrorist]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[kniv]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[hakkors]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[flagga]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[demokrati]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[samarbete]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[tipsa]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[skaka]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[erkänna]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[misshandla]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sprida]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[skyldig]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[vara-redo-att]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[spåra-ur]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[hamna-under]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[jobba-med-att]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-myndigheten-smhi-varnar-for-mycket-varmt]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-det-kan-bli-35-grader-varmt]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-pa-grund-av-varmen-stoppas-en-del]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-han-tipsar-folk-att-dricka]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-i-norra-sverige-blir-det-regn]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-i-onsdags-var-det-tva-stora]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-minst-589-manniskor-har-dott]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-over-50-tusen-manniskor-saknas]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-raddningsarbetare-och-vanliga-manniskor]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-flera-lander-skickar-hjalp-till]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-aven-sverige-ar-redo-att]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-ett-tag-har-sparat-ur]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-det-var-ett-tag-med-varor]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-det-kan-ta-tva-veckor]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-trafikverket-vet-inte-an]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-en-20-arig-man-doms]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-mannen-forsökte-starta-en-nazistisk]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-poliserna-hittade-flera-knivar]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-mannen-ar-skyldig-till-brottet]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-han-erkanner-delar-av-brottet]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-just-nu-ar-det-arets-vecka]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-partiernas-ledare-haller-tal]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-de-kallade-konserten-vi]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-de-som-hade-konserten-ville]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-texten-handlade-om-att-experter]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。

@@ -59,3 +59,27 @@ interval: 0
 - `hylla` 指单层架板；`bokhylla` 是带多层架板的整体书架。
 - 物品在架子上：用 **stå**（竖立的书/瓶子）或 **sitta**（固定贴附的照片）。
 - 来源: [[source-2026-06-09-rumsliga-relationer]]
+
+---
+
+## 义项 2 — 动词：颂扬；崇敬；向…致敬 (verb: to praise/glorify)
+
+> **⚠️ 同形异义词 (homonym):** `hylla` 也是一个动词，词义与名词完全不同。
+
+| Form | Swedish |
+|------|---------|
+| Infinitiv | hylla |
+| Presens | hyllar |
+| Preteritum | hyllade |
+| Supinum | hyllat |
+| Imperativ | hylla! |
+
+**中文:** 颂扬；推崇；崇敬；向…致敬
+**English:** to praise; to glorify; to pay tribute to; to honor
+
+### 例句 (义项 2):
+- 🇸🇈 Publiken hyllade artisterna med stående ovationer. — 🇨🇳 观众用起立鼓掌向艺术家们致敬。
+- 🇸🇈 De kallade konserten "Vi är Sverige" för att hylla demokratin. — 🇨🇳 他们把音乐会命名为"我们是瑞典"，以颂扬民主。
+- 🇸🇈 Man hyllade hjältarna som räddade liv. — 🇨🇳 人们颂扬了那些救助生命的英雄。
+
+**用法:** `hylla ngn/ngt` — 颂扬某人/某事（verb 1，规律变化）。常见于文化/音乐/体育语境。
