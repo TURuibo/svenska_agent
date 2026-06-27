@@ -5,13 +5,52 @@ kind: historia
 cefr: "A2"
 date_added: "2026-06-27"
 source_label: "historia — vikingatiden (lättläst)"
-words: []
-phrases: []
-sentences: []
-grammar: []
+words:
+  - odla
+  - skepp
+  - segla
+  - päls
+  - honung
+  - silver
+  - lera
+  - långhus
+  - gud
+  - strid
+  - valhall
+  - kristendom
+  - förändras
+  - symbol
+  - äventyr
+  - styrka
+phrases:
+  - segla-österut
+  - handla-med
+  - tro-på
+  - långt-bort
+sentences:
+  - sent-vikingatiden-varade-fran-ungefar-ar-800
+  - sent-de-flesta-vikingar-var-bonder
+  - sent-de-odlade-mat-och-hade-djur
+  - sent-men-manga-vikingar-reste-ocksa
+  - sent-svenska-vikingar-seglade-osterut
+  - sent-de-kom-till-lander-i-ost
+  - sent-de-kopte-och-salde-palsar-honung
+  - sent-vikingarna-bodde-i-hus-av-tra-och-lera
+  - sent-huset-kallades-ett-langhus
+  - sent-hela-familjen-bodde-tillsammans
+  - sent-djuren-bodde-ocksa-i-huset-pa-vintern
+  - sent-vikingarna-trodde-pa-gudar-som-oden
+  - sent-de-berattade-sagor-och-dikter-om-gudarna
+  - sent-en-hjalte-som-dog-i-strid-kom-till-valhall
+  - sent-ar-1050-slutade-vikingatiden
+  - sent-kristendomen-kom-till-sverige
+  - sent-i-dag-ar-vikingen-en-symbol
+grammar:
+  - grammar-s-passiv
+  - grammar-relativbisats
 ---
 
-# 📄 Vikingatiden
+# Vikingatiden
 
 类型: historia · 难度: A2
 
@@ -47,9 +86,37 @@ I dag är vikingen en symbol för styrka och äventyr.
 
 如今，维京人是力量与冒险精神的象征。
 
-## 提取 (Extracted → linked notes)
+## 提取 (Extracted — linked notes)
 
-- 生词: [[odla]], [[skepp]], [[segla]], [[päls]], [[honung]], [[silver]], [[lera]], [[långhus]], [[gud]], [[strid]], [[valhall]], [[kristendom]], [[förändras]], [[symbol]], [[äventyr]], [[styrka]]
-- 词组: [[segla-österut]], [[handla-med]], [[tro-på]], [[långt-bort]]
-- 句子: (17 sentences — see librarian notes below)
-- 语法: [[grammar-s-passiv]], [[grammar-relativbisats]]
+### 生词 (Words)
+- [[odla]], [[skepp]], [[segla]], [[päls]], [[honung]], [[silver]], [[lera]], [[långhus]], [[gud]], [[strid]], [[valhall]], [[kristendom]], [[förändras]], [[symbol]], [[äventyr]], [[styrka]]
+- DUP (enriched only): [[vara]]（新增"持续/延续"义）, [[handla]]（贸易上下文）, [[saga]]（萨迦义已存在）, [[hjälte]]（已有，无需添加）
+
+### 词组 (Phrases)
+- [[segla-österut]], [[handla-med]], [[tro-på]], [[långt-bort]]
+
+### 句子 (Sentences)
+- [[sent-vikingatiden-varade-fran-ungefar-ar-800]]
+- [[sent-de-flesta-vikingar-var-bonder]]
+- [[sent-de-odlade-mat-och-hade-djur]]
+- [[sent-men-manga-vikingar-reste-ocksa]]
+- [[sent-svenska-vikingar-seglade-osterut]]
+- [[sent-de-kom-till-lander-i-ost]]
+- [[sent-de-kopte-och-salde-palsar-honung]]
+- [[sent-vikingarna-bodde-i-hus-av-tra-och-lera]]
+- [[sent-huset-kallades-ett-langhus]]
+- [[sent-hela-familjen-bodde-tillsammans]]
+- [[sent-djuren-bodde-ocksa-i-huset-pa-vintern]]
+- [[sent-vikingarna-trodde-pa-gudar-som-oden]]
+- [[sent-de-berattade-sagor-och-dikter-om-gudarna]]
+- [[sent-en-hjalte-som-dog-i-strid-kom-till-valhall]]
+- [[sent-ar-1050-slutade-vikingatiden]]
+- [[sent-kristendomen-kom-till-sverige]]
+- [[sent-i-dag-ar-vikingen-en-symbol]]
+
+### 语法 (Grammar)
+- [[grammar-s-passiv]], [[grammar-relativbisats]]
+- DUP (skipped): [[grammar-preteritum]]
+
+### 主题 (Topic)
+- [[topic-vikingatiden]]

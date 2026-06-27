@@ -8,6 +8,46 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-27-vikingatiden — 16词NEW / 4词组NEW / 17句NEW / 2语法NEW / 1主题NEW (DUP词: vara→enriched, handla→enriched, saga→no new info, hjälte→skip; DUP语法: grammar-preteritum→skip) —** | | | | | | |
+| [[odla]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[skepp]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[segla]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[päls]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[honung]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[silver]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[lera]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[långhus]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[gud]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[strid]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[valhall]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[kristendom]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[förändras]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[symbol]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[äventyr]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[styrka]] | word | — | 0 | 2.5 | 2026-06-27 | no |
+| [[segla-österut]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[handla-med]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[tro-på]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[långt-bort]] | phrase | — | 0 | 2.5 | 2026-06-27 | no |
+| [[grammar-s-passiv]] | grammar | — | 0 | 2.5 | 2026-06-27 | no |
+| [[grammar-relativbisats]] | grammar | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-vikingatiden-varade-fran-ungefar-ar-800]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-de-flesta-vikingar-var-bonder]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-de-odlade-mat-och-hade-djur]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-men-manga-vikingar-reste-ocksa]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-svenska-vikingar-seglade-osterut]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-de-kom-till-lander-i-ost]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-de-kopte-och-salde-palsar-honung]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-vikingarna-bodde-i-hus-av-tra-och-lera]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-huset-kallades-ett-langhus]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-hela-familjen-bodde-tillsammans]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-djuren-bodde-ocksa-i-huset-pa-vintern]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-vikingarna-trodde-pa-gudar-som-oden]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-de-berattade-sagor-och-dikter-om-gudarna]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-en-hjalte-som-dog-i-strid-kom-till-valhall]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-ar-1050-slutade-vikingatiden]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-kristendomen-kom-till-sverige]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
+| [[sent-i-dag-ar-vikingen-en-symbol]] | sentence | — | 0 | 2.5 | 2026-06-27 | no |
 | **— source-2026-06-26-svt-nyheter-latt-svenska — 8词NEW / 1词组NEW / 20句NEW / 1语法NEW (DUP词: jordbävning, lägenhet, rasa, hamn, värmebölja, landslag, åska; DUP词组: på-grund-av, bland-annat, framför-allt, hålla-tal; DUP语法: grammar-passiv-med-s, grammar-ska-infinitiv) —** | | | | | | |
 | [[drabba]] | word | — | 0 | 2.5 | 2026-06-26 | no |
 | [[bråttom]] | word | — | 0 | 2.5 | 2026-06-26 | no |
