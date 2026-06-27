@@ -25,6 +25,17 @@ members:
   - uttorkad
   - ek
   - gren
+  - väderprognos
+  - väderapp
+  - temperatur
+  - paraply
+  - prognos
+  - molnig
+  - stabil
+  - kolla
+  - ändra-sig
+  - blåsa
+  - skifta
 created: 2026-06-16
 ---
 
@@ -47,6 +58,13 @@ created: 2026-06-16
 - [[blomma]] — 花
 - [[sval]] — 凉爽的
 - [[tydlig]] — 明显的
+- [[väderprognos]] — 天气预报
+- [[väderapp]] — 天气应用程序
+- [[temperatur]] — 温度；气温
+- [[paraply]] — 雨伞
+- [[prognos]] — 预报；预测
+- [[molnig]] — 多云的；阴天的
+- [[stabil]] — 稳定的；结实的
 
 **动词 (Verbs)**
 - [[täcka]] — 覆盖
@@ -54,6 +72,10 @@ created: 2026-06-16
 - [[färga]] — 染色
 - [[tillbringa]] — 度过（时间）
 - [[intensiv]] — 强烈的；充实的
+- [[kolla]] — 查看；检查
+- [[ändra-sig]] — 改变；变化
+- [[blåsa]] — 刮风；吹
+- [[skifta]] — 转变；交替变化
 
 **其他**
 - [[stövel]] — 靴子
@@ -71,6 +93,12 @@ created: 2026-06-16
 - [[ta-semester]] — 休假
 - [[plocka-svamp]] — 采蘑菇
 - [[njuta-av]] — 享受…
+- [[kolla-väderprognosen]] — 查天气预报
+- [[det-blåser]] — 有风；风在刮
+- [[under-tio-grader]] — 低于十度
+- [[ta-på-sig]] — 穿上（衣物）
+- [[vilket-väder-vi-har]] — 这天气真是！
+- [[inleda-ett-samtal]] — 开始一段对话
 
 ## 语法提示
 
@@ -80,3 +108,4 @@ created: 2026-06-16
 ## 来源 (Sources)
 
 - [[source-2026-06-16-vadret-och-arstiderna]]
+- [[source-2026-06-27-vadret-och-arstiderna]]

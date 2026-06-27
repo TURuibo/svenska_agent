@@ -9,7 +9,7 @@ en: "good"
 synonyms: ["snäll", "vänlig"]
 antonyms: []
 family: ["godhet"]
-topics: ["topic-personer", "topic-karaktarsord"]
+topics: ["topic-personer", "topic-karaktarsord", "topic-kafe-fika", "topic-mat-dryck"]
 sentences: []
 known: false
 created: "2026-06-10"
