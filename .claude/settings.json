@@ -29,16 +29,6 @@
           }
         ]
       }
-    ],
-    "Stop": [
-      {
-        "hooks": [
-          {
-            "type": "command",
-            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File .claude/hooks/trace_collect.ps1"
-          }
-        ]
-      }
     ]
   },
   "permissions": {

@@ -9,7 +9,6 @@
       "Bash(mkdir -p profile review inbox)",
       "Bash(cp -r __TRACKED_VAR__/swedish-dictionary .claude/skills/)",
       "Bash(cp -r __TRACKED_VAR__/swedish-grammar .claude/skills/)",
-      "PowerShell(& powershell -NoProfile -ExecutionPolicy Bypass -File \".claude\\\\scripts\\\\trace.ps1\" -Top 8)",
       "Bash(mkdir -p \"C:/Users/ruibo/.claude/skills/swedish-export\" \"C:/Users/ruibo/Documents/svensk_agent/dist/swedish-export\" && echo \"dirs ready\")",
       "Bash(cp \"C:/Users/ruibo/.claude/skills/swedish-export/SKILL.md\" \"C:/Users/ruibo/Documents/svensk_agent/dist/swedish-export/SKILL.md\" && echo \"copied skill to dist/ for web upload\")",
       "PowerShell(powershell -ExecutionPolicy Bypass -File .claude/hooks/kb_stats.ps1)",
