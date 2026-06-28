@@ -443,6 +443,25 @@
 
 .batchHeader .batchReadLink { margin-left: 4px; }
 
+/* 展开学习项 toggle — reveals the chips inline for a source that also has a
+   Läsning article (collapsed by default; the chips live in 阅读站). */
+.batchToggle {
+  font-family: var(--cjk);
+  font-size: 12px;
+  padding: 3px 10px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  border-radius: 999px;
+  cursor: pointer;
+  color: var(--muted);
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.batchToggle:hover { background: var(--panel-soft); border-color: var(--blue); color: var(--blue); }
+.batchToggle[aria-expanded="true"] { color: var(--blue); border-color: var(--blue); }
+
+/* Collapsed batch body hides the chips + source-note footer (toggle reveals). */
+.batchBody.collapsed { display: none; }
+
 .peekRead { margin: 2px 0 10px; }
 
 .navButton {
