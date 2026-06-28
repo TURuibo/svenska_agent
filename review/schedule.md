@@ -9,6 +9,18 @@
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
 | **— source-2026-06-27-min-familj — 6词NEW / 8词组NEW / 15句NEW / 1语法NEW (DUP词: familj, man, dotter, förälder, syster, granne, helg, nyfiken, praktisk, sakna; DUP词组: på-riktigt; DUP语法: grammar-presens, grammar-relativbisats, grammar-for-att-infinitiv, grammar-reflexivt-verb) —** | | | | | | |
+| **— source-2026-06-28-nyheter-8sidor — 1词NEW / 10句NEW —** | | | | | | |
+| [[sextondelsfinal]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sent-manga-hus-rasade-nar-marken]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sent-sverige-ar-redo-att-hjalpa]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sent-artister-hade-en-konsert-i-visby]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sent-konserten-var-ett-samarbete-med]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sent-de-tycker-att-politikerna-inte-lyssnar]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sent-sverige-gar-vidare-till-slutspel]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sent-matchen-slutade-1-1]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sent-daizen-maeda-gjorde-japans-mal]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sent-sverige-ska-spela-sextondelsfinal]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sent-troligen-blir-det-frankrike-eller-norge]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
 | [[lager]] | word | — | 0 | 2.5 | 2026-06-27 | no |
 | [[ursprungligen]] | word | — | 0 | 2.5 | 2026-06-27 | no |
 | [[träffa]] | word | — | 0 | 2.5 | 2026-06-27 | no |
