@@ -507,6 +507,33 @@
     return added;
   }
 
+  // Preview = the first few short chips (words first, then phrases/grammar) so each
+  // batch shows real Swedish content at a glance instead of just a source title.
+  // Sentences are excluded — they render as full-width blocks and would break the
+  // compact preview strip; they appear once the batch is expanded.
+  const PREVIEW_N = 6;
+  const PREVIEW_TYPES = ['word', 'phrase', 'grammar'];
+  function pickPreview(items, n) {
+    const pool = [];
+    for (const t of PREVIEW_TYPES) for (const it of items) if (it.type === t) pool.push(it);
+    return pool.slice(0, n);
+  }
+
+  // Colored type-composition badges (词=green 词组=gold 句子=blue 语法=red), reusing
+  // the site's chip color language so a batch's makeup is scannable at a glance.
+  function countsBadges(grouped) {
+    const wrap = document.createElement('div');
+    wrap.className = 'batchCounts';
+    for (const t of ITEM_TYPES) {
+      if (!grouped[t]) continue;
+      const b = document.createElement('span');
+      b.className = 'cBadge cBadge-' + t;
+      b.textContent = `${grouped[t]} ${TYPE_LABELS[t]}`;
+      wrap.appendChild(b);
+    }
+    return wrap;
+  }
+
   function relativeDayLabel(date) {
     const diff = daysBetween(date, TODAY);
     if (diff === 0) return '今天';
@@ -604,7 +631,13 @@
         }
       }
 
-      // render each batch
+      // render each batch as a card (2-column grid on wide screens). Each card
+      // leads with a colored type-composition row + a short preview of chips so the
+      // diary shows real Swedish content at a glance; the full structured body is
+      // built lazily on expand to keep long days scannable.
+      const batchGrid = document.createElement('div');
+      batchGrid.className = 'batchGrid';
+
       for (const { src, items: bItems } of batchItems.values()) {
         // 📖 jump to the readable Läsning article for this source (if any) — also
         // drives the batch's visual flavor (icon + left-rule colour).
@@ -614,6 +647,7 @@
         const batch = document.createElement('div');
         batch.className = 'batch ' + flavor.cls;
 
+        // ---- header: icon + title (links to Läsning) + flash (reveals on hover) ----
         const bHead = document.createElement('div');
         bHead.className = 'batchHeader';
         const icon = document.createElement('span'); icon.className = 'batchIcon'; icon.textContent = flavor.icon;
@@ -632,68 +666,72 @@
         } else {
           title.textContent = titleText;
         }
-        const counts = document.createElement('span');
-        counts.className = 'batchCounts';
-        const grouped = bItems.reduce((acc, it) => { acc[it.type] = (acc[it.type] || 0) + 1; return acc; }, {});
-        counts.textContent = ITEM_TYPES
-          .filter((t) => grouped[t])
-          .map((t) => `${grouped[t]} ${TYPE_LABELS[t]}`)
-          .join(' · ');
         const batchFlash = document.createElement('button');
         batchFlash.type = 'button';
         batchFlash.className = 'batchFlashBtn';
         batchFlash.textContent = '🎴';
+        batchFlash.setAttribute('aria-label', `闪卡复习此批次 ${bItems.length} 项`);
         batchFlash.title = `闪卡复习此批次 (${bItems.length} 项)`;
         batchFlash.addEventListener('click', () => openFlash(bItems, src.source_label || src.title || src.slug));
         bHead.appendChild(icon);
         bHead.appendChild(title);
-        bHead.appendChild(counts);
+        bHead.appendChild(batchFlash);
+        batch.appendChild(bHead);
 
-        // The chips + source-note footer live in a body wrapper. When this source
-        // has a readable Läsning article, the same 词/词组/句子/语法 are shown there
-        // (clickable), so Dagbok defaults to a clean title + 📖 阅读原文 entry and
-        // tucks the chips behind an 展开 toggle. Sources with no reading article
-        // (e.g. older sources, news without an article) stay expanded.
+        // ---- colored type-composition badges ----
+        const grouped = bItems.reduce((acc, it) => { acc[it.type] = (acc[it.type] || 0) + 1; return acc; }, {});
+        batch.appendChild(countsBadges(grouped));
+
+        // ---- preview chips (always visible) + lazily-built full body ----
+        const previewItems = pickPreview(bItems, PREVIEW_N);
+        const hiddenCount = bItems.length - previewItems.length;
+
+        const preview = document.createElement('div');
+        preview.className = 'batchPreview chips';
+        previewItems.forEach((it) => preview.appendChild(chipForNote(it)));
+        batch.appendChild(preview);
+
         const body = document.createElement('div');
-        body.className = 'batchBody';
-        renderItemsBlock(bItems, body);
+        body.className = 'batchBody collapsed';
+        batch.appendChild(body);
 
-        // small footer link to open the source note
-        const footer = document.createElement('div');
-        footer.style.marginTop = '6px';
-        const a = document.createElement('a');
-        a.href = `sok/#note=${encodeURIComponent(src.slug)}`;
-        a.target = '_blank';
-        a.rel = 'noopener';
-        a.style.fontFamily = 'var(--cjk)';
-        a.style.fontSize = '12px';
-        a.style.color = 'var(--muted)';
-        a.style.textDecoration = 'none';
-        a.textContent = '→ 查看完整 source 笔记';
-        footer.appendChild(a);
-        body.appendChild(footer);
-
-        if (article) {
+        // Show an expand toggle whenever items are hidden from the preview (every
+        // batch with sentences, or with > PREVIEW_N short items). Expanding swaps
+        // the preview strip for the full per-type structured body (built once).
+        if (hiddenCount > 0) {
           const toggle = document.createElement('button');
           toggle.type = 'button';
-          toggle.className = 'batchToggle';
+          toggle.className = 'rowToggle batchExpand';
           let expanded = false;
+          let built = false;
           const sync = () => {
+            if (expanded && !built) {
+              renderItemsBlock(bItems, body);
+              const footer = document.createElement('div');
+              footer.className = 'batchFooter';
+              const a = document.createElement('a');
+              a.href = `sok/#note=${encodeURIComponent(src.slug)}`;
+              a.target = '_blank';
+              a.rel = 'noopener';
+              a.textContent = '→ 查看完整 source 笔记';
+              footer.appendChild(a);
+              body.appendChild(footer);
+              built = true;
+            }
             body.classList.toggle('collapsed', !expanded);
-            toggle.textContent = expanded ? '收起 ▴' : `展开学习项 ▾`;
+            preview.classList.toggle('chipHidden', expanded);
+            toggle.textContent = expanded ? '收起 ▴' : `展开全部 ${bItems.length} 项 ▾`;
             toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
           };
           toggle.addEventListener('click', () => { expanded = !expanded; sync(); });
-          sync();   // start collapsed — clean title + 阅读原文 by default
-          bHead.appendChild(toggle);
+          sync();
+          batch.appendChild(toggle);
         }
 
-        bHead.appendChild(batchFlash);
-        batch.appendChild(bHead);
-        batch.appendChild(body);
-
-        section.appendChild(batch);
+        batchGrid.appendChild(batch);
       }
+
+      if (batchGrid.children.length) section.appendChild(batchGrid);
 
       if (looseItems.length > 0) {
         const loose = document.createElement('div');
@@ -1063,6 +1101,13 @@
   }
 
   // ---------- init ----------
+
+  // On phones the heatmap eats a screenful of header chrome — collapse it by
+  // default (it's a <details open>; desktop keeps it open with the summary hidden).
+  const heatDetails = document.querySelector('.heatmapDetails');
+  if (heatDetails && window.matchMedia && window.matchMedia('(max-width: 760px)').matches) {
+    heatDetails.removeAttribute('open');
+  }
 
   buildHeatmap();
   buildSourceBar();

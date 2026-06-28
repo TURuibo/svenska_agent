@@ -74,7 +74,7 @@
 /* ---------- Stats strip ---------- */
 
 .statsStrip {
-  margin-top: 20px;
+  margin-top: 14px;
   display: grid;
   grid-template-columns: repeat(6, minmax(0, 1fr));
   gap: 10px;
@@ -112,12 +112,33 @@
 /* ---------- Heatmap ---------- */
 
 .heatmapWrap {
-  margin-top: 18px;
+  margin-top: 12px;
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: 12px;
   padding: 14px 18px;
   box-shadow: var(--shadow);
+}
+
+/* Heatmap is a <details>: on desktop the summary is hidden and it stays open
+   (always visible, as before). On phones it collapses to reclaim header space —
+   dagbok.js drops the `open` attribute on small viewports. */
+.heatmapDetails > summary {
+  display: none;
+}
+@media (max-width: 760px) {
+  .heatmapDetails > summary {
+    display: block;
+    list-style: none;
+    cursor: pointer;
+    font-family: var(--cjk);
+    font-size: 13px;
+    color: var(--green-dark);
+    padding: 2px 0;
+  }
+  .heatmapDetails > summary::-webkit-details-marker { display: none; }
+  .heatmapDetails > summary::after { content: ' ▾'; color: var(--muted); }
+  .heatmapDetails[open] > summary::after { content: ' ▴'; }
 }
 
 .heatmapLegend {
@@ -186,7 +207,7 @@
 /* ---------- Jump / filter bar ---------- */
 
 .jumpBar {
-  margin-top: 18px;
+  margin-top: 12px;
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
@@ -263,6 +284,37 @@
   display: flex;
   flex-direction: column;
   gap: 18px;
+  position: relative;
+}
+
+/* Timeline spine + per-day dots — gives the diary a real chronological backbone
+   (desktop only; phones drop it to keep cards full-width). The most recent day
+   (first child = usually 今天) gets a gold node. */
+@media (min-width: 761px) {
+  .timeline { padding-left: 28px; }
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 9px;
+    top: 10px;
+    bottom: 10px;
+    width: 2px;
+    border-radius: 2px;
+    background: var(--line);
+  }
+  .daySection::before {
+    content: '';
+    position: absolute;
+    left: -24px;
+    top: 24px;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background: var(--green);
+    border: 3px solid var(--paper);
+    box-shadow: 0 0 0 1px var(--line);
+  }
+  .timeline .daySection:first-child::before { background: var(--gold); }
 }
 
 .timelineLoading,
@@ -279,6 +331,7 @@
   border-radius: 12px;
   padding: 18px 20px;
   box-shadow: var(--shadow);
+  position: relative;
 }
 
 .dayHeader {
@@ -311,33 +364,60 @@
   color: var(--muted);
 }
 
-.batch {
+/* Batches lay out as cards in a responsive grid: 1 column on phones, 2 columns
+   on wide screens so a busy day doesn't become an endless single column. */
+.batchGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
   margin-top: 14px;
+}
+@media (min-width: 880px) {
+  .batchGrid {
+    grid-template-columns: 1fr 1fr;
+    gap: 14px 18px;
+    align-items: start;
+  }
+}
+
+.batch {
+  border: 1px solid var(--line);
   border-left: 3px solid var(--green);
-  padding: 4px 0 4px 14px;
+  border-radius: 10px;
+  padding: 12px 14px;
+  background: var(--panel);
+  min-width: 0;            /* let the card shrink so long titles/chips wrap */
 }
 
 /* Per-source flavor: left-rule colour mirrors the Läsning card kinds, so the
    timeline reads at a glance (icon set lives in dagbok.js BATCH_FLAVORS). */
-.batch.flavor-scenario { border-left-color: var(--green); }
-.batch.flavor-article  { border-left-color: var(--blue); }
-.batch.flavor-news     { border-left-color: var(--red); }
-.batch.flavor-adjsubst { border-left-color: var(--gold); }
-.batch.flavor-sfi      { border-left-color: var(--green-dark); }
-.batch.flavor-other    { border-left-color: var(--muted); }
+/* Each flavor also gets a faint left-fading wash of its colour so cards group
+   visually by source at a glance (the colour "bleeds" in from the left rule). */
+.batch.flavor-scenario { border-left-color: var(--green);      background: linear-gradient(90deg, rgba(47, 111, 85, 0.05), var(--panel) 150px); }
+.batch.flavor-article  { border-left-color: var(--blue);       background: linear-gradient(90deg, rgba(49, 95, 125, 0.05), var(--panel) 150px); }
+.batch.flavor-news     { border-left-color: var(--red);        background: linear-gradient(90deg, rgba(155, 79, 67, 0.05), var(--panel) 150px); }
+.batch.flavor-adjsubst { border-left-color: var(--gold);       background: linear-gradient(90deg, rgba(169, 120, 42, 0.05), var(--panel) 150px); }
+.batch.flavor-sfi      { border-left-color: var(--green-dark); background: linear-gradient(90deg, rgba(31, 79, 62, 0.05), var(--panel) 150px); }
+.batch.flavor-other    { border-left-color: var(--muted);      background: linear-gradient(90deg, rgba(104, 117, 110, 0.05), var(--panel) 150px); }
 
 .batchIcon { line-height: 1; }
 
 .batchHeader {
   display: flex;
-  align-items: center;
-  gap: 10px;
-  flex-wrap: wrap;
-  margin-bottom: 8px;
+  align-items: flex-start;
+  gap: 8px;
+  flex-wrap: nowrap;
+  margin-bottom: 4px;
 }
 
 .batchIcon {
   font-size: 18px;
+  flex: none;
+}
+
+.batchTitle {
+  flex: 1 1 auto;
+  min-width: 0;            /* allow long Swedish titles to wrap within the card */
 }
 
 .batchTitle {
@@ -349,10 +429,37 @@
 }
 
 .batchCounts {
-  font-family: var(--cjk);
-  font-size: 12px;
-  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0 0 8px;
 }
+
+/* Type-composition badge: a colored dot + count, reusing the site's chip palette
+   (词=green 词组=gold 句子=blue 语法=red) so the makeup reads at a glance. */
+.cBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-family: var(--cjk);
+  font-size: 11.5px;
+  color: var(--muted);
+  background: var(--panel-soft);
+  border-radius: 999px;
+  padding: 1px 9px 1px 7px;
+}
+.cBadge::before {
+  content: '';
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--muted);
+  flex: none;
+}
+.cBadge-word::before { background: var(--green); }
+.cBadge-phrase::before { background: var(--gold); }
+.cBadge-sentence::before { background: var(--blue); }
+.cBadge-grammar::before { background: var(--red); }
 
 /* The title is the jump-to-Läsning link (replaces the old 阅读原文 button).
    Reads as a plain title; reveals it's clickable on hover. A 📖 hint trails it. */
@@ -454,6 +561,34 @@
   background: var(--panel-soft);
   border-color: var(--green);
 }
+
+.batchFlashBtn { margin-left: 0; flex: none; }
+
+/* De-emphasize the per-batch flashcard button: on pointer devices it stays
+   hidden until the card is hovered/focused, so the eye lands on content first.
+   Touch devices (no hover) keep it visible since they can't reveal on hover. */
+@media (hover: hover) {
+  .batchFlashBtn {
+    opacity: 0;
+    transition: opacity 0.15s, background 0.15s, border-color 0.15s;
+  }
+  .batch:hover .batchFlashBtn,
+  .batchFlashBtn:focus-visible {
+    opacity: 1;
+  }
+}
+
+/* Preview chip strip (always visible) + expand toggle + lazy body footer. */
+.batchPreview { margin: 0 0 2px; }
+.batchExpand { margin: 6px 0 0; }
+.batchFooter { margin-top: 8px; }
+.batchFooter a {
+  font-family: var(--cjk);
+  font-size: 12px;
+  color: var(--muted);
+  text-decoration: none;
+}
+.batchFooter a:hover { color: var(--blue); }
 
 /* 📖 jump to the readable Läsning article (batch header + peek panel) */
 .batchReadLink {
@@ -1020,4 +1155,18 @@
 
   .peekBody pre,
   .peekBody th { background: #0f1714; }
+
+  /* Flavor washes: on a dark panel a dark tint barely shifts luminance, so use
+     brighter shades (the same hues, lightened) so the wash actually reads. */
+  .batch.flavor-scenario { background: linear-gradient(90deg, rgba(95, 174, 140, 0.10), var(--panel) 150px); }
+  .batch.flavor-article  { background: linear-gradient(90deg, rgba(110, 162, 200, 0.10), var(--panel) 150px); }
+  .batch.flavor-news     { background: linear-gradient(90deg, rgba(202, 132, 120, 0.10), var(--panel) 150px); }
+  .batch.flavor-adjsubst { background: linear-gradient(90deg, rgba(210, 176, 110, 0.10), var(--panel) 150px); }
+  .batch.flavor-sfi      { background: linear-gradient(90deg, rgba(95, 174, 140, 0.09), var(--panel) 150px); }
+  .batch.flavor-other    { background: linear-gradient(90deg, rgba(150, 165, 158, 0.09), var(--panel) 150px); }
+
+  /* Lift the timeline spine off the dark grid background so it doesn't look like
+     a stray artifact (the gold/green node already reads). */
+  .timeline::before { background: #2c3a33; }
+  .daySection::before { border-color: var(--panel); }
 }
