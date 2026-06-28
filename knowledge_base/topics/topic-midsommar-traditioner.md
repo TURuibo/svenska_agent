@@ -3,7 +3,7 @@ type: topic
 name: "midsommar-traditioner"
 kind: thematic
 zh: "仲夏节传统"
-members: ["midsommar", "midsommarafton", "midsommarstång", "högtid", "fira", "dansa", "plocka", "drömma", "gifta-sig-med", "sju-sorters-blommor", "jordgubbe", "sill", "potatis", "lax", "köttbulle", "blomsterkrans", "krans", "äng", "sjunga", "skåla", "snaps", "gräddfil", "färskpotatis", "midnatt", "kärlek", "klä-stången-med-blommor", "lägga-under-kudden", "skåla-med-snaps", "ljusa-nätter"]
+members: ["midsommar", "midsommarafton", "midsommarstång", "högtid", "fira", "dansa", "plocka", "drömma", "gifta-sig-med", "sju-sorters-blommor", "jordgubbe", "sill", "potatis", "lax", "köttbulle", "blomsterkrans", "krans", "äng", "sjunga", "skåla", "snaps", "gräddfil", "färskpotatis", "midnatt", "kärlek", "klä-stången-med-blommor", "lägga-under-kudden", "skåla-med-snaps", "ljusa-nätter", "sommarsolstånd", "stång", "inlagd", "dill", "snapsvisa", "jordgubbstårta", "vispgrädde", "folktro", "glädje", "gemenskap", "på-landet", "sjunga-snapsvisa", "bära-krans-i-håret", "dansa-runt-stången"]
 created: "2026-06-18"
 ---
 
@@ -42,6 +42,20 @@ created: "2026-06-18"
 - [[lägga-under-kudden]] — 放枕下（七种花习俗）
 - [[skåla-med-snaps]] — 用烈酒干杯
 - [[ljusa-nätter]] — 明亮的夜晚
+- [[sommarsolstånd]] — 夏至
+- [[stång]] — 杆子/花柱
+- [[inlagd]] — 腌制的
+- [[dill]] — 莳萝
+- [[snapsvisa]] — 干杯歌
+- [[jordgubbstårta]] — 草莓蛋糕
+- [[vispgrädde]] — 打发奶油
+- [[folktro]] — 民间信仰
+- [[glädje]] — 快乐/喜悦
+- [[gemenskap]] — 团结/共同体感
+- [[på-landet]] — 在乡下
+- [[sjunga-snapsvisa]] — 唱干杯歌
+- [[bära-krans-i-håret]] — 头戴花环
+- [[dansa-runt-stången]] — 围着花柱跳舞
 
 ## 备注 (Notes)
 
