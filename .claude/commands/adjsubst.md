@@ -1,5 +1,5 @@
 ---
-description: 生成一页 25 组 adjektiv+substantiv 四式变形到 inbox/（主题按 day-of-year 轮换，去重递进，仅 words 导出块）
+description: 生成一页 10 组 adjektiv+substantiv 四式变形到 inbox/（主题按 day-of-year 轮换，去重递进，仅 words 导出块）
 argument-hint: "[YYYY-MM-DD] [theme 0-9]  —— 二者可选，定时任务会自动传入"
 allowed-tools: Read, Write, Edit, Glob, Bash
 ---
@@ -39,10 +39,10 @@ allowed-tools: Read, Write, Edit, Glob, Bash
 
 - **去重范围 = 按主题**：只看该主题以往用过的 adjektiv / substantiv，本次**不要重复**它们。
 - **难度递进（长期数月～一年维度）**：该主题先用**最常见**的词；常见词用完了，下一轮才引入较罕见的词。
-- **同页内**：25 个 adjektiv、25 个 substantiv 各自**不得重复**。
+- **同页内**：10 个 adjektiv、10 个 substantiv 各自**不得重复**。
 - adjektiv 跨主题可复用（形容词池有限），名词按主题天然不冲突。
 
-挑选目标：为本主题选 **25 个名词**（最常见、未在本主题用过的优先）+ **25 个形容词**（常见、贴合主题，未在本主题用过的优先；可含 en/ett 形容词搭配演示用的特殊词）。
+挑选目标：为本主题选 **10 个名词**（最常见、未在本主题用过的优先）+ **10 个形容词**（常见、贴合主题，未在本主题用过的优先；可含 en/ett 形容词搭配演示用的特殊词）。
 
 ## 3. 生成四式变形 — 语法自检清单（必须无误）
 
@@ -99,7 +99,7 @@ status: ready
 
 # Adjektiv + substantiv böjning — <DATE> (<主题>)
 
-25 组 adj + subst 四式变形。导入命令：`/import adjsubst-<DATE>-<slug>.md`
+10 组 adj + subst 四式变形。导入命令：`/import adjsubst-<DATE>-<slug>.md`
 导出块只含 words（精简种子，无 böjning）→ /import 会对每词跑完整 swedish-dictionary 生成完整词条。
 böjning 变形见下方人读复习表。
 
@@ -107,7 +107,7 @@ böjning 变形见下方人读复习表。
 
 | Obestämd sg. | Bestämd sg. | Obestämd pl. | Bestämd pl. | 中文 |
 |---|---|---|---|---|
-| …25 行… |
+| …10 行… |
 
 ## 导入块（words only · 精简种子）
 
@@ -117,7 +117,7 @@ source: Adjektiv+substantiv böjning (<English theme>)
 words:
 - <adj> | adjektiv | <中文> | <English>
 - <subst> | substantiv (en-ord|ett-ord) | <中文> | <English>
-- …共 50 词（25 adj + 25 subst，按复习表顺序交替）…
+- …共 20 词（10 adj + 10 subst，按复习表顺序交替）…
 ​```
 ```
 
@@ -126,7 +126,7 @@ words:
 - 每词只 4 字段：`lemma | 词性 | 中文 | 英文`，**故意不写 böjning**（变形只留在上方复习表）。
 - 词性用 `adjektiv` / `substantiv (en-ord)` / `substantiv (ett-ord)`。
 - 单词一律 **grundform**（名词单数不定形、形容词原级）。
-- 50 词在块内不重复。
+- 20 词在块内不重复。
 
 ## 5. 更新台账 (Append ledger)
 
@@ -137,10 +137,10 @@ words:
 ## <DATE> — <主题> (<中文>)
 
 ### Adjektiv
-<逗号分隔的 25 个形容词 grundform>
+<逗号分隔的 10 个形容词 grundform>
 
 ### Substantiv
-<逗号分隔的 25 个名词 grundform>
+<逗号分隔的 10 个名词 grundform>
 ```
 
 ## 6. 收尾 (Finish)
@@ -148,7 +148,7 @@ words:
 输出一行精简确认（headless 包装脚本会据此发系统通知）：
 
 ```
-✅ adjsubst 已生成: inbox/adjsubst-<DATE>-<slug>.md  ·  主题 <主题>  ·  25 组 / 50 词
+✅ adjsubst 已生成: inbox/adjsubst-<DATE>-<slug>.md  ·  主题 <主题>  ·  10 组 / 20 词
 ⏭ 想录入知识库：/import adjsubst-<DATE>-<slug>.md
 ```
 
