@@ -653,6 +653,73 @@
     });
   }
 
+  // ---------- learning items (词/词组/句子/语法 below the article) ----------
+  // The same items that appear under this source in Dagbok. The reading-data
+  // builder parses them out of the file's `svensk-export` block (which is
+  // stripped from the visible prose) and carries them as a.items, so a reader
+  // can study the extracted vocab/grammar right beneath the text they read.
+
+  const POS_ABBR = {
+    verb: 'v.', substantiv: 'n.', adjektiv: 'adj.', adverb: 'adv.',
+    pronomen: 'pron.', preposition: 'prep.', konjunktion: 'konj.',
+    interjektion: 'interj.', räkneord: 'num.',
+  };
+  // ordklass cells look like "substantiv en" / "verb v.1"; abbreviate the head word.
+  function abbrevPos(p) {
+    const head = String(p || '').trim().split(/\s+/)[0].toLowerCase();
+    return POS_ABBR[head] || head;
+  }
+
+  function chipHtml(sv, posOrNull, zh) {
+    return (
+      `<span class="itemChip">` +
+        `<span class="itemSv">${escapeHtml(sv)}</span>` +
+        (posOrNull ? `<span class="itemPos">${escapeHtml(posOrNull)}</span>` : '') +
+        (zh ? `<span class="itemZh">${escapeHtml(zh)}</span>` : '') +
+      `</span>`
+    );
+  }
+
+  function groupHtml(label, count, inner) {
+    if (!count) return '';
+    return (
+      `<div class="itemGroup">` +
+        `<div class="itemGroupLabel">${label} · ${count}</div>` +
+        `<div class="itemChips">${inner}</div>` +
+      `</div>`
+    );
+  }
+
+  // Build the collapsible "学习项" panel that sits below the article body.
+  function itemsHtml(a) {
+    const it = a.items;
+    if (!it) return '';
+    const total = (it.words || []).length + (it.phrases || []).length +
+      (it.sentences || []).length + (it.grammar || []).length;
+    if (!total) return '';
+
+    const words = (it.words || []).map((w) => chipHtml(w.sv, abbrevPos(w.pos), w.zh)).join('');
+    const phrases = (it.phrases || []).map((p) => chipHtml(p.sv, null, p.zh)).join('');
+    const sentences = (it.sentences || []).map((s) =>
+      `<div class="itemSentence">` +
+        `<div class="itemSentenceSv">${escapeHtml(s.sv)}</div>` +
+        (s.zh ? `<div class="itemSentenceZh">${escapeHtml(s.zh)}</div>` : '') +
+      `</div>`).join('');
+    const grammar = (it.grammar || []).map((g) => chipHtml(g.sv, null, g.zh)).join('');
+
+    return (
+      `<div class="articleItems">` +
+        `<button type="button" class="itemsToggle" aria-expanded="true">📚 学习项 (${total}) <span class="itemsCaret">▾</span></button>` +
+        `<div class="itemsPanel">` +
+          groupHtml('词', (it.words || []).length, words) +
+          groupHtml('词组', (it.phrases || []).length, phrases) +
+          (sentences ? `<div class="itemGroup"><div class="itemGroupLabel">句子 · ${(it.sentences || []).length}</div><div class="itemSentences">${sentences}</div></div>` : '') +
+          groupHtml('语法', (it.grammar || []).length, grammar) +
+        `</div>` +
+      `</div>`
+    );
+  }
+
   function openArticle(slug) {
     const a = articles.find((x) => x.slug === slug);
     if (!a) return;
@@ -683,7 +750,19 @@
         `<button type="button" id="markReadBtn" class="viewBtn${read ? ' on' : ''}">${read ? '✓ 已读' : '标为已读'}</button>` +
       `</div>` +
       (countBits.length ? `<p class="viewCounts">📚 ${countBits.join(' · ')}</p>` : '') +
-      `<div class="articleBody kind-${a.kind}">${mdToHtml(a.body || '')}</div>`;
+      `<div class="articleBody kind-${a.kind}">${mdToHtml(a.body || '')}</div>` +
+      itemsHtml(a);
+
+    // 学习项 panel: collapse/expand below the article (default expanded so the
+    // extracted vocab/grammar is visible right under the text the reader just read).
+    const itemsToggle = viewEl.querySelector('.itemsToggle');
+    if (itemsToggle) {
+      itemsToggle.addEventListener('click', () => {
+        const open = itemsToggle.getAttribute('aria-expanded') !== 'false';
+        itemsToggle.setAttribute('aria-expanded', open ? 'false' : 'true');
+        viewEl.querySelector('.articleItems').classList.toggle('collapsed', open);
+      });
+    }
 
     document.getElementById('markReadBtn').addEventListener('click', () => {
       toggleRead(slug);

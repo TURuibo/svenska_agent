@@ -43,12 +43,27 @@ function parseFrontmatter(text) {
   return { frontmatter, body: match[2] };
 }
 
-// Remove every fenced ```svensk-export … ``` block; return the cleaned body
-// plus counts of the learning items it declared (for the "学习项" badge).
+// Parse one `- a | b | c | d` export line into a structured learning item. The
+// column layout differs per section (see EXPORT_PROTOCOL.md / the sv-import skill):
+//   words/phrases : sv | ordklass(类型) | zh | en
+//   sentences     : sv | zh
+//   grammar       : name | zh | en
+function parseExportItem(section, raw) {
+  const parts = raw.split('|').map((p) => p.trim());
+  if (section === 'sentences') return { sv: parts[0] || '', zh: parts[1] || '' };
+  if (section === 'grammar') return { sv: parts[0] || '', zh: parts[1] || '', en: parts[2] || '' };
+  // words & phrases share the same 4-column shape.
+  return { sv: parts[0] || '', pos: parts[1] || '', zh: parts[2] || '', en: parts[3] || '' };
+}
+
+// Remove every fenced ```svensk-export … ``` block; return the cleaned body,
+// counts of the learning items it declared (for the "学习项" badge), and the
+// parsed items themselves so the reading pane can show them below the text.
 function stripExportBlocks(body) {
   const lines = body.split(/\r?\n/);
   const kept = [];
   const counts = { words: 0, phrases: 0, sentences: 0, grammar: 0 };
+  const items = { words: [], phrases: [], sentences: [], grammar: [] };
   let inExport = false;
   let section = null;
   for (const line of lines) {
@@ -60,13 +75,16 @@ function stripExportBlocks(body) {
     if (inExport) {
       const sec = line.match(/^(words|phrases|sentences|grammar)\s*:\s*$/);
       if (sec) { section = sec[1]; continue; }
-      if (section && /^-\s+\S/.test(line)) counts[section] += 1;
+      if (section && /^-\s+\S/.test(line)) {
+        counts[section] += 1;
+        items[section].push(parseExportItem(section, line.replace(/^-\s+/, '').trim()));
+      }
       continue;
     }
     kept.push(line);
   }
   // Collapse the trailing blank gap left where the block used to be.
-  return { body: kept.join('\n').replace(/\n{3,}/g, '\n\n').trim(), counts };
+  return { body: kept.join('\n').replace(/\n{3,}/g, '\n\n').trim(), counts, items };
 }
 
 // `/dagens-artikel` writes one file per genre, each with its own slug prefix
@@ -234,7 +252,7 @@ for (const src of SOURCES) {
     const raw = fs.readFileSync(filePath, 'utf8');
     const slug = path.basename(entry.name, '.md');
     const { frontmatter, body: afterFm } = parseFrontmatter(raw);
-    const { body, counts } = stripExportBlocks(afterFm);
+    const { body, counts, items } = stripExportBlocks(afterFm);
     const bodyMeta = metaFromBody(afterFm);
     const kind = kindFromName(entry.name);
 
@@ -255,6 +273,7 @@ for (const src of SOURCES) {
       path: path.relative(repoRoot, filePath).split(path.sep).join('/'),
       counts,
       itemTotal: counts.words + counts.phrases + counts.sentences + counts.grammar,
+      items,
       body,
       searchText: `${slug} ${getTitle(frontmatter, afterFm, slug)} ${body}`.toLowerCase(),
     });
