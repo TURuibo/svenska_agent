@@ -593,4 +593,74 @@ body.vocabPopOpen { overflow: hidden; }   /* lock background scroll while the sh
   }
   /* 最后一列是中文释义 —— 标签淡化，整组的「答案」更突出 */
   .articleBody.kind-adjsubst tbody td:last-child { font-family: var(--cjk); }
+
+  .articleItems { margin-top: 20px; }
+  .itemSv { font-size: 16px; }
+}
+
+/* ---------- 学习项 (词/词组/句子/语法 below the article) ---------- */
+/* The extracted learning items — the same set Dagbok shows under this source —
+   rendered beneath the prose so a reader can study the vocab/grammar in place. */
+
+.articleItems {
+  margin-top: 28px;
+  border-top: 2px solid var(--line);
+  padding-top: 14px;
+}
+.itemsToggle {
+  font-family: var(--cjk);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.itemsCaret { transition: transform 0.15s; color: var(--muted); }
+.articleItems.collapsed .itemsCaret { transform: rotate(-90deg); }
+.articleItems.collapsed .itemsPanel { display: none; }
+
+.itemsPanel { margin-top: 10px; }
+.itemGroup { display: flex; gap: 12px; align-items: flex-start; margin: 12px 0; }
+.itemGroupLabel {
+  flex: 0 0 4.5em;
+  font-family: var(--cjk);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--muted);
+  padding-top: 5px;
+  text-align: right;
+}
+.itemChips { display: flex; flex-wrap: wrap; gap: 8px; flex: 1; min-width: 0; }
+
+.itemChip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  background: var(--panel-soft, rgba(47, 111, 85, 0.06));
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 4px 10px;
+  line-height: 1.5;
+}
+.itemSv { font-weight: 600; }
+.itemPos { font-size: 12px; font-style: italic; color: var(--muted); }
+.itemZh { font-family: var(--cjk); font-size: 13px; color: var(--ink); }
+
+/* Sentences keep the sv/zh stack rather than a chip — they're longer. */
+.itemSentences { display: flex; flex-direction: column; gap: 10px; flex: 1; min-width: 0; }
+.itemSentence {
+  border-left: 3px solid var(--line);
+  padding: 2px 0 2px 12px;
+}
+.itemSentenceSv { font-style: italic; }
+.itemSentenceZh { font-family: var(--cjk); font-size: 14px; color: var(--muted); margin-top: 2px; }
+
+@media (max-width: 760px) {
+  .itemGroup { flex-direction: column; gap: 4px; }
+  .itemGroupLabel { flex: none; text-align: left; padding-top: 0; }
 }
