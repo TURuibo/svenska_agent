@@ -1155,4 +1155,18 @@
 
   .peekBody pre,
   .peekBody th { background: #0f1714; }
+
+  /* Flavor washes: on a dark panel a dark tint barely shifts luminance, so use
+     brighter shades (the same hues, lightened) so the wash actually reads. */
+  .batch.flavor-scenario { background: linear-gradient(90deg, rgba(95, 174, 140, 0.10), var(--panel) 150px); }
+  .batch.flavor-article  { background: linear-gradient(90deg, rgba(110, 162, 200, 0.10), var(--panel) 150px); }
+  .batch.flavor-news     { background: linear-gradient(90deg, rgba(202, 132, 120, 0.10), var(--panel) 150px); }
+  .batch.flavor-adjsubst { background: linear-gradient(90deg, rgba(210, 176, 110, 0.10), var(--panel) 150px); }
+  .batch.flavor-sfi      { background: linear-gradient(90deg, rgba(95, 174, 140, 0.09), var(--panel) 150px); }
+  .batch.flavor-other    { background: linear-gradient(90deg, rgba(150, 165, 158, 0.09), var(--panel) 150px); }
+
+  /* Lift the timeline spine off the dark grid background so it doesn't look like
+     a stray artifact (the gold/green node already reads). */
+  .timeline::before { background: #2c3a33; }
+  .daySection::before { border-color: var(--panel); }
 }
