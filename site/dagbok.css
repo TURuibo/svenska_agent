@@ -284,6 +284,37 @@
   display: flex;
   flex-direction: column;
   gap: 18px;
+  position: relative;
+}
+
+/* Timeline spine + per-day dots — gives the diary a real chronological backbone
+   (desktop only; phones drop it to keep cards full-width). The most recent day
+   (first child = usually 今天) gets a gold node. */
+@media (min-width: 761px) {
+  .timeline { padding-left: 28px; }
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 9px;
+    top: 10px;
+    bottom: 10px;
+    width: 2px;
+    border-radius: 2px;
+    background: var(--line);
+  }
+  .daySection::before {
+    content: '';
+    position: absolute;
+    left: -24px;
+    top: 24px;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background: var(--green);
+    border: 3px solid var(--paper);
+    box-shadow: 0 0 0 1px var(--line);
+  }
+  .timeline .daySection:first-child::before { background: var(--gold); }
 }
 
 .timelineLoading,
@@ -300,6 +331,7 @@
   border-radius: 12px;
   padding: 18px 20px;
   box-shadow: var(--shadow);
+  position: relative;
 }
 
 .dayHeader {
@@ -359,12 +391,14 @@
 
 /* Per-source flavor: left-rule colour mirrors the Läsning card kinds, so the
    timeline reads at a glance (icon set lives in dagbok.js BATCH_FLAVORS). */
-.batch.flavor-scenario { border-left-color: var(--green); }
-.batch.flavor-article  { border-left-color: var(--blue); }
-.batch.flavor-news     { border-left-color: var(--red); }
-.batch.flavor-adjsubst { border-left-color: var(--gold); }
-.batch.flavor-sfi      { border-left-color: var(--green-dark); }
-.batch.flavor-other    { border-left-color: var(--muted); }
+/* Each flavor also gets a faint left-fading wash of its colour so cards group
+   visually by source at a glance (the colour "bleeds" in from the left rule). */
+.batch.flavor-scenario { border-left-color: var(--green);      background: linear-gradient(90deg, rgba(47, 111, 85, 0.05), var(--panel) 150px); }
+.batch.flavor-article  { border-left-color: var(--blue);       background: linear-gradient(90deg, rgba(49, 95, 125, 0.05), var(--panel) 150px); }
+.batch.flavor-news     { border-left-color: var(--red);        background: linear-gradient(90deg, rgba(155, 79, 67, 0.05), var(--panel) 150px); }
+.batch.flavor-adjsubst { border-left-color: var(--gold);       background: linear-gradient(90deg, rgba(169, 120, 42, 0.05), var(--panel) 150px); }
+.batch.flavor-sfi      { border-left-color: var(--green-dark); background: linear-gradient(90deg, rgba(31, 79, 62, 0.05), var(--panel) 150px); }
+.batch.flavor-other    { border-left-color: var(--muted);      background: linear-gradient(90deg, rgba(104, 117, 110, 0.05), var(--panel) 150px); }
 
 .batchIcon { line-height: 1; }
 
