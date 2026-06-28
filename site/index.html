@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Dagbok — 学习日记 · svensk_agent</title>
     <link rel="stylesheet" href="styles.css?v=3" />
-    <link rel="stylesheet" href="dagbok.css?v=7" />
+    <link rel="stylesheet" href="dagbok.css?v=8" />
   </head>
   <body class="recapBody" data-site="dagbok">
     <header class="recapHeader">
@@ -29,7 +29,8 @@
         <div class="stat streakStat"><span class="statN" id="statStreak">–</span><span class="statLabel">🔥 连续天数</span></div>
       </section>
 
-      <section class="heatmapWrap" aria-label="Activity heatmap (last 12 weeks)">
+      <details class="heatmapWrap heatmapDetails" open aria-label="Activity heatmap (last 12 weeks)">
+        <summary>📊 活跃热力图（近 12 周）</summary>
         <div class="heatmapLegend">
           <span>更少</span>
           <span class="legendCell l0"></span>
@@ -40,7 +41,7 @@
           <span>更多</span>
         </div>
         <div id="heatmap" class="heatmap" role="grid" aria-label="每日录入数热力图"></div>
-      </section>
+      </details>
 
       <nav class="jumpBar" aria-label="Quick jumps">
         <button type="button" data-jump="today">今天</button>
@@ -108,7 +109,7 @@
     <script src="kb-store.js?v=5"></script>
     <script src="reading/reading-data.js"></script>
     <script src="speak.js?v=2"></script>
-    <script src="dagbok.js?v=9"></script>
+    <script src="dagbok.js?v=10"></script>
     <script src="nav.js?v=2"></script>
   </body>
 </html>
