@@ -317,6 +317,17 @@
   padding: 4px 0 4px 14px;
 }
 
+/* Per-source flavor: left-rule colour mirrors the Läsning card kinds, so the
+   timeline reads at a glance (icon set lives in dagbok.js BATCH_FLAVORS). */
+.batch.flavor-scenario { border-left-color: var(--green); }
+.batch.flavor-article  { border-left-color: var(--blue); }
+.batch.flavor-news     { border-left-color: var(--red); }
+.batch.flavor-adjsubst { border-left-color: var(--gold); }
+.batch.flavor-sfi      { border-left-color: var(--green-dark); }
+.batch.flavor-other    { border-left-color: var(--muted); }
+
+.batchIcon { line-height: 1; }
+
 .batchHeader {
   display: flex;
   align-items: center;
