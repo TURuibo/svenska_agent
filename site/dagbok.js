@@ -616,13 +616,18 @@
           read.className = 'batchReadLink';
           read.href = readingHref(article, dateKey);
           read.textContent = '📖 阅读原文';
-          read.title = '在 Läsning 阅读站看原文（可切中文翻译），可一键跳回';
+          read.title = '在 Läsning 阅读站看原文（可切中文翻译）+ 词/词组/句子/语法学习项，可一键跳回';
           bHead.appendChild(read);
         }
-        bHead.appendChild(batchFlash);
-        batch.appendChild(bHead);
 
-        renderItemsBlock(bItems, batch);
+        // The chips + source-note footer live in a body wrapper. When this source
+        // has a readable Läsning article, the same 词/词组/句子/语法 are shown there
+        // (clickable), so Dagbok defaults to a clean title + 📖 阅读原文 entry and
+        // tucks the chips behind an 展开 toggle. Sources with no reading article
+        // (e.g. older sources, news without an article) stay expanded.
+        const body = document.createElement('div');
+        body.className = 'batchBody';
+        renderItemsBlock(bItems, body);
 
         // small footer link to open the source note
         const footer = document.createElement('div');
@@ -637,7 +642,26 @@
         a.style.textDecoration = 'none';
         a.textContent = '→ 查看完整 source 笔记';
         footer.appendChild(a);
-        batch.appendChild(footer);
+        body.appendChild(footer);
+
+        if (article) {
+          const toggle = document.createElement('button');
+          toggle.type = 'button';
+          toggle.className = 'batchToggle';
+          let expanded = false;
+          const sync = () => {
+            body.classList.toggle('collapsed', !expanded);
+            toggle.textContent = expanded ? '收起 ▴' : `展开学习项 ▾`;
+            toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+          };
+          toggle.addEventListener('click', () => { expanded = !expanded; sync(); });
+          sync();   // start collapsed — clean title + 阅读原文 by default
+          bHead.appendChild(toggle);
+        }
+
+        bHead.appendChild(batchFlash);
+        batch.appendChild(bHead);
+        batch.appendChild(body);
 
         section.appendChild(batch);
       }
