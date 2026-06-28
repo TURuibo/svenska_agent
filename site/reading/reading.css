@@ -651,6 +651,14 @@ body.vocabPopOpen { overflow: hidden; }   /* lock background scroll while the sh
 .itemPos { font-size: 12px; font-style: italic; color: var(--muted); }
 .itemZh { font-family: var(--cjk); font-size: 13px; color: var(--ink); }
 
+/* Items the KB has a note for are clickable — they open the full note card
+   (like a Dagbok chip). Unmatched items stay as plain, quiet text. */
+.itemChip.itemClickable { cursor: pointer; transition: background 0.12s, border-color 0.12s; }
+.itemChip.itemClickable:hover { background: rgba(47, 111, 85, 0.12); border-color: var(--green); }
+.itemSentence.itemClickable { cursor: pointer; transition: border-color 0.12s; }
+.itemSentence.itemClickable:hover { border-left-color: var(--green); }
+.itemSentence.itemClickable:hover .itemSentenceSv { color: var(--green); }
+
 /* Sentences keep the sv/zh stack rather than a chip — they're longer. */
 .itemSentences { display: flex; flex-direction: column; gap: 10px; flex: 1; min-width: 0; }
 .itemSentence {
