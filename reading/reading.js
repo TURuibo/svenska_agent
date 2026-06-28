@@ -139,6 +139,50 @@
     }
   }
 
+  // ---- learning-item → KB note resolution -------------------------------
+  // The 学习项 panel (词/词组/句子/语法 below the article) wants the same
+  // click-to-open-full-note behaviour as Dagbok. Each export item only carries
+  // text, not a slug, so we match its Swedish text against the loaded KB index
+  // (KB.notes) by type to recover the slug, then open KB.openNote(slug) — the
+  // shared full-note card. Words go through the richer vocab glossary card.
+  const normItem = (s) => String(s || '')
+    .toLowerCase()
+    .replace(/^🇸🇪\s*/, '')
+    .replace(/[.,!?;:…"'“”，。！？；：]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+  const noteByPhrase = new Map();
+  const noteBySentence = new Map();
+  const noteByGrammar = new Map();
+  if (KB && Array.isArray(KB.notes)) {
+    const add = (map, key, slug) => { const k = normItem(key); if (k && !map.has(k)) map.set(k, slug); };
+    for (const n of KB.notes) {
+      if (n.type === 'phrase') { add(noteByPhrase, n.phrase, n.slug); add(noteByPhrase, n.title, n.slug); }
+      else if (n.type === 'sentence') { add(noteBySentence, n.sentence, n.slug); add(noteBySentence, n.title, n.slug); }
+      else if (n.type === 'grammar') { add(noteByGrammar, n.name, n.slug); add(noteByGrammar, n.title, n.slug); }
+    }
+  }
+  // Resolve an item to something openable: a vocab glossary entry (words) or a
+  // KB note slug (phrases/sentences/grammar). Returns null when the KB has no
+  // matching note yet (then the chip renders as plain, non-clickable text).
+  function resolveItem(kind, sv) {
+    if (kind === 'word') {
+      const e = vocabIndex.get(String(sv || '').toLowerCase());
+      return e ? { word: e } : null;
+    }
+    const key = normItem(sv);
+    if (kind === 'phrase') return noteByPhrase.has(key) ? { slug: noteByPhrase.get(key) } : null;
+    if (kind === 'sentence') return noteBySentence.has(key) ? { slug: noteBySentence.get(key) } : null;
+    if (kind === 'grammar') {
+      if (noteByGrammar.has(key)) return { slug: noteByGrammar.get(key) };
+      // Grammar names often trail a parenthetical example, e.g.
+      // "ordningstal i datum (den första juli)" — retry without it.
+      const bare = normItem(String(sv || '').replace(/\([^)]*\)/g, ''));
+      return noteByGrammar.has(bare) ? { slug: noteByGrammar.get(bare) } : null;
+    }
+    return null;
+  }
+
   const LS_VOCAB = 'lasning.vocab.v1';
   let vocabOn = (() => { try { return localStorage.getItem(LS_VOCAB) !== '0'; } catch (_e) { return true; } })();
 
@@ -509,6 +553,20 @@
   // Delegated: a tap on a KB word opens its glossary card (when 生词 is on); a tap
   // on a plain word opens the 查词 lookup card (when 查词模式 is on).
   viewEl.addEventListener('click', (e) => {
+    // 学习项 chip / sentence → open its full KB note (Dagbok-style detail).
+    const item = e.target.closest('.itemClickable');
+    if (item) {
+      e.preventDefault();
+      e.stopPropagation();   // don't let the document "click outside" handler close the card we're opening
+      const slug = item.dataset.itemSlug;
+      if (item.dataset.itemKind === 'word' && vocabBySlug.has(slug)) {
+        mountPop('', entryPopClick);
+        showEntry(vocabBySlug.get(slug));
+      } else if (KB) {
+        KB.openNote(slug);
+      }
+      return;
+    }
     const vw = e.target.closest('.vocabWord');
     if (vw && vocabOn) { e.preventDefault(); openPop(vw); return; }
     const lw = e.target.closest('.lookupWord');
@@ -670,9 +728,19 @@
     return POS_ABBR[head] || head;
   }
 
-  function chipHtml(sv, posOrNull, zh) {
+  // Attributes that make a resolved item open its full KB note on click (Dagbok-
+  // style). `ref` comes from resolveItem(); returns '' for unmatched items so
+  // they render as plain, non-clickable text.
+  function openAttrs(ref) {
+    if (!ref) return '';
+    if (ref.word) return ' itemClickable" data-item-kind="word" data-item-slug="' + escapeHtml(ref.word.slug);
+    return ' itemClickable" data-item-kind="note" data-item-slug="' + escapeHtml(ref.slug);
+  }
+
+  function chipHtml(kind, sv, posOrNull, zh) {
+    const ref = resolveItem(kind, sv);
     return (
-      `<span class="itemChip">` +
+      `<span class="itemChip${openAttrs(ref)}">` +
         `<span class="itemSv">${escapeHtml(sv)}</span>` +
         (posOrNull ? `<span class="itemPos">${escapeHtml(posOrNull)}</span>` : '') +
         (zh ? `<span class="itemZh">${escapeHtml(zh)}</span>` : '') +
@@ -698,14 +766,19 @@
       (it.sentences || []).length + (it.grammar || []).length;
     if (!total) return '';
 
-    const words = (it.words || []).map((w) => chipHtml(w.sv, abbrevPos(w.pos), w.zh)).join('');
-    const phrases = (it.phrases || []).map((p) => chipHtml(p.sv, null, p.zh)).join('');
-    const sentences = (it.sentences || []).map((s) =>
-      `<div class="itemSentence">` +
-        `<div class="itemSentenceSv">${escapeHtml(s.sv)}</div>` +
-        (s.zh ? `<div class="itemSentenceZh">${escapeHtml(s.zh)}</div>` : '') +
-      `</div>`).join('');
-    const grammar = (it.grammar || []).map((g) => chipHtml(g.sv, null, g.zh)).join('');
+    const words = (it.words || []).map((w) => chipHtml('word', w.sv, abbrevPos(w.pos), w.zh)).join('');
+    const phrases = (it.phrases || []).map((p) => chipHtml('phrase', p.sv, null, p.zh)).join('');
+    const sentences = (it.sentences || []).map((s) => {
+      const ref = resolveItem('sentence', s.sv);
+      const open = ref ? ' itemClickable" data-item-kind="note" data-item-slug="' + escapeHtml(ref.slug) : '';
+      return (
+        `<div class="itemSentence${open}">` +
+          `<div class="itemSentenceSv">${escapeHtml(s.sv)}</div>` +
+          (s.zh ? `<div class="itemSentenceZh">${escapeHtml(s.zh)}</div>` : '') +
+        `</div>`
+      );
+    }).join('');
+    const grammar = (it.grammar || []).map((g) => chipHtml('grammar', g.sv, null, g.zh)).join('');
 
     return (
       `<div class="articleItems">` +
