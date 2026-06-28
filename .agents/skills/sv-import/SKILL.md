@@ -48,6 +48,10 @@ matches found.
 
 ## 2. 解析规则 (Parsing the block)
 
+**⚠️ 只处理 fenced block 内部内容。** inbox 文件中 `svensk-export` 围栏之外的所有文本（复习表、
+教学注释、标题、人读材料等）一律忽略。不得从围栏外部提取词/句/语法传给 librarian。如果围栏块内
+无 `sentences:` 段，则 sentences=0，即使文件其他部分出现了完整瑞典语句子也不导入。
+
 Split the block body into:
 - Header lines: `date:` and `source:` (single values, optional).
 - Section markers: `words:`, `phrases:`, `sentences:`, `grammar:`.
@@ -119,15 +123,25 @@ Read `profile/level.md`. If the word/phrase appears in the known vocabulary list
 
 ### 4b. Dedup against the KB (sv-knowledge-base §3)
 
+**Step 0 — load slug manifest (fast path):**
+Read `knowledge_base/_index/slugs.json` ONCE at the start of the import. This file is generated
+by `tools/build-kb-site.js` and lists every existing slug grouped by type. Load it into memory and
+use it to check every item's slug without additional Glob/Grep calls.
+
+If `slugs.json` does not exist (manifest not yet generated), fall back to the per-item path below.
+
+**Per-item check:**
 1. Compute the slug (per sv-knowledge-base §2 rules):
-   - word → `knowledge_base/words/<lemma>.md`
-   - phrase → `knowledge_base/phrases/<phrase-slug>.md`
-   - sentence → `knowledge_base/sentences/sent-<first-words>.md`
-   - grammar → `knowledge_base/grammar/grammar-<name>.md`
-2. `Glob` the expected path.
-3. For phrases and sentences, also `Grep` the folder for key words (fuzzy match guard).
-4. If found → **DUP**: skip creation. Enrich only if the import adds a genuinely new sense,
-   collocation, or example sentence that is absent from the existing note. Report: `DUP-skipped: [slug]`.
+   - word → slug = lemma (lowercased, spaces→`-`)
+   - phrase → slug = lowercased phrase, spaces→`-`
+   - sentence → slug = `sent-` + first 4–6 significant words
+   - grammar → slug = `grammar-` + term
+2. Check the slug against the in-memory manifest. If found → **DUP**.
+3. For phrases and sentences only (fuzzy slugs): if NOT found in manifest, also `Grep` the folder
+   for key words as a near-duplicate guard.
+4. If found (either manifest or Grep) → **DUP**: skip creation. Enrich only if the import adds a
+   genuinely new sense, collocation, or example sentence absent from the existing note.
+   Report: `DUP-skipped: [slug]`.
 5. If not found → proceed to store.
 
 ---
@@ -138,7 +152,11 @@ Read `profile/level.md`. If the word/phrase appears in the known vocabulary list
 
 Store inline:
 - Create each note directly using the matching template from `knowledge_base/_templates/`.
-- Wire bidirectional `[[wikilinks]]` per sv-knowledge-base §4.
+- Wire forward `[[wikilinks]]` per sv-knowledge-base §4 (reverse links derived at build time).
+- **Word 例句 (sense-aware count):** for every `words/` note, **always** generate example sentences in the
+  `## 例句` section by meaning (including drill/böjning imports):
+  - 多个不同义项 (multiple distinct senses) → **每个义项至少 1 个例句**，按义项分组标注。
+  - 单一义项 / 义项含义相近 (single or near-identical senses) → **至少 3 个例句**。
 - Add reviewable notes to `review/schedule.md` with immediate `due:` date.
 
 ### Large batch (> 3 items total)
@@ -162,6 +180,7 @@ Store inline:
    - The fully-enriched (gap-filled), intra-block-deduped item lists.
    - The `date:` to use for `created:` frontmatter.
    - Instruction to add new reviewable notes to `review/schedule.md`.
+   - The librarian always generates example sentences for every word note in this batch.
 3. Await the librarian's manifest report.
 
 ---
@@ -197,3 +216,45 @@ If inbox file(s) were processed, also note the inbox filename. If multiple inbox
 processed, one receipt block per file.
 
 Follow AGENTS.md §0 rule 2: concise in chat, full detail in files.
+
+---
+
+## 8. 归档已处理的 inbox 文件 (Archive processed inbox files)
+
+**Only when the source was an inbox file** (not a pasted block): after the items have been
+successfully stored, move the file to the **tracked** `imported/` folder at the repo root so it is no
+longer counted as "pending" — and, crucially, so its **readable text is preserved in git** and shows up
+in the Läsning reading site (`site/reading/`):
+
+```
+inbox/<file>.md  →  imported/<file>.md
+```
+
+Use PowerShell via Bash (`imported/` exists and is git-tracked):
+```
+powershell -NoProfile -Command "Move-Item -LiteralPath 'inbox\<file>.md' -Destination 'imported\<file>.md' -Force"
+```
+
+Rules:
+- Move **after** a successful store, never before.
+- Archive to the **root `imported/`** dir (tracked) — NOT `inbox/imported/`. The reading-site builder
+  (`tools/build-reading-site.js`) scans `inbox/` (待导入) and `imported/` (已导入); keeping the readable
+  scenario/paste file there is how `/scenario` output stays readable as an article after import.
+- If a file had **no** `svensk-export` block, leave it in `inbox/` (do not archive).
+- A pasted-in block (no source file) has nothing to archive — but you may still drop a readable
+  `imported/paste-<date>-<slug>.md` copy if you want it in the reading site.
+
+This keeps `inbox/` showing only un-imported files, which is what the SessionStart hook and the
+background `sv-importer` agent use to detect pending work (see AGENTS.md §4.3).
+
+Per the project memory, rebuild **both** generated sites after any KB write so viewer data stays current:
+```
+powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1   # KB viewer + slugs.json
+node tools/build-reading-site.js                                              # Läsning reading data
+```
+
+> **Remote routine（Claude Code on the web）收尾另见 `AGENTS.md §4.7`：** 重建后**只提交源文件 +**
+> `knowledge_base/_index/slugs.json`（dedup 依赖，仍 tracked）。三个生成的 viewer 数据文件
+> `site/kb-data.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js` **已加入 `.gitignore`**
+> （2026-06-23 架构改）——它们只由 GitHub Action 在发布 gh-pages 时生成、永不进 main，`git add` 会自动跳过，
+> 无需特意排除，也不会再和 Action 抢冲突。用 `node tools/build-kb-site.js`（remote 无 PowerShell）。

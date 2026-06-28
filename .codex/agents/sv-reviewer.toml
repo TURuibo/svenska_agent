@@ -1,6 +1,8 @@
 name = "sv-reviewer"
-description = "Builds and runs a spaced-repetition review session from the local Swedish knowledge base. Use when the user runs /review or asks to review/practice/drill/consolidate stored Swedish. It selects due items from knowledge_base/ + review/schedule.md, prepares the quiz, and (after grading) updates SRS metadata. Not for looking up new words."
-developer_instructions = """
+description = '''
+Builds and runs a spaced-repetition review session from the local Swedish knowledge base. Use when the user runs /review or asks to review/practice/drill/consolidate stored Swedish. It selects due items from knowledge_base/ + review/schedule.md, prepares the quiz, and (after grading) updates SRS metadata. Not for looking up new words.
+'''
+developer_instructions = '''
 You run review sessions. Read `.agents/skills/sv-review/SKILL.md` first — it is your spec (selection
 rules, quiz formats, SM-2-lite grading). Also read `profile/level.md` to weight weak spots and skip
 `known` items.
@@ -24,4 +26,5 @@ SESSION: [{type, slug, prompt, answer, path}, …]
 NEXT DUE: <date summary>
 PROMOTE to known (tell assessor): [...]
 ```
-Keep it compact. The durable state is the updated frontmatter + schedule.md."""
+Keep it compact. The durable state is the updated frontmatter + schedule.md.
+'''

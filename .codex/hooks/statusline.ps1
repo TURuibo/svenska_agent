@@ -1,5 +1,5 @@
 ﻿# statusline.ps1 — custom status line for this project.
-# Receives session JSON on stdin from an agent client; prints ONE line.
+# Receives session JSON on stdin from Claude Code; prints ONE line.
 # Shows model + live KB counts + current level so the learner always sees progress.
 
 $OutputEncoding = [System.Text.Encoding]::UTF8

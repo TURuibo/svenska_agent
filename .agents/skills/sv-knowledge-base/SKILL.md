@@ -1,6 +1,6 @@
 ---
 name: sv-knowledge-base
-description: "Storage and linking rules for the local Swedish markdown knowledge base in this project. Use this skill whenever you are about to save, update, dedup, slug, or link any Swedish word, phrase, sentence, grammar point, topic, or source into knowledge_base/. It defines the file schema, filename/slug rules, the deduplication procedure, and the Obsidian-style [[wikilink]] relationships to maintain. Trigger it together with the swedish-* skills: those decide what to extract; this decides how to store it. Also use it when asked about KB health, broken links, orphan notes, or the index."
+description: Storage and linking rules for the local Swedish markdown knowledge base in this project. Use this skill WHENEVER you are about to save, update, dedup, slug, or link any Swedish word, phrase, sentence, grammar point, topic, or source into knowledge_base/. It defines the file schema, filename/slug rules, the deduplication procedure, and the Obsidian-style [[wikilink]] relationships to maintain. Trigger it together with the swedish-* skills: those decide WHAT to extract; this decides HOW to store it. Also use it when asked about KB health, broken links, orphan notes, or the index.
 ---
 
 # sv-knowledge-base — 本地知识库存储规则
@@ -47,6 +47,18 @@ e.g. `[[arbeta]]`, `[[grammar-v2-ordfoljd]]`, `[[topic-mobler]]`, `[[sent-jag-ha
 
 ## 3. 查重流程 (Dedup — do this BEFORE writing)
 
+**Fast path — slug manifest (preferred for batch imports):**
+
+At the start of any import run, Read `knowledge_base/_index/slugs.json` ONCE. This file is generated
+by `tools/build-kb-site.js` and contains every known slug grouped by type:
+```json
+{ "word": ["arbeta", "gå", ...], "phrase": [...], "grammar": [...], ... }
+```
+Load it into memory and check each item's computed slug against the in-memory manifest. A hit → duplicate
+(skip or enrich). This avoids per-item Glob/Grep for the common case.
+
+**Fallback (when manifest is absent or stale):**
+
 1. Compute the slug (§2).
 2. `Glob` the expected path. If a file exists → **duplicate**: do not recreate.
    - Answer the user from the existing note.
@@ -58,26 +70,41 @@ e.g. `[[arbeta]]`, `[[grammar-v2-ordfoljd]]`, `[[topic-mobler]]`, `[[sent-jag-ha
 
 Tell the user the outcome: `📁 已录入: …` (new) or `📁 已存在: … (未重复录入)` (dup).
 
-## 4. 链接关系 (Links to maintain — bidirectional)
+> Note: `knowledge_base/_index/` is a generated directory (not hand-edited). It is skipped by
+> `walkMarkdownFiles` in the build script and must never contain manually authored notes.
 
-Whenever you create or touch a note, wire up **both directions**:
+## 4. 链接关系 (Links — forward-only; reverse derived at build time)
 
-| relationship | on side A | on side B |
-|--------------|-----------|-----------|
-| 句子 ↔ 单词 | sentence `words:` + body link | word `sentences:` + body link |
-| 句子 ↔ 词组 | sentence `phrases:` | phrase `sentences:` |
-| 句子 ↔ 语法 | sentence `grammar:` | grammar `examples:` |
-| 词组 ↔ head word | phrase `head_words:` | word body "appears in phrase" |
-| 词组 ↔ 语法 | phrase `grammar:` | grammar `examples:` (if a full sentence) |
-| 单词 ↔ 单词 (同义) | word A `synonyms:` | word B `synonyms:` |
-| 单词 ↔ 单词 (反义) | word A `antonyms:` | word B `antonyms:` |
-| 单词 ↔ 词族 | word A `family:` | each family member `family:` |
-| 单词/词组 ↔ 主题 | note `topics:` | topic note `members:` |
+When creating or updating a note, write the **forward links that belong naturally on that note**.
+Do NOT open other existing notes just to add the reverse pointer — the build script
+(`tools/build-kb-site.js`) computes a `backlinks` array for every note at build time by inverting
+the forward-link graph. The site viewer displays both directions automatically.
 
-**Topic links are how you connect words "in the same context"** (e.g. all furniture, all kitchen verbs,
-all synonyms of a feeling). When you add the 3rd+ word of an obvious semantic field, create or update a
-`topic-*` note and link all members to it. Synonym groups can be a `topic-synonym-*` note AND direct
-`synonyms:` links.
+**What to write on the note you are creating:**
+
+| relationship | write on the NEW note |
+|--------------|-----------------------|
+| 句子 → 单词 | sentence `words:` + body `[[word]]` links |
+| 句子 → 词组 | sentence `phrases:` + body link |
+| 句子 → 语法 | sentence `grammar:` + body link |
+| 词组 → head word | phrase `head_words:` + body link |
+| 词组 → 语法 | phrase `grammar:` + body link |
+| 单词 → 同义词 | word `synonyms:` list |
+| 单词 → 反义词 | word `antonyms:` list |
+| 单词 → 词族 | word `family:` list |
+| 单词/词组 → 主题 | note `topics:` list |
+
+**What NOT to do:** do not go open and edit `arbeta.md` just because a new sentence uses `arbeta`.
+The sentence's forward link to `[[arbeta]]` is enough; the viewer will show it as a backlink on `arbeta`.
+
+**Exception — symmetric relations:** `synonyms:`, `antonyms:`, and `family:` are semantically
+symmetric. When you create word A and it lists word B as a synonym, also add word A to word B's
+`synonyms:` list IF word B is a note you are creating in the same batch. Do not re-open an
+already-existing note solely to mirror a symmetric relation; the backlink graph covers that.
+
+**Topic links** connect words in the same semantic field. When you add the 3rd+ word of an obvious
+field, create or update a `topic-*` note and list it in each member's `topics:`. The topic note's
+`members:` list is the forward link FROM the topic outward — keep it accurate.
 
 If a `[[wikilink]]` target doesn't exist yet, still write the link — it marks a note worth creating
 later. The `/kb` command and the librarian surface these as "stubs to create".

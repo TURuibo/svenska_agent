@@ -94,7 +94,11 @@ Aim for 5–10 collocations per word.
 
 ### 4. Example Sentences (例句)
 
-Provide 3–5 example sentences showing the word in natural context. Vary the difficulty (some simple, some more complex). Each sentence:
+Provide example sentences showing the word in natural context, with the count decided by meaning (sense-aware):
+- If the word has **multiple distinct senses** (e.g. *slag* = hit / kind / battle) → give **at least one example per sense**, grouped and labelled by sense so each meaning's usage is clear.
+- If the word has **a single sense, or senses that are near-identical** → give **at least 3 example sentences**.
+
+Vary the difficulty (some simple, some more complex). Each sentence:
 
 ```
 🇸🇪 [Swedish sentence]
