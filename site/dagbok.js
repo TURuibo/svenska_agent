@@ -29,6 +29,28 @@
   // Display order in the filter bar.
   const SOURCE_ORDER = ['sfi', 'scenario', 'adjsubst', 'other'];
 
+  // Per-batch visual flavor (icon + left-rule color), so the timeline isn't a
+  // wall of identical 📥/green bars. Keyed by a fine-grained kind that prefers
+  // the matched Läsning article's kind (scenario/article/news/adjsubst) — the
+  // same colour language as the reading-site cards — and falls back to the
+  // coarser source category. `cls` toggles a border-left colour in dagbok.css.
+  const BATCH_FLAVORS = {
+    scenario: { icon: '🎭', cls: 'flavor-scenario' },
+    article:  { icon: '📄', cls: 'flavor-article' },
+    news:     { icon: '📰', cls: 'flavor-news' },
+    adjsubst: { icon: '🔤', cls: 'flavor-adjsubst' },
+    sfi:      { icon: '📚', cls: 'flavor-sfi' },
+    other:    { icon: '✏️', cls: 'flavor-other' },
+  };
+  function batchFlavor(src, article) {
+    let kind = article ? String(article.kind || '') : '';
+    if (!kind || !BATCH_FLAVORS[kind]) {
+      const cat = classifySource(src); // sfi / scenario / adjsubst / other
+      kind = BATCH_FLAVORS[cat] ? cat : 'sfi';
+    }
+    return BATCH_FLAVORS[kind] || BATCH_FLAVORS.other;
+  }
+
   // Classify a source note into a category. Honors an explicit `category:`
   // frontmatter field; otherwise derives it from source_label / title / kind,
   // since the raw `kind` field is inconsistent across the KB.
@@ -584,12 +606,17 @@
 
       // render each batch
       for (const { src, items: bItems } of batchItems.values()) {
+        // 📖 jump to the readable Läsning article for this source (if any) — also
+        // drives the batch's visual flavor (icon + left-rule colour).
+        const article = readingFor(src);
+        const flavor = batchFlavor(src, article);
+
         const batch = document.createElement('div');
-        batch.className = 'batch';
+        batch.className = 'batch ' + flavor.cls;
 
         const bHead = document.createElement('div');
         bHead.className = 'batchHeader';
-        const icon = document.createElement('span'); icon.className = 'batchIcon'; icon.textContent = '📥';
+        const icon = document.createElement('span'); icon.className = 'batchIcon'; icon.textContent = flavor.icon;
         const title = document.createElement('h3');
         title.className = 'batchTitle';
         title.textContent = src.source_label || src.title || src.slug;
@@ -609,8 +636,6 @@
         bHead.appendChild(icon);
         bHead.appendChild(title);
         bHead.appendChild(counts);
-        // 📖 jump to the readable Läsning article for this source (if any)
-        const article = readingFor(src);
         if (article) {
           const read = document.createElement('a');
           read.className = 'batchReadLink';
