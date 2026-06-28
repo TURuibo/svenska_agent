@@ -3,7 +3,7 @@ type: topic
 name: "djur"
 kind: semantic-field
 zh: "动物"
-members: [hund, katt, häst, ko, gris, får, fågel, fisk, orm, björn, räv, älg, kanin, mus, get, anka, höna, groda, lejon, tiger, elefant, apa, varg, djur, spindel, ekorre, hare, igelkott, rådjur, åsna, kamel, giraff, zebra, örn, uggla, svan, gås, papegoja, fjäril, bi, myra, fluga, snigel, säl, haj, krokodil, sköldpadda, trogen, nyfiken, snabb, brun, tjock, vit, gammal, blöt, farlig, stark, lurvig, arg, liten, grå, tam, gullig, ung, hungrig, stor, vacker, snäll, långsam, envis, vild, svart, lätt, ullig, skygg, fläckig, randig, vaken, lugn, blå, tyst, fet, fri, vass, glupsk]
+members: [hund, katt, häst, ko, gris, får, fågel, fisk, orm, björn, räv, älg, kanin, mus, get, anka, höna, groda, lejon, tiger, elefant, apa, varg, djur, spindel, ekorre, hare, igelkott, rådjur, åsna, kamel, giraff, zebra, örn, uggla, svan, gås, papegoja, fjäril, bi, myra, fluga, snigel, säl, haj, krokodil, sköldpadda, råtta, hamster, marsvin, delfin, bläckfisk, kräfta, struts, pingvin, lo, gorilla, flodhäst, noshörning, isbjörn, panda, känguru, koala, pelikan, stork, gädda, abborre, bäver, hjort, hummer, räka, trogen, nyfiken, snabb, brun, tjock, vit, gammal, blöt, farlig, stark, lurvig, arg, liten, grå, tam, gullig, ung, hungrig, stor, vacker, snäll, långsam, envis, vild, svart, lätt, ullig, skygg, fläckig, randig, vaken, lugn, blå, tyst, fet, fri, vass, glupsk, busig, skrämd, sällsynt, ful]
 created: "2026-06-08"
 ---
 
@@ -60,10 +60,48 @@ created: "2026-06-08"
 - [[krokodil]] — 鳄鱼 (crocodile)
 - [[sköldpadda]] — 乌龟；龟 (turtle/tortoise)
 
-#### Havsdjur (海洋动物)
+#### Havsdjur & skaldjur (海洋动物与甲壳类)
 - [[fisk]] — 鱼 (fish)
 - [[säl]] — 海豹 (seal)
 - [[haj]] — 鲨鱼 (shark)
+- [[delfin]] — 海豚 (dolphin)
+- [[bläckfisk]] — 章鱼 (octopus)
+- [[kräfta]] — 小龙虾 (crayfish)
+- [[hummer]] — 龙虾 (lobster)
+- [[räka]] — 虾 (shrimp)
+
+#### Sötvattenfiskar (淡水鱼)
+- [[gädda]] — 梭鱼 (pike)
+- [[abborre]] — 鲈鱼 (perch)
+
+#### Husdjur — gnagare (啮齿类宠物)
+- [[råtta]] — 老鼠/大鼠 (rat)
+- [[hamster]] — 仓鼠 (hamster)
+- [[marsvin]] — 豚鼠 (guinea pig)
+
+#### Afrikanska & asiatiska djur (非洲与亚洲动物)
+- [[gorilla]] — 大猩猩 (gorilla)
+- [[flodhäst]] — 河马 (hippopotamus)
+- [[noshörning]] — 犀牛 (rhinoceros)
+- [[panda]] — 大熊猫 (panda)
+
+#### Polardjur & arktiska djur (极地与北极动物)
+- [[isbjörn]] — 北极熊 (polar bear)
+
+#### Australiensiska djur (澳大利亚动物)
+- [[känguru]] — 袋鼠 (kangaroo)
+- [[koala]] — 考拉 (koala)
+
+#### Fåglar — fler (更多鸟类)
+- [[struts]] — 鸵鸟 (ostrich)
+- [[pingvin]] — 企鹅 (penguin)
+- [[pelikan]] — 鹈鹕 (pelican)
+- [[stork]] — 鹳 (stork)
+
+#### Svenska vilda djur — fler (更多瑞典野生动物)
+- [[lo]] — 猞猁 (lynx)
+- [[bäver]] — 河狸 (beaver)
+- [[hjort]] — 鹿 (deer/stag)
 
 #### Smådjur & insekter (小动物与昆虫)
 - [[mus]] — 老鼠 (mouse)
@@ -92,6 +130,10 @@ created: "2026-06-08"
 - [[liten]] — 小的 (small)
 
 #### Karaktär & beteende (性格与行为)
+- [[busig]] — 顽皮的 (mischievous)
+- [[skrämd]] — 受惊的 (frightened)
+- [[sällsynt]] — 稀有的 (rare)
+- [[ful]] — 丑的 (ugly)
 - [[trogen]] — 忠诚的 (loyal)
 - [[nyfiken]] — 好奇的 (curious)
 - [[skygg]] — 胆小的；怕生的 (shy/timid)
@@ -140,4 +182,4 @@ created: "2026-06-08"
 - 2026-06-08 初版；2026-06-18 扩充：+22 djur substantiv, +13 adjektiv.
 - 形容词 [[stark]] 同时属于 [[topic-kropp]] 主题。
 - 参见 [[djurpark]] (动物园) 和 [[husdjur]] (宠物) 相关词汇。
-- 来源: [[source-2026-06-08-djur]] · [[source-2026-06-18-djur]]
+- 来源: [[source-2026-06-08-djur]] · [[source-2026-06-18-djur]] · [[source-2026-06-28-adjsubst-djur]]

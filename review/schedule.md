@@ -127,6 +127,35 @@
 | [[sent-ska-jag-ta-med-nagot]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
 | [[sent-bara-du-sjalv-vi-ses-snart]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
 | [[sent-toppen-vi-ses-klockan-fem]] | sentence | — | 0 | 2.5 | 2026-06-28 | no |
+| **— source-2026-06-28-adjsubst-djur — 28词NEW (形容词: busig, skrämd, sällsynt, ful; 动物名词: råtta, hamster, marsvin, delfin, bläckfisk, kräfta, struts, pingvin, lo, gorilla, flodhäst, noshörning, isbjörn, panda, känguru, koala, pelikan, stork, gädda, abborre, bäver, hjort, hummer, räka) —** | | | | | | |
+| [[busig]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[skrämd]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[sällsynt]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[ful]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[råtta]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[hamster]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[marsvin]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[delfin]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[bläckfisk]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[kräfta]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[struts]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[pingvin]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[lo]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[gorilla]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[flodhäst]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[noshörning]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[isbjörn]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[panda]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[känguru]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[koala]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[pelikan]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[stork]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[gädda]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[abborre]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[bäver]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[hjort]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[hummer]] | word | — | 0 | 2.5 | 2026-06-28 | no |
+| [[räka]] | word | — | 0 | 2.5 | 2026-06-28 | no |
 | **— source-2026-06-28-boka-tid-pa-telefon — 6词NEW / 5词组NEW / 2语法NEW / 11句NEW (DUP词: boka, vecka, passa; DUP语法: grammar-presens, grammar-modala-hjalpverb) —** | | | | | | |
 | [[tandläkare]] | word | — | 0 | 2.5 | 2026-06-28 | no |
 | [[kontroll]] | word | — | 0 | 2.5 | 2026-06-28 | no |
