@@ -617,9 +617,21 @@
         const bHead = document.createElement('div');
         bHead.className = 'batchHeader';
         const icon = document.createElement('span'); icon.className = 'batchIcon'; icon.textContent = flavor.icon;
+        const titleText = src.source_label || src.title || src.slug;
         const title = document.createElement('h3');
         title.className = 'batchTitle';
-        title.textContent = src.source_label || src.title || src.slug;
+        // When this source has a readable Läsning article, the title itself is the
+        // jump link (no separate 阅读原文 button); otherwise it's plain text.
+        if (article) {
+          const link = document.createElement('a');
+          link.className = 'batchTitleLink';
+          link.href = readingHref(article, dateKey);
+          link.textContent = titleText;
+          link.title = '📖 在 Läsning 阅读站看原文（可切中文翻译）+ 学习项，可一键跳回';
+          title.appendChild(link);
+        } else {
+          title.textContent = titleText;
+        }
         const counts = document.createElement('span');
         counts.className = 'batchCounts';
         const grouped = bItems.reduce((acc, it) => { acc[it.type] = (acc[it.type] || 0) + 1; return acc; }, {});
@@ -636,14 +648,6 @@
         bHead.appendChild(icon);
         bHead.appendChild(title);
         bHead.appendChild(counts);
-        if (article) {
-          const read = document.createElement('a');
-          read.className = 'batchReadLink';
-          read.href = readingHref(article, dateKey);
-          read.textContent = '📖 阅读原文';
-          read.title = '在 Läsning 阅读站看原文（可切中文翻译）+ 词/词组/句子/语法学习项，可一键跳回';
-          bHead.appendChild(read);
-        }
 
         // The chips + source-note footer live in a body wrapper. When this source
         // has a readable Läsning article, the same 词/词组/句子/语法 are shown there
