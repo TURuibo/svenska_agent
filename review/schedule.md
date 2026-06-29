@@ -8,6 +8,25 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-29-nyheter-8sidor — 5词NEW / 0词组NEW / 10句NEW / 3语法NEW —** | | | | | | |
+| [[saknas]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[artist]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[protestera]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[rädda]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[tävling]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[grammar-perfekt-med-ha]] | grammar | — | 0 | 2.5 | 2026-06-29 | no |
+| [[grammar-partikelverb-med-ur]] | grammar | — | 0 | 2.5 | 2026-06-29 | no |
+| [[grammar-modal-verb-kan-bli]] | grammar | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-manniskor-hamnade-under-hus-som]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-usa-skickar-ocksa-tva-fartyg]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-det-hande-i-torsdags-nara-boras]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-flera-tag-mellan-stockholm-och]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-det-var-inte-ett-tag-med]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-ingen-manniska-blev-skadad]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-de-tycker-att-manga-politiker]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-de-tycker-inte-att-sveriges]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-sveriges-herrar-har-spelat-match]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-i-slutspelet-maste-du-vinna-varje]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
 | **— source-2026-06-29-natur-djur-algen — 9词NEW / 5词组NEW / 20句NEW / 0语法NEW (DUP词: aktiv, djur, ensam, farlig, föda, försiktig, gräs, höst, kvist, löv, olycka, skjuta, skog, väga, vår, vuxen; DUP语法: grammar-det-finns, grammar-man-generellt, grammar-s-passiv) —** | | | | | | |
 | [[vattenväxt]] | word | — | 0 | 2.5 | 2026-06-29 | no |
 | [[björk]] | word | — | 0 | 2.5 | 2026-06-29 | no |
