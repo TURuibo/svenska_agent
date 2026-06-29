@@ -8,6 +8,41 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-29-natur-djur-algen — 9词NEW / 5词组NEW / 20句NEW / 0语法NEW (DUP词: aktiv, djur, ensam, farlig, föda, försiktig, gräs, höst, kvist, löv, olycka, skjuta, skog, väga, vår, vuxen; DUP语法: grammar-det-finns, grammar-man-generellt, grammar-s-passiv) —** | | | | | | |
+| [[vattenväxt]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[björk]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[tall]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[älghona]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[kalv]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[gryning]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[skymning]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[konung]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[älgjakt]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[skogens-konung]] | phrase | — | 0 | 2.5 | 2026-06-29 | no |
+| [[röra-på-sig]] | phrase | — | 0 | 2.5 | 2026-06-29 | no |
+| [[var-försiktig]] | phrase | — | 0 | 2.5 | 2026-06-29 | no |
+| [[väga-upp-till]] | phrase | — | 0 | 2.5 | 2026-06-29 | no |
+| [[föds-på-våren]] | phrase | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-algen-ar-ett-stort-djur]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-den-lever-i-skogen-i-hela-sverige]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-en-vuxen-alg-kan-vaga-upp-till]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-den-ar-ungefar-tva-meter-hog]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-algen-ater-lov-gras-och-vatten]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-pa-vintern-ater-den-kvistar-fran-bjork]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-i-sverige-finns-det-ungefar-300-000-algar]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-algen-lever-ensam]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-men-en-alghona-bor-tillsammans-med]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-kalvarna-fods-pa-varen-i-maj]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-ofta-fods-det-ett-eller-tva-kalvar]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-algen-ar-mest-aktiv-i-gryningen]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-da-ror-den-pa-sig-i-skogen]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-i-sverige-kallar-man-algen-for]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-den-ar-ett-viktigt-djur-i-svensk]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-varje-host-ar-det-algjakt]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-ungefar-90-000-algar-skjuts-varje-ar]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-var-forsiktig-pa-vagarna]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-varje-ar-sker-det-manga-olyckor]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-algen-ar-stor-och-tung]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
 | **— source-2026-06-27-min-familj — 6词NEW / 8词组NEW / 15句NEW / 1语法NEW (DUP词: familj, man, dotter, förälder, syster, granne, helg, nyfiken, praktisk, sakna; DUP词组: på-riktigt; DUP语法: grammar-presens, grammar-relativbisats, grammar-for-att-infinitiv, grammar-reflexivt-verb) —** | | | | | | |
 | **— source-2026-06-28-nyheter-8sidor — 1词NEW / 10句NEW —** | | | | | | |
 | [[sextondelsfinal]] | word | — | 0 | 2.5 | 2026-06-28 | no |
