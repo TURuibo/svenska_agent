@@ -8,6 +8,34 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-29-svt-latt-svenska — 10词NEW / 4词组NEW / 12句NEW / 1语法NEW (DUP词: jordbävning, drabba, rädda, brist, myndighet; DUP词组: komma-överens-om; DUP语法: supinum) —** | | | | | | |
+| [[påverka]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[skalv]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[bränsle]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[bensinstation]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[katastrof]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[strömming]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[skärgård]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[oväder]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[blixt]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[angripa]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[komma-ihag]] | phrase | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sla-ner]] | phrase | — | 0 | 2.5 | 2026-06-29 | no |
+| [[flytta-ut]] | phrase | — | 0 | 2.5 | 2026-06-29 | no |
+| [[komma-igang]] | phrase | — | 0 | 2.5 | 2026-06-29 | no |
+| [[grammar-bisats-med-sedan]] | grammar | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-minst-450-personer-har-dott-och]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-nu-ar-chanserna-att-hitta-personer]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-hjalpen-fran-myndigheter-och-regeringen-kommit]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-manga-graver-efter-overlevande-med-sina]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-ryssland-ar-det-brist-pa-bransle]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-bristen-beror-bland-annat-pa-ukrainas]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-usa-och-iran-nu-kommit-overens]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-det-varst-drabbade-omradet-kring-malmo]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-tio-personer-skadades-nar-en-blixt]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-fisken-var-mer-eller-mindre-forsvunnen]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-efter-att-industrins-stora-batar-har]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| [[sent-imorgon-blir-det-vanligt-svenskt-sommarvader]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
 | **— source-2026-06-29-nyheter-8sidor — 5词NEW / 0词组NEW / 10句NEW / 3语法NEW —** | | | | | | |
 | [[saknas]] | word | — | 0 | 2.5 | 2026-06-29 | no |
 | [[artist]] | word | — | 0 | 2.5 | 2026-06-29 | no |
