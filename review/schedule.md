@@ -3339,6 +3339,10 @@
 | [[sent-lordagen-5-juli-skolan-stangd-sommarlov]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
 | [[sent-anmalan-gors-pa-webbplatsen-reception]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
 | [[sent-obs-receptionen-ar-stangd-12-13]] | sentence | — | 0 | 2.5 | 2026-06-29 | no |
+| **— adjsubst böjning 2026-06-29 (Blandat) — 3词NEW / 17词DUP-skipped —** | | | | | | |
+| [[natt]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[svar]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| [[problem]] | word | — | 0 | 2.5 | 2026-06-29 | no |
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。
