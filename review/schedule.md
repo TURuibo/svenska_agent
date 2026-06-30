@@ -3417,3 +3417,29 @@
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。
 - 答对：interval 按 1 → 6 → round(interval×ease) 增长；答错：interval 归 1，ease 降 0.2（下限 1.3）。
 - 连续答对且确认掌握 → 设 `known: true`，移出复习，并通知 `sv-assessor` 记入档案。
+| **— source-2026-06-30-plats-stockholm — 8词NEW / 3词组NEW / 14句NEW (DUP词: ö bro gata invånare känd sjö skärgård smal vacker; DUP词组: dela-ut; DUP语法: 3条已有) —** | | | | | | |
+| [[huvudstad]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[handel]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[försvar]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[slott]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[stadshus]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[holme]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[skär]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[turistmål]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[är-byggd-på]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[förbinder-med-varandra]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[mycket-att-se]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-stockholm-är-byggd-på-14-öar]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-öarna-ligger-där-sjön-mälaren-möter]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-broarna-förbinder-öarna-med-varandra]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-birger-jarl-grundade-stockholm-år-1252]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-han-ville-ha-en-stad-vid-vattnet]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-läget-var-bra-för-handel-och-försvar]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-gamla-stan-är-stockholms-gamla-centrum]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-där-finns-smala-gator-och-gamla-hus]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-kungliga-slottet-ligger-i-gamla-stan]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-stadshuset-är-en-annan-känd-byggnad]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-varje-år-delar-man-ut-nobelpriset-på-stadshuset]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-skärgården-har-över-30-000-öar-holmar-och-skär]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-på-sommaren-åker-många-stockholmare-ut]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-miljoner-turister-besöker-staden-varje-år]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |

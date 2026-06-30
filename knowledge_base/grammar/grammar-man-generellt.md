@@ -8,6 +8,7 @@ related: [grammar-v2-ordfoljd, grammar-passiv-med-s]
 examples:
   - sent-matavfall-lägger-man-i-en-brun
   - sent-i-sverige-sorterar-de-flesta-hushåll
+  - sent-varje-år-delar-man-ut-nobelpriset-på-stadshuset
 known: false
 created: "2026-06-27"
 reviewed: ""
@@ -45,6 +46,7 @@ man + 动词(presens) + 宾语/状语
 
 - ✅ [[sent-matavfall-lägger-man-i-en-brun]] 🇸🇪 Matavfall lägger man i en brun påse. 🇨🇳 厨余垃圾放入棕色袋子。
 - ✅ [[sent-i-sverige-sorterar-de-flesta-hushåll]] 🇸🇪 I Sverige sorterar man sina sopor noggrant. 🇨🇳 在瑞典，人们仔细地将垃圾分类。
+- ✅ [[sent-varje-år-delar-man-ut-nobelpriset-på-stadshuset]] 🇸🇪 Varje år delar **man** ut Nobelpriset på stadshuset. 🇨🇳 每年都在市政厅颁发诺贝尔奖。（V2倒置后 man 跟在动词后）
 - ❌ *Man sorterar sina sopor noggrantt* ← 拼写错误（noggrant 只有一个 t）
 
 ## 常见错误 (Common Mistakes)
