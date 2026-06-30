@@ -6,7 +6,7 @@ zh: "不定式结构（att + 动词原形）"
 en: "Infinitive construction (att + infinitive)"
 cefr: "A2"
 topics: ["topic-grammatik"]
-sentences: ["sent-kommunen-hoppas-att-fler-invanare", "sent-cykelbanan-ar-gratis-att-anvanda"]
+sentences: ["sent-kommunen-hoppas-att-fler-invanare", "sent-cykelbanan-ar-gratis-att-anvanda", "sent-där-finns-smala-gator-och-gamla-hus"]
 created: "2026-06-28"
 reviewed: ""
 review_count: 0
@@ -54,6 +54,7 @@ interval: 0
 2. *Cykelbanan är gratis att använda.* — 这条自行车道免费使用。
 3. *Det är viktigt att cykla säkert.* — 安全骑车很重要。
 4. *Istället för att ta bilen, ta cykeln.* — 骑车而不是开车。
+5. *I Stockholm finns det mycket att se.* — 在斯德哥尔摩有很多可以看的东西。（`mycket att se` = mycket + att + infinitiv）
 
 ## 相关语法 (Related Grammar)
 

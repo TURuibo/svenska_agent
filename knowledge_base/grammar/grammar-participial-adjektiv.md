@@ -8,6 +8,7 @@ related: ["grammar-adjektiv-bojning", "grammar-adjektiv-kongruens", "grammar-pas
 examples:
   - sent-sillen-ar-inlagd-och-potatisarna-serveras
   - sent-till-midsommar-ater-man-sill-och-nykokta
+  - sent-stockholm-är-byggd-på-14-öar
 known: false
 created: "2026-06-28"
 reviewed: ""
@@ -59,6 +60,7 @@ Plural/Definite:   kokta   inlagda  nykokade
 
 ## 例句 (Examples)
 
+- ✅ [[sent-stockholm-är-byggd-på-14-öar]] 🇸🇪 Stockholm är **byggd** på 14 öar. 🇨🇳 斯德哥尔摩建在 14 座岛屿上。（byggd = en-ord 分词形容词，与 Stockholm 一致）
 - ✅ [[sent-sillen-ar-inlagd-och-potatisarna-serveras]] 🇸🇪 Sillen är **inlagd** och potatisarna serveras med dill. 🇨🇳 鲱鱼是腌制的，土豆配莳萝上桌。
 - ✅ [[sent-till-midsommar-ater-man-sill-och-nykokta]] 🇸🇪 Till midsommar äter man sill och **nykokta** potatisar. 🇨🇳 仲夏节吃腌鲱鱼和新煮的土豆。（nykokta 是复数定式）
 - ✅ 🇸🇪 Hon läser en **skriven** rapport. — 🇨🇳 她在读一份书面报告。（en-ord, utrum）
