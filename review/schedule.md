@@ -3371,6 +3371,47 @@
 | [[natt]] | word | — | 0 | 2.5 | 2026-06-29 | no |
 | [[svar]] | word | — | 0 | 2.5 | 2026-06-29 | no |
 | [[problem]] | word | — | 0 | 2.5 | 2026-06-29 | no |
+| **— source-2026-06-30-8-sidor-news — 9词NEW / 4词组NEW / 27句NEW / 0语法NEW (DUP词: rekord, värme, temperatur, myndighet, sval, hetta, kriga, militär, paus, sund, jordbävning, saknas, rasa, förstöra, serie, skärgård, drunkna, äventyr, ensam, författare, varna; DUP词组: framför-allt, klara-sig; DUP语法: grammar-bisats-med-sedan, grammar-deponensverb, grammar-s-passiv) —** | | | | | | |
+| [[fred]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[bomba]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[fastna]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[försvinna]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[tonåring]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[hamna]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[varelse]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[mäta]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[mystisk]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[flytta-sig-åt-öster]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[det-är-bråttom]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[på-väg-att]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[kan-ha-med-att-göra]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-det-var-mycket-varmt-vader-pa-flera-platser]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-det-ar-den-varmaste-dagen-i-malmö]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-den-har-veckan-kommer-vadret-att-bli]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-minst-150-miljoner-manniskor-bor]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-bade-i-frankrike-och-i-spanien]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-det-kan-ha-med-varmen-att-gora]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-nu-flyttar-sig-hettan-till-lander]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-i-lander-som-polen-rumanien]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-usa-och-iran-har-pratat-om-fred]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-men-forra-veckan-borjade-landerna-kriga]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-det-ar-inte-klart-vad-som-hander]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-kanske-ska-landerna-prata-med-varandra]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-da-ska-de-framallt-prata-om-sundet]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-ungefar-1450-manniskor-har-hittats-doda]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-ungefar-50-tusen-manniskor-saknas-troligen]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-nu-letar-manniskor-efter-folk-som-fastnat]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-det-är-bråttom]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-folk-som-ar-fast-under-rasade-hus]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-manga-manniskor-maste-leta-sjalva]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-i-sommar-kan-vi-se-en-ny-serie]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-svartan-handlar-om-pojken-johannes]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-de-har-alltid-traffats-i-skargarden]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-kompisarna-ar-pa-vag-att-bli-tonaringar]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-en-pojke-drunknar-vid-en-o]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-johannes-och-hans-kompis-hamnar]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-de-hittar-ocksa-en-skadad-varelse]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-serien-ar-gjord-efter-en-bok]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
 ## 说明
 
 - `due = last_reviewed + interval`；`due = 立即` 表示从未复习。
