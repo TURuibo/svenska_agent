@@ -8,6 +8,39 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-06-30-svt-latt-svenska — 10词NEW / 5词组NEW / 15句NEW / 2语法NEW (DUP词: försvar, regering, öka, beställa; DUP语法: grammar-s-passiv) —** | | | | | | |
+| [[satsning]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[flygbolag]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[ubåt]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[leverans]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[flotta]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[förmåga]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[explosion]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[oligark]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[bårhus]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[fästing]] | word | — | 0 | 2.5 | 2026-06-30 | no |
+| [[vara-vard]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[fa-vanta]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[lagga-ihop]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[i-vantan-pa]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[bero-pa]] | phrase | — | 0 | 2.5 | 2026-06-30 | no |
+| [[grammar-bisats-med-som]] | grammar | — | 0 | 2.5 | 2026-06-30 | no |
+| [[grammar-dubbelt-sa-som]] | grammar | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-flygbolaget-sas-gor-en-stor-ny]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-polens-kop-av-svenska-ubatar]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-men-det-betyder-ocksa-att]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-i-vantan-pa-leverans-hyr]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-polen-far-darmed-en-av]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-lagger-man-ihop-polens-och]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-i-maj-kopte-ukraina-20]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-igar-kvall-var-det-en]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-tre-personer-skadades-en-av]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-det-ar-fortsatt-valdigt-varmt]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-sjukdomen-tbe-fortsatter-att-oka]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-det-ar-nastan-dubbelt-sa]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-okningen-beror-pa-det-varmare]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-sverige-moter-frankrike-i-sextondelsfinalen]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| [[sent-det-blir-ett-klassiskt-svenskt]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
 | **— source-2026-06-29-svt-latt-svenska — 10词NEW / 4词组NEW / 12句NEW / 1语法NEW (DUP词: jordbävning, drabba, rädda, brist, myndighet; DUP词组: komma-överens-om; DUP语法: supinum) —** | | | | | | |
 | [[påverka]] | word | — | 0 | 2.5 | 2026-06-29 | no |
 | [[skalv]] | word | — | 0 | 2.5 | 2026-06-29 | no |
