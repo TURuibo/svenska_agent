@@ -136,6 +136,19 @@ For phrases/sentences where the slug is fuzzy, also `Grep` the folder for the le
 confirmation, then analyze and store. **存完后自动运行 `/sync`**（commit+push 到 GitHub），不必等用户
 触发 —— 拍照是一次性的成品事件，见 §4.3。逐条查词则相反：不自动 push，等用户手动 `/sync`。
 
+> ⭐ **拍照 / 整段文字也要进 📖 阅读站（Ruibo 固定偏好，2026-06-30 起）。** 拍照/整段文字走
+> `text-analysis → sv-librarian` 只把知识点拆进 `knowledge_base/`，**默认不会出现在 Läsning 阅读站**
+> （阅读站只扫 `inbox/` + `imported/`）。所以这类输入必须**额外**把可读正文归档成一篇文章：
+> 1. 在 `imported/` 写一份可读文件（命名仿 `/dagens-artikel`：地方/国情用 `plats-<date>-<slug>.md`，
+>    人物传记 `biografi-`、新闻 `news-`、其它体裁见 `tools/build-reading-site.js` 的 `ARTICLE_PREFIXES`；
+>    格式 = `# 🇸🇪 标题` + `**CEFR 估计:**`/`**生成日期:**` 元信息行 + `## 瑞典语原文` + `## 🇨🇳 全文翻译`
+>    + `## 📌 教学备注`，与 `imported/scenario-*.md` 一致）。
+> 2. `node tools/build-reading-site.js` 重建阅读站数据，再随 `/sync` 一起提交。
+>
+> 这样拍照素材既拆进 KB（Sök 可搜 + 生词可点查），又能在阅读站当文章读（🇸🇪/🇨🇳 切换）。
+> （`/scenario`、`/dagens-artikel`、`/dagens-nyheter` 等生成类已经经 `/import` 自动归档到 `imported/`，
+> 无需重复——这条只补**拍照/整段文字 `/learn`** 这条没走 `/import` 的链。）
+
 ### §4.1 跨聊天导入 (Importing from other chats)
 
 Other Claude.ai chats (web/mobile) can feed this KB using the primer in `EXPORT_PROTOCOL.md`.
