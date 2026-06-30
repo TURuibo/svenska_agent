@@ -3,7 +3,7 @@ type: topic
 name: "Satsadverbial (情态副词)"
 zh: "句子副词 / 情态副词"
 en: "Modal adverbs / Sentence adverbials"
-members: ["ju", "väl", "nog"]
+members: ["ju", "väl", "nog", "inte", "aldrig", "alltid", "sällan", "tyvärr", "gärna"]
 created: 2026-06-10
 ---
 
@@ -13,11 +13,24 @@ created: 2026-06-10
 
 ## 核心成员 (Members)
 
+**情态副词（语用类）：**
+
 | 词 | 语用含义 | 中文近似 | 例句 |
 |----|---------|---------|------|
 | [[ju]] | 双方共知的信息；理所当然 | 本来就……嘛；你也知道 | Det är ju svårt. |
 | [[väl]] | 寻求确认；轻度不确定 | ……吧？；应该……吧 | Du kommer väl? |
 | [[nog]] | 推测；猜测 | 大概；应该 | Han är nog trött. |
+
+**否定与频率类（从频率高到低）：**
+
+| 词 | 类型 | 中文 | 例句 |
+|----|------|------|------|
+| [[alltid]] | 频率副词 | 总是 | Vi åker alltid till kusten. |
+| [[gärna]] | 情愿副词 | 乐意地 | Jag åker gärna till Gotland. |
+| [[tyvärr]] | 态度副词 | 遗憾地 | Avstånden är tyvärr långa. |
+| [[sällan]] | 频率副词 | 很少 | Vi besöker sällan andra regioner. |
+| [[inte]] | 否定副词 | 不；没有 | Jag vill inte flytta. |
+| [[aldrig]] | 频率否定 | 从不 | Jag har aldrig bott i Norrland. |
 
 ## 位置规则 (Position)
 
