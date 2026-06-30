@@ -50,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[klimataktivist]]（气候活动家），förändring（变化）
+- 词族: [[klimataktivist]]（气候活动家），[[förändring]]（变化）
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

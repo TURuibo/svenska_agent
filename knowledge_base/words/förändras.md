@@ -52,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: förändra (verb, 使改变/改变某物 — 及物), förändring (en, 变化/改变), förändrad (adj, 改变了的)
+- 词族: förändra (verb, 使改变/改变某物 — 及物), [[förändring]] (en, 变化/改变), förändrad (adj, 改变了的)
 - 同义词: [[ändras]] (verb, 改变 — 更口语/简单), förändra sig (reflexiv form)
 - 反义词: —
 - 主题: [[topic-vikingatiden]]
