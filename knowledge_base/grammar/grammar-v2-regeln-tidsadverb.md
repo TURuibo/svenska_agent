@@ -10,6 +10,16 @@ examples:
   - sent-sedan-lamnar-jag-emma-vid
   - sent-klockan-nio-borjar-min-sfi
   - sent-pa-eftermiddagen-hamtar-jag
+  - sent-forut-flyttade-fler-in-till-staderna
+  - sent-nu-flyttar-fler-ut-pa-landet
+  - sent-pa-helgerna-ar-det-stokigt-i-centrum
+  - sent-pa-sommaren-kommer-manga-turister-hit
+  - sent-i-framtiden-vill-jag-bo-pa-landet
+  - sent-i-hela-mitt-liv-har-jag-bott-har
+  - sent-varje-sommar-besoker-jag-min-slakt
+  - sent-forut-var-vi-inte-nojda-med-vart-boende
+  - sent-pa-kvallarna-vagar-jag-inte-ga-ut
+  - sent-om-en-vecka-ska-vi-antligen-flytta
 known: false
 created: "2026-06-24"
 reviewed: ""
@@ -59,10 +69,23 @@ På eftermiddagen  hämtar          jag           barnen.
 
 ## 例句 (Examples)
 
+原有例句:
 - ✅ [[sent-varje-morgon-vaknar-jag-klockan]] 🇸🇪 Varje morgon vaknar jag klockan sex. 🇨🇳 每天早上我六点醒来。
 - ✅ [[sent-sedan-lamnar-jag-emma-vid]] 🇸🇪 Sedan lämnar jag Emma vid skolan. 🇨🇳 然后我把Emma送到学校门口。
 - ✅ [[sent-klockan-nio-borjar-min-sfi]] 🇸🇪 Klockan nio börjar min SFI-kurs. 🇨🇳 九点我的SFI课程开始。
 - ✅ [[sent-pa-eftermiddagen-hamtar-jag]] 🇸🇪 På eftermiddagen hämtar jag barnen. 🇨🇳 下午我去接孩子们。
+
+来自 Språkvägen s. 368 词序练习（时间状语开头）:
+- ✅ [[sent-forut-flyttade-fler-in-till-staderna]] 🇸🇪 Förut flyttade fler in till städerna. 🇨🇳 以前更多人搬进城市。
+- ✅ [[sent-nu-flyttar-fler-ut-pa-landet]] 🇸🇪 Nu flyttar fler ut på landet. 🇨🇳 现在更多人搬去乡下。
+- ✅ [[sent-pa-helgerna-ar-det-stokigt-i-centrum]] 🇸🇪 På helgerna är det stökigt i centrum. 🇨🇳 周末市中心很吵闹/乱。
+- ✅ [[sent-pa-sommaren-kommer-manga-turister-hit]] 🇸🇪 På sommaren kommer många turister hit. 🇨🇳 夏天很多游客来这里。
+- ✅ [[sent-i-framtiden-vill-jag-bo-pa-landet]] 🇸🇪 I framtiden vill jag bo på landet. 🇨🇳 将来我想住在乡下。（情态动词 vill + infinitiv）
+- ✅ [[sent-i-hela-mitt-liv-har-jag-bott-har]] 🇸🇪 I hela mitt liv har jag bott här. 🇨🇳 我这辈子都住在这里。（perfekt + V2）
+- ✅ [[sent-varje-sommar-besoker-jag-min-slakt]] 🇸🇪 Varje sommar besöker jag min släkt i Skåne. 🇨🇳 每年夏天我去 Skåne 看亲戚。
+- ✅ [[sent-forut-var-vi-inte-nojda-med-vart-boende]] 🇸🇪 Förut var vi inte nöjda med vårt boende. 🇨🇳 以前我们对住处不满意。（inte 位于主语之后）
+- ✅ [[sent-pa-kvallarna-vagar-jag-inte-ga-ut]] 🇸🇪 På kvällarna vågar jag inte gå ut. 🇨🇳 晚上我不敢出门。（情态动词 vågar + infinitiv + inte）
+- ✅ [[sent-om-en-vecka-ska-vi-antligen-flytta]] 🇸🇪 Om en vecka ska vi äntligen flytta. 🇨🇳 一周后我们终于要搬家了。（ska + infinitiv）
 
 ## 常见错误 (Common Mistakes)
 

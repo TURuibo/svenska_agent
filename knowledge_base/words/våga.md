@@ -13,6 +13,7 @@ family: [mod, modig]
 topics: [topic-karaktarsord]
 sentences:
   - sent-det-viktigaste-är-att-våga
+  - sent-pa-kvallarna-vagar-jag-inte-ga-ut
 known: false
 created: "2026-06-27"
 reviewed: ""

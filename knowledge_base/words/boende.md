@@ -5,14 +5,15 @@ ordklass: "substantiv (pluralis / particip)"
 verbgrupp: ""
 genus: ""
 cefr: "A2"
-zh: "居民；住户"
-en: "residents; tenants"
+zh: "居民；住户；住处；居住"
+en: "residents; tenants; housing; accommodation"
 synonyms: []
 antonyms: []
 family: ["bo"]
-topics: ["topic-hemmet"]
+topics: ["topic-hemmet", "topic-boende-och-flytt"]
 sentences:
   - sent-lordagen-den-4-juli-stanger-vi
+  - sent-forut-var-vi-inte-nojda-med-vart-boende
 known: false
 created: "2026-06-26"
 reviewed: ""
@@ -21,7 +22,7 @@ ease: 2.5
 interval: 0
 ---
 
-# boende — substantiv (pluralis)
+# boende — substantiv (pluralis / 住处)
 
 📖 中文：居民；住户 · English: residents; tenants
 发音提示：['buːendə]，重音在第一音节
@@ -44,15 +45,20 @@ interval: 0
 
 ## 例句 (Sentences)
 
+**义项1 居民/住户 (residents):**
 - 🇸🇪 Information till alla boende i huset. — 🇨🇳 致楼内全体住户的通知。
 - 🇸🇪 De boende i fastigheten fick ett brev. — 🇨🇳 该楼的住户们收到了一封信。
 - 🇸🇪 Hur många boende finns det i byggnaden? — 🇨🇳 这栋楼里住有多少住户？
+
+**义项2 住处/住宿 (housing/accommodation):**
+- 🇸🇪 Förut var vi inte nöjda med vårt boende. — 🇨🇳 以前我们对住处不满意。
+- 🇸🇪 Kommunen hjälper nyanlända att hitta ett boende. — 🇨🇳 市政府帮助新移民找住处。
 
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bo]]
 - 同义词: *hyresgäst* (租客), *invånare* (居民)
-- 主题: [[topic-hemmet]]
+- 主题: [[topic-hemmet]] · [[topic-boende-och-flytt]]
 
 ## 用法提示 (Usage Notes)
 

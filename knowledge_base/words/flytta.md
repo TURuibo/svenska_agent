@@ -10,8 +10,11 @@ en: "to move (house); to move (object)"
 synonyms: [byta bostad]
 antonyms: []
 family: [flytt, flyttning, inflyttning, utflyttning]
-topics: []
-sentences: []
+topics: ["topic-boende-och-flytt"]
+sentences:
+  - sent-forut-flyttade-fler-in-till-staderna
+  - sent-nu-flyttar-fler-ut-pa-landet
+  - sent-om-en-vecka-ska-vi-antligen-flytta
 known: false
 created: "2026-06-09"
 reviewed: ""

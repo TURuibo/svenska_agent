@@ -11,7 +11,8 @@ synonyms: ["besökare"]
 antonyms: []
 family: ["turism", "turistresa"]
 topics: ["topic-fritid-och-resor"]
-sentences: []
+sentences:
+  - sent-pa-sommaren-kommer-manga-turister-hit
 known: false
 created: 2026-06-10
 reviewed: ""
