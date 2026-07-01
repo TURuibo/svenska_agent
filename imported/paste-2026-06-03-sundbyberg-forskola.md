@@ -43,3 +43,29 @@ Sundbyberg 市
 **功能语块：** [[logga-in]] (登录) · [[söka-till]] (申请…) · [[med-vanlig-halsning]] (此致敬礼，信尾套语)
 
 **文体点：** 典型瑞典市政通知 (myndighetsbrev)——短段落、Vänligen + 祈使句提出要求、条件倒装表规则说明、固定信尾 *Med vänlig hälsning* + 部门署名。
+
+---
+
+```svensk-export v1
+date: 2026-06-03
+source: Erbjudande om plats på förskola — Sundbyberg stad (2026-06-03)
+words:
+- erbjudande | substantiv (ett) | 邀约；提议；报价 | offer
+- förskola | substantiv (en) | 幼儿园；学前班 | preschool
+- besvara | verb (1) | 回复；答复（正式） | to respond to, to answer (formal)
+- veckodag | substantiv (en) | 工作日；平日（周一至周五，非周末） | weekday
+- val | substantiv (ett) | 选择；选项；投票（选举） | choice; election
+- innebära | verb (4) | 意味着；意指；包含（含义） | to mean, to imply, to entail
+- placering | substantiv (en) | 安置；名额；排位；放置 | placement, position
+- garantiplacering | substantiv (en) | 保证名额（所有首选幼儿园都满员时由市政分配的名额） | guaranteed placement
+- byteskö | substantiv (en) | 换位等候队列（接受保证名额后仍在等待首选名额的队列） | transfer/switching queue
+- bildning | substantiv (en) | 教育；文化素养；知识培育 | education, formation, cultivation
+- lärande | substantiv (ett) | 学习；教与学 | learning
+- e-tjänst | substantiv (en) | 电子服务；政府/机构网上服务平台 | e-service, online service
+phrases:
+- logga in | partikelverb | 登录 | to log in
+- med vänlig hälsning | fast-uttryck | 此致敬礼；谨此敬上（正式信件结尾） | sincerely, with kind regards, yours faithfully
+- söka till | partikelverb | 申请（某地方/学校/职位） | to apply to (a school, place, position)
+grammar:
+- konditionell topikalisering utan 'om' | 无「om」的条件从句倒装 | Conditional topicalization without 'om'
+```

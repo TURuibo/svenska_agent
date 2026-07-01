@@ -56,3 +56,68 @@ Böckerna blev mycket populära eftersom hon förstod hur barn tänker. Hon mind
 **高频词组：** [[bland-annat]] · [[ta-hand-om]] · [[hälsa-på]] · [[hitta-på]] · [[skicka-in]] · [[tacka-nej]] / [[tacka-ja]] · [[kämpa-mot]] · [[leva-kvar]] · [[låna-ut]]
 
 **文化点：** Astrid Lindgren (1907–2002) 是瑞典最著名的儿童文学作家，SFI 课本经典传记篇目；Vimmerby 现有 Astrid Lindgrens Värld 主题公园。
+
+---
+
+```svensk-export v1
+date: 2026-06-02
+source: Astrid Lindgren (传记文章)
+words:
+- barnboksförfattare | substantiv (en) | 儿童书作家 | children's book author
+- bonde | substantiv (en) | 农民 | farmer
+- barndom | substantiv (en) | 童年 | childhood
+- syskon | substantiv (ett) | 兄弟姐妹 | siblings
+- varandra | pronomen | 彼此；互相；相互 | each other; one another
+- klättra | verb (1) | 爬/攀登 | to climb
+- hö | substantiv (ett) | 干草 | hay
+- å | substantiv (en) | 小河/溪流 | stream, creek, brook
+- förutom | preposition/adverb | 除了；除……之外；此外 | except for; besides; apart from
+- obekväm | adjektiv | 不舒适的 | uncomfortable
+- klia | verb (3) | 发痒/痒 | to itch
+- tvungen | adjektiv | 被迫的/不得不 | forced to, compelled
+- tråkig | adjektiv | 无聊的/令人厌烦的 | boring, dull
+- saga | substantiv (en) | 故事/童话 | story, fairy tale
+- låna | verb (1) | 借（进/出） | to borrow/lend
+- gravid | adjektiv | 怀孕的 | pregnant
+- gift | adjektiv | 已婚的 | married
+- samhälle | substantiv (ett) | 社会/社区 | society, community
+- skvallra | verb (1) | 八卦/议论 | to gossip
+- ensam | adjektiv | 孤独的/独自的 | alone, lonely
+- döpa | verb (2a) | 命名/洗礼 | to baptize, to name
+- längta | verb (1) | 思念/渴望 | to long for, to miss
+- berätta | verb (1) | 讲述 | to tell, to narrate
+- ovanlig | adjektiv | 不寻常的/罕见的 | unusual, rare
+- annorlunda | adjektiv | 与众不同的/不一样 | different, unusual
+- orolig | adjektiv | 担心的/焦虑的 | worried, anxious
+- modig | adjektiv | 勇敢的 | brave, courageous
+- orättvisa | substantiv (en) | 不公正/不公平 | injustice, unfairness
+- minnas | verb (oregelbundet) | 记得/回忆 | to remember
+- fortsätta | verb (oregelbundet) | 继续 | to continue
+- bestämma | verb (2b) | 决定 | to decide
+- sekreterare | substantiv (en) | 秘书 | secretary
+- hemmafru | substantiv (en) | 家庭主妇 | housewife, stay-at-home mother
+- bokförlag | substantiv (ett) | 出版社 | publishing house
+- publicera | verb (1) | 出版/发表 | to publish
+- vuxen | substantiv (en) | 成年人/成年的 | adult, grown-up
+- jobb | substantiv (ett) | 工作/活儿（口语） | job, work (colloquial)
+phrases:
+- bland annat | fast-uttryck | 其中/等等/另外 | among other things, including
+- ta hand om | partikelverb | 照顾/照料 | to take care of, look after
+- hälsa på | partikelverb | 探望/拜访/问候 | to visit (someone), to say hello to
+- hitta på | partikelverb | 想出/编造/创造 | to come up with, make up, invent
+- skicka in | partikelverb | 递交/投稿/上交 | to send in, submit
+- tacka nej | fast-uttryck | 拒绝/谢绝 | to decline, say no (politely)
+- tacka ja | fast-uttryck | 答应/接受/说是 | to accept, say yes
+- kämpa mot | partikelverb | 对抗/反抗/与...作斗争 | to fight against, struggle against
+- leva kvar | partikelverb | 继续存在/流传/活下去 | to live on, survive, remain
+- låna ut | partikelverb | 出借/外借（借给别人） | to lend out
+sentences:
+- Eftersom Astrid var ensam kunde hon inte ta hand om barnet själv. | 因为阿斯特丽德是独自一人，她无法自己照顾孩子。
+- De förstod också att barn behöver leka för att må bra. | 他们也理解孩子需要玩耍才能身心健康。
+- De var oroliga att barn som läste om Pippi skulle börja göra som henne. | 他们担心读了皮皮故事的孩子会开始模仿她。
+grammar:
+- Preteritum av oregelbundna verb | 不规则动词过去式 | Preterite of irregular verbs
+- Bisats med eftersom | eftersom引导的原因状语从句 | Causal subordinate clause with eftersom (because)
+- att-sats (objekt- och subjektsatser) | att从句（宾语从句与主语从句） | att-clause (complement clause with att = that)
+- sin/sitt/sina (reflexivt possessivpronomen) | sin/sitt/sina — 反身所有格 | Reflexive possessive pronouns sin/sitt/sina
+```
