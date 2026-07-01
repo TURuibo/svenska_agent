@@ -143,7 +143,11 @@ confirmation, then analyze and store. **存完后自动运行 `/sync`**（commit
 >    人物传记 `biografi-`、新闻 `news-`、其它体裁见 `tools/build-reading-site.js` 的 `ARTICLE_PREFIXES`；
 >    格式 = `# 🇸🇪 标题` + `**CEFR 估计:**`/`**生成日期:**` 元信息行 + `## 瑞典语原文` + `## 🇨🇳 全文翻译`
 >    + `## 📌 教学备注`，与 `imported/scenario-*.md` 一致）。
-> 2. `node tools/build-reading-site.js` 重建阅读站数据，再随 `/sync` 一起提交。
+> 2. **文末必须附一个 fenced `svensk-export v1` 块**（列出本篇提取的 words/phrases/sentences/grammar，
+>    条目格式同 `EXPORT_PROTOCOL.md`：words/phrases = `sv | ordklass | zh | en`，sentences = `sv | zh`，
+>    grammar = `name | zh | en`；内容直接取自 sv-librarian 刚写入的 KB 笔记）。阅读站的「学习项」面板
+>    **只从这个块解析**——漏掉它文章正文能读、但单词/词组/句子面板会是空的（2026-07-01 Gotland 篇教训）。
+> 3. `node tools/build-reading-site.js` 重建阅读站数据，再随 `/sync` 一起提交。
 >
 > 这样拍照素材既拆进 KB（Sök 可搜 + 生词可点查），又能在阅读站当文章读（🇸🇪/🇨🇳 切换）。
 > （`/scenario`、`/dagens-artikel`、`/dagens-nyheter` 等生成类已经经 `/import` 自动归档到 `imported/`，
