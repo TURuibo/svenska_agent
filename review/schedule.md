@@ -3566,3 +3566,18 @@
 | [[sent-pa-vag-hem-tar-jag-bussen]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
 | [[sent-det-ar-tyst-i-staden-pa]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
 | [[sent-jag-somnar-snabbt-nar-jag]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| **— source-2026-07-01-anslag-i-tvattstugan — 3词NEW / 3词组NEW / 6句NEW / 2语法NEW (DUP词: trasig, laga, hänga, tålamod, krocka) —** | | | | | | |
+| [[tekniker]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[besvär]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[fastighetsskötare]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[fram-tills-dess]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[vi-är-ledsna-för-besväret]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[boka-om]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-relativsats-som]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-presens-for-framtid]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-torktumlare-nummer-2-ar-trasig]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-en-tekniker-kommer-och-lagar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-fram-tills-dess-kan-ni-anvanda]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-vi-ar-ledsna-for-besvaret-och]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-har-du-bokat-en-tid-som]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ring-vaktmasteriet-sa-hjalper-vi]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
