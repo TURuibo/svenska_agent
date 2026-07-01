@@ -92,6 +92,23 @@ members:
   - undvika
   - tål-inte-laktos
   - något-glutenfritt
+  - citron
+  - paprika
+  - rökt
+  - kryddig
+  - sås
+  - druva
+  - gyllene
+  - persika
+  - böna
+  - torkad
+  - russin
+  - gul
+  - röd
+  - grön
+  - fisk
+  - mörk
+  - brun
 created: 2026-06-11
 ---
 
@@ -180,6 +197,29 @@ created: 2026-06-11
 - [[macka]] — 三明治（口语）
 - [[vetebröd]] — 小麦面包
 
+**Frukt & Nöt tillägg (水果/坚果补充，2026-07-01)**
+- [[citron]] — 柠檬（新）
+- [[druva]] — 葡萄（新）
+- [[persika]] — 桃子（新）
+- [[russin]] — 葡萄干（新）
+- [[böna]] — 豆子（新）
+- [[paprika]] — 甜椒/彩椒（新）
+
+**Tillagningssätt-adjektiv (烹饪方式形容词，2026-07-01)**
+- [[rökt]] — 熏制的（新）
+- [[torkad]] — 晒干的/脱水的（新）
+- [[gyllene]] — 金色的（新）
+- [[kryddig]] — 辛辣的/调味重的（新）
+- [[sås]] — 酱汁（新）
+
+**Färg-adjektiv i mat-kontext (食物语境中的颜色形容词，已存在于其他主题，本批复用)**
+- [[gul]] — 黄色的（如 citron）
+- [[röd]] — 红色的（如 paprika, druva）
+- [[grön]] — 绿色的（如 paprika, druva）
+- [[brun]] — 棕色的（如 böna, sås）
+- [[mörk]] — 深色的（如 druva, choklad）
+- [[fisk]] — 鱼（食材，如 rökt fisk）
+
 **Smak-adjektiv (味道形容词)**
 - [[salt]] — 咸的
 - [[sur]] — 酸的
@@ -222,4 +262,4 @@ created: 2026-06-11
 - Smak (味道): salt 咸, sur 酸, bitter 苦, söt 甜（söt 已存在 → 见 [[söt]]）
 - Synonympar i temat: [[hård]] ↔ [[mjuk]], [[varm]] ~ [[het]], [[rå]] ↔ [[mogen]]
 - Allergi-grupp: [[allergisk]], [[tåla]], [[nöt]], [[laktos]], [[grädde]] — alla relaterade till allergi och specialkost
-- Källa: [[source-2026-06-11-mat-dryck]] · [[source-2026-06-15-restaurang-middag]] · [[source-2026-06-15-restaurang-allergi-nota]] · [[source-2026-06-15-restaurang-rekommendation]]
+- Källa: [[source-2026-06-11-mat-dryck]] · [[source-2026-06-15-restaurang-middag]] · [[source-2026-06-15-restaurang-allergi-nota]] · [[source-2026-06-15-restaurang-rekommendation]] · [[source-2026-07-01-adjsubst-mat-dryck]]
