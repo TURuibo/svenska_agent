@@ -8,6 +8,59 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-07-01-8-sidor-news — 6词NEW / 6词组NEW / 40句NEW / 3语法NEW (DUP词: ubåt, fabrik, satsa, miljard, oväder, åska, blixt, ovanlig, träffa, sår, drönare, spränga, ledare, slutspel, regering, spara, handla, kriga; DUP词组: handla-om, slå-ner) —** | | | | | | |
+| [[statsminister]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[pressa]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[makt]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[tränare]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[förlora]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sända]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[satsa-pengar]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[skjuta-ner]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sluta-kriga]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[ta-makten-over]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[vara-ute-ur]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[ga-att-se]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-s-passiv-kallas-for]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-nast-superlativ]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-redan]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-landet-polen-vill-kopa-tre-ubatar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ubatarna-kallas-for-a26]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-den-forsta-ska-vara-klar-ar-2031]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ubatarna-ska-byggas-i-saabs-fabriker]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-saab-har-lovat-att-satsa-pengar-i-polen]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-det-kan-bli-manga-nya-jobb]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-det-har-ar-en-mycket-stor-affar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-det-har-varit-ovader-med-aska-och-blixtar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-forra-veckan-drog-ett-ovader-in]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-da-var-det-ungefar-tusen-nedslag]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-det-ar-ovanligt-for-sverige-sager-experter]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-i-sondags-slog-en-blixt-ner]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-sju-personer-i-en-familj-blev-traffade]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-fyra-personer-ar-kvar-pa-sjukhuset]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-de-senaste-dagarna-har-ukraina-gjort]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ukraina-har-dronare-som-flyger-in]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ryssland-sager-att-de-har-skjutit-ner]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ukraina-ska-gora-manga-attacker]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ukraina-gor-det-for-att-pressa-ryssland]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ryssland-borjade-kriga-mot-ukraina]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-da-tog-ryssland-makten-over]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ar-2022-startade-ryssland-sitt-stora-krig]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-nu-har-slutspelet-borjat-i-vm]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-i-slutspelet-maste-du-vinna-varje-match]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-sverige-ska-spela-mot-frankrike]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-frankrike-ar-det-nast-basta-laget]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-vi-maste-spela-var-basta-match]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-bollen-ar-rund-allt-kan-handa]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-flera-kanda-lag-ar-redan-ute-ur-vm]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-men-brasilien-ar-kvar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-det-har-blivit-mycket-dyrare-for-svt]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-nu-vill-regeringen-att-foretagen]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-tidigare-var-tv4-med-och-betalade]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-flera-personer-har-slutat-jobba-dar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-det-ar-inte-klart-hur-mycket-pengar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-svt-och-sveriges-radio-kallas-public-service]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-de-far-sina-pengar-fran-skatter]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
 | **— source-2026-06-30-svt-latt-svenska — 10词NEW / 5词组NEW / 15句NEW / 2语法NEW (DUP词: försvar, regering, öka, beställa; DUP语法: grammar-s-passiv) —** | | | | | | |
 | [[satsning]] | word | — | 0 | 2.5 | 2026-06-30 | no |
 | [[flygbolag]] | word | — | 0 | 2.5 | 2026-06-30 | no |
