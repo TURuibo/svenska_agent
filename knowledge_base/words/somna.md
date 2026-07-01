@@ -13,6 +13,7 @@ family: [sömn]
 topics: [topic-vardagsrutin]
 sentences:
   - sent-innan-jag-somnar-laser-jag-nagra-sidor
+  - sent-jag-somnar-snabbt-nar-jag
 known: false
 created: "2026-06-17"
 reviewed: ""
@@ -48,6 +49,7 @@ interval: 0
 - 🇸🇪 Innan jag somnar läser jag några sidor i en bok. — 🇨🇳 睡着之前，我会读几页书。
 - 🇸🇪 Barnet somnade snabbt. — 🇨🇳 孩子很快就睡着了。
 - 🇸🇪 Jag har svårt att somna när det är varmt. — 🇨🇳 天热的时候我很难入睡。
+- [[sent-jag-somnar-snabbt-nar-jag]] 🇸🇪 Jag somnar snabbt när jag kommer hem. — 🇨🇳 到家后我很快就睡着了。
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -12,6 +12,7 @@ family: [medicinsk, medicinera]
 topics: [topic-hälsa]
 sentences:
   - sent-batterier-gamla-mediciner-och-kemikalier
+  - sent-jag-delar-ut-mediciner-och-pratar
 known: false
 created: "2026-06-27"
 reviewed: ""
@@ -45,6 +46,7 @@ interval: 0
 **义项1 药品/药物:**
 - 🇸🇪 Gamla mediciner ska lämnas på en miljöstation, inte kastas i soporna. — 🇨🇳 旧药品应送到环保站，而不是扔进垃圾里。
 - 🇸🇪 Doktorn skrev ut en medicin mot min halsont. — 🇨🇳 医生给我开了一种治疗喉咙痛的药。
+- [[sent-jag-delar-ut-mediciner-och-pratar]] 🇸🇪 Jag delar ut mediciner och pratar med dem. — 🇨🇳 我分发药物，和他们聊天。
 
 **义项2 医学（学科）:**
 - 🇸🇪 Han studerar medicin vid universitetet i Uppsala. — 🇨🇳 他在乌普萨拉大学学习医学。

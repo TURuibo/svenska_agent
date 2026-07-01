@@ -3,7 +3,7 @@ type: topic
 slug: "topic-vård"
 zh: "护理与医疗"
 en: "healthcare and care"
-members: ["vårdbiträde", "äldreboende", "demens", "minnessvårighet"]
+members: ["vårdbiträde", "äldreboende", "demens", "minnessvårighet", "pass", "matsal"]
 created: "2026-06-25"
 ---
 
@@ -18,6 +18,8 @@ Ord och uttryck som handlar om vård, äldreomsorg och hälsa i yrkes- och varda
 - [[äldreboende]] — 养老院
 - [[demens]] — 痴呆症/失智症
 - [[minnessvårighet]] — 记忆障碍
+- [[pass]] — 班次；轮班
+- [[matsal]] — 餐厅（机构内）
 
 ## Relaterade ämnen (Related topics)
 

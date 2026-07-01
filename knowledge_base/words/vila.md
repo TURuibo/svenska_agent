@@ -11,7 +11,7 @@ synonyms: []
 antonyms: []
 family: [vila, vilsam]
 topics: [topic-hemmet, topic-vardagsrutin, topic-fritid-och-resor]
-sentences: [sent-jag-stadade-lite-tvattade-klader]
+sentences: [sent-jag-stadade-lite-tvattade-klader, sent-innan-jag-gar-till-jobbet-vilar]
 known: false
 created: "2026-06-22"
 reviewed: ""
@@ -51,6 +51,7 @@ interval: 0
 - 🇸🇪 På eftermiddagen vilade jag på soffan och tittade på TV. — 🇨🇳 下午我在沙发上休息，看了电视。
 - 🇸🇪 Du ser trött ut — du behöver vila lite. — 🇨🇳 你看起来很累——你需要休息一下。
 - 🇸🇪 Vi vilade under ett träd i parken efter promenaden. — 🇨🇳 散步后我们在公园的一棵树下休息。
+- [[sent-innan-jag-gar-till-jobbet-vilar]] 🇸🇪 Innan jag går till jobbet vilar jag en stund och äter lunch. — 🇨🇳 上班前我会休息一会儿，吃午饭。
 
 ## 词族 / 同义 / 反义 (Relations)
 

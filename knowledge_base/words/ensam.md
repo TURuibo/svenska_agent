@@ -11,7 +11,7 @@ synonyms: []
 antonyms: [tillsammans]
 family: []
 topics: [topic-karaktarsord]
-sentences: [sent-eftersom-astrid-var-ensam-kunde-hon]
+sentences: [sent-eftersom-astrid-var-ensam-kunde-hon, sent-manga-av-dem-ar-ensamma-och]
 known: false
 created: "2026-06-02"
 reviewed: ""
@@ -46,6 +46,7 @@ interval: 0
   🇨🇳 她独自一人住在市中心一套小公寓里。
 - 🇸🇪 Jag känner mig ibland **ensam** när vännerna inte är här.
   🇨🇳 朋友们不在的时候，我有时会感到孤独。
+- [[sent-manga-av-dem-ar-ensamma-och]] 🇸🇪 Många av dem är ensamma och gillar att berätta om sina liv. 🇨🇳 他们中很多人很孤独，喜欢讲述自己的人生。
 
 ## 词族 / 同义 / 反义 (Relations)
 

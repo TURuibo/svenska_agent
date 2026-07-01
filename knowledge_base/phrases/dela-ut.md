@@ -13,6 +13,7 @@ related: []
 topics: ["topic-uppfinning-och-teknik"]
 sentences:
   - "sent-det-delas-ut-i-stockholm-och-i-oslo"
+  - "sent-jag-delar-ut-mediciner-och-pratar"
 known: false
 created: "2026-06-25"
 reviewed: ""
@@ -48,4 +49,5 @@ interval: 0
 - [[sent-det-delas-ut-i-stockholm-och-i-oslo]] 🇸🇪 Det delas ut i Stockholm och i Oslo. 🇨🇳 颁奖典礼在斯德哥尔摩和奥斯陆举行。
 - 🇸🇪 Nobelpriset delas ut varje år i december. 🇨🇳 诺贝尔奖每年12月颁发。
 - 🇸🇪 Läraren delade ut böckerna till eleverna. 🇨🇳 老师把书发给了学生们。
+- [[sent-jag-delar-ut-mediciner-och-pratar]] 🇸🇪 Jag delar ut mediciner och pratar med dem. 🇨🇳 我分发药物，和他们聊天。
 - Se: [[source-2026-06-25-alfred-nobel]]

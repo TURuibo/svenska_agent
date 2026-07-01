@@ -3529,3 +3529,26 @@
 | [[sent-skärgården-har-över-30-000-öar-holmar-och-skär]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
 | [[sent-på-sommaren-åker-många-stockholmare-ut]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
 | [[sent-miljoner-turister-besöker-staden-varje-år]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| **— source-2026-07-01-min-vardag — 4词NEW / 2词组NEW / 15句NEW / 1语法NEW (DUP词: äldreboende, vila, medicin, ensam, nöjd, somna, tyst; DUP词组: dela-ut; DUP语法: bisats-forst-huvudsats-v2→enriched grammar-v2-ordfoljd) —** | | | | | | |
+| [[pass]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[matsal]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[nytta]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[stund]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[göra-nytta]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[på-väg-hem]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-for-konjunktion]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jag-heter-fatima-och-jag-bor]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jag-jobbar-pa-ett-aldreboende]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-mitt-pass-borjar-klockan-tva]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-innan-jag-gar-till-jobbet-vilar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-pa-aldreboendet-hjalper-jag-de]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jag-delar-ut-mediciner-och-pratar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-manga-av-dem-ar-ensamma-och]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-klockan-sex-serverar-vi-middag]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-efterat-spelar-vi-ibland-kort]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-mitt-pass-slutar-klockan-tio]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-da-ar-jag-trott-men-nojd]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jag-tycker-om-mitt-jobb-for]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-pa-vag-hem-tar-jag-bussen]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-det-ar-tyst-i-staden-pa]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jag-somnar-snabbt-nar-jag]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |

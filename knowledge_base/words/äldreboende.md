@@ -10,7 +10,7 @@ synonyms: []
 antonyms: []
 family: ["äldre", "bo"]
 topics: ["topic-vård"]
-sentences: []
+sentences: ["sent-jag-jobbar-pa-ett-aldreboende", "sent-pa-aldreboendet-hjalper-jag-de"]
 known: false
 created: "2026-06-25"
 reviewed: ""
@@ -44,6 +44,8 @@ interval: 0
 - 🇸🇪 Min mormor bor på ett äldreboende i Göteborg. — 🇨🇳 我外婆住在哥德堡的一家养老院。
 - 🇸🇪 Det finns många äldreboenden i Sverige. — 🇨🇳 瑞典有很多养老院。
 - 🇸🇪 Hon söker jobb på ett äldreboende nära hemmet. — 🇨🇳 她在家附近的养老院找工作。
+- [[sent-jag-jobbar-pa-ett-aldreboende]] 🇸🇪 Jag jobbar på ett äldreboende som heter Solgården. — 🇨🇳 我在一家叫 Solgården 的养老院工作。
+- [[sent-pa-aldreboendet-hjalper-jag-de]] 🇸🇪 På äldreboendet hjälper jag de äldre med olika saker. — 🇨🇳 在养老院，我帮老人们做各种事情。
 
 ## 词族 / 同义 / 反义 (Relations)
 

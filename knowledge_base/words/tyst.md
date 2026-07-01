@@ -10,7 +10,7 @@ synonyms: ["lugn", "stilla"]
 antonyms: ["livlig", "högljudd"]
 family: ["tystna", "tystnad"]
 topics: ["topic-djur"]
-sentences: []
+sentences: ["sent-det-ar-tyst-i-staden-pa"]
 known: false
 created: "2026-06-18"
 reviewed: ""
@@ -45,6 +45,7 @@ interval: 0
 - 🇸🇪 Var tyst, barnen sover! — 🇨🇳 安静点，孩子们在睡觉！
 - 🇸🇪 Biblioteket är alltid tyst. — 🇨🇳 图书馆总是很安静。
 - 🇸🇪 Katten satt tyst och tittade ut genom fönstret. — 🇨🇳 猫安静地坐着，望向窗外。
+- [[sent-det-ar-tyst-i-staden-pa]] 🇸🇪 Det är tyst i staden på natten. — 🇨🇳 夜晚城市很安静。
 
 ## 词族 / 同义 / 反义 (Relations)
 

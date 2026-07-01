@@ -5,7 +5,7 @@ zh: V2 语序（动词第二位）
 en: V2 word order
 level: SFI A / CEFR A1
 related: [grammar-bisats-biff, grammar-bisats-eftersom, grammar-att-sats, grammar-konditionell-topikalisering, grammar-det-finns, grammar-prepositioner-rum]
-examples: [sent-jag-arbetar-pa-ett-sjukhus, sent-eftersom-astrid-var-ensam-kunde-hon, sent-de-forstod-ocksa-att-barn-behover-leka, sent-de-var-oroliga-att-barn-som-laste-om-pippi, sent-sangens-star-langs-vaggen-under-sangen, sent-pa-sangen-ligger-en-kudde-och-en-filt, sent-bredvid-sangen-star-ett-litet-nattduksbord, sent-till-hoger-om-soffan-star-bokhylla, sent-sedan-tog-jag-tunnelbanan-in-till-stan, sent-vid-halv-nio-kom-jag-fram-till-centralstationen, sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex, sent-plotsligt-kande-jag-mig-valdigt-orolig, sent-antligen-kunde-jag-andas-ut, sent-till-slut-var-allt-bra-igen, sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort, sent-i-lordags-vaknade-jag-tidigt-fast, sent-pa-morgonen-lagade-jag-frukost-och-drack, sent-efter-frukosten-cyklade-jag-till-parken, sent-pa-eftermiddagen-handlade-vi-mat, sent-pa-sondagen-var-jag-lat, sent-pa-kvallen-ringde-jag-mina-foraldrar, sent-nasta-helg-hoppas-jag-att-vadret]
+examples: [sent-jag-arbetar-pa-ett-sjukhus, sent-eftersom-astrid-var-ensam-kunde-hon, sent-de-forstod-ocksa-att-barn-behover-leka, sent-de-var-oroliga-att-barn-som-laste-om-pippi, sent-sangens-star-langs-vaggen-under-sangen, sent-pa-sangen-ligger-en-kudde-och-en-filt, sent-bredvid-sangen-star-ett-litet-nattduksbord, sent-till-hoger-om-soffan-star-bokhylla, sent-sedan-tog-jag-tunnelbanan-in-till-stan, sent-vid-halv-nio-kom-jag-fram-till-centralstationen, sent-pa-morgonen-vaknade-jag-tidigt-redan-klockan-sex, sent-plotsligt-kande-jag-mig-valdigt-orolig, sent-antligen-kunde-jag-andas-ut, sent-till-slut-var-allt-bra-igen, sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort, sent-i-lordags-vaknade-jag-tidigt-fast, sent-pa-morgonen-lagade-jag-frukost-och-drack, sent-efter-frukosten-cyklade-jag-till-parken, sent-pa-eftermiddagen-handlade-vi-mat, sent-pa-sondagen-var-jag-lat, sent-pa-kvallen-ringde-jag-mina-foraldrar, sent-nasta-helg-hoppas-jag-att-vadret, sent-innan-jag-gar-till-jobbet-vilar, sent-pa-vag-hem-tar-jag-bussen]
 known: false
 created: 2026-06-02
 reviewed: ""
@@ -43,6 +43,8 @@ interval: 0
 - ✅ [[sent-plotsligt-kande-jag-mig-valdigt-orolig]] 🇸🇈 **Plötsligt** **kände** jag mig väldigt orolig. 🇨🇳 我突然感到非常担心。（副词 Plötsligt → 倒装）
 - ✅ [[sent-antligen-kunde-jag-andas-ut]] 🇸🇈 **Äntligen** **kunde** jag andas ut. 🇨🇳 终于，我可以松一口气了。（副词 Äntligen → 倒装）
 - ✅ [[sent-medan-jag-vantade-ringde-jag-till-banken-spärrade-kort]] 🇸🇈 **Medan jag väntade** **ringde** jag till banken. 🇨🇳 等候期间，我给银行打了电话。（时间从句前置 → 主句倒装）
+- ✅ [[sent-innan-jag-gar-till-jobbet-vilar]] 🇸🇪 **Innan jag går till jobbet** **vilar** jag en stund. 🇨🇳 上班前我会休息一会儿。（bisats 前置 → 主句动词 vilar 紧跟逗号后）
+- ✅ [[sent-pa-vag-hem-tar-jag-bussen]] 🇸🇪 **På väg hem** **tar** jag bussen. 🇨🇳 回家路上我坐公交车。（状语短语前置 → 倒装）
 - ❌ Idag jag arbetar hemma. ← 忘记倒装，动词跑到第3位
 
 ## 常见错误 (Common Mistakes)

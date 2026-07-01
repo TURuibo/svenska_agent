@@ -10,7 +10,7 @@ synonyms: []
 antonyms: ["[[missnöjd]]"]
 family: []
 topics: ["[[topic-personer]]", "[[topic-karaktarsord]]"]
-sentences: []
+sentences: ["sent-da-ar-jag-trott-men-nojd"]
 known: false
 created: "2026-06-20"
 reviewed: ""
@@ -50,6 +50,7 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 - 🇸🇪 Jag är nöjd med mitt arbete. — 🇨🇳 我对我的工作很满意。
 - 🇸🇪 Är du nöjd med maten? — 🇨🇳 你对食物满意吗？
 - 🇸🇪 Barnet ser nöjt ut. — 🇨🇳 那个孩子看起来很满足。
+- [[sent-da-ar-jag-trott-men-nojd]] 🇸🇪 Då är jag trött men nöjd. — 🇨🇳 那时我很累，但很满足。
 
 ## 词族 / 同义 / 反义 (Relations)
 
