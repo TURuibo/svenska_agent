@@ -10,7 +10,7 @@ synonyms: []
 antonyms: []
 family: []
 topics: [topic-fritid-och-resor, topic-social-kontakt]
-sentences: [sent-säg-till-om-det-passar]
+sentences: [sent-säg-till-om-det-passar, sent-om-ingen-tid-passar]
 known: false
 created: "2026-06-20"
 reviewed: ""
@@ -47,6 +47,7 @@ interval: 0
 - 🇸🇪 Säg till om det passar! — 🇨🇳 合适的话告诉我一声！
 - 🇸🇪 Passar söndag för dig? — 🇨🇳 周日对你合适吗？
 - 🇸🇪 Det passar perfekt, vi ses då! — 🇨🇳 完全合适，到时见！
+- 🇸🇪 Om ingen tid passar, kontakta mig på e-post. — 🇨🇳 如果没有合适的时间，请通过邮件联系我。
 
 **义项 2 — 照看 (to watch over):**
 - 🇸🇪 Kan du passa barnen en stund? — 🇨🇳 你能照看孩子们一会儿吗？

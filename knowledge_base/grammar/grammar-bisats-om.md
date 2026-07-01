@@ -4,7 +4,7 @@ name: "bisats-om"
 zh: "om 引导的从句（是否/如果）"
 en: "subordinate clause with om (whether / if)"
 level: "A2"
-related: [grammar-bisats, grammar-bisats-biff, grammar-bisats-eftersom, grammar-nar-bisats]
+related: [grammar-bisats, grammar-bisats-biff, grammar-bisats-eftersom, grammar-nar-bisats, grammar-om-bisats-forst-imperativ]
 examples: [sent-jag-tänkte-höra-om-du-är-ledig, sent-vi-kan-ses-där-först-om-du-vill, sent-säg-till-om-det-passar]
 known: false
 created: "2026-06-20"
@@ -65,4 +65,5 @@ Jag vet inte   om  hon  inte         kommer.
 - 📎 [[grammar-bisats]] — 从句总论
 - 📎 [[grammar-bisats-biff]] — 从句中的 BIFF 否定词规则
 - 📎 [[grammar-bisats-eftersom]] — 因为从句
-- 📎 [[grammar-nar-bisats]] — när 时间从句
+- 📎 [[grammar-nar-bisats]] — når 时间从句
+- 📎 [[grammar-om-bisats-forst-imperativ]] — om-从句前置 + 主句祈使句（特例）

@@ -11,7 +11,7 @@ synonyms: [trivas bra, ha det bra]
 antonyms: []
 family: [trivsel, trivsamhet]
 topics: []
-sentences: []
+sentences: [sent-vi-vill-traffa-er-for]
 known: false
 created: "2026-06-09"
 reviewed: ""
@@ -47,6 +47,7 @@ interval: 0
 - 🇸🇪 Zlatans föräldrar trivdes inte ihop och skilde sig. — 🇨🇳 兹拉坦的父母合不来，最终离婚了。
 - 🇸🇪 Jag trivs bra i Stockholm — det är en fin stad. — 🇨🇳 我在斯德哥尔摩感觉很好——这是个好地方。
 - 🇸🇪 Trivs du på din nya skola? — 🇨🇳 你喜欢你的新学校吗？
+- 🇸🇪 Vi vill prata om hur ert barn trivs i skolan. — 🇨🇳 我们想聊聊您的孩子在学校过得怎么样。
 
 ## 词族 / 同义 / 反义 (Relations)
 
@@ -59,4 +60,4 @@ interval: 0
 
 - Deponens（去主动态）：形式像 s-passiv，意思却是主动的。类似动词：`hoppas`（希望）、`minnas`（记得）。
 - 不能说 `*de trivde` — 必须保留 -s：`trivdes`。
-- 来源: [[source-2026-06-09-zlatan-bio]]
+- 来源: [[source-2026-06-09-zlatan-bio]], [[source-2026-07-01-skolinfo-utvecklingssamtal]]

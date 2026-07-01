@@ -5,7 +5,7 @@ zh: "被动形式主动意义动词"
 en: "deponent verbs (–s form with active meaning)"
 level: "SFI C / B1"
 related: ["grammar-passiv-med-s", "grammar-presens"]
-examples: []
+examples: [sent-vi-vill-traffa-er-for]
 known: false
 created: 2026-06-10
 reviewed: ""
@@ -54,6 +54,7 @@ Notera: "finnas" och "andas" är vanliga; [[födas]] och [[skiljas]] är central
 - ✅ [[sent-han-foddes-1981-rosengard]] Zlatan föddes 1981 i Rosengård. — 🇨🇳 Zlatan 1981年出生于罗森园区。
 - ✅ De skildes efter lång tid tillsammans. — 🇨🇳 他们在长期共同生活后分开了。
 - ✅ Jag hoppas att han gör mål. — 🇨🇳 我希望他进球。
+- ✅ [[sent-vi-vill-traffa-er-for]] Vi vill prata om hur ert barn trivs i skolan. — 🇨🇳 我们想聊聊您的孩子在学校过得怎么样。
 - ❌ "Jag hoppas inte passiveras" — deponensverb kan inte omvandlas till aktiv form.
 
 ## 常见错误 (Common Mistakes)

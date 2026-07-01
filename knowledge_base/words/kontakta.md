@@ -11,7 +11,7 @@ synonyms: []
 antonyms: []
 family: []
 topics: [topic-skola-och-utbildning, topic-social-kontakt]
-sentences: [sent-om-du-inte-kan-komma]
+sentences: [sent-om-du-inte-kan-komma, sent-om-ingen-tid-passar]
 known: false
 created: "2026-06-24"
 reviewed: ""
@@ -47,6 +47,7 @@ interval: 0
 - 🇸🇪 Om du inte kan komma, kontakta oss [[snarast-möjligt|snarast möjligt]]. — 🇨🇳 如果您无法前来，请尽快联系我们。
 - 🇸🇪 Du kan kontakta skolan via e-post eller telefon. — 🇨🇳 您可以通过电子邮件或电话联系学校。
 - 🇸🇪 Jag kontaktade läkaren för att boka en tid. — 🇨🇳 我联系了医生预约了时间。
+- 🇸🇪 Om ingen tid passar, kontakta mig på e-post. — 🇨🇳 如果没有合适的时间，请通过邮件联系我。
 
 ## 词族 / 同义 / 反义 (Relations)
 

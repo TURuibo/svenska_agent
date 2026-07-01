@@ -8,6 +8,20 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-07-01-skolinfo-utvecklingssamtal — 3词NEW / 3词组NEW / 6句NEW / 1语法NEW (DUP词: trivas, klasslärare, kontakta, passa, ledig; DUP语法: grammar-deponensverb, grammar-bisats-om) —** | | | | | | |
+| [[läsning]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[matematik]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[framöver]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[ta-cirka-20-minuter]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[skriv-ditt-barns-namn-pa-listan]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[om-ingen-tid-passar]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-om-bisats-forst-imperativ]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-nu-ar-det-dags-for]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-vi-vill-traffa-er-for]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-hur-gar-det-med-lasning]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-samtalet-tar-cirka-20-minuter]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-valj-en-tid-nedan]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-om-ingen-tid-passar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
 | **— source-2026-07-01-8-sidor-news — 6词NEW / 6词组NEW / 40句NEW / 3语法NEW (DUP词: ubåt, fabrik, satsa, miljard, oväder, åska, blixt, ovanlig, träffa, sår, drönare, spränga, ledare, slutspel, regering, spara, handla, kriga; DUP词组: handla-om, slå-ner) —** | | | | | | |
 | [[statsminister]] | word | — | 0 | 2.5 | 2026-07-01 | no |
 | [[pressa]] | word | — | 0 | 2.5 | 2026-07-01 | no |

@@ -8,8 +8,8 @@ en: free; vacant; available
 synonyms: []
 antonyms: []
 family: []
-topics: []
-sentences: []
+topics: [topic-skola-och-utbildning]
+sentences: [sent-valj-en-tid-nedan]
 known: false
 created: "2026-06-09"
 reviewed: ""
@@ -43,6 +43,7 @@ interval: 0
 - 🇸🇪 Är det bordet i hörnet ledigt? — 🇨🇳 角落那张桌子是空的吗？
 - 🇸🇪 Jag har ledigt på fredag. — 🇨🇳 我周五休息。
 - 🇸🇪 Finns det lediga platser på tåget? — 🇨🇳 火车上有空位吗？
+- 🇸🇪 Tiden på måndag 15.00–15.20 är ledig. — 🇨🇳 周一15:00–15:20这个时段是空闲的。
 
 ## 词族 / 同义 / 反义 (Relations)
 
@@ -53,3 +54,4 @@ interval: 0
 
 - *Ha ledigt* = 有空、不上班；*ett ledigt bord* = 一张空桌。
 - *Ledig tjänst* = 空缺职位（招聘语境）。
+- 时刻表/表格中常见 `Ledig: Ja/Nej` 列，直接用形容词表示"该时段是否空闲"。

@@ -45,6 +45,7 @@ interval: 0
 - 🇸🇪 Fatima Andersson är klasslärare i klass 4B. — 🇨🇳 Fatima Andersson是4B班的班主任。
 - 🇸🇪 Du kan kontakta klassläraren om du har frågor. — 🇨🇳 如果您有问题，可以联系班主任。
 - 🇸🇪 Barnets klasslärare bjöd in föräldrarna till ett möte. — 🇨🇳 孩子的班主任邀请家长来开会。
+- 🇸🇪 Lena Ström är klasslärare i klass 2C på Björkbacken skola. — 🇨🇳 Lena Ström是Björkbacken学校2C班的班主任。
 
 ## 词族 / 同义 / 反义 (Relations)
 
