@@ -8,6 +8,24 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-07-01-intervju-bagare-yrke — 3词NEW / 3词组NEW / 9句NEW / 2语法NEW (DUP词: deg, doft, råd; DUP词组: ha-tålamod→见 tålamod; DUP句: sent-det-ar-mitt-favoritmoment) —** | | | | | | |
+| [[yrkesutbildning]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[lärling]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[jäsa]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[ångra-sig]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[stå-upp-tidigt]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[ta-tid]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jag-lärde-mig-baka-av-min-mormor]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-sedan-gick-jag-en-yrkesutbildning]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jag-vaknar-klockan-fyra-på-morgonen]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-degen-måste-jäsa-hela-natten]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ångrar-du-dig-aldrig]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jag-älskar-doften-av-nybakat-bröd]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-att-stå-upp-så-tidigt-och-att-arbeta]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ha-tålamod-2]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-ett-bra-bröd-tar-tid-precis-som]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-for-att-syfte-ska]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-maste-utan-att]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
 | **— source-2026-07-01-diskussion-viktigast-dar-ni-bor — 5词NEW / 2词组NEW / 11句NEW / 1语法NEW (DUP词: grönområde, bråka, bullrig; DUP词组: hålla-med; DUP语法: 概念并入既有 grammar-negation-i-fraga) —** | | | | | | |
 | [[lekplats]] | word | — | 0 | 2.5 | 2026-07-01 | no |
 | [[buller]] | word | — | 0 | 2.5 | 2026-07-01 | no |
