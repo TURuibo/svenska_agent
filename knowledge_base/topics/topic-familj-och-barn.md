@@ -3,7 +3,7 @@ type: topic
 name: "familj och barn"
 kind: semantic-field
 zh: 家庭与童年（语义场）
-members: [barndom, syskon, hemmafru, vuxen, saga, gravid, gift, förskola, skilja_sig, bråka, sambo, älska, familj, man, dotter, förälder, syster, granne, träffa, sakna]
+members: [barndom, syskon, hemmafru, vuxen, saga, gravid, gift, förskola, skilja_sig, bråka, sambo, älska, familj, man, dotter, förälder, syster, granne, träffa, sakna, grannsämja]
 created: "2026-06-02"
 ---
 
@@ -33,3 +33,4 @@ created: "2026-06-02"
 - 可扩充：mor/mamma (母亲), far/pappa (父亲), familj (家庭), barn (孩子), äktenskap (婚姻)...
 - `fosterfamilj` (寄养家庭) 出现在原文，可后续创建条目。
 - 2026-06-27 新增：[[familj]], [[man]], [[dotter]], [[förälder]], [[syster]], [[granne]], [[träffa]], [[sakna]] — 来自 [[source-2026-06-27-min-familj]]（Min familj — Aminas berättelse）。
+- 2026-07-01 新增：[[grannsämja]] — 来自 [[source-2026-07-01-diskussion-viktigast-dar-ni-bor]]（邻里和睦主题）。

@@ -8,6 +8,27 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-07-01-diskussion-viktigast-dar-ni-bor — 5词NEW / 2词组NEW / 11句NEW / 1语法NEW (DUP词: grönområde, bråka, bullrig; DUP词组: hålla-med; DUP语法: 概念并入既有 grammar-negation-i-fraga) —** | | | | | | |
+| [[lekplats]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[buller]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[gunga]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[knarra]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grannsämja]] | word | — | 0 | 2.5 | 2026-07-01 | no |
+| [[det-låter-jobbigt]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[lugn-och-ro]] | phrase | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-vad-ar-viktigast-i-omradet-dar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-tank-pa-gronomraden-lekplatser-buller]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jag-tycker-att-gronomraden-ar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jag-haller-med-men-for-mig]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-har-ni-ingen-lekplats-nara-er]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-jo-det-finns-en-lekplats-men]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-gungorna-knarrar]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-hos-oss-ar-lekplatsen-ny]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-vi-har-inga-bra-grannar-de]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-det-later-jobbigt]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[sent-grannsamjan-ar-ocksa-viktig-tycker]] | sentence | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-jo-svar-pa-nekande-fraga]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
+| [[grammar-hos-plats-uttryck]] | grammar | — | 0 | 2.5 | 2026-07-01 | no |
 | **— source-2026-07-01-skolinfo-utvecklingssamtal — 3词NEW / 3词组NEW / 6句NEW / 1语法NEW (DUP词: trivas, klasslärare, kontakta, passa, ledig; DUP语法: grammar-deponensverb, grammar-bisats-om) —** | | | | | | |
 | [[läsning]] | word | — | 0 | 2.5 | 2026-07-01 | no |
 | [[matematik]] | word | — | 0 | 2.5 | 2026-07-01 | no |

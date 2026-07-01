@@ -78,6 +78,10 @@ members:
   - lykta
   - gågata
   - promenadstråk
+  - lekplats
+  - buller
+  - gunga
+  - knarra
 created: "2026-06-09"
 ---
 
@@ -143,9 +147,15 @@ created: "2026-06-09"
 - [[förmiddag]] — 上午
 - [[rörelse]] — 运动；活动
 - [[ägare]] — 主人
+- [[lekplats]] — 游乐场
+- [[buller]] — 噪音
+- [[gunga]] — 秋千
+
+### 动词 (Verb)
+- [[knarra]] — 吱吱作响
 
 ## 备注 (Notes)
 
-- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]], [[source-2026-06-25-stad-trafik]]
+- 来源：[[source-2026-06-09-beskriva-en-gata]], [[source-2026-06-15-stad-trafik]], [[source-2026-06-25-stad-trafik]], [[source-2026-07-01-diskussion-viktigast-dar-ni-bor]]
 - 核心语法：[[grammar-ligga-sta-sitta]]，[[grammar-det-finns]]，[[grammar-prepositioner-rum]]，[[grammar-presens]]
 - 相关主题：[[topic-rumsliga-relationer]]，[[topic-trafik]]，[[topic-riktningar]]
