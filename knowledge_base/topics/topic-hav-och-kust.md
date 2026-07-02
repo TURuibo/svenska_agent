@@ -4,7 +4,7 @@ slug: topic-hav-och-kust
 name: "Hav, kust & skärgård"
 zh: "海洋、海岸与群岛"
 en: "Sea, coast & archipelago"
-members: ["strömming", "skärgård"]
+members: ["strömming", "skärgård", "hav"]
 created: "2026-06-29"
 ---
 
@@ -18,6 +18,7 @@ created: "2026-06-29"
 |----|------|------|
 | [[strömming]] | substantiv (en) | 波罗的海鲱鱼 |
 | [[skärgård]] | substantiv (en) | 群岛，列岛 |
+| [[hav]] | substantiv (ett) | 海；大海 |
 
 ## 相关词汇 (Related)
 

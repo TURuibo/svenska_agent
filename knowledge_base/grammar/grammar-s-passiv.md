@@ -5,7 +5,7 @@ zh: "s-被动态"
 en: "s-passive voice"
 level: "A2–B1"
 related: ["grammar-passiv-med-s", "grammar-bli-passiv-perfekt", "grammar-s-passiv-i-perfekt", "grammar-s-verb-reciprok"]
-examples: ["sent-huset-kallades-ett-langhus"]
+examples: ["sent-huset-kallades-ett-langhus", "sent-nu-döms-mamman-till-sex-års"]
 known: false
 created: "2026-06-27"
 reviewed: ""
@@ -64,6 +64,7 @@ s-被动: Subjekt(患者) + VERB-s
 ## 例句 (Examples)
 
 - ✅ [[sent-huset-kallades-ett-langhus]] 🇸🇪 Huset kallades ett långhus. 🇨🇳 这种房子被称为"长屋"。
+- ✅ [[sent-nu-döms-mamman-till-sex-års]] 🇸🇪 Nu döms mamman till sex års fängelse. 🇨🇳 现在这位母亲被判处六年监禁。
 - ✅ 🇸🇪 Svenska talas i Sverige. 🇨🇳 瑞典语在瑞典被使用。
 - ❌ `Huset kallas ett långhus av vikingarna.` ← 施事者引入用 `av`，但在口语中不常见
 

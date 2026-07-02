@@ -11,7 +11,7 @@ head_words: [lag]
 grammar: []
 related: [ta-en-plats, satsa-pa]
 topics: [topic-fotboll]
-sentences: [sent-zlatan-mycket-bra-karriar-mal]
+sentences: [sent-zlatan-mycket-bra-karriar-mal, sent-sverige-lyckades-länge-stoppa-frankrike, sent-då-gjorde-kylian-mbappé]
 known: false
 created: "2026-06-09"
 reviewed: ""
@@ -48,4 +48,6 @@ interval: 0
 
 - [[sent-zlatan-mycket-bra-karriar-mal]] 🇸🇪 Zlatan har gjort många mål för sina klubblag och i det svenska landslaget. 🇨🇳 兹拉坦为俱乐部和国家队打进了很多球。
 - 🇸🇪 Vem gjorde mål i matchen? 🇨🇳 谁在比赛中进球了？
-- 来源: [[source-2026-06-09-zlatan-bio]]
+- [[sent-sverige-lyckades-länge-stoppa-frankrike]] 🇸🇪 Sverige lyckades länge stoppa Frankrike från att göra mål. 🇨🇳 瑞典长时间成功阻止法国进球。
+- [[sent-då-gjorde-kylian-mbappé]] 🇸🇪 Då gjorde Kylian Mbappé 1–0 till Frankrike. 🇨🇳 那时姆巴佩为法国打入1比0的进球。
+- 来源: [[source-2026-06-09-zlatan-bio]], [[source-2026-07-02-8-sidor-news]]
