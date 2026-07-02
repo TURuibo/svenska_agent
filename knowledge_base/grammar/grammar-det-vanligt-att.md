@@ -5,7 +5,7 @@ zh: "形式主语句型（Det är vanligt att + 不定式）"
 en: "formal subject construction with det"
 level: "A2"
 related: [grammar-att-bisats, grammar-infinitiv, grammar-det-finns]
-examples: []
+examples: ["sent-i-sverige-är-det-vanligt", "sent-det-har-blivit-vanligt-bland-unga"]
 known: false
 created: "2026-06-27"
 reviewed: ""
@@ -49,6 +49,7 @@ Det      är       vanligt    att   inleda ett samtal med att prata om vädret.
 - ✅ Det är viktigt att kolla väderprognosen på vintern. 🇨🇳 冬天查天气预报很重要。
 - ✅ Det är roligt att lära sig svenska. 🇨🇳 学瑞典语很有趣。
 - ❌ Det vanligt att prata om väder. ← 漏掉 är
+- ✅ [[sent-det-har-blivit-vanligt-bland-unga]] 🇸🇪 Det har blivit vanligt bland unga personer att tipsa varandra om saker de kan göra utan mobil. 🇨🇳 年轻人之间流行互相推荐不需要手机就能做的事情。（`har blivit` 变体：从"变得常见"而非静态"是常见的"）
 - ❌ Det är vanlig att ... ← 错误形式；形容词应用 neutrum：vanligt（-t）
 
 ## 常见错误 (Common Mistakes)

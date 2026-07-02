@@ -14,6 +14,7 @@ topics: [topic-krig-och-konflikt]
 sentences:
   - sent-han-doms-till-livstids-fangelse
   - sent-mannen-som-kastade-handgranaten-doms-till-fangelse
+  - sent-nu-döms-mamman-till-sex-års
 known: false
 created: "2026-06-24"
 reviewed: ""
@@ -49,3 +50,4 @@ interval: 0
 - [[sent-han-doms-till-livstids-fangelse]] 🇸🇪 Han döms till livstids fängelse. 🇨🇳 他被判处无期徒刑。
 - [[sent-mannen-som-kastade-handgranaten-doms-till-fangelse]] 🇸🇪 Mannen som kastade handgranaten döms till fängelse i nästan 14 år. 🇨🇳 投掷手榴弹的男子被判处近14年有期徒刑。
 - 🇸🇪 Han dömdes till tre års fängelse för bedrägeriet. 🇨🇳 他因欺诈罪被判处三年有期徒刑。
+- [[sent-nu-döms-mamman-till-sex-års]] 🇸🇪 Nu döms mamman till sex års fängelse. 🇨🇳 现在这位母亲被判处六年监禁。

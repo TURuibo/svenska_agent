@@ -15,6 +15,10 @@ members:
   - brott
   - domstol
   - fängelse
+  - brand
+  - rättegång
+  - larma
+  - socialtjänst
 created: "2026-06-27"
 ---
 
@@ -35,6 +39,10 @@ created: "2026-06-27"
 - [[domstol]] — 法院（已有）
 - [[fängelse]] — 监狱（已有）
 - [[döma]] — 判决（已有）
+- [[brand]] — 火灾
+- [[rättegång]] — 审判；诉讼
+- [[larma]] — 报警；发出警报
+- [[socialtjänst]] — 社会服务部门
 
 ## 相关语法 (Grammar)
 
@@ -45,3 +53,4 @@ created: "2026-06-27"
 
 - [[source-2026-06-27-nyheter-8sidor]]
 - [[source-2026-06-25-nyheter-8sidor]]
+- [[source-2026-07-02-8-sidor-news]]

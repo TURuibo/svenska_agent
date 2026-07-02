@@ -24,6 +24,8 @@ members:
   - badplats
   - jordbruk
   - fabrik
+  - hav
+  - suga
 created: "2026-06-22"
 ---
 
@@ -53,6 +55,8 @@ created: "2026-06-22"
 - [[badplats]] — 游泳场所；海滩
 - [[jordbruk]] — 农业；农场
 - [[fabrik]] — 工厂
+- [[hav]] — 海；大海（海洋变暖）
+- [[suga]] — 吸；吸收（海洋吸收热量）
 
 ## 备注 (Notes)
 

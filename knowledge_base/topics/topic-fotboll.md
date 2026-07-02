@@ -3,7 +3,7 @@ type: topic
 name: "fotboll"
 kind: semantic-field
 zh: 足球（语义场）
-members: [lagkamrat, motspelare, lag, plats, satsa, proffs, landslag, ta-en-plats, gora-mal, satsa-pa, känd, föda, spelare]
+members: [lagkamrat, motspelare, lag, plats, satsa, proffs, landslag, ta-en-plats, gora-mal, satsa-pa, känd, föda, spelare, halvlek, förtjäna, tävla]
 created: "2026-06-09"
 ---
 
@@ -30,6 +30,9 @@ created: "2026-06-09"
 - [[gora-mal]] — 进球 (score a goal)
 - [[satsa-pa]] — 投入于；追求 (go for, focus on)
 - [[spelare]] — 运动员；球员 (player, athlete)
+- [[halvlek]] — 半场 (half of a match)
+- [[förtjäna]] — 应得；值得 (deserve)
+- [[tävla]] — 比赛；竞赛 (compete)
 
 ## 代表人物 (Example)
 

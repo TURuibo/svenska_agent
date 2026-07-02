@@ -11,7 +11,7 @@ head_words: []
 grammar: []
 related: ["slutspel", "förlora"]
 topics: ["topic-fotboll"]
-sentences: []
+sentences: ["sent-nu-är-sverige-ute-ur-vm"]
 known: false
 created: "2026-07-01"
 reviewed: ""
@@ -45,3 +45,4 @@ interval: 0
 
 - 🇸🇪 Annars är du ute ur tävlingen. — 🇨🇳 否则就会被淘汰出局。
 - 🇸🇪 Flera kända lag är redan ute ur VM. — 🇨🇳 多支知名球队已经出局。
+- [[sent-nu-är-sverige-ute-ur-vm]] 🇸🇪 Nu är Sverige ute ur VM. — 🇨🇳 瑞典现已被淘汰出世界杯。
