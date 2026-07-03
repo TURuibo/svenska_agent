@@ -8,6 +8,14 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-07-03-adjsubst-hem-mobler — 7词NEW / 0词组NEW / 0句NEW / 0语法NEW (DUP词: kall, kylskåp, tyst, tvättmaskin, fräsch, varm, trång, balkong, vild, trädgård, stabil, tjock, element; [[vild]] 补充"狂乱的"义项例句) —** | | | | | | |
+| [[rymlig]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[garderob]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[handduk]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[dusch]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sliten]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[madrass]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[vas]] | word | — | 0 | 2.5 | 2026-07-03 | no |
 | **— source-2026-07-03-anslag-vattenavstangning-container — 5词NEW / 1词组NEW / 8句NEW / 1语法NEW (DUP词: hink, vaktmästare, tålamod; DUP词组: med-vänlig-hälsning; DUP语法: grammar-s-passiv) —** | | | | | | |
 | [[stambyte]] | word | — | 0 | 2.5 | 2026-07-03 | no |
 | [[rör]] | word | — | 0 | 2.5 | 2026-07-03 | no |

@@ -20,6 +20,8 @@ members:
   - skåp
   - spegel
   - byrå
+  - garderob
+  - madrass
 created: "2026-06-09"
 ---
 
@@ -45,9 +47,12 @@ created: "2026-06-09"
 - [[skåp]] — 橱柜；柜子
 - [[spegel]] — 镜子
 - [[byrå]] — 梳妆台；抽屉柜
+- [[garderob]] — 衣柜；衣帽间
+- [[madrass]] — 床垫
 
 ## 备注 (Notes)
 
 - 家具类词汇，来源：[[source-2026-06-09-rumsliga-relationer]]
 - 相关主题：[[topic-hemmet]]，[[topic-rumsliga-relationer]]
 - 位置动词：大多数家具用 **stå**（竖立）；地毯用 **ligga**（平铺）
+- 2026-07-03 新增：[[garderob]]、[[madrass]] — 来自 [[source-2026-07-03-adjsubst-hem-mobler]]（adj+subst 变形练习）。

@@ -33,6 +33,9 @@ members:
   - hall
   - badkar
   - diskbänk
+  - handduk
+  - dusch
+  - vas
 created: "2026-06-09"
 ---
 
@@ -72,6 +75,11 @@ created: "2026-06-09"
 - [[krukväxt]] — 盆栽植物
 - [[television]] — 电视机
 - [[dator]] — 电脑
+- [[vas]] — 花瓶
+
+### 浴室用品 (Badrum)
+- [[handduk]] — 毛巾
+- [[dusch]] — 淋浴
 
 ### 建筑空间 (Utrymmen)
 - [[kök]] — 厨房
@@ -90,3 +98,4 @@ created: "2026-06-09"
 - 来源：[[source-2026-06-09-rumsliga-relationer]]
 - 相关主题：[[topic-mobler]]，[[topic-rumsliga-relationer]]
 - 2026-07-03 新增：[[diskbänk]] — 来自 [[source-2026-07-03-felanmalan-hyresvard]]（报修信场景）。
+- 2026-07-03 新增：[[handduk]]、[[dusch]]、[[vas]] — 来自 [[source-2026-07-03-adjsubst-hem-mobler]]（adj+subst 变形练习）。
