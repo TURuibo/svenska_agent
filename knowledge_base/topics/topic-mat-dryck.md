@@ -109,6 +109,7 @@ members:
   - fisk
   - mörk
   - brun
+  - grilla
 created: 2026-06-11
 ---
 
@@ -180,6 +181,7 @@ created: 2026-06-11
 - [[öl]] — 啤酒（新）
 - [[äppelpaj]] — 苹果派（新）
 - [[vegetarisk]] — 素食的（新）
+- [[grilla]] — 烧烤（动词，新，2026-07-03）
 
 **Allergi & specialkost (过敏/特殊饮食)**
 - [[allergisk]] — 过敏的

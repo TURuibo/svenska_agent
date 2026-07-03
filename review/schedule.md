@@ -3641,3 +3641,13 @@
 | [[sent-skärgården-har-över-30-000-öar-holmar-och-skär]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
 | [[sent-på-sommaren-åker-många-stockholmare-ut]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
 | [[sent-miljoner-turister-besöker-staden-varje-år]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| **— source-2026-07-03-inbjudan-kalas — 2词NEW / 1词组NEW / 6句NEW / 0语法NEW (DUP词: flytta, balkong, dryck, kram; DUP词组: se-fram-emot-att, ta-med; DUP语法: grammar-partikelverb, grammar-imperativ) —** | | | | | | |
+| [[inflyttningsfest]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[grilla]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[flytta-in]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vi-har-äntligen-flyttat-in]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vi-grillar-och-äter-tillsammans]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-ta-gärna-med-en-flaska-dryck]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-barn-är-också-välkomna]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-osa-senast-den-15-augusti]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vi-ser-fram-emot-att-se-er]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
