@@ -32,6 +32,7 @@ members:
   - tak
   - hall
   - badkar
+  - diskbänk
 created: "2026-06-09"
 ---
 
@@ -81,7 +82,11 @@ created: "2026-06-09"
 - [[tak]] — 天花板；屋顶
 - [[badkar]] — 浴缸
 
+### 厨房用品（新增）
+- [[diskbänk]] — 洗碗池台面
+
 ## 备注 (Notes)
 
 - 来源：[[source-2026-06-09-rumsliga-relationer]]
 - 相关主题：[[topic-mobler]]，[[topic-rumsliga-relationer]]
+- 2026-07-03 新增：[[diskbänk]] — 来自 [[source-2026-07-03-felanmalan-hyresvard]]（报修信场景）。
