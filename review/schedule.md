@@ -8,6 +8,34 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-07-03-anslag-vattenavstangning-container — 5词NEW / 1词组NEW / 8句NEW / 1语法NEW (DUP词: hink, vaktmästare, tålamod; DUP词组: med-vänlig-hälsning; DUP语法: grammar-s-passiv) —** | | | | | | |
+| [[stambyte]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[rör]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[byggavfall]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[byggmaterial]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[hushållssopor]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[ber-om-ert-tålamod]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vi-byter-ut-vattenrören-i-fastigheten]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-arbetet-börjar-måndagen-den-13-juli]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vattnet-stängs-av-varje-dag-mellan]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-fyll-gärna-en-hink-med-vatten]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-en-stor-container-för-byggavfall-står]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-den-är-bara-för-byggmaterial-inte]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-har-du-frågor-ring-vaktmästaren-på]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vi-ber-om-ert-tålamod-under]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[grammar-tidsprepositioner]] | grammar | — | 0 | 2.5 | 2026-07-03 | no |
+| **— source-2026-07-03-mejl-till-hyresvarden — 2词NEW / 2词组NEW / 7句NEW / 0语法NEW (DUP词: kollega, sköta, tacksam; DUP语法: grammar-ska-infinitiv, grammar-bisats-om) —** | | | | | | |
+| [[andrahandsuthyrning]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[blankett]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[hyra-ut-i-andra-hand]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[tacksam-för-svar]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-har-hyrt-lägenheten-sedan]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-ska-arbeta-i-tyskland]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-därför-skriver-jag-för-att]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-min-kollega-sofia-kan-bo]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-hon-röker-inte-och-har]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-kan-ni-skicka-mig-blanketten]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-tacksam-för-svar]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
 | **— source-2026-07-03-8-sidor-news — 9词NEW / 3词组NEW / 34句NEW / 0语法NEW (DUP词: bomba, huvudstad, skada, kriga, misstänkt, gripa, brott, domstol, döma, konsument, sänka, skatt, val, kontant, mynt, apotek, lag, gälla, förbjuda, kusin, förskola; DUP词组: på-grund-av, gifta-sig-med(已用今日例句丰富); DUP语法已丰富例句: grammar-s-passiv, grammar-att-sats) —** | | | | | | |
 | [[döda]] | word | — | 0 | 2.5 | 2026-07-03 | no |
 | [[attackera]] | word | — | 0 | 2.5 | 2026-07-03 | no |
