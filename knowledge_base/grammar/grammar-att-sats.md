@@ -5,7 +5,7 @@ zh: att从句（宾语从句与主语从句）
 en: att-clause (complement clause with att = that)
 level: SFI B-C / CEFR A2
 related: [grammar-bisats-eftersom, grammar-v2-ordfoljd]
-examples: [sent-de-forstod-ocksa-att-barn-behover-leka, sent-de-var-oroliga-att-barn-som-laste-om-pippi]
+examples: [sent-de-forstod-ocksa-att-barn-behover-leka, sent-de-var-oroliga-att-barn-som-laste-om-pippi, sent-ryssland-sager-att-det-ar-ett-svar, sent-det-gar-inte-att-bevisa-att]
 known: false
 created: "2026-06-02"
 reviewed: ""
@@ -70,6 +70,8 @@ Jag vet att hon inte är hemma.  (不是 *...att hon är inte hemma*)
 
 - ✅ [[sent-de-forstod-ocksa-att-barn-behover-leka]] 🇸🇪 De förstod också **att** barn behöver leka **för att** må bra. 🇨🇳 他们也理解孩子需要玩耍才能身心健康。
 - ✅ [[sent-de-var-oroliga-att-barn-som-laste-om-pippi]] 🇸🇪 De var oroliga **att** barn som läste om Pippi skulle börja göra som henne. 🇨🇳 他们担心读了皮皮故事的孩子会开始模仿她。
+- ✅ [[sent-ryssland-sager-att-det-ar-ett-svar]] 🇸🇪 Ryssland säger **att** det är ett svar på Ukrainas attacker. 🇨🇳 俄罗斯称这是对乌克兰袭击的回应。
+- ✅ [[sent-det-gar-inte-att-bevisa-att]] 🇸🇪 Det går inte att bevisa **att** hon gjort något brott. 🇨🇳 无法证明她犯了罪。（注意：先有 `att + infinitiv`，再嵌套一个 `att`-从句）
 - ❌ *De förstod att barn inte är trött.* ← 注意：不是 *att barn är inte trött*
 
 ## 常见错误 (Common Mistakes)

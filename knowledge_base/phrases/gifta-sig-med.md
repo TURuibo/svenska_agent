@@ -11,7 +11,7 @@ head_words: ["gift"]
 grammar: ["grammar-reflexivt-verb"]
 related: []
 topics: ["topic-midsommar-traditioner"]
-sentences: []
+sentences: [sent-det-blir-forbjudet-for-kusiner]
 known: false
 created: "2026-06-18"
 reviewed: ""
@@ -45,3 +45,4 @@ interval: 0
 
 - [[sent-de-hoppas-att-de-ska-drömma]] 🇸🇪 De hoppas att de ska drömma om vem de ska gifta sig med i framtiden. 🇨🇳 他们希望梦到将来要嫁/娶的人。
 - 🇸🇪 De gifte sig i Stockholm förra sommaren. — 🇨🇳 他们去年夏天在斯德哥尔摩结婚了。
+- [[sent-det-blir-forbjudet-for-kusiner]] 🇸🇪 Det blir förbjudet för kusiner att gifta sig med varandra. 🇨🇳 表亲之间结婚将被禁止。（2026年7月1日起瑞典新法）
