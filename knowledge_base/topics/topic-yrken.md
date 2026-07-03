@@ -3,7 +3,7 @@ type: topic
 name: "yrken"
 kind: semantic-field
 zh: 职业（语义场）
-members: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba, författare, proffs, barista, kassör, läkare, bagare, hantverksbageri]
+members: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba, författare, proffs, barista, kassör, läkare, bagare, hantverksbageri, rörmokare]
 created: "2026-06-02"
 ---
 
@@ -33,3 +33,4 @@ created: "2026-06-02"
 - 可扩充：läkare (医生), lärare (教师), chef (老板), arbetare (工人)...
 - 与 [[topic-arbete]] 有交叉（参见该话题的工作相关动词/名词）。
 - 2026-06-24 新增：[[bagare]] (面包师), [[hantverksbageri]] (手工面包房) — 来自 [[source-2026-06-24-intervju-bagare-yrke]]。
+- 2026-07-03 新增：[[rörmokare]] (水管工) — 来自 [[source-2026-07-03-felanmalan-hyresvard]]（报修信场景）。

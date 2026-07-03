@@ -5,7 +5,7 @@ zh: "现在完成时"
 en: "present perfect"
 level: A2
 related: ["grammar-preteritum", "grammar-presens", "grammar-bisats-biff"]
-examples: []
+examples: ["sent-jag-bor-i-malmö-nu", "sent-jag-har-fått-flera-nya-vänner"]
 known: false
 created: 2026-06-10
 reviewed: ""
@@ -44,6 +44,8 @@ Jag  har   läst   boken.
 - ✅ Jag har köpt en ny tröja. — 🇨🇳 我买了一件新毛衣。
 - ✅ Han har aldrig varit i Sverige. — 🇨🇳 他从未去过瑞典。
 - ✅ Vi har redan ätit middag. — 🇨🇳 我们已经吃过晚饭了。
+- ✅ [[sent-jag-bor-i-malmö-nu]] 🇸🇪 Jag bor i Malmö nu och har varit här i fyra månader. 🇨🇳 我现在住在马尔默，已经在这里四个月了。（持续至今）
+- ✅ [[sent-jag-har-fått-flera-nya-vänner]] 🇸🇪 Jag har fått flera nya vänner här. 🇨🇳 我在这里交到了好几个新朋友。
 - ❌ Jag har gick till butiken igår. ← 不对：igår（昨天）用 preteritum，不用 perfekt
 
 ## 常见错误 (Common Mistakes)

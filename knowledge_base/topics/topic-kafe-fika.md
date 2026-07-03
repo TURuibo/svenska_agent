@@ -60,6 +60,8 @@ members:
   - betala-med-kort
   - ledigt-bord
   - hämta-servetterna
+  - diska
+  - servera
 created: "2026-06-09"
 ---
 
@@ -125,6 +127,8 @@ created: "2026-06-09"
 - [[betala-med-kort]] — 刷卡付款
 - [[ledigt-bord]] — 空桌子
 - [[hämta-servetterna]] — 去拿餐巾
+- [[diska]] — 洗碗
+- [[servera]] — 端菜；上菜；服务
 
 ## 备注 (Notes)
 

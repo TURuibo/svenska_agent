@@ -3,7 +3,7 @@ type: topic
 name: "Fritid och resor (休闲与旅行)"
 zh: "休闲与旅行词汇"
 en: "Leisure and travel vocabulary"
-members: ["turist", "badstrand", "badbyxor"]
+members: ["turist", "badstrand", "badbyxor", "fritid"]
 created: 2026-06-10
 ---
 
@@ -18,6 +18,7 @@ created: 2026-06-10
 | [[turist]] | substantiv | 游客 | en turist; turister |
 | [[badstrand]] | substantiv | 游泳海滩 | en badstrand; badstränder |
 | [[badbyxor]] | substantiv | 游泳裤 | pluralform |
+| [[fritid]] | substantiv | 空闲时间；业余时间 | en fritid; fritiden |
 
 ## 扩展词汇（相关）
 

@@ -36,6 +36,7 @@ members:
   - industri
   - roll
   - lärare
+  - extrajobb
 created: "2026-06-25"
 ---
 
@@ -71,6 +72,7 @@ created: "2026-06-25"
 | [[industri]] | substantiv | 行业/产业 |
 | [[roll]] | substantiv | 角色/职责 |
 | [[lärare]] | substantiv | 教师 |
+| [[extrajobb]] | substantiv | 兼职工作 |
 
 ## 核心短语 (Core Phrases)
 

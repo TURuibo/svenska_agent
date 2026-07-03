@@ -8,6 +8,34 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-07-03-anslag-vattenavstangning-container — 5词NEW / 1词组NEW / 8句NEW / 1语法NEW (DUP词: hink, vaktmästare, tålamod; DUP词组: med-vänlig-hälsning; DUP语法: grammar-s-passiv) —** | | | | | | |
+| [[stambyte]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[rör]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[byggavfall]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[byggmaterial]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[hushållssopor]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[ber-om-ert-tålamod]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vi-byter-ut-vattenrören-i-fastigheten]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-arbetet-börjar-måndagen-den-13-juli]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vattnet-stängs-av-varje-dag-mellan]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-fyll-gärna-en-hink-med-vatten]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-en-stor-container-för-byggavfall-står]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-den-är-bara-för-byggmaterial-inte]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-har-du-frågor-ring-vaktmästaren-på]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vi-ber-om-ert-tålamod-under]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[grammar-tidsprepositioner]] | grammar | — | 0 | 2.5 | 2026-07-03 | no |
+| **— source-2026-07-03-mejl-till-hyresvarden — 2词NEW / 2词组NEW / 7句NEW / 0语法NEW (DUP词: kollega, sköta, tacksam; DUP语法: grammar-ska-infinitiv, grammar-bisats-om) —** | | | | | | |
+| [[andrahandsuthyrning]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[blankett]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[hyra-ut-i-andra-hand]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[tacksam-för-svar]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-har-hyrt-lägenheten-sedan]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-ska-arbeta-i-tyskland]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-därför-skriver-jag-för-att]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-min-kollega-sofia-kan-bo]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-hon-röker-inte-och-har]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-kan-ni-skicka-mig-blanketten]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-tacksam-för-svar]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
 | **— source-2026-07-03-8-sidor-news — 9词NEW / 3词组NEW / 34句NEW / 0语法NEW (DUP词: bomba, huvudstad, skada, kriga, misstänkt, gripa, brott, domstol, döma, konsument, sänka, skatt, val, kontant, mynt, apotek, lag, gälla, förbjuda, kusin, förskola; DUP词组: på-grund-av, gifta-sig-med(已用今日例句丰富); DUP语法已丰富例句: grammar-s-passiv, grammar-att-sats) —** | | | | | | |
 | [[döda]] | word | — | 0 | 2.5 | 2026-07-03 | no |
 | [[attackera]] | word | — | 0 | 2.5 | 2026-07-03 | no |
@@ -3641,3 +3669,41 @@
 | [[sent-skärgården-har-över-30-000-öar-holmar-och-skär]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
 | [[sent-på-sommaren-åker-många-stockholmare-ut]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
 | [[sent-miljoner-turister-besöker-staden-varje-år]] | sentence | — | 0 | 2.5 | 2026-06-30 | no |
+| **— source-2026-07-03-inbjudan-kalas — 2词NEW / 1词组NEW / 6句NEW / 0语法NEW (DUP词: flytta, balkong, dryck, kram; DUP词组: se-fram-emot-att, ta-med; DUP语法: grammar-partikelverb, grammar-imperativ) —** | | | | | | |
+| [[inflyttningsfest]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[grilla]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[flytta-in]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vi-har-äntligen-flyttat-in]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vi-grillar-och-äter-tillsammans]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-ta-gärna-med-en-flaska-dryck]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-barn-är-också-välkomna]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-osa-senast-den-15-augusti]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-vi-ser-fram-emot-att-se-er]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| **— source-2026-07-03-brev-till-van — 4词NEW / 1词组NEW / 10句NEW / 0语法NEW (DUP词: tålmodig, granne; DUP词组: hur-är-läget; DUP语法已丰富例句: grammar-perfekt, grammar-det-vanligt-att) —** | | | | | | |
+| [[extrajobb]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[diska]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[servera]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[fritid]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[det-var-länge-sedan-vi-hördes]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-hur-är-läget-det-var-länge]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-bor-i-malmö-nu]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-går-på-sfi-tre-dagar]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-läraren-är-snäll-och-tålmodig]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-förra-veckan-fick-jag-ett-extrajobb]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-diskar-och-serverar-kaffe]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-är-roligt-att-prata-svenska]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-på-fritiden-spelar-jag-fotboll-med]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-har-fått-flera-nya-vänner]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-hur-mår-din-familj-skriv-snart]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| **— source-2026-07-03-felanmalan-hyresvard — 4词NEW / 2词组NEW / 4句NEW / 1语法NEW (DUP词: hink, blöt, åtgärd; DUP句: sent-jag-skriver-for-att-anmala-ett; DUP语法: grammar-for-att-infinitiv/grammar-for-att-syfte) —** | | | | | | |
+| [[läcka]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[vattenläckage]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[diskbänk]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[rörmokare]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[så-snart-som-möjligt]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[jag-ber-er]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-läcker-vatten-under-diskbänken]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-har-lagt-en-hink-under]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-ber-er-skicka-en-rörmokare]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-ni-når-mig-på-telefon]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[grammar-opersonligt-det]] | grammar | — | 0 | 2.5 | 2026-07-03 | no |
