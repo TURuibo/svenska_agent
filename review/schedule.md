@@ -3679,3 +3679,31 @@
 | [[sent-barn-är-också-välkomna]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
 | [[sent-osa-senast-den-15-augusti]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
 | [[sent-vi-ser-fram-emot-att-se-er]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| **— source-2026-07-03-brev-till-van — 4词NEW / 1词组NEW / 10句NEW / 0语法NEW (DUP词: tålmodig, granne; DUP词组: hur-är-läget; DUP语法已丰富例句: grammar-perfekt, grammar-det-vanligt-att) —** | | | | | | |
+| [[extrajobb]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[diska]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[servera]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[fritid]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[det-var-länge-sedan-vi-hördes]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-hur-är-läget-det-var-länge]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-bor-i-malmö-nu]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-går-på-sfi-tre-dagar]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-läraren-är-snäll-och-tålmodig]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-förra-veckan-fick-jag-ett-extrajobb]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-diskar-och-serverar-kaffe]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-är-roligt-att-prata-svenska]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-på-fritiden-spelar-jag-fotboll-med]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-har-fått-flera-nya-vänner]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-hur-mår-din-familj-skriv-snart]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| **— source-2026-07-03-felanmalan-hyresvard — 4词NEW / 2词组NEW / 4句NEW / 1语法NEW (DUP词: hink, blöt, åtgärd; DUP句: sent-jag-skriver-for-att-anmala-ett; DUP语法: grammar-for-att-infinitiv/grammar-for-att-syfte) —** | | | | | | |
+| [[läcka]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[vattenläckage]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[diskbänk]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[rörmokare]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[så-snart-som-möjligt]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[jag-ber-er]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-läcker-vatten-under-diskbänken]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-har-lagt-en-hink-under]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-jag-ber-er-skicka-en-rörmokare]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-ni-når-mig-på-telefon]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[grammar-opersonligt-det]] | grammar | — | 0 | 2.5 | 2026-07-03 | no |
