@@ -8,6 +8,53 @@
 
 | slug | type | last reviewed | interval(d) | ease | due | known |
 |------|------|---------------|-------------|------|-----|-------|
+| **— source-2026-07-03-8-sidor-news — 9词NEW / 3词组NEW / 34句NEW / 0语法NEW (DUP词: bomba, huvudstad, skada, kriga, misstänkt, gripa, brott, domstol, döma, konsument, sänka, skatt, val, kontant, mynt, apotek, lag, gälla, förbjuda, kusin, förskola; DUP词组: på-grund-av, gifta-sig-med(已用今日例句丰富); DUP语法已丰富例句: grammar-s-passiv, grammar-att-sats) —** | | | | | | |
+| [[döda]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[attackera]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[hemlig]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[bevisa]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[ersättning]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[jämföra]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[kritisk]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sedel]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[vindkraftverk]] | word | — | 0 | 2.5 | 2026-07-03 | no |
+| [[bli-fri-från-misstankar]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[ta-emot]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[hyra-ut]] | phrase | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-ryssland-bombade-ukrainas-huvudstad-kiev]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-flera-hus-ar-skadade]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-minst-18-manniskor-har-dodats]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-ungefar-90-manniskor-ar-skadade]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-ryssland-sager-att-det-ar-ett-svar]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-ukraina-har-också-bombat-mer]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-ar-ett-stalle-dar-ryssar]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-en-militar-och-hans-fru-misstanktes]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-paret-greps-hosten-2023]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-kan-vara-farligt-om-sadana]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-ett-ar-senare-blev-mannen-fri]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-gar-inte-att-bevisa-att]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-en-svensk-domstol-har-domt-att]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-pricerunner-ar-en-webbplats-dar]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-domstolen-bedomde-att-metoderna-var]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-domen-ar-rekord-for-ersattning]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-pricerunner-ags-av-det-svenska]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-apotek-och-affarer-som-saljer]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-ar-for-att-gora-livet]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-ar-ocksa-ett-skydd-om]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-har-ar-en-av-flera]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-blir-lattare-att-satta-in]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-poliser-far-bestamma-mer-om]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-blir-forbjudet-for-kusiner]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-manniskor-som-bor-nara-vindkraftverk]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-blir-lattare-for-folk-som]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-personer-som-jobbar-med-hemtjanst]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-det-blir-billigare-att-ha-sitt]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-nu-blir-det-billigare-att-resa]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-alla-regioner-i-sverige-sanker]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-partierna-sager-att-det-beror]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-kritiker-sager-att-partierna-sanker]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-skatten-sanks-pa-bensin-och-diesel]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
+| [[sent-nu-ar-sverige-ett-av-landerna]] | sentence | — | 0 | 2.5 | 2026-07-03 | no |
 | **— source-2026-07-02-8-sidor-news — 13词NEW / 7词组NEW / 43句NEW / 1语法NEW (DUP词: döma, fängelse, lämna, giftig, andas, skyldig, undersökning, rekord, utsläpp, klimat, växt, förlora, mål, spelare, lösa, hjärna, stress; DUP词组已丰富例句: dömas-till-fängelse, gora-mal, vara-ute-ur; DUP语法已丰富例句: grammar-s-passiv, grammar-det-vanligt-att) —** | | | | | | |
 | [[brand]] | word | — | 0 | 2.5 | 2026-07-02 | no |
 | [[rök]] | word | — | 0 | 2.5 | 2026-07-02 | no |
