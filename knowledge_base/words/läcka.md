@@ -58,5 +58,19 @@ interval: 0
 ## 用法提示 (Usage Notes)
 
 - 常用于无人称句型 `Det läcker vatten/olja/gas ...`，真正的（逻辑）主语（如 `vatten`）放在动词后面，`det` 是形式主语。见 [[grammar-opersonligt-det]]。
-- 也存在同形的阴性名词 `en läcka`（漏洞、漏水处），定式 `läckan`：例如 `Jag lade en hink under läckan`（我在漏水处放了一个桶）。
 - 来源: [[source-2026-07-03-felanmalan-hyresvard]]
+
+## 名词义：en läcka（漏洞、漏水处）
+
+同形的 **en-名词** `en läcka` = 漏洞／漏水处／泄漏点。你查的 **läckan** 就是它的**定式单数**（the leak）。
+
+| 形式 | 写法 | 中文 |
+|------|------|------|
+| obestämd singular | en läcka | 一处漏（洞） |
+| bestämd singular | **läckan** | 这处漏（洞） |
+| obestämd plural | läckor | （多处）漏洞 |
+| bestämd plural | läckorna | 这些漏洞 |
+
+- 🇸🇪 Jag lade en hink under **läckan**. — 🇨🇳 我在漏水处放了一个桶。
+- 🇸🇪 Rörmokaren hittade **läckan** bakom väggen. — 🇨🇳 水管工在墙后找到了漏水点。
+- 引申义：`en läcka` 也指（信息）**泄漏**，如 `en läcka i regeringen`（政府内部的泄密者/泄漏）。
