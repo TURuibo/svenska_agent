@@ -63,6 +63,7 @@ medan barnen tittar INTE på tv  (错误)
 
 - ✅ [[sent-jag-lagar-middag-medan-barnen]] 🇸🇪 Jag lagar middag medan barnen tittar på en film. 🇨🇳 我做晚饭，孩子们看一部电影。
 - ✅ 🇸🇪 Medan jag **inte** gillar kaffe, dricker min man tre koppar om dagen. 🇨🇳 我不喜欢咖啡，而我丈夫每天喝三杯。（注意 BIFF：inte 在 gillar 前）
+- ✅ 🇸🇪 Är det rättvist att vissa människor är extremt rika medan andra är fattiga? 🇨🇳 有些人极其富有而另一些人却贫穷，这公平吗？（对比义，来自 [[source-2026-07-09-att-vara-rik]]）
 - ❌ *Medan barnen tittar inte på tv.* ← 错误：应为 *Medan barnen inte tittar på tv.*
 
 ## 常见错误 (Common Mistakes)

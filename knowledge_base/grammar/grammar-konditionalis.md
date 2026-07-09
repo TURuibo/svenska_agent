@@ -5,7 +5,7 @@ zh: 条件式/礼貌式（skulle + infinitiv）
 en: conditional (skulle + infinitive)
 level: A2
 related: [grammar-presens, grammar-v2-ordfoljd]
-examples: []
+examples: ["sent-om-du-blev-rik-över-en-natt"]
 known: false
 created: "2026-06-09"
 reviewed: ""
@@ -53,6 +53,7 @@ konditionalis 在瑞典语中主要有两种用法：
 - ✅ *Jag skulle vilja ha en latte.* = 我想要一杯拿铁。（礼貌点餐）
 - ✅ *Skulle du kunna hjälpa mig?* = 你能帮我吗？（礼貌请求）
 - ✅ *Om det regnade, skulle vi stanna inne.* = 如果下雨，我们就待在里面。（假设）
+- ✅ [[sent-om-du-blev-rik-över-en-natt]] 🇸🇪 *Om du blev rik över en natt, vad skulle du göra med pengarna?* 🇨🇳 如果你一夜暴富，你会用这些钱做什么？（假设，来自 [[source-2026-07-09-att-vara-rik]]）
 - ❌ *Jag vill vilja ha...* ← 冗余，不需要双重情态
 
 ## 常见错误 (Common Mistakes)
