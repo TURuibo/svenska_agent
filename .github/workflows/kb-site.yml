@@ -19,7 +19,17 @@ permissions:
 
 concurrency:
   group: kb-site
-  cancel-in-progress: true
+  # Queue publishes serially instead of cancelling the one already in flight.
+  # This job is idempotent — it rebuilds every viewer data file from scratch and
+  # force-pushes the site subtree — so a superseded run is merely redundant, not
+  # harmful, and letting it finish costs a few extra runner-seconds.
+  #
+  # With cancel-in-progress: true, a slow runner queue turns a burst of merges
+  # into a starvation chain: each queued run is cancelled by the next push
+  # *before it is ever assigned a runner*, so nothing is published at all.
+  # Observed 2026-08-06 — runs 171→174 all ended cancelled with runner_id 0,
+  # leaving gh-pages a month stale until it was published by hand.
+  cancel-in-progress: false
 
 jobs:
   refresh-and-publish:
