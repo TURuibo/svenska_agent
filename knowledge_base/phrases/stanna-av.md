@@ -3,15 +3,15 @@ type: phrase
 phrase: "stanna av"
 category: "partikelverb"
 register: "neutralt"
-frequency: 2
+frequency: 3
 zh: "停滞，中断"
-en: "to come to a halt"
-literal: "stop off"
-head_words: [stanna]
-grammar: [grammar-partikelverb]
+en: "to stall, to come to a halt"
+literal: "停 + 离开/关(off)"
+head_words: ["stanna"]
+grammar: ["grammar-partikelverb"]
 related: []
 topics: []
-sentences: [sent-kriget-gjorde-att-allt-arbete]
+sentences: ["sent-vilken-händelse-gjorde-att-arbetet"]
 known: false
 created: "2026-08-06"
 reviewed: ""
@@ -22,23 +22,23 @@ interval: 0
 
 # stanna av
 
-🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 2/5
-🇨🇳 停滞，中断 · 🇬🇧 to come to a halt
-📝 字面: stop off
+🗣️ 类型: partikelverb · 语域: neutralt · 常用度: 3/5
+🇨🇳 停滞，中断 · 🇬🇧 to stall, to come to a halt
+📝 字面: 停 + 离开/关(off)
 
 ## 用法说明 (Usage)
 
-- 表示活动/进程逐渐停滞下来，比单独的 `stanna` (停下) 更强调"减速直至停止"的过程。
+- 指一个进程/运动/势头逐渐停滞、中断，常用于描述历史事件或社会运动的发展受阻。
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-partikelverb]]
+- → [[grammar-partikelverb]]（stanna + av 组成分离动词，重音落在小品词 "av" 上）
 
 ## 变体 & 相关 (Variations & Related)
 
-- 🔗 [[stanna]]
+- 🔄 [[stanna]]（不带小品词，指"停留/停下"）
+- 🔗 [[grammar-preteritum-oregelbundna]]
 
 ## 例句 / 对话 (Examples)
 
-- [[sent-kriget-gjorde-att-allt-arbete]] 🇸🇪 Kriget gjorde att allt arbete för rösträtt stannade av. 🇨🇳 战争让所有争取选举权的工作都停滞了。
-- 🇸🇪 Trafiken stannade av på grund av olyckan. 🇨🇳 由于事故，交通停滞了。
+- [[sent-vilken-händelse-gjorde-att-arbetet]] 🇸🇪 Vilken händelse gjorde att arbetet för kvinnlig rösträtt stannade av? 🇨🇳 什么事件使得争取女性选举权的工作停滞了？
