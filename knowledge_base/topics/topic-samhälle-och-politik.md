@@ -3,7 +3,7 @@ type: topic
 name: "samhälle-och-politik"
 kind: semantic-field
 zh: "社会与政治"
-members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis, protestera, demokrati, medlem]
+members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis, protestera, demokrati, medlem, rösträtt, kamp, uppror, organisation, världskrig, införa]
 created: "2026-06-04"
 ---
 
@@ -50,9 +50,18 @@ created: "2026-06-04"
 - [[demokrati]] — 民主
 - [[medlem]] — 成员（组织/机构）
 
+- [[rösträtt]] — 选举权，投票权
+- [[kamp]] — 斗争
+- [[uppror]] — 起义，反抗
+- [[organisation]] — 组织
+- [[världskrig]] — 世界大战
+- [[införa]] — 引入，实行（法规）
+
 ## 备注 (Notes)
 
 - 与新闻话题"加拿大独立公投"和"国庆日入籍"相关。
 - 参见 [[topic-nyheter-vecka22]]
 - 参见 [[topic-miljö-och-klimat]]（气候行动、政治倡导）
 - Greta Thunberg 相关词汇见 [[source-2026-06-22-greta-thunberg]]
+- 2026-08-06: 新增6词来自 Elin Wägner 传记 [[source-2026-08-06-elin-wagner]]（瑞典妇女选举权运动历史）。
+  参见 [[topic-jämställdhet]]。

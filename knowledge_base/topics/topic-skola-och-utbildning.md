@@ -3,7 +3,7 @@ type: topic
 name: "skola och utbildning"
 kind: semantic-field
 zh: 学校与教育（语义场）
-members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student]
+members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå]
 created: "2026-06-03"
 ---
 
@@ -33,6 +33,11 @@ created: "2026-06-03"
 - [[prov]] — 考试/测验 (test/exam)
 - [[betyg]] — 成绩/分数 (grade/mark)
 - [[student]] — 大学生 (university student)
+- [[högskola]] — 高等学校，学院 (university college)
+- [[undervisning]] — 教学，授课 (teaching)
+- [[filosofi]] — 哲学 (philosophy)
+- [[årskurs]] — 年级 (school year, grade)
+- [[nivå]] — 水平，等级 (level)
 
 ## 备注 (Notes)
 
@@ -40,3 +45,4 @@ created: "2026-06-03"
 - `bildning` 与 `lärande` 并列出现于"Sektorn för Lärande och bildning"（官方部门名）。
 - 2026-06-24: 新增7词来自学校通知 [[source-2026-06-24-skolinfo-utvecklingssamtal]]（家长发展谈话场景）。
 - 可扩充：gymnasiet（高中）, universitet（大学）, läroplan（课程大纲）...
+- 2026-08-06: 新增5词来自 Elin Wägner 传记 [[source-2026-08-06-elin-wagner]]（历史上女性受教育机会受限）。
