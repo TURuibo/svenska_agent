@@ -5,7 +5,7 @@ zh: "无「om」的条件从句倒装"
 en: "Conditional topicalization without 'om'"
 level: "B1"
 related: [grammar-v2-ordfoljd]
-examples: []
+examples: [sent-skulle-vi-störa-kom-gärna]
 known: false
 created: "2026-06-03"
 reviewed: ""
@@ -69,6 +69,9 @@ Om [S + V + …] , [主句：V2 正常语序]
   🇨🇳 若你收到了一所并非你申请过的幼儿园名额，则为保证名额。
   📄 [[source-2026-06-03-sundbyberg-forskola]]
 - ❌ *Om tackar du ja …* ← 错误：有 "om" 时不能倒装
+- ✅ 🇸🇪 *Skulle vi störa, kom gärna och knacka på.* 🇨🇳 万一我们吵到你们，请来敲门。
+  （= *Om vi skulle störa, kom gärna och knacka på.*；主句是祈使句而非陈述句，`skulle` 使语气更委婉/假设性更强）
+  📄 [[source-2026-09-03-sfi-meddelanden-diagram]] · [[sent-skulle-vi-störa-kom-gärna]]
 
 ## 常见错误 (Common Mistakes)
 

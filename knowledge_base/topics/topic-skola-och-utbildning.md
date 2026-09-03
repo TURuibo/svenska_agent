@@ -3,7 +3,7 @@ type: topic
 name: "skola och utbildning"
 kind: semantic-field
 zh: 学校与教育（语义场）
-members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå]
+members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå, utbildning, eftergymnasial, gymnasial, förgymnasial, fritidskurs, läsa-en-kurs, på-sin-fritid, stapeldiagram, andel, procent]
 created: "2026-06-03"
 ---
 
@@ -39,6 +39,18 @@ created: "2026-06-03"
 - [[årskurs]] — 年级 (school year, grade)
 - [[nivå]] — 水平，等级 (level)
 
+### 教育水平与统计（新增，2026-09-03）
+- [[utbildning]] — 教育、培训 (education)
+- [[eftergymnasial]] — 高中后的（高等）(post-secondary)
+- [[gymnasial]] — 高中的 (upper-secondary)
+- [[förgymnasial]] — 高中前的（初中及以下）(pre-upper-secondary)
+- [[fritidskurs]] — 业余课程 (leisure course)
+- [[läsa-en-kurs]] — 上一门课 (take a course)
+- [[på-sin-fritid]] — 在业余时间 (in one's free time)
+- [[stapeldiagram]] — 柱状图 (bar chart)
+- [[andel]] — 比例、份额 (share, proportion)
+- [[procent]] — 百分比 (per cent)
+
 ## 备注 (Notes)
 
 - 核心词汇来自 Sundbyberg 幼儿园通知 [[source-2026-06-03-sundbyberg-forskola]]。
@@ -46,3 +58,4 @@ created: "2026-06-03"
 - 2026-06-24: 新增7词来自学校通知 [[source-2026-06-24-skolinfo-utvecklingssamtal]]（家长发展谈话场景）。
 - 可扩充：gymnasiet（高中）, universitet（大学）, läroplan（课程大纲）...
 - 2026-08-06: 新增5词来自 Elin Wägner 传记 [[source-2026-08-06-elin-wagner]]（历史上女性受教育机会受限）。
+- 2026-09-03: 新增10词/词组来自 SFI 教材 s.64-65 柱状图阅读理解 [[source-2026-09-03-sfi-meddelanden-diagram]]（各国/教育水平参与业余课程的比例统计）。
