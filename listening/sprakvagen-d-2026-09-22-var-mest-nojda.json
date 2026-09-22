@@ -1,0 +1,413 @@
+{
+  "date": "2026-09-22",
+  "cefr": "B1",
+  "timingsApproximate": true,
+  "source": "Språkvägen D (SFI-lärobok) · Blipsay lyssningskod",
+  "id": "sprakvagen-d-s109-mest-nojda",
+  "title": "Var i Sverige är vi mest nöjda? (Språkvägen D s. 109–111)",
+  "duration": 278.075805,
+  "audioUrl": "media/sprakvagen-d-s109-mest-nojda.mp3",
+  "readingSlug": "paste-2026-09-22-var-mest-nojda",
+  "note": "课本配套朗读（教材第 109–111 页 QR 码音频）。字幕时间轴为按字数估算，点句跳转可能有 1–2 秒误差。",
+  "vocab": [
+    {
+      "lemma": "avlång",
+      "pos": "adj",
+      "zh": "狭长的",
+      "en": "elongated"
+    },
+    {
+      "lemma": "befolkningstäthet",
+      "pos": "subst",
+      "zh": "人口密度",
+      "en": "population density"
+    },
+    {
+      "lemma": "undersökning",
+      "pos": "subst",
+      "zh": "调查",
+      "en": "survey"
+    },
+    {
+      "lemma": "invånare",
+      "pos": "subst",
+      "zh": "居民",
+      "en": "inhabitant"
+    },
+    {
+      "lemma": "uttrycka",
+      "pos": "verb",
+      "zh": "表达",
+      "en": "to express"
+    },
+    {
+      "lemma": "omsorg",
+      "pos": "subst",
+      "zh": "照护",
+      "en": "care"
+    },
+    {
+      "lemma": "trygghet",
+      "pos": "subst",
+      "zh": "安全感、治安",
+      "en": "safety"
+    },
+    {
+      "lemma": "läge",
+      "pos": "subst",
+      "zh": "位置",
+      "en": "location"
+    },
+    {
+      "lemma": "kust",
+      "pos": "subst",
+      "zh": "海岸",
+      "en": "coast"
+    },
+    {
+      "lemma": "strand",
+      "pos": "subst",
+      "zh": "海滩",
+      "en": "beach"
+    },
+    {
+      "lemma": "tillgång",
+      "pos": "subst",
+      "zh": "可及性",
+      "en": "access"
+    },
+    {
+      "lemma": "betyg",
+      "pos": "subst",
+      "zh": "评分",
+      "en": "rating"
+    },
+    {
+      "lemma": "landsdel",
+      "pos": "subst",
+      "zh": "地区",
+      "en": "part of the country"
+    },
+    {
+      "lemma": "yta",
+      "pos": "subst",
+      "zh": "面积",
+      "en": "area"
+    },
+    {
+      "lemma": "apotek",
+      "pos": "subst",
+      "zh": "药店",
+      "en": "pharmacy"
+    },
+    {
+      "lemma": "föda",
+      "pos": "verb",
+      "zh": "分娩",
+      "en": "to give birth"
+    },
+    {
+      "lemma": "glesbygdskommun",
+      "pos": "subst",
+      "zh": "人口稀疏市镇",
+      "en": "sparsely populated municipality"
+    },
+    {
+      "lemma": "tätbefolkad",
+      "pos": "adj",
+      "zh": "人口密集的",
+      "en": "densely populated"
+    },
+    {
+      "lemma": "gäng",
+      "pos": "subst",
+      "zh": "团伙",
+      "en": "gang"
+    },
+    {
+      "lemma": "inbrott",
+      "pos": "subst",
+      "zh": "入室盗窃",
+      "en": "burglary"
+    },
+    {
+      "lemma": "bostadspris",
+      "pos": "subst",
+      "zh": "房价",
+      "en": "housing price"
+    },
+    {
+      "lemma": "närhet",
+      "pos": "subst",
+      "zh": "接近",
+      "en": "proximity"
+    }
+  ],
+  "phrases": [
+    {
+      "lemma": "lägga märke till",
+      "zh": "注意到",
+      "en": "to notice"
+    },
+    {
+      "lemma": "när det gäller",
+      "zh": "说到……",
+      "en": "when it comes to"
+    },
+    {
+      "lemma": "tack vare",
+      "zh": "多亏、得益于",
+      "en": "thanks to"
+    },
+    {
+      "lemma": "hamna i topp",
+      "zh": "名列前茅",
+      "en": "to end up at the top"
+    },
+    {
+      "lemma": "bosätta sig",
+      "zh": "定居",
+      "en": "to settle down"
+    },
+    {
+      "lemma": "brottas med",
+      "zh": "苦于、与……搏斗",
+      "en": "to grapple with"
+    }
+  ],
+  "grammar": [
+    {
+      "name": "superlativ",
+      "zh": "最高级",
+      "en": "superlative"
+    },
+    {
+      "name": "när det gäller",
+      "zh": "说到……（话题引导）",
+      "en": "when it comes to"
+    },
+    {
+      "name": "s-passiv",
+      "zh": "动词加 -s 被动",
+      "en": "s-passive"
+    }
+  ],
+  "cues": [
+    {
+      "start": 1.2,
+      "end": 3.79,
+      "sv": "Var i Sverige är vi mest nöjda?",
+      "zh": "在瑞典哪里的人最满意？"
+    },
+    {
+      "start": 4.09,
+      "end": 19.93,
+      "sv": "Sverige är ett avlångt land och alla som har åkt genom landet har säkert lagt märke till att det är stora skillnader mellan norr och söder när det gäller natur, klimat och befolkningstäthet.",
+      "zh": "瑞典是个狭长的国家，凡是穿越过它的人一定注意到，南北在自然、气候和人口密度上差别很大。"
+    },
+    {
+      "start": 20.23,
+      "end": 25.98,
+      "sv": "Det finns många vackra platser men var är det egentligen bäst att bo?",
+      "zh": "美丽的地方很多，但究竟住在哪里最好？"
+    },
+    {
+      "start": 26.28,
+      "end": 33.54,
+      "sv": "Enligt en undersökning från Statistikmyndigheten (SCB) är Halland svaret på den frågan.",
+      "zh": "根据瑞典统计局（SCB）的一项调查，答案是 Halland。"
+    },
+    {
+      "start": 34.69,
+      "end": 38.19,
+      "sv": "Varje år gör SCB en medborgarundersökning.",
+      "zh": "SCB 每年都做一次公民调查。"
+    },
+    {
+      "start": 38.49,
+      "end": 46.41,
+      "sv": "Det är en undersökning där invånarna får möjlighet att uttrycka hur det är att bo i sin kommun.",
+      "zh": "这是一项让居民表达\"住在自己市镇是什么感受\"的调查。"
+    },
+    {
+      "start": 46.71,
+      "end": 55.39,
+      "sv": "Några av de områden som undersöks är skola och omsorg, boende och boendemiljö samt trygghet i samhället.",
+      "zh": "调查的领域包括学校与照护、居住与居住环境，以及社会治安。"
+    },
+    {
+      "start": 55.69,
+      "end": 65.36,
+      "sv": "På frågan \"Kan du rekommendera andra som inte bor här i kommunen att flytta hit?\" hade Halland det bästa resultatet.",
+      "zh": "在\"你会推荐不住在本市镇的人搬来这里吗？\"这个问题上，Halland 得分最高。"
+    },
+    {
+      "start": 65.66,
+      "end": 72.75,
+      "sv": "Hela 75 procent av invånarna i de halländska kommunerna kunde svara ja på den frågan.",
+      "zh": "Halland 各市镇有整整 75% 的居民能对这个问题回答\"是\"。"
+    },
+    {
+      "start": 73.05,
+      "end": 76.39,
+      "sv": "Vad är det då som är så bra med Halland?",
+      "zh": "那么 Halland 到底好在哪里？"
+    },
+    {
+      "start": 76.69,
+      "end": 80.86,
+      "sv": "Kanske har det att göra med dess geografiska läge?",
+      "zh": "也许和它的地理位置有关？"
+    },
+    {
+      "start": 81.16,
+      "end": 90.91,
+      "sv": "Halland ligger vid kusten i sydvästra Sverige och tack vare sitt läge är klimatet något mildare än resten av Sverige.",
+      "zh": "Halland 位于瑞典西南沿海，得益于这个位置，气候比瑞典其他地方温和一些。"
+    },
+    {
+      "start": 91.21,
+      "end": 97.88,
+      "sv": "Här finns också många populära stränder som sägs vara några av Sveriges finaste.",
+      "zh": "这里还有很多受欢迎的海滩，据说是瑞典最美的海滩之一。"
+    },
+    {
+      "start": 99.03,
+      "end": 110.63,
+      "sv": "När det gäller samhällsservice som till exempel butiker, skolor och tillgång till vård är det främst de södra kommunerna som är mest nöjda.",
+      "zh": "说到商店、学校和医疗可及性这类公共服务，最满意的主要是南部的市镇。"
+    },
+    {
+      "start": 110.93,
+      "end": 113.68,
+      "sv": "Bäst betyg ger invånarna i Skåne.",
+      "zh": "评分最高的是 Skåne 的居民。"
+    },
+    {
+      "start": 113.98,
+      "end": 120.73,
+      "sv": "86 procent svarar att tillgången till service är \"ganska bra\" eller \"mycket bra\".",
+      "zh": "86% 的人回答服务可及性\"相当好\"或\"非常好\"。"
+    },
+    {
+      "start": 121.03,
+      "end": 127.54,
+      "sv": "Skåne är den sydligaste regionen och binds samman med Danmark av Öresundsbron.",
+      "zh": "Skåne 是最南端的大区，通过厄勒海峡大桥与丹麦相连。"
+    },
+    {
+      "start": 127.84,
+      "end": 136.26,
+      "sv": "Här ligger Malmö som med sina drygt 350 000 invånare (december 2021) är Sveriges tredje största stad.",
+      "zh": "这里有 Malmö，人口三十五万多（2021 年 12 月），是瑞典第三大城市。"
+    },
+    {
+      "start": 137.41,
+      "end": 143.83,
+      "sv": "De som gav sämst betyg till service är invånarna i de norrländska kommunerna.",
+      "zh": "对服务评分最低的是 Norrland 各市镇的居民。"
+    },
+    {
+      "start": 144.13,
+      "end": 152.81,
+      "sv": "I Norrland bor endast 11 procent av Sveriges befolkning men landsdelen utgör 60 procent av Sveriges yta.",
+      "zh": "Norrland 只住着瑞典 11% 的人口，但这片地区占瑞典面积的 60%。"
+    },
+    {
+      "start": 153.11,
+      "end": 161.7,
+      "sv": "Med så stor yta kan avstånden till service i form av mataffärer, apotek, sjukvård och skolor bli långa.",
+      "zh": "面积这么大，到食品店、药店、医疗和学校的距离就会很远。"
+    },
+    {
+      "start": 162.0,
+      "end": 172.92,
+      "sv": "I Norrland har det varit stora protester mot förlossningsvården eftersom kvinnor på vissa platser tvingats åka 40 mil för att föda.",
+      "zh": "Norrland 曾对产科服务有过大规模抗议，因为某些地方的产妇要走 400 公里去生产。"
+    },
+    {
+      "start": 173.22,
+      "end": 177.14,
+      "sv": "Många kommuner i Norrland är glesbygdskommuner.",
+      "zh": "Norrland 很多市镇属于人口稀疏市镇。"
+    },
+    {
+      "start": 177.44,
+      "end": 189.87,
+      "sv": "En glesbygdskommun är en kommun som har färre än 8 invånare per kvadratkilometer och där en stor del av befolkningen bor utanför tätbebyggda områden.",
+      "zh": "人口稀疏市镇指每平方公里不足 8 名居民、且大部分人口住在非密集建成区的市镇。"
+    },
+    {
+      "start": 190.17,
+      "end": 200.34,
+      "sv": "Sveriges mest tätbefolkade kommun är Sundbyberg som ligger i region Stockholm och har 6 200 personer per kvadratkilometer.",
+      "zh": "瑞典人口最密集的市镇是斯德哥尔摩大区的 Sundbyberg，每平方公里 6200 人。"
+    },
+    {
+      "start": 201.49,
+      "end": 206.74,
+      "sv": "De norra delarna hamnar däremot i topp när det gäller trygghet.",
+      "zh": "相反，在治安方面北部地区名列前茅。"
+    },
+    {
+      "start": 207.04,
+      "end": 217.47,
+      "sv": "I Jämtland är det bara 11 procent av invånarna som upplever att de har problem med personer eller gäng som bråkar eller stör.",
+      "zh": "在 Jämtland，只有 11% 的居民觉得受到闹事或滋扰的人或团伙困扰。"
+    },
+    {
+      "start": 217.77,
+      "end": 222.35,
+      "sv": "Den högsta siffran finns i Södermanland med 53 procent.",
+      "zh": "最高的是 Södermanland，达 53%。"
+    },
+    {
+      "start": 222.65,
+      "end": 231.24,
+      "sv": "Liknande fördelning av siffror finns i frågor om narkotikahandel, våldsbrott och inbrott eller stölder.",
+      "zh": "在毒品交易、暴力犯罪和入室盗窃等问题上，数字分布类似。"
+    },
+    {
+      "start": 231.54,
+      "end": 239.8,
+      "sv": "I många större städer har polisen brottats med kriminalitet i form av skjutningar och sprängningar.",
+      "zh": "在许多大城市，警方一直在应对枪击和爆炸形式的犯罪。"
+    },
+    {
+      "start": 240.95,
+      "end": 250.04,
+      "sv": "Jobb, närhet till vänner och familj samt bostadspriser är några av de faktorer som avgör var vi bosätter oss.",
+      "zh": "工作、离亲友的远近以及房价，是决定我们在哪里落脚的几个因素。"
+    },
+    {
+      "start": 250.34,
+      "end": 258.18,
+      "sv": "Storstäderna har länge haft den största befolkningsökningen men på senare år har trenden vänt.",
+      "zh": "长期以来大城市的人口增长最快，但近年来趋势反转了。"
+    },
+    {
+      "start": 258.48,
+      "end": 263.32,
+      "sv": "Nu är det fler som flyttar från storstäderna ut på landet.",
+      "zh": "现在有更多人从大城市搬到乡下。"
+    },
+    {
+      "start": 263.62,
+      "end": 269.37,
+      "sv": "Främst är det lägre bostadspriser och närhet till naturen som lockar.",
+      "zh": "主要吸引人的是更低的房价和离大自然更近。"
+    },
+    {
+      "start": 269.67,
+      "end": 270.59,
+      "sv": "Källa: SCB.",
+      "zh": "资料来源：SCB。"
+    },
+    {
+      "start": 271.74,
+      "end": 278.08,
+      "sv": "Vad avgör var du bosätter dig? Föredrar du att bo i en stad eller på landet?",
+      "zh": "是什么决定你在哪里定居？你更喜欢住在城里还是乡下？"
+    }
+  ]
+}

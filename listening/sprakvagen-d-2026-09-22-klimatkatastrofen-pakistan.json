@@ -1,0 +1,476 @@
+{
+  "date": "2026-09-22",
+  "cefr": "B1",
+  "timingsApproximate": true,
+  "source": "Språkvägen D (SFI-lärobok) · Blipsay lyssningskod",
+  "id": "sprakvagen-d-s93-pakistan",
+  "title": "Klimatkatastrofen i Pakistan (Språkvägen D s. 93–95)",
+  "duration": 259.55712,
+  "audioUrl": "media/sprakvagen-d-s93-pakistan.mp3",
+  "readingSlug": "paste-2026-09-22-klimatkatastrofen-pakistan",
+  "note": "课本配套朗读（教材第 93–95 页 QR 码音频）。字幕时间轴为按字数估算，点句跳转可能有 1–2 秒误差。",
+  "vocab": [
+    {
+      "lemma": "hjälparbetare",
+      "pos": "subst",
+      "zh": "救援工作者",
+      "en": "aid worker"
+    },
+    {
+      "lemma": "svält",
+      "pos": "subst",
+      "zh": "饥荒",
+      "en": "famine"
+    },
+    {
+      "lemma": "orkan",
+      "pos": "subst",
+      "zh": "飓风",
+      "en": "hurricane"
+    },
+    {
+      "lemma": "klimatförändring",
+      "pos": "subst",
+      "zh": "气候变化",
+      "en": "climate change"
+    },
+    {
+      "lemma": "översvämning",
+      "pos": "subst",
+      "zh": "洪水",
+      "en": "flood"
+    },
+    {
+      "lemma": "tredjedel",
+      "pos": "subst",
+      "zh": "三分之一",
+      "en": "one third"
+    },
+    {
+      "lemma": "torka",
+      "pos": "subst",
+      "zh": "干旱",
+      "en": "drought"
+    },
+    {
+      "lemma": "skörd",
+      "pos": "subst",
+      "zh": "收成",
+      "en": "harvest"
+    },
+    {
+      "lemma": "skogsbrand",
+      "pos": "subst",
+      "zh": "森林火灾",
+      "en": "forest fire"
+    },
+    {
+      "lemma": "glaciär",
+      "pos": "subst",
+      "zh": "冰川",
+      "en": "glacier"
+    },
+    {
+      "lemma": "smälta",
+      "pos": "verb",
+      "zh": "融化",
+      "en": "to melt"
+    },
+    {
+      "lemma": "nederbörd",
+      "pos": "subst",
+      "zh": "降水",
+      "en": "precipitation"
+    },
+    {
+      "lemma": "hustak",
+      "pos": "subst",
+      "zh": "屋顶",
+      "en": "roof"
+    },
+    {
+      "lemma": "utsläpp",
+      "pos": "subst",
+      "zh": "排放",
+      "en": "emission"
+    },
+    {
+      "lemma": "koldioxid",
+      "pos": "subst",
+      "zh": "二氧化碳",
+      "en": "carbon dioxide"
+    },
+    {
+      "lemma": "atmosfär",
+      "pos": "subst",
+      "zh": "大气层",
+      "en": "atmosphere"
+    },
+    {
+      "lemma": "naturresurs",
+      "pos": "subst",
+      "zh": "自然资源",
+      "en": "natural resource"
+    },
+    {
+      "lemma": "försörjning",
+      "pos": "subst",
+      "zh": "生计",
+      "en": "livelihood"
+    },
+    {
+      "lemma": "malaria",
+      "pos": "subst",
+      "zh": "疟疾",
+      "en": "malaria"
+    },
+    {
+      "lemma": "konsumtion",
+      "pos": "subst",
+      "zh": "消费",
+      "en": "consumption"
+    }
+  ],
+  "phrases": [
+    {
+      "lemma": "vara med om",
+      "zh": "经历（某事）",
+      "en": "to experience"
+    },
+    {
+      "lemma": "befinna sig",
+      "zh": "身处、位于",
+      "en": "to be located"
+    },
+    {
+      "lemma": "drabbas av",
+      "zh": "遭受……",
+      "en": "to be hit by"
+    },
+    {
+      "lemma": "bero på",
+      "zh": "取决于、源于",
+      "en": "to be due to"
+    },
+    {
+      "lemma": "leda till",
+      "zh": "导致",
+      "en": "to lead to"
+    },
+    {
+      "lemma": "svämma över",
+      "zh": "泛滥",
+      "en": "to overflow"
+    },
+    {
+      "lemma": "släppa ut",
+      "zh": "排放",
+      "en": "to emit"
+    },
+    {
+      "lemma": "i behov av",
+      "zh": "需要……",
+      "en": "in need of"
+    },
+    {
+      "lemma": "locka till sig",
+      "zh": "招来、吸引",
+      "en": "to attract"
+    }
+  ],
+  "grammar": [
+    {
+      "name": "förrän",
+      "zh": "直到……才……",
+      "en": "not until"
+    },
+    {
+      "name": "trots att",
+      "zh": "尽管（让步从句）",
+      "en": "concessive clause"
+    },
+    {
+      "name": "s-passiv",
+      "zh": "动词加 -s 被动",
+      "en": "s-passive"
+    }
+  ],
+  "cues": [
+    {
+      "start": 1.2,
+      "end": 3.33,
+      "sv": "Klimatkatastrofen i Pakistan",
+      "zh": "巴基斯坦的气候灾难"
+    },
+    {
+      "start": 3.63,
+      "end": 6.45,
+      "sv": "Pakistan. Publicerad 27 augusti 2022.",
+      "zh": "巴基斯坦。2022 年 8 月 27 日发表。"
+    },
+    {
+      "start": 7.6,
+      "end": 15.22,
+      "sv": "Nasir har jobbat som hjälparbetare i över tio år och har varit med om katastrofer över hela världen.",
+      "zh": "Nasir 做救援工作已超过十年，在世界各地经历过各种灾难。"
+    },
+    {
+      "start": 15.52,
+      "end": 21.23,
+      "sv": "Han har sett svält i Östafrika och förstörda byar efter orkaner i Honduras.",
+      "zh": "他见过东非的饥荒，也见过洪都拉斯飓风过后被摧毁的村庄。"
+    },
+    {
+      "start": 21.53,
+      "end": 28.01,
+      "sv": "Nu befinner han sig i Pakistan, ett land som är hårt drabbat av klimatförändringarna.",
+      "zh": "现在他身在巴基斯坦，一个深受气候变化打击的国家。"
+    },
+    {
+      "start": 28.31,
+      "end": 33.95,
+      "sv": "De senaste åren har det varit extrema temperaturer och översvämningar där.",
+      "zh": "近几年那里出现了极端高温和洪水。"
+    },
+    {
+      "start": 34.25,
+      "end": 38.28,
+      "sv": "Flera miljoner människor har tvingats lämna sina hem.",
+      "zh": "数百万人被迫离开家园。"
+    },
+    {
+      "start": 38.58,
+      "end": 45.36,
+      "sv": "Den översvämning som nu har drabbat landet är den värsta katastrof som Nasir har upplevt.",
+      "zh": "这次袭击该国的洪水是 Nasir 经历过最严重的灾难。"
+    },
+    {
+      "start": 45.66,
+      "end": 52.06,
+      "sv": "En tredjedel av landet är täckt med vatten och människorna är i akut behov av hjälp.",
+      "zh": "全国三分之一被水覆盖，人们急需援助。"
+    },
+    {
+      "start": 53.21,
+      "end": 55.04,
+      "sv": "Vad har hänt i Pakistan?",
+      "zh": "巴基斯坦发生了什么？"
+    },
+    {
+      "start": 55.34,
+      "end": 56.63,
+      "sv": "Först kom värmen.",
+      "zh": "先是高温。"
+    },
+    {
+      "start": 56.93,
+      "end": 60.97,
+      "sv": "Det var extremt höga temperaturer, upp mot 50 grader.",
+      "zh": "气温极高，接近 50 度。"
+    },
+    {
+      "start": 61.27,
+      "end": 65.0,
+      "sv": "Värmen torkade ut jorden och förstörde skördarna.",
+      "zh": "高温使土地干裂，毁掉了收成。"
+    },
+    {
+      "start": 65.3,
+      "end": 71.7,
+      "sv": "Torkan ledde också till stora skogsbränder och att landets glaciärer började smälta.",
+      "zh": "干旱还引发了大规模森林火灾，并使该国的冰川开始融化。"
+    },
+    {
+      "start": 72.0,
+      "end": 73.3,
+      "sv": "Sedan kom regnet.",
+      "zh": "接着来了雨。"
+    },
+    {
+      "start": 73.6,
+      "end": 80.76,
+      "sv": "Enorma monsunregn och vatten från glaciärerna gjorde att en tredjedel av landet svämmade över.",
+      "zh": "巨大的季风雨加上冰川融水，使全国三分之一的地方被淹。"
+    },
+    {
+      "start": 81.06,
+      "end": 84.56,
+      "sv": "Människor tvingades söka skydd på sina hustak.",
+      "zh": "人们被迫爬到屋顶上避难。"
+    },
+    {
+      "start": 85.71,
+      "end": 89.22,
+      "sv": "Är det inte vanligt med monsunregn i Pakistan?",
+      "zh": "巴基斯坦不是本来就常有季风雨吗？"
+    },
+    {
+      "start": 89.52,
+      "end": 97.97,
+      "sv": "Jo, men nu kom det mycket mer nederbörd, även i delar av landet där det brukar vara torrt under monsunperioden.",
+      "zh": "是的，但这次降水量大得多，连一向在季风期干燥的地区也下了雨。"
+    },
+    {
+      "start": 98.27,
+      "end": 102.62,
+      "sv": "På vissa platser kom det 700 procent mer regn än vanligt.",
+      "zh": "有些地方的降雨量比平常多出 700%。"
+    },
+    {
+      "start": 103.77,
+      "end": 105.67,
+      "sv": "Vad beror katastrofen på?",
+      "zh": "这场灾难的原因是什么？"
+    },
+    {
+      "start": 105.97,
+      "end": 108.94,
+      "sv": "Temperaturen på jorden har ökat snabbt.",
+      "zh": "地球的温度上升得很快。"
+    },
+    {
+      "start": 109.24,
+      "end": 118.99,
+      "sv": "Ökningen beror på utsläpp av koldioxid, en gas som finns naturligt i atmosfären och utan den skulle jorden vara kall och livlös.",
+      "zh": "升温源于二氧化碳排放；这种气体本来就自然存在于大气中，没有它地球会寒冷而无生命。"
+    },
+    {
+      "start": 119.29,
+      "end": 126.22,
+      "sv": "Problemet är att vi släpper ut för mycket koldioxid från till exempel bilar och industrier.",
+      "zh": "问题在于我们从汽车、工业等排放了太多二氧化碳。"
+    },
+    {
+      "start": 126.52,
+      "end": 136.5,
+      "sv": "Vi har pratat om de ökade temperaturerna i flera år men tyvärr förstår många nog inte konsekvenserna av dem förrän det är för sent.",
+      "zh": "我们谈论升温已经好些年了，可惜很多人大概要等到为时已晚才明白后果。"
+    },
+    {
+      "start": 136.8,
+      "end": 142.75,
+      "sv": "I Pakistan pratar man inte längre om ett klimathot utan om en klimatkatastrof.",
+      "zh": "在巴基斯坦，人们已经不说“气候威胁”，而说“气候灾难”。"
+    },
+    {
+      "start": 143.05,
+      "end": 147.84,
+      "sv": "Hittills har 1700 människor dött – en tredjedel av dem är barn.",
+      "zh": "到目前为止已有 1700 人死亡，其中三分之一是儿童。"
+    },
+    {
+      "start": 148.99,
+      "end": 151.2,
+      "sv": "Varför har Pakistan drabbats?",
+      "zh": "为什么受灾的是巴基斯坦？"
+    },
+    {
+      "start": 151.5,
+      "end": 156.3,
+      "sv": "Alla länder påverkas av klimatförändringarna men på olika sätt.",
+      "zh": "所有国家都受气候变化影响，只是方式不同。"
+    },
+    {
+      "start": 156.6,
+      "end": 164.53,
+      "sv": "Tyvärr drabbas de fattiga länderna mest trots att det är de rika länderna som släpper ut mest koldioxid.",
+      "zh": "遗憾的是，受打击最重的是穷国，尽管排放二氧化碳最多的是富国。"
+    },
+    {
+      "start": 164.83,
+      "end": 169.63,
+      "sv": "De fattiga länderna är ofta direkt beroende av naturresurserna.",
+      "zh": "穷国往往直接依赖自然资源。"
+    },
+    {
+      "start": 169.93,
+      "end": 176.93,
+      "sv": "Många är bönder eller fiskare och har ingen försörjning när skörden torkar eller fiskar dör.",
+      "zh": "很多人是农民或渔民，庄稼枯死、鱼类死亡时他们就失去生计。"
+    },
+    {
+      "start": 178.08,
+      "end": 180.37,
+      "sv": "Vilken hjälp behöver Pakistan?",
+      "zh": "巴基斯坦需要什么样的援助？"
+    },
+    {
+      "start": 180.67,
+      "end": 186.84,
+      "sv": "Många människor är fortfarande fast på sina hustak och är i stort behov av hjälp.",
+      "zh": "许多人仍被困在屋顶上，急需帮助。"
+    },
+    {
+      "start": 187.14,
+      "end": 190.95,
+      "sv": "De behöver rent vatten, mat och någonstans att bo.",
+      "zh": "他们需要干净的水、食物和住处。"
+    },
+    {
+      "start": 191.25,
+      "end": 199.78,
+      "sv": "De är också i behov av mediciner eftersom vattnet i översvämningarna lockar till sig myggor som sprider malaria.",
+      "zh": "他们也需要药品，因为洪水里的积水会招来传播疟疾的蚊子。"
+    },
+    {
+      "start": 200.08,
+      "end": 205.87,
+      "sv": "Människorna tvingas också dricka smutsigt vatten och drabbas då av diarréer.",
+      "zh": "人们还被迫喝脏水，因而患上腹泻。"
+    },
+    {
+      "start": 206.17,
+      "end": 208.53,
+      "sv": "Många dör om de inte får hjälp.",
+      "zh": "得不到帮助的话，很多人会死去。"
+    },
+    {
+      "start": 208.83,
+      "end": 217.59,
+      "sv": "Tyvärr är det svårt att komma fram med den hjälp som behövs eftersom många broar och vägar har förstörts av regnet.",
+      "zh": "遗憾的是，援助很难送达，因为很多桥梁和道路被雨水冲毁了。"
+    },
+    {
+      "start": 218.74,
+      "end": 222.86,
+      "sv": "Vi måste också fundera på hur vi lever och konsumerar.",
+      "zh": "我们也必须反思自己如何生活和消费。"
+    },
+    {
+      "start": 223.16,
+      "end": 228.64,
+      "sv": "Vi köper alldeles för många saker, saker som vi egentligen inte behöver.",
+      "zh": "我们买了太多东西，其实根本不需要的东西。"
+    },
+    {
+      "start": 228.94,
+      "end": 236.02,
+      "sv": "Produktionen av alla prylar och kläder leder till mer utsläpp av koldioxid från industrierna.",
+      "zh": "生产这些物件和衣服会使工业排放更多二氧化碳。"
+    },
+    {
+      "start": 236.32,
+      "end": 243.94,
+      "sv": "Människorna i Pakistan har redan små utsläpp och kan inte göra mycket för att påverka sin situation.",
+      "zh": "巴基斯坦人本来排放就很少，能改变自身处境的余地不大。"
+    },
+    {
+      "start": 244.24,
+      "end": 248.2,
+      "sv": "De behöver hjälp från länder som har större utsläpp.",
+      "zh": "他们需要来自排放更多的国家的帮助。"
+    },
+    {
+      "start": 248.5,
+      "end": 254.67,
+      "sv": "Den bästa hjälpen är om människorna i de rika länderna minskar på sin konsumtion.",
+      "zh": "最好的帮助，是富国的人减少自己的消费。"
+    },
+    {
+      "start": 255.82,
+      "end": 259.56,
+      "sv": "Behovet av hjälp är stort i de drabbade områdena.",
+      "zh": "在受灾地区，对援助的需求非常大。"
+    }
+  ]
+}

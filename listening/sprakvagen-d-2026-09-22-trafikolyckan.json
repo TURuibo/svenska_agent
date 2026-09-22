@@ -1,0 +1,525 @@
+{
+  "date": "2026-09-22",
+  "cefr": "B1",
+  "timingsApproximate": true,
+  "source": "Språkvägen D (SFI-lärobok) · Blipsay lyssningskod",
+  "id": "sprakvagen-d-s123-trafikolyckan",
+  "title": "Trafikolyckan — vittne vid en rättegång (Språkvägen D s. 123–125)",
+  "duration": 332.692789,
+  "audioUrl": "media/sprakvagen-d-s123-trafikolyckan.mp3",
+  "readingSlug": "paste-2026-09-22-trafikolyckan",
+  "note": "课本配套朗读（教材第 123–125 页 QR 码音频）。字幕时间轴为按字数估算，点句跳转可能有 1–2 秒误差。",
+  "vocab": [
+    {
+      "lemma": "trafikolycka",
+      "pos": "subst",
+      "zh": "交通事故",
+      "en": "traffic accident"
+    },
+    {
+      "lemma": "sommarplåga",
+      "pos": "subst",
+      "zh": "夏日洗脑神曲",
+      "en": "overplayed summer hit"
+    },
+    {
+      "lemma": "väja",
+      "pos": "verb",
+      "zh": "闪避",
+      "en": "to swerve"
+    },
+    {
+      "lemma": "förarsäte",
+      "pos": "subst",
+      "zh": "驾驶座",
+      "en": "driver's seat"
+    },
+    {
+      "lemma": "oskadd",
+      "pos": "adj",
+      "zh": "毫发无伤的",
+      "en": "unharmed"
+    },
+    {
+      "lemma": "sluddra",
+      "pos": "verb",
+      "zh": "说话含混",
+      "en": "to slur"
+    },
+    {
+      "lemma": "vittna",
+      "pos": "verb",
+      "zh": "作证",
+      "en": "to testify"
+    },
+    {
+      "lemma": "rättegång",
+      "pos": "subst",
+      "zh": "庭审",
+      "en": "trial"
+    },
+    {
+      "lemma": "kallelse",
+      "pos": "subst",
+      "zh": "传票",
+      "en": "summons"
+    },
+    {
+      "lemma": "rättssal",
+      "pos": "subst",
+      "zh": "法庭",
+      "en": "courtroom"
+    },
+    {
+      "lemma": "domare",
+      "pos": "subst",
+      "zh": "法官",
+      "en": "judge"
+    },
+    {
+      "lemma": "nämndeman",
+      "pos": "subst",
+      "zh": "陪审员",
+      "en": "lay judge"
+    },
+    {
+      "lemma": "åklagare",
+      "pos": "subst",
+      "zh": "检察官",
+      "en": "prosecutor"
+    },
+    {
+      "lemma": "vittnesed",
+      "pos": "subst",
+      "zh": "证人誓词",
+      "en": "witness oath"
+    },
+    {
+      "lemma": "samvete",
+      "pos": "subst",
+      "zh": "良心",
+      "en": "conscience"
+    },
+    {
+      "lemma": "dom",
+      "pos": "subst",
+      "zh": "判决",
+      "en": "verdict"
+    },
+    {
+      "lemma": "böter",
+      "pos": "subst",
+      "zh": "罚金",
+      "en": "fine"
+    },
+    {
+      "lemma": "fängelse",
+      "pos": "subst",
+      "zh": "监禁",
+      "en": "prison"
+    },
+    {
+      "lemma": "rattfylleri",
+      "pos": "subst",
+      "zh": "酒后驾车",
+      "en": "drunk driving"
+    },
+    {
+      "lemma": "återkalla",
+      "pos": "verb",
+      "zh": "吊销",
+      "en": "to revoke"
+    },
+    {
+      "lemma": "körkort",
+      "pos": "subst",
+      "zh": "驾照",
+      "en": "driving licence"
+    },
+    {
+      "lemma": "berusad",
+      "pos": "adj",
+      "zh": "醉的",
+      "en": "intoxicated"
+    },
+    {
+      "lemma": "socialtjänst",
+      "pos": "subst",
+      "zh": "社会服务局",
+      "en": "social services"
+    },
+    {
+      "lemma": "orosanmälan",
+      "pos": "subst",
+      "zh": "关切举报",
+      "en": "report of concern"
+    },
+    {
+      "lemma": "missbruk",
+      "pos": "subst",
+      "zh": "滥用、成瘾",
+      "en": "substance abuse"
+    }
+  ],
+  "phrases": [
+    {
+      "lemma": "stanna upp",
+      "zh": "停下来",
+      "en": "to pause"
+    },
+    {
+      "lemma": "andas in",
+      "zh": "吸入",
+      "en": "to breathe in"
+    },
+    {
+      "lemma": "som tur är",
+      "zh": "幸好",
+      "en": "luckily"
+    },
+    {
+      "lemma": "se till att",
+      "zh": "确保……",
+      "en": "to make sure that"
+    },
+    {
+      "lemma": "avlägga en ed",
+      "zh": "宣誓",
+      "en": "to take an oath"
+    },
+    {
+      "lemma": "gå igenom",
+      "zh": "过一遍",
+      "en": "to go through"
+    },
+    {
+      "lemma": "begå brott",
+      "zh": "犯罪",
+      "en": "to commit a crime"
+    },
+    {
+      "lemma": "bete sig",
+      "zh": "举止、表现",
+      "en": "to behave"
+    }
+  ],
+  "grammar": [
+    {
+      "name": "historiskt presens",
+      "zh": "用现在时讲述故事",
+      "en": "narrative present"
+    },
+    {
+      "name": "pluskvamperfekt",
+      "zh": "过去完成时（本可以）",
+      "en": "past perfect"
+    },
+    {
+      "name": "s-passiv",
+      "zh": "动词加 -s 被动",
+      "en": "s-passive"
+    }
+  ],
+  "cues": [
+    {
+      "start": 1.2,
+      "end": 2.33,
+      "sv": "Trafikolyckan",
+      "zh": "交通事故"
+    },
+    {
+      "start": 2.63,
+      "end": 6.11,
+      "sv": "Det är en solig morgon i början av juni.",
+      "zh": "这是六月初一个阳光明媚的早晨。"
+    },
+    {
+      "start": 6.41,
+      "end": 12.85,
+      "sv": "Henrik kommer ut från sitt hus, stannar upp och andas in doften av sommar.",
+      "zh": "Henrik 从家里出来，停下脚步，深吸一口夏天的气息。"
+    },
+    {
+      "start": 13.15,
+      "end": 17.67,
+      "sv": "Det här är den vackraste tiden på året enligt honom.",
+      "zh": "在他看来这是一年中最美的时节。"
+    },
+    {
+      "start": 17.97,
+      "end": 24.59,
+      "sv": "Sedan sätter han sig i bilen för att åka till sitt barnbarns skolavslutning.",
+      "zh": "然后他上车，要去参加孙辈的结业典礼。"
+    },
+    {
+      "start": 24.89,
+      "end": 29.85,
+      "sv": "När han kör igenom den lilla byn är det lugnt och stilla.",
+      "zh": "他开车穿过小村子时，一切安静平和。"
+    },
+    {
+      "start": 30.15,
+      "end": 41.72,
+      "sv": "På radion spelas en sommarplåga och Henrik ska precis byta kanal när en bil kör över på fel sida av vägen och kommer rakt emot honom.",
+      "zh": "收音机里正放着一首\"夏日神曲\"，Henrik 正要换台，这时一辆车开到了路的另一侧，直冲他而来。"
+    },
+    {
+      "start": 42.02,
+      "end": 48.46,
+      "sv": "Han hinner precis väja för bilen som kör in i en husvägg och blir stående.",
+      "zh": "他刚好来得及避开，那辆车撞上一面房墙停住了。"
+    },
+    {
+      "start": 48.76,
+      "end": 55.72,
+      "sv": "Henrik skyndar fram till den krockade bilen och ser sin granne Eva i förarsätet.",
+      "zh": "Henrik 赶到撞毁的车旁，看到驾驶座上是他的邻居 Eva。"
+    },
+    {
+      "start": 56.02,
+      "end": 62.46,
+      "sv": "Som tur är verkar hon oskadd men Henrik märker direkt att hon har druckit.",
+      "zh": "幸运的是她似乎没受伤，但 Henrik 立刻察觉她喝了酒。"
+    },
+    {
+      "start": 62.76,
+      "end": 70.5,
+      "sv": "Hon luktar alkohol, sluddrar och har svårt att fokusera blicken när hon tittar på Henrik.",
+      "zh": "她身上有酒味，说话含混，看 Henrik 时目光难以聚焦。"
+    },
+    {
+      "start": 70.8,
+      "end": 75.41,
+      "sv": "\"Oj! Oj! Här gick det undan\", säger hon och skrattar.",
+      "zh": "\"哎哟！这下可够快的\"，她笑着说。"
+    },
+    {
+      "start": 76.56,
+      "end": 80.91,
+      "sv": "Henrik ringer 112 och inom kort är ambulansen där.",
+      "zh": "Henrik 拨打 112，救护车很快就到了。"
+    },
+    {
+      "start": 81.21,
+      "end": 87.13,
+      "sv": "Ambulanspersonalen tar över och ser till att Eva blir omhändertagen.",
+      "zh": "救护人员接手，确保 Eva 得到照料。"
+    },
+    {
+      "start": 87.43,
+      "end": 96.92,
+      "sv": "Innan Henrik får åka vidare måste han lämna sina kontaktuppgifter ifall de behöver kontakta honom om olyckan.",
+      "zh": "在 Henrik 可以继续上路之前，他必须留下联系方式，以便他们就事故联系他。"
+    },
+    {
+      "start": 97.22,
+      "end": 106.18,
+      "sv": "Han lämnar namn och nummer och sätter sig sedan i bilen för att åka till sitt barnbarns skolavslutning.",
+      "zh": "他留下姓名和电话，然后上车前往孙辈的结业典礼。"
+    },
+    {
+      "start": 106.48,
+      "end": 110.22,
+      "sv": "Väl framme vid skolan ringer Henriks mobil.",
+      "zh": "刚到学校，Henrik 的手机响了。"
+    },
+    {
+      "start": 110.52,
+      "end": 116.35,
+      "sv": "En kvinna presenterar sig och berättar att hon ringer från polisen.",
+      "zh": "一位女士自我介绍，说她是警方打来的。"
+    },
+    {
+      "start": 116.65,
+      "end": 127.18,
+      "sv": "Hon ställer frågor om olyckan och säger att Henrik kommer att få vittna vid en rättegång och då berätta vad som har hänt.",
+      "zh": "她询问事故情况，并说 Henrik 将要在庭审中作证，讲述发生了什么。"
+    },
+    {
+      "start": 128.33,
+      "end": 133.03,
+      "sv": "I oktober får Henrik ett brev med kallelse att vittna.",
+      "zh": "十月，Henrik 收到一封出庭作证的传票。"
+    },
+    {
+      "start": 133.33,
+      "end": 134.72,
+      "sv": "Han blir nervös.",
+      "zh": "他紧张起来。"
+    },
+    {
+      "start": 135.02,
+      "end": 138.24,
+      "sv": "Det som oroar honom är mötet med Eva.",
+      "zh": "让他不安的是要见到 Eva。"
+    },
+    {
+      "start": 138.54,
+      "end": 143.58,
+      "sv": "Hur kommer det kännas att träffa sin granne i en rättssal?",
+      "zh": "在法庭上见到自己的邻居会是什么感觉？"
+    },
+    {
+      "start": 143.88,
+      "end": 148.06,
+      "sv": "Under sommaren har Henrik sett Eva flera gånger.",
+      "zh": "这个夏天 Henrik 见过 Eva 好几次。"
+    },
+    {
+      "start": 148.36,
+      "end": 152.88,
+      "sv": "De har hejat på varandra men inte pratat om olyckan.",
+      "zh": "他们互相打过招呼，但没谈过那场事故。"
+    },
+    {
+      "start": 154.03,
+      "end": 162.21,
+      "sv": "Det blir dagen för rättegång och när det är Henriks tur att vittna kallas han in i rättssalen.",
+      "zh": "开庭的日子到了，轮到 Henrik 作证时，他被叫进法庭。"
+    },
+    {
+      "start": 162.51,
+      "end": 168.34,
+      "sv": "Där hälsas han välkommen av den domare som ska hålla i rättegången.",
+      "zh": "主持庭审的法官在那里向他表示欢迎。"
+    },
+    {
+      "start": 168.64,
+      "end": 176.3,
+      "sv": "Inne i salen sitter även tre nämndemän som tillsammans med domaren ska besluta om domen.",
+      "zh": "庭内还坐着三名陪审员，他们将与法官一起做出判决。"
+    },
+    {
+      "start": 176.6,
+      "end": 186.26,
+      "sv": "Nämndemännen har ingen juridisk utbildning utan är vanliga människor som är utsedda av olika politiska partier.",
+      "zh": "陪审员没有法律专业背景，是由不同政党指派的普通人。"
+    },
+    {
+      "start": 186.56,
+      "end": 189.69,
+      "sv": "Där sitter även Eva och en åklagare.",
+      "zh": "Eva 和一名检察官也在场。"
+    },
+    {
+      "start": 189.99,
+      "end": 206.18,
+      "sv": "Henrik får börja med att avlägga en vittnesed: \"Jag Henrik Johansson lovar och försäkrar på heder och samvete att jag ska säga hela sanningen och intet förtiga, tillägga eller förändra.\"",
+      "zh": "Henrik 首先要作证人宣誓：\"我 Henrik Johansson 以名誉和良心保证，我将讲出全部真相，不隐瞒、不增添、不篡改。\""
+    },
+    {
+      "start": 206.48,
+      "end": 210.56,
+      "sv": "Miljön är formell och Henrik känner sig osäker.",
+      "zh": "气氛很正式，Henrik 感到不安。"
+    },
+    {
+      "start": 210.86,
+      "end": 216.87,
+      "sv": "Först får Henrik berätta fritt vad som hände den där morgonen i juni.",
+      "zh": "Henrik 先自由讲述六月那个早上发生的事。"
+    },
+    {
+      "start": 217.17,
+      "end": 220.3,
+      "sv": "Sedan ställer åklagaren följdfrågor.",
+      "zh": "然后检察官提出追问。"
+    },
+    {
+      "start": 220.6,
+      "end": 228.0,
+      "sv": "Henrik har gått igenom händelsen flera gånger i sitt huvud och är säker på sina svar.",
+      "zh": "Henrik 在脑子里把事情过了好几遍，对自己的回答很有把握。"
+    },
+    {
+      "start": 229.15,
+      "end": 236.46,
+      "sv": "Därefter överlägger domaren och nämndemännen och bestämmer vilket straff Eva ska få.",
+      "zh": "之后法官和陪审员合议，决定 Eva 该受什么处罚。"
+    },
+    {
+      "start": 236.76,
+      "end": 239.37,
+      "sv": "Efter två veckor kommer domen.",
+      "zh": "两周后判决下来了。"
+    },
+    {
+      "start": 239.67,
+      "end": 248.02,
+      "sv": "Eftersom hon inte är straffad tidigare döms hon till böter och en villkorlig dom på sex månader.",
+      "zh": "由于她此前没有前科，她被判罚金和六个月的缓刑。"
+    },
+    {
+      "start": 248.32,
+      "end": 254.93,
+      "sv": "Om hon skulle begå nya brott inom två år kan straffet bli fängelse istället.",
+      "zh": "如果她在两年内再犯，刑罚可能改为监禁。"
+    },
+    {
+      "start": 255.23,
+      "end": 261.58,
+      "sv": "Rattfylleri leder också så gott som alltid till att körkortet återkallas.",
+      "zh": "酒驾几乎总是会导致驾照被吊销。"
+    },
+    {
+      "start": 261.88,
+      "end": 265.8,
+      "sv": "I Evas fall är det återkallat i tolv månader.",
+      "zh": "在 Eva 这件事上，驾照被吊销十二个月。"
+    },
+    {
+      "start": 266.1,
+      "end": 270.36,
+      "sv": "Efter tolv månader får hon tillbaka sitt körkort.",
+      "zh": "十二个月后她可以拿回驾照。"
+    },
+    {
+      "start": 271.51,
+      "end": 277.78,
+      "sv": "Efteråt funderar Henrik mycket på olyckan och om den kunde ha undvikits.",
+      "zh": "事后 Henrik 常常想着这场事故，想着它是否本可以避免。"
+    },
+    {
+      "start": 278.08,
+      "end": 292.52,
+      "sv": "Han och många av Evas andra grannar hade misstänkt att Eva hade problem med alkohol under en längre period eftersom hon ofta verkade berusad och betedde sig märkligt.",
+      "zh": "他和 Eva 的许多邻居早就怀疑她长期有酒精问题，因为她常常看起来喝醉了、举止怪异。"
+    },
+    {
+      "start": 292.82,
+      "end": 297.69,
+      "sv": "Hade de kunnat agera på något sätt för att hjälpa henne?",
+      "zh": "他们本可以做点什么来帮她吗？"
+    },
+    {
+      "start": 297.99,
+      "end": 306.61,
+      "sv": "Eva levde ensam och hade inte mycket kontakt med andra men Henrik visste att hon hade några vänner.",
+      "zh": "Eva 独居，与人来往不多，但 Henrik 知道她有几个朋友。"
+    },
+    {
+      "start": 306.91,
+      "end": 311.0,
+      "sv": "Kunde han ha pratat med dem om sina misstankar?",
+      "zh": "他本可以把自己的怀疑告诉他们吗？"
+    },
+    {
+      "start": 311.3,
+      "end": 318.95,
+      "sv": "Ett annat alternativ hade varit att kontakta socialtjänsten för att göra en orosanmälan.",
+      "zh": "另一个选择本可以是联系社会服务局，提出关切举报。"
+    },
+    {
+      "start": 319.25,
+      "end": 324.47,
+      "sv": "Då hade myndigheterna kunnat hjälpa Eva med hennes missbruk.",
+      "zh": "那样当局就能帮助 Eva 解决她的成瘾问题。"
+    },
+    {
+      "start": 324.77,
+      "end": 332.69,
+      "sv": "Henrik är glad att Eva nu har fått den hjälp hon behöver och att hon har slutat att dricka.",
+      "zh": "Henrik 很高兴 Eva 如今得到了她需要的帮助，并且已经戒酒。"
+    }
+  ]
+}
