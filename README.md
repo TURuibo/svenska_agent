@@ -91,6 +91,7 @@ Keep both root instruction files aligned when changing the project behavior. Use
 | 功能 | 在哪里 | 作用 |
 |------|--------|------|
 | **Claude instructions** | `CLAUDE.md` | Claude Code 项目大脑：黄金法则、流程、查重、风格 |
+| **Routine 手册** | `docs/routines.md` | 五条每日 remote routine 的 prompt 与收尾 SOP（只有定时会话需要读） |
 | **Codex instructions** | `AGENTS.md` | Codex 项目大脑：同一套规则，适配 Codex |
 | **Claude skills** | `.claude/skills/` | Claude Code 的瑞典语技能 + 项目技能 |
 | **Codex skills** | `.agents/skills/` | Codex 可发现的瑞典语技能 + 项目技能 |
@@ -140,6 +141,7 @@ Keep both root instruction files aligned when changing the project behavior. Use
 ```
 svensk_agent/
 ├── CLAUDE.md              # Claude Code 项目说明书
+├── docs/routines.md       # 每日 remote routine 手册（从 CLAUDE.md 移出，省 token）
 ├── AGENTS.md              # Codex 项目说明书
 ├── CODEX_PROJECT.md       # Claude Code / Codex 兼容说明
 ├── README.md

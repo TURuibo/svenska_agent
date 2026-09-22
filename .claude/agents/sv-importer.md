@@ -12,7 +12,8 @@ leave the KB and its generated site fully up to date.
 Read these specs first and follow them exactly:
 - `.claude/skills/sv-import/SKILL.md` — the import logic (parse, gap-fill, dedup, route, archive).
 - `.claude/skills/sv-knowledge-base/SKILL.md` — storage schema, slug rules, linking.
-- `CLAUDE.md` — golden rules (§0), dedup (§3).
+(Do **not** read `CLAUDE.md` — the two rules you need from it are: dedup before writing, and skip
+items the learner already knows. `tools/dedup.js` enforces both.)
 
 ## What "pending" means
 

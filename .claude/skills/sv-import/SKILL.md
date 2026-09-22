@@ -12,9 +12,10 @@ description: >
 
 # sv-import — 跨聊天导入技能
 
-Read `CLAUDE.md` (golden rules §0, dedup §3, playbook §4) and
-`.claude/skills/sv-knowledge-base/SKILL.md` (storage §1–§7) before running any import.
-This skill is the bridge between the export format and those two specs.
+Read `.claude/skills/sv-knowledge-base/SKILL.md` (storage §1–§7) before running any import — do **not**
+re-read `CLAUDE.md` for this (it is already in the main agent's context; a subagent only needs the two
+rules that matter here: **dedup before writing** and **skip `known` items**). This skill is the bridge
+between the export format and the storage spec.
 
 ---
 
@@ -268,7 +269,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1   # 
 node tools/build-reading-site.js                                              # Läsning reading data
 ```
 
-> **Remote routine（Claude Code on the web）收尾另见 `CLAUDE.md §4.7`：** 重建后**只提交源文件 +**
+> **Remote routine（Claude Code on the web）收尾另见 `docs/routines.md §4.7`：** 重建后**只提交源文件 +**
 > `knowledge_base/_index/slugs.json`（dedup 依赖，仍 tracked）。三个生成的 viewer 数据文件
 > `site/kb-data.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js` **已加入 `.gitignore`**
 > （2026-06-23 架构改）——它们只由 GitHub Action 在发布 gh-pages 时生成、永不进 main，`git add` 会自动跳过，
