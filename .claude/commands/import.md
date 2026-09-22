@@ -33,10 +33,11 @@ For each resolved block, follow sv-import §2 (parse), §3 (fill gaps using Swed
 ## 3. Dedup + store
 
 Follow sv-import §4b and §5:
-- **≤ 3 items total**: store inline (create notes + wire links yourself), then update
-  `review/schedule.md` (sv-import §6).
+- **≤ 3 items total**: store inline (create notes + wire links yourself), then schedule them with
+  `node tools/schedule.js add --date <date> type:<slug> …` (sv-import §6 — never open `review/schedule.md`).
 - **> 3 items total**: create the `sources/source-<date>-<topic>.md` note first, then spawn
-  `sv-librarian` with the enriched lists and the source slug.
+  `sv-librarian` with the enriched lists and the source slug. After its manifest comes back, run
+  `node tools/schedule.js add-source <source-slug>`.
 
 ## 4. Archive + rebuild
 

@@ -29,8 +29,13 @@ treat anything there as already-processed too.)
 
 2. **Import each file** following `sv-import` §2–§6. Crucially:
    - You are the heavy worker. **Do the librarian work inline yourself** (create notes, wire forward
-     `[[wikilinks]]`, build topic notes, write the `sources/` note, update `review/schedule.md`).
-     **Do NOT spawn sub-agents** — you ARE the background job.
+     `[[wikilinks]]`, build topic notes, write the `sources/` note with complete
+     `words:`/`phrases:`/`sentences:`/`grammar:` lists). **Do NOT spawn sub-agents** — you ARE the
+     background job.
+   - **Review schedule: never Read or Edit `review/schedule.md`** (~300 KB, ~75k tokens per read).
+     After the source note is written, run via Bash:
+     `node tools/schedule.js add-source <source-slug>` — it appends rows for the new notes and
+     skips anything already scheduled. One line of output is all you need to see.
    - Process files one at a time. Within a file, plan all items first, then batch the `Write` calls
      (parallel tool calls in one message), per the librarian's phased protocol.
    - Honour dedup against `knowledge_base/_index/slugs.json` and the learner profile

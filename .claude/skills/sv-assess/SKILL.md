@@ -20,7 +20,8 @@ Maintain `profile/level.md`: the single source of truth for what Ruibo already k
 
 For a full assessment:
 1. **Scan the KB**: counts by type and CEFR (`knowledge_base/*/`), `known:true` ratio, which grammar
-   points are present, review performance from `review/schedule.md`.
+   points are present, review performance from `node tools/schedule.js stats` (do not `Read`
+   `review/schedule.md` — ~75k tokens; per-note `ease`/`review_count` are in note frontmatter).
 2. **Optionally probe**: ask 5–8 calibrated questions spanning A1→B2 (a verb conjugation, a bisats word
    order, a partikelverb, a translation) — only if you need signal the KB doesn't already give.
 3. **Estimate** an overall CEFR/SFI band, plus sub-skills (vocab breadth, grammar control, phrases).

@@ -39,6 +39,7 @@
       "Glob",
       "Grep",
       "Bash(powershell:*)",
+      "Bash(node tools/schedule.js:*)",
       "Agent(sv-librarian)",
       "Agent(sv-reviewer)",
       "Agent(sv-assessor)"

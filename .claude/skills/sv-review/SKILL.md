@@ -9,11 +9,20 @@ Reinforce what's already stored. No new lookups — pull from `knowledge_base/`.
 
 ## 1. 选题 (Select due items)
 
-1. Read `review/schedule.md` and scan note frontmatter (`reviewed`, `interval`, `ease`, `known`).
-2. An item is **due** if: `known: false` AND ( `reviewed` is empty OR `reviewed + interval days <= today` ).
-3. Prioritize: never-reviewed first, then most overdue, then weak spots named in `profile/level.md`.
-4. Default session size: **10 items**, mixed types (≈5 words, 2 phrases, 2 sentences, 1 grammar) unless
-   the user asks for a specific type, count, or topic (e.g. "复习家具类" → pull `topic-mobler` members).
+1. **Never `Read` `review/schedule.md`** (~300 KB, ~75k tokens). Ask the script for the due list:
+   ```bash
+   node tools/schedule.js due                 # 10 mixed items (≈5 words, 2 phrases, 2 sentences, 1 grammar)
+   node tools/schedule.js due -n 15 --type word
+   node tools/schedule.js due --json          # machine-readable, includes zh/en/sv/path
+   ```
+   It applies the due rule (`known: false` AND (`never reviewed` OR `due <= today`)), orders
+   never-reviewed first then most overdue, skips `known: true` notes, and prints one line per item
+   with the gloss and note path — usually enough to build the quiz without opening the note.
+2. Read a note only when the quiz format needs more than the gloss (forms table, collocations,
+   grammar explanation). Read `profile/level.md` once to weight weak spots.
+3. Topic requests (e.g. "复习家具类"): `Grep` `knowledge_base/topics/topic-*.md` for the members,
+   then `due --type word -n 40` and intersect.
+4. Default session size: **10 items**, mixed types, unless the user asks for a specific type, count, or topic.
 
 ## 2. 测验形式 (Quiz formats — vary them)
 
@@ -27,18 +36,26 @@ Ask **one item at a time**. Wait for the answer. Then reveal the stored answer a
 
 ## 3. 评分与更新 (Grade & update — SM-2 lite)
 
-After each item, grade the recall quality `q` 0–5 (0 = blank, 3 = correct but hard, 5 = instant):
-- `q < 3` (失败): `interval = 1`, `ease = max(1.3, ease - 0.2)`, keep it for re-quiz this session.
+After each item, grade the recall quality `q` 0–5 (0 = blank, 3 = correct but hard, 5 = instant), then
+record it with the script — **do not edit the note or the schedule by hand**:
+```bash
+node tools/schedule.js update <slug> --q <0-5>            # one call per graded item
+node tools/schedule.js update <slug> --q 5 --known        # learner confirms mastery → known: true
+```
+It applies the SM-2-lite rules below and writes **both** the note's frontmatter
+(`reviewed`, `review_count`, `ease`, `interval`, `known`) and the table row, then prints the next due date.
+Batch the calls for a session in one Bash command (`… && …`) rather than one turn per item.
+
+Rules the script implements (for reference):
+- `q < 3` (失败): `interval = 1`, `ease = max(1.3, ease - 0.2)`; keep the item for re-quiz this session.
 - `q >= 3` (成功):
   - if `review_count == 0` → `interval = 1`
   - elif `review_count == 1` → `interval = 6`
   - else → `interval = round(interval * ease)`
   - `ease = ease + (0.1 - (5-q)*(0.08 + (5-q)*0.02))`, clamped `>= 1.3`.
-- Always: `review_count += 1`, `reviewed = today (absolute date)`.
-- If the user nails an item several sessions running and says they know it, set `known: true` and tell the
-  assessor to record it (or update `profile/level.md` directly).
-
-Update **both** the note's frontmatter and the row in `review/schedule.md`.
+- Always: `review_count += 1`, `reviewed = today (absolute date)`, `due = today + interval`.
+- If the user nails an item several sessions running and says they know it, pass `--known` and tell the
+  assessor to record it in `profile/level.md`.
 
 ## 4. 巩固 (Consolidation, not just testing)
 
@@ -49,5 +66,6 @@ Update **both** the note's frontmatter and the row in `review/schedule.md`.
 
 ## 5. 收尾 (Wrap up)
 
-End with a short scoreboard: how many correct, which items to focus on next, when the next items are due.
-Keep the chat concise; the durable state is in the notes + `review/schedule.md`.
+End with a short scoreboard: how many correct, which items to focus on next, when the next items are due
+(`node tools/schedule.js stats` gives the one-line totals).
+Keep the chat concise; the durable state is in the notes + `review/schedule.md`, both written by the script.

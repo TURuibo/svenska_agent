@@ -157,7 +157,8 @@ Store inline:
   `## 例句` section by meaning (including drill/böjning imports):
   - 多个不同义项 (multiple distinct senses) → **每个义项至少 1 个例句**，按义项分组标注。
   - 单一义项 / 义项含义相近 (single or near-identical senses) → **至少 3 个例句**。
-- Add reviewable notes to `review/schedule.md` with immediate `due:` date.
+- Schedule the new notes with the script (never open `review/schedule.md`), e.g.
+  `node tools/schedule.js add --date <date> word:<slug> phrase:<slug> sentence:<slug>` (§6).
 
 ### Large batch (> 3 items total)
 
@@ -179,22 +180,30 @@ Store inline:
    - The source note slug.
    - The fully-enriched (gap-filled), intra-block-deduped item lists.
    - The `date:` to use for `created:` frontmatter.
-   - Instruction to add new reviewable notes to `review/schedule.md`.
    - The librarian always generates example sentences for every word note in this batch.
+   - The librarian must fill the source note's `words:`/`phrases:`/`sentences:`/`grammar:` lists.
 3. Await the librarian's manifest report.
+4. Schedule the batch for review: `node tools/schedule.js add-source <source-slug>` (§6).
 
 ---
 
-## 6. 更新复习计划 (review/schedule.md)
+## 6. 更新复习计划 (review/schedule.md) — 只用脚本，不读文件
 
-For inline-stored items (small batch), append each new reviewable slug to `review/schedule.md` with:
+`review/schedule.md` is a ~300 KB table (thousands of rows). **Never `Read` or `Edit` it** — one read
+costs ~75k tokens. `tools/schedule.js` appends rows without loading the file into context and skips
+slugs that are already scheduled:
+
+```bash
+# large batch — take the slugs from the source note the librarian just filled in
+node tools/schedule.js add-source <source-slug>
+
+# small batch (inline store) — list the new notes explicitly
+node tools/schedule.js add --date <date> [--batch "<label>"] word:<slug> phrase:<slug> sentence:<slug> grammar:<slug>
 ```
-- slug: <slug>
-  due: <date>
-  ease: 2.5
-  interval: 0
-```
-(Large-batch: the librarian handles this.)
+
+Output is a single line (`schedule: +N added, M already scheduled, K no note file`). Rows get
+`due = <date>`, `ease 2.5`, `interval 0`, `known no`. If a run ever forgot this step,
+`node tools/schedule.js sync` schedules every unscheduled note in the KB.
 
 ---
 

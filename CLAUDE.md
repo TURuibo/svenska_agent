@@ -473,6 +473,11 @@ word, give a one-line confirmation, don't produce a full entry, and don't re-sto
 log in markdown. Each note's frontmatter tracks `reviewed:` and `review_count:`. The reviewer picks due
 items, quizzes the user, and updates the schedule + frontmatter based on performance. No external SRS app.
 
+**⚠️ 省 token 规则：任何 agent 都不要 `Read`/`Edit` `review/schedule.md`**（约 300 KB ≈ 75k tokens 一次）。
+一律走 `node tools/schedule.js`：`due` 选题（只打印到期的几行）、`update <slug> --q N` 评分（同时写笔记
+frontmatter 与表格行）、`add-source <source-slug>` / `add type:slug …` 把新笔记排进复习、`sync` 补漏、
+`tidy` 修表、`stats` 统计。`/import`、`sv-importer`、`sv-librarian`、`sv-reviewer` 的提示词已按此写。
+
 ---
 
 ## 7. 风格 (Style)

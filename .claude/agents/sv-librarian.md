@@ -70,9 +70,11 @@ Instead follow these phases in order; within a phase, issue ALL independent tool
   rich (non-drill, with multiple example sentences each), chunk into messages of **~15–20 writes**; a
   drill batch (no examples) can do **~30+** in one message. The target is ≤3 write-messages total,
   not N.
-- **Phase 3 — Shared files (one batch):** the `topic-*` note(s), the `source-*` frontmatter update,
-  and (if the spawn instructed it) the `review/schedule.md` append are all **different files** —
-  do them as parallel calls in a single message.
+- **Phase 3 — Shared files (one batch):** the `topic-*` note(s) and the `source-*` frontmatter
+  update are **different files** — do them as parallel calls in a single message. Fill the
+  source note's `words:` / `phrases:` / `sentences:` / `grammar:` lists completely: the main agent
+  feeds them to `node tools/schedule.js add-source <source-slug>` after you report, so that is how
+  new notes reach the review schedule.
 
 A correct import of ~40 new notes should be roughly: 1 load message + 1 planning step (no tools) +
 2 write messages + 1 shared-file message ≈ **4–5 turns**, not 40. Only serialise when note B
@@ -85,7 +87,9 @@ never happens).
 - Always give base forms for words (grundform), not inflected forms.
 - Keep each note faithful to the corresponding swedish-* skill's structure (dictionary/phrases/grammar).
 - Write Swedish letters å ä ö literally in filenames and links.
-- Do not touch `profile/level.md` or `review/schedule.md` — that's the assessor/reviewer's job.
+- Do not touch `profile/level.md`. **Never Read or Edit `review/schedule.md`** (it is ~300 KB;
+  reading it costs ~75k tokens). The main agent schedules your new notes with
+  `node tools/schedule.js add-source <source-slug>` from the source note's frontmatter lists.
 
 ## Report back (concise)
 
