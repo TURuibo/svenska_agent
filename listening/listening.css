@@ -99,6 +99,9 @@
   color: #fff; background: var(--green); border-radius: 999px; padding: 8px 16px; font-size: 14px;
 }
 .svtLink:hover { background: var(--green-dark); }
+/* 📖 jump to the same text in the Läsning reading site. */
+.readLink { background: var(--blue, #35618e); }
+.readLink:hover { filter: brightness(1.1); }
 
 .mediaWrap { margin-bottom: 14px; }
 .mediaEl { width: 100%; max-height: 56vh; background: #000; border-radius: 12px; }
