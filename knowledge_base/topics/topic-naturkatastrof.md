@@ -4,7 +4,7 @@ slug: topic-naturkatastrof
 name: "Naturkatastrofer & extremväder"
 zh: "自然灾害与极端天气"
 en: "Natural disasters & extreme weather"
-members: ["katastrof", "oväder", "blixt", "skalv", "jordbävning", "drabba"]
+members: ["katastrof", "oväder", "blixt", "skalv", "jordbävning", "drabba", "hjälparbetare", "svält", "orkan", "översvämning", "skörd", "skogsbrand", "glaciär", "smälta", "monsunregn", "nederbörd", "hustak"]
 created: "2026-06-29"
 ---
 
@@ -22,6 +22,17 @@ created: "2026-06-29"
 | [[skalv]] | substantiv (ett) | 地震震动，余震 |
 | [[jordbävning]] | substantiv (en) | 地震 |
 | [[drabba]] | verb | 波及，影响（灾难）|
+| [[hjälparbetare]] | substantiv (en) | 救援工作者 |
+| [[svält]] | substantiv (en) | 饥荒 |
+| [[orkan]] | substantiv (en) | 飓风 |
+| [[översvämning]] | substantiv (en) | 洪水 |
+| [[skörd]] | substantiv (en) | 收成 |
+| [[skogsbrand]] | substantiv (en) | 森林火灾 |
+| [[glaciär]] | substantiv (en) | 冰川 |
+| [[smälta]] | verb | 融化 |
+| [[monsunregn]] | substantiv (ett) | 季风雨 |
+| [[nederbörd]] | substantiv (en) | 降水 |
+| [[hustak]] | substantiv (ett) | 屋顶 |
 
 ## 相关语法 (Grammar)
 
@@ -33,3 +44,9 @@ created: "2026-06-29"
 - [[sent-minst-450-personer-har-dott-och]]
 - [[sent-det-varst-drabbade-omradet-kring-malmo]]
 - [[sent-tio-personer-skadades-nar-en-blixt]]
+- [[sent-nu-befinner-han-sig-i-pakistan-ett-land]]
+- [[sent-en-tredjedel-av-landet-ar-tackt-med-vatten]]
+
+## 来源 (Source)
+
+- [[source-2026-09-22-klimatkatastrofen-pakistan]] — Språkvägen D s. 93–95，气候灾难采访报道
