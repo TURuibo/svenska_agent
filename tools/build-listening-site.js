@@ -58,7 +58,7 @@ function asciiFold(s) {
 function resolveSlug(lemma, set, { phrase = false, grammar = false } = {}) {
   if (!lemma) return null;
   let base = String(lemma).trim().toLowerCase();
-  if (phrase) base = base.replace(/\s+/g, '-');
+  if (phrase || grammar) base = base.replace(/[\s.]+/g, '-').replace(/-+/g, '-');
   const candidates = grammar ? ['grammar-' + base, 'grammar-' + asciiFold(base)] : [base, asciiFold(base)];
   for (const c of candidates) { if (set.has(c)) return c; }
   return null;

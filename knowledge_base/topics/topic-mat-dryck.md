@@ -110,6 +110,15 @@ members:
   - mörk
   - brun
   - grilla
+  - maträtt
+  - matblogg
+  - kokbok
+  - matkultur
+  - doft
+  - färskost
+  - avrunnen
+  - recept
+  - matkasse
 created: 2026-06-11
 ---
 
@@ -259,9 +268,21 @@ created: 2026-06-11
 - [[det-ordnar-vi]] — 这个我们能搞定
 - [[inga-problem]] — 没问题
 
+**Matlagning & mattraditioner (2026-09-22, från Zeina Mourtada / Kulturella skillnader)**
+- [[maträtt]] — 菜肴（新）
+- [[matblogg]] — 美食博客（新）
+- [[kokbok]] — 食谱书（新）
+- [[matkultur]] — 饮食文化
+- [[doft]] — 香味
+- [[färskost]] — 新鲜奶酪（新）
+- [[avrunnen]] — 沥干的（新）
+- [[recept]] — 食谱
+- [[matkasse]] — 食物袋（新，也属 [[topic-sociala-normer]]）
+
 ## 备注 (Notes)
 
 - Smak (味道): salt 咸, sur 酸, bitter 苦, söt 甜（söt 已存在 → 见 [[söt]]）
 - Synonympar i temat: [[hård]] ↔ [[mjuk]], [[varm]] ~ [[het]], [[rå]] ↔ [[mogen]]
 - Allergi-grupp: [[allergisk]], [[tåla]], [[nöt]], [[laktos]], [[grädde]] — alla relaterade till allergi och specialkost
-- Källa: [[source-2026-06-11-mat-dryck]] · [[source-2026-06-15-restaurang-middag]] · [[source-2026-06-15-restaurang-allergi-nota]] · [[source-2026-06-15-restaurang-rekommendation]] · [[source-2026-07-01-adjsubst-mat-dryck]]
+- 复合词族 mat-: [[matblogg]]、[[matkultur]]、[[matkasse]]、[[matminne]]（待建）
+- Källa: [[source-2026-06-11-mat-dryck]] · [[source-2026-06-15-restaurang-middag]] · [[source-2026-06-15-restaurang-allergi-nota]] · [[source-2026-06-15-restaurang-rekommendation]] · [[source-2026-07-01-adjsubst-mat-dryck]] · [[source-2026-09-22-zeina-mourtada]]

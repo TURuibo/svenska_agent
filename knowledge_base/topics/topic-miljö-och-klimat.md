@@ -26,6 +26,10 @@ members:
   - fabrik
   - hav
   - suga
+  - koldioxid
+  - atmosfär
+  - livlös
+  - klimathot
 created: "2026-06-22"
 ---
 
@@ -57,8 +61,14 @@ created: "2026-06-22"
 - [[fabrik]] — 工厂
 - [[hav]] — 海；大海（海洋变暖）
 - [[suga]] — 吸；吸收（海洋吸收热量）
+- [[koldioxid]] — 二氧化碳
+- [[atmosfär]] — 大气层
+- [[livlös]] — 无生命的
+- [[klimathot]] — 气候威胁
 
 ## 备注 (Notes)
+
+- 与 [[source-2026-09-22-klimatkatastrofen-pakistan]]（气候灾难采访）相关
 
 - 与 Greta Thunberg 传记 [[source-2026-06-22-greta-thunberg]] 相关
 - 参见 [[topic-samhälle-och-politik]]（社会行动、政治）

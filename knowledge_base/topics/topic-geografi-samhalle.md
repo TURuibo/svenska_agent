@@ -29,6 +29,28 @@ members:
   - närhet-till
   - ligga-vid-kusten
   - på-landet
+  - avlång
+  - befolkningstäthet
+  - medborgarundersökning
+  - uttrycka
+  - omsorg
+  - boendemiljö
+  - samhällsservice
+  - landsdel
+  - yta
+  - förlossningsvård
+  - glesbygdskommun
+  - kvadratkilometer
+  - tätbebyggd
+  - tätbefolkad
+  - bostadspris
+  - faktor
+  - avgöra
+  - befolkningsökning
+  - när-det-gäller
+  - bindas-samman-med
+  - hamna-i-topp
+  - trenden-har-vänt
 created: "2026-06-30"
 ---
 
@@ -45,8 +67,26 @@ created: "2026-06-30"
 - [[protest]] — 抗议
 - [[närhet]] — 靠近；毗邻
 - [[befolkning]] — 人口
+- [[avlång]] — 狭长的
+- [[befolkningstäthet]] — 人口密度
+- [[medborgarundersökning]] — 公民调查
+- [[omsorg]] — 照护
+- [[boendemiljö]] — 居住环境
+- [[samhällsservice]] — 公共服务
+- [[landsdel]] — 地区
+- [[yta]] — 面积
+- [[förlossningsvård]] — 产科护理
+- [[glesbygdskommun]] — 人口稀疏市镇
+- [[kvadratkilometer]] — 平方公里
+- [[tätbebyggd]] — 建筑密集的
+- [[tätbefolkad]] — 人口密集的
+- [[bostadspris]] — 房价
+- [[faktor]] — 因素
+- [[befolkningsökning]] — 人口增长
 
 ### 动词
+- [[uttrycka]] — 表达
+- [[avgöra]] — 决定
 - [[svara]] — 回答
 - [[brottas]] — 苦于应对；搏斗
 - [[lägga]] — 放置
@@ -67,6 +107,10 @@ created: "2026-06-30"
 - [[närhet-till]] — 靠近……
 - [[ligga-vid-kusten]] — 位于海岸边
 - [[på-landet]] — 在乡下
+- [[när-det-gäller]] — 说到……
+- [[bindas-samman-med]] — 与……相连
+- [[hamna-i-topp]] — 名列前茅
+- [[trenden-har-vänt]] — 趋势反转了
 
 ## 语法关联
 - [[grammar-val-av-preposition-bo]] — bo i / bo på / bo vid 的介词选择
@@ -74,3 +118,4 @@ created: "2026-06-30"
 
 ## 来源
 - [[source-2026-06-30-prepositioner-ovning]] — Språkvägen SFI kurs D s. 193–194 prepositioner exercise
+- [[source-2026-09-22-var-mest-nojda]] — Språkvägen D s. 109–111，SCB 公民调查/南北差异

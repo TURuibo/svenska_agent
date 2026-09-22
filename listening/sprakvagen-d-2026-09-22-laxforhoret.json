@@ -546,17 +546,17 @@
   ],
   "grammar": [
     {
-      "name": "vart fjärde år (var/vart + ordningstal)",
+      "name": "var ordningstal",
       "zh": "每隔几时间单位一次",
       "en": "distributive time expressions"
     },
     {
-      "name": "medan (bisats, kontrast)",
+      "name": "medan bisats",
       "zh": "连词 medan 引导对比从句",
       "en": "subordinating medan"
     },
     {
-      "name": "varken ... eller ...",
+      "name": "varken eller",
       "zh": "既不……也不……",
       "en": "neither ... nor ..."
     }

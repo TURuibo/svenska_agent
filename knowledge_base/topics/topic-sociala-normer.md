@@ -3,7 +3,7 @@ type: topic
 name: "sociala-normer"
 kind: "semantic-field"
 zh: "社会规范与文化差异"
-members: ["norm", "oskriven", "främling", "småprata", "integritet", "påträngande", "olämplig", "avbryta", "samtidigt", "ton", "offentlig", "störande", "handslag", "nick", "fysisk", "punktlighet", "evenemang", "meddela", "oartig", "pruta", "uppfatta", "oprofessionell", "portion", "tätt", "avstånd", "armlängd", "pandemi", "obehaglig", "helig", "irriterad", "blick", "bestämd", "tillsägelse", "tillställning", "bekant", "samtalsämne", "sammankomst", "spontan", "förvarning", "släkting", "ursäkt", "främmande", "pussa", "uppklädd", "tillfälle", "landsman", "kroppsspråk", "känsla", "skilja-sig-från", "värderas-högt", "vänta-på-sin-tur", "röra-vid", "hålla-till-ett-minimum", "tränga-sig-före", "gå-före-i-kön", "dyka-upp", "säga-till-i-förväg", "i-förväg", "boka-in", "be-om-ursäkt", "ta-av-sig-skorna", "tacka-för-maten", "tack-för-senast", "stöta-på", "rakt-i-ögonen", "ta-i-hand", "ha-på-sig", "visa-känslor"]
+members: ["norm", "oskriven", "främling", "småprata", "integritet", "påträngande", "olämplig", "avbryta", "samtidigt", "ton", "offentlig", "störande", "handslag", "nick", "fysisk", "punktlighet", "evenemang", "meddela", "oartig", "pruta", "uppfatta", "oprofessionell", "portion", "tätt", "avstånd", "armlängd", "pandemi", "obehaglig", "helig", "irriterad", "blick", "bestämd", "tillsägelse", "tillställning", "bekant", "samtalsämne", "sammankomst", "spontan", "förvarning", "släkting", "ursäkt", "främmande", "pussa", "uppklädd", "tillfälle", "landsman", "kroppsspråk", "känsla", "skilja-sig-från", "värderas-högt", "vänta-på-sin-tur", "röra-vid", "hålla-till-ett-minimum", "tränga-sig-före", "gå-före-i-kön", "dyka-upp", "säga-till-i-förväg", "i-förväg", "boka-in", "be-om-ursäkt", "ta-av-sig-skorna", "tacka-för-maten", "tack-för-senast", "stöta-på", "rakt-i-ögonen", "ta-i-hand", "ha-på-sig", "visa-känslor", "leende", "sfär", "backa", "förvånad", "kylig", "avståndstagande", "ideellt", "frivilligt", "skänka", "välgörenhet", "matkasse", "konflikträdd", "nödfall", "vägbeskrivning", "förening", "föreningsliv", "språkkafé", "lojal", "anonymitet", "hierarkisk", "tilltala", "lättsam", "medarbetare", "förändring", "konkurrens", "näthat", "hatstorm", "kränkande", "rasistisk", "dra-till-sig-uppmärksamhet", "sitta-ifred", "hjälpas-åt", "dra-ut-på-tiden", "ta-kontakt-med", "anpassa-sig-till", "vara-van-vid", "ha-det-bra-ställt", "stöta-till"]
 created: "2026-09-03"
 ---
 
@@ -90,6 +90,50 @@ created: "2026-09-03"
 - [[ha-på-sig]] — 穿着
 - [[visa-känslor]] — 表露感情
 
+### 单词补充 (2026-09-22，来自 Kulturella skillnader — tre röster om Sverige)
+
+- [[leende]] — 微笑（新）
+- [[sfär]] — 领域、空间（新，个人 personlig sfär）
+- [[backa]] — 后退（新）
+- [[förvånad]] — 惊讶的（新）
+- [[kylig]] — 冷淡的（新）
+- [[avståndstagande]] — 疏远的（新）
+- [[ideellt]] — 义务地（新）
+- [[frivilligt]] — 自愿地（新）
+- [[skänka]] — 捐赠（新）
+- [[välgörenhet]] — 慈善（新）
+- [[matkasse]] — 食物袋（新，也属 [[topic-mat-dryck]]）
+- [[konflikträdd]] — 怕冲突的（新）
+- [[nödfall]] — 紧急情况（新）
+- [[vägbeskrivning]] — 路线指引（新）
+- [[förening]] — 协会、社团（新）
+- [[föreningsliv]] — 社团生活（新）
+- [[språkkafé]] — 语言咖啡角（新）
+- [[lojal]] — 忠诚的（新）
+- [[anonymitet]] — 匿名感（新）
+- [[hierarkisk]] — 等级森严的（新）
+- [[tilltala]] — 称呼（新）
+- [[lättsam]] — 轻松的（新）
+- [[medarbetare]] — 同事（新）
+- [[förändring]] — 变化（新）
+- [[konkurrens]] — 竞争（新）
+- [[näthat]] — 网络仇恨言论（新，来自 Zeina Mourtada 篇）
+- [[hatstorm]] — 仇恨风暴（新，来自 Zeina Mourtada 篇）
+- [[kränkande]] — 侮辱性的（新，来自 Zeina Mourtada 篇）
+- [[rasistisk]] — 种族主义的（新，来自 Zeina Mourtada 篇）
+
+### 词组补充 (2026-09-22)
+
+- [[dra-till-sig-uppmärksamhet]] — 引人注目
+- [[sitta-ifred]] — 安静独处
+- [[hjälpas-åt]] — 互相帮忙
+- [[dra-ut-på-tiden]] — 拖延
+- [[ta-kontakt-med]] — 与……联系
+- [[anpassa-sig-till]] — 适应……
+- [[vara-van-vid]] — 习惯于
+- [[ha-det-bra-ställt]] — 生活宽裕
+- [[stöta-till]] — 撞到
+
 ### 相关既有词/词组（在其它主题下已存在，本主题内容与之呼应）
 
 - [[ämne]]、[[lön]]、[[livlig]]、[[föredra]]、[[kind]]、[[kram]]、[[fast]]、[[smaka]]、
@@ -108,3 +152,7 @@ created: "2026-09-03"
 - 相关既有主题：[[topic-kultur-tradition]]（文化与传统，聚焦文化定义与代际变迁）、
   [[topic-social-kontakt]]（社交联系与 SMS 用语，聚焦非正式问候与联系）——本主题聚焦
   "跨文化对比中哪些社会规范不同"这一更具体的议题。
+- 2026-09-22 补充：新增 [[source-2026-09-22-kulturella-skillnader]]（Språkvägen D s. 59–61，
+  Kevin/Louise/Ravi 三人访谈）与 [[source-2026-09-22-zeina-mourtada]]（Zeina Mourtada 篇中的
+  näthat/hatstorm 相关词）的生词与词组，进一步覆盖"打招呼与个人空间"、"怕冲突与社团生活"、
+  "安静低等级职场文化"、"网络仇恨"等子话题。

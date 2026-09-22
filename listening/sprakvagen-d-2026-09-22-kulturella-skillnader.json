@@ -1,0 +1,632 @@
+{
+  "date": "2026-09-22",
+  "cefr": "B1",
+  "timingsApproximate": true,
+  "sourceLinkLabel": "▶ 在出版社播放器听 ↗",
+  "id": "sprakvagen-d-s59-kulturella-skillnader",
+  "title": "Kulturella skillnader — tre röster om Sverige (Språkvägen D s. 59–61)",
+  "source": "Språkvägen D (SFI-lärobok) · Blipsay lyssningskod",
+  "duration": 337.044979,
+  "sourceUrl": "https://blip.sano.ma/player/a/VxDdN",
+  "audioUrl": "media/sprakvagen-d-s59-kulturella-skillnader.mp3",
+  "readingSlug": "paste-2026-09-22-kulturella-skillnader",
+  "note": "课本配套朗读（教材第 59–61 页 QR 码音频）。语速偏快，字幕时间轴为按字数估算，点句跳转可能有 1–2 秒误差。",
+  "vocab": [
+    {
+      "lemma": "intryck",
+      "pos": "subst",
+      "zh": "印象",
+      "en": "impression"
+    },
+    {
+      "lemma": "vana",
+      "pos": "subst",
+      "zh": "习惯",
+      "en": "habit"
+    },
+    {
+      "lemma": "avstånd",
+      "pos": "subst",
+      "zh": "距离",
+      "en": "distance"
+    },
+    {
+      "lemma": "obekväm",
+      "pos": "adj",
+      "zh": "不自在的",
+      "en": "uncomfortable"
+    },
+    {
+      "lemma": "konflikträdd",
+      "pos": "adj",
+      "zh": "怕冲突的",
+      "en": "conflict-avoidant"
+    },
+    {
+      "lemma": "välgörenhet",
+      "pos": "subst",
+      "zh": "慈善",
+      "en": "charity"
+    },
+    {
+      "lemma": "livsstil",
+      "pos": "subst",
+      "zh": "生活方式",
+      "en": "lifestyle"
+    },
+    {
+      "lemma": "frisör",
+      "pos": "subst",
+      "zh": "理发师",
+      "en": "hairdresser"
+    },
+    {
+      "lemma": "samtalsämne",
+      "pos": "subst",
+      "zh": "话题",
+      "en": "topic of conversation"
+    },
+    {
+      "lemma": "vägbeskrivning",
+      "pos": "subst",
+      "zh": "路线指引",
+      "en": "directions"
+    },
+    {
+      "lemma": "förening",
+      "pos": "subst",
+      "zh": "协会、社团",
+      "en": "association"
+    },
+    {
+      "lemma": "föreningsliv",
+      "pos": "subst",
+      "zh": "社团生活",
+      "en": "club life"
+    },
+    {
+      "lemma": "lojal",
+      "pos": "adj",
+      "zh": "忠诚的",
+      "en": "loyal"
+    },
+    {
+      "lemma": "allemansrätt",
+      "pos": "subst",
+      "zh": "公众通行权",
+      "en": "right of public access"
+    },
+    {
+      "lemma": "störa",
+      "pos": "verb",
+      "zh": "打扰",
+      "en": "to disturb"
+    },
+    {
+      "lemma": "uppmärksamhet",
+      "pos": "subst",
+      "zh": "注意力",
+      "en": "attention"
+    },
+    {
+      "lemma": "anonymitet",
+      "pos": "subst",
+      "zh": "匿名（感）",
+      "en": "anonymity"
+    },
+    {
+      "lemma": "hierarkisk",
+      "pos": "adj",
+      "zh": "等级森严的",
+      "en": "hierarchical"
+    },
+    {
+      "lemma": "tilltala",
+      "pos": "verb",
+      "zh": "称呼",
+      "en": "to address"
+    },
+    {
+      "lemma": "lyhörd",
+      "pos": "adj",
+      "zh": "善于倾听的",
+      "en": "attentive"
+    },
+    {
+      "lemma": "medarbetare",
+      "pos": "subst",
+      "zh": "同事、员工",
+      "en": "co-worker"
+    },
+    {
+      "lemma": "konkurrens",
+      "pos": "subst",
+      "zh": "竞争",
+      "en": "competition"
+    }
+  ],
+  "phrases": [
+    {
+      "lemma": "lägga märke till",
+      "zh": "注意到",
+      "en": "to notice"
+    },
+    {
+      "lemma": "be om ursäkt",
+      "zh": "道歉",
+      "en": "to apologise"
+    },
+    {
+      "lemma": "hålla avstånd",
+      "zh": "保持距离",
+      "en": "to keep one's distance"
+    },
+    {
+      "lemma": "dra till sig uppmärksamhet",
+      "zh": "引人注目",
+      "en": "to attract attention"
+    },
+    {
+      "lemma": "sitta ifred",
+      "zh": "安静独处",
+      "en": "to be left in peace"
+    },
+    {
+      "lemma": "hjälpas åt",
+      "zh": "互相帮忙",
+      "en": "to help each other"
+    },
+    {
+      "lemma": "dra ut på tiden",
+      "zh": "拖延",
+      "en": "to drag on"
+    },
+    {
+      "lemma": "anpassa sig till",
+      "zh": "适应",
+      "en": "to adapt to"
+    },
+    {
+      "lemma": "vara van vid",
+      "zh": "习惯于",
+      "en": "to be used to"
+    }
+  ],
+  "grammar": [
+    {
+      "name": "medan bisats",
+      "zh": "medan 引导对比从句",
+      "en": "contrastive medan"
+    },
+    {
+      "name": "så fort tidsbisats",
+      "zh": "一……就……",
+      "en": "as soon as"
+    },
+    {
+      "name": "man generellt",
+      "zh": "泛指人称 man",
+      "en": "generic man"
+    },
+    {
+      "name": "hen",
+      "zh": "中性第三人称代词",
+      "en": "gender-neutral pronoun"
+    },
+    {
+      "name": "s-passiv",
+      "zh": "动词加 -s 被动",
+      "en": "s-passive"
+    }
+  ],
+  "cues": [
+    {
+      "start": 1.2,
+      "end": 2.43,
+      "sv": "Kulturella skillnader",
+      "zh": "文化差异"
+    },
+    {
+      "start": 2.73,
+      "end": 6.17,
+      "sv": "När man flyttar till ett nytt land möts man av nya intryck.",
+      "zh": "当你搬到一个新国家，会遇到许多新的印象。"
+    },
+    {
+      "start": 6.47,
+      "end": 13.41,
+      "sv": "Vissa traditioner och vanor kan vara spännande medan andra kulturella skillnader kan vara svårare att anpassa sig till.",
+      "zh": "有些传统和习惯很有意思，而另一些文化差异则更难适应。"
+    },
+    {
+      "start": 13.71,
+      "end": 17.15,
+      "sv": "Vi har pratat med tre personer om deras intryck av Sverige.",
+      "zh": "我们和三个人聊了聊他们对瑞典的印象。"
+    },
+    {
+      "start": 18.3,
+      "end": 19.06,
+      "sv": "Kevin, 34 år.",
+      "zh": "Kevin，34 岁。"
+    },
+    {
+      "start": 19.36,
+      "end": 23.68,
+      "sv": "Min fru är från Sverige och jag flyttade hit från Wales för åtta år sedan.",
+      "zh": "我太太是瑞典人，八年前我从威尔士搬到了这里。"
+    },
+    {
+      "start": 23.98,
+      "end": 28.64,
+      "sv": "Under min första tid här kände jag mig ensam eftersom ingen lade märke till mig.",
+      "zh": "刚来的那段时间我觉得很孤单，因为没人注意到我。"
+    },
+    {
+      "start": 28.94,
+      "end": 35.83,
+      "sv": "Jag log mot folk jag mötte på gatan men de mötte inte min blick och jag fick aldrig ett hej eller ett leende tillbaka.",
+      "zh": "我对街上遇到的人微笑，但他们不与我对视，我从没得到一句问候或一个回以的微笑。"
+    },
+    {
+      "start": 36.13,
+      "end": 40.33,
+      "sv": "Det var inte heller någon som bad om ursäkt om de råkade stöta till mig.",
+      "zh": "也没有人在不小心撞到我时道歉。"
+    },
+    {
+      "start": 40.63,
+      "end": 44.07,
+      "sv": "Jag blev nästan lite nere eftersom jag inte kände mig sedd.",
+      "zh": "我几乎有点低落，因为我觉得自己没被看见。"
+    },
+    {
+      "start": 44.37,
+      "end": 49.1,
+      "sv": "Jag berättade för min fru om mina känslor och hon sa att det inte berodde på mig.",
+      "zh": "我把这些感受告诉太太，她说这不是因为我。"
+    },
+    {
+      "start": 49.4,
+      "end": 53.48,
+      "sv": "Svenskarna hälsade helt enkelt inte på mig eftersom de inte kände mig.",
+      "zh": "瑞典人只是因为不认识我才不打招呼。"
+    },
+    {
+      "start": 53.78,
+      "end": 61.77,
+      "sv": "I Wales är jag van vid att man hälsar på människor som man möter och man ber alltid om ursäkt om man behöver komma fram i en folksamling.",
+      "zh": "在威尔士我习惯了见到人要打招呼，人多时要挤过去也总会说声抱歉。"
+    },
+    {
+      "start": 62.92,
+      "end": 69.11,
+      "sv": "En annan skillnad är att svenskar verkar hålla avstånd till varandra, inte bara socialt utan även fysiskt.",
+      "zh": "另一个差别是瑞典人似乎彼此保持距离，不只是社交上，身体上也是。"
+    },
+    {
+      "start": 69.41,
+      "end": 74.25,
+      "sv": "Man brukar prata om att alla har en personlig sfär som man inte ska komma innanför.",
+      "zh": "人们常说每个人都有一个私人空间，别人不该进入。"
+    },
+    {
+      "start": 74.55,
+      "end": 77.41,
+      "sv": "Det märks tydligt om man står för nära en svensk.",
+      "zh": "如果你站得离瑞典人太近，会很明显感觉到。"
+    },
+    {
+      "start": 77.71,
+      "end": 81.09,
+      "sv": "Då blir personen obekväm och backar försiktigt några steg.",
+      "zh": "那人会不自在，小心地后退几步。"
+    },
+    {
+      "start": 81.39,
+      "end": 84.89,
+      "sv": "Ett annat exempel är när man kliver på en relativt tom buss.",
+      "zh": "另一个例子是上一辆比较空的公交车。"
+    },
+    {
+      "start": 85.19,
+      "end": 91.96,
+      "sv": "Om man sätter sig bredvid en annan person anses det lite konstigt och man ska absolut inte börja prata med personen.",
+      "zh": "如果你坐在别人旁边，会被认为有点奇怪，而且绝对不该开口跟对方说话。"
+    },
+    {
+      "start": 92.26,
+      "end": 95.29,
+      "sv": "Då tittar hen på en med förvånad och skeptisk blick.",
+      "zh": "那人会用惊讶又怀疑的眼神看着你。"
+    },
+    {
+      "start": 96.44,
+      "end": 103.44,
+      "sv": "Samtidigt som svenskar kan verka kyliga och avståndstagande är det många som engagerar sig ideellt för att hjälpa andra.",
+      "zh": "尽管瑞典人显得冷淡疏远，却有很多人做志愿工作去帮助别人。"
+    },
+    {
+      "start": 103.74,
+      "end": 108.41,
+      "sv": "Många arbetar frivilligt i organisationer eller skänker pengar till välgörenhet.",
+      "zh": "许多人在各种组织里做义工，或者捐钱做慈善。"
+    },
+    {
+      "start": 108.71,
+      "end": 117.93,
+      "sv": "Jag har sett att det finns många Facebookgrupper som samlar in pengar för att kunna köpa matkassar eller kläder till människor som inte har det så bra ställt.",
+      "zh": "我看到有很多 Facebook 群组募款，为处境不好的人买食物袋或衣服。"
+    },
+    {
+      "start": 118.23,
+      "end": 123.71,
+      "sv": "Många tar också beslut i sin vardag för att samhället ska bli bättre, speciellt i miljöfrågor.",
+      "zh": "很多人也在日常生活中做出选择，好让社会变得更好，尤其是在环保问题上。"
+    },
+    {
+      "start": 124.01,
+      "end": 128.39,
+      "sv": "Jag känner många som har ändrat sin livsstil för att leva mer miljövänligt.",
+      "zh": "我认识不少人为了更环保而改变了生活方式。"
+    },
+    {
+      "start": 129.54,
+      "end": 130.36,
+      "sv": "Louise, 39 år.",
+      "zh": "Louise，39 岁。"
+    },
+    {
+      "start": 130.66,
+      "end": 135.21,
+      "sv": "Jag kommer från Frankrike och flyttade till Sverige för att jag fick jobb här.",
+      "zh": "我来自法国，因为在这里找到工作而搬来瑞典。"
+    },
+    {
+      "start": 135.51,
+      "end": 139.88,
+      "sv": "Jag har märkt att svenskar är konflikträdda och att de inte vågar säga nej.",
+      "zh": "我注意到瑞典人怕冲突，不敢说不。"
+    },
+    {
+      "start": 140.18,
+      "end": 144.09,
+      "sv": "Om de bjuds på mat så är allt jättegott även om de inte tycker det.",
+      "zh": "别人请他们吃饭，就算不觉得好吃，也说什么都“超好吃”。"
+    },
+    {
+      "start": 144.39,
+      "end": 149.87,
+      "sv": "Jag har en vän som berättade att hon blev missnöjd med klippningen när hon gick till frisören.",
+      "zh": "我有个朋友说她去理发店时对发型不满意。"
+    },
+    {
+      "start": 150.17,
+      "end": 154.73,
+      "sv": "Istället för att klaga gick hon till en annan frisör som fick fixa till håret.",
+      "zh": "她没有抱怨，而是去另一家理发店把头发修好。"
+    },
+    {
+      "start": 155.03,
+      "end": 162.26,
+      "sv": "På mitt jobb undviker många känsliga åsikter och pratar istället om säkra samtalsämnen, som sina helgplaner eller om vädret.",
+      "zh": "在我工作的地方，很多人回避敏感看法，改聊安全的话题，比如周末计划或天气。"
+    },
+    {
+      "start": 162.56,
+      "end": 168.45,
+      "sv": "Det är sällan jag hör diskussioner om politik och att folk frågar varandra vilket parti de röstar på.",
+      "zh": "我很少听到关于政治的讨论，也很少见人互问投哪个党。"
+    },
+    {
+      "start": 169.6,
+      "end": 173.69,
+      "sv": "Jag tror också att svenskar har svårt för att släppa in nya människor.",
+      "zh": "我还觉得瑞典人不太容易让新的人走进自己的生活。"
+    },
+    {
+      "start": 173.99,
+      "end": 181.04,
+      "sv": "De brukar inte spontant ta kontakt med andra, om det inte är ett nödfall eller om de behöver hjälp med en vägbeskrivning.",
+      "zh": "他们通常不会主动搭讪，除非是紧急情况或需要问路。"
+    },
+    {
+      "start": 181.34,
+      "end": 189.34,
+      "sv": "Jag har en svensk man så jag har lärt känna de flesta av mina vänner genom honom men utan kontakter tror jag att man kan känna sig ensam.",
+      "zh": "我先生是瑞典人，所以我大部分朋友都是通过他认识的；但要是没有人脉，我想人会很孤单。"
+    },
+    {
+      "start": 189.64,
+      "end": 193.78,
+      "sv": "Då kan det vara bra att gå med i en förening för att träffa vänner där.",
+      "zh": "这时加入一个协会、在那里结识朋友会很有帮助。"
+    },
+    {
+      "start": 194.08,
+      "end": 200.44,
+      "sv": "Föreningslivet är stort i Sverige och det finns idrottsföreningar och föreningar för alla typer av intressen.",
+      "zh": "瑞典的社团生活很发达，有体育协会，也有各种兴趣的协会。"
+    },
+    {
+      "start": 200.74,
+      "end": 205.58,
+      "sv": "Några ordnar aktiviteter för oss som är nya i Sverige, till exempel Kompis Sverige.",
+      "zh": "有些还为我们这些新来瑞典的人举办活动，比如 Kompis Sverige。"
+    },
+    {
+      "start": 205.88,
+      "end": 208.39,
+      "sv": "Där kan man få hjälp med att träffa vänner.",
+      "zh": "在那里可以得到帮助去结识朋友。"
+    },
+    {
+      "start": 208.69,
+      "end": 215.98,
+      "sv": "När jag var ny här brukade jag gå till språkkaféer på biblioteket för att träna svenska och för att lära känna nya människor.",
+      "zh": "我刚来时常去图书馆的语言咖啡角练瑞典语、认识新朋友。"
+    },
+    {
+      "start": 216.28,
+      "end": 221.94,
+      "sv": "Något jag ofta hör är att när man väl har en svensk vän är de lojala och man är vänner för livet.",
+      "zh": "我常听说，一旦交到了瑞典朋友，他们很忠诚，会是一辈子的朋友。"
+    },
+    {
+      "start": 222.24,
+      "end": 223.7,
+      "sv": "Jag tror att det stämmer.",
+      "zh": "我相信这是真的。"
+    },
+    {
+      "start": 224.85,
+      "end": 225.55,
+      "sv": "Ravi, 25 år.",
+      "zh": "Ravi，25 岁。"
+    },
+    {
+      "start": 225.85,
+      "end": 228.47,
+      "sv": "Jag flyttade hit från Indien för att studera.",
+      "zh": "我从印度搬来这里念书。"
+    },
+    {
+      "start": 228.77,
+      "end": 229.77,
+      "sv": "Jag var 22 år då.",
+      "zh": "那时我 22 岁。"
+    },
+    {
+      "start": 230.07,
+      "end": 236.08,
+      "sv": "I början reagerade jag på att det var så rent här och att svenskarna uppskattar att vara ute i naturen.",
+      "zh": "一开始让我惊讶的是这里这么干净，而且瑞典人很享受待在大自然里。"
+    },
+    {
+      "start": 236.38,
+      "end": 241.98,
+      "sv": "Så fort den första snön kommer ser man de vuxna åka pulka, skridskor eller skidor med sina barn.",
+      "zh": "第一场雪一下，就能看到大人带着孩子滑雪橇、滑冰或滑雪。"
+    },
+    {
+      "start": 242.28,
+      "end": 246.42,
+      "sv": "På sommaren är de ute och vandrar eller plockar bär och svamp i skogen.",
+      "zh": "夏天他们去徒步，或者到林子里采浆果和蘑菇。"
+    },
+    {
+      "start": 246.72,
+      "end": 249.11,
+      "sv": "Jag har också lärt mig om Allemansrätten.",
+      "zh": "我也了解了“公众通行权”（Allemansrätten）。"
+    },
+    {
+      "start": 249.41,
+      "end": 254.19,
+      "sv": "Den innebär att alla får vara ute i naturen, även på områden som någon annan äger.",
+      "zh": "它意味着所有人都可以待在自然里，即使是别人拥有的土地。"
+    },
+    {
+      "start": 254.49,
+      "end": 259.45,
+      "sv": "Man bör dock tänka på att inte störa andra människor och djur och inte skada naturen.",
+      "zh": "但要注意不打扰他人和动物，也不要破坏自然。"
+    },
+    {
+      "start": 260.6,
+      "end": 263.17,
+      "sv": "Jag tänkte också på att det var så tyst här.",
+      "zh": "我还注意到这里很安静。"
+    },
+    {
+      "start": 263.47,
+      "end": 267.55,
+      "sv": "Många pratar med låg röst på bussen eller på andra offentliga platser.",
+      "zh": "很多人在公交车上或其他公共场合都小声说话。"
+    },
+    {
+      "start": 267.85,
+      "end": 272.75,
+      "sv": "Jag tror inte att svenskar gillar när de drar till sig uppmärksamhet och stör andra.",
+      "zh": "我想瑞典人不喜欢引人注目、打扰别人。"
+    },
+    {
+      "start": 273.05,
+      "end": 276.26,
+      "sv": "De pratar inte heller med människor som de inte känner.",
+      "zh": "他们也不跟不认识的人搭话。"
+    },
+    {
+      "start": 276.56,
+      "end": 281.23,
+      "sv": "Du kan sätta dig själv på ett kafé och vara rätt så säker på att få sitta ifred.",
+      "zh": "你可以一个人坐在咖啡馆里，相当有把握不会被打扰。"
+    },
+    {
+      "start": 281.53,
+      "end": 282.41,
+      "sv": "Det passar mig.",
+      "zh": "这很适合我。"
+    },
+    {
+      "start": 282.71,
+      "end": 288.13,
+      "sv": "Jag uppskattar tystnaden och anonymiteten och tycker att det är skönt att vara för mig själv.",
+      "zh": "我喜欢这份安静和匿名感，觉得独处很舒服。"
+    },
+    {
+      "start": 289.28,
+      "end": 294.07,
+      "sv": "En annan sak som jag uppskattar med Sverige är att det inte är så hierarkiskt här.",
+      "zh": "我欣赏瑞典的另一点是这里没那么等级森严。"
+    },
+    {
+      "start": 294.37,
+      "end": 300.49,
+      "sv": "När jag studerade behövde jag inte vara orolig för hur jag skulle tilltala lärarna och rektorn på skolan.",
+      "zh": "读书时我不必担心该怎么称呼老师和校长。"
+    },
+    {
+      "start": 300.79,
+      "end": 302.72,
+      "sv": "I Sverige säger man du till alla.",
+      "zh": "在瑞典对所有人都用“你”。"
+    },
+    {
+      "start": 303.02,
+      "end": 308.91,
+      "sv": "Nu när jag jobbar tycker jag också att det är skönt att man kan ha en lättsam relation till sin chef.",
+      "zh": "现在工作了，我也觉得能和上司保持轻松的关系很舒服。"
+    },
+    {
+      "start": 309.21,
+      "end": 314.81,
+      "sv": "På fikapauserna sitter min chef ofta med och vi kan prata om allt möjligt, både jobb och fritid.",
+      "zh": "fika 休息时我的上司常和大家坐在一起，什么都聊，工作和业余都聊。"
+    },
+    {
+      "start": 315.96,
+      "end": 322.49,
+      "sv": "Många svenskar är också lyhörda och på min arbetsplats lyssnar vi på varandra och respekterar varandras åsikter.",
+      "zh": "很多瑞典人也很善于倾听，在我的工作场所我们互相倾听、尊重彼此的意见。"
+    },
+    {
+      "start": 322.79,
+      "end": 326.64,
+      "sv": "Vi hjälps åt och jag upplever inte att det finns någon konkurrens.",
+      "zh": "我们互相帮忙，我感觉不到有什么竞争。"
+    },
+    {
+      "start": 326.94,
+      "end": 331.61,
+      "sv": "Alla medarbetare ska också vara med och diskutera förändringar på arbetsplatsen.",
+      "zh": "所有员工也都要参与讨论工作场所的变动。"
+    },
+    {
+      "start": 331.91,
+      "end": 337.04,
+      "sv": "Det är positivt att ha möjlighet att påverka men samtidigt kan besluten dra ut på tiden.",
+      "zh": "能有影响力是好事，但同时决策也会拖得很久。"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "date": "2026-09-22",
+  "cefr": "B1",
+  "timingsApproximate": true,
+  "sourceLinkLabel": "▶ 在出版社播放器听 ↗",
+  "id": "sprakvagen-d-s45-zeina",
+  "title": "Zeina Mourtada — från matblogg till teveköket (Språkvägen D s. 45–47)",
+  "source": "Språkvägen D (SFI-lärobok) · Blipsay lyssningskod",
+  "duration": 291.43966,
+  "sourceUrl": "https://blip.sano.ma/player/a/suxso",
+  "audioUrl": "media/sprakvagen-d-s45-zeina.mp3",
+  "readingSlug": "paste-2026-09-22-zeina-mourtada",
+  "note": "课本配套朗读（教材第 45–47 页 QR 码音频）。字幕时间轴为按字数估算，点句跳转可能有 1–2 秒误差。",
+  "vocab": [
+    {
+      "lemma": "maträtt",
+      "pos": "subst",
+      "zh": "菜肴",
+      "en": "dish"
+    },
+    {
+      "lemma": "karismatisk",
+      "pos": "adj",
+      "zh": "有魅力的",
+      "en": "charismatic"
+    },
+    {
+      "lemma": "omtyckt",
+      "pos": "adj",
+      "zh": "受喜爱的",
+      "en": "well-liked"
+    },
+    {
+      "lemma": "matblogg",
+      "pos": "subst",
+      "zh": "美食博客",
+      "en": "food blog"
+    },
+    {
+      "lemma": "kokbok",
+      "pos": "subst",
+      "zh": "食谱书",
+      "en": "cookbook"
+    },
+    {
+      "lemma": "matkultur",
+      "pos": "subst",
+      "zh": "饮食文化",
+      "en": "food culture"
+    },
+    {
+      "lemma": "inbördeskrig",
+      "pos": "subst",
+      "zh": "内战",
+      "en": "civil war"
+    },
+    {
+      "lemma": "tillbringa",
+      "pos": "verb",
+      "zh": "度过（时间）",
+      "en": "to spend (time)"
+    },
+    {
+      "lemma": "oroligheter",
+      "pos": "subst",
+      "zh": "动乱",
+      "en": "unrest"
+    },
+    {
+      "lemma": "doft",
+      "pos": "subst",
+      "zh": "香味",
+      "en": "scent"
+    },
+    {
+      "lemma": "kvitto",
+      "pos": "subst",
+      "zh": "收据",
+      "en": "receipt"
+    },
+    {
+      "lemma": "inlägg",
+      "pos": "subst",
+      "zh": "帖子",
+      "en": "post"
+    },
+    {
+      "lemma": "skeptisk",
+      "pos": "adj",
+      "zh": "怀疑的",
+      "en": "sceptical"
+    },
+    {
+      "lemma": "näthat",
+      "pos": "subst",
+      "zh": "网络仇恨言论",
+      "en": "online hate"
+    },
+    {
+      "lemma": "slöja",
+      "pos": "subst",
+      "zh": "头巾",
+      "en": "veil"
+    },
+    {
+      "lemma": "kränkande",
+      "pos": "adj",
+      "zh": "侮辱性的",
+      "en": "offensive"
+    },
+    {
+      "lemma": "hatstorm",
+      "pos": "subst",
+      "zh": "仇恨风暴",
+      "en": "storm of hate"
+    },
+    {
+      "lemma": "färskost",
+      "pos": "subst",
+      "zh": "新鲜奶酪",
+      "en": "fresh cheese"
+    }
+  ],
+  "phrases": [
+    {
+      "lemma": "ta del av",
+      "zh": "接触到、了解到",
+      "en": "to take part of"
+    },
+    {
+      "lemma": "till en början",
+      "zh": "一开始",
+      "en": "at first"
+    },
+    {
+      "lemma": "lägga undan",
+      "zh": "留起来、放到一边",
+      "en": "to put aside"
+    },
+    {
+      "lemma": "ge upp",
+      "zh": "放弃",
+      "en": "to give up"
+    },
+    {
+      "lemma": "stå bakom någon",
+      "zh": "支持某人",
+      "en": "to stand behind someone"
+    },
+    {
+      "lemma": "röra upp känslor",
+      "zh": "激起情绪",
+      "en": "to stir up emotions"
+    },
+    {
+      "lemma": "gå med i",
+      "zh": "加入",
+      "en": "to join"
+    },
+    {
+      "lemma": "bestämma sig för",
+      "zh": "决定",
+      "en": "to decide on"
+    }
+  ],
+  "grammar": [
+    {
+      "name": "genom att infinitiv",
+      "zh": "通过做某事",
+      "en": "by doing something"
+    },
+    {
+      "name": "bli-passiv",
+      "zh": "bli + 过去分词被动",
+      "en": "bli-passive"
+    },
+    {
+      "name": "s-passiv",
+      "zh": "动词加 -s 被动",
+      "en": "s-passive"
+    },
+    {
+      "name": "participial adjektiv",
+      "zh": "过去分词作定语",
+      "en": "participle as attribute"
+    }
+  ],
+  "cues": [
+    {
+      "start": 1.2,
+      "end": 2.42,
+      "sv": "Zeina Mourtada",
+      "zh": "Zeina Mourtada"
+    },
+    {
+      "start": 2.72,
+      "end": 11.39,
+      "sv": "Många känner nog igen Zeina Mourtada från teve där hon lagar spännande maträtter från hela världen.",
+      "zh": "很多人大概都在电视上认得 Zeina Mourtada，她在节目里做来自世界各地的精彩菜肴。"
+    },
+    {
+      "start": 11.69,
+      "end": 19.04,
+      "sv": "Med sitt glada och karismatiska sätt har hon blivit ett omtyckt ansikte i teverutan.",
+      "zh": "凭着开朗而有魅力的作风，她成了荧幕上广受喜爱的面孔。"
+    },
+    {
+      "start": 19.34,
+      "end": 27.21,
+      "sv": "Hon driver också en av Sveriges största matbloggar och är författare till flera kokböcker.",
+      "zh": "她还经营着瑞典最大的美食博客之一，并且是好几本食谱书的作者。"
+    },
+    {
+      "start": 27.51,
+      "end": 34.16,
+      "sv": "Intresset för mat och för olika länders matkulturer fick hon från sin mamma.",
+      "zh": "对食物和各国饮食文化的兴趣，是从妈妈那里得来的。"
+    },
+    {
+      "start": 35.31,
+      "end": 44.93,
+      "sv": "Zeinas föräldrar kommer ifrån Libanon men de flydde till Sierra Leone i Västafrika på grund av inbördeskriget.",
+      "zh": "Zeina 的父母来自黎巴嫩，但因为内战逃到了西非的塞拉利昂。"
+    },
+    {
+      "start": 45.23,
+      "end": 56.17,
+      "sv": "I Sierra Leone föddes Zeina och hon tillbringade sina första år där innan oroligheter tvingade familjen att fly till Sverige.",
+      "zh": "Zeina 在塞拉利昂出生，在那里度过最初几年，后来动乱迫使全家逃往瑞典。"
+    },
+    {
+      "start": 57.32,
+      "end": 63.36,
+      "sv": "Zeinas mamma var inte rädd för att laga det nya hemlandets maträtter.",
+      "zh": "Zeina 的妈妈不怕做新家园的菜。"
+    },
+    {
+      "start": 63.66,
+      "end": 70.31,
+      "sv": "Genom att läsa kokböcker lärde hon sig både svenska och om svensk matkultur.",
+      "zh": "通过读食谱书，她既学了瑞典语，也了解了瑞典饮食文化。"
+    },
+    {
+      "start": 70.61,
+      "end": 77.87,
+      "sv": "Zeina var ofta med i köket och ett tidigt matminne är när hennes mamma bakade bröd.",
+      "zh": "Zeina 常常跟着进厨房，最早的食物记忆之一就是妈妈烤面包。"
+    },
+    {
+      "start": 78.17,
+      "end": 84.38,
+      "sv": "På 80-talet fanns det inte pitabröd att köpa i de svenska matbutikerna.",
+      "zh": "八十年代瑞典的食品店里买不到皮塔饼。"
+    },
+    {
+      "start": 84.68,
+      "end": 93.34,
+      "sv": "Eftersom pitabröd är en viktig del i det libanesiska köket bakade hon ett berg av bröd varje månad.",
+      "zh": "因为皮塔饼是黎巴嫩菜的重要一部分，她每个月都烤一大堆面包。"
+    },
+    {
+      "start": 93.64,
+      "end": 97.05,
+      "sv": "Zeina älskade doften som fyllde hemmet.",
+      "zh": "Zeina 喜欢那股弥漫整个家的香味。"
+    },
+    {
+      "start": 98.2,
+      "end": 108.79,
+      "sv": "Som vuxen brukade Zeina ringa sin mamma för att fråga om olika recept – recept som hon skrev ner på lappar eller kvitton.",
+      "zh": "成年后 Zeina 常打电话问妈妈各种食谱——她把食谱记在纸条或收据上。"
+    },
+    {
+      "start": 109.09,
+      "end": 115.74,
+      "sv": "Sedan fotade hon maten hon hade lagat och skickade bilderna till sin familj.",
+      "zh": "然后她把做好的菜拍下来，把照片发给家人。"
+    },
+    {
+      "start": 116.04,
+      "end": 121.99,
+      "sv": "Hennes syster tipsade Zeina om att gå med i en matgrupp på Facebook.",
+      "zh": "她姐姐（妹妹）建议她加入 Facebook 上的一个美食群组。"
+    },
+    {
+      "start": 122.29,
+      "end": 125.97,
+      "sv": "Där kunde fler få ta del av hennes recept.",
+      "zh": "在那里更多人能看到她的食谱。"
+    },
+    {
+      "start": 126.27,
+      "end": 135.28,
+      "sv": "Till en början var hon skeptisk och trodde inte att någon skulle vara intresserad av hennes matlagning.",
+      "zh": "一开始她将信将疑，不觉得会有人对她的烹饪感兴趣。"
+    },
+    {
+      "start": 136.43,
+      "end": 142.73,
+      "sv": "Zeinas första inlägg i matgruppen var på labhnebollar rullade i kryddor.",
+      "zh": "Zeina 在美食群里的第一篇帖子是裹着香料的酸奶奶酪球（labhnebollar）。"
+    },
+    {
+      "start": 143.03,
+      "end": 149.59,
+      "sv": "De blev mycket uppskattade och gruppens medlemmar bad henne om fler recept.",
+      "zh": "大受欢迎，群成员纷纷向她要更多食谱。"
+    },
+    {
+      "start": 149.89,
+      "end": 152.95,
+      "sv": "Då kom idén att starta en matblogg.",
+      "zh": "于是就有了开美食博客的主意。"
+    },
+    {
+      "start": 153.25,
+      "end": 161.04,
+      "sv": "Det var ett sätt för henne att samla alla recept som hon hade nedskrivna på olika lappar.",
+      "zh": "这也是把她写在各种纸条上的食谱集中起来的一个办法。"
+    },
+    {
+      "start": 161.34,
+      "end": 167.99,
+      "sv": "Bloggen blev populär och Zeina blev tillfrågad om hon ville laga mat i teve.",
+      "zh": "博客火了起来，有人来问 Zeina 愿不愿意上电视做菜。"
+    },
+    {
+      "start": 169.14,
+      "end": 173.86,
+      "sv": "Zeina uppmuntrades i sin nya karriär av sin man Jamil.",
+      "zh": "在新的事业上，Zeina 得到了丈夫 Jamil 的鼓励。"
+    },
+    {
+      "start": 174.16,
+      "end": 182.65,
+      "sv": "De träffades 2004 när hon jobbade i en sportbutik och Jamil kom in för att köpa ett par badbyxor.",
+      "zh": "他们 2004 年相识，当时她在一家运动用品店工作，Jamil 进来买泳裤。"
+    },
+    {
+      "start": 182.95,
+      "end": 188.72,
+      "sv": "Zeina blev genast intresserad av honom och de började flirta lite.",
+      "zh": "Zeina 立刻对他有了好感，两人开始有点调情。"
+    },
+    {
+      "start": 189.02,
+      "end": 196.55,
+      "sv": "Badbyxorna fanns inte i rätt storlek men Zeina kunde se att de fanns i en annan butik.",
+      "zh": "店里没有合适尺码的泳裤，但 Zeina 查到另一家店有。"
+    },
+    {
+      "start": 196.85,
+      "end": 201.75,
+      "sv": "När Jamil gick till den andra butiken fick Zeina en idé.",
+      "zh": "Jamil 去另一家店时，Zeina 冒出一个主意。"
+    },
+    {
+      "start": 202.05,
+      "end": 212.02,
+      "sv": "Hon ville träffa honom igen så hon ringde upp den butik där hon hade lagt undan badbyxorna för att fråga om hjälp.",
+      "zh": "她想再见到他，于是打电话给那家帮她留货的店求助。"
+    },
+    {
+      "start": 212.32,
+      "end": 218.36,
+      "sv": "Hon bad dem att lägga en lapp med hennes telefonnummer i Jamils påse.",
+      "zh": "她请他们把写着自己电话号码的纸条放进 Jamil 的袋子里。"
+    },
+    {
+      "start": 218.66,
+      "end": 225.83,
+      "sv": "Det var ett bra beslut för Jamil ringde samma kväll och efter ett år var de gifta.",
+      "zh": "这是个好决定，因为 Jamil 当晚就打来了电话，一年后他们就结婚了。"
+    },
+    {
+      "start": 226.98,
+      "end": 236.17,
+      "sv": "Jamil har alltid stått bakom Zeina, inte minst när hon möttes av näthat efter sin debut som kock på teve.",
+      "zh": "Jamil 一直支持着 Zeina，尤其是在她首次上电视当厨师后遭遇网络仇恨言论时。"
+    },
+    {
+      "start": 236.47,
+      "end": 247.32,
+      "sv": "Hon var bland de första att bära slöja i svensk teve och många skrev kränkande och rasistiska kommentarer om henne på nätet.",
+      "zh": "她是最早在瑞典电视上戴头巾的人之一，很多人在网上写下侮辱性和种族主义的评论。"
+    },
+    {
+      "start": 247.62,
+      "end": 252.69,
+      "sv": "Värst var det 2018 när hon lagade kebab på midsommardagen.",
+      "zh": "最严重的是 2018 年，她在仲夏节那天做了烤肉串（kebab）。"
+    },
+    {
+      "start": 252.99,
+      "end": 257.8,
+      "sv": "Det rörde upp många känslor och ledde till en hatstorm.",
+      "zh": "这激起了很多情绪，引发了一场仇恨风暴。"
+    },
+    {
+      "start": 258.1,
+      "end": 267.38,
+      "sv": "Zeina funderade på att lämna offentligheten och ge upp sin karriär men hon bestämde sig för att fortsätta.",
+      "zh": "Zeina 曾考虑退出公众视野、放弃事业，但她决定继续下去。"
+    },
+    {
+      "start": 267.68,
+      "end": 277.39,
+      "sv": "Människorna bakom näthatet var trots allt bara en liten grupp och de som älskade vad hon gjorde var många fler.",
+      "zh": "毕竟网络仇恨背后只是一小撮人，而喜爱她所做的事的人要多得多。"
+    },
+    {
+      "start": 277.69,
+      "end": 285.83,
+      "sv": "I dag har de flesta negativa reaktionerna lagt sig och hon möts mest av positiva kommentarer.",
+      "zh": "如今大部分负面反应都平息了，她收到的多是正面评论。"
+    },
+    {
+      "start": 286.98,
+      "end": 291.44,
+      "sv": "Labhnebollar är färskost gjord på avrunnen yoghurt.",
+      "zh": "Labhnebollar 是用沥干的酸奶做成的新鲜奶酪球。"
+    }
+  ]
+}
