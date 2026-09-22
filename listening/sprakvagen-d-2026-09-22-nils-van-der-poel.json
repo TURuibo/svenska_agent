@@ -1,0 +1,662 @@
+{
+  "date": "2026-09-22",
+  "cefr": "B1",
+  "timingsApproximate": true,
+  "sourceLinkLabel": "▶ 在出版社播放器听 ↗",
+  "id": "sprakvagen-d-s77-nils-van-der-poel",
+  "title": "Nils van der Poel — skridskoåkaren som gav allt (Språkvägen D s. 77–79)",
+  "source": "Språkvägen D (SFI-lärobok) · Blipsay lyssningskod",
+  "duration": 394.087279,
+  "sourceUrl": "https://blip.sano.ma/player/a/VnoFn",
+  "audioUrl": "media/sprakvagen-d-s77-nils-van-der-poel.mp3",
+  "readingSlug": "paste-2026-09-22-nils-van-der-poel",
+  "note": "课本配套朗读（教材第 77–79 页 QR 码音频）。字幕时间轴为按字数估算，点句跳转可能有 1–2 秒误差。",
+  "vocab": [
+    {
+      "lemma": "skridskoåkare",
+      "pos": "subst",
+      "zh": "速滑运动员",
+      "en": "speed skater"
+    },
+    {
+      "lemma": "anonym",
+      "pos": "adj",
+      "zh": "默默无闻的",
+      "en": "anonymous"
+    },
+    {
+      "lemma": "världsrekord",
+      "pos": "subst",
+      "zh": "世界纪录",
+      "en": "world record"
+    },
+    {
+      "lemma": "emigrera",
+      "pos": "verb",
+      "zh": "移民（出国）",
+      "en": "to emigrate"
+    },
+    {
+      "lemma": "bosätta sig",
+      "pos": "verb",
+      "zh": "定居",
+      "en": "to settle down"
+    },
+    {
+      "lemma": "konditionsträning",
+      "pos": "subst",
+      "zh": "耐力训练",
+      "en": "endurance training"
+    },
+    {
+      "lemma": "locka",
+      "pos": "verb",
+      "zh": "吸引",
+      "en": "to entice"
+    },
+    {
+      "lemma": "tillåta",
+      "pos": "verb",
+      "zh": "允许",
+      "en": "to allow"
+    },
+    {
+      "lemma": "satsa",
+      "pos": "verb",
+      "zh": "投入、押注",
+      "en": "to go for it"
+    },
+    {
+      "lemma": "ifrågasätta",
+      "pos": "verb",
+      "zh": "质疑",
+      "en": "to question"
+    },
+    {
+      "lemma": "segrare",
+      "pos": "subst",
+      "zh": "胜利者",
+      "en": "winner"
+    },
+    {
+      "lemma": "konsekvens",
+      "pos": "subst",
+      "zh": "后果",
+      "en": "consequence"
+    },
+    {
+      "lemma": "avstå",
+      "pos": "verb",
+      "zh": "放弃、割舍",
+      "en": "to abstain"
+    },
+    {
+      "lemma": "uppnå",
+      "pos": "verb",
+      "zh": "达成",
+      "en": "to achieve"
+    },
+    {
+      "lemma": "tillfredsställelse",
+      "pos": "subst",
+      "zh": "满足感",
+      "en": "satisfaction"
+    },
+    {
+      "lemma": "tvivla",
+      "pos": "verb",
+      "zh": "怀疑",
+      "en": "to doubt"
+    },
+    {
+      "lemma": "lättnad",
+      "pos": "subst",
+      "zh": "轻松、解脱",
+      "en": "relief"
+    },
+    {
+      "lemma": "självbild",
+      "pos": "subst",
+      "zh": "自我形象",
+      "en": "self-image"
+    },
+    {
+      "lemma": "förknippad",
+      "pos": "adj",
+      "zh": "与……相联系的",
+      "en": "associated"
+    },
+    {
+      "lemma": "identitet",
+      "pos": "subst",
+      "zh": "身份认同",
+      "en": "identity"
+    },
+    {
+      "lemma": "fallskärmshoppning",
+      "pos": "subst",
+      "zh": "跳伞",
+      "en": "parachuting"
+    },
+    {
+      "lemma": "flygfält",
+      "pos": "subst",
+      "zh": "机场、飞行场",
+      "en": "airfield"
+    },
+    {
+      "lemma": "likasinnad",
+      "pos": "subst",
+      "zh": "志同道合者",
+      "en": "like-minded person"
+    },
+    {
+      "lemma": "tonårstid",
+      "pos": "subst",
+      "zh": "青少年时期",
+      "en": "teenage years"
+    },
+    {
+      "lemma": "elitkarriär",
+      "pos": "subst",
+      "zh": "精英运动生涯",
+      "en": "elite career"
+    },
+    {
+      "lemma": "tävlingsuppehåll",
+      "pos": "subst",
+      "zh": "暂停比赛",
+      "en": "competition break"
+    },
+    {
+      "lemma": "kritisk",
+      "pos": "adj",
+      "zh": "批评的",
+      "en": "critical"
+    },
+    {
+      "lemma": "framgångsrik",
+      "pos": "adj",
+      "zh": "成功的",
+      "en": "successful"
+    },
+    {
+      "lemma": "träningsupplägg",
+      "pos": "subst",
+      "zh": "训练安排",
+      "en": "training setup"
+    },
+    {
+      "lemma": "träningspass",
+      "pos": "subst",
+      "zh": "一次训练",
+      "en": "training session"
+    },
+    {
+      "lemma": "monoton",
+      "pos": "adj",
+      "zh": "单调的",
+      "en": "monotonous"
+    },
+    {
+      "lemma": "belöning",
+      "pos": "subst",
+      "zh": "奖励",
+      "en": "reward"
+    },
+    {
+      "lemma": "självförtroende",
+      "pos": "subst",
+      "zh": "自信",
+      "en": "self-confidence"
+    },
+    {
+      "lemma": "startlinje",
+      "pos": "subst",
+      "zh": "起跑线",
+      "en": "starting line"
+    },
+    {
+      "lemma": "startskott",
+      "pos": "subst",
+      "zh": "发令枪",
+      "en": "starting shot"
+    },
+    {
+      "lemma": "utklassa",
+      "pos": "verb",
+      "zh": "远远胜过",
+      "en": "to outclass"
+    },
+    {
+      "lemma": "konkurrent",
+      "pos": "subst",
+      "zh": "对手",
+      "en": "competitor"
+    }
+  ],
+  "phrases": [
+    {
+      "lemma": "i stort sett",
+      "zh": "基本上",
+      "en": "by and large"
+    },
+    {
+      "lemma": "lägga av",
+      "zh": "退出、不干了",
+      "en": "to quit"
+    },
+    {
+      "lemma": "tacka nej till",
+      "zh": "婉拒",
+      "en": "to decline"
+    },
+    {
+      "lemma": "ställa upp",
+      "zh": "参赛、出场",
+      "en": "to take part"
+    },
+    {
+      "lemma": "avstå från",
+      "zh": "放弃……",
+      "en": "to abstain from"
+    },
+    {
+      "lemma": "gå ut på",
+      "zh": "（意义）在于",
+      "en": "to be about"
+    },
+    {
+      "lemma": "ställa krav",
+      "zh": "提出要求",
+      "en": "to make demands"
+    },
+    {
+      "lemma": "vara värt det",
+      "zh": "值得",
+      "en": "to be worth it"
+    },
+    {
+      "lemma": "ta igen",
+      "zh": "补回、赶上",
+      "en": "to make up for"
+    },
+    {
+      "lemma": "gå miste om",
+      "zh": "错过",
+      "en": "to miss out on"
+    },
+    {
+      "lemma": "göra om ett misstag",
+      "zh": "重犯错误",
+      "en": "to repeat a mistake"
+    },
+    {
+      "lemma": "hålla uppe",
+      "zh": "维持",
+      "en": "to keep up"
+    },
+    {
+      "lemma": "skilja sig från",
+      "zh": "与……不同",
+      "en": "to differ from"
+    },
+    {
+      "lemma": "till skillnad från",
+      "zh": "与……不同的是",
+      "en": "unlike"
+    },
+    {
+      "lemma": "gå i mål",
+      "zh": "冲过终点",
+      "en": "to cross the finish line"
+    },
+    {
+      "lemma": "få framtiden utvisa",
+      "zh": "交给未来揭晓",
+      "en": "time will tell"
+    }
+  ],
+  "grammar": [
+    {
+      "name": "trots att",
+      "zh": "trots att 引导让步从句",
+      "en": "concessive clause"
+    },
+    {
+      "name": "pluskvamperfekt",
+      "zh": "过去完成时",
+      "en": "past perfect"
+    },
+    {
+      "name": "s-passiv",
+      "zh": "动词加 -s 被动",
+      "en": "s-passive"
+    },
+    {
+      "name": "så att konsekvens",
+      "zh": "如此……以至于……",
+      "en": "so ... that"
+    }
+  ],
+  "cues": [
+    {
+      "start": 1.2,
+      "end": 2.59,
+      "sv": "Nils van der Poel",
+      "zh": "Nils van der Poel"
+    },
+    {
+      "start": 2.89,
+      "end": 19.67,
+      "sv": "Nils van der Poel är en svensk skridskoåkare som under en mycket kort tid gick från att vara i stort sett anonym till att vinna VM-guld, dubbla OS-guld samt slå världsrekord på både 5 000 och 10 000 meter.",
+      "zh": "Nils van der Poel 是一名瑞典速滑运动员，他在很短的时间里从几乎默默无闻，到拿下世锦赛金牌、两枚奥运金牌，并在 5000 米和 10000 米上打破世界纪录。"
+    },
+    {
+      "start": 20.82,
+      "end": 29.82,
+      "sv": "Det nederländska efternamnet kommer från hans farfar som emigrerade och bosatte sig i Trollhättan på 50-talet.",
+      "zh": "这个荷兰姓氏来自他的祖父，祖父在五十年代移民并定居在 Trollhättan。"
+    },
+    {
+      "start": 30.12,
+      "end": 40.18,
+      "sv": "Där växte Nils också upp och som barn höll han på med flera olika sporter, allt från höjdhopp till bandy, golf och fotboll.",
+      "zh": "Nils 也在那里长大，小时候他玩过好几种运动，从跳高到班迪球、高尔夫和足球。"
+    },
+    {
+      "start": 40.48,
+      "end": 43.92,
+      "sv": "När han var 8 år började han med skridsko.",
+      "zh": "八岁时他开始滑冰。"
+    },
+    {
+      "start": 44.22,
+      "end": 55.1,
+      "sv": "Han gillade egentligen inte konditionsträning utan det som lockade var saften och kakorna efter träningen och att barn tilläts tävla.",
+      "zh": "其实他并不喜欢耐力训练，吸引他的是训练后的果汁和饼干，以及孩子可以参加比赛。"
+    },
+    {
+      "start": 55.4,
+      "end": 59.9,
+      "sv": "Inom många andra idrotter fick barn inte satsa seriöst.",
+      "zh": "在很多别的运动里，孩子是不被允许认真拼的。"
+    },
+    {
+      "start": 60.2,
+      "end": 63.97,
+      "sv": "Även i dag är det något som Nils ifrågasätter.",
+      "zh": "直到今天 Nils 仍对此提出质疑。"
+    },
+    {
+      "start": 64.27,
+      "end": 76.54,
+      "sv": "Han menar att det är bra att få lära sig att både vinna och förlora och att det är svårt att motivera barn att träna om man tar bort tävlingsmomentet.",
+      "zh": "他认为学会赢也学会输是好事，而且如果把竞赛因素拿掉，就很难激励孩子训练。"
+    },
+    {
+      "start": 77.69,
+      "end": 83.26,
+      "sv": "När Nils var 12 år tävlade han i en skridskotävling i Nederländerna.",
+      "zh": "Nils 12 岁时在荷兰参加了一场滑冰比赛。"
+    },
+    {
+      "start": 83.56,
+      "end": 89.77,
+      "sv": "Trots att han hade tränat varje dag kom han sist, 8 sekunder efter segraren.",
+      "zh": "尽管他每天都训练，他还是得了最后一名，比冠军慢 8 秒。"
+    },
+    {
+      "start": 90.07,
+      "end": 97.19,
+      "sv": "Det hade kunnat få honom att lägga av men istället tog han sitt livs viktigaste beslut.",
+      "zh": "这本可能让他放弃，但他却做出了一生中最重要的决定。"
+    },
+    {
+      "start": 97.49,
+      "end": 103.3,
+      "sv": "På bussen hem till Sverige bestämde han sig för att bli bäst i världen.",
+      "zh": "在回瑞典的大巴上，他决定要成为世界第一。"
+    },
+    {
+      "start": 103.6,
+      "end": 111.21,
+      "sv": "Nils gav allt för skridskoåkningen med konsekvensen att han avstod från mycket annat i livet.",
+      "zh": "Nils 为滑冰付出一切，代价是放弃了生活中许多别的东西。"
+    },
+    {
+      "start": 111.51,
+      "end": 123.3,
+      "sv": "Han hann aldrig träffa sina vänner, han tackade alltid nej till fester och han slutade med det som han tyckte var roligast – att åka skateboard.",
+      "zh": "他没时间见朋友，总是推掉聚会，还放弃了他觉得最有趣的事——玩滑板。"
+    },
+    {
+      "start": 123.6,
+      "end": 130.47,
+      "sv": "Han trodde att idrottsmän förväntades satsa 100 procent och inte ha andra intressen.",
+      "zh": "他以为运动员就该百分之百投入，不该有别的兴趣。"
+    },
+    {
+      "start": 131.62,
+      "end": 136.2,
+      "sv": "När Nils var 17 år ställde han upp på Junior-VM i Norge.",
+      "zh": "17 岁时 Nils 参加了在挪威举行的青年世锦赛。"
+    },
+    {
+      "start": 136.5,
+      "end": 141.58,
+      "sv": "Han vann tävlingen och det var en av hans lyckligaste stunder.",
+      "zh": "他赢了比赛，那是他最快乐的时刻之一。"
+    },
+    {
+      "start": 141.88,
+      "end": 149.4,
+      "sv": "Tyvärr var lyckan begränsad till där och då och när han kom hem fortsatte livet som vanligt.",
+      "zh": "可惜快乐只限于那时那地，回到家后生活照旧。"
+    },
+    {
+      "start": 149.7,
+      "end": 162.31,
+      "sv": "Tidigare hade det viktigaste i livet varit att bli bäst i världen men när han väl uppnått sitt mål gav det honom inte tillräckligt med tillfredsställelse.",
+      "zh": "此前人生中最重要的事就是成为世界第一，可真的达成目标后，却没有带给他足够的满足感。"
+    },
+    {
+      "start": 162.61,
+      "end": 168.58,
+      "sv": "Nils började tvivla på sin satsning och funderade på om det var värt det.",
+      "zh": "Nils 开始怀疑自己的投入，思考这一切是否值得。"
+    },
+    {
+      "start": 168.88,
+      "end": 179.11,
+      "sv": "Det var en jobbig känsla och året därpå, efter ännu ett Junior-VM-guld, berättade han för sin tränare att han ville lägga av.",
+      "zh": "那是种难受的感觉，第二年在又一枚青年世锦赛金牌之后，他告诉教练他想退出。"
+    },
+    {
+      "start": 179.41,
+      "end": 189.72,
+      "sv": "Beslutet gav en känsla av lättnad och frihet men tiden som följde var jobbig eftersom han inte visste vad hans liv gick ut på.",
+      "zh": "这个决定带来轻松和自由，但接下来的日子很难熬，因为他不知道自己的人生意义何在。"
+    },
+    {
+      "start": 190.02,
+      "end": 199.35,
+      "sv": "Hans självbild var så starkt förknippad med att vara idrottsman och skridskoåkare att han förlorade sin identitet.",
+      "zh": "他的自我形象与“运动员、滑冰选手”绑得太紧，以至于失去了自我认同。"
+    },
+    {
+      "start": 200.5,
+      "end": 208.35,
+      "sv": "Efter 9 månader bestämde Nils sig för att ta upp skridskoåkningen men nu ställde han andra krav.",
+      "zh": "九个月后 Nils 决定重新开始滑冰，但这次他提出了别的要求。"
+    },
+    {
+      "start": 208.65,
+      "end": 215.77,
+      "sv": "Han ville ha ett liv utanför träningen och göra samma saker som andra i sin egen ålder.",
+      "zh": "他想在训练之外也有生活，做和同龄人一样的事。"
+    },
+    {
+      "start": 216.07,
+      "end": 221.64,
+      "sv": "Han hade också hittat en hobby som han älskade – fallskärmshoppning.",
+      "zh": "他还找到了一个热爱的爱好——跳伞。"
+    },
+    {
+      "start": 221.94,
+      "end": 227.99,
+      "sv": "Han tyckte om det så mycket att han flyttade in i en barack på flygfältet.",
+      "zh": "他喜欢到甚至搬进了机场的一间小屋。"
+    },
+    {
+      "start": 228.29,
+      "end": 235.98,
+      "sv": "Där tog han, tillsammans med likasinnade, igen det han hade gått miste om under sin tonårstid.",
+      "zh": "在那里，他和志同道合的人一起补回了青少年时期错过的东西。"
+    },
+    {
+      "start": 236.28,
+      "end": 243.73,
+      "sv": "Nils fortsatte att träna men var rädd för att göra om misstaget att satsa allt på idrotten.",
+      "zh": "Nils 继续训练，但他害怕重犯把一切都押在运动上的错误。"
+    },
+    {
+      "start": 244.03,
+      "end": 250.0,
+      "sv": "Därför gjorde han bara det som krävdes för att hålla uppe en elitkarriär.",
+      "zh": "所以他只做维持一份精英运动生涯所必需的那些。"
+    },
+    {
+      "start": 250.3,
+      "end": 255.05,
+      "sv": "När det var dags för OS 2018 slutade han på en 14:e plats.",
+      "zh": "到了 2018 年冬奥会时，他名列第 14。"
+    },
+    {
+      "start": 255.35,
+      "end": 259.69,
+      "sv": "Han var nöjd men han visste att det fanns mer att ge.",
+      "zh": "他挺满意，但他知道自己还有更多可以付出。"
+    },
+    {
+      "start": 260.84,
+      "end": 270.41,
+      "sv": "Om Nils skulle nå toppen behövde han träna mer, men han ville fortfarande behålla balansen mellan träning och fritid.",
+      "zh": "要想登顶，Nils 需要练得更多，但他仍想保持训练与业余生活之间的平衡。"
+    },
+    {
+      "start": 270.71,
+      "end": 277.66,
+      "sv": "Därför gjorde han ett tävlingsuppehåll på 2 år för att kunna fokusera på sin träning.",
+      "zh": "于是他暂停比赛两年，以便专注训练。"
+    },
+    {
+      "start": 277.96,
+      "end": 284.1,
+      "sv": "Många var kritiska och menade att man måste tävla för att bli framgångsrik.",
+      "zh": "很多人持批评态度，认为必须参赛才能成功。"
+    },
+    {
+      "start": 284.4,
+      "end": 289.56,
+      "sv": "Även hans träningsupplägg skilde sig från andra skridskoåkares.",
+      "zh": "他的训练安排也和其他速滑选手不同。"
+    },
+    {
+      "start": 289.86,
+      "end": 295.09,
+      "sv": "Av årets 1 100 träningstimmar var endast 18 timmar på skridskor.",
+      "zh": "全年 1100 小时训练中，只有 18 小时是在冰刀上。"
+    },
+    {
+      "start": 295.39,
+      "end": 301.78,
+      "sv": "Ett vanligt träningspass var ofta 6–7 timmar på cykel eller 4 timmars löpning.",
+      "zh": "一次普通训练往往是骑车 6–7 小时，或者跑步 4 小时。"
+    },
+    {
+      "start": 302.08,
+      "end": 311.16,
+      "sv": "För att göra den monotona träningen lite roligare och för att motivera sig själv satte han upp mål efter vägen.",
+      "zh": "为了让单调的训练有趣些、也为了激励自己，他一路上给自己设小目标。"
+    },
+    {
+      "start": 311.46,
+      "end": 320.05,
+      "sv": "Till skillnad från många andra elitidrottare som följer en strikt diet använde han sötsaker som belöning.",
+      "zh": "与许多遵守严格饮食的精英运动员不同，他把甜食当作奖励。"
+    },
+    {
+      "start": 320.35,
+      "end": 328.04,
+      "sv": "Han kunde till exempel springa 3 timmar för att köpa godis eller cykla flera mil för en pizza.",
+      "zh": "比如他会跑三个小时去买糖，或者骑几十公里去吃一个披萨。"
+    },
+    {
+      "start": 329.19,
+      "end": 336.48,
+      "sv": "Inför VM 2021 var Nils förberedd och hade självförtroende men det var många som tvivlade.",
+      "zh": "2021 年世锦赛前，Nils 准备充分、信心十足，但怀疑他的人不少。"
+    },
+    {
+      "start": 336.78,
+      "end": 345.61,
+      "sv": "Han hade inte tävlat på flera år och experter inom skridskoåkning var skeptiska när han stod på startlinjen.",
+      "zh": "他已经好几年没比赛了，当他站上起跑线时，速滑界的专家们心存疑虑。"
+    },
+    {
+      "start": 345.91,
+      "end": 348.45,
+      "sv": "Skulle han verkligen klara det?",
+      "zh": "他真的能行吗？"
+    },
+    {
+      "start": 348.75,
+      "end": 354.64,
+      "sv": "Startskottet gick och drygt 6 minuter senare gick han i mål som segrare.",
+      "zh": "发令枪响，六分多钟后他以冠军身份冲过终点。"
+    },
+    {
+      "start": 354.94,
+      "end": 357.07,
+      "sv": "Nu var han bäst i världen!",
+      "zh": "此刻他是世界第一！"
+    },
+    {
+      "start": 357.37,
+      "end": 364.0,
+      "sv": "Han fortsatte att utklassa sina konkurrenter på tävlingar under OS i Peking 2022.",
+      "zh": "在 2022 年北京冬奥会的比赛中，他继续把对手远远甩开。"
+    },
+    {
+      "start": 364.3,
+      "end": 369.78,
+      "sv": "Därför blev många förvånade när han berättade att han tänkte sluta.",
+      "zh": "所以当他宣布打算退役时，很多人感到意外。"
+    },
+    {
+      "start": 370.08,
+      "end": 375.89,
+      "sv": "Hans korta men mycket framgångsrika karriär som skridskoåkare var över.",
+      "zh": "他作为速滑选手短暂却极其成功的生涯结束了。"
+    },
+    {
+      "start": 376.19,
+      "end": 380.53,
+      "sv": "Han hade klarat sitt mål och nu hade han nya drömmar.",
+      "zh": "他已经达成目标，如今他有了新的梦想。"
+    },
+    {
+      "start": 380.83,
+      "end": 383.61,
+      "sv": "Vad det blir får framtiden utvisa.",
+      "zh": "那会是什么，就交给未来去揭晓。"
+    },
+    {
+      "start": 384.76,
+      "end": 394.09,
+      "sv": "Information hämtad från Sommar i P1 och Radiosportens dokumentär: Den osannolike världsmästaren Nils van der Poel.",
+      "zh": "资料取自 Sommar i P1 以及 Radiosporten 的纪录片《不可思议的世界冠军 Nils van der Poel》。"
+    }
+  ]
+}
