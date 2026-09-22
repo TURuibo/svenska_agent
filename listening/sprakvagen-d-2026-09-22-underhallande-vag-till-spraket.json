@@ -1,0 +1,578 @@
+{
+  "id": "sprakvagen-d-s153-underhallande-vag",
+  "date": "2026-09-22",
+  "cefr": "B1",
+  "title": "En underhållande väg till språket (Språkvägen D s. 153–155)",
+  "source": "Språkvägen D (SFI-lärobok) · Blipsay lyssningskod",
+  "duration": 252.060979,
+  "sourceUrl": "https://blip.sano.ma/player/a/yGEIN",
+  "sourceLinkLabel": "▶ 在出版社播放器听 ↗",
+  "audioUrl": "media/sprakvagen-d-s153-underhallande-vag.mp3",
+  "readingSlug": "paste-2026-09-22-underhallande-vag-till-spraket",
+  "timingsApproximate": true,
+  "note": "课本配套朗读（教材第 153–155 页 QR 码音频）。语速偏快，字幕时间轴为按字数估算，点句跳转可能有 1–2 秒误差。",
+  "cues": [
+    {
+      "start": 1.2,
+      "end": 3.18,
+      "sv": "En underhållande väg till språket",
+      "zh": "一条有趣的学语言之路"
+    },
+    {
+      "start": 3.48,
+      "end": 6.73,
+      "sv": "Kan man lära sig språk genom kultur och underhållning?",
+      "zh": "能靠文化和娱乐来学语言吗？"
+    },
+    {
+      "start": 7.03,
+      "end": 9.86,
+      "sv": "Vi har frågat tre personer som lär sig svenska.",
+      "zh": "我们问了三位正在学瑞典语的人。"
+    },
+    {
+      "start": 10.16,
+      "end": 14.85,
+      "sv": "Här berättar de om sina bästa tips för en rolig och omväxlande språkinlärning.",
+      "zh": "他们在这里分享让语言学习有趣又多样的最佳心得。"
+    },
+    {
+      "start": 16.0,
+      "end": 17.14,
+      "sv": "Milad, 45 år. Iran.",
+      "zh": "Milad，45 岁，来自伊朗。"
+    },
+    {
+      "start": 17.44,
+      "end": 22.31,
+      "sv": "Jag brukar lyssna på svensk musik men jag hinner inte alltid höra vad de sjunger.",
+      "zh": "我常听瑞典音乐，但不总能听清他们唱的是什么。"
+    },
+    {
+      "start": 22.61,
+      "end": 28.69,
+      "sv": "Om jag sitter i bilen tar jag i och sjunger med men det händer ofta att jag har uppfattat texten fel.",
+      "zh": "如果在车里，我会放开嗓子跟着唱，但常常把歌词听错。"
+    },
+    {
+      "start": 28.99,
+      "end": 32.05,
+      "sv": "Då skrattar mina barn från baksätet och rättar mig.",
+      "zh": "这时我的孩子们在后座上笑，还纠正我。"
+    },
+    {
+      "start": 32.35,
+      "end": 36.26,
+      "sv": "Låtar som jag verkligen gillar brukar jag översätta och lära mig.",
+      "zh": "特别喜欢的歌，我通常会翻译出来学下来。"
+    },
+    {
+      "start": 36.56,
+      "end": 42.09,
+      "sv": "Det är ett roligt sätt att lära sig svenska och man lär sig många användbara ord och fraser.",
+      "zh": "这是学瑞典语很有意思的方式，能学到很多实用的词和短语。"
+    },
+    {
+      "start": 43.24,
+      "end": 47.09,
+      "sv": "Jag läser sfi och på lektionerna sjunger vi ofta svenska sånger.",
+      "zh": "我在上 SFI，课上我们常唱瑞典语歌。"
+    },
+    {
+      "start": 47.39,
+      "end": 51.0,
+      "sv": "Det är bra för uttalet och man lär sig den svenska prosodin.",
+      "zh": "这对发音有好处，还能掌握瑞典语的语调节奏。"
+    },
+    {
+      "start": 51.3,
+      "end": 56.89,
+      "sv": "Jag tycker också att man kommer ihåg nya ord bättre när man sjunger än när man läser en text.",
+      "zh": "我还觉得唱歌比读课文更容易记住新词。"
+    },
+    {
+      "start": 57.19,
+      "end": 61.64,
+      "sv": "I början kändes det pinsamt att sjunga tillsammans och jag kände mig stel.",
+      "zh": "一开始一起唱歌让我觉得尴尬，我很僵硬。"
+    },
+    {
+      "start": 61.94,
+      "end": 65.37,
+      "sv": "Nu känner jag mig trygg i gruppen och kan slappna av mer.",
+      "zh": "现在我在班里有安全感，能放松多了。"
+    },
+    {
+      "start": 65.67,
+      "end": 73.79,
+      "sv": "Sången skapar också en gemenskap i klassen eftersom vi gör något tillsammans istället för att alla sitter själva med sin bok och läser.",
+      "zh": "唱歌也在班里建立起一种共同体感，因为我们是一起做一件事，而不是各自捧着书读。"
+    },
+    {
+      "start": 74.09,
+      "end": 78.84,
+      "sv": "Vi får önska låtar men ofta är de svåra att förstå och har inte rätt grammatik.",
+      "zh": "我们可以点歌，但那些歌往往很难懂，语法也不规范。"
+    },
+    {
+      "start": 79.14,
+      "end": 85.64,
+      "sv": "Därför brukar vår lärare komma med förslag på låtar som passar när man både ska sjunga och lära sig svenska.",
+      "zh": "所以我们老师通常会推荐一些既适合唱、又适合学瑞典语的歌。"
+    },
+    {
+      "start": 86.79,
+      "end": 88.17,
+      "sv": "Krystyna, 35 år. Polen.",
+      "zh": "Krystyna，35 岁，来自波兰。"
+    },
+    {
+      "start": 88.47,
+      "end": 91.9,
+      "sv": "Jag brukar titta på svensk teve för att lära mig språket.",
+      "zh": "我常看瑞典电视来学语言。"
+    },
+    {
+      "start": 92.2,
+      "end": 96.83,
+      "sv": "Jag gillar livsstilsprogram, speciellt de som handlar om inredning och resor.",
+      "zh": "我喜欢生活方式类节目，尤其是关于家居布置和旅行的。"
+    },
+    {
+      "start": 97.13,
+      "end": 102.6,
+      "sv": "Jag brukar också titta på olika matlagningsprogram och testar gärna att laga nya maträtter.",
+      "zh": "我也常看各种烹饪节目，乐意试着做新菜。"
+    },
+    {
+      "start": 102.9,
+      "end": 111.5,
+      "sv": "Dialogerna i de här programmen är lätta att förstå och man lär sig att använda vanliga svenska uttryck som man sällan ser i skolans läroböcker.",
+      "zh": "这些节目里的对话容易懂，还能学到学校课本里很少见的常用瑞典语表达。"
+    },
+    {
+      "start": 111.8,
+      "end": 116.43,
+      "sv": "På lektionen anpassar läraren också sitt språk för att vi lättare ska förstå.",
+      "zh": "课上老师也会调整自己的语言，好让我们更容易听懂。"
+    },
+    {
+      "start": 116.73,
+      "end": 124.85,
+      "sv": "Det kan vara skönt men jag tror att det är bra att lyssna på vardagliga samtal för att lättare förstå språket även utanför klassrummet.",
+      "zh": "这当然舒服，但我觉得多听日常对话是好事，这样在教室之外也更容易听懂。"
+    },
+    {
+      "start": 125.15,
+      "end": 129.24,
+      "sv": "Av sammanhanget kan man ofta gissa sig till betydelsen av många ord.",
+      "zh": "很多词的意思常常可以从上下文猜出来。"
+    },
+    {
+      "start": 129.54,
+      "end": 135.61,
+      "sv": "Jag har lärt mig att jag kommer ihåg ord bättre när jag gör så än om jag översätter direkt i mobilen.",
+      "zh": "我发现这样做比直接在手机上翻译更容易记住词。"
+    },
+    {
+      "start": 136.76,
+      "end": 141.57,
+      "sv": "Ibland försöker jag lyssna på svensk radio men då har jag svårare att hänga med.",
+      "zh": "有时我试着听瑞典广播，但那样就更难跟上。"
+    },
+    {
+      "start": 141.87,
+      "end": 144.94,
+      "sv": "Det kan bero på att man inte har bilder till hjälp.",
+      "zh": "这可能是因为没有画面帮忙。"
+    },
+    {
+      "start": 145.24,
+      "end": 150.65,
+      "sv": "När man lyssnar på radio kan man inte heller läsa läppar eller se personernas kroppsspråk.",
+      "zh": "听广播时也没法读唇语、看不到说话人的肢体语言。"
+    },
+    {
+      "start": 151.8,
+      "end": 156.67,
+      "sv": "Jag gillar också att gå på bio men går sällan eftersom det är dyrt här i Sverige.",
+      "zh": "我也喜欢去电影院，但很少去，因为瑞典票价贵。"
+    },
+    {
+      "start": 156.97,
+      "end": 161.78,
+      "sv": "För några år sedan bodde jag i Spanien och där var biljetterna mycket billigare.",
+      "zh": "几年前我住在西班牙，那里的票便宜得多。"
+    },
+    {
+      "start": 162.08,
+      "end": 169.18,
+      "sv": "Man kunde också få studentrabatt så jag gick nog ett par gånger i veckan, ibland med vänner men oftast gick jag själv.",
+      "zh": "还能有学生折扣，所以我大概一周去两次，有时和朋友，多数时候自己去。"
+    },
+    {
+      "start": 169.48,
+      "end": 179.22,
+      "sv": "Jag kunde inte så mycket spanska och förstod nog inte hela handlingen men jag blev alltid glad när jag uppfattade ord som jag hade lärt mig på min kurs i spanska.",
+      "zh": "我西班牙语不太好，大概也没看懂全部剧情，但每当听出课上学过的词，我都很高兴。"
+    },
+    {
+      "start": 179.52,
+      "end": 184.15,
+      "sv": "Jag tror att det är bra att se ord i olika typer av meningar och situationer.",
+      "zh": "我觉得在不同句型和情境里看到同一个词是好事。"
+    },
+    {
+      "start": 184.45,
+      "end": 186.56,
+      "sv": "Då lär man sig hur de kan användas.",
+      "zh": "这样就能学会它们可以怎么用。"
+    },
+    {
+      "start": 187.71,
+      "end": 188.97,
+      "sv": "Sade, 28 år. Nigeria.",
+      "zh": "Sade，28 岁，来自尼日利亚。"
+    },
+    {
+      "start": 189.27,
+      "end": 193.9,
+      "sv": "Jag älskar att lyssna på ljudböcker när jag tränar eller gör hushållssysslor.",
+      "zh": "我很喜欢在锻炼或做家务时听有声书。"
+    },
+    {
+      "start": 194.2,
+      "end": 199.49,
+      "sv": "Det blir mycket roligare att dammsuga och vika tvätt om man lyssnar på en spännande bok.",
+      "zh": "一边听精彩的书，一边吸尘和叠衣服，就有意思多了。"
+    },
+    {
+      "start": 199.79,
+      "end": 205.81,
+      "sv": "Min man har också upptäckt ljudböcker så nu bråkar vi nästan om vem som ska ta städningen här hemma.",
+      "zh": "我先生也迷上了有声书，所以现在我们几乎要抢着做家里的清洁。"
+    },
+    {
+      "start": 206.11,
+      "end": 211.88,
+      "sv": "Även om jag inte förstår allt tror jag att det är bra att lyssna på språket och på språkmelodin.",
+      "zh": "即使听不懂全部，我也认为多听这门语言和它的语调是有好处的。"
+    },
+    {
+      "start": 212.18,
+      "end": 217.41,
+      "sv": "Att omge sig själv med språket är ju dessutom en metod som är bra för språkinlärningen.",
+      "zh": "而且把自己置身于这门语言之中，本来就是对语言学习有益的方法。"
+    },
+    {
+      "start": 218.56,
+      "end": 221.87,
+      "sv": "Jag gillar att lyssna på deckare och sanna berättelser.",
+      "zh": "我喜欢听侦探小说和真实故事。"
+    },
+    {
+      "start": 222.17,
+      "end": 225.84,
+      "sv": "Senast lyssnade jag på en bok som handlade om en kidnappning.",
+      "zh": "最近我听的是一本讲绑架案的书。"
+    },
+    {
+      "start": 226.14,
+      "end": 232.51,
+      "sv": "Jag gillar också biografier och har precis börjat lyssna på Zlatans nya bok som jag har hört ska vara bra.",
+      "zh": "我也喜欢传记，刚开始听 Zlatan 的新书，听说很不错。"
+    },
+    {
+      "start": 233.66,
+      "end": 241.54,
+      "sv": "Jag önskar att jag tyckte om att läsa för det ser så rogivande ut och jag vet att det är bra, inte minst för att sänka stressnivån.",
+      "zh": "我希望自己喜欢阅读，因为那看起来很令人平静，而且我知道读书有好处，尤其是能降低压力水平。"
+    },
+    {
+      "start": 241.84,
+      "end": 244.49,
+      "sv": "Tyvärr tappar jag alltid fokus eller somnar.",
+      "zh": "可惜我总是走神或者睡着。"
+    },
+    {
+      "start": 244.79,
+      "end": 249.24,
+      "sv": "Många säger att man måste komma in i boken men jag har inte det tålamodet.",
+      "zh": "很多人说要\"读进去\"才行，可我没有那个耐心。"
+    },
+    {
+      "start": 249.54,
+      "end": 252.06,
+      "sv": "Därför fungerar ljudböcker bättre för mig.",
+      "zh": "所以有声书更适合我。"
+    }
+  ],
+  "vocab": [
+    {
+      "lemma": "underhållning",
+      "pos": "subst",
+      "zh": "娱乐",
+      "en": "entertainment"
+    },
+    {
+      "lemma": "omväxlande",
+      "pos": "adj",
+      "zh": "多样的",
+      "en": "varied"
+    },
+    {
+      "lemma": "språkinlärning",
+      "pos": "subst",
+      "zh": "语言学习",
+      "en": "language learning"
+    },
+    {
+      "lemma": "uppfatta",
+      "pos": "verb",
+      "zh": "听出、理解为",
+      "en": "to catch"
+    },
+    {
+      "lemma": "rätta",
+      "pos": "verb",
+      "zh": "纠正",
+      "en": "to correct"
+    },
+    {
+      "lemma": "användbar",
+      "pos": "adj",
+      "zh": "有用的",
+      "en": "useful"
+    },
+    {
+      "lemma": "uttal",
+      "pos": "subst",
+      "zh": "发音",
+      "en": "pronunciation"
+    },
+    {
+      "lemma": "prosodi",
+      "pos": "subst",
+      "zh": "韵律、语调节奏",
+      "en": "prosody"
+    },
+    {
+      "lemma": "pinsam",
+      "pos": "adj",
+      "zh": "尴尬的",
+      "en": "embarrassing"
+    },
+    {
+      "lemma": "stel",
+      "pos": "adj",
+      "zh": "僵硬的",
+      "en": "stiff"
+    },
+    {
+      "lemma": "trygg",
+      "pos": "adj",
+      "zh": "有安全感的",
+      "en": "secure"
+    },
+    {
+      "lemma": "gemenskap",
+      "pos": "subst",
+      "zh": "共同体感",
+      "en": "sense of community"
+    },
+    {
+      "lemma": "förslag",
+      "pos": "subst",
+      "zh": "建议",
+      "en": "suggestion"
+    },
+    {
+      "lemma": "inredning",
+      "pos": "subst",
+      "zh": "室内布置",
+      "en": "interior decoration"
+    },
+    {
+      "lemma": "dialog",
+      "pos": "subst",
+      "zh": "对话",
+      "en": "dialogue"
+    },
+    {
+      "lemma": "uttryck",
+      "pos": "subst",
+      "zh": "表达方式",
+      "en": "expression"
+    },
+    {
+      "lemma": "lärobok",
+      "pos": "subst",
+      "zh": "课本",
+      "en": "textbook"
+    },
+    {
+      "lemma": "anpassa",
+      "pos": "verb",
+      "zh": "调整、使适应",
+      "en": "to adapt"
+    },
+    {
+      "lemma": "vardaglig",
+      "pos": "adj",
+      "zh": "日常的",
+      "en": "everyday"
+    },
+    {
+      "lemma": "sammanhang",
+      "pos": "subst",
+      "zh": "上下文、语境",
+      "en": "context"
+    },
+    {
+      "lemma": "betydelse",
+      "pos": "subst",
+      "zh": "意思",
+      "en": "meaning"
+    },
+    {
+      "lemma": "kroppsspråk",
+      "pos": "subst",
+      "zh": "肢体语言",
+      "en": "body language"
+    },
+    {
+      "lemma": "studentrabatt",
+      "pos": "subst",
+      "zh": "学生折扣",
+      "en": "student discount"
+    },
+    {
+      "lemma": "handling",
+      "pos": "subst",
+      "zh": "情节",
+      "en": "plot"
+    },
+    {
+      "lemma": "ljudbok",
+      "pos": "subst",
+      "zh": "有声书",
+      "en": "audiobook"
+    },
+    {
+      "lemma": "hushållssyssla",
+      "pos": "subst",
+      "zh": "家务活",
+      "en": "household chore"
+    },
+    {
+      "lemma": "dammsuga",
+      "pos": "verb",
+      "zh": "吸尘",
+      "en": "to vacuum"
+    },
+    {
+      "lemma": "språkmelodi",
+      "pos": "subst",
+      "zh": "语调",
+      "en": "speech melody"
+    },
+    {
+      "lemma": "deckare",
+      "pos": "subst",
+      "zh": "侦探小说",
+      "en": "detective story"
+    },
+    {
+      "lemma": "biografi",
+      "pos": "subst",
+      "zh": "传记",
+      "en": "biography"
+    },
+    {
+      "lemma": "rogivande",
+      "pos": "adj",
+      "zh": "令人平静的",
+      "en": "calming"
+    },
+    {
+      "lemma": "tålamod",
+      "pos": "subst",
+      "zh": "耐心",
+      "en": "patience"
+    }
+  ],
+  "phrases": [
+    {
+      "lemma": "ta i",
+      "zh": "使劲、放开嗓子",
+      "en": "to put force into it"
+    },
+    {
+      "lemma": "komma ihåg",
+      "zh": "记得",
+      "en": "to remember"
+    },
+    {
+      "lemma": "slappna av",
+      "zh": "放松",
+      "en": "to relax"
+    },
+    {
+      "lemma": "komma med förslag",
+      "zh": "提出建议",
+      "en": "to come up with suggestions"
+    },
+    {
+      "lemma": "hänga med",
+      "zh": "跟得上",
+      "en": "to keep up"
+    },
+    {
+      "lemma": "gissa sig till",
+      "zh": "猜出来",
+      "en": "to guess one's way to"
+    },
+    {
+      "lemma": "gå på bio",
+      "zh": "去看电影",
+      "en": "to go to the cinema"
+    },
+    {
+      "lemma": "omge sig med",
+      "zh": "让自己置身于……",
+      "en": "to surround oneself with"
+    },
+    {
+      "lemma": "tappa fokus",
+      "zh": "走神",
+      "en": "to lose focus"
+    },
+    {
+      "lemma": "komma in i boken",
+      "zh": "读进去",
+      "en": "to get into the book"
+    }
+  ],
+  "grammar": [
+    {
+      "name": "även om",
+      "zh": "即使……（让步从句）",
+      "en": "even if"
+    },
+    {
+      "name": "istället för att infinitiv",
+      "zh": "而不是做……",
+      "en": "instead of doing"
+    },
+    {
+      "name": "önskar att preteritum",
+      "zh": "与现实相反的愿望",
+      "en": "unreal wish"
+    },
+    {
+      "name": "s-passiv",
+      "zh": "动词加 -s 被动",
+      "en": "s-passive"
+    }
+  ]
+}
