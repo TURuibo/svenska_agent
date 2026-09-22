@@ -19,3 +19,6 @@ site/listening/listening-data.js
 .DS_Store
 Thumbs.db
 .obsidian/
+
+# Python bytecode cache (tools/*.py imported as modules)
+__pycache__/
