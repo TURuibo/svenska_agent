@@ -9,10 +9,6 @@ grammar: []            # grammar note slugs demonstrated
 source: ""             # source note slug, if from a text/image
 topics: []
 created: ""
-reviewed: ""
-review_count: 0
-ease: 2.5
-interval: 0
 ---
 
 # 🇸🇪 {{sentence}}

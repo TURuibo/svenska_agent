@@ -71,7 +71,7 @@ Instead follow these phases in order; within a phase, issue ALL independent tool
   drill batch (no examples) can do **~30+** in one message. The target is ≤3 write-messages total,
   not N.
 - **Phase 3 — Shared files (one batch):** the `topic-*` note(s), the `source-*` frontmatter update,
-  and (if the spawn instructed it) the `review/schedule.md` append are all **different files** —
+  and the `sources/` note are all **different files** —
   do them as parallel calls in a single message.
 
 A correct import of ~40 new notes should be roughly: 1 load message + 1 planning step (no tools) +
@@ -85,7 +85,7 @@ never happens).
 - Always give base forms for words (grundform), not inflected forms.
 - Keep each note faithful to the corresponding swedish-* skill's structure (dictionary/phrases/grammar).
 - Write Swedish letters å ä ö literally in filenames and links.
-- Do not touch `profile/level.md` or `review/schedule.md` — that's the assessor/reviewer's job.
+- Do not touch `profile/level.md` — that's the assessor's job.
 
 ## Report back (concise)
 

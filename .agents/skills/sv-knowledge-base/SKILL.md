@@ -109,11 +109,12 @@ field, create or update a `topic-*` note and list it in each member's `topics:`.
 If a `[[wikilink]]` target doesn't exist yet, still write the link — it marks a note worth creating
 later. The `/kb` command and the librarian surface these as "stubs to create".
 
-## 5. Frontmatter 学习字段 (Learning metadata — every reviewable note)
+## 5. Frontmatter 学习字段 (Learning metadata)
 
-`words`, `phrases`, `sentences`, `grammar` notes carry SRS fields used by `sv-review`:
-`known`, `reviewed`, `review_count`, `ease` (default 2.5), `interval` (days, default 0).
-Set `created:` to today's absolute date. Do not invent `reviewed:` — leave empty until first review.
+`words`, `phrases`, `sentences`, `grammar` notes carry `known:` (true = 学习者已掌握，查词时只给一行
+确认，见 `sv-assess`) and `created:` (today's absolute date).
+Older notes may still carry unused SRS fields (`reviewed`, `review_count`, `ease`, `interval`) from the
+retired review workflow — leave them alone, don't add them to new notes.
 
 ## 6. 索引 (Index)
 

@@ -1,6 +1,6 @@
 ---
 name: sv-assess
-description: Assess the learner's current Swedish level and maintain the learner profile. Use this skill whenever the user wants to evaluate their Swedish level, asks "what's my level / 我现在什么水平", runs /assess, or whenever evidence accumulates about what they already know (e.g. they answered review items instantly, or said "this is too easy / I already know this"). It estimates CEFR/SFI level, records known vocabulary and weak spots into profile/level.md, and sets known:true on mastered notes so future lookups can be skipped. Read profile/level.md before any full word lookup to decide whether the learner already knows the word.
+description: Assess the learner's current Swedish level and maintain the learner profile. Use this skill whenever the user wants to evaluate their Swedish level, asks "what's my level / 我现在什么水平", runs /assess, or whenever evidence accumulates about what they already know (e.g. they said "this is too easy / I already know this"). It estimates CEFR/SFI level, records known vocabulary and weak spots into profile/level.md, and sets known:true on mastered notes so future lookups can be skipped. Read profile/level.md before any full word lookup to decide whether the learner already knows the word.
 ---
 
 # sv-assess — 水平评估与档案
@@ -12,7 +12,7 @@ Maintain `profile/level.md`: the single source of truth for what Ruibo already k
 
 - Explicit: `/assess`, or "评估我的水平 / what's my level".
 - Implicit signals to record as they happen (lightweight, no need to rerun a full assessment):
-  - user answered a review item instantly / called a word "太简单/我会了" → mark that word `known: true`
+  - user called a word "太简单/我会了" → mark that word `known: true`
     and add to the profile's known list.
   - user repeatedly misses a grammar point → add/strengthen it under 弱点.
 
@@ -20,7 +20,7 @@ Maintain `profile/level.md`: the single source of truth for what Ruibo already k
 
 For a full assessment:
 1. **Scan the KB**: counts by type and CEFR (`knowledge_base/*/`), `known:true` ratio, which grammar
-   points are present, review performance from `review/schedule.md`.
+   points are present.
 2. **Optionally probe**: ask 5–8 calibrated questions spanning A1→B2 (a verb conjugation, a bisats word
    order, a partikelverb, a translation) — only if you need signal the KB doesn't already give.
 3. **Estimate** an overall CEFR/SFI band, plus sub-skills (vocab breadth, grammar control, phrases).
@@ -35,7 +35,7 @@ Update `profile/level.md` (overwrite the relevant sections, keep history of esti
 - **弱点 (weak spots)**: prioritized list to drill,
 - **建议 (next steps)**.
 
-Also set `known: true` in the frontmatter of each mastered note (and tell `sv-review` to stop scheduling them).
+Also set `known: true` in the frontmatter of each mastered note.
 
 ## 4. 与查词的关系 (Feeding lookups)
 

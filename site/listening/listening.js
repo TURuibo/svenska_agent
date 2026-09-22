@@ -22,6 +22,7 @@
   var epMeta = document.getElementById('epMeta');
   var epSvtLink = document.getElementById('epSvtLink');
   var epNote = document.getElementById('epNote');
+  var epReadLink = document.getElementById('epReadLink');
   var updated = document.getElementById('listenUpdated');
 
   var state = {
@@ -53,6 +54,14 @@
       ul.appendChild(li);
       return;
     }
+    // Deep link from 📖 Läsning: #ep=<episode id> opens that episode directly.
+    var wantedId = (function () {
+      var m = (location.hash || '').match(/(?:^#|&)ep=([^&]+)/);
+      return m ? decodeURIComponent(m[1]) : '';
+    })();
+    var wantedIdx = wantedId ? DATA.episodes.findIndex(function (e) { return e.id === wantedId; }) : -1;
+    if (wantedIdx < 0) { wantedIdx = 0; }
+
     DATA.episodes.forEach(function (ep, i) {
       var li = document.createElement('li');
       var btn = document.createElement('button');
@@ -69,10 +78,10 @@
       });
       li.appendChild(btn);
       ul.appendChild(li);
-      if (i === 0) { btn.classList.add('active'); }
+      if (i === wantedIdx) { btn.classList.add('active'); }
     });
-    // Auto-load newest.
-    loadEpisode(DATA.episodes[0]);
+    // Auto-load the deep-linked episode, else the newest one.
+    loadEpisode(DATA.episodes[wantedIdx]);
   }
 
   // ---- Load an episode ----------------------------------------------------
@@ -93,6 +102,9 @@
     epSvtLink.textContent = ep.sourceLinkLabel || '📺 在 SVT Play 看 ↗';
     epNote.textContent = [ep.note, ep.timingsApproximate ? '⏱️ 字幕时间轴为估算值。' : ''].filter(Boolean).join(' ');
     epNote.hidden = !epNote.textContent;
+    // The text of this episode also lives in 📖 Läsning (原文 + 中文翻译 + 教学备注).
+    epReadLink.href = ep.readingSlug ? '../reading/#article=' + encodeURIComponent(ep.readingSlug) : '#';
+    epReadLink.hidden = !ep.readingSlug;
 
     renderTranscript(ep);
     renderVocab(ep);

@@ -40,8 +40,7 @@ For each resolved block, follow sv-import §2 (parse), §3 (fill gaps using Swed
 ## 3. Dedup + store
 
 Follow sv-import §4b and §5:
-- **≤ 3 items total**: store inline (create notes + wire links yourself), then update
-  `review/schedule.md` (sv-import §6).
+- **≤ 3 items total**: store inline (create notes + wire links yourself).
 - **> 3 items total**: create the `sources/source-<date>-<topic>.md` note first, then spawn
   `sv-librarian` with the enriched lists and the source slug.
 

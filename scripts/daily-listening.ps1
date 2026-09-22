@@ -81,7 +81,7 @@ if ($after -and ($null -eq $before -or $after.Name -ne $before.Name)) {
   "OK new episode: $($after.Name)" | Add-Content -Encoding utf8 $Log
   # --- 入库 + push：把同日 inbox/horning-<DATE>.md 走 import-and-rebuild（KB 入库 →
   #     重建 kb-site → 归档 inbox→imported → sync-kb push，push 含 listening/）。
-  #     这样听力的 词/词组/句子/语法 进 KB，出现在 recap/搜索/review，词卡可链接解释。---
+  #     这样听力的 词/词组/句子/语法 进 KB，出现在 recap/搜索，词卡可链接解释。---
   $stamp = ($after.BaseName -replace '^svt-latt-', '')   # svt-latt-2026-06-17 → 2026-06-17
   $horning = Join-Path $Proj "inbox\horning-$stamp.md"
   if (Test-Path $horning) {

@@ -2,7 +2,7 @@
 
 This is a Claude Code project that helps **Ruibo** (native Chinese, fluent English) learn Swedish.
 It accumulates a **local markdown knowledge base** (Obsidian-style, `[[wikilinks]]`, no database)
-and supports three core workflows: **学习/录入 (learn)**, **复习 (review)**, and **水平评估 (assess)**.
+and supports two core workflows: **学习/录入 (learn)** and **水平评估 (assess)**.
 
 Claude: read this file fully at the start of every session. It defines how you behave in this project.
 
@@ -48,7 +48,6 @@ and how much detail to extract:
 - `swedish-text-analysis` — whole texts and **images** (orchestrator for documents)
 - `sv-knowledge-base` — **this project's storage rules**: how to slug, structure, dedup, and link
   files. Read it whenever you store anything.
-- `sv-review` — how to run a review session from the KB.
 - `sv-assess` — how to assess and record the learner's level.
 - `sv-scenario` — **场景练习生成规范**: how to generate a Swedish dialogue/text/narrative, extract its learning items, and write them as an `inbox/` file with an embedded `svensk-export v1` block ready for `/import`.
 
@@ -56,7 +55,6 @@ and how much detail to extract:
 Spawn these (Agent tool) for heavy multi-file work so the main thread stays clean:
 - `sv-librarian` — takes a batch of extracted items and writes/links them into the KB with dedup.
   Use after analyzing a **whole text or image** (many items at once).
-- `sv-reviewer` — builds a review session by scanning the KB and the review schedule.
 - `sv-assessor` — assesses level across the whole KB + recent interactions, updates `profile/level.md`.
 - `sv-scenario-writer` — given a scenario topic, generates a level-appropriate Swedish dialogue/text/narrative and writes `inbox/scenario-<date>-<slug>.md` (readable scenario + embedded `svensk-export v1` block). Use when the user runs `/scenario`. Does NOT touch `knowledge_base/`.
 - `sv-importer` — **background inbox drainer**. Spawn it with `run_in_background: true` when the SessionStart hook reports pending un-imported files in `inbox/`. It runs the full import inline (parse → gap-fill → dedup → store → link), archives processed files to the tracked root `imported/` folder, rebuilds the KB + reading sites, and reports a manifest — all without blocking the user. See §4.3.
@@ -65,8 +63,7 @@ For a **single word/phrase/sentence**, don't spawn a subagent — just store it 
 
 ### Commands (快捷入口)
 - `/learn` — analyze + store whatever the user provides (word/phrase/sentence/text/image).
-- `/sync` — commit all local KB changes (knowledge_base/, review, profile, site data) as **one** commit and push to GitHub, so other devices (mobile/desktop, same repo) can `git pull`. Use after a mobile lookup session (see §4.3).
-- `/review` — start a spaced-repetition review session.
+- `/sync` — commit all local KB changes (knowledge_base/, profile, site data) as **one** commit and push to GitHub, so other devices (mobile/desktop, same repo) can `git pull`. Use after a mobile lookup session (see §4.3).
 - `/assess` — assess current Swedish level and update the profile.
 - `/kb` — show knowledge-base stats and health (counts, orphan notes, broken links).
 - `/import` — ingest a `svensk-export v1` block (pasted or from `inbox/`) with dedup + linking.
@@ -152,6 +149,12 @@ confirmation, then analyze and store. **存完后自动运行 `/sync`**（commit
 > 这样拍照素材既拆进 KB（Sök 可搜 + 生词可点查），又能在阅读站当文章读（🇸🇪/🇨🇳 切换）。
 > （`/scenario`、`/dagens-artikel`、`/dagens-nyheter` 等生成类已经经 `/import` 自动归档到 `imported/`，
 > 无需重复——这条只补**拍照/整段文字 `/learn`** 这条没走 `/import` 的链。）
+
+> 🎧 **带 QR 码音频的教材（拍照件）**：课本 QR 通常指向出版社朗读音频。取到音频后按 §4.5 的格式建一份
+> `listening/<slug>.json`（可用 `audioUrl` 放普通音频文件，不必是 HLS），并在其中写
+> `readingSlug: "<imported/ 里那篇文章的文件名（不含 .md）>"`。这一个字段就把两边接上了：
+> 阅读站文章头部出现「🎧 听这篇」，听力站该集出现「📖 读这篇原文」，互相跳转，不用再去列表里找。
+> （`build-reading-site.js` 扫 `listening/*.json` 反查，无需在文章里写任何东西。）
 
 ### §4.1 跨聊天导入 (Importing from other chats)
 
@@ -244,7 +247,7 @@ KB 文件本身是 tracked 的，能正常同步。但**入库 ≠ 上 GitHub**�
   且照片场景常是临时拍一张就走，用户容易忘记手动 `/sync` 导致丢同步。所以：转写确认 → 分析 →
   `sv-librarian` 批量写库 + 建 `sources/` → **主 agent 直接调用 `/sync`**（commit+push）→ 回报。
 
-**`/sync` 做的事：** 重建站点数据（`slugs.json`）→ 暂存 `knowledge_base/` + `review/schedule.md` +
+**`/sync` 做的事：** 重建站点数据（`slugs.json`）→ 暂存 `knowledge_base/` +
 `profile/` + `slugs.json` → 一个 commit → `pull --rebase` → push 到 GitHub。其他设备 `git pull` 即拿到；
 viewer 数据文件（`site/kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`）已 gitignore，
 由 GitHub Action 在 push 后自动重建。
@@ -291,7 +294,7 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
   routine prompt = 「跑 `scripts/daily-news.ps1` 然后读 `scripts/news-run.log` 末尾报告」。管理同其它 routine：
   `list_scheduled_tasks` / `update_scheduled_task` / 侧栏「Scheduled」。**只在 Claude 桌面应用开着时准点跑**，关着下次启动补跑。
 
-所以新闻和 scenario/adjsubst 一样**全自动入库**，用户只剩 `/review`。
+所以新闻和 scenario/adjsubst 一样**全自动入库**，打开 📖 Läsning / 🎧 Lyssna 直接读/听即可。
 
 **云端版 (remote, 推荐用它替代本地)：** news 这条**联网类** routine 同样可以放到 Claude Code on the web 的定时 session
 （和 §4.6 阅读文章同一模式），桌面关着也能每天跑。环境需**允许出站访问**（抓 8 Sidor）。routine prompt：
@@ -417,7 +420,7 @@ main**。所以以前「Action 提交 viewer 文件 → 和 routine 抢 → 每�
 **① 只提交源文件 + `slugs.json`：**
 ```bash
 node tools/build-kb-site.js          # 更新 slugs.json（dedup 依赖）；顺带生成的 kb-index.js/kb-bodies.js 是 gitignore，git add 自动跳过
-git add knowledge_base/ listening/ imported/ review/ profile/ knowledge_base/_index/slugs.json
+git add knowledge_base/ listening/ imported/ profile/ knowledge_base/_index/slugs.json
 git commit -m "<routine>: <一句话>"
 git push -u origin <当前 branch>
 ```
@@ -467,15 +470,7 @@ word, give a one-line confirmation, don't produce a full entry, and don't re-sto
 
 ---
 
-## 6. 复习 (Review)
-
-`/review` (subagent `sv-reviewer`) uses `review/schedule.md` — a lightweight SM-2-style spaced-repetition
-log in markdown. Each note's frontmatter tracks `reviewed:` and `review_count:`. The reviewer picks due
-items, quizzes the user, and updates the schedule + frontmatter based on performance. No external SRS app.
-
----
-
-## 7. 风格 (Style)
+## 6. 风格 (Style)
 
 - Primary explanation language: **简体中文**, with English terms alongside. Swedish grammar terms keep
   Swedish names (presens, bisats, …).

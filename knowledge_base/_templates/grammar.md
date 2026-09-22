@@ -8,10 +8,6 @@ related: []            # related grammar slugs
 examples: []           # sentence note slugs demonstrating this
 known: false
 created: ""
-reviewed: ""
-review_count: 0
-ease: 2.5
-interval: 0
 ---
 
 # 📗 {{name}} — {{zh}} ({{en}})
