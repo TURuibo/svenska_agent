@@ -254,7 +254,13 @@ function buildListeningIndex() {
       continue;
     }
     if (!ep.readingSlug) continue;
-    bySlug[ep.readingSlug] = { id: ep.id || name.replace(/\.json$/, ''), title: ep.title || '' };
+    // Several episodes can point at one article (full reading + sammanfattning).
+    // The subtitled one is what "🎧 听这篇" should open; a cue-less episode only
+    // fills the slot when nothing better has claimed it.
+    const hasCues = Array.isArray(ep.cues) && ep.cues.length > 0;
+    const prev = bySlug[ep.readingSlug];
+    if (prev && (prev.hasCues || !hasCues)) continue;
+    bySlug[ep.readingSlug] = { id: ep.id || name.replace(/\.json$/, ''), title: ep.title || '', hasCues };
   }
   return bySlug;
 }
