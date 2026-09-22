@@ -165,22 +165,22 @@
   ],
   "grammar": [
     {
-      "name": "genom att + infinitiv",
+      "name": "genom att infinitiv",
       "zh": "通过做某事",
       "en": "by doing something"
     },
     {
-      "name": "bli-passiv (blev tillfrågad)",
+      "name": "bli-passiv",
       "zh": "bli + 过去分词被动",
       "en": "bli-passive"
     },
     {
-      "name": "s-passiv (uppmuntrades)",
+      "name": "s-passiv",
       "zh": "动词加 -s 被动",
       "en": "s-passive"
     },
     {
-      "name": "perfekt particip som attribut",
+      "name": "participial adjektiv",
       "zh": "过去分词作定语",
       "en": "participle as attribute"
     }

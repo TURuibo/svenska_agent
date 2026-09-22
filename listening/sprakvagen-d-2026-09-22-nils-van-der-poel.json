@@ -189,7 +189,7 @@
   ],
   "grammar": [
     {
-      "name": "trots att (koncessiv bisats)",
+      "name": "trots att",
       "zh": "trots att 引导让步从句",
       "en": "concessive clause"
     },
@@ -199,12 +199,12 @@
       "en": "past perfect"
     },
     {
-      "name": "s-passiv (förväntades, tilläts)",
+      "name": "s-passiv",
       "zh": "动词加 -s 被动",
       "en": "s-passive"
     },
     {
-      "name": "så ... att (konsekvens)",
+      "name": "så att konsekvens",
       "zh": "如此……以至于……",
       "en": "so ... that"
     }

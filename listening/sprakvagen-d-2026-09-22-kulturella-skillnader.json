@@ -194,17 +194,17 @@
   ],
   "grammar": [
     {
-      "name": "medan (kontrast)",
+      "name": "medan bisats",
       "zh": "medan 引导对比从句",
       "en": "contrastive medan"
     },
     {
-      "name": "så fort (tidsbisats)",
+      "name": "så fort tidsbisats",
       "zh": "一……就……",
       "en": "as soon as"
     },
     {
-      "name": "man (generellt pronomen)",
+      "name": "man generellt",
       "zh": "泛指人称 man",
       "en": "generic man"
     },
@@ -214,7 +214,7 @@
       "en": "gender-neutral pronoun"
     },
     {
-      "name": "s-passiv (anses, märks)",
+      "name": "s-passiv",
       "zh": "动词加 -s 被动",
       "en": "s-passive"
     }
