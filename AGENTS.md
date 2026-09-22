@@ -188,6 +188,11 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 **Läsning 阅读站**（`site/reading/`，主站侧栏 📖 入口）当文章阅读，可切换中文翻译显隐。导入后务必重建该数据
 （`node tools/build-reading-site.js`，已接入 `/import`、`/sync`、GitHub Action）。
 
+> 🎧 **阅读 ↔ 听力互跳**：`listening/<slug>.json` 里写一个 `readingSlug: "<imported/ 里文章的文件名（不含 .md）>"`，
+> 就把一集听力和一篇文章绑在一起：阅读站文章头部出现「🎧 听这篇」，听力站该集出现「📖 读这篇原文」。
+> 带 QR 码音频的教材拍照件按这个接（音频可用 `audioUrl` 放普通音频文件，不必是 HLS）。
+> `build-reading-site.js` 扫 `listening/*.json` 反查，文章里不用写任何东西。
+
 > **生词点查 (in-page glossary):** `build-reading-site.js` 同时扫 `knowledge_base/words/*.md`，把每个词压成
 > 紧凑的 `vocab` 记录（lemma + ordklass/cefr/zh/en/known + 从 Forms 表抽出的**变形 surface forms**），一并写进
 > `reading-data.js`。阅读站据此把瑞典语正文里**任何 KB 里有笔记的词**（含其变形，如 `arbetade`→`arbeta`）

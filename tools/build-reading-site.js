@@ -237,6 +237,29 @@ function buildVocab() {
   return vocab;
 }
 
+// Reverse index of the listening episodes: an episode JSON that names a
+// `readingSlug` is the audio for that article (e.g. a textbook chapter whose QR
+// code points at the publisher's recording), so the article gets a 🎧 jump link.
+function buildListeningIndex() {
+  const dir = path.join(repoRoot, 'listening');
+  const bySlug = {};
+  if (!fs.existsSync(dir)) return bySlug;
+  for (const name of fs.readdirSync(dir)) {
+    if (!name.endsWith('.json') || name.startsWith('_')) continue;
+    let ep;
+    try {
+      ep = JSON.parse(fs.readFileSync(path.join(dir, name), 'utf8'));
+    } catch (err) {
+      console.error(`(skipping listening/${name}: ${err.message})`);
+      continue;
+    }
+    if (!ep.readingSlug) continue;
+    bySlug[ep.readingSlug] = { id: ep.id || name.replace(/\.json$/, ''), title: ep.title || '' };
+  }
+  return bySlug;
+}
+
+const listeningBySlug = buildListeningIndex();
 const vocab = buildVocab();
 
 const articles = [];
@@ -272,6 +295,7 @@ for (const src of SOURCES) {
       source: frontmatter.source || '',
       path: path.relative(repoRoot, filePath).split(path.sep).join('/'),
       counts,
+      listening: listeningBySlug[slug] || null,
       itemTotal: counts.words + counts.phrases + counts.sentences + counts.grammar,
       items,
       body,
@@ -292,5 +316,6 @@ fs.writeFileSync(dataPath, `window.READING_DATA = ${JSON.stringify(data, null, 2
 const byStatus = articles.reduce((acc, a) => ((acc[a.status] = (acc[a.status] || 0) + 1), acc), {});
 console.log(
   `Generated ${path.relative(repoRoot, dataPath)} — ${articles.length} articles ` +
-    `(待导入 ${byStatus.pending || 0}, 已导入 ${byStatus.imported || 0}), ${vocab.length} vocab notes.`
+    `(待导入 ${byStatus.pending || 0}, 已导入 ${byStatus.imported || 0}), ${vocab.length} vocab notes, ` +
+    `${articles.filter((a) => a.listening).length} with audio.`
 );

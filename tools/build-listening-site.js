@@ -104,6 +104,9 @@ for (const file of files) {
     sourceUrl: ep.sourceUrl || '',
     sourceLinkLabel: ep.sourceLinkLabel || '',
     audioUrl: ep.audioUrl || '',
+    // Slug of the paired article in imported/ (📖 Läsning), when this episode
+    // is the audio for a text that also lives in the reading site.
+    readingSlug: ep.readingSlug || '',
     timingsApproximate: !!ep.timingsApproximate,
     note: ep.note || '',
     hlsUrl: ep.hlsUrl || '',

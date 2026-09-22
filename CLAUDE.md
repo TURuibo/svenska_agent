@@ -150,6 +150,12 @@ confirmation, then analyze and store. **存完后自动运行 `/sync`**（commit
 > （`/scenario`、`/dagens-artikel`、`/dagens-nyheter` 等生成类已经经 `/import` 自动归档到 `imported/`，
 > 无需重复——这条只补**拍照/整段文字 `/learn`** 这条没走 `/import` 的链。）
 
+> 🎧 **带 QR 码音频的教材（拍照件）**：课本 QR 通常指向出版社朗读音频。取到音频后按 §4.5 的格式建一份
+> `listening/<slug>.json`（可用 `audioUrl` 放普通音频文件，不必是 HLS），并在其中写
+> `readingSlug: "<imported/ 里那篇文章的文件名（不含 .md）>"`。这一个字段就把两边接上了：
+> 阅读站文章头部出现「🎧 听这篇」，听力站该集出现「📖 读这篇原文」，互相跳转，不用再去列表里找。
+> （`build-reading-site.js` 扫 `listening/*.json` 反查，无需在文章里写任何东西。）
+
 ### §4.1 跨聊天导入 (Importing from other chats)
 
 Other Claude.ai chats (web/mobile) can feed this KB using the primer in `EXPORT_PROTOCOL.md`.

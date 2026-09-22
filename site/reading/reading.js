@@ -805,6 +805,12 @@
 
     const read = isRead(slug);
 
+    // This article has a recording in 🎧 Lyssna (e.g. the textbook QR-code audio)
+    // — jump straight to that episode instead of hunting for it in the list.
+    const listenBtn = a.listening
+      ? `<a class="viewBtn listenLink" href="../listening/#ep=${encodeURIComponent(a.listening.id)}" title="${escapeHtml(a.listening.title || '')}">🎧 听这篇</a>`
+      : '';
+
     const backBtn = backAnchor
       ? `<a class="viewBtn backToForms" href="${backTarget.href}${encodeURIComponent(backAnchor)}" title="返回来源页对应位置">${backTarget.label}</a>`
       : '';
@@ -813,6 +819,7 @@
       `<div class="viewHead">` +
         `<button type="button" id="mobileBackBtn" class="mobileBack viewBtn">← 列表</button>` +
         backBtn +
+        listenBtn +
         `<span class="cardKind kind-${KIND_BADGE[a.kind] || 'other'}">${a.kindLabel ? a.kindLabel.zh : a.kind}</span>` +
         `<span class="cardStatus status-${a.status}">${a.statusLabel}</span>` +
         (a.cefr ? `<span class="viewCefr">${escapeHtml(a.cefr)}</span>` : '') +
