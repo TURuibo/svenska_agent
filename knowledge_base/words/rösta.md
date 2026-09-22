@@ -10,8 +10,8 @@ en: "to vote"
 synonyms: [välja]
 antonyms: []
 family: [röst, röstning, omröstning]
-topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
-sentences: [sent-den-fragan-ska-invanarna-i-alberta]
+topics: [topic-nyheter-vecka22, topic-samhälle-och-politik, topic-val-demokrati]
+sentences: [sent-den-fragan-ska-invanarna-i-alberta, sent-för-att-rösta-i-kommunvalet-räcker, sent-jag-tycker-att-det-är-viktigt-att-rösta]
 known: false
 created: "2026-06-04"
 reviewed: ""
@@ -67,3 +67,4 @@ interval: 0
 ## 来源
 
 - [[source-2026-06-04-nyheter-vecka-22]]
+- [[source-2026-09-22-laxforhoret-valsystemet]]

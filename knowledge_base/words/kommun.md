@@ -10,8 +10,8 @@ en: "municipality"
 synonyms: [stad]
 antonyms: []
 family: [kommunal, kommunfullmäktige]
-topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
-sentences: [sent-manga-kommuner-valkomnar-sina-nya]
+topics: [topic-nyheter-vecka22, topic-samhälle-och-politik, topic-val-demokrati]
+sentences: [sent-manga-kommuner-valkomnar-sina-nya, sent-regionerna-ansvarar-för-sjukvården-medan]
 known: false
 created: "2026-06-04"
 reviewed: ""
@@ -51,10 +51,10 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kommunal]] (adj. 市政的), [[kommunfullmäktige]] (ett, 市议会), [[kommunfullmäktige]] (市议员)
+- 词族: [[kommunal]] (adj. 市政的), [[kommunfullmäktige]] (ett, 市议会), [[kommunval]]
 - 同义词: [[stad]] (en, 城市/市，非正式)
 - 反义词: —
-- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
+- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)
 
@@ -64,3 +64,4 @@ interval: 0
 ## 来源
 
 - [[source-2026-06-04-nyheter-vecka-22]]
+- [[source-2026-09-22-laxforhoret-valsystemet]]

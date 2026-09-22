@@ -10,8 +10,8 @@ en: "government"
 synonyms: [stat]
 antonyms: [opposition]
 family: [regera, regent]
-topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
-sentences: [sent-regeringen-vill-halvera-priset]
+topics: [topic-nyheter-vecka22, topic-samhälle-och-politik, topic-val-demokrati]
+sentences: [sent-regeringen-vill-halvera-priset, sent-regeringen-gör-en-budget-över-året]
 known: false
 created: "2026-06-04"
 reviewed: ""
@@ -54,7 +54,7 @@ interval: 0
 - 词族: [[regera]] (v. 执政), [[regent]] (en, 摄政王/国王), [[regeringsform]] (en, 政府形式)
 - 同义词: [[stat]] (en, 国家/政府，较宽泛)
 - 反义词: [[opposition]] (en, 反对派)
-- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
+- 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)
 
@@ -63,3 +63,4 @@ interval: 0
 ## 来源
 
 - [[source-2026-06-04-nyheter-vecka-22]]
+- [[source-2026-09-22-laxforhoret-valsystemet]]

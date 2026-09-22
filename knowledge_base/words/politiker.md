@@ -10,7 +10,7 @@ en: "politician"
 synonyms: []
 antonyms: []
 family: [politik, politisk]
-topics: [topic-samhälle-och-politik, topic-yrken]
+topics: [topic-samhälle-och-politik, topic-yrken, topic-val-demokrati]
 sentences:
   - sent-hon-ville-att-politikerna-skulle-lyssna
 known: false
@@ -49,9 +49,10 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: politik（政治），politisk（政治的）
-- 主题: [[topic-samhälle-och-politik]], [[topic-yrken]]
+- 主题: [[topic-samhälle-och-politik]], [[topic-yrken]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)
 
 - 以 -er 结尾，单复数形式相同（obestämd）。
-- 来源: [[source-2026-06-22-greta-thunberg]]
+- 常与 [[övertyga]]（说服）搭配：`politiker försöker övertyga människor om att rösta`。
+- 来源: [[source-2026-06-22-greta-thunberg]], [[source-2026-09-22-laxforhoret-valsystemet]]

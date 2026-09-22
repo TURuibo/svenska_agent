@@ -10,7 +10,7 @@ en: "place, spot, seat"
 synonyms: [ställe, position]
 antonyms: []
 family: [platsa, ersätta, platsbiljett]
-topics: [topic-fotboll]
+topics: [topic-fotboll, topic-val-demokrati]
 sentences: []
 known: false
 created: "2026-06-09"
@@ -52,10 +52,11 @@ interval: 0
 - 词族: [[platsbiljett]] (en, 对号座车票), [[platsa]] (v. 有资格进入)
 - 同义词: [[ställe]] (ett, 地方), [[position]] (en, 位置)
 - 反义词: —
-- 主题: [[topic-fotboll]]
+- 主题: [[topic-fotboll]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)
 
 - `ta en plats` 在体育语境 = 争取/赢得上场名额；日常语境 = 占一个位置。
 - `på plats` = 在场/就位，常用于新闻语境（*reportern är på plats* = 记者在现场）。
-- 来源: [[source-2026-06-09-zlatan-bio]]
+- 选举语境：`en plats i riksdagen` = 议会中的一个席位，共 349 platser。
+- 来源: [[source-2026-06-09-zlatan-bio]], [[source-2026-09-22-laxforhoret-valsystemet]]

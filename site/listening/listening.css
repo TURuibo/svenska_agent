@@ -164,3 +164,10 @@
 @media (max-width: 480px) {
   .vocabItems { grid-template-columns: 1fr; }
 }
+
+/* Per-episode note (source caveats, estimated timings, …). */
+.epNote {
+  margin: .4rem 0 0;
+  font-size: .85rem;
+  color: var(--muted, #667);
+}

@@ -99,6 +99,13 @@ for (const file of files) {
     cefr: ep.cefr || '',
     duration: ep.duration || 0,
     svtPlayUrl: ep.svtPlayUrl || '',
+    // A non-SVT episode (e.g. a textbook chapter read by its publisher) ships a
+    // plain audio file plus its own "listen at the source" link and label.
+    sourceUrl: ep.sourceUrl || '',
+    sourceLinkLabel: ep.sourceLinkLabel || '',
+    audioUrl: ep.audioUrl || '',
+    timingsApproximate: !!ep.timingsApproximate,
+    note: ep.note || '',
     hlsUrl: ep.hlsUrl || '',
     vttUrl: ep.vttUrl || '',
     cueCount: cues.length,
