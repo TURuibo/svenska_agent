@@ -190,8 +190,10 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 
 > 🎧 **阅读 ↔ 听力互跳**：`listening/<slug>.json` 里写一个 `readingSlug: "<imported/ 里文章的文件名（不含 .md）>"`，
 > 就把一集听力和一篇文章绑在一起：阅读站文章头部出现「🎧 听这篇」，听力站该集出现「📖 读这篇原文」。
-> 带 QR 码音频的教材拍照件按这个接（音频可用 `audioUrl` 放普通音频文件，不必是 HLS）。
 > `build-reading-site.js` 扫 `listening/*.json` 反查，文章里不用写任何东西。
+> **带 QR 码音频的教材拍照件**有完整流程技能 `.agents/skills/sv-textbook-qr/SKILL.md`（转写 → KB →
+> `imported/` 文章 → 解 QR → `tools/blipsay-audio.py` 取音频 → `tools/make-cues.py` 估时间轴 → 建听力集 →
+> 重建两站），收到课本照片先读它。
 
 > **生词点查 (in-page glossary):** `build-reading-site.js` 同时扫 `knowledge_base/words/*.md`，把每个词压成
 > 紧凑的 `vocab` 记录（lemma + ordklass/cefr/zh/en/known + 从 Forms 表抽出的**变形 surface forms**），一并写进

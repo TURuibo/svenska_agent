@@ -49,6 +49,7 @@ and how much detail to extract:
 - `sv-knowledge-base` — **this project's storage rules**: how to slug, structure, dedup, and link
   files. Read it whenever you store anything.
 - `sv-assess` — how to assess and record the learner's level.
+- `sv-textbook-qr` — **教材拍照件（尤其带 QR 音频）的完整流程**：转写 → KB → `imported/` 文章 → 解 QR → 取音频 → 建听力集 → 两站互跳。Ruibo 发课本照片时必读。
 - `sv-scenario` — **场景练习生成规范**: how to generate a Swedish dialogue/text/narrative, extract its learning items, and write them as an `inbox/` file with an embedded `svensk-export v1` block ready for `/import`.
 
 ### Subagents (重活 — the "how", isolated)
@@ -150,11 +151,13 @@ confirmation, then analyze and store. **存完后自动运行 `/sync`**（commit
 > （`/scenario`、`/dagens-artikel`、`/dagens-nyheter` 等生成类已经经 `/import` 自动归档到 `imported/`，
 > 无需重复——这条只补**拍照/整段文字 `/learn`** 这条没走 `/import` 的链。）
 
-> 🎧 **带 QR 码音频的教材（拍照件）**：课本 QR 通常指向出版社朗读音频。取到音频后按 §4.5 的格式建一份
-> `listening/<slug>.json`（可用 `audioUrl` 放普通音频文件，不必是 HLS），并在其中写
-> `readingSlug: "<imported/ 里那篇文章的文件名（不含 .md）>"`。这一个字段就把两边接上了：
-> 阅读站文章头部出现「🎧 听这篇」，听力站该集出现「📖 读这篇原文」，互相跳转，不用再去列表里找。
-> （`build-reading-site.js` 扫 `listening/*.json` 反查，无需在文章里写任何东西。）
+> 🎧 **带 QR 码音频的教材（拍照件）→ 走 `sv-textbook-qr` 技能。** 课本 QR 通常指向出版社朗读音频
+> （Språkvägen 系列 = Blipsay 听读码）。整条流程（解 QR → `tools/blipsay-audio.py` 取音频 →
+> `tools/make-cues.py` 估时间轴 → 建 `listening/<slug>.json` → 重建两站）写在
+> `.claude/skills/sv-textbook-qr/SKILL.md`，**收到课本照片先读它**。
+> 关键一环：听力 JSON 里的 `readingSlug: "<imported/ 里那篇文章的文件名（不含 .md）>"` 把两边接上 ——
+> 阅读站出现「🎧 听这篇」，听力站出现「📖 读这篇原文」。（`build-reading-site.js` 扫 `listening/*.json`
+> 反查，文章里不用写任何东西。）
 
 ### §4.1 跨聊天导入 (Importing from other chats)
 
