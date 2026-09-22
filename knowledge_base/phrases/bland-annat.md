@@ -43,4 +43,5 @@ interval: 0
   🇨🇳 她写了包括《长袜子皮皮》和《埃米尔》在内的许多书。
 - 🇸🇈 Zlatan har spelat för **bland annat** Ajax, Inter och Barcelona.
   🇨🇳 兹拉坦曾效力于阿贾克斯、国际米兰和巴塞罗那等球队。
-- 来源: [[source-2026-06-09-zlatan-bio]]
+- 🇸🇪 Kommunerna ansvarar bland annat för skolan och äldrevården. 🇨🇳 市镇负责学校和养老照护等等。
+- 来源: [[source-2026-06-09-zlatan-bio]], [[source-2026-09-22-laxforhoret-valsystemet]]

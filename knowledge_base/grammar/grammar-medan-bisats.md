@@ -7,6 +7,7 @@ level: "A2"
 related: [grammar-bisats, grammar-bisats-ordfoljd, grammar-v2-ordfoljd]
 examples:
   - sent-jag-lagar-middag-medan-barnen
+  - sent-regionerna-ansvarar-för-sjukvården-medan
 known: false
 created: "2026-06-24"
 reviewed: ""
@@ -58,6 +59,7 @@ medan barnen tittar INTE på tv  (错误)
 |------|-------|------|
 | Jag trivs i lugnet | medan | kollektivtrafiken är dålig. |
 | Han är extrovert | medan | hans syster är introvert. |
+| Regionerna ansvarar för sjukvården | medan | kommunerna ansvarar för skolan. |
 
 ## 例句 (Examples)
 

@@ -9,8 +9,8 @@ en: "voice; vote"
 synonyms: []
 antonyms: []
 family: ["rösta"]
-topics: ["topic-film"]
-sentences: []
+topics: ["topic-film", "topic-val-demokrati"]
+sentences: ["sent-jag-tycker-att-det-är-viktigt-att-rösta", "sent-alla-får-ställa-upp-i-valet"]
 known: false
 created: "2026-06-18"
 reviewed: ""
@@ -53,9 +53,10 @@ interval: 0
 - 词族: [[rösta]]
 - 同义词:
 - 反义词:
-- 主题: [[topic-film]]
+- 主题: [[topic-film]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)
 
 - 配音语境：`göra rösten till figuren X` = 为X这个角色配音
-- 选举语境：`lägga sin röst` = 投票
+- 选举语境：`lägga sin röst` = 投票；`göra sin röst hörd` = 让自己的声音被听见 → see [[göra-sin-röst-hörd]]
+- 来源: [[source-2026-09-22-laxforhoret-valsystemet]]

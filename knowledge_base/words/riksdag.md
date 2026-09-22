@@ -10,9 +10,10 @@ en: "parliament (Swedish parliament)"
 synonyms: []
 antonyms: []
 family: [riksdagsledamot, riksdagsman]
-topics: [topic-samhälle-och-politik]
+topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences:
   - sent-i-stället-satte-hon-sig-utanför-riksdagen
+  - sent-alla-får-ställa-upp-i-valet
 known: false
 created: "2026-06-22"
 reviewed: ""
@@ -51,10 +52,10 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: riksdagsledamot（议员），riksdagsman（男议员）
-- 主题: [[topic-samhälle-och-politik]]
+- 词族: riksdagsledamot（议员），riksdagsman（男议员），[[riksdagsval]]
+- 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)
 
 - `Riksdagen` 特指瑞典国会，位于斯德哥尔摩。
-- 来源: [[source-2026-06-22-greta-thunberg]]
+- 来源: [[source-2026-06-22-greta-thunberg]], [[source-2026-09-22-laxforhoret-valsystemet]]

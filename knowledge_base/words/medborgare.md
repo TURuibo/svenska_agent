@@ -10,8 +10,8 @@ en: "citizen"
 synonyms: [invånare]
 antonyms: [utlänning]
 family: [medborgarskap]
-topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
-sentences: [sent-manga-kommuner-valkomnar-sina-nya]
+topics: [topic-nyheter-vecka22, topic-samhälle-och-politik, topic-val-demokrati]
+sentences: [sent-manga-kommuner-valkomnar-sina-nya, sent-man-måste-vara-18-år-svensk-medborgare]
 known: false
 created: "2026-06-04"
 reviewed: ""
@@ -66,3 +66,4 @@ interval: 0
 ## 来源
 
 - [[source-2026-06-04-nyheter-vecka-22]]
+- [[source-2026-09-22-laxforhoret-valsystemet]]

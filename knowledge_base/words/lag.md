@@ -10,8 +10,8 @@ en: "team; law"
 synonyms: []
 antonyms: []
 family: [lagkamrat, landslag, laganda, laga]
-topics: [topic-fotboll]
-sentences: [sent-zlatan-mycket-bra-karriar-mal]
+topics: [topic-fotboll, topic-val-demokrati]
+sentences: [sent-zlatan-mycket-bra-karriar-mal, sent-regeringen-gör-en-budget-över-året]
 known: false
 created: "2026-06-09"
 reviewed: ""
@@ -58,10 +58,11 @@ interval: 0
 - 词族: [[lagkamrat]] (en, 队友), [[landslag]] (ett, 国家队), [[laganda]] (en, 团队精神)
 - 同义词: —
 - 反义词: —
-- 主题: [[topic-fotboll]]
+- 主题: [[topic-fotboll]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)
 
 - 关键歧义：`ett lag` (队伍) vs `en lag` (法律)，词性不同可区分。
-- 在体育语境中几乎总是 `ett lag`（队伍）。
-- 来源: [[source-2026-06-09-zlatan-bio]]
+- 在体育语境中几乎总是 `ett lag`（队伍）；政治/立法语境中是 `en lag`（法律，复数 lagar）。
+- 🇸🇪 Riksdagen beslutar om vilka lagar som ska finnas. 🇨🇳 议会决定应该有哪些法律。
+- 来源: [[source-2026-06-09-zlatan-bio]], [[source-2026-09-22-laxforhoret-valsystemet]]

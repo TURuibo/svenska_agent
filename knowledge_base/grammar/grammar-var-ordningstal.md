@@ -7,6 +7,7 @@ level: "B1"
 related: ["grammar-adjektiv-bojning", "grammar-singular-plural"]
 examples:
   - "sent-forresten-har-du-vart-stampelkort"
+  - "sent-det-är-val-vart-fjärde-år"
 known: false
 created: "2026-06-19"
 reviewed: ""
@@ -50,6 +51,7 @@ varannan    dag     → 每隔一天（var + annan 合并）
 
 ## 例句 (Examples)
 
+- ✅ [[sent-det-är-val-vart-fjärde-år]] 🇸🇪 Det är val vart fjärde år. 🇨🇳 每四年举行一次选举。（`vart` 因 `år` 是 ett-ord）
 - ✅ [[sent-forresten-har-du-vart-stampelkort]] 🇸🇪 Var tionde kaffe är gratis. 🇨🇳 每第十杯咖啡免费。
 - ✅ Var tredje dag träffas vi. 🇨🇳 我们每三天见一次面。
 - ✅ Varannan vecka har vi möte. 🇨🇳 我们每隔一周开一次会。

@@ -21,6 +21,7 @@
   var epTitle = document.getElementById('epTitle');
   var epMeta = document.getElementById('epMeta');
   var epSvtLink = document.getElementById('epSvtLink');
+  var epNote = document.getElementById('epNote');
   var updated = document.getElementById('listenUpdated');
 
   var state = {
@@ -84,7 +85,14 @@
 
     epTitle.textContent = ep.title;
     epMeta.textContent = [ep.source, ep.cefr, fmtDur(ep.duration)].filter(Boolean).join(' · ');
-    epSvtLink.href = ep.svtPlayUrl || '#';
+    // SVT episodes link to SVT Play; other sources (e.g. a textbook publisher's
+    // player reached via the book's QR code) carry their own url + label.
+    var srcUrl = ep.svtPlayUrl || ep.sourceUrl || '';
+    epSvtLink.href = srcUrl || '#';
+    epSvtLink.hidden = !srcUrl;
+    epSvtLink.textContent = ep.sourceLinkLabel || '📺 在 SVT Play 看 ↗';
+    epNote.textContent = [ep.note, ep.timingsApproximate ? '⏱️ 字幕时间轴为估算值。' : ''].filter(Boolean).join(' ');
+    epNote.hidden = !epNote.textContent;
 
     renderTranscript(ep);
     renderVocab(ep);
@@ -97,6 +105,13 @@
     media.removeAttribute('src');
     media.load();
     mediaError.hidden = true;
+
+    // A plain audio file (mp3/m4a) needs no hls.js — hand it straight to <audio>.
+    if (ep.audioUrl) {
+      media.src = ep.audioUrl;
+      media.playbackRate = currentSpeed();
+      return;
+    }
 
     var url = ep.hlsUrl;
     if (!url) { showMediaError('这一集没有可播放的音频链接，请用上方“在 SVT Play 看”。'); return; }

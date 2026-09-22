@@ -9,8 +9,8 @@ en: "(political) party; batch; game"
 synonyms: []
 antonyms: []
 family: ["partiledare", "partipolitik", "partimedlem"]
-topics: ["topic-samhälle-och-politik"]
-sentences: []
+topics: ["topic-samhälle-och-politik", "topic-val-demokrati"]
+sentences: ["sent-alla-får-ställa-upp-i-valet"]
 known: false
 created: "2026-06-23"
 reviewed: ""
@@ -56,10 +56,11 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: partiledare (party leader), partipolitik (party politics), partimedlem (party member)
-- 主题: [[topic-samhälle-och-politik]]
+- 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)
 
 - 在政治语境中最常见，指"政党"
 - `ett parti varor` 商业语境中指"一批/一批次货物"
 - `ett parti schack/tennis` 指棋局/球局（一场比赛中的一局）
+- 来源: [[source-2026-09-22-laxforhoret-valsystemet]]

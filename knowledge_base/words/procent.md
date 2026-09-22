@@ -10,8 +10,8 @@ en: "per cent"
 synonyms: []
 antonyms: []
 family: []
-topics: [topic-skola-och-utbildning]
-sentences: []
+topics: [topic-skola-och-utbildning, topic-val-demokrati]
+sentences: [sent-alla-får-ställa-upp-i-valet]
 known: false
 created: "2026-09-03"
 reviewed: ""
@@ -49,8 +49,10 @@ Oböjlig plural (invariant): "tjugo procent", inte *procenter.
 - 词族: [[…]]
 - 同义词: [[…]]
 - 反义词: [[…]]
-- 主题: [[topic-skola-och-utbildning]]
+- 主题: [[topic-skola-och-utbildning]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)
 
 - 与数字连用时不加复数 -er；图表/统计阅读理解高频词。
+- 选举语境：政党得票百分比直接对应议会席位百分比（比例代表制）。
+- 来源: [[source-2026-09-22-laxforhoret-valsystemet]]

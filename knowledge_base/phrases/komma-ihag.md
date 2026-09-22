@@ -49,3 +49,4 @@ interval: 0
 - 🇸🇪 Kom ihåg att ta med paraply! — 🇨🇳 记得带雨伞！
 - 🇸🇪 Jag kom inte ihåg hans namn. — 🇨🇳 我记不住他的名字。
 - 🇸🇪 Kommer du ihåg när vi träffades första gången? — 🇨🇳 你还记得我们第一次见面是什么时候吗？
+- 🇸🇪 Kommer du ihåg när du följde med mig och förtidsröstade i förra valet? — 🇨🇳 你还记得上次选举你跟我一起去提前投票吗？（来源: [[source-2026-09-22-laxforhoret-valsystemet]]）
