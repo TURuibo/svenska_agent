@@ -38,7 +38,6 @@ commit of viewer data is needed.
 | 你做什么 | 命令 | 发生什么 |
 |----------|------|----------|
 | 查 + 录入 | `/learn <词/词组/句子/图片>` 或直接发消息 | 用瑞典语技能分析 → 查重 → 全文存入 `knowledge_base/` 并建链接 → 对话里给精简总结 |
-| 复习巩固 | `/review [数量/类型/主题]` | 从知识库按 SM-2 间隔挑到期项，逐题测验、评分、更新进度 |
 | 评估水平 | `/assess [full\|quick]` | 扫描知识库估算 CEFR/SFI，写入 `profile/level.md`；已会的词以后查询自动跳过 |
 | 知识库体检 | `/kb` | 统计数量、找断链/孤立笔记、刷新索引 |
 | 跨聊天导入 | `/import [块\|文件名]` | 解析 `svensk-export v1` 块 → 查重 → 录入 KB + 建链 → 给收据 |
@@ -94,8 +93,8 @@ Keep both root instruction files aligned when changing the project behavior. Use
 | **Codex instructions** | `AGENTS.md` | Codex 项目大脑：同一套规则，适配 Codex |
 | **Claude skills** | `.claude/skills/` | Claude Code 的瑞典语技能 + 项目技能 |
 | **Codex skills** | `.agents/skills/` | Codex 可发现的瑞典语技能 + 项目技能 |
-| **Subagents** | `.claude/agents/` + `.codex/agents/` | `sv-librarian` 批量录入、`sv-reviewer` 复习、`sv-assessor` 评估、`sv-scenario-writer` 场景生成 |
-| **Slash commands** | `.claude/commands/` | `/learn` `/review` `/assess` `/kb` `/import` `/scenario` |
+| **Subagents** | `.claude/agents/` + `.codex/agents/` | `sv-librarian` 批量录入、`sv-assessor` 评估、`sv-scenario-writer` 场景生成 |
+| **Slash commands** | `.claude/commands/` | `/learn` `/assess` `/kb` `/import` `/scenario` |
 | **Hooks** | `.claude/settings.json` + `.claude/hooks/` | SessionStart 仪表盘、PostToolUse 变更日志/校验 |
 | **Status line** | `.claude/hooks/statusline.ps1` | 状态栏实时显示词数 / 水平 |
 | **Output style** | `.claude/output-styles/swedish-tutor.md` | 可选的"瑞典语家教"输出风格 |
@@ -106,7 +105,7 @@ Keep both root instruction files aligned when changing the project behavior. Use
 ### 九个技能 (Skills)
 - `swedish-dictionary` 词 · `swedish-phrases` 词组 · `swedish-grammar` 语法 ·
   `swedish-text-analysis` 整篇/图片
-- `sv-knowledge-base` 存储与链接规则 · `sv-review` 复习 · `sv-assess` 评估 ·
+- `sv-knowledge-base` 存储与链接规则 · `sv-assess` 评估 ·
   `sv-scenario` 情景生成 · `sv-import` 跨聊天导入
 
 ---
@@ -120,7 +119,6 @@ Keep both root instruction files aligned when changing the project behavior. Use
 你: vad betyder "lagom"?            # → 查词 + 自动录入
 你: Jag har inte sett filmen än.    # → 句子分析 + 录入（生词/语法自动建链）
 你: [拖一张瑞典语图片进来]            # → 转写 + 整篇提取 + 批量录入
-你: /review                          # → 开始复习
 你: /assess                          # → 评估水平
 你: /kb                              # → 知识库体检
 ```
@@ -151,6 +149,5 @@ svensk_agent/
 ├── site/                # static searchable KB viewer
 ├── tools/               # PowerShell tooling, including KB site generation
 ├── profile/level.md     # 水平档案（已掌握 = 查词跳过表）
-├── review/schedule.md   # 复习计划（SM-2 lite）
 └── inbox/               # 待处理的图片/文档
 ```

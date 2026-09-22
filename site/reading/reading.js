@@ -1,6 +1,6 @@
 /* Läsning — reading UI. Reads window.READING_DATA (reading-data.js) for articles.
    Pure reading: list + search + 已读 marker.
-   (Vocabulary review lives in Dagbok 闪卡 and the /review workflow — not here.) */
+   (Vocabulary drilling lives in Dagbok 闪卡 — not here.) */
 
 (function () {
   'use strict';

@@ -14,10 +14,6 @@ topics: []
 sentences: []
 known: false
 created: ""
-reviewed: ""
-review_count: 0
-ease: 2.5
-interval: 0
 ---
 
 # {{phrase}}

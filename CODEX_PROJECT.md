@@ -14,7 +14,7 @@ This project can be opened directly in both Claude Code and Codex.
 - Swedish learning rules live in both `CLAUDE.md` and `AGENTS.md`.
 - Codex skills live in `.agents/skills/`.
 - Claude Code skills live in `.claude/skills/`.
-- Both clients use the same durable state: `knowledge_base/`, `profile/level.md`, `review/schedule.md`, `imported/`, `listening/`, and `inbox/`.
+- Both clients use the same durable state: `knowledge_base/`, `profile/level.md`, `imported/`, `listening/`, and `inbox/`.
 - Do not introduce a database; all durable state stays in markdown.
 - The static KB/viewer sites live in `site/`; generated viewer data is rebuilt by local tools and GitHub Actions.
 - GitHub Pages serves the viewer from the generated `gh-pages` branch at `https://turuibo.github.io/svenska_agent/`.
@@ -24,7 +24,7 @@ This project can be opened directly in both Claude Code and Codex.
 - `AGENTS.md` is the Codex project instruction file.
 - `.agents/skills/` contains the Swedish skills Codex should discover.
 - `.agents/skills/source-command-*` contains Codex wrappers for Claude Code slash-command workflows.
-- `.codex/agents/` contains Codex-flavored agent definitions for the librarian, importer, reviewer, assessor, and scenario writer.
+- `.codex/agents/` contains Codex-flavored agent definitions for the librarian, importer, assessor, and scenario writer.
 - `.codex/config.toml` sets `SVENSK_AGENT=1`.
 - `.codex/hooks/` mirrors the Claude Code PowerShell hooks where Codex hook support is available.
 

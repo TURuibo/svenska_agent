@@ -22,7 +22,7 @@ Obsidian 风格的本地知识库，全部为 markdown，笔记之间用 `[[wiki
 > 实时统计由 SessionStart hook 打印；运行 `/kb` 刷新本节。
 
 - 单词: 109 · 词组: 32 · 句子: 9 · 语法: 14 · 主题: 12 · 来源: 4 · **共 180 条目**
-- 可复习: 166 · 已掌握(known): 0
+- 已掌握(known): 0
 
 ## 最近添加 (Recently added)
 
@@ -76,6 +76,5 @@ Obsidian 风格的本地知识库，全部为 markdown，笔记之间用 `[[wiki
 ## 学习入口 (Workflows)
 
 - `/learn <词/句/图片>` — 查询 + 自动录入
-- `/review` — 间隔复习
 - `/assess` — 评估水平 → [[../profile/level.md]]
 - `/kb` — 知识库健康检查

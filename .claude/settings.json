@@ -40,7 +40,6 @@
       "Grep",
       "Bash(powershell:*)",
       "Agent(sv-librarian)",
-      "Agent(sv-reviewer)",
       "Agent(sv-assessor)"
     ],
     "deny": []

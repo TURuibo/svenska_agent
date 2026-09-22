@@ -18,7 +18,7 @@ try {
     if ($fp -notlike "*knowledge_base*" -or $fp -notlike '*.md') { exit 0 }
 
     # append to changelog
-    $log = Join-Path $root 'review\.kb-changelog.log'
+    $log = Join-Path $root '.kb-changelog.log'
     $stamp = Get-Date -Format 'yyyy-MM-dd HH:mm:ss'
     $rel = $fp.Replace($root, '').TrimStart('\','/')
     Add-Content -Path $log -Value "$stamp  $($data.tool_name)  $rel" -Encoding utf8

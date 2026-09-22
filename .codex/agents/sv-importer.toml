@@ -27,7 +27,7 @@ treat anything there as already-processed too.)
 
 2. **Import each file** following `sv-import` §2–§6. Crucially:
    - You are the heavy worker. **Do the librarian work inline yourself** (create notes, wire forward
-     `[[wikilinks]]`, build topic notes, write the `sources/` note, update `review/schedule.md`).
+     `[[wikilinks]]`, build topic notes, write the `sources/` note).
      **Do NOT spawn sub-agents** — you ARE the background job.
    - Process files one at a time. Within a file, plan all items first, then batch the `Write` calls
      (parallel tool calls in one message), per the librarian's phased protocol.

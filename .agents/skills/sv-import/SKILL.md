@@ -157,7 +157,6 @@ Store inline:
   `## 例句` section by meaning (including drill/böjning imports):
   - 多个不同义项 (multiple distinct senses) → **每个义项至少 1 个例句**，按义项分组标注。
   - 单一义项 / 义项含义相近 (single or near-identical senses) → **至少 3 个例句**。
-- Add reviewable notes to `review/schedule.md` with immediate `due:` date.
 
 ### Large batch (> 3 items total)
 
@@ -179,22 +178,8 @@ Store inline:
    - The source note slug.
    - The fully-enriched (gap-filled), intra-block-deduped item lists.
    - The `date:` to use for `created:` frontmatter.
-   - Instruction to add new reviewable notes to `review/schedule.md`.
    - The librarian always generates example sentences for every word note in this batch.
 3. Await the librarian's manifest report.
-
----
-
-## 6. 更新复习计划 (review/schedule.md)
-
-For inline-stored items (small batch), append each new reviewable slug to `review/schedule.md` with:
-```
-- slug: <slug>
-  due: <date>
-  ease: 2.5
-  interval: 0
-```
-(Large-batch: the librarian handles this.)
 
 ---
 

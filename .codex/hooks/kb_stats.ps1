@@ -39,7 +39,7 @@ if (Test-Path $prof) {
 }
 
 Write-Output "📚 Swedish KB  |  词 $words · 词组 $phrases · 句子 $sentences · 语法 $grammar · 主题 $topics · 来源 $sources"
-Write-Output "✅ 已掌握(known): $known / $total reviewable    🎯 水平: $level"
+Write-Output "✅ 已掌握(known): $known / $total 条    🎯 水平: $level"
 
 # Pending inbox: *.md directly under inbox/ excluding README.md (imported/ is a subfolder, excluded by -File non-recursive).
 $inbox = Join-Path $root 'inbox'

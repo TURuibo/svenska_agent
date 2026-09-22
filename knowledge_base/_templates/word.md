@@ -17,10 +17,6 @@ topics: []             # topic note slugs, e.g. [topic-mobler]
 sentences: []          # sentence note slugs where this word appears
 known: false           # true once the learner has mastered it (skip full lookups)
 created: ""            # YYYY-MM-DD
-reviewed: ""           # YYYY-MM-DD of last review
-review_count: 0
-ease: 2.5              # SM-2 ease factor
-interval: 0            # SM-2 interval in days
 ---
 
 # {{lemma}} — {{ordklass}}

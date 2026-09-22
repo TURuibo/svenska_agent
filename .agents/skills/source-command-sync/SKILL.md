@@ -21,7 +21,7 @@ Use Codex's available equivalents for any Claude-specific tools named in the sou
    - 若失败不要中断。
 
 2. **只暂存真实内容路径**（存在才加；绝不加 `inbox/`、`traces/`、`settings.local.json`，也别加 gitignore 的 viewer 数据文件）：
-   `git add -- knowledge_base review/schedule.md profile imported listening .gitattributes`
+   `git add -- knowledge_base profile imported listening .gitattributes`
    （`knowledge_base/_index/slugs.json` 在 `knowledge_base/` 内会一并暂存。）
 
 3. **若无暂存改动 → 直接结束**并告诉用户"已是最新，无需同步"：

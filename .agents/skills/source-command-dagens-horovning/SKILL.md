@@ -95,9 +95,9 @@ Use Codex's available equivalents for any Claude-specific tools named in the sou
 `tools/build-listening-site.js` 会拿每个 `lemma` 去 `knowledge_base/_index/slugs.json` 匹配，命中就给该条目
 加 KB 链接(站点上变成可点 → 跳词条解释页)，所以 `lemma` 一定要是 KB slug 用的 grundform。
 
-## 5. 入库 (KB import — 让它进 recap/搜索/review)
+## 5. 入库 (KB import — 让它进 recap/搜索)
 
-听力学习项要像每日新闻一样**进知识库**(否则不会出现在 recap/Dagbok、主站搜索、`/review`，词卡也无法链接解释)。
+听力学习项要像每日新闻一样**进知识库**(否则不会出现在 recap/Dagbok、主站搜索，词卡也无法链接解释)。
 所以**额外**写一个导入文件 `inbox/horning-<DATE>.md`：可读正文(原文+🇨🇳) + 一个 fenced ` ```svensk-export v1 ` 块，
 块里 `words`(用 lemma) / `phrases` / `sentences`(覆盖**每一条字幕** `sv | zh`) / `grammar`，格式照 `EXPORT_PROTOCOL.md` Part A。
 入库由日后 `/import`(或每日脚本 `scripts/daily-listening.ps1` 自动调 `import-and-rebuild.ps1`)完成 —— 本命令不直接写 `knowledge_base/`。
