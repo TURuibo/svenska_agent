@@ -40,6 +40,7 @@
       "Grep",
       "Bash(powershell:*)",
       "Bash(node tools/schedule.js:*)",
+      "Bash(node tools/dedup.js:*)",
       "Agent(sv-librarian)",
       "Agent(sv-reviewer)",
       "Agent(sv-assessor)"

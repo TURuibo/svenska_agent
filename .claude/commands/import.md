@@ -25,14 +25,16 @@ no spaces that matches an inbox entry):
 - If no export blocks are found anywhere, tell the user: no import blocks found in inbox/ — paste
   a `svensk-export v1` block directly or add a file to `inbox/`.
 
-## 2. Parse + enrich
+## 2. Dedup first, then enrich
 
-For each resolved block, follow sv-import §2 (parse), §3 (fill gaps using Swedish skills), and
-§4a (level check against `profile/level.md`).
+For each resolved source run `node tools/dedup.js inbox/<file>.md` (or pipe a pasted block to
+`node tools/dedup.js -`). It does sv-import §2 (parse), §4a (profile check) and §4b (dedup) in one
+call and prints the NEW items with slugs — never `Read` `knowledge_base/_index/slugs.json`. Then apply
+§3 (fill gaps using Swedish skills) to the NEW items only.
 
-## 3. Dedup + store
+## 3. Store
 
-Follow sv-import §4b and §5:
+Follow sv-import §5:
 - **≤ 3 items total**: store inline (create notes + wire links yourself), then schedule them with
   `node tools/schedule.js add --date <date> type:<slug> …` (sv-import §6 — never open `review/schedule.md`).
 - **> 3 items total**: create the `sources/source-<date>-<topic>.md` note first, then spawn

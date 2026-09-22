@@ -117,6 +117,11 @@ Before storing an item, check existence in this order:
 
 For phrases/sentences where the slug is fuzzy, also `Grep` the folder for the lemma/key words before creating.
 
+**批量（任何 `svensk-export` 块 / inbox 文件）→ 用脚本，不读 manifest：** `node tools/dedup.js inbox/<file>.md`
+（粘贴块用 `node tools/dedup.js -`）一次算好全部 slug、按 slug + å/ä/ö 折叠 + 原文比对活 KB、套用
+`profile/level.md`，只打印 **NEW 条目（带 slug）** 与一行 DUP/KNOWN。把 NEW 列表直接交给 librarian。
+**任何 agent 都不要 `Read` `knowledge_base/_index/slugs.json`**（约 120 KB ≈ 33k tokens；它只给站点构建用）。
+
 ---
 
 ## 4. 处理流程 (Per-Input Playbook)

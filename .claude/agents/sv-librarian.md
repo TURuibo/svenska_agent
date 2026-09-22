@@ -20,10 +20,11 @@ in "Execution protocol" below — plan all items first, then write them in paral
 one note per turn.
 
 For each item:
-1. **Dedup** (SKILL §3): Read `knowledge_base/_index/slugs.json` ONCE at the start to get the full
-   slug manifest. Check each item's slug against it in memory. Fall back to `Glob`/`Grep` only for
-   phrases and sentences (fuzzy slugs) when the manifest misses them. Skip duplicates (enrich only
-   if genuinely new info is missing).
+1. **Dedup** (SKILL §3): the main agent has already run `node tools/dedup.js` and hands you only the
+   **NEW** items, each with the slug to use. Trust that list: **do not Read `slugs.json`** (~33k tokens)
+   and do not re-check words/phrases/sentences. The one exception is grammar (free-form names): `Grep
+   knowledge_base/grammar/` once by keyword for each new grammar item before creating it. If you were
+   given raw items without a dedup result, `Glob` each expected path instead of loading the manifest.
 2. **Create** from the matching `_templates/` file, filling frontmatter completely. `created:` = the
    date given to you (absolute).
 3. **Generate example sentences for words** (always): For every word note,
@@ -59,9 +60,9 @@ one-at-a-time is the single biggest waste. **Do not** loop "create note → next
 Instead follow these phases in order; within a phase, issue ALL independent tool calls in a
 **single message** (parallel tool calls):
 
-- **Phase 0 — Load (one batch):** in a single message, `Read` `knowledge_base/_index/slugs.json`
-  AND every template you will need (`_templates/word.md`, `grammar.md`, etc.) at once. You do not
-  need to read existing notes — linking is forward-only.
+- **Phase 0 — Load (one batch):** in a single message, `Read` every template you will need
+  (`_templates/word.md`, `grammar.md`, etc.) at once, plus the `source-*` note if you must update it.
+  No manifest read. You do not need to read existing notes — linking is forward-only.
 - **Phase 1 — Plan (no tool calls):** decide everything before writing. For every item: its slug,
   whether the manifest marks it a DUP, its forward links (`synonyms`/`antonyms`/`family`/`topics`),
   within-batch symmetric mirrors, topic membership, and the full note body. Hold it all in memory.

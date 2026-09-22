@@ -47,17 +47,20 @@ e.g. `[[arbeta]]`, `[[grammar-v2-ordfoljd]]`, `[[topic-mobler]]`, `[[sent-jag-ha
 
 ## 3. 查重流程 (Dedup — do this BEFORE writing)
 
-**Fast path — slug manifest (preferred for batch imports):**
+**Fast path — `tools/dedup.js` (batch imports, any `svensk-export` block):**
 
-At the start of any import run, Read `knowledge_base/_index/slugs.json` ONCE. This file is generated
-by `tools/build-kb-site.js` and contains every known slug grouped by type:
-```json
-{ "word": ["arbeta", "gå", ...], "phrase": [...], "grammar": [...], ... }
+```bash
+node tools/dedup.js inbox/<file>.md      # or:  echo "<block>" | node tools/dedup.js -
 ```
-Load it into memory and check each item's computed slug against the in-memory manifest. A hit → duplicate
-(skip or enrich). This avoids per-item Glob/Grep for the common case.
+It computes every item's slug with the §2 rules, checks the live note folders (exact slug, å/ä/ö-folded
+slug, and the Swedish text in `phrase:` / `sentence:` / `name:` frontmatter), applies the learner profile,
+and prints **NEW items with their slug**, plus DUP / KNOWN as one line each. Pass the NEW list to the
+librarian; nobody needs to open `knowledge_base/_index/slugs.json` (~120 KB ≈ 33k tokens) or the inbox
+file again. `slugs.json` stays generated for the site builders, not for agents.
 
-**Fallback (when manifest is absent or stale):**
+**Single interactive item (no block):** just `Glob` the one expected path (step 2 below).
+
+**Fallback (per item, when the script can't be run):**
 
 1. Compute the slug (§2).
 2. `Glob` the expected path. If a file exists → **duplicate**: do not recreate.

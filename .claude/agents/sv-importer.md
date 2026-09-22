@@ -38,8 +38,10 @@ treat anything there as already-processed too.)
      skips anything already scheduled. One line of output is all you need to see.
    - Process files one at a time. Within a file, plan all items first, then batch the `Write` calls
      (parallel tool calls in one message), per the librarian's phased protocol.
-   - Honour dedup against `knowledge_base/_index/slugs.json` and the learner profile
-     (`profile/level.md`) — skip KNOWN and DUP items.
+   - Dedup + profile check = one Bash call per file: `node tools/dedup.js inbox/<file>.md`. It prints
+     the NEW items (with slugs) and the DUP / KNOWN lists. Create only the NEW items. **Do not Read
+     `knowledge_base/_index/slugs.json`** (~33k tokens) and do not re-read the inbox file for items.
+     If it prints `Nothing new`, archive the file and move on.
    - Always generate example sentences for every new word note, including drill/böjning imports.
 
 3. **Archive each processed file** (sv-import §8): move it from `inbox/<file>.md` to the **tracked**

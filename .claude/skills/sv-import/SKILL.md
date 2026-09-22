@@ -116,30 +116,36 @@ same quality standard as a direct `/learn` lookup.
 
 For each item, before creating anything:
 
-### 4a. Check learner profile
+### 4a + 4b. Profile check + dedup — one script call, no manifest read
 
-Read `profile/level.md`. If the word/phrase appears in the known vocabulary list or its KB note has
-`known: true` — skip it entirely. Report: `KNOWN-skipped: [lemma]`.
+```bash
+node tools/dedup.js inbox/<file>.md            # file with a svensk-export block
+printf '%s' "<pasted block>" | node tools/dedup.js -    # pasted block
+```
+The script (a) slugs every item per sv-knowledge-base §2, (b) checks the live KB folders by slug,
+å/ä/ö-folded slug and Swedish text, (c) skips items whose note has `known: true` or whose lemma is in the
+已掌握 list of `profile/level.md`, and (d) prints:
 
-### 4b. Dedup against the KB (sv-knowledge-base §3)
+```
+NEW words (5):   - <original line>    → <slug>      ← give exactly these lines to the librarian
+DUP (n): word hink → hink; sentence … → sent-…      ← report as DUP-skipped
+KNOWN (n): …                                         ← report as KNOWN-skipped
+```
+**Do not `Read` `knowledge_base/_index/slugs.json`** (~120 KB ≈ 33k tokens) and do not re-read the inbox
+file for the items — the NEW lines are the complete item list. If the script prints `Nothing new`,
+skip the librarian and go straight to archiving (§8). Grammar names are free-form, so for a NEW grammar
+item the librarian may still `Grep knowledge_base/grammar/` once by keyword before creating it.
 
-**Step 0 — load slug manifest (fast path):**
-Read `knowledge_base/_index/slugs.json` ONCE at the start of the import. This file is generated
-by `tools/build-kb-site.js` and lists every existing slug grouped by type. Load it into memory and
-use it to check every item's slug without additional Glob/Grep calls.
-
-If `slugs.json` does not exist (manifest not yet generated), fall back to the per-item path below.
-
-**Per-item check:**
+**Fallback (only if the script cannot run) — per-item check:**
 1. Compute the slug (per sv-knowledge-base §2 rules):
    - word → slug = lemma (lowercased, spaces→`-`)
    - phrase → slug = lowercased phrase, spaces→`-`
    - sentence → slug = `sent-` + first 4–6 significant words
    - grammar → slug = `grammar-` + term
-2. Check the slug against the in-memory manifest. If found → **DUP**.
-3. For phrases and sentences only (fuzzy slugs): if NOT found in manifest, also `Grep` the folder
+2. `Glob` the expected path. If found → **DUP**.
+3. For phrases and sentences only (fuzzy slugs): if NOT found, also `Grep` the folder
    for key words as a near-duplicate guard.
-4. If found (either manifest or Grep) → **DUP**: skip creation. Enrich only if the import adds a
+4. If found (either Glob or Grep) → **DUP**: skip creation. Enrich only if the import adds a
    genuinely new sense, collocation, or example sentence absent from the existing note.
    Report: `DUP-skipped: [slug]`.
 5. If not found → proceed to store.
