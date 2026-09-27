@@ -3,7 +3,7 @@ type: sentence
 sentence: "Tack för idag, Sara!"
 zh: "今天谢谢啦，Sara！"
 cefr: "A1"
-words: [tack]
+words: []
 phrases: [tack-för-idag]
 grammar: []
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
@@ -29,7 +29,7 @@ Tack | för idag, | Sara!
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[tack]]
+- 词: —
 - 词组: [[tack-för-idag]]
 
 ## 用法提示 (Notes)

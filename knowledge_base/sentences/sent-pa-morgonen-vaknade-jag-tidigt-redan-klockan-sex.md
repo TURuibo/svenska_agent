@@ -3,7 +3,7 @@ type: sentence
 sentence: "På morgonen vaknade jag tidigt, redan klockan sex."
 zh: "早上我很早就醒了，已经六点了。"
 cefr: "A2"
-words: [vakna, tidigt, redan]
+words: [vakna, tidigt]
 phrases: [på-morgonen, klockan-sex]
 grammar: [grammar-preteritum, grammar-v2-ordfoljd]
 source: source-2026-06-09-en-handelse-i-tidsordning

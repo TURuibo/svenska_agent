@@ -3,7 +3,7 @@ type: sentence
 sentence: "Ungefär likadant, faktiskt."
 zh: 差不多一样，说实话。
 cefr: A2
-words: [faktiskt]
+words: []
 phrases: []
 grammar: []
 source: source-2026-06-09-fika-pa-cafe

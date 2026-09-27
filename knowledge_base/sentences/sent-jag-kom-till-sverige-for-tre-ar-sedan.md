@@ -3,7 +3,7 @@ type: sentence
 sv: "Jag kom till Sverige för tre år sedan."
 cn: "三年前我来到瑞典。"
 grammar: [grammar-för-sedan]
-words: [komma, Sverige]
+words: [Sverige]
 phrases: []
 topics: [topic-sfi-sprak-larande]
 sources: [source-2026-06-29-vandpunkt-i-mitt-liv]

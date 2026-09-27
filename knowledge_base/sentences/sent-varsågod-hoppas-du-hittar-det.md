@@ -38,7 +38,7 @@ Varsågod!    Hoppas    du      hittar    det!
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[hoppas]], [[hitta]]
+- 词: [[hitta]]
 - 词组: [[varsågod]], [[hoppas-du-hittar-det]]
 
 ## 来源 (Source)

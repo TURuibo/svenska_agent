@@ -3,7 +3,7 @@ type: sentence
 sentence: "Medan jag väntade ringde jag också till banken och spärrade mina kort."
 zh: "在等候期间，我也打电话给银行，冻结了我的银行卡。"
 cefr: "A2"
-words: [vänta, ringa, bank, spärra, kort]
+words: [ringa, bank, spärra, kort]
 phrases: [spärra-kort]
 grammar: [grammar-preteritum, grammar-bisats-tidskonnektor, grammar-v2-ordfoljd]
 source: source-2026-06-09-en-handelse-i-tidsordning

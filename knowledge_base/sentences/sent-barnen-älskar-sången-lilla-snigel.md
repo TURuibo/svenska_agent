@@ -3,7 +3,7 @@ type: sentence
 sentence: "Barnen älskar sången Lilla snigel!"
 zh: "孩子们特别喜欢《小蜗牛》那首歌！"
 cefr: "A1"
-words: [barn, älska, sång, snigel]
+words: [älska, sång, snigel]
 phrases: []
 grammar: [grammar-bestamd-form]
 source: "source-2026-09-26-forskola-en-dag-i-appen"
@@ -28,7 +28,7 @@ created: "2026-09-26"
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[barn]], [[älska]], [[sång]], [[snigel]]
+- 词: [[älska]], [[sång]], [[snigel]]
 - 词组: —
 
 ## 来源 (Source)

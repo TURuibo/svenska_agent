@@ -3,7 +3,7 @@ type: sentence
 sentence: "I Sverige lär sig barn redan i grundskolan hur man gör."
 zh: "在瑞典，孩子们在小学就学会了如何分类垃圾。"
 cefr: "A2"
-words: [grundskola, barn, lära]
+words: [grundskola, lära]
 phrases: []
 grammar: [grammar-reflexivt-verb, grammar-v2-ordfoljd, grammar-man-generellt, grammar-bisats]
 source: "source-2026-06-27-faktatext-atervinning"
@@ -37,7 +37,7 @@ interval: 0
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[grundskola]], [[barn]], [[lära]]
+- 词: [[grundskola]], [[lära]]
 
 ## 来源 (Source)
 

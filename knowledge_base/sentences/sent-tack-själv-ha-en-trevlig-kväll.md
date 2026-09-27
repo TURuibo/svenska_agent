@@ -3,7 +3,7 @@ type: sentence
 sentence: "Tack själv, ha en trevlig kväll!"
 zh: "也谢谢你，晚上愉快！"
 cefr: "A1"
-words: [tack, trevlig, kväll]
+words: [trevlig, kväll]
 phrases: [tack-själv, ha-en-trevlig-kväll]
 grammar: []
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
@@ -29,7 +29,7 @@ Tack själv, | ha | en trevlig kväll!
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[tack]], [[trevlig]], [[kväll]]
+- 词: [[trevlig]], [[kväll]]
 - 词组: [[tack-själv]], [[ha-en-trevlig-kväll]]
 
 ## 用法提示 (Notes)

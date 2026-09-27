@@ -11,9 +11,9 @@ topics: [topic-förskola-vardag, topic-föräldrasmåprat]
 created: "2026-09-26"
 ---
 
-# 🇸🇪 Någon som har sett en blå vante med namnlapp \"Olle\"?
+# 🇸🇪 Någon som har sett en blå vante med namnlapp "Olle"?
 
-🇨🇳 有人看到一只蓝色的、写着姓名标签\"Olle\"的手套吗？
+🇨🇳 有人看到一只蓝色的、写着姓名标签"Olle"的手套吗？
 
 ## 结构 (Structure)
 

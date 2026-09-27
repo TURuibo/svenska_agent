@@ -38,7 +38,7 @@ Hur      kommer    jag    dit?
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[komma]]
+- 词: —
 - 词组: [[hur-kommer-jag-dit]]
 
 ## 来源 (Source)

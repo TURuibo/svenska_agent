@@ -3,7 +3,7 @@ type: sentence
 sentence: "Vänta, ni glömde gosedjuret – och ta med en bit tårta hem."
 zh: "等等，你们忘了毛绒玩具——再带一块蛋糕回家吧。"
 cefr: "A2"
-words: [vänta, glömma, gosedjur, bit, tårta]
+words: [glömma, gosedjur, bit, tårta]
 phrases: [en-bit-tårta, ta-hem]
 grammar: [grammar-imperativ, grammar-preteritum, grammar-partikelverb, grammar-riktnings-adverb]
 source: "source-2026-09-26-forskola-pa-barnkalaset"
@@ -31,7 +31,7 @@ created: "2026-09-26"
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[vänta]], [[glömma]], [[gosedjur]], [[bit]], [[tårta]]
+- 词: [[glömma]], [[gosedjur]], [[bit]], [[tårta]]
 - 词组: [[en-bit-tårta]], [[ta-hem]]
 
 ## 来源 (Source)

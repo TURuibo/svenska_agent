@@ -3,7 +3,7 @@ type: sentence
 sentence: "Och kom ihåg: inga bilder på andras barn här i föräldragruppen."
 zh: "另外请记住：群里不发别人孩子的照片。"
 cefr: "A2"
-words: [bild, annan, barn, föräldragrupp, ingen]
+words: [bild, annan, föräldragrupp, ingen]
 phrases: [komma-ihåg, kom-ihåg-att]
 grammar: [grammar-imperativ, grammar-partikelverb, grammar-genitiv-s]
 source: "source-2026-09-26-forskola-foraldragruppen-chatt"
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[bild]], [[annan]], [[barn]], [[föräldragrupp]], [[ingen]]
+- 词: [[bild]], [[annan]], [[föräldragrupp]], [[ingen]]
 - 词组: [[komma-ihåg]], [[kom-ihåg-att]]
 
 ## 来源 (Source)

@@ -3,7 +3,7 @@ type: sentence
 sentence: "Några människor väntar vid hållplatsen, och ett par cyklister stannar vid trafikljuset."
 zh: "几个人在站台等车，还有几位骑自行车的人在交通灯前停下。"
 cefr: "A2"
-words: [vänta, cyklist, trafikljus, busshållplats]
+words: [cyklist, trafikljus, busshållplats]
 phrases: [vid-busshållplatsen]
 grammar: [grammar-presens, grammar-prepositioner-rum]
 source: source-2026-06-09-beskriva-en-gata
@@ -33,7 +33,7 @@ interval: 0
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[vänta]], [[cyklist]], [[trafikljus]], [[busshållplats]]
+- 词: [[cyklist]], [[trafikljus]], [[busshållplats]]
 - 词组: [[vid-busshållplatsen]]
 
 ## 来源 (Source)
