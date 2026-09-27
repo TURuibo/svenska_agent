@@ -9,7 +9,7 @@ en: "this week"
 literal: "这里的这个周"
 head_words: [vecka]
 grammar: [grammar-presens-perfekt, grammar-v2-ordfoljd]
-related: [nästa-vecka, vecka-40, i-helgen]
+related: [nästa-vecka, vecka-40]
 topics: [topic-förskola-vardag]
 sentences: [sent-den-här-veckan-har-vi-varit]
 known: false
@@ -37,7 +37,7 @@ created: 2026-09-26
 ## 变体 & 相关 (Variations & Related)
 
 - 🔄 denna vecka（书面）/ i veckan（口语"本周内"）
-- 🔗 [[nästa-vecka]] 下周 · [[vecka-40]] 按周数说日期 · [[i-helgen]]
+- 🔗 [[nästa-vecka]] 下周 · [[vecka-40]] 按周数说日期
 
 ## 例句 / 对话 (Examples)
 
