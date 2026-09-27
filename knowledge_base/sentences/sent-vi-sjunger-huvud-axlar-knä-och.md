@@ -1,6 +1,6 @@
 ---
 type: sentence
-sentence: "Vi sjunger "Huvud, axlar, knä och tå" och pekar på näsan och magen."
+sentence: "Vi sjunger \"Huvud, axlar, knä och tå\" och pekar på näsan och magen."
 zh: "我们唱儿歌《头、肩、膝、脚趾》，还指指鼻子和肚子。"
 cefr: "A2"
 words: [sjunga, huvud, axel, knä, tå, peka, näsa, mage]

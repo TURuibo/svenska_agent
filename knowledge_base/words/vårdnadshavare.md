@@ -41,7 +41,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vårdnad, [[vård]]
+- 词族: vårdnad, vård
 - 同义词: [[förälder]]（日常口语用 förälder，公文用 vårdnadshavare）
 - 主题: [[topic-förskola-vardag]]
 
