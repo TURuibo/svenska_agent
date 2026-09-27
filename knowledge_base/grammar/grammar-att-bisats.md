@@ -71,3 +71,12 @@ Jag önskar       att      ni byter ut kylskåpet
 - 📎 [[grammar-bisats-ordfoljd]] — bisats 内部语序（BIFF）详解
 - 📎 [[grammar-att-sats]] — 相关语法点
 - 📎 [[grammar-for-att-infinitiv]] — 目的状语：`för att` + infinitiv
+
+## 补充例句 (2026-09-26 · förskola 家长场景系列)
+
+> 合并自同主题笔记「📗 bisats-att — att 从句 (subordinate clause with att)」。
+
+- ✅ [[sent-jag-hörde-att-ella-bet-en]] 🇸🇪 Jag hörde att Ella bet en kompis idag. 🇨🇳 我听说 Ella 今天咬了一个小朋友。
+- ✅ [[sent-men-vi-har-skrivit-en-tillbudsrapport]] 🇸🇪 Vi har pratat med barnen om att vi inte biter. 🇨🇳 我们跟孩子们讲了我们不咬人。
+- ✅ 🇸🇪 Sara sa att det är vanligt i den här åldern. 🇨🇳 Sara 说这个年龄这很常见。
+- ❌ *Vi pratade om att vi biter inte.* ← 从句里 inte 应在动词前

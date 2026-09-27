@@ -80,3 +80,15 @@ plural (-∅)     + -en  →  bestämd plural (5:e dekl.)
 ## 相关语法 (Related)
 
 - 📎 [[grammar-obestämd-form]] — 不定冠词形式（en/ett 的用法）
+
+## 补充例句 (2026-09-26 · förskola 家长场景系列)
+
+> 合并自同主题笔记「📗 Bestämd form efter preposition och genitiv — 定形（介词后 / 所有格后）(definite form after prepositions / genitive)」。
+
+- ✅ [[sent-efter-lunchen-är-det-sovvila]] 🇸🇪 Efter lunchen är det sovvila. 🇨🇳 午饭后是午睡。
+- ✅ [[sent-efter-vilan-skriver-vi-i-appen]] 🇸🇪 Efter vilan skriver vi i appen. 🇨🇳 午睡后我们在 app 里记录。
+- ✅ [[sent-innan-lunchen-byter-vi-blöjor]] 🇸🇪 Innan lunchen byter vi blöjor. 🇨🇳 午饭前我们换尿布。
+- ✅ [[sent-veckans-matsedel-hänger-i-hallen]] 🇸🇪 Veckans matsedel hänger i hallen. 🇨🇳 本周菜单挂在门厅里。
+- ✅ [[sent-på-eftermiddagen-leker-vi-inne]] 🇸🇪 På eftermiddagen leker vi inne. 🇨🇳 下午我们在室内玩。
+- ❌ *Efter lunch är det sovvila.* ← 口语能懂，但老师/通知一律 efter lunchen
+- ❌ *Veckans matsedeln* ← 所有格后不能再加定形

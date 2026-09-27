@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-06-04
+updated: 2026-09-26
 ---
 
 # 🇸🇪 瑞典语知识库 (Swedish Knowledge Base)
@@ -26,6 +26,8 @@ Obsidian 风格的本地知识库，全部为 markdown，笔记之间用 `[[wiki
 
 ## 最近添加 (Recently added)
 
+- 2026-09-26 (来源，20 篇) förskola 家长场景系列（和老师/其他家长交流）：[[source-2026-09-26-forskola-lamning-pa-morgonen]], [[source-2026-09-26-forskola-hamtning-hur-har-dagen-varit]], [[source-2026-09-26-forskola-forskolan-ringer-ella-har-feber]], [[source-2026-09-26-forskola-sjukanmalan-i-appen]], [[source-2026-09-26-forskola-smaprat-i-hallen]], [[source-2026-09-26-forskola-en-dag-i-appen]], [[source-2026-09-26-forskola-en-vanlig-dag-pa-solrosen]], [[source-2026-09-26-forskola-packlista-klader-for-alla-vader]], [[source-2026-09-26-forskola-veckobrev-fran-solrosen]], [[source-2026-09-26-forskola-sjukprat-mellan-foraldrar]], [[source-2026-09-26-forskola-foraldragruppen-chatt]], [[source-2026-09-26-forskola-pa-lekplatsen-en-lordag]], [[source-2026-09-26-forskola-inbjudan-till-barnkalas]], [[source-2026-09-26-forskola-utvecklingssamtal-ett-och-ett-halvt-ar]], [[source-2026-09-26-forskola-ella-bet-en-kompis-idag]], [[source-2026-09-26-forskola-jag-blir-sen-farmor-hamtar]], [[source-2026-09-26-forskola-schema-semester-och-stangda-dagar]], [[source-2026-09-26-forskola-pa-barnkalaset]], [[source-2026-09-26-forskola-tanderna-kommer-en-lang-natt]], [[source-2026-09-26-forskola-sa-fungerar-forskolan]]
+- 2026-09-26 (主题，7 新 + 1 扩充) [[topic-förskola-vardag]], [[topic-sjukt-barn-och-vab]], [[topic-barnkläder-och-utrustning]], [[topic-småbarn-mat-och-sömn]], [[topic-småbarn-känslor-och-beteende]], [[topic-barnets-utveckling]], [[topic-föräldrasmåprat]] · 扩充 [[topic-förskola-system]]
 - 2026-08-06 (来源) [[source-2026-08-06-elin-wagner-fragor]] — Elin Wägner Lyssna/Prata + 12 frågor（SFI 课本拍照）
 - 2026-08-06 (词，23个) [[lyssna]], [[prata]], [[tankekarta]], [[fråga]], [[studera]], [[händelse]], [[rösträtt]], [[orolighet]], [[gång]], [[värld]], [[världskrig]], [[kvinnorättsrörelse]], [[kvinnlig]], [[hjälp]], [[vidare]], [[nästan]], [[vem]], [[vilken]], [[varför]], [[vad]], [[hur]], [[när]], [[var]]
 - 2026-08-06 (词组，10个) [[studera-vidare]], [[stanna-av]], [[med-hjälp-av]], [[första-världskriget]], [[kvinnlig-rösträtt]], [[ute-i-europa]], [[rösta-till-riksdagen]], [[berätta-om]], [[få-arbete]], [[uppgift-i-livet]]
