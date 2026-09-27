@@ -5,7 +5,7 @@ zh: "上午我们去了树林，下午她和 Olle 在沙坑里玩。"
 cefr: "A2"
 words: [förmiddag, eftermiddag, skog, leka, sandlåda]
 phrases: [leka-med]
-grammar: [grammar-v2-ordfoljd, grammar-inversion-efter-fundament, grammar-preteritum, grammar-presens-perfekt]
+grammar: [grammar-v2-ordfoljd, grammar-inversion-efter-fundament, grammar-preteritum, grammar-perfekt]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -27,7 +27,7 @@ På förmiddagen | var | vi | i skogen, | och | på eftermiddagen | har | hon | 
 - 📌 [[grammar-v2-ordfoljd]]
 - 📌 [[grammar-inversion-efter-fundament]]
 - 📌 [[grammar-preteritum]]
-- 📌 [[grammar-presens-perfekt]]
+- 📌 [[grammar-perfekt]]
 - 📐 两个并列主句都以时间状语开头 → 动词第二位、主语后移。上午（已过去更久）用 preteritum，下午（离现在近）用 perfekt。
 
 ## 生词 & 词组 (Words & Phrases)

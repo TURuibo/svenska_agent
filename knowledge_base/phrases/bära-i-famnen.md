@@ -8,7 +8,7 @@ zh: "抱在怀里"
 en: "to carry in one's arms"
 literal: "在怀抱里扛"
 head_words: [bära, famn]
-grammar: [grammar-starka-verb, grammar-bestamd-form]
+grammar: [grammar-starka-verb, grammar-bestämd-form]
 related: [ta-i-famnen, sitta-i-knät]
 topics: [topic-småbarn-känslor-och-beteende, topic-förskola-vardag]
 sentences: [sent-sedan-bar-jag-henne-i-famnen]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-starka-verb]] / → [[grammar-bestamd-form]]
+- → [[grammar-starka-verb]] / → [[grammar-bestämd-form]]
 
 ## 变体 & 相关 (Variations & Related)
 

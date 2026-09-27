@@ -8,7 +8,7 @@ zh: "在 app 里记录"
 en: "to write in the app"
 literal: "在（i）app 里（appen, 定形）写（skriva）"
 head_words: [app]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [anmäla-sig-i-appen, dokumentation]
 topics: [topic-förskola-vardag]
 sentences: [sent-efter-vilan-skriver-vi-i-appen]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]（已知的特定事物 → appen）
+- → [[grammar-bestämd-form]]（已知的特定事物 → appen）
 
 ## 变体 & 相关 (Variations & Related)
 

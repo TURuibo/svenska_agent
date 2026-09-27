@@ -5,7 +5,7 @@ zh: "那你得在电子服务里改在园时间表。"
 cefr: "A2"
 words: [ändra, schema, e-tjänst]
 phrases: []
-grammar: [grammar-modalt-hjalpverb-infinitiv, grammar-v2-ordfoljd, grammar-bestamd-form]
+grammar: [grammar-modalt-hjalpverb-infinitiv, grammar-v2-ordfoljd, grammar-bestämd-form]
 source: "source-2026-09-26-forskola-jag-blir-sen-farmor-hamtar"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -26,7 +26,7 @@ created: "2026-09-26"
 
 - 📌 [[grammar-modalt-hjalpverb-infinitiv]] — *måste ändra*
 - 📌 [[grammar-v2-ordfoljd]] — *Då* 占首位 → 动词第二、主语第三
-- 📌 [[grammar-bestamd-form]] — *schemat*、*e-tjänsten*：双方都知道的那份表/那个系统 → 定式
+- 📌 [[grammar-bestämd-form]] — *schemat*、*e-tjänsten*：双方都知道的那份表/那个系统 → 定式
 
 ## 生词 & 词组 (Words & Phrases)
 

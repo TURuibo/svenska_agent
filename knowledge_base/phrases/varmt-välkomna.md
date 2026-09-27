@@ -9,7 +9,7 @@ en: "A warm welcome!"
 literal: "温暖地欢迎（复数）"
 head_words: [välkommen]
 grammar: [grammar-adjektiv-plural-kongruens]
-related: [osa, inga-presenter,-tack]
+related: [osa, inga-presenter-tack]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-varmt-välkomna]
 known: false
@@ -36,7 +36,7 @@ created: "2026-09-26"
 ## 变体 & 相关 (Variations & Related)
 
 - 🔄 `Varmt välkommen!`（单数）· `Hjärtligt välkomna!`（更热情）· `Alla är välkomna!`
-- 🔗 [[välkommen]] · [[osa]] · [[inga-presenter,-tack]]
+- 🔗 [[välkommen]] · [[osa]] · [[inga-presenter-tack]]
 
 ## 例句 / 对话 (Examples)
 

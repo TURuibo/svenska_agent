@@ -5,7 +5,7 @@ source_label: "scenario — förskola: inbjudan till barnkalas (Noah fyller 2 å
 date: 2026-09-26
 cefr: A2
 words: [barnkalas, saft, portkod, äggfri, bortrest, förstås]
-phrases: [korv-med-bröd, inga-presenter,-tack, osa, via-sms, varmt-välkomna, vi-blir-två, allergisk-mot, grattis-i-förskott, hemma-hos-oss, stanna-kvar]
+phrases: [korv-med-bröd, inga-presenter-tack, osa, via-sms, varmt-välkomna, vi-blir-två, allergisk-mot, grattis-i-förskott, hemma-hos-oss, stanna-kvar]
 sentences: [sent-hej-alla-föräldrar-på-solrosen, sent-noah-fyller-2-år-och-det, sent-kalaset-är-söndag-den-11-oktober, sent-adressen-är-björkvägen-8-och-portkoden, sent-vi-bjuder-på-tårta-korv-med, sent-det-finns-också-kaffe-till-de, sent-föräldrar-stannar-kvar-under-kalaset-och, sent-inga-presenter-tack, sent-om-ni-ändå-vill-ge-något, sent-osa-senast-onsdag-7-oktober-via, sent-meddela-gärna-om-ert-barn-har, sent-varmt-välkomna, sent-hej-jonas-tack-för-inbjudan, sent-vi-kommer-gärna-vi-blir-två, sent-ella-är-allergisk-mot-ägg-innehåller, sent-hej-ruibo-vad-kul-att-ni, sent-inga-problem-tårtan-är-äggfri, sent-vi-ses-på-söndag, sent-hej-jonas-tack-så-mycket-för, sent-vi-kan-tyvärr-inte-komma-vi, sent-grattis-i-förskott-till-noah]
 grammar: [grammar-bli-antal, grammar-adjektiv-plural-kongruens, grammar-bisats-forst-inversion]
 ---
@@ -91,7 +91,7 @@ Jonas 你好，非常感谢邀请！我们很遗憾不能来，那个周末我�
 
 ### 词组 (Phrases)
 - [[korv-med-bröd]]
-- [[inga-presenter,-tack]]
+- [[inga-presenter-tack]]
 - [[osa]]
 - [[via-sms]]
 - [[varmt-välkomna]]

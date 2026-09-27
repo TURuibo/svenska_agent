@@ -5,7 +5,7 @@ zh: "你们的入园适应期怎么样？"
 cefr: "A2"
 words: [inskolning]
 phrases: []
-grammar: [grammar-preteritum, grammar-v2-ordfoljd, grammar-bestamd-form]
+grammar: [grammar-preteritum, grammar-v2-ordfoljd, grammar-bestämd-form]
 source: "source-2026-09-26-forskola-smaprat-i-hallen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -26,7 +26,7 @@ created: "2026-09-26"
 
 - 📌 [[grammar-preteritum]]
 - 📌 [[grammar-v2-ordfoljd]]
-- 📌 [[grammar-bestamd-form]]
+- 📌 [[grammar-bestämd-form]]
 - Hur gick det (för er)? = 进行得怎么样？——gå 的过去时 gick 用来问已结束的事。
 - inskolningen 用定式：双方都知道指的是哪次入园。
 

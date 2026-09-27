@@ -5,7 +5,7 @@ zh: "下午我们在室内玩。"
 cefr: "A1"
 words: [eftermiddag, leka, inne]
 phrases: []
-grammar: [grammar-v2-ordfoljd, grammar-bestamd-form, grammar-tidsprepositioner, grammar-platsadverb]
+grammar: [grammar-v2-ordfoljd, grammar-bestämd-form, grammar-tidsprepositioner, grammar-platsadverb]
 source: "source-2026-09-26-forskola-en-vanlig-dag-pa-solrosen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-tidsprepositioner]] — 一天中的时段用 **på + 定形**：på morgonen / på förmiddagen / på eftermiddagen / på kvällen。
-- 📌 [[grammar-bestamd-form]] — eftermiddag**en**。
+- 📌 [[grammar-bestämd-form]] — eftermiddag**en**。
 - 📌 [[grammar-platsadverb]] — **inne**（在里面，位置）↔ ute；方向用 in / ut。
 - 📌 [[grammar-v2-ordfoljd]] — leker vi。
 

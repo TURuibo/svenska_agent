@@ -8,7 +8,7 @@ zh: "回见！"
 en: "See you!"
 literal: "（我们）互相见（se 的 s-形式 = 彼此看见）"
 head_words: []
-grammar: [grammar-deponens-verb]
+grammar: [grammar-deponensverb]
 related: [vi-ses, vi-kommer, häng-med]
 topics: [topic-förskola-vardag]
 sentences: [sent-ses-där, sent-tack-ses-på-söndag]
@@ -31,7 +31,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-deponens-verb]] — *ses* 是 s-形式动词（相互义：彼此见）
+- → [[grammar-deponensverb]] — *ses* 是 s-形式动词（相互义：彼此见）
 
 ## 变体 & 相关 (Variations & Related)
 

@@ -5,7 +5,7 @@ zh: "哎呀，出什么事了吗？"
 cefr: "A2"
 words: [oj, hända, någon]
 phrases: []
-grammar: [grammar-presens-perfekt, grammar-ja-nej-fraga]
+grammar: [grammar-perfekt, grammar-ja-nej-fraga]
 source: "source-2026-09-26-forskola-forskolan-ringer-ella-har-feber"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"

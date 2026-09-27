@@ -8,7 +8,7 @@ zh: 谢谢你们说一声
 en: thanks for letting me know
 literal: 谢谢 + 因为 + 你们 + 说了一声
 head_words: []
-grammar: [grammar-bisats-att, grammar-preteritum]
+grammar: [grammar-att-bisats, grammar-preteritum]
 related: [säga-till, tack-för-info, tack-för-att-du-ringde]
 topics: [topic-förskola-vardag]
 sentences: [sent-tack-för-att-ni-sa-till]
@@ -30,7 +30,7 @@ created: 2026-09-26
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bisats-att]]：för att 引导从句，主谓正常语序。
+- → [[grammar-att-bisats]]：för att 引导从句，主谓正常语序。
 - → [[grammar-preteritum]]：sa（säga 的过去式）。
 
 ## 变体 & 相关 (Variations & Related)

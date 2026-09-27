@@ -5,7 +5,7 @@ zh: "非常感谢你的帮忙，Anna！"
 cefr: "A1"
 words: [hjälp]
 phrases: [tack-så-mycket-för-hjälpen]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 source: "source-2026-09-26-forskola-jag-blir-sen-farmor-hamtar"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-bestamd-form]] — *för hjälpen*：感谢某次具体的帮助用定式（*tack för hjälpen / tack för maten / tack för i dag*）
+- 📌 [[grammar-bestämd-form]] — *för hjälpen*：感谢某次具体的帮助用定式（*tack för hjälpen / tack för maten / tack för i dag*）
 
 ## 生词 & 词组 (Words & Phrases)
 

@@ -5,7 +5,7 @@ zh: "午饭前我们换尿布。"
 cefr: "A1"
 words: [lunch, byta, blöja]
 phrases: [innan-lunchen, byta-blöja]
-grammar: [grammar-v2-ordfoljd, grammar-bestamd-form, grammar-substantiv-plural]
+grammar: [grammar-v2-ordfoljd, grammar-bestämd-form, grammar-substantiv-plural]
 source: "source-2026-09-26-forskola-en-vanlig-dag-pa-solrosen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-v2-ordfoljd]] — innan lunchen 句首 → byter vi。
-- 📌 [[grammar-bestamd-form]] — innan lunch**en**（介词后定形）。
+- 📌 [[grammar-bestämd-form]] — innan lunch**en**（介词后定形）。
 - 📌 [[grammar-substantiv-plural]] — blöja → blöjor（-or 复数，多个孩子所以复数）。
 
 ## 生词 & 词组 (Words & Phrases)

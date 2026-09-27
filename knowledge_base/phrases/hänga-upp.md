@@ -8,7 +8,7 @@ zh: "挂起来"
 en: "hang up"
 literal: "挂 上"
 head_words: [hänga]
-grammar: [grammar-partikelverb, grammar-presens-perfekt]
+grammar: [grammar-partikelverb, grammar-perfekt]
 related: [ta-av-skorna, klä-på, krok, ytterkläder]
 topics: [topic-förskola-vardag, topic-barnkläder-och-utrustning]
 sentences: [sent-jag-har-hängt-upp-overallen-på]
@@ -31,7 +31,7 @@ created: "2026-09-26"
 ## 短语中的语法 (Grammar inside)
 
 - → [[grammar-partikelverb]]
-- → [[grammar-presens-perfekt]]
+- → [[grammar-perfekt]]
 
 ## 变体 & 相关 (Variations & Related)
 

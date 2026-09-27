@@ -8,7 +8,7 @@ zh: "坐在腿上（要抱）"
 en: "sit on someone's lap"
 literal: "坐在膝盖里"
 head_words: [sitta, knä]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [ta-i-famnen, bära-i-famnen, klängig]
 topics: [topic-förskola-vardag]
 sentences: [sent-hon-är-trött-och-lite-gnällig]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]
+- → [[grammar-bestämd-form]]
 
 ## 变体 & 相关 (Variations & Related)
 

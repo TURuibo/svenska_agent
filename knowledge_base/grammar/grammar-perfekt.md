@@ -57,3 +57,15 @@ Jag  har   läst   boken.
 
 - 📎 [[grammar-preteritum]]
 - 📎 [[grammar-bisats-biff]]
+
+## 补充例句 (2026-09-26 · förskola 家长场景系列)
+
+> 合并自同主题笔记「📗 presens perfekt — 现在完成时 (present perfect)」。
+
+- ✅ [[sent-hur-har-natten-varit]] 🇸🇪 Hur har natten varit? 🇨🇳 昨晚睡得怎么样？
+- ✅ [[sent-har-hon-ätit-frukost-hemma-eller]] 🇸🇪 Har hon ätit frukost hemma, eller ska hon äta här? 🇨🇳 她在家吃过早饭了，还是在这儿吃？
+- ✅ [[sent-hon-har-ätit-gröt-hemma]] 🇸🇪 Hon har ätit gröt hemma. 🇨🇳 她在家吃过粥了。
+- ✅ [[sent-jag-har-hängt-upp-overallen-på]] 🇸🇪 Jag har hängt upp overallen på kroken och lagt napp, blöjor och extrakläder på hyllan. 🇨🇳 我把连体外套挂到钩子上了，奶嘴、尿布和备用衣服放在架子上了。
+- ✅ 🇸🇪 Hon har sovit bra i natt. 🇨🇳 她昨晚睡得好。
+- ❌ *Hon har åt gröt.* ← 常见错误：用了 preteritum 形 *åt*，应为 supinum *ätit*
+- ❌ *Hon har ätit gröt klockan sju.* ← 有具体时间点时应用 preteritum：*Hon åt gröt klockan sju.*

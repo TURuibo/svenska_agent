@@ -8,7 +8,7 @@ zh: "午饭后"
 en: "after lunch"
 literal: "在（efter）午饭（lunchen, 定形）之后"
 head_words: [lunch]
-grammar: [grammar-bestamd-form, grammar-v2-ordfoljd]
+grammar: [grammar-bestämd-form, grammar-v2-ordfoljd]
 related: [innan-lunchen, efter-vilan, efter-det]
 topics: [topic-förskola-vardag]
 sentences: [sent-efter-lunchen-är-det-sovvila]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]
+- → [[grammar-bestämd-form]]
 - → [[grammar-v2-ordfoljd]]
 
 ## 变体 & 相关 (Variations & Related)

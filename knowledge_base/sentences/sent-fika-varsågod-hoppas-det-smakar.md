@@ -3,7 +3,7 @@ type: sentence
 sentence: "Varsågod! Hoppas det smakar!"
 zh: 不客气！希望你们喜欢！
 cefr: A1
-words: [smaka]
+words: [hoppas, smaka]
 phrases: [varsågod, hoppas-det-smakar]
 grammar: [grammar-bisats-biff]
 source: source-2026-06-09-fika-pa-cafe

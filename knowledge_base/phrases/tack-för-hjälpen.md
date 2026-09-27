@@ -8,7 +8,7 @@ zh: "谢谢帮忙；谢谢配合"
 en: "thanks for your help"
 literal: "为帮助而谢"
 head_words: [hjälp]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [tack-för-idag, tack-för-tipsen, tack-för-info, tack-själv]
 topics: [topic-förskola-vardag]
 sentences: [sent-tack-för-hjälpen]
@@ -31,7 +31,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]] — tack för + 定式
+- → [[grammar-bestämd-form]] — tack för + 定式
 
 ## 变体 & 相关 (Variations & Related)
 

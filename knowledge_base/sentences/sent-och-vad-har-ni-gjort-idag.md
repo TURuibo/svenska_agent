@@ -5,7 +5,7 @@ zh: "你们今天做了什么？"
 cefr: "A1"
 words: [vad]
 phrases: []
-grammar: [grammar-presens-perfekt, grammar-frageord]
+grammar: [grammar-perfekt, grammar-frageord]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ Och | vad | har | ni | gjort | idag?
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]]
+- 📌 [[grammar-perfekt]]
 - 📌 [[grammar-frageord]]
 - 📐 perfekt 疑问句：*vad* + *har* + 主语 + *gjort*。*göra* 不规则：gör – gjorde – **gjort**。
 

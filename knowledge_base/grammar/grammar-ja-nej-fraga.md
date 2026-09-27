@@ -56,3 +56,15 @@ created: "2026-09-26"
 ## 相关语法 (Related)
 
 - 📎 [[grammar-v2-ordfoljd]] · [[grammar-frageord]] · [[grammar-negation-i-fraga]] · [[grammar-presens-for-framtid]]
+
+## 补充例句 (2026-09-26 · förskola 家长场景系列)
+
+> 合并自同主题笔记「📗 ja/nej-frågor — 是非疑问句 (yes/no questions)」。
+
+- ✅ [[sent-har-hon-ätit-frukost-hemma-eller]] 🇸🇪 Har hon ätit frukost hemma, eller ska hon äta här? 🇨🇳 她在家吃过早饭了，还是在这儿吃？
+- ✅ [[sent-ska-jag-stanna-en-stund]] 🇸🇪 Ska jag stanna en stund? 🇨🇳 我要不要再待一会儿？
+- ✅ 🇸🇪 Är hon pigg i dag? 🇨🇳 她今天精神好吗？
+- ✅ 🇸🇪 Sov hon bra i natt? — Ja, hela natten. 🇨🇳 她昨晚睡得好吗？——好，睡了一整晚。
+- ✅ 🇸🇪 Har hon inte ätit än? — Jo, hon åt gröt hemma. 🇨🇳 她还没吃吗？——吃了，在家吃了粥。
+- ❌ *Hon har ätit frukost?* ← 只靠语调、不倒装——口语勉强可懂，但书面/标准形式必须动词提前
+- ❌ *Gör hon äter frukost?* ← 英语 do-support 迁移错误

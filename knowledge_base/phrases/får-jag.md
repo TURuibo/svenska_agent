@@ -8,8 +8,8 @@ zh: "我可以……吗？"
 en: "May I …?"
 literal: "得到-我-…？"
 head_words: []
-grammar: [grammar-modal-fa-permission, grammar-ja-nej-fragor]
-related: [går-det-bra-om…]
+grammar: [grammar-modal-fa-permission, grammar-ja-nej-fraga]
+related: [går-det-bra-om]
 topics: []
 sentences: []
 known: false
@@ -31,13 +31,13 @@ created: "2026-09-26"
 ## 短语中的语法 (Grammar inside)
 
 - → [[grammar-modal-fa-permission]] få 表示许可
-- → [[grammar-ja-nej-fragor]] 情态动词提前构成是非问句
+- → [[grammar-ja-nej-fraga]] 情态动词提前构成是非问句
 - få 后接不带 att 的动词原形
 
 ## 变体 & 相关 (Variations & Related)
 
 - 🔄 Får vi …?（我们可以…吗）· Får man …?（这里可以…吗，泛指）· Skulle jag få …?（更客气）
-- 🔗 [[får-jag-låna-din-mobil]] · [[går-det-bra-om…]]
+- 🔗 [[får-jag-låna-din-mobil]] · [[går-det-bra-om]]
 
 ## 例句 / 对话 (Examples)
 

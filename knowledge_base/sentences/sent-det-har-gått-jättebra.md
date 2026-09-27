@@ -5,7 +5,7 @@ zh: "过得非常好。"
 cefr: "A1"
 words: []
 phrases: []
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ Det | har gått | jättebra.
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]]
+- 📌 [[grammar-perfekt]]
 - 📐 *gå* 的 supinum 是 *gått*（gå – går – gick – gått）。*det har gått bra* = 「进行得顺利」。
 
 ## 生词 & 词组 (Words & Phrases)

@@ -5,7 +5,7 @@ zh: "这一周的菜单挂在门厅里。"
 cefr: "A2"
 words: [vecka, matsedel, hänga, hall]
 phrases: []
-grammar: [grammar-genitiv-s, grammar-bestamd-form, grammar-prepositioner-rum]
+grammar: [grammar-genitiv-s, grammar-bestämd-form, grammar-prepositioner-rum]
 source: "source-2026-09-26-forskola-en-vanlig-dag-pa-solrosen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-genitiv-s]] — **veckans** = vecka(n) + s："本周的"。所有格 -s 后面的名词**不加冠词**（veckans matsedel，不是 veckans matsedeln）。
-- 📌 [[grammar-bestamd-form]] — i hall**en**（那个门厅）。
+- 📌 [[grammar-bestämd-form]] — i hall**en**（那个门厅）。
 - 📌 [[grammar-prepositioner-rum]] — i hallen（在门厅里）。
 - 📌 hänger（挂着）表示状态，不是"有人在挂"。
 

@@ -9,7 +9,7 @@ en: "Have a good day!"
 literal: "有一个好日子"
 head_words: [bra, dag]
 grammar: [grammar-imperativ]
-related: [ha-en-fin-dag, ha-en-fin-eftermiddag, ha-en-trevlig-kväll, ha-en-bra-kväll, tack,-detsamma, trevlig-helg]
+related: [ha-en-fin-dag, ha-en-fin-eftermiddag, ha-en-trevlig-kväll, ha-en-bra-kväll, tack-detsamma, trevlig-helg]
 topics: [topic-förskola-vardag]
 sentences: [sent-ha-en-bra-dag]
 known: false
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 用法说明 (Usage)
 
-- 告别时的祝福语，命令式 *ha* + 宾语。回答固定用 [[tack,-detsamma]]（谢谢，你也是）。
+- 告别时的祝福语，命令式 *ha* + 宾语。回答固定用 [[tack-detsamma]]（谢谢，你也是）。
 - 变体极多，换名词即可：*Ha en fin dag / en bra helg / en trevlig kväll / det så bra!*
 - 送园时家长对老师说、老师对家长说都可以。
 
@@ -41,7 +41,7 @@ created: "2026-09-26"
 - 🔗 [[ha-en-fin-eftermiddag]]
 - 🔗 [[ha-en-trevlig-kväll]]
 - 🔗 [[ha-en-bra-kväll]]
-- 🔗 [[tack,-detsamma]]
+- 🔗 [[tack-detsamma]]
 - 🔗 [[trevlig-helg]]
 
 ## 例句 / 对话 (Examples)

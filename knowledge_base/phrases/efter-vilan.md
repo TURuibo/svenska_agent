@@ -8,7 +8,7 @@ zh: "午睡后"
 en: "after the nap"
 literal: "在（efter）休息（vilan, 定形）之后"
 head_words: [vila, sovvila]
-grammar: [grammar-bestamd-form, grammar-v2-ordfoljd]
+grammar: [grammar-bestämd-form, grammar-v2-ordfoljd]
 related: [efter-lunchen, vakna-från-vilan, på-vilan, vid-vilan]
 topics: [topic-förskola-vardag]
 sentences: [sent-efter-vilan-skriver-vi-i-appen]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]
+- → [[grammar-bestämd-form]]
 - → [[grammar-v2-ordfoljd]]：*Efter vilan **skriver** vi i appen.*
 
 ## 变体 & 相关 (Variations & Related)

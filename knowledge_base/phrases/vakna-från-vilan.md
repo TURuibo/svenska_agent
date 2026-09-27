@@ -8,7 +8,7 @@ zh: "午睡醒来"
 en: "wake up from nap"
 literal: "从休息中醒来"
 head_words: [vakna, vila]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [efter-vilan, på-vilan, vid-vilan]
 topics: [topic-förskola-vardag]
 sentences: [sent-hon-vaknade-från-vilan-alldeles-varm]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]
+- → [[grammar-bestämd-form]]
 
 ## 变体 & 相关 (Variations & Related)
 

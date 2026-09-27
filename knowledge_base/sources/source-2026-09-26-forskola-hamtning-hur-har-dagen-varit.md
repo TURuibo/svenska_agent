@@ -6,12 +6,12 @@ date: 2026-09-26
 words: [hämtning, överlämning, sandlåda, sovvila, lunch, mellanmål, fiskgratäng, blöjbyte, gumma, gnällig, mätt, bajsa, kissa]
 phrases: [hur-har-dagen-varit, tack-för-idag, tack-själv, vi-ses-imorgon, ha-en-trevlig-kväll, titta-vem-som-kommer, äta-bra-av, smaka-på, vara-slut, leka-med, kvart-över-tolv, kvart-i-två, vid-tvåtiden, det-saknas, en-och-en-halv-timme, gå-över, bra-att-du-frågar]
 sentences: [sent-hej-ella-titta-vem-som-kommer, sent-hej-sara, sent-hej-gumman, sent-hur-har-dagen-varit, sent-det-har-gått-jättebra, sent-hon-har-varit-glad-och-pigg, sent-hon-sov-från-kvart-över-tolv, sent-jaha-en-och-en-halv-timme, sent-grät-hon-något, sent-nej-nästan-inte-alls, sent-hon-var-lite-gnällig-och-trött, sent-och-maten-då, sent-har-hon-druckit, sent-hon-åt-bra-av-lunchen-det, sent-mellanmålet-smakade-hon-bara-på-men, sent-hon-har-druckit-vatten-till-maten, sent-hur-var-det-med-blöjorna, sent-och-vad-har-ni-gjort-idag, sent-tre-blöjbyten, sent-hon-bajsade-vid-tvåtiden-annars-har, sent-på-förmiddagen-var-vi-i-skogen, sent-åh-vad-fint, sent-olle-och-ella-är-ju-kompisar, sent-är-det-något-jag-behöver-ta, sent-ja-bra-att-du-frågar, sent-blöjorna-är-nästan-slut-och-det, sent-absolut-jag-tar-med-blöjor-och, sent-tack-för-idag-sara, sent-tack-själv-ha-en-trevlig-kväll, sent-hej-då-ella-vi-ses-imorgon]
-grammar: [grammar-klockslag-kvart]
+grammar: [grammar-klockan-tidsuttryck]
 ---
 
 # Source: Hämtning: Hur har dagen varit? — 下午接园：今天怎么样？
 
-Scenario (dialog, CEFR A1–A2) genererat 2026-09-26. Ruibo hämtar Ella på förskolans gård; pedagogen Sara ger dagens överlämning (sömn, mat, blöjor, lek) och påminner om vad som saknas. 相关主题：[[topic-förskola-vardag]]。已入库的 dup 条目（未重建）：[[gård]] [[hink]] [[skog]] [[vagn]] [[vila]] [[blöja]] [[strumpa]] [[extrakläder]] [[kompis]] [[förmiddag]] [[eftermiddag]] [[pigg]] [[trött]] [[trevlig]] [[smaka]] [[gråta]] [[dricka]] [[leka]] [[saknas]] [[vinka]] [[hämta]] [[ta-med]] [[grammar-presens-perfekt]] [[grammar-preteritum]] [[grammar-v2-ordfoljd]]。
+Scenario (dialog, CEFR A1–A2) genererat 2026-09-26. Ruibo hämtar Ella på förskolans gård; pedagogen Sara ger dagens överlämning (sömn, mat, blöjor, lek) och påminner om vad som saknas. 相关主题：[[topic-förskola-vardag]]。已入库的 dup 条目（未重建）：[[gård]] [[hink]] [[skog]] [[vagn]] [[vila]] [[blöja]] [[strumpa]] [[extrakläder]] [[kompis]] [[förmiddag]] [[eftermiddag]] [[pigg]] [[trött]] [[trevlig]] [[smaka]] [[gråta]] [[dricka]] [[leka]] [[saknas]] [[vinka]] [[hämta]] [[ta-med]] [[grammar-perfekt]] [[grammar-preteritum]] [[grammar-v2-ordfoljd]]。
 
 ## 🇸🇪 原文 (Swedish text)
 
@@ -122,4 +122,4 @@ Sara: 也谢谢你，晚上愉快！再见 Ella，明天见！
 - [[sent-hej-då-ella-vi-ses-imorgon]]
 
 ### 语法 (Grammar)
-- [[grammar-klockslag-kvart]]
+- [[grammar-klockan-tidsuttryck]]

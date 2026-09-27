@@ -4,7 +4,7 @@ sentence: "Går det bra om min mamma hämtar i stället?"
 zh: "能让我妈妈来接吗？"
 cefr: "A2"
 words: [mamma, hämta, bra]
-phrases: [går-det-bra-om…, i-stället]
+phrases: [går-det-bra-om, i-stället]
 grammar: [grammar-bisats-om, grammar-ja-nej-fraga, grammar-possessiva-pronomen]
 source: "source-2026-09-26-forskola-jag-blir-sen-farmor-hamtar"
 topics: [topic-förskola-vardag]
@@ -31,7 +31,7 @@ created: "2026-09-26"
 ## 生词 & 词组 (Words & Phrases)
 
 - 词: [[mamma]], [[hämta]], [[bra]]
-- 词组: [[går-det-bra-om…]], [[i-stället]]
+- 词组: [[går-det-bra-om]], [[i-stället]]
 
 ## 用法提示 (Notes)
 

@@ -5,7 +5,7 @@ zh: "谢谢你们用心的记录！"
 cefr: "A1"
 words: [fin, dokumentation]
 phrases: []
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 source: "source-2026-09-26-forskola-en-dag-i-appen"
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-bestamd-form]] — tack för + 名词：这里 dokumentation 是不可数抽象名词，无冠词、无定式
+- 📌 [[grammar-bestämd-form]] — tack för + 名词：这里 dokumentation 是不可数抽象名词，无冠词、无定式
 
 ## 生词 & 词组 (Words & Phrases)
 

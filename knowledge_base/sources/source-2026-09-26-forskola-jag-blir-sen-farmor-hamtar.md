@@ -4,7 +4,7 @@ kind: import
 source_label: "scenario — förskola: jag blir sen, farmor hämtar i stället (telefonsamtal + hallen)"
 date: 2026-09-26
 words: [mormor, stängningstid, schema, schemaändring, fullmakt, legitimation, gest, anmäld, halvtimme, timme, besök, pass, ändra, stilla]
-phrases: [bli-sen, förlåt-att-jag-är-sen, sitta-fast, går-det-bra-om…, på-besök, lämna-ut, lägga-till, stå-på-listan, visa-med-gester, halv-sex, ha-med-sig, det-gör-ingenting, tänka-på, visa-legitimation]
+phrases: [bli-sen, förlåt-att-jag-är-sen, sitta-fast, går-det-bra-om, på-besök, lämna-ut, lägga-till, stå-på-listan, visa-med-gester, halv-sex, ha-med-sig, det-gör-ingenting, tänka-på, visa-legitimation]
 sentences: [sent-humlan-det-är-anna, sent-hej-anna-det-är-ruibo-ellas, sent-förlåt-jag-blir-sen-i-dag, sent-jag-sitter-fast-på-tunnelbanan-tåget, sent-oj-jaha, sent-hur-sen-blir-du-tror-du, sent-kanske-en-timme, sent-går-det-bra-om-min-mamma, sent-hon-är-på-besök-från-kina, sent-ja-men-absolut-det-går-bra, sent-men-hon-står-inte-på-listan, sent-vi-lämnar-bara-ut-barnen-till, sent-okej-det-gör-jag-direkt, sent-behöver-hon-ha-något-med-sig, sent-ja-första-gången-måste-hon-visa, sent-du-kan-också-skriva-en-fullmakt, sent-bra, sent-hon-heter-wei-och-kan-vara, sent-och-nästa-vecka-jobbar-jag-sent, sent-då-måste-du-ändra-schemat-i, sent-egentligen-ska-en-schemaändring-vara-inne, sent-och-tänk-på-stängningstiden-vi-stänger, sent-absolut-2, sent-tack-så-mycket-för-hjälpen-anna, sent-ingen-fara-det-löser-sig, sent-vi-ses, sent-förlåt-att-jag-är-sen, sent-hej-det-gör-ingenting, sent-är-du-ellas-farmor, sent-får-jag-se-din-legitimation, sent-tack-då-är-det-bra, sent-här-är-ellas-krok-och-där, sent-hej-då-ella-vinka-hej-då]
 grammar: [grammar-modalt-hjalpverb-infinitiv, grammar-presens-for-framtid]
 ---
@@ -77,7 +77,7 @@ Anna: 谢谢，这就可以了！这是 Ella 的挂钩，那是她的格子。�
 **Words (14, 本篇新建):** [[mormor]] · [[stängningstid]] · [[schema]] · [[schemaändring]] · [[fullmakt]] · [[legitimation]] · [[gest]] · [[anmäld]] · [[halvtimme]] · [[timme]] · [[besök]] · [[pass]] · [[ändra]] · [[stilla]]
 （已存在/由同批其它篇创建：[[hämtare]] · [[farmor]] · [[tunnelbana]] · [[stänga]] · [[vinka]] · [[lista]] · [[app]] · [[e-tjänst]] · [[sen]] · [[kvar]] · [[enkel]] · [[hall]] · [[nicka]] · [[peka]] · [[krama]]）
 
-**Phrases (14, 本篇新建):** [[bli-sen]] · [[förlåt-att-jag-är-sen]] · [[sitta-fast]] · [[går-det-bra-om…]] · [[på-besök]] · [[lämna-ut]] · [[lägga-till]] · [[stå-på-listan]] · [[visa-med-gester]] · [[halv-sex]] · [[ha-med-sig]] · [[det-gör-ingenting]] · [[tänka-på]] · [[visa-legitimation]]
+**Phrases (14, 本篇新建):** [[bli-sen]] · [[förlåt-att-jag-är-sen]] · [[sitta-fast]] · [[går-det-bra-om]] · [[på-besök]] · [[lämna-ut]] · [[lägga-till]] · [[stå-på-listan]] · [[visa-med-gester]] · [[halv-sex]] · [[ha-med-sig]] · [[det-gör-ingenting]] · [[tänka-på]] · [[visa-legitimation]]
 （已存在：[[i-stället]] · [[i-förväg]] · [[tack-så-mycket-för-hjälpen]] · [[ingen-fara]] · [[det-löser-sig]] · [[vara-kvar]]）
 
 **Sentences (33):**

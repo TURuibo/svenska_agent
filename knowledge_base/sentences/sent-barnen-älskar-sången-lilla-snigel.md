@@ -5,7 +5,7 @@ zh: "孩子们特别喜欢《小蜗牛》那首歌！"
 cefr: "A1"
 words: [älska, sång, snigel]
 phrases: []
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 source: "source-2026-09-26-forskola-en-dag-i-appen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-bestamd-form]] — barnen / sången：已知的孩子们、那首歌；歌名作同位语跟在定式名词后
+- 📌 [[grammar-bestämd-form]] — barnen / sången：已知的孩子们、那首歌；歌名作同位语跟在定式名词后
 
 ## 生词 & 词组 (Words & Phrases)
 

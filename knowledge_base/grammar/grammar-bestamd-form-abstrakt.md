@@ -4,7 +4,7 @@ name: "bestämd form för abstrakta ord och samtalsämnen"
 zh: "抽象名词用定式（trivseln, språket, nappen）"
 en: "definite form of abstract/topic nouns"
 level: "SFI B / CEFR A2–B1"
-related: [grammar-bestämd-form, grammar-bestamd-form, grammar-obestämd-form, grammar-en-ord-ett-ord, grammar-substantiv-plural]
+related: [grammar-bestämd-form, grammar-obestämd-form, grammar-en-ord-ett-ord, grammar-substantiv-plural]
 examples: [sent-vi-går-igenom-trivsel-lek-motorik, sent-men-språket-vi-är-lite-oroliga, sent-både-grovmotoriken-och-finmotoriken-går, sent-modersmålet-stärker-båda-språken-och-det, sent-och-bvc-kollar-språkutvecklingen-vid-två, sent-en-sak-till-nappen, sent-och-pottan-väntar-vi-med-hon]
 known: false
 created: "2026-09-26"
@@ -63,7 +63,7 @@ created: "2026-09-26"
 ## 相关语法 (Related)
 
 - 📎 [[grammar-bestämd-form]] — 定式的构成
-- 📎 [[grammar-bestamd-form]] — 定式（本批另一篇）
+- 📎 [[grammar-bestämd-form]] — 定式（本批另一篇）
 - 📎 [[grammar-obestämd-form]] — 不定式对比
 - 📎 [[grammar-en-ord-ett-ord]] — en/ett 决定词尾
 - 📎 [[grammar-substantiv-plural]] — 复数定式

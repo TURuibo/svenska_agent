@@ -5,7 +5,7 @@ zh: "Mina 秋天要升到大班吗？"
 cefr: "A2"
 words: [flytta, storbarnsavdelning, höst]
 phrases: [flytta-upp, i-höst]
-grammar: [grammar-ja-nej-fragor, grammar-partikelverb, grammar-presens-for-framtid]
+grammar: [grammar-ja-nej-fraga, grammar-partikelverb, grammar-presens-for-framtid]
 source: "source-2026-09-26-forskola-pa-barnkalaset"
 topics: []
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-ja-nej-fragor]] — 动词提前
+- 📌 [[grammar-ja-nej-fraga]] — 动词提前
 - 📌 [[grammar-partikelverb]] — flytta upp
 - 📌 [[grammar-presens-for-framtid]] — presens + i höst 表将来
 

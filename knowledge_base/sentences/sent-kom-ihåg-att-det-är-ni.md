@@ -5,7 +5,7 @@ zh: "请记住，确保时间表准确无误是你们作为监护人的责任。
 cefr: "B1"
 words: [vårdnadshavare, ansvara, stämma, schema]
 phrases: [kom-ihåg-att, ansvara-för]
-grammar: [grammar-imperativ, grammar-bisats-att, grammar-den-som-relativ]
+grammar: [grammar-imperativ, grammar-att-bisats, grammar-den-som-relativ]
 source: "source-2026-09-26-forskola-schema-semester-och-stangda-dagar"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-imperativ]] — *Kom ihåg!*（komma ihåg 的祈使式）。
-- 📌 [[grammar-bisats-att]] — 两层 att-从句：*att det är …* 和 *för att schemat stämmer*（注意此处 *för att* = "对……（负责）"，不是"因为"）。
+- 📌 [[grammar-att-bisats]] — 两层 att-从句：*att det är …* 和 *för att schemat stämmer*（注意此处 *för att* = "对……（负责）"，不是"因为"）。
 - 📌 [[grammar-den-som-relativ]] — **强调句 (utbrytning)** *det är ni … som ansvarar* = 负责的是**你们**；中间 *som vårdnadshavare* = 作为监护人（*som* = 作为，不是关系词）。
 - 📌 *schemat stämmer* = 时间表是对的/相符（stämma = 正确）。
 

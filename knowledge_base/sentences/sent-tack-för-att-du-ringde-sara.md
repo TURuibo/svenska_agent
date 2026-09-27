@@ -5,7 +5,7 @@ zh: "谢谢你打电话来，Sara！"
 cefr: "A2"
 words: [ringa]
 phrases: [tack-för-att-du-ringde]
-grammar: [grammar-bisats-att]
+grammar: [grammar-att-bisats]
 source: "source-2026-09-26-forskola-forskolan-ringer-ella-har-feber"
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 created: "2026-09-26"

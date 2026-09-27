@@ -5,7 +5,7 @@ zh: "她吃饭时喝了水。"
 cefr: "A1"
 words: [dricka, vatten]
 phrases: []
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ Hon | har druckit | vatten | till maten.
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]]
+- 📌 [[grammar-perfekt]]
 - 📐 *till maten* = 「配着饭、吃饭时」，介词用 *till* 而不是 *med*。
 
 ## 生词 & 词组 (Words & Phrases)

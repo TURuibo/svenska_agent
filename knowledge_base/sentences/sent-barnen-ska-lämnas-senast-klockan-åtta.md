@@ -5,7 +5,7 @@ zh: "孩子们最晚要在八点前送到。"
 cefr: "A2"
 words: [barn, lämna, senast, klocka]
 phrases: [senast-klockan-åtta]
-grammar: [grammar-s-passiv, grammar-ska-infinitiv, grammar-bestamd-form]
+grammar: [grammar-s-passiv, grammar-ska-infinitiv, grammar-bestämd-form]
 source: "source-2026-09-26-forskola-en-vanlig-dag-pa-solrosen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -26,7 +26,7 @@ created: "2026-09-26"
 
 - 📌 [[grammar-s-passiv]] — **lämna → lämnas**：被送到（不说是谁送）。ska + 被动不定式。
 - 📌 [[grammar-ska-infinitiv]] — ska 表规定/要求（"应当"）。
-- 📌 [[grammar-bestamd-form]] — barnen（这些孩子，定形复数）。
+- 📌 [[grammar-bestämd-form]] — barnen（这些孩子，定形复数）。
 - 📌 园所高频对：**lämna**（送园）↔ **hämta**（接园）；名词 lämning / hämtning。
 
 ## 生词 & 词组 (Words & Phrases)

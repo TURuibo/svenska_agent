@@ -5,7 +5,7 @@ zh: "他能睡整夜吗？"
 cefr: "A1"
 words: [sova, natt]
 phrases: [sova-hela-natten]
-grammar: [grammar-ja-nej-fragor]
+grammar: [grammar-ja-nej-fraga]
 source: "source-2026-09-26-forskola-smaprat-i-hallen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-ja-nej-fragor]]
+- 📌 [[grammar-ja-nej-fraga]]
 - 是非问句：动词放句首，主语紧随其后。
 - hela natten：hela + 定式。
 

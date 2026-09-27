@@ -8,7 +8,7 @@ zh: "十二点一刻"
 en: "quarter past twelve"
 literal: "一刻钟过了十二"
 head_words: []
-grammar: [grammar-klockslag-kvart]
+grammar: [grammar-klockan-tidsuttryck]
 related: [kvart-i-två, kvart-i-tolv, halv-fyra]
 topics: [topic-förskola-vardag, topic-tid-och-tidsuttryck]
 sentences: []
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-klockslag-kvart]]
+- → [[grammar-klockan-tidsuttryck]]
 
 ## 变体 & 相关 (Variations & Related)
 

@@ -4,7 +4,7 @@ sentence: "Vi ses i morgon."
 zh: "明天见。"
 cefr: "A1"
 words: [morgon]
-phrases: [vi-ses-i-morgon]
+phrases: [vi-ses-imorgon]
 grammar: [grammar-deponensverb, grammar-presens-for-framtid]
 source: "source-2026-09-26-forskola-sjukanmalan-i-appen"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
@@ -31,7 +31,7 @@ created: "2026-09-26"
 ## 生词 & 词组 (Words & Phrases)
 
 - 词: [[morgon]]
-- 词组: [[vi-ses-i-morgon]]
+- 词组: [[vi-ses-imorgon]]
 - 用法: 消息结尾。
 
 ## 来源 (Source)

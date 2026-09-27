@@ -7,7 +7,7 @@ cefr: A2
 words: [öppettid, lämningstid, hämtningstid, vistelsetid, arbetstid, restid, föräldraledig, arbetssökande, semesterschema, sammanhängande, ledighet, sommarstängt, sammanslagning, avgift, maxtaxa, inkomst, antal, vårdnadshavare, ansvara, stämma, följa]
 phrases: [här-kommer, ha-öppet, måndag-till-fredag, skriva-in, se-ut, minst-två-veckor-i-förväg, vid-hämtning, 15-timmar-i-veckan, lämna-in, senast-den-30-april, ha-sommarstängt, vecka-28, det-kallas, ha-stängt-hela-dagen, jul--och-nyårsstängt, bero-på, kom-ihåg-att]
 sentences: [sent-här-kommer-viktig-information-om-barnens, sent-förskolan-har-öppet-måndag-till-fredag, sent-ni-registrerar-barnets-schema-i-kommunens, sent-skriv-in-lämningstid-och-hämtningstid-för, sent-så-här-kan-ett-schema-se, sent-vistelsetiden-är-er-arbetstid-plus-restid, sent-om-ni-behöver-ändra-schemat-gör, sent-ring-alltid-om-ni-blir-sena, sent-är-ni-föräldralediga-eller-arbetssökande-får, sent-lämna-in-semesterschemat-senast-den-30, sent-vi-rekommenderar-fyra-veckors-sammanhängande, sent-förskolan-har-sommarstängt-vecka-28-31, sent-barn-som-behöver-omsorg-de-veckorna, sent-det-kallas-sammanslagning, sent-vi-har-planeringsdagar-den-13-maj, sent-då-har-vi-stängt-hela-dagen, sent-förskolan-har-jul--och-nyårsstängt-24, sent-avgiften-följer-maxtaxan-och-beror-på, sent-kom-ihåg-att-det-är-ni]
-grammar: [grammar-villkor-utan-om, grammar-relativsats-som]
+grammar: [grammar-villkor-utan-om, grammar-relativ-bisats-med-som]
 topics: [topic-förskola-system, topic-förskola-vardag]
 ---
 
@@ -179,7 +179,7 @@ Humlan 全体教职员
 
 ### 语法 (Grammar)
 - [[grammar-villkor-utan-om]]
-- [[grammar-relativsats-som]]
+- [[grammar-relativ-bisats-med-som]]
 
 ### 主题 (Topics)
 - [[topic-förskola-system]]

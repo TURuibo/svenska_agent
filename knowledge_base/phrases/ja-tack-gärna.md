@@ -9,7 +9,7 @@ en: "yes please, gladly"
 literal: "是-谢谢-乐意"
 head_words: [gärna]
 grammar: [grammar-satsadverbial]
-related: [ja-gärna, vill-du-ha-…, tacka-ja]
+related: [ja-gärna, vill-du-ha, tacka-ja]
 topics: []
 sentences: []
 known: false
@@ -37,7 +37,7 @@ created: "2026-09-26"
 
 - 🔄 Ja, gärna · Gärna, tack · Ja tack · Jättegärna（非常乐意）
 - 🔄 拒绝：Nej tack · Nej tack, det är bra
-- 🔗 [[ja-gärna]] · [[vill-du-ha-…]] · [[gärna]]
+- 🔗 [[ja-gärna]] · [[vill-du-ha]] · [[gärna]]
 
 ## 例句 / 对话 (Examples)
 

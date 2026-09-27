@@ -8,7 +8,7 @@ zh: "明天见"
 en: "See you tomorrow!"
 literal: "我们明天被看见（互相见）"
 head_words: []
-grammar: [grammar-deponens-verb]
+grammar: [grammar-deponensverb]
 related: [vi-ses, hej-då, tack-för-idag]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -26,11 +26,11 @@ created: "2026-09-26"
 
 - 日常告别语，*ses* 是 **s-形式的相互动词**（se + s = 互相看见）。主语必须是复数（vi / ni）。
 - 时间词可换：*Vi ses på måndag / på fredag / snart / sen!*
-- 拼写 *imorgon* 与 *i morgon* 均可，口语中 [[vi-ses-i-morgon]] 同一条。
+- 拼写 *imorgon* 与 *i morgon* 均可，口语中 [[vi-ses-imorgon]] 同一条。
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-deponens-verb]] — ses = 相互（reciprok）s-形式
+- → [[grammar-deponensverb]] — ses = 相互（reciprok）s-形式
 
 ## 变体 & 相关 (Variations & Related)
 

@@ -5,7 +5,7 @@ zh: "妈妈三点半来接。"
 cefr: "A1"
 words: [mamma, hämta]
 phrases: [halv-fyra]
-grammar: [grammar-klockan-halv, grammar-presens-for-framtid, grammar-tidsprepositioner]
+grammar: [grammar-klockan-tidsuttryck, grammar-presens-for-framtid, grammar-tidsprepositioner]
 source: "source-2026-09-26-forskola-lamning-pa-morgonen"
 topics: [topic-tid-och-tidsuttryck, topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-klockan-halv]] — ⚠️ *halv fyra* = 15:30，不是 16:30
+- 📌 [[grammar-klockan-tidsuttryck]] — ⚠️ *halv fyra* = 15:30，不是 16:30
 - 📌 [[grammar-presens-for-framtid]] — presens 表今天下午的安排
 - 📌 [[grammar-tidsprepositioner]] — *vid* + 钟点 = 「大约在……点」
 

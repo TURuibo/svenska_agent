@@ -8,7 +8,7 @@ zh: "第一年最难熬。"
 en: "The first year is the worst."
 literal: "第一 + 年（定式）+ 是 + 最糟"
 head_words: [år]
-grammar: [grammar-bestamd-form, grammar-adjektiv-kongruens]
+grammar: [grammar-bestämd-form, grammar-adjektiv-kongruens]
 related: [det-blir-bättre, det-är-en-fas, alla-barn-är-olika]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-första-året-är-värst-men-varje]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]：序数词前用 *första året*（定式 -et，无冠词 *det* 也可）。
+- → [[grammar-bestämd-form]]：序数词前用 *första året*（定式 -et，无冠词 *det* 也可）。
 - → [[grammar-adjektiv-kongruens]]：最高级作表语不变形：*året är värst*。
 
 ## 变体 & 相关 (Variations & Related)

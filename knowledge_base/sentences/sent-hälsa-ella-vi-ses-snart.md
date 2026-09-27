@@ -5,7 +5,7 @@ zh: "替我问候 Ella，回头见！"
 cefr: "A1"
 words: [hälsa, snart]
 phrases: [vi-ses-snart]
-grammar: [grammar-imperativ, grammar-deponens-verb]
+grammar: [grammar-imperativ, grammar-deponensverb]
 source: "source-2026-09-26-forskola-forskolan-ringer-ella-har-feber"
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 created: "2026-09-26"

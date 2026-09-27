@@ -8,7 +8,7 @@ zh: "和……玩"
 en: "play with"
 literal: "与……玩"
 head_words: [leka]
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 related: [kompis]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-presens-perfekt]] — har lekt (leka v.2b: leker – lekte – lekt)
+- → [[grammar-perfekt]] — har lekt (leka v.2b: leker – lekte – lekt)
 
 ## 变体 & 相关 (Variations & Related)
 

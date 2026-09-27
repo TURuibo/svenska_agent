@@ -3,7 +3,7 @@ type: sentence
 sv: "Jag trivs i Sverige och hoppas att fler hittar sin egen vändpunkt."
 cn: "我在瑞典生活得很好，希望更多人能找到自己的转折点。"
 grammar: [grammar-s-passiv-och-reflexiv]
-words: [trivs, vändpunkt]
+words: [trivs, hoppas, vändpunkt]
 phrases: []
 topics: [topic-sfi-sprak-larande]
 sources: [source-2026-06-29-vandpunkt-i-mitt-liv]

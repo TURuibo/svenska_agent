@@ -4,7 +4,7 @@ sentence: "Tack, detsamma!"
 zh: "谢谢，你也是！"
 cefr: "A1"
 words: [detsamma]
-phrases: [tack,-detsamma, tack-detsamma]
+phrases: [tack-detsamma]
 grammar: []
 source: "source-2026-09-26-forskola-lamning-pa-morgonen"
 topics: [topic-förskola-vardag]
@@ -29,7 +29,7 @@ created: "2026-09-26"
 ## 生词 & 词组 (Words & Phrases)
 
 - 词: [[detsamma]]
-- 词组: [[tack,-detsamma]], [[tack-detsamma]]
+- 词组: [[tack-detsamma]], [[tack-detsamma]]
 
 ## 备注 (Notes)
 

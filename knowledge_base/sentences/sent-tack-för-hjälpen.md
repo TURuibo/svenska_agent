@@ -5,7 +5,7 @@ zh: "谢谢配合！"
 cefr: "A1"
 words: [hjälp]
 phrases: [tack-för-hjälpen]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 source: "source-2026-09-26-forskola-packlista-klader-for-alla-vader"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ Tack   för   hjälpen
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-bestamd-form]] — *tack för* + 定式（hjälpen），固定模式：*tack för maten / idag / senast*
+- 📌 [[grammar-bestämd-form]] — *tack för* + 定式（hjälpen），固定模式：*tack för maten / idag / senast*
 
 ## 生词 & 词组 (Words & Phrases)
 

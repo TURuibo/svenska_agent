@@ -3,7 +3,7 @@ type: sentence
 sentence: "Nästa helg hoppas jag att vädret blir lika fint."
 zh: 下个周末我希望天气一样好。
 cefr: A2
-words: [nästa, helg, väder, fin]
+words: [nästa, helg, hoppas, väder, fin]
 phrases: []
 grammar: [grammar-v2-ordfoljd, grammar-att-sats]
 source: "source-2026-06-22-en-helg"
@@ -34,7 +34,7 @@ interval: 0
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[nästa]], [[helg]], [[väder]], [[fin]]
+- 词: [[nästa]], [[helg]], [[hoppas]], [[väder]], [[fin]]
 
 ## 来源 (Source)
 

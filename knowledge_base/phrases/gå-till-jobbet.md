@@ -8,7 +8,7 @@ zh: "去上班"
 en: "go to work"
 literal: "走到工作"
 head_words: [jobb]
-grammar: [grammar-bestamd-form, grammar-presens-for-framtid]
+grammar: [grammar-bestämd-form, grammar-presens-for-framtid]
 related: [hur-är-det-med-jobbet, komma-och-hämta, gå-du]
 topics: [topic-förskola-vardag]
 sentences: [sent-pappa-går-till-jobbet-nu-och]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]
+- → [[grammar-bestämd-form]]
 - → [[grammar-presens-for-framtid]]
 
 ## 变体 & 相关 (Variations & Related)

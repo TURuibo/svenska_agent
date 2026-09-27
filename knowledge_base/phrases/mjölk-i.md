@@ -9,7 +9,7 @@ en: "milk in it?"
 literal: "奶-在里面？"
 head_words: [mjölk, kaffe]
 grammar: [grammar-preposition-i-slutet]
-related: [vill-du-ha-…, en-kopp-kaffe]
+related: [vill-du-ha, en-kopp-kaffe]
 topics: [topic-kafe-fika]
 sentences: []
 known: false

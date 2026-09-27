@@ -8,7 +8,7 @@ zh: "十一点三刻（11:45）"
 en: "quarter to twelve"
 literal: "一刻钟（kvart）到（i）十二点（tolv）"
 head_words: []
-grammar: [grammar-klockan-tidsuttryck, grammar-klockslag-kvart]
+grammar: [grammar-klockan-tidsuttryck]
 related: [kvart-i-två, kvart-över-tolv, halv-sex, halv-tre]
 topics: [topic-förskola-vardag]
 sentences: [sent-barnen-sover-ute-i-sina-barnvagnar]
@@ -32,7 +32,7 @@ created: "2026-09-26"
 ## 短语中的语法 (Grammar inside)
 
 - → [[grammar-klockan-tidsuttryck]]
-- → [[grammar-klockslag-kvart]]
+- → [[grammar-klockan-tidsuttryck]]
 
 ## 变体 & 相关 (Variations & Related)
 

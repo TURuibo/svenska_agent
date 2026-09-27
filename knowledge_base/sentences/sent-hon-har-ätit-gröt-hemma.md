@@ -5,7 +5,7 @@ zh: "她在家吃过粥了。"
 cefr: "A1"
 words: [äta, gröt]
 phrases: [äta-frukost-hemma]
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 source: "source-2026-09-26-forskola-lamning-pa-morgonen"
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]] — *har ätit*（äta v.4：äter–åt–ätit）
+- 📌 [[grammar-perfekt]] — *har ätit*（äta v.4：äter–åt–ätit）
 
 ## 生词 & 词组 (Words & Phrases)
 

@@ -5,7 +5,7 @@ zh: "Ella 也一直流鼻涕，从八月起就咳嗽。"
 cefr: "A2"
 words: [också, snuvig, hosta, sedan, augusti]
 phrases: []
-grammar: [grammar-presens-perfekt, grammar-sedan-vs-i]
+grammar: [grammar-perfekt, grammar-sedan-vs-i]
 source: "source-2026-09-26-forskola-sjukprat-mellan-foraldrar"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]]
+- 📌 [[grammar-perfekt]]
 - 📌 [[grammar-sedan-vs-i]]
 
 - 📐 *har hostat sedan augusti*：presens perfekt + *sedan + 时间点* = 从八月一直咳到现在。

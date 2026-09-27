@@ -5,7 +5,7 @@ zh: "我们去拿安抚毯，转移一下她的注意力。"
 cefr: "A2"
 words: [hämta, snuttefilt, avleda]
 phrases: []
-grammar: [grammar-bestamd-form, grammar-presens-for-framtid]
+grammar: [grammar-bestämd-form, grammar-presens-for-framtid]
 source: "source-2026-09-26-forskola-lamning-pa-morgonen"
 topics: [topic-småbarn-känslor-och-beteende, topic-barnkläder-och-utrustning, topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-bestamd-form]] — *snuttefilten*：孩子那条特定的毯子
+- 📌 [[grammar-bestämd-form]] — *snuttefilten*：孩子那条特定的毯子
 - 📌 [[grammar-presens-for-framtid]] — presens 表马上要做的事
 
 ## 生词 & 词组 (Words & Phrases)

@@ -3,7 +3,7 @@ type: sentence
 sentence: "Utmärkt. Jag kommer strax med din beställning."
 zh: "好极了。我马上把您点的菜端来。"
 cefr: "A2"
-words: [beställa, vara]
+words: [beställa, vara, komma]
 phrases: []
 grammar: [grammar-presens]
 source: "source-2026-06-15-restaurang-rekommendation"

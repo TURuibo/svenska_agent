@@ -5,7 +5,7 @@ zh: "再见 Ella，明天见！"
 cefr: "A1"
 words: [ses]
 phrases: [hej-då, vi-ses-imorgon]
-grammar: [grammar-deponens-verb, grammar-presens-for-framtid]
+grammar: [grammar-deponensverb, grammar-presens-for-framtid]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ Hej då, Ella, | vi | ses | imorgon!
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-deponens-verb]]
+- 📌 [[grammar-deponensverb]]
 - 📌 [[grammar-presens-for-framtid]]
 - 📐 *ses* 是相互 s-动词（*se* + s = 互相见），现在时表将来。
 

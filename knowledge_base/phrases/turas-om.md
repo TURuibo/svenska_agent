@@ -8,7 +8,7 @@ zh: "轮流"
 en: "to take turns"
 literal: "turn-（s 形式）+ 关于 → 轮着来"
 head_words: [tur]
-grammar: [grammar-deponens-verb]
+grammar: [grammar-deponensverb]
 related: [vabba, vab]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: [sent-ja-vi-turades-om-min-fru]
@@ -31,7 +31,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-deponens-verb]]（-s 结尾的主动动词）
+- → [[grammar-deponensverb]]（-s 结尾的主动动词）
 - 小品词 *om* 重读：*Vi TURas OM*。
 
 ## 变体 & 相关 (Variations & Related)

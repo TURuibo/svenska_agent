@@ -8,7 +8,7 @@ zh: "前一天晚上"
 en: "the evening before"
 literal: "那个晚上 之前"
 head_words: [kväll]
-grammar: [grammar-bisats-att]
+grammar: [grammar-att-bisats]
 related: [i-natt, just-nu]
 topics: [topic-förskola-vardag]
 sentences: []

@@ -9,7 +9,7 @@ en: have a nice afternoon
 literal: 有 + 一个 + 美好的 + 下午
 head_words: [eftermiddag, fin]
 grammar: [grammar-imperativ]
-related: [ha-en-bra-dag, ha-en-trevlig-kväll, trevlig-helg, tack,-detsamma]
+related: [ha-en-bra-dag, ha-en-trevlig-kväll, trevlig-helg, tack-detsamma]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-ha-en-fin-eftermiddag]
 known: false
@@ -35,7 +35,7 @@ created: 2026-09-26
 ## 变体 & 相关 (Variations & Related)
 
 - 🔄 Ha en bra dag! · Ha en trevlig kväll! · Ha det så bra!
-- 🔗 [[ha-en-bra-dag]] · [[ha-en-trevlig-kväll]] · [[trevlig-helg]] · [[tack,-detsamma]]
+- 🔗 [[ha-en-bra-dag]] · [[ha-en-trevlig-kväll]] · [[trevlig-helg]] · [[tack-detsamma]]
 
 ## 例句 / 对话 (Examples)
 

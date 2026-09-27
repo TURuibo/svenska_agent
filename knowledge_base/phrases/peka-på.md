@@ -9,7 +9,7 @@ en: "point at; point to"
 literal: "指在…上"
 head_words: [peka]
 grammar: [grammar-prepositioner-rum]
-related: [visa-med-gester, huvud,-axlar,-knä-och-tå]
+related: [visa-med-gester, huvud-axlar-knä-och-tå]
 topics: [topic-förskola-vardag]
 sentences: [sent-vi-sjunger-huvud-axlar-knä-och]
 known: false
@@ -36,7 +36,7 @@ created: 2026-09-26
 ## 变体 & 相关 (Variations & Related)
 
 - 🔄 peka mot（朝…方向指）/ peka ut（指出、点名）
-- 🔗 [[visa-med-gester]] · [[huvud,-axlar,-knä-och-tå]]
+- 🔗 [[visa-med-gester]] · [[huvud-axlar-knä-och-tå]]
 
 ## 例句 / 对话 (Examples)
 

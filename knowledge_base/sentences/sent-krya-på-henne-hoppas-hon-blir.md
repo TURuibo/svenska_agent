@@ -5,7 +5,7 @@ zh: "祝她早日康复，希望她很快好起来！"
 cefr: "A2"
 words: [hoppas, bli, bättre, snart]
 phrases: [krya-på-dig, hoppas-hon-blir-bättre-snart]
-grammar: [grammar-bisats-att, grammar-deponensverb, grammar-imperativ]
+grammar: [grammar-att-bisats, grammar-deponensverb, grammar-imperativ]
 source: "source-2026-09-26-forskola-sjukanmalan-i-appen"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-imperativ]] — `Krya på dig` 变成对第三人 `Krya på henne/honom`：祈使式不变，只换宾语代词。
-- 📌 [[grammar-bisats-att]] — `hoppas (att) hon blir…`：口语里 att 常省略；从句主语 jag 也省略。
+- 📌 [[grammar-att-bisats]] — `hoppas (att) hon blir…`：口语里 att 常省略；从句主语 jag 也省略。
 - 📌 [[grammar-deponensverb]] — hoppas 是 s-动词（主动义）。
 
 ## 生词 & 词组 (Words & Phrases)

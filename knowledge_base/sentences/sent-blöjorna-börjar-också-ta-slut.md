@@ -5,7 +5,7 @@ zh: "尿布也快用完了。"
 cefr: "A1"
 words: [blöja, också]
 phrases: [börja-ta-slut]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 source: "source-2026-09-26-forskola-en-dag-i-appen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-bestamd-form]] — blöjorna：园里存的那些尿布；börja + 不定式不加 att
+- 📌 [[grammar-bestämd-form]] — blöjorna：园里存的那些尿布；börja + 不定式不加 att
 
 ## 生词 & 词组 (Words & Phrases)
 

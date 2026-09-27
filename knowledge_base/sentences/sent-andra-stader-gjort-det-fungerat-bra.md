@@ -3,7 +3,7 @@ type: sentence
 sv: "Andra städer har redan gjort det, och det har fungerat bra."
 cn: "其他城市已经做到了，效果也很好。"
 grammar: []
-words: [fungera, stad]
+words: [redan, fungera, stad]
 phrases: []
 topics: [topic-samhalle]
 sources: [source-2026-06-29-insandare-fler-cykelvagar]

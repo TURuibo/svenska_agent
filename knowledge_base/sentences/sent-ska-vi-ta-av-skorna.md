@@ -5,7 +5,7 @@ zh: "我们要脱鞋吗？"
 cefr: "A1"
 words: [sko]
 phrases: [ta-av-skorna]
-grammar: [grammar-ja-nej-fragor, grammar-ska-infinitiv-forslag, grammar-partikelverb]
+grammar: [grammar-ja-nej-fraga, grammar-ska-infinitiv-forslag, grammar-partikelverb]
 source: "source-2026-09-26-forskola-pa-barnkalaset"
 topics: []
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-ja-nej-fragor]] — 情态动词 ska 提前构成是非问句
+- 📌 [[grammar-ja-nej-fraga]] — 情态动词 ska 提前构成是非问句
 - 📌 [[grammar-ska-infinitiv-forslag]] — *Ska vi …?* 提建议/询问
 - 📌 [[grammar-partikelverb]] — ta av，宾语 skorna 在小品词后
 

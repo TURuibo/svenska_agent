@@ -4,7 +4,7 @@ name: "sedan vs i (tidsuttryck)"
 zh: "sedan + 时间点 vs i + 时长"
 en: "sedan (since a point) vs i (for a duration)"
 level: "A2"
-related: [grammar-presens-perfekt, grammar-i-tidsperiod, grammar-för-sedan, grammar-tidsprepositioner, grammar-perfekt]
+related: [grammar-perfekt, grammar-i-tidsperiod, grammar-för-sedan, grammar-tidsprepositioner]
 examples: [sent-ella-är-också-snuvig-och-har, sent-man-ska-vara-symtomfri-i-48, sent-men-sedan-i-helgen-är-han]
 known: false
 created: "2026-09-26"
@@ -58,7 +58,7 @@ för … sedan     →  för två dagar sedan                              （�
 
 ## 相关语法 (Related)
 
-- 📎 [[grammar-presens-perfekt]]（延续到现在的时态）
+- 📎 [[grammar-perfekt]]（延续到现在的时态）
 - 📎 [[grammar-i-tidsperiod]]（i + 时长）
 - 📎 [[grammar-för-sedan]]（för … sedan = … ago）
 - 📎 [[grammar-tidsprepositioner]]

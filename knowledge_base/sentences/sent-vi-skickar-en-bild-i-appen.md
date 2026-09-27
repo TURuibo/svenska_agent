@@ -5,7 +5,7 @@ zh: "我们也会在 App 里发张照片。"
 cefr: "A1"
 words: [skicka, bild, app, också]
 phrases: []
-grammar: [grammar-presens-for-framtid, grammar-bestamd-form]
+grammar: [grammar-presens-for-framtid, grammar-bestämd-form]
 source: "source-2026-09-26-forskola-lamning-pa-morgonen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-presens-for-framtid]] — presens 表稍后会做
-- 📌 [[grammar-bestamd-form]] — *appen* = 园里用的那个 App（如 Tyra / Edlevo）
+- 📌 [[grammar-bestämd-form]] — *appen* = 园里用的那个 App（如 Tyra / Edlevo）
 
 ## 生词 & 词组 (Words & Phrases)
 

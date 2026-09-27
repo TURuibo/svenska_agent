@@ -8,7 +8,7 @@ zh: "各位家长好"
 en: "hi all parents"
 literal: "你好所有家长"
 head_words: [förälder]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [med-vänliga-hälsningar, varmt-välkomna, här-kommer]
 topics: [topic-förskola-vardag]
 sentences: [sent-hej-alla-föräldrar-på-humlan]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]] — alla + 复数不定式（非定式）
+- → [[grammar-bestämd-form]] — alla + 复数不定式（非定式）
 
 ## 变体 & 相关 (Variations & Related)
 

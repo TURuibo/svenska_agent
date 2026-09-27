@@ -8,7 +8,7 @@ zh: "戒奶嘴"
 en: "give up the pacifier"
 literal: "停止用奶嘴"
 head_words: [sluta, napp]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [vilja-ha, sova-hela-natten]
 topics: [topic-förskola-vardag, topic-småbarn-mat-och-sömn]
 sentences: [sent-vi-ska-sluta-med-nappen-snart]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]
+- → [[grammar-bestämd-form]]
 
 ## 变体 & 相关 (Variations & Related)
 

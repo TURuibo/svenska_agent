@@ -5,7 +5,7 @@ zh: "所有人都在婴儿车里睡得很香。"
 cefr: "A1"
 words: [sova, vagn]
 phrases: [sova-gott]
-grammar: [grammar-perfekt, grammar-bestamd-form]
+grammar: [grammar-perfekt, grammar-bestämd-form]
 source: "source-2026-09-26-forskola-en-dag-i-appen"
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-perfekt]] — har sovit（sova → sovit，第 4 组）
-- 📌 [[grammar-bestamd-form]] — vagnarna = 幼儿园那些（已知的）婴儿车
+- 📌 [[grammar-bestämd-form]] — vagnarna = 幼儿园那些（已知的）婴儿车
 
 ## 生词 & 词组 (Words & Phrases)
 

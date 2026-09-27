@@ -5,7 +5,7 @@ zh: "Ella 现在也在长牙吗？"
 cefr: "A2"
 words: [också, tand]
 phrases: [få-tänder]
-grammar: [grammar-ja-nej-fragor]
+grammar: [grammar-ja-nej-fraga]
 source: "source-2026-09-26-forskola-smaprat-i-hallen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-ja-nej-fragor]]
+- 📌 [[grammar-ja-nej-fraga]]
 - 是非问句动词句首；också 紧跟主语之后。
 - få tänder = 长牙，不用 växa。
 

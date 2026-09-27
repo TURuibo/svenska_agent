@@ -8,7 +8,7 @@ zh: "缺少的东西"
 en: "what is missing"
 literal: "那个被缺少的"
 head_words: [saknas]
-grammar: [grammar-relativsats-som, grammar-s-passiv]
+grammar: [grammar-relativ-bisats-med-som, grammar-s-passiv]
 related: [det-saknas, fylla-på]
 topics: [topic-förskola-vardag]
 sentences: [sent-kolla-ditt-barns-hylla-varje-dag]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-relativsats-som]] — det som … 关系从句
+- → [[grammar-relativ-bisats-med-som]] — det som … 关系从句
 - → [[grammar-s-passiv]] — saknas 的 -s 形式
 
 ## 变体 & 相关 (Variations & Related)

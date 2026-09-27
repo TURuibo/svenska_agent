@@ -3,7 +3,7 @@ type: sentence
 sentence: "Det smakar ju faktiskt för gott!"
 zh: 说真的，味道太好了！
 cefr: A2
-words: [smaka]
+words: [smaka, faktiskt]
 phrases: []
 grammar: [grammar-presens, grammar-bisats-biff]
 source: source-2026-06-09-fika-pa-cafe

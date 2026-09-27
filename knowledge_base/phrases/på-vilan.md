@@ -8,7 +8,7 @@ zh: "在午休时"
 en: "at nap time (preschool)"
 literal: "在休息上"
 head_words: [vila]
-grammar: [grammar-bestamd-form, grammar-tidsprepositioner]
+grammar: [grammar-bestämd-form, grammar-tidsprepositioner]
 related: [efter-vilan, vid-vilan, vakna-från-vilan, sovvila]
 topics: [topic-förskola-vardag]
 sentences: [sent-hon-får-sova-lite-längre-på]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]] / → [[grammar-tidsprepositioner]]
+- → [[grammar-bestämd-form]] / → [[grammar-tidsprepositioner]]
 
 ## 变体 & 相关 (Variations & Related)
 

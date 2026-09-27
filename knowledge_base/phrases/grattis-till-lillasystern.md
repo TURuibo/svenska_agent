@@ -8,7 +8,7 @@ zh: "恭喜添了妹妹！"
 en: "Congratulations on the little sister!"
 literal: "恭喜——为了那个妹妹"
 head_words: [grattis, lillasyster]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [grattis-på-födelsedagen, vad-kul]
 topics: [topic-förskola-vardag]
 sentences: [sent-grattis-till-lillasystern]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]] — *lillasystern* 定形式：已知所指
+- → [[grammar-bestämd-form]] — *lillasystern* 定形式：已知所指
 - 介词固定搭配：*grattis till* + 名词
 
 ## 变体 & 相关 (Variations & Related)

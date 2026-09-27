@@ -8,7 +8,7 @@ zh: "问得好"
 en: "good that you ask"
 literal: "你问是好的"
 head_words: [fråga, bra]
-grammar: [grammar-bisats-att]
+grammar: [grammar-att-bisats]
 related: [bra-att-veta]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bisats-att]] — att-从句作主语补足语
+- → [[grammar-att-bisats]] — att-从句作主语补足语
 
 ## 变体 & 相关 (Variations & Related)
 

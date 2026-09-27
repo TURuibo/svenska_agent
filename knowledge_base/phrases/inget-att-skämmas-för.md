@@ -8,7 +8,7 @@ zh: "没什么好难为情的"
 en: "nothing to be ashamed of"
 literal: "没什么可为之感到羞耻的"
 head_words: [skämmas, ingenting]
-grammar: [grammar-deponens-verb, grammar-preposition-i-slutet]
+grammar: [grammar-deponensverb, grammar-preposition-i-slutet]
 related: [det-är-ingen-fara, sånt-händer, det-är-lugnt, helt-normalt]
 topics: [topic-förskola-vardag]
 sentences: [sent-det-är-inget-att-skämmas-för]
@@ -31,7 +31,7 @@ created: 2026-09-26
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-deponens-verb]] — skämmas（-s 形主动义）
+- → [[grammar-deponensverb]] — skämmas（-s 形主动义）
 - → [[grammar-preposition-i-slutet]] — 介词 för 留在句尾
 
 ## 变体 & 相关 (Variations & Related)

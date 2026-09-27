@@ -5,7 +5,7 @@ zh: "她喝过什么吗？"
 cefr: "A2"
 words: [dricka, någon]
 phrases: []
-grammar: [grammar-presens-perfekt, grammar-ja-nej-fraga]
+grammar: [grammar-perfekt, grammar-ja-nej-fraga]
 source: "source-2026-09-26-forskola-forskolan-ringer-ella-har-feber"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"

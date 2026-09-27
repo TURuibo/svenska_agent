@@ -5,7 +5,7 @@ zh: "她在接送人名单上。"
 cefr: "A2"
 words: [stå, lista, hämtare]
 phrases: [stå-med-på-listan]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 source: "source-2026-09-26-forskola-en-dag-i-appen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-bestamd-form]] — listan（那份已知的名单）用定式；listan över … = ……的名单
+- 📌 [[grammar-bestämd-form]] — listan（那份已知的名单）用定式；listan över … = ……的名单
 
 ## 生词 & 词组 (Words & Phrases)
 

@@ -5,7 +5,7 @@ zh: "要的，八点前在 App 里给她报病假，我们就知道她在家了�
 cefr: "B1"
 words: [sjukanmäla, app, klocka]
 phrases: [före-klockan-åtta]
-grammar: [grammar-imperativ, grammar-v2-ordfoljd, grammar-bisats-att]
+grammar: [grammar-imperativ, grammar-v2-ordfoljd, grammar-att-bisats]
 source: "source-2026-09-26-forskola-forskolan-ringer-ella-har-feber"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"

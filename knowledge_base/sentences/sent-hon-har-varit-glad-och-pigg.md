@@ -5,7 +5,7 @@ zh: "她几乎一整天都很开心、精神很好。"
 cefr: "A1"
 words: [glad, pigg, nästan, dag]
 phrases: []
-grammar: [grammar-presens-perfekt, grammar-adjektiv-som-predikat]
+grammar: [grammar-perfekt, grammar-adjektiv-som-predikat]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ Hon | har varit | glad och pigg | nästan hela dagen.
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]]
+- 📌 [[grammar-perfekt]]
 - 📌 [[grammar-adjektiv-som-predikat]]
 - 📐 perfekt *har varit*；表语形容词与主语 *hon* 一致（en-形 *glad, pigg*）。*hela dagen* 用定式。
 

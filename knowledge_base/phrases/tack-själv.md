@@ -9,7 +9,7 @@ en: "Thank you too!"
 literal: "谢谢（你）自己"
 head_words: []
 grammar: []
-related: [tack-för-idag, tack,-detsamma]
+related: [tack-för-idag, tack-detsamma]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -35,7 +35,7 @@ created: "2026-09-26"
 
 - 🔄 Tack själv, ha en trevlig kväll! — 也谢谢你，晚上愉快！
 - 🔄 Tack, tack själv! — 谢谢，也谢你！
-- 🔗 [[tack-för-idag]], [[tack,-detsamma]]
+- 🔗 [[tack-för-idag]], [[tack-detsamma]]
 
 ## 例句 / 对话 (Examples)
 

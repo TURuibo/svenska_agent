@@ -8,7 +8,7 @@ zh: "五点半"
 en: "half past five"
 literal: "半六"
 head_words: [halv]
-grammar: [grammar-klockan-halv, grammar-klockan-tidsuttryck]
+grammar: [grammar-klockan-tidsuttryck]
 related: [halv-fyra, kvart-i-två]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-klockan-halv]]
+- → [[grammar-klockan-tidsuttryck]]
 - → [[grammar-klockan-tidsuttryck]]
 
 ## 变体 & 相关 (Variations & Related)

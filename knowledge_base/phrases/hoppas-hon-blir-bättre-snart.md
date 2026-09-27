@@ -8,7 +8,7 @@ zh: "希望她很快好起来"
 en: "hope she gets better soon"
 literal: "希望她很快变得更好"
 head_words: [hoppas, bli, bättre, snart]
-grammar: [grammar-bisats-att]
+grammar: [grammar-att-bisats]
 related: [krya-på-dig, tack-för-info]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -31,7 +31,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- `hoppas (att) + bisats`：that-从句里 `att` 在口语中常省略 → [[grammar-bisats-att]]。
+- `hoppas (att) + bisats`：that-从句里 `att` 在口语中常省略 → [[grammar-att-bisats]]。
 - `hoppas` 为 deponens（-s 动词，主动意义）→ [[grammar-deponensverb]]。
 - `bättre` 是 bra 的比较级，作表语跟在 `bli` 后面。
 

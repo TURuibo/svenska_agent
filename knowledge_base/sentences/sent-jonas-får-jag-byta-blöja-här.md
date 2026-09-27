@@ -4,8 +4,8 @@ sentence: "Jonas, får jag byta blöja här?"
 zh: "Jonas，我可以在这儿换尿布吗？"
 cefr: "A1"
 words: [byta, blöja]
-phrases: [får-jag-…, byta-blöja]
-grammar: [grammar-modal-fa-permission, grammar-ja-nej-fragor]
+phrases: [får-jag, byta-blöja]
+grammar: [grammar-modal-fa-permission, grammar-ja-nej-fraga]
 source: "source-2026-09-26-forskola-pa-barnkalaset"
 topics: []
 created: "2026-09-26"
@@ -25,13 +25,13 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-modal-fa-permission]] — får 请求许可
-- 📌 [[grammar-ja-nej-fragor]] — 情态动词提前
+- 📌 [[grammar-ja-nej-fraga]] — 情态动词提前
 - 📌 byta blöja 不加冠词（固定搭配）
 
 ## 生词 & 词组 (Words & Phrases)
 
 - 词: [[byta]], [[blöja]]
-- 词组: [[får-jag-…]], [[byta-blöja]]
+- 词组: [[får-jag]], [[byta-blöja]]
 
 ## 来源 (Source)
 

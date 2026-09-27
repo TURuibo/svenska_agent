@@ -8,7 +8,7 @@ zh: "全天关门"
 en: "be closed all day"
 literal: "有 关着的 整个 天（定式）"
 head_words: [stängd, dag]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [ha-öppet, ha-sommarstängt, vara-stängd, jul--och-nyårsstängt, planeringsdag]
 topics: [topic-förskola-vardag]
 sentences: [sent-då-har-vi-stängt-hela-dagen]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- *hela dagen* 定式 → [[grammar-bestamd-form]]
+- *hela dagen* 定式 → [[grammar-bestämd-form]]
 
 ## 变体 & 相关 (Variations & Related)
 

@@ -4,7 +4,7 @@ sentence: "Vi sjunger \"Huvud, axlar, knä och tå\" och pekar på näsan och ma
 zh: "我们唱儿歌《头、肩、膝、脚趾》，还指指鼻子和肚子。"
 cefr: "A2"
 words: [sjunga, huvud, axel, knä, tå, peka, näsa, mage]
-phrases: [huvud,-axlar,-knä-och-tå, peka-på]
+phrases: [huvud-axlar-knä-och-tå, peka-på]
 grammar: [grammar-presens, grammar-bestämd-form]
 source: "source-2026-09-26-forskola-veckobrev-fran-solrosen"
 topics: [topic-förskola-vardag]
@@ -30,7 +30,7 @@ Vi  | sjunger | "Huvud, axlar, knä och tå" | och | pekar på | näsan och mage
 ## 生词 & 词组 (Words & Phrases)
 
 - 词: [[sjunga]] · [[huvud]] · [[axel]] · [[knä]] · [[tå]] · [[peka]] · [[näsa]] · [[mage]]
-- 词组: [[huvud,-axlar,-knä-och-tå]] · [[peka-på]]
+- 词组: [[huvud-axlar-knä-och-tå]] · [[peka-på]]
 
 ## 来源 (Source)
 

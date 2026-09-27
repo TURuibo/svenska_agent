@@ -5,7 +5,7 @@ zh: "午饭后是午睡。"
 cefr: "A1"
 words: [lunch, sovvila]
 phrases: [efter-lunchen]
-grammar: [grammar-v2-ordfoljd, grammar-bestamd-form, grammar-opersonligt-det]
+grammar: [grammar-v2-ordfoljd, grammar-bestämd-form, grammar-opersonligt-det]
 source: "source-2026-09-26-forskola-en-vanlig-dag-pa-solrosen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-opersonligt-det]] — det är + 活动（日程句型）。
-- 📌 [[grammar-bestamd-form]] — efter lunch**en**。
+- 📌 [[grammar-bestämd-form]] — efter lunch**en**。
 - 📌 [[grammar-v2-ordfoljd]] — 状语句首 → är det。
 
 ## 生词 & 词组 (Words & Phrases)

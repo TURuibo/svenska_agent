@@ -5,7 +5,7 @@ zh: "好，明天见！"
 cefr: "A1"
 words: [ses]
 phrases: [vi-ses]
-grammar: [grammar-deponens-verb]
+grammar: [grammar-deponensverb]
 source: "source-2026-09-26-forskola-smaprat-i-hallen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-deponens-verb]]
+- 📌 [[grammar-deponensverb]]
 - 回应告别的标准答句：Ja, vi ses!
 
 ## 生词 & 词组 (Words & Phrases)

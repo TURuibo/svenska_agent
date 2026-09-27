@@ -4,7 +4,7 @@ sentence: "Någon som har sett en blå vante med namnlapp \"Olle\"?"
 zh: "有人看到一只蓝色的、写着姓名标签\"Olle\"的手套吗？"
 cefr: "A2"
 words: [någon, blå, vante, namnlapp]
-phrases: [någon-som-har-sett-…]
+phrases: [någon-som-har-sett]
 grammar: [grammar-perfekt, grammar-adjektiv-kongruens]
 source: "source-2026-09-26-forskola-foraldragruppen-chatt"
 topics: [topic-förskola-vardag, topic-föräldrasmåprat]
@@ -31,7 +31,7 @@ created: "2026-09-26"
 ## 生词 & 词组 (Words & Phrases)
 
 - 词: [[någon]], [[blå]], [[vante]], [[namnlapp]]
-- 词组: [[någon-som-har-sett-…]]
+- 词组: [[någon-som-har-sett]]
 
 ## 来源 (Source)
 

@@ -5,7 +5,7 @@ zh: "我们去窗口挥手吧，Ella！"
 cefr: "A1"
 words: [vinka, fönster]
 phrases: [vinka-i-fönstret]
-grammar: [grammar-v2-ordfoljd, grammar-bestamd-form]
+grammar: [grammar-v2-ordfoljd, grammar-bestämd-form]
 source: "source-2026-09-26-forskola-lamning-pa-morgonen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-v2-ordfoljd]] — *nu* 句首 → *går vi* 倒装
-- 📌 [[grammar-bestamd-form]] — *fönstret*：园里那个固定的「挥手窗」
+- 📌 [[grammar-bestämd-form]] — *fönstret*：园里那个固定的「挥手窗」
 
 ## 生词 & 词组 (Words & Phrases)
 

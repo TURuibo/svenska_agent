@@ -5,7 +5,7 @@ zh: "那要是她发烧一直不退呢？"
 cefr: "A2"
 words: [få, feber]
 phrases: [gå-över]
-grammar: [grammar-bisats-om, grammar-relativsats-som]
+grammar: [grammar-bisats-om, grammar-relativ-bisats-med-som]
 source: "source-2026-09-26-forskola-sjukprat-mellan-foraldrar"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-bisats-om]]
-- 📌 [[grammar-relativsats-som]]
+- 📌 [[grammar-relativ-bisats-med-som]]
 
 - 📐 *om*-从句 + *som*-从句叠加，都是 bisats。
 - ⚠️ bisats 里 *inte* 放在动词**前**：*som inte går över*（主句才是 *går inte över*）。

@@ -8,7 +8,7 @@ zh: "三点半"
 en: "half past three"
 literal: "半 四"
 head_words: []
-grammar: [grammar-klockan-halv, grammar-klockan-tidsuttryck]
+grammar: [grammar-klockan-tidsuttryck]
 related: [halv-sex, vid-halv-nio, kvart-i-två, kvart-över-tolv, vid-tvåtiden]
 topics: [topic-tid-och-tidsuttryck, topic-förskola-vardag]
 sentences: [sent-mamma-hämtar-vid-halv-fyra]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-klockan-halv]]
+- → [[grammar-klockan-tidsuttryck]]
 - → [[grammar-klockan-tidsuttryck]]
 
 ## 变体 & 相关 (Variations & Related)

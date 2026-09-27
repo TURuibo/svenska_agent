@@ -5,7 +5,7 @@ zh: "她从十二点一刻睡到差一刻两点，在外面的婴儿车里。"
 cefr: "A2"
 words: [sova, ute, vagn]
 phrases: [kvart-över-tolv, kvart-i-två]
-grammar: [grammar-preteritum, grammar-klockslag-kvart]
+grammar: [grammar-preteritum, grammar-klockan-tidsuttryck]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ Hon | sov | från kvart över tolv | till kvart i två | ute i vagnen.
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-preteritum]]
-- 📌 [[grammar-klockslag-kvart]]
+- 📌 [[grammar-klockan-tidsuttryck]]
 - 📐 已结束的具体事件 → preteritum *sov*（sova – sover – sov – sovit）。*från … till …* 框定时间段。
 
 ## 生词 & 词组 (Words & Phrases)

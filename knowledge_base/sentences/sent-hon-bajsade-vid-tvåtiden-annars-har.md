@@ -5,7 +5,7 @@ zh: "她两点左右拉了臭臭，其他都只是尿尿。"
 cefr: "A2"
 words: [bajsa, kissa, annars]
 phrases: [vid-tvåtiden]
-grammar: [grammar-preteritum, grammar-presens-perfekt, grammar-inversion-efter-fundament]
+grammar: [grammar-preteritum, grammar-perfekt, grammar-inversion-efter-fundament]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ Hon bajsade vid tvåtiden, | annars | har | hon | bara kissat.
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-preteritum]]
-- 📌 [[grammar-presens-perfekt]]
+- 📌 [[grammar-perfekt]]
 - 📌 [[grammar-inversion-efter-fundament]]
 - 📐 前半句具体时间点 → preteritum *bajsade*；后半句概括整天 → perfekt *har kissat*。*annars* 提前引发倒装。
 

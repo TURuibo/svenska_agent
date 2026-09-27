@@ -8,7 +8,7 @@ zh: "这周"
 en: "this week"
 literal: "这里的这个周"
 head_words: [vecka]
-grammar: [grammar-presens-perfekt, grammar-v2-ordfoljd]
+grammar: [grammar-perfekt, grammar-v2-ordfoljd]
 related: [nästa-vecka, vecka-40]
 topics: [topic-förskola-vardag]
 sentences: [sent-den-här-veckan-har-vi-varit]
@@ -31,7 +31,7 @@ created: 2026-09-26
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-presens-perfekt]] — 这周还在进行 → har varit
+- → [[grammar-perfekt]] — 这周还在进行 → har varit
 - → [[grammar-v2-ordfoljd]] — 时间状语开头 → 动词第二位
 
 ## 变体 & 相关 (Variations & Related)

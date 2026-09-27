@@ -36,7 +36,7 @@ interval: 0
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: —
+- 词: [[vänta]]
 
 ## 来源 (Source)
 

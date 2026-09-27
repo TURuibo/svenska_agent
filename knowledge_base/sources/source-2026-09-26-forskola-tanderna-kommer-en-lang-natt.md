@@ -6,7 +6,7 @@ date: 2026-09-26
 words: [skrika, dregla, kindtand, framtand, tandsprickning, bitring, dos, vikt, bära, vagga, slut]
 phrases: [mitt-i-natten, röda-kinder, bita-på-allt, ligga-kvar, vara-på-väg, ur-kylen, känna-med-fingret, vara-någons-tur, efter-vikt, bära-i-famnen, fram-och-tillbaka, somna-om, pigg-som-vanligt, helt-slut, på-vilan, alvedon, blinka-lilla-stjärna]
 sentences: [sent-mitt-i-natten-klockan-två-vaknade, sent-ella-grät-och-dreglade, sent-hon-hade-röda-kinder-och-bet, sent-hon-var-gnällig-och-ville-inte, sent-jag-kände-med-fingret-i-hennes, sent-jo-där-var-något-hårt, sent-en-ny-kindtand-var-på-väg, sent-framtänderna-kom-redan-i-våras-och, sent-det-är-nog-tandsprickning-sa-lin, sent-jag-hämtade-en-kall-bitring-ur, sent-ella-bet-på-den-en-stund, sent-då-gav-vi-henne-alvedon, sent-vi-läste-på-förpackningen-och-gav, sent-sedan-bar-jag-henne-i-famnen, sent-jag-sjöng-blinka-lilla-stjärna-säkert, sent-klockan-halv-fyra-somnade-hon-om, sent-vid-sex-på-morgonen-vaknade-hon, sent-jag-var-helt-slut, sent-vid-lämningen-pratade-jag-med-anna, sent-hon-har-sovit-dåligt-i-natt, sent-det-är-tänderna-sa-jag, sent-jaha-stackars-liten, sent-vi-håller-koll-på-henne-sa, sent-hon-får-sova-lite-längre-på]
-grammar: [grammar-klockan-halv]
+grammar: [grammar-klockan-tidsuttryck]
 ---
 
 # Source: Tänderna kommer – en lång natt — 长牙了——漫长的一夜
@@ -109,4 +109,4 @@ Vid lämningen pratade jag med Anna.
 - [[sent-hon-får-sova-lite-längre-på]]
 
 ### 语法 (Grammar, 1)
-- [[grammar-klockan-halv]]
+- [[grammar-klockan-tidsuttryck]]

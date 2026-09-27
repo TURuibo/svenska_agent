@@ -4,7 +4,7 @@ sentence: "Ella är pigg igen och kommer i morgon, fredag."
 zh: "Ella 又精神了，明天（星期五）来。"
 cefr: "A1"
 words: [pigg, morgon]
-phrases: [vi-ses-i-morgon]
+phrases: [vi-ses-imorgon]
 grammar: [grammar-presens-for-framtid, grammar-adjektiv-kongruens]
 source: "source-2026-09-26-forskola-sjukanmalan-i-appen"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
@@ -31,7 +31,7 @@ created: "2026-09-26"
 ## 生词 & 词组 (Words & Phrases)
 
 - 词: [[pigg]] · [[morgon]]
-- 相关词组: [[vi-ses-i-morgon]]
+- 相关词组: [[vi-ses-imorgon]]
 - 用法: 销假消息 (friskanmälan) 的第一句。
 
 ## 来源 (Source)

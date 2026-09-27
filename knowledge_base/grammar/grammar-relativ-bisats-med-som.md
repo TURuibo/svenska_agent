@@ -71,3 +71,15 @@ vuxna  som  lyssnar  på deras berättelser
 
 - 📎 [[grammar-bisats-biff]] — 关系从句内部副词语序（BIFF规则）
 - 📎 [[grammar-bisats]] — 从句总览
+
+## 补充例句 (2026-09-26 · förskola 家长场景系列)
+
+> 合并自同主题笔记「📗 relativsats med som — som 引导的关系从句 (relative clause with som)」。
+
+- ✅ [[sent-barn-som-behöver-omsorg-de-veckorna]] 🇸🇪 Barn som behöver omsorg de veckorna går på förskolan Ekbacken. 🇨🇳 那几周需要托管的孩子去 Ekbacken 幼儿园。
+- ✅ [[sent-kom-ihåg-att-det-är-ni]] 🇸🇪 Kom ihåg att det är ni som vårdnadshavare som ansvarar för att schemat stämmer. 🇨🇳 请记住，确保时间表准确无误是你们作为监护人的责任。
+- ✅ 🇸🇪 Vi har en dotter som heter Ella. 🇨🇳 我们有个女儿叫 Ella。
+- ✅ 🇸🇪 Kläderna som hänger på kroken är Ellas. 🇨🇳 挂在钩子上的衣服是 Ella 的。
+- ✅ 🇸🇪 Det är en förskola (som) vi tycker mycket om. 🇨🇳 那是一所我们很喜欢的幼儿园。
+- ❌ *Barn som de behöver omsorg …* ← som 已是主语，不能再加 de
+- ❌ *Barn som behöver omsorg går de på …* ← 主句主语重复

@@ -5,7 +5,7 @@ zh: "Noah 在家没来幼儿园整整一周。"
 cefr: "A2"
 words: [vara, vecka]
 phrases: [hemma-från-förskolan]
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 source: "source-2026-09-26-forskola-sjukprat-mellan-foraldrar"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]]
+- 📌 [[grammar-perfekt]]
 
 - 📐 *har varit … en hel vecka*：presens perfekt + 时长，表示「已经……了一整周」，状态延续到现在。
 - 📌 *hemma från förskolan* 是固定说法：「在家（没去）幼儿园」，见 [[hemma-från-förskolan]]。

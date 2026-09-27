@@ -8,7 +8,7 @@ zh: "今天过得怎么样？"
 en: "How has the day been?"
 literal: "这一天一直是怎样的？"
 head_words: [dag]
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 related: [tack-för-idag, hur-har-natten-varit]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: []
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-presens-perfekt]] — har + supinum (varit)
+- → [[grammar-perfekt]] — har + supinum (varit)
 
 ## 变体 & 相关 (Variations & Related)
 

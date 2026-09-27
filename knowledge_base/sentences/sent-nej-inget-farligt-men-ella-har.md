@@ -5,7 +5,7 @@ zh: "没什么严重的，就是 Ella 有点发烧。"
 cefr: "A2"
 words: [farlig, feber]
 phrases: []
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 source: "source-2026-09-26-forskola-forskolan-ringer-ella-har-feber"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"

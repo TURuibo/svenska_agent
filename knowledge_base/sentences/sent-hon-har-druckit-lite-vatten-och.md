@@ -5,7 +5,7 @@ zh: "她喝了一点水，我们也在想办法让她再多喝一点。"
 cefr: "A2"
 words: [dricka, vatten, försöka, vätska]
 phrases: [få-i-sig-vätska]
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 source: "source-2026-09-26-forskola-forskolan-ringer-ella-har-feber"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"

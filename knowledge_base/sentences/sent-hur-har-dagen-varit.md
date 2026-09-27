@@ -5,7 +5,7 @@ zh: "今天过得怎么样？"
 cefr: "A1"
 words: [hur, dag, vara]
 phrases: [hur-har-dagen-varit]
-grammar: [grammar-presens-perfekt, grammar-frageord]
+grammar: [grammar-perfekt, grammar-frageord]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ Hur | har | dagen | varit?
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]]
+- 📌 [[grammar-perfekt]]
 - 📌 [[grammar-frageord]]
 - 📐 presens perfekt：*har + varit*（vara 的 supinum）。疑问词 *hur* 占第一位，助动词第二位，主语第三。
 

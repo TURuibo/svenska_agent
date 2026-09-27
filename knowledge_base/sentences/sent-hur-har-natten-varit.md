@@ -5,7 +5,7 @@ zh: "昨晚睡得怎么样？"
 cefr: "A1"
 words: [hur, natt, vara]
 phrases: [hur-har-natten-varit]
-grammar: [grammar-presens-perfekt, grammar-frageord]
+grammar: [grammar-perfekt, grammar-frageord]
 source: "source-2026-09-26-forskola-lamning-pa-morgonen"
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]] — har + varit：问「这一夜（到现在）是怎样的」
+- 📌 [[grammar-perfekt]] — har + varit：问「这一夜（到现在）是怎样的」
 - 📌 [[grammar-frageord]] — 疑问词 *hur* 在句首，动词紧随，主语第三
 
 ## 生词 & 词组 (Words & Phrases)

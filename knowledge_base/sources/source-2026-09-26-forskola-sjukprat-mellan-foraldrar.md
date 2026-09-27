@@ -120,4 +120,4 @@ Jonas: 那你们就打 1177，他们会给建议。不过你等着二月吧，�
 
 ### 语法 (Grammar)
 - 本篇新建：[[grammar-sedan-vs-i]]
-- 已有（仅链接）：[[grammar-presens-perfekt]], [[grammar-preteritum]], [[grammar-bisats-om]]
+- 已有（仅链接）：[[grammar-perfekt]], [[grammar-preteritum]], [[grammar-bisats-om]]

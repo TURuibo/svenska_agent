@@ -8,7 +8,7 @@ zh: "在窗口挥手"
 en: "wave from the window"
 literal: "挥手 在窗户里"
 head_words: [vinka, fönster]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [hej-då, kort-och-tydligt-avsked, avleda]
 topics: [topic-förskola-vardag]
 sentences: [sent-nu-går-vi-och-vinkar-i]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]
+- → [[grammar-bestämd-form]]
 
 ## 变体 & 相关 (Variations & Related)
 

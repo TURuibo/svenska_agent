@@ -9,7 +9,7 @@ en: "Found!"
 literal: "（被）找到的（= Den är hittad）"
 head_words: [hitta]
 grammar: [grammar-perfekt-particip]
-related: [någon-som-har-sett-…, tappa-bort, swishat]
+related: [någon-som-har-sett, tappa-bort, swishat]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-hittad]
 known: false
@@ -39,7 +39,7 @@ created: "2026-09-26"
 
 - 🔄 *Hittat!*（ett-ord）· *Hittade!*（复数）
 - 🔄 *Den är hittad.* — 完整句
-- 🔗 [[någon-som-har-sett-…]] · [[tappa-bort]] · [[swishat]]
+- 🔗 [[någon-som-har-sett]] · [[tappa-bort]] · [[swishat]]
 
 ## 例句 / 对话 (Examples)
 

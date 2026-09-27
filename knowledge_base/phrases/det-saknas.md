@@ -8,7 +8,7 @@ zh: "缺（某物）；少了"
 en: "there is … missing"
 literal: "它被缺少"
 head_words: [saknas]
-grammar: [grammar-deponens-verb]
+grammar: [grammar-deponensverb]
 related: [det-som-saknas, vara-slut]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-deponens-verb]] — saknas 是 s-动词（被动/无主动形）
+- → [[grammar-deponensverb]] — saknas 是 s-动词（被动/无主动形）
 
 ## 变体 & 相关 (Variations & Related)
 

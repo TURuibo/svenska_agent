@@ -8,7 +8,7 @@ zh: "有人看到……了吗？"
 en: "Has anyone seen …?"
 literal: "有谁看过……？（省略了开头的 Är det）"
 head_words: [se, hitta]
-grammar: [grammar-perfekt, grammar-relativsats-som]
+grammar: [grammar-perfekt, grammar-relativ-bisats-med-som]
 related: [hittad, tappa-bort]
 topics: [topic-förskola-vardag]
 sentences: [sent-någon-som-har-sett-en-blå]
@@ -32,7 +32,7 @@ created: "2026-09-26"
 ## 短语中的语法 (Grammar inside)
 
 - → [[grammar-perfekt]] — *har sett* = har + supinum
-- → [[grammar-relativsats-som]] — *någon som …* 关系从句
+- → [[grammar-relativ-bisats-med-som]] — *någon som …* 关系从句
 
 ## 变体 & 相关 (Variations & Related)
 

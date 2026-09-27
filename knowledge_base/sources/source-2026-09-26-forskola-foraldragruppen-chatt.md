@@ -5,7 +5,7 @@ source_label: "scenario — forskola-foraldragruppen-chatt (föräldragrupp i Wh
 date: 2026-09-26
 cefr: A2
 words: [lekträff, lekplats, present, avtackning, föräldragrupp, swisha, sluta]
-phrases: [någon-som-har-sett-…, hittad, toppen, grattis-till-lillasystern, häng-med, vi-kommer, samla-in-till, swishat, ställa-in, ses]
+phrases: [någon-som-har-sett, hittad, toppen, grattis-till-lillasystern, häng-med, vi-kommer, samla-in-till, swishat, ställa-in, ses]
 sentences: [sent-hej-alla, sent-någon-som-har-sett-en-blå, sent-olle-har-tappat-bort-den-på, sent-hittad, sent-den-låg-på-hyllan-vid-minas, sent-toppen-tack-amir, sent-mina-har-fått-en-lillasyster-i, sent-alla-mår-bra, sent-grattis-till-lillasystern, sent-grattis-vad-kul, sent-lekträff-på-lördag, sent-vi-går-till-lekplatsen-i-parken, sent-häng-med, sent-vi-kommer, sent-vi-hänger-med, sent-ses-där, sent-och-kom-ihåg-inga-bilder-på, sent-sara-slutar-nästa-vecka, sent-vi-samlar-in-till-en-present, sent-swishat, sent-påminnelse-planeringsdag-på-måndag-förskolan, sent-ok-tack, sent-ella-har-fått-feber-så-vi, sent-passar-söndag-samma-tid-i-stället, sent-ingen-fara-söndag-funkar, sent-krya-på-ella, sent-söndag-funkar-för-oss-också, sent-tack-ses-på-söndag]
 grammar: [grammar-perfekt-particip, grammar-ja-nej-fraga]
 topics: [topic-förskola-vardag, topic-föräldrasmåprat]
@@ -107,7 +107,7 @@ Ruibo：谢谢，周日见！
 [[vante]] · [[namnlapp]] · [[hylla]] · [[krok]] · [[lillasyster]] · [[park]] · [[feber]] · [[planeringsdag]] · [[påminnelse]] · [[helg]] · [[bild]] · [[funka]] · [[passa]] · [[hitta]] · [[stängd]] · [[tyvärr]] · [[ligga]] · [[grattis]] · [[senast]]
 
 ### 词组 (本篇新建)
-[[någon-som-har-sett-…]] · [[hittad]] · [[toppen]] · [[grattis-till-lillasystern]] · [[häng-med]] · [[vi-kommer]] · [[samla-in-till]] · [[swishat]] · [[ställa-in]] · [[ses]]
+[[någon-som-har-sett]] · [[hittad]] · [[toppen]] · [[grattis-till-lillasystern]] · [[häng-med]] · [[vi-kommer]] · [[samla-in-till]] · [[swishat]] · [[ställa-in]] · [[ses]]
 
 ### 词组 (已在库中 / 同批其它文件)
 [[tappa-bort]] · [[vad-kul]] · [[hänga-med]] · [[komma-ihåg]] · [[i-stället]] · [[ingen-fara]] · [[krya-på-dig]] · [[trevlig-helg]] · [[må-bra]] · [[i-natt]]

@@ -5,7 +5,7 @@ zh: "我要不要再待一会儿？"
 cefr: "A1"
 words: [stanna, stund]
 phrases: []
-grammar: [grammar-ja-nej-fragor, grammar-ska-infinitiv-forslag]
+grammar: [grammar-ja-nej-fraga, grammar-ska-infinitiv-forslag]
 source: "source-2026-09-26-forskola-lamning-pa-morgonen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-ja-nej-fragor]] — 助动词 *ska* 提到句首
+- 📌 [[grammar-ja-nej-fraga]] — 助动词 *ska* 提到句首
 - 📌 [[grammar-ska-infinitiv-forslag]] — *Ska jag …?* = 提议/询问「要不要我……？」
 
 ## 生词 & 词组 (Words & Phrases)

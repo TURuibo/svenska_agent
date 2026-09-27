@@ -8,7 +8,7 @@ zh: "昨晚睡得怎么样？"
 en: "How was the night?"
 literal: "这个夜晚是怎样的？"
 head_words: [natt, vara]
-grammar: [grammar-presens-perfekt, grammar-frageord]
+grammar: [grammar-perfekt, grammar-frageord]
 related: [hur-har-dagen-varit, hur-har-du-haft-det, sova-gott, sova-dåligt, i-natt]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-hur-har-natten-varit]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-presens-perfekt]]
+- → [[grammar-perfekt]]
 - → [[grammar-frageord]]
 
 ## 变体 & 相关 (Variations & Related)

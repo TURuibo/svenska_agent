@@ -5,7 +5,7 @@ zh: "门牙春天就已经长出来了，这回轮到臼齿了。"
 cefr: "A2"
 words: [framtand, kindtand, vår, tur]
 phrases: [vara-någons-tur]
-grammar: [grammar-genitiv-s, grammar-bestamd-form, grammar-v2-ordfoljd]
+grammar: [grammar-genitiv-s, grammar-bestämd-form, grammar-v2-ordfoljd]
 source: "source-2026-09-26-forskola-tanderna-kommer-en-lang-natt"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-genitiv-s]] — 定形复数 + s：*kindtändernas tur*。
-- 📌 [[grammar-bestamd-form]] — *framtänderna*（定形复数，umlaut：tand → tänder）。
+- 📌 [[grammar-bestämd-form]] — *framtänderna*（定形复数，umlaut：tand → tänder）。
 - 📌 [[grammar-v2-ordfoljd]] — 第二分句 *nu* 开头 → *var det* 倒装。
 - 📌 *i våras* = 今年春天（已过去），同类：*i somras, i vintras, i höstas*。
 

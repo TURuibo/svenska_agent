@@ -5,7 +5,7 @@ zh: "还有注意关门时间，我们五点半关门，所以要是会晚到，
 cefr: "A2"
 words: [tänka, stängningstid, stänga, ringa, bli, sen]
 phrases: [tänka-på, halv-sex, bli-sen]
-grammar: [grammar-imperativ, grammar-klockan-halv, grammar-bisats-om, grammar-adjektiv-kongruens]
+grammar: [grammar-imperativ, grammar-klockan-tidsuttryck, grammar-bisats-om, grammar-adjektiv-kongruens]
 source: "source-2026-09-26-forskola-jag-blir-sen-farmor-hamtar"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-imperativ]] — *tänk på…*, *ring alltid…* 两个祈使式
-- 📌 [[grammar-klockan-halv]] — *halv sex* = **5:30**（六点前半小时），不是 6:30
+- 📌 [[grammar-klockan-tidsuttryck]] — *halv sex* = **5:30**（六点前半小时），不是 6:30
 - 📌 [[grammar-bisats-om]] — *om ni blir sena* 条件从句
 - 📌 [[grammar-adjektiv-kongruens]] — *ni blir **sena***：主语复数 → 形容词加 -a
 

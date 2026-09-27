@@ -8,7 +8,7 @@ zh: "在名单上"
 en: "to be on the list"
 literal: "站在名单上"
 head_words: [stå, lista]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [lägga-till, lämna-ut]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]
+- → [[grammar-bestämd-form]]
 
 ## 变体 & 相关 (Variations & Related)
 

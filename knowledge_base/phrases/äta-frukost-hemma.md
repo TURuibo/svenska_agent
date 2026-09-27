@@ -8,7 +8,7 @@ zh: "在家吃早饭"
 en: "eat breakfast at home"
 literal: "吃早饭在家"
 head_words: [äta, frukost]
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 related: [få-egen-mat, äta-bra-av, smaka-på]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: [sent-har-hon-ätit-frukost-hemma-eller, sent-hon-har-ätit-gröt-hemma]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-presens-perfekt]]
+- → [[grammar-perfekt]]
 
 ## 变体 & 相关 (Variations & Related)
 

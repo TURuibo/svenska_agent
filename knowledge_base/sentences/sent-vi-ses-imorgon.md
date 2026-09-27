@@ -5,7 +5,7 @@ zh: "明天见！"
 cefr: "A1"
 words: [ses]
 phrases: [vi-ses-imorgon]
-grammar: [grammar-deponens-verb]
+grammar: [grammar-deponensverb]
 source: "source-2026-09-26-forskola-smaprat-i-hallen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-deponens-verb]]
+- 📌 [[grammar-deponensverb]]
 - ses 是相互 -s 形式：我们（互相）见。
 - imorgon 也写 i morgon，都对。
 

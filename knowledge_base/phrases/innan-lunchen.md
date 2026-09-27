@@ -8,7 +8,7 @@ zh: "午饭前"
 en: "before lunch"
 literal: "在（innan）午饭（lunchen, 定形）之前"
 head_words: [lunch]
-grammar: [grammar-bestamd-form, grammar-v2-ordfoljd, grammar-innan-tidsbisats]
+grammar: [grammar-bestämd-form, grammar-v2-ordfoljd, grammar-innan-tidsbisats]
 related: [efter-lunchen, före-klockan-åtta]
 topics: [topic-förskola-vardag]
 sentences: [sent-innan-lunchen-byter-vi-blöjor]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]
+- → [[grammar-bestämd-form]]
 - → [[grammar-v2-ordfoljd]]
 - → [[grammar-innan-tidsbisats]]（innan 接从句的用法）
 

@@ -5,7 +5,7 @@ zh: "她好多了，太好了！"
 cefr: "A2"
 words: [bra, må, bättre, vad]
 phrases: []
-grammar: [grammar-vad-utrop, grammar-bisats-att]
+grammar: [grammar-vad-utrop, grammar-att-bisats]
 source: "source-2026-09-26-forskola-sjukanmalan-i-appen"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-vad-utrop]] — `Vad + 形容词!` = 太…了！（Vad bra! Vad kul! Vad roligt!）
-- 📌 [[grammar-bisats-att]] — 后面用 att-从句说明高兴的内容，从句语序（主语 + 动词）。
+- 📌 [[grammar-att-bisats]] — 后面用 att-从句说明高兴的内容，从句语序（主语 + 动词）。
 
 ## 生词 & 词组 (Words & Phrases)
 

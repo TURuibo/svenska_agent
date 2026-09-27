@@ -9,7 +9,7 @@ en: "RSVP"
 literal: "om svar anhålles（请求回复）"
 head_words: []
 grammar: []
-related: [inga-presenter,-tack, varmt-välkomna, tacka-ja, tacka-nej]
+related: [inga-presenter-tack, varmt-välkomna, tacka-ja, tacka-nej]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-osa-senast-onsdag-7-oktober-via]
 known: false
@@ -36,7 +36,7 @@ created: "2026-09-26"
 
 - 🔄 `OSA senast den 7 oktober` — 最晚 10 月 7 日回复
 - 🔄 `Svara gärna senast …` — 同义、不用缩写
-- 🔗 [[inga-presenter,-tack]] · [[varmt-välkomna]] · [[tacka-ja]] · [[tacka-nej]]
+- 🔗 [[inga-presenter-tack]] · [[varmt-välkomna]] · [[tacka-ja]] · [[tacka-nej]]
 
 ## 例句 / 对话 (Examples)
 

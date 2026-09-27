@@ -5,9 +5,9 @@ source_label: "scenario — förskola: veckobrev från Solrosen vecka 40 (skolin
 date: 2026-09-26
 cefr: A2
 words: [veckobrev, tillbakablick, tema, peka, kropp, föräldramöte, fotografering, utflykt, lekpark, planeringsdag, påminnelse, lus, noga, kamma]
-phrases: [den-här-veckan, nästa-vecka, "huvud,-axlar,-knä-och-tå", peka-på, varmt-välkommen, vecka-40, utan-barn, anmäla-sig-i-appen, bjuda-på-fika, gå-på-utflykt, senast-klockan-9, vara-stängd, börja-bli-kallt, glöm-inte, märka-kläder-med-namnlappar, kamma-håret, inget-att-skämmas-för]
+phrases: [den-här-veckan, nästa-vecka, "huvud-axlar-knä-och-tå", peka-på, varmt-välkommen, vecka-40, utan-barn, anmäla-sig-i-appen, bjuda-på-fika, gå-på-utflykt, senast-klockan-9, vara-stängd, börja-bli-kallt, glöm-inte, märka-kläder-med-namnlappar, kamma-håret, inget-att-skämmas-för]
 sentences: [sent-hej-alla-föräldrar, sent-den-här-veckan-har-vi-varit, sent-barnen-hittade-en-stor-snigel-och, sent-just-nu-har-vi-temat-kroppen, sent-vi-sjunger-huvud-axlar-knä-och, sent-vi-har-också-fått-en-ny, sent-varmt-välkommen-mina, sent-tisdag-6-oktober-klockan-18-19, sent-anmäl-er-i-appen-senast-måndag, sent-vi-bjuder-på-fika, sent-onsdag-7-oktober-är-det-fotografering, sent-kom-gärna-i-rena-kläder, sent-torsdag-8-oktober-går-vi-på, sent-var-här-senast-klockan-9-vi, sent-fredag-9-oktober-har-vi-planeringsdag, sent-då-är-förskolan-stängd-hela-dagen, sent-nu-börjar-det-bli-kallt-ute, sent-glöm-inte-vantar-och-mössa, sent-fyll-på-med-extrakläder-i-lådan, sent-vi-har-haft-lus-på-avdelningen, sent-kamma-håret-noga-i-helgen, sent-det-är-inget-att-skämmas-för, sent-med-vänliga-hälsningar, sent-personalen-på-solrosen]
-grammar: [grammar-deponens-verb]
+grammar: [grammar-deponensverb]
 topics: [topic-förskola-vardag, topic-förskola-system, topic-sjukt-barn-och-vab, topic-barnets-utveckling]
 ---
 
@@ -79,7 +79,7 @@ Solrosen 全体教职员
 已有 / 同批其它篇创建（仅链接）：[[skog]] · [[gång]] · [[snigel]] · [[huvud]] · [[axel]] · [[knä]] · [[tå]] · [[näsa]] · [[mage]] · [[avdelning]] · [[anmäla]] · [[bjuda]] · [[ren]] · [[senast]] · [[stängd]] · [[stänga]] · [[vante]] · [[glömma]] · [[fylla]] · [[låda]] · [[märka]] · [[namnlapp]] · [[skämmas]] · [[personal]]
 
 ### 词组 (17, 本篇新建)
-[[den-här-veckan]] · [[nästa-vecka]] · [[huvud,-axlar,-knä-och-tå]] · [[peka-på]] · [[varmt-välkommen]] · [[vecka-40]] · [[utan-barn]] · [[anmäla-sig-i-appen]] · [[bjuda-på-fika]] · [[gå-på-utflykt]] · [[senast-klockan-9]] · [[vara-stängd]] · [[börja-bli-kallt]] · [[glöm-inte]] · [[märka-kläder-med-namnlappar]] · [[kamma-håret]] · [[inget-att-skämmas-för]]
+[[den-här-veckan]] · [[nästa-vecka]] · [[huvud-axlar-knä-och-tå]] · [[peka-på]] · [[varmt-välkommen]] · [[vecka-40]] · [[utan-barn]] · [[anmäla-sig-i-appen]] · [[bjuda-på-fika]] · [[gå-på-utflykt]] · [[senast-klockan-9]] · [[vara-stängd]] · [[börja-bli-kallt]] · [[glöm-inte]] · [[märka-kläder-med-namnlappar]] · [[kamma-håret]] · [[inget-att-skämmas-för]]
 
 已有（仅链接）：[[hej-alla-föräldrar]] · [[just-nu]] · [[fylla-på]] · [[trevlig-helg]] · [[med-vänliga-hälsningar]]
 
@@ -89,9 +89,9 @@ Solrosen 全体教职员
 已有：[[sent-trevlig-helg]]
 
 ### 语法 (1 新建)
-[[grammar-deponens-verb]]
+[[grammar-deponensverb]]
 
-已有（仅链接）：[[grammar-presens-perfekt]] · [[grammar-preteritum]] · [[grammar-imperativ]] · [[grammar-v2-ordfoljd]] · [[grammar-adjektiv-kongruens]]
+已有（仅链接）：[[grammar-perfekt]] · [[grammar-preteritum]] · [[grammar-imperativ]] · [[grammar-v2-ordfoljd]] · [[grammar-adjektiv-kongruens]]
 
 ### 主题
 [[topic-förskola-vardag]] · [[topic-förskola-system]] · [[topic-sjukt-barn-och-vab]] · [[topic-barnets-utveckling]]

@@ -8,7 +8,7 @@ zh: "在屋檐下"
 en: "under the roof (canopy)"
 literal: "在（under）屋顶（taket, 定形）下"
 head_words: [tak, under]
-grammar: [grammar-bestamd-form, grammar-prepositioner-rum]
+grammar: [grammar-bestämd-form, grammar-prepositioner-rum]
 related: [sova-ute-i-vagn]
 topics: [topic-förskola-vardag]
 sentences: [sent-barnen-sover-ute-i-sina-barnvagnar]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]（介词后的定形）
+- → [[grammar-bestämd-form]]（介词后的定形）
 - → [[grammar-prepositioner-rum]]
 
 ## 变体 & 相关 (Variations & Related)

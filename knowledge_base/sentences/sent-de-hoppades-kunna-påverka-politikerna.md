@@ -3,7 +3,7 @@ type: sentence
 sentence: "De hoppades kunna påverka politikerna att ändra lagen men tyvärr hände något som satte stopp för deras kamp."
 zh: "她们希望能促使政客修改法律，但不幸的是，出了一件事让她们的斗争中断了。"
 cefr: "B1"
-words: [påverka, politiker, lag, tyvärr, hända, stopp, kamp]
+words: [hoppas, påverka, politiker, lag, tyvärr, hända, stopp, kamp]
 phrases: [sätta-stopp-för]
 grammar: [grammar-relativ-bisats-med-som]
 source: "source-2026-08-06-elin-wagner"
@@ -32,7 +32,7 @@ De   hoppades kunna påverka politikerna att ändra lagen   men   tyvärr   hän
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[påverka]], [[politiker]], [[lag]], [[tyvärr]], [[hända]], [[stopp]], [[kamp]]
+- 词: [[hoppas]], [[påverka]], [[politiker]], [[lag]], [[tyvärr]], [[hända]], [[stopp]], [[kamp]]
 - 词组: [[sätta-stopp-för]]
 
 ## 来源 (Source)

@@ -9,7 +9,7 @@ en: have a nice weekend
 literal: 愉快的 + 周末
 head_words: [trevlig, helg]
 grammar: []
-related: [ha-en-fin-eftermiddag, tack,-detsamma, hej-då]
+related: [ha-en-fin-eftermiddag, tack-detsamma, hej-då]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-trevlig-helg]
 known: false
@@ -35,7 +35,7 @@ created: 2026-09-26
 ## 变体 & 相关 (Variations & Related)
 
 - 🔄 Ha en trevlig helg! · Trevlig kväll! · God helg!
-- 🔗 [[ha-en-fin-eftermiddag]] · [[tack,-detsamma]] · [[hej-då]]
+- 🔗 [[ha-en-fin-eftermiddag]] · [[tack-detsamma]] · [[hej-då]]
 
 ## 例句 / 对话 (Examples)
 

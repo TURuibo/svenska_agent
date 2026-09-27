@@ -4,7 +4,7 @@ name: "Klockan — tidsuttryck"
 zh: "时钟时间表达（klockan X, halv, kvart i, kvart över）"
 en: "telling the time (klockan X, halv, kvart i, kvart över)"
 level: "SFI B / CEFR A1"
-related: [grammar-klockan-halv, grammar-klockslag-kvart, grammar-datum-och-tid, grammar-tidsprepositioner, grammar-v2-ordfoljd]
+related: [grammar-klockan-tidsuttryck, grammar-datum-och-tid, grammar-tidsprepositioner, grammar-v2-ordfoljd]
 examples: [sent-vi-öppnar-klockan-halv-sju, sent-klockan-halv-åtta-äter-vi-frukost, sent-barnen-ska-lämnas-senast-klockan-åtta, sent-klockan-nio-har-vi-samling, sent-klockan-elva-äter-vi-lunch, sent-barnen-sover-ute-i-sina-barnvagnar, sent-halv-tre-är-det-mellanmål-frukt, sent-föräldrarna-börjar-hämta-klockan-tre-och]
 known: false
 created: "2026-09-26"
@@ -73,8 +73,28 @@ created: "2026-09-26"
 
 ## 相关语法 (Related)
 
-- 📎 [[grammar-klockan-halv]]（halv 专题）
-- 📎 [[grammar-klockslag-kvart]]（kvart i / över 专题）
+- 📎 [[grammar-klockan-tidsuttryck]]（halv 专题）
+- 📎 [[grammar-klockan-tidsuttryck]]（kvart i / över 专题）
 - 📎 [[grammar-datum-och-tid]]
 - 📎 [[grammar-tidsprepositioner]]
 - 📎 [[grammar-v2-ordfoljd]]
+
+## 补充例句 (2026-09-26 · förskola 家长场景系列)
+
+> 合并自同主题笔记「📗 klockan halv — 钟点表达 halv (telling time with *halv*)」。
+
+- ✅ [[sent-klockan-halv-fyra-somnade-hon-om]] 🇸🇪 Klockan halv fyra somnade hon om. 🇨🇳 三点半，她重新睡着了。
+- ✅ [[sent-mitt-i-natten-klockan-två-vaknade]] 🇸🇪 Mitt i natten, klockan två, vaknade Ella och skrek. 🇨🇳 半夜两点，Ella 醒了，大哭大叫。
+- ✅ [[sent-vid-sex-på-morgonen-vaknade-hon]] 🇸🇪 Vid sex på morgonen vaknade hon igen. 🇨🇳 早上六点她又醒了。
+- ✅ 🇸🇪 Förskolan öppnar halv sju. 🇨🇳 幼儿园六点半开门。
+- ❌ *halv fyra* = 4:30 ← 常见错误（差一小时）
+
+## 补充例句 (2026-09-26 · förskola 家长场景系列)
+
+> 合并自同主题笔记「📗 klockslag-kvart — 钟点表达 kvart över / kvart i (telling time with quarter past / quarter to)」。
+
+- ✅ [[sent-hon-sov-från-kvart-över-tolv]] 🇸🇪 Hon sov från kvart över tolv till kvart i två ute i vagnen. 🇨🇳 她从十二点一刻睡到差一刻两点。
+- ✅ 🇸🇪 Klockan är tjugo i fyra och det är hämtning. 🇨🇳 三点四十，到了接园时间。
+- ✅ 🇸🇪 Vi äter lunch kvart över elva. 🇨🇳 我们十一点一刻吃午饭。
+- ✅ 🇸🇪 Jag hämtar henne kvart i fyra. 🇨🇳 我差一刻四点接她。
+- ❌ *kvart i två* = 2:15 ← 常见错误（正确是 1:45）

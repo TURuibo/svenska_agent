@@ -3,7 +3,7 @@ type: sentence
 sv: "Det är farligt, framför allt för barn och äldre."
 cn: "这很危险，尤其对儿童和老人。"
 grammar: []
-words: [farlig, äldre]
+words: [farlig, äldre, barn]
 phrases: []
 topics: [topic-samhalle]
 sources: [source-2026-06-29-insandare-fler-cykelvagar]

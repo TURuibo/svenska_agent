@@ -5,7 +5,7 @@ zh: "我们还迎来了一位新朋友——Mina 开始来我们班了。"
 cefr: "A2"
 words: [ny, kompis, börja, hos]
 phrases: []
-grammar: [grammar-presens-perfekt, grammar-satsadverbial]
+grammar: [grammar-perfekt, grammar-satsadverbial]
 source: "source-2026-09-26-forskola-veckobrev-fran-solrosen"
 topics: [topic-förskola-vardag]
 created: 2026-09-26
@@ -24,7 +24,7 @@ Vi  | har | också  | fått  | en ny kompis  –  Mina | har | börjat | hos oss
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]] — har fått / har börjat：新近发生且现在仍有效的变化
+- 📌 [[grammar-perfekt]] — har fått / har börjat：新近发生且现在仍有效的变化
 - 📌 [[grammar-satsadverbial]] — också 放在助动词 har 之后、supinum 之前
 
 ## 生词 & 词组 (Words & Phrases)

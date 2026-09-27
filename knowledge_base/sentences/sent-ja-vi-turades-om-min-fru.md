@@ -5,7 +5,7 @@ zh: "是啊，我和我太太轮流来。"
 cefr: "A2"
 words: [fru]
 phrases: [turas-om]
-grammar: [grammar-preteritum, grammar-deponens-verb]
+grammar: [grammar-preteritum, grammar-deponensverb]
 source: "source-2026-09-26-forskola-sjukprat-mellan-foraldrar"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-preteritum]]
-- 📌 [[grammar-deponens-verb]]
+- 📌 [[grammar-deponensverb]]
 
 - 📐 *turas om* 是 deponens partikelverb：*turas om / turades om / turats om*，永远带 -s。
 - 📌 *min fru och jag* 放在句尾补充说明 *vi* 是谁，口语常见。⚠️ 瑞典语习惯把「我」放最后：*min fru och jag*。

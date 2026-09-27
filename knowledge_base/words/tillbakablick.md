@@ -50,5 +50,5 @@ created: "2026-09-26"
 ## 用法提示 (Usage Notes)
 
 - 常作周信/报告的小标题；对应英语 “Looking back”。
-- 回顾段落里动词多用 presens perfekt（har varit / har fått），见 [[grammar-presens-perfekt]]。
+- 回顾段落里动词多用 presens perfekt（har varit / har fått），见 [[grammar-perfekt]]。
 - 来源: [[source-2026-09-26-forskola-veckobrev-fran-solrosen]]

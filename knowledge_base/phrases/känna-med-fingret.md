@@ -8,7 +8,7 @@ zh: "用手指摸"
 en: "to feel with a finger"
 literal: "用手指感觉"
 head_words: [finger]
-grammar: [grammar-bestamd-form]
+grammar: [grammar-bestämd-form]
 related: [få-tänder]
 topics: [topic-förskola-vardag]
 sentences: [sent-jag-kände-med-fingret-i-hennes]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bestamd-form]]
+- → [[grammar-bestämd-form]]
 
 ## 变体 & 相关 (Variations & Related)
 

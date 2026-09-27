@@ -5,7 +5,7 @@ zh: "她在家吃过早饭了，还是在这儿吃？"
 cefr: "A1"
 words: [äta, frukost]
 phrases: [äta-frukost-hemma]
-grammar: [grammar-ja-nej-fragor, grammar-presens-perfekt, grammar-ska-infinitiv]
+grammar: [grammar-ja-nej-fraga, grammar-perfekt, grammar-ska-infinitiv]
 source: "source-2026-09-26-forskola-lamning-pa-morgonen"
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,8 +24,8 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-ja-nej-fragor]] — 两个是非问句：动词提到句首（*Har hon…? Ska hon…?*）
-- 📌 [[grammar-presens-perfekt]] — *har ätit*：已经吃过
+- 📌 [[grammar-ja-nej-fraga]] — 两个是非问句：动词提到句首（*Har hon…? Ska hon…?*）
+- 📌 [[grammar-perfekt]] — *har ätit*：已经吃过
 - 📌 [[grammar-ska-infinitiv]] — *ska äta*：将要吃
 
 ## 生词 & 词组 (Words & Phrases)

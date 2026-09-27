@@ -5,7 +5,7 @@ zh: "有什么我需要带的吗？"
 cefr: "A2"
 words: []
 phrases: [ta-med]
-grammar: [grammar-ja-nej-fraga, grammar-relativsats-som, grammar-modalt-hjalpverb-infinitiv]
+grammar: [grammar-ja-nej-fraga, grammar-relativ-bisats-med-som, grammar-modalt-hjalpverb-infinitiv]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-ja-nej-fraga]]
-- 📌 [[grammar-relativsats-som]]
+- 📌 [[grammar-relativ-bisats-med-som]]
 - 📌 [[grammar-modalt-hjalpverb-infinitiv]]
 - 📐 关系从句中 *som* 作宾语时可省略：*något (som) jag behöver ta med*。*behöver + 不定式* 不加 att。
 

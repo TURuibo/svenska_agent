@@ -8,7 +8,7 @@ zh: "记住…"
 en: "remember that"
 literal: "来 在记忆里 …"
 head_words: []
-grammar: [grammar-imperativ, grammar-partikelverb, grammar-bisats-att]
+grammar: [grammar-imperativ, grammar-partikelverb, grammar-att-bisats]
 related: [komma-ihåg, glöm-inte, tänka-på, påminnelse]
 topics: [topic-förskola-vardag]
 sentences: [sent-kom-ihåg-att-det-är-ni]
@@ -34,7 +34,7 @@ created: "2026-09-26"
 
 - 祈使式 → [[grammar-imperativ]]
 - 可分动词 *komma ihåg* → [[grammar-partikelverb]]
-- 后接 att-从句 → [[grammar-bisats-att]]
+- 后接 att-从句 → [[grammar-att-bisats]]
 
 ## 变体 & 相关 (Variations & Related)
 

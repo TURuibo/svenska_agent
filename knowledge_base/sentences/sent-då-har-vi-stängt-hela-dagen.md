@@ -5,7 +5,7 @@ zh: "那两天我们全天关门。"
 cefr: "A1"
 words: [stängd, dag]
 phrases: [ha-stängt-hela-dagen]
-grammar: [grammar-v2-ordfoljd, grammar-bestamd-form]
+grammar: [grammar-v2-ordfoljd, grammar-bestämd-form]
 source: "source-2026-09-26-forskola-schema-semester-och-stangda-dagar"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-v2-ordfoljd]] — *Då*（那时）占句首 → **har vi** 倒装。
-- 📌 [[grammar-bestamd-form]] — *hela dagen*：hela + 定式。
+- 📌 [[grammar-bestämd-form]] — *hela dagen*：hela + 定式。
 - 📌 *då* 回指上一句的日期（教研日）；不是 *sedan*。
 
 ## 生词 & 词组 (Words & Phrases)

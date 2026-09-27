@@ -9,7 +9,7 @@ en: "offer fika; treat (someone) to coffee and cake"
 literal: "在 fika 上请客"
 head_words: [bjuda, fika]
 grammar: [grammar-partikelverb]
-related: [bjuda-på, vill-du-ha-…, ja-tack,-gärna]
+related: [bjuda-på, vill-du-ha, ja-tack-gärna]
 topics: [topic-förskola-vardag]
 sentences: [sent-vi-bjuder-på-fika]
 known: false
@@ -36,7 +36,7 @@ created: 2026-09-26
 ## 变体 & 相关 (Variations & Related)
 
 - 🔄 det bjuds på fika（被动："有提供 fika"）/ fika ingår
-- 🔗 [[bjuda-på]] · [[vill-du-ha-…]] · [[ja-tack,-gärna]]
+- 🔗 [[bjuda-på]] · [[vill-du-ha]] · [[ja-tack-gärna]]
 
 ## 例句 / 对话 (Examples)
 

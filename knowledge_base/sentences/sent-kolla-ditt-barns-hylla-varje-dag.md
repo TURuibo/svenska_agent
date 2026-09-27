@@ -5,7 +5,7 @@ zh: "每天看一下你孩子的格子，把缺的补上。"
 cefr: "A2"
 words: [kolla, barn, hylla, dag, fylla, saknas]
 phrases: [fylla-på, det-som-saknas]
-grammar: [grammar-imperativ, grammar-partikelverb, grammar-relativsats-som, grammar-genitiv-s]
+grammar: [grammar-imperativ, grammar-partikelverb, grammar-relativ-bisats-med-som, grammar-genitiv-s]
 source: "source-2026-09-26-forskola-packlista-klader-for-alla-vader"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -26,7 +26,7 @@ Kolla   ditt barns hylla   varje dag   och   fyll på   det som saknas
 
 - 📌 [[grammar-imperativ]] — 两个祈使式并列：*kolla!*（v.1 保留 -a）、*fyll!*（v.2 去 -er）
 - 📌 [[grammar-partikelverb]] — *fylla på* 小品词重读，宾语放小品词后
-- 📌 [[grammar-relativsats-som]] — *det som saknas* = 缺的东西
+- 📌 [[grammar-relativ-bisats-med-som]] — *det som saknas* = 缺的东西
 - 📌 [[grammar-genitiv-s]] — *ditt barns hylla*
 
 ## 生词 & 词组 (Words & Phrases)

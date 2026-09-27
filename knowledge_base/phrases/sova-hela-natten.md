@@ -8,7 +8,7 @@ zh: "睡整夜"
 en: "sleep through the night"
 literal: "睡整个夜晚"
 head_words: [sova, natt]
-grammar: [grammar-ja-nej-fragor]
+grammar: [grammar-ja-nej-fraga]
 related: [få-tänder, sluta-med-nappen]
 topics: [topic-förskola-vardag, topic-småbarn-mat-och-sömn]
 sentences: [sent-sover-han-hela-natten, sent-nej-han-vaknar-två-gånger-det]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-ja-nej-fragor]]
+- → [[grammar-ja-nej-fraga]]
 
 ## 变体 & 相关 (Variations & Related)
 

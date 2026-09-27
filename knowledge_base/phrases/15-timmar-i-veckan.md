@@ -8,7 +8,7 @@ zh: "每周 15 小时"
 en: "15 hours a week"
 literal: "15 小时 在 周（定式）"
 head_words: [timme, vecka]
-grammar: [grammar-bestamd-form, grammar-plural-substantiv]
+grammar: [grammar-bestämd-form, grammar-plural-substantiv]
 related: [allmän-förskola, föräldraledig, arbetssökande, en-gång-per-år]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-är-ni-föräldralediga-eller-arbetssökande-får]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- *i veckan* 定式表"每…" → [[grammar-bestamd-form]]
+- *i veckan* 定式表"每…" → [[grammar-bestämd-form]]
 - 数字后名词复数 *timmar* → [[grammar-plural-substantiv]]
 
 ## 变体 & 相关 (Variations & Related)

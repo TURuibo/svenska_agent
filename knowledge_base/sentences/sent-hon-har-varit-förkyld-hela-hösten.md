@@ -5,7 +5,7 @@ zh: "她整个秋天都在感冒——我们已经 vab 了六天。"
 cefr: "A2"
 words: [vara, förkyld, höst, vabba, dag]
 phrases: []
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 source: "source-2026-09-26-forskola-sjukprat-mellan-foraldrar"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"
@@ -24,7 +24,7 @@ created: "2026-09-26"
 
 ## 语法点 (Grammar)
 
-- 📌 [[grammar-presens-perfekt]]
+- 📌 [[grammar-perfekt]]
 
 - 📐 两个 presens perfekt：*har varit förkyld*、*har vabbat*，都表示从过去持续/累积到现在。
 - 📐 *redan* 放在助动词 *har* 和 supinum *vabbat* 之间。

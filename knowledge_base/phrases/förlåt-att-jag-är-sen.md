@@ -8,7 +8,7 @@ zh: "抱歉我迟到了"
 en: "sorry I'm late"
 literal: "原谅（我）我是晚的"
 head_words: [förlåt, sen]
-grammar: [grammar-bisats-att]
+grammar: [grammar-att-bisats]
 related: [bli-sen, det-gör-ingenting]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: []
@@ -31,7 +31,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bisats-att]]
+- → [[grammar-att-bisats]]
 
 ## 变体 & 相关 (Variations & Related)
 

@@ -5,7 +5,7 @@ zh: "尿布快用完了，备用衣物里少了一只袜子。"
 cefr: "A2"
 words: [blöja, nästan, saknas, strumpa, extrakläder]
 phrases: [vara-slut, det-saknas]
-grammar: [grammar-bestämd-form, grammar-deponens-verb]
+grammar: [grammar-bestämd-form, grammar-deponensverb]
 source: "source-2026-09-26-forskola-hamtning-hur-har-dagen-varit"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ Blöjorna är nästan slut, | och | det saknas en strumpa | i extrakläderna.
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-bestämd-form]]
-- 📌 [[grammar-deponens-verb]]
+- 📌 [[grammar-deponensverb]]
 - 📐 *slut* 在 *vara slut* 里不变形。*saknas* 是 s-动词（deponens）：*det saknas + 不定式名词* = 「缺一个…」。
 
 ## 生词 & 词组 (Words & Phrases)

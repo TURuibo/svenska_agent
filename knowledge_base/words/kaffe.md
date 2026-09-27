@@ -31,7 +31,7 @@ created: "2026-09-26"
 
 ## 词组搭配 (Collocations)
 
-- `Vill du ha kaffe?` — 你要喝咖啡吗？ → see [[vill-du-ha-…]]
+- `Vill du ha kaffe?` — 你要喝咖啡吗？ → see [[vill-du-ha]]
 - `en kopp kaffe` — 一杯咖啡 → see [[en-kopp-kaffe]]
 - `mjölk i kaffet` — 咖啡里加奶 → see [[mjölk-i]]
 - `dricka / koka kaffe` — 喝 / 煮咖啡；`fika` = 咖啡+点心的休息 → see [[fika]]

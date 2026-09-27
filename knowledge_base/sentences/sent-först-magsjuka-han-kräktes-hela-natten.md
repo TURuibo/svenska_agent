@@ -5,7 +5,7 @@ zh: "先是肠胃炎，他吐了一整夜。"
 cefr: "A2"
 words: [först, magsjuka, kräkas, natt]
 phrases: []
-grammar: [grammar-preteritum, grammar-deponens-verb]
+grammar: [grammar-preteritum, grammar-deponensverb]
 source: "source-2026-09-26-forskola-sjukprat-mellan-foraldrar"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-preteritum]]
-- 📌 [[grammar-deponens-verb]]
+- 📌 [[grammar-deponensverb]]
 
 - 📐 *kräkas* 是 deponens 动词，所有形式都带 -s：*kräks / kräktes / kräkts*。这里 *kräktes* 是 preteritum。
 - 📌 *Först magsjuka* 是口语省略（= *Först var det magsjuka*），列举病程时常这样说。

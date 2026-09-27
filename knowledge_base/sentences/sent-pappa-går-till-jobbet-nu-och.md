@@ -5,7 +5,7 @@ zh: "爸爸现在去上班，妈妈下午来接你。"
 cefr: "A1"
 words: [pappa, jobb, mamma, hämta, eftermiddag]
 phrases: [gå-till-jobbet]
-grammar: [grammar-presens-for-framtid, grammar-bestamd-form, grammar-tidsadverbial]
+grammar: [grammar-presens-for-framtid, grammar-bestämd-form, grammar-tidsadverbial]
 source: "source-2026-09-26-forskola-lamning-pa-morgonen"
 topics: [topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-presens-for-framtid]] — presens 表马上/今天下午的事
-- 📌 [[grammar-bestamd-form]] — *till jobbet* 固定用定冠词
+- 📌 [[grammar-bestämd-form]] — *till jobbet* 固定用定冠词
 - 📌 [[grammar-tidsadverbial]] — *i eftermiddag* = 今天下午
 
 ## 生词 & 词组 (Words & Phrases)

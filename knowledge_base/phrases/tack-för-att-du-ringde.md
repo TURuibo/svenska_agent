@@ -8,7 +8,7 @@ zh: "谢谢你打电话来"
 en: "thanks for calling"
 literal: "谢谢因为你打了电话"
 head_words: [ringa]
-grammar: [grammar-bisats-att, grammar-tack-för-att-perfekt]
+grammar: [grammar-att-bisats, grammar-tack-för-att-perfekt]
 related: [tack-för-idag, tack-för-tipsen, tack-för-att-ni-sa-till, ingen-fara]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-tack-för-att-du-ringde-sara]
@@ -30,7 +30,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-bisats-att]]
+- → [[grammar-att-bisats]]
 - → [[grammar-tack-för-att-perfekt]]
 
 ## 变体 & 相关 (Variations & Related)

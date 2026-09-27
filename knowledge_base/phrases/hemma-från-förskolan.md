@@ -8,7 +8,7 @@ zh: "没去幼儿园在家"
 en: "home from preschool"
 literal: "在家 + 从幼儿园（离开）"
 head_words: [förskola]
-grammar: [grammar-presens-perfekt]
+grammar: [grammar-perfekt]
 related: [stanna-hemma, det-blir-vab]
 topics: [topic-förskola-vardag]
 sentences: [sent-noah-har-varit-hemma-från-förskolan]
@@ -31,7 +31,7 @@ created: "2026-09-26"
 
 ## 短语中的语法 (Grammar inside)
 
-- → [[grammar-presens-perfekt]]：*har varit hemma från förskolan en vecka*（持续到现在）。
+- → [[grammar-perfekt]]：*har varit hemma från förskolan en vecka*（持续到现在）。
 
 ## 变体 & 相关 (Variations & Related)
 

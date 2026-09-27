@@ -6,7 +6,7 @@ date: 2026-09-26
 words: [förskollärare, småbarnsavdelning, dagsrytm, öppna, stänga, namnsång, ute, matsedel, specialkost, kloss, olika, pussel, rita, fil]
 phrases: [oavsett-väder, senast-klockan-åtta, först-…-sedan-…-till-sist, under-taket, byta-blöja, lägga-pussel, bygga-med-klossar, ha-samling, skriva-i-appen, efter-lunchen, efter-vilan, få-egen-mat, så-här-ser-…-ut, kvart-i-tolv, hur-länge, innan-lunchen]
 sentences: [sent-jag-heter-anna-och-är-förskollärare, sent-där-går-ella-olle-och-sara, sent-så-här-ser-vår-dagsrytm-ut, sent-vi-öppnar-klockan-halv-sju, sent-klockan-halv-åtta-äter-vi-frukost, sent-barnen-ska-lämnas-senast-klockan-åtta, sent-klockan-nio-har-vi-samling, sent-först-sjunger-vi-namnsången, sent-sedan-tittar-vi-på-bilder-och, sent-efter-samlingen-är-det-utevistelse-på, sent-innan-lunchen-byter-vi-blöjor, sent-klockan-elva-äter-vi-lunch, sent-idag-är-det-köttbullar, sent-veckans-matsedel-hänger-i-hallen, sent-barn-med-specialkost-får-egen-mat, sent-efter-lunchen-är-det-sovvila, sent-barnen-sover-ute-i-sina-barnvagnar, sent-olika-barn-sover-olika-länge, sent-efter-vilan-skriver-vi-i-appen, sent-på-eftermiddagen-leker-vi-inne, sent-vi-bygger-med-klossar-lägger-pussel, sent-halv-tre-är-det-mellanmål-frukt, sent-till-sist-går-vi-ut-igen, sent-föräldrarna-börjar-hämta-klockan-tre-och]
-grammar: [grammar-bestamd-form, grammar-indirekt-fraga, grammar-klockan-tidsuttryck]
+grammar: [grammar-bestämd-form, grammar-indirekt-fraga, grammar-klockan-tidsuttryck]
 ---
 
 # Source: En vanlig dag på Solrosen — Solrosen 小班的普通一天
@@ -48,7 +48,7 @@ På eftermiddagen leker vi inne. Vi bygger med klossar, lägger pussel, ritar, m
 - ⚠️ **halv sju = 6:30**（halv = 到下一整点差半小时）；kvart i tolv = 11:45，kvart över tolv = 12:15 → [[grammar-klockan-tidsuttryck]]
 - 📐 时间状语开头 → 动词第二位：*Klockan nio **har** vi samling.* → [[grammar-v2-ordfoljd]]
 - 📐 s-被动：*Barnen ska **lämnas** senast klockan åtta.* → [[grammar-s-passiv]]；lämna（送园）↔ hämta（接园）
-- 📌 efter/innan + **定形**（efter lunchen, efter vilan）；日程用 *det är + 活动* → [[grammar-bestamd-form]]
+- 📌 efter/innan + **定形**（efter lunchen, efter vilan）；日程用 *det är + 活动* → [[grammar-bestämd-form]]
 - 📐 间接疑问句不倒装：*hur länge barnet har sovit / om vi har bytt blöja* → [[grammar-indirekt-fraga]]
 
 ## 提取条目 (Extracted)
@@ -65,7 +65,7 @@ På eftermiddagen leker vi inne. Vi bygger med klossar, lägger pussel, ritar, m
 [[sent-jag-heter-anna-och-är-förskollärare]] · [[sent-där-går-ella-olle-och-sara]] · [[sent-så-här-ser-vår-dagsrytm-ut]] · [[sent-vi-öppnar-klockan-halv-sju]] · [[sent-klockan-halv-åtta-äter-vi-frukost]] · [[sent-barnen-ska-lämnas-senast-klockan-åtta]] · [[sent-klockan-nio-har-vi-samling]] · [[sent-först-sjunger-vi-namnsången]] · [[sent-sedan-tittar-vi-på-bilder-och]] · [[sent-efter-samlingen-är-det-utevistelse-på]] · [[sent-innan-lunchen-byter-vi-blöjor]] · [[sent-klockan-elva-äter-vi-lunch]] · [[sent-idag-är-det-köttbullar]] · [[sent-veckans-matsedel-hänger-i-hallen]] · [[sent-barn-med-specialkost-får-egen-mat]] · [[sent-efter-lunchen-är-det-sovvila]] · [[sent-barnen-sover-ute-i-sina-barnvagnar]] · [[sent-olika-barn-sover-olika-länge]] · [[sent-efter-vilan-skriver-vi-i-appen]] · [[sent-på-eftermiddagen-leker-vi-inne]] · [[sent-vi-bygger-med-klossar-lägger-pussel]] · [[sent-halv-tre-är-det-mellanmål-frukt]] · [[sent-till-sist-går-vi-ut-igen]] · [[sent-föräldrarna-börjar-hämta-klockan-tre-och]]
 
 ### 语法 (3 新建 + 3 已有)
-新建：[[grammar-bestamd-form]] · [[grammar-indirekt-fraga]] · [[grammar-klockan-tidsuttryck]]
+新建：[[grammar-bestämd-form]] · [[grammar-indirekt-fraga]] · [[grammar-klockan-tidsuttryck]]
 已有：[[grammar-presens]] · [[grammar-v2-ordfoljd]] · [[grammar-s-passiv]]
 
 ### 主题

@@ -133,6 +133,6 @@ E: 好，明天见！Ella 再见！晚上愉快！
 ### 语法 (Grammar, 已存在 — 仅链接)
 - [[grammar-genitiv-s]]
 - [[grammar-v2-ordfoljd]]
-- [[grammar-ja-nej-fragor]]
+- [[grammar-ja-nej-fraga]]
 - [[grammar-preteritum]]
 - [[grammar-perfekt]]

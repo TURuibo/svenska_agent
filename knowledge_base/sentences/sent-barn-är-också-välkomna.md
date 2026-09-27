@@ -3,7 +3,7 @@ type: sentence
 sentence: "Barn är också välkomna!"
 zh: "也欢迎带小朋友一起来！"
 cefr: "A1"
-words: [välkommen]
+words: [barn, välkommen]
 phrases: []
 grammar: []
 source: "source-2026-07-03-inbjudan-kalas"

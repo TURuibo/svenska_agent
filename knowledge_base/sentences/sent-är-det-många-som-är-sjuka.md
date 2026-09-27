@@ -5,7 +5,7 @@ zh: "现在生病的孩子多吗？"
 cefr: "A2"
 words: [sjuk]
 phrases: [just-nu]
-grammar: [grammar-ja-nej-fraga, grammar-relativsats-som]
+grammar: [grammar-ja-nej-fraga, grammar-relativ-bisats-med-som]
 source: "source-2026-09-26-forskola-sjukprat-mellan-foraldrar"
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 created: "2026-09-26"
@@ -25,7 +25,7 @@ created: "2026-09-26"
 ## 语法点 (Grammar)
 
 - 📌 [[grammar-ja-nej-fraga]]
-- 📌 [[grammar-relativsats-som]]
+- 📌 [[grammar-relativ-bisats-med-som]]
 
 - 📐 *Är det många som …?* = 「有很多……的吗？」：*det* 是形式主语，*som* 引导关系从句。
 - 📐 从句里 *sjuka* 用复数形（对应 *många*）。
