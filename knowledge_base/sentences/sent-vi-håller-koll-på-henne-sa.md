@@ -13,7 +13,7 @@ created: "2026-09-26"
 
 # 🇸🇪 Vi håller koll på henne, sa Anna.
 
-🇨🇳 \"我们会留意她的，\"Anna 说。
+🇨🇳 "我们会留意她的，"Anna 说。
 
 ## 结构 (Structure)
 

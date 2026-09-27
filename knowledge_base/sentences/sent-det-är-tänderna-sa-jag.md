@@ -13,7 +13,7 @@ created: "2026-09-26"
 
 # 🇸🇪 Det är tänderna, sa jag.
 
-🇨🇳 \"是牙的事，\"我说。
+🇨🇳 "是牙的事，"我说。
 
 ## 结构 (Structure)
 

@@ -13,7 +13,7 @@ created: "2026-09-26"
 
 # 🇸🇪 Det är nog tandsprickning, sa Lin.
 
-🇨🇳 \"应该是在出牙，\"Lin 说。
+🇨🇳 "应该是在出牙，"Lin 说。
 
 ## 结构 (Structure)
 
