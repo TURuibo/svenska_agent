@@ -8,7 +8,7 @@ zh: 定居
 en: to settle down
 synonyms: []
 antonyms: []
-family: [emigrera]
+family: [emigrera, bo, bostad, sätta]
 topics: []
 sentences: []
 known: false
@@ -32,6 +32,8 @@ created: "2026-09-22"
 ## 词组搭配 (Collocations)
 
 - `bosätta sig i Trollhättan` — 定居在 Trollhättan
+- `vara bosatt i …` — 居住在……（正式，表格/官方用语）：*Är du bosatt i Sverige?* 你是瑞典居民吗？
+- `bosatt` (adj.) — 定居的、常住的；`de bosatta` — 居民
 
 ## 例句 (Sentences)
 
@@ -41,11 +43,15 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[emigrera]]
+- 词族: [[emigrera]], [[bo]], [[bostad]], [[sätta]]（bo + sätta = 安家）
 - 同义词:
 - 反义词:
 - 主题:
 
 ## 用法提示 (Usage Notes)
+
+- 必须带反身代词：*jag bosatte **mig**, du bosatte **dig**, han bosatte **sig***。
+- 变位跟 `sätta` 一样：sätta – satte – satt → bo**sätta** – bo**satte** – bo**satt**。
+- `bosatt`（supinum 同形）也常作形容词：*folkbokförd och bosatt i Sverige*（登记并居住在瑞典）。
 
 - 来源: [[source-2026-09-22-nils-van-der-poel]]
