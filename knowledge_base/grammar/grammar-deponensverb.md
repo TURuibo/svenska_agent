@@ -65,3 +65,14 @@ Notera: "finnas" och "andas" är vanliga; [[födas]] och [[skiljas]] är central
 
 - 📎 [[grammar-passiv-med-s]]
 - 📎 [[grammar-presens]]
+
+## 补充例句 (2026-09-26 · förskola 家长场景系列)
+
+> 合并自同主题笔记「📗 deponens-verb — 异态动词 (deponent verbs)」。
+
+- ✅ [[sent-det-är-inget-att-skämmas-för]] 🇸🇪 Det är inget att skämmas för – alla kan få lus. 🇨🇳 这没什么好难为情的——谁都可能长头虱。
+- ✅ 🇸🇪 Jag hoppas att Leo trivs på förskolan. 🇨🇳 我希望 Leo 在幼儿园过得开心。
+- ✅ 🇸🇪 Det finns extrakläder i lådan. 🇨🇳 抽屉里有备用衣服。
+- ✅ 🇸🇪 Han skämdes när han glömde mössan. 🇨🇳 他忘了帽子时很难为情。
+- ✅ 🇸🇪 Barnet kräktes i natt. 🇨🇳 孩子昨晚吐了。
+- ❌ *Jag skämma mig.* ← 常见错误（没有 skämma 这个词；正确 *Jag skäms.*）
