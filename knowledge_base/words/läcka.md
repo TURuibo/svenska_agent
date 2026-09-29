@@ -5,8 +5,8 @@ ordklass: "verb"
 verbgrupp: "1"
 genus: ""
 cefr: "A2"
-zh: "漏；渗漏"
-en: "to leak"
+zh: "漏；渗漏；（名）漏洞、泄漏处"
+en: "to leak; (noun) a leak"
 synonyms: []
 antonyms: []
 family:
@@ -47,6 +47,22 @@ interval: 0
 - 🇸🇪 Det läcker vatten under diskbänken i köket. — 🇨🇳 厨房洗碗池下面在漏水。
 - 🇸🇪 Taket läcker när det regnar mycket. — 🇨🇳 下大雨时屋顶会漏水。
 - 🇸🇪 Kranen läcker och droppar hela natten. — 🇨🇳 水龙头漏水，整晚都在滴水。
+
+## 名词义 (Substantiv) — en läcka
+
+> 同形词：`läcka` 也是 **en-名词**「漏洞、泄漏（处）」。**läckan** = 该名词的 bestämd form singular（"这个漏洞"）。
+
+| form | obestämd | bestämd |
+|------|----------|---------|
+| singular | en läcka | **läckan** |
+| plural | läckor | läckorna |
+
+- `hitta / laga läckan` — 找到 / 修好漏洞
+- `en läcka i taket / i röret` — 屋顶 / 管道上的漏洞
+- `en läcka av information` — 信息泄露（也用 `en informationsläcka`）
+- 🇸🇪 Rörmokaren hittade läckan under diskbänken. — 🇨🇳 水管工在洗碗池下面找到了漏点。
+- 🇸🇪 Vi måste laga läckan innan det regnar igen. — 🇨🇳 我们得在再下雨之前把漏洞修好。
+- 🇸🇪 Polisen utreder läckan av hemliga dokument. — 🇨🇳 警方正在调查机密文件的泄露。
 
 ## 词族 / 同义 / 反义 (Relations)
 
