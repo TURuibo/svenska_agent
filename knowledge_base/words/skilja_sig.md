@@ -5,8 +5,8 @@ ordklass: verb
 verbgrupp: "2"
 genus: ""
 cefr: "A2"
-zh: "离婚"
-en: "to divorce, to separate"
+zh: "离婚；（skilja sig från）与…不同"
+en: "to divorce, to separate; (skilja sig från) to differ from"
 synonyms: []
 antonyms: [gifta sig]
 family: [skilsmässa, skild, skilja]
@@ -61,3 +61,4 @@ interval: 0
 - 上下文："Zlatans föräldrar skilde sig" = 课文中离婚含义。
 - 参见 [[grammar-passiv-med-s]] — `skild` 既是形容词也可作被动分词。
 - 来源: [[source-2026-06-09-zlatan-bio]]
+- ⚠️ 另一常见义：`skilja sig från` = 与……不同 → [[skilja-sig-från]]。例：Även hans träningsupplägg skilde sig från andra skridskoåkares.（他的训练安排也和其他速滑选手的不同。）来源: [[source-2026-09-22-nils-van-der-poel]]

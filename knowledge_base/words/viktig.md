@@ -32,9 +32,11 @@ interval: 0
 | plural/bestämd | viktiga |
 | komparativ | viktigare |
 | superlativ | viktigast |
+| superlativ bestämd | viktigaste |
 
 ## 词组搭配 (Collocations)
 
+- `sitt livs viktigaste beslut` / `det viktigaste i livet` — 一生中最重要的决定 / 人生中最重要的事（来源: [[source-2026-09-22-nils-van-der-poel]]）
 - `det är viktigt att` — 做…很重要
 - `en viktig fråga` — 一个重要问题
 - `väldigt viktig` — 非常重要

@@ -73,11 +73,14 @@ function stripExportBlocks(body) {
       if (inExport) { inExport = false; section = null; continue; }
     }
     if (inExport) {
-      const sec = line.match(/^(words|phrases|sentences|grammar)\s*:\s*$/);
+      // Section headers come in two spellings: the spec's `words:` and the
+      // `# words` some pasted/photo articles use. Items likewise may or may not
+      // carry the `- ` bullet, so a bare `sv | … | …` line also counts.
+      const sec = line.match(/^(?:#\s*)?(words|phrases|sentences|grammar)\s*:?\s*$/);
       if (sec) { section = sec[1]; continue; }
-      if (section && /^-\s+\S/.test(line)) {
+      if (section && /\|/.test(line) && !/^\s*#/.test(line)) {
         counts[section] += 1;
-        items[section].push(parseExportItem(section, line.replace(/^-\s+/, '').trim()));
+        items[section].push(parseExportItem(section, line.replace(/^\s*-\s+/, '').trim()));
       }
       continue;
     }
@@ -158,7 +161,7 @@ function cleanForm(value) {
 }
 
 // Pull inflected surface forms out of a word note's "## 语法变形 (Forms)" table.
-function extractForms(body) {
+function extractForms(body, lemma) {
   const lines = body.split(/\r?\n/);
   let start = -1;
   for (let i = 0; i < lines.length; i += 1) {
@@ -184,10 +187,11 @@ function extractForms(body) {
     for (let c = 1; c < row.length; c += 1) {
       if (!row[c]) continue;
       for (const piece of row[c].split(/[\/,]/)) {
-        const form = cleanForm(piece);
-        if (!form || form === '—' || form === '-') continue;
-        if (!/[A-Za-zÅÄÖåäö]/.test(form)) continue;
-        if (/\s/.test(form)) continue;            // multi-word forms can't be matched as a single token
+        const cleaned = cleanForm(piece);
+        if (!cleaned || cleaned === '—' || cleaned === '-') continue;
+        if (!/[A-Za-zÅÄÖåäö]/.test(cleaned)) continue;
+        const form = /\s/.test(cleaned) ? formFromPhrase(cleaned, lemma) : cleaned;
+        if (!form) continue;
         const key = form.toLowerCase();
         if (seen.has(key)) continue;
         seen.add(key);
@@ -196,6 +200,30 @@ function extractForms(body) {
     }
   }
   return forms;
+}
+
+// Words that pad an example phrase in a Forms cell ("de skeptiska kunderna",
+// "bosatte sig") but are never the inflected form itself.
+const FORM_FILLER = new Set(['sig', 'mig', 'dig', 'oss', 'er', 'den', 'det', 'de', 'en', 'ett', 'att',
+  'har', 'hade', 'är', 'var', 'blir', 'blev', 'mer', 'mest', 'som', 'han', 'hon', 'jag', 'vi', 'ni']);
+
+// A multi-word Forms cell can only be matched as one token if we can tell which
+// word is the form: drop filler words, and if more than one remains keep the one
+// that shares a stem with the lemma (skeptisk → "de skeptiska kunderna" → skeptiska).
+function formFromPhrase(cell, lemma) {
+  const words = cell.split(/\s+/).map((w) => w.replace(/[^A-Za-zÀ-ÿ-]/g, '')).filter(Boolean);
+  const rest = words.filter((w) => !FORM_FILLER.has(w.toLowerCase()));
+  if (rest.length === 1) return rest[0];
+  const stem = String(lemma || '').toLowerCase().split(/\s+/)[0];
+  const need = Math.max(3, stem.length - 3);
+  const hits = rest.filter((w) => commonPrefix(w.toLowerCase(), stem) >= need);
+  return hits.length === 1 ? hits[0] : '';
+}
+
+function commonPrefix(a, b) {
+  let i = 0;
+  while (i < a.length && i < b.length && a[i] === b[i]) i += 1;
+  return i;
 }
 
 function buildVocab() {
@@ -209,7 +237,10 @@ function buildVocab() {
     const lemma = fm.lemma || slug;
     // Collect every surface form the learner might meet in text: the lemma plus
     // the inflected forms from the Forms table (lemma always first / preferred).
-    const forms = [lemma, ...extractForms(body)];
+    // A reflexive lemma ("bosätta sig") can't match as one token, so also index
+    // its verb ("bosätta") — the Forms table supplies bosatte/bosatt the same way.
+    const reflexive = /^(\S+)\s+sig$/i.exec(lemma);
+    const forms = [lemma, ...(reflexive ? [reflexive[1]] : []), ...extractForms(body, lemma)];
     const seen = new Set();
     const surfaces = [];
     for (const f of forms) {

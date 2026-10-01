@@ -29,6 +29,7 @@ created: "2026-09-26"
 | bestämd singular | timmen |
 | obestämd plural | timmar |
 | bestämd plural | timmarna |
+| genitiv | timmars |
 
 ## 词组搭配 (Collocations)
 
@@ -56,4 +57,6 @@ created: "2026-09-26"
 - timme = 时长（一小时），klockan = 钟点（几点）。"几点了"用 *Vad är klockan?*，不用 timme。
 - "X 小时后"= om X timmar；"持续 X 小时"= i X timmar。
 - 复数 timmar；口语中 "en timma" 也常见（旧形式）。
+- genitiv **timmars** 用作定语：`4 timmars löpning` = 四小时的跑步（数字 + timmars + 名词，Nils van der Poel 文章）。
 - 来源: [[source-2026-09-26-forskola-jag-blir-sen-farmor-hamtar]]
+- 来源: [[source-2026-09-22-nils-van-der-poel]]

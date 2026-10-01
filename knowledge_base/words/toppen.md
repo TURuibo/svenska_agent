@@ -5,7 +5,7 @@ ordklass: "adjektiv / utrop"
 verbgrupp: ""
 genus: ""
 cefr: "A2"
-zh: "太棒了；顶级的"
+zh: "太棒了；顶级的；（名词 topp 的限定式）顶峰"
 en: "great; awesome; top"
 synonyms: ["fantastisk", "utmärkt"]
 antonyms: []
@@ -54,3 +54,4 @@ interval: 0
 - Primarily used as an enthusiastic interjection, similar to "Great!" or "Awesome!".
 - More informal than *utmärkt*; widely used in spoken Swedish among all ages.
 - Can also precede nouns as an adjective compound: *toppenjobb*, *toppendag*.
+- ⚠️ `toppen` 也是名词 [[topp]]（顶）的限定形式：`nå toppen` = 登顶（不是"太棒了"）。来源: [[source-2026-09-22-nils-van-der-poel]]
