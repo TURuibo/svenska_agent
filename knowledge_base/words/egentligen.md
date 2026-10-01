@@ -13,6 +13,7 @@ family: []
 topics: []
 sentences:
   - sent-var-ar-ni-egentligen-ikvallt
+  - sent-han-gillade-egentligen-inte-konditionsträning
 known: false
 created: "2026-06-03"
 reviewed: ""

@@ -10,7 +10,7 @@ synonyms: []
 antonyms: []
 family: []
 topics: [topic-idrott]
-sentences: []
+sentences: [sent-han-gillade-egentligen-inte-konditionsträning]
 known: false
 created: "2026-09-22"
 ---

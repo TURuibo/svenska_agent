@@ -6,7 +6,7 @@ cefr: B1
 date_added: "2026-09-22"
 words: [skridskoåkare, anonym, världsrekord, efternamn, emigrera, bosätta-sig, höjdhopp, konditionsträning, locka, tillåta, satsa, ifrågasätta, motivera, segrare, beslut, konsekvens, avstå, förvänta, stund, begränsad, uppnå, tillfredsställelse, tvivla, satsning, lättnad, frihet, självbild, förknippad, identitet, krav, hobby, fallskärmshoppning, barack, flygfält, likasinnad, tonårstid, elitkarriär, tävlingsuppehåll, kritisk, framgångsrik, träningsupplägg, träningspass, monoton, sötsak, belöning, självförtroende, startlinje, startskott, utklassa, konkurrent]
 phrases: [i-stort-sett, lägga-av, tacka-nej-till, ställa-upp, avstå-från, gå-ut-på, ställa-krav, vara-värt-det, ta-upp, ta-igen, gå-miste-om, göra-om-ett-misstag, hålla-uppe, skilja-sig-från, till-skillnad-från, gå-i-mål, få-framtiden-utvisa]
-sentences: [sent-nils-van-der-poel-är, sent-trots-att-han-hade-tränat, sent-nils-gav-allt-för-skridskoåkningen, sent-hans-självbild-var-så-starkt, sent-han-ville-ha-ett-liv, sent-nils-fortsatte-att-träna-men, sent-av-årets-1-100-träningstimmar, sent-till-skillnad-från-många-andra, sent-han-hade-klarat-sitt-mål]
+sentences: [sent-nils-van-der-poel-är, sent-trots-att-han-hade-tränat, sent-nils-gav-allt-för-skridskoåkningen, sent-hans-självbild-var-så-starkt, sent-han-ville-ha-ett-liv, sent-nils-fortsatte-att-träna-men, sent-av-årets-1-100-träningstimmar, sent-till-skillnad-från-många-andra, sent-han-hade-klarat-sitt-mål, sent-han-gillade-egentligen-inte-konditionsträning]
 grammar: [grammar-trots-att, grammar-pluskvamperfekt, grammar-s-passiv, grammar-sa-att-konsekvens, grammar-nar-bisats, grammar-till-skillnad-från, grammar-om-sats-villkor]
 ---
 

@@ -5,7 +5,7 @@ zh: "utan vs. men — 而是 vs. 但是"
 en: "utan vs. men — contradictive vs. additive but"
 level: "SFI B / CEFR A2"
 related: [grammar-bisats-biff, grammar-preteritum]
-examples: [sent-gick-aldrig-klart-gymnasiet-satsade, sent-fick-fotbollsskor-trots-mamma]
+examples: [sent-gick-aldrig-klart-gymnasiet-satsade, sent-fick-fotbollsskor-trots-mamma, sent-han-gillade-egentligen-inte-konditionsträning]
 known: false
 created: "2026-06-09"
 reviewed: ""
@@ -68,6 +68,7 @@ Han gillar fotboll  men  han spelar inte golf.
 ## 例句 (Examples)
 
 - ✅ [[sent-gick-aldrig-klart-gymnasiet-satsade]] 🇸🇈 Han gick aldrig klart i gymnasiet **utan** han satsade istället på en fotbollskarriär. 🇨🇳 他没读完高中，**而是**转而投入足球生涯。
+- ✅ [[sent-han-gillade-egentligen-inte-konditionsträning]] 🇸🇪 Han gillade egentligen inte konditionsträning **utan** det som lockade var saften och kakorna … 🇨🇳 他其实不喜欢耐力训练，**而是**吸引他的是果汁和饼干…（utan + det som 句）
 - ✅ 🇸🇈 Jag köpte inte en dator **utan** en surfplatta. 🇨🇳 我没买电脑，**而是**买了平板。（否定→ utan）
 - ✅ 🇸🇈 Han är bra på fotboll **men** spelar inte basketball. 🇨🇳 他足球踢得好，**但是**不打篮球。（无否定→ men）
 - ❌ *Han gick aldrig klart gymnasiet **men** han satsade istället.* ← 错误：否定句后应用 `utan`。
