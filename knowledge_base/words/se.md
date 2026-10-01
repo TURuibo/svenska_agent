@@ -31,6 +31,7 @@ created: "2026-09-26"
 | supinum | sett |
 | imperativ | se! |
 | perfekt particip | sedd (en) · sett (ett) · sedda (pl.) |
+| particip utrum | sedd |
 | s-passiv | ses (presens) · sågs (preteritum) |
 
 > ⚠️ **sett** 有两重身份：

@@ -31,6 +31,7 @@ interval: 0
 | grundform (en-ord) | fin |
 | grundform (ett-ord) | fint |
 | bestämd / plural | fina |
+| superlativ | finaste |
 
 | — | obestämd sg | bestämd sg | plural |
 |---|-------------|-----------|--------|

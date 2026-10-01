@@ -36,6 +36,7 @@ interval: 0
 | bestämd/plural | stora |
 | komparativ | större |
 | superlativ | störst |
+| superlativ bestämd | största |
 
 ## 词组搭配 (Collocations)
 

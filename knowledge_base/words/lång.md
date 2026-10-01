@@ -31,6 +31,9 @@ interval: 0
 | Obestämd en-ord | lång |
 | Obestämd ett-ord | långt |
 | Bestämd / plural | långa |
+| Komparativ | längre |
+| Superlativ | längst |
+| Superlativ (bestämd) | längsta |
 
 ## 词组搭配 (Collocations)
 

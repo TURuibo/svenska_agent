@@ -35,6 +35,15 @@ interval: 0
 | superlativ (obestämd) | **nöjdast** |
 | superlativ (bestämd) | den **nöjdaste** |
 
+| Form | Swedish |
+|------|---------|
+| en-ord | nöjd |
+| ett-ord | nöjt |
+| plural / bestämd | nöjda |
+| komparativ | nöjdare |
+| superlativ | nöjdast |
+| superlativ (bestämd) | nöjdaste |
+
 ⚠️ Neutrum: **nöjt** (inte *nöjdt*)
 
 Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]

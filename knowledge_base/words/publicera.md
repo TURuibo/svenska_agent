@@ -34,6 +34,7 @@ interval: 0
 | Presens | publicerar |
 | Preteritum | publicerade |
 | Supinum | (har) publicerat |
+| Particip | publicerad |
 
 规则的 grupp 1 动词（-ar/-ade/-at）。
 

@@ -38,6 +38,7 @@ interval: 0
 | Preteritum | förstörde |
 | Supinum | förstört |
 | Imperativ | förstör! |
+| Particip | förstörda |
 
 > 动词组 2b（-er / -de / -t）；presens = förstör
 

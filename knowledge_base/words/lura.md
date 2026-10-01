@@ -25,6 +25,8 @@ created: "2026-09-22"
 | infinitiv | presens | preteritum | supinum |
 |---|---|---|---|
 | lura | lurar | lurade | lurat |
+| particip | lurad | lurade | |
+| lurad | | | |
 
 ## 词组搭配 (Collocations)
 

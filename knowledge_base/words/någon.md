@@ -33,6 +33,12 @@ interval: 0
 | något | ett-genus 名词前，或中性代词（某事） |
 | några | 复数（一些） |
 
+| Form | Swedish |
+|------|---------|
+| en-ord | någon |
+| ett-ord | något |
+| plural | några |
+
 ## 词组搭配 (Collocations)
 
 - `någon gång` — 有时候；曾经

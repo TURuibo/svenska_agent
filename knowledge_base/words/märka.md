@@ -35,6 +35,7 @@ interval: 0
 | Presens | märker |
 | Preteritum | märkte |
 | Supinum | (har) märkt |
+| S-passiv | märks |
 
 ## 词组搭配 (Collocations)
 
