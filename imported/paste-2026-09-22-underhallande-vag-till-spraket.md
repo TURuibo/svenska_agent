@@ -321,7 +321,7 @@ Jag läser sfi och på lektionerna sjunger vi ofta svenska sånger. Det är bra 
 | prosodin | [[prosodi]] | subst. en | 语调节奏 | den svenska prosodin |
 | kommer (ihåg) | [[komma]] | verb | 来；komma ihåg = 记得 | komma – kom – kommit |
 | bättre | [[bra]] | adj. | 更好 | bra – bättre – bäst |
-| kändes | [[kännas]] | verb (dep.) | 感觉起来 | kännas – kändes – känts |
+| kändes | [[känna]] | verb (dep.) | 感觉起来 | kännas – kändes – känts |
 | pinsamt | [[pinsam]] | adj. | 尴尬的 | 中性 -t（形式主语 det） |
 | tillsammans | [[tillsammans]] | adv. | 一起 | |
 | kände | [[känna]] | verb | 感觉；认识 | känna – kände – känt |

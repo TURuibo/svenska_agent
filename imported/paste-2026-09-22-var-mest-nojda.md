@@ -482,7 +482,7 @@ De som gav sämst betyg till service är invånarna i de norrländska kommunerna
 | mil | [[mil]] | subst. en | 瑞典里（10 公里） | 单复同形 |
 | föda | [[föda]] | verb | 分娩、生育 | föda – födde – fött |
 | glesbygdskommuner | [[glesbygdskommun]] | subst. en | 人口稀疏市镇 | |
-| färre | [[få-adjektiv]] | adj. | 少的（可数） | få – **färre** – färst |
+| färre | [[färre]] | adj. | 少的（可数） | få – **färre** – färst |
 | kvadratkilometer | [[kvadratkilometer]] | subst. en | 平方公里 | km² |
 | del | [[del]] | subst. en | 部分 | |
 | utanför | [[utanför]] | prep. | 在……外面 | |
@@ -555,7 +555,7 @@ De norra delarna hamnar däremot i topp när det gäller trygghet. I Jämtland �
 
 | 文中形式 | 原形 | 词性 | 中文 | 说明 |
 |---|---|---|---|---|
-| norra | [[norra]] | adj. | 北部的 | 只有 -a 形式 |
+| norra | [[norr]] | adj. | 北部的 | 只有 -a 形式 |
 | delarna | [[del]] | subst. en | 部分 | del – delar – delarna |
 | hamnar | [[hamna]] | verb | 落到、处于 | |
 | däremot | [[däremot]] | adv. | 相反、然而 | |
@@ -567,7 +567,7 @@ De norra delarna hamnar däremot i topp när det gäller trygghet. I Jämtland �
 | stör | [[störa]] | verb | 打扰、滋扰 | störa – störde – stört |
 | högsta | [[hög]] | adj. | 高的 | hög – högre – **högst** |
 | siffran / siffror | [[siffra]] | subst. en | 数字 | siffra – siffror |
-| liknande | [[liknande]] | adj. | 类似的 | 不变形 |
+| liknande | [[likna]] | adj. | 类似的 | 不变形 |
 | fördelning | [[fördelning]] | subst. en | 分布、分配 | |
 | narkotikahandel | [[narkotikahandel]] | subst. en | 毒品交易 | narkotika + handel |
 | våldsbrott | [[våldsbrott]] | subst. ett | 暴力犯罪 | våld + s + brott |

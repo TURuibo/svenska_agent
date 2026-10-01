@@ -982,7 +982,7 @@ Jag tänkte också på att det var så tyst här. Många pratar med låg röst p
 | rätt | [[rätt]] | adv. | 相当 | rätt så = 相当 |
 | säker | [[säker]] | adj. | 确定的 | vara säker på |
 | sitta | [[sitta]] | verb | 坐着 | sitta – **satt** – suttit |
-| ifred | [[ifred]] | adv. | 安宁地、不受打扰 | sitta/lämna ngn ifred |
+| ifred | i fred | adv. | 安宁地、不受打扰 | sitta/lämna ngn ifred |
 | passar | [[passa]] | verb | 适合 | |
 | tystnaden | [[tystnad]] | subst. en | 安静、寂静 | |
 | anonymiteten | [[anonymitet]] | subst. en | 匿名（感） | |

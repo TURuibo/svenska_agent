@@ -133,7 +133,7 @@ Nick har knappt hunnit innanför grinden till förskolan innan en liten pojke me
 
 | 文中形式 | 原形 | 词性 | 中文 | 说明 |
 |---|---|---|---|---|
-| knappt | [[knappt]] | adv. | 几乎不；刚刚 | 否定性副词；反义 drygt |
+| knappt | [[knapp]] | adv. | 几乎不；刚刚 | 否定性副词；反义 drygt |
 | hunnit | [[hinna]] | verb | 来得及 | hinna – hinner – hann – **hunnit** |
 | innanför | [[innanför]] | prep./adv. | 在……里面 | 反义 utanför |
 | grinden | [[grind]] | subst. en | 栅门、院门 | grind – grinden – grindar |
@@ -463,7 +463,7 @@ Samtidigt upptäcker Nick att Kevin är borta. Han kan inte fokusera utan knappa
 | sekunder | [[sekund]] | subst. en | 秒 | sekund – sekunder |
 | pengarna | [[pengar]] | subst. pl. | 钱 | 只用复数 |
 | tillbaka | [[tillbaka]] | adv. | 回来、返回 | |
-| fortsatt | [[fortsatt]] | adj. | 持续的 | fortsätta 的过去分词 |
+| fortsatt | [[fortsätta]] | adj. | 持续的 | fortsätta 的过去分词 |
 | tackar | [[tacka]] | verb | 道谢 | |
 | hittar | [[hitta]] | verb | 找到 | |
 | klättrat | [[klättra]] | verb | 爬 | supinum |

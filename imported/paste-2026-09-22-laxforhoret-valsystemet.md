@@ -556,7 +556,7 @@ Sandro nickar nöjt och fortsätter med nästa fråga: "Kan du förklara hur ett
 | jo | [[jo]] | interj. | 对了；是的 | |
 | veckor | [[vecka]] | subst. en | 星期、周 | vecka – veckor |
 | röstkort | [[röstkort]] | subst. ett | 选民卡 | 复数不变 |
-| hemskickat | [[hemskickad]] | part. | 寄到家的 | skicka hem 的分词 |
+| hemskickat | [[hemskicka]] | part. | 寄到家的 | skicka hem 的分词 |
 | står | [[stå]] | verb | 站；写着 | det står = 写着 |
 | vilken | [[vilken]] | pron. | 哪个 | |
 | vallokal | [[vallokal]] | subst. en | 投票站 | lokal = 场所 |
@@ -717,10 +717,10 @@ Olivia fortsätter: "När röstningen är stängd börjar rösträkningen. Alla 
 | dagar | [[dag]] | subst. en | 天 | dag – dagar |
 | slutgiltiga | [[slutgiltig]] | adj. | 最终的 | |
 | resultatet | [[resultat]] | subst. ett | 结果 | 复数不变 |
-| räknade | [[räknad]] | part. | 被数完的 | räkna 的分词，复数 -e |
+| räknade | [[räkna]] | part. | 被数完的 | räkna 的分词，复数 -e |
 | platser | [[plats]] | subst. en | 席位；位置 | plats – platser |
 | procent | [[procent]] | subst. en | 百分比 | 复数不变 |
-| minst | [[minst]] | adv. | 至少 | lite – mindre – minst |
+| minst | [[lite]] | adv. | 至少 | lite – mindre – minst |
 | sitta | [[sitta]] | verb | 坐；任职 | sitta – satt – suttit |
 
 ### ¶9 · 第四题：议会 vs. 政府（5 句）
@@ -1047,7 +1047,7 @@ Sandro nickar: "Det stämmer men nuförtiden tycker jag att det är svårt att p
 | bestämt | [[bestämma]] | verb | 决定 | bestämma – bestämde – **bestämt** |
 | viktigt | [[viktig]] | adj. | 重要的 | |
 | röst | [[röst]] | subst. en | 声音；选票 | |
-| hörd | [[hörd]] | part. | 被听见的 | höra 的过去分词 |
+| hörd | [[höra]] | part. | 被听见的 | höra 的过去分词 |
 | möjligheten | [[möjlighet]] | subst. en | 机会、可能性 | möjlighet – möjligheter |
 | lärare | [[lärare]] | subst. en | 老师 | 复数不变 |
 | sak | [[sak]] | subst. en | 事情；东西 | |

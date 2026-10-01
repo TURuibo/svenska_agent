@@ -195,7 +195,7 @@ Det är en solig morgon i början av juni. Henrik kommer ut från sitt hus, stan
 | hinner | [[hinna]] | verb | 来得及 | hinna – hann – hunnit |
 | väja | [[väja]] | verb | 闪避、让路 | väja för ngn/ngt |
 | husvägg | [[husvägg]] | subst. en | 房墙 | hus + vägg |
-| stående | [[stående]] | particip | 站着的 | stå 的现在分词；bli stående |
+| stående | [[stå]] | particip | 站着的 | stå 的现在分词；bli stående |
 | skyndar | [[skynda]] | verb | 赶紧、快步走 | |
 | krockade | [[krocka]] | verb | 相撞 | 分词 krockad → den krockade bilen |
 | granne | [[granne]] | subst. en | 邻居 | granne – grannar |
@@ -396,7 +396,7 @@ I oktober får Henrik ett brev med kallelse att vittna. Han blir nervös. Det so
 | nervös | [[nervös]] | adj. | 紧张的 | |
 | oroar | [[oroa]] | verb | 使担心 | oroa sig = 担心 |
 | mötet | [[möte]] | subst. ett | 会面；会议 | |
-| kännas | [[kännas]] | verb | 感觉起来 | deponens：kändes – känts |
+| kännas | [[känna]] | verb | 感觉起来 | deponens：kändes – känts |
 | träffa | [[träffa]] | verb | 见面、碰到 | |
 | rättssal | [[rättssal]] | subst. en | 法庭（房间） | rätt + s + sal |
 | sommaren | [[sommar]] | subst. en | 夏天 | sommar – sommaren – somrar |
