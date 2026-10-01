@@ -26,7 +26,6 @@ created: "2026-09-22"
 |---|---|---|---|
 | lura | lurar | lurade | lurat |
 | particip | lurad | lurade | |
-| lurad | | | |
 
 ## 词组搭配 (Collocations)
 
