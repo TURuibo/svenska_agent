@@ -203,7 +203,7 @@ Min fru är från Sverige och jag flyttade hit från Wales för åtta år sedan.
 
 - 📐 `Svenskarna`(S) + `hälsade`(V) + `helt enkelt inte` + `på mig` + ⟨eftersom de inte kände mig⟩
 - ⚠️ **hälsa på någon** 有两个意思：① 打招呼（本句）② 去拜访某人。看上下文 → [[hälsa-på]]
-- ⚠️ 小品词被句子副词隔开：hälsade **helt enkelt inte** på mig；主句 inte 在动词后，从句 ⟨eftersom de **inte kände**⟩ inte 在动词前
+- ⚠️ 句子副词插在动词和介词短语之间：hälsade **helt enkelt inte** på mig（"打招呼"义的 på 是不重读的介词；"拜访"义 hälsa 'på 才是重读小品词）；主句 inte 在动词后，从句 ⟨eftersom de **inte kände**⟩ inte 在动词前
 - ⚠️ **känna** + 人 = 认识（某人）；vet = 知道（事实）。`helt enkelt` = 简直就是、只不过
 - 🇨🇳 瑞典人只是不跟我打招呼而已，因为他们不认识我。
 
@@ -818,7 +818,7 @@ Jag flyttade hit från Indien för att studera. Jag var 22 år då. I början re
 
 **⑥ Jag har också lärt mig om Allemansrätten.**
 
-- 📐 `Jag`(S) + `har lärt mig`(V，完成时) + `också` + `om Allemansrätten`
+- 📐 `Jag`(S) + `har`(V，完成时) + `också` + `lärt mig` + `om Allemansrätten`
 - ⚠️ **lära sig** = 学（反身），完成时 har lärt **mig**：反身代词跟着 jag → [[grammar-reflexivt-verb|📗反身动词]]
 - ⚠️ 对比上段 lära **känna**（结识）≠ lära **sig**（学）
 - 🇨🇳 我还了解了"公众通行权"。
