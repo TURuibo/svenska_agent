@@ -121,3 +121,8 @@ node tools/build-reading-site.js   # 输出末尾应显示 "N with audio"
 | mp3 放进 `listening/` | 站点 404 | 音频要放 `site/listening/media/`（gh-pages 只发布 `site/`） |
 | QR 解不出 | 返回空串 | 放大倍数调到 3–4×，或让 Ruibo 用手机扫了把链接发来 |
 | 交互式会话 | — | **不自动开 PR**（§4.7 只约束 routine）；要合并时问一句 |
+
+## 8. 逐段精读（推荐）
+
+课文入库并配好音频后，按 **`sv-study-guide`** 技能给这篇做「🔍 逐段精读」+ 补齐生词 + 复核：
+读者边听 🎧 边在 📖 里逐句看结构、点查每个实词。参考范例：`imported/paste-2026-09-22-nils-van-der-poel.md`。
