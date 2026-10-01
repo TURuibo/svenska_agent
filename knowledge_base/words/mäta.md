@@ -35,6 +35,8 @@ interval: 0
 | Preteritum | mätte |
 | Supinum | mätt |
 | Imperativ | mät |
+| Passiv presens | mäts |
+| Passiv supinum | mätts |
 
 ## 词组搭配 (Collocations)
 

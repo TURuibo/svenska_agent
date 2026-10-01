@@ -33,6 +33,8 @@ interval: 0
 | preteritum | hjälpte |
 | supinum | hjälpt |
 | imperativ | hjälp! |
+| s-form (hjälpas åt) | hjälps |
+| s-form preteritum | hjälptes |
 
 ## 词组搭配 (Collocations)
 
@@ -57,3 +59,4 @@ interval: 0
 
 - verb grupp 2（hjälpte, hjälpt）
 - `hjälpa` + infinitiv（无 att）：`Jag hjälper dig laga maten.`
+- `hjälpas åt` = 互相帮忙（s-形式表"互相"）：Vi hjälps åt med städningen.（我们一起分担打扫。）

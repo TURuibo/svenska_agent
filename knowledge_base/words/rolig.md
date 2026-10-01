@@ -31,9 +31,13 @@ interval: 0
 | Obestämd en-ord | rolig |
 | Obestämd ett-ord | roligt |
 | Bestämd / plural | roliga |
+| Komparativ | roligare |
+| Superlativ | roligast |
+| Superlativ bestämd | roligaste |
 
 ## 词组搭配 (Collocations)
 
+- `lite roligare` / `det som han tyckte var roligast` — 有趣一点 / 他觉得最有趣的事（来源: [[source-2026-09-22-nils-van-der-poel]]）
 - `en rolig kompis` — 一个有趣的好友
 - `det är roligt` — 这很有趣
 

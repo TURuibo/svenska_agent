@@ -34,6 +34,11 @@ interval: 0
 | Plural / bestämd | lyckliga |
 | Komparativ | lyckligare |
 | Superlativ | lyckligast |
+| Superlativ bestämd | lyckligaste |
+
+## 词组搭配 (Collocations)
+
+- `en av hans lyckligaste stunder` — 他最快乐的时刻之一（来源: [[source-2026-09-22-nils-van-der-poel]]）
 
 ## 例句 (Sentences)
 
