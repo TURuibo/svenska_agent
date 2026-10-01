@@ -52,7 +52,8 @@ function parseExportItem(section, raw) {
   const parts = raw.split('|').map((p) => p.trim());
   if (section === 'sentences') return { sv: parts[0] || '', zh: parts[1] || '' };
   if (section === 'grammar') return { sv: parts[0] || '', zh: parts[1] || '', en: parts[2] || '' };
-  // words & phrases share the same 4-column shape.
+  // words & phrases share the same 4-column shape (some pasted blocks omit ordklass: sv | zh | en).
+  if (parts.length === 3 && /[㐀-鿿]/.test(parts[1])) return { sv: parts[0], pos: '', zh: parts[1], en: parts[2] };
   return { sv: parts[0] || '', pos: parts[1] || '', zh: parts[2] || '', en: parts[3] || '' };
 }
 
@@ -78,9 +79,9 @@ function stripExportBlocks(body) {
       // carry the `- ` bullet, so a bare `sv | … | …` line also counts.
       const sec = line.match(/^(?:#\s*)?(words|phrases|sentences|grammar)\s*:?\s*$/);
       if (sec) { section = sec[1]; continue; }
-      if (section && /\|/.test(line) && !/^\s*#/.test(line)) {
+      if (section && !/^\s*#/.test(line) && (/^-\s+\S/.test(line) || /\|/.test(line))) {
         counts[section] += 1;
-        items[section].push(parseExportItem(section, line.replace(/^\s*-\s+/, '').trim()));
+        items[section].push(parseExportItem(section, line.replace(/^\s*-\s+/, '').replace(/^sv:\s*/, '').trim()));
       }
       continue;
     }
@@ -211,6 +212,9 @@ const FORM_FILLER = new Set(['sig', 'mig', 'dig', 'oss', 'er', 'den', 'det', 'de
 // word is the form: drop filler words, and if more than one remains keep the one
 // that shares a stem with the lemma (skeptisk → "de skeptiska kunderna" → skeptiska).
 function formFromPhrase(cell, lemma) {
+  // A multi-word lemma ("psykisk ohälsa") inflects as a whole; a single word picked
+  // from it would gloss the component (psykiska → "psykisk ohälsa"). Reflexives are fine.
+  if (/\s/.test(String(lemma || '').trim().replace(/\s+sig$/i, ''))) return '';
   const words = cell.split(/\s+/).map((w) => w.replace(/[^A-Za-zÀ-ÿ-]/g, '')).filter(Boolean);
   const rest = words.filter((w) => !FORM_FILLER.has(w.toLowerCase()));
   if (rest.length === 1) return rest[0];

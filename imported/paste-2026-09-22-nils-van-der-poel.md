@@ -144,7 +144,7 @@ Det nederländska efternamnet kommer från hans farfar som emigrerade och bosatt
 - ⚠️ **inte X utan Y** = "不是 X，而是 Y"。前面有否定时用 utan，不用 men → [[grammar-utan-vs-men|📗utan vs. men — 而是 vs. 但是]]、[[utan]]
 - ⚠️ `det som` = "……的东西"（the thing that / what）→ [[sent-han-gillade-egentligen-inte-konditionsträning]]
 - ⚠️ `egentligen inte`：主句里句子副词放在动词后面 → [[grammar-satsadverbial|📗句子副词]]
-- ⚠️ **`tilläts`** = tillåta 的 s-被动过去式："被允许"。barn tilläts tävla = 孩子被允许比赛（后面直接跟不定式，不加 att）→ [[grammar-s-passiv|📗s-被动态]]
+- ⚠️ **`tilläts`** = tillåta 的 s-被动过去式："被允许"。barn tilläts tävla = 孩子被允许比赛（后面跟不定式，att 可加可不加：tilläts (att) tävla；本文省略了 att）→ [[grammar-s-passiv|📗s-被动态]]
 - ⚠️ `saften`：saft 是瑞典常见的浓缩果汁饮料；`kakorna` = 那些饼干/小蛋糕（kaka 复数限定）
 - 🇨🇳 其实他并不怎么喜欢耐力训练，吸引他的是训练后的果汁和饼干，还有孩子被允许参加比赛这一点。
 
@@ -159,7 +159,7 @@ Det nederländska efternamnet kommer från hans farfar som emigrerade och bosatt
 **⑥ Även i dag är det något som Nils ifrågasätter.**
 
 - 📐 `Även i dag`(A) + `är`(V) + `det`(S) + `något`(表语) + ⟨som Nils ifrågasätter⟩
-- ⚠️ 结构 **det är något som …** = "这是……的一件事"，用来强调 → [[grammar-klyvning|📗强调句型：det är X som Y]]
+- ⚠️ 结构 **det är något som …** = "这是……的一件事"：det 是**指代前文**的代词（指上一句"孩子不被允许认真比赛"这件事），något 是表语，⟨som Nils ifrågasätter⟩ 是修饰 något 的关系从句。注意这**不是** klyvning 强调句（强调句应为 Det är Nils som ifrågasätter det）→ 对比 [[grammar-klyvning|📗强调句型：det är X som Y]]
 - ⚠️ `även` = 也、甚至；`även i dag` = 直到今天也……
 - ⚠️ `ifrågasätta` = i fråga + sätta（"放到问题里"）= 质疑
 - 🇨🇳 直到今天，这仍是 Nils 质疑的一件事。
@@ -302,7 +302,7 @@ När Nils var 12 år tävlade han i en skridskotävling i Nederländerna. Trots 
 **⑦ Han trodde att idrottsmän förväntades satsa 100 procent och inte ha andra intressen.**
 
 - 📐 `Han trodde` + ⟨att idrottsmän förväntades satsa 100 procent och inte ha andra intressen⟩
-- ⚠️ `tro att` = 以为、认为（常暗示"其实不对"）
+- ⚠️ `tro att` = 以为、认为（表示主观看法，没有 veta 那么确定；这里"其实不对"的意味来自上下文）
 - ⚠️ **förväntades** = förvänta 的 s-被动过去式："被期望"。后面直接跟不定式：förväntades satsa / (förväntades) inte ha → [[grammar-s-passiv|📗s-被动态]]
 - ⚠️ `idrottsmän`：idrottsman 的不规则复数（man → män）
 - 🇨🇳 他以为运动员就该百分之百投入，不该有别的兴趣。
@@ -333,7 +333,7 @@ När Nils var 12 år tävlade han i en skridskotävling i Nederländerna. Trots 
 | kom | [[komma]] | verb | 来；得（名次） | komma – kom – kommit |
 | sist | [[sist]] | adv. | 最后 | |
 | sekunder | [[sekund]] | subst. en | 秒 | |
-| segraren | [[segrare]] | subst. en | 胜利者 | seger（胜利）+ -are |
+| segraren | [[segrare]] | subst. en | 胜利者 | segra（获胜）+ -are；复数 segrare |
 | kunnat | [[kunna]] | verb | 能 | kunna – kan – kunde – **kunnat** |
 | istället | [[istället]] | adv. | 反而、代替 | 也写 i stället |
 | tog | [[ta]] | verb | 拿；做（决定） | ta – tar – **tog** – tagit |
@@ -554,7 +554,7 @@ Efter 9 månader bestämde Nils sig för att ta upp skridskoåkningen men nu st�
 
 - 📐 `Därför`(A) + `gjorde`(V) + `han`(S) + `bara` + `det som krävdes`(O) + ⟨för att hålla uppe en elitkarriär⟩
 - ⚠️ `därför` 放句首 → 倒装 gjorde han
-- ⚠️ **krävdes** = kräva 的 s-被动过去式："被要求的、必需的"；det som krävdes = 必需的那些 → [[grammar-det-kravs|📗非人称被动：det krävs]]
+- ⚠️ **krävdes** = kräva 的 s-被动过去式："被要求的、必需的"；det som krävdes = 必需的那些（som 作从句主语，krävdes 是普通 s-被动，不是非人称的 det krävs）→ [[grammar-passiv-med-s|📗s-被动]]
 - ⚠️ `för att + 动词` = 为了…… → [[grammar-for-att-syfte|📗表目的的 för att]]；`hålla uppe` = 维持 → [[hålla-uppe]]
 - 🇨🇳 所以，他只做维持一份精英运动生涯所必需的那些训练。
 
@@ -678,7 +678,7 @@ Om Nils skulle nå toppen behövde han träna mer, men han ville fortfarande beh
 **⑥ Ett vanligt träningspass var ofta 6–7 timmar på cykel eller 4 timmars löpning.**
 
 - 📐 `Ett vanligt träningspass`(S) + `var`(V) + `ofta` + `6–7 timmar på cykel` / `4 timmars löpning`
-- ⚠️ `på cykel` = 骑车（交通方式用 på）
+- ⚠️ `på cykel` = 骑车、在自行车上（cykel 可用 på：på cykel；但一般交通工具用 med：åka med buss/tåg/bil）
 - ⚠️ `4 timmars löpning` = 4 小时的跑步（数量 + 属格 -s + 名词，表示"时长为……的"）
 - 🇨🇳 一次普通的训练常常是骑车 6 到 7 小时，或者跑步 4 小时。
 
@@ -786,7 +786,7 @@ Inför VM 2021 var Nils förberedd och hade självförtroende men det var många
 **② Han hade inte tävlat på flera år och experter inom skridskoåkning var skeptiska när han stod på startlinjen.**
 
 - 📐 `Han hade inte tävlat på flera år` + `och` + `experter inom skridskoåkning`(S) + `var skeptiska` + ⟨när han stod på startlinjen⟩
-- ⚠️ **否定句里 på + 时长 = "已经……没有"**：inte … på flera år = 好几年没…… → [[grammar-tidsprepositioner|📗时间介词]]
+- ⚠️ **否定句里 på + 时长 = "已经……没有"**：inte … på flera år = 好几年没……（否定句 + på + 时长）
 - ⚠️ `hade inte tävlat` 过去完成时；`stod` = stå 的过去式
 - ⚠️ 这里 när-从句在**后面**，主句不倒装
 - 🇨🇳 他已经好几年没比赛了；当他站上起跑线时，速滑圈的专家们都持怀疑态度。
@@ -883,7 +883,7 @@ Inför VM 2021 var Nils förberedd och hade självförtroende men det var många
 | startskottet | [[startskott]] | subst. ett | 发令枪声 | start + skott（枪声） |
 | drygt | [[drygt]] | adv. | 略多于 | 反义 knappt |
 | minuter | [[minut]] | subst. en | 分钟 | |
-| senare | [[sen]] | adv. | 后来、之后 | sen（晚）的比较级 |
+| senare | [[sen]] | adv. | 后来、之后 | 副词 sent（晚）的比较级：sent – senare – senast |
 | segrare | [[segrare]] | subst. en | 胜利者 | |
 | bäst | [[bra]] | adj. | 最好 | bra – bättre – **bäst** |
 | utklassa | [[utklassa]] | verb | 远远胜过 | |

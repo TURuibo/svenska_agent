@@ -5,8 +5,8 @@ ordklass: adverb
 verbgrupp: ""
 genus: ""
 cefr: "A2"
-zh: "最迟；不晚于；至迟"
-en: "at the latest; by (deadline); no later than"
+zh: "最迟；不晚于；（senaste）最近的、最新的"
+en: "at the latest; by (deadline); (senaste) latest, most recent"
 synonyms: []
 antonyms: [tidigast]
 family: [sen, sent, sedan]
@@ -56,3 +56,4 @@ interval: 0
 - `senast` 表示"期限上限"：*senast den 1 mars* = 1月1日或之前，不可更晚。
 - 与英语 "by" + 时间搭配：*Submit by Friday* = *Lämna in senast på fredag*.
 - 来源: [[source-2026-06-26-inbjudan-kalas]]
+- ⚠️ 形容词形式 `senaste` = 最近的、最新的（sen 的限定最高级）：de senaste dagarna = 最近几天；den senaste nyheten = 最新消息。

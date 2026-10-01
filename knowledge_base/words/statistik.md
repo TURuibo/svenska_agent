@@ -33,7 +33,7 @@ interval: 0
 |------|---------|
 | obestämd sg | statistik（不可数用法，通常不加冠词）|
 | bestämd sg | statistiken |
-| plural | statistiker（统计学家）/ statistiska uppgifter（统计数据，用其他表达）|
+| plural | —（通常不可数）|
 
 > *statistik* 作"统计数据"时通常不可数，如 *ny statistik visar att…*
 

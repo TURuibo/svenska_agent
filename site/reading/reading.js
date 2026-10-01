@@ -166,15 +166,19 @@
 
   // Exact surface first; then two inflections the Forms tables rarely spell out:
   // a trailing -s (genitive skridskoåkares/årets, s-passive tilläts/krävdes) and
-  // the definite superlative -aste (viktigaste → viktigast). Short tokens skip the
-  // -s rule so e.g. "hals"/"kurs" aren't misread as "hal"/"kur".
+  // the definite superlative -aste (viktigaste → viktigast). The -s rule is skipped
+  // for short tokens ("hals"/"kurs" ≠ hal/kur), capitalised ones (a name's genitive:
+  // Nicks ≠ nick), plain adjectives (-s on an adjective is a different verb:
+  // kallas ≠ kall, mätts ≠ mätt) and a few known homonym traps.
+  const S_FALLBACK_STOP = new Set(['rätts']);   // kvinnorätts- = rights, not rätt "dish/correct"
   function findVocab(token) {
-    const k = String(token || '').toLowerCase();
+    const raw = String(token || '');
+    const k = raw.toLowerCase();
     const hit = vocabIndex.get(k);
     if (hit) return hit;
-    if (k.length >= 5 && k.endsWith('s')) {
+    if (k.length >= 5 && k.endsWith('s') && !/^[A-ZÅÄÖ]/.test(raw) && !S_FALLBACK_STOP.has(k)) {
       const e = vocabIndex.get(k.slice(0, -1));
-      if (e) return e;
+      if (e && !/^adj(ektiv)?\.?$/i.test(String(e.ordklass || '').trim())) return e;
     }
     if (k.endsWith('aste')) return vocabIndex.get(k.slice(0, -1)) || null;
     return null;
