@@ -4,7 +4,7 @@ title: "Zeina Mourtada — från matblogg till teveköket"
 kind: article
 cefr: B1
 date_added: "2026-09-22"
-words: [maträtt, karismatisk, omtyckt, teveruta, matblogg, kokbok, matkultur, inbördeskrig, tillbringa, orolighet, tvinga, hemland, doft, recept, lapp, kvitto, inlägg, uppskattad, medlem, skeptisk, uppmuntra, genast, storlek, påse, näthat, slöja, kränkande, rasistisk, debut, hatstorm, offentlighet, reaktion, färskost, avrunnen]
+words: [maträtt, karismatisk, omtyckt, teveruta, matblogg, kokbok, matkultur, inbördeskrig, tillbringa, orolighet, tvinga, hemland, doft, recept, lapp, kvitto, inlägg, uppskattad, medlem, skeptisk, uppmuntra, genast, storlek, påse, näthat, slöja, kränkande, rasistisk, debut, hatstorm, offentlighet, reaktion, färskost, avrunnen, bakom, be, bland, blogg, början, driva, flirta, fly, fota, genom, grund, grupp, hel, hem, idé, ifrån, innan, intresserad, kebab, kock, kommentar, krydda, labhneboll, leda, libanesisk, mat, matbutik, matgrupp, matlagning, matminne, möta, nedskriven, negativ, ner, nät, pitabröd, positiv, rulla, röra, samla, skriva, sportbutik, spännande, starta, sätt, teve, tillfråga, undan, värsta, yoghurt]
 phrases: [ta-del-av, till-en-början, lägga-undan, ge-upp, stå-bakom-någon, röra-upp-känslor, lägga-sig, gå-med-i, ett-berg-av, bestämma-sig-för]
 sentences: [sent-med-sitt-glada-och-karismatiska, sent-genom-att-läsa-kokböcker-lärde, sent-till-en-början-var-hon, sent-zeina-funderade-på-att-lämna, sent-i-dag-har-de-flesta]
 grammar: [grammar-genom-att-infinitiv, grammar-bli-passiv, grammar-s-passiv, grammar-participial-adjektiv, grammar-bisats-eftersom]
@@ -31,3 +31,8 @@ Språkvägen D s. 45–47. 人物传记：美食博主/电视厨师 Zeina Mourta
 - 词组: [[ta-del-av]]、[[till-en-början]]、[[lägga-undan]]、[[ge-upp]]（已存在）、[[stå-bakom-någon]]、[[röra-upp-känslor]]、[[lägga-sig]]（已存在）、[[gå-med-i]]（已存在）、[[ett-berg-av]]、[[bestämma-sig-för]]（已存在）
 - 句子: [[sent-med-sitt-glada-och-karismatiska]]、[[sent-genom-att-läsa-kokböcker-lärde]]、[[sent-till-en-början-var-hon]]、[[sent-zeina-funderade-på-att-lämna]]、[[sent-i-dag-har-de-flesta]]
 - 语法: [[grammar-genom-att-infinitiv]]（已存在）、[[grammar-bli-passiv]]、[[grammar-s-passiv]]（已存在）、[[grammar-participial-adjektiv]]（已存在，过去分词作定语）、[[grammar-bisats-eftersom]]（已存在）
+
+## 2026-10-01 补充（逐段精读时补齐的词条）
+
+- 新增生词 (50): [[bakom]]、[[be]]、[[bland]]、[[blogg]]、[[början]]、[[driva]]、[[flirta]]、[[fly]]、[[fota]]、[[genom]]、[[grund]]、[[grupp]]、[[hel]]、[[hem]]、[[idé]]、[[ifrån]]、[[innan]]、[[intresserad]]、[[kebab]]、[[kock]]、[[kommentar]]、[[krydda]]、[[labhneboll]]、[[leda]]、[[libanesisk]]、[[mat]]、[[matbutik]]、[[matgrupp]]、[[matlagning]]、[[matminne]]、[[möta]]、[[nedskriven]]、[[negativ]]、[[ner]]、[[nät]]、[[pitabröd]]、[[positiv]]、[[rulla]]、[[röra]]、[[samla]]、[[skriva]]、[[sportbutik]]、[[spännande]]、[[starta]]、[[sätt]]、[[teve]]、[[tillfråga]]、[[undan]]、[[värsta]]、[[yoghurt]]
+- 原文文章新增「🔍 逐段精读」一节（imported/paste-2026-09-22-zeina-mourtada.md）

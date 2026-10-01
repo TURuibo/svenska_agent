@@ -7,7 +7,7 @@ zh: 北部地区（诺兰）的
 en: of Norrland, Norrlandic
 synonyms: []
 antonyms: []
-family: [[Norrland]]
+family: Norrland
 topics: []
 sentences: []
 known: false

@@ -27,17 +27,17 @@ interval: 0
 
 ## 语法变形 (Forms)
 
-| form | kontext |
-|------|---------|
-| någon | en-genus 名词前，或独立（指人） |
-| något | ett-genus 名词前，或中性代词（某事） |
-| några | 复数（一些） |
-
 | Form | Swedish |
 |------|---------|
 | en-ord | någon |
 | ett-ord | något |
 | plural | några |
+
+| form | kontext |
+|------|---------|
+| någon | en-genus 名词前，或独立（指人） |
+| något | ett-genus 名词前，或中性代词（某事） |
+| några | 复数（一些） |
 
 ## 词组搭配 (Collocations)
 

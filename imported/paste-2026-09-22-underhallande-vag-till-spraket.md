@@ -886,6 +886,44 @@ biografi | subst | 传记 | biography
 rogivande | adj | 令人平静的 | calming
 stressnivå | subst | 压力水平 | stress level
 tålamod | subst | 耐心 | patience
+bero | verb | 取决于；起因于（bero på） | to depend on, to be due to
+början | subst | 开始；开头 | beginning, start
+dessutom | adv | 此外；而且 | besides, moreover
+fel | subst | 错误；错的 | mistake, fault; wrong
+fokus | subst | 焦点；注意力 | focus
+fras | subst | 短语；套话 | phrase
+genom | prep | 穿过；通过 | through; by means of
+gissa | verb | 猜 | to guess
+grammatik | subst | 语法 | grammar
+grupp | subst | 小组；团体 | group
+hel | adj | 整个的；完整的 | whole, entire
+heller | adv | 也（不） | either, neither (after negation)
+hemma | adv | 在家 | at home
+ihåg | adv | 记住（komma ihåg） | remembered (in
+kultur | subst | 文化 | culture
+känna | verb | 感觉；认识；了解 | to feel; to know (a person)
+läsa | verb | 读；学（课程） | to read; to study (a course)
+mening | subst | 句子；意义 | sentence; meaning
+metod | subst | 方法 | method
+min | pron | 我的 | my, mine
+musik | subst | 音乐 | music
+ord | subst | 词；单词 | word
+precis | adv | 正好；刚刚；确切 | exactly; just
+program | subst | 节目；程序 | programme; program
+resa | subst | 旅行 | trip, journey
+sann | adj | 真实的；真的 | true
+situation | subst | 情况；处境 | situation
+skapa | verb | 创造；造成 | to create
+slappna | verb | 放松；松弛 | to relax; to slacken
+spanska | subst | 西班牙语 | Spanish (language)
+spännande | adj | 令人兴奋的；刺激的 | exciting
+sällan | adv | 很少；难得 | seldom
+sätt | subst | 方式，方法 | way, manner, method
+teve | subst | 电视 | TV
+text | subst | 文本；歌词；课文 | text; lyrics
+tvätt | subst | 待洗/洗好的衣物；洗衣 | laundry
+typ | subst | 类型；种类 | type; kind
+översätta | verb | 翻译 | to translate
 # phrases
 ta i | partikelverb | 使劲、放开嗓子 | to put some force into it
 det händer ofta att | fras | 常常发生…… | it often happens that

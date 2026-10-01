@@ -834,6 +834,55 @@ socialtjänst | subst | 社会服务局 | social services
 orosanmälan | subst | 关切举报 | report of concern
 myndighet | subst | 当局、政府机构 | authority
 missbruk | subst | 滥用、成瘾 | substance abuse
+agera | verb | 采取行动；行事 | to act
+alternativ | subst | 选择；备选方案 | alternative, option
+ambulanspersonal | subst | 救护人员 | ambulance staff, paramedics
+avlägga | verb | 宣（誓）；通过（考试） | to take (an oath / an exam)
+barnbarn | subst | 孙子；孙女；外孙 | grandchild
+begå | verb | 犯（罪、错） | to commit
+besluta | verb | 决定；作出决议 | to decide, to resolve
+bete | verb | 表现，举止（bete sig） | to behave (bete sig)
+början | subst | 开始；开头 | beginning, start
+därefter | adv | 之后；随后 | after that, thereafter
+efteråt | adv | 事后；之后 | afterwards
+emot | prep | 朝向；对着；反对 | toward, against, facing
+enligt | prep | 根据；按照 | according to
+fall | subst | 情况；案例；下落 | case; instance; fall
+fel | subst | 错误；错的 | mistake, fault; wrong
+formell | adj | 正式的 | formal
+fram | adv | 向前；到达 | forward; (get) there
+framme | adv | 已到达 | there, arrived
+följdfråga | subst | 追问；后续问题 | follow-up question
+först | adv | 首先；才 | first; not until
+försäkra | verb | 保证；使确信；投保 | to assure; to insure
+förändra | verb | 改变 | to change, alter
+husvägg | subst | 房屋的墙 | house wall
+ifall | konj | 万一；以防 | in case; if
+igenom | adv | 穿过；通过 | through
+innan | konj | 在……之前 | before
+intet | pron | 什么也没有（书面） | nothing (formal/archaic)
+kanal | subst | 频道；运河 | channel
+kontakt | subst | 联系；接触；人脉 | contact
+känna | verb | 感觉；认识；了解 | to feel; to know (a person)
+mobil | subst | 手机 | mobile phone
+namn | subst | 名字 | name
+oktober | subst | 十月 | October
+oroa | verb | 使担心；（oroa sig）担心 | to worry (oroa sig = to be worried)
+osäker | adj | 不确定的；没把握的 | unsure, insecure
+period | subst | 时期；一段时间 | period
+politisk | adj | 政治的 | political
+precis | adv | 正好；刚刚；确切 | exactly; just
+presentera | verb | 介绍；展示 | to introduce; to present
+sal | subst | 大厅；(法庭)审判厅 | hall; courtroom
+sanning | subst | 真相；真理 | truth
+sida | subst | 一侧；页；面 | side; page
+straffa | verb | 惩罚；处罚 | to punish
+sätt | subst | 方式，方法 | way, manner, method
+tillbaka | adv | 回来；回去；回(礼) | back
+tillägga | verb | 补充；添加 | to add (say in addition)
+tolv | räkneord | 十二 | twelve
+undan | adv | 到一边；躲开 | aside; away
+utse | verb | 任命，指定，选定 | to appoint, designate
 # phrases
 stanna upp | partikelverb | 停下来 | to stop, pause
 andas in | partikelverb | 吸入 | to breathe in

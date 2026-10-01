@@ -221,3 +221,8 @@ Olivia 回答。"爸爸，你知道吗？我觉得我们年轻人也应该有投
 - 句子: [[sent-man-måste-vara-18-år-svensk-medborgare]], [[sent-för-att-rösta-i-kommunvalet-räcker]], [[sent-regionerna-ansvarar-för-sjukvården-medan]], [[sent-det-är-val-vart-fjärde-år]], [[sent-några-veckor-före-valet-får-man]], [[sent-alla-får-ställa-upp-i-valet]], [[sent-regeringen-gör-en-budget-över-året]], [[sent-jag-tycker-att-det-är-viktigt-att-rösta]], [[sent-de-säger-att-de-varken-är]]
 - 语法: [[grammar-var-ordningstal]], [[grammar-medan-bisats]], [[grammar-det-racker-att-om]], [[grammar-varken-eller]]
 - 主题: [[topic-val-demokrati]]
+
+## 2026-10-01 补充（逐段精读时补齐的词条）
+
+- 新增生词 (37): [[absolut]]、[[besluta]]、[[bildtext]]、[[bland]]、[[böra]]、[[då]]、[[fjärde]]、[[fram]]、[[före]]、[[förra]]、[[första]]、[[helt]]、[[hemskicka]]、[[ifrån]]、[[ihåg]]、[[innan]]、[[ja]]、[[jo]]、[[jättebra]]、[[kanske]]、[[le]]、[[läxförhör]]、[[nej]]、[[ner]]、[[nästa]]、[[okej]]、[[placera]]、[[pricka]]、[[resultat]]、[[räkna]]、[[röstning]]、[[så]]、[[söndag]]、[[teve]]、[[valkväll]]、[[varken]]、[[vänsterblock]]
+- 原文文章新增「🔍 逐段精读」一节（imported/paste-2026-09-22-laxforhoret-valsystemet.md）

@@ -7,7 +7,7 @@ zh: 黎巴嫩的
 en: Lebanese
 synonyms: []
 antonyms: []
-family: [[Libanon]]
+family: Libanon
 topics: []
 sentences: []
 known: false

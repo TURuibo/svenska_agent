@@ -8,8 +8,8 @@ zh: 队伍、排队；（交通）拥堵
 en: queue, line; traffic jam
 synonyms: []
 antonyms: []
-family: ["[[köa]]"]
-topics: ["[[topic-trafik]]", "[[topic-stadsmiljo]]"]
+family: ["köa"]
+topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

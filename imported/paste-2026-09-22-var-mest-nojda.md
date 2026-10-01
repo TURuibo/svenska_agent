@@ -753,6 +753,40 @@ faktor | subst | 因素 | factor
 avgöra | verb | 决定 | to determine
 befolkningsökning | subst | 人口增长 | population growth
 närhet | subst | 接近、邻近 | proximity
+binda | verb | 捆；系；连接 | to bind, to tie, to connect
+december | subst | 十二月 | December
+dess | pron | 它的，其（den/det 的所有格） | its, of it
+enligt | prep | 根据；按照 | according to
+form | subst | 形式；形状 | form; shape
+färre | adj | 更少的（可数） | fewer
+fördelning | subst | 分配；分布 | distribution
+genom | prep | 穿过；通过 | through; by means of
+geografisk | adj | 地理的 | geographical
+halländsk | adj | 哈兰省的 | of Halland, Hallandic
+hel | adj | 整个的；完整的 | whole, entire
+hit | adv | 到这里（方向） | (to) here
+ja | interjektion | 是；好的 | yes
+kanske | adv | 也许；可能 | maybe, perhaps
+likna | verb | 像；类似（liknande = 类似的） | to resemble (liknande = similar)
+norr | subst | 北；北方 | north
+norrländsk | adj | 北部地区（诺兰）的 | of Norrland, Norrlandic
+område | subst | 地区；领域 | area; field
+per | prep | 每；按 | per
+resultat | subst | 结果；成绩 | result
+samman | adv | 一起；合在一起 | together
+service | subst | 服务；(公共)设施 | service
+siffra | subst | 数字；数据 | figure; digit
+statistikmyndighet | subst | 统计机构 | statistics authority
+storstad | subst | 大城市 | big city
+sydlig | adj | 南方的 | southern
+sydvästra | adj | 西南部的 | south-western
+säga | verb | 说；讲 | to say
+södra | adj | 南部的 | southern
+tredje | ordningstal | 第三 | third
+utgöra | verb | 构成；占(比例) | to constitute; to make up
+viss | adj | 某些的；一定的 | certain; some
+vända | verb | 转；翻转；转向 | to turn
+vård | subst | 医疗；护理 | care; healthcare
 # phrases
 lägga märke till | fras | 注意到 | to notice
 när det gäller | fras | 说到……、就……而言 | when it comes to

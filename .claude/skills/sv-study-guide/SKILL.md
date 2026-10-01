@@ -33,6 +33,8 @@ node tools/build-reading-site.js
 
 - 词按词性/字母切成 3–4 批，各交一个前台或后台 `sv-librarian`；词组单独一批。切分必须**不相交**，并告诉它们只动自己清单里的文件。
 - **Forms 表硬性要求**：Swedish 列每格**一个裸词形**（`gick`，不是 `han gick`、不是 `gick/gått`）；动词含 s-被动（`krävs/krävdes`）、名词含用到的属格（`livs`、`årets`）、形容词含 `-aste`。
+- 匹配器**只读 Forms 段里的第一张表**、且只读第 2 列起：若笔记有「form | 例句/语境」说明表，裸词形表必须放在它**前面**（2026-10-01 någon/nöjd 教训）。
+- frontmatter 的 `synonyms/antonyms/family` 写裸 slug，不要写 `[[x]]`（YAML 会解析成嵌套列表）。
 - 第一个例句 = 文章原句 + 中文；`用法提示` 末尾 `来源: [[source-…]]`。
 - 新语法点（文中出现但 KB 没有的）自己写 `grammar-*` 笔记（如 `grammar-hade-ellips`、`grammar-satsflata`）。
 

@@ -4,7 +4,7 @@ title: "Klimatkatastrofen i Pakistan"
 kind: "article"
 cefr: "B1"
 date_added: "2026-09-22"
-words: ["hjälparbetare", "katastrof", "svält", "orkan", "klimatförändring", "översvämning", "tredjedel", "akut", "torka", "skörd", "skogsbrand", "glaciär", "smälta", "monsunregn", "nederbörd", "hustak", "utsläpp", "koldioxid", "atmosfär", "livlös", "klimathot", "naturresurs", "försörjning", "mygga", "malaria", "diarré", "bro", "konsumera", "konsumtion", "pryl"]
+words: ["hjälparbetare", "katastrof", "svält", "orkan", "klimatförändring", "översvämning", "tredjedel", "akut", "torka", "skörd", "skogsbrand", "glaciär", "smälta", "monsunregn", "nederbörd", "hustak", "utsläpp", "koldioxid", "atmosfär", "livlös", "klimathot", "naturresurs", "försörjning", "mygga", "malaria", "diarré", "bro", "konsumera", "konsumtion", "pryl", alldeles, augusti, befinna, behov, bero, beroende, dö, enorm, extrem, fiskare, förrän, först, hittills, jo, klimatkatastrof, leda, mat, monsunperiod, någonstans, område, produktion, situation, skydd, släppa, svämma, sätt, torka-verb, viss, värsta, ökning]
 phrases: ["vara-med-om", "befinna-sig", "drabbas-av", "bero-pa", "leda-till", "svämma-över", "söka-skydd", "släppa-ut", "i-behov-av", "locka-till-sig", "minska-på"]
 sentences: ["sent-nu-befinner-han-sig-i-pakistan-ett-land", "sent-en-tredjedel-av-landet-ar-tackt-med-vatten", "sent-tyvarr-drabbas-de-fattiga-landerna-mest", "sent-vi-koper-alldeles-for-manga-saker", "sent-den-basta-hjalpen-ar-om-manniskorna-i-de-rika"]
 grammar: ["grammar-inte-förrän", "grammar-trots-att", "grammar-s-passiv", "grammar-s-passiv-i-perfekt", "grammar-utan-vs-men"]
@@ -41,3 +41,8 @@ fullständig text)
 - 词组: [[vara-med-om]], [[befinna-sig]], [[drabbas-av]], [[bero-pa]], [[leda-till]], [[svämma-över]], [[söka-skydd]], [[släppa-ut]], [[i-behov-av]], [[locka-till-sig]], [[minska-på]]
 - 句子: [[sent-nu-befinner-han-sig-i-pakistan-ett-land]], [[sent-en-tredjedel-av-landet-ar-tackt-med-vatten]], [[sent-tyvarr-drabbas-de-fattiga-landerna-mest]], [[sent-vi-koper-alldeles-for-manga-saker]], [[sent-den-basta-hjalpen-ar-om-manniskorna-i-de-rika]]
 - 语法: [[grammar-inte-förrän]], [[grammar-trots-att]], [[grammar-s-passiv]], [[grammar-s-passiv-i-perfekt]], [[grammar-utan-vs-men]]
+
+## 2026-10-01 补充（逐段精读时补齐的词条）
+
+- 新增生词 (30): [[alldeles]]、[[augusti]]、[[befinna]]、[[behov]]、[[bero]]、[[beroende]]、[[dö]]、[[enorm]]、[[extrem]]、[[fiskare]]、[[förrän]]、[[först]]、[[hittills]]、[[jo]]、[[klimatkatastrof]]、[[leda]]、[[mat]]、[[monsunperiod]]、[[någonstans]]、[[område]]、[[produktion]]、[[situation]]、[[skydd]]、[[släppa]]、[[svämma]]、[[sätt]]、[[torka-verb]]、[[viss]]、[[värsta]]、[[ökning]]
+- 原文文章新增「🔍 逐段精读」一节（imported/paste-2026-09-22-klimatkatastrofen-pakistan.md）

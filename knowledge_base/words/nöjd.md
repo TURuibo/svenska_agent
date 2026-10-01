@@ -7,9 +7,9 @@ cefr: A2
 zh: "满意的/满足的"
 en: "satisfied, pleased, content"
 synonyms: []
-antonyms: ["[[missnöjd]]"]
+antonyms: ["missnöjd"]
 family: []
-topics: ["[[topic-personer]]", "[[topic-karaktarsord]]"]
+topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
 created: "2026-06-20"
@@ -26,15 +26,6 @@ interval: 0
 
 ## 语法变形 (Forms)
 
-| form | exempel |
-|------|---------|
-| obestämd singular (en-ord) | en **nöjd** kund |
-| obestämd singular (ett-ord) | ett **nöjt** barn |
-| bestämd / plural | den **nöjda** kunden · **nöjda** kunder |
-| komparativ | **nöjdare** |
-| superlativ (obestämd) | **nöjdast** |
-| superlativ (bestämd) | den **nöjdaste** |
-
 | Form | Swedish |
 |------|---------|
 | en-ord | nöjd |
@@ -43,6 +34,15 @@ interval: 0
 | komparativ | nöjdare |
 | superlativ | nöjdast |
 | superlativ (bestämd) | nöjdaste |
+
+| form | exempel |
+|------|---------|
+| obestämd singular (en-ord) | en **nöjd** kund |
+| obestämd singular (ett-ord) | ett **nöjt** barn |
+| bestämd / plural | den **nöjda** kunden · **nöjda** kunder |
+| komparativ | **nöjdare** |
+| superlativ (obestämd) | **nöjdast** |
+| superlativ (bestämd) | den **nöjdaste** |
 
 ⚠️ Neutrum: **nöjt** (inte *nöjdt*)
 

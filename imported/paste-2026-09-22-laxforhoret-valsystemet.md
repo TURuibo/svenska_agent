@@ -1192,6 +1192,43 @@ identitetskort | subst | 身份证 | ID card
 valarbetare | subst | 选举工作人员 | election official
 framtid | subst | 未来 | future
 möjlighet | subst | 机会、可能性 | possibility
+absolut | adv | 绝对；当然（可以） | absolutely, of course
+besluta | verb | 决定；作出决议 | to decide, to resolve
+bildtext | subst | 图片说明 | caption
+bland | prep | 在……之中；在……当中 | among
+böra | verb | 应该；应当（情态动词） | ought to, should
+då | adv | 那时；那么；当……时 | then; when (past)
+fjärde | ordningstal | 第四 | fourth
+fram | adv | 向前；到达 | forward; (get) there
+före | prep | 在……之前 | before
+förra | adj | 上一个的 | last, previous
+första | ordningstal | 第一，首次的 | first
+helt | adv | 完全地 | completely, entirely
+hemskicka | verb | 寄到家里 | to send home
+ifrån | prep | 从……来；离开 | from; away from
+ihåg | adv | 记住（komma ihåg） | remembered (in
+innan | konj | 在……之前 | before
+ja | interjektion | 是；好的 | yes
+jo | interjektion | 是的（对否定问句）；嗯 | yes (to a negative question); well
+jättebra | adj | 非常好 | really good, great
+kanske | adv | 也许；可能 | maybe, perhaps
+le | verb | 微笑 | to smile
+läxförhör | subst | 功课抽查；背诵测验 | homework quiz
+nej | interjektion | 不；不是 | no
+ner | adv | 向下 | down
+nästa | adj | 下一个 | next
+okej | interjektion | 好的；行 | okay
+placera | verb | 放置；把……归类 | to place; to classify
+pricka | verb | 打点；（pricka av）勾掉、核对 | to dot; (pricka av) to tick off
+resultat | subst | 结果；成绩 | result
+räkna | verb | 数；计算；算作 | to count; to calculate
+röstning | subst | 投票（过程） | voting
+så | adv | 这样，那么；所以 | so, thus, then
+söndag | subst | 星期日 | Sunday
+teve | subst | 电视 | TV
+valkväll | subst | 选举之夜 | election night
+varken | konj | 既不……也不…… | neither (… nor)
+vänsterblock | subst | 左翼阵营 | left-wing bloc
 # phrases
 ansvara för | 对……负责 | be responsible for
 vart fjärde år | 每四年 | every four years

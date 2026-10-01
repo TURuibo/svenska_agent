@@ -8,8 +8,8 @@ zh: 人行横道、斑马线
 en: pedestrian crossing, crosswalk, zebra crossing
 synonyms: []
 antonyms: []
-family: ["[[gå]]", "[[övergång]]"]
-topics: ["[[topic-trafik]]", "[[topic-stadsmiljo]]"]
+family: ["gå", "övergång"]
+topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

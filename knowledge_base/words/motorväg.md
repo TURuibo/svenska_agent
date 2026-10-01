@@ -8,8 +8,8 @@ zh: 高速公路
 en: highway, motorway
 synonyms: []
 antonyms: []
-family: ["[[väg]]"]
-topics: ["[[topic-trafik]]"]
+family: ["väg"]
+topics: ["topic-trafik"]
 sentences: []
 known: false
 created: "2026-06-25"

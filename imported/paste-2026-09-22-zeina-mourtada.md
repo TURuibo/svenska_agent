@@ -796,6 +796,56 @@ offentlighet | subst | 公众视野 | public life
 reaktion | subst | 反应 | reaction
 färskost | subst | 新鲜奶酪 | fresh cheese
 avrunnen | adj | 沥干的 | drained
+bakom | prep | 在……后面 | behind
+be | verb | 请求；祈祷 | to ask (for), to request, to pray
+bland | prep | 在……之中；在……当中 | among
+blogg | subst | 博客 | blog
+början | subst | 开始；开头 | beginning, start
+driva | verb | 经营；推动；驱动 | to run (a business), to drive, to push
+flirta | verb | 调情 | to flirt
+fly | verb | 逃跑；逃离 | to flee
+fota | verb | 拍照 | to photograph, take a photo of
+genom | prep | 穿过；通过 | through; by means of
+grund | subst | 基础；原因 | basis; ground; reason
+grupp | subst | 小组；团体 | group
+hel | adj | 整个的；完整的 | whole, entire
+hem | subst | 家 | home
+idé | subst | 主意；想法 | idea
+ifrån | prep | 从……来；离开 | from; away from
+innan | konj | 在……之前 | before
+intresserad | adj | 感兴趣的 | interested
+kebab | subst | 烤肉串；烤肉 | kebab
+kock | subst | 厨师 | cook, chef
+kommentar | subst | 评论 | comment
+krydda | subst | 香料；调味料 | spice
+labhneboll | subst | 拉布内球（酸奶奶酪球） | labneh ball
+leda | verb | 带领；导致 | to lead; to cause
+libanesisk | adj | 黎巴嫩的 | Lebanese
+mat | subst | 食物；饭 | food
+matbutik | subst | 食品店 | grocery store
+matgrupp | subst | 美食群组 | food group (online)
+matlagning | subst | 烹饪；做饭 | cooking
+matminne | subst | 与食物相关的记忆 | food memory
+möta | verb | 遇见；迎接；面对 | to meet; to face
+nedskriven | adj | 写下来的 | written down
+negativ | adj | 负面的；消极的 | negative
+ner | adv | 向下 | down
+nät | subst | 网；网络（på nätet = 在网上） | net; network (på nätet = online)
+pitabröd | subst | 皮塔饼 | pita bread
+positiv | adj | 积极的；正面的 | positive
+rulla | verb | 滚；卷（做球时＝裹上） | to roll
+röra | verb | 移动；触动；碰 | to move; to touch; to stir
+samla | verb | 收集；聚集 | to collect; to gather
+skriva | verb | 写 | to write
+sportbutik | subst | 体育用品店 | sports shop
+spännande | adj | 令人兴奋的；刺激的 | exciting
+starta | verb | 开始；启动；创办 | to start; to launch
+sätt | subst | 方式，方法 | way, manner, method
+teve | subst | 电视 | TV
+tillfråga | verb | 询问；征求 | to ask (someone)
+undan | adv | 到一边；躲开 | aside; away
+värsta | adj | 最糟的；最坏的 | worst
+yoghurt | subst | 酸奶 | yoghurt
 # phrases
 ta del av | fras | 接触到、了解到 | to take part of, access
 till en början | fras | 一开始 | at first

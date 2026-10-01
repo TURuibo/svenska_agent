@@ -7,9 +7,9 @@ cefr: A2
 zh: "难过的/伤心的"
 en: "sad, sorry"
 synonyms: []
-antonyms: ["[[glad]]", "[[lycklig]]"]
+antonyms: ["glad", "lycklig"]
 family: []
-topics: ["[[topic-personer]]", "[[topic-karaktarsord]]"]
+topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
 created: "2026-06-20"

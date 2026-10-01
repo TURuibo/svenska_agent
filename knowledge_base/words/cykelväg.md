@@ -8,8 +8,8 @@ zh: 自行车道
 en: bike path, cycle lane
 synonyms: []
 antonyms: []
-family: ["[[cykel]]", "[[väg]]"]
-topics: ["[[topic-trafik]]", "[[topic-stadsmiljo]]"]
+family: ["cykel", "väg"]
+topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

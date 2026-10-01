@@ -6,8 +6,8 @@ cefr: A1
 zh: 第一，首次的
 en: first
 synonyms: []
-antonyms: [[sista]]
-family: [[först]]
+antonyms: sista
+family: först
 topics: []
 sentences: []
 known: false

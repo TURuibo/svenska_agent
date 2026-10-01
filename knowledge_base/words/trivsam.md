@@ -6,10 +6,10 @@ genus: ""
 cefr: B1
 zh: 宜人的、舒适的
 en: pleasant, cozy
-synonyms: ["[[mysig]]", "[[trevlig]]"]
+synonyms: ["mysig", "trevlig"]
 antonyms: []
-family: ["[[trivas]]"]
-topics: ["[[topic-stadsmiljo]]"]
+family: ["trivas"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

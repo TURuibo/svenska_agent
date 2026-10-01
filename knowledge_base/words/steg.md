@@ -8,7 +8,7 @@ zh: 步，脚步；阶段
 en: step, pace; stage
 synonyms: []
 antonyms: []
-family: [[stiga]]
+family: stiga
 topics: []
 sentences: []
 known: false

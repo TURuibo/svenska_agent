@@ -6,10 +6,10 @@ genus: en
 cefr: A2
 zh: 城区、城市区块
 en: city district, neighborhood
-synonyms: ["[[kvarter]]"]
+synonyms: ["kvarter"]
 antonyms: []
-family: ["[[stad]]"]
-topics: ["[[topic-stadsmiljo]]"]
+family: ["stad"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

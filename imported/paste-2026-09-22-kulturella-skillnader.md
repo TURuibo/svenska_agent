@@ -1198,6 +1198,65 @@ medarbetare | subst | 同事、员工 | co-worker
 förändring | subst | 变化 | change
 påverka | verb | 影响 | to influence
 konkurrens | subst | 竞争 | competition
+absolut | adv | 绝对；当然（可以） | absolutely, of course
+aktivitet | subst | 活动 | activity
+all | pron | 所有的，全部的 | all, every, everything
+arbetsplats | subst | 工作场所；单位 | workplace
+be | verb | 请求；祈祷 | to ask (for), to request, to pray
+bero | verb | 取决于；起因于（bero på） | to depend on, to be due to
+böra | verb | 应该；应当（情态动词） | ought to, should
+början | subst | 开始；开头 | beginning, start
+diskussion | subst | 讨论 | discussion
+diskutera | verb | 讨论 | to discuss
+dock | adv | 然而；不过 | however, though
+facebookgrupp | subst | Facebook 小组 | Facebook group
+folk | subst | 人们；民族 | people; folk
+folksamling | subst | 人群 | crowd
+fort | adv | 快；迅速 | fast, quickly
+första | ordningstal | 第一，首次的 | first
+genom | prep | 穿过；通过 | through; by means of
+hej | interjektion | 你好；嗨 | hello, hi
+helgplan | subst | 周末计划 | weekend plan
+heller | adv | 也（不） | either, neither (after negation)
+helt | adv | 完全地 | completely, entirely
+hit | adv | 到这里（方向） | (to) here
+idrottsförening | subst | 体育协会 | sports club
+innanför | prep | 在……里面 | inside, within
+jättegod | adj | 非常好吃的 | delicious, really tasty
+kliva | verb | 迈步；踏上 | to step, stride
+kontakt | subst | 联系；接触；人脉 | contact
+kulturell | adj | 文化的 | cultural
+känna | verb | 感觉；认识；了解 | to feel; to know (a person)
+le | verb | 微笑 | to smile
+mat | subst | 食物；饭 | food
+miljövänlig | adj | 环保的 | environmentally friendly
+min | pron | 我的 | my, mine
+möta | verb | 遇见；迎接；面对 | to meet; to face
+nej | interjektion | 不；不是 | no
+nere | adv | 在下面；情绪低落 | down, below; feeling down
+nära | adj | 近的；靠近 | near, close
+område | subst | 地区；领域 | area; field
+ordna | verb | 安排；整理；组织 | to arrange; to organise
+pengar | subst | 钱 | money
+personlig | adj | 个人的；私人的 | personal
+politik | subst | 政治；政策 | politics; policy
+positiv | adj | 积极的；正面的 | positive
+reagera | verb | 反应；对……有反应 | to react
+relativ | adj | 相对的；（relativt）相当 | relative; (relativt) relatively
+samla | verb | 收集；聚集 | to collect; to gather
+skida | subst | 滑雪板 | ski
+släppa | verb | 放开；让……进入；排放 | to let go; to release
+social | adj | 社交的；社会的 | social
+spännande | adj | 令人兴奋的；刺激的 | exciting
+steg | subst | 步，脚步；阶段 | step, pace; stage
+stöta | verb | 碰撞；撞到 | to bump; to knock
+svensk | subst | 瑞典人 | Swede
+säga | verb | 说；讲 | to say
+sällan | adv | 很少；难得 | seldom
+tillbaka | adv | 回来；回去；回(礼) | back
+typ | subst | 类型；种类 | type; kind
+van | adj | 习惯的；熟练的 | used (to); accustomed
+viss | adj | 某些的；一定的 | certain; some
 # phrases
 lägga märke till | fras | 注意到 | to notice
 be om ursäkt | fras | 道歉 | to apologise

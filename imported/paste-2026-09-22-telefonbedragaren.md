@@ -867,6 +867,45 @@ anmälan | subst | 报案、申报 | report
 bedrägeri | subst | 诈骗 | fraud
 uppmaning | subst | 要求、敦促 | prompt, urging
 lögn | subst | 谎言 | lie
+band | subst | 传送带；带子；乐队 | belt, band, ribbon, (conveyor) belt
+barngrupp | subst | 儿童小组；幼儿班 | group of children
+böra | verb | 应该；应当（情态动词） | ought to, should
+enda | adj | 唯一的 | only, sole
+fara | subst | 危险 | danger
+fel | subst | 错误；错的 | mistake, fault; wrong
+fram | adv | 向前；到达 | forward; (get) there
+full | adj | 满的；醉的 | full; drunk
+först | adv | 首先；才 | first; not until
+förut | adv | 以前；先前 | before, previously
+hemåt | adv | 向家的方向 | homeward
+id | subst | 身份证明；ID | ID, identification
+ifrån | prep | 从……来；离开 | from; away from
+igenom | adv | 穿过；通过 | through
+innan | konj | 在……之前 | before
+innanför | prep | 在……里面 | inside, within
+iväg | adv | 离开；出发 | away, off
+ja | interjektion | 是；好的 | yes
+knapp | adj | 勉强的；刚刚 | scant, barely
+knappa | verb | 按键输入 | to key in, tap
+koll | subst | 监督；掌握（口语） | control, check (colloquial)
+känna | verb | 感觉；认识；了解 | to feel; to know (a person)
+köp | subst | 购买；交易 | purchase
+lillebror | subst | 弟弟 | little brother
+logga | verb | 登录（logga in） | to log (in)
+mobil | subst | 手机 | mobile phone
+ner | adv | 向下 | down
+nerför | prep | 沿……而下 | down (along), downhill
+oroa | verb | 使担心；（oroa sig）担心 | to worry (oroa sig = to be worried)
+pengar | subst | 钱 | money
+precis | adv | 正好；刚刚；确切 | exactly; just
+ramsa | subst | 一串；顺口溜 | rhyme; string (of words)
+ropa | verb | 喊；叫 | to shout; to call out
+sådan | pron | 这样的；那种 | such
+tala | verb | 说话；讲(语言) | to speak; to talk
+telefon | subst | 电话 | telephone
+tillbaka | adv | 回来；回去；回(礼) | back
+trycka | verb | 按；压；推 | to press; to push
+utge | verb | 出版；(utge sig för)冒充 | to publish; to pose as
 # phrases
 ha fullt upp | fras | 忙得不可开交 | to have one's hands full
 hålla koll på | fras | 盯住、照看 | to keep an eye on

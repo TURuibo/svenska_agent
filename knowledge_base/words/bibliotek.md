@@ -9,7 +9,7 @@ en: library
 synonyms: []
 antonyms: []
 family: []
-topics: ["[[topic-stadsmiljo]]", "[[topic-skola-och-utbildning]]"]
+topics: ["topic-stadsmiljo", "topic-skola-och-utbildning"]
 sentences: []
 known: false
 created: "2026-06-25"

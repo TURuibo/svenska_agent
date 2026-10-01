@@ -8,8 +8,8 @@ zh: 市政厅
 en: town hall, city hall
 synonyms: []
 antonyms: []
-family: ["[[hus]]"]
-topics: ["[[topic-stadsmiljo]]", "[[topic-samhälle-och-politik]]"]
+family: ["hus"]
+topics: ["topic-stadsmiljo", "topic-samhälle-och-politik"]
 sentences: []
 known: false
 created: "2026-06-25"

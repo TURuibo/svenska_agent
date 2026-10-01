@@ -8,7 +8,7 @@ zh: 方式，方法
 en: way, manner, method
 synonyms: []
 antonyms: []
-family: [[sätta]]
+family: sätta
 topics: []
 sentences: []
 known: false

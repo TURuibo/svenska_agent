@@ -7,9 +7,9 @@ cefr: B1
 zh: 空无一人的
 en: deserted, empty of people
 synonyms: []
-antonyms: ["[[folkrik]]"]
-family: ["[[folk]]"]
-topics: ["[[topic-stadsmiljo]]"]
+antonyms: ["folkrik"]
+family: ["folk"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

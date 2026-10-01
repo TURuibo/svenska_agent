@@ -7,7 +7,7 @@ zh: 十二
 en: twelve
 synonyms: []
 antonyms: []
-family: [[tolfte]]
+family: tolfte
 topics: []
 sentences: []
 known: false

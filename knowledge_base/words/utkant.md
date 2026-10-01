@@ -7,9 +7,9 @@ cefr: B1
 zh: 郊区、外围
 en: outskirts, periphery
 synonyms: []
-antonyms: ["[[centrum]]"]
-family: ["[[kant]]"]
-topics: ["[[topic-stadsmiljo]]"]
+antonyms: ["centrum"]
+family: ["kant"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

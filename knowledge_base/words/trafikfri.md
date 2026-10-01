@@ -8,8 +8,8 @@ zh: 无车的、无交通的
 en: traffic-free, car-free
 synonyms: []
 antonyms: []
-family: ["[[trafik]]"]
-topics: ["[[topic-trafik]]", "[[topic-stadsmiljo]]"]
+family: ["trafik"]
+topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

@@ -9,7 +9,7 @@ en: museum
 synonyms: []
 antonyms: []
 family: []
-topics: ["[[topic-stadsmiljo]]", "[[topic-fritid-och-resor]]"]
+topics: ["topic-stadsmiljo", "topic-fritid-och-resor"]
 sentences: []
 known: false
 created: "2026-06-25"

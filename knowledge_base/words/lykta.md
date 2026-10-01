@@ -8,8 +8,8 @@ zh: 路灯、灯笼
 en: street lamp, lantern
 synonyms: []
 antonyms: []
-family: ["[[ljus]]"]
-topics: ["[[topic-stadsmiljo]]"]
+family: ["ljus"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

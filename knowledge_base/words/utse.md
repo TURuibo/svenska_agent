@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: B2
 zh: 任命，指定，选定
 en: to appoint, designate
-synonyms: [[utnämna]]
+synonyms: utnämna
 antonyms: []
-family: [[se]]
+family: se
 topics: []
 sentences: []
 known: false

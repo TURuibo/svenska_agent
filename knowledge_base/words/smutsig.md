@@ -7,9 +7,9 @@ cefr: A2
 zh: 肮脏的
 en: dirty
 synonyms: []
-antonyms: ["[[ren]]"]
-family: ["[[smuts]]"]
-topics: ["[[topic-stadsmiljo]]"]
+antonyms: ["ren"]
+family: ["smuts"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

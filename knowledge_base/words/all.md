@@ -6,7 +6,7 @@ cefr: A2
 zh: 所有的，全部的
 en: all, every, everything
 synonyms: []
-antonyms: [[ingen]]
+antonyms: ingen
 family: []
 topics: []
 sentences: []

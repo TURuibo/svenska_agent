@@ -7,7 +7,7 @@ zh: 第四
 en: fourth
 synonyms: []
 antonyms: []
-family: [[fyra]]
+family: fyra
 topics: []
 sentences: []
 known: false

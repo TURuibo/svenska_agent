@@ -7,7 +7,7 @@ zh: 哈兰省的
 en: of Halland, Hallandic
 synonyms: []
 antonyms: []
-family: [[Halland]]
+family: Halland
 topics: []
 sentences: []
 known: false

@@ -7,7 +7,7 @@ zh: 第三
 en: third
 synonyms: []
 antonyms: []
-family: [[tre]]
+family: tre
 topics: []
 sentences: []
 known: false

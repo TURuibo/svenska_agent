@@ -8,8 +8,8 @@ zh: 维护良好的
 en: well-maintained, well-kept
 synonyms: []
 antonyms: []
-family: ["[[sköta]]"]
-topics: ["[[topic-stadsmiljo]]"]
+family: ["sköta"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

@@ -8,8 +8,8 @@ zh: 超员的、过满的
 en: overcrowded, overfull
 synonyms: []
 antonyms: []
-family: ["[[full]]"]
-topics: ["[[topic-trafik]]", "[[topic-kollektivtrafik]]"]
+family: ["full"]
+topics: ["topic-trafik", "topic-kollektivtrafik"]
 sentences: []
 known: false
 created: "2026-06-25"

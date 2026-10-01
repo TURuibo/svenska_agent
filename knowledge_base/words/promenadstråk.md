@@ -8,8 +8,8 @@ zh: 散步道、步行道
 en: promenade, walking path
 synonyms: []
 antonyms: []
-family: ["[[promenad]]"]
-topics: ["[[topic-stadsmiljo]]", "[[topic-fritid-och-resor]]"]
+family: ["promenad"]
+topics: ["topic-stadsmiljo", "topic-fritid-och-resor"]
 sentences: []
 known: false
 created: "2026-06-25"

@@ -7,9 +7,9 @@ cefr: A2
 zh: "谨慎的/小心的"
 en: "careful, cautious"
 synonyms: []
-antonyms: ["[[farlig]]"]
+antonyms: ["farlig"]
 family: []
-topics: ["[[topic-personer]]", "[[topic-karaktarsord]]"]
+topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
 created: "2026-06-20"

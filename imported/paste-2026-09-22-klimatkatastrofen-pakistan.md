@@ -804,6 +804,35 @@ bro | subst | 桥 | bridge
 konsumera | verb | 消费 | to consume
 konsumtion | subst | 消费 | consumption
 pryl | subst | 小物件、玩意儿 | gadget, thing
+alldeles | adv | 完全；太（alldeles för = 过于） | completely, quite; (alldeles för) far too
+augusti | subst | 八月 | August
+befinna | verb | 位于；处于（befinna sig） | to be (located), to find oneself (befinna sig)
+behov | subst | 需要；需求 | need
+bero | verb | 取决于；起因于（bero på） | to depend on, to be due to
+beroende | adj | 依赖的；（名词）瘾 | dependent; (noun) addiction
+dö | verb | 死；去世 | to die
+enorm | adj | 巨大的 | enormous, huge
+extrem | adj | 极端的；极度的 | extreme
+fiskare | subst | 渔民 | fisherman
+förrän | konj | 直到……才 | until, before (after negation)
+först | adv | 首先；才 | first; not until
+hittills | adv | 到目前为止 | so far, until now
+jo | interjektion | 是的（对否定问句）；嗯 | yes (to a negative question); well
+klimatkatastrof | subst | 气候灾难 | climate disaster
+leda | verb | 带领；导致 | to lead; to cause
+mat | subst | 食物；饭 | food
+monsunperiod | subst | 季风期 | monsoon season
+någonstans | adv | 某处；任何地方 | somewhere; anywhere
+område | subst | 地区；领域 | area; field
+produktion | subst | 生产 | production
+situation | subst | 情况；处境 | situation
+skydd | subst | 保护；掩蔽处 | protection; shelter
+släppa | verb | 放开；让……进入；排放 | to let go; to release
+svämma | verb | 泛滥；涌出 | to flood; to overflow
+sätt | subst | 方式，方法 | way, manner, method
+viss | adj | 某些的；一定的 | certain; some
+värsta | adj | 最糟的；最坏的 | worst
+ökning | subst | 增加；增长 | increase
 # phrases
 vara med om | fras | 经历（某事） | to experience, go through
 befinna sig | fras | 身处、位于 | to be located
