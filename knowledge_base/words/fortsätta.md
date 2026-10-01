@@ -37,7 +37,8 @@ interval: 0
 | Preteritum | fortsatte |
 | Supinum | (har) fortsatt |
 
-不规则 — 属于 grupp 2b 但注意 preteritum 是 *fortsatte*（不是 *fortsättde*）。
+不规则 — -sätta 复合词，像 *sätta* 一样：preteritum *fortsatte*、supinum *fortsatt*（不是 *fortsättde*/*fortsättat*）→ [[grammar-starka-verb]]。
+来源: [[source-2026-10-01-sprakvagen-verbformer]]
 
 ## 词组搭配 (Collocations)
 

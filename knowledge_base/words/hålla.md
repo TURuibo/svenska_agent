@@ -57,3 +57,4 @@ interval: 0
 
 - `hålla` 有大量 partikelverb：hålla med (同意)、hålla på (正在做)、hålla ut (坚持)、hålla kvar (继续保持)。
 - oregelbundet: hålla – håller – höll – hållit。
+- 来源: [[source-2026-10-01-sprakvagen-verbformer]]（håller på med – höll på med – hållit på med）

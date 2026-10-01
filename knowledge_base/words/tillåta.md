@@ -49,4 +49,5 @@ created: "2026-09-22"
 
 ## 用法提示 (Usage Notes)
 
-- 来源: [[source-2026-09-22-nils-van-der-poel]]
+- 来源: [[source-2026-09-22-nils-van-der-poel]]、[[source-2026-10-01-sprakvagen-verbformer]]
+- 强变化：tillåter–tillät–tillåtit（注意 supinum 是 -it）。

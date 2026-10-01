@@ -48,4 +48,6 @@ created: "2026-09-22"
 
 ## 用法提示 (Usage Notes)
 
-- 来源: [[source-2026-09-22-nils-van-der-poel]]
+- 用 `i` + 城市/国家，`på` + 岛/乡村：bosätta sig i Malmö / på Gotland。
+- -sätta 复合词像 sätta：satte / satt → [[grammar-starka-verb]]；反身动词 → [[grammar-reflexivt-verb]]。
+- 来源: [[source-2026-09-22-nils-van-der-poel]]、[[source-2026-10-01-sprakvagen-verbformer]]

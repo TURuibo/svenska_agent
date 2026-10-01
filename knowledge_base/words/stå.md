@@ -74,4 +74,4 @@ interval: 0
 - 竖立或有高度的物体用 **stå**：家具（床、桌、椅、书架、柜子）、直立的书（书架上）、灯。
 - 强变词（stark verb）：stå → stod → stått（不规则变化）。
 - 语法点：[[grammar-ligga-sta-sitta]]
-- 来源: [[source-2026-06-09-rumsliga-relationer]]
+- 来源: [[source-2026-06-09-rumsliga-relationer]]、[[source-2026-10-01-sprakvagen-verbformer]]

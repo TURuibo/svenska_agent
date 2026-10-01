@@ -60,4 +60,4 @@ interval: 0
 
 - `satsa på X` (partikelverb) = 投入于X，是课文关键词组；参见 [[satsa-pa]]。
 - 可用于体育（satsa på fotboll）、商业（satsa på ny produkt）、赌博（satsa pengar）语境。
-- 来源: [[source-2026-06-09-zlatan-bio]]
+- 来源: [[source-2026-06-09-zlatan-bio]]、[[source-2026-10-01-sprakvagen-verbformer]]

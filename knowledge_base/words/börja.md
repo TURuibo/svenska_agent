@@ -56,3 +56,4 @@ Verbgrupp 1 (–ar). Regelbundet.
 ## 用法提示 (Usage Notes)
 
 - "börja" + infinitiv (utan att): Han börjar spela. Alternativt "börja med att" + infinitiv.
+- 来源: [[source-2026-10-01-sprakvagen-verbformer]]（börjar–började–börjat，grupp 1）

@@ -61,4 +61,4 @@ interval: 0
 
 - grupp 2a：växa → växte → växt（注意 preteritum 是 växte，不是 växade）。
 - `växa upp` = 成长/长大（人）；`växa` alone = 植物/东西生长。
-- 来源: [[source-2026-06-09-beskriva-en-gata]]
+- 来源: [[source-2026-06-09-beskriva-en-gata]]、[[source-2026-10-01-sprakvagen-verbformer]]

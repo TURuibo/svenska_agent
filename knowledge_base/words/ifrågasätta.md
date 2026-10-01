@@ -49,4 +49,5 @@ created: "2026-09-22"
 
 ## 用法提示 (Usage Notes)
 
-- 来源: [[source-2026-09-22-nils-van-der-poel]]
+- -sätta 复合词（ifrågasätta、bosätta sig、fortsätta）都像 sätta：satte / satt → [[grammar-starka-verb]]。
+- 来源: [[source-2026-09-22-nils-van-der-poel]]、[[source-2026-10-01-sprakvagen-verbformer]]

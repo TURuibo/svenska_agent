@@ -28,6 +28,7 @@ interval: 0
 
 ## 用法说明 (Usage)
 
+- 变形：tar igen – tog igen – tagit igen（词 [[ta]]）。来源: [[source-2026-10-01-sprakvagen-verbformer]]
 - 表示补偿之前错过、失去的东西或时间，常与 `det man gått miste om` 之类的宾语连用。
 
 ## 短语中的语法 (Grammar inside)

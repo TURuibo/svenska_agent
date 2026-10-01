@@ -62,4 +62,5 @@ interval: 0
 - 重要区分：`lägga` = 把东西放成卧倒状态（及物）；`ligga` = 躺着/位于（不及物，状态）。
 - `lägga sig` = 去躺下（开始躺的动作）；`ligga` = 已经躺着（持续状态）。
 - 不规则：lägga → **lade** → lagt（注意不是 *lade sig* 的 preteritum 是 *lade*）。
-- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]
+- 口语 preteritum 也可写作 `la`（la av = lade av）；lägga av 的 supinum = lagt av → [[lägga-av]]。
+- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]、[[source-2026-10-01-sprakvagen-verbformer]]

@@ -57,3 +57,4 @@ interval: 0
 - 常加不定式：`hinna ses`（有时间见面），`hinna äta`（来得及吃）。
 - 与 `kunna`（can/able to）区别：`hinna` 强调"时间上来得及"，`kunna` 强调"能力上能"。
 - 否定常用 `hinner inte` = 来不及；有时间则说 `hinner` 或 `har tid att`。
+- 来源: [[source-2026-10-01-sprakvagen-verbformer]]（hinner–hann–hunnit）

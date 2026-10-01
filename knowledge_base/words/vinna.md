@@ -53,4 +53,4 @@ interval: 0
 ## 用法提示 (Usage Notes)
 
 - 强变化动词 (starkt verb)：vinna–vann–vunnit，元音交替 i→a→u。
-- 来自 [[source-2026-08-06-elin-wagner]]。
+- 来自 [[source-2026-08-06-elin-wagner]]、[[source-2026-10-01-sprakvagen-verbformer]]（练习 B 例词）。

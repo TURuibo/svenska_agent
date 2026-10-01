@@ -57,3 +57,4 @@ interval: 0
 
 - `förlora` (输/失去) ↔ `vinna` (赢) 是体育与政治新闻中最常见的反义对。
 - 名词 `[[förlust]]` 已存在于 KB（同一词族）。
+- 来源: [[source-2026-10-01-sprakvagen-verbformer]]

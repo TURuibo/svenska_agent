@@ -29,6 +29,8 @@ interval: 0
 ## 用法说明 (Usage)
 
 - `hålla på med ngt` = 正在做某事（持续动作）。
+- 变形：håller på (med) – höll på (med) – hållit på (med)，如 Jag har hållit på med läxorna hela kvällen。来源: [[source-2026-10-01-sprakvagen-verbformer]]
+- `hålla på med` 也可表示“从事、忙于”（长期做）：Han håller på med musik。
 - `hålla på att + verb` = 快要/正要（表示即将发生，常带情感色彩）：Jag höll på att ramla（我差点摔倒）。
 
 ## 短语中的语法 (Grammar inside)

@@ -28,6 +28,7 @@ interval: 0
 
 ## 用法说明 (Usage)
 
+- 变形：skiljer sig – skilde sig – skilt sig（丢 j）→ 词条 [[skilja]]。来源: [[source-2026-10-01-sprakvagen-verbformer]]
 - 用于比较两者的不同之处，常见主语为国家、文化、习惯等抽象事物。
 
 ## 短语中的语法 (Grammar inside)

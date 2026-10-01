@@ -24,7 +24,8 @@ created: "2026-09-22"
 
 ## 用法说明 (Usage)
 
-- 常用于体育/职业语境，口语化表达"退出/放弃"。
+- 常用于体育/职业语境，口语化表达"退出/放弃"；也有“停止（做某事）”义：Lägg av! = 别闹了/住手。
+- 变形：lägger av – la(de) av – lagt av。来源: [[source-2026-10-01-sprakvagen-verbformer]]
 
 ## 短语中的语法 (Grammar inside)
 

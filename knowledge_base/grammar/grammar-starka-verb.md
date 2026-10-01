@@ -44,6 +44,22 @@ slippa    →  slipper→   slapp    →  sluppit
 | dricka | dricker | drack | druckit | i → a → u |
 | skriva | skriver | skrev | skrivit | i → e → i |
 
+### 📐 verbgrupper 总览 (Verb group overview)
+
+| Grupp | Infinitiv | Presens | Preteritum | Supinum | 例 |
+|-------|-----------|---------|------------|---------|----|
+| 1 | -a | -ar | -ade | -at | börja–började–börjat, gilla–gillade–gillat |
+| 2a | -a | -er | -de | -t | ställa–ställde–ställt, behöva–behövde–behövt |
+| 2b | -a | -er | -te | -t | köpa–köpte–köpt（词干以无声辅音结尾） |
+| 3 | 短元音结尾 | -r | -dde | -tt | tro–trodde–trott |
+| 4 | — | -er | 元音变化 | -it/-tt 等 | vinna–vann–vunnit, ta–tog–tagit |
+
+### 📌 -sätta 复合词像 sätta (satte / satt)
+
+`sätta` → sätter – **satte** – **satt**。所有 -sätta 复合词同样变化：
+bosätta sig – bosatte sig – bosatt sig · ifrågasätta – ifrågasatte – ifrågasatt · fortsätta – fortsatte – fortsatt。
+⚠️ 不是 *fortsättde / fortsättat*。来源: [[source-2026-10-01-sprakvagen-verbformer]]
+
 ## 例句 (Examples)
 
 - ✅ Han slog rekord tre gånger. — 🇨🇳 他三次打破记录。
