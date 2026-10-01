@@ -6,10 +6,10 @@ genus: ""
 cefr: A2
 zh: "聪明的/机灵的"
 en: "smart, clever, intelligent"
-synonyms: ["[[klok]]"]
-antonyms: ["[[dum]]"]
+synonyms: ["klok"]
+antonyms: ["dum"]
 family: []
-topics: ["[[topic-personer]]", "[[topic-karaktarsord]]"]
+topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
 created: "2026-06-20"

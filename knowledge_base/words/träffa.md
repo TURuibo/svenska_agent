@@ -36,6 +36,7 @@ interval: 0
 | preteritum | träffade |
 | supinum | träffat |
 | imperativ | träffa! |
+| particip | träffad |
 
 Reflexiv form: `träffas` (互相见面，双向)
 

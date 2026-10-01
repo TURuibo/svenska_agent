@@ -9,7 +9,7 @@ en: ferry
 synonyms: []
 antonyms: []
 family: []
-topics: ["[[topic-trafik]]", "[[topic-fritid-och-resor]]"]
+topics: ["topic-trafik", "topic-fritid-och-resor"]
 sentences: []
 known: false
 created: "2026-06-25"

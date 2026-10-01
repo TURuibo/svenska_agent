@@ -8,8 +8,8 @@ zh: 内院、庭院
 en: courtyard, inner yard
 synonyms: []
 antonyms: []
-family: ["[[gård]]"]
-topics: ["[[topic-stadsmiljo]]"]
+family: ["gård"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

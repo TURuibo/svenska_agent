@@ -7,9 +7,9 @@ cefr: A2
 zh: "满意的/满足的"
 en: "satisfied, pleased, content"
 synonyms: []
-antonyms: ["[[missnöjd]]"]
+antonyms: ["missnöjd"]
 family: []
-topics: ["[[topic-personer]]", "[[topic-karaktarsord]]"]
+topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
 created: "2026-06-20"
@@ -25,6 +25,15 @@ interval: 0
 发音提示：/nøjd/ — "nöjd" (短促)
 
 ## 语法变形 (Forms)
+
+| Form | Swedish |
+|------|---------|
+| en-ord | nöjd |
+| ett-ord | nöjt |
+| plural / bestämd | nöjda |
+| komparativ | nöjdare |
+| superlativ | nöjdast |
+| superlativ (bestämd) | nöjdaste |
 
 | form | exempel |
 |------|---------|

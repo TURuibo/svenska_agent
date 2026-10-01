@@ -32,6 +32,7 @@ interval: 0
 | Obestämd sing. | Bestämd sing. | Obestämd plur. | Bestämd plur. |
 |---|---|---|---|
 | en fråga | frågan | frågor | frågorna |
+| verb | frågar | frågade | frågat |
 
 **动词 (verb, grupp 1) — 同形同源，词义"问":**
 

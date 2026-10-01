@@ -4,7 +4,7 @@ title: "En underhållande väg till språket"
 kind: "article"
 cefr: "B1"
 date_added: "2026-09-22"
-words: ["underhållning", "underhållande", "omväxlande", "språkinlärning", "baksäte", "rätta", "låt", "uttal", "prosodi", "pinsam", "livsstilsprogram", "inredning", "matlagningsprogram", "dialog", "uttryck", "lärobok", "anpassa", "vardaglig", "klassrum", "sammanhang", "betydelse", "studentrabatt", "handling", "ljudbok", "hushållssyssla", "dammsuga", "vika", "städning", "språkmelodi", "omge", "deckare", "kidnappning", "biografi", "rogivande", "stressnivå"]
+words: ["underhållning", "underhållande", "omväxlande", "språkinlärning", "baksäte", "rätta", "låt", "uttal", "prosodi", "pinsam", "livsstilsprogram", "inredning", "matlagningsprogram", "dialog", "uttryck", "lärobok", "anpassa", "vardaglig", "klassrum", "sammanhang", "betydelse", "studentrabatt", "handling", "ljudbok", "hushållssyssla", "dammsuga", "vika", "städning", "språkmelodi", "omge", "deckare", "kidnappning", "biografi", "rogivande", "stressnivå", bero, början, dessutom, fel, fokus, fras, genom, gissa, grammatik, grupp, hel, heller, hemma, ihåg, kultur, känna, läsa, mening, metod, min, musik, ord, precis, program, resa-substantiv, sann, situation, skapa, slappna, spanska, spännande, sällan, sätt, teve, text, tvätt, typ, översätta]
 phrases: ["ta-i", "det-händer-ofta-att", "komma-ihag", "slappna-av", "komma-med-förslag", "hänga-med", "gissa-sig-till", "bero-pa", "gå-på-bio", "omge-sig-med", "tappa-fokus", "komma-in-i-boken"]
 sentences: ["sent-här-berättar-de-om-sina", "sent-jag-tycker-också-att-man", "sent-av-sammanhanget-kan-man-ofta", "sent-att-omge-sig-själv-med", "sent-jag-önskar-att-jag-tyckte"]
 grammar: ["grammar-även-om", "grammar-istallet-for-att-infinitiv", "grammar-komparativ", "grammar-önskar-att-preteritum-irrealis", "grammar-s-passiv"]
@@ -37,3 +37,8 @@ svenska. ... (完整正文见 imported/paste-2026-09-22-underhallande-vag-till-s
 - 句子: [[sent-här-berättar-de-om-sina]], [[sent-jag-tycker-också-att-man]], [[sent-av-sammanhanget-kan-man-ofta]], [[sent-att-omge-sig-själv-med]], [[sent-jag-önskar-att-jag-tyckte]]
 - 语法: [[grammar-även-om]], [[grammar-istallet-for-att-infinitiv]], [[grammar-komparativ]], [[grammar-önskar-att-preteritum-irrealis]], [[grammar-s-passiv]]
 - 主题: [[topic-sfi-sprak-larande]]（补充）
+
+## 2026-10-01 补充（逐段精读时补齐的词条）
+
+- 新增生词 (38): [[bero]]、[[början]]、[[dessutom]]、[[fel]]、[[fokus]]、[[fras]]、[[genom]]、[[gissa]]、[[grammatik]]、[[grupp]]、[[hel]]、[[heller]]、[[hemma]]、[[ihåg]]、[[kultur]]、[[känna]]、[[läsa]]、[[mening]]、[[metod]]、[[min]]、[[musik]]、[[ord]]、[[precis]]、[[program]]、[[resa-substantiv]]、[[sann]]、[[situation]]、[[skapa]]、[[slappna]]、[[spanska]]、[[spännande]]、[[sällan]]、[[sätt]]、[[teve]]、[[text]]、[[tvätt]]、[[typ]]、[[översätta]]
+- 原文文章新增「🔍 逐段精读」一节（imported/paste-2026-09-22-underhallande-vag-till-spraket.md）

@@ -8,8 +8,8 @@ zh: 照明良好的
 en: well-lit, well-illuminated
 synonyms: []
 antonyms: []
-family: ["[[lysa]]", "[[belysning]]"]
-topics: ["[[topic-stadsmiljo]]"]
+family: ["lysa", "belysning"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

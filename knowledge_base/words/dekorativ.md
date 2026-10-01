@@ -8,8 +8,8 @@ zh: 装饰性的
 en: decorative
 synonyms: []
 antonyms: []
-family: ["[[dekorera]]", "[[dekoration]]"]
-topics: ["[[topic-stadsmiljo]]"]
+family: ["dekorera", "dekoration"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

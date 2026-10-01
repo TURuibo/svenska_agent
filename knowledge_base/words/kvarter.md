@@ -9,7 +9,7 @@ en: city block, quarter
 synonyms: []
 antonyms: []
 family: []
-topics: ["[[topic-stadsmiljo]]"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

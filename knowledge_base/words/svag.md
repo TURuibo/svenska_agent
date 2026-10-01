@@ -7,9 +7,9 @@ cefr: A2
 zh: "虚弱的/弱的"
 en: "weak, feeble"
 synonyms: []
-antonyms: ["[[stark]]"]
+antonyms: ["stark"]
 family: []
-topics: ["[[topic-personer]]", "[[topic-karaktarsord]]"]
+topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
 created: "2026-06-20"

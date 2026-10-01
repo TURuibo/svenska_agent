@@ -4,7 +4,7 @@ title: "Var i Sverige är vi mest nöjda?"
 kind: "article"
 cefr: "B1"
 date_added: "2026-09-22"
-words: ["avlång", "befolkningstäthet", "undersökning", "medborgarundersökning", "invånare", "uttrycka", "omsorg", "boendemiljö", "trygghet", "rekommendera", "läge", "kust", "mild", "strand", "samhällsservice", "tillgång", "betyg", "landsdel", "yta", "apotek", "protest", "förlossningsvård", "föda", "glesbygdskommun", "kvadratkilometer", "tätbebyggd", "tätbefolkad", "gäng", "narkotikahandel", "våldsbrott", "inbrott", "stöld", "kriminalitet", "skjutning", "sprängning", "bostadspris", "faktor", "avgöra", "befolkningsökning", "närhet"]
+words: ["avlång", "befolkningstäthet", "undersökning", "medborgarundersökning", "invånare", "uttrycka", "omsorg", "boendemiljö", "trygghet", "rekommendera", "läge", "kust", "mild", "strand", "samhällsservice", "tillgång", "betyg", "landsdel", "yta", "apotek", "protest", "förlossningsvård", "föda", "glesbygdskommun", "kvadratkilometer", "tätbebyggd", "tätbefolkad", "gäng", "narkotikahandel", "våldsbrott", "inbrott", "stöld", "kriminalitet", "skjutning", "sprängning", "bostadspris", "faktor", "avgöra", "befolkningsökning", "närhet", binda, december, dess, enligt, form, färre, fördelning, genom, geografisk, halländsk, hel, hit, ja, kanske, likna, norr, norrländsk, område, per, resultat, samman, service, siffra, statistikmyndighet, storstad, sydlig, sydvästra, säga, södra, tredje, utgöra, viss, vända, vård]
 phrases: ["lägga-märke-till", "när-det-gäller", "tack-vare", "bindas-samman-med", "hamna-i-topp", "bosätta-sig", "trenden-har-vänt", "brottas-med"]
 sentences: ["sent-sverige-ar-ett-avlangt-land-och-alla", "sent-det-ar-en-undersokning-dar-invanarna-far", "sent-halland-ligger-vid-kusten-i-sydvastra", "sent-i-norrland-bor-endast-11-procent-av", "sent-framst-ar-det-lagre-bostadspriser-och-narhet"]
 grammar: ["grammar-superlativ", "grammar-däremot", "grammar-klyvning"]
@@ -36,3 +36,8 @@ text)
 - 词组: [[lägga-märke-till]], [[när-det-gäller]], [[tack-vare]], [[bindas-samman-med]], [[hamna-i-topp]], [[bosätta-sig]], [[trenden-har-vänt]], [[brottas-med]]
 - 句子: [[sent-sverige-ar-ett-avlangt-land-och-alla]], [[sent-det-ar-en-undersokning-dar-invanarna-far]], [[sent-halland-ligger-vid-kusten-i-sydvastra]], [[sent-i-norrland-bor-endast-11-procent-av]], [[sent-framst-ar-det-lagre-bostadspriser-och-narhet]]
 - 语法: [[grammar-superlativ]], [[grammar-däremot]], [[grammar-klyvning]]
+
+## 2026-10-01 补充（逐段精读时补齐的词条）
+
+- 新增生词 (34): [[binda]]、[[december]]、[[dess]]、[[enligt]]、[[form]]、[[färre]]、[[fördelning]]、[[genom]]、[[geografisk]]、[[halländsk]]、[[hel]]、[[hit]]、[[ja]]、[[kanske]]、[[likna]]、[[norr]]、[[norrländsk]]、[[område]]、[[per]]、[[resultat]]、[[samman]]、[[service]]、[[siffra]]、[[statistikmyndighet]]、[[storstad]]、[[sydlig]]、[[sydvästra]]、[[säga]]、[[södra]]、[[tredje]]、[[utgöra]]、[[viss]]、[[vända]]、[[vård]]
+- 原文文章新增「🔍 逐段精读」一节（imported/paste-2026-09-22-var-mest-nojda.md）

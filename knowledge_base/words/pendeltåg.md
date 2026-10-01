@@ -8,8 +8,8 @@ zh: 通勤列车
 en: commuter train
 synonyms: []
 antonyms: []
-family: ["[[pendla]]", "[[tåg]]"]
-topics: ["[[topic-trafik]]", "[[topic-kollektivtrafik]]"]
+family: ["pendla", "tåg"]
+topics: ["topic-trafik", "topic-kollektivtrafik"]
 sentences: []
 known: false
 created: "2026-06-25"

@@ -27,6 +27,12 @@ interval: 0
 
 ## 语法变形 (Forms)
 
+| Form | Swedish |
+|------|---------|
+| en-ord | någon |
+| ett-ord | något |
+| plural | några |
+
 | form | kontext |
 |------|---------|
 | någon | en-genus 名词前，或独立（指人） |

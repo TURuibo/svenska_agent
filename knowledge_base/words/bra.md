@@ -32,6 +32,7 @@ interval: 0
 | superlativ | bäst |
 | neutrum | bra (unchanged) |
 | bestämd/plural | bra (unchanged) |
+| superlativ bestämd | bästa |
 
 > `bra` 是不变化的形容词（invariant adjective）
 

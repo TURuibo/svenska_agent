@@ -4,7 +4,7 @@ title: "Telefonbedragaren"
 kind: "article"
 cefr: "B1"
 date_added: "2026-09-22"
-words: ["bedragare", "grind", "keps", "famn", "lerig", "ivrigt", "pedagog", "klätterställning", "rutschkana", "gunga", "tekniker", "kund", "överföring", "konto", "utländsk", "snyftande", "trösta", "blippa", "betalkort", "betalstation", "generad", "internetbank", "förvåning", "lura", "svordom", "förskräckt", "ilska", "bedrägeri", "uppmaning", "lögn"]
+words: ["bedragare", "grind", "keps", "famn", "lerig", "ivrigt", "pedagog", "klätterställning", "rutschkana", "gunga", "tekniker", "kund", "överföring", "konto", "utländsk", "snyftande", "trösta", "blippa", "betalkort", "betalstation", "generad", "internetbank", "förvåning", "lura", "svordom", "förskräckt", "ilska", "bedrägeri", "uppmaning", "lögn", band, barngrupp, böra, enda, fara, fel, fram, full, först, förut, hemåt, id, ifrån, igenom, innan, innanför, iväg, ja, knapp, knappa, koll, känna, köp, lillebror, logga, mobil, ner, nerför, oroa, pengar, precis, ramsa, ropa, sådan, tala, telefon, tillbaka, trycka, utge, vara-substantiv]
 phrases: ["ha-fullt-upp", "hålla-koll-på", "trycka-bort", "dra-till-sig", "komma-på", "plocka-på-sig", "gå-igenom", "utge-sig-för", "ge-ifrån-sig", "hålla-igen", "göra-en-anmälan", "gå-på-en-lögn", "höra-talas-om", "som-tur-är", "knappa-in"]
 sentences: ["sent-nick-försöker-prata-med-några", "sent-det-enda-du-behöver-göra", "sent-da-förstår-nick-att-han", "sent-polisen-berättar-också-att-man", "sent-han-hade-hört-talats-om"]
 grammar: ["grammar-historiskt-presens", "grammar-innan-tidsbisats", "grammar-hinna-infinitiv", "grammar-bli-passiv-perfekt", "grammar-s-passiv"]
@@ -37,3 +37,8 @@ Nick har knappt hunnit innanför grinden till förskolan innan en liten pojke me
 - 句子: [[sent-nick-försöker-prata-med-några]], [[sent-det-enda-du-behöver-göra]], [[sent-da-förstår-nick-att-han]], [[sent-polisen-berättar-också-att-man]], [[sent-han-hade-hört-talats-om]]
 - 语法: [[grammar-historiskt-presens]], [[grammar-innan-tidsbisats]], [[grammar-hinna-infinitiv]], [[grammar-bli-passiv-perfekt]], [[grammar-s-passiv]]
 - 主题: [[topic-bedrageri-bank-sakerhet]]（新建），[[topic-familj-och-barn]]（补充）
+
+## 2026-10-01 补充（逐段精读时补齐的词条）
+
+- 新增生词 (40): [[band]]、[[barngrupp]]、[[böra]]、[[enda]]、[[fara]]、[[fel]]、[[fram]]、[[full]]、[[först]]、[[förut]]、[[hemåt]]、[[id]]、[[ifrån]]、[[igenom]]、[[innan]]、[[innanför]]、[[iväg]]、[[ja]]、[[knapp]]、[[knappa]]、[[koll]]、[[känna]]、[[köp]]、[[lillebror]]、[[logga]]、[[mobil]]、[[ner]]、[[nerför]]、[[oroa]]、[[pengar]]、[[precis]]、[[ramsa]]、[[ropa]]、[[sådan]]、[[tala]]、[[telefon]]、[[tillbaka]]、[[trycka]]、[[utge]]、[[vara-substantiv]]
+- 原文文章新增「🔍 逐段精读」一节（imported/paste-2026-09-22-telefonbedragaren.md）

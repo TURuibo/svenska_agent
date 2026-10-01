@@ -7,9 +7,9 @@ cefr: B1
 zh: 偏远的
 en: remote, distant
 synonyms: []
-antonyms: ["[[central]]"]
+antonyms: ["central"]
 family: []
-topics: ["[[topic-stadsmiljo]]"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

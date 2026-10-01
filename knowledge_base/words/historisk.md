@@ -8,8 +8,8 @@ zh: 历史性的
 en: historic, historical
 synonyms: []
 antonyms: []
-family: ["[[historia]]"]
-topics: ["[[topic-stadsmiljo]]", "[[topic-litteratur-och-kultur]]"]
+family: ["historia"]
+topics: ["topic-stadsmiljo", "topic-litteratur-och-kultur"]
 sentences: []
 known: false
 created: "2026-06-25"

@@ -7,9 +7,9 @@ cefr: B1
 zh: 嘈杂的
 en: noisy, loud
 synonyms: []
-antonyms: ["[[tyst]]"]
-family: ["[[buller]]"]
-topics: ["[[topic-stadsmiljo]]", "[[topic-trafik]]"]
+antonyms: ["tyst"]
+family: ["buller"]
+topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
 created: "2026-06-25"

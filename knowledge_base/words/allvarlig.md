@@ -7,9 +7,9 @@ cefr: A2
 zh: "严肃的/严重的"
 en: "serious, grave"
 synonyms: []
-antonyms: ["[[rolig]]", "[[glad]]"]
+antonyms: ["rolig", "glad"]
 family: []
-topics: ["[[topic-personer]]", "[[topic-karaktarsord]]"]
+topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
 created: "2026-06-20"

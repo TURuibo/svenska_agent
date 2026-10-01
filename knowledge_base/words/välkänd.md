@@ -6,10 +6,10 @@ genus: ""
 cefr: A2
 zh: 著名的、知名的
 en: well-known, famous
-synonyms: ["[[känd]]"]
-antonyms: ["[[okänd]]"]
-family: ["[[känd]]"]
-topics: ["[[topic-stadsmiljo]]"]
+synonyms: ["känd"]
+antonyms: ["okänd"]
+family: ["känd"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

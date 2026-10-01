@@ -45,6 +45,7 @@ interval: 0
 | Presens | står |
 | Preteritum | stod |
 | Supinum | (har) stått |
+| Presens particip | stående |
 
 ## 词组搭配 (Collocations)
 

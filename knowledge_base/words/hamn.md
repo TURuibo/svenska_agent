@@ -9,7 +9,7 @@ en: harbor, port
 synonyms: []
 antonyms: []
 family: []
-topics: ["[[topic-trafik]]", "[[topic-stadsmiljo]]"]
+topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

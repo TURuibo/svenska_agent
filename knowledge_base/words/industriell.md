@@ -8,8 +8,8 @@ zh: 工业的
 en: industrial
 synonyms: []
 antonyms: []
-family: ["[[industri]]"]
-topics: ["[[topic-stadsmiljo]]", "[[topic-arbete-och-jobb]]"]
+family: ["industri"]
+topics: ["topic-stadsmiljo", "topic-arbete-och-jobb"]
 sentences: []
 known: false
 created: "2026-06-25"

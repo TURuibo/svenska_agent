@@ -7,9 +7,9 @@ cefr: B1
 zh: 人口密集的
 en: populous, densely populated
 synonyms: []
-antonyms: ["[[folktom]]"]
-family: ["[[folk]]"]
-topics: ["[[topic-stadsmiljo]]", "[[topic-samhälle-och-politik]]"]
+antonyms: ["folktom"]
+family: ["folk"]
+topics: ["topic-stadsmiljo", "topic-samhälle-och-politik"]
 sentences: []
 known: false
 created: "2026-06-25"

@@ -8,8 +8,8 @@ zh: 步行街
 en: pedestrian street, pedestrian zone
 synonyms: []
 antonyms: []
-family: ["[[gå]]", "[[gata]]"]
-topics: ["[[topic-trafik]]", "[[topic-stadsmiljo]]"]
+family: ["gå", "gata"]
+topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

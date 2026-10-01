@@ -8,8 +8,8 @@ zh: 改建的、重建的
 en: rebuilt, renovated
 synonyms: []
 antonyms: []
-family: ["[[bygga]]", "[[ombyggnad]]"]
-topics: ["[[topic-stadsmiljo]]"]
+family: ["bygga", "ombyggnad"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

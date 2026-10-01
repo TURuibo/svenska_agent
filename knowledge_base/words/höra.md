@@ -26,6 +26,7 @@ created: "2026-09-26"
 | infinitiv | presens | preteritum | supinum | imperativ |
 |---|---|---|---|---|
 | höra | hör | hörde | hört | hör! |
+| particip | hörd | hörda | | |
 
 （v.2a；presens *hör* 不加 -er）
 

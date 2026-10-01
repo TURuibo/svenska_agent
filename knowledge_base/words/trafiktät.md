@@ -7,9 +7,9 @@ cefr: B1
 zh: 交通拥挤的、车流密集的
 en: traffic-dense, busy with traffic
 synonyms: []
-antonyms: ["[[trafikfri]]"]
-family: ["[[trafik]]", "[[tät]]"]
-topics: ["[[topic-trafik]]", "[[topic-stadsmiljo]]"]
+antonyms: ["trafikfri"]
+family: ["trafik", "tät"]
+topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

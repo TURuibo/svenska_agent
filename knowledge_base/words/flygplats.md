@@ -8,8 +8,8 @@ zh: 机场
 en: airport
 synonyms: []
 antonyms: []
-family: ["[[flyga]]", "[[plats]]"]
-topics: ["[[topic-trafik]]", "[[topic-fritid-och-resor]]"]
+family: ["flyga", "plats"]
+topics: ["topic-trafik", "topic-fritid-och-resor"]
 sentences: []
 known: false
 created: "2026-06-25"

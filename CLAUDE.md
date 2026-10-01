@@ -50,6 +50,7 @@ and how much detail to extract:
   files. Read it whenever you store anything.
 - `sv-assess` — how to assess and record the learner's level.
 - `sv-textbook-qr` — **教材拍照件（尤其带 QR 音频）的完整流程**：转写 → KB → `imported/` 文章 → 解 QR → 取音频 → 建听力集 → 两站互跳。Ruibo 发课本照片时必读。
+- `sv-study-guide` — **逐段精读**：把一篇文章分段、逐句拆结构/语法、每段词组表+生词表，量化并补齐生词覆盖（让所有实词在阅读站可点），发布前独立复核。Ruibo 说「看不懂/分段分析/有词没查」时用。
 - `sv-scenario` — **场景练习生成规范**: how to generate a Swedish dialogue/text/narrative, extract its learning items, and write them as an `inbox/` file with an embedded `svensk-export v1` block ready for `/import`.
 
 ### Subagents (重活 — the "how", isolated)

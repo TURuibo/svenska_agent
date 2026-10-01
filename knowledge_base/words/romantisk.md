@@ -8,8 +8,8 @@ zh: 浪漫的
 en: romantic
 synonyms: []
 antonyms: []
-family: ["[[romantik]]"]
-topics: ["[[topic-stadsmiljo]]"]
+family: ["romantik"]
+topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
 created: "2026-06-25"

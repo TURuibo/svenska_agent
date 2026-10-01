@@ -8,8 +8,8 @@ zh: 候车亭
 en: bus shelter
 synonyms: []
 antonyms: []
-family: ["[[buss]]"]
-topics: ["[[topic-trafik]]", "[[topic-kollektivtrafik]]"]
+family: ["buss"]
+topics: ["topic-trafik", "topic-kollektivtrafik"]
 sentences: []
 known: false
 created: "2026-06-25"

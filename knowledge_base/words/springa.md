@@ -30,6 +30,7 @@ created: "2026-10-01"
 | Supinum | sprungit |
 | Imperativ | spring! |
 | Perfekt particip | sprungen |
+| Presens particip | springande |
 
 ## 词组搭配 (Collocations)
 
