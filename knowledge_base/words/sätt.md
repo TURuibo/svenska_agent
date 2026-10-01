@@ -57,5 +57,5 @@ created: "2026-10-01"
 ## 用法提示 (Usage Notes)
 
 - ett-ord，复数与单数同形：`ett sätt`, `flera sätt`；`sätt att + 不定式` = ……的方式。
-- ⚠️ **同形异义**：`sätt` 也是动词 **sätta**（放置）的**现在时/祈使式**与**supinum 的近形**：`Jag sätter` 现在时；`Sätt dig!`（祈使）= 坐下！`sätt` 作祈使，句首无冠词。
+- ⚠️ **同形异义**：`sätt` 也是动词 **sätta**（放置）的**祈使式**：`Sätt dig!` = 坐下！`Sätt den på bordet.` = 把它放桌上。名词 `sätt` 前常有 ett/冠词/形容词/介词，祈使式在句首、后接宾语。
 - 来源: [[source-2026-09-22-klimatkatastrofen-pakistan]], [[source-2026-09-22-trafikolyckan]], [[source-2026-09-22-underhallande-vag-till-spraket]], [[source-2026-09-22-zeina-mourtada]]

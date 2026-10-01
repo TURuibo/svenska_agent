@@ -38,7 +38,7 @@ created: "2026-10-01"
 ## 例句 (Sentences)
 
 - 🇸🇪 Malmö är Sveriges tredje största stad. — 🇨🇳 马尔默是瑞典第三大城市。
-- 🇸🇪 Jag bor på tredje våningen. — 🇨🇳 我住在四楼（三楼以上的第三层，即第三层）。
+- 🇸🇪 Jag bor på tredje våningen. — 🇨🇳 我住在三楼。（瑞典语楼层从一楼 bottenvåningen 之上算起）
 - 🇸🇪 Det är tredje gången hon ringer. — 🇨🇳 这是她第三次打电话。
 - 🇸🇪 Han kom på tredje plats. — 🇨🇳 他得了第三名。
 
