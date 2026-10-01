@@ -142,7 +142,7 @@ Nick har knappt hunnit innanför grinden till förskolan innan en liten pojke me
 | röd | [[röd]] | adj. | 红的 | röd – rött – röda |
 | keps | [[keps]] | subst. en | 鸭舌帽 | |
 | ropar | [[ropa]] | verb | 喊 | ropa – ropade – ropat |
-| meddelandet | [[meddelande]] | subst. ett | 消息 | 复数不变：meddelanden |
+| meddelandet | [[meddelande]] | subst. ett | 消息 | 复数加 -n：meddelande – meddelanden |
 | sprids | [[sprida]] | verb | 传播 | s-被动；sprida – spred/spridde – spritt |
 | vidare | [[vidare]] | adv. | 进一步、往下 | |
 | barngruppen | [[barngrupp]] | subst. en | （幼儿园的）孩子组 | barn + grupp |
@@ -784,7 +784,7 @@ När barnen sitter i soffan och tittar på barnprogram ringer Nick till polisen 
 - 📐 前半：`Han`(S) + `hade hört`(V) + `talats om sådana bedrägerier` + `förut`(A)
 - 📐 后半：men `han`(S) + `trodde`(V) + `aldrig` + ⟨att det skulle hända honom⟩
 - ⚠️ **pluskvamperfekt**：hade hört = 以前（在这件事之前）就听说过 → [[grammar-pluskvamperfekt|📗过去完成时]]
-- ⚠️ **höra talas om** = 听说过：talas 是 s-形的不定式，固定不变。规范写法是 *hört talas om*；课文写成 *talats*，这是口语里很常见的变体 → [[höra-talas-om]]
+- ⚠️ **höra talas om** = 听说过：talas 是 s-形的不定式，固定不变。规范写法是 *hört talas om*；课文写成 *talats*，这种写法虽然很常见，但被视为**不规范**（Språkrådet 建议写 talas），自己写作时请用 *hört talas om* → [[höra-talas-om]]
 - ⚠️ **trodde att … skulle** = 以为……会……（过去将来）：trodde aldrig att det skulle hända honom = 从没想过会发生在自己身上 → [[grammar-trodde-att-skulle|📗过去将来时（以为……会……）]]
 - ⚠️ `hända honom`：hända + 人（直接宾语）= 发生在某人身上；honom 指 Nick（从句主语是 det，所以不用 sig）
 - 🇨🇳 他以前听说过这类诈骗，但从来没想到会落到自己头上。

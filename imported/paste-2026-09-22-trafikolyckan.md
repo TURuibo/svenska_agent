@@ -68,7 +68,7 @@ Det är en solig morgon i början av juni. Henrik kommer ut från sitt hus, stan
 - 📐 `Henrik`(S) + 三个并列谓语：`kommer ut från sitt hus` / `stannar upp` / `andas in doften av sommar`(O)
 - ⚠️ 三个**小品词动词**：komma ut（出来）、stanna upp（停下来）、andas in（吸入）。小品词重读，意思靠它 → [[grammar-partikelverb|📗分离动词（动词+副词小品词）]]、[[stanna-upp]]、[[andas-in]]
 - ⚠️ `sitt hus`：sitt 指回主语 Henrik（hus 是 ett-词 → sitt）→ [[grammar-sin-sina|📗sin/sitt/sina — 反身所有格]]
-- ⚠️ `andas` 是 **deponens 动词**：形式以 -s 结尾，意思却是主动的"呼吸"，没有 *anda 这个词 → [[grammar-deponensverb|📗被动形式主动意义动词]]
+- ⚠️ `andas` 是 **deponens 动词**：形式以 -s 结尾，意思却是主动的"呼吸"，没有不带 -s 的主动动词 *anda（en anda 是名词"精神、气氛"） → [[grammar-deponensverb|📗被动形式主动意义动词]]
 - 🇨🇳 Henrik 从他的房子里出来，停下脚步，吸进一口夏天的气息。
 
 **③ Det här är den vackraste tiden på året enligt honom.**
@@ -93,7 +93,7 @@ Det är en solig morgon i början av juni. Henrik kommer ut från sitt hus, stan
 - 📐 ⟨När han kör igenom den lilla byn⟩(A，占第 1 位) + `är`(V) + `det`(S) + `lugnt och stilla`(表语)
 - ⚠️ 从句放句首 → 主句倒装：är **det** → [[grammar-nar-bisats|📗when从句（时间状语从句）]]
 - ⚠️ `den lilla byn`：liten 的限定形式是**不规则的 lilla**（liten – litet – små，限定 lilla）
-- ⚠️ `det är lugnt`：det 是形式主语（"周围很安静"），所以形容词用 -t 形式 lugnt；stilla 不变形 → [[grammar-opersonligt-det|📗形式主语 det（无人称句型）]]
+- ⚠️ `det är lugnt`：det 是**无人称主语**（泛指周围环境"四周很安静"，后面没有真正主语），形容词用中性 -t 形式 lugnt；stilla 不变形 → [[grammar-opersonligt-det|📗形式主语 det（无人称句型）]]
 - 🇨🇳 他开车穿过那个小村子的时候，四周安静祥和。
 
 **⑥ På radion spelas en sommarplåga och Henrik ska precis byta kanal när en bil kör över på fel sida av vägen och kommer rakt emot honom.**
@@ -202,7 +202,7 @@ Det är en solig morgon i början av juni. Henrik kommer ut från sitt hus, stan
 | förarsätet | [[förarsäte]] | subst. ett | 驾驶座 | |
 | tur | [[tur]] | subst. en | 运气 | som tur är |
 | verkar | [[verka]] | verb | 看起来 | |
-| oskadd | [[oskadd]] | adj. | 毫发无伤的 | o- + skadad |
+| oskadd | [[oskadd]] | adj. | 毫发无伤的 | o- + skadd（= skadad） |
 | märker | [[märka]] | verb | 察觉 | märka – märkte – märkt |
 | druckit | [[dricka]] | verb | 喝（酒） | dricka – drack – **druckit** |
 | luktar | [[lukta]] | verb | 闻起来 | |

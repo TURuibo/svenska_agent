@@ -106,7 +106,7 @@ När man flyttar till ett nytt land möts man av nya intryck. Vissa traditioner 
 
 - 📐 `Vi`(S) + `har pratat`(V，现在完成时) + `med tre personer`(A) + `om deras intryck av Sverige`(A)
 - ⚠️ **har pratat** = perfekt：采访已经做完，结果就在下面 → [[grammar-perfekt|📗现在完成时]]
-- ⚠️ 为什么 `deras` 不是 `sina`？sin/sina 只能指**本句主语**（vi）；"他们的印象"指的是 tre personer，所以用 deras → [[grammar-sin-sina|📗sin/sitt/sina — 反身所有格]]
+- ⚠️ 为什么 `deras` 不是 `sina`？sin/sina 只能回指**第三人称的本句主语**；本句主语是 vi（vi 自己的东西用 våra），而"他们的印象"指的是 tre personer（不是主语），所以用 deras → [[grammar-sin-sina|📗sin/sitt/sina — 反身所有格]]
 - ⚠️ `prata med någon om något` = 和某人聊某事；`intryck av` = 对……的印象（介词用 av）
 - 🇨🇳 我们和三个人聊了聊他们对瑞典的印象。
 

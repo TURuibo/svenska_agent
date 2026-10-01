@@ -388,7 +388,7 @@ Jag brukar titta på svensk teve för att lära mig språket. Jag gillar livssti
 - 📐 `På lektionen`(A) + `anpassar`(V) + `läraren`(S) + `också` + `sitt språk`(O) + ⟨för att vi lättare ska förstå⟩
 - ⚠️ 倒装：anpassar **läraren** → [[grammar-inversion-efter-fundament|📗非主语开头的主句倒装]]
 - ⚠️ `sitt språk`：sitt 指回主语 läraren（老师自己的语言），språk 是 ett-词所以用 sitt → [[grammar-sin-sina|📗sin/sitt/sina — 反身所有格]]
-- ⚠️ **`för att` + 完整从句**（vi … ska förstå）：理解的人是 vi，不是主句主语 läraren，所以不能用不定式，要用带主语的从句；副词 lättare 放在限定动词 ska 前（从句语序）→ [[grammar-orsakskonjunktion|📗原因连词（för att, eftersom, därför att）]]
+- ⚠️ **`för att` + 完整从句**（vi … ska förstå）：这里 för att 表**目的**（= så att，好让……），不是原因；理解的人是 vi，不是主句主语 läraren，所以不能用不定式，要用带主语的从句；副词 lättare 放在限定动词 ska 前（从句语序）→ [[grammar-orsakskonjunktion|📗原因连词（för att, eftersom, därför att）]]
 - 🇨🇳 课上老师也会调整自己的语言，好让我们更容易听懂。
 
 **⑥ Det kan vara skönt men jag tror att det är bra att lyssna på vardagliga samtal för att lättare förstå språket även utanför klassrummet.**

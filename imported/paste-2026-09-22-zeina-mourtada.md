@@ -281,7 +281,7 @@ Zeinas mamma var inte rädd för att laga det nya hemlandets maträtter. Genom a
 | tidigt | [[tidig]] | adj. | 早的 | ett-词 -t |
 | matminne | [[matminne]] | subst. ett | 食物记忆 | mat + minne |
 | bakade | [[baka]] | verb | 烤（面包、蛋糕） | |
-| bröd | [[bröd]] | subst. ett | 面包 | 不可数 |
+| bröd | [[bröd]] | subst. ett | 面包 | 单复同形（ett bröd – två bröd）；泛指"面包"时不加冠词 |
 | fanns | [[finnas]] | verb | 存在、有 | finnas – **fanns** – funnits |
 | pitabröd | [[pitabröd]] | subst. ett | 皮塔饼 | |
 | köpa | [[köpa]] | verb | 买 | |

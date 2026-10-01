@@ -533,7 +533,7 @@ Sandro nickar nöjt och fortsätter med nästa fråga: "Kan du förklara hur ett
 - 📐 `Man`(S) + `kan`(V) + `välja` + `att rösta på valdagen`(O) + `eller` + ⟨om man vill förtidsrösta⟩
 - ⚠️ `välja att + 不定式` = 选择做……；后半句是口语式的松散接法：⟨om man vill förtidsrösta⟩ 可以理解为"（或者）如果想的话提前投票"，也可以理解成"选择是否要提前投票"——意思一样：两种方式任选
 - ⚠️ `på valdagen` = 在选举日（具体某一天用 på）→ [[grammar-tidsprepositioner|📗时间介词]]
-- ⚠️ `förtidsrösta` = för tid（提前）+ rösta：一个词的动词
+- ⚠️ `förtidsrösta` = förtid（i förtid = 提前）+ s + rösta：一个词的动词
 - 🇨🇳 你可以选择在选举日当天投票，或者，如果你想的话，提前投票。"
 
 #### 🧩 词组
@@ -750,7 +750,7 @@ Olivia fortsätter: "När röstningen är stängd börjar rösträkningen. Alla 
 - 📐 `Riksdagen`(S) + `består av`(V) + `alla partier` ⟨som har fått …⟩ ＋ ⟨medan regeringen består av det parti eller de partier ⟨som får en majoritet av alla röster⟩⟩
 - ⚠️ `bestå av` = 由……组成 → [[bestå-av]]
 - ⚠️ **medan** 表对比"而" → [[grammar-bisats-tidskonnektor|📗时间从句连接词（medan/när/efter att 等引导从句，动词不前移）]]
-- ⚠️ **det parti / de partier + som-从句：名词不加定式词尾！** 后面有限定性关系从句时，只用 den/det/de 打头，名词保持原形（不说 *det partiet som*）→ [[grammar-relativ-bisats-med-som|📗som引导的关系从句（后置定语）]]
+- ⚠️ **det parti / de partier + som-从句：名词可不加定式词尾。** 后面有限定性关系从句时，书面语常只用 den/det/de 打头、名词保持原形（本文即如此）；口语里 det partiet som 也很常见，两种都对 → [[grammar-relativ-bisats-med-som|📗som引导的关系从句（后置定语）]]
 - ⚠️ `har fått`（已经得到，选举已发生）vs `får`（一般规则）
 - 🇨🇳 "议会由所有在选举中得票至少 4% 的政党组成，而政府由获得全部选票多数的那个党或那几个党组成。
 

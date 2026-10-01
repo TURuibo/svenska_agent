@@ -555,7 +555,7 @@ De norra delarna hamnar däremot i topp när det gäller trygghet. I Jämtland �
 
 | 文中形式 | 原形 | 词性 | 中文 | 说明 |
 |---|---|---|---|---|
-| norra | [[norr]] | adj. | 北部的 | 只有 -a 形式 |
+| norra | [[norr]] | adj. | 北部的 | 只有 -a 形式；链接的 norr 本身是名词／副词（北方），norra 是由它派生的形容词 |
 | delarna | [[del]] | subst. en | 部分 | del – delar – delarna |
 | hamnar | [[hamna]] | verb | 落到、处于 | |
 | däremot | [[däremot]] | adv. | 相反、然而 | |
@@ -567,7 +567,7 @@ De norra delarna hamnar däremot i topp när det gäller trygghet. I Jämtland �
 | stör | [[störa]] | verb | 打扰、滋扰 | störa – störde – stört |
 | högsta | [[hög]] | adj. | 高的 | hög – högre – **högst** |
 | siffran / siffror | [[siffra]] | subst. en | 数字 | siffra – siffror |
-| liknande | [[likna]] | adj. | 类似的 | 不变形 |
+| liknande | [[likna]] | adj. | 类似的 | likna（像）的现在分词作形容词，不变形 |
 | fördelning | [[fördelning]] | subst. en | 分布、分配 | |
 | narkotikahandel | [[narkotikahandel]] | subst. en | 毒品交易 | narkotika + handel |
 | våldsbrott | [[våldsbrott]] | subst. ett | 暴力犯罪 | våld + s + brott |
