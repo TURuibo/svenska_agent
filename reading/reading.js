@@ -57,12 +57,19 @@
     return t;
   }
   // Tag blocks inside a 🇨🇳-translation zone with data-zh="1" so they render as a parallel layer.
+  // A single paragraph / list item that starts with 🇨🇳 gets the same tag (the
+  // per-sentence translations inside 逐段精读).
+  //
+  // Under a `## … 精读 …` heading every `### …` subsection becomes a collapsible
+  // card (<details>), so a long paragraph-by-paragraph study guide stays scannable.
   function mdToHtml(md) {
     const lines = md.split(/\r?\n/);
     const out = [];
-    let i = 0, inList = false, zhZone = false;
+    let i = 0, inList = false, zhZone = false, studyZone = false, inCard = false;
     const closeList = () => { if (inList) { out.push('</ul>'); inList = false; } };
+    const closeCard = () => { if (inCard) { out.push('</div></details>'); inCard = false; } };
     const z = () => (zhZone ? ' data-zh="1"' : '');
+    const zl = (text) => (zhZone || /^🇨🇳/.test(text) ? ' data-zh="1"' : '');
     while (i < lines.length) {
       const line = lines[i];
       const fence = line.match(/^```(.*)$/);
@@ -78,6 +85,20 @@
         const level = Math.min(4, h[1].length);
         const text = h[2].trim();
         zhZone = /翻译|译文|中文/.test(text);
+        if (level <= 2) {
+          closeCard();
+          studyZone = level === 2 && /精读/.test(text);
+          out.push(`<h${level}${z()}>${inline(text)}</h${level}>`);
+          if (studyZone) {
+            out.push('<p class="studyTools"><button type="button" class="viewBtn studyToggleAll">全部展开</button></p>');
+          }
+          i += 1; continue;
+        }
+        if (studyZone && level === 3) {
+          closeCard();
+          out.push(`<details class="studyCard"><summary>${inline(text)}</summary><div class="studyCardBody">`);
+          inCard = true; i += 1; continue;
+        }
         out.push(`<h${level}${z()}>${inline(text)}</h${level}>`); i += 1; continue;
       }
       // GFM table: a header row `| a | b |` immediately followed by a separator row `|---|---|`.
@@ -108,11 +129,15 @@
         out.push(html); continue;
       }
       const li = line.match(/^\s*[-*]\s+(.+)$/);
-      if (li) { if (!inList) { out.push(`<ul${z()}>`); inList = true; } out.push('<li>' + inline(li[1]) + '</li>'); i += 1; continue; }
+      if (li) {
+        if (!inList) { out.push(`<ul${z()}>`); inList = true; }
+        out.push(`<li${zhZone ? '' : zl(li[1])}>` + inline(li[1]) + '</li>'); i += 1; continue;
+      }
       if (line.trim() === '') { closeList(); i += 1; continue; }
-      closeList(); out.push(`<p${z()}>` + inline(line) + '</p>'); i += 1;
+      closeList(); out.push(`<p${zl(line.trim())}>` + inline(line) + '</p>'); i += 1;
     }
     closeList();
+    closeCard();
     return out.join('\n');
   }
 
@@ -137,6 +162,26 @@
       if (!existing) vocabIndex.set(key, v);
       else if (existing.lemma.toLowerCase() !== key && v.lemma.toLowerCase() === key) vocabIndex.set(key, v);
     }
+  }
+
+  // Exact surface first; then two inflections the Forms tables rarely spell out:
+  // a trailing -s (genitive skridskoåkares/årets, s-passive tilläts/krävdes) and
+  // the definite superlative -aste (viktigaste → viktigast). The -s rule is skipped
+  // for short tokens ("hals"/"kurs" ≠ hal/kur), capitalised ones (a name's genitive:
+  // Nicks ≠ nick), plain adjectives (-s on an adjective is a different verb:
+  // kallas ≠ kall, mätts ≠ mätt) and a few known homonym traps.
+  const S_FALLBACK_STOP = new Set(['rätts']);   // kvinnorätts- = rights, not rätt "dish/correct"
+  function findVocab(token) {
+    const raw = String(token || '');
+    const k = raw.toLowerCase();
+    const hit = vocabIndex.get(k);
+    if (hit) return hit;
+    if (k.length >= 5 && k.endsWith('s') && !/^[A-ZÅÄÖ]/.test(raw) && !S_FALLBACK_STOP.has(k)) {
+      const e = vocabIndex.get(k.slice(0, -1));
+      if (e && !/^adj(ektiv)?\.?$/i.test(String(e.ordklass || '').trim())) return e;
+    }
+    if (k.endsWith('aste')) return vocabIndex.get(k.slice(0, -1)) || null;
+    return null;
   }
 
   // ---- learning-item → KB note resolution -------------------------------
@@ -167,7 +212,7 @@
   // matching note yet (then the chip renders as plain, non-clickable text).
   function resolveItem(kind, sv) {
     if (kind === 'word') {
-      const e = vocabIndex.get(String(sv || '').toLowerCase());
+      const e = findVocab(sv);
       return e ? { word: e } : null;
     }
     const key = normItem(sv);
@@ -231,7 +276,7 @@
   }
 
   // Don't linkify inside links, code, headings, or the 🇨🇳-translation layer.
-  const VOCAB_SKIP_TAGS = new Set(['A', 'CODE', 'PRE', 'SCRIPT', 'STYLE', 'BUTTON', 'H1', 'H2', 'H3', 'H4', 'TH']);
+  const VOCAB_SKIP_TAGS = new Set(['A', 'CODE', 'PRE', 'SCRIPT', 'STYLE', 'BUTTON', 'H1', 'H2', 'H3', 'H4', 'TH', 'SUMMARY']);
   function vocabSkip(node, root) {
     for (let el = node.parentNode; el && el !== root; el = el.parentNode) {
       if (el.nodeType !== 1) continue;
@@ -247,7 +292,7 @@
     VOCAB_TOKEN.lastIndex = 0;
     let m, last = 0, frag = null;
     while ((m = VOCAB_TOKEN.exec(text))) {
-      const entry = vocabIndex.get(m[0].toLowerCase());
+      const entry = findVocab(m[0]);
       if (!entry) continue;
       if (!frag) frag = document.createDocumentFragment();
       if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
@@ -286,7 +331,7 @@
     VOCAB_TOKEN.lastIndex = 0;
     let m, last = 0, frag = null;
     while ((m = VOCAB_TOKEN.exec(text))) {
-      if (vocabIndex.has(m[0].toLowerCase())) continue;
+      if (findVocab(m[0])) continue;
       if (!frag) frag = document.createDocumentFragment();
       if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
       const span = document.createElement('span');
@@ -850,6 +895,16 @@
       renderList();
     });
     document.getElementById('mobileBackBtn').addEventListener('click', backToList);
+
+    // 逐段精读: one button opens/closes every paragraph card at once.
+    viewEl.querySelectorAll('.studyToggleAll').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const cards = Array.from(viewEl.querySelectorAll('.studyCard'));
+        const open = !cards.every((c) => c.open);
+        cards.forEach((c) => { c.open = open; });
+        btn.textContent = open ? '全部收起' : '全部展开';
+      });
+    });
 
     // Turn KB words in the freshly rendered text into clickable glossary chips.
     // When 查词模式 is on, also make the remaining (non-KB) words tappable.

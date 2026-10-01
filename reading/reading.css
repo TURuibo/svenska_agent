@@ -172,6 +172,10 @@
 /* ---------- reading pane ---------- */
 
 .articleView {
+  /* A grid item's min-width defaults to its min-content width, so a wide table
+     (e.g. the 逐段精读 vocab tables) would stretch the 1fr column past the
+     screen on mobile. 0 lets the table scroll inside its own box instead. */
+  min-width: 0;
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: 16px;
@@ -236,6 +240,27 @@
 .articleBody [data-zh="1"] { font-family: var(--cjk); }
 .articleBody h2[data-zh="1"], .articleBody h3[data-zh="1"] { color: var(--blue); border-color: rgba(49,95,125,0.3); }
 .articleBody p[data-zh="1"], .articleBody li[data-zh="1"] { color: var(--muted); }
+
+/* 逐段精读 — each paragraph of the study guide is a collapsible card. */
+.articleBody .studyTools { margin: -4px 0 10px; }
+.articleBody .studyCard {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--panel);
+  margin: 10px 0;
+}
+.articleBody .studyCard > summary {
+  cursor: pointer;
+  padding: 10px 14px;
+  font-weight: 600;
+  font-family: var(--cjk);
+  list-style-position: inside;
+}
+.articleBody .studyCard[open] > summary { border-bottom: 1px solid var(--line); }
+.articleBody .studyCardBody { padding: 4px 14px 10px; }
+.articleBody .studyCardBody h4 { margin: 18px 0 6px; font-family: var(--cjk); }
+.articleBody .studyCardBody blockquote,
+.articleBody .studyCardBody > p:first-child { line-height: 1.7; }
 
 .listLoading, .listEmpty { font-family: var(--cjk); color: var(--muted); font-size: 14px; }
 
