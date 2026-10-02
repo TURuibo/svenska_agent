@@ -34,7 +34,7 @@
           ├─ 30 个代理逐条分类：真缺口 / 基础词 / 其实已有 / 噪音 / 专名
           ├─ 30 个代理独立复核，纠正 95 条
           ├─ 281 个「宽松匹配」（只是变形或同形异义）：196 个确实已覆盖，70 个其实是缺口（复核纠正 7 条）
-          └─ 审计：KB 的 CEFR 标签（261 个分歧）+ 两个词表都没有的 KB 词（491 个）
+          └─ 审计：KB 的 CEFR 标签（265 个分歧，审了 261 个）+ 两个词表都没有的 KB 词（491 个）
 ```
 
 ---
@@ -45,11 +45,11 @@
 |------|------|------|
 | 单词笔记 | **2 775** | 其中 1 988 个在 Kelly 表里，293 个只在 SVALex 里，491 个两边都没有 |
 | 词组笔记 | 1 033 | — |
-| 句子笔记 | 2 124 | — |
+| 句子笔记 | 2 124 | 其中 2 040 个有 `sentence:` 字段，84 个缺（见 §6） |
 | `known: true` | **0** | 还没做过 `/assess` |
 | 自标 CEFR | A1 481 · A2 1 247 · B1 973 · B2 69 · C1 5 | 审计结果：标签大体靠谱（见 §6） |
 | 词类 | 名词 1 635（59%）· 动词 493（18%）· 形容词 445（16%）· 副词 116（4%）· 功能词 64（2%） | **副词和连接词偏少** |
-| 主题 | 98 个 topic；871 个词（31%）没挂主题 | 最大的主题：förskola-vardag 256 · mat-dryck 124 · djur 121 · hemmet 100 |
+| 主题 | 99 个 topic 标签（只有 73 个有 `topics/` 笔记）；647 个词（23%）没挂主题 | 最大的主题：förskola-vardag 256 · mat-dryck 152 · djur 121 · samhälle-och-politik 119 · hemmet 115 · stadsmiljo 103 |
 
 两个词表都没有的 491 个词，经审计：311 个是正常复合词，115 个是专业词，都没问题；约 40 个值得看一眼，其中真正要改的十来个（见 §6）。
 
@@ -124,9 +124,9 @@
 | SVT 听力（horning） | 8 | 1 410 | 85.9% |
 | **全部**（含 KB 句子等） | 191 | 28 210 | **92.7%** |
 
-课本那批做过逐段精读（sv-study-guide），所以几乎全覆盖。读过的文章里**出现最多、却没有笔记**的词：
-`heta`（heter）62 次 · `idag` 59 · `halv` 36 · 星期几 / 月份（`måndag`、`juni`…）· `imorgon` · `väldig(t)` · `attack` · `företag` · `rysk` · `tv` · `ställe` · `president` · `igår` · `någonsin` · `betyda` · `ikväll` · `överens` · `riskera` · `självklar` · `alltså` · `information` · `risk`…
-另外国名、地名全都没有笔记：`Sverige` 300+ 次、`Frankrike`、`Ryssland`、`Ukraina`、`USA`、`Europa`…
+课本那批做过逐段精读（sv-study-guide），所以几乎全覆盖。读过的文章里**出现最多、却没有单词笔记**（所以点不开）的词：
+`heta`（heter）62 次 · `idag` 59 · `halv` 36 · 星期几 / 月份（`måndag`、`juni`…）· `imorgon` · `väldig(t)` · `attack` · `företag` · `rysk` · `tv` · `ställe` · `president` · `igår` · `någonsin` · `betyda` · `ikväll` · `överens` · `riskera` · `självklar` · `alltså` · `information` · `risk`…（`halv`、`överens` 只出现在词组笔记里，例如 `halv fyra`、`komma överens`）
+另外国名都没有笔记，地名也几乎没有（只有 `Östersjön`）：`Sverige` 300 次（加属格 `Sveriges` 共 365 次）、`Frankrike`、`Ryssland`、`Ukraina`、`USA`、`Europa`…
 
 ---
 
@@ -171,13 +171,15 @@
 
 | 项目 | 结果 | 建议 |
 |------|------|------|
-| CEFR 标签 vs 参考表（相差 ≥ 3 级的 261 个） | **254 个 KB 标得对**（Kelly 按频率把 `apelsin`、`apotek` 定成 C 级才是问题） | 只改 7 个：`allergisk` → A2 · `gunga` → A2 · `avsked` / `hetta` / `kräsen` / `kvist` / `lykta` → B1 |
+| CEFR 标签 vs 参考表（相差 ≥ 3 级的 265 个，审了 261 个） | **254 个 KB 标得对**（Kelly 按频率把 `apelsin`、`apotek` 定成 C 级才是问题） | 只改 7 个：`allergisk` → A2 · `gunga` → A2 · `avsked` / `hetta` / `kräsen` / `kvist` / `lykta` → B1 |
 | 拼写错误 | 2 个 | `sömig` → **sömnig** · `perron` → **perrong** |
 | 用复数当词元 | `badbyxor`、`flingor`、`galonbyxor`、`massor`；`öppettider` **跟已有的 `öppettid.md` 重复** | 合并或改成单数词元（`vitvaror` 习惯用复数，可以保留） |
-| 跟已有词条重复的变形 | `sämre` / `värsta`（已有 `dålig`）· `mest`（`mycket`）· `några`（`någon`）· `ska`（`skola`） | 可以保留作快捷入口，但正文里要链接到原词 |
-| 专名大小写 | `östersjön` → **Östersjön** · `valhall` → **Valhall** | — |
+| 跟已有词条重复的变形 | `sämre` / `värsta`（已有 `dålig`）· `mest`（`mycket`）· `några`（`någon`） | 可以保留作快捷入口，但正文里要链接到原词（`ska` 不算：它是情态动词的正式词条，`skola` 是名词「学校」） |
+| 专名大小写 | `valhall` 的 lemma → **Valhall** | — |
 | 倒推出来的词元 | `hemskicka` | 应为 **skicka hem**（partikelverb） |
-| 没挂主题的词 | 871 个（31%） | 下次 `/kb` 时批量补主题 |
+| 没挂主题的词 | 647 个（23%）；另有 26 个 topic 标签没有对应的 `topics/` 笔记 | 下次 `/kb` 时批量补主题、补 topic 笔记 |
+| 句子笔记缺 `sentence:` 字段 | 84 个 | 补字段，否则统计和查重会漏掉它们 |
+| 未审计的 CEFR 分歧 | 4 个：`behållare`、`bensinstation`、`keps`、`nattduksbord`（KB 标 A2，Kelly 标 C1/C2） | 都是具体日常名词，A2 基本合理（`behållare` 可考虑 B1） |
 | 分词 / s 动词（`glömd`、`förändras`、`skämmas`…） | 词典里本来就有独立词条 | **不用改** |
 
 ---
@@ -190,7 +192,7 @@
 | ② | **基础词**一次补齐，或在 `/assess` 时标成已会 | 192 词 | 用处是让阅读站里 `heter`、`idag`、`måndag` 也能点 |
 | ③ | 加一个**国家 / 语言 / 国籍**主题（Sverige → svensk → svenska…） | ~40 词 | `/learn` 或 `/scenario` 写一篇「länder och språk」 |
 | ④ | 补 P2，配合 `/scenario` 用 B1 正式文体练（insändare、formellt brev、redogörelse） | 1 010 词 | 分主题、每周一两批 |
-| ⑤ | 做第 §6 的清理（2 个拼写 + 1 个重复 + 7 个 CEFR） | ~15 处 | 一次性手工修 |
+| ⑤ | 做第 §6 的清理（2 个拼写 + 1 个重复 + 7 个 CEFR + 1 个大小写） | ~15 处 | 一次性手工修 |
 | ⑥ | 跑 `/assess`，把真正会的词标成 `known: true` | — | 之后「KB 有笔记」和「真的会」就能分开统计 |
 | ⑦ | 每补完一批就复测：`python3 tools/vocab-coverage.py` | — | 跟下面的基线比 |
 

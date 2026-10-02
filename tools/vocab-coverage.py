@@ -175,7 +175,9 @@ def load_kb():
         t = open(f, encoding="utf-8").read()
         d = fm(t)
         lem = (d.get("lemma") or os.path.basename(f)[:-3]).strip().lower()
-        topics = re.findall(r"topic-[^,\]\s\"']+", d.get("topics", ""))
+        fmtext = (re.match(r"---\n(.*?)\n---", t, re.S) or [None, ""])[1]
+        tm = re.search(r"^topics:[ \t]*(.*(?:\n[ \t]+-.*)*)", fmtext, re.M)  # inline [a, b] or YAML block list
+        topics = re.findall(r"topic-[^,\]\s\"']+", tm.group(1) if tm else "")
         words.append({"slug": os.path.basename(f)[:-3], "lemma": lem, "ordklass": d.get("ordklass", ""),
                       "cls": sorted(kb_class(d.get("ordklass", ""))), "cefr": (d.get("cefr") or "")[:2].upper(),
                       "known": d.get("known", "").lower() == "true", "topics": topics,
