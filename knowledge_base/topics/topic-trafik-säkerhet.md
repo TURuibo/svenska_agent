@@ -3,7 +3,7 @@ type: topic
 name: "trafik & säkerhet"
 zh: "交通与安全"
 en: "traffic and safety"
-members: ["elsparkcykel", "trimma", "laglig", "olycka", "trafikolycka", "väja", "förarsäte", "oskadd", "sluddra", "ambulans", "rattfylleri", "återkalla", "körkort", "berusad"]
+members: ["elsparkcykel", "trimma", "laglig", "olycka", "trafikolycka", "väja", "förarsäte", "oskadd", "sluddra", "ambulans", "rattfylleri", "återkalla", "körkort", "berusad", "parkera", "parkeringsplats", "felparkerad", "hastighet", "rullstol", "förare", "hjälm", "snubbla"]
 created: "2026-06-25"
 ---
 
@@ -29,6 +29,14 @@ created: "2026-06-25"
 | [[återkalla]] | verb | 吊销、撤回 |
 | [[körkort]] | substantiv (ett) | 驾照 |
 | [[berusad]] | adjektiv | 醉的 |
+| [[parkera]] | verb | 停放（车辆） |
+| [[parkeringsplats]] | substantiv (en) | 停车位；停车场 |
+| [[felparkerad]] | adjektiv | 停放不当的 |
+| [[hastighet]] | substantiv (en) | 速度；车速 |
+| [[rullstol]] | substantiv (en) | 轮椅 |
+| [[förare]] | substantiv (en) | 驾驶者；骑行者 |
+| [[hjälm]] | substantiv (en) | 头盔 |
+| [[snubbla]] | verb | 绊倒 |
 
 ## 相关词汇 (Related)
 
@@ -39,3 +47,4 @@ created: "2026-06-25"
 
 - [[source-2026-06-25-svt-latt-horning]] — SVT 新闻：电动滑板车安全问题
 - [[source-2026-09-22-trafikolyckan]] — Språkvägen D s. 123–125，交通事故与庭审叙事
+- [[source-2026-10-02-fokus-nyhetsartikel-elsparkcyklar]] — 新闻：电动滑板车新规（停放、限速、头盔）；常用搭配 [[kilometer-i-timmen]]、[[till-fots]]、[[mitt-på]]

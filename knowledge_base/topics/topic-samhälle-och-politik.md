@@ -3,7 +3,7 @@ type: topic
 name: "samhälle-och-politik"
 kind: semantic-field
 zh: "社会与政治"
-members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis, protestera, demokrati, medlem, rösträtt, kamp, uppror, organisation, världskrig, införa]
+members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis, protestera, demokrati, medlem, rösträtt, kamp, uppror, organisation, världskrig, införa, fritidsgård, äldreomsorg, mötesplats, skadegörelse, budgetmöte, kommunfullmäktige, nämnd, ordförande]
 created: "2026-06-04"
 ---
 
@@ -57,6 +57,20 @@ created: "2026-06-04"
 - [[världskrig]] — 世界大战
 - [[införa]] — 引入，实行（法规）
 
+### 地方政治与青少年政策 (2026-10-02)
+
+- [[fritidsgård]] — 青少年活动中心
+- [[äldreomsorg]] — 养老服务
+- [[mötesplats]] — 聚会场所
+- [[skadegörelse]] — 破坏公物
+- [[budgetmöte]] — 预算会议
+
+### 市政机构与决策 (2026-10-02, 新闻：电动滑板车新规)
+
+- [[kommunfullmäktige]] — 市议会（最高决策机构）
+- [[nämnd]] — 委员会（市政下设）
+- [[ordförande]] — 主席；会长
+
 ## 备注 (Notes)
 
 - 与新闻话题"加拿大独立公投"和"国庆日入籍"相关。
@@ -65,3 +79,5 @@ created: "2026-06-04"
 - Greta Thunberg 相关词汇见 [[source-2026-06-22-greta-thunberg]]
 - 2026-08-06: 新增6词来自 Elin Wägner 传记 [[source-2026-08-06-elin-wagner]]（瑞典妇女选举权运动历史）。
   参见 [[topic-jämställdhet]]。
+- 2026-10-02: 新增地方政治 / 青少年政策词（fritidsgård, äldreomsorg, mötesplats, skadegörelse, budgetmöte），来自 [[source-2026-10-02-fokus-insandare-fritidsgardar]]。论证与观点表达词见 [[topic-argumentation]]。
+- 2026-10-02: 新增市政机构词（kommunfullmäktige, nämnd, ordförande），来自 [[source-2026-10-02-fokus-nyhetsartikel-elsparkcyklar]]；决策相关通用动词见 [[topic-allmänna-verb]]（fatta beslut, genomföra, stödja）。
