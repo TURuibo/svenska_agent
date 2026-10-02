@@ -646,8 +646,14 @@
 
   // ---------- list ----------
 
-  const KIND_BADGE = { scenario: 'scenario', article: 'article', adjsubst: 'adjsubst', news: 'news', other: 'other' };
+  const KIND_BADGE = {
+    scenario: 'scenario', article: 'article', adjsubst: 'adjsubst', news: 'news',
+    fokus: 'fokus', myndighet: 'myndighet', other: 'other',
+  };
   let activeKind = 'all', query = '', currentSlug = null, unreadOnly = false;
+  // Läsning filters (Tala keeps its sub-genre pills via activeKind):
+  // 题材 genre, 主题 topic code (T01–T21, see profile/vocab-gaps.json), 🎯 focus-only.
+  let activeGenre = 'all', activeTopic = 'all', focusOnly = false;
 
   // Deep link from another page: #article=<slug>&from=<anchor>&frompage=<forms|recap>.
   // `from`/`frompage` let us offer a one-click jump back to where the reader came
@@ -675,6 +681,9 @@
   function filtered() {
     return articles.filter((a) => {
       if (activeKind !== 'all' && facet(a) !== activeKind) return false;
+      if (activeGenre !== 'all' && a.genre !== activeGenre) return false;
+      if (activeTopic !== 'all' && a.topic !== activeTopic) return false;
+      if (focusOnly && !(a.targets && a.targets.length)) return false;
       if (unreadOnly && isRead(a.slug)) return false;
       if (query && !a.searchText.includes(query)) return false;
       return true;
@@ -724,6 +733,8 @@
       if (a.date) bits.push(a.date);
       if (a.cefr) bits.push(a.cefr);
       if (a.dialog) bits.push(`🎭 ${a.dialog.speakers.length} 角色`);
+      if (a.targets && a.targets.length) bits.push(`🎯 ${a.targets.length} 目标词`);
+      if (!TALA && a.genre) bits.push(a.genre);
       if (a.itemTotal) bits.push(`${a.itemTotal} 学习项`);
       meta.textContent = bits.join(' · ');
       card.appendChild(meta);
@@ -868,6 +879,57 @@
     );
   }
 
+  // ---------- 🎯 target words (gap-targeted texts) ----------
+  // A focus text names the gap words it teaches in a `**目标词:**` line (a.targets).
+  // They get a panel above the text (✓ = already has a KB note, i.e. imported) and
+  // are highlighted where they occur in the Swedish original.
+  function targetZh(a, w) {
+    const k = normItem(w);
+    const it = a.items || {};
+    const hit = [...(it.words || []), ...(it.phrases || [])].find((x) => normItem(x.sv) === k);
+    return hit ? hit.zh : '';
+  }
+  function targetsHtml(a) {
+    const ts = a.targets || [];
+    if (!ts.length) return '';
+    let learned = 0;
+    const chips = ts.map((w) => {
+      const kind = /\s/.test(w.trim()) ? 'phrase' : 'word';
+      const ref = resolveItem(kind, w);
+      if (ref) learned += 1;
+      return chipHtml(kind, w, null, targetZh(a, w)).replace('class="itemChip', 'class="itemChip targetChip' + (ref ? ' learned' : ''));
+    }).join('');
+    return (
+      `<div class="targetPanel">` +
+        `<div class="targetHead">🎯 本篇目标词 · ${ts.length}` +
+          `<span class="targetSub">${learned ? `✓ 已入库 ${learned}` : '导入后可点开'}</span>` +
+          `<a class="targetOva" href="../ova/#deck=focus">去复习 →</a>` +
+        `</div>` +
+        `<div class="itemChips">${chips}</div>` +
+      `</div>`
+    );
+  }
+  // Highlight the target words in the Swedish original: bold runs inside the
+  // 瑞典语原文 section (the generator bolds every target occurrence) plus any
+  // glossary word whose lemma is a target.
+  function highlightTargets(a, bodyEl) {
+    const ts = new Set((a.targets || []).map((t) => t.toLowerCase()));
+    if (!ts.size) return;
+    // Only the `## 瑞典语原文` section (the H1 title and the metadata lines above it
+    // also carry bold labels / a 🇸🇪 flag, so zones are decided by H2 headings alone).
+    let inSv = false;
+    for (const el of Array.from(bodyEl.children)) {
+      if (el.tagName === 'H1') { inSv = false; continue; }
+      if (el.tagName === 'H2') { inSv = /原文|svenska/i.test(el.textContent || ''); continue; }
+      if (!inSv || (el.getAttribute && el.getAttribute('data-zh') === '1')) continue;
+      el.querySelectorAll('strong').forEach((s) => s.classList.add('targetStrong'));
+      el.querySelectorAll('.vocabWord').forEach((span) => {
+        const e = vocabBySlug.get(span.dataset.slug);
+        if (e && ts.has(String(e.lemma || '').toLowerCase())) span.classList.add('targetWord');
+      });
+    }
+  }
+
   function openArticle(slug) {
     const a = articles.find((x) => x.slug === slug);
     if (!a) return;
@@ -906,6 +968,7 @@
       `</div>` +
       (countBits.length ? `<p class="viewCounts">📚 ${countBits.join(' · ')}</p>` : '') +
       (TALA ? `<div id="practiceSlot" class="practiceSlot"></div>` : '') +
+      targetsHtml(a) +
       `<div class="articleBody kind-${a.kind}">${mdToHtml(a.body || '')}</div>` +
       itemsHtml(a);
 
@@ -945,6 +1008,7 @@
     const bodyEl = viewEl.querySelector('.articleBody');
     if (bodyEl) {
       linkifyVocab(bodyEl);
+      highlightTargets(a, bodyEl);
       if (lookupMode) decorateLookup(bodyEl);
     }
     viewEl.classList.toggle('vocab-off', !vocabOn);
@@ -980,6 +1044,42 @@
       renderList();
     });
   });
+  // Läsning: 题材 / 主题 dropdowns (only values that occur) + 🎯 toggle.
+  const genreSel = document.getElementById('genreFilter');
+  const topicSel = document.getElementById('topicFilter');
+  if (genreSel && topicSel) {
+    const present = (field) => new Set(articles.map((a) => a[field]).filter(Boolean));
+    const genres = present('genre');
+    for (const g of (data.genres || [])) {
+      if (!genres.has(g)) continue;
+      const n = articles.filter((a) => a.genre === g).length;
+      genreSel.insertAdjacentHTML('beforeend', `<option value="${escapeHtml(g)}">${escapeHtml(g)} (${n})</option>`);
+    }
+    const topics = present('topic');
+    for (const [code, t] of Object.entries(data.topics || {})) {
+      if (!topics.has(code)) continue;
+      const n = articles.filter((a) => a.topic === code).length;
+      topicSel.insertAdjacentHTML('beforeend',
+        `<option value="${escapeHtml(code)}">${escapeHtml((t.icon || '') + ' ' + (t.zh || code))} (${n})</option>`);
+    }
+    genreSel.addEventListener('change', () => { activeGenre = genreSel.value; renderList(); });
+    topicSel.addEventListener('change', () => { activeTopic = topicSel.value; renderList(); });
+  }
+  const focusBtn = document.getElementById('filterFocus');
+  if (focusBtn) {
+    const nFocus = articles.filter((a) => a.targets && a.targets.length).length;
+    focusBtn.textContent = `🎯 补弱项${nFocus ? ' ' + nFocus : ''}`;
+    focusBtn.addEventListener('click', () => {
+      focusOnly = !focusOnly;
+      focusBtn.classList.toggle('active', focusOnly);
+      renderList();
+    });
+    // Deep link from Dagbok's progress card: #focus=1 opens the list pre-filtered.
+    if (new URLSearchParams((location.hash || '').replace(/^#/, '')).get('focus') === '1') {
+      focusOnly = true;
+      focusBtn.classList.add('active');
+    }
+  }
   document.getElementById('filterUnread').addEventListener('click', (e) => {
     unreadOnly = !unreadOnly;
     e.currentTarget.classList.toggle('active', unreadOnly);

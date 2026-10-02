@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Läsning — Swedish Reading</title>
     <link rel="stylesheet" href="../styles.css?v=3" />
-    <link rel="stylesheet" href="reading.css?v=13" />
+    <link rel="stylesheet" href="reading.css?v=14" />
     <link rel="stylesheet" href="../kb-popover.css?v=4" />
   </head>
   <body class="readingBody" data-site="reading">
@@ -19,11 +19,15 @@
       </div>
 
       <nav class="filterBar" aria-label="Filters">
-        <span class="filterLabel">类型：</span>
-        <button type="button" class="kindFilter active" data-kind="all">全部</button>
-        <button type="button" class="kindFilter" data-kind="news">新闻</button>
-        <button type="button" class="kindFilter" data-kind="article">文章</button>
-        <button type="button" class="kindFilter" data-kind="adjsubst">词形变化</button>
+        <label class="filterSelect" title="按题材筛选：论述 / 书信 / 说明文 / 新闻 / 课文 …">
+          <span class="filterLabel">题材</span>
+          <select id="genreFilter"><option value="all">全部</option></select>
+        </label>
+        <label class="filterSelect" title="按主题筛选（与词汇分析的缺口主题一致）">
+          <span class="filterLabel">主题</span>
+          <select id="topicFilter"><option value="all">全部</option></select>
+        </label>
+        <button type="button" id="filterFocus" class="toggleBtn" title="只看补弱项文章（带 🎯 目标词）">🎯 补弱项</button>
         <span class="filterDivider" aria-hidden="true"></span>
         <button type="button" id="filterUnread" class="toggleBtn" title="只看未读">📖 未读</button>
         <button type="button" id="toggleVocab" class="toggleBtn" title="高亮 KB 里有的瑞典语生词，点词查看释义">🔤 生词</button>
@@ -50,7 +54,7 @@
     <script src="../kb-markdown.js?v=4"></script>
     <script src="../kb-store.js?v=5"></script>
     <script src="../speak.js?v=3"></script>
-    <script src="reading.js?v=16"></script>
-    <script src="../nav.js?v=3"></script>
+    <script src="reading.js?v=17"></script>
+    <script src="../nav.js?v=4"></script>
   </body>
 </html>
