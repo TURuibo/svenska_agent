@@ -28,6 +28,9 @@ For a full assessment:
    with official Godkänt criteria keywords + approximate CEFR) to place the learner and name gaps.
    Its §7 gives vocabulary-size targets per level and §8 the other measures (CAF, LIX, coverage);
    estimate vocab size by stratified sampling of KB words per CEFR band (know / don't know).
+   For KB-level coverage (what the KB itself reaches, gaps by level/theme) run
+   `python3 tools/vocab-coverage.py` and compare with the baseline in `profile/vocab-analysis.md` §7;
+   the prioritised gap lists live in `profile/vocab-gaps.md`.
 4. **Be honest and specific** — cite evidence ("能正确用 perfekt 但 bisats 词序常错").
 
 ## 3. 写入档案 (Write the profile)

@@ -74,7 +74,7 @@ def load_kelly(cache):
         wpm = float(d.get("wpm", "0").replace(",", ".") or 0)
         src = d.get("source", "").lower()
         rows.append({
-            "id": int(d["kellyID"]), "form": d["writtenForm"].strip(), "pos": d.get("kellyPartOfSpeech", "").strip(),
+            "id": int(d["kellyID"]), "form": re.sub(r"\s*(…|\.\.\.)\s*|\s+", " ", d["writtenForm"]).strip(), "pos": d.get("kellyPartOfSpeech", "").strip(),
             "level": LEVELS[int(d["cefr"]) - 1], "source": src,
             # SweWaC WPM is a real corpus frequency; manual/T2 rows and the one 1e6 sentinel are not
             "wpm": wpm if (src == "swewac" and wpm < 1e5) else None,
@@ -424,6 +424,10 @@ def analyse(cache, use_saldo=True):
                                        key=lambda e: -e["freq"]) for L in LEVELS[:5]},
         "uncovered_in_content": [{"lemma": l, "count": c} for l, c in uncovered.most_common(400)],
         "proper_nouns_in_content": [{"name": l, "count": c} for l, c in proper.most_common(150)],
+        "kelly_items": [{"form": r["form"], "pos": r["pos"], "level": r["level"], "rank": r.get("rank"),
+                         "status": r["status"], "function": r["function"]} for r in kelly],
+        "svalex_items": [{"word": e["word"], "tag": e["tag"], "level": e["level"], "core": e["core"],
+                          "kind": e["kind"], "status": e["status"]} for e in svalex],
         "saldo_used": bool(saldo),
     }
 
