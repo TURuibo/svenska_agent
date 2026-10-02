@@ -1,5 +1,6 @@
 /* Dagbok — site home: a slim per-day index of what was practised, linking out to
-   📖 Läsning (articles), 🎧 Lyssna (episodes) and 🔍 Sök (individual lookups).
+   📖 Läsning (articles), 🗣️ Tala (scenarios), 🎧 Lyssna (episodes) and 🔍 Sök
+   (individual lookups).
    Reads window.DAGBOK_DATA, built by tools/build-dagbok-data.js. */
 
 (function () {
@@ -18,7 +19,7 @@
   const days = DATA.days; // newest first
 
   // How much of each row shows before "+N ▾".
-  const SHOW = { reading: 3, listening: 3, sources: 3, lookups: 8 };
+  const SHOW = { reading: 3, speaking: 3, listening: 3, sources: 3, lookups: 8 };
   // Days in the last RECENT_DAYS calendar days render up front (at least
   // MIN_RECENT active days); older ones sit behind "显示更早".
   const RECENT_DAYS = 30;
@@ -90,6 +91,7 @@
     return `&from=${enc('day-' + date)}&frompage=recap`;
   }
   const readingHref = (slug, date) => `reading/#article=${enc(slug)}${back(date)}`;
+  const talaHref = (slug, date) => `tala/#article=${enc(slug)}${back(date)}`;
   const listeningHref = (id, date) => `listening/#ep=${enc(id)}${back(date)}`;
   const sokHref = (slug) => `sok/#note=${enc(slug)}`;
 
@@ -160,6 +162,14 @@
     if (a.ep) li.appendChild(link('dgMini', listeningHref(a.ep, date), '🎧', '🎧 在 Lyssna 听这篇'));
     return li;
   }
+  function speakingEntry(a, date) {
+    const li = el('li', 'dgEntry');
+    li.appendChild(titleLink(talaHref(a.slug, date), a.title, a.roles ? '🎭 在 Tala 角色扮演' : '🗣️ 在 Tala 跟读'));
+    li.appendChild(el('span', `dgTag form-${a.kind}`, a.kindLabel));
+    if (a.cefr) li.appendChild(el('span', 'dgCefr', a.cefr));
+    if (a.ep) li.appendChild(link('dgMini', listeningHref(a.ep, date), '🎧', '🎧 在 Lyssna 听这篇'));
+    return li;
+  }
   function listeningEntry(ep, date) {
     const li = el('li', 'dgEntry');
     li.appendChild(titleLink(listeningHref(ep.id, date), ep.title, '🎧 在 Lyssna 听'));
@@ -192,6 +202,9 @@
 
     if (d.reading.length) {
       sec.appendChild(row('reading', '📖', '阅读', d.reading.map((a) => readingEntry(a, d.date)), SHOW.reading, '篇'));
+    }
+    if (d.speaking.length) {
+      sec.appendChild(row('speaking', '🗣️', '口语', d.speaking.map((a) => speakingEntry(a, d.date)), SHOW.speaking, '篇'));
     }
     if (d.listening.length) {
       sec.appendChild(row('listening', '🎧', '听力', d.listening.map((ep) => listeningEntry(ep, d.date)), SHOW.listening, '集'));

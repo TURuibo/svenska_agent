@@ -156,11 +156,14 @@
     }
     return bestScore > 0 ? best : null;
   }
-  // Deep link into Läsning, carrying a back-anchor to this forms date section.
+  // Deep link into Läsning (or Tala, where scenarios live), carrying a
+  // back-anchor to this forms date section.
   function readingHref(article, dateKey) {
     const from = dateKey ? `&from=${encodeURIComponent('date-' + dateKey)}` : '';
-    return `../reading/#article=${encodeURIComponent(article.slug)}${from}`;
+    const page = article.kind === 'scenario' ? 'tala' : 'reading';
+    return `../${page}/#article=${encodeURIComponent(article.slug)}${from}`;
   }
+  const readingPageName = (article) => (article.kind === 'scenario' ? 'Tala' : 'Läsning');
 
   let sortMode = 'new';
   let groupMode = 'date';
@@ -256,7 +259,7 @@
       const article = readingFor(note);
       if (article) {
         const href = readingHref(article, srcDate(note));
-        readBlock = `<a class="fmReadLink" href="${href}">📖 阅读原文（Läsning，可看中文翻译）→</a>`;
+        readBlock = `<a class="fmReadLink" href="${href}">📖 阅读原文（${readingPageName(article)}，可看中文翻译）→</a>`;
       }
     }
     return (
@@ -435,7 +438,7 @@
         items.sort((a, b) => a.lemma.localeCompare(b.lemma, 'sv'));
         const article = readingFor(src);
         const readLink = article
-          ? `<a class="srcReadLink" href="${readingHref(article, dateKey)}" title="在 Läsning 阅读原文（可看中文翻译）">📖 阅读原文</a>`
+          ? `<a class="srcReadLink" href="${readingHref(article, dateKey)}" title="在 ${readingPageName(article)} 阅读原文（可看中文翻译）">📖 阅读原文</a>`
           : '';
         parts.push('<div class="srcBatch">');
         parts.push(

@@ -182,6 +182,10 @@
 .dgTag.kind-article  { background: color-mix(in srgb, var(--blue) 14%, transparent);  color: var(--blue); }
 .dgTag.kind-adjsubst { background: color-mix(in srgb, var(--gold) 16%, transparent);  color: var(--gold); }
 .dgTag.kind-news     { background: color-mix(in srgb, var(--red) 14%, transparent);   color: var(--red); }
+/* 🗣️ 口语 row: scenario sub-genre (对话 / 文本 / 故事), same tints as Tala's badges */
+.dgTag.form-dialog   { background: color-mix(in srgb, var(--green) 14%, transparent); color: var(--green); }
+.dgTag.form-text     { background: color-mix(in srgb, var(--blue) 14%, transparent);  color: var(--blue); }
+.dgTag.form-story    { background: color-mix(in srgb, var(--gold) 16%, transparent);  color: var(--gold); }
 
 .dgMini {
   flex: none;
