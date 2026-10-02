@@ -78,6 +78,7 @@ members:
   - lykta
   - gågata
   - promenadstråk
+  - centrum
 created: "2026-06-09"
 ---
 
@@ -96,6 +97,7 @@ created: "2026-06-09"
 - [[skylt]] — 招牌；标志
 - [[hus]] — 房子；楼房
 - [[station]] — 车站
+- [[centrum]] — 市中心（2026-10-02）
 
 ### 公共空间 (Offentliga platser)
 - [[park]] — 公园

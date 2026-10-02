@@ -37,6 +37,7 @@ interval: 0
 
 ## 词组搭配 (Collocations)
 
+- `ledare i en idrottsförening` — 体育协会的带队人 / 教练员（2026-10-02 新增义项，见下）
 - `ländernas ledare` — 这些国家的领导人
 - `en politisk ledare` — 政治领导人
 - `Ukrainas ledare` — 乌克兰领导人
@@ -46,6 +47,11 @@ interval: 0
 - 🇸🇪 Nyligen hade ländernas ledare ett möte i Frankrike. — 🇨🇳 最近这些国家的领导人在法国开了会。
 - 🇸🇪 Ukrainas ledare Volodymyr Zelenskyj var också med på mötet. — 🇨🇳 乌克兰领导人泽连斯基也参加了会议。
 - 🇸🇪 En bra ledare lyssnar på sitt folk. — 🇨🇳 一位好的领导人倾听人民的声音。
+
+**义项2 带队人 / 辅导员（协会、青少年活动中的"ledare"）— 2026-10-02 新增:**
+
+- 🇸🇪 Själv har jag jobbat som ledare i en idrottsförening. — 🇨🇳 我自己在一个体育协会当过带队人。 → [[sent-själv-har-jag-jobbat-som-ledare-i-en]]
+- 🇸🇪 Ledarna på fritidsgården hjälper ungdomarna med läxorna. — 🇨🇳 青少年活动中心的辅导员帮年轻人做作业。
 
 ## 词族 / 同义 / 反义 (Relations)
 

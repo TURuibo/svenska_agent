@@ -15,6 +15,7 @@ members:
   - hör-av-dig
   - säg-till
   - ta-en-fika
+  - umgås
 created: "2026-06-20"
 ---
 
@@ -31,6 +32,7 @@ created: "2026-06-20"
 - [[helg]] — 周末；约人常提到
 - [[passa]] — 合适；"Passar det?" 约时间用
 - [[funka]] — 行得通（口语）
+- [[umgås]] — 交往；相处；一起玩（2026-10-02）
 
 ### 词组 (Phrases)
 - [[hur-är-läget]] — 最近怎么样？（非正式问候）
