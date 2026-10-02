@@ -444,7 +444,8 @@ git commit --no-edit && git push                          # 再回 ③ merge PR
 ## 5. 水平档案 (Learner Profile)
 
 `profile/level.md` is the single source of truth for what Ruibo already knows. It records:
-- overall CEFR/SFI estimate,
+- overall CEFR/SFI estimate (scale: `.claude/skills/sv-assess/levels.md` — SFI A–D → Grund SVA delkurs 1–4 →
+  Gy SVA nivå 1–3, official requirements + approx. CEFR),
 - known vocabulary (so you can skip full lookups — rule 4),
 - weak spots (grammar points / word classes to drill).
 
