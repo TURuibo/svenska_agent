@@ -3,7 +3,7 @@ type: topic
 name: "samhälle-och-politik"
 kind: semantic-field
 zh: "社会与政治"
-members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis, protestera, demokrati, medlem, rösträtt, kamp, uppror, organisation, världskrig, införa, fritidsgård, äldreomsorg, mötesplats, skadegörelse, budgetmöte, kommunfullmäktige, nämnd, ordförande]
+members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis, protestera, demokrati, medlem, rösträtt, kamp, uppror, organisation, världskrig, införa, fritidsgård, äldreomsorg, mötesplats, skadegörelse, budgetmöte, kommunfullmäktige, nämnd, ordförande, socialtjänst, socialtjänstlag, riksnorm]
 created: "2026-06-04"
 ---
 
@@ -70,6 +70,13 @@ created: "2026-06-04"
 - [[kommunfullmäktige]] — 市议会（最高决策机构）
 - [[nämnd]] — 委员会（市政下设）
 - [[ordförande]] — 主席；会长
+
+### 社会服务与补助制度 (2026-10-02, Socialstyrelsen 易读版)
+
+- [[socialtjänst]] — 社会服务机构
+- [[socialtjänstlag]] — 社会服务法
+- [[riksnorm]] — 全国标准（补助额），由 [[regering]] 每年确定
+- 来源 [[source-2026-10-02-myndighet-ekonomiskt-stod]]；经济补助整体词汇见 [[topic-ekonomi-och-bidrag]]
 
 ## 备注 (Notes)
 

@@ -8,9 +8,10 @@ zh: "债务；过错，罪责"
 en: "debt; guilt, fault"
 synonyms: []
 antonyms: []
-family: []
-topics: []
-sentences: []
+family: [skuldrådgivare]
+topics: [topic-ekonomi-och-bidrag]
+sentences: [sent-har-du-skulder, sent-om-du-har-skulder-eller-svårt-att-planera, sent-det-är-någon-som-hjälper-dig-att-få]
+sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
 known: false
 created: "2026-06-18"
 reviewed: ""
@@ -48,13 +49,15 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
-- 主题: [[]]
+- 词族: [[skuldrådgivare]]（债务顾问）
+- 同义词: —
+- 反义词: —
+- 主题: [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)
 
 - En-ord, plural: skulder.
 - 两个核心义项注意区分：债务 (financial debt) vs. 过错/罪责 (guilt/blame)。
 - `skuldkänsla` = 愧疚感 (guilt feeling).
+- 经济补助语境（义项 1 债务）：常用复数 `skulder`，如 `Har du skulder?`、`hantera dina skulder`（处理债务）。例句: [[sent-har-du-skulder]] · [[sent-om-du-har-skulder-eller-svårt-att-planera]] · [[sent-det-är-någon-som-hjälper-dig-att-få]]
+- 来源: [[source-2026-10-02-myndighet-ekonomiskt-stod]]

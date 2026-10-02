@@ -11,7 +11,8 @@ synonyms: [sköta]
 antonyms: []
 family: [hantering]
 topics: [topic-allmänna-verb]
-sentences: [sent-i-beslutet-ingår-också-att-företagen-själva]
+sentences: [sent-i-beslutet-ingår-också-att-företagen-själva, sent-det-är-någon-som-hjälper-dig-att-få]
+sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
 known: false
 created: "2026-10-02"
 ---
@@ -61,4 +62,5 @@ created: "2026-10-02"
 - `hantera` 强调"**怎么对付 / 处理**一件棘手的东西"（问题、情绪、物品、数据）；`sköta` 偏"负责、照管日常事务"：`sköta ekonomin`。
 - 宾语可以是**抽象的**（stress, kritik）也可以是**具体的**（cyklar, farliga ämnen），这是它比 `ta hand om` 更正式的地方。
 - 与 `lyckas` 无关：`hantera` 只说"处理"，不保证成功。
-- 来源: [[source-2026-10-02-fokus-nyhetsartikel-elsparkcyklar]]
+- 财务语境: `hantera sina skulder`（处理债务）。例句: 🇸🇪 Det är någon som hjälper dig att få bättre koll på din ekonomi och hantera dina skulder. — 🇨🇳 这是一个帮助你更好地掌握财务状况、处理债务的人。 → [[sent-det-är-någon-som-hjälper-dig-att-få]]
+- 来源: [[source-2026-10-02-fokus-nyhetsartikel-elsparkcyklar]] · [[source-2026-10-02-myndighet-ekonomiskt-stod]]

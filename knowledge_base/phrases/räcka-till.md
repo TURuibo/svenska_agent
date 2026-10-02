@@ -10,8 +10,9 @@ literal: "伸 / 达到……到那里"
 head_words: [räcka]
 grammar: [grammar-partikelverb]
 related: [det-räcker-med, räcka-fram]
-topics: []
-sentences: [sent-å-ena-sidan-förstår-jag-den-tanken]
+topics: [topic-ekonomi-och-bidrag]
+sentences: [sent-å-ena-sidan-förstår-jag-den-tanken, sent-pengarna-ska-räcka-till-mat-kläder-och]
+sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
 known: false
 created: "2026-10-02"
 ---
@@ -47,4 +48,6 @@ created: "2026-10-02"
 - 🇸🇪 Maten räcker till alla. 🇨🇳 食物够所有人吃。
 - 🇸🇪 Tiden räckte inte till. 🇨🇳 时间不够用。
 
-来源: [[source-2026-10-02-fokus-insandare-fritidsgardar]]
+- [[sent-pengarna-ska-räcka-till-mat-kläder-och]] 🇸🇪 Pengarna ska räcka till mat, kläder och skor, lek och fritid, hälsa och hygien, tidning och telefon och förbrukningsvaror. 🇨🇳 这笔钱应当够用于食物、衣服和鞋子、游戏与休闲、健康与卫生、报纸和电话，以及日用消耗品。（相关: [[få-pengarna-att-räcka]]）
+
+来源: [[source-2026-10-02-fokus-insandare-fritidsgardar]] · [[source-2026-10-02-myndighet-ekonomiskt-stod]]

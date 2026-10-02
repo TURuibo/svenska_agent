@@ -5,7 +5,7 @@ zh: "s-被动态"
 en: "s-passive voice"
 level: "A2–B1"
 related: ["grammar-passiv-med-s", "grammar-bli-passiv-perfekt", "grammar-s-passiv-i-perfekt", "grammar-s-verb-reciprok"]
-examples: ["sent-huset-kallades-ett-langhus", "sent-nu-döms-mamman-till-sex-års", "sent-minst-18-manniskor-har-dodats", "sent-skatten-sanks-pa-bensin-och-diesel"]
+examples: ["sent-huset-kallades-ett-langhus", "sent-nu-döms-mamman-till-sex-års", "sent-minst-18-manniskor-har-dodats", "sent-skatten-sanks-pa-bensin-och-diesel", "sent-den-summan-kallas-riksnorm", "sent-socialtjänsten-bedömer-om-stödet-behövs-för-att"]
 known: false
 created: "2026-06-27"
 reviewed: ""
@@ -68,6 +68,8 @@ s-被动: Subjekt(患者) + VERB-s
 - ✅ 🇸🇪 Svenska talas i Sverige. 🇨🇳 瑞典语在瑞典被使用。
 - ✅ [[sent-minst-18-manniskor-har-dodats]] 🇸🇪 Minst 18 människor har dödats. 🇨🇳 至少18人死亡。（完成时 s-被动：har + supinum + s）
 - ✅ [[sent-skatten-sanks-pa-bensin-och-diesel]] 🇸🇪 Skatten sänks på bensin och diesel med tre kronor per liter. 🇨🇳 汽油和柴油税每升下调三克朗。（现在时 s-被动）
+- ✅ [[sent-den-summan-kallas-riksnorm]] 🇸🇪 Den summan kallas riksnorm. 🇨🇳 这个金额叫作"全国标准"。（`kallas` = 被称为，现在时）
+- ✅ [[sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]] 🇸🇪 Socialtjänsten bedömer om stödet behövs för att du ska kunna leva på en rimlig nivå. 🇨🇳 社会服务处会评估是否需要这笔补助，好让你能过上合理水平的生活。（`behövs` = `behövas`，被需要）
 - ❌ `Huset kallas ett långhus av vikingarna.` ← 施事者引入用 `av`，但在口语中不常见
 
 ## 常见错误 (Common Mistakes)

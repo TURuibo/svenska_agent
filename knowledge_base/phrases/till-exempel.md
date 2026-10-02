@@ -11,7 +11,8 @@ head_words: [exempel]
 grammar: [grammar-satsadverbial, grammar-inversion-efter-fundament]
 related: [bland-annat, det-vill-säga]
 topics: []
-sentences: []
+sentences: [sent-pengarna-ska-räcka-till-mat-kläder-och, sent-du-kan-också-få-stöd-för-vissa-andra, sent-till-exempel-var-och-hur-du-bor, sent-det-kan-till-exempel-vara-kostnader-för]
+sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
 known: false
 created: "2026-10-01"
 ---
@@ -60,4 +61,8 @@ created: "2026-10-01"
 - 🇸🇪 Till exempel kan du ta bussen. 🇨🇳 比如你可以坐公交。
 - 🇸🇪 Man kan t.ex. öva genom att läsa nyheter. 🇨🇳 比如可以通过读新闻来练习。
 
-来源: [[source-2026-09-22-nils-van-der-poel]]
+- [[sent-pengarna-ska-räcka-till-mat-kläder-och]] 🇸🇪 …förbrukningsvaror, till exempel diskmedel och glödlampor. 🇨🇳 ……日用消耗品，例如洗洁精和灯泡。（句中插入，引出清单）
+- [[sent-till-exempel-var-och-hur-du-bor]] 🇸🇪 Till exempel var och hur du bor. 🇨🇳 例如你住在哪里、怎么住。（句首，不完整句）
+- [[sent-det-kan-till-exempel-vara-kostnader-för]] 🇸🇪 Det kan till exempel vara kostnader för tandvård, glasögon, sjukvård och medicin. 🇨🇳 例如可以是看牙、眼镜、医疗和药品方面的费用。（在 `kan` 之后）
+
+来源: [[source-2026-09-22-nils-van-der-poel]] · [[source-2026-10-02-myndighet-ekonomiskt-stod]]

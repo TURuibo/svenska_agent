@@ -5,7 +5,7 @@ zh: "间接疑问句（作从句，不倒装）"
 en: "indirect question as a subordinate clause"
 level: "SFI C / CEFR A2"
 related: [grammar-bisats, grammar-bisats-ordfoljd, grammar-bisats-om, grammar-frageord, grammar-ja-nej-fraga, grammar-bisats-med-vem-som, grammar-v2-ordfoljd]
-examples: [sent-efter-vilan-skriver-vi-i-appen, sent-olika-barn-sover-olika-länge]
+examples: [sent-efter-vilan-skriver-vi-i-appen, sent-olika-barn-sover-olika-länge, sent-vilket-stöd-du-kan-få-beror-på, sent-regeringen-bestämmer-varje-år-hur-mycket, sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga, sent-vad-som-är-rimligt-beror-på-olika, sent-till-exempel-var-och-hur-du-bor]
 known: false
 created: "2026-09-26"
 ---
@@ -51,6 +51,10 @@ created: "2026-09-26"
 - ✅ 🇸🇪 Vet du när Ella ska hämtas i dag? 🇨🇳 你知道 Ella 今天几点被接吗？
 - ✅ 🇸🇪 Jag undrar om hon har ätit bra. 🇨🇳 我想知道她吃得好不好。
 - ✅ 🇸🇪 Vi vet inte vem som hämtar Olle. 🇨🇳 我们不知道谁来接 Olle。
+- ✅ [[sent-vilket-stöd-du-kan-få-beror-på]] 🇸🇪 Vilket stöd du kan få beror på vad du behöver hjälp med. 🇨🇳 你能得到哪种帮助，取决于你需要哪方面的帮助。（两个疑问词从句，介词 `med` 留在末尾）
+- ✅ [[sent-regeringen-bestämmer-varje-år-hur-mycket]] 🇸🇪 Regeringen bestämmer varje år hur mycket pengar du kan få. 🇨🇳 政府每年决定你能拿到多少钱。
+- ✅ [[sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga]] 🇸🇪 Socialtjänsten bedömer om kostnaderna är rimliga. 🇨🇳 社会服务处会评估这些费用是否合理。（`om` = 是否）
+- ✅ [[sent-vad-som-är-rimligt-beror-på-olika]] 🇸🇪 Vad som är rimligt beror på olika saker. 🇨🇳 什么算合理取决于不同情况。（疑问词作从句主语 → 加 `som`）
 - ❌ *Vi skriver hur länge har barnet sovit.* ← 从句里不能倒装
 - ❌ *Jag undrar har hon ätit.* ← 是非问变间接必须加 om
 
