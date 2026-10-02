@@ -1,7 +1,7 @@
 /* speak.js — 瑞典语点击发声 (click-to-hear pronunciation).
    Uses the browser Web Speech API (SpeechSynthesis) with a sv-SE voice so any
    Swedish word/phrase/sentence in the KB can be heard without storing audio.
-   Shared by Sök (查词), Läsning (阅读), Dagbok (闪卡), Lyssna (听力).
+   Shared by Sök (查词), Läsning (阅读), Tala (口语), Lyssna (听力).
 
    Two uses:
    1. Inline 🔊 control: emit SvSpeak.buttonHtml(text); a delegated click/keyboard
@@ -51,12 +51,14 @@
     if (synth.addEventListener) synth.addEventListener('voiceschanged', pickVoice);
   }
 
-  function makeUtterance(text) {
+  function makeUtterance(text, rate) {
     const u = new SpeechSynthesisUtterance(text);
     u.lang = 'sv-SE';
     if (!svVoice) pickVoice();
     if (svVoice) u.voice = svVoice;
-    u.rate = 0.9; // a touch slower than native — easier to follow when learning
+    // Default a touch slower than native — easier to follow when learning.
+    // Tala's speed picker passes its own rate (0.7 slow … 1.0 natural).
+    u.rate = rate || 0.9;
     return u;
   }
 
@@ -117,7 +119,7 @@
   }
 
   // Queue `parts` (array of strings) as sequential utterances. Returns false if
-  // unsupported / empty. opts: { onpart(i), onend(), onerror() }.
+  // unsupported / empty. opts: { onpart(i), onend(), onerror(), rate }.
   function speakSequence(parts, opts) {
     const list = (parts || []).map((s) => (s || '').trim()).filter(Boolean);
     if (!list.length || !supported) return false;
@@ -130,7 +132,7 @@
       if (token !== runToken) return;        // superseded by a newer call
       if (i >= list.length) { if (o.onend) o.onend(); return; }
       const idx = i;
-      const u = makeUtterance(list[i]);
+      const u = makeUtterance(list[i], o.rate);
       u.onstart = () => { if (token === runToken && o.onpart) o.onpart(idx); };
       u.onend = () => { if (token === runToken) { i += 1; next(); } };
       u.onerror = () => {

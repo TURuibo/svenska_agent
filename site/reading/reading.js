@@ -1,6 +1,12 @@
 /* Läsning — reading UI. Reads window.READING_DATA (reading-data.js) for articles.
    Pure reading: list + search + 已读 marker.
-   (No flashcard drilling here.) */
+   (No flashcard drilling here.)
+
+   The same engine also drives 🗣️ Tala (site/tala/, <body data-site="tala">):
+   Tala lists only the scenarios (kind 'scenario'), Läsning lists everything else.
+   Tala filters by sub-genre (a.form: dialog/text/story) instead of kind, and
+   gets a #practiceSlot above the text that site/tala/tala.js fills on the
+   'reading:open' event (role-play + shadowing). */
 
 (function () {
   'use strict';
@@ -15,7 +21,20 @@
     return;
   }
 
-  const articles = data.articles;
+  const TALA = document.body.dataset.site === 'tala';
+  const onThisPage = (a) => (a.kind === 'scenario') === TALA;
+  const articles = data.articles.filter(onThisPage);
+
+  // A deep link to an article that lives on the other page (old bookmarks, or
+  // Former/Lyssna links from before scenarios moved to Tala) hops over, hash intact.
+  {
+    const want = new URLSearchParams((location.hash || '').replace(/^#/, '')).get('article');
+    const elsewhere = want && data.articles.find((a) => a.slug === want && !onThisPage(a));
+    if (elsewhere) {
+      location.replace((TALA ? '../reading/' : '../tala/') + location.hash);
+      return;
+    }
+  }
   // Shared KB store (kb-index.js + kb-store.js) + markdown renderer (kb-markdown.js).
   // Vocab metadata stays in reading-data.js (to detect clickable words); the full
   // note body for the glossary popover now loads lazily from the shared bodies,
@@ -25,7 +44,8 @@
   const mainEl = document.querySelector('.readingMain');
   const isMobile = () => window.matchMedia('(max-width: 760px)').matches;
   document.getElementById('readingUpdated').textContent =
-    `数据更新于 ${data.generatedAt} · 共 ${articles.length} 篇`;
+    `数据更新于 ${data.generatedAt} · 共 ${articles.length} 篇` +
+    (TALA ? ` · 🎭 ${articles.filter((a) => a.dialog).length} 篇可角色扮演` : '');
 
   // ---------- local state (已读 marker) ----------
 
@@ -644,9 +664,17 @@
   const backAnchor = _h.from || '';
   const backTarget = BACK_TARGETS[_h.frompage] || BACK_TARGETS.forms;
 
+  // Tala's filter pills are sub-genres (对话/文本/故事), Läsning's are kinds.
+  const FORM_LABELS = { dialog: '对话', text: '文本', story: '故事' };
+  const facet = (a) => (TALA ? a.form : a.kind);
+  function badge(a) {
+    if (TALA) return { cls: 'form-' + (a.form || 'text'), text: FORM_LABELS[a.form] || '情景' };
+    return { cls: 'kind-' + (KIND_BADGE[a.kind] || 'other'), text: a.kindLabel ? a.kindLabel.zh : a.kind };
+  }
+
   function filtered() {
     return articles.filter((a) => {
-      if (activeKind !== 'all' && a.kind !== activeKind) return false;
+      if (activeKind !== 'all' && facet(a) !== activeKind) return false;
       if (unreadOnly && isRead(a.slug)) return false;
       if (query && !a.searchText.includes(query)) return false;
       return true;
@@ -669,8 +697,9 @@
       const top = document.createElement('div');
       top.className = 'cardTop';
       const kind = document.createElement('span');
-      kind.className = 'cardKind kind-' + (KIND_BADGE[a.kind] || 'other');
-      kind.textContent = a.kindLabel ? a.kindLabel.zh : a.kind;
+      const b = badge(a);
+      kind.className = 'cardKind ' + b.cls;
+      kind.textContent = b.text;
       top.appendChild(kind);
       const status = document.createElement('span');
       status.className = 'cardStatus status-' + a.status;
@@ -694,6 +723,7 @@
       const bits = [];
       if (a.date) bits.push(a.date);
       if (a.cefr) bits.push(a.cefr);
+      if (a.dialog) bits.push(`🎭 ${a.dialog.speakers.length} 角色`);
       if (a.itemTotal) bits.push(`${a.itemTotal} 学习项`);
       meta.textContent = bits.join(' · ');
       card.appendChild(meta);
@@ -865,7 +895,7 @@
         `<button type="button" id="mobileBackBtn" class="mobileBack viewBtn">← 列表</button>` +
         backBtn +
         listenBtn +
-        `<span class="cardKind kind-${KIND_BADGE[a.kind] || 'other'}">${a.kindLabel ? a.kindLabel.zh : a.kind}</span>` +
+        `<span class="cardKind ${badge(a).cls}">${escapeHtml(badge(a).text)}</span>` +
         `<span class="cardStatus status-${a.status}">${a.statusLabel}</span>` +
         (a.cefr ? `<span class="viewCefr">${escapeHtml(a.cefr)}</span>` : '') +
         (a.date ? `<span class="viewDate">${escapeHtml(a.date)}</span>` : '') +
@@ -875,6 +905,7 @@
         `<button type="button" id="markReadBtn" class="viewBtn${read ? ' on' : ''}">${read ? '✓ 已读' : '标为已读'}</button>` +
       `</div>` +
       (countBits.length ? `<p class="viewCounts">📚 ${countBits.join(' · ')}</p>` : '') +
+      (TALA ? `<div id="practiceSlot" class="practiceSlot"></div>` : '') +
       `<div class="articleBody kind-${a.kind}">${mdToHtml(a.body || '')}</div>` +
       itemsHtml(a);
 
@@ -922,6 +953,15 @@
     mainEl.classList.add('viewing');
     viewEl.scrollTop = 0;
     if (isMobile()) window.scrollTo({ top: 0, behavior: 'auto' });
+
+    // Extension hook — Tala's practice panel (site/tala/tala.js) mounts here.
+    document.dispatchEvent(new CustomEvent('reading:open', {
+      detail: {
+        article: a,
+        slot: viewEl.querySelector('#practiceSlot'),
+        speechParts: () => (bodyEl ? articleSpeechParts(bodyEl) : []),
+      },
+    }));
   }
 
   // Return from the reading pane to the article list (mobile only — desktop shows both).
