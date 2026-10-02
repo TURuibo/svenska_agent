@@ -23,6 +23,7 @@
   var epSvtLink = document.getElementById('epSvtLink');
   var epNote = document.getElementById('epNote');
   var epReadLink = document.getElementById('epReadLink');
+  var epBackLink = document.getElementById('epBackLink');
   var updated = document.getElementById('listenUpdated');
 
   var state = {
@@ -54,11 +55,14 @@
       ul.appendChild(li);
       return;
     }
-    // Deep link from 📖 Läsning: #ep=<episode id> opens that episode directly.
-    var wantedId = (function () {
-      var m = (location.hash || '').match(/(?:^#|&)ep=([^&]+)/);
-      return m ? decodeURIComponent(m[1]) : '';
-    })();
+    // Deep link from 📖 Läsning / 📅 Dagbok: #ep=<episode id> opens that episode
+    // directly; Dagbok also adds &from=day-<date>&frompage=recap for a way back.
+    var hash = new URLSearchParams((location.hash || '').replace(/^#/, ''));
+    var wantedId = hash.get('ep') || '';
+    if (hash.get('frompage') === 'recap' && hash.get('from')) {
+      epBackLink.href = '../#' + encodeURIComponent(hash.get('from'));
+      epBackLink.hidden = false;
+    }
     var wantedIdx = wantedId ? DATA.episodes.findIndex(function (e) { return e.id === wantedId; }) : -1;
     if (wantedIdx < 0) { wantedIdx = 0; }
 

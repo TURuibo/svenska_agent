@@ -1,6 +1,6 @@
 # Swedish learning site (multi-page)
 
-Static, dependency-free site for the local Swedish markdown knowledge base. Five pages share one
+Static, dependency-free site for the local Swedish markdown knowledge base. Six pages share one
 palette (`styles.css`), one navigation component (`nav.js`), and a small set of **shared KB
 modules**:
 
@@ -27,8 +27,9 @@ https://turuibo.github.io/svenska_agent/
 
 | Page | Path | What it's for |
 |------|------|----------------|
-| **Dagbok** 📅 | `site/index.html` (`/`) | Home — learning diary: stats, heatmap, day-by-day timeline |
-| **Läsning** 📖 | `site/reading/` | Read scenarios / articles with toggleable 🇨🇳 translation |
+| **Dagbok** 📅 | `site/index.html` (`/`) | Home — slim daily index: what was read / listened / looked up each day, linking out |
+| **Läsning** 📖 | `site/reading/` | Read articles / news / drills with toggleable 🇨🇳 translation |
+| **Tala** 🗣️ | `site/tala/` | Speaking: the scenarios, with 🎭 dialog role-play and 🗣️ shadowing |
 | **Lyssna** 🎧 | `site/listening/` | SVT easy-Swedish listening with synced bilingual transcript |
 | **Former** 📐 | `site/forms/` | Word forms grouped by 词性 / date |
 | **Sök** 🔍 | `site/sok/` | Dictionary / full-text search tool (formerly the home page) |
@@ -36,7 +37,7 @@ https://turuibo.github.io/svenska_agent/
 ## Navigation (`nav.js`)
 
 Every page sets `<body data-site="…">` and loads `nav.js`, which injects one consistent nav so you
-can jump between **all five** pages from any page. On desktop it's a slim sticky **top bar**; on
+can jump between **all six** pages from any page. On desktop it's a slim sticky **top bar**; on
 phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted). Add a new
 destination once, in `nav.js`'s `DEST` list — never per page.
 
@@ -63,7 +64,7 @@ pages link in as `…/sok/#note=<slug>`, or open notes inline via the shared `KB
 
 ## Läsning (reading)
 
-`site/reading/` lists every scenario / news / article / adjsubst source and reads it with a
+`site/reading/` lists every news / article / adjsubst source (scenarios live in **Tala**, below) and reads it with a
 toggleable 🇨🇳 translation. Because the page is fully static (no backend, can't reach Claude Code),
 the toolbar offers an **in-page glossary** plus a "queue a command, paste it back into CC" bridge
 (persisted in `localStorage`, the toolbar button shows a count):
@@ -81,18 +82,47 @@ After running the command in CC and `/sync`-ing, the next site rebuild turns tho
 clickable KB vocab here. The 📥 want-to-learn queue stores the **tapped surface form** (`/learn`
 lemmatizes on import). See CLAUDE.md §4.2 for the full flow.
 
+## Tala (speaking)
+
+`site/tala/` is the 口语 page for every `scenario-*` text (moved out of Läsning on 2026-10-02). It is
+the **same engine** as Läsning — `tala/index.html` loads `../reading/reading.js` and
+`../reading/reading-data.js` with `<body data-site="tala">`, so the list, search, 已读 marker, glossary,
+🔍 查词 / 📥 想学 and 学习项 panel all behave identically — but it lists only scenarios, filters by
+sub-genre (💬 对话 / ✉️ 文本 / 📖 故事 = the article's `form`), and leaves a `#practiceSlot` above the
+text that `tala/tala.js` fills on the `reading:open` event:
+
+| Drill | For | How it works |
+|-------|-----|--------------|
+| 🎭 角色扮演 | dialogs (`a.dialog`) | Pick a role. The sv-SE voice reads the other speakers; on your lines it stops, blurs your Swedish and shows only the 中文 cue. Say it aloud, then 👀 看原文 / 🔊 听示范 / 🎙️ 录音对比 (MediaRecorder, in-memory only) → 继续. Tap any line to start from it; 🎧 只听全文 plays everything. |
+| 🗣️ 跟读 | every scenario | One sentence at a time: hear it, then a pause sized to the sentence (短/中/长) to repeat it; 🔁 单句循环, 🙈 盲跟 (text hidden while listening). |
+
+Speech rate (慢 0.7 / 中速 0.85 / 常速 1.0) and the toggles persist in `localStorage` (`tala.prefs.v1`).
+Speaker turns and their line-by-line 中文 are parsed at build time by `parseDialog()` in
+`tools/build-reading-site.js` (handles `**Emma:**`, `Receptionist (R):` → `R:`, `A (servitör):`, and
+dialog-pack 🇸🇪 / 🇨🇳 fenced blocks); the 中文 is attached only when both sides have the same number of
+turns. Old `reading/#article=scenario-…` links redirect to Tala (and vice versa), so Former / Lyssna /
+bookmarks keep working.
+
 ## Dagbok (home)
 
-The landing page focuses on **evening recap** rather than search: "what did I add today / yesterday
-/ this week?". Features:
+A slim **entry page**: "what did I practise on day X?" — one card per active day (newest first,
+grouped by month), each with up to five rows that link straight to where the material lives:
 
-- Stats strip (今天/昨天/本周/本月/总条目/连续天数 streak)
-- 12-week activity heatmap, clickable to jump to that day
-- Timeline grouped by day, with import batches (`sources/`) shown as cards containing their words /
-  phrases / sentences / grammar
-- Type filter (词 / 词组 / 句子 / 语法) and quick-jump buttons
-- Click any chip to open an inline peek panel with the full markdown rendered; "在查词站打开 →"
-  jumps into the Sök tool (`sok/#note=<slug>`).
+| Row | From | Links to |
+|-----|------|----------|
+| 📖 阅读 | `imported/` articles (date = import date) | `reading/#article=…&frompage=recap` (+ 🎧 when the article has audio) |
+| 🗣️ 口语 | `imported/scenario-*` (date = import date) | `tala/#article=…&frompage=recap` |
+| 🎧 听力 | `listening/*.json` episodes not already shown as an article's 🎧 | `listening/#ep=…&frompage=recap` |
+| 🔍 查词 | KB items created that day that no source / same-day article claims | `sok/#note=<slug>` per chip |
+| 📝 来源 | older `sources/` notes with no readable article | `sok/#note=source-…` |
+
+Long rows collapse to the first few entries behind "+N ▾"; days older than ~30 days sit behind
+"显示更早". The header shows one line: 🔥 streak · active days this week. Läsning and Lyssna both
+offer "← 返回 Dagbok" (so does Tala), which lands back on `#day-YYYY-MM-DD`. (Stats, heatmap, filters, the peek
+panel and flashcards were removed 2026-10-02.)
+
+The page loads only `site/dagbok-data.js` (~80 KB), built by `tools/build-dagbok-data.js` from the
+other three generated data files — run it **after** them (the Action does).
 
 The old `/recap/` URL now redirects here. Dark mode follows the OS setting on every page.
 
@@ -105,6 +135,8 @@ Regenerate the searchable data after adding or editing KB notes:
 
 ```bash
 node tools/build-kb-site.js
+# full local preview of every page (all gitignored):
+node tools/build-reading-site.js && node tools/build-listening-site.js && node tools/build-dagbok-data.js
 ```
 
 Publish the refreshed site to GitHub Pages:

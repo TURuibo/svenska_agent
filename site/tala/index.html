@@ -3,17 +3,20 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Läsning — Swedish Reading</title>
+    <title>Tala — 口语练习</title>
     <link rel="stylesheet" href="../styles.css?v=3" />
-    <link rel="stylesheet" href="reading.css?v=13" />
+    <link rel="stylesheet" href="../reading/reading.css?v=13" />
+    <link rel="stylesheet" href="tala.css?v=1" />
     <link rel="stylesheet" href="../kb-popover.css?v=4" />
   </head>
-  <body class="readingBody" data-site="reading">
+  <!-- Tala reuses the Läsning engine (../reading/reading.js): with data-site="tala"
+       it lists only the scenarios and leaves a #practiceSlot that tala.js fills. -->
+  <body class="readingBody talaBody" data-site="tala">
     <header class="readingHeader">
       <div class="readingHeaderInner">
         <div class="readingBrand">
           <p class="eyebrow">svensk_agent</p>
-          <h1>Läsning <span class="brandSub">文章 / 新闻阅读</span></h1>
+          <h1>Tala <span class="brandSub">口语 · 情景练习</span></h1>
           <p id="readingUpdated" class="updated">Loading…</p>
         </div>
       </div>
@@ -21,13 +24,13 @@
       <nav class="filterBar" aria-label="Filters">
         <span class="filterLabel">类型：</span>
         <button type="button" class="kindFilter active" data-kind="all">全部</button>
-        <button type="button" class="kindFilter" data-kind="news">新闻</button>
-        <button type="button" class="kindFilter" data-kind="article">文章</button>
-        <button type="button" class="kindFilter" data-kind="adjsubst">词形变化</button>
+        <button type="button" class="kindFilter" data-kind="dialog">💬 对话</button>
+        <button type="button" class="kindFilter" data-kind="text">✉️ 文本</button>
+        <button type="button" class="kindFilter" data-kind="story">📖 故事</button>
         <span class="filterDivider" aria-hidden="true"></span>
-        <button type="button" id="filterUnread" class="toggleBtn" title="只看未读">📖 未读</button>
+        <button type="button" id="filterUnread" class="toggleBtn" title="只看未练">📖 未读</button>
         <button type="button" id="toggleVocab" class="toggleBtn" title="高亮 KB 里有的瑞典语生词，点词查看释义">🔤 生词</button>
-        <button type="button" id="toggleLookup" class="toggleBtn" title="开启后可点正文里没链接、但其实 KB 已有的词，搜索并建立永久链接">🔍 查词</button>
+        <button type="button" id="toggleLookup" class="toggleBtn" title="开启后可点正文里没链接的词，在 KB 里查找">🔍 查词</button>
         <button type="button" id="openLearnQueue" class="toggleBtn" title="KB 里还没有的词，攒成一条 /learn 命令回 Claude Code 真正查词入库">📥 想学</button>
         <span class="filterDivider" aria-hidden="true"></span>
         <label class="readingSearch">
@@ -37,20 +40,23 @@
     </header>
 
     <main class="readingMain">
-      <section id="articleList" class="articleList" aria-label="Article list">
+      <section id="articleList" class="articleList" aria-label="Scenario list">
         <p class="listLoading">加载中…</p>
       </section>
-      <article id="articleView" class="articleView" aria-label="Reading pane">
-        <p class="viewEmpty">← 从左侧选择一篇阅读</p>
+      <article id="articleView" class="articleView" aria-label="Practice pane">
+        <p class="viewEmpty">← 从左侧选择一篇情景练习</p>
       </article>
     </main>
 
-    <script src="reading-data.js"></script>
+    <script src="../reading/reading-data.js"></script>
     <script src="../kb-index.js?v=4"></script>
     <script src="../kb-markdown.js?v=4"></script>
     <script src="../kb-store.js?v=5"></script>
     <script src="../speak.js?v=3"></script>
-    <script src="reading.js?v=16"></script>
+    <!-- tala.js first: it listens for reading.js's 'reading:open' event, which
+         fires as soon as reading.js opens the first scenario on load. -->
+    <script src="tala.js?v=1"></script>
+    <script src="../reading/reading.js?v=16"></script>
     <script src="../nav.js?v=3"></script>
   </body>
 </html>

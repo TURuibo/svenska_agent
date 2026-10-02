@@ -3,6 +3,11 @@
 // Swedish texts (scenarios, pasted articles, vocab drills), strips the
 // machine-only `svensk-export` block, and emits site/reading/reading-data.js.
 //
+// The same data file also feeds 🗣️ Tala (site/tala/, 口语): the scenarios are
+// shown there instead of in Läsning, each tagged with its sub-genre (`form`:
+// dialog / text / story) and, for dialogs, pre-parsed speaker turns (`dialog`)
+// for role-play.
+//
 // The two folders carry different meaning and are surfaced as a status badge:
 //   inbox/    → 待导入 (pending) — generated/pasted, not yet ingested into the KB
 //   imported/ → 已导入 (done)    — already processed through /import
@@ -140,6 +145,140 @@ function metaFromBody(body) {
 function dateFromName(name) {
   const m = name.match(/(\d{4}-\d{2}-\d{2})/);
   return m ? m[1] : '';
+}
+
+// Scenario sub-genre from the "**类型 (type):** dialog (…)" line: the first word
+// decides — dialog / dialog-pack → 'dialog', story → 'story', anything else
+// (mejl, sms, anslag, schema …) → 'text'. Drives the 🗣️ Tala page's filter pills.
+function scenarioForm(scenarioType) {
+  const head = String(scenarioType || '').trim().toLowerCase();
+  if (head.startsWith('dialog')) return 'dialog';
+  if (head.startsWith('story')) return 'story';
+  return 'text';
+}
+
+// ---------------------------------------------------------------------------
+// Dialog parser — turns a dialog scenario into speaker turns for the 🗣️ Tala
+// page (role-play: the learner takes one role, the sv-SE voice reads the rest).
+//
+// Scenario writers use several speaker spellings, all handled here:
+//   **Emma:** text   ·   Emma: text   ·   Receptionist (R): text → later "R: text"
+//   A (servitör): text → later "A: text"   ·   dialog-packs: "🇸🇪" + ``` fence of "K: text"
+// The 🇨🇳 translation repeats the same turns in order (**艾玛：** / R：/ B（Lisa）：),
+// so each Swedish turn gets its Chinese line by position — only when both sides
+// have exactly the same number of turns (otherwise the zh hints are left out
+// rather than risk pairing a line with the wrong translation).
+// ---------------------------------------------------------------------------
+
+const SV_TURN = /^(?:\*\*)?([A-ZÅÄÖ][A-Za-zÅÄÖåäöÉé.\- ]{0,23}?)(?:\s*\(([^)]{1,30})\))?\s*(?:\*\*\s*:|:\s*\*\*|:)\s*(.+)$/;
+const ZH_TURN = /^(?:\*\*)?([^\s:：*#>|\-][^:：\n]{0,30}?)\s*(?:\*\*\s*[:：]|[:：]\s*\*\*|[:：])\s*(.+)$/;
+const ITALIC_LINE = /^\*[^*].*\*$|^_[^_].*_$/;
+
+function cleanTurnText(s) {
+  return String(s || '').replace(/\*\*/g, '').replace(/\s+/g, ' ').trim();
+}
+
+function zoneForHeading(text) {
+  if (/翻译|译文|中文|🇨🇳/.test(text)) return 'zh';
+  if (/瑞典语|原文|svenska|🇸🇪|dialog/i.test(text)) return 'sv';
+  return null;
+}
+
+function parseDialog(body) {
+  const lines = body.split(/\r?\n/);
+  const svTurns = [];   // { kind: 'line'|'stage'|'scene', name, code, sv }
+  const zhTurns = [];   // zh speaker lines, in order
+  const zhStages = [];  // zh italic stage directions, in order
+  let zone = null;            // 'sv' | 'zh' | null (from ## headings)
+  let fenceZone = null;       // zone set by a lone 🇸🇪 / 🇨🇳 marker → applies to the next fence only
+  let inFence = false;
+  let pendingScene = '';
+
+  for (const raw of lines) {
+    const line = raw.trim();
+    if (/^```/.test(line)) {
+      if (!inFence) { inFence = true; continue; }
+      inFence = false; fenceZone = null; continue;
+    }
+    const z = inFence ? (fenceZone || zone) : zone;
+    if (!inFence) {
+      const h = line.match(/^(#{2,3})\s+(.+)$/);
+      if (h) {
+        if (h[1] === '##') { zone = zoneForHeading(h[2]); fenceZone = null; continue; }
+        // ### inside the Swedish zone, or a top-level ### (dialog-packs) → scene title
+        if (zone !== 'zh') pendingScene = cleanTurnText(h[2]);
+        continue;
+      }
+      if (/^🇸🇪\s*$/.test(line)) { fenceZone = 'sv'; continue; }
+      if (/^🇨🇳\s*$/.test(line)) { fenceZone = 'zh'; continue; }
+      if (/^#/.test(line)) continue;
+      // A fence marker only covers its fenced block; prose outside fences in a
+      // dialog-pack (Setting:, 📌 notes) belongs to no zone.
+      if (fenceZone) continue;
+    }
+    if (!line || /^(---|\*\*\*|___)$/.test(line)) continue;
+
+    if (z === 'sv') {
+      if (ITALIC_LINE.test(line)) {
+        svTurns.push({ kind: 'stage', sv: cleanTurnText(line.replace(/^[*_]|[*_]$/g, '')) });
+        continue;
+      }
+      const m = line.match(SV_TURN);
+      if (!m || m[1].trim().split(/\s+/).length > 3) continue;
+      if (pendingScene) { svTurns.push({ kind: 'scene', sv: pendingScene }); pendingScene = ''; }
+      svTurns.push({ kind: 'line', name: m[1].trim(), paren: (m[2] || '').trim(), sv: cleanTurnText(m[3]) });
+    } else if (z === 'zh') {
+      if (ITALIC_LINE.test(line)) { zhStages.push(cleanTurnText(line.replace(/^[*_]|[*_]$/g, ''))); continue; }
+      const m = line.match(ZH_TURN);
+      if (!m || /[，。！？、]/.test(m[1])) continue;
+      zhTurns.push(cleanTurnText(m[2]));
+    }
+  }
+
+  // ---- speakers: one canonical key per person ----
+  // "Receptionist (R)" → key R (later lines just say "R:"); "A (servitör)" → key A
+  // labelled servitör; a plain "Emma" is its own key.
+  const CODE = /^[A-ZÅÄÖ]{1,3}$/;
+  const labels = new Map();   // key → display label
+  const order = [];
+  for (const t of svTurns) {
+    if (t.kind !== 'line') continue;
+    let key = t.name;
+    let label = t.name;
+    if (t.paren && CODE.test(t.paren)) { key = t.paren; label = t.name; }
+    else if (t.paren && CODE.test(t.name)) { key = t.name; label = t.paren; }
+    t.speaker = key;
+    if (!labels.has(key)) { labels.set(key, label); order.push(key); }
+    else if (labels.get(key) === key && label !== key) labels.set(key, label);
+  }
+  const counts = new Map();
+  for (const t of svTurns) if (t.kind === 'line') counts.set(t.speaker, (counts.get(t.speaker) || 0) + 1);
+  // A role-play needs a real exchange: ≥2 people who each speak at least twice.
+  const actors = order.filter((k) => counts.get(k) >= 2);
+  const lineCount = svTurns.filter((t) => t.kind === 'line').length;
+  if (actors.length < 2 || lineCount < 4) return null;
+
+  const zhOk = zhTurns.length === lineCount;
+  const stageOk = zhStages.length === svTurns.filter((t) => t.kind === 'stage').length;
+  let li = 0, si = 0;
+  const turns = svTurns.map((t) => {
+    if (t.kind === 'line') {
+      const zh = zhOk ? zhTurns[li] : '';
+      li += 1;
+      return { s: t.speaker, sv: t.sv, zh };
+    }
+    if (t.kind === 'stage') {
+      const zh = stageOk ? zhStages[si] : '';
+      si += 1;
+      return { stage: true, sv: t.sv, zh };
+    }
+    return { scene: true, sv: t.sv };
+  });
+  return {
+    speakers: order.map((k) => ({ key: k, label: labels.get(k), lines: counts.get(k) })),
+    turns,
+    zhAligned: zhOk,
+  };
 }
 
 // ---------------------------------------------------------------------------
@@ -319,6 +458,10 @@ for (const src of SOURCES) {
     const { body, counts, items } = stripExportBlocks(afterFm);
     const bodyMeta = metaFromBody(afterFm);
     const kind = kindFromName(entry.name);
+    // Scenarios live on the 🗣️ Tala page: tag the sub-genre (dialog/text/story)
+    // and pre-parse speaker turns so the page can offer role-play.
+    const form = kind === 'scenario' ? scenarioForm(bodyMeta.scenarioType) : '';
+    const dialog = kind === 'scenario' ? parseDialog(body) : null;
 
     articles.push({
       slug,
@@ -333,6 +476,8 @@ for (const src of SOURCES) {
       cefr: bodyMeta.cefr || frontmatter.cefr || '',
       date: bodyMeta.date || frontmatter.date || dateFromName(entry.name),
       theme: frontmatter.theme || bodyMeta.scenarioType || '',
+      form,
+      dialog,
       source: frontmatter.source || '',
       path: path.relative(repoRoot, filePath).split(path.sep).join('/'),
       counts,
@@ -358,5 +503,6 @@ const byStatus = articles.reduce((acc, a) => ((acc[a.status] = (acc[a.status] ||
 console.log(
   `Generated ${path.relative(repoRoot, dataPath)} — ${articles.length} articles ` +
     `(待导入 ${byStatus.pending || 0}, 已导入 ${byStatus.imported || 0}), ${vocab.length} vocab notes, ` +
-    `${articles.filter((a) => a.listening).length} with audio.`
+    `${articles.filter((a) => a.listening).length} with audio, ` +
+    `${articles.filter((a) => a.dialog).length} role-play dialogs.`
 );

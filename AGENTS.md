@@ -182,11 +182,21 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 > **adjsubst 同理**（也纯生成、不联网）：另建一条云端 routine，把上面 prompt 里的 `/dagens-scenario` 换成 `/adjsubst`、
 > `scenario-*.md` 换成 `adjsubst-*.md` 即可（`/adjsubst` 裸调时自己按 `day-of-year mod 10` 轮换 10 主题）。同样记得把本地 adjsubst 任务停用。
 
-**阅读已生成的情景 (Läsning reading site):** `/import` 把 inbox 文件的学习项拆进 KB 后，会把那份**可读正文**
+**阅读已生成的情景 (Läsning / Tala):** `/import` 把 inbox 文件的学习项拆进 KB 后，会把那份**可读正文**
 （🇸🇪 原文 + 🇨🇳 翻译 + 教学备注）归档到 repo 根的 **`imported/`**（tracked）。`tools/build-reading-site.js`
 扫描 `inbox/`(待导入) + `imported/`(已导入) 生成 `site/reading/reading-data.js`，于是所有情景/文章都能在
 **Läsning 阅读站**（`site/reading/`，主站侧栏 📖 入口）当文章阅读，可切换中文翻译显隐。导入后务必重建该数据
 （`node tools/build-reading-site.js`，已接入 `/import`、`/sync`、GitHub Action）。
+
+> 🗣️ **情景练习在 Tala 口语站（2026-10-02 起）。** `scenario-*` 不再列在 Läsning，而是单独进
+> **Tala 口语站**（`site/tala/`，导航 🗣️ 入口；Läsning 只剩文章/新闻/词形变化）。Tala 复用阅读站引擎
+> （`reading/reading.js` + 同一份 `reading-data.js`，生词点查 / 查词 / 想学 / 学习项全部照旧），另加
+> `site/tala/tala.js` 口语练习面板：**🎭 角色扮演**（对话类：选一个角色，其他人由 sv-SE 语音朗读，轮到你时
+> 只给中文提示 → 自己说 → 看原文 / 听示范 / 🎙️ 录音对比）和 **🗣️ 跟读**（所有情景：逐句听 → 停顿跟读，
+> 可调语速/停顿、单句循环、盲跟）。说话人与逐句中文由 `build-reading-site.js` 的 `parseDialog()` 从
+> `**Emma:**` / `Receptionist (R):` / dialog-pack 的 🇸🇪 代码块等写法解析（`form` = dialog/text/story）；
+> 生成情景时保持「一行一句台词、`说话人: 台词`、🇨🇳 译文同序同行数」，就能自动支持角色扮演。
+> 旧的 `reading/#article=scenario-…` 链接会自动跳到 Tala。
 
 > 🎧 **阅读 ↔ 听力互跳**：`listening/<slug>.json` 里写一个 `readingSlug: "<imported/ 里文章的文件名（不含 .md）>"`，
 > 就把一集听力和一篇文章绑在一起：阅读站文章头部出现「🎧 听这篇」，听力站该集出现「📖 读这篇原文」。
@@ -278,7 +288,7 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
   routine prompt = 「跑 `scripts/daily-news.ps1` 然后读 `scripts/news-run.log` 末尾报告」。管理同其它 routine：
   `list_scheduled_tasks` / `update_scheduled_task` / 侧栏「Scheduled」。**只在 Claude 桌面应用开着时准点跑**，关着下次启动补跑。
 
-所以新闻和 scenario/adjsubst 一样**全自动入库**，打开 📖 Läsning / 🎧 Lyssna 直接读/听即可。
+所以新闻和 scenario/adjsubst 一样**全自动入库**，打开 📖 Läsning / 🗣️ Tala / 🎧 Lyssna 直接读/练/听即可。
 
 **云端版 (remote, 推荐用它替代本地)：** news 这条**联网类** routine 同样可以放到 Claude Code on the web 的定时 session
 （和 §4.6 阅读文章同一模式），桌面关着也能每天跑。环境需**允许出站访问**（抓 8 Sidor）。routine prompt：
@@ -388,12 +398,12 @@ A1–A2 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 
 **⭐ 2026-06-23 架构改：生成的 viewer 数据文件已移出 git。**
 `site/kb-index.js`、`site/kb-bodies.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js`
-现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
+（以及 2026-10-02 起 Dagbok 首页用的 `site/dagbok-data.js`，由 `tools/build-dagbok-data.js` 从前三者汇总）现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
 main**。所以以前「Action 提交 viewer 文件 → 和 routine 抢 → 每次 merge 必冲突」的根源**没了**：routine **绝不碰
 这几个文件**，PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数据文件、⑥force-push 对齐分支）。
 
 > 🔎 **2026-06-24 性能重构：`kb-data.js`（8.9 MB 单块）已拆成 `kb-index.js`（轻量、即时加载）+ `kb-bodies.js`
-> （正文，按需懒加载）。** 所有站点（Sök / Former / Dagbok / Läsning / Lyssna）改用共享模块
+> （正文，按需懒加载）。** 所有站点（Sök / Former / Dagbok / Läsning / Tala / Lyssna）改用共享模块
 > `site/kb-store.js`（数据 + 搜索 + `KB.openNote` 笔记弹窗）与 `site/kb-markdown.js`（统一 Markdown 渲染）；
 > Sök 重做成命令面板式纯搜索页。这些是源文件（tracked），随源码提交。
 

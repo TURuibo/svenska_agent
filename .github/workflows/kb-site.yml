@@ -11,6 +11,7 @@ on:
       - 'tools/build-kb-site.js'
       - 'tools/build-reading-site.js'
       - 'tools/build-listening-site.js'
+      - 'tools/build-dagbok-data.js'
       - '.github/workflows/kb-site.yml'
   workflow_dispatch:
 
@@ -40,15 +41,17 @@ jobs:
         with:
           fetch-depth: 0
 
-      # The viewer data files (kb-data.js, reading-data.js, listening-data.js)
+      # The viewer data files (kb-index/kb-bodies.js, reading-data.js, listening-data.js, dagbok-data.js)
       # are .gitignore'd on main and exist ONLY here — regenerated fresh on every
       # publish. They are never committed back to main, so routines never fight
       # the CI over them (eliminates the old "Update KB viewer data" churn).
-      - name: Regenerate viewer data (KB + Läsning + Lyssna)
+      - name: Regenerate viewer data (KB + Läsning + Lyssna + Dagbok)
         run: |
           node tools/build-kb-site.js
           node tools/build-reading-site.js
           node tools/build-listening-site.js
+          # Dagbok's day index is built FROM the three outputs above — keep it last.
+          node tools/build-dagbok-data.js
 
       - name: Publish site folder to gh-pages
         run: |
@@ -57,7 +60,7 @@ jobs:
           # Force-add the gitignored data files into an EPHEMERAL commit used only
           # to build the gh-pages tree. This commit lives and dies on the runner —
           # it is never pushed to main (we only push the subtree split to gh-pages).
-          git add -f site/kb-index.js site/kb-bodies.js site/reading/reading-data.js site/listening/listening-data.js
+          git add -f site/kb-index.js site/kb-bodies.js site/reading/reading-data.js site/listening/listening-data.js site/dagbok-data.js
           git commit -q -m "ci: ephemeral build data for gh-pages" || echo "no data changes to stage"
           sha=$(git subtree split --prefix site HEAD)
           git push origin "$sha:refs/heads/gh-pages" --force
