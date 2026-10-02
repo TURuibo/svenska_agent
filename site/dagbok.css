@@ -289,3 +289,74 @@
     gap: 3px;
   }
 }
+
+/* ---------- 📊 词汇进度 card (vocab-card.js) ---------- */
+.dgProgress {
+  max-width: 880px;
+  margin: 10px auto 4px;
+  padding: 0 24px;
+  font-family: var(--cjk);
+}
+.dgProgress[hidden] { display: none; }
+.dgProgress > * { box-sizing: border-box; }
+.vpHead, .vpGrid, .vpLinks {
+  background: var(--panel);
+  border-left: 1px solid var(--line);
+  border-right: 1px solid var(--line);
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.vpHead {
+  border-top: 1px solid var(--line);
+  border-radius: 12px 12px 0 0;
+  padding-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 10px;
+}
+.vpHead h2 { margin: 0; font-size: 16px; }
+.vpSub { font-size: 12px; color: var(--muted); }
+.vpGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: 16px;
+  padding-top: 10px;
+}
+.vpRow { display: grid; grid-template-columns: 84px 1fr 70px; align-items: center; gap: 8px; margin: 4px 0; font-size: 13px; }
+.vpLabel { color: var(--muted); }
+.vpTrack { position: relative; height: 10px; background: var(--panel-soft); border-radius: 6px; overflow: hidden; }
+.vpFill { position: absolute; left: 0; top: 0; bottom: 0; background: var(--green); border-radius: 6px; }
+.vpBase { position: absolute; top: -2px; bottom: -2px; width: 2px; background: var(--muted); opacity: 0.7; }
+.vpNum { font-variant-numeric: tabular-nums; text-align: right; }
+.vpNum em, .vpLine em { font-style: normal; color: var(--green); font-size: 12px; }
+.vpLine { margin: 8px 0 0; font-size: 13px; }
+.vpThemesHead { margin: 0 0 6px; font-size: 12px; color: var(--muted); }
+.vpTheme {
+  display: inline-block;
+  margin: 0 6px 6px 0;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: rgba(169, 120, 42, 0.12);
+  font-size: 13px;
+}
+.vpTheme b { color: var(--gold); }
+.vpLinks {
+  border-bottom: 1px solid var(--line);
+  border-radius: 0 0 12px 12px;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  font-size: 13px;
+}
+.vpLinks a { color: var(--blue); text-decoration: none; }
+.vpLinks a:hover { text-decoration: underline; }
+
+@media (max-width: 760px) {
+  .dgProgress { padding: 0 16px; }
+  .vpGrid { grid-template-columns: 1fr; gap: 8px; }
+  .vpRow { grid-template-columns: 76px 1fr 64px; }
+}

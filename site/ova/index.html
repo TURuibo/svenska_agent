@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Öva — 词汇复习 · svensk_agent</title>
+    <link rel="stylesheet" href="../styles.css?v=3" />
+    <link rel="stylesheet" href="../kb-popover.css?v=4" />
+    <link rel="stylesheet" href="ova.css?v=1" />
+  </head>
+  <body class="ovaBody" data-site="ova">
+    <header class="ovaHeader">
+      <p class="eyebrow">svensk_agent</p>
+      <h1>Öva <span class="brandSub">词汇复习 · 选择题</span></h1>
+      <p id="ovaSummary" class="ovaSummary">加载中…</p>
+      <nav class="ovaDecks" aria-label="复习范围">
+        <button type="button" class="deckBtn" data-deck="focus">🎯 补弱项</button>
+        <button type="button" class="deckBtn" data-deck="recent">🆕 最近新词</button>
+        <button type="button" class="deckBtn" data-deck="all">📚 全部</button>
+        <label class="deckLevel">
+          <span>级别</span>
+          <select id="ovaLevel">
+            <option value="all">全部</option>
+            <option value="A1">A1</option>
+            <option value="A2">A2</option>
+            <option value="B1">B1</option>
+            <option value="B2">B2+</option>
+          </select>
+        </label>
+      </nav>
+    </header>
+
+    <main class="ovaMain">
+      <section id="ovaCard" class="ovaCard" aria-live="polite">
+        <p class="ovaEmpty">加载中…</p>
+      </section>
+      <aside class="ovaSide">
+        <div class="ovaStats" id="ovaStats"></div>
+        <div class="ovaExport">
+          <p class="ovaExportText">复习进度存在这台设备的浏览器里。想把成绩写回词库（词条的复习字段），复制下面的结果，粘贴到 CC 运行 <code>/ova</code>。</p>
+          <button type="button" id="ovaCopy" class="ovaBtn">📋 复制结果给 CC</button>
+          <p id="ovaPending" class="ovaPending"></p>
+        </div>
+        <details class="ovaHelp">
+          <summary>怎么复习</summary>
+          <ul>
+            <li>新词先出「看瑞典语选中文」，答对几次后升到「看中文选瑞典语」，再到「句子选词」。</li>
+            <li>答对，下次复习的间隔变长（1 → 2 → 4 → 7 → 14 → 30 天）；答错，回到第一级，这一轮里再考一次。</li>
+            <li>快捷键：<kbd>1</kbd>–<kbd>4</kbd> 选答案，<kbd>Enter</kbd> / <kbd>空格</kbd> 下一题。</li>
+          </ul>
+        </details>
+      </aside>
+    </main>
+
+    <script src="../kb-index.js?v=4"></script>
+    <script src="../kb-markdown.js?v=4"></script>
+    <script src="../kb-store.js?v=5"></script>
+    <script src="../vocab-progress.js"></script>
+    <script src="../speak.js?v=3"></script>
+    <script src="ova.js?v=1"></script>
+    <script src="../nav.js?v=4"></script>
+  </body>
+</html>

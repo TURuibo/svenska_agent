@@ -1,14 +1,16 @@
 ---
-description: 生成今日情景练习（对话/功能文本/小故事）到 inbox/（一周一轮、每天 5 篇，按 day-of-year 轮换 35 个国家考试体裁，含人读正文 + svensk-export 导入块）
-argument-hint: "[YYYY-MM-DD] [index 0-34]  —— 均可选；不带 index = 生成当天一整批(5 篇)，带 index = 只生成那一篇"
-allowed-tools: Read, Write, Edit, Glob, Grep
+description: 生成今日情景练习到 inbox/：每天 5 篇 = 3 篇常规情景（按 day-of-year 轮换 35 个国家考试体裁）+ 2 篇 🎯 补弱项（B1，带目标词），含人读正文 + svensk-export 导入块
+argument-hint: "[YYYY-MM-DD] [index 0-34]  —— 均可选；不带 index = 生成当天一整批(3 常规 + 2 补弱项)，带 index = 只生成那一篇常规情景"
+allowed-tools: Read, Write, Edit, Glob, Grep, Bash(node tools/vocab-progress.js:*)
 ---
 
 生成**今日的情景练习**（对话 / 功能性文本 / 小故事），写入 `inbox/`。无需审阅、不碰 `knowledge_base/`、不自动 `/import`。
-**节奏：一周一轮——每天生成 5 篇，7 天覆盖全部 35 个体裁一次。**
+**节奏：每天 5 篇 = 3 篇常规情景（35 个体裁轮换）+ 2 篇 🎯 补弱项（sv-scenario 技能 §2d）。**
+（2026-10-02 起：词汇分析发现库里的词偏向日常生活，抽象 / 论证、社会、工作类词严重不足，所以每天拿出 2 个名额专门补这些词。）
 
 参数 `$ARGUMENTS`：可含一个日期 `YYYY-MM-DD` 和一个可选 `0-34` 的主题号（顺序不限）。
-**不带主题号 = 批量模式（生成当天 5 篇）；带主题号 = 单篇模式（只生成那一篇）。** 自动运行时无需 Bash。
+**不带主题号 = 批量模式（生成当天 3 + 2 篇）；带主题号 = 单篇模式（只生成那一篇常规情景）。**
+批量模式要用 Bash 跑一次 `node tools/vocab-progress.js --pick`（只读、离线，用来取补弱项的目标词）。
 
 ---
 
@@ -20,8 +22,10 @@ allowed-tools: Read, Write, Edit, Glob, Grep
 **跨难度、跨 type**（每天都有易有难、有 dialog/story/text），不会"一天全简单、一天全论说"。
 
 - 若 `$ARGUMENTS` 含 `YYYY-MM-DD` → 用它做 DATE；否则用**今天**（会话上下文里的当前日期）。
-- **不带主题号（裸调 / 定时任务）= 批量模式**：算 `OFFSET = day-of-year(DATE) mod 7`，生成今天 5 篇
-  （上面那 5 个 index）。**逐篇完整生成**：先把第 1 篇整文件写完(Write)，再做第 2 篇……每篇质量独立，别 5 篇糊一起。
+- **不带主题号（裸调 / 定时任务）= 批量模式**：算 `OFFSET = day-of-year(DATE) mod 7`，得到当天 5 个候选 index
+  （上面那 5 个，从小到大排）。**只做其中 3 篇常规情景**：令 `W = floor(day-of-year / 7) mod 5`，取候选列表里
+  第 `W`、`W+1`、`W+2` 个（下标 mod 5）。这样每周换一组 3 个，5 周内每个体裁都会轮到，难度照样是混的。
+  另外 2 篇做 🎯 补弱项（见 §1b）。**逐篇完整生成**：先把第 1 篇整文件写完(Write)，再做第 2 篇……每篇质量独立，别糊在一起。
 - 含一个 0–34 的主题号 = **单篇模式**：只生成那一个 index（手动指定体裁 / 补漏 / 逐篇调用时用）。
 
 **主题表（一周一轮；当天取 `index mod 7 == day-of-year mod 7` 的 5 行）—— 35 个主题，覆盖 SFI /
@@ -67,6 +71,18 @@ Svenska som andraspråk 的**国家考试 (Nationella prov)** 体裁：**日常�
 | 33 | text | Schema och öppettider: veckoprogram och tidtabell | schema-oppettider-tidtabell | 日程与时刻表 | A2 |
 | 34 | text | Debattinlägg: sociala medier och ungas hälsa | debattinlagg-sociala-medier | 辩论帖：社交媒体与年轻人健康 | A2–B1 |
 
+## 1b. 🎯 补弱项 2 篇 (fokus — gap texts)
+
+按 **sv-scenario 技能 §2d** 生成 2 篇，主题不同：
+1. `node tools/vocab-progress.js --pick auto 12` → 第 1 篇的主题 `A` 和 12 个目标词。
+2. `node tools/vocab-progress.js --pick auto 12 --exclude <A>` → 第 2 篇的主题 `B` 和目标词。
+3. 每篇的体裁从 §2d 表里该主题的「推荐体裁」中选：按 `day-of-year mod (推荐体裁个数)` 轮换；
+   若 `inbox/` 或 `imported/` 里已有同主题同体裁的 `fokus` 文件，就换一个体裁或换个具体话题。
+4. B1、150–250 词（对话 10–14 轮）、每个目标词至少用一次并**加粗**、元信息加 `**题材:** / **主题:** / **目标词:**`、
+   导出块每个目标词一行 —— 全部照 §2d。
+5. 文件名 `inbox/scenario-<DATE>-fokus-<slug>.md`（slug = 体裁 + 话题，例如 `fokus-insandare-skarmtid`）。
+   以 `scenario-<DATE>-` 开头，所以 routine 的逐篇 `/import` 会照常导入；`fokus-` 让它出现在 📖 Läsning。
+
 ## 2. 读档案 + 查重 (Profile & light dedup)
 
 - `Read` → `profile/level.md`：把已掌握（known）词尽量融入作复习，再引入约 **5–10 个新词/词组**。
@@ -75,7 +91,7 @@ Svenska som andraspråk 的**国家考试 (Nationella prov)** 体裁：**日常�
 
 ## 3. 生成情景 (Generate — 遵循 sv-scenario 技能)
 
-**批量模式：对今天选出的每个 index 依次完整跑一遍 §3+§4（生成→写文件），写完一篇再做下一篇。**
+**批量模式：对今天选出的 3 个 index 依次完整跑一遍 §3+§4（生成→写文件），写完一篇再做下一篇；然后做 §1b 的 2 篇补弱项。**
 每篇都严格按 **`sv-scenario` 技能的 §2 体裁目录与篇幅、§3 水平规则、§4 输出契约**生成：
 - 用本主题指定的 `type`（dialog 6–12 轮 / text 80–150 词 / story 80–150 词）。
 - **按体裁选语域**（SKILL §2c）：论说/正式体裁（insändare、debattinlägg、formellt brev、felanmälan、
@@ -88,7 +104,7 @@ Svenska som andraspråk 的**国家考试 (Nationella prov)** 体裁：**日常�
 
 ## 4. 写文件 (Write the inbox page)
 
-每篇写入 `inbox/scenario-<DATE>-<slug>.md`（批量模式 = 今天 5 个文件，各用各自的 slug），**结构完全照搬 `sv-scenario` 技能 §4a + §4b**：
+每篇写入 `inbox/scenario-<DATE>-<slug>.md`（批量模式 = 3 个常规 + 2 个 `scenario-<DATE>-fokus-<slug>.md`，共 5 个文件），**结构完全照搬 `sv-scenario` 技能 §4a + §4b**（补弱项另加 §2d 的元信息行）：
 
 1. **可读情景**（§4a）：`# 🇸🇪 标题`、类型/CEFR/日期元信息、`## 瑞典语原文`、`## 🇨🇳 全文翻译`、`## 📌 教学备注`（2–4 条）。
 2. 紧接一个 fenced ` ```svensk-export v1 ` 块（§4b）：`date` / `source: scenario — <主题>` / `words` / `phrases` / `sentences` / `grammar`。
@@ -100,10 +116,12 @@ Svenska som andraspråk 的**国家考试 (Nationella prov)** 体裁：**日常�
 **批量模式**：5 篇全部写完后，输出一段汇总（headless 包装脚本据此发系统通知）：
 
 ```
-✅ 今日情景已生成 5 篇 (offset=<OFFSET>):
+✅ 今日情景已生成 5 篇 (offset=<OFFSET>, week-slot=<W>):
    - inbox/scenario-<DATE>-<slug1>.md · <type> · <CEFR>
    - inbox/scenario-<DATE>-<slug2>.md · <type> · <CEFR>
-   - …（共 5 篇）
+   - inbox/scenario-<DATE>-<slug3>.md · <type> · <CEFR>
+   - 🎯 inbox/scenario-<DATE>-fokus-<slug4>.md · <主题> · 目标词 <used>/<given>
+   - 🎯 inbox/scenario-<DATE>-fokus-<slug5>.md · <主题> · 目标词 <used>/<given>
 ⏭ 录入：对每个文件跑 /import scenario-<DATE>-<slug>.md（或 routine 会自动逐篇 import）
 ```
 

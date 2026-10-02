@@ -20,6 +20,11 @@ You will receive:
 - **level** — an optional CEFR hint (e.g. `A2`, `B1`); may be empty — if empty, use the register the scenario naturally requires (sv-scenario SKILL §3a)
 - **inbox_path** — absolute path to write the output file (e.g. `C:\...\inbox\scenario-2026-06-03-fraga-efter-vagen.md`)
 - **date** — the generation date in absolute `YYYY-MM-DD` format
+- **targets** *(optional — 🎯 fokus / gap mode)* — the JSON printed by
+  `node tools/vocab-progress.js --pick …`: `{theme, icon, zh, words:[{w, zh, p, level}]}`.
+  When present, follow **sv-scenario SKILL §2d** on top of everything below: B1 level, longer text,
+  every target word used naturally at least once and **bolded** in the Swedish text, the extra
+  `**题材:** / **主题:** / **目标词:**` metadata lines, and one export line per target word.
 
 ## Steps
 
@@ -60,6 +65,10 @@ and only put complete instruction sentences in `sentences:`.
 Write a natural, idiomatic Swedish text appropriate for the scenario's register (sv-scenario SKILL §3a).
 - Dialog: 6–12 turns, speaker labels `A:` / `B:` (add `C:` if a third speaker is natural).
 - Text / story: 80–150 words.
+- 🎯 **fokus mode** (targets given): B1, text/story 150–250 words or dialog 10–14 turns; work every
+  target word in naturally (inflected forms are fine) and wrap each occurrence in `**…**`. Drop at most
+  2 targets that cannot fit naturally, and say which in a teaching note. Pick the genre from SKILL §2d
+  for the theme unless the topic names one.
 - Include a reasonable mix of reinforcement words (from profile/known) and new words.
 - Do NOT simplify grammar unnaturally — use the Swedish structures the scenario realistically calls for.
 
@@ -105,6 +114,8 @@ Apply grundform and slug rules from `sv-knowledge-base` SKILL §2.
 
 Write exactly ONE file to `inbox_path`. The file must contain (in order):
 1. The human-readable scenario (title, type, CEFR, Swedish text, Chinese translation, teaching notes).
+   In fokus mode add, right after the date line: `**题材:** <论述|书信|说明文|新闻|对话|故事> (<genre>)`,
+   `**主题:** <theme> <icon> <zh>`, `**目标词:** <w1>, <w2>, …` (the targets you actually used).
 2. A fenced ` ```svensk-export v1 ` block with all extracted items.
 
 Follow the layout template in sv-scenario SKILL §4c exactly.
@@ -121,5 +132,6 @@ Return ONLY this manifest to the main agent — do NOT paste the full scenario t
   类型: dialog / text / story
   CEFR: <estimate>
   提取: words=[n]  phrases=[n]  sentences=[n]  grammar=[n]
+  🎯 目标词: <used>/<given>（fokus 模式才写；列出没用上的词）
   📁 inbox: <inbox_path>
 ```

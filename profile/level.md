@@ -6,6 +6,7 @@
 ## 当前评估 (Current estimate)
 
 - **总体水平 (CEFR/SFI band):** 尚未评估 — 运行 `/assess` 开始
+  （等级标尺：`.claude/skills/sv-assess/levels.md` — SFI A–D → Grund SVA 1–4 → Gy SVA nivå 1–3）
 - **评估日期:** —
 - 词汇广度 (vocab): —
 - 语法掌控 (grammar): —

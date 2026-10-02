@@ -1,7 +1,7 @@
 ---
 description: Generate a Swedish practice scenario (dialogue/text/narrative) into inbox/ for review then /import
-argument-hint: "[dialog|text|story] [A1|A2|B1] <场景描述, e.g. 问路 / asking for directions>  —— 默认 A1–A2，避免 B2"
-allowed-tools: Read, Glob, Agent(sv-scenario-writer)
+argument-hint: "[fokus [T17|auto]] [dialog|text|story] [A1|A2|B1] <场景描述, e.g. 问路 / insändare om skärmtid>  —— 默认 A1–A2，避免 B2；fokus = 🎯 补弱项（B1，带 10–15 个目标词）"
+allowed-tools: Read, Glob, Bash(node tools/vocab-progress.js:*), Agent(sv-scenario-writer)
 ---
 
 Generate a Swedish practice scenario for: **$ARGUMENTS**
@@ -18,7 +18,17 @@ Scan the argument string for optional leading tokens, then treat the remainder a
 **Level token** (optional, case-insensitive, may come before or after the type token):
 - Any token matching `A1`, `A2`, `B1` → pass as a CEFR hint to the generator. Default is A1–A2; B2+ levels are avoided.
 
-**Scenario topic** — everything remaining after removing the type/level tokens. May be Chinese or English.
+**🎯 fokus token** (optional, case-insensitive; `gap` / `--gap` / `补弱项` also accepted) → **gap mode**
+(sv-scenario SKILL §2d). It may be followed by a theme code `T01`–`T21` (e.g. `T17`) or `auto`; default `auto`.
+Then run, from the repo root:
+```
+node tools/vocab-progress.js --pick <theme|auto> 12
+```
+Keep its JSON output as **targets** (theme + 12 unlearned gap words). If it returns no words (theme done),
+re-run with `auto`. In gap mode the level is B1 unless the user gave one, and the topic may be empty —
+the writer then picks a genre for the theme from SKILL §2d.
+
+**Scenario topic** — everything remaining after removing the fokus/type/level tokens. May be Chinese or English.
 If type and/or level are absent, pass `auto` / empty string respectively — the `sv-scenario-writer`
 subagent will decide based on the topic and the learner's profile.
 
@@ -27,6 +37,9 @@ Examples of how to parse:
 - `/scenario dialog B1 beställa mat på restaurang` → type=dialog, level=B1, topic="beställa mat på restaurang"
 - `/scenario text hyresavi från hyresvärden` → type=text, level=, topic="hyresavi från hyresvärden"
 - `/scenario story min första dag i Sverige` → type=story, level=, topic="min första dag i Sverige"
+- `/scenario fokus` → gap mode, theme=auto, topic="" (genre chosen for the theme)
+- `/scenario fokus T17 insändare om skärmtid i skolan` → gap mode, theme=T17, topic="insändare om skärmtid i skolan"
+- `/scenario fokus T11 dialog arbetsintervju` → gap mode, theme=T11, type=dialog
 
 任何 **国家考试体裁** 都可手动点名（见 `sv-scenario` 技能 §2a 体裁目录），例如：
 - `/scenario insändare behöver vårt område fler cykelvägar` → 读者来信（论说，A2–B1）
@@ -49,6 +62,9 @@ inbox/scenario-2026-06-03-<slug>.md
 
 For example, topic "fråga efter vägen" → slug `fraga-efter-vagen` → path `inbox/scenario-2026-06-03-fraga-efter-vagen.md`.
 
+**Gap mode:** `inbox/scenario-<date>-fokus-<slug>.md`, where the slug comes from the topic, or (empty topic)
+from the genre + theme, e.g. `fokus-insandare-t17`. The `fokus-` part routes the text to 📖 Läsning.
+
 Use the absolute path based on the project root as needed by the Write tool.
 
 ## 3. 生成情景 (Spawn the subagent)
@@ -59,6 +75,7 @@ Spawn the `sv-scenario-writer` subagent (Agent tool) with these inputs:
 - **level** — the parsed CEFR token, or empty string if absent
 - **inbox_path** — the absolute path computed in step 2
 - **date** — `2026-06-03`
+- **targets** — gap mode only: the JSON from `vocab-progress.js --pick`
 
 Wait for the subagent to complete and return its concise manifest.
 
@@ -71,6 +88,7 @@ Output a concise summary using the manifest returned by the subagent. Format:
 
   类型: dialog / text / story   CEFR: <estimate>
   提取: <n> 词 · <n> 词组 · <n> 句子 · <n> 语法点
+  🎯 目标词 (<theme>): <used>/<given>   ← 只在 fokus 模式写
 
 📁 已写入: inbox/scenario-2026-06-03-<slug>.md
 

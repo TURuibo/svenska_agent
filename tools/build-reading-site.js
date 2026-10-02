@@ -106,7 +106,13 @@ const ARTICLE_PREFIXES = [
   'natur-', 'plats-', 'uppfinning-', 'vetenskap-',
 ];
 
+// 🎯 Gap-targeted texts (/scenario fokus, /dagens-scenario) are named
+// scenario-<date>-fokus-<slug>.md so the daily routine's `/import scenario-<date>-*`
+// step still picks them up — but they are reading texts, so they go to Läsning.
+// /lattlast pages (myndighet-*) are verbatim easy-read texts from Swedish agencies.
 function kindFromName(name) {
+  if (/^scenario-\d{4}-\d{2}-\d{2}-fokus-/.test(name)) return 'fokus';
+  if (name.startsWith('myndighet-')) return 'myndighet';
   if (name.startsWith('scenario-')) return 'scenario';
   if (name.startsWith('adjsubst-')) return 'adjsubst';
   if (name.startsWith('news-')) return 'news';
@@ -119,8 +125,45 @@ const KIND_LABELS = {
   adjsubst: { zh: '词形变化', en: 'adj+subst drill' },
   article: { zh: '文章', en: 'article' },
   news: { zh: '新闻', en: 'news' },
+  fokus: { zh: '🎯 补弱项', en: 'focus' },
+  myndighet: { zh: '政府信息', en: 'authority' },
   other: { zh: '其他', en: 'other' },
 };
+
+// 题材 (genre) labels the Läsning filter uses. New texts state theirs in a
+// `**题材:** 论述 (insändare)` line; older files get one from their filename.
+const GENRES = ['论述', '书信', '说明文', '新闻', '对话', '故事', '政府信息', '课文', '词形练习'];
+const GENRE_BY_PREFIX = [
+  ['news-', '新闻'], ['horning-', '新闻'], ['myndighet-', '政府信息'], ['adjsubst-', '词形练习'],
+  ['paste-', '课文'], ['biografi-', '故事'],
+  ['historia-', '说明文'], ['tradition-', '说明文'], ['sverige-', '说明文'], ['plats-', '说明文'],
+  ['natur-', '说明文'], ['uppfinning-', '说明文'], ['vetenskap-', '说明文'],
+];
+// 主题 (topic) codes follow profile/vocab-gaps.json. Only a few filename prefixes
+// map cleanly onto one topic; everything else waits for an explicit `**主题:**` line.
+const TOPIC_BY_PREFIX = [
+  ['news-', 'T14'], ['horning-', 'T14'], ['natur-', 'T08'], ['uppfinning-', 'T15'], ['vetenskap-', 'T15'],
+  ['historia-', 'T16'], ['tradition-', 'T16'], ['sverige-', 'T16'], ['plats-', 'T16'], ['biografi-', 'T16'],
+];
+function loadTopicLabels() {
+  try {
+    const g = JSON.parse(fs.readFileSync(path.join(repoRoot, 'profile', 'vocab-gaps.json'), 'utf8'));
+    return g.themes || {};
+  } catch (_e) { return {}; }
+}
+function genreFor(name, explicit) {
+  const head = String(explicit || '').trim();
+  const hit = GENRES.find((g) => head.startsWith(g));
+  if (hit) return hit;
+  const p = GENRE_BY_PREFIX.find(([pre]) => name.startsWith(pre));
+  return p ? p[1] : '';
+}
+function topicFor(name, explicit) {
+  const m = String(explicit || '').match(/\bT\d{2}\b/);
+  if (m) return m[0];
+  const p = TOPIC_BY_PREFIX.find(([pre]) => name.startsWith(pre));
+  return p ? p[1] : '';
+}
 
 function getTitle(frontmatter, body, slug) {
   const heading = body.match(/^#\s+(.+)$/m);
@@ -138,6 +181,15 @@ function metaFromBody(body) {
   if (type) out.scenarioType = type[1].trim();
   const date = body.match(/生成日期[^:：]*[:：]\s*\**\s*(\d{4}-\d{2}-\d{2})/);
   if (date) out.date = date[1];
+  const genre = body.match(/\*\*题材[^:：]*[:：]\*\*\s*([^\n]+)/);
+  if (genre) out.genre = genre[1].trim();
+  const topic = body.match(/\*\*主题[^:：]*[:：]\*\*\s*([^\n]+)/);
+  if (topic) out.topic = topic[1].trim();
+  // **目标词:** hävda, orsak, å ena sidan … å andra sidan  (🎯 gap words this text teaches)
+  const targets = body.match(/\*\*目标词[^:：]*[:：]\*\*\s*([^\n]+)/);
+  if (targets) {
+    out.targets = targets[1].replace(/\*\*/g, '').split(/[,，、;；]/).map((s) => s.trim()).filter(Boolean);
+  }
   return out;
 }
 
@@ -441,6 +493,7 @@ function buildListeningIndex() {
 
 const listeningBySlug = buildListeningIndex();
 const vocab = buildVocab();
+const topicLabels = loadTopicLabels();
 
 const articles = [];
 
@@ -476,6 +529,9 @@ for (const src of SOURCES) {
       cefr: bodyMeta.cefr || frontmatter.cefr || '',
       date: bodyMeta.date || frontmatter.date || dateFromName(entry.name),
       theme: frontmatter.theme || bodyMeta.scenarioType || '',
+      genre: kind === 'scenario' ? '' : genreFor(entry.name, bodyMeta.genre),
+      topic: kind === 'scenario' ? '' : topicFor(entry.name, bodyMeta.topic),
+      targets: bodyMeta.targets || [],
       form,
       dialog,
       source: frontmatter.source || '',
@@ -496,7 +552,7 @@ articles.sort((a, b) => (b.date || '').localeCompare(a.date || '') || a.title.lo
 fs.mkdirSync(outDir, { recursive: true });
 const generatedAt =
   process.env.KB_SITE_GENERATED_AT || new Date().toISOString().replace('T', ' ').slice(0, 19);
-const data = { generatedAt, articles, vocab };
+const data = { generatedAt, articles, vocab, genres: GENRES, topics: topicLabels };
 fs.writeFileSync(dataPath, `window.READING_DATA = ${JSON.stringify(data, null, 2)};\n`, 'utf8');
 
 const byStatus = articles.reduce((acc, a) => ((acc[a.status] = (acc[a.status] || 0) + 1), acc), {});
@@ -504,5 +560,6 @@ console.log(
   `Generated ${path.relative(repoRoot, dataPath)} — ${articles.length} articles ` +
     `(待导入 ${byStatus.pending || 0}, 已导入 ${byStatus.imported || 0}), ${vocab.length} vocab notes, ` +
     `${articles.filter((a) => a.listening).length} with audio, ` +
-    `${articles.filter((a) => a.dialog).length} role-play dialogs.`
+    `${articles.filter((a) => a.dialog).length} role-play dialogs, ` +
+    `${articles.filter((a) => a.targets.length).length} 🎯 focus texts.`
 );

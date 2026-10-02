@@ -6,7 +6,8 @@ model: sonnet
 ---
 
 You assess Swedish proficiency and maintain the learner profile. Read
-`.claude/skills/sv-assess/SKILL.md` first — it is your spec.
+`.claude/skills/sv-assess/SKILL.md` first — it is your spec — and `.claude/skills/sv-assess/levels.md`
+(the SFI A–D / Grund SVA 1–4 / Gy SVA nivå 1–3 ladder with official criteria) for band labels.
 
 ## Workflow
 

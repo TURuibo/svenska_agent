@@ -109,6 +109,44 @@ har öppet till klockan 19 på torsdagar."），不要把表格字段硬拆成�
 - **功能性体裁**（anslag、annons、schema、blankett、notis）用简洁、要点式语域，A2 即可。
 - **对话体裁**用自然口语；面试 / 辩论比闲聊正式半档。
 
+### 2d. 🎯 补弱项模式 (fokus / gap mode)
+
+**目的：** 把 `profile/vocab-gaps.md` 里的缺口词（2026-10-02 词汇分析：抽象 / 论证、通用动词、社会制度、
+工作、经济、学校……）放进**真实语境**里学，而不是孤立地 `/learn` 词表。每篇围绕一个**主题**，
+带 **10–15 个目标词**（目标词 = 库里还没有笔记的缺口词）。
+
+**取词（不要自己挑）：** 运行
+`node tools/vocab-progress.js --pick <主题|auto> 12 [--exclude Txx]`
+它会实时对照当前 KB，返回该主题下还没学的词（P1 优先，P1 学完才给 P2）：
+`{theme, icon, zh, words:[{w, zh, p, level}]}`。`auto` 选「剩余 P1 最多」的主题。
+
+**按主题选题材（体裁取自 §2a 目录）：**
+
+| 主题 | 代码 | 推荐体裁 | 题材标签 |
+|------|------|----------|----------|
+| 🧠 思考·观点·论证 | T17 | insandare · debattartikel · kronika · 利弊对比文 · diskussion（dialog） | 论述 |
+| 🔗 功能词·连接词 | T20 | 同 T17，或 referat / faktatext（连接词最密） | 论述 / 说明文 |
+| 🏛️ 社会·政治·法律 | T14 | faktatext om samhället · nyhetsartikel · insandare | 说明文 / 新闻 / 论述 |
+| 💼 工作·职业 | T11 | platsannons + personligt brev（求职信）· intervju-arbete（dialog）· 职场须知 | 书信 / 对话 / 说明文 |
+| 💰 钱·购物·经济 | T13 | 银行 / 保险公司来信 · felanmalan / reklamation · 家庭预算 faktatext | 书信 / 说明文 |
+| 🎓 学校·教育 | T12 | Komvux / 学校通知 · 课程介绍 · muntlig redovisning 讲稿 | 说明文 |
+| 🩺 身体·健康·医疗 | T04 | 看病对话（B1）· vårdcentral 通知 | 对话 / 说明文 |
+| 🏢 住房 | T10 | 租房合同要点 · 致房东正式信 · annons | 书信 / 说明文 |
+| ⚙️ 通用动词 · 🔤 形容词副词 · 🕒 时间 · 💭 情感 · 👨‍👩‍👧 家庭 | T18 T19 T07 T06 T05 | berattelse · kronika · personligt brev · nyhetsartikel | 故事 / 论述 / 书信 / 新闻 |
+| 其他（T01–T03、T08、T09、T15、T16） | — | faktatext · nyhetsartikel · berattelse | 说明文 / 新闻 / 故事 |
+
+**写法规则：**
+1. 水平 **B1**（这是给 SFI C→D 的材料），句子仍然清楚，避免 B2。篇幅：text / story **150–250 词**，dialog 10–14 轮
+   （比普通情景长，才放得下 10–15 个目标词）。
+2. **每个目标词至少自然出现一次**（变形可以：hävda → hävdar）。实在放不进去、硬塞会很别扭的，最多去掉 2 个，并在教学备注里写明。
+   **不要**为了凑词写出不自然的句子。
+3. 瑞典语正文里目标词**每次出现都加粗**：`Många **hävdar** att …`。别的词不要加粗，对话的说话人标签照常写（`A:`），不加粗。
+4. 元信息多写三行（见 §4a）：`**题材:**`、`**主题:**`、`**目标词:**`（逗号分隔的词元，照 `--pick` 返回的 `w` 写）。
+5. 导出块里**每个目标词都要有一行**（单词进 `words:`，多词表达进 `phrases:`，都用 grundform），再加上文中其他值得学的词。
+6. 教学备注 3–5 条，至少一条讲目标词的用法 / 搭配 / 易错点（比如 `hävda att …` 后接 bisats）。
+7. 文件名：`inbox/scenario-<date>-fokus-<slug>.md`。`fokus-` 让它进 📖 **Läsning**（不进 Tala），带 🎯 标记、
+   目标词高亮；文件名仍以 `scenario-<date>-` 开头，所以每日 routine 的 `/import` 步骤会照常导入它。
+
 ---
 
 ## 3. 水平/语域规则 (Level & Register Rule)
@@ -143,6 +181,15 @@ inbox/scenario-<date>-<slug>.md
 其中：
 - `<date>` = 生成日期，绝对格式 `YYYY-MM-DD`（如 `2026-06-03`）；
 - `<slug>` = 情景主题的 ascii 式 kebab-case，å/ä → a，ö → o（如 "fråga efter vägen" → `fraga-efter-vagen`）。
+- 🎯 补弱项模式（§2d）用 `inbox/scenario-<date>-fokus-<slug>.md`，元信息多三行：
+
+  ```
+  **题材:** 论述 (insändare)
+  **主题:** T17 🧠 思考·观点·论证
+  **目标词:** hävda, orsak, slutsats, å ena sidan … å andra sidan, …
+  ```
+  `题材` 用这几个标签之一（阅读站按它筛选）：论述 · 书信 · 说明文 · 新闻 · 对话 · 故事。
+  `主题` 写代码 + 图标 + 中文（与 `profile/vocab-gaps.json` 的 themes 一致）。
 
 文件包含**两部分**，按顺序排列：
 
@@ -292,3 +339,4 @@ grammar:
 4. **每个句子独占一行** — `sentences:` 节中每行一句；不拆分或合并句子。
 5. **去重属于 import 阶段** — 生成时无需检查 KB；`/import` 和 `sv-librarian` 负责去重。
 6. **slug 为 ascii 式 kebab-case** — 情景主题翻译为 ascii，å/ä → a，ö → o，空格 → `-`，全小写，不含特殊符号。
+7. **🎯 补弱项模式的目标词由 `tools/vocab-progress.js --pick` 给出**（§2d），每个都要在正文里出现并加粗、在导出块里有一行。

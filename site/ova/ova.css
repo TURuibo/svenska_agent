@@ -1,0 +1,180 @@
+/* Öva — multiple-choice review. Palette/tokens from styles.css (light + dark). */
+
+.ovaBody { font-family: Georgia, "Times New Roman", serif; }
+
+.ovaHeader, .ovaMain {
+  max-width: 980px;
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.ovaHeader { padding-top: 24px; padding-bottom: 8px; }
+.ovaHeader .eyebrow {
+  margin: 0 0 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 11px;
+  color: var(--muted);
+}
+.ovaHeader h1 { margin: 0; font-size: 34px; line-height: 1.1; }
+.ovaHeader .brandSub { margin-left: 8px; font-family: var(--cjk); font-size: 18px; color: var(--muted); }
+.ovaSummary { margin: 8px 0 12px; font-family: var(--cjk); font-size: 13px; color: var(--muted); }
+
+.ovaDecks { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-family: var(--cjk); }
+.deckBtn, .ovaBtn, .ovaChip {
+  font-family: var(--cjk);
+  font-size: 14px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 6px 14px;
+  cursor: pointer;
+}
+.deckBtn:hover, .ovaBtn:hover, .ovaChip:hover { border-color: var(--gold); }
+.deckBtn.active { background: var(--green); border-color: var(--green); color: #fff; }
+.ovaBtn.primary { background: var(--green); border-color: var(--green); color: #fff; }
+.deckLevel { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
+.deckLevel select {
+  font-family: var(--cjk);
+  font-size: 13px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 5px 10px;
+  background: var(--panel);
+  color: var(--ink);
+}
+
+.ovaMain {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 20px;
+  padding-top: 12px;
+  padding-bottom: 60px;
+  align-items: start;
+}
+
+/* ---------- the card ---------- */
+.ovaCard {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 18px 20px 20px;
+  min-height: 320px;
+  font-family: var(--cjk);
+}
+.ovaTop { display: flex; gap: 12px; flex-wrap: wrap; font-size: 12px; color: var(--muted); }
+.ovaCount { margin-left: auto; }
+.ovaBar { height: 4px; background: var(--panel-soft); border-radius: 4px; margin: 8px 0 18px; overflow: hidden; }
+.ovaBar span { display: block; height: 100%; background: var(--green); transition: width 0.2s; }
+
+.ovaPrompt { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; margin: 6px 0 20px; }
+.ovaBig { font-family: Georgia, "Times New Roman", serif; font-size: 34px; font-weight: 700; color: var(--ink); }
+.ovaPrompt .ovaBig:not([lang]) { font-family: var(--cjk); font-size: 28px; }
+.ovaMeta { font-size: 13px; color: var(--muted); }
+.ovaCloze { display: block; font-family: Georgia, "Times New Roman", serif; font-size: 21px; line-height: 1.6; color: var(--ink); }
+.ovaBlank {
+  display: inline-block;
+  min-width: 70px;
+  border-bottom: 2px solid var(--gold);
+  color: var(--gold);
+  text-align: center;
+  margin: 0 3px;
+}
+.ovaSpeak {
+  border: 1px solid var(--line);
+  background: var(--paper);
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-size: 15px;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.ovaOpts { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.ovaOpt {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-align: left;
+  font-family: var(--cjk);
+  font-size: 17px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  border-radius: 12px;
+  padding: 12px 14px;
+  cursor: pointer;
+  min-height: 52px;
+}
+.ovaOpt [lang="sv"] { font-family: Georgia, "Times New Roman", serif; font-size: 18px; }
+.ovaOpt:hover:not(:disabled) { border-color: var(--gold); }
+.ovaOpt:disabled { cursor: default; }
+.ovaKey {
+  flex: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--panel-soft);
+  color: var(--muted);
+  font-size: 12px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.ovaOpt.right { border-color: var(--green); background: rgba(47, 111, 85, 0.14); }
+.ovaOpt.wrong { border-color: var(--red); background: rgba(155, 79, 67, 0.12); }
+
+.ovaFeedback { margin-top: 16px; }
+.ovaVerdict { margin: 0 0 8px; font-size: 15px; }
+.ovaVerdict.ok { color: var(--green); }
+.ovaVerdict.no { color: var(--red); }
+.ovaVerdict b { font-family: Georgia, "Times New Roman", serif; font-size: 17px; color: var(--ink); }
+.ovaEn { color: var(--muted); font-size: 13px; }
+.ovaSentence { margin: 4px 0; font-family: Georgia, "Times New Roman", serif; font-size: 17px; }
+.ovaSentence b { color: var(--green); }
+.ovaSentenceZh { margin: 0 0 8px; font-size: 13px; color: var(--muted); }
+.ovaNextRow { display: flex; gap: 8px; justify-content: flex-end; margin: 12px 0 0; }
+
+.ovaDone { text-align: center; padding: 30px 10px; }
+.ovaDoneScore { font-size: 18px; }
+.ovaDoneMissed { line-height: 2.2; }
+.ovaChip { font-family: Georgia, "Times New Roman", serif; font-size: 15px; padding: 3px 10px; }
+.ovaEmpty { color: var(--muted); line-height: 1.8; }
+
+/* ---------- side panel ---------- */
+.ovaSide { display: flex; flex-direction: column; gap: 14px; font-family: var(--cjk); position: sticky; top: calc(var(--nav-h) + 12px); }
+.ovaStats, .ovaExport, .ovaHelp {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 12px 14px;
+}
+.ovaStatLine { margin: 0 0 10px; font-size: 13px; }
+.ovaBoxes { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; align-items: end; height: 70px; }
+.ovaBox { display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; }
+.ovaBox span { width: 100%; background: var(--green); border-radius: 4px 4px 0 0; min-height: 2px; opacity: 0.8; }
+.ovaBox em { font-style: normal; font-size: 11px; color: var(--muted); margin-top: 3px; }
+.ovaBoxLegend { margin: 6px 0 0; font-size: 11px; color: var(--muted); }
+.ovaExportText { margin: 0 0 10px; font-size: 12px; color: var(--muted); line-height: 1.6; }
+.ovaExport .ovaBtn { width: 100%; }
+.ovaPending { margin: 8px 0 0; font-size: 12px; color: var(--muted); text-align: center; }
+.ovaHelp summary { cursor: pointer; font-size: 13px; }
+.ovaHelp ul { margin: 8px 0 0; padding-left: 18px; font-size: 12px; color: var(--muted); line-height: 1.7; }
+.ovaHelp kbd {
+  font-family: inherit;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 0 4px;
+  background: var(--paper);
+}
+
+@media (max-width: 760px) {
+  .ovaHeader, .ovaMain { padding-left: 16px; padding-right: 16px; }
+  .ovaHeader h1 { font-size: 28px; }
+  .ovaMain { grid-template-columns: 1fr; }
+  .ovaSide { position: static; }
+  .ovaOpts { grid-template-columns: 1fr; }
+  .ovaBig { font-size: 30px; }
+  .ovaCloze { font-size: 19px; }
+}
