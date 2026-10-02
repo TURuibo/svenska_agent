@@ -26,6 +26,8 @@ For a full assessment:
 3. **Estimate** an overall CEFR/SFI band, plus sub-skills (vocab breadth, grammar control, phrases).
    Use the ladder in [`levels.md`](levels.md) (SFI A–D → Grund SVA delkurs 1–4 → Gy SVA nivå 1–3,
    with official Godkänt criteria keywords + approximate CEFR) to place the learner and name gaps.
+   Its §7 gives vocabulary-size targets per level and §8 the other measures (CAF, LIX, coverage);
+   estimate vocab size by stratified sampling of KB words per CEFR band (know / don't know).
 4. **Be honest and specific** — cite evidence ("能正确用 perfekt 但 bisats 词序常错").
 
 ## 3. 写入档案 (Write the profile)

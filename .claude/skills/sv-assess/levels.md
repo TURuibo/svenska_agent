@@ -145,6 +145,102 @@ ordbildning (sammansättningar, avledningar, prefix/suffix)、fasta & idiomatisk
 
 ---
 
+## 7. 词汇量目标 (Vocabulary size per level)
+
+> ⚠️ Skolverket **没有**给任何 sfi/SVA 等级规定词汇量。以下是研究数据 + 我的综合估计。
+> 计数单位 = **词元 (lemma)**：`arbeta/arbetar/arbetade` 算 1 个。瑞典语复合词多（`arbetsförmedling`），
+> 认得组成部分就能猜出复合词，所以别把复合词单独当成"要背的词"。
+
+### 7.1 原始数据（不同口径，别直接横比）
+
+| CEFR | Milton 2010（英语外语，**个人认得量**，测试上限 5 000） | Kelly 表（瑞典语按词频切级，**累计**） | SVALex（瑞典语教材里**出现过**的词，累计新词） | SweLLex（学习者作文里**用过**的词，累计新词，全体学生合计） |
+|------|------|------|------|------|
+| A1 | < 1 500 | 1 404 | 1 157 | 398 |
+| A2 | 1 500–2 500 | 2 808 | 3 589 | 1 436 |
+| B1 | 2 500–3 250 | 4 212 | 7 921 | 2 978 |
+| B2 | 3 250–3 750 | 5 616 | 12 474 | 3 937 |
+| C1 | 3 750–4 500 | 7 020 | 15 634 | 5 482 |
+| C2 | 4 500–5 000 | 8 425 | — | — |
+
+- Milton = 真正测个人的数据，但用的是英语，且测试上限 5 000，所以 C1/C2 被低估。
+- Kelly = 8 425 个最高频词元平均分到 6 级（每级约 1 404），属于**人为切分**，不是测出来的。
+- SVALex / SweLLex = 把**整套教材 / 全体学生**加起来算，是"暴露量"的**上限**，不代表单个人掌握的量（作者自己也说按首次出现定级**偏乐观**）。
+- 文本覆盖率（Nation 2006，英语）：认识文中 **95%** 的词 → 借助词典能读；**98%** → 能独立读。
+  98% 覆盖大约需要 **8 000–9 000** 个词族（书面）/ **6 000–7 000**（口语）；95% 约 **3 000** 个。
+
+### 7.2 实用目标（综合估计，用于给 Ruibo 定位）
+
+| 等级 | CEFR≈ | 认得 (receptive) | 会用 (productive) | 依据 |
+|------|-------|------------------|-------------------|------|
+| SFI A | A1 | ≤ 1 000 | 300–500 | Milton A1、SVALex A1 |
+| SFI B | A2 | 1 500–2 000 | 800–1 000 | Milton A2 下段 |
+| SFI C | A2+/B1− | 2 000–2 500 | 1 000–1 500 | Milton A2 上段 |
+| **SFI D** | **B1** | **2 500–3 500** | **1 500–2 000** | Milton B1；Kelly B1 累计 4 212 为上限 |
+| Grund d1–d2 | B1 | 3 000–4 000 | 2 000 左右 | — |
+| Grund d3–d4 | B1+/B2− | 4 000–5 000 | 2 500–3 000 | 开始大量读 sakprosa、学科语言 |
+| Gy nivå 1 | B2 | 5 000–6 000 | 3 000+ | Kelly B2 累计 5 616 |
+| Gy nivå 2 | B2+ | 6 000–7 000 | 3 500+ | — |
+| Gy nivå 3 | C1 | 7 000–9 000+ | 4 000–5 000 | Kelly C1；Nation 98% 覆盖 |
+
+经验规律：**会用量明显小于认得量（大约一半）**；**高频 2 000 词**最划算，能覆盖日常口语的绝大部分。
+
+---
+
+## 8. 词汇量之外的指标 (Other measures)
+
+### 8.1 官方评分实际看的（sfi / SVA kursplan）
+| 维度 | 看什么 |
+|------|--------|
+| 技能 | hörförståelse · läsförståelse · muntlig interaktion · muntlig produktion · skriftlig färdighet |
+| 场景范围 | vardagsliv → samhälls-/studie-/arbetsliv → **formella** situationer |
+| 文体 | berättande/beskrivande → informerande → **redogörande/argumenterande** → utredande → vetenskaplig |
+| 适配 | anpassning till **syfte, mottagare, sammanhang**（正式程度） |
+| 流利与连贯 | *visst flyt*、*sammanhängande*、*fungerande struktur* |
+| 语言变化 | *variation i ordförråd och meningsbyggnad* |
+| 语法把握 | *enkla och mer avancerade grammatiska strukturer med viss säkerhet* |
+| 来源处理（grund 起） | 自己的话转述 → **citat och källhänvisningar** → 评价可信度 |
+
+### 8.2 CEFR 语言能力细项（CEFR Companion Volume）
+vocabulary range（广度）· vocabulary control（用得对不对）· grammatical accuracy · phonological control（发音）·
+orthographic control（拼写）· sociolinguistic appropriateness（得体）· flexibility · turntaking ·
+thematic development · coherence & cohesion · propositional precision · spoken fluency · **mediation**（转述/解释给别人）。
+
+### 8.3 可量化的研究指标（CAF：Complexity · Accuracy · Fluency）
+| 类 | 指标 | 瑞典语里怎么看 |
+|----|------|----------------|
+| 词汇深度 | 搭配、多义、partikelverb、固定表达 | `ta upp / ta hand om / ta emot` 能否区分 |
+| 词汇多样性 | TTR / MTLD | 作文里同一个词反复用 vs 有变化 |
+| 词汇难度 | 高频 2 000 词以外的词所占比例 | — |
+| 句法复杂度 | 平均句长、**bisats 比例**、连接词种类 | `eftersom / trots att / medan / vilket` |
+| 准确度 | 每 100 词的错误数、无错从句比例 | **V2 倒装**、bisats 里 `inte` 的位置、en/ett、形容词一致、时态 |
+| 流利度 | 每分钟词数、停顿、自我修正 | — |
+| 阅读 | 阅读速度、**文本覆盖率**、能独立读的 **LIX** 档 | 见 8.4 |
+| 听力 | 能跟上的语速 | 8 Sidor / lätt svenska → 普通 SVT / Ekot |
+| 发音 | 可懂度、长短元音、**音高重音 (accent 1/2)**、sj-ljud | `anden` 鸭子 vs 精神 |
+
+### 8.4 LIX（瑞典语专用可读性指数，Björnsson 1968）
+`LIX = 词数/句数 + 100 × 长词(>6 字母)数/词数`
+
+| LIX | 文本类型 | 大致对应 |
+|-----|----------|----------|
+| < 25 | 儿童书 | SFI A–B |
+| 25–30 | 简单文本（lättläst） | SFI B–C |
+| 30–40 | 普通文本 / 小说 | SFI D – grund |
+| 40–50 | 事实信息（如 Wikipedia） | grund d4 – Gy nivå 1 |
+| 50–60 | 专业文本 | Gy nivå 2–3 |
+| > 60 | 难的专业文本 / 研究 / 论文 | 大学 |
+
+（"大致对应"一列是我的估计；LIX 只看句长和长词，不看内容难度。）
+
+### 8.5 本项目可测的 (KB snapshot, 2026-10-02)
+- KB：**2 775** 个单词笔记（A1 481 · A2 1 247 · B1 973 · B2 69 · C1 5）· 1 033 词组 · 201 语法 · 2 124 句子。
+  `known: true` = **0**，也就是还没评估过。这些是**接触/查过的词**，不等于掌握。
+- `imported/` 各类文章原文的 LIX 平均值：scenario 24 · biografi 30 · paste（课本/讲义）32（最高 42）· plats 38。
+- 估词汇量的做法：从 KB 按 CEFR 分层抽样（如每级 20 词），让 Ruibo 标"认得 / 不认得"，
+  每层的认得比例 × 该层词数 = 估计认得量。`/assess` 可以用这个方法。
+
+---
+
 ## 来源 (Sources, checked 2026-10-02)
 
 - Skolverket — Kursplan för komvux i svenska för invandrare (SKOLFS 2017:91, aktuell version): https://syllabuswebb.skolverket.se/subject/SFI/11/pdf
@@ -161,3 +257,10 @@ ordbildning (sammansättningar, avledningar, prefix/suffix)、fasta & idiomatisk
 - Migrationsverket — Nya regler för svenskt medborgarskap gäller från 6 juni (2026): https://www.migrationsverket.se/nyheter/nyhetsarkiv/2026-06-05-nya-regler-for-svenskt-medborgarskap-galler-fran-6-juni.html
 - Migrationsverket — Hur blir man svensk medborgare? (2026-07-17): https://www.migrationsverket.se/om-migrationsverket/migrationsverket-svarar/2026/2026-07-17-hur-blir-man-svensk-medborgare.html
 - SOU 2021:2 — Krav på kunskaper i svenska och samhällskunskap för svenskt medborgarskap: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/krav-pa-kunskaper-i-svenska-och-samhallskunskap_ZZB32/html/
+- Milton (2010) via Eurosla Monographs 2 — vocabulary size × CEFR (Table 3): http://www.eurosla.org/monographs/EM02/Milton.pdf
+- Volodina et al. (2016) — SVALex (LREC 2016, Table 2): http://www.lrec-conf.org/proceedings/lrec2016/pdf/275_Paper.pdf
+- Volodina et al. (2016) — SweLLex (Table 6): https://aclanthology.org/W16-6510.pdf
+- Språkbanken — Swedish Kelly list (8 425 lemmas, CEFR-labelled): https://spraakbanken.gu.se/en/resources/kelly
+- Nation (2006) — How large a vocabulary is needed for reading and listening?: https://www.researchgate.net/publication/239928724_How_Large_a_Vocabulary_Is_Needed_for_Reading_and_Listening
+- Nordand 20(2) — Ordförråd efter uppnådd B1-nivå i SVA och SFS: https://www.diva-portal.org/smash/record.jsf?pid=diva2:2019060
+- Wikipedia (sv) — Läsbarhetsindex (LIX): https://sv.wikipedia.org/wiki/Läsbarhetsindex
