@@ -11,7 +11,8 @@ synonyms: [stat]
 antonyms: [opposition]
 family: [regera, regent]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik, topic-val-demokrati]
-sentences: [sent-regeringen-vill-halvera-priset, sent-regeringen-gör-en-budget-över-året]
+sentences: [sent-regeringen-vill-halvera-priset, sent-regeringen-gör-en-budget-över-året, sent-regeringen-bestämmer-varje-år-hur-mycket]
+sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
 known: false
 created: "2026-06-04"
 reviewed: ""
@@ -64,3 +65,4 @@ interval: 0
 
 - [[source-2026-06-04-nyheter-vecka-22]]
 - [[source-2026-09-22-laxforhoret-valsystemet]]
+- [[source-2026-10-02-myndighet-ekonomiskt-stod]] — 例句: [[sent-regeringen-bestämmer-varje-år-hur-mycket]] 🇸🇪 Regeringen bestämmer varje år hur mycket pengar du kan få. 🇨🇳 政府每年决定你能拿到多少钱。（政府每年确定 [[riksnorm]]）

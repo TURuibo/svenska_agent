@@ -3,7 +3,7 @@ type: topic
 name: arbete
 kind: semantic-field
 zh: 工作 / 职业（语义场）
-members: [arbeta, jobba, jobb]
+members: [arbeta, jobba, jobb, fackförening, a-kassa]
 created: 2026-06-02
 ---
 
@@ -16,6 +16,9 @@ created: 2026-06-02
 - [[arbeta]] — 工作（书面/中性，verb）
 - [[jobba]] — 工作（口语，verb）
 - [[jobb]] — 工作/活儿（口语名词，ett）
+- [[fackförening]] — 工会（口语 `facket`）
+- [[a-kassa]] — 失业保险基金
+  - 后两者来自 [[source-2026-10-02-myndighet-ekonomiskt-stod]]；与经济补助相关的词汇见 [[topic-ekonomi-och-bidrag]]。
 
 > 待扩充: arbete (n.), arbetare (工人), chef (老板), kollega (同事),
 > lön (工资), anställd (雇员), arbetslös (失业的) …

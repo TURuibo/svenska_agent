@@ -9,6 +9,8 @@ related:
   - grammar-bisats
 examples:
   - sent-man-klar-pa-sig-tjocka-jackor
+  - sent-kontakta-din-kommun-för-att-få-hjälp
+  - sent-socialtjänsten-bedömer-om-stödet-behövs-för-att
 known: false
 created: 2026-06-16
 reviewed: ""
@@ -50,6 +52,8 @@ Man klär på sig tjocka jackor för att hålla värmen.
 - ✅ [[sent-man-klar-pa-sig-tjocka-jackor]] 🇸🇪 Man klär på sig tjocka jackor och stövlar för att hålla värmen. 🇨🇳 人们穿上厚夹克和靴子，为了保暖。
 - ✅ 🇸🇪 Jag studerar svenska för att kunna arbeta i Sverige. — 🇨🇳 我学瑞典语是为了能在瑞典工作。
 - ✅ 🇸🇪 Han tränar varje dag för att bli starkare. — 🇨🇳 他每天训练，为了变得更强。
+- ✅ [[sent-kontakta-din-kommun-för-att-få-hjälp]] 🇸🇪 Kontakta din kommun för att få hjälp. 🇨🇳 联系你所在的市政府以获得帮助。（命令句 + 目的）
+- ✅ [[sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]] 🇸🇪 Socialtjänsten bedömer om stödet behövs för att du ska kunna leva på en rimlig nivå. 🇨🇳 社会服务处会评估是否需要这笔补助，好让你能过上合理水平的生活。（主语不同时：`för att` + 从句 `du ska kunna …`，见 [[grammar-for-att-syfte]]）
 - ❌ *Jag äter för bli stark.* ← 错误：必须用 *för att* 而不是单独 *för*。
 
 ## 常见错误 (Common Mistakes)

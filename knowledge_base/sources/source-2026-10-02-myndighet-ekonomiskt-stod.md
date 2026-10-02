@@ -8,7 +8,7 @@ focus_theme: "T13 💰 钱·购物·经济"
 target_words: [ekonomisk, stöd, bistånd, försörja, utgift, kostnad, rimlig, bedöma, planera, fackförening, försäkring, summa, el, rådgivare]
 words: [ekonomisk, stöd, bistånd, försörja, utgift, kostnad, rimlig, bedöma, planera, fackförening, försäkring, hemförsäkring, summa, el, rådgivare, skuldrådgivare, skuld, socialtjänst, socialtjänstlag, försörjningsstöd, levnadskostnad, riksnorm, förbrukningsvara, diskmedel, glödlampa, a-kassa, tandvård, glasögon, hygien, behövas, hantera, regering, nivå]
 phrases: [ha-svårt-att, få-pengarna-att-räcka, räcka-till, bero-på, få-bättre-koll-på, ansöka-om, försörja-sig, klara-sin-ekonomi, ekonomiskt-bistånd, till-exempel, leva-på-en-rimlig-nivå]
-sentences: []
+sentences: [sent-har-du-svårt-att-få-pengarna, sent-då-kan-du-få-stöd-från-socialtjänsten, sent-vilket-stöd-du-kan-få-beror-på, sent-har-du-skulder, sent-om-du-har-skulder-eller-svårt-att-planera, sent-det-är-någon-som-hjälper-dig-att-få, sent-kontakta-din-kommun-för-att-få-hjälp, sent-du-kan-också-hitta-en-budget-och, sent-vad-är-ekonomiskt-bistånd, sent-ekonomiskt-bistånd-är-pengar-som-du-kan, sent-du-kan-få-ekonomiskt-bistånd-om-du-inte, sent-du-kan-också-få-stöd-att-klara-din, sent-reglerna-om-ekonomiskt-bistånd-finns-i, sent-två-typer-av-ekonomiskt-bistånd, sent-ekonomiskt-bistånd-kan-vara-två-typer-av, sent-försörjningsstöd-är-pengar-för-dina-vanliga, sent-pengarna-ska-räcka-till-mat-kläder-och, sent-regeringen-bestämmer-varje-år-hur-mycket, sent-den-summan-kallas-riksnorm, sent-samma-riksnorm-gäller-i-hela-sverige, sent-du-kan-också-få-stöd-för-vissa-andra, sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga, sent-vad-som-är-rimligt-beror-på-olika, sent-till-exempel-var-och-hur-du-bor, sent-stöd-för-andra-levnadskostnader, sent-du-kan-också-få-ekonomiskt-bistånd-för-vissa, sent-det-kan-till-exempel-vara-kostnader-för, sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]
 grammar: [grammar-indirekt-fraga, grammar-bisats-om, grammar-sammansatt-ord, grammar-s-passiv, grammar-for-att-infinitiv]
 topics: [topic-ekonomi-och-bidrag, topic-samhälle-och-politik, topic-betalning, topic-vård, topic-arbete]
 ---
@@ -94,4 +94,33 @@ Socialtjänsten bedömer om stödet behövs för att du ska kunna leva på en ri
 
 ## 提取 (Extracted → linked notes)
 
-_(由 sv-librarian 填写)_
+### 🎯 14 个目标词 (target words)
+
+形容词: [[ekonomisk]] · [[rimlig]]
+名词: [[stöd]] · [[bistånd]] · [[utgift]] · [[kostnad]] · [[fackförening]] · [[försäkring]] · [[summa]] · [[el]] · [[rådgivare]]
+动词: [[försörja]] · [[bedöma]] · [[planera]]
+主题: [[topic-ekonomi-och-bidrag]]
+
+### 📚 其他词 (words)
+
+- 补助 / 制度: [[försörjningsstöd]] · [[levnadskostnad]] · [[riksnorm]] · [[socialtjänst]] · [[socialtjänstlag]] · [[regering]] · [[nivå]]
+- 债务 / 咨询: [[skuld]] · [[skuldrådgivare]] · [[hantera]]
+- 保险 / 日用: [[hemförsäkring]] · [[förbrukningsvara]] · [[diskmedel]] · [[glödlampa]] · [[a-kassa]]
+- 健康 / 卫生: [[tandvård]] · [[glasögon]] · [[hygien]]
+- 其他: [[behövas]]
+
+### 🔗 词组 (phrases)
+
+[[ha-svårt-att]] · [[få-pengarna-att-räcka]] · [[räcka-till]] · [[bero-på]] · [[få-bättre-koll-på]] · [[ansöka-om]] · [[försörja-sig]] · [[klara-sin-ekonomi]] · [[ekonomiskt-bistånd]] · [[till-exempel]] · [[leva-på-en-rimlig-nivå]]
+
+### ✍️ 句子 (sentences)
+
+[[sent-har-du-svårt-att-få-pengarna]] · [[sent-då-kan-du-få-stöd-från-socialtjänsten]] · [[sent-vilket-stöd-du-kan-få-beror-på]] · [[sent-har-du-skulder]] · [[sent-om-du-har-skulder-eller-svårt-att-planera]] · [[sent-det-är-någon-som-hjälper-dig-att-få]] · [[sent-kontakta-din-kommun-för-att-få-hjälp]] · [[sent-du-kan-också-hitta-en-budget-och]] · [[sent-vad-är-ekonomiskt-bistånd]] · [[sent-ekonomiskt-bistånd-är-pengar-som-du-kan]] · [[sent-du-kan-få-ekonomiskt-bistånd-om-du-inte]] · [[sent-du-kan-också-få-stöd-att-klara-din]] · [[sent-reglerna-om-ekonomiskt-bistånd-finns-i]] · [[sent-två-typer-av-ekonomiskt-bistånd]] · [[sent-ekonomiskt-bistånd-kan-vara-två-typer-av]] · [[sent-försörjningsstöd-är-pengar-för-dina-vanliga]] · [[sent-pengarna-ska-räcka-till-mat-kläder-och]] · [[sent-regeringen-bestämmer-varje-år-hur-mycket]] · [[sent-den-summan-kallas-riksnorm]] · [[sent-samma-riksnorm-gäller-i-hela-sverige]] · [[sent-du-kan-också-få-stöd-för-vissa-andra]] · [[sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga]] · [[sent-vad-som-är-rimligt-beror-på-olika]] · [[sent-till-exempel-var-och-hur-du-bor]] · [[sent-stöd-för-andra-levnadskostnader]] · [[sent-du-kan-också-få-ekonomiskt-bistånd-för-vissa]] · [[sent-det-kan-till-exempel-vara-kostnader-för]] · [[sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]]
+
+### 📐 语法 (grammar)
+
+[[grammar-indirekt-fraga]]（疑问词从句不倒装：`Vilket stöd du kan få`、`hur mycket pengar du kan få`） · [[grammar-bisats-om]]（`om` = 如果 / 是否） · [[grammar-sammansatt-ord]]（复合词与连接音 -s-：`försörjningsstöd`、`levnadskostnad`、`socialtjänstlagen`；省略式 `budget- och skuldrådgivare`） · [[grammar-s-passiv]]（`kallas`、`behövs`） · [[grammar-for-att-infinitiv]]（`för att` 表目的）
+
+### 🗂️ 主题 (topics)
+
+[[topic-ekonomi-och-bidrag]]（新建） · [[topic-samhälle-och-politik]] · [[topic-betalning]] · [[topic-vård]] · [[topic-arbete]]

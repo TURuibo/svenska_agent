@@ -5,7 +5,7 @@ zh: "om 引导的从句（是否/如果）"
 en: "subordinate clause with om (whether / if)"
 level: "A2"
 related: [grammar-bisats, grammar-bisats-biff, grammar-bisats-eftersom, grammar-nar-bisats]
-examples: [sent-jag-tänkte-höra-om-du-är-ledig, sent-vi-kan-ses-där-först-om-du-vill, sent-säg-till-om-det-passar]
+examples: [sent-jag-tänkte-höra-om-du-är-ledig, sent-vi-kan-ses-där-först-om-du-vill, sent-säg-till-om-det-passar, sent-om-du-har-skulder-eller-svårt-att-planera, sent-du-kan-få-ekonomiskt-bistånd-om-du-inte, sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga, sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]
 known: false
 created: "2026-06-20"
 reviewed: ""
@@ -53,6 +53,10 @@ Jag vet inte   om  hon  inte         kommer.
 - ✅ [[sent-jag-tänkte-höra-om-du-är-ledig]] 🇸🇪 Jag tänkte höra om du är ledig på lördag. 🇨🇳 我想问问你周六有没有空。
 - ✅ [[sent-vi-kan-ses-där-först-om-du-vill]] 🇸🇪 Vi kan ses där först om du vill. 🇨🇳 如果你愿意，我们可以先在那儿见面。
 - ✅ [[sent-säg-till-om-det-passar]] 🇸🇪 Säg till om det passar! 🇨🇳 合适的话告诉我一声！
+- ✅ [[sent-om-du-har-skulder-eller-svårt-att-planera]] 🇸🇪 Om du har skulder eller svårt att planera din ekonomi kan du få stöd av en budget- och skuldrådgivare. 🇨🇳 如果你有债务或难以规划自己的财务，可以向预算与债务顾问求助。（条件从句在句首 → 主句倒装 `kan du`）
+- ✅ [[sent-du-kan-få-ekonomiskt-bistånd-om-du-inte]] 🇸🇪 Du kan få ekonomiskt bistånd om du inte kan försörja dig själv eller din familj. 🇨🇳 如果你无法养活自己或家人，就可以获得经济补助。（`inte` 在 `kan` 之前）
+- ✅ [[sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga]] 🇸🇪 Socialtjänsten bedömer om kostnaderna är rimliga. 🇨🇳 社会服务处会评估这些费用是否合理。（`om` = 是否）
+- ✅ [[sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]] 🇸🇪 Socialtjänsten bedömer om stödet behövs för att du ska kunna leva på en rimlig nivå. 🇨🇳 社会服务处会评估是否需要这笔补助，好让你能过上合理水平的生活。
 - ❌ "Jag vet om han kommer inte." ← 错误；从句中否定词应在动词前："Jag vet inte om han inte kommer."
 
 ## 常见错误 (Common Mistakes)

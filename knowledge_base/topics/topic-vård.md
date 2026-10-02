@@ -3,7 +3,7 @@ type: topic
 slug: "topic-vård"
 zh: "护理与医疗"
 en: "healthcare and care"
-members: ["vårdbiträde", "äldreboende", "demens", "minnessvårighet"]
+members: ["vårdbiträde", "äldreboende", "demens", "minnessvårighet", "tandvård", "glasögon", "hygien"]
 created: "2026-06-25"
 ---
 
@@ -18,6 +18,10 @@ Ord och uttryck som handlar om vård, äldreomsorg och hälsa i yrkes- och varda
 - [[äldreboende]] — 养老院
 - [[demens]] — 痴呆症/失智症
 - [[minnessvårighet]] — 记忆障碍
+- [[tandvård]] — 牙科护理
+- [[glasögon]] — 眼镜（只用复数）
+- [[hygien]] — 卫生
+  - 后三者来自 [[source-2026-10-02-myndighet-ekonomiskt-stod]]（经济补助可覆盖的偶发医疗 / 卫生费用），经济词汇见 [[topic-ekonomi-och-bidrag]]。
 
 ## Relaterade ämnen (Related topics)
 

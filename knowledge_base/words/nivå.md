@@ -9,8 +9,9 @@ en: "level"
 synonyms: []
 antonyms: []
 family: []
-topics: [topic-skola-och-utbildning]
-sentences: [sent-hennes-pappa-uppmuntrade-henne-att]
+topics: [topic-skola-och-utbildning, topic-ekonomi-och-bidrag]
+sentences: [sent-hennes-pappa-uppmuntrade-henne-att, sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]
+sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
 known: false
 created: "2026-08-06"
 reviewed: ""
@@ -55,3 +56,5 @@ interval: 0
 
 - 常见搭配 `på (en) hög/låg/avancerad nivå`。
 - 来自 [[source-2026-08-06-elin-wagner]]。
+- 生活水平语境: `leva på en rimlig nivå`（过合理水平的生活）→ [[leva-på-en-rimlig-nivå]]。例句: 🇸🇪 Socialtjänsten bedömer om stödet behövs för att du ska kunna leva på en rimlig nivå. — 🇨🇳 社会服务处会评估是否需要这笔补助，好让你能过上合理水平的生活。 → [[sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]]
+- 来源: [[source-2026-10-02-myndighet-ekonomiskt-stod]]

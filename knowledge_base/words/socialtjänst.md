@@ -9,9 +9,10 @@ zh: "社会服务部门"
 en: "social services"
 synonyms: []
 antonyms: []
-family: ["social", "tjänst"]
-topics: ["topic-terrorism-och-brott"]
-sentences: []
+family: ["social", "tjänst", "socialtjänstlag"]
+topics: ["topic-terrorism-och-brott", "topic-samhälle-och-politik", "topic-ekonomi-och-bidrag"]
+sentences: [sent-då-kan-du-få-stöd-från-socialtjänsten, sent-ekonomiskt-bistånd-är-pengar-som-du-kan, sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga, sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]
+sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
 known: false
 created: "2026-07-02"
 reviewed: ""
@@ -47,10 +48,13 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[social]] (adj, stub), [[tjänst]] (n, 服务/职位, stub)
-- 主题: [[topic-terrorism-och-brott]]
+- 词族: [[social]] (adj), [[tjänst]] (n, 服务/职位), [[socialtjänstlag]]（社会服务法）
+- 主题: [[topic-terrorism-och-brott]] · [[topic-samhälle-och-politik]] · [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)
 
 - 复合词：`social`（社会的）+ `tjänst`（服务）= 社会服务机构，负责儿童保护、社会援助等。
 - 新闻中常见搭配 `larma socialtjänsten`（向社会服务部门报警）。
+- 经济补助语境：`ansöka om ekonomiskt bistånd hos socialtjänsten`（向社会服务处申请经济补助）；`Socialtjänsten bedömer om …`（社会服务处评估是否……）。法律依据见 [[socialtjänstlag]]。
+  - 例句: [[sent-då-kan-du-få-stöd-från-socialtjänsten]] · [[sent-ekonomiskt-bistånd-är-pengar-som-du-kan]] · [[sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga]] · [[sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]]
+- 来源: [[source-2026-10-02-myndighet-ekonomiskt-stod]]

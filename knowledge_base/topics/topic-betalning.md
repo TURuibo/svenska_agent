@@ -26,6 +26,9 @@ members:
   - kod
   - gratis
   - hur-mycket-blir-det
+  - summa
+  - utgift
+  - kostnad
 created: "2026-06-09"
 ---
 
@@ -67,6 +70,12 @@ created: "2026-06-09"
 - [[stämpelkort]] — 集点卡
 - [[kod]] — 付款码；代码
 - [[gratis]] — 免费的
+
+**Summor & kostnader (金额与费用, 2026-10-02)**
+- [[summa]] — 金额；总额
+- [[utgift]] — 支出；开销
+- [[kostnad]] — 费用；成本
+- 更多个人经济与补助词汇见 [[topic-ekonomi-och-bidrag]]（来源 [[source-2026-10-02-myndighet-ekonomiskt-stod]]）
 
 ## 备注 (Notes)
 

@@ -11,7 +11,8 @@ head_words: []
 grammar: [grammar-partikelverb]
 related: [det-gäller, maxtaxa, inkomst]
 topics: [topic-förskola-vardag]
-sentences: [sent-avgiften-följer-maxtaxan-och-beror-på]
+sentences: [sent-avgiften-följer-maxtaxan-och-beror-på, sent-vilket-stöd-du-kan-få-beror-på, sent-vad-som-är-rimligt-beror-på-olika]
+sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
 known: false
 created: "2026-09-26"
 ---
@@ -44,3 +45,7 @@ created: "2026-09-26"
 - [[sent-avgiften-följer-maxtaxan-och-beror-på]] 🇸🇪 Avgiften följer maxtaxan och beror på hushållets inkomst, inte på antalet timmar. 🇨🇳 费用按照最高收费制度计算，取决于家庭的收入，而不是小时数。
 - 🇸🇪 — Kommer ni på lördag? — Det beror på vädret. 🇨🇳 ——你们周六来吗？——看天气。
 - 🇸🇪 Hur mycket ni betalar beror på hur mycket ni tjänar. 🇨🇳 你们交多少钱取决于你们挣多少。
+- [[sent-vilket-stöd-du-kan-få-beror-på]] 🇸🇪 Vilket stöd du kan få beror på vad du behöver hjälp med. 🇨🇳 你能得到哪种帮助，取决于你需要哪方面的帮助。
+- [[sent-vad-som-är-rimligt-beror-på-olika]] 🇸🇪 Vad som är rimligt beror på olika saker. 🇨🇳 什么算合理取决于不同情况。
+
+来源: [[source-2026-10-02-myndighet-ekonomiskt-stod]]
