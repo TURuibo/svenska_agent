@@ -15,7 +15,7 @@ The markdown knowledge base can be browsed as a static website:
 - Source of truth: `knowledge_base/` markdown files.
 - Generated search data: `site/kb-data.js` — **gitignored**, built on demand (see below).
 
-The viewer data files (`site/kb-data.js`, `site/reading/reading-data.js`, `site/listening/listening-data.js`)
+The viewer data files (`site/kb-index.js`/`kb-bodies.js`, `site/reading/reading-data.js`, `site/listening/listening-data.js`, `site/dagbok-data.js`)
 are **not tracked in git**. They are generated fresh by the GitHub Actions workflow (`.github/workflows/kb-site.yml`)
 and published only to the `gh-pages` branch — never committed to `main`. This keeps `main` free of ~10MB/day of
 blob churn and removes all viewer-file merge conflicts.
@@ -26,6 +26,7 @@ To preview locally after editing KB notes, build the data once (output stays git
 node tools/build-kb-site.js        # KB viewer data + knowledge_base/_index/slugs.json (tracked)
 node tools/build-reading-site.js   # Läsning reading data
 node tools/build-listening-site.js # Lyssna listening data
+node tools/build-dagbok-data.js    # Dagbok day index (reads the three outputs above — run last)
 ```
 
 Publishing to GitHub Pages is automatic on relevant `main` pushes (and via manual workflow dispatch) — no manual
