@@ -10,8 +10,8 @@ en: "to mean; to signify; to matter"
 synonyms: []
 antonyms: []
 family: []
-topics: []
-sentences: [sent-själv-har-jag-jobbat-som-ledare-i-en]
+topics: [topic-allmänna-verb]
+sentences: [sent-själv-har-jag-jobbat-som-ledare-i-en, sent-det-betyder-att-man-bara-får-lämna]
 known: false
 created: "2026-10-02"
 ---
@@ -52,6 +52,7 @@ created: "2026-10-02"
 
 - 🇸🇪 Rött ljus betyder stopp. — 🇨🇳 红灯表示停。
 - 🇸🇪 Det betyder att vi måste vänta. — 🇨🇳 这意味着我们得等。
+- 🇸🇪 Det betyder att man bara får lämna elsparkcyklarna på särskilda parkeringsplatser. — 🇨🇳 这意味着人们只能把电动滑板车停放在指定的停车位上。（新闻体：宣布一项规定的后果） → [[sent-det-betyder-att-man-bara-får-lämna]]
 
 **义项3 有重要意义 (to matter):**
 
@@ -70,4 +71,6 @@ created: "2026-10-02"
 
 - 三个义项都用同一个动词，看**宾语 / 搭配**判断：问词义 → 义项1；`betyder att` → 义项2；`betyda mycket för` → 义项3。
 - 在 `hur mycket … kan betyda`（间接疑问句）里，词序不倒装，见 [[grammar-indirekt-fraga]]。
-- 来源: [[source-2026-10-02-fokus-insandare-fritidsgardar]]
+- `Det betyder att …` 也是新闻里解释**决定 / 规定带来什么后果**的固定句式；`att` 从句里副词 `bara` 放在定式动词 `får` 前（BIFF），见 [[sent-det-betyder-att-man-bara-får-lämna]]。
+- 主题: [[topic-allmänna-verb]]
+- 来源: [[source-2026-10-02-fokus-insandare-fritidsgardar]]、[[source-2026-10-02-fokus-nyhetsartikel-elsparkcyklar]]
