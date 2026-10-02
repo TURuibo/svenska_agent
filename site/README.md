@@ -27,7 +27,7 @@ https://turuibo.github.io/svenska_agent/
 
 | Page | Path | What it's for |
 |------|------|----------------|
-| **Dagbok** 📅 | `site/index.html` (`/`) | Home — learning diary: stats, heatmap, day-by-day timeline |
+| **Dagbok** 📅 | `site/index.html` (`/`) | Home — slim daily index: what was read / listened / looked up each day, linking out |
 | **Läsning** 📖 | `site/reading/` | Read scenarios / articles with toggleable 🇨🇳 translation |
 | **Lyssna** 🎧 | `site/listening/` | SVT easy-Swedish listening with synced bilingual transcript |
 | **Former** 📐 | `site/forms/` | Word forms grouped by 词性 / date |
@@ -83,16 +83,23 @@ lemmatizes on import). See CLAUDE.md §4.2 for the full flow.
 
 ## Dagbok (home)
 
-The landing page focuses on **evening recap** rather than search: "what did I add today / yesterday
-/ this week?". Features:
+A slim **entry page**: "what did I practise on day X?" — one card per active day (newest first,
+grouped by month), each with up to four rows that link straight to where the material lives:
 
-- Stats strip (今天/昨天/本周/本月/总条目/连续天数 streak)
-- 12-week activity heatmap, clickable to jump to that day
-- Timeline grouped by day, with import batches (`sources/`) shown as cards containing their words /
-  phrases / sentences / grammar
-- Type filter (词 / 词组 / 句子 / 语法) and quick-jump buttons
-- Click any chip to open an inline peek panel with the full markdown rendered; "在查词站打开 →"
-  jumps into the Sök tool (`sok/#note=<slug>`).
+| Row | From | Links to |
+|-----|------|----------|
+| 📖 阅读 | `imported/` articles (date = import date) | `reading/#article=…&frompage=recap` (+ 🎧 when the article has audio) |
+| 🎧 听力 | `listening/*.json` episodes not already shown as an article's 🎧 | `listening/#ep=…&frompage=recap` |
+| 🔍 查词 | KB items created that day that no source / same-day article claims | `sok/#note=<slug>` per chip |
+| 📝 来源 | older `sources/` notes with no readable article | `sok/#note=source-…` |
+
+Long rows collapse to the first few entries behind "+N ▾"; days older than ~30 days sit behind
+"显示更早". The header shows one line: 🔥 streak · active days this week. Läsning and Lyssna both
+offer "← 返回 Dagbok", which lands back on `#day-YYYY-MM-DD`. (Stats, heatmap, filters, the peek
+panel and flashcards were removed 2026-10-02.)
+
+The page loads only `site/dagbok-data.js` (~80 KB), built by `tools/build-dagbok-data.js` from the
+other three generated data files — run it **after** them (the Action does).
 
 The old `/recap/` URL now redirects here. Dark mode follows the OS setting on every page.
 
@@ -105,6 +112,8 @@ Regenerate the searchable data after adding or editing KB notes:
 
 ```bash
 node tools/build-kb-site.js
+# full local preview of every page (all gitignored):
+node tools/build-reading-site.js && node tools/build-listening-site.js && node tools/build-dagbok-data.js
 ```
 
 Publish the refreshed site to GitHub Pages:

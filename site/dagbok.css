@@ -1,39 +1,25 @@
-/* Dagbok — recap site styles. Reuses palette variables from ../styles.css. */
+/* Dagbok — slim per-day practice index (site home). Palette from styles.css. */
 
-.recapBody {
-  display: block;
+.dagbokBody {
   font-family: Georgia, "Times New Roman", serif;
-  min-height: 100vh;
 }
 
-.recapHeader {
-  max-width: 1180px;
+.dgHeader,
+.dgDays {
+  max-width: 880px;
   margin: 0 auto;
-  padding: 24px 24px 12px;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
-.recapHeaderInner {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 24px;
-  flex-wrap: wrap;
+/* ---------- header ---------- */
+
+.dgHeader {
+  padding-top: 24px;
+  padding-bottom: 6px;
 }
 
-.recapBrand h1 {
-  font-size: 38px;
-  margin: 0;
-  line-height: 1.05;
-}
-
-.brandSub {
-  font-family: var(--cjk);
-  font-size: 20px;
-  color: var(--muted);
-  margin-left: 8px;
-}
-
-.recapBrand .eyebrow {
+.dgHeader .eyebrow {
   margin: 0 0 4px;
   text-transform: uppercase;
   letter-spacing: 0.18em;
@@ -41,1132 +27,261 @@
   color: var(--muted);
 }
 
-.recapBrand .updated {
+.dgHeader h1 {
+  margin: 0;
+  font-size: 34px;
+  line-height: 1.1;
+}
+
+.brandSub {
+  margin-left: 8px;
+  font-family: var(--cjk);
+  font-size: 18px;
+  color: var(--muted);
+}
+
+.dgSummary {
   margin: 8px 0 0;
   font-family: var(--cjk);
-  color: var(--muted);
-  font-size: 13px;
-}
-
-.recapNav {
-  display: flex;
-  gap: 8px;
-}
-
-.navLink {
-  display: inline-block;
-  padding: 8px 14px;
-  border: 1px solid var(--line);
-  background: var(--paper);
-  border-radius: 999px;
-  color: var(--green-dark);
-  text-decoration: none;
-  font-family: var(--cjk);
-  font-size: 14px;
-  transition: background 0.15s, border-color 0.15s;
-}
-
-.navLink:hover {
-  background: var(--panel-soft);
-  border-color: var(--green);
-}
-
-/* ---------- Stats strip ---------- */
-
-.statsStrip {
-  margin-top: 14px;
-  display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
-  gap: 10px;
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  padding: 14px 18px;
-  box-shadow: var(--shadow);
-}
-
-.stat {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 2px;
-}
-
-.statN {
-  font-size: 24px;
-  font-weight: 700;
-  color: var(--green-dark);
-  font-family: Georgia, serif;
-}
-
-.statLabel {
-  font-family: var(--cjk);
-  font-size: 12px;
-  color: var(--muted);
-}
-
-.streakStat .statN {
-  color: var(--gold);
-}
-
-/* ---------- Heatmap ---------- */
-
-.heatmapWrap {
-  margin-top: 12px;
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  padding: 14px 18px;
-  box-shadow: var(--shadow);
-}
-
-/* Heatmap is a <details>: on desktop the summary is hidden and it stays open
-   (always visible, as before). On phones it collapses to reclaim header space —
-   dagbok.js drops the `open` attribute on small viewports. */
-.heatmapDetails > summary {
-  display: none;
-}
-@media (max-width: 760px) {
-  .heatmapDetails > summary {
-    display: block;
-    list-style: none;
-    cursor: pointer;
-    font-family: var(--cjk);
-    font-size: 13px;
-    color: var(--green-dark);
-    padding: 2px 0;
-  }
-  .heatmapDetails > summary::-webkit-details-marker { display: none; }
-  .heatmapDetails > summary::after { content: ' ▾'; color: var(--muted); }
-  .heatmapDetails[open] > summary::after { content: ' ▴'; }
-}
-
-.heatmapLegend {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  font-family: var(--cjk);
-  font-size: 11px;
-  color: var(--muted);
-  margin-bottom: 8px;
-  justify-content: flex-end;
-}
-
-.legendCell {
-  width: 11px;
-  height: 11px;
-  border-radius: 2px;
-  display: inline-block;
-}
-
-.heatmap {
-  display: grid;
-  grid-auto-flow: column;
-  grid-auto-columns: 14px;
-  grid-template-rows: repeat(7, 14px);
-  gap: 3px;
-  overflow-x: auto;
-}
-
-.heatCell {
-  width: 14px;
-  height: 14px;
-  border-radius: 3px;
-  background: #e6ecdf;
-  cursor: pointer;
-  transition: transform 0.1s, outline-color 0.15s;
-  outline: 2px solid transparent;
-}
-
-.heatCell:hover {
-  transform: scale(1.25);
-  outline-color: var(--green);
-}
-
-.heatCell.empty {
-  background: transparent;
-  cursor: default;
-}
-
-.heatCell.l0 { background: #eef3ed; }
-.heatCell.l1 { background: #c7e0ce; }
-.heatCell.l2 { background: #8fc6a0; }
-.heatCell.l3 { background: #4d9b6b; }
-.heatCell.l4 { background: var(--green-dark); }
-
-.legendCell.l0 { background: #eef3ed; }
-.legendCell.l1 { background: #c7e0ce; }
-.legendCell.l2 { background: #8fc6a0; }
-.legendCell.l3 { background: #4d9b6b; }
-.legendCell.l4 { background: var(--green-dark); }
-
-.heatCell.today {
-  outline-color: var(--gold);
-}
-
-/* ---------- Jump / filter bar ---------- */
-
-.jumpBar {
-  margin-top: 12px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  align-items: center;
-  font-family: var(--cjk);
-}
-
-.jumpBar button {
-  border: 1px solid var(--line);
-  background: var(--panel);
-  padding: 6px 14px;
-  border-radius: 999px;
-  cursor: pointer;
-  font-size: 13px;
-  color: var(--ink);
-  transition: background 0.15s, border-color 0.15s, color 0.15s;
-}
-
-.jumpBar button:hover {
-  background: var(--panel-soft);
-  border-color: var(--green);
-}
-
-.jumpBar .typeFilter.active {
-  background: var(--green-dark);
-  border-color: var(--green-dark);
-  color: #fff;
-}
-
-.filterDivider {
-  width: 1px;
-  height: 22px;
-  background: var(--line);
-  margin: 0 4px;
-}
-
-.filterLabel {
-  font-size: 12px;
-  color: var(--muted);
-}
-
-/* ---------- Source (origin) filter ---------- */
-
-.sourceBar {
-  margin-top: 8px;
-}
-
-/* let the dynamically-added buttons participate in the .jumpBar flex row */
-.sourceFilters {
-  display: contents;
-}
-
-.sourceBar .sourceFilter.active {
-  background: var(--blue);
-  border-color: var(--blue);
-  color: #fff;
-}
-
-.filterCount {
-  margin-left: auto;
-  font-size: 12px;
-  color: var(--muted);
-}
-
-/* ---------- Timeline ---------- */
-
-.recapMain {
-  max-width: 1180px;
-  margin: 0 auto;
-  padding: 12px 24px 80px;
-}
-
-.timeline {
-  display: flex;
-  flex-direction: column;
-  gap: 18px;
-  position: relative;
-}
-
-/* Timeline spine + per-day dots — gives the diary a real chronological backbone
-   (desktop only; phones drop it to keep cards full-width). The most recent day
-   (first child = usually 今天) gets a gold node. */
-@media (min-width: 761px) {
-  .timeline { padding-left: 28px; }
-  .timeline::before {
-    content: '';
-    position: absolute;
-    left: 9px;
-    top: 10px;
-    bottom: 10px;
-    width: 2px;
-    border-radius: 2px;
-    background: var(--line);
-  }
-  .daySection::before {
-    content: '';
-    position: absolute;
-    left: -24px;
-    top: 24px;
-    width: 13px;
-    height: 13px;
-    border-radius: 50%;
-    background: var(--green);
-    border: 3px solid var(--paper);
-    box-shadow: 0 0 0 1px var(--line);
-  }
-  .timeline .daySection:first-child::before { background: var(--gold); }
-}
-
-.timelineLoading,
-.timelineEmpty {
-  text-align: center;
-  color: var(--muted);
-  font-family: var(--cjk);
-  padding: 60px 0;
-}
-
-.daySection {
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  padding: 18px 20px;
-  box-shadow: var(--shadow);
-  position: relative;
-}
-
-.dayHeader {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 12px;
-  margin-bottom: 8px;
-  flex-wrap: wrap;
-}
-
-.dayDate {
-  margin: 0;
-  font-size: 22px;
-  color: var(--green-dark);
-  font-family: var(--cjk);
-}
-
-.dayDateAbs {
-  font-family: Georgia, serif;
   font-size: 14px;
   color: var(--muted);
-  margin-left: 8px;
-  font-weight: normal;
 }
 
-.dayCount {
+/* ---------- days ---------- */
+
+.dgDays {
+  padding-bottom: 48px;
+}
+
+.dgMonth {
+  margin: 26px 0 8px;
   font-family: var(--cjk);
   font-size: 13px;
-  color: var(--muted);
-}
-
-/* Batches lay out as cards in a responsive grid: 1 column on phones, 2 columns
-   on wide screens so a busy day doesn't become an endless single column. */
-.batchGrid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 14px;
-  margin-top: 14px;
-}
-@media (min-width: 880px) {
-  .batchGrid {
-    grid-template-columns: 1fr 1fr;
-    gap: 14px 18px;
-    align-items: start;
-  }
-}
-
-.batch {
-  border: 1px solid var(--line);
-  border-left: 3px solid var(--green);
-  border-radius: 10px;
-  padding: 12px 14px;
-  background: var(--panel);
-  min-width: 0;            /* let the card shrink so long titles/chips wrap */
-}
-
-/* Per-source flavor: left-rule colour mirrors the Läsning card kinds, so the
-   timeline reads at a glance (icon set lives in dagbok.js BATCH_FLAVORS). */
-/* Each flavor also gets a faint left-fading wash of its colour so cards group
-   visually by source at a glance (the colour "bleeds" in from the left rule). */
-.batch.flavor-scenario { border-left-color: var(--green);      background: linear-gradient(90deg, rgba(47, 111, 85, 0.05), var(--panel) 150px); }
-.batch.flavor-article  { border-left-color: var(--blue);       background: linear-gradient(90deg, rgba(49, 95, 125, 0.05), var(--panel) 150px); }
-.batch.flavor-news     { border-left-color: var(--red);        background: linear-gradient(90deg, rgba(155, 79, 67, 0.05), var(--panel) 150px); }
-.batch.flavor-adjsubst { border-left-color: var(--gold);       background: linear-gradient(90deg, rgba(169, 120, 42, 0.05), var(--panel) 150px); }
-.batch.flavor-sfi      { border-left-color: var(--green-dark); background: linear-gradient(90deg, rgba(31, 79, 62, 0.05), var(--panel) 150px); }
-.batch.flavor-other    { border-left-color: var(--muted);      background: linear-gradient(90deg, rgba(104, 117, 110, 0.05), var(--panel) 150px); }
-
-.batchIcon { line-height: 1; }
-
-.batchHeader {
-  display: flex;
-  align-items: flex-start;
-  gap: 8px;
-  flex-wrap: nowrap;
-  margin-bottom: 4px;
-}
-
-.batchIcon {
-  font-size: 18px;
-  flex: none;
-}
-
-.batchTitle {
-  flex: 1 1 auto;
-  min-width: 0;            /* allow long Swedish titles to wrap within the card */
-}
-
-.batchTitle {
-  margin: 0;
-  font-family: var(--cjk);
-  font-size: 16px;
-  color: var(--ink);
   font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--muted);
 }
 
-.batchCounts {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
+.dgDay {
+  margin: 0 0 12px;
+  padding: 14px 18px 12px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  scroll-margin-top: calc(var(--nav-h) + 12px);
+  transition: box-shadow 0.3s;
+}
+
+.dgDay.dgToday {
+  border-left: 3px solid var(--gold);
+}
+
+.dgDay.dgFlash {
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--gold) 45%, transparent);
+}
+
+.dgDate {
   margin: 0 0 8px;
-}
-
-/* Type-composition badge: a colored dot + count, reusing the site's chip palette
-   (词=green 词组=gold 句子=blue 语法=red) so the makeup reads at a glance. */
-.cBadge {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
   font-family: var(--cjk);
-  font-size: 11.5px;
-  color: var(--muted);
-  background: var(--panel-soft);
-  border-radius: 999px;
-  padding: 1px 9px 1px 7px;
-}
-.cBadge::before {
-  content: '';
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: var(--muted);
-  flex: none;
-}
-.cBadge-word::before { background: var(--green); }
-.cBadge-phrase::before { background: var(--gold); }
-.cBadge-sentence::before { background: var(--blue); }
-.cBadge-grammar::before { background: var(--red); }
-
-/* The title is the jump-to-Läsning link (replaces the old 阅读原文 button).
-   Reads as a plain title; reveals it's clickable on hover. A 📖 hint trails it. */
-.batchTitleLink {
-  color: inherit;
-  text-decoration: none;
-  cursor: pointer;
-  transition: color 0.15s;
-}
-.batchTitleLink::after {
-  content: '📖';
-  font-size: 0.72em;
-  margin-left: 6px;
-  opacity: 0;
-  transition: opacity 0.15s;
-}
-.batchTitleLink:hover { color: var(--blue); text-decoration: underline; }
-.batchTitleLink:hover::after { opacity: 0.7; }
-
-.typeRow {
-  display: grid;
-  grid-template-columns: 60px 1fr;
-  gap: 12px;
-  align-items: start;
-  padding: 6px 0;
+  font-size: 17px;
+  color: var(--green-dark);
 }
 
-.typeLabel {
-  font-family: var(--cjk);
+.dgDateAbs {
+  margin-left: 10px;
   font-size: 13px;
+  font-weight: 400;
   color: var(--muted);
-  padding-top: 4px;
-  text-align: right;
 }
 
-.chips {
+/* ---------- rows: label column + content ---------- */
+
+.dgRow {
+  display: grid;
+  grid-template-columns: 92px minmax(0, 1fr);
+  gap: 10px;
+  padding: 7px 0;
+  border-top: 1px dashed var(--line);
+}
+
+.dgRow:first-of-type {
+  border-top: 0;
+}
+
+.dgRowLabel {
   display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-
-.chip {
-  display: inline-flex;
   align-items: baseline;
-  gap: 6px;
-  padding: 4px 10px;
-  background: var(--panel-soft);
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  cursor: pointer;
+  gap: 5px;
+  font-family: var(--cjk);
   font-size: 14px;
   color: var(--ink);
-  font-family: Georgia, serif;
-  transition: background 0.12s, border-color 0.12s, transform 0.08s;
-}
-
-.chip:hover {
-  background: #dfeede;
-  border-color: var(--green);
-}
-
-.chip:active {
-  transform: translateY(1px);
-}
-
-.chip.known {
-  opacity: 0.55;
-  text-decoration: line-through;
-  text-decoration-color: var(--muted);
-}
-
-.chip.starred {
-  border-color: var(--gold);
-  box-shadow: 0 0 0 1px var(--gold) inset;
-}
-
-.chip .starGlyph {
-  color: var(--gold);
-  font-size: 11px;
-  margin-left: 2px;
-}
-
-.dayFlashBtn,
-.batchFlashBtn {
-  margin-left: 8px;
-  font-family: var(--cjk);
-  font-size: 12px;
-  padding: 3px 10px;
-  border: 1px solid var(--line);
-  background: var(--paper);
-  border-radius: 999px;
-  cursor: pointer;
-  color: var(--green-dark);
-  transition: background 0.15s, border-color 0.15s;
-}
-
-.dayFlashBtn:hover,
-.batchFlashBtn:hover {
-  background: var(--panel-soft);
-  border-color: var(--green);
-}
-
-.batchFlashBtn { margin-left: 0; flex: none; }
-
-/* De-emphasize the per-batch flashcard button: on pointer devices it stays
-   hidden until the card is hovered/focused, so the eye lands on content first.
-   Touch devices (no hover) keep it visible since they can't reveal on hover. */
-@media (hover: hover) {
-  .batchFlashBtn {
-    opacity: 0;
-    transition: opacity 0.15s, background 0.15s, border-color 0.15s;
-  }
-  .batch:hover .batchFlashBtn,
-  .batchFlashBtn:focus-visible {
-    opacity: 1;
-  }
-}
-
-/* Preview chip strip (always visible) + expand toggle + lazy body footer. */
-.batchPreview { margin: 0 0 2px; }
-.batchExpand { margin: 6px 0 0; }
-.batchFooter { margin-top: 8px; }
-.batchFooter a {
-  font-family: var(--cjk);
-  font-size: 12px;
-  color: var(--muted);
-  text-decoration: none;
-}
-.batchFooter a:hover { color: var(--blue); }
-
-/* 📖 jump to the readable Läsning article (batch header + peek panel) */
-.batchReadLink {
-  font-family: var(--cjk);
-  font-size: 12px;
-  padding: 3px 10px;
-  border: 1px solid var(--line);
-  background: var(--paper);
-  border-radius: 999px;
-  color: var(--blue);
-  text-decoration: none;
   white-space: nowrap;
-  transition: background 0.15s, border-color 0.15s;
 }
-.batchReadLink:hover { background: var(--panel-soft); border-color: var(--blue); }
 
-.batchHeader .batchReadLink { margin-left: 4px; }
-
-/* 展开学习项 toggle — reveals the chips inline for a source that also has a
-   Läsning article (collapsed by default; the chips live in 阅读站). */
-.batchToggle {
-  font-family: var(--cjk);
+.dgRowCount {
   font-size: 12px;
-  padding: 3px 10px;
-  border: 1px solid var(--line);
-  background: var(--paper);
-  border-radius: 999px;
-  cursor: pointer;
   color: var(--muted);
-  transition: background 0.15s, border-color 0.15s, color 0.15s;
-}
-.batchToggle:hover { background: var(--panel-soft); border-color: var(--blue); color: var(--blue); }
-.batchToggle[aria-expanded="true"] { color: var(--blue); border-color: var(--blue); }
-
-/* Collapsed batch body hides the chips + source-note footer (toggle reveals). */
-.batchBody.collapsed { display: none; }
-
-.peekRead { margin: 2px 0 10px; }
-
-.navButton {
-  border: 1px solid var(--line);
-  cursor: pointer;
-  font-family: var(--cjk);
 }
 
-.starredFilter.active {
-  background: var(--gold) !important;
-  border-color: var(--gold) !important;
-  color: #fff !important;
-}
-
-.chip .pos {
-  font-style: italic;
-  color: var(--muted);
-  font-size: 12px;
-}
-
-.chip .zh {
-  font-family: var(--cjk);
-  font-size: 13px;
-  color: var(--green-dark);
-}
-
-.chip[data-type="phrase"] { background: #fbf2e2; border-color: #ead7ad; }
-.chip[data-type="phrase"]:hover { background: #f5e7c5; border-color: var(--gold); }
-/* Sentences: compact, flat, left-aligned list. 中文 sits on its own line just
-   under the 瑞典语; a thin left rule + divider replaces the bulky card so each
-   sentence takes far less vertical space. */
-.typeRow[data-type="sentence"] .chips {
-  flex-direction: column;
-  gap: 0;
-  width: 100%;
-}
-.chip[data-type="sentence"] {
-  display: block;          /* override .chip flex; <button> stays a simple block */
-  width: 100%;
-  max-width: 680px;
+.dgList {
   margin: 0;
-  padding: 2px 8px 3px 10px;
-  background: transparent;
-  border: none;
-  border-left: 2px solid #d3dbe8;
-  border-radius: 0;
-  text-align: left;        /* <button> defaults to center — force left */
-  font-style: normal;
-  line-height: 1.32;
-}
-.chip[data-type="sentence"] + .chip[data-type="sentence"] {
-  border-top: 1px solid var(--line);   /* hairline divider between sentences */
-}
-.chip[data-type="sentence"]:hover {
-  background: #f1f4fa;
-  border-left-color: var(--blue);
-}
-.chip[data-type="sentence"] .chipTitle {
-  display: block;
-  font-style: italic;
-  font-size: 13.5px;
-}
-.chip[data-type="sentence"] .zh {
-  display: block;
-  font-style: normal;
-  font-size: 12px;
-  color: var(--muted);
+  padding: 0;
+  list-style: none;
 }
 
-/* Collapse long sentence lists: hide the overflow, reveal via a toggle.
-   !important so it beats the higher-specificity .chip[data-type=...] display. */
-.chipHidden { display: none !important; }
-.rowToggle {
-  align-self: flex-start;
-  margin: 4px 0 0 8px;
-  font-family: var(--cjk);
-  font-size: 12px;
-  padding: 2px 10px;
-  border: 1px dashed var(--line);
-  background: transparent;
-  border-radius: 999px;
-  color: var(--blue);
-  cursor: pointer;
-  transition: background 0.15s, border-color 0.15s;
-}
-.rowToggle:hover { background: var(--panel-soft); border-color: var(--blue); }
-.chip[data-type="grammar"] { background: #f3e9e7; border-color: #e0c4bf; }
-.chip[data-type="grammar"]:hover { background: #ecd9d5; border-color: var(--red); }
-
-/* ---------- Peek panel (inline detail) ---------- */
-
-.peekPanel[hidden] {
+.dgList:not(.dgOpen) > .dgHidden {
   display: none;
 }
 
-.peekPanel {
-  position: fixed;
-  right: 16px;
-  bottom: 16px;
-  width: min(440px, calc(100vw - 32px));
-  max-height: min(72vh, 640px);
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  box-shadow: 0 30px 80px rgba(32, 47, 38, 0.22);
+.dgEntry {
   display: flex;
-  flex-direction: column;
-  overflow: hidden;
-  z-index: 210;
-}
-
-.peekHeader {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-  padding: 12px 14px;
-  border-bottom: 1px solid var(--line);
-  background: var(--panel-soft);
-}
-
-.peekHeader h3 {
-  margin: 0;
-  font-size: 17px;
-  font-family: Georgia, serif;
-  color: var(--green-dark);
-}
-
-.peekActions {
-  display: flex;
-  gap: 6px;
-  align-items: center;
-}
-
-.peekOpen {
-  font-family: var(--cjk);
-  font-size: 12px;
-  color: var(--green-dark);
-  text-decoration: none;
-  border: 1px solid var(--line);
-  padding: 4px 8px;
-  border-radius: 6px;
-  background: var(--paper);
-}
-
-.peekOpen:hover { background: var(--panel); border-color: var(--green); }
-
-#peekClose {
-  background: transparent;
-  border: 0;
-  font-size: 18px;
-  cursor: pointer;
-  color: var(--muted);
-  line-height: 1;
-  padding: 4px 8px;
-}
-
-#peekClose:hover { color: var(--ink); }
-
-.peekToolbar {
-  display: flex;
-  gap: 6px;
-  padding: 8px 12px;
-  border-bottom: 1px solid var(--line);
-  background: var(--paper);
   flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 8px;
+  padding: 2px 0;
+  line-height: 1.45;
 }
 
-.peekActionBtn {
+.dgTitle {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.dgTitle:hover {
+  color: var(--green);
+  border-bottom-color: currentColor;
+}
+
+.dgZh {
+  font-family: var(--cjk);
+  font-size: 0.86em;
+  color: var(--muted);
+}
+
+.dgTag,
+.dgCefr {
+  flex: none;
+  font-family: var(--cjk);
+  font-size: 11px;
+  line-height: 1.6;
+  padding: 0 7px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.dgCefr {
+  padding: 0;
+  color: var(--muted);
+}
+
+.dgTag { background: var(--panel-soft); color: var(--muted); }
+.dgTag.kind-scenario { background: color-mix(in srgb, var(--green) 14%, transparent); color: var(--green); }
+.dgTag.kind-article  { background: color-mix(in srgb, var(--blue) 14%, transparent);  color: var(--blue); }
+.dgTag.kind-adjsubst { background: color-mix(in srgb, var(--gold) 16%, transparent);  color: var(--gold); }
+.dgTag.kind-news     { background: color-mix(in srgb, var(--red) 14%, transparent);   color: var(--red); }
+
+.dgMini {
+  flex: none;
+  text-decoration: none;
+  font-size: 13px;
+  opacity: 0.8;
+}
+
+.dgMini:hover {
+  opacity: 1;
+}
+
+/* 🔍 lookups: wrap of small chips */
+.dgRow-lookups .dgList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  padding-top: 1px;
+}
+
+.dgChip {
+  max-width: 100%;
+  padding: 1px 9px;
   border: 1px solid var(--line);
+  border-radius: 999px;
   background: var(--paper);
   color: var(--ink);
-  font-family: var(--cjk);
-  font-size: 12px;
-  padding: 4px 10px;
-  border-radius: 999px;
-  cursor: pointer;
-  transition: background 0.15s, border-color 0.15s, color 0.15s;
+  font-size: 13px;
+  line-height: 1.6;
+  text-decoration: none;
+  overflow-wrap: anywhere;
 }
 
-.peekActionBtn:hover {
+.dgChip:hover {
+  border-color: var(--green);
+  color: var(--green);
+}
+
+.dgChip.type-phrase   { border-color: color-mix(in srgb, var(--blue) 35%, var(--line)); }
+.dgChip.type-grammar  { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+.dgChip.type-sentence { font-style: italic; }
+
+.dgMore,
+.dgOlder {
+  margin-top: 4px;
+  padding: 2px 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--green-dark);
+  font-family: var(--cjk);
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.dgMore:hover,
+.dgOlder:hover {
   background: var(--panel-soft);
   border-color: var(--green);
 }
 
-.peekActionBtn.active {
-  background: var(--green-dark);
-  border-color: var(--green-dark);
-  color: #fff;
+.dgOlder {
+  display: block;
+  margin: 18px auto 0;
+  padding: 6px 16px;
+  font-size: 13px;
 }
 
-#peekStar.active {
-  background: var(--gold);
-  border-color: var(--gold);
-  color: #fff;
-}
-
-.peekBody {
-  padding: 14px 16px 18px;
-  overflow: auto;
+.dgEmpty {
   font-family: var(--cjk);
-  font-size: 14px;
-  line-height: 1.55;
-  color: var(--ink);
-}
-
-.peekBody .peekMeta {
-  font-size: 12px;
   color: var(--muted);
-  margin-bottom: 8px;
-}
-
-.peekBody pre {
-  background: #f1f4ee;
-  border-radius: 6px;
-  padding: 10px 12px;
-  overflow-x: auto;
-  font-size: 12px;
-  font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
-}
-
-.peekBody h1, .peekBody h2, .peekBody h3 {
-  font-family: Georgia, serif;
-  color: var(--green-dark);
-  margin: 14px 0 6px;
-}
-
-.peekBody h1 { font-size: 18px; }
-.peekBody h2 { font-size: 16px; }
-.peekBody h3 { font-size: 14px; }
-
-.peekBody table {
-  border-collapse: collapse;
-  margin: 8px 0;
-  font-size: 13px;
-  width: 100%;
-}
-.peekBody th, .peekBody td {
-  border: 1px solid var(--line, #d9e0d2);
-  padding: 4px 8px;
-  text-align: left;
-  vertical-align: top;
-}
-.peekBody th {
-  background: #f1f4ee;
-  font-weight: 600;
-  color: var(--green-dark);
-}
-
-/* ---------- Flashcard overlay ---------- */
-
-.flashOverlay[hidden] { display: none; }
-
-.flashOverlay {
-  position: fixed;
-  inset: 0;
-  z-index: 300;
-  background: rgba(23, 33, 27, 0.86);
-  backdrop-filter: blur(6px);
-  display: flex;
-  flex-direction: column;
-  color: #f6f8f2;
-  font-family: var(--cjk);
-}
-
-.flashBar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
-  padding: 14px 22px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
-}
-
-.flashMeta {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  font-size: 14px;
-  color: rgba(246, 248, 242, 0.85);
-}
-
-#flashIndex {
-  font-family: Georgia, serif;
-  font-size: 20px;
-  font-weight: 700;
-  color: #fff;
-  min-width: 80px;
-}
-
-.flashScopeLabel {
-  font-size: 13px;
-  color: rgba(246, 248, 242, 0.65);
-}
-
-.flashControls {
-  display: flex;
-  gap: 8px;
-}
-
-.flashControls button {
-  background: rgba(255, 255, 255, 0.12);
-  border: 1px solid rgba(255, 255, 255, 0.18);
-  color: #fff;
-  font-family: var(--cjk);
-  font-size: 13px;
-  padding: 6px 12px;
-  border-radius: 999px;
-  cursor: pointer;
-  transition: background 0.15s, border-color 0.15s;
-}
-
-.flashControls button:hover {
-  background: rgba(255, 255, 255, 0.24);
-  border-color: rgba(255, 255, 255, 0.4);
-}
-
-.flashStage {
-  flex: 1;
-  min-height: 0;
-  display: grid;
-  grid-template-columns: 80px 1fr 80px;
-  align-items: center;
-  padding: 28px;
-}
-
-.flashNav {
-  background: rgba(255, 255, 255, 0.08);
-  border: 1px solid rgba(255, 255, 255, 0.16);
-  color: #fff;
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;
-  font-size: 28px;
-  cursor: pointer;
-  justify-self: center;
-  transition: background 0.15s, transform 0.1s;
-  line-height: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.flashNav:hover {
-  background: rgba(255, 255, 255, 0.2);
-}
-
-.flashNav:active { transform: scale(0.92); }
-.flashNav:disabled { opacity: 0.25; cursor: not-allowed; }
-
-.flashCard {
-  background: var(--panel);
-  color: var(--ink);
-  border-radius: 18px;
-  padding: 48px 56px;
-  min-height: 280px;
-  max-height: 70vh;
-  width: 100%;
-  max-width: 720px;
-  margin: 0 auto;
-  box-shadow: 0 40px 100px rgba(0, 0, 0, 0.45);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  outline: none;
-  position: relative;
-  overflow: auto;
-}
-
-.flashCard:focus-visible {
-  outline: 3px solid var(--gold);
-}
-
-.flashFace {
-  width: 100%;
   text-align: center;
+  padding: 40px 0;
 }
 
-.flashFront .flashTerm {
-  font-family: Georgia, serif;
-  font-size: 44px;
-  font-weight: 600;
-  line-height: 1.2;
-  color: var(--green-dark);
-  word-break: break-word;
-}
-
-.flashFront .flashTermSmall {
-  font-size: 28px;
-}
-
-.flashFront .flashTypeChip {
-  display: inline-block;
-  margin-bottom: 18px;
-  padding: 4px 14px;
-  border-radius: 999px;
-  background: var(--panel-soft);
-  color: var(--green-dark);
-  font-family: var(--cjk);
-  font-size: 13px;
-  letter-spacing: 0.05em;
-}
-
-.flashFront .flashHintBack {
-  margin-top: 24px;
-  color: var(--muted);
-  font-size: 13px;
-  font-family: var(--cjk);
-}
-
-.flashBack .flashTerm {
-  font-family: Georgia, serif;
-  font-size: 28px;
-  color: var(--muted);
-  margin-bottom: 12px;
-  word-break: break-word;
-}
-
-.flashBack .flashAnswer {
-  font-family: var(--cjk);
-  font-size: 32px;
-  color: var(--green-dark);
-  line-height: 1.4;
-  word-break: break-word;
-}
-
-.flashBack .flashSub {
-  margin-top: 12px;
-  font-family: var(--cjk);
-  font-size: 16px;
-  color: var(--muted);
-  line-height: 1.5;
-}
-
-.flashBack .flashSub em { color: var(--ink); font-style: normal; }
-
-.flashHint {
-  text-align: center;
-  font-size: 12px;
-  color: rgba(246, 248, 242, 0.55);
-  padding: 0 0 18px;
-  margin: 0;
-}
-
-.flashEmpty {
-  text-align: center;
-  color: var(--muted);
-  font-family: var(--cjk);
-  font-size: 16px;
-  padding: 40px 20px;
-}
-
-/* ---------- Responsive ---------- */
+/* ---------- phone ---------- */
 
 @media (max-width: 760px) {
-  .recapHeader { padding: 16px 14px 8px; }
-  .recapMain { padding: 8px 14px 24px; }
-  .recapBrand h1 { font-size: 28px; }
-  .brandSub { font-size: 16px; }
-
-  .statsStrip {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    padding: 10px 12px;
-  }
-  .statN { font-size: 20px; }
-
-  .heatmap {
-    grid-auto-columns: 15px;
-    grid-template-rows: repeat(7, 15px);
-    gap: 4px;
-  }
-  .heatCell { width: 15px; height: 15px; }
-
-  .typeRow {
-    grid-template-columns: 1fr;
-    gap: 6px;
-  }
-  .typeLabel { text-align: left; padding-top: 0; }
-
-  .peekPanel {
-    right: 8px;
-    left: 8px;
-    bottom: calc(var(--nav-h) + 8px + env(safe-area-inset-bottom));
-    width: auto;
-    max-height: 64vh;
+  .dgHeader,
+  .dgDays {
+    padding-left: 16px;
+    padding-right: 16px;
   }
 
-  .flashStage {
-    grid-template-columns: 56px 1fr 56px;
-    padding: 14px;
-  }
-  .flashCard { padding: 28px 22px; min-height: 220px; }
-  .flashFront .flashTerm { font-size: 30px; }
-  .flashFront .flashTermSmall { font-size: 20px; }
-  .flashBack .flashAnswer { font-size: 22px; }
-  .flashBack .flashTerm { font-size: 20px; }
-  .flashNav { width: 40px; height: 40px; font-size: 22px; }
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    color-scheme: dark;
+  .dgHeader {
+    padding-top: 16px;
   }
 
-  /* Hardcoded light tints that don't read on a dark background. The shared
-     palette variables (--ink/--panel/...) already flip via styles.css; only
-     these literal colors need a dark counterpart. */
-  .heatCell { background: #233029; }
-  .heatCell.l0,
-  .legendCell.l0 { background: #20302a; }
-  .heatCell.l1,
-  .legendCell.l1 { background: #2f5a44; }
-  .heatCell.l2,
-  .legendCell.l2 { background: #468a63; }
-  .heatCell.l3,
-  .legendCell.l3 { background: #5fae8c; }
+  .dgHeader h1 {
+    font-size: 28px;
+  }
 
-  .chip:hover { background: var(--panel-soft); }
-  .chip[data-type="phrase"] { background: #3a3320; border-color: #5c5230; }
-  .chip[data-type="phrase"]:hover { background: #463d26; }
-  .chip[data-type="sentence"] { background: transparent; border-left-color: #38506b; }
-  .chip[data-type="sentence"] + .chip[data-type="sentence"] { border-top-color: var(--line); }
-  .chip[data-type="sentence"]:hover { background: #25303f; border-left-color: var(--blue); }
-  .chip[data-type="grammar"] { background: #3a2c2f; border-color: #5e4045; }
-  .chip[data-type="grammar"]:hover { background: #463438; }
+  .dgDay {
+    padding: 12px 14px 10px;
+    /* bottom tab bar on phones: no sticky top nav to clear */
+    scroll-margin-top: 12px;
+  }
 
-  .peekBody pre,
-  .peekBody th { background: #0f1714; }
-
-  /* Flavor washes: on a dark panel a dark tint barely shifts luminance, so use
-     brighter shades (the same hues, lightened) so the wash actually reads. */
-  .batch.flavor-scenario { background: linear-gradient(90deg, rgba(95, 174, 140, 0.10), var(--panel) 150px); }
-  .batch.flavor-article  { background: linear-gradient(90deg, rgba(110, 162, 200, 0.10), var(--panel) 150px); }
-  .batch.flavor-news     { background: linear-gradient(90deg, rgba(202, 132, 120, 0.10), var(--panel) 150px); }
-  .batch.flavor-adjsubst { background: linear-gradient(90deg, rgba(210, 176, 110, 0.10), var(--panel) 150px); }
-  .batch.flavor-sfi      { background: linear-gradient(90deg, rgba(95, 174, 140, 0.09), var(--panel) 150px); }
-  .batch.flavor-other    { background: linear-gradient(90deg, rgba(150, 165, 158, 0.09), var(--panel) 150px); }
-
-  /* Lift the timeline spine off the dark grid background so it doesn't look like
-     a stray artifact (the gold/green node already reads). */
-  .timeline::before { background: #2c3a33; }
-  .daySection::before { border-color: var(--panel); }
+  .dgRow {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 3px;
+  }
 }
