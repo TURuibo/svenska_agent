@@ -15,4 +15,6 @@ Follow the project playbook in `CLAUDE.md` §4 and the storage rules in
 3. **Dedup**, then store the full detail into `knowledge_base/` with bidirectional `[[wikilinks]]`.
    - Single item → store inline.
    - Whole text/image → create the `source-*` note, then spawn the `sv-librarian` subagent for the batch.
+     Then archive the readable text into `imported/` (CLAUDE.md §4 ⭐) and **continue with the
+     `sv-study-guide` skill §2 (逐段精读 + 补词 + 复核)** before the automatic `/sync`.
 4. Reply with a **concise chat digest** + a `📁 已录入: <path>` pointer. Do not ask for permission to store.

@@ -50,7 +50,7 @@ and how much detail to extract:
   files. Read it whenever you store anything.
 - `sv-assess` — how to assess and record the learner's level.
 - `sv-textbook-qr` — **教材拍照件（尤其带 QR 音频）的完整流程**：转写 → KB → `imported/` 文章 → 解 QR → 取音频 → 建听力集 → 两站互跳。Ruibo 发课本照片时必读。
-- `sv-study-guide` — **逐段精读**：把一篇文章分段、逐句拆结构/语法、每段词组表+生词表，量化并补齐生词覆盖（让所有实词在阅读站可点），发布前独立复核。Ruibo 说「看不懂/分段分析/有词没查」时用。
+- `sv-study-guide` — **逐段精读**：拍照/粘贴整篇新文章入库后的**默认最后一步**，也供 `/jingdu` 处理已有文章。分段逐句拆结构/语法、每段词组表+生词表，用 `tools/check-coverage.js` 量化并补齐生词（让所有实词在阅读站可点），发布前独立复核。
 - `sv-scenario` — **场景练习生成规范**: how to generate a Swedish dialogue/text/narrative, extract its learning items, and write them as an `inbox/` file with an embedded `svensk-export v1` block ready for `/import`.
 
 ### Subagents (重活 — the "how", isolated)
@@ -73,6 +73,7 @@ For a **single word/phrase/sentence**, don't spawn a subagent — just store it 
 - `/dagens-nyheter` — 抓取 5 条最新瑞典语简易新闻 (8 Sidor lättläst) 写入 `inbox/`（人读正文 + 导入块），供 `/import` 入库。每日由 routine `svensk-news-daily` 自动跑（见 §4.4）。
 - `/dagens-horovning` — 抓取最新一集 SVT「Nyheter på lätt svenska」字幕(原文+时间轴)配中文翻译+生词，生成 **Lyssna 听力站** 练习数据（见 §4.5）。
 - `/dagens-artikel` — 生成今日一篇 lättläst 阅读文章，按 day-of-year **轮换 8 种体裁**（传记/国情/历史/传统/自然/地方/发明/科普）写入 `inbox/`（人读正文 + 导入块），供 `/import` 入库。每天由 **remote 定时 session** 自动跑（见 §4.6）。
+- `/jingdu` — **逐段精读**：`/jingdu <slug>` 给已有文章做分段逐句拆解 + 补齐生词 + 复核（`sv-study-guide`）。拍照的新文章入库后会默认做，不用再敲这个命令。
 - `/dagens-biografi` — `/dagens-artikel` 体裁 0 的**单独入口**：强制生成一篇 SFI 风格人物传记（仿 Astrid Lindgren / Zlatan）。手动想指定写某人时用它。
 
 ---
@@ -147,6 +148,9 @@ confirmation, then analyze and store. **存完后自动运行 `/sync`**（commit
 >    grammar = `name | zh | en`；内容直接取自 sv-librarian 刚写入的 KB 笔记）。阅读站的「学习项」面板
 >    **只从这个块解析**——漏掉它文章正文能读、但单词/词组/句子面板会是空的（2026-07-01 Gotland 篇教训）。
 > 3. `node tools/build-reading-site.js` 重建阅读站数据，再随 `/sync` 一起提交。
+> 4. **默认接着做逐段精读**（Ruibo 固定偏好，2026-10-02 起）：整篇新文章入库后，按 `sv-study-guide` 技能 §2
+>    用 `tools/check-coverage.js` 量化 → 补齐生词 → 写「🔍 逐段精读」→ 复核 → 随本次 `/sync` 一起提交。
+>    只有一两句的短文本可以跳过。已有文章按需用 `/jingdu <slug>`。
 >
 > 这样拍照素材既拆进 KB（Sök 可搜 + 生词可点查），又能在阅读站当文章读（🇸🇪/🇨🇳 切换）。
 > （`/scenario`、`/dagens-artikel`、`/dagens-nyheter` 等生成类已经经 `/import` 自动归档到 `imported/`，

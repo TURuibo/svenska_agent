@@ -122,7 +122,8 @@ node tools/build-reading-site.js   # 输出末尾应显示 "N with audio"
 | QR 解不出 | 返回空串 | 放大倍数调到 3–4×，或让 Ruibo 用手机扫了把链接发来 |
 | 交互式会话 | — | **不自动开 PR**（§4.7 只约束 routine）；要合并时问一句 |
 
-## 8. 逐段精读（推荐）
+## 8. 逐段精读（默认必做）
 
-课文入库并配好音频后，按 **`sv-study-guide`** 技能给这篇做「🔍 逐段精读」+ 补齐生词 + 复核：
-读者边听 🎧 边在 📖 里逐句看结构、点查每个实词。参考范例：`imported/paste-2026-09-22-nils-van-der-poel.md`。
+课文入库、配好音频后，**不用等 Ruibo 开口**，直接按 **`sv-study-guide`** 技能 §2 接着做：
+跑 `tools/check-coverage.js` 量化覆盖率 → 补齐生词 → 写「🔍 逐段精读」→ 复核改错 → 实测 → 跟本次的 `/sync` 一起提交。
+这样他可以一边听 🎧，一边在 📖 里逐句看结构、点查每个实词。参考范例：`imported/paste-2026-09-22-nils-van-der-poel.md`。
