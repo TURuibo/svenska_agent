@@ -1,7 +1,7 @@
 ---
 description: 抓取一篇瑞典政府机构的易读页面（lättläst）写入 inbox/（瑞典语原文 + 中文翻译 + svensk-export 导入块），专补社会 / 工作 / 经济 / 住房 / 学校 / 健康类缺口词，供 /import 入库
 argument-hint: "[网址 | 主题代码 T14/T11/T13/T10/T12/T04/T05 | 来源名 riksdagen/informationsverige/val/skolverket/socialstyrelsen/1177] [YYYY-MM-DD] —— 都可选；裸调 = 自动按缺口最多的主题挑一页"
-allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep, Bash(node tools/vocab-progress.js:*)
+allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep, Bash(node tools/vocab-progress.js:*), Bash(python3 tools/fetch-page-text.py:*)
 ---
 
 从**瑞典政府机构的易读页面**（lättläst / lätt svenska）抓**一篇真实文本**，写成「可读正文 + `svensk-export v1` 导入块」，
@@ -36,8 +36,10 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep, Bash(node too
 
 ## 2. 抓正文 (Fetch — 只用原文，不改写)
 
-1. `WebFetch` 选中的页面，提示里要求「逐字返回页面正文（标题、段落、列表），不要总结」。入口页本身多是链接列表，
-   要点进具体子页面再抓。
+1. 用 `python3 tools/fetch-page-text.py <网址>` 抓页面正文（curl 取原始 HTML，只去标签，**真正逐字**）。
+   ⚠️ **不要用 `WebFetch` 取正文**——它会先经模型压缩改写，拿到的不是原文（2026-10-02 试跑教训）。`WebFetch` 只用来
+   浏览入口页、找子页面链接；脚本失败（如 403）才退回 `WebFetch`，并在 📌 教学备注里注明「正文经 WebFetch 提取，可能非逐字」。
+   入口页本身多是链接列表，要点进具体子页面再抓。
 2. 取**一段连贯的正文，约 150–350 词**（页面长就截一个完整小节，从小节开头取到小节结尾，不要从句子中间截断）。
 3. **逐字照抄机构原文**（可以去掉导航、按钮文字、「Läs mer」之类），**不得改写、扩写、编造**。抓取失败就换一页，
    不要凭记忆写。
