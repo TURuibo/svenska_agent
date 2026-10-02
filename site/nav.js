@@ -1,6 +1,6 @@
 /* Shared site navigation — single source of truth for cross-page nav.
  *
- * Each page sets <body data-site="dagbok|reading|listening|forms|sok"> and loads
+ * Each page sets <body data-site="dagbok|reading|tala|listening|forms|sok"> and loads
  * this script (./nav.js at the site root, ../nav.js from a sub-folder). The script
  * injects an identical nav into every page: a sticky top bar on desktop and a
  * fixed bottom tab bar on phones (styled by .siteNav rules in styles.css).
@@ -17,6 +17,7 @@
   var DEST = [
     { id: 'dagbok', icon: '📅', label: 'Dagbok', href: atRoot ? './' : '../' },
     { id: 'reading', icon: '📖', label: 'Läsning', href: base + 'reading/' },
+    { id: 'tala', icon: '🗣️', label: 'Tala', href: base + 'tala/' },
     { id: 'listening', icon: '🎧', label: 'Lyssna', href: base + 'listening/' },
     { id: 'forms', icon: '📐', label: 'Former', href: base + 'forms/' },
     { id: 'sok', icon: '🔍', label: 'Sök', href: base + 'sok/' }

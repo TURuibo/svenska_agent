@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 // Build the Dagbok day index: one compact record per active day listing what was
-// added that day — 📖 reading articles, 🎧 listening episodes, 🔍 individual
-// lookups, 📝 older sources without an article — so the home page can show
-// "what did I practise on day X" and link straight into Läsning / Lyssna / Sök
-// without loading the multi-MB KB + reading data itself.
+// added that day — 📖 reading articles, 🗣️ speaking scenarios, 🎧 listening
+// episodes, 🔍 individual lookups, 📝 older sources without an article — so the
+// home page can show "what did I practise on day X" and link straight into
+// Läsning / Tala / Lyssna / Sök without loading the multi-MB KB + reading data itself.
 //
 // Input is the OTHER builders' output (run them first, as the GitHub Action does):
 //   site/kb-index.js                    ← tools/build-kb-site.js
@@ -68,7 +68,7 @@ function trunc(s, n) {
 
 const days = new Map(); // date -> { reading, listening, lookups, sources }
 function day(date) {
-  if (!days.has(date)) days.set(date, { date, reading: [], listening: [], lookups: [], sources: [] });
+  if (!days.has(date)) days.set(date, { date, reading: [], speaking: [], listening: [], lookups: [], sources: [] });
   return days.get(date);
 }
 
@@ -137,16 +137,20 @@ for (const src of notes) {
   day(date).sources.push({ slug: src.slug, label: trunc(sourceLabel(src), 80), count });
 }
 
-// ---------- 📖 reading ----------
+// ---------- 📖 reading / 🗣️ speaking ----------
+// Scenarios live on the Tala (口语) page, everything else on Läsning.
+const FORM_LABELS = { dialog: '对话', text: '文本', story: '故事' };
 for (const [date, list] of articlesByDate) {
   for (const a of list) {
-    day(date).reading.push({
+    const speaking = a.kind === 'scenario';
+    day(date)[speaking ? 'speaking' : 'reading'].push({
       slug: a.slug,
       title: trunc(a.title.replace(/^🇸🇪\s*/, ''), 120),
-      kind: a.kind,
-      kindLabel: a.kindLabel ? a.kindLabel.zh : a.kind,
+      kind: speaking ? a.form || 'text' : a.kind,
+      kindLabel: speaking ? FORM_LABELS[a.form] || '情景' : a.kindLabel ? a.kindLabel.zh : a.kind,
       cefr: a.cefr || '',
       ep: a.listening ? a.listening.id : '',
+      roles: a.dialog ? a.dialog.speakers.length : 0,
     });
   }
 }
@@ -155,7 +159,7 @@ for (const [date, list] of articlesByDate) {
 // An episode already reachable as the 🎧 link of a same-day article row isn't
 // listed again; other episodes (incl. a second recording of one text) are.
 const articleEp = new Set();
-for (const d of days.values()) for (const r of d.reading) if (r.ep) articleEp.add(`${d.date}|${r.ep}`);
+for (const d of days.values()) for (const r of [...d.reading, ...d.speaking]) if (r.ep) articleEp.add(`${d.date}|${r.ep}`);
 for (const ep of episodes) {
   const date = ep.date || dateInSlug(ep.id);
   if (!ISO.test(date) || articleEp.has(`${date}|${ep.id}`)) continue;
@@ -182,10 +186,11 @@ for (const n of notes) {
 
 // ---------- emit ----------
 const out = Array.from(days.values())
-  .filter((d) => d.reading.length || d.listening.length || d.lookups.length || d.sources.length)
+  .filter((d) => d.reading.length || d.speaking.length || d.listening.length || d.lookups.length || d.sources.length)
   .sort((a, b) => b.date.localeCompare(a.date));
 for (const d of out) {
   d.reading.sort((a, b) => a.kind.localeCompare(b.kind) || a.title.localeCompare(b.title));
+  d.speaking.sort((a, b) => a.kind.localeCompare(b.kind) || a.title.localeCompare(b.title));
   d.listening.sort((a, b) => a.title.localeCompare(b.title));
   d.lookups.sort((a, b) => ITEM_ORDER[a.type] - ITEM_ORDER[b.type] || a.label.localeCompare(b.label));
   d.sources.sort((a, b) => a.label.localeCompare(b.label));
@@ -198,6 +203,7 @@ fs.writeFileSync(outPath, `window.DAGBOK_DATA = ${JSON.stringify({ generatedAt, 
 const sum = (k) => out.reduce((n, d) => n + d[k].length, 0);
 console.log(
   `Generated ${path.relative(repoRoot, outPath)} — ${out.length} days: ` +
-    `${sum('reading')} reading, ${sum('listening')} listening, ${sum('lookups')} lookups, ${sum('sources')} sources ` +
+    `${sum('reading')} reading, ${sum('speaking')} speaking, ${sum('listening')} listening, ` +
+    `${sum('lookups')} lookups, ${sum('sources')} sources ` +
     `(${(fs.statSync(outPath).size / 1024).toFixed(0)} KB).`
 );

@@ -1,0 +1,278 @@
+/* Tala — 口语练习. Layered on ../reading/reading.css (same list + pane layout);
+   this file styles the sub-genre badges and the practice panel (tala.js).
+   Colours come from the shared tokens in ../styles.css, so dark mode follows. */
+
+/* ---------- sub-genre badges (对话 / 文本 / 故事) ---------- */
+.cardKind.form-dialog { background: color-mix(in srgb, var(--green) 14%, transparent); color: var(--green); }
+.cardKind.form-text   { background: color-mix(in srgb, var(--blue) 14%, transparent);  color: var(--blue); }
+.cardKind.form-story  { background: color-mix(in srgb, var(--gold) 16%, transparent);  color: var(--gold); }
+
+/* ---------- panel shell ---------- */
+.practiceSlot:empty { display: none; }
+
+.talaPanel {
+  margin: 4px 0 22px;
+  padding: 14px 16px 16px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--panel);
+  box-shadow: 0 2px 12px rgba(32, 47, 38, 0.06);
+  font-family: var(--cjk);
+}
+
+.tlHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 10px;
+  margin-bottom: 10px;
+}
+.tlTitle { font-size: 15px; font-weight: 700; color: var(--green-dark); }
+.tlSpacer { flex: 1 1 auto; }
+
+.tlTabs { display: inline-flex; gap: 4px; padding: 3px; border-radius: 999px; background: var(--panel-soft); }
+.tlTab {
+  border: 0;
+  border-radius: 999px;
+  padding: 5px 12px;
+  background: transparent;
+  color: var(--muted);
+  font-family: var(--cjk);
+  font-size: 13px;
+  cursor: pointer;
+}
+.tlTab.on { background: var(--panel); color: var(--green-dark); font-weight: 700; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12); }
+
+/* segmented control: 语速 / 停顿 */
+.tlSeg { display: inline-flex; align-items: center; border: 1px solid var(--line); border-radius: 999px; overflow: hidden; }
+.tlSegLabel { padding: 0 8px; font-size: 12px; color: var(--muted); }
+.tlSegBtn {
+  border: 0;
+  border-left: 1px solid var(--line);
+  padding: 4px 10px;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--cjk);
+  font-size: 12px;
+  cursor: pointer;
+}
+.tlSeg .tlSegBtn:first-child { border-left: 0; }
+.tlSegBtn.on { background: var(--green); color: #fff; }
+
+.tlBtn {
+  font-family: var(--cjk);
+  font-size: 13px;
+  cursor: pointer;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 5px 12px;
+  white-space: nowrap;
+}
+.tlBtn:hover { border-color: var(--gold); }
+.tlBtn.primary { background: var(--green); border-color: var(--green); color: #fff; font-weight: 600; }
+.tlBtn.primary:hover { background: var(--green-dark); border-color: var(--green-dark); }
+.tlBtn.on { background: var(--blue); border-color: var(--blue); color: #fff; }
+.tlBtn.rec { background: var(--red); border-color: var(--red); color: #fff; animation: tlPulse 1.1s ease-in-out infinite; }
+
+.tlIntro { margin: 0 0 12px; font-size: 13px; line-height: 1.65; color: var(--muted); }
+.tlIntro b { color: var(--ink); }
+.tlNote { margin: 6px 0 10px; font-size: 12px; color: var(--gold); }
+.tlHint { font-size: 12px; color: var(--muted); }
+
+.tlBar, .tlToggles {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+.tlBarRole { font-size: 14px; }
+.tlBarRole b { color: var(--green-dark); }
+
+/* ---------- role picker ---------- */
+.tlRoles { display: flex; flex-wrap: wrap; gap: 10px; }
+.tlRole {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  min-width: 128px;
+  padding: 10px 14px;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--sp, var(--green));
+  border-radius: 12px;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--cjk);
+  text-align: left;
+  cursor: pointer;
+}
+.tlRole:hover { border-color: var(--sp, var(--green)); background: var(--panel-soft); }
+.tlRole.listen { --sp: var(--muted); }
+.tlRoleName { font-size: 15px; font-weight: 700; }
+.tlRoleName small { font-weight: 400; color: var(--muted); }
+.tlRoleMeta { font-size: 12px; color: var(--muted); }
+
+/* one accent per speaker (by order of appearance) */
+.tlSp0 { --sp: var(--green); }
+.tlSp1 { --sp: var(--blue); }
+.tlSp2 { --sp: var(--gold); }
+.tlSp3 { --sp: var(--red); }
+.tlSp4 { --sp: #7a63a8; }
+.tlSp5 { --sp: #3c8c8c; }
+
+/* ---------- role-play script (chat bubbles) ---------- */
+.tlScript {
+  position: relative;
+  max-height: min(62vh, 620px);
+  overflow-y: auto;
+  padding: 6px 4px 6px 0;
+  border-top: 1px solid var(--line);
+  scroll-behavior: smooth;
+}
+
+.tlScene {
+  margin: 16px 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px dashed var(--line);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--gold);
+}
+.tlStage {
+  margin: 10px auto;
+  max-width: 90%;
+  text-align: center;
+  font-size: 13px;
+  color: var(--muted);
+}
+.tlStage em { font-family: "Iowan Old Style", Georgia, serif; }
+.tlStage .tlZh { display: block; margin-top: 2px; }
+
+.tlTurn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 10px 0;
+  cursor: pointer;
+}
+.tlTurn.mine { align-items: flex-end; }
+.tlWho { margin: 0 6px 3px; font-size: 12px; font-weight: 700; color: var(--sp); }
+.tlBubble {
+  max-width: 86%;
+  padding: 9px 13px;
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--sp);
+  border-radius: 4px 14px 14px 14px;
+  background: var(--paper);
+  transition: box-shadow 0.15s, opacity 0.15s;
+}
+.tlTurn.mine .tlBubble {
+  border-left: 1px solid var(--line);
+  border-right: 3px solid var(--sp);
+  border-radius: 14px 4px 14px 14px;
+  background: color-mix(in srgb, var(--sp) 9%, var(--panel));
+}
+.tlTurn.past .tlBubble { opacity: 0.72; }
+.tlTurn.current .tlBubble { opacity: 1; box-shadow: 0 0 0 2px var(--sp); }
+
+.tlSv {
+  font-family: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  font-size: 17px;
+  line-height: 1.5;
+  color: var(--ink);
+}
+.tlZh { margin-top: 3px; font-size: 13px; line-height: 1.55; color: var(--muted); }
+/* your not-yet-said line: blurred until you reveal it (the 中文 cue stays sharp) */
+.tlTurn.hidden .tlSv { filter: blur(6px); user-select: none; -webkit-user-select: none; }
+.tlTurn.hidden.current .tlZh { color: var(--ink); font-size: 14px; }
+
+.tlActs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-top: 9px;
+  padding-top: 8px;
+  border-top: 1px dashed var(--line);
+}
+.tlCue { width: 100%; font-size: 13px; font-weight: 700; color: var(--red); }
+
+.tlRec { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 8px; font-size: 12px; color: var(--muted); }
+.tlRec audio { height: 32px; max-width: 100%; }
+
+.tlDone {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 18px 0 8px;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--green-dark);
+}
+
+/* ---------- shadowing card ---------- */
+.tlCard {
+  margin-bottom: 12px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--paper);
+}
+.tlCard.gap { border-color: var(--red); box-shadow: 0 0 0 1px var(--red) inset; }
+.tlCardTop { display: flex; align-items: center; gap: 10px; font-size: 12px; color: var(--muted); }
+.tlCardWho { font-weight: 700; color: var(--blue); }
+.tlPhase { font-weight: 700; color: var(--green-dark); }
+.tlCard.gap .tlPhase { color: var(--red); }
+.tlCardSv {
+  margin: 12px 0 4px;
+  font-family: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  font-size: 22px;
+  line-height: 1.45;
+  color: var(--ink);
+  transition: filter 0.2s;
+}
+.tlCardSv.blind { filter: blur(8px); user-select: none; -webkit-user-select: none; }
+.tlCardZh { font-size: 14px; line-height: 1.6; color: var(--muted); }
+.tlGap { height: 4px; margin: 12px 0; border-radius: 4px; background: var(--line); overflow: hidden; }
+.tlGapBar { height: 100%; width: 0; background: var(--red); animation: tlFill linear forwards; }
+.tlCtrls { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+
+.tlAll { margin-top: 4px; font-size: 13px; }
+.tlAll summary { cursor: pointer; color: var(--muted); }
+.tlAll ol { max-height: 260px; overflow-y: auto; margin: 8px 0 0; padding-left: 26px; }
+.tlAll li {
+  padding: 4px 6px;
+  border-radius: 6px;
+  font-family: "Iowan Old Style", Georgia, serif;
+  font-size: 15px;
+  line-height: 1.45;
+  cursor: pointer;
+}
+.tlAll li:hover { background: var(--panel-soft); }
+.tlAll li.current { background: color-mix(in srgb, var(--green) 14%, transparent); }
+.tlAll li b { font-family: var(--cjk); font-size: 12px; color: var(--blue); }
+
+@keyframes tlFill { from { width: 0; } to { width: 100%; } }
+@keyframes tlPulse { 50% { opacity: 0.65; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .tlBtn.rec { animation: none; }
+  .tlScript { scroll-behavior: auto; }
+}
+
+/* ---------- phones ---------- */
+@media (max-width: 760px) {
+  .talaPanel { padding: 12px 12px 14px; border-radius: 12px; }
+  .tlHead .tlSpacer,
+  .tlBar .tlSpacer { display: none; }
+  .tlBubble { max-width: 94%; }
+  .tlSv { font-size: 16px; }
+  .tlCardSv { font-size: 19px; }
+  .tlRole { flex: 1 1 calc(50% - 10px); min-width: 0; }
+  .tlScript { max-height: 58vh; }
+}
