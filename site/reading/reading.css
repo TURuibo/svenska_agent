@@ -700,3 +700,54 @@ body.vocabPopOpen { overflow: hidden; }   /* lock background scroll while the sh
   .itemGroup { flex-direction: column; gap: 4px; }
   .itemGroupLabel { flex: none; text-align: left; padding-top: 0; }
 }
+
+/* ---------- 题材 / 主题 filters + 🎯 focus texts ---------- */
+.filterSelect { display: inline-flex; align-items: center; gap: 6px; }
+.filterSelect select {
+  font-family: var(--cjk);
+  font-size: 13px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 5px 10px;
+  background: var(--paper);
+  color: var(--ink);
+  max-width: 190px;
+  cursor: pointer;
+}
+.filterSelect select:hover, .filterSelect select:focus { border-color: var(--gold); outline: none; }
+#filterFocus.active { background: var(--gold); border-color: var(--gold); }
+
+.cardKind.kind-fokus     { background: rgba(169, 120, 42, 0.18); color: var(--gold); }
+.cardKind.kind-myndighet { background: rgba(31, 79, 62, 0.14); color: var(--green-dark); }
+
+.targetPanel {
+  border: 1px solid rgba(169, 120, 42, 0.45);
+  background: rgba(169, 120, 42, 0.07);
+  border-radius: 12px;
+  padding: 10px 12px;
+  margin: 10px 0 16px;
+  font-family: var(--cjk);
+}
+.targetHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 10px;
+  font-weight: 700;
+  color: var(--gold);
+  margin-bottom: 8px;
+}
+.targetSub { font-weight: 400; font-size: 12px; color: var(--muted); }
+.targetOva { margin-left: auto; font-weight: 400; font-size: 13px; color: var(--blue); text-decoration: none; }
+.targetOva:hover { text-decoration: underline; }
+.itemChip.targetChip { border-color: rgba(169, 120, 42, 0.5); }
+.itemChip.targetChip.learned .itemSv::before { content: '✓ '; color: var(--green); }
+
+/* target words in the Swedish original */
+.articleBody strong.targetStrong,
+.articleBody .vocabWord.targetWord {
+  background: rgba(169, 120, 42, 0.18);
+  border-radius: 3px;
+  padding: 0 2px;
+}
+.articleBody strong.targetStrong { font-weight: 700; }

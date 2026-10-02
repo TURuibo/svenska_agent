@@ -237,7 +237,7 @@ thematic development · coherence & cohesion · propositional precision · spoke
   `known: true` = **0**，也就是还没评估过。这些是**接触/查过的词**，不等于掌握。
 - `imported/` 各类文章原文的 LIX 平均值：scenario 24 · biografi 30 · paste（课本/讲义）32（最高 42）· plats 38。
 - **完整分析（2026-10-02）**：`profile/vocab-analysis.md`。结论是 KB 词汇面 ≈ A2 扎实、B1 一半（SFI C）；
-  缺口清单在 `profile/vocab-gaps.md`（P1 297 · P2 1 010 · P3 903），复测用 `python3 tools/vocab-coverage.py`。
+  缺口清单在 `profile/vocab-gaps.md`（P1 297 · P2 1 009 · P3 903），复测用 `python3 tools/vocab-coverage.py`。
 - 估词汇量的做法：从 KB 按 CEFR 分层抽样（如每级 20 词），让 Ruibo 标"认得 / 不认得"，
   每层的认得比例 × 该层词数 = 估计认得量。`/assess` 可以用这个方法。
 

@@ -31,13 +31,14 @@ https://turuibo.github.io/svenska_agent/
 | **Läsning** 📖 | `site/reading/` | Read articles / news / drills with toggleable 🇨🇳 translation |
 | **Tala** 🗣️ | `site/tala/` | Speaking: the scenarios, with 🎭 dialog role-play and 🗣️ shadowing |
 | **Lyssna** 🎧 | `site/listening/` | SVT easy-Swedish listening with synced bilingual transcript |
+| **Öva** 🔁 | `site/ova/` | Multiple-choice vocabulary review (🎯 gap words / recent / all) with spaced repetition |
 | **Former** 📐 | `site/forms/` | Word forms grouped by 词性 / date |
 | **Sök** 🔍 | `site/sok/` | Dictionary / full-text search tool (formerly the home page) |
 
 ## Navigation (`nav.js`)
 
 Every page sets `<body data-site="…">` and loads `nav.js`, which injects one consistent nav so you
-can jump between **all six** pages from any page. On desktop it's a slim sticky **top bar**; on
+can jump between **all seven** pages from any page. On desktop it's a slim sticky **top bar**; on
 phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted). Add a new
 destination once, in `nav.js`'s `DEST` list — never per page.
 
@@ -82,6 +83,14 @@ After running the command in CC and `/sync`-ing, the next site rebuild turns tho
 clickable KB vocab here. The 📥 want-to-learn queue stores the **tapped surface form** (`/learn`
 lemmatizes on import). See CLAUDE.md §4.2 for the full flow.
 
+**Filters (2026-10-02):** 题材 (genre: 论述 · 书信 · 说明文 · 新闻 · 政府信息 · 课文 · 词形练习 …) and 主题
+(topic code T01–T21 from `profile/vocab-gaps.json`) dropdowns, plus **🎯 补弱项**. New texts declare
+them in `**题材:** / **主题:**` lines; older files get a genre (and, where unambiguous, a topic) from
+their filename prefix in `tools/build-reading-site.js`. `scenario-<date>-fokus-*` (gap-targeted texts)
+and `myndighet-*` (/lattlast) are shown here, not in Tala. A text with a `**目标词:**` line gets a
+**🎯 本篇目标词** panel (✓ = already imported, chip opens the note) and its target words highlighted in
+the Swedish original. `#focus=1` opens the list pre-filtered to 🎯 texts.
+
 ## Tala (speaking)
 
 `site/tala/` is the 口语 page for every `scenario-*` text (moved out of Läsning on 2026-10-02). It is
@@ -103,6 +112,25 @@ dialog-pack 🇸🇪 / 🇨🇳 fenced blocks); the 中文 is attached only when
 turns. Old `reading/#article=scenario-…` links redirect to Tala (and vice versa), so Former / Lyssna /
 bookmarks keep working.
 
+## Öva (review)
+
+Multiple-choice review over the KB word notes (`kb-index.js`). Decks: **🎯 补弱项** — gap words from
+the 2026-10-02 vocabulary analysis that now have a KB note (`vocab-progress.js` → `learned`),
+**🆕 最近新词** (created in the last 21 days) and **📚 全部**, with an optional CEFR filter.
+
+| Leitner box | Question |
+|-------------|----------|
+| 0–1 | ① 看瑞典语选中文 (sv → zh) |
+| 2–3 | ② 看中文选瑞典语 (zh → sv) |
+| 4+  | ③ 句子选词 — cloze from a KB sentence note (options are lemmas); falls back to ② |
+
+Distractors share the word class and preferably a topic / CEFR level, and never overlap the answer's
+Chinese gloss (so `jobba` is never a wrong option for `arbeta`). Right → next box (due in 1 / 2 / 4 / 7 /
+14 / 30 days); wrong → box 0 and asked again later in the round. Keys: `1`–`4`, `Enter`.
+Progress is per device (`localStorage`, `ova.state.v1`); **📋 复制结果给 CC** copies an
+`ova-results v1` block of cumulative counts, and `/ova` (→ `tools/ova-sync.js`) writes it into the
+notes' `reviewed` / `review_count` / `interval` / `ease` and marks well-known words `known: true`.
+
 ## Dagbok (home)
 
 A slim **entry page**: "what did I practise on day X?" — one card per active day (newest first,
@@ -123,6 +151,10 @@ panel and flashcards were removed 2026-10-02.)
 
 The page loads only `site/dagbok-data.js` (~80 KB), built by `tools/build-dagbok-data.js` from the
 other three generated data files — run it **after** them (the Action does).
+
+Above the days, **📊 词汇进度** (`vocab-card.js`, data `site/vocab-progress.js` from
+`tools/vocab-progress.js`) shows SVALex-core coverage A1/A2/B1 against the 2026-10-02 baseline, how many
+P1/P2 gap words are done, the themes with the most P1 words left, and links to 🎯 texts / Öva / the gap list.
 
 The old `/recap/` URL now redirects here. Dark mode follows the OS setting on every page.
 

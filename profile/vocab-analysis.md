@@ -13,7 +13,7 @@
    教材核心词：A1 98% · A2 82% · B1 54%
    最常用 4 000 词里覆盖 ≈ 1 880 个 → Milton 标尺 A2 段（1 500–2 500）
 补完 297 个 P1 词       → B1 核心 68%，常用 4 000 词 ≈ 2 180 个
-补完 P1 + P2 共 1 307 个 → B1 核心 93%，常用 4 000 词 ≈ 3 140 个 → B1 段 = SFI D 的词汇量
+补完 P1 + P2 共 1 306 个 → B1 核心 93%，常用 4 000 词 ≈ 3 140 个 → B1 段 = SFI D 的词汇量
 最大缺口不在生活词，而在「抽象 / 观点 / 论证」词（SFI D 写论述文正好要用）。
 ```
 
@@ -104,8 +104,8 @@
 |------|---------|------------------------|-------------------|--------------|---------|
 | 现在（KB + 基础词） | — | 98 / 82 / 54% | 73 / 42 / 28% | 1 880 | SFI C（A2） |
 | **+ P1** | 297 | 98 / 91 / 68% | 81 / 51 / 34% | 2 180 | SFI C+ |
-| **+ P1 + P2** | 1 307 | 100 / 97 / **93%** | 93 / 78 / 65% | **3 140** | **SFI D（B1）** |
-| + 全部缺口（含 P3） | 2 210 | 100 / 100 / 100% | 100 / 100 / 100% | 3 960 | B1+ |
+| **+ P1 + P2** | 1 306 | 100 / 97 / **93%** | 93 / 78 / 65% | **3 140** | **SFI D（B1）** |
+| + 全部缺口（含 P3） | 2 209 | 100 / 100 / 100% | 100 / 100 / 100% | 3 960 | B1+ |
 
 > P3（903 个）大多低频或专业（法律、宗教、军事、体育术语），性价比低，可以放到 grund 阶段再说。
 
@@ -139,7 +139,7 @@
 | 🧠 思考·观点·论证（抽象） | **73** | 196 | 117 | **最大缺口**：`orsak`、`slutsats`、`hävda`、`påstå`、`argument`、`å ena sidan … å andra sidan` |
 | ⚙️ 通用动词 | **36** | 104 | 66 | `betyda`、`beskriva`、`genomföra`、`bidra till`、`hantera`、`inträffa` |
 | 🏛️ 社会·政治·法律 | **30** | 121 | 230 | `stat`、`system`、`välfärd`、`integration`、`bevilja`、`skyldighet` |
-| 🔤 通用形容词/副词 | 23 | 108 | 68 | `nödvändig`、`åtminstone`、`delvis`、`antagligen`、`självklar` |
+| 🔤 通用形容词/副词 | 23 | 107 | 68 | `nödvändig`、`åtminstone`、`delvis`、`antagligen`、`självklar` |
 | 🎓 学校·教育 | 22 | 33 | 21 | `kunskap`、`redovisa`、`behörighet`、`sammanfattning`、`gymnasium` |
 | 💼 工作·职业 | 20 | 48 | 19 | `företag`、`anställd`、`kompetens`、`arbetsmarknad`、`fackförening` |
 | 💰 钱·购物·经济 | 15 | 38 | 48 | `kostnad`、`räkning`、`försäkring`、`pension`、`deklarera` |
@@ -186,12 +186,16 @@
 
 ## 7. 下一步 (What to do)
 
+> **2026-10-02 起有了自动流程**（CLAUDE.md §4.8）：每日情景里 2 篇 🎯 补弱项文章自动带目标词；
+> `/scenario fokus`、`/lattlast` 手动补；📖 Läsning 里 🎯 筛选 + 目标词高亮；🔁 Öva 选择题复习 → `/ova` 写回；
+> 首页 📊 卡片看进度。快速复测用 `node tools/vocab-progress.js`（不用下载）。
+
 | 顺序 | 做什么 | 规模 | 怎么做 |
 |------|--------|------|--------|
 | ① | **补 P1**，先从 🧠 论证、⚙️ 通用动词、🏛️ 社会三类开始 | 297 词 | `profile/vocab-gaps.md` §1 里每行都是现成的 `/learn …`，复制运行，跑完 `/sync` |
 | ② | **基础词**一次补齐，或在 `/assess` 时标成已会 | 192 词 | 用处是让阅读站里 `heter`、`idag`、`måndag` 也能点 |
 | ③ | 加一个**国家 / 语言 / 国籍**主题（Sverige → svensk → svenska…） | ~40 词 | `/learn` 或 `/scenario` 写一篇「länder och språk」 |
-| ④ | 补 P2，配合 `/scenario` 用 B1 正式文体练（insändare、formellt brev、redogörelse） | 1 010 词 | 分主题、每周一两批 |
+| ④ | 补 P2，配合 `/scenario` 用 B1 正式文体练（insändare、formellt brev、redogörelse） | 1 009 词 | 分主题、每周一两批 |
 | ⑤ | 做第 §6 的清理（2 个拼写 + 1 个重复 + 7 个 CEFR + 1 个大小写） | ~15 处 | 一次性手工修 |
 | ⑥ | 跑 `/assess`，把真正会的词标成 `known: true` | — | 之后「KB 有笔记」和「真的会」就能分开统计 |
 | ⑦ | 每补完一批就复测：`python3 tools/vocab-coverage.py` | — | 跟下面的基线比 |

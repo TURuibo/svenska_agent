@@ -3,7 +3,7 @@
 > 生成日期：**2026-10-02**。配套报告：[[vocab-analysis]]（`profile/vocab-analysis.md`）。
 > 来源：把 Kelly 表（A1–B1）和 SVALex 核心词（A1–B2）里 KB 没有笔记的词，交给 30 个分类代理逐条判定，再由 30 个独立复核代理反查一遍（纠正 95 条），
 > 另外核对了 281 个「宽松匹配」（只是变形或同形异义，复核纠正 7 条）。每个词标了主题、优先级、中文和 `/learn` 用的词形。
-> 合计：**2210 个真缺口**（P1 297 · P2 1010 · P3 903）+ **192 个基础词**（你基本肯定会，只是 KB 没有笔记）。
+> 合计：**2209 个真缺口**（P1 297 · P2 1009 · P3 903）+ **192 个基础词**（你基本肯定会，只是 KB 没有笔记）。
 
 优先级：**P1** = 现在就值得学（SFI D / grund 阶段天天碰到、写论述文和正式信要用）· **P2** = 有用 · **P3** = 低频、专业或语体色彩重，可以跳过。
 
@@ -629,9 +629,9 @@
 /learn tjuv
 ```
 
-### 🔤 通用形容词/副词 — 108 个
+### 🔤 通用形容词/副词 — 107 个
 
-**lik** 相像的 · **naturligtvis** 当然 · **enskild** 个别的；私人的 · **övrig** 其余的 · **enbart** 仅仅；只 · **privat** 私人的 · **givetvis** 当然 · **knappast** 几乎不 · **betydligt** 明显地；大大 · **allra** 最最；极 · **tydligen** 看来；据说(apparently) · **verklig** 真实的 · **illa** 坏；糟 · **alltför** 过于 · **oerhört** 极其 · **lämplig** 合适的 · **tillgänglig** 可获得的 · **exakt** 精确地 · **underbar** 美妙的 · **ända** 一直（到） · **uppenbar** 明显的 · **återigen** 再一次 · **levande** 活的 · **omfattande** 广泛的 · **så där** 马马虎虎；那样 · **visst** 当然；似乎 · **normal** 正常的 · **nedan** 下文；以下 · **unik** 独特的 · **uppenbarligen** 显然 · **fullständig** 完全地 · **grov** 粗的；严重的 · **mer eller mindre** 或多或少 · **korrekt** 正确的 · **felaktig** 错误的 · **härlig** 美好的 · **falsk** 假的 · **beredd** 准备好的；愿意（vara beredd att） · **specifik** 特定的；具体的 · **definitiv** 肯定；绝对 · **överhuvudtaget** 根本；完全 · **äcklig** 恶心的 · **individuell** 个人的，个别的 · **tuff** 艰难的；强悍 · **manlig** 男性的 · **vettig** 明智的；合理的 · **rejäl** 像样的；结实的 · **typisk** 典型的 · **före detta** 前任的 · **värdefull** 宝贵的 · **äkta** 真正的 · **automatisk** 自动地 · **huvudsakligen** 主要地 · **jämn** 平的/均匀的 · **omedelbar** 立即的 · **näst** 仅次于 · **betydande** 重大的 · **i ordning** 有序/妥当 · **lyckad** 成功的 · **motsatt** 相反的 · **lös** 松的；散开的 · **ihjäl** 致死 · **tragisk** 悲惨的 · **dessvärre** 不幸地(正式) · **nödvändigtvis** 必然 · **betydelsefull** 重要的 · **skarp** 锋利的；尖锐 · **huvudsaklig** 主要的 · **fruktansvärd** 可怕的 · **sådär** 那样；马马虎虎 · **synlig** 可见的 · **underlig** 奇怪的 · **himla** 非常（口语） · **avsevärd** 相当大地 · **säkerligen** 想必、肯定 · **neutral** 中立的 · **självfallet** 当然、不言而喻 · **ömsesidig** 相互的 · **attraktiv** 有吸引力的 · **sträng** 严格的 · **separat** 单独的 · **häftig** 酷；猛烈 · **någorlunda** 还算；尚可 · **behaglig** 舒适；宜人 · **successivt** 逐渐地 · **konsekvent** 一贯地 · **begriplig** 可理解的 · **gradvis** 逐渐地 · **förhållandevis** 相对地 · **oerhörd** 极大的；惊人的 · **smidig** 灵活；顺利 · **så gott som** 几乎 · **anmärkningsvärd** 值得注意的 · **problematisk** 有问题的 · **jämt** 总是，老是 · **mestadels** 大多 · **oförändrad** 不变的 · **möjligtvis** 可能 · **värdelös** 无价值的 · **udda** 奇数的；古怪的 · **detaljerad** 详细的 · **imponerande** 令人印象深刻 · **isolerad** 孤立的 · **lysande** 出色的；发光的 · **strålande** 灿烂的；极好 · **tillfredsställande** 令人满意的 · **återkommande** 反复出现的 · **så kallad (s.k.)** 所谓的（s.k.）
+**lik** 相像的 · **naturligtvis** 当然 · **enskild** 个别的；私人的 · **övrig** 其余的 · **enbart** 仅仅；只 · **privat** 私人的 · **givetvis** 当然 · **knappast** 几乎不 · **betydligt** 明显地；大大 · **allra** 最最；极 · **tydligen** 看来；据说(apparently) · **verklig** 真实的 · **illa** 坏；糟 · **alltför** 过于 · **oerhört** 极其 · **lämplig** 合适的 · **tillgänglig** 可获得的 · **exakt** 精确地 · **underbar** 美妙的 · **ända** 一直（到） · **uppenbar** 明显的 · **återigen** 再一次 · **levande** 活的 · **omfattande** 广泛的 · **så där** 马马虎虎；那样 · **visst** 当然；似乎 · **normal** 正常的 · **nedan** 下文；以下 · **unik** 独特的 · **uppenbarligen** 显然 · **fullständig** 完全地 · **grov** 粗的；严重的 · **mer eller mindre** 或多或少 · **korrekt** 正确的 · **felaktig** 错误的 · **härlig** 美好的 · **falsk** 假的 · **beredd** 准备好的；愿意（vara beredd att） · **specifik** 特定的；具体的 · **definitiv** 肯定；绝对 · **överhuvudtaget** 根本；完全 · **äcklig** 恶心的 · **individuell** 个人的，个别的 · **tuff** 艰难的；强悍 · **manlig** 男性的 · **vettig** 明智的；合理的 · **rejäl** 像样的；结实的 · **typisk** 典型的 · **före detta** 前任的 · **värdefull** 宝贵的 · **äkta** 真正的 · **automatisk** 自动地 · **huvudsakligen** 主要地 · **jämn** 平的/均匀的 · **omedelbar** 立即的 · **näst** 仅次于 · **betydande** 重大的 · **i ordning** 有序/妥当 · **lyckad** 成功的 · **motsatt** 相反的 · **lös** 松的；散开的 · **ihjäl** 致死 · **tragisk** 悲惨的 · **dessvärre** 不幸地(正式) · **nödvändigtvis** 必然 · **betydelsefull** 重要的 · **skarp** 锋利的；尖锐 · **huvudsaklig** 主要的 · **fruktansvärd** 可怕的 · **sådär** 那样；马马虎虎 · **synlig** 可见的 · **underlig** 奇怪的 · **himla** 非常（口语） · **avsevärd** 相当大地 · **säkerligen** 想必、肯定 · **neutral** 中立的 · **självfallet** 当然、不言而喻 · **ömsesidig** 相互的 · **attraktiv** 有吸引力的 · **sträng** 严格的 · **separat** 单独的 · **häftig** 酷；猛烈 · **någorlunda** 还算；尚可 · **behaglig** 舒适；宜人 · **successivt** 逐渐地 · **konsekvent** 一贯地 · **begriplig** 可理解的 · **gradvis** 逐渐地 · **förhållandevis** 相对地 · **oerhörd** 极大的；惊人的 · **smidig** 灵活；顺利 · **så gott som** 几乎 · **anmärkningsvärd** 值得注意的 · **problematisk** 有问题的 · **jämt** 总是，老是 · **mestadels** 大多 · **oförändrad** 不变的 · **möjligtvis** 可能 · **värdelös** 无价值的 · **udda** 奇数的；古怪的 · **detaljerad** 详细的 · **imponerande** 令人印象深刻 · **isolerad** 孤立的 · **lysande** 出色的；发光的 · **strålande** 灿烂的；极好 · **tillfredsställande** 令人满意的 · **återkommande** 反复出现的
 
 ```
 /learn lik, naturligtvis, enskild, övrig, enbart, privat, givetvis, knappast, betydligt, allra, tydligen, verklig, illa, alltför, oerhört
@@ -655,7 +655,7 @@
 /learn smidig, så gott som, anmärkningsvärd, problematisk, jämt, mestadels, oförändrad, möjligtvis, värdelös, udda, detaljerad, imponerande, isolerad, lysande, strålande
 ```
 ```
-/learn tillfredsställande, återkommande, så kallad (s.k.)
+/learn tillfredsställande, återkommande
 ```
 
 ### 🎓 学校·教育 — 33 个

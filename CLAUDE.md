@@ -69,11 +69,13 @@ For a **single word/phrase/sentence**, don't spawn a subagent — just store it 
 - `/assess` — assess current Swedish level and update the profile.
 - `/kb` — show knowledge-base stats and health (counts, orphan notes, broken links).
 - `/import` — ingest a `svensk-export v1` block (pasted or from `inbox/`) with dedup + linking.
-- `/scenario` — 生成情景练习文本 (generate a Swedish practice scenario — dialogue/text/narrative) into `inbox/` for review, then import with `/import`.
+- `/scenario` — 生成情景练习文本 (generate a Swedish practice scenario — dialogue/text/narrative) into `inbox/` for review, then import with `/import`. `/scenario fokus [Txx]` = 🎯 补弱项：B1 文章，带 10–15 个库里还没有的缺口词（见 §4.8）。
 - `/dagens-nyheter` — 抓取 5 条最新瑞典语简易新闻 (8 Sidor lättläst) 写入 `inbox/`（人读正文 + 导入块），供 `/import` 入库。每日由 routine `svensk-news-daily` 自动跑（见 §4.4）。
 - `/dagens-horovning` — 抓取最新一集 SVT「Nyheter på lätt svenska」字幕(原文+时间轴)配中文翻译+生词，生成 **Lyssna 听力站** 练习数据（见 §4.5）。
 - `/dagens-artikel` — 生成今日一篇 lättläst 阅读文章，按 day-of-year **轮换 8 种体裁**（传记/国情/历史/传统/自然/地方/发明/科普）写入 `inbox/`（人读正文 + 导入块），供 `/import` 入库。每天由 **remote 定时 session** 自动跑（见 §4.6）。
 - `/dagens-biografi` — `/dagens-artikel` 体裁 0 的**单独入口**：强制生成一篇 SFI 风格人物传记（仿 Astrid Lindgren / Zlatan）。手动想指定写某人时用它。
+- `/lattlast` — 抓一篇瑞典政府机构的**易读页面**（informationsverige / Riksdagen / Valmyndigheten / Socialstyrelsen / Skolverket / 1177），原文照抄 + 翻译 + 导入块写进 `inbox/myndighet-*`，专补社会·工作·经济类缺口词（§4.8）。
+- `/ova` — 把 🔁 **Öva 复习页**的成绩（粘贴的 `ova-results v1` 块）写回词条的复习字段，熟练的词标 `known: true`（§4.8）。
 
 ---
 
@@ -193,8 +195,9 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 
 **云端版 (remote, 推荐用它替代本地)：** scenario 这条 routine 同样可放到 Claude Code on the web 定时 session
 （和 §4.6 阅读文章同一模式），桌面关着也能每天跑。**scenario 纯生成、不联网**，所以环境网络策略无所谓
-（开不开出站都行）。`/dagens-scenario` 不传参 = 批量模式：按 `OFFSET = day-of-year mod 7` **一次生成当天 5 篇**
-（一周一轮覆盖全部 35 个体裁；stride-7 选取保证每天跨难度跨 type；详见命令文件 §1 与 sv-scenario 技能 §2 体裁目录），
+（开不开出站都行）。`/dagens-scenario` 不传参 = 批量模式：**一次生成当天 5 篇 = 3 篇常规情景 + 2 篇 🎯 补弱项**
+（常规 3 篇从 `OFFSET = day-of-year mod 7` 的 5 个体裁里按周轮换取 3 个，5 周内 35 个体裁都会轮到；补弱项 2 篇
+取库里最缺的两个主题，文件名 `scenario-<date>-fokus-*`，进 Läsning 不进 Tala；详见命令文件 §1/§1b 与 sv-scenario 技能 §2d），
 routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，routine 无需改动**。routine prompt：
 ```
 在 remote 环境里生成今日情景练习并入库：
@@ -468,6 +471,28 @@ git commit --no-edit && git push                          # 再回 ③ merge PR
 >
 > remote 每个 session 是**全新临时容器 + 一次性随机分支**，跑完即弃，所以**不需要**把开发分支对齐 main
 > （旧版 ⑥ 已删）。本地若有持久开发分支，按需 `git pull --rebase` 即可。
+
+### §4.8 🎯 补弱项 + 🔁 复习 (Vocabulary gaps → texts → review)
+
+2026-10-02 的词汇分析（`profile/vocab-analysis.md`）发现：库里的词偏向具体生活词，**抽象 / 论证、通用动词、社会制度、
+工作、经济、学校**这几类缺得最多。之后的补词按这个循环走：
+
+```
+缺口清单 ──▶ 🎯 文章（目标词放进语境）──▶ /import 入库 ──▶ 📖 Läsning 读（目标词高亮）──▶ 🔁 Öva 复习 ──▶ /ova 写回
+profile/vocab-gaps.json   /scenario fokus · 每日 2 篇 · /lattlast                     选择题 + 间隔重复        known:true
+```
+
+| 部件 | 是什么 |
+|------|--------|
+| `profile/vocab-analysis.md` / `vocab-gaps.md` | 分析报告（人读）和按主题分好的缺口清单（P1 297 · P2 1 009 · P3 903 · 基础词 192，带 `/learn` 命令） |
+| `profile/vocab-gaps.json` | 同一份缺口清单 + 核对过的参照词表（机器读）。只在重新做词汇分析时改；改完跑一次 `node tools/vocab-progress.js --write-baseline` |
+| `tools/vocab-progress.js` | 对照**当前**词库算进度（快，不用下载），生成 `site/vocab-progress.js`（gitignore，Action 构建）；`--pick <主题\|auto\|all> N` 给生成器挑还没学的目标词 |
+| `tools/vocab-coverage.py` | 原始口径的全量对照（Kelly / SVALex / SALDO，首次下载约 250 MB），重新做分析时用 |
+| `/scenario fokus` · `/dagens-scenario` 的 2 篇补弱项 | 生成 B1 文章，每篇 10–15 个目标词（加粗、元信息 `**题材:** / **主题:** / **目标词:**`），文件名 `scenario-<date>-fokus-*` |
+| `/lattlast` | 政府易读页面原文，出现的缺口词加粗，文件名 `myndighet-*`。联网；可另建一条每周的云端 routine（prompt 照 §4.4 的写法，把第 1 步换成 `/lattlast`、第 2 步换成 `inbox/myndighet-*.md`） |
+| 📖 Läsning | 新增 **题材 / 主题** 下拉筛选和 **🎯 补弱项** 开关；补弱项文章顶部有「🎯 本篇目标词」面板，正文里目标词高亮 |
+| 🔁 Öva（`site/ova/`） | 选择题复习：① 看瑞典语选中文 → ② 看中文选瑞典语 → ③ 句子选词；答对间隔变长（1/2/4/7/14/30 天）。进度存在浏览器里，「📋 复制结果给 CC」→ `/ova` 写回词条（`tools/ova-sync.js`，可重复运行） |
+| 📅 Dagbok | 首页「📊 词汇进度」卡片：教材核心词 A1/A2/B1 覆盖率（带基线）、P1/P2 已补多少、还缺最多的主题 |
 
 ---
 
