@@ -37,6 +37,22 @@ members:
   - roll
   - lärare
   - extrajobb
+  - anställd
+  - anställa
+  - belopp
+  - arbetsuppgift
+  - uppsägning
+  - ersätta
+  - tillsvidareanställning
+  - tidsbegränsad
+  - provanställning
+  - månadslön
+  - timlön
+  - anställningsavtal
+  - uppsägningstid
+  - bruttolön
+  - övertid
+  - heltidsarbete
 created: "2026-06-25"
 ---
 
@@ -87,3 +103,9 @@ created: "2026-06-25"
 ## 相关语法 (Related Grammar)
 
 - [[grammar-brevsprak-personligt-brev]] — 求职信书信语域规范
+
+## 雇佣与工资 (Anställning & lön, 2026-10-03)
+
+[[anställd]]、[[anställa]]、[[belopp]]、[[arbetsuppgift]]、[[uppsägning]]、[[ersätta]]、[[tillsvidareanställning]]、[[tidsbegränsad]]、[[provanställning]]、[[månadslön]]、[[timlön]]、[[anställningsavtal]]、[[uppsägningstid]]、[[bruttolön]]、[[övertid]]、[[heltidsarbete]]
+
+来源：[[source-2026-10-03-att-vara-anstalld]]
