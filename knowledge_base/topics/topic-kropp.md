@@ -3,7 +3,7 @@ type: topic
 name: "kropp"
 kind: semantic-field
 zh: "身体；身体部位"
-members: [arm, hals, ben, knä, stark, öm, bruten, svullen, pigg, patient, tå, haka, höft, läpp, axel, mun, hud, armbåge, handled, kind, panna, muskel, lunga, njure, näsa, finger, lår, skelett, mager, len, trött, känslig, böjd]
+members: [arm, hals, ben, knä, stark, öm, bruten, svullen, pigg, patient, tå, haka, höft, läpp, axel, mun, hud, armbåge, handled, kind, panna, muskel, lunga, njure, näsa, finger, lår, skelett, mager, len, trött, känslig, böjd, skuldra, fot, nagel, öra, tumme, ögonbryn, skinn, naken, svettig, rynkig, hand, hår, kropp]
 created: "2026-06-07"
 ---
 
@@ -37,6 +37,13 @@ created: "2026-06-07"
 - [[finger]] — 手指
 - [[lår]] — 大腿
 - [[skelett]] — 骨骼
+- [[skuldra]] — 肩膀
+- [[fot]] — 脚
+- [[nagel]] — 指甲
+- [[öra]] — 耳朵
+- [[tumme]] — 拇指
+- [[ögonbryn]] — 眉毛
+- [[skinn]] — 皮肤；皮革
 
 ### 描述身体状态的形容词 (Adjectives for body states)
 
@@ -50,6 +57,9 @@ created: "2026-06-07"
 - [[trött]] — 累的、疲惫的
 - [[känslig]] — 敏感的
 - [[böjd]] — 弯曲的
+- [[naken]] — 赤裸的
+- [[svettig]] — 出汗的
+- [[rynkig]] — 起皱的
 
 ### 医疗相关 (Medical)
 
