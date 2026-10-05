@@ -121,7 +121,8 @@ created: "2026-10-05"
 
 - ✅ 🇸🇪 **I går** **åt** jag pizza. 🇨🇳 我昨天吃了披萨。
 - ✅ 🇸🇪 Jag **flyttade** till Sverige **för tre år sedan**. 🇨🇳 我三年前搬到了瑞典。（[[grammar-för-sedan]]）
-- ✅ 🇸🇪 **I måndags** **regnade** det hela dagen. 🇨🇳 上周一下了一整天的雨。（[[i-måndags]]）
+- ✅ 🇸🇪 **I måndags** **regnade** det hela dagen. 🇨🇳 （刚过去的那个）星期一下了一整天的雨。（[[i-måndags]]）
+  💡 *i måndags* = 最近过去的那个周一：周四说就是**这周一**，不一定是「上周一」。
 - ✅ 🇸🇪 **I morse** **vaknade** jag klockan sex. 🇨🇳 我今天早上六点醒的。（[[i-morse]]）
 - ✅ 🇸🇪 **När jag var liten** **bodde** jag i Kina. 🇨🇳 我小时候住在中国。
 - ✅ 🇸🇪 **Förr** **brukade** jag cykla till jobbet. 🇨🇳 我以前常骑车上班。
@@ -157,12 +158,13 @@ created: "2026-10-05"
 - ❌ Jag har skriven ett brev. ← *skriven* 是形容词性的分词；har 后面要用 supinum：*har skrivit*（[[grammar-perfekt-particip]]）
 - ❌ Jag har åt. ← har 后面不能接过去式；✅ *Jag har ätit.*
 
-> 🔍 **preteritum vs perfekt 一句话区分：** 说了「**什么时候**」→ preteritum；没说时间、重点是「**经历 / 结果 / 到现在**」→ perfekt。
+> 🔍 **preteritum vs perfekt 一句话区分：** 说了一个**已经结束的**过去时间（i går, 2019, i måndags, för … sedan）→ preteritum；
+> 没说时间，或时间**一直延续到现在**（sedan …、i + 时长到现在、i dag / i år 还没过完），重点是「**经历 / 结果 / 到现在**」→ perfekt。
 >
 > | | preteritum | perfekt |
 > |---|---|---|
 > | 时间 | 具体、已结束 | 不具体，或持续到现在 |
-> | 例 | Jag **bodde** i Lund i två år.（现在**不住**了） | Jag **har bott** i Lund i två år.（现在**还住**） |
+> | 例 | Jag **bodde** i Lund i två år.（现在**不住**了） | Jag **har bott** i Lund i två år.（通常 = 现在**还住**；列举人生经历时也可指以前住过） |
 > | 例 | Jag **såg** filmen i lördags. | Jag **har sett** filmen.（看过） |
 
 ### 4.3 pluskvamperfekt — 过去的过去（hade + supinum）
@@ -192,7 +194,7 @@ created: "2026-10-05"
 |------|------|------------|-----|
 | **ska** + 原形 | 计划、决定、约定 | 人能控制、已经打算好 | Jag **ska resa** till Göteborg i helgen. 这个周末我要去哥德堡。 |
 | **kommer att** + 原形 | 预测、自然会发生 | 天气、结果、不由主语控制 | Det **kommer att bli** kallt i natt. 今夜会很冷。 |
-| **presens** + 将来时间词 | 已安排 / 日程 | 口语最常见，必须有将来时间词或上下文 | Jag **jobbar** i morgon. 我明天上班。 |
+| **presens** + 将来时间词 | 已安排 / 日程；也用于临时决定、承诺，以及 *bli* 的预测 | 口语最常见，必须有将来时间词或上下文 | Jag **jobbar** i morgon. 我明天上班。 · Jag **ringer** dig i kväll. 我今晚给你打电话。 · Det **blir** kallt i natt. 今夜会很冷。 |
 | **tänker** + 原形 | 个人打算 | 强调「我打算」 | Jag **tänker börja** plugga i höst. 我打算今年秋天开始读书。 |
 
 **常配的时间词：** i morgon, i övermorgon, i kväll, i natt（将来语境）, i helgen（将来语境）, på måndag, på lördag, nästa vecka / månad / år, om en vecka, om två år, snart, senare, sedan / sen, i framtiden, i sommar, i höst, till sommaren
@@ -216,7 +218,10 @@ created: "2026-10-05"
 
 ## 6. ⭐ 时间词决定时态 —— 同一个词，换个介词 / 词尾就换时态
 
-这张表是「什么时间用什么时态」的核心。注意 **i + 词尾 -s / i morse / i fjol = 过去**，**på + 星期 = 将来**，**på + 复数 = 习惯**：
+这张表是「什么时间用什么时态」的核心。注意：
+- **i + 词尾 -s**（i måndags, i somras）/ **i morse / i fjol** = 过去
+- **på + 星期（不定形式，如 *på måndag*）** = 将来（故事叙述里的定形式 *på måndagen*「那个周一」可配过去时）
+- **på + 定式** = 习惯（多用复数 *på morgnarna, på måndagar*；季节常用单数 *på sommaren, på vintern*）
 
 | 过去 → preteritum | 现在 / 习惯 → presens | 将来 → ska / kommer att / presens |
 |-------------------|-----------------------|-----------------------------------|
@@ -225,9 +230,9 @@ created: "2026-10-05"
 | i morse 今天早上（已过去） | på morgnarna 每天早上 | i morgon bitti 明天早上 |
 | i går kväll 昨晚 | på kvällarna 每天晚上 | i kväll 今晚 |
 | i natt 昨夜（过去语境） | på nätterna 每天夜里 | i natt 今夜（将来语境） |
-| i måndags 上周一 | på måndagar 每周一 | på måndag （这/下）周一 |
-| i helgen 上个周末（过去语境） | på helgerna 每个周末 | i helgen 这个周末（将来语境） |
-| i somras 刚过去的夏天 | på sommaren / somrarna 每年夏天 | i sommar 今年夏天（还没到） |
+| i måndags 刚过去的周一（这周一或上周一） | på måndagar 每周一 | på måndag 即将到来的周一（这周一或下周一） |
+| i helgen 刚过去的周末（过去语境） | på helgerna 每个周末 | i helgen 这个周末（将来语境） |
+| i somras 刚过去的夏天（秋天说的「今年夏天」） | på sommaren / somrarna 每年夏天 | i sommar 这个夏天（正在过 / 还没到） |
 | i vintras 刚过去的冬天 | på vintern 每年冬天 | i vinter 今年冬天 |
 | förra veckan 上周 | den här veckan 这周 | nästa vecka 下周 |
 | i fjol / förra året 去年 | i år 今年 | nästa år 明年 |
@@ -235,18 +240,26 @@ created: "2026-10-05"
 | då / förr 那时 / 以前 | nu 现在 | snart / senare 很快 / 以后 |
 
 ⚠️ **i natt / i helgen 两头都能用，靠时态区分意思：**
-- 🇸🇪 *I natt **sov** jag dåligt.* 🇨🇳 我昨晚没睡好。 ↔ 🇸🇪 *I natt **ska** det bli minus fem grader.* 🇨🇳 今夜会到零下五度。
+- 🇸🇪 *I natt **sov** jag dåligt.* 🇨🇳 我昨晚没睡好。 ↔ 🇸🇪 *I natt **ska** det bli minus fem grader.* 🇨🇳 （预报说）今夜会降到零下五度。（*ska* = 听说 / 预报，见 §5）
 - 🇸🇪 *Vad **gjorde** du i helgen?* 🇨🇳 你上周末干什么了？ ↔ 🇸🇪 *Vad **ska** du göra i helgen?* 🇨🇳 你这周末打算干什么？
 
 ⚠️ **i morse ≠ i morgon：** *i morse* = 今天早上（已经过去），*i morgon* = 明天。
 
-**时长三兄弟（介词决定时态）：**
+⚠️ **「中性」时间词不决定时态：** 中间一栏的 *i dag, i kväll, i år, den här veckan* 只表示「包含现在的时间段」，
+**不锁定 presens**——要看事情**发生了没有**：
+- 🇸🇪 *I dag **åt** jag lunch klockan tolv.* 🇨🇳 我今天十二点吃的午饭。（那件事已结束 → preteritum）
+- 🇸🇪 *I dag **har** jag **druckit** tre koppar kaffe.* 🇨🇳 我今天已经喝了三杯咖啡。（今天还没过完 → perfekt）
+- 🇸🇪 *I dag **ska** jag städa.* 🇨🇳 我今天要打扫卫生。（还没做 → ska）
+
+中文「今年夏天」也一样要看说话时间：秋天说 = *i somras*（过去），春天说 = *i sommar*（将来）。
+
+**时长四兄弟（介词决定时态）：**
 
 | 结构 | 意思 | 时态 | 例 |
 |------|------|------|-----|
 | **för** … **sedan** | …以前 | preteritum | Jag kom till Sverige **för två år sedan**. |
 | **i** + 时长 | 持续… | perfekt（到现在）/ preteritum（已结束） | Jag **har bott** här **i två år**. / Jag **bodde** där **i två år**. |
-| **sedan** + 时间点 | 从…起 | perfekt | Jag **har bott** här **sedan 2024**. |
+| **sedan** + 时间点 | 从…起 | perfekt（状态也可用 presens） | Jag **har bott** här **sedan 2024**. / Jag **bor** här **sedan 2024**. |
 | **om** + 时长 | …以后 | 将来 | **Om två år** ska jag ta examen. |
 
 详见 [[grammar-för-sedan]] · [[grammar-sedan-vs-i]] · [[grammar-i-tidsperiod]] · [[grammar-om-tidsperiod]] · [[grammar-tidsuttryck]]。
@@ -278,20 +291,27 @@ created: "2026-10-05"
 
 | 中文 | 瑞典语 | 例 |
 |------|--------|-----|
-| (正)在 V | presens（或 *håller på att*） | 我在做饭 → Jag **lagar** mat. |
+| (正)在 V | presens（或 *håller på att*）；过去的「在 V」→ preteritum（或 *höll på att*） | 我在做饭 → Jag **lagar** mat. · 你打电话时我在做饭 → Jag **lagade** mat när du ringde. |
 | V **了**（具体过去） | preteritum | 我昨天买了一本书 → Jag **köpte** en bok i går. |
 | **已经** V 了 | har (redan) + supinum | 我已经吃了 → Jag **har redan ätit**. |
-| V **过**（经历） | perfekt | 我去过瑞典 → Jag **har varit** i Sverige. |
+| V **过**（经历） | perfekt（⚠️ 带具体过去时间 → preteritum） | 我去过瑞典 → Jag **har varit** i Sverige. · 我去年去过瑞典 → Jag **var** i Sverige i fjol. |
 | **还没** V | har inte + supinum + än | 我还没吃 → Jag **har inte ätit** än. |
-| V 了 … **了**（持续到现在） | perfekt + i / sedan | 我学瑞典语学了一年了 → Jag **har läst** svenska i ett år. |
+| V 了 … **了**（持续到现在） | perfekt + i / sedan（动词必须能持续） | 我学瑞典语学了一年了 → Jag **har läst** svenska i ett år. |
+| 瞬间动词（来 / 到 / 结婚）+ 时长 + 了 | 换成持续动词 + perfekt，或 *Det är … sedan* + preteritum | 我来瑞典两年了 → Jag **har bott** i Sverige i två år. / Det är två år sedan jag **kom** hit.（❌ *Jag har kommit hit i två år*） |
+| **是…的** / 问「什么时候」 | preteritum（❌ *När har du kommit?*） | 你是什么时候来瑞典的？→ När **kom** du till Sverige? · 我是 2022 年来的 → Jag **kom** hit 2022. |
+| 问「多久了」 | Hur länge + perfekt | 你在瑞典住多久了？→ Hur länge **har** du **bott** i Sverige? |
 | **要** / 打算 | ska / tänker + 原形 | 我要去买东西 → Jag **ska** gå och handla. |
 | **会**（预测） | kommer att + 原形 | 明天会下雨 → Det **kommer att** regna i morgon. |
 | 那时**已经** V 了 | hade + supinum | 那时他已经走了 → Han **hade redan gått**. |
 
 ⚠️ 「了」不等于某一个时态：*我吃了* 可能是 *Jag åt*（说了时间）也可能是 *Jag har ätit*（结果：已经吃了）。
+句尾「了」表示**状态变化**时，瑞典语常用 **presens**：我饿了 → Jag **är** hungrig · 下雨了 → Det **regnar**（或 Det **har börjat** regna）·
+我明白了 → Nu **förstår** jag · 他三十岁了 → Han **är** trettio år。**别把每个「了」都译成过去时。**
 
 **与英文对比：**
-- preteritum / perfekt 的分工和英语 past simple / present perfect **几乎一样**（*yesterday* 不能配 *have done*，瑞典语也一样）。
+- preteritum / perfekt 的分工和英语 past simple / present perfect **大体相同**（*yesterday* 不能配 *have done*，瑞典语也一样：❌ *Jag har ätit pizza i går*）。
+  但瑞典语用 perfekt **比英语更宽**：刚过去、和现在仍相关的时间段也常用 perfekt——*Vad **har** du **gjort** i helgen?*（周一问）、
+  *Jag **har sovit** dåligt i natt.*；问已有结果的来历也常用 perfekt：*Var **har** du **köpt** jackan?* · *Vem **har målat** tavlan?*（英语这些都用 past simple）。
 - 瑞典语**没有进行时**：*I am reading* → *Jag läser*。
 - 将来：*will*（预测）≈ *kommer att*；*be going to*（计划）≈ *ska*；*I'm working tomorrow* ≈ *Jag jobbar i morgon*（presens）。
 - 瑞典语用 presens 表将来**比英语更常见**。
@@ -313,7 +333,7 @@ created: "2026-10-05"
 - ⚠️ **har 后面用过去式或分词**
   ❌ Jag har åt. ❌ Jag har skriven. → ✅ **Jag har ätit. Jag har skrivit.**
 - ⚠️ **混淆 i morse / i morgon、i måndags / på måndag**
-  i morse = 今天早上（过去）· i morgon = 明天 · i måndags = 上周一 · på måndag = （下）周一
+  i morse = 今天早上（过去）· i morgon = 明天 · i måndags = 刚过去的周一（这周一或上周一）· på måndag = 即将到来的周一（这周一或下周一）
 - ⚠️ **「已结束」和「还在继续」分不清**
   *Jag bodde i Lund i två år*（现在不住了）≠ *Jag har bott i Lund i två år*（现在还住）
 
@@ -324,7 +344,8 @@ created: "2026-10-05"
 | 现象 | 结构 | 例 |
 |------|------|-----|
 | 过去中的将来 | **skulle** + 原形 | Hon sa att hon **skulle komma** klockan sju. 她说她七点会来。（[[grammar-trodde-att-skulle]]） |
-| 将来完成 | **ska / kommer att ha** + supinum | Till sommaren **kommer** jag **att ha bott** här i fem år. 到夏天我就在这儿住满五年了。 |
+| 将来完成 | **kommer att ha** + supinum（有计划、且有将来时间词时也可 *ska ha*：*Till fredag **ska** jag **ha läst** ut boken.*） | Till sommaren **kommer** jag **att ha bott** här i fem år. 到夏天我就在这儿住满五年了。 |
+| ⚠️ 新闻里的 *ska ha* + supinum | **据说**已经… （不是将来！） | *Polisen **ska ha gripit** en man.* 据说警方已逮捕一名男子。（[[grammar-ska-infinitiv-hearsay]]） |
 | 时间从句：将来先完成 | **när** + har + supinum | När du **har ätit** kan du gå ut och leka. 你吃完了就可以出去玩。 |
 | 从句里省略 ha / hade（书面常见） | (hade) + supinum | Han sa att han (hade) **glömt** nyckeln. 他说他把钥匙忘了。 |
 | 叙事现在时 | presens 讲过去 | [[grammar-historiskt-presens]] |
@@ -358,11 +379,11 @@ created: "2026-10-05"
 4. När vi kom till stationen ___ tåget redan ___ (gå).
 5. Det ___ ___ ___ (bli) varmt i helgen.（预测）
 6. 翻译：我去过哥德堡两次。
-7. 翻译：上周一我在家工作了。
+7. 翻译：（刚过去的那个）星期一我在家工作了。
 
 答案:
 1. **Åt** du frukost i morse?
-2. Jag **har bott** här sedan 2023.
+2. Jag **har bott** här sedan 2023.（也可：Jag **bor** här sedan 2023——*sedan* + 时间点也能配 presens；但「到现在持续了多久」*i två år* 必须用 perfekt：Jag har bott här i två år）
 3. I morgon **ska** jag **träffa** min lärare.（也可：I morgon **träffar** jag min lärare.）
 4. När vi kom till stationen **hade** tåget redan **gått**.
 5. Det **kommer att bli** varmt i helgen.
