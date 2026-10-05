@@ -227,7 +227,7 @@ created: "2026-10-05"
 |-------------------|-----------------------|-----------------------------------|
 | i går 昨天 | i dag 今天 | i morgon 明天 |
 | i förrgår 前天 | — | i övermorgon 后天 |
-| i morse 今天早上（已过去） | på morgnarna 每天早上 | i morgon bitti 明天早上 |
+| i morse 今天早上（已过去） | på morgnarna 每天早上 | [[i-morgon-bitti]] 明天早上 |
 | i går kväll 昨晚 | på kvällarna 每天晚上 | i kväll 今晚 |
 | i natt 昨夜（过去语境） | på nätterna 每天夜里 | i natt 今夜（将来语境） |
 | i måndags 刚过去的周一（这周一或上周一） | på måndagar 每周一 | på måndag 即将到来的周一（这周一或下周一） |
