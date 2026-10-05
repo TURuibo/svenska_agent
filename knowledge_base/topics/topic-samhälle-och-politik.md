@@ -3,7 +3,7 @@ type: topic
 name: "samhälle-och-politik"
 kind: semantic-field
 zh: "社会与政治"
-members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis, protestera, demokrati, medlem, rösträtt, kamp, uppror, organisation, världskrig, införa, fritidsgård, äldreomsorg, mötesplats, skadegörelse, budgetmöte, kommunfullmäktige, nämnd, ordförande, socialtjänst, socialtjänstlag, riksnorm]
+members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis, protestera, demokrati, medlem, rösträtt, kamp, uppror, organisation, världskrig, införa, fritidsgård, äldreomsorg, mötesplats, skadegörelse, budgetmöte, kommunfullmäktige, nämnd, ordförande, socialtjänst, socialtjänstlag, riksnorm, debatt, system, allmän, säkerhet, län, begära, uppfylla, godkänna, skyldighet, flykting, diskriminering, välfärd, avslå, ursprung]
 created: "2026-06-04"
 ---
 
@@ -88,3 +88,4 @@ created: "2026-06-04"
   参见 [[topic-jämställdhet]]。
 - 2026-10-02: 新增地方政治 / 青少年政策词（fritidsgård, äldreomsorg, mötesplats, skadegörelse, budgetmöte），来自 [[source-2026-10-02-fokus-insandare-fritidsgardar]]。论证与观点表达词见 [[topic-argumentation]]。
 - 2026-10-02: 新增市政机构词（kommunfullmäktige, nämnd, ordförande），来自 [[source-2026-10-02-fokus-nyhetsartikel-elsparkcyklar]]；决策相关通用动词见 [[topic-allmänna-verb]]（fatta beslut, genomföra, stödja）。
+- 2026-10-05: 新增福利/行政/权利词（välfärd, län, begära, uppfylla, godkänna, avslå, skyldighet, flykting, diskriminering 等），来自 [[source-2026-10-05-fokus-valfarden-i-sverige]]。

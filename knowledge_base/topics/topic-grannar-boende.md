@@ -3,7 +3,7 @@ type: topic
 name: "grannar och boende"
 kind: semantic-field
 zh: 邻居与居住（语义场）
-members: [granne, våning, port, lägenhet, störa, inflyttningsfest, knacka-på, meddelande, syfte, informera, tacka, klaga, hota, efterlysa, be-om-hjälp, bjuda-in-till-fest, kattvakt, ramla, rumsren, gosig, fönsterputs, erbjuda, tjänst, kvalitet, reklam, göra-reklam, ha-överseende-med-något, överseende, regel, respektera, ett-fång-rosor, fång, borra, höras]
+members: [granne, våning, port, lägenhet, störa, inflyttningsfest, knacka-på, meddelande, syfte, informera, tacka, klaga, hota, efterlysa, be-om-hjälp, bjuda-in-till-fest, kattvakt, ramla, rumsren, gosig, fönsterputs, erbjuda, tjänst, kvalitet, reklam, göra-reklam, ha-överseende-med-något, överseende, regel, respektera, ett-fång-rosor, fång, borra, höras, grannforum, trapphus, cykelhjul, tjuv, utrymningsväg, cykelrum, källare, borr]
 created: "2026-09-03"
 ---
 
@@ -60,3 +60,13 @@ created: "2026-09-03"
 - 核心词汇来自 SFI 教材 s.62 邻里留言配对练习 [[source-2026-09-03-sfi-meddelanden-diagram]]：
   五段"邻里公告"分别对应五种交际目的（告知/感谢/抱怨/求助/打广告），未用到的选项是"邀请参加派对/威胁/征求某物"。
 - 可扩充：hyresvärd（房东）、felanmälan（报修）、anslagstavla（公告板）...
+
+### 楼道与公共空间 (Trapphus & gemensamma utrymmen)
+- [[trapphus]] — 楼梯间
+- [[cykelrum]] — 自行车房
+- [[källare]] — 地下室
+- [[utrymningsväg]] — 逃生通道
+- [[cykelhjul]] — 自行车轮
+- [[tjuv]] — 小偷
+- [[borr]] — 电钻
+- [[grannforum]] — 邻里论坛
