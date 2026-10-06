@@ -59,4 +59,5 @@ created: "2026-10-01"
 
 - 文中的 `satsa seriöst` 里，`seriöst` 其实是**形容词的中性 -t 形式当副词用**（瑞典语常这样构成副词：`Han arbetar seriöst`）。参见 [[grammar-adjektiv-bojning]]。
 - 想说「（病情/问题）严重」时更常用 [[allvarlig]]；`seriös` 偏「认真、严肃、可信」。
-- 来源: [[source-2026-09-22-nils-van-der-poel]]
+- 副词构成详解: [[grammar-adverb-av-adjektiv]]；词组 [[satsa-seriöst]]。
+- 来源: [[source-2026-09-22-nils-van-der-poel]] · [[source-2026-10-06-adjektiv-adverb-ovning]]

@@ -46,6 +46,7 @@ interval: 0
 - 🇸🇪 Jag har köpt en ny tröja. — 🇨🇳 我买了一件新毛衣。
 - 🇸🇪 Vi har fått ett nytt program på skolan. — 🇨🇳 学校推出了一个新项目。
 - 🇸🇪 Hon är ny i Sverige och lär sig svenska. — 🇨🇳 她刚到瑞典，正在学瑞典语。
+- 🇸🇪 Han ville få tid för sitt nya intresse. — 🇨🇳 他想为新的兴趣留出时间。（所有格后 -a → [[grammar-bestamd-form-efter-possessiv]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -49,6 +49,7 @@ interval: 0
 - 🇸🇪 Lejonet är stort och kraftfullt. — 🇨🇳 狮子又大又强壮。
 - 🇸🇪 Stockholm är en stor stad med många invånare. — 🇨🇳 斯德哥尔摩是一个有很多居民的大城市。
 - 🇸🇪 Elefanten är det största landdjuret. — 🇨🇳 大象是最大的陆地动物。
+- 🇸🇪 Han utklassade sina konkurrenter stort. — 🇨🇳 他大比分击败了对手。（副词 stort → [[grammar-adverb-av-adjektiv]]、[[sent-han-utklassade-sina-konkurrenter-stort]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

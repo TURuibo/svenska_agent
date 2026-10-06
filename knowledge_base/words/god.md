@@ -45,6 +45,7 @@ interval: 0
 - 🇸🇪 Han är en god människa. — 🇨🇳 他是一个善良的人。
 - 🇸🇪 Maten smakar gott. — 🇨🇳 食物味道很好。
 - 🇸🇪 God morgon! Hur mår du? — 🇨🇳 早上好！你好吗？
+- 🇸🇪 Han lockades av de goda kakorna. — 🇨🇳 他被美味的蛋糕吸引。（定指复数 god → goda → [[grammar-adjektiv-bojning]]、[[grammar-bestamd-form-efter-possessiv]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

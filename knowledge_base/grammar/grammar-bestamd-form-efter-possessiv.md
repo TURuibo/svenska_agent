@@ -37,6 +37,26 @@ min / din + 不定名词        → mitt band
 
 - ✅ 🇸🇪 Owe Gustafsons rosa band ska ha en rosa elefant. 🇨🇳 Owe Gustafson 的粉红丝带有一头粉红大象。
 
+### 补充：所有格/指示词后的形容词 → 定指形式 (Språkvägen D s.190–191)
+
+名词前有 `sin/sitt/hans/de/den` 或 `Nils` 等所有格/定指限定词时，形容词用**定指形式**（+ -a，名词本身用不定形式）：
+
+| grundform | 例句 | 形式变化 |
+|-----------|------|---------|
+| monoton | För att göra den **monotona** träningen lite roligare... | -a |
+| god | Han lockades av de **goda** kakorna. | god → goda |
+| viktig | ...inför den **viktiga** tävlingen. | -a |
+| kort | Nils **korta** karriär är över. | -a（所有格 + 形容词） |
+| framgångsrik | ...hans **framgångsrika** karriär. | -a |
+| hård | Nils är känd för sin **hårda** träning. | -a |
+| ny | ...sitt **nya** intresse. | ny → nya |
+| kritisk | De **kritiska** experterna tvivlade. | -a |
+| bäst | ...sin **bästa** tid för året. | bäst → bästa |
+| strikt | ...sitt **strikta** träningsschema. | strikt → strikta |
+
+→ 形容词在表语位置则不变：`träningen är hård`。关于 `strikt` 作副词 vs 形容词，见 [[grammar-adverb-av-adjektiv]]；最高级定指见 [[grammar-superlativ]]。
+来源: [[source-2026-10-06-adjektiv-adverb-ovning]]
+
 ## 常见错误 (Common Mistakes)
 
 - ⚠️ 所有格后又加定冠词。

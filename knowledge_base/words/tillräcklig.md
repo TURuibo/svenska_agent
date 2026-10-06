@@ -52,6 +52,7 @@ interval: 0
 - 🇸🇪 Är rummet tillräckligt stort? — 🇨🇳 这房间够大吗？
 - 🇸🇪 Han pluggade inte tillräckligt. — 🇨🇳 他学习得不够（用功）。
 - 🇸🇪 Det finns tillräckligt med mat åt alla. — 🇨🇳 食物足够大家吃。
+- 🇸🇪 Det gav inte tillräckligt med tillfredsställelse. — 🇨🇳 这带来的满足感不够。（副词 tillräckligt → [[grammar-adverb-av-adjektiv]]、[[tillräckligt-med]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 
