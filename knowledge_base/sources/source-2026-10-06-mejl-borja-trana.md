@@ -6,8 +6,8 @@ cefr: A2-B1
 date_added: "2026-10-06"
 words: [gymkort, gym, motivation, energi, mejl, skrivmall, enskild, pigg, träna, tankekarta, hoppas, undra, tips, råd, planera, kram, ämne, ju, jo]
 phrases: [sätta-sin-fot, vet-du-vad, hur-går-det-med, ge-tips-och-råd, börja-med-att, hoppas-att-du-mår-bra, komma-iväg, känna-sig, ha-svårt-att, med-hjälp-av, må-bra]
-sentences: []
-grammar: [grammar-privat-brev, grammar-indirekt-fraga, grammar-komparativ, grammar-ju-satsadverbial, grammar-pronomen-som-utrop, grammar-for-att-infinitiv]
+sentences: [sent-hoppas-att-du-mår-bra, sent-hur-går-det-med-svenskan, sent-jag-har-köpt-ett-gymkort, sent-jag-som-aldrig-satt-min-fot-på-ett-gym, sent-varför-har-jag-gjort-det-kanske-du-undrar, sent-jo-jag-vill-känna-mig-piggare-och-få, sent-du-känner-ju-mig-och-vet-att-jag-har, sent-vad-tycker-du-jag-ska-göra-för-att-komma, sent-börja-med-att-planera-svaret-med-hjälp-av]
+grammar: [grammar-privat-brev, grammar-indirekt-fraga, grammar-komparativ, grammar-ju-satsadverbial, grammar-pronomen-som-utrop, grammar-for-att-infinitiv, grammar-preposition-att-infinitiv]
 ---
 
 # 📄 Skrivuppgift — svar på Ellens mejl «Börja träna»
@@ -56,3 +56,4 @@ c) 独立写作：给 Ellen 的邮件写一封你自己的回信，先用思维�
 - 回信要回应 Ellen 的问题：给 **tips och råd**（[[ge-tips-och-råd]]），常用句式：
   *Du kan/borde …*, *Jag tycker att du ska …*, *Ett tips är att …*, *Försök att …*
 - 参考回信见阅读站文章。
+- 主题: [[topic-träning-och-motion]] · [[topic-brev-och-mejl]]
