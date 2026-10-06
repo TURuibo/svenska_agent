@@ -3,7 +3,7 @@ type: topic
 name: "skola och utbildning"
 kind: semantic-field
 zh: 学校与教育（语义场）
-members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå, utbildning, eftergymnasial, gymnasial, förgymnasial, fritidskurs, läsa-en-kurs, på-sin-fritid, stapeldiagram, andel, procent]
+members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå, utbildning, eftergymnasial, gymnasial, förgymnasial, fritidskurs, läsa-en-kurs, på-sin-fritid, stapeldiagram, andel, procent, plugga, plugg, gymnasium, universitet, bibliotek, stressläsa, toppenbetyg, tuff, studie, gå-ut-gymnasiet, gå-sista-året, få-mer-gjort]
 created: "2026-06-03"
 ---
 
@@ -50,6 +50,13 @@ created: "2026-06-03"
 - [[stapeldiagram]] — 柱状图 (bar chart)
 - [[andel]] — 比例、份额 (share, proportion)
 - [[procent]] — 百分比 (per cent)
+
+### 学习与毕业（新增，2026-10-06）
+- [[plugga]] / [[plugg]] — 学习（口语）
+- [[gymnasium]] — 高中；[[universitet]] — 大学；[[bibliotek]] — 图书馆
+- [[stressläsa]] — 考前突击；[[toppenbetyg]] — 顶尖成绩；[[tuff]] — 艰难的；[[studie]] — 学业
+- [[gå-ut-gymnasiet]], [[gå-sista-året]], [[få-mer-gjort]]
+- 来源 [[source-2026-10-06-informellt-brev-tips-och-rad]]
 
 ## 备注 (Notes)
 
