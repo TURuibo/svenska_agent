@@ -9,7 +9,7 @@ zh: "思维导图"
 en: "mind map"
 synonyms: []
 antonyms: []
-family: ["karta"]
+family: ["tanke", "karta"]
 topics: ["topic-skola-och-utbildning"]
 sentences: ["sent-sammanfatta-berättelsen-om-elin-wägner"]
 known: false
@@ -45,7 +45,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[karta]]（地图；"tanke" 尚无独立词条）
+- 词族: [[tanke]]（想法）+ [[karta]]（地图）→ 复合词 tanke-karta
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]

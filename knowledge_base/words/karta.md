@@ -9,7 +9,7 @@ zh: "地图"
 en: "map"
 synonyms: []
 antonyms: []
-family: []
+family: [tankekarta]
 topics:
   - topic-riktningar
 sentences:
@@ -52,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[tankekarta]]（思维导图，tanke + karta）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-riktningar]]
