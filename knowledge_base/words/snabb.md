@@ -46,6 +46,8 @@ interval: 0
 - 🇸🇪 Hästen är väldigt snabb och springer fort. — 🇨🇳 这匹马非常快，跑得很迅速。
 - 🇸🇪 Kan du ge mig ett snabbt svar? — 🇨🇳 你能给我一个快速的回答吗？
 - 🇸🇪 Räven är snabb och svår att fånga. — 🇨🇳 狐狸行动迅速，很难抓到。
+- 🇸🇪 Nils var den snabbaste åkaren i loppet. — 🇨🇳 Nils 是比赛中最快的滑冰者。（最高级 + 定指 -e）
+- 🇸🇪 Han åkte snabbt i tävlingen. — 🇨🇳 他在比赛中滑得很快。（副词 snabbt → [[grammar-adverb-av-adjektiv]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

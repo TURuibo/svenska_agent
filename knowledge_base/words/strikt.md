@@ -43,6 +43,8 @@ created: "2026-10-01"
 - 🇸🇪 Vår lärare är väldigt strikt. — 🇨🇳 我们的老师非常严格。
 - 🇸🇪 Det finns strikta regler på skolan. — 🇨🇳 学校里有严格的规定。
 - 🇸🇪 Hon följer ett strikt schema varje dag. — 🇨🇳 她每天都遵守严格的日程。
+- 🇸🇪 Han följde sitt strikta träningsschema. — 🇨🇳 他遵循自己严格的训练计划。（所有格后 -a → [[grammar-bestamd-form-efter-possessiv]]）
+- 🇸🇪 Många elitidrottare följer strikt en diet. — 🇨🇳 许多精英运动员严格遵守饮食。（**副词**，对比 en strikt diet = 形容词 → [[grammar-adverb-av-adjektiv]]、[[sent-många-elitidrottare-följer-strikt-en-diet]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

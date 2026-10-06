@@ -48,6 +48,8 @@ interval: 0
   🇨🇳 他今天看起来很幸福——发生什么了？
 - 🇸🇪 De **lyckliga** barnen lekte i parken hela eftermiddagen.
   🇨🇳 那些快乐的孩子整个下午都在公园里玩耍。
+- 🇸🇪 Vinsten var en av hans lyckligaste stunder.
+  🇨🇳 胜利是他最幸福的时刻之一。（最高级 → [[grammar-superlativ]]、[[sent-vinsten-var-en-av-hans-lyckligaste-stunder]]、[[en-av-hans-lyckligaste-stunder]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

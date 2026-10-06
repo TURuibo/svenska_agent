@@ -65,6 +65,15 @@ members:
   - till-skillnad-från
   - gå-i-mål
   - få-framtiden-utvisa
+  - överlägsen
+  - elitidrottsman
+  - åkare
+  - lopp
+  - klubb
+  - notera
+  - träningsschema
+  - tycka-om
+  - satsa-seriöst
 created: "2026-09-22"
 ---
 
@@ -146,6 +155,12 @@ created: "2026-09-22"
 - [[till-skillnad-från]] — 与……不同的是
 - [[gå-i-mål]] — 冲过终点
 - [[få-framtiden-utvisa]] — 交给未来揭晓
+
+**形容词/副词练习（Språkvägen D s.259–260）**
+- [[överlägsen]] — 压倒性的 · [[elitidrottsman]] — 精英运动员（男） · [[åkare]] — 滑冰者/选手
+- [[lopp]] — 比赛 · [[klubb]] — 俱乐部 · [[notera]] — 记录 · [[träningsschema]] — 训练计划表
+- [[tycka-om]] — 喜欢 · [[satsa-seriöst]] — 认真投入
+- 语法: [[grammar-adverb-av-adjektiv]] · 来源: [[source-2026-10-06-adjektiv-adverb-ovning]]
 
 ## 备注 (Notes)
 

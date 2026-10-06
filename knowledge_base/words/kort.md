@@ -51,6 +51,13 @@ interval: 0
 - 🇸🇈 Kan jag betala med **kort**? — 🇨🇳 我可以刷卡付款吗？
 - 🇸🇈 Jag skickade ett **kort** till mina föräldrar från Stockholm. — 🇨🇳 我从斯德哥尔摩给父母寄了一张明信片。
 
+**同形异义：kort (adjektiv) 短的 / 矮的**（kort – kort – korta；反义 [[lång]]）：
+
+- 🇸🇪 Nils korta karriär är över. — 🇨🇳 Nils 短暂的职业生涯结束了。（所有格后 -a → [[grammar-bestamd-form-efter-possessiv]]）
+- 🇸🇪 Hans korta men framgångsrika karriär var över. — 🇨🇳 他短暂但成功的职业生涯结束了。
+- 🇸🇪 Det är en kort väg till skolan. — 🇨🇳 去学校的路很短。
+- 来源: [[source-2026-10-06-adjektiv-adverb-ovning]]
+
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kortbetalning]] (en, 刷卡支付), [[kreditkort]] (ett, 信用卡), [[betalkort]] (ett, 借记卡)

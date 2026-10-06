@@ -47,6 +47,7 @@ interval: 0
 - 🇸🇪 [[sent-zlatans-barndom-var-svar]] Zlatans barndom var svår. — 🇨🇳 兹拉坦的童年很艰难。
 - 🇸🇪 Det är svårt att lära sig svenska utan att öva. — 🇨🇳 不练习就很难学好瑞典语。
 - 🇸🇪 Han hade det svårt när han var liten. — 🇨🇳 他小时候日子过得很艰难。
+- 🇸🇪 – Vilken är den svåraste sporten? — 🇨🇳 哪项运动最难？（最高级定指 → [[grammar-superlativ]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

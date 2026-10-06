@@ -46,6 +46,8 @@ interval: 0
 - 🇸🇪 Han är stark och kan bära tunga saker. — 🇨🇳 他很强壮，能搬重东西。
 - 🇸🇪 Kaffet är för starkt för mig. — 🇨🇳 这咖啡对我来说太浓了。
 - 🇸🇪 Hon har en stark vilja att bli frisk. — 🇨🇳 她有很强的意愿恢复健康。
+- 🇸🇪 Hans självbild var starkt förknippad med att vara elitidrottsman. — 🇨🇳 他的自我形象与身为精英运动员紧密相连。（副词 starkt → [[grammar-adverb-av-adjektiv]]）
+- 🇸🇪 Det är något som Nils ifrågasätter starkt. — 🇨🇳 这是 Nils 强烈质疑的事。
 
 ## 词族 / 同义 / 反义 (Relations)
 

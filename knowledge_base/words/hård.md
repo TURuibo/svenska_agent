@@ -43,6 +43,9 @@ interval: 0
 - 🇸🇪 Brödet är gammalt och väldigt hårt. — 🇨🇳 这面包很旧，非常硬。
 - 🇸🇪 Stenen var hård och tung. — 🇨🇳 石头又硬又重。
 - 🇸🇪 Det är hårt att arbeta hela dagen utan paus. — 🇨🇳 整天不休息地工作很辛苦。
+- 🇸🇪 Nils är känd för sin hårda träning. — 🇨🇳 Nils 以艰苦的训练闻名。（所有格后 -a → [[grammar-bestamd-form-efter-possessiv]]）
+- 🇸🇪 Han tränade hårt för att bli bäst i världen. — 🇨🇳 他刻苦训练想成为世界第一。（副词 hårt → [[grammar-adverb-av-adjektiv]]）
+- 🇸🇪 Nils tränade hårdast av alla i klubben. — 🇨🇳 Nils 在俱乐部里训练得最刻苦。（副词最高级 → [[sent-nils-tränade-hårdast-av-alla]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 
