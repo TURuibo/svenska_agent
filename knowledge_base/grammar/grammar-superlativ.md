@@ -118,6 +118,25 @@ Sveriges bästa mat（瑞典最好的食物）
 
 对比口诀: **表语/副词 → `-ast`；定语（前面有 den/sitt/hans…）→ `-aste`**。
 
+### 6. 怎么"看出" bestämd superlativ（判断流程，2026-10-06 补）
+
+Superlativ 的 bestämd form 本身**没有额外的"定冠词"标记可看**——唯一的痕迹就是词尾多一个 **-e / -a**。
+要判断填不填 -e，看**形容词左边和右边**：
+
+```
+形容词右边有名词吗？
+├─ 没有（在 är/var/bli/tycker…var 后面，或修饰动词）→ 不定式 -ast / -st   (roligast, bäst, hårdast)
+└─ 有名词 → 看左边：
+    ├─ den / det / de                → -aste / -sta  (den snabbaste åkaren)
+    ├─ 所有格 hans/sin/sitt/Nils/livs → -aste / -sta  (sitt livs viktigaste beslut)
+    └─ en av + 上面任一 + 复数名词     → -aste / -sta  (en av hans lyckligaste stunder)
+```
+
+- 瑞典语最高级作定语时**几乎总是**定指（"最……的那个"天然是特指），所以名词前的最高级基本都是 -e 形式。
+- **-aste vs -sta**：词干 -ast 型 → **-aste**（snabbast→snabbaste）；不规则 -st 型 → **-sta**（bäst→bästa, störst→största, värst→värsta, mest→mesta, högst→högsta）。
+- 定式最高级**不分 en/ett/复数**：den snabbaste åkaren / det snabbaste tåget / de snabbaste åkarna。
+- 名词跟着变：den/det/de 后名词用**定式**（åkaren）；所有格后名词用**不定式**（beslut, stunder）。见 [[grammar-bestamd-form-efter-possessiv]]。
+
 ## 常见错误 (Common Mistakes)
 
 - ⚠️ 定式最高级忘记加 `-a`：`den bäst dagen` → 应为 `den bäst**a** dagen`。
