@@ -3,7 +3,7 @@ type: topic
 name: "skola och utbildning"
 kind: semantic-field
 zh: 学校与教育（语义场）
-members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå, utbildning, eftergymnasial, gymnasial, förgymnasial, fritidskurs, läsa-en-kurs, på-sin-fritid, stapeldiagram, andel, procent]
+members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå, utbildning, eftergymnasial, gymnasial, förgymnasial, fritidskurs, läsa-en-kurs, på-sin-fritid, stapeldiagram, andel, procent, studiedag, fritidshem, fotograf, fotografera, expedition]
 created: "2026-06-03"
 ---
 
@@ -59,3 +59,8 @@ created: "2026-06-03"
 - 可扩充：gymnasiet（高中）, universitet（大学）, läroplan（课程大纲）...
 - 2026-08-06: 新增5词来自 Elin Wägner 传记 [[source-2026-08-06-elin-wagner]]（历史上女性受教育机会受限）。
 - 2026-09-03: 新增10词/词组来自 SFI 教材 s.64-65 柱状图阅读理解 [[source-2026-09-03-sfi-meddelanden-diagram]]（各国/教育水平参与业余课程的比例统计）。
+- [[studiedag]] — 教师研修日
+- [[fritidshem]] — 课后托管
+- [[fotograf]] — 摄影师
+- [[fotografera]] — 拍照
+- [[expedition]] — 办公室；服务窗口
