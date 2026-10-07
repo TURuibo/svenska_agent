@@ -3,7 +3,7 @@ type: topic
 name: arbete
 kind: semantic-field
 zh: 工作 / 职业（语义场）
-members: [arbeta, jobba, jobb, fackförening, a-kassa]
+members: [arbeta, jobba, jobb, fackförening, a-kassa, distansarbete, rutin]
 created: 2026-06-02
 ---
 
