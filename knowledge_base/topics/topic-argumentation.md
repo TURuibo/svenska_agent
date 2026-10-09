@@ -4,7 +4,7 @@ name: "argumentation"
 kind: thematic
 zh: "论证与观点表达（理由、主张、让步、结论）"
 en: "Argumentation & expressing opinions"
-members: [alltså, därmed, nämligen, skäl, tanke, anta, föreslå, inse, lösning, hävda, förutsättning, uppmana, anledning, därför, eftersom, anse, mena, åsikt, förslag, dessutom, däremot, å-ena-sidan-å-andra-sidan, hävda-att, i-längden, ta-frågan-på-allvar, vara-med-och-bestämma, jag-anser-att, visserligen-men, det-är-dags-att, förhållande, uppfattning, kritik, påstå, argument, orsak, konflikt, slutsats, förmodligen, kritisera, aning, minne, ha-ingen-aning, komma-med-kritik, framgå, undantag, medföra, följd, riskera, slutligen, eventuell, upplevelse, orsaka, för-övrigt, med-tanke-på, i-allmänhet, av-framgår-att, på-lång-sikt]
+members: [alltså, därmed, nämligen, skäl, tanke, anta, föreslå, inse, lösning, hävda, förutsättning, uppmana, anledning, därför, eftersom, anse, mena, åsikt, förslag, dessutom, däremot, å-ena-sidan-å-andra-sidan, hävda-att, i-längden, ta-frågan-på-allvar, vara-med-och-bestämma, jag-anser-att, visserligen-men, det-är-dags-att, förhållande, uppfattning, kritik, påstå, argument, orsak, konflikt, slutsats, förmodligen, kritisera, aning, minne, ha-ingen-aning, komma-med-kritik, framgå, undantag, medföra, följd, riskera, slutligen, eventuell, upplevelse, orsaka, för-övrigt, med-tanke-på, i-allmänhet, av-framgår-att, på-lång-sikt, utmaning, inställning, synpunkt, nytta, förtroende, resonemang, motsvara, samband, likhet, med-andra-ord, i-förhållande-till, i-själva-verket, motivation, jämförelse]
 created: "2026-10-02"
 ---
 
@@ -68,6 +68,25 @@ created: "2026-10-02"
 - [[jag-anser-att]] — 我认为……（正式）
 - [[visserligen-men]] — 虽然……但是……
 - [[det-är-dags-att]] — 是时候……了
+
+### 补充：App eller kurs? (2026-10-09)
+
+- [[utmaning]]
+- [[inställning]]
+- [[synpunkt]]
+- [[nytta]]
+- [[förtroende]]
+- [[resonemang]]
+- [[motsvara]]
+- [[samband]]
+- [[likhet]]
+- [[med-andra-ord]]
+- [[i-förhållande-till]]
+- [[i-själva-verket]]
+- [[motivation]]
+- [[jämförelse]]
+
+来源: [[source-2026-10-09-fokus-app-eller-kurs]]
 
 ## 对比：五个"因果 / 结论"小词 (Cause & conclusion)
 

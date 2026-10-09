@@ -7,6 +7,9 @@ en: Waste sorting & waste management
 related_topics: [topic-miljö-och-klimat, topic-hemmet]
 words:
   - källsortering
+  - grovsopor
+  - elavfall
+  - återvinningscentral
   - avfall
   - matavfall
   - restavfall
