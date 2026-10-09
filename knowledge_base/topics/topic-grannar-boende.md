@@ -3,7 +3,7 @@ type: topic
 name: "grannar och boende"
 kind: semantic-field
 zh: 邻居与居住（语义场）
-members: [granne, våning, port, lägenhet, störa, inflyttningsfest, knacka-på, meddelande, syfte, informera, tacka, klaga, hota, efterlysa, be-om-hjälp, bjuda-in-till-fest, kattvakt, ramla, rumsren, gosig, fönsterputs, erbjuda, tjänst, kvalitet, reklam, göra-reklam, ha-överseende-med-något, överseende, regel, respektera, ett-fång-rosor, fång, borra, höras, grannforum, trapphus, cykelhjul, tjuv, utrymningsväg, cykelrum, källare, borr, tvättstuga, bokningstavla, ludd, fastighetsskötare]
+members: [granne, våning, port, lägenhet, störa, inflyttningsfest, knacka-på, meddelande, syfte, informera, tacka, klaga, hota, efterlysa, be-om-hjälp, bjuda-in-till-fest, kattvakt, ramla, rumsren, gosig, fönsterputs, erbjuda, tjänst, kvalitet, reklam, göra-reklam, ha-överseende-med-något, överseende, regel, respektera, ett-fång-rosor, fång, borra, höras, grannforum, trapphus, cykelhjul, tjuv, utrymningsväg, cykelrum, källare, borr, tvättstuga, bokningstavla, ludd, fastighetsskötare, varmvatten, kallvatten, ventil, firma, grovsopor]
 created: "2026-09-03"
 ---
 

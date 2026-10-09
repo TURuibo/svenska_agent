@@ -16,6 +16,7 @@ members:
   - djur
   - vår
   - höst
+  - kantarell
 created: "2026-06-29"
 ---
 
