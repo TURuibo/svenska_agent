@@ -18,6 +18,12 @@ members:
   - salt
   - korv
   - mjuk
+  - kokt
+  - fryst
+  - ekologisk
+  - hemlagad
+  - sylt
+  - flaska
   - bulle
   - krispig
   - kaka
@@ -285,4 +291,4 @@ created: 2026-06-11
 - Synonympar i temat: [[hård]] ↔ [[mjuk]], [[varm]] ~ [[het]], [[rå]] ↔ [[mogen]]
 - Allergi-grupp: [[allergisk]], [[tåla]], [[nöt]], [[laktos]], [[grädde]] — alla relaterade till allergi och specialkost
 - 复合词族 mat-: [[matblogg]]、[[matkultur]]、[[matkasse]]、[[matminne]]（待建）
-- Källa: [[source-2026-06-11-mat-dryck]] · [[source-2026-06-15-restaurang-middag]] · [[source-2026-06-15-restaurang-allergi-nota]] · [[source-2026-06-15-restaurang-rekommendation]] · [[source-2026-07-01-adjsubst-mat-dryck]] · [[source-2026-09-22-zeina-mourtada]]
+- Källa: [[source-2026-06-11-mat-dryck]] · [[source-2026-06-15-restaurang-middag]] · [[source-2026-06-15-restaurang-allergi-nota]] · [[source-2026-06-15-restaurang-rekommendation]] · [[source-2026-07-01-adjsubst-mat-dryck]] · [[source-2026-09-22-zeina-mourtada]] · [[source-2026-10-09-adjsubst-mat-dryck]]
