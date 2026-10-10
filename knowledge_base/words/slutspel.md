@@ -7,7 +7,7 @@ cefr: "B1"
 zh: "淘汰赛；决赛阶段"
 en: "knockout stage; playoffs"
 synonyms: []
-antonyms: []
+antonyms: [grundserie]
 family: [gruppspel]
 topics: [topic-fotboll]
 sentences:
@@ -23,6 +23,9 @@ interval: 0
 # slutspel — substantiv
 
 📖 中文：淘汰赛；决赛阶段 · English: knockout stage; playoffs
+
+🇸🇪 Förklaring: del av en turnering efter gruppspelet där lagen möts i utslagsmatcher
+
 发音提示：SLUT-spel
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gruppspel]]
+- 同义词: —
+- 反义词: [[grundserie]] (常规赛)
 - 相关: [[match]], [[mål]]
 - 主题: [[topic-fotboll]]
 

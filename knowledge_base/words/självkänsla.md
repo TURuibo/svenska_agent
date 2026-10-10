@@ -6,11 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "自尊；自我价值感"
 en: "self-esteem; sense of self-worth"
-synonyms:
-  - självförtroende
-antonyms: []
-family:
-  - självbild
+synonyms: [självförtroende]
+antonyms: [mindervärdeskänsla]
+family: [självbild]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -26,6 +24,9 @@ interval: 0
 # självkänsla — substantiv en
 
 📖 中文：自尊；自我价值感 · English: self-esteem
+
+🇸🇪 Förklaring: upplevelse av att man har ett eget värde och duger som man är
+
 发音提示：/SJÄLV-käns-la/
 
 ## 语法变形 (Forms)
@@ -48,8 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: självbild（自我形象）
-- 同义词: självförtroende（自信，稍侧重能力感）
+- 词族: [[självbild]]（自我形象）
+- 同义词: [[självförtroende]]（自信，稍侧重能力感）
+- 反义词: [[mindervärdeskänsla]] (自卑感)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

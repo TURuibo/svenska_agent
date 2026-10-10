@@ -8,7 +8,7 @@ zh: "天鹅"
 en: "swan"
 synonyms: []
 antonyms: []
-family: ["fågel"]
+family: [fågel]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # svan — substantiv (en)
 
 📖 中文：天鹅 · English: swan
+
+🇸🇪 Förklaring: stor, oftast vit fågel med lång hals som simmar på sjöar
+
 发音提示：/svɑːn/
 
 ## 语法变形 (Forms)

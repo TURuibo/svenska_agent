@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 理发
 en: haircut
-synonyms: []
+synonyms: [hårklippning]
 antonyms: []
 family: [frisör]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # klippning — substantiv (en)
 
 📖 中文：理发 · English: haircut
+
+🇸🇪 Förklaring: när en frisör gör håret kortare med sax eller maskin
+
 发音提示：/ˈklɪpːnɪŋ/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[frisör]]
-- 同义词:
-- 反义词:
+- 同义词: [[hårklippning]] (理发)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

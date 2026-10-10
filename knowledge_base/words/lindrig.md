@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 轻微的，温和的
 en: mild, slight
-synonyms: []
+synonyms: [lätt, mild]
 antonyms: [allvarlig]
-family: []
+family: [lindra, lindring]
 topics: [topic-hälsa]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # lindrig — adjektiv
 
 📖 中文：轻微的，温和的 · English: mild, slight
+
+🇸🇪 Förklaring: som inte är så allvarlig eller stark, t.ex. om en skada eller sjukdom
+
 发音提示：[ˈlindrɪɡ]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[lindra]] (减轻), [[lindring]] (缓解)
+- 同义词: [[lätt]] (轻的), [[mild]] (温和的)
 - 反义词: [[allvarlig]]
 - 主题: [[topic-hälsa]]
 

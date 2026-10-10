@@ -6,9 +6,9 @@ genus: en
 cefr: "A1"
 zh: "自然；大自然"
 en: "nature"
-synonyms: []
+synonyms: [skog-och-mark]
 antonyms: []
-family: [kust, miljö]
+family: [miljö, kust]
 topics: [topic-miljö-och-klimat]
 sentences:
   - sent-folk-tycker-att-hotellen-skulle-forstora-for-djur
@@ -23,6 +23,9 @@ interval: 0
 # natur — substantiv
 
 📖 中文：自然；大自然 · English: nature
+
+🇸🇪 Förklaring: allt som inte är gjort av människor, till exempel skog, berg, hav, djur och växter
+
 发音提示：na-TUR
 
 ## 语法变形 (Forms)
@@ -52,6 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[miljö]], [[kust]]
+- 同义词: [[skog-och-mark|skog och mark]] (山林野外)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

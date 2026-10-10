@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "成熟, 变熟"
 en: "to ripen, to mature"
-synonyms: []
+synonyms: [utvecklas]
 antonyms: []
-family: ["mogen", "omogen"]
+family: [mogen, omogen]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # mogna — verb
 
 📖 中文：成熟, 变熟 · English: to ripen, to mature
+
+🇸🇪 Förklaring: bli färdig att äta (om frukt); bli mer vuxen i sitt sätt att tänka och vara
+
 发音提示：mog-na
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mogen]], [[omogen]]
-- 同义词:
-- 反义词:
+- 同义词: [[utvecklas]] (发展)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

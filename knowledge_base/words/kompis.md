@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "好友、伙伴"
 en: "buddy"
-synonyms: ["vän"]
-antonyms: []
-family: []
+synonyms: [vän]
+antonyms: [fiende]
+family: [skolkompis, lekkompis, jobbkompis]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kompis — substantiv (en)
 
 📖 中文：好友、伙伴 · English: buddy
+
+🇸🇪 Förklaring: person som man tycker om och ofta träffar och gör saker med (vardagligt)
+
 发音提示：/ˈkɔmpɪs/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[skolkompis]] (同学朋友), [[lekkompis]] (玩伴), [[jobbkompis]] (工作伙伴)
 - 同义词: [[vän]]
+- 反义词: [[fiende]] (敌人)
 - 主题: [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

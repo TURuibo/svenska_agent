@@ -6,8 +6,8 @@ cefr: B1
 zh: 口头地
 en: orally
 synonyms: []
-antonyms: []
-family: []
+antonyms: [skriftligt]
+family: [muntlig, mun]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-i-vecka-sex-ska-alla-redovisa]
 source: source-2026-10-09-komvux-kursstart
@@ -18,6 +18,10 @@ created: "2026-10-09"
 # muntligt — adverb
 
 📖 中文：口头地 · English: orally
+
+🇸🇪 Förklaring: med talade ord och inte på papper
+
+发音提示：/ˈmɵntlɪt/ — u 读短 ɵ；-igt 的 g 不发音
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[muntlig]] (口头的), [[mun]] (嘴)
+- 同义词: —
+- 反义词: [[skriftligt]] (书面地)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

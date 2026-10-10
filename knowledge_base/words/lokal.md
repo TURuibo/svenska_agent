@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "场地；房间；场所；店面"
 en: "premises; venue; room"
-synonyms: []
+synonyms: [utrymme, rum]
 antonyms: []
-family: []
+family: [lokalisera]
 topics: []
 sentences: [sent-det-är-en-billig-lösning-eftersom-lokalerna]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # lokal — substantiv (en)
 
 📖 中文：场地；房间；场所；店面 · English: premises; venue; room
+
+🇸🇪 Förklaring: rum eller byggnad som används för ett visst ändamål, t.ex. butik, kontor eller möten
+
 发音提示：lo-KAL，重音在最后一个音节。
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 同形形容词 `lokal`（本地的）、`lokalisera`（定位）
-- 同义词: `utrymme`（空间）；近义 `rum`（房间）
+- 词族: [[lokalisera]]（定位）
+- 同义词: [[utrymme]]（空间）, 近义 [[rum]]（房间）
 - 反义词: —
 - 主题: —
 

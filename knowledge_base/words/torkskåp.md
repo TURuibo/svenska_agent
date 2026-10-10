@@ -19,6 +19,9 @@ created: "2026-09-26"
 # torkskåp — substantiv
 
 📖 中文：烘干柜 · English: drying cabinet
+
+🇸🇪 Förklaring: skåp med varm luft där man hänger tvätt så att den blir torr
+
 发音提示：/ˈtɔrkˌskoːp/ — tork- 短 o，-skåp 长 å；ett-词，复数不变
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[torka]] (晾干/烘干), [[skåp]] (柜子)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

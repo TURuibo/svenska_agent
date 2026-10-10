@@ -7,12 +7,9 @@ genus: en
 cefr: "A2"
 zh: "胜利；利润，盈利"
 en: "win, victory; profit"
-synonyms: []
-antonyms: []
-family:
-  - vinna
-  - vinnare
-  - seger
+synonyms: [seger]
+antonyms: [förlust]
+family: [vinna, vinnare, seger]
 topics:
   - topic-fotboll
 sentences:
@@ -28,6 +25,9 @@ interval: 0
 # vinst — substantiv
 
 📖 中文：胜利；利润，盈利 · English: win, victory; profit
+
+🇸🇪 Förklaring: det att man blir bäst i en tävling; pengar som man tjänar när intäkterna är större än kostnaderna
+
 发音提示：[vɪnst]
 
 ## 语法变形 (Forms)
@@ -58,9 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vinna（赢），[[vinnare]]
-- 同义词: seger（胜利，正式）
-- 反义词: förlust（失败；亏损）
+- 词族: [[vinna]]（赢）, [[vinnare]], [[seger]] (胜利)
+- 同义词: [[seger]]（胜利，正式）
+- 反义词: [[förlust]]（失败；亏损）
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

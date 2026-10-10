@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 人口密集的
 en: populous, densely populated
-synonyms: []
-antonyms: ["folktom"]
-family: ["folk"]
+synonyms: [tätbefolkad]
+antonyms: [folktom]
+family: [folk]
 topics: ["topic-stadsmiljo", "topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # folkrik — adjektiv
 
 📖 中文：人口密集的 · English: populous, densely populated
+
+🇸🇪 Förklaring: som har många invånare, om en stad, ett område eller ett land
+
 发音提示：FOLK-rik
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[folk]]
+- 同义词: [[tätbefolkad]] (人口稠密的)
 - 反义词: [[folktom]]
 - 主题: [[topic-stadsmiljo]], [[topic-samhälle-och-politik]]
 

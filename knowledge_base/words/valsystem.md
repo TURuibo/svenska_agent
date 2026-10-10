@@ -23,6 +23,9 @@ interval: 0
 # valsystem — substantiv (ett)
 
 📖 中文：选举制度 · English: electoral system
+
+🇸🇪 Förklaring: regler för hur man röstar och hur rösterna blir till platser i ett parlament
+
 发音提示：VAL-sys-tem
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: val（选举），system（制度）
+- 词族: [[val]]（选举）, [[system]]（制度）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 慈善
 en: charity
-synonyms: []
+synonyms: [filantropi, bistånd]
 antonyms: []
 family: [skänka]
 topics: [topic-sociala-normer]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # välgörenhet — substantiv (en)
 
 📖 中文：慈善 · English: charity
+
+🇸🇪 Förklaring: när man ger pengar eller hjälp till människor som har det svårt, utan att vilja ha något tillbaka
+
 发音提示：/ˈvɛːlˌjœːrənheːt/
 
 ## 语法变形 (Forms)
@@ -40,8 +43,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skänka]]
-- 同义词:
-- 反义词:
+- 同义词: [[filantropi]] (慈善事业), [[bistånd]] (援助)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

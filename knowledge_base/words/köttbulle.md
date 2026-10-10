@@ -9,7 +9,7 @@ zh: "肉丸"
 en: "meatball"
 synonyms: []
 antonyms: []
-family: []
+family: [bulle]
 topics:
   - topic-mat-dryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # köttbulle — substantiv (en)
 
 📖 中文：肉丸 · English: meatball
+
+🇸🇪 Förklaring: liten rund kula av köttfärs som man steker eller kokar
+
 发音提示：["SHÖT-bull-eh"] — 复合词，kött 发音类似 "shöt"
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bulle]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

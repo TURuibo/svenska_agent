@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 爬/攀登
 en: to climb
-synonyms: []
+synonyms: [klänga]
 antonyms: []
-family: []
+family: [klättring, klättrare, klätterställning, bergsklättring]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # klättra — verb (v.1)
 
 📖 中文：爬/攀登 · English: to climb
+
+🇸🇪 Förklaring: ta sig uppåt med hjälp av händer och fötter, t.ex. i ett träd eller på ett berg
+
 发音提示：klÄTT-ra；双写 `tt`，元音 `ä` 短促。
 
 ## 语法变形 (Forms)
@@ -54,8 +57,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[klättring]] (攀爬), [[klättrare]] (攀登者), [[klätterställning]] (攀爬架), [[bergsklättring]] (登山攀岩)
+- 同义词: [[klänga]] (攀；攀附)
 - 反义词: —
 - 主题: —
 

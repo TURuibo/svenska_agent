@@ -8,7 +8,7 @@ zh: 龙虾（海产）
 en: lobster
 synonyms: []
 antonyms: []
-family: ["hummerfiske"]
+family: [hummerfiske]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hummer — substantiv (en)
 
 📖 中文：龙虾（海产） · English: lobster
+
+🇸🇪 Förklaring: stort skaldjur med två stora klor som lever i havet och blir rött när man kokar det
+
 发音提示：HUM-mer（两音节，重音在前）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hummerfiske]]（龙虾捕捞）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

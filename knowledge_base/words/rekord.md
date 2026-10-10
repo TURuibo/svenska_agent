@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "纪录"
 en: "record"
-synonyms: []
+synonyms: [toppnotering]
 antonyms: []
-family: ["rekordstor", "rekordmånga"]
+family: [rekordstor, rekordmånga]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # rekord — substantiv (ett)
 
 📖 中文：纪录 · English: record
+
+🇸🇪 Förklaring: det bästa, största eller snabbaste resultat som någon har nått
+
 发音提示：[reˈkuːɖ]
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: rekordstor (创纪录地大), rekordmånga (创纪录地多)
+- 词族: [[rekordstor]] (创纪录地大), [[rekordmånga]] (创纪录地多)
+- 同义词: [[toppnotering]] (最高纪录)
+- 反义词: —
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

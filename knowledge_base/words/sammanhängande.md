@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "连续的；不间断的"
 en: "consecutive; continuous"
-synonyms: []
-antonyms: []
-family: [hänga]
+synonyms: [oavbruten, kontinuerlig]
+antonyms: [osammanhängande, uppdelad]
+family: [hänga, sammanhang]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-vi-rekommenderar-fyra-veckors-sammanhängande]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sammanhängande — adjektiv (presens particip)
 
 📖 中文：连续的；不间断的；连贯的 · English: consecutive; continuous; coherent
+
+🇸🇪 Förklaring: som fortsätter utan avbrott eller pauser
+
 发音提示：[ˈsamːanˌhɛŋandɛ]，samman（一起）+ hängande（挂着的）。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hänga]], sammanhang（联系、语境）
+- 词族: [[hänga]], [[sammanhang]]（联系、语境）
+- 同义词: [[oavbruten]] (不间断的), [[kontinuerlig]] (连续的)
+- 反义词: [[osammanhängande]] (不连贯的), [[uppdelad]] (分开的)
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

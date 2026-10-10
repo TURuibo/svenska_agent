@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 同事、员工
 en: co-worker
-synonyms: []
+synonyms: [kollega, anställd]
 antonyms: []
 family: [arbeta]
 topics: [topic-arbete-och-jobb]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # medarbetare — substantiv (en)
 
 📖 中文：同事、员工 · English: co-worker
+
+🇸🇪 Förklaring: person som arbetar på samma arbetsplats eller i samma företag som andra
+
 发音提示：/ˈmeːdˌarbeːtarə/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[arbeta]]
-- 同义词:
-- 反义词:
+- 同义词: [[kollega]] (同事), [[anställd]] (员工)
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: A2
 zh: "神，神灵"
 en: "god, deity"
-synonyms: ["gudomlighet"]
-antonyms: []
-family: ["guddom", "gudinna", "gudlig"]
+synonyms: [gudomlighet]
+antonyms: [djävul]
+family: [guddom, gudinna, gudlig]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gud — substantiv (en)
 
 📖 中文：神，神灵 · English: god, deity
+
+🇸🇪 Förklaring: övernaturligt väsen som människor tror har skapat världen eller styr den
+
 发音提示：/ɡɵːd/，单音节
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: guddom (en, 神性/神格), gudinna (en, 女神), gudlig (adj, 神圣的/敬虔的)
-- 同义词: gudomlighet (en, 神性/神灵，较书面)
-- 反义词: —
+- 词族: [[guddom]] (en, 神性/神格), [[gudinna]] (en, 女神), [[gudlig]] (adj, 神圣的/敬虔的)
+- 同义词: [[gudomlighet]] (en, 神性/神灵，较书面)
+- 反义词: [[djävul]] (魔鬼)
 - 主题: [[topic-vikingatiden]]
 
 ## 用法提示 (Usage Notes)

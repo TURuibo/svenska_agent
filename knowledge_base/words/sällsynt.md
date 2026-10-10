@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 稀有的，罕见的
 en: rare, uncommon
-synonyms: ["ovanlig", "unik"]
-antonyms: ["vanlig", "vanlig"]
-family: ["sällan"]
+synonyms: [ovanlig, unik]
+antonyms: [vanlig]
+family: [sällan]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # sällsynt — adjektiv
 
 📖 中文：稀有的，罕见的 · English: rare, uncommon
+
+🇸🇪 Förklaring: som inte finns i stort antal eller inte händer ofta
+
 发音提示：SÄLL-synt（两音节，重音在前）
 
 ## 语法变形 (Forms)

@@ -8,7 +8,7 @@ zh: "疟疾"
 en: "malaria"
 synonyms: []
 antonyms: []
-family: []
+family: [malariamygga, malariamedicin]
 topics: []
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # malaria — substantiv
 
 📖 中文：疟疾 · English: malaria
-发音提示：
+
+🇸🇪 Förklaring: allvarlig sjukdom med hög feber som sprids av myggor i varma länder
+
+发音提示：/maˈlɑːrɪa/ — 重音在第二音节 la
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[malariamygga]] (疟蚊), [[malariamedicin]] (抗疟药)
+- 同义词: —
+- 反义词: —
 - 主题: [[]]
 
 ## 用法提示 (Usage Notes)

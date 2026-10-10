@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 街道；马路
 en: street
-synonyms: []
+synonyms: [väg]
 antonyms: []
-family: ["gatukök", "gaturum"]
+family: [gatukök, gaturum]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gata — substantiv (en-ord)
 
 📖 中文：街道；马路 · English: street
+
+🇸🇪 Förklaring: väg i en stad eller ett samhälle, ofta med hus på båda sidor
+
 发音提示：/ˈɡɑːta/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: gatukök (街边快餐)
+- 词族: [[gatukök]] (街边快餐), [[gaturum]]
 - 同义词: [[väg]]
 - 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-trafik]]

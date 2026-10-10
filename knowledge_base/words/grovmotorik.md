@@ -19,6 +19,9 @@ created: "2026-09-26"
 # grovmotorik — substantiv
 
 📖 中文：大动作（跑、爬、跳） · English: gross motor skills
+
+🇸🇪 Förklaring: förmåga att styra hela kroppen och de stora musklerna, till exempel när man springer och hoppar
+
 发音提示：/ˈɡroːvmoˌtoːrik/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[motorik]], [[finmotorik]]
+- 同义词: —
 - 反义词: [[finmotorik]]
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 

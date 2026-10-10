@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 在上面；醒着（起床的）；（hålla uppe）维持
 en: up (location); awake; (hålla uppe) keep up
-synonyms: []
-antonyms: []
-family: [upp]
+synonyms: [vaken]
+antonyms: [nere]
+family: [upp, uppåt]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # uppe — adverb
 
 📖 中文：在上面；醒着（已起床）；（hålla uppe）维持 · English: up (location); awake; (hålla uppe) keep up
+
+🇸🇪 Förklaring: på en högre plats; vaken och inte i sängen
+
 发音提示：/ˈɵpːɛ/；UP-pe，`u` 读 /ɵ/，`pp` 读长。
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[upp]]（向上）, uppåt
-- 同义词: —
-- 反义词: nere（在下面）
+- 词族: [[upp]]（向上）, [[uppåt]]
+- 同义词: [[vaken]] (醒着的)
+- 反义词: [[nere]]（在下面）
 - 主题:
 
 ## 用法提示 (Usage Notes)

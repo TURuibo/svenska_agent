@@ -7,9 +7,9 @@ genus: ett
 cefr: B1
 zh: 请愿书；呼吁；号召
 en: petition; appeal; call
-synonyms: ["petition", "vädjan"]
+synonyms: [petition, vädjan]
 antonyms: []
-family: ["ropa", "upp-"]
+family: [ropa, upp, upp-]
 topics: ["topic-samhälle-och-politik", "topic-miljö-och-klimat"]
 sentences:
   - "sent-över-200-kända-personer-har-skrivit"
@@ -25,6 +25,9 @@ interval: 0
 # upprop — substantiv (ett)
 
 📖 中文：请愿书；呼吁；号召 · English: petition; appeal; call
+
+🇸🇪 Förklaring: skriftlig vädjan som många skriver under för att kräva något; offentlig uppmaning till människor att göra något
+
 发音提示：[ˈɵpˌruːp] — prefix upp + rop (shout/call)
 
 ## 语法变形 (Forms)
@@ -53,8 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ropa (to call/shout), upp (up)
-- 同义词: petition, vädjan
+- 词族: [[ropa]] (to call/shout), [[upp]] (up), [[upp-]]
+- 同义词: [[petition]], [[vädjan]]
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]], [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: ""
 cefr: B1
 zh: 期望；预期；期待
 en: to expect; to anticipate
-synonyms: []
+synonyms: [räkna-med, vänta-sig, anta]
 antonyms: []
 family: [förväntan, förväntning]
 topics: []
@@ -24,6 +24,9 @@ interval: 0
 # förvänta sig — verb (grupp 1, reflexivt)
 
 📖 中文：期望；预期；期待 · English: to expect; to anticipate
+
+🇸🇪 Förklaring: tro och räkna med att något ska hända eller att någon ska göra något
+
 发音提示：[fɔrˈvɛnta sɛj]，reflexivt verb（反身动词）
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förväntan]], [[förväntning]]
-- 同义词: —
+- 同义词: [[räkna-med|räkna med]] (预计), [[vänta-sig|vänta sig]] (料想), [[anta]] (假设)
 - 反义词: —
 - 主题: —
 

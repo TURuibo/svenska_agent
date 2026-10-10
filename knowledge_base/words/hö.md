@@ -9,7 +9,7 @@ zh: 干草
 en: hay
 synonyms: []
 antonyms: []
-family: []
+family: [höskörd, höstack]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hö — substantiv (ett)
 
 📖 中文：干草 · English: hay
+
+🇸🇪 Förklaring: torkat gräs som man ger som mat till hästar, kor och andra djur
+
 发音提示：HÖ；单音节，元音 `ö` 长音，嘴形圆扁。
 
 ## 语法变形 (Forms)

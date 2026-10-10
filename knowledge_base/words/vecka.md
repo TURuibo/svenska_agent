@@ -9,7 +9,7 @@ zh: "周、星期"
 en: "week"
 synonyms: []
 antonyms: []
-family: ["veckodag", "veckoslut", "veckovis", "veckotidning"]
+family: [veckodag, veckoslut, veckovis, veckotidning]
 topics: ["topic-tid"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vecka — substantiv
 
 📖 中文：周、星期 · English: week
+
+🇸🇪 Förklaring: tidsperiod på sju dagar, från måndag till söndag
+
 发音提示：e 发短音 /ɛ/，ck 发 /k/，重音在第一音节，读作 "VEK-ka"。
 
 ## 语法变形 (Forms)
@@ -62,7 +65,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[veckodag]] (星期几) · [[veckoslut]] (周末，书面) · [[veckovis]] (按周) · [[veckotidning]] (周刊)
+- 词族: [[veckodag]] (星期几) · [[veckoslut]] (周末，书面) · [[veckovis]] (按周) · [[veckotidning]] (周刊), [[veckoslut]], [[veckovis]], [[veckotidning]]
+- 同义词: —
+- 反义词: —
 - 相关时间词: [[dag]] (天) · [[månad]] (月) · [[år]] (年)
 - 主题: [[topic-tid]]
 

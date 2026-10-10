@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "适应/舒适感；在集体中过得好"
 en: "well-being, thriving"
-synonyms: []
-antonyms: []
+synonyms: [välbefinnande]
+antonyms: [vantrivsel]
 family: [trivas]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # trivsel — substantiv
 
 📖 中文：适应/舒适感；在集体中过得好 · English: well-being, thriving
+
+🇸🇪 Förklaring: känsla av att må bra och vara nöjd på ett ställe eller i en grupp
+
 发音提示：/ˈtriːvsel/ — 长 i
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[trivas]]
+- 同义词: [[välbefinnande]] (身心舒适)
+- 反义词: [[vantrivsel]] (不适应)
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

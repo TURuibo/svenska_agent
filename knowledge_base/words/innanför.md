@@ -5,9 +5,9 @@ ordklass: preposition
 cefr: B1
 zh: 在……里面
 en: inside, within
-synonyms: []
+synonyms: [inuti, inom]
 antonyms: [utanför]
-family: []
+family: [inne, innerst]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # innanför — preposition
 
 📖 中文：在……里面、进入……范围 · English: inside
+
+🇸🇪 Förklaring: på insidan av något, till exempel en vägg, en dörr eller en gräns
+
+发音提示：/ˈɪnːanˌfœːr/ — 重音在 in；ö 在 r 前读 œ
 
 ## 语法变形 (Forms)
 
@@ -37,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: utanför
+- 词族: [[inne]] (在里面), [[innerst]] (最里面)
+- 同义词: [[inuti]] (在内部), [[inom]] (在……之内)
+- 反义词: [[utanför]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

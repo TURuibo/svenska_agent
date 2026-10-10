@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: 责任
 en: responsibility
-synonyms: []
-antonyms: []
-family: []
+synonyms: [skyldighet, plikt]
+antonyms: [ansvarslöshet]
+family: [ansvarig, ansvarstagande]
 topics: [topic-arbete]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ansvar — substantiv (ett)
 
 📖 中文：责任 · English: responsibility
+
+🇸🇪 Förklaring: plikt att ta hand om något och stå för följderna om något går fel
+
 发音提示：AHN-svar
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ansvarig (负责任的), ansvarstagande (承担责任)
+- 词族: [[ansvarig]] (负责任的), [[ansvarstagande]] (承担责任)
+- 同义词: [[skyldighet]] (义务), [[plikt]] (职责)
+- 反义词: [[ansvarslöshet]] (不负责任)
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

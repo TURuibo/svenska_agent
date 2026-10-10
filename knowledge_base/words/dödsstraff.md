@@ -6,7 +6,7 @@ genus: ett
 cefr: B1
 zh: "死刑"
 en: "death penalty, capital punishment"
-synonyms: []
+synonyms: [dödsdom]
 antonyms: []
 family: [straffa, döma]
 topics: [topic-rattsvasen]
@@ -19,6 +19,10 @@ source: source-2026-10-03-news-8-sidor
 # dödsstraff — substantiv ett
 
 📖 中文：死刑 · English: death penalty, capital punishment
+
+🇸🇪 Förklaring: straff där staten avrättar en person för ett mycket allvarligt brott
+
+发音提示：/ˈdøːdsˌstrafː/ — ö 读长音；重音在 döds
 
 ## 语法变形 (Forms)
 
@@ -43,7 +47,8 @@ source: source-2026-10-03-news-8-sidor
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[straffa]], [[döma]]
-- 同义词: —
+- 同义词: [[dödsdom]] (死刑判决)
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

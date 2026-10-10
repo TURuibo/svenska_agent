@@ -7,11 +7,8 @@ cefr: "A2"
 zh: "出发时间"
 en: "departure time"
 synonyms: []
-antonyms:
-  - ankomsttid
-family:
-  - avgång
-  - avgångstavla
+antonyms: [ankomsttid]
+family: [avgång, avgångstavla]
 topics:
   - topic-kollektivtrafik
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # avgångstid — substantiv en
 
 📖 中文：出发时间 · English: departure time
+
+🇸🇪 Förklaring: den tid när ett tåg, en buss eller ett flyg ska åka iväg
+
 发音提示：/AV-gongs-tid/
 
 ## 语法变形 (Forms)
@@ -51,6 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[avgång]] · [[avgångstavla]]
-- 反义词: ankomsttid（到达时间）
+- 词族: [[avgång]] · [[avgångstavla]], [[avgångstavla]]
+- 同义词: —
+- 反义词: [[ankomsttid]]（到达时间）
 - 主题: [[topic-kollektivtrafik]]

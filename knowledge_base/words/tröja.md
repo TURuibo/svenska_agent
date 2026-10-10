@@ -7,9 +7,9 @@ genus: "en"
 cefr: A1
 zh: "毛衣；针织衫；上衣"
 en: "sweater; jumper; top"
-synonyms: ["stickad tröja"]
+synonyms: [stickad-tröja]
 antonyms: []
-family: []
+family: [collegetröja, luvtröja, ylletröja]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tröja — substantiv
 
 📖 中文：毛衣；针织衫；上衣 · English: sweater; jumper; top
+
+🇸🇪 Förklaring: plagg som man har på överkroppen, ofta stickat eller av bomull
+
 发音提示：/ˈtrøːja/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: stickad tröja (针织毛衣，更具体)
+- 词族: [[collegetröja]] (运动衫), [[luvtröja]] (连帽衫), [[ylletröja]] (羊毛衫)
+- 同义词: [[stickad-tröja|stickad tröja]] (针织毛衣，更具体)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

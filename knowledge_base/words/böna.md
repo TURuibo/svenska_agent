@@ -9,7 +9,7 @@ zh: "豆子"
 en: "bean"
 synonyms: []
 antonyms: []
-family: []
+family: [bönsoppa]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # böna — substantiv (en)
 
 📖 中文：豆子 · English: bean
+
+🇸🇪 Förklaring: frö som växer i en lång skida och som man kan koka och äta
+
 发音提示：BÖː-na
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bönsoppa（豆汤）
+- 词族: [[bönsoppa]]（豆汤）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

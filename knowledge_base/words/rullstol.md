@@ -9,7 +9,7 @@ zh: "轮椅"
 en: "wheelchair"
 synonyms: []
 antonyms: []
-family: [stol]
+family: [stol, rulla]
 topics: [topic-trafik-säkerhet]
 sentences: [sent-i-en-rapport-beskriver-kommunen-hur-cyklarna]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # rullstol — substantiv (en)
 
 📖 中文：轮椅 · English: wheelchair
+
+🇸🇪 Förklaring: stol med hjul som man använder när man inte kan gå
+
 发音提示：RULL-stol，`u` 短，`o` 读 [uː]。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[stol]]（椅子）、`rulla`（滚动）
+- 词族: [[stol]]（椅子）, [[rulla]]（滚动）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-trafik-säkerhet]]（人行道通行、无障碍）

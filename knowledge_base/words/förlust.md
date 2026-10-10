@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "丢失；损失；失败"
 en: "loss"
-synonyms: []
-antonyms: []
-family: [förlora, förlustbringande]
+synonyms: [bortfall]
+antonyms: [vinst]
+family: [förlora, vinst, förlustbringande]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # förlust — substantiv (en)
 
 📖 中文：丢失；损失；失败 · English: loss
+
+🇸🇪 Förklaring: det att inte vinna; det att man inte längre har något som man hade, till exempel pengar
+
 发音提示：för-LUST；两音节，重音在末音节。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[förlora]] (v. 失去/输), [[vinst]] (en, 获利/胜利，反义)
+- 词族: [[förlora]] (v. 失去/输), [[vinst]] (en, 获利/胜利，反义), [[förlustbringande]]
 - 同义词: [[bortfall]] (ett, 缺失/短缺)
 - 反义词: [[vinst]] (en, 获利/赢)
 - 主题: [[topic-vardagsrutin]]

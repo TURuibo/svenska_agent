@@ -24,6 +24,9 @@ interval: 0
 # minska — verb (v.1)
 
 📖 中文：减少 · English: reduce, decrease, diminish
+
+🇸🇪 Förklaring: bli eller göra något mindre till antal, storlek eller mängd
+
 发音提示：/ˈmɪnska/；v.1 动词（-ar 结尾）。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: minskning（减少，名词），liten（小的）
-- 同义词: reducera（减少）
+- 词族: [[minskning]]（减少，名词）, [[liten]]（小的）
+- 同义词: [[reducera]]（减少）
 - 反义词: [[öka]]（增加）
 - 主题: [[topic-miljö-och-klimat]]
 

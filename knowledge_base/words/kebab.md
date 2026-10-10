@@ -8,7 +8,7 @@ zh: 烤肉串；烤肉
 en: kebab
 synonyms: []
 antonyms: []
-family: []
+family: [kebabpizza, kebabtallrik, kebabrulle]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # kebab — substantiv (en-ord)
 
 📖 中文：烤肉（串/卷） · English: kebab
+
+🇸🇪 Förklaring: rätt med bitar av grillat kött som serveras i bröd eller med ris och sås
+
+发音提示：/keˈbɑːb/ — 重音在 bab，a 读长音
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[kebabpizza]] (烤肉披萨), [[kebabtallrik]] (烤肉盘饭), [[kebabrulle]] (烤肉卷)
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

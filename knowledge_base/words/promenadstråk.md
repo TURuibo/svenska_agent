@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: 散步道、步行道
 en: promenade, walking path
-synonyms: []
+synonyms: [gångväg, gångstråk]
 antonyms: []
-family: ["promenad"]
+family: [promenad]
 topics: ["topic-stadsmiljo", "topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # promenadstråk — substantiv (ett)
 
 📖 中文：散步道、步行道 · English: promenade, walking path
+
+🇸🇪 Förklaring: väg eller stig där många går för att röra på sig och njuta av omgivningen
+
 发音提示：pro-me-NAD-stråk
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[promenad]]
+- 同义词: [[gångväg]] (步行道), [[gångstråk]] (步行街道)
+- 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "同事"
 en: "colleague"
-synonyms: []
+synonyms: [kompis]
 antonyms: []
-family: []
+family: [arbetskollega, kollegial]
 topics: [topic-arbete, topic-vardagsrutin]
 sentences:
   - sent-pa-lunchen-brukar-jag-ata-tillsammans
@@ -24,6 +24,9 @@ interval: 0
 # kollega — substantiv (en)
 
 📖 中文：同事 · English: colleague
+
+🇸🇪 Förklaring: person som man arbetar tillsammans med på samma arbetsplats
+
 发音提示：[kɔ'leːga]
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[arbetskollega]] (同事), [[kollegial]] (同事间的)
 - 同义词: [[kompis]] (非正式语境)
 - 反义词: —
 - 主题: [[topic-arbete]], [[topic-vardagsrutin]]

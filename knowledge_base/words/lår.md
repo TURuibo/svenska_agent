@@ -22,6 +22,9 @@ interval: 0
 # lår — substantiv (ett)
 
 📖 中文：大腿 · English: thigh
+
+🇸🇪 Förklaring: den övre delen av benet, mellan höften och knät
+
 发音提示：/loːr/
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[knä]], [[ben]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

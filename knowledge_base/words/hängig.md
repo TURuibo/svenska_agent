@@ -9,7 +9,7 @@ zh: "蔫蔫的，没精神的"
 en: "listless, out of sorts"
 synonyms: [trött, gnällig]
 antonyms: [pigg]
-family: []
+family: [hänga]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: [sent-hon-vaknade-från-vilan-alldeles-varm]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # hängig — adjektiv
 
 📖 中文：蔫蔫的，没精神的 · English: listless, out of sorts
+
+🇸🇪 Förklaring: som känner sig trött och lite sjuk, utan energi
+
 发音提示：HENG-ig，重音在第一音节；g 读硬音 /g/。
 
 ## 语法变形 (Forms)

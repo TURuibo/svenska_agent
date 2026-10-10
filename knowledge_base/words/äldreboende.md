@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "养老院"
 en: "elderly care home"
-synonyms: []
+synonyms: [ålderdomshem]
 antonyms: []
-family: ["äldre", "bo"]
+family: [äldre, bo]
 topics: ["topic-vård"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # äldreboende — substantiv (ett)
 
 📖 中文：养老院 · English: elderly care home
+
+🇸🇪 Förklaring: bostad med personal där gamla som behöver mycket hjälp kan bo
+
 发音提示：/äld-re-boen-de/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[äldre]], [[bo]]
+- 同义词: [[ålderdomshem]] (养老院)
+- 反义词: —
 - 主题: [[topic-vård]]
 
 ## 用法提示 (Usage Notes)

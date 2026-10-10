@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "女权运动"
 en: "women's rights movement"
-synonyms: []
+synonyms: [kvinnorörelse, feminism]
 antonyms: []
-family: ["kvinna", "rättighet", "rörelse"]
+family: [kvinna, rättighet, rörelse]
 topics: ["topic-jamstalldhet", "topic-historia", "topic-samhälle-och-politik"]
 sentences: ["sent-vad-kämpade-kvinnorättsrörelsen-för", "sent-hur-arbetade-kvinnorättsrörelsen"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kvinnorättsrörelse — substantiv
 
 📖 中文：女权运动 · English: women's rights movement
+
+🇸🇪 Förklaring: samlat arbete för att kvinnor ska få samma rättigheter som män, t.ex. rösträtt
+
 发音提示：sammansatt ord "kvinna" (女人) + "rätt(s)" (权利) + "rörelse" (运动)
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kvinna]], [[rättighet]], [[rörelse]]
-- 同义词: —
+- 同义词: [[kvinnorörelse]] (妇女运动), [[feminism]] (女权主义)
 - 反义词: —
 - 主题: [[topic-jamstalldhet]], [[topic-historia]], [[topic-samhälle-och-politik]]
 

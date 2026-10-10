@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 工厂
 en: factory
-synonyms: []
+synonyms: [anläggning]
 antonyms: []
-family: []
+family: [fabrikat, fabriksarbetare, pappersfabrik]
 topics: ["topic-miljö-och-klimat", "topic-arbete"]
 sentences:
   - sent-de-giftiga-algerna-beror-bland-annat
@@ -24,6 +24,9 @@ interval: 0
 # fabrik — substantiv
 
 📖 中文：工厂 · English: factory
+
+🇸🇪 Förklaring: stor byggnad där man tillverkar varor med maskiner
+
 发音提示：fa-BRIK
 
 ## 语法变形 (Forms)
@@ -51,6 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[fabrikat]] (制品；品牌), [[fabriksarbetare]] (工厂工人), [[pappersfabrik]] (造纸厂)
+- 同义词: [[anläggning]] (厂房；设施)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]], [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

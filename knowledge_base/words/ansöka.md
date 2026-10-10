@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ansöka — verb (grupp 2b)
 
 📖 中文：申请 · English: to apply (for)
+
+🇸🇪 Förklaring: skriftligt be om att få något, till exempel ett arbete eller ett tillstånd
+
 发音提示：[ˈanˌsøːka]，an- 前缀重读；partikel 型复合动词，不可拆。
 
 ## 语法变形 (Forms)

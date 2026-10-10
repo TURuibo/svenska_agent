@@ -19,6 +19,10 @@ created: "2026-10-01"
 
 📖 中文：十月 · English: October
 
+🇸🇪 Förklaring: årets tionde månad, mellan september och november
+
+发音提示：/ɔkˈtuːbɛr/ — 重音在 to；o 读 uː
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

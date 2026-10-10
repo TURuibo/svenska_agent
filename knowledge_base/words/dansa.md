@@ -8,7 +8,7 @@ zh: "跳舞"
 en: "to dance"
 synonyms: []
 antonyms: []
-family: ["dans"]
+family: [dans]
 topics: ["topic-midsommar-traditioner", "topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # dansa — verb
 
 📖 中文：跳舞 · English: to dance
+
+🇸🇪 Förklaring: röra kroppen i takt till musik
+
 发音提示：dan-sa
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dans]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

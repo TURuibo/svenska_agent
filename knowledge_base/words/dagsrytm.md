@@ -19,6 +19,9 @@ created: "2026-09-26"
 # dagsrytm — substantiv (en)
 
 📖 中文：一天的作息 · English: daily rhythm; daily routine
+
+🇸🇪 Förklaring: hur man brukar ordna sin dag, till exempel när man äter, arbetar och sover
+
 发音提示：dags-rytm，重音在 **dags**；*rytm* 里的 y 是圆唇 /y/，结尾 -tm 两个辅音都要发出。复合词 dag + s + rytm。
 
 ## 语法变形 (Forms)
@@ -43,6 +46,7 @@ created: "2026-09-26"
 
 - 词族: [[dag]]
 - 同义词: [[schema]]（时间表，更具体的表格）· *dagsschema* · *rutiner*
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

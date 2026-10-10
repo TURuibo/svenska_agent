@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 考拉，树袋熊
 en: koala
-synonyms: ["koalabjörn"]
+synonyms: [koalabjörn]
 antonyms: []
 family: []
 topics: ["topic-djur"]
@@ -22,6 +22,9 @@ interval: 0
 # koala — substantiv (en)
 
 📖 中文：考拉，树袋熊 · English: koala
+
+🇸🇪 Förklaring: pungdjur från Australien som bor i träd och äter blad från eukalyptus
+
 发音提示：ko-A-la（三音节，重音在中间）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
 - 同义词: [[koalabjörn]]
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

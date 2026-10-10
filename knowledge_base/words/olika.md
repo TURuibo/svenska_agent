@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "不同的"
 en: "different"
-synonyms: [olik, annan]
+synonyms: [annan, olik]
 antonyms: [likadan]
 family: [olik, likadan]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # olika — adjektiv / adverb
 
 📖 中文：不同的 · English: different
+
+🇸🇪 Förklaring: som skiljer sig från varandra; av flera sorter
+
 发音提示：/ˈuːlika/ — o 读长 /uː/，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[olik]] · [[likadan]]
-- 同义词: [[annan]]（另一个）· *skilda*
+- 词族: [[olik]] · [[likadan]], [[likadan]]
+- 同义词: [[annan]]（另一个）· *skilda*, [[olik]] (不同的)
 - 反义词: [[likadan]]（一样的）· *samma*（同一个）
 - 主题: [[topic-förskola-vardag]]
 

@@ -9,7 +9,7 @@ zh: 错误；失误
 en: mistake; error
 synonyms: [fel]
 antonyms: []
-family: []
+family: [missta-sig, ta-miste]
 topics: [topic-skola-och-utbildning]
 sentences:
   - sent-det-viktigaste-är-att-våga
@@ -25,6 +25,9 @@ interval: 0
 # misstag — substantiv (ett)
 
 📖 中文：错误；失误 · English: mistake; error
+
+🇸🇪 Förklaring: något som man gör fel utan att vilja det
+
 发音提示：[mɪsˈtɑːɡ]，stress 在第二音节，-ag 发 [ɑːɡ]
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[missta-sig|missta sig]] (搞错), [[ta-miste|ta miste]] (弄错)
 - 同义词: [[fel]]
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]

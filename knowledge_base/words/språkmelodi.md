@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "语调"
 en: "intonation, speech melody"
-synonyms: ["prosodi"]
+synonyms: [prosodi]
 antonyms: []
-family: ["språk", "melodi"]
+family: [språk, melodi]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # språkmelodi — substantiv (en)
 
 📖 中文：语调 · English: intonation, speech melody
+
+🇸🇪 Förklaring: hur rösten går upp och ner när man talar ett visst språk
+
 发音提示：SPRÅK-me-lo-di
 
 ## 语法变形 (Forms)
@@ -44,6 +47,7 @@ created: "2026-09-22"
 
 - 词族: [[språk]], [[melodi]]
 - 同义词: [[prosodi]]（更学术）
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

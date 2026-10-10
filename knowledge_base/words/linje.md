@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "线路；线"
 en: "line"
-synonyms: []
+synonyms: [streck, rutt]
 antonyms: []
-family: []
+family: [linjal, linjär]
 topics:
   - topic-riktningar
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # linje — substantiv (en)
 
 📖 中文：线路；线 · English: line
+
+🇸🇪 Förklaring: 1) långt smalt streck; 2) sträcka som en buss, ett tåg eller en tunnelbana regelbundet trafikerar
+
 发音提示：LIN-je；两音节。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[linjal]] (尺子), [[linjär]] (adj. 线性的)
-- 同义词: —
+- 同义词: [[streck]] (线条), [[rutt]] (路线)
 - 反义词: —
 - 主题: [[topic-riktningar]]
 

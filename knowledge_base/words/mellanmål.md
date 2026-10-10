@@ -7,8 +7,8 @@ genus: "ett"
 cefr: "A2"
 zh: "下午加餐"
 en: "(afternoon) snack"
-synonyms: []
-antonyms: []
+synonyms: [fika, snacks]
+antonyms: [huvudmåltid]
 family: [mål, mellan]
 topics: [topic-förskola-vardag, topic-mat-dryck]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # mellanmål — substantiv (ett)
 
 📖 中文：下午加餐；点心 · English: (afternoon) snack
+
+🇸🇪 Förklaring: liten måltid, till exempel frukt eller en smörgås, som man äter på eftermiddagen
+
 发音提示：/ˈmɛlanˌmoːl/ — mellan（之间）+ mål（一餐），å 长音。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mål]], [[mellan]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[fika]] (茶点), [[snacks]] (零食)
+- 反义词: [[huvudmåltid]] (正餐)
 - 主题: [[topic-förskola-vardag]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "热浪"
 en: "heatwave"
-synonyms: []
-antonyms: []
-family: ["värme", "bölja"]
+synonyms: [hetebölja]
+antonyms: [köldvåg]
+family: [värme, bölja]
 topics: ["topic-miljö-och-klimat", "topic-vader-och-arstider"]
 sentences:
   - sent-det-gör-värmeböljorna-både-vanligare
@@ -24,6 +24,9 @@ interval: 0
 # värmebölja — substantiv
 
 📖 中文：热浪 · English: heatwave
+
+🇸🇪 Förklaring: period med ovanligt höga temperaturer under flera dagar
+
 发音提示：/ˈværmɛˌbœlja/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[värme]] (热；高温), bölja（波浪，汹涌）
+- 词族: [[värme]] (热；高温), [[bölja]]（波浪，汹涌）
+- 同义词: [[hetebölja]] (热浪)
+- 反义词: [[köldvåg]] (寒潮)
 - 主题: [[topic-miljö-och-klimat]], [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

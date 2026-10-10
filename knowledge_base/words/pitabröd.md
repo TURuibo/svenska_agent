@@ -6,7 +6,7 @@ genus: "ett"
 cefr: A2
 zh: 皮塔饼
 en: pita bread
-synonyms: []
+synonyms: [pita]
 antonyms: []
 family: [bröd]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # pitabröd — substantiv (ett)
 
 📖 中文：皮塔饼 · English: pita bread
+
+🇸🇪 Förklaring: platt och runt bröd som är ihåligt inuti och kan fyllas med mat
+
+发音提示：/ˈpiːtaˌbrøːd/ — 复合词，重音在 pi；ö 读长音
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bröd
-- 同义词:
-- 反义词:
+- 词族: [[bröd]]
+- 同义词: [[pita]] (皮塔饼)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

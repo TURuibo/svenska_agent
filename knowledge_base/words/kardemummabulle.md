@@ -8,7 +8,7 @@ zh: 小豆蔻卷
 en: cardamom bun
 synonyms: []
 antonyms: []
-family: []
+family: [kanelbulle, semla]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kardemummabulle — substantiv (en)
 
 📖 中文：小豆蔻卷 · English: cardamom bun
+
+🇸🇪 Förklaring: sött vetebröd smaksatt med kardemumma, smör och socker som man ofta äter till fika
+
 发音提示：kar-deh-MUM-mah-bul-leh
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kanelbulle]] (肉桂卷), [[semla]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

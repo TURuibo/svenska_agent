@@ -23,6 +23,9 @@ interval: 0
 # höras — verb (deponens/s-form)
 
 📖 中文：听得见 · English: be heard
+
+🇸🇪 Förklaring: kunna uppfattas med öronen
+
 发音提示： "hö-ras"
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[höra]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

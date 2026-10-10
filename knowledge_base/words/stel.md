@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 僵硬的
 en: stiff
-synonyms: []
-antonyms: []
-family: []
+synonyms: [spänd]
+antonyms: [mjuk]
+family: [stelhet, stelna]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # stel — adjektiv
 
 📖 中文：僵硬的 · English: stiff
+
+🇸🇪 Förklaring: som är svår att böja eller röra; som inte är avslappnad eller naturlig
+
 发音提示：[stɛːl]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[stelhet]] (僵硬), [[stelna]] (变僵；凝固)
 - 同义词: [[spänd]]
 - 反义词: [[mjuk]]
 - 主题: [[topic-kropp]], [[topic-hälsa]]

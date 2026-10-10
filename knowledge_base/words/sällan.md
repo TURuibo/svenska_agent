@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 很少；难得
 en: seldom
-synonyms: []
+synonyms: [inte-ofta]
 antonyms: [ofta]
-family: []
+family: [sällsynt]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # sällan — adverb
 
 📖 中文：很少；难得 · English: seldom
+
+🇸🇪 Förklaring: inte ofta; bara någon enstaka gång
+
 发音提示：/ˈsɛlːan/
 
 ## 语法变形 (Forms)
@@ -35,9 +38,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: ofta
+- 词族: [[sällsynt]] (罕见的)
+- 同义词: [[inte-ofta|inte ofta]] (不常)
+- 反义词: [[ofta]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

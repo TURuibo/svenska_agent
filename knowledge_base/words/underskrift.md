@@ -6,7 +6,7 @@ genus: "en"
 cefr: "B1"
 zh: "签名"
 en: "signature"
-synonyms: []
+synonyms: [namnteckning, signatur]
 antonyms: []
 family: [namnunderskrift]
 topics: []
@@ -22,7 +22,10 @@ interval: 0
 # underskrift — substantiv
 
 📖 中文：签名 · English: signature
-发音提示：
+
+🇸🇪 Förklaring: namn som man sätter med egen hand på ett papper för att visa att man godkänner det
+
+发音提示：/ˈɵnːdɛˌʂkrɪft/ — 重音在 un；r+s 连读为 ʂ
 
 ## 语法变形 (Forms)
 
@@ -47,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[namnunderskrift]]
-- 同义词: —
+- 同义词: [[namnteckning]] (签名), [[signatur]] (签名)
 - 反义词: —
 - 主题: —
 

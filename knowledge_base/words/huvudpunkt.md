@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 要点；主要内容
 en: main point
-synonyms: []
-antonyms: []
-family: []
+synonyms: [kärnpunkt, huvudsak]
+antonyms: [detalj, bisak]
+family: [huvud, punkt, huvudsaklig]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-det-är-bättre-att-koncentrera-dig]
 source: source-2026-10-09-komvux-kursstart
@@ -19,6 +19,10 @@ created: "2026-10-09"
 # huvudpunkt — substantiv en
 
 📖 中文：要点；主要内容 · English: main point
+
+🇸🇪 Förklaring: den viktigaste delen av något som man säger, skriver eller diskuterar
+
+发音提示：/ˈhʉːvɵdˌpɵŋkt/ — huvud 读 ʉː-vɵd；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[huvud]] (头), [[punkt]] (点), [[huvudsaklig]] (主要的)
+- 同义词: [[kärnpunkt]] (核心要点), [[huvudsak]] (主要的事)
+- 反义词: [[detalj]] (细节), [[bisak]] (次要的事)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: "B2"
 zh: "艰辛的；劳累的"
 en: "hard; exhausting (long-term effort)"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ansträngande, tung]
+antonyms: [lätt, vilsam]
+family: [slita, sliten, slit]
 topics: ["topic-arbete", "topic-karaktarsord"]
 sentences:
   - "sent-det-ar-ett-yrke"
@@ -22,6 +22,9 @@ interval: 0
 # slitsam — adjektiv
 
 📖 中文：艰辛的；劳累的 · English: hard; exhausting (long-term effort)
+
+🇸🇪 Förklaring: som kräver mycket kraft och arbete under lång tid och gör en trött
+
 发音提示：SLIT-sahm（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[slita]] (苦干), [[sliten]] (疲惫的), [[slit]] (辛劳)
+- 同义词: [[ansträngande]] (费力的), [[tung]] (繁重的)
+- 反义词: [[lätt]] (轻松的), [[vilsam]] (悠闲的)
 - 主题: [[topic-arbete]] · [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

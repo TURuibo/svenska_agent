@@ -9,7 +9,7 @@ zh: "灰色的"
 en: "grey"
 synonyms: []
 antonyms: []
-family: []
+family: [gråhet, gråna]
 topics: [topic-djur]
 sentences:
   - sent-fortsatt-lite-till-gra-dorr
@@ -24,6 +24,9 @@ interval: 0
 # grå — adjektiv
 
 📖 中文：灰色的 · English: grey
+
+🇸🇪 Förklaring: som har en färg mellan svart och vit, som aska eller moln när det regnar
+
 发音提示：grå（单音节，å 发长音）。
 
 ## 语法变形 (Forms)

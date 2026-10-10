@@ -9,7 +9,7 @@ zh: "窗户"
 en: "window"
 synonyms: []
 antonyms: []
-family: [fönsterbräde, fönsterblad, dörr]
+family: [fönsterbräde, dörr, fönsterblad]
 topics: [topic-hemmet, topic-rumsliga-relationer]
 sentences:
   - sent-framfor-fonster-vid-vaggen-stor-krukvaxt
@@ -25,6 +25,9 @@ interval: 0
 # fönster — substantiv (ett)
 
 📖 中文：窗户 · English: window
+
+🇸🇪 Förklaring: öppning med glas i en vägg eller ett tak som släpper in ljus och luft
+
 发音提示：FÖN-ster；två stavelser.
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[fönsterbräde]] (窗台), [[dörr]] (门)
+- 词族: [[fönsterbräde]] (窗台), [[dörr]] (门), [[fönsterblad]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]], [[topic-rumsliga-relationer]]

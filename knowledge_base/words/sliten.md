@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "破旧的、磨损的；疲惫的"
 en: "worn, worn-out; exhausted"
-synonyms: []
-antonyms: ["ny"]
-family: []
+synonyms: [nött, utmattad]
+antonyms: [ny]
+family: [slita, slitage, slitsam]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sliten — adjektiv
 
 📖 中文：破旧的、磨损的；疲惫的 · English: worn, worn-out; exhausted
+
+🇸🇪 Förklaring: 1) som har blivit gammal och skadad av mycket användning; 2) mycket trött
+
 发音提示：/ˈsliːtɛn/
 
 ## 语法变形 (Forms)
@@ -54,8 +57,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[slita]] (磨损；苦干), [[slitage]] (磨损), [[slitsam]] (劳累的)
+- 同义词: [[nött]] (磨损的), [[utmattad]] (精疲力竭)
 - 反义词: [[ny]]
 - 主题: [[topic-hemmet]]
 

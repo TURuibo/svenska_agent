@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 课/课程
 en: lesson/class
-synonyms: []
-antonyms: []
-family: []
+synonyms: [undervisningstimme]
+antonyms: [rast]
+family: [lektor]
 topics: [topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lektion — substantiv (en-ord)
 
 📖 中文：课/课程 · English: lesson/class
+
+🇸🇪 Förklaring: tid när en lärare undervisar en klass i ett ämne
+
 发音提示：[lɛkˈʃuːn] — 重音在第二音节
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lektor]]
+- 同义词: [[undervisningstimme]] (课时)
+- 反义词: [[rast]] (课间休息)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

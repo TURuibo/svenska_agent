@@ -19,6 +19,9 @@ created: 2026-09-26
 # hämtare — substantiv (en)
 
 📖 中文：接孩子的人；接送人 · English: person who picks up (the child)
+
+🇸🇪 Förklaring: person som kommer till förskolan eller skolan och tar med sig barnet hem
+
 发音提示：/ˈhɛmːˌtarə/ — 重音在第一音节，ä 读短音 [ɛ]，-are 轻读。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: 2026-09-26
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hämta]], [[hämtning]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

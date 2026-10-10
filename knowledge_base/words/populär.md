@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 受欢迎的；流行的
 en: popular
-synonyms: []
-antonyms: []
-family: ["popularitet"]
+synonyms: [omtyckt, älskad, eftertraktad]
+antonyms: [impopulär]
+family: [popularitet]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # populär — adjektiv
 
 📖 中文：受欢迎的；流行的 · English: popular
+
+🇸🇪 Förklaring: som många människor tycker om
+
 发音提示：/popʊˈlæːr/
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: popularitet (受欢迎程度)
-- 同义词: —
-- 反义词: —
+- 词族: [[popularitet]] (受欢迎程度)
+- 同义词: [[omtyckt]] (受欢迎的), [[älskad]] (受喜爱的), [[eftertraktad]] (抢手的)
+- 反义词: [[impopulär]] (不受欢迎的)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

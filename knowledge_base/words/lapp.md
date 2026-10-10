@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 纸条
 en: note, slip of paper
-synonyms: []
+synonyms: [anteckning]
 antonyms: []
-family: []
+family: [prislapp, parkeringslapp, lapplisa]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # lapp — substantiv (en)
 
 📖 中文：纸条 · English: note, slip of paper
+
+🇸🇪 Förklaring: liten bit papper som man skriver något på
+
 发音提示：/lapː/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[prislapp]] (价签), [[parkeringslapp]] (停车罚单), [[lapplisa]] (停车管理员)
+- 同义词: [[anteckning]] (便条)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

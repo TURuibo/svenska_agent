@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "工作; 施工"
 en: "work; roadwork"
-synonyms: []
-antonyms: []
-family: ["arbeta", "arbetare"]
+synonyms: [jobb, sysselsättning]
+antonyms: [fritid]
+family: [arbeta, arbetare]
 topics: ["topic-arbete"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # arbete — substantiv (ett)
 
 📖 中文：工作; 施工 · English: work; roadwork
+
+🇸🇪 Förklaring: uppgift eller sysselsättning som man ofta får lön för; byggande eller reparation av till exempel en väg
+
 发音提示：ar-be-te（三音节）
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[arbeta]], [[arbetare]]
-- 同义词:
-- 反义词:
+- 同义词: [[jobb]] (工作), [[sysselsättning]] (工作；事务)
+- 反义词: [[fritid]] (空闲时间)
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

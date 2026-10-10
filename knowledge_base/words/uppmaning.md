@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "要求、敦促"
 en: "prompt, urging"
-synonyms: []
+synonyms: [vädjan, begäran]
 antonyms: []
-family: ["uppmana"]
+family: [uppmana]
 topics: ["topic-bedrageri-bank-sakerhet"]
 sentences: ["sent-polisen-berättar-också-att-man"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # uppmaning — substantiv (en)
 
 📖 中文：要求、敦促 · English: prompt, urging
+
+🇸🇪 Förklaring: ord eller text där man tydligt ber någon att göra något
+
 发音提示：UPP-man-ing
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[uppmana]]（敦促，动词）
+- 同义词: [[vädjan]] (呼吁), [[begäran]] (请求)
+- 反义词: —
 - 主题: [[topic-bedrageri-bank-sakerhet]]
 
 ## 用法提示 (Usage Notes)

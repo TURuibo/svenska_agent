@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "表扬、称赞"
 en: "praise"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [prisa, lovorda]
+antonyms: [kritisera, klandra]
+family: [beröm, berömd, berömmelse]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # berömma — verb
 
 📖 中文：表扬、称赞 · English: praise
+
+🇸🇪 Förklaring: säga vänliga ord om att någon har gjort något bra
+
 发音提示：be-RÖM-ma
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[beröm]] (称赞), [[berömd]] (著名的), [[berömmelse]] (名声)
+- 同义词: [[prisa]] (赞扬), [[lovorda]] (称赞)
+- 反义词: [[kritisera]] (批评), [[klandra]] (责备)
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

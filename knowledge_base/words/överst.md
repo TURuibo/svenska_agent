@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "最上面的；最上方"
 en: "topmost; at the top"
-synonyms: []
-antonyms: [underst, längst ner]
-family: [över, översta, ovanpå, högst]
+synonyms: [i-toppen]
+antonyms: [underst, längst-ner]
+family: [över, ovanpå, högst, översta]
 topics: [topic-rumsliga-relationer]
 sentences:
   - sent-i-bokhyllan-star-manga-bocker-foto-sitter
@@ -24,6 +24,9 @@ interval: 0
 # överst — adjektiv/adverb
 
 📖 中文：最上面的；最上方 · English: topmost; at the top
+
+🇸🇪 Förklaring: på den högsta platsen; längst upp i något
+
 发音提示：Ö-verst；två stavelser.
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[över]] (在……上方), [[ovanpå]] (在……顶上), [[högst]] (最高)
-- 同义词: —
-- 反义词: [[underst]] (最下面的), [[längst ner]] (在最底部)
+- 词族: [[över]] (在……上方), [[ovanpå]] (在……顶上), [[högst]] (最高), [[översta]]
+- 同义词: [[i-toppen|i toppen]] (在顶部)
+- 反义词: [[underst]] (最下面的), [[längst-ner|längst ner]] (在最底部)
 - 主题: [[topic-rumsliga-relationer]]
 
 ## 用法提示 (Usage Notes)

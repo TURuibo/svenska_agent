@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 爱好
 en: hobby
-synonyms: []
+synonyms: [fritidssysselsättning, intresse]
 antonyms: []
 family: [fallskärmshoppning]
 topics: [topic-fritid-och-resor]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # hobby — substantiv (en)
 
 📖 中文：爱好 · English: hobby
+
+🇸🇪 Förklaring: något roligt som man gärna gör på sin fritid
+
 发音提示：/ˈhɔbːi/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fallskärmshoppning]]
-- 同义词:
-- 反义词:
+- 同义词: [[fritidssysselsättning]] (业余活动), [[intresse]] (兴趣)
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

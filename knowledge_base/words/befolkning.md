@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "人口"
 en: "population"
-synonyms: ["invånare"]
+synonyms: [invånare]
 antonyms: []
-family: ["folk", "befolka"]
+family: [folk, befolka]
 topics: ["topic-samhälle-och-politik", "topic-geografi-natur"]
 sentences: ["sent-en-stor-del-av-befolkningen-bor-utanför"]
 known: false
@@ -23,6 +23,10 @@ interval: 0
 # befolkning
 
 **substantiv (en)** · 🇨🇳 人口 · 🇬🇧 population
+
+🇸🇪 Förklaring: alla människor som bor i ett land, en stad eller ett område
+
+发音提示：/beˈfɔlknɪŋ/ — 重音在 folk，be- 轻读
 
 ## Forms
 
@@ -46,3 +50,9 @@ interval: 0
 ## 📌 用法
 
 常见搭配：*Sveriges befolkning*（瑞典人口）、*en stor del av befolkningen*（人口的很大一部分）、*befolkningen växer/minskar*（人口增长/减少）。
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[folk]], [[befolka]]
+- 同义词: [[invånare]] (居民)
+- 反义词: —

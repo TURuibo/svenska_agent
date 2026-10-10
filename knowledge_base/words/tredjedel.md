@@ -8,7 +8,7 @@ zh: "三分之一"
 en: "one third"
 synonyms: []
 antonyms: []
-family: []
+family: [tre, tredje, del]
 topics: []
 sentences: ["sent-en-tredjedel-av-landet-ar-tackt-med-vatten"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # tredjedel — substantiv
 
 📖 中文：三分之一 · English: one third
-发音提示：
+
+🇸🇪 Förklaring: en av tre lika stora delar av något
+
+发音提示：/ˈtreːdjɛˌdeːl/ — 重音在 tre；dj 中 d 要发音
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[tre]] (三), [[tredje]] (第三), [[del]] (部分)
+- 同义词: —
+- 反义词: —
 - 主题: [[]]
 
 ## 用法提示 (Usage Notes)

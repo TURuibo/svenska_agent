@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 街区
 en: city block, quarter
-synonyms: []
+synonyms: [område, stadsdel]
 antonyms: []
-family: []
+family: [kvarterskrog, kvartersbutik]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kvarter — substantiv (ett)
 
 📖 中文：街区 · English: city block, quarter
+
+🇸🇪 Förklaring: del av en stad som har gator runt om sig på alla sidor
+
 发音提示：kva-TER
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kvarterskrog]] (街坊餐馆), [[kvartersbutik]] (街区小店)
+- 同义词: [[område]] (区域), [[stadsdel]] (城区)
+- 反义词: —
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

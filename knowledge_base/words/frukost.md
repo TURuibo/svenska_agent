@@ -25,6 +25,9 @@ interval: 0
 # frukost — substantiv (en)
 
 📖 中文：早餐 · English: breakfast
+
+🇸🇪 Förklaring: det första målet mat på dagen, som man äter på morgonen
+
 发音提示：FRU-kost；两音节，重音在首音节。
 
 ## 语法变形 (Forms)

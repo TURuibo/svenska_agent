@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "同样；你也一样"
 en: "the same (to you); likewise"
-synonyms: []
+synonyms: [likaså]
 antonyms: []
-family: ["samma"]
+family: [samma]
 topics: []
 sentences:
   - "sent-tack-detsamma-vi-ses-snart-igen"
@@ -24,6 +24,9 @@ interval: 0
 # detsamma — pronomen/uttryck
 
 📖 中文：同样；你也一样 · English: the same (to you); likewise
+
+🇸🇪 Förklaring: 1) samma sak; 2) används som svar när man önskar någon samma sak som den önskade en själv
+
 发音提示：/ˈdɛtˌsamːa/；合成词 det + samma。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: samma（同样的）
+- 词族: [[samma]]（同样的）
+- 同义词: [[likaså]] (同样)
+- 反义词: —
 - 主题: —
 
 ## 用法提示 (Usage Notes)

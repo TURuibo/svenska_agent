@@ -8,7 +8,7 @@ zh: 称重；重达
 en: to weigh
 synonyms: []
 antonyms: []
-family: []
+family: [våg]
 topics:
   - topic-mataffär
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # väga — verb (grupp 2a)
 
 📖 中文：称重；重达 · English: to weigh
+
+🇸🇪 Förklaring: ta reda på hur tungt något är; ha en viss tyngd
+
 发音提示：VÄY-ga
 
 ## 语法变形 (Forms)

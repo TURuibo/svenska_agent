@@ -18,6 +18,9 @@ created: "2026-10-01"
 # augusti — substantiv (en, 月份名)
 
 📖 中文：八月 · English: August
+
+🇸🇪 Förklaring: årets åttonde månad, mellan juli och september
+
 发音提示：/aʊˈɡɵsti/
 
 ## 语法变形 (Forms)
@@ -40,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "已登记的；已报名的"
 en: "registered, signed up"
-synonyms: []
-antonyms: []
+synonyms: [registrerad, inskriven]
+antonyms: [avanmäld]
 family: [anmäla, anmälan]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # anmäld — adjektiv
 
 📖 中文：已登记的；已报名的 · English: registered, signed up
+
+🇸🇪 Förklaring: som har skrivit upp sig för att delta i något, till exempel en kurs
+
 发音提示：AN-mäld
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[anmäla]], [[anmälan]]
-- 同义词: —（近义 registrerad）
-- 反义词: —
+- 同义词: [[registrerad]] (已登记的), [[inskriven]] (已注册的), —（近义 registrerad）
+- 反义词: [[avanmäld]] (已取消报名)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

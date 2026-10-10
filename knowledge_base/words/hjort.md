@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 鹿；雄鹿
 en: deer; stag
-synonyms: ["rådjur"]
+synonyms: [rådjur]
 antonyms: []
-family: ["hjorthörn", "hjortjakt"]
+family: [hjorthörn, hjortjakt]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hjort — substantiv (en)
 
 📖 中文：鹿；雄鹿 · English: deer; stag
+
+🇸🇪 Förklaring: stort vilt djur med fyra långa ben där hanen har stora grenade horn
+
 发音提示：HJORT（单音节，h 不发音，发 "yort"）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 
 - 词族: [[hjorthörn]]（鹿角）, [[hjortjakt]]（鹿猎）
 - 同义词: [[rådjur]]（狍子，较小的鹿）
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

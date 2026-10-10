@@ -7,7 +7,7 @@ zh: 第四
 en: fourth
 synonyms: []
 antonyms: []
-family: fyra
+family: [fyra]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # fjärde — ordningstal
 
 📖 中文：第四 · English: fourth
+
+🇸🇪 Förklaring: som kommer som nummer fyra i en ordning
+
 发音提示：/ˈfjæːrdɛ/
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fyra]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

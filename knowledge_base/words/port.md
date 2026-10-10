@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "大门；门洞；门道"
 en: "gate, entrance, archway"
-synonyms: []
+synonyms: [ingång]
 antonyms: []
-family: []
+family: [ingång, dörr]
 topics: ["topic-stadsmiljo", "topic-riktningar"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # port — substantiv (en)
 
 📖 中文：大门；门洞；门道 · English: gate, entrance, archway
+
+🇸🇪 Förklaring: stor dörr eller öppning in till en byggnad, en gård eller en stad
+
 发音提示：/pɔrt/ — 短促清晰的 o
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 
 - 词族: [[ingång]], [[dörr]]
 - 同义词: [[ingång]]
+- 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-riktningar]]
 
 ## 用法提示 (Usage Notes)

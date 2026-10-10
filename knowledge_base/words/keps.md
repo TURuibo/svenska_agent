@@ -9,7 +9,7 @@ zh: "鸭舌帽"
 en: "cap"
 synonyms: []
 antonyms: []
-family: []
+family: [baseballkeps]
 topics: ["topic-klader"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # keps — substantiv (en)
 
 📖 中文：鸭舌帽 · English: cap
+
+🇸🇪 Förklaring: mjuk mössa med skärm framtill som skyddar mot solen
+
 发音提示：/kepːs/
 
 ## 语法变形 (Forms)
@@ -43,6 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[baseballkeps]] (棒球帽)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

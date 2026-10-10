@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 电视荧幕
 en: TV screen
-synonyms: []
+synonyms: [tv-skärm, bildskärm]
 antonyms: []
-family: []
+family: [teve, ruta]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # teveruta — substantiv (en)
 
 📖 中文：电视荧幕 · English: TV screen
+
+🇸🇪 Förklaring: glasytan på en tv där man ser bilden
+
 发音提示：/ˈteːvəˌrʉːta/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[teve]] (电视), [[ruta]] (方框；屏幕)
+- 同义词: [[tv-skärm]] (电视屏幕), [[bildskärm]] (显示屏)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

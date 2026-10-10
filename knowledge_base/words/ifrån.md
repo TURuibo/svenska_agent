@@ -6,8 +6,8 @@ cefr: A2
 zh: 从……来；离开
 en: from; away from
 synonyms: [från]
-antonyms: []
-family: []
+antonyms: [till, mot]
+family: [härifrån, därifrån, hemifrån]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # ifrån — preposition / adverb
 
 📖 中文：从（某地）来；（小品词）离开 · English: from; away
+
+🇸🇪 Förklaring: används för att visa att något rör sig bort från en plats eller har sitt ursprung där
+
+发音提示：/ɪˈfroːn/ — 重音在 från；å 读长音 oː
 
 ## 语法变形 (Forms)
 
@@ -38,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: från
-- 反义词:
+- 词族: [[härifrån]] (从这里), [[därifrån]] (从那里), [[hemifrån]] (从家里)
+- 同义词: [[från]]
+- 反义词: [[till]] (到), [[mot]] (朝向)
 - 主题:
 
 ## 用法提示 (Usage Notes)

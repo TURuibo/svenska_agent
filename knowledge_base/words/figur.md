@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "角色, 人物; 形状"
 en: "character, figure"
-synonyms: ["karaktär"]
+synonyms: [karaktär]
 antonyms: []
-family: []
+family: [figurera, seriefigur, sagofigur]
 topics: ["topic-film"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # figur — substantiv (en)
 
 📖 中文：角色, 人物; 形状 · English: character, figure
+
+🇸🇪 Förklaring: 1) person eller djur i en berättelse, en film eller ett spel; 2) form eller bild, till exempel en geometrisk form; 3) hur en persons kropp ser ut
+
 发音提示：fi-gur
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[figurera]] (出现；扮演角色), [[seriefigur]] (漫画人物), [[sagofigur]] (童话人物)
 - 同义词: [[karaktär]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

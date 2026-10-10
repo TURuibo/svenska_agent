@@ -6,8 +6,8 @@ cefr: B1
 zh: 还、仍；再（ännu ett = 又一个）；更（+比较级）
 en: yet, still; another; even (+ comparative)
 synonyms: [fortfarande]
-antonyms: []
-family: []
+antonyms: [inte-längre]
+family: [än]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # ännu — adverb
 
 📖 中文：还、仍；再（ännu ett = 又一个）；更（+比较级） · English: yet, still; another; even (+ comparative)
+
+🇸🇪 Förklaring: fram till nu; som kommer till utöver det som redan finns; används för att förstärka en jämförelse
+
 发音提示：/ˈɛnɵ/；Ä-nu，重音在第一音节，`ä` 短，`u` 读 /ɵ/。
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: än（还、比；口语 `inte … än` = 还没）
+- 词族: [[än]]（还、比；口语 `inte … än` = 还没）
 - 同义词: [[fortfarande]]（义项2：仍然）
-- 反义词: —
+- 反义词: [[inte-längre|inte längre]] (不再)
 - 主题:
 
 ## 用法提示 (Usage Notes)

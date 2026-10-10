@@ -6,11 +6,9 @@ genus: en
 cefr: B1
 zh: "选民"
 en: "voter"
-synonyms: []
+synonyms: [röstberättigad]
 antonyms: []
-family:
-  - "[[val]]"
-  - "[[välja]]"
+family: [val, välja, rösta]
 topics:
   - "[[topic-samhälle-och-politik]]"
 sentences:
@@ -26,6 +24,9 @@ interval: 0
 # väljare — substantiv (en)
 
 📖 中文：选民 · English: voter
+
+🇸🇪 Förklaring: person som har rätt att rösta i ett val
+
 发音提示：["vɛlˌjare]
 
 ## 语法变形 (Forms)
@@ -51,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[val]]（选举）、[[välja]]（选择，动词）、rösta（投票）
-- 同义词: röstberättigad（有投票权的人）
+- 词族: [[val]]（选举）, [[välja]]（选择，动词）, [[rösta]]（投票）
+- 同义词: [[röstberättigad]]（有投票权的人）
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

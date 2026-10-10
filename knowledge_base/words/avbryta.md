@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: "B1"
 zh: "打断"
 en: "interrupt"
-synonyms: ["störa"]
-antonyms: []
-family: ["bryta"]
+synonyms: [störa]
+antonyms: [fortsätta]
+family: [bryta]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # avbryta — verb
 
 📖 中文：打断 · English: interrupt
+
+🇸🇪 Förklaring: börja prata medan någon annan talar; få något att sluta innan det är klart
+
+发音提示：/ˈɑːvˌbryːta/ — 重音在 av，bry 带次重音，y 读长音
 
 ## 语法变形 (Forms)
 
@@ -43,7 +47,7 @@ interval: 0
 
 - 词族: [[bryta]]
 - 同义词: [[störa]]
-- 反义词: []
+- 反义词: [[fortsätta]] (继续)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

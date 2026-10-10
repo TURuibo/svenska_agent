@@ -9,7 +9,7 @@ zh: "站；立；摆放"
 en: "to stand; to be standing"
 synonyms: []
 antonyms: [ligga, sitta]
-family: [ställa, uppstå, förstå]
+family: [ställa, förstå, uppstå]
 topics: [topic-rumsliga-relationer, topic-stadsmiljo]
 sentences:
   - sent-sangens-star-langs-vaggen-under-sangen
@@ -34,6 +34,9 @@ interval: 0
 # stå — verb (grupp 4 / stark verb)
 
 📖 中文：站；立；摆放 · English: to stand; to be standing
+
+🇸🇪 Förklaring: vara upprätt på fötterna utan att sitta eller ligga; vara placerad på ett visst ställe
+
 发音提示：stå（单音节）；lång å.
 
 ## 语法变形 (Forms)

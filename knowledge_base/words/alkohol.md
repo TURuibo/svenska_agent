@@ -6,9 +6,9 @@ genus: en
 cefr: "A2"
 zh: "酒精；酒"
 en: "alcohol"
-synonyms: []
+synonyms: [sprit]
 antonyms: []
-family: ["alkoholhaltigt", "alkoholist", "alkoholism"]
+family: [alkoholhaltigt, alkoholist, alkoholism]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # alkohol — substantiv
 
 📖 中文：酒精；酒 · English: alcohol
+
+🇸🇪 Förklaring: ämne i öl, vin och sprit som gör att man blir berusad; drycker som innehåller detta ämne
+
 发音提示：/ˌalkɔˈhuːl/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: alkoholhaltigt (adj: 含酒精的), alkoholist (酗酒者), alkoholism (酗酒)
+- 词族: [[alkoholhaltigt]] (adj: 含酒精的), [[alkoholist]] (酗酒者), [[alkoholism]] (酗酒)
+- 同义词: [[sprit]] (烈酒；酒精)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

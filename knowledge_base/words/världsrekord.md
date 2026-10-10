@@ -8,7 +8,7 @@ zh: 世界纪录
 en: world record
 synonyms: []
 antonyms: []
-family: []
+family: [värld, rekord, världsmästare]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # världsrekord — substantiv (ett)
 
 📖 中文：世界纪录 · English: world record
+
+🇸🇪 Förklaring: det bästa resultat som någon någonsin har gjort på hela jorden i en viss gren
+
 发音提示：/ˈvɛːɭdsˌrekɔrd/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[värld]] (世界), [[rekord]] (纪录), [[världsmästare]] (世界冠军)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

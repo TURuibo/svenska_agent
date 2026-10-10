@@ -8,8 +8,8 @@ cefr: A2
 zh: 社会/社区
 en: society, community
 synonyms: []
-antonyms: []
-family: []
+antonyms: [individ]
+family: [samhällsvetenskap, samhällsproblem]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # samhälle — substantiv (ett)
 
 📖 中文：社会/社区 · English: society, community
+
+🇸🇪 Förklaring: 1) alla människor i ett land och hur de lever och styrs tillsammans; 2) mindre ort där människor bor
+
 发音提示：SAM-häl-le；重音在第一音节，元音 `ä` 短促。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[samhällsvetenskap]] (social science), [[samhällsproblem]] (social problem)
-- 同义词: [[samhälle]] —
-- 反义词: —
+- 同义词: —
+- 反义词: [[individ]] (个人)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "月；月龄"
 en: "month"
 synonyms: []
 antonyms: []
-family: [månadsvis]
+family: [månadsvis, månadskort, månadslön]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag, topic-tid-och-tidsuttryck]
 sentences: [sent-olle-är-ett-år-och-åtta]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # månad — substantiv (en)
 
 📖 中文：月；月龄 · English: month
+
+🇸🇪 Förklaring: en av årets tolv delar, som är ungefär trettio dagar lång
+
 发音提示：/ˈmoːnad/ — å 读长音 /oː/，重音在第一音节；复数 *månader* 重音不变。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *månadsvis*（按月）、*månadskort*（月票）、*månadslön*（月薪）
+- 词族: [[månadsvis]]（按月）, [[månadskort]]（月票）, [[månadslön]]（月薪）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-tid-och-tidsuttryck]]、[[topic-föräldrasmåprat]]、[[topic-förskola-vardag]]

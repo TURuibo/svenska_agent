@@ -7,13 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "南；向南"
 en: "south"
-synonyms: []
-antonyms:
-  - norr
-family:
-  - norr
-  - öster
-  - väster
+synonyms: [syd]
+antonyms: [norr]
+family: [norr, öster, väster, söderut]
 topics:
   - topic-riktningar
 sentences:
@@ -29,6 +25,9 @@ interval: 0
 # söder — substantiv (ett) / adverb
 
 📖 中文：南；向南 · English: south
+
+🇸🇪 Förklaring: det väderstreck som är motsatt norr; där solen står mitt på dagen
+
 发音提示：SÖ-der；两音节，ö 如汉语"诶"的圆唇版本。
 
 ## 语法变形 (Forms)
@@ -53,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[norr]] (北), [[öster]] (东), [[väster]] (西), [[söderut]] (adv. 向南)
-- 同义词: —
+- 同义词: [[syd]] (南)
 - 反义词: [[norr]]
 - 主题: [[topic-riktningar]]
 

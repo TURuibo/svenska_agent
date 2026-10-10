@@ -7,7 +7,7 @@ genus: en
 cefr: A2
 zh: 肿包
 en: bump; lump
-synonyms: []
+synonyms: [svullnad]
 antonyms: []
 family: []
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: 2026-09-26
 # bula — substantiv (en)
 
 📖 中文：肿包 · English: bump; lump
+
+🇸🇪 Förklaring: liten svullnad på kroppen, till exempel på huvudet när man har slagit sig
+
 发音提示：/ˈbʉːla/ — u 读瑞典语长 [ʉː]。
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: 2026-09-26
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: [[svullnad]] (肿胀)
+- 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

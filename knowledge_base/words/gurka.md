@@ -8,7 +8,7 @@ zh: "黄瓜"
 en: "cucumber"
 synonyms: []
 antonyms: []
-family: []
+family: [gurkdressing, inlagd-gurka]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gurka — substantiv (en-ord)
 
 📖 中文：黄瓜 · English: cucumber
+
+🇸🇪 Förklaring: lång grön grönsak med mycket vatten i, som man ofta äter rå i sallad
+
 发音提示：['gɵrka]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: gurkdressing, inlagd gurka
+- 词族: [[gurkdressing]], [[inlagd-gurka|inlagd gurka]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

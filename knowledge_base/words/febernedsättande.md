@@ -19,6 +19,9 @@ created: "2026-09-26"
 # febernedsättande — adjektiv
 
 📖 中文：退烧的；退烧药 · English: fever-reducing (medicine)
+
+🇸🇪 Förklaring: som får kroppstemperaturen att gå ner, om läkemedel
+
 发音提示：FE-ber-ned-sätt-an-de，长词，主重音在 fe-，次重音在 -sätt-。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[feber]], [[feberfri]]
-- 同义词: 
-- 反义词: 
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

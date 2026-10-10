@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 音乐会；演唱会
 en: concert
-synonyms: []
+synonyms: [spelning]
 antonyms: []
-family: []
+family: [konsertsal, konsertera]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # konsert — substantiv (en)
 
 📖 中文：音乐会；演唱会 · English: concert
+
+🇸🇪 Förklaring: tillfälle när musiker spelar eller sjunger inför publik
+
 发音提示：kon-SERT
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: konsertsal (音乐厅), konsertera (开音乐会)
+- 词族: [[konsertsal]] (音乐厅), [[konsertera]] (开音乐会)
+- 同义词: [[spelning]] (演出)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "一块；一片；一点"
 en: "piece; slice; bit"
-synonyms: ["stycke"]
-antonyms: []
-family: ["bita"]
+synonyms: [stycke]
+antonyms: [helhet]
+family: [bita]
 topics: ["topic-mat-dryck"]
 sentences:
   - "sent-da-tar-jag-en-bit-morotskaka"
@@ -24,6 +24,9 @@ interval: 0
 # bit — substantiv (en)
 
 📖 中文：一块；一片；一点 · English: piece; slice; bit
+
+🇸🇪 Förklaring: liten del av något större
+
 发音提示：/biːt/
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bita（咬）
-- 同义词: stycke（块/件）
+- 词族: [[bita]]（咬）
+- 同义词: [[stycke]]（块/件）
+- 反义词: [[helhet]] (整体)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

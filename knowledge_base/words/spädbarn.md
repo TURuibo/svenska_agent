@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "婴儿、新生儿"
 en: "infant, newborn baby"
-synonyms: ["bebis"]
+synonyms: [bebis]
 antonyms: []
-family: ["barn", "nyfödd"]
+family: [barn, nyfödd]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # spädbarn — substantiv
 
 📖 中文：婴儿、新生儿 · English: infant, newborn baby
+
+🇸🇪 Förklaring: mycket ung människa under sitt första levnadsår
+
 发音提示：/ˈspɛːdˌbɑːrn/，重音在第一音节
 
 ## 语法变形 (Forms)

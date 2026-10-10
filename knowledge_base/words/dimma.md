@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 雾
 en: fog
-synonyms: []
+synonyms: [dis, töcken]
 antonyms: []
-family: []
+family: [dimmig]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # dimma — substantiv (en-ord)
 
 📖 中文：雾 · English: fog
+
+🇸🇪 Förklaring: moln av små vattendroppar nära marken som gör att man inte ser långt
+
 发音提示：/ˈdɪmːa/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[dimmig]] (有雾的)
+- 同义词: [[dis]] (薄雾), [[töcken]] (薄雾)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

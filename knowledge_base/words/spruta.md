@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 注射，针管
 en: injection, syringe
-synonyms: []
+synonyms: [injektion]
 antonyms: []
-family: [spruta]
+family: []
 topics: [topic-hälsa, topic-vård]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # spruta — substantiv (en)
 
 📖 中文：注射，针管，注射器 · English: injection, syringe
+
+🇸🇪 Förklaring: 1) redskap med en nål som man använder för att ge läkemedel genom huden; 2) det att man får läkemedel på det sättet
+
 发音提示：[ˈsprʉːta]
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[spruta]] (动词)
+- 词族: —
+- 同义词: [[injektion]] (注射)
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-vård]]
 
 ## 用法提示 (Usage Notes)

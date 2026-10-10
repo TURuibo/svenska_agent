@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "民主"
 en: "democracy"
-synonyms: []
+synonyms: [folkstyre]
 antonyms: [diktatur]
 family: [demokratisk, demokrat]
 topics: [topic-samhälle-och-politik]
@@ -25,6 +25,9 @@ interval: 0
 # demokrati — substantiv (en)
 
 📖 中文：民主 · English: democracy
+
+🇸🇪 Förklaring: styrelseform där folket väljer sina ledare i fria val och alla har samma rättigheter
+
 发音提示：de-mo-kra-TI；重音在最后一个音节。
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[demokratisk]] (stub), [[demokrat]] (stub)
-- 同义词: —
-- 反义词: [[diktatur]] (stub)
+- 词族: [[demokratisk]], [[demokrat]]
+- 同义词: [[folkstyre]] (民治)
+- 反义词: [[diktatur]]
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

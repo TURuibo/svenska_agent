@@ -23,6 +23,9 @@ interval: 0
 # restavfall — substantiv
 
 📖 中文：普通垃圾；剩余垃圾 · English: residual waste
+
+🇸🇪 Förklaring: sopor som blir kvar när man har sorterat ut matavfall, förpackningar och annat som kan återvinnas
+
 发音提示：REST-av-fall（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[avfall]] [[matavfall]]
+- 词族: [[avfall]] [[matavfall]], [[matavfall]] (厨余垃圾)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]
 

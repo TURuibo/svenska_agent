@@ -8,8 +8,9 @@ zh: "开通仪式；揭幕式；开幕典礼"
 en: "inauguration; opening ceremony; dedication"
 cefr: "B1"
 known: false
-synonyms: ["öppningscermoni"]
-antonyms: []
+synonyms: [öppningscermoni]
+antonyms: [avslutning]
+family: [inviga, vigsel, invigningstal]
 topics: ["topic-stad-och-transport", "topic-evenemang"]
 phrases: ["klippa-bandet"]
 sentences: ["sent-stadens-politiker-klippte-bandet"]
@@ -27,6 +28,10 @@ interval: 0
 **中文:** 开通仪式；揭幕式；开幕典礼
 **English:** inauguration; opening ceremony
 **CEFR:** B1
+
+🇸🇪 Förklaring: officiell ceremoni när man öppnar något nytt, till exempel en bro eller en skola
+
+发音提示：/ˈɪnˌviːɡnɪŋ/ — 重音在 in；g 读硬音 ɡ
 
 ## 变形 (Forms)
 
@@ -62,3 +67,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-notis-ny-cykelbana]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[inviga]] (正式开放), [[vigsel]] (婚礼), [[invigningstal]] (开幕致辞)
+- 同义词: [[öppningscermoni]]
+- 反义词: [[avslutning]] (闭幕；结业典礼)

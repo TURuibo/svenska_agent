@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "世代"
 en: "generation"
-synonyms: []
+synonyms: [släktled]
 antonyms: []
-family: []
+family: [generationsskifte]
 topics: [topic-kultur-tradition]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # generation — substantiv
 
 📖 中文：世代 · English: generation
+
+🇸🇪 Förklaring: alla människor som är födda ungefär samtidigt; ett led i en släkt, till exempel föräldrar och deras barn
+
 发音提示：ge-ne-ra-SHON
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[generationsskifte]] (代际交替)
+- 同义词: [[släktled]] (辈分)
+- 反义词: —
 - 主题: [[topic-kultur-tradition]]
 
 ## 用法提示 (Usage Notes)

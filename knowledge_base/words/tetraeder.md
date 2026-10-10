@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B2"
 zh: "四面体"
 en: "tetrahedron"
-synonyms: []
+synonyms: [tresidig-pyramid]
 antonyms: []
 family: []
 topics: [topic-uppfinning-och-teknik]
@@ -24,6 +24,9 @@ interval: 0
 # tetraeder — substantiv
 
 📖 中文：四面体 · English: tetrahedron
+
+🇸🇪 Förklaring: geometrisk kropp med fyra sidor som alla är trianglar
+
 发音提示：te-tra-E-der（重音在第三音节）
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: —
+- 同义词: [[tresidig-pyramid|tresidig pyramid]] (三棱锥)
 - 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]
 

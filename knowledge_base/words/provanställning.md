@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "试用雇佣，试用期"
 en: "probationary employment"
-synonyms: []
-antonyms: []
-family: ["anställning", "tillsvidareanställning"]
+synonyms: [prövotid]
+antonyms: [fast-anställning]
+family: [anställning, tillsvidareanställning]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # provanställning — substantiv (en-ord)
 
 📖 中文：试用雇佣，试用期 · English: probationary employment
+
+🇸🇪 Förklaring: tid på högst sex månader i början av ett jobb då man prövar om arbetet och den anställda passar
+
 发音提示：PRO-v-an-ställ-ning
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-03"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[anställning]], [[tillsvidareanställning]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[prövotid]] (试用期)
+- 反义词: [[fast-anställning|fast anställning]] (固定雇佣)
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

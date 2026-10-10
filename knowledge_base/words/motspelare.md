@@ -9,7 +9,7 @@ zh: "对手"
 en: "opponent"
 synonyms: [motståndare]
 antonyms: [lagkamrat]
-family: [mot, spelare, spela]
+family: [spela, spelare, mot]
 topics: [topic-fotboll]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # motspelare — substantiv (en)
 
 📖 中文：对手 · English: opponent
+
+🇸🇪 Förklaring: person som man tävlar mot, till exempel i en match
+
 发音提示：/ˈmutˌspɛːlarɛ/；复合词，重音在 mot-。
 
 ## 语法变形 (Forms)

@@ -9,7 +9,7 @@ zh: "贷款"
 en: "loan"
 synonyms: [kredit]
 antonyms: [bidrag]
-family: [låna, låntagare]
+family: [låna, låntagare, långivare]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # lån — substantiv (ett)
 
 📖 中文：贷款 · English: loan
+
+🇸🇪 Förklaring: pengar eller något annat som man får använda en tid och sedan måste lämna tillbaka
+
 发音提示：LÅN，单音节，å 发长音。
 
 ## 语法变形 (Forms)

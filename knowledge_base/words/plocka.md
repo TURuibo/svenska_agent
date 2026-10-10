@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "采摘, 拣, 取"
 en: "to pick"
-synonyms: []
+synonyms: [samla, ta]
 antonyms: []
-family: []
+family: [plockgodis, bärplockning, plockmat]
 topics: ["topic-midsommar-traditioner"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # plocka — verb
 
 📖 中文：采摘, 拣, 取 · English: to pick
+
+🇸🇪 Förklaring: ta upp något med fingrarna, till exempel bär, blommor eller saker från golvet
+
 发音提示：ploc-ka
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[plockgodis]] (散装糖果), [[bärplockning]] (采浆果), [[plockmat]] (小吃拼盘)
+- 同义词: [[samla]] (收集), [[ta]] (拿)
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

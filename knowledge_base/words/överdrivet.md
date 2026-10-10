@@ -5,13 +5,9 @@ ordklass: "adjektiv/adverb"
 cefr: "B1"
 zh: "过度的；过分的"
 en: "excessive; excessively"
-synonyms:
-  - för mycket
-antonyms:
-  - lagom
-family:
-  - överdriva
-  - överdrift
+synonyms: [för-mycket]
+antonyms: [lagom]
+family: [överdriva, överdrift]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -27,6 +23,9 @@ interval: 0
 # överdrivet — adjektiv/adverb
 
 📖 中文：过度的；过分的 · English: excessive; excessively
+
+🇸🇪 Förklaring: som är mer än vad som är rimligt eller behövs; på ett sätt som går för långt
+
 发音提示：/ö-ver-DRI-vet/
 
 ## 语法变形 (Forms)
@@ -51,6 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: överdriva（动词：夸大）· överdrift（名词：夸张）
-- 反义词: lagom（适度的/恰好的）
+- 词族: [[överdriva]]（动词：夸大）· överdrift（名词：夸张）, [[överdrift]]
+- 同义词: [[för-mycket]]
+- 反义词: [[lagom]]（适度的/恰好的）
 - 主题: [[topic-samhälle-och-politik]]

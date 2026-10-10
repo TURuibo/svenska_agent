@@ -19,6 +19,9 @@ created: 2026-09-26
 # samling — substantiv (en)
 
 📖 中文：晨会；围坐活动 · English: circle time; gathering
+
+🇸🇪 Förklaring: 1) stund i förskolan då barn och pedagoger sitter tillsammans och sjunger, pratar eller läser; 2) möte där många människor kommer tillsammans
+
 发音提示：/ˈsamːlɪŋ/ — 重音在第一音节，-ing 结尾。
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: 2026-09-26
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sångsamling]]（唱歌围坐）
+- 同义词: [[sångsamling]] (集体唱歌时间)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

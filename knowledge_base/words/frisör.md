@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 理发师
 en: hairdresser
-synonyms: []
+synonyms: [barberare]
 antonyms: []
 family: [klippning]
 topics: [topic-yrken]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # frisör — substantiv (en)
 
 📖 中文：理发师 · English: hairdresser
+
+🇸🇪 Förklaring: person som har som yrke att klippa och sköta andra människors hår
+
 发音提示：/frɪˈsøːr/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klippning]]
-- 同义词:
-- 反义词:
+- 同义词: [[barberare]] (理发师（男士）)
+- 反义词: —
 - 主题: [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

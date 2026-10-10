@@ -8,7 +8,7 @@ zh: 梭鱼；白斑狗鱼
 en: pike (fish)
 synonyms: []
 antonyms: []
-family: []
+family: [gäddfiske]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gädda — substantiv (en)
 
 📖 中文：梭鱼；白斑狗鱼 · English: pike (fish)
+
+🇸🇪 Förklaring: stor rovfisk med lång kropp och vassa tänder som lever i sjöar och vid kusten
+
 发音提示：GÄD-da（两音节，注意 ä 发音）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gäddfiske]] (梭鱼垂钓)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

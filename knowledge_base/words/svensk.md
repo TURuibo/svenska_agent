@@ -7,7 +7,7 @@ zh: 瑞典的
 en: Swedish
 synonyms: []
 antonyms: []
-family: []
+family: [svenska, svenskar]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # svensk — adjektiv
 
 📖 中文：瑞典的 · English: Swedish
+
+🇸🇪 Förklaring: som hör till eller kommer från Sverige
+
 发音提示：/svɛnsk/；`sv-` 连读，结尾 `-nsk` 要清晰读出。
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: svenska (名词：瑞典语), svensk (名词 en svensk：瑞典人), svenskar (复数)
-- 同义词:
-- 反义词:
+- 词族: [[svenska]] (名词：瑞典语), [[svenskar]] (复数)
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

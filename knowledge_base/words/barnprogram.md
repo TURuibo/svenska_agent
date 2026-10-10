@@ -24,6 +24,9 @@ interval: 0
 # barnprogram — substantiv (ett)
 
 📖 中文：儿童节目 · English: children's programme
+
+🇸🇪 Förklaring: tv- eller radiosändning som är gjord för barn
+
 发音提示：["bɑːrn.prɔɡram]，复合词：barn（儿童）+ program（节目）
 
 ## 语法变形 (Forms)

@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B2
 zh: 保证；使确信；投保
 en: to assure; to insure
-synonyms: []
+synonyms: [garantera, intyga]
 antonyms: []
-family: []
+family: [försäkring]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # försäkra — verb (grupp 1)
 
 📖 中文：保证、使确信；给……投保 · English: to assure; to insure
+
+🇸🇪 Förklaring: 1) säga bestämt att något är sant så att någon känner sig säker; 2) skaffa ett skydd hos ett bolag som betalar om något händer
+
+发音提示：/fœˈʂɛːkra/ — rs 合成卷舌 ʂ；重音在 säk
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: försäkring（保险）
-- 同义词:
-- 反义词:
+- 词族: [[försäkring]]（保险）
+- 同义词: [[garantera]] (保证), [[intyga]] (证明)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

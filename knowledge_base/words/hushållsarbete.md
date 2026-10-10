@@ -6,7 +6,7 @@ genus: "ett"
 cefr: "B1"
 zh: "家务劳动"
 en: "household work"
-synonyms: []
+synonyms: [husarbete]
 antonyms: []
 family: [arbete]
 topics: []
@@ -22,7 +22,10 @@ interval: 0
 # hushållsarbete — substantiv
 
 📖 中文：家务劳动 · English: household work
-发音提示：
+
+🇸🇪 Förklaring: arbete som man gör i hemmet, till exempel städning, tvätt och matlagning
+
+发音提示：/ˈhʉːshɔlsˌarbeːtɛ/ — u 读 ʉː；复合词重音在 hus
 
 ## 语法变形 (Forms)
 
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[arbete]]
-- 同义词: —
+- 同义词: [[husarbete]] (家务)
 - 反义词: —
 - 主题: —
 

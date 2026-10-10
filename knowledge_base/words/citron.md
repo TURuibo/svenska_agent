@@ -9,7 +9,7 @@ zh: "柠檬"
 en: "lemon"
 synonyms: []
 antonyms: []
-family: ["citronsyra", "citrongul"]
+family: [citronsaft, citrongul, citronsyra]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # citron — substantiv (en)
 
 📖 中文：柠檬 · English: lemon
+
+🇸🇪 Förklaring: gul frukt med sur saft som man använder i mat och dryck
+
 发音提示：/sɪˈtruːn/（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: citronsaft（柠檬汁）, citrongul（柠檬黄）
+- 词族: [[citronsaft]]（柠檬汁）, [[citrongul]]（柠檬黄）, [[citronsyra]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

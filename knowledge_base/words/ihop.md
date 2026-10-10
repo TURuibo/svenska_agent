@@ -6,8 +6,8 @@ cefr: "A2"
 zh: "一起；合在一起；合并"
 en: "together; combined"
 synonyms: [tillsammans]
-antonyms: []
-family: []
+antonyms: [isär]
+family: [hop]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # ihop — adverb
 
 📖 中文：一起；合在一起；合并 · English: together; combined
+
+🇸🇪 Förklaring: så att två eller flera saker eller personer blir en enhet eller är på samma ställe
+
 发音提示：i-HOP（重音在第二音节）
 
 ## 词组搭配 (Collocations)
@@ -38,7 +41,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[hop]] (一群；一堆)
 - 同义词: [[tillsammans]]
+- 反义词: [[isär]] (分开)
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: B2
 zh: 统计机构
 en: statistics authority
-synonyms: []
+synonyms: [statistikbyrå]
 antonyms: []
-family: []
+family: [statistik, myndighet, statistisk]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # statistikmyndighet — substantiv (en)
 
 📖 中文：统计机构 · English: statistics authority
+
+🇸🇪 Förklaring: statlig myndighet som samlar in och redovisar siffror om samhället, i Sverige SCB
+
 发音提示：/staˈtɪstɪkmyːnˌdɪɡheːt/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[statistik]] (统计), [[myndighet]] (政府机构), [[statistisk]] (统计的)
+- 同义词: [[statistikbyrå]] (统计局)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

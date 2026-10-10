@@ -18,6 +18,10 @@ created: "2026-10-01"
 
 📖 中文：更少的（修饰可数复数） · English: fewer
 
+🇸🇪 Förklaring: används om ett mindre antal av något som går att räkna
+
+发音提示：/ˈfærːɛ/ — ä 在 r 前读 æ，rr 要长
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -40,8 +44,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[få]]（动词 få 同形异义；此处为形容词 få = 少数）
-- 同义词:
-- 反义词: fler
+- 同义词: —
+- 反义词: [[fler]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

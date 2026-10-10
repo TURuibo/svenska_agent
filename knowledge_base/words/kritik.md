@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "批评"
 en: "criticism"
-synonyms: []
+synonyms: [klander, anmärkning]
 antonyms: [beröm]
 family: [kritisera, kritiker]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-05
 # kritik — substantiv en/ett: en
 
 📖 中文：批评 · English: criticism
+
+🇸🇪 Förklaring: åsikter om vad som är dåligt eller fel med något eller någon; också bedömning av t.ex. en bok eller film
+
+发音提示：/krɪˈtiːk/ — 重音在第二音节 -tik
 
 ## 语法变形 (Forms)
 
@@ -42,7 +46,7 @@ created: 2026-10-05
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kritisera]], [[kritiker]]
-- 同义词: —
+- 同义词: [[klander]] (指责), [[anmärkning]] (批评；指摘)
 - 反义词: [[beröm]]
 - 主题: [[topic-argumentation]]
 

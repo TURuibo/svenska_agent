@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "访问；探亲"
 en: "visit"
-synonyms: []
+synonyms: [visit]
 antonyms: []
 family: [besöka]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # besök — substantiv (ett)
 
 📖 中文：访问；探亲 · English: visit
+
+🇸🇪 Förklaring: det att man kommer till en person eller en plats för att träffa någon eller se något
+
 发音提示：be-SÖK（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[besöka]]
-- 同义词: —
+- 同义词: [[visit]] (拜访)
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 

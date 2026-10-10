@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: A2
 zh: 转；翻转；转向
 en: to turn
-synonyms: []
+synonyms: [vrida, svänga]
 antonyms: []
-family: []
+family: [vändning, vändpunkt, omvänd]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # vända — verb (grupp 2)
 
 📖 中文：转；翻转；转向 · English: to turn
+
+🇸🇪 Förklaring: flytta något så att en annan sida kommer fram; byta riktning
+
 发音提示：/ˈvɛnda/
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[vändning]] (转变), [[vändpunkt]] (转折点), [[omvänd]] (颠倒的)
+- 同义词: [[vrida]] (转动), [[svänga]] (转弯)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

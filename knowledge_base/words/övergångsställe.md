@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 人行横道、斑马线
 en: pedestrian crossing, crosswalk, zebra crossing
-synonyms: []
+synonyms: [zebraövergång]
 antonyms: []
-family: ["gå", "övergång"]
+family: [gå, övergång]
 topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # övergångsställe — substantiv (ett)
 
 📖 中文：人行横道、斑马线 · English: pedestrian crossing, crosswalk, zebra crossing
+
+🇸🇪 Förklaring: markerat ställe på gatan där fotgängare kan gå säkert till andra sidan
+
 发音提示：Ö-ver-gångs-STÄL-le
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gå]], [[övergång]]
+- 同义词: [[zebraövergång]] (斑马线)
+- 反义词: —
 - 主题: [[topic-trafik]], [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

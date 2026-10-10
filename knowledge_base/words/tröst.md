@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "安慰"
 en: "comfort, consolation"
-synonyms: []
+synonyms: [lättnad, stöd]
 antonyms: []
 family: [trösta]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tröst — substantiv
 
 📖 中文：安慰 · English: comfort, consolation
+
+🇸🇪 Förklaring: något som gör att en ledsen person känner sig lite bättre
+
 发音提示：/trøsːt/ — 短 ö
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[trösta]]
+- 同义词: [[lättnad]] (宽慰), [[stöd]] (支持)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

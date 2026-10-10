@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "读者来信；投稿意见（刊载于报纸/网站的公民意见）"
 en: "letter to the editor; opinion piece submitted by a reader"
-synonyms: [debattartikel, läsarinsändare]
+synonyms: [debattartikel, läsarbrev, läsarinsändare]
 antonyms: []
-family: [sända, insända, insändarbrev]
+family: [sända, insändarbrev, insända]
 topics: [topic-samhalle]
 sentences: [sent-jag-har-skrivit-en-insandare, sent-hennes-insandare-publicerades-i-tidningen]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # insändare — substantiv (en)
 
 Zh: 读者来信；投稿意见 · English: letter to the editor; reader's opinion piece
+
+🇸🇪 Förklaring: kort text där en läsare skriver sin åsikt i en tidning
+
 发音提示：in-SÄN-da-re（四个音节）
 
 ## 语法变形 (Forms)
@@ -51,8 +54,9 @@ Zh: 读者来信；投稿意见 · English: letter to the editor; reader's opini
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sända]]（发送）, insändarbrev（投稿信）
-- 同义词: debattartikel（辩论文章）, läsarbrev（读者来信）
+- 词族: [[sända]]（发送）, [[insändarbrev]]（投稿信）, [[insända]]
+- 同义词: [[debattartikel]]（辩论文章）, [[läsarbrev]]（读者来信）, [[läsarinsändare]]
+- 反义词: —
 - 主题: [[topic-samhalle]]
 
 ## 用法提示 (Usage Notes)

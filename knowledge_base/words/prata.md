@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "说，聊"
 en: "to talk, to chat"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [tala, snacka, samtala]
+antonyms: [tiga]
+family: [prat, pratig, pratstund]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # prata — verb
 
 📖 中文：说，聊天 · English: to talk, to chat
+
+🇸🇪 Förklaring: använda ord för att säga saker till någon, ofta på ett avslappnat sätt
+
 发音提示："PRA-ta"
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[prat]] (闲聊), [[pratig]] (话多的), [[pratstund]] (聊天时光)
+- 同义词: [[tala]] (说话), [[snacka]] (聊（口语）), [[samtala]] (交谈)
+- 反义词: [[tiga]] (沉默)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

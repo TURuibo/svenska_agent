@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A1"
 zh: "短信"
 en: "text message, SMS"
-synonyms: []
+synonyms: [textmeddelande]
 antonyms: []
-family: ["sms:a"]
+family: [sms:a]
 topics: ["topic-förskola-vardag"]
 sentences: ["sent-säg-ditt-nummer-så-skickar-jag"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sms — substantiv (ett)
 
 📖 中文：短信 · English: text message, SMS
+
+🇸🇪 Förklaring: kort textmeddelande som man skickar med mobiltelefonen
+
 发音提示：ess-emm-ESS（按字母读，重音在最后）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sms:a（动词，发短信）
+- 词族: [[sms:a]]
+- 同义词: [[textmeddelande]] (短信)
+- 反义词: —
 - 相关: [[nummer]], [[skicka]]
 - 主题: [[topic-förskola-vardag]]
 

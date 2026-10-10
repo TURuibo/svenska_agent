@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "应得；值得"
 en: "to deserve"
-synonyms: []
+synonyms: [vara-värd]
 antonyms: []
-family: ["tjäna"]
+family: [tjäna]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # förtjäna — verb (grupp 1)
 
 📖 中文：应得；值得 · English: to deserve
+
+🇸🇪 Förklaring: ha gjort sig värd något, till exempel beröm eller straff, genom det man har gjort
+
 发音提示：för-TJÄ-na
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tjäna]] (v, stub, 挣得/服务)
+- 词族: [[tjäna]] (v, 挣得/服务)
+- 同义词: [[vara-värd|vara värd]] (值得)
+- 反义词: —
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

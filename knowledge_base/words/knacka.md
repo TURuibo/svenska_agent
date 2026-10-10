@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "敲"
 en: "to knock"
-synonyms: []
+synonyms: [bulta, slå]
 antonyms: []
-family: []
+family: [knackning, knack]
 topics: []
 sentences: [sent-under-åren-1913-och-1914]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # knacka — verb
 
 📖 中文：敲 · English: to knock
-发音提示：
+
+🇸🇪 Förklaring: slå lätt flera gånger med knogarna, t.ex. på en dörr
+
+发音提示：/ˈknakːa/ — kn 中的 k 要发音；a 短，kk 长
 
 ## 语法变形 (Forms)
 
@@ -43,8 +46,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[knackning]] (敲击声), [[knack]] (敲击声)
+- 同义词: [[bulta]] (猛敲), [[slå]] (敲；打)
 - 反义词: —
 - 主题: —
 

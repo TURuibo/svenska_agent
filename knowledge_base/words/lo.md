@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 猞猁（欧亚猞猁）
 en: lynx
-synonyms: ["lodjur"]
+synonyms: [lodjur]
 antonyms: []
 family: []
 topics: ["topic-djur"]
@@ -22,6 +22,9 @@ interval: 0
 # lo — substantiv (en)
 
 📖 中文：猞猁（欧亚猞猁） · English: lynx
+
+🇸🇪 Förklaring: vilt kattdjur med kort svans och tofsar på öronen som lever i svenska skogar
+
 发音提示：LO（单音节，长 o 音）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
 - 同义词: [[lodjur]]
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

@@ -22,6 +22,9 @@ interval: 0
 # disk — substantiv
 
 📖 中文：吧台；柜台；（也指）洗碗 · English: counter; bar; (also: dishwashing)
+
+🇸🇪 Förklaring: 1) lång bänk i en butik, bank eller bar där kunderna blir betjänade; 2) smutsiga tallrikar och glas som ska tvättas, eller arbetet att göra dem rena
+
 发音提示：disk（短促，清晰的 k 音）
 
 ## 语法变形 (Forms)
@@ -53,7 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[diska]], [[diskmaskin]]
+- 词族: [[diska]], [[diskmaskin]], [[bänk]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

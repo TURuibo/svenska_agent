@@ -5,7 +5,7 @@ ordklass: preposition
 cefr: A2
 zh: "在……处、在……那里、在……家（人/机构所在处）"
 en: "at (someone's place), with, among"
-synonyms: []
+synonyms: [vid]
 antonyms: []
 family: []
 topics: []
@@ -21,6 +21,9 @@ interval: 0
 # hos — preposition
 
 📖 中文：在……那里、在……家、在……处（指人或机构所在的地方） · English: at (someone's place), with, among
+
+🇸🇪 Förklaring: används för att säga att något finns eller händer i någons hem, på någons arbetsplats eller vid en person
+
 发音提示：/hʊs/，短 o [ʊ]。
 
 ## 用法 (Usage patterns)
@@ -51,7 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: — （部分场景 ≈ *vid*、*till* 但语义不同，见下）
+- 词族: —
+- 同义词: — （部分场景 ≈ [[vid]]、[[till]] 但语义不同，见下）
 - 反义词: —
 - 主题: —
 

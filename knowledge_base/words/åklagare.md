@@ -7,8 +7,8 @@ cefr: "B1"
 zh: "检察官"
 en: "prosecutor"
 synonyms: []
-antonyms: ["domare"]
-family: []
+antonyms: [domare]
+family: [klaga, anklaga, åklagarmyndigheten]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # åklagare — substantiv
 
 📖 中文：检察官 · English: prosecutor
-发音提示：
+
+🇸🇪 Förklaring: jurist som för statens talan i domstol mot den som är misstänkt för brott
+
+发音提示：/ˈoːˌklɑːɡarɛ/ — å 读长音 oː；重音在 å
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[klaga]] (抱怨), [[anklaga]] (指控), [[åklagarmyndigheten|Åklagarmyndigheten]] (检察署)
+- 同义词: —
+- 反义词: [[domare]] (法官)
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

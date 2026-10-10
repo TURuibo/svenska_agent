@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 温馨的；舒适的
 en: cozy; snug
-synonyms: []
-antonyms: []
-family: []
+synonyms: [trevlig, ombonad]
+antonyms: [otrivsam]
+family: [mysa, mys]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # mysig — adjektiv
 
 📖 中文：温馨的；舒适的 · English: cozy; snug
+
+🇸🇪 Förklaring: som är trevlig, varm och skön så att man känner sig lugn och avslappnad
+
 发音提示：MEE-sig
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mysa (温馨共处), mys (温馨)
-- 同义词: trevlig (愉快的), ombonad (温馨的)
+- 词族: [[mysa]] (温馨共处), [[mys]] (温馨)
+- 同义词: [[trevlig]] (愉快的), [[ombonad]] (温馨的)
+- 反义词: [[otrivsam]] (不温馨的)
 
 ## 用法提示 (Usage Notes)
 

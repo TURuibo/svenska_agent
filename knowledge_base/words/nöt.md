@@ -9,7 +9,7 @@ zh: "坚果"
 en: "nut"
 synonyms: []
 antonyms: []
-family: []
+family: [nötfri, jordnöt, valnöt]
 topics:
   - topic-mat-dryck
 sentences:
@@ -26,6 +26,9 @@ interval: 0
 # nöt — substantiv (en)
 
 📖 中文：坚果 · English: nut
+
+🇸🇪 Förklaring: torr frukt med hårt skal och en kärna som man kan äta
+
 发音提示：/nøːt/（与 nöten /nøːtən/）
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: nötfri（无坚果的），jordnöt（花生），valnöt（核桃）
+- 词族: [[nötfri]]（无坚果的）, [[jordnöt]]（花生）, [[valnöt]]（核桃）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

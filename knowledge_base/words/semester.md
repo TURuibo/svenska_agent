@@ -8,7 +8,7 @@ zh: "假期、休假"
 en: "vacation, holiday"
 synonyms: [ledighet]
 antonyms: []
-family: []
+family: [semestra, sommarsemester, semesterdag, semesterersättning]
 topics: ["topic-fritid-och-resor"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # semester — substantiv (en-ord)
 
 📖 中文：假期、休假 · English: vacation, holiday
+
+🇸🇪 Förklaring: period då man är ledig från sitt arbete, oftast med lön
+
 发音提示：se-MES-ter
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
+- 词族: [[semestra]] (度假), [[sommarsemester]] (夏季休假), [[semesterdag]] (休假日), [[semesterersättning]] (休假补偿金)
 - 同义词: [[ledighet]] (休假、空闲)
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

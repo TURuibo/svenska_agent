@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A1"
 zh: "护照"
 en: "passport"
-synonyms: []
+synonyms: [resehandling]
 antonyms: []
-family: []
+family: [passfoto, passkontroll, passnummer]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # pass — substantiv (ett)
 
 📖 中文：护照 · English: passport
+
+🇸🇪 Förklaring: dokument som visar vem man är och som man behöver när man reser till andra länder
+
 发音提示：PASS（短 a）
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[passfoto]] (护照照片), [[passkontroll]] (护照检查), [[passnummer]] (护照号码)
+- 同义词: [[resehandling]] (旅行证件)
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 

@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: "果汁"
 en: "juice"
-synonyms: []
+synonyms: [saft]
 antonyms: []
-family: ["saftig"]
+family: [saftig]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # juice — substantiv (en-ord)
 
 📖 中文：果汁 · English: juice
+
+🇸🇪 Förklaring: dryck som man pressar fram ur frukt, till exempel apelsiner
+
 发音提示：[jʉːs] (瑞典化发音)
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[saftig]]（多汁的）
-- 同义词: saft（自制果汁/糖浆饮料）
+- 同义词: [[saft]]（自制果汁/糖浆饮料）
 - 反义词: —
 - 主题: [[topic-mat-dryck]]
 

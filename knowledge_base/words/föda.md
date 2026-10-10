@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "生育；出生"
 en: "give birth / be born"
-synonyms: [föda upp, ge liv åt]
+synonyms: [föda-upp, ge-liv-åt]
 antonyms: []
 family: [födslodag, förlossning, nyfödd]
 topics: [topic-familj-och-barn]
@@ -23,6 +23,9 @@ interval: 0
 # föda — verb (v.2)
 
 📖 中文：生育；出生 · English: give birth / be born
+
+🇸🇪 Förklaring: få ett barn som kommer ut ur kroppen; i formen födas: komma till världen
+
 发音提示：/føːda/；ö 长音，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[födslodag]] (en, 生日), [[förlossning]] (en, 分娩), [[nyfödd]] (adj. 刚出生的)
-- 同义词: —
+- 同义词: [[föda-upp]], [[ge-liv-åt]]
 - 反义词: —
 - 主题: [[topic-familj-och-barn]]
 

@@ -17,6 +17,9 @@ created: "2026-10-01"
 # södra — adjektiv
 
 📖 中文：南部的 · English: southern
+
+🇸🇪 Förklaring: som ligger i den del av ett land eller område som är längst ner på kartan
+
 发音提示：/ˈsøːdra/
 
 ## 语法变形 (Forms)
@@ -35,8 +38,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sydlig]]
-- 同义词: sydlig
-- 反义词: norra
+- 同义词: [[sydlig]]
+- 反义词: [[norra]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

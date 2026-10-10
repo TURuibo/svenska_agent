@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "梳妆台；抽屉柜"
 en: "chest of drawers; dresser; bureau"
-synonyms: []
+synonyms: [kommod]
 antonyms: []
-family: []
+family: [byrålåda]
 topics: ["topic-mobler", "topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # byrå — substantiv (en)
 
 📖 中文：梳妆台；抽屉柜 · English: chest of drawers; dresser; bureau
+
+🇸🇪 Förklaring: möbel med flera lådor där man förvarar kläder och andra saker
+
 发音提示：/byˈroː/；重音在第二音节，长 o 音。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: byrålåda (抽屉)
-- 同义词: —
+- 词族: [[byrålåda]] (抽屉)
+- 同义词: [[kommod]] (五斗柜)
 - 反义词: —
 - 主题: [[topic-mobler]], [[topic-hemmet]]
 

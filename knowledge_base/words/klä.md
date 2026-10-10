@@ -6,9 +6,9 @@ verbgrupp: "2r"
 cefr: "A2"
 zh: "装饰；穿戴"
 en: "to dress; to decorate"
-synonyms: ["dekorera", "pryda"]
-antonyms: []
-family: ["kläder", "klädsel"]
+synonyms: [dekorera, pryda]
+antonyms: [klä-av]
+family: [kläder, klädsel]
 topics: ["topic-midsommar-traditioner", "topic-klader"]
 sentences: ["sent-sedan-klar-de-midsommarstangen-med-blommor"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # klä — verb
 
 📖 中文：装饰；穿戴 · English: to dress; to decorate
+
+🇸🇪 Förklaring: 1) sätta plagg på någon eller på sig själv; 2) täcka eller smycka något så att det blir vackert
+
 发音提示：[kleː]，长元音
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kläder]] · [[klädsel]]
-- 同义词: [[dekorera]]
-- 反义词:
+- 词族: [[kläder]] · [[klädsel]], [[klädsel]]
+- 同义词: [[dekorera]], [[pryda]]
+- 反义词: [[klä-av|klä av]] (脱衣服)
 - 主题: [[topic-midsommar-traditioner]] · [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

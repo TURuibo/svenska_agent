@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 环保的
 en: environmentally friendly
-synonyms: []
+synonyms: [klimatsmart, grön]
 antonyms: [miljöfarlig]
-family: [miljö]
+family: [miljö, vänlig]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # miljövänlig — adjektiv
 
 📖 中文：环保的 · English: environmentally friendly
+
+🇸🇪 Förklaring: som inte skadar naturen eller klimatet särskilt mycket
+
+发音提示：/mɪlˈjøːˌvɛnlɪɡ/ — miljö 重音在 jö；-ig 的 g 常不发
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: miljö, vänlig
-- 同义词:
-- 反义词: miljöfarlig
+- 词族: [[miljö]], [[vänlig]]
+- 同义词: [[klimatsmart]] (气候友好的), [[grön]] (环保的)
+- 反义词: [[miljöfarlig]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

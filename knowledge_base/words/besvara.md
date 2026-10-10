@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "回复；答复（正式）"
 en: "to respond to, to answer (formal)"
 synonyms: [svara]
-antonyms: []
+antonyms: [fråga]
 family: [svar]
 topics: []
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # besvara — verb (grupp 1)
 
 📖 中文：回复；答复（正式） · English: to respond to, to answer (formal)
+
+🇸🇪 Förklaring: skriva eller säga något tillbaka till någon som har frågat eller skrivit
+
 发音提示：be-**sva**-ra，重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -56,7 +59,7 @@ interval: 0
 
 - 词族: [[svar]] (名词：回答、答复)
 - 同义词: [[svara]] (较口语)
-- 反义词: —
+- 反义词: [[fråga]] (提问)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

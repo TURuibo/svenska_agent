@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "医生"
 en: "doctor, physician"
-synonyms: ["doktor"]
+synonyms: [doktor]
 antonyms: []
-family: ["läka"]
+family: [läka]
 topics: ["topic-hälsa", "topic-yrken"]
 sentences:
   - sent-läkare-har-opererat-henne-och-gett
@@ -24,6 +24,9 @@ interval: 0
 # läkare — substantiv
 
 📖 中文：医生 · English: doctor, physician
+
+🇸🇪 Förklaring: person som har utbildning för att undersöka och behandla sjuka människor
+
 发音提示：/ˈlɛːˌkɑːrɛ/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[läka]] (愈合，治愈)
-- 同义词: doktor
+- 同义词: [[doktor]]
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

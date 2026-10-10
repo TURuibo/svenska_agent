@@ -23,6 +23,9 @@ interval: 0
 # äldrevård — substantiv (en)
 
 📖 中文：养老照护 · English: elderly care
+
+🇸🇪 Förklaring: vård och hjälp till gamla människor, i hemmet eller på ett boende
+
 发音提示：ÄLD-re-vård
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: äldre（年长的），vård（照护）
-- 同义词: äldreomsorg（养老照护，近义）
+- 词族: [[äldre]]（年长的）, [[vård]]（照护）
+- 同义词: [[äldreomsorg]]（养老照护，近义）
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

@@ -6,8 +6,8 @@ genus: ""
 cefr: B1
 zh: 陡峭的
 en: steep
-synonyms: []
-antonyms: []
+synonyms: [stupbrant]
+antonyms: [flack, plan]
 family: []
 topics: [topic-vader-och-arstider]
 sentences: []
@@ -22,6 +22,9 @@ interval: 0
 # brant — adjektiv
 
 📖 中文：陡峭的 · English: steep
+
+🇸🇪 Förklaring: som lutar mycket, nästan rakt upp och ner
+
 发音提示：/brant/
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: [[stupbrant]] (极陡的)
+- 反义词: [[flack]] (平缓的), [[plan]] (平坦的)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

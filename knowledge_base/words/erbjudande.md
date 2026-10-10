@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "邀约；提议；报价"
 en: "offer"
-synonyms: []
+synonyms: [anbud, extrapris]
 antonyms: []
 family: [erbjuda]
 topics: [topic-förskola-system]
@@ -23,6 +23,9 @@ interval: 0
 # erbjudande — substantiv (ett)
 
 📖 中文：邀约；提议；报价 · English: offer
+
+🇸🇪 Förklaring: 1) det att någon säger att man kan få något, till exempel ett jobb; 2) vara som säljs till ett lägre pris under en kort tid
+
 发音提示：er-**bjud**-an-de，重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[erbjuda]] (动词：提供、给予)
-- 同义词: —
+- 同义词: [[anbud]] (报价), [[extrapris]] (特价)
 - 反义词: —
 - 主题: [[topic-förskola-system]]
 

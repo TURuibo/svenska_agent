@@ -19,6 +19,10 @@ created: "2026-10-01"
 
 📖 中文：政治；政策 · English: politics; policy
 
+🇸🇪 Förklaring: frågor om hur ett land eller ett samhälle ska styras och de beslut som tas om det
+
+发音提示：/pʊlɪˈtiːk/ — 重音在最后音节 -tik
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: politiker, politisk
-- 同义词:
-- 反义词:
+- 词族: [[politiker]], [[politisk]]
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

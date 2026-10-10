@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "合适；适合；照看"
 en: "to suit; to fit; to watch over"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [lämpa-sig, fungera]
+antonyms: [missklä]
+family: [passera, passande]
 topics: [topic-fritid-och-resor, topic-social-kontakt]
 sentences: [sent-säg-till-om-det-passar]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # passa — verb (grupp 1)
 
 📖 中文：合适；适合；照看 · English: to suit; to fit; to watch over
+
+🇸🇪 Förklaring: 1) vara lagom stor eller lämplig för någon eller något; 2) ta hand om någon en kort tid, till exempel ett barn
+
 发音提示：["pasa]，清晰双s音
 
 ## 语法变形 (Forms)
@@ -55,7 +58,7 @@ interval: 0
 
 - 词族: [[passera]], [[passande]]
 - 同义词: [[lämpa-sig]], [[fungera]]
-- 反义词:
+- 反义词: [[missklä]] (不相配)
 - 主题: [[topic-social-kontakt]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

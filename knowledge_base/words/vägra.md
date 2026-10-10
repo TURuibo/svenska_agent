@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "拒绝"
 en: "to refuse"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [neka, säga-nej]
+antonyms: [gå-med-på, acceptera]
+family: [vägran, vapenvägrare]
 topics: []
 sentences: [sent-kriget-gjorde-att-allt-arbete]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # vägra — verb
 
 📖 中文：拒绝 · English: to refuse
-发音提示：
+
+🇸🇪 Förklaring: säga eller visa att man inte vill göra något
+
+发音提示：/ˈvɛːɡra/ — ä 读长音 ɛː；g 发硬音
 
 ## 语法变形 (Forms)
 
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[vägran]] (拒绝（名词）), [[vapenvägrare]] (拒服兵役者)
+- 同义词: [[neka]] (拒绝), [[säga-nej|säga nej]] (说不)
+- 反义词: [[gå-med-på|gå med på]] (同意), [[acceptera]] (接受)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

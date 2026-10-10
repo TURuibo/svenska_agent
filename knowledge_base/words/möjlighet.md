@@ -6,8 +6,8 @@ genus: "en"
 cefr: "A2"
 zh: "可能性，机会"
 en: "possibility, opportunity"
-synonyms: []
-antonyms: []
+synonyms: [chans, tillfälle]
+antonyms: [omöjlighet]
 family: [möjlig]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-det-fanns-även-åsikter-i-samhället]
@@ -22,7 +22,10 @@ interval: 0
 # möjlighet — substantiv
 
 📖 中文：可能性，机会 · English: possibility, opportunity
-发音提示：
+
+🇸🇪 Förklaring: chans eller tillfälle att göra något; något som kan hända
+
+发音提示：/ˈmøjlɪɡˌheːt/ — ö 读短音；-het 次重音
 
 ## 语法变形 (Forms)
 
@@ -47,8 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[möjlig]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[chans]] (机会), [[tillfälle]] (时机)
+- 反义词: [[omöjlighet]] (不可能)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

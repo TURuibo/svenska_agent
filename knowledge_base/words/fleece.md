@@ -9,7 +9,7 @@ zh: "抓绒衣"
 en: "fleece"
 synonyms: []
 antonyms: []
-family: []
+family: [fleecetröja, fleecebyxor]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # fleece — substantiv
 
 📖 中文：抓绒衣 · English: fleece
+
+🇸🇪 Förklaring: mjukt och varmt syntetiskt tyg, eller en tröja eller jacka av det tyget
+
 发音提示：/fliːs/ — 英语借词，按英语读，长 i
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: fleecetröja (抓绒上衣), fleecebyxor (抓绒裤)
+- 词族: [[fleecetröja]] (抓绒上衣), [[fleecebyxor]] (抓绒裤)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

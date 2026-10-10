@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "生活；活着；生存"
 en: "to live; to be alive"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [existera, bo]
+antonyms: [dö]
+family: [liv]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # leva — verb
 
 📖 中文：生活；活着；生存 · English: to live; to be alive
+
+🇸🇪 Förklaring: 1) inte vara död; 2) bo och tillbringa sin tid på ett visst sätt eller ställe
+
 发音提示：重音在第一音节：**LE-va**。`e` 常读长音。
 
 ## 语法变形 (Forms)
@@ -56,7 +59,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[liv]]
-- 同义词: []
+- 同义词: [[existera]] (存在), [[bo]] (居住)
 - 反义词: [[dö]]
 - 主题: []
 

@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: "A2"
 zh: "寻找，申请"
 en: "to seek, to apply for"
-synonyms: []
+synonyms: [leta]
 antonyms: []
-family: []
+family: [ansöka, ansökan, besöka]
 topics: []
 sentences: [sent-hon-fick-jobbet-och-gjorde-snabbt]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # söka — verb
 
 📖 中文：寻找，申请 · English: to seek, to apply for
-发音提示：
+
+🇸🇪 Förklaring: försöka hitta någon eller något; be om att få till exempel ett jobb eller en plats
+
+发音提示：/ˈsøːka/ — ö 读长音；k 在 a 前读硬音
 
 ## 语法变形 (Forms)
 
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[ansöka]] (申请), [[ansökan]] (申请书), [[besöka]] (拜访)
+- 同义词: [[leta]] (寻找)
 - 反义词: —
 - 主题: —
 

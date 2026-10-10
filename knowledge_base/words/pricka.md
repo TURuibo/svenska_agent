@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: B1
 zh: 打点；（pricka av）勾掉、核对
 en: to dot; (pricka av) to tick off
-synonyms: []
+synonyms: [bocka-av, markera]
 antonyms: []
 family: [prick]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # pricka — verb (grupp 1)
 
 📖 中文：打点；（pricka av）勾掉、核对 · English: to dot; (pricka av) to tick off
+
+🇸🇪 Förklaring: 1) sätta små punkter på något; 2) (med partikeln av) sätta ett märke vid något på en lista för att visa att det är klart
+
+发音提示：/ˈprɪkːa/ — i 短音，k 读长
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: prick (en, 点)
-- 同义词:
-- 反义词:
+- 词族: [[prick]] (en, 点)
+- 同义词: [[bocka-av|bocka av]] (打勾), [[markera]] (标记)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

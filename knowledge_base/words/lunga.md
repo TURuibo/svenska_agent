@@ -8,7 +8,7 @@ zh: 肺
 en: lung
 synonyms: []
 antonyms: []
-family: []
+family: [lunginflammation, lungcancer, lungsjukdom]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lunga — substantiv (en)
 
 📖 中文：肺 · English: lung
+
+🇸🇪 Förklaring: organ i bröstet som man andas med
+
 发音提示：/ˈlɵŋːa/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[lunginflammation]] (肺炎), [[lungcancer]] (肺癌), [[lungsjukdom]] (肺病)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "爱；爱情"
 en: "love"
-synonyms: []
-antonyms: ["hat"]
-family: ["älska", "kär", "kärestan"]
+synonyms: [förälskelse, tillgivenhet]
+antonyms: [hat]
+family: [älska, kär, kärestan]
 topics: ["topic-midsommar-traditioner", "topic-social-kontakt"]
 sentences: ["sent-kanske-drommar-hon-om-sin-framtida-karlek"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kärlek — substantiv
 
 📖 中文：爱；爱情 · English: love
+
+🇸🇪 Förklaring: stark känsla av ömhet och värme för någon eller något
+
 发音提示：[ˈçærleːk]，两音节，k- 在前元音前发 [ç]
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[älska]] · [[kär]]
-- 同义词:
+- 词族: [[älska]] · [[kär]], [[kär]], [[kärestan]]
+- 同义词: [[förälskelse]] (恋爱), [[tillgivenhet]] (爱慕；依恋)
 - 反义词: [[hat]]
 - 主题: [[topic-midsommar-traditioner]] · [[topic-social-kontakt]]
 

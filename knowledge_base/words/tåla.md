@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "受得了；耐受"
 en: "to tolerate; to stand"
-synonyms: []
+synonyms: [klara, stå-ut-med]
 antonyms: []
-family: []
+family: [tålamod, tålmodig]
 topics:
   - topic-mat-dryck
   - topic-hälsa
@@ -26,6 +26,9 @@ interval: 0
 # tåla — verb (grupp 2)
 
 📖 中文：受得了；耐受 · English: to tolerate; to stand
+
+🇸🇪 Förklaring: klara av något jobbigt utan att ta skada eller bli arg; kunna äta något utan att må dåligt
+
 发音提示：TÅ-la
 
 ## 语法变形 (Forms)
@@ -55,8 +58,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tålamod（耐心），tålmodig（有耐心的）
-- 同义词: klara (av)（应付，受得了），stå ut med（忍受）
+- 词族: [[tålamod]]（耐心）, [[tålmodig]]（有耐心的）
+- 同义词: [[klara]] (av)（应付，受得了）, [[stå-ut-med|stå ut med]]（忍受）
 - 反义词: —
 - 主题: [[topic-mat-dryck]] · [[topic-hälsa]]
 

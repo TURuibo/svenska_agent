@@ -8,7 +8,7 @@ cefr: "A2"
 zh: 改进；改善
 en: to improve; to make better
 synonyms: []
-antonyms: []
+antonyms: [försämra]
 family: [förbättring]
 topics: [topic-skola-och-utbildning]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # förbättra — verb (grupp 1)
 
 📖 中文：改进；改善 · English: to improve; to make better
+
+🇸🇪 Förklaring: göra något bättre än det var förut
+
 发音提示：för-BÄT-tra
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förbättring]] (en; improvement)
-- 同义词: [[förbättra]] → se även [[förbättring]]
+- 同义词: —
 - 反义词: [[försämra]] (att försämra = 使变差)
 - 主题: [[topic-skola-och-utbildning]]
 

@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "一样的；同样的"
 en: "the same, alike"
-synonyms: [samma]
+synonyms: [samma, lika]
 antonyms: [olik, annorlunda]
 family: [likadant, lik]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # likadan — adjektiv
 
 📖 中文：一样的；同样的 · English: the same, alike
+
+🇸🇪 Förklaring: som ser ut eller är på samma sätt som något annat
+
 发音提示：/ˈliːkaˌdɑːn/ — 重音在 **li-**，-dan 里的 a 读长音。
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[likadant]]（副词/中性）、[[lik]]（相像的）
-- 同义词: [[samma]]（同一个）、*lika*（相等的）
-- 反义词: [[olik]]、[[annorlunda]]
+- 词族: [[likadant]]（副词/中性）, [[lik]]（相像的）
+- 同义词: [[samma]]（同一个）, [[lika]]（相等的）
+- 反义词: [[olik]], [[annorlunda]]
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

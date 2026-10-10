@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "日常的"
 en: "everyday"
-synonyms: []
-antonyms: []
-family: ["vardag"]
+synonyms: [alldaglig, vanlig]
+antonyms: [ovanlig, högtidlig]
+family: [vardag]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # vardaglig — adjektiv
 
 📖 中文：日常的 · English: everyday
+
+🇸🇪 Förklaring: som hör till det vanliga livet och inte är speciell
+
 发音提示：var-DAG-lig
 
 ## 语法变形 (Forms)
@@ -38,6 +41,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vardag]]（日常/工作日，名词）
+- 同义词: [[alldaglig]] (平常的), [[vanlig]] (普通的)
+- 反义词: [[ovanlig]] (不寻常的), [[högtidlig]] (隆重的)
 
 ## 用法提示 (Usage Notes)
 

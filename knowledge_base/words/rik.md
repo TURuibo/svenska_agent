@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "富有的"
 en: "rich"
-synonyms: []
-antonyms: ["fattig"]
-family: ["rikedom"]
+synonyms: [förmögen, välbärgad]
+antonyms: [fattig]
+family: [rikedom]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # rik — adjektiv
 
 📖 中文：富有的 · English: rich
+
+🇸🇪 Förklaring: som har mycket pengar eller mycket av något
+
 发音提示：/riːk/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rikedom]]
+- 同义词: [[förmögen]] (富有的), [[välbärgad]] (富裕的)
 - 反义词: [[fattig]]
 - 主题: [[topic-personer]]
 

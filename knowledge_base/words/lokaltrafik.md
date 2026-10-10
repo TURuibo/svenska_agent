@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "本地公共交通"
 en: "local public transport"
 synonyms: [kollektivtrafik]
-antonyms: []
+antonyms: [fjärrtrafik]
 family: [lokal, trafik]
 topics: [topic-val-demokrati]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # lokaltrafik — substantiv (en)
 
 📖 中文：本地公共交通 · English: local public transport
+
+🇸🇪 Förklaring: bussar, tåg och spårvagnar som går inom en stad eller ett län
+
 发音提示：lo-KAL-tra-fik
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: lokal（本地的），trafik（交通）
+- 词族: [[lokal]]（本地的）, [[trafik]]（交通）
 - 同义词: [[kollektivtrafik]]（公共交通，更通用）
+- 反义词: [[fjärrtrafik]] (长途交通)
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

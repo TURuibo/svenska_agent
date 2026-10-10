@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 公司；商号
 en: company, firm
-synonyms: []
+synonyms: [bolag]
 antonyms: []
 family: [företag]
 topics: [topic-grannar-boende]
@@ -18,6 +18,10 @@ created: "2026-10-09"
 # firma — substantiv
 
 📖 中文：公司；商号 · English: company, firm
+
+🇸🇪 Förklaring: företag som säljer varor eller tjänster, ofta ett mindre företag
+
+发音提示：/ˈfɪrːma/ — i 读短音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,8 @@ created: "2026-10-09"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[företag]]
+- 同义词: [[bolag]] (公司)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ett
 cefr: "A2"
 zh: "宫殿，城堡"
 en: "castle, palace"
-synonyms: ["borg"]
+synonyms: [borg]
 antonyms: []
-family: []
+family: [kungaslott, slottspark, sandslott]
 topics: ["topic-stockholm"]
 sentences:
   - sent-kungliga-slottet-ligger-i-gamla-stan
@@ -24,6 +24,9 @@ interval: 0
 # slott — substantiv
 
 📖 中文：宫殿，城堡 · English: castle, palace
+
+🇸🇪 Förklaring: stort och fint hus där en kung, en drottning eller en adlig familj bor eller har bott
+
 发音提示：slott（短促的 o 音）
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: `borg` (城堡/堡垒，更偏防御性)
+- 词族: [[kungaslott]] (王宫), [[slottspark]] (宫殿花园), [[sandslott]] (沙堡)
+- 同义词: [[borg]] (城堡/堡垒，更偏防御性)
+- 反义词: —
 - 主题: [[topic-stockholm]]
 
 ## 用法提示 (Usage Notes)

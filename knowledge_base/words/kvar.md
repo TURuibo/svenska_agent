@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "留下；剩下；仍然在原处"
 en: "left; remaining; still there"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [över]
+antonyms: [borta]
+family: [kvarstå, kvarleva, kvarglömd]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kvar — adverb
 
 📖 中文：留下；剩下；仍然在原处 · English: left; remaining; still there
+
+🇸🇪 Förklaring: används om något som fortfarande finns eller stannar på samma ställe när resten är borta
+
 发音提示：单音节词，读作 **kvar**，`a` 较长。
 
 ## 语法变形 (Forms)
@@ -54,9 +57,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[kvarstå]] (依然存在), [[kvarleva]] (残留物), [[kvarglömd]] (被遗忘的)
+- 同义词: [[över]] (剩下)
+- 反义词: [[borta]] (不见了)
 - 主题: []
 
 ## 用法提示 (Usage Notes)

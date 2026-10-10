@@ -8,7 +8,7 @@ zh: "酸面团；酸面包发酵种"
 en: "sourdough starter"
 synonyms: []
 antonyms: []
-family: ["deg", "surdegsbröd"]
+family: [deg, surdegsbröd]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # surdeg — substantiv (en)
 
 📖 中文：酸面团；酸面包发酵种 · English: sourdough starter
+
+🇸🇪 Förklaring: blandning av mjöl och vatten som får jäsa länge och används för att baka bröd
+
 发音提示：SUUR-DEH-g（两音节，重音在 sur）
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[deg]] · [[surdegsbröd]]
+- 词族: [[deg]] · [[surdegsbröd]], [[surdegsbröd]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

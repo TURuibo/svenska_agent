@@ -6,8 +6,8 @@ cefr: B1
 zh: 认真的、严肃的、正规的
 en: serious
 synonyms: [allvarlig]
-antonyms: []
-family: []
+antonyms: [oseriös]
+family: [seriositet]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # seriös — adjektiv
 
 📖 中文：认真的、严肃的、正规的 · English: serious
+
+🇸🇪 Förklaring: som är ärlig och pålitlig och tar sina uppgifter på allvar
+
 发音提示：/seriˈøːs/；se-ri-ÖS，重音落在最后一个音节，`ö` 读长音。
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: seriositet（名词：严肃性，可信度）
+- 词族: [[seriositet]]（名词：严肃性，可信度）
 - 同义词: [[allvarlig]]（严肃的/严重的）
-- 反义词: oseriös（不正规的、不认真的）
+- 反义词: [[oseriös]]（不正规的、不认真的）
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "坐；固定；贴附"
 en: "to sit; to be fixed"
-synonyms: []
+synonyms: [hänga]
 antonyms: [stå, ligga]
 family: [sätta, sittplats, sittning]
 topics: [topic-rumsliga-relationer, topic-stadsmiljo]
@@ -26,6 +26,9 @@ interval: 0
 # sitta — verb (grupp 4 / stark verb)
 
 📖 中文：坐；固定；贴附 · English: to sit; to be fixed (in place)
+
+🇸🇪 Förklaring: 1) ha kroppens tyngd på baken, t.ex. på en stol; 2) vara fast eller placerad på ett visst ställe
+
 发音提示：SIT-ta；två stavelser.
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sätta]] (动词，"放置/坐下"，动态), [[sittplats]] (座位)
+- 词族: [[sätta]] (动词，"放置/坐下"，动态), [[sittplats]] (座位), [[sittning]]
 - 同义词: [[hänga]] (某些墙上物体可互换，但语感不同)
 - 反义词: [[stå]] (站立), [[ligga]] (躺/平放)
 - 主题: [[topic-rumsliga-relationer]]

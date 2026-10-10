@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "月薪"
 en: "monthly salary"
-synonyms: ["lön"]
+synonyms: [lön]
 antonyms: []
-family: ["lön", "timlön"]
+family: [lön, timlön]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # månadslön — substantiv (en-ord)
 
 📖 中文：月薪 · English: monthly salary
+
+🇸🇪 Förklaring: pengar som man får för sitt arbete en gång varje månad, med en fast summa
+
 发音提示：MÅ-nads-lön
 
 ## 语法变形 (Forms)

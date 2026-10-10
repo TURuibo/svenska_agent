@@ -9,7 +9,7 @@ zh: 成功、做成（某事）
 en: to succeed, manage (to do)
 synonyms: [klara]
 antonyms: [misslyckas]
-family: [lycka, lyckad, misslyckas]
+family: [lycka, misslyckas, lyckad]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # lyckas — verb (deponens)
 
 📖 中文：成功、做成（某事） · English: to succeed, manage
+
+🇸🇪 Förklaring: klara av att göra det som man har försökt eller velat
+
 发音提示：/ˈlʏkːas/
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ deponens 动词：形式上带 -s，意思却是主动的（"成功"，不是"�
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lycka]]（幸福、运气）、misslyckas（失败）
+- 词族: [[lycka]]（幸福、运气）, [[misslyckas]]（失败）, [[lyckad]]
 - 同义词: [[klara]]（klara det = 做到）
-- 反义词: misslyckas
+- 反义词: [[misslyckas]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "失踪；缺少；被想念"
 en: "to be missing; to be lacking; to be missed"
-synonyms: []
-antonyms: []
-family: ["sakna"]
+synonyms: [fattas, vara-borta]
+antonyms: [finnas]
+family: [sakna]
 topics: []
 sentences:
   - sent-over-50-tusen-manniskor-saknas-fortfarande
@@ -25,6 +25,9 @@ interval: 0
 # saknas — verb (deponensverb)
 
 📖 中文：失踪；缺少；被想念 · English: to be missing; to be lacking; to be missed
+
+🇸🇪 Förklaring: 1) inte finnas där det borde finnas; 2) vara försvunnen; 3) bli tänkt på med längtan när man är borta
+
 发音提示：["saknas"] — 重音在第一音节，-kn- 连读
 
 ## 语法变形 (Forms)
@@ -62,6 +65,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sakna]] (主动形式，"思念")
+- 同义词: [[fattas]] (缺少), [[vara-borta|vara borta]] (不在)
+- 反义词: [[finnas]] (存在)
 - 主题: [[source-2026-06-29-nyheter-8sidor]]
 
 ## 用法提示 (Usage Notes)

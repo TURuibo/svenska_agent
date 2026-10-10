@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "赔偿"
 en: "compensation"
-synonyms: []
+synonyms: [kompensation, gottgörelse]
 antonyms: []
 family: [ersätta]
 topics: []
@@ -23,6 +23,9 @@ interval: 0
 # ersättning — substantiv (en)
 
 📖 中文：赔偿 · English: compensation
+
+🇸🇪 Förklaring: pengar som man får för en skada, en förlust eller ett arbete
+
 发音提示：er-SÄT-ning
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ersätta]]（赔偿/替代，动词，尚无笔记）
-- 同义词: —
+- 同义词: [[kompensation]] (补偿), [[gottgörelse]] (赔偿)
 - 反义词: —
 - 主题: —
 

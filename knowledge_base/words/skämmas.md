@@ -8,8 +8,9 @@ zh: "感到羞愧；惭愧"
 en: "to feel ashamed; to be embarrassed"
 cefr: "B1"
 known: false
-synonyms: ["vara generad", "blygas"]
-antonyms: []
+synonyms: [vara-generad, blygas]
+antonyms: [vara-stolt]
+family: [skam, skamsen, skämmig]
 topics: ["topic-kanslor-och-psykologi"]
 phrases: []
 sentences: ["sent-jag-skamdes"]
@@ -27,6 +28,10 @@ interval: 0
 **中文:** 感到羞愧；惭愧
 **English:** to feel ashamed; to be embarrassed
 **CEFR:** B1
+
+🇸🇪 Förklaring: känna sig dålig och generad över något som man själv eller någon annan har gjort
+
+发音提示：/ˈɧɛmːas/ — skä 读 ɧɛ；ä 短，m 读长
 
 ## 变形 (Forms)
 
@@ -71,3 +76,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-kronika-ny-i-nytt-land]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[skam]] (羞耻), [[skamsen]] (羞愧的), [[skämmig]] (丢脸的（口语）)
+- 同义词: [[vara-generad]], [[blygas]]
+- 反义词: [[vara-stolt|vara stolt]] (感到骄傲)

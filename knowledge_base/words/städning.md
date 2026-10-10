@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "打扫"
 en: "cleaning"
-synonyms: []
+synonyms: [rengöring]
 antonyms: []
-family: ["städa"]
+family: [städa]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # städning — substantiv (en)
 
 📖 中文：打扫 · English: cleaning
+
+🇸🇪 Förklaring: det att man gör rent och ställer i ordning, t.ex. i ett hem eller på ett kontor
+
 发音提示：STÄD-ning
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[städa]]（打扫，动词）
+- 同义词: [[rengöring]] (清洁)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

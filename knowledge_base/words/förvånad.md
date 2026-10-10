@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 惊讶的
 en: surprised
-synonyms: []
-antonyms: []
-family: []
+synonyms: [skeptisk]
+antonyms: [oberörd]
+family: [förvåna, förvåning, förvånansvärd]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # förvånad — adjektiv
 
 📖 中文：惊讶的 · English: surprised
+
+🇸🇪 Förklaring: som känner sig överraskad av något som man inte hade väntat sig
+
 发音提示：/fœrˈvoːnad/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[förvåna]] (使惊讶), [[förvåning]] (惊讶), [[förvånansvärd]] (惊人的)
 - 同义词: [[skeptisk]]
-- 反义词:
+- 反义词: [[oberörd]] (无动于衷的)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

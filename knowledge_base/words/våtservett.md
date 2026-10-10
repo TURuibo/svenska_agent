@@ -19,6 +19,9 @@ created: "2026-09-26"
 # våtservett — substantiv
 
 📖 中文：湿巾 · English: wet wipe
+
+🇸🇪 Förklaring: liten fuktig duk av papper eller tyg som man torkar händer eller ansikte med
+
 发音提示：[ˈvoːtˌsɛrˌvɛt] 重音在 våt-；复数 våtservetter 是日常最常听到的形式。
 
 ## 语法变形 (Forms)

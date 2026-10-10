@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "围巾"
 en: "scarf"
-synonyms: []
+synonyms: [sjal, scarf]
 antonyms: []
-family: []
+family: [hals]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # halsduk — substantiv (en-ord)
 
 📖 中文：围巾 · English: scarf
+
+🇸🇪 Förklaring: långt tygstycke som man lindar runt halsen för att hålla värmen
+
 发音提示：/ˈhalsˌduːk/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hals]] (颈部) + [[tyg]] (布料/面料)
+- 同义词: [[sjal]] (披肩), [[scarf]] (围巾)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

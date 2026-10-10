@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "世界"
 en: "world"
-synonyms: []
+synonyms: [jordklot]
 antonyms: []
-family: ["världskrig"]
+family: [världskrig]
 topics: ["topic-historia"]
 sentences: ["sent-vad-hände-ute-i-europa"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # värld — substantiv
 
 📖 中文：世界 · English: world
+
+🇸🇪 Förklaring: jorden och allt som finns på den; alla människor och länder
+
 发音提示："VÄRLD"
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[världskrig]]
-- 同义词: —
+- 同义词: [[jordklot]] (地球)
 - 反义词: —
 - 主题: [[topic-historia]]
 

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "通勤时间；路上时间"
 en: "travel time"
-synonyms: []
+synonyms: [färdtid, pendlingstid]
 antonyms: []
 family: [resa]
 topics: [topic-förskola-system, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # restid — substantiv (en)
 
 📖 中文：通勤时间；路上花的时间 · English: travel time
+
+🇸🇪 Förklaring: den tid det tar att ta sig från en plats till en annan
+
 发音提示：[ˈreːsˌtiːd]，resa + tid（长 e）。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[resa]]
+- 同义词: [[färdtid]] (路程时间), [[pendlingstid]] (通勤时间)
+- 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: "家庭"
 en: "family"
 synonyms: []
 antonyms: []
-family: ["förälder", "syskon"]
+family: [förälder, syskon]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # familj — substantiv (en)
 
 📖 中文：家庭 · English: family
+
+🇸🇪 Förklaring: föräldrar och deras barn, ofta de som bor tillsammans; ibland också andra släktingar
+
 发音提示：/faˈmɪlj/
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förälder]], [[syskon]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

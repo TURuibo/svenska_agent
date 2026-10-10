@@ -24,6 +24,9 @@ interval: 0
 # krukväxt — substantiv (en)
 
 📖 中文：盆栽植物 · English: potted plant; houseplant
+
+🇸🇪 Förklaring: planta som man odlar i ett kärl med jord, oftast inomhus
+
 发音提示：KRUK-växt；två stavelser.
 
 ## 语法变形 (Forms)

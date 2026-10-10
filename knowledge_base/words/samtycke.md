@@ -8,8 +8,8 @@ cefr: "B1"
 zh: "同意书；同意"
 en: "consent"
 synonyms: [tillstånd]
-antonyms: []
-family: []
+antonyms: [avslag, vägran]
+family: [samtycka]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-ni-skriver-också-på-ett-samtycke]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # samtycke — substantiv (ett)
 
 📖 中文：同意书；同意 · English: consent
+
+🇸🇪 Förklaring: det att man säger ja till något och ger sin tillåtelse
+
 发音提示：[ˈsamˌtʏkːɛ]，sam-（共同）+ tycke（意见），重音在 sam-。
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: samtycka（动词：同意）· tycka
+- 词族: [[samtycka]]（动词：同意）· tycka
 - 同义词: [[tillstånd]]（许可）· godkännande（批准）
-- 反义词: —
+- 反义词: [[avslag]] (拒绝), [[vägran]] (拒绝)
 - 主题: [[topic-förskola-system]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

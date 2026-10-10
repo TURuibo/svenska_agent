@@ -6,8 +6,8 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "发展，开发"
 en: "to develop"
-synonyms: []
-antonyms: []
+synonyms: [förbättra, utvidga]
+antonyms: [avveckla]
 family: [utveckling]
 topics: []
 sentences: [sent-det-fanns-även-åsikter-i-samhället]
@@ -22,7 +22,10 @@ interval: 0
 # utveckla — verb
 
 📖 中文：发展，开发 · English: to develop
-发音提示：
+
+🇸🇪 Förklaring: göra något större, bättre eller mer avancerat; ta fram något nytt
+
+发音提示：/ˈʉːtˌvɛkla/ — 重音在 ut；e 读短音 ɛ
 
 ## 语法变形 (Forms)
 
@@ -46,8 +49,8 @@ Perfekt particip (adjektiviskt): utvecklad / utvecklat / utvecklade — se [[gra
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[utveckling]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[förbättra]] (改进), [[utvidga]] (扩展)
+- 反义词: [[avveckla]] (撤销；解散)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

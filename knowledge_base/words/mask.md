@@ -23,6 +23,9 @@ interval: 0
 # mask — substantiv (en)
 
 📖 中文：蚯蚓；面具 · English: worm; mask
+
+🇸🇪 Förklaring: 1) litet, långt och mjukt djur utan ben som lever i jorden; 2) något man har för ansiktet för att dölja eller skydda det
+
 发音提示：MASK，单音节。
 
 ## 语法变形 (Forms)

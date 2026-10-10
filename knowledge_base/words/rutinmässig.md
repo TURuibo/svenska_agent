@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: "B2"
 zh: "例行的；常规的"
 en: "routine; perfunctory"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [regelmässig, mekanisk]
+antonyms: [extraordinär]
+family: [rutin, rutinerad]
 topics: ["topic-arbete"]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # rutinmässig — adjektiv
 
 📖 中文：例行的；常规的 · English: routine; perfunctory
+
+🇸🇪 Förklaring: som görs regelbundet och på vanligt sätt, ofta utan att man tänker så mycket
+
 发音提示：ru-TIN-mes-ig（重音在 tin）
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[rutin]] (惯例), [[rutinerad]] (有经验的)
+- 同义词: [[regelmässig]] (惯常的), [[mekanisk]] (机械的)
+- 反义词: [[extraordinär]] (特别的)
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

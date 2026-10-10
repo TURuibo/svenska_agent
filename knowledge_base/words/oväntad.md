@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "意外的；出乎意料的"
 en: "unexpected"
-synonyms: []
-antonyms: []
+synonyms: [överraskande]
+antonyms: [väntad, planerad]
 family: [vänta, väntan]
 topics:
   - topic-vardagsrutin
@@ -25,6 +25,9 @@ interval: 0
 # oväntad — adjektiv
 
 📖 中文：意外的；出乎意料的 · English: unexpected
+
+🇸🇪 Förklaring: som man inte trodde skulle hända
+
 发音提示：o-VÄN-tad；重音在第二音节。
 
 ## 语法变形 (Forms)

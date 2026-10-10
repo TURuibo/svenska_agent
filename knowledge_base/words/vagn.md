@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 车厢；马车
 en: carriage, wagon
-synonyms: []
+synonyms: [kärra]
 antonyms: []
-family: ["tåg", "spår"]
+family: [tåg, spår]
 topics: ["topic-trafik"]
 sentences:
   - sent-tva-vagnar-lamnade-sparet-och-foll
@@ -23,6 +23,9 @@ interval: 0
 # vagn — substantiv (en)
 
 📖 中文：车厢；马车 · English: carriage, wagon
+
+🇸🇪 Förklaring: fordon med hjul som dras av en häst eller går på räls, till exempel en del av ett tåg
+
 发音提示：VANG-n（短促 a）
 
 ## 语法变形 (Forms)
@@ -53,6 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tåg]], [[spår]]
+- 同义词: [[kärra]] (推车；车)
+- 反义词: —
 - 主题: [[topic-trafik]]
 
 ## 用法提示 (Usage Notes)

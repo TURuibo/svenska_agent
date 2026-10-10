@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "黄昏；暮色"
 en: "dusk; twilight"
-synonyms: []
-antonyms: ["gryning"]
-family: []
+synonyms: [kvällning]
+antonyms: [gryning]
+family: [skymma]
 topics: ["topic-natur-skog", "topic-tid-och-tidsuttryck"]
 sentences: ["sent-algen-ar-mest-aktiv-i-gryningen"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # skymning — substantiv
 
 📖 中文：黄昏；暮色 · English: dusk; twilight
+
+🇸🇪 Förklaring: tiden på kvällen när solen har gått ner och det börjar bli mörkt
+
 发音提示：["ʃymː-ning"]
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[skymma]] (遮挡；天色变暗)
+- 同义词: [[kvällning]] (傍晚)
 - 反义词: [[gryning]]（黎明）
 - 主题: [[topic-natur-skog]], [[topic-tid-och-tidsuttryck]]
 

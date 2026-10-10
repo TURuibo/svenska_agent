@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 空闲的；空着的
 en: free; vacant; available
-synonyms: []
-antonyms: []
-family: []
+synonyms: [fri, lös]
+antonyms: [upptagen]
+family: [ledighet, föräldraledig, tjänstledig]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # ledig — adjektiv
 
 📖 中文：空闲的；空着的 · English: free; vacant; available
+
+🇸🇪 Förklaring: 1) som inte arbetar och har fritid; 2) som inte används av någon, t.ex. en plats eller ett jobb
+
 发音提示：LEH-dig
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: fri (自由的；空闲的), lös (松散的)
-- 反义词: upptagen (占用的；忙碌的)
+- 词族: [[ledighet]] (休假), [[föräldraledig]] (休育儿假的), [[tjänstledig]] (停薪留职的)
+- 同义词: [[fri]] (自由的；空闲的), [[lös]] (松散的)
+- 反义词: [[upptagen]] (占用的；忙碌的)
 
 ## 用法提示 (Usage Notes)
 

@@ -23,6 +23,9 @@ interval: 0
 # nationaldag — substantiv (en)
 
 📖 中文：国庆日 · English: national day
+
+🇸🇪 Förklaring: dag då ett land firar sig självt och sin historia; i Sverige den 6 juni
+
 发音提示：na-tio-nal-DAG，四音节，重音在最后。
 
 ## 语法变形 (Forms)

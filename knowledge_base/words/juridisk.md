@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "法律的"
 en: "legal"
-synonyms: []
+synonyms: [rättslig]
 antonyms: []
-family: []
+family: [juridik, jurist]
 topics: ["topic-rattsvasen"]
 sentences: ["sent-namndemannen-har-ingen-juridisk-utbildning-utan"]
 known: false
@@ -17,7 +17,10 @@ created: "2026-09-22"
 # juridisk — adjektiv
 
 📖 中文：法律的 · English: legal
-发音提示：
+
+🇸🇪 Förklaring: som har med lagar och rättsväsendet att göra
+
+发音提示：/jʉˈriːdɪsk/ — 重音在 ri；u 读 ʉ
 
 ## 语法变形 (Forms)
 
@@ -33,9 +36,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[juridik]] (法学), [[jurist]] (法律工作者)
+- 同义词: [[rättslig]] (法律上的)
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ett
 cefr: "B1"
 zh: "平均（值）"
 en: "average"
-synonyms: []
+synonyms: [medelvärde, medeltal]
 antonyms: []
-family: []
+family: [genomsnittlig, snitt]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # genomsnitt — substantiv (ett)
 
 📖 中文：平均（值） · English: average
+
+🇸🇪 Förklaring: det värde man får om man lägger ihop flera tal och delar summan med antalet tal
+
 发音提示：ge-NOM-snitt
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[genomsnittlig]] (平均的), [[snitt]] (平均（口语）)
+- 同义词: [[medelvärde]] (平均值), [[medeltal]] (平均数)
+- 反义词: —
 - 主题: （无）
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "学校"
 en: "school"
-synonyms: []
+synonyms: [läroanstalt]
 antonyms: []
-family: []
+family: [skolavslutning, grundskola, gymnasieskola]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # skola — substantiv (en-ord)
 
 📖 中文：学校 · English: school
+
+🇸🇪 Förklaring: plats eller institution där barn och unga får undervisning och lär sig saker
+
 发音提示：SKO-la
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skolavslutning]], [[grundskola]], [[gymnasieskola]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[läroanstalt]] (教育机构)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

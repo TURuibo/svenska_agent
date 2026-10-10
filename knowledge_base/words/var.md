@@ -9,7 +9,7 @@ zh: "哪里 (疑问副词) / 是，在 (vara 的过去式，同形词)"
 en: "where / was (preteritum of vara, homonym)"
 synonyms: []
 antonyms: []
-family: []
+family: [varifrån, vart, var-som-helst]
 topics: []
 sentences: ["sent-var-fick-hon-arbete", "sent-vem-var-elin-wägner", "sent-varför-var-det-nästan-bara"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # var — adverb (frågeord)
 
 📖 中文：哪里 · English: where
+
+🇸🇪 Förklaring: frågeord som används för att fråga på vilken plats något finns; preteritumform av verbet vara
+
 发音提示："VAAR"（与 vara 的过去式 "var" 拼写完全相同，是同形词/homonym）
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[varifrån]] (从哪里), [[vart]] (往哪里), [[var-som-helst|var som helst]] (任何地方)
 - 同义词: —
 - 反义词: —
 - 主题: —

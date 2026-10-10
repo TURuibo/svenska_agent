@@ -8,8 +8,8 @@ cefr: "A1"
 zh: "画（线条画）"
 en: "to draw"
 synonyms: [måla, teckna]
-antonyms: []
-family: []
+antonyms: [sudda]
+family: [ritning, ritblock, ritare]
 topics: [topic-förskola-vardag]
 sentences: [sent-vi-bygger-med-klossar-lägger-pussel]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # rita — verb (grupp 1)
 
 📖 中文：画（线条画） · English: to draw
+
+🇸🇪 Förklaring: göra en bild med linjer, till exempel med en penna
+
 发音提示：/ˈriːta/ — i 长，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: [[måla]]（用颜料涂/画）· [[teckna]]（素描，也指打手语）
+- 词族: [[ritning]] (图纸), [[ritblock]] (画本), [[ritare]] (制图员)
+- 同义词: [[måla]]（用颜料涂/画）· [[teckna]]（素描，也指打手语）, [[teckna]]
+- 反义词: [[sudda]] (擦掉)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

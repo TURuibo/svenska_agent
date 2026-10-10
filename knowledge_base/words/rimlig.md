@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "合理的；适度的"
 en: "reasonable; fair"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [skälig]
+antonyms: [orimlig]
+family: [rimligen, rimligtvis, orimlig]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga, sent-vad-som-är-rimligt-beror-på-olika, sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # rimlig — adjektiv
 
 📖 中文：合理的；适度的 · English: reasonable; fair
+
+🇸🇪 Förklaring: som verkar förnuftig och lagom; som man kan acceptera
+
 发音提示：RIM-lig，重音在第一音节 `rim`；词尾 `-lig` 读 [lɪg]。
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `rimligen`、`rimligtvis`、`orimlig`
-- 同义词: —（近义 `skälig`（法律用语）、`vettig`（口语））
-- 反义词: `orimlig`（不合理的）
+- 词族: [[rimligen]], [[rimligtvis]], [[orimlig]]
+- 同义词: —（近义 [[skälig]]（法律用语）、[[vettig]]（口语））
+- 反义词: [[orimlig]]（不合理的）
 - 主题: [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

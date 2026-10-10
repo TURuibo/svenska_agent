@@ -24,6 +24,9 @@ interval: 0
 # glas — substantiv (ett)
 
 📖 中文：杯子；玻璃杯 · English: glass
+
+🇸🇪 Förklaring: kärl utan handtag som man dricker ur, gjort av ett hårt och genomskinligt material
+
 发音提示：glas（单音节）；lång a.
 
 ## 语法变形 (Forms)

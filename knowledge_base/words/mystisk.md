@@ -7,8 +7,8 @@ genus: ""
 cefr: B1
 zh: 神秘的
 en: mysterious
-synonyms: []
-antonyms: []
+synonyms: [gåtfull, hemlighetsfull]
+antonyms: [begriplig]
 family: [mystik, mysterium, mystiskt]
 topics: [topic-litteratur-och-kultur]
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # mystisk — adjektiv
 
 📖 中文：神秘的 · English: mysterious
+
+🇸🇪 Förklaring: som är svår att förklara eller förstå och som väcker nyfikenhet
+
 发音提示：/ˈmʏstɪsk/
 
 ## 语法变形 (Forms)
@@ -53,7 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *mystik* (en, 神秘主义/神秘), *mysterium* (ett, 谜/奥秘)
+- 词族: [[mystik]] (en, 神秘主义/神秘), [[mysterium]] (ett, 谜/奥秘), [[mystiskt]]
+- 同义词: [[gåtfull]] (谜一般的), [[hemlighetsfull]] (神秘的)
+- 反义词: [[begriplig]] (可理解的)
 - 主题: [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "仔细地；认真地"
 en: "carefully; thoroughly"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [omsorgsfullt, grundligt]
+antonyms: [slarvigt]
+family: [noggrann, noggrannhet, noggrant]
 topics: [topic-förskola-vardag]
 sentences: [sent-kamma-håret-noga-i-helgen]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # noga — adverb
 
 📖 中文：仔细地；认真地 · English: carefully; thoroughly
+
+🇸🇪 Förklaring: med stor omsorg och uppmärksamhet på detaljer
+
 发音提示：/ˈnuːɡa/；o 读 /uː/。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[noggrann]] (仔细的), [[noggrannhet]] (仔细), [[noggrant]] (仔细地)
+- 同义词: [[omsorgsfullt]] (细心地), [[grundligt]] (彻底地)
+- 反义词: [[slarvigt]] (马虎地)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

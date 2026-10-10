@@ -8,7 +8,7 @@ zh: "暴力犯罪"
 en: "violent crime"
 synonyms: []
 antonyms: []
-family: []
+family: [våld, brott, brottsling, våldsam]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # våldsbrott — substantiv
 
 📖 中文：暴力犯罪 · English: violent crime
-发音提示：
+
+🇸🇪 Förklaring: brott där någon använder våld mot en annan person, till exempel misshandel
+
+发音提示：/ˈvɔldsˌbrɔtː/ — å 读短音 ɔ；重音在 vålds
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[våld]] (暴力), [[brott]] (犯罪), [[brottsling]] (罪犯), [[våldsam]] (暴力的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "歧视"
 en: "discrimination"
-synonyms: []
-antonyms: []
+synonyms: [särbehandling]
+antonyms: [likabehandling, jämlikhet]
 family: [diskriminera]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-alla-som-bor-här-har-rätt-till-samma-säkerhet, sent-den-som-blir-diskriminerad-kan-anmäla]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # diskriminering — substantiv
 
 📖 中文：歧视 · English: discrimination
+
+🇸🇪 Förklaring: när man behandlar en person eller en grupp sämre än andra, till exempel på grund av kön, hudfärg eller religion
+
+发音提示：/dɪskrɪmɪˈneːrɪŋ/ — 重音在 ne；e 读长音
 
 ## 语法变形 (Forms)
 
@@ -40,7 +44,8 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[diskriminera]]
-- 反义词: —
+- 同义词: [[särbehandling]] (区别对待)
+- 反义词: [[likabehandling]] (平等对待), [[jämlikhet]] (平等)
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]
 

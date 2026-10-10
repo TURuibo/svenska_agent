@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "先生"
 en: "gentleman"
-synonyms: []
-antonyms: ["dam"]
-family: []
+synonyms: [gentleman, man]
+antonyms: [dam]
+family: [herrkläder, herrtoalett, herrgård]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # herre — substantiv (en)
 
 📖 中文：先生 · English: gentleman
+
+🇸🇪 Förklaring: artig och formell benämning på en vuxen man
+
 发音提示：/ˈhɛrə/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[herrkläder]] (男装), [[herrtoalett]] (男厕所), [[herrgård]] (庄园)
+- 同义词: [[gentleman]] (绅士), [[man]] (男人)
 - 反义词: [[dam]]
 - 主题: [[topic-personer]]
 

@@ -8,7 +8,7 @@ zh: 额头
 en: forehead
 synonyms: []
 antonyms: []
-family: []
+family: [kind, haka]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # panna — substantiv (en)
 
 📖 中文：额头 · English: forehead
+
+🇸🇪 Förklaring: den övre delen av ansiktet mellan ögonbrynen och håret
+
 发音提示：/ˈpanːa/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kind]], [[haka]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

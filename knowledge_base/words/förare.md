@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "驾驶者；司机；骑行者；操作员"
 en: "driver; rider; operator"
-synonyms: []
-antonyms: []
-family: [föra, bilförare]
+synonyms: [chaufför, ratt]
+antonyms: [passagerare]
+family: [föra, bilförare, förarbevis]
 topics: [topic-trafik-säkerhet]
 sentences: [sent-polisen-råder-förarna-att-använda-hjälm]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # förare — substantiv (en)
 
 📖 中文：驾驶者；司机；骑行者；操作员 · English: driver; rider; operator
+
+🇸🇪 Förklaring: person som kör ett fordon, till exempel en bil, en motorcykel eller en maskin
+
 发音提示：FÖ-ra-re，重音在第一音节，`ö` 读 [øː]。
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `föra`（驾驶；带）、`bilförare`、`förarbevis`
-- 同义词: 近义 `chaufför`（职业司机）、`ratt`（口语里 "bakom ratten" = 开车的人）
-- 反义词: `passagerare`（乘客）
+- 词族: [[föra]]（驾驶；带）, [[bilförare]], [[förarbevis]]
+- 同义词: 近义 [[chaufför]]（职业司机）, [[ratt]]（口语里 "bakom ratten" = 开车的人）
+- 反义词: [[passagerare]]（乘客）
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "惊恐的"
 en: "frightened"
-synonyms: ["rädd"]
-antonyms: []
-family: ["skräck", "förskräcka"]
+synonyms: [rädd]
+antonyms: [lugn]
+family: [skräck, förskräcka]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # förskräckt — adjektiv
 
 📖 中文：惊恐的 · English: frightened
+
+🇸🇪 Förklaring: som plötsligt blir mycket rädd
+
 发音提示：för-SKRÄKT
 
 ## 语法变形 (Forms)
@@ -37,8 +40,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[skräck]]（恐惧，名词）
+- 词族: [[skräck]]（恐惧，名词）, [[förskräcka]]
 - 同义词: [[rädd]]（害怕的）
+- 反义词: [[lugn]] (镇定的)
 
 ## 用法提示 (Usage Notes)
 

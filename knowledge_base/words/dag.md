@@ -7,8 +7,8 @@ genus: "en"
 cefr: "A1"
 zh: "天/日子"
 en: "day"
-synonyms: []
-antonyms: []
+synonyms: [dygn]
+antonyms: [natt]
 family: [vardag, midsommar, midsommarafton]
 topics: [topic-tid-och-tidsuttryck]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # dag — substantiv (en)
 
 📖 中文：天/日子 · English: day
+
+🇸🇪 Förklaring: 1) tid på 24 timmar; 2) den ljusa tiden mellan morgon och kväll
+
 发音提示：/dɑːɡ/；单音节，长 a 音。
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vardag]] (工作日/平常日), [[midsommar]] (仲夏), [[midsommarafton]] (仲夏前夕)
-- 同义词: —
-- 反义词: —
+- 同义词: [[dygn]] (一昼夜)
+- 反义词: [[natt]] (夜晚)
 - 主题: [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

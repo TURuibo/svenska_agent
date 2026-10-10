@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A2
 zh: "练习"
 en: "to practice / to train"
-synonyms: []
+synonyms: [träna]
 antonyms: []
-family: []
+family: [övning, övningskörning, utöva]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # öva — verb
 
 📖 中文：练习 · English: to practice / to train
+
+🇸🇪 Förklaring: göra något många gånger för att bli bättre på det
+
 发音提示：['øːva]
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ Verbgrupp 1 (–ar). Regelbundet.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: träna
+- 词族: [[övning]] (练习), [[övningskörning]] (练车), [[utöva]] (从事)
+- 同义词: [[träna]]
 - 反义词: —
 - 主题: —
 

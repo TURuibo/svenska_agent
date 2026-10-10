@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "晒干的、脱水的"
 en: "dried"
 synonyms: []
-antonyms: ["färsk"]
-family: ["torka", "torr"]
+antonyms: [färsk]
+family: [torka, torr]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # torkad — adjektiv
 
 📖 中文：晒干的、脱水的 · English: dried
+
+🇸🇪 Förklaring: som man har tagit bort vätskan ur så att det håller längre, till exempel frukt
+
 发音提示：TOR-kad（过去分词形式，来自动词 torka）
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: torka（动词/名词，晒干/干旱）, torr（形容词，干的）
+- 词族: [[torka]]（动词/名词，晒干/干旱）, [[torr]]（形容词，干的）
 - 同义词: —
-- 反义词: färsk（新鲜的）
+- 反义词: [[färsk]]（新鲜的）
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

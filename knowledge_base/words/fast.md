@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "但是；虽然；然而（连词）；牢固的；紧的（形容词）"
 en: "but; although; however (conj.); firm; tight; stuck (adj.)"
-synonyms: ["men", "dock"]
-antonyms: []
-family: ["fastna", "fästa"]
+synonyms: [men, dock]
+antonyms: [lös]
+family: [fastna, fästa]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fast — konjunktion / adjektiv
 
 📖 中文：但是；虽然（连词）；牢固的；紧的（形容词） · English: but; although (conj.); firm; tight; stuck (adj.)
+
+🇸🇪 Förklaring: 1) används för att visa en motsats till det man just har sagt, ungefär som trots att; 2) som sitter hårt och inte kan röra sig eller lossna
+
 发音提示：/fast/
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: fastna (卡住, verb), fästa (固定, verb)
+- 词族: [[fastna]] (卡住, verb), [[fästa]] (固定, verb)
+- 同义词: [[men]], [[dock]]
+- 反义词: [[lös]] (松的)
 - 同义词（连词）: men (但是), dock (然而)
 - 主题:
 

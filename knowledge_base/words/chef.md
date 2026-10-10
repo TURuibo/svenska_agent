@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 老板/主管/上司
 en: boss/manager/chief
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ledare, överordnad, boss]
+antonyms: [anställd, underordnad]
+family: [avdelningschef]
 topics: [topic-arbete-och-jobb]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # chef — substantiv (en-ord)
 
 📖 中文：老板/主管/上司 · English: boss/manager/chief
+
+🇸🇪 Förklaring: person som leder och bestämmer över andra på en arbetsplats
+
 发音提示：[ʃɛf] — 发音类似英语 "chef"（厨师），但含义不同！
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[avdelningschef]]
+- 同义词: [[ledare]] (领导), [[överordnad]] (上级), [[boss]] (老板)
+- 反义词: [[anställd]] (雇员), [[underordnad]] (下属)
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

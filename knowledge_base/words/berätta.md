@@ -8,8 +8,8 @@ cefr: A2
 zh: 讲述
 en: to tell, to narrate
 synonyms: []
-antonyms: []
-family: []
+antonyms: [tiga]
+family: [berättelse, berättare]
 topics: [topic-litteratur-och-kultur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # berätta — verb (v.1)
 
 📖 中文：讲述 · English: to tell, to narrate
+
+🇸🇪 Förklaring: säga eller skriva hur något var eller vad som hände
+
 发音提示：be-RÄT-ta；重音在第二音节，双写 `tt`。
 
 ## 语法变形 (Forms)
@@ -54,8 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[berättelse]] (en, 故事/叙述), [[berättare]] (en, 叙述者)
-- 同义词: [[berätta]] —
-- 反义词: —
+- 同义词: —
+- 反义词: [[tiga]] (保持沉默)
 - 主题: [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

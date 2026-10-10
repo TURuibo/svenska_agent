@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "得了肠胃炎的"
 en: "sick with a stomach bug"
-synonyms: []
-antonyms: []
+synonyms: [dålig-i-magen]
+antonyms: [frisk]
 family: [magsjuka, sjuk, mage]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # magsjuk — adjektiv
 
 📖 中文：得了肠胃炎的 · English: sick with a stomach bug
+
+🇸🇪 Förklaring: som kräks eller har diarré på grund av en infektion i magen
+
 发音提示：[ˈmɑːgˌɧʉːk]。
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[magsjuka]] · [[sjuk]] · [[mage]]
-- 同义词: —
+- 词族: [[magsjuka]] · [[sjuk]] · [[mage]], [[sjuk]] (生病的), [[mage]] (肚子，胃)
+- 同义词: [[dålig-i-magen|dålig i magen]] (肚子不舒服)
 - 反义词: [[frisk]]
 - 主题: [[topic-förskola-vardag]]
 

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "滑梯"
 en: "slide"
-synonyms: []
+synonyms: [kana]
 antonyms: []
-family: []
+family: [rutscha]
 topics: ["topic-familj-och-barn"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # rutschkana — substantiv (en)
 
 📖 中文：滑梯 · English: slide
+
+🇸🇪 Förklaring: lekredskap med en lutande bana som barn åker ner för
+
 发音提示：RUTSCH-ka-na
 
 ## 语法变形 (Forms)
@@ -43,6 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[rutscha]] (滑下)
+- 同义词: [[kana]] (滑道)
+- 反义词: —
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "发明"
 en: "invention"
-synonyms: []
+synonyms: [innovation, nyhet]
 antonyms: []
 family: [uppfinna, uppfinnare]
 topics: [topic-uppfinning-och-teknik]
@@ -25,6 +25,9 @@ interval: 0
 # uppfinning — substantiv
 
 📖 中文：发明 · English: invention
+
+🇸🇪 Förklaring: ny sak eller metod som någon har skapat och som inte fanns förut
+
 发音提示：upp-FIN-ning（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[uppfinna]] (动词：发明), uppfinnare (发明家)
-- 同义词: —
+- 词族: [[uppfinna]] (动词：发明), [[uppfinnare]] (发明家)
+- 同义词: [[innovation]] (创新), [[nyhet]] (新事物)
 - 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]
 

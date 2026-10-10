@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "队伍；法律"
 en: "team; law"
-synonyms: []
+synonyms: [team]
 antonyms: []
 family: [lagkamrat, landslag, laganda, laga]
 topics: [topic-fotboll, topic-val-demokrati]
@@ -23,6 +23,9 @@ interval: 0
 # lag — substantiv
 
 📖 中文：队伍；法律 · English: team; law
+
+🇸🇪 Förklaring: 1) grupp som spelar eller tävlar tillsammans; 2) regel som riksdagen har beslutat och som alla måste följa
+
 发音提示：/lɑːɡ/；a 长音。
 
 ## 语法变形 (Forms)
@@ -55,8 +58,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lagkamrat]] (en, 队友), [[landslag]] (ett, 国家队), [[laganda]] (en, 团队精神)
-- 同义词: —
+- 词族: [[lagkamrat]] (en, 队友), [[landslag]] (ett, 国家队), [[laganda]] (en, 团队精神), [[laga]]
+- 同义词: [[team]] (团队)
 - 反义词: —
 - 主题: [[topic-fotboll]], [[topic-val-demokrati]]
 

@@ -6,12 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "规范；监管；调节"
 en: "to regulate; to control"
-synonyms:
-  - kontrollera
-antonyms: []
-family:
-  - reglering
-  - regel
+synonyms: [kontrollera]
+antonyms: [avreglera]
+family: [reglering, regel]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # reglera — verb v.1
 
 📖 中文：规范；监管；调节 · English: to regulate; to control
+
+🇸🇪 Förklaring: bestämma genom lagar hur något får göras; styra så att något håller en jämn nivå
+
 发音提示：/reg-LE-ra/
 
 ## 语法变形 (Forms)
@@ -52,6 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: reglering（规范/调节）· regel（规则）
-- 同义词: kontrollera（控制）
+- 词族: [[reglering]]（规范/调节）· regel（规则）, [[regel]] (规则)
+- 同义词: [[kontrollera]]（控制）
+- 反义词: [[avreglera]] (放松管制)
 - 主题: [[topic-samhälle-och-politik]]

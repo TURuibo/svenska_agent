@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 忠诚的
 en: loyal
-synonyms: []
-antonyms: []
-family: []
+synonyms: [trogen, pålitlig]
+antonyms: [illojal, svekfull]
+family: [lojalitet]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # lojal — adjektiv
 
 📖 中文：忠诚的 · English: loyal
+
+🇸🇪 Förklaring: som troget stöder och står på någons sida, även när det är svårt
+
 发音提示：/lɔjˈɑːl/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[lojalitet]] (忠诚)
+- 同义词: [[trogen]] (忠实的), [[pålitlig]] (可靠的)
+- 反义词: [[illojal]] (不忠的), [[svekfull]] (背信的)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

@@ -23,6 +23,9 @@ interval: 0
 # landslag — substantiv (ett)
 
 📖 中文：国家队 · English: national team
+
+🇸🇪 Förklaring: grupp med de bästa idrottarna i en nation som tävlar mot andra nationer
+
 发音提示：/ˈlandslɑːɡ/；复合词，重音在 land-。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[land]] (ett, 国家/土地), [[lag]] (ett, 队伍), [[landslagsspelare]] (en, 国家队球员)
+- 词族: [[land]] (ett, 国家/土地), [[lag]] (ett, 队伍), [[landslagsspelare]] (en, 国家队球员), [[landslaget]]
 - 同义词: —
 - 反义词: [[klubblag]] (ett, 俱乐部球队)
 - 主题: [[topic-fotboll]]

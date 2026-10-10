@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "远程办公"
 en: "remote work"
-synonyms: ["hemarbete"]
+synonyms: [hemarbete]
 antonyms: []
-family: ["arbeta", "distans"]
+family: [arbeta, distans]
 topics: ["topic-arbete"]
 sentences: ["sent-jag-tycker-att-distansarbete-ska-vara", "sent-för-det-första-medför-distansarbete"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-07"
 # distansarbete — substantiv
 
 📖 中文：远程办公 · English: remote work, telework
+
+🇸🇪 Förklaring: jobb som man gör hemma eller på en annan plats än kontoret, ofta via dator och internet
+
 发音提示：di-STANS-ar-be-te
 
 ## 语法变形 (Forms)
@@ -40,7 +43,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[arbeta]]
+- 词族: [[arbeta]], [[distans]]
+- 同义词: [[hemarbete]]
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

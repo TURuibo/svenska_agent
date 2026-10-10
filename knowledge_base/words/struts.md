@@ -8,7 +8,7 @@ zh: 鸵鸟
 en: ostrich
 synonyms: []
 antonyms: []
-family: []
+family: [strutsägg]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # struts — substantiv (en)
 
 📖 中文：鸵鸟 · English: ostrich
+
+🇸🇪 Förklaring: mycket stor fågel med långa ben som inte kan flyga men springer mycket fort
+
 发音提示：STRUTS（单音节）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[strutsägg]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

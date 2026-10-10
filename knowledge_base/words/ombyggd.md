@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 改建的、重建的
 en: rebuilt, renovated
-synonyms: []
-antonyms: []
-family: ["bygga", "ombyggnad"]
+synonyms: [renoverad, förändrad]
+antonyms: [ursprunglig]
+family: [bygga, ombyggnad]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ombyggd — adjektiv
 
 📖 中文：改建的、重建的 · English: rebuilt, renovated
+
+🇸🇪 Förklaring: som har ändrats och renoverats så att det ser annorlunda ut eller används till något nytt
+
 发音提示：om-BYGGD
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bygga]], [[ombyggnad]]
+- 同义词: [[renoverad]] (翻修过的), [[förändrad]] (改变了的)
+- 反义词: [[ursprunglig]] (原来的)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

@@ -24,6 +24,9 @@ interval: 0
 # repetera — verb (grupp 1)
 
 📖 中文：复习；重复；再次练习 · English: to revise; to repeat; to review
+
+🇸🇪 Förklaring: gå igenom något en gång till för att lära sig det bättre; säga eller göra något igen
+
 发音提示：[rɛpɛˈteːra]，stress 在 -te- 音节
 
 ## 语法变形 (Forms)

@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 最后；上次
 en: last
-synonyms: []
-antonyms: []
-family: []
+synonyms: [slutligen, senast]
+antonyms: [först-…-sedan-…-till-sist]
+family: [sista, sist-och-slutligen]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # sist — adverb
 
 📖 中文：最后；上次 · English: last
+
+🇸🇪 Förklaring: 1) efter alla andra, i slutet; 2) förra gången
+
 发音提示：/sɪst/；单音节，结尾 `-st` 清晰。
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sista（形容词：最后的）, sist och slutligen（归根结底）
-- 同义词: —
+- 词族: [[sista]]（形容词：最后的）, [[sist-och-slutligen|sist och slutligen]]（归根结底）
+- 同义词: [[slutligen]] (最终), [[senast]] (上次)
 - 反义词: först（最先；见 [[först-…-sedan-…-till-sist]]）
 - 对比: [[sen]]（晚的）；`senast`（最近一次、最迟）
 - 主题:

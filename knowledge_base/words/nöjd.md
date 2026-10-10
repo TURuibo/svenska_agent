@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "满意的/满足的"
 en: "satisfied, pleased, content"
-synonyms: []
-antonyms: ["missnöjd"]
-family: []
+synonyms: [tillfreds, belåten]
+antonyms: [missnöjd]
+family: [nöje, nöja-sig, förnöjsam]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # nöjd — adjektiv
 
 📖 中文：满意的/满足的 · English: satisfied, pleased, content
+
+🇸🇪 Förklaring: som tycker att något är bra och inte vill ha mer eller något annat
+
 发音提示：/nøjd/ — "nöjd" (短促)
 
 ## 语法变形 (Forms)
@@ -62,6 +65,8 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[nöje]] (乐趣), [[nöja-sig|nöja sig]] (满足于), [[förnöjsam]] (知足的)
+- 同义词: [[tillfreds]] (满足的), [[belåten]] (满意的)
 - 反义词: [[missnöjd]]
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 

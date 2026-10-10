@@ -8,7 +8,7 @@ zh: 冰
 en: ice
 synonyms: []
 antonyms: []
-family: []
+family: [isig, iskall, ishockey, isbjörn]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # is — substantiv (en-ord)
 
 📖 中文：冰 · English: ice
+
+🇸🇪 Förklaring: vatten som har frusit och blivit hårt
+
 发音提示：/iːs/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[isig]] (结冰的), [[iskall]] (冰冷的), [[ishockey]] (冰球), [[isbjörn]] (北极熊)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

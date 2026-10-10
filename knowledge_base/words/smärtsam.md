@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: B1
 zh: 痛苦的，疼痛的
 en: painful
-synonyms: []
-antonyms: []
+synonyms: [plågsam]
+antonyms: [smärtfri]
 family: [smärta]
 topics: [topic-hälsa, topic-kropp]
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # smärtsam — adjektiv
 
 📖 中文：痛苦的，疼痛的 · English: painful
+
+🇸🇪 Förklaring: som gör ont; som känns mycket jobbig och sorglig
+
 发音提示：[ˈsmɛːrtsam]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[smärta]]
+- 同义词: [[plågsam]] (痛苦的)
 - 反义词: [[smärtfri]]
 - 主题: [[topic-hälsa]], [[topic-kropp]]
 

@@ -6,9 +6,9 @@ genus: en
 cefr: "A2"
 zh: "故事；叙述"
 en: "story; narrative"
-synonyms: ["saga"]
+synonyms: [saga]
 antonyms: []
-family: ["berätta", "berättare", "berättande"]
+family: [berätta, berättare, berättande]
 topics: ["topic-litteratur-och-kultur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # berättelse — substantiv
 
 📖 中文：故事；叙述 · English: story; narrative
+
+🇸🇪 Förklaring: text eller muntlig historia om något som har hänt, sant eller påhittat
+
 发音提示：/bɛˈrɛtɛlsɛ/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[berätta]] (verb: 讲述), berättare (narrator), berättande (narrating)
+- 词族: [[berätta]] (verb: 讲述), [[berättare]] (narrator), [[berättande]] (narrating)
 - 同义词: [[saga]] (fairy tale — more literary/fantasy)
+- 反义词: —
 - 主题: [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

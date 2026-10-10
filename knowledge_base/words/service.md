@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: 服务；(公共)设施
 en: service
-synonyms: []
+synonyms: [tjänst, betjäning]
 antonyms: []
-family: []
+family: [kundservice, servicehus, servicekontor]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # service — substantiv (en)
 
 📖 中文：服务；(公共)设施 · English: service
+
+🇸🇪 Förklaring: hjälp och tjänster som man får som kund eller invånare, t.ex. i en butik eller från kommunen
+
 发音提示：/ˈsœrvɪs/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[kundservice]] (客户服务), [[servicehus]] (老年服务公寓), [[servicekontor]] (服务中心)
+- 同义词: [[tjänst]] (服务), [[betjäning]] (服务)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

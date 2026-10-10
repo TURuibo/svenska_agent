@@ -6,11 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "措施；行动；手段"
 en: "measure; action; step"
-synonyms:
-  - insats
+synonyms: [insats]
 antonyms: []
-family:
-  - åtgärda
+family: [åtgärda]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -26,6 +24,9 @@ interval: 0
 # åtgärd — substantiv en
 
 📖 中文：措施；行动；手段 · English: measure; action; step
+
+🇸🇪 Förklaring: något som man gör för att lösa ett problem eller nå ett mål
+
 发音提示：/ÅT-gärd/
 
 ## 语法变形 (Forms)
@@ -50,6 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: åtgärda（动词：采取措施处理）
+- 词族: [[åtgärda]]（动词：采取措施处理）
+- 同义词: [[insats]]
+- 反义词: —
 - 相关词组: [[vidta-åtgärder]]（采取措施）
 - 主题: [[topic-samhälle-och-politik]]

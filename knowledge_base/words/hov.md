@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "宫廷；王室；蹄子（马蹄）"
 en: "royal court; hoof"
-synonyms: []
+synonyms: [kungahus]
 antonyms: []
-family: []
+family: [hovslagare, hovleverantör, hovdam]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-operationen-gick-bra-säger-det-norska
@@ -24,6 +24,9 @@ interval: 0
 # hov — substantiv
 
 📖 中文：宫廷；王室；蹄子（马蹄） · English: royal court; hoof
+
+🇸🇪 Förklaring: kungens eller drottningens familj och de personer som arbetar runt dem; hårt skal längst ner på benet hos hästar och vissa andra djur
+
 发音提示：/huːv/
 
 ## 语法变形 (Forms)
@@ -52,6 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[hovslagare]] (钉马掌的人), [[hovleverantör]] (王室供应商), [[hovdam]] (宫廷女官)
+- 同义词: [[kungahus]] (王室)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

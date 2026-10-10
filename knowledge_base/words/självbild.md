@@ -18,6 +18,9 @@ created: "2026-09-22"
 # självbild — substantiv (en)
 
 📖 中文：自我形象 · English: self-image
+
+🇸🇪 Förklaring: hur en person ser på och uppfattar sin egen person och sina egenskaper
+
 发音提示：/ˈɧɛlvˌbɪld/
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-22"
 
 - 词族: [[identitet]]
 - 同义词: [[identitet]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

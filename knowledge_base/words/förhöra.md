@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "考问、盘问；审讯"
 en: "to quiz (on homework); to interrogate"
-synonyms: []
+synonyms: [fråga-ut, testa]
 antonyms: []
 family: [förhör]
 topics: [topic-val-demokrati]
@@ -23,6 +23,9 @@ interval: 0
 # förhöra — verb
 
 📖 中文：考问、盘问；审讯 · English: to quiz (on homework); to interrogate
+
+🇸🇪 Förklaring: ställa frågor till någon för att kontrollera vad den kan, till exempel läxan; fråga ut en misstänkt person
+
 发音提示：för-HÖ-ra，重音第二音节。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ Grupp 2 (svag böjning, -de/-t).
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förhör]] (ett, 考问/审讯，名词)
-- 同义词: —
+- 同义词: [[fråga-ut|fråga ut]] (盘问), [[testa]] (考查)
 - 反义词: —
 - 主题: [[topic-val-demokrati]]
 

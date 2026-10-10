@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "遵循；跟随"
 en: "to follow"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gå-efter, lyda]
+antonyms: [leda, bryta-mot]
+family: [följd, följande]
 topics: [topic-förskola-vardag]
 sentences: [sent-avgiften-följer-maxtaxan-och-beror-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # följa — verb (grupp 2a)
 
 📖 中文：跟随；遵循；关注 · English: to follow
+
+🇸🇪 Förklaring: gå eller komma efter någon; göra som en regel, ett råd eller en plan säger
+
 发音提示：[ˈfœlja]，ö 短。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: följd（结果）, följande（接下来的）
+- 词族: [[följd]]（结果）, [[följande]]（接下来的）
+- 同义词: [[gå-efter|gå efter]] (跟随), [[lyda]] (服从)
+- 反义词: [[leda]] (带领), [[bryta-mot|bryta mot]] (违反)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

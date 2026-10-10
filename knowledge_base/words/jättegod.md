@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 非常好吃的
 en: delicious, really tasty
-synonyms: []
-antonyms: []
-family: [jättebra]
+synonyms: [utsökt, läcker]
+antonyms: [äcklig, smaklös]
+family: [jätte-, jättebra]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # jättegod — adjektiv
 
 📖 中文：非常好吃的 · English: really tasty
+
+🇸🇪 Förklaring: som har en mycket fin och härlig smak
+
+发音提示：/ˈjɛtːɛˌɡuːd/ — 重音在 jät；o 读 uː
 
 ## 语法变形 (Forms)
 
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: jätte- + god
-- 同义词:
-- 反义词:
+- 词族: [[jätte-]] + god, [[jättebra]] (非常好)
+- 同义词: [[utsökt]] (美味的), [[läcker]] (可口的)
+- 反义词: [[äcklig]] (恶心的), [[smaklös]] (无味的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

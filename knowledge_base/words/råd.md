@@ -23,6 +23,9 @@ interval: 0
 # råd — substantiv (ett)
 
 📖 中文：建议 · English: advice
+
+🇸🇪 Förklaring: något som man säger till någon om vad hen borde göra
+
 发音提示：RÅD，单音节，å 发长音。
 
 ## 语法变形 (Forms)

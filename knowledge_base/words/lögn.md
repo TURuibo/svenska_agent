@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "谎言"
 en: "lie"
-synonyms: []
-antonyms: ["sanning"]
-family: ["ljuga"]
+synonyms: [osanning]
+antonyms: [sanning]
+family: [ljuga]
 topics: ["topic-bedrageri-bank-sakerhet"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # lögn — substantiv (en)
 
 📖 中文：谎言 · English: lie
+
+🇸🇪 Förklaring: något som man säger fast man vet att det inte är sant
+
 发音提示：/lœŋn/
 
 ## 语法变形 (Forms)
@@ -44,6 +47,7 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ljuga]]（说谎，动词）
+- 同义词: [[osanning]] (不实之言)
 - 反义词: [[sanning]]（真相）
 - 主题: [[topic-bedrageri-bank-sakerhet]]
 

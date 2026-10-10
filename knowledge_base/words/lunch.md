@@ -19,6 +19,9 @@ created: "2026-09-26"
 # lunch — substantiv (en)
 
 📖 中文：午饭 · English: lunch
+
+🇸🇪 Förklaring: måltid som man äter mitt på dagen
+
 发音提示：/lɵnɧ/ — 读 "lunsh"，u 短促，ch 读 sj-音。
 
 ## 语法变形 (Forms)

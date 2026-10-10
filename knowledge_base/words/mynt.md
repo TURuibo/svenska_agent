@@ -9,7 +9,7 @@ zh: "硬币"
 en: "coin"
 synonyms: [slant]
 antonyms: [sedel]
-family: [myntsamling]
+family: [myntsamling, myntfot]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # mynt — substantiv (ett)
 
 📖 中文：硬币 · English: coin
+
+🇸🇪 Förklaring: rund och platt bit av metall som används som pengar
+
 发音提示：MYNT，单音节，y 发圆唇前元音。
 
 ## 语法变形 (Forms)

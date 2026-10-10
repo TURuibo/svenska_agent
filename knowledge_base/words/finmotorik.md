@@ -19,6 +19,9 @@ created: "2026-09-26"
 # finmotorik — substantiv
 
 📖 中文：精细动作（用勺子、捏小物） · English: fine motor skills
+
+🇸🇪 Förklaring: förmågan att göra små, noggranna rörelser med händerna och fingrarna, till exempel att hålla en penna
+
 发音提示：/ˈfiːnmoˌtoːrik/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[motorik]], [[grovmotorik]]
+- 同义词: —
 - 反义词: [[grovmotorik]]
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 

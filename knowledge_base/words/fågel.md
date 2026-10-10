@@ -9,7 +9,7 @@ zh: "鸟"
 en: "bird"
 synonyms: []
 antonyms: []
-family: []
+family: [fågelbo, fågelkvitter]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fågel — substantiv (en)
 
 📖 中文：鸟 · English: bird
+
+🇸🇪 Förklaring: djur med fjädrar, vingar och näbb som lägger ägg och oftast kan flyga
+
 发音提示：/ˈfoːɡɛl/
 
 ## 语法变形 (Forms)

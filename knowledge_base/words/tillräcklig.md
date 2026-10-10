@@ -5,12 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: "足够的、充足的"
 en: "sufficient, enough, adequate"
-synonyms:
-  - "[[nog]]"
-antonyms:
-  - "[[otillräcklig]]"
-family:
-  - "[[räcka]]"
+synonyms: [nog, nödvändig]
+antonyms: [otillräcklig]
+family: [räcka, tillräckligt]
 topics: []
 sentences: []
 known: false
@@ -24,6 +21,9 @@ interval: 0
 # tillräcklig — adjektiv
 
 📖 中文：足够的、充足的 · English: sufficient, enough, adequate
+
+🇸🇪 Förklaring: som är så mycket eller så bra som det behövs
+
 发音提示：/ˈtɪlˌrɛklɪɡ/，重音在 **till**；ä 发 [ɛ]。
 
 ## 语法变形 (Forms)
@@ -56,8 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[räcka]]（够、足够，动词：*Det räcker.*）、tillräckligt（足够地，副词形）
-- 同义词: [[nog]]（足够；也作情态副词）、nödvändig（必要的，近义但侧重"必需"）
+- 词族: [[räcka]]（够、足够，动词：*Det räcker.*）, [[tillräckligt]]（足够地，副词形）
+- 同义词: [[nog]]（足够；也作情态副词）, [[nödvändig]]（必要的，近义但侧重"必需"）
 - 反义词: [[otillräcklig]]（不足的）
 - 主题: —
 

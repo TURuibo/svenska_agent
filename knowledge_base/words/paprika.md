@@ -9,7 +9,7 @@ zh: "甜椒、彩椒"
 en: "bell pepper"
 synonyms: []
 antonyms: []
-family: []
+family: [paprikapulver]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # paprika — substantiv (en)
 
 📖 中文：甜椒、彩椒 · English: bell pepper
+
+🇸🇪 Förklaring: ihålig grönsak som kan vara röd, gul eller grön och har en mild smak
+
 发音提示：PAP-ri-ka（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: paprikapulver（红椒粉）
+- 词族: [[paprikapulver]]（红椒粉）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: "移民"
 en: "immigrant"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [invånare]
+antonyms: [utvandrare, infödd]
+family: [invandring, invandra]
 topics: [topic-samhälle-och-politik]
 sentences:
   - sent-poliserna-i-colombia-har-tagit-fast
@@ -24,6 +24,9 @@ interval: 0
 # invandrare — substantiv
 
 📖 中文：移民 · English: immigrant
+
+🇸🇪 Förklaring: person som har flyttat till ett nytt land för att bo där
+
 发音提示：[in-VAN-dra-re]
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 
 - 词族: [[invandring]], [[invandra]]
 - 同义词: [[invånare]] (居民，更广义)
+- 反义词: [[utvandrare]] (移出者), [[infödd]] (本地人)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

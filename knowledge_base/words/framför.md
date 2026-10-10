@@ -7,8 +7,8 @@ genus: ""
 cefr: A2
 zh: 在……前面；在……面前
 en: in front of; before; ahead of
-synonyms: []
-antonyms: []
+synonyms: [inför, före]
+antonyms: [bakom, efter]
 family: [fram, framåt, framtid, framgång, framme]
 topics: [topic-rumsliga-relationer, topic-hemmet, topic-stadsmiljo]
 sentences:
@@ -28,6 +28,9 @@ interval: 0
 # framför — preposition / adverb
 
 📖 中文：在……前面；在……面前 · English: in front of; before; ahead of
+
+🇸🇪 Förklaring: på platsen strax före något eller någon; i närvaro av någon
+
 发音提示：fram-FÖR；重音在第二音节，`ö` 长音。
 
 ## 语法变形 (Forms)
@@ -58,8 +61,9 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fram]] (adv. 向前), [[framåt]] (adv/prep. 朝前), [[framtid]] (en, 未来), [[framgång]] (en, 成功), [[framme]] (adv. 在前面/到达)
-- 同义词（近义）: [[inför]] (抽象/仪式性"面前"), [[före]] (时间/顺序"之前")
+- 同义词: [[inför]] (在……面前), [[före]] (在……之前)
 - 反义词: [[bakom]] (在……后面), [[efter]] (在……之后)
+- 同义词（近义）: [[inför]] (抽象/仪式性"面前"), [[före]] (时间/顺序"之前")
 - 主题: [[topic-rumsliga-relationer]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

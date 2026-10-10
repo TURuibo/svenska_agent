@@ -8,7 +8,7 @@ zh: "开始；开启"
 en: "to initiate; to open; to start"
 synonyms: [börja, starta, påbörja]
 antonyms: [avsluta, avbryta]
-family: [inledning, inledande]
+family: [inledning, inledande, påbörja]
 topics: [topic-social-kontakt]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # inleda — verb (grupp 2a)
 
 📖 中文：开始；开启 · English: to initiate; to open; to start
+
+🇸🇪 Förklaring: starta något, till exempel ett möte, ett samtal eller ett samarbete
+
 发音提示：in-LE-da（重音在第二音节）
 
 ## 语法变形 (Forms)

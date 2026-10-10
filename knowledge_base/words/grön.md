@@ -7,8 +7,8 @@ cefr: A1
 zh: 绿色的
 en: green
 synonyms: []
-antonyms: []
-family: []
+antonyms: [röd]
+family: [grönsak, grönska, grönområde]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # grön — adjektiv
 
 📖 中文：绿色的 · English: green
+
+🇸🇪 Förklaring: som har samma färg som gräs och blad på sommaren
+
 发音提示：/ɡrøːn/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[grönsak]] (蔬菜), [[grönska]] (绿意), [[grönområde]] (绿地)
 - 同义词: —
 - 反义词: [[röd]]
 - 主题: [[topic-stadsmiljo]]

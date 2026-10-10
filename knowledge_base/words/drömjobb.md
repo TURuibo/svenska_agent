@@ -23,6 +23,9 @@ interval: 0
 # drömjobb — substantiv (ett)
 
 Zh: 梦想工作；理想职位 · English: dream job
+
+🇸🇪 Förklaring: arbete som man helst av allt skulle vilja ha
+
 发音提示：DRÖM-jobb（复合词，重音在 dröm）
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ Zh: 梦想工作；理想职位 · English: dream job
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[dröm]]（梦想），[[jobb]]（工作），[[drömma]]（做梦；梦想）
+- 词族: [[dröm]]（梦想）, [[jobb]]（工作）, [[drömma]]（做梦；梦想）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

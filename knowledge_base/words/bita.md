@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "咬"
 en: "to bite"
-synonyms: []
+synonyms: [nafsa]
 antonyms: []
-family: ["bitmärke", "bli-biten"]
+family: [bitmärke, bli-biten]
 topics: ["topic-småbarn-känslor-och-beteende", "topic-förskola-vardag"]
 sentences: ["sent-ella-bet-en-kompis-i-armen", "sent-jag-hörde-att-ella-bet-en", "sent-men-vi-har-skrivit-en-tillbudsrapport", "sent-har-hon-själv-blivit-biten"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # bita — verb (grupp 4, 强变化)
 
 📖 中文：咬 · English: to bite
+
+🇸🇪 Förklaring: ta tag i något med tänderna eller skada någon med tänderna
+
 发音提示：BEE-ta（长 i）；过去式 bet 读 [be:t]，长 e
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bitmärke]], [[bli-biten]]
-- 同义词:
-- 反义词:
+- 同义词: [[nafsa]] (轻咬)
+- 反义词: —
 - 主题: [[topic-småbarn-känslor-och-beteende]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

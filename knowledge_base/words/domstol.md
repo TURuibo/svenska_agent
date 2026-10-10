@@ -7,11 +7,9 @@ genus: en
 cefr: "B1"
 zh: "法院"
 en: "court (of law)"
-synonyms: []
+synonyms: [rätt]
 antonyms: []
-family:
-  - döma
-  - dom
+family: [döma, dom]
 topics:
   - topic-krig-och-konflikt
   - topic-samhälle-och-politik
@@ -28,6 +26,9 @@ interval: 0
 # domstol — substantiv
 
 📖 中文：法院 · English: court (of law)
+
+🇸🇪 Förklaring: myndighet som avgör tvister och bestämmer om någon är skyldig till ett brott
+
 发音提示：['dɔmˌstuːl]
 
 ## 语法变形 (Forms)
@@ -55,8 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[döma]], [[dom]]
-- 同义词:
-- 反义词:
+- 同义词: [[rätt]] (法庭)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "税前工资，总薪"
 en: "gross salary"
-synonyms: []
-antonyms: ["nettolön"]
-family: ["lön"]
+synonyms: [lön-före-skatt]
+antonyms: [nettolön]
+family: [lön]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # bruttolön — substantiv (en-ord)
 
 📖 中文：税前工资，总薪 · English: gross salary
+
+🇸🇪 Förklaring: lön innan skatten har dragits av
+
 发音提示：BRUT-to-lön
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-10-03"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lön]]
-- 同义词: —
+- 同义词: [[lön-före-skatt|lön före skatt]] (税前工资)
 - 反义词: [[nettolön]]
 - 主题: [[topic-arbete-och-jobb]]
 

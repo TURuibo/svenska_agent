@@ -7,8 +7,8 @@ cefr: "B1"
 zh: "同胞"
 en: "compatriot"
 synonyms: []
-antonyms: []
-family: ["land"]
+antonyms: [utlänning]
+family: [land]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # landsman — substantiv
 
 📖 中文：同胞 · English: compatriot
+
+🇸🇪 Förklaring: person som kommer från samma land som man själv
+
+发音提示：/ˈlanːsˌmanː/ — d 不发音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[land]]
-- 同义词: []
-- 反义词: []
+- 同义词: —
+- 反义词: [[utlänning]] (外国人)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

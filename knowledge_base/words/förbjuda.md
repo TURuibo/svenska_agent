@@ -7,8 +7,8 @@ genus: ""
 cefr: B1
 zh: "禁止"
 en: "to prohibit, to ban"
-synonyms: []
-antonyms: []
+synonyms: [bannlysa, stoppa]
+antonyms: [tillåta]
 family: [förbud, förbjuden]
 topics: [topic-samhälle-och-politik]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # förbjuda — verb
 
 📖 中文：禁止 · English: to prohibit, to ban
+
+🇸🇪 Förklaring: bestämma och säga att något inte är tillåtet att göra
+
 发音提示：[fer-BYOO-da]
 
 ## 语法变形 (Forms)
@@ -53,6 +56,7 @@ Oregelbundet (stark verb, grupp 4).
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förbud]], [[förbjuden]]
+- 同义词: [[bannlysa]] (明令禁止), [[stoppa]] (阻止)
 - 反义词: [[tillåta]]
 - 主题: [[topic-samhälle-och-politik]]
 

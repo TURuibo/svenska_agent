@@ -6,10 +6,9 @@ genus: en
 cefr: A1
 zh: 收银台；收银机
 en: checkout; cash register
-synonyms: []
+synonyms: [kassaapparat]
 antonyms: []
-family:
-  - kassör
+family: [kassör]
 topics:
   - topic-mataffär
   - topic-betalning
@@ -26,6 +25,9 @@ interval: 0
 # kassa — substantiv (en)
 
 📖 中文：收银台；收银机 · English: checkout; cash register
+
+🇸🇪 Förklaring: ställe i en affär där man betalar för sina varor
+
 发音提示：KAS-sa
 
 ## 语法变形 (Forms)
@@ -52,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kassör]]
-- 同义词: —
+- 同义词: [[kassaapparat]] (收银机)
 - 反义词: —
 - 主题: [[topic-mataffär]], [[topic-betalning]]
 

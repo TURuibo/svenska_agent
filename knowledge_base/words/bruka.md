@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "通常、习惯（做某事）"
 en: "to usually (do); to be accustomed to"
-synonyms: []
+synonyms: [ha-för-vana]
 antonyms: []
-family: []
+family: [bruk, missbruka, jordbruk]
 topics: [topic-vardagsrutin]
 sentences:
   - sent-pa-lunchen-brukar-jag-ata-tillsammans
@@ -25,6 +25,9 @@ interval: 0
 # bruka — verb (grupp 1)
 
 📖 中文：通常、习惯（做某事） · English: to usually (do); to be accustomed to
+
+🇸🇪 Förklaring: göra något ofta, ha som vana att göra något
+
 发音提示：['bruːka]
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[bruk]] (习俗；用法), [[missbruka]] (滥用), [[jordbruk]] (农业)
+- 同义词: [[ha-för-vana|ha för vana]] (习惯于)
 - 反义词: —
 - 主题: [[topic-vardagsrutin]]
 

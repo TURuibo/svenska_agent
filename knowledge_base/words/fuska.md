@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "欺骗；作弊；腐败"
 en: "to cheat; to be corrupt; to cut corners"
-synonyms: []
+synonyms: [lura, slarva]
 antonyms: []
-family: []
+family: [politiker]
 topics: [topic-samhälle-och-politik]
 sentences:
   - sent-folket-tycker-att-politikerna-fuskar
@@ -23,6 +23,9 @@ interval: 0
 # fuska — verb
 
 📖 中文：欺骗；作弊；腐败 · English: to cheat; to be corrupt; to cut corners
+
+🇸🇪 Förklaring: bryta mot reglerna för att få en fördel, till exempel på ett prov; göra ett arbete slarvigt
+
 发音提示：FUS-ka
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[politiker]]
+- 同义词: [[lura]] (欺骗), [[slarva]] (马虎)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

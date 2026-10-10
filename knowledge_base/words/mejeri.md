@@ -24,6 +24,9 @@ interval: 0
 # mejeri — substantiv
 
 📖 中文：乳品厂/乳业 · English: dairy, dairy plant
+
+🇸🇪 Förklaring: fabrik eller företag som gör mjölk, ost, smör och andra produkter av mjölk
+
 发音提示：me-je-RI（重音在最后一音节）
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mejeriprodukt (乳制品), mejeribranschen (乳制品行业)
+- 词族: [[mejeriprodukt]] (乳制品), [[mejeribranschen]] (乳制品行业)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]], [[topic-mat-dryck]]

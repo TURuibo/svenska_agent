@@ -9,7 +9,7 @@ zh: "世界大战"
 en: "world war"
 synonyms: []
 antonyms: []
-family: ["värld", "krig"]
+family: [värld, krig]
 topics: ["topic-historia"]
 sentences: ["sent-vad-hände-ute-i-europa"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # världskrig — substantiv
 
 📖 中文：世界大战 · English: world war
+
+🇸🇪 Förklaring: mycket stor väpnad konflikt där länder från stora delar av jorden deltar
+
 发音提示：sammansatt ord "värld" (世界) + "krig" (战争)
 
 ## 语法变形 (Forms)

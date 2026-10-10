@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 惩罚；处罚
 en: to punish
-synonyms: []
+synonyms: [bestraffa, döma]
 antonyms: [belöna]
-family: []
+family: [straff, bestraffning, straffbar]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # straffa — verb (grupp 1)
 
 📖 中文：惩罚；处罚 · English: to punish
+
+🇸🇪 Förklaring: ge någon något obehagligt för att hen har gjort fel eller brutit mot en regel
+
 发音提示：/ˈstrafːa/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: belöna
+- 词族: [[straff]] (惩罚), [[bestraffning]] (惩罚), [[straffbar]] (应受罚的)
+- 同义词: [[bestraffa]] (处罚), [[döma]] (判决)
+- 反义词: [[belöna]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

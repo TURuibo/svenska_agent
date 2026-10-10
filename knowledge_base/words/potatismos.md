@@ -7,10 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "土豆泥"
 en: "mashed potatoes"
-synonyms: []
+synonyms: [mos]
 antonyms: []
-family:
-  - potatis
+family: [potatis]
 topics:
   - topic-mat-dryck
 sentences:
@@ -26,6 +25,9 @@ interval: 0
 # potatismos — substantiv (ett)
 
 📖 中文：土豆泥 · English: mashed potatoes
+
+🇸🇪 Förklaring: mat av kokt potatis som man mosar ihop med mjölk och smör
+
 发音提示：["poh-TAH-tis-moos"] — 重音在第二音节
 
 ## 语法变形 (Forms)
@@ -52,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[potatis]]
-- 同义词:
-- 反义词:
+- 同义词: [[mos]] (泥)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

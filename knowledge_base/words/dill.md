@@ -8,7 +8,7 @@ zh: 莳萝（香草）
 en: dill (herb)
 synonyms: []
 antonyms: []
-family: []
+family: [dillkött, dillpotatis]
 topics: ["topic-midsommar-traditioner", "topic-mat-dryck"]
 sentences:
   - sent-sillen-ar-inlagd-och-potatisarna-serveras
@@ -23,6 +23,9 @@ interval: 0
 # dill — substantiv (ett)
 
 📖 中文：莳萝（香草） · English: dill (herb)
+
+🇸🇪 Förklaring: grön ört med fina blad som man använder som krydda, till exempel till fisk och potatis
+
 发音提示：dill（单音节）
 
 ## 语法变形 (Forms)
@@ -51,6 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[dillkött]] (莳萝炖肉), [[dillpotatis]] (莳萝土豆)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

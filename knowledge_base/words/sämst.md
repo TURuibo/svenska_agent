@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: "最差的"
 en: "worst, least good"
-synonyms: ["värst"]
-antonyms: ["bäst"]
-family: ["sämre", "dålig"]
+synonyms: [värst]
+antonyms: [bäst]
+family: [dålig, sämre]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-06"
 # sämst — adjektiv / adverb (superlativ av dålig)
 
 📖 中文：最差的 · English: worst, least good
+
+🇸🇪 Förklaring: mest dålig av alla; minst bra
+
 发音提示：/sɛmst/
 
 ## 语法变形 (Forms)
@@ -40,9 +43,9 @@ created: "2026-10-06"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[dålig]], [[sämre]] (更差的)
 - 同义词: [[värst]]
 - 反义词: [[bäst]]
-- 词族: [[dålig]]
 
 ## 用法提示 (Usage Notes)
 

@@ -5,7 +5,7 @@ ordklass: adverb
 cefr: A1
 zh: 只、仅仅
 en: only, just
-synonyms: [endast]
+synonyms: [endast, enbart]
 antonyms: []
 family: []
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # bara — adverb
 
 📖 中文：只、仅仅 · English: only, just
+
+🇸🇪 Förklaring: inte mer än, ingenting annat än
+
 发音提示：/ˈbɑːra/；BA-ra，`a` 读长音。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: [[endast]]（书面语：仅）, enbart（单单）
+- 同义词: [[endast]]（书面语：仅）, [[enbart]]（单单）
 - 反义词: —
 - 主题:
 

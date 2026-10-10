@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "爱抱抱的；亲人的；惹人搂抱的"
 en: "cuddly; affectionate; huggable"
-synonyms: ["mysig", "gullig"]
+synonyms: [mysig, gullig]
 antonyms: []
-family: ["kram"]
+family: [kram]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kramgo — adjektiv
 
 📖 中文：爱抱抱的；亲人的；惹人搂抱的 · English: cuddly; affectionate; huggable
+
+🇸🇪 Förklaring: som är mjuk och gosig och gärna vill bli omfamnad
+
 发音提示：/ˈkramɡuː/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kram (拥抱, substantiv)
+- 词族: [[kram]] (拥抱, substantiv)
 - 同义词: [[mysig]] (温馨的), [[gullig]] (可爱的)
+- 反义词: —
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

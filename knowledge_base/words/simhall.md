@@ -6,9 +6,9 @@ genus: "en"
 cefr: A2
 zh: 游泳馆
 en: indoor swimming pool
-synonyms: []
+synonyms: [badhus]
 antonyms: []
-family: []
+family: [simma, hall, simskola]
 topics: [topic-simhall-och-schema]
 sentences: [sent-simhallen-är-stängd-på-lördag-den]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-05"
 # simhall — substantiv (en)
 
 📖 中文：游泳馆 · English: indoor swimming pool
+
+🇸🇪 Förklaring: byggnad med bassänger inomhus där man kan simma och bada
+
 发音提示：SIM-hall
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[simma]] (游泳), [[hall]] (大厅), [[simskola]] (游泳班)
+- 同义词: [[badhus]] (室内游泳馆)
+- 反义词: —
 - 主题: [[topic-simhall-och-schema]]
 - 相关: [[bada]], [[simskola]]
 

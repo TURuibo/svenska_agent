@@ -6,11 +6,9 @@ verbgrupp: "2r"
 cefr: "B2"
 zh: "弥补；平衡；超过（风险）"
 en: "to outweigh; to compensate for; to offset"
-synonyms:
-  - balansera
+synonyms: [balansera]
 antonyms: []
-family:
-  - väga
+family: [väga]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -26,6 +24,9 @@ interval: 0
 # uppväga — verb v.2r
 
 📖 中文：弥补；平衡；超过（风险）· English: to outweigh; to offset
+
+🇸🇪 Förklaring: vara lika stort eller viktigt som något annat och därför ta bort dess effekt; vara viktigare än något
+
 发音提示：/UPP-vä-ga/
 
 ## 语法变形 (Forms)
@@ -50,5 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: väga（称重/权衡）
+- 词族: [[väga]]（称重/权衡）
+- 同义词: [[balansera]]
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]

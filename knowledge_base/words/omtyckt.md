@@ -6,8 +6,8 @@ cefr: B1
 zh: 受喜爱的
 en: well-liked
 synonyms: [karismatisk]
-antonyms: []
-family: []
+antonyms: [impopulär, avskydd]
+family: [tycka-om, tycke]
 topics: [topic-personer]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # omtyckt — adjektiv
 
 📖 中文：受喜爱的 · English: well-liked
+
+🇸🇪 Förklaring: som många människor gillar och gärna vill vara med
+
 发音提示：/ˈɔmˌtʏkt/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[tycka-om|tycka om]] (喜欢), [[tycke]] (好感)
 - 同义词: [[karismatisk]]
-- 反义词:
+- 反义词: [[impopulär]] (不受欢迎的), [[avskydd]] (被厌恶的)
 - 主题: [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

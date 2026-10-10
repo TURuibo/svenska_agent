@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: A2
 zh: 介绍；展示
 en: to introduce; to present
-synonyms: []
+synonyms: [introducera, visa, framföra]
 antonyms: []
 family: [presentation]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # presentera — verb (grupp 1)
 
 📖 中文：介绍；展示 · English: to introduce; to present
+
+🇸🇪 Förklaring: 1) berätta vem någon är när människor träffas för första gången; 2) visa och berätta om något för andra
+
+发音提示：/prɛsɛnˈteːra/ — 重音在 -te；e 读长音
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: presentation (en)
-- 同义词:
-- 反义词:
+- 词族: [[presentation]] (en)
+- 同义词: [[introducera]] (介绍), [[visa]] (展示), [[framföra]] (陈述)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

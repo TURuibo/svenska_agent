@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "呕吐（一次）"
 en: "(an episode of) vomiting"
-synonyms: []
+synonyms: [uppkastning]
 antonyms: []
 family: [kräkas]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # kräkning — substantiv (en)
 
 📖 中文：呕吐（一次） · English: (an episode of) vomiting
+
+🇸🇪 Förklaring: det att maten kommer upp ur magen och ut genom munnen när man mår illa
+
 发音提示：[ˈkrɛːknɪŋ]。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kräkas]]
-- 同义词: —
+- 同义词: [[uppkastning]] (呕吐)
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 

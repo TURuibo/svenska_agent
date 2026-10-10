@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "老的；旧的"
 en: "old"
-synonyms: []
+synonyms: [åldrig, sliten]
 antonyms: [ung]
-family: []
+family: [ålder, ålderdom]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gammal — adjektiv
 
 📖 中文：老的；旧的 · English: old
+
+🇸🇪 Förklaring: som har levt eller funnits länge; som inte är ny
+
 发音提示：/ˈɡamal/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ålder]] (年龄), [[ålderdom]] (老年)
-- 同义词: —
+- 同义词: [[åldrig]] (年迈的), [[sliten]] (破旧的)
 - 反义词: [[ung]]
 - 主题: [[topic-djur]]
 

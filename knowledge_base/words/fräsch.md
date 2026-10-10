@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 清爽的
 en: fresh, clean-looking
-synonyms: []
-antonyms: []
-family: []
+synonyms: [frisk]
+antonyms: [sjaskig, unken]
+family: [fräschör, fräscha-upp]
 topics: [topic-hälsa]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # fräsch — adjektiv
 
 📖 中文：清爽的 · English: fresh, clean-looking
+
+🇸🇪 Förklaring: som är ren, ny och trevlig att se på eller lukta på
+
 发音提示：[frɛʃ]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[fräschör]] (清新感), [[fräscha-upp|fräscha upp]] (翻新；使清新)
 - 同义词: [[frisk]]
+- 反义词: [[sjaskig]] (邋遢的), [[unken]] (发霉的)
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

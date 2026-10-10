@@ -6,9 +6,9 @@ genus: ""
 cefr: A1
 zh: 高的；高大的
 en: high, tall
-synonyms: []
+synonyms: [lång, reslig]
 antonyms: [låg]
-family: ["höjd", "höja"]
+family: [höjd, höja]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hög — adjektiv
 
 📖 中文：高的；高大的 · English: high, tall
+
+🇸🇪 Förklaring: som når långt upp från marken; som är stor i mått eller värde, till exempel en lön eller ett pris
+
 发音提示：/høːɡ/
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: höjd (高度), höja (升高)
-- 同义词: —
+- 词族: [[höjd]] (高度), [[höja]] (升高)
+- 同义词: [[lång]] (个子高的), [[reslig]] (高大的)
 - 反义词: [[låg]]
 - 主题: [[topic-stadsmiljo]]
 

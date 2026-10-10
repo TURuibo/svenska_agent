@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "多数"
 en: "majority"
-synonyms: []
+synonyms: [flertal, större-delen]
 antonyms: [minoritet]
-family: []
+family: [majoritetsbeslut, majoritetsregering]
 topics: [topic-val-demokrati]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # majoritet — substantiv (en)
 
 📖 中文：多数 · English: majority
+
+🇸🇪 Förklaring: den större delen av en grupp; fler än hälften
+
 发音提示：ma-jo-ri-TET，重音末音节。
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: minoritet（少数）
+- 词族: [[majoritetsbeslut]] (多数决定), [[majoritetsregering]] (多数派政府)
+- 同义词: [[flertal]] (多数), [[större-delen|större delen]] (大部分)
+- 反义词: [[minoritet]]（少数）
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

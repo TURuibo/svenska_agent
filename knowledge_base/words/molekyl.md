@@ -9,7 +9,7 @@ zh: "分子"
 en: "molecule"
 synonyms: []
 antonyms: []
-family: []
+family: [molekylär]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,10 @@ created: "2026-10-08"
 # molekyl — substantiv (en)
 
 📖 中文：分子 · English: molecule
+
+🇸🇪 Förklaring: minsta del av ett ämne, som består av två eller flera atomer
+
+发音提示：/mʊlɛˈkyːl/ — 重音在最后 kyl；y 读长音
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,9 @@ created: "2026-10-08"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[molekylär]] (分子的)
+- 同义词: —
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

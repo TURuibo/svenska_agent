@@ -22,6 +22,9 @@ interval: 0
 # smärta — substantiv (en)
 
 📖 中文：疼痛 · English: pain
+
+🇸🇪 Förklaring: stark känsla av att det gör ont i kroppen eller i själen
+
 发音提示：/ˈsmɛrtːa/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 - 词族: [[smärtsam]]
 - 同义词: [[ont]], [[värk]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

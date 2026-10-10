@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "尴尬的"
 en: "embarrassing"
-synonyms: ["generad"]
+synonyms: [generad]
 antonyms: []
-family: ["pina"]
+family: [pina]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # pinsam — adjektiv
 
 📖 中文：尴尬的 · English: embarrassing
+
+🇸🇪 Förklaring: som får en att skämmas eller känna sig obekväm
+
 发音提示：PIN-sam
 
 ## 语法变形 (Forms)
@@ -37,7 +40,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[pina]]
 - 同义词: [[generad]]（尴尬的，多形容人的感受，而 pinsam 多形容情境）
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

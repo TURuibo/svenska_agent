@@ -8,10 +8,8 @@ cefr: "A1"
 zh: "右；右边"
 en: "right"
 synonyms: []
-antonyms:
-  - vänster
-family:
-  - vänster
+antonyms: [vänster]
+family: [högersida, högertrafik, vänster]
 topics:
   - topic-riktningar
 sentences:
@@ -29,6 +27,9 @@ interval: 0
 # höger — substantiv / adverb
 
 📖 中文：右；右边 · English: right
+
+🇸🇪 Förklaring: den sida där de flesta människor har den hand som de skriver med
+
 发音提示：HÖ-ger；两音节。
 
 ## 语法变形 (Forms)
@@ -55,7 +56,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[högersida]] (右侧), [[högertrafik]] (靠右行驶规则)
+- 词族: [[högersida]] (右侧), [[högertrafik]] (靠右行驶规则), [[vänster]]
 - 同义词: —
 - 反义词: [[vänster]]
 - 主题: [[topic-riktningar]]

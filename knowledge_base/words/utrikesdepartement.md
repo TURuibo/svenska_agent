@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "外交部"
 en: "Ministry of Foreign Affairs"
-synonyms: []
+synonyms: [ud]
 antonyms: []
-family: ["utrikes", "departement"]
+family: [utrikes, departement]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # utrikesdepartement — substantiv (ett)
 
 📖 中文：外交部 · English: Ministry of Foreign Affairs
+
+🇸🇪 Förklaring: den del av regeringen som har hand om landets kontakter med andra länder
+
 发音提示：/ˈuːtrɪkəsdeˌpartəˈmɛnt/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: utrikes（对外的），departement（部门/部）
+- 词族: [[utrikes]]（对外的）, [[departement]]（部门/部）
+- 同义词: [[ud|UD]] (外交部（缩写）)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

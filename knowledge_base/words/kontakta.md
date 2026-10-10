@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: 联系；取得联系
 en: to contact; to get in touch with
-synonyms: []
+synonyms: [ringa, skriva-till]
 antonyms: []
-family: []
+family: [kontakt]
 topics: [topic-skola-och-utbildning, topic-social-kontakt]
 sentences: [sent-om-du-inte-kan-komma]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kontakta — verb (grupp 1)
 
 📖 中文：联系；取得联系 · English: to contact; to get in touch with
+
+🇸🇪 Förklaring: ringa, skriva eller på annat sätt höra av sig till någon
+
 发音提示：kon-TAK-ta
 
 ## 语法变形 (Forms)

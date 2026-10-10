@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "地区、地方"
 en: "part of the country"
-synonyms: []
+synonyms: [region, område]
 antonyms: []
-family: []
+family: [land, del, landskap]
 topics: ["topic-geografi-samhalle"]
 sentences: ["sent-i-norrland-bor-endast-11-procent-av"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # landsdel — substantiv
 
 📖 中文：地区、地方 · English: part of the country
-发音提示：
+
+🇸🇪 Förklaring: större område i ett land, t.ex. Norrland eller Götaland
+
+发音提示：/ˈlanːsˌdeːl/ — lands 中 d 不发音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[land]] (国家), [[del]] (部分), [[landskap]] (省；风景)
+- 同义词: [[region]] (地区), [[område]] (区域)
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

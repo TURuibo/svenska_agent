@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "备用衣物"
 en: "spare clothes"
-synonyms: []
+synonyms: [ombyte]
 antonyms: []
 family: [kläder]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # extrakläder — substantiv
 
 📖 中文：备用衣物 · English: spare clothes
+
+🇸🇪 Förklaring: kläder som man har med sig i reserv om de man har på sig blir blöta eller smutsiga
+
 发音提示：/ˈɛkstraˌklɛːdər/，复合词，主重音在 EX-，第二重音在 klä-。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kläder]]
+- 同义词: [[ombyte]] (换洗衣物)
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

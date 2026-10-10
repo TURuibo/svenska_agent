@@ -9,7 +9,7 @@ zh: "落下；跌倒；下降；（雨雪）落下"
 en: "to fall; to drop; to decrease"
 synonyms: [ramla]
 antonyms: [stiga]
-family: [fall]
+family: [fall, fälla]
 topics: [topic-allmänna-verb]
 sentences: [sent-min-mamma-föll-förra-månaden-när-hon-snubblade]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # falla — verb (grupp 4, 强变化)
 
 📖 中文：落下；跌倒；下降；（雨雪）落下 · English: to fall; to drop; to decrease
+
+🇸🇪 Förklaring: 1) röra sig snabbt nedåt mot marken; 2) bli lägre eller mindre, till exempel om priser; 3) om regn eller snö: komma ner från himlen
+
 发音提示：FAL-la，`ll` 双写表示前面的 `a` 短。
 
 ## 语法变形 (Forms)
@@ -61,7 +64,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[fall]]（名词：摔倒；情况；案例）、`fälla`（使倒下；砍倒）
+- 词族: [[fall]]（名词：摔倒；情况；案例）, [[fälla]]（使倒下；砍倒）
 - 同义词: [[ramla]]（口语的"摔倒、跌落"，更常用于人）
 - 反义词: [[stiga]]（上升，用于价格 / 气温）
 - 主题: [[topic-allmänna-verb]]

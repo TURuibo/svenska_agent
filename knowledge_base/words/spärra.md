@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "冻结；封锁；拦截"
 en: "to block / freeze / bar"
-synonyms: []
-antonyms: []
+synonyms: [blockera, stänga-av]
+antonyms: [öppna, aktivera]
 family: [spärr, spärrad, spärrning]
 topics:
   - topic-vardagsrutin
@@ -25,6 +25,9 @@ interval: 0
 # spärra — verb (grupp 1)
 
 📖 中文：冻结；封锁；拦截 · English: to block / freeze / bar
+
+🇸🇪 Förklaring: stänga eller låsa något så att det inte kan användas, t.ex. ett bankkort; hindra någon från att komma förbi
+
 发音提示：SPÄR-ra；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[spärr]] (en, 关卡/屏障), [[spärrad]] (adj. 已被封锁的), [[spärrning]] (en, 封锁行为)
-- 同义词: [[blockera]] (v. 封锁，较正式), [[stänga av]] (v. 关闭/停用)
+- 同义词: [[blockera]] (v. 封锁，较正式), [[stänga-av|stänga av]] (v. 关闭/停用)
 - 反义词: [[öppna]] (v. 开通), [[aktivera]] (v. 激活)
 - 主题: [[topic-vardagsrutin]]
 

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "课程大纲"
 en: "curriculum"
-synonyms: []
+synonyms: [kursplan]
 antonyms: []
 family: [lärande, lärare]
 topics: [topic-förskola-system, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # läroplan — substantiv (en)
 
 📖 中文：课程大纲 · English: curriculum
+
+🇸🇪 Förklaring: dokument från staten som beskriver skolans mål, värden och uppdrag
+
 发音提示：[ˈlæːrʊˌplɑːn]，läro-（教学）+ plan（计划），复合词重音在第一部分。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lärande]] · [[lärare]] · lära
-- 同义词: kursplan（单科的教学计划，更具体）
+- 词族: [[lärande]] · [[lärare]] · lära, [[lärare]] (教师/老师)
+- 同义词: [[kursplan]]（单科的教学计划，更具体）
 - 反义词: —
 - 主题: [[topic-förskola-system]] · [[topic-förskola-vardag]]
 

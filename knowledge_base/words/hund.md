@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "狗"
 en: "dog"
-synonyms: []
+synonyms: [vovve, jycke]
 antonyms: []
-family: []
+family: [hundvalp, hundpromenad]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hund — substantiv (en)
 
 📖 中文：狗 · English: dog
+
+🇸🇪 Förklaring: djur med fyra ben som skäller och som många har som husdjur
+
 发音提示：/hɵnd/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hundvalp]] (小狗), [[hundpromenad]] (遛狗)
-- 同义词: —
+- 同义词: [[vovve]] (狗狗（儿语）), [[jycke]] (狗（口语）)
 - 反义词: —
 - 主题: [[topic-djur]]
 

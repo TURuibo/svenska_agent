@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "一餐；餐食"
 en: "meal"
-synonyms: []
+synonyms: [mål]
 antonyms: []
-family: []
+family: [mellanmål, huvudmåltid, måltidsersättning]
 topics:
   - topic-mat-dryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # måltid — substantiv (en)
 
 📖 中文：一餐；餐食 · English: meal
+
+🇸🇪 Förklaring: tillfälle då man äter, till exempel frukost, lunch eller middag; den mat som man äter då
+
 发音提示：["MOHL-teed"] — 重音在第一音节
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[mellanmål]] (加餐), [[huvudmåltid]] (正餐), [[måltidsersättning]] (代餐)
+- 同义词: [[mål]] (一顿饭)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

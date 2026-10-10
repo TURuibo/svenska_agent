@@ -8,7 +8,7 @@ zh: 草莓蛋糕/草莓挞
 en: strawberry cake / strawberry tart
 synonyms: []
 antonyms: []
-family: ["jordgubbe", "tårta"]
+family: [jordgubbe, tårta]
 topics: ["topic-midsommar-traditioner", "topic-mat-dryck"]
 sentences:
   - sent-till-dessert-ater-man-jordgubbstarta
@@ -23,6 +23,9 @@ interval: 0
 # jordgubbstårta — substantiv (en)
 
 📖 中文：草莓蛋糕/草莓挞 · English: strawberry cake / strawberry tart
+
+🇸🇪 Förklaring: söt kaka med vispgrädde och färska röda bär som man ofta äter på midsommar
+
 发音提示：JORD-gubbs-TÅR-ta（四音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[jordgubbe]]（草莓）, [[tårta]]（蛋糕）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

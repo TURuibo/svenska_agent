@@ -8,7 +8,7 @@ cefr: "A1"
 zh: "教；学；学会（lära sig）"
 en: "to teach; to learn (lära sig)"
 synonyms: [studera, lära-sig]
-antonyms: []
+antonyms: [glömma]
 family: [lärare, lärande, lärorik]
 topics: [topic-skola-och-utbildning]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # lära — verb (grupp 2a)
 
 📖 中文：教；学；学会（lära sig） · English: to teach; to learn (lära sig)
+
+🇸🇪 Förklaring: 1) visa och förklara för någon hur något fungerar; 2) (med ”sig”) skaffa sig kunskap eller förmåga
+
 发音提示：['læːra]
 
 ## 语法变形 (Forms)
@@ -68,7 +71,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lärare]], [[lärande]], [[lärorik]]
-- 同义词: [[studera]] (studera = 更正式学习)
+- 同义词: [[studera]] (studera = 更正式学习), [[lära-sig]]
 - 反义词: [[glömma]]
 - 主题: [[topic-skola-och-utbildning]]
 

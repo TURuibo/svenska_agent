@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: "进球 / 目标"
 en: "goal (football) / goal (aim)"
-synonyms: []
+synonyms: [syfte, avsikt]
 antonyms: []
-family: []
+family: [målvakt, målsättning, slutmål]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # mål — substantiv
 
 📖 中文：进球 / 目标 · English: goal (football) / goal (aim)
+
+🇸🇪 Förklaring: 1) det som man vill uppnå; 2) (i sport) ställningen där bollen ska in, eller poängen när den går in
+
 发音提示：[moːl]
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ Deklination 5 (ett-ord, plural oförändrad).
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[målvakt]] (守门员), [[målsättning]] (目标设定), [[slutmål]] (最终目标)
+- 同义词: [[syfte]] (目的), [[avsikt]] (意图)
 - 反义词: —
 - 主题: [[topic-fotboll]]
 

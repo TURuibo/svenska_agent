@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "居民；住户"
 en: "residents; tenants"
-synonyms: []
+synonyms: [hyresgäst, invånare]
 antonyms: []
-family: ["bo"]
+family: [bo]
 topics: ["topic-hemmet"]
 sentences:
   - sent-lordagen-den-4-juli-stanger-vi
@@ -24,6 +24,9 @@ interval: 0
 # boende — substantiv (pluralis)
 
 📖 中文：居民；住户 · English: residents; tenants
+
+🇸🇪 Förklaring: personer som har sitt hem i ett hus eller ett område
+
 发音提示：['buːendə]，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -51,7 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bo]]
-- 同义词: *hyresgäst* (租客), *invånare* (居民)
+- 同义词: [[hyresgäst]] (租客), [[invånare]] (居民)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

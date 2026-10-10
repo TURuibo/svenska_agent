@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 护士
 en: nurse
-synonyms: []
+synonyms: [sköterska]
 antonyms: []
 family: [sjuk, sköta]
 topics: [topic-hälsa, topic-vård, topic-yrken]
@@ -22,6 +22,9 @@ interval: 0
 # sjuksköterska — substantiv (en)
 
 📖 中文：护士 · English: nurse
+
+🇸🇪 Förklaring: utbildad person som vårdar patienter och hjälper läkare på sjukhus eller vårdcentral
+
 发音提示：[ˈjʉːkˌʃøːtɛrska]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sjuk]], [[sköta]]
+- 同义词: [[sköterska]] (护士)
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-vård]], [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

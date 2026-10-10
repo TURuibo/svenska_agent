@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "大门、栅门"
 en: "gate"
-synonyms: []
+synonyms: [port]
 antonyms: []
-family: []
+family: [grindstolpe, trappgrind]
 topics: ["topic-familj-och-barn"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # grind — substantiv (en)
 
 📖 中文：大门、栅门 · English: gate
+
+🇸🇪 Förklaring: liten dörr i ett staket eller en mur som man kan öppna och stänga
+
 发音提示：/grɪnd/
 
 ## 语法变形 (Forms)
@@ -43,6 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[grindstolpe]] (门柱), [[trappgrind]] (楼梯护栏门)
+- 同义词: [[port]] (大门)
+- 反义词: —
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

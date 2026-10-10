@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 泉水
 en: spring, source
-synonyms: []
+synonyms: [ursprung]
 antonyms: []
-family: []
+family: [bäck]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # källa — substantiv (en-ord)
 
 📖 中文：泉水；来源 · English: spring, source
+
+🇸🇪 Förklaring: 1) ställe där vatten rinner upp ur marken; 2) ställe som något kommer ifrån, t.ex. information
+
 发音提示：/ˈɕɛlːa/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bäck]]（溪流，来自泉水）
+- 同义词: [[ursprung]] (来源)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

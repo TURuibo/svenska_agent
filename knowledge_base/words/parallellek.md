@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "平行游戏（幼儿在其他孩子旁边各玩各的）"
 en: "parallel play"
 synonyms: []
-antonyms: []
+antonyms: [samlek]
 family: [lek, leka]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # parallellek — substantiv
 
 📖 中文：平行游戏（幼儿在其他孩子旁边各玩各的） · English: parallel play
+
+🇸🇪 Förklaring: när små barn sysselsätter sig bredvid varandra men var för sig, utan att göra något tillsammans
+
 发音提示：/paraˈlelːˌleːk/ — 重音在 -lel-
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lek]], [[leka]]
+- 同义词: —
+- 反义词: [[samlek]] (共同游戏)
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

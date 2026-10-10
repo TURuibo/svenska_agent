@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "优雅的"
 en: "elegant"
-synonyms: []
-antonyms: []
-family: ["elegans"]
+synonyms: [stilig, smakfull]
+antonyms: [klumpig]
+family: [elegans]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # elegant — adjektiv
 
 📖 中文：优雅的 · English: elegant
+
+🇸🇪 Förklaring: som är vacker och har stil på ett fint och genomtänkt sätt
+
 发音提示：/eləˈɡant/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[elegans]]
+- 同义词: [[stilig]] (有型的), [[smakfull]] (有品味的)
+- 反义词: [[klumpig]] (笨拙的)
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "人"
 en: "person"
-synonyms: ["människa"]
+synonyms: [människa]
 antonyms: []
-family: ["personlig"]
+family: [personlig]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # person — substantiv (en)
 
 📖 中文：人 · English: person
+
+🇸🇪 Förklaring: en enskild människa, till exempel en man, en kvinna eller ett barn
+
 发音提示：/pæˈʂuːn/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,7 @@ interval: 0
 
 - 词族: [[personlig]]
 - 同义词: [[människa]]
+- 反义词: —
 - 主题: [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

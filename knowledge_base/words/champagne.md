@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "香槟"
 en: "champagne"
-synonyms: ["mousserande"]
+synonyms: [mousserande]
 antonyms: []
-family: []
+family: [champagneglas, champagneflaska]
 topics: ["topic-mat-dryck"]
 sentences:
   - sent-vi-har-mousserande-vin-och-champagne
@@ -25,6 +25,9 @@ interval: 0
 # champagne — substantiv (en)
 
 📖 中文：香槟 · English: champagne
+
+🇸🇪 Förklaring: mousserande vin som kommer från ett visst område i nordöstra Frankrike
+
 发音提示：/ʃamˈpanj/ (franskt lånord)
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[champagneglas]] (香槟杯), [[champagneflaska]] (香槟瓶)
 - 同义词: [[mousserande]] (mousserande vin)
-- 反义词:
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

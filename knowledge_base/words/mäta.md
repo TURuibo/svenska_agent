@@ -24,6 +24,9 @@ interval: 0
 # mäta — verb (oregelbundet, grupp 4)
 
 📖 中文：测量 · English: to measure
+
+🇸🇪 Förklaring: ta reda på hur lång, stor, tung eller varm något är
+
 发音提示：/ˈmɛːta/
 
 ## 语法变形 (Forms)
@@ -55,7 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *mätning* (en, 测量/测定), *mätare* (en, 仪表/测量员), *mått* (ett, 尺寸/度量)
+- 词族: [[mätning]] (en, 测量/测定), [[mätare]] (en, 仪表/测量员), [[mått]] (ett, 尺寸/度量)
+- 同义词: —
+- 反义词: —
 - 主题: —
 
 ## 用法提示 (Usage Notes)

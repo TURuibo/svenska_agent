@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "国王（古/诗意）"
 en: "king (archaic/poetic)"
-synonyms: ["kung"]
+synonyms: [kung]
 antonyms: []
-family: ["kung", "kunglig", "kungfamilj"]
+family: [kung, kunglig, kungafamilj, kungfamilj]
 topics: ["topic-natur-skog"]
 sentences: ["sent-i-sverige-kallar-man-algen-for"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # konung — substantiv
 
 📖 中文：国王（古/诗意） · English: king (archaic/poetic)
+
+🇸🇪 Förklaring: manlig regent i ett kungarike (högtidligt eller gammaldags ord)
+
 发音提示：["koː-nung"]
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kung]], kunglig, kungafamilj
+- 词族: [[kung]], [[kunglig]], [[kungafamilj]], [[kungfamilj]]
 - 同义词: [[kung]]（现代通用说法）
+- 反义词: —
 - 主题: [[topic-natur-skog]]
 
 ## 用法提示 (Usage Notes)

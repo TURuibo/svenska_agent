@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A1"
 zh: "照片"
 en: "photo; photograph"
-synonyms: [fotografering, bild]
+synonyms: [bild, fotografering]
 antonyms: []
 family: [fotografi, fotograf, kamera]
 topics: [topic-hemmet]
@@ -24,6 +24,9 @@ interval: 0
 # foto — substantiv (ett)
 
 📖 中文：照片 · English: photo; photograph
+
+🇸🇪 Förklaring: bild som man har tagit med en kamera
+
 发音提示：FO-to；två stavelser.
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fotografi]] (摄影/照片), [[fotograf]] (摄影师), [[kamera]] (相机)
-- 同义词: [[bild]] (图片，较宽泛)
+- 同义词: [[bild]] (图片，较宽泛), [[fotografering]] (拍照)
 - 反义词: —
 - 主题: [[topic-hemmet]]
 

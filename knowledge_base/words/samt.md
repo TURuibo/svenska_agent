@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "以及，和（书面语）"
 en: "and; as well as (formal)"
-synonyms: ["och", "liksom"]
+synonyms: [och, liksom]
 antonyms: []
-family: ["samman", "tillsammans"]
+family: [samman, tillsammans]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # samt — konjunktion
 
 📖 中文：以及，和（书面语） · English: and; as well as (formal)
+
+🇸🇪 Förklaring: används i formell text för att lägga till något mer i en uppräkning
+
 发音提示：/samːt/
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 
 - 词族: [[samman]], [[tillsammans]]
 - 同义词: [[och]]（中性、口语书面都用）, [[liksom]]（如同、以及）
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

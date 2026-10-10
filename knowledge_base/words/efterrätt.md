@@ -7,9 +7,9 @@ genus: en
 cefr: "A2"
 zh: "甜点；餐后甜品"
 en: "dessert"
-synonyms: []
+synonyms: [dessert]
 antonyms: []
-family: [förrätt]
+family: [förrätt, huvudrätt]
 topics: [topic-mat-dryck]
 sentences:
   - sent-bra-val-vill-du-ha-efterrätt
@@ -25,6 +25,9 @@ interval: 0
 # efterrätt — substantiv (en)
 
 📖 中文：甜点；餐后甜品 · English: dessert
+
+🇸🇪 Förklaring: något sött som man äter efter maten, till exempel glass eller kaka
+
 发音提示：EF-ter-rätt
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[förrätt]] (前菜/头盘), huvudrätt (主菜)
+- 词族: [[förrätt]] (前菜/头盘), [[huvudrätt]] (主菜)
+- 同义词: [[dessert]] (甜点)
+- 反义词: —
 - 相关词: [[äppelpaj]], [[glass]], [[tårta]]
 - 主题: [[topic-mat-dryck]]
 

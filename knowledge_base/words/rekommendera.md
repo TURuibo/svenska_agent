@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "推荐"
 en: "to recommend"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [föreslå]
+antonyms: [avråda]
+family: [rekommendation]
 topics:
   - topic-mat-dryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # rekommendera — verb (grupp 1)
 
 📖 中文：推荐 · English: to recommend
+
+🇸🇪 Förklaring: säga till någon att något är bra och att hen borde välja det
+
 发音提示：re-kom-men-DE-ra（重音在第四音节）
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: rekommendation（en，推荐/建议）
-- 同义词: föreslå（提议，建议）
-- 反义词: —
+- 词族: [[rekommendation]]（en，推荐/建议）
+- 同义词: [[föreslå]]（提议，建议）
+- 反义词: [[avråda]] (劝阻)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

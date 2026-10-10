@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "哎呀"
 en: "oops, oh"
-synonyms: []
+synonyms: [hoppsan, jösses]
 antonyms: []
 family: []
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # oj — interjektion
 
 📖 中文：哎呀 · English: oops, oh
+
+🇸🇪 Förklaring: används för att visa att man blir förvånad eller rädd, eller att något gick fel
+
 发音提示：/ɔj/，一个音节，o 短音 + j。
 
 ## 语法变形 (Forms)
@@ -40,6 +43,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: [[hoppsan]] (哎呀), [[jösses]] (天哪)
+- 反义词: —
 - 相关: [[jaha]] (哦) · [[toppen]] (太棒了)
 - 主题: [[topic-förskola-vardag]]
 

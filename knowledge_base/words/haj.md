@@ -8,7 +8,7 @@ zh: "鲨鱼"
 en: "shark"
 synonyms: []
 antonyms: []
-family: ["fisk"]
+family: [fisk]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # haj — substantiv (en)
 
 📖 中文：鲨鱼 · English: shark
+
+🇸🇪 Förklaring: stor rovfisk i havet med många vassa tänder och en hög fena på ryggen
+
 发音提示：/haj/
 
 ## 语法变形 (Forms)

@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 三明治；面包片
 en: sandwich; open-faced sandwich
-synonyms: []
+synonyms: [macka]
 antonyms: []
-family: []
+family: [smörgåsbord]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # smörgås — substantiv (en)
 
 📖 中文：三明治；面包片 · English: sandwich; open-faced sandwich
+
+🇸🇪 Förklaring: skiva bröd med smör och pålägg, t.ex. ost eller skinka
+
 发音提示：SMÖR-gos (ö 类似法语 "eu")
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: smörgåsbord (自助餐)
+- 词族: [[smörgåsbord]] (自助餐)
+- 同义词: [[macka]] (面包片（口语）)
+- 反义词: —
 - 同义词（口语）: macka
 - 主题: [[topic-kafe-fika]]
 

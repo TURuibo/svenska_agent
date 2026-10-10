@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "在……的同时；然而（对比）"
 en: "while; whereas"
-synonyms: []
+synonyms: [samtidigt-som, under-tiden-som]
 antonyms: []
 family: []
 topics:
@@ -25,6 +25,9 @@ interval: 0
 # medan — konjunktion
 
 📖 中文：在……的同时；然而（对比） · English: while; whereas
+
+🇸🇪 Förklaring: under samma tid som något annat händer; används också för att visa en skillnad mellan två saker
+
 发音提示：ME-dan；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ konjunktion，无变形。
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: —
+- 同义词: [[samtidigt-som|samtidigt som]] (与此同时), [[under-tiden-som|under tiden som]] (在……期间)
 - 反义词: —
 - 主题: [[topic-vardagsrutin]]
 

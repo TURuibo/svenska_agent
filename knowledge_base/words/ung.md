@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "年轻的；年幼的"
 en: "young"
-synonyms: []
+synonyms: [ungdomlig]
 antonyms: [gammal]
-family: []
+family: [ungdom, unge]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ung — adjektiv
 
 📖 中文：年轻的；年幼的 · English: young
+
+🇸🇪 Förklaring: som har levt en kort tid; som inte är gammal
+
 发音提示：/ɵŋ/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ungdom]] (青春；青年), [[unge]] (幼崽)
-- 同义词: —
+- 同义词: [[ungdomlig]] (年轻的)
 - 反义词: [[gammal]]
 - 主题: [[topic-djur]]
 

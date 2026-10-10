@@ -23,6 +23,9 @@ interval: 0
 # påbörja — verb
 
 📖 中文：开始、启动 · English: to begin/initiate
+
+🇸🇪 Förklaring: sätta igång med något, till exempel ett arbete eller en utbildning
+
 发音提示：重音在第二音节：på-BÖR-ja。
 
 ## 语法变形 (Forms)

@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 值得的；值（多少钱）
 en: worth
-synonyms: []
-antonyms: []
-family: []
+synonyms: [lönt]
+antonyms: [värdelös]
+family: [värde, värdefull, värdera]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # värd — adjektiv
 
 📖 中文：值得的；值…钱 · English: worth
+
+🇸🇪 Förklaring: som kostar eller motsvarar en viss summa; som förtjänar något
+
 发音提示：/væːɖ/；`rd` 连读成卷舌 /ɖ/，元音 `ä` 在 r 前读 /æː/。
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: värde（名词：价值）, värdefull（有价值的）, värdera（评估）
-- 同义词:
-- 反义词: värdelös（没价值的）
+- 词族: [[värde]]（名词：价值）, [[värdefull]]（有价值的）, [[värdera]]（评估）
+- 同义词: [[lönt]] (值得的)
+- 反义词: [[värdelös]]（没价值的）
 - 主题:
 
 ## 用法提示 (Usage Notes)

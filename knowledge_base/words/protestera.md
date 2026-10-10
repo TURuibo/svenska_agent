@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "抗议"
 en: "to protest"
-synonyms: []
-antonyms: []
-family: ["protest"]
+synonyms: [invända, demonstrera]
+antonyms: [instämma, acceptera]
+family: [protest]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-de-tycker-inte-att-sveriges
@@ -24,6 +24,9 @@ interval: 0
 # protestera — verb (grupp 1)
 
 📖 中文：抗议 · English: to protest
+
+🇸🇪 Förklaring: säga eller visa att man inte håller med om något
+
 发音提示：[pro-tes-TE-ra] — 重音在第三音节
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: protest (en) — 抗议（名词）
+- 词族: [[protest]] (en) — 抗议（名词）
+- 同义词: [[invända]] (反对), [[demonstrera]] (示威)
+- 反义词: [[instämma]] (同意), [[acceptera]] (接受)
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-06-29-nyheter-8sidor]]
 

@@ -9,7 +9,7 @@ zh: "广场；集市广场"
 en: "town square / square"
 synonyms: [plaza, torget]
 antonyms: []
-family: [torgdag, torget, torghandel]
+family: [torgdag, torghandel, torget]
 topics:
   - topic-stadsmiljo
 sentences:
@@ -27,6 +27,9 @@ interval: 0
 # torg — substantiv (ett)
 
 📖 中文：广场；集市广场 · English: town square / square
+
+🇸🇪 Förklaring: öppen plats i en stad där man kan handla och träffas
+
 发音提示：torg（单音节）。
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[torgdag]] (集市日), [[torghandel]] (集市贸易)
-- 同义词: —
+- 词族: [[torgdag]] (集市日), [[torghandel]] (集市贸易), [[torget]]
+- 同义词: [[plaza]], [[torget]]
 - 反义词: —
 - 主题: [[topic-stadsmiljo]]
 

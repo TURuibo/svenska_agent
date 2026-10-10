@@ -9,7 +9,7 @@ zh: 训练；练习
 en: to practise; to train
 synonyms: [öva]
 antonyms: []
-family: []
+family: [träning, tränare, träningspass]
 topics: [topic-förskola-vardag]
 sentences: [sent-när-vi-sjunger-och-målar-tränar]
 known: false
@@ -19,6 +19,9 @@ created: 2026-09-26
 # träna — verb (grupp 1)
 
 📖 中文：训练；练习 · English: to practise; to train
+
+🇸🇪 Förklaring: göra något många gånger för att bli bättre; röra på kroppen för att bli starkare
+
 发音提示：/ˈtrɛːna/ — ä 长音。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ created: 2026-09-26
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[träning]] (训练), [[tränare]] (教练), [[träningspass]] (训练课)
 - 同义词: [[öva]]（练习）
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

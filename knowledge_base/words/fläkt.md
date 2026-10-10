@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "风扇；电扇"
 en: "(electric) fan, ventilator"
-synonyms: []
+synonyms: [ventilator]
 antonyms: []
-family: ["fläkta"]
+family: [fläkta]
 topics: ["topic-vader-och-arstider", "topic-hemmet"]
 sentences: ["sent-folk-i-frankrike-har-ocksa-kopt"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fläkt — substantiv
 
 📖 中文：风扇；电扇 · English: (electric) fan, ventilator
+
+🇸🇪 Förklaring: apparat som får luften att röra sig och ger svalka eller ventilation
+
 发音提示：fläkt
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fläkta]]
-- 同义词:
-- 反义词:
+- 同义词: [[ventilator]] (通风机)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

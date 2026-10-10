@@ -7,8 +7,8 @@ genus: "en"
 cefr: "A2"
 zh: "日常；工作日"
 en: "everyday life; weekday"
-synonyms: []
-antonyms: []
+synonyms: [arbetsdag, veckodag]
+antonyms: [helg]
 family: [vardagsrum, vardagsrutin]
 topics: [topic-vardagsrutin]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # vardag — substantiv (en)
 
 📖 中文：日常；工作日 · English: everyday life; weekday
+
+🇸🇪 Förklaring: vanlig dag som inte är helgdag; det vanliga livet med jobb och rutiner
+
 发音提示：['vaːrdag]
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[vardagsrum]] (客厅), `vardagsrutin` (日常习惯)
-- 同义词: —
-- 反义词: `helg` (周末/节假日)
+- 词族: [[vardagsrum]] (客厅), [[vardagsrutin]] (日常习惯)
+- 同义词: [[arbetsdag]] (工作日), [[veckodag]] (平日)
+- 反义词: [[helg]] (周末/节假日)
 - 主题: [[topic-vardagsrutin]]
 
 ## 用法提示 (Usage Notes)

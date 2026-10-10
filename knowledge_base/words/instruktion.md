@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "指令"
 en: "instruction"
-synonyms: []
+synonyms: [anvisning, föreskrift]
 antonyms: []
-family: []
+family: [instruera, instruktör]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # instruktion — substantiv
 
 📖 中文：指令 · English: instruction
+
+🇸🇪 Förklaring: förklaring av hur man ska göra något, ofta steg för steg
+
 发音提示：/instrʉkˈʃuːn/ — 重音在 -tion，读 /ʃuːn/
 
 ## 语法变形 (Forms)
@@ -44,6 +47,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[instruera]] (指导), [[instruktör]] (教练)
+- 同义词: [[anvisning]] (指示), [[föreskrift]] (规定)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

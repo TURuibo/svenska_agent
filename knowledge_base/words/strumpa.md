@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "袜子"
 en: "sock"
-synonyms: []
+synonyms: [socka]
 antonyms: []
-family: []
+family: [strumpbyxor, knästrumpa]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # strumpa — substantiv (en-ord)
 
 📖 中文：袜子 · English: sock
+
+🇸🇪 Förklaring: plagg av tunt tyg som man har på foten innanför skon
+
 发音提示：/ˈstrɵmpa/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[strumpbyxor]] (连裤袜), [[knästrumpa]] (及膝袜)
+- 同义词: [[socka]] (袜子)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "坚决的；定冠的"
 en: "firm; definite"
-synonyms: ["beslutsam"]
-antonyms: ["obestämd"]
-family: ["bestämma"]
+synonyms: [beslutsam]
+antonyms: [obestämd]
+family: [bestämma]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # bestämd — adjektiv
 
 📖 中文：坚决的；定冠的 · English: firm; definite
+
+🇸🇪 Förklaring: som vet vad man vill och inte ändrar sig lätt; i grammatik: om en form som visar att något är känt, som ”huset”
+
+发音提示：/beˈstɛmd/ — 重音在 stäm，ä 读短音
 
 ## 语法变形 (Forms)
 

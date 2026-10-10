@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "素食的"
 en: "vegetarian"
-synonyms: []
+synonyms: [köttfri]
 antonyms: []
-family: []
+family: [vegetarian]
 topics: [topic-mat-dryck]
 sentences:
   - sent-dagens-rätt-är-en-vegetarisk-pasta
@@ -24,6 +24,9 @@ interval: 0
 # vegetarisk — adjektiv
 
 📖 中文：素食的 · English: vegetarian
+
+🇸🇪 Förklaring: som inte innehåller kött eller fisk
+
 发音提示：ve-ge-TA-risk
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vegetarian (名词，素食者)
+- 词族: [[vegetarian]] (名词，素食者)
+- 同义词: [[köttfri]] (无肉的)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: 注意；关注
 en: attention
-synonyms: []
-antonyms: []
-family: []
+synonyms: [fokus, intresse]
+antonyms: [ouppmärksamhet, likgiltighet]
+family: [uppmärksam, uppmärksamma, märka]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # uppmärksamhet — substantiv (en)
 
 📖 中文：注意；关注 · English: attention
+
+🇸🇪 Förklaring: det att man noga tittar, lyssnar och tänker på något; intresse som andra visar för någon eller något
+
 发音提示：/ˈɵpːmærksamheːt/
 
 ## 语法变形 (Forms)
@@ -40,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[uppmärksam]] (专注的), [[uppmärksamma]] (注意到), [[märka]] (察觉)
+- 同义词: [[fokus]] (焦点), [[intresse]] (兴趣)
+- 反义词: [[ouppmärksamhet]] (不注意), [[likgiltighet]] (冷漠)
 - 主题: 
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "存在；有"
 en: "to exist; there is/are"
-synonyms: []
-antonyms: []
-family: [finn, finnig, hitta]
+synonyms: [existera]
+antonyms: [saknas]
+family: [hitta, finn, finnig]
 topics: [topic-rumsliga-relationer]
 sentences:
   - sent-pa-skrivbordet-finns-en-dator-glas-vatten
@@ -26,6 +26,9 @@ interval: 0
 # finnas — verb (grupp 4 / stark verb)
 
 📖 中文：存在；有 · English: to exist; there is/are
+
+🇸🇪 Förklaring: vara till och kunna hittas på en viss plats eller i en viss tid
+
 发音提示：FIN-nas；två stavelser.
 
 ## 语法变形 (Forms)
@@ -54,9 +57,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hitta]] (找到，不同义但相关)
-- 同义词: —
-- 反义词: —
+- 词族: [[hitta]] (找到，不同义但相关), [[finn]], [[finnig]]
+- 同义词: [[existera]] (存在)
+- 反义词: [[saknas]] (缺少)
 - 主题: [[topic-rumsliga-relationer]]
 
 ## 用法提示 (Usage Notes)

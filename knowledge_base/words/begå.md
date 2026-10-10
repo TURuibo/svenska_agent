@@ -6,7 +6,7 @@ verbgrupp: "oregelbundet"
 cefr: B2
 zh: 犯（罪、错）
 en: to commit
-synonyms: []
+synonyms: [göra-sig-skyldig-till]
 antonyms: []
 family: [gå]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # begå — verb (oregelbundet, som gå)
 
 📖 中文：犯（罪/错误） · English: to commit (a crime/mistake)
+
+🇸🇪 Förklaring: göra något som är fel eller olagligt, till exempel ett brott eller ett misstag
+
 发音提示：/beˈɡoː/
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gå]]
-- 同义词:
-- 反义词:
+- 同义词: [[göra-sig-skyldig-till|göra sig skyldig till]] (犯有)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

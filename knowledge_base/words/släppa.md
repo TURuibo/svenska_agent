@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: A2
 zh: 放开；让……进入；排放
 en: to let go; to release
-synonyms: []
+synonyms: [frige, lossa]
 antonyms: [hålla]
-family: []
+family: [utsläpp, släppa-in, slippa]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # släppa — verb (grupp 2)
 
 📖 中文：放开；让……进入；排放 · English: to let go; to release
+
+🇸🇪 Förklaring: 1) sluta hålla i något; 2) låta någon komma in eller ut; 3) låta något komma ut i luften eller vattnet
+
 发音提示：/ˈslɛpa/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: hålla
+- 词族: [[utsläpp]] (排放), [[släppa-in|släppa in]] (放进来), [[slippa]] (免于)
+- 同义词: [[frige]] (释放), [[lossa]] (松开)
+- 反义词: [[hålla]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

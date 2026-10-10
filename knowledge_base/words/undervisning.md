@@ -6,7 +6,7 @@ genus: "en"
 cefr: "B1"
 zh: "教学，授课"
 en: "teaching, instruction"
-synonyms: []
+synonyms: [lektion, utbildning]
 antonyms: []
 family: [undervisa]
 topics: [topic-skola-och-utbildning]
@@ -22,7 +22,10 @@ interval: 0
 # undervisning — substantiv
 
 📖 中文：教学，授课 · English: teaching, instruction
-发音提示：
+
+🇸🇪 Förklaring: det att en lärare lär ut kunskaper och färdigheter till elever
+
+发音提示：/ˈɵnːdɛrˌviːsnɪŋ/ — 重音在 un，vi 为次重音
 
 ## 语法变形 (Forms)
 
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[undervisa]]
-- 同义词: —
+- 同义词: [[lektion]] (课), [[utbildning]] (教育)
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 

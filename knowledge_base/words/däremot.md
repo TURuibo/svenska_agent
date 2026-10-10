@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "然而、相反"
 en: "on the other hand"
-synonyms: []
+synonyms: [å-andra-sidan, i-stället, dock]
 antonyms: []
-family: []
+family: [där, emot]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # däremot — adverb (satsadverbial)
 
 📖 中文：然而、相反 · English: on the other hand
+
+🇸🇪 Förklaring: används för att visa en skillnad eller en motsats mot det man nyss har sagt
+
 发音提示：dä-re-MOT
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ Oböjligt satsadverbial. Se [[grammar-däremot]] för ordföljd (fundament → V
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[där]] (那里), [[emot]] (对着)
+- 同义词: [[å-andra-sidan|å andra sidan]] (另一方面), [[i-stället|i stället]] (反而), [[dock]] (然而)
+- 反义词: —
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

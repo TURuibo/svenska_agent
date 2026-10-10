@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: "饼干、蛋糕"
 en: "cookie, cake, biscuit"
-synonyms: ["tårta"]
+synonyms: [tårta]
 antonyms: []
-family: []
+family: [bakelse, pepparkakor]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kaka — substantiv (en-ord)
 
 📖 中文：饼干、蛋糕 · English: cookie, cake, biscuit
+
+🇸🇪 Förklaring: sött bakverk, antingen litet och platt eller stort och mjukt så att man skär det i bitar
+
 发音提示：['kɑːka]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bakelse, pepparkakor
+- 词族: [[bakelse]], [[pepparkakor]]
 - 同义词: [[tårta]]（更正式的层蛋糕）
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

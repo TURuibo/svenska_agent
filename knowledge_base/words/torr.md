@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 干燥的
 en: dry
-synonyms: []
-antonyms: ["fuktig"]
-family: []
+synonyms: [uttorkad]
+antonyms: [fuktig]
+family: [torka]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # torr — adjektiv
 
 📖 中文：干燥的 · English: dry
+
+🇸🇪 Förklaring: som inte har något vatten eller någon fukt i sig
+
 发音提示：/tɔr/
 
 ## 语法变形 (Forms)
@@ -47,8 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: [[fuktig]]
 - 词族: [[torka]]（动词：变干；名词：干旱）
+- 同义词: [[uttorkad]] (干涸的)
+- 反义词: [[fuktig]]
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

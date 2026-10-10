@@ -9,7 +9,7 @@ zh: "年；岁"
 en: "year"
 synonyms: []
 antonyms: []
-family: []
+family: [årlig, årligen, årstid, årtionde]
 topics: [topic-tid-och-tidsuttryck]
 sentences: [sent-av-årets-1-100-träningstimmar]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # år — substantiv (ett)
 
 📖 中文：年；岁 · English: year
+
+🇸🇪 Förklaring: tid på tolv månader; används för att säga hur gammal någon är
+
 发音提示：/oːr/（å 读长 oː）
 
 ## 语法变形 (Forms)
@@ -57,9 +60,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[årlig]] (每年的), [[årligen]] (每年), [[årstid]] (季节), [[årtionde]] (十年)
+- 同义词: —
+- 反义词: —
 - 相关: [[månad]], [[vecka]], [[dag]]
 - 主题: [[topic-tid-och-tidsuttryck]]
 

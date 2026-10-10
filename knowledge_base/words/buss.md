@@ -8,7 +8,7 @@ zh: 公共汽车；巴士
 en: bus
 synonyms: []
 antonyms: []
-family: ["busshållplats", "bussföraree"]
+family: [busshållplats, hållplats, bussföraree]
 topics: ["topic-trafik", "topic-kollektivtrafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # buss — substantiv (en-ord)
 
 📖 中文：公共汽车；巴士 · English: bus
+
+🇸🇪 Förklaring: stort fordon som kör många passagerare längs en bestämd linje
+
 发音提示：/bɵsː/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[busshållplats]] (公交站), [[hållplats]]
+- 词族: [[busshållplats]] (公交站), [[hållplats]], [[bussföraree]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-trafik]], [[topic-kollektivtrafik]]

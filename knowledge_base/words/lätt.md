@@ -6,9 +6,9 @@ genus: ""
 cefr: A1
 zh: "轻的、容易的"
 en: "light / easy"
-synonyms: []
-antonyms: ["tung", "svår"]
-family: ["lätthet"]
+synonyms: [enkel, okomplicerad]
+antonyms: [tung, svår]
+family: [lätthet]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lätt — adjektiv
 
 📖 中文：轻的、容易的 · English: light / easy
+
+🇸🇪 Förklaring: 1) som inte väger mycket; 2) som inte är svår att göra eller förstå
+
 发音提示：/lɛtː/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lätthet]]
-- 同义词: —
+- 同义词: [[enkel]] (简单的), [[okomplicerad]] (不复杂的)
 - 反义词: [[tung]], [[svår]]
 - 主题: [[topic-djur]]
 

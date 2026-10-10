@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "联系；关联"
 en: "connection, relationship"
-synonyms: []
+synonyms: [koppling, relation]
 antonyms: []
 family: [sammanhang]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-09
 # samband — substantiv ett
 
 📖 中文：联系；关联 · English: connection, relationship
+
+🇸🇪 Förklaring: hur två eller flera saker hänger ihop eller påverkar varandra
+
+发音提示：/ˈsamːˌband/ — 复合词，重音在 sam
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ created: 2026-10-09
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sammanhang]]
-- 同义词: —
+- 同义词: [[koppling]] (联系), [[relation]] (关系)
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

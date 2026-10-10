@@ -9,7 +9,7 @@ zh: "电视机"
 en: "television"
 synonyms: [tv, teve]
 antonyms: []
-family: [tv, fjärrkontroll, kanal, program]
+family: [fjärrkontroll, kanal, program, tv]
 topics: [topic-hemmet]
 sentences:
   - sent-television-hanger-pa-vaggen-mitt-emot-soffan
@@ -24,6 +24,9 @@ interval: 0
 # television — substantiv (en)
 
 📖 中文：电视机 · English: television
+
+🇸🇪 Förklaring: apparat som visar program med bild och ljud; den teknik som sänder ut sådana program
+
 发音提示：te-le-vi-SI-on；fem stavelser.
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[fjärrkontroll]] (遥控器), [[kanal]] (频道), [[program]] (节目)
+- 词族: [[fjärrkontroll]] (遥控器), [[kanal]] (频道), [[program]] (节目), [[tv]]
 - 同义词: [[tv]] (电视，日常口语), [[teve]] (电视，非正式)
 - 反义词: —
 - 主题: [[topic-hemmet]]

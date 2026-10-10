@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "集体唱歌时间（幼儿园的歌唱集合）"
 en: "singing circle time"
-synonyms: []
+synonyms: [sångstund]
 antonyms: []
 family: [sång, samling, sjunga]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sångsamling — substantiv
 
 📖 中文：集体唱歌时间（幼儿园的歌唱集合） · English: singing circle time
+
+🇸🇪 Förklaring: stund i förskolan då barn och personal samlas för att sjunga tillsammans
+
 发音提示：/ˈsoŋːˌsamliŋ/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sång]], [[samling]], [[sjunga]]
+- 同义词: [[sångstund]] (唱歌时间)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

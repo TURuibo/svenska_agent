@@ -19,6 +19,9 @@ created: "2026-10-05"
 # fot — substantiv (en)
 
 📖 中文：脚 · English: foot
+
+🇸🇪 Förklaring: den nedersta delen av benet, som man står och går på
+
 发音提示：/fuːt/；长 o 读 /uː/。
 
 ## 语法变形 (Forms)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "太棒了；顶级的；（名词 topp 的限定式）顶峰"
 en: "great; awesome; top"
-synonyms: ["fantastisk", "utmärkt"]
-antonyms: []
-family: ["topp"]
+synonyms: [fantastisk, utmärkt]
+antonyms: [dålig]
+family: [topp]
 topics: ["topic-karaktarsord"]
 sentences: ["sent-toppen-vi-ses-klockan-fem"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # toppen — adjektiv / utrop
 
 📖 中文：太棒了；顶级的 · English: great; awesome; top
+
+🇸🇪 Förklaring: används för att säga att något är mycket bra (vardagligt)
+
 发音提示：TOPP-en
 
 ## 语法变形 (Forms)
@@ -46,7 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[topp]]
-- 同义词: [[fantastisk]] · [[utmärkt]]
+- 同义词: [[fantastisk]] · [[utmärkt]], [[utmärkt]]
+- 反义词: [[dålig]] (差的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

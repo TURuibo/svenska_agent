@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "烤的；焙的"
 en: "roasted"
 synonyms: [grillad]
-antonyms: []
-family: []
+antonyms: [rå]
+family: [rosta, rostning]
 topics: [topic-mat-dryck]
 sentences:
   - sent-ja-vi-har-en-fläskfilé
@@ -24,6 +24,9 @@ interval: 0
 # rostad — adjektiv
 
 📖 中文：烤的；焙的 · English: roasted
+
+🇸🇪 Förklaring: som har värmts så att den blivit brun och knaprig, till exempel bröd eller nötter
+
 发音提示：ROS-tad
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: rosta (动词，烤/烘焙), rostning (名词)
+- 词族: [[rosta]] (动词，烤/烘焙), [[rostning]] (名词)
 - 同义词: [[grillad]]
+- 反义词: [[rå]] (生的)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

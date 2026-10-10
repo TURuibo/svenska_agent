@@ -9,7 +9,7 @@ zh: "葡萄"
 en: "grape"
 synonyms: []
 antonyms: []
-family: ["vindruva"]
+family: [vindruva]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # druva — substantiv (en)
 
 📖 中文：葡萄 · English: grape
+
+🇸🇪 Förklaring: liten rund grön eller blå frukt som växer i klasar och som man gör vin av
+
 发音提示：DRUː-va
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vindruva（酿酒葡萄）
+- 词族: [[vindruva]]（酿酒葡萄）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

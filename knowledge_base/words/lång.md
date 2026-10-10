@@ -6,9 +6,9 @@ genus: ""
 cefr: "A1"
 zh: "长的、高的"
 en: "long, tall"
-synonyms: []
-antonyms: ["kort"]
-family: ["längd", "längta"]
+synonyms: [reslig, långvarig]
+antonyms: [kort]
+family: [längd, längta]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lång — adjektiv
 
 📖 中文：长的、高的 · English: long, tall
+
+🇸🇪 Förklaring: som har stor utsträckning från den ena änden till den andra eller som varar länge; (om person) som är hög
+
 发音提示：/lɔŋ/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[längd]], [[längta]]
+- 同义词: [[reslig]] (身材高大的), [[långvarig]] (长时间的)
 - 反义词: [[kort]]
 - 主题: [[topic-personer]]
 

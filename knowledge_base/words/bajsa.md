@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "拉臭臭"
 en: "to poop"
-synonyms: []
+synonyms: [kacka]
 antonyms: []
-family: [kissa]
+family: [kissa, bajs]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # bajsa — verb (grupp 1)
 
 📖 中文：拉臭臭（儿语/口语） · English: to poop
+
+🇸🇪 Förklaring: gå på toaletten och tömma tarmen (vardagligt ord, ofta till barn)
+
 发音提示：/ˈbajsa/ — aj 读如英语 "eye"。
 
 ## 语法变形 (Forms)
@@ -41,8 +44,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kissa]] (成对的儿语词), bajs（名词）
-- 同义词: —
+- 词族: [[kissa]] (成对的儿语词), [[bajs]]（名词）
+- 同义词: [[kacka]] (拉屎（儿语）)
 - 反义词: —
 - 主题: [[topic-småbarn-mat-och-sömn]], [[topic-förskola-vardag]]
 

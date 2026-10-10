@@ -25,6 +25,9 @@ interval: 0
 # bok — substantiv (en)
 
 📖 中文：书 · English: book
+
+🇸🇪 Förklaring: många sidor med text som sitter ihop mellan två pärmar
+
 发音提示：bok（单音节）；lång o-ljud。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bokhylla]] (书架), [[bokförlag]] (出版社), [[bokhandel]] (书店)
+- 词族: [[bokhylla]] (书架), [[bokförlag]] (出版社), [[bokhandel]] (书店), [[läsning]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]]

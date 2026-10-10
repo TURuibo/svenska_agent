@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: B1
 zh: 移动；触动；碰
 en: to move; to touch; to stir
-synonyms: []
+synonyms: [flytta, vidröra, beröra]
 antonyms: []
-family: []
+family: [rörelse]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # röra — verb (grupp 2)
 
 📖 中文：移动；触动；碰 · English: to move; to touch; to stir
+
+🇸🇪 Förklaring: 1) flytta en del av kroppen eller något annat; 2) ta lätt på något; 3) väcka starka känslor hos någon
+
+发音提示：/ˈrœːra/ — ö 在 r 前读 /œː/
 
 ## 语法变形 (Forms)
 
@@ -44,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: rörelse (en, 运动)
-- 同义词:
-- 反义词:
+- 词族: [[rörelse]] (en, 运动)
+- 同义词: [[flytta]] (移动), [[vidröra]] (触碰), [[beröra]] (触动)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "惊喜；意外"
 en: "surprise"
 synonyms: []
 antonyms: []
-family: []
+family: [överraska]
 topics: []
 sentences:
   - sent-vi-har-en-liten-överraskning-till
@@ -24,6 +24,9 @@ interval: 0
 # överraskning — substantiv (en)
 
 📖 中文：惊喜；意外 · English: surprise
+
+🇸🇪 Förklaring: något som man inte väntar sig, ofta något roligt
+
 发音提示：/ˌøːvɛrˈrasnɪŋ/
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: överraska (verb)
-- 同义词:
-- 反义词:
+- 词族: [[överraska]] (verb)
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

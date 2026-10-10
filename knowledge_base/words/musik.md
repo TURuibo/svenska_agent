@@ -19,6 +19,10 @@ created: "2026-10-01"
 
 📖 中文：音乐 · English: music
 
+🇸🇪 Förklaring: toner och ljud som man sjunger eller spelar på instrument
+
+发音提示：/mɵˈsiːk/ — 重音在 sik；i 读长音
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: musiker (en, 音乐家)
-- 同义词:
-- 反义词:
+- 词族: [[musiker]] (en, 音乐家)
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

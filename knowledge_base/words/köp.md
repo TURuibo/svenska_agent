@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 购买；交易
 en: purchase
-synonyms: []
+synonyms: [inköp, affär]
 antonyms: [försäljning]
-family: []
+family: [köpa]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # köp — substantiv (ett-ord)
 
 📖 中文：购买、交易 · English: purchase
+
+🇸🇪 Förklaring: det att man betalar pengar för att få en vara eller tjänst
+
+发音提示：/ɕøːp/ — k 在 ö 前读 ɕ；ö 读长音
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: köpa（买）
-- 同义词:
-- 反义词: försäljning
+- 词族: [[köpa]]（买）
+- 同义词: [[inköp]] (采购), [[affär]] (交易)
+- 反义词: [[försäljning]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

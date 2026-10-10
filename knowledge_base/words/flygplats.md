@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 机场
 en: airport
-synonyms: []
+synonyms: [flygfält]
 antonyms: []
-family: ["flyga", "plats"]
+family: [flyga, plats]
 topics: ["topic-trafik", "topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # flygplats — substantiv (en)
 
 📖 中文：机场 · English: airport
+
+🇸🇪 Förklaring: område med terminaler och banor där flygplan startar och landar
+
 发音提示：FLYG-plats
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[flyga]], [[plats]]
+- 同义词: [[flygfält]] (飞行场)
+- 反义词: —
 - 主题: [[topic-trafik]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: "俱乐部球队"
 en: "club team"
 synonyms: []
 antonyms: []
-family: ["lag", "landslag"]
+family: [lag, landslag]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # klubblag — substantiv
 
 📖 中文：俱乐部球队 · English: club team
+
+🇸🇪 Förklaring: lag som spelar för en idrottsförening och inte för ett land
+
 发音提示：['klɵbˌlaːg]
 
 ## 语法变形 (Forms)

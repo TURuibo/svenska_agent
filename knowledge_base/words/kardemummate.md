@@ -8,7 +8,7 @@ zh: 小豆蔻茶
 en: cardamom tea
 synonyms: []
 antonyms: []
-family: []
+family: [te, kardemumma, kardemummabulle]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kardemummate — substantiv (ett)
 
 📖 中文：小豆蔻茶 · English: cardamom tea
+
+🇸🇪 Förklaring: varm dryck av torkade blad som har fått smak av kryddan kardemumma
+
 发音提示：kar-deh-MUM-mah-teh
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[te]] (茶), kardemumma (小豆蔻), [[kardemummabulle]]
+- 词族: [[te]] (茶), [[kardemumma]] (小豆蔻), [[kardemummabulle]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

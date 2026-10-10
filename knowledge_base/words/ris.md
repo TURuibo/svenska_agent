@@ -9,7 +9,7 @@ zh: "米饭"
 en: "rice"
 synonyms: []
 antonyms: []
-family: []
+family: [risgrynsgröt]
 topics:
   - topic-mat-dryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # ris — substantiv (ett)
 
 📖 中文：米饭 · English: rice
+
+🇸🇪 Förklaring: små vita eller bruna korn som man kokar och äter, särskilt i Asien
+
 发音提示：/riːs/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: risgrynsgröt（米粥）
+- 词族: [[risgrynsgröt]]（米粥）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

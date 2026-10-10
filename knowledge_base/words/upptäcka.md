@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "发现，探索"
 en: "to discover, to explore"
-synonyms: ["finna", "utforska"]
-antonyms: []
-family: ["upptäckt", "upptäcktsresa"]
+synonyms: [utforska, finna]
+antonyms: [missa, förbise]
+family: [upptäckt, upptäcktsresa]
 topics: ["topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # upptäcka — verb (grupp 2)
 
 📖 中文：发现，探索 · English: to discover, to explore
+
+🇸🇪 Förklaring: se eller hitta något för första gången; märka något som man inte visste om förut
+
 发音提示：[ˈɵpˌtɛka]
 
 ## 语法变形 (Forms)
@@ -51,7 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[upptäckt]], [[upptäcktsresa]]
-- 同义词: [[utforska]]
+- 同义词: [[utforska]], [[finna]]
+- 反义词: [[missa]] (错过), [[förbise]] (忽视)
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

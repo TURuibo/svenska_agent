@@ -6,9 +6,9 @@ genus: ett
 cefr: "A1"
 zh: "卧室"
 en: "bedroom"
-synonyms: []
+synonyms: [sängkammare]
 antonyms: []
-family: []
+family: [sova, rum]
 topics: [topic-hemmet]
 sentences:
   - sent-en-man-kastade-in-en-handgranat-i-sovrum
@@ -24,6 +24,9 @@ interval: 0
 # sovrum — substantiv
 
 📖 中文：卧室 · English: bedroom
+
+🇸🇪 Förklaring: rum där man har sin säng och lägger sig på natten
+
 发音提示：SOV-rum
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sova]], [[rum]]
+- 同义词: [[sängkammare]] (卧室（旧）)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

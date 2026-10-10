@@ -6,7 +6,7 @@ verbgrupp: "4"
 cefr: B1
 zh: 取决于；起因于（bero på）
 en: to depend on, to be due to
-synonyms: []
+synonyms: [hänga-på, komma-sig-av]
 antonyms: []
 family: [beroende]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # bero — verb (grupp 4)
 
 📖 中文：取决于；由……引起 · English: to depend on, be due to
+
+🇸🇪 Förklaring: (används med på) ha något som orsak; avgöras av något annat
+
 发音提示：/beˈruː/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[beroende]]
-- 同义词:
-- 反义词:
+- 同义词: [[hänga-på|hänga på]] (取决于), [[komma-sig-av|komma sig av]] (起因于)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

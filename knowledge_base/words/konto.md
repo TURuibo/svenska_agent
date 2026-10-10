@@ -9,7 +9,7 @@ zh: "账户"
 en: "account"
 synonyms: []
 antonyms: []
-family: []
+family: [bankkonto, kontonummer, kontoutdrag, sparkonto]
 topics: ["topic-bedrageri-bank-sakerhet", "topic-betalning"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # konto — substantiv (ett)
 
 📖 中文：账户 · English: account
+
+🇸🇪 Förklaring: 1) avtal med en bank där man kan sätta in och ta ut pengar; 2) personlig inloggning på en webbplats eller i en app
+
 发音提示：KON-to
 
 ## 语法变形 (Forms)
@@ -43,6 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[bankkonto]] (银行账户), [[kontonummer]] (账号), [[kontoutdrag]] (对账单), [[sparkonto]] (储蓄账户)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-bedrageri-bank-sakerhet]], [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

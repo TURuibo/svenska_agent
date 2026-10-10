@@ -6,9 +6,9 @@ genus: en
 cefr: "B1"
 zh: "调查，研究；检查"
 en: "survey, study, investigation; examination"
-synonyms: []
+synonyms: [studie, utredning, kontroll]
 antonyms: []
-family: []
+family: [undersöka, söka]
 topics:
   - topic-hälsa
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # undersökning — substantiv (en)
 
 📖 中文：调查，研究；检查 · English: survey, study, investigation; examination
+
+🇸🇪 Förklaring: det att man noga går igenom något för att ta reda på fakta; kontroll av kroppen hos en läkare
+
 发音提示：un-der-SÖK-ning
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[undersöka]] (检查；调查), [[söka]] (寻找)
+- 同义词: [[studie]] (研究), [[utredning]] (调查), [[kontroll]] (检查)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "难过的/伤心的"
 en: "sad, sorry"
-synonyms: []
-antonyms: ["glad", "lycklig"]
-family: []
+synonyms: [sorgsen, nedstämd]
+antonyms: [glad, lycklig]
+family: [ledsna]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ledsen — adjektiv
 
 📖 中文：难过的/伤心的 · English: sad, sorry
+
+🇸🇪 Förklaring: som känner sorg och är olycklig; används också när man ber om ursäkt
+
 发音提示：/ˈleːdsɛn/ — "led-sen"
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[ledsna]] (厌倦)
+- 同义词: [[sorgsen]] (悲伤的), [[nedstämd]] (沮丧的)
 - 反义词: [[glad]], [[lycklig]]
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 

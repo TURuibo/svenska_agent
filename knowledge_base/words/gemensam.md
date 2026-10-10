@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "共同的"
 en: "common/shared"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [delad, ömsesidig]
+antonyms: [enskild, egen]
+family: [gemenskap, gemensamt]
 topics: [topic-kultur-tradition]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gemensam — adjektiv
 
 📖 中文：共同的 · English: common/shared
+
+🇸🇪 Förklaring: som två eller flera har eller gör tillsammans
+
 发音提示：ge-MEN-sam
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[gemenskap]] (共同体), [[gemensamt]] (共同地)
+- 同义词: [[delad]] (共享的), [[ömsesidig]] (相互的)
+- 反义词: [[enskild]] (个人的), [[egen]] (自己的)
 - 主题: [[topic-kultur-tradition]]
 
 ## 用法提示 (Usage Notes)

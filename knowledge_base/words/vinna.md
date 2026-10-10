@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: "A2"
 zh: "赢得"
 en: "to win"
-synonyms: []
+synonyms: [segra]
 antonyms: [förlora]
-family: []
+family: [vinnare, vinst, vinnande]
 topics: []
 sentences: [sent-mycket-har-blivit-bättre-för]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # vinna — verb
 
 📖 中文：赢得 · English: to win
-发音提示：
+
+🇸🇪 Förklaring: bli bäst i en tävling eller ett spel; få något, till exempel ett pris
+
+发音提示：/ˈvɪnːa/ — i 读短音，n 拉长
 
 ## 语法变形 (Forms)
 
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[vinnare]] (赢家), [[vinst]] (胜利；利润), [[vinnande]] (获胜的)
+- 同义词: [[segra]] (获胜)
 - 反义词: [[förlora]]
 - 主题: —
 

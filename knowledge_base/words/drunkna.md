@@ -9,7 +9,7 @@ zh: 溺水；溺死
 en: to drown
 synonyms: []
 antonyms: []
-family: ["drunknad", "drunkning"]
+family: [drunknad, drunkning]
 topics: ["topic-hälsa", "topic-vader-och-arstider"]
 sentences:
   - "sent-den-senaste-veckan-har-ca-40"
@@ -24,6 +24,9 @@ interval: 0
 # drunkna — verb
 
 📖 中文：溺水；溺死 · English: to drown
+
+🇸🇪 Förklaring: dö genom att hamna under vattnet och inte kunna andas
+
 发音提示：[ˈdrɵŋkna] — obs: ej "drunkara" (det är ett fel)
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: drunknad (drowned, adj.), drunkning (drowning, noun)
+- 词族: [[drunknad]] (drowned, adj.), [[drunkning]] (drowning, noun)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

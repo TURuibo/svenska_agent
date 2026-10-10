@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 腌制的
 en: pickled / preserved
-synonyms: ["saltad", "marinerad"]
-antonyms: ["färsk"]
-family: ["lägga", "lägga in"]
+synonyms: [saltad, marinerad]
+antonyms: [färsk]
+family: [lägga, lägga-in]
 topics: ["topic-midsommar-traditioner", "topic-mat-dryck"]
 sentences:
   - sent-sillen-ar-inlagd-och-potatisarna-serveras
@@ -23,6 +23,9 @@ interval: 0
 # inlagd — adjektiv
 
 📖 中文：腌制的 · English: pickled / preserved
+
+🇸🇪 Förklaring: som har förvarats i en vätska med ättika, socker och salt så att det håller länge, till exempel sill eller gurka
+
 发音提示：IN-lagd（两音节）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lägga]]（动词 lägga in 的分词）
+- 词族: [[lägga]]（动词 lägga in 的分词）, [[lägga-in]]
 - 同义词: [[saltad]], [[marinerad]]
 - 反义词: [[färsk]]
 - 主题: [[topic-midsommar-traditioner]], [[topic-mat-dryck]]

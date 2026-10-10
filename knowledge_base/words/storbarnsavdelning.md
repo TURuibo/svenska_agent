@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "大班（3–5 岁）"
 en: "older-children's section (of a preschool)"
-synonyms: []
+synonyms: [storbarnsgrupp]
 antonyms: []
 family: [småbarnsavdelning, avdelning, barn, stor, förskola]
 topics: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # storbarnsavdelning — substantiv
 
 📖 中文：大班（3–5 岁） · English: older-children's section (of a preschool)
+
+🇸🇪 Förklaring: grupp på förskolan för de äldre, som är ungefär tre till fem år gamla
+
 发音提示：[ˈstuːrˌbɑːɳsˌɑːvˌdeːlnɪŋ] 复合词，重音在 stor-；-avdelning 的 -ning 结尾一律 en 词。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[småbarnsavdelning]], [[avdelning]], [[barn]], [[stor]], [[förskola]]
-- 同义词: —
+- 同义词: [[storbarnsgrupp]] (大班)
 - 反义词: —
 - 主题: —
 

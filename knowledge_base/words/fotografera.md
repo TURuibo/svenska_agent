@@ -6,7 +6,7 @@ verbgrupp: 1
 cefr: A2
 zh: 拍照；给……拍照
 en: to photograph
-synonyms: []
+synonyms: [fota, plåta]
 antonyms: []
 family: [fotograf, foto]
 topics: [topic-skola-och-utbildning]
@@ -18,6 +18,9 @@ created: 2026-10-07
 # fotografera — verb (grupp 1)
 
 📖 中文：拍照；给……拍照 · English: to photograph
+
+🇸🇪 Förklaring: ta bilder av någon eller något med en kamera
+
 发音提示：[fɔtɔɡraˈfeːra]
 
 ## 语法变形 (Forms)
@@ -39,7 +42,9 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[fotograf]]
+- 词族: [[fotograf]], [[foto]] (照片)
+- 同义词: [[fota]] (拍照), [[plåta]] (拍照（口语）)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

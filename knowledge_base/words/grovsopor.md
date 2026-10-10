@@ -5,7 +5,7 @@ ordklass: substantiv (plural)
 cefr: B1
 zh: 大件垃圾
 en: bulky waste
-synonyms: []
+synonyms: [grovavfall]
 antonyms: []
 family: [sopor]
 topics: [topic-källsortering, topic-grannar-boende]
@@ -17,6 +17,10 @@ created: "2026-10-09"
 # grovsopor — substantiv (plural)
 
 📖 中文：大件垃圾 · English: bulky waste
+
+🇸🇪 Förklaring: stora saker som man slänger, till exempel gamla möbler, och som inte får plats i soptunnan
+
+发音提示：/ˈɡruːvˌsuːpɔr/ — o 读 uː；重音在 grov
 
 ## 语法变形 (Forms)
 
@@ -33,6 +37,8 @@ created: "2026-10-09"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sopor]]
+- 同义词: [[grovavfall]] (大件废物)
+- 反义词: —
 - 主题: [[topic-källsortering]] [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

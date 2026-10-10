@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "安抚奶嘴"
 en: "pacifier, dummy"
-synonyms: []
+synonyms: [tröstnapp]
 antonyms: []
-family: []
+family: [nappflaska, nappkedja]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
 sentences: [sent-jag-har-hängt-upp-overallen-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # napp — substantiv
 
 📖 中文：安抚奶嘴 · English: pacifier, dummy
+
+🇸🇪 Förklaring: liten sak av gummi som ett litet barn suger på för att bli lugnt
+
 发音提示：/nap/，短 a，双写 pp 表示前面元音短。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[nappflaska]] (奶瓶), [[nappkedja]] (奶嘴链)
+- 同义词: [[tröstnapp]] (安抚奶嘴)
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

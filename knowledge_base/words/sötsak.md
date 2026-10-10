@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "甜食"
 en: "sweet, treat"
-synonyms: []
+synonyms: [godis]
 antonyms: []
-family: []
+family: [söt, sak]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sötsak — substantiv
 
 📖 中文：甜食 · English: sweet, treat
+
+🇸🇪 Förklaring: godis, kaka eller annan mat som innehåller mycket socker
+
 发音提示：SÖT-sak
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[söt]] (甜的), [[sak]] (东西)
 - 同义词: [[godis]]（尚无笔记）
 - 反义词: —
 - 主题: [[topic-idrott]]

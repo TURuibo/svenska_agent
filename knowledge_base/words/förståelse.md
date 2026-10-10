@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 理解；体谅；谅解
 en: understanding; comprehension
-synonyms: []
-antonyms: []
-family: [förstå]
+synonyms: [insikt, medkänsla]
+antonyms: [missförstånd]
+family: [förstå, förstående]
 topics: [topic-social-kontakt]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # förståelse — substantiv (en)
 
 📖 中文：理解；体谅；谅解 · English: understanding; comprehension
+
+🇸🇪 Förklaring: det att begripa något; det att visa medkänsla och respekt för någons känslor eller situation
+
 发音提示：för-STÅL-el-se，四音节，重音在第二音节
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: förstå (to understand), förstående (understanding — adjective)
-- 同义词: —
-- 反义词: missförstånd (misunderstanding)
+- 词族: [[förstå]] (to understand), [[förstående]] (understanding — adjective)
+- 同义词: [[insikt]] (领悟), [[medkänsla]] (同情)
+- 反义词: [[missförstånd]] (misunderstanding)
 - 主题: [[topic-social-kontakt]]
 
 ## 用法提示 (Usage Notes)

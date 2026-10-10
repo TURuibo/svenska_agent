@@ -6,9 +6,9 @@ genus: en
 cefr: "A1"
 zh: "周末；假日"
 en: "weekend; holiday"
-synonyms: []
-antonyms: []
-family: [högtid]
+synonyms: [veckoslut]
+antonyms: [vardag]
+family: [högtid, helgdag]
 topics: [topic-fritid-och-resor, topic-social-kontakt, topic-tid-och-tidsuttryck]
 sentences: [sent-jag-är-ledig-hela-helgen]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # helg — substantiv (en)
 
 📖 中文：周末；假日 · English: weekend; holiday
+
+🇸🇪 Förklaring: lördag och söndag när många är lediga från jobbet; ledig period då man firar något, till exempel jul eller påsk
+
 发音提示：[hɛlj]
 
 ## 语法变形 (Forms)

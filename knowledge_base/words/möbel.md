@@ -9,7 +9,7 @@ zh: "家具（单件）"
 en: "piece of furniture"
 synonyms: []
 antonyms: []
-family: ["möblera", "möblering"]
+family: [möblera, möblering]
 topics: ["topic-mobler", "topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # möbel — substantiv
 
 📖 中文：家具（单件） · English: piece of furniture
+
+🇸🇪 Förklaring: stor sak som man har i ett rum, till exempel ett bord, en stol eller en säng
+
 发音提示：/ˈmøːbɛl/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: möblera (布置家具, verb), möblering (家具布置)
+- 词族: [[möblera]] (布置家具, verb), [[möblering]] (家具布置)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mobler]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

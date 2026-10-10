@@ -8,7 +8,7 @@ zh: "女式衬衣"
 en: "blouse"
 synonyms: [skjorta]
 antonyms: []
-family: []
+family: [sidenblus, bomullsblus]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # blus — substantiv (en-ord)
 
 📖 中文：女式衬衣 · English: blouse
+
+🇸🇪 Förklaring: tunt plagg för kvinnor med knappar fram som man har på överkroppen
+
 发音提示：/bluːs/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sidenblus]] (丝绸衬衫), [[bomullsblus]] (棉质衬衫)
 - 同义词: [[skjorta]] (性别中性用词)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

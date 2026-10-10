@@ -19,6 +19,10 @@ created: "2026-10-01"
 
 📖 中文：美食群组 · English: food group (online)
 
+🇸🇪 Förklaring: grupp på internet där människor delar recept och pratar om mat
+
+发音提示：/ˈmɑːtˌɡrɵp/ — 重音在 mat；u 读短音 ɵ
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mat, grupp
-- 同义词:
-- 反义词:
+- 词族: [[mat]], [[grupp]]
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

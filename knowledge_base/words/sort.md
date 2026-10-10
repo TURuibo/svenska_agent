@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 种类
 en: kind, sort
-synonyms: []
+synonyms: [slag, typ]
 antonyms: []
-family: []
+family: [sortera, sortiment, sortering]
 topics: []
 sentences: [sent-forskarna-har-hittat-en-ny-sorts-katt]
 known: false
@@ -18,6 +18,9 @@ created: 2026-10-05
 # sort — substantiv (en-ord)
 
 📖 中文：种类 · English: kind, sort
+
+🇸🇪 Förklaring: grupp av saker eller varelser som har samma egenskaper
+
 发音提示：[sɔʈ]，rt 发卷舌音 [ʈ]
 
 ## 语法变形 (Forms)
@@ -40,6 +43,9 @@ created: 2026-10-05
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sortera]] (分类), [[sortiment]] (商品种类), [[sortering]] (分类整理)
+- 同义词: [[slag]] (种类), [[typ]] (类型)
+- 反义词: —
 - 主题: 来源 [[source-2026-10-05-news-8-sidor]]
 
 ## 用法提示 (Usage Notes)

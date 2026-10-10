@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: "象征，符号"
 en: "symbol"
-synonyms: ["tecken", "emblem"]
+synonyms: [tecken, emblem]
 antonyms: []
-family: ["symbolik", "symbolisk", "symbolisera"]
+family: [symbolik, symbolisk, symbolisera]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # symbol — substantiv (en)
 
 📖 中文：象征，符号 · English: symbol
+
+🇸🇪 Förklaring: tecken, bild eller sak som står för något annat, till exempel en idé eller ett land
+
 发音提示：/ˈsɪmbɔl/，两音节，重音在前
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: symbolik (en, 象征性/符号学), symbolisk (adj, 象征性的), symbolisera (verb, 象征/代表)
-- 同义词: tecken (ett, 符号/迹象 — 更宽泛), emblem (ett, 徽章/标志)
+- 词族: [[symbolik]] (en, 象征性/符号学), [[symbolisk]] (adj, 象征性的), [[symbolisera]] (verb, 象征/代表)
+- 同义词: [[tecken]] (ett, 符号/迹象 — 更宽泛), [[emblem]] (ett, 徽章/标志)
 - 反义词: —
 - 主题: [[topic-vikingatiden]]
 

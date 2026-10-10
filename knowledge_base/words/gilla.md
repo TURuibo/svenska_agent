@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A1
 zh: 喜欢
 en: to like
-synonyms: []
-antonyms: []
-family: []
+synonyms: [tycka]
+antonyms: [ogilla, hata]
+family: [gillande, gillamarkering]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # gilla — verb (grupp 1)
 
 📖 中文：喜欢 · English: to like
+
+🇸🇪 Förklaring: tycka om någon eller något
+
 发音提示：/ˈjɪlːa/（g 在 i 前读 [j]）
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[gillande]] (赞许), [[gillamarkering]] (点赞)
 - 同义词: （近义：[[tycka]] om「喜欢」、älska「爱」）
-- 反义词:
+- 反义词: [[ogilla]] (不喜欢), [[hata]] (恨)
 - 主题:
 
 ## 用法提示 (Usage Notes)

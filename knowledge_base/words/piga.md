@@ -6,7 +6,7 @@ genus: "en"
 cefr: "B1"
 zh: "女佣，帮佣女工（旧）"
 en: "maid, female servant"
-synonyms: []
+synonyms: [hembiträde, tjänsteflicka]
 antonyms: []
 family: []
 topics: [topic-jämställdhet]
@@ -22,7 +22,10 @@ interval: 0
 # piga — substantiv
 
 📖 中文：女佣，帮佣女工（旧） · English: maid, female servant
-发音提示：
+
+🇸🇪 Förklaring: kvinna som förr arbetade med hushållet hos en annan familj eller på en bondgård
+
+发音提示：/ˈpiːɡa/ — i 长音；g 读硬音 /ɡ/
 
 ## 语法变形 (Forms)
 
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: —
+- 同义词: [[hembiträde]] (家庭女佣), [[tjänsteflicka]] (女仆)
 - 反义词: —
 - 主题: [[topic-jämställdhet]]
 

@@ -8,7 +8,7 @@ zh: 石头
 en: stone
 synonyms: []
 antonyms: []
-family: []
+family: [klippa]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sten — substantiv (en-ord)
 
 📖 中文：石头 · English: stone
+
+🇸🇪 Förklaring: hård bit av berg som man hittar på marken eller i naturen
+
 发音提示：/steːn/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klippa]]（岩壁，大石）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

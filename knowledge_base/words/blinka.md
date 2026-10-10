@@ -26,6 +26,9 @@ interval: 0
 # blinka — verb (grupp 1)
 
 📖 中文：闪烁；（灯）闪 · English: to blink / flash
+
+🇸🇪 Förklaring: snabbt stänga och öppna ögonen; lysa och slockna om och om igen
+
 发音提示：BLIN-ka；两音节。
 
 ## 语法变形 (Forms)

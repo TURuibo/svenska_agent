@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 主意；想法
 en: idea
-synonyms: []
+synonyms: [tanke]
 antonyms: []
-family: []
+family: [idérik, affärsidé]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # idé — substantiv (en-ord)
 
 📖 中文：主意、想法 · English: idea
+
+🇸🇪 Förklaring: tanke eller plan som man plötsligt kommer på
+
+发音提示：/iˈdeː/ — 重音在 dé，e 读长音
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: tanke
-- 反义词:
+- 词族: [[idérik]] (点子多的), [[affärsidé]] (商业点子)
+- 同义词: [[tanke]]
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

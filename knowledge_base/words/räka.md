@@ -8,7 +8,7 @@ zh: 虾
 en: shrimp; prawn
 synonyms: []
 antonyms: []
-family: ["räksmörgås", "räkcocktail"]
+family: [räksmörgås, räkcocktail]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # räka — substantiv (en)
 
 📖 中文：虾 · English: shrimp; prawn
+
+🇸🇪 Förklaring: litet skaldjur med många ben som lever i havet och som man äter
+
 发音提示：RÄ-ka（两音节，注意 ä 发音）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[räksmörgås]]（虾仁三明治）, [[räkcocktail]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

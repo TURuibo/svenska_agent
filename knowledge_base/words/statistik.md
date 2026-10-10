@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: "统计；统计数据"
 en: "statistics"
-synonyms: []
+synonyms: [data, siffror]
 antonyms: []
-family: []
+family: [statistisk, statistiker]
 topics:
   - "[[topic-samhälle-och-politik]]"
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # statistik — substantiv (en)
 
 📖 中文：统计；统计数据 · English: statistics
+
+🇸🇪 Förklaring: siffror och fakta som samlas in och sammanställs för att visa hur något är
+
 发音提示：[sta.tɪ."stiːk]，重音在最后音节
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: statistisk（形容词，统计的）、statistiker（统计学家）
-- 同义词: data（数据）、siffror（数字）
+- 词族: [[statistisk]]（形容词，统计的）, [[statistiker]]（统计学家）
+- 同义词: [[data]]（数据）, [[siffror]]（数字）
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

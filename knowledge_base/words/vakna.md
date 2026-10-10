@@ -8,8 +8,8 @@ cefr: "A1"
 zh: "醒来；醒"
 en: "to wake up"
 synonyms: []
-antonyms: []
-family: [vaken, vakna upp]
+antonyms: [somna, sova]
+family: [vaken, väcka, vakna-upp]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # vakna — verb (grupp 1)
 
 📖 中文：醒来；醒 · English: to wake up
+
+🇸🇪 Förklaring: sluta sova och bli medveten om det som händer omkring en
+
 发音提示：VAK-na；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[vaken]] (adj. 醒着的), [[väcka]] (v. 叫醒别人)
+- 词族: [[vaken]] (adj. 醒着的), [[väcka]] (v. 叫醒别人), [[vakna-upp]]
 - 同义词: —
 - 反义词: [[somna]] (v. 入睡), [[sova]] (v. 睡觉)
 - 主题: [[topic-vardagsrutin]]

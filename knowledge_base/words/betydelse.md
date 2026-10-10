@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "意思、意义"
 en: "meaning"
-synonyms: ["mening"]
+synonyms: [mening]
 antonyms: []
-family: ["betyda"]
+family: [betyda]
 topics: ["topic-sfi-sprak-larande"]
 sentences: ["sent-av-sammanhanget-kan-man-ofta"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # betydelse — substantiv (en)
 
 📖 中文：意思、意义 · English: meaning
+
+🇸🇪 Förklaring: det som ett ord eller en handling vill säga; hur viktigt något är
+
 发音提示：be-TY-del-se
 
 ## 语法变形 (Forms)
@@ -45,6 +48,7 @@ created: "2026-09-22"
 
 - 词族: [[betyda]]（意味着，动词）
 - 同义词: [[mening]]（意思/句子）
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

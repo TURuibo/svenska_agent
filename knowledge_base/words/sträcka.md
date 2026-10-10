@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "路段，距离"
 en: "stretch, distance"
-synonyms: []
+synonyms: [avstånd, distans]
 antonyms: []
-family: []
+family: [sträcka-ut, delsträcka, sträckning]
 topics: []
 sentences: [sent-under-åren-1913-och-1914]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # sträcka — substantiv
 
 📖 中文：路段，距离 · English: stretch, distance
-发音提示：
+
+🇸🇪 Förklaring: avstånd eller del av en väg mellan två platser
+
+发音提示：/ˈstrɛkːa/ — ä 短音，k 读长；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[sträcka-ut|sträcka ut]] (伸展), [[delsträcka]] (分段路程), [[sträckning]] (走向；伸展)
+- 同义词: [[avstånd]] (距离), [[distans]] (距离)
 - 反义词: —
 - 主题: —
 

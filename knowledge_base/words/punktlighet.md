@@ -7,8 +7,8 @@ cefr: "B1"
 zh: "准时"
 en: "punctuality"
 synonyms: []
-antonyms: []
-family: ["punktlig"]
+antonyms: [opunktlighet]
+family: [punktlig]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # punktlighet — substantiv
 
 📖 中文：准时 · English: punctuality
+
+🇸🇪 Förklaring: det att man alltid kommer i tid och håller tider
+
+发音提示：/ˈpɵŋktlɪɡˌheːt/ — nk 读 /ŋk/；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -44,8 +48,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[punktlig]]
-- 同义词: []
-- 反义词: []
+- 同义词: —
+- 反义词: [[opunktlighet]] (不守时)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

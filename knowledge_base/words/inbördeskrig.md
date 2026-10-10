@@ -8,7 +8,7 @@ zh: 内战
 en: civil war
 synonyms: []
 antonyms: []
-family: []
+family: [krig, inbördes]
 topics: [topic-krig-och-konflikt]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # inbördeskrig — substantiv (ett)
 
 📖 中文：内战 · English: civil war
+
+🇸🇪 Förklaring: väpnad konflikt mellan olika grupper inom samma land
+
 发音提示：/ɪnˈbœrdəsˌkriːɡ/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[krig]] (战争), [[inbördes]] (相互的；内部的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

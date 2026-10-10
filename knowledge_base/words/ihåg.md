@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 记住（komma ihåg）
 en: remembered (in "komma ihåg")
-synonyms: []
-antonyms: []
-family: []
+synonyms: [minnas]
+antonyms: [glömma]
+family: [hågkomst, ihågkommen]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # ihåg — adverb (komma ihåg 中的小品词)
 
 📖 中文：记得、记住（只用于 `komma ihåg` / `minnas`） · English: remember
+
+🇸🇪 Förklaring: används efter verbet komma när man menar att ha något kvar i minnet
+
+发音提示：/ɪˈhoːɡ/ — 重音在 håg；å 读长音 oː
 
 ## 语法变形 (Forms)
 
@@ -37,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: minnas
-- 反义词: glömma
+- 词族: [[hågkomst]] (回忆), [[ihågkommen]] (被记住的)
+- 同义词: [[minnas]]
+- 反义词: [[glömma]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

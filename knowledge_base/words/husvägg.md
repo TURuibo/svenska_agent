@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 房屋的墙
 en: house wall
-synonyms: []
+synonyms: [fasad, yttervägg]
 antonyms: []
-family: []
+family: [hus]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # husvägg — substantiv (en-ord)
 
 📖 中文：房子的墙 · English: wall of a house
+
+🇸🇪 Förklaring: sida på utsidan av en byggnad, från marken upp till taket
+
+发音提示：/ˈhʉːsˌvɛɡː/ — u 读 ʉː；ä 读短音 ɛ
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: hus + vägg
-- 同义词:
-- 反义词:
+- 词族: [[hus]] + vägg
+- 同义词: [[fasad]] (外墙；正面), [[yttervägg]] (外墙)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -5,7 +5,7 @@ ordklass: adverb
 cefr: A2
 zh: 事后；之后
 en: afterwards
-synonyms: []
+synonyms: [senare, sedan, därefter]
 antonyms: [innan]
 family: [efter]
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # efteråt — adverb
 
 📖 中文：事后，之后 · English: afterwards
+
+🇸🇪 Förklaring: senare, när något annat redan har hänt
+
 发音提示：/ˈɛftɛrˌoːt/
 
 ## 语法变形 (Forms)
@@ -39,8 +42,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[efter]]
-- 同义词:
-- 反义词:
+- 同义词: [[senare]] (后来), [[sedan]] (然后), [[därefter]] (之后)
+- 反义词: [[innan]] (在……之前)
 - 主题:
 
 ## 用法提示 (Usage Notes)

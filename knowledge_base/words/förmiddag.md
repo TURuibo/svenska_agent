@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A1"
 zh: "上午（中午前）"
 en: "morning / forenoon"
-synonyms: []
+synonyms: [morgon]
 antonyms: [eftermiddag]
 family: [middag, morgon, kväll, natt]
 topics:
@@ -25,6 +25,9 @@ interval: 0
 # förmiddag — substantiv (en)
 
 📖 中文：上午（中午前） · English: morning / forenoon
+
+🇸🇪 Förklaring: tiden på dagen mellan morgonen och klockan tolv
+
 发音提示：FÖR-mid-dag；三音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[middag]] (en, 中午), [[morgon]] (en, 早晨), [[kväll]] (en, 傍晚)
+- 词族: [[middag]] (en, 中午), [[morgon]] (en, 早晨), [[kväll]] (en, 傍晚), [[natt]] (夜晚、夜里)
 - 同义词: [[morgon]] (早晨，比 förmiddag 更早)
 - 反义词: [[eftermiddag]] (下午，中午后)
 - 主题: [[topic-stadsmiljo]]

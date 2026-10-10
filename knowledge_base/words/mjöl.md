@@ -19,6 +19,9 @@ created: "2026-10-04"
 # mjöl — substantiv
 
 📖 中文：面粉 · English: flour
+
+🇸🇪 Förklaring: fint pulver av malda sädeskorn som man bakar bröd och kakor med
+
 发音提示：/mjøːl/。
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-04"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vetemjöl]]
+- 同义词: —
+- 反义词: —
 - 相关: [[bakverk]] [[kanelbulle]] [[jäst]]
 
 ## 用法提示 (Usage Notes)

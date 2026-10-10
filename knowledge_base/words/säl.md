@@ -8,7 +8,7 @@ zh: "海豹"
 en: "seal"
 synonyms: []
 antonyms: []
-family: []
+family: [gråsäl, knubbsäl, sälunge]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # säl — substantiv (en)
 
 📖 中文：海豹 · English: seal
+
+🇸🇪 Förklaring: däggdjur som lever i havet, har korta simfötter och äter fisk
+
 发音提示：/seːl/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[gråsäl]] (灰海豹), [[knubbsäl]] (港海豹), [[sälunge]] (小海豹)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-djur]]

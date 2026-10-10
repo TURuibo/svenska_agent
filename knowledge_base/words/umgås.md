@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "交往；相处；一起玩 / 聚在一起"
 en: "to socialise; to hang out; to spend time (with)"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [träffas, hänga]
+antonyms: [isolera-sig]
+family: [umgänge, umgängeskrets]
 topics: [topic-social-kontakt]
 sentences: [sent-några-antar-att-tonåringar-kan-umgås]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # umgås — verb (deponens, 不规则强变化)
 
 📖 中文：交往；相处；一起玩 / 聚在一起 · English: to socialise; to hang out; to spend time (with)
+
+🇸🇪 Förklaring: vara tillsammans med vänner eller andra människor, till exempel på fritiden
+
 发音提示：UM-gås，重音在第一音节；`g` 在 å 前读 [g]。
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `umgänge`（来往；交际圈）、`umgängeskrets`（朋友圈）
-- 同义词: `träffas`（见面）、`hänga`（口语：闲逛）
-- 反义词: `isolera sig`（与世隔绝）
+- 词族: [[umgänge]]（来往；交际圈）, [[umgängeskrets]]（朋友圈）
+- 同义词: [[träffas]]（见面）, [[hänga]]（口语：闲逛）
+- 反义词: [[isolera-sig|isolera sig]]（与世隔绝）
 - 主题: [[topic-social-kontakt]]
 
 ## 用法提示 (Usage Notes)

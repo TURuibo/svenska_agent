@@ -8,8 +8,8 @@ cefr: "B1"
 zh: "支持；援助；补助；支撑物"
 en: "support; aid; benefit; (physical) support"
 synonyms: [bistånd, bidrag]
-antonyms: []
-family: [stödja, försörjningsstöd]
+antonyms: [motstånd]
+family: [stödja, försörjningsstöd, stödpedagog, stödboende]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-då-kan-du-få-stöd-från-socialtjänsten, sent-vilket-stöd-du-kan-få-beror-på, sent-om-du-har-skulder-eller-svårt-att-planera, sent-du-kan-också-få-stöd-att-klara-din, sent-ekonomiskt-bistånd-kan-vara-två-typer-av, sent-du-kan-också-få-stöd-för-vissa-andra, sent-stöd-för-andra-levnadskostnader, sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # stöd — substantiv (ett)
 
 📖 中文：支持；援助；补助；支撑物 · English: support; aid; benefit; (physical) support
+
+🇸🇪 Förklaring: hjälp och uppmuntran som man får från andra; pengar som man kan få från samhället; något som håller uppe något annat
+
 发音提示：STÖD，`ö` 读 [øː]（圆唇，类似"鹅"但嘴更圆）。
 
 ## 语法变形 (Forms)
@@ -59,9 +62,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[stödja]]（动词：支持）、[[försörjningsstöd]]（生活费补助）、`stödpedagog`、`stödboende`
-- 同义词: [[bistånd]]（援助、补助，更官方）、[[bidrag]]（津贴、拨款）
-- 反义词: —
+- 词族: [[stödja]]（动词：支持）, [[försörjningsstöd]]（生活费补助）, [[stödpedagog]], [[stödboende]]
+- 同义词: [[bistånd]]（援助、补助，更官方）, [[bidrag]]（津贴、拨款）
+- 反义词: [[motstånd]] (反对)
 - 主题: [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

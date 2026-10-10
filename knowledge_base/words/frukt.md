@@ -7,8 +7,8 @@ cefr: A1
 zh: 水果
 en: fruit
 synonyms: []
-antonyms: []
-family: []
+antonyms: [grönsak]
+family: [fruktsallad, fruktträd, fruktté]
 topics:
   - topic-mataffär
   - topic-mat-dryck
@@ -25,6 +25,9 @@ interval: 0
 # frukt — substantiv (en)
 
 📖 中文：水果 · English: fruit
+
+🇸🇪 Förklaring: söt och saftig del av en växt med frön inuti, som man kan äta, till exempel äpple och apelsin
+
 发音提示：FROOKT（短促 u）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[fruktsallad]] (水果沙拉), [[fruktträd]] (果树), [[fruktté]] (果茶)
 - 同义词: —
 - 反义词: [[grönsak]]（蔬菜）
 - 主题: [[topic-mataffär]], [[topic-mat-dryck]]

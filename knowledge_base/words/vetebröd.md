@@ -9,7 +9,7 @@ zh: "小麦面包；甜面包"
 en: "wheat bread; white bread"
 synonyms: []
 antonyms: []
-family: ["vete", "bröd"]
+family: [vete, bröd]
 topics: ["topic-mat-dryck"]
 sentences:
   - "sent-mackorna-innehaller-tyvarr-vetebrod"
@@ -24,6 +24,9 @@ interval: 0
 # vetebröd — substantiv (ett)
 
 📖 中文：小麦面包；甜面包 · English: wheat bread; white bread
+
+🇸🇪 Förklaring: ljust bröd bakat på vetemjöl; söta bullar och längder, ofta med kardemumma
+
 发音提示：/ˈveːtəˌbrøːd/；合成词 vete（小麦）+ bröd（面包）。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vete（小麦）, [[bröd]] (面包)
+- 词族: [[vete]]（小麦）, [[bröd]] (面包)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "生活费补助"
 en: "income support; subsistence benefit"
-synonyms: []
+synonyms: [socialbidrag]
 antonyms: []
-family: [försörja, försörjning, stöd]
+family: [försörja, försörjning, stöd, bistånd]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-ekonomiskt-bistånd-kan-vara-två-typer-av, sent-försörjningsstöd-är-pengar-för-dina-vanliga]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # försörjningsstöd — substantiv (ett)
 
 📖 中文：生活费补助 · English: income support; subsistence benefit
+
+🇸🇪 Förklaring: pengar från kommunen till den som inte kan betala för sitt uppehälle på annat sätt
+
 发音提示：för-SÖR-jnings-stöd，重音在第二音节 `sör`；`-s-` 是连接音。
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[försörja]]（供养）、[[försörjning]]（生计）、[[stöd]]（补助）、[[bistånd]]（上位概念）
-- 同义词: —（旧称 / 口语 `socialbidrag`）
+- 词族: [[försörja]]（供养）, [[försörjning]]（生计）, [[stöd]]（补助）, [[bistånd]]（上位概念）
+- 同义词: —（旧称 / 口语 [[socialbidrag]]）
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "试一试"
 en: "to try (out)"
-synonyms: [försöka]
+synonyms: [försöka, prova]
 antonyms: []
-family: []
+family: [test, självtest]
 topics: [topic-förskola-vardag]
 sentences: [sent-testa-koksaltspray-det-hjälper-faktiskt]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # testa — verb (grupp 1)
 
 📖 中文：试一试；测试 · English: to try (out), to test
+
+🇸🇪 Förklaring: prova något för att se hur det fungerar eller om det passar
+
 发音提示：/ˈtɛsta/ — 短 e，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: [[försöka]], prova
+- 词族: [[test]] (测试), [[självtest]] (自测)
+- 同义词: [[försöka]], [[prova]]
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 

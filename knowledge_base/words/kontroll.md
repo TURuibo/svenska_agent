@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "检查；控制；监控"
 en: "checkup; control; inspection"
-synonyms: ["undersökning"]
+synonyms: [undersökning]
 antonyms: []
-family: ["kontrollera", "kontrollant"]
+family: [kontrollera, kontrollant]
 topics: ["topic-hälsa"]
 sentences: ["sent-jag-vill-boka-en-tid-for-en-kontroll"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kontroll — substantiv en
 
 📖 中文：检查；控制；监控 · English: checkup; control; inspection
+
+🇸🇪 Förklaring: 1) när man undersöker om något är rätt eller fungerar som det ska; 2) makt att styra eller bestämma över något
+
 发音提示：kon-TROLL
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kontrollera]]
+- 词族: [[kontrollera]], [[kontrollant]]
 - 同义词: [[undersökning]]
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "判决"
 en: "verdict, sentence"
-synonyms: []
+synonyms: [utslag]
 antonyms: []
-family: ["domare"]
+family: [domare]
 topics: ["topic-rattsvasen"]
 sentences: ["sent-eftersom-hon-inte-ar-straffad-tidigare-doms"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # dom — substantiv
 
 📖 中文：判决 · English: verdict, sentence
-发音提示：
+
+🇸🇪 Förklaring: beslut i rätten om vem som har rätt eller vilket straff någon ska få
+
+发音提示：/dʊmː/ — o 读短音 ʊ，m 读长辅音
 
 ## 语法变形 (Forms)
 
@@ -40,8 +43,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[domare]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: [[utslag]] (裁决)
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

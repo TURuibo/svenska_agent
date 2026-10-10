@@ -19,6 +19,9 @@ created: "2026-09-26"
 # hämtningstid — substantiv (en)
 
 📖 中文：接园时间 · English: pick-up time
+
+🇸🇪 Förklaring: den tid när föräldrarna ska komma till förskolan och ta med sig barnen hem
+
 发音提示：[ˈhɛmtniŋsˌtiːd]，hämtning + s + tid。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hämta]], [[hämtning]], [[lämningstid]]
+- 同义词: —
 - 反义词: [[lämningstid]]
 - 主题: [[topic-förskola-vardag]]
 

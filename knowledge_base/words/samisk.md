@@ -7,9 +7,7 @@ zh: "萨米人的；萨米族的"
 en: "Sami; relating to the Sami people"
 synonyms: []
 antonyms: []
-family:
-  - same
-  - samerna
+family: [same, samerna]
 topics:
   - topic-litteratur-och-kultur
 sentences:
@@ -25,6 +23,9 @@ interval: 0
 # samisk — adjektiv
 
 📖 中文：萨米人的；萨米族的 · English: Sami; relating to the Sami people
+
+🇸🇪 Förklaring: som har med samerna, deras språk eller deras kultur att göra
+
 发音提示：/SA-misk/
 
 ## 语法变形 (Forms)
@@ -50,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: same（萨米人，名词）; samerna（萨米人，复数定式）
+- 词族: [[same]]（萨米人，名词）, [[samerna]]（萨米人，复数定式）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

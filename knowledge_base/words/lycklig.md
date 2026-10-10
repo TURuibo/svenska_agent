@@ -9,7 +9,7 @@ zh: 快乐的/幸福的
 en: happy, fortunate
 synonyms: [glad, nöjd]
 antonyms: [olycklig]
-family: []
+family: [lycka, lyckas, lyckligtvis]
 topics: [topic-karaktarsord]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # lycklig — adjektiv
 
 📖 中文：快乐的/幸福的 · English: happy, fortunate
+
+🇸🇪 Förklaring: som känner stor glädje och är nöjd med livet
+
 发音提示：LYK-lig；元音 `y` 短促。
 
 ## 语法变形 (Forms)

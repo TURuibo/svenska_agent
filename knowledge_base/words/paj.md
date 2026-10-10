@@ -8,7 +8,7 @@ zh: 果馅饼；馅饼
 en: pie; tart
 synonyms: []
 antonyms: []
-family: []
+family: [äppelpaj, pajdeg, pajform]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # paj — substantiv (en)
 
 📖 中文：果馅饼；馅饼 · English: pie; tart
+
+🇸🇪 Förklaring: bakverk med en botten av deg och en fyllning av till exempel frukt eller grönsaker
+
 发音提示：PIE (与英语发音相同)
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[äppelpaj]] (苹果派), [[pajdeg]] (派皮面团), [[pajform]] (派盘)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

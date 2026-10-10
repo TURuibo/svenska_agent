@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "自发的、临时的"
 en: "spontaneous"
-synonyms: []
-antonyms: ["planerad"]
-family: []
+synonyms: [impulsiv, oplanerad]
+antonyms: [planerad]
+family: [spontanitet, spontant]
 topics: [topic-sociala-normer]
 sentences: ["sent-spontana-besök-kan-uppfattas-som"]
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # spontan — adjektiv
 
 📖 中文：自发的、临时的 · English: spontaneous
+
+🇸🇪 Förklaring: som görs eller sägs direkt, utan att man har planerat det
+
+发音提示：/spɔnˈtɑːn/ — 重音在最后音节 -tan
 
 ## 语法变形 (Forms)
 
@@ -40,8 +44,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
+- 词族: [[spontanitet]] (自发性), [[spontant]] (自发地)
+- 同义词: [[impulsiv]] (冲动的), [[oplanerad]] (未计划的)
 - 反义词: [[planerad]]
 - 主题: [[topic-sociala-normer]]
 

@@ -19,6 +19,10 @@ created: "2026-10-01"
 
 📖 中文：文化 · English: culture
 
+🇸🇪 Förklaring: 1) konst, musik, litteratur och teater; 2) ett folks seder, vanor och sätt att leva
+
+发音提示：/kɵlˈtʉːr/ — 重音在最后音节 -tur，u 读 ʉː
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -42,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kulturell]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

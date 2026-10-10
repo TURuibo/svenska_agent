@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: B1
 zh: 晕眩的，头晕的
 en: dizzy
-synonyms: []
+synonyms: [snurrig]
 antonyms: []
 family: [yrsel]
 topics: [topic-hälsa, topic-kropp]
@@ -21,6 +21,9 @@ interval: 0
 # yr — adjektiv
 
 📖 中文：晕眩的，头晕的 · English: dizzy
+
+🇸🇪 Förklaring: som känner att allt snurrar och har svårt att hålla balansen
+
 发音提示：[yːr]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[yrsel]]
+- 同义词: [[snurrig]] (晕乎乎的)
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

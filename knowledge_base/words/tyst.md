@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "安静的、沉默的"
 en: "quiet / silent"
-synonyms: ["lugn", "stilla"]
-antonyms: ["livlig", "högljudd"]
-family: ["tystna", "tystnad"]
+synonyms: [lugn, stilla]
+antonyms: [livlig, högljudd]
+family: [tystna, tystnad]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tyst — adjektiv
 
 📖 中文：安静的、沉默的 · English: quiet / silent
+
+🇸🇪 Förklaring: som inte låter eller inte säger något
+
 发音提示：/tyːst/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 - 词族: [[tystna]] (变安静), [[tystnad]] (寂静)
 - 同义词: [[lugn]], [[stilla]]
-- 反义词: [[livlig]]
+- 反义词: [[livlig]], [[högljudd]]
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

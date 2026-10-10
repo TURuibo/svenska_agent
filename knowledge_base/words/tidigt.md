@@ -7,8 +7,8 @@ genus: ""
 cefr: "A1"
 zh: "早；提早"
 en: "early"
-synonyms: []
-antonyms: []
+synonyms: [i-god-tid]
+antonyms: [sent, försent]
 family: [tidig, tid]
 topics:
   - topic-tid-och-tidsuttryck
@@ -27,6 +27,9 @@ interval: 0
 # tidigt — adverb
 
 📖 中文：早；提早 · English: early
+
+🇸🇪 Förklaring: i början av dagen eller en period, eller före det vanliga
+
 发音提示：TI-digt；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tidig]] (adj. 早的/早期的), [[tid]] (en, 时间)
-- 同义词: [[i god tid]] (adv. phrase, 提前/很早)
+- 同义词: [[i-god-tid|i god tid]] (adv. phrase, 提前/很早)
 - 反义词: [[sent]] (adv. 晚；迟), [[försent]] (adv. 太晚了)
 - 主题: [[topic-tid-och-tidsuttryck]], [[topic-vardagsrutin]]
 

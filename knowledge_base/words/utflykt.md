@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "郊游；外出活动"
 en: "excursion; outing"
-synonyms: []
+synonyms: [utfärd, tur]
 antonyms: []
-family: []
+family: [flykt, skolutflykt, dagsutflykt]
 topics: [topic-förskola-vardag]
 sentences: [sent-torsdag-8-oktober-går-vi-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # utflykt — substantiv (en)
 
 📖 中文：郊游；外出活动 · English: excursion; outing
+
+🇸🇪 Förklaring: kort resa eller tur till en plats för att ha trevligt eller lära sig något
+
 发音提示：/ˈʉːtˌflʏkt/；ut（出）+ flykt（飞/行程）。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[flykt]] (逃亡), [[skolutflykt]] (学校郊游), [[dagsutflykt]] (一日游)
+- 同义词: [[utfärd]] (出游), [[tur]] (短途游)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

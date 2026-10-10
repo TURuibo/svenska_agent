@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "刷卡机"
 en: "payment terminal"
-synonyms: []
+synonyms: [kortterminal, kortläsare]
 antonyms: []
-family: ["betala"]
+family: [betala]
 topics: ["topic-bedrageri-bank-sakerhet", "topic-betalning"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # betalstation — substantiv (en)
 
 📖 中文：刷卡机 · English: payment terminal
+
+🇸🇪 Förklaring: apparat i en kassa där man använder sitt kort för att handla
+
 发音提示：be-TAL-sta-tion
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[betala]]
+- 同义词: [[kortterminal]] (刷卡机), [[kortläsare]] (读卡器)
+- 反义词: —
 - 主题: [[topic-bedrageri-bank-sakerhet]], [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

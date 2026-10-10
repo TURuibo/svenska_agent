@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A1
 zh: 短的
 en: short
-synonyms: []
+synonyms: [kortfattad]
 antonyms: [lång]
-family: []
+family: [korthet, förkorta, kortvarig]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # kort — adjektiv
 
 📖 中文：短的 · English: short
+
+🇸🇪 Förklaring: som har liten längd eller varar en liten stund
+
 发音提示：/kɔʈ/；`rt` 合成一个卷舌音 /ʈ/，不要把 r 单独读出来。
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: korthet, förkorta（缩短）, kortvarig（短暂的）
-- 同义词:
+- 词族: [[korthet]], [[förkorta]]（缩短）, [[kortvarig]]（短暂的）
+- 同义词: [[kortfattad]] (简短的)
 - 反义词: [[lång]]（长的）
 - 主题:
 

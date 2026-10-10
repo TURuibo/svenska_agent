@@ -6,7 +6,7 @@ verbgrupp: "2"
 cefr: A1
 zh: 乘(交通工具)；滑(冰/板)
 en: to go (by vehicle); to ride, skate
-synonyms: []
+synonyms: [resa, fara]
 antonyms: []
 family: [skridsko]
 topics: [topic-idrott]
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # åka — verb (grupp 2)
 
 📖 中文：乘(交通工具)；滑(冰/板) · English: to go (by vehicle); to ride, skate
+
+🇸🇪 Förklaring: resa med ett fordon, till exempel bil, buss eller tåg; röra sig på skidor, skridskor eller liknande
+
 发音提示：/ˈoːka/；åkte /ˈoːktɛ/
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skridsko]]（skridskoåkning = 滑冰运动）
-- 同义词:
-- 反义词:
+- 同义词: [[resa]] (旅行), [[fara]] (前往)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

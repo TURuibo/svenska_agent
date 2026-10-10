@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "关系、关联"
 en: "relation"
-synonyms: []
+synonyms: [förhållande, samband, koppling]
 antonyms: []
-family: []
+family: [relatera, parrelation]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # relation — substantiv
 
 📖 中文：关系、关联 · English: relation
+
+🇸🇪 Förklaring: 1) hur människor står i förhållande till varandra; 2) samband mellan två eller flera saker
+
 发音提示：re-la-SHON
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[relatera]] (关联), [[parrelation]] (伴侣关系)
+- 同义词: [[förhållande]] (关系), [[samband]] (关联), [[koppling]] (联系)
+- 反义词: —
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "雇用，聘用"
 en: "to employ, hire"
-synonyms: []
-antonyms: ["säga upp"]
-family: ["anställd", "anställning"]
+synonyms: [rekrytera]
+antonyms: [säga-upp]
+family: [anställd, anställning]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # anställa — verb
 
 📖 中文：雇用，聘用 · English: to employ, hire
+
+🇸🇪 Förklaring: ge någon ett arbete mot lön
+
 发音提示：an-STÄL-la
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-10-03"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[anställd]], [[anställning]]
-- 同义词: —
-- 反义词: [[säga upp]]
+- 同义词: [[rekrytera]] (招聘)
+- 反义词: [[säga-upp|säga upp]]
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

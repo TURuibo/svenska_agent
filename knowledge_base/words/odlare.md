@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "种植户, 农户"
 en: "grower, farmer"
-synonyms: ["bonde"]
+synonyms: [bonde]
 antonyms: []
-family: []
+family: [odla, odling, grönsaksodlare]
 topics: ["topic-arbete"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # odlare — substantiv (en)
 
 📖 中文：种植户, 农户 · English: grower, farmer
+
+🇸🇪 Förklaring: person som får grönsaker, frukt eller blommor att växa, ofta som yrke
+
 发音提示：od-la-re
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[odla]] (种植), [[odling]] (种植), [[grönsaksodlare]] (菜农)
 - 同义词: [[bonde]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

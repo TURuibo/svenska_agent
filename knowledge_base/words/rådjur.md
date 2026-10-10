@@ -8,7 +8,7 @@ zh: "狍子、欧洲狍"
 en: "roe deer"
 synonyms: []
 antonyms: []
-family: ["hjort", "älg"]
+family: [hjort, älg]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # rådjur — substantiv (ett)
 
 📖 中文：狍子、欧洲狍 · English: roe deer
+
+🇸🇪 Förklaring: litet hjortdjur med brun päls och stora öron som är vanligt i svenska skogar
+
 发音提示：/ˈroːˌjʉːr/
 
 ## 语法变形 (Forms)

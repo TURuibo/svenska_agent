@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "送园时间"
 en: "drop-off time"
-synonyms: []
+synonyms: [avlämningstid]
 antonyms: [hämtningstid]
 family: [lämna, lämning, hämtningstid]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # lämningstid — substantiv (en)
 
 📖 中文：送园时间 · English: drop-off time
+
+🇸🇪 Förklaring: tid på morgonen då föräldrar tar med sina barn till förskolan
+
 发音提示：[ˈlɛmniŋsˌtiːd]，lämning + s + tid，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lämna]], [[lämning]], [[hämtningstid]]
+- 同义词: [[avlämningstid]] (送园时间)
 - 反义词: [[hämtningstid]]
 - 主题: [[topic-förskola-vardag]]
 

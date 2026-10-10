@@ -9,7 +9,7 @@ zh: "攀爬架"
 en: "climbing frame"
 synonyms: []
 antonyms: []
-family: ["klättra"]
+family: [klättra]
 topics: ["topic-familj-och-barn"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # klätterställning — substantiv (en)
 
 📖 中文：攀爬架 · English: climbing frame
+
+🇸🇪 Förklaring: konstruktion av trä eller metall på en lekplats som barn klänger och leker i
+
 发音提示：KLÄT-ter-ställ-ning
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klättra]]（攀爬，动词）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

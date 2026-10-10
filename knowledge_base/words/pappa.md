@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "爸爸"
 en: "dad"
-synonyms: ["far"]
-antonyms: ["mamma"]
-family: ["förälder"]
+synonyms: [far]
+antonyms: [mamma]
+family: [förälder]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # pappa — substantiv (en)
 
 📖 中文：爸爸 · English: dad
+
+🇸🇪 Förklaring: man som är förälder till ett barn
+
 发音提示：/ˈpapa/
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[förälder]]
 - 同义词: [[far]]
 - 反义词: [[mamma]]
-- 词族: [[förälder]]
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

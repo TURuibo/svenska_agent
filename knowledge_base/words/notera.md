@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "记录；注意到"
 en: "to note, record; to notice"
-synonyms: ["anteckna", "märka"]
-antonyms: []
-family: ["notering", "anteckning"]
+synonyms: [anteckna, märka]
+antonyms: [förbise]
+family: [notering, anteckning]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-06"
 # notera — verb (grupp 1)
 
 📖 中文：记录；注意到 · English: to note, record; to notice
+
+🇸🇪 Förklaring: skriva upp något för att komma ihåg det; lägga märke till något
+
 发音提示：/nʊˈteːra/
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ created: "2026-10-06"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: anteckna（记下）, märka（察觉）
-- 词族: notering (en, 记录)
+- 词族: [[notering]] (en, 记录), [[anteckning]]
+- 同义词: [[anteckna]]（记下）, [[märka]]（察觉）
+- 反义词: [[förbise]] (忽略)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

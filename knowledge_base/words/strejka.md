@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "罢工，罢课"
 en: "strike, protest"
-synonyms: []
+synonyms: [lägga-ner-arbetet]
 antonyms: []
 family: [strejk, strejkare, skolstrejk]
 topics: [topic-miljö-och-klimat, topic-samhälle-och-politik]
@@ -24,6 +24,9 @@ interval: 0
 # strejka — verb (v.1)
 
 📖 中文：罢工，罢课 · English: strike, protest
+
+🇸🇪 Förklaring: sluta arbeta tillsammans med andra för att protestera eller kräva bättre villkor
+
 发音提示：/ˈstrɛjka/；v.1 动词（-ar 结尾）。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: strejk（罢工，名词），strejkare（罢工者），[[skolstrejk]]（罢课）
+- 词族: [[strejk]]（罢工，名词）, [[strejkare]]（罢工者）, [[skolstrejk]]（罢课）
+- 同义词: [[lägga-ner-arbetet|lägga ner arbetet]] (罢工)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

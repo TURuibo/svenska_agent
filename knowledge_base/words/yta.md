@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "面积"
 en: "area"
-synonyms: []
+synonyms: [area, areal]
 antonyms: []
-family: []
+family: [ytlig, boyta, vattenyta]
 topics: ["topic-geografi-samhalle"]
 sentences: ["sent-i-norrland-bor-endast-11-procent-av"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # yta — substantiv
 
 📖 中文：面积 · English: area
-发音提示：
+
+🇸🇪 Förklaring: storleken på ett område eller ett golv, mätt i till exempel kvadratmeter
+
+发音提示：/ˈyːta/ — y 读长音 yː（撮口）
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[ytlig]] (肤浅的), [[boyta]] (居住面积), [[vattenyta]] (水面)
+- 同义词: [[area]] (面积), [[areal]] (面积)
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "年龄"
 en: "age"
 synonyms: []
 antonyms: []
-family: []
+family: [åldras, ålderdom, åldersgräns, medelålder]
 topics: ["topic-förskola-vardag"]
 sentences: ["sent-det-är-vanligt-i-den-här", "sent-sånt-händer-i-den-här-åldern"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ålder — substantiv (en)
 
 📖 中文：年龄 · English: age
+
+🇸🇪 Förklaring: hur många år någon har levt eller hur gammalt något är
+
 发音提示：OL-der；复数变元音 åldrar（ål-drar）
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[åldras]] (变老), [[ålderdom]] (老年), [[åldersgräns]] (年龄限制), [[medelålder]] (中年)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

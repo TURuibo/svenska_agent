@@ -7,8 +7,8 @@ cefr: "A2"
 zh: "陌生人"
 en: "stranger"
 synonyms: []
-antonyms: []
-family: ["främmande"]
+antonyms: [bekant, vän]
+family: [främmande]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # främling — substantiv (en)
 
 📖 中文：陌生人 · English: stranger
+
+🇸🇪 Förklaring: person som man inte känner och aldrig har träffat förut
+
 发音提示：/ˈfrɛmlɪŋ/
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[främmande]]
+- 同义词: —
+- 反义词: [[bekant]] (熟人), [[vän]] (朋友)
 - 主题: [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

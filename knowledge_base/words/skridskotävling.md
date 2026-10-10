@@ -9,7 +9,7 @@ zh: "滑冰比赛"
 en: "skating competition"
 synonyms: []
 antonyms: []
-family: [skridsko, tävling]
+family: [skridsko, tävling, tävla]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # skridskotävling — substantiv (en)
 
 📖 中文：滑冰比赛 · English: skating competition
+
+🇸🇪 Förklaring: tävling i att åka på is, t.ex. i hastighetsåkning eller konståkning
+
 发音提示：/ˈskrɪdskuˌtɛːvlɪŋ/（重音在 skrid-）
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skridsko]]（冰刀 / 溜冰鞋）, [[tävling]]（比赛）, [[tävla]]（参赛）
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

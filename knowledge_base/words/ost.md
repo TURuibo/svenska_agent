@@ -8,7 +8,7 @@ zh: "奶酪"
 en: "cheese"
 synonyms: []
 antonyms: []
-family: []
+family: [ostmacka, ostbricka]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ost — substantiv (en-ord)
 
 📖 中文：奶酪 · English: cheese
+
+🇸🇪 Förklaring: mat som görs av mjölk och som man ofta äter på smörgås
+
 发音提示：[uːst]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ostmacka (奶酪吐司), ostbricka (奶酪拼盘)
+- 词族: [[ostmacka]] (奶酪吐司), [[ostbricka]] (奶酪拼盘)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

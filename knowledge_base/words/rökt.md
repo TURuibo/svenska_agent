@@ -9,7 +9,7 @@ zh: "熏制的"
 en: "smoked"
 synonyms: []
 antonyms: []
-family: ["röka", "rök", "rökeri"]
+family: [röka, rök, rökeri]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # rökt — adjektiv
 
 📖 中文：熏制的 · English: smoked
+
+🇸🇪 Förklaring: som har hängt i rök för att få smak och hålla längre, till exempel fisk eller kött
+
 发音提示：/røːkt/（过去分词形式，来自动词 röka）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: röka（动词，抽烟/熏制）, rök（名词，烟）, rökeri（熏制作坊）
+- 词族: [[röka]]（动词，抽烟/熏制）, [[rök]]（名词，烟）, [[rökeri]]（熏制作坊）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

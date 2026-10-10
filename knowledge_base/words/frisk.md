@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "健康的；恢复健康的"
 en: "healthy; well; recovered"
-synonyms: ["pigg"]
-antonyms: ["sjuk"]
-family: ["friskna"]
+synonyms: [pigg]
+antonyms: [sjuk]
+family: [friskna]
 topics: ["topic-hälsa"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # frisk — adjektiv
 
 📖 中文：健康的；恢复健康的 · English: healthy; well; recovered
+
+🇸🇪 Förklaring: som inte är sjuk och mår bra; som har blivit bra igen efter en sjukdom
+
 发音提示：/frɪsk/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: friskna (康复, verb)
+- 词族: [[friskna]] (康复, verb)
 - 同义词: [[pigg]] (精神好的)
 - 反义词: [[sjuk]]
 - 主题: [[topic-hälsa]]

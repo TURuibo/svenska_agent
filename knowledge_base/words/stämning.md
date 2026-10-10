@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "氛围；气氛；情调"
 en: "atmosphere; mood; vibe"
-synonyms: []
+synonyms: [atmosfär, humör]
 antonyms: []
-family: []
+family: [stämningsfull, feststämning, julstämning]
 topics: ["topic-stadsmiljo"]
 sentences: ["sent-jo-visst-jag-trivs-med"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # stämning — substantiv (en)
 
 📖 中文：氛围；气氛；情调 · English: atmosphere; mood; vibe
+
+🇸🇪 Förklaring: känsla eller atmosfär som finns bland människor på en plats vid ett visst tillfälle
+
 发音提示：STÄM-ning（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[stämningsfull]] (有气氛的), [[feststämning]] (节日气氛), [[julstämning]] (圣诞气氛)
+- 同义词: [[atmosfär]] (气氛), [[humör]] (心情)
+- 反义词: —
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

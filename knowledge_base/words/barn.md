@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A1"
 zh: "孩子"
 en: "child"
-synonyms: []
-antonyms: []
-family: ["barndom"]
+synonyms: [unge]
+antonyms: [vuxen, förälder]
+family: [barndom]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # barn — substantiv (ett)
 
 📖 中文：孩子 · English: child
+
+🇸🇪 Förklaring: ung människa som inte är vuxen än; son eller dotter
+
 发音提示：/bɑːrn/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[barndom]]
+- 同义词: [[unge]] (小孩)
+- 反义词: [[vuxen]] (成人), [[förälder]] (父母)
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

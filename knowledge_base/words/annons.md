@@ -7,9 +7,9 @@ genus: "en"
 cefr: A2
 zh: "广告；启事"
 en: "advertisement; ad; notice"
-synonyms: ["reklam"]
+synonyms: [reklam]
 antonyms: []
-family: ["annonsera", "annonsör"]
+family: [annonsera, annonsör]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # annons — substantiv
 
 📖 中文：广告；启事 · English: advertisement; ad; notice
+
+🇸🇪 Förklaring: kort text i en tidning eller på nätet där någon vill sälja, köpa eller informera om något
+
 发音提示：/aˈnɔns/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: annonsera (做广告, verb), annonsör (广告商)
-- 同义词: reklam (广告，集合名词)
+- 词族: [[annonsera]] (做广告, verb), [[annonsör]] (广告商)
+- 同义词: [[reklam]] (广告，集合名词)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

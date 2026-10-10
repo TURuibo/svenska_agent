@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "金色的"
 en: "golden"
-synonyms: ["guldfärgad"]
+synonyms: [guldfärgad]
 antonyms: []
-family: ["guld"]
+family: [guld]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gyllene — adjektiv
 
 📖 中文：金色的 · English: golden
+
+🇸🇪 Förklaring: som har en glänsande färg som guld
+
 发音提示：JYL-le-ne
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: guld（名词，金/黄金）
-- 同义词: guldfärgad（金色的，更字面）
+- 词族: [[guld]]（名词，金/黄金）
+- 同义词: [[guldfärgad]]（金色的，更字面）
 - 反义词: —
 - 主题: [[topic-mat-dryck]]
 

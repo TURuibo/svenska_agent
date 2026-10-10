@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "听"
 en: "to listen"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [höra-på, åhöra]
+antonyms: [ignorera, strunta-i]
+family: [lyssnare, avlyssna, lyssnande]
 topics: []
 sentences: ["sent-lyssna-på-din-lärare-som-berättar"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # lyssna — verb
 
 📖 中文：听 · English: to listen
+
+🇸🇪 Förklaring: försöka höra och uppmärksamma vad någon säger eller vad som låter
+
 发音提示：betoning på första stavelsen, "LYSS-na"
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[lyssnare]] (听众), [[avlyssna]] (窃听), [[lyssnande]] (聆听)
+- 同义词: [[höra-på|höra på]] (听), [[åhöra]] (聆听)
+- 反义词: [[ignorera]] (忽视), [[strunta-i|strunta i]] (不理会)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

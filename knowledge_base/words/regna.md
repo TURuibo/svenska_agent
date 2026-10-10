@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A1"
 zh: "下雨"
 en: "to rain"
-synonyms: []
-antonyms: ["skina"]
-family: ["regn", "regnig", "regnbåge"]
+synonyms: [ösa-ner]
+antonyms: [skina]
+family: [regn, regnig, regnbåge]
 topics: ["topic-vader-och-arstider", "topic-midsommar-traditioner"]
 sentences: ["sent-pa-eftermiddagen-borjar-det-regna"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # regna — verb
 
 📖 中文：下雨 · English: to rain
+
+🇸🇪 Förklaring: falla som droppar av vatten från molnen
+
 发音提示：[ˈrɛŋna]，两音节
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[regn]] · [[regnig]] · [[regnbåge]]
-- 同义词:
+- 词族: [[regn]] · [[regnig]] · [[regnbåge]], [[regnig]], [[regnbåge]]
+- 同义词: [[ösa-ner|ösa ner]] (倾盆大雨)
 - 反义词: [[skina]]
 - 主题: [[topic-vader-och-arstider]] · [[topic-midsommar-traditioner]]
 

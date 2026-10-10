@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "训斥、提醒"
 en: "reprimand"
-synonyms: []
-antonyms: []
-family: ["säga"]
+synonyms: [tillrättavisning, varning]
+antonyms: [beröm]
+family: [säga]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # tillsägelse — substantiv
 
 📖 中文：训斥、提醒 · English: reprimand
+
+🇸🇪 Förklaring: kort varning eller tillrättavisning från någon, till exempel en lärare eller chef
+
+发音提示：/ˈtɪlːˌsɛːjɛlsɛ/ — 重音在 till；g 在 e 前读 j
 
 ## 语法变形 (Forms)
 
@@ -43,8 +47,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[säga]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[tillrättavisning]] (训诫), [[varning]] (警告)
+- 反义词: [[beröm]] (表扬)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

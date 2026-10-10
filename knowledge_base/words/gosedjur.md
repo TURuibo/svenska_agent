@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A1"
 zh: "毛绒玩具"
 en: "stuffed animal; cuddly toy"
-synonyms: []
+synonyms: [mjukisdjur, nalle]
 antonyms: []
-family: [djur]
+family: [gosa, djur]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # gosedjur — substantiv
 
 📖 中文：毛绒玩具 · English: stuffed animal; cuddly toy
+
+🇸🇪 Förklaring: mjukt leksaksdjur av tyg som barn gärna kramar
+
 发音提示：/ˈɡuːsɛˌjʉːr/ — gose- 长 o（读「古瑟」），-djur 的 d 不发音
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: gosa (依偎/搂抱), [[djur]] (动物)
+- 词族: [[gosa]] (依偎/搂抱), [[djur]] (动物)
+- 同义词: [[mjukisdjur]] (毛绒玩具), [[nalle]] (泰迪熊)
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

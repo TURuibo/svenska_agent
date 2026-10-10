@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "宁愿；更想要；更喜欢"
 en: "rather; preferably; sooner"
-synonyms: ["gärna", "föredra"]
+synonyms: [gärna, föredra]
 antonyms: []
-family: ["gärna", "helst"]
+family: [gärna, helst]
 topics: []
 sentences:
   - "sent-god-morgon-visst-vill-du-ha-vanligt"
@@ -24,6 +24,9 @@ interval: 0
 # hellre — adverb
 
 📖 中文：宁愿；更想要；更喜欢 · English: rather; preferably; sooner
+
+🇸🇪 Förklaring: används för att visa att man tycker mer om ett alternativ än ett annat
+
 发音提示：/ˈhɛlːrə/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[gärna]] (乐意地/原级), helst（最愿意/最高级）
+- 词族: [[gärna]] (乐意地/原级), [[helst]]（最愿意/最高级）
+- 同义词: [[gärna]], [[föredra]]
+- 反义词: —
 - 主题: —
 
 ## 用法提示 (Usage Notes)

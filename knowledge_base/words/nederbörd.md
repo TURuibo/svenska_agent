@@ -8,7 +8,7 @@ zh: "降水"
 en: "precipitation"
 synonyms: []
 antonyms: []
-family: []
+family: [nederbördsmängd, nederbördsrik]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # nederbörd — substantiv
 
 📖 中文：降水 · English: precipitation
-发音提示：
+
+🇸🇪 Förklaring: regn, snö eller hagel som faller från himlen
+
+发音提示：/ˈneːdɛrˌbœːɖ/ — ö 在 r 前读 œ；rd 读卷舌 ɖ
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[nederbördsmängd]] (降水量), [[nederbördsrik]] (多雨雪的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

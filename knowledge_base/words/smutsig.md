@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 肮脏的
 en: dirty
-synonyms: []
-antonyms: ["ren"]
-family: ["smuts"]
+synonyms: [skitig, oren]
+antonyms: [ren]
+family: [smuts]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # smutsig — adjektiv
 
 📖 中文：肮脏的 · English: dirty
+
+🇸🇪 Förklaring: som har fläckar, damm eller jord på sig och behöver tvättas
+
 发音提示：SMUTS-ig
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[smuts]]
+- 同义词: [[skitig]] (脏（口语）), [[oren]] (不干净的)
 - 反义词: [[ren]]
 - 主题: [[topic-stadsmiljo]]
 

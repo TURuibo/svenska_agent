@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A1"
 zh: "积木"
 en: "building block"
-synonyms: []
+synonyms: [byggkloss]
 antonyms: []
 family: [leksak]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # kloss — substantiv (en)
 
 📖 中文：积木 · English: building block
+
+🇸🇪 Förklaring: liten bit av trä eller plast som barn bygger saker med
+
 发音提示：/klɔsː/ — o 短 /ɔ/，ss 长。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[leksak]]（玩具）
+- 同义词: [[byggkloss]] (积木)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

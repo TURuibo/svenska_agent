@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "布料/面料"
 en: "fabric"
-synonyms: []
+synonyms: [textil, väv]
 antonyms: []
-family: []
+family: [tygpåse, bomullstyg]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tyg — substantiv (ett-ord)
 
 📖 中文：布料/面料 · English: fabric
+
+🇸🇪 Förklaring: material av vävda trådar som man syr kläder och gardiner av
+
 发音提示：/tyːɡ/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[tygpåse]] (布袋), [[bomullstyg]] (棉布)
+- 同义词: [[textil]] (纺织品), [[väv]] (织物)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "强烈的；充实的；密集的"
 en: "intense; intensive"
-synonyms: ["kraftig", "stark"]
-antonyms: ["mild", "lugn"]
-family: ["intensivt", "intensitet", "intensifiera"]
+synonyms: [kraftig, stark]
+antonyms: [mild, lugn]
+family: [intensitet, intensivkurs, intensifiera, intensivt]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-sommaren-ar-kort-men-intensiv
@@ -24,6 +24,9 @@ interval: 0
 # intensiv — adjektiv
 
 📖 中文：强烈的；充实的；密集的 · English: intense; intensive
+
+🇸🇪 Förklaring: som är mycket stark, eller där mycket händer på kort tid
+
 发音提示：/ɪnˈteːnsɪv/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: intensitet（强度，名词），intensivkurs（强化课，名词），intensifiera（加强，动词）
+- 词族: [[intensitet]]（强度，名词）, [[intensivkurs]]（强化课，名词）, [[intensifiera]]（加强，动词）, [[intensivt]]
+- 同义词: [[kraftig]], [[stark]]
+- 反义词: [[mild]], [[lugn]] (平静的、安静的)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

@@ -6,7 +6,7 @@ genus: "en"
 cefr: A1
 zh: 食物；饭
 en: food
-synonyms: []
+synonyms: [föda, livsmedel]
 antonyms: []
 family: [maträtt, matlagning, matbutik, matgrupp, matminne]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # mat — substantiv (en)
 
 📖 中文：食物；饭 · English: food
+
+🇸🇪 Förklaring: det som människor och djur äter för att leva
+
+发音提示：/mɑːt/ — a 读长音 ɑː
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: maträtt, matlagning, matbutik, matgrupp, matminne
-- 同义词:
-- 反义词:
+- 词族: [[maträtt]], [[matlagning]], [[matbutik]], [[matgrupp]], [[matminne]]
+- 同义词: [[föda]] (食物), [[livsmedel]] (食品)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

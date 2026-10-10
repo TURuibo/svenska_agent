@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "送园（早上把孩子交给老师）"
 en: "drop-off (at preschool)"
-synonyms: []
+synonyms: [avlämning]
 antonyms: [hämtning]
 family: [lämna, hämtning]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # lämning — substantiv
 
 📖 中文：送园（早上把孩子交给老师） · English: drop-off (at preschool)
+
+🇸🇪 Förklaring: när man på morgonen följer sitt barn till förskolan och överlåter det åt personalen
+
 发音提示：/ˈlɛmnɪŋ/，重音在第一音节 LÄM-ning，ä 短音。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lämna]] (动词：留下、送) · [[hämtning]] (接园)
+- 词族: [[lämna]] (动词：留下、送) · [[hämtning]] (接园), [[hämtning]]
+- 同义词: [[avlämning]] (交接（送园）)
 - 反义词: [[hämtning]]
 - 主题: [[topic-förskola-vardag]]
 

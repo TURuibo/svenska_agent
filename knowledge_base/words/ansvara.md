@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "负责"
 en: "to be responsible"
-synonyms: []
+synonyms: [sköta, ta-hand-om]
 antonyms: []
 family: [ansvar, ansvarig]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ansvara — verb (grupp 1)
 
 📖 中文：负责 · English: to be responsible (for)
+
+🇸🇪 Förklaring: vara den som ska ta hand om något och se till att det blir bra
+
 发音提示：[ˈanˌsvɑːra]，重音在 an-。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ansvar]]（名词：责任）, [[ansvarig]]（形容词：负责的）
+- 同义词: [[sköta]] (负责处理), [[ta-hand-om|ta hand om]] (照顾；负责)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

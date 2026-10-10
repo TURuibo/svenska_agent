@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "保留、保存"
 en: "preserve"
-synonyms: []
+synonyms: [behålla, skydda, spara]
 antonyms: [förändras]
-family: []
+family: [bevarande, ta-vara-på]
 topics: [topic-kultur-tradition]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bevara — verb
 
 📖 中文：保留、保存 · English: preserve
+
+🇸🇪 Förklaring: se till att något finns kvar och inte förstörs eller ändras
+
 发音提示：be-VA-ra
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
+- 词族: [[bevarande]] (保护；保存), [[ta-vara-på|ta vara på]] (珍惜；保存)
+- 同义词: [[behålla]] (保留), [[skydda]] (保护), [[spara]] (保存)
 - 反义词: [[förändras]]
 - 主题: [[topic-kultur-tradition]]
 

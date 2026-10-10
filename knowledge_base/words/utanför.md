@@ -5,9 +5,9 @@ ordklass: "preposition / adverb"
 cefr: A2
 zh: 在……之外、外面
 en: outside
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ute]
+antonyms: [innanför, inom]
+family: [ut, utan, utanpå]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # utanför — preposition / adverb
 
 📖 中文：在……之外、外面 · English: outside
+
+🇸🇪 Förklaring: på andra sidan om en vägg, dörr eller gräns; inte inne i något
+
 发音提示：/ˈʉːtanˌføːr/；ut-an-för，`u` 读长 /ʉː/，`ö` 读长 /øː/。
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ut, utan（见 [[utan]]）, utanpå
-- 同义词: —
-- 反义词: innanför（在……里面）, inom（在……之内）
+- 词族: [[ut]], utan（见 [[utan]]）, [[utanpå]]
+- 同义词: [[ute]] (在外面)
+- 反义词: [[innanför]]（在……里面）, [[inom]]（在……之内）
 - 对比: [[ute]]（在外面；地点副词）
 - 主题:
 

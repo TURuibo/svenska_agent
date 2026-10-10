@@ -8,7 +8,7 @@ zh: "航行，扬帆"
 en: "to sail"
 synonyms: []
 antonyms: []
-family: ["segel", "seglare", "segling"]
+family: [segel, seglare, segling]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # segla — verb
 
 📖 中文：航行，扬帆 · English: to sail
+
+🇸🇪 Förklaring: färdas på vattnet i en båt som drivs av vinden
+
 发音提示：/ˈseːɡla/，两音节，"e" 长音
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ Verbgrupp 1（规律变位）。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: segel (ett, 帆), seglare (en, 水手/帆船运动员), segling (en, 航行/帆船运动)
+- 词族: [[segel]] (ett, 帆), [[seglare]] (en, 水手/帆船运动员), [[segling]] (en, 航行/帆船运动)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-vikingatiden]]

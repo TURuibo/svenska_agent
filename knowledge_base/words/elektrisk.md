@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "电的"
 en: "electric"
-synonyms: []
+synonyms: [eldriven]
 antonyms: []
-family: []
+family: [elektricitet, elektronik, elektriker]
 topics: [topic-lucia]
 sentences: []
 source: source-2026-10-10-lucia
@@ -19,6 +19,10 @@ created: "2026-10-10"
 # elektrisk — adjektiv
 
 📖 中文：电的 · English: electric
+
+🇸🇪 Förklaring: som drivs med ström eller har med ström att göra
+
+发音提示：/ɛˈlɛkːtrɪsk/ — 重音在第二音节 lek
 
 ## 语法变形 (Forms)
 
@@ -41,6 +45,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[elektricitet]] (电), [[elektronik]] (电子产品), [[elektriker]] (电工)
+- 同义词: [[eldriven]] (电动的)
+- 反义词: —
 - 相关: [[levande]]
 - 主题: [[topic-lucia]]
 - 来源: [[source-2026-10-10-lucia]]

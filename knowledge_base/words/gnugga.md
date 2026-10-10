@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "揉"
 en: "to rub"
-synonyms: []
+synonyms: [gnida, frottera]
 antonyms: []
 family: []
 topics: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # gnugga — verb
 
 📖 中文：揉 · English: to rub
+
+🇸🇪 Förklaring: trycka och dra något fram och tillbaka mot en yta
+
 发音提示：[ˈɡnʉɡːa] g 和 n 都发音（gn-），短 u + 双 g；第 1 组。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: —
+- 同义词: [[gnida]] (擦), [[frottera]] (摩擦)
 - 反义词: —
 - 主题: —
 

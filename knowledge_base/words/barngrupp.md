@@ -18,6 +18,9 @@ created: "2026-10-01"
 # barngrupp — substantiv (en)
 
 📖 中文：儿童小组 · English: group of children
+
+🇸🇪 Förklaring: de barn som är tillsammans på samma avdelning på en förskola
+
 发音提示：/ˈbɑːɳˌɡrɵp/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[barn]]
-- 同义词:
-- 反义词:
+- 词族: [[barn]], [[grupp]]
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

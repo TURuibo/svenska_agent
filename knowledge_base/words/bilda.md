@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "组建，成立"
 en: "to form, to found"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [grunda, starta]
+antonyms: [upplösa]
+family: [bildning, utbilda, bildande]
 topics: []
 sentences: [sent-en-kvinnas-plats-var-i-hemmet, sent-hon-engagerade-sig-för-fred]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # bilda — verb
 
 📖 中文：组建，成立 · English: to form, to found
-发音提示：
+
+🇸🇪 Förklaring: starta eller skapa en grupp, ett företag eller en förening
+
+发音提示：/ˈbɪlda/ — 重音在第一音节，i 读短音
 
 ## 语法变形 (Forms)
 
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[bildning]] (教育；修养), [[utbilda]] (培训), [[bildande]] (成立)
+- 同义词: [[grunda]] (创立), [[starta]] (创办)
+- 反义词: [[upplösa]] (解散)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

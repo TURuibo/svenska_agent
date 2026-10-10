@@ -8,7 +8,7 @@ zh: "课间休息、歇息"
 en: "break, recess"
 synonyms: [paus]
 antonyms: []
-family: []
+family: [rasta, lunchrast, rastvakt]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # rast — substantiv (en-ord)
 
 📖 中文：课间休息、歇息 · English: break, recess
+
+🇸🇪 Förklaring: kort paus i skolan eller på jobbet då man vilar eller går ut
+
 发音提示：RAST
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
+- 词族: [[rasta]] (遛（狗）；歇息), [[lunchrast]] (午休), [[rastvakt]] (课间值班)
 - 同义词: [[paus]] (停顿、暂停)
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

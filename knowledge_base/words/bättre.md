@@ -21,7 +21,10 @@ interval: 0
 # bättre — adjektiv (komparativ av bra/god)
 
 📖 中文：更好的 · English: better
-发音提示：
+
+🇸🇪 Förklaring: som har högre kvalitet eller passar mer än något annat; komparativ av bra
+
+发音提示：/ˈbɛtːrɛ/ — ä 短音，tt 读长辅音；重音在第一音节
 
 ## 语法变形 (Forms)
 

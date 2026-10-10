@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "投资，举措"
 en: "investment, initiative"
-synonyms: []
-antonyms: []
-family: ["satsa"]
+synonyms: [investering, initiativ]
+antonyms: [nedskärning]
+family: [satsa]
 topics: ["topic-forsvar-och-sakerhet"]
 sentences:
   - sent-flygbolaget-sas-gor-en-stor-ny
@@ -24,6 +24,9 @@ interval: 0
 # satsning — substantiv
 
 📖 中文：投资，举措 · English: investment, initiative
+
+🇸🇪 Förklaring: det att man lägger mycket pengar, tid eller kraft på något för att nå ett mål
+
 发音提示：SATS-ning
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[satsa]]
+- 同义词: [[investering]] (投资), [[initiativ]] (举措)
+- 反义词: [[nedskärning]] (削减)
 - 主题: [[topic-forsvar-och-sakerhet]]
 
 ## 用法提示 (Usage Notes)

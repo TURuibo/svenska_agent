@@ -8,7 +8,7 @@ zh: "帽子"
 en: "hat"
 synonyms: [mössa]
 antonyms: []
-family: []
+family: [solhatt, stråhatt, hatthylla]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hatt — substantiv (en-ord)
 
 📖 中文：帽子 · English: hat
+
+🇸🇪 Förklaring: plagg som man har på huvudet, ofta med en kant runt om som ger skugga
+
 发音提示：/hatː/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[solhatt]] (遮阳帽), [[stråhatt]] (草帽), [[hatthylla]] (帽架)
 - 同义词: [[mössa]] (针织帽/冬帽)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

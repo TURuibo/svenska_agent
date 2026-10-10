@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "事业，职业生涯"
 en: "career"
-synonyms: []
+synonyms: [yrkesbana, bana]
 antonyms: []
-family: []
+family: [karriärist, karriärväg, karriärkvinna]
 topics: []
 sentences: [sent-hennes-pappa-uppmuntrade-henne-att, sent-hon-fick-jobbet-och-gjorde-snabbt]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # karriär — substantiv
 
 📖 中文：事业，职业生涯 · English: career
-发音提示：
+
+🇸🇪 Förklaring: den utveckling som en person har i sitt yrke under livet
+
+发音提示：/kariˈæːr/ — 重音在最后 är；ä 在 r 前读 æ
 
 ## 语法变形 (Forms)
 
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[karriärist]] (野心家), [[karriärväg]] (职业路径), [[karriärkvinna]] (职业女性)
+- 同义词: [[yrkesbana]] (职业道路), [[bana]] (生涯)
 - 反义词: —
 - 主题: —
 

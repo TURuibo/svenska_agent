@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "退烧的，无发烧的"
 en: "fever-free"
 synonyms: [frisk]
-antonyms: []
+antonyms: [febrig]
 family: [feber, febernedsättande]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: [sent-och-kom-ihåg-regeln-en-feberfri]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # feberfri — adjektiv
 
 📖 中文：退烧的，无发烧的 · English: fever-free
+
+🇸🇪 Förklaring: som inte längre har förhöjd kroppstemperatur
+
 发音提示：FE-ber-fri，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-26"
 
 - 词族: [[feber]], [[febernedsättande]]
 - 同义词: [[frisk]]
-- 反义词: 
+- 反义词: [[febrig]] (发烧的)
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

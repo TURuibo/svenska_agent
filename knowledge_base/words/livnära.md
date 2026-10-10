@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "维持生计，靠……谋生"
 en: "to sustain oneself, to make a living"
-synonyms: ["försörja sig", "klara sig"]
+synonyms: [försörja-sig, klara-sig]
 antonyms: []
-family: ["liv", "livnäring", "näring"]
+family: [liv, näring, livnäring]
 topics: ["topic-arbete-och-jobb"]
 sentences: ["sent-det-höga-besöksantalet-har-gjort"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # livnära — verb (grupp 1)
 
 📖 中文：维持生计，靠……谋生 · English: to sustain oneself, to make a living
+
+🇸🇪 Förklaring: försörja sig och skaffa det man behöver för att leva, t.ex. genom ett arbete (oftast med ”sig”)
+
 发音提示：[ˈliːvˌnæːra]
 
 ## 语法变形 (Forms)
@@ -49,7 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[liv]], [[näring]], [[livnäring]]
-- 同义词: [[försörja sig]]
+- 同义词: [[försörja-sig|försörja sig]], [[klara-sig]]
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

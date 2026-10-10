@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "游客数量，访客人数"
 en: "number of visitors"
-synonyms: ["besökarantal"]
+synonyms: [besökarantal]
 antonyms: []
-family: ["besöka", "besökare", "antal"]
+family: [besöka, besökare, antal]
 topics: ["topic-fritid-och-resor"]
 sentences: ["sent-det-höga-besöksantalet-har-gjort"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # besöksantal — substantiv (ett)
 
 📖 中文：游客数量，访客人数 · English: number of visitors
+
+🇸🇪 Förklaring: hur många personer som kommer till en plats eller ett evenemang
+
 发音提示：[bɛˈsøːksˌanˌtaːl]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[besöka]], [[besökare]], [[antal]]
+- 同义词: [[besökarantal]]
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

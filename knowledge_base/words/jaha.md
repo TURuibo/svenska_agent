@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "哦（表示明白了）"
 en: "oh, I see"
-synonyms: []
+synonyms: [jaså, okej]
 antonyms: []
-family: []
+family: [ja, aha]
 topics: [topic-förskola-vardag]
 sentences: [sent-jaha-lite-snuva-gör-inget-så]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # jaha — interjektion
 
 📖 中文：哦（表示明白了） · English: oh, I see
+
+🇸🇪 Förklaring: används för att visa att man har förstått eller fått ny information, ibland lite förvånat
+
 发音提示：/jaˈhɑː/，通常重音落在第二音节 ja-HA，语调上扬或平稳表示「明白了」。
 
 ## 语法变形 (Forms)
@@ -40,6 +43,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[ja]] (是), [[aha]] (啊哈)
+- 同义词: [[jaså]] (原来如此), [[okej]] (好的)
+- 反义词: —
 - 相关: [[toppen]] (太棒了) · [[oj]] (哎呀)
 - 主题: [[topic-förskola-vardag]]
 

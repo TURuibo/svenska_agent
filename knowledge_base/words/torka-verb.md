@@ -18,8 +18,11 @@ created: "2026-10-01"
 # torka — verb (grupp 1)
 
 📖 中文：变干；擦干；晾干 · English: to dry; to wipe
-发音提示：/ˈtɔrka/
 同形词：名词 [[torka]]（干旱，en torka）；本条是动词。
+
+🇸🇪 Förklaring: förlora sin fukt eller ta bort fukt från något, till exempel med en handduk
+
+发音提示：/ˈtɔrka/
 
 ## 语法变形 (Forms)
 
@@ -45,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[torka]]、[[torkad]]
-- 同义词: 
-- 反义词: blöta
+- 词族: [[torka]], [[torkad]]
+- 同义词: —
+- 反义词: [[blöta]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

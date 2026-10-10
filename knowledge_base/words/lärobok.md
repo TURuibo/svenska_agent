@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "课本"
 en: "textbook"
-synonyms: []
+synonyms: [skolbok, kursbok]
 antonyms: []
-family: ["lära", "bok"]
+family: [lära, bok]
 topics: ["topic-skola-och-utbildning", "topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # lärobok — substantiv (en)
 
 📖 中文：课本 · English: textbook
+
+🇸🇪 Förklaring: tryckt verk som används i undervisning och förklarar ett skolämne
+
 发音提示：LÄ-ro-bok
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lära]], [[bok]]
+- 同义词: [[skolbok]] (课本), [[kursbok]] (教材)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]], [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

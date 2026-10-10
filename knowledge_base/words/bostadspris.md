@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "房价"
 en: "housing price"
-synonyms: []
+synonyms: [huspris]
 antonyms: []
-family: []
+family: [bostad, pris, bostadsmarknad]
 topics: ["topic-geografi-samhalle"]
 sentences: ["sent-framst-ar-det-lagre-bostadspriser-och-narhet"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # bostadspris — substantiv
 
 📖 中文：房价 · English: housing price
-发音提示：
+
+🇸🇪 Förklaring: vad det kostar att köpa ett hus eller en lägenhet
+
+发音提示：/ˈbuːstɑːdsˌpriːs/ — 重音在 bo，pris 带次重音
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[bostad]] (住房), [[pris]] (价格), [[bostadsmarknad]] (房地产市场)
+- 同义词: [[huspris]] (房价)
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "小岛，礁"
 en: "islet"
-synonyms: ["ö"]
+synonyms: [ö]
 antonyms: []
-family: ["ö", "skär"]
+family: [skär, ö]
 topics: ["topic-stockholm"]
 sentences:
   - sent-skärgården-har-över-30-000-öar-holmar-och-skär
@@ -24,6 +24,9 @@ interval: 0
 # holme — substantiv
 
 📖 中文：小岛，礁 · English: islet
+
+🇸🇪 Förklaring: liten ö i havet eller i en sjö, ofta utan hus
+
 发音提示：HOL-me
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[skär]]
-- 同义词: `ö` (岛，泛指；holme 特指小型无人岛礁)
+- 词族: [[skär]], [[ö]] (岛)
+- 同义词: [[ö]] (岛，泛指；holme 特指小型无人岛礁)
+- 反义词: —
 - 主题: [[topic-stockholm]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "威胁"
 en: "threaten"
-synonyms: []
+synonyms: [skrämma]
 antonyms: []
-family: []
+family: [hot, hotfull, hotelse]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hota — verb
 
 📖 中文：威胁 · English: threaten
+
+🇸🇪 Förklaring: säga att man ska göra någon illa om hen inte gör som man vill
+
 发音提示： "hó-ta"
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[hot]] (威胁), [[hotfull]] (威胁性的), [[hotelse]] (恐吓)
+- 同义词: [[skrämma]] (恐吓)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

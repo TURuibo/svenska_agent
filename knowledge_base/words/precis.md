@@ -6,8 +6,8 @@ cefr: A2
 zh: 正好；刚刚；确切
 en: exactly; just
 synonyms: [exakt]
-antonyms: []
-family: []
+antonyms: [ungefär, cirka]
+family: [precision, precisera]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # precis — adverb / adjektiv
 
 📖 中文：正好；刚刚；确切 · English: exactly; just
+
+🇸🇪 Förklaring: 1) helt och hållet så, varken mer eller mindre; 2) för mycket kort tid sedan; 3) används för att hålla med någon
+
+发音提示：/prɛˈsiːs/ — c 读 /s/；重音在第二音节
 
 ## 语法变形 (Forms)
 
@@ -38,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: exakt
-- 反义词:
+- 词族: [[precision]] (精确), [[precisera]] (具体说明)
+- 同义词: [[exakt]]
+- 反义词: [[ungefär]] (大约), [[cirka]] (大约)
 - 主题:
 
 ## 用法提示 (Usage Notes)

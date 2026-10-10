@@ -19,6 +19,9 @@ created: "2026-09-26"
 # slut — adjektiv (不变形)
 
 📖 中文：累瘫的（口语）；（东西）用完了、结束了 · English: exhausted, worn out; finished, used up
+
+🇸🇪 Förklaring: 1) mycket trött och utan energi; 2) förbrukad så att det inte finns något kvar
+
 发音提示：/slʉːt/ — u 是瑞典语特有的长 [ʉː]。
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sluta]] (停止), slut (名词：结尾, ett slut)
-- 同义词: [[utmattad]] · [[trött]] (弱一些)
+- 词族: [[sluta]] (停止)
+- 同义词: [[utmattad]] · [[trött]] (弱一些), [[trött]] (累的、疲惫的)
 - 反义词: [[pigg]]
 - 主题: [[topic-förskola-vardag]]
 

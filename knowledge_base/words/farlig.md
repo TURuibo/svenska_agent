@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "危险的"
 en: "dangerous"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [riskabel, osäker]
+antonyms: [trygg]
+family: [fara, farlighet]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # farlig — adjektiv
 
 📖 中文：危险的 · English: dangerous
+
+🇸🇪 Förklaring: som kan skada någon eller orsaka problem
+
 发音提示：/ˈfɑːrlɪɡ/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fara]] (危险), [[farlighet]] (危险性)
-- 同义词: —
+- 同义词: [[riskabel]] (有风险的), [[osäker]] (不安全的)
 - 反义词: [[trygg]] (安全的；安心的)
 - 主题: [[topic-djur]]
 

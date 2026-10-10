@@ -17,6 +17,9 @@ created: "2026-09-22"
 # avståndstagande — adjektiv
 
 📖 中文：疏远的 · English: distancing, aloof
+
+🇸🇪 Förklaring: som visar att man inte vill ha med något eller någon att göra
+
 发音提示：/ˈɑːvˌstɔndsˌtɑːɡandə/
 
 ## 语法变形 (Forms)
@@ -39,7 +42,7 @@ created: "2026-09-22"
 
 - 词族: [[avstånd]]
 - 同义词: [[kylig]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

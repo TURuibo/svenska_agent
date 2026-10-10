@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "尿尿"
 en: "to pee"
-synonyms: []
+synonyms: [urinera, pinka]
 antonyms: []
-family: [bajsa]
+family: [bajsa, kiss]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # kissa — verb (grupp 1)
 
 📖 中文：尿尿（儿语/口语） · English: to pee
+
+🇸🇪 Förklaring: släppa ut urin ur kroppen
+
 发音提示：/ˈɕɪsːa/ — k 在 i 前读 tj-音 [ɕ]，像「西」。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bajsa]], kiss（名词）
-- 同义词: —
+- 词族: [[bajsa]], [[kiss]]（名词）
+- 同义词: [[urinera]] (排尿), [[pinka]] (撒尿（口语）)
 - 反义词: —
 - 主题: [[topic-småbarn-mat-och-sömn]], [[topic-förskola-vardag]]
 

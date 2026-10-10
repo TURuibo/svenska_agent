@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "停止；制止；塞入"
 en: "to stop, halt; to stuff, insert"
-synonyms: ["avbryta", "hejda"]
-antonyms: []
-family: ["stopp", "stoppning"]
+synonyms: [avbryta, hejda]
+antonyms: [starta]
+family: [stopp, stoppning]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # stoppa — verb
 
 📖 中文：停止；制止；塞入 · English: to stop, halt; to stuff, insert
+
+🇸🇪 Förklaring: 1) få någon eller något att stanna eller sluta; 2) trycka in något i något annat, t.ex. i en ficka
+
 发音提示：STOP-pa
 
 ## 语法变形 (Forms)
@@ -54,9 +57,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[stopp]]
-- 同义词:
-- 反义词:
+- 词族: [[stopp]], [[stoppning]]
+- 同义词: [[avbryta]] (打断), [[hejda]]
+- 反义词: [[starta]] (启动)
 - 主题:
 
 ## 用法提示 (Usage Notes)

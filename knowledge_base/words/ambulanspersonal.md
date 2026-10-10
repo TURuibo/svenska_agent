@@ -6,7 +6,7 @@ genus: "en"
 cefr: B1
 zh: 救护人员
 en: ambulance staff, paramedics
-synonyms: []
+synonyms: [ambulanssjukvårdare]
 antonyms: []
 family: [ambulans]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # ambulanspersonal — substantiv (en)
 
 📖 中文：救护人员 · English: ambulance staff
+
+🇸🇪 Förklaring: personer som arbetar i en ambulans och ger vård till sjuka och skadade
+
 发音提示：/ambʉˈlansperʃoˌnaːl/
 
 ## 语法变形 (Forms)
@@ -40,8 +43,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ambulans]]
-- 同义词:
-- 反义词:
+- 同义词: [[ambulanssjukvårdare]] (救护员)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

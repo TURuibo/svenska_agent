@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "男孩"
 en: "boy"
-synonyms: ["kille"]
-antonyms: ["flicka"]
-family: []
+synonyms: [kille]
+antonyms: [flicka]
+family: [pojkvän, skolpojke, pojkaktig]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # pojke — substantiv (en)
 
 📖 中文：男孩 · English: boy
+
+🇸🇪 Förklaring: barn eller ung person av manligt kön
+
 发音提示：/ˈpɔjkə/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[pojkvän]] (男朋友), [[skolpojke]] (男学生), [[pojkaktig]] (男孩子气的)
 - 同义词: [[kille]]
 - 反义词: [[flicka]]
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]

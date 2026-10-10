@@ -5,9 +5,9 @@ ordklass: "adjektiv / pronomen"
 cefr: A1
 zh: 同样的、相同的
 en: same
-synonyms: []
-antonyms: [olika]
-family: []
+synonyms: [likadan]
+antonyms: [olika, annan]
+family: [detsamma, likadan]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # samma — adjektiv / pronomen
 
 📖 中文：同样的、相同的 · English: same
+
+🇸🇪 Förklaring: används för att visa att det är exakt den eller det som nämnts och ingen annan
+
 发音提示：/ˈsamːa/；SAM-ma，`mm` 读长。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: detsamma / densamma（同样的那个）, likadan（一模一样的）
-- 同义词: `likadan`（一样的）
+- 词族: [[detsamma]] / densamma（同样的那个）, [[likadan]]（一模一样的）
+- 同义词: [[likadan]]（一样的）
 - 反义词: [[olika]]（不同的）, [[annan]]（别的）
 - 主题:
 

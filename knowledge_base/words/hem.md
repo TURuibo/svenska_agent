@@ -6,9 +6,9 @@ genus: ett
 cefr: A1
 zh: 家
 en: home
-synonyms: []
+synonyms: [bostad, hemvist]
 antonyms: []
-family: [hemma]
+family: [hemma, hemåt, hemskicka]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # hem — substantiv (ett-ord) / adverb
 
 📖 中文：家；（回）家 · English: home
+
+🇸🇪 Förklaring: bostad där man bor och känner sig trygg, ofta tillsammans med sin familj
+
+发音提示：/hɛmː/ — e 读短音 ɛ，m 拖长
 
 ## 语法变形 (Forms)
 
@@ -45,8 +49,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hemma]], [[hemåt]], [[hemskicka]]
-- 同义词:
-- 反义词:
+- 同义词: [[bostad]] (住所), [[hemvist]] (居所)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

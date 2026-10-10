@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 超员的、过满的
 en: overcrowded, overfull
-synonyms: []
-antonyms: []
-family: ["full"]
+synonyms: [fullsatt, proppfull]
+antonyms: [tom, halvtom]
+family: [full]
 topics: ["topic-trafik", "topic-kollektivtrafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # överfull — adjektiv
 
 📖 中文：超员的、过满的 · English: overcrowded, overfull
+
+🇸🇪 Förklaring: som har mer innehåll eller fler människor än det finns plats för
+
 发音提示：Ö-ver-full
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[full]]
+- 同义词: [[fullsatt]] (满座的), [[proppfull]] (塞满的)
+- 反义词: [[tom]] (空的), [[halvtom]] (半空的)
 - 主题: [[topic-trafik]], [[topic-kollektivtrafik]]
 
 ## 用法提示 (Usage Notes)

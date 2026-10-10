@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "城墙，围墙"
 en: "wall (stone/fortification)"
-synonyms: ["vägg"]
+synonyms: [vägg]
 antonyms: []
-family: ["mura", "murare"]
+family: [mura, murare]
 topics: ["topic-geografi-natur"]
 sentences: ["sent-visby-omgärdas-av-en-34-kilometer"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # mur — substantiv (en)
 
 📖 中文：城墙，围墙 · English: wall (stone/fortification)
+
+🇸🇪 Förklaring: tjock och stark vägg av sten eller tegel, ofta runt en stad eller ett område
+
 发音提示：[muːr]
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 
 - 词族: [[mura]], [[murare]]
 - 同义词: [[vägg]] (indoor wall — men `mur` = utomhus/fortification)
+- 反义词: —
 - 主题: [[topic-geografi-natur]]
 
 ## 用法提示 (Usage Notes)

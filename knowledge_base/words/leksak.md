@@ -8,7 +8,7 @@ zh: "玩具"
 en: "toy"
 synonyms: []
 antonyms: []
-family: ["leka"]
+family: [leka]
 topics: ["topic-film", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # leksak — substantiv (en)
 
 📖 中文：玩具 · English: toy
+
+🇸🇪 Förklaring: föremål som barn använder när de roar sig, t.ex. en docka eller en bil
+
 发音提示：lek-sak
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[leka]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-film]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

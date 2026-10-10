@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 脆弱的，易碎的
 en: fragile, frail
-synonyms: []
-antonyms: []
-family: []
+synonyms: [svag]
+antonyms: [stark, frisk]
+family: [bräcklighet, bräcka]
 topics: [topic-hälsa]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # bräcklig — adjektiv
 
 📖 中文：脆弱的，易碎的 · English: fragile, frail
+
+🇸🇪 Förklaring: som lätt går sönder eller är svag och inte tål mycket
+
 发音提示：[ˈbrɛklɪɡ]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[bräcklighet]] (脆弱), [[bräcka]] (弄断；压倒)
 - 同义词: [[svag]]
 - 反义词: [[stark]], [[frisk]]
 - 主题: [[topic-hälsa]]

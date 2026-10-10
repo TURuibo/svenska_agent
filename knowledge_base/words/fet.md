@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "肥的"
 en: "fat"
-synonyms: ["tjock"]
-antonyms: ["mager", "smal", "tunn"]
-family: ["fett", "fetma"]
+synonyms: [tjock]
+antonyms: [mager, smal, tunn]
+family: [fett, fetma]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fet — adjektiv
 
 📖 中文：肥的 · English: fat
+
+🇸🇪 Förklaring: 1) som väger för mycket och har en tjock kropp; 2) om mat: som innehåller mycket smör, olja eller liknande
+
 发音提示：/feːt/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[fett]] (脂肪)
+- 词族: [[fett]] (脂肪), [[fetma]]
 - 同义词: [[tjock]]
 - 反义词: [[mager]], [[smal]], [[tunn]]
 - 主题: [[topic-djur]]

@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "外衣；户外衣物"
 en: "outerwear"
-synonyms: []
-antonyms: []
+synonyms: [ytterplagg]
+antonyms: [underkläder]
 family: [kläder, regnkläder, extrakläder]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ytterkläder — substantiv (endast plural)
 
 📖 中文：外衣；户外衣物 · English: outerwear
+
+🇸🇪 Förklaring: kläder som man har utanpå andra kläder när man går ut, till exempel jacka och mössa
+
 发音提示：/ˈʏtːɛrˌklɛːdɛr/ — ytter- 短 y，-kläder 长 ä
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kläder]] (衣服), [[regnkläder]] (雨衣裤), [[extrakläder]] (备用衣物)
+- 同义词: [[ytterplagg]] (外衣)
+- 反义词: [[underkläder]] (内衣)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

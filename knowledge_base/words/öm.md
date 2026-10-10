@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "酸痛的；体贴的"
 en: "sore; tender"
-synonyms: []
+synonyms: [värkande, kärleksfull]
 antonyms: []
-family: []
+family: [ömhet, ömsint, ömma]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # öm — adjektiv
 
 📖 中文：酸痛的；体贴的 · English: sore; tender
+
+🇸🇪 Förklaring: som gör ont när man rör vid det; som visar kärlek och omtanke
+
 发音提示：/øːm/
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[ömhet]] (温柔), [[ömsint]] (温柔的), [[ömma]] (疼痛)
+- 同义词: [[värkande]] (疼痛的), [[kärleksfull]] (充满爱的)
 - 反义词: —
 - 主题: [[topic-kropp]]
 

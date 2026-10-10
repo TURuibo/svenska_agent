@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: "战斗，争斗，搏斗"
 en: "battle, fight, struggle"
-synonyms: ["kamp", "batalj"]
-antonyms: ["fred"]
-family: ["strida", "stridsman", "stridbar"]
+synonyms: [kamp, batalj]
+antonyms: [fred]
+family: [strida, stridsman, stridbar]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # strid — substantiv (en)
 
 📖 中文：战斗，争斗，搏斗 · English: battle, fight, struggle
+
+🇸🇪 Förklaring: kamp mellan personer eller grupper, t.ex. med vapen eller med ord
+
 发音提示：/striːd/，单音节，"i" 长音
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: strida (verb, 战斗/争论), stridsman (en, 战士), stridbar (adj, 好战的)
-- 同义词: [[kamp]] (en, 斗争/搏斗), batalj (en, 战役，较书面)
+- 词族: [[strida]] (verb, 战斗/争论), [[stridsman]] (en, 战士), [[stridbar]] (adj, 好战的)
+- 同义词: [[kamp]] (en, 斗争/搏斗), [[batalj]] (en, 战役，较书面)
 - 反义词: [[fred]] (en, 和平)
 - 主题: [[topic-vikingatiden]]
 

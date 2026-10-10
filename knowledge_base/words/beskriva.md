@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "描述；形容；叙述"
 en: "to describe"
-synonyms: []
+synonyms: [skildra]
 antonyms: []
 family: [skriva, beskrivning]
 topics: [topic-allmänna-verb]
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # beskriva — verb (grupp 4, 强变化)
 
 📖 中文：描述；形容；叙述 · English: to describe
+
+🇸🇪 Förklaring: berätta hur något eller någon ser ut eller är
+
 发音提示：be-SKRI-va，重音在第二音节 `skri`。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[skriva]]（写）、[[beskrivning]]（描述，名词）
-- 同义词: 近义 `skildra`（生动地描绘，文学感更强）
+- 词族: [[skriva]]（写）, [[beskrivning]]（描述，名词）
+- 同义词: 近义 [[skildra]]（生动地描绘，文学感更强）
 - 反义词: —
 - 主题: [[topic-allmänna-verb]]
 

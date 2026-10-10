@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "起义，反抗"
 en: "uprising, revolt"
-synonyms: []
+synonyms: [revolt, resning]
 antonyms: []
-family: []
+family: [upprorisk, upprorsman]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-1918-tog-kriget-slut]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # uppror — substantiv
 
 📖 中文：起义，反抗 · English: uprising, revolt
-发音提示：
+
+🇸🇪 Förklaring: när många människor gör motstånd mot makten, ofta med våld
+
+发音提示：/ˈɵpːˌruːr/ — o 读长音 uː；重音在 upp
 
 ## 语法变形 (Forms)
 
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[upprorisk]] (叛逆的), [[upprorsman]] (起义者)
+- 同义词: [[revolt]] (叛乱), [[resning]] (起义)
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

@@ -9,7 +9,7 @@ zh: "越橘果酱；蔓越橘酱"
 en: "lingonberry jam"
 synonyms: []
 antonyms: []
-family: ["lingon", "sylt"]
+family: [lingon, sylt]
 topics: ["topic-mat-dryck", "topic-midsommar-traditioner"]
 sentences: ["sent-jag-vill-ha-kottbullar-med-potatismos-och-lingonsylt"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # lingonsylt — substantiv en
 
 📖 中文：越橘果酱；蔓越橘酱 · English: lingonberry jam
+
+🇸🇪 Förklaring: kokta och sötade små röda skogsbär som man ofta äter till köttbullar
+
 发音提示：LING-on-sylt
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lingon]] · [[sylt]]
+- 词族: [[lingon]] · [[sylt]], [[sylt]] (果酱)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sandlåda — substantiv (en)
 
 📖 中文：沙坑 · English: sandpit, sandbox
+
+🇸🇪 Förklaring: inramad plats med sand där små barn kan leka och bygga
+
 发音提示：/ˈsandˌloːda/ — sand + låda，å 读长 [oː]。
 
 ## 语法变形 (Forms)

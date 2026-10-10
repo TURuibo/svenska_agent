@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "能力"
 en: "ability, capability"
-synonyms: []
-antonyms: ["oförmåga"]
-family: []
+synonyms: [kapacitet, färdighet]
+antonyms: [oförmåga]
+family: [förmå, förmögen]
 topics: ["topic-forsvar-och-sakerhet"]
 sentences:
   - sent-lagger-man-ihop-polens-och
@@ -24,6 +24,9 @@ interval: 0
 # förmåga — substantiv
 
 📖 中文：能力 · English: ability, capability
+
+🇸🇪 Förklaring: det att kunna göra något; kunskap, skicklighet eller kraft som man har
+
 发音提示：för-MÅ-ga
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: `oförmåga` (无能力)
+- 词族: [[förmå]] (能够；促使), [[förmögen]] (有能力的；富有的)
+- 同义词: [[kapacitet]] (能力), [[färdighet]] (技能)
+- 反义词: [[oförmåga]] (无能力)
 - 主题: [[topic-forsvar-och-sakerhet]]
 
 ## 用法提示 (Usage Notes)

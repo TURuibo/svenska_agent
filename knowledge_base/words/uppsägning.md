@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "解雇；辞职通知"
 en: "notice of termination, dismissal"
-synonyms: []
-antonyms: ["anställning"]
-family: ["uppsägningstid", "säga upp"]
+synonyms: [avsked]
+antonyms: [anställning]
+family: [uppsägningstid, säga-upp]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # uppsägning — substantiv (en-ord)
 
 📖 中文：解雇；辞职通知 · English: notice of termination, dismissal
+
+🇸🇪 Förklaring: när en anställning avslutas, antingen av arbetsgivaren eller av den anställda själv; meddelande om att avtalet ska sluta
+
 发音提示：UPP-säg-ning
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-10-03"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[uppsägningstid]], [[säga upp]]
-- 同义词: —
+- 词族: [[uppsägningstid]], [[säga-upp|säga upp]]
+- 同义词: [[avsked]] (解雇)
 - 反义词: [[anställning]]
 - 主题: [[topic-arbete-och-jobb]]
 

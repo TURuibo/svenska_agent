@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 性别平等
 en: gender equality
-synonyms: []
-antonyms: []
-family: ["jämlikhet"]
+synonyms: [könsjämlikhet]
+antonyms: [ojämställdhet, diskriminering]
+family: [jämlikhet]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # jämställdhet — substantiv (en)
 
 📖 中文：性别平等 · English: gender equality
+
+🇸🇪 Förklaring: när kvinnor och män har samma rättigheter, möjligheter och skyldigheter
+
 发音提示：YEM-steld-het
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: jämlikhet（普遍平等，不限性别）
+- 词族: [[jämlikhet]]（普遍平等，不限性别）
+- 同义词: [[könsjämlikhet]] (性别平等)
+- 反义词: [[ojämställdhet]] (性别不平等), [[diskriminering]] (歧视)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

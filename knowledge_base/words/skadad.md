@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "受伤的；损坏的"
 en: "injured, hurt, damaged"
-synonyms: []
-antonyms: []
-family: ["skada"]
+synonyms: [sårad, trasig]
+antonyms: [oskadd, hel]
+family: [skada]
 topics: ["topic-hälsa"]
 sentences: ["sent-over-700-personer-ar-skadade", "sent-det-ar-troligen-manga-fler-doda"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # skadad — adjektiv
 
 📖 中文：受伤的；损坏的 · English: injured, hurt, damaged
+
+🇸🇪 Förklaring: som har blivit sårad eller fått ont i kroppen; som är trasig eller förstörd
+
 发音提示：SKAA-dad
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skada]]
-- 同义词:
-- 反义词:
+- 同义词: [[sårad]] (受伤的), [[trasig]] (破损的)
+- 反义词: [[oskadd]] (未受伤的), [[hel]] (完好的)
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

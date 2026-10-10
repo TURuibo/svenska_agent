@@ -18,6 +18,9 @@ created: "2026-09-22"
 # avstå — verb (grupp 4, oregelbundet)
 
 📖 中文：放弃、割舍 · English: to refrain, give up
+
+🇸🇪 Förklaring: välja att inte göra eller ta något som man skulle kunna få
+
 发音提示：/ˈɑːvˌstoː/
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-22"
 
 - 词族: [[stå]]
 - 同义词: [[ge-upp]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

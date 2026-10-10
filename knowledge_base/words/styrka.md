@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: "力量，强大，优势"
 en: "strength, power, force"
-synonyms: ["kraft", "makt"]
-antonyms: ["svaghet"]
-family: ["stark", "stärka", "styrkemätning"]
+synonyms: [kraft, makt]
+antonyms: [svaghet]
+family: [stark, stärka, styrkemätning]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # styrka — substantiv (en)
 
 📖 中文：力量，强大，优势 · English: strength, power, force
+
+🇸🇪 Förklaring: 1) kraft i kroppen eller förmåga att stå emot något; 2) något som en person är bra på, en fördel
+
 发音提示：/ˈstyrˌka/，两音节，"y" 是瑞典特有的圆唇前元音
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: stark (adj, 强壮的/强大的), stärka (verb, 加强/强化), styrkemätning (en, 力量测试)
-- 同义词: [[kraft]] (en, 力量/能量), makt (en, 权力/权威 — 更政治性)
-- 反义词: svaghet (en, 弱点/虚弱)
+- 词族: [[stark]] (adj, 强壮的/强大的), [[stärka]] (verb, 加强/强化), [[styrkemätning]] (en, 力量测试)
+- 同义词: [[kraft]] (en, 力量/能量), [[makt]] (en, 权力/权威 — 更政治性)
+- 反义词: [[svaghet]] (en, 弱点/虚弱)
 - 主题: [[topic-vikingatiden]]
 
 ## 用法提示 (Usage Notes)

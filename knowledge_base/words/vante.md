@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "连指手套"
 en: "mitten"
-synonyms: []
+synonyms: [handske]
 antonyms: []
-family: []
+family: [tumvante, fingervante, ullvante]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
 sentences: [sent-vantarna-blir-ofta-blöta-så-det, sent-då-behöver-barnen-solhatt-och-solkräm]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vante — substantiv
 
 📖 中文：连指手套 · English: mitten
+
+🇸🇪 Förklaring: plagg för handen där tummen har en egen plats och de andra fingrarna sitter tillsammans
+
 发音提示：/ˈvantɛ/ — 短 a，复数 vantar 重音在第一音节
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —（分指手套是 *handske*）
+- 词族: [[tumvante]] (连指手套), [[fingervante]] (五指手套), [[ullvante]] (羊毛手套)
+- 同义词: —（分指手套是 [[handske]]）
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

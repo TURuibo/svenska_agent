@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 维护良好的
 en: well-maintained, well-kept
-synonyms: []
-antonyms: []
-family: ["sköta"]
+synonyms: [prydlig, välhållen]
+antonyms: [vanskött, förfallen]
+family: [sköta]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # välskött — adjektiv
 
 📖 中文：维护良好的 · English: well-maintained, well-kept
+
+🇸🇪 Förklaring: som har tagits om hand på ett bra sätt och är i fint skick
+
 发音提示：VÄL-skött
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sköta]]
+- 同义词: [[prydlig]] (整洁的), [[välhållen]] (保养良好的)
+- 反义词: [[vanskött]] (疏于照管的), [[förfallen]] (破败的)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

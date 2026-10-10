@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "服务员"
 en: "waiter; server"
-synonyms: []
+synonyms: [kypare]
 antonyms: []
-family: []
+family: [servitris, servera, servering]
 topics: ["topic-mat-dryck", "topic-yrken"]
 sentences:
   - sent-grattis-jag-heter-mikael-och-tar
@@ -24,6 +24,9 @@ interval: 0
 # servitör — substantiv (en)
 
 📖 中文：服务员 · English: waiter; server
+
+🇸🇪 Förklaring: person som tar emot beställningar och bär fram mat och dryck på en restaurang
+
 发音提示：/sɛrviˈtøːr/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[servitris]] (女服务员), [[servera]] (上菜), [[servering]] (上菜；餐饮区)
+- 同义词: [[kypare]] (侍者)
+- 反义词: —
 - 主题: [[topic-mat-dryck]], [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

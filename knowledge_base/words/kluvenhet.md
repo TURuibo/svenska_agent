@@ -6,11 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "矛盾心理；两难；内心分裂"
 en: "ambivalence; inner conflict; being torn"
-synonyms:
-  - ambivalens
-antonyms: []
-family:
-  - kluven
+synonyms: [ambivalens]
+antonyms: [beslutsamhet, visshet]
+family: [kluven]
 topics:
   - topic-film
   - topic-litteratur-och-kultur
@@ -27,6 +25,9 @@ interval: 0
 # kluvenhet — substantiv en
 
 📖 中文：矛盾心理；两难；内心分裂 · English: ambivalence; inner conflict
+
+🇸🇪 Förklaring: känsla av att vilja två motsatta saker samtidigt och inte kunna bestämma sig
+
 发音提示：/KLU-ven-het/
 
 ## 语法变形 (Forms)
@@ -51,6 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kluven（形容词：分裂的/矛盾的）
-- 同义词: ambivalens（英语借词）
+- 词族: [[kluven]]（形容词：分裂的/矛盾的）
+- 同义词: [[ambivalens]]（英语借词）
+- 反义词: [[beslutsamhet]] (果断), [[visshet]] (确信)
 - 主题: [[topic-film]] · [[topic-litteratur-och-kultur]]

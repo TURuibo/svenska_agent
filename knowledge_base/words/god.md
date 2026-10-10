@@ -6,9 +6,9 @@ genus: ""
 cefr: "A1"
 zh: "好的、善良的"
 en: "good"
-synonyms: ["snäll", "vänlig"]
-antonyms: []
-family: ["godhet"]
+synonyms: [snäll, vänlig]
+antonyms: [ond, dålig]
+family: [godhet]
 topics: ["topic-personer", "topic-karaktarsord", "topic-kafe-fika", "topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # god — adjektiv
 
 📖 中文：好的、善良的 · English: good
+
+🇸🇪 Förklaring: 1) bra, av hög kvalitet, till exempel om mat; 2) snäll och vänlig mot andra
+
 发音提示：/ɡuːd/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 
 - 词族: [[godhet]]
 - 同义词: [[snäll]], [[vänlig]]
+- 反义词: [[ond]] (邪恶的), [[dålig]] (坏的)
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

@@ -6,8 +6,8 @@ genus: ""
 cefr: B1
 zh: 有经验的
 en: experienced
-synonyms: []
-antonyms: []
+synonyms: [rutinerad, kunnig]
+antonyms: [oerfaren]
 family: [erfarenhet]
 topics: [topic-arbete-och-jobb]
 sentences: []
@@ -22,6 +22,9 @@ interval: 0
 # erfaren — adjektiv
 
 📖 中文：有经验的 · English: experienced
+
+🇸🇪 Förklaring: som har gjort något många gånger och därför kan det bra
+
 发音提示：[ɛrˈfɑːrən] — 重音在第二音节 `-far-`
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[erfarenhet]]
+- 同义词: [[rutinerad]] (老练的), [[kunnig]] (内行的)
 - 反义词: [[oerfaren]]
 - 主题: [[topic-arbete-och-jobb]]
 

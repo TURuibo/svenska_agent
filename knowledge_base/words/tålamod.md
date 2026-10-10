@@ -6,9 +6,9 @@ genus: ett
 cefr: "B1"
 zh: "耐心"
 en: "patience"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [uthållighet]
+antonyms: [otålighet]
+family: [tåla, tålmodig, otålig]
 topics: ["topic-karaktarsord"]
 sentences:
   - "sent-man-vanjer-sig-men"
@@ -23,6 +23,9 @@ interval: 0
 # tålamod — substantiv (ett)
 
 📖 中文：耐心 · English: patience
+
+🇸🇪 Förklaring: förmåga att vänta lugnt eller göra något svårt utan att bli irriterad
+
 发音提示：TOH-lah-mood（三音节，重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[tåla]] (忍受), [[tålmodig]] (耐心的), [[otålig]] (不耐烦的)
+- 同义词: [[uthållighet]] (毅力)
+- 反义词: [[otålighet]] (不耐烦)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

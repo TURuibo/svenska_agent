@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "纸币"
 en: "banknote"
-synonyms: []
+synonyms: [papperspengar]
 antonyms: []
 family: [mynt]
 topics: [topic-betalning]
@@ -23,6 +23,9 @@ interval: 0
 # sedel — substantiv (en)
 
 📖 中文：纸币 · English: banknote
+
+🇸🇪 Förklaring: pengar av papper som har ett visst värde
+
 发音提示：SE-del
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mynt]]（硬币）
-- 同义词: —
+- 同义词: [[papperspengar]] (纸币)
 - 反义词: —
 - 主题: [[topic-betalning]]
 

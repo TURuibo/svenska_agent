@@ -5,7 +5,7 @@ ordklass: interjektion
 cefr: A1
 zh: 好的；行
 en: okay
-synonyms: []
+synonyms: [ok]
 antonyms: []
 family: []
 topics: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # okej — interjektion / adjektiv
 
 📖 中文：好的；行 · English: okay
+
+🇸🇪 Förklaring: används för att säga att man går med på något eller att något är bra nog
+
+发音提示：/ʊˈkɛj/ — 重音在第二音节 kej
 
 ## 语法变形 (Forms)
 
@@ -37,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: ok
-- 反义词:
+- 词族: —
+- 同义词: [[ok]]
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

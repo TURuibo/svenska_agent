@@ -9,7 +9,7 @@ zh: "靴子"
 en: "boot"
 synonyms: []
 antonyms: []
-family: []
+family: [gummistövel, stövlett]
 topics: ["topic-vader-och-arstider", "topic-hemmet"]
 sentences:
   - sent-man-klar-pa-sig-tjocka-jackor
@@ -24,6 +24,9 @@ interval: 0
 # stövel — substantiv (en)
 
 📖 中文：靴子 · English: boot
+
+🇸🇪 Förklaring: hög sko som går upp över ankeln, ofta av gummi eller läder
+
 发音提示：/ˈstøːvəl/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gummistövel]] (胶靴), [[stövlett]] (短靴)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

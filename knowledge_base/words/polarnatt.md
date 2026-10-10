@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "极夜"
 en: "polar night"
-synonyms: []
-antonyms: ["midnattssol"]
-family: ["polcirkel", "midnattssol"]
+synonyms: [mörkertid]
+antonyms: [midnattssol]
+family: [polcirkel, midnattssol]
 topics: ["topic-vader-och-arstider"]
 sentences: ["sent-det-kallas-for-polarnatt", "sent-det-ar-morkt-hela-dygnet"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # polarnatt — substantiv (en)
 
 📖 中文：极夜 · English: polar night
+
+🇸🇪 Förklaring: tid på vintern då solen inte går upp över horisonten i områden nära polerna
+
 发音提示：['puːlarˌnaːt]，复合词重音在 polar-
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[polcirkel]], [[midnattssol]]
-- 同义词: —
+- 同义词: [[mörkertid]] (极夜期)
 - 反义词: [[midnattssol]]（极昼，午夜太阳）
 - 主题: [[topic-vader-och-arstider]]
 

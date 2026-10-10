@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "清醒的、警醒的"
 en: "awake / alert"
-synonyms: ["pigg"]
-antonyms: ["trött", "sömnig"]
-family: ["vakna", "vaksamhet"]
+synonyms: [pigg]
+antonyms: [trött, sömnig]
+family: [vakna, vaksamhet]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # vaken — adjektiv
 
 📖 中文：清醒的、警醒的 · English: awake / alert
+
+🇸🇪 Förklaring: som inte sover; som är uppmärksam och snabb att förstå
+
 发音提示：/ˈvɑːkɛn/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[vakna]] (醒来)
+- 词族: [[vakna]] (醒来), [[vaksamhet]]
 - 同义词: [[pigg]]
-- 反义词: [[trött]]
+- 反义词: [[trött]], [[sömnig]]
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

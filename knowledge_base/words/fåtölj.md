@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "扶手椅；单人沙发"
 en: "armchair"
-synonyms: []
+synonyms: [länsstol]
 antonyms: []
 family: [soffa, stol, soffbord]
 topics: [topic-mobler, topic-hemmet]
@@ -24,6 +24,9 @@ interval: 0
 # fåtölj — substantiv (en)
 
 📖 中文：扶手椅；单人沙发 · English: armchair
+
+🇸🇪 Förklaring: bekväm stoppad stol med ryggstöd och armstöd för en person
+
 发音提示：fåt-ÖLJ；两音节，重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[soffa]] (沙发), [[stol]] (椅子)
-- 同义词: —
+- 词族: [[soffa]] (沙发), [[stol]] (椅子), [[soffbord]]
+- 同义词: [[länsstol]] (扶手椅)
 - 反义词: —
 - 主题: [[topic-mobler]], [[topic-hemmet]]
 

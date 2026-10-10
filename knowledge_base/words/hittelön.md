@@ -23,6 +23,9 @@ interval: 0
 # hittelön — substantiv (en)
 
 📖 中文：拾得物奖金 · English: finder's reward
+
+🇸🇪 Förklaring: pengar som man får som tack när man lämnar tillbaka något som någon annan har tappat
+
 发音提示：HIT-te-lön，三音节，重音第一音节。
 
 ## 语法变形 (Forms)

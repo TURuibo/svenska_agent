@@ -7,7 +7,7 @@ zh: 瘦的
 en: lean, thin
 synonyms: [smal, tunn]
 antonyms: [tjock]
-family: []
+family: [magerhet, magra]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # mager — adjektiv
 
 📖 中文：瘦的 · English: lean, thin
+
+🇸🇪 Förklaring: som har mycket lite fett på kroppen; (om mat) som innehåller lite fett
+
 发音提示：/ˈmɑːɡər/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[magerhet]] (消瘦), [[magra]] (变瘦)
 - 同义词: [[smal]], [[tunn]]
 - 反义词: [[tjock]]
 - 主题: [[topic-kropp]]

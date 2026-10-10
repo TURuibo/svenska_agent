@@ -8,7 +8,7 @@ zh: "小圆面包"
 en: "bun, roll"
 synonyms: []
 antonyms: []
-family: ["kanelbulle", "kardemummabulle"]
+family: [kanelbulle, kardemummabulle]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bulle — substantiv (en-ord)
 
 📖 中文：小圆面包 · English: bun, roll
+
+🇸🇪 Förklaring: litet runt bröd, ofta sött, som man äter till kaffe
+
 发音提示：['bɵlə]
 
 ## 语法变形 (Forms)

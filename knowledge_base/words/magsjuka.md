@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "肠胃炎（呕吐/腹泻）"
 en: "stomach bug; gastroenteritis"
-synonyms: []
+synonyms: [maginfluensa]
 antonyms: []
 family: [magsjuk, mage, sjuk, sjukdom]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # magsjuka — substantiv (en)
 
 📖 中文：肠胃炎（呕吐/腹泻） · English: stomach bug; gastroenteritis
+
+🇸🇪 Förklaring: sjukdom som ger kräkningar och diarré och som ofta orsakas av ett virus
+
 发音提示：[ˈmɑːgˌɧʉːka]，mag- 长 a；sj = [ɧ]。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[magsjuk]] · [[mage]] · [[sjuk]] · [[sjukdom]]
-- 同义词: maginfluensa（口语）
+- 词族: [[magsjuk]] · [[mage]] · [[sjuk]] · [[sjukdom]], [[mage]] (肚子，胃), [[sjuk]] (生病的), [[sjukdom]] (疾病)
+- 同义词: [[maginfluensa]]（口语）
 - 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]] · [[topic-förskola-vardag]]
 

@@ -8,7 +8,7 @@ zh: "披萨"
 en: "pizza"
 synonyms: []
 antonyms: []
-family: []
+family: [pizzeria, pizzabagare]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # pizza — substantiv (en-ord)
 
 📖 中文：披萨 · English: pizza
+
+🇸🇪 Förklaring: platt bröd med tomatsås, ost och annat ovanpå som gräddas i ugn
+
 发音提示：['pɪtsːa]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: pizzeria (披萨店), pizzabagare (披萨师)
+- 词族: [[pizzeria]] (披萨店), [[pizzabagare]] (披萨师)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

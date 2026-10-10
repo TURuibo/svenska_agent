@@ -7,8 +7,8 @@ cefr: A2
 zh: "白银，银"
 en: "silver"
 synonyms: []
-antonyms: ["guld"]
-family: ["silversmycke", "silvermynt", "silverring"]
+antonyms: [guld]
+family: [silversmycke, silvermynt, silverring]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # silver — substantiv (ett)
 
 📖 中文：白银，银 · English: silver
+
+🇸🇪 Förklaring: glänsande vitgrå ädel metall som används till smycken, mynt och bestick
+
 发音提示：/ˈsɪlvər/，两音节，类似英语发音
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: silversmycke (ett, 银饰), silvermynt (ett, 银币), silverring (en, 银戒指)
+- 词族: [[silversmycke]] (ett, 银饰), [[silvermynt]] (ett, 银币), [[silverring]] (en, 银戒指)
 - 同义词: —
 - 反义词: [[guld]] (ett, 黄金)
 - 主题: [[topic-vikingatiden]]

@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "已经"
 en: "already"
-synonyms: []
-antonyms: []
+synonyms: [sedan-tidigare]
+antonyms: [ännu-inte, inte-än]
 family: []
 topics:
   - topic-tid-och-tidsuttryck
@@ -25,6 +25,9 @@ interval: 0
 # redan — adverb
 
 📖 中文：已经 · English: already
+
+🇸🇪 Förklaring: tidigare än man kanske trodde; före en viss tidpunkt
+
 发音提示：RE-dan；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: —
-- 反义词: [[ännu inte]] (还没有), [[inte än]] (还没)
+- 同义词: [[sedan-tidigare|sedan tidigare]] (此前已)
+- 反义词: [[ännu-inte|ännu inte]] (还没有), [[inte-än|inte än]] (还没)
 - 主题: [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

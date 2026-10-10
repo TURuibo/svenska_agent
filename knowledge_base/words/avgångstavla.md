@@ -7,11 +7,8 @@ cefr: "A2"
 zh: "出发显示屏；出发公告板"
 en: "departures board"
 synonyms: []
-antonyms:
-  - ankomsttavla
-family:
-  - avgång
-  - avgångstid
+antonyms: [ankomsttavla]
+family: [avgång, avgångstid]
 topics:
   - topic-kollektivtrafik
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # avgångstavla — substantiv en
 
 📖 中文：出发显示屏；出发公告板 · English: departures board
+
+🇸🇪 Förklaring: skylt eller skärm på en station som visar när tåg, bussar eller flyg åker
+
 发音提示：/AV-gongs-tav-la/
 
 ## 语法变形 (Forms)
@@ -51,5 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[avgång]] · [[avgångstid]]
+- 词族: [[avgång]] · [[avgångstid]], [[avgångstid]] (出发时间)
+- 同义词: —
+- 反义词: [[ankomsttavla]]
 - 主题: [[topic-kollektivtrafik]]

@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "明显的；清晰的；清楚的"
 en: "clear; distinct; obvious"
-synonyms: ["klar"]
-antonyms: ["otydlig"]
-family: ["tydligen", "tydlighet", "förtydliga"]
+synonyms: [klar]
+antonyms: [otydlig]
+family: [tydligen, tydlighet, förtydliga]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-sverige-har-fyra-tydliga-arstider
@@ -24,6 +24,9 @@ interval: 0
 # tydlig — adjektiv
 
 📖 中文：明显的；清晰的；清楚的 · English: clear; distinct; obvious
+
+🇸🇪 Förklaring: som är lätt att se, höra eller förstå
+
 发音提示：/ˈtyːdlɪɡ/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tydligen（显然地，副词），tydlighet（清晰度，名词）
+- 词族: [[tydligen]]（显然地，副词）, [[tydlighet]]（清晰度，名词）, [[förtydliga]]
+- 同义词: [[klar]]
+- 反义词: [[otydlig]]
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

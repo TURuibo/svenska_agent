@@ -6,11 +6,9 @@ verbgrupp: "2"
 cefr: A2
 zh: "发生、出事"
 en: "to happen, to occur"
-synonyms:
-  - "[[ske]]"
+synonyms: [ske, inträffa]
 antonyms: []
-family:
-  - "[[händelse]]"
+family: [händelse]
 topics: []
 sentences: []
 known: false
@@ -24,6 +22,9 @@ interval: 0
 # hända — verb (grupp 2)
 
 📖 中文：发生、出事 · English: to happen, to occur
+
+🇸🇪 Förklaring: bli verklighet, ofta oväntat och utan att någon har planerat det, till exempel en olycka
+
 发音提示：/ˈhɛnda/，ä 发 [ɛ]；现在式 **händer** 与名词 *hand* 的复数同形。
 
 ## 语法变形 (Forms)
@@ -56,7 +57,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[händelse]]（事件，名词）
-- 同义词: [[ske]]（发生，略正式/书面）、inträffa（发生，正式）
+- 同义词: [[ske]]（发生，略正式/书面）, [[inträffa]]（发生，正式）
 - 反义词: —
 - 主题: —
 

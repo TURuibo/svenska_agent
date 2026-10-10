@@ -19,6 +19,9 @@ created: "2026-09-26"
 # 48-timmarsregel — substantiv (en)
 
 📖 中文：48 小时规则 · English: the 48-hour rule
+
+🇸🇪 Förklaring: regel om att ett barn ska stanna hemma i två dygn efter den sista kräkningen eller diarrén
+
 发音提示：[ˌfʏrtɪˈoːtaˌtɪmːarsˌreːgel]，读作 *fyrtioåtta-timmars-regel*。
 
 ## 语法变形 (Forms)

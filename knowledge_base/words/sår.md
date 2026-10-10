@@ -22,6 +22,9 @@ interval: 0
 # sår — substantiv (ett)
 
 📖 中文：伤口，创伤 · English: wound, cut
+
+🇸🇪 Förklaring: skada på huden eller i kroppen där det ofta blöder
+
 发音提示：[soːr]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skada]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

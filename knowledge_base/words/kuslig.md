@@ -6,8 +6,8 @@ genus: ""
 cefr: B1
 zh: 阴森的、令人不安的
 en: eerie, creepy, uncanny
-synonyms: []
-antonyms: []
+synonyms: [obehaglig, spöklik, läskig]
+antonyms: [trygg, mysig]
 family: []
 topics: ["topic-stadsmiljo"]
 sentences: []
@@ -22,6 +22,9 @@ interval: 0
 # kuslig — adjektiv
 
 📖 中文：阴森的、令人不安的 · English: eerie, creepy, uncanny
+
+🇸🇪 Förklaring: som känns konstig och lite skrämmande
+
 发音提示：KUS-lig
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: [[obehaglig]] (令人不适的), [[spöklik]] (鬼魅的), [[läskig]] (吓人的)
+- 反义词: [[trygg]] (安心的), [[mysig]] (舒适的)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

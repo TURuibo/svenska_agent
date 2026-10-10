@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "时间表；（每周）在园时间表"
 en: "schedule, timetable"
-synonyms: []
+synonyms: [tidsplan, tidtabell]
 antonyms: []
 family: [schemaändring]
 topics: [topic-förskola-system, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # schema — substantiv (ett)
 
 📖 中文：时间表；（每周）在园时间表 · English: schedule, timetable
+
+🇸🇪 Förklaring: plan som visar vilka tider något ska ske, till exempel lektioner eller ett barns tider på förskolan
+
 发音提示：SKE-ma（sch 读 /ɧ/，类似"呼"的气音）
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[schemaändring]]
-- 同义词: —（近义 tidtabell = 公交时刻表）
+- 同义词: [[tidsplan]] (时间计划), [[tidtabell]] (时刻表), —（近义 tidtabell = 公交时刻表）
 - 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 

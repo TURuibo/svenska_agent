@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "不见了；消失；离开在外"
 en: "gone / missing / away"
-synonyms: []
-antonyms: []
+synonyms: [försvunnen]
+antonyms: [hemma, kvar]
 family: [bort, bortifrån]
 topics:
   - topic-vardagsrutin
@@ -25,6 +25,9 @@ interval: 0
 # borta — adverb
 
 📖 中文：不见了；消失；离开在外 · English: gone / missing / away
+
+🇸🇪 Förklaring: inte på plats utan på ett annat ställe; som inte går att hitta
+
 发音提示：BOR-ta；两音节，重音在首音节。
 
 ## 语法变形 (Forms)

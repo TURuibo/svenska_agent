@@ -6,12 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "会员卡；积分卡"
 en: "loyalty card; membership card"
-synonyms:
-  - poängkort
+synonyms: [poängkort]
 antonyms: []
-family:
-  - kund
-  - kort
+family: [kort, kund]
 topics:
   - topic-mataffär
   - topic-betalning
@@ -29,6 +26,9 @@ interval: 0
 # kundkort — substantiv ett
 
 📖 中文：会员卡；积分卡 · English: loyalty card; membership card
+
+🇸🇪 Förklaring: bevis på medlemskap i en butiks klubb som ger rabatter eller bonuspoäng när man handlar
+
 发音提示：/KUND-kort/
 
 ## 语法变形 (Forms)
@@ -54,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kort]]
+- 词族: [[kort]], [[kund]] (客户)
+- 同义词: [[poängkort]]
+- 反义词: —
 - 主题: [[topic-mataffär]] · [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

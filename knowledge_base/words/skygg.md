@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: "胆小的、怕生的"
 en: "shy / timid"
-synonyms: ["blyg"]
-antonyms: ["modig"]
-family: []
+synonyms: [blyg]
+antonyms: [modig]
+family: [skygghet, skygga, ljusskygg]
 topics: ["topic-djur", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # skygg — adjektiv
 
 📖 中文：胆小的、怕生的 · English: shy / timid
+
+🇸🇪 Förklaring: som lätt blir rädd och drar sig undan för människor eller andra djur
+
 发音提示：/ɧyɡː/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[skygghet]] (羞怯), [[skygga]] (畏缩), [[ljusskygg]] (怕光的)
 - 同义词: [[blyg]]
 - 反义词: [[modig]]
 - 主题: [[topic-djur]], [[topic-karaktarsord]]

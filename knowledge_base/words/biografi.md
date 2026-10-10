@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "传记"
 en: "biography"
-synonyms: []
+synonyms: [levnadsbeskrivning, levnadsteckning]
 antonyms: []
-family: []
+family: [självbiografi, biografisk]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # biografi — substantiv (en)
 
 📖 中文：传记 · English: biography
+
+🇸🇪 Förklaring: bok eller text som berättar om en persons liv
+
 发音提示：bi-o-gra-FI
 
 ## 语法变形 (Forms)
@@ -43,6 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[självbiografi]] (自传), [[biografisk]] (传记的)
+- 同义词: [[levnadsbeskrivning]] (生平介绍), [[levnadsteckning]] (传略)
+- 反义词: —
 - 主题: [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

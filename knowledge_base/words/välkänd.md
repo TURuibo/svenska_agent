@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 著名的、知名的
 en: well-known, famous
-synonyms: ["känd"]
-antonyms: ["okänd"]
-family: ["känd"]
+synonyms: [känd]
+antonyms: [okänd]
+family: [känd]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # välkänd — adjektiv
 
 📖 中文：著名的、知名的 · English: well-known, famous
+
+🇸🇪 Förklaring: som många människor känner till
+
 发音提示：VÄL-känd
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[känd]]
 - 同义词: [[känd]]
 - 反义词: [[okänd]]
-- 词族: [[känd]]
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

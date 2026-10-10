@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "打手语；画"
 en: "to sign (with hands); to draw"
-synonyms: []
+synonyms: [rita]
 antonyms: []
 family: [tecken]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # teckna — verb
 
 📖 中文：打手语；画 · English: to sign (with hands); to draw
+
+🇸🇪 Förklaring: använda teckenspråk för att kommunicera; göra en bild med penna eller krita
+
 发音提示：/ˈtekːna/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tecken]]
+- 同义词: [[rita]] (画)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

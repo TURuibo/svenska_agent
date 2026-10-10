@@ -9,7 +9,7 @@ zh: "降低、削减"
 en: "reduction"
 synonyms: [minskning, nedgång]
 antonyms: [höjning, ökning]
-family: [sänka, låg]
+family: [sänka, låg, sänkt]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sänkning — substantiv (en)
 
 📖 中文：降低、削减 · English: reduction
+
+🇸🇪 Förklaring: det att något blir lägre eller mindre, till exempel en skatt eller ett pris
+
 发音提示：SÄNK-ning，重音第一音节。
 
 ## 语法变形 (Forms)

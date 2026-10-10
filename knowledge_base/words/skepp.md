@@ -6,9 +6,9 @@ genus: "ett"
 cefr: A2
 zh: "船，舰"
 en: "ship"
-synonyms: ["båt"]
+synonyms: [båt]
 antonyms: []
-family: ["skeppsbygge", "skeppare", "vikingaskepp"]
+family: [skeppare, skeppsbygge, vikingaskepp]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # skepp — substantiv (ett)
 
 📖 中文：船，舰 · English: ship
+
+🇸🇪 Förklaring: stort fartyg som seglar eller går på havet
+
 发音提示：/ʃɛp/，单音节，发音与英语 "ship" 相似
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: skeppare (en, 船长/水手), skeppsbygge (ett, 造船), vikingaskepp (ett, 维京战船)
+- 词族: [[skeppare]] (en, 船长/水手), [[skeppsbygge]] (ett, 造船), [[vikingaskepp]] (ett, 维京战船)
 - 同义词: [[båt]] (en, 小船/泛指船只 — 较小)
 - 反义词: —
 - 主题: [[topic-vikingatiden]]

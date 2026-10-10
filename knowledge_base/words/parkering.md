@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 停车场；停车
 en: parking, car park
-synonyms: []
+synonyms: [p-plats]
 antonyms: []
-family: ["parkera", "parkeringsplats", "parkeringshus"]
+family: [parkera, parkeringsplats, parkeringshus]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # parkering — substantiv (en-ord)
 
 📖 中文：停车场；停车 · English: parking, car park
+
+🇸🇪 Förklaring: 1) plats där man får ställa bilar; 2) det att man ställer sin bil någonstans
+
 发音提示：/paˈkeːrɪŋ/
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: parkera (停车动词), parkeringsplats (停车位), parkeringshus (立体停车楼)
-- 同义词: —
+- 词族: [[parkera]] (停车动词), [[parkeringsplats]] (停车位), [[parkeringshus]] (立体停车楼)
+- 同义词: [[p-plats]] (停车位)
 - 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-trafik]]
 

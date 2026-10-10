@@ -21,6 +21,9 @@ interval: 0
 # medicinsk — adjektiv
 
 📖 中文：医疗的，医学的 · English: medical
+
+🇸🇪 Förklaring: som har med läkare, sjukdomar och behandling att göra
+
 发音提示：[meˈdiːnsɪsk]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[medicin]], [[läkare]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-vård]]
 
 ## 用法提示 (Usage Notes)

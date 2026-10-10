@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "绊倒；绊了一下；磕磕绊绊"
 en: "to trip; to stumble"
-synonyms: []
+synonyms: [halka]
 antonyms: []
-family: []
+family: [falla, ramla]
 topics: [topic-trafik-säkerhet]
 sentences: [sent-min-mamma-föll-förra-månaden-när-hon-snubblade]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # snubbla — verb (grupp 1)
 
 📖 中文：绊倒；绊了一下；磕磕绊绊 · English: to trip; to stumble
+
+🇸🇪 Förklaring: slå foten mot något så att man tappar balansen och nästan faller
+
 发音提示：SNUB-bla，`u` 短。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `snubbla` 的名词是 `snubbling`（偶尔用）；相关词 [[falla]]、[[ramla]]
-- 同义词: —（近义 `halka`：滑倒；`ramla`：摔倒）
+- 词族: 相关词 [[falla]], [[ramla]]
+- 同义词: —（近义 [[halka]]：滑倒；[[ramla]]：摔倒）
 - 反义词: —
 - 主题: [[topic-trafik-säkerhet]]
 

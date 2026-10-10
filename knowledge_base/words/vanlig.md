@@ -25,6 +25,9 @@ interval: 0
 # vanlig — adjektiv
 
 📖 中文：普通的；寻常的 · English: ordinary / common
+
+🇸🇪 Förklaring: som finns eller händer ofta och inte är speciell
+
 发音提示：VAN-lig；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 - 词族: [[vanligen]] (adv. 通常), [[vanlighet]] (en, 普通；常见), [[ovanlig]] (adj. 不寻常的)
 - 同义词: [[normal]] (正常的), [[typisk]] (典型的)
-- 反义词: [[ovanlig]] (不寻常的), [[speciell]] (特别的)
+- 反义词: [[ovanlig]] (不寻常的), [[speciell]] (特别的), [[extraordinär]]
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "质量"
 en: "quality"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [standard, klass]
+antonyms: [kvantitet]
+family: [kvalitativ, kvalitetskontroll, livskvalitet]
 topics: [topic-grannar-boende]
 sentences: [sent-vi-på-bennys-städ-har]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kvalitet — substantiv
 
 📖 中文：质量 · English: quality
+
+🇸🇪 Förklaring: hur bra eller dålig något är; ofta om hög standard
+
 发音提示： "kva-li-tét"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[kvalitativ]] (质的), [[kvalitetskontroll]] (质量检测), [[livskvalitet]] (生活质量)
+- 同义词: [[standard]] (水准), [[klass]] (档次)
+- 反义词: [[kvantitet]] (数量)
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

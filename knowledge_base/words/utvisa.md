@@ -19,6 +19,9 @@ created: "2026-10-01"
 # utvisa — verb (grupp 1)
 
 📖 中文：显示、揭晓（书面）；驱逐出境；罚下场 · English: to show, reveal; to expel, deport
+
+🇸🇪 Förklaring: (formellt) visa hur något blir eller är; tvinga en person att lämna landet; skicka av en spelare från planen som straff
+
 发音提示：/ˈʉːtviːsa/（重音在 ut）
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[visa]]、utvisning（驱逐；罚下场）
+- 词族: [[visa]], [[utvisning]]（驱逐；罚下场）
 - 同义词: [[visa]]
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

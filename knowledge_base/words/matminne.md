@@ -19,6 +19,10 @@ created: "2026-10-01"
 
 📖 中文：与食物相关的记忆 · English: food memory
 
+🇸🇪 Förklaring: något man kommer ihåg om en smak, en rätt eller en måltid från förr
+
+发音提示：/ˈmɑːtˌmɪnːɛ/ — 重音在 mat；nn 读长辅音
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mat, minne
-- 同义词:
-- 反义词:
+- 词族: [[mat]], [[minne]]
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

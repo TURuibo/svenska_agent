@@ -6,7 +6,7 @@ genus: "ett"
 cefr: A1
 zh: 名字
 en: name
-synonyms: []
+synonyms: [benämning]
 antonyms: []
 family: [förnamn, efternamn]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # namn — substantiv (ett)
 
 📖 中文：名字 · English: name
+
+🇸🇪 Förklaring: ord som man kallar en person, ett djur, en plats eller en sak
+
+发音提示：/namːn/ — a 短；m 和 n 都要发音
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: förnamn, efternamn
-- 同义词:
-- 反义词:
+- 词族: [[förnamn]], [[efternamn]]
+- 同义词: [[benämning]] (称呼)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

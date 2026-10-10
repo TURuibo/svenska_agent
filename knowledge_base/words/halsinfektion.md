@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 咽喉感染
 en: throat infection
-synonyms: []
+synonyms: [halsfluss]
 antonyms: []
 family: [hals, infektion]
 topics: [topic-hälsa, topic-kropp]
@@ -24,6 +24,9 @@ interval: 0
 # halsinfektion — substantiv (en)
 
 📖 中文：咽喉感染 · English: throat infection
+
+🇸🇪 Förklaring: sjukdom som orsakas av bakterier eller virus och ger ont i halsen
+
 发音提示：HALS-in-fek-SHON（复合词，重音在 hals 和 -tion）
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hals]], [[infektion]] (stub)
+- 词族: [[hals]], [[infektion]]
+- 同义词: [[halsfluss]] (扁桃体炎)
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

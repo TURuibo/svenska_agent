@@ -5,9 +5,9 @@ ordklass: adjektiv (perfekt particip)
 cefr: B1
 zh: 有准备的
 en: prepared
-synonyms: []
+synonyms: [redo, beredd]
 antonyms: [oförberedd]
-family: [förbereda]
+family: [förbereda, förberedelse]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # förberedd — adjektiv (perfekt particip av förbereda)
 
 📖 中文：有准备的 · English: prepared
+
+🇸🇪 Förklaring: som har gjort i ordning allt som behövs i förväg
+
 发音提示：/fœrbɛˈreːd/；重音在 `-re-`（för-be-RED），结尾 `-dd` 读 /d/。
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[förbereda]]（动词：准备，2 类：förbereder – förberedde – förberett）, förberedelse（名词：准备）
-- 同义词:
-- 反义词: oförberedd（没准备好的）
+- 词族: [[förbereda]]（动词：准备，2 类：förbereder – förberedde – förberett）, [[förberedelse]]（名词：准备）
+- 同义词: [[redo]] (准备好的), [[beredd]] (有准备的)
+- 反义词: [[oförberedd]]（没准备好的）
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "脆的"
 en: "crispy, crunchy"
-synonyms: []
-antonyms: ["mjuk"]
-family: []
+synonyms: [frasig, knaprig]
+antonyms: [mjuk]
+family: [kris]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # krispig — adjektiv
 
 📖 中文：脆的 · English: crispy, crunchy
+
+🇸🇪 Förklaring: som är hård och torr och knastrar när man tuggar
+
 发音提示：['krɪspɪg]
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kris (借自英语 crisp)
-- 同义词: —
+- 词族: [[kris]] (借自英语 crisp)
+- 同义词: [[frasig]] (酥脆的), [[knaprig]] (脆的)
 - 反义词: [[mjuk]]
 - 主题: [[topic-mat-dryck]]
 

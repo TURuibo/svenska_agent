@@ -9,7 +9,7 @@ zh: "呼吸"
 en: "to breathe"
 synonyms: []
 antonyms: []
-family: [andetag, andning, andas ut]
+family: [andetag, andning, andas-ut]
 topics:
   - topic-kropp
   - topic-vardagsrutin
@@ -26,6 +26,9 @@ interval: 0
 # andas — verb (grupp 1, deponens)
 
 📖 中文：呼吸 · English: to breathe
+
+🇸🇪 Förklaring: dra in luft i lungorna och släppa ut den igen
+
 发音提示：AN-das；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[andetag]] (ett, 一口气/呼吸), [[andning]] (en, 呼吸/呼吸作用)
+- 词族: [[andetag]] (ett, 一口气/呼吸), [[andning]] (en, 呼吸/呼吸作用), [[andas-ut]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-kropp]], [[topic-vardagsrutin]]

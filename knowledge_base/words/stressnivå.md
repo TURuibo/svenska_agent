@@ -9,7 +9,7 @@ zh: "压力水平"
 en: "stress level"
 synonyms: []
 antonyms: []
-family: ["stress", "nivå"]
+family: [stress, nivå]
 topics: ["topic-halsa-och-sjukdom"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # stressnivå — substantiv (en)
 
 📖 中文：压力水平 · English: stress level
+
+🇸🇪 Förklaring: hur mycket press och oro en person eller en grupp känner
+
 发音提示：STRESS-ni-vå
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stress]], [[nivå]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-halsa-och-sjukdom]]
 
 ## 用法提示 (Usage Notes)

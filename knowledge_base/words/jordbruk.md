@@ -7,9 +7,9 @@ genus: ett
 cefr: B1
 zh: 农业；农场
 en: agriculture, farming
-synonyms: []
+synonyms: [lantbruk]
 antonyms: []
-family: ["jord", "bonde"]
+family: [jord, bonde]
 topics: ["topic-miljö-och-klimat"]
 sentences:
   - sent-de-giftiga-algerna-beror-bland-annat
@@ -24,6 +24,9 @@ interval: 0
 # jordbruk — substantiv
 
 📖 中文：农业；农场 · English: agriculture, farming
+
+🇸🇪 Förklaring: arbete med att odla grödor och föda upp djur för att producera mat
+
 发音提示：JORD-bruk
 
 ## 语法变形 (Forms)
@@ -52,6 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[jord]] (土地), [[bonde]] (农民)
+- 同义词: [[lantbruk]] (农业)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

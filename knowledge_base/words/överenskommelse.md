@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "协议、共识"
 en: "agreement"
 synonyms: [avtal]
-antonyms: []
+antonyms: [oenighet, konflikt]
 family: [komma-överens]
 topics: [topic-val-demokrati]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # överenskommelse — substantiv (en)
 
 📖 中文：协议、共识 · English: agreement
+
+🇸🇪 Förklaring: beslut som två eller flera har kommit fram till tillsammans
+
 发音提示：ö-ver-ens-KOM-mel-se
 
 ## 语法变形 (Forms)
@@ -47,8 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: komma överens（达成一致）
-- 同义词: avtal（合同/协议）
+- 词族: [[komma-överens|komma överens]]（达成一致）
+- 同义词: [[avtal]]（合同/协议）
+- 反义词: [[oenighet]] (分歧), [[konflikt]] (冲突)
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

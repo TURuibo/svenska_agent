@@ -8,9 +8,7 @@ zh: "年龄限制；年龄门槛"
 en: "age limit"
 synonyms: []
 antonyms: []
-family:
-  - ålder
-  - gräns
+family: [ålder, gräns]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -26,6 +24,9 @@ interval: 0
 # åldersgräns — substantiv en
 
 📖 中文：年龄限制；年龄门槛 · English: age limit
+
+🇸🇪 Förklaring: den lägsta eller högsta ålder som gäller för att man ska få göra något
+
 发音提示：/ÅL-ders-gräns/
 
 ## 语法变形 (Forms)
@@ -50,6 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ålder（年龄）· gräns（界限/边界）
+- 词族: [[ålder]]（年龄）· gräns（界限/边界）, [[gräns]] (限制、边界)
+- 同义词: —
+- 反义词: —
 - 相关词组: [[sätta-åldersgränser]]（设定年龄限制）
 - 主题: [[topic-samhälle-och-politik]]

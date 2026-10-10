@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "绑架"
 en: "kidnapping"
-synonyms: []
+synonyms: [människorov]
 antonyms: []
-family: ["kidnappa"]
+family: [kidnappa]
 topics: ["topic-terrorism-och-brott"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # kidnappning — substantiv (en)
 
 📖 中文：绑架 · English: kidnapping
+
+🇸🇪 Förklaring: brott där någon tar med sig en person med våld och håller hen fången, ofta för att få pengar
+
 发音提示：kid-NAPP-ning
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kidnappa]]（绑架，动词）
+- 同义词: [[människorov]] (绑架)
+- 反义词: —
 - 主题: [[topic-terrorism-och-brott]]
 
 ## 用法提示 (Usage Notes)

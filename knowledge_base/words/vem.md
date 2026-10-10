@@ -9,7 +9,7 @@ zh: "谁"
 en: "who"
 synonyms: []
 antonyms: []
-family: []
+family: [vems, vem-som-helst]
 topics: []
 sentences: ["sent-vem-var-elin-wägner"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vem — pronomen (frågeord)
 
 📖 中文：谁 · English: who
+
+🇸🇪 Förklaring: frågeord som används för att fråga om en person
+
 发音提示："VEMM"
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[vems]] (谁的), [[vem-som-helst|vem som helst]] (任何人)
 - 同义词: —
 - 反义词: —
 - 主题: —

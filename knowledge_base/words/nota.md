@@ -7,10 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "账单"
 en: "bill; check"
-synonyms:
-  - kvitto
+synonyms: [kvitto]
 antonyms: []
-family: []
+family: [restaurangnota, hotellnota]
 topics:
   - topic-betalning
 sentences:
@@ -27,6 +26,9 @@ interval: 0
 # nota — substantiv (en)
 
 📖 中文：账单 · English: bill; check
+
+🇸🇪 Förklaring: papper som visar vad man ska betala, till exempel på en restaurang
+
 发音提示：["NOO-ta"] — 重音在第一音节
 
 ## 语法变形 (Forms)
@@ -50,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[restaurangnota]] (餐馆账单), [[hotellnota]] (酒店账单)
 - 同义词: [[kvitto]]（收据，更广义）
-- 反义词:
+- 反义词: —
 - 主题: [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

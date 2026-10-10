@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "感激的；感谢的"
 en: "grateful; thankful"
 synonyms: []
-antonyms: []
-family: [tacksamhet, tacka, tack]
+antonyms: [otacksam]
+family: [tacksamhet, tack, tacka]
 topics: [topic-formellt-brev]
 sentences:
   - sent-jag-ar-tacksam-om-ni-kan
@@ -24,6 +24,9 @@ interval: 0
 # tacksam — adjektiv
 
 📖 中文：感激的；感谢的 · English: grateful; thankful
+
+🇸🇪 Förklaring: som känner glädje över något man har fått eller över hjälp och vill visa det
+
 发音提示：[ˈtakˌsam]
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tacksamhet]], [[tack]]
+- 词族: [[tacksamhet]], [[tack]], [[tacka]] (感谢)
 - 同义词: —
-- 反义词: —
+- 反义词: [[otacksam]] (忘恩负义的)
 - 主题: [[topic-formellt-brev]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 与……相联系的
 en: associated
-synonyms: []
+synonyms: [kopplad, förbunden, associerad]
 antonyms: []
-family: []
+family: [förknippa, knippa]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # förknippad — adjektiv
 
 📖 中文：与……相联系的 · English: associated
+
+🇸🇪 Förklaring: som hänger ihop med något annat eller får en att tänka på det
+
 发音提示：/fœrˈknɪpːad/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[förknippa]] (把……联系起来), [[knippa]] (一束)
+- 同义词: [[kopplad]] (相关联的), [[förbunden]] (相联系的), [[associerad]] (有联系的)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

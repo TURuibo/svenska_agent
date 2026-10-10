@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "在……之间"
 en: "between"
-synonyms: []
+synonyms: [bland]
 antonyms: []
 family: [mellanrum, mellantid, mellangård]
 topics: [topic-rumsliga-relationer]
@@ -24,6 +24,9 @@ interval: 0
 # mellan — preposition
 
 📖 中文：在……之间 · English: between
+
+🇸🇪 Förklaring: anger att något finns på en plats eller i en tid med något på var sida; anger också vilka två parter något gäller
+
 发音提示：MEL-lan；två stavelser.
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[mellanrum]] (间距；空隙), [[mellantid]] (中间时期)
-- 同义词: —
+- 词族: [[mellanrum]] (间距；空隙), [[mellantid]] (中间时期), [[mellangård]]
+- 同义词: [[bland]] (在……之中)
 - 反义词: —
 - 主题: [[topic-rumsliga-relationer]]
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 运输；运送
 en: to transport
-synonyms: []
+synonyms: [frakta, skicka]
 antonyms: []
-family: ["transport"]
+family: [transport]
 topics: ["topic-krig-och-konflikt"]
 sentences:
   - "sent-ryssland-fortsätter-att-transportera-olja"
@@ -26,6 +26,9 @@ interval: 0
 # transportera — verb
 
 📖 中文：运输；运送 · English: to transport
+
+🇸🇪 Förklaring: flytta människor eller varor från ett ställe till ett annat med fordon
+
 发音提示：[tranɕpɔrˈteːra] — 重音在 -te- 音节
 
 ## 语法变形 (Forms)
@@ -53,8 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: transport (subst.)
-- 同义词: frakta, skicka
+- 词族: [[transport]] (subst.)
+- 同义词: [[frakta]], [[skicka]]
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

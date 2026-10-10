@@ -6,7 +6,7 @@ cefr: B1
 zh: 自愿地
 en: voluntarily
 synonyms: [ideellt]
-antonyms: []
+antonyms: [tvångsvis]
 family: [frivillig]
 topics: [topic-sociala-normer]
 sentences: []
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # frivilligt — adverb
 
 📖 中文：自愿地 · English: voluntarily
+
+🇸🇪 Förklaring: av egen vilja, utan att någon tvingar en
+
 发音提示：/ˈfriːˌvɪlɪɡt/
 
 ## 语法变形 (Forms)
@@ -37,7 +40,7 @@ created: "2026-09-22"
 
 - 词族: [[frivillig]]
 - 同义词: [[ideellt]]
-- 反义词:
+- 反义词: [[tvångsvis]] (被迫地)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

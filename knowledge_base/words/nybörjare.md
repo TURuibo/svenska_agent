@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "初学者；新手"
 en: "beginner; novice"
-synonyms: []
+synonyms: [novis, färskling]
 antonyms: [expert, avancerad]
 family: [ny, börja, nybörjarkurs]
 topics: [topic-skola, topic-sfi-sprak-larande]
@@ -23,6 +23,9 @@ interval: 0
 # nybörjare — substantiv (en)
 
 Zh: 初学者；新手 · English: beginner; novice
+
+🇸🇪 Förklaring: person som har lärt sig något under kort tid och inte kan så mycket än
+
 发音提示：NY-bör-ja-re（四个音节）
 
 ## 语法变形 (Forms)
@@ -51,8 +54,9 @@ Zh: 初学者；新手 · English: beginner; novice
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ny]]（新的）, [[börja]]（开始）, nybörjarkurs（初学者课程）
-- 反义词: expert（专家）, avancerad（进阶的）
+- 词族: [[ny]]（新的）, [[börja]]（开始）, [[nybörjarkurs]]（初学者课程）
+- 同义词: [[novis]] (新手), [[färskling]] (新手)
+- 反义词: [[expert]]（专家）, [[avancerad]]（进阶的）
 - 主题: [[topic-skola]], [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

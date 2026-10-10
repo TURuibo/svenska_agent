@@ -7,7 +7,7 @@ genus: ""
 cefr: B1
 zh: 轰炸
 en: to bomb
-synonyms: []
+synonyms: [bombardera]
 antonyms: []
 family: [bomb]
 topics: [topic-krig-och-konflikt]
@@ -24,6 +24,9 @@ interval: 0
 # bomba — verb (grupp 1)
 
 📖 中文：轰炸 · English: to bomb
+
+🇸🇪 Förklaring: anfalla ett område med sprängämnen från luften
+
 发音提示：/ˈbɔmba/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bomb]] (substantiv)
+- 同义词: [[bombardera]] (轰炸)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

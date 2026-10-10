@@ -9,7 +9,7 @@ zh: 百万
 en: million
 synonyms: []
 antonyms: []
-family: ["miljard", "biljon"]
+family: [miljard, biljon]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # miljon — substantiv
 
 📖 中文：百万 · English: million
+
+🇸🇪 Förklaring: tal som är lika med tusen gånger tusen (1 000 000)
+
 发音提示：mil-JON
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[miljard]], biljon
+- 词族: [[miljard]], [[biljon]]
+- 同义词: —
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

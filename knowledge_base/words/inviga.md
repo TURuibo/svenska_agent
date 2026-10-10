@@ -8,8 +8,9 @@ zh: "正式开通；揭幕；举行开幕式"
 en: "to inaugurate; to open officially; to dedicate"
 cefr: "B1"
 known: false
-synonyms: ["öppna officiellt"]
+synonyms: [öppna-officiellt]
 antonyms: []
+family: [invigning, viga, vigsel]
 topics: ["topic-stad-och-transport", "topic-evenemang"]
 phrases: ["klippa-bandet"]
 sentences: ["sent-stadens-politiker-klippte-bandet", "sent-cykelbanan-oppnade-den-tjugonde-juni"]
@@ -27,6 +28,10 @@ interval: 0
 **中文:** 正式开通；揭幕；举行开幕式
 **English:** to inaugurate; to open officially
 **CEFR:** B1
+
+🇸🇪 Förklaring: öppna en ny byggnad, väg eller verksamhet med en officiell ceremoni
+
+发音提示：/ˈɪnˌviːɡa/ — 重音在 in；g 在 a 前读硬音 ɡ
 
 ## 变形 (Forms)
 
@@ -63,3 +68,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-notis-ny-cykelbana]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[invigning]] (开幕式), [[viga]] (主持婚礼), [[vigsel]] (婚礼)
+- 同义词: [[öppna-officiellt]]
+- 反义词: —

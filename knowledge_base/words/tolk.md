@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "口译员"
 en: "interpreter"
-synonyms: []
+synonyms: [översättare]
 antonyms: []
-family: []
+family: [tolka]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-du-kan-få-tolk-gratis]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tolk — substantiv (en)
 
 📖 中文：口译员 · English: interpreter
+
+🇸🇪 Förklaring: person som muntligt översätter mellan två språk när människor pratar med varandra
+
 发音提示：[tɔlk]，单音节，o 读短音 [ɔ]。
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tolka（动词：口译；解读）· tolkning（口译；解读）
-- 同义词: —（*översättare* 是笔译，不同）
+- 词族: [[tolka]]（动词：口译；解读）· tolkning（口译；解读）
+- 同义词: —（[[översättare]] 是笔译，不同）
 - 反义词: —
 - 主题: [[topic-förskola-system]] · [[topic-förskola-vardag]]
 

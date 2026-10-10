@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "犯罪（现象）"
 en: "crime"
-synonyms: []
+synonyms: [brottslighet]
 antonyms: []
-family: []
+family: [kriminell, kriminalvård, kriminalpolis]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # kriminalitet — substantiv
 
 📖 中文：犯罪（现象） · English: crime
-发音提示：
+
+🇸🇪 Förklaring: det att människor begår brott; alla brott som sker i ett samhälle
+
+发音提示：/krɪmɪnalɪˈteːt/ — 重音在最后音节 -tet
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[kriminell]] (犯罪的), [[kriminalvård]] (刑事矫正), [[kriminalpolis]] (刑警)
+- 同义词: [[brottslighet]] (犯罪)
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

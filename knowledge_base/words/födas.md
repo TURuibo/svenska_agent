@@ -6,9 +6,9 @@ verbgrupp: "deponens"
 cefr: A2
 zh: "出生"
 en: "to be born"
-synonyms: []
-antonyms: []
-family: ["föda"]
+synonyms: [komma-till-världen]
+antonyms: [dö]
+family: [föda]
 topics: []
 sentences: ["sent-han-foddes-1981-rosengard"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # födas — verb (deponens)
 
 📖 中文：出生 · English: to be born
+
+🇸🇪 Förklaring: komma till världen som ett nytt barn eller djur
+
 发音提示：['føːdas]
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ Deponensverb: passiv form med aktiv betydelse. Se [[grammar-deponensverb]], [[gr
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[föda]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[komma-till-världen|komma till världen]] (出世)
+- 反义词: [[dö]] (死)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

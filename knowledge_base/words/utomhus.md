@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 户外；在外面
 en: outdoors; outside
-synonyms: []
-antonyms: ["inne"]
-family: []
+synonyms: [ute]
+antonyms: [inne]
+family: [hus, inomhus]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # utomhus — adverb
 
 📖 中文：户外；在外面 · English: outdoors; outside
+
+🇸🇪 Förklaring: i det fria, inte inne i en byggnad
+
 发音提示：OO-tom-hoos
 
 ## 语法变形 (Forms)
@@ -42,8 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[hus]] (房子), [[inomhus]] (室内)
+- 同义词: [[ute]] (外面，更口语)
 - 反义词: [[inne]] (里面)
-- 同义词: ute (外面，更口语)
 
 ## 用法提示 (Usage Notes)
 

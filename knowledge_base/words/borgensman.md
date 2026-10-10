@@ -6,10 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "担保人"
 en: "guarantor"
-synonyms: []
+synonyms: [garant]
 antonyms: []
-family:
-  - borgen
+family: [borgen]
 topics:
   - topic-hemmet
   - topic-samhälle-och-politik
@@ -26,6 +25,9 @@ interval: 0
 # borgensman — substantiv en
 
 📖 中文：担保人 · English: guarantor
+
+🇸🇪 Förklaring: person som lovar att betala om någon annan inte kan betala sin skuld eller hyra
+
 发音提示：/BOR-gens-man/
 
 ## 语法变形 (Forms)
@@ -51,5 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: borgen（担保）
+- 词族: [[borgen]]（担保）
+- 同义词: [[garant]] (担保人)
+- 反义词: —
 - 主题: [[topic-hemmet]]

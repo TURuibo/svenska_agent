@@ -9,7 +9,7 @@ zh: "闪电"
 en: "lightning bolt, flash"
 synonyms: []
 antonyms: []
-family: ["blixtsnabb", "blixtlås"]
+family: [blixtsnabb, blixtlås, blixtljus]
 topics: ["topic-naturkatastrof", "topic-vader-och-natur"]
 sentences: ["sent-det-varst-drabbade-omradet-kring-malmo", "sent-tio-personer-skadades-nar-en-blixt"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # blixt — substantiv (en)
 
 📖 中文：闪电 · English: lightning bolt, flash
+
+🇸🇪 Förklaring: starkt ljus på himlen när det åskar; kort och starkt ljus från en kamera
+
 发音提示：[blɪkst] — 单音节，ix 发音
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: blixtsnabb (adjektiv — 闪电般快), blixtlås (ett — 拉链/zipper), blixtljus (ett — 闪光灯)
+- 词族: [[blixtsnabb]] (adjektiv — 闪电般快), [[blixtlås]] (ett — 拉链/zipper), [[blixtljus]] (ett — 闪光灯)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-naturkatastrof]], [[topic-vader-och-natur]]

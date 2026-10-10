@@ -7,8 +7,8 @@ genus: ""
 cefr: A2
 zh: 消失
 en: to disappear
-synonyms: []
-antonyms: []
+synonyms: [gå-förlorad]
+antonyms: [dyka-upp]
 family: [försvunnen, försvinnande]
 topics: [topic-krig-och-konflikt, topic-jordbävning-katastrof]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # försvinna — verb (oregelbundet)
 
 📖 中文：消失 · English: to disappear
+
+🇸🇪 Förklaring: inte längre synas eller finnas på en plats
+
 发音提示：/fœrˈsvɪna/
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[försvunnen]] (adjektiv), [[försvinnande]] (substantiv/adjektiv)
+- 同义词: [[gå-förlorad|gå förlorad]] (丢失)
+- 反义词: [[dyka-upp|dyka upp]] (出现)
 - 主题: [[topic-krig-och-konflikt]], [[topic-jordbävning-katastrof]]
 
 ## 用法提示 (Usage Notes)

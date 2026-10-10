@@ -6,7 +6,7 @@ genus: ett
 cefr: A2
 zh: 微笑
 en: smile
-synonyms: []
+synonyms: [smil]
 antonyms: []
 family: [le]
 topics: [topic-sociala-normer]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # leende — substantiv (ett)
 
 📖 中文：微笑 · English: smile
+
+🇸🇪 Förklaring: uttryck i ansiktet när man drar upp mungiporna och ser glad ut
+
 发音提示：/ˈleːəndə/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[le]]
-- 同义词:
-- 反义词:
+- 同义词: [[smil]] (微笑)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

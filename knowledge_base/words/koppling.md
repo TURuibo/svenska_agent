@@ -6,9 +6,9 @@ genus: en
 cefr: "B1"
 zh: "联系；关联；离合器"
 en: "connection; link; clutch"
-synonyms: []
+synonyms: [samband, förbindelse, anknytning]
 antonyms: []
-family: ["koppla"]
+family: [koppla]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # koppling — substantiv
 
 📖 中文：联系；关联；离合器 · English: connection; link; clutch
+
+🇸🇪 Förklaring: 1) samband mellan två saker eller personer; 2) del i en bil som man trampar ner när man byter växel
+
 发音提示：/ˈkɔplɪŋ/
 
 ## 语法变形 (Forms)
@@ -52,6 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[koppla]] (verb: 连接/联系)
+- 同义词: [[samband]] (联系), [[förbindelse]] (连接), [[anknytning]] (关联)
+- 反义词: —
 - 同义词（抽象义）: [[samband]], [[anknytning]]
 
 ## 用法提示 (Usage Notes)

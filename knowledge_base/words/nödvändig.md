@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "必要的"
 en: "necessary"
-synonyms: []
-antonyms: ["onödig"]
-family: ["nödvändigtvis"]
+synonyms: [oumbärlig, behövlig]
+antonyms: [onödig]
+family: [nödvändigtvis]
 topics: ["topic-allmanna-adjektiv-adverb"]
 sentences: ["sent-på-landet-där-jag-bor-är-ett-körkort"]
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-07"
 # nödvändig — adjektiv
 
 📖 中文：必要的 · English: necessary
+
+🇸🇪 Förklaring: som man måste ha eller göra; som man inte kan klara sig utan
+
+发音提示：/ˈnøːdˌvɛndɪɡ/ — ö 读长音；-ig 的 g 常不发
 
 ## 语法变形 (Forms)
 
@@ -32,7 +36,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: onödig
+- 词族: [[nödvändigtvis]]
+- 同义词: [[oumbärlig]] (不可或缺的), [[behövlig]] (需要的)
+- 反义词: [[onödig]]
 - 主题: [[topic-allmanna-adjektiv-adverb]]
 
 ## 用法提示 (Usage Notes)

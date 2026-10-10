@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: A2
 zh: "打 / 击 / slå rekord"
 en: "to hit / to beat / to strike"
-synonyms: []
+synonyms: [träffa, besegra]
 antonyms: []
-family: []
+family: [slag, slagsmål, slå-på]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # slå — verb
 
 📖 中文：打 / 击 · English: to hit / to beat / to strike
+
+🇸🇪 Förklaring: 1) träffa någon eller något hårt med handen eller ett föremål; 2) vinna över någon; (rekord) göra bättre än någon har gjort förut
+
 发音提示：[sloː]
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ Starkt verb (verbgrupp 4). Vokalväxling: å–o–a.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[slag]] (打击), [[slagsmål]] (打架), [[slå-på|slå på]] (打开（电器）)
+- 同义词: [[träffa]] (击中), [[besegra]] (击败)
 - 反义词: —
 - 主题: —
 

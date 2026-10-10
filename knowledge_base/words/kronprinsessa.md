@@ -9,7 +9,7 @@ zh: "王储妃，王太女"
 en: "crown princess"
 synonyms: []
 antonyms: []
-family: ["kronprins"]
+family: [kronprins, prinsessa]
 topics: ["topic-samhälle-och-politik", "topic-personer"]
 sentences:
   - sent-mette-marit-är-kronprinsessa-i-norge
@@ -24,6 +24,9 @@ interval: 0
 # kronprinsessa — substantiv
 
 📖 中文：王储妃，王太女 · English: crown princess
+
+🇸🇪 Förklaring: 1) kvinna som ska bli regent efter den nuvarande kungen eller drottningen; 2) hustru till den man som ska ärva tronen
+
 发音提示：/ˈkrûːnˌprɪnsɛsa/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kronprins（王储男）, prinsessa（公主）
+- 词族: [[kronprins]]（王储男）, [[prinsessa]]（公主）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]], [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

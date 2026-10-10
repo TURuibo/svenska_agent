@@ -9,7 +9,7 @@ zh: "会用猫砂的、不随地大小便的"
 en: "house-trained"
 synonyms: []
 antonyms: []
-family: []
+family: [rum]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # rumsren — adjektiv
 
 📖 中文：会用猫砂的、不随地大小便的 · English: house-trained
+
+🇸🇪 Förklaring: (om husdjur) som har lärt sig att inte kissa och bajsa inomhus
+
 发音提示： "rums-ren"
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rum]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

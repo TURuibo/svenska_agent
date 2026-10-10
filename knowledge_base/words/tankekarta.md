@@ -9,7 +9,7 @@ zh: "思维导图"
 en: "mind map"
 synonyms: []
 antonyms: []
-family: ["karta"]
+family: [karta]
 topics: ["topic-skola-och-utbildning"]
 sentences: ["sent-sammanfatta-berättelsen-om-elin-wägner"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tankekarta — substantiv
 
 📖 中文：思维导图 · English: mind map
+
+🇸🇪 Förklaring: bild där man skriver ett ämne i mitten och drar linjer till ord och idéer som hör ihop med det
+
 发音提示："TAN-ke-kar-ta"（sammansatt ord: tanke + karta）
 
 ## 语法变形 (Forms)

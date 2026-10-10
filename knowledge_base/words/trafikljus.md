@@ -10,6 +10,7 @@ en: "traffic light"
 synonyms []
 antonyms: []
 family: [trafik, ljus, trafiksignal]
+synonyms: [trafiksignal]
 topics:
   - topic-trafik
   - topic-stadsmiljo
@@ -27,6 +28,9 @@ interval: 0
 # trafikljus — substantiv (ett)
 
 📖 中文：交通灯；红绿灯 · English: traffic light
+
+🇸🇪 Förklaring: lampor i rött, gult och grönt som visar när man får köra eller gå
+
 发音提示：TRA-fik-ljus；tre stavelser, betoning på första.
 
 ## 语法变形 (Forms)

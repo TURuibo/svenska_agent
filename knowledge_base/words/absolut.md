@@ -5,8 +5,8 @@ ordklass: adverb
 cefr: A2
 zh: 绝对；当然（可以）
 en: absolutely, of course
-synonyms: []
-antonyms: []
+synonyms: [verkligen, självklart, helt]
+antonyms: [inte-alls]
 family: []
 topics: []
 sentences: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # absolut — adverb (även adjektiv)
 
 📖 中文：绝对；当然（可以） · English: absolutely, of course
+
+🇸🇪 Förklaring: helt och hållet, utan minsta tvivel; används också som ett starkt ja
+
 发音提示：/absoˈlʉːt/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: —
+- 同义词: [[verkligen]] (确实), [[självklart]] (当然), [[helt]] (完全)
+- 反义词: [[inte-alls|inte alls]] (根本不)
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 被卷入的，介入的
 en: involved, implicated
-synonyms: []
-antonyms: []
-family: ["blanda", "inblandning"]
+synonyms: [delaktig, involverad]
+antonyms: [utomstående]
+family: [blanda-in, inblandning, blanda]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # inblandad — adjektiv
 
 📖 中文：被卷入的，介入的 · English: involved, implicated
+
+🇸🇪 Förklaring: som deltar i eller har med något att göra, ofta något dåligt eller olagligt
+
 发音提示：IN-bland-ad
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: blanda in（混入），inblandning（介入）
+- 词族: [[blanda-in|blanda in]]（混入）, [[inblandning]]（介入）, [[blanda]]
+- 同义词: [[delaktig]] (参与的), [[involverad]] (牵涉的)
+- 反义词: [[utomstående]] (局外的)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

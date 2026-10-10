@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "无固定期限雇佣"
 en: "permanent employment"
-synonyms: ["fast anställning"]
-antonyms: ["tidsbegränsad"]
-family: ["anställning", "provanställning"]
+synonyms: [fast-anställning]
+antonyms: [tidsbegränsad]
+family: [anställning, provanställning]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # tillsvidareanställning — substantiv (en-ord)
 
 📖 中文：无固定期限雇佣 · English: permanent employment
+
+🇸🇪 Förklaring: anställning som inte har något slutdatum och gäller tills någon säger upp den
+
 发音提示：till-SVI-da-re-an-ställ-ning
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-10-03"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[anställning]], [[provanställning]]
-- 同义词: [[fast anställning]]
+- 同义词: [[fast-anställning|fast anställning]]
 - 反义词: [[tidsbegränsad]]
 - 主题: [[topic-arbete-och-jobb]]
 

@@ -9,7 +9,7 @@ zh: "楼梯"
 en: "stairs, staircase"
 synonyms: []
 antonyms: []
-family: []
+family: [trapphus, trappsteg, rulltrappa]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # trappa — substantiv
 
 📖 中文：楼梯 · English: stairs, staircase
+
+🇸🇪 Förklaring: rad av steg som går uppåt eller nedåt så att man kan gå mellan olika våningar
+
 发音提示：[ˈtrapːa] 短 a + 双 p；复数 trappor（-a 结尾 en 词 → -or）。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[trapphus]] (楼梯间), [[trappsteg]] (台阶), [[rulltrappa]] (自动扶梯)
 - 同义词: —
 - 反义词: —
 - 主题: —

@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 决定
 en: to decide
-synonyms: []
-antonyms: []
-family: []
+synonyms: [besluta]
+antonyms: [tveka]
+family: [bestämmelse, bestämd]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bestämma — verb (v.2b)
 
 📖 中文：决定 · English: to decide
+
+🇸🇪 Förklaring: välja hur något ska bli; ha makten att säga vad som ska göras
+
 发音提示：be-STÄM-ma；重音在第二音节，双写 `mm`。
 
 ## 语法变形 (Forms)
@@ -56,7 +59,7 @@ Grupp 2b 动词（-er/-de/-t）。
 
 - 词族: [[bestämmelse]] (en, 规定), [[bestämd]] (adj, 确定的/定冠词形式)
 - 同义词: [[besluta]] (v. 决定，较正式)
-- 反义词: —
+- 反义词: [[tveka]] (犹豫)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ zh: 第三
 en: third
 synonyms: []
 antonyms: []
-family: tre
+family: [tre, tredjedel]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # tredje — ordningstal
 
 📖 中文：第三 · English: third
+
+🇸🇪 Förklaring: som kommer efter den andra i en ordning (nummer 3)
+
 发音提示：/ˈtrɛdjɛ/
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tre]], tredjedel
-- 同义词:
-- 反义词:
+- 词族: [[tre]], [[tredjedel]]
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

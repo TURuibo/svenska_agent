@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "做（饭）；修理"
 en: "to cook; to repair/fix"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [tillaga, laga-till]
+antonyms: [ha-sönder]
+family: [laga-middag]
 topics: [topic-vardagsrutin, topic-mat-dryck]
 sentences:
   - sent-pa-kvallen-lagar-jag-middag-och-tittar
@@ -24,6 +24,9 @@ interval: 0
 # laga — verb (grupp 1)
 
 📖 中文：做（饭）；修理 · English: to cook; to repair/fix
+
+🇸🇪 Förklaring: 1) göra i ordning mat; 2) reparera något som är trasigt
+
 发音提示：['lɑːga]
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[laga-middag]]
-- 同义词: `tillaga` (较正式，做饭), `laga till` (口语)
-- 反义词: —
+- 同义词: [[tillaga]] (较正式，做饭), [[laga-till|laga till]] (口语)
+- 反义词: [[ha-sönder|ha sönder]] (弄坏)
 - 主题: [[topic-vardagsrutin]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

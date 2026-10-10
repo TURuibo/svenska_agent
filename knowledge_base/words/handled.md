@@ -8,7 +8,7 @@ zh: 手腕
 en: wrist
 synonyms: []
 antonyms: []
-family: []
+family: [arm, armbåge, finger]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # handled — substantiv (en)
 
 📖 中文：手腕 · English: wrist
+
+🇸🇪 Förklaring: led mellan handen och underarmen som gör att man kan böja handen
+
 发音提示：/ˈhandlɛd/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[arm]], [[armbåge]], [[finger]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

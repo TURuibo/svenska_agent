@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A1"
 zh: "客厅"
 en: "living room"
-synonyms: []
+synonyms: [allrum]
 antonyms: []
 family: [rum, sovrum, kök, badrum]
 topics: [topic-hemmet]
@@ -24,6 +24,9 @@ interval: 0
 # vardagsrum — substantiv (ett)
 
 📖 中文：客厅 · English: living room
+
+🇸🇪 Förklaring: rum i en bostad där man sitter, umgås och tittar på tv
+
 发音提示：VAR-dags-rum；tre stavelser.
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rum]] (房间), [[sovrum]] (卧室), [[kök]] (厨房), [[badrum]] (浴室)
-- 同义词: —
+- 同义词: [[allrum]] (起居室)
 - 反义词: —
 - 主题: [[topic-hemmet]]
 

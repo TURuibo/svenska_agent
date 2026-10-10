@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 部分；一份
 en: part, portion, share
-synonyms: []
-antonyms: []
-family: []
+synonyms: [bit]
+antonyms: [helhet]
+family: [dela]
 topics:
   - topic-geografi-samhalle
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # del — substantiv
 
 📖 中文：部分；一份 · English: part, portion, share
+
+🇸🇪 Förklaring: en bit eller ett stycke av något som är större
+
 发音提示：/deːl/ — 长元音 "e"
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 - 词族: [[dela]]（动词：to share/divide）· [[delvis]]（adverb：partly）
 - 同义词: [[bit]]（piece）
-- 反义词: —
+- 反义词: [[helhet]] (整体)
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

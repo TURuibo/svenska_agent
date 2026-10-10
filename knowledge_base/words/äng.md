@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "草地；牧场"
 en: "meadow"
-synonyms: []
+synonyms: [gräsmatta]
 antonyms: []
-family: []
+family: [blomsteräng]
 topics: ["topic-midsommar-traditioner", "topic-vader-och-arstider"]
 sentences: ["sent-pa-morgonen-gar-emma-och-hennes-familj"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # äng — substantiv
 
 📖 中文：草地；牧场 · English: meadow
+
+🇸🇪 Förklaring: öppen mark med gräs och vilda blommor, ofta på landet
+
 发音提示：[ɛŋ]，单音节，短元音
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 - 词族: [[blomsteräng]]
 - 同义词: [[gräsmatta]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

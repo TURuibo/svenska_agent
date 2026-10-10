@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "卐字符；纳粹十字"
 en: "swastika"
-synonyms: []
+synonyms: [svastika]
 antonyms: []
-family: []
+family: [flagga, symbol]
 topics: [topic-terrorism-och-brott]
 sentences:
   - sent-poliserna-hittade-flera-knivar-och-en-flagga
@@ -24,6 +24,9 @@ interval: 0
 # hakkors — substantiv (ett)
 
 📖 中文：卐字符；纳粹十字 · English: swastika
+
+🇸🇪 Förklaring: kors med böjda armar som nazisterna använde som sin symbol
+
 发音提示：HAK-kors；两个清晰音节。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[flagga]], [[symbol]]
-- 同义词: —
+- 同义词: [[svastika]] (卐字)
 - 反义词: —
 - 主题: [[topic-terrorism-och-brott]]
 

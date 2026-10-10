@@ -8,7 +8,7 @@ zh: 思考、琢磨
 en: to ponder, think about
 synonyms: [tänka]
 antonyms: []
-family: []
+family: [fundering, fundersam]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # fundera — verb (grupp 1)
 
 📖 中文：思考、琢磨 · English: to ponder, think about
+
+🇸🇪 Förklaring: tänka noga och länge på något, ofta innan man bestämmer sig
+
 发音提示：/fɵnˈdeːra/（重音在 -de-）
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[fundering]] (想法), [[fundersam]] (若有所思的)
 - 同义词: [[tänka]]（tänka efter / tänka på）
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

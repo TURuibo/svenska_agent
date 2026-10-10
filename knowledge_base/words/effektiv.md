@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "高效的"
 en: "efficient"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [produktiv]
+antonyms: [ineffektiv]
+family: [effektivitet, effekt]
 topics: ["topic-karaktarsord", "topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # effektiv — adjektiv
 
 📖 中文：高效的 · English: efficient
+
+🇸🇪 Förklaring: som ger bra resultat utan att man slösar tid, pengar eller kraft
+
 发音提示：e-fek-TIV
 
 ## 语法变形 (Forms)

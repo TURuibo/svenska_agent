@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "讲座"
 en: "lecture"
-synonyms: []
+synonyms: [föredrag]
 antonyms: []
-family: []
+family: [föreläsa, föreläsare]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # föreläsning — substantiv (en-ord)
 
 📖 中文：讲座 · English: lecture
+
+🇸🇪 Förklaring: muntlig genomgång där en person talar om ett ämne inför publik, till exempel på universitetet
+
 发音提示：fö-re-LÄS-ning
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[föreläsa]], [[föreläsare]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[föredrag]] (演讲)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

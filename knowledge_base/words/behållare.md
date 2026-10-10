@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 容器
 en: container
-synonyms: []
+synonyms: [kärl]
 antonyms: []
-family: []
+family: [behålla, hålla]
 topics: [topic-källsortering, topic-hemmet]
 sentences:
   - sent-du-behöver-flera-behållare-hemma
@@ -23,6 +23,9 @@ interval: 0
 # behållare — substantiv
 
 📖 中文：容器 · English: container
+
+🇸🇪 Förklaring: något som man kan förvara saker i, till exempel en burk, en låda eller en tank
+
 发音提示：be-HOL-a-re（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[behålla]] (保留), [[hålla]] (拿；保持)
+- 同义词: [[kärl]] (容器)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 主题: [[topic-hemmet]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]

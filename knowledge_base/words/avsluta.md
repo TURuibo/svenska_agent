@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A2
 zh: "结束 / 完成"
 en: "to finish / to end / to conclude"
-synonyms: []
-antonyms: ["börja"]
-family: []
+synonyms: [slutföra, göra-klart]
+antonyms: [börja]
+family: [avslutning, sluta, slut]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # avsluta — verb
 
 📖 中文：结束 / 完成 · English: to finish / to end / to conclude
+
+🇸🇪 Förklaring: göra så att något tar slut eller blir klart
+
 发音提示：['av.slɵ.ta]
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ Verbgrupp 1 (–ar). Sammansättning av- + sluta (relaterat till "slut").
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[avslutning]] (结束；结业式), [[sluta]] (停止), [[slut]] (结束)
+- 同义词: [[slutföra]] (完成), [[göra-klart|göra klart]] (做完)
 - 反义词: [[börja]]
 - 主题: —
 

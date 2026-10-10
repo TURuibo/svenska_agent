@@ -9,7 +9,7 @@ zh: "浆果"
 en: "berry"
 synonyms: []
 antonyms: []
-family: []
+family: [bärplockning, blåbär, lingon]
 topics:
   - "[[topic-allemansratten]]"
   - "[[topic-mat-dryck]]"
@@ -26,6 +26,9 @@ interval: 0
 # bär — substantiv (ett)
 
 📖 中文：浆果 · English: berry
+
+🇸🇪 Förklaring: liten, rund och saftig frukt som växer på buskar eller i skogen
+
 发音提示：/bɛːr/；ä 发 [ɛː]（长音）；与动词 "bära"（携带）的 bär（presens）同形
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bärplockning（采浆果）、blåbär（蓝莓）、lingon（越橘）
+- 词族: [[bärplockning]]（采浆果）, [[blåbär]]（蓝莓）, [[lingon]]（越橘）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-allemansratten]]、[[topic-mat-dryck]]

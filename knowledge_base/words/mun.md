@@ -8,7 +8,7 @@ zh: 嘴
 en: mouth
 synonyms: []
 antonyms: []
-family: []
+family: [läpp]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # mun — substantiv (en)
 
 📖 中文：嘴 · English: mouth
+
+🇸🇪 Förklaring: öppningen i ansiktet som man äter och pratar med
+
 发音提示：/mʉːn/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[läpp]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

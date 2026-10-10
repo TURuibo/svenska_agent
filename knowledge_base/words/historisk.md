@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 历史性的
 en: historic, historical
-synonyms: []
-antonyms: []
-family: ["historia"]
+synonyms: [minnesvärd]
+antonyms: [nutida]
+family: [historia]
 topics: ["topic-stadsmiljo", "topic-litteratur-och-kultur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # historisk — adjektiv
 
 📖 中文：历史性的 · English: historic, historical
+
+🇸🇪 Förklaring: som hör till det som har hänt förr i tiden; som är så viktig att man kommer att minnas den länge
+
 发音提示：his-TO-risk
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[historia]]
+- 同义词: [[minnesvärd]] (值得纪念的)
+- 反义词: [[nutida]] (当代的)
 - 主题: [[topic-stadsmiljo]], [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

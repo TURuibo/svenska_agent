@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "神经细胞"
 en: "nerve cell"
-synonyms: []
+synonyms: [neuron]
 antonyms: []
 family: [hjärna]
 topics: [topic-halsa-och-sjukdom]
@@ -19,6 +19,9 @@ created: "2026-10-06"
 # nervcell — substantiv
 
 📖 中文：神经细胞 · English: nerve cell
+
+🇸🇪 Förklaring: cell i hjärnan och nervsystemet som skickar signaler i kroppen
+
 发音提示：nerv-sell
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-10-06"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hjärna]]
+- 同义词: [[neuron]] (神经元)
+- 反义词: —
 - 主题: [[topic-halsa-och-sjukdom]]
 
 ## 用法提示 (Usage Notes)

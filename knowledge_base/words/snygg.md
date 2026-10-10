@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "好看的；帅的；漂亮的"
 en: "attractive; stylish; good-looking"
-synonyms: ["söt", "stilig", "vacker"]
-antonyms: []
-family: []
+synonyms: [söt, stilig, vacker]
+antonyms: [ful]
+family: [snygghet]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # snygg — adjektiv
 
 📖 中文：好看的；帅的；漂亮的 · English: attractive; stylish; good-looking
+
+🇸🇪 Förklaring: som ser bra och tilltalande ut; som är prydlig
+
 发音提示：/snɵɡ/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: snygghet
+- 词族: [[snygghet]]
 - 同义词: [[söt]] (可爱的), [[stilig]] (有型的), [[vacker]] (美丽的)
-- 反义词: ful (丑的)
+- 反义词: [[ful]] (丑的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

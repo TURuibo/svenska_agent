@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "紫色的"
 en: "purple"
-synonyms: []
+synonyms: [violett]
 antonyms: []
-family: []
+family: [ljuslila, mörklila]
 topics: [topic-himmel-och-norrsken]
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-03"
 # lila — adjektiv
 
 📖 中文：紫色的 · English: purple
+
+🇸🇪 Förklaring: som har en färg mellan rött och blått
+
+发音提示：/ˈliːla/ — i 读长音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -31,6 +35,8 @@ created: "2026-10-03"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[ljuslila]] (淡紫色), [[mörklila]] (深紫色)
+- 同义词: [[violett]] (紫罗兰色)
+- 反义词: —
 - 主题: [[topic-himmel-och-norrsken]]
 - 来源: [[source-2026-10-03-norrsken]]

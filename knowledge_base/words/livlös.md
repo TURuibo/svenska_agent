@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "无生命的"
 en: "lifeless"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [död, orörlig]
+antonyms: [levande]
+family: [liv, leva, livlig]
 topics: ["topic-miljö-och-klimat"]
 sentences: []
 known: false
@@ -17,7 +17,10 @@ created: "2026-09-22"
 # livlös — adjektiv
 
 📖 中文：无生命的 · English: lifeless
-发音提示：
+
+🇸🇪 Förklaring: som är död eller inte rör sig och inte visar någon energi
+
+发音提示：/ˈliːvˌløːs/ — i、ö 均读长音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -33,9 +36,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[liv]] (生命), [[leva]] (活), [[livlig]] (活跃的)
+- 同义词: [[död]] (死的), [[orörlig]] (不动的)
+- 反义词: [[levande]] (活着的)
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "抽泣着的"
 en: "sobbing"
-synonyms: []
-antonyms: []
-family: ["snyfta"]
+synonyms: [gråtande]
+antonyms: [skrattande]
+family: [snyfta]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # snyftande — adjektiv
 
 📖 中文：抽泣着的 · English: sobbing
+
+🇸🇪 Förklaring: som gråter med korta och ryckiga andetag
+
 发音提示：SNYF-tan-de
 
 ## 语法变形 (Forms)
@@ -36,6 +39,8 @@ Particip-adjektiv (presens particip av [[snyfta]]); **oböjligt** — samma form
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[snyfta]]（抽泣，动词）
+- 同义词: [[gråtande]] (哭泣的)
+- 反义词: [[skrattande]] (笑着的)
 
 ## 用法提示 (Usage Notes)
 

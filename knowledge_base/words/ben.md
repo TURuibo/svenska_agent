@@ -9,7 +9,7 @@ zh: "腿；骨头"
 en: "leg; bone"
 synonyms: []
 antonyms: []
-family: []
+family: [benbrott, benmärg]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ben — substantiv (ett-ord)
 
 📖 中文：腿；骨头 · English: leg; bone
+
+🇸🇪 Förklaring: kroppsdel som man står och går på; hård del av skelettet inuti kroppen
+
 发音提示：/beːn/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: benbrott (骨折), benmärg (骨髓)
+- 词族: [[benbrott]] (骨折), [[benmärg]] (骨髓)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-kropp]]

@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: A2
 zh: 困倦的，犯困的
 en: sleepy, drowsy
-synonyms: []
-antonyms: []
+synonyms: [trött]
+antonyms: [pigg, vaken]
 family: [sömn, sömnig]
 topics: [topic-hälsa]
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # sömig — adjektiv
 
 📖 中文：困倦的，犯困的 · English: sleepy, drowsy
+
+🇸🇪 Förklaring: som känner sig trött och gärna vill sova
+
 发音提示：[ˈsøːmɪɡ]
 
 ## 语法变形 (Forms)
@@ -48,6 +51,7 @@ interval: 0
 
 - 词族: [[sömn]], [[sömnig]]
 - 同义词: [[trött]]
+- 反义词: [[pigg]] (精神的), [[vaken]] (清醒的)
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

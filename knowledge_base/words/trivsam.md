@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 宜人的、舒适的
 en: pleasant, cozy
-synonyms: ["mysig", "trevlig"]
-antonyms: []
-family: ["trivas"]
+synonyms: [mysig, trevlig]
+antonyms: [otrivsam]
+family: [trivas]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # trivsam — adjektiv
 
 📖 中文：宜人的、舒适的 · English: pleasant, cozy
+
+🇸🇪 Förklaring: som gör att man känner sig lugn, bekväm och nöjd
+
 发音提示：TRIV-sam
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 
 - 词族: [[trivas]]
 - 同义词: [[mysig]], [[trevlig]]
+- 反义词: [[otrivsam]] (不舒适的)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

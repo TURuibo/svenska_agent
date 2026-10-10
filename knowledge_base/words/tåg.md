@@ -8,7 +8,7 @@ zh: 火车；列车
 en: train
 synonyms: []
 antonyms: []
-family: ["tågstation", "tågtrafik", "tågresa"]
+family: [tågstation, tågtrafik, tågresa]
 topics: ["topic-trafik", "topic-kollektivtrafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tåg — substantiv (ett-ord)
 
 📖 中文：火车；列车 · English: train
+
+🇸🇪 Förklaring: fordon med flera vagnar som går på räls
+
 发音提示：/toːɡ/
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tågstation, tågtrafik
+- 词族: [[tågstation]], [[tågtrafik]], [[tågresa]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-trafik]], [[topic-kollektivtrafik]]

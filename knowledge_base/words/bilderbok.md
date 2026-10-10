@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A1"
 zh: "图画书"
 en: "picture book"
-synonyms: []
+synonyms: [pekbok]
 antonyms: []
 family: [bok, bild]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # bilderbok — substantiv
 
 📖 中文：图画书 · English: picture book
+
+🇸🇪 Förklaring: bok för små barn där illustrationerna är viktigare än texten
+
 发音提示：/ˈbilːderˌbuːk/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bok]], [[bild]]
+- 同义词: [[pekbok]] (幼儿图画书)
+- 反义词: —
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

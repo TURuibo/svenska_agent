@@ -9,7 +9,7 @@ zh: "便盆"
 en: "potty"
 synonyms: []
 antonyms: []
-family: []
+family: [pottträning]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # potta — substantiv
 
 📖 中文：便盆 · English: potty
+
+🇸🇪 Förklaring: litet kärl som små barn kissar och bajsar i innan de kan använda toaletten
+
 发音提示：/ˈpotːa/
 
 ## 语法变形 (Forms)
@@ -44,6 +47,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[pottträning]] (如厕训练)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-småbarn-mat-och-sömn]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

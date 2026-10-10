@@ -7,8 +7,8 @@ cefr: A2
 zh: 认为、以为、相信
 en: to believe, think
 synonyms: [tycka, mena]
-antonyms: []
-family: []
+antonyms: [tvivla]
+family: [troende, trolig, trovärdig]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # tro — verb (grupp 3)
 
 📖 中文：认为、以为、相信 · English: to believe, think
+
+🇸🇪 Förklaring: anse att något är sant utan att veta säkert; ha en religiös övertygelse
+
 发音提示：/truː/；trodde /ˈtruːdɛ/
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[troende]] (信徒), [[trolig]] (可能的), [[trovärdig]] (可信的)
 - 同义词: [[tycka]], [[mena]]
-- 反义词:
+- 反义词: [[tvivla]] (怀疑)
 - 主题:
 
 ## 用法提示 (Usage Notes)

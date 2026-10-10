@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 汽车；小汽车
 en: car
-synonyms: []
+synonyms: [personbil, kärra]
 antonyms: []
-family: ["lastbil", "bilkö", "bilpark"]
+family: [lastbil, bilkö, bilpark]
 topics: ["topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bil — substantiv (en-ord)
 
 📖 中文：汽车；小汽车 · English: car
+
+🇸🇪 Förklaring: fordon med fyra hjul och motor som man kör på vägar
+
 发音提示：/biːl/
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lastbil]] (卡车), bilkö (堵车)
-- 同义词: —
+- 词族: [[lastbil]] (卡车), [[bilkö]] (堵车), [[bilpark]]
+- 同义词: [[personbil]] (小汽车), [[kärra]] (车（口语）)
 - 反义词: —
 - 主题: [[topic-trafik]]
 

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "二手市集；跳蚤市场"
 en: "flea market; second-hand market"
-synonyms: []
+synonyms: [loppmarknad, secondhandmarknad]
 antonyms: []
 family: [loppmarknad]
 topics: [topic-fritid-och-resor, topic-stadsmiljo]
@@ -23,6 +23,9 @@ interval: 0
 # loppis — substantiv (en)
 
 📖 中文：二手市集；跳蚤市场 · English: flea market; second-hand market
+
+🇸🇪 Förklaring: marknad där man säljer och köper begagnade saker (vardagligt)
+
 发音提示：LOPP-is（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: loppmarknad（完整形式）
-- 同义词: loppmarknad, secondhandmarknad
+- 词族: [[loppmarknad]]（完整形式）
+- 同义词: [[loppmarknad]], [[secondhandmarknad]]
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]] [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

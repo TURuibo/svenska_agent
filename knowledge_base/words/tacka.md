@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "感谢"
 en: "thank"
 synonyms: []
-antonyms: []
+antonyms: [klaga]
 family: [tack]
 topics: [topic-grannar-boende]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # tacka — verb
 
 📖 中文：感谢 · English: thank
+
+🇸🇪 Förklaring: säga eller visa att man är glad för något som någon har gjort eller gett en
+
 发音提示： "tack-a"
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tack]]
-- 同义词: [[…]]
+- 同义词: —
 - 反义词: [[klaga]]
 - 主题: [[topic-grannar-boende]]
 

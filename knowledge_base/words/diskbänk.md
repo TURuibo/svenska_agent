@@ -9,7 +9,7 @@ zh: "洗碗池台面；厨房水槽台"
 en: "kitchen sink counter"
 synonyms: []
 antonyms: []
-family: []
+family: [disk]
 topics:
   - topic-hemmet
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # diskbänk — substantiv (en)
 
 📖 中文：洗碗池台面；厨房水槽台 · English: kitchen sink counter
+
+🇸🇪 Förklaring: bänk i köket med en vask där man tvättar tallrikar och förbereder mat
+
 发音提示：/ˈdɪskˌbɛŋk/
 
 ## 语法变形 (Forms)

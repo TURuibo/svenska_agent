@@ -6,7 +6,7 @@ genus: en
 cefr: "A2"
 zh: "垃圾车"
 en: "garbage truck; refuse lorry"
-synonyms: []
+synonyms: [renhållningsbil]
 antonyms: []
 family: [sopa, soptunna, sopkorg]
 topics: [topic-källsortering, topic-trafik]
@@ -23,6 +23,9 @@ interval: 0
 # sopbil — substantiv (en)
 
 📖 中文：垃圾车 · English: garbage truck; refuse lorry
+
+🇸🇪 Förklaring: stor lastbil som hämtar skräp och avfall från hushåll
+
 发音提示：SOP-bil（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sopa]], [[soptunna]]
+- 词族: [[sopa]], [[soptunna]], [[sopkorg]]
+- 同义词: [[renhållningsbil]] (垃圾车)
+- 反义词: —
 - 主题: [[topic-källsortering]], [[topic-trafik]]
 
 ## 用法提示 (Usage Notes)

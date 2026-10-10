@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "在……之内（时间/范围/领域）"
 en: "within; inside; in (a field)"
-synonyms: ["inuti", "innanför"]
-antonyms: ["utom", "utanför"]
-family: ["in", "inne", "inuti"]
+synonyms: [inuti, innanför]
+antonyms: [utom, utanför]
+family: [in, inne, inuti]
 topics: []
 sentences: ["sent-alla-regioner-i-sverige-sanker", "sent-jag-ber-er-skicka-en-rörmokare"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # inom — preposition
 
 📖 中文：在……之内（时间/范围/领域） · English: within; inside; in (a field)
+
+🇸🇪 Förklaring: innanför en viss gräns i tid eller rum; i ett visst område, ämne eller yrke
+
 发音提示：/ˈɪnːɔm/
 
 ## 语法变形 (Forms)

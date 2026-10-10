@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "放；搁置；躺下（lägga sig）"
 en: "to lay / put / place"
-synonyms: []
-antonyms: []
-family: [läge, lagd, lägga sig]
+synonyms: [placera, sätta]
+antonyms: [ta-upp]
+family: [ligga, läge, lägga-sig, lagd]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # lägga — verb (oregelbundet)
 
 📖 中文：放；搁置；躺下（lägga sig） · English: to lay / put / place
+
+🇸🇪 Förklaring: 1) placera något på en yta så att det hamnar vågrätt; 2) (med ”sig”) gå till sängs eller vila med kroppen vågrätt
+
 发音提示：LÄG-ga；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ligga]] (v. 平躺/位于，状态动词), [[läge]] (ett, 位置/情况), [[lägga sig]] (v. 躺下)
+- 词族: [[ligga]] (v. 平躺/位于，状态动词), [[läge]] (ett, 位置/情况), [[lägga-sig|lägga sig]] (v. 躺下), [[lagd]]
 - 同义词: [[placera]] (v. 放置，正式), [[sätta]] (v. 竖着放/放)
-- 反义词: [[ta upp]] (v. 拿起/捡起)
+- 反义词: [[ta-upp|ta upp]] (v. 拿起/捡起)
 - 主题: [[topic-vardagsrutin]]
 
 ## 用法提示 (Usage Notes)

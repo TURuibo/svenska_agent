@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: "A2"
 zh: "开（车）, 驾驶"
 en: "to drive"
-synonyms: []
+synonyms: [framföra]
 antonyms: []
-family: ["bil", "förare"]
+family: [bil, förare]
 topics: ["topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # köra — verb
 
 📖 中文：开（车）, 驾驶 · English: to drive
+
+🇸🇪 Förklaring: styra och framföra en bil eller ett annat fordon
+
 发音提示：kö-ra
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bil]], [[förare]]
-- 同义词:
-- 反义词:
+- 同义词: [[framföra]] (驾驶（正式）)
+- 反义词: —
 - 主题: [[topic-trafik]]
 
 ## 用法提示 (Usage Notes)

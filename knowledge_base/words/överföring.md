@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "转账"
 en: "transfer"
-synonyms: []
+synonyms: [transaktion, betalning]
 antonyms: []
-family: ["föra-över", "överföra"]
+family: [överföra, föra-över]
 topics: ["topic-bedrageri-bank-sakerhet", "topic-betalning"]
 sentences: ["sent-da-förstår-nick-att-han"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # överföring — substantiv (en)
 
 📖 中文：转账 · English: transfer
+
+🇸🇪 Förklaring: när man skickar pengar från ett konto till ett annat
+
 发音提示：Ö-ver-FÖ-ring
 
 ## 语法变形 (Forms)
@@ -42,7 +45,10 @@ created: "2026-09-22"
 - 🇸🇪 Han loggade in för att göra en överföring till sin son. — 🇨🇳 他登录进去给儿子转了一笔账。
 
 ## 词族 / 同义 / 反义 (Relations)
-- 词族: [[överföra]]（转账，动词）
+
+- 词族: [[överföra]]（转账，动词）, [[föra-över]]
+- 同义词: [[transaktion]] (交易), [[betalning]] (付款)
+- 反义词: —
 - 主题: [[topic-bedrageri-bank-sakerhet]], [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

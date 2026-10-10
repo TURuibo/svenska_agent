@@ -9,7 +9,7 @@ zh: "认为；觉得（表达较正式意见）"
 en: "to consider; to think; to be of the opinion"
 synonyms: [tycka, mena, tro]
 antonyms: []
-family: [anser, ansåg, ansett, åsikt]
+family: [åsikt, anseende, anser, ansåg, ansett]
 topics: []
 sentences: [sent-jag-anser-att-det-behövs-fler-cykelvägar, sent-vi-anser-att-detta-ar-ett-problem]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # anse — verb (grupp 4, oregelbundet)
 
 Zh: 认为；觉得（正式意见） · English: to consider; to think; to be of the opinion
+
+🇸🇪 Förklaring: ha en viss åsikt om något efter att ha tänkt efter
+
 发音提示：AN-se（两个音节）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ Zh: 认为；觉得（正式意见） · English: to consider; to think; to be o
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[åsikt]]（意见；看法）, anseende（声誉）
-- 同义词: [[tycka]]（觉得，较口语）, [[mena]]（意指）
+- 词族: [[åsikt]]（意见；看法）, [[anseende]]（声誉）, [[anser]], [[ansåg]], [[ansett]]
+- 同义词: [[tycka]]（觉得，较口语）, [[mena]]（意指）, [[tro]] (认为、以为、相信)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

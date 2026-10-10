@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "手势"
 en: "gesture"
-synonyms: []
+synonyms: [handrörelse, åtbörd]
 antonyms: []
-family: []
+family: [gestikulera]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # gest — substantiv (en)
 
 📖 中文：手势 · English: gesture
+
+🇸🇪 Förklaring: rörelse med händerna, huvudet eller kroppen som visar vad man menar eller känner
+
 发音提示：JEST（g 在 e 前读 /j/）
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[gestikulera]] (打手势)
+- 同义词: [[handrörelse]] (手部动作), [[åtbörd]] (姿势)
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 

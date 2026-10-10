@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: "B1"
 zh: "显示；看得出；可以看出"
 en: "to appear; to be evident (from)"
-synonyms: []
+synonyms: [synas, visa-sig]
 antonyms: []
-family: []
+family: [fram, gå]
 topics: ["topic-argumentation"]
 sentences: ["sent-av-en-ny-undersökning-framgår"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-07"
 # framgå — verb
 
 📖 中文：显示；看得出 · English: to appear / be evident (from)
+
+🇸🇪 Förklaring: bli tydligt, kunna förstås eller läsas ut av en text eller en uppgift
+
 发音提示：fram-GÅ，重音在 gå
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[fram]] (向前), [[gå]] (走)
+- 同义词: [[synas]] (看得出), [[visa-sig|visa sig]] (显示出)
+- 反义词: —
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

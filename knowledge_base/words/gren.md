@@ -7,9 +7,9 @@ genus: en
 cefr: B1
 zh: "树枝，枝杈"
 en: "branch"
-synonyms: []
+synonyms: [kvist]
 antonyms: []
-family: [trädgren, grenar]
+family: [träd, ek, trädgren, grenar]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gren — substantiv
 
 📖 中文：树枝，枝杈 · English: branch
+
+🇸🇪 Förklaring: del av ett träd eller en buske som växer ut från stammen
+
 发音提示：[grehn]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[träd]], [[ek]]
+- 词族: [[träd]], [[ek]], [[trädgren]], [[grenar]]
+- 同义词: [[kvist]] (细枝)
+- 反义词: —
 - 相关: [[ek]], [[träd]]
 - 主题: [[topic-vader-och-arstider]]
 

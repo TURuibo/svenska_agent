@@ -7,8 +7,8 @@ genus: "en"
 cefr: "A1"
 zh: "游戏；玩耍"
 en: "play"
-synonyms: []
-antonyms: []
+synonyms: [spel]
+antonyms: [allvar]
 family: [leka, leksak, parallellek]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # lek — substantiv
 
 📖 中文：游戏；玩耍 · English: play
+
+🇸🇪 Förklaring: aktivitet som man gör för nöjes skull, särskilt barn, t.ex. kurragömma
+
 发音提示：/leːk/ — 长 e
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[leka]], [[leksak]], [[parallellek]]
+- 同义词: [[spel]] (游戏)
+- 反义词: [[allvar]] (严肃)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

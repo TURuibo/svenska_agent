@@ -8,7 +8,7 @@ zh: 烤箱；炉子
 en: oven
 synonyms: []
 antonyms: []
-family: []
+family: [ugnshandske, ugnsform]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ugn — substantiv (en)
 
 📖 中文：烤箱；炉子 · English: oven
+
+🇸🇪 Förklaring: del av spisen eller apparat där man värmer, steker eller bakar mat
+
 发音提示：UGHN
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ugnshandske (烤箱手套), ugnsform (烤盘)
+- 词族: [[ugnshandske]] (烤箱手套), [[ugnsform]] (烤盘)
+- 同义词: —
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

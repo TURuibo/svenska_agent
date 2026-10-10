@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: A1
 zh: 有；(助动词)已经
 en: to have
-synonyms: []
-antonyms: []
-family: []
+synonyms: [äga, besitta]
+antonyms: [sakna]
+family: [inneha, innehavare]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # ha — verb (oregelbundet)
 
 📖 中文：有；(助动词)已经 · English: to have
+
+🇸🇪 Förklaring: 1) äga eller hålla något, eller känna något, till exempel ont; 2) hjälpverb som bildar perfekt och pluskvamperfekt
+
 发音提示：/hɑː/；har /hɑːr/；hade /ˈhɑːdɛ/
 
 ## 语法变形 (Forms)
@@ -57,9 +60,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[inneha]] (持有), [[innehavare]] (持有者)
+- 同义词: [[äga]] (拥有), [[besitta]] (拥有（书面）)
+- 反义词: [[sakna]] (缺少)
 - 主题:
 
 ## 用法提示 (Usage Notes)

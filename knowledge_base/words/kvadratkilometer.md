@@ -8,7 +8,7 @@ zh: "平方公里"
 en: "square kilometre"
 synonyms: []
 antonyms: []
-family: []
+family: [kvadrat, kilometer, kvadratmeter]
 topics: ["topic-geografi-samhalle"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # kvadratkilometer — substantiv
 
 📖 中文：平方公里 · English: square kilometre
-发音提示：
+
+🇸🇪 Förklaring: måttenhet för yta som motsvarar en kvadrat med sidan tusen meter
+
+发音提示：/kvaˈdrɑːtɕɪlʊˌmeːtɛr/ — 重音在 -drat；ki 的 k 读 ɕ
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[kvadrat]] (正方形), [[kilometer]] (公里), [[kvadratmeter]] (平方米)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

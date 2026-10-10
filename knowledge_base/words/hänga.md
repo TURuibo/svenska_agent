@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "挂；悬挂"
 en: "to hang"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [sitta, vara-uppsatt]
+antonyms: [ta-ner]
+family: [hängare, upphängning]
 topics: [topic-rumsliga-relationer, topic-hemmet]
 sentences:
   - sent-ja-det-hanger-en-liten-svart-skylt
@@ -26,6 +26,9 @@ interval: 0
 # hänga — verb (grupp 2a)
 
 📖 中文：挂；悬挂 · English: to hang
+
+🇸🇪 Förklaring: sitta fast upptill och falla fritt nedåt; sätta upp något så att det sitter fast upptill, till exempel en tavla
+
 发音提示：HÄN-ga；两音节。
 
 ## 语法变形 (Forms)
@@ -54,8 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hängare]] (衣架), [[upphängning]] (悬挂装置)
-- 同义词: [[sitta]] (在某处固定/坐), [[vara uppsatt]] (被挂着)
-- 反义词: [[ta ner]] (取下)
+- 同义词: [[sitta]] (在某处固定/坐), [[vara-uppsatt|vara uppsatt]] (被挂着)
+- 反义词: [[ta-ner|ta ner]] (取下)
 - 主题: [[topic-rumsliga-relationer]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

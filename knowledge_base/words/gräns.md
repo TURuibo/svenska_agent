@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "限制、边界"
 en: "limit / border"
-synonyms: [tak]
-antonyms: []
-family: [gränsa, gränsövergång]
+synonyms: [tak, gränssnitt]
+antonyms: [frihet]
+family: [gränsa, gränsövergång, avgränsning]
 topics: [topic-nyheter-vecka22]
 sentences: [sent-gransen-kallas-fribelopp]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gräns — substantiv (en)
 
 📖 中文：限制、边界 · English: limit / border
+
+🇸🇪 Förklaring: linje där ett område slutar och ett annat börjar; den punkt som man inte får eller kan gå förbi
+
 发音提示：GRÄNS，单音节，短促清晰。
 
 ## 语法变形 (Forms)

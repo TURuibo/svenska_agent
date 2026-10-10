@@ -7,7 +7,7 @@ genus: ""
 cefr: A2
 zh: 不寻常的/罕见的
 en: unusual, rare
-synonyms: []
+synonyms: [sällsynt, annorlunda]
 antonyms: [vanlig]
 family: [vanlig, ovanligt]
 topics: [topic-karaktarsord]
@@ -23,6 +23,9 @@ interval: 0
 # ovanlig — adjektiv
 
 📖 中文：不寻常的/罕见的 · English: unusual, rare
+
+🇸🇪 Förklaring: som inte händer eller finns ofta; som man sällan ser
+
 发音提示：o-VAN-lig；前缀 `o-` 否定，重音在第二音节。
 
 ## 语法变形 (Forms)

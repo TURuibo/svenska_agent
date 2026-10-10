@@ -22,6 +22,9 @@ interval: 0
 # kamel — substantiv (en)
 
 📖 中文：骆驼 · English: camel
+
+🇸🇪 Förklaring: stort djur med en eller två pucklar på ryggen som lever i öknen
+
 发音提示：/kaˈmeːl/
 
 ## 语法变形 (Forms)

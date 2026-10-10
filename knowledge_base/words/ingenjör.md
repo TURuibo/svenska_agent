@@ -8,7 +8,7 @@ zh: "工程师"
 en: "engineer"
 synonyms: []
 antonyms: []
-family: []
+family: [ingenjörsutbildning]
 topics: ["topic-yrken"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # ingenjör — substantiv (en-ord)
 
 📖 中文：工程师 · English: engineer
+
+🇸🇪 Förklaring: person med teknisk utbildning som planerar och konstruerar till exempel maskiner, vägar eller byggnader
+
 发音提示：in-jen-JÖR
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ingenjörsutbildning]]
-- 同义词: []
-- 反义词: []
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

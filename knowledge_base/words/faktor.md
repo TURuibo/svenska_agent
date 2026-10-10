@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "因素"
 en: "factor"
-synonyms: []
+synonyms: [orsak, omständighet]
 antonyms: []
-family: []
+family: [riskfaktor, nyckelfaktor]
 topics: ["topic-geografi-samhalle"]
 sentences: ["sent-framst-ar-det-lagre-bostadspriser-och-narhet"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # faktor — substantiv
 
 📖 中文：因素 · English: factor
-发音提示：
+
+🇸🇪 Förklaring: något som påverkar resultatet eller hur något blir
+
+发音提示：/ˈfakːtɔr/ — 重音在第一音节 fak
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[riskfaktor]] (风险因素), [[nyckelfaktor]] (关键因素)
+- 同义词: [[orsak]] (原因), [[omständighet]] (情况)
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

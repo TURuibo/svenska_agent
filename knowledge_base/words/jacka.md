@@ -8,7 +8,7 @@ zh: "夹克/外套"
 en: "jacket"
 synonyms: [kappa, rock]
 antonyms: []
-family: []
+family: [vinterjacka, regnjacka, jackficka]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # jacka — substantiv (en-ord)
 
 📖 中文：夹克/外套 · English: jacket
+
+🇸🇪 Förklaring: kort plagg med ärmar som man har utanpå andra kläder, ofta utomhus
+
 发音提示：/ˈjakːa/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vinterjacka]] (冬季外套), [[regnjacka]] (雨衣), [[jackficka]] (外套口袋)
 - 同义词: [[kappa]], [[rock]]
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

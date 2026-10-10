@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "安全的；确定的；有把握的"
 en: "safe; sure; certain"
-synonyms: ["trygg"]
-antonyms: ["farlig", "osäker"]
-family: ["säkerhet", "säkert", "säkra"]
+synonyms: [trygg]
+antonyms: [farlig, osäker]
+family: [säkerhet, säkra, säkert]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # säker — adjektiv
 
 📖 中文：安全的；确定的；有把握的 · English: safe; sure; certain
+
+🇸🇪 Förklaring: som inte innebär någon fara; som är helt övertygad om att något stämmer
+
 发音提示：/ˈsɛːkɛr/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: säkerhet (安全/确定性), säkra (确保, verb)
+- 词族: [[säkerhet]] (安全/确定性), [[säkra]] (确保, verb), [[säkert]]
 - 同义词: [[trygg]] (有安全感的)
-- 反义词: [[farlig]] (危险的), osäker (不确定的)
+- 反义词: [[farlig]] (危险的), [[osäker]] (不确定的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

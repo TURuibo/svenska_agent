@@ -8,7 +8,7 @@ zh: 茶
 en: tea
 synonyms: []
 antonyms: []
-family: []
+family: [kardemummate, tepåse, tekanna]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # te — substantiv (ett)
 
 📖 中文：茶 · English: tea
+
+🇸🇪 Förklaring: varm dryck som man gör av torkade blad och hett vatten
+
 发音提示：TEH
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kardemummate]] (小豆蔻茶), tepåse (茶包), tekanna (茶壶)
+- 词族: [[kardemummate]] (小豆蔻茶), [[tepåse]] (茶包), [[tekanna]] (茶壶)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

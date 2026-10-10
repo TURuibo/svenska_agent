@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B2"
 zh: "语调节奏、韵律"
 en: "prosody"
-synonyms: ["språkmelodi"]
+synonyms: [språkmelodi]
 antonyms: []
-family: []
+family: [prosodisk]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # prosodi — substantiv (en)
 
 📖 中文：语调节奏、韵律 · English: prosody
+
+🇸🇪 Förklaring: talets melodi, rytm och betoning
+
 发音提示：pro-so-DI
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[prosodisk]] (韵律的)
 - 同义词: [[språkmelodi]]（语调，更通俗）
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

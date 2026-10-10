@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "实习生"
 en: "intern"
-synonyms: []
+synonyms: [trainee]
 antonyms: []
-family: []
+family: [praktik, praktisk]
 topics: ["topic-yrken", "topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # praktikant — substantiv (en-ord)
 
 📖 中文：实习生 · English: intern
+
+🇸🇪 Förklaring: person som arbetar en tid på en arbetsplats för att lära sig yrket, ofta under sin utbildning
+
 发音提示：prak-ti-KANT
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 - 词族: [[praktik]], [[praktisk]]
 - 同义词: [[trainee]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-yrken]], [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

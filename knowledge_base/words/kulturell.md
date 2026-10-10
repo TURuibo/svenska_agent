@@ -18,6 +18,10 @@ created: "2026-10-01"
 
 📖 中文：文化的 · English: cultural
 
+🇸🇪 Förklaring: som har med konst, traditioner eller ett folks sätt att leva att göra
+
+发音提示：/kɵltʉˈrɛlː/ — 重音在最后音节 -rell
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -40,8 +44,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kultur]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

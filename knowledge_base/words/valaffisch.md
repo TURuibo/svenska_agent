@@ -23,6 +23,9 @@ interval: 0
 # valaffisch — substantiv (en)
 
 📖 中文：竞选海报 · English: election poster
+
+🇸🇪 Förklaring: stor bild med text som ett politiskt parti sätter upp när det snart är dags att rösta
+
 发音提示：VAL-af-fisch
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: val，affisch（海报），[[riksdagsval]]，[[kommunval]]，[[valdag]]，[[vallokal]]，[[valsedel]]，[[vallöfte]]，[[valdebatt]]，[[valresultat]]，[[valarbetare]]（val- 复合词族）
+- 词族: [[val]], [[affisch]]（海报）, [[riksdagsval]], [[kommunval]], [[valdag]], [[vallokal]], [[valsedel]], [[vallöfte]], [[valdebatt]], [[valresultat]], [[valarbetare]]（val- 复合词族）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: 星期日
 en: Sunday
 synonyms: []
 antonyms: []
-family: []
+family: [dag, söndagsmorgon]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # söndag — substantiv (en)
 
 📖 中文：星期日 · English: Sunday
+
+🇸🇪 Förklaring: veckans sista dag, mellan lördag och måndag
+
 发音提示：/ˈsœndɑːɡ/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[dag]] (天), [[söndagsmorgon]] (周日早晨)
+- 同义词: —
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

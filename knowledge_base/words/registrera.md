@@ -6,12 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "注册；登记"
 en: "to register"
-synonyms:
-  - anmäla
-antonyms: []
-family:
-  - registrering
-  - register
+synonyms: [anmäla]
+antonyms: [avregistrera]
+family: [registrering, register]
 topics:
   - topic-mataffär
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # registrera — verb v.1
 
 📖 中文：注册；登记 · English: to register
+
+🇸🇪 Förklaring: skriva in uppgifter om någon eller något i ett officiellt system eller en lista
+
 发音提示：/re-jis-TRE-ra/
 
 ## 语法变形 (Forms)
@@ -53,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: registrering（名词：注册）
+- 词族: [[registrering]]（名词：注册）, [[register]]
 - 同义词: [[anmäla]]（登记/报名）
+- 反义词: [[avregistrera]] (注销)
 - 主题: [[topic-mataffär]]
 
 ## 用法提示 (Usage Notes)

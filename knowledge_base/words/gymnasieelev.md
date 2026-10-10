@@ -9,7 +9,7 @@ zh: "高中生"
 en: "upper secondary student"
 synonyms: []
 antonyms: [grundskoleelev]
-family: [gymnasiet, elev]
+family: [gymnasiet, elev, gymnasieprogram]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gymnasieelev — substantiv (en)
 
 📖 中文：高中生 · English: upper secondary student
+
+🇸🇪 Förklaring: ung person som studerar på skolan efter grundskolan, oftast mellan 16 och 19 år
+
 发音提示：gym-na-sie-E-lev，五音节，重音在第四音节。
 
 ## 语法变形 (Forms)

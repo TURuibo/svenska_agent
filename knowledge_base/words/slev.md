@@ -8,7 +8,7 @@ zh: "汤勺"
 en: "ladle"
 synonyms: []
 antonyms: []
-family: []
+family: [soppslev, sleva]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # slev — substantiv
 
 📖 中文：汤勺 · English: ladle
+
+🇸🇪 Förklaring: stor sked med långt skaft som man öser upp soppa eller sås med
+
 发音提示：[sleːv]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ Deklination 2 (–ar plural).
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[soppslev]] (汤勺), [[sleva]] (舀)
 - 同义词: —
 - 反义词: —
 - 主题: —

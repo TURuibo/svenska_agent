@@ -7,8 +7,8 @@ cefr: "A2"
 zh: "工人"
 en: "worker"
 synonyms: []
-antonyms: []
-family: ["arbeta", "arbete"]
+antonyms: [tjänsteman]
+family: [arbeta, arbete]
 topics: ["topic-arbete", "topic-yrken"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # arbetare — substantiv (en)
 
 📖 中文：工人 · English: worker
+
+🇸🇪 Förklaring: person som har ett yrke med fysiska uppgifter, till exempel i en fabrik eller på ett bygge
+
 发音提示：ar-be-ta-re
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[arbeta]], [[arbete]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: [[tjänsteman]] (白领职员)
 - 主题: [[topic-arbete]], [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

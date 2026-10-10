@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 克朗（瑞典货币）
 en: Swedish krona
-synonyms: []
+synonyms: [spänn]
 antonyms: []
-family: []
+family: [öre]
 topics: [topic-betalning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # krona — substantiv (en)
 
 📖 中文：克朗（瑞典货币） · English: Swedish krona
+
+🇸🇪 Förklaring: valuta i Sverige, där en enhet är hundra öre
+
 发音提示：KROO-nah
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[öre]] (厄雷，克朗的百分之一)
+- 同义词: [[spänn]] (克朗（口语）)
+- 反义词: —
 - 主题: [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

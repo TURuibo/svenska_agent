@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "猫"
 en: "cat"
-synonyms: []
+synonyms: [kisse]
 antonyms: []
-family: []
+family: [kattunge, kattmat]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # katt — substantiv (en)
 
 📖 中文：猫 · English: cat
+
+🇸🇪 Förklaring: litet djur med mjuk päls som jamar och som många har som husdjur
+
 发音提示：/katː/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kattunge]] (小猫), [[kattmat]] (猫粮)
-- 同义词: —
+- 同义词: [[kisse]] (猫咪（儿语）)
 - 反义词: —
 - 主题: [[topic-djur]]
 

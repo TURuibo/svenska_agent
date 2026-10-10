@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "问候；祝福；致意"
 en: "greeting; regards"
-synonyms: [hilsen]
+synonyms: []
 antonyms: []
-family: [hälsa, hälsa-på, hjärtlig]
+family: [hälsa, hjärtlig, hälsa-på]
 topics: [topic-social-kontakt]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hälsning — substantiv (en)
 
 📖 中文：问候；祝福；致意 · English: greeting; regards
+
+🇸🇪 Förklaring: vänliga ord som man säger eller skriver till någon när man träffas eller i ett brev
+
 发音提示：/ˈhɛlsniŋ/；häls-ning，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hälsa]] (v./en, 打招呼/健康), [[hjärtlig]] (adj. 衷心的)
+- 词族: [[hälsa]] (v./en, 打招呼/健康), [[hjärtlig]] (adj. 衷心的), [[hälsa-på]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-social-kontakt]]

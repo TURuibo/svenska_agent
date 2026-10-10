@@ -18,6 +18,9 @@ created: "2026-09-22"
 # anonymitet — substantiv (en)
 
 📖 中文：匿名（感） · English: anonymity
+
+🇸🇪 Förklaring: det att ingen vet vem man är eller vad man heter
+
 发音提示：/anɔnymɪˈteːt/
 
 ## 语法变形 (Forms)
@@ -40,8 +43,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[anonym]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

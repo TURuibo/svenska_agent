@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "不礼貌的"
 en: "impolite"
-synonyms: []
-antonyms: ["artig"]
-family: ["artig"]
+synonyms: [ohövlig, ohyfsad]
+antonyms: [artig]
+family: [artig]
 topics: [topic-sociala-normer]
 sentences: ["sent-att-komma-mer-än-några"]
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # oartig — adjektiv
 
 📖 中文：不礼貌的 · English: impolite
+
+🇸🇪 Förklaring: som inte beter sig vänligt och korrekt mot andra
+
+发音提示：/ˈuːˌɑːʈɪɡ/ — o- 读 uː；rt 读卷舌 ʈ
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[artig]]
-- 同义词: []
+- 同义词: [[ohövlig]] (无礼的), [[ohyfsad]] (没教养的)
 - 反义词: [[artig]]
 - 主题: [[topic-sociala-normer]]
 

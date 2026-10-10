@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "瓷器；陶瓷制品"
 en: "porcelain; china; ceramics"
-synonyms: []
+synonyms: [servis, keramik]
 antonyms: []
-family: []
+family: [porslinsservis, porslinsfat]
 topics: [topic-hemmet, topic-mat-dryck]
 sentences: [sent-det-fanns-massor-av-saker]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # porslin — substantiv (ett)
 
 📖 中文：瓷器；陶瓷制品 · English: porcelain; china; ceramics
+
+🇸🇪 Förklaring: hårt, vitt material av bränd lera; tallrikar, koppar och fat av det materialet
+
 发音提示：por-SLIN（重音第二音节）
 
 ## 语法变形 (Forms)
@@ -51,6 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[porslinsservis]] (瓷餐具), [[porslinsfat]] (瓷盘)
+- 同义词: [[servis]] (成套餐具), [[keramik]] (陶瓷)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 有机的；生态的
 en: organic; ecological
-synonyms: []
-antonyms: []
-family: ["ekologi"]
+synonyms: [miljövänlig]
+antonyms: [konventionell]
+family: [ekologi]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-09"
 # ekologisk — adjektiv
 
 📖 中文：有机的；生态的 · English: organic; ecological
+
+🇸🇪 Förklaring: 1) som är odlad eller producerad utan konstgödsel och kemiska bekämpningsmedel; 2) som har med naturen och miljön att göra
+
 发音提示：/ekoˈlɔːgisk/
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ekologi（生态学）
+- 词族: [[ekologi]]（生态学）
+- 同义词: [[miljövänlig]] (环保的)
+- 反义词: [[konventionell]] (常规种植的)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "入睡、睡着"
 en: "to fall asleep"
-synonyms: []
+synonyms: [slumra-in, falla-i-sömn]
 antonyms: [vakna]
 family: [sömn]
 topics: [topic-vardagsrutin]
@@ -24,6 +24,9 @@ interval: 0
 # somna — verb (grupp 1)
 
 📖 中文：入睡、睡着 · English: to fall asleep
+
+🇸🇪 Förklaring: gå över från att vara vaken till att sova
+
 发音提示：['sɔmna]
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sömn]] (名词：睡眠)
-- 同义词: —
+- 同义词: [[slumra-in|slumra in]] (打盹入睡), [[falla-i-sömn|falla i sömn]] (入睡)
 - 反义词: [[vakna]] (醒来)
 - 主题: [[topic-vardagsrutin]]
 

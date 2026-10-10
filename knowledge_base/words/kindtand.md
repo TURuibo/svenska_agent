@@ -7,8 +7,8 @@ genus: "en"
 cefr: "A2"
 zh: "臼齿"
 en: "molar"
-synonyms: []
-antonyms: []
+synonyms: [molar]
+antonyms: [framtand]
 family: [tand, kind, framtand]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # kindtand — substantiv (en)
 
 📖 中文：臼齿 · English: molar
+
+🇸🇪 Förklaring: bred tand längst bak i munnen som man tuggar maten med
+
 发音提示：/ˈɕɪnːdˌtand/ — 复合词 kind + tand，重音在前段；k 在 i 前读软音 [ɕ]。
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tand]] · [[kind]] · [[framtand]]
-- 同义词: —
+- 词族: [[tand]] · [[kind]] · [[framtand]], [[kind]] (脸颊), [[framtand]] (门牙)
+- 同义词: [[molar]] (臼齿)
 - 反义词: [[framtand]] (门牙)
 - 主题: [[topic-småbarn-mat-och-sömn]] · [[topic-förskola-vardag]]
 

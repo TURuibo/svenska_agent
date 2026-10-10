@@ -20,6 +20,10 @@ created: 2026-10-09
 
 📖 中文：看法；意见 · English: opinion, point of view
 
+🇸🇪 Förklaring: det någon tycker eller tänker om en fråga eller sak
+
+发音提示：/ˈsyːnˌpɵŋkt/ — 复合词，重音在 syn
+
 ## 语法变形 (Forms)
 
 | 形式 | 单数 | 复数 |

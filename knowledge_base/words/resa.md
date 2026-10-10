@@ -6,9 +6,9 @@ verbgrupp: "2r"
 cefr: "A1"
 zh: "立起；旅行"
 en: "to raise; to travel"
-synonyms: []
-antonyms: []
-family: ["resa (substantiv)", "resenär"]
+synonyms: [åka, färdas, höja]
+antonyms: [fälla]
+family: [resenär]
 topics: ["topic-midsommar-traditioner", "topic-fritid-och-resor"]
 sentences: ["sent-tillsammans-reser-de-stangen"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # resa — verb
 
 📖 中文：立起；旅行 · English: to raise; to travel
+
+🇸🇪 Förklaring: 1) ställa något upprätt eller lyfta det uppåt; 2) åka till en annan plats, ofta långt bort
+
 发音提示：[ˈreːsa]，两音节，重音在前
 
 ## 语法变形 (Forms)
@@ -54,8 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[resenär]]
-- 同义词:
-- 反义词:
+- 同义词: [[åka]] (去；乘), [[färdas]] (行进), [[höja]] (举起)
+- 反义词: [[fälla]] (放倒)
 - 主题: [[topic-midsommar-traditioner]] · [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

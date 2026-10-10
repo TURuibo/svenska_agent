@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 情况；案例；下落
 en: case; instance; fall
-synonyms: []
+synonyms: [situation, ärende]
 antonyms: []
-family: []
+family: [falla, vattenfall, i-alla-fall]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # fall — substantiv (ett-ord)
 
 📖 中文：情况、案例；下落 · English: case, instance; fall
+
+🇸🇪 Förklaring: 1) situation eller händelse som man talar om, till exempel ett ärende hos polisen; 2) det att något eller någon rör sig snabbt ner mot marken
+
+发音提示：/falː/ — a 读短音，ll 读长辅音
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[falla]] (落下), [[vattenfall]] (瀑布), [[i-alla-fall|i alla fall]] (无论如何)
+- 同义词: [[situation]] (情况), [[ärende]] (案件)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

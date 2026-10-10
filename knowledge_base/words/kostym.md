@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "西装/套装"
 en: "suit"
-synonyms: []
+synonyms: [dräkt]
 antonyms: []
-family: []
+family: [kostymbyxor, kostymera]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kostym — substantiv (en-ord)
 
 📖 中文：西装/套装 · English: suit
+
+🇸🇪 Förklaring: jacka och byxor i samma tyg och färg som män har vid fina tillfällen
+
 发音提示：/kɔsˈtyːm/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kostymbyxor]] (西裤), [[kostymera]] (装扮)
+- 同义词: [[dräkt]] (套装)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

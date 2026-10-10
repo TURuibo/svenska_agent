@@ -24,6 +24,9 @@ interval: 0
 # skog — substantiv (en)
 
 📖 中文：森林 · English: forest, wood
+
+🇸🇪 Förklaring: stort område där många träd växer tätt tillsammans
+
 发音提示：/skuːɡ/；单音节，长元音。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: skogsbruk（林业），skogsbrand（森林火灾）
+- 词族: [[skogsbruk]]（林业）, [[skogsbrand]]（森林火灾）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]], [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

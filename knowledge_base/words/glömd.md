@@ -7,11 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "被遗忘的"
 en: "forgotten"
-synonyms: []
-antonyms: []
-family:
-  - glömma
-  - glömsk
+synonyms: [bortglömd, förgäten]
+antonyms: [ihågkommen]
+family: [glömma, glömsk]
 topics:
   - topic-film
   - topic-litteratur-och-kultur
@@ -28,6 +26,9 @@ interval: 0
 # glömd — adjektiv (perfekt particip)
 
 📖 中文：被遗忘的 · English: forgotten
+
+🇸🇪 Förklaring: som ingen kommer ihåg längre
+
 发音提示：[glœmd]
 
 ## 语法变形 (Forms)
@@ -52,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[glömma]]（动词），glömsk（健忘的）
-- 同义词:
-- 反义词: ihågkommen（被记住的）
+- 词族: [[glömma]]（动词）, [[glömsk]]（健忘的）
+- 同义词: [[bortglömd]] (被遗忘的), [[förgäten]] (被遗忘的（书面）)
+- 反义词: [[ihågkommen]]（被记住的）
 - 主题: [[topic-film]], [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A1"
 zh: "冰箱"
 en: "refrigerator; fridge"
-synonyms: ["kyl"]
+synonyms: [kyl]
 antonyms: []
-family: ["kyla", "kyl", "frys"]
+family: [kyla, frys, kyl]
 topics: ["topic-hem-och-hushall"]
 sentences: ["sent-kylskapet-i-koket-fungerar", "sent-kylskapet-gor-ocksa-ett-hogt", "sent-jag-onskar-att-ni-byter-ut"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kylskåp — substantiv (ett)
 
 📖 中文：冰箱 · English: refrigerator; fridge
+
+🇸🇪 Förklaring: elektriskt skåp i köket där man förvarar mat så att den håller sig kall
+
 发音提示：[ˈɕylˌskoːp] — "KYLSKÅP"（kyl = 冷却，skåp = 柜子）
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kyla]], [[frys]] (冷冻箱)
+- 词族: [[kyla]], [[frys]] (冷冻箱), [[kyl]]
 - 同义词: [[kyl]] (口语)
+- 反义词: —
 - 主题: [[topic-hem-och-hushall]]
 
 ## 用法提示 (Usage Notes)

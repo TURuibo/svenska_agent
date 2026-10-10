@@ -7,8 +7,8 @@ genus: "ett"
 cefr: "B1"
 zh: "自信"
 en: "self-confidence"
-synonyms: []
-antonyms: []
+synonyms: [självsäkerhet]
+antonyms: [osäkerhet]
 family: [självbild]
 topics: [topic-idrott]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # självförtroende — substantiv
 
 📖 中文：自信 · English: self-confidence
+
+🇸🇪 Förklaring: tro på den egna förmågan att klara olika saker
+
 发音提示：SJÄLV-för-tro-en-de
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[självbild]]（自我形象，已存在）
-- 同义词: —
-- 反义词: —
+- 同义词: [[självsäkerhet]] (自信)
+- 反义词: [[osäkerhet]] (不自信)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: "仲夏节前夕"
 en: "Midsummer's Eve"
 synonyms: []
 antonyms: []
-family: ["midsommar", "midsommarstång"]
+family: [midsommar, midsommarstång]
 topics: ["topic-midsommar-traditioner"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # midsommarafton — substantiv (en)
 
 📖 中文：仲夏节前夕 · English: Midsummer's Eve
+
+🇸🇪 Förklaring: fredagen mellan 19 och 25 juni, den stora festdagen då man dansar runt stången och äter sill
+
 发音提示：mid-som-mar-af-ton
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[midsommar]], [[midsommarstång]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

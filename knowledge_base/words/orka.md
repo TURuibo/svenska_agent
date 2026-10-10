@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "有精力（做）"
 en: "to have the energy to"
-synonyms: []
+synonyms: [klara, palla]
 antonyms: []
 family: [ork]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # orka — verb
 
 📖 中文：有精力（做） · English: to have the energy to
+
+🇸🇪 Förklaring: ha tillräckligt med kraft eller lust för att göra något
+
 发音提示：OR-ka，重音在第一音节，r 卷舌。
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ork]]
-- 同义词: 
-- 反义词: 
+- 同义词: [[klara]] (应付), [[palla]] (撑得住（口语）)
+- 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

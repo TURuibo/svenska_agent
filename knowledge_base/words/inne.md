@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A1
 zh: 里面；在室内
 en: inside; indoors
-synonyms: []
-antonyms: ["utomhus"]
-family: []
+synonyms: [inomhus]
+antonyms: [utomhus, ute]
+family: [innesko, inneboende, innerst]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # inne — adverb
 
 📖 中文：里面；在室内 · English: inside; indoors
+
+🇸🇪 Förklaring: i ett rum eller en byggnad, inte ute i det fria
+
 发音提示：IN-neh
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: [[utomhus]] (户外), ute (外面)
+- 词族: [[innesko]] (室内鞋), [[inneboende]] (寄宿者), [[innerst]] (最里面)
+- 同义词: [[inomhus]] (在室内)
+- 反义词: [[utomhus]] (户外), [[ute]] (外面)
 - 相关: in (往里，方向), inomhus (在室内，较正式)
 
 ## 用法提示 (Usage Notes)

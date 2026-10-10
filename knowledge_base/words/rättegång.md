@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "审判；诉讼"
 en: "trial"
-synonyms: []
+synonyms: [process, mål]
 antonyms: []
-family: ["rätt", "döma", "domstol"]
+family: [rätt, döma, domstol]
 topics: ["topic-terrorism-och-brott"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # rättegång — substantiv (en)
 
 📖 中文：审判；诉讼 · English: trial
+
+🇸🇪 Förklaring: möte i domstol där man avgör om någon är skyldig till ett brott eller vem som har rätt i en tvist
+
 发音提示：RÄTT-e-gång
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rätt]] (法/权利), [[döma]] (v, 判决), [[domstol]] (法院)
+- 同义词: [[process]] (诉讼), [[mål]] (案件)
+- 反义词: —
 - 主题: [[topic-terrorism-och-brott]]
 
 ## 用法提示 (Usage Notes)

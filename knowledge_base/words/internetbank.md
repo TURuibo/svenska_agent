@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "网上银行"
 en: "online banking"
-synonyms: []
+synonyms: [nätbank]
 antonyms: []
-family: ["bank"]
+family: [bank]
 topics: ["topic-bedrageri-bank-sakerhet", "topic-betalning"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # internetbank — substantiv (en)
 
 📖 中文：网上银行 · English: online banking
+
+🇸🇪 Förklaring: tjänst där man kan sköta sina bankärenden via datorn eller mobilen
+
 发音提示：IN-ter-net-bank
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bank]]
+- 同义词: [[nätbank]] (网银)
+- 反义词: —
 - 主题: [[topic-bedrageri-bank-sakerhet]], [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

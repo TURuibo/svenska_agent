@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 有前途的；充满希望的
 en: promising
-synonyms: []
-antonyms: []
-family: []
+synonyms: [hopfull]
+antonyms: [hopplös]
+family: [lova, löfte]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # lovande — adjektiv
 
 📖 中文：有前途的；充满希望的 · English: promising
+
+🇸🇪 Förklaring: som verkar bli bra eller lyckas i framtiden
+
 发音提示：LOO-van-deh
 
 ## 语法变形 (Forms)
@@ -45,8 +48,9 @@ Presens particip av verbet *lova* (att lova = 承诺).
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: lova (承诺), löfte (承诺/诺言)
-- 同义词: hopfull (有希望的)
+- 词族: [[lova]] (承诺), [[löfte]] (承诺/诺言)
+- 同义词: [[hopfull]] (有希望的)
+- 反义词: [[hopplös]] (没有希望的)
 
 ## 用法提示 (Usage Notes)
 

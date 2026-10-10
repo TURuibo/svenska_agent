@@ -9,7 +9,7 @@ zh: "淋浴"
 en: "shower"
 synonyms: []
 antonyms: []
-family: ["duscha"]
+family: [duscha]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # dusch — substantiv (en)
 
 📖 中文：淋浴 · English: shower
+
+🇸🇪 Förklaring: anordning som sprutar vatten över kroppen när man tvättar sig; det att man tvättar sig så
+
 发音提示：[dɵʂː]
 
 ## 语法变形 (Forms)

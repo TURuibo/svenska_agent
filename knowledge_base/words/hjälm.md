@@ -9,7 +9,7 @@ zh: "头盔"
 en: "helmet"
 synonyms: []
 antonyms: []
-family: [cykelhjälm]
+family: [cykelhjälm, hjälmplikt]
 topics: [topic-trafik-säkerhet]
 sentences: [sent-polisen-råder-förarna-att-använda-hjälm]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # hjälm — substantiv (en)
 
 📖 中文：头盔 · English: helmet
+
+🇸🇪 Förklaring: hårt skydd för huvudet som man har när man till exempel cyklar, åker motorcykel eller arbetar
+
 发音提示：`hj-` 里的 `h` 不发音，读 "jälm"（[jɛlm]）。
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `cykelhjälm`（自行车头盔）、`hjälmplikt`
+- 词族: [[cykelhjälm]]（自行车头盔）, [[hjälmplikt]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-trafik-säkerhet]]

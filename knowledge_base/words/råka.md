@@ -23,6 +23,9 @@ interval: 0
 # råka — verb (grupp 1)
 
 Zh: 碰巧；偶然；遭遇（不幸） · English: to happen to; to accidentally; to encounter misfortune
+
+🇸🇪 Förklaring: 1) göra något av misstag utan att vilja det; 2) hända av en slump; 3) bli utsatt för något obehagligt, till exempel en olycka
+
 发音提示：RÅ-ka（两个音节）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ Zh: 碰巧；偶然；遭遇（不幸） · English: to happen to; to accidental
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: råkar（presens）, råkade（preteritum）, råkat（supinum）
+- 词族: [[råkar]]（presens）, [[råkade]]（preteritum）, [[råkat]]（supinum）
+- 同义词: [[kedjehändelse]], [[tillfälligtvis]]
+- 反义词: —
 - 常见词组: [[råka-ut-för]]（遭遇不幸）
 
 ## 用法提示 (Usage Notes)

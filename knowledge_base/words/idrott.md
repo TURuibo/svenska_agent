@@ -19,6 +19,9 @@ created: "2026-10-01"
 # idrott — substantiv (en)
 
 📖 中文：体育运动；体育项目 · English: sport(s), athletics
+
+🇸🇪 Förklaring: fysisk aktivitet som man tränar och tävlar i, till exempel fotboll eller löpning
+
 发音提示：/ˈiːdrɔt/（重音在第一音节，i 读长音）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ created: "2026-10-01"
 
 - 词族: [[idrottsman]]（运动员）, [[elitidrottare]]（精英运动员）
 - 同义词: [[sport]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

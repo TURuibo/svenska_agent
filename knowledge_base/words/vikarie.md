@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "代课老师、临时替工"
 en: "substitute teacher, stand-in"
-synonyms: []
+synonyms: [ersättare, inhoppare]
 antonyms: []
-family: []
+family: [vikariat, vikariera]
 topics: ["topic-yrken", "topic-arbete", "topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # vikarie — substantiv (en-ord)
 
 📖 中文：代课老师、临时替工 · English: substitute teacher, stand-in
+
+🇸🇪 Förklaring: person som tillfälligt gör någon annans arbete, till exempel i skolan
+
 发音提示：vi-KA-rie
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vikariat]], [[vikariera]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[ersättare]] (替代者), [[inhoppare]] (替补)
+- 反义词: —
 - 主题: [[topic-yrken]], [[topic-arbete]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

@@ -26,6 +26,9 @@ interval: 0
 # korsning — substantiv (en)
 
 📖 中文：十字路口；交叉口 · English: intersection / crossroads
+
+🇸🇪 Förklaring: plats där två eller flera vägar eller gator möts
+
 发音提示：KORS-ning；两音节，重音在首音节。
 
 ## 语法变形 (Forms)

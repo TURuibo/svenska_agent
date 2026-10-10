@@ -8,7 +8,7 @@ zh: 酸奶
 en: yoghurt
 synonyms: []
 antonyms: []
-family: []
+family: [fruktyoghurt, grekisk-yoghurt]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # yoghurt — substantiv (en)
 
 📖 中文：酸奶 · English: yoghurt
+
+🇸🇪 Förklaring: tjock, syrlig mjölkprodukt som man ofta äter till frukost
+
 发音提示：/ˈjuːɡɵʈ/
 
 ## 语法变形 (Forms)
@@ -35,9 +38,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[fruktyoghurt]] (水果酸奶), [[grekisk-yoghurt|grekisk yoghurt]] (希腊酸奶)
+- 同义词: —
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

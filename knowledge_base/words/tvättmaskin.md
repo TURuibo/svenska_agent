@@ -8,9 +8,7 @@ zh: "洗衣机"
 en: "washing machine"
 synonyms: []
 antonyms: []
-family:
-  - tvätta
-  - diskmaskin
+family: [diskmaskin, tvätta]
 topics:
   - topic-hemmet
 sentences:
@@ -26,6 +24,9 @@ interval: 0
 # tvättmaskin — substantiv en
 
 📖 中文：洗衣机 · English: washing machine
+
+🇸🇪 Förklaring: maskin som gör kläder och lakan rena med vatten och rengöringsmedel
+
 发音提示：/TVÄTT-ma-shin/
 
 ## 语法变形 (Forms)
@@ -51,5 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tvätta（洗涤）· [[diskmaskin]]（洗碗机）
+- 词族: tvätta（洗涤）· [[diskmaskin]]（洗碗机）, [[tvätta]] (洗)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hemmet]]

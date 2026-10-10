@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "度过（时间）；消磨（时间）"
 en: "to spend (time)"
-synonyms: []
+synonyms: [spendera, fördriva]
 antonyms: []
-family: []
+family: [bringa, frambringa]
 topics: ["topic-vader-och-arstider", "topic-fritid-och-resor"]
 sentences:
   - sent-manga-svenskar-tar-semester-tillbringar
@@ -24,6 +24,9 @@ interval: 0
 # tillbringa — verb (grupp 2a)
 
 📖 中文：度过（时间）；消磨（时间） · English: to spend (time)
+
+🇸🇪 Förklaring: vara någonstans eller göra något under en viss tid
+
 发音提示：/tɪlˈbrɪŋa/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[bringa]] (带来(书面)), [[frambringa]] (产生)
+- 同义词: [[spendera]] (花(时间)), [[fördriva]] (打发(时间))
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

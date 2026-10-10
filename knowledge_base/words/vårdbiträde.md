@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "护理助理"
 en: "care assistant"
-synonyms: []
+synonyms: [vårdare]
 antonyms: []
-family: ["vård", "biträde"]
+family: [vård, biträde]
 topics: ["topic-yrken", "topic-vård"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # vårdbiträde — substantiv (ett)
 
 📖 中文：护理助理 · English: care assistant
+
+🇸🇪 Förklaring: person som hjälper sjuka eller gamla med vardagliga saker på sjukhus, på boende eller i hemmet
+
 发音提示：/vård-bi-trä-de/，注意 ä 音
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vård]], [[biträde]]
+- 同义词: [[vårdare]] (护理员)
+- 反义词: —
 - 主题: [[topic-yrken]], [[topic-vård]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "预算会议"
 en: "budget meeting"
 synonyms: []
 antonyms: []
-family: [budget]
+family: [budget, möte]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-jag-uppmanar-politikerna-att-ta-frågan-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # budgetmöte — substantiv (ett)
 
 📖 中文：预算会议 · English: budget meeting
+
+🇸🇪 Förklaring: möte där man diskuterar och planerar hur pengarna ska användas
+
 发音提示：bud-JETT-mö-te（`budget` 读 [bʉˈjɛt]）；重音在 `budget` 的第二音节。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[budget]]（预算）、`möte`（会议）
+- 词族: [[budget]]（预算）, [[möte]]（会议）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]

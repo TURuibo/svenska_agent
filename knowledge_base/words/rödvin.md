@@ -9,7 +9,7 @@ zh: "红酒"
 en: "red wine"
 synonyms: []
 antonyms: []
-family: []
+family: [vin, vitvin, rödvinsglas]
 topics:
   - topic-mat-dryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # rödvin — substantiv (ett)
 
 📖 中文：红酒 · English: red wine
+
+🇸🇪 Förklaring: vin som görs av mörka druvor och har en röd färg
+
 发音提示：["RÖHD-veen"] — 复合词，重音在第一部分
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[vin]] (葡萄酒), [[vitvin]] (白葡萄酒), [[rödvinsglas]] (红酒杯)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

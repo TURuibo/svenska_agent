@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 回收站
 en: recycling station
-synonyms: []
+synonyms: [åvs]
 antonyms: []
-family: []
+family: [återvinna, återvinning, station, återvinningscentral]
 topics: [topic-källsortering, topic-miljö-och-klimat]
 sentences:
   - sent-ta-dem-till-din-närmaste-återvinningsstation
@@ -23,6 +23,9 @@ interval: 0
 # återvinningsstation — substantiv
 
 📖 中文：回收站 · English: recycling station
+
+🇸🇪 Förklaring: plats med stora behållare där man lämnar förpackningar av glas, papper, plast och metall
+
 发音提示：å-ter-VIN-nings-sta-shon（重音在第三音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[återvinna]] (回收), [[återvinning]] (回收), [[station]] (站), [[återvinningscentral]] (回收中心)
+- 同义词: [[åvs|ÅVS]] (回收站（缩写）)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 主题: [[topic-miljö-och-klimat]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]

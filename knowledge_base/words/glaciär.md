@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "冰川"
 en: "glacier"
-synonyms: []
+synonyms: [jökel]
 antonyms: []
-family: []
+family: [smälta]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # glaciär — substantiv
 
 📖 中文：冰川 · English: glacier
-发音提示：
+
+🇸🇪 Förklaring: stor massa av is som långsamt rör sig ner från berg
+
+发音提示：/ɡlasɪˈæːr/ — c 读 s；重音在最后 -är
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[smälta]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: [[jökel]] (冰川)
+- 反义词: —
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

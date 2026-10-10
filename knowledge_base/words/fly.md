@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: B1
 zh: 逃跑；逃离
 en: to flee
-synonyms: []
-antonyms: []
-family: []
+synonyms: [rymma, ge-sig-av]
+antonyms: [stanna]
+family: [flykting]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # fly — verb (starkt: fly – flyr – flydde – flytt)
 
 📖 中文：逃跑、逃难 · English: to flee
+
+🇸🇪 Förklaring: snabbt ge sig av från en fara eller en plats där man inte vill vara
+
+发音提示：/flyː/ — y 读圆唇长音 yː
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: flykting（难民）
-- 同义词:
-- 反义词:
+- 词族: [[flykting]]（难民）
+- 同义词: [[rymma]] (逃走), [[ge-sig-av|ge sig av]] (离开)
+- 反义词: [[stanna]] (留下)
 - 主题:
 
 ## 用法提示 (Usage Notes)

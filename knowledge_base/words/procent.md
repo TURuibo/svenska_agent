@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "百分比"
 en: "per cent"
-synonyms: []
+synonyms: [hundradel]
 antonyms: []
-family: []
+family: [procentsats, procentenhet, procentuell]
 topics: [topic-skola-och-utbildning, topic-val-demokrati]
 sentences: [sent-alla-får-ställa-upp-i-valet]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # procent — substantiv
 
 📖 中文：百分比 · English: per cent
+
+🇸🇪 Förklaring: en hundradel av en helhet; skrivs med tecknet %
+
 发音提示： "pro-sént"
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ Oböjlig plural (invariant): "tjugo procent", inte *procenter.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[procentsats]] (百分率), [[procentenhet]] (百分点), [[procentuell]] (百分比的)
+- 同义词: [[hundradel]] (百分之一)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

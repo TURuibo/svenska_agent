@@ -22,6 +22,9 @@ interval: 0
 # giraff — substantiv (en)
 
 📖 中文：长颈鹿 · English: giraffe
+
+🇸🇪 Förklaring: afrikanskt djur med mycket lång hals och långa ben, som äter blad från träd
+
 发音提示：/ɡɪˈraf/
 
 ## 语法变形 (Forms)

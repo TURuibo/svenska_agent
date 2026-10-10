@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 气候灾难
 en: climate disaster
-synonyms: []
+synonyms: [klimatkris]
 antonyms: []
-family: []
+family: [klimat]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # klimatkatastrof — substantiv (en-ord)
 
 📖 中文：气候灾难 · English: climate catastrophe
+
+🇸🇪 Förklaring: mycket stora skador på natur och samhälle som orsakas av att jorden blir varmare och vädret blir extremt
+
+发音提示：/klɪˈmɑːtkatasˌtroːf/ — 重音在 mat；trof 次重音
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: klimat + katastrof
-- 同义词:
-- 反义词:
+- 词族: [[klimat]] + katastrof
+- 同义词: [[klimatkris]] (气候危机)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

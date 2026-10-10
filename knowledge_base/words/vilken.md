@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "哪一个，哪些"
 en: "which, what"
-synonyms: []
+synonyms: [vad-för]
 antonyms: []
-family: []
+family: [vilken-som-helst]
 topics: []
 sentences: ["sent-vilken-uppgift-i-livet-hade", "sent-vilken-händelse-gjorde-att-arbetet"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vilken — pronomen (frågeord)
 
 📖 中文：哪一个，哪些 · English: which, what
+
+🇸🇪 Förklaring: frågeord som används för att fråga om en eller flera bland flera saker eller personer
+
 发音提示："VIL-ken"
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[vilken-som-helst|vilken som helst]] (任何一个)
+- 同义词: [[vad-för|vad för]] (什么样的)
 - 反义词: —
 - 主题: —
 

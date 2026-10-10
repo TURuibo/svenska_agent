@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "工作时间"
 en: "working hours"
 synonyms: []
-antonyms: []
+antonyms: [fritid]
 family: [arbeta, arbete, arbetssökande]
 topics: [topic-förskola-vardag]
 sentences: [sent-vistelsetiden-är-er-arbetstid-plus-restid]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # arbetstid — substantiv (en)
 
 📖 中文：工作时间 · English: working hours
+
+🇸🇪 Förklaring: de timmar som man är på jobbet varje dag eller vecka
+
 发音提示：[ˈarːbeːtsˌtiːd]，arbete + s + tid。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[arbeta]], [[arbete]], [[arbetssökande]]
+- 同义词: —
+- 反义词: [[fritid]] (空闲时间)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

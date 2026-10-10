@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "比赛；竞赛"
 en: "to compete"
-synonyms: []
-antonyms: []
-family: ["tävling", "tävlare"]
+synonyms: [konkurrera]
+antonyms: [samarbeta]
+family: [tävling, tävlare]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tävla — verb (grupp 1)
 
 📖 中文：比赛；竞赛 · English: to compete
+
+🇸🇪 Förklaring: försöka vara bättre eller snabbare än andra för att vinna
+
 发音提示：[ˈtɛːvla]
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tävling]] (n, stub, 比赛/竞赛), [[tävlare]] (n, stub, 参赛者)
+- 词族: [[tävling]] (n, 比赛/竞赛), [[tävlare]] (n, 参赛者)
+- 同义词: [[konkurrera]] (竞争)
+- 反义词: [[samarbeta]] (合作)
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

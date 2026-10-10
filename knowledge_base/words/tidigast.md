@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "最早"
 en: "at the earliest"
-synonyms: []
+synonyms: [först]
 antonyms: [senast]
 family: [tidig, tidigt]
 topics: [topic-förskola-system, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tidigast — adverb (superlativ)
 
 📖 中文：最早 · English: at the earliest
+
+🇸🇪 Förklaring: inte före ett visst klockslag eller datum
+
 发音提示：[ˈtiːdɪgast]。
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tidig]] · [[tidigt]]
-- 同义词: —
-- 反义词: senast（最晚）
+- 词族: [[tidig]] · [[tidigt]], [[tidigt]]
+- 同义词: [[först]] (最早；才)
+- 反义词: [[senast]]（最晚）
 - 主题: [[topic-förskola-system]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

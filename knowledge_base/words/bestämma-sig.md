@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "下决心，决定"
 en: "decide, make up one's mind"
-synonyms: []
-antonyms: []
+synonyms: [fatta-beslut, välja]
+antonyms: [tveka, vackla]
 family: [bestämma, besluta, bestämmelse]
 topics: []
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # bestämma sig — verb (v.2, reflexivt)
 
 📖 中文：下决心，决定 · English: decide, make up one's mind
+
+🇸🇪 Förklaring: välja vad man ska göra efter att ha tänkt efter
+
 发音提示：/bɛˈstɛmːa sɛɡ/；反身动词，需带反身代词。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bestämma]]（决定/规定），besluta（决定），bestämmelse（规定）
+- 词族: [[bestämma]]（决定/规定）, [[besluta]]（决定）, [[bestämmelse]]（规定）
+- 同义词: [[fatta-beslut|fatta beslut]] (做出决定), [[välja]] (选择)
+- 反义词: [[tveka]] (犹豫), [[vackla]] (动摇)
 - 参见词组: [[bestämma-sig-för-att]]（决定去做）
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "称赞，好评"
 en: "praise"
-synonyms: []
-antonyms: []
-family: ["berömma"]
+synonyms: [lovord, uppskattning]
+antonyms: [kritik, klander]
+family: [berömma]
 topics: ["topic-film"]
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-10"
 # beröm — substantiv
 
 📖 中文：称赞，好评 · English: praise
+
+🇸🇪 Förklaring: vänliga ord som visar att någon har gjort något bra
+
+发音提示：/beˈrœmː/ — 重音在 röm，ö 读短音
 
 ## 语法变形 (Forms)
 
@@ -35,6 +39,8 @@ created: "2026-10-10"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[berömma]]
+- 同义词: [[lovord]] (赞誉), [[uppskattning]] (赞赏)
+- 反义词: [[kritik]] (批评), [[klander]] (责备)
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

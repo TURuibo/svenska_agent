@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "惊讶"
 en: "surprise"
-synonyms: ["överraskning"]
+synonyms: [överraskning]
 antonyms: []
-family: ["förvånad", "förvåna"]
+family: [förvånad, förvåna]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # förvåning — substantiv (en)
 
 📖 中文：惊讶 · English: surprise
+
+🇸🇪 Förklaring: känsla när något händer som man inte hade väntat sig
+
 发音提示：för-VÅ-ning
 
 ## 语法变形 (Forms)
@@ -42,8 +45,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[förvånad]]（惊讶的，形容词）
+- 词族: [[förvånad]]（惊讶的，形容词）, [[förvåna]]
 - 同义词: [[överraskning]]（惊喜/意外）
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

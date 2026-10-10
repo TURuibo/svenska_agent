@@ -7,8 +7,8 @@ cefr: "B1"
 zh: "洪水"
 en: "flood"
 synonyms: []
-antonyms: []
-family: ["svämma-över"]
+antonyms: [torka]
+family: [svämma-över]
 topics: ["topic-naturkatastrof"]
 sentences: ["sent-en-tredjedel-av-landet-ar-tackt-med-vatten"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # översvämning — substantiv
 
 📖 中文：洪水 · English: flood
-发音提示：
+
+🇸🇪 Förklaring: när stora mängder vatten täcker mark som brukar vara torr
+
+发音提示：/ˈøːvɛˌʂvɛmːnɪŋ/ — rs 合读 ʂ；重音在 ö
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[svämma-över]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: —
+- 反义词: [[torka]] (干旱)
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

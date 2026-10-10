@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tandsprickning — substantiv (en, 不可数)
 
 📖 中文：出牙（出牙期） · English: teething
+
+🇸🇪 Förklaring: det att ett litet barns första tänder växer fram genom tandköttet
+
 发音提示：/ˈtandˌsprɪkːnɪŋ/ — tand + sprickning（spricka = 裂开、冒出）。
 
 ## 语法变形 (Forms)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "进一步，继续"
 en: "further, onward"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [framåt, fortsättningsvis]
+antonyms: [tillbaka]
+family: [vid, vidd, vidareutbildning]
 topics: []
 sentences: ["sent-varför-var-det-nästan-bara"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vidare — adverb
 
 📖 中文：进一步，继续 · English: further, onward
+
+🇸🇪 Förklaring: längre fram i rum eller tid; så att något fortsätter
+
 发音提示："VI-da-re"
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[vid]] (宽的), [[vidd]] (宽度), [[vidareutbildning]] (进修)
+- 同义词: [[framåt]] (向前), [[fortsättningsvis]] (今后)
+- 反义词: [[tillbaka]] (回去)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

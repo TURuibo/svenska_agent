@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "特殊饮食"
 en: "special diet"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [diet]
+antonyms: [normalkost]
+family: [kost, speciell, kosthållning]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: [sent-barn-med-specialkost-får-egen-mat]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # specialkost — substantiv (en)
 
 📖 中文：特殊饮食 · English: special diet
+
+🇸🇪 Förklaring: mat som är anpassad för den som inte tål eller inte äter vissa livsmedel, t.ex. på grund av allergi eller religion
+
 发音提示：spe-si-**al**-kost；*special* 的 c 读 /s/，重音在 -al-；*kost* 的 o 短 /ɔ/。复合词 special + kost（饮食）。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kost]] (饮食), [[speciell]] (特别的), [[kosthållning]] (饮食习惯)
+- 同义词: [[diet]] (特殊饮食)
+- 反义词: [[normalkost]] (普通饮食)
 - 主题: [[topic-småbarn-mat-och-sömn]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

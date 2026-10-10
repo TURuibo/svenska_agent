@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "看法、观点"
 en: "outlook/view"
-synonyms: []
+synonyms: [perspektiv, inställning, uppfattning]
 antonyms: []
-family: []
+family: [syn, sätt]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # synsätt — substantiv
 
 📖 中文：看法、观点 · English: outlook/view
+
+🇸🇪 Förklaring: hur man ser på och tänker om något
+
 发音提示：SYN-sätt
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[syn]] (视野；看法), [[sätt]] (方式)
+- 同义词: [[perspektiv]] (视角), [[inställning]] (态度), [[uppfattning]] (看法)
+- 反义词: —
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

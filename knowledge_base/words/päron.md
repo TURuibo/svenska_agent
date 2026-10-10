@@ -8,7 +8,7 @@ zh: "梨"
 en: "pear"
 synonyms: []
 antonyms: []
-family: []
+family: [päronform]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # päron — substantiv (ett-ord)
 
 📖 中文：梨 · English: pear
+
+🇸🇪 Förklaring: frukt som är smal upptill och bredare nertill och har mjukt och saftigt fruktkött
+
 发音提示：['pæːrɔn]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: päronform（梨形）
+- 词族: [[päronform]]（梨形）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

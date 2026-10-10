@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "身体"
 en: "body"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [lekamen]
+antonyms: [själ]
+family: [kroppslig, kroppsdel, överkropp, kroppsspråk]
 topics: [topic-förskola-vardag, topic-kropp]
 sentences: [sent-just-nu-har-vi-temat-kroppen]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # kropp — substantiv (en)
 
 📖 中文：身体 · English: body
+
+🇸🇪 Förklaring: hela den fysiska delen av en människa eller ett djur
+
 发音提示：/krɔpː/；短 o，双写 pp。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kroppslig]] (身体的), [[kroppsdel]] (身体部位), [[överkropp]] (上身), [[kroppsspråk]] (身体语言)
+- 同义词: [[lekamen]] (肉体（书面）)
+- 反义词: [[själ]] (灵魂)
 - 主题: [[topic-kropp]], [[topic-förskola-vardag]]
 - 相关: [[huvud]], [[axel]], [[knä]], [[tå]], [[näsa]], [[mage]]
 

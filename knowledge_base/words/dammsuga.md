@@ -8,7 +8,7 @@ zh: "吸尘"
 en: "to vacuum"
 synonyms: []
 antonyms: []
-family: ["damm", "suga", "dammsugare"]
+family: [damm, suga, dammsugare]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # dammsuga — verb
 
 📖 中文：吸尘 · English: to vacuum
+
+🇸🇪 Förklaring: göra rent golvet med en elektrisk maskin som suger upp smuts
+
 发音提示：DAMM-su-ga
 
 ## 语法变形 (Forms)
@@ -41,6 +44,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[damm]]（灰尘）, [[suga]]（吸）, [[dammsugare]]（吸尘器）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

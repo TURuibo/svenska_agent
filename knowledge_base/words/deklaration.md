@@ -7,7 +7,7 @@ genus: en
 cefr: B1
 zh: 报税单；申报
 en: tax return
-synonyms: []
+synonyms: [självdeklaration]
 antonyms: []
 family: [deklarera]
 topics: [topic-skatt-och-deklaration, topic-ekonomi-och-bidrag]
@@ -19,6 +19,9 @@ created: 2026-10-02
 # deklaration — substantiv (en)
 
 📖 中文：报税单 · English: tax return
+
+🇸🇪 Förklaring: 1) blankett där man varje år redovisar sina inkomster till Skatteverket; 2) det att man officiellt anmäler något, till exempel i tullen
+
 发音提示：[deklaraˈɧuːn]
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: 2026-10-02
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[deklarera]]
+- 同义词: [[självdeklaration]] (个人报税单)
+- 反义词: —
 - 主题: [[topic-skatt-och-deklaration]], [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

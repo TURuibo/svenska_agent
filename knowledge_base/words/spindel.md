@@ -9,7 +9,7 @@ zh: "蜘蛛"
 en: "spider"
 synonyms: []
 antonyms: []
-family: []
+family: [spindelväv, spindelnät]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # spindel — substantiv (en)
 
 📖 中文：蜘蛛 · English: spider
+
+🇸🇪 Förklaring: litet djur med åtta ben som spinner nät för att fånga insekter
+
 发音提示：/ˈspɪndɛl/
 
 ## 语法变形 (Forms)

@@ -7,8 +7,8 @@ cefr: A2
 zh: 胸部，胸口
 en: chest, breast
 synonyms: []
-antonyms: []
-family: []
+antonyms: [rygg]
+family: [bröstkorg, bröstmjölk, bröstsim]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bröst — substantiv (ett)
 
 📖 中文：胸部，胸口 · English: chest, breast
+
+🇸🇪 Förklaring: den främre delen av kroppen mellan halsen och magen
+
 发音提示：[brøːst]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[bröstkorg]] (胸腔), [[bröstmjölk]] (母乳), [[bröstsim]] (蛙泳)
+- 同义词: —
+- 反义词: [[rygg]] (背部)
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

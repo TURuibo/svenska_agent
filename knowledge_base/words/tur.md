@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "轮次；（另义）运气；（另义）短途行程"
 en: "turn; luck; trip"
-synonyms: []
-antonyms: ["otur"]
-family: []
+synonyms: [lycka, utflykt]
+antonyms: [otur]
+family: [otur, turtagning]
 topics: ["topic-småbarn-känslor-och-beteende", "topic-förskola-vardag"]
 sentences: ["sent-ella-vänta-lite-nu-är-det"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tur — substantiv (en)
 
 📖 中文：轮次；（另义）运气；（另义）短途行程 · English: turn; luck; trip
+
+🇸🇪 Förklaring: 1) när det är någons gång att göra något 2) det att något bra händer av en slump 3) kort resa eller utflykt
+
 发音提示：TUR（u 是瑞典语圆唇长音，接近"tü:r"）
 
 ## 语法变形 (Forms)
@@ -55,8 +58,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: otur（倒霉）, turtagning（轮流）
-- 反义词: otur
+- 词族: [[otur]]（倒霉）, [[turtagning]]（轮流）
+- 同义词: [[lycka]] (幸运), [[utflykt]] (短途旅行)
+- 反义词: [[otur]]
 - 主题: [[topic-småbarn-känslor-och-beteende]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

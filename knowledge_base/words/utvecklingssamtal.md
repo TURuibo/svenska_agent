@@ -7,9 +7,9 @@ genus: ett
 cefr: "B1"
 zh: 家长发展谈话
 en: parent-teacher conference; development review meeting
-synonyms: []
+synonyms: [medarbetarsamtal]
 antonyms: []
-family: []
+family: [utveckling]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-det-ar-nu-dags-for, sent-vi-vill-traffa-dig-for]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # utvecklingssamtal — substantiv (ett)
 
 📖 中文：家长发展谈话 · English: parent-teacher conference; development review meeting
+
+🇸🇪 Förklaring: möte där lärare och föräldrar, eller chef och anställd, pratar om hur det går och vad nästa steg är
+
 发音提示：ut-VECK-lings-SAM-tal
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[utveckling]] (development) + [[samtal]] (conversation)
-- 同义词: —
+- 同义词: [[medarbetarsamtal]] (员工谈话)
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 

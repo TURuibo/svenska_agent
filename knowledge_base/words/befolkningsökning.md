@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "人口增长"
 en: "population growth"
-synonyms: []
-antonyms: []
-family: ["befolkningstäthet"]
+synonyms: [befolkningstillväxt]
+antonyms: [befolkningsminskning]
+family: [befolkningstäthet]
 topics: ["topic-geografi-samhalle"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # befolkningsökning — substantiv
 
 📖 中文：人口增长 · English: population growth
-发音提示：
+
+🇸🇪 Förklaring: det att antalet människor i ett land eller ett område blir större
+
+发音提示：/beˈfɔlknɪŋsˌøːknɪŋ/ — 重音在 folk，ö 读长音
 
 ## 语法变形 (Forms)
 
@@ -35,8 +38,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[befolkningstäthet]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: [[befolkningstillväxt]] (人口增长)
+- 反义词: [[befolkningsminskning]] (人口减少)
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

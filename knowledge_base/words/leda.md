@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: B1
 zh: 带领；导致
 en: to lead; to cause
-synonyms: []
-antonyms: []
-family: []
+synonyms: [styra, orsaka]
+antonyms: [följa]
+family: [ledare, ledning, ledarskap, vägleda]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # leda — verb (oregelbundet)
 
 📖 中文：带领；导致 · English: to lead; to cause
+
+🇸🇪 Förklaring: 1) gå först och visa vägen, eller styra en grupp; 2) ha något som följd
+
+发音提示：/ˈleːda/ — e 读长音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -46,9 +50,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[ledare]] (领导者), [[ledning]] (领导层), [[ledarskap]] (领导力), [[vägleda]] (指导)
+- 同义词: [[styra]] (领导), [[orsaka]] (导致)
+- 反义词: [[följa]] (跟随)
 - 主题:
 
 ## 用法提示 (Usage Notes)

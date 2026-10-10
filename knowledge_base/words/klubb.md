@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "俱乐部；协会"
 en: "club"
-synonyms: ["förening"]
+synonyms: [förening]
 antonyms: []
-family: ["klubba"]
+family: [klubba]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-06"
 # klubb — substantiv (en)
 
 📖 中文：俱乐部 · English: club
+
+🇸🇪 Förklaring: grupp av människor som träffas regelbundet för ett gemensamt intresse, till exempel en sport
+
 发音提示：/klɵb/
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: "2026-10-06"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[klubba]]
 - 同义词: [[förening]]（协会，更中性）
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

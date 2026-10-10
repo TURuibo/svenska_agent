@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "市镇选举"
 en: "municipal election"
-synonyms: []
+synonyms: [kommunalval]
 antonyms: []
 family: [kommun, val, riksdagsval, valdag, vallokal, valsedel, valaffisch, vallöfte, valdebatt, valresultat, valarbetare]
 topics: [topic-val-demokrati]
@@ -23,6 +23,9 @@ interval: 0
 # kommunval — substantiv (ett)
 
 📖 中文：市镇选举 · English: municipal election
+
+🇸🇪 Förklaring: val där invånarna röstar fram de politiker som ska styra kommunen
+
 发音提示：kom-MUN-val
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kommun]]，val，[[riksdagsval]]，[[valdag]]，[[vallokal]]，[[valsedel]]，[[valaffisch]]，[[vallöfte]]，[[valdebatt]]，[[valresultat]]，[[valarbetare]]（val- 复合词族）
+- 词族: [[kommun]], [[val]], [[riksdagsval]], [[valdag]], [[vallokal]], [[valsedel]], [[valaffisch]], [[vallöfte]], [[valdebatt]], [[valresultat]], [[valarbetare]]（val- 复合词族）
+- 同义词: [[kommunalval]] (市政选举)
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: B1
 zh: 解决；解开
 en: to solve; to resolve
-synonyms: []
-antonyms: []
-family: []
+synonyms: [klara-av, fixa]
+antonyms: [knyta]
+family: [lösning, lös]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lösa — verb (grupp 2)
 
 📖 中文：解决；解开 · English: to solve; to resolve
+
+🇸🇪 Förklaring: hitta svaret på en uppgift eller ett sätt att klara ett problem; göra en knut eller något fastsatt fritt
+
 发音提示：LÖ-sah
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: lösning (解决方案), lös (松散的/溶解的)
-- 同义词: klara av (完成), fixa (解决，口语)
+- 词族: [[lösning]] (解决方案), [[lös]] (松散的/溶解的)
+- 同义词: [[klara-av|klara av]] (完成), [[fixa]] (解决，口语)
+- 反义词: [[knyta]] (打结)
 
 ## 用法提示 (Usage Notes)
 

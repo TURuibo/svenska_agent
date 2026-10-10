@@ -6,7 +6,7 @@ verbgrupp: "oregelbundet"
 cefr: A2
 zh: 放(坐着)、设置
 en: to put, set
-synonyms: []
+synonyms: [placera]
 antonyms: []
 family: [sitta]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # sätta — verb (oregelbundet)
 
 📖 中文：放(坐着)、设置 · English: to put, set
+
+🇸🇪 Förklaring: placera något på ett visst ställe; få någon att sitta
+
 发音提示：/ˈsɛtːa/；satte /ˈsatːɛ/
 
 ## 语法变形 (Forms)
@@ -58,8 +61,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sitta]]（sätta 是 sitta 的使役动词）
-- 同义词:
-- 反义词:
+- 同义词: [[placera]] (放置)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

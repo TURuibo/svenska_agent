@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "交通方式，出行方式"
 en: "mode of transport, means of travel"
-synonyms: ["transportmedel", "transportsätt"]
+synonyms: [transportmedel, transportsätt]
 antonyms: []
-family: ["färd", "sätt"]
+family: [färd, sätt]
 topics: ["topic-trafik", "topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # färdsätt — substantiv (ett)
 
 📖 中文：交通方式，出行方式 · English: mode of transport, means of travel
+
+🇸🇪 Förklaring: det sätt som man reser på, till exempel med bil, buss, tåg eller cykel
+
 发音提示：[ˈfæːrdˌsɛt]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[färd]], [[sätt]]
-- 同义词: [[transportmedel]]
+- 同义词: [[transportmedel]], [[transportsätt]]
+- 反义词: —
 - 主题: [[topic-trafik]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

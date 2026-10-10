@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "过敏的"
 en: "allergic"
-synonyms: []
+synonyms: [överkänslig]
 antonyms: []
-family: []
+family: [allergi]
 topics:
   - topic-mat-dryck
   - topic-hälsa
@@ -27,6 +27,9 @@ interval: 0
 # allergisk — adjektiv
 
 📖 中文：过敏的 · English: allergic
+
+🇸🇪 Förklaring: som får besvär i kroppen av till exempel pollen, djur eller viss mat
+
 发音提示：al-LER-gisk（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: allergi（过敏症，en）
-- 同义词: överkänslig（对…敏感）
+- 词族: [[allergi]]（过敏症，en）
+- 同义词: [[överkänslig]]（对…敏感）
 - 反义词: —
 - 主题: [[topic-mat-dryck]] · [[topic-hälsa]]
 

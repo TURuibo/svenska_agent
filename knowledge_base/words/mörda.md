@@ -7,11 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "谋杀"
 en: "to murder"
-synonyms: []
+synonyms: [döda, ta-livet-av]
 antonyms: []
-family:
-  - mördare
-  - mord
+family: [mördare, mord]
 topics:
   - topic-krig-och-konflikt
 sentences:
@@ -27,6 +25,9 @@ interval: 0
 # mörda — verb
 
 📖 中文：谋杀 · English: to murder
+
+🇸🇪 Förklaring: med avsikt döda en annan människa
+
 发音提示：['mœrda]
 
 ## 语法变形 (Forms)
@@ -53,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mördare（凶手）, mord（谋杀罪）
-- 同义词:
-- 反义词:
+- 词族: [[mördare]]（凶手）, [[mord]]（谋杀罪）
+- 同义词: [[döda]] (杀死), [[ta-livet-av|ta livet av]] (杀害)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "营养；行业，产业"
 en: "nutrition; industry, livelihood"
-synonyms: []
+synonyms: [näringsämne, bransch]
 antonyms: []
-family: ["livnära", "livnäring", "jordbruksnäring"]
+family: [livnära, livnäring, jordbruk, jordbruksnäring]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # näring — substantiv (en)
 
 📖 中文：营养；行业，产业 · English: nutrition; industry, livelihood
+
+🇸🇪 Förklaring: 1) ämnen i maten som kroppen behöver för att växa och må bra; 2) sätt att tjäna pengar, bransch
+
 发音提示：[ˈnæːrɪŋ]
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[livnära]], [[livnäring]], [[jordbruk]]
+- 词族: [[livnära]], [[livnäring]], [[jordbruk]], [[jordbruksnäring]]
+- 同义词: [[näringsämne]] (营养物质), [[bransch]] (行业)
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

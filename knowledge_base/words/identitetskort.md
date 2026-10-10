@@ -23,6 +23,9 @@ interval: 0
 # identitetskort — substantiv (ett)
 
 📖 中文：身份证 · English: ID card
+
+🇸🇪 Förklaring: officiellt kort med foto som visar vem man är
+
 发音提示：i-den-ti-TETS-kort
 
 ## 语法变形 (Forms)
@@ -47,8 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: identitet（身份），kort（卡）
-- 同义词: legitimation（身份证件，更通用）
+- 词族: [[identitet]]（身份）, [[kort]]（卡）
+- 同义词: [[legitimation]]（身份证件，更通用）
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

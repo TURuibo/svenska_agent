@@ -8,7 +8,7 @@ zh: "手榴弹"
 en: "hand grenade"
 synonyms: []
 antonyms: []
-family: []
+family: [sprängning, bomb]
 topics: [topic-krig-och-konflikt]
 sentences:
   - sent-en-man-kastade-in-en-handgranat-i-sovrum
@@ -25,6 +25,9 @@ interval: 0
 # handgranat — substantiv
 
 📖 中文：手榴弹 · English: hand grenade
+
+🇸🇪 Förklaring: liten bomb som man kastar med handen och som exploderar efter några sekunder
+
 发音提示：HAND-gra-nat
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sprängning]], [[bomb]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

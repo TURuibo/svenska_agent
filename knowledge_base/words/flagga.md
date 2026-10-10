@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "旗帜；国旗"
 en: "flag"
-synonyms: []
+synonyms: [fana]
 antonyms: []
-family: []
+family: [hakkors]
 topics: [topic-samhälle-och-politik]
 sentences:
   - sent-poliserna-hittade-flera-knivar-och-en-flagga
@@ -24,6 +24,9 @@ interval: 0
 # flagga — substantiv (en)
 
 📖 中文：旗帜；国旗 · English: flag
+
+🇸🇪 Förklaring: tygstycke med färger och mönster som är en symbol för ett land eller en organisation
+
 发音提示：FLAG-ga；清晰的短促 a。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hakkors]]
-- 同义词: —
+- 同义词: [[fana]] (旗帜)
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

@@ -8,7 +8,7 @@ zh: "面包"
 en: "bread"
 synonyms: []
 antonyms: []
-family: ["bulle"]
+family: [bulle, brödbak, brödskorpa]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bröd — substantiv (ett-ord)
 
 📖 中文：面包 · English: bread
+
+🇸🇪 Förklaring: mat som man bakar i ugnen av mjöl, vatten och jäst
+
 发音提示：[brøːd]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bulle]]（小圆面包）, brödbak (烤面包), brödskorpa (面包皮)
+- 词族: [[bulle]]（小圆面包）, [[brödbak]] (烤面包), [[brödskorpa]] (面包皮)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

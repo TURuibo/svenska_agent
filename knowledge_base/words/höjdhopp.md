@@ -8,7 +8,7 @@ zh: 跳高
 en: high jump
 synonyms: []
 antonyms: []
-family: []
+family: [höjd, hopp, längdhopp, stavhopp]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # höjdhopp — substantiv (ett)
 
 📖 中文：跳高 · English: high jump
+
+🇸🇪 Förklaring: idrottsgren där man tar sats och försöker ta sig över en ribba som ligger högt upp
+
 发音提示：/ˈhøjdˌhɔpː/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[höjd]] (高度), [[hopp]] (跳跃), [[längdhopp]] (跳远), [[stavhopp]] (撑竿跳)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "兔子"
 en: "rabbit"
-synonyms: []
+synonyms: [hare]
 antonyms: []
-family: []
+family: [kaninbur]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kanin — substantiv (en)
 
 📖 中文：兔子 · English: rabbit
+
+🇸🇪 Förklaring: litet djur med långa öron och kort svans som skuttar och ofta hålls som husdjur
+
 发音提示：/kaˈniːn/
 
 ## 语法变形 (Forms)

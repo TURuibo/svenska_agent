@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "政治家"
 en: "politician"
-synonyms: []
+synonyms: [folkvald]
 antonyms: []
 family: [politik, politisk]
 topics: [topic-samhälle-och-politik, topic-yrken, topic-val-demokrati]
@@ -24,6 +24,9 @@ interval: 0
 # politiker — substantiv (en)
 
 📖 中文：政治家 · English: politician
+
+🇸🇪 Förklaring: person som arbetar med att styra ett land eller en kommun, ofta vald av folket
+
 发音提示：/pɔˈlɪːtɪkər/；复数形式同原形（以 -er 结尾）。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: politik（政治），politisk（政治的）
+- 词族: [[politik]]（政治）, [[politisk]]（政治的）
+- 同义词: [[folkvald]] (民选代表)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]], [[topic-yrken]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

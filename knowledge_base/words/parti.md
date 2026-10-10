@@ -6,9 +6,9 @@ genus: ett
 cefr: "A2"
 zh: "政党；一批；棋局"
 en: "(political) party; batch; game"
-synonyms: []
+synonyms: [omgång, sats]
 antonyms: []
-family: ["partiledare", "partipolitik", "partimedlem"]
+family: [partiledare, partipolitik, partimedlem]
 topics: ["topic-samhälle-och-politik", "topic-val-demokrati"]
 sentences: ["sent-alla-får-ställa-upp-i-valet"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # parti — substantiv
 
 📖 中文：政党；一批；棋局 · English: (political) party; batch; game
+
+🇸🇪 Förklaring: 1) grupp människor med samma politiska idéer som vill vara med och styra; 2) en viss mängd varor; 3) en omgång av ett spel, till exempel schack
+
 发音提示：/parˈtiː/
 
 ## 语法变形 (Forms)
@@ -55,7 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: partiledare (party leader), partipolitik (party politics), partimedlem (party member)
+- 词族: [[partiledare]] (party leader), [[partipolitik]] (party politics), [[partimedlem]] (party member)
+- 同义词: [[omgång]] (一局), [[sats]] (一批)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

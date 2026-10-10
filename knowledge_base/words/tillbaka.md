@@ -5,7 +5,7 @@ ordklass: adverb
 cefr: A1
 zh: 回来；回去；回(礼)
 en: back
-synonyms: []
+synonyms: [åter, bakåt]
 antonyms: [fram]
 family: [tillbakablick]
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # tillbaka — adverb
 
 📖 中文：回来；回去；回(礼) · English: back
+
+🇸🇪 Förklaring: till det ställe eller läge där något var förut; som svar eller gengäld
+
 发音提示：/tɪlˈbɑːka/
 
 ## 语法变形 (Forms)
@@ -40,8 +43,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tillbakablick]]
-- 同义词: 
-- 反义词: fram
+- 同义词: [[åter]] (回), [[bakåt]] (向后)
+- 反义词: [[fram]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

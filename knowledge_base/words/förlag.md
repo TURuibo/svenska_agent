@@ -23,6 +23,9 @@ interval: 0
 # förlag — substantiv (ett)
 
 📖 中文：出版社；出版商 · English: publishing house; publisher
+
+🇸🇪 Förklaring: företag som ger ut böcker, tidningar eller musik
+
 发音提示：**FÖR-lag**；重音在第一音节，`ö` 类似英语 *bird* 中的元音但更圆唇。
 
 ## 语法变形 (Forms)

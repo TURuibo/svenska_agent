@@ -8,8 +8,8 @@ cefr: "B1"
 zh: "赤裸的；裸露的"
 en: "naked, bare"
 synonyms: [bar]
-antonyms: []
-family: []
+antonyms: [klädd]
+family: [nakenhet, halvnaken, nakenbad]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # naken — adjektiv
 
 📖 中文：赤裸的；裸露的 · English: naked, bare
+
+🇸🇪 Förklaring: som inte har några kläder på sig; som inte är täckt av något
+
 发音提示：/ˈnaːkɛn/；长 a。
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[nakenhet]] (赤裸), [[halvnaken]] (半裸的), [[nakenbad]] (裸泳)
 - 同义词: [[bar]]（光秃的、裸露的）
 - 反义词: [[klädd]]（穿着衣服的）
-- 词族: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

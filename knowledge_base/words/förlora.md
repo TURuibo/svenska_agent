@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "输；失去"
 en: "to lose"
-synonyms: []
-antonyms: ["vinna"]
-family: ["förlust", "förlorare"]
+synonyms: [tappa, mista]
+antonyms: [vinna]
+family: [förlust, förlorare]
 topics: ["topic-fotboll", "topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # förlora — verb (grupp 1)
 
 📖 中文：输；失去 · English: to lose
+
+🇸🇪 Förklaring: inte vinna en tävling eller ett spel; inte ha kvar något som man hade
+
 发音提示：för-LO-ra
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förlust]] (en, 损失/失败), [[förlorare]] (en, 失败者)
+- 同义词: [[tappa]] (弄丢), [[mista]] (失去)
 - 反义词: [[vinna]]
 - 主题: [[topic-fotboll]], [[topic-samhälle-och-politik]]
 

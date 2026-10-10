@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "补贴、补助"
 en: "grant / subsidy"
-synonyms: [stöd]
+synonyms: [stöd, subvention]
 antonyms: [lån]
-family: [bidra]
+family: [bidra, bidragsgivare]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bidrag — substantiv (ett)
 
 📖 中文：补贴、补助 · English: grant / subsidy
+
+🇸🇪 Förklaring: pengar som man får från staten eller en organisation och inte behöver betala tillbaka
+
 发音提示：BI-drag，重音第一音节。
 
 ## 语法变形 (Forms)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "独立的；不论"
 en: "independent; regardless"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [självständig, oavsett]
+antonyms: [beroende]
+family: [bero-på]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # oberoende — adjektiv/adverb
 
 📖 中文：独立的；不论 · English: independent; regardless
+
+🇸🇪 Förklaring: 1) som klarar sig själv och inte styrs av någon annan; 2) utan hänsyn till något, till exempel ålder eller kön
+
 发音提示：O-be-ro-en-de
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ Oböjligt i alla former (en/ett/plural): oberoende.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[bero-på|bero på]] (取决于)
+- 同义词: [[självständig]] (独立的), [[oavsett]] (不论)
+- 反义词: [[beroende]] (依赖的)
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

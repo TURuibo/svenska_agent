@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: A1
 zh: 数；计算；算作
 en: to count; to calculate
-synonyms: []
+synonyms: [beräkna, kalkylera]
 antonyms: []
 family: [räkning]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # räkna — verb (grupp 1)
 
 📖 中文：数；计算；算作 · English: to count; to calculate
+
+🇸🇪 Förklaring: 1) säga siffror i ordning för att se hur många något är; 2) lösa uppgifter med siffror; 3) anse att något hör till en grupp
+
+发音提示：/ˈrɛːkna/ — ä 读长音 /ɛː/
 
 ## 语法变形 (Forms)
 
@@ -44,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: räkning (en)
-- 同义词:
-- 反义词:
+- 词族: [[räkning]] (en)
+- 同义词: [[beräkna]] (计算), [[kalkylera]] (核算)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

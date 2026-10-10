@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 角色/职责/作用
 en: role/part
-synonyms: []
+synonyms: [uppgift, funktion, karaktär]
 antonyms: []
-family: []
+family: [rollspel, huvudroll, rollfigur]
 topics: [topic-arbete-och-jobb]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # roll — substantiv (en-ord)
 
 📖 中文：角色/职责/作用 · English: role/part
+
+🇸🇪 Förklaring: 1) person som en skådespelare spelar i en film eller en pjäs; 2) uppgift eller funktion som någon eller något har
+
 发音提示：[rɔlː] — 长 l 音
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[rollspel]] (角色扮演), [[huvudroll]] (主角), [[rollfigur]] (角色人物)
+- 同义词: [[uppgift]] (职责), [[funktion]] (作用), [[karaktär]] (角色)
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

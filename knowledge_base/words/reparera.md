@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "修理；维修"
 en: "to repair; to fix"
-synonyms: ["laga", "fixa"]
-antonyms: []
-family: ["reparation", "reparatör"]
+synonyms: [laga, fixa]
+antonyms: [förstöra, ha-sönder]
+family: [reparation, reparatör]
 topics: ["topic-hem-och-hushall"]
 sentences: ["sent-jag-onskar-att-ni-byter-ut"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # reparera — verb (grupp 1)
 
 📖 中文：修理；维修 · English: to repair; to fix
+
+🇸🇪 Förklaring: göra något helt och användbart igen när det har gått sönder
+
 发音提示：[rɛpaˈreːra] — "re-pa-RE-ra"
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 
 - 词族: [[reparation]] (维修/修缮), [[reparatör]] (维修工)
 - 同义词: [[laga]] (修/补，更口语), [[fixa]] (搞定，口语)
+- 反义词: [[förstöra]] (毁坏), [[ha-sönder|ha sönder]] (弄坏)
 - 主题: [[topic-hem-och-hushall]]
 
 ## 用法提示 (Usage Notes)

@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "暑期闭园的"
 en: "closed for the summer"
-synonyms: []
-antonyms: []
+synonyms: [semesterstängt]
+antonyms: [sommaröppet]
 family: [sommar, stängd, stänga]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-förskolan-har-sommarstängt-vecka-28-31]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sommarstängt — adjektiv
 
 📖 中文：暑期闭园的；夏季歇业的 · English: closed for the summer
+
+🇸🇪 Förklaring: som inte har öppet under några veckor på sommaren, t.ex. om en förskola eller en butik
+
 发音提示：[ˈsɔmːarˌstɛŋt]，sommar + stängt。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sommar]], [[stängd]], [[stänga]]
+- 同义词: [[semesterstängt]] (休假关闭)
+- 反义词: [[sommaröppet]] (夏季营业)
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

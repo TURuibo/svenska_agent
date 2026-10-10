@@ -9,7 +9,7 @@ zh: "信"
 en: "letter"
 synonyms: []
 antonyms: []
-family: []
+family: [brevlåda, brevbärare, kärleksbrev]
 topics: [topic-hemmet]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # brev — substantiv (ett)
 
 📖 中文：信 · English: letter
+
+🇸🇪 Förklaring: skrivet meddelande som man skickar i ett kuvert med posten
+
 发音提示：/breːv/；长 e 音。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[brevlåda]] (信箱), [[brevbärare]] (邮递员), [[kärleksbrev]] (情书)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]]

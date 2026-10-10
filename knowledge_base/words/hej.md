@@ -5,9 +5,9 @@ ordklass: interjektion
 cefr: A1
 zh: 你好；嗨
 en: hello, hi
-synonyms: []
+synonyms: [hallå, tjena]
 antonyms: [hejdå]
-family: []
+family: [hejsan]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # hej — interjektion (也可作名词 ett hej)
 
 📖 中文：你好、嗨 · English: hello, hi
+
+🇸🇪 Förklaring: används när man hälsar på någon, ibland också när man säger adjö
+
+发音提示：/hɛj/ — 单音节，e 读短音 ɛ，和 j 连读
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: hejdå
+- 词族: [[hejsan]] (嗨)
+- 同义词: [[hallå]] (喂；你好), [[tjena]] (嗨（口语）)
+- 反义词: [[hejdå]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

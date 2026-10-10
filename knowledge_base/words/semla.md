@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 奶油小圆面包（瑞典传统甜点）
 en: Swedish cream bun
-synonyms: []
+synonyms: [fettisdagsbulle]
 antonyms: []
-family: []
+family: [semmeldag]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # semla — substantiv (en)
 
 📖 中文：奶油小圆面包（瑞典传统甜点） · English: Swedish cream bun
+
+🇸🇪 Förklaring: söt vetebulle fylld med mandelmassa och vispgrädde som man äter före påsk
+
 发音提示：SEM-lah
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: fettisdagsbulle (fettisdag 版本的名称)
+- 词族: [[semmeldag]] (奶油包日)
+- 同义词: [[fettisdagsbulle]] (fettisdag 版本的名称)
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

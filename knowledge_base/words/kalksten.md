@@ -9,7 +9,7 @@ zh: "石灰石"
 en: "limestone"
 synonyms: []
 antonyms: []
-family: ["kalk", "sten"]
+family: [kalk, sten]
 topics: ["topic-geografi-natur"]
 sentences: ["sent-längs-med-ön-kan-man-se-raukar"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kalksten — substantiv (en)
 
 📖 中文：石灰石 · English: limestone
+
+🇸🇪 Förklaring: ljus och ganska mjuk bergart som har bildats av rester från djur i havet
+
 发音提示：[ˈkalkˌsteːn]
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kalk]], [[sten]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-geografi-natur]]
 
 ## 用法提示 (Usage Notes)

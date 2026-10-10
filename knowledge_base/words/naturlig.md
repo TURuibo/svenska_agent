@@ -6,7 +6,7 @@ genus: ""
 cefr: "A2"
 zh: "自然的；自然而然的；天然的"
 en: "natural"
-synonyms: []
+synonyms: [äkta, självklar]
 antonyms: [konstgjord, onaturlig]
 family: [natur, naturligtvis, naturresurs]
 topics: [topic-miljö-och-klimat]
@@ -23,6 +23,9 @@ interval: 0
 # naturlig — adjektiv
 
 📖 中文：自然的；自然而然的；天然的 · English: natural
+
+🇸🇪 Förklaring: som kommer från naturen och inte är gjord av människor; som är normal och inte konstig
+
 发音提示：na-TUR-lig（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[natur]], [[naturligtvis]], [[naturresurs]]
+- 同义词: [[äkta]] (真正的), [[självklar]] (理所当然的)
 - 反义词: [[konstgjord]], [[onaturlig]]
 - 主题: [[topic-miljö-och-klimat]]
 

@@ -7,12 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "拜访；参观"
 en: "to visit"
-synonyms:
-  - hälsa-på
+synonyms: [hälsa-på]
 antonyms: []
-family:
-  - besök
-  - besökare
+family: [besök, besökare]
 topics:
   - topic-social-kontakt
   - topic-fritid-och-resor
@@ -29,6 +26,9 @@ interval: 0
 # besöka — verb (grupp 2b)
 
 📖 中文：拜访；参观 · English: to visit
+
+🇸🇪 Förklaring: åka eller gå till en person eller en plats för att träffa någon eller titta på något
+
 发音提示：[bəˈsøːka] — 三音节，重音在第二音节
 
 ## 语法变形 (Forms)

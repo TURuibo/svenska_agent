@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vabruari — substantiv (en, 口语/幽默)
 
 📖 中文：“vab 二月”（vab + februari 的俏皮话，指二月孩子病得最多、家长请 vab 最多） · English: "Vabruary" (vab + februari)
+
+🇸🇪 Förklaring: skämtsamt namn på februari, då många barn är sjuka och föräldrarna stannar hemma från jobbet
+
 发音提示：/vabrʉˈɑːrɪ/ — 完全仿 *februari* 的读法，把 feb- 换成 vab-。
 
 ## 语法变形 (Forms)

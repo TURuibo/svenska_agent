@@ -6,11 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "女演员"
 en: "actress"
-synonyms: []
+synonyms: [aktris]
 antonyms: []
-family:
-  - skådespelare
-  - skådespeleri
+family: [skådespelare, skådespeleri]
 topics:
   - topic-film
   - topic-litteratur-och-kultur
@@ -27,6 +25,9 @@ interval: 0
 # skådespelerska — substantiv en
 
 📖 中文：女演员 · English: actress
+
+🇸🇪 Förklaring: kvinna som har en roll och låtsas vara någon annan i film, på teater eller i tv
+
 发音提示：/skO-de-SPEL-er-ska/
 
 ## 语法变形 (Forms)
@@ -50,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[skådespelare]]（演员，男性或通称）
+- 词族: [[skådespelare]]（演员，男性或通称）, [[skådespeleri]]
+- 同义词: [[aktris]] (女演员)
+- 反义词: —
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

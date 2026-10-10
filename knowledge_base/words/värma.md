@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "加热；使变暖"
 en: "to heat; to warm"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [hetta-upp]
+antonyms: [kall]
+family: [varm, värme, uppvärmning]
 topics:
   - topic-mat-dryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # värma — verb (grupp 2)
 
 📖 中文：加热；使变暖 · English: to heat; to warm
+
+🇸🇪 Förklaring: göra så att något får högre temperatur
+
 发音提示：VÄR-ma
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: varm（暖的，热的），värme（热量），uppvärmning（加热）
-- 同义词: hetta upp（加热至高温）
+- 词族: [[varm]]（暖的，热的）, [[värme]]（热量）, [[uppvärmning]]（加热）
+- 同义词: [[hetta-upp|hetta upp]]（加热至高温）
 - 反义词: kyla（冷却）→ [[kall]]
 - 主题: [[topic-mat-dryck]]
 

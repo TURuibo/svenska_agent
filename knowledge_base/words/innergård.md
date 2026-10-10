@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 内院、庭院
 en: courtyard, inner yard
-synonyms: []
+synonyms: [bakgård]
 antonyms: []
-family: ["gård"]
+family: [gård]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # innergård — substantiv (en)
 
 📖 中文：内院、庭院 · English: courtyard, inner yard
+
+🇸🇪 Förklaring: öppen yta mellan husen i ett kvarter som är omgiven av byggnader på alla sidor
+
 发音提示：IN-ner-gård
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gård]]
+- 同义词: [[bakgård]] (后院)
+- 反义词: —
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

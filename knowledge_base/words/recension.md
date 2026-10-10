@@ -6,12 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "评论；影评；书评"
 en: "review (of film, book, etc.)"
-synonyms:
-  - omdöme
+synonyms: [omdöme]
 antonyms: []
-family:
-  - recensera
-  - recensent
+family: [recensera, recensent]
 topics:
   - topic-litteratur-och-kultur
   - topic-film
@@ -28,6 +25,9 @@ interval: 0
 # recension — substantiv en
 
 📖 中文：评论；影评；书评 · English: review
+
+🇸🇪 Förklaring: text där någon bedömer och tycker till om en bok, en film eller en föreställning
+
 发音提示：/re-sen-SJON/
 
 ## 语法变形 (Forms)
@@ -53,5 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: recensera（动词：评论）· recensent（评论者）
+- 词族: [[recensera]]（动词：评论）· recensent（评论者）, [[recensent]]
+- 同义词: [[omdöme]]
+- 反义词: —
 - 主题: [[topic-film]] · [[topic-litteratur-och-kultur]]

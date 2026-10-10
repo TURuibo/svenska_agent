@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "门厅；走廊"
 en: "hallway; entrance hall"
-synonyms: []
+synonyms: [tambur, farstu]
 antonyms: []
-family: ["entré"]
+family: [entré]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hall — substantiv (en)
 
 📖 中文：门厅；走廊 · English: hallway; entrance hall
+
+🇸🇪 Förklaring: rum innanför ytterdörren där man tar av sig ytterkläder och skor; stort rum i en byggnad
+
 发音提示：/hal/；短 a 音，双写 ll。
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: entré (入口/门厅，更正式)
-- 同义词: —
+- 词族: [[entré]] (入口/门厅，更正式)
+- 同义词: [[tambur]] (门厅), [[farstu]] (前厅)
 - 反义词: —
 - 主题: [[topic-hemmet]]
 

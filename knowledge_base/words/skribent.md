@@ -8,7 +8,7 @@ zh: "撰稿人，写作者"
 en: "writer, columnist"
 synonyms: [journalist, författare]
 antonyms: []
-family: []
+family: [skriva, skrift]
 topics: []
 sentences: [sent-hennes-pappa-uppmuntrade-henne-att]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # skribent — substantiv
 
 📖 中文：撰稿人，写作者 · English: writer, columnist
-发音提示：
+
+🇸🇪 Förklaring: person som skriver texter, t.ex. artiklar och krönikor, för tidningar eller webben
+
+发音提示：/skrɪˈbɛnt/ — 重音在最后音节 -bent
 
 ## 语法变形 (Forms)
 
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[skriva]] (写), [[skrift]] (文字；著作)
 - 同义词: [[journalist]], [[författare]]
 - 反义词: —
 - 主题: —

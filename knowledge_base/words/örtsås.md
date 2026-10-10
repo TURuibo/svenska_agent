@@ -9,7 +9,7 @@ zh: "香草酱"
 en: "herb sauce"
 synonyms: []
 antonyms: []
-family: []
+family: [ört, sås, kryddört]
 topics: ["topic-mat-dryck"]
 sentences:
   - sent-kvällens-rätt-är-lammkotlett-med-örtsås
@@ -24,6 +24,9 @@ interval: 0
 # örtsås — substantiv (en)
 
 📖 中文：香草酱 · English: herb sauce
+
+🇸🇪 Förklaring: kall eller varm sås som smaksätts med kryddörter, till exempel persilja och dill
+
 发音提示：/ˈøːrtˌsoːs/
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[ört]] (香草), [[sås]] (酱汁), [[kryddört]] (香料植物)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

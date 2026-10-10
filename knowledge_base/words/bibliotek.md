@@ -8,7 +8,7 @@ zh: 图书馆
 en: library
 synonyms: []
 antonyms: []
-family: []
+family: [bibliotekarie, bibliotekskort, stadsbibliotek]
 topics: ["topic-stadsmiljo", "topic-skola-och-utbildning"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bibliotek — substantiv (ett)
 
 📖 中文：图书馆 · English: library
+
+🇸🇪 Förklaring: ställe där man kan låna böcker och läsa gratis
+
 发音提示：bib-lio-TEK
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[bibliotekarie]] (图书馆员), [[bibliotekskort]] (借书证), [[stadsbibliotek]] (市图书馆)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

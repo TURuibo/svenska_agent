@@ -7,7 +7,7 @@ genus: en
 cefr: B1
 zh: 不公正/不公平
 en: injustice, unfairness
-synonyms: []
+synonyms: [orätt, diskriminering]
 antonyms: [rättvisa]
 family: [rättvisa, rättvis, orättvis]
 topics: []
@@ -23,6 +23,9 @@ interval: 0
 # orättvisa — substantiv (en)
 
 📖 中文：不公正/不公平 · English: injustice, unfairness
+
+🇸🇪 Förklaring: det att människor inte behandlas lika och att någon får mindre än hen borde
+
 发音提示：o-RÄTT-vi-sa；前缀 `o-` 表示否定。
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rättvisa]] (en, 公正/正义), [[rättvis]] (adj, 公平的), [[orättvis]] (adj, 不公平的)
-- 同义词: —
+- 同义词: [[orätt]] (不公), [[diskriminering]] (歧视)
 - 反义词: [[rättvisa]] (en, 公正)
 - 主题: —
 

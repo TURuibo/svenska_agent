@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "节日, 节庆"
 en: "festival, holiday, high day"
-synonyms: ["helgdag"]
-antonyms: []
-family: []
+synonyms: [helgdag]
+antonyms: [vardag]
+family: [högtidlig, högtidsdag, högtidlighålla]
 topics: ["topic-midsommar-traditioner"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # högtid — substantiv (en)
 
 📖 中文：节日, 节庆 · English: festival, holiday, high day
+
+🇸🇪 Förklaring: viktig dag eller period då man firar något enligt gamla traditioner, till exempel jul eller påsk
+
 发音提示：hög-tid
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[högtidlig]] (庄重的), [[högtidsdag]] (节庆日), [[högtidlighålla]] (隆重纪念)
 - 同义词: [[helgdag]]
-- 反义词:
+- 反义词: [[vardag]] (平日)
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

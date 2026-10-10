@@ -9,7 +9,7 @@ zh: "麸质"
 en: "gluten"
 synonyms: []
 antonyms: []
-family: ["glutenfri"]
+family: [glutenfri]
 topics: ["topic-mat-dryck", "topic-hälsa"]
 sentences:
   - "sent-garna-har-ni-nagot-glutenfritt"
@@ -25,6 +25,9 @@ interval: 0
 # gluten — substantiv (ett)
 
 📖 中文：麸质 · English: gluten
+
+🇸🇪 Förklaring: ett slags protein i vete, råg och korn som vissa människor inte tål
+
 发音提示：/ˈɡluːtɛn/；拉丁语借词。
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[glutenfri]] (无麸质的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

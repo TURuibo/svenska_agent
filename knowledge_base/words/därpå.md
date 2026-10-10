@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: B1
 zh: 随后、之后
 en: thereafter, after that
-synonyms: []
-antonyms: []
-family: []
+synonyms: [efter-det, därefter]
+antonyms: [dessförinnan]
+family: [där, därefter, därför]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # därpå — adverb
 
 📖 中文：随后、之后 · English: thereafter, after that
+
+🇸🇪 Förklaring: strax efter något som just har nämnts
+
 发音提示：där-på；`ä` 在 r 前读开口的 /ɛː/，`på` 读 /poː/。
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: där + på（= `på det`）；同类：därefter（之后）, därför（所以；见 [[därför]]）
-- 同义词: `efter det`（见 [[efter-det]]）, därefter
-- 反义词: dessförinnan（在此之前）
+- 词族: [[där]] + på（= `på det`）, 同类：[[därefter]]（之后）, därför（所以；见 [[därför]]）
+- 同义词: `efter det`（见 [[efter-det]]）, [[därefter]]
+- 反义词: [[dessförinnan]]（在此之前）
 - 主题:
 
 ## 用法提示 (Usage Notes)

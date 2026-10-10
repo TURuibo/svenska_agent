@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 勇敢的
 en: brave, courageous
-synonyms: []
+synonyms: [tapper, djärv]
 antonyms: [feg]
-family: [mod, modighet]
+family: [mod, modighet, modigare]
 topics: [topic-karaktarsord]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # modig — adjektiv
 
 📖 中文：勇敢的 · English: brave, courageous
+
+🇸🇪 Förklaring: som vågar göra något farligt eller svårt trots att man är rädd
+
 发音提示：MO-dig；元音 `o` 长音。
 
 ## 语法变形 (Forms)

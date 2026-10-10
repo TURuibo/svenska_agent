@@ -8,7 +8,7 @@ zh: 询问；征求
 en: to ask (someone)
 synonyms: [fråga]
 antonyms: []
-family: []
+family: [förfrågan, frågeformulär]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # tillfråga — verb (grupp 1)
 
 📖 中文：询问；征求 · English: to ask (someone)
+
+🇸🇪 Förklaring: be någon om en åsikt eller om att vara med på något
+
 发音提示：/ˈtɪlfroːɡa/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: fråga
-- 反义词: 
+- 词族: [[förfrågan]] (询问), [[frågeformulär]] (问卷)
+- 同义词: [[fråga]]
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

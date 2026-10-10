@@ -6,8 +6,8 @@ cefr: A1
 zh: 第一，首次的
 en: first
 synonyms: []
-antonyms: sista
-family: först
+antonyms: [sista]
+family: [först]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # första — ordningstal
 
 📖 中文：第一，首次的 · English: first
+
+🇸🇪 Förklaring: som kommer före alla andra i ordning, nummer ett
+
 发音提示：/ˈfœʂta/
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[först]]
-- 同义词:
+- 同义词: —
 - 反义词: [[sista]]
 - 主题:
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: 争吵，斗嘴（口语）
 en: to bicker, to quarrel (informal)
-synonyms: ["bråka"]
-antonyms: []
-family: []
+synonyms: [bråka]
+antonyms: [komma-överens]
+family: [tjafs]
 topics: ["topic-familj-och-barn"]
 sentences:
   - sent-jag-och-storasyrran-borjade-tjafsa
@@ -24,6 +24,9 @@ interval: 0
 # tjafsa — verb (grupp 1)
 
 📖 中文：争吵，斗嘴（口语） · English: to bicker, to quarrel (informal)
+
+🇸🇪 Förklaring: bråka eller diskutera om små saker på ett onödigt sätt (vardagligt)
+
 发音提示：CHAF-sa
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[tjafs]] (争吵；废话)
 - 同义词: [[bråka]]
+- 反义词: [[komma-överens|komma överens]] (和睦相处)
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

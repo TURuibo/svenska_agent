@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "女人"
 en: "woman"
-synonyms: ["dam"]
-antonyms: ["man"]
-family: []
+synonyms: [dam]
+antonyms: [man]
+family: [kvinnlig, kvinnfolk, kvinnorörelse, affärskvinna]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kvinna — substantiv (en)
 
 📖 中文：女人 · English: woman
+
+🇸🇪 Förklaring: vuxen människa av honkön
+
 发音提示：/ˈkvɪna/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kvinnlig]] (女性的), [[kvinnfolk]] (女人们), [[kvinnorörelse]] (妇女运动), [[affärskvinna]] (女商人)
 - 同义词: [[dam]]
 - 反义词: [[man]]
 - 主题: [[topic-personer]]

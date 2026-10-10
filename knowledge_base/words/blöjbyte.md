@@ -19,6 +19,9 @@ created: "2026-09-26"
 # blöjbyte — substantiv (ett)
 
 📖 中文：换尿布 · English: diaper change
+
+🇸🇪 Förklaring: det att man tar av en smutsig blöja och sätter på en ren
+
 发音提示：/ˈbløːjˌbyːtɛ/ — blöj + byte，ö 和 y 都是长元音。
 
 ## 语法变形 (Forms)

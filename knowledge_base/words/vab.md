@@ -9,7 +9,7 @@ zh: "照顾病孩假（vård av barn）"
 en: "leave to care for a sick child"
 synonyms: []
 antonyms: []
-family: [vabba, vabruari]
+family: [vabba, vabruari, vård-av-barn]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: [sent-okej-då-blir-det-vab]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vab — substantiv
 
 📖 中文：照顾病孩假（vård av barn） · English: leave to care for a sick child
+
+🇸🇪 Förklaring: ledighet från jobbet för att ta hand om ett sjukt barn, med ersättning från Försäkringskassan
+
 发音提示：VAB，读作一个词 /vɑːb/，不拼字母。
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vabba]], [[vabruari]], [[vård-av-barn]]
-- 同义词: 
-- 反义词: 
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

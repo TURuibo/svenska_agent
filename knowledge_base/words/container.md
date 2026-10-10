@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "废料集装箱；大型废弃物容器"
 en: "dumpster; skip; waste container"
-synonyms: []
+synonyms: [behållare]
 antonyms: []
-family: []
+family: [containerfartyg, sopcontainer]
 topics: ["topic-hemmet", "topic-källsortering"]
 sentences:
   - sent-fran-mandag-den-7-juli-till-fredag
@@ -25,6 +25,9 @@ interval: 0
 # container — substantiv (en)
 
 📖 中文：废料集装箱；大型废弃物容器 · English: dumpster; skip; waste container
+
+🇸🇪 Förklaring: stor behållare av metall där man lägger skräp och avfall, till exempel vid ett bygge
+
 发音提示：[kɔnˈteɪnər]，借自英语，基本保留英语发音
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[containerfartyg]] (集装箱船), [[sopcontainer]] (垃圾箱)
+- 同义词: [[behållare]] (容器)
+- 反义词: —
 - 主题: [[topic-hemmet]] · [[topic-källsortering]]
 
 ## 用法提示 (Usage Notes)

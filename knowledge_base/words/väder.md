@@ -8,7 +8,7 @@ zh: "天气"
 en: "weather"
 synonyms: []
 antonyms: []
-family: ["väderlek"]
+family: [väderlek]
 topics: ["topic-vader-och-arstider"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # väder — substantiv (ett)
 
 📖 中文：天气 · English: weather
+
+🇸🇪 Förklaring: hur det är ute med sol, regn, vind och temperatur
+
 发音提示：[ˈvɛːdər]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: väderlek (天气状况)
+- 词族: [[väderlek]] (天气状况)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

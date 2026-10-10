@@ -9,7 +9,7 @@ zh: "狐狸"
 en: "fox"
 synonyms: []
 antonyms: []
-family: []
+family: [rävunge, rävlya]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # räv — substantiv (en)
 
 📖 中文：狐狸 · English: fox
+
+🇸🇪 Förklaring: vilt djur med röd päls, spetsiga öron och lång yvig svans
+
 发音提示：/rɛːv/
 
 ## 语法变形 (Forms)

@@ -7,9 +7,9 @@ genus: ett
 cefr: A1
 zh: 语言
 en: language
-synonyms: []
+synonyms: [tungomål]
 antonyms: []
-family: [språkutveckling, modersmål]
+family: [språkutveckling, modersmål, tvåspråkig]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 sentences: [sent-när-vi-sjunger-och-målar-tränar]
 known: false
@@ -19,6 +19,9 @@ created: 2026-09-26
 # språk — substantiv (ett)
 
 📖 中文：语言 · English: language
+
+🇸🇪 Förklaring: system av ord och regler som människor använder för att tala och skriva med varandra
+
 发音提示：/sproːk/ — å 读长 [oː]。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: 2026-09-26
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[språkutveckling]], [[modersmål]], [[tvåspråkig]]
+- 同义词: [[tungomål]] (语言（书面）)
+- 反义词: —
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

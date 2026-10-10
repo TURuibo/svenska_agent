@@ -7,8 +7,8 @@ cefr: "A2"
 zh: "仲夏节"
 en: "Midsummer"
 synonyms: []
-antonyms: []
-family: ["midsommarafton", "midsommarstång"]
+antonyms: [midvinter]
+family: [midsommarafton, midsommarstång]
 topics: ["topic-midsommar-traditioner"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # midsommar — substantiv (en)
 
 📖 中文：仲夏节 · English: Midsummer
+
+🇸🇪 Förklaring: svensk högtid i slutet av juni då man firar sommaren med dans, blommor och god mat
+
 发音提示：mid-som-mar
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[midsommarafton]], [[midsommarstång]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: [[midvinter]] (仲冬)
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

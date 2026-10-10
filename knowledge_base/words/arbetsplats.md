@@ -6,7 +6,7 @@ genus: "en"
 cefr: A2
 zh: 工作场所；单位
 en: workplace
-synonyms: []
+synonyms: [arbetsställe]
 antonyms: []
 family: [arbeta]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # arbetsplats — substantiv (en)
 
 📖 中文：工作场所 · English: workplace
+
+🇸🇪 Förklaring: ställe där man har sitt jobb
+
 发音提示：/ˈarbeːtsˌplats/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[arbeta]]
-- 同义词:
-- 反义词:
+- 同义词: [[arbetsställe]] (工作场所)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

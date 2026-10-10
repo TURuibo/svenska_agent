@@ -8,7 +8,7 @@ zh: "利率；利息"
 en: "interest rate; interest"
 synonyms: []
 antonyms: []
-family: []
+family: [räntehöjning, räntesänkning, räntekostnad]
 topics:
   - "[[topic-samhälle-och-politik]]"
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # ränta — substantiv (en)
 
 📖 中文：利率；利息 · English: interest rate; interest
+
+🇸🇪 Förklaring: pengar som man betalar för ett lån eller får för pengar på banken, räknat i procent
+
 发音提示：["rɛnta]
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: räntehöjning（加息）、räntesänkning（降息）、räntekostnad（利息成本）
+- 词族: [[räntehöjning]]（加息）, [[räntesänkning]]（降息）, [[räntekostnad]]（利息成本）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]

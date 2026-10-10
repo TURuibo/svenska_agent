@@ -7,7 +7,7 @@ genus: ett
 cefr: A1
 zh: 工作/活儿（口语）
 en: job, work (colloquial)
-synonyms: []
+synonyms: [arbete]
 antonyms: []
 family: [jobba, arbeta, arbete]
 topics: [topic-arbete]
@@ -23,6 +23,9 @@ interval: 0
 # jobb — substantiv (ett)
 
 📖 中文：工作/活儿（口语） · English: job, work (colloquial)
+
+🇸🇪 Förklaring: det arbete som man gör och får lön för; uppgift som kräver arbete
+
 发音提示：JOBB；双写 `bb`，元音 `o` 短促。
 
 ## 语法变形 (Forms)

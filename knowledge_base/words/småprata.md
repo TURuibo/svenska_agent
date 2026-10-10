@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "闲聊"
 en: "make small talk"
-synonyms: ["prata"]
+synonyms: [prata]
 antonyms: []
-family: ["prata"]
+family: [prata]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # småprata — verb
 
 📖 中文：闲聊 · English: make small talk
+
+🇸🇪 Förklaring: samtala lätt och trevligt om vardagliga saker, t.ex. vädret
+
+发音提示：/ˈsmoːˌprɑːta/ — å 读 oː；主重音在 små
 
 ## 语法变形 (Forms)
 
@@ -43,7 +47,7 @@ interval: 0
 
 - 词族: [[prata]]
 - 同义词: [[prata]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

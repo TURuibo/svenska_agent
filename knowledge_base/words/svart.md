@@ -9,7 +9,7 @@ zh: "黑色的"
 en: "black"
 synonyms: []
 antonyms: [vit]
-family: []
+family: [svärta]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # svart — adjektiv
 
 📖 中文：黑色的 · English: black
+
+🇸🇪 Förklaring: som har samma mörka färg som natten eller kol
+
 发音提示：/svɑːrt/
 
 ## 语法变形 (Forms)

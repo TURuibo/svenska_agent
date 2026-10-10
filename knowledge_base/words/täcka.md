@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "覆盖；盖住"
 en: "to cover"
-synonyms: []
-antonyms: ["avslöja"]
-family: ["täcke", "täckning", "täckt"]
+synonyms: [dölja, skyla]
+antonyms: [avslöja]
+family: [täcke, täckning, täckt]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-snon-faller-tyst-och-tacker-marken
@@ -24,6 +24,9 @@ interval: 0
 # täcka — verb (grupp 2a)
 
 📖 中文：覆盖；盖住 · English: to cover
+
+🇸🇪 Förklaring: lägga något över något annat så att det inte syns eller så att det skyddas
+
 发音提示：/ˈtɛka/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: täcke（被子，名词），täckning（覆盖，名词）
+- 词族: [[täcke]]（被子，名词）, [[täckning]]（覆盖，名词）, [[täckt]]
+- 同义词: [[dölja]] (遮掩), [[skyla]] (遮盖)
+- 反义词: [[avslöja]]
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

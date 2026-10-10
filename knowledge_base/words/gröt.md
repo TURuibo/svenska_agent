@@ -9,7 +9,7 @@ zh: "粥；麦片粥"
 en: "porridge; oatmeal"
 synonyms: []
 antonyms: []
-family: []
+family: [havregrynsgröt, risgrynsgröt]
 topics:
   - topic-mat-dryck
   - topic-vardagsrutin
@@ -26,6 +26,9 @@ interval: 0
 # gröt — substantiv (en)
 
 📖 中文：粥；麦片粥 · English: porridge; oatmeal
+
+🇸🇪 Förklaring: varm och tjock maträtt av gryn eller flingor som kokas i vatten eller mjölk
+
 发音提示：GRØØT；单音节，长元音。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[havregrynsgröt]] (燕麦粥), [[risgrynsgröt]] (米粥)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]], [[topic-vardagsrutin]]

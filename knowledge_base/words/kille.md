@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "小伙子、男孩"
 en: "guy"
-synonyms: ["pojke"]
-antonyms: ["tjej"]
-family: []
+synonyms: [pojke]
+antonyms: [tjej]
+family: [killkompis, killgäng]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kille — substantiv (en)
 
 📖 中文：小伙子、男孩 · English: guy
+
+🇸🇪 Förklaring: vardagligt ord för en pojke eller en ung man
+
 发音提示：/ˈɕɪlə/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[killkompis]] (男性朋友), [[killgäng]] (男生群体)
 - 同义词: [[pojke]]
 - 反义词: [[tjej]]
 - 主题: [[topic-personer]]

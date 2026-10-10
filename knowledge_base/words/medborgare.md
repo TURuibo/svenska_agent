@@ -9,7 +9,7 @@ zh: "公民"
 en: "citizen"
 synonyms: [invånare]
 antonyms: [utlänning]
-family: [medborgarskap]
+family: [medborgarskap, medborgarlighet]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-manga-kommuner-valkomnar-sina-nya, sent-man-måste-vara-18-år-svensk-medborgare]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # medborgare — substantiv (en)
 
 📖 中文：公民 · English: citizen
+
+🇸🇪 Förklaring: person som tillhör ett land och har rättigheter och skyldigheter där, till exempel att rösta
+
 发音提示：MED-bor-ga-re，四音节，重音第一音节。
 
 ## 语法变形 (Forms)

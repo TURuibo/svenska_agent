@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "短缺, 缺乏"
 en: "shortage, lack"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [underskott, avsaknad]
+antonyms: [överflöd, överskott]
+family: [brista, bristfällig, personalbrist]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # brist — substantiv (en)
 
 📖 中文：短缺, 缺乏 · English: shortage, lack
+
+🇸🇪 Förklaring: det att det inte finns tillräckligt av något
+
 发音提示：brist（单音节）
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[brista]] (破裂), [[bristfällig]] (有缺陷的), [[personalbrist]] (人员短缺)
+- 同义词: [[underskott]] (短缺), [[avsaknad]] (缺乏)
+- 反义词: [[överflöd]] (过剩), [[överskott]] (剩余)
 - 主题:
 
 ## 用法提示 (Usage Notes)

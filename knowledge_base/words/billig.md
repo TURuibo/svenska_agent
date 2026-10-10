@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "便宜的"
 en: "cheap; inexpensive"
-synonyms: []
-antonyms: ["dyr"]
-family: []
+synonyms: [förmånlig]
+antonyms: [dyr]
+family: [billiga]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # billig — adjektiv
 
 📖 中文：便宜的 · English: cheap; inexpensive
+
+🇸🇪 Förklaring: som inte kostar mycket pengar
+
 发音提示：/ˈbɪlɪɡ/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: billiga (verb: to cheapen, rare)
-- 同义词: förmånlig (合算的)
+- 词族: [[billiga]] (verb: to cheapen, rare)
+- 同义词: [[förmånlig]] (合算的)
 - 反义词: [[dyr]]
 - 主题: [[topic-karaktarsord]]
 

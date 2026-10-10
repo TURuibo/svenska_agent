@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 否则；其他方面
 en: otherwise; apart from that
-synonyms: []
+synonyms: [i-övrigt, för-övrigt]
 antonyms: []
-family: []
+family: [annan, annorlunda]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # annars — adverb
 
 📖 中文：否则；其他方面 · English: otherwise; apart from that
+
+🇸🇪 Förklaring: i annat fall, om det inte är så; bortsett från det som just har sagts
+
 发音提示：AN-nars
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: i övrigt (此外), för övrigt (其他方面)
+- 词族: [[annan]] (另一个), [[annorlunda]] (不同的)
+- 同义词: [[i-övrigt|i övrigt]] (此外), [[för-övrigt|för övrigt]] (其他方面)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

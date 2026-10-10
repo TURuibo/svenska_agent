@@ -9,7 +9,7 @@ zh: 兄弟姐妹
 en: siblings
 synonyms: []
 antonyms: []
-family: [bror, syster]
+family: [bror, syster, syskonkärlek]
 topics: [topic-familj-och-barn]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # syskon — substantiv (ett)
 
 📖 中文：兄弟姐妹 · English: siblings
+
+🇸🇪 Förklaring: bror eller syster; barn som har samma föräldrar
+
 发音提示：SYS-kon；元音 `y` 长音（嘴形圆，类似"啊"但嘴唇更圆）。
 
 ## 语法变形 (Forms)

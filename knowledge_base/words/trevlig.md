@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "令人愉快的；可爱的"
 en: "nice; pleasant; lovely"
-synonyms: [trevlig, trevlig, mysig, njutbar]
+synonyms: [mysig, njutbar]
 antonyms: [tråkig, otrevlig]
 family: [trevlighet, trevligtvis]
 topics: []
@@ -24,6 +24,9 @@ interval: 0
 # trevlig — adjektiv
 
 📖 中文：令人愉快的；可爱的 · English: nice; pleasant; lovely
+
+🇸🇪 Förklaring: som är vänlig och gör att man känner sig glad och avslappnad
+
 发音提示：TREV-lig；två stavelser.
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[trevlighet]] (愉快；令人舒心的事)
-- 同义词: [[mysig]] (温馨的，更口语), [[trevlig]] — se [[tråkig]] för antonym
+- 词族: [[trevlighet]] (愉快；令人舒心的事), [[trevligtvis]]
+- 同义词: [[mysig]] (温馨的，更口语), [[njutbar]]
 - 反义词: [[tråkig]] (无聊的), [[otrevlig]] (不友好的)
 - 主题: —
 

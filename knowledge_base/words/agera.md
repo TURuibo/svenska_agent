@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 采取行动；行事
 en: to act
-synonyms: []
-antonyms: []
-family: []
+synonyms: [handla]
+antonyms: [avvakta]
+family: [agerande, reagera]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # agera — verb (grupp 1)
 
 📖 中文：采取行动；行事 · English: to act
+
+🇸🇪 Förklaring: göra något aktivt för att lösa eller påverka en situation
+
 发音提示：/aɡeˈraː/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[agerande]] (行为；举动), [[reagera]] (反应)
+- 同义词: [[handla]] (行动；行事)
+- 反义词: [[avvakta]] (观望等待)
 - 主题:
 
 ## 用法提示 (Usage Notes)

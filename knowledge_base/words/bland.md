@@ -5,9 +5,9 @@ ordklass: preposition
 cefr: A2
 zh: 在……之中；在……当中
 en: among
-synonyms: []
+synonyms: [mellan]
 antonyms: []
-family: []
+family: [blanda, blandning]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # bland — preposition
 
 📖 中文：在……之中 · English: among
+
+🇸🇪 Förklaring: i en grupp av flera personer eller saker, som en del av dem
+
 发音提示：/blan(d)/
 
 ## 语法变形 (Forms)
@@ -38,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[blanda]] (混合), [[blandning]] (混合物)
+- 同义词: [[mellan]] (在…之间)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

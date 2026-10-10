@@ -8,8 +8,8 @@ cefr: "B1"
 zh: "做出（决定）；（口语）明白、理解"
 en: "to make (a decision); to grasp, to get it (colloquial)"
 synonyms: [besluta, förstå]
-antonyms: []
-family: []
+antonyms: [missförstå]
+family: [beslut, besluta]
 topics: [topic-allmänna-verb]
 sentences: [sent-i-måndags-fattade-kommunfullmäktige-beslutet]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # fatta — verb (grupp 1)
 
 📖 中文：做出（决定）；（口语）明白、理解 · English: to make (a decision); to grasp, to get it (colloquial)
+
+🇸🇪 Förklaring: 1) bestämma sig, om beslut; 2) vardagligt: begripa något
+
 发音提示：FAT-ta，`a` 短。
 
 ## 语法变形 (Forms)
@@ -58,9 +61,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[beslut]]（决定，常与 fatta 搭配）、[[besluta]]（决定，动词）
-- 同义词: 义项1 [[besluta]]（更中性、更常用）；义项2 [[förstå]]（标准语）
-- 反义词: —
+- 词族: [[beslut]]（决定，常与 fatta 搭配）, [[besluta]]（决定，动词）
+- 同义词: 义项1 [[besluta]]（更中性、更常用）, 义项2 [[förstå]]（标准语）
+- 反义词: [[missförstå]] (误解)
 - 主题: [[topic-allmänna-verb]]
 
 ## 用法提示 (Usage Notes)

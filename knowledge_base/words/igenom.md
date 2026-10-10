@@ -18,6 +18,10 @@ created: "2026-10-01"
 
 📖 中文：穿过、通过 · English: through
 
+🇸🇪 Förklaring: från ena sidan av något till den andra
+
+发音提示：/ɪˈjeːnɔm/ — g 在 e 前读 j；重音在 gen
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -39,8 +43,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[genom]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

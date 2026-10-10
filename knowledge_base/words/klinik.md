@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 诊所，医疗机构
 en: clinic
-synonyms: []
+synonyms: [mottagning, vårdcentral]
 antonyms: []
 family: [klinisk]
 topics: [topic-hälsa, topic-vård]
@@ -22,6 +22,9 @@ interval: 0
 # klinik — substantiv (en)
 
 📖 中文：诊所，医疗机构 · English: clinic
+
+🇸🇪 Förklaring: ställe där läkare tar emot och behandlar patienter, ofta inom ett visst område
+
 发音提示：[klɪˈniːk]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klinisk]]
+- 同义词: [[mottagning]] (门诊), [[vårdcentral]] (医疗中心)
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-vård]]
 
 ## 用法提示 (Usage Notes)

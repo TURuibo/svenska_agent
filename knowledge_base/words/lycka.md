@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: "幸福；快乐；好运"
 en: "happiness, luck"
-synonyms: []
-antonyms: []
-family: [lycklig]
+synonyms: [glädje, tur]
+antonyms: [olycka]
+family: [lycklig, lyckas, lyckad]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # lycka — substantiv (en)
 
 📖 中文：幸福；快乐；好运 · English: happiness, luck
+
+🇸🇪 Förklaring: 1) känsla av stor glädje och tillfredsställelse; 2) tur, att saker går bra
+
 发音提示：/ˈlɵkːa/（y 读 ɵ 音，ck = 短 k）
 
 ## 语法变形 (Forms)
@@ -53,9 +56,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lycklig]]（幸福的）, lyckas（成功，动词）, lyckad（成功的）
-- 同义词:
-- 反义词: olycka（不幸 / 事故）
+- 词族: [[lycklig]]（幸福的）, [[lyckas]]（成功，动词）, [[lyckad]]（成功的）
+- 同义词: [[glädje]] (快乐), [[tur]] (运气)
+- 反义词: [[olycka]]（不幸 / 事故）
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -6,7 +6,7 @@ genus: ett
 cefr: B1
 zh: "叶绿素"
 en: "chlorophyll"
-synonyms: []
+synonyms: [bladgrönt]
 antonyms: []
 family: []
 topics: ["topic-natur-skog"]
@@ -18,6 +18,10 @@ created: 2026-10-06
 # klorofyll — substantiv
 
 📖 中文：叶绿素 · English: chlorophyll
+
+🇸🇪 Förklaring: grönt ämne i växternas blad som behövs för att de ska kunna använda solljus
+
+发音提示：/klɔrʊˈfʏlː/ — 重音在最后 fyll；y 读短音
 
 ## 语法变形 (Forms)
 
@@ -34,6 +38,9 @@ created: 2026-10-06
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: [[bladgrönt]] (叶绿素)
+- 反义词: —
 - 相关: [[fotosyntes]] · [[löv]] · [[grön]]
 - 来源: [[source-2026-10-06-loven-byter-farg]]
 

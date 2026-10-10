@@ -7,10 +7,9 @@ genus: ""
 cefr: A2
 zh: "破坏/毁坏"
 en: "to destroy, to ruin"
-synonyms: []
-antonyms: []
-family:
-  - "[[störa]]"
+synonyms: [fördärva, förinta, ödelägga]
+antonyms: [bygga-upp, laga]
+family: [störa, för-]
 topics:
   - "[[topic-allemansratten]]"
   - "[[topic-miljö-och-klimat]]"
@@ -27,6 +26,9 @@ interval: 0
 # förstöra — verb
 
 📖 中文：破坏/毁坏 · English: to destroy, to ruin
+
+🇸🇪 Förklaring: göra så att något går sönder eller inte går att använda längre
+
 发音提示：/fœrˈstøːrɑ/；重音在第二音节 -stö-；ö 发 [øː]
 
 ## 语法变形 (Forms)
@@ -56,9 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[störa]]（打扰）；前缀 **för-** 在此表强化
-- 同义词: —
-- 反义词: —
+- 词族: [[störa]]（打扰）, 前缀 [[för-]] 在此表强化
+- 同义词: [[fördärva]] (毁坏), [[förinta]] (毁灭), [[ödelägga]] (摧毁)
+- 反义词: [[bygga-upp|bygga upp]] (建立), [[laga]] (修理)
 - 主题: [[topic-allemansratten]]、[[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

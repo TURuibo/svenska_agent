@@ -8,7 +8,7 @@ zh: 频道；运河
 en: channel
 synonyms: []
 antonyms: []
-family: []
+family: [tv-kanal, kanalisera]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # kanal — substantiv (en-ord)
 
 📖 中文：（电视/电台）频道；运河 · English: channel; canal
+
+🇸🇪 Förklaring: tv- eller radiostation som sänder program; grävd vattenväg som båtar kan åka på
+
+发音提示：/kaˈnɑːl/ — 重音在 nal，a 读长音 ɑː
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[tv-kanal]] (电视频道), [[kanalisera]] (引导；疏导)
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

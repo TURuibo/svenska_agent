@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "实用的、好用的"
 en: "usable, handy"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [praktisk]
+antonyms: [oanvändbar]
+family: [använda, användning]
 topics: ["topic-karaktarsord"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # användbar — adjektiv
 
 📖 中文：实用的、好用的 · English: usable, handy
+
+🇸🇪 Förklaring: som man kan ha nytta av, som fungerar bra för ett visst syfte
+
 发音提示：an-VÄND-bar
 
 ## 语法变形 (Forms)

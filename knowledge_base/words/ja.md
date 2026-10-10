@@ -5,9 +5,9 @@ ordklass: interjektion
 cefr: A1
 zh: 是；好的
 en: yes
-synonyms: []
+synonyms: [japp, absolut]
 antonyms: [nej]
-family: []
+family: [jaha, jaså, jo]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # ja — interjektion
 
 📖 中文：是、对（回答肯定） · English: yes
+
+🇸🇪 Förklaring: används för att svara att något stämmer eller att man går med på något
+
+发音提示：/jɑː/ — a 读长音 ɑː
 
 ## 语法变形 (Forms)
 
@@ -38,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: nej
+- 词族: [[jaha]] (哦，原来), [[jaså]] (是吗), [[jo]] (是的（反驳否定）)
+- 同义词: [[japp]] (对（口语）), [[absolut]] (当然)
+- 反义词: [[nej]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

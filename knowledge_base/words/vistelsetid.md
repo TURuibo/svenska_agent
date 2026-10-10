@@ -9,7 +9,7 @@ zh: "在园时间"
 en: "attendance time (hours at preschool)"
 synonyms: []
 antonyms: []
-family: []
+family: [vistas, vistelse]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-vistelsetiden-är-er-arbetstid-plus-restid]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vistelsetid — substantiv (en)
 
 📖 中文：在园时间 · English: attendance time (hours the child spends at preschool)
+
+🇸🇪 Förklaring: hur många timmar per dag eller vecka ett barn är på förskolan
+
 发音提示：[ˈvɪstɛlsɛˌtiːd]，vistelse（停留）+ tid。
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vistas（停留）, vistelse
+- 词族: [[vistas]]（停留）, [[vistelse]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

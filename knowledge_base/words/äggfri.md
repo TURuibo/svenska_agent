@@ -19,6 +19,9 @@ created: "2026-09-26"
 # äggfri — adjektiv
 
 📖 中文：不含蛋的 · English: egg-free
+
+🇸🇪 Förklaring: som inte innehåller några ägg
+
 发音提示：/ˈɛɡːˌfriː/ — 重音在 **ägg**，fri 是长 i。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ägg]] · [[fri]] · [[glutenfri]]
+- 词族: [[ägg]] · [[fri]] · [[glutenfri]], [[fri]] (自由的), [[glutenfri]] (无麸质的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-småbarn-mat-och-sömn]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

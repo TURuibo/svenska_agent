@@ -9,7 +9,7 @@ zh: "大象"
 en: "elephant"
 synonyms: []
 antonyms: []
-family: []
+family: [elefantsnabel, elfenben]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # elefant — substantiv (en)
 
 📖 中文：大象 · English: elephant
+
+🇸🇪 Förklaring: mycket stort grått djur med lång snabel och stora öron som lever i Afrika och Asien
+
 发音提示：/ˌɛlɛˈfant/
 
 ## 语法变形 (Forms)

@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "家长参与式的"
 en: "parent-active (settling-in with a parent present)"
 synonyms: []
-antonyms: []
+antonyms: [traditionell-inskolning]
 family: [förälder]
 topics: [topic-förskola-vardag]
 sentences: [sent-inskolningen-är-föräldraaktiv-en]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # föräldraaktiv — adjektiv
 
 📖 中文：家长参与式的 · English: parent-active (settling-in with a parent present)
+
+🇸🇪 Förklaring: om inskolning: som innebär att en vuxen från familjen är med barnet hela dagarna under de första dagarna på förskolan
+
 发音提示：[fœˈrɛldraˌaktiːv]，föräldra-（复合形式）+ aktiv。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-26"
 
 - 词族: [[förälder]] · aktiv
 - 同义词: —
-- 反义词: traditionell inskolning（传统渐进式：家长逐日减少陪伴）
+- 反义词: [[traditionell-inskolning|traditionell inskolning]]（传统渐进式：家长逐日减少陪伴）
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

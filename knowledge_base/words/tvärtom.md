@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "相反，恰恰相反"
 en: "the other way around, on the contrary"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [istället, däremot]
+antonyms: [på-samma-sätt]
+family: [tvärt]
 topics: []
 sentences: ["sent-pa-sommaren-ar-det-tvartom"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tvärtom — adverb
 
 📖 中文：相反，恰恰相反 · English: the other way around, on the contrary
+
+🇸🇪 Förklaring: på motsatt sätt; precis det motsatta mot vad man har sagt
+
 发音提示：['tværtum]，重音在 tvärt-
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tvärt（急转，突然）+ om（around）
-- 同义词: istället（相反地），däremot（相比之下）
-- 反义词: —
+- 词族: [[tvärt]]（急转，突然）+ om（around）
+- 同义词: [[istället]]（相反地）, [[däremot]]（相比之下）
+- 反义词: [[på-samma-sätt|på samma sätt]] (同样地)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

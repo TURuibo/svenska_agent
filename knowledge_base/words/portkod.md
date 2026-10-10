@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "楼门密码"
 en: "door entry code"
-synonyms: []
+synonyms: [dörrkod]
 antonyms: []
 family: [port, kod]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # portkod — substantiv (en)
 
 📖 中文：楼门密码（公寓楼大门的门禁码） · English: door entry code
+
+🇸🇪 Förklaring: sifferkod som man slår in för att öppna ytterdörren till ett flerfamiljshus
+
 发音提示：/ˈpɔʈˌkuːd/ — 重音在 **port**，kod 的 o 是长音 /uː/。复合词 port（大门）+ kod（密码）。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[port]] · [[kod]]
+- 词族: [[port]] · [[kod]], [[kod]]
+- 同义词: [[dörrkod]] (门禁密码)
+- 反义词: —
 - 主题: [[topic-föräldrasmåprat]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "窗帘"
 en: "curtain"
-synonyms: []
+synonyms: [draperi, förhänge]
 antonyms: []
-family: []
+family: [gardinstång, rullgardin]
 topics: ["topic-mobler", "topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gardin — substantiv (en)
 
 📖 中文：窗帘 · English: curtain
+
+🇸🇪 Förklaring: tyg som hänger framför ett fönster för att skydda mot ljus eller blickar
+
 发音提示：/ɡarˈdiːn/；重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[gardinstång]] (窗帘杆), [[rullgardin]] (卷帘)
+- 同义词: [[draperi]] (帷幔), [[förhänge]] (帘子)
 - 反义词: —
 - 主题: [[topic-mobler]], [[topic-hemmet]]
 

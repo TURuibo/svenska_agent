@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "野生的；野的"
 en: "wild"
-synonyms: []
+synonyms: [otämjd]
 antonyms: [tam]
-family: []
+family: [vildmark, vilddjur]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vild — adjektiv
 
 📖 中文：野生的；野的 · English: wild
+
+🇸🇪 Förklaring: som lever fritt i naturen och inte tas om hand av människor
+
 发音提示：/vɪld/
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vildmark]] (荒野), [[vilddjur]] (野生动物)
-- 同义词: —
+- 同义词: [[otämjd]] (未驯服的)
 - 反义词: [[tam]]
 - 主题: [[topic-djur]]
 

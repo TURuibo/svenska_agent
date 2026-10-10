@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: "比赛（赛跑/滑冰的一轮）；（时间的）进程"
 en: "race, heat; course (of time)"
-synonyms: ["tävling"]
+synonyms: [tävling]
 antonyms: []
-family: ["löpa", "springa"]
+family: [löpa, springa]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-06"
 # lopp — substantiv (ett)
 
 📖 中文：一场（赛跑/滑冰）比赛；进程 · English: race, heat; course
+
+🇸🇪 Förklaring: 1) tävling i löpning, skidåkning, skridsko eller liknande; 2) det sätt som tiden eller en händelse går framåt
+
 发音提示：/lɔp/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ created: "2026-10-06"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[löpa]], [[springa]] (跑)
 - 同义词: [[tävling]]（比赛，更宽泛）
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

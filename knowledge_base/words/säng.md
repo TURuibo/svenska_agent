@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "床"
 en: "bed"
-synonyms: []
+synonyms: [bädd]
 antonyms: []
-family: [sängkläder, sänggavel, nattduksbord]
+family: [sängkläder, nattduksbord, sänggavel]
 topics: [topic-mobler, topic-hemmet]
 sentences:
   - sent-mitt-rum-ar-litet-men-trevligt
@@ -30,6 +30,9 @@ interval: 0
 # säng — substantiv (en)
 
 📖 中文：床 · English: bed
+
+🇸🇪 Förklaring: möbel som man ligger och sover i
+
 发音提示：säng（单音节）；ä 为前元音。
 
 ## 语法变形 (Forms)
@@ -57,8 +60,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sängkläder]] (床上用品), [[nattduksbord]] (床头柜)
-- 同义词: —
+- 词族: [[sängkläder]] (床上用品), [[nattduksbord]] (床头柜), [[sänggavel]]
+- 同义词: [[bädd]] (床铺)
 - 反义词: —
 - 主题: [[topic-mobler]], [[topic-hemmet]]
 

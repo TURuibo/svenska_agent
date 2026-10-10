@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: A2
 zh: 应该；应当（情态动词）
 en: ought to, should
-synonyms: []
+synonyms: [ska]
 antonyms: []
-family: []
+family: [tillbörlig]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # böra — verb (hjälpverb, oregelbundet)
 
 📖 中文：应该 · English: ought to, should
+
+🇸🇪 Förklaring: används för att säga att något är rätt, klokt eller lämpligt att göra
+
 发音提示：/ˈbøːra/
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[tillbörlig]] (应有的；适当的)
 - 同义词: [[ska]]
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

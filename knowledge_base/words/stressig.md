@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "紧张的、有压力的"
 en: "stressful"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [nervös]
+antonyms: [lugn, avslappnad]
+family: [stress, stressa]
 topics: ["topic-karaktarsord", "topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # stressig — adjektiv
 
 📖 中文：紧张的、有压力的 · English: stressful
+
+🇸🇪 Förklaring: som gör att man känner press och har för lite tid
+
 发音提示：STRES-sig
 
 ## 语法变形 (Forms)

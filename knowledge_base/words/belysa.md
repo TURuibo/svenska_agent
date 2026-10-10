@@ -6,12 +6,9 @@ verbgrupp: "2a"
 cefr: "B1"
 zh: "阐明；揭示；照亮"
 en: "to illuminate; to highlight; to shed light on"
-synonyms:
-  - illustrera
-antonyms: []
-family:
-  - belysning
-  - ljus
+synonyms: [illustrera]
+antonyms: [dölja]
+family: [ljus, belysning]
 topics:
   - topic-litteratur-och-kultur
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # belysa — verb v.2a
 
 📖 中文：阐明；揭示；照亮 · English: to illuminate; to highlight; to shed light on
+
+🇸🇪 Förklaring: förklara eller visa något tydligt; lysa på något med ljus
+
 发音提示：/be-LY-sa/
 
 ## 语法变形 (Forms)
@@ -52,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: belysning（照明；阐明）· [[ljus]]
+- 词族: belysning（照明；阐明）· [[ljus]], [[belysning]]
+- 同义词: [[illustrera]]
+- 反义词: [[dölja]] (隐藏)
 - 主题: [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

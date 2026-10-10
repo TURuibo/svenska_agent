@@ -8,7 +8,7 @@ zh: 鹳
 en: stork
 synonyms: []
 antonyms: []
-family: []
+family: [storkbo]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # stork — substantiv (en)
 
 📖 中文：鹳 · English: stork
+
+🇸🇪 Förklaring: stor fågel med långa ben och lång röd näbb som bygger bo på tak
+
 发音提示：STORK（单音节）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[storkbo]] (鹳巢)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

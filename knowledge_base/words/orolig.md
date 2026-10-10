@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 担心的/焦虑的
 en: worried, anxious
-synonyms: []
+synonyms: [nervös, ängslig]
 antonyms: [lugn]
-family: [oro, oroa]
+family: [oro, oroa-sig, oroad, oroa]
 topics: [topic-karaktarsord, topic-vardagsrutin]
 sentences: [sent-de-var-oroliga-att-barn-som-laste-om-pippi, sent-plotsligt-kande-jag-mig-valdigt-orolig]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # orolig — adjektiv
 
 📖 中文：担心的/焦虑的 · English: worried, anxious
+
+🇸🇪 Förklaring: som känner sig rädd för att något dåligt ska hända
+
 发音提示：o-RO-lig；重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[oro]] (en, 担忧/焦虑), [[oroa sig]] (v. 担心，反身), [[oroad]] (adj, 感到担忧的)
+- 词族: [[oro]] (en, 担忧/焦虑), [[oroa-sig|oroa sig]] (v. 担心，反身), [[oroad]] (adj, 感到担忧的), [[oroa]]
 - 同义词: [[nervös]] (adj, 紧张的), [[ängslig]] (adj, 焦虑的)
 - 反义词: [[lugn]] (adj, 平静的/冷静的)
 - 主题: [[topic-karaktarsord]]

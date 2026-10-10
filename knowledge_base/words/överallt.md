@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "到处"
 en: "everywhere"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [på-alla-ställen, allestädes]
+antonyms: [ingenstans]
+family: [över, all]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # överallt — adverb
 
 📖 中文：到处 · English: everywhere
+
+🇸🇪 Förklaring: på varje plats som finns eller som man kan tänka sig
+
 发音提示：/øːverˈalːt/ — 重音在 -allt
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[över]] (在…之上), [[all]] (所有)
+- 同义词: [[på-alla-ställen|på alla ställen]] (到处), [[allestädes]] (处处（书面）)
+- 反义词: [[ingenstans]] (无处)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

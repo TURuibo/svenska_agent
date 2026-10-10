@@ -7,8 +7,8 @@ cefr: "A2"
 zh: "英雄"
 en: "hero"
 synonyms: []
-antonyms: ["skurk"]
-family: ["hjältinna", "hjältemod", "hjältemodigt"]
+antonyms: [skurk]
+family: [hjältinna, hjältemod, hjältemodigt]
 topics: ["topic-litteratur-och-kultur", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hjälte — substantiv
 
 📖 中文：英雄 · English: hero
+
+🇸🇪 Förklaring: person som har gjort något mycket modigt eller viktigt för andra och som många beundrar
+
 发音提示：/ˈjɛltɛ/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: hjältinna (female hero), [[hjältemod]] (heroism), hjältemodigt (heroically)
-- 反义词: skurk (villain/scoundrel)
+- 词族: [[hjältinna]] (female hero), [[hjältemod]] (heroism), [[hjältemodigt]] (heroically)
+- 同义词: —
+- 反义词: [[skurk]] (villain/scoundrel)
 - 主题: [[topic-litteratur-och-kultur]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

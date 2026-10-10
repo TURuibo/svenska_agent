@@ -24,6 +24,9 @@ interval: 0
 # förvara — verb
 
 📖 中文：存放/保存 · English: to store, to keep
+
+🇸🇪 Förklaring: ha något på en viss plats så att det inte försvinner eller blir förstört
+
 发音提示：för-VA-ra（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: förvaring (en, 存储/存放), förvar (ett, 拘留所/存放处)
-- 同义词: [[spara]] (保存/存钱), lagra (储存)
+- 词族: [[förvaring]] (en, 存储/存放), [[förvar]] (ett, 拘留所/存放处)
+- 同义词: [[spara]] (保存/存钱), [[lagra]] (储存)
 - 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]], [[topic-hemmet]]
 

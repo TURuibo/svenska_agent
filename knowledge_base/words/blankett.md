@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "表格；申请表"
 en: "form"
-synonyms: []
+synonyms: [formulär]
 antonyms: []
-family: []
+family: [ansökningsblankett, anmälningsblankett]
 topics: []
 sentences:
   - sent-kan-ni-skicka-mig-blanketten
@@ -24,6 +24,9 @@ interval: 0
 # blankett — substantiv (en)
 
 📖 中文：表格；申请表 · English: form
+
+🇸🇪 Förklaring: papper eller dokument med frågor som man fyller i, till exempel för att ansöka om något
+
 发音提示：[blaŋˈkɛt]
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[ansökningsblankett]] (申请表), [[anmälningsblankett]] (报名表)
+- 同义词: [[formulär]] (表格)
 - 反义词: —
 - 主题: —
 

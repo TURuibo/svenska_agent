@@ -27,6 +27,9 @@ interval: 0
 # busshållplats — substantiv (en)
 
 📖 中文：公共汽车站 · English: bus stop
+
+🇸🇪 Förklaring: plats vid vägen där bussen stannar så att man kan stiga på och av
+
 发音提示：BUSS-holl-plats；三音节，重音在首音节。
 
 ## 语法变形 (Forms)

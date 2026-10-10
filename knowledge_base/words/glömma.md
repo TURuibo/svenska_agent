@@ -7,8 +7,8 @@ cefr: "A2"
 zh: "忘记"
 en: "to forget"
 synonyms: []
-antonyms: ["minnas"]
-family: ["glömsk", "bortglömd"]
+antonyms: [minnas]
+family: [glömsk, bortglömd]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # glömma — verb
 
 📖 中文：忘记 · English: to forget
+
+🇸🇪 Förklaring: inte komma ihåg något; låta bli att ta med sig något av misstag
+
 发音提示：[ˈɡlœmːa]
 
 ## 语法变形 (Forms)
@@ -52,7 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: glömsk (健忘的), bortglömd (被遗忘的)
+- 词族: [[glömsk]] (健忘的), [[bortglömd]] (被遗忘的)
+- 同义词: —
 - 反义词: [[minnas]] (记得)
 
 ## 用法提示 (Usage Notes)

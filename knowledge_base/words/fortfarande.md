@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "仍然；还"
 en: "still"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ännu, alltjämt]
+antonyms: [inte-längre, numera]
+family: [fortsätta, fortgå]
 topics:
   - topic-tid-och-tidsuttryck
 sentences: []
@@ -24,6 +24,9 @@ interval: 0
 # fortfarande — adverb
 
 📖 中文：仍然；还 · English: still
+
+🇸🇪 Förklaring: används för att visa att något håller på eller gäller än och inte har slutat
+
 发音提示：fort-fa-RAN-de；四音节，重音在第三音节。
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[fortsätta]] (继续), [[fortgå]] (持续进行)
 - 同义词: [[ännu]] (adv. 仍然/还，比较级用), [[alltjämt]] (adv. 始终，较正式)
-- 反义词: [[inte längre]] (不再……), [[numera]] (adv. 现在/如今，暗示变化)
+- 反义词: [[inte-längre|inte längre]] (不再……), [[numera]] (adv. 现在/如今，暗示变化)
 - 主题: [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

@@ -25,6 +25,9 @@ interval: 0
 # träd — substantiv (ett)
 
 📖 中文：树 · English: tree
+
+🇸🇪 Förklaring: stor växt med en hård stam av trä, grenar och blad eller barr
+
 发音提示：träd（单音节，ä lång）。
 
 ## 语法变形 (Forms)

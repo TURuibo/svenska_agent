@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "惯例；常规；作息"
 en: "routine"
-synonyms: []
+synonyms: [vana]
 antonyms: []
-family: []
+family: [rutinmässig, rutinerad, morgonrutin]
 topics: ["topic-arbete"]
 sentences: ["sent-många-företag-har-ändrat-sina-rutiner", "sent-för-övrigt-visar-min-egen-upplevelse"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-07"
 # rutin — substantiv
 
 📖 中文：惯例；常规；作息 · English: routine
+
+🇸🇪 Förklaring: fast sätt att göra saker som man följer varje gång eller varje dag
+
 发音提示：ru-TIN，重音在末音节
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[rutinmässig]] (例行的), [[rutinerad]] (有经验的), [[morgonrutin]] (早晨作息)
+- 同义词: [[vana]] (习惯)
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "总管道更换"
 en: "pipe/riser replacement"
-synonyms: []
+synonyms: [rörrenovering]
 antonyms: []
-family: ["byta"]
+family: [byta]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # stambyte — substantiv (ett)
 
 📖 中文：总管道更换 · English: pipe/riser replacement
+
+🇸🇪 Förklaring: stor renovering där de gamla vatten- och avloppsrören i ett flerfamiljshus ersätts med nya
+
 发音提示：STAM-by-te，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[byta]]（stam = 主干/总管，byte = 更换，来自动词 byta）
+- 同义词: [[rörrenovering]] (管道翻新)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

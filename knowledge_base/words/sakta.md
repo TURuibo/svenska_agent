@@ -7,8 +7,9 @@ zh: "慢慢地；缓慢地（副词）；缓慢的（形容词）"
 en: "slowly; slow; gently"
 cefr: "A2"
 known: false
-synonyms: ["långsamt", "försiktigt"]
-antonyms: ["snabbt", "fort"]
+synonyms: [långsamt, försiktigt]
+antonyms: [snabbt, fort]
+family: [sakta-ner, saktmodig]
 topics: ["topic-sfi", "topic-migration-och-integration"]
 phrases: ["sakta-men-sakert"]
 sentences: ["sent-sakta-men-sakert-borjade-jag-forsta", "sent-de-forklarade-saker-langsamt"]
@@ -26,6 +27,10 @@ interval: 0
 **中文:** 慢慢地；缓慢地（副词）；缓慢的（形容词）
 **English:** slowly; slow; gently
 **CEFR:** A2
+
+🇸🇪 Förklaring: 1) med låg hastighet; 2) (adjektiv) som rör sig långsamt, lugnt och försiktigt
+
+发音提示：/ˈsakta/ — a 短音；重音在第一音节
 
 ## 词义 & 用法 (Meaning & Usage)
 
@@ -59,3 +64,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-kronika-ny-i-nytt-land]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[sakta-ner|sakta ner]] (放慢), [[saktmodig]] (温和的)
+- 同义词: [[långsamt]], [[försiktigt]]
+- 反义词: [[snabbt]], [[fort]]

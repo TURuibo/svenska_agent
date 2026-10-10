@@ -7,8 +7,8 @@ cefr: "B1"
 zh: "权利"
 en: "right (entitlement)"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [skyldighet]
+family: [rätt, rättvisa]
 topics: [topic-samhälle-och-politik]
 sentences:
   - sent-organisationer-som-jobbar-for-djurens-rattigheter
@@ -23,6 +23,9 @@ interval: 0
 # rättighet — substantiv
 
 📖 中文：权利 · English: right (entitlement)
+
+🇸🇪 Förklaring: något som man har lov att göra eller få enligt lag eller regler
+
 发音提示：RÄTT-ig-het
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rätt]], [[rättvisa]]
+- 同义词: —
+- 反义词: [[skyldighet]] (义务)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

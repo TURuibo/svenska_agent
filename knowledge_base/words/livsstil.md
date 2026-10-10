@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 生活方式
 en: lifestyle
-synonyms: []
+synonyms: [levnadssätt, livsföring]
 antonyms: []
 family: [liv]
 topics: [topic-miljö-och-klimat]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # livsstil — substantiv (en)
 
 📖 中文：生活方式 · English: lifestyle
+
+🇸🇪 Förklaring: sätt att leva, t.ex. vad man äter, hur man tränar och vad man gör på fritiden
+
 发音提示：/ˈliːvsˌstiːl/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[liv]]
-- 同义词:
-- 反义词:
+- 同义词: [[levnadssätt]] (生活方式), [[livsföring]] (生活作风)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

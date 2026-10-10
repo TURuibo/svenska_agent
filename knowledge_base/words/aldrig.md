@@ -5,7 +5,7 @@ ordklass: adverb
 cefr: A1
 zh: 从不、从来没有
 en: never
-synonyms: []
+synonyms: [inte-någonsin]
 antonyms: [alltid]
 family: []
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # aldrig — adverb
 
 📖 中文：从不、从来没有 · English: never
+
+🇸🇪 Förklaring: inte en enda gång, inte vid någon tidpunkt
+
 发音提示：/ˈaldrɪɡ/；AL-drig，结尾 `-ig` 读 /ɪɡ/（常弱化成 /ɪ/）。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: —
+- 同义词: [[inte-någonsin|inte någonsin]] (从来不)
 - 反义词: [[alltid]]（总是）
 - 频率副词阶梯: aldrig → sällan（很少）→ [[ibland]]（有时）→ [[ofta]]（经常）→ [[alltid]]（总是）
 - 主题:

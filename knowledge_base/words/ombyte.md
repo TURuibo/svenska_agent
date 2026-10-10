@@ -9,7 +9,7 @@ zh: "一套换洗衣服"
 en: "change of clothes"
 synonyms: [extrakläder]
 antonyms: []
-family: []
+family: [byta]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ombyte — substantiv
 
 📖 中文：一套换洗衣服 · English: change of clothes
+
+🇸🇪 Förklaring: en uppsättning rena kläder som man kan ta på sig i stället för dem man har på sig
+
 发音提示：/ˈɔmˌbyːtɛ/ — om- 短 o，-byte 长 y（圆唇 i）
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: byta (换)
+- 词族: [[byta]] (换)
 - 同义词: [[extrakläder]]
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

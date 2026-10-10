@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "免费的；免费地"
 en: "free (of charge); for free"
-synonyms: ["kostnadsfri", "avgiftsfri"]
-antonyms: ["betald", "avgiftsbelagd"]
-family: []
+synonyms: [kostnadsfri, avgiftsfri]
+antonyms: [avgiftsbelagd, betald]
+family: [gratistidning]
 topics: ["topic-betalning"]
 sentences:
   - "sent-forresten-har-du-vart-stampelkort"
@@ -24,6 +24,9 @@ interval: 0
 # gratis — adjektiv/adverb
 
 📖 中文：免费的；免费地 · English: free (of charge); for free
+
+🇸🇪 Förklaring: som inte kostar några pengar
+
 发音提示：/ˈɡrɑːtɪs/；拉丁语借词，不变形。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: kostnadsfri（无费用的，书面语）, avgiftsfri（免收费的）
-- 反义词: avgiftsbelagd（收费的）
+- 词族: [[gratistidning]] (免费报纸)
+- 同义词: [[kostnadsfri]]（无费用的，书面语）, [[avgiftsfri]]（免收费的）
+- 反义词: [[avgiftsbelagd]]（收费的）, [[betald]]
 - 主题: [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "凉爽的"
 en: "cool"
-synonyms: ["frisk"]
-antonyms: ["varm", "het"]
-family: ["svalna", "svalhet"]
+synonyms: [frisk]
+antonyms: [varm, het]
+family: [svalna, svalhet]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-det-blir-svalare-och-regnet
@@ -24,6 +24,9 @@ interval: 0
 # sval — adjektiv
 
 📖 中文：凉爽的 · English: cool
+
+🇸🇪 Förklaring: som är lite kall på ett behagligt sätt
+
 发音提示：/svɑːl/
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: svalna（变凉，动词），svalhet（凉爽，名词）
+- 词族: [[svalna]]（变凉，动词）, [[svalhet]]（凉爽，名词）
 - 同义词: [[frisk]]（也有清新/凉爽的含义）
-- 反义词: [[varm]]
+- 反义词: [[varm]], [[het]] (热的、烫的、辣的)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

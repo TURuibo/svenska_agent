@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: A2
 zh: 有益健康的，健康的
 en: healthy, healthful
-synonyms: []
-antonyms: []
+synonyms: [nyttig, frisk]
+antonyms: [ohälsosam]
 family: [hälsa, hälsosamt]
 topics: [topic-hälsa]
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # hälsosam — adjektiv
 
 📖 中文：有益健康的，健康的 · English: healthy, healthful
+
+🇸🇪 Förklaring: som är bra för kroppen och gör att man mår bra
+
 发音提示：[ˈhɛlsusam]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hälsa]]
+- 词族: [[hälsa]], [[hälsosamt]]
 - 同义词: [[nyttig]], [[frisk]]
 - 反义词: [[ohälsosam]]
 - 主题: [[topic-hälsa]]

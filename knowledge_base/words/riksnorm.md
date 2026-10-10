@@ -9,7 +9,7 @@ zh: "全国标准（补助额）"
 en: "national standard rate"
 synonyms: []
 antonyms: []
-family: [norm]
+family: [norm, riksdag, riksväg, riks-]
 topics: [topic-ekonomi-och-bidrag, topic-samhälle-och-politik]
 sentences: [sent-den-summan-kallas-riksnorm, sent-samma-riksnorm-gäller-i-hela-sverige]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # riksnorm — substantiv (en)
 
 📖 中文：全国标准（补助额） · English: national standard rate
+
+🇸🇪 Förklaring: summa som staten bestämmer att en person eller familj behöver för vanliga kostnader när man räknar ut försörjningsstöd
+
 发音提示：RIKS-norm，重音在第一音节 `riks`。
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[norm]]（标准）、`riksdag`（国会）、`riksväg`（国道）、`riks-`（全国的前缀）
+- 词族: [[norm]]（标准）, [[riksdag]]（国会）, [[riksväg]]（国道）, [[riks-]]（全国的前缀）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]] · [[topic-samhälle-och-politik]]

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "预感；概念；一点点"
 en: "idea; inkling; slight bit"
-synonyms: []
+synonyms: [föraning, uppfattning, lite]
 antonyms: []
 family: [ana]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-05
 # aning — substantiv en/ett: en
 
 📖 中文：预感；概念；一点点 · English: idea; inkling; slight bit
+
+🇸🇪 Förklaring: känsla av att något kommer att hända; vag uppfattning om något; en mycket liten mängd
+
+发音提示：/ˈɑːnɪŋ/ — 重音在第一音节，a 读长音
 
 ## 语法变形 (Forms)
 
@@ -42,7 +46,7 @@ created: 2026-10-05
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ana]]
-- 同义词: —
+- 同义词: [[föraning]] (预感), [[uppfattning]] (概念), [[lite]] (一点点)
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

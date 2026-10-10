@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "艺人；表演者"
 en: "artist; performer (esp. stage/music)"
-synonyms: []
+synonyms: [underhållare, musiker]
 antonyms: []
-family: []
+family: [artistnamn, soloartist]
 topics: []
 sentences:
   - sent-artister-hade-en-konsert-i-visby
@@ -24,6 +24,9 @@ interval: 0
 # artist — substantiv (en)
 
 📖 中文：艺人；表演者 · English: artist; performer (stage/music)
+
+🇸🇪 Förklaring: person som uppträder inför publik, till exempel som sångare eller musiker
+
 发音提示：[ar-TIST] — 重音在第二音节
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[artistnamn]] (艺名), [[soloartist]] (独唱歌手)
+- 同义词: [[underhållare]] (表演者), [[musiker]] (音乐家)
+- 反义词: —
 - 主题: [[source-2026-06-29-nyheter-8sidor]]
 
 ## 用法提示 (Usage Notes)

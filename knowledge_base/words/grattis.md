@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "恭喜；生日快乐"
 en: "congratulations; happy birthday"
-synonyms: []
+synonyms: [gratulerar]
 antonyms: []
-family: ["födelsedag", "grattis-på-födelsedagen"]
+family: [födelsedag, grattis-på-födelsedagen]
 topics: []
 sentences:
   - sent-grattis-jag-heter-mikael-och-tar
@@ -25,6 +25,9 @@ interval: 0
 # grattis — interjektion
 
 📖 中文：恭喜；生日快乐 · English: congratulations; happy birthday
+
+🇸🇪 Förklaring: används när man vill önska någon lycka, till exempel på en födelsedag eller efter en framgång
+
 发音提示：/ˈɡratɪs/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[födelsedag]]
-- 同义词:
-- 反义词:
+- 词族: [[födelsedag]], [[grattis-på-födelsedagen]]
+- 同义词: [[gratulerar]] (恭喜)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "哼唧闹别扭的；爱哭闹的"
 en: "whiny, grizzly"
-synonyms: []
+synonyms: [kinkig, grinig]
 antonyms: [glad, pigg]
-family: []
+family: [gnälla]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # gnällig — adjektiv
 
 📖 中文：哼唧闹别扭的；爱哭闹的 · English: whiny, grizzly
+
+🇸🇪 Förklaring: som ofta klagar med ledsen och irriterad röst, särskilt om trötta barn
+
 发音提示：/ˈɡnɛlːɪɡ/ — gn 两个辅音都发，ä 短音，ll 长。
 
 ## 语法变形 (Forms)
@@ -41,8 +44,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: gnälla（动词：哼唧、抱怨）
-- 同义词: —
+- 词族: [[gnälla]]（动词：哼唧、抱怨）
+- 同义词: [[kinkig]] (哼唧的), [[grinig]] (爱哭闹的)
 - 反义词: [[glad]], [[pigg]]
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 

@@ -6,8 +6,8 @@ cefr: B1
 zh: 种族主义的
 en: racist
 synonyms: [kränkande]
-antonyms: []
-family: []
+antonyms: [antirasistisk]
+family: [rasism, rasist]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # rasistisk — adjektiv
 
 📖 中文：种族主义的 · English: racist
+
+🇸🇪 Förklaring: som behandlar människor sämre eller ser ner på dem på grund av deras ursprung eller hudfärg
+
 发音提示：/rasˈɪstɪsk/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[rasism]] (种族主义), [[rasist]] (种族主义者)
 - 同义词: [[kränkande]]
-- 反义词:
+- 反义词: [[antirasistisk]] (反种族主义的)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

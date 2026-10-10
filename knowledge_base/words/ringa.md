@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "打电话；响铃"
 en: "to call / ring"
-synonyms: []
+synonyms: [ringa-upp, telefonera]
 antonyms: []
-family: [samtal, ringsignal, ringa upp]
+family: [samtal, ringsignal, ringa-upp]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # ringa — verb (grupp 2)
 
 📖 中文：打电话；响铃 · English: to call / ring
+
+🇸🇪 Förklaring: 1) kontakta någon med telefonen; 2) låta som en klocka eller en signal
+
 发音提示：RING-a；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[samtal]] (ett, 通话/对话), [[ringsignal]] (en, 铃声)
-- 同义词: [[ringa upp]] (打电话给某人，口语), [[telefonera]] (打电话，较正式)
+- 词族: [[samtal]] (ett, 通话/对话), [[ringsignal]] (en, 铃声), [[ringa-upp]]
+- 同义词: [[ringa-upp|ringa upp]] (打电话给某人，口语), [[telefonera]] (打电话，较正式)
 - 反义词: —
 - 主题: [[topic-vardagsrutin]]
 

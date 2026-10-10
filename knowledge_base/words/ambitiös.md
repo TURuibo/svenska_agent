@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "有抱负的"
 en: "ambitious"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [motiverad]
+antonyms: [omotiverad]
+family: [ambition]
 topics: ["topic-karaktarsord"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # ambitiös — adjektiv
 
 📖 中文：有抱负的 · English: ambitious
+
+🇸🇪 Förklaring: som har stora mål och arbetar hårt för att nå dem
+
 发音提示：am-bit-si-ÖS
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 - 词族: [[ambition]]
 - 同义词: [[motiverad]]
-- 反义词: []
+- 反义词: [[omotiverad]] (没有动力的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

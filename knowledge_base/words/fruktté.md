@@ -8,7 +8,7 @@ zh: "果茶"
 en: "fruit tea"
 synonyms: []
 antonyms: []
-family: [te]
+family: [te, frukt]
 topics: [topic-kafe-fika, topic-mat-dryck]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fruktté — substantiv
 
 📖 中文：果茶 · English: fruit tea
+
+🇸🇪 Förklaring: te med smak av bär eller med torkade bitar av till exempel äpple i
+
 发音提示：FRUKT-teh（复合词，重音在第一部分）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[te]], [[frukt]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

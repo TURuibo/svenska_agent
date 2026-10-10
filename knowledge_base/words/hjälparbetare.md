@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "救援工作者"
 en: "aid worker"
-synonyms: []
+synonyms: [biståndsarbetare]
 antonyms: []
-family: []
+family: [hjälp, arbetare, hjälporganisation]
 topics: ["topic-naturkatastrof"]
 sentences: ["sent-nu-befinner-han-sig-i-pakistan-ett-land"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # hjälparbetare — substantiv
 
 📖 中文：救援工作者 · English: aid worker
-发音提示：
+
+🇸🇪 Förklaring: person som arbetar med att ge människor mat, vård och skydd vid katastrofer eller krig
+
+发音提示：/ˈjɛlpˌarbeːtarɛ/ — hj 中 h 不发音；重音在 hjälp
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[hjälp]] (帮助), [[arbetare]] (工人), [[hjälporganisation]] (救援组织)
+- 同义词: [[biståndsarbetare]] (援助工作者)
+- 反义词: —
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

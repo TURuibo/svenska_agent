@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "咸的"
 en: "salty"
-synonyms: []
-antonyms: ["sur", "bitter"]
-family: []
+synonyms: [saltad]
+antonyms: [sur, bitter]
+family: [salta, saltvatten]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # salt — adjektiv
 
 📖 中文：咸的 · English: salty
+
+🇸🇪 Förklaring: som har en skarp smak, ungefär som havsvatten eller chips
+
 发音提示：[salt]
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: salt (名词，食盐), salta (v. 加盐), saltvatten (盐水)
-- 同义词: —
+- 词族: [[salta]] (v. 加盐), [[saltvatten]] (盐水)
+- 同义词: [[saltad]] (加了盐的)
 - 反义词: [[sur]], [[bitter]]
 - 主题: [[topic-mat-dryck]]
 

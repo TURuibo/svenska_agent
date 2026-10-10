@@ -9,7 +9,7 @@ zh: "熊"
 en: "bear"
 synonyms: []
 antonyms: []
-family: []
+family: [björnunge, brunbjörn, isbjörn]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # björn — substantiv (en)
 
 📖 中文：熊 · English: bear
+
+🇸🇪 Förklaring: stort, kraftigt djur med tjock päls som sover i ett ide på vintern
+
 发音提示：/bjœrn/
 
 ## 语法变形 (Forms)

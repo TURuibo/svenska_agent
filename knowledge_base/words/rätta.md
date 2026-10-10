@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "纠正"
 en: "to correct"
-synonyms: []
+synonyms: [korrigera, ändra]
 antonyms: []
-family: ["rätt", "rättelse"]
+family: [rätt, rättelse]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # rätta — verb
 
 📖 中文：纠正 · English: to correct
+
+🇸🇪 Förklaring: visa vad som är fel och ändra det så att det blir korrekt; kontrollera svaren på ett prov
+
 发音提示：RÄT-ta
 
 ## 语法变形 (Forms)
@@ -39,7 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[rätt]]（对的，形容词/副词）
+- 词族: [[rätt]]（对的，形容词/副词）, [[rättelse]]
+- 同义词: [[korrigera]] (纠正), [[ändra]] (改正)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

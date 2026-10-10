@@ -19,6 +19,10 @@ created: "2026-10-09"
 
 📖 中文：热水 · English: hot water
 
+🇸🇪 Förklaring: vatten som är varmt, till exempel från kranen eller i duschen
+
+发音提示：/ˈvarmˌvatːɛn/ — 重音在 varm；两个 a 都读短音
+
 ## 语法变形 (Forms)
 
 | 形式 | 变形 |
@@ -34,7 +38,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kallvatten]] [[vatten]] [[varm]]
+- 词族: [[kallvatten]] [[vatten]] [[varm]], [[vatten]], [[varm]] (热的、温暖的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

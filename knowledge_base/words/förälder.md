@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "家长、父母"
 en: "parent"
-synonyms: []
-antonyms: []
-family: ["mamma", "pappa", "familj"]
+synonyms: [vårdnadshavare]
+antonyms: [barn]
+family: [mamma, pappa, familj]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # förälder — substantiv (en)
 
 📖 中文：家长、父母 · English: parent
+
+🇸🇪 Förklaring: person som är mamma eller pappa till ett barn
+
 发音提示：/fœˈrɛldər/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mamma]], [[pappa]], [[familj]]
+- 同义词: [[vårdnadshavare]] (监护人)
+- 反义词: [[barn]] (孩子)
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

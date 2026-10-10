@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "运转；起作用；工作（正常）"
 en: "to function; to work; to operate"
-synonyms: ["fungera bra", "klara sig"]
-antonyms: []
-family: ["funktion", "funktionell", "disfunktion"]
+synonyms: [fungera-bra, klara-sig]
+antonyms: [krångla]
+family: [funktion, funktionell, disfunktion]
 topics: []
 sentences: ["sent-kylskapet-i-koket-fungerar"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fungera — verb (grupp 1)
 
 📖 中文：运转；起作用；工作（正常） · English: to function; to work; to operate
+
+🇸🇪 Förklaring: gå som det ska och göra det som det är tänkt att göra
+
 发音提示：[fʊŋˈɡeːra] — "fung-GE-ra"
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[funktion]] (功能), [[funktionell]] (功能性的)
+- 词族: [[funktion]] (功能), [[funktionell]] (功能性的), [[disfunktion]]
+- 同义词: [[fungera-bra]], [[klara-sig]]
+- 反义词: [[krångla]] (出故障)
 
 ## 用法提示 (Usage Notes)
 

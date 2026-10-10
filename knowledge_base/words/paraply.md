@@ -8,7 +8,7 @@ zh: "雨伞"
 en: "umbrella"
 synonyms: []
 antonyms: []
-family: []
+family: [paraplyställ, paraplyorganisation]
 topics: [topic-vader-och-arstider, topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # paraply — substantiv (ett)
 
 📖 中文：雨伞 · English: umbrella
+
+🇸🇪 Förklaring: sak av tyg på ett skaft som man håller över huvudet när det regnar
+
 发音提示：pa-ra-PLY（重音在末音节）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[paraplyställ]] (伞架), [[paraplyorganisation]] (伞式组织)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-vader-och-arstider]], [[topic-klader]]

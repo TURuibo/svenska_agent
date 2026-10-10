@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "握手"
 en: "handshake"
-synonyms: []
+synonyms: [handskakning]
 antonyms: []
-family: ["hand", "slag"]
+family: [hand, slag]
 topics: [topic-sociala-normer]
 sentences: ["sent-i-sverige-hälsar-man-oftast-med"]
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # handslag — substantiv
 
 📖 中文：握手 · English: handshake
+
+🇸🇪 Förklaring: när två personer tar varandra i handen och skakar den, till exempel när de hälsar eller kommer överens
+
+发音提示：/ˈhandˌslɑːɡ/ — 复合词重音在 hand；slag 的 a 读长音
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hand]]
-- 同义词: []
-- 反义词: []
+- 词族: [[hand]], [[slag]]
+- 同义词: [[handskakning]] (握手)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

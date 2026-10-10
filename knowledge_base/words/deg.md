@@ -8,7 +8,7 @@ zh: "面团"
 en: "dough"
 synonyms: []
 antonyms: []
-family: ["surdeg", "surdegsbröd"]
+family: [surdeg, surdegsbröd]
 topics: ["topic-mat-dryck"]
 sentences:
   - "sent-det-var-faktiskt-av"
@@ -23,6 +23,9 @@ interval: 0
 # deg — substantiv (en)
 
 📖 中文：面团 · English: dough
+
+🇸🇪 Förklaring: blandning av mjöl, vätska och ofta jäst som man bakar bröd eller bullar av
+
 发音提示：DEH-g（短促，g发音）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[surdeg]] · [[surdegsbröd]]
+- 词族: [[surdeg]] · [[surdegsbröd]], [[surdegsbröd]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

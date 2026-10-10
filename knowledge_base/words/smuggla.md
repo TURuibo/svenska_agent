@@ -24,6 +24,9 @@ interval: 0
 # smuggla — verb
 
 📖 中文：走私，偷运 · English: to smuggle
+
+🇸🇪 Förklaring: i hemlighet och mot lagen föra varor eller människor in i eller ut ur ett land
+
 发音提示：[SMUG-la]
 
 ## 语法变形 (Forms)
@@ -53,6 +56,8 @@ Verbgrupp 1 (-ar verb), regelbundet.
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[smuggling]], [[smugglare]]
+- 同义词: —
+- 反义词: —
 - 相关: [[misstänkt]], [[brottsling]], [[drog]]
 - 主题: [[topic-samhälle-och-politik]]
 

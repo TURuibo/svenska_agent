@@ -8,7 +8,7 @@ zh: "苹果"
 en: "apple"
 synonyms: []
 antonyms: []
-family: []
+family: [äppeljuice, äppelpaj, äppelträd]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # äpple — substantiv (ett-ord)
 
 📖 中文：苹果 · English: apple
+
+🇸🇪 Förklaring: rund frukt med rött, grönt eller gult skal som växer på träd
+
 发音提示：['ɛplə]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: äppeljuice, äppelpaj, äppelträd
+- 词族: [[äppeljuice]], [[äppelpaj]], [[äppelträd]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

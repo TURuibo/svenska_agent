@@ -19,6 +19,9 @@ created: "2026-09-26"
 # friskanmäla — verb (grupp 2a)
 
 📖 中文：销假；报（孩子）康复 · English: to report (a child) well again
+
+🇸🇪 Förklaring: meddela skolan, förskolan eller arbetsgivaren att någon inte är sjuk längre
+
 发音提示：[ˈfrɪskanˌmɛːla]，重音在 frisk-；-mäla 与 [[anmäla]] 同变化。
 
 ## 语法变形 (Forms)
@@ -41,7 +44,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[friskanmälan]] · [[frisk]] · [[anmäla]] · [[sjukanmäla]]
+- 词族: [[friskanmälan]] · [[frisk]] · [[anmäla]] · [[sjukanmäla]], [[frisk]], [[anmäla]], [[sjukanmäla]] (报病假)
 - 同义词: —
 - 反义词: [[sjukanmäla]]
 - 主题: [[topic-förskola-vardag]]

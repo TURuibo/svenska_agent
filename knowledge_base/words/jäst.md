@@ -20,6 +20,10 @@ source: source-2026-10-03-news-8-sidor
 
 📖 中文：酵母 · English: yeast
 
+🇸🇪 Förklaring: levande svamp som man har i degen för att brödet ska bli luftigt
+
+发音提示：/jɛst/ — ä 读短音 ɛ
+
 ## 语法变形 (Forms)
 
 | 形式 | 单数 |
@@ -43,6 +47,7 @@ source: source-2026-10-03-news-8-sidor
 
 - 词族: [[mjöl]]
 - 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

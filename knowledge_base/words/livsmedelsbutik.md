@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "食品超市；食品店"
 en: "grocery store / food shop"
-synonyms: [mataffär, ICA, Coop]
+synonyms: [mataffär, matbutik, ica, coop]
 antonyms: []
 family: [livsmedel, butik, matbutik]
 topics:
@@ -25,6 +25,9 @@ interval: 0
 # livsmedelsbutik — substantiv (en)
 
 📖 中文：食品超市；食品店 · English: grocery store / food shop
+
+🇸🇪 Förklaring: affär där man köper mat och andra varor för hushållet
+
 发音提示：livs-ME-dels-bu-tik；五音节，重音在第二和末尾音节。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[livsmedel]] (ett, 食品/食物), [[butik]] (en, 商店/店铺), [[matbutik]] (en, 食品店)
-- 同义词: [[mataffär]] (en, 食品店，口语), [[matbutik]] (en, 食品店，较口语)
+- 同义词: [[mataffär]] (en, 食品店，口语), [[matbutik]] (en, 食品店，较口语), [[ica]], [[coop]]
 - 反义词: —
 - 主题: [[topic-stadsmiljo]]
 

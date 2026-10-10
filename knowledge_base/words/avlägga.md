@@ -18,6 +18,9 @@ created: "2026-10-01"
 # avlägga — verb (oregelbundet, som lägga)
 
 📖 中文：宣（誓）；参加并完成（考试） · English: to take (an oath/exam)
+
+🇸🇪 Förklaring: genomföra något på ett formellt sätt, till exempel ett löfte, en ed eller ett prov
+
 发音提示：/ˈɑːvˌlɛɡa/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lägga]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

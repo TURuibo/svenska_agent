@@ -19,6 +19,10 @@ created: "2026-10-09"
 
 📖 中文：阀门；通风口 · English: valve
 
+🇸🇪 Förklaring: anordning som öppnar och stänger för luft, gas eller vätska; öppning där luft kommer in eller ut
+
+发音提示：/vɛnˈtiːl/ — 重音在第二音节 til
+
 ## 语法变形 (Forms)
 
 | 形式 | 变形 |
@@ -37,6 +41,8 @@ created: "2026-10-09"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ventilation]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

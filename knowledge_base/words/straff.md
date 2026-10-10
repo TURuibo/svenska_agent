@@ -6,9 +6,9 @@ genus: ett
 cefr: "B1"
 zh: "惩罚；（经济）制裁"
 en: "punishment, penalty; (economic) sanction"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [bestraffning, påföljd, sanktion]
+antonyms: [belöning]
+family: [straffa, straffbar, straffspark]
 topics:
   - topic-samhälle-och-politik
   - topic-krig-och-konflikt
@@ -24,6 +24,9 @@ interval: 0
 # straff — substantiv (ett)
 
 📖 中文：惩罚；（经济）制裁 · English: punishment, penalty; sanction
+
+🇸🇪 Förklaring: något obehagligt som någon får för att ha gjort fel eller brutit mot lagen, t.ex. böter eller fängelse
+
 发音提示：STRAF（短促）
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[straffa]] (惩罚), [[straffbar]] (可罚的), [[straffspark]] (点球)
+- 同义词: [[bestraffning]] (惩罚), [[påföljd]] (处罚), [[sanktion]] (制裁)
+- 反义词: [[belöning]] (奖励)
 - 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 某处；任何地方
 en: somewhere; anywhere
-synonyms: []
+synonyms: [var-som-helst, någonstädes]
 antonyms: [ingenstans]
-family: [någon]
+family: [någon, någonting]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # någonstans — adverb
 
 📖 中文：某处；任何地方 · English: somewhere; anywhere
+
+🇸🇪 Förklaring: på eller till ett ställe som man inte vet eller inte säger vilket det är
+
+发音提示：/ˈnoːɡɔnˌstans/ — å 读 oː；stans 次重音
 
 ## 语法变形 (Forms)
 
@@ -37,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: någon, någonting
-- 同义词:
-- 反义词: ingenstans
+- 词族: [[någon]], [[någonting]]
+- 同义词: [[var-som-helst|var som helst]] (任何地方), [[någonstädes]] (某处)
+- 反义词: [[ingenstans]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

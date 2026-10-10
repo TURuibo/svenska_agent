@@ -9,7 +9,7 @@ zh: 十亿
 en: billion (1 000 000 000)
 synonyms: []
 antonyms: []
-family: ["miljon"]
+family: [miljon]
 topics: []
 sentences:
   - sent-paris-saint-germain-betalade-2-1
@@ -24,6 +24,9 @@ interval: 0
 # miljard — substantiv
 
 📖 中文：十亿 · English: billion (1 000 000 000)
+
+🇸🇪 Förklaring: tal som är lika med tusen miljoner (1 000 000 000)
+
 发音提示：mil-JARD
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[miljon]]
+- 同义词: —
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

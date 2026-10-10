@@ -6,7 +6,7 @@ verbgrupp: "oregelbundet"
 cefr: A2
 zh: 微笑
 en: to smile
-synonyms: []
+synonyms: [småle, flina]
 antonyms: []
 family: [leende]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # le — verb (oregelbundet)
 
 📖 中文：微笑 · English: to smile
+
+🇸🇪 Förklaring: dra upp mungiporna och visa att man är glad eller vänlig
+
+发音提示：/leː/ — e 读长音 eː
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: leende (ett, 微笑)
-- 同义词:
-- 反义词:
+- 词族: [[leende]] (ett, 微笑)
+- 同义词: [[småle]] (微微一笑), [[flina]] (咧嘴笑)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -24,6 +24,9 @@ interval: 0
 # segelbåt — substantiv (en)
 
 📖 中文：帆船 · English: sailboat, sailing boat
+
+🇸🇪 Förklaring: båt som drivs framåt av vinden med hjälp av ett eller flera segel
+
 发音提示：/ˈseːɡəlˌboːt/；segel（帆）+ båt（船）。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: segla（航行），båt（船），segel（帆）
+- 词族: [[segla]]（航行）, [[båt]]（船）, [[segel]]（帆）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

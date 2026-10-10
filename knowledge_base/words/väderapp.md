@@ -8,7 +8,7 @@ zh: "天气应用程序"
 en: "weather app"
 synonyms: []
 antonyms: []
-family: [väderprognos]
+family: [väder, väderprognos]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # väderapp — substantiv (en)
 
 📖 中文：天气应用程序 · English: weather app
+
+🇸🇪 Förklaring: program i mobilen som visar hur vädret blir
+
 发音提示：VÄ-der-app（重音在第一音节）
 
 ## 语法变形 (Forms)

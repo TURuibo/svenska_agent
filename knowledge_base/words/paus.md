@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 暂停；休息；停火
 en: pause, break, ceasefire
-synonyms: []
+synonyms: [rast, uppehåll, vapenvila]
 antonyms: []
-family: []
+family: [pausa, lunchpaus, kaffepaus]
 topics: ["topic-krig-och-konflikt"]
 sentences:
   - sent-folkmordet-har-fortsatt-trots-att
@@ -24,6 +24,9 @@ interval: 0
 # paus — substantiv
 
 📖 中文：暂停；休息；停火 · English: pause, break, ceasefire
+
+🇸🇪 Förklaring: kort tid när man slutar med något för att vila; tillfälligt stopp i strider
+
 发音提示：PAUS
 
 ## 语法变形 (Forms)
@@ -53,6 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[pausa]] (暂停), [[lunchpaus]] (午休), [[kaffepaus]] (咖啡休息)
+- 同义词: [[rast]] (休息), [[uppehåll]] (中断), [[vapenvila]] (停火)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "躺；平放"
 en: "to lie; to be lying"
-synonyms: []
+synonyms: [vila, befinna-sig]
 antonyms: [stå, sitta]
-family: [lägga, ner, nedlagd]
+family: [lägga, nedlagd, ner]
 topics: [topic-rumsliga-relationer, topic-stadsmiljo]
 sentences:
   - sent-sangens-star-langs-vaggen-under-sangen
@@ -33,6 +33,9 @@ interval: 0
 # ligga — verb (grupp 4 / stark verb)
 
 📖 中文：躺；平放 · English: to lie; to be lying (in a horizontal position)
+
+🇸🇪 Förklaring: vara i vågrätt läge, t.ex. i en säng; också: finnas på en viss plats
+
 发音提示：LIG-ga；två stavelser.
 
 ## 语法变形 (Forms)
@@ -60,8 +63,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lägga]] (动词，"放下"，动态), [[nedlagd]] (放下的/关闭的)
-- 同义词: —
+- 词族: [[lägga]] (动词，"放下"，动态), [[nedlagd]] (放下的/关闭的), [[ner]] (向下)
+- 同义词: [[vila]] (躺着休息), [[befinna-sig|befinna sig]] (位于)
 - 反义词: [[stå]] (站立/竖立), [[sitta]] (坐/固定)
 - 主题: [[topic-rumsliga-relationer]]
 

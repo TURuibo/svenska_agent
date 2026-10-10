@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 童年
 en: childhood
-synonyms: []
-antonyms: []
-family: [barn]
+synonyms: [uppväxt]
+antonyms: [vuxenliv]
+family: [barn, barndomsminne]
 topics: [topic-familj-och-barn]
 sentences: [sent-zlatans-barndom-var-svar]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # barndom — substantiv (en)
 
 📖 中文：童年 · English: childhood
+
+🇸🇪 Förklaring: tiden i livet innan man blir vuxen
+
 发音提示：BARN-dom；重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[barn]] (ett, 孩子), [[barndomsminne]] (ett, 童年记忆)
-- 同义词: —
+- 同义词: [[uppväxt]] (成长时期)
 - 反义词: [[vuxenliv]] (ett, 成年生活)
 - 主题: [[topic-familj-och-barn]]
 

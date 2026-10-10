@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "地球；土壤；土地"
 en: "earth; soil; ground"
-synonyms: []
-antonyms: []
-family: ["jordgubbe", "jordbruk"]
+synonyms: [mark, mylla]
+antonyms: [himmel]
+family: [jordgubbe, jordbruk]
 topics: ["topic-miljö-och-klimat"]
 sentences:
   - sent-forskare-varnar-för-att-ännu-fler
@@ -24,6 +24,9 @@ interval: 0
 # jord — substantiv
 
 📖 中文：地球；土壤；土地 · English: earth; soil; ground
+
+🇸🇪 Förklaring: planeten som vi bor på; det lösa materialet på marken där växter växer
+
 发音提示：/juːrd/
 
 ## 语法变形 (Forms)
@@ -53,7 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[jordgubbe]] (草莓，字面"地球浆果"), jordbruk（农业）
+- 词族: [[jordgubbe]] (草莓，字面"地球浆果"), [[jordbruk]]（农业）
+- 同义词: [[mark]] (土地), [[mylla]] (沃土)
+- 反义词: [[himmel]] (天空)
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

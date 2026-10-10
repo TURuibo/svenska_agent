@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 积极的/活跃的
 en: active
-synonyms: []
-antonyms: []
-family: []
+synonyms: [energisk, engagerad]
+antonyms: [passiv]
+family: [aktivitet, aktivera]
 topics: [topic-arbete-och-jobb, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # aktiv — adjektiv
 
 📖 中文：积极的/活跃的 · English: active
+
+🇸🇪 Förklaring: som gör mycket och gärna deltar i olika saker
+
 发音提示：[ˈaktɪv] — 重音在第一音节
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[aktivitet]], [[aktivera]]
+- 同义词: [[energisk]] (精力充沛的), [[engagerad]] (投入的)
 - 反义词: [[passiv]]
 - 主题: [[topic-arbete-och-jobb]], [[topic-skola-och-utbildning]]
 

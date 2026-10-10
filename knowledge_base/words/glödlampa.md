@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "灯泡"
 en: "light bulb"
-synonyms: []
+synonyms: [lampa]
 antonyms: []
-family: [lampa]
+family: [lampa, glöd, lågenergilampa]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-pengarna-ska-räcka-till-mat-kläder-och]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # glödlampa — substantiv (en)
 
 📖 中文：灯泡 · English: light bulb
+
+🇸🇪 Förklaring: ljuskälla av glas där en tunn metalltråd lyser när elektrisk ström går igenom den
+
 发音提示：GLÖD-lam-pa，重音在第一音节 `glöd`；`ö` 读 [øː]。
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lampa]]（灯）、`glöd`（余烬；炽热）、`lågenergilampa`（节能灯）
-- 同义词: —（口语 `lampa`；`ljuskälla`）
+- 词族: [[lampa]]（灯）, [[glöd]]（余烬；炽热）, [[lågenergilampa]]（节能灯）
+- 同义词: —（口语 [[lampa]]；[[ljuskälla]]）
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]
 

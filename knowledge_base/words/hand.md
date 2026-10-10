@@ -23,6 +23,9 @@ interval: 0
 # hand — substantiv (en)
 
 📖 中文：手 · English: hand
+
+🇸🇪 Förklaring: kroppsdel längst ut på armen med fyra fingrar och en tumme
+
 发音提示：/hand/；短 a 音。
 
 ## 语法变形 (Forms)

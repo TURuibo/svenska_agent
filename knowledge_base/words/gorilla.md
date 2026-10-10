@@ -22,6 +22,9 @@ interval: 0
 # gorilla — substantiv (en)
 
 📖 中文：大猩猩 · English: gorilla
+
+🇸🇪 Förklaring: stor och stark apa som lever i skogar i Afrika
+
 发音提示：go-RIL-la（三音节，重音在中间）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

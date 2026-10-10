@@ -6,7 +6,7 @@ verbgrupp: "2"
 cefr: A2
 zh: 放(竖着)；ställa upp 参赛；ställa krav 提要求
 en: to put, place
-synonyms: []
+synonyms: [placera, sätta]
 antonyms: []
 family: [stå]
 topics: [topic-idrott]
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # ställa — verb (grupp 2)
 
 📖 中文：放(竖着)；ställa upp 参赛；ställa krav 提要求 · English: to put, place
+
+🇸🇪 Förklaring: 1) placera något så att det står upprätt någonstans; 2) (upp) delta i t.ex. en tävling eller ett val; 3) (krav) tydligt säga vad man kräver
+
 发音提示：/ˈstɛlːa/
 
 ## 语法变形 (Forms)
@@ -62,8 +65,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stå]]（ställa = 使……站着，stå 的使役动词）
-- 同义词:
-- 反义词:
+- 同义词: [[placera]] (放置), [[sätta]] (放)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

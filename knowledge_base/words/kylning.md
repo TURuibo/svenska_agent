@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "冷藏/冷却"
 en: "cooling, refrigeration"
-synonyms: []
-antonyms: []
+synonyms: [nedkylning]
+antonyms: [uppvärmning]
 family: [kyla, kylskåp, kyl]
 topics: [topic-uppfinning-och-teknik, topic-mat-dryck]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # kylning — substantiv
 
 📖 中文：冷藏/冷却 · English: cooling, refrigeration
+
+🇸🇪 Förklaring: det att man gör något kallt eller håller det kallt
+
 发音提示：KYL-ning（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kyla]] (冷/寒冷), kylskåp (冰箱), kyl (冷室)
-- 同义词: —
-- 反义词: uppvärmning (加热)
+- 词族: [[kyla]] (冷/寒冷), [[kylskåp]] (冰箱), [[kyl]] (冷室)
+- 同义词: [[nedkylning]] (冷却)
+- 反义词: [[uppvärmning]] (加热)
 - 主题: [[topic-uppfinning-och-teknik]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

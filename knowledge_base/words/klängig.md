@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "黏人的"
 en: "clingy"
 synonyms: []
-antonyms: []
+antonyms: [självständig]
 family: [klänga]
 topics: [topic-småbarn-känslor-och-beteende, topic-förskola-vardag]
 sentences: [sent-hon-är-lite-klängig-och-ledsen]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # klängig — adjektiv
 
 📖 中文：黏人的 · English: clingy
+
+🇸🇪 Förklaring: som hela tiden vill vara nära någon och har svårt att vara ensam
+
 发音提示：/ˈklɛŋɪg/，g 在词尾读 [g]（口语中常弱化）。
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klänga]] (v.)
+- 同义词: —
+- 反义词: [[självständig]] (独立的)
 - 主题: [[topic-småbarn-känslor-och-beteende]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

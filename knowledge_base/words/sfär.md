@@ -8,7 +8,7 @@ zh: 领域、空间
 en: sphere
 synonyms: []
 antonyms: []
-family: []
+family: [atmosfär, intressesfär, privatsfär]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # sfär — substantiv (en)
 
 📖 中文：领域、空间 · English: sphere
+
+🇸🇪 Förklaring: område eller miljö där någon lever, verkar eller har inflytande
+
 发音提示：/sfæːr/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: [[avstånd]]
-- 反义词:
+- 词族: [[atmosfär]] (大气；气氛), [[intressesfär]] (势力范围), [[privatsfär]] (私人空间)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "事故；不幸"
 en: "accident; misfortune"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [otur, katastrof]
+antonyms: [lycka]
+family: [olycklig, olyckshändelse, trafikolycka]
 topics: ["topic-trafik-säkerhet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # olycka — substantiv (en)
 
 📖 中文：事故；不幸 · English: accident; misfortune
+
+🇸🇪 Förklaring: 1) händelse där något plötsligt går fel och någon blir skadad; 2) något mycket sorgligt som händer någon
+
 发音提示：O-lyc-ka；重音在第一音节
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: lycka（幸福；运气）
+- 词族: [[olycklig]] (不幸的), [[olyckshändelse]] (意外事件), [[trafikolycka]] (交通事故)
+- 同义词: [[otur]] (厄运), [[katastrof]] (灾难)
+- 反义词: [[lycka]]（幸福；运气）
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

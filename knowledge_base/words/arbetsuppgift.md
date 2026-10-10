@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "工作任务，职责"
 en: "work task, duty"
-synonyms: ["uppgift"]
+synonyms: [uppgift]
 antonyms: []
-family: ["arbete", "uppgift"]
+family: [arbete, uppgift]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # arbetsuppgift — substantiv (en-ord)
 
 📖 中文：工作任务，职责 · English: work task, duty
+
+🇸🇪 Förklaring: något som man ska göra på sitt jobb
+
 发音提示：AR-bets-upp-gift
 
 ## 语法变形 (Forms)

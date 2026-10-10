@@ -5,8 +5,8 @@ ordklass: adverb
 cefr: A1
 zh: 可惜；遗憾地
 en: unfortunately; I'm afraid
-synonyms: []
-antonyms: []
+synonyms: [dessvärre]
+antonyms: [lyckligtvis, som-tur-är]
 family: []
 topics: []
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # tyvärr — adverb
 
 📖 中文：可惜；遗憾地 · English: unfortunately; I'm afraid
+
+🇸🇪 Förklaring: används för att visa att man tycker att något är synd eller tråkigt
+
 发音提示：tee-VEHR
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: dessvärre (不幸地，较正式)
+- 词族: —
+- 同义词: [[dessvärre]] (不幸地，较正式)
+- 反义词: [[lyckligtvis]] (幸好), [[som-tur-är|som tur är]] (幸亏)
 
 ## 用法提示 (Usage Notes)
 

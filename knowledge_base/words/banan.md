@@ -8,7 +8,7 @@ zh: "香蕉"
 en: "banana"
 synonyms: []
 antonyms: []
-family: []
+family: [bananskal, bananklase]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # banan — substantiv (en-ord)
 
 📖 中文：香蕉 · English: banana
+
+🇸🇪 Förklaring: lång, böjd och gul frukt som man skalar innan man äter den
+
 发音提示：[ba'naːn]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[bananskal]] (香蕉皮), [[bananklase]] (香蕉串)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

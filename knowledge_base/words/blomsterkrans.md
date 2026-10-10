@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "花环"
 en: "flower wreath"
-synonyms: ["krans"]
+synonyms: [krans]
 antonyms: []
-family: ["krans", "blomma"]
+family: [krans, blomma]
 topics: ["topic-midsommar-traditioner"]
 sentences: ["sent-emma-gor-en-blomsterkrans-och-satter"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # blomsterkrans — substantiv
 
 📖 中文：花环 · English: flower wreath
+
+🇸🇪 Förklaring: ring av blommor som man har på huvudet, till exempel på midsommar
+
 发音提示：[ˈblɔmstɛrkrans]，blomster + krans 复合词
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[krans]] · [[blomma]]
+- 词族: [[krans]] · [[blomma]], [[blomma]]
 - 同义词: [[krans]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

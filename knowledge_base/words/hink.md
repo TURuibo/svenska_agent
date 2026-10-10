@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "水桶；桶"
 en: "bucket; pail"
-synonyms: []
+synonyms: [spann]
 antonyms: []
-family: []
+family: [sophink, plasthink, hinkvis]
 topics: ["topic-hemmet"]
 sentences:
   - sent-fyll-garna-pa-flaskor-eller-hinkar
@@ -24,6 +24,9 @@ interval: 0
 # hink — substantiv (en)
 
 📖 中文：水桶；桶 · English: bucket; pail
+
+🇸🇪 Förklaring: kärl med ett handtag som man bär vatten eller annat i
+
 发音提示：[hɪŋk]，短元音
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sophink]] (垃圾桶), [[plasthink]] (塑料桶), [[hinkvis]] (一桶一桶地)
+- 同义词: [[spann]] (桶)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

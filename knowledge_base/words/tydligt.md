@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "清楚地；明显地"
 en: "clearly"
-synonyms: []
-antonyms: ["otydligt"]
-family: ["tydlig"]
+synonyms: [klart, uppenbart]
+antonyms: [otydligt]
+family: [tydlig]
 topics: []
 sentences: [sent-hon-är-snäll-och-förklarar-tydligt]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-07"
 # tydligt — adverb
 
 📖 中文：清楚地；明显地 · English: clearly
+
+🇸🇪 Förklaring: på ett sätt som är lätt att se, höra eller förstå
+
 发音提示：TYD-ligt
 
 ## 语法变形 (Forms)
@@ -39,7 +42,8 @@ adjektiv [[tydlig]] (en) / tydligt (ett / adverb) / tydliga (pl/定)。adverb �
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tydlig]]
-- 反义词: otydligt
+- 同义词: [[klart]] (清楚地), [[uppenbart]] (明显地)
+- 反义词: [[otydligt]]
 
 ## 用法提示 (Usage Notes)
 

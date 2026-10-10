@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "乳糖"
 en: "lactose"
-synonyms: []
+synonyms: [mjölksocker]
 antonyms: []
-family: []
+family: [laktosfri, laktosintolerans]
 topics:
   - topic-mat-dryck
   - topic-hälsa
@@ -27,6 +27,9 @@ interval: 0
 # laktos — substantiv (en)
 
 📖 中文：乳糖 · English: lactose
+
+🇸🇪 Förklaring: socker som finns naturligt i mjölk
+
 发音提示：LAK-tos
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: laktosfri（无乳糖），laktosintolerans（乳糖不耐症）
-- 同义词: mjölksocker（乳糖，字面：奶糖）
+- 词族: [[laktosfri]]（无乳糖）, [[laktosintolerans]]（乳糖不耐症）
+- 同义词: [[mjölksocker]]（乳糖，字面：奶糖）
 - 反义词: —
 - 主题: [[topic-mat-dryck]] · [[topic-hälsa]]
 

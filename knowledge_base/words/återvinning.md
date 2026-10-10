@@ -6,7 +6,7 @@ genus: en
 cefr: "A2"
 zh: "回收；循环利用"
 en: "recycling"
-synonyms: []
+synonyms: [återanvändning]
 antonyms: []
 family: [återvinna]
 topics: [topic-källsortering, topic-miljö-och-klimat]
@@ -24,6 +24,9 @@ interval: 0
 # återvinning — substantiv (en)
 
 📖 中文：回收；循环利用 · English: recycling
+
+🇸🇪 Förklaring: när gammalt material, till exempel papper och glas, tas om hand och blir till nya produkter
+
 发音提示：åter-VIN-ning（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[återvinna]]
+- 同义词: [[återanvändning]] (再利用)
+- 反义词: —
 - 主题: [[topic-källsortering]], [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

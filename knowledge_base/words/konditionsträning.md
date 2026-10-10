@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 体能／耐力训练
 en: endurance training
-synonyms: []
+synonyms: [uthållighetsträning]
 antonyms: []
-family: []
+family: [kondition, träning, träna]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # konditionsträning — substantiv (en)
 
 📖 中文：体能／耐力训练 · English: endurance training
+
+🇸🇪 Förklaring: träning som gör hjärtat och lungorna starkare, t.ex. löpning eller simning
+
 发音提示：/kɔndɪˈʃuːnsˌtrɛːnɪŋ/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[kondition]] (体能), [[träning]] (训练), [[träna]] (锻炼)
+- 同义词: [[uthållighetsträning]] (耐力训练)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

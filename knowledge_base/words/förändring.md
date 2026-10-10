@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 变化
 en: change
-synonyms: []
+synonyms: [omvandling, omställning]
 antonyms: []
 family: [ändra]
 topics: [topic-arbete-och-jobb]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # förändring — substantiv (en)
 
 📖 中文：变化 · English: change
+
+🇸🇪 Förklaring: det att något blir annorlunda än det var
+
 发音提示：/fœrˈɛndrɪŋ/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ändra]]
-- 同义词:
-- 反义词:
+- 同义词: [[omvandling]] (转变), [[omställning]] (调整)
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

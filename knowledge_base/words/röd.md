@@ -9,7 +9,7 @@ zh: "红色的"
 en: "red"
 synonyms: []
 antonyms: []
-family: []
+family: [rodna, rödhet]
 topics: []
 sentences:
   - sent-du-ser-en-stor-rod-byggnad
@@ -24,6 +24,9 @@ interval: 0
 # röd — adjektiv
 
 📖 中文：红色的 · English: red
+
+🇸🇪 Förklaring: som har samma färg som blod eller mogna jordgubbar
+
 发音提示：röd（单音节，ö 圆唇）。
 
 ## 语法变形 (Forms)

@@ -6,10 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "电梯"
 en: "elevator; lift"
-synonyms: []
-antonyms:
-  - trappa
-family: []
+synonyms: [lift]
+antonyms: [trappa]
+family: [hissa, hisschakt, hissknapp]
 topics:
   - topic-hemmet
   - topic-stadsmiljo
@@ -26,6 +25,9 @@ interval: 0
 # hiss — substantiv en
 
 📖 中文：电梯 · English: elevator; lift
+
+🇸🇪 Förklaring: liten hytt som åker upp och ner mellan våningarna i ett hus
+
 发音提示：/HISS/（短i）
 
 ## 语法变形 (Forms)
@@ -51,5 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: trappa（楼梯）
+- 词族: [[hissa]] (升起；吊起), [[hisschakt]] (电梯井), [[hissknapp]] (电梯按钮)
+- 同义词: [[lift]] (升降机)
+- 反义词: [[trappa]]（楼梯）
 - 主题: [[topic-hemmet]] · [[topic-stadsmiljo]]

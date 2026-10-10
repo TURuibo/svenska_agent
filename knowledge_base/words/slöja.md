@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 头巾、面纱
 en: veil, headscarf
-synonyms: []
+synonyms: [huvudduk]
 antonyms: []
-family: []
+family: [brudslöja, beslöjad]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # slöja — substantiv (en)
 
 📖 中文：头巾、面纱 · English: veil, headscarf
+
+🇸🇪 Förklaring: tygstycke som täcker huvudet och ibland ansiktet, t.ex. av religiösa skäl eller vid ett bröllop
+
 发音提示：/ˈslœːja/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[brudslöja]] (新娘面纱), [[beslöjad]] (蒙着面纱的)
+- 同义词: [[huvudduk]] (头巾)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

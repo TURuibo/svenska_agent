@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 照明良好的
 en: well-lit, well-illuminated
-synonyms: []
-antonyms: []
-family: ["lysa", "belysning"]
+synonyms: [ljus, upplyst]
+antonyms: [mörk, dåligt-belyst]
+family: [lysa, belysning]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # välbelyst — adjektiv
 
 📖 中文：照明良好的 · English: well-lit, well-illuminated
+
+🇸🇪 Förklaring: som har mycket och bra ljus så att man ser tydligt
+
 发音提示：VÄL-be-lyst
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lysa]], [[belysning]]
+- 同义词: [[ljus]] (明亮的), [[upplyst]] (照亮的)
+- 反义词: [[mörk]] (黑暗的), [[dåligt-belyst|dåligt belyst]] (照明差的)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

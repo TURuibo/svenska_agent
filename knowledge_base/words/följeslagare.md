@@ -6,9 +6,9 @@ genus: en
 cefr: "B1"
 zh: "伙伴；随从；同伴"
 en: "companion; follower; sidekick"
-synonyms: ["kamrat", "kompis"]
+synonyms: [kamrat, kompis]
 antonyms: []
-family: ["följa", "följa med"]
+family: [följa, följa-med]
 topics: ["topic-litteratur-och-kultur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # följeslagare — substantiv
 
 📖 中文：伙伴；随从；同伴 · English: companion; follower; sidekick
+
+🇸🇪 Förklaring: person eller djur som är med någon överallt och håller honom eller henne sällskap
+
 发音提示：/ˈfœlɛˌslɑːɡarɛ/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[följa]] (follow), följa med (accompany)
+- 词族: [[följa]] (follow), [[följa-med|följa med]] (accompany)
 - 同义词: [[kamrat]] (comrade), [[kompis]] (friend/buddy) — mer vardagliga
+- 反义词: —
 - 主题: [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

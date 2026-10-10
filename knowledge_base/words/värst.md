@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: "最糟的；最严重的"
 en: "worst"
-synonyms: ["sämst"]
-antonyms: ["bäst"]
-family: ["värre", "illa", "ond"]
+synonyms: [sämst]
+antonyms: [bäst]
+family: [värre, illa, ond]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-06"
 # värst — adjektiv / adverb (superlativ)
 
 📖 中文：最糟的、最严重的 · English: worst
+
+🇸🇪 Förklaring: som är det sämsta eller allvarligaste av alla
+
 发音提示：/vɛʂt/
 
 ## 语法变形 (Forms)
@@ -40,9 +43,9 @@ created: "2026-10-06"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[värre]]（更糟）, [[illa]], [[ond]]
 - 同义词: [[sämst]]
 - 反义词: [[bäst]]
-- 词族: värre（更糟）
 
 ## 用法提示 (Usage Notes)
 

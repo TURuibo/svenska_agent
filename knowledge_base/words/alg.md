@@ -9,7 +9,7 @@ zh: 藻类
 en: alga, algae
 synonyms: []
 antonyms: []
-family: ["algblomning"]
+family: [algblomning]
 topics: ["topic-miljö-och-klimat"]
 sentences:
   - sent-nu-blommar-algerna-i-nastan-hela
@@ -27,6 +27,9 @@ interval: 0
 # alg — substantiv
 
 📖 中文：藻类 · English: alga, algae
+
+🇸🇪 Förklaring: mycket enkel växt som lever i vatten, till exempel i havet eller i sjöar
+
 发音提示：ALG
 
 ## 语法变形 (Forms)
@@ -55,7 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: algblomning (藻华)
+- 词族: [[algblomning]] (藻华)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

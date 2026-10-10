@@ -6,7 +6,7 @@ genus: "en"
 cefr: "A2"
 zh: "极光"
 en: "northern lights (aurora borealis)"
-synonyms: []
+synonyms: [polarsken]
 antonyms: []
 family: [norr]
 topics: [topic-himmel-och-norrsken]
@@ -18,6 +18,10 @@ created: "2026-10-03"
 # norrsken — substantiv
 
 📖 中文：极光 · English: northern lights (aurora borealis)
+
+🇸🇪 Förklaring: grönt eller färgat ljus som syns på natthimlen nära polerna
+
+发音提示：/ˈnɔʂːˌeːn/ — rrsk 合成 ʂ；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -32,5 +36,7 @@ created: "2026-10-03"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[norr]]
+- 同义词: [[polarsken]] (极光)
+- 反义词: —
 - 主题: [[topic-himmel-och-norrsken]]
 - 来源: [[source-2026-10-03-norrsken]]

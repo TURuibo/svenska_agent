@@ -9,7 +9,7 @@ zh: "速度；车速"
 en: "speed; velocity"
 synonyms: [fart]
 antonyms: []
-family: [snabb]
+family: [snabb, hastig, hastighetsbegränsning]
 topics: [topic-trafik-säkerhet]
 sentences: [sent-dessutom-får-hastigheten-i-centrum-vara-högst]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # hastighet — substantiv (en)
 
 📖 中文：速度；车速 · English: speed; velocity
+
+🇸🇪 Förklaring: hur snabbt något rör sig, till exempel hur många kilometer en bil kör på en timme
+
 发音提示：HAS-tig-het，`-het` 是名词后缀（同 `oklarhet`）。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[snabb]]（快的）、`hastig`（匆忙的）、`hastighetsbegränsning`
+- 词族: [[snabb]]（快的）, [[hastig]]（匆忙的）, [[hastighetsbegränsning]]
 - 同义词: [[fart]]（速度、劲头；口语、更常用）
 - 反义词: —
 - 主题: [[topic-trafik-säkerhet]]

@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "有条理的"
 en: "structured"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [noggrann, organiserad]
+antonyms: [ostrukturerad]
+family: [struktur, strukturera]
 topics: ["topic-karaktarsord", "topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # strukturerad — adjektiv
 
 📖 中文：有条理的 · English: structured
+
+🇸🇪 Förklaring: som är ordnad på ett tydligt och logiskt sätt; som planerar och arbetar ordentligt
+
 发音提示：struk-TUH-reh-rad
 
 ## 语法变形 (Forms)

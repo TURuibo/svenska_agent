@@ -9,7 +9,7 @@ zh: "羊毛"
 en: "wool"
 synonyms: []
 antonyms: []
-family: [underställ]
+family: [underställ, ullstrumpor, ulltröja]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ull — substantiv
 
 📖 中文：羊毛 · English: wool
+
+🇸🇪 Förklaring: mjukt hår från får som man gör garn och kläder av
+
 发音提示：/ɵlː/ — 短 u + 长 l，像英语 "wool" 去掉 w
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[underställ]] (保暖内衣), ullstrumpor (羊毛袜), ulltröja (羊毛衫)
+- 词族: [[underställ]] (保暖内衣), [[ullstrumpor]] (羊毛袜), [[ulltröja]] (羊毛衫)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

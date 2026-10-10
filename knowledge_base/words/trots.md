@@ -5,9 +5,9 @@ ordklass: preposition
 cefr: B1
 zh: 尽管
 en: despite, in spite of
-synonyms: []
-antonyms: []
-family: [trots_att]
+synonyms: [oaktat]
+antonyms: [på-grund-av]
+family: [trots_att, trotsa, trotsålder]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # trots — preposition
 
 📖 中文：尽管 · English: despite, in spite of
+
+🇸🇪 Förklaring: används för att visa att något händer fast något annat talar emot det
+
 发音提示：/trɔts/；单音节，结尾 `-ts` 一起读。
 
 ## 语法变形 (Forms)
@@ -40,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[trots_att]]（连词：尽管……）, trotsa（动词：违抗、顶住）, trotsålder（「叛逆期」）
-- 同义词: —
-- 反义词: —
+- 词族: [[trots_att]]（连词：尽管……）, [[trotsa]]（动词：违抗、顶住）, [[trotsålder]]（「叛逆期」）
+- 同义词: [[oaktat]] (尽管(书面))
+- 反义词: [[på-grund-av|på grund av]] (由于)
 - 主题:
 
 ## 用法提示 (Usage Notes)

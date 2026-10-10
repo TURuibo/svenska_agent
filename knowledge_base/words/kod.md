@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "码；代码；密码"
 en: "code"
-synonyms: []
+synonyms: [lösenord]
 antonyms: []
-family: []
+family: [koda, pinkod, portkod]
 topics: ["topic-betalning"]
 sentences:
   - "sent-absolut-jag-fixar-koden"
@@ -24,6 +24,9 @@ interval: 0
 # kod — substantiv (en)
 
 📖 中文：码；代码；密码 · English: code
+
+🇸🇪 Förklaring: 1) hemlig kombination av siffror eller bokstäver, t.ex. för att öppna en dörr; 2) text med instruktioner som styr ett datorprogram
+
 发音提示：/kuːd/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[koda]] (编码), [[pinkod]] (PIN码), [[portkod]] (门禁密码)
+- 同义词: [[lösenord]] (密码)
+- 反义词: —
 - 主题: [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "紧张的"
 en: "nervous"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [stressig]
+antonyms: [lugn]
+family: [nerv, nervositet]
 topics: ["topic-karaktarsord"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # nervös — adjektiv
 
 📖 中文：紧张的 · English: nervous
+
+🇸🇪 Förklaring: som känner oro eller spänning inför något som ska hända
+
 发音提示：ner-VÖS
 
 ## 语法变形 (Forms)

@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "虚弱的/弱的"
 en: "weak, feeble"
-synonyms: []
-antonyms: ["stark"]
-family: []
+synonyms: [kraftlös, matt]
+antonyms: [stark]
+family: [svaghet, försvaga]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # svag — adjektiv
 
 📖 中文：虚弱的/弱的 · English: weak, feeble
+
+🇸🇪 Förklaring: som inte har mycket kraft eller styrka
+
 发音提示：/svaːɡ/ — "svaag"
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[svaghet]] (弱点), [[försvaga]] (削弱)
+- 同义词: [[kraftlös]] (无力的), [[matt]] (虚弱的)
 - 反义词: [[stark]]
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 

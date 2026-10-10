@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 监督；掌握（口语）
 en: control, check (colloquial)
-synonyms: []
+synonyms: [kontroll, överblick]
 antonyms: []
-family: []
+family: [kolla]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # koll — substantiv (en-ord, 口语)
 
 📖 中文：盯着、掌握情况 · English: an eye on, track (colloquial)
+
+🇸🇪 Förklaring: kunskap om hur något ligger till, eller kontroll över något (vardagligt)
+
+发音提示：/kɔlː/ — o 读短音 ɔ；ll 长
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kolla（检查、看看）
-- 同义词:
-- 反义词:
+- 词族: [[kolla]]（检查、看看）
+- 同义词: [[kontroll]] (控制), [[överblick]] (全局了解)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

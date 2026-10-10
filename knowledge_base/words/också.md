@@ -7,8 +7,8 @@ genus: ""
 cefr: "A1"
 zh: "也"
 en: "also, too"
-synonyms: []
-antonyms: []
+synonyms: [även]
+antonyms: [inte-heller]
 family: []
 topics: [topic-förskola-vardag]
 sentences: [sent-vi-skickar-en-bild-i-appen]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # också — adverb
 
 📖 中文：也 · English: also, too
+
+🇸🇪 Förklaring: används för att lägga till något som gäller på samma sätt som det man redan har sagt
+
 发音提示：/ˈɔkˌsoː/，读作 "OCK-så"，两个音节，å 长音；口语常弱读成 "åxå"。
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: *även*（更书面）
+- 词族: —
+- 同义词: [[även]]（更书面）
+- 反义词: [[inte-heller|inte heller]] (也不)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

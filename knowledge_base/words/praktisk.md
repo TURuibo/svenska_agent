@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "实用的"
 en: "practical"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [användbar]
+antonyms: [teoretisk]
+family: [praktik, praktikant]
 topics: ["topic-karaktarsord", "topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # praktisk — adjektiv
 
 📖 中文：实用的 · English: practical
+
+🇸🇪 Förklaring: som är lätt och bra att använda; som handlar om att göra saker i verkligheten och inte bara i teorin
+
 发音提示：PRAK-tisk
 
 ## 语法变形 (Forms)

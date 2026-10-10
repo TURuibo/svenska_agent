@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "比赛，竞赛"
 en: "match, game"
-synonyms: []
+synonyms: [tävling, kamp]
 antonyms: []
-family: ["matcha"]
+family: [matcha]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # match — substantiv (en)
 
 📖 中文：比赛，竞赛 · English: match, game
+
+🇸🇪 Förklaring: tävling mellan två lag eller två spelare, till exempel i fotboll eller tennis
+
 发音提示：[matʃ]
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: matcha (匹配，与...比赛)
+- 词族: [[matcha]] (匹配，与...比赛)
+- 同义词: [[tävling]] (比赛), [[kamp]] (较量)
+- 反义词: —
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

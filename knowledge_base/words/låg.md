@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "低的"
 en: "low"
-synonyms: []
+synonyms: [ringa]
 antonyms: [hög]
-family: ["lägga", "läge"]
+family: [lägga, läge]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # låg — adjektiv
 
 📖 中文：低的 · English: low
+
+🇸🇪 Förklaring: som inte når långt upp från marken, eller som har ett litet värde eller en liten mängd
+
 发音提示：/loːɡ/
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: lägga (放/放置), läge (位置)
-- 同义词: —
+- 词族: [[lägga]] (放/放置), [[läge]] (位置)
+- 同义词: [[ringa]] (微少的)
 - 反义词: [[hög]]
 - 主题: [[topic-hemmet]]
 

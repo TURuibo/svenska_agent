@@ -7,8 +7,8 @@ genus: "en"
 cefr: "A2"
 zh: "老太太；(gumman) 对小女孩的昵称「宝贝」"
 en: "old woman; (gumman) sweetie (to a little girl)"
-synonyms: []
-antonyms: []
+synonyms: [tant, käring]
+antonyms: [gubbe]
 family: []
 topics: [topic-förskola-vardag, topic-familj-och-barn]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # gumma — substantiv (en)
 
 📖 中文：老太太；(gumman) 对小女孩的昵称「宝贝」 · English: old woman; (gumman) sweetie (to a little girl)
+
+🇸🇪 Förklaring: 1) gammal kvinna; 2) i formen gumman: kärleksfullt tilltal till en liten flicka
+
 发音提示：/ˈɡɵmːa/ — u 短促读 [ɵ]，mm 长辅音。
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: —
-- 反义词: —
+- 同义词: [[tant]] (大妈), [[käring]] (老太婆（贬）)
+- 反义词: [[gubbe]] (老头)
 - 主题: [[topic-förskola-vardag]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

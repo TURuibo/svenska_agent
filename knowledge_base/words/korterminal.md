@@ -6,9 +6,9 @@ genus: en
 cefr: "A2"
 zh: "刷卡机；读卡器；POS机"
 en: "card terminal; card reader; POS terminal"
-synonyms: []
+synonyms: [betalterminal, kortläsare]
 antonyms: []
-family: []
+family: [kort, terminal]
 topics: [topic-kafe-fika, topic-betalning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # korterminal — substantiv
 
 📖 中文：刷卡机；读卡器；POS机 · English: card terminal; card reader
+
+🇸🇪 Förklaring: liten apparat vid kassan som läser av bankkortet när man betalar
+
 发音提示：KOR-ter-mi-nal（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kort]], [[terminal]]
+- 同义词: [[betalterminal]] (支付终端), [[kortläsare]] (读卡器)
+- 反义词: —
 - 主题: [[topic-betalning]], [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

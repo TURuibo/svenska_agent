@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: B1
 zh: 有斑点的
 en: spotted, dotted
-synonyms: []
-antonyms: []
+synonyms: [fläckig, spräcklig]
+antonyms: [enfärgad]
 family: [prick]
 topics: []
 sentences: [sent-den-är-liten-och-har-prickig-päls]
@@ -17,6 +17,9 @@ created: 2026-10-05
 # prickig — adjektiv
 
 📖 中文：有斑点的 · English: spotted, dotted
+
+🇸🇪 Förklaring: som har många små runda fläckar eller punkter
+
 发音提示：[ˈprɪkːɪg]
 
 ## 语法变形 (Forms)
@@ -38,7 +41,9 @@ created: 2026-10-05
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: prick（点）
+- 词族: [[prick]]（点）
+- 同义词: [[fläckig]] (有斑的), [[spräcklig]] (斑驳的)
+- 反义词: [[enfärgad]] (单色的)
 
 ## 用法提示 (Usage Notes)
 

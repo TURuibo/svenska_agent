@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "薄的；细的；瘦的"
 en: "thin; slim; fine"
-synonyms: ["smal"]
-antonyms: ["tjock"]
-family: ["tunnhet"]
+synonyms: [smal]
+antonyms: [tjock]
+family: [tunnhet]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tunn — adjektiv
 
 📖 中文：薄的；细的；瘦的 · English: thin; slim; fine
+
+🇸🇪 Förklaring: som har litet avstånd mellan två sidor; som inte är tjock eller kraftig
+
 发音提示：/tɵnː/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tunnhet
+- 词族: [[tunnhet]]
 - 同义词: [[smal]] (窄的/瘦的)
 - 反义词: [[tjock]] (厚的/胖的)
 - 主题: [[topic-karaktarsord]]

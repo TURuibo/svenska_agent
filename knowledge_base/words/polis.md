@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A1"
 zh: "警察；警察局"
 en: "police / police officer"
-synonyms: []
+synonyms: [polisman, konstapel, snut]
 antonyms: []
 family: [polisstation, polisanmälan, polischef]
 topics:
@@ -26,6 +26,9 @@ interval: 0
 # polis — substantiv (en)
 
 📖 中文：警察；警察局 · English: police / police officer
+
+🇸🇪 Förklaring: 1) person som arbetar med att skydda människor och se till att lagen följs; 2) myndighet som har den uppgiften
+
 发音提示：po-LIS；两音节，重音在末音节。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[polisstation]] (en, 警察局), [[polisanmälan]] (en, 警方报案), [[polischef]] (en, 警察局长)
-- 同义词: —
+- 同义词: [[polisman]] (警察（人）), [[konstapel]] (警员), [[snut]] (条子（俚语）)
 - 反义词: —
 - 主题: [[topic-vardagsrutin]], [[topic-stadsmiljo]]
 

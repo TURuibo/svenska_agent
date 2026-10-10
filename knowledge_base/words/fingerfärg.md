@@ -19,6 +19,9 @@ created: 2026-09-26
 # fingerfärg — substantiv (en)
 
 📖 中文：手指颜料 · English: finger paint
+
+🇸🇪 Förklaring: tjock färg som barn målar med direkt med händerna
+
 发音提示：/ˈfɪŋːərˌfærj/ — 复合词 finger + färg，重音在 finger，-rg 读 [rj]。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: 2026-09-26
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[måla]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

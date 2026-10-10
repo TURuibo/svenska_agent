@@ -6,12 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "渴望；向往；思念"
 en: "longing; yearning"
-synonyms:
-  - saknad
+synonyms: [saknad]
 antonyms: []
-family:
-  - längta
-  - längtansfullt
+family: [längta, längtansfullt]
 topics:
   - topic-film
   - topic-litteratur-och-kultur
@@ -28,6 +25,9 @@ interval: 0
 # längtan — substantiv en
 
 📖 中文：渴望；向往；思念 · English: longing; yearning
+
+🇸🇪 Förklaring: stark känsla av att vilja ha något eller vara någonstans
+
 发音提示：/LÄNG-tan/
 
 ## 语法变形 (Forms)
@@ -52,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: längta（动词：渴望/思念）
-- 同义词: saknad（思念，更侧重"想念某人"）
+- 词族: [[längta]]（动词：渴望/思念）, [[längtansfullt]]
+- 同义词: [[saknad]]（思念，更侧重"想念某人"）
+- 反义词: —
 - 主题: [[topic-film]] · [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

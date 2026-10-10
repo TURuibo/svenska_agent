@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 教师/老师
 en: teacher
-synonyms: []
-antonyms: []
-family: [klasslärare, lära, lärdom]
+synonyms: [pedagog, fröken]
+antonyms: [elev]
+family: [klasslärare, lärdom, lära]
 topics: [topic-skola-och-utbildning, topic-arbete-och-jobb]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lärare — substantiv (en-ord)
 
 📖 中文：教师/老师 · English: teacher
+
+🇸🇪 Förklaring: person som undervisar elever, t.ex. i en skola
+
 发音提示：[ˈlæːrarə] — 重音在第一音节，注意两个 r
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[klasslärare]], [[lärdom]]
+- 词族: [[klasslärare]], [[lärdom]], [[lära]]
+- 同义词: [[pedagog]] (教育者), [[fröken]] (老师（口语）)
+- 反义词: [[elev]] (学生)
 - 主题: [[topic-skola-och-utbildning]], [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

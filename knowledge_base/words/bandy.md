@@ -9,7 +9,7 @@ zh: "班迪球（冰上曲棍球的一种，用球而非冰球）"
 en: "bandy"
 synonyms: []
 antonyms: []
-family: []
+family: [bandyklubba, bandyplan]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # bandy — substantiv (en)
 
 📖 中文：班迪球（冰上曲棍球的一种） · English: bandy
+
+🇸🇪 Förklaring: lagsport på is där man spelar med klubbor och en liten röd boll
+
 发音提示：/ˈbandy/（重音在第一音节；结尾 y 读瑞典语的 y）
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[bandyklubba]] (班迪球棒), [[bandyplan]] (班迪球场)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: "B1"
 zh: "决定"
 en: "to determine"
-synonyms: []
+synonyms: [bestämma, fastställa]
 antonyms: []
-family: []
+family: [avgörande, göra, avgjord]
 topics: ["topic-geografi-samhalle"]
 sentences: ["sent-framst-ar-det-lagre-bostadspriser-och-narhet"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # avgöra — verb
 
 📖 中文：决定 · English: to determine
-发音提示：
+
+🇸🇪 Förklaring: bestämma hur något ska bli; vara det som gör att något blir på ett visst sätt
+
+发音提示：/ˈɑːvˌjœːra/ — 重音在 av，g 在 ö 前读 j
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[avgörande]] (决定性的), [[göra]] (做), [[avgjord]] (已决定的)
+- 同义词: [[bestämma]] (决定), [[fastställa]] (确定)
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

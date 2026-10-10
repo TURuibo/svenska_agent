@@ -6,9 +6,9 @@ genus: "en"
 cefr: A1
 zh: 旅行
 en: trip, journey
-synonyms: []
+synonyms: [färd, tripp]
 antonyms: []
-family: [resenär]
+family: [resa, resenär]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # resa — substantiv (en)
 
 📖 中文：旅行 · English: trip, journey
+
+🇸🇪 Förklaring: det att man åker till en annan plats, ofta långt bort och under en längre tid
+
+发音提示：/ˈreːsa/ — e 读长音；s 不浊化
 
 > 同形异义：动词 [[resa]]（立起；旅行）。本笔记是名词 `en resa`。
 
@@ -43,9 +47,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: resa (verb), resenär
-- 同义词:
-- 反义词:
+- 词族: [[resa]] (verb), [[resenär]]
+- 同义词: [[färd]] (行程), [[tripp]] (短途旅行)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

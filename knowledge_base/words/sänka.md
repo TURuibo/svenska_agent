@@ -23,6 +23,9 @@ interval: 0
 # sänka — verb (grupp 2)
 
 📖 中文：降低；调低；沉没（及物） · English: to lower; to reduce; to sink
+
+🇸🇪 Förklaring: göra något lägre eller mindre; få ett fartyg att gå ner under vattnet
+
 发音提示：SÄNK-a
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sänkning]]（降低；贬低）, [[sjunka]]（下沉，不及物）
-- 同义词: minska, reducera
-- 反义词: [[höja]]（升高）
+- 同义词: [[minska]], [[reducera]]
+- 反义词: [[höja]]（升高）, [[öka]]
 
 ## 用法提示 (Usage Notes)
 

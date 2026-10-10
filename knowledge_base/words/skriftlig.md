@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 书面的
 en: written
-synonyms: []
-antonyms: []
-family: []
+synonyms: [nedskriven]
+antonyms: [muntlig]
+family: [skrift, skriva, skriftspråk]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-ni-ska-också-lämna-in]
 source: source-2026-10-09-komvux-kursstart
@@ -18,6 +18,10 @@ created: "2026-10-09"
 # skriftlig — adjektiv
 
 📖 中文：书面的 · English: written
+
+🇸🇪 Förklaring: som görs eller finns i form av text och inte bara sägs med ord
+
+发音提示：/ˈskrɪftlɪɡ/ — 重音在第一音节；-lig 的 g 常轻读
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[skrift]] (文字), [[skriva]] (写), [[skriftspråk]] (书面语)
+- 同义词: [[nedskriven]] (写下来的)
+- 反义词: [[muntlig]] (口头的)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

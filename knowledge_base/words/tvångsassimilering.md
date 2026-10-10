@@ -8,9 +8,7 @@ zh: "强制同化"
 en: "forced assimilation"
 synonyms: []
 antonyms: []
-family:
-  - tvång
-  - assimilering
+family: [tvång, assimilering]
 topics:
   - topic-litteratur-och-kultur
   - topic-samhälle-och-politik
@@ -27,6 +25,9 @@ interval: 0
 # tvångsassimilering — substantiv en
 
 📖 中文：强制同化 · English: forced assimilation
+
+🇸🇪 Förklaring: politik där en minoritet mot sin vilja måste ge upp sitt språk och sin kultur och bli som majoriteten
+
 发音提示：/TVONGS-as-si-mi-LE-ring/
 
 ## 语法变形 (Forms)
@@ -49,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tvång（强制）· assimilering（同化）
+- 词族: [[tvång]]（强制）· assimilering（同化）, [[assimilering]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-litteratur-och-kultur]] · [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

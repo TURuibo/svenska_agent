@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "身体的"
 en: "physical"
-synonyms: []
-antonyms: ["psykisk"]
-family: []
+synonyms: [kroppslig]
+antonyms: [psykisk]
+family: [fysik, fysioterapeut]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # fysisk — adjektiv
 
 📖 中文：身体的 · English: physical
+
+🇸🇪 Förklaring: som har med kroppen eller den materiella världen att göra
+
+发音提示：/ˈfyːsɪsk/ — y 读长音，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -40,8 +44,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
+- 词族: [[fysik]] (物理), [[fysioterapeut]] (理疗师)
+- 同义词: [[kroppslig]] (身体的)
 - 反义词: [[psykisk]]
 - 主题: [[topic-sociala-normer]]
 

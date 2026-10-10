@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 竞争
 en: competition
-synonyms: []
+synonyms: [tävlan, rivalitet]
 antonyms: [samarbete]
-family: []
+family: [konkurrera, konkurrent, konkurrenskraftig]
 topics: [topic-arbete-och-jobb]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # konkurrens — substantiv (en)
 
 📖 中文：竞争 · English: competition
+
+🇸🇪 Förklaring: när flera personer eller företag tävlar om samma sak, t.ex. kunder eller jobb
+
 发音提示：/kɔŋkʉˈrɛns/
 
 ## 语法变形 (Forms)
@@ -39,8 +42,8 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
+- 词族: [[konkurrera]] (竞争), [[konkurrent]] (竞争者), [[konkurrenskraftig]] (有竞争力的)
+- 同义词: [[tävlan]] (竞赛), [[rivalitet]] (竞争对抗)
 - 反义词: [[samarbete]]
 - 主题: [[topic-arbete-och-jobb]]
 

@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: 夏至
 en: summer solstice
-synonyms: []
-antonyms: ["vintersolstånd"]
-family: ["sol", "sommar"]
+synonyms: [årets-längsta-dag]
+antonyms: [vintersolstånd]
+family: [sol, sommar]
 topics: ["topic-midsommar-traditioner", "topic-vader-och-arstider"]
 sentences:
   - sent-da-ar-det-nara-sommarsolstandet
@@ -24,6 +24,9 @@ interval: 0
 # sommarsolstånd — substantiv (ett)
 
 📖 中文：夏至 · English: summer solstice
+
+🇸🇪 Förklaring: den dag på året när det är ljust längst, omkring den 21 juni på norra halvklotet
+
 发音提示：SOM-mar-sol-stånd（四音节）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sol]], [[sommar]]
+- 同义词: [[årets-längsta-dag|årets längsta dag]] (白昼最长日)
 - 反义词: [[vintersolstånd]]
 - 主题: [[topic-midsommar-traditioner]], [[topic-vader-och-arstider]]
 

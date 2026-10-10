@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "合法的"
 en: "legal"
-synonyms: []
-antonyms: ["olaglig"]
-family: []
+synonyms: [tillåten, legal]
+antonyms: [olaglig]
+family: [lag, lagstiftning, lagbrott]
 topics: ["topic-trafik-säkerhet"]
 sentences: ["sent-elsparkcyklarna-blir-allt-vanligare-sverige", "sent-elsparkcykel-går-fortare-än-20", "sent-föräldrar-ansvar-se-barnen-kör"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # laglig — adjektiv
 
 📖 中文：合法的 · English: legal
+
+🇸🇪 Förklaring: som är tillåten enligt landets regler
+
 发音提示：LAG-lig；重音在第一音节
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: olaglig（非法的）
+- 词族: [[lag]] (法律), [[lagstiftning]] (立法), [[lagbrott]] (违法行为)
+- 同义词: [[tillåten]] (允许的), [[legal]] (合法的)
+- 反义词: [[olaglig]]（非法的）
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

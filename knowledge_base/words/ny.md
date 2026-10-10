@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "新的"
 en: "new"
-synonyms: []
-antonyms: ["gammal", "gammal"]
-family: ["nyhet", "nyheter", "nyligen"]
+synonyms: [färsk, oanvänd]
+antonyms: [gammal]
+family: [nyhet, nyheter, nyligen]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ny — adjektiv
 
 📖 中文：新的 · English: new
+
+🇸🇪 Förklaring: som har funnits bara en kort tid eller inte har använts förut
+
 发音提示：/nyː/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: nyhet (新闻/新鲜事), nyheter (新闻节目), nyligen (最近)
+- 词族: [[nyhet]] (新闻/新鲜事), [[nyheter]] (新闻节目), [[nyligen]] (最近)
+- 同义词: [[färsk]] (新鲜的), [[oanvänd]] (未用过的)
 - 反义词: [[gammal]] (旧的/老的)
 - 主题:
 

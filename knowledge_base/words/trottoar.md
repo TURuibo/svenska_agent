@@ -26,6 +26,9 @@ interval: 0
 # trottoar — substantiv (en)
 
 📖 中文：人行道 · English: pavement / sidewalk
+
+🇸🇪 Förklaring: upphöjd del vid sidan av gatan där man går
+
 发音提示：tro-to-AR；三音节，重音在末音节。
 
 ## 语法变形 (Forms)

@@ -7,8 +7,8 @@ genus: ""
 cefr: "A1"
 zh: "找到；发现"
 en: "to find / discover"
-synonyms: []
-antonyms: []
+synonyms: [finna, lokalisera]
+antonyms: [tappa, förlora]
 family: [hittelön, hittegods]
 topics:
   - topic-vardagsrutin
@@ -25,6 +25,9 @@ interval: 0
 # hitta — verb (grupp 1)
 
 📖 中文：找到；发现 · English: to find / discover
+
+🇸🇪 Förklaring: upptäcka något som man har letat efter eller som man inte visste fanns
+
 发音提示：HIT-ta；两音节，重音在首音节。
 
 ## 语法变形 (Forms)

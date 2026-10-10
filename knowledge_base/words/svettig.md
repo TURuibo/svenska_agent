@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "出汗的；汗津津的"
 en: "sweaty"
 synonyms: []
-antonyms: []
+antonyms: [torr]
 family: [svett, svettas]
 topics: [topic-kropp]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # svettig — adjektiv
 
 📖 中文：出汗的；汗津津的 · English: sweaty
+
+🇸🇪 Förklaring: som har fuktig hud efter hårt arbete, träning eller värme
+
 发音提示：/ˈsvɛtːɪg/；词尾 -ig 读 /ɪ/。
 
 ## 语法变形 (Forms)

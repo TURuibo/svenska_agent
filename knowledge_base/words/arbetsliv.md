@@ -7,8 +7,8 @@ genus: ett
 cefr: B1
 zh: 职场生活
 en: working life
-synonyms: []
-antonyms: []
+synonyms: [yrkesliv]
+antonyms: [privatliv]
 family: [arbeta, arbete]
 topics: [topic-arbete-och-jobb, topic-skatt-och-deklaration]
 sentences: [sent-det-innebär-en-rätt-att-inte-uteslutas-från]
@@ -19,6 +19,9 @@ created: 2026-10-02
 # arbetsliv — substantiv (ett)
 
 📖 中文：职场生活 · English: working life
+
+🇸🇪 Förklaring: den del av livet som handlar om jobb och yrke
+
 发音提示：[ˈarːbeːtsˌliːv]
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: 2026-10-02
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[arbeta]], [[arbete]]
+- 同义词: [[yrkesliv]] (职业生涯)
+- 反义词: [[privatliv]] (私生活)
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

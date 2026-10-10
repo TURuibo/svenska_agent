@@ -6,9 +6,9 @@ genus: ""
 cefr: "A1"
 zh: "有趣的"
 en: "fun"
-synonyms: ["kul"]
-antonyms: ["tråkig"]
-family: []
+synonyms: [kul]
+antonyms: [tråkig]
+family: [roa, roande, rolighet]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # rolig — adjektiv
 
 📖 中文：有趣的 · English: fun
+
+🇸🇪 Förklaring: som får en att skratta eller ha det trevligt
+
 发音提示：/ˈruːlɪɡ/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[roa]] (使开心), [[roande]] (令人愉快的), [[rolighet]] (笑话)
 - 同义词: [[kul]]
 - 反义词: [[tråkig]]
 - 主题: [[topic-personer]], [[topic-karaktarsord]]

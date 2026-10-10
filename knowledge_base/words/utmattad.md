@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: B1
 zh: 精疲力竭的
 en: exhausted
-synonyms: []
-antonyms: []
+synonyms: [trött, slutkörd]
+antonyms: [pigg, energisk]
 family: [utmattning, utmatta]
 topics: [topic-hälsa]
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # utmattad — adjektiv
 
 📖 中文：精疲力竭的 · English: exhausted
+
+🇸🇪 Förklaring: som är extremt trött och inte har någon kraft kvar
+
 发音提示：[ˈʉːtmaˌtad]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[utmattning]]
+- 词族: [[utmattning]], [[utmatta]]
 - 同义词: [[trött]], [[slutkörd]]
 - 反义词: [[pigg]], [[energisk]]
 - 主题: [[topic-hälsa]]

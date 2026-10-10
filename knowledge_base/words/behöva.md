@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: A1
 zh: 需要
 en: to need
-synonyms: []
-antonyms: []
-family: []
+synonyms: [sakna, måste]
+antonyms: [klara-sig-utan]
+family: [behov, behövas, behövande]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # behöva — verb (grupp 2)
 
 📖 中文：需要 · English: to need
+
+🇸🇪 Förklaring: inte klara sig utan något; vara tvungen att göra något
+
 发音提示：/beˈhøːva/
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[behov]] (需要), [[behövas]] (被需要), [[behövande]] (贫困的)
+- 同义词: [[sakna]] (缺少), [[måste]] (必须)
+- 反义词: [[klara-sig-utan|klara sig utan]] (不需要)
 - 主题:
 
 ## 用法提示 (Usage Notes)

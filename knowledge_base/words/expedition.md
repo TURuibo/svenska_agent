@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 办公室；服务窗口（学校/机关）；也指探险队
 en: office (school/administration); expedition
-synonyms: []
+synonyms: [kansli, upptäcktsfärd]
 antonyms: []
-family: []
+family: [expediera]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-om-ni-har-frågor-kan]
 known: false
@@ -18,6 +18,9 @@ created: 2026-10-07
 # expedition — substantiv (en-ord)
 
 📖 中文：办公室；服务窗口 / 探险 · English: office; expedition
+
+🇸🇪 Förklaring: 1) kontor på en skola eller myndighet där man kan få hjälp och lämna papper; 2) resa till ett okänt eller svårt område för att utforska det
+
 发音提示：[ɛkspɛdɪˈɧuːn]
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[expediera]] (办理；寄送)
+- 同义词: [[kansli]] (办公室), [[upptäcktsfärd]] (探险)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

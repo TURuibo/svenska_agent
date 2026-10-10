@@ -6,10 +6,9 @@ genus: en
 cefr: A2
 zh: 秤；（另义）波浪
 en: scale; (also) wave
-synonyms: []
+synonyms: [bölja]
 antonyms: []
-family:
-  - väga
+family: [väga]
 topics:
   - topic-mataffär
 sentences:
@@ -25,6 +24,9 @@ interval: 0
 # våg — substantiv (en)
 
 📖 中文：秤；（另义）波浪 · English: scale; (also) wave
+
+🇸🇪 Förklaring: apparat som man använder för att se hur tungt något är; rörelse i vatten som gör att ytan går upp och ner
+
 发音提示：VOHG（长音 o）
 
 ## 语法变形 (Forms)
@@ -54,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[väga]]（称重）
-- 同义词: —
+- 同义词: [[bölja]] (波浪)
 - 反义词: —
 - 主题: [[topic-mataffär]]
 

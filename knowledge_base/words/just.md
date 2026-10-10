@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "正好；就在；恰恰"
 en: "just / right at that moment / exactly"
-synonyms: []
+synonyms: [precis, exakt]
 antonyms: []
-family: []
+family: [rättvis]
 topics:
   - topic-tid-och-tidsuttryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # just — adverb
 
 📖 中文：正好；就在；恰恰 · English: just / right at that moment / exactly
+
+🇸🇪 Förklaring: används för att betona att det är exakt denna sak, person eller tid och ingen annan; för en mycket kort stund sedan
+
 发音提示：just（单音节）。
 
 ## 语法变形 (Forms)

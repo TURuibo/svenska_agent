@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "突然；猛然"
 en: "suddenly"
-synonyms: []
-antonyms: []
+synonyms: [hastigt, tvärt]
+antonyms: [gradvis, långsamt]
 family: [plötslig]
 topics:
   - topic-tid-och-tidsuttryck
@@ -26,6 +26,9 @@ interval: 0
 # plötsligt — adverb
 
 📖 中文：突然；猛然 · English: suddenly
+
+🇸🇪 Förklaring: mycket snabbt och utan förvarning
+
 发音提示：PLÖTS-ligt；两音节，重音在首音节。
 
 ## 语法变形 (Forms)

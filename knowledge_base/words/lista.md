@@ -7,7 +7,7 @@ genus: en
 cefr: A1
 zh: 名单；清单
 en: list
-synonyms: []
+synonyms: [förteckning]
 antonyms: []
 family: [packlista]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: 2026-09-26
 # lista — substantiv (en)
 
 📖 中文：名单；清单 · English: list
+
+🇸🇪 Förklaring: rad av namn, ord eller saker som är skrivna under varandra
+
 发音提示：/ˈlɪsːta/ — 短 i。
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: 2026-09-26
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[packlista]]
+- 同义词: [[förteckning]] (清单)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

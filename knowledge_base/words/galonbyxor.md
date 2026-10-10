@@ -19,6 +19,9 @@ created: "2026-09-26"
 # galonbyxor — substantiv (en, plural)
 
 📖 中文：防水背带裤；雨裤 · English: waterproof rain trousers
+
+🇸🇪 Förklaring: vattentäta byxor av plastbelagt tyg, ofta med hängslen, som barn har när det regnar
+
 发音提示：/gaˈlɔnːˌbʏksur/ — **galon** 重音在第二音节 -lon（法语借词，PVC 涂层布料），后接 byxor。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[regnkläder]]、[[kläder]]
+- 词族: [[regnkläder]], [[kläder]]
 - 同义词: [[regnkläder]]（上位词：雨衣雨裤统称）
 - 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]]、[[topic-förskola-vardag]]

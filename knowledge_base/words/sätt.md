@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 方式，方法
 en: way, manner, method
-synonyms: []
+synonyms: [metod, vis]
 antonyms: []
-family: sätta
+family: [sätta, uppsättning]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # sätt — substantiv (ett)
 
 📖 中文：方式，方法 · English: way, manner
+
+🇸🇪 Förklaring: hur man gör något; hur någon beter sig
+
 发音提示：/sɛt/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sätta]]（动词，同源）, uppsättning
-- 同义词: metod, vis
-- 反义词:
+- 词族: [[sätta]]（动词，同源）, [[uppsättning]]
+- 同义词: [[metod]], [[vis]]
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

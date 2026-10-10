@@ -6,8 +6,8 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "攻击"
 en: "to attack"
-synonyms: []
-antonyms: []
+synonyms: [anfalla, angripa]
+antonyms: [försvara]
 family: [attack]
 topics: [topic-krig-och-konflikt]
 sentences: []
@@ -22,6 +22,9 @@ interval: 0
 # attackera — verb (grupp 1)
 
 📖 中文：攻击 · English: to attack
+
+🇸🇪 Förklaring: gå till anfall mot någon eller något
+
 发音提示：a-tack-E-ra
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[attack]]（袭击，名词，尚无笔记）
-- 同义词: —
-- 反义词: —
+- 同义词: [[anfalla]] (进攻), [[angripa]] (攻击)
+- 反义词: [[försvara]] (保卫)
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

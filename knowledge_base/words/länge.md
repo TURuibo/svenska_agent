@@ -7,14 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "很久；长时间"
 en: "for a long time; long (duration)"
-synonyms:
-  - längesedan
-antonyms:
-  - kort
-family:
-  - lång
-  - längre
-  - längst
+synonyms: [längesedan]
+antonyms: [kort, snart]
+family: [lång, längre, längst]
 topics:
   - topic-tid-och-tidsuttryck
 sentences:
@@ -30,6 +25,9 @@ interval: 0
 # länge — adverb
 
 📖 中文：很久；长时间 · English: for a long time; long (duration)
+
+🇸🇪 Förklaring: under mycket tid, inte bara ett kort ögonblick
+
 发音提示：[ˈlɛŋe] — 两音节
 
 ## 语法变形 (Forms)
@@ -53,9 +51,9 @@ Adverb — 不变化。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lång]] (长的/高的), `längre` (比较级), `längst` (最高级)
-- 同义词: `längesedan` (很久以前，合写)
-- 反义词: `kort` (短时间), `snart` (很快)
+- 词族: [[lång]] (长的/高的), [[längre]] (比较级), [[längst]] (最高级)
+- 同义词: [[längesedan]] (很久以前，合写)
+- 反义词: [[kort]] (短时间), [[snart]] (很快)
 - 主题: [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

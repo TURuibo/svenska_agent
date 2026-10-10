@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "每年地，年度地"
 en: "annually, yearly"
-synonyms: ["varje år", "per år"]
+synonyms: [varje-år, per-år]
 antonyms: []
-family: ["år", "årlig"]
+family: [år, årlig]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # årligen — adverb
 
 📖 中文：每年地，年度地 · English: annually, yearly
+
+🇸🇪 Förklaring: regelbundet en gång om året
+
 发音提示：[ˈoːrlɪɡɛn]
 
 ## 语法变形 (Forms)
@@ -44,7 +47,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[år]], [[årlig]]
-- 同义词: [[varje år]], [[per år]]
+- 同义词: [[varje-år|varje år]], [[per-år|per år]]
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

@@ -9,7 +9,7 @@ zh: "寡头"
 en: "oligarch"
 synonyms: []
 antonyms: []
-family: []
+family: [oligarki]
 topics: []
 sentences:
   - sent-tre-personer-skadades-en-av
@@ -24,6 +24,9 @@ interval: 0
 # oligark — substantiv
 
 📖 中文：寡头 · English: oligarch
+
+🇸🇪 Förklaring: mycket rik person som har stor makt över ett lands politik och ekonomi
+
 发音提示：o-li-GARK
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[oligarki]] (寡头政治)
+- 同义词: —
+- 反义词: —
 (无)
 
 ## 用法提示 (Usage Notes)

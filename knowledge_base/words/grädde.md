@@ -9,7 +9,7 @@ zh: "奶油；鲜奶油"
 en: "cream"
 synonyms: []
 antonyms: []
-family: []
+family: [vispgrädde, gräddfil, laktosfri]
 topics:
   - topic-mat-dryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # grädde — substantiv (en)
 
 📖 中文：奶油；鲜奶油 · English: cream
+
+🇸🇪 Förklaring: den feta delen av mjölken, som man använder i matlagning och bakning
+
 发音提示：/ˈɡrɛdə/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vispgrädde（打发奶油），gräddfil（酸奶油），laktosfri（无乳糖）
+- 词族: [[vispgrädde]]（打发奶油）, [[gräddfil]]（酸奶油）, [[laktosfri]]（无乳糖）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

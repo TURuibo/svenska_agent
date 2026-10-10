@@ -9,7 +9,7 @@ zh: "膝盖"
 en: "knee"
 synonyms: []
 antonyms: []
-family: []
+family: [knäböja, knäskål]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # knä — substantiv (ett-ord)
 
 📖 中文：膝盖 · English: knee
+
+🇸🇪 Förklaring: led mellan låret och underbenet som gör att benet kan böjas
+
 发音提示：/kneː/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: knäböja (屈膝，深蹲), knäskål (膝盖骨)
+- 词族: [[knäböja]] (屈膝，深蹲), [[knäskål]] (膝盖骨)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-kropp]]

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B2"
 zh: "慈善家，捐助者"
 en: "benefactor, philanthropist"
-synonyms: []
+synonyms: [donator, filantrop]
 antonyms: []
-family: ["välgörenhet", "välgörande"]
+family: [välgörenhet, välgörande]
 topics: ["topic-uppfinning-och-teknik", "topic-personer"]
 sentences:
   - "sent-hans-pengar-skulle-gå-till-ett-stort-pris"
@@ -24,6 +24,9 @@ interval: 0
 # välgörare — substantiv (en)
 
 📖 中文：慈善家，捐助者 · English: benefactor, philanthropist
+
+🇸🇪 Förklaring: person som ger pengar eller hjälp till människor som behöver det
+
 发音提示：/ˈvɛlˌjøːˌrɑːrə/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[välgörenhet]], [[välgörande]]
+- 同义词: [[donator]] (捐赠者), [[filantrop]] (慈善家)
+- 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]], [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

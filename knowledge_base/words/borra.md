@@ -9,7 +9,7 @@ zh: "钻孔"
 en: "drill"
 synonyms: []
 antonyms: []
-family: []
+family: [borr, borrmaskin, borrhål]
 topics: [topic-grannar-boende]
 sentences: [sent-vem-är-det-som-borrar]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # borra — verb
 
 📖 中文：钻孔 · English: drill
+
+🇸🇪 Förklaring: göra ett hål i något med ett verktyg som snurrar
+
 发音提示： "bårr-a"，rullande r
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ Grupp 1 (regelbundet -ar-verb).
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[borr]] (钻头), [[borrmaskin]] (电钻), [[borrhål]] (钻孔)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "白色家电（洗衣机、冰箱、烤箱等大型家用电器）"
 en: "large household appliances; white goods"
-synonyms: []
+synonyms: [hushållsmaskiner]
 antonyms: []
-family: ["vit", "vara"]
+family: [vit, vara]
 topics: ["topic-hemmet"]
 sentences:
   - sent-lagg-inte-dit-farligt-avfall
@@ -24,6 +24,9 @@ interval: 0
 # vitvaror — substantiv (pluralis)
 
 📖 中文：白色家电（洗衣机、冰箱、烤箱等大型家用电器） · English: large household appliances; white goods
+
+🇸🇪 Förklaring: stora elektriska maskiner i hemmet, till exempel kylskåp, spis och tvättmaskin
+
 发音提示：['viːt‧vaːrur]，复数形式
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *vit* (白色) + *vara* (商品)
+- 词族: [[vit]] (白色) + *vara* (商品), [[vara]]
+- 同义词: [[hushållsmaskiner]] (家用电器)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

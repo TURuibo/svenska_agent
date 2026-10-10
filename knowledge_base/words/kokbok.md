@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 食谱书
 en: cookbook
-synonyms: []
+synonyms: [receptbok]
 antonyms: []
-family: []
+family: [koka, bok, kokkonst]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # kokbok — substantiv (en)
 
 📖 中文：食谱书 · English: cookbook
+
+🇸🇪 Förklaring: bok med recept och råd om hur man lagar mat
+
 发音提示：/ˈkuːkˌbuːk/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[koka]] (煮), [[bok]] (书), [[kokkonst]] (烹饪术)
+- 同义词: [[receptbok]] (食谱)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

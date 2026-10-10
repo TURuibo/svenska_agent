@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: 召集通知；邀请函
 en: notice; summons; call
-synonyms: []
+synonyms: [inbjudan, inkallelse]
 antonyms: []
-family: []
+family: [kalla]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-det-ar-nu-dags-for]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kallelse — substantiv (en)
 
 📖 中文：召集通知；邀请函 · English: notice; summons; call
+
+🇸🇪 Förklaring: brev eller meddelande där man blir ombedd att komma till ett möte, en undersökning eller liknande
+
 发音提示：KAL-el-se
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kalla]] (att kalla = 称呼；召集)
-- 同义词: —
+- 同义词: [[inbjudan]] (邀请), [[inkallelse]] (征召)
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 

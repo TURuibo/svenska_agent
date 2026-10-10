@@ -8,7 +8,7 @@ zh: "邻居"
 en: "neighbor"
 synonyms: []
 antonyms: []
-family: []
+family: [grannskap, grannland, grannforum]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # granne — substantiv (en)
 
 📖 中文：邻居 · English: neighbor
+
+🇸🇪 Förklaring: person som bor i huset eller lägenheten bredvid eller nära en
+
 发音提示：/ˈɡranə/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[grannskap]] (邻里), [[grannland]] (邻国), [[grannforum]] (邻里论坛)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

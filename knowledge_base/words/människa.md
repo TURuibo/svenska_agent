@@ -23,6 +23,9 @@ interval: 0
 # människa — substantiv (en-ord)
 
 📖 中文：人；人类（个体） · English: person; human being
+
+🇸🇪 Förklaring: levande varelse som går på två ben och kan tala och tänka, som du och jag
+
 发音提示：MEN-nis-ka；双写 `nn`，重音第一音节，`ä` 发 [ɛ]。
 
 ## 语法变形 (Forms)

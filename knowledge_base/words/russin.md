@@ -9,7 +9,7 @@ zh: "葡萄干"
 en: "raisin"
 synonyms: []
 antonyms: []
-family: ["druva"]
+family: [druva]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # russin — substantiv (ett)
 
 📖 中文：葡萄干 · English: raisin
+
+🇸🇪 Förklaring: liten torkad vindruva som är söt och mörk
+
 发音提示：RUS-sin
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: druva（葡萄，原料）
+- 词族: [[druva]]（葡萄，原料）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

@@ -5,9 +5,9 @@ ordklass: pronomen
 cefr: A1
 zh: 每个、每
 en: every, each
-synonyms: []
-antonyms: []
-family: []
+synonyms: [var]
+antonyms: [ingen]
+family: [var-och-en, varenda]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # varje — pronomen
 
 📖 中文：每个、每 · English: every, each
+
+🇸🇪 Förklaring: används för att tala om alla i en grupp, en i taget
+
 发音提示：/ˈvarjɛ/；VAR-je，`rj` 连读。
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: var och en（每一个）, varenda（每一个，强调）
-- 同义词: —
-- 反义词: ingen（没有一个）
+- 词族: [[var-och-en|var och en]]（每一个）, [[varenda]]（每一个，强调）
+- 同义词: [[var]] (每（个）)
+- 反义词: [[ingen]]（没有一个）
 - 主题:
 
 ## 用法提示 (Usage Notes)

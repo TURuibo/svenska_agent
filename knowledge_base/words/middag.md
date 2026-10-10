@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "晚饭；正餐"
 en: "dinner"
-synonyms: []
+synonyms: [kvällsmat]
 antonyms: []
-family: ["lunch", "frukost"]
+family: [lunch, frukost]
 topics: [topic-mat-dryck, topic-vardagsrutin]
 sentences: [sent-efter-skolan-handlar-jag-mat-och-lagar]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-07"
 # middag — substantiv (en)
 
 📖 中文：晚饭；正餐 · English: dinner
+
+🇸🇪 Förklaring: dagens största måltid, som man oftast äter på kvällen
+
 发音提示：MID-dag
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[lunch]] (午饭), [[frukost]] (早餐)
+- 同义词: [[kvällsmat]] (晚饭)
+- 反义词: —
 - 主题: [[topic-mat-dryck]], [[topic-vardagsrutin]]
 
 ## 用法提示 (Usage Notes)

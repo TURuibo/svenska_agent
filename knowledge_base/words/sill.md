@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "鲱鱼"
 en: "herring"
-synonyms: []
+synonyms: [strömming]
 antonyms: []
-family: []
+family: [sillsallad, matjessill, sillfiske]
 topics: ["topic-mat-dryck", "topic-midsommar-traditioner"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sill — substantiv (en)
 
 📖 中文：鲱鱼 · English: herring
+
+🇸🇪 Förklaring: liten silverfärgad fisk som simmar i stora stim och ofta äts inlagd
+
 发音提示：sill（单音节）
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[sillsallad]] (鲱鱼沙拉), [[matjessill]] (马特斯鲱鱼), [[sillfiske]] (鲱鱼捕捞)
+- 同义词: [[strömming]] (波罗的海鲱鱼)
+- 反义词: —
 - 主题: [[topic-mat-dryck]], [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "最迟；不晚于；（senaste）最近的、最新的"
 en: "at the latest; by (deadline); (senaste) latest, most recent"
-synonyms: []
+synonyms: [sist]
 antonyms: [tidigast]
-family: [sen, sent, sedan]
+family: [sen, sedan, sent]
 topics: []
 sentences: [sent-osa-senast-den-1-augusti]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # senast — adverb
 
 📖 中文：最迟；不晚于；至迟 · English: at the latest; by; no later than
+
+🇸🇪 Förklaring: 1) inte efter en viss tidpunkt; 2) förra gången, närmast före nu; (senaste) som är nyast
+
 发音提示：/ˈseːnast/；se-nast，重音在第一音节，长 e。
 
 ## 变形说明
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sen]] (adj./adv. 晚), [[sedan]] (adv. 然后/之后)
-- 同义词: —
+- 词族: [[sen]] (adj./adv. 晚), [[sedan]] (adv. 然后/之后), [[sent]]
+- 同义词: [[sist]] (上次)
 - 反义词: [[tidigast]] (adv. 最早)
 - 主题: —
 

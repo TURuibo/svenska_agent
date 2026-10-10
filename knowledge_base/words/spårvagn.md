@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "有轨电车"
 en: "tram"
-synonyms: []
+synonyms: [tram]
 antonyms: []
-family: [spår, vagn]
+family: [spår, vagn, spårvagnshållplats]
 topics: [topic-nyheter-vecka22, topic-kollektivtrafik]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # spårvagn — substantiv (en)
 
 📖 中文：有轨电车 · English: tram
+
+🇸🇪 Förklaring: elektriskt fordon för passagerare som går på skenor längs stadens gator
+
 发音提示：SPÅR-vagn，两音节，重音第一音节。
 
 ## 语法变形 (Forms)

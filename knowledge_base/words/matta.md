@@ -9,7 +9,7 @@ zh: "地毯；垫子"
 en: "rug; mat; carpet"
 synonyms: [heltäckningsmatta]
 antonyms: []
-family: [golv, matta]
+family: [golv]
 topics: [topic-mobler, topic-hemmet]
 sentences:
   - sent-pa-golvet-mellan-sangen-skriv-stor-matta
@@ -25,6 +25,9 @@ interval: 0
 # matta — substantiv (en)
 
 📖 中文：地毯；垫子 · English: rug; mat; carpet
+
+🇸🇪 Förklaring: tjockt tyg som man lägger på golvet
+
 发音提示：MAT-ta；两音节，双写 tt.
 
 ## 语法变形 (Forms)

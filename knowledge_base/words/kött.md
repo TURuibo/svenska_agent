@@ -9,7 +9,7 @@ zh: "肉"
 en: "meat"
 synonyms: []
 antonyms: []
-family: []
+family: [nötkött, fläskkött, köttbullar]
 topics: [topic-mat-dryck]
 sentences:
   - sent-det-låter-gott-men-jag-är
@@ -24,6 +24,9 @@ interval: 0
 # kött — substantiv (ett)
 
 📖 中文：肉 · English: meat
+
+🇸🇪 Förklaring: muskler från djur som man äter som mat
+
 发音提示：chött (ch = Swedish tj-sound)
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: nötkött (牛肉), fläskkött (猪肉), köttbullar (肉丸)
+- 词族: [[nötkött]] (牛肉), [[fläskkött]] (猪肉), [[köttbullar]] (肉丸)
+- 同义词: —
+- 反义词: —
 - 相关词: [[köttbulle]], [[fläskfilé]], [[kyckling]]
 - 主题: [[topic-mat-dryck]]
 

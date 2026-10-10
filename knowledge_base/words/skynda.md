@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "赶快；急忙"
 en: "to hurry"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [hasta, rusa]
+antonyms: [ta-det-lugnt]
+family: [skyndsamhet]
 topics: []
 sentences:
   - sent-skynda-dig-lite
@@ -24,6 +24,9 @@ interval: 0
 # skynda — verb (grupp 1)
 
 📖 中文：赶快；急忙 · English: to hurry
+
+🇸🇪 Förklaring: (sig) gå eller göra något snabbt eftersom man har ont om tid
+
 发音提示：SKYN-da；两音节。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 - 词族: [[skyndsamhet]] (紧迫性/匆忙)
 - 同义词: [[hasta]] (v. 赶紧，较文雅), [[rusa]] (v. 冲/奔跑)
-- 反义词: [[ta det lugnt]] (放慢/别急)
+- 反义词: [[ta-det-lugnt|ta det lugnt]] (放慢/别急)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

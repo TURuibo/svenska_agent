@@ -23,6 +23,9 @@ interval: 0
 # mittenparti — substantiv (ett)
 
 📖 中文：中间派政党 · English: centre party
+
+🇸🇪 Förklaring: politiskt parti som varken står till vänster eller till höger
+
 发音提示：MIT-ten-par-ti
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mitten（中间），[[parti]]
+- 词族: [[mitten]]（中间）, [[parti]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

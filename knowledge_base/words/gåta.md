@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "谜；谜语"
 en: "riddle, puzzle, mystery"
-synonyms: []
+synonyms: [mysterium, kluring]
 antonyms: []
-family: []
+family: [gåtfull, bildgåta]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,10 @@ created: "2026-10-08"
 # gåta — substantiv (en)
 
 📖 中文：谜；谜语 · English: riddle, puzzle, mystery
+
+🇸🇪 Förklaring: fråga eller beskrivning som man måste tänka länge på för att lösa; något som är svårt att förstå
+
+发音提示：/ˈɡoːta/ — å 读长 oː，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,9 @@ created: "2026-10-08"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gåtfull]] (神秘莫测的), [[bildgåta]] (画谜)
+- 同义词: [[mysterium]] (谜), [[kluring]] (难题)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

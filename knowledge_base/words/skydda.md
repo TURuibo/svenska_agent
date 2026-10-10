@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "保护；防护"
 en: "to protect; to shield"
-synonyms: []
+synonyms: [rädda, försvara]
 antonyms: [skada]
-family: [skydd]
+family: [skydd, skyddad, skyddsutrustning]
 topics: [topic-allmänna-verb]
 sentences: [sent-vi-vill-inte-förbjuda-elsparkcyklar-men-vi]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # skydda — verb (grupp 1)
 
 📖 中文：保护；防护 · English: to protect; to shield
+
+🇸🇪 Förklaring: se till att någon eller något inte blir skadat eller utsatt för fara
+
 发音提示：`sk` 在 `y` 前读 [ɧ]（类似"舍"），`skydda` ≈ "ɧYD-da"。
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[skydd]]（保护，名词）、`skyddad`（受保护的）、`skyddsutrustning`（防护装备）
-- 同义词: 近义 [[rädda]]（救；更强调脱险）、`försvara`（防御）
+- 词族: [[skydd]]（保护，名词）, [[skyddad]]（受保护的）, [[skyddsutrustning]]（防护装备）
+- 同义词: 近义 [[rädda]]（救；更强调脱险）, [[försvara]]（防御）
 - 反义词: [[skada]]（伤害）
 - 主题: [[topic-allmänna-verb]]
 

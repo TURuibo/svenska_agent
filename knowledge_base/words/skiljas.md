@@ -6,9 +6,9 @@ verbgrupp: "deponens"
 cefr: B1
 zh: "离婚 / 分开"
 en: "to divorce / to separate / to part"
-synonyms: []
-antonyms: []
-family: ["skilja_sig"]
+synonyms: [separera, gå-isär]
+antonyms: [gifta-sig, träffas]
+family: [skilja_sig]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # skiljas — verb (deponens)
 
 📖 中文：离婚 / 分开 · English: to divorce / to separate / to part
+
+🇸🇪 Förklaring: 1) avsluta ett äktenskap; 2) gå ifrån varandra och ta farväl
+
 发音提示：['ʃɪljas]
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ Deponensverb: passiv form med aktiv betydelse. Se [[grammar-deponensverb]], [[gr
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skilja_sig]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[separera]] (分开), [[gå-isär|gå isär]] (分开)
+- 反义词: [[gifta-sig|gifta sig]] (结婚), [[träffas]] (见面)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

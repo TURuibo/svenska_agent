@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "适度的；中等的；不太好的"
 en: "moderate; modest; mediocre"
-synonyms: []
-antonyms: ["extrem", "kraftig"]
-family: ["måttlighet", "måtta"]
+synonyms: [lagom, medelmåttig]
+antonyms: [kraftig, extrem]
+family: [måttlighet, måtta]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # måttlig — adjektiv
 
 📖 中文：适度的；中等的；不太好的 · English: moderate; modest; mediocre
+
+🇸🇪 Förklaring: som inte är för mycket eller för lite; som inte är särskilt bra
+
 发音提示：/ˈmɔtlɪɡ/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: måttlighet (节制/适度), måtta (尺度, substantiv)
-- 反义词: kraftig (强劲的), extrem (极端的)
+- 词族: [[måttlighet]] (节制/适度), [[måtta]] (尺度, substantiv)
+- 同义词: [[lagom]] (适度的), [[medelmåttig]] (平庸的)
+- 反义词: [[kraftig]] (强劲的), [[extrem]] (极端的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

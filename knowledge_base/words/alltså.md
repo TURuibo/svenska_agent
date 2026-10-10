@@ -9,7 +9,7 @@ zh: "所以；也就是说；因此"
 en: "so; that is to say; thus"
 synonyms: [därmed]
 antonyms: []
-family: []
+family: [all]
 topics: [topic-argumentation]
 sentences: [sent-unga-med-dålig-ekonomi-har-alltså-nästan]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # alltså — adverb
 
 📖 中文：所以；也就是说；因此 · English: so; that is to say; thus
+
+🇸🇪 Förklaring: används för att visa en slutsats eller för att säga samma sak med andra ord
+
 发音提示：AL-tså，重音在第一音节；口语里常读得很轻、很快。
 
 ## 语法变形 (Forms)
@@ -53,8 +56,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: all + så（原义"完全如此"）
+- 词族: [[all]] + så（原义"完全如此"）
 - 同义词: [[därmed]]（语气不同，见下表）
+- 反义词: —
 - 对照: [[därför]]（所以；放句首要倒装）
 - 主题: [[topic-argumentation]]
 

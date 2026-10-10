@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "危机"
 en: "crisis"
-synonyms: []
+synonyms: [nödläge]
 antonyms: []
-family: ["krisa"]
+family: [krisa]
 topics: ["topic-samhälle-och-politik", "topic-krig-och-konflikt"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kris — substantiv (en)
 
 📖 中文：危机 · English: crisis
+
+🇸🇪 Förklaring: svår och farlig situation där man snabbt måste fatta viktiga beslut
+
 发音提示：[kriːs]
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: krisa (出现危机)
+- 词族: [[krisa]] (出现危机)
+- 同义词: [[nödläge]] (紧急状况)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 - 主题: [[topic-krig-och-konflikt]]
 

@@ -9,7 +9,7 @@ zh: "基岩，底岩"
 en: "bedrock"
 synonyms: []
 antonyms: []
-family: ["berg", "grund"]
+family: [berg, grund]
 topics: ["topic-geografi-natur"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # berggrund — substantiv (en)
 
 📖 中文：基岩，底岩 · English: bedrock
+
+🇸🇪 Förklaring: det fasta lagret av sten som ligger under jorden
+
 发音提示：[ˈbærjˌɡrɵnd]
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[berg]], [[grund]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-geografi-natur]]
 
 ## 用法提示 (Usage Notes)

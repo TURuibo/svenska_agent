@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "就业机会，工作岗位"
 en: "job opportunity, employment opportunity"
-synonyms: ["jobb", "arbete", "sysselsättning"]
+synonyms: [sysselsättning, jobb, arbete]
 antonyms: []
-family: ["arbete", "tillfälle", "arbeta"]
+family: [arbete, tillfälle, arbeta]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # arbetstillfälle — substantiv (ett)
 
 📖 中文：就业机会，工作岗位 · English: job opportunity, employment opportunity
+
+🇸🇪 Förklaring: möjlighet för en person att få ett jobb; en ledig plats på arbetsmarknaden
+
 发音提示：[ˈarbɛtsˌtɪlˌfælɛ]
 
 ## 语法变形 (Forms)
@@ -47,8 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[arbete]], [[tillfälle]]
-- 同义词: [[sysselsättning]]
+- 词族: [[arbete]], [[tillfälle]], [[arbeta]] (工作)
+- 同义词: [[sysselsättning]], [[jobb]] (工作/活儿), [[arbete]]
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

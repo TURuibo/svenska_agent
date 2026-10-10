@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "意思是；意味着；有重要意义"
 en: "to mean; to signify; to matter"
-synonyms: []
+synonyms: [innebära, vara-viktig]
 antonyms: []
-family: []
+family: [betydelse, betydelsefull, betydande]
 topics: [topic-allmänna-verb]
 sentences: [sent-själv-har-jag-jobbat-som-ledare-i-en, sent-det-betyder-att-man-bara-får-lämna]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # betyda — verb (grupp 2)
 
 📖 中文：意思是；意味着；有重要意义 · English: to mean; to signify; to matter
+
+🇸🇪 Förklaring: ha en viss mening; vara viktig för någon
+
 发音提示：be-TY-da，重音在第二音节 `ty`（`y` 读 [yː]，圆唇的"衣"）。
 
 ## 语法变形 (Forms)
@@ -62,8 +65,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `betydelse`（意义；重要性）、`betydelsefull`（重要的）、`betydande`（可观的）
-- 同义词: `innebära`（意味着）、`vara viktig`
+- 词族: [[betydelse]]（意义；重要性）, [[betydelsefull]]（重要的）, [[betydande]]（可观的）
+- 同义词: [[innebära]]（意味着）, [[vara-viktig|vara viktig]]
 - 反义词: —
 - 主题: —
 

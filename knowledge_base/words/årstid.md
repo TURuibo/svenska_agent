@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: "季节"
 en: "season"
-synonyms: []
+synonyms: [säsong]
 antonyms: []
-family: ["år", "tid"]
+family: [år, tid]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-sverige-har-fyra-tydliga-arstider
@@ -24,6 +24,9 @@ interval: 0
 # årstid — substantiv (en)
 
 📖 中文：季节 · English: season
+
+🇸🇪 Förklaring: en av de fyra perioderna vår, sommar, höst och vinter
+
 发音提示：/ˈoːrˌtiːd/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[år]] (年), [[tid]] (时间)
+- 同义词: [[säsong]] (季节)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

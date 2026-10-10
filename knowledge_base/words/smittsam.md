@@ -6,7 +6,7 @@ cefr: B1
 zh: 传染性的
 en: contagious, infectious
 synonyms: [infektiös]
-antonyms: []
+antonyms: [smittfri]
 family: [smitta]
 topics: [topic-hälsa]
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # smittsam — adjektiv
 
 📖 中文：传染性的 · English: contagious, infectious
+
+🇸🇪 Förklaring: som lätt kan spridas från en människa eller ett djur till en annan
+
 发音提示：/ˈsmɪtːsam/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 - 词族: [[smitta]]
 - 同义词: [[infektiös]]
-- 反义词:
+- 反义词: [[smittfri]] (无传染性的)
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

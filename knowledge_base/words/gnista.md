@@ -9,7 +9,7 @@ zh: "火花，火星"
 en: "spark"
 synonyms: []
 antonyms: []
-family: ["gnistor", "gnistregn"]
+family: [gnistregn, gnistor]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-vara-forsiktig-om-man-eldar
@@ -24,6 +24,9 @@ interval: 0
 # gnista — substantiv (en)
 
 📖 中文：火花，火星 · English: spark
+
+🇸🇪 Förklaring: liten glödande bit som flyger ut från en eld eller när metall slår mot sten eller metall
+
 发音提示：/ˈɲɪsːta/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: gnistregn（火花雨）
+- 词族: [[gnistregn]]（火花雨）, [[gnistor]]
+- 同义词: —
+- 反义词: —
 - 参见: [[elda]]
 - 主题: [[topic-vader-och-arstider]]
 

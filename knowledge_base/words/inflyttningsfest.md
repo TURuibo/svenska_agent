@@ -7,7 +7,7 @@ genus: en
 cefr: "A2"
 zh: "乔迁聚会；搬家派对"
 en: "housewarming party"
-synonyms: []
+synonyms: [inflyttningsparty]
 antonyms: []
 family: [flytta, inflyttning, fest]
 topics: []
@@ -23,6 +23,9 @@ interval: 0
 # inflyttningsfest — substantiv (en)
 
 📖 中文：乔迁聚会；搬家派对 · English: housewarming party
+
+🇸🇪 Förklaring: kalas som man ordnar för vänner när man har flyttat in i ett nytt hem
+
 发音提示：/ˈɪnˌflʏtːnɪŋsˌfɛst/；复合词 = in + flyttning + fest。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[flytta]] (v. 搬家), [[inflyttning]] (en, 迁入), [[fest]] (en, 派对)
-- 同义词: —
+- 同义词: [[inflyttningsparty]] (乔迁派对)
 - 反义词: —
 - 主题: —
 

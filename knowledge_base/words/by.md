@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "村庄，小村"
 en: "village"
 synonyms: []
-antonyms: ["stad"]
-family: []
+antonyms: [stad]
+family: [bybo, byväg, fiskeby]
 topics: ["topic-stadsmiljo"]
 sentences:
   - sent-google-ska-bygga-ett-stort-datacenter
@@ -25,6 +25,9 @@ interval: 0
 # by — substantiv
 
 📖 中文：村庄，小村 · English: village
+
+🇸🇪 Förklaring: liten ort på landet med några hus och gårdar
+
 发音提示：/byː/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[bybo]] (村民), [[byväg]] (村路), [[fiskeby]] (渔村)
+- 同义词: —
 - 反义词: [[stad]] (城市)
 - 主题: [[topic-stadsmiljo]]
 

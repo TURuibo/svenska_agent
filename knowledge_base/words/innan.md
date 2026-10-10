@@ -7,7 +7,7 @@ zh: 在……之前
 en: before
 synonyms: [före]
 antonyms: [efter]
-family: []
+family: [innan-dess]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # innan — konjunktion / adverb
 
 📖 中文：在……之前（连词引导从句；也可作副词「先前」） · English: before
+
+🇸🇪 Förklaring: inleder en bisats och visar att något händer tidigare än något annat
+
+发音提示：/ˈɪnːan/ — 重音在第一音节；nn 是长辅音
 
 ## 语法变形 (Forms)
 
@@ -38,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[innan-dess|innan dess]] (在那之前)
 - 同义词: [[före]]
-- 反义词: efter
+- 反义词: [[efter]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

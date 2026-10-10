@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "小杯烈酒(仲夏传统)"
 en: "aquavit shot; snaps"
-synonyms: ["nubbe", "brännvin"]
+synonyms: [nubbe, brännvin]
 antonyms: []
-family: ["sprit", "alkohol"]
+family: [sprit, alkohol]
 topics: ["topic-midsommar-traditioner", "topic-mat-dryck"]
 sentences: ["sent-pappa-skalar-med-snaps"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # snaps — substantiv
 
 📖 中文：小杯烈酒(仲夏传统) · English: aquavit shot; snaps
+
+🇸🇪 Förklaring: liten mängd starksprit, ofta brännvin, som man dricker vid fester som midsommar och jul
+
 发音提示：[snaps]，和英语 snaps 类似
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sprit]]
-- 同义词: [[nubbe]] · [[brännvin]]
-- 反义词:
+- 词族: [[sprit]], [[alkohol]]
+- 同义词: [[nubbe]] · [[brännvin]], [[brännvin]]
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

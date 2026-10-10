@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 尺码、大小
 en: size
-synonyms: []
+synonyms: [format, mått]
 antonyms: []
 family: [stor]
 topics: [topic-klader]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # storlek — substantiv (en)
 
 📖 中文：尺码、大小 · English: size
+
+🇸🇪 Förklaring: hur mycket plats något tar eller hur långt och brett det är; mått på kläder och skor
+
 发音提示：/ˈstuːɳˌleːk/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stor]]
-- 同义词:
-- 反义词:
+- 同义词: [[format]] (尺寸), [[mått]] (尺寸)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

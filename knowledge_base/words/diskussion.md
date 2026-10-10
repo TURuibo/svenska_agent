@@ -6,7 +6,7 @@ genus: "en"
 cefr: A2
 zh: 讨论
 en: discussion
-synonyms: []
+synonyms: [debatt, samtal, överläggning]
 antonyms: []
 family: [diskutera]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # diskussion — substantiv (en)
 
 📖 中文：讨论 · English: discussion
+
+🇸🇪 Förklaring: samtal där man talar om en fråga och säger vad man tycker
+
 发音提示：/dɪskɵˈɧuːn/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[diskutera]]
-- 同义词:
-- 反义词:
+- 同义词: [[debatt]] (辩论), [[samtal]] (谈话), [[överläggning]] (商议)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

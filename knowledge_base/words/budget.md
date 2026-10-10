@@ -9,7 +9,7 @@ zh: "预算"
 en: "budget"
 synonyms: []
 antonyms: []
-family: []
+family: [budgetera, budgetmöte, hushållsbudget]
 topics: [topic-val-demokrati]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # budget — substantiv (en)
 
 📖 中文：预算 · English: budget
+
+🇸🇪 Förklaring: plan för hur mycket pengar man ska få in och ge ut under en viss tid
+
 发音提示：BUD-get（g 发硬音）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[budgetera]] (做预算), [[budgetmöte]] (预算会议), [[hushållsbudget]] (家庭预算)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

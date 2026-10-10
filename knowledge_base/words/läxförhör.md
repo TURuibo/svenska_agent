@@ -6,7 +6,7 @@ genus: "ett"
 cefr: B1
 zh: 功课抽查；背诵测验
 en: homework quiz
-synonyms: []
+synonyms: [test]
 antonyms: []
 family: [läxa, förhöra]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # läxförhör — substantiv (ett)
 
 📖 中文：功课抽查；背诵测验 · English: homework quiz
+
+🇸🇪 Förklaring: kort prov där läraren kontrollerar att eleverna har lärt sig det de skulle plugga hemma
+
+发音提示：/ˈlɛksfœrˌhœːr/ — 重音在 läx-；ör 读 œ
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: läxa (en, 作业), förhöra (v.)
-- 同义词:
-- 反义词:
+- 词族: [[läxa]] (en, 作业), [[förhöra]] (v.)
+- 同义词: [[test]] (小测验)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

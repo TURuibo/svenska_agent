@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: "问题、难题"
 en: "problem"
-synonyms: ["svårighet", "utmaning"]
-antonyms: ["lösning"]
-family: ["problematisk", "problemfri"]
+synonyms: [svårighet, utmaning]
+antonyms: [lösning]
+family: [problematisk, problemfri]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # problem — substantiv (ett-ord)
 
 📖 中文：问题、难题 · English: problem
+
+🇸🇪 Förklaring: något som är svårt och som man måste hitta en lösning på
+
 发音提示：[prʊˈbleːm]
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: problematisk（有问题的），problemfri（无问题的）
-- 同义词: svårighet（困难），utmaning（挑战）
-- 反义词: lösning（解决方案）
+- 词族: [[problematisk]]（有问题的）, [[problemfri]]（无问题的）
+- 同义词: [[svårighet]]（困难）, [[utmaning]]（挑战）
+- 反义词: [[lösning]]（解决方案）
 - 主题: —
 
 ## 用法提示 (Usage Notes)

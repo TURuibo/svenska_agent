@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "无麸质的"
 en: "gluten-free"
 synonyms: []
-antonyms: []
-family: ["gluten", "fri"]
+antonyms: [glutenhaltig]
+family: [gluten, fri]
 topics: ["topic-mat-dryck", "topic-hälsa"]
 sentences:
   - "sent-garna-har-ni-nagot-glutenfritt"
@@ -25,6 +25,9 @@ interval: 0
 # glutenfri — adjektiv
 
 📖 中文：无麸质的 · English: gluten-free
+
+🇸🇪 Förklaring: som inte innehåller det protein från vete, råg och korn som vissa människor inte tål
+
 发音提示：/ˈɡluːtɛnˌfriː/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[gluten]] (麸质), fri（自由/无……的）
+- 词族: [[gluten]] (麸质), [[fri]]（自由/无……的）
+- 同义词: —
+- 反义词: [[glutenhaltig]] (含麸质的)
 - 主题: [[topic-mat-dryck]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

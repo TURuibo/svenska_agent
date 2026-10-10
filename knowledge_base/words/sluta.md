@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sluta — verb (grupp 1)
 
 📖 中文：离职；停止 · English: to quit; to stop
+
+🇸🇪 Förklaring: 1) inte fortsätta med något; 2) lämna sitt arbete eller sin skola
+
 发音提示：/ˈslʉːta/ — *u* 读长音 [ʉː]，重音在第一音节。
 
 ## 语法变形 (Forms)

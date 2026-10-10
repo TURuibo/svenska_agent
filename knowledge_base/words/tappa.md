@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "丢失；掉落；失去"
 en: "to drop / lose"
-synonyms: []
-antonyms: []
-family: [tappning, tappa bort]
+synonyms: [förlora, mista]
+antonyms: [hitta, behålla]
+family: [tappning, tappa-bort]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # tappa — verb (grupp 1)
 
 📖 中文：丢失；掉落；失去 · English: to drop / lose
+
+🇸🇪 Förklaring: råka släppa något så att det faller ner; inte längre ha något eller veta var det är
+
 发音提示：TAP-pa；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tappning]] (en, 损耗/滴下)
+- 词族: [[tappning]] (en, 损耗/滴下), [[tappa-bort]]
 - 同义词: [[förlora]] (v. 失去/输，更正式), [[mista]] (v. 失去，文学性)
 - 反义词: [[hitta]] (v. 找到), [[behålla]] (v. 保留/保持)
 - 主题: [[topic-vardagsrutin]]

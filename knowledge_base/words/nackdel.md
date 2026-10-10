@@ -6,8 +6,8 @@ genus: "en"
 cefr: "B1"
 zh: "缺点；不利之处"
 en: "disadvantage"
-synonyms: []
-antonyms: ["fördel"]
+synonyms: [minus, brist]
+antonyms: [fördel]
 family: []
 topics: ["topic-argumentation"]
 sentences: ["sent-det-är-delvis-en-nackdel-för-vägen"]
@@ -18,6 +18,10 @@ created: "2026-10-07"
 # nackdel — substantiv (en)
 
 📖 中文：缺点 · English: disadvantage
+
+🇸🇪 Förklaring: något som är dåligt eller inte bra med en sak eller en situation
+
+发音提示：/ˈnakːˌdeːl/ — a 短；ck 长辅音；重音在 nack
 
 ## 语法变形 (Forms)
 
@@ -33,7 +37,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: fördel
+- 词族: —
+- 同义词: [[minus]] (缺点), [[brist]] (不足)
+- 反义词: [[fördel]]
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: ""
 cefr: B1
 zh: 公平的
 en: fair
-synonyms: []
+synonyms: [opartisk, jämlik]
 antonyms: [orättvis]
 family: [rättvisa, rätt]
 topics: [topic-samhälle-och-politik, topic-skatt-och-deklaration]
@@ -19,6 +19,9 @@ created: 2026-10-02
 # rättvis — adjektiv
 
 📖 中文：公平的 · English: fair
+
+🇸🇪 Förklaring: som behandlar alla lika och på ett riktigt sätt
+
 发音提示：[ˈrɛtːviːs]
 
 ## 语法变形 (Forms)
@@ -41,6 +44,7 @@ created: 2026-10-02
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rättvisa]], [[rätt]]
+- 同义词: [[opartisk]] (公正的), [[jämlik]] (平等的)
 - 反义词: [[orättvis]]
 - 主题: [[topic-samhälle-och-politik]]
 

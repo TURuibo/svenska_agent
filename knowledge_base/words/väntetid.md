@@ -6,10 +6,9 @@ genus: en
 cefr: A2
 zh: "等待时间"
 en: "waiting time"
-synonyms: []
+synonyms: [kötid]
 antonyms: []
-family:
-  - "[[vänta]]"
+family: [vänta]
 topics:
   - "[[topic-hälsa]]"
 sentences:
@@ -25,6 +24,9 @@ interval: 0
 # väntetid — substantiv (en)
 
 📖 中文：等待时间 · English: waiting time
+
+🇸🇪 Förklaring: tid som går innan något händer, till exempel innan man får hjälp eller vård
+
 发音提示：["vɛntɛˌtiːd]，复合词，两个重音
 
 ## 语法变形 (Forms)
@@ -51,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vänta]]（等待）
-- 同义词: —
+- 同义词: [[kötid]] (排队时间)
 - 反义词: —
 - 主题: [[topic-hälsa]]
 

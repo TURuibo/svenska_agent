@@ -8,7 +8,7 @@ zh: 黄色的
 en: yellow
 synonyms: []
 antonyms: []
-family: []
+family: [gulna, gulsot, äggula]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gul — adjektiv
 
 📖 中文：黄色的 · English: yellow
+
+🇸🇪 Förklaring: som har samma färg som solen, citroner eller smör
+
 发音提示：/ɡɵːl/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[gulna]] (变黄), [[gulsot]] (黄疸), [[äggula]] (蛋黄)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-trafik]]

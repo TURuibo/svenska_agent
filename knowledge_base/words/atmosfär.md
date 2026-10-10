@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "大气层"
 en: "atmosphere"
-synonyms: []
+synonyms: [lufthölje]
 antonyms: []
-family: []
+family: [atmosfärisk, atmosfärstryck]
 topics: ["topic-miljö-och-klimat"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # atmosfär — substantiv
 
 📖 中文：大气层 · English: atmosphere
-发音提示：
+
+🇸🇪 Förklaring: lager av gaser som finns runt jorden eller en annan planet
+
+发音提示：/atmʊˈsfæːr/ — 重音在末音节 fär，ä 在 r 前读 æ
 
 ## 语法变形 (Forms)
 
@@ -37,9 +40,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[atmosfärisk]] (大气的), [[atmosfärstryck]] (大气压)
+- 同义词: [[lufthölje]] (大气层)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

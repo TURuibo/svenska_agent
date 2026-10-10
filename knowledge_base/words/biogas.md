@@ -8,7 +8,7 @@ zh: "沼气；生物燃气"
 en: "biogas"
 synonyms: []
 antonyms: []
-family: [biologisk, gas, matavfall]
+family: [matavfall, kompost, biologisk, gas]
 topics: [topic-källsortering, topic-miljö-och-klimat]
 sentences:
   - sent-av-matavfall-kan-man-sedan-göra-biogas
@@ -23,6 +23,9 @@ interval: 0
 # biogas — substantiv (en)
 
 📖 中文：沼气；生物燃气 · English: biogas
+
+🇸🇪 Förklaring: gas som bildas när matavfall eller gödsel bryts ner och som kan användas som bränsle
+
 发音提示：bi-o-GAS（重音在最后一个音节）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[matavfall]], [[kompost]]
+- 词族: [[matavfall]], [[kompost]], [[biologisk]], [[gas]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-källsortering]], [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: A2
 zh: 真实的；真的
 en: true
-synonyms: []
+synonyms: [riktig, korrekt, verklig]
 antonyms: [falsk]
 family: [sanning]
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # sann — adjektiv
 
 📖 中文：真实的；真的 · English: true
+
+🇸🇪 Förklaring: som stämmer med verkligheten och inte är påhittad
+
 发音提示：/san/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sanning]]
-- 同义词: 
-- 反义词: falsk
+- 同义词: [[riktig]] (对的), [[korrekt]] (正确的), [[verklig]] (真实的)
+- 反义词: [[falsk]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

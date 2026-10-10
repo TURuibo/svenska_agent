@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "吵架；捣乱"
 en: "to quarrel, to fight, to cause trouble"
 synonyms: [gräla, slåss]
-antonyms: []
+antonyms: [komma-överens]
 family: [bråk, bråkig, bråkstake]
 topics: [topic-familj-och-barn]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # bråka — verb (v.1)
 
 📖 中文：吵架；捣乱 · English: to quarrel, to fight, to cause trouble
+
+🇸🇪 Förklaring: säga arga ord till varandra eller slåss; störa och ställa till problem
+
 发音提示：/ˈbrɔːka/；br- 辅音群，å 长音。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 - 词族: [[bråk]] (ett, 争吵；吵闹), [[bråkig]] (adj. 闹腾的), [[bråkstake]] (en, 闹事者)
 - 同义词: [[gräla]] (争吵), [[slåss]] (打架)
-- 反义词: —
+- 反义词: [[komma-överens|komma överens]] (和睦相处)
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

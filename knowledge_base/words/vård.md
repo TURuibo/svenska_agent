@@ -6,8 +6,8 @@ genus: "en"
 cefr: A2
 zh: 医疗；护理
 en: care; healthcare
-synonyms: []
-antonyms: []
+synonyms: [omsorg, behandling]
+antonyms: [vanvård]
 family: [vårdcentral]
 topics: []
 sentences: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # vård — substantiv (en)
 
 📖 中文：医疗；护理 · English: care; healthcare
+
+🇸🇪 Förklaring: hjälp och behandling som sjuka eller gamla får; när man tar hand om någon eller något
+
 发音提示：/voːɖ/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vårdcentral]]
-- 同义词: 
-- 反义词: 
+- 同义词: [[omsorg]] (照顾), [[behandling]] (治疗)
+- 反义词: [[vanvård]] (照料不周)
 - 主题: 
 
 ## 用法提示 (Usage Notes)

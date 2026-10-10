@@ -18,6 +18,9 @@ created: "2026-10-01"
 # besluta — verb (grupp 1)
 
 📖 中文：决定，裁决 · English: to decide
+
+🇸🇪 Förklaring: bestämma något efter att ha tänkt efter, ofta på ett formellt sätt
+
 发音提示：/beˈslɵːta/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ created: "2026-10-01"
 
 - 词族: [[beslut]]
 - 同义词: [[bestämma]]
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

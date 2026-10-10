@@ -9,7 +9,7 @@ zh: "纸盒/纸箱"
 en: "carton, cardboard box"
 synonyms: [förpackning]
 antonyms: []
-family: []
+family: [mjölkkartong, flyttkartong]
 topics: [topic-uppfinning-och-teknik]
 sentences:
   - sent-en-ingenjar-som-hette-erik-wallenberg-uppfann
@@ -26,6 +26,9 @@ interval: 0
 # kartong — substantiv
 
 📖 中文：纸盒/纸箱 · English: carton, cardboard box
+
+🇸🇪 Förklaring: låda av styvt, tjockt papper
+
 发音提示：kar-TONG（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[mjölkkartong]] (牛奶盒), [[flyttkartong]] (搬家纸箱)
 - 同义词: [[förpackning]]
 - 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]

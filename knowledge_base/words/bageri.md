@@ -6,10 +6,9 @@ genus: ett
 cefr: A2
 zh: 面包房
 en: bakery
-synonyms:
-  - konditori
+synonyms: [konditori]
 antonyms: []
-family: []
+family: [bagare, baka, bakverk]
 topics:
   - topic-mataffär
   - topic-mat-dryck
@@ -26,6 +25,9 @@ interval: 0
 # bageri — substantiv (ett)
 
 📖 中文：面包房 · English: bakery
+
+🇸🇪 Förklaring: affär eller ställe där man gör och säljer bröd och kakor
+
 发音提示：ba-ge-RI（重音在最后一音节）
 
 ## 语法变形 (Forms)
@@ -51,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[bagare]] (面包师), [[baka]] (烘焙), [[bakverk]] (糕点)
 - 同义词: [[konditori]]
 - 反义词: —
 - 主题: [[topic-mataffär]], [[topic-mat-dryck]]

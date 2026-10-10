@@ -19,6 +19,9 @@ created: 2026-09-26
 # motorik — substantiv (en)
 
 📖 中文：运动能力 · English: motor skills
+
+🇸🇪 Förklaring: förmågan att styra kroppens rörelser
+
 发音提示：/mʊtʊˈriːk/ — 重音在最后音节 -rik。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: 2026-09-26
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[grovmotorik]], [[finmotorik]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

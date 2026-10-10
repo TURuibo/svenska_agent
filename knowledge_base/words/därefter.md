@@ -6,8 +6,8 @@ cefr: A2
 zh: 之后；随后
 en: after that, thereafter
 synonyms: [sedan]
-antonyms: []
-family: []
+antonyms: [dessförinnan]
+family: [där, efter, därpå]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # därefter — adverb
 
 📖 中文：之后，随后 · English: after that
+
+🇸🇪 Förklaring: efter det som just har hänt eller nämnts
+
 发音提示：/ˈdæːreˌfter/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[där]] (那里), [[efter]] (之后), [[därpå]] (随后)
 - 同义词: [[sedan]]
-- 反义词:
+- 反义词: [[dessförinnan]] (在此之前)
 - 主题:
 
 ## 用法提示 (Usage Notes)

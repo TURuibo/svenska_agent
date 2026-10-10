@@ -23,6 +23,9 @@ interval: 0
 # energidryck — substantiv (en)
 
 📖 中文：能量饮料 · English: energy drink
+
+🇸🇪 Förklaring: söt läsk med mycket koffein och socker som ska göra en piggare
+
 发音提示：e-ner-gi-DRYCK，复合词重音在第二成分。
 
 ## 语法变形 (Forms)

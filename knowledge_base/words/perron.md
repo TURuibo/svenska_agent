@@ -6,8 +6,7 @@ genus: "en"
 cefr: "A2"
 zh: "站台；月台"
 en: "platform (at a train station)"
-synonyms:
-  - spår
+synonyms: [spår]
 antonyms: []
 family: []
 topics:
@@ -25,6 +24,9 @@ interval: 0
 # perron — substantiv en
 
 📖 中文：站台；月台 · English: platform (at a train station)
+
+🇸🇪 Förklaring: upphöjd del längs spåret på en station där man stiger på och av tåget
+
 发音提示：/pe-RONG/（借词自法语）
 
 ## 语法变形 (Forms)
@@ -49,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
 - 同义词: [[spår]]（更常用于口语中指代站台号）
+- 反义词: —
 - 主题: [[topic-kollektivtrafik]]
 
 ## 用法提示 (Usage Notes)

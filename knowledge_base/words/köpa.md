@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: A1
 zh: 买
 en: to buy
-synonyms: []
+synonyms: [handla, inhandla]
 antonyms: [sälja]
-family: []
+family: [köp]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # köpa — verb (grupp 2)
 
 📖 中文：买 · English: to buy
+
+🇸🇪 Förklaring: betala pengar för att få en vara eller tjänst
+
 发音提示：/ˈɕøːpa/（k 在 ö 前读 [ɕ]）；köpte /ˈɕøːptɛ/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: köp（名词，买卖）
-- 同义词:
+- 词族: [[köp]]（名词，买卖）
+- 同义词: [[handla]] (购物), [[inhandla]] (购入)
 - 反义词: [[sälja]]
 - 主题:
 

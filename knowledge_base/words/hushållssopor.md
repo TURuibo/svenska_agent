@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "生活垃圾"
 en: "household waste"
-synonyms: []
+synonyms: [hushållsavfall]
 antonyms: []
-family: []
+family: [sopor, hushåll, soptunna]
 topics: ["topic-hemmet"]
 sentences:
   - sent-den-är-bara-för-byggmaterial-inte
@@ -23,6 +23,9 @@ interval: 0
 # hushållssopor — substantiv (en, 常用复数)
 
 📖 中文：生活垃圾 · English: household waste
+
+🇸🇪 Förklaring: skräp och avfall som kommer från ett vanligt hem
+
 发音提示：hus-HÅLLS-so-por，重音在第二音节
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sopor]] (垃圾), [[hushåll]] (家庭；户), [[soptunna]] (垃圾箱)
+- 同义词: [[hushållsavfall]] (生活垃圾)
+- 反义词: —
 - 反义/对比: [[byggavfall]]（建筑垃圾，必须分开丢弃）
 - 主题: [[topic-hemmet]]
 

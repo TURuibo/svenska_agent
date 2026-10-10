@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 大熊猫
 en: panda
-synonyms: ["pandabjörn", "jättepanda"]
+synonyms: [pandabjörn, jättepanda]
 antonyms: []
-family: []
+family: [pandaunge]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # panda — substantiv (en)
 
 📖 中文：大熊猫 · English: panda
+
+🇸🇪 Förklaring: stort svartvitt djur som lever i Kina och äter bambu
+
 发音提示：PAN-da（两音节，重音在前）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[pandaunge]] (熊猫幼崽)
 - 同义词: [[pandabjörn]], [[jättepanda]]
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

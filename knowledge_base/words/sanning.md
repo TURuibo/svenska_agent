@@ -6,7 +6,7 @@ genus: "en"
 cefr: B1
 zh: 真相；真理
 en: truth
-synonyms: []
+synonyms: [verklighet, fakta]
 antonyms: [lögn]
 family: [sann]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # sanning — substantiv (en)
 
 📖 中文：真相；真理 · English: truth
+
+🇸🇪 Förklaring: det som stämmer med verkligheten och inte är påhittat
+
 发音提示：/ˈsanːɪŋ/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sann]]
-- 同义词: 
-- 反义词: lögn
+- 同义词: [[verklighet]] (现实), [[fakta]] (事实)
+- 反义词: [[lögn]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

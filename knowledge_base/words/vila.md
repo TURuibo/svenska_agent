@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 休息；歇息
 en: to rest
-synonyms: []
-antonyms: []
-family: [vila, vilsam]
+synonyms: [koppla-av, ta-det-lugnt]
+antonyms: [arbeta, anstränga-sig]
+family: [vilsam]
 topics: [topic-hemmet, topic-vardagsrutin, topic-fritid-och-resor]
 sentences: [sent-jag-stadade-lite-tvattade-klader]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vila — verb
 
 📖 中文：休息；歇息 · English: to rest
+
+🇸🇪 Förklaring: ta det lugnt och inte arbeta eller röra sig, så att kroppen får ny kraft
+
 发音提示：/²viːla/
 
 ## 语法变形 (Forms)
@@ -55,6 +58,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vilsam]] (休闲的、令人放松的)
+- 同义词: [[koppla-av|koppla av]] (放松), [[ta-det-lugnt|ta det lugnt]] (放轻松)
+- 反义词: [[arbeta]] (工作), [[anstränga-sig|anstränga sig]] (费力)
 - 主题: [[topic-hemmet]], [[topic-vardagsrutin]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

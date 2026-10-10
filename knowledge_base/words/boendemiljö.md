@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "居住环境"
 en: "living environment"
-synonyms: []
+synonyms: [närmiljö]
 antonyms: []
-family: []
+family: [bo, boende, miljö]
 topics: ["topic-geografi-samhalle"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # boendemiljö — substantiv
 
 📖 中文：居住环境 · English: living environment
-发音提示：
+
+🇸🇪 Förklaring: hur det är runt omkring det ställe där man har sitt hem, till exempel hus, natur och grannar
+
+发音提示：/ˈbuːɛndɛmɪˌljøː/ — 重音在 bo（读 buː），miljö 带次重音
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[bo]] (住), [[boende]] (居民；住处), [[miljö]] (环境)
+- 同义词: [[närmiljö]] (周边环境)
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

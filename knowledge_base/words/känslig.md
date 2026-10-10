@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: B1
 zh: 敏感的
 en: sensitive
-synonyms: []
-antonyms: []
+synonyms: [ömtålig, sensibel]
+antonyms: [tålig, okänslig]
 family: [känsla]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # känslig — adjektiv
 
 📖 中文：敏感的 · English: sensitive
+
+🇸🇪 Förklaring: som lätt blir påverkad, ledsen eller skadad
+
 发音提示：/ˈɕɛnsliɡ/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[känsla]]
-- 同义词:
-- 反义词:
+- 同义词: [[ömtålig]] (脆弱的), [[sensibel]] (敏感的)
+- 反义词: [[tålig]] (耐受的), [[okänslig]] (不敏感的)
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

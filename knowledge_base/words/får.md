@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A1"
 zh: "羊；绵羊"
 en: "sheep"
-synonyms: []
+synonyms: [lamm]
 antonyms: []
-family: []
+family: [fårull, lammkött]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # får — substantiv (ett)
 
 📖 中文：羊；绵羊 · English: sheep
+
+🇸🇪 Förklaring: tamdjur med tjock ull som man föder upp för ullens och köttets skull
+
 发音提示：/foːr/
 
 ## 语法变形 (Forms)

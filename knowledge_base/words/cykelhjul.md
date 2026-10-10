@@ -19,6 +19,9 @@ created: "2026-10-05"
 # cykelhjul — substantiv (ett)
 
 📖 中文：自行车轮 · English: bicycle wheel
+
+🇸🇪 Förklaring: ett av de två runda hjulen på en cykel
+
 发音提示：SYK-el-jul
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[cykel]] (自行车), [[hjul]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

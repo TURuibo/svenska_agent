@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A1"
 zh: "鞋"
 en: "shoe"
-synonyms: []
+synonyms: [skodon]
 antonyms: []
 family: [stövel, toffel, sandal]
 topics: [topic-hemmet]
@@ -24,6 +24,9 @@ interval: 0
 # sko — substantiv (en)
 
 📖 中文：鞋 · English: shoe
+
+🇸🇪 Förklaring: något som man har på foten för att skydda den när man går ute
+
 发音提示：sko（单音节）；长元音 o。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stövel]] (靴子), [[toffel]] (拖鞋), [[sandal]] (凉鞋)
-- 同义词: —
+- 同义词: [[skodon]] (鞋类)
 - 反义词: —
 - 主题: [[topic-hemmet]]
 

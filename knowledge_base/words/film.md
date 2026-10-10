@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "电影"
 en: "film, movie"
-synonyms: []
+synonyms: [rulle]
 antonyms: []
-family: ["animerad"]
+family: [animerad]
 topics: ["topic-film"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # film — substantiv (en)
 
 📖 中文：电影 · English: film, movie
+
+🇸🇪 Förklaring: berättelse med rörliga bilder som man ser på bio, på tv eller i datorn
+
 发音提示：film（单音节）
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[animerad]]
-- 同义词:
-- 反义词:
+- 同义词: [[rulle]] (电影（口语）)
+- 反义词: —
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

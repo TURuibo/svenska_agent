@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "庆祝"
 en: "to celebrate"
-synonyms: []
+synonyms: [fester]
 antonyms: []
-family: ["födelsedag", "firande"]
+family: [födelsedag, firande]
 topics: ["topic-mat-dryck"]
 sentences:
   - sent-lisa-vi-är-så-glada-att
@@ -25,6 +25,9 @@ interval: 0
 # fira — verb
 
 📖 中文：庆祝 · English: to celebrate
+
+🇸🇪 Förklaring: göra något särskilt, ofta en fest, för att visa att en dag eller en händelse är viktig eller glädjande
+
 发音提示：/ˈfiːra/
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[födelsedag]]
+- 词族: [[födelsedag]], [[firande]]
 - 同义词: [[fester]] (mer formellt)
-- 反义词:
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

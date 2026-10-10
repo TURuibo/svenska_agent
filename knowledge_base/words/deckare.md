@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "侦探小说"
 en: "detective story"
-synonyms: []
+synonyms: [kriminalroman, detektivroman]
 antonyms: []
-family: []
+family: [detektiv, deckarförfattare]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # deckare — substantiv (en)
 
 📖 中文：侦探小说 · English: detective story
+
+🇸🇪 Förklaring: spännande bok eller film om ett brott och om hur polisen eller en detektiv löser det
+
 发音提示：DECK-a-re
 
 ## 语法变形 (Forms)
@@ -44,6 +47,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[detektiv]] (侦探), [[deckarförfattare]] (侦探小说作家)
+- 同义词: [[kriminalroman]] (犯罪小说), [[detektivroman]] (侦探小说)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A1
 zh: 首先；才
 en: first; not until
-synonyms: []
+synonyms: [till-att-börja-med]
 antonyms: [sist]
-family: []
+family: [första, främst]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # först — adverb
 
 📖 中文：首先、最先；（时间）才 · English: first; only then
+
+🇸🇪 Förklaring: 1) före alla andra eller allt annat; 2) inte tidigare än en viss tid
+
+发音提示：/fœʂʈ/ — rst 合成卷舌 ʂʈ
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: sist
+- 词族: [[första]] (第一), [[främst]] (首要)
+- 同义词: [[till-att-börja-med|till att börja med]] (首先)
+- 反义词: [[sist]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

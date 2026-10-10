@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 危险
 en: danger
-synonyms: []
-antonyms: []
-family: []
+synonyms: [risk, hot]
+antonyms: [säkerhet, trygghet]
+family: [farlig, livsfara, ofarlig]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,10 @@ created: "2026-10-01"
 
 📖 中文：危险 · English: danger
 ⚠️ 同形异义：动词 `fara`（fara – far – for – farit）= 出发、旅行（口语/书面），与此名词无关。
+
+🇸🇪 Förklaring: risk att något dåligt ska hända, till exempel att man skadas eller dör
+
+发音提示：/ˈfɑːra/ — a 读长音 ɑː；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -43,9 +47,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[farlig]] (危险的), [[livsfara]] (生命危险), [[ofarlig]] (无害的)
+- 同义词: [[risk]] (风险), [[hot]] (威胁)
+- 反义词: [[säkerhet]] (安全), [[trygghet]] (安全感)
 - 主题:
 
 ## 用法提示 (Usage Notes)

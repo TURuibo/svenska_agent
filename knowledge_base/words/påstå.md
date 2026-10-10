@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "声称；断言"
 en: "to claim; to assert"
 synonyms: [hävda]
-antonyms: []
+antonyms: [förneka, bestrida]
 family: [påstående]
 topics: [topic-argumentation]
 sentences: [sent-några-människor-påstår-att-föräldrar-bara]
@@ -19,6 +19,10 @@ created: 2026-10-05
 # påstå — verb
 
 📖 中文：声称；断言 · English: to claim; to assert
+
+🇸🇪 Förklaring: säga att något är sant, även om man inte kan bevisa det
+
+发音提示：/ˈpoːˌstoː/ — 前缀 på 重读；å 读长音 /oː/
 
 ## 语法变形 (Forms)
 
@@ -44,7 +48,7 @@ created: 2026-10-05
 
 - 词族: [[påstående]]
 - 同义词: [[hävda]]
-- 反义词: —
+- 反义词: [[förneka]] (否认), [[bestrida]] (反驳)
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

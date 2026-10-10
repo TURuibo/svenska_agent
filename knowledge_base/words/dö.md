@@ -6,7 +6,7 @@ verbgrupp: "4"
 cefr: A2
 zh: 死；去世
 en: to die
-synonyms: []
+synonyms: [avlida, gå-bort]
 antonyms: [leva]
 family: [död]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # dö — verb (grupp 4)
 
 📖 中文：死，去世 · English: to die
+
+🇸🇪 Förklaring: sluta att leva, till exempel av sjukdom eller hög ålder
+
 发音提示：/døː/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[död]]
-- 同义词:
-- 反义词: leva
+- 同义词: [[avlida]] (去世), [[gå-bort|gå bort]] (去世)
+- 反义词: [[leva]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -23,6 +23,9 @@ interval: 0
 # medicin — substantiv (en)
 
 📖 中文：药品；药物；医学 · English: medicine; medication
+
+🇸🇪 Förklaring: 1) ämne som man tar för att bli frisk eller må bättre; 2) vetenskapen om sjukdomar och hur man behandlar dem
+
 发音提示：me-di-SIN（重音在最后一个音节）
 
 ## 语法变形 (Forms)
@@ -53,6 +56,7 @@ interval: 0
 
 - 词族: [[medicinsk]], [[medicinera]]
 - 同义词: [[läkemedel]]
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

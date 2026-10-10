@@ -19,6 +19,9 @@ created: 2026-10-02
 # sjukpenning — substantiv (en)
 
 📖 中文：病假津贴 · English: sickness benefit
+
+🇸🇪 Förklaring: ersättning från Försäkringskassan till den som inte kan arbeta för att hen inte är frisk
+
 发音提示：[ˈɧʉːkˌpɛnɪŋ]
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: 2026-10-02
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sjuk]], [[penning]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

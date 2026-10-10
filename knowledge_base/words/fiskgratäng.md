@@ -19,6 +19,9 @@ created: "2026-09-26"
 # fiskgratäng — substantiv (en)
 
 📖 中文：鱼焗烤（园里常见午餐） · English: fish gratin
+
+🇸🇪 Förklaring: maträtt med fisk som man gräddar i ugnen, ofta med sås och potatismos
+
 发音提示：/ˈfɪskɡraˌtɛŋ/ — fisk + gratäng（法语借词），重音在 fisk。
 
 ## 语法变形 (Forms)

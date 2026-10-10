@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "体重；重量"
 en: "weight"
-synonyms: []
+synonyms: [tyngd]
 antonyms: []
-family: [väga]
+family: [väga, viktig, tung]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vikt — substantiv (en)
 
 📖 中文：体重；重量；（引申）重要性 · English: weight; importance
+
+🇸🇪 Förklaring: hur tung en person eller en sak är
+
 发音提示：/vɪkt/ — 短 i，k+t 清晰。
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[väga]] (称重/重), viktig (重要的), [[tung]]
-- 同义词: —
+- 词族: [[väga]] (称重/重), [[viktig]] (重要的), [[tung]]
+- 同义词: [[tyngd]] (重量)
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 

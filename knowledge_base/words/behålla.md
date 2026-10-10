@@ -6,8 +6,8 @@ verbgrupp: "4"
 cefr: B1
 zh: 保持、保留
 en: to keep, retain
-synonyms: []
-antonyms: []
+synonyms: [spara, bevara]
+antonyms: [förlora, ge-bort]
 family: [hålla]
 topics: []
 sentences: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # behålla — verb (grupp 4)
 
 📖 中文：保持、保留 · English: to keep, retain
+
+🇸🇪 Förklaring: fortsätta att ha något och inte ge bort eller förlora det
+
 发音提示：/beˈhoːla/；behöll /beˈhœl/
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hålla]]（be- + hålla，变位相同）
-- 同义词:
-- 反义词:
+- 同义词: [[spara]] (保存), [[bevara]] (保留)
+- 反义词: [[förlora]] (失去), [[ge-bort|ge bort]] (送掉)
 - 主题:
 
 ## 用法提示 (Usage Notes)

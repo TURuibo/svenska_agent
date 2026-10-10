@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: A2
 zh: 近的；靠近
 en: near, close
-synonyms: []
+synonyms: [närbelägen, intim]
 antonyms: [långt]
 family: [närhet]
 topics: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # nära — adjektiv / adverb / preposition
 
 📖 中文：近的；靠近 · English: near, close
+
+🇸🇪 Förklaring: som ligger på kort avstånd; som har en stark relation till någon
+
+发音提示：/ˈnæːra/ — ä 在 r 前读 æː
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: närhet (en, 靠近)
-- 同义词:
-- 反义词: långt
+- 词族: [[närhet]] (en, 靠近)
+- 同义词: [[närbelägen]] (附近的), [[intim]] (亲密的)
+- 反义词: [[långt]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

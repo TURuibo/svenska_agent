@@ -18,6 +18,9 @@ created: "2026-09-22"
 # identitet — substantiv (en)
 
 📖 中文：身份认同 · English: identity
+
+🇸🇪 Förklaring: vem en person är och hur hen ser på sig själv och sin grupp
+
 发音提示：/ɪdɛntɪˈteːt/
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-22"
 
 - 词族: [[självbild]]
 - 同义词: [[självbild]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

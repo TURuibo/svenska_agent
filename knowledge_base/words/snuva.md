@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "流鼻涕；鼻塞"
 en: "runny nose, cold"
-synonyms: []
+synonyms: [förkylning]
 antonyms: []
 family: [snuvig]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # snuva — substantiv
 
 📖 中文：流鼻涕；鼻塞 · English: runny nose, cold
+
+🇸🇪 Förklaring: lätt infektion som gör att näsan rinner eller blir täppt
+
 发音提示：/ˈsnʉːva/，u 是瑞典语特有的长音 [ʉː]（嘴唇前突），重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[snuvig]] (adj.)
+- 同义词: [[förkylning]] (感冒)
+- 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

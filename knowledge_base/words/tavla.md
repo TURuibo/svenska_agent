@@ -9,7 +9,7 @@ zh: "画；挂画"
 en: "painting; picture"
 synonyms: [bild, målning]
 antonyms: []
-family: [väggtavla, konstgalleri, ram]
+family: [ram, konstgalleri, väggtavla]
 topics: [topic-mobler, topic-hemmet]
 sentences:
   - sent-mitt-emot-sangen-hanger-en-tavla-pa-vaggen
@@ -25,6 +25,9 @@ interval: 0
 # tavla — substantiv (en)
 
 📖 中文：画；挂画 · English: painting; picture
+
+🇸🇪 Förklaring: målning eller bild i en ram som man hänger på väggen
+
 发音提示：TAV-la；两音节。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ram]] (画框), [[konstgalleri]] (美术馆)
+- 词族: [[ram]] (画框), [[konstgalleri]] (美术馆), [[väggtavla]]
 - 同义词: [[bild]] (图片，较宽泛), [[målning]] (油画，更具体)
 - 反义词: —
 - 主题: [[topic-mobler]], [[topic-hemmet]]

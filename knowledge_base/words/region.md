@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "大区（瑞典行政区划，负责医疗与公共交通）"
 en: "region"
-synonyms: []
+synonyms: [område, landsting]
 antonyms: []
 family: [regional]
 topics: [topic-val-demokrati]
@@ -23,6 +23,9 @@ interval: 0
 # region — substantiv (en)
 
 📖 中文：大区（瑞典行政区划，负责医疗与公共交通） · English: region
+
+🇸🇪 Förklaring: 1) större område i ett land; 2) i Sverige: politiskt styrt område som bland annat ansvarar för sjukvård och kollektivtrafik
+
 发音提示：re-gi-ON，重音末音节。
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: regional（区域性的，形容词）
+- 词族: [[regional]]（区域性的，形容词）
+- 同义词: [[område]] (地区), [[landsting]] (省议会（旧称）)
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

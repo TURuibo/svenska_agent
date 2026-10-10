@@ -9,7 +9,7 @@ zh: "停水；关水"
 en: "water shutoff; water cut-off"
 synonyms: []
 antonyms: []
-family: ["vatten", "stänga", "avstängning"]
+family: [vatten, stänga-av, avstängning, stänga]
 topics: ["topic-hemmet"]
 sentences:
   - sent-lordagen-den-4-juli-stanger-vi
@@ -24,6 +24,9 @@ interval: 0
 # vattenavstängning — substantiv (en)
 
 📖 中文：停水；关水 · English: water shutoff; water cut-off
+
+🇸🇪 Förklaring: när vattnet i ett hus eller område stängs av en tid, till exempel vid en reparation
+
 发音提示：['vatːen‧av‧ˌstɛŋːniŋ]，复合词，重音在第一成分
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *vatten* (水), *stänga av* → [[stänga-av]], *avstängning* (关断)
+- 词族: [[vatten]] (水), *stänga av* → [[stänga-av]], [[avstängning]] (关断), [[stänga]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

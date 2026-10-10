@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "总结地说、总之"
 en: "in summary"
-synonyms: []
+synonyms: [kort-sagt, i-korthet, summa-summarum]
 antonyms: []
-family: []
+family: [sammanfatta, sammanfattning]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sammanfattningsvis — adverb
 
 📖 中文：总结地说、总之 · English: in summary
+
+🇸🇪 Förklaring: används när man kort säger det viktigaste av det som har sagts
+
 发音提示：sam-man-FATT-nings-vis
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ Oböjligt, används som diskursmarkör/textbindningsord i fundament-position.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[sammanfatta]] (总结), [[sammanfattning]] (总结；摘要)
+- 同义词: [[kort-sagt|kort sagt]] (简言之), [[i-korthet|i korthet]] (简而言之), [[summa-summarum|summa summarum]] (总而言之)
+- 反义词: —
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

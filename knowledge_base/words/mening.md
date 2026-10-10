@@ -6,9 +6,9 @@ genus: "en"
 cefr: A2
 zh: 句子；意义
 en: sentence; meaning
-synonyms: []
+synonyms: [betydelse, sats]
 antonyms: []
-family: []
+family: [mena, meningslös, meningsfull]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # mening — substantiv (en)
 
 📖 中文：句子；意义 · English: sentence; meaning
+
+🇸🇪 Förklaring: 1) grupp av ord som börjar med stor bokstav och slutar med punkt; 2) det som något betyder eller syftet med något
+
+发音提示：/ˈmeːnɪŋ/ — e 读长音；ng 读 ŋ
 
 ## 语法变形 (Forms)
 
@@ -44,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[mena]] (意思是), [[meningslös]] (无意义的), [[meningsfull]] (有意义的)
+- 同义词: [[betydelse]] (意义), [[sats]] (句子)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

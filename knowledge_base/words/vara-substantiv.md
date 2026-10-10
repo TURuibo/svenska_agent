@@ -18,8 +18,11 @@ created: "2026-10-01"
 # vara — substantiv (en)
 
 📖 中文：商品；货物 · English: goods; ware
-发音提示：/ˈvɑːra/
 同形词：动词 [[vara]]（是/在）；本条是名词（商品）。
+
+🇸🇪 Förklaring: sak som någon har tillverkat och som man kan köpa och sälja
+
+发音提示：/ˈvɑːra/
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vara]]
-- 同义词: produkt
-- 反义词: 
+- 同义词: [[produkt]]
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

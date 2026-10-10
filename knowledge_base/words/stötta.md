@@ -7,8 +7,8 @@ cefr: B1
 zh: "支持；支撑"
 en: "support, back up"
 synonyms: [hjälpa]
-antonyms: []
-family: []
+antonyms: [motarbeta]
+family: [stöttepelare]
 topics: [topic-samhälle-och-politik]
 sentences: []
 known: false
@@ -19,6 +19,10 @@ source: source-2026-10-03-news-8-sidor
 # stötta — verb
 
 📖 中文：支持；支撑 · English: support, back up
+
+🇸🇪 Förklaring: ge någon hjälp och styrka när det är svårt; hålla uppe något så att det står stadigt
+
+发音提示：/ˈstœtːa/ — ö 读短音，tt 为长辅音
 
 ## 语法变形 (Forms)
 
@@ -44,8 +48,9 @@ source: source-2026-10-03-news-8-sidor
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[stöttepelare]] (支柱)
 - 同义词: [[hjälpa]]
+- 反义词: [[motarbeta]] (阻挠)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

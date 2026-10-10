@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "目光"
 en: "look, glance"
-synonyms: []
+synonyms: [titt, ögonkast]
 antonyms: []
-family: ["titta"]
+family: [titta]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # blick — substantiv
 
 📖 中文：目光 · English: look, glance
+
+🇸🇪 Förklaring: sätt att titta; det att man tittar snabbt på något
+
+发音提示：/blɪkː/ — 单音节，i 读短音
 
 ## 语法变形 (Forms)
 
@@ -43,8 +47,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[titta]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[titt]] (看一眼), [[ögonkast]] (一瞥)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

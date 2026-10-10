@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "学习，攻读"
 en: "to study"
-synonyms: []
+synonyms: [plugga, läsa]
 antonyms: []
-family: []
+family: [student, studier, studerande, studiemedel]
 topics: ["topic-skola-och-utbildning"]
 sentences: ["sent-vad-ville-elin-studera", "sent-varför-var-det-nästan-bara"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # studera — verb
 
 📖 中文：学习，攻读 · English: to study
+
+🇸🇪 Förklaring: läsa och lära sig om något, ofta på en skola eller högskola; undersöka något noga
+
 发音提示："stu-DE-ra"
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[student]] (学生), [[studier]] (学业), [[studerande]] (学生), [[studiemedel]] (助学金)
+- 同义词: [[plugga]] (学习（口语）), [[läsa]] (读书)
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 

@@ -6,9 +6,9 @@ verbgrupp: "4 (oregelbundet)"
 cefr: B1
 zh: 允许
 en: to allow
-synonyms: []
+synonyms: [låta, godkänna]
 antonyms: [förbjuda]
-family: []
+family: [tillåten, tillåtelse]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # tillåta — verb (grupp 4, oregelbundet)
 
 📖 中文：允许 · English: to allow
+
+🇸🇪 Förklaring: säga ja till att någon får göra något
+
 发音提示：/ˈtɪlːˌoːta/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
+- 词族: [[tillåten]] (被允许的), [[tillåtelse]] (允许)
+- 同义词: [[låta]] (让), [[godkänna]] (批准)
 - 反义词: [[förbjuda]]
 - 主题: [[topic-idrott]]
 

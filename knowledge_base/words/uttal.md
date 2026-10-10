@@ -9,7 +9,7 @@ zh: "发音"
 en: "pronunciation"
 synonyms: []
 antonyms: []
-family: ["uttala"]
+family: [uttala]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # uttal — substantiv (ett)
 
 📖 中文：发音 · English: pronunciation
+
+🇸🇪 Förklaring: sätt att säga ord och ljud i ett språk
+
 发音提示：UT-tal
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[uttala]]（发音，动词）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

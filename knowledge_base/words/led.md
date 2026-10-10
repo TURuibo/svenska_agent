@@ -22,6 +22,9 @@ interval: 0
 # led — substantiv (en)
 
 📖 中文：关节 · English: joint (body)
+
+🇸🇪 Förklaring: ställe i kroppen där två ben möts och kan röra sig, t.ex. knä eller armbåge
+
 发音提示：[leːd]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ledvärk]], [[ledgångsreumatism]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

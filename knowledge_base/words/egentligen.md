@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "到底；其实"
 en: "actually / really"
-synonyms: []
+synonyms: [faktiskt]
 antonyms: []
-family: []
+family: [egentlig]
 topics: []
 sentences:
   - sent-var-ar-ni-egentligen-ikvallt
@@ -25,6 +25,9 @@ interval: 0
 # egentligen — adverb
 
 📖 中文：到底；其实 · English: actually / really
+
+🇸🇪 Förklaring: används för att säga hur något verkligen är, ofta när det är annorlunda än man tror
+
 发音提示：e-GENT-li-gen；四音节，重音在第二音节。
 
 ## 语法变形 (Forms)

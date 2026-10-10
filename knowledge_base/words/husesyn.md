@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "参观房子（带客人看自己的家）"
 en: "house tour"
-synonyms: []
+synonyms: [rundvisning]
 antonyms: []
-family: []
+family: [hus, syn]
 topics: [topic-kultur-tradition]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # husesyn — substantiv
 
 📖 中文：参观房子（带客人看自己的家） · English: house tour
+
+🇸🇪 Förklaring: när man visar gäster runt i sitt hem, rum för rum
+
 发音提示：HU-se-syn
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[hus]] (房子), [[syn]] (视察；视力)
+- 同义词: [[rundvisning]] (参观导览)
+- 反义词: —
 - 主题: [[topic-kultur-tradition]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: en
 cefr: B1
 zh: "运动员（男 / 通称）"
 en: "athlete, sportsman"
-synonyms: []
+synonyms: [idrottare, atlet]
 antonyms: []
 family: [idrott, elitidrottare]
 topics: [topic-idrott]
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # idrottsman — substantiv (en)
 
 📖 中文：运动员（男 / 通称） · English: athlete, sportsman
+
+🇸🇪 Förklaring: person som håller på med sport och ofta tävlar
+
 发音提示：/ˈiːdrɔtsˌman/（重音在 id-，-s- 连接）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[idrott]]（体育）, [[elitidrottare]]（精英运动员）
-- 同义词:
-- 反义词:
+- 同义词: [[idrottare]] (运动员), [[atlet]] (运动员)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

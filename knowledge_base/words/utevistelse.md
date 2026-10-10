@@ -19,6 +19,9 @@ created: "2026-09-26"
 # utevistelse — substantiv
 
 📖 中文：户外活动时间 · English: outdoor time
+
+🇸🇪 Förklaring: tid som man är utomhus, till exempel på förskolan eller i skolan
+
 发音提示：U-te-vis-tel-se，主重音在 u-。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ute]], [[vistelse]]
-- 同义词: 
-- 反义词: 
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

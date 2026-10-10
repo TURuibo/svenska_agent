@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 土地，地面
 en: ground, land
-synonyms: []
+synonyms: [jord, terräng]
 antonyms: []
-family: []
+family: [markyta, jordbruksmark, markägare]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # mark — substantiv (en-ord)
 
 📖 中文：土地，地面 · English: ground, land
+
+🇸🇪 Förklaring: ytan på jorden som man går och bygger på; område med jord som någon äger eller använder
+
 发音提示：/mark/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[markyta]] (地表), [[jordbruksmark]] (农田), [[markägare]] (土地所有者)
+- 同义词: [[jord]] (土地), [[terräng]] (地形)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

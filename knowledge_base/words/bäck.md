@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 溪流
 en: stream, brook
-synonyms: []
+synonyms: [å]
 antonyms: []
-family: []
+family: [källa]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bäck — substantiv (en-ord)
 
 📖 中文：溪流 · English: stream, brook
+
+🇸🇪 Förklaring: litet vattendrag som rinner genom naturen
+
 发音提示：/bɛkː/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,10 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词 (större): [[flod]]（河流，更大）
 - 词族: [[källa]]（泉水，bäckens ursprung）
+- 同义词: [[å]] (小河)
+- 反义词: —
+- 同义词 (större): [[flod]]（河流，更大）
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

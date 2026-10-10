@@ -27,6 +27,9 @@ interval: 0
 # cykla — verb (grupp 1)
 
 📖 中文：骑自行车 · English: to cycle / ride a bike
+
+🇸🇪 Förklaring: ta sig fram på ett fordon med två hjul genom att trampa med fötterna
+
 发音提示：CYK-la；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[cykel]] (en, 自行车), [[cyklist]] (en, 骑车人), [[cykelbana]] (en, 自行车道)
+- 词族: [[cykel]] (en, 自行车), [[cyklist]] (en, 骑车人), [[cykelbana]] (en, 自行车道), [[cykelstig]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-trafik]], [[topic-stadsmiljo]]

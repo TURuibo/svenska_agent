@@ -8,7 +8,7 @@ zh: "剪刀"
 en: "scissors"
 synonyms: []
 antonyms: []
-family: []
+family: [nagelsax, trädgårdssax]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # sax — substantiv (en-ord)
 
 📖 中文：剪刀 · English: scissors
+
+🇸🇪 Förklaring: redskap med två vassa blad som man klipper papper, tyg eller hår med
+
 发音提示：SAX
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[nagelsax]] (指甲剪), [[trädgårdssax]] (园艺剪)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

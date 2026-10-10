@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "苍白的, 浅色的"
 en: "pale"
-synonyms: []
-antonyms: ["mörk", "röd"]
-family: []
+synonyms: [vit-i-ansiktet, ljus]
+antonyms: [mörk, röd]
+family: [bleka, blekna, blekmedel]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # blek — adjektiv
 
 📖 中文：苍白的, 浅色的 · English: pale
+
+🇸🇪 Förklaring: som nästan inte har någon färg i ansiktet; som har en ljus och svag färg
+
 发音提示：blek（单音节）
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: [[mörk]]
+- 词族: [[bleka]] (漂白), [[blekna]] (变淡), [[blekmedel]] (漂白剂)
+- 同义词: [[vit-i-ansiktet|vit i ansiktet]] (脸色苍白), [[ljus]] (浅色的)
+- 反义词: [[mörk]], [[röd]] (红色的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

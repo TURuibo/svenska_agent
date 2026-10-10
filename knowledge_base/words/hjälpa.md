@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: "A1"
 zh: "帮助"
 en: "to help"
-synonyms: ["bistå", "stödja"]
-antonyms: []
-family: ["hjälp", "hjälpsam"]
+synonyms: [bistå, stödja]
+antonyms: [hindra]
+family: [hjälp, hjälpsam]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hjälpa — verb
 
 📖 中文：帮助 · English: to help
+
+🇸🇪 Förklaring: göra något för någon så att det blir lättare för hen
+
 发音提示：hjäl-pa（h不发音）
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hjälp]], [[hjälpsam]]
-- 同义词:
-- 反义词:
+- 同义词: [[bistå]], [[stödja]]
+- 反义词: [[hindra]] (阻碍)
 - 主题:
 
 ## 用法提示 (Usage Notes)

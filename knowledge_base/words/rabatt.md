@@ -6,11 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "折扣"
 en: "discount"
-synonyms:
-  - rea
-antonyms: []
-family:
-  - rabattera
+synonyms: [rea]
+antonyms: [prishöjning, påslag]
+family: [rabattera]
 topics:
   - topic-mataffär
   - topic-betalning
@@ -28,6 +26,9 @@ interval: 0
 # rabatt — substantiv en
 
 📖 中文：折扣 · English: discount
+
+🇸🇪 Förklaring: sänkning av priset, så att man betalar mindre än vanligt
+
 发音提示：/ra-BATT/（重音在后）
 
 ## 语法变形 (Forms)
@@ -53,8 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: rabattera（打折）
-- 同义词: rea（打折促销）
+- 词族: [[rabattera]]（打折）
+- 同义词: [[rea]]（打折促销）
+- 反义词: [[prishöjning]] (涨价), [[påslag]] (加价)
 - 主题: [[topic-mataffär]] · [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

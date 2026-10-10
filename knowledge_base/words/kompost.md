@@ -23,6 +23,9 @@ interval: 0
 # kompost — substantiv (en)
 
 📖 中文：堆肥 · English: compost
+
+🇸🇪 Förklaring: hög eller behållare där matrester och växtdelar sakta blir till jord
+
 发音提示：KOM-post（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kompostera]], [[matavfall]], [[biogas]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-källsortering]], [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

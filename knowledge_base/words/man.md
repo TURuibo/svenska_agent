@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "男人"
 en: "man"
-synonyms: []
-antonyms: ["kvinna"]
-family: []
+synonyms: [karl, herre]
+antonyms: [kvinna]
+family: [manlig, manlighet]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # man — substantiv (en)
 
 📖 中文：男人 · English: man
+
+🇸🇪 Förklaring: vuxen person som är av hankön
+
 发音提示：/man/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[manlig]] (男性的), [[manlighet]] (男子气概)
+- 同义词: [[karl]] (男人), [[herre]] (先生)
 - 反义词: [[kvinna]]
 - 主题: [[topic-personer]]
 

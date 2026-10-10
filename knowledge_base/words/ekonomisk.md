@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "经济的；经济上的；节省的"
 en: "economic; financial; economical"
-synonyms: []
-antonyms: []
-family: [ekonomi]
+synonyms: [finansiell, sparsam]
+antonyms: [slösaktig]
+family: [ekonomi, ekonom, ekonomiskt]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-vad-är-ekonomiskt-bistånd, sent-ekonomiskt-bistånd-är-pengar-som-du-kan, sent-du-kan-få-ekonomiskt-bistånd-om-du-inte, sent-reglerna-om-ekonomiskt-bistånd-finns-i, sent-två-typer-av-ekonomiskt-bistånd, sent-ekonomiskt-bistånd-kan-vara-två-typer-av, sent-du-kan-också-få-ekonomiskt-bistånd-för-vissa]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # ekonomisk — adjektiv
 
 📖 中文：经济的；经济上的；节省的 · English: economic; financial; economical
+
+🇸🇪 Förklaring: 1) som har med pengar, handel och produktion att göra; 2) som inte kostar mycket eller inte slösar
+
 发音提示：e-ko-NO-misk，重音在第三音节 `no`；`k` 读 /k/。
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ekonomi]]（名词：经济；财务）、`ekonom`（经济学家）、`ekonomiskt`（副词）
-- 同义词: —
-- 反义词: —
+- 词族: [[ekonomi]]（名词：经济；财务）, [[ekonom]]（经济学家）, [[ekonomiskt]]（副词）
+- 同义词: [[finansiell]] (财务的), [[sparsam]] (节省的)
+- 反义词: [[slösaktig]] (浪费的)
 - 主题: [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

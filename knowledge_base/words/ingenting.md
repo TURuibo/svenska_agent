@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "什么都没有；没有任何东西"
 en: "nothing"
-synonyms: []
-antonyms: ["allt", "något"]
-family: ["ingen", "inget"]
+synonyms: [inget]
+antonyms: [allt, något]
+family: [ingen, inget]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ingenting — pronomen
 
 📖 中文：什么都没有；没有任何东西 · English: nothing
+
+🇸🇪 Förklaring: inte en enda sak, inte något alls
+
 发音提示：/ˈɪŋɛntɪŋ/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ingen]], inget
-- 同义词: inget (略口语)
-- 反义词: allt (一切), [[något]] (某事)
+- 词族: [[ingen]], [[inget]]
+- 同义词: [[inget]] (略口语)
+- 反义词: [[allt]] (一切), [[något]] (某事)
 - 主题:
 
 ## 用法提示 (Usage Notes)

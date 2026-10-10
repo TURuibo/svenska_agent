@@ -9,7 +9,7 @@ zh: "菜单；食谱表"
 en: "menu; weekly meal plan"
 synonyms: [meny]
 antonyms: []
-family: []
+family: [veckomatsedel, sedel]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: [sent-veckans-matsedel-hänger-i-hallen]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # matsedel — substantiv (en)
 
 📖 中文：菜单；食谱表 · English: menu; weekly meal plan
+
+🇸🇪 Förklaring: lista över de rätter som serveras, till exempel i skolan eller på en restaurang
+
 发音提示：mat-se-del，重音在 **mat**；复合词 mat + sedel（sedel 本义"纸条/纸币"）。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[veckomatsedel]] (每周菜单), [[sedel]] (单子；纸币)
 - 同义词: [[meny]]（餐馆点菜的菜单）
+- 反义词: —
 - 主题: [[topic-småbarn-mat-och-sömn]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

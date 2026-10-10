@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "尘土；粉尘"
 en: "dust"
-synonyms: []
+synonyms: [smuts]
 antonyms: []
-family: ["dammig", "damma"]
+family: [dammig, damma]
 topics: ["topic-hälsa"]
 sentences: ["sent-damm-torr-luft-och-virus", "sent-de-tycker-att-dammet-fran-marken"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # damm — substantiv
 
 📖 中文：尘土；粉尘 · English: dust
+
+🇸🇪 Förklaring: små, lätta korn av smuts som samlas på saker, både inne och ute
+
 发音提示：dam
 
 ## 语法变形 (Forms)
@@ -54,8 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dammig]], [[damma]]
-- 同义词:
-- 反义词:
+- 同义词: [[smuts]] (污垢)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

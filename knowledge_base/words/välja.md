@@ -6,12 +6,9 @@ verbgrupp: "2 (oregelbundet — stamvokalbyte)"
 cefr: A2
 zh: "选择、挑选"
 en: "to choose, to select"
-synonyms:
-  - "[[utse]]"
-antonyms: []
-family:
-  - "[[val]]"
-  - "[[väljare]]"
+synonyms: [utse, plocka-ut]
+antonyms: [avstå]
+family: [val, väljare, valbar]
 topics: []
 sentences: []
 known: false
@@ -25,6 +22,9 @@ interval: 0
 # välja — verb (grupp 2, oregelbundet)
 
 📖 中文：选择、挑选 · English: to choose, to select
+
+🇸🇪 Förklaring: bestämma sig för en eller flera av flera möjligheter
+
 发音提示：["vɛlja]，ä 发 [ɛ]（像 "air" 的元音）；lj 中的 l 要发音，不是 [j]。
 
 ## 语法变形 (Forms)
@@ -58,9 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[val]]（选择/选举，名词）、[[väljare]]（选民）、valbar（可选的，adj.）
-- 同义词: [[utse]]（选定、任命）、plocka ut（挑出，口语）
-- 反义词: —
+- 词族: [[val]]（选择/选举，名词）, [[väljare]]（选民）, [[valbar]]（可选的，adj.）
+- 同义词: [[utse]]（选定、任命）, [[plocka-ut|plocka ut]]（挑出，口语）
+- 反义词: [[avstå]] (放弃)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

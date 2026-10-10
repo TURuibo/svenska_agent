@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "完成的；准备好的"
 en: "finished; ready"
-synonyms: ["klar"]
-antonyms: ["ofärdig"]
-family: []
+synonyms: [klar]
+antonyms: [ofärdig]
+family: [färdighet, färdigställa]
 topics: ["topic-allmanna-adjektiv-adverb"]
 sentences: ["sent-när-jag-kom-till-bilprovningen-var-jag-färdig"]
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-07"
 # färdig — adjektiv
 
 📖 中文：完成的；准备好的 · English: finished; ready
+
+🇸🇪 Förklaring: som är helt klar; som är beredd att börja
+
+发音提示：/ˈfæːɖɪɡ/ — ä 在 r 前读 æː；rd 合成卷舌 ɖ
 
 ## 语法变形 (Forms)
 
@@ -32,7 +36,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: klar
+- 词族: [[färdighet]] (技能), [[färdigställa]] (完成)
+- 同义词: [[klar]]
+- 反义词: [[ofärdig]]
 - 主题: [[topic-allmanna-adjektiv-adverb]]
 
 ## 用法提示 (Usage Notes)

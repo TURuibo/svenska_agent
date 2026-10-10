@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "冲突"
 en: "conflict"
-synonyms: []
+synonyms: [strid, bråk, tvist]
 antonyms: [fred]
-family: []
+family: [konflikträdd, intressekonflikt, konfliktlösning]
 topics: [topic-argumentation, topic-krig-och-konflikt]
 sentences: [sent-hemma-hos-oss-uppstod-nyligen-en]
 known: false
@@ -19,6 +19,10 @@ created: 2026-10-05
 # konflikt — substantiv en/ett: en
 
 📖 中文：冲突 · English: conflict
+
+🇸🇪 Förklaring: allvarlig oenighet eller strid mellan personer, grupper eller länder
+
+发音提示：/kɔnˈflɪkt/ — 重音在第二音节 -flikt
 
 ## 语法变形 (Forms)
 
@@ -40,8 +44,8 @@ created: 2026-10-05
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[konflikträdd]] (怕冲突的), [[intressekonflikt]] (利益冲突), [[konfliktlösning]] (冲突解决)
+- 同义词: [[strid]] (斗争), [[bråk]] (争吵), [[tvist]] (争端)
 - 反义词: [[fred]]
 - 主题: [[topic-argumentation]], [[topic-krig-och-konflikt]]
 

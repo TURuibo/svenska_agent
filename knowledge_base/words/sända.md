@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "播送；播出；发送"
 en: "to broadcast; to send"
-synonyms: ["skicka"]
-antonyms: []
-family: ["sändning", "utsändning"]
+synonyms: [skicka]
+antonyms: [ta-emot]
+family: [sändning, utsändning]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sända — verb (grupp 2)
 
 📖 中文：播送；播出；发送 · English: to broadcast; to send
+
+🇸🇪 Förklaring: visa eller spela upp ett program i tv eller radio; låta något gå i väg till någon
+
 发音提示：['sɛnda]
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sändning]] (en, 播出), utsändning (en, 转播)
+- 词族: [[sändning]] (en, 播出), [[utsändning]] (en, 转播)
 - 同义词: [[skicka]] (更常用于"发送"物品/信息)
+- 反义词: [[ta-emot|ta emot]] (接收)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

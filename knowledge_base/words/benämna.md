@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "命名；把做的事说出来"
 en: "to name, to label (in words)"
-synonyms: []
+synonyms: [kalla, namnge]
 antonyms: []
-family: []
+family: [namn, benämning, nämna]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # benämna — verb
 
 📖 中文：命名；把做的事说出来 · English: to name, to label (in words)
+
+🇸🇪 Förklaring: ge något ett namn; säga vad något heter eller kallas
+
 发音提示：/beˈnɛmːna/ — 重音在 -nämn-
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[namn]] (名字), [[benämning]] (名称), [[nämna]] (提到)
+- 同义词: [[kalla]] (称为), [[namnge]] (命名)
+- 反义词: —
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

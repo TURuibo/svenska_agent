@@ -23,6 +23,9 @@ interval: 0
 # byteskö — substantiv (en)
 
 📖 中文：换位等候队列（接受保证名额后仍在等待首选名额的队列） · English: transfer/switching queue
+
+🇸🇪 Förklaring: kö för den som redan har en plats men väntar på att få flytta till en plats som man hellre vill ha
+
 发音提示：**by**-tes-kö，复合词，重音在第一部分。
 
 ## 语法变形 (Forms)

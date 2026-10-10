@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "牛；奶牛"
 en: "cow"
-synonyms: []
+synonyms: [kossa]
 antonyms: []
-family: []
+family: [mjölkko, nötkreatur]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ko — substantiv (en)
 
 📖 中文：牛；奶牛 · English: cow
+
+🇸🇪 Förklaring: stort hondjur på bondgården som ger mjölk
+
 发音提示：/kuː/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mjölkko]] (奶牛), [[nötkreatur]] (牛羊等牲畜)
-- 同义词: —
+- 同义词: [[kossa]] (奶牛（口语）)
 - 反义词: —
 - 主题: [[topic-djur]]
 

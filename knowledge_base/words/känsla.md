@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "感情、感觉"
 en: "feeling"
-synonyms: ["emotion"]
-antonyms: []
-family: ["känna"]
+synonyms: [emotion]
+antonyms: [förnuft]
+family: [känna]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # känsla — substantiv
 
 📖 中文：感情、感觉 · English: feeling
+
+🇸🇪 Förklaring: det som man upplever inom sig, t.ex. glädje eller rädsla; också förmåga att märka saker med kroppen
+
+发音提示：/ˈɕɛnsla/ — k 在 ä 前读 ɕ；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -43,7 +47,7 @@ interval: 0
 
 - 词族: [[känna]]
 - 同义词: [[emotion]]
-- 反义词: []
+- 反义词: [[förnuft]] (理智)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: 开始；启动；创办
 en: to start; to launch
 synonyms: [börja]
 antonyms: [sluta]
-family: []
+family: [start, startknapp, omstart]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # starta — verb (grupp 1)
 
 📖 中文：开始；启动；创办 · English: to start; to launch
+
+🇸🇪 Förklaring: 1) få något att börja gå eller fungera, t.ex. en motor eller en dator; 2) börja med eller grunda något, t.ex. ett företag
+
 发音提示：/ˈstarta/
 
 ## 语法变形 (Forms)
@@ -38,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: börja
-- 反义词: sluta
+- 词族: [[start]] (开始；起跑), [[startknapp]] (启动键), [[omstart]] (重启)
+- 同义词: [[börja]]
+- 反义词: [[sluta]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

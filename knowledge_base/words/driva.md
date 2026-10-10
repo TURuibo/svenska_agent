@@ -6,8 +6,8 @@ verbgrupp: "4"
 cefr: B1
 zh: 经营；推动；驱动
 en: to run (a business), to drive, to push
-synonyms: []
-antonyms: []
+synonyms: [leda, sköta, tvinga]
+antonyms: [lägga-ner]
 family: [köra]
 topics: []
 sentences: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # driva — verb (grupp 4)
 
 📖 中文：经营；推动；漂流 · English: to run, operate; to drive
+
+🇸🇪 Förklaring: 1) leda och sköta ett företag eller en verksamhet; 2) få något att röra sig framåt; 3) pressa någon att göra något
+
 发音提示：/ˈdriːva/
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[köra]] (开, 驾驶)
+- 同义词: [[leda]] (经营), [[sköta]] (管理), [[tvinga]] (迫使)
+- 反义词: [[lägga-ner|lägga ner]] (关闭)
 - 主题:
 
 ## 用法提示 (Usage Notes)

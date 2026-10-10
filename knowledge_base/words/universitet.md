@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "大学"
 en: "university"
-synonyms: []
+synonyms: [högskola]
 antonyms: []
-family: []
+family: [universitetsutbildning, universitetslektor]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # universitet — substantiv (ett-ord)
 
 📖 中文：大学 · English: university
+
+🇸🇪 Förklaring: skola för högre utbildning och forskning efter gymnasiet
+
 发音提示：u-ni-ver-si-TET
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 - 词族: [[universitetsutbildning]], [[universitetslektor]]
 - 同义词: [[högskola]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: "气候威胁"
 en: "climate threat"
 synonyms: []
 antonyms: []
-family: ["klimatförändring"]
+family: [klimatförändring]
 topics: ["topic-miljö-och-klimat"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # klimathot — substantiv
 
 📖 中文：气候威胁 · English: climate threat
-发音提示：
+
+🇸🇪 Förklaring: fara för människor och natur som kommer av att jorden blir varmare
+
+发音提示：/klɪˈmɑːtˌhuːt/ — 重音在 mat；hot 的 o 读 uː
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klimatförändring]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

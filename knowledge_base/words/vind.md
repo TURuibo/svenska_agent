@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 风
 en: wind
-synonyms: []
+synonyms: [blåst, bris]
 antonyms: []
-family: []
+family: [vindkraft, motvind, medvind, vindstilla]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # vind — substantiv (en-ord)
 
 📖 中文：风 · English: wind
+
+🇸🇪 Förklaring: luft som rör sig utomhus
+
 发音提示：/vɪnd/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vindkraft]] (风能), [[motvind]] (逆风), [[medvind]] (顺风), [[vindstilla]] (无风的)
+- 同义词: [[blåst]] (大风), [[bris]] (微风)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

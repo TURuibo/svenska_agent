@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: A1
 zh: 知道
 en: to know (a fact)
-synonyms: []
+synonyms: [känna-till, ha-koll-på]
 antonyms: []
-family: []
+family: [vetskap, vetenskap, vetande, ovetande]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # veta — verb (oregelbundet)
 
 📖 中文：知道 · English: to know (a fact)
+
+🇸🇪 Förklaring: ha kunskap eller information om något
+
 发音提示：/ˈveːta/；vet /veːt/；visste /ˈvɪstɛ/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[vetskap]] (知晓), [[vetenskap]] (科学), [[vetande]] (知识), [[ovetande]] (不知情的)
+- 同义词: [[känna-till|känna till]] (了解), [[ha-koll-på|ha koll på]] (心里有数)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

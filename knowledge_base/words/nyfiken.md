@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "好奇的"
 en: "curious"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [intresserad, frågvis]
+antonyms: [ointresserad, likgiltig]
+family: [nyfikenhet]
 topics: [topic-djur, topic-karaktarsord]
 sentences:
   - "sent-alfred-var-ett-nyfiket-barn"
@@ -24,6 +24,9 @@ interval: 0
 # nyfiken — adjektiv
 
 📖 中文：好奇的 · English: curious
+
+🇸🇪 Förklaring: som gärna vill veta eller ta reda på saker
+
 发音提示：/ˈnyːˌfiːkɛn/
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[nyfikenhet]] (好奇心)
-- 同义词: —
-- 反义词: —
+- 同义词: [[intresserad]] (感兴趣的), [[frågvis]] (好问的)
+- 反义词: [[ointresserad]] (不感兴趣的), [[likgiltig]] (漠不关心的)
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

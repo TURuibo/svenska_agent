@@ -9,7 +9,7 @@ zh: "天花板；屋顶"
 en: "ceiling; roof"
 synonyms: []
 antonyms: [golv]
-family: ["takläggning", "taklucka"]
+family: [takläggning, taklucka]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tak — substantiv (ett)
 
 📖 中文：天花板；屋顶 · English: ceiling; roof
+
+🇸🇪 Förklaring: den översta delen av ett hus som skyddar mot regn och snö; den övre ytan i ett rum
+
 发音提示：/tɑːk/；长 a 音。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: takläggning (屋顶铺设), taklucka (天窗)
+- 词族: [[takläggning]] (屋顶铺设), [[taklucka]] (天窗)
 - 同义词: —
 - 反义词: [[golv]] (地板)
 - 主题: [[topic-hemmet]]

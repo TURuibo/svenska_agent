@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "妻子；夫人"
 en: "wife; Mrs"
-synonyms: []
-antonyms: ["make", "man"]
-family: ["make", "gift", "äktenskap"]
+synonyms: [hustru, maka]
+antonyms: [make, man]
+family: [make, gift, äktenskap]
 topics: ["topic-familj-och-barn", "topic-personer"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fru — substantiv (en)
 
 📖 中文：妻子；夫人 · English: wife; Mrs
+
+🇸🇪 Förklaring: gift kvinna, sett i förhållande till sin man; artig titel före en gift kvinnas efternamn
+
 发音提示：/fruː/
 
 ## 语法变形 (Forms)
@@ -38,8 +41,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[make]], [[gift]], [[äktenskap]]
+- 同义词: [[hustru]] (妻子), [[maka]] (妻子)
 - 反义词: [[make]], [[man]]
-- 词族: [[make]], [[gift]]
 - 主题: [[topic-familj-och-barn]], [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

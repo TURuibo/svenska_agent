@@ -18,6 +18,9 @@ created: "2026-10-01"
 # tvätt — substantiv (en)
 
 📖 中文：待洗/洗好的衣物；洗衣 · English: laundry
+
+🇸🇪 Förklaring: smutsiga eller rena kläder och lakan som man gör rent i maskin; det att göra rent kläder
+
 发音提示：/tvɛt/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tvättmaskin]]
-- 同义词: 
-- 反义词: 
+- 同义词: —
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

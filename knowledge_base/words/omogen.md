@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "未成熟的, 生的"
 en: "unripe, immature"
-synonyms: []
-antonyms: ["mogen"]
-family: ["mogen", "mogna"]
+synonyms: [grön, barnslig]
+antonyms: [mogen]
+family: [mogen, mogna]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # omogen — adjektiv
 
 📖 中文：未成熟的, 生的 · English: unripe, immature
+
+🇸🇪 Förklaring: (om frukt) som inte är färdig att äta än; (om person) som beter sig barnsligt
+
 发音提示：o-mo-gen
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mogen]], [[mogna]]
-- 同义词:
+- 同义词: [[grön]] (未熟的), [[barnslig]] (幼稚的)
 - 反义词: [[mogen]]
 - 主题: [[topic-mat-dryck]]
 

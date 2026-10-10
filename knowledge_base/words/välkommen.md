@@ -6,9 +6,9 @@ genus: ""
 cefr: "A1"
 zh: "受欢迎的"
 en: "welcome"
-synonyms: []
-antonyms: []
-family: ["välkomna"]
+synonyms: [efterlängtad, önskad]
+antonyms: [ovälkommen]
+family: [välkomna]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # välkommen — adjektiv
 
 📖 中文：受欢迎的 · English: welcome
+
+🇸🇪 Förklaring: som man är glad att få träffa eller ta emot
+
 发音提示：/ˈvɛlˌkɔmən/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[välkomna]]
+- 同义词: [[efterlängtad]] (期盼已久的), [[önskad]] (被期望的)
+- 反义词: [[ovälkommen]] (不受欢迎的)
 - 主题: [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "同居伴侣"
 en: "live-in partner, cohabiting partner"
 synonyms: [partner, pojkvän, flickvän]
 antonyms: [make, maka]
-family: [samboskap, sambor, bo tillsammans]
+family: [samboskap, bo, sambor, bo-tillsammans]
 topics: [topic-familj-och-barn]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sambo — substantiv (en)
 
 📖 中文：同居伴侣 · English: live-in partner, cohabiting partner
+
+🇸🇪 Förklaring: person som man bor ihop med och har ett kärleksförhållande med utan att vara gift
+
 发音提示：/ˈsambuː/；重音在 sam-，长 o。
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[samboskap]] (ett, 同居关系), [[bo]] (v. 居住)
-- 同义词: [[partner]] (en, 伴侣), [[pojkvän]]/[[flickvän]] (男友/女友，非正式)
-- 反义词: [[make]] / [[maka]] (丈夫/妻子，已婚)
+- 词族: [[samboskap]] (ett, 同居关系), [[bo]] (v. 居住), [[sambor]], [[bo-tillsammans]]
+- 同义词: [[partner]] (en, 伴侣), [[pojkvän]]/[[flickvän]] (男友/女友，非正式), [[flickvän]]
+- 反义词: [[make]] / [[maka]] (丈夫/妻子，已婚), [[maka]]
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

@@ -6,7 +6,7 @@ genus: "en"
 cefr: A2
 zh: 开始；开头
 en: beginning, start
-synonyms: []
+synonyms: [start, inledning]
 antonyms: [slut]
 family: [börja]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # början — substantiv (en)
 
 📖 中文：开始，开头 · English: beginning
+
+🇸🇪 Förklaring: den första delen av något, till exempel en tid, en bok eller en händelse
+
 发音提示：/ˈbœrjan/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[börja]]
-- 同义词:
-- 反义词: slut
+- 同义词: [[start]] (开始), [[inledning]] (开头)
+- 反义词: [[slut]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

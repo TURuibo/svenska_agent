@@ -18,6 +18,9 @@ created: 2026-10-05
 # konstnär — substantiv (en-ord)
 
 📖 中文：艺术家 · English: artist
+
+🇸🇪 Förklaring: person som målar tavlor, gör skulpturer eller skapar andra konstverk
+
 发音提示：[ˈkɔnːstnɛːr]
 
 ## 语法变形 (Forms)
@@ -40,7 +43,9 @@ created: 2026-10-05
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: konst（艺术）
+- 词族: [[konst]]（艺术）
+- 同义词: —
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

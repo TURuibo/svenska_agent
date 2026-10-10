@@ -6,12 +6,9 @@ genus: en
 cefr: B1
 zh: "①附近、邻近 ②亲近、亲密"
 en: "①nearness, vicinity ②closeness, intimacy"
-synonyms:
-  - "[[nära]]"
-antonyms:
-  - "[[avstånd]]"
-family:
-  - "[[nära]]"
+synonyms: [grannskap, intimitet, nära]
+antonyms: [avstånd, trygg]
+family: [nära, närma-sig]
 topics: []
 sentences: []
 known: false
@@ -25,6 +22,9 @@ interval: 0
 # närhet — substantiv (en)
 
 📖 中文：①附近、邻近 ②亲近、亲密 · English: ①nearness, vicinity ②closeness, intimacy
+
+🇸🇪 Förklaring: 1) området runt omkring något, kort avstånd; 2) känslan av att vara tätt och tryggt tillsammans med någon
+
 发音提示：/ˈnæːrˌheːt/，重音在 **när**；ä 发长 [æː]。
 
 ## 语法变形 (Forms)
@@ -57,9 +57,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[nära]]（近的 / 接近，adj./prep./adv.）、närma sig（接近，verb）
-- 同义词: ①义 ≈ grannskap（邻里）；②义 ≈ intimitet（亲密）
-- 反义词: [[avstånd]]（距离）、[[trygg]] 的反面无关
+- 词族: [[nära]]（近的 / 接近，adj./prep./adv.）, [[närma-sig|närma sig]]（接近，verb）
+- 同义词: ①义 ≈ [[grannskap]]（邻里）, ②义 ≈ [[intimitet]]（亲密）, [[nära]]
+- 反义词: [[avstånd]]（距离）, [[trygg]] 的反面无关
 - 主题: —
 
 ## 用法提示 (Usage Notes)

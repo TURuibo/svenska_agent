@@ -8,8 +8,8 @@ cefr: A1
 zh: "秋天；秋季"
 en: "autumn; fall"
 synonyms: []
-antonyms: ["vår"]
-family: ["höstlig"]
+antonyms: [vår]
+family: [höstlig]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-hosten-fargar-skogen-i-rott
@@ -26,6 +26,9 @@ interval: 0
 # höst — substantiv (en)
 
 📖 中文：秋天；秋季 · English: autumn; fall
+
+🇸🇪 Förklaring: årstiden mellan sommar och vinter, när löven faller från träden
+
 发音提示：/høst/
 
 ## 语法变形 (Forms)
@@ -53,6 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[höstlig]]
+- 同义词: —
 - 反义词: [[vår]]
 - 主题: [[topic-vader-och-arstider]]
 

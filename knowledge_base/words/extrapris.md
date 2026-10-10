@@ -6,10 +6,9 @@ genus: ett
 cefr: A2
 zh: 特价
 en: special price / special offer
-synonyms: []
-antonyms: []
-family:
-  - pris
+synonyms: [rea, specialpris, erbjudande]
+antonyms: [ordinarie-pris]
+family: [pris]
 topics:
   - topic-mataffär
   - topic-betalning
@@ -26,6 +25,9 @@ interval: 0
 # extrapris — substantiv (ett)
 
 📖 中文：特价 · English: special price / special offer
+
+🇸🇪 Förklaring: lägre pris än vanligt under en kort tid
+
 发音提示：EX-tra-pris
 
 ## 语法变形 (Forms)
@@ -52,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[pris]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[rea]] (打折), [[specialpris]] (特价), [[erbjudande]] (优惠)
+- 反义词: [[ordinarie-pris|ordinarie pris]] (原价)
 - 主题: [[topic-mataffär]], [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

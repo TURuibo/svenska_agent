@@ -6,13 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "健康；幸福；安康"
 en: "wellbeing; welfare"
-synonyms:
-  - hälsa
-  - välbefinnande
-antonyms:
-  - ohälsa
-family:
-  - må-bra
+synonyms: [välbefinnande, hälsa]
+antonyms: [ohälsa]
+family: [må-bra]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -28,6 +24,9 @@ interval: 0
 # välmående — substantiv ett
 
 📖 中文：健康；幸福；安康 · English: wellbeing; welfare
+
+🇸🇪 Förklaring: när man mår bra i både kropp och själ
+
 发音提示：/VÄL-mo-an-de/
 
 ## 语法变形 (Forms)
@@ -50,6 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: välbefinnande（主观上的舒适感）· hälsa（健康）
-- 反义词: ohälsa（不健康）
+- 词族: [[må-bra]]
+- 同义词: [[välbefinnande]]（主观上的舒适感）· hälsa（健康）, [[hälsa]]
+- 反义词: [[ohälsa]]（不健康）
 - 主题: [[topic-samhälle-och-politik]]

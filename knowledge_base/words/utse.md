@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: B2
 zh: 任命，指定，选定
 en: to appoint, designate
-synonyms: utnämna
-antonyms: []
-family: se
+synonyms: [utnämna]
+antonyms: [avsätta]
+family: [se, utsikt]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # utse — verb (oregelbundet, som se)
 
 📖 中文：任命，指定，选定 · English: to appoint, to designate
+
+🇸🇪 Förklaring: välja någon till en uppgift eller ett uppdrag
+
 发音提示：/ˈʉːtseː/
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[se]], utsikt
+- 词族: [[se]], [[utsikt]]
 - 同义词: [[utnämna]]
-- 反义词:
+- 反义词: [[avsätta]] (罢免)
 - 主题:
 
 ## 用法提示 (Usage Notes)

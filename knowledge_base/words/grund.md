@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 基础；原因
 en: basis; ground; reason
-synonyms: []
+synonyms: [bas, fundament, anledning]
 antonyms: []
-family: []
+family: [grunda, grundläggande, grundskola, på-grund-av]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # grund — substantiv (en-ord)
 
 📖 中文：基础、地基；原因 · English: basis, foundation; reason
+
+🇸🇪 Förklaring: 1) det som något vilar på, till exempel ett hus; 2) orsak eller skäl till något
+
+发音提示：/ɡrɵnd/ — u 读短音 ɵ
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[grunda]] (创建), [[grundläggande]] (基本的), [[grundskola]] (基础学校), [[på-grund-av|på grund av]] (由于)
+- 同义词: [[bas]] (基础), [[fundament]] (地基), [[anledning]] (原因)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

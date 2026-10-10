@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: "B1"
 zh: "豪华的；奢侈的"
 en: "luxurious"
-synonyms: []
+synonyms: [exklusiv, påkostad]
 antonyms: [enkel, billig]
-family: []
+family: [lyx]
 topics: [topic-samhälle-och-politik]
 sentences:
   - sent-nu-planerar-de-att-lata-kushners-foretag-bygga
@@ -22,6 +22,9 @@ interval: 0
 # lyxig — adjektiv
 
 📖 中文：豪华的；奢侈的 · English: luxurious
+
+🇸🇪 Förklaring: som är mycket dyr, elegant och bekväm
+
 发音提示：LYX-ig
 
 ## 语法变形 (Forms)
@@ -47,6 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lyx]]
+- 同义词: [[exklusiv]] (高级的), [[påkostad]] (奢华的)
 - 反义词: [[enkel]], [[billig]]
 - 主题: [[topic-samhälle-och-politik]]
 

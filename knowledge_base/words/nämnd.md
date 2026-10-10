@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B2"
 zh: "委员会（市政府下设的专门机构）；理事会"
 en: "committee; board (municipal)"
-synonyms: [styrelse]
+synonyms: [styrelse, utskott]
 antonyms: []
-family: []
+family: [nämna, kommunfullmäktige]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-vi-vill-inte-förbjuda-elsparkcyklar-men-vi]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # nämnd — substantiv (en)
 
 📖 中文：委员会（市政下设的专门机构） · English: committee; board (municipal)
+
+🇸🇪 Förklaring: grupp av politiker som har ansvar för ett visst område i en kommun eller region
+
 发音提示：NÄMND，一个音节，`mn` 连读。
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 动词 `nämna`（提到）与它同源；上级机构 [[kommunfullmäktige]]
-- 同义词: [[styrelse]]（董事会 / 理事会，更通用）；近义 `utskott`（议会下属的专门小组）
+- 词族: 动词 [[nämna]]（提到）与它同源, 上级机构 [[kommunfullmäktige]]
+- 同义词: [[styrelse]]（董事会 / 理事会，更通用）, 近义 [[utskott]]（议会下属的专门小组）
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 市政厅
 en: town hall, city hall
-synonyms: []
+synonyms: [stadshus]
 antonyms: []
-family: ["hus"]
+family: [hus]
 topics: ["topic-stadsmiljo", "topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # rådhus — substantiv (ett)
 
 📖 中文：市政厅 · English: town hall, city hall
+
+🇸🇪 Förklaring: byggnad där en stads styrelse eller domstol har sina lokaler
+
 发音提示：RÅD-hus
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hus]]
+- 同义词: [[stadshus]] (市政厅)
+- 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

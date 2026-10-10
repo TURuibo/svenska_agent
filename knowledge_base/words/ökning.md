@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: 增加；增长
 en: increase
-synonyms: []
+synonyms: [tillväxt, höjning, uppgång]
 antonyms: [minskning]
-family: []
+family: [öka, löneökning, befolkningsökning]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # ökning — substantiv (en)
 
 📖 中文：增加；增长 · English: increase
+
+🇸🇪 Förklaring: det att något blir större eller fler
+
 发音提示：/ˈøːknɪŋ/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: minskning
+- 词族: [[öka]] (增加), [[löneökning]] (加薪), [[befolkningsökning]] (人口增长)
+- 同义词: [[tillväxt]] (增长), [[höjning]] (提高), [[uppgång]] (上升)
+- 反义词: [[minskning]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "监护人"
 en: "legal guardian"
 synonyms: [förälder]
 antonyms: []
-family: []
+family: [vårdnad, vård]
 topics: [topic-förskola-vardag]
 sentences: [sent-kom-ihåg-att-det-är-ni]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vårdnadshavare — substantiv (en)
 
 📖 中文：监护人 · English: legal guardian
+
+🇸🇪 Förklaring: person som enligt lagen har ansvar för ett barn, oftast en förälder
+
 发音提示：[ˈvoːɖnadsˌhɑːvarɛ]，vårdnad（监护权）+ s + havare（持有者）。
 
 ## 语法变形 (Forms)
@@ -41,8 +44,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vårdnad, vård
+- 词族: [[vårdnad]], [[vård]]
 - 同义词: [[förälder]]（日常口语用 förälder，公文用 vårdnadshavare）
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

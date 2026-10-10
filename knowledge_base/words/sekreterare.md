@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 秘书
 en: secretary
-synonyms: []
+synonyms: [assistent]
 antonyms: []
-family: []
+family: [sekretariat]
 topics: [topic-yrken]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sekreterare — substantiv (en)
 
 📖 中文：秘书 · English: secretary
+
+🇸🇪 Förklaring: person som sköter brev, telefon, möten och andra kontorsuppgifter åt en chef eller en organisation
+
 发音提示：sek-re-te-RA-re；重音在第四音节。
 
 ## 语法变形 (Forms)

@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 丑的，难看的
 en: ugly
-synonyms: ["oansenlig"]
-antonyms: ["vacker", "snygg", "fin"]
-family: ["fulhet"]
+synonyms: [oansenlig]
+antonyms: [vacker, snygg, fin]
+family: [fulhet]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # ful — adjektiv
 
 📖 中文：丑的，难看的 · English: ugly
+
+🇸🇪 Förklaring: som inte är vacker eller trevlig att se på
+
 发音提示：FUL（单音节）
 
 ## 语法变形 (Forms)

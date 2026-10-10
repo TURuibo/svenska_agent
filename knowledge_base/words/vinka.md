@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "挥手"
 en: "to wave"
-synonyms: []
+synonyms: [vifta]
 antonyms: []
-family: []
+family: [vinka-av, vink]
 topics: [topic-småbarn-känslor-och-beteende, topic-förskola-vardag]
 sentences: [sent-nu-går-vi-och-vinkar-i]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vinka — verb
 
 📖 中文：挥手 · English: to wave
+
+🇸🇪 Förklaring: röra handen fram och tillbaka för att hälsa eller säga hej då
+
 发音提示：/ˈvɪŋka/，i 短音，nk 读 [ŋk]。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vinka-av|vinka av]] (挥手送别), [[vink]] (暗示；手势)
+- 同义词: [[vifta]] (挥动)
+- 反义词: —
 - 主题: [[topic-småbarn-känslor-och-beteende]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

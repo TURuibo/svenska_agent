@@ -7,9 +7,9 @@ genus: en
 cefr: A1
 zh: "朋友"
 en: "friend"
-synonyms: ["kompis", "bekant"]
-antonyms: ["fiende"]
-family: ["vänlig", "vänlighet", "vänskap", "vänkrets"]
+synonyms: [kompis, bekant]
+antonyms: [fiende]
+family: [vänlig, vänlighet, vänskap, vänkrets]
 topics: ["topic-relationer"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vän — substantiv
 
 📖 中文：朋友 · English: friend
+
+🇸🇪 Förklaring: person som man tycker om och har en nära relation till
+
 发音提示：ä 发 /ɛ/ 音（类似"椰"的 e），不要读成 "van"。重音在第一音节，音调1（低平调）。
 
 ## 语法变形 (Forms)
@@ -60,8 +63,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[vänlig]] (友好的) · [[vänlighet]] (友善) · [[vänskap]] (友谊) · [[vänkrets]] (朋友圈)
-- 同义词: [[kompis]] (口语，哥们) · [[bekant]] (熟人，关系稍远)
+- 词族: [[vänlig]] (友好的) · [[vänlighet]] (友善) · [[vänskap]] (友谊) · [[vänkrets]] (朋友圈), [[vänlighet]], [[vänskap]], [[vänkrets]]
+- 同义词: [[kompis]] (口语，哥们) · [[bekant]] (熟人，关系稍远), [[bekant]] (熟人)
 - 反义词: [[fiende]] (敌人)
 - 主题: [[topic-relationer]]
 

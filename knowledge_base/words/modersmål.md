@@ -7,8 +7,8 @@ genus: "ett"
 cefr: "A2"
 zh: "母语"
 en: "mother tongue"
-synonyms: []
-antonyms: []
+synonyms: [förstaspråk]
+antonyms: [andraspråk, främmande-språk]
 family: [språk]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # modersmål — substantiv
 
 📖 中文：母语 · English: mother tongue
+
+🇸🇪 Förklaring: det språk som man har lärt sig först som barn
+
 发音提示：/ˈmuːdeʂˌmoːl/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[språk]]
+- 同义词: [[förstaspråk]] (第一语言)
+- 反义词: [[andraspråk]] (第二语言), [[främmande-språk|främmande språk]] (外语)
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

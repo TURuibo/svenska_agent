@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 军人；军队
 en: soldier, military (person)
-synonyms: []
-antonyms: []
-family: ["militärfartyg", "krig"]
+synonyms: [soldat, försvarsmakt]
+antonyms: [civilist]
+family: [militärfartyg, krig]
 topics: ["topic-krig-och-konflikt"]
 sentences:
   - sent-den-sager-att-israels-militarer-dodar
@@ -24,6 +24,9 @@ interval: 0
 # militär — substantiv
 
 📖 中文：军人；军队 · English: soldier, military (person or institution)
+
+🇸🇪 Förklaring: person som arbetar i ett lands försvar; ett lands väpnade styrkor
+
 发音提示：mi-li-TÄR
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[militärfartyg]], [[krig]]
+- 同义词: [[soldat]] (士兵), [[försvarsmakt]] (武装部队)
+- 反义词: [[civilist]] (平民)
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

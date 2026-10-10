@@ -8,7 +8,7 @@ zh: "酸奶油"
 en: "sour cream"
 synonyms: []
 antonyms: []
-family: ["grädde", "fil", "mjölk"]
+family: [grädde, fil, mjölk]
 topics: ["topic-midsommar-traditioner", "topic-mat-dryck"]
 sentences: ["sent-till-lunch-ater-de-sill-med-farskpotatis"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gräddfil — substantiv
 
 📖 中文：酸奶油 · English: sour cream
+
+🇸🇪 Förklaring: syrlig och tjock mjölkprodukt som används i såser, dippar och till potatis
+
 发音提示：[ˈgrɛdˌfiːl]，grädde + fil 复合词
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[grädde]] · [[mjölk]]
-- 同义词:
-- 反义词:
+- 词族: [[grädde]] · [[mjölk]], [[fil]] (酸奶), [[mjölk]] (牛奶)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

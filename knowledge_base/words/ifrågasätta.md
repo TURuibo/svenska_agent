@@ -7,8 +7,8 @@ cefr: B1
 zh: 质疑
 en: to question
 synonyms: [tvivla]
-antonyms: []
-family: []
+antonyms: [acceptera, godta]
+family: [fråga, sätta, ifrågasättande]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # ifrågasätta — verb (grupp 4)
 
 📖 中文：质疑 · English: to question
+
+🇸🇪 Förklaring: visa eller säga att man tvivlar på att något är rätt eller sant
+
 发音提示：/ɪˈfroːɡaˌsɛtːa/
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[fråga]] (问题), [[sätta]] (放), [[ifrågasättande]] (质疑)
 - 同义词: [[tvivla]]
-- 反义词:
+- 反义词: [[acceptera]] (接受), [[godta]] (认可)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

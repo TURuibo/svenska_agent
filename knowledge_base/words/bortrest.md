@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "外出旅行的；不在家的"
 en: "away (travelling)"
 synonyms: [borta]
-antonyms: []
+antonyms: [hemma]
 family: [resa, borta]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-vi-kan-tyvärr-inte-komma-vi]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # bortrest — adjektiv (perfekt particip)
 
 📖 中文：外出旅行的；出门在外、不在家的 · English: away (travelling), out of town
+
+🇸🇪 Förklaring: som har åkt iväg på en resa och inte är hemma
+
 发音提示：/ˈbɔʈˌreːst/ — 重音在 **bort**，rest 的 e 长音。来自 `resa bort`（出远门）的分词。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[resa]] · [[borta]]
+- 词族: [[resa]] · [[borta]], [[borta]]
 - 同义词: [[borta]]（更泛："不在"）
+- 反义词: [[hemma]] (在家)
 - 主题: [[topic-föräldrasmåprat]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

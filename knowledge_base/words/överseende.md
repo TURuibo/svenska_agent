@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "宽容、体谅"
 en: "indulgence, understanding"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [förståelse, tolerans]
+antonyms: [stränghet]
+family: [överse-med, se]
 topics: [topic-grannar-boende]
 sentences: [sent-jag-hoppas-ni-har-överseende]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # överseende — substantiv
 
 📖 中文：宽容、体谅 · English: indulgence, understanding
+
+🇸🇪 Förklaring: förståelse och tålamod med andras fel och svagheter
+
 发音提示： "ö-ver-sé-en-de"
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ Vanligen används obestämd form (otalbart, ingen naturlig plural).
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[överse-med|överse med]] (宽恕), [[se]] (看)
+- 同义词: [[förståelse]] (理解), [[tolerans]] (宽容)
+- 反义词: [[stränghet]] (严厉)
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

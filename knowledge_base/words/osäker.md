@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: A2
 zh: 不确定的；没把握的
 en: unsure, insecure
-synonyms: []
+synonyms: [tveksam, otrygg]
 antonyms: [säker]
 family: [säker, osäkerhet]
 topics: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # osäker — adjektiv
 
 📖 中文：不确定的；没把握的 · English: unsure, insecure
+
+🇸🇪 Förklaring: som inte vet något säkert; som inte känner sig trygg eller lugn
+
+发音提示：/ˈuːˌsɛːkɛr/ — 前缀 o- 重读；ä 读长音 /ɛː/
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: säker, osäkerhet
-- 同义词:
-- 反义词: säker
+- 词族: [[säker]], [[osäkerhet]]
+- 同义词: [[tveksam]] (犹豫的), [[otrygg]] (不安的)
+- 反义词: [[säker]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

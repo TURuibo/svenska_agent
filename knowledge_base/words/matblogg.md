@@ -18,6 +18,9 @@ created: "2026-09-22"
 # matblogg — substantiv (en)
 
 📖 中文：美食博客 · English: food blog
+
+🇸🇪 Förklaring: blogg på internet där någon skriver om mat och delar recept
+
 发音提示：/ˈmɑːtˌblɔɡː/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[matkultur]]、[[matkasse]]、[[matminne]]
-- 同义词:
-- 反义词:
+- 词族: [[matkultur]], [[matkasse]], [[matminne]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

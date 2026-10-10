@@ -7,9 +7,9 @@ genus: ""
 cefr: "B2"
 zh: "因为……嘛（补充说明原因）；即；也就是"
 en: "you see (explaining why); namely"
-synonyms: []
+synonyms: [det-vill-säga]
 antonyms: []
-family: []
+family: [nämna]
 topics: [topic-argumentation]
 sentences: [sent-det-finns-nämligen-exempel-på-att-en-trygg]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # nämligen — adverb
 
 📖 中文：因为……嘛（补充说明原因）；即 · English: you see (explaining why); namely
+
+🇸🇪 Förklaring: används för att ge en förklaring eller ett skäl till något man just har sagt
+
 发音提示：NÄM-li-gen，重音在第一音节；`g` 在 -en 前读 [g]。
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —（近义：`det vill säga` 在义项2；`ju` 在语气上相近，见对照）
+- 词族: [[nämna]] (提及)
+- 同义词: —（近义：[[det-vill-säga|det vill säga]] 在义项2；[[ju]] 在语气上相近，见对照）
+- 反义词: —
 - 对照: [[eftersom]]（连词，可放句首）、`ju`（"你也知道"，见 [[topic-satsadverbial]]）
 - 主题: [[topic-argumentation]]
 

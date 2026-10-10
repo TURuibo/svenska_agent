@@ -7,7 +7,7 @@ genus: ""
 cefr: "B2"
 zh: "远远胜过"
 en: "to outclass"
-synonyms: []
+synonyms: [överträffa, krossa]
 antonyms: []
 family: [klassa]
 topics: [topic-idrott]
@@ -23,6 +23,9 @@ interval: 0
 # utklassa — verb
 
 📖 中文：远远胜过 · English: to outclass
+
+🇸🇪 Förklaring: vara mycket bättre än någon annan, särskilt i en tävling
+
 发音提示：UT-klas-sa
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klassa]]（分类、评级，尚无笔记）
-- 同义词: —
+- 同义词: [[överträffa]] (超越), [[krossa]] (碾压)
 - 反义词: —
 - 主题: [[topic-idrott]]
 

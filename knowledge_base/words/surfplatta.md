@@ -23,6 +23,9 @@ interval: 0
 # surfplatta — substantiv (en)
 
 📖 中文：平板电脑 · English: tablet (computer)
+
+🇸🇪 Förklaring: liten, platt dator med pekskärm som man håller i handen
+
 发音提示：SURF-plat-ta
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: surfa（上网），platta（平板/板）
-- 同义词: platta（口语简称）
+- 词族: [[surfa]]（上网）, [[platta]]（平板/板）
+- 同义词: [[platta]]（口语简称）
 - 反义词: —
 - 主题: —
 

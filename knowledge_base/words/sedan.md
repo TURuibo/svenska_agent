@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "然后；接着；之后"
 en: "then / after that / since"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [därefter, sen]
+antonyms: [innan, förut]
+family: [sedan-dess, för-länge-sedan]
 topics:
   - topic-tid-och-tidsuttryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # sedan — adverb/konjunktion
 
 📖 中文：然后；接着；之后 · English: then / after that / since
+
+🇸🇪 Förklaring: 1) efter det, därnäst; 2) från en viss tidpunkt fram till nu
+
 发音提示：SE-dan；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sedan dess]] (此后), [[för länge sedan]] (很久以前)
+- 词族: [[sedan-dess|sedan dess]] (此后), [[för-länge-sedan|för länge sedan]] (很久以前)
 - 同义词: [[därefter]] (adv. 此后/然后，较正式), [[sen]] (口语形式)
 - 反义词: [[innan]] (prep/konj. 在……之前), [[förut]] (adv. 以前)
 - 主题: [[topic-tid-och-tidsuttryck]]

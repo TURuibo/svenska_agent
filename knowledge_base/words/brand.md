@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "火灾"
 en: "fire"
-synonyms: []
+synonyms: [eld, eldsvåda]
 antonyms: []
-family: ["brinna", "bränna"]
+family: [brinna, bränna]
 topics: ["topic-terrorism-och-brott"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # brand — substantiv (en)
 
 📖 中文：火灾 · English: fire
+
+🇸🇪 Förklaring: eld som sprider sig och förstör till exempel hus eller skog
+
 发音提示：[brɑːnd]
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[brinna]] (v, 燃烧), [[bränna]] (v, 烧/焚烧)
+- 同义词: [[eld]] (火), [[eldsvåda]] (火灾)
+- 反义词: —
 - 主题: [[topic-terrorism-och-brott]]
 
 ## 用法提示 (Usage Notes)

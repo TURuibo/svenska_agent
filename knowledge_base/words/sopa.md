@@ -6,11 +6,9 @@ genus: en
 cefr: A2
 zh: "垃圾（日常多用复数 sopor）"
 en: "trash, garbage (usually plural: sopor)"
-synonyms:
-  - "[[skräp]]"
+synonyms: [skräp, avfall]
 antonyms: []
-family:
-  - "[[soptunna]]"
+family: [soptunna, soppåse, sophämtning]
 topics:
   - "[[topic-hemmet]]"
 sentences: []
@@ -25,6 +23,9 @@ interval: 0
 # sopa — substantiv (en)
 
 📖 中文：垃圾（日常几乎只用复数 **sopor**） · English: trash, garbage
+
+🇸🇪 Förklaring: det som man slänger, t.ex. matrester och förpackningar (används oftast i plural)
+
 发音提示：/ˈsuːpa/，o 发长 [uː]（像中文"乌"）；别读成 soppa /ˈsɔpa/（汤）。
 
 ## 语法变形 (Forms)
@@ -53,8 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[soptunna]]（垃圾桶）、soppåse（垃圾袋）、sophämtning（垃圾收运）
-- 同义词: [[skräp]]（垃圾、废物）、avfall（废弃物，正式）
+- 词族: [[soptunna]]（垃圾桶）, [[soppåse]]（垃圾袋）, [[sophämtning]]（垃圾收运）
+- 同义词: [[skräp]]（垃圾、废物）, [[avfall]]（废弃物，正式）
 - 反义词: —
 - 主题: [[topic-hemmet]]
 

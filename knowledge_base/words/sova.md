@@ -7,7 +7,7 @@ genus: ""
 cefr: A1
 zh: 睡觉
 en: to sleep
-synonyms: []
+synonyms: [slumra]
 antonyms: [vakna]
 family: [sömn, sovvila]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: 2026-09-26
 # sova — verb (grupp 4, 不规则)
 
 📖 中文：睡觉 · English: to sleep
+
+🇸🇪 Förklaring: vila med slutna ögon i ett tillstånd där man inte är vaken
+
 发音提示：/ˈsoːva/ — o 长音 [oː]。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,7 @@ created: 2026-09-26
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sömn]]（名词：睡眠）, [[sovvila]]
+- 同义词: [[slumra]] (打盹)
 - 反义词: [[vakna]]（醒来）
 - 主题: [[topic-småbarn-mat-och-sömn]], [[topic-förskola-vardag]]
 

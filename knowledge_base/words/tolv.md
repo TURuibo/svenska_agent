@@ -5,9 +5,9 @@ ordklass: räkneord
 cefr: A1
 zh: 十二
 en: twelve
-synonyms: []
+synonyms: [dussin]
 antonyms: []
-family: tolfte
+family: [tolfte]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # tolv — räkneord
 
 📖 中文：十二 · English: twelve
+
+🇸🇪 Förklaring: talet som kommer efter elva och före tretton (12)
+
 发音提示：/tɔlv/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tolfte]]
-- 同义词:
-- 反义词:
+- 同义词: [[dussin]] (一打)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

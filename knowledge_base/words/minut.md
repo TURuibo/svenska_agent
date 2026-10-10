@@ -19,6 +19,9 @@ created: "2026-10-01"
 # minut — substantiv (en)
 
 📖 中文：分钟 · English: minute
+
+🇸🇪 Förklaring: tidsenhet som är lika med sextio sekunder
+
 发音提示：/miˈnʉːt/（重音在第二音节 -nut）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sekund]]（秒）, [[timme]]（小时）
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

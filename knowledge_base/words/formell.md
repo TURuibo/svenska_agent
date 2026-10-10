@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: B1
 zh: 正式的
 en: formal
-synonyms: []
+synonyms: [officiell, högtidlig]
 antonyms: [informell]
 family: [form]
 topics: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # formell — adjektiv
 
 📖 中文：正式的 · English: formal
+
+🇸🇪 Förklaring: som följer fasta regler för hur man ska uppföra sig, tala eller skriva i officiella sammanhang
+
+发音提示：/fɔrˈmɛlː/ — 重音在后一音节 -mell
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[form]]
-- 同义词:
-- 反义词: informell
+- 同义词: [[officiell]] (正式的), [[högtidlig]] (庄重的)
+- 反义词: [[informell]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

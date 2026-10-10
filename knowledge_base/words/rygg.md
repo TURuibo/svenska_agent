@@ -8,7 +8,7 @@ zh: 背部，背
 en: back (body)
 synonyms: []
 antonyms: []
-family: [ryggont, ryggkota]
+family: [ryggont, ryggrad, ryggkota]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # rygg — substantiv (en)
 
 📖 中文：背部，背 · English: back (body)
+
+🇸🇪 Förklaring: baksidan av kroppen från nacken ner till höfterna
+
 发音提示：[rʏɡ]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ryggont]], [[ryggrad]]
+- 词族: [[ryggont]], [[ryggrad]], [[ryggkota]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 咖啡渣
 en: coffee grounds
-synonyms: []
+synonyms: [sump]
 antonyms: []
-family: []
+family: [kaffe, kaffefilter, kaffebryggare]
 topics: [topic-källsortering, topic-mat-dryck]
 sentences:
   - sent-lägg-matrester-kaffesump-teblad-och-äggskal
@@ -23,6 +23,9 @@ interval: 0
 # kaffesump — substantiv
 
 📖 中文：咖啡渣 · English: coffee grounds
+
+🇸🇪 Förklaring: det våta malda pulvret som blir kvar i filtret när man har bryggt kaffe
+
 发音提示：KAF-fe-sump（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kaffe]] (咖啡), [[kaffefilter]] (咖啡滤纸), [[kaffebryggare]] (咖啡机)
+- 同义词: [[sump]] (渣)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 主题: [[topic-mat-dryck]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]

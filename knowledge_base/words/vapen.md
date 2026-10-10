@@ -8,7 +8,7 @@ zh: "武器"
 en: "weapon"
 synonyms: []
 antonyms: []
-family: []
+family: [skjutvapen, kärnvapen, beväpna, vapenvila]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # vapen — substantiv (ett)
 
 📖 中文：武器 · English: weapon
+
+🇸🇪 Förklaring: föremål som man använder för att skada eller döda, till exempel en pistol eller en kniv
+
 发音提示：va-pen
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[skjutvapen]] (枪械), [[kärnvapen]] (核武器), [[beväpna]] (武装), [[vapenvila]] (停火)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

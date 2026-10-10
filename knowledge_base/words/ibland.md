@@ -7,13 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "有时；偶尔"
 en: "sometimes; occasionally"
-synonyms:
-  - emellanåt
-  - stundom
-antonyms:
-  - aldrig
-  - alltid
-family: []
+synonyms: [emellanåt, stundom]
+antonyms: [aldrig, alltid]
+family: [bland]
 topics:
   - topic-tid-och-tidsuttryck
 sentences:
@@ -29,6 +25,9 @@ interval: 0
 # ibland — adverb
 
 📖 中文：有时；偶尔 · English: sometimes; occasionally
+
+🇸🇪 Förklaring: inte alltid men några gånger
+
 发音提示：[iˈbland] — 两音节，重音在第二音节
 
 ## 语法变形 (Forms)
@@ -49,8 +48,8 @@ Adverb — 不变化。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: `emellanåt` (有时，稍书面), `stundom` (有时，书面/古老)
+- 词族: [[bland]] (在……之中)
+- 同义词: [[emellanåt]] (有时，稍书面), [[stundom]] (有时，书面/古老)
 - 反义词: [[aldrig]] (从不), [[alltid]] (总是)
 - 主题: [[topic-tid-och-tidsuttryck]]
 

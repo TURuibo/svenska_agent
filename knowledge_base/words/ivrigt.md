@@ -5,9 +5,9 @@ ordklass: "adverb"
 cefr: "B1"
 zh: "热切地"
 en: "eagerly"
-synonyms: []
-antonyms: []
-family: ["ivrig"]
+synonyms: [entusiastiskt, otåligt]
+antonyms: [likgiltigt]
+family: [ivrig]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # ivrigt — adverb
 
 📖 中文：热切地 · English: eagerly
+
+🇸🇪 Förklaring: med stor lust och energi, så att man knappt kan vänta
+
 发音提示：IV-rigt
 
 ## 语法变形 (Forms)
@@ -37,6 +40,8 @@ Adverb, avlett från adjektivet [[ivrig]]（en-form: ivrig, ett-form: ivrigt —
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ivrig]]（热切的，形容词）
+- 同义词: [[entusiastiskt]] (热情地), [[otåligt]] (急切地)
+- 反义词: [[likgiltigt]] (冷淡地)
 
 ## 用法提示 (Usage Notes)
 

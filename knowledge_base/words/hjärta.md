@@ -8,7 +8,7 @@ zh: 心脏，心
 en: heart
 synonyms: []
 antonyms: []
-family: []
+family: [hjärtlig, hjärtinfarkt, hjärtklappning, hjärtslag]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hjärta — substantiv (ett)
 
 📖 中文：心脏，心 · English: heart
+
+🇸🇪 Förklaring: organ i bröstet som pumpar runt blodet i kroppen
+
 发音提示：[ˈjɛːrta]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[hjärtlig]] (衷心的), [[hjärtinfarkt]] (心肌梗死), [[hjärtklappning]] (心悸), [[hjärtslag]] (心跳)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

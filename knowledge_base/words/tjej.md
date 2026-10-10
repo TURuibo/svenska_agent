@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "姑娘、女孩"
 en: "girl"
-synonyms: ["flicka"]
-antonyms: ["kille"]
-family: []
+synonyms: [flicka]
+antonyms: [kille]
+family: [tjejkompis, tjejgäng]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tjej — substantiv (en)
 
 📖 中文：姑娘、女孩 · English: girl
+
+🇸🇪 Förklaring: flicka eller ung kvinna (vardagligt)
+
 发音提示：/ɕɛj/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[tjejkompis]] (女性朋友), [[tjejgäng]] (女生群)
 - 同义词: [[flicka]]
 - 反义词: [[kille]]
 - 主题: [[topic-personer]]

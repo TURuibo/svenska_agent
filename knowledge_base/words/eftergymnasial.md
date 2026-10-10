@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "高中后的（高等）"
 en: "post-secondary"
 synonyms: []
-antonyms: []
+antonyms: [förgymnasial]
 family: [gymnasial, förgymnasial]
 topics: [topic-skola-och-utbildning]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # eftergymnasial — adjektiv
 
 📖 中文：高中后的（高等）· English: post-secondary
+
+🇸🇪 Förklaring: som gäller utbildning som man går efter gymnasieskolan, till exempel på universitet eller högskola
+
 发音提示： "éf-ter-gym-na-si-al"
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ Sammansättning: `efter`（之后）+ `gymnasial`（高中的）。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[gymnasial]]、[[förgymnasial]]
-- 同义词: [[…]]
+- 词族: [[gymnasial]], [[förgymnasial]]
+- 同义词: —
 - 反义词: [[förgymnasial]]
 - 主题: [[topic-skola-och-utbildning]]
 

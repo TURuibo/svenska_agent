@@ -9,7 +9,7 @@ zh: "政府"
 en: "government"
 synonyms: [stat]
 antonyms: [opposition]
-family: [regera, regent]
+family: [regera, regent, regeringsform]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-regeringen-vill-halvera-priset, sent-regeringen-gör-en-budget-över-året, sent-regeringen-bestämmer-varje-år-hur-mycket]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -24,6 +24,9 @@ interval: 0
 # regering — substantiv (en)
 
 📖 中文：政府 · English: government
+
+🇸🇪 Förklaring: grupp av ministrar med statsministern i spetsen som styr landet
+
 发音提示：重音在第二音节：re-GE-ring。
 
 ## 语法变形 (Forms)

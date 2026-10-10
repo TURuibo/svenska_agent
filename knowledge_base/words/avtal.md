@@ -6,9 +6,9 @@ genus: ett
 cefr: "B1"
 zh: "协议；合同"
 en: "agreement, deal, contract"
-synonyms: []
+synonyms: [kontrakt, överenskommelse]
 antonyms: []
-family: []
+family: [avtala, kollektivavtal, anställningsavtal]
 topics:
   - topic-samhälle-och-politik
   - topic-krig-och-konflikt
@@ -24,6 +24,9 @@ interval: 0
 # avtal — substantiv (ett)
 
 📖 中文：协议；合同 · English: agreement, deal, contract
+
+🇸🇪 Förklaring: det som två eller flera parter har kommit överens om, ofta skriftligt
+
 发音提示：AV-tal（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[avtala]] (约定), [[kollektivavtal]] (集体协议), [[anställningsavtal]] (雇佣合同)
+- 同义词: [[kontrakt]] (合同), [[överenskommelse]] (协议)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

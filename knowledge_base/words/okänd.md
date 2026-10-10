@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "陌生的、不知名的"
 en: "unknown"
-synonyms: []
-antonyms: ["känd"]
-family: ["känd"]
+synonyms: [främmande, anonym]
+antonyms: [känd]
+family: [känd]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # okänd — adjektiv
 
 📖 中文：陌生的、不知名的 · English: unknown
+
+🇸🇪 Förklaring: som man inte vet något om eller inte har hört talas om
+
 发音提示：/ˈuːˌɕɛnd/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[känd]]
+- 同义词: [[främmande]] (陌生的), [[anonym]] (匿名的)
 - 反义词: [[känd]]
 - 主题: [[topic-personer]]
 

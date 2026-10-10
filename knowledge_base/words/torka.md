@@ -7,8 +7,8 @@ genus: en
 cefr: B1
 zh: "干旱"
 en: "drought"
-synonyms: []
-antonyms: []
+synonyms: [torrperiod]
+antonyms: [regnperiod]
 family: [uttorkad, torr, torkad]
 topics: [topic-vader-och-arstider]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # torka — substantiv
 
 📖 中文：干旱 · English: drought
+
+🇸🇪 Förklaring: lång period med lite eller inget regn
+
 发音提示：[TOR-ka]
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[uttorkad]], [[torr]], [[torkad]]
+- 同义词: [[torrperiod]] (干旱期)
+- 反义词: [[regnperiod]] (雨季)
 - 相关: [[värme]]
 - 主题: [[topic-vader-och-arstider]]
 

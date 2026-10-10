@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "A1"
 zh: "好的, 不错的"
 en: "good, fine"
-synonyms: ["god", "fin"]
-antonyms: ["dålig"]
-family: ["bättre", "bäst"]
+synonyms: [god, fin]
+antonyms: [dålig]
+family: [bättre, bäst]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # bra — adjektiv
 
 📖 中文：好的, 不错的 · English: good, fine
+
+🇸🇪 Förklaring: som är på ett sätt som man tycker om; som fungerar som det ska
+
 发音提示：bra（单音节）
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bättre]], [[bäst]]
-- 同义词: [[god]]
+- 同义词: [[god]], [[fin]] (精致的/好的)
 - 反义词: [[dålig]]
 - 主题:
 

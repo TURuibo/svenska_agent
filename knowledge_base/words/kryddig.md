@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "辛辣的、调味重的"
 en: "spicy"
-synonyms: ["het"]
-antonyms: []
-family: ["krydda", "kryddor"]
+synonyms: [het]
+antonyms: [mild]
+family: [krydda, kryddor]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kryddig — adjektiv
 
 📖 中文：辛辣的、调味重的 · English: spicy
+
+🇸🇪 Förklaring: som har stark smak av peppar, chili eller andra smakämnen
+
 发音提示：KRYD-dig
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: krydda（名词/动词，香料/调味）, kryddor（复数，香料）
-- 同义词: het（辣的，也指"烫"）
-- 反义词: —
+- 词族: [[krydda]]（名词/动词，香料/调味）, [[kryddor]]（复数，香料）
+- 同义词: [[het]]（辣的，也指"烫"）
+- 反义词: [[mild]] (清淡的)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

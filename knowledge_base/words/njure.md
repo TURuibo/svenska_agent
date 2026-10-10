@@ -8,7 +8,7 @@ zh: 肾
 en: kidney
 synonyms: []
 antonyms: []
-family: []
+family: [lunga]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # njure — substantiv (en)
 
 📖 中文：肾 · English: kidney
+
+🇸🇪 Förklaring: ett av två organ i kroppen som renar blodet och gör urin
+
 发音提示：/ˈnjʉːrə/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lunga]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

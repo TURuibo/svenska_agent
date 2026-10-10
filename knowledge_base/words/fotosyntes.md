@@ -8,7 +8,7 @@ zh: "光合作用"
 en: "photosynthesis"
 synonyms: []
 antonyms: []
-family: []
+family: [syntes]
 topics: ["topic-natur-skog"]
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: 2026-10-06
 # fotosyntes — substantiv
 
 📖 中文：光合作用 · English: photosynthesis
+
+🇸🇪 Förklaring: process där gröna växter använder solljus för att göra socker av koldioxid och vatten
+
+发音提示：/ˌfʊtʊsʏnˈteːs/ — 重音在最后音节 -tes
 
 ## 语法变形 (Forms)
 
@@ -34,6 +38,9 @@ created: 2026-10-06
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[syntes]] (合成)
+- 同义词: —
+- 反义词: —
 - 相关: [[klorofyll]] · [[koldioxid]] · [[socker]]
 - 来源: [[source-2026-10-06-loven-byter-farg]]
 

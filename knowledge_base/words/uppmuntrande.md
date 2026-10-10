@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "鼓励的"
 en: "encouraging"
-synonyms: []
-antonyms: []
+synonyms: [positiv, hoppingivande]
+antonyms: [nedslående, avskräckande]
 family: [uppmuntra]
 topics: []
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # uppmuntrande — adjektiv
 
 📖 中文：鼓励的 · English: encouraging
+
+🇸🇪 Förklaring: som ger mod och lust att fortsätta
+
 发音提示：UPP-mun-tran-de
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: uppmuntra（鼓励，动词）
+- 词族: [[uppmuntra]]（鼓励，动词）
+- 同义词: [[positiv]] (积极的), [[hoppingivande]] (给人希望的)
+- 反义词: [[nedslående]] (令人沮丧的), [[avskräckande]] (令人却步的)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

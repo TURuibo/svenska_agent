@@ -24,6 +24,9 @@ interval: 0
 # andrahandsuthyrning — substantiv (en)
 
 📖 中文：转租；二手出租 · English: subletting
+
+🇸🇪 Förklaring: när man låter någon annan bo i sin bostad mot betalning under en tid
+
 发音提示：[ˈandraˌhandsɵthyːrnɪŋ]
 
 ## 语法变形 (Forms)

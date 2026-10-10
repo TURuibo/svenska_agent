@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "鸭子"
 en: "duck"
-synonyms: []
+synonyms: [and]
 antonyms: []
-family: []
+family: [ankunge, and]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # anka — substantiv (en)
 
 📖 中文：鸭子 · English: duck
+
+🇸🇪 Förklaring: fågel med bred näbb som simmar i vatten
+
 发音提示：/ˈaŋka/
 
 ## 语法变形 (Forms)

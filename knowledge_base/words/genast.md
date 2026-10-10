@@ -5,8 +5,8 @@ ordklass: adverb
 cefr: A2
 zh: 立刻
 en: immediately
-synonyms: []
-antonyms: []
+synonyms: [omedelbart, direkt]
+antonyms: [senare]
 family: []
 topics: []
 sentences: []
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # genast — adverb
 
 📖 中文：立刻 · English: immediately
+
+🇸🇪 Förklaring: utan att vänta, på en gång
+
 发音提示：/ˈjeːnast/
 
 ## 语法变形 (Forms)
@@ -35,9 +38,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: —
+- 同义词: [[omedelbart]] (立即), [[direkt]] (马上)
+- 反义词: [[senare]] (以后)
 - 主题:
 
 ## 用法提示 (Usage Notes)

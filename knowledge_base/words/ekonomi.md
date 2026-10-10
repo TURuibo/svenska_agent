@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "经济、财务"
 en: "economy/finances"
-synonyms: []
+synonyms: [finanser]
 antonyms: []
-family: []
+family: [ekonomisk, ekonom, privatekonomi]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ekonomi — substantiv
 
 📖 中文：经济、财务 · English: economy/finances
+
+🇸🇪 Förklaring: 1) hur ett land producerar, säljer och köper varor och tjänster; 2) hur mycket pengar en person, en familj eller ett företag har och hur de används
+
 发音提示：e-ko-no-MI
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[ekonomisk]] (经济的), [[ekonom]] (经济学家), [[privatekonomi]] (个人财务)
+- 同义词: [[finanser]] (财务)
+- 反义词: —
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

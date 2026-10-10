@@ -7,7 +7,7 @@ zh: 到这里（方向）
 en: (to) here
 synonyms: []
 antonyms: [dit]
-family: []
+family: [hitåt, hittills, hitom]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # hit — adverb
 
 📖 中文：到这里来（表方向） · English: to here, hither
+
+🇸🇪 Förklaring: till den plats där den som talar befinner sig
+
+发音提示：/hiːt/ — i 读长音 iː
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: dit
+- 词族: [[hitåt]] (朝这边), [[hittills]] (迄今), [[hitom]] (在这一边)
+- 同义词: —
+- 反义词: [[dit]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

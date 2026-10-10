@@ -19,6 +19,9 @@ created: "2026-09-26"
 # förkyld — adjektiv
 
 📖 中文：感冒的 · English: having a cold
+
+🇸🇪 Förklaring: som har en lätt sjukdom med snuva, hosta och ont i halsen
+
 发音提示：/fœr-ˈɕyːld/ — 重音在第二音节 -kyld，"ky" 读 [ɕy]（像"雪"的声母 + ü）。
 
 ## 语法变形 (Forms)

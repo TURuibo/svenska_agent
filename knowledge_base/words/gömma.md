@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 隐藏；藏匿
 en: to hide; to conceal
-synonyms: ["dölja"]
-antonyms: []
-family: ["gömma-sig", "gömsle"]
+synonyms: [dölja]
+antonyms: [visa, avslöja]
+family: [gömsle, gömma-sig]
 topics: []
 sentences:
   - "sent-ryssland-gömmer-oljan-i-gamla-fartyg"
@@ -24,6 +24,9 @@ interval: 0
 # gömma — verb
 
 📖 中文：隐藏；藏匿 · English: to hide; to conceal
+
+🇸🇪 Förklaring: lägga något på en plats där andra inte kan hitta det
+
 发音提示：[ˈjœmːa] — 注意双写 mm，j 音开头
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: gömsle (hideout), gömma sig
-- 同义词: dölja
-- 反义词: visa, avslöja
+- 词族: [[gömsle]] (hideout), [[gömma-sig|gömma sig]]
+- 同义词: [[dölja]]
+- 反义词: [[visa]], [[avslöja]]
 - 主题: —
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "ett"
 cefr: A2
 zh: 网；网络（på nätet = 在网上）
 en: net; network (på nätet = online)
-synonyms: []
+synonyms: [nätverk, webben]
 antonyms: []
-family: [näthat]
+family: [näthat, internet]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # nät — substantiv (ett)
 
 📖 中文：网；网络（på nätet = 在网上） · English: net; network (på nätet = online)
+
+🇸🇪 Förklaring: 1) något av trådar eller rep som är knutna så att det blir hål, till exempel för att fånga fisk; 2) internet
+
+发音提示：/nɛːt/ — ä 读长音 ɛː
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: näthat, internet
-- 同义词:
-- 反义词:
+- 词族: [[näthat]], [[internet]]
+- 同义词: [[nätverk]] (网络), [[webben]] (网络)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

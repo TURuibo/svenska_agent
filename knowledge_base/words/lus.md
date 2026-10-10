@@ -9,7 +9,7 @@ zh: "头虱"
 en: "louse (head lice)"
 synonyms: []
 antonyms: []
-family: []
+family: [huvudlus, luskam]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: [sent-vi-har-haft-lus-på-avdelningen, sent-det-är-inget-att-skämmas-för]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # lus — substantiv (en)
 
 📖 中文：头虱 · English: louse (head lice)
+
+🇸🇪 Förklaring: liten insekt som lever i håret på människor eller djur och suger blod
+
 发音提示：/lʉːs/；长 u。复数不规则：**löss**（元音变音）。
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[huvudlus]] (头虱), [[luskam]] (篦虱梳)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

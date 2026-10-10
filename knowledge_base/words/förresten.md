@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 顺带一提；对了
 en: by the way; incidentally
-synonyms: []
+synonyms: [för-övrigt, apropå]
 antonyms: []
-family: []
+family: [rest]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # förresten — adverb
 
 📖 中文：顺带一提；对了 · English: by the way; incidentally
+
+🇸🇪 Förklaring: används när man vill säga något nytt som man just kom att tänka på
+
 发音提示：för-RES-ten
 
 ## 语法变形 (Forms)
@@ -40,7 +43,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: för övrigt (此外), apropå (顺便一提)
+- 词族: [[rest]] (剩余)
+- 同义词: [[för-övrigt|för övrigt]] (此外), [[apropå]] (顺便一提)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

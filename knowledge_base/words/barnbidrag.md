@@ -19,6 +19,9 @@ created: 2026-10-02
 # barnbidrag — substantiv (ett)
 
 📖 中文：儿童津贴 · English: child allowance
+
+🇸🇪 Förklaring: pengar som staten varje månad betalar till föräldrar för varje barn
+
 发音提示：[ˈbɑːɳˌbiːdrɑːɡ]
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: 2026-10-02
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bidrag]], [[barn]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

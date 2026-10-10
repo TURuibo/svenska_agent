@@ -8,8 +8,8 @@ cefr: "A1"
 zh: "靠近；在……旁"
 en: "at; by; near"
 synonyms: [bredvid, intill, nära]
-antonyms: []
-family: [vid, vidd, vidare]
+antonyms: [långt-från]
+family: [vidd, vidare]
 topics: [topic-rumsliga-relationer]
 sentences:
   - sent-framfor-fonster-vid-vaggen-stor-krukvaxt
@@ -24,6 +24,9 @@ interval: 0
 # vid — preposition
 
 📖 中文：靠近；在……旁 · English: at; by; near
+
+🇸🇪 Förklaring: används för att säga att något finns nära eller alldeles intill något annat
+
 发音提示：vid（单音节）；lång i.
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 - 词族: [[vidd]] (广阔；宽阔), [[vidare]] (进一步；更宽)
 - 同义词: [[bredvid]] (紧靠旁边), [[intill]] (紧靠), [[nära]] (靠近)
-- 反义词: —
+- 反义词: [[långt-från|långt från]] (远离)
 - 主题: [[topic-rumsliga-relationer]]
 
 ## 用法提示 (Usage Notes)

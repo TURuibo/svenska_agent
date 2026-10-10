@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 知识
 en: knowledge
-synonyms: []
-antonyms: []
-family: []
+synonyms: [vetande, insikt]
+antonyms: [okunskap]
+family: [kunna, kunnig, förkunskap, språkkunskap]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-många-av-er-vill-utbilda-sig]
 source: source-2026-10-09-komvux-kursstart
@@ -19,6 +19,10 @@ created: "2026-10-09"
 # kunskap — substantiv en
 
 📖 中文：知识 · English: knowledge
+
+🇸🇪 Förklaring: det som man vet och har lärt sig om något
+
+发音提示：/ˈkɵnːskɑːp/ — u 读短 ɵ；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -40,6 +44,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kunna]] (会；能), [[kunnig]] (有学识的), [[förkunskap]] (预备知识), [[språkkunskap]] (语言知识)
+- 同义词: [[vetande]] (知识), [[insikt]] (见解)
+- 反义词: [[okunskap]] (无知)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

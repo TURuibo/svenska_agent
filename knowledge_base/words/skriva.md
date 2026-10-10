@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: A1
 zh: 写
 en: to write
-synonyms: []
+synonyms: [anteckna]
 antonyms: []
-family: []
+family: [skrift, skrivare, skrivbord, skriftlig, underskrift]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # skriva — verb (grupp 4, stark)
 
 📖 中文：写 · English: to write
+
+🇸🇪 Förklaring: sätta ord eller tecken på papper eller en skärm med penna eller tangentbord
+
 发音提示：/ˈskriːva/
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[skrift]] (文字), [[skrivare]] (打印机), [[skrivbord]] (书桌), [[skriftlig]] (书面的), [[underskrift]] (签名)
+- 同义词: [[anteckna]] (记下)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

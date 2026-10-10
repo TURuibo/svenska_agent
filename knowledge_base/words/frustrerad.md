@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "受挫的；沮丧的"
 en: "frustrated"
-synonyms: ["arg"]
-antonyms: ["lugn"]
-family: []
+synonyms: [arg]
+antonyms: [lugn]
+family: [frustration, frustrerande]
 topics: ["topic-småbarn-känslor-och-beteende", "topic-förskola-vardag"]
 sentences: ["sent-de-har-inte-språket-än-så"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # frustrerad — adjektiv
 
 📖 中文：受挫的；沮丧的 · English: frustrated
+
+🇸🇪 Förklaring: som känner sig irriterad och missnöjd för att något inte går som man vill
+
 发音提示：frust-RE-rad，重音在 -re-
 
 ## 语法变形 (Forms)
@@ -41,7 +44,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[frustration]] (挫败感), [[frustrerande]] (令人沮丧的)
 - 同义词: [[arg]]（生气，更强）
 - 反义词: [[lugn]]
 - 主题: [[topic-småbarn-känslor-och-beteende]], [[topic-förskola-vardag]]

@@ -6,9 +6,9 @@ genus: en
 cefr: "A2"
 zh: "职位；岗位；服务；好处"
 en: "position, post; service; favour"
-synonyms: []
+synonyms: [befattning, anställning, service]
 antonyms: []
-family: []
+family: [tjäna, tjänsteman, tjänstledig]
 topics: ["topic-arbete-och-jobb"]
 sentences:
   - sent-jag-söker-tjänsten-som-barnskötare
@@ -23,6 +23,9 @@ interval: 0
 # tjänst — substantiv
 
 📖 中文：职位；岗位；服务；好处 · English: position, post; service; favour
+
+🇸🇪 Förklaring: arbete som man har på en arbetsplats; något man gör för att hjälpa någon
+
 发音提示：TJÄNST（单音节，tj- 发 /ɕ/ 音）
 
 ## 语法变形 (Forms)
@@ -55,6 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[tjäna]] (赚；服务), [[tjänsteman]] (公务员；职员), [[tjänstledig]] (停薪留职的)
+- 同义词: [[befattning]] (职位), [[anställning]] (工作；雇佣), [[service]] (服务)
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

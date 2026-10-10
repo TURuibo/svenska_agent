@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "帮助"
 en: "help"
-synonyms: []
+synonyms: [stöd, bistånd]
 antonyms: []
-family: ["hjälpa"]
+family: [hjälpa]
 topics: []
 sentences: ["sent-sammanfatta-berättelsen-om-elin-wägner"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hjälp — substantiv
 
 📖 中文：帮助 · English: help
+
+🇸🇪 Förklaring: det man gör för att stödja någon eller göra något lättare för någon
+
 发音提示："JÄLP"
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hjälpa]]
-- 同义词: —
+- 同义词: [[stöd]] (支持), [[bistånd]] (援助)
 - 反义词: —
 - 主题: —
 

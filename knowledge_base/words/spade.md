@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "铲子；小铲子（沙坑玩具）"
 en: "spade, shovel"
-synonyms: []
+synonyms: [skyffel]
 antonyms: []
-family: []
+family: [spadtag]
 topics: ["topic-förskola-vardag"]
 sentences: ["sent-ella-vill-du-låna-spaden"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # spade — substantiv (en)
 
 📖 中文：铲子；小铲子（沙坑玩具） · English: spade, shovel
+
+🇸🇪 Förklaring: redskap med långt skaft och ett brett blad som man gräver med
+
 发音提示：SPA-de（两个音节，a 长音）
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[spadtag]] (铲一下；动工)
+- 同义词: [[skyffel]] (铲子)
+- 反义词: —
 - 相关: [[hink]], [[sandlåda]]
 - 主题: [[topic-förskola-vardag]]
 

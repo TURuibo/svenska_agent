@@ -7,8 +7,8 @@ genus: en
 cefr: "B1"
 zh: "纬度"
 en: "latitude"
-synonyms: []
-antonyms: []
+synonyms: [breddgrad]
+antonyms: [longitud]
 family: []
 topics: ["topic-vader-och-arstider"]
 sentences: ["sent-polcirkeln-ligger-pa-66-5-graders-nordlig-latitud"]
@@ -23,6 +23,9 @@ interval: 0
 # latitud — substantiv (en)
 
 📖 中文：纬度 · English: latitude
+
+🇸🇪 Förklaring: avstånd norr eller söder om ekvatorn, mätt i grader
+
 发音提示：[latɪ'tuːd]，重音在最后音节
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: —
-- 反义词: longitud（经度）
+- 同义词: [[breddgrad]] (纬度)
+- 反义词: [[longitud]]（经度）
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

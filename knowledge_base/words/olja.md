@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "石油; 油"
 en: "oil"
-synonyms: []
+synonyms: [petroleum]
 antonyms: []
-family: []
+family: [olivolja, rapsolja, oljepris]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # olja — substantiv (en)
 
 📖 中文：石油; 油 · English: oil
+
+🇸🇪 Förklaring: 1) tjock svart vätska ur marken som man gör bensin av; 2) fet vätska av växter som man använder i matlagning
+
 发音提示：ol-ja
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[olivolja]] (橄榄油), [[rapsolja]] (菜籽油), [[oljepris]] (油价)
+- 同义词: [[petroleum]] (石油)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

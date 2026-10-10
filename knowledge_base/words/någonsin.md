@@ -5,9 +5,9 @@ ordklass: "adverb"
 cefr: "B1"
 zh: "曾经；从来（与否定/疑问/最高级连用）"
 en: "ever"
-synonyms: []
-antonyms: ["aldrig"]
-family: []
+synonyms: [någon-gång]
+antonyms: [aldrig]
+family: [någon, någonstans, någonting]
 topics: ["topic-allmanna-adjektiv-adverb"]
 sentences: ["sent-jag-har-aldrig-någonsin-varit-så-nervös"]
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-07"
 # någonsin — adverb
 
 📖 中文：曾经；从来 · English: ever
+
+🇸🇪 Förklaring: vid något tillfälle; används oftast i frågor, efter inte eller efter superlativ
+
+发音提示：/ˈnoːɡɔnˌsɪn/ — å 读 oː；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -34,7 +38,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: aldrig
+- 词族: [[någon]] (某个), [[någonstans]] (某处), [[någonting]] (某事)
+- 同义词: [[någon-gång|någon gång]] (某个时候)
+- 反义词: [[aldrig]]
 - 主题: [[topic-allmanna-adjektiv-adverb]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "尖的"
 en: "pointed"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [vass]
+antonyms: [trubbig]
+family: [spets, spetsa]
 topics: [topic-lucia]
 sentences: []
 source: source-2026-10-10-lucia
@@ -19,6 +19,10 @@ created: "2026-10-10"
 # spetsig — adjektiv
 
 📖 中文：尖的 · English: pointed
+
+🇸🇪 Förklaring: som har en vass och smal ände
+
+发音提示：/ˈspɛtsɪɡ/ — e 短读 ɛ；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -40,5 +44,8 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[spets]] (尖端), [[spetsa]] (削尖)
+- 同义词: [[vass]] (锋利的)
+- 反义词: [[trubbig]] (钝的)
 - 主题: [[topic-lucia]]
 - 来源: [[source-2026-10-10-lucia]]

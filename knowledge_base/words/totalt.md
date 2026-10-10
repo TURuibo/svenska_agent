@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 总共；一共
 en: in total; altogether
-synonyms: []
-antonyms: []
-family: []
+synonyms: [sammanlagt, tillsammans]
+antonyms: [delvis]
+family: [total, totalsumma]
 topics: [topic-betalning]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # totalt — adverb
 
 📖 中文：总共；一共 · English: in total; altogether
+
+🇸🇪 Förklaring: när allt räknas ihop; helt och hållet
+
 发音提示：toh-TALT
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: sammanlagt (合计), tillsammans (一起/共计)
+- 词族: [[total]] (全部的), [[totalsumma]] (总额)
+- 同义词: [[sammanlagt]] (合计), [[tillsammans]] (一起/共计)
+- 反义词: [[delvis]] (部分地)
 - 主题: [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 收据
 en: receipt
-synonyms: []
+synonyms: [kvittens]
 antonyms: []
-family: []
+family: [kvittera, kassakvitto]
 topics: [topic-betalning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kvitto — substantiv (ett)
 
 📖 中文：收据 · English: receipt
+
+🇸🇪 Förklaring: papper som visar att man har betalat för något
+
 发音提示：KVIT-oh
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kvittera]] (签收), [[kassakvitto]] (收银小票)
+- 同义词: [[kvittens]] (收据；签收)
+- 反义词: —
 - 主题: [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "支持；支撑"
 en: "to support; to back; to prop up"
-synonyms: [hjälpa, stötta]
-antonyms: []
+synonyms: [stötta, hjälpa]
+antonyms: [motarbeta]
 family: [stöd]
 topics: [topic-allmänna-verb]
 sentences: [sent-jag-stödjer-reglerna-helt]
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # stödja — verb (grupp 2)
 
 📖 中文：支持；支撑 · English: to support; to back; to prop up
+
+🇸🇪 Förklaring: hjälpa och uppmuntra någon; hålla uppe något så att det inte faller
+
 发音提示：STÖD-ja，`ö` 读 [øː]（圆唇的"鹅"）；`dj` 读 /j/。
 
 ## 语法变形 (Forms)
@@ -58,8 +61,8 @@ created: "2026-10-02"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stöd]]（名词：支持；援助）
-- 同义词: [[stötta]]（口语，更温和、更日常）；近义 [[hjälpa]]（帮助——侧重"出力"，`stödja` 侧重"站在某人这一边"）
-- 反义词: —（可对比 `motarbeta`、`vara emot`）
+- 同义词: [[stötta]]（口语，更温和、更日常）, 近义 [[hjälpa]]（帮助——侧重"出力"，`stödja` 侧重"站在某人这一边"）
+- 反义词: —（可对比 [[motarbeta]]、[[vara-emot|vara emot]]）
 - 主题: [[topic-allmänna-verb]]
 
 ## 用法提示 (Usage Notes)

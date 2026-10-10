@@ -8,7 +8,7 @@ zh: "长屋（维京时代的住宅）"
 en: "longhouse"
 synonyms: []
 antonyms: []
-family: ["långskepp"]
+family: [långskepp]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # långhus — substantiv (ett)
 
 📖 中文：长屋（维京时代的住宅） · English: longhouse
+
+🇸🇪 Förklaring: långt och smalt hus av trä där en hel släkt bodde och arbetade under vikingatiden
+
 发音提示：/ˈlɔŋhɵːs/，两音节，合成词 `lång`（长）+ `hus`（房子）
 
 ## 语法变形 (Forms)

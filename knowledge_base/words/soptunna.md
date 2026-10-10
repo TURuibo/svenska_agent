@@ -23,6 +23,9 @@ interval: 0
 # soptunna — substantiv (en)
 
 📖 中文：垃圾桶；垃圾箱 · English: rubbish bin; dustbin
+
+🇸🇪 Förklaring: stor behållare med lock där man slänger skräp och avfall
+
 发音提示：SOP-tun-na（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 
 - 词族: [[sopbil]], [[sopa]]
 - 同义词: [[sopkorg]]
+- 反义词: —
 - 主题: [[topic-källsortering]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

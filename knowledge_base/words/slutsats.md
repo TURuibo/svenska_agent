@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "结论"
 en: "conclusion"
-synonyms: []
+synonyms: [konklusion, resultat]
 antonyms: []
 family: [sluta]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-05
 # slutsats — substantiv en/ett: en
 
 📖 中文：结论 · English: conclusion
+
+🇸🇪 Förklaring: det som man kommer fram till efter att ha tänkt över fakta
+
+发音提示：/ˈslʉːtˌsats/ — u 读长 ʉː；主重音在 slut
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ created: 2026-10-05
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sluta]]
-- 同义词: —
+- 同义词: [[konklusion]] (结论), [[resultat]] (结果)
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

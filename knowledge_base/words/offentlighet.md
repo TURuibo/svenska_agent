@@ -6,8 +6,8 @@ genus: en
 cefr: B1
 zh: 公众视野
 en: public life
-synonyms: []
-antonyms: []
+synonyms: [allmänhet]
+antonyms: [privatliv]
 family: [offentlig]
 topics: []
 sentences: []
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # offentlighet — substantiv (en)
 
 📖 中文：公众视野 · English: public life
+
+🇸🇪 Förklaring: det att något sker öppet så att alla kan se och veta om det; allmänheten
+
 发音提示：/ɔˈfɛntlɪˌheːt/
 
 ## 语法变形 (Forms)
@@ -40,8 +43,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[offentlig]]
-- 同义词:
-- 反义词:
+- 同义词: [[allmänhet]] (公众)
+- 反义词: [[privatliv]] (私人生活)
 - 主题:
 
 ## 用法提示 (Usage Notes)

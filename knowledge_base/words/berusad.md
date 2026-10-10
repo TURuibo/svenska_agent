@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "醉的"
 en: "intoxicated"
-synonyms: []
-antonyms: ["nykter"]
-family: []
+synonyms: [full, onykter]
+antonyms: [nykter]
+family: [rus, berusning, berusa]
 topics: ["topic-trafik-säkerhet"]
 sentences: []
 known: false
@@ -17,7 +17,10 @@ created: "2026-09-22"
 # berusad — adjektiv
 
 📖 中文：醉的 · English: intoxicated
-发音提示：
+
+🇸🇪 Förklaring: som har druckit så mycket alkohol att man påverkas av det
+
+发音提示：/beˈrʉːsad/ — 重音在 ru，u 读长音 ʉː
 
 ## 语法变形 (Forms)
 
@@ -33,9 +36,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[rus]] (醉意), [[berusning]] (醉), [[berusa]] (使醉)
+- 同义词: [[full]] (喝醉的), [[onykter]] (醉的)
+- 反义词: [[nykter]]
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: "梦；梦想"
 en: "dream"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [önskan, fantasi]
+antonyms: [verklighet]
+family: [drömma, drömjobb, drömresa]
 topics: []
 sentences: [sent-han-hade-klarat-sitt-mål]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # dröm — substantiv (en)
 
 📖 中文：梦；梦想 · English: dream
+
+🇸🇪 Förklaring: 1) bilder och händelser som man upplever när man sover; 2) något som man önskar sig mycket
+
 发音提示：/drøːm/（长 ö）；复数 drömmar /ˈdrœmːar/（ö 变短）
 
 ## 语法变形 (Forms)
@@ -53,9 +56,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: drömma（做梦 / 梦想，动词）, drömjobb, drömresa
-- 同义词:
-- 反义词:
+- 词族: [[drömma]]（做梦 / 梦想，动词）, [[drömjobb]], [[drömresa]]
+- 同义词: [[önskan]] (愿望), [[fantasi]] (幻想)
+- 反义词: [[verklighet]] (现实)
 - 主题:
 
 ## 用法提示 (Usage Notes)

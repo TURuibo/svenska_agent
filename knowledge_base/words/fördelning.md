@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 分配；分布
 en: distribution
-synonyms: []
+synonyms: [uppdelning, spridning]
 antonyms: []
-family: []
+family: [fördela]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # fördelning — substantiv (en-ord)
 
 📖 中文：分配、分布 · English: distribution
+
+🇸🇪 Förklaring: det att dela upp något mellan flera personer eller delar; hur något är spritt
+
+发音提示：/fœrˈdeːlnɪŋ/ — för- 不重读，重音在 del
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: fördela（分配）
-- 同义词:
-- 反义词:
+- 词族: [[fördela]]（分配）
+- 同义词: [[uppdelning]] (划分), [[spridning]] (分布)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

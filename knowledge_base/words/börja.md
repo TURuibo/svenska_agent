@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A1
 zh: "开始"
 en: "to begin / to start"
-synonyms: []
-antonyms: ["avsluta"]
-family: ["påbörja"]
+synonyms: [starta, sätta-igång]
+antonyms: [avsluta]
+family: [påbörja]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # börja — verb
 
 📖 中文：开始 · English: to begin / to start
+
+🇸🇪 Förklaring: göra det första steget i något som sedan fortsätter
+
 发音提示：['bœrja]
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ Verbgrupp 1 (–ar). Regelbundet.
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[påbörja]]
-- 同义词: —
+- 同义词: [[starta]] (开始), [[sätta-igång|sätta igång]] (着手做)
 - 反义词: [[avsluta]]
 - 主题: —
 

@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "烧烤"
 en: "to grill; to barbecue"
-synonyms: []
+synonyms: [halstra]
 antonyms: []
 family: [grill, grillad, grillfest]
 topics: [topic-mat-dryck]
@@ -23,6 +23,9 @@ interval: 0
 # grilla — verb (v.1)
 
 📖 中文：烧烤 · English: to grill; to barbecue
+
+🇸🇪 Förklaring: laga mat över stark värme eller glöd, ofta utomhus
+
 发音提示：/ˈɡrɪlːa/
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[grill]] (en, 烤架), [[grillad]] (adj, 烤的), [[grillfest]] (en, 烧烤聚会)
-- 同义词: —
+- 同义词: [[halstra]] (炙烤)
 - 反义词: —
 - 主题: [[topic-mat-dryck]]
 

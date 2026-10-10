@@ -18,6 +18,10 @@ created: "2026-10-01"
 
 📖 中文：沿……而下 · English: down (along), downhill
 
+🇸🇪 Förklaring: längs något från en högre till en lägre plats, till exempel en backe eller en trappa
+
+发音提示：/ˈneːrˌfœːr/ — ö 在 r 前读 œ；重音在第一音节
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -38,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ner
-- 同义词: nedför
-- 反义词: uppför
+- 词族: [[ner]]
+- 同义词: [[nedför]]
+- 反义词: [[uppför]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

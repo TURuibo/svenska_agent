@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "怀抱"
 en: "arms, embrace"
-synonyms: []
+synonyms: [kram]
 antonyms: []
-family: ["omfamna"]
+family: [omfamna]
 topics: ["topic-familj-och-barn"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # famn — substantiv (en)
 
 📖 中文：怀抱 · English: arms, embrace
+
+🇸🇪 Förklaring: 1) armarna och bröstet när man håller om någon; 2) det att man håller någon tätt intill sig
+
 发音提示：/famːn/
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[omfamna]]（拥抱，动词）
+- 同义词: [[kram]] (拥抱)
+- 反义词: —
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

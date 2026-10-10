@@ -7,8 +7,8 @@ genus: "en"
 cefr: "A2"
 zh: "城里；市中心"
 en: "the city centre / downtown (informal)"
-synonyms: []
-antonyms: []
+synonyms: [centrum, innerstaden]
+antonyms: [förorten]
 family: [stad, stadskärna, centrum]
 topics:
   - topic-vardagsrutin
@@ -26,6 +26,9 @@ interval: 0
 # stan — substantiv (en)
 
 📖 中文：城里；市中心 · English: the city centre / downtown (informal)
+
+🇸🇪 Förklaring: centrum av en ort, där det finns affärer, kaféer och mycket folk (vardagligt)
+
 发音提示：stan（单音节）。
 
 ## 语法变形 (Forms)

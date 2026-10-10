@@ -7,7 +7,7 @@ genus: en
 cefr: A1
 zh: 傍晚；晚上
 en: evening
-synonyms: []
+synonyms: [afton]
 antonyms: [morgon]
 family: [kvällskurs]
 topics: [topic-tid-och-tidsuttryck]
@@ -24,6 +24,9 @@ interval: 0
 # kväll — substantiv (en)
 
 📖 中文：傍晚；晚上 · English: evening
+
+🇸🇪 Förklaring: tiden på dagen mellan eftermiddag och natt
+
 发音提示：[kvɛlː]，kv 组合发音，äll 发 [ɛlː]
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kvällskurs]]
-- 同义词: —
+- 同义词: [[afton]] (傍晚)
 - 反义词: [[morgon]]
 - 主题: [[topic-tid-och-tidsuttryck]]
 

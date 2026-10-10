@@ -19,6 +19,9 @@ created: "2026-09-26"
 # body — substantiv
 
 📖 中文：婴儿连体内衣 · English: bodysuit (baby)
+
+🇸🇪 Förklaring: plagg för bebisar som täcker kroppen och knäpps mellan benen
+
 发音提示：/ˈbɔdːi/ — 英语借词，瑞典语里读短 o、清晰的 i
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "中央车站"
 en: "central station"
-synonyms: []
+synonyms: [resecentrum]
 antonyms: []
-family: [station, tågstation]
+family: [station, tågstation, tunnelbanestation]
 topics:
   - topic-vardagsrutin
   - topic-kollektivtrafik
@@ -26,6 +26,9 @@ interval: 0
 # centralstation — substantiv (en)
 
 📖 中文：中央车站 · English: central station
+
+🇸🇪 Förklaring: stadens största järnvägsstation där många tåg och bussar stannar
+
 发音提示：cen-tral-sta-TION；重音在末音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[station]] (en, 车站), [[tågstation]] (en, 火车站), [[tunnelbanestation]] (en, 地铁站)
-- 同义词: —
+- 同义词: [[resecentrum]] (交通枢纽)
 - 反义词: —
 - 主题: [[topic-kollektivtrafik]], [[topic-vardagsrutin]]
 

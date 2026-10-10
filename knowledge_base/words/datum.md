@@ -23,6 +23,9 @@ interval: 0
 # datum — substantiv (ett)
 
 📖 中文：日期 · English: date
+
+🇸🇪 Förklaring: uppgift om vilken dag det är, med dag, månad och ofta år
+
 发音提示：/ˈdɑːtɵm/；da-tum，重音在第一音节。
 
 ## 语法变形 (Forms)

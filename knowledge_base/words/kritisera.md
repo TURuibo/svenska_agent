@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "批评"
 en: "to criticize"
-synonyms: []
+synonyms: [klandra, anmärka-på]
 antonyms: [berömma]
 family: [kritik]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-05
 # kritisera — verb
 
 📖 中文：批评 · English: to criticize
+
+🇸🇪 Förklaring: säga vad man tycker är dåligt eller fel med något eller någon
+
+发音提示：/krɪtɪˈseːra/ — 重音在 -se-，e 读长音
 
 ## 语法变形 (Forms)
 
@@ -42,7 +46,7 @@ created: 2026-10-05
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kritik]]
-- 同义词: —
+- 同义词: [[klandra]] (指责), [[anmärka-på|anmärka på]] (挑毛病)
 - 反义词: [[berömma]]
 - 主题: [[topic-argumentation]]
 

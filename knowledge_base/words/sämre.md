@@ -5,7 +5,7 @@ ordklass: "adjektiv (komparativ av dålig)"
 cefr: "A2"
 zh: "更差的"
 en: "worse"
-synonyms: []
+synonyms: [värre]
 antonyms: [bättre]
 family: [dålig]
 topics: []
@@ -21,7 +21,10 @@ interval: 0
 # sämre — adjektiv (komparativ av dålig)
 
 📖 中文：更差的 · English: worse
-发音提示：
+
+🇸🇪 Förklaring: mer dålig än något annat; inte lika bra
+
+发音提示：/ˈsɛmːrɛ/ — ä 读短音，mm 为长辅音
 
 ## 语法变形 (Forms)
 
@@ -47,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dålig]]
-- 同义词: —
+- 同义词: [[värre]] (更糟的)
 - 反义词: [[bättre]]
 - 主题: —
 

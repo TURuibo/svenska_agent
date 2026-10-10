@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "名人, 明星"
 en: "celebrity"
-synonyms: ["känd person"]
+synonyms: [känd-person]
 antonyms: []
-family: ["känd"]
+family: [känd]
 topics: ["topic-film"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kändis — substantiv (en)
 
 📖 中文：名人, 明星 · English: celebrity
+
+🇸🇪 Förklaring: person som är berömd, t.ex. från tv, film eller sport (vardagligt)
+
 发音提示：kän-dis
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[känd]]
-- 同义词:
-- 反义词:
+- 同义词: [[känd-person]]
+- 反义词: —
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

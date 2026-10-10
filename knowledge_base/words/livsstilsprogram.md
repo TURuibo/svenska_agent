@@ -9,7 +9,7 @@ zh: "生活方式节目"
 en: "lifestyle programme"
 synonyms: []
 antonyms: []
-family: ["livsstil", "program"]
+family: [livsstil, program]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # livsstilsprogram — substantiv (ett)
 
 📖 中文：生活方式节目 · English: lifestyle programme
+
+🇸🇪 Förklaring: tv-serie eller radioserie om mat, inredning, hälsa, resor och liknande
+
 发音提示：LIVS-stils-pro-gram
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[livsstil]], [[program]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

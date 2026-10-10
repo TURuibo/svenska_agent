@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "猪"
 en: "pig"
-synonyms: []
+synonyms: [svin]
 antonyms: []
-family: []
+family: [griskött, grisfarma]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gris — substantiv (en)
 
 📖 中文：猪 · English: pig
+
+🇸🇪 Förklaring: tamdjur med kort nos och knorrig svans som man föder upp för köttets skull
+
 发音提示：/ɡriːs/
 
 ## 语法变形 (Forms)

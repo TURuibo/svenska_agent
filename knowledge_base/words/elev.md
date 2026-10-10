@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 学生（中小学）
 en: student/pupil
-synonyms: []
-antonyms: []
-family: []
+synonyms: [skolbarn]
+antonyms: [lärare]
+family: [gymnasieelev]
 topics: [topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # elev — substantiv (en-ord)
 
 📖 中文：学生（中小学） · English: student/pupil
+
+🇸🇪 Förklaring: barn eller ungdom som går i skolan
+
 发音提示：[eˈleːv] — 重音在第二音节，长 e
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gymnasieelev]]
+- 同义词: [[skolbarn]] (学童)
+- 反义词: [[lärare]] (老师)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

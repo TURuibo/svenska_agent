@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 激励
 en: to motivate
-synonyms: []
-antonyms: []
-family: []
+synonyms: [inspirera, sporra]
+antonyms: [avskräcka]
+family: [motivation, motiverad, motiv]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # motivera — verb (grupp 1)
 
 📖 中文：激励 · English: to motivate
+
+🇸🇪 Förklaring: få någon att vilja göra något och anstränga sig
+
 发音提示：/mʊtɪˈveːra/
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[motivation]] (动力), [[motiverad]] (有动力的), [[motiv]] (动机)
+- 同义词: [[inspirera]] (激励), [[sporra]] (鞭策)
+- 反义词: [[avskräcka]] (使却步)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

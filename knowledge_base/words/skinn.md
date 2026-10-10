@@ -9,7 +9,7 @@ zh: "皮肤；皮；皮革"
 en: "skin; hide; leather"
 synonyms: [hud]
 antonyms: []
-family: []
+family: [skinnjacka]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # skinn — substantiv (ett)
 
 📖 中文：皮肤；皮；皮革 · English: skin; hide; leather
+
+🇸🇪 Förklaring: 1) hud på människor och djur; 2) behandlad djurhud som används till kläder och väskor
+
 发音提示：/ɧɪn/；sk 在 i 前读 /ɧ/，nn 双写表示短元音。
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[skinnjacka]]
 - 同义词: [[hud]]（人/动物活体的皮肤；skinn 偏「已剥下的皮」或口语的皮肤）
-- 词族: *skinnjacka*
 - 反义词: —
 - 主题: [[topic-kropp]]
 

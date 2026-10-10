@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: A2
 zh: 冰冷的，冻僵的
 en: frozen, cold (feeling)
-synonyms: []
-antonyms: []
+synonyms: [kall, iskall]
+antonyms: [varm]
 family: [frysa]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # frusen — adjektiv
 
 📖 中文：冰冷的，冻僵的 · English: frozen, cold (feeling)
+
+🇸🇪 Förklaring: som känner sig mycket kall i kroppen; som har blivit hård av kyla
+
 发音提示：[ˈfrʉːsɛn]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[frysa]]
+- 同义词: [[kall]] (冷的), [[iskall]] (冰冷的)
 - 反义词: [[varm]]
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 

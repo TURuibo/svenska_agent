@@ -6,7 +6,7 @@ genus: en
 cefr: "A2"
 zh: "压力；紧张"
 en: "stress"
-synonyms: []
+synonyms: [press, oro]
 antonyms: [lugn, ro]
 family: [stressig, stressa]
 topics: [topic-social-kontakt, topic-hälsa]
@@ -22,6 +22,9 @@ interval: 0
 # stress — substantiv (en)
 
 📖 中文：压力；紧张 · English: stress
+
+🇸🇪 Förklaring: känsla av press och oro när man har för mycket att göra eller för lite tid
+
 发音提示：[strɛs]，与英语发音相近
 
 ## 语法变形 (Forms)

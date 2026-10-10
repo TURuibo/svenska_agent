@@ -6,9 +6,9 @@ genus: ett
 cefr: "A2"
 zh: "求职信；个人信"
 en: "cover letter, personal letter"
-synonyms: []
+synonyms: [ansökningsbrev]
 antonyms: []
-family: ["ansökan"]
+family: [ansökan]
 topics: ["topic-arbete-och-jobb"]
 sentences:
   - sent-skicka-din-ansökan-med-cv-och-personligt
@@ -23,6 +23,9 @@ interval: 0
 # personligt brev — substantiv
 
 📖 中文：求职信；个人信 · English: cover letter, personal letter
+
+🇸🇪 Förklaring: brev där man berättar om sig själv och varför man passar för ett jobb man söker
+
 发音提示：per-SON-ligt BREV（personligt 三音节，brev 一音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ansökan]]
+- 同义词: [[ansökningsbrev]] (申请信)
+- 反义词: —
 - 相关语法: [[grammar-brevsprak-personligt-brev]]
 - 主题: [[topic-arbete-och-jobb]]
 

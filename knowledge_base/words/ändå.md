@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "还是；照样；尽管如此"
 en: "anyway, still, nevertheless"
-synonyms: [trots-allt]
+synonyms: [trots-allt, i-alla-fall]
 antonyms: []
-family: []
+family: [än]
 topics: [topic-förskola-vardag, topic-satsadverbial]
 sentences: [sent-men-på-morgonen-är-han-pigg]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ändå — adverb
 
 📖 中文：还是；照样；尽管如此 · English: anyway, still, nevertheless
+
+🇸🇪 Förklaring: trots det som har sagts eller hänt
+
 发音提示：/ˈɛnˌdoː/ — 两个音节都清楚，重音在 **än-**，-då 读长 å。
 
 ## 语法变形 (Forms)
@@ -41,8 +44,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: *trots allt*（尽管如此）、*i alla fall*（无论如何）
+- 词族: [[än]] (还；仍)
+- 同义词: [[trots-allt|trots allt]]（尽管如此）, [[i-alla-fall|i alla fall]]（无论如何）
 - 反义词: —
 - 主题: [[topic-satsadverbial]]、[[topic-förskola-vardag]]
 

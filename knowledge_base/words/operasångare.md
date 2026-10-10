@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "歌剧演唱家"
 en: "opera singer"
-synonyms: []
+synonyms: [operasolist]
 antonyms: []
 family: [opera, sångare, sjunga]
 topics: [topic-yrken]
@@ -24,6 +24,9 @@ interval: 0
 # operasångare — substantiv (en)
 
 📖 中文：歌剧演唱家 · English: opera singer
+
+🇸🇪 Förklaring: person som har som yrke att sjunga i operor
+
 发音提示：/ˌɔpəraˈsɔŋarə/；复合词，重音在 -sång-。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: opera（歌剧），sångare（歌手），sjunga（唱歌）
+- 词族: [[opera]]（歌剧）, [[sångare]]（歌手）, [[sjunga]]（唱歌）
+- 同义词: [[operasolist]] (歌剧独唱)
+- 反义词: —
 - 主题: [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

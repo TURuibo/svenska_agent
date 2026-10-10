@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A1"
 zh: "价格; 奖项"
 en: "price; prize"
-synonyms: []
+synonyms: [kostnad, belöning, utmärkelse]
 antonyms: []
-family: []
+family: [prislapp, prissänkning, prisvinnare, nobelpris]
 topics: ["topic-betalning"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # pris — substantiv (ett)
 
 📖 中文：价格; 奖项 · English: price; prize
+
+🇸🇪 Förklaring: 1) hur mycket pengar något kostar; 2) belöning som man får när man vinner eller har gjort något bra
+
 发音提示：pris（单音节）
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[prislapp]] (价签), [[prissänkning]] (降价), [[prisvinnare]] (获奖者), [[nobelpris]] (诺贝尔奖)
+- 同义词: [[kostnad]] (费用), [[belöning]] (奖励), [[utmärkelse]] (奖项)
+- 反义词: —
 - 主题: [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

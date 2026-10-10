@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 基础的；基本的
 en: basic, fundamental
-synonyms: []
-antonyms: []
-family: []
+synonyms: [fundamental, elementär, basal]
+antonyms: [avancerad]
+family: [grund, grundlägga, lägga]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-många-av-er-vill-utbilda-sig]
 source: source-2026-10-09-komvux-kursstart
@@ -18,6 +18,10 @@ created: "2026-10-09"
 # grundläggande — adjektiv
 
 📖 中文：基础的；基本的 · English: basic, fundamental
+
+🇸🇪 Förklaring: som är det viktigaste och som allt annat bygger på
+
+发音提示：/ˈɡrɵndˌlɛɡːandɛ/ — u 读短 ɵ；重音在 grund
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[grund]] (基础), [[grundlägga]] (奠基), [[lägga]] (放)
+- 同义词: [[fundamental]] (根本的), [[elementär]] (基本的), [[basal]] (基础的)
+- 反义词: [[avancerad]] (高级的)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "上下文、语境"
 en: "context"
-synonyms: []
+synonyms: [kontext, samband]
 antonyms: []
-family: ["hänga-samman"]
+family: [hänga-samman]
 topics: ["topic-sfi-sprak-larande"]
 sentences: ["sent-av-sammanhanget-kan-man-ofta"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # sammanhang — substantiv (ett)
 
 📖 中文：上下文、语境 · English: context
+
+🇸🇪 Förklaring: 1) den situation eller text som något finns i och som hjälper en att förstå det; 2) hur saker hör ihop
+
 发音提示：SAM-man-hang
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hänga-samman]]（相互关联）
+- 同义词: [[kontext]] (语境), [[samband]] (关联)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

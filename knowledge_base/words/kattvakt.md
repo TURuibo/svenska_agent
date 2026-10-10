@@ -23,6 +23,9 @@ interval: 0
 # kattvakt — substantiv
 
 📖 中文：猫保姆 · English: cat-sitter
+
+🇸🇪 Förklaring: person som tar hand om någons katt när ägaren är bortrest
+
 发音提示： "katt-vakt"
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ Sammansättning: `katt` (猫) + `vakt` (看守/守卫)。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[katt]]、[[vakt]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[katt]], [[vakt]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

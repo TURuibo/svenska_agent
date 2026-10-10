@@ -22,7 +22,10 @@ interval: 0
 # självklarhet — substantiv
 
 📖 中文：理所当然的事 · English: matter of course
-发音提示：
+
+🇸🇪 Förklaring: något som alla tycker är naturligt och som inte behöver förklaras
+
+发音提示：/ˈɧɛlvˌklɑːrheːt/ — sj 读 ɧ；主重音在 själv
 
 ## 语法变形 (Forms)
 

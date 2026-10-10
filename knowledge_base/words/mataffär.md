@@ -6,11 +6,9 @@ genus: en
 cefr: A1
 zh: 食品店；超市
 en: grocery store
-synonyms:
-  - livsmedelsbutik
+synonyms: [livsmedelsbutik]
 antonyms: []
-family:
-  - affär
+family: [affär]
 topics:
   - topic-mataffär
   - topic-mat-dryck
@@ -29,6 +27,9 @@ interval: 0
 # mataffär — substantiv (en)
 
 📖 中文：食品店；超市 · English: grocery store
+
+🇸🇪 Förklaring: butik där man köper mat och andra varor för hushållet
+
 发音提示：MAT-af-fär（重音在第一音节）
 
 ## 语法变形 (Forms)

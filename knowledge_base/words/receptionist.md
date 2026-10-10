@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "前台；接待员"
 en: "receptionist"
-synonyms: []
+synonyms: [portier]
 antonyms: []
-family: ["reception"]
+family: [reception]
 topics: ["topic-yrken", "topic-hälsa"]
 sentences: ["sent-hej-det-ar-tandlakare-eriksson"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # receptionist — substantiv en
 
 📖 中文：前台；接待员 · English: receptionist
+
+🇸🇪 Förklaring: person som tar emot besökare och svarar på frågor vid disken på ett hotell eller kontor
+
 发音提示：re-cep-tio-NIST
 
 ## 语法变形 (Forms)
@@ -48,4 +51,6 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[reception]]
+- 同义词: [[portier]] (酒店门房)
+- 反义词: —
 - 主题: [[topic-yrken]] · [[topic-hälsa]]

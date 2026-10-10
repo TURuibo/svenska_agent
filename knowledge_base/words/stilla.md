@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "静止；不动"
 en: "still, motionless"
 synonyms: [lugn]
-antonyms: []
-family: []
+antonyms: [i-rörelse]
+family: [stillhet, stillsam, stillastående]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # stilla — adverb
 
 📖 中文：静止；不动 · English: still, motionless
+
+🇸🇪 Förklaring: utan att röra sig; tyst och lugnt
+
 发音提示：STIL-la
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[stillhet]] (寂静), [[stillsam]] (安静的), [[stillastående]] (静止的)
 - 同义词: [[lugn]]（近义 orörlig）
-- 反义词: —
+- 反义词: [[i-rörelse|i rörelse]] (在运动中)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

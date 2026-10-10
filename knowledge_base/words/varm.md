@@ -6,9 +6,9 @@ genus: ""
 cefr: A1
 zh: "热的、温暖的"
 en: "warm, hot"
-synonyms: ["het"]
-antonyms: ["kall"]
-family: []
+synonyms: [het]
+antonyms: [kall]
+family: [värme, värma, värmig]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # varm — adjektiv
 
 📖 中文：热的、温暖的 · English: warm, hot
+
+🇸🇪 Förklaring: som har ganska hög temperatur och inte är kall
+
 发音提示：[varm]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: värme (热/温暖 n), värma (加热 v), värmig (暖和的)
+- 词族: [[värme]] (热/温暖 n), [[värma]] (加热 v), [[värmig]] (暖和的)
 - 同义词: [[het]]（更强烈的热，也指辣）
 - 反义词: [[kall]]
 - 主题: [[topic-mat-dryck]]

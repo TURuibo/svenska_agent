@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "弄到；获得；办（某物）"
 en: "to get; to obtain; to acquire"
-synonyms: ["skaffa sig", "anskaffa", "köpa"]
-antonyms: []
-family: []
+synonyms: [anskaffa, köpa, skaffa-sig]
+antonyms: [göra-sig-av-med]
+family: [införskaffa, anskaffning]
 topics: []
 sentences:
   - "sent-nej-men-det-vill-jag-garna-ha"
@@ -24,6 +24,9 @@ interval: 0
 # skaffa — verb (grupp 1)
 
 📖 中文：弄到；获得；办（某物） · English: to get; to obtain; to acquire
+
+🇸🇪 Förklaring: se till att man får något, t.ex. genom att köpa, låna eller ordna det
+
 发音提示：/ˈskafːa/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: anskaffa（获取，较正式）, köpa（购买）
+- 词族: [[införskaffa]] (购置), [[anskaffning]] (采购)
+- 同义词: [[anskaffa]]（获取，较正式）, [[köpa]]（购买）, [[skaffa-sig]]
+- 反义词: [[göra-sig-av-med|göra sig av med]] (处理掉)
 
 ## 用法提示 (Usage Notes)
 

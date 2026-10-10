@@ -6,10 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "打仗，作战"
 en: "to wage war, to fight (a war)"
-synonyms: []
-antonyms: []
-family:
-  - krig
+synonyms: [strida, slåss]
+antonyms: [sluta-fred]
+family: [krig]
 topics:
   - topic-samhälle-och-politik
   - topic-krig-och-konflikt
@@ -25,6 +24,9 @@ interval: 0
 # kriga — verb (grupp 1)
 
 📖 中文：打仗，作战 · English: to wage war, to fight (a war)
+
+🇸🇪 Förklaring: strida med vapen mot ett annat land eller en annan grupp
+
 发音提示：KREE-ga
 
 ## 语法变形 (Forms)
@@ -52,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[krig]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: [[strida]] (战斗), [[slåss]] (打斗)
+- 反义词: [[sluta-fred|sluta fred]] (讲和)
 - 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

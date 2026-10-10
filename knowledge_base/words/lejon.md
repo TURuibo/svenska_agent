@@ -9,7 +9,7 @@ zh: "狮子"
 en: "lion"
 synonyms: []
 antonyms: []
-family: []
+family: [lejoninna, lejonunge]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # lejon — substantiv (ett)
 
 📖 中文：狮子 · English: lion
+
+🇸🇪 Förklaring: stort kattdjur med gul päls som lever i Afrika; hanen har en stor man runt huvudet
+
 发音提示：/ˈleːjɔn/
 
 ## 语法变形 (Forms)

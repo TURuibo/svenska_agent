@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 写下来的
 en: written down
-synonyms: []
-antonyms: []
-family: [skriva ner]
+synonyms: [antecknad, skriftlig]
+antonyms: [muntlig]
+family: [skriva-ner]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # nedskriven — adjektiv (过去分词)
 
 📖 中文：写下来的 · English: written down
+
+🇸🇪 Förklaring: som finns på papper eller i en dator i form av text
+
+发音提示：/ˈneːdˌskriːvɛn/ — ned 的 e 长；重音在 ned
 
 ## 语法变形 (Forms)
 
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: skriva ner
-- 同义词:
-- 反义词:
+- 词族: [[skriva-ner|skriva ner]]
+- 同义词: [[antecknad]] (记下的), [[skriftlig]] (书面的)
+- 反义词: [[muntlig]] (口头的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

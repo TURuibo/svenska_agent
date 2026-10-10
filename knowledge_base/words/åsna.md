@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "驴"
 en: "donkey"
-synonyms: ["åsne"]
+synonyms: [åsne]
 antonyms: []
-family: []
+family: [mulåsna]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # åsna — substantiv (en)
 
 📖 中文：驴 · English: donkey
+
+🇸🇪 Förklaring: djur som liknar en liten häst och har långa öron
+
 发音提示：/ˈoːsna/
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[mulåsna]] (骡子)
+- 同义词: [[åsne]]
 - 反义词: —
 - 主题: [[topic-djur]]
 

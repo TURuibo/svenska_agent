@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: "B1"
 zh: "执行，做（工作）"
 en: "to carry out, perform"
-synonyms: []
+synonyms: [genomföra, göra]
 antonyms: []
-family: []
+family: [föra, utförande, utförlig]
 topics: []
 sentences: [sent-det-var-främst-ogifta-kvinnor]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # utföra — verb
 
 📖 中文：执行，做（工作） · English: to carry out, perform
-发音提示：
+
+🇸🇪 Förklaring: göra en uppgift eller ett arbete, ofta enligt en plan
+
+发音提示：/ˈʉːtˌfœːra/ — ö 在 r 前读 œː；重音在 ut
 
 ## 语法变形 (Forms)
 
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[föra]] (引导；带), [[utförande]] (执行), [[utförlig]] (详尽的)
+- 同义词: [[genomföra]] (实施), [[göra]] (做)
 - 反义词: —
 - 主题: —
 

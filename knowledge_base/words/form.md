@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 形式；形状
 en: form; shape
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gestalt, skepnad]
+antonyms: [innehåll]
+family: [formell]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # form — substantiv (en-ord)
 
 📖 中文：形式、形状；(健康)状态 · English: form, shape
+
+🇸🇪 Förklaring: det sätt som något är ordnat eller uttryckt på; hur något ser ut utvändigt, till exempel runt eller fyrkantigt
+
+发音提示：/fɔrm/ — o 读短音 ɔ
 
 ## 语法变形 (Forms)
 
@@ -43,8 +47,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[formell]]
-- 同义词:
-- 反义词:
+- 同义词: [[gestalt]] (形态), [[skepnad]] (外形)
+- 反义词: [[innehåll]] (内容)
 - 主题:
 
 ## 用法提示 (Usage Notes)

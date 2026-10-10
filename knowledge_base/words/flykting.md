@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "难民"
 en: "refugee"
-synonyms: []
+synonyms: [asylsökande]
 antonyms: []
 family: [fly]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # flykting — substantiv
 
 📖 中文：难民 · English: refugee
+
+🇸🇪 Förklaring: person som har lämnat sitt land på grund av krig, förföljelse eller andra faror
+
+发音提示：/ˈflʏkːtɪŋ/ — y 读短音，k 读长辅音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -40,6 +44,7 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fly]]
+- 同义词: [[asylsökande]] (寻求庇护者)
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]

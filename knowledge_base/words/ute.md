@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "在户外"
 en: "outside; outdoors"
-synonyms: []
+synonyms: [utomhus, utanför]
 antonyms: [inne]
 family: [utevistelse]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ute — adverb
 
 📖 中文：在户外 · English: outside; outdoors
+
+🇸🇪 Förklaring: inte inomhus, i det fria; borta från hemmet
+
 发音提示：/ˈʉːtɛ/ — u 是瑞典语特有的 /ʉː/（嘴唇前突），两个音节。
 
 ## 语法变形 (Forms)
@@ -47,6 +50,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[utevistelse]]（户外活动时间）
+- 同义词: [[utomhus]] (户外), [[utanför]] (外面)
 - 反义词: [[inne]]
 - 主题: [[topic-förskola-vardag]]
 

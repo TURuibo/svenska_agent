@@ -8,7 +8,7 @@ zh: "裤子"
 en: "trouser/trousers (usually used in pl. byxor)"
 synonyms: []
 antonyms: []
-family: []
+family: [byxficka, byxben, långbyxa]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # byxa — substantiv (en-ord)
 
 📖 中文：裤子 · English: trouser/trousers (usually used in pl. byxor)
+
+🇸🇪 Förklaring: plagg som täcker kroppen från midjan och ner, med en del för varje ben
+
 发音提示：/ˈbyːksa/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[byxficka]] (裤兜), [[byxben]] (裤腿), [[långbyxa]] (长裤)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

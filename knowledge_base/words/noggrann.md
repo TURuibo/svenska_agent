@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "严谨的、仔细的"
 en: "careful, thorough"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [strukturerad]
+antonyms: [slarvig]
+family: [noggrannhet]
 topics: ["topic-karaktarsord"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # noggrann — adjektiv
 
 📖 中文：严谨的、仔细的 · English: careful, thorough
+
+🇸🇪 Förklaring: som gör saker med stor omsorg och tänker på alla detaljer
+
 发音提示：NOG-rann
 
 ## 语法变形 (Forms)

@@ -1,7 +1,7 @@
 ---
 type: sentence
 sentence: "Sverige ska spela sextondelsfinal på tisdag kväll."
-zh: "瑞典将于周二晚上参加十六强赛。"
+zh: "瑞典将于周二晚上参加三十二强赛。"
 cefr: "A2"
 words: [sextondelsfinal, spela]
 phrases: []
@@ -17,7 +17,7 @@ interval: 0
 
 # 🇸🇪 Sverige ska spela sextondelsfinal på tisdag kväll.
 
-🇨🇳 瑞典将于周二晚上参加十六强赛。
+🇨🇳 瑞典将于周二晚上参加三十二强赛。
 
 ## 结构 (Structure)
 
@@ -33,7 +33,7 @@ interval: 0
 
 ## 生词 & 词组 (Words & Phrases)
 
-- 词: [[sextondelsfinal]] (十六强赛) · [[spela]] (踢/打/参加比赛)
+- 词: [[sextondelsfinal]] (三十二强赛) · [[spela]] (踢/打/参加比赛)
 
 ## 来源 (Source)
 

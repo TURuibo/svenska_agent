@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "招牌；标志"
 en: "sign"
-synonyms: []
+synonyms: [tecken]
 antonyms: []
-family: []
+family: [skylta, skyltfönster]
 topics: [topic-stadsmiljo]
 sentences:
   - sent-finns-det-en-skylt
@@ -26,6 +26,9 @@ interval: 0
 # skylt — substantiv (en)
 
 📖 中文：招牌；标志 · English: sign
+
+🇸🇪 Förklaring: tavla med text eller bilder som ger information, visar vägen eller talar om vad en butik heter
+
 发音提示：skylt（单音节）。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skylta]] (v. 做标记/展示), [[skyltfönster]] (橱窗)
-- 同义词: [[tecken]] (ett, 标志/记号), [[skilt]] (标志，较少用)
+- 同义词: [[tecken]] (ett, 标志/记号)
 - 反义词: —
 - 主题: —
 

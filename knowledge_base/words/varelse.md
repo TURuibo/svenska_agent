@@ -24,6 +24,9 @@ interval: 0
 # varelse — substantiv (ett)
 
 📖 中文：生物/存在 · English: creature / being
+
+🇸🇪 Förklaring: något som lever, till exempel en människa, ett djur eller ett påhittat väsen
+
 发音提示：/ˈvɑːrɛlsɛ/
 
 ## 语法变形 (Forms)
@@ -51,8 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: [[väsen]] (ett väsen — 生物，也有"本质"义)
 - 词族: [[vara]] (att vara = 存在)
+- 同义词: [[väsen]] (ett väsen — 生物，也有"本质"义)
+- 反义词: —
 - 主题: [[topic-djur]], [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 向前；到达
 en: forward; (get) there
-synonyms: []
+synonyms: [framåt]
 antonyms: [bak]
-family: []
+family: [framme]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # fram — adverb (也是小品词)
 
 📖 中文：向前、到达（目的地）、出来 · English: forward, (arrive) there
+
+🇸🇪 Förklaring: i riktning framåt, mot ett mål; till den plats dit man ska
+
+发音提示：/framː/ — a 读短音，m 要长
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[framme]]
-- 同义词:
-- 反义词: bak
+- 同义词: [[framåt]] (向前)
+- 反义词: [[bak]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "刀"
 en: "knife"
 synonyms: []
 antonyms: []
-family: []
+family: [knivhugg]
 topics: [topic-terrorism-och-brott, topic-mat-och-kök]
 sentences:
   - sent-poliserna-hittade-flera-knivar-och-en-flagga
@@ -24,6 +24,9 @@ interval: 0
 # kniv — substantiv (en)
 
 📖 中文：刀 · English: knife
+
+🇸🇪 Förklaring: redskap med ett vasst blad som man skär med
+
 发音提示：kniv — k 发音（不像英语 knife 中 k 不发音）。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[knivhugg]] (stub)
+- 词族: [[knivhugg]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-terrorism-och-brott]], [[topic-mat-och-kök]]

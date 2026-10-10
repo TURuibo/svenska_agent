@@ -8,7 +8,7 @@ zh: 托盘
 en: tray
 synonyms: []
 antonyms: []
-family: []
+family: [serveringsbricka, frukostbricka]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bricka — substantiv (en)
 
 📖 中文：托盘 · English: tray
+
+🇸🇪 Förklaring: platt skiva med kanter som man bär mat och koppar på
+
 发音提示：BRIK-kah
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[serveringsbricka]] (上菜托盘), [[frukostbricka]] (早餐托盘)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

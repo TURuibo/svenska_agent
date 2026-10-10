@@ -6,7 +6,7 @@ genus: en
 cefr: "B1"
 zh: "终身；一生"
 en: "life; lifetime; (in legal context) life sentence"
-synonyms: []
+synonyms: [livslängd]
 antonyms: []
 family: [fängelse, straff]
 topics: [topic-krig-och-konflikt]
@@ -24,6 +24,9 @@ interval: 0
 # livstid — substantiv
 
 📖 中文：终身；一生 · English: life; lifetime
+
+🇸🇪 Förklaring: 1) hela tiden från födelsen till döden; 2) det strängaste fängelsestraffet, som inte har något bestämt slutdatum
+
 发音提示：LIV-stid
 
 ## 语法变形 (Forms)
@@ -52,6 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fängelse]], [[straff]]
+- 同义词: [[livslängd]] (寿命)
+- 反义词: —
 - 词组: [[livstids-fängelse]]
 - 主题: [[topic-krig-och-konflikt]]
 

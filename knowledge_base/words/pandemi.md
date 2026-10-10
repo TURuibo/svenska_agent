@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "疫情"
 en: "pandemic"
-synonyms: []
+synonyms: [farsot]
 antonyms: []
-family: ["epidemi"]
+family: [epidemi]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # pandemi — substantiv
 
 📖 中文：疫情 · English: pandemic
+
+🇸🇪 Förklaring: sjukdom som sprids snabbt över stora delar av världen
+
+发音提示：/pandɛˈmiː/ — 重音在最后音节 -mi
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[epidemi]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[farsot]] (瘟疫)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 小龙虾；淡水龙虾
 en: crayfish
-synonyms: ["flodkräfta"]
+synonyms: [flodkräfta]
 antonyms: []
-family: ["kräftskiva", "kräftpremiär"]
+family: [kräftskiva, kräftpremiär, dill]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kräfta — substantiv (en)
 
 📖 中文：小龙虾；淡水龙虾 · English: crayfish
+
+🇸🇪 Förklaring: litet skaldjur med klor som lever i sjöar och åar och som man äter i augusti
+
 发音提示：KRÄF-ta（两音节，注意 ä 发音）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 
 - 词族: [[kräftskiva]], [[kräftpremiär]], [[dill]]
 - 同义词: [[flodkräfta]]
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

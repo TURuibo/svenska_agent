@@ -6,9 +6,9 @@ verbgrupp: "2a"
 cefr: A2
 zh: 提醒
 en: to remind
-synonyms: []
+synonyms: [erinra]
 antonyms: []
-family: []
+family: [minna, minnas]
 topics: [topic-social-kontakt]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # påminna — verb (grupp 2a)
 
 📖 中文：提醒 · English: to remind
+
+🇸🇪 Förklaring: få någon att komma ihåg något som hen inte får glömma
+
 发音提示：på-MIN-na，重音在第二音节
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: minna (to remember, archaic), minnas (to remember)
-- 同义词: —
+- 词族: [[minna]] (to remember, archaic), [[minnas]] (to remember)
+- 同义词: [[erinra]] (提醒)
 - 反义词: —
 - 主题: [[topic-social-kontakt]]
 

@@ -6,9 +6,9 @@ verbgrupp: "2 (oregelbundet böjd)"
 cefr: "B1"
 zh: "取代；赔偿"
 en: "to replace; to compensate"
-synonyms: ["byta ut"]
-antonyms: []
-family: ["ersättning"]
+synonyms: [byta-ut]
+antonyms: [behålla]
+family: [ersättning]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # ersätta — verb
 
 📖 中文：取代；赔偿 · English: to replace; to compensate
+
+🇸🇪 Förklaring: 1) ta bort något och sätta något annat på dess plats; 2) betala för en skada eller förlust
+
 发音提示：er-SÄT-ta
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-10-03"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ersättning]]
-- 同义词: [[byta ut]]
-- 反义词: —
+- 同义词: [[byta-ut|byta ut]]
+- 反义词: [[behålla]] (保留)
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

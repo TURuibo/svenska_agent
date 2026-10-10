@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "野兔"
 en: "hare"
-synonyms: ["kanin"]
+synonyms: [kanin]
 antonyms: []
-family: []
+family: [påskhare, fälthare, skogshare]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hare — substantiv (en)
 
 📖 中文：野兔 · English: hare
+
+🇸🇪 Förklaring: vilt djur som liknar en kanin men har längre öron och bakben och springer mycket snabbt
+
 发音提示：/ˈhɑːrɛ/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[påskhare]] (复活节兔), [[fälthare]] (欧洲野兔), [[skogshare]] (雪兔)
 - 同义词: [[kanin]] (kanin = tame rabbit; hare = wild hare)
 - 反义词: —
 - 主题: [[topic-djur]]

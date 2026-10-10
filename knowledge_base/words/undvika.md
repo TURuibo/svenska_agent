@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "避免；回避"
 en: "to avoid"
-synonyms: []
-antonyms: ["söka", "välja"]
-family: []
+synonyms: [hålla-sig-borta-från, förhindra]
+antonyms: [söka, välja]
+family: [vika, oundviklig]
 topics: ["topic-hälsa", "topic-mat-dryck"]
 sentences:
   - "sent-garna-har-ni-nagot-glutenfritt"
@@ -24,6 +24,9 @@ interval: 0
 # undvika — verb (grupp 4, oregelbundet)
 
 📖 中文：避免；回避 · English: to avoid
+
+🇸🇪 Förklaring: se till att man inte kommer i kontakt med något eller att något inte händer
+
 发音提示：/ˈɵndˌviːka/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vika]] (让开；折), [[oundviklig]] (不可避免的)
+- 同义词: [[hålla-sig-borta-från|hålla sig borta från]] (远离), [[förhindra]] (防止)
+- 反义词: [[söka]] (寻找，申请), [[välja]] (选择、挑选)
 - 主题: [[topic-hälsa]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

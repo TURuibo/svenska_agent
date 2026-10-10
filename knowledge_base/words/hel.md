@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: A2
 zh: 整个的；完整的
 en: whole, entire
-synonyms: []
+synonyms: [komplett, fullständig, intakt]
 antonyms: [trasig]
 family: [helt]
 topics: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # hel — adjektiv
 
 📖 中文：整个的、完整的 · English: whole, entire
+
+🇸🇪 Förklaring: som inte är trasig och har alla sina delar; som omfattar allt, från början till slut
+
+发音提示：/heːl/ — e 读长音 eː
 
 ## 语法变形 (Forms)
 
@@ -41,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[helt]]
-- 同义词:
-- 反义词:
+- 同义词: [[komplett]] (完整的), [[fullständig]] (完整的), [[intakt]] (完好无损的)
+- 反义词: [[trasig]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

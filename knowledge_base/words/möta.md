@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: B1
 zh: 遇见；迎接；面对
 en: to meet; to face
-synonyms: []
-antonyms: []
-family: []
+synonyms: [träffa, stöta-på]
+antonyms: [undvika]
+family: [möte]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # möta — verb (grupp 2)
 
 📖 中文：遇见；迎接；面对 · English: to meet; to face
+
+🇸🇪 Förklaring: träffa någon, efter en plan eller av en slump; gå dit någon kommer för att ta emot hen; ställas inför något svårt
+
+发音提示：/ˈmøːta/ — ö 读长音 øː
 
 ## 语法变形 (Forms)
 
@@ -45,9 +49,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: möte (ett, 会议/相遇)
-- 同义词:
-- 反义词:
+- 词族: [[möte]] (ett, 会议/相遇)
+- 同义词: [[träffa]] (遇见), [[stöta-på|stöta på]] (偶遇)
+- 反义词: [[undvika]] (避开)
 - 主题:
 
 ## 用法提示 (Usage Notes)

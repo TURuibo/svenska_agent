@@ -9,7 +9,7 @@ zh: "戒指"
 en: "ring"
 synonyms: []
 antonyms: []
-family: [ringa, förlovningsring]
+family: [ringa, ringformad, förlovningsring]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ring — substantiv (en)
 
 📖 中文：戒指 · English: ring
+
+🇸🇪 Förklaring: smycke i form av en liten cirkel som man har på fingret
+
 发音提示：RING，单音节。
 
 ## 语法变形 (Forms)

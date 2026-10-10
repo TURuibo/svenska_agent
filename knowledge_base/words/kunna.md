@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: A1
 zh: 能、会
 en: can, be able to
-synonyms: []
+synonyms: [klara, förmå]
 antonyms: []
-family: []
+family: [kunskap, kunnig, kunnande]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # kunna — verb (oregelbundet)
 
 📖 中文：能、会 · English: can, be able to
+
+🇸🇪 Förklaring: 1) ha förmåga eller möjlighet att göra något; 2) veta hur man gör något eller ha lärt sig något
+
 发音提示：/ˈkɵnːa/；kan /kan/；kunde /ˈkɵndɛ/
 
 ## 语法变形 (Forms)
@@ -60,9 +63,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[kunskap]] (知识), [[kunnig]] (懂行的), [[kunnande]] (本领)
+- 同义词: [[klara]] (能做到), [[förmå]] (能够)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

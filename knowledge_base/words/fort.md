@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 快；迅速
 en: fast, quickly
-synonyms: []
+synonyms: [snabbt, kvickt]
 antonyms: [långsamt]
-family: []
+family: [fortkörning]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # fort — adverb
 
 📖 中文：快、迅速 · English: fast, quickly
+
+🇸🇪 Förklaring: med hög hastighet; på kort tid
+
+发音提示：/fʊʈː/ — o 读短 ʊ；rt 合成卷舌 ʈ
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: långsamt
+- 词族: [[fortkörning]] (超速驾驶)
+- 同义词: [[snabbt]] (快速地), [[kvickt]] (迅速地)
+- 反义词: [[långsamt]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 发烧；发热
 en: fever
-synonyms: []
+synonyms: [temperatur]
 antonyms: []
-family: []
+family: [febrig, febertermometer, feberfri]
 topics: [topic-hälsa, topic-kropp]
 sentences:
   - sent-hur-hög-är-febern
@@ -24,6 +24,9 @@ interval: 0
 # feber — substantiv (en)
 
 📖 中文：发烧；发热 · English: fever
+
+🇸🇪 Förklaring: när kroppen blir varmare än vanligt, ofta för att man är sjuk
+
 发音提示：FEH-ber（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -51,6 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[febrig]] (发烧的), [[febertermometer]] (体温计), [[feberfri]] (不发烧的)
+- 同义词: [[temperatur]] (体温（发烧）)
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

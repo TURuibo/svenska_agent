@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 受惊的，害怕的
 en: frightened, scared
-synonyms: ["rädd", "förskräckt"]
-antonyms: ["trygg", "modig"]
-family: ["skrämma", "skräck"]
+synonyms: [rädd, förskräckt]
+antonyms: [trygg, modig]
+family: [skrämma, skräck]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # skrämd — adjektiv
 
 📖 中文：受惊的，害怕的 · English: frightened, scared
+
+🇸🇪 Förklaring: som har blivit rädd för något
+
 发音提示：SKRÄMD（单音节，注意 äm 发音）
 
 ## 语法变形 (Forms)

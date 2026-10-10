@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "项目"
 en: "project"
-synonyms: []
+synonyms: [uppdrag, satsning]
 antonyms: []
-family: []
+family: [projektledare, projektarbete]
 topics: ["topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # projekt — substantiv (ett-ord)
 
 📖 中文：项目 · English: project
+
+🇸🇪 Förklaring: planerat arbete med ett visst mål som pågår under en begränsad tid
+
 发音提示：pro-JEKT
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[projektledare]], [[projektarbete]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[uppdrag]] (任务), [[satsning]] (专项行动)
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

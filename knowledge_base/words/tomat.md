@@ -8,7 +8,7 @@ zh: "番茄、西红柿"
 en: "tomato"
 synonyms: []
 antonyms: []
-family: []
+family: [tomatsoppa, tomatjuice, tomatsås]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tomat — substantiv (en-ord)
 
 📖 中文：番茄、西红柿 · English: tomato
+
+🇸🇪 Förklaring: rund, röd och saftig frukt som man äter i sallad eller lagar mat med
+
 发音提示：[tʊ'maːt]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tomatsoppa, tomatjuice, tomatsås
+- 词族: [[tomatsoppa]], [[tomatjuice]], [[tomatsås]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 杯子（有耳朵的杯）
 en: cup
-synonyms: []
+synonyms: [mugg]
 antonyms: []
-family: []
+family: [kaffekopp, tekopp]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kopp — substantiv (en)
 
 📖 中文：杯子（有耳朵的杯） · English: cup
+
+🇸🇪 Förklaring: litet kärl med handtag som man dricker varma drycker ur, t.ex. kaffe eller te
+
 发音提示：KOHP
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kaffekopp]] (咖啡杯), [[tekopp]] (茶杯)
+- 同义词: [[mugg]] (马克杯)
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

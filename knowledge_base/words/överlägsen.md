@@ -6,9 +6,9 @@ genus: ""
 cefr: B2
 zh: "优越的；压倒性的；傲慢的"
 en: "superior; overwhelming"
-synonyms: []
-antonyms: ["underlägsen"]
-family: ["överlägsenhet", "lägga"]
+synonyms: [suverän, högdragen]
+antonyms: [underlägsen]
+family: [överlägsenhet, lägga]
 topics: [topic-idrott]
 sentences: [sent-han-vann-överlägset]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-06"
 # överlägsen — adjektiv
 
 📖 中文：优越的；压倒性的；傲慢的 · English: superior; overwhelming
+
+🇸🇪 Förklaring: som är mycket bättre eller starkare än andra; som beter sig som om man vore bättre än andra
+
 发音提示：/ˈøːvɛrˌleːɡsen/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ created: "2026-10-06"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: överlägsenhet (n, 优势)
-- 反义词: underlägsen (劣势的)
+- 词族: [[överlägsenhet]] (n, 优势), [[lägga]]
+- 同义词: [[suverän]] (卓越的), [[högdragen]] (傲慢的)
+- 反义词: [[underlägsen]] (劣势的)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

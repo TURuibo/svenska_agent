@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "多语的"
 en: "multilingual"
-synonyms: []
-antonyms: []
+synonyms: [mångspråkig]
+antonyms: [enspråkig]
 family: [språk, tvåspråkig]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # flerspråkig — adjektiv
 
 📖 中文：多语的 · English: multilingual
+
+🇸🇪 Förklaring: som kan tala och förstå mer än två språk
+
 发音提示：/ˈfleːrˌsproːkiɡ/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[språk]], [[tvåspråkig]]
+- 同义词: [[mångspråkig]] (多语的)
+- 反义词: [[enspråkig]] (单语的)
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

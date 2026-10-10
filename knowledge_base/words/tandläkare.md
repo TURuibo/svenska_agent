@@ -9,7 +9,7 @@ zh: "牙医"
 en: "dentist"
 synonyms: []
 antonyms: []
-family: ["tand"]
+family: [tand]
 topics: ["topic-hälsa", "topic-yrken"]
 sentences: ["sent-hej-det-ar-tandlakare-eriksson"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tandläkare — substantiv en
 
 📖 中文：牙医 · English: dentist
+
+🇸🇪 Förklaring: person med utbildning att undersöka, laga och dra ut tänder
+
 发音提示：TAND-lä-ka-re（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ Note: invariable in singular/plural (same form).
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tand]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hälsa]] · [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

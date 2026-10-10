@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 有魅力的
 en: charismatic
-synonyms: []
-antonyms: []
-family: []
+synonyms: [omtyckt]
+antonyms: [färglös]
+family: [karisma]
 topics: [topic-personer]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # karismatisk — adjektiv
 
 📖 中文：有魅力的 · English: charismatic
+
+🇸🇪 Förklaring: som har en stark personlig dragningskraft så att andra gärna lyssnar på och följer en
+
 发音提示：/karisˈmɑːtɪsk/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[karisma]] (个人魅力)
 - 同义词: [[omtyckt]]
-- 反义词:
+- 反义词: [[färglös]] (平淡无奇的)
 - 主题: [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

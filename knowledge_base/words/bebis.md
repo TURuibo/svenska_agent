@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "婴儿"
 en: "baby"
-synonyms: ["spädbarn"]
+synonyms: [spädbarn]
 antonyms: []
-family: ["barn", "nyfödd"]
+family: [barn, nyfödd]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bebis — substantiv (en)
 
 📖 中文：婴儿 · English: baby
+
+🇸🇪 Förklaring: mycket litet barn som inte kan gå eller prata än
+
 发音提示：/ˈbeːbɪs/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,7 @@ interval: 0
 
 - 词族: [[barn]], [[nyfödd]]
 - 同义词: [[spädbarn]]
+- 反义词: —
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "橡树"
 en: "oak tree"
 synonyms: []
 antonyms: []
-family: [eklöv, ekollon]
+family: [eklöv, ekollon, gren]
 topics: [topic-vader-och-arstider]
 sentences:
   - sent-den-svenska-skadespelaren-bill-skarsgard-ar-med
@@ -24,6 +24,9 @@ interval: 0
 # ek — substantiv
 
 📖 中文：橡树 · English: oak tree
+
+🇸🇪 Förklaring: stort lövträd med mycket hårt trä och flikiga blad som kan bli flera hundra år gammalt
+
 发音提示：[eek]
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[eklöv]], [[ekollon]], [[gren]]
+- 同义词: —
+- 反义词: —
 - 相关: [[gren]], [[träd]]
 - 主题: [[topic-vader-och-arstider]]
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "温驯的；驯养的"
 en: "tame"
-synonyms: []
+synonyms: [foglig]
 antonyms: [vild]
-family: []
+family: [tämja, tamdjur]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tam — adjektiv
 
 📖 中文：温驯的；驯养的 · English: tame
+
+🇸🇪 Förklaring: som lever med människor och inte är rädd för dem
+
 发音提示：/tɑːm/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tämja]] (v. 驯服), [[tamdjur]] (家养动物)
-- 同义词: —
+- 同义词: [[foglig]] (温顺的)
 - 反义词: [[vild]]
 - 主题: [[topic-djur]]
 

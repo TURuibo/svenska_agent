@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 追问；后续问题
 en: follow-up question
-synonyms: []
+synonyms: [tilläggsfråga]
 antonyms: []
 family: [fråga]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # följdfråga — substantiv (en-ord)
 
 📖 中文：追问、后续问题 · English: follow-up question
+
+🇸🇪 Förklaring: ny fråga som man ställer efter ett svar för att få veta mer
+
+发音提示：/ˈfœljdˌfroːɡa/ — 重音在 följd；å 读 oː
 
 ## 语法变形 (Forms)
 
@@ -41,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fråga]]
-- 同义词:
-- 反义词:
+- 同义词: [[tilläggsfråga]] (补充问题)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

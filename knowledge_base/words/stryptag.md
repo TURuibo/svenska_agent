@@ -8,7 +8,7 @@ zh: 扼颈，掐脖子
 en: stranglehold, chokehold
 synonyms: []
 antonyms: []
-family: []
+family: [strypa, tag, strypning]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-det-slutade-med-att-jag-tog-stryptag
@@ -23,6 +23,9 @@ interval: 0
 # stryptag — substantiv (ett)
 
 📖 中文：扼颈，掐脖子 · English: stranglehold, chokehold
+
+🇸🇪 Förklaring: grepp runt någons hals så att personen får svårt att andas
+
 发音提示：STRY-tag（stry 押韵于 "fry"）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[strypa]] (勒；掐), [[tag]] (抓握), [[strypning]] (勒颈)
+- 同义词: —
+- 反义词: —
 - 相关词组: [[ta-stryptag-på]]
 - 主题: [[topic-samhälle-och-politik]]
 

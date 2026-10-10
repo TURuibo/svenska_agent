@@ -5,13 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: "累人的、费劲的、麻烦的、难搞的"
 en: "tough, tiring, troublesome, annoying"
-synonyms:
-  - "[[besvärlig]]"
-antonyms:
-  - "[[lätt]]"
-family:
-  - "[[jobba]]"
-  - "[[jobb]]"
+synonyms: [besvärlig, ansträngande, tröttsam]
+antonyms: [lätt, skön]
+family: [jobba, jobb]
 topics:
   - "[[topic-karaktarsord]]"
 sentences: []
@@ -26,6 +22,9 @@ interval: 0
 # jobbig — adjektiv
 
 📖 中文：累人的、费劲的；麻烦的、难搞的 · English: tough, tiring, troublesome, annoying
+
+🇸🇪 Förklaring: som tar mycket kraft och energi; som är irriterande eller svår att ha att göra med
+
 发音提示：/ˈjɔbːɪɡ/，j 发 [j]（像英语 y）；bb 短促。口语高频词。
 
 ## 语法变形 (Forms)
@@ -56,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[jobba]]（工作，口语动词）、[[jobb]]（工作/活儿，名词）
-- 同义词: [[besvärlig]]（麻烦的）、ansträngande（费力的）、tröttsam（累人的）
-- 反义词: [[lätt]]（轻松的、容易的）、skön（舒服的）
+- 词族: [[jobba]]（工作，口语动词）, [[jobb]]（工作/活儿，名词）
+- 同义词: [[besvärlig]]（麻烦的）, [[ansträngande]]（费力的）, [[tröttsam]]（累人的）
+- 反义词: [[lätt]]（轻松的、容易的）, [[skön]]（舒服的）
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

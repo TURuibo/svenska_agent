@@ -8,7 +8,7 @@ cefr: A2
 zh: 敢；有勇气；敢于
 en: to dare; to have the courage to
 synonyms: [törs]
-antonyms: []
+antonyms: [dra-sig-för]
 family: [mod, modig]
 topics: [topic-karaktarsord]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # våga — verb (grupp 1)
 
 📖 中文：敢；有勇气；敢于 · English: to dare; to have the courage to
+
+🇸🇪 Förklaring: ha mod att göra något som känns farligt eller svårt
+
 发音提示：["vɔːɡa]，å 发 [ɔː]
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 
 - 词族: [[mod]], [[modig]]
 - 同义词: [[törs]]
-- 反义词: —
+- 反义词: [[dra-sig-för|dra sig för]] (畏缩不前)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

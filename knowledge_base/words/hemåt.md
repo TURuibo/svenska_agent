@@ -6,7 +6,7 @@ cefr: B1
 zh: 向家的方向
 en: homeward
 synonyms: []
-antonyms: []
+antonyms: [hemifrån]
 family: [hem]
 topics: []
 sentences: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # hemåt — adverb
 
 📖 中文：朝家的方向、回家路上 · English: homeward
+
+🇸🇪 Förklaring: i riktning mot den plats där man bor
+
+发音提示：/ˈhɛmːoːt/ — 重音在 hem；å 读长音 oː
 
 ## 语法变形 (Forms)
 
@@ -38,8 +42,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hem]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: [[hemifrån]] (离家)
 - 主题:
 
 ## 用法提示 (Usage Notes)

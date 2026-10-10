@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "软的"
 en: "soft"
-synonyms: []
-antonyms: ["hård", "krispig"]
-family: []
+synonyms: [len, fluffig]
+antonyms: [hård, krispig]
+family: [mjukhet, mjukna]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # mjuk — adjektiv
 
 📖 中文：软的 · English: soft
+
+🇸🇪 Förklaring: som ger efter när man trycker på det och känns skön att röra vid
+
 发音提示：[mjʉːk]
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mjukhet (柔软度), mjukna (变软 v)
-- 同义词: —
+- 词族: [[mjukhet]] (柔软度), [[mjukna]] (变软 v)
+- 同义词: [[len]] (柔滑的), [[fluffig]] (蓬松的)
 - 反义词: [[hård]], [[krispig]]
 - 主题: [[topic-mat-dryck]]
 

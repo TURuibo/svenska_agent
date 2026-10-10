@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "包/手提包"
 en: "bag/handbag"
-synonyms: []
+synonyms: [bag]
 antonyms: []
-family: []
+family: [handväska, resväska, skolväska]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # väska — substantiv (en-ord)
 
 📖 中文：包/手提包 · English: bag/handbag
+
+🇸🇪 Förklaring: behållare av tyg, läder eller plast med handtag som man bär saker i
+
 发音提示：/ˈvɛsːka/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[handväska]] (手提包), [[resväska]] (行李箱), [[skolväska]] (书包)
+- 同义词: [[bag]] (包)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

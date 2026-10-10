@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 犀牛
 en: rhinoceros
-synonyms: ["rhino"]
+synonyms: [rhino]
 antonyms: []
-family: ["nos", "horn"]
+family: [nos, horn]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # noshörning — substantiv (en)
 
 📖 中文：犀牛 · English: rhinoceros
+
+🇸🇪 Förklaring: stort och tungt däggdjur i Afrika och Asien med tjock grå hud och vassa utväxter på huvudet
+
 发音提示：NOS-hör-ning（三音节，复合词）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[nos]]（鼻子）, [[horn]]（角）
+- 同义词: [[rhino]]
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

@@ -18,6 +18,9 @@ created: "2026-09-22"
 # skridsko — substantiv (en)
 
 📖 中文：冰刀、溜冰鞋 · English: ice skate
+
+🇸🇪 Förklaring: känga med en smal skena av metall under, som man åker på is med
+
 发音提示：/ˈskrɪdːskuː/
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-22"
 
 - 词族: [[skridskoåkare]]
 - 同义词: [[pulka]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

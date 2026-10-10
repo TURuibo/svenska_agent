@@ -7,7 +7,7 @@ genus: en
 cefr: A1
 zh: 歌
 en: song
-synonyms: []
+synonyms: [visa, låt]
 antonyms: []
 family: [sjunga, sångsamling, namnsång]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: 2026-09-26
 # sång — substantiv (en)
 
 📖 中文：歌 · English: song
+
+🇸🇪 Förklaring: kort musikstycke med text som man framför med rösten; det att göra musik med rösten
+
 发音提示：/sɔŋː/ — å 短音 [ɔ]，ng 读 [ŋ]。
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: 2026-09-26
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sjunga]]（动词）, [[sångsamling]], [[namnsång]]
+- 同义词: [[visa]] (歌谣), [[låt]] (歌曲)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

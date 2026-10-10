@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "看见, 看到; 看(电影/剧); 明白"
 en: "to see; to watch; to understand"
-synonyms: ["titta", "kolla", "märka"]
+synonyms: [titta, kolla, märka]
 antonyms: []
-family: ["sedd", "syn", "sevärd", "sevärdhet"]
+family: [sedd, syn, sevärd, sevärdhet]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # se — verb
 
 📖 中文：看见, 看到; 看(电影/剧); 明白 · English: to see; to watch; to understand
+
+🇸🇪 Förklaring: 1) uppfatta något med ögonen; 2) titta på en film eller ett program; 3) förstå något
+
 发音提示：se [seː]；supinum **sett** [sɛtː] —— 短 e + 长 t，与 **sätt**（方式）同音！
 
 ## 语法变形 (Forms)
@@ -72,7 +75,7 @@ created: "2026-09-26"
 
 - 词族: [[sedd]], [[syn]]（视力；景象）, [[sevärd]]（值得一看的）, [[sevärdhet]]（名胜）
 - 同义词: [[titta]]（有意去看）, [[kolla]]（口语：瞧、查看）, [[märka]]（注意到）
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

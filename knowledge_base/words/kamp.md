@@ -6,7 +6,7 @@ genus: "en"
 cefr: "B1"
 zh: "斗争"
 en: "struggle, fight"
-synonyms: []
+synonyms: [strid]
 antonyms: []
 family: [kämpa]
 topics: [topic-jämställdhet, topic-samhälle-och-politik]
@@ -22,7 +22,10 @@ interval: 0
 # kamp — substantiv
 
 📖 中文：斗争 · English: struggle, fight
-发音提示：
+
+🇸🇪 Förklaring: när man med stor kraft försöker vinna över något eller nå ett mål
+
+发音提示：/kamp/ — a 读短音，单音节
 
 ## 语法变形 (Forms)
 
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kämpa]]
-- 同义词: —
+- 同义词: [[strid]] (斗争)
 - 反义词: —
 - 主题: [[topic-jämställdhet]], [[topic-samhälle-och-politik]]
 

@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B2"
 zh: "有条件的（缓刑的）"
 en: "conditional"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [betingad]
+antonyms: [ovillkorlig]
+family: [villkor, villkorlig-dom]
 topics: ["topic-rattsvasen"]
 sentences: ["sent-eftersom-hon-inte-ar-straffad-tidigare-doms"]
 known: false
@@ -17,7 +17,10 @@ created: "2026-09-22"
 # villkorlig — adjektiv
 
 📖 中文：有条件的（缓刑的） · English: conditional
-发音提示：
+
+🇸🇪 Förklaring: som bara gäller om vissa krav är uppfyllda; (om straff) som man inte behöver sitta i fängelse för om man sköter sig
+
+发音提示：/ˈvɪlːˌkoːɭɪɡ/ — rl 合读卷舌 ɭ；重音在 vill
 
 ## 语法变形 (Forms)
 
@@ -37,9 +40,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[villkor]] (条件), [[villkorlig-dom|villkorlig dom]] (缓刑判决)
+- 同义词: [[betingad]] (有条件的)
+- 反义词: [[ovillkorlig]] (无条件的)
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

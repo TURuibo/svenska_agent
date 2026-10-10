@@ -18,8 +18,11 @@ created: "2026-10-01"
 # svensk — substantiv (en)
 
 📖 中文：瑞典人 · English: Swede
-发音提示：/svɛnsk/
 同形词：形容词 [[svensk]]（瑞典的）；本条是名词（一个瑞典人）。
+
+🇸🇪 Förklaring: person som kommer från Sverige eller är medborgare där
+
+发音提示：/svɛnsk/
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[svensk]]
-- 同义词: 
-- 反义词: 
+- 同义词: —
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

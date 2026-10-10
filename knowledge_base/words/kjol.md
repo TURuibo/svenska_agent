@@ -8,7 +8,7 @@ zh: "裙子"
 en: "skirt"
 synonyms: []
 antonyms: []
-family: []
+family: [minikjol, kjolkant]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kjol — substantiv (en-ord)
 
 📖 中文：裙子 · English: skirt
+
+🇸🇪 Förklaring: plagg som hänger från midjan ner över benen och som oftast bärs av kvinnor
+
 发音提示：/çuːl/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[minikjol]] (超短裙), [[kjolkant]] (裙边)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: A1
 zh: 文本；歌词；课文
 en: text; lyrics
-synonyms: []
+synonyms: [skrift]
 antonyms: []
-family: []
+family: [texta, textning, sångtext]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # text — substantiv (en)
 
 📖 中文：文本；歌词；课文 · English: text; lyrics
+
+🇸🇪 Förklaring: ord och meningar som är skrivna; orden till en sång
+
 发音提示：/tɛkst/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[texta]] (写印刷体；加字幕), [[textning]] (字幕), [[sångtext]] (歌词)
+- 同义词: [[skrift]] (文字)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

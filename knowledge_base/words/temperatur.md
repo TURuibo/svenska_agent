@@ -22,6 +22,9 @@ interval: 0
 # temperatur — substantiv (en)
 
 📖 中文：温度；气温 · English: temperature
+
+🇸🇪 Förklaring: hur varmt eller kallt något är, mätt i grader
+
 发音提示：tem-pe-ra-TUR（重音在末音节）
 
 ## 语法变形 (Forms)

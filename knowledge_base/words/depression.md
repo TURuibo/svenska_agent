@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "抑郁症；萧条"
 en: "depression"
-synonyms: []
-antonyms: []
+synonyms: [nedstämdhet, lågkonjunktur]
+antonyms: [högkonjunktur]
 family: [ångest]
 topics: [topic-halsa-och-sjukdom]
 sentences: [sent-forskare-kommer-kanske-kunna-forsta-mer-om]
@@ -19,6 +19,9 @@ created: "2026-10-06"
 # depression — substantiv
 
 📖 中文：抑郁症；萧条 · English: depression
+
+🇸🇪 Förklaring: 1) sjukdom där man känner sig mycket ledsen och trött under lång tid; 2) period då ekonomin går mycket dåligt
+
 发音提示：de-pre-SJOHN
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-10-06"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ångest]]
+- 同义词: [[nedstämdhet]] (情绪低落), [[lågkonjunktur]] (经济萧条)
+- 反义词: [[högkonjunktur]] (经济繁荣)
 - 主题: [[topic-halsa-och-sjukdom]]
 
 ## 用法提示 (Usage Notes)

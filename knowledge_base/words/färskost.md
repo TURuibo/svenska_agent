@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 新鲜奶酪
 en: fresh cheese
-synonyms: []
+synonyms: [mjukost]
 antonyms: []
 family: [ost]
 topics: [topic-mat-dryck]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # färskost — substantiv (en)
 
 📖 中文：新鲜奶酪 · English: fresh cheese
+
+🇸🇪 Förklaring: mjuk ost som inte har fått mogna och som man ofta brer på bröd
+
 发音提示：/ˈfæːʂˌuːst/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ost]]
-- 同义词:
-- 反义词:
+- 同义词: [[mjukost]] (软奶酪)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

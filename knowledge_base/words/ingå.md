@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "包括在内；属于其中；（与某人）缔结、签订"
 en: "to be included (in); to be part of; to enter into (an agreement)"
-synonyms: []
-antonyms: []
-family: [gå, ingång]
+synonyms: [vara-inkluderad, sluta]
+antonyms: [vara-undantagen]
+family: [gå, ingång, ingående]
 topics: [topic-allmänna-verb]
 sentences: [sent-i-beslutet-ingår-också-att-företagen-själva]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # ingå — verb (grupp 4, 强变化)
 
 📖 中文：包括在内；属于其中；缔结、签订 · English: to be included (in); to be part of; to enter into (an agreement)
+
+🇸🇪 Förklaring: vara en del av något, till exempel i ett pris eller en grupp; (ingå avtal) göra en officiell överenskommelse med någon
+
 发音提示：IN-gå，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -58,9 +61,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[gå]]（走）、[[ingång]]（入口）；形容词用法 `ingående`（详尽的：`ingående kunskaper`）
-- 同义词: 义项1 近义 `vara inkluderad`；义项2 近义 `sluta (avtal)`
-- 反义词: `vara undantagen`（被排除在外）
+- 词族: [[gå]]（走）, [[ingång]]（入口）, 形容词用法 [[ingående]]（详尽的：[[ingående-kunskaper|ingående kunskaper]]）
+- 同义词: 义项1 近义 [[vara-inkluderad|vara inkluderad]], 义项2 近义 `[[sluta]] (avtal)`
+- 反义词: [[vara-undantagen|vara undantagen]]（被排除在外）
 - 主题: [[topic-allmänna-verb]]
 
 ## 用法提示 (Usage Notes)

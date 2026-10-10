@@ -6,7 +6,7 @@ genus: ett
 cefr: A2
 zh: 废物；垃圾
 en: waste
-synonyms: []
+synonyms: [sopor, skräp]
 antonyms: []
 family: [matavfall, restavfall]
 topics: [topic-källsortering, topic-miljö-och-klimat]
@@ -23,6 +23,9 @@ interval: 0
 # avfall — substantiv
 
 📖 中文：废物；垃圾 · English: waste
+
+🇸🇪 Förklaring: saker som man har slängt eller inte behöver längre, till exempel sopor
+
 发音提示：AV-fall（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[matavfall]] [[restavfall]]
+- 词族: [[matavfall]] [[restavfall]], [[restavfall]]
+- 同义词: [[sopor]] (垃圾), [[skräp]] (废物)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 主题: [[topic-miljö-och-klimat]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]

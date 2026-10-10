@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: 水中健身
 en: water aerobics
-synonyms: []
+synonyms: [vattengympa]
 antonyms: []
-family: []
+family: [vatten, gymnastik, gympa]
 topics: [topic-simhall-och-schema]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-05"
 # vattengymnastik — substantiv (en)
 
 📖 中文：水中健身 · English: water aerobics
+
+🇸🇪 Förklaring: träning i grupp i en bassäng, ofta till musik
+
 发音提示：VAT-ten-gym-NASS-tik
 
 ## 语法变形 (Forms)
@@ -43,6 +46,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vatten]] (水), [[gymnastik]] (体操), [[gympa]] (健身操)
+- 同义词: [[vattengympa]] (水中健身)
+- 反义词: —
 - 主题: [[topic-simhall-och-schema]]
 - 相关: [[simhall]], [[senior]]
 

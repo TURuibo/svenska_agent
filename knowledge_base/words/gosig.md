@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "爱撒娇的、可爱好抱的"
 en: "cuddly"
-synonyms: []
+synonyms: [mysig, kelig]
 antonyms: []
-family: []
+family: [gosa, gosedjur]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gosig — adjektiv
 
 📖 中文：爱撒娇的、可爱好抱的 · English: cuddly
+
+🇸🇪 Förklaring: som är mjuk och skön att krama; som gärna vill bli kramad
+
 发音提示： "gó-sig"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[gosa]] (依偎), [[gosedjur]] (毛绒玩具)
+- 同义词: [[mysig]] (舒适的), [[kelig]] (粘人的)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

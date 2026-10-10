@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "集点卡；印章卡"
 en: "stamp card; loyalty card"
-synonyms: ["lojalitetskort", "poängkort"]
+synonyms: [lojalitetskort, poängkort]
 antonyms: []
-family: ["stämpla", "kort"]
+family: [stämpla, kort]
 topics: ["topic-kafe-fika", "topic-betalning"]
 sentences:
   - "sent-forresten-har-du-vart-stampelkort"
@@ -26,6 +26,9 @@ interval: 0
 # stämpelkort — substantiv (ett)
 
 📖 中文：集点卡；印章卡 · English: stamp card; loyalty card
+
+🇸🇪 Förklaring: litet kort där kunden får ett märke vid varje köp och efter ett visst antal får något gratis
+
 发音提示：/ˈstɛmpəlˌkuːrt/；合成词 stämpel（印章）+ kort（卡）。
 
 ## 语法变形 (Forms)
@@ -55,7 +58,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stämpla]] (盖章), [[kort]] (卡)
-- 同义词: lojalitetskort（忠诚度卡）
+- 同义词: [[lojalitetskort]]（忠诚度卡）, [[poängkort]]
+- 反义词: —
 - 主题: [[topic-kafe-fika]], [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

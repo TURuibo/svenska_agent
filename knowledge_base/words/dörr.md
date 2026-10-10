@@ -9,7 +9,7 @@ zh: "门"
 en: "door"
 synonyms: []
 antonyms: []
-family: ["dörrhandtag", "ytterdörr", "innerdörr"]
+family: [dörrhandtag, ytterdörr, innerdörr]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # dörr — substantiv (en)
 
 📖 中文：门 · English: door
+
+🇸🇪 Förklaring: skiva som man öppnar och stänger för att gå in i eller ut ur ett rum eller ett hus
+
 发音提示：/dœr/；单音节，双写 rr。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: dörrhandtag (门把手), ytterdörr (外门), innerdörr (内门)
+- 词族: [[dörrhandtag]] (门把手), [[ytterdörr]] (外门), [[innerdörr]] (内门)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]]

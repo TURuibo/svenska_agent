@@ -23,6 +23,9 @@ interval: 0
 # känd — adjektiv
 
 📖 中文：有名的 · English: famous, known
+
+🇸🇪 Förklaring: som många människor vet vem eller vad det är
+
 发音提示：/çɛnd/；注意 kä- 的前元音 ä。
 
 ## 语法变形 (Forms)

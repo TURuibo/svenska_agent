@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "安置；名额；排位；放置"
 en: "placement, position"
-synonyms: []
+synonyms: [position, plats]
 antonyms: []
 family: [placera, garantiplacering]
 topics: []
@@ -23,6 +23,9 @@ interval: 0
 # placering — substantiv (en)
 
 📖 中文：安置；名额；排位；放置 · English: placement, position
+
+🇸🇪 Förklaring: 1) det att man ställer något på en viss plats; 2) plats i förskola eller skola som ett barn får; 3) plats i en tävling eller rangordning
+
 发音提示：pla-**se**-ring，重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[placera]] (动词：安置、放置), [[garantiplacering]]
-- 同义词: —
+- 同义词: [[position]] (位置), [[plats]] (位置)
 - 反义词: —
 - 主题: —
 

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "丈夫；配偶"
 en: "husband; spouse"
-synonyms: ["man"]
-antonyms: ["fru"]
-family: ["fru", "gift", "äktenskap"]
+synonyms: [man]
+antonyms: [fru]
+family: [fru, gift, äktenskap]
 topics: ["topic-familj-och-barn", "topic-personer"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # make — substantiv (en)
 
 📖 中文：丈夫；配偶 · English: husband; spouse
+
+🇸🇪 Förklaring: man som någon är gift med; ibland om vilken person som helst i ett äktenskap
+
 发音提示：/ˈmɑːkə/
 
 ## 语法变形 (Forms)
@@ -38,9 +41,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[fru]], [[gift]], [[äktenskap]]
 - 同义词: [[man]]
 - 反义词: [[fru]]
-- 词族: [[fru]], [[gift]]
 - 主题: [[topic-familj-och-barn]], [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

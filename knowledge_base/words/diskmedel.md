@@ -9,7 +9,7 @@ zh: "洗洁精；洗碗液"
 en: "washing-up liquid; dish soap"
 synonyms: []
 antonyms: []
-family: [disk, diskmaskin]
+family: [disk, diskmaskin, tvättmedel]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-pengarna-ska-räcka-till-mat-kläder-och]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # diskmedel — substantiv (ett)
 
 📖 中文：洗洁精；洗碗液 · English: washing-up liquid; dish soap
+
+🇸🇪 Förklaring: flytande tvål som man använder när man tvättar tallrikar och glas för hand
+
 发音提示：DISK-me-del，重音在第一音节 `disk`。
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[disk]]（餐具、洗碗）、[[diskmaskin]]（洗碗机）、`tvättmedel`（洗衣液）
+- 词族: [[disk]]（餐具、洗碗）, [[diskmaskin]]（洗碗机）, [[tvättmedel]]（洗衣液）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]

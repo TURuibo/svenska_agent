@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "房东；出租方"
 en: "landlord; lessor"
-synonyms: []
-antonyms: ["hyresgäst"]
-family: ["hyresgäst", "hyra"]
+synonyms: [fastighetsägare]
+antonyms: [hyresgäst]
+family: [hyra, hyresgäst]
 topics: ["topic-boende"]
 sentences: ["sent-jag-skriver-for-att-anmala-ett", "sent-ni-ar-valkommen-att-kontakta"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hyresvärd — substantiv (en)
 
 📖 中文：房东；出租方 · English: landlord; lessor
+
+🇸🇪 Förklaring: person eller företag som äger bostäder och tar betalt av dem som bor där
+
 发音提示：[ˈhyːrəsˌvæːrd] — "hyrES-vård"
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hyra]], [[hyresgäst]]
+- 同义词: [[fastighetsägare]] (房产业主)
 - 反义词: [[hyresgäst]] (租客)
 - 主题: [[topic-boende]]
 

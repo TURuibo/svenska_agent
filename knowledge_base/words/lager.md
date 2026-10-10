@@ -7,9 +7,9 @@ genus: ett
 cefr: "A2"
 zh: "仓库；储存"
 en: "warehouse; storage; stock"
-synonyms: []
+synonyms: [förråd]
 antonyms: []
-family: []
+family: [lagerarbetare]
 topics: [topic-arbete-och-jobb]
 sentences:
   - sent-min-man-heter-hassan-och-jobbar
@@ -24,6 +24,9 @@ interval: 0
 # lager — substantiv (ett)
 
 📖 中文：仓库；储存 · English: warehouse; storage; stock
+
+🇸🇪 Förklaring: 1) ställe där ett företag förvarar varor; 2) de varor som finns sparade där
+
 发音提示：['lɑːɡər]（"a"长音）
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 - 词族: [[lagerarbetare]]
 - 同义词: [[förråd]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

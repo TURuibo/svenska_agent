@@ -6,8 +6,8 @@ genus: en
 cefr: A1
 zh: 小组；团体
 en: group
-synonyms: []
-antonyms: []
+synonyms: [skara, lag]
+antonyms: [individ]
 family: [facebookgrupp]
 topics: []
 sentences: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # grupp — substantiv (en-ord)
 
 📖 中文：小组、团体 · English: group
+
+🇸🇪 Förklaring: några personer eller saker som hör ihop eller är tillsammans
+
+发音提示：/ɡrɵpː/ — u 读短音 ɵ，p 要长
 
 ## 语法变形 (Forms)
 
@@ -44,8 +48,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[facebookgrupp]]
-- 同义词:
-- 反义词:
+- 同义词: [[skara]] (一群), [[lag]] (队)
+- 反义词: [[individ]] (个人)
 - 主题:
 
 ## 用法提示 (Usage Notes)

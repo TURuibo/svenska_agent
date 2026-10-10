@@ -19,6 +19,9 @@ created: "2026-10-06"
 # länsstyrelse — substantiv
 
 📖 中文：省行政委员会 · English: county administrative board
+
+🇸🇪 Förklaring: statlig myndighet i varje region som ser till att riksdagens och regeringens beslut genomförs
+
 发音提示：LENS-sty-rel-se
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-10-06"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kommun]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

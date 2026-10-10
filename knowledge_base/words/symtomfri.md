@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "无症状的"
 en: "symptom-free"
 synonyms: [smittfri, frisk]
-antonyms: []
+antonyms: [sjuk]
 family: [symtom]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # symtomfri — adjektiv
 
 📖 中文：无症状的 · English: symptom-free
+
+🇸🇪 Förklaring: som inte visar några tecken på sjukdom
+
 发音提示：[sʏmˈtoːmˌfriː]。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[symtom]]
-- 同义词: [[smittfri]] · [[frisk]]
+- 同义词: [[smittfri]] · [[frisk]], [[frisk]]
 - 反义词: [[sjuk]]
 - 主题: [[topic-sjukt-barn-och-vab]] · [[topic-förskola-vardag]]
 

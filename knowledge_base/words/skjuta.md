@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "射击，开枪；推动；发射"
 en: "to shoot; to push; to fire"
-synonyms: []
-antonyms: []
-family: ["skott"]
+synonyms: [trycka, avfyra]
+antonyms: [dra]
+family: [skott]
 topics: ["topic-krig-och-konflikt"]
 sentences:
   - sent-ett-ryskt-militärfartyg-sköt-skott
@@ -26,6 +26,9 @@ interval: 0
 # skjuta — verb
 
 📖 中文：射击，开枪；推动；发射 · English: to shoot; to push; to fire
+
+🇸🇪 Förklaring: 1) avlossa ett vapen så att en kula flyger iväg; 2) trycka något framför sig så att det flyttar sig; 3) skicka upp något i luften, t.ex. en raket
+
 发音提示：/ˈʂʉːta/
 
 ## 语法变形 (Forms)
@@ -57,6 +60,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skott]] (枪声，射击)
+- 同义词: [[trycka]] (推), [[avfyra]] (发射)
+- 反义词: [[dra]] (拉)
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

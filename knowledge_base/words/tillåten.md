@@ -5,13 +5,9 @@ ordklass: "adjektiv"
 cefr: "A2"
 zh: "被允许的；获准的"
 en: "permitted; allowed"
-synonyms:
-  - okej
-antonyms:
-  - förbjuden
-family:
-  - tillåta
-  - tillåtelse
+synonyms: [okej]
+antonyms: [förbjuden]
+family: [tillåta, tillåtelse]
 topics:
   - topic-hemmet
   - topic-samhälle-och-politik
@@ -28,6 +24,9 @@ interval: 0
 # tillåten — adjektiv
 
 📖 中文：被允许的；获准的 · English: permitted; allowed
+
+🇸🇪 Förklaring: som man får göra eller ha enligt regler eller lagar
+
 发音提示：/ti-LO-ten/
 
 ## 语法变形 (Forms)
@@ -52,7 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tillåta（动词：允许）
+- 词族: [[tillåta]]（动词：允许）, [[tillåtelse]]
+- 同义词: [[okej]]
 - 反义词: [[förbjuden]]（被禁止的）
 - 主题: [[topic-hemmet]]
 

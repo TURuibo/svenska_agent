@@ -19,6 +19,9 @@ created: "2026-09-26"
 # förskollärare — substantiv (en)
 
 📖 中文：幼儿园老师（学前教师） · English: preschool teacher
+
+🇸🇪 Förklaring: person med högskoleutbildning som arbetar med barnen på en förskola
+
 发音提示：/ˈfœːˌʂkuːlˌlɛːrarɛ/ — 重音在 **för**，中间 *-skol-* 短促，*lärare* 的 ä 读长 /ɛː/。复合词：för + skol(a) + lärare。
 
 ## 语法变形 (Forms)
@@ -43,8 +46,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[förskola]] · [[lärare]] · [[barnskötare]]
+- 词族: [[förskola]] · [[lärare]] · [[barnskötare]], [[lärare]] (教师/老师), [[barnskötare]] (幼儿保育员)
 - 同义词: [[pedagog]]（更宽泛：园里的教育人员）
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

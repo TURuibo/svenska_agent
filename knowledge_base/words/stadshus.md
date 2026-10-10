@@ -7,9 +7,9 @@ genus: ett
 cefr: "A2"
 zh: "市政厅"
 en: "city hall"
-synonyms: ["rådhus"]
+synonyms: [rådhus]
 antonyms: []
-family: ["stad", "hus"]
+family: [stad, hus]
 topics: ["topic-stockholm"]
 sentences:
   - sent-stadshuset-är-en-annan-känd-byggnad
@@ -25,6 +25,9 @@ interval: 0
 # stadshus — substantiv
 
 📖 中文：市政厅 · English: city hall
+
+🇸🇪 Förklaring: byggnad där kommunens politiker och tjänstemän har möten och kontor
+
 发音提示：STADS-hus（复合词：stads = 城市的 + hus = 房子）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stad]], [[hus]]
-- 同义词: `rådhus` (旧称市政厅，现多用于法院)
+- 同义词: [[rådhus]] (旧称市政厅，现多用于法院)
+- 反义词: —
 - 主题: [[topic-stockholm]]
 
 ## 用法提示 (Usage Notes)

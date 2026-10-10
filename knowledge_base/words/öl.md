@@ -7,9 +7,9 @@ genus: en
 cefr: "A1"
 zh: "啤酒"
 en: "beer"
-synonyms: []
+synonyms: [bärs]
 antonyms: []
-family: []
+family: [ölburk, folköl, lättöl]
 topics: [topic-mat-dryck]
 sentences:
   - sent-då-tar-jag-fläskfilén-tack
@@ -24,6 +24,9 @@ interval: 0
 # öl — substantiv (en/ett)
 
 📖 中文：啤酒 · English: beer
+
+🇸🇪 Förklaring: alkoholhaltig dryck som man brygger av malt, humle och vatten
+
 发音提示：öl (短元音，类似 "url")
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[ölburk]] (啤酒罐), [[folköl]] (淡啤酒), [[lättöl]] (低度啤酒)
+- 同义词: [[bärs]] (啤酒（口语）)
+- 反义词: —
 - 相关词: [[rödvin]], [[juice]], [[dricka]], [[glas]]
 - 主题: [[topic-mat-dryck]]
 

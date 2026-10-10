@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 大部分；主要
 en: mostly; mainly
-synonyms: []
-antonyms: []
-family: []
+synonyms: [huvudsakligen, till-stor-del]
+antonyms: [minst]
+family: [mer, mycket]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # mest — adverb
 
 📖 中文：大部分；主要；最 · English: mostly; mainly; most
+
+🇸🇪 Förklaring: till största delen; oftast
+
 发音提示：MEST
 
 ## 语法变形 (Forms)
@@ -42,8 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mer (更多，比较级), mycket (很多，原级)
-- 同义词: huvudsakligen (主要地), till stor del (很大程度上)
+- 词族: [[mer]] (更多，比较级), [[mycket]] (很多，原级)
+- 同义词: [[huvudsakligen]] (主要地), [[till-stor-del|till stor del]] (很大程度上)
+- 反义词: [[minst]] (最少)
 
 ## 用法提示 (Usage Notes)
 

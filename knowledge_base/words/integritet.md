@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "隐私、个人完整性"
 en: "privacy, integrity"
-synonyms: []
+synonyms: [privatliv]
 antonyms: []
-family: []
+family: [integritetsskydd, integritetskränkande]
 topics: [topic-sociala-normer]
 sentences: ["sent-i-sverige-värderas-integritet-högt"]
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # integritet — substantiv
 
 📖 中文：隐私、个人完整性 · English: privacy, integrity
+
+🇸🇪 Förklaring: rätten att ha ett privat liv och själv bestämma över sina personliga uppgifter; det att vara ärlig och stå för sina värderingar
+
+发音提示：/ɪnteɡriˈteːt/ — 重音在最后音节 tet，e 读长音
 
 ## 语法变形 (Forms)
 
@@ -43,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[integritetsskydd]] (隐私保护), [[integritetskränkande]] (侵犯隐私的)
+- 同义词: [[privatliv]] (私生活)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

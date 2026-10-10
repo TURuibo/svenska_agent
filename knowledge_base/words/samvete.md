@@ -8,7 +8,7 @@ zh: "良心"
 en: "conscience"
 synonyms: []
 antonyms: []
-family: []
+family: [samvetsgrann, samvetskval, dåligt-samvete]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # samvete — substantiv
 
 📖 中文：良心 · English: conscience
-发音提示：
+
+🇸🇪 Förklaring: känsla inom en som säger vad som är rätt och fel att göra
+
+发音提示：/ˈsamːˌveːtɛ/ — 复合词，重音在 sam；e 读长音
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[samvetsgrann]] (认真负责的), [[samvetskval]] (良心不安), [[dåligt-samvete|dåligt samvete]] (内疚)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "预先通知"
 en: "advance warning"
-synonyms: []
+synonyms: [förhandsbesked, varsel]
 antonyms: []
-family: ["varna"]
+family: [varna]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # förvarning — substantiv
 
 📖 中文：预先通知 · English: advance warning
+
+🇸🇪 Förklaring: meddelande om att något, ofta något obehagligt, snart kommer att hända
+
+发音提示：/ˈfœːrˌvɑːɳɪŋ/ — 重音在 för；rn 合成卷舌 ɳ
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[varna]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[förhandsbesked]] (预先通知), [[varsel]] (预警)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

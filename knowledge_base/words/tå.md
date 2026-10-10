@@ -8,7 +8,7 @@ zh: 脚趾
 en: toe
 synonyms: []
 antonyms: []
-family: []
+family: [finger]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tå — substantiv (en)
 
 📖 中文：脚趾 · English: toe
+
+🇸🇪 Förklaring: en av de fem små delarna längst fram på foten
+
 发音提示：/toː/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[finger]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

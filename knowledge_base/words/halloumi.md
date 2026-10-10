@@ -24,6 +24,9 @@ interval: 0
 # halloumi — substantiv ett
 
 📖 中文：哈鲁米奶酪 · English: halloumi cheese
+
+🇸🇪 Förklaring: fast och salt ost från Cypern som man kan steka eller grilla utan att den smälter
+
 发音提示：/ha-LOO-mi/（借词自塞浦路斯希腊语）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

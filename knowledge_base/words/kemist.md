@@ -9,7 +9,7 @@ zh: "化学家"
 en: "chemist"
 synonyms: []
 antonyms: []
-family: ["kemi", "kemisk"]
+family: [kemi, kemisk]
 topics: ["topic-yrken", "topic-uppfinning-och-teknik"]
 sentences:
   - "sent-han-gillade-kemi-och-vetenskap"
@@ -24,6 +24,9 @@ interval: 0
 # kemist — substantiv (en)
 
 📖 中文：化学家 · English: chemist
+
+🇸🇪 Förklaring: person som har studerat kemi och arbetar med att undersöka ämnen och hur de reagerar
+
 发音提示：/keˈmɪst/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kemi]], [[kemisk]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-yrken]], [[topic-uppfinning-och-teknik]]
 
 ## 用法提示 (Usage Notes)

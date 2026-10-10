@@ -7,8 +7,8 @@ cefr: "B1"
 zh: "继任者；接班人"
 en: "successor"
 synonyms: []
-antonyms: []
-family: ["efterträda"]
+antonyms: [företrädare]
+family: [efterträda]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # efterträdare — substantiv
 
 📖 中文：继任者；接班人 · English: successor
+
+🇸🇪 Förklaring: person som tar över någon annans arbete eller plats när den slutar
+
 发音提示：/ˈɛftərˌtrɛːdarə/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[efterträda]] (verb: 继任)
+- 同义词: —
+- 反义词: [[företrädare]] (前任)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

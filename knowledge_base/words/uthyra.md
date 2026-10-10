@@ -6,12 +6,9 @@ verbgrupp: "2r"
 cefr: "A2"
 zh: "出租"
 en: "to rent out; to let"
-synonyms: []
-antonyms:
-  - hyra
-family:
-  - hyra
-  - hyresgäst
+synonyms: [hyra-ut]
+antonyms: [hyra]
+family: [hyra, hyresgäst]
 topics:
   - topic-hemmet
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # uthyra — verb v.2r
 
 📖 中文：出租 · English: to rent out; to let
+
+🇸🇪 Förklaring: låta någon annan använda något, till exempel en bostad, mot betalning
+
 发音提示：/UT-hy-ra/
 
 ## 语法变形 (Forms)
@@ -53,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hyra]]（租赁；租金）· [[hyresgäst]]（租户）
+- 词族: [[hyra]]（租赁；租金）· [[hyresgäst]]（租户）, [[hyresgäst]]
+- 同义词: [[hyra-ut|hyra ut]] (出租)
+- 反义词: [[hyra]] (租金)
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

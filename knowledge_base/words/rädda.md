@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "拯救；营救"
 en: "to save; to rescue"
-synonyms: ["hjälpa"]
+synonyms: [hjälpa]
 antonyms: []
-family: ["räddning", "räddningsarbetare"]
+family: [räddning, räddningsarbetare]
 topics: ["topic-jordbävning-katastrof"]
 sentences:
   - sent-manniskor-hamnade-under-hus-som
@@ -24,6 +24,9 @@ interval: 0
 # rädda — verb (grupp 1)
 
 📖 中文：拯救；营救 · English: to save; to rescue
+
+🇸🇪 Förklaring: hjälpa någon att komma undan fara eller död
+
 发音提示：["rEd-da"] — 短促清晰的 -dd-
 
 ## 语法变形 (Forms)
@@ -51,8 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: räddning (en)（营救/救援），[[räddningsarbetare]]（救援人员）
+- 词族: [[räddning]] (en)（营救/救援）, [[räddningsarbetare]]（救援人员）
 - 同义词: [[hjälpa]]（帮助）
+- 反义词: —
 - 主题: [[topic-jordbävning-katastrof]]
 - 来源: [[source-2026-06-29-nyheter-8sidor]]
 

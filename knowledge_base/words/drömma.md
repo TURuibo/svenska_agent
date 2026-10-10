@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: "A2"
 zh: "做梦, 梦到"
 en: "to dream"
-synonyms: []
+synonyms: [fantisera, längta]
 antonyms: []
-family: ["dröm"]
+family: [dröm]
 topics: ["topic-midsommar-traditioner"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # drömma — verb
 
 📖 中文：做梦, 梦到 · English: to dream
+
+🇸🇪 Förklaring: 1) se bilder och uppleva saker när man sover; 2) önska sig något mycket
+
 发音提示：dröm-ma
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dröm]]
-- 同义词:
-- 反义词:
+- 同义词: [[fantisera]] (幻想), [[längta]] (渴望)
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "留言、消息"
 en: "message, notice"
-synonyms: []
+synonyms: [besked, budskap]
 antonyms: []
-family: []
+family: [meddela, textmeddelande, röstmeddelande]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # meddelande — substantiv
 
 📖 中文：留言、消息 · English: message, notice
+
+🇸🇪 Förklaring: kort text eller information som någon skickar eller lämnar till någon annan
+
 发音提示： "med-de-lán-de"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[meddela]] (通知), [[textmeddelande]] (短信), [[röstmeddelande]] (语音留言)
+- 同义词: [[besked]] (通知), [[budskap]] (信息)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

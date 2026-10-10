@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 教师研修日（学生不上课）
 en: staff training day
-synonyms: []
+synonyms: [planeringsdag]
 antonyms: []
-family: [dag]
+family: [studie, dag]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-fredagen-den-16-oktober-är-det]
 known: false
@@ -18,6 +18,9 @@ created: 2026-10-07
 # studiedag — substantiv (en-ord)
 
 📖 中文：教师研修日（学生不上课） · English: staff training day
+
+🇸🇪 Förklaring: dag då lärarna har utbildning eller planering och eleverna är lediga
+
 发音提示：[ˈstʉːdɪˌdɑːɡ]
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: studie + dag
+- 词族: [[studie]] + dag, [[dag]] (天/日子)
+- 同义词: [[planeringsdag]] (计划日)
+- 反义词: —
 - 相关: [[fritidshem]], [[undervisning]], [[elev]]
 - 主题: [[topic-skola-och-utbildning]]
 

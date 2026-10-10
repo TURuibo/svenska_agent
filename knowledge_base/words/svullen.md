@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "肿的；肿胀的"
 en: "swollen"
-synonyms: []
+synonyms: [uppsvälld]
 antonyms: []
 family: [svälla]
 topics: [topic-kropp]
@@ -23,6 +23,9 @@ interval: 0
 # svullen — adjektiv
 
 📖 中文：肿的；肿胀的 · English: swollen
+
+🇸🇪 Förklaring: som har blivit större och tjockare än vanligt, ofta på grund av en skada eller sjukdom
+
 发音提示：/ˈsvɵlːɛn/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[svälla]] (att svälla, svällde, svällt — 肿胀；膨胀)
-- 同义词: —
+- 同义词: [[uppsvälld]] (肿胀的)
 - 反义词: —
 - 主题: [[topic-kropp]]
 

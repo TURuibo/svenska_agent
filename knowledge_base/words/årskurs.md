@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "年级"
 en: "school year, grade"
-synonyms: []
+synonyms: [klass]
 antonyms: []
-family: []
+family: [år, kurs, årskull]
 topics: [topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # årskurs — substantiv
 
 📖 中文：年级 · English: school year, grade
-发音提示：
+
+🇸🇪 Förklaring: ett av skolans år, till exempel det första eller det nionde i grundskolan
+
+发音提示：/ˈoːʂˌkɵʂ/ — rs 合读 ʂ；å 读长音 oː
 
 ## 语法变形 (Forms)
 
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[år]] (年), [[kurs]] (课程), [[årskull]] (同龄群体)
+- 同义词: [[klass]] (年级；班级)
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 

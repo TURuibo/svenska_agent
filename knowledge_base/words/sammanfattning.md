@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 总结；摘要
 en: summary
-synonyms: []
+synonyms: [summering, sammandrag, resumé]
 antonyms: []
-family: []
+family: [sammanfatta, sammanfattningsvis]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-avsluta-med-en-sammanfattning-av]
 source: source-2026-10-09-komvux-kursstart
@@ -19,6 +19,10 @@ created: "2026-10-09"
 # sammanfattning — substantiv en
 
 📖 中文：总结；摘要 · English: summary
+
+🇸🇪 Förklaring: kort text eller beskrivning med det viktigaste från något längre
+
+发音提示：/ˈsamːanˌfatːnɪŋ/ — 复合词，重音在 sam；ng 读 /ŋ/
 
 ## 语法变形 (Forms)
 
@@ -40,6 +44,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sammanfatta]] (总结), [[sammanfattningsvis]] (总之)
+- 同义词: [[summering]] (总结), [[sammandrag]] (摘要), [[resumé]] (概要)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

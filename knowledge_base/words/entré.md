@@ -8,7 +8,7 @@ zh: 入口；门厅；前厅
 en: entrance; entrance hall; lobby
 synonyms: [ingång]
 antonyms: [utgång]
-family: []
+family: [entréavgift, entrébiljett]
 topics: [topic-hemmet, topic-stadsmiljo]
 sentences: [sent-boka-din-tid-i-bokningssystemet]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # entré — substantiv (en)
 
 📖 中文：入口；门厅；前厅 · English: entrance; entrance hall; lobby
+
+🇸🇪 Förklaring: 1) dörr eller plats där man går in i en byggnad; 2) rum innanför ytterdörren
+
 发音提示：en-TRÉ，重音在第二音节（法语借词）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[entréavgift]] (门票费), [[entrébiljett]] (门票)
 - 同义词: [[ingång]] (entrance/entry, more directional)
 - 反义词: [[utgång]] (exit)
 - 主题: [[topic-hemmet]], [[topic-stadsmiljo]]

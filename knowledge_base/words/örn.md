@@ -8,7 +8,7 @@ zh: "鹰、雕"
 en: "eagle"
 synonyms: []
 antonyms: []
-family: ["fågel"]
+family: [fågel, havsörn]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # örn — substantiv (en)
 
 📖 中文：鹰、雕 · English: eagle
+
+🇸🇪 Förklaring: stor rovfågel med kraftig böjd näbb och stora vingar
+
 发音提示：/øːrn/
 
 ## 语法变形 (Forms)

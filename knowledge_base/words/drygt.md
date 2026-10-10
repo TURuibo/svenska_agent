@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "略多于，将近（稍微超过某数量）"
 en: "just over, slightly more than"
-synonyms: ["lite mer än", "strax över"]
-antonyms: ["knappt", "drygt under"]
-family: ["dryg"]
+synonyms: [lite-mer-än, strax-över]
+antonyms: [knappt, drygt-under]
+family: [dryg]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # drygt — adverb
 
 📖 中文：略多于，将近（稍微超过某数量） · English: just over, slightly more than
+
+🇸🇪 Förklaring: används framför ett tal för att visa att det verkliga antalet är lite större
+
 发音提示：[drykt]
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dryg]]
-- 同义词: [[lite mer än]], [[strax över]]
-- 反义词: [[knappt]] (略少于)
+- 同义词: [[lite-mer-än|lite mer än]], [[strax-över|strax över]]
+- 反义词: [[knappt]] (略少于), [[drygt-under]]
 
 ## 用法提示 (Usage Notes)
 

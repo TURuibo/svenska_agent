@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: B1
 zh: 个人的；私人的
 en: personal
-synonyms: []
+synonyms: [privat, individuell]
 antonyms: [opersonlig]
 family: [person]
 topics: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # personlig — adjektiv
 
 📖 中文：个人的；私人的 · English: personal
+
+🇸🇪 Förklaring: som gäller en viss person och inte andra; som har med ens eget liv att göra
+
+发音提示：/pæˈʂuːnlɪɡ/ — rs 合成 /ʂ/；重音在第二音节
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: person
-- 同义词:
-- 反义词: opersonlig
+- 词族: [[person]]
+- 同义词: [[privat]] (私人的), [[individuell]] (个人的)
+- 反义词: [[opersonlig]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

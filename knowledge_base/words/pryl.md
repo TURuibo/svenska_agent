@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "小物件、玩意儿"
 en: "gadget, thing"
-synonyms: []
+synonyms: [sak, grej, manick]
 antonyms: []
-family: []
+family: [teknikpryl]
 topics: []
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # pryl — substantiv
 
 📖 中文：小物件、玩意儿 · English: gadget, thing
-发音提示：
+
+🇸🇪 Förklaring: liten sak eller apparat, ofta något som man inte riktigt behöver
+
+发音提示：/pryːl/ — y 读长圆唇音 /yː/
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[teknikpryl]] (科技小物件)
+- 同义词: [[sak]] (东西), [[grej]] (玩意儿), [[manick]] (小装置)
+- 反义词: —
 - 主题: [[]]
 
 ## 用法提示 (Usage Notes)

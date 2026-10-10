@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "场合、机会"
 en: "occasion"
-synonyms: ["möjlighet"]
+synonyms: [möjlighet]
 antonyms: []
-family: []
+family: [tillfällig, tillfälligtvis]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # tillfälle — substantiv
 
 📖 中文：场合、机会 · English: occasion
+
+🇸🇪 Förklaring: tidpunkt då något händer; chans att göra något
+
+发音提示：/ˈtɪlːˌfɛlːɛ/ — 重音在 till，ä 读短音
 
 ## 语法变形 (Forms)
 
@@ -44,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
+- 词族: [[tillfällig]] (临时的), [[tillfälligtvis]] (偶然地)
 - 同义词: [[möjlighet]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

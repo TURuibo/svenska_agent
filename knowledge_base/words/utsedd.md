@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B2"
 zh: "被指派的"
 en: "appointed"
-synonyms: []
+synonyms: [vald, utnämnd]
 antonyms: []
-family: []
+family: [utse, se]
 topics: ["topic-rattsvasen"]
 sentences: ["sent-namndemannen-har-ingen-juridisk-utbildning-utan"]
 known: false
@@ -17,7 +17,10 @@ created: "2026-09-22"
 # utsedd — adjektiv
 
 📖 中文：被指派的 · English: appointed
-发音提示：
+
+🇸🇪 Förklaring: som har blivit vald till en viss uppgift eller ett visst uppdrag
+
+发音提示：/ˈʉːtˌseːd/ — 重音在 ut；e 读长音
 
 ## 语法变形 (Forms)
 
@@ -33,9 +36,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[utse]] (任命), [[se]] (看)
+- 同义词: [[vald]] (被选出的), [[utnämnd]] (被任命的)
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

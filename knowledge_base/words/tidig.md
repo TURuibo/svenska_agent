@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "早的"
 en: "early"
 synonyms: []
-antonyms: ["sen"]
-family: ["tidigt", "tid"]
+antonyms: [sen]
+family: [tidigt, tid]
 topics: ["topic-tid-och-tidsuttryck"]
 sentences:
   - "sent-god-morgon-kan-jag-fa-en-stor"
@@ -24,6 +24,9 @@ interval: 0
 # tidig — adjektiv
 
 📖 中文：早的 · English: early
+
+🇸🇪 Förklaring: som kommer i början av en dag eller period, eller före det väntade
+
 发音提示：/ˈtiːdɪɡ/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tidigt]] (副词：早地), tid（时间）
-- 反义词: sen（晚的）
+- 词族: [[tidigt]] (副词：早地), [[tid]]（时间）
+- 同义词: —
+- 反义词: [[sen]]（晚的）
 - 主题: [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

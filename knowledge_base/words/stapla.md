@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "堆叠/摞起"
 en: "to stack, to pile"
-synonyms: []
+synonyms: [trava]
 antonyms: []
 family: [stapel]
 topics: [topic-uppfinning-och-teknik]
@@ -24,6 +24,9 @@ interval: 0
 # stapla — verb
 
 📖 中文：堆叠/摞起 · English: to stack, to pile
+
+🇸🇪 Förklaring: lägga saker ovanpå varandra i en hög
+
 发音提示：STA-pla（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: stapel (en, 堆/摞)
-- 同义词: —
+- 词族: [[stapel]] (en, 堆/摞)
+- 同义词: [[trava]] (堆叠)
 - 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]
 

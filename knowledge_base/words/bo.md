@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "居住；住"
 en: "live; reside; stay"
-synonyms: ["leva"]
+synonyms: [leva]
 antonyms: []
-family: ["bostad", "boende", "bostadsrätt"]
+family: [bostad, boende, bostadsrätt]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bo — verb
 
 📖 中文：居住；住 · English: live; reside; stay
+
+🇸🇪 Förklaring: ha sitt hem på ett visst ställe
+
 发音提示：/buː/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bostad (住所), boende (居住/居民), bostadsrätt (产权公寓)
+- 词族: [[bostad]] (住所), [[boende]] (居住/居民), [[bostadsrätt]] (产权公寓)
 - 同义词: [[leva]] (生活/居住, 更广义)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

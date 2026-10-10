@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "告别"
 en: "goodbye, farewell"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [farväl]
+antonyms: [återseende]
+family: [avskedsfest, avskedspresent]
 topics: [topic-förskola-vardag]
 sentences: [sent-ett-kort-och-tydligt-avsked-är]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # avsked — substantiv
 
 📖 中文：告别 · English: goodbye, farewell
+
+🇸🇪 Förklaring: det att man säger hej då till någon som man inte ska träffa på länge
+
 发音提示：/ˈɑːvˌɧeːd/，*sk* 在 e 前读 sj-音 [ɧ]，重音在 AV-。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[avskedsfest]] (告别聚会), [[avskedspresent]] (告别礼物)
+- 同义词: [[farväl]] (告别)
+- 反义词: [[återseende]] (重逢)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

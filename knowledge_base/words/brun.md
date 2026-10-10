@@ -9,7 +9,7 @@ zh: "棕色的"
 en: "brown"
 synonyms: []
 antonyms: []
-family: []
+family: [brunbjörn, brunett]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # brun — adjektiv
 
 📖 中文：棕色的 · English: brown
+
+🇸🇪 Förklaring: som har samma färg som choklad eller jord
+
 发音提示：/bruːn/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[brunbjörn]] (棕熊), [[brunett]] (棕发女子)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-djur]]

@@ -5,11 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "感动的；受影响的；受波及的"
 en: "moved; touched; affected"
-synonyms:
-  - rörd
-antonyms: []
-family:
-  - beröra
+synonyms: [rörd]
+antonyms: [oberörd]
+family: [beröra]
 topics:
   - topic-film
   - topic-litteratur-och-kultur
@@ -26,6 +24,9 @@ interval: 0
 # berörd — adjektiv
 
 📖 中文：感动的；受影响的 · English: moved; touched; affected
+
+🇸🇪 Förklaring: som har fått starka känslor av något; som påverkas av något som händer
+
 发音提示：/be-RÖRD/
 
 ## 语法变形 (Forms)
@@ -50,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: beröra（动词：感动；接触）
+- 词族: [[beröra]]（动词：感动；接触）
 - 同义词: [[rörd]]（感动的）
+- 反义词: [[oberörd]] (无动于衷的)
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

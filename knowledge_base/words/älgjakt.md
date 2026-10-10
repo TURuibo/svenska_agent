@@ -9,7 +9,7 @@ zh: "驼鹿狩猎"
 en: "moose hunt; moose hunting"
 synonyms: []
 antonyms: []
-family: ["älg", "jakt", "jaga"]
+family: [älg, jakt, jaga]
 topics: ["topic-djur", "topic-natur-skog"]
 sentences: ["sent-varje-host-ar-det-algjakt"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # älgjakt — substantiv
 
 📖 中文：驼鹿狩猎 · English: moose hunt; moose hunting
+
+🇸🇪 Förklaring: när jägare skjuter älgar under en bestämd period på hösten
+
 发音提示：["ɛlg-jakt"]
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: älg, [[jakt]], jaga
+- 词族: [[älg]], [[jakt]], [[jaga]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]], [[topic-natur-skog]]
 
 ## 用法提示 (Usage Notes)

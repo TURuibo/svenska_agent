@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 卡车；货车
 en: truck, lorry
-synonyms: []
+synonyms: [långtradare]
 antonyms: []
-family: ["bil", "last"]
+family: [bil, last]
 topics: ["topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lastbil — substantiv (en-ord)
 
 📖 中文：卡车；货车 · English: truck, lorry
+
+🇸🇪 Förklaring: stort motorfordon som används för att transportera varor
+
 发音提示：/ˈlastˌbiːl/
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bil]] (汽车), last (货物/负荷)
-- 同义词: —
+- 词族: [[bil]] (汽车), [[last]] (货物/负荷)
+- 同义词: [[långtradare]] (大货车)
 - 反义词: —
 - 主题: [[topic-trafik]]
 

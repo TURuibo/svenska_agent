@@ -7,8 +7,8 @@ genus: "ett"
 cefr: "A2"
 zh: "许可；批准；允许"
 en: "permission; permit; approval"
-synonyms: []
-antonyms: []
+synonyms: [lov, tillåtelse]
+antonyms: [förbud]
 family: [tillåta]
 topics: [topic-formellt-brev]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # tillstånd — substantiv ett
 
 📖 中文：许可；批准；允许 · English: permission; permit; approval
+
+🇸🇪 Förklaring: rätt att göra något som en myndighet eller en person har gett en
+
 发音提示：[ˈtɪlˌstond] — stress on first syllable
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tillåta]]
-- 同义词: —
+- 同义词: [[lov]] (许可), [[tillåtelse]] (允许)
 - 反义词: [[förbud]]
 - 主题: [[topic-formellt-brev]]
 

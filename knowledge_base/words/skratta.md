@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A2
 zh: 笑；大笑
 en: to laugh
-synonyms: []
-antonyms: []
-family: []
+synonyms: [garva]
+antonyms: [gråta]
+family: [skratt, fniss]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # skratta — verb (grupp 1)
 
 📖 中文：笑；大笑 · English: to laugh
+
+🇸🇪 Förklaring: visa med ljud och ansiktet att man tycker att något är roligt
+
 发音提示：SKRAT-tah
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: skratt (笑声, ett), fniss (咯咯笑)
-- 反义词: gråta (哭泣)
+- 词族: [[skratt]] (笑声, ett), [[fniss]] (咯咯笑)
+- 同义词: [[garva]] (大笑（口语）)
+- 反义词: [[gråta]] (哭泣)
 
 ## 用法提示 (Usage Notes)
 

@@ -8,7 +8,7 @@ zh: "鹅"
 en: "goose"
 synonyms: []
 antonyms: []
-family: ["fågel", "anka"]
+family: [fågel, anka]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gås — substantiv (en)
 
 📖 中文：鹅 · English: goose
+
+🇸🇪 Förklaring: stor fågel med lång hals som simmar och kan flyga långt, ofta vit eller grå
+
 发音提示：/ɡoːs/
 
 ## 语法变形 (Forms)

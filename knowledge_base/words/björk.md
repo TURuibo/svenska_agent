@@ -9,7 +9,7 @@ zh: "桦树"
 en: "birch tree"
 synonyms: []
 antonyms: []
-family: []
+family: [björkskog, björklöv, björkbark]
 topics: ["topic-natur-skog"]
 sentences: ["sent-pa-vintern-ater-den-kvistar-fran-bjork"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # björk — substantiv
 
 📖 中文：桦树 · English: birch tree
+
+🇸🇪 Förklaring: vanligt lövträd i Sverige med vit stam och svarta fläckar
+
 发音提示：["bjœrk"]，单音节，类似"bvork"
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: björkskog, björklöv, björkbark
+- 词族: [[björkskog]], [[björklöv]], [[björkbark]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-natur-skog]]
 
 ## 用法提示 (Usage Notes)

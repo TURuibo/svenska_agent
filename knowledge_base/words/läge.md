@@ -6,9 +6,9 @@ genus: ett
 cefr: "A2"
 zh: "情况；位置"
 en: "situation; position"
-synonyms: []
+synonyms: [situation, plats]
 antonyms: []
-family: []
+family: [ligga]
 topics: [topic-social-kontakt]
 sentences: [sent-hej-johan-hur-är-läget]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # läge — substantiv (ett)
 
 📖 中文：情况；位置 · English: situation; position
+
+🇸🇪 Förklaring: 1) hur saker och ting är just nu; 2) var något finns placerat
+
 发音提示：["lɛːgɛ]，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 - 词族: [[ligga]]
 - 同义词: [[situation]], [[plats]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-social-kontakt]]
 
 ## 用法提示 (Usage Notes)

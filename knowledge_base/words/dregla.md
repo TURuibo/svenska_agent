@@ -9,7 +9,7 @@ zh: "流口水"
 en: "to drool, to dribble"
 synonyms: []
 antonyms: []
-family: []
+family: [dregel]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # dregla — verb (grupp 1)
 
 📖 中文：流口水 · English: to drool, to dribble
+
+🇸🇪 Förklaring: låta saliv rinna ut ur munnen utan att man vill det
+
 发音提示：/ˈdreːgla/ — 长 e，g 读硬音 [g]。
 
 ## 语法变形 (Forms)
@@ -41,7 +44,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: dregel (口水，名词，口语)
+- 词族: [[dregel]] (口水，名词，口语)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-småbarn-mat-och-sömn]] · [[topic-förskola-vardag]]

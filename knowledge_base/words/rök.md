@@ -7,9 +7,9 @@ genus: en
 cefr: "A2"
 zh: "烟"
 en: "smoke"
-synonyms: []
+synonyms: [os]
 antonyms: []
-family: ["röka", "rökig"]
+family: [röka, rökig]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # rök — substantiv (en)
 
 📖 中文：烟 · English: smoke
+
+🇸🇪 Förklaring: grått eller svart moln som stiger upp när något brinner
+
 发音提示：[røːk]
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[röka]] (v, 吸烟/冒烟), [[rökig]] (adj, 烟雾弥漫的)
+- 同义词: [[os]] (油烟气)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

@@ -8,7 +8,7 @@ zh: 一侧；页；面
 en: side; page
 synonyms: []
 antonyms: []
-family: []
+family: [webbsida, framsida, baksida, sidoväg]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # sida — substantiv (en)
 
 📖 中文：一侧；页；面 · English: side; page
+
+🇸🇪 Förklaring: 1) yta eller del till höger eller vänster om något; 2) ena ytan av ett blad i en bok eller tidning
+
 发音提示：/ˈsiːda/
 
 ## 语法变形 (Forms)
@@ -40,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[webbsida]] (网页), [[framsida]] (正面), [[baksida]] (背面), [[sidoväg]] (辅路)
+- 同义词: —
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

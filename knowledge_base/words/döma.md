@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: B1
 zh: "判决；裁判；评判"
 en: "to sentence; to judge"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [fälla]
+antonyms: [fria]
+family: [dom, domare, domstol]
 topics:
   - "[[topic-samhälle-och-politik]]"
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # döma — verb (grupp 2)
 
 📖 中文：判决；裁判；评判 · English: to sentence; to judge
+
+🇸🇪 Förklaring: 1) i rätten bestämma om någon är skyldig och vilket straff personen ska få; 2) leda en match och se till att man följer reglerna; 3) bilda sig en åsikt om någon eller något
+
 发音提示：["døːma]
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: dom（判决，名词）、domare（法官/裁判员）、domstol（法院）
-- 同义词: fälla（判有罪，口语）
-- 反义词: fria（宣判无罪）
+- 词族: [[dom]]（判决，名词）, [[domare]]（法官/裁判员）, [[domstol]]（法院）
+- 同义词: [[fälla]]（判有罪，口语）
+- 反义词: [[fria]]（宣判无罪）
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "自己的；本身的"
 en: "own; one's own"
-synonyms: []
-antonyms: []
-family: ["egendom", "ägare"]
+synonyms: [personlig]
+antonyms: [gemensam]
+family: [egendom, ägare]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # egen — adjektiv
 
 📖 中文：自己的；本身的 · English: own; one's own
+
+🇸🇪 Förklaring: som tillhör en själv och inte någon annan
+
 发音提示：/ˈeːɡɛn/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: egendom (财产), [[ägare]] (所有者)
+- 词族: [[egendom]] (财产), [[ägare]] (所有者)
+- 同义词: [[personlig]] (个人的)
+- 反义词: [[gemensam]] (共同的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

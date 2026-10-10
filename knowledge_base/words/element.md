@@ -24,6 +24,9 @@ interval: 0
 # element — substantiv (ett)
 
 📖 中文：暖气片；散热器 · English: radiator
+
+🇸🇪 Förklaring: apparat på väggen som värmer upp ett rum med varmt vatten eller el
+
 发音提示：e-le-MENT；tre stavelser, betoning på sista.
 
 ## 语法变形 (Forms)

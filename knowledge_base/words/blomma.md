@@ -7,9 +7,9 @@ genus: en
 cefr: A1
 zh: "花；花朵"
 en: "flower"
-synonyms: []
+synonyms: [blomster]
 antonyms: []
-family: ["blomning", "blommig", "blom"]
+family: [blomning, blommig, blom]
 topics: ["topic-vader-och-arstider", "topic-natur"]
 sentences:
   - sent-faglarna-sjunger-och-de-forsta
@@ -24,6 +24,9 @@ interval: 0
 # blomma — substantiv (en)
 
 📖 中文：花；花朵 · English: flower
+
+🇸🇪 Förklaring: färgglad del av en växt som ofta luktar gott; en växt med sådana delar
+
 发音提示：/ˈblɔma/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: blomning（开花，名词），blommig（花纹的）
+- 词族: [[blomning]]（开花，名词）, [[blommig]]（花纹的）, [[blom]]
+- 同义词: [[blomster]] (花卉)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 压力大的，紧张的
 en: stressed
-synonyms: []
-antonyms: []
-family: [stress, stressa]
+synonyms: [jäktad, pressad]
+antonyms: [lugn, avslappnad]
+family: [stressa, stress]
 topics: [topic-hälsa]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # stressad — adjektiv
 
 📖 中文：压力大的，紧张的 · English: stressed
+
+🇸🇪 Förklaring: som känner press och oro, t.ex. för att man har för mycket att göra
+
 发音提示：[ˈstrɛsad]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stressa]], [[stress]]
+- 同义词: [[jäktad]] (匆忙的), [[pressad]] (有压力的)
 - 反义词: [[lugn]], [[avslappnad]]
 - 主题: [[topic-hälsa]]
 

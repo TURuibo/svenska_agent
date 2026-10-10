@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "军舰，军用舰艇"
 en: "military vessel, warship"
-synonyms: ["örlogsfartyg"]
-antonyms: ["civilfartyg"]
-family: ["fartyg", "militär"]
+synonyms: [örlogsfartyg]
+antonyms: [civilfartyg]
+family: [fartyg, militär]
 topics: ["topic-krig-och-konflikt"]
 sentences:
   - sent-ett-ryskt-militärfartyg-sköt-skott
@@ -24,6 +24,9 @@ interval: 0
 # militärfartyg — substantiv
 
 📖 中文：军舰，军用舰艇 · English: military vessel, warship
+
+🇸🇪 Förklaring: skepp som tillhör ett lands flotta och används för försvar och krig
+
 发音提示：/mɪˈlɪtɛːrˌfɑːrtʏɡ/
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[fartyg]] (船只，舰船), militär (军事的)
-- 同义词: örlogsfartyg（军舰，更正式）
-- 反义词: civilfartyg（民用船）
+- 词族: [[fartyg]] (船只，舰船), [[militär]] (军事的)
+- 同义词: [[örlogsfartyg]]（军舰，更正式）
+- 反义词: [[civilfartyg]]（民用船）
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

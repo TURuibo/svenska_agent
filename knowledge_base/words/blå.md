@@ -8,7 +8,7 @@ zh: "蓝色的"
 en: "blue"
 synonyms: []
 antonyms: []
-family: ["blåna", "blåklint"]
+family: [blåna, blåklint]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # blå — adjektiv
 
 📖 中文：蓝色的 · English: blue
+
+🇸🇪 Förklaring: som har samma färg som himlen en klar dag
+
 发音提示：/bloː/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[blåna]] (变蓝)
+- 词族: [[blåna]] (变蓝), [[blåklint]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-djur]]

@@ -8,7 +8,7 @@ zh: 太阳
 en: sun
 synonyms: []
 antonyms: []
-family: []
+family: [midnattssol]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sol — substantiv (en-ord)
 
 📖 中文：太阳 · English: sun
+
+🇸🇪 Förklaring: den stora stjärna som ger jorden ljus och värme
+
 发音提示：/suːl/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[midnattssol]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

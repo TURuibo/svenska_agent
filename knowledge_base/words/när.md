@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "什么时候 (疑问词) / 当…的时候 (连词)"
 en: "when"
-synonyms: []
+synonyms: [då]
 antonyms: []
 family: []
 topics: []
@@ -23,6 +23,9 @@ interval: 0
 # när — adverb (frågeord) / konjunktion
 
 📖 中文：什么时候 (疑问词) / 当…的时候 (连词) · English: when
+
+🇸🇪 Förklaring: 1) frågeord som används för att fråga om tid; 2) under den tid som något händer
+
 发音提示："NÄR"
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: —
+- 同义词: [[då]] (那时；当……时)
 - 反义词: —
 - 主题: —
 

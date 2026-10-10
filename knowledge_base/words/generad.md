@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "尴尬的"
 en: "embarrassed"
-synonyms: ["pinsam"]
-antonyms: []
-family: ["genera-sig"]
+synonyms: [pinsam]
+antonyms: [självsäker]
+family: [genera-sig]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # generad — adjektiv
 
 📖 中文：尴尬的 · English: embarrassed
+
+🇸🇪 Förklaring: som känner sig lite skamsen och osäker inför andra
+
 发音提示：sche-ne-RAD
 
 ## 语法变形 (Forms)
@@ -40,6 +43,7 @@ created: "2026-09-22"
 
 - 词族: [[genera-sig]]（感到尴尬，反身动词）
 - 同义词: [[pinsam]]（尴尬的，多用于形容事/情境，而 generad 形容人的感受）
+- 反义词: [[självsäker]] (自信的)
 
 ## 用法提示 (Usage Notes)
 

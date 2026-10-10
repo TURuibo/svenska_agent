@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "有趣的、娱乐性的"
 en: "entertaining"
-synonyms: ["rolig"]
-antonyms: ["tråkig"]
-family: ["underhållning", "underhålla"]
+synonyms: [rolig]
+antonyms: [tråkig]
+family: [underhållning, underhålla]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # underhållande — adjektiv
 
 📖 中文：有趣的、娱乐性的 · English: entertaining
+
+🇸🇪 Förklaring: som får en att ha roligt och inte känna sig uttråkad
+
 发音提示：un-der-HÅLL-an-de
 
 ## 语法变形 (Forms)
@@ -35,7 +38,7 @@ Particip-adjektiv (presens particip av underhålla); **oböjligt** — samma for
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[underhållning]]（娱乐，名词）
+- 词族: [[underhållning]]（娱乐，名词）, [[underhålla]]
 - 同义词: [[rolig]]（有趣的）
 - 反义词: [[tråkig]]（无聊的）
 - 主题: [[topic-sfi-sprak-larande]]

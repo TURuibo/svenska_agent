@@ -9,7 +9,7 @@ zh: "周三；星期三"
 en: "Wednesday"
 synonyms: []
 antonyms: []
-family: ["veckodagar", "tisdag", "torsdag"]
+family: [veckodagar, tisdag, torsdag]
 topics: ["topic-tid-och-tidsuttryck"]
 sentences: ["sent-tisdag-eller-onsdag-fungerar-bra", "sent-vad-sager-du-om-onsdag-den-forsta-juli", "sent-da-ar-du-bokad-pa-onsdag", "sent-vi-ses-pa-onsdag"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # onsdag — substantiv en
 
 📖 中文：周三；星期三 · English: Wednesday
+
+🇸🇪 Förklaring: veckans tredje dag, mellan tisdag och torsdag
+
 发音提示：ONS-dag
 
 ## 语法变形 (Forms)
@@ -53,7 +56,9 @@ Time expressions:
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[veckodagar]] · [[tisdag]] · [[torsdag]]
+- 词族: [[veckodagar]] · [[tisdag]] · [[torsdag]], [[tisdag]], [[torsdag]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

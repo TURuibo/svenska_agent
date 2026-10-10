@@ -6,9 +6,9 @@ genus: en
 cefr: "A2"
 zh: "申请；申请书"
 en: "application"
-synonyms: []
+synonyms: [begäran]
 antonyms: []
-family: ["ansöka"]
+family: [ansöka]
 topics: ["topic-arbete-och-jobb"]
 sentences:
   - sent-skicka-din-ansökan-med-cv-och-personligt
@@ -23,6 +23,9 @@ interval: 0
 # ansökan — substantiv
 
 📖 中文：申请；申请书 · English: application
+
+🇸🇪 Förklaring: skriftlig begäran om att få till exempel ett jobb, ett bidrag eller en plats
+
 发音提示：an-SÖ-kan（三音节，stress 在第二音节）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ansöka (verb, att ansöka om = to apply for)
+- 词族: [[ansöka]] (verb, att ansöka om = to apply for)
+- 同义词: [[begäran]] (请求)
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

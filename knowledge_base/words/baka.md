@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "烤；烘焙"
 en: "to bake"
-synonyms: []
+synonyms: [grädda]
 antonyms: []
-family: ["bagare", "bageri", "bakelse"]
+family: [bagare, bageri, bakelse]
 topics: ["topic-mat-dryck"]
 sentences: ["sent-klockan-fem-jag-bakar-en-kaka"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # baka — verb (v.1)
 
 📖 中文：烤；烘焙 · English: to bake
+
+🇸🇪 Förklaring: göra bröd, kakor eller bullar av deg och grädda dem i ugnen
+
 发音提示：BAA-ka
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bagare]] · [[bageri]]
+- 词族: [[bagare]] · [[bageri]], [[bageri]] (面包房), [[bakelse]]
+- 同义词: [[grädda]] (烘烤)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

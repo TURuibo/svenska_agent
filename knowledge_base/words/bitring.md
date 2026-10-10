@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "牙胶"
 en: "teething ring"
-synonyms: []
+synonyms: [bitleksak]
 antonyms: []
-family: []
+family: [bita]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # bitring — substantiv (en)
 
 📖 中文：牙胶（磨牙环） · English: teething ring
+
+🇸🇪 Förklaring: ring av gummi eller plast som bebisar kan tugga på när de får tänder
+
 发音提示：/ˈbiːtˌrɪŋ/ — bit(a) + ring。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bita]] · ring
-- 同义词: bitleksak (磨牙玩具)
+- 同义词: [[bitleksak]] (磨牙玩具)
 - 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]] · [[topic-förskola-vardag]]
 

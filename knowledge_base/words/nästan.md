@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "几乎"
 en: "almost"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [närapå, praktiskt-taget]
+antonyms: [helt]
+family: [näst, nästa]
 topics: []
 sentences: ["sent-varför-var-det-nästan-bara"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # nästan — adverb
 
 📖 中文：几乎 · English: almost
+
+🇸🇪 Förklaring: inte riktigt helt, men inte långt ifrån
+
 发音提示："NÄS-tan"
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[näst]] (其次), [[nästa]] (下一个)
+- 同义词: [[närapå]] (几乎), [[praktiskt-taget|praktiskt taget]] (实际上)
+- 反义词: [[helt]] (完全)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "自由的"
 en: "free"
-synonyms: ["vild"]
-antonyms: ["fångad", "bunden"]
-family: ["frihet", "befria"]
+synonyms: [vild]
+antonyms: [fångad, bunden]
+family: [frihet, befria]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fri — adjektiv
 
 📖 中文：自由的 · English: free
+
+🇸🇪 Förklaring: som kan bestämma själv och inte är inlåst eller styrd av andra
+
 发音提示：/friː/
 
 ## 语法变形 (Forms)

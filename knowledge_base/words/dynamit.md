@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "炸药（黄色炸药）"
 en: "dynamite"
-synonyms: ["sprängämne"]
+synonyms: [sprängämne]
 antonyms: []
-family: ["uppfinna", "uppfinning"]
+family: [uppfinning, uppfinna]
 topics: ["topic-uppfinning-och-teknik"]
 sentences:
   - "sent-år-1867-uppfann-alfred-nobel-dynamit"
@@ -26,6 +26,9 @@ interval: 0
 # dynamit — substantiv (en)
 
 📖 中文：炸药（黄色炸药） · English: dynamite
+
+🇸🇪 Förklaring: starkt ämne som exploderar och används för att spränga berg; uppfanns av Alfred Nobel
+
 发音提示：/dynaˈmiːt/
 
 ## 语法变形 (Forms)
@@ -55,6 +58,7 @@ Obs: används oftast utan artikel som ämnesord (stoff): "Det finns dynamit i l�
 
 - 词族: [[uppfinning]], [[uppfinna]]
 - 同义词: [[sprängämne]]
+- 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]
 
 ## 用法提示 (Usage Notes)

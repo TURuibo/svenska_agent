@@ -9,7 +9,7 @@ zh: "学习；教与学"
 en: "learning"
 synonyms: [inlärning]
 antonyms: []
-family: [lära, lärare, lärarinna, lärdom]
+family: [lära, lärare, lärdom, lärarinna]
 topics: [topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # lärande — substantiv (ett)
 
 📖 中文：学习；教与学 · English: learning
+
+🇸🇪 Förklaring: det att man skaffar sig nya kunskaper och färdigheter
+
 发音提示：**lä**-ran-de，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lära]] (动词：学习/教导), [[lärare]] (教师), [[lärdom]] (知识/教训)
+- 词族: [[lära]] (动词：学习/教导), [[lärare]] (教师), [[lärdom]] (知识/教训), [[lärarinna]]
 - 同义词: [[inlärning]] (学习过程，偏学术/心理学用语)
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]

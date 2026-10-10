@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 剩余；其余（部分）
 en: the rest, the remainder
-synonyms: []
+synonyms: [återstod]
 antonyms: []
-family: []
+family: [återstå]
 topics:
   - topic-geografi-samhalle
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # rest — substantiv
 
 📖 中文：剩余；其余（部分） · English: the rest, the remainder
+
+🇸🇪 Förklaring: det som är kvar när man har tagit eller använt en del
+
 发音提示：/rɛst/ — 与英语"rest"发音相似
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[återstå]]（remain）· [[restera]]（be remaining）
-- 同义词: —
+- 同义词: [[återstod]] (剩余部分)
 - 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 

@@ -6,9 +6,9 @@ verbgrupp: "2b"
 cefr: B1
 zh: 捐赠
 en: to donate
-synonyms: []
-antonyms: []
-family: []
+synonyms: [donera, ge-bort]
+antonyms: [ta-emot]
+family: [till-skänks]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # skänka — verb (grupp 2b)
 
 📖 中文：捐赠 · English: to donate
+
+🇸🇪 Förklaring: ge bort något, t.ex. pengar eller saker, utan att få något tillbaka
+
 发音提示：/ˈɕɛŋka/
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[till-skänks|till skänks]] (作为赠送)
+- 同义词: [[donera]] (捐赠), [[ge-bort|ge bort]] (送掉)
+- 反义词: [[ta-emot|ta emot]] (接受)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

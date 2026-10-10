@@ -23,6 +23,9 @@ interval: 0
 # gruppspel — substantiv
 
 📖 中文：小组赛 · English: group stage (in a tournament)
+
+🇸🇪 Förklaring: första delen av en turnering, där lagen spelar mot varandra i mindre grupper
+
 发音提示：GRUPP-spel
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[slutspel]]
+- 同义词: —
+- 反义词: —
 - 相关: [[match]], [[mål]]
 - 主题: [[topic-fotboll]]
 

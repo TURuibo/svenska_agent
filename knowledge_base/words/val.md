@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "选择；选项；投票（选举）"
 en: "choice; election"
-synonyms: []
+synonyms: [alternativ, omröstning]
 antonyms: []
 family: [välja]
 topics: []
@@ -23,6 +23,9 @@ interval: 0
 # val — substantiv (ett)
 
 📖 中文：选择；选项；投票（选举） · English: choice; election
+
+🇸🇪 Förklaring: beslut om vad man ska ta av flera möjligheter; tillfälle då folket röstar för att utse politiker
+
 发音提示：单音节，**val**，`a` 较长。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[välja]] (动词：选择)
-- 同义词: —
+- 同义词: [[alternativ]] (选项), [[omröstning]] (投票)
 - 反义词: —
 - 主题: —
 

@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "通讯；交通；沟通"
 en: "communication; transport connections"
-synonyms: []
+synonyms: [förbindelse]
 antonyms: []
-family: []
+family: [kommunicera, kommunikativ, telekommunikation]
 topics: ["topic-stadsmiljo", "topic-kollektivtrafik"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kommunikation — substantiv (en)
 
 📖 中文：通讯；交通；沟通 · English: communication; transport connections
+
+🇸🇪 Förklaring: 1) när människor utbyter information med varandra; 2) möjligheter att resa, t.ex. med buss och tåg
+
 发音提示：kom-mu-ni-ka-TION（重音在末音节）
 
 ## 语法变形 (Forms)
@@ -52,6 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kommunicera]] (沟通), [[kommunikativ]] (善于沟通的), [[telekommunikation]] (电信)
+- 同义词: [[förbindelse]] (联系；交通)
+- 反义词: —
 - 主题: [[topic-stadsmiljo]] · [[topic-kollektivtrafik]]
 
 ## 用法提示 (Usage Notes)

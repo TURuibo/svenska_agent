@@ -9,7 +9,7 @@ zh: "毛巾"
 en: "towel"
 synonyms: []
 antonyms: []
-family: []
+family: [hand, badhandduk, kökshandduk]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # handduk — substantiv (en)
 
 📖 中文：毛巾 · English: towel
+
+🇸🇪 Förklaring: tygstycke som man torkar sig med efter att man har tvättat sig eller badat
+
 发音提示：/ˈhanːˌdʉːk/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[hand]] (手), [[badhandduk]] (浴巾), [[kökshandduk]] (擦碗布)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]]

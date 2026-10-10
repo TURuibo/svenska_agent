@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "生病的"
 en: "sick; ill"
-synonyms: []
-antonyms: ["frisk"]
-family: ["sjukdom", "sjukhus", "sjukvård"]
+synonyms: [dålig, illamående]
+antonyms: [frisk]
+family: [sjukdom, sjukhus, sjukvård]
 topics: ["topic-hälsa"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sjuk — adjektiv
 
 📖 中文：生病的 · English: sick; ill
+
+🇸🇪 Förklaring: som inte är frisk och mår dåligt i kroppen eller själen
+
 发音提示：/ɧuːk/，sj 发 /ɧ/ 音（类似英语 sh）
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sjukdom (疾病), sjukhus (医院), sjukvård (医疗)
-- 同义词: dålig (不舒服，口语), illamående (恶心)
+- 词族: [[sjukdom]] (疾病), [[sjukhus]] (医院), [[sjukvård]] (医疗)
+- 同义词: [[dålig]] (不舒服，口语), [[illamående]] (恶心)
 - 反义词: [[frisk]]
 - 主题: [[topic-hälsa]]
 

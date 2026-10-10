@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "另一个；其他的；不同的"
 en: "another; other; different"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [övrig, olik]
+antonyms: [samma]
+family: [annars, annorlunda, andra]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # annan — adjektiv/pronomen
 
 📖 中文：另一个；其他的；不同的 · English: another; other; different
+
+🇸🇪 Förklaring: som inte är samma som den eller det man redan talar om; som är olik
+
 发音提示：重音在第一音节：**AN-nan**。`annat` 的 `t` 要读出来。
 
 ## 语法变形 (Forms)
@@ -53,9 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[annars]] (否则), [[annorlunda]] (不同的), [[andra]] (第二；其他)
+- 同义词: [[övrig]] (其他的), [[olik]] (不同的)
+- 反义词: [[samma]] (同一个)
 - 主题: []
 - 相关词组: [[bland-annat]]
 

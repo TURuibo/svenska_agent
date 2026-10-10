@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "严肃的/严重的"
 en: "serious, grave"
-synonyms: []
-antonyms: ["rolig", "glad"]
-family: []
+synonyms: [seriös, svår]
+antonyms: [rolig, glad]
+family: [allvar, allvarsam]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # allvarlig — adjektiv
 
 📖 中文：严肃的/严重的 · English: serious, grave
+
+🇸🇪 Förklaring: som inte skämtar eller ler; som är farlig eller kan få svåra följder
+
 发音提示：/alˈvaːrlɪɡ/ — "all-VAR-lig"
 
 ## 语法变形 (Forms)
@@ -52,6 +55,8 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[allvar]] (严肃；认真), [[allvarsam]] (严肃的)
+- 同义词: [[seriös]] (认真的), [[svår]] (严重的)
 - 反义词: [[rolig]], [[glad]]
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 

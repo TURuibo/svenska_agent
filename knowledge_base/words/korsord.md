@@ -9,7 +9,7 @@ zh: "填字游戏"
 en: "crossword puzzle"
 synonyms: []
 antonyms: []
-family: ["kors", "ord"]
+family: [kors, ord]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # korsord — substantiv (ett)
 
 📖 中文：填字游戏 · English: crossword puzzle
+
+🇸🇪 Förklaring: spel där man fyller i ord i rutor med hjälp av ledtrådar
+
 发音提示：KORS-ord
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kors]] (n, stub, 十字/交叉), [[ord]] (n, stub, 词)
+- 词族: [[kors]] (n, 十字/交叉), [[ord]] (n, 词)
+- 同义词: —
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: "B1"
 zh: "比较"
 en: "to compare"
-synonyms: []
+synonyms: [kontrastera]
 antonyms: []
-family: []
+family: [jämförelse, jämförbar, föra]
 topics: []
 sentences: [sent-pricerunner-ar-en-webbplats-dar]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # jämföra — verb (oregelbundet, som "föra")
 
 📖 中文：比较 · English: to compare
+
+🇸🇪 Förklaring: undersöka hur två eller flera saker är lika eller olika
+
 发音提示：jäm-FÖ-ra
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[jämförelse]] (比较), [[jämförbar]] (可比较的), [[föra]] (带领)
+- 同义词: [[kontrastera]] (对比)
 - 反义词: —
 - 主题: —
 

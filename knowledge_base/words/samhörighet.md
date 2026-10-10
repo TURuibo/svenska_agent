@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "归属感、凝聚力"
 en: "sense of belonging"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gemenskap]
+antonyms: [utanförskap, ensamhet]
+family: [samhörig, tillhörighet, höra-till]
 topics: [topic-kultur-tradition]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # samhörighet — substantiv
 
 📖 中文：归属感、凝聚力 · English: sense of belonging
+
+🇸🇪 Förklaring: känsla av att man är en del av en grupp och står nära de andra
+
 发音提示：sam-HÖ-rig-het
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
+- 词族: [[samhörig]] (有归属感的), [[tillhörighet]] (归属), [[höra-till|höra till]] (属于)
 - 同义词: [[gemenskap]]
-- 反义词: [[…]]
+- 反义词: [[utanförskap]] (被排斥感), [[ensamhet]] (孤独)
 - 主题: [[topic-kultur-tradition]]
 
 ## 用法提示 (Usage Notes)

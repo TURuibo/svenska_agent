@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "害怕的"
 en: "afraid, scared"
-synonyms: ["orolig"]
-antonyms: ["modig", "trygg"]
-family: []
+synonyms: [orolig]
+antonyms: [modig, trygg]
+family: [rädsla, mörkrädd, höjdrädd]
 topics: ["topic-småbarn-känslor-och-beteende", "topic-förskola-vardag"]
 sentences: ["sent-han-är-lite-rädd-för-rutschkanan"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # rädd — adjektiv
 
 📖 中文：害怕的 · English: afraid, scared
+
+🇸🇪 Förklaring: som känner oro för att något farligt eller obehagligt ska hända
+
 发音提示：RÄDD（ä 开口，双 d 短促）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[rädsla]] (恐惧), [[mörkrädd]] (怕黑的), [[höjdrädd]] (恐高的)
 - 同义词: [[orolig]]（担心的）
 - 反义词: [[modig]]（勇敢的）, [[trygg]]（安心的）
 - 主题: [[topic-småbarn-känslor-och-beteende]], [[topic-förskola-vardag]]

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "业余课程"
 en: "leisure course"
-synonyms: []
+synonyms: [hobbykurs]
 antonyms: []
-family: []
+family: [fritid, kurs]
 topics: [topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fritidskurs — substantiv
 
 📖 中文：业余课程 · English: leisure course
+
+🇸🇪 Förklaring: kurs som man går på sin lediga tid för nöjes skull, till exempel i målning eller dans
+
 发音提示： "frí-tids-kurs"
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ Sammansättning: `fritid`（业余时间）+ `kurs`（课程）。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[fritid]] (空闲时间), [[kurs]] (课程)
+- 同义词: [[hobbykurs]] (兴趣班)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

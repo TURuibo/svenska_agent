@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 等级森严的
 en: hierarchical
-synonyms: []
+synonyms: [toppstyrd]
 antonyms: [lättsam]
-family: []
+family: [hierarki]
 topics: [topic-arbete-och-jobb, topic-sociala-normer]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # hierarkisk — adjektiv
 
 📖 中文：等级森严的 · English: hierarchical
+
+🇸🇪 Förklaring: som är ordnad i nivåer där de som står högre bestämmer över dem som står lägre
+
 发音提示：/hɪɛˈrarkɪsk/
 
 ## 语法变形 (Forms)
@@ -39,8 +42,8 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
+- 词族: [[hierarki]] (等级制度)
+- 同义词: [[toppstyrd]] (自上而下管理的)
 - 反义词: [[lättsam]]
 - 主题: [[topic-arbete-och-jobb]]、[[topic-sociala-normer]]
 

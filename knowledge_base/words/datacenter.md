@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "数据中心"
 en: "data centre"
-synonyms: []
+synonyms: [datahall, serverhall]
 antonyms: []
-family: []
+family: [data, center]
 topics: ["topic-arbete"]
 sentences:
   - sent-google-ska-bygga-ett-stort-datacenter
@@ -25,6 +25,9 @@ interval: 0
 # datacenter — substantiv
 
 📖 中文：数据中心 · English: data centre
+
+🇸🇪 Förklaring: byggnad med många stora datorer som lagrar och behandlar information
+
 发音提示：/ˈdaːtaˌsɛntər/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: data（数据）, center（中心）
+- 词族: [[data]]（数据）, [[center]]（中心）
+- 同义词: [[datahall]] (数据中心), [[serverhall]] (服务器机房)
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

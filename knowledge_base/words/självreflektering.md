@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 自我反思
 en: self-reflection
-synonyms: []
+synonyms: [självreflektion, självrannsakan]
 antonyms: []
-family: []
+family: [reflektera, reflektion, självinsikt]
 topics: ["topic-samhälle-och-politik", "topic-karaktarsord"]
 sentences:
   - sent-det-borjar-med-sjalvreflektering
@@ -23,6 +23,9 @@ interval: 0
 # självreflektering — substantiv (en)
 
 📖 中文：自我反思 · English: self-reflection
+
+🇸🇪 Förklaring: det att tänka över sina egna tankar, känslor och handlingar
+
 发音提示：SYEL-v-re-flek-TEH-ring
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[reflektera]] (反思), [[reflektion]] (思考), [[självinsikt]] (自知之明)
+- 同义词: [[självreflektion]] (自我反思), [[självrannsakan]] (自我检讨)
+- 反义词: —
 - 相关词: reflektera（反思），reflektion（反思）
 - 主题: [[topic-karaktarsord]]
 

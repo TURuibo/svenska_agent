@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "停放（车辆）；停车"
 en: "to park"
-synonyms: []
-antonyms: []
+synonyms: [ställa-bilen]
+antonyms: [köra-iväg]
 family: [parkering, parkeringsplats, felparkerad]
 topics: [topic-trafik-säkerhet]
 sentences: [sent-från-den-1-november-får-elsparkcyklar-inte, sent-i-dag-råder-det-oklarhet-om-var]
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # parkera — verb (grupp 1)
 
 📖 中文：停放（车辆）；停车 · English: to park
+
+🇸🇪 Förklaring: ställa en bil eller ett annat fordon på en plats och lämna det där en stund
+
 发音提示：par-KE-ra，重音在第二音节 `ke`。
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[parkering]]（停车；停车场）、[[parkeringsplats]]（停车位）、[[felparkerad]]（停放不当的）
-- 同义词: —（口语可用 `ställa bilen`）
-- 反义词: `köra iväg`（开走）
+- 词族: [[parkering]]（停车；停车场）, [[parkeringsplats]]（停车位）, [[felparkerad]]（停放不当的）
+- 同义词: —（口语可用 [[ställa-bilen|ställa bilen]]）
+- 反义词: [[köra-iväg|köra iväg]]（开走）
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

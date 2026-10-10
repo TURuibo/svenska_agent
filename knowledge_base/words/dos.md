@@ -9,7 +9,7 @@ zh: "剂量"
 en: "dose"
 synonyms: []
 antonyms: []
-family: []
+family: [dosera, dosering]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # dos — substantiv (en)
 
 📖 中文：剂量 · English: dose
+
+🇸🇪 Förklaring: mängd av ett läkemedel som man ska ta vid ett tillfälle
+
 发音提示：/duːs/ — o 读长 [uː]，像英语 "doos"。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: dosera (给药/计量), dosering (剂量说明)
+- 词族: [[dosera]] (给药/计量), [[dosering]] (剂量说明)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]

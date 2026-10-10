@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A1"
 zh: "防晒霜"
 en: "sunscreen"
-synonyms: []
+synonyms: [solskyddsmedel]
 antonyms: []
 family: [sol, solhatt]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # solkräm — substantiv
 
 📖 中文：防晒霜 · English: sunscreen
+
+🇸🇪 Förklaring: medel som man smörjer på huden för att skydda den mot solens strålar
+
 发音提示：/ˈsuːlˌkrɛːm/ — sol 长 o，-kräm 长 ä
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sol]] (太阳), [[solhatt]] (遮阳帽)
+- 同义词: [[solskyddsmedel]] (防晒用品)
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "踩踏/踩"
 en: "to trample, to step on"
-synonyms: []
+synonyms: [kliva, stampa]
 antonyms: []
-family: []
+family: [trampbåt, trampdyna]
 topics:
   - "[[topic-allemansratten]]"
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # trampa — verb
 
 📖 中文：踩踏/踩 · English: to trample, to step on
+
+🇸🇪 Förklaring: sätta ner foten hårt på något; driva pedalerna på en cykel med fötterna
+
 发音提示：/ˈtrampa/；重音在第一音节，a 发清音 [a]
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[trampbåt]] (脚踏船), [[trampdyna]] ((动物)肉垫)
+- 同义词: [[kliva]] (踩；跨), [[stampa]] (跺脚)
 - 反义词: —
 - 主题: [[topic-allemansratten]]
 

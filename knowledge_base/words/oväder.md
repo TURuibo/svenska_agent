@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "暴风雨，恶劣天气"
 en: "storm, thunderstorm"
-synonyms: ["storm", "åska"]
-antonyms: ["vackert väder", "solsken"]
-family: ["väder"]
+synonyms: [storm, åska]
+antonyms: [vackert-väder, solsken]
+family: [väder, storm, åska]
 topics: ["topic-naturkatastrof", "topic-vader-och-natur"]
 sentences: ["sent-det-varst-drabbade-omradet-kring-malmo"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # oväder — substantiv (ett)
 
 📖 中文：暴风雨，恶劣天气 · English: storm, thunderstorm
+
+🇸🇪 Förklaring: dåligt väder med kraftig vind, mycket regn eller åska
+
 发音提示：[ˈɔːvɛdɛr] — 重音在 o-，前缀 o- 表示否定
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[väder]] (ett — 天气), storm (en), åska (en — 雷声/雷暴)
+- 词族: [[väder]] (ett — 天气), [[storm]] (en), [[åska]] (en — 雷声/雷暴)
 - 同义词: [[storm]], [[åska]] (mer specifikt för åskväder)
-- 反义词: vackert väder, solsken
+- 反义词: [[vackert-väder|vackert väder]], [[solsken]]
 - 主题: [[topic-naturkatastrof]], [[topic-vader-och-natur]]
 
 ## 用法提示 (Usage Notes)

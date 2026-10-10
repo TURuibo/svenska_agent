@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "亲吻（轻）"
 en: "kiss (peck)"
-synonyms: ["kyssa"]
+synonyms: [kyssa]
 antonyms: []
-family: ["puss"]
+family: [puss]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # pussa — verb
 
 📖 中文：亲吻（轻） · English: kiss (peck)
+
+🇸🇪 Förklaring: ge någon en lätt och snabb kyss
+
+发音提示：/ˈpɵsːa/ — u 短音读 /ɵ/，s 读长
 
 ## 语法变形 (Forms)
 
@@ -43,7 +47,7 @@ interval: 0
 
 - 词族: [[puss]]
 - 同义词: [[kyssa]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

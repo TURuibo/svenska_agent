@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "对待；处理"
 en: "to treat"
-synonyms: []
+synonyms: [hantera, bemöta]
 antonyms: []
-family: []
+family: [behandling, handla, handläggare]
 topics: []
 sentences: [sent-hon-fick-jobbet-och-gjorde-snabbt]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # behandla — verb
 
 📖 中文：对待；处理 · English: to treat
-发音提示：
+
+🇸🇪 Förklaring: bete sig mot någon på ett visst sätt; ta hand om något, till exempel en sjukdom eller en ansökan
+
+发音提示：/beˈhandla/ — 重音在 hand，be- 轻读
 
 ## 语法变形 (Forms)
 
@@ -43,8 +46,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[behandling]] (处理；治疗), [[handla]] (行动), [[handläggare]] (办事员)
+- 同义词: [[hantera]] (处理), [[bemöta]] (对待)
 - 反义词: —
 - 主题: —
 

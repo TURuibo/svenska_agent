@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: B1
 zh: 轻松的
 en: easy-going
-synonyms: []
+synonyms: [avslappnad, otvungen]
 antonyms: [hierarkisk]
 family: [lätt]
 topics: [topic-arbete-och-jobb]
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # lättsam — adjektiv
 
 📖 中文：轻松的 · English: easy-going
+
+🇸🇪 Förklaring: som är avslappnad och inte så allvarlig eller formell
+
 发音提示：/ˈlɛtːsam/
 
 ## 语法变形 (Forms)
@@ -40,7 +43,7 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lätt]]
-- 同义词:
+- 同义词: [[avslappnad]] (放松的), [[otvungen]] (不拘束的)
 - 反义词: [[hierarkisk]]
 - 主题: [[topic-arbete-och-jobb]]
 

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "教研日（园所关门）"
 en: "planning day (preschool closed)"
-synonyms: []
+synonyms: [studiedag]
 antonyms: []
 family: [dag]
 topics: [topic-förskola-system, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # planeringsdag — substantiv (en)
 
 📖 中文：教研日（园所关门） · English: planning day (preschool closed)
+
+🇸🇪 Förklaring: dag då förskolan eller skolan är stängd för barnen och personalen förbereder arbetet
+
 发音提示：/plaˈneːrɪŋsˌdɑːɡ/；复合词中间的 -s- 是连接音（planering**s**dag）。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dag]]
+- 同义词: [[studiedag]] (教研日)
+- 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

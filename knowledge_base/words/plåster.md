@@ -22,6 +22,9 @@ interval: 0
 # plåster — substantiv (ett)
 
 📖 中文：创可贴 · English: plaster, band-aid
+
+🇸🇪 Förklaring: liten remsa som man sätter över ett sår för att skydda det
+
 发音提示：/ˈplɔstər/
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[apotek]], [[recept]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 反应
 en: reaction
-synonyms: []
+synonyms: [respons, gensvar]
 antonyms: []
-family: []
+family: [reagera, kedjereaktion, överreaktion]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # reaktion — substantiv (en)
 
 📖 中文：反应 · English: reaction
+
+🇸🇪 Förklaring: det som någon gör eller känner som svar på något som händer
+
 发音提示：/rɛakˈʃuːn/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[reagera]] (反应), [[kedjereaktion]] (连锁反应), [[överreaktion]] (过度反应)
+- 同义词: [[respons]] (回应), [[gensvar]] (反响)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

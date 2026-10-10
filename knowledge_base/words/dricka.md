@@ -7,8 +7,8 @@ genus: ""
 cefr: "A1"
 zh: "喝"
 en: "to drink"
-synonyms: []
-antonyms: []
+synonyms: [inta]
+antonyms: [äta]
 family: [dryck, drickbar]
 topics:
   - topic-vardagsrutin
@@ -25,6 +25,9 @@ interval: 0
 # dricka — verb (oregelbundet)
 
 📖 中文：喝 · English: to drink
+
+🇸🇪 Förklaring: låta vätska komma in i munnen och svälja den
+
 发音提示：DRIC-ka；两音节，重音在首音节。
 
 ## 语法变形 (Forms)

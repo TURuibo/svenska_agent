@@ -8,7 +8,7 @@ zh: 拍照
 en: to photograph, take a photo of
 synonyms: [fotografera]
 antonyms: []
-family: []
+family: [foto]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # fota — verb (grupp 1)
 
 📖 中文：拍照（口语） · English: to photograph
+
+🇸🇪 Förklaring: ta en bild av någon eller något med kamera eller mobil
+
+发音提示：/ˈfuːta/ — o 读长 uː，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: foto（照片）
-- 同义词: fotografera
-- 反义词:
+- 词族: [[foto]]（照片）
+- 同义词: [[fotografera]]
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

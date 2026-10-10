@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "批评的；危急的"
 en: "critical (disapproving); critical (severe)"
-synonyms: []
-antonyms: []
+synonyms: [ifrågasättande, allvarlig]
+antonyms: [okritisk, stabil]
 family: [kritik, kritiker]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-kritiker-sager-att-partierna-sanker]
@@ -23,6 +23,9 @@ interval: 0
 # kritisk — adjektiv
 
 📖 中文：批评的；危急的 · English: critical (disapproving); critical (severe)
+
+🇸🇪 Förklaring: 1) som letar efter fel och inte gärna godtar saker; 2) som är mycket allvarlig eller farlig
+
 发音提示：KRI-tisk
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kritik]]（批评，名词，尚无笔记）, [[kritiker]]（批评者，名词，尚无笔记）
-- 同义词: —
-- 反义词: —
+- 同义词: [[ifrågasättande]] (质疑的), [[allvarlig]] (严重的)
+- 反义词: [[okritisk]] (不加批判的), [[stabil]] (稳定的)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

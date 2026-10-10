@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 未来的
 en: future (adjective)
-synonyms: ["kommande", "blivande"]
-antonyms: ["nuvarande", "dåtida", "tidigare"]
-family: ["framtid"]
+synonyms: [kommande, blivande]
+antonyms: [nuvarande, dåtida, tidigare]
+family: [framtid]
 topics: ["topic-midsommar-traditioner"]
 sentences:
   - sent-om-en-ung-kvinna-lagger-sju-sorters
@@ -22,6 +22,9 @@ interval: 0
 # framtida — adjektiv (indeclinable)
 
 📖 中文：未来的 · English: future (adjective)
+
+🇸🇪 Förklaring: som kommer att finnas eller hända senare
+
 发音提示：FRAM-ti-da（三音节）
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 - 词族: [[framtid]]（未来，名词）
 - 同义词: [[kommande]], [[blivande]]
-- 反义词: [[nuvarande]]（现在的）
+- 反义词: [[nuvarande]]（现在的）, [[dåtida]], [[tidigare]]
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

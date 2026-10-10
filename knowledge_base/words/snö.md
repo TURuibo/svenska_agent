@@ -9,7 +9,7 @@ zh: "雪"
 en: "snow"
 synonyms: []
 antonyms: []
-family: ["snöa", "snöig", "snöflingor"]
+family: [snöa, snöig, snöflingor]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-snon-faller-tyst-och-tacker-marken
@@ -24,6 +24,9 @@ interval: 0
 # snö — substantiv (en)
 
 📖 中文：雪 · English: snow
+
+🇸🇪 Förklaring: vita och kalla flingor av fruset vatten som faller från himlen när det är kallt
+
 发音提示：/snøː/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: snöa（动词，下雪），snöig（形容词，多雪的），snöflingor（雪花）
+- 词族: [[snöa]]（动词，下雪）, [[snöig]]（形容词，多雪的）, [[snöflingor]]（雪花）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 怕冲突的
 en: conflict-avoidant
-synonyms: []
-antonyms: []
-family: []
+synonyms: [konfliktskygg]
+antonyms: [konfliktbenägen]
+family: [konflikt, rädd]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # konflikträdd — adjektiv
 
 📖 中文：怕冲突的 · English: conflict-avoidant
+
+🇸🇪 Förklaring: som helst undviker bråk och gräl eftersom man tycker att de är obehagliga
+
 发音提示：/kɔnˈflɪktˌrɛdː/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[konflikt]] (冲突), [[rädd]] (害怕的)
+- 同义词: [[konfliktskygg]] (回避冲突的)
+- 反义词: [[konfliktbenägen]] (好冲突的)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

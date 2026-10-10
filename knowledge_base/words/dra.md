@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "走人；拉"
 en: "to leave (colloq.); to pull"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [släpa, sticka]
+antonyms: [skjuta, stanna]
+family: [drag, dragkedja, dragning]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # dra — verb
 
 📖 中文：走人；拉 · English: to leave (colloq.); to pull
+
+🇸🇪 Förklaring: 1) hålla i något och flytta det mot sig eller efter sig; 2) gå därifrån, ge sig av (vardagligt)
+
 发音提示：[drɑː] 长 a；第 4 组强变化：drar / drog / dragit。
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[drag]] (拉；穿堂风), [[dragkedja]] (拉链), [[dragning]] (抽签)
+- 同义词: [[släpa]] (拖), [[sticka]] (走掉)
+- 反义词: [[skjuta]] (推), [[stanna]] (留下)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: en
 cefr: B1
 zh: 残疾；功能障碍
 en: disability, impairment
-synonyms: []
+synonyms: [handikapp]
 antonyms: []
-family: []
+family: [funktion]
 topics: ["topic-hälsa"]
 sentences:
   - sent-personen-har-en-funktionsnedsattning
@@ -24,6 +24,9 @@ interval: 0
 # funktionsnedsättning — substantiv
 
 📖 中文：残疾；功能障碍 · English: disability, impairment
+
+🇸🇪 Förklaring: varaktig begränsning i en persons kroppsliga, psykiska eller intellektuella förmåga
+
 发音提示：funk-tions-ned-SÄTT-ning
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: funktion + nedsättning (功能 + 下降/削减)
+- 词族: [[funktion]] + nedsättning (功能 + 下降/削减)
+- 同义词: [[handikapp]] (残疾（旧称）)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

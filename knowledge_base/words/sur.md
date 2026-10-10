@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "酸的"
 en: "sour, acidic"
-synonyms: []
-antonyms: ["salt", "bitter"]
-family: []
+synonyms: [syrlig]
+antonyms: [salt, bitter]
+family: [syra, syrlig]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sur — adjektiv
 
 📖 中文：酸的 · English: sour, acidic
+
+🇸🇪 Förklaring: som har en skarp smak, som citron eller vinäger
+
 发音提示：[suːr]
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: syra (酸 n), syrlig (略酸的)
-- 同义词: syrlig（略酸）
+- 词族: [[syra]] (酸 n), [[syrlig]] (略酸的)
+- 同义词: [[syrlig]]（略酸）
 - 反义词: [[salt]], [[bitter]]
 - 主题: [[topic-mat-dryck]]
 

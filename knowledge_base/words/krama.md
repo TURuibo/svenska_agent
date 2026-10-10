@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "拥抱"
 en: "to hug"
-synonyms: []
+synonyms: [omfamna]
 antonyms: []
-family: []
+family: [kram, kramgo, kramas]
 topics: [topic-småbarn-känslor-och-beteende, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # krama — verb
 
 📖 中文：拥抱 · English: to hug
+
+🇸🇪 Förklaring: lägga armarna om någon och hålla fast för att visa att man tycker om hen
+
 发音提示：/ˈkraːma/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kram]] (拥抱), [[kramgo]] (爱抱抱的), [[kramas]] (互相拥抱)
+- 同义词: [[omfamna]] (拥抱)
+- 反义词: —
 - 主题: [[topic-småbarn-känslor-och-beteende]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

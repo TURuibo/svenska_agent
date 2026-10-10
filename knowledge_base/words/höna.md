@@ -8,8 +8,8 @@ cefr: "A1"
 zh: "母鸡"
 en: "hen"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [tupp]
+family: [hönshus, kyckling, tupp]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # höna — substantiv (en)
 
 📖 中文：母鸡 · English: hen
+
+🇸🇪 Förklaring: vuxen hona av den fågel som hålls på gårdar och lägger ägg
+
 发音提示：/ˈhøːna/
 
 ## 语法变形 (Forms)

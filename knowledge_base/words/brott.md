@@ -7,9 +7,9 @@ genus: ett
 cefr: A2
 zh: 罪行；违法行为
 en: crime, offence
-synonyms: []
+synonyms: [lagbrott, förbrytelse]
 antonyms: []
-family: ["brottsling", "döma", "domstol"]
+family: [brottsling, döma, domstol]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-nu-har-han-blivit-domd-for-brottet
@@ -26,6 +26,9 @@ interval: 0
 # brott — substantiv
 
 📖 中文：罪行；违法行为 · English: crime, offence
+
+🇸🇪 Förklaring: handling som är förbjuden enligt lagen
+
 发音提示：BROT
 
 ## 语法变形 (Forms)
@@ -57,6 +60,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[brottsling]], [[döma]], [[domstol]]
+- 同义词: [[lagbrott]] (违法行为), [[förbrytelse]] (罪行)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "世界遗产名录"
 en: "World Heritage List"
 synonyms: []
 antonyms: []
-family: ["världsarv", "arv", "lista"]
+family: [världsarv, lista, arv]
 topics: ["topic-geografi-natur"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # världsarvslista — substantiv (en)
 
 📖 中文：世界遗产名录 · English: World Heritage List
+
+🇸🇪 Förklaring: Unescos lista över platser som är så värdefulla för hela mänskligheten att de ska skyddas
+
 发音提示：[ˈvæːrldsˌarvsˌliːsta]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[världsarv]], [[lista]]
+- 词族: [[världsarv]], [[lista]], [[arv]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-geografi-natur]]
 
 ## 用法提示 (Usage Notes)

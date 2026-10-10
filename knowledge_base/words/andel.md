@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "比例、份额"
 en: "share, proportion"
-synonyms: []
+synonyms: [proportion]
 antonyms: []
-family: []
+family: [del, dela, marknadsandel]
 topics: [topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # andel — substantiv
 
 📖 中文：比例、份额 · English: share, proportion
+
+🇸🇪 Förklaring: del av en helhet, ofta räknad i procent
+
 发音提示： "an-déjl"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[del]] (部分), [[dela]] (分；分享), [[marknadsandel]] (市场份额)
+- 同义词: [[proportion]] (比例)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

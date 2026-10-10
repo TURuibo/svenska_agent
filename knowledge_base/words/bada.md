@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 游泳/洗澡
 en: to swim/bathe
-synonyms: []
+synonyms: [doppa-sig]
 antonyms: []
-family: []
+family: [bad, badrum, simma]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bada — verb (v.1)
 
 📖 中文：游泳/洗澡 · English: to swim/bathe
+
+🇸🇪 Förklaring: vara i vatten för att tvätta sig eller för nöjes skull, till exempel i en sjö
+
 发音提示：BA-da；元音 `a` 长音。
 
 ## 语法变形 (Forms)
@@ -55,7 +58,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bad]] (ett, 浴室/游泳), [[badrum]] (ett, 浴室), [[simma]] (v. 游泳，更侧重游泳动作)
-- 同义词: —
+- 同义词: [[doppa-sig|doppa sig]] (泡一下水)
 - 反义词: —
 - 主题: —
 

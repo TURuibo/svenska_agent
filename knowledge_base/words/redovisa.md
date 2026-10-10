@@ -5,9 +5,9 @@ ordklass: verb
 cefr: B1
 zh: 汇报；报告；说明
 en: to report, present, account for
-synonyms: []
-antonyms: []
-family: []
+synonyms: [rapportera, presentera]
+antonyms: [dölja]
+family: [redovisning, redogöra]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-i-vecka-sex-ska-alla-redovisa]
 source: source-2026-10-09-komvux-kursstart
@@ -18,6 +18,10 @@ created: "2026-10-09"
 # redovisa — verb
 
 📖 中文：汇报；报告；说明 · English: to report, present, account for
+
+🇸🇪 Förklaring: berätta om eller visa resultatet av något man har gjort, ofta inför andra; visa hur pengar har använts
+
+发音提示：/ˈreːdʊˌviːsa/ — 复合词，重音在 re；vi 次重音
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[redovisning]] (汇报；会计), [[redogöra]] (说明)
+- 同义词: [[rapportera]] (报告), [[presentera]] (呈报)
+- 反义词: [[dölja]] (隐瞒)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

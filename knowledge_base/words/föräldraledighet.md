@@ -8,7 +8,7 @@ zh: "育儿假"
 en: "parental leave"
 synonyms: []
 antonyms: []
-family: ["föräldrapenning", "förälder", "ledig"]
+family: [föräldrapenning, förälder, ledig]
 topics: ["topic-föräldraledighet"]
 sentences: ["sent-i-sverige-har-föräldrar-rätt-att-vara-lediga", "sent-det-kallas-föräldraledighet"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-08"
 # föräldraledighet — substantiv (en)
 
 📖 中文：育儿假 · English: parental leave
+
+🇸🇪 Förklaring: tid när en mamma eller pappa är borta från arbetet för att ta hand om sitt barn
+
 发音提示：fö-RÄL-dra-LEE-dig-het
 
 ## 语法变形 (Forms)
@@ -41,6 +44,8 @@ created: "2026-10-08"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[föräldrapenning]], [[förälder]], [[ledig]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-föräldraledighet]]
 
 ## 用法提示 (Usage Notes)

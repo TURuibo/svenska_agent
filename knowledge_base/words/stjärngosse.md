@@ -8,7 +8,7 @@ zh: "星星男孩（露西亚游行中戴尖帽的男孩）"
 en: "star boy in the Lucia procession"
 synonyms: []
 antonyms: []
-family: []
+family: [stjärna, gosse]
 topics: [topic-lucia]
 sentences: []
 source: source-2026-10-10-lucia
@@ -19,6 +19,10 @@ created: "2026-10-10"
 # stjärngosse — substantiv (en-ord)
 
 📖 中文：星星男孩（露西亚游行中戴尖帽的男孩） · English: star boy in the Lucia procession
+
+🇸🇪 Förklaring: pojke i vita kläder och en spetsig hatt med stjärnor som går med i luciatåget
+
+发音提示：/ˈɧæːɳˌɡɔsːɛ/ — stj 读 ɧ；rn 卷舌 ɳ；主重音在 stjärn
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[stjärna]] (星星), [[gosse]] (男孩)
+- 同义词: —
+- 反义词: —
 - 相关: [[tärna]]
 - 主题: [[topic-lucia]]
 - 来源: [[source-2026-10-10-lucia]]

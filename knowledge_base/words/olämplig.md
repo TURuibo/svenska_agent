@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "不合适的"
 en: "inappropriate"
-synonyms: []
-antonyms: ["lämplig"]
-family: ["lämplig"]
+synonyms: [opassande, malplacerad]
+antonyms: [lämplig]
+family: [lämplig]
 topics: [topic-sociala-normer]
 sentences: ["sent-att-fråga-någon-direkt-om"]
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # olämplig — adjektiv
 
 📖 中文：不合适的 · English: inappropriate
+
+🇸🇪 Förklaring: som inte passar i en viss situation eller för ett visst syfte
+
+发音提示：/ˈuːˌlɛmplɪɡ/ — o- 读 uː；重音在 o
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lämplig]]
-- 同义词: []
+- 同义词: [[opassande]] (不得体的), [[malplacerad]] (不合时宜的)
 - 反义词: [[lämplig]]
 - 主题: [[topic-sociala-normer]]
 

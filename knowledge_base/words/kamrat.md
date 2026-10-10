@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "伙伴 / 同伴"
 en: "comrade / mate / friend"
-synonyms: []
-antonyms: []
-family: ["lagkamrat"]
+synonyms: [kompis, vän]
+antonyms: [fiende]
+family: [lagkamrat]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kamrat — substantiv
 
 📖 中文：伙伴 / 同伴 · English: comrade / mate / friend
+
+🇸🇪 Förklaring: person som man gör saker tillsammans med, till exempel i skolan eller på jobbet
+
 发音提示：[kam.'raːt]
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ Deklination 3 (–er plural).
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lagkamrat]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[kompis]] (朋友), [[vän]] (朋友)
+- 反义词: [[fiende]] (敌人)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

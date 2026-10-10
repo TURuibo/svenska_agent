@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: 衣服（复数）
 en: clothes, clothing
-synonyms: []
+synonyms: [klädesplagg, plagg]
 antonyms: []
-family: ["klä", "klänning", "klädskåp"]
+family: [klä, klänning, klädskåp]
 topics: ["topic-klader"]
 sentences:
   - sent-en-polis-undersokte-en-mans-klader
@@ -24,6 +24,9 @@ interval: 0
 # kläder — substantiv
 
 📖 中文：衣服（复数） · English: clothes, clothing
+
+🇸🇪 Förklaring: plagg som man har på kroppen, t.ex. tröjor, byxor och jackor
+
 发音提示：KLÄ-der
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klä]], [[klänning]], [[klädskåp]]
+- 同义词: [[klädesplagg]] (服装), [[plagg]] (衣物)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

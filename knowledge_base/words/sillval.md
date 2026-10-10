@@ -24,6 +24,9 @@ interval: 0
 # sillval — substantiv
 
 📖 中文：长须鲸 · English: fin whale
+
+🇸🇪 Förklaring: mycket stort och smalt däggdjur i havet, det näst största djuret i världen
+
 发音提示：SILL-val
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[val]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 高中
 en: upper secondary school
-synonyms: []
+synonyms: [gymnasieskola]
 antonyms: []
-family: []
+family: [gymnasieelev, gymnasial, gymnasieprogram]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-många-av-er-vill-utbilda-sig]
 source: source-2026-10-09-komvux-kursstart
@@ -19,6 +19,10 @@ created: "2026-10-09"
 # gymnasium — substantiv ett
 
 📖 中文：高中 · English: upper secondary school
+
+🇸🇪 Förklaring: frivillig skola efter grundskolan, där man oftast går i tre år från 16 års ålder
+
+发音提示：/jʏmˈnɑːsɪɵm/ — g 在 y 前读 j；重音在 na
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gymnasieelev]] (高中生), [[gymnasial]] (高中的), [[gymnasieprogram]] (高中专业方向)
+- 同义词: [[gymnasieskola]] (高中)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

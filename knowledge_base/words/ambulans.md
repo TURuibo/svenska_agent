@@ -8,7 +8,7 @@ zh: "救护车"
 en: "ambulance"
 synonyms: []
 antonyms: []
-family: []
+family: [ambulanspersonal, ambulansförare, ambulanshelikopter]
 topics: ["topic-trafik-säkerhet"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # ambulans — substantiv
 
 📖 中文：救护车 · English: ambulance
-发音提示：
+
+🇸🇪 Förklaring: bil som snabbt kör sjuka eller skadade människor till sjukhus
+
+发音提示：/ambɵˈlans/ — 法语借词，重音在末音节 lans
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[ambulanspersonal]] (救护人员), [[ambulansförare]] (救护车司机), [[ambulanshelikopter]] (救护直升机)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

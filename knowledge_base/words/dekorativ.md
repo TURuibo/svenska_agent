@@ -8,7 +8,7 @@ zh: 装饰性的
 en: decorative
 synonyms: []
 antonyms: []
-family: ["dekorera", "dekoration"]
+family: [dekorera, dekoration]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # dekorativ — adjektiv
 
 📖 中文：装饰性的 · English: decorative
+
+🇸🇪 Förklaring: som är vacker att titta på och gör ett rum eller en sak finare
+
 发音提示：de-ko-ra-TIV
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dekorera]], [[dekoration]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

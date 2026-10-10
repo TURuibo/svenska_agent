@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "善良的；友善的"
 en: "kind"
-synonyms: []
-antonyms: [arg]
-family: []
+synonyms: [vänlig]
+antonyms: [arg, elak]
+family: [snällhet]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # snäll — adjektiv
 
 📖 中文：善良的；友善的 · English: kind
+
+🇸🇪 Förklaring: som är vänlig och god mot andra och gärna hjälper dem
+
 发音提示：/snɛlː/
 
 ## 语法变形 (Forms)

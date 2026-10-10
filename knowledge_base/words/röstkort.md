@@ -23,6 +23,9 @@ interval: 0
 # röstkort — substantiv (ett)
 
 📖 中文：选民卡 · English: voting card
+
+🇸🇪 Förklaring: kort som man får hem med posten före ett val och som visar var man kan lämna sin röst
+
 发音提示：RÖST-kort
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: röst，kort（卡），[[rösta]]，val
+- 词族: [[röst]], [[kort]]（卡）, [[rösta]], [[val]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

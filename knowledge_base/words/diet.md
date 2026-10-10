@@ -7,9 +7,9 @@ genus: en
 cefr: B1
 zh: "饮食（控制）；规定饮食"
 en: "diet"
-synonyms: []
+synonyms: [kost]
 antonyms: []
-family: []
+family: [dietist]
 topics: []
 sentences: [sent-till-skillnad-från-många-andra]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # diet — substantiv (en)
 
 📖 中文：饮食（控制）；规定饮食 · English: diet
+
+🇸🇪 Förklaring: särskild kost som man äter av hälsoskäl eller för att gå ner i vikt
+
 发音提示：/diˈeːt/（重音在第二音节 -et，e 长音）
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: dietist（营养师）
-- 同义词: kost（日常饮食，较中性）
-- 反义词:
+- 词族: [[dietist]]（营养师）
+- 同义词: [[kost]]（日常饮食，较中性）
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

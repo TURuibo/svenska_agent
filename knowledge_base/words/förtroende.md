@@ -7,8 +7,8 @@ genus: "ett"
 cefr: "B1"
 zh: "信任；信心"
 en: "trust, confidence"
-synonyms: []
-antonyms: []
+synonyms: [tillit, tilltro]
+antonyms: [misstro]
 family: [förtroendefull]
 topics: [topic-argumentation]
 sentences: []
@@ -19,6 +19,10 @@ created: 2026-10-09
 # förtroende — substantiv ett
 
 📖 中文：信任；信心 · English: trust, confidence
+
+🇸🇪 Förklaring: känsla av att man kan lita på någon eller något
+
+发音提示：/fœrˈtruːɛndɛ/ — för- 不重读，重音在 tro；o 读 uː
 
 ## 语法变形 (Forms)
 
@@ -41,8 +45,8 @@ created: 2026-10-09
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förtroendefull]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[tillit]] (信任), [[tilltro]] (信赖)
+- 反义词: [[misstro]] (不信任)
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

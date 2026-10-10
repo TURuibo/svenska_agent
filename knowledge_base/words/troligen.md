@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "大概；可能"
 en: "probably, likely"
-synonyms: ["förmodligen", "antagligen", "troligtvis"]
-antonyms: []
-family: []
+synonyms: [förmodligen, antagligen, troligtvis]
+antonyms: [knappast]
+family: [trolig, tro]
 topics: []
 sentences: ["sent-det-ar-troligen-manga-fler-doda"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # troligen — adverb
 
 📖 中文：大概；可能 · English: probably, likely
+
+🇸🇪 Förklaring: med stor sannolikhet, men inte säkert
+
 发音提示：TROO-li-en
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: [[förmodligen]], [[antagligen]]
-- 反义词:
+- 词族: [[trolig]] (可能的), [[tro]] (相信)
+- 同义词: [[förmodligen]], [[antagligen]], [[troligtvis]]
+- 反义词: [[knappast]] (不太可能)
 - 主题:
 
 ## 用法提示 (Usage Notes)

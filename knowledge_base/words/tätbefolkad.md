@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B2"
 zh: "人口密集的"
 en: "densely populated"
-synonyms: ["tätbebyggd"]
-antonyms: ["glesbygdskommun"]
-family: ["glesbygdskommun", "tätbebyggd"]
+synonyms: [tätbebyggd]
+antonyms: [glesbygdskommun]
+family: [glesbygdskommun, tätbebyggd]
 topics: ["topic-geografi-samhalle"]
 sentences: []
 known: false
@@ -17,7 +17,10 @@ created: "2026-09-22"
 # tätbefolkad — adjektiv
 
 📖 中文：人口密集的 · English: densely populated
-发音提示：
+
+🇸🇪 Förklaring: där det bor många människor på en liten yta
+
+发音提示：/ˈtɛːtbɛˌfɔlkad/ — 重音在 tät；be- 不重读
 
 ## 语法变形 (Forms)
 

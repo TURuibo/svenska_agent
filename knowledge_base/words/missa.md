@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "错过"
 en: "to miss"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [förbise]
+antonyms: [hitta]
+family: [miss]
 topics: []
 sentences:
   - sent-du-kan-inte-missa-den
@@ -24,6 +24,9 @@ interval: 0
 # missa — verb (grupp 1)
 
 📖 中文：错过 · English: to miss
+
+🇸🇪 Förklaring: inte träffa, inte hinna med eller inte lägga märke till något
+
 发音提示：MIS-sa；两音节，双写 ss。
 
 ## 语法变形 (Forms)

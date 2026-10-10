@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: B1
 zh: 善于倾听的
 en: attentive, perceptive
-synonyms: []
-antonyms: []
+synonyms: [uppmärksam, inkännande, empatisk]
+antonyms: [okänslig]
 family: [höra]
 topics: [topic-arbete-och-jobb]
 sentences: []
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # lyhörd — adjektiv
 
 📖 中文：善于倾听的 · English: attentive, perceptive
+
+🇸🇪 Förklaring: som är bra på att lyssna och förstå vad andra känner och behöver
+
 发音提示：/ˈlyːhøːrd/
 
 ## 语法变形 (Forms)
@@ -40,8 +43,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[höra]]
-- 同义词:
-- 反义词:
+- 同义词: [[uppmärksam]] (专注的), [[inkännande]] (善解人意的), [[empatisk]] (有同理心的)
+- 反义词: [[okänslig]] (不敏感的)
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

@@ -8,8 +8,9 @@ zh: "交通；车流；运输"
 en: "traffic; transport"
 cefr: "A2"
 known: false
-synonyms: ["fordonstrafik"]
+synonyms: [fordonstrafik]
 antonyms: []
+family: [trafikera, trafikant, trafikljus]
 topics: ["topic-stad-och-transport"]
 phrases: []
 sentences: ["sent-det-minskar-trafiken-och-ar-bra"]
@@ -27,6 +28,10 @@ interval: 0
 **中文:** 交通；车流；运输
 **English:** traffic; transport
 **CEFR:** A2
+
+🇸🇪 Förklaring: bilar, bussar, cyklar och människor som rör sig på gator och vägar; transport av människor och varor
+
+发音提示：/traˈfiːk/ — 重音在第二音节 -fik，i 读长音
 
 ## 变形 (Forms)
 
@@ -65,3 +70,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-notis-ny-cykelbana]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[trafikera]] (通行；运营), [[trafikant]] (交通参与者), [[trafikljus]] (交通灯)
+- 同义词: [[fordonstrafik]]
+- 反义词: —

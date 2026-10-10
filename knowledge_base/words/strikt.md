@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B2
 zh: 严格的
 en: strict
-synonyms: []
-antonyms: []
-family: []
+synonyms: [sträng]
+antonyms: [slapp, mild]
+family: [striktare, striktast]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # strikt — adjektiv
 
 📖 中文：严格的 · English: strict
+
+🇸🇪 Förklaring: som följer regler noga och inte tillåter undantag
+
 发音提示：/strɪkt/；单音节，结尾 `-kt` 清晰。
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: striktare, striktast（比较级/最高级）
-- 同义词: sträng（严厉的）
-- 反义词: slapp（松散的）, mild（宽松的）
+- 词族: [[striktare]], [[striktast]]（比较级/最高级）
+- 同义词: [[sträng]]（严厉的）
+- 反义词: [[slapp]]（松散的）, [[mild]]（宽松的）
 - 主题:
 
 ## 用法提示 (Usage Notes)

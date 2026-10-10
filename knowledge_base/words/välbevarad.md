@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "保存完好的"
 en: "well-preserved"
-synonyms: []
-antonyms: ["förstörd", "nedgången"]
-family: ["bevara", "välbevara"]
+synonyms: [intakt, välbehållen]
+antonyms: [förstörd, nedgången]
+family: [bevara, välbevara]
 topics: ["topic-geografi-natur"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # välbevarad — adjektiv
 
 📖 中文：保存完好的 · English: well-preserved
+
+🇸🇪 Förklaring: som fortfarande är i gott skick trots att den är gammal
+
 发音提示：[ˈvɛlbɛˌvaːrad]
 
 ## 语法变形 (Forms)
@@ -45,8 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bevara]]
-- 反义词: [[förstörd]]
+- 词族: [[bevara]], [[välbevara]]
+- 同义词: [[intakt]] (完好的), [[välbehållen]] (完好无损的)
+- 反义词: [[förstörd]], [[nedgången]]
 - 主题: [[topic-geografi-natur]]
 
 ## 用法提示 (Usage Notes)

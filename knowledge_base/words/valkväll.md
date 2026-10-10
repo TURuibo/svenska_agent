@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: 选举之夜
 en: election night
-synonyms: []
+synonyms: [valnatt]
 antonyms: []
-family: []
+family: [val, kväll, valdag, valvaka]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # valkväll — substantiv (en)
 
 📖 中文：选举之夜 · English: election night
+
+🇸🇪 Förklaring: kvällen efter att folket har röstat, när rösterna räknas och resultatet blir klart
+
 发音提示：/ˈvɑːlkvɛl/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[val]] (选举), [[kväll]] (晚上), [[valdag]] (选举日), [[valvaka]] (守候计票)
+- 同义词: [[valnatt]] (选举之夜)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

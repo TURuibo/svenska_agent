@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "搬家；移动"
 en: "to move (house); to move (object)"
-synonyms: [byta bostad]
-antonyms: []
+synonyms: [byta-bostad]
+antonyms: [bo-kvar]
 family: [flytt, flyttning, inflyttning, utflyttning]
 topics: []
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # flytta — verb (v.1)
 
 📖 中文：搬家；移动 · English: to move (house); to move (object)
+
+🇸🇪 Förklaring: 1) börja bo på ett nytt ställe; 2) ändra platsen för något
+
 发音提示：/ˈflɵta/；fl- 辅音群，双写 `tt`。
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[flytt]] (en, 搬家), [[flyttning]] (en, 搬迁), [[inflyttning]] (en, 迁入), [[utflyttning]] (en, 迁出)
-- 同义词: [[byta bostad]] (换住所)
-- 反义词: —
+- 同义词: [[byta-bostad|byta bostad]] (换住所)
+- 反义词: [[bo-kvar|bo kvar]] (留住原处)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

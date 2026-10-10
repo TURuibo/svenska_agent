@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "总结；概括"
 en: "to summarize; to sum up"
-synonyms: []
-antonyms: []
-family: ["sammanfattning"]
+synonyms: [summera, koka-ner]
+antonyms: [utveckla]
+family: [sammanfattning]
 topics: []
 sentences: ["sent-kan-ni-sammanfatta-vad-ni"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sammanfatta — verb (grupp 1)
 
 📖 中文：总结；概括 · English: to summarize; to sum up
+
+🇸🇪 Förklaring: berätta det viktigaste i en text eller ett samtal i kort form
+
 发音提示：sam-man-FAT-ta（重音在第三音节）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sammanfattning]] (名词 — summary, sammanfattningen)
+- 同义词: [[summera]] (总结), [[koka-ner|koka ner]] (浓缩)
+- 反义词: [[utveckla]] (详细展开)
 
 ## 用法提示 (Usage Notes)
 

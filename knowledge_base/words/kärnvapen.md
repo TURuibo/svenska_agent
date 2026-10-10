@@ -6,9 +6,9 @@ genus: ett
 cefr: "B1"
 zh: "核武器"
 en: "nuclear weapon"
-synonyms: []
+synonyms: [atomvapen, atombomb]
 antonyms: []
-family: []
+family: [vapen]
 topics:
   - topic-samhälle-och-politik
   - topic-krig-och-konflikt
@@ -24,6 +24,9 @@ interval: 0
 # kärnvapen — substantiv (ett)
 
 📖 中文：核武器 · English: nuclear weapon
+
+🇸🇪 Förklaring: vapen med enorm sprängkraft från atomenergi som kan förstöra hela städer
+
 发音提示：SHÄRN-VA-pen（kärn- 发 sh 音）
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vapen]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: [[atomvapen]] (原子武器), [[atombomb]] (原子弹)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

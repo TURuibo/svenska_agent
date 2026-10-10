@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "空闲时间；业余时间"
 en: "free time; leisure time"
-synonyms: []
-antonyms: []
-family: ["fritidsaktivitet"]
+synonyms: [ledighet]
+antonyms: [arbetstid]
+family: [fritidsaktivitet]
 topics: ["topic-fritid-och-resor"]
 sentences: ["sent-på-fritiden-spelar-jag-fotboll-med"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fritid — substantiv (en)
 
 📖 中文：空闲时间；业余时间 · English: free time; leisure time
+
+🇸🇪 Förklaring: tid när man inte arbetar eller studerar och kan göra det man själv vill
+
 发音提示：/ˈfriːˌtiːd/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fritidsaktivitet]]
+- 同义词: [[ledighet]] (空闲)
+- 反义词: [[arbetstid]] (工作时间)
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

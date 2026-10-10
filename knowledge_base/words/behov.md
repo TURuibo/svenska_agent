@@ -18,6 +18,9 @@ created: "2026-10-01"
 # behov — substantiv (ett)
 
 📖 中文：需要，需求 · English: need
+
+🇸🇪 Förklaring: något som man måste ha eller som man saknar
+
 发音提示：/beˈhoːv/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[behöva]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

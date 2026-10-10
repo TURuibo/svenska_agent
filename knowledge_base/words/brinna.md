@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: "A2"
 zh: "燃烧，着火"
 en: "to burn"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [stå-i-lågor]
+antonyms: [slockna]
+family: [brand, bränna, brinnande]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # brinna — verb (grupp 4, starkt)
 
 📖 中文：燃烧，着火 · English: to burn
+
+🇸🇪 Förklaring: vara i eld och ge lågor och värme
+
 发音提示：BRIN-na
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[brand]] (火灾), [[bränna]] (烧), [[brinnande]] (燃烧的)
+- 同义词: [[stå-i-lågor|stå i lågor]] (燃烧着)
+- 反义词: [[slockna]] (熄灭)
 - 主题: [[]]
 
 ## 用法提示 (Usage Notes)

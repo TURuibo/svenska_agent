@@ -8,8 +8,8 @@ cefr: "B1"
 zh: "中世纪的"
 en: "medieval"
 synonyms: []
-antonyms: ["modern"]
-family: ["medeltid"]
+antonyms: [modern]
+family: [medeltid]
 topics: ["topic-geografi-natur"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # medeltida — adjektiv
 
 📖 中文：中世纪的 · English: medieval
+
+🇸🇪 Förklaring: som kommer från eller hör till tiden mellan ungefär år 500 och 1500
+
 发音提示：[ˌmeːdɛlˈtiːda]
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[medeltid]]
+- 同义词: —
 - 反义词: [[modern]]
 - 主题: [[topic-geografi-natur]]
 

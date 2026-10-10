@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "罐、罐头"
 en: "can / jar / tin"
-synonyms: [behållare]
+synonyms: [flaska, behållare]
 antonyms: []
-family: [konservburk, glasburk]
+family: [konservburk, glasburk, burkmat]
 topics: [topic-nyheter-vecka22, topic-mat-och-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # burk — substantiv (en)
 
 📖 中文：罐、罐头 · English: can / jar / tin
+
+🇸🇪 Förklaring: behållare av metall, glas eller plast, ofta med lock, för mat eller dryck
+
 发音提示：BURK，单音节，u 发短音。
 
 ## 语法变形 (Forms)

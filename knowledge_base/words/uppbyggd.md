@@ -7,8 +7,8 @@ genus: ""
 cefr: B1
 zh: 构建的；组织起来的
 en: structured, built up
-synonyms: []
-antonyms: []
+synonyms: [strukturerad, organiserad]
+antonyms: [ostrukturerad]
 family: [bygga-upp]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-det-svenska-skattesystemet-är-uppbyggt-så-att]
@@ -19,6 +19,9 @@ created: 2026-10-02
 # uppbyggd — adjektiv
 
 📖 中文：构建的 · English: structured
+
+🇸🇪 Förklaring: som har en viss struktur eller ordning; som har skapats steg för steg
+
 发音提示：[ˈɵpːbʏɡd]
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ perfekt particip of *bygga upp* ([[bygga-upp]])：
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bygga-upp]]
+- 同义词: [[strukturerad]] (有结构的), [[organiserad]] (有组织的)
+- 反义词: [[ostrukturerad]] (无结构的)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

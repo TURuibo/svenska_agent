@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "跌倒"
 en: "fall"
-synonyms: []
-antonyms: []
+synonyms: [falla, trilla, snubbla]
+antonyms: [resa-sig]
 family: []
 topics: [topic-grannar-boende]
 sentences: [sent-ett-stort-fång-rosor-till]
@@ -23,6 +23,9 @@ interval: 0
 # ramla — verb
 
 📖 中文：跌倒 · English: fall
+
+🇸🇪 Förklaring: falla omkull eller ner, ofta plötsligt och utan att vilja det
+
 发音提示： "ram-la"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: —
+- 同义词: [[falla]] (跌落), [[trilla]] (摔倒), [[snubbla]] (绊倒)
+- 反义词: [[resa-sig|resa sig]] (站起来)
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

@@ -23,6 +23,9 @@ interval: 0
 # förtidsrösta — verb
 
 📖 中文：提前投票 · English: to vote in advance
+
+🇸🇪 Förklaring: lägga sin röst i ett val några dagar före själva valdagen
+
 发音提示：FÖR-tids-rös-ta
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ Grupp 1 (-ar/-ade/-at); sammansättning av förtid + rösta.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: förtid（提前），[[rösta]]，[[röstkort]]
+- 词族: [[förtid]]（提前）, [[rösta]], [[röstkort]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

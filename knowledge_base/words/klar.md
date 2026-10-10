@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "完成的；清楚的；就绪的"
 en: "finished; clear; ready"
-synonyms: ["färdig", "tydlig"]
-antonyms: []
-family: ["klara", "tydlig"]
+synonyms: [färdig, tydlig]
+antonyms: [oklar, ofärdig]
+family: [klara, tydlig]
 topics: []
 sentences:
   - sent-ungefär-hundra-personer-ska-arbeta
@@ -24,6 +24,9 @@ interval: 0
 # klar — adjektiv
 
 📖 中文：完成的；清楚的；就绪的 · English: finished; clear; ready
+
+🇸🇪 Förklaring: som har gjorts färdigt; som är lätt att se igenom eller förstå; som är beredd att börja
+
 发音提示：/klɑːr/
 
 ## 语法变形 (Forms)
@@ -53,8 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[klara]] (应付；通过)
-- 同义词: färdig（完成的）, [[tydlig]]（清楚的）
+- 词族: [[klara]] (应付；通过), [[tydlig]]
+- 同义词: [[färdig]]（完成的）, [[tydlig]]（清楚的）
+- 反义词: [[oklar]] (不清楚的), [[ofärdig]] (未完成的)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

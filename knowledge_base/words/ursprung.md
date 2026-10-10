@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "出身；来源"
 en: "origin"
-synonyms: []
+synonyms: [härkomst, källa]
 antonyms: []
 family: [ursprunglig]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # ursprung — substantiv
 
 📖 中文：出身；来源 · English: origin
+
+🇸🇪 Förklaring: det ställe, den tid eller den familj som något eller någon kommer från
+
+发音提示：/ˈʉːʂˌprɵŋ/ — rs 合读 ʂ；u 读长音 ʉː
 
 ## 语法变形 (Forms)
 
@@ -40,6 +44,7 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ursprunglig]]
+- 同义词: [[härkomst]] (出身), [[källa]] (来源)
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]

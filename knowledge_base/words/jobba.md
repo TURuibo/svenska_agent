@@ -8,8 +8,8 @@ cefr: A1
 zh: 工作（口语）
 en: to work (colloquial)
 synonyms: [arbeta]
-antonyms: []
-family: [jobb, arbeta, arbete]
+antonyms: [vila, slappa]
+family: [jobb, arbeta, arbete, jobbig]
 topics: [topic-arbete]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # jobba — verb (v.1)
 
 📖 中文：工作（口语） · English: to work (colloquial)
+
+🇸🇪 Förklaring: utföra uppgifter som en del av sitt yrke eller för att få något gjort
+
 发音提示：双写 `bb`，元音 `o` 短促。
 
 ## 语法变形 (Forms)
@@ -53,6 +56,7 @@ interval: 0
 
 - 词族: [[jobb]] (n. 工作/活儿，口语), [[arbeta]] (v. 工作，正式), [[arbete]] (n. 工作，正式名词), [[jobbig]] (adj. 累人的/麻烦的)
 - 同义词: [[arbeta]]（更正式/书面）
+- 反义词: [[vila]] (休息), [[slappa]] (偷懒)
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

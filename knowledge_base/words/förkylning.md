@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 感冒
 en: cold (illness)
-synonyms: []
+synonyms: [snuva]
 antonyms: []
 family: [kyla, kall, förkylad]
 topics: [topic-hälsa]
@@ -22,6 +22,9 @@ interval: 0
 # förkylning — substantiv (en)
 
 📖 中文：感冒 · English: cold (illness)
+
+🇸🇪 Förklaring: lätt sjukdom som ger snuva, hosta och ibland ont i halsen
+
 发音提示：/ˈfœrɕʏlnɪŋ/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kyla]], [[kall]], [[förkylad]]
-- 同义词:
-- 反义词:
+- 同义词: [[snuva]] (伤风)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

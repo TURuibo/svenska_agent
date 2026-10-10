@@ -8,7 +8,7 @@ zh: "胡萝卜"
 en: "carrot"
 synonyms: []
 antonyms: []
-family: []
+family: [morotskaka]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # morot — substantiv (en-ord)
 
 📖 中文：胡萝卜 · English: carrot
+
+🇸🇪 Förklaring: lång orange rotfrukt som man kan äta rå eller kokt
+
 发音提示：['moːrɔt]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: morotskaka (胡萝卜蛋糕)
+- 词族: [[morotskaka]] (胡萝卜蛋糕)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

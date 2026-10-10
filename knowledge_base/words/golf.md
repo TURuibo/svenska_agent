@@ -9,7 +9,7 @@ zh: "高尔夫"
 en: "golf"
 synonyms: []
 antonyms: []
-family: []
+family: [golfbana, golfklubba]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # golf — substantiv (en)
 
 📖 中文：高尔夫 · English: golf
+
+🇸🇪 Förklaring: sport där man slår en liten boll med en klubba så att den hamnar i hål på en stor gräsbana
+
 发音提示：/ɡɔlf/（o 短，lf 连读）
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[golfbana]] (高尔夫球场), [[golfklubba]] (高尔夫球杆)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

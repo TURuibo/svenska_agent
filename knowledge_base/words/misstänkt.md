@@ -7,8 +7,8 @@ genus: ""
 cefr: B1
 zh: "被怀疑的，涉嫌的"
 en: "suspected"
-synonyms: []
-antonyms: []
+synonyms: [skum, tvivelaktig]
+antonyms: [oskyldig]
 family: [misstänka, misstanke]
 topics: [topic-samhälle-och-politik]
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # misstänkt — adjektiv
 
 📖 中文：被怀疑的，涉嫌的 · English: suspected
+
+🇸🇪 Förklaring: som polisen eller andra tror kan ha gjort ett brott; som verkar konstig och inte går att lita på
+
 发音提示：[mis-STENKT]
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[misstänka]], [[misstanke]]
+- 同义词: [[skum]] (可疑的), [[tvivelaktig]] (可疑的)
+- 反义词: [[oskyldig]] (无辜的)
 - 相关: [[brottsling]]
 - 主题: [[topic-samhälle-och-politik]]
 

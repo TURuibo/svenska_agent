@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "诚实的、公道的"
 en: "honest, fair"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [uppriktig]
+antonyms: [oärlig]
+family: [ärlighet]
 topics: ["topic-karaktarsord"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # ärlig — adjektiv
 
 📖 中文：诚实的、公道的 · English: honest, fair
+
+🇸🇪 Förklaring: som säger sanningen och inte lurar andra
+
 发音提示：ÄR-lig
 
 ## 语法变形 (Forms)

@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 继续
 en: to continue
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gå-vidare, hålla-på]
+antonyms: [sluta, avbryta]
+family: [fortsättning]
 topics:
   - topic-riktningar
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # fortsätta — verb (oregelbundet)
 
 📖 中文：继续 · English: to continue
+
+🇸🇪 Förklaring: inte sluta, utan göra mer av något som man redan har börjat med
+
 发音提示：fort-SÄT-ta；重音在第二音节，双写 `tt`。
 
 ## 语法变形 (Forms)
@@ -57,7 +60,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fortsättning]] (en, 续集/继续)
-- 同义词: —
+- 同义词: [[gå-vidare|gå vidare]] (继续下去), [[hålla-på|hålla på]] (持续做)
 - 反义词: [[sluta]] (v. 停止/结束), [[avbryta]] (v. 中断)
 - 主题: [[topic-riktningar]]
 

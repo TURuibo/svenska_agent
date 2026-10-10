@@ -5,10 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: "令人担忧的；棘手的"
 en: "worrying; troublesome"
-synonyms:
-  - "[[orolig]]"
-antonyms: []
-family: []
+synonyms: [orolig, oroande]
+antonyms: [lugnande]
+family: [bekymmer, bekymra]
 topics:
   - "[[topic-hälsa]]"
   - "[[topic-samhälle-och-politik]]"
@@ -25,6 +24,9 @@ interval: 0
 # bekymmersam — adjektiv
 
 📖 中文：令人担忧的；棘手的 · English: worrying; troublesome
+
+🇸🇪 Förklaring: som gör att man blir orolig; som är svår att lösa
+
 发音提示：[bɛ."çymɛrˌsam]，重音在 -sam
 
 ## 语法变形 (Forms)
@@ -51,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bekymmer（名词，烦恼；担忧）、bekymra（使担忧）
-- 同义词: [[orolig]]（令人不安的）、oroande（令人担忧的）
-- 反义词: lugnande（令人放心的）
+- 词族: [[bekymmer]]（名词，烦恼；担忧）, [[bekymra]]（使担忧）
+- 同义词: [[orolig]]（令人不安的）, [[oroande]]（令人担忧的）
+- 反义词: [[lugnande]]（令人放心的）
 - 主题: [[topic-hälsa]] · [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

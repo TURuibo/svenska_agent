@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "选票"
 en: "ballot paper"
-synonyms: []
+synonyms: [röstsedel]
 antonyms: []
 family: [val, sedel, riksdagsval, kommunval, valdag, vallokal, valaffisch, vallöfte, valdebatt, valresultat, valarbetare]
 topics: [topic-val-demokrati]
@@ -23,6 +23,9 @@ interval: 0
 # valsedel — substantiv (en)
 
 📖 中文：选票 · English: ballot paper
+
+🇸🇪 Förklaring: papper med ett partis namn som man lägger i ett kuvert när man röstar
+
 发音提示：VAL-se-del
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: val，sedel（票据/纸币），[[riksdagsval]]，[[kommunval]]，[[valdag]]，[[vallokal]]，[[valaffisch]]，[[vallöfte]]，[[valdebatt]]，[[valresultat]]，[[valarbetare]]（val- 复合词族）
+- 词族: [[val]], [[sedel]]（票据/纸币）, [[riksdagsval]], [[kommunval]], [[valdag]], [[vallokal]], [[valaffisch]], [[vallöfte]], [[valdebatt]], [[valresultat]], [[valarbetare]]（val- 复合词族）
+- 同义词: [[röstsedel]] (选票)
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

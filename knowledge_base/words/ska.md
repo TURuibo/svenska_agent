@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: A1
 zh: 将要；应该；(skulle) 会
 en: shall, will; should
-synonyms: []
+synonyms: [kommer-att, bör]
 antonyms: []
-family: []
+family: [skola, skulle]
 topics: []
 sentences: []
 known: false
@@ -18,8 +18,11 @@ created: "2026-10-01"
 # ska — verb (oregelbundet)
 
 📖 中文：将要；应该；(skulle) 会 · English: shall, will; should
-发音提示：/skɑː/；skulle /ˈskɵlɛ/
 ⚠️ 本词条的 lemma 是 `ska`（助动词）。与名词 `skola`（学校）无关，见 [[skola]]。
+
+🇸🇪 Förklaring: 1) används för att tala om framtiden eller om planer; 2) används för att säga vad man måste eller bör göra
+
+发音提示：/skɑː/；skulle /ˈskɵlɛ/
 
 ## 语法变形 (Forms)
 
@@ -66,9 +69,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[skola]] (ska 的不定式), [[skulle]] (会；应该)
+- 同义词: [[kommer-att|kommer att]] (将要), [[bör]] (应该)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

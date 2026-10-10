@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "气候变化"
 en: "climate change"
-synonyms: []
+synonyms: [global-uppvärmning, klimatkris]
 antonyms: []
-family: [klimat, klimataktivist, förändring]
+family: [klimataktivist, förändring, klimat]
 topics: [topic-miljö-och-klimat]
 sentences:
   - sent-när-greta-var-åtta-år-hörde-hon
@@ -24,6 +24,9 @@ interval: 0
 # klimatförändring — substantiv (en)
 
 📖 中文：气候变化 · English: climate change
+
+🇸🇪 Förklaring: att jordens väder och temperatur ändras under lång tid, särskilt den uppvärmning som människan orsakar
+
 发音提示：/ˈklɪmaːtˌfœrˌɛndriŋ/；常用复数形式 klimatförändringarna。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[klimataktivist]]（气候活动家），förändring（变化）
+- 词族: [[klimataktivist]]（气候活动家）, [[förändring]]（变化）, [[klimat]] (气候)
+- 同义词: [[global-uppvärmning|global uppvärmning]] (全球变暖), [[klimatkris]] (气候危机)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

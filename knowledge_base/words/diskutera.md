@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: A2
 zh: 讨论
 en: to discuss
-synonyms: []
+synonyms: [debattera, prata-om, resonera]
 antonyms: []
 family: [diskussion]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # diskutera — verb (grupp 1)
 
 📖 中文：讨论 · English: to discuss
+
+🇸🇪 Förklaring: prata om en fråga med andra och säga vad man tycker
+
 发音提示：/dɪskɵˈteːra/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[diskussion]]
-- 同义词:
-- 反义词:
+- 同义词: [[debattera]] (辩论), [[prata-om|prata om]] (谈论), [[resonera]] (商讨)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

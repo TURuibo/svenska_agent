@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 顽皮的
 en: mischievous, naughty
-synonyms: ["stökig"]
-antonyms: ["snäll", "lugn"]
-family: ["bus", "busa"]
+synonyms: [stökig]
+antonyms: [snäll, lugn]
+family: [bus, busa]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # busig — adjektiv
 
 📖 中文：顽皮的 · English: mischievous, naughty
+
+🇸🇪 Förklaring: som gärna gör små dumma saker för att ha roligt, ofta om barn
+
 发音提示：BU-sig（两音节，重音在前）
 
 ## 语法变形 (Forms)

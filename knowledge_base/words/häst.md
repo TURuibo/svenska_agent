@@ -9,7 +9,7 @@ zh: "马"
 en: "horse"
 synonyms: []
 antonyms: []
-family: []
+family: [hästkapplöpning, hästsko]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # häst — substantiv (en)
 
 📖 中文：马 · English: horse
+
+🇸🇪 Förklaring: stort djur med fyra ben, man och lång svans som människor rider på eller låter dra vagnar
+
 发音提示：/hɛst/
 
 ## 语法变形 (Forms)

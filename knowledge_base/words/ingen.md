@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "没有人；没有任何（东西）"
 en: "no one; nobody; none; no"
-synonyms: []
-antonyms: ["någon", "alla"]
-family: ["ingenting", "inget"]
+synonyms: [inte-någon]
+antonyms: [någon, alla]
+family: [ingenting, inget]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ingen — pronomen
 
 📖 中文：没有人；没有任何（东西） · English: no one; nobody; none; no
+
+🇸🇪 Förklaring: inte en enda person; inte någon sak av ett visst slag
+
 发音提示：/ˈɪŋɛn/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ingenting]] (什么都没有)
-- 同义词: inte någon (不是某个)
-- 反义词: [[någon]] (某人/某个)
+- 词族: [[ingenting]] (什么都没有), [[inget]]
+- 同义词: [[inte-någon|inte någon]] (不是某个)
+- 反义词: [[någon]] (某人/某个), [[alla]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

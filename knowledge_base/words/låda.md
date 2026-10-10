@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "抽屉 / 盒子"
 en: "drawer / box"
-synonyms: []
+synonyms: [ask, kartong]
 antonyms: []
-family: []
+family: [byrålåda, brevlåda, lådvin]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # låda — substantiv
 
 📖 中文：抽屉 / 盒子 · English: drawer / box
+
+🇸🇪 Förklaring: 1) del i en möbel som man drar ut och lägger saker i; 2) fyrkantig behållare med eller utan lock
+
 发音提示：['loː.da]
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ Deklination 1 (–a → –or plural).
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[byrålåda]] (抽屉), [[brevlåda]] (信箱), [[lådvin]] (盒装酒)
+- 同义词: [[ask]] (盒子), [[kartong]] (纸箱)
 - 反义词: —
 - 主题: —
 

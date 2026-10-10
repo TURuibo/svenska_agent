@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "毛茸茸的"
 en: "shaggy/furry"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [hårig]
+antonyms: [välkammad]
+family: [lurvighet]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # lurvig — adjektiv
 
 📖 中文：毛茸茸的 · English: shaggy/furry
+
+🇸🇪 Förklaring: som har långt, tjockt och rufsigt hår eller päls
+
 发音提示：/ˈlʉːrvɪɡ/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 - 词族: [[lurvighet]] (蓬乱)
 - 同义词: [[hårig]] (多毛的)
-- 反义词: —
+- 反义词: [[välkammad]] (梳理整齐的)
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

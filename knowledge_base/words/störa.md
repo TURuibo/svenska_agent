@@ -7,10 +7,9 @@ genus: ""
 cefr: A2
 zh: "打扰/干扰"
 en: "to disturb, to bother"
-synonyms: []
+synonyms: [besvära, avbryta]
 antonyms: []
-family:
-  - "[[förstöra]]"
+family: [förstöra]
 topics:
   - "[[topic-allemansratten]]"
 sentences:
@@ -27,6 +26,9 @@ interval: 0
 # störa — verb
 
 📖 中文：打扰/干扰 · English: to disturb, to bother
+
+🇸🇪 Förklaring: göra det svårt för någon att vara i lugn och ro eller att koncentrera sig
+
 发音提示：/ˈstøːrɑ/；ö 发 [øː]（长音），类似法语 eu
 
 ## 语法变形 (Forms)
@@ -57,7 +59,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förstöra]]（破坏，字面"弄坏"）
-- 同义词: —
+- 同义词: [[besvära]] (打扰), [[avbryta]] (打断)
 - 反义词: —
 - 主题: [[topic-allemansratten]]
 

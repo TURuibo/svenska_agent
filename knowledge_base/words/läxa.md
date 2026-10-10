@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "家庭作业"
 en: "homework"
-synonyms: []
+synonyms: [hemuppgift]
 antonyms: []
-family: []
+family: [läxförhör, läxhjälp, läxläsning]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # läxa — substantiv (en-ord)
 
 📖 中文：家庭作业 · English: homework
+
+🇸🇪 Förklaring: uppgift från skolan som eleven ska göra hemma
+
 发音提示：LÄK-sa
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[läxförhör]] (功课抽查), [[läxhjälp]] (作业辅导), [[läxläsning]] (做功课)
+- 同义词: [[hemuppgift]] (家庭作业)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

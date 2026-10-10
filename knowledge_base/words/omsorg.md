@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "照护"
 en: "care"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [vård, omtanke]
+antonyms: [vanvård, försummelse]
+family: [äldreomsorg, barnomsorg, omsorgsfull]
 topics: ["topic-geografi-samhalle"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # omsorg — substantiv
 
 📖 中文：照护 · English: care
-发音提示：
+
+🇸🇪 Förklaring: det att man tar hand om någon och bryr sig om att hen mår bra
+
+发音提示：/ˈɔmˌsɔrj/ — rg 的 g 读 j；重音在 om
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[äldreomsorg]] (养老照护), [[barnomsorg]] (托儿服务), [[omsorgsfull]] (细心的)
+- 同义词: [[vård]] (照料), [[omtanke]] (关怀)
+- 反义词: [[vanvård]] (照料不周), [[försummelse]] (疏忽)
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

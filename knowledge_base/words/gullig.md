@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "可爱的"
 en: "cute"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [söt]
+antonyms: [ful]
+family: [gulligast]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gullig — adjektiv
 
 📖 中文：可爱的 · English: cute
+
+🇸🇪 Förklaring: som är söt och väcker ömma känslor, till exempel ett litet barn eller djur
+
 发音提示：/ˈɡʉllɪɡ/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 - 词族: [[gulligast]] (superl.)
 - 同义词: [[söt]] (甜的；可爱的)
-- 反义词: —
+- 反义词: [[ful]] (丑的)
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

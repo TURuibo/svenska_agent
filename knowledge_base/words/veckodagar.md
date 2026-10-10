@@ -7,8 +7,8 @@ genus: "en"
 cefr: "A2"
 zh: "工作日；平日（周一至周五，非周末）"
 en: "weekday"
-synonyms: []
-antonyms: [helgdag]
+synonyms: [vardag, arbetsdag]
+antonyms: [helgdag, helg]
 family: [vecka, dag]
 topics: []
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # veckodag — substantiv (en)
 
 📖 中文：工作日；平日（周一至周五，非周末） · English: weekday
+
+🇸🇪 Förklaring: dag från måndag till fredag, som inte är helgdag
+
 发音提示：**vec**-ko-dag，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vecka]] (周), [[dag]] (天/日)
-- 同义词: —
-- 反义词: [[helgdag]] (节假日), `helg` (周末)
+- 同义词: [[vardag]] (工作日), [[arbetsdag]] (上班日)
+- 反义词: [[helgdag]] (节假日), [[helg]] (周末)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

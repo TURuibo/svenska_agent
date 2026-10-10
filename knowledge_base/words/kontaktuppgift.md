@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "联系方式"
 en: "contact details"
-synonyms: []
+synonyms: [kontaktinformation]
 antonyms: []
-family: []
+family: [kontakt, kontakta, uppgift]
 topics: []
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # kontaktuppgift — substantiv
 
 📖 中文：联系方式 · English: contact details
-发音提示：
+
+🇸🇪 Förklaring: information om hur man når någon, t.ex. telefonnummer, adress eller e-post
+
+发音提示：/kɔnˈtaktˌɵpjɪft/ — 重音在 -takt；uppgift 的 g 读 j
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[kontakt]] (联系), [[kontakta]] (联系), [[uppgift]] (信息；资料)
+- 同义词: [[kontaktinformation]] (联系信息)
+- 反义词: —
 - 主题: [[]]
 
 ## 用法提示 (Usage Notes)

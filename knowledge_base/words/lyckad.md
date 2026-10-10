@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "成功的；顺利的"
 en: "successful; well-executed"
-synonyms: ["framgångsrik"]
-antonyms: ["misslyckad"]
-family: ["lyckas", "lycka", "lycklig"]
+synonyms: [framgångsrik]
+antonyms: [misslyckad]
+family: [lyckas, lycka, lycklig]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: 2026-10-07
 # lyckad — adjektiv
 
 📖 中文：成功的；顺利的 · English: successful; well-executed
+
+🇸🇪 Förklaring: som har gått bra och blivit som man ville
+
 发音提示：/ˈlʏkːad/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lyckas]], [[lycka]]
+- 词族: [[lyckas]], [[lycka]], [[lycklig]] (快乐的/幸福的)
 - 同义词: [[framgångsrik]]
 - 反义词: [[misslyckad]]
 

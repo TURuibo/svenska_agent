@@ -6,12 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "租金"
 en: "rent"
-synonyms: []
+synonyms: [hyresavgift]
 antonyms: []
-family:
-  - uthyra
-  - hyresgäst
-  - hyresrätt
+family: [uthyra, hyresgäst, hyresrätt]
 topics:
   - topic-hemmet
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # hyra — substantiv en
 
 📖 中文：租金 · English: rent
+
+🇸🇪 Förklaring: pengar som man betalar varje månad för att få bo i en bostad eller använda något som någon annan äger
+
 发音提示：/HY-ra/
 
 ## 语法变形 (Forms)
@@ -52,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[uthyra]]（出租）· [[hyresgäst]]（租户）
+- 词族: [[uthyra]]（出租）· [[hyresgäst]]（租户）, [[hyresgäst]], [[hyresrätt]]
+- 同义词: [[hyresavgift]] (租金)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

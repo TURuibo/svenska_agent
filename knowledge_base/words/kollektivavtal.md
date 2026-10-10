@@ -8,7 +8,7 @@ zh: "集体协议；劳动合同（集体）"
 en: "collective agreement"
 synonyms: []
 antonyms: []
-family: []
+family: [avtal, kollektiv, anställningsavtal]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kollektivavtal — substantiv
 
 📖 中文：集体协议；集体劳动合同 · English: collective agreement
+
+🇸🇪 Förklaring: avtal om löner och villkor som fackförbund och arbetsgivare gör för många anställda
+
 发音提示：kol-LEK-tiv-av-tal（五音节，stress 在第二音节）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[avtal]] (协议), [[kollektiv]] (集体), [[anställningsavtal]] (雇佣合同)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

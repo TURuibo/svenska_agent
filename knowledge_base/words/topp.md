@@ -7,7 +7,7 @@ genus: "en"
 cefr: B1
 zh: 顶、顶端；顶峰
 en: top, peak
-synonyms: []
+synonyms: [spets, höjdpunkt]
 antonyms: [botten]
 family: [toppen]
 topics: []
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # topp — substantiv (en)
 
 📖 中文：顶、顶端；顶峰 · English: top, peak
+
+🇸🇪 Förklaring: den högsta delen av något, till exempel ett berg eller ett träd
+
 发音提示：/tɔpː/
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[toppen]]
-- 同义词:
-- 反义词: botten（底部）
+- 同义词: [[spets]] (尖端), [[höjdpunkt]] (顶峰)
+- 反义词: [[botten]]（底部）
 - 主题:
 
 ## 用法提示 (Usage Notes)

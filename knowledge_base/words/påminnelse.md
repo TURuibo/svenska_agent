@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "提醒"
 en: "reminder"
-synonyms: []
+synonyms: [erinran]
 antonyms: []
 family: [påminna]
 topics: [topic-förskola-system, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # påminnelse — substantiv (en)
 
 📖 中文：提醒 · English: reminder
+
+🇸🇪 Förklaring: meddelande eller signal som får någon att komma ihåg något
+
 发音提示：/poˈmɪnːɛlsɛ/；重音在 -**min**-；-else 名词均为 en-词，复数 -r。
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[påminna]]
+- 同义词: [[erinran]] (提醒)
+- 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

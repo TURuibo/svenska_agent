@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 协会、社团
 en: association, club
-synonyms: []
+synonyms: [klubb, sällskap]
 antonyms: []
 family: [föreningsliv]
 topics: [topic-sociala-normer]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # förening — substantiv (en)
 
 📖 中文：协会、社团 · English: association, club
+
+🇸🇪 Förklaring: grupp av människor som har gått samman kring ett gemensamt intresse eller mål och har egna regler
+
 发音提示：/fœrˈeːnɪŋ/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[föreningsliv]]
-- 同义词:
-- 反义词:
+- 同义词: [[klubb]] (俱乐部), [[sällskap]] (协会)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

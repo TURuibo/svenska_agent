@@ -18,6 +18,9 @@ created: "2026-09-22"
 # barack — substantiv (en)
 
 📖 中文：简易营房 · English: barrack, hut
+
+🇸🇪 Förklaring: enkel byggnad, ofta av trä, där till exempel soldater eller arbetare bor en kort tid
+
 发音提示：/baˈrakː/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[flygfält]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

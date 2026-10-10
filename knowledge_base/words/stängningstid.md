@@ -19,6 +19,9 @@ created: "2026-09-26"
 # stängningstid — substantiv (en)
 
 📖 中文：关门时间 · English: closing time
+
+🇸🇪 Förklaring: den tid på dagen när en butik eller en verksamhet slutar ha öppet
+
 发音提示：STÄNG-nings-tid，复合词重音在第一部分
 
 ## 语法变形 (Forms)

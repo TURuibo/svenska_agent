@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "高中前的（初中及以下）"
 en: "pre-upper-secondary"
 synonyms: []
-antonyms: []
+antonyms: [eftergymnasial]
 family: [eftergymnasial, gymnasial]
 topics: [topic-skola-och-utbildning]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # förgymnasial — adjektiv
 
 📖 中文：高中前的（初中及以下）· English: pre-upper-secondary
+
+🇸🇪 Förklaring: som gäller nivån före gymnasiet, alltså grundskolan
+
 发音提示： "för-gym-na-si-ál"
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ Sammansättning: `för`（之前）+ `gymnasial`（高中的）。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[eftergymnasial]]、[[gymnasial]]
-- 同义词: [[…]]
+- 词族: [[eftergymnasial]], [[gymnasial]]
+- 同义词: —
 - 反义词: [[eftergymnasial]]
 - 主题: [[topic-skola-och-utbildning]]
 

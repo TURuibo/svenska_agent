@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "会议, 会面"
 en: "meeting"
-synonyms: []
+synonyms: [sammanträde, träff]
 antonyms: []
-family: []
+family: [möta, mötesrum, mötesplats]
 topics: ["topic-samhälle-och-politik", "topic-arbete"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # möte — substantiv (ett)
 
 📖 中文：会议, 会面 · English: meeting
+
+🇸🇪 Förklaring: tillfälle då flera personer träffas för att prata om något
+
 发音提示：mö-te
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[möta]] (遇见), [[mötesrum]] (会议室), [[mötesplats]] (见面地点)
+- 同义词: [[sammanträde]] (会议), [[träff]] (见面)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]], [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

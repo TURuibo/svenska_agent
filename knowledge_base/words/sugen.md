@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: "A2"
 zh: "想要（某物）的；馋的；有欲望的"
 en: "craving; in the mood for; keen on"
-synonyms: []
+synonyms: [ha-lust]
 antonyms: []
-family: []
+family: [suga]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # sugen — adjektiv
 
 📖 中文：想要（某物）的；馋的；有欲望的 · English: craving; in the mood for; keen on
+
+🇸🇪 Förklaring: som har stor lust att äta, dricka eller göra något
+
 发音提示：SU-gen（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[suga]] (吸)
+- 同义词: [[ha-lust|ha lust]] (想要)
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

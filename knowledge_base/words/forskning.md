@@ -6,12 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "研究；科学研究"
 en: "research"
-synonyms:
-  - studie
+synonyms: [studie]
 antonyms: []
-family:
-  - forska
-  - forskare
+family: [forska, forskare]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # forskning — substantiv en
 
 📖 中文：研究；科学研究 · English: research
+
+🇸🇪 Förklaring: vetenskapligt arbete där man noga och systematiskt undersöker något för att få ny kunskap
+
 发音提示：/FORSK-ning/
 
 ## 语法变形 (Forms)
@@ -50,5 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: forska（动词：研究）· forskare（研究员）
+- 词族: [[forska]]（动词：研究）· forskare（研究员）, [[forskare]] (研究员)
+- 同义词: [[studie]]
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]

@@ -23,6 +23,9 @@ interval: 0
 # ansjovis — substantiv en
 
 📖 中文：凤尾鱼；腌凤尾鱼 · English: anchovy
+
+🇸🇪 Förklaring: liten fisk som ofta läggs in med salt och kryddor och används till exempel i Janssons frestelse
+
 发音提示：an-SHO-vis
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

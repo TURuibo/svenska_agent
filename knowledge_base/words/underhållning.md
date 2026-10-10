@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "娱乐"
 en: "entertainment"
-synonyms: []
+synonyms: [nöje, förströelse]
 antonyms: []
-family: ["underhållande", "underhålla"]
+family: [underhållande, underhålla]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # underhållning — substantiv (en)
 
 📖 中文：娱乐 · English: entertainment
+
+🇸🇪 Förklaring: något som är roligt att titta eller lyssna på, till exempel musik, film eller teater
+
 发音提示：UN-der-håll-ning
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[underhållande]]（娱乐性的，形容词）, [[underhålla]]（供养；使娱乐，动词）
+- 同义词: [[nöje]] (娱乐), [[förströelse]] (消遣)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

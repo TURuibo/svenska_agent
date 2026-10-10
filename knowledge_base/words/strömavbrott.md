@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "停电"
 en: "power outage"
-synonyms: []
+synonyms: [elavbrott]
 antonyms: []
-family: ["ström", "avbrott"]
+family: [ström, avbrott]
 topics: ["topic-vader-och-klimat"]
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-10"
 # strömavbrott — substantiv
 
 📖 中文：停电 · English: power outage
+
+🇸🇪 Förklaring: tillfälle när elen plötsligt försvinner i ett hus eller ett område
+
+发音提示：/ˈstrœmːavˌbrɔt/ — 主重音在 ström，次重音在 brott
 
 ## 语法变形 (Forms)
 
@@ -34,7 +38,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ström]] [[avbrott]]
+- 词族: [[ström]] [[avbrott]], [[avbrott]]
+- 同义词: [[elavbrott]] (断电)
+- 反义词: —
 - 主题: [[topic-vader-och-klimat]]
 
 ## 用法提示 (Usage Notes)

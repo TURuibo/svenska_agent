@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "慢的"
 en: "slow"
-synonyms: []
+synonyms: [sakta, trög]
 antonyms: [snabb]
-family: []
+family: [långsamhet]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # långsam — adjektiv
 
 📖 中文：慢的 · English: slow
+
+🇸🇪 Förklaring: som rör sig med låg fart eller som tar lång tid
+
 发音提示：/ˈlɔŋˌsɑːm/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[långsamhet]] (缓慢)
-- 同义词: —
+- 同义词: [[sakta]] (慢的), [[trög]] (迟缓的)
 - 反义词: [[snabb]]
 - 主题: [[topic-djur]]
 

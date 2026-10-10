@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 奋斗/斗争
 en: to fight, to struggle
-synonyms: []
-antonyms: []
-family: []
+synonyms: [strida]
+antonyms: [ge-upp]
+family: [kamp, kämpe]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kämpa — verb (v.1)
 
 📖 中文：奋斗/斗争 · English: to fight, to struggle
+
+🇸🇪 Förklaring: anstränga sig mycket för att nå något eller vinna över någon
+
 发音提示：KÄMP-a；元音 `ä` 短促。
 
 ## 语法变形 (Forms)
@@ -55,7 +58,7 @@ interval: 0
 
 - 词族: [[kamp]] (en, 斗争/奋斗), [[kämpe]] (en, 战士/勇士)
 - 同义词: [[strida]] (v. 战斗，较正式)
-- 反义词: [[ge upp]] (phrase, 放弃)
+- 反义词: [[ge-upp|ge upp]] (phrase, 放弃)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A2
 zh: 品尝；尝起来
 en: to taste; to try
-synonyms: []
+synonyms: [provsmaka]
 antonyms: []
-family: []
+family: [smak, smaklig, välsmakande]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # smaka — verb (grupp 1)
 
 📖 中文：品尝；尝起来 · English: to taste; to try
+
+🇸🇪 Förklaring: 1) äta eller dricka lite av något för att känna hur det är; 2) ge en viss känsla i munnen, t.ex. sött eller salt
+
 发音提示：SMAH-kah
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: smak (口味/味道), smaklig (美味的), välsmakande (好吃的)
+- 词族: [[smak]] (口味/味道), [[smaklig]] (美味的), [[välsmakande]] (好吃的)
+- 同义词: [[provsmaka]] (品尝)
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "成熟的、熟的"
 en: "ripe, mature"
-synonyms: []
-antonyms: ["rå"]
-family: []
+synonyms: [vuxen]
+antonyms: [rå]
+family: [mognad, mogna]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # mogen — adjektiv
 
 📖 中文：成熟的、熟的 · English: ripe, mature
+
+🇸🇪 Förklaring: (om frukt) som är färdig att äta; (om person) som tänker och beter sig som en vuxen
+
 发音提示：['moːɡən]
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mognad (成熟度), mogna (变熟 v)
-- 同义词: —
+- 词族: [[mognad]] (成熟度), [[mogna]] (变熟 v)
+- 同义词: [[vuxen]] (成年的)
 - 反义词: [[rå]]
 - 主题: [[topic-mat-dryck]]
 

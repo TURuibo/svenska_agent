@@ -9,7 +9,7 @@ zh: "表/堂兄弟姐妹"
 en: "cousin"
 synonyms: []
 antonyms: []
-family: ["faster", "moster", "farbror", "morbror"]
+family: [faster, moster, farbror, morbror]
 topics: ["topic-familj-och-barn", "topic-personer"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kusin — substantiv (en)
 
 📖 中文：表/堂兄弟姐妹 · English: cousin
+
+🇸🇪 Förklaring: barn till ens förälders syster eller bror
+
 发音提示：/kʉˈsiːn/
 
 ## 语法变形 (Forms)
@@ -38,7 +41,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[faster]], [[moster]]
+- 词族: [[faster]], [[moster]], [[farbror]], [[morbror]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-familj-och-barn]], [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "干净的、清洁的"
 en: "clean, pure"
-synonyms: []
-antonyms: ["smutsig"]
-family: []
+synonyms: [fläckfri, oblandad]
+antonyms: [smutsig]
+family: [rengöra, renlighet, rengöring]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ren — adjektiv
 
 📖 中文：干净的、清洁的 · English: clean, pure
+
+🇸🇪 Förklaring: som är fri från smuts och fläckar; som inte är blandad med något annat
+
 发音提示：[reːn]
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: rengöra (清洁 v), renlighet (清洁度 n), rengöring (清洁)
-- 同义词: —
+- 词族: [[rengöra]] (清洁 v), [[renlighet]] (清洁度 n), [[rengöring]] (清洁)
+- 同义词: [[fläckfri]] (无污渍的), [[oblandad]] (纯的)
 - 反义词: [[smutsig]]（脏的）
 - 主题: [[topic-mat-dryck]]
 

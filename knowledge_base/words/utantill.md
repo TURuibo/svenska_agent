@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: B1
 zh: 凭记忆；背诵地
 en: by heart
-synonyms: []
+synonyms: [ur-minnet]
 antonyms: []
-family: []
+family: [utan, utanför]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-öva-hemma-men-försök-inte]
 source: source-2026-10-09-komvux-kursstart
@@ -18,6 +18,10 @@ created: "2026-10-09"
 # utantill — adverb
 
 📖 中文：凭记忆；背诵地 · English: by heart
+
+🇸🇪 Förklaring: så att man kan något helt ur minnet, utan att titta i en text
+
+发音提示：/ʉtanˈtɪlː/ — 重音在最后的 till
 
 ## 语法变形 (Forms)
 
@@ -38,6 +42,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[utan]] (没有), [[utanför]] (在外面)
+- 同义词: [[ur-minnet|ur minnet]] (凭记忆)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

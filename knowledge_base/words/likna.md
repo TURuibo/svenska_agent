@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 像；类似（liknande = 类似的）
 en: to resemble (liknande = similar)
-synonyms: []
-antonyms: []
-family: []
+synonyms: [påminna-om, se-ut-som]
+antonyms: [skilja-sig]
+family: [liknande, lik, likhet, liknelse]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # likna — verb (grupp 1)
 
 📖 中文：像；类似（liknande = 类似的） · English: to resemble (liknande = similar)
+
+🇸🇪 Förklaring: vara eller se ut nästan som någon eller något annat
+
+发音提示：/ˈliːkna/ — i 读长音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[liknande]] (类似的), [[lik]] (像), [[likhet]] (相似之处), [[liknelse]] (比喻)
+- 同义词: [[påminna-om|påminna om]] (让人想起), [[se-ut-som|se ut som]] (看起来像)
+- 反义词: [[skilja-sig|skilja sig]] (不同)
 - 主题:
 
 ## 用法提示 (Usage Notes)

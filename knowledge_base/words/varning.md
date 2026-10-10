@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "警告"
 en: "warning"
-synonyms: []
+synonyms: [förvarning]
 antonyms: []
 family: [varna]
 topics: [topic-samhälle-och-politik]
@@ -24,6 +24,9 @@ interval: 0
 # varning — substantiv (en)
 
 📖 中文：警告 · English: warning
+
+🇸🇪 Förklaring: information om att något farligt eller dåligt kan hända; tillsägelse som ett lindrigt straff
+
 发音提示：VAR-ning；短促清晰的 a。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[varna]] (动词：警告)
-- 同义词: —
+- 同义词: [[förvarning]] (预警)
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "接园；接孩子"
 en: "pick-up (from preschool)"
-synonyms: []
+synonyms: [upphämtning]
 antonyms: [lämning]
 family: [hämta, lämning]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # hämtning — substantiv (en)
 
 📖 中文：接园；接孩子 · English: pick-up (from preschool)
+
+🇸🇪 Förklaring: tillfälle när en förälder tar med sig barnet hem från förskolan eller skolan
+
 发音提示：/ˈhɛmtnɪŋ/ — 重音在第一音节 HÄMT-ning，ä 读 [ɛ]。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hämta]], [[lämning]]
-- 同义词: —
+- 同义词: [[upphämtning]] (接取)
 - 反义词: [[lämning]]
 - 主题: [[topic-förskola-vardag]]
 

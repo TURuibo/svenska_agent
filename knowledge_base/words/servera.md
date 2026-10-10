@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "端菜；上菜；服务"
 en: "to serve"
-synonyms: []
+synonyms: [duka-fram, bjuda-på]
 antonyms: []
-family: ["servitör", "servering"]
+family: [servitör, servering]
 topics: ["topic-kafe-fika", "topic-arbete-och-jobb"]
 sentences: ["sent-jag-diskar-och-serverar-kaffe"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # servera — verb
 
 📖 中文：端菜；上菜；服务 · English: to serve
+
+🇸🇪 Förklaring: bära fram eller lägga upp mat och dryck åt någon
+
 发音提示：/sɛrˈveːra/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[servitör]], [[servering]]
+- 同义词: [[duka-fram|duka fram]] (摆上桌), [[bjuda-på|bjuda på]] (请（吃喝）)
+- 反义词: —
 - 主题: [[topic-kafe-fika]], [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

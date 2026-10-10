@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "直接地；立刻；直接的"
 en: "directly; right away; direct"
-synonyms: ["genast", "omedelbart", "rakt"]
-antonyms: ["indirekt", "senare"]
-family: []
+synonyms: [genast, omedelbart, rakt]
+antonyms: [indirekt, senare]
+family: [direktflyg, direktsändning]
 topics: []
 sentences:
   - "sent-sjalvklart-varsagod-jag-stamplar"
@@ -24,6 +24,9 @@ interval: 0
 # direkt — adjektiv/adverb
 
 📖 中文：直接地；立刻；直接的 · English: directly; right away; direct
+
+🇸🇪 Förklaring: 1) utan att vänta, med en gång; 2) utan omvägar och utan något emellan
+
 发音提示：/dɪˈrɛkt/；法语/拉丁语借词。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: [[genast]] (立刻/马上), omedelbart（即刻）
-- 反义词: indirekt（间接地）
+- 词族: [[direktflyg]] (直飞航班), [[direktsändning]] (直播)
+- 同义词: [[genast]] (立刻/马上), [[omedelbart]]（即刻）, [[rakt]]
+- 反义词: [[indirekt]]（间接地）, [[senare]]
 - 主题: —
 
 ## 用法提示 (Usage Notes)

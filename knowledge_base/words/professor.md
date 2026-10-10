@@ -9,7 +9,7 @@ zh: 教授
 en: professor
 synonyms: []
 antonyms: []
-family: []
+family: [professur, gästprofessor]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-anne-carson-från-kanada-får-nobelpriset]
 known: false
@@ -19,6 +19,9 @@ created: 2026-10-09
 # professor — substantiv (en)
 
 📖 中文：教授 · English: professor
+
+🇸🇪 Förklaring: lärare och forskare med den högsta tjänsten på ett universitet
+
 发音提示：pro-FESS-or(重音在第二音节)
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: 2026-10-09
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[professur]] (教授职位), [[gästprofessor]] (客座教授)
+- 同义词: —
+- 反义词: —
 - 同义/相关: [[lärare]]
 - 主题: [[topic-skola-och-utbildning]]
 

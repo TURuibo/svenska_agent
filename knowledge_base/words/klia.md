@@ -9,7 +9,7 @@ zh: 发痒/痒
 en: to itch
 synonyms: []
 antonyms: []
-family: []
+family: [klåda]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # klia — verb (v.3)
 
 📖 中文：发痒/痒 · English: to itch
+
+🇸🇪 Förklaring: ge en irriterande känsla i huden som gör att man vill dra naglarna över den
+
 发音提示：KLI-a；元音 `i` 长音。
 
 ## 语法变形 (Forms)

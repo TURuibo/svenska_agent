@@ -8,10 +8,8 @@ cefr: "A1"
 zh: "左；左边"
 en: "left"
 synonyms: []
-antonyms:
-  - höger
-family:
-  - höger
+antonyms: [höger]
+family: [vänstersida, vänsterhänt, höger]
 topics:
   - topic-riktningar
 sentences:
@@ -29,6 +27,9 @@ interval: 0
 # vänster — substantiv / adverb
 
 📖 中文：左；左边 · English: left
+
+🇸🇪 Förklaring: den sida som hos en människa är på samma håll som hjärtat
+
 发音提示：VÄN-ster；两音节。
 
 ## 语法变形 (Forms)
@@ -55,7 +56,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[vänstersida]] (左侧), [[vänsterhänt]] (左撇子)
+- 词族: [[vänstersida]] (左侧), [[vänsterhänt]] (左撇子), [[höger]]
 - 同义词: —
 - 反义词: [[höger]]
 - 主题: [[topic-riktningar]]

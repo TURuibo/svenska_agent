@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "施压；压榨；熨烫"
 en: "to press, pressure; to squeeze; to iron"
-synonyms: []
+synonyms: [trycka, klämma, stryka]
 antonyms: []
-family: ["press", "tryck"]
+family: [press, tryck]
 topics: ["topic-krig-och-konflikt", "topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # pressa — verb (grupp 1)
 
 📖 中文：施压；压榨；熨烫 · English: to press, pressure; to squeeze; to iron
+
+🇸🇪 Förklaring: 1) försöka tvinga någon att göra något; 2) trycka hårt så att saft eller vätska kommer ut; 3) göra kläder släta med ett strykjärn
+
 发音提示：['prɛsa]
 
 ## 语法变形 (Forms)
@@ -57,6 +60,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[press]], [[tryck]]
+- 同义词: [[trycka]] (压), [[klämma]] (挤), [[stryka]] (熨)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "钟/表;点钟"
 en: "clock/watch"
-synonyms: []
+synonyms: [ur]
 antonyms: []
-family: []
+family: [väckarklocka, kyrkklocka, klockslag]
 topics: [topic-tid-och-tidsuttryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # klocka — substantiv (en)
 
 📖 中文：钟；表；点钟 · English: clock / watch
+
+🇸🇪 Förklaring: apparat som visar vad tiden är, på väggen eller runt handleden; används också för att säga tiden, till exempel klockan tre
+
 发音提示：/ˈklɔkːa/；双写 ck（发 k 音）。
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[väckarklocka]] (闹钟), [[kyrkklocka]] (教堂钟), [[klockslag]] (钟点)
+- 同义词: [[ur]] (表)
 - 反义词: —
 - 主题: [[topic-tid-och-tidsuttryck]]
 

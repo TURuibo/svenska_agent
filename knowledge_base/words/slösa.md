@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "浪费、乱花"
 en: "waste/squander"
-synonyms: []
+synonyms: [ödsla, förslösa]
 antonyms: [spara]
-family: []
+family: [slöseri, slösaktig, slösa-bort]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # slösa — verb
 
 📖 中文：浪费、乱花 · English: waste/squander
+
+🇸🇪 Förklaring: använda pengar, tid eller saker på ett onödigt eller dumt sätt
+
 发音提示：SLÖ-sa
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
+- 词族: [[slöseri]] (浪费), [[slösaktig]] (浪费的), [[slösa-bort|slösa bort]] (浪费掉)
+- 同义词: [[ödsla]] (浪费), [[förslösa]] (挥霍)
 - 反义词: [[spara]]
 - 主题: [[…]]
 

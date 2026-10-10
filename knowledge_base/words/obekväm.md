@@ -7,7 +7,7 @@ genus: ""
 cefr: A2
 zh: 不舒适的
 en: uncomfortable
-synonyms: []
+synonyms: [besvärlig, obehaglig]
 antonyms: [bekväm]
 family: [bekväm, bekvämlighet]
 topics: [topic-karaktarsord]
@@ -23,6 +23,9 @@ interval: 0
 # obekväm — adjektiv
 
 📖 中文：不舒适的 · English: uncomfortable
+
+🇸🇪 Förklaring: som inte känns skön eller avslappnad; som gör att man känner sig besvärad
+
 发音提示：o-be-KVÄM；重音在第三音节，元音 `ä` 短促。
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bekväm]] (adj, 舒适的), [[bekvämlighet]] (en, 舒适/便利)
-- 同义词: —
+- 同义词: [[besvärlig]] (别扭的), [[obehaglig]] (不舒服的)
 - 反义词: [[bekväm]] (adj, 舒适的)
 - 主题: [[topic-karaktarsord]]
 

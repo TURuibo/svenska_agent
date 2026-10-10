@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "松树"
 en: "pine tree"
-synonyms: []
+synonyms: [fura]
 antonyms: []
-family: []
+family: [tallskog, tallkott, tallbarr]
 topics: ["topic-natur-skog"]
 sentences: ["sent-pa-vintern-ater-den-kvistar-fran-bjork"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tall — substantiv
 
 📖 中文：松树 · English: pine tree
+
+🇸🇪 Förklaring: barrträd med långa barr två och två och rödaktig bark högt upp på stammen
+
 发音提示：["tall"]，单音节，ll发音
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tallskog, tallkott, tallbarr
+- 词族: [[tallskog]], [[tallkott]], [[tallbarr]]
+- 同义词: [[fura]] (松树)
+- 反义词: —
 - 主题: [[topic-natur-skog]]
 
 ## 用法提示 (Usage Notes)

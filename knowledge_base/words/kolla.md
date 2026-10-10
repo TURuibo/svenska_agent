@@ -22,6 +22,9 @@ interval: 0
 # kolla — verb (grupp 1)
 
 📖 中文：查看；检查（口语） · English: to check; to look at
+
+🇸🇪 Förklaring: titta på något för att se hur det är eller om det stämmer (vardagligt)
+
 发音提示：KOL-la（重音在第一音节）
 
 ## 语法变形 (Forms)

@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "毛茸茸的、羊毛般的"
 en: "woolly"
-synonyms: ["lurvig"]
+synonyms: [lurvig]
 antonyms: []
-family: ["ull"]
+family: [ull]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ullig — adjektiv
 
 📖 中文：毛茸茸的、羊毛般的 · English: woolly
+
+🇸🇪 Förklaring: som är mjuk och tjock som pälsen på ett får
+
 发音提示：/ˈɵlːɪɡ/
 
 ## 语法变形 (Forms)

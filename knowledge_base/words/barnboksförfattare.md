@@ -23,6 +23,9 @@ interval: 0
 # barnboksförfattare — substantiv (en)
 
 📖 中文：儿童书作家 · English: children's book author
+
+🇸🇪 Förklaring: person som skriver böcker för barn
+
 发音提示：BARN-boks-för-fat-ta-re；长复合词，重音在第一音节。
 
 ## 语法变形 (Forms)

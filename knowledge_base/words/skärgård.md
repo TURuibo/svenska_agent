@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "群岛，列岛"
 en: "archipelago"
-synonyms: []
+synonyms: [arkipelag]
 antonyms: []
-family: ["skär"]
+family: [skär, gård]
 topics: ["topic-hav-och-kust", "topic-natur-och-miljo"]
 sentences: ["sent-fisken-var-mer-eller-mindre-forsvunnen", "sent-efter-att-industrins-stora-batar-har"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # skärgård — substantiv (en)
 
 📖 中文：群岛，列岛 · English: archipelago
+
+🇸🇪 Förklaring: område längs kusten med många små öar och klippor
+
 发音提示：[ˈɧæːrˌɡoːrd] — 重音在第一音节，å 发音较长
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: skär (ett — 礁岩/小岛), gård (en — 庭院/农场)
-- 同义词: arkipelag (mer formellt/vetenskapligt)
+- 词族: [[skär]] (ett — 礁岩/小岛), [[gård]] (en — 庭院/农场)
+- 同义词: [[arkipelag]] (mer formellt/vetenskapligt)
 - 反义词: —
 - 主题: [[topic-hav-och-kust]], [[topic-natur-och-miljo]]
 

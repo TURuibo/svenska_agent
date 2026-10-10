@@ -7,10 +7,9 @@ verbgrupp: ""
 cefr: A2
 zh: "农田"
 en: "(agricultural) field"
-synonyms: []
+synonyms: [fält, odlingsmark]
 antonyms: []
-family:
-  - "[[jordbruk]]"
+family: [jordbruk, bonde]
 topics:
   - "[[topic-allemansratten]]"
 sentences:
@@ -26,6 +25,9 @@ interval: 0
 # åker — substantiv (en)
 
 📖 中文：农田 · English: (agricultural) field
+
+🇸🇪 Förklaring: område på landet där man odlar säd, potatis eller andra grödor
+
 发音提示：/ˈoːkɛr/；å 发 [oː]（长音）
 
 ## 语法变形 (Forms)
@@ -49,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[jordbruk]]（农业）、bonde（农民）
-- 同义词: —
+- 词族: [[jordbruk]]（农业）, [[bonde]]（农民）
+- 同义词: [[fält]] (田地), [[odlingsmark]] (耕地)
 - 反义词: —
 - 主题: [[topic-allemansratten]]
 

@@ -8,7 +8,7 @@ zh: "鸡蛋"
 en: "egg"
 synonyms: []
 antonyms: []
-family: []
+family: [ägghvita, äggula, äggröra]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ägg — substantiv (ett-ord)
 
 📖 中文：鸡蛋 · English: egg
+
+🇸🇪 Förklaring: runt eller ovalt föremål med skal som fåglar lägger och som man kan äta
+
 发音提示：[ɛgː]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ägghvita (蛋白), äggula (蛋黄), äggröra (炒蛋)
+- 词族: [[ägghvita]] (蛋白), [[äggula]] (蛋黄), [[äggröra]] (炒蛋)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

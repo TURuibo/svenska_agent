@@ -8,8 +8,8 @@ cefr: A2
 zh: 与众不同的/不一样
 en: different, unusual
 synonyms: [olik, speciell, unik]
-antonyms: []
-family: []
+antonyms: [vanlig, likadan]
+family: [annan, annars]
 topics: [topic-karaktarsord]
 sentences: [sent-de-var-oroliga-att-barn-som-laste-om-pippi]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # annorlunda — adjektiv/adverb (invariabel)
 
 📖 中文：与众不同的/不一样 · English: different, unusual
+
+🇸🇪 Förklaring: som skiljer sig från det vanliga eller från något annat
+
 发音提示：an-nor-LUN-da；重音在第三音节。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[annan]] (另一个), [[annars]] (否则)
 - 同义词: [[olik]] (adj, 不同的), [[speciell]] (adj, 特别的), [[unik]] (adj, 独特的)
 - 反义词: [[vanlig]] (adj, 普通的/常见的), [[likadan]] (adj, 一样的)
 - 主题: [[topic-karaktarsord]]

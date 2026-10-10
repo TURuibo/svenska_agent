@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "记忆；回忆"
 en: "memory"
-synonyms: []
+synonyms: [hågkomst, erinring]
 antonyms: [glömska]
 family: [minnas]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-05
 # minne — substantiv en/ett: ett
 
 📖 中文：记忆；回忆 · English: memory
+
+🇸🇪 Förklaring: förmågan att komma ihåg saker; något som man kommer ihåg från förr
+
+发音提示：/ˈmɪnːɛ/ — i 短；nn 读长辅音
 
 ## 语法变形 (Forms)
 
@@ -42,7 +46,7 @@ created: 2026-10-05
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[minnas]]
-- 同义词: —
+- 同义词: [[hågkomst]] (回忆), [[erinring]] (回忆)
 - 反义词: [[glömska]]
 - 主题: [[topic-argumentation]]
 

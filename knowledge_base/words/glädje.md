@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 快乐/喜悦
 en: joy / happiness
-synonyms: ["lycka", "glädje", "välmående"]
-antonyms: ["sorg", "ledsenhet", "tristess"]
-family: ["glad", "glädja"]
+synonyms: [lycka, välmående]
+antonyms: [sorg, ledsenhet, tristess]
+family: [glad, glädja]
 topics: ["topic-midsommar-traditioner"]
 sentences:
   - sent-midsommar-ar-en-tid-for-gladje
@@ -23,6 +23,9 @@ interval: 0
 # glädje — substantiv (en)
 
 📖 中文：快乐/喜悦 · English: joy / happiness
+
+🇸🇪 Förklaring: känsla av att vara lycklig och nöjd
+
 发音提示：GLÄD-je（两音节，软 j 音）
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[glad]]（高兴的，形容词），[[glädja]]（使高兴，动词）
+- 词族: [[glad]]（高兴的，形容词）, [[glädja]]（使高兴，动词）
 - 同义词: [[lycka]]（幸福）, [[välmående]]（安好）
-- 反义词: [[sorg]]（悲伤）, [[ledsenhet]]（伤心）
+- 反义词: [[sorg]]（悲伤）, [[ledsenhet]]（伤心）, [[tristess]]
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

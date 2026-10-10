@@ -8,7 +8,7 @@ zh: 南瓜
 en: pumpkin
 synonyms: []
 antonyms: []
-family: []
+family: [pumpasoppa, pumpafrö]
 topics: []
 sentences: [sent-hans-pumpa-vägde-1-200-kilo, sent-det-har-varit-en-tävling-om-stora-pumpor, sent-världens-rekord-för-en-pumpa-är-1-279-kilo]
 known: false
@@ -18,6 +18,9 @@ created: 2026-10-07
 # pumpa — substantiv (en)
 
 📖 中文：南瓜 · English: pumpkin
+
+🇸🇪 Förklaring: stor, rund och ofta orange frukt med hårt skal som man äter som grönsak
+
 发音提示：[ˈpɵ̂mpa]
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: pumpasoppa, pumpafrö
+- 词族: [[pumpasoppa]], [[pumpafrö]]
+- 同义词: —
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

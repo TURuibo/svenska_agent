@@ -9,7 +9,7 @@ zh: "荷兰的"
 en: "Dutch, of the Netherlands"
 synonyms: [holländsk]
 antonyms: []
-family: [Nederländerna, Holland, nederlandare]
+family: [nederländerna, nederlandare, holland]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # nederländsk — adjektiv
 
 📖 中文：荷兰的 · English: Dutch, of the Netherlands
+
+🇸🇪 Förklaring: som kommer från eller har med Nederländerna att göra
+
 发音提示：/ˈneːdɛrˌlɛndsk/；五音节，重音在 ne-。
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[Nederländerna]] (prop. 荷兰), [[nederlandare]] (en, 荷兰人)
+- 词族: [[nederländerna|Nederländerna]] (prop. 荷兰), [[nederlandare]] (en, 荷兰人), [[holland]]
 - 同义词: [[holländsk]] (荷兰的，口语/非正式)
 - 反义词: —
 - 主题: —

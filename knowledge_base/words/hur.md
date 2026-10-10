@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "怎样，如何"
 en: "how"
-synonyms: []
+synonyms: [på-vilket-sätt]
 antonyms: []
-family: []
+family: [hurdan, hursomhelst]
 topics: []
 sentences: ["sent-hur-kämpade-elin-för-kvinnors", "sent-hur-arbetade-kvinnorättsrörelsen", "sent-hur-påverkades-sverige-av-oroligheterna"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hur — adverb (frågeord)
 
 📖 中文：怎样，如何 · English: how
+
+🇸🇪 Förklaring: frågeord som används för att fråga om sätt, grad eller tillstånd, till exempel om någon mår bra
+
 发音提示："HUUR"
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[hurdan]] (什么样的), [[hursomhelst]] (不管怎样)
+- 同义词: [[på-vilket-sätt|på vilket sätt]] (以何种方式)
 - 反义词: —
 - 主题: —
 

@@ -8,7 +8,7 @@ zh: "松鼠"
 en: "squirrel"
 synonyms: []
 antonyms: []
-family: []
+family: [ekorrhjul]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ekorre — substantiv (en)
 
 📖 中文：松鼠 · English: squirrel
+
+🇸🇪 Förklaring: litet djur med lång yvig svans som klättrar i träd och äter nötter och kottar
+
 发音提示：/ˈeːkɔrɛ/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[ekorrhjul]] (跑轮；循环)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-djur]]

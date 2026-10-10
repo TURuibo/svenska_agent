@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: B1
 zh: 习惯的；熟练的
 en: used (to); accustomed
-synonyms: []
+synonyms: [rutinerad, erfaren]
 antonyms: [ovan]
 family: [vana]
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # van — adjektiv
 
 📖 中文：习惯的；熟练的 · English: used (to); accustomed
+
+🇸🇪 Förklaring: som har gjort något många gånger och därför tycker att det är lätt eller normalt
+
 发音提示：/vɑːn/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vana]]
-- 同义词: 
-- 反义词: ovan
+- 同义词: [[rutinerad]] (有经验的), [[erfaren]] (老练的)
+- 反义词: [[ovan]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

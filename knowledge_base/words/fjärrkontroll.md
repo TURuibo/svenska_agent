@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "遥控器"
 en: "remote control"
-synonyms: []
+synonyms: [dosa]
 antonyms: []
 family: [television, kontroll]
 topics: [topic-hemmet]
@@ -24,6 +24,9 @@ interval: 0
 # fjärrkontroll — substantiv (en)
 
 📖 中文：遥控器 · English: remote control
+
+🇸🇪 Förklaring: liten apparat med knappar som man använder för att styra tv:n eller en annan maskin på avstånd
+
 发音提示：FJÄRR-kon-troll；tre stavelser.
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[television]] (电视机), [[kontroll]] (控制)
-- 同义词: —
+- 同义词: [[dosa]] (遥控器（口语）)
 - 反义词: —
 - 主题: [[topic-hemmet]]
 

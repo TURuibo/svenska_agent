@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B2"
 zh: "消耗品；日用品"
 en: "consumable; household supply"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [hushållsartiklar]
+antonyms: [inventarier]
+family: [förbruka, förbrukning, vara]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-pengarna-ska-räcka-till-mat-kläder-och]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # förbrukningsvara — substantiv (en)
 
 📖 中文：消耗品；日用品 · English: consumable; household supply
+
+🇸🇪 Förklaring: sak som tar slut när man använder den och måste köpas på nytt, till exempel papper och tvål
+
 发音提示：för-BRUK-nings-va-ra，重音在第二音节 `bruk`。
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `förbruka`（用掉）、`förbrukning`（消耗）、`vara`（商品）
-- 同义词: —（口语 `hushållsartiklar`）
-- 反义词: —（可对比 `inventarier`，耐用品）
+- 词族: [[förbruka]]（用掉）, [[förbrukning]]（消耗）, [[vara]]（商品）
+- 同义词: —（口语 [[hushållsartiklar]]）
+- 反义词: —（可对比 [[inventarier]]，耐用品）
 - 主题: [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

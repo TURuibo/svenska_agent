@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "不成文的"
 en: "unwritten"
-synonyms: []
-antonyms: ["skriven"]
-family: ["skriva"]
+synonyms: [outtalad, informell]
+antonyms: [skriven]
+family: [skriva]
 topics: [topic-sociala-normer, topic-kultur-tradition]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # oskriven — adjektiv
 
 📖 中文：不成文的 · English: unwritten
+
+🇸🇪 Förklaring: som inte finns nedskriven men som alla ändå följer, till exempel en regel
+
+发音提示：/ˈuːˌskriːvɛn/ — 前缀 o- 重读；i 读长音
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skriva]]
-- 同义词: []
+- 同义词: [[outtalad]] (不明说的), [[informell]] (非正式的)
 - 反义词: [[skriven]]
 - 主题: [[topic-sociala-normer]]
 

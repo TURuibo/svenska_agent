@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "为什么"
 en: "why"
-synonyms: []
+synonyms: [av-vilken-anledning, hur-kommer-det-sig]
 antonyms: []
-family: []
+family: [var, för, därför]
 topics: []
 sentences: ["sent-varför-var-det-nästan-bara"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # varför — adverb (frågeord)
 
 📖 中文：为什么 · English: why
+
+🇸🇪 Förklaring: frågeord som används för att fråga om orsaken till något
+
 发音提示："var-FÖR"
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[var]] (哪里), [[för]] (为了), [[därför]] (因此)
+- 同义词: [[av-vilken-anledning|av vilken anledning]] (出于什么原因), [[hur-kommer-det-sig|hur kommer det sig]] (怎么会)
 - 反义词: —
 - 主题: —
 

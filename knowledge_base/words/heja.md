@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "为……加油，喝彩，呐喊助威"
 en: "to cheer for, to root for"
-synonyms: ["peppa", "uppmuntra"]
-antonyms: []
-family: ["hejarklack"]
+synonyms: [peppa, uppmuntra]
+antonyms: [bua]
+family: [hejarklack, hejarop]
 topics: ["topic-fotboll"]
 sentences:
   - sent-och-det-var-manga-i-sverige-som-hejad
@@ -24,6 +24,9 @@ interval: 0
 # heja — verb
 
 📖 中文：为……加油，喝彩，呐喊助威 · English: to cheer for, to root for
+
+🇸🇪 Förklaring: ropa och visa sitt stöd för någon som tävlar, till exempel ett lag eller en löpare
+
 发音提示：/ˈheːja/
 
 ## 语法变形 (Forms)
@@ -51,8 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: hejarklack（拉拉队），hejarop（加油声）
-- 同义词: peppa（激励，打气），uppmuntra（鼓励）
+- 词族: [[hejarklack]]（拉拉队）, [[hejarop]]（加油声）
+- 同义词: [[peppa]]（激励，打气）, [[uppmuntra]]（鼓励）
+- 反义词: [[bua]] (喝倒彩)
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

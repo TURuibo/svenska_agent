@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "生的、未煮熟的"
 en: "raw, uncooked"
-synonyms: []
-antonyms: ["mogen"]
-family: []
+synonyms: [okokt, otillagad]
+antonyms: [mogen]
+family: [råkost, råhuggen]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # rå — adjektiv
 
 📖 中文：生的、未煮熟的 · English: raw, uncooked
+
+🇸🇪 Förklaring: som inte har tillagats genom kokning, stekning eller liknande
+
 发音提示：[roː]
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: råkost (生食), råhuggen (粗糙)
-- 同义词: —
+- 词族: [[råkost]] (生食), [[råhuggen]] (粗糙)
+- 同义词: [[okokt]] (未煮的), [[otillagad]] (未烹调的)
 - 反义词: [[mogen]]（成熟的/熟的）
 - 主题: [[topic-mat-dryck]]
 

@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "报名；登记；申请；申报"
 en: "registration; application; report; enrollment"
 synonyms: [registrering, ansökan]
-antonyms: []
+antonyms: [avanmälan]
 family: [anmäla, anmälning, anmält]
 topics: [topic-skola, topic-samhalle]
 sentences: [sent-anmalan-gors-pa-webbplatsen, sent-glomde-du-din-anmalan-till-kursen]
@@ -23,6 +23,9 @@ interval: 0
 # anmälan — substantiv (en)
 
 Zh: 报名；登记；申请；申报 · English: registration; application; enrollment; report
+
+🇸🇪 Förklaring: det att man skriver upp sig för att delta i något; meddelande till polis eller myndighet om något som har hänt
+
 发音提示：an-MÄ-lan（三个音节）
 
 ## 语法变形 (Forms)
@@ -51,8 +54,9 @@ Zh: 报名；登记；申请；申报 · English: registration; application; enr
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[anmäla]]（报名；申报；举报）, anmälning（报名；申报），anmält（已申报）
-- 同义词: registrering（登记），[[ansökan]]（申请）
+- 词族: [[anmäla]]（报名；申报；举报）, [[anmälning]]（报名；申报）, [[anmält]]（已申报）
+- 同义词: [[registrering]]（登记）, [[ansökan]]（申请）
+- 反义词: [[avanmälan]] (取消报名)
 - 主题: [[topic-skola]], [[topic-samhalle]]
 
 ## 用法提示 (Usage Notes)

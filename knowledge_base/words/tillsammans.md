@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 一起
 en: together
-synonyms: []
-antonyms: [ensam]
-family: []
+synonyms: [ihop]
+antonyms: [ensam, var-för-sig]
+family: [samman, sammans, till]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # tillsammans — adverb
 
 📖 中文：一起 · English: together
+
+🇸🇪 Förklaring: med varandra, i samma grupp eller på samma ställe
+
 发音提示：/tɪlˈsamːans/；till-SAM-mans，重音在 `sam`，`mm` 读长。
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: samman, sammans, till + samman（「汇合」）
-- 同义词: `ihop`（口语：`bo ihop`）
-- 反义词: [[ensam]]（独自）, `var för sig`（各自）
+- 词族: [[samman]], [[sammans]], [[till]] + samman（「汇合」）
+- 同义词: [[ihop]]（口语：`bo ihop`）
+- 反义词: [[ensam]]（独自）, [[var-för-sig|var för sig]]（各自）
 - 主题:
 
 ## 用法提示 (Usage Notes)

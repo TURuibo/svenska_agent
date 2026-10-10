@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "传单"
 en: "leaflet, flyer"
-synonyms: []
+synonyms: [reklamblad, folder]
 antonyms: []
-family: []
+family: [flyga, blad]
 topics: []
 sentences: [sent-deras-kamp-var-fredlig-och]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # flygblad — substantiv
 
 📖 中文：传单 · English: leaflet, flyer
-发音提示：
+
+🇸🇪 Förklaring: papper med information eller reklam som man delar ut till många människor
+
+发音提示：/ˈflyːɡˌblɑːd/ — y 读长音；重音在 flyg
 
 ## 语法变形 (Forms)
 
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[flyga]] (飞), [[blad]] (页；叶)
+- 同义词: [[reklamblad]] (广告单), [[folder]] (宣传册)
 - 反义词: —
 - 主题: —
 

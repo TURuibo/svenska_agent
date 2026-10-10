@@ -7,9 +7,9 @@ verbgrupp: ""
 cefr: A2
 zh: "传统"
 en: "tradition"
-synonyms: []
+synonyms: [sed, bruk]
 antonyms: []
-family: []
+family: [traditionell]
 topics:
   - "[[topic-allemansratten]]"
   - "[[topic-midsommar-traditioner]]"
@@ -26,6 +26,9 @@ interval: 0
 # tradition — substantiv (en)
 
 📖 中文：传统 · English: tradition
+
+🇸🇪 Förklaring: sed eller vana som har funnits länge och förs vidare mellan generationer
+
 发音提示：/traˈdɪʂuːn/；重音在第二音节；-tion 读 [ʂuːn]（瑞典语特有）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: traditionell（传统的，adjektiv）
-- 同义词: —
+- 词族: [[traditionell]]（传统的，adjektiv）
+- 同义词: [[sed]] (习俗), [[bruk]] (惯例)
 - 反义词: —
 - 主题: [[topic-allemansratten]]、[[topic-midsommar-traditioner]]
 

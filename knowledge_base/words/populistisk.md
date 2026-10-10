@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: "B2"
 zh: "民粹主义的"
 en: "populist"
-synonyms: []
-antonyms: ["demokratisk", "elitistisk"]
-family: ["populism", "populist"]
+synonyms: [demagogisk]
+antonyms: [demokratisk, elitistisk]
+family: [populism, populist]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # populistisk — adjektiv
 
 📖 中文：民粹主义的 · English: populist
+
+🇸🇪 Förklaring: som försöker vinna folkets stöd med enkla lösningar och genom att ställa vanligt folk mot eliten
+
 发音提示：/ˌpɔpʉˈlɪstɪsk/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: populism (民粹主义), populist (民粹主义者)
+- 词族: [[populism]] (民粹主义), [[populist]] (民粹主义者)
+- 同义词: [[demagogisk]] (煽动性的)
+- 反义词: [[demokratisk]], [[elitistisk]]
 - 对比: demokratisk (民主的), auktoritär (威权的), elitistisk (精英主义的)
 - 主题: [[topic-samhälle-och-politik]]
 

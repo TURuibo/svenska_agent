@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "寄, 发送, 运送"
 en: "to send"
-synonyms: ["sända"]
-antonyms: []
-family: []
+synonyms: [sända]
+antonyms: [ta-emot]
+family: [utskick, skicka-ut, skicka-tillbaka]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # skicka — verb
 
 📖 中文：寄, 发送, 运送 · English: to send
+
+🇸🇪 Förklaring: se till att något, t.ex. ett brev eller ett paket, kommer till en annan person eller plats
+
 发音提示：skic-ka
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[utskick]] (寄发；群发信), [[skicka-ut|skicka ut]] (发出), [[skicka-tillbaka|skicka tillbaka]] (退回)
 - 同义词: [[sända]]
-- 反义词:
+- 反义词: [[ta-emot|ta emot]] (接收)
 - 主题:
 
 ## 用法提示 (Usage Notes)

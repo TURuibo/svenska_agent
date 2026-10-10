@@ -8,7 +8,7 @@ zh: 下巴
 en: chin
 synonyms: []
 antonyms: []
-family: []
+family: [dubbelhaka]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # haka — substantiv (en)
 
 📖 中文：下巴 · English: chin
+
+🇸🇪 Förklaring: den nedersta delen av ansiktet, under munnen
+
 发音提示：/ˈhɑːka/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[dubbelhaka]] (双下巴)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

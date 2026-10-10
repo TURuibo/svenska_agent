@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "正确；相符"
 en: "to be correct; to match"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [vara-rätt, passa]
+antonyms: [avvika]
+family: [stämning]
 topics: [topic-förskola-vardag]
 sentences: [sent-kom-ihåg-att-det-är-ni]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # stämma — verb (grupp 2a)
 
 📖 中文：正确；相符；对得上 · English: to be correct; to match; to tally
+
+🇸🇪 Förklaring: vara riktig eller sann; passa ihop med något annat
+
 发音提示：[ˈstɛmːa]，短 ä。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: stämning（气氛）, stämma（另一义：调音）
+- 词族: [[stämning]]（气氛）
+- 同义词: [[vara-rätt|vara rätt]] (正确), [[passa]] (相符)
+- 反义词: [[avvika]] (不一致)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

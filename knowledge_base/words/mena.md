@@ -8,7 +8,7 @@ zh: 认为；意思是
 en: to mean, think, hold
 synonyms: [tycka, tro]
 antonyms: []
-family: []
+family: [mening, menande]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # mena — verb (grupp 1)
 
 📖 中文：认为；意思是 · English: to mean, think, hold
+
+🇸🇪 Förklaring: 1) tycka eller anse något; 2) vilja säga något med sina ord
+
 发音提示：/ˈmeːna/
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[mening]] (意义；句子), [[menande]] (意味深长的)
 - 同义词: [[tycka]], [[tro]]（表达看法时）
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: "餐巾；纸巾"
 en: "napkin; serviette"
 synonyms: []
 antonyms: []
-family: []
+family: [pappersservett, servetthållare]
 topics: [topic-kafe-fika, topic-mat-dryck]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # servett — substantiv
 
 📖 中文：餐巾；纸巾 · English: napkin; serviette
+
+🇸🇪 Förklaring: litet stycke papper eller tyg som man torkar munnen och händerna med när man äter
+
 发音提示：ser-VETT（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[pappersservett]] (纸餐巾), [[servetthållare]] (餐巾架)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

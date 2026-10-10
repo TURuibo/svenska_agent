@@ -8,7 +8,7 @@ zh: "天然气; 气体"
 en: "gas"
 synonyms: []
 antonyms: []
-family: []
+family: [naturgas, gasspis, växthusgas]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gas — substantiv (en)
 
 📖 中文：天然气; 气体 · English: gas
+
+🇸🇪 Förklaring: 1) ämne i luftform, till exempel syre eller koldioxid; 2) bränsle i luftform som man använder för att laga mat eller värma
+
 发音提示：gas（单音节）
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[naturgas]] (天然气), [[gasspis]] (燃气灶), [[växthusgas]] (温室气体)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

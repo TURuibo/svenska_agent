@@ -27,6 +27,9 @@ interval: 0
 # vägg — substantiv (en)
 
 📖 中文：墙；墙壁 · English: wall
+
+🇸🇪 Förklaring: en av de stående sidorna i ett rum eller ett hus
+
 发音提示：vägg（单音节）；双写 gg，长 ä 音。
 
 ## 语法变形 (Forms)

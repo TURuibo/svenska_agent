@@ -5,9 +5,9 @@ ordklass: preposition
 cefr: A2
 zh: 在……后面
 en: behind
-synonyms: []
+synonyms: [bakanför]
 antonyms: [framför]
-family: []
+family: [bak, bakåt, baksida]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # bakom — preposition (även adverb)
 
 📖 中文：在……后面 · English: behind
+
+🇸🇪 Förklaring: på andra sidan av något, längre bak än något
+
 发音提示：/ˈbɑːkɔm/
 
 ## 语法变形 (Forms)
@@ -38,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: framför
+- 词族: [[bak]] (后面), [[bakåt]] (向后), [[baksida]] (背面)
+- 同义词: [[bakanför]] (在…后面)
+- 反义词: [[framför]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

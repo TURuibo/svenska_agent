@@ -6,7 +6,7 @@ genus: "en"
 cefr: B1
 zh: 投票（过程）
 en: voting
-synonyms: []
+synonyms: [votering, val]
 antonyms: []
 family: [rösta, röst, rösträkning]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # röstning — substantiv (en)
 
 📖 中文：投票（过程） · English: voting
+
+🇸🇪 Förklaring: det att människor i ett val eller på ett möte visar vad de väljer
+
+发音提示：/ˈrœstnɪŋ/ — ö 短音；ng 读 /ŋ/
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: rösta, röst, rösträkning
-- 同义词:
-- 反义词:
+- 词族: [[rösta]], [[röst]], [[rösträkning]]
+- 同义词: [[votering]] (表决), [[val]] (选举)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

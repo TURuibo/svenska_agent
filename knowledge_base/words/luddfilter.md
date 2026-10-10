@@ -8,7 +8,7 @@ zh: 绒毛过滤器；棉绒滤网
 en: lint filter; fluff filter
 synonyms: []
 antonyms: []
-family: [torktumlare]
+family: [ludd, filter, torktumlare]
 topics: [topic-hemmet]
 sentences: [sent-tom-luddfiltret-i-torktumlaren]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # luddfilter — substantiv (ett)
 
 📖 中文：绒毛过滤器；棉绒滤网 · English: lint filter; fluff filter
+
+🇸🇪 Förklaring: nät i en torktumlare som fångar upp små trådar och fibrer från kläderna
+
 发音提示：LUDD-fil-ter，三音节，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ludd (fluff/lint), filter (filter)
+- 词族: [[ludd]] (fluff/lint), [[filter]] (filter), [[torktumlare]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]]

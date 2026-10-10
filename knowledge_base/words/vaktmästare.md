@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 管理员；门房；楼管
 en: caretaker; janitor; building manager; concierge
-synonyms: []
+synonyms: [fastighetsskötare, väktare]
 antonyms: []
-family: []
+family: [vakt, mästare]
 topics: [topic-hemmet, topic-yrken]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # vaktmästare — substantiv (en)
 
 📖 中文：管理员；门房；楼管 · English: caretaker; janitor; building manager
+
+🇸🇪 Förklaring: person som tar hand om en byggnad, till exempel en skola, och fixar praktiska saker
+
 发音提示：VAKT-mes-ta-re，四音节，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vakt (guard/watchman), mästare (master/expert)
-- 同义词: fastighetsskötare (property caretaker, more formal), väktare (security guard, slightly different)
+- 词族: [[vakt]] (guard/watchman), [[mästare]] (master/expert)
+- 同义词: [[fastighetsskötare]] (property caretaker, more formal), [[väktare]] (security guard, slightly different)
 - 反义词: —
 - 主题: [[topic-hemmet]], [[topic-yrken]]
 

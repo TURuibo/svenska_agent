@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "位于，坐落于"
 en: "located, situated"
-synonyms: []
+synonyms: [placerad, liggande]
 antonyms: []
-family: ["belägga"]
+family: [belägga]
 topics: ["topic-geografi-natur"]
 sentences: ["sent-sveriges-största-ö-heter-gotland"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # belägen — adjektiv
 
 📖 中文：位于，坐落于 · English: located, situated
+
+🇸🇪 Förklaring: som finns eller ligger på en viss plats
+
 发音提示：[bɛˈleːgɛn]
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 
 - 词族: [[belägga]]
 - 同义词: [[placerad]], [[liggande]]
+- 反义词: —
 - 主题: [[topic-geografi-natur]]
 
 ## 用法提示 (Usage Notes)

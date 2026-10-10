@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "居民"
 en: "inhabitant"
 synonyms: [boende, inbyggare]
-antonyms: []
-family: [invånarantal]
+antonyms: [besökare]
+family: [invånarantal, bo]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: [sent-den-fragan-ska-invanarna-i-alberta]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # invånare — substantiv (en)
 
 📖 中文：居民 · English: inhabitant
+
+🇸🇪 Förklaring: person som bor i ett visst land, en stad eller ett område
+
 发音提示：重音在第一音节：IN-vå-na-re。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 - 词族: [[invånarantal]] (ett, 居民人数), [[bo]] (v. 居住)
 - 同义词: [[boende]] (en, 居民/居住者), [[inbyggare]] (en, 居民，更正式)
-- 反义词: —
+- 反义词: [[besökare]] (访客)
 - 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

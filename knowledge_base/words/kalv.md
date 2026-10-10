@@ -9,7 +9,7 @@ zh: "幼崽；小牛"
 en: "calf"
 synonyms: []
 antonyms: []
-family: []
+family: [älgkalv, kalvkött]
 topics: ["topic-djur", "topic-natur-skog"]
 sentences: ["sent-men-en-alghona-bor-tillsammans-med", "sent-kalvarna-fods-pa-varen-i-maj", "sent-ofta-fods-det-ett-eller-tva-kalvar"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kalv — substantiv
 
 📖 中文：幼崽；小牛 · English: calf
+
+🇸🇪 Förklaring: ungen till en ko eller till vissa andra stora djur, till exempel älg
+
 发音提示：["kalv"]，v 轻读
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: älgkalv, kalvkött
+- 词族: [[älgkalv]], [[kalvkött]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]], [[topic-natur-skog]]
 
 ## 用法提示 (Usage Notes)

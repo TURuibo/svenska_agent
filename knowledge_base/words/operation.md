@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 手术，手术操作
 en: operation, surgery
-synonyms: []
+synonyms: [ingrepp, kirurgi]
 antonyms: []
 family: [operera, kirurg]
 topics: [topic-hälsa, topic-vård]
@@ -22,6 +22,9 @@ interval: 0
 # operation — substantiv (en)
 
 📖 中文：手术，手术操作 · English: operation, surgery
+
+🇸🇪 Förklaring: behandling där en läkare skär i kroppen för att laga eller ta bort något
+
 发音提示：[opɛraˈʃuːn]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[operera]], [[kirurg]]
+- 同义词: [[ingrepp]] (手术), [[kirurgi]] (外科手术)
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-vård]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: B2
 zh: 民间信仰/民俗
 en: folk belief / folklore
-synonyms: ["folklore", "vidskepelse"]
+synonyms: [folklore, vidskepelse]
 antonyms: []
-family: ["folk", "tro"]
+family: [folk, tro]
 topics: ["topic-midsommar-traditioner", "topic-litteratur-och-kultur"]
 sentences:
   - sent-det-finns-ocksa-en-gammal-folktro
@@ -24,6 +24,9 @@ interval: 0
 # folktro — substantiv (en)
 
 📖 中文：民间信仰/民俗 · English: folk belief / folklore
+
+🇸🇪 Förklaring: gamla föreställningar om övernaturliga väsen och krafter som levde kvar bland vanliga människor
+
 发音提示：FOLK-tro（两音节）
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 
 - 词族: [[folk]]（人民/民间）, [[tro]]（信仰）
 - 同义词: [[folklore]], [[vidskepelse]]（迷信）
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]], [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "花瓶"
 en: "vase"
 synonyms: []
 antonyms: []
-family: []
+family: [blomvas, glasvas]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vas — substantiv (en)
 
 📖 中文：花瓶 · English: vase
+
+🇸🇪 Förklaring: kärl av glas eller porslin som man sätter blommor i
+
 发音提示：[vɑːs]
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[blomvas]] (花瓶), [[glasvas]] (玻璃花瓶)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]]

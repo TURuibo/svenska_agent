@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "毫发无伤的"
 en: "unharmed"
-synonyms: []
-antonyms: ["skadad"]
-family: []
+synonyms: [helskinnad, hel]
+antonyms: [skadad]
+family: [skada, skadlig, skadestånd]
 topics: ["topic-trafik-säkerhet"]
 sentences: ["sent-som-tur-ar-verkar-hon-oskadd-men-henrik"]
 known: false
@@ -17,7 +17,10 @@ created: "2026-09-22"
 # oskadd — adjektiv
 
 📖 中文：毫发无伤的 · English: unharmed
-发音提示：
+
+🇸🇪 Förklaring: som klarar sig utan att få några skador
+
+发音提示：/ˈuːˌskadː/ — 前缀 o- 重读读 /uː/；a 短音
 
 ## 语法变形 (Forms)
 
@@ -33,9 +36,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[skada]] (伤害；损伤), [[skadlig]] (有害的), [[skadestånd]] (赔偿金)
+- 同义词: [[helskinnad]] (安然无恙的), [[hel]] (完好的)
+- 反义词: [[skadad]]
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

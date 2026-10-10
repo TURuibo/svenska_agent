@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "饥饿的"
 en: "hungry"
-synonyms: []
+synonyms: [utsvulten]
 antonyms: [mätt]
-family: []
+family: [hunger, svält]
 topics: [topic-djur]
 sentences: [sent-dar-fanns-ingen-mat-ga-hungrig]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hungrig — adjektiv
 
 📖 中文：饥饿的 · English: hungry
+
+🇸🇪 Förklaring: som vill och behöver äta
+
 发音提示：/ˈhɵŋrɪɡ/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hunger]] (饥饿), [[svält]] (饥荒)
-- 同义词: —
+- 同义词: [[utsvulten]] (饿极了的)
 - 反义词: [[mätt]] (吃饱的)
 - 主题: [[topic-djur]]
 

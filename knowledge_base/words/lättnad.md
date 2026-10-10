@@ -7,7 +7,7 @@ cefr: B1
 zh: 轻松、解脱
 en: relief
 synonyms: [frihet]
-antonyms: []
+antonyms: [oro]
 family: [lätt]
 topics: [topic-idrott]
 sentences: []
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # lättnad — substantiv (en)
 
 📖 中文：轻松、解脱 · English: relief
+
+🇸🇪 Förklaring: skön känsla när något jobbigt eller oroande är över
+
 发音提示：/ˈlɛtːnad/
 
 ## 语法变形 (Forms)
@@ -41,7 +44,7 @@ created: "2026-09-22"
 
 - 词族: [[lätt]]
 - 同义词: [[frihet]]
-- 反义词:
+- 反义词: [[oro]] (担忧)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

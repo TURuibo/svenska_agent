@@ -9,7 +9,7 @@ zh: "鱼汤"
 en: "fish soup"
 synonyms: []
 antonyms: []
-family: []
+family: [fisk, soppa]
 topics:
   - topic-mat-dryck
 sentences:
@@ -27,6 +27,9 @@ interval: 0
 # fisksoppa — substantiv (en)
 
 📖 中文：鱼汤 · English: fish soup
+
+🇸🇪 Förklaring: varm, flytande maträtt som man kokar på fisk, grönsaker och buljong
+
 发音提示：FISK-sop-pa（复合词，重音在第一成分）
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[fisk]]（鱼），[[soppa]]（汤）
+- 词族: [[fisk]]（鱼）, [[soppa]]（汤）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

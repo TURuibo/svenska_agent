@@ -5,7 +5,7 @@ ordklass: adverb
 cefr: B1
 zh: 然而；不过
 en: however, though
-synonyms: []
+synonyms: [men, ändå, emellertid]
 antonyms: []
 family: []
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # dock — adverb
 
 📖 中文：不过，然而 · English: however, though
+
+🇸🇪 Förklaring: används för att visa att något går emot eller begränsar det man just har sagt
+
 发音提示：/dɔk/
 
 ## 语法变形 (Forms)
@@ -38,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: —
+- 同义词: [[men]] (但是), [[ändå]] (仍然), [[emellertid]] (然而)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

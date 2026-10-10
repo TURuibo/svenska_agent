@@ -9,7 +9,7 @@ zh: "老虎"
 en: "tiger"
 synonyms: []
 antonyms: []
-family: []
+family: [tigerunge]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tiger — substantiv (en)
 
 📖 中文：老虎 · English: tiger
+
+🇸🇪 Förklaring: stort kattdjur med orange päls och svarta ränder som lever i Asien
+
 发音提示：/ˈtiːɡɛr/
 
 ## 语法变形 (Forms)

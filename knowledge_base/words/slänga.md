@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "扔掉；抛"
 en: "to throw away; to toss"
-synonyms: []
-antonyms: []
+synonyms: [kasta]
+antonyms: [behålla]
 family: [sopor]
 topics: [topic-källsortering]
 sentences: [sent-alla-ska-kunna-slanga-papper-plast-glas-och]
@@ -19,6 +19,9 @@ created: "2026-10-06"
 # slänga — verb
 
 📖 中文：扔掉；抛 · English: to throw away; to toss
+
+🇸🇪 Förklaring: kasta iväg något, särskilt sådant som man inte vill ha kvar
+
 发音提示：SLENG-a
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ created: "2026-10-06"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sopor]]
+- 同义词: [[kasta]] (扔)
+- 反义词: [[behålla]] (保留)
 - 主题: [[topic-källsortering]]
 
 ## 用法提示 (Usage Notes)

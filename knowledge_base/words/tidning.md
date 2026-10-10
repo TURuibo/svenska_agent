@@ -25,6 +25,9 @@ interval: 0
 # tidning — substantiv (en)
 
 📖 中文：报纸；杂志 · English: newspaper; magazine
+
+🇸🇪 Förklaring: tryckt eller digital publikation med nyheter och artiklar som kommer ut regelbundet
+
 发音提示：TID-ning；två stavelser.
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[nyhet]] (新闻), [[journalist]] (记者), [[artikel]] (文章)
+- 词族: [[nyhet]] (新闻), [[journalist]] (记者), [[artikel]] (文章), [[tidskrift]]
 - 同义词: [[tidskrift]] (期刊/杂志，较学术)
 - 反义词: —
 - 主题: [[topic-hemmet]]

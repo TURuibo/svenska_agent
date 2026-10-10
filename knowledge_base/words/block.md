@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "阵营；（写字）本；街区"
 en: "bloc; (writing) pad; (city) block"
-synonyms: []
+synonyms: [kvarter, allians]
 antonyms: []
-family: []
+family: [anteckningsblock, blockera]
 topics: [topic-val-demokrati]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # block — substantiv (ett)
 
 📖 中文：阵营；（写字）本；街区 · English: bloc; (writing) pad; (city) block
+
+🇸🇪 Förklaring: grupp av länder eller partier som samarbetar; häfte med lösa papper att skriva på; område med hus mellan fyra gator
+
 发音提示：BLÅKK
 
 ## 语法变形 (Forms)
@@ -53,6 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[anteckningsblock]] (记事本), [[blockera]] (阻塞)
+- 同义词: [[kvarter]] (街区), [[allians]] (联盟)
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

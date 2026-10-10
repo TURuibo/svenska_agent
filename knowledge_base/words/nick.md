@@ -8,7 +8,7 @@ zh: "点头"
 en: "nod"
 synonyms: []
 antonyms: []
-family: ["nicka"]
+family: [nicka]
 topics: [topic-sociala-normer]
 sentences: ["sent-i-sverige-hälsar-man-oftast-med"]
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # nick — substantiv
 
 📖 中文：点头 · English: nod
+
+🇸🇪 Förklaring: kort rörelse med huvudet uppåt och neråt, ofta för att säga ja eller hälsa
+
+发音提示：/nɪkː/ — i 短；ck 读长辅音
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[nicka]]
-- 同义词: []
-- 反义词: []
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

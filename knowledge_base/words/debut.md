@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 首次亮相
 en: debut
-synonyms: []
+synonyms: [premiär]
 antonyms: []
-family: []
+family: [debutera, debutant, debutroman]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # debut — substantiv (en)
 
 📖 中文：首次亮相 · English: debut
+
+🇸🇪 Förklaring: första gången som någon visar upp sig offentligt, till exempel som artist, författare eller idrottare
+
 发音提示：/dɛˈbʉːt/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[debutera]] (首次登场), [[debutant]] (新人), [[debutroman]] (处女作小说)
+- 同义词: [[premiär]] (首演)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

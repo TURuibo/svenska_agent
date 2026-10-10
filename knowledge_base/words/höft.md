@@ -8,7 +8,7 @@ zh: 髋部
 en: hip
 synonyms: []
 antonyms: []
-family: []
+family: [höftled, höftben]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # höft — substantiv (en)
 
 📖 中文：髋部 · English: hip
+
+🇸🇪 Förklaring: den del av kroppen på sidan mellan midjan och låret
+
 发音提示：/hœft/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[höftled]] (髋关节), [[höftben]] (髋骨)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

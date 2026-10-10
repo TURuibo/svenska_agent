@@ -9,7 +9,7 @@ zh: 广播；收音机
 en: radio
 synonyms: []
 antonyms: []
-family: []
+family: [radiokanal, radioprogram, bilradio]
 topics: [topic-skola-och-utbildning]
 sentences:
   - sent-lyssna-på-radio-eller-barnprogram
@@ -24,6 +24,9 @@ interval: 0
 # radio — substantiv (en)
 
 📖 中文：广播；收音机 · English: radio
+
+🇸🇪 Förklaring: 1) sändningar med ljud, till exempel nyheter och musik; 2) apparat som man lyssnar på sådana sändningar med
+
 发音提示：["rɑːdɪu]，复数不规则，无复数变形
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[radiokanal]] (广播频道), [[radioprogram]] (广播节目), [[bilradio]] (车载收音机)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]

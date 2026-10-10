@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 懒的；懒惰的
 en: lazy
-synonyms: []
+synonyms: [slö]
 antonyms: [flitig]
-family: []
+family: [lathet, latmask, lata-sig]
 topics: [topic-karaktarsord]
 sentences: [sent-pa-sondagen-var-jag-lat]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # lat — adjektiv
 
 📖 中文：懒的；懒惰的 · English: lazy
+
+🇸🇪 Förklaring: som inte vill arbeta eller anstränga sig
+
 发音提示：/lɑːt/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[lathet]] (懒惰), [[latmask]] (懒虫), [[lata-sig|lata sig]] (偷懒)
+- 同义词: [[slö]] (懒散的)
 - 反义词: [[flitig]] (勤劳的)
 - 主题: [[topic-karaktarsord]]
 

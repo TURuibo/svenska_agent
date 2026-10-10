@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "兼职工作"
 en: "part-time job; side job"
-synonyms: ["deltidsjobb"]
-antonyms: []
-family: ["jobb", "jobba-extra"]
+synonyms: [deltidsjobb]
+antonyms: [heltidsjobb]
+family: [jobb, jobba-extra]
 topics: ["topic-arbete-och-jobb"]
 sentences: ["sent-förra-veckan-fick-jag-ett-extrajobb"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # extrajobb — substantiv (ett)
 
 📖 中文：兼职工作 · English: part-time job; side job
+
+🇸🇪 Förklaring: arbete som man har vid sidan av studier eller en annan anställning
+
 发音提示：/ˈɛkstraˌjɔbː/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 
 - 词族: [[jobb]], [[jobba-extra]]
 - 同义词: [[deltidsjobb]]
+- 反义词: [[heltidsjobb]] (全职工作)
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

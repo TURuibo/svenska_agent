@@ -9,7 +9,7 @@ zh: "厨房"
 en: "kitchen"
 synonyms: []
 antonyms: []
-family: ["matlagning", "köksskåp"]
+family: [matlagning, köksskåp]
 topics: ["topic-hemmet", "topic-mat-dryck"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kök — substantiv (ett)
 
 📖 中文：厨房 · English: kitchen
+
+🇸🇪 Förklaring: rum där man lagar mat
+
 发音提示：/ɕøːk/；ch 音（软 k）。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: matlagning (烹饪), köksskåp (橱柜)
+- 词族: [[matlagning]] (烹饪), [[köksskåp]] (橱柜)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]], [[topic-mat-dryck]]

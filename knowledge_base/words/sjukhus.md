@@ -6,9 +6,9 @@ genus: ett
 cefr: A1
 zh: 医院
 en: hospital
-synonyms: []
+synonyms: [lasarett]
 antonyms: []
-family: []
+family: [sjuk, hus]
 topics: []
 sentences: [sent-de-är-på-sjukhus]
 known: false
@@ -18,6 +18,9 @@ created: 2026-10-07
 # sjukhus — substantiv (ett)
 
 📖 中文：医院 · English: hospital
+
+🇸🇪 Förklaring: stor byggnad där läkare och sjuksköterskor undersöker och vårdar patienter
+
 发音提示：[ˈɧɵ̂ːkhɵːs]，sj- 读 [ɧ]
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sjuk, hus (sjuk + hus 复合词)
+- 词族: [[sjuk]], [[hus]] (sjuk + hus 复合词)
+- 同义词: [[lasarett]] (医院)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

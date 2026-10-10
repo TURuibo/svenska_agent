@@ -5,9 +5,9 @@ ordklass: konjunktion
 cefr: B1
 zh: 万一；以防
 en: in case; if
-synonyms: []
+synonyms: [om, för-den-händelse-att]
 antonyms: []
-family: []
+family: [fall, i-så-fall]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # ifall — konjunktion
 
 📖 中文：万一、以防；是否 · English: in case; whether
+
+🇸🇪 Förklaring: inleder en bisats om något som kanske händer, med betydelsen om eller för den händelse att
+
+发音提示：/ɪˈfalː/ — 重音在 fall；a 读短音
 
 ## 语法变形 (Forms)
 
@@ -37,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[fall]] (情况), [[i-så-fall|i så fall]] (那样的话)
+- 同义词: [[om]] (如果), [[för-den-händelse-att|för den händelse att]] (万一)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

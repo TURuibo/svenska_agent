@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "欺骗"
 en: "to trick, fool"
-synonyms: ["bedra"]
+synonyms: [bedra]
 antonyms: []
-family: ["bedragare", "bedrägeri"]
+family: [bedragare, bedrägeri]
 topics: ["topic-bedrageri-bank-sakerhet"]
 sentences: ["sent-da-förstår-nick-att-han", "sent-han-hade-hört-talats-om"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # lura — verb
 
 📖 中文：欺骗 · English: to trick, fool
+
+🇸🇪 Förklaring: få någon att tro på något som inte är sant
+
 发音提示：LU-ra
 
 ## 语法变形 (Forms)
@@ -42,6 +45,7 @@ created: "2026-09-22"
 
 - 词族: [[bedragare]], [[bedrägeri]]
 - 同义词: [[bedra]]
+- 反义词: —
 - 主题: [[topic-bedrageri-bank-sakerhet]]
 
 ## 用法提示 (Usage Notes)

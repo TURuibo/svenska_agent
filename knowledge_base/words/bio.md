@@ -8,7 +8,7 @@ zh: "电影院"
 en: "cinema, movie theater"
 synonyms: []
 antonyms: []
-family: ["biograf"]
+family: [biograf]
 topics: ["topic-film"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bio — substantiv (en)
 
 📖 中文：电影院 · English: cinema, movie theater
+
+🇸🇪 Förklaring: lokal där man visar film för publik
+
 发音提示：[biːu]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: biograf (en, 全称，较正式)
+- 词族: [[biograf]] (en, 全称，较正式)
+- 同义词: —
+- 反义词: —
 - 相关词组: [[gå-på-bio]] — 去看电影
 - 主题: [[topic-film]]
 

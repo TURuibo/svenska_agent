@@ -6,9 +6,9 @@ verbgrupp: "3"
 cefr: B1
 zh: 达成
 en: to achieve
-synonyms: []
-antonyms: []
-family: []
+synonyms: [åstadkomma, förverkliga]
+antonyms: [misslyckas]
+family: [nå, uppnåelig]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # uppnå — verb (grupp 3)
 
 📖 中文：达成 · English: to achieve
+
+🇸🇪 Förklaring: lyckas komma fram till ett mål eller ett resultat
+
 发音提示：/ˈɵpːˌnoː/
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[nå]] (达到), [[uppnåelig]] (可实现的)
+- 同义词: [[åstadkomma]] (取得), [[förverkliga]] (实现)
+- 反义词: [[misslyckas]] (失败)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

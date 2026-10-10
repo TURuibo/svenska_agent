@@ -9,7 +9,7 @@ zh: "金；金牌"
 en: "gold"
 synonyms: []
 antonyms: []
-family: []
+family: [guldmedalj, guldring]
 topics: [topic-idrott]
 sentences: [sent-nils-van-der-poel-är]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # guld — substantiv (ett)
 
 📖 中文：金；金牌 · English: gold
+
+🇸🇪 Förklaring: dyr gul metall som man gör smycken och mynt av; första pris i en tävling
+
 发音提示：/ɡɵld/（u 读短的 ɵ，l 清晰）
 
 ## 语法变形 (Forms)
@@ -54,9 +57,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: guldmedalj、guldring（复合词）
-- 同义词:
-- 反义词:
+- 词族: [[guldmedalj]], [[guldring]]（复合词）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

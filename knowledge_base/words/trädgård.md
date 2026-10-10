@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "花园"
 en: "garden"
-synonyms: []
+synonyms: [täppa]
 antonyms: []
-family: ["trädgårdsmästare", "trädgårdsarbete"]
+family: [trädgårdsmästare, trädgårdsarbete]
 topics: ["topic-djur", "topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # trädgård — substantiv
 
 📖 中文：花园 · English: garden
+
+🇸🇪 Förklaring: område vid ett hus där man odlar blommor, gräs, frukt eller grönsaker
+
 发音提示：TRÄD-gård
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[trädgårdsmästare]]
-- 同义词:
-- 反义词:
+- 词族: [[trädgårdsmästare]], [[trädgårdsarbete]]
+- 同义词: [[täppa]] (小园子)
+- 反义词: —
 - 主题: [[topic-djur]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

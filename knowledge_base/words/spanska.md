@@ -8,7 +8,7 @@ zh: 西班牙语
 en: Spanish (language)
 synonyms: []
 antonyms: []
-family: []
+family: [spanien, spansk, spanjor]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # spanska — substantiv (en)
 
 📖 中文：西班牙语 · English: Spanish (language)
+
+🇸🇪 Förklaring: språk som talas i Spanien och i stora delar av Latinamerika
+
 发音提示：/ˈspɑːnska/
 
 ## 语法变形 (Forms)
@@ -35,9 +38,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[spanien|Spanien]] (西班牙), [[spansk]] (西班牙的), [[spanjor]] (西班牙人)
+- 同义词: —
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

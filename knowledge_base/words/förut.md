@@ -6,8 +6,8 @@ cefr: A2
 zh: 以前；先前
 en: before, previously
 synonyms: [tidigare]
-antonyms: []
-family: []
+antonyms: [efteråt]
+family: [före, förr, förra]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # förut — adverb
 
 📖 中文：以前、之前 · English: before, previously
+
+🇸🇪 Förklaring: vid en tidigare tidpunkt, innan nu
+
+发音提示：/fœˈrʉːt/ — 重音在 ut（第二音节）
 
 ## 语法变形 (Forms)
 
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: tidigare
-- 反义词:
+- 词族: [[före]] (在……之前), [[förr]] (从前), [[förra]] (上一个)
+- 同义词: [[tidigare]]
+- 反义词: [[efteråt]] (之后)
 - 主题:
 
 ## 用法提示 (Usage Notes)

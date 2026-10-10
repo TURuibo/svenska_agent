@@ -8,7 +8,7 @@ zh: 眼睛
 en: eye
 synonyms: []
 antonyms: []
-family: []
+family: [ögonbryn, ögonlock, ögonblick, ögonläkare]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # öga — substantiv (ett)
 
 📖 中文：眼睛 · English: eye
+
+🇸🇪 Förklaring: den del av ansiktet som man ser med
+
 发音提示：[ˈøːɡa]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[ögonbryn]] (眉毛), [[ögonlock]] (眼睑), [[ögonblick]] (瞬间), [[ögonläkare]] (眼科医生)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

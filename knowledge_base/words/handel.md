@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "贸易，商业"
 en: "trade, commerce"
-synonyms: []
+synonyms: [affärer, kommers]
 antonyms: []
-family: ["handla", "handlare"]
+family: [handla, handlare]
 topics: ["topic-stockholm"]
 sentences:
   - sent-läget-var-bra-för-handel-och-försvar
@@ -24,6 +24,9 @@ interval: 0
 # handel — substantiv
 
 📖 中文：贸易，商业 · English: trade, commerce
+
+🇸🇪 Förklaring: köp och försäljning av varor och tjänster, till exempel mellan företag eller länder
+
 发音提示：HAN-del
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[handla]], [[handlare]]
+- 同义词: [[affärer]] (买卖；生意), [[kommers]] (商业)
+- 反义词: —
 - 主题: [[topic-stockholm]]
 
 ## 用法提示 (Usage Notes)

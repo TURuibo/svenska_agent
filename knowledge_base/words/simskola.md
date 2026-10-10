@@ -6,9 +6,9 @@ genus: "en"
 cefr: A2
 zh: 游泳班
 en: swimming lessons
-synonyms: []
+synonyms: [simundervisning]
 antonyms: []
-family: []
+family: [simma, skola, simhall, simlärare]
 topics: [topic-simhall-och-schema]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-05"
 # simskola — substantiv (en)
 
 📖 中文：游泳班 · English: swimming lessons
+
+🇸🇪 Förklaring: kurs där barn eller vuxna lär sig att simma
+
 发音提示：SIM-sku-la
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[simma]] (游泳), [[skola]] (学校), [[simhall]] (游泳馆), [[simlärare]] (游泳教练)
+- 同义词: [[simundervisning]] (游泳课)
+- 反义词: —
 - 主题: [[topic-simhall-och-schema]]
 - 相关: [[simhall]], [[bada]]
 

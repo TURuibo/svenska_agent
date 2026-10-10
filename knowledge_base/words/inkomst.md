@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "收入"
 en: "income"
 synonyms: [lön]
-antonyms: []
-family: []
+antonyms: [utgift]
+family: [inkomstskatt, inkomsttagare, låginkomsttagare]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-avgiften-följer-maxtaxan-och-beror-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # inkomst — substantiv (en)
 
 📖 中文：收入 · English: income
+
+🇸🇪 Förklaring: pengar som man får in, till exempel som lön, pension eller bidrag
+
 发音提示：[ˈɪnˌkɔmst]，in + komst（来自 komma）。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[inkomstskatt]] (所得税), [[inkomsttagare]] (有收入者), [[låginkomsttagare]] (低收入者)
 - 同义词: [[lön]]（工资，具体的薪水）
-- 反义词: utgift（支出）
+- 反义词: [[utgift]]（支出）
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

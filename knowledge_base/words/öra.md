@@ -19,6 +19,9 @@ created: "2026-10-05"
 # öra — substantiv (ett)
 
 📖 中文：耳朵 · English: ear
+
+🇸🇪 Förklaring: en av de två delarna på huvudets sidor som man hör med
+
 发音提示：/ˈøːra/；ö 为圆唇前元音，类似英语 'bird' 去掉 r 的音但嘴更圆。
 
 ## 语法变形 (Forms)

@@ -9,7 +9,7 @@ zh: "理由；原因；缘由"
 en: "reason; ground"
 synonyms: [anledning, orsak]
 antonyms: []
-family: []
+family: [skälig, oskälig]
 topics: [topic-argumentation]
 sentences: [sent-det-är-ett-misstag-och-jag-vill-förklara]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # skäl — substantiv (ett)
 
 📖 中文：理由；原因；缘由 · English: reason; ground
+
+🇸🇪 Förklaring: det som förklarar varför någon gör något eller varför något händer
+
 发音提示：[ɧɛːl]，`sk` 在 ä 前读成 "sj" 音（类似 "舍"），与 `själ` 近似。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: [[anledning]]（原因 / 缘由）、`orsak`（原因，更客观、偏科学）
+- 词族: [[skälig]] (合理的), [[oskälig]] (不合理的)
+- 同义词: [[anledning]]（原因 / 缘由）, [[orsak]]（原因，更客观、偏科学）
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "求职面试"
 en: "job interview"
-synonyms: ["intervju"]
+synonyms: [intervju]
 antonyms: []
-family: ["anställning", "intervju"]
+family: [anställning, intervju]
 topics: ["topic-arbete"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # anställningsintervju — substantiv (en)
 
 📖 中文：求职面试 · English: job interview
+
+🇸🇪 Förklaring: möte där en arbetsgivare ställer frågor till en person som söker ett jobb
+
 发音提示：/an-stäl-nings-in-ter-vju/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 
 - 词族: [[anställning]], [[intervju]]
 - 同义词: [[intervju]]
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

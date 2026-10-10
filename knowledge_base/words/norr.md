@@ -6,7 +6,7 @@ genus: "en"
 cefr: A1
 zh: 北；北方
 en: north
-synonyms: []
+synonyms: [nord]
 antonyms: [söder]
 family: [norra, norrland]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # norr — substantiv / adverb
 
 📖 中文：北；北方 · English: north
+
+🇸🇪 Förklaring: väderstreck åt det håll där nordpolen ligger; den del av ett land som ligger åt det hållet
+
+发音提示：/nɔrː/ — o 读短 ɔ；rr 稍长
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: norra, norrland
-- 同义词:
-- 反义词: söder
+- 词族: [[norra]], [[norrland]]
+- 同义词: [[nord]] (北)
+- 反义词: [[söder]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

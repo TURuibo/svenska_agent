@@ -8,8 +8,9 @@ zh: "公里；千米"
 en: "kilometer"
 cefr: "A1"
 known: false
-synonyms: ["km"]
+synonyms: [km]
 antonyms: []
+family: [meter, kilogram]
 topics: ["topic-matt-och-mal", "topic-stad-och-transport"]
 phrases: []
 sentences: ["sent-den-ar-fyra-kilometer-lang"]
@@ -27,6 +28,10 @@ interval: 0
 **中文:** 公里；千米
 **English:** kilometer
 **CEFR:** A1
+
+🇸🇪 Förklaring: längdmått som är tusen meter
+
+发音提示：/ɕɪlɔˈmeːtɛr/ — k 在 i 前读 ɕ；重音在 me
 
 ## 变形 (Forms)
 
@@ -64,3 +69,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-notis-ny-cykelbana]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[meter]] (米), [[kilogram]] (千克)
+- 同义词: [[km]]
+- 反义词: —

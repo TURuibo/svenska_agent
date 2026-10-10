@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "女性的"
 en: "female"
-synonyms: []
-antonyms: ["manlig"]
-family: ["kvinna"]
+synonyms: [feminin]
+antonyms: [manlig]
+family: [kvinna]
 topics: ["topic-jamstalldhet", "topic-samhälle-och-politik"]
 sentences: ["sent-vilken-händelse-gjorde-att-arbetet"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kvinnlig — adjektiv
 
 📖 中文：女性的 · English: female
+
+🇸🇪 Förklaring: som hör till eller är typisk för personer av honkön
+
 发音提示："KVINN-lig"
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kvinna]]
-- 同义词: —
+- 同义词: [[feminin]] (女性化的)
 - 反义词: [[manlig]]
 - 主题: [[topic-jamstalldhet]], [[topic-samhälle-och-politik]]
 

@@ -9,7 +9,7 @@ zh: "首都"
 en: "capital city"
 synonyms: []
 antonyms: []
-family: ["stad"]
+family: [stad]
 topics: ["topic-stockholm"]
 sentences:
   - sent-stockholm-är-byggd-på-14-öar
@@ -25,6 +25,9 @@ interval: 0
 # huvudstad — substantiv
 
 📖 中文：首都 · English: capital city
+
+🇸🇪 Förklaring: den viktigaste orten i ett land, där regeringen finns
+
 发音提示：HUUV-ud-stad（复合词：huvud = 头/主要 + stad = 城市）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stad]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-stockholm]]
 
 ## 用法提示 (Usage Notes)

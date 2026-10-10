@@ -24,6 +24,9 @@ interval: 0
 # dator — substantiv (en)
 
 📖 中文：电脑 · English: computer
+
+🇸🇪 Förklaring: elektronisk maskin som man använder för att skriva, räkna, spara information och använda internet
+
 发音提示：DA-tor；två stavelser.
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tangentbord]] (键盘), [[skärm]] (屏幕), [[mobil]] (手机)
+- 词族: [[tangentbord]] (键盘), [[skärm]] (屏幕), [[mobil]] (手机), [[telefon]] (电话)
 - 同义词: [[pc]] (个人电脑), [[laptop]] (笔记本电脑)
 - 反义词: —
 - 主题: [[topic-hemmet]]

@@ -19,6 +19,9 @@ created: "2026-09-26"
 # friskanmälan — substantiv (en)
 
 📖 中文：销假；报康复 · English: notification that a child is well again
+
+🇸🇪 Förklaring: meddelande till skolan eller arbetet om att någon har blivit bra igen efter en sjukdom
+
 发音提示：[ˈfrɪskanˌmɛːlan]，重音在 frisk-。
 
 ## 语法变形 (Forms)
@@ -41,7 +44,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[friskanmäla]] · [[frisk]] · [[anmälan]] · [[sjukanmälan]]
+- 词族: [[friskanmäla]] · [[frisk]] · [[anmälan]] · [[sjukanmälan]], [[frisk]], [[anmälan]], [[sjukanmälan]] (报病假)
 - 同义词: —
 - 反义词: [[sjukanmälan]]
 - 主题: [[topic-sjukt-barn-och-vab]] · [[topic-förskola-vardag]]

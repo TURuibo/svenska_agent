@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "狭长的"
 en: "elongated"
-synonyms: []
+synonyms: [långsmal]
 antonyms: []
-family: []
+family: [lång, längd]
 topics: ["topic-geografi-samhalle"]
 sentences: ["sent-sverige-ar-ett-avlangt-land-och-alla"]
 known: false
@@ -17,7 +17,10 @@ created: "2026-09-22"
 # avlång — adjektiv
 
 📖 中文：狭长的 · English: elongated
-发音提示：
+
+🇸🇪 Förklaring: som är längre än den är bred
+
+发音提示：/ˈɑːvˌlɔŋ/ — 重音在 av，å 读短音，ng 读 ŋ
 
 ## 语法变形 (Forms)
 
@@ -33,9 +36,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[lång]] (长的), [[längd]] (长度)
+- 同义词: [[långsmal]] (狭长的)
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

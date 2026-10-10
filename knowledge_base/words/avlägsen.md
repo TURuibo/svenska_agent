@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 偏远的
 en: remote, distant
-synonyms: []
-antonyms: ["central"]
-family: []
+synonyms: [fjärran, avsides]
+antonyms: [central]
+family: [avlägsna]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # avlägsen — adjektiv
 
 📖 中文：偏远的 · English: remote, distant
+
+🇸🇪 Förklaring: som ligger långt bort
+
 发音提示：av-LÄG-sen
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[avlägsna]] (去除；远离)
+- 同义词: [[fjärran]] (遥远的), [[avsides]] (偏僻的)
 - 反义词: [[central]]
 - 主题: [[topic-stadsmiljo]]
 

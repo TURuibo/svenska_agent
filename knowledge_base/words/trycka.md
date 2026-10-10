@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: A2
 zh: 按；压；推
 en: to press; to push
-synonyms: []
-antonyms: []
-family: []
+synonyms: [pressa, klämma]
+antonyms: [dra]
+family: [tryck, intryck, uttrycka]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # trycka — verb (grupp 2)
 
 📖 中文：按；压；推 · English: to press; to push
+
+🇸🇪 Förklaring: pressa med handen eller fingret mot något; skjuta något framåt
+
 发音提示：/ˈtrʏka/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[tryck]] (压力；印刷), [[intryck]] (印象), [[uttrycka]] (表达)
+- 同义词: [[pressa]] (压), [[klämma]] (挤)
+- 反义词: [[dra]] (拉)
 - 主题: 
 
 ## 用法提示 (Usage Notes)

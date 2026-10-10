@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 调情
 en: to flirt
-synonyms: []
+synonyms: [stöta-på]
 antonyms: []
-family: []
+family: [flirt, flirtig]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # flirta — verb (grupp 1)
 
 📖 中文：调情 · English: to flirt
+
+🇸🇪 Förklaring: visa på ett lekfullt sätt att man tycker att någon är attraktiv
+
+发音提示：/ˈflɪʈːa/ — rt 合成卷舌音 ʈ；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[flirt]] (调情), [[flirtig]] (爱调情的)
+- 同义词: [[stöta-på|stöta på]] (搭讪)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

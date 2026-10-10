@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 专业的
 en: professional
-synonyms: []
-antonyms: []
-family: []
+synonyms: [yrkesmässig, yrkeskunnig]
+antonyms: [amatörmässig]
+family: [profession, professionellt]
 topics: [topic-arbete-och-jobb]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # professionell — adjektiv
 
 📖 中文：专业的 · English: professional
+
+🇸🇪 Förklaring: som gör något som yrke och med stor kunskap och skicklighet
+
 发音提示：[prʊfesɪˈɔnɛl] — 重音在最后一个音节 `-ell`
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[profession]], [[professionellt]]
+- 同义词: [[yrkesmässig]] (职业性的), [[yrkeskunnig]] (有专业技能的)
 - 反义词: [[amatörmässig]]
 - 主题: [[topic-arbete-och-jobb]]
 
