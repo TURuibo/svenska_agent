@@ -4,6 +4,18 @@ name: "val och demokrati"
 kind: "semantic-field"
 zh: "选举与民主"
 members:
+  - folkstyre
+  - folkmakt
+  - styra
+  - grundlag
+  - regeringsform
+  - medier
+  - marknad
+  - kung
+  - drottning
+  - statschef
+  - företrädare
+  - regera
   - valsystem
   - riksdagsval
   - kommunval
