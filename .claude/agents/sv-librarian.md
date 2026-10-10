@@ -39,6 +39,11 @@ For each item:
    - 若该词只有**一个义项，或多个义项含义相近** → 给**至少 3 个例句**，从不同角度展示典型用法/搭配。
    **Always generate examples**, even for drill/böjning imports. Every word note must have usable
    example sentences — the learner depends on them for context.
+3b. **Förklaring + 发音 + relations for words** (always, SKILL §1b): every word note gets a
+   `🇸🇪 Förklaring:` line (simple Swedish definition) and a `发音提示：/IPA/ — 中文提示` line under the
+   gloss, and its Relations section has all three of `- 词族:` / `- 同义词:` / `- 反义词:` with each
+   word written as `[[slug]] (短中文)` (or `—`). Never leave the template placeholders
+   (`{{forklaring}}`, `{{uttal}}`) or an empty `发音提示：` behind.
 4. **Link forward only** (SKILL §4): Write the links that belong naturally ON the note you are
    creating — sentence `words:`, `phrases:`, `grammar:`; phrase `head_words:`, `grammar:`; word
    `synonyms:`, `antonyms:`, `family:`, `topics:`. Do NOT open and edit OTHER existing notes just

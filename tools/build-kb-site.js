@@ -313,3 +313,18 @@ console.log(`Generated ${indexPath} with ${indexNotes.length} notes (${(indexJs.
 const bodiesJs = `window.KB_BODIES = ${JSON.stringify(bodies)};\n`;
 fs.writeFileSync(bodiesPath, bodiesJs, 'utf8');
 console.log(`Generated ${bodiesPath} with ${Object.keys(bodies).length} bodies (${(bodiesJs.length / 1048576).toFixed(2)} MB).`);
+
+// Every word note should carry a Swedish definition and a pronunciation line
+// under its gloss (see knowledge_base/_templates/word.md). Flag the ones an
+// import left without them so the gap is visible in routine logs.
+const wordGaps = { def: [], pron: [] };
+for (const note of notes) {
+  if (note.type !== 'word') continue;
+  if (!/^[ \t]*🇸🇪[ \t]*Förklaring[ \t]*[:：][ \t]*(?!\{\{|<!--)\S/m.test(note.body)) wordGaps.def.push(note.slug);
+  if (!/^[ \t]*(?:\*\*)?发音提示(?:\*\*)?[ \t]*[:：][ \t]*(?:\*\*)?[ \t]*(?!\{\{|<!--)\S/m.test(note.body)) wordGaps.pron.push(note.slug);
+}
+if (wordGaps.def.length || wordGaps.pron.length) {
+  const show = (list) => list.slice(0, 8).join(', ') + (list.length > 8 ? ', …' : '');
+  console.warn(`⚠️ word notes missing 🇸🇪 Förklaring: ${wordGaps.def.length}${wordGaps.def.length ? ` (${show(wordGaps.def)})` : ''}`);
+  console.warn(`⚠️ word notes missing 发音提示: ${wordGaps.pron.length}${wordGaps.pron.length ? ` (${show(wordGaps.pron)})` : ''}`);
+}

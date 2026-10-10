@@ -36,6 +36,9 @@ treat anything there as already-processed too.)
    - Honour dedup against `knowledge_base/_index/slugs.json` and the learner profile
      (`profile/level.md`) — skip KNOWN and DUP items.
    - Always generate example sentences for every new word note, including drill/böjning imports.
+   - Every new word note also gets its `🇸🇪 Förklaring:` line, a filled `发音提示：/IPA/ — 中文提示`
+     line, and the three Relations lines (`词族` / `同义词` / `反义词`) as `[[slug]] (短中文)` links
+     or `—` — see `sv-knowledge-base` §1b. Don't leave template placeholders behind.
 
 3. **Archive each processed file** (sv-import §8): move it from `inbox/<file>.md` to the **tracked**
    `imported/<file>.md` at the repo root (NOT `inbox/imported/`). This keeps the readable text in git
@@ -47,6 +50,8 @@ treat anything there as already-processed too.)
    `powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-kb-site.ps1`  (KB viewer + slug manifest)
    `node tools/build-reading-site.js`  (Läsning reading data — picks up the newly archived file)
    (Required after every KB write.)
+   If the KB build prints `⚠️ word notes missing 🇸🇪 Förklaring / 发音提示` and lists a note you just
+   created, add the missing line to that note and rebuild before reporting.
 
 ## Report back (concise — this is a background job, the user will see it on completion)
 

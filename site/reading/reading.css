@@ -369,6 +369,24 @@
 .vocabPopKnown { font-size: 11px; color: var(--green); font-weight: 600; }
 .vocabPopDate { font-size: 11px; color: var(--muted); }
 .vocabPopGloss { margin-top: 8px; color: var(--ink); font-size: 15px; }
+/* Swedish definition + pronunciation, lifted out of the note body. */
+.vocabPopSv {
+  margin-top: 6px;
+  display: flex; align-items: baseline; gap: 6px;
+  font-family: "Iowan Old Style", Georgia, serif;
+  font-size: 15px; line-height: 1.45; color: var(--ink);
+}
+.vocabPopFlag { font-family: var(--cjk); flex: none; }
+.vocabPopUttal { margin-top: 6px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; font-size: 13px; }
+.vocabPopUttalLabel {
+  font-size: 11px; color: var(--muted);
+  border: 1px solid var(--line); border-radius: 999px; padding: 0 6px;
+}
+.vocabPopIpa { font-family: "Doulos SIL", "Charis SIL", "Gentium Plus", "Iowan Old Style", Georgia, serif; font-size: 15px; color: var(--green); }
+.vocabPopTip { color: var(--muted); }
+/* A related word with no KB note yet: amber dashed like 查词 words — tapping it
+   opens the lookup card (➕ 想学 / 📋 /learn). */
+.vocabPopBody .wikiLink.missingLink { color: var(--gold); text-decoration: underline dashed; }
 
 /* Form chips (lemma highlighted) — mirrors Former's detail card. */
 .vocabPopForms { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px; }

@@ -122,7 +122,7 @@ For phrases/sentences where the slug is fuzzy, also `Grep` the folder for the le
 
 | 用户输入 | 用哪个 skill | 录入什么 |
 |----------|--------------|----------|
-| 单个瑞典语词 | swedish-dictionary | 1 个 `words/` 文件 (+ 同义/词族/主题链接) |
+| 单个瑞典语词 | swedish-dictionary | 1 个 `words/` 文件 (+ 🇸🇪 Förklaring、IPA 发音、同义/反义/词族/主题链接 —— 必填项见 sv-knowledge-base §1b) |
 | 词组 / partikelverb / 习语 | swedish-phrases | 1 个 `phrases/` 文件 (+ 链接到 head word, 语法) |
 | 一个句子 | swedish-grammar (+ dictionary/phrases) | 1 个 `sentences/` 文件 + 其中生词/词组/语法的链接与文件 |
 | 语法问题 | swedish-grammar | 1 个 `grammar/` 文件 |
@@ -211,7 +211,8 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 > **生词点查 (in-page glossary):** `build-reading-site.js` 同时扫 `knowledge_base/words/*.md`，把每个词压成
 > 紧凑的 `vocab` 记录（lemma + ordklass/cefr/zh/en/known + 从 Forms 表抽出的**变形 surface forms**），一并写进
 > `reading-data.js`。阅读站据此把瑞典语正文里**任何 KB 里有笔记的词**（含其变形，如 `arbetade`→`arbeta`）
-> 标成可点的虚线词，点开即在**同页弹出**释义卡（中文/英文/词类/CEFR/变形 + 「完整笔记 →」跳 Sök），
+> 标成可点的虚线词，点开即在**同页弹出**释义卡（中文/英文/词类/CEFR/变形 + 🇸🇪 瑞典语释义 + 🗣 IPA 发音 +
+> 「完整笔记 →」跳 Sök；词族/同义/反义是 `[[链接]]`，库里还没有的词点开进 🔍 查词 → 📥 想学），
 > 中文译文层/代码/标题不参与高亮。顶栏 **🔤 生词** 开关可整体开关（状态存 localStorage）。所以新词只要进过 KB，
 > 下次读文章时就自动变成可查的链接，无需手动标注。
 
