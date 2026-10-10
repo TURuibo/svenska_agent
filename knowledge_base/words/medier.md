@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "媒体"
 en: "media"
-synonyms: []
+synonyms: [media, press]
 antonyms: []
-family: []
+family: [medium, massmedier, sociala-medier]
 topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-medierna-domstolarna-och-marknaden-har-också-makt]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-10"
 # medier — substantiv
 
 📖 中文：媒体 · English: media
+
+🇸🇪 Förklaring: tidningar, radio, tv och internet som sprider nyheter och information till många människor
+
 发音提示：/ˈmeːdiɛr/
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[medium]] (媒介), [[massmedier]] (大众传媒), [[sociala-medier|sociala medier]] (社交媒体)
+- 同义词: [[media]] (媒体), [[press]] (新闻界)
+- 反义词: —
 - 相关: [[makt]]
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "人民的权力"
 en: "power of the people"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [folkstyre, demokrati]
+antonyms: [diktatur]
+family: [folk, makt, maktdelning]
 topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-demokrati-betyder-folkstyre-eller-folkmakt]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-10"
 # folkmakt — substantiv (en)
 
 📖 中文：人民的权力 · English: power of the people
+
+🇸🇪 Förklaring: det att folket bestämmer över hur landet ska styras
+
 发音提示：/ˈfɔlkˌmakt/；folk + makt
 
 ## 语法变形 (Forms)
@@ -40,6 +43,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[folk]] (人民), [[makt]] (权力), [[maktdelning]] (分权)
+- 同义词: [[folkstyre]] (人民统治), [[demokrati]] (民主)
+- 反义词: [[diktatur]] (独裁)
 - 相关: [[folkstyre]], [[makt]], [[demokrati]]
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 

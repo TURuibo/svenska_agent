@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "市场"
 en: "market"
-synonyms: []
+synonyms: [torg]
 antonyms: []
-family: []
+family: [marknadsföring, arbetsmarknad, bostadsmarknad]
 topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-medierna-domstolarna-och-marknaden-har-också-makt]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-10"
 # marknad — substantiv (en)
 
 📖 中文：市场 · English: market
+
+🇸🇪 Förklaring: 1) plats där man köper och säljer varor, ofta utomhus; 2) all handel med en viss sorts varor eller tjänster
+
 发音提示：/ˈmarknad/
 
 ## 语法变形 (Forms)
@@ -44,6 +47,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[marknadsföring]] (市场营销), [[arbetsmarknad]] (劳动力市场), [[bostadsmarknad]] (住房市场)
+- 同义词: [[torg]] (集市广场)
+- 反义词: —
 - 相关: [[arbetsmarknad]]
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 
