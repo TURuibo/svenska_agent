@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "职业"
 en: "profession, occupation"
-synonyms: []
+synonyms: [jobb, profession]
 antonyms: []
-family: []
+family: [yrkesliv, yrkesskola, yrkesutbildning]
 topics: ["topic-yrken", "topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # yrke — substantiv (ett-ord)
 
 📖 中文：职业 · English: profession, occupation
+
+🇸🇪 Förklaring: arbete som man har utbildning för och försörjer sig på
+
 发音提示：YR-ke
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 - 词族: [[yrkesliv]], [[yrkesskola]], [[yrkesutbildning]]
 - 同义词: [[jobb]], [[profession]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-yrken]], [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

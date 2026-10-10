@@ -9,7 +9,7 @@ zh: "姨妈（母亲的姐妹）"
 en: "maternal aunt (mother's sister)"
 synonyms: []
 antonyms: []
-family: ["faster", "farbror", "morbror", "kusin"]
+family: [faster, farbror, morbror, kusin]
 topics: ["topic-familj-och-barn", "topic-personer"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # moster — substantiv (en)
 
 📖 中文：姨妈（母亲的姐妹） · English: maternal aunt (mother's sister)
+
+🇸🇪 Förklaring: ens mammas syster
+
 发音提示：/ˈmuːstər/
 
 ## 语法变形 (Forms)
@@ -38,6 +41,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[faster]], [[farbror]], [[morbror]], [[kusin]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-familj-och-barn]], [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "选举工作人员"
 en: "election official"
-synonyms: []
+synonyms: [röstmottagare]
 antonyms: []
 family: [val, arbetare, riksdagsval, kommunval, valdag, vallokal, valsedel, valaffisch, vallöfte, valdebatt, valresultat]
 topics: [topic-val-demokrati]
@@ -23,6 +23,9 @@ interval: 0
 # valarbetare — substantiv (en)
 
 📖 中文：选举工作人员 · English: election official
+
+🇸🇪 Förklaring: person som arbetar i en röstningslokal och hjälper till när folk röstar
+
 发音提示：VAL-ar-be-ta-re
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: val，arbetare（工人/工作者），[[riksdagsval]]，[[kommunval]]，[[valdag]]，[[vallokal]]，[[valsedel]]，[[valaffisch]]，[[vallöfte]]，[[valdebatt]]，[[valresultat]]（val- 复合词族）
+- 词族: [[val]], [[arbetare]]（工人/工作者）, [[riksdagsval]], [[kommunval]], [[valdag]], [[vallokal]], [[valsedel]], [[valaffisch]], [[vallöfte]], [[valdebatt]], [[valresultat]]（val- 复合词族）
+- 同义词: [[röstmottagare]] (投票接收员)
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

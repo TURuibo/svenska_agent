@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "建筑群，房屋群，居民区"
 en: "buildings, built-up area, settlement"
-synonyms: ["byggnader", "bostäder"]
+synonyms: [byggnader, bostäder]
 antonyms: []
-family: ["bygga", "bebygga", "byggnad"]
+family: [bygga, byggnad, bebygga]
 topics: ["topic-geografi-natur", "topic-stadsmiljo"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bebyggelse — substantiv (en)
 
 📖 中文：建筑群，房屋群，居民区 · English: buildings, built-up area, settlement
+
+🇸🇪 Förklaring: hus och andra byggnader som finns på ett visst område
+
 发音提示：[bɛˈbyɡɛlsɛ]
 
 ## 语法变形 (Forms)
@@ -50,7 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bygga]], [[byggnad]], [[bebygga]]
-- 同义词: [[byggnader]]
+- 同义词: [[byggnader]], [[bostäder]]
+- 反义词: —
 - 主题: [[topic-geografi-natur]], [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "电话号码"
 en: "phone number"
 synonyms: []
 antonyms: []
-family: ["telefon", "nummer"]
+family: [telefon, nummer]
 topics: ["topic-social-kontakt"]
 sentences: ["sent-vilket-telefonnummer-har-vi-till-dig"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # telefonnummer — substantiv ett
 
 📖 中文：电话号码 · English: phone number
+
+🇸🇪 Förklaring: rad med siffror som man slår för att ringa till någon
+
 发音提示：te-le-FON-num-mer
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ Note: plural same as singular (invariable compound).
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[telefon]]
+- 词族: [[telefon]], [[nummer]] (号码)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-social-kontakt]]
 
 ## 用法提示 (Usage Notes)

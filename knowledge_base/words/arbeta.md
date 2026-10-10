@@ -8,7 +8,7 @@ cefr: A1
 zh: 工作
 en: to work
 synonyms: [jobba]
-antonyms: []
+antonyms: [vila]
 family: [arbete, arbetare, arbetslös, jobb, jobba]
 topics: [topic-arbete]
 sentences: [sent-jag-arbetar-pa-ett-sjukhus]
@@ -23,6 +23,9 @@ interval: 0
 # arbeta — verb (v.1)
 
 📖 中文：工作 · English: to work
+
+🇸🇪 Förklaring: utföra uppgifter för att få något gjort, ofta mot betalning
+
 发音提示：betoning 在第一音节 **AR**-beta；`r` 轻颤。
 
 ## 语法变形 (Forms)
@@ -56,7 +59,7 @@ interval: 0
 
 - 词族: [[arbete]] (n. 工作/劳动), [[arbetare]] (n. 工人), [[arbetslös]] (adj. 失业的), [[jobb]] (n. 工作，口语), [[jobba]] (v. 工作，口语)
 - 同义词: [[jobba]] (更口语)
-- 反义词: —
+- 反义词: [[vila]] (休息)
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

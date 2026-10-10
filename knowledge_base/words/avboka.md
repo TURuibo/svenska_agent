@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: A2
 zh: 取消预约；取消预订
 en: to cancel a booking; to cancel a reservation
-synonyms: []
+synonyms: [avbeställa, ställa-in]
 antonyms: [boka]
 family: [boka]
 topics: [topic-hemmet, topic-fritid-och-resor]
@@ -22,6 +22,9 @@ interval: 0
 # avboka — verb (grupp 1)
 
 📖 中文：取消预约；取消预订 · English: to cancel a booking/reservation
+
+🇸🇪 Förklaring: meddela att man inte kommer att använda en tid eller plats som man har reserverat
+
 发音提示：AV-bo-ka，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[boka]]
-- 同义词: —
+- 同义词: [[avbeställa]] (取消订购), [[ställa-in|ställa in]] (取消)
 - 反义词: [[boka]] (to book)
 - 主题: [[topic-hemmet]], [[topic-fritid-och-resor]]
 

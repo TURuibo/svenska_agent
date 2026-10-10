@@ -5,9 +5,9 @@ ordklass: "adverb"
 cefr: "B1"
 zh: "大概；很可能"
 en: "probably"
-synonyms: ["troligen", "förmodligen"]
-antonyms: []
-family: ["anta"]
+synonyms: [troligen, förmodligen]
+antonyms: [knappast]
+family: [anta]
 topics: ["topic-allmanna-adjektiv-adverb", "topic-satsadverbial"]
 sentences: ["sent-jag-ringer-antagligen-min-mamma-först"]
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-07"
 # antagligen — adverb
 
 📖 中文：大概 · English: probably
+
+🇸🇪 Förklaring: används när man tror att något är sant men inte är helt säker
+
+发音提示：/anˈtɑːɡlɪɡɛn/ — 重音在第二音节 ta，g 读硬音
 
 ## 语法变形 (Forms)
 
@@ -30,7 +34,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: troligen, förmodligen
+- 词族: [[anta]]
+- 同义词: [[troligen]], [[förmodligen]]
+- 反义词: [[knappast]] (不太可能)
 - 主题: [[topic-allmanna-adjektiv-adverb]], [[topic-satsadverbial]]
 
 ## 用法提示 (Usage Notes)

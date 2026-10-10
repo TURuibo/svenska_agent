@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 那时；那么；当……时
 en: then; when (past)
-synonyms: []
-antonyms: []
-family: []
+synonyms: [vid-den-tiden, i-så-fall]
+antonyms: [nu]
+family: [dåtid, dåvarande]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # då — adverb / konjunktion
 
 📖 中文：那时；那么；当……时 · English: then; when
+
+🇸🇪 Förklaring: 1) vid den tiden, i det förflutna eller i framtiden; 2) i så fall; 3) när något hände
+
 发音提示：/doː/
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: —
-- 反义词: nu（相对「那时」）
+- 词族: [[dåtid]] (过去), [[dåvarande]] (当时的)
+- 同义词: [[vid-den-tiden|vid den tiden]] (那时), [[i-så-fall|i så fall]] (那样的话)
+- 反义词: [[nu]]（相对「那时」）
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: "A2"
 zh: "多云的；阴天的"
 en: "cloudy"
-synonyms: []
+synonyms: [mulen]
 antonyms: [solig]
 family: [moln]
 topics: [topic-vader-och-arstider]
@@ -21,6 +21,9 @@ interval: 0
 # molnig — adjektiv
 
 📖 中文：多云的；阴天的 · English: cloudy
+
+🇸🇪 Förklaring: (om väder) som har grå himmel där solen inte syns
+
 发音提示：MOL-nig（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[moln]]
-- 同义词: —
+- 同义词: [[mulen]] (阴天的)
 - 反义词: [[solig]]
 - 主题: [[topic-vader-och-arstider]]
 

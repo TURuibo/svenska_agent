@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "陌生的、外来的"
 en: "strange, foreign"
-synonyms: []
-antonyms: ["bekant"]
-family: ["främling"]
+synonyms: [okänd, utländsk]
+antonyms: [bekant]
+family: [främling]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # främmande — adjektiv
 
 📖 中文：陌生的、外来的 · English: strange, foreign
+
+🇸🇪 Förklaring: som man inte känner till eller inte är van vid; som kommer från ett annat land
+
+发音提示：/ˈfrɛmːandɛ/ — ä 读短音，m 要长，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -39,7 +43,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[främling]]
-- 同义词: []
+- 同义词: [[okänd]] (未知的), [[utländsk]] (外国的)
 - 反义词: [[bekant]]
 - 主题: [[topic-sociala-normer]]
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: 有毒的
 en: toxic, poisonous
-synonyms: []
-antonyms: []
-family: ["gift"]
+synonyms: [toxisk]
+antonyms: [ogiftig, ofarlig]
+family: [gift]
 topics: ["topic-miljö-och-klimat", "topic-hälsa"]
 sentences:
   - sent-algerna-kan-vara-giftiga-for-manniskor
@@ -25,6 +25,9 @@ interval: 0
 # giftig — adjektiv
 
 📖 中文：有毒的 · English: toxic, poisonous
+
+🇸🇪 Förklaring: som innehåller ämnen som kan göra en sjuk eller döda en
+
 发音提示：GIF-tig
 
 ## 语法变形 (Forms)
@@ -53,6 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gift]] (毒药/已婚)
+- 同义词: [[toxisk]] (有毒的)
+- 反义词: [[ogiftig]] (无毒的), [[ofarlig]] (无害的)
 - 主题: [[topic-miljö-och-klimat]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

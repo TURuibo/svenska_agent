@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "吃"
 en: "to eat"
-synonyms: []
-antonyms: []
-family: [mat, ätbar, uppätit]
+synonyms: [inta-mat]
+antonyms: [dricka]
+family: [mat, ätbar, måltid, uppätit]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # äta — verb (oregelbundet)
 
 📖 中文：吃 · English: to eat
+
+🇸🇪 Förklaring: tugga och svälja mat
+
 发音提示：ÄTA；两音节，ä 发开口前元音。
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[mat]] (en, 食物), [[ätbar]] (adj. 可食用的), [[måltid]] (en, 一顿饭)
-- 同义词: [[inta mat]] (进食，正式)
+- 词族: [[mat]] (en, 食物), [[ätbar]] (adj. 可食用的), [[måltid]] (en, 一顿饭), [[uppätit]]
+- 同义词: [[inta-mat|inta mat]] (进食，正式)
 - 反义词: [[dricka]] (v. 喝)
 - 主题: [[topic-vardagsrutin]]
 

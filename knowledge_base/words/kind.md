@@ -8,7 +8,7 @@ zh: 脸颊
 en: cheek
 synonyms: []
 antonyms: []
-family: []
+family: [panna, haka]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kind — substantiv (en)
 
 📖 中文：脸颊 · English: cheek
+
+🇸🇪 Förklaring: den mjuka delen av ansiktet på båda sidor om näsan, under ögonen
+
 发音提示：/ɕɪnd/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[panna]], [[haka]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

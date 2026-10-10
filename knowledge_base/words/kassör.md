@@ -8,7 +8,7 @@ zh: 收银员
 en: cashier
 synonyms: []
 antonyms: []
-family: []
+family: [kassa, kassörska]
 topics: [topic-kafe-fika, topic-yrken]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kassör — substantiv (en)
 
 📖 中文：收银员 · English: cashier
+
+🇸🇪 Förklaring: person som tar emot betalning från kunderna i en affär eller en bank
+
 发音提示：kah-SÖR
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kassa]] (收银台), [[kassörska]] (女收银员)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]], [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: 紧急情况
 en: emergency
-synonyms: []
+synonyms: [nödläge, kris]
 antonyms: []
-family: []
+family: [nöd, nödsituation, nödutgång]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # nödfall — substantiv (ett)
 
 📖 中文：紧急情况 · English: emergency
+
+🇸🇪 Förklaring: farlig eller svår situation då man snabbt behöver hjälp
+
 发音提示：/ˈnøːdˌfalː/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[nöd]] (困境), [[nödsituation]] (紧急情况), [[nödutgång]] (紧急出口)
+- 同义词: [[nödläge]] (紧急状态), [[kris]] (危机)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

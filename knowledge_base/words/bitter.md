@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "苦的"
 en: "bitter"
-synonyms: []
-antonyms: ["salt", "sur"]
-family: []
+synonyms: [besk, kärv]
+antonyms: [salt, sur]
+family: [bitterhet]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bitter — adjektiv
 
 📖 中文：苦的 · English: bitter
+
+🇸🇪 Förklaring: som har en stark och skarp smak, som svart kaffe eller grapefrukt
+
 发音提示：['bɪtər]
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bitterhet (苦涩/怨恨)
-- 同义词: —
+- 词族: [[bitterhet]] (苦涩/怨恨)
+- 同义词: [[besk]] (苦的), [[kärv]] (苦涩的)
 - 反义词: [[salt]], [[sur]]
 - 主题: [[topic-mat-dryck]]
 

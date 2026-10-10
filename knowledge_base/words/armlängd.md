@@ -8,7 +8,7 @@ zh: "一臂之长"
 en: "arm's length"
 synonyms: []
 antonyms: []
-family: ["arm", "längd"]
+family: [arm, längd]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # armlängd — substantiv
 
 📖 中文：一臂之长 · English: arm's length
+
+🇸🇪 Förklaring: sträcka som är lika lång som en arm
+
+发音提示：/ˈarmˌlɛŋd/ — 重音在 arm，ng 读 ŋ
 
 ## 语法变形 (Forms)
 
@@ -43,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[arm]]、[[längd]]
-- 同义词: []
-- 反义词: []
+- 词族: [[arm]], [[längd]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

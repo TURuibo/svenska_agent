@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 打发奶油
 en: whipped cream
-synonyms: ["grädde", "vispgrädden"]
+synonyms: [grädde, vispgrädden]
 antonyms: []
-family: ["grädde", "vispa"]
+family: [grädde, vispa]
 topics: ["topic-midsommar-traditioner", "topic-mat-dryck"]
 sentences:
   - sent-till-dessert-ater-man-jordgubbstarta
@@ -23,6 +23,9 @@ interval: 0
 # vispgrädde — substantiv (en)
 
 📖 中文：打发奶油 · English: whipped cream
+
+🇸🇪 Förklaring: fet grädde som man slår till ett fluffigt skum och äter till tårtor och desserter
+
 发音提示：VISP-GRÄD-de（三音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[grädde]]（奶油）, [[vispa]]（打/搅打，动词）
+- 同义词: [[grädde]], [[vispgrädden]]
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "有益健康的"
 en: "healthy, nutritious, good for you"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [hälsosam]
+antonyms: [onyttig]
+family: [nytta, nyttja]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # nyttig — adjektiv
 
 📖 中文：有益健康的 · English: healthy, nutritious, good for you
+
+🇸🇪 Förklaring: som är bra för hälsan och kroppen; som är till hjälp
+
 发音提示：['nʏtɪg]
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: nytta (用处/益处 n), nyttja (使用 v)
-- 同义词: hälsosam（健康的）
-- 反义词: onyttig（无益的）
+- 词族: [[nytta]] (用处/益处 n), [[nyttja]] (使用 v)
+- 同义词: [[hälsosam]]（健康的）
+- 反义词: [[onyttig]]（无益的）
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

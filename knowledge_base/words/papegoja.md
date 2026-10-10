@@ -8,7 +8,7 @@ zh: "鹦鹉"
 en: "parrot"
 synonyms: []
 antonyms: []
-family: ["fågel"]
+family: [fågel]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # papegoja — substantiv (en)
 
 📖 中文：鹦鹉 · English: parrot
+
+🇸🇪 Förklaring: färgglad fågel med krokig näbb som kan lära sig att härma ord
+
 发音提示：/ˈpɑːpɛˌɡoːja/
 
 ## 语法变形 (Forms)

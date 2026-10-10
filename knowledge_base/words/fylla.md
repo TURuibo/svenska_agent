@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "装满；填"
 en: "to fill"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [tömma]
+family: [full, påfyllning]
 topics: [topic-förskola-vardag]
 sentences: [sent-kolla-ditt-barns-hylla-varje-dag]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # fylla — verb
 
 📖 中文：装满；填 · English: to fill
+
+🇸🇪 Förklaring: hälla eller lägga i något tills det inte får plats mer
+
 发音提示：/ˈfʏlːa/ — 短 y（圆唇 i）+ 长 l
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: full (满的), påfyllning (补充)
+- 词族: [[full]] (满的), [[påfyllning]] (补充)
+- 同义词: —
+- 反义词: [[tömma]] (倒空)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

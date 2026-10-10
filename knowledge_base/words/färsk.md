@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 新鲜的；刚出炉的
 en: fresh
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ny, fräsch]
+antonyms: [gammal, inaktuell]
+family: [färskvara, färskpotatis, färskost]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # färsk — adjektiv
 
 📖 中文：新鲜的；刚出炉的 · English: fresh
+
+🇸🇪 Förklaring: om mat: som är ny och inte har hunnit bli gammal, till exempel bröd eller fisk
+
 发音提示：FERSK
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: gammal (旧的), inaktuell (过时的)
+- 词族: [[färskvara]] (生鲜食品), [[färskpotatis]] (新土豆), [[färskost]] (新鲜奶酪)
+- 同义词: [[ny]] (新的), [[fräsch]] (新鲜的)
+- 反义词: [[gammal]] (旧的), [[inaktuell]] (过时的)
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

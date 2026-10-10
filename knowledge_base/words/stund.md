@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 时刻
 en: moment
-synonyms: []
+synonyms: [ögonblick, tag]
 antonyms: []
-family: []
+family: [stundtals, stundande]
 topics: [topic-tid-och-tidsuttryck]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # stund — substantiv (en)
 
 📖 中文：时刻 · English: moment
+
+🇸🇪 Förklaring: kort tid eller ett visst ögonblick
+
 发音提示：/stʉnd/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[stundtals]] (时而), [[stundande]] (即将到来的)
+- 同义词: [[ögonblick]] (瞬间), [[tag]] (一会儿)
+- 反义词: —
 - 主题: [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

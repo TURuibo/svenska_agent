@@ -8,7 +8,7 @@ zh: 渡轮、渡船
 en: ferry
 synonyms: []
 antonyms: []
-family: []
+family: [färjeläge, bilfärja]
 topics: ["topic-trafik", "topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # färja — substantiv (en)
 
 📖 中文：渡轮、渡船 · English: ferry
+
+🇸🇪 Förklaring: fartyg som regelbundet tar människor, bilar och varor över ett vatten
+
 发音提示：FÄR-ja
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[färjeläge]] (渡口), [[bilfärja]] (汽车渡轮)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-trafik]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: ""
 cefr: B1
 zh: 有害的
 en: harmful
-synonyms: []
+synonyms: [farlig, ohälsosam]
 antonyms: [ofarlig]
 family: [skada, skadad]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,9 @@ created: 2026-10-02
 # skadlig — adjektiv
 
 📖 中文：有害的 · English: harmful
+
+🇸🇪 Förklaring: som kan göra illa eller vara dåligt för människor, djur eller miljön
+
 发音提示：[ˈskɑːdlɪɡ]
 
 ## 语法变形 (Forms)
@@ -40,7 +43,8 @@ created: 2026-10-02
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[skada]]
+- 词族: [[skada]], [[skadad]]
+- 同义词: [[farlig]] (危险的), [[ohälsosam]] (不健康的)
 - 反义词: [[ofarlig]]
 - 主题: [[topic-samhälle-och-politik]]
 

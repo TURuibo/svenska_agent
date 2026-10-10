@@ -18,6 +18,9 @@ created: "2026-10-01"
 # bildtext — substantiv (en)
 
 📖 中文：图片说明 · English: caption
+
+🇸🇪 Förklaring: kort förklaring under ett foto eller en illustration
+
 发音提示：/ˈbɪldˌtɛkst/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bild]], [[text]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

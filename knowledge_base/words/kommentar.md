@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 评论
 en: comment
-synonyms: []
+synonyms: [anmärkning, synpunkt]
 antonyms: []
-family: []
+family: [kommentera]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # kommentar — substantiv (en-ord)
 
 📖 中文：评论、留言 · English: comment
+
+🇸🇪 Förklaring: kort åsikt eller förklaring som någon säger eller skriver om något
+
+发音提示：/kɔmɛnˈtɑːr/ — 重音在最后音节 -tar
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kommentera
-- 同义词:
-- 反义词:
+- 词族: [[kommentera]]
+- 同义词: [[anmärkning]] (评语), [[synpunkt]] (看法)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

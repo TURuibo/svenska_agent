@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "谨慎的/小心的"
 en: "careful, cautious"
-synonyms: []
-antonyms: ["farlig"]
-family: []
+synonyms: [varsam, aktsam]
+antonyms: [farlig]
+family: [försiktighet, försiktigt]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # försiktig — adjektiv
 
 📖 中文：谨慎的/小心的 · English: careful, cautious
+
+🇸🇪 Förklaring: som är noga med att inte göra något farligt eller dumt
+
 发音提示：/fœˈsɪktɪɡ/ — "för-SIK-tig"
 
 ## 语法变形 (Forms)
@@ -51,6 +54,9 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[försiktighet]] (谨慎), [[försiktigt]] (小心地)
+- 同义词: [[varsam]] (小心的), [[aktsam]] (谨慎的)
+- 反义词: [[farlig]] (危险的)
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

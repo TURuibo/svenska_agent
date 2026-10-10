@@ -9,7 +9,7 @@ zh: "肩膀"
 en: "shoulder"
 synonyms: [axel]
 antonyms: []
-family: []
+family: [skulderblad, skulderled]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # skuldra — substantiv (en)
 
 📖 中文：肩膀 · English: shoulder
+
+🇸🇪 Förklaring: övre del av kroppen mellan halsen och armen
+
 发音提示：/ˈskɵldra/；sk 在此读 /s-k/，u 为短音。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[skulderblad]] (肩胛骨), [[skulderled]] (肩关节)
 - 同义词: [[axel]]（口语更常说 axel，skuldra 偏书面/医学/文学）
-- 词族: —
 - 反义词: —
 - 主题: [[topic-kropp]]
 

@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "批准；通过"
 en: "to approve"
-synonyms: []
+synonyms: [acceptera, bevilja]
 antonyms: [avslå]
 family: [godkänd]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # godkänna — verb
 
 📖 中文：批准；通过 · English: to approve
+
+🇸🇪 Förklaring: säga ja till något eller bedöma att det är tillräckligt bra
+
+发音提示：/ˈɡuːdˌɕɛnːa/ — kä 读 ɕ；重音在 god
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,7 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[godkänd]]
+- 同义词: [[acceptera]] (接受), [[bevilja]] (批准)
 - 反义词: [[avslå]]
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]

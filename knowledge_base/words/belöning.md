@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "奖励"
 en: "reward"
-synonyms: []
-antonyms: []
+synonyms: [pris, premie]
+antonyms: [straff]
 family: [belöna]
 topics: [topic-idrott]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # belöning — substantiv
 
 📖 中文：奖励 · English: reward
+
+🇸🇪 Förklaring: något bra som man får för att man har gjort något bra
+
 发音提示：be-LÖ-ning
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[belöna]]（奖励，动词，尚无笔记）
-- 同义词: —
+- 同义词: [[pris]] (奖品), [[premie]] (奖金)
 - 反义词: [[straff]]（惩罚，尚无笔记）
 - 主题: [[topic-idrott]]
 

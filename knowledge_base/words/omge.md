@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: "B2"
 zh: "环绕、包围"
 en: "to surround"
-synonyms: []
+synonyms: [omringa, omsluta]
 antonyms: []
-family: ["omgivning"]
+family: [omgivning]
 topics: ["topic-sfi-sprak-larande"]
 sentences: ["sent-att-omge-sig-själv-med"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # omge — verb
 
 📖 中文：环绕、包围 · English: to surround
+
+🇸🇪 Förklaring: finnas runt omkring något eller någon på alla sidor
+
 发音提示：OM-ge
 
 ## 语法变形 (Forms)
@@ -39,6 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[omgivning]]（周围环境，名词）
+- 同义词: [[omringa]] (包围), [[omsluta]] (包围)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "妹妹"
 en: "little sister, younger sister"
-synonyms: []
+synonyms: [yngre-syster]
 antonyms: [storasyster]
-family: [syster, lilla, lillebror]
+family: [syster, lillebror, storasyster, lilla]
 topics: [topic-familj-och-barn, topic-personer]
 sentences:
   - sent-greta-har-en-lillasyster-som-heter-beata
@@ -24,6 +24,9 @@ interval: 0
 # lillasyster — substantiv (en)
 
 📖 中文：妹妹 · English: little sister, younger sister
+
+🇸🇪 Förklaring: flicka eller kvinna som har samma föräldrar som man själv men är yngre
+
 发音提示：/ˈlɪlaˌsʏstər/；lilla（小）+ syster（姐妹）。
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[syster]]（姐/妹），lillebror（弟弟），storasyster（姐姐）
-- 反义词: storasyster（姐姐）
+- 词族: [[syster]]（姐/妹）, [[lillebror]]（弟弟）, [[storasyster]]（姐姐）, [[lilla]]
+- 同义词: [[yngre-syster|yngre syster]] (妹妹)
+- 反义词: [[storasyster]]（姐姐）
 - 主题: [[topic-familj-och-barn]], [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

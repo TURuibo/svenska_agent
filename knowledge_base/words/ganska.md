@@ -24,6 +24,9 @@ interval: 0
 # ganska — adverb
 
 📖 中文：相当、挺 · English: quite, fairly, rather
+
+🇸🇪 Förklaring: används för att säga att något gäller i viss grad, men inte väldigt mycket
+
 发音提示：['ganska]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ Adverb — 不变化。
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: `rätt` (挺/相当，较口语), `tämligen` (相当，较书面)
+- 同义词: [[rätt]] (挺/相当，较口语), [[tämligen]] (相当，较书面)
 - 反义词: —
 - 主题: —
 

@@ -22,6 +22,9 @@ interval: 0
 # skifta — verb (grupp 1)
 
 📖 中文：转变；交替变化 · English: to shift; to alternate; to vary
+
+🇸🇪 Förklaring: bli annorlunda; gå över från ett läge eller en färg till en annan, ofta flera gånger
+
 发音提示：SKIF-ta（重音在第一音节）
 
 ## 语法变形 (Forms)

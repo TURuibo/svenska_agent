@@ -7,9 +7,9 @@ genus: en
 cefr: A1
 zh: "东西；事情"
 en: "thing, matter"
-synonyms: []
+synonyms: [grej, ting]
 antonyms: []
-family: []
+family: [saklig, sakfråga]
 topics: []
 sentences: [sent-han-ville-ha-ett-liv]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # sak — substantiv (en)
 
 📖 中文：东西；事情 · English: thing, matter
+
+🇸🇪 Förklaring: 1) föremål som man kan ta på; 2) något som händer eller som man talar om
+
 发音提示：/sɑːk/（长 a）
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: saklig（客观的、切题的）、sakfråga（具体问题）
-- 同义词: grej（口语）、ting（较书面）
-- 反义词:
+- 词族: [[saklig]]（客观的、切题的）, [[sakfråga]]（具体问题）
+- 同义词: [[grej]]（口语）, [[ting]]（较书面）
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

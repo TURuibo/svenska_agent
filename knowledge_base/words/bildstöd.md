@@ -19,6 +19,9 @@ created: "2026-09-26"
 # bildstöd — substantiv
 
 📖 中文：图片辅助 · English: picture support
+
+🇸🇪 Förklaring: foton eller symboler som hjälper någon att förstå och kommunicera
+
 发音提示：/ˈbilːdˌstøːd/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bild]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

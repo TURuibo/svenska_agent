@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "距离"
 en: "distance"
-synonyms: ["distans"]
-antonyms: []
-family: []
+synonyms: [distans]
+antonyms: [närhet]
+family: [stå, avståndstagande]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # avstånd — substantiv
 
 📖 中文：距离 · English: distance
+
+🇸🇪 Förklaring: hur långt det är mellan två saker, personer eller platser
+
+发音提示：/ˈɑːvˌstɔnd/ — 重音在 av，å 读短音
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
+- 词族: [[stå]] (站), [[avståndstagande]] (疏远的)
 - 同义词: [[distans]]
-- 反义词: []
+- 反义词: [[närhet]] (邻近)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

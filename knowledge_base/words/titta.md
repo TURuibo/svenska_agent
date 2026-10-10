@@ -7,8 +7,8 @@ genus: ""
 cefr: "A1"
 zh: "看；看一看"
 en: "to look / have a look"
-synonyms: []
-antonyms: []
+synonyms: [se-på, betrakta]
+antonyms: [blunda]
 family: [se, kolla, titt]
 topics:
   - topic-vardagsrutin
@@ -25,6 +25,9 @@ interval: 0
 # titta — verb (grupp 1)
 
 📖 中文：看；看一看 · English: to look / have a look
+
+🇸🇪 Förklaring: rikta blicken mot något för att se det
+
 发音提示：TIT-ta；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[se]] (v. 看见/看，更广义), [[kolla]] (v. 查看，口语)
-- 同义词: [[se på]] (看/观看), [[betrakta]] (v. 凝视，较正式)
+- 词族: [[se]] (v. 看见/看，更广义), [[kolla]] (v. 查看，口语), [[titt]]
+- 同义词: [[se-på|se på]] (看/观看), [[betrakta]] (v. 凝视，较正式)
 - 反义词: [[blunda]] (v. 闭眼不看)
 - 主题: [[topic-vardagsrutin]]
 

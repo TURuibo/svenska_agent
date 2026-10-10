@@ -9,7 +9,7 @@ zh: 渎职；公务失职
 en: misconduct in office, dereliction of duty
 synonyms: []
 antonyms: []
-family: ["tjänst", "fel"]
+family: [sammansatt-ord, tjänst, fel]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-nu-har-han-blivit-domd-for-brottet
@@ -24,6 +24,9 @@ interval: 0
 # tjänstefel — substantiv
 
 📖 中文：渎职；公务失职 · English: misconduct in office, dereliction of duty
+
+🇸🇪 Förklaring: brott där en offentligt anställd slarvar med eller missbrukar sina arbetsuppgifter
+
 发音提示：TJÄN-ste-fel
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sammansatt ord: tjänst + fel
+- 词族: [[sammansatt-ord|sammansatt ord]]: tjänst + fel, [[tjänst]], [[fel]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: pronomen
 cefr: A2
 zh: 这样的；那种
 en: such
-synonyms: []
+synonyms: [dylik]
 antonyms: []
-family: []
+family: [så]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # sådan — pronomen
 
 📖 中文：这样的；那种 · English: such
+
+🇸🇪 Förklaring: av det här eller det slaget; används för att peka på en viss typ av sak eller person
+
 发音提示：/ˈsoːdan/
 
 ## 语法变形 (Forms)
@@ -35,9 +38,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[så]] (这样)
+- 同义词: [[dylik]] (此类的)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

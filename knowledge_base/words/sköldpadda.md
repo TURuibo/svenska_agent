@@ -8,7 +8,7 @@ zh: "乌龟、龟"
 en: "turtle / tortoise"
 synonyms: []
 antonyms: []
-family: []
+family: [sköld, padda]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sköldpadda — substantiv (en)
 
 📖 中文：乌龟、龟 · English: turtle / tortoise
+
+🇸🇪 Förklaring: djur med ett hårt skal på ryggen som det kan dra in huvudet och benen i
+
 发音提示：/ˈɧøːldˌpadːa/
 
 ## 语法变形 (Forms)

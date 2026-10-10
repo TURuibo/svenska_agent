@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "强壮的；强烈的"
 en: "strong"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [kraftig, kraftfull]
+antonyms: [svag]
+family: [styrka, stärka, starkt]
 topics: [topic-kropp, topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # stark — adjektiv
 
 📖 中文：强壮的；强烈的 · English: strong
+
+🇸🇪 Förklaring: 1) som har mycket kraft i kroppen; 2) som är kraftig eller intensiv, t.ex. om smak, ljus eller vind
+
 发音提示：/stark/
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[styrka]] (力量), [[stärka]] (加强), [[starkt]] (强烈地)
+- 同义词: [[kraftig]] (有力的), [[kraftfull]] (强有力的)
+- 反义词: [[svag]] (弱的)
 - 主题: [[topic-kropp]] · [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

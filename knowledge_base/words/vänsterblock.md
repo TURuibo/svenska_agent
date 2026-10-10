@@ -6,9 +6,9 @@ genus: "ett"
 cefr: B2
 zh: 左翼阵营
 en: left-wing bloc
-synonyms: []
+synonyms: [de-rödgröna]
 antonyms: [högerblock]
-family: []
+family: [vänster, block, vänsterparti]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # vänsterblock — substantiv (ett)
 
 📖 中文：左翼阵营 · English: left-wing bloc
+
+🇸🇪 Förklaring: grupp av socialistiska och rödgröna partier som samarbetar i riksdagen
+
 发音提示：/ˈvɛnstɛrblɔk/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: högerblock
+- 词族: [[vänster]] (左), [[block]] (阵营), [[vänsterparti]] (左翼党)
+- 同义词: [[de-rödgröna|de rödgröna]] (红绿阵营)
+- 反义词: [[högerblock]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

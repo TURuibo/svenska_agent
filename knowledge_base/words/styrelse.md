@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 理事会；董事会；委员会
 en: board; management committee; board of directors
-synonyms: []
+synonyms: [ledning, direktion]
 antonyms: []
-family: []
+family: [styra]
 topics: [topic-hemmet, topic-arbete]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # styrelse — substantiv (en)
 
 📖 中文：理事会；董事会；委员会 · English: board; management committee
+
+🇸🇪 Förklaring: grupp personer som leder och fattar beslut för en förening, ett företag eller en organisation
+
 发音提示：STYR-el-se，三音节，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: styra (to govern/steer)
-- 同义词: —
+- 词族: [[styra]] (to govern/steer)
+- 同义词: [[ledning]] (领导层), [[direktion]] (董事会)
 - 反义词: —
 - 主题: [[topic-hemmet]], [[topic-arbete]]
 

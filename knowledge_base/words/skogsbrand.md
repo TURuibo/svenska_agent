@@ -8,7 +8,7 @@ zh: "森林火灾"
 en: "forest fire"
 synonyms: []
 antonyms: []
-family: []
+family: [skog, brand, brandfara]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # skogsbrand — substantiv
 
 📖 中文：森林火灾 · English: forest fire
-发音提示：
+
+🇸🇪 Förklaring: stor eld som sprider sig bland träd och mark ute i naturen
+
+发音提示：/ˈskuːɡsˌbrand/ — o 读长 uː；主重音在 skog
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[skog]] (森林), [[brand]] (火灾), [[brandfara]] (火险)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

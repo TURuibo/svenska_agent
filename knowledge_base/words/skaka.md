@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "震动；摇晃；颤抖"
 en: "to shake; to tremble"
-synonyms: []
+synonyms: [darra, skälva]
 antonyms: []
-family: []
+family: [jordbävning]
 topics: [topic-jordbävning-katastrof]
 sentences:
   - sent-i-onsdags-var-det-tva-stora-jordbavningar
@@ -24,6 +24,9 @@ interval: 0
 # skaka — verb (grupp 1)
 
 📖 中文：震动；摇晃；颤抖 · English: to shake; to tremble
+
+🇸🇪 Förklaring: röra något snabbt fram och tillbaka; röra sig så själv, t.ex. av kyla eller rädsla
+
 发音提示：SKA-ka；两个音节，短促。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[jordbävning]]
-- 同义词: —
+- 同义词: [[darra]] (颤抖), [[skälva]] (震颤)
 - 反义词: —
 - 主题: [[topic-jordbävning-katastrof]]
 

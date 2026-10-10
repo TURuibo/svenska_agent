@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: B1
 zh: 寄到家里
 en: to send home
-synonyms: []
+synonyms: [skicka-hem]
 antonyms: []
 family: [hem]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # hemskicka — verb (grupp 1)
 
 📖 中文：（把东西）寄到家里 · English: to send (to someone's home)
+
+🇸🇪 Förklaring: låta en vara komma med post eller bud direkt till ens bostad
+
+发音提示：/ˈhɛmːˌɧɪka/ — sk 在 i 前读 ɧ；重音在 hem
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hem]] + skicka
-- 同义词:
-- 反义词:
+- 同义词: [[skicka-hem|skicka hem]] (寄到家)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

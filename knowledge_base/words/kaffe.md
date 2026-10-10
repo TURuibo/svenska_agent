@@ -19,6 +19,9 @@ created: "2026-09-26"
 # kaffe — substantiv
 
 📖 中文：咖啡 · English: coffee
+
+🇸🇪 Förklaring: varm brun dryck som man gör av rostade och malda bönor
+
 发音提示：[ˈkafːɛ] 短 a、双 f，重音在第一音节；与英语 coffee 拼写不同。
 
 ## 语法变形 (Forms)

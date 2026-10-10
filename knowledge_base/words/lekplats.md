@@ -19,6 +19,9 @@ created: "2026-09-26"
 # lekplats — substantiv (en)
 
 📖 中文：游乐场 · English: playground
+
+🇸🇪 Förklaring: ställe utomhus med gungor, sandlåda och klätterställning där barn kan roa sig
+
 发音提示：/ˈleːkˌplats/ — *lek*（玩）+ *plats*（地方），重音在 *lek*。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[leka]] · [[plats]] · [[lekträff]]
+- 词族: [[leka]] · [[plats]] · [[lekträff]], [[plats]], [[lekträff]] (约孩子一起玩)
 - 同义词: [[lekpark]]
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]

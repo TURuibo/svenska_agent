@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "计划；规划；安排"
 en: "to plan"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ordna]
+antonyms: [improvisera]
+family: [plan, planering, planerad]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-om-du-har-skulder-eller-svårt-att-planera]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # planera — verb (grupp 1)
 
 📖 中文：计划；规划；安排 · English: to plan
+
+🇸🇪 Förklaring: tänka ut i förväg vad man ska göra och hur
+
 发音提示：pla-NE-ra，重音在第二音节 `ne`。
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `en plan`（计划）、`en planering`（规划）、`planerad`（有计划的）
-- 同义词: —（近义 `ordna`、`förbereda`）
-- 反义词: —
+- 词族: [[plan]]（计划）, [[planering]]（规划）, [[planerad]]（有计划的）
+- 同义词: —（近义 [[ordna]]、[[förbereda]]）
+- 反义词: [[improvisera]] (即兴发挥)
 - 主题: [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: A1
 zh: 觉得、认为；tycka om 喜欢
 en: to think, find; tycka om = to like
-synonyms: [mena, tro]
-antonyms: []
-family: []
+synonyms: [mena, tro, gilla]
+antonyms: [ogilla]
+family: [tycke, tyckas]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # tycka — verb (grupp 2)
 
 📖 中文：觉得、认为；tycka om 喜欢 · English: to think, find; tycka om = to like
+
+🇸🇪 Förklaring: ha en viss åsikt eller känsla om något; (med om) gilla någon eller något
+
 发音提示：/ˈtʏka/；tyckte /ˈtʏktɛ/
 
 ## 语法变形 (Forms)
@@ -56,9 +59,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: [[mena]], [[tro]]（表达看法时）；[[gilla]]（≈ tycka om）
-- 反义词:
+- 词族: [[tycke]] (好感；喜好), [[tyckas]] (似乎)
+- 同义词: [[mena]], [[tro]]（表达看法时）, [[gilla]]（≈ tycka om）
+- 反义词: [[ogilla]] (不喜欢)
 - 主题:
 
 ## 用法提示 (Usage Notes)

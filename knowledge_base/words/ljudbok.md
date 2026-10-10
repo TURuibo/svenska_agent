@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "有声书"
 en: "audiobook"
-synonyms: []
+synonyms: [talbok]
 antonyms: []
-family: ["ljud", "bok"]
+family: [ljud, bok]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # ljudbok — substantiv (en)
 
 📖 中文：有声书 · English: audiobook
+
+🇸🇪 Förklaring: inspelning där någon läser upp en roman eller annan text som man lyssnar på
+
 发音提示：LJUD-bok
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ljud]], [[bok]]
+- 同义词: [[talbok]] (有声读物)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

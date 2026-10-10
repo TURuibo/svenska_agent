@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 路；道路；途径
 en: road, way
-synonyms: []
+synonyms: [gata]
 antonyms: []
-family: ["vägledning", "vägarbete"]
+family: [vägledning, vägarbete]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # väg — substantiv (en-ord)
 
 📖 中文：路；道路；途径 · English: road, way
+
+🇸🇪 Förklaring: sträcka där man kan åka eller gå från en plats till en annan; sätt att nå ett mål
+
 发音提示：/veːɡ/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vägledning (指导), vägarbete (道路施工)
+- 词族: [[vägledning]] (指导), [[vägarbete]] (道路施工)
 - 同义词: [[gata]]
 - 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-trafik]]

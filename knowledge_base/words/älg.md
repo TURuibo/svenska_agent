@@ -9,7 +9,7 @@ zh: "驼鹿；麋鹿"
 en: "moose/elk"
 synonyms: []
 antonyms: []
-family: []
+family: [älgjakt, älgkött]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # älg — substantiv (en)
 
 📖 中文：驼鹿；麋鹿 · English: moose/elk
+
+🇸🇪 Förklaring: stort hjortdjur med långa ben och breda horn som lever i skogen
+
 发音提示：/ɛlj/
 
 ## 语法变形 (Forms)

@@ -7,9 +7,9 @@ genus: en
 cefr: "A2"
 zh: "首相"
 en: "prime minister"
-synonyms: []
+synonyms: [premiärminister, regeringschef]
 antonyms: []
-family: ["stat", "minister", "regering"]
+family: [stat, regering, minister]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # statsminister — substantiv (en)
 
 📖 中文：首相 · English: prime minister
+
+🇸🇪 Förklaring: politiker som leder regeringen i ett land
+
 发音提示：STATS-mi-nis-ter（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[stat]], [[regering]]
+- 词族: [[stat]], [[regering]], [[minister]]
+- 同义词: [[premiärminister]] (总理), [[regeringschef]] (政府首脑)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

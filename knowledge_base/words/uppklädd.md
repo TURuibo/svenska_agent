@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "穿得正式的"
 en: "dressed up"
-synonyms: []
+synonyms: [finklädd]
 antonyms: []
-family: ["klä"]
+family: [klä]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # uppklädd — adjektiv
 
 📖 中文：穿得正式的 · English: dressed up
+
+🇸🇪 Förklaring: som har satt på sig fina kläder, till exempel inför en fest
+
+发音提示：/ˈɵpːˌklɛdː/ — 重音在 upp；ä 读短音，dd 长
 
 ## 语法变形 (Forms)
 
@@ -41,8 +45,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klä]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[finklädd]] (盛装的)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

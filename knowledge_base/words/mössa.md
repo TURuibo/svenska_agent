@@ -8,7 +8,7 @@ zh: "毛线帽/冬帽"
 en: "winter hat/beanie"
 synonyms: [hatt]
 antonyms: []
-family: []
+family: [vintermössa, studentmössa]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # mössa — substantiv (en-ord)
 
 📖 中文：毛线帽/冬帽 · English: winter hat/beanie
+
+🇸🇪 Förklaring: mjuk huvudbonad, ofta stickad, som man har på sig när det är kallt
+
 发音提示：/ˈmœsːa/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vintermössa]] (冬帽), [[studentmössa]] (学生帽)
 - 同义词: [[hatt]] (不同类型的帽子)
+- 反义词: —
 - 家族词: [[studentmössa]]
 - 主题: [[topic-klader]]
 

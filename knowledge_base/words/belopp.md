@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "金额，款项"
 en: "amount, sum"
-synonyms: ["summa"]
+synonyms: [summa]
 antonyms: []
-family: []
+family: [totalbelopp, engångsbelopp]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # belopp — substantiv (ett-ord)
 
 📖 中文：金额，款项 · English: amount, sum
+
+🇸🇪 Förklaring: mängd pengar, till exempel det som man ska betala eller får
+
 发音提示：be-LOPP
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-10-03"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[totalbelopp]] (总金额), [[engångsbelopp]] (一次性金额)
 - 同义词: [[summa]]
 - 反义词: —
 - 主题: [[topic-arbete-och-jobb]]

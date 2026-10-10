@@ -7,8 +7,8 @@ genus: "ett"
 cefr: "B1"
 zh: "合作"
 en: "cooperation; collaboration"
-synonyms: []
-antonyms: []
+synonyms: [kollaboration, lagarbete]
+antonyms: [konkurrens]
 family: [samarbeta, arbete]
 topics: [topic-samhälle-och-politik, topic-arbete]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # samarbete — substantiv (ett)
 
 📖 中文：合作 · English: cooperation; collaboration
+
+🇸🇪 Förklaring: det att flera personer eller grupper gör något tillsammans för ett gemensamt mål
+
 发音提示：sam-AR-be-te；重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[samarbeta]] (stub), [[arbete]]
-- 同义词: —
-- 反义词: —
+- 词族: [[samarbeta]], [[arbete]]
+- 同义词: [[kollaboration]] (协作), [[lagarbete]] (团队合作)
+- 反义词: [[konkurrens]] (竞争)
 - 主题: [[topic-samhälle-och-politik]], [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B2"
 zh: "呼吁；敦促；督促"
 en: "to urge; to call on; to exhort"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [be, kräva]
+antonyms: [avråda]
+family: [uppmaning, mana]
 topics: [topic-argumentation]
 sentences: [sent-jag-uppmanar-politikerna-att-ta-frågan-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # uppmana — verb (grupp 1)
 
 📖 中文：呼吁；敦促；督促 · English: to urge; to call on; to exhort
+
+🇸🇪 Förklaring: be eller säga till någon med eftertryck att göra något
+
 发音提示：UPP-ma-na，重音在第一音节（`upp-` 词头）。
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `uppmaning`（名词：呼吁）、`mana`（鼓动，古旧）
-- 同义词: `be`（请求，更口语）、`kräva`（要求，更强）
-- 反义词: `avråda`（劝阻）
+- 词族: [[uppmaning]]（名词：呼吁）, [[mana]]（鼓动，古旧）
+- 同义词: [[be]]（请求，更口语）, [[kräva]]（要求，更强）
+- 反义词: [[avråda]]（劝阻）
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

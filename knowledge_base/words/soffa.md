@@ -29,6 +29,9 @@ interval: 0
 # soffa — substantiv (en)
 
 📖 中文：沙发 · English: sofa; couch
+
+🇸🇪 Förklaring: bred och mjuk möbel med ryggstöd där flera personer kan sitta
+
 发音提示：SOF-fa；两音节，双写 ff.
 
 ## 语法变形 (Forms)

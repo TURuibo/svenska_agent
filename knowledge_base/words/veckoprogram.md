@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "每周课程表；每周活动安排"
 en: "weekly schedule; weekly program"
-synonyms: [schema, veckosschema]
+synonyms: [schema, veckoschema, veckosschema]
 antonyms: []
-family: [vecka, program]
+family: [vecka, program, schema]
 topics: [topic-skola, topic-fritid]
 sentences: [sent-har-ar-vart-veckoprogram-for-sommaren, sent-veckaprogrammet-visar-alla-aktiviteter]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # veckoprogram — substantiv (ett)
 
 Zh: 每周课程表；每周活动安排 · English: weekly schedule; weekly program
+
+🇸🇪 Förklaring: plan som visar vad som ska hända varje dag under en vecka
+
 发音提示：VEK-ko-pro-gram（四个音节）
 
 ## 语法变形 (Forms)
@@ -51,8 +54,9 @@ Zh: 每周课程表；每周活动安排 · English: weekly schedule; weekly pro
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[vecka]]（周），[[program]]（程序；计划），[[schema]]（时间表）
-- 同义词: [[schema]]（课程表/时间表）, veckoschema（每周时间表）
+- 词族: [[vecka]]（周）, [[program]]（程序；计划）, [[schema]]（时间表）
+- 同义词: [[schema]]（课程表/时间表）, [[veckoschema]]（每周时间表）, [[veckosschema]]
+- 反义词: —
 - 主题: [[topic-skola]], [[topic-fritid]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "擦窗"
 en: "window cleaning"
-synonyms: []
+synonyms: [fönstertvätt]
 antonyms: []
 family: [fönster]
 topics: [topic-grannar-boende]
@@ -23,6 +23,9 @@ interval: 0
 # fönsterputs — substantiv
 
 📖 中文：擦窗 · English: window cleaning
+
+🇸🇪 Förklaring: det att tvätta rutorna så att glaset blir rent och klart
+
 发音提示： "fön-ster-puts"
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ Otalbart (ingen naturlig plural). Sammansättning: `fönster` + `puts`.
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fönster]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 同义词: [[fönstertvätt]] (擦窗)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

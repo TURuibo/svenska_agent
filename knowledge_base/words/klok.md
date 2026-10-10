@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "明智的；有智慧的"
 en: "wise; sensible; clever"
-synonyms: ["duktig"]
-antonyms: ["dum"]
-family: []
+synonyms: [duktig, intelligent]
+antonyms: [dum]
+family: [klokhet]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # klok — adjektiv
 
 📖 中文：明智的；有智慧的 · English: wise; sensible; clever
+
+🇸🇪 Förklaring: som tänker efter och fattar bra och förnuftiga beslut
+
 发音提示：/kluːk/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: klokhet (智慧, substantiv)
-- 同义词: [[duktig]] (能干的), intelligent
+- 词族: [[klokhet]] (智慧, substantiv)
+- 同义词: [[duktig]] (能干的), [[intelligent]]
 - 反义词: [[dum]]
 - 主题: [[topic-karaktarsord]]
 

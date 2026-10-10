@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: "蛋糕（奶油层蛋糕）"
 en: "cake (layered/cream cake)"
-synonyms: ["kaka"]
+synonyms: [kaka]
 antonyms: []
-family: []
+family: [tårtbit, tårtform]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tårta — substantiv (en-ord)
 
 📖 中文：蛋糕（奶油层蛋糕） · English: cake (layered/cream cake)
+
+🇸🇪 Förklaring: stor, söt kaka i flera lager med grädde, sylt eller frukt, ofta till fest
+
 发音提示：['tɔrta]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tårtbit (一块蛋糕), tårtform (蛋糕模具)
+- 词族: [[tårtbit]] (一块蛋糕), [[tårtform]] (蛋糕模具)
 - 同义词: [[kaka]]（更宽泛的饼干/小蛋糕）
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

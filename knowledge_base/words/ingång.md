@@ -6,12 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "入口"
 en: "entrance"
-synonyms: []
-antonyms:
-  - utgång
-family:
-  - gå
-  - utgång
+synonyms: [entré]
+antonyms: [utgång]
+family: [gå, utgång]
 topics:
   - topic-stadsmiljo
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # ingång — substantiv en
 
 📖 中文：入口 · English: entrance
+
+🇸🇪 Förklaring: dörr eller öppning där man går in i en byggnad eller ett område
+
 发音提示：/IN-gong/
 
 ## 语法变形 (Forms)
@@ -52,6 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[gå]] · [[utgång]]
+- 词族: [[gå]] · [[utgång]], [[utgång]] (出口)
+- 同义词: [[entré]] (入口)
 - 反义词: [[utgång]]（出口）
 - 主题: [[topic-stadsmiljo]]

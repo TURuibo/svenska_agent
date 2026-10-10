@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "缺勤；缺席"
 en: "absence"
 synonyms: []
-antonyms: []
+antonyms: [närvaro]
 family: [frånvaroanmälan]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # frånvaro — substantiv (en)
 
 📖 中文：缺勤；缺席 · English: absence
+
+🇸🇪 Förklaring: det att inte vara på en plats där man borde vara, till exempel i skolan eller på jobbet
+
 发音提示：[ˈfroːnˌvaːrʊ]，från + varo。
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-09-26"
 
 - 词族: [[frånvaroanmälan]]
 - 同义词: —
-- 反义词: närvaro（出席）
+- 反义词: [[närvaro]]（出席）
 - 主题: [[topic-sjukt-barn-och-vab]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

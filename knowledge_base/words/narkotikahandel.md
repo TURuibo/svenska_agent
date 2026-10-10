@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "毒品交易"
 en: "drug trade"
-synonyms: []
+synonyms: [droghandel, knarkhandel]
 antonyms: []
-family: ["missbruk"]
+family: [missbruk]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # narkotikahandel — substantiv
 
 📖 中文：毒品交易 · English: drug trade
-发音提示：
+
+🇸🇪 Förklaring: olaglig försäljning och köp av droger
+
+发音提示：/narˈkuːtɪkaˌhandɛl/ — 重音在 ko；o 读 uː
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[missbruk]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: [[droghandel]] (毒品交易), [[knarkhandel]] (毒品买卖)
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

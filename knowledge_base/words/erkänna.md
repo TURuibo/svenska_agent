@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "承认；认罪；承认（某人/某事）"
 en: "to admit; to confess; to acknowledge"
-synonyms: []
+synonyms: [medge, bekänna]
 antonyms: [neka]
 family: [erkännande]
 topics: [topic-terrorism-och-brott]
@@ -24,6 +24,9 @@ interval: 0
 # erkänna — verb (grupp 4, oregelbundet)
 
 📖 中文：承认；认罪；承认（某人/某事） · English: to admit; to confess; to acknowledge
+
+🇸🇪 Förklaring: 1) säga att något är sant, ofta något som man har gjort fel; 2) säga att man har begått ett brott; 3) officiellt godkänna eller visa respekt för någon eller något
+
 发音提示：er-KÄN-na；重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -54,9 +57,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[erkännande]] (stub，名词：承认)
-- 同义词: —
-- 反义词: [[neka]] (stub，否认)
+- 词族: [[erkännande]] (名词：承认)
+- 同义词: [[medge]] (承认), [[bekänna]] (坦白)
+- 反义词: [[neka]] (否认)
 - 主题: [[topic-terrorism-och-brott]]
 
 ## 用法提示 (Usage Notes)

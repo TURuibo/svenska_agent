@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: A1
 zh: "给"
 en: "to give"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [skänka, överlämna]
+antonyms: [ta, få]
+family: [gåva, givare, ge-upp]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ge — verb
 
 📖 中文：给 · English: to give
+
+🇸🇪 Förklaring: räcka över eller skänka något så att någon annan får det
+
 发音提示：[jeː]
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ Starkt verb (verbgrupp 4). Oregelbunden vokalväxling.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[gåva]] (礼物), [[givare]] (给予者), [[ge-upp|ge upp]] (放弃)
+- 同义词: [[skänka]] (赠送), [[överlämna]] (交给)
+- 反义词: [[ta]] (拿), [[få]] (得到)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

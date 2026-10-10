@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "小班（1–3 岁）"
 en: "toddler section (ages 1–3) at a preschool"
-synonyms: []
+synonyms: [småbarnsgrupp]
 antonyms: [storbarnsavdelning]
 family: [avdelning, barn, förskola]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # småbarnsavdelning — substantiv (en)
 
 📖 中文：小班（1–3 岁） · English: toddler section (ages 1–3) at a preschool
+
+🇸🇪 Förklaring: grupp på förskolan för de yngsta, som är ungefär ett till tre år gamla
+
 发音提示：små-barns-av-del-ning，重音在 **små**；复合词 små + barn + s + avdelning（连接 -s-）。
 
 ## 语法变形 (Forms)
@@ -41,7 +44,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[avdelning]] · [[barn]] · [[förskola]]
+- 词族: [[avdelning]] · [[barn]] · [[förskola]], [[barn]] (孩子), [[förskola]]
+- 同义词: [[småbarnsgrupp]] (小班)
 - 反义词: [[storbarnsavdelning]]（大班，3–5 岁）
 - 主题: [[topic-förskola-vardag]]
 

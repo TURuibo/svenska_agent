@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "报病假"
 en: "to report sick"
-synonyms: []
+synonyms: [anmäla-sig-sjuk]
 antonyms: [friskanmäla]
 family: [sjuk, sjukanmälan, anmäla]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sjukanmäla — verb
 
 📖 中文：报病假 · English: to report sick
+
+🇸🇪 Förklaring: (sig) meddela arbetsplatsen eller skolan att man stannar hemma för att man inte är frisk
+
 发音提示：SJUK-an-mä-la，sj 读 /ɧ/（瑞典特有音），主重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sjuk]], [[sjukanmälan]], [[anmäla]]
-- 同义词: 
+- 同义词: [[anmäla-sig-sjuk|anmäla sig sjuk]] (报病假)
 - 反义词: [[friskanmäla]]
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 

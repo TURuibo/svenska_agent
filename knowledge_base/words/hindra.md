@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "阻止；妨碍；阻碍"
 en: "to prevent; to hinder; to obstruct"
-synonyms: [stoppa]
-antonyms: [tillåta]
+synonyms: [stoppa, blockera]
+antonyms: [tillåta, hjälpa]
 family: [hinder, förhindra]
 topics: [topic-allmänna-verb]
 sentences: [sent-i-en-rapport-beskriver-kommunen-hur-cyklarna]
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # hindra — verb (grupp 1)
 
 📖 中文：阻止；妨碍；阻碍 · English: to prevent; to hinder; to obstruct
+
+🇸🇪 Förklaring: göra så att något inte kan hända eller att någon inte kan göra något
+
 发音提示：HIN-dra，`i` 短。
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hinder]]（障碍）、[[förhindra]]（（事先）防止，较正式）
-- 同义词: [[stoppa]]（叫停；更口语、更强烈）；近义 `blockera`（堵住）
-- 反义词: [[tillåta]]（允许）、[[hjälpa]]（帮助）
+- 词族: [[hinder]]（障碍）, [[förhindra]]（（事先）防止，较正式）
+- 同义词: [[stoppa]]（叫停；更口语、更强烈）, 近义 [[blockera]]（堵住）
+- 反义词: [[tillåta]]（允许）, [[hjälpa]]（帮助）
 - 主题: [[topic-allmänna-verb]]
 
 ## 用法提示 (Usage Notes)

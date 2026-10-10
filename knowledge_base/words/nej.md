@@ -5,9 +5,9 @@ ordklass: interjektion
 cefr: A1
 zh: 不；不是
 en: no
-synonyms: []
-antonyms: [ja]
-family: []
+synonyms: [nä, nix]
+antonyms: [ja, jo]
+family: [nejsägare]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # nej — interjektion / adverb
 
 📖 中文：不；不是 · English: no
+
+🇸🇪 Förklaring: ord som man använder för att svara att något inte stämmer eller att man inte vill
+
+发音提示：/nɛj/ — 单音节；ej 读 ɛj
 
 ## 语法变形 (Forms)
 
@@ -37,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: ja, jo
+- 词族: [[nejsägare]] (唱反调的人)
+- 同义词: [[nä]] (不（口语）), [[nix]] (不（口语）)
+- 反义词: [[ja]], [[jo]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

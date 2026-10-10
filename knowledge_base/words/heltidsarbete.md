@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "全职工作"
 en: "full-time work"
-synonyms: ["heltid"]
-antonyms: ["deltid"]
-family: ["arbete", "heltid"]
+synonyms: [heltid]
+antonyms: [deltid]
+family: [arbete, heltid]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # heltidsarbete — substantiv (ett-ord)
 
 📖 中文：全职工作 · English: full-time work
+
+🇸🇪 Förklaring: jobb där man arbetar hela den vanliga arbetstiden, oftast ungefär 40 timmar i veckan
+
 发音提示：HELT-ids-ar-be-te
 
 ## 语法变形 (Forms)

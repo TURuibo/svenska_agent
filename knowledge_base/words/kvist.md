@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "小树枝"
 en: "twig; sprig"
-synonyms: []
+synonyms: [pinne]
 antonyms: []
-family: ["gren"]
+family: [gren]
 topics: ["topic-midsommar-traditioner", "topic-vader-och-arstider"]
 sentences: ["sent-de-plockar-blommor-och-grona-kvistar"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kvist — substantiv
 
 📖 中文：小树枝 · English: twig; sprig
+
+🇸🇪 Förklaring: liten tunn gren på ett träd eller en buske
+
 发音提示：[kvɪst]，kv- 开头，注意双辅音
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gren]]
-- 同义词:
-- 反义词:
+- 同义词: [[pinne]] (小棍)
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

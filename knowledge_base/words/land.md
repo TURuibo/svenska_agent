@@ -7,8 +7,8 @@ genus: "ett"
 cefr: "A1"
 zh: "国家;陆地;乡下"
 en: "country/land"
-synonyms: []
-antonyms: []
+synonyms: [stat, nation, landsbygd]
+antonyms: [hav, stad]
 family: [landslag]
 topics: [topic-samhälle-och-politik]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # land — substantiv (ett)
 
 📖 中文：国家；陆地；乡下 · English: country / land
+
+🇸🇪 Förklaring: 1) område med egen regering och egna gränser; 2) mark, i motsats till vatten; 3) område utanför städerna
+
 发音提示：/land/；短 a 音。
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[landslag]] (国家队)
-- 同义词: —
-- 反义词: —
+- 同义词: [[stat]] (国家), [[nation]] (国家；民族), [[landsbygd]] (乡村)
+- 反义词: [[hav]] (海), [[stad]] (城市)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

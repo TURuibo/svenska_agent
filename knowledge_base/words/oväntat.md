@@ -8,7 +8,7 @@ cefr: B1
 zh: 出乎意料地；意外地
 en: unexpectedly; surprisingly
 synonyms: [plötsligt]
-antonyms: []
+antonyms: [som-väntat, förutsägbart]
 family: [oväntad]
 topics: []
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # oväntat — adverb
 
 📖 中文：出乎意料地；意外地 · English: unexpectedly; surprisingly
+
+🇸🇪 Förklaring: på ett sätt som man inte hade räknat med
+
 发音提示：[uːˈvɛntat]，o- 前缀表否定，stress 在第二音节
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 - 词族: [[oväntad]]
 - 同义词: [[plötsligt]]
-- 反义词: —
+- 反义词: [[som-väntat|som väntat]] (如预期地), [[förutsägbart]] (可预见地)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

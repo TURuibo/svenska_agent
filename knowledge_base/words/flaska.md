@@ -8,7 +8,7 @@ zh: 瓶子
 en: bottle
 synonyms: []
 antonyms: []
-family: []
+family: [flaskpost, vattenflaska, nappflaska]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-09"
 # flaska — substantiv (en-ord)
 
 📖 中文：瓶子 · English: bottle
+
+🇸🇪 Förklaring: behållare av glas eller plast med smal hals som man har dryck i
+
 发音提示：/ˈflaska/
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[flaskpost]] (漂流瓶), [[vattenflaska]] (水瓶), [[nappflaska]] (奶瓶)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]、[[glas]]
 
 ## 用法提示 (Usage Notes)

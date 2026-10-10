@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 车站；站
 en: station
-synonyms: []
+synonyms: [hållplats]
 antonyms: []
-family: ["centralstation", "tågstation", "busstation"]
+family: [centralstation, tågstation, busstation]
 topics: ["topic-stadsmiljo", "topic-kollektivtrafik", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # station — substantiv (en-ord)
 
 📖 中文：车站；站 · English: station
+
+🇸🇪 Förklaring: plats där tåg, bussar eller tunnelbanan stannar så att resenärer kan stiga på och av
+
 发音提示：/staˈʃuːn/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[centralstation]], tågstation, busstation
+- 词族: [[centralstation]], [[tågstation]], [[busstation]]
 - 同义词: [[hållplats]]
 - 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-kollektivtrafik]], [[topic-trafik]]

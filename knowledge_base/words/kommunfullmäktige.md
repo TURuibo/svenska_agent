@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B2"
 zh: "市议会；市镇议会（市政最高决策机构）"
 en: "municipal council (the highest decision-making body of a municipality)"
-synonyms: []
+synonyms: [riksdag]
 antonyms: []
 family: [kommun, kommunal]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # kommunfullmäktige — substantiv (ett)
 
 📖 中文：市议会；市镇议会 · English: municipal council
+
+🇸🇪 Förklaring: församling av folkvalda politiker som fattar de viktigaste besluten i en kommun
+
 发音提示：kom-MUN-full-mäk-ti-ge。
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kommun]]（市镇）、[[kommunal]]（市镇的）
-- 同义词: —（对照：国家级的 `riksdag`；区域级的 `regionfullmäktige`）
+- 词族: [[kommun]]（市镇）, [[kommunal]]（市镇的）
+- 同义词: —（对照：国家级的 [[riksdag]]；区域级的 [[regionfullmäktige]]）
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

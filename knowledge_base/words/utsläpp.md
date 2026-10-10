@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "排放"
 en: "emission(s)"
-synonyms: []
+synonyms: [emission]
 antonyms: []
-family: [släppa ut, utsläppsminskning]
+family: [släppa-ut, utsläppsminskning]
 topics: [topic-miljö-och-klimat]
 sentences:
   - sent-hon-ville-att-politikerna-skulle-lyssna
@@ -24,6 +24,9 @@ interval: 0
 # utsläpp — substantiv (ett)
 
 📖 中文：排放 · English: emission(s)
+
+🇸🇪 Förklaring: gaser eller ämnen som kommer ut i luft, vatten eller mark och smutsar ner
+
 发音提示：/ˈʉːtslɛp/；ut（出）+ släpp（释放）的复合词。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: släppa ut（释放），utsläppsminskning（减排）
+- 词族: [[släppa-ut|släppa ut]]（释放）, [[utsläppsminskning]]（减排）
+- 同义词: [[emission]] (排放)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

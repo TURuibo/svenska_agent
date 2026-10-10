@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: A2
 zh: 感觉；认识；了解
 en: to feel; to know (a person)
-synonyms: []
+synonyms: [märka, vara-bekant-med]
 antonyms: []
-family: []
+family: [känsla]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # känna — verb (grupp 2b: känna – känner – kände – känt)
 
 📖 中文：感觉；认识（某人）；摸 · English: to feel; to know (someone)
+
+🇸🇪 Förklaring: 1) märka något med kroppen eller inom sig; 2) veta vem någon är eller ha träffat personen
+
+发音提示：/ˈɕɛnːa/ — k 在 ä 前读 ɕ（tj 音）
 
 ## 语法变形 (Forms)
 
@@ -55,9 +59,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: känsla（感觉）
-- 同义词:
-- 反义词:
+- 词族: [[känsla]]（感觉）
+- 同义词: [[märka]] (察觉), [[vara-bekant-med|vara bekant med]] (认识)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

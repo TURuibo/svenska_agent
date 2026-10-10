@@ -8,7 +8,7 @@ zh: 儿童雪橇
 en: sledge
 synonyms: [skridsko]
 antonyms: []
-family: []
+family: [pulkabacke, pulkaåkning]
 topics: [topic-idrott, topic-vader-och-arstider]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # pulka — substantiv (en)
 
 📖 中文：儿童雪橇 · English: sledge
+
+🇸🇪 Förklaring: liten kälke av plast som barn sitter i när de åker nerför backar på snön
+
 发音提示：/ˈpɵlːka/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[pulkabacke]] (雪橇坡), [[pulkaåkning]] (滑雪橇)
 - 同义词: [[skridsko]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-idrott]]、[[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

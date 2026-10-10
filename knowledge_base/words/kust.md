@@ -7,8 +7,8 @@ cefr: "A2"
 zh: "海岸；海滨"
 en: "coast"
 synonyms: []
-antonyms: []
-family: [natur]
+antonyms: [inland]
+family: [natur, hav, strand]
 topics: [topic-miljö-och-klimat]
 sentences:
   - sent-nu-planerar-de-att-lata-kushners-foretag-bygga
@@ -23,6 +23,9 @@ interval: 0
 # kust — substantiv
 
 📖 中文：海岸；海滨 · English: coast
+
+🇸🇪 Förklaring: landet närmast havet, där land och hav möts
+
 发音提示：kust
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[natur]], [[hav]], [[strand]]
+- 同义词: —
+- 反义词: [[inland]] (内陆)
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

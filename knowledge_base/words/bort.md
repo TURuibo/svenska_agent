@@ -5,8 +5,8 @@ ordklass: adverb
 cefr: A1
 zh: 离开、掉、去远处
 en: away, off
-synonyms: []
-antonyms: []
+synonyms: [iväg, undan]
+antonyms: [hit]
 family: [borta]
 topics: []
 sentences: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # bort — adverb
 
 📖 中文：离开、掉、去远处 · English: away, off
+
+🇸🇪 Förklaring: från den plats där man är till ett annat ställe
+
 发音提示：/bɔʈ/；`rt` 合成卷舌音 /ʈ/。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[borta]]（在远处；位置）
-- 同义词: —
-- 反义词: hit（朝这里）
+- 同义词: [[iväg]] (离开), [[undan]] (开；走)
+- 反义词: [[hit]]（朝这里）
 - 主题:
 
 ## 用法提示 (Usage Notes)

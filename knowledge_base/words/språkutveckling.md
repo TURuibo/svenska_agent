@@ -19,6 +19,9 @@ created: "2026-09-26"
 # språkutveckling — substantiv
 
 📖 中文：语言发展 · English: language development
+
+🇸🇪 Förklaring: hur ett barns eller en persons förmåga att förstå, tala och skriva växer med tiden
+
 发音提示：/ˈsproːkˌʉːtvekliŋ/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[språk]], [[utveckling]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

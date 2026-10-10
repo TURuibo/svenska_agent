@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "友好的"
 en: "friendly"
-synonyms: ["snäll", "trevlig"]
-antonyms: []
-family: ["vän"]
+synonyms: [snäll, trevlig]
+antonyms: [ovänlig, otrevlig]
+family: [vän]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # vänlig — adjektiv
 
 📖 中文：友好的 · English: friendly
+
+🇸🇪 Förklaring: som bemöter andra på ett snällt och hjälpsamt sätt
+
 发音提示：/ˈvɛnlɪɡ/
 
 ## 语法变形 (Forms)
@@ -47,6 +50,7 @@ interval: 0
 
 - 词族: [[vän]]
 - 同义词: [[snäll]], [[trevlig]]
+- 反义词: [[ovänlig]] (不友好的), [[otrevlig]] (不友善的)
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

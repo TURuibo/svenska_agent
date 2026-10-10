@@ -8,7 +8,7 @@ zh: 手肘
 en: elbow
 synonyms: []
 antonyms: []
-family: []
+family: [arm, handled]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # armbåge — substantiv (en)
 
 📖 中文：手肘 · English: elbow
+
+🇸🇪 Förklaring: led mitt på armen där man kan böja den
+
 发音提示：/ˈarmboːɡə/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[arm]], [[handled]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

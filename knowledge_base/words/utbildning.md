@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "教育、培训"
 en: "education, training"
-synonyms: []
+synonyms: [skolning, undervisning]
 antonyms: []
-family: []
+family: [utbilda, utbildad, yrkesutbildning]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # utbildning — substantiv (en-ord)
 
 📖 中文：教育、培训 · English: education, training
+
+🇸🇪 Förklaring: när man lär sig ett yrke eller ett ämne i skola eller på kurs; de kunskaper man har fått på det sättet
+
 发音提示：ut-BIL-dning
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[utbilda]], [[utbildad]], [[yrkesutbildning]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[skolning]] (培养；训练), [[undervisning]] (教学)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

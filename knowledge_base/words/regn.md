@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A1"
 zh: "雨"
 en: "rain"
-synonyms: []
-antonyms: []
-family: ["regna", "regnig", "regnbåge"]
+synonyms: [nederbörd]
+antonyms: [solsken]
+family: [regna, regnig, regnbåge]
 topics: ["topic-vader-och-arstider"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # regn — substantiv (ett)
 
 📖 中文：雨 · English: rain
+
+🇸🇪 Förklaring: vatten som faller i droppar från molnen
+
 发音提示：[reŋn]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: regna (下雨), regnig (雨天的), regnbåge (彩虹)
+- 词族: [[regna]] (下雨), [[regnig]] (雨天的), [[regnbåge]] (彩虹)
+- 同义词: [[nederbörd]] (降水)
+- 反义词: [[solsken]] (阳光)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

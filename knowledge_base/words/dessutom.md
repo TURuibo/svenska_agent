@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 此外；而且
 en: besides, moreover
-synonyms: []
+synonyms: [också, därtill, för-övrigt]
 antonyms: []
-family: []
+family: [dess, utom]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # dessutom — adverb
 
 📖 中文：此外，而且 · English: besides, in addition
+
+🇸🇪 Förklaring: används när man lägger till något mer till det man redan har sagt
+
 发音提示：/dɛsˈɵːtɔm/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[dess]] (其), [[utom]] (除…外)
+- 同义词: [[också]] (也), [[därtill]] (此外), [[för-övrigt|för övrigt]] (另外)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

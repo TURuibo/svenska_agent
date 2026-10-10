@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "国会，议会"
 en: "parliament (Swedish parliament)"
-synonyms: []
+synonyms: [parlament]
 antonyms: []
-family: [riksdagsledamot, riksdagsman]
+family: [riksdagsledamot, riksdagsman, riksdagsval]
 topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences:
   - sent-i-stället-satte-hon-sig-utanför-riksdagen
@@ -25,6 +25,9 @@ interval: 0
 # riksdag — substantiv (en)
 
 📖 中文：国会，议会 · English: parliament (Swedish parliament)
+
+🇸🇪 Förklaring: Sveriges parlament, där 349 folkvalda ledamöter stiftar lagar och beslutar om statens budget
+
 发音提示：/ˈrɪksˌdaːɡ/；rike（王国）+ dag（大会/集会）的复合词。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: riksdagsledamot（议员），riksdagsman（男议员），[[riksdagsval]]
+- 词族: [[riksdagsledamot]]（议员）, [[riksdagsman]]（男议员）, [[riksdagsval]]
+- 同义词: [[parlament]] (议会)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

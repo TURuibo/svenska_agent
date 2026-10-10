@@ -9,7 +9,7 @@ zh: "极圈"
 en: "polar circle, Arctic Circle"
 synonyms: []
 antonyms: []
-family: ["polarnatt", "midnattssol"]
+family: [polarnatt, midnattssol]
 topics: ["topic-vader-och-arstider"]
 sentences: ["sent-i-kiruna-som-ligger-norr-om-polcirkeln", "sent-polcirkeln-ligger-pa-66-5-graders-nordlig-latitud", "sent-kiruna-ligger-pa-68-grader-norr"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # polcirkel — substantiv (en)
 
 📖 中文：极圈 · English: polar circle, Arctic Circle
+
+🇸🇪 Förklaring: tänkt linje runt jorden; norr om den går solen inte ner på sommaren och inte upp på vintern
+
 发音提示：['puːlˌsɪrkəl]，复合词重音在 pol-
 
 ## 语法变形 (Forms)

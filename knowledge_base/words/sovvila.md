@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sovvila — substantiv (en)
 
 📖 中文：午睡（园里，App 栏目名） · English: nap time (at preschool)
+
+🇸🇪 Förklaring: stund mitt på dagen när de små barnen på förskolan lägger sig och tar en tupplur
+
 发音提示：/ˈsoːvˌviːla/ — sov + vila，两个长元音。
 
 ## 语法变形 (Forms)

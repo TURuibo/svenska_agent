@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "工资"
 en: "salary, wage"
-synonyms: []
+synonyms: [inkomst, avlöning]
 antonyms: []
-family: []
+family: [löneförhandling, löneskillnad, låglönejobb]
 topics: ["topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # lön — substantiv (en-ord)
 
 📖 中文：工资 · English: salary, wage
+
+🇸🇪 Förklaring: pengar som man regelbundet får för det arbete man gör
+
 发音提示：LÖN
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[löneförhandling]], [[löneskillnad]], [[låglönejobb]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[inkomst]] (收入), [[avlöning]] (薪水)
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

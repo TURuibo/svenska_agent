@@ -6,7 +6,7 @@ verbgrupp: "4 (oregelbundet, som sätta)"
 cefr: B1
 zh: 定居
 en: to settle down
-synonyms: []
+synonyms: [slå-sig-ner, etablera-sig]
 antonyms: []
 family: [emigrera]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # bosätta sig — verb (grupp 4, reflexivt)
 
 📖 中文：定居 · English: to settle down
+
+🇸🇪 Förklaring: flytta till en ny plats och stanna där för att leva
+
 发音提示：/ˈbuːˌsɛtːa/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[emigrera]]
-- 同义词:
-- 反义词:
+- 同义词: [[slå-sig-ner|slå sig ner]] (定居), [[etablera-sig|etablera sig]] (安顿下来)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

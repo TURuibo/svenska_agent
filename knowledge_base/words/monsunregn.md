@@ -8,7 +8,7 @@ zh: "季风雨"
 en: "monsoon rain"
 synonyms: []
 antonyms: []
-family: []
+family: [monsun, regn, monsunperiod]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # monsunregn — substantiv
 
 📖 中文：季风雨 · English: monsoon rain
-发音提示：
+
+🇸🇪 Förklaring: kraftigt regn som faller under vissa månader i södra Asien
+
+发音提示：/mɔnˈsʉːnˌrɛŋn/ — 重音在 sun；gn 读 ŋn
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[monsun]] (季风), [[regn]] (雨), [[monsunperiod]] (季风期)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

@@ -23,6 +23,9 @@ interval: 0
 # pärla — substantiv (en)
 
 📖 中文：珍珠 · English: pearl
+
+🇸🇪 Förklaring: liten, rund och glänsande kula som bildas i musslor och används i smycken
+
 发音提示：PÄR-la，重音第一音节。
 
 ## 语法变形 (Forms)

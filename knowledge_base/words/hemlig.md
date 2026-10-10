@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "秘密的"
 en: "secret"
-synonyms: []
-antonyms: []
+synonyms: [dold, konfidentiell]
+antonyms: [offentlig, öppen]
 family: [hemlighet]
 topics: [topic-forsvar-och-sakerhet]
 sentences: [sent-en-militar-och-hans-fru-misstanktes]
@@ -23,6 +23,9 @@ interval: 0
 # hemlig — adjektiv
 
 📖 中文：秘密的 · English: secret
+
+🇸🇪 Förklaring: som andra inte får veta eller känna till
+
 发音提示：HEM-lig
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hemlighet]]（秘密，名词，尚无笔记）
-- 同义词: —
-- 反义词: —
+- 同义词: [[dold]] (隐藏的), [[konfidentiell]] (机密的)
+- 反义词: [[offentlig]] (公开的), [[öppen]] (公开的；开放的)
 - 主题: [[topic-forsvar-och-sakerhet]]
 
 ## 用法提示 (Usage Notes)

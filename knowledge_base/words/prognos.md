@@ -22,6 +22,9 @@ interval: 0
 # prognos — substantiv (en)
 
 📖 中文：预测；预报 · English: forecast; prognosis
+
+🇸🇪 Förklaring: bedömning av hur något troligen kommer att bli i framtiden
+
 发音提示：prog-NOS（重音在末音节）
 
 ## 语法变形 (Forms)

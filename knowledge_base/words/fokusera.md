@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 专注
 en: to focus
-synonyms: []
+synonyms: [koncentrera-sig]
 antonyms: []
-family: []
+family: [fokus]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # fokusera — verb (grupp 1)
 
 📖 中文：专注 · English: to focus
+
+🇸🇪 Förklaring: rikta all sin uppmärksamhet och energi mot en sak
+
 发音提示：/fɔkɵˈseːra/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: fokus（名词，焦点）
-- 同义词:
-- 反义词:
+- 词族: [[fokus]]（名词，焦点）
+- 同义词: [[koncentrera-sig|koncentrera sig]] (集中精力)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

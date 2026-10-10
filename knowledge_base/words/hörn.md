@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "角落；转角"
 en: "corner"
-synonyms: []
+synonyms: [vinkel]
 antonyms: []
 family: [hörna, gathörn]
 topics: [topic-hemmet, topic-rumsliga-relationer]
@@ -24,6 +24,9 @@ interval: 0
 # hörn — substantiv (ett)
 
 📖 中文：角落；转角 · English: corner
+
+🇸🇪 Förklaring: ställe där två väggar, linjer eller gator möts
+
 发音提示：hörn（单音节）；ö rund.
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hörna]] (角落，方言/口语), [[gathörn]] (街角)
-- 同义词: —
+- 同义词: [[vinkel]] (角)
 - 反义词: —
 - 主题: [[topic-hemmet]], [[topic-rumsliga-relationer]]
 

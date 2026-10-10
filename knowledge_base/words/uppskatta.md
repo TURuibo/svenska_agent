@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "感激；欣赏；珍视；估计"
 en: "to appreciate; to value; to estimate"
-synonyms: [värdesätta, uppskatta]
-antonyms: []
+synonyms: [värdesätta, tacka]
+antonyms: [ringakta]
 family: [uppskattning, uppskattad]
 topics: []
 sentences: [sent-jag-uppskattar-det-verkligen]
@@ -23,6 +23,9 @@ interval: 0
 # uppskatta — verb (grupp 1)
 
 📖 中文：感激；欣赏；珍视；估计 · English: to appreciate; to value; to estimate
+
+🇸🇪 Förklaring: tycka om något, tycka att det är värdefullt och vara tacksam för det; räkna ut ungefär hur stort eller mycket något är
+
 发音提示：upp-SKAT-ta
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: uppskattning（感激；赞赏）, uppskattad（受赞赏的）
-- 同义词: värdesätta（珍视）, tacka（感谢）
+- 词族: [[uppskattning]]（感激；赞赏）, [[uppskattad]]（受赞赏的）
+- 同义词: [[värdesätta]]（珍视）, [[tacka]]（感谢）
+- 反义词: [[ringakta]] (轻视)
 
 ## 用法提示 (Usage Notes)
 

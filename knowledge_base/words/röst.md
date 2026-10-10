@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "声音; 配音; 选票"
 en: "voice; vote"
-synonyms: []
+synonyms: [stämma]
 antonyms: []
-family: ["rösta"]
+family: [rösta]
 topics: ["topic-film", "topic-val-demokrati"]
 sentences: ["sent-jag-tycker-att-det-är-viktigt-att-rösta", "sent-alla-får-ställa-upp-i-valet"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # röst — substantiv (en)
 
 📖 中文：声音; 配音; 选票 · English: voice; vote
+
+🇸🇪 Förklaring: 1) ljudet som kommer när man talar eller sjunger; 2) det att man väljer ett parti eller en kandidat i ett val
+
 发音提示：röst（单音节）
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rösta]]
-- 同义词:
-- 反义词:
+- 同义词: [[stämma]] (嗓音)
+- 反义词: —
 - 主题: [[topic-film]], [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

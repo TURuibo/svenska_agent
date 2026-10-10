@@ -9,7 +9,7 @@ zh: "气候"
 en: "climate"
 synonyms: []
 antonyms: []
-family: ["klimatmål", "klimataktivist", "klimatförändring"]
+family: [klimatmål, klimataktivist, klimatförändring]
 topics: ["topic-miljö-och-klimat", "topic-vader-och-arstider"]
 sentences:
   - sent-klimatet-blir-varmare
@@ -24,6 +24,9 @@ interval: 0
 # klimat — substantiv
 
 📖 中文：气候 · English: climate
+
+🇸🇪 Förklaring: det vanliga vädret på en plats under en lång tid
+
 发音提示：/ˈklɪˌmaːt/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klimatmål]] (气候目标), [[klimataktivist]] (气候活动家), [[klimatförändring]] (气候变化)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]], [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

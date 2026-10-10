@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "特别的；特殊的；专门的"
 en: "special; particular; specific; separate"
-synonyms: ["speciell"]
-antonyms: []
-family: ["särskilt", "i synnerhet"]
+synonyms: [speciell, specifik]
+antonyms: [vanlig, allmän]
+family: [särskilt, i-synnerhet]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # särskild — adjektiv
 
 📖 中文：特别的；特殊的；专门的 · English: special; particular; specific; separate
+
+🇸🇪 Förklaring: som skiljer sig från det vanliga; som är till för ett visst syfte eller en viss grupp
+
 发音提示：/ˈsæːrɧɪld/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: särskilt (adverb: especially/particularly)
-- 同义词: speciell (特别的), specifik (具体的)
+- 词族: [[särskilt]] (adverb: especially/particularly), [[i-synnerhet]]
+- 同义词: [[speciell]] (特别的), [[specifik]] (具体的)
+- 反义词: [[vanlig]] (普通的), [[allmän]] (一般的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

@@ -20,6 +20,9 @@ created: "2026-10-02"
 # skuldrådgivare — substantiv (en)
 
 📖 中文：债务顾问 · English: debt counsellor
+
+🇸🇪 Förklaring: person, ofta anställd av kommunen, som hjälper människor som har svårt att betala sina lån och räkningar
+
 发音提示：SKULD-råd-giv-a-re，重音在第一音节 `skuld`。
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[rådgivare]]（顾问）、[[skuld]]（债务）、[[råd]]（建议）
+- 词族: [[rådgivare]]（顾问）, [[skuld]]（债务）, [[råd]]（建议）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]

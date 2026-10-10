@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "辩论；讨论"
 en: "debate"
-synonyms: []
+synonyms: [diskussion, meningsutbyte]
 antonyms: []
 family: [debattera]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # debatt — substantiv
 
 📖 中文：辩论；讨论 · English: debate
+
+🇸🇪 Förklaring: samtal där personer med olika åsikter diskuterar en fråga, ofta offentligt
+
+发音提示：/dɛˈbatː/ — 重音在第二音节 batt；tt 读长辅音
 
 ## 语法变形 (Forms)
 
@@ -40,6 +44,7 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[debattera]]
+- 同义词: [[diskussion]] (讨论), [[meningsutbyte]] (意见交流)
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]

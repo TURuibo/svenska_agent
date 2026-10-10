@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "受到尊重的"
 en: "respected"
-synonyms: ["aktad", "uppskattad"]
-antonyms: ["föraktad"]
-family: ["respekt", "respektera"]
+synonyms: [aktad, uppskattad]
+antonyms: [föraktad]
+family: [respekt, respektera]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # respekterad — adjektiv
 
 📖 中文：受到尊重的 · English: respected
+
+🇸🇪 Förklaring: som många ser upp till och har höga tankar om
+
 发音提示：/re-spek-te-rad/
 
 ## 语法变形 (Forms)

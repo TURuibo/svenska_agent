@@ -23,6 +23,9 @@ interval: 0
 # förslag — substantiv (ett)
 
 📖 中文：提案、建议 · English: proposal, suggestion
+
+🇸🇪 Förklaring: idé eller plan som man lägger fram så att andra kan ta ställning till den
+
 发音提示：FÖR-slag
 
 ## 语法变形 (Forms)
@@ -51,8 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: föreslå（建议，动词）
-- 同义词: idé（点子）
+- 词族: [[föreslå]]（建议，动词）
+- 同义词: [[idé]]（点子）
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

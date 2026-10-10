@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "楼层；公寓"
 en: "floor, storey"
-synonyms: []
+synonyms: [plan, lägenhet]
 antonyms: []
-family: []
+family: [bottenvåning, övervåning, våningssäng]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # våning — substantiv
 
 📖 中文：楼层；公寓 · English: floor, storey
+
+🇸🇪 Förklaring: en av nivåerna i ett hus; stor lägenhet
+
 发音提示： "vå-ning"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[bottenvåning]] (底层), [[övervåning]] (楼上), [[våningssäng]] (上下铺)
+- 同义词: [[plan]] (层), [[lägenhet]] (公寓)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

@@ -23,6 +23,9 @@ interval: 0
 # linjal — substantiv (en-ord)
 
 📖 中文：尺子、直尺 · English: ruler
+
+🇸🇪 Förklaring: platt och rak bit av plast, trä eller metall med centimetermarkering som man mäter och drar raka streck med
+
 发音提示：lin-JAL
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[linje]] (线、线路)
-- 同义词: []
-- 反义词: []
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

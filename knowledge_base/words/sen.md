@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "晚的；迟的；发育迟的"
 en: "late"
-synonyms: []
+synonyms: [försenad]
 antonyms: [tidig]
-family: []
+family: [sent, senast, senare, försening]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sen — adjektiv
 
 📖 中文：晚的；迟的；发育迟的 · English: late
+
+🇸🇪 Förklaring: som kommer eller händer efter den vanliga eller bestämda tiden; som utvecklas långsammare än andra
+
 发音提示：/seːn/ — 长 e
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sent]] (晚), [[senast]] (最迟), [[senare]] (后来), [[försening]] (延误)
+- 同义词: [[försenad]] (迟到的)
 - 反义词: [[tidig]]
 - 主题: [[topic-förskola-vardag]]
 

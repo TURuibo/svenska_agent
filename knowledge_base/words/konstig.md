@@ -7,7 +7,7 @@ zh: "奇怪的；奇特的"
 en: "strange; odd; weird"
 synonyms: [märklig, underlig]
 antonyms: [vanlig, normal]
-family: []
+family: [konstighet, konstigt-nog]
 topics: [topic-karaktarsord]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # konstig — adjektiv
 
 📖 中文：奇怪的；奇特的 · English: strange; odd; weird
+
+🇸🇪 Förklaring: som är annorlunda än vanligt och svår att förstå
+
 发音提示：KONS-tig（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[konstighet]] (怪事), [[konstigt-nog|konstigt nog]] (说来奇怪)
 - 同义词: [[märklig]], [[underlig]]
 - 反义词: [[vanlig]], [[normal]]
 - 主题: [[topic-karaktarsord]]

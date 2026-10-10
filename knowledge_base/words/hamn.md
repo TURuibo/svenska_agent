@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 港口、码头
 en: harbor, port
-synonyms: []
+synonyms: [kaj]
 antonyms: []
-family: []
+family: [hamna, hamnstad, småbåtshamn]
 topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hamn — substantiv (en)
 
 📖 中文：港口、码头 · English: harbor, port
+
+🇸🇪 Förklaring: plats vid kusten där båtar och fartyg kan lägga till och vara skyddade
+
 发音提示：HAMN
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[hamna]] (最终到达), [[hamnstad]] (港口城市), [[småbåtshamn]] (小船码头)
+- 同义词: [[kaj]] (码头)
+- 反义词: —
 - 主题: [[topic-trafik]], [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

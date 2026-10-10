@@ -6,8 +6,8 @@ cefr: B1
 zh: 受赞赏的
 en: appreciated
 synonyms: [omtyckt]
-antonyms: []
-family: []
+antonyms: [impopulär]
+family: [uppskatta, uppskattning]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # uppskattad — adjektiv
 
 📖 中文：受赞赏的 · English: appreciated
+
+🇸🇪 Förklaring: som många tycker om och tycker är bra
+
 发音提示：/ˈɵpːˌskatːad/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[uppskatta]] (赞赏), [[uppskattning]] (赞赏；估计)
 - 同义词: [[omtyckt]]
-- 反义词:
+- 反义词: [[impopulär]] (不受欢迎的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

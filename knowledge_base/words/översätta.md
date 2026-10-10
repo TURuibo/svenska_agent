@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: A2
 zh: 翻译
 en: to translate
-synonyms: []
+synonyms: [tolka]
 antonyms: []
-family: []
+family: [översättning, översättare, sätta]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # översätta — verb (grupp 2)
 
 📖 中文：翻译 · English: to translate
+
+🇸🇪 Förklaring: skriva eller säga samma sak på ett annat språk
+
 发音提示：/ˈøːvɛʂɛta/
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[översättning]] (翻译（名词）), [[översättare]] (翻译员), [[sätta]] (放置)
+- 同义词: [[tolka]] (口译)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

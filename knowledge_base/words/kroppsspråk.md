@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "身体语言"
 en: "body language"
-synonyms: []
+synonyms: [icke-verbal-kommunikation]
 antonyms: []
-family: ["kropp", "språk"]
+family: [kropp, språk]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # kroppsspråk — substantiv
 
 📖 中文：身体语言 · English: body language
+
+🇸🇪 Förklaring: sätt att uttrycka känslor och tankar med gester, minspel och hållning utan ord
+
+发音提示：/ˈkrɔpsˌsproːk/ — 重音在 kropps；å 读长 oː
 
 ## 语法变形 (Forms)
 
@@ -43,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kropp]]、[[språk]]
-- 同义词: []
-- 反义词: []
+- 词族: [[kropp]], [[språk]]
+- 同义词: [[icke-verbal-kommunikation|icke-verbal kommunikation]] (非语言交流)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

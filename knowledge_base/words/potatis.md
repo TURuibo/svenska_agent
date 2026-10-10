@@ -8,7 +8,7 @@ zh: "土豆、马铃薯"
 en: "potato"
 synonyms: []
 antonyms: []
-family: []
+family: [potatissoppa, potatischips, potatismos]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # potatis — substantiv (en-ord)
 
 📖 中文：土豆、马铃薯 · English: potato
+
+🇸🇪 Förklaring: vanlig grönsak som växer under jorden och som man kokar, steker eller gör mos av
+
 发音提示：[pʊ'taːtɪs]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: potatissoppa, potatischips, potatismos
+- 词族: [[potatissoppa]], [[potatischips]], [[potatismos]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

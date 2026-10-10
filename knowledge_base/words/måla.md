@@ -19,6 +19,9 @@ created: 2026-09-26
 # måla — verb (grupp 1)
 
 📖 中文：画画；涂色 · English: to paint
+
+🇸🇪 Förklaring: göra en bild med färg och pensel; täcka en yta med färg
+
 发音提示：/ˈmoːla/ — å 长音。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,7 @@ created: 2026-09-26
 
 - 词族: [[fingerfärg]]
 - 同义词: [[rita]]（用笔画）
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

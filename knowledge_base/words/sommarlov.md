@@ -8,7 +8,7 @@ zh: "暑假"
 en: "summer holiday; summer vacation"
 synonyms: []
 antonyms: []
-family: ["sommar", "lov"]
+family: [sommar, lov]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sommarlov — substantiv
 
 📖 中文：暑假 · English: summer holiday; summer vacation
+
+🇸🇪 Förklaring: lång ledighet från skolan mellan vårterminen och höstterminen
+
 发音提示：/ˈsɔmarˌluːv/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sommar]] (summer), [[lov]] (holiday/permission)
+- 同义词: —
+- 反义词: —
 - 相关: vinterlov (winter break), sportlov (mid-term holiday), påsklov (Easter break), höstlov (autumn break)
 - 主题: [[topic-skola-och-utbildning]]
 

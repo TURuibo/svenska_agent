@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: B2
 zh: 出版；(utge sig för)冒充
 en: to publish; to pose as
-synonyms: []
+synonyms: [publicera, låtsas-vara]
 antonyms: []
-family: []
+family: [ge, utgivare, utgåva, utgivning]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # utge — verb (oregelbundet)
 
 📖 中文：出版；(utge sig för)冒充 · English: to publish; to pose as
+
+🇸🇪 Förklaring: trycka och sprida en bok eller tidning; med ”sig för”: låtsas vara någon som man inte är
+
 发音提示：/ˈɵːtjeː/
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[ge]] (给), [[utgivare]] (出版者), [[utgåva]] (版本), [[utgivning]] (出版)
+- 同义词: [[publicera]] (出版), [[låtsas-vara|låtsas vara]] (假装是)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

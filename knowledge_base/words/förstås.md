@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "当然"
 en: "of course"
-synonyms: []
+synonyms: [naturligtvis]
 antonyms: []
-family: []
+family: [förstå]
 topics: [topic-förskola-vardag]
 sentences: [sent-föräldrar-stannar-kvar-under-kalaset-och]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # förstås — adverb
 
 📖 中文：当然，自然 · English: of course, naturally
+
+🇸🇪 Förklaring: används för att säga att något är självklart
+
 发音提示：/fœˈʂʈoːs/ — 重音在 **-stås**，rs 读成卷舌 /ʂ/，å 长音。
 
 ## 语法变形 (Forms)
@@ -40,7 +43,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: naturligtvis · självklart · så klart
+- 词族: [[förstå]] (理解)
+- 同义词: [[naturligtvis]] · självklart · så klart
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

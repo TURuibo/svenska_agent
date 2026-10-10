@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: B1
 zh: 迈步；踏上
 en: to step, stride
-synonyms: []
+synonyms: [stiga]
 antonyms: []
-family: []
+family: [kliv, kliva-på, kliva-av]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # kliva — verb (starkt: kliva – kliver – klev – klivit)
 
 📖 中文：迈步、踏（上/进） · English: to step
+
+🇸🇪 Förklaring: ta ett långt steg, till exempel upp på något eller över något
+
+发音提示：/ˈkliːva/ — i 读长音，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -43,9 +47,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[kliv]] (一大步), [[kliva-på|kliva på]] (上车), [[kliva-av|kliva av]] (下车)
+- 同义词: [[stiga]] (踏；登)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

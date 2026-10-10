@@ -6,12 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "冷藏柜；冰箱"
 en: "refrigerator; chilled section (in a shop)"
-synonyms:
-  - kylskåp
+synonyms: [kylskåp, kylmonter]
 antonyms: []
-family:
-  - kyla
-  - kylig
+family: [kyla, kylig]
 topics:
   - topic-mataffär
   - topic-hemmet
@@ -28,6 +25,9 @@ interval: 0
 # kyl — substantiv en
 
 📖 中文：冷藏柜；冰箱 · English: refrigerator; chilled section
+
+🇸🇪 Förklaring: skåp eller avdelning i en butik där man förvarar mat kall (vardagligt)
+
 发音提示：/çyl/ (kort y)
 
 ## 语法变形 (Forms)
@@ -53,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kyla]]
-- 同义词: kylskåp（家用），kylmonter（商业冷柜）
+- 词族: [[kyla]], [[kylig]] (冷淡的)
+- 同义词: [[kylskåp]]（家用）, [[kylmonter]]（商业冷柜）
+- 反义词: —
 - 主题: [[topic-mataffär]] · [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

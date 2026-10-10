@@ -23,6 +23,9 @@ interval: 0
 # sömn — substantiv (en)
 
 📖 中文：睡眠 · English: sleep
+
+🇸🇪 Förklaring: tillstånd då man vilar med stängda ögon och inte är vaken
+
 发音提示：SÖMN，单音节，ö 发前圆唇音。
 
 ## 语法变形 (Forms)

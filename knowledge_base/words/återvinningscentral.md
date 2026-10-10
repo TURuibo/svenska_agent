@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 回收中心
 en: recycling centre
-synonyms: []
+synonyms: [åvc, tipp]
 antonyms: []
 family: [återvinning, återvinningsstation]
 topics: [topic-källsortering]
@@ -18,6 +18,10 @@ created: "2026-10-09"
 # återvinningscentral — substantiv
 
 📖 中文：回收中心 · English: recycling centre
+
+🇸🇪 Förklaring: stor plats dit man kör grovsopor, farligt avfall och annat som ska sorteras
+
+发音提示：/ˈoːtɛrvɪnːɪŋs-sɛnˌtrɑːl/ — 重音在 åter；central 的 c 读 s
 
 ## 语法变形 (Forms)
 
@@ -36,7 +40,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[återvinning]] [[återvinningsstation]]
+- 词族: [[återvinning]] [[återvinningsstation]], [[återvinningsstation]] (回收站)
+- 同义词: [[åvc|ÅVC]] (回收中心（缩写）), [[tipp]] (垃圾场（口语）)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 
 ## 用法提示 (Usage Notes)

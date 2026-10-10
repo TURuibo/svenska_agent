@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "紧迫，急迫；（常用于固定结构）"
 en: "urgent, in a hurry"
-synonyms: ["brådskande"]
-antonyms: []
-family: []
+synonyms: [brådskande]
+antonyms: [gott-om-tid]
+family: [brådska, bråd]
 topics: []
 sentences:
   - sent-det-ar-brattom-om-man-ska-hitta
@@ -24,6 +24,9 @@ interval: 0
 # bråttom — adjektiv
 
 📖 中文：紧迫，急迫 · English: urgent, in a hurry
+
+🇸🇪 Förklaring: när man har lite tid och måste skynda sig; när något måste göras snabbt
+
 发音提示：/ˈbroːtːɔm/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ bråttom 几乎只用于固定短语，不单独变形：
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: brådskande（书面语，紧急的）
+- 词族: [[brådska]] (匆忙；紧急), [[bråd]] (忙碌的)
+- 同义词: [[brådskande]]（书面语，紧急的）
+- 反义词: [[gott-om-tid|gott om tid]] (时间充裕)
 - 参见短语: [[ha-bråttom]]
 
 ## 用法提示 (Usage Notes)

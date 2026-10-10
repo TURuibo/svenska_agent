@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "狼"
 en: "wolf"
-synonyms: []
+synonyms: [ulv]
 antonyms: []
-family: []
+family: [vargflock, vargunge]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # varg — substantiv (en)
 
 📖 中文：狼 · English: wolf
+
+🇸🇪 Förklaring: vilt rovdjur som liknar en stor hund och lever i flock
+
 发音提示：/varj/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vargflock]] (狼群), [[vargunge]] (幼狼)
-- 同义词: —
+- 同义词: [[ulv]] (狼（古语）)
 - 反义词: —
 - 主题: [[topic-djur]]
 

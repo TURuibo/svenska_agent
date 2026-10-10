@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B2"
 zh: "海蚀柱（哥特兰岛特有的石灰石柱状地貌）"
 en: "sea stack (limestone pillar formed by erosion, specific to Gotland)"
-synonyms: ["kalkstenspelare"]
+synonyms: [kalkstenspelare]
 antonyms: []
-family: ["kalksten"]
+family: [kalksten]
 topics: ["topic-geografi-natur", "topic-hav-och-kust"]
 sentences: ["sent-längs-med-ön-kan-man-se-raukar"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # rauk — substantiv (en)
 
 📖 中文：海蚀柱（哥特兰岛特有的石灰石柱状地貌） · English: sea stack (limestone pillar formed by erosion, specific to Gotland)
+
+🇸🇪 Förklaring: hög pelare av sten vid havet som vind och vågor har format, särskilt på Gotland och Fårö
+
 发音提示：[rawːk]
 
 ## 语法变形 (Forms)
@@ -48,6 +51,7 @@ interval: 0
 
 - 词族: [[kalksten]]
 - 同义词: [[kalkstenspelare]]
+- 反义词: —
 - 主题: [[topic-geografi-natur]], [[topic-hav-och-kust]]
 
 ## 用法提示 (Usage Notes)

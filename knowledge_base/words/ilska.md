@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "怒火"
 en: "anger"
-synonyms: ["vrede"]
-antonyms: []
-family: ["arg", "ilsken"]
+synonyms: [vrede]
+antonyms: [glädje, lugn]
+family: [arg, ilsken]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # ilska — substantiv (en)
 
 📖 中文：怒火 · English: anger
+
+🇸🇪 Förklaring: stark känsla av att vara arg
+
 发音提示：IL-ska
 
 ## 语法变形 (Forms)
@@ -42,8 +45,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[arg]]（生气的，形容词）
+- 词族: [[arg]]（生气的，形容词）, [[ilsken]]
 - 同义词: [[vrede]]（愤怒，更书面）
+- 反义词: [[glädje]] (高兴), [[lugn]] (平静)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

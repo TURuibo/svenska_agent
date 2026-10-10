@@ -19,6 +19,9 @@ created: 2026-10-02
 # inkomstskatt — substantiv (en)
 
 📖 中文：所得税 · English: income tax
+
+🇸🇪 Förklaring: pengar som man måste betala till staten och kommunen av det man tjänar
+
 发音提示：[ˈɪnkɔmstˌskat]
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: 2026-10-02
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skatt]], [[inkomst]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-skatt-och-deklaration]]
 
 ## 用法提示 (Usage Notes)

@@ -7,8 +7,8 @@ genus: "en"
 cefr: "A2"
 zh: "发展"
 en: "development"
-synonyms: []
-antonyms: []
+synonyms: [framsteg, tillväxt]
+antonyms: [tillbakagång, stagnation]
 family: [utveckla, utvecklingssamtal, språkutveckling]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # utveckling — substantiv
 
 📖 中文：发展 · English: development
+
+🇸🇪 Förklaring: förändring som gör att något blir större, bättre eller mer avancerat
+
 发音提示：/ˈʉːtˌvekliŋ/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[utveckla]], [[utvecklingssamtal]], [[språkutveckling]]
+- 同义词: [[framsteg]] (进步), [[tillväxt]] (增长)
+- 反义词: [[tillbakagång]] (倒退), [[stagnation]] (停滞)
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

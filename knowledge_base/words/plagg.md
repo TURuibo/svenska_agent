@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "服装/衣物"
 en: "garment"
-synonyms: []
+synonyms: [klädesplagg]
 antonyms: []
-family: []
+family: [ytterplagg, underplagg]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # plagg — substantiv (ett-ord)
 
 📖 中文：服装/衣物 · English: garment
+
+🇸🇪 Förklaring: sak som man har på sig, till exempel en tröja eller ett par byxor
+
 发音提示：/plaɡː/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[ytterplagg]] (外衣), [[underplagg]] (内衣)
+- 同义词: [[klädesplagg]] (衣物)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

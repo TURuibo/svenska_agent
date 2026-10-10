@@ -7,8 +7,8 @@ genus: ""
 cefr: A2
 zh: 被困/卡住
 en: to get stuck / to get trapped
-synonyms: []
-antonyms: []
+synonyms: [sitta-fast, haka-upp-sig]
+antonyms: [lossna, komma-loss]
 family: [fast]
 topics: [topic-jordbävning-katastrof]
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # fastna — verb (grupp 1)
 
 📖 中文：被困/卡住 · English: to get stuck / to get trapped
+
+🇸🇪 Förklaring: bli sittande och inte kunna komma loss eller fortsätta
+
 发音提示：/ˈfastna/
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fast]] (adjektiv, "stuck/firm")
+- 同义词: [[sitta-fast|sitta fast]] (卡住), [[haka-upp-sig|haka upp sig]] (卡住)
+- 反义词: [[lossna]] (松开), [[komma-loss|komma loss]] (脱身)
 - 主题: [[topic-jordbävning-katastrof]]
 
 ## 用法提示 (Usage Notes)

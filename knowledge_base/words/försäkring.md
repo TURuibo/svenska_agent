@@ -9,7 +9,7 @@ zh: "保险"
 en: "insurance"
 synonyms: []
 antonyms: []
-family: [hemförsäkring, försäkra]
+family: [hemförsäkring, försäkra, försäkringsbolag]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-du-kan-också-få-stöd-för-vissa-andra]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # försäkring — substantiv (en)
 
 📖 中文：保险 · English: insurance
+
+🇸🇪 Förklaring: avtal där man betalar en summa till ett bolag och får pengar om något händer, till exempel en olycka
+
 发音提示：för-SÄK-ring，重音在第二音节 `säk`。
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hemförsäkring]]（家庭财产保险）、[[försäkra]]（动词：保险；保证）、`försäkringsbolag`
+- 词族: [[hemförsäkring]]（家庭财产保险）, [[försäkra]]（动词：保险；保证）, [[försäkringsbolag]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]

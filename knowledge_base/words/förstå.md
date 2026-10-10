@@ -8,8 +8,9 @@ zh: "理解；明白；听懂"
 en: "to understand; to comprehend"
 cefr: "A1"
 known: false
-synonyms: ["begripa", "fatta (colloquial)"]
-antonyms: ["missförstå"]
+synonyms: [begripa, fatta]
+antonyms: [missförstå]
+family: [förståelse, förstånd, förståelig]
 topics: ["topic-kommunikation", "topic-sfi"]
 phrases: []
 sentences: ["sent-jag-forstod-inte-spraket", "sent-sakta-men-sakert-borjade-jag-forsta"]
@@ -27,6 +28,10 @@ interval: 0
 **中文:** 理解；明白；听懂
 **English:** to understand; to comprehend
 **CEFR:** A1
+
+🇸🇪 Förklaring: veta vad något betyder eller hur det hänger ihop
+
+发音提示：/fœˈʂtoː/ — rs 合成卷舌 ʂ；重音在 stå
 
 ## 变形 (Forms)
 
@@ -69,3 +74,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-kronika-ny-i-nytt-land]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[förståelse]] (理解), [[förstånd]] (理智), [[förståelig]] (可以理解的)
+- 同义词: [[begripa]], [[fatta]]
+- 反义词: [[missförstå]]

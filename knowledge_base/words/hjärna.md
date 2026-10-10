@@ -8,7 +8,7 @@ zh: 大脑，脑
 en: brain
 synonyms: []
 antonyms: []
-family: []
+family: [hjärnskakning, hjärnblödning, hjärnforskning]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hjärna — substantiv (en)
 
 📖 中文：大脑，脑 · English: brain
+
+🇸🇪 Förklaring: organ i huvudet som styr kroppen och som man tänker och minns med
+
 发音提示：[ˈjɛːrna]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[hjärnskakning]] (脑震荡), [[hjärnblödning]] (脑出血), [[hjärnforskning]] (脑科学研究)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "枕头；靠垫"
 en: "pillow; cushion"
-synonyms: []
+synonyms: [huvudkudde]
 antonyms: []
-family: [sängkläder, filt]
+family: [filt, sängkläder]
 topics: [topic-mobler, topic-hemmet]
 sentences:
   - sent-pa-sangen-ligger-en-kudde-och-en-filt
@@ -24,6 +24,9 @@ interval: 0
 # kudde — substantiv (en)
 
 📖 中文：枕头；靠垫 · English: pillow; cushion
+
+🇸🇪 Förklaring: mjukt föremål fyllt med t.ex. fjädrar som man har under huvudet i sängen eller i soffan
+
 发音提示：KUD-de；两音节，重音在第一音节。
 
 ## 语法变形 (Forms)

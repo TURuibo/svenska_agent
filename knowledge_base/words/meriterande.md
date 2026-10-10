@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "有加分价值的；为资历加分的"
 en: "advantageous, meritorious (for a job application)"
-synonyms: []
+synonyms: [fördelaktig, önskvärd]
 antonyms: []
-family: ["merit", "meriter"]
+family: [merit, meriter, qualifications]
 topics: ["topic-arbete-och-jobb"]
 sentences:
   - sent-erfarenhet-av-arbete-med-barn-är-meriterande
@@ -23,6 +23,9 @@ interval: 0
 # meriterande — adjektiv
 
 📖 中文：有加分价值的；对履历有利的 · English: advantageous, meritorious (for job applications)
+
+🇸🇪 Förklaring: som är en fördel när man söker ett arbete eller en utbildning
+
 发音提示：me-ri-te-RAN-de（五音节，stress 在第四音节）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: merit (en), meriter (plural) = merits, qualifications
+- 词族: [[merit]] (en), [[meriter]] (plural) = merits, [[qualifications]]
+- 同义词: [[fördelaktig]] (有利的), [[önskvärd]] (理想的)
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

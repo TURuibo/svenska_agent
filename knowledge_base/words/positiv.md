@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 积极的；正面的
 en: positive
-synonyms: []
+synonyms: [optimistisk, gynnsam]
 antonyms: [negativ]
-family: []
+family: [positivt, positivitet]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # positiv — adjektiv
 
 📖 中文：积极的；正面的 · English: positive
+
+🇸🇪 Förklaring: 1) som har en glad och hoppfull inställning; 2) som är bra eller visar ett gott resultat
+
+发音提示：/ˈpɔsːɪtiːv/ — 重音常在第一音节；也可重读末音节
 
 ## 语法变形 (Forms)
 
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: negativ
+- 词族: [[positivt]] (积极地), [[positivitet]] (积极性)
+- 同义词: [[optimistisk]] (乐观的), [[gynnsam]] (有利的)
+- 反义词: [[negativ]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

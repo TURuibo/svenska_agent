@@ -6,9 +6,9 @@ genus: ett
 cefr: "B1"
 zh: "滥用，成瘾"
 en: "abuse, addiction, misuse"
-synonyms: []
+synonyms: [beroende]
 antonyms: []
-family: []
+family: [missbruka, missbrukare, bruk]
 topics:
   - topic-hälsa
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # missbruk — substantiv (ett)
 
 📖 中文：滥用，成瘾 · English: abuse, addiction, misuse
+
+🇸🇪 Förklaring: det att använda något på fel sätt eller för mycket, särskilt alkohol eller droger
+
 发音提示：MIS-bruk
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[missbruka]] (滥用), [[missbrukare]] (成瘾者), [[bruk]] (使用)
+- 同义词: [[beroende]] (依赖；成瘾)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

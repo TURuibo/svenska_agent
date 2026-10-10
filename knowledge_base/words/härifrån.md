@@ -8,9 +8,8 @@ cefr: A2
 zh: "从这里；离这里"
 en: "from here"
 synonyms: []
-antonyms:
-  - dit
-family: []
+antonyms: [dit, därifrån]
+family: [här, ifrån]
 topics:
   - topic-riktningar
 sentences:
@@ -26,6 +25,9 @@ interval: 0
 # härifrån — adverb
 
 📖 中文：从这里；离这里 · English: from here
+
+🇸🇪 Förklaring: från den plats där den som talar befinner sig
+
 发音提示：[ˈhɛːrɪˌfrɔːn] — 三音节复合副词
 
 ## 语法变形 (Forms)

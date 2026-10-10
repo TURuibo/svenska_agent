@@ -7,7 +7,7 @@ zh: 也；甚至
 en: also, even
 synonyms: [också]
 antonyms: []
-family: []
+family: [även-om]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # även — adverb
 
 📖 中文：也；甚至 · English: also, even
+
+🇸🇪 Förklaring: används för att visa att något gäller också för en annan sak eller person; till och med
+
 发音提示：/ˈɛːvɛn/；Ä-ven，`ä` 读长音 /ɛː/，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: även om（连词词组）
+- 词族: [[även-om|även om]]（连词词组）
 - 同义词: [[också]]（也）
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

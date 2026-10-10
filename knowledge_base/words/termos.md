@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 保温瓶
 en: thermos
-synonyms: []
+synonyms: [termosflaska]
 antonyms: []
-family: []
+family: [termometer, termostat]
 topics: [topic-fritid-och-resor]
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-05"
 # termos — substantiv (en)
 
 📖 中文：保温瓶 · English: thermos
+
+🇸🇪 Förklaring: flaska med dubbla väggar som håller en dryck varm eller kall länge
+
+发音提示：/ˈtærːmɔs/ — e 在 r 前读 æ，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -34,6 +38,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[termometer]] (温度计), [[termostat]] (恒温器)
+- 同义词: [[termosflaska]] (保温瓶)
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 来源: [[source-2026-10-05-en-helg]]

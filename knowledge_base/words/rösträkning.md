@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "计票"
 en: "vote counting"
-synonyms: []
+synonyms: [sammanräkning]
 antonyms: []
 family: [röst, räkna, valresultat]
 topics: [topic-val-demokrati]
@@ -23,6 +23,9 @@ interval: 0
 # rösträkning — substantiv (en)
 
 📖 中文：计票 · English: vote counting
+
+🇸🇪 Förklaring: arbetet att efter ett val ta reda på hur många valsedlar varje parti har fått
+
 发音提示：RÖST-räk-ning
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: röst，räkna（数、点算），[[valresultat]]
+- 词族: [[röst]], [[räkna]]（数、点算）, [[valresultat]]
+- 同义词: [[sammanräkning]] (汇总计票)
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

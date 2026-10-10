@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "入室盗窃"
 en: "burglary"
-synonyms: ["stöld"]
+synonyms: [stöld]
 antonyms: []
-family: []
+family: [inbrottstjuv, bryta, brott]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # inbrott — substantiv
 
 📖 中文：入室盗窃 · English: burglary
-发音提示：
+
+🇸🇪 Förklaring: brott där någon tar sig in i en bostad eller lokal för att stjäla
+
+发音提示：/ˈɪnˌbrɔt/ — 重音在 in；o 读短音 ɔ
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
+- 词族: [[inbrottstjuv]] (入室窃贼), [[bryta]] (打破), [[brott]] (犯罪)
 - 同义词: [[stöld]]
-- 反义词: [[]]
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

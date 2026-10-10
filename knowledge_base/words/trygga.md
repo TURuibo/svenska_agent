@@ -6,12 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: "保障、确保（安全）"
 en: "to secure, to safeguard, to ensure"
-synonyms:
-  - "[[säkra]]"
-antonyms: []
-family:
-  - "[[trygg]]"
-  - "[[trygghet]]"
+synonyms: [säkra, garantera]
+antonyms: [äventyra]
+family: [trygg, trygghet]
 topics: []
 sentences: []
 known: false
@@ -25,6 +22,9 @@ interval: 0
 # trygga — verb (grupp 1)
 
 📖 中文：保障、确保（使……安全/有保障） · English: to secure, to safeguard, to ensure
+
+🇸🇪 Förklaring: se till att något är säkert och skyddat, även i framtiden
+
 发音提示：/ˈtrʏɡːa/，规则第 1 组动词。
 
 ## 语法变形 (Forms)
@@ -54,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[trygg]]（安心的，形容词）、[[trygghet]]（安全感，名词）
-- 同义词: [[säkra]]（确保）、garantera（保证）
-- 反义词: —
+- 词族: [[trygg]]（安心的，形容词）, [[trygghet]]（安全感，名词）
+- 同义词: [[säkra]]（确保）, [[garantera]]（保证）
+- 反义词: [[äventyra]] (危及)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: "家庭；户"
 en: "household"
 synonyms: [familj]
 antonyms: []
-family: []
+family: [hushålla, hushållsarbete, enpersonshushåll]
 topics: [topic-familj-och-barn, topic-hemmet]
 sentences:
   - sent-i-sverige-sorterar-de-flesta-hushåll
@@ -23,6 +23,9 @@ interval: 0
 # hushåll — substantiv (ett)
 
 📖 中文：家庭；户 · English: household
+
+🇸🇪 Förklaring: alla personer som bor tillsammans i samma bostad och delar på kostnaderna
+
 发音提示：HUS-håll（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[hushålla]] (节约使用), [[hushållsarbete]] (家务劳动), [[enpersonshushåll]] (单人户)
 - 同义词: [[familj]]
+- 反义词: —
 - 主题: [[topic-familj-och-barn]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

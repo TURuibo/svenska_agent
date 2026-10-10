@@ -8,7 +8,7 @@ zh: "冰淇淋"
 en: "ice cream"
 synonyms: []
 antonyms: []
-family: []
+family: [glassbar, glasskiosk]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # glass — substantiv (en-ord)
 
 📖 中文：冰淇淋 · English: ice cream
+
+🇸🇪 Förklaring: kall och söt efterrätt av mjölk eller grädde som har frysts
+
 发音提示：[glas]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: glassbar (冰淇淋店), glasskiosk
+- 词族: [[glassbar]] (冰淇淋店), [[glasskiosk]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

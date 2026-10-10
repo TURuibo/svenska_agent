@@ -27,6 +27,9 @@ interval: 0
 # cyklist — substantiv (en)
 
 📖 中文：骑自行车的人 · English: cyclist
+
+🇸🇪 Förklaring: person som tar sig fram på ett fordon med två hjul och pedaler
+
 发音提示：cy-KLIST；两音节，重音在末音节。
 
 ## 语法变形 (Forms)

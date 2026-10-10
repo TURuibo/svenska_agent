@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "沟通；交流；通讯"
 en: "to communicate"
-synonyms: []
+synonyms: [samtala, meddela-sig]
 antonyms: []
 family: [kommunikation, kommunikativ]
 topics: [topic-social-kontakt]
@@ -24,6 +24,9 @@ interval: 0
 # kommunicera — verb (grupp 1)
 
 📖 中文：沟通；交流；通讯 · English: to communicate
+
+🇸🇪 Förklaring: utbyta information, tankar eller känslor med andra, t.ex. genom att prata eller skriva
+
 发音提示：[kɔmʊnɪˈseːra]（重音在 -se-）
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kommunikation]]
-- 同义词:
-- 反义词:
+- 词族: [[kommunikation]], [[kommunikativ]]
+- 同义词: [[samtala]] (交谈), [[meddela-sig|meddela sig]] (沟通；传达)
+- 反义词: —
 - 主题: [[topic-social-kontakt]]
 
 ## 用法提示 (Usage Notes)

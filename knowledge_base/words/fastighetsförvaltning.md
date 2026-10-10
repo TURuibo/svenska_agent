@@ -9,7 +9,7 @@ zh: "物业管理；房产管理"
 en: "property management"
 synonyms: []
 antonyms: []
-family: ["fastighet", "förvaltning", "förvalta"]
+family: [fastighet, förvalta, förvaltning]
 topics: ["topic-hemmet"]
 sentences:
   - sent-lordagen-den-4-juli-stanger-vi
@@ -24,6 +24,9 @@ interval: 0
 # fastighetsförvaltning — substantiv (en)
 
 📖 中文：物业管理；房产管理 · English: property management
+
+🇸🇪 Förklaring: arbete med att sköta, hyra ut och reparera hus och lägenheter åt ägaren
+
 发音提示：[fasˈtiːçeˌfœrˌvaltniŋ]，复合词，很长
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *fastighet* (房产), *förvalta* (管理), *förvaltning* (管理/管理处)
+- 词族: [[fastighet]] (房产), [[förvalta]] (管理), [[förvaltning]] (管理/管理处)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

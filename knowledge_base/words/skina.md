@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 照耀；发光
 en: to shine
-synonyms: []
+synonyms: [glänsa, stråla]
 antonyms: []
-family: []
+family: [lysa]
 topics: [topic-vader-och-arstider]
 sentences: [sent-solen-sken-och-vadret-var-fint]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # skina — verb
 
 📖 中文：照耀；发光 · English: to shine
+
+🇸🇪 Förklaring: ge ifrån sig starkt ljus, t.ex. om solen eller månen
+
 发音提示：/²ʃiːna/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lysa]] (发光/照亮，更通用)
+- 同义词: [[glänsa]] (闪耀), [[stråla]] (照射)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

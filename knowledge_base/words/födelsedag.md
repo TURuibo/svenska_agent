@@ -9,7 +9,7 @@ zh: "生日"
 en: "birthday"
 synonyms: []
 antonyms: []
-family: ["fira", "grattis"]
+family: [fira, grattis]
 topics: ["topic-mat-dryck"]
 sentences:
   - sent-ja-det-stämmer-det-är-min
@@ -26,6 +26,9 @@ interval: 0
 # födelsedag — substantiv (en)
 
 📖 中文：生日 · English: birthday
+
+🇸🇪 Förklaring: dag varje år på samma datum som den dag man kom till världen
+
 发音提示：/ˈføːdəlsɛˌdɑːɡ/
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fira]], [[grattis]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "接待处；前台；接待"
 en: "reception; front desk; reception (event)"
 synonyms: [receptionen, informationsdisken]
 antonyms: []
-family: [receptionist, ta emot]
+family: [receptionist, ta-emot]
 topics: [topic-samhalle, topic-hemmet]
 sentences: [sent-fraga-i-receptionen-om-du-har-fragor, sent-receptionen-ar-stangd-pa-helger]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # reception — substantiv (en)
 
 Zh: 接待处；前台；接待 · English: reception; front desk; reception (event)
+
+🇸🇪 Förklaring: 1) disk vid ingången på ett hotell eller kontor där besökare tas emot; 2) mottagning med mat och dryck för inbjudna gäster
+
 发音提示：re-sep-SHON（三个音节，重音末尾）
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ Zh: 接待处；前台；接待 · English: reception; front desk; reception (ev
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: receptionist（接待员），ta emot（接待；接收）
+- 词族: [[receptionist]]（接待员）, [[ta-emot|ta emot]]（接待；接收）
+- 同义词: [[receptionen]], [[informationsdisken]]
+- 反义词: —
 - 主题: [[topic-samhalle]], [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: 怀疑；嫌疑
 en: to suspect
-synonyms: []
-antonyms: []
-family: ["misstänkt"]
+synonyms: [ana, tvivla-på]
+antonyms: [lita-på]
+family: [misstänkt]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-polisen-hade-for-lite-bevis
@@ -24,6 +24,9 @@ interval: 0
 # misstänka — verb
 
 📖 中文：怀疑；嫌疑 · English: to suspect
+
+🇸🇪 Förklaring: tro att någon har gjort något fel eller att något är på ett visst sätt, utan att vara säker
+
 发音提示：mis-TÄNK-a
 
 ## 语法变形 (Forms)
@@ -53,6 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[misstänkt]]
+- 同义词: [[ana]] (猜想), [[tvivla-på|tvivla på]] (怀疑)
+- 反义词: [[lita-på|lita på]] (信任)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

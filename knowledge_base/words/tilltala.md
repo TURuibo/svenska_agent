@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: B1
 zh: 称呼
 en: to address (someone)
-synonyms: []
+synonyms: [kalla]
 antonyms: []
 family: [tala]
 topics: [topic-sociala-normer]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # tilltala — verb (grupp 1)
 
 📖 中文：称呼 · English: to address (someone)
+
+🇸🇪 Förklaring: vända sig till någon med ord; använda ett visst namn eller en viss titel när man pratar med någon
+
 发音提示：/ˈtɪlːˌtɑːla/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tala]]
-- 同义词:
-- 反义词:
+- 同义词: [[kalla]] (称呼)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

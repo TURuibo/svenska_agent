@@ -23,6 +23,9 @@ interval: 0
 # oro — substantiv (en)
 
 📖 中文：焦虑、不安 · English: anxiety / worry
+
+🇸🇪 Förklaring: känsla av att vara rädd för att något dåligt ska hända
+
 发音提示：O-ro，两个音节，重音第一音节。
 
 ## 语法变形 (Forms)

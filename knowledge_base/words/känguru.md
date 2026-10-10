@@ -22,6 +22,9 @@ interval: 0
 # känguru — substantiv (en)
 
 📖 中文：袋鼠 · English: kangaroo
+
+🇸🇪 Förklaring: pungdjur från Australien som hoppar fram på sina starka bakben
+
 发音提示：KÄNG-u-ru（三音节，重音在前）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

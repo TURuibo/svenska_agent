@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 无车的、无交通的
 en: traffic-free, car-free
-synonyms: []
-antonyms: []
-family: ["trafik"]
+synonyms: [bilfri]
+antonyms: [trafiktät]
+family: [trafik]
 topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # trafikfri — adjektiv
 
 📖 中文：无车的、无交通的 · English: traffic-free, car-free
+
+🇸🇪 Förklaring: där inga bilar eller andra fordon får köra
+
 发音提示：tra-FIK-fri
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[trafik]]
+- 同义词: [[bilfri]] (无车的)
+- 反义词: [[trafiktät]] (车流密集的)
 - 主题: [[topic-trafik]], [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

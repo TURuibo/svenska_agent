@@ -6,8 +6,8 @@ genus: ""
 cefr: A2
 zh: 差的/坏的
 en: bad/poor
-synonyms: []
-antonyms: []
+synonyms: [usel, dåligt]
+antonyms: [bra]
 family: []
 topics: [topic-arbete-och-jobb, topic-skola-och-utbildning]
 sentences: []
@@ -22,6 +22,9 @@ interval: 0
 # dålig — adjektiv
 
 📖 中文：差的/坏的 · English: bad/poor
+
+🇸🇪 Förklaring: som inte är bra eller har låg kvalitet
+
 发音提示：[ˈdoːlɪg] — 注意 å 发长音 /oː/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
 - 同义词: [[usel]], [[dåligt]]
 - 反义词: [[bra]]
 - 主题: [[topic-arbete-och-jobb]], [[topic-skola-och-utbildning]]

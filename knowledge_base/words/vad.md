@@ -9,7 +9,7 @@ zh: "什么"
 en: "what"
 synonyms: []
 antonyms: []
-family: []
+family: [vadå]
 topics: []
 sentences: ["sent-vad-ville-elin-studera", "sent-vad-kämpade-kvinnorättsrörelsen-för", "sent-vad-hände-ute-i-europa"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vad — pronomen (frågeord)
 
 📖 中文：什么 · English: what
+
+🇸🇪 Förklaring: frågeord som används för att fråga om en sak eller om något som man inte vet
+
 发音提示："VAAD"
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[vadå]] (什么呀)
 - 同义词: —
 - 反义词: —
 - 主题: —

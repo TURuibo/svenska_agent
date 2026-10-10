@@ -5,10 +5,9 @@ ordklass: "förkortning"
 cefr: "A2"
 zh: "平方米（kvadratmeter 的缩写）"
 en: "square metres (abbreviation of kvadratmeter)"
-synonyms: []
+synonyms: [m²]
 antonyms: []
-family:
-  - kvadratmeter
+family: [kvadratmeter]
 topics:
   - topic-hemmet
 sentences:
@@ -24,6 +23,9 @@ interval: 0
 # kvm — förkortning
 
 📖 中文：平方米 · English: square metres (m²)
+
+🇸🇪 Förklaring: förkortning för kvadratmeter, ett mått på hur stor en yta är
+
 发音提示：读作 "kvadratmeter" 或拼出各字母
 
 ## 词组搭配 (Collocations)
@@ -39,5 +41,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kvadratmeter（全称）
+- 词族: [[kvadratmeter]]（全称）
+- 同义词: [[m²]] (平方米)
+- 反义词: —
 - 主题: [[topic-hemmet]]

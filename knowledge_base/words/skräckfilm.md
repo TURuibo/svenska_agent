@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "恐怖片"
 en: "horror film"
-synonyms: []
+synonyms: [rysare]
 antonyms: []
-family: []
+family: [skräck, film, skrämma]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # skräckfilm — substantiv (en)
 
 📖 中文：恐怖片 · English: horror film
+
+🇸🇪 Förklaring: film som är gjord för att skrämma tittarna
+
 发音提示：SKRÄCK-film；重音在第一音节
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[skräck]] (恐惧), [[film]] (电影), [[skrämma]] (吓唬)
+- 同义词: [[rysare]] (惊悚片)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

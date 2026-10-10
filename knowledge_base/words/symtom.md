@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "症状"
 en: "symptom"
-synonyms: []
+synonyms: [tecken]
 antonyms: []
 family: [symtomfri]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # symtom — substantiv (ett)
 
 📖 中文：症状 · English: symptom
+
+🇸🇪 Förklaring: tecken på att man har en sjukdom, till exempel feber eller hosta
+
 发音提示：[sʏmˈtoːm]，重音在**第二音节**，拼写没有 p（不是 symptom）。
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ ett-词、以辅音结尾 → 复数零变化。
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[symtomfri]]
-- 同义词: tecken（迹象）
+- 同义词: [[tecken]]（迹象）
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 

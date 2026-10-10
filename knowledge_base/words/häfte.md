@@ -7,9 +7,9 @@ genus: ett
 cefr: A2
 zh: 笔记本；小册子
 en: notebook; booklet; pamphlet
-synonyms: []
+synonyms: [anteckningsbok]
 antonyms: []
-family: []
+family: [anteckningshäfte]
 topics: [topic-skola-och-utbildning]
 sentences:
   - sent-skriv-nya-ord-i-ett
@@ -24,6 +24,9 @@ interval: 0
 # häfte — substantiv (ett)
 
 📖 中文：笔记本；小册子 · English: notebook; booklet
+
+🇸🇪 Förklaring: tunn bok med få sidor och mjukt omslag som man skriver i eller läser
+
 发音提示：["hɛftɛ]，h 清晰发音，ä 发 [ɛ]
 
 ## 语法变形 (Forms)

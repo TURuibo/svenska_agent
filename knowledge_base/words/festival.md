@@ -8,7 +8,7 @@ zh: 节日；电影节；艺术节
 en: festival
 synonyms: []
 antonyms: []
-family: []
+family: [fest, musikfestival, filmfestival]
 topics: [topic-film]
 sentences: [sent-det-hände-på-festivalen-för-film]
 known: false
@@ -18,6 +18,9 @@ created: 2026-10-07
 # festival — substantiv (en)
 
 📖 中文：节（电影节、音乐节等） · English: festival
+
+🇸🇪 Förklaring: stort evenemang med till exempel musik, film eller teater som pågår under flera dagar
+
 发音提示：[fɛstiˈvɑ̌ːl]，重音在最后
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[fest]] (聚会), [[musikfestival]] (音乐节), [[filmfestival]] (电影节)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

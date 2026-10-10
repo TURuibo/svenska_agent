@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 负面的；消极的
 en: negative
-synonyms: []
+synonyms: [pessimistisk, ofördelaktig]
 antonyms: [positiv]
-family: []
+family: [negativitet, negativt]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # negativ — adjektiv
 
 📖 中文：负面的；消极的 · English: negative
+
+🇸🇪 Förklaring: som är dålig eller till nackdel; som mest ser det dåliga i saker
+
+发音提示：/ˈneːɡaˌtiːv/ — 重音在第一音节 ne
 
 ## 语法变形 (Forms)
 
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: positiv
+- 词族: [[negativitet]] (消极), [[negativt]] (消极地)
+- 同义词: [[pessimistisk]] (悲观的), [[ofördelaktig]] (不利的)
+- 反义词: [[positiv]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

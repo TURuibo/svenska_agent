@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "取整；凑整"
 en: "to round (off/up/down)"
-synonyms: []
+synonyms: [runda]
 antonyms: []
-family: []
+family: [runda, rund, avrundning]
 topics:
   - topic-betalning
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # avrunda — verb (grupp 1)
 
 📖 中文：取整；凑整 · English: to round (off/up/down)
+
+🇸🇪 Förklaring: ändra ett tal till närmaste hela eller jämna tal
+
 发音提示：av-RUN-da
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: runda（圆的），rund（圆），avrundning（取整操作）
-- 同义词: runda (av/upp/ned)（同义 partikelverb）
+- 词族: [[runda]]（圆的）, [[rund]]（圆）, [[avrundning]]（取整操作）
+- 同义词: [[runda]] (av/upp/ned)（同义 partikelverb）
 - 反义词: —
 - 主题: [[topic-betalning]]
 

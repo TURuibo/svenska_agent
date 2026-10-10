@@ -7,7 +7,7 @@ genus: en
 cefr: B1
 zh: 国家；政府
 en: state
-synonyms: []
+synonyms: [land, nation]
 antonyms: []
 family: [statlig]
 topics: [topic-skatt-och-deklaration, topic-samhälle-och-politik]
@@ -19,6 +19,9 @@ created: 2026-10-02
 # stat — substantiv (en)
 
 📖 中文：国家；政府 · English: state
+
+🇸🇪 Förklaring: ett lands politiska organisation med regering, riksdag och myndigheter; ett självständigt land
+
 发音提示：[stɑːt]
 
 ## 语法变形 (Forms)
@@ -27,7 +30,6 @@ created: 2026-10-02
 |---|---|---|
 | 不定 | en stat (en-ord) | stater |
 | 定 | staten | staterna |
-
 
 ## 词组搭配 (Collocations)
 
@@ -42,6 +44,9 @@ created: 2026-10-02
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[statlig]]
+- 同义词: [[land]] (国家), [[nation]] (国家；民族)
+- 反义词: —
 - 主题: [[topic-skatt-och-deklaration]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

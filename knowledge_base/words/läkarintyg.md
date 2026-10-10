@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "医生证明"
 en: "doctor's certificate"
-synonyms: []
+synonyms: [sjukintyg]
 antonyms: []
-family: []
+family: [medicinsk]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-om-barnet-behöver-specialkost-av-medicinska]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # läkarintyg — substantiv (ett)
 
 📖 中文：医生证明 · English: doctor's certificate
+
+🇸🇪 Förklaring: papper från en doktor som visar att man är sjuk eller frisk
+
 发音提示：[ˈlɛːkarˌɪntyːg]，läkar-（医生）+ intyg（证明），重音在第一部分。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: intyg（证明）· sjukintyg（病假证明）· [[medicinsk]]
-- 同义词: sjukintyg（专指病假）
+- 同义词: [[sjukintyg]]（专指病假）
 - 反义词: —
 - 主题: [[topic-förskola-system]] · [[topic-förskola-vardag]]
 

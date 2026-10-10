@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "指；指向"
 en: "to point"
-synonyms: []
+synonyms: [visa]
 antonyms: []
-family: []
+family: [pekfinger, pekskärm, pekpinne]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 sentences: [sent-vi-sjunger-huvud-axlar-knä-och]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # peka — verb (grupp 1)
 
 📖 中文：指；指向 · English: to point
+
+🇸🇪 Förklaring: visa med fingret eller handen var något finns
+
 发音提示：/ˈpeːka/；长 e。
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[pekfinger]] (食指), [[pekskärm]] (触摸屏), [[pekpinne]] (教鞭)
+- 同义词: [[visa]] (指示)
+- 反义词: —
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

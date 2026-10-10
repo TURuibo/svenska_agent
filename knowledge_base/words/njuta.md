@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "享受；陶醉；品味"
 en: "to enjoy; to relish; to savour"
-synonyms: ["uppskatta"]
-antonyms: []
-family: ["njutning", "njutbar"]
+synonyms: [uppskatta]
+antonyms: [lida]
+family: [njutning, njutbar]
 topics: ["topic-vader-och-arstider", "topic-fritid-och-resor"]
 sentences:
   - sent-man-plockar-svamp-och-njuter
@@ -24,6 +24,9 @@ interval: 0
 # njuta — verb (grupp 4 / stark)
 
 📖 中文：享受；陶醉；品味 · English: to enjoy; to relish; to savour
+
+🇸🇪 Förklaring: känna stor glädje över något eller tycka mycket om det, till exempel god mat eller solen
+
 发音提示：/ˈnjuːta/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: njutning（享受，乐趣，名词），njutbar（令人愉快的）
+- 词族: [[njutning]]（享受，乐趣，名词）, [[njutbar]]（令人愉快的）
+- 同义词: [[uppskatta]]
+- 反义词: [[lida]] (受苦)
 - 主题: [[topic-vader-och-arstider]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

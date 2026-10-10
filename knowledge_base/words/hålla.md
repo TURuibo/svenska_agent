@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "拿着；保持；举行；同意（搭配）"
 en: "hold; keep; last; agree with (in phrases)"
-synonyms: []
-antonyms: []
-family: ["hållbar", "hållning", "hållplats"]
+synonyms: [greppa, behålla]
+antonyms: [släppa]
+family: [hållbar, hållning, busshållplats, hållplats]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hålla — verb
 
 📖 中文：拿着；保持；举行；同意 · English: hold; keep; last; agree with
+
+🇸🇪 Förklaring: ha något i handen utan att släppa det; få något att stanna i ett visst läge; ordna, till exempel ett möte; inte gå sönder på länge; (hålla med) tycka samma sak som någon
+
 发音提示：/ˈhɔlːa/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: hållbar (可持续的), hållning (姿势/立场), busshållplats (公交站)
+- 词族: [[hållbar]] (可持续的), [[hållning]] (姿势/立场), [[busshållplats]] (公交站), [[hållplats]]
+- 同义词: [[greppa]] (握住), [[behålla]] (保持)
+- 反义词: [[släppa]] (松开)
 - 主题:
 
 ## 用法提示 (Usage Notes)

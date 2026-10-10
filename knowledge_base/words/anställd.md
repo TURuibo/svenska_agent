@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "受雇的；雇员"
 en: "employed; employee"
-synonyms: []
-antonyms: []
-family: ["anställa", "anställning", "heltidsanställd"]
+synonyms: [medarbetare, arbetstagare]
+antonyms: [arbetsgivare, arbetslös]
+family: [anställa, anställning, heltidsanställd]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # anställd — adjektiv / substantiv (en-ord)
 
 📖 中文：受雇的；雇员 · English: employed; employee
+
+🇸🇪 Förklaring: som har ett arbete hos en arbetsgivare; person som arbetar hos en arbetsgivare
+
 发音提示：an-STÄLLD
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-03"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[anställa]], [[anställning]], [[heltidsanställd]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[medarbetare]] (员工), [[arbetstagare]] (雇员)
+- 反义词: [[arbetsgivare]] (雇主), [[arbetslös]] (失业的)
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

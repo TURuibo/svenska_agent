@@ -7,7 +7,7 @@ genus: ""
 cefr: A2
 zh: 最终到达/落入
 en: to end up (somewhere)
-synonyms: []
+synonyms: [landa]
 antonyms: []
 family: [hamn]
 topics: [topic-krig-och-konflikt]
@@ -24,6 +24,9 @@ interval: 0
 # hamna — verb (grupp 1)
 
 📖 中文：最终到达/落入 · English: to end up (somewhere)
+
+🇸🇪 Förklaring: till slut komma till en plats eller i en situation, ofta utan att man har planerat det
+
 发音提示：/ˈhamna/
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hamn]] (substantiv, "port/harbor") — 同词根但意义不同
+- 同义词: [[landa]] (落脚)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

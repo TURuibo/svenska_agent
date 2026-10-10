@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "改装提速（非法）；修整"
 en: "to modify/tune for more speed; to trim"
-synonyms: []
+synonyms: [klippa, putsa]
 antonyms: []
-family: ["elsparkcykel"]
+family: [elsparkcykel]
 topics: ["topic-trafik-säkerhet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # trimma — verb (grupp 1)
 
 📖 中文：改装提速（非法）；修整 · English: to modify/tune for more speed; to trim
+
+🇸🇪 Förklaring: ändra en motor eller ett fordon så att det går fortare; klippa eller putsa något så att det blir jämnt
+
 发音提示：TRIM-ma；重音在第一音节
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[elsparkcykel]]
-- 同义词:
-- 反义词:
+- 同义词: [[klippa]] (剪), [[putsa]] (修整)
+- 反义词: —
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

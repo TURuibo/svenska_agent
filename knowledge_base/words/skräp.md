@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "垃圾；杂物；废品"
 en: "junk; trash; rubbish"
-synonyms: ["avfall", "sopor"]
+synonyms: [avfall, sopor]
 antonyms: []
-family: ["skräpig"]
+family: [skräpig]
 topics: ["topic-hemmet", "topic-källsortering"]
 sentences:
   - sent-du-kan-lagga-dit-gamla-mobler
@@ -24,6 +24,9 @@ interval: 0
 # skräp — substantiv (ett)
 
 📖 中文：垃圾；杂物；废品 · English: junk; trash; rubbish
+
+🇸🇪 Förklaring: saker som inte är värda något och som man vill bli av med
+
 发音提示：[skrɛp]，短元音
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *skräpig* (乱糟糟的)
-- 同义词: [[avfall]]（废物，较正式）, *sopor*（生活垃圾）
+- 词族: [[skräpig]] (乱糟糟的)
+- 同义词: [[avfall]]（废物，较正式）, [[sopor]]（生活垃圾）
+- 反义词: —
 - 主题: [[topic-hemmet]] · [[topic-källsortering]]
 
 ## 用法提示 (Usage Notes)

@@ -18,6 +18,9 @@ created: 2026-10-07
 # fotograf — substantiv (en-ord)
 
 📖 中文：摄影师 · English: photographer
+
+🇸🇪 Förklaring: person som tar bilder med kamera, ofta som sitt yrke
+
 发音提示：[fɔtɔˈɡrɑːf] — 重音在最后一个音节
 
 ## 语法变形 (Forms)
@@ -40,7 +43,9 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[fotografera]]
+- 词族: [[fotografera]], [[foto]] (照片)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

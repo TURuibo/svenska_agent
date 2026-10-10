@@ -9,7 +9,7 @@ zh: "气候目标"
 en: "climate goal, climate target"
 synonyms: []
 antonyms: []
-family: ["klimat", "mål"]
+family: [klimat, mål]
 topics: ["topic-miljö-och-klimat", "topic-samhälle-och-politik"]
 sentences:
   - sent-men-sverige-gör-inte-tillräckligt
@@ -24,6 +24,9 @@ interval: 0
 # klimatmål — substantiv
 
 📖 中文：气候目标 · English: climate goal, climate target
+
+🇸🇪 Förklaring: bestämd plan för hur mycket ett land eller ett företag ska minska sina utsläpp till ett visst år
+
 发音提示：/ˈklɪˌmaːtˌmoːl/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klimat]] (气候), [[mål]] (目标；进球)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

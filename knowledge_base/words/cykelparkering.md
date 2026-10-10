@@ -8,8 +8,9 @@ zh: "自行车停放处；自行车停车场"
 en: "bicycle parking; bike rack area"
 cefr: "A2"
 known: false
-synonyms: ["cykelställ"]
+synonyms: [cykelställ]
 antonyms: []
+family: [cykel, parkering, parkera]
 topics: ["topic-stad-och-transport", "topic-cykel"]
 phrases: []
 sentences: ["sent-det-finns-ocksa-ny-cykelparkering"]
@@ -27,6 +28,10 @@ interval: 0
 **中文:** 自行车停放处；自行车停车场
 **English:** bicycle parking; bike rack area
 **CEFR:** A2
+
+🇸🇪 Förklaring: plats där man kan ställa och låsa sin cykel
+
+发音提示：/ˈsʏkːɛlparˌkeːrɪŋ/ — c 读 s；重音在 cy，第二重音在 ke
 
 ## 变形 (Forms)
 
@@ -61,3 +66,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-notis-ny-cykelbana]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[cykel]] (自行车), [[parkering]] (停车), [[parkera]] (停放)
+- 同义词: [[cykelställ]]
+- 反义词: —

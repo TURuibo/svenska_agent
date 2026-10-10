@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "有罪的；应负责的；欠（债）的"
 en: "guilty; responsible; owing"
-synonyms: []
+synonyms: [ansvarig, förpliktad]
 antonyms: [oskyldig]
 family: [skuld, skyldighet]
 topics: [topic-terrorism-och-brott]
@@ -24,6 +24,9 @@ interval: 0
 # skyldig — adjektiv
 
 📖 中文：有罪的；应负责的；欠（债）的 · English: guilty; responsible; owing
+
+🇸🇪 Förklaring: 1) som har gjort något fel eller brottsligt; 2) som måste göra något eller betala tillbaka pengar till någon
+
 发音提示：SKYL-dig；短促 y。
 
 ## 语法变形 (Forms)
@@ -53,9 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[skuld]] (stub，罪/债务), [[skyldighet]] (stub，义务)
-- 同义词: —
-- 反义词: [[oskyldig]] (stub，无罪的)
+- 词族: [[skuld]] (罪/债务), [[skyldighet]] (义务)
+- 同义词: [[ansvarig]] (应负责的), [[förpliktad]] (有义务的)
+- 反义词: [[oskyldig]] (无罪的)
 - 主题: [[topic-terrorism-och-brott]]
 
 ## 用法提示 (Usage Notes)

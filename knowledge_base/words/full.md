@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A1
 zh: 满的；醉的
 en: full; drunk
-synonyms: []
+synonyms: [fylld, berusad]
 antonyms: [tom]
-family: []
+family: [fylla, fullständig, fullsatt]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # full — adjektiv
 
 📖 中文：满的、充满的 · English: full
+
+🇸🇪 Förklaring: 1) som inte har plats för något mer; 2) som har druckit för mycket alkohol
+
+发音提示：/fɵlː/ — u 读短音 ɵ，l 要长
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: tom
+- 词族: [[fylla]] (装满), [[fullständig]] (完整的), [[fullsatt]] (满座的)
+- 同义词: [[fylld]] (装满的), [[berusad]] (醉的)
+- 反义词: [[tom]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

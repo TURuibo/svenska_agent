@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: B1
 zh: 定期的，有规律的
 en: regular
-synonyms: []
-antonyms: []
+synonyms: [återkommande]
+antonyms: [oregelbunden]
 family: [regel, regelbundenhet]
 topics: [topic-hälsa]
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # regelbunden — adjektiv
 
 📖 中文：定期的，有规律的 · English: regular
+
+🇸🇪 Förklaring: som händer med jämna mellanrum och följer ett visst mönster
+
 发音提示：[reˈɡɛlˌbʉːdɛn]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[regel]], [[regelbundenhet]]
+- 同义词: [[återkommande]] (反复出现的)
 - 反义词: [[oregelbunden]]
 - 主题: [[topic-hälsa]]
 

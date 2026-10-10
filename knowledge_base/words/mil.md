@@ -19,6 +19,9 @@ created: "2026-10-01"
 # mil — substantiv (en)
 
 📖 中文：瑞典里（1 mil = 10 公里） · English: Swedish mile (= 10 km)
+
+🇸🇪 Förklaring: svenskt längdmått som är lika med tio kilometer
+
 发音提示：/miːl/（长 i）
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kilometer]]（公里）, [[meter]]（米）
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

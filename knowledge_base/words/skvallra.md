@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 八卦/议论
 en: to gossip
-synonyms: []
+synonyms: [prata-bakom-ryggen, sladdra]
 antonyms: []
-family: []
+family: [skvaller, skvallerkärring]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # skvallra — verb (v.1)
 
 📖 中文：八卦/议论 · English: to gossip
+
+🇸🇪 Förklaring: prata om andra människors privata saker bakom deras rygg
+
 发音提示：SKVAL-lra；辅音群 `skv-` 开头，注意双写 `ll`。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skvaller]] (ett, 八卦/流言), [[skvallerkärring]] (gossip monger, colloq.)
-- 同义词: —
+- 同义词: [[prata-bakom-ryggen|prata bakom ryggen]] (背后议论), [[sladdra]] (嚼舌头)
 - 反义词: —
 - 主题: —
 

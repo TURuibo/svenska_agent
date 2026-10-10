@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 浪漫的
 en: romantic
-synonyms: []
-antonyms: []
-family: ["romantik"]
+synonyms: [kärleksfull, drömsk]
+antonyms: [oromantisk]
+family: [romantik]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # romantisk — adjektiv
 
 📖 中文：浪漫的 · English: romantic
+
+🇸🇪 Förklaring: som handlar om kärlek och känslor; som skapar en kärleksfull stämning
+
 发音提示：ro-MAN-tisk
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[romantik]]
+- 同义词: [[kärleksfull]] (深情的), [[drömsk]] (梦幻的)
+- 反义词: [[oromantisk]] (不浪漫的)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

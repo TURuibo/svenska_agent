@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "职业选手；专业人士"
 en: "professional"
-synonyms: [professionell spelare]
+synonyms: [professionell-spelare]
 antonyms: [amatör]
 family: [professionell, profession]
 topics: [topic-fotboll, topic-yrken]
@@ -23,6 +23,9 @@ interval: 0
 # proffs — substantiv (ett)
 
 📖 中文：职业选手；专业人士 · English: professional
+
+🇸🇪 Förklaring: person som är mycket skicklig i sitt yrke eller som får betalt för att utöva en sport
+
 发音提示：/prɔfs/；-ff- 在词尾简化为 /f/。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[professionell]] (adj. 专业的), [[profession]] (en, 职业)
-- 同义词: [[professionell spelare]] (专业球员)
+- 同义词: [[professionell-spelare|professionell spelare]] (专业球员)
 - 反义词: [[amatör]] (en, 业余选手)
 - 主题: [[topic-fotboll]], [[topic-yrken]]
 

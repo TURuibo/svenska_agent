@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "欢送（感谢礼、告别会）"
 en: "farewell / thank-you send-off"
-synonyms: []
+synonyms: [avskedsfest]
 antonyms: []
 family: [tacka, tack]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # avtackning — substantiv (en)
 
 📖 中文：欢送（感谢礼、告别会） · English: farewell / thank-you send-off
+
+🇸🇪 Förklaring: tillfälle när man tackar och tar farväl av någon som slutar på en arbetsplats
+
 发音提示：/ˈɑːvˌtakniŋ/ — *av* + *tacka* + *-ning*，重音在 *av*。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tacka]] · [[tack]] · avtacka (v.)
-- 同义词: —
+- 词族: [[tacka]] · [[tack]] · avtacka (v.), [[tack]]
+- 同义词: [[avskedsfest]] (告别会)
 - 反义词: —
 - 主题: [[topic-föräldrasmåprat]] · [[topic-förskola-vardag]]
 

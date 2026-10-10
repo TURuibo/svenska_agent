@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "海盗"
 en: "pirate"
-synonyms: []
+synonyms: [sjörövare]
 antonyms: []
-family: []
+family: [piratskepp, piratkopia]
 topics: ["topic-barnkalas"]
 sentences: [sent-vi-har-tema-pirater-sa]
 known: false
@@ -18,6 +18,10 @@ created: 2026-10-09
 # pirat — substantiv (en-ord)
 
 📖 中文：海盗 · English: pirate
+
+🇸🇪 Förklaring: person som anfaller och rånar fartyg till sjöss
+
+发音提示：/pɪˈrɑːt/ — 重音在第二音节 -rat
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: 2026-10-09
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[piratskepp]] (海盗船), [[piratkopia]] (盗版)
+- 同义词: [[sjörövare]] (海盗)
+- 反义词: —
 - 主题: [[topic-barnkalas]]
 
 ## 用法提示 (Usage Notes)

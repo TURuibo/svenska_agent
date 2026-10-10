@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "一对、夫妇"
 en: "couple"
-synonyms: []
+synonyms: [makar, duo]
 antonyms: []
-family: []
+family: [parvis, brudpar, parförhållande]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # par — substantiv (ett)
 
 📖 中文：一对、夫妇 · English: couple
+
+🇸🇪 Förklaring: två personer eller saker som hör ihop, till exempel två personer som lever tillsammans
+
 发音提示：/pɑːr/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[parvis]] (成对地), [[brudpar]] (新婚夫妇), [[parförhållande]] (伴侣关系)
+- 同义词: [[makar]] (夫妻), [[duo]] (二人组)
+- 反义词: —
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "政府机关, 管理局"
 en: "authority, agency"
-synonyms: []
+synonyms: [verk, ämbetsverk]
 antonyms: []
-family: []
+family: [myndig, myndighetsperson, skattemyndighet]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # myndighet — substantiv (en)
 
 📖 中文：政府机关, 管理局 · English: authority, agency
+
+🇸🇪 Förklaring: statlig eller kommunal organisation som har ansvar för ett visst område i samhället
+
 发音提示：myn-dig-het
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[myndig]] (成年的), [[myndighetsperson]] (公职人员), [[skattemyndighet]] (税务机关)
+- 同义词: [[verk]] (政府署), [[ämbetsverk]] (官署)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

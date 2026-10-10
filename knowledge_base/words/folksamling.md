@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 人群
 en: crowd
-synonyms: []
+synonyms: [skara, människomassa]
 antonyms: []
 family: [folk]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # folksamling — substantiv (en-ord)
 
 📖 中文：人群、聚集的人 · English: crowd
+
+🇸🇪 Förklaring: stor grupp människor som har samlats på samma plats
+
+发音提示：/ˈfɔlkˌsamlɪŋ/ — 重音在 folk，samling 读次重音
 
 ## 语法变形 (Forms)
 
@@ -41,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[folk]] + samling
-- 同义词:
-- 反义词:
+- 同义词: [[skara]] (一群人), [[människomassa]] (人群)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

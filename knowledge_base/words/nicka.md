@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "点头"
 en: "to nod"
 synonyms: []
-antonyms: []
+antonyms: [skaka-på-huvudet]
 family: [nick]
 topics: [topic-förskola-vardag, topic-social-kontakt]
 sentences: [sent-vi-har-ju-bara-nickat-åt]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # nicka — verb (grupp 1)
 
 📖 中文：点头 · English: to nod
+
+🇸🇪 Förklaring: röra huvudet uppåt och neråt för att visa att man håller med eller för att hälsa
+
 发音提示：/ˈnɪkːa/ — 短 i + 双 kk，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *en nick*（一个点头动作）
+- 词族: [[nick]]（一个点头动作）
 - 同义词: —
-- 反义词: *skaka på huvudet*（摇头）
+- 反义词: [[skaka-på-huvudet|skaka på huvudet]]（摇头）
 - 主题: [[topic-social-kontakt]]、[[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

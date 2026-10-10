@@ -6,9 +6,9 @@ genus: en
 cefr: "A2"
 zh: "抗议"
 en: "protest"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [invändning, demonstration]
+antonyms: [medhåll, stöd]
+family: [protestera, kämpa]
 topics: [topic-samhälle-och-politik]
 sentences:
   - sent-manga-manniskor-i-albanien-gillar-inte-parets
@@ -24,6 +24,9 @@ interval: 0
 # protest — substantiv
 
 📖 中文：抗议 · English: protest
+
+🇸🇪 Förklaring: det att man visar eller säger att man inte håller med om något
+
 发音提示：pro-TEST
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[protestera]], [[kämpa]]
+- 同义词: [[invändning]] (异议), [[demonstration]] (示威)
+- 反义词: [[medhåll]] (赞同), [[stöd]] (支持)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

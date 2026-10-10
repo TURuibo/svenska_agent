@@ -8,7 +8,7 @@ zh: 企鹅
 en: penguin
 synonyms: []
 antonyms: []
-family: []
+family: [kejsarpingvin]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # pingvin — substantiv (en)
 
 📖 中文：企鹅 · English: penguin
+
+🇸🇪 Förklaring: svartvit fågel som inte kan flyga men simmar bra och lever på södra halvklotet
+
 发音提示：PING-vin（两音节，重音在前）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kejsarpingvin]] (帝企鹅)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

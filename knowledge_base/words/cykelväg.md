@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 自行车道
 en: bike path, cycle lane
-synonyms: []
+synonyms: [cykelbana]
 antonyms: []
-family: ["cykel", "väg"]
+family: [cykel, väg]
 topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # cykelväg — substantiv (en)
 
 📖 中文：自行车道 · English: bike path, cycle lane
+
+🇸🇪 Förklaring: smal bana eller stig som bara är till för cyklister
+
 发音提示：CY-kel-väg
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[cykel]], [[väg]]
+- 同义词: [[cykelbana]] (自行车道)
+- 反义词: —
 - 主题: [[topic-trafik]], [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

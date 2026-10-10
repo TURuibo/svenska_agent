@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "荣誉"
 en: "honour"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ära]
+antonyms: [skam, vanära]
+family: [hederlig, hedra, hedersvåld]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # heder — substantiv
 
 📖 中文：荣誉 · English: honour
-发音提示：
+
+🇸🇪 Förklaring: respekt och gott anseende som en person eller en familj har i andras ögon
+
+发音提示：/ˈheːdɛr/ — e 读长音 eː，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[hederlig]] (正直的), [[hedra]] (表彰；尊敬), [[hedersvåld]] (荣誉暴力)
+- 同义词: [[ära]] (荣誉)
+- 反义词: [[skam]] (耻辱), [[vanära]] (名誉扫地)
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

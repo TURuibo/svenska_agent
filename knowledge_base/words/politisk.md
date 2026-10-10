@@ -6,7 +6,7 @@ cefr: B1
 zh: 政治的
 en: political
 synonyms: []
-antonyms: []
+antonyms: [opolitisk]
 family: [politik, politiker]
 topics: []
 sentences: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # politisk — adjektiv
 
 📖 中文：政治的 · English: political
+
+🇸🇪 Förklaring: som har med styrningen av samhället, partier och val att göra
+
+发音提示：/pʊˈliːtɪsk/ — 重音在第二音节 -li
 
 ## 语法变形 (Forms)
 
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: politik, politiker
-- 同义词:
-- 反义词:
+- 词族: [[politik]], [[politiker]]
+- 同义词: —
+- 反义词: [[opolitisk]] (非政治的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

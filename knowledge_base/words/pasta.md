@@ -9,7 +9,7 @@ zh: "意面"
 en: "pasta"
 synonyms: []
 antonyms: []
-family: []
+family: [pastasås, pastasallad]
 topics: [topic-mat-dryck]
 sentences:
   - sent-dagens-rätt-är-en-vegetarisk-pasta
@@ -24,6 +24,9 @@ interval: 0
 # pasta — substantiv (en)
 
 📖 中文：意面 · English: pasta
+
+🇸🇪 Förklaring: mat av mjöl och vatten, till exempel spagetti och makaroner, som man kokar
+
 发音提示：PAS-ta
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[pastasås]] (意面酱), [[pastasallad]] (意面沙拉)
+- 同义词: —
+- 反义词: —
 - 相关词: [[svamp]], [[grönsak]]
 - 主题: [[topic-mat-dryck]]
 

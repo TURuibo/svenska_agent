@@ -19,6 +19,9 @@ created: "2026-09-26"
 # öppettid — substantiv (en)
 
 📖 中文：开放时间；营业时间 · English: opening hours
+
+🇸🇪 Förklaring: den tid då en affär, ett kontor eller liknande tar emot kunder
+
 发音提示：[ˈœ̂pːɛtˌtiːd]，重音在 öpp-，复合词 öppet + tid；几乎总用复数 **öppettider**。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[öppen]], [[öppna]], [[öppettid]]
+- 词族: [[öppen]], [[öppna]], [[tid]]
+- 同义词: —
 - 反义词: [[stängningstid]]（关门时间）
 - 主题: [[topic-förskola-vardag]]
 

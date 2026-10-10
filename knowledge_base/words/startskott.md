@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "发令枪响"
 en: "starting shot"
-synonyms: []
+synonyms: [startsignal]
 antonyms: []
 family: [startlinje]
 topics: [topic-idrott]
@@ -23,6 +23,9 @@ interval: 0
 # startskott — substantiv
 
 📖 中文：发令枪响 · English: starting shot
+
+🇸🇪 Förklaring: skott som avlossas för att visa att ett lopp börjar; bildligt början på något
+
 发音提示：START-skott
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[startlinje]]（起跑线）
-- 同义词: —
+- 同义词: [[startsignal]] (开始信号)
 - 反义词: —
 - 主题: [[topic-idrott]]
 

@@ -7,7 +7,7 @@ zh: "但愿；有望"
 en: "hopefully"
 synonyms: []
 antonyms: []
-family: ["förhoppning", "hoppas"]
+family: [förhoppning, hoppas]
 topics: ["topic-allmanna-adjektiv-adverb", "topic-satsadverbial"]
 sentences: ["sent-och-förhoppningsvis-kan-jag-köra-till-jobbet"]
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-07"
 # förhoppningsvis — adverb
 
 📖 中文：但愿 · English: hopefully
+
+🇸🇪 Förklaring: används när man önskar och tror att något ska bli så
+
+发音提示：/fœrˈhɔpːnɪŋsˌviːs/ — för- 不重读，重音在 hopp
 
 ## 语法变形 (Forms)
 
@@ -30,7 +34,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: förhoppning, hoppas
+- 词族: [[förhoppning]], [[hoppas]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-allmanna-adjektiv-adverb]], [[topic-satsadverbial]]
 
 ## 用法提示 (Usage Notes)

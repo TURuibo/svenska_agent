@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 化学品
 en: chemical
-synonyms: []
+synonyms: [kemiskt-ämne]
 antonyms: []
-family: []
+family: [kemi, kemisk, kemist]
 topics: [topic-källsortering]
 sentences:
   - sent-farligt-avfall-lämnar-du-aldrig
@@ -23,6 +23,9 @@ interval: 0
 # kemikalie — substantiv
 
 📖 中文：化学品 · English: chemical
+
+🇸🇪 Förklaring: ämne som har tillverkats genom kemiska processer, till exempel för industrin
+
 发音提示：ke-mi-KA-li-e（重音在第三音节）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kemi]] (化学), [[kemisk]] (化学的), [[kemist]] (化学家)
+- 同义词: [[kemiskt-ämne|kemiskt ämne]] (化学物质)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]
 

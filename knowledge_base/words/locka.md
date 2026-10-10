@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 吸引
 en: to attract, entice
-synonyms: []
-antonyms: []
-family: []
+synonyms: [attrahera, fresta, dra-till-sig]
+antonyms: [avskräcka, stöta-bort]
+family: [lockande, lockelse, lockbete]
 topics: [topic-idrott]
 sentences: [sent-han-gillade-egentligen-inte-konditionsträning]
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # locka — verb (grupp 1)
 
 📖 中文：吸引 · English: to attract, entice
+
+🇸🇪 Förklaring: få någon att vilja göra något eller komma till en plats
+
 发音提示：/ˈlɔkːa/
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[lockande]] (诱人的), [[lockelse]] (诱惑), [[lockbete]] (诱饵)
+- 同义词: [[attrahera]] (吸引), [[fresta]] (诱惑), [[dra-till-sig|dra till sig]] (吸引)
+- 反义词: [[avskräcka]] (吓退), [[stöta-bort|stöta bort]] (排斥)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

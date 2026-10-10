@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "眉毛"
 en: "eyebrow"
-synonyms: []
+synonyms: [bryn]
 antonyms: []
-family: [öga]
+family: [öga, ögonfrans]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # ögonbryn — substantiv (ett)
 
 📖 中文：眉毛 · English: eyebrow
+
+🇸🇪 Förklaring: rad med korta hår ovanför ögat
+
 发音提示：/ˈøːgɔnˌbryːn/；由 öga（眼）+ bryn（边缘、眉）构成。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[öga]] 眼睛, *ögonfrans* 睫毛
-- 同义词: —
+- 词族: [[öga]] 眼睛, [[ögonfrans]] 睫毛
+- 同义词: [[bryn]] (眉毛)
 - 反义词: —
 - 主题: [[topic-kropp]]
 

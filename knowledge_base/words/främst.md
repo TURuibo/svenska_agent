@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "主要，首先，尤其"
 en: "mainly, primarily, above all"
-synonyms: ["framför allt", "i första hand", "huvudsakligen"]
-antonyms: []
-family: ["fram", "framför"]
+synonyms: [framför-allt, huvudsakligen, i-första-hand]
+antonyms: [sist]
+family: [framför, fram]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # främst — adverb
 
 📖 中文：主要，首先，尤其 · English: mainly, primarily, above all
+
+🇸🇪 Förklaring: används för att säga att något är viktigast eller gäller mest; på platsen längst fram
+
 发音提示：[frɛmst]
 
 ## 语法变形 (Forms)
@@ -42,8 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[framför]]
-- 同义词: [[framför allt]], [[huvudsakligen]]
+- 词族: [[framför]], [[fram]]
+- 同义词: [[framför-allt|framför allt]], [[huvudsakligen]], [[i-första-hand]]
+- 反义词: [[sist]] (最后)
 
 ## 用法提示 (Usage Notes)
 

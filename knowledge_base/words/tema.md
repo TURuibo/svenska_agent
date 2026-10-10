@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "主题"
 en: "theme"
-synonyms: []
+synonyms: [ämne, motiv]
 antonyms: []
-family: []
+family: [temadag, tematisk, temafest]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-just-nu-har-vi-temat-kroppen]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tema — substantiv (ett)
 
 📖 中文：主题 · English: theme
+
+🇸🇪 Förklaring: huvudsakligt ämne som något handlar om
+
 发音提示：/ˈteːma/；重音在第一音节，长 e。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[temadag]] (主题日), [[tematisk]] (主题的), [[temafest]] (主题派对)
+- 同义词: [[ämne]] (主题), [[motiv]] (主题；母题)
+- 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

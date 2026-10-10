@@ -8,8 +8,9 @@ zh: "自行车道；自行车专用道"
 en: "bicycle lane; cycle path"
 cefr: "A2"
 known: false
-synonyms: ["cykelväg", "cykelled"]
+synonyms: [cykelväg, cykelled]
 antonyms: []
+family: [cykel, cykla, bana]
 topics: ["topic-stad-och-transport", "topic-cykel"]
 phrases: []
 sentences: ["sent-malmo-har-fatt-en-ny-cykelbana", "sent-den-ar-fyra-kilometer-lang", "sent-cykelbanan-ar-gratis-att-anvanda"]
@@ -27,6 +28,10 @@ interval: 0
 **中文:** 自行车道；自行车专用道
 **English:** bicycle lane; cycle path
 **CEFR:** A2
+
+🇸🇪 Förklaring: del av en gata eller väg som är gjord bara för cyklar
+
+发音提示：/ˈsʏkːɛlˌbɑːna/ — c 读 s；重音在 cy，第二重音在 ba
 
 ## 变形 (Forms)
 
@@ -66,3 +71,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-notis-ny-cykelbana]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[cykel]] (自行车), [[cykla]] (骑车), [[bana]] (跑道；轨道)
+- 同义词: [[cykelväg]] (自行车道), [[cykelled]]
+- 反义词: —

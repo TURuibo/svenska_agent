@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "民用的；平民的；非军事的"
 en: "civilian; civil; non-military"
-synonyms: []
-antonyms: ["militär"]
-family: ["civilist", "civilbefolkning"]
+synonyms: [icke-militär]
+antonyms: [militär]
+family: [civilist, civilbefolkning]
 topics: ["topic-krig-och-konflikt", "topic-samhälle-och-politik"]
 sentences:
   - sent-ett-ryskt-militärfartyg-sköt-skott
@@ -25,6 +25,9 @@ interval: 0
 # civil — adjektiv
 
 📖 中文：民用的；平民的；非军事的 · English: civilian; civil; non-military
+
+🇸🇪 Förklaring: som inte hör till militären; som gäller vanliga medborgare
+
 发音提示：/sɪˈviːl/
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: civilist（平民）, civilbefolkning（平民人口）
-- 反义词: militär（军事的）
+- 词族: [[civilist]]（平民）, [[civilbefolkning]]（平民人口）
+- 同义词: [[icke-militär]] (非军事的)
+- 反义词: [[militär]]（军事的）
 - 主题: [[topic-krig-och-konflikt]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

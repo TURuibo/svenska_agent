@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 药片；片剂
 en: tablet, pill
-synonyms: []
+synonyms: [piller]
 antonyms: []
-family: []
+family: [sömntablett, värktablett]
 topics: [topic-hälsa]
 sentences:
   - sent-ta-tre-tabletter-om-dagen-i-sju-dagar
@@ -23,6 +23,9 @@ interval: 0
 # tablett — substantiv (en)
 
 📖 中文：药片；片剂 · English: tablet, pill
+
+🇸🇪 Förklaring: liten, hård bit medicin som man sväljer
+
 发音提示：ta-BLETT（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sömntablett]] (安眠药), [[värktablett]] (止痛片)
+- 同义词: [[piller]] (药丸)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

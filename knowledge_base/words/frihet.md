@@ -18,6 +18,9 @@ created: "2026-09-22"
 # frihet — substantiv (en)
 
 📖 中文：自由 · English: freedom
+
+🇸🇪 Förklaring: det att kunna göra och bestämma vad man vill utan att andra hindrar en
+
 发音提示：/ˈfriːheːt/
 
 ## 语法变形 (Forms)

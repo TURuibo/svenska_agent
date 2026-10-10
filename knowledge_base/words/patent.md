@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "专利"
 en: "patent"
-synonyms: []
+synonyms: [ensamrätt]
 antonyms: []
-family: ["patentera"]
+family: [patentera]
 topics: ["topic-uppfinning-och-teknik"]
 sentences:
   - "sent-under-sitt-liv-fick-alfred-355-patent"
@@ -24,6 +24,9 @@ interval: 0
 # patent — substantiv (ett)
 
 📖 中文：专利 · English: patent
+
+🇸🇪 Förklaring: rätt som bara uppfinnaren har att tillverka och sälja en ny uppfinning under en viss tid
+
 发音提示：/paˈtɛnt/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[patentera]]
+- 同义词: [[ensamrätt]] (独占权)
+- 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]
 
 ## 用法提示 (Usage Notes)

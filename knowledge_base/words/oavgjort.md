@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "平局（体育比赛）"
 en: "draw, tie (in a game)"
-synonyms: []
+synonyms: [lika]
 antonyms: []
-family: ["avgöra", "avgörande"]
+family: [avgöra, avgörande]
 topics: ["topic-fotboll"]
 sentences:
   - sent-inatt-spelade-de-oavgjort-mot-japan
@@ -24,6 +24,9 @@ interval: 0
 # oavgjort — adjektiv/adverb
 
 📖 中文：平局 · English: draw, tie (in a game)
+
+🇸🇪 Förklaring: (om match eller tävling) som slutar utan vinnare, med lika många poäng för båda
+
 发音提示：/ˌoːavˈɟøːrt/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: avgöra（决出胜负），avgörande（决定性的/决赛）
+- 词族: [[avgöra]]（决出胜负）, [[avgörande]]（决定性的/决赛）
+- 同义词: [[lika]] (平局)
+- 反义词: —
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

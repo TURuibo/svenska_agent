@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "住房"
 en: "housing, home"
-synonyms: ["hem"]
+synonyms: [hem]
 antonyms: []
-family: ["bo"]
+family: [bo]
 topics: [topic-sociala-normer]
 sentences: ["sent-att-fråga-någon-direkt-om"]
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # bostad — substantiv
 
 📖 中文：住房 · English: housing, home
+
+🇸🇪 Förklaring: lägenhet eller hus som man har som sitt hem
+
+发音提示：/ˈbuːˌstɑːd/ — 重音在第一音节，o 读 uː
 
 ## 语法变形 (Forms)
 
@@ -43,7 +47,7 @@ interval: 0
 
 - 词族: [[bo]]
 - 同义词: [[hem]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

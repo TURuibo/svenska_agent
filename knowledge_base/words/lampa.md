@@ -24,6 +24,9 @@ interval: 0
 # lampa — substantiv (en)
 
 📖 中文：灯；台灯 · English: lamp; light
+
+🇸🇪 Förklaring: sak som ger ljus med hjälp av elektricitet
+
 发音提示：LAM-pa；两音节。
 
 ## 语法变形 (Forms)

@@ -8,7 +8,7 @@ zh: 瓦楞纸
 en: corrugated cardboard
 synonyms: []
 antonyms: []
-family: []
+family: [papp, pappkartong]
 topics: [topic-källsortering]
 sentences:
   - sent-wellpapp-och-kartong-viker-du-ihop
@@ -23,6 +23,9 @@ interval: 0
 # wellpapp — substantiv
 
 📖 中文：瓦楞纸 · English: corrugated cardboard
+
+🇸🇪 Förklaring: kraftig papp med ett vågigt lager inuti, som man gör kartonger av
+
 发音提示：WELL-pap（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[papp]] (纸板), [[pappkartong]] (纸箱)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]
 

@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vattkoppor — substantiv (en, plural)
 
 📖 中文：水痘 · English: chickenpox
+
+🇸🇪 Förklaring: smittsam sjukdom, oftast hos barn, med feber och kliande blåsor på huden
+
 发音提示：/ˈvatːˌkɔpːʊr/ — 双 t、双 p 都短促；重音在 vatt-。
 
 ## 语法变形 (Forms)

@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: "B1"
 zh: "最后；终于"
 en: "finally; lastly"
-synonyms: ["till sist"]
-antonyms: []
-family: ["slut", "sluta"]
+synonyms: [till-sist]
+antonyms: [först, inledningsvis]
+family: [slut, sluta]
 topics: ["topic-argumentation"]
 sentences: ["sent-slutligen-vill-jag-säga-att"]
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-07"
 # slutligen — adverb
 
 📖 中文：最后 · English: finally, lastly
+
+🇸🇪 Förklaring: efter allt annat eller efter lång tid; används också för att visa den sista punkten i en uppräkning
+
 发音提示：SLUT-li-gen
 
 ## 语法变形 (Forms)
@@ -37,6 +40,8 @@ created: "2026-10-07"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[slut]], [[sluta]]
+- 同义词: [[till-sist]]
+- 反义词: [[först]] (首先), [[inledningsvis]] (开始时)
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

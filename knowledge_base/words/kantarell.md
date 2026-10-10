@@ -9,7 +9,7 @@ zh: "鸡油菌"
 en: "chanterelle"
 synonyms: []
 antonyms: []
-family: []
+family: [svamp]
 topics: [topic-natur-skog, topic-mat-dryck]
 sentences: [sent-jag-hoppas-att-vi-hittar]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-09"
 # kantarell — substantiv en
 
 📖 中文：鸡油菌 · English: chanterelle
+
+🇸🇪 Förklaring: gul svamp som växer i skogen och som är god att äta
+
 发音提示：kan-ta-RELL
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-10-09"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[svamp]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-natur-skog]] · [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

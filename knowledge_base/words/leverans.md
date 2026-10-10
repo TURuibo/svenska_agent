@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "交付，运送"
 en: "delivery"
-synonyms: []
+synonyms: [sändning, utlämning]
 antonyms: []
-family: ["leverera"]
+family: [leverera]
 topics: ["topic-forsvar-och-sakerhet"]
 sentences:
   - sent-i-vantan-pa-leverans-hyr
@@ -24,6 +24,9 @@ interval: 0
 # leverans — substantiv
 
 📖 中文：交付，运送 · English: delivery
+
+🇸🇪 Förklaring: det att varor lämnas eller skickas till en köpare
+
 发音提示：le-ve-RANS
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[leverera]]
+- 同义词: [[sändning]] (发货), [[utlämning]] (发放)
+- 反义词: —
 - 主题: [[topic-forsvar-och-sakerhet]]
 
 ## 用法提示 (Usage Notes)

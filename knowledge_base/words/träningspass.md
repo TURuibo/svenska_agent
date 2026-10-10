@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "一次训练课"
 en: "training session"
-synonyms: []
+synonyms: [pass]
 antonyms: []
 family: [träningsupplägg]
 topics: [topic-idrott]
@@ -23,6 +23,9 @@ interval: 0
 # träningspass — substantiv
 
 📖 中文：一次训练课 · English: training session
+
+🇸🇪 Förklaring: ett tillfälle då man övar eller motionerar under en bestämd tid
+
 发音提示：TRÄ-nings-pass
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[träningsupplägg]]（训练安排）
-- 同义词: —
+- 同义词: [[pass]] (一节训练)
 - 反义词: —
 - 主题: [[topic-idrott]]
 

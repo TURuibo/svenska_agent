@@ -8,8 +8,8 @@ cefr: "A1"
 zh: "儿子"
 en: "son"
 synonyms: []
-antonyms: []
-family: ["dotter", "förälder", "far", "mor"]
+antonyms: [dotter]
+family: [dotter, förälder, far, mor]
 topics: ["topic-familj-och-barn", "topic-personer"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # son — substantiv (en)
 
 📖 中文：儿子 · English: son
+
+🇸🇪 Förklaring: pojke eller man i förhållande till sina föräldrar
+
 发音提示：/suːn/
 
 ## 语法变形 (Forms)
@@ -39,6 +42,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dotter]], [[förälder]], [[far]], [[mor]]
+- 同义词: —
 - 反义词: [[dotter]]
 - 主题: [[topic-familj-och-barn]], [[topic-personer]]
 

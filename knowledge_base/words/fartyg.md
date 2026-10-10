@@ -6,9 +6,9 @@ genus: ett
 cefr: "B1"
 zh: "船只，舰船"
 en: "vessel, ship"
-synonyms: []
+synonyms: [skepp, båt]
 antonyms: []
-family: []
+family: [fart, passagerarfartyg, lastfartyg]
 topics:
   - topic-krig-och-konflikt
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # fartyg — substantiv (ett)
 
 📖 中文：船只，舰船 · English: vessel, ship
+
+🇸🇪 Förklaring: stort skepp som går på havet och fraktar människor eller varor
+
 发音提示：FAR-tyg
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[fart]] (速度), [[passagerarfartyg]] (客轮), [[lastfartyg]] (货船)
+- 同义词: [[skepp]] (船), [[båt]] (船)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

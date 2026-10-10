@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 行业/产业/工业
 en: industry
-synonyms: []
+synonyms: [tillverkning, bransch]
 antonyms: []
 family: [industriell]
 topics: [topic-arbete-och-jobb]
@@ -22,6 +22,9 @@ interval: 0
 # industri — substantiv (en-ord)
 
 📖 中文：行业/产业/工业 · English: industry
+
+🇸🇪 Förklaring: tillverkning av varor i stor skala med maskiner i fabriker; alla företag inom en viss bransch
+
 发音提示：[ɪndʊˈstriː] — 重音在最后音节，长 i
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[industriell]]
+- 同义词: [[tillverkning]] (制造业), [[bransch]] (行业)
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

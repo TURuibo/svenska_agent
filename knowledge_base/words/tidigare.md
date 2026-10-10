@@ -8,7 +8,7 @@ cefr: A2
 zh: 以前、早先；更早
 en: earlier, previously, before
 synonyms: [förut]
-antonyms: [senare]
+antonyms: [sen, senare]
 family: [tidig, tidigast]
 topics: []
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # tidigare — adverb
 
 📖 中文：以前、早先；更早 · English: earlier, previously
+
+🇸🇪 Förklaring: före nu eller före något annat som man talar om
+
 发音提示：/ˈtiːdɪɡarɛ/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tidig]]、[[tidigast]]
-- 同义词: förut
-- 反义词: senare（见 [[sen]]）
+- 词族: [[tidig]], [[tidigast]]
+- 同义词: [[förut]]
+- 反义词: senare（见 [[sen]]）, [[senare]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

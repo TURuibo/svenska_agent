@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "黑暗的；深色的"
 en: "dark"
-synonyms: []
-antonyms: ["ljus"]
-family: ["mörker", "mörkret", "mörkna"]
+synonyms: [skum]
+antonyms: [ljus]
+family: [mörker, mörkna, mörkret]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # mörk — adjektiv
 
 📖 中文：黑暗的；深色的 · English: dark
+
+🇸🇪 Förklaring: som har lite eller inget ljus; (om färg) som ligger nära svart
+
 发音提示：/mœrk/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mörker (黑暗, substantiv), mörkna (变暗, verb)
-- 同义词: skum (昏暗的, 口语)
+- 词族: [[mörker]] (黑暗, substantiv), [[mörkna]] (变暗, verb), [[mörkret]]
+- 同义词: [[skum]] (昏暗的, 口语)
 - 反义词: [[ljus]] (明亮的/浅色的)
 - 主题: [[topic-karaktarsord]]
 

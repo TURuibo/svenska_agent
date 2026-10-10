@@ -7,8 +7,8 @@ genus: ""
 cefr: "A1"
 zh: "有趣的、好玩的（口语）"
 en: "fun, cool (colloquial)"
-synonyms: ["rolig"]
-antonyms: ["tråkig"]
+synonyms: [rolig]
+antonyms: [tråkig]
 family: []
 topics: ["topic-karaktarsord"]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # kul — adjektiv
 
 📖 中文：有趣的、好玩的（口语）· English: fun, cool (colloquial)
+
+🇸🇪 Förklaring: som ger glädje och nöje (vardagligt)
+
 发音提示：/kʉːl/，单音节，u 发长音
 
 ## 语法变形 (Forms)

@@ -6,13 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "传达；传递；传播"
 en: "to convey; to communicate; to mediate"
-synonyms:
-  - kommunicera
-  - förklara
+synonyms: [kommunicera, förklara]
 antonyms: []
-family:
-  - förmedling
-  - förmedlare
+family: [förmedling, förmedlare]
 topics:
   - topic-film
   - topic-litteratur-och-kultur
@@ -29,6 +25,9 @@ interval: 0
 # förmedla — verb v.1
 
 📖 中文：传达；传递；传播 · English: to convey; to communicate
+
+🇸🇪 Förklaring: föra vidare information, känslor eller kontakter från en person till en annan
+
 发音提示：/för-MED-la/
 
 ## 语法变形 (Forms)
@@ -54,5 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: förmedling（名词：传达；中介）· förmedlare（传达者）
+- 词族: [[förmedling]]（名词：传达；中介）· förmedlare（传达者）, [[förmedlare]]
+- 同义词: [[kommunicera]], [[förklara]]
+- 反义词: —
 - 主题: [[topic-film]] · [[topic-litteratur-och-kultur]]

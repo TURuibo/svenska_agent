@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "车票；票"
 en: "ticket"
-synonyms: []
+synonyms: [färdbevis]
 antonyms: []
-family: []
+family: [biljettautomat, tågbiljett, bussbiljett]
 topics:
   - topic-kollektivtrafik
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # biljett — substantiv en
 
 📖 中文：车票；票 · English: ticket
+
+🇸🇪 Förklaring: papper eller kod som visar att man har betalat för att resa eller komma in någonstans
+
 发音提示：/bi-LJETT/（借词自法语 billet）
 
 ## 语法变形 (Forms)
@@ -50,5 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: biljettautomat, tågbiljett, bussbiljett
+- 词族: [[biljettautomat]], [[tågbiljett]], [[bussbiljett]]
+- 同义词: [[färdbevis]] (乘车凭证)
+- 反义词: —
 - 主题: [[topic-kollektivtrafik]]

@@ -7,9 +7,9 @@ genus: ett
 cefr: "B1"
 zh: "防御，防卫"
 en: "defence, defense"
-synonyms: []
-antonyms: ["anfall"]
-family: ["försvara", "försvarare"]
+synonyms: [skydd, värn]
+antonyms: [anfall]
+family: [försvara, försvarare]
 topics: ["topic-stockholm"]
 sentences:
   - sent-läget-var-bra-för-handel-och-försvar
@@ -24,6 +24,9 @@ interval: 0
 # försvar — substantiv
 
 📖 中文：防御，防卫 · English: defence, defense
+
+🇸🇪 Förklaring: det att skydda sig själv eller något mot angrepp; ett lands militär
+
 发音提示：FÖR-svar
 
 ## 语法变形 (Forms)
@@ -53,7 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[försvara]], [[försvarare]]
-- 反义词: `anfall` (进攻)
+- 同义词: [[skydd]] (保护), [[värn]] (防御)
+- 反义词: [[anfall]] (进攻)
 - 主题: [[topic-stockholm]]
 
 ## 用法提示 (Usage Notes)

@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: B1
 zh: 西南部的
 en: south-western
-synonyms: []
+synonyms: [sydvästlig]
 antonyms: [nordöstra]
 family: [södra]
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # sydvästra — adjektiv
 
 📖 中文：西南部的 · English: south-western
+
+🇸🇪 Förklaring: som ligger i den del av ett område som är mellan söder och väster
+
 发音提示：/ˈsyːdvɛstra/
 
 ## 语法变形 (Forms)
@@ -34,8 +37,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[södra]]
-- 同义词: 
-- 反义词: nordöstra
+- 同义词: [[sydvästlig]] (西南的)
+- 反义词: [[nordöstra]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "联网的、在线的"
 en: "connected/online"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ansluten, online]
+antonyms: [frånkopplad, offline]
+family: [koppla, koppla-upp, uppkoppling]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # uppkopplad — adjektiv
 
 📖 中文：联网的、在线的 · English: connected/online
+
+🇸🇪 Förklaring: som har kontakt med internet eller ett nätverk
+
 发音提示：UPP-kopp-lad
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[koppla]] (连接), [[koppla-upp|koppla upp]] (联网), [[uppkoppling]] (网络连接)
+- 同义词: [[ansluten]] (已连接的), [[online]] (在线)
+- 反义词: [[frånkopplad]] (断开的), [[offline]] (离线)
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

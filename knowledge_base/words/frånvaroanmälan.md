@@ -19,6 +19,9 @@ created: "2026-09-26"
 # frånvaroanmälan — substantiv (en)
 
 📖 中文：缺勤报告 · English: absence report
+
+🇸🇪 Förklaring: meddelande till skolan eller arbetet om att någon inte kommer dit
+
 发音提示：[ˈfroːnvaːrʊanˌmɛːlan]，长词，重音在 från-。
 
 ## 语法变形 (Forms)
@@ -41,7 +44,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[frånvaro]] · [[anmälan]] · [[sjukanmälan]]
+- 词族: [[frånvaro]] · [[anmälan]] · [[sjukanmälan]], [[anmälan]], [[sjukanmälan]] (报病假)
 - 同义词: [[sjukanmälan]]（因病时）
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]

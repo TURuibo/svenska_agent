@@ -9,10 +9,7 @@ zh: "下雪"
 en: "to snow"
 synonyms: []
 antonyms: []
-family:
-  - snö
-  - snöfall
-  - snöig
+family: [snö, snöfall, snöig]
 topics:
   - topic-vader-och-arstider
 sentences:
@@ -28,6 +25,9 @@ interval: 0
 # snöa — verb (grupp 1)
 
 📖 中文：下雪 · English: to snow
+
+🇸🇪 Förklaring: (med det) falla som vita, frusna flingor från himlen
+
 发音提示：[ˈsnøːa] — 两音节
 
 ## 语法变形 (Forms)
@@ -54,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[snö]] (en snö — 雪), [[snöfall]] (ett snöfall — 降雪)
+- 词族: [[snö]] (en snö — 雪), [[snöfall]] (ett snöfall — 降雪), [[snöig]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-vader-och-arstider]]

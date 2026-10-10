@@ -6,7 +6,7 @@ genus: en
 cefr: B2
 zh: 乳腺X光检查
 en: mammography
-synonyms: []
+synonyms: [bröströntgen]
 antonyms: []
 family: []
 topics: []
@@ -18,6 +18,9 @@ created: 2026-10-05
 # mammografi — substantiv (en-ord)
 
 📖 中文：乳腺X光检查 · English: mammography
+
+🇸🇪 Förklaring: röntgenundersökning av brösten för att tidigt hitta bröstcancer
+
 发音提示：[mamɔɡraˈfiː]，重音在最后
 
 ## 语法变形 (Forms)
@@ -40,6 +43,9 @@ created: 2026-10-05
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: [[bröströntgen]] (乳房X光)
+- 反义词: —
 - 相关: [[bröst]]、[[vård]]
 
 ## 用法提示 (Usage Notes)

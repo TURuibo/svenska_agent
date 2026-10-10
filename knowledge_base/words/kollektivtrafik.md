@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "公共交通"
 en: "public transport"
-synonyms: []
+synonyms: [allmänna-kommunikationer]
 antonyms: [biltrafik]
-family: [trafik, kollektiv]
+family: [trafik, kollektiv, åka-kollektivt]
 topics: [topic-nyheter-vecka22, topic-kollektivtrafik]
 sentences: [sent-regeringen-vill-halvera-priset]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kollektivtrafik — substantiv (en)
 
 📖 中文：公共交通 · English: public transport
+
+🇸🇪 Förklaring: bussar, tåg, spårvagnar och tunnelbana som alla kan åka med om de betalar
+
 发音提示：kol-lek-tiv-tra-FIK，重音在最后音节。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[trafik]] (en, 交通), [[kollektiv]] (adj. 集体的), [[åka kollektivt]] (短语, 乘公共交通)
-- 同义词: [[allmänna kommunikationer]] (公共交通，老式说法)
+- 词族: [[trafik]] (en, 交通), [[kollektiv]] (adj. 集体的), [[åka-kollektivt|åka kollektivt]] (短语, 乘公共交通)
+- 同义词: [[allmänna-kommunikationer|allmänna kommunikationer]] (公共交通，老式说法)
 - 反义词: [[biltrafik]] (en, 汽车交通)
 - 主题: [[topic-nyheter-vecka22]], [[topic-kollektivtrafik]]
 

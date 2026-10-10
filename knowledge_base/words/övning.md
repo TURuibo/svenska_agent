@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "练习；演习"
 en: "exercise, drill"
-synonyms: []
+synonyms: [träning, uppgift]
 antonyms: []
-family: ["öva"]
+family: [öva]
 topics: ["topic-krig-och-konflikt"]
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-10"
 # övning — substantiv
 
 📖 中文：练习；演习 · English: exercise, drill
+
+🇸🇪 Förklaring: uppgift som man gör för att lära sig något; träning inför en riktig situation, till exempel en brandövning
+
+发音提示：/ˈøːvnɪŋ/ — ö 读长音 øː；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -35,6 +39,8 @@ created: "2026-10-10"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[öva]]
+- 同义词: [[träning]] (训练), [[uppgift]] (练习题)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

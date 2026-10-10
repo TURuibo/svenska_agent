@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "手势；符号"
 en: "sign"
-synonyms: []
+synonyms: [symbol, signal]
 antonyms: []
 family: [teckna]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tecken — substantiv
 
 📖 中文：手势；符号 · English: sign
+
+🇸🇪 Förklaring: rörelse med händerna som betyder något; märke eller bild som står för något
+
 发音提示：/ˈtekːen/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[teckna]]
+- 同义词: [[symbol]] (符号), [[signal]] (信号)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

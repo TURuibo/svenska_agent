@@ -8,7 +8,7 @@ zh: "汤"
 en: "soup"
 synonyms: []
 antonyms: []
-family: []
+family: [sopptallrik, soppkök]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # soppa — substantiv (en-ord)
 
 📖 中文：汤 · English: soup
+
+🇸🇪 Förklaring: flytande varm rätt av t.ex. grönsaker, kött eller fisk som man äter med sked
+
 发音提示：['sɔpːa]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sopptallrik (汤碗), soppkök (施粥厨房)
+- 词族: [[sopptallrik]] (汤碗), [[soppkök]] (施粥厨房)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

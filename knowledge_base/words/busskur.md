@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 候车亭
 en: bus shelter
-synonyms: []
+synonyms: [väderskydd]
 antonyms: []
-family: ["buss"]
+family: [buss]
 topics: ["topic-trafik", "topic-kollektivtrafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # busskur — substantiv (ett)
 
 📖 中文：候车亭 · English: bus shelter
+
+🇸🇪 Förklaring: litet tak med väggar vid en hållplats där man kan vänta på bussen i skydd mot regn
+
 发音提示：BUSS-kur
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[buss]]
+- 同义词: [[väderskydd]] (候车棚)
+- 反义词: —
 - 主题: [[topic-trafik]], [[topic-kollektivtrafik]]
 
 ## 用法提示 (Usage Notes)

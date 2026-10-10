@@ -8,7 +8,7 @@ zh: 尿布
 en: diaper, nappy
 synonyms: []
 antonyms: []
-family: []
+family: [blöjbyte, tygblöja, blöjfri]
 topics: [topic-källsortering, topic-familj-och-barn]
 sentences:
   - sent-det-som-inte-kan-återvinnas-läggs
@@ -23,6 +23,9 @@ interval: 0
 # blöja — substantiv
 
 📖 中文：尿布 · English: diaper, nappy
+
+🇸🇪 Förklaring: något som små barn har på sig som underkläder för att samla upp kiss och bajs
+
 发音提示：BLOE-ya（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[blöjbyte]] (换尿布), [[tygblöja]] (布尿布), [[blöjfri]] (不用尿布的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 主题: [[topic-familj-och-barn]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]

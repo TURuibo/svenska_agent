@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "毯子；毛毯"
 en: "blanket"
-synonyms: []
+synonyms: [täcke]
 antonyms: []
 family: [kudde, täcke, sängkläder]
 topics: [topic-mobler, topic-hemmet]
@@ -24,6 +24,9 @@ interval: 0
 # filt — substantiv (en)
 
 📖 中文：毯子；毛毯 · English: blanket
+
+🇸🇪 Förklaring: stort mjukt tygstycke som man lägger över sig för att hålla värmen
+
 发音提示：filt（单音节）。
 
 ## 语法变形 (Forms)

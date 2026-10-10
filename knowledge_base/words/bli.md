@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: "A1"
 zh: "变成, 成为; 将会"
 en: "to become; will be"
-synonyms: ["bli till", "komma att"]
+synonyms: [bli-till, komma-att]
 antonyms: []
-family: []
+family: [förbli]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bli — verb
 
 📖 中文：变成, 成为; 将会 · English: to become; will be
+
+🇸🇪 Förklaring: börja vara på ett visst sätt eller ändras till något annat; används om något som kommer att hända
+
 发音提示：bli（单音节）
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[förbli]] (保持；仍然是)
+- 同义词: [[bli-till]], [[komma-att]]
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

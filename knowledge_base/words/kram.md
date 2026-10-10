@@ -6,7 +6,7 @@ genus: en
 cefr: "A2"
 zh: "拥抱；（信末问候语）抱抱"
 en: "hug; (letter/SMS closing) hugs"
-synonyms: []
+synonyms: [omfamning]
 antonyms: []
 family: [kramgo, krama]
 topics: [topic-social-kontakt]
@@ -22,6 +22,9 @@ interval: 0
 # kram — substantiv (en)
 
 📖 中文：拥抱；（信末/短信问候）抱抱 · English: hug; (closing salutation) hugs
+
+🇸🇪 Förklaring: det att man lägger armarna om någon för att visa värme; också hälsning i slutet av ett brev eller sms
+
 发音提示：[kram]
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kramgo]], [[krama]]
-- 同义词:
-- 反义词:
+- 同义词: [[omfamning]] (拥抱)
+- 反义词: —
 - 主题: [[topic-social-kontakt]]
 
 ## 用法提示 (Usage Notes)

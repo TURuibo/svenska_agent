@@ -7,8 +7,8 @@ cefr: "A2"
 zh: "兼职；部分工时"
 en: "part-time"
 synonyms: []
-antonyms: ["heltid"]
-family: ["heltid"]
+antonyms: [heltid]
+family: [heltid]
 topics: ["topic-arbete-och-jobb"]
 sentences:
   - sent-förskolan-solgården-i-örebro-söker
@@ -24,6 +24,9 @@ interval: 0
 # deltid — substantiv
 
 📖 中文：兼职；部分工时 · English: part-time
+
+🇸🇪 Förklaring: arbete eller studier under färre timmar än en vanlig full vecka
+
 发音提示：DEL-tid（两音节）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: [[heltid]]
 - 词族: [[heltid]]
+- 同义词: —
+- 反义词: [[heltid]]
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

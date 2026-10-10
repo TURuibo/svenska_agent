@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "冷却；使降温；（名词）寒冷；冷意"
 en: "to cool (down); (noun) cold, chill"
-synonyms: []
-antonyms: ["värma"]
-family: ["kyl", "kylning", "kylig"]
+synonyms: [svalka]
+antonyms: [värma]
+family: [kyl, kylning, kylig]
 topics: ["topic-vader-och-arstider"]
 sentences: ["sent-folk-i-frankrike-har-ocksa-kopt"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kyla — verb / substantiv
 
 📖 中文：（动）冷却；使降温；（名）寒冷；冷意 · English: to cool (down); (noun) cold, chill
+
+🇸🇪 Förklaring: 1) göra något kallt eller kallare; 2) (substantiv) låg temperatur eller kallt väder
+
 发音提示：CHY-la
 
 ## 语法变形 (Forms)
@@ -63,7 +66,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kyl]], [[kylning]], [[kylig]]
-- 同义词:
+- 同义词: [[svalka]] (使凉爽)
 - 反义词: [[värma]]
 - 主题: [[topic-vader-och-arstider]]
 

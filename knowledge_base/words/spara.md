@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "节省；储存；保存；储蓄"
 en: "to save; to conserve; to store; to economize"
-synonyms: []
+synonyms: [lägga-undan, lagra]
 antonyms: [slösa, förbruka]
 family: [besparing, sparande]
 topics: [topic-miljö-och-klimat, topic-arbete-och-jobb]
@@ -24,6 +24,9 @@ interval: 0
 # spara — verb (grupp 1)
 
 📖 中文：节省；储存；保存；储蓄 · English: to save; to conserve; to store; to economize
+
+🇸🇪 Förklaring: 1) inte använda upp något utan ha kvar det till senare; 2) lägga undan pengar; 3) lagra filer eller data på en dator
+
 发音提示：SPA-ra（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -56,6 +59,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[besparing]], [[sparande]]
+- 同义词: [[lägga-undan|lägga undan]] (存起来), [[lagra]] (储存)
 - 反义词: [[slösa]], [[förbruka]]
 - 主题: [[topic-miljö-och-klimat]]
 

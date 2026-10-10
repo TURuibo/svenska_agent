@@ -18,6 +18,9 @@ created: "2026-10-01"
 # barnbarn — substantiv (ett)
 
 📖 中文：孙辈（孙子/孙女/外孙） · English: grandchild
+
+🇸🇪 Förklaring: barn till ens son eller dotter
+
 发音提示：/ˈbɑːɳˌbɑːɳ/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[barn]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

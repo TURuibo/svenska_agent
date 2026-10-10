@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 故事/童话
 en: story, fairy tale
-synonyms: []
-antonyms: []
-family: []
+synonyms: [berättelse, historia]
+antonyms: [verklighet]
+family: [folksaga, sagofigur, saglik]
 topics: [topic-litteratur-och-kultur, topic-familj-och-barn]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # saga — substantiv (en)
 
 📖 中文：故事/童话 · English: story, fairy tale
+
+🇸🇪 Förklaring: berättelse om påhittade händelser, ofta med troll, prinsessor eller djur som pratar
+
 发音提示：SA-ga；元音 `a` 长音，双音节。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 
 - 词族: [[folksaga]] (en, 民间故事), [[sagofigur]] (en, 童话人物), [[saglik]] (adj, 童话般的)
 - 同义词: [[berättelse]] (en, 故事/叙述，更通用), [[historia]] (en, 故事/历史)
-- 反义词: —
+- 反义词: [[verklighet]] (现实)
 - 主题: [[topic-litteratur-och-kultur]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

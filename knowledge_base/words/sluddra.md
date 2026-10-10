@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B2"
 zh: "说话含混"
 en: "to slur"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [mumla]
+antonyms: [artikulera]
+family: [sluddrig]
 topics: ["topic-trafik-säkerhet"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # sluddra — verb
 
 📖 中文：说话含混 · English: to slur
-发音提示：
+
+🇸🇪 Förklaring: tala otydligt så att orden flyter ihop, t.ex. när man är trött eller berusad
+
+发音提示：/ˈslɵdːra/ — u 短读 ɵ；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[sluddrig]] (含混不清的)
+- 同义词: [[mumla]] (嘟囔)
+- 反义词: [[artikulera]] (清晰发音)
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

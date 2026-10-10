@@ -7,9 +7,9 @@ genus: ett
 cefr: A1
 zh: "生活；生命；一生"
 en: "life"
-synonyms: []
-antonyms: []
-family: [leva]
+synonyms: [tillvaro, existens]
+antonyms: [död]
+family: [leva, livsstil, livsmedel]
 topics: []
 sentences: [sent-nils-gav-allt-för-skridskoåkningen, sent-han-ville-ha-ett-liv]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # liv — substantiv (ett)
 
 📖 中文：生活；生命；一生 · English: life
+
+🇸🇪 Förklaring: 1) det att inte vara död; 2) tiden från födelsen till döden; 3) sätt att bo och tillbringa sin tid
+
 发音提示：/liːv/（长 i）
 
 ## 语法变形 (Forms)
@@ -60,9 +63,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[leva]]（生活，动词）；livsstil、livsmedel（复合词）
-- 同义词:
-- 反义词: död（死亡）
+- 词族: [[leva]]（生活，动词）, [[livsstil]], [[livsmedel]]（复合词）
+- 同义词: [[tillvaro]] (生活；存在), [[existens]] (存在)
+- 反义词: [[död]]（死亡）
 - 主题:
 
 ## 用法提示 (Usage Notes)

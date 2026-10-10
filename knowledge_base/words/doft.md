@@ -6,9 +6,9 @@ genus: en
 cefr: "B1"
 zh: "香气；气味"
 en: "scent; aroma"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [lukt, arom]
+antonyms: [stank]
+family: [dofta, doftljus]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # doft — substantiv (en)
 
 📖 中文：香气；气味 · English: scent; aroma
+
+🇸🇪 Förklaring: något som man känner med näsan, oftast något behagligt, till exempel från blommor eller mat
+
 发音提示：DOFT（短促，清晰的 t 结尾）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[dofta]] (散发香味), [[doftljus]] (香薰蜡烛)
+- 同义词: [[lukt]] (气味), [[arom]] (香气)
+- 反义词: [[stank]] (恶臭)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "背心/内衬"
 en: "tank top/undershirt"
-synonyms: []
+synonyms: [topp, undertröja]
 antonyms: []
-family: []
+family: [lin, linnetyg]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # linne — substantiv (ett-ord)
 
 📖 中文：背心/内衬 · English: tank top/undershirt
+
+🇸🇪 Förklaring: tröja utan ärmar med smala band över axlarna
+
 发音提示：/ˈlɪnːɛ/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[lin]] (亚麻), [[linnetyg]] (亚麻布)
+- 同义词: [[topp]] (背心上衣), [[undertröja]] (内衣)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: "adverb"
 cefr: "A2"
 zh: "同时"
 en: "at the same time"
-synonyms: []
-antonyms: []
-family: ["tid"]
+synonyms: [parallellt, på-samma-gång]
+antonyms: [efter-varandra, växelvis]
+family: [tid]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # samtidigt — adverb
 
 📖 中文：同时 · English: at the same time
+
+🇸🇪 Förklaring: 1) i ett och samma ögonblick; 2) men också, å andra sidan
+
+发音提示：/ˈsamːˌtiːdɪt/ — 复合词，重音在 sam；-igt 的 g 不发音
 
 ## 语法变形 (Forms)
 
@@ -39,8 +43,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tid]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[parallellt]] (并行地), [[på-samma-gång|på samma gång]] (同时)
+- 反义词: [[efter-varandra|efter varandra]] (先后), [[växelvis]] (交替地)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

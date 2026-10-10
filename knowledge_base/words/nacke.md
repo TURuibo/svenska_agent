@@ -8,7 +8,7 @@ zh: 脖颈，颈背
 en: neck, nape
 synonyms: []
 antonyms: []
-family: []
+family: [nackspärr, nackstöd]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # nacke — substantiv (en)
 
 📖 中文：脖颈，颈背 · English: neck, nape
+
+🇸🇪 Förklaring: den bakre delen av halsen
+
 发音提示：[ˈnakɛ]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[nackspärr]] (落枕), [[nackstöd]] (头枕)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: "B1"
 zh: "稳定的"
 en: "stable; sturdy; solid"
-synonyms: []
+synonyms: [stadig, fast]
 antonyms: [instabil]
 family: [stabilitet]
 topics: [topic-vader-och-arstider]
@@ -21,6 +21,9 @@ interval: 0
 # stabil — adjektiv
 
 📖 中文：稳定的 · English: stable; sturdy; solid
+
+🇸🇪 Förklaring: som står fast och inte lätt ändras eller faller omkull
+
 发音提示：sta-BIL（重音在末音节）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stabilitet]]
-- 同义词: —
+- 同义词: [[stadig]] (稳固的), [[fast]] (牢固的)
 - 反义词: [[instabil]]
 - 主题: [[topic-vader-och-arstider]]
 

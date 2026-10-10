@@ -6,9 +6,9 @@ genus: en
 cefr: B2
 zh: 干杯歌
 en: drinking song / schnapps song
-synonyms: ["drinksvisa", "snapsång"]
+synonyms: [drinksvisa, snapsång]
 antonyms: []
-family: ["snaps", "visa"]
+family: [snaps, visa]
 topics: ["topic-midsommar-traditioner", "topic-mat-dryck"]
 sentences:
   - sent-man-dricker-snaps-och-sjunger-snapsvisor
@@ -23,6 +23,9 @@ interval: 0
 # snapsvisa — substantiv (en)
 
 📖 中文：干杯歌 · English: drinking song / schnapps song
+
+🇸🇪 Förklaring: kort och glad sång som man sjunger vid festbordet innan man dricker en liten sup
+
 发音提示：SNAPS-vi-sa（三音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[snaps]]（烈酒）, [[visa]]（歌曲）
+- 同义词: [[drinksvisa]], [[snapsång]]
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

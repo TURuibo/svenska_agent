@@ -7,8 +7,8 @@ cefr: A2
 zh: 天空
 en: sky
 synonyms: []
-antonyms: []
-family: []
+antonyms: [jord]
+family: [himmelsblå, himmelrike, himla]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # himmel — substantiv (en-ord)
 
 📖 中文：天空 · English: sky
+
+🇸🇪 Förklaring: det område ovanför jorden där man ser solen, molnen och stjärnorna
+
 发音提示：/ˈhɪməl/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[himmelsblå]] (天蓝色的), [[himmelrike]] (天国), [[himla]] (非常（口语）)
+- 同义词: —
+- 反义词: [[jord]] (大地)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

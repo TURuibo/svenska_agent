@@ -19,6 +19,9 @@ created: "2026-09-26"
 # solhatt — substantiv
 
 📖 中文：遮阳帽 · English: sun hat
+
+🇸🇪 Förklaring: lätt hatt med brätte som skyddar huvudet och ansiktet mot starkt ljus och värme på sommaren
+
 发音提示：/ˈsuːlˌhatː/ — sol 长 o（读「苏尔」），-hatt 短 a 带长 t
 
 ## 语法变形 (Forms)
@@ -47,6 +50,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sol]] (太阳), [[hatt]] (帽子), [[solkräm]] (防晒霜)
+- 同义词: —
 - 反义词: [[mössa]]（冬天的毛线帽）
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 

@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A1
 zh: "玩 / 踢 / 演奏"
 en: "to play (sport/music/games)"
-synonyms: []
+synonyms: [leka, framföra]
 antonyms: []
-family: []
+family: [spel, spelare, skådespelare, datorspel]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # spela — verb
 
 📖 中文：玩 / 踢 / 演奏 · English: to play (sport / music / games)
+
+🇸🇪 Förklaring: 1) delta i en lek, en match eller en tävling; 2) göra musik med ett instrument; 3) ha en roll i en film eller en pjäs
+
 发音提示：['speːla]
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ Verbgrupp 1 (–ar). Regelbundet.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[spel]] (游戏；比赛), [[spelare]] (玩家；球员), [[skådespelare]] (演员), [[datorspel]] (电子游戏)
+- 同义词: [[leka]] (玩), [[framföra]] (表演)
 - 反义词: —
 - 主题: [[topic-fotboll]]
 

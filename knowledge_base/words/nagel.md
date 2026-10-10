@@ -19,6 +19,9 @@ created: "2026-10-05"
 # nagel — substantiv (en)
 
 📖 中文：指甲 · English: nail (finger/toe); also nail (hardware)
+
+🇸🇪 Förklaring: hård och tunn platta längst ut på fingrar och tår
+
 发音提示：/ˈnaː-gel/；g 为硬音。
 
 ## 语法变形 (Forms)

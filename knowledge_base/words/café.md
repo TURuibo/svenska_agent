@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A1"
 zh: "咖啡馆"
 en: "café; coffee shop"
-synonyms: ["kafé"]
+synonyms: [kafé]
 antonyms: []
-family: []
+family: [kaffe, kafeteria]
 topics: ["topic-kafe-fika", "topic-mat-dryck"]
 sentences:
   - "sent-god-morgon-kan-jag-fa-en-stor"
@@ -24,6 +24,9 @@ interval: 0
 # café — substantiv (ett)
 
 📖 中文：咖啡馆 · English: café; coffee shop
+
+🇸🇪 Förklaring: ställe där man kan köpa och dricka kaffe och äta bullar och smörgåsar
+
 发音提示：/kaˈfeː/；法语借词。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kaffe]] (咖啡), [[kafeteria]] (自助餐厅)
 - 同义词: [[kafé]] (另一种常见写法)
+- 反义词: —
 - 主题: [[topic-kafe-fika]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

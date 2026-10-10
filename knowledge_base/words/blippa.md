@@ -8,7 +8,7 @@ zh: "刷（卡）、感应支付"
 en: "to tap (a card)"
 synonyms: []
 antonyms: []
-family: ["betalkort", "betalstation"]
+family: [betalkort, betalstation]
 topics: ["topic-bedrageri-bank-sakerhet", "topic-betalning"]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # blippa — verb
 
 📖 中文：刷（卡）、感应支付 · English: to tap (a card)
+
+🇸🇪 Förklaring: betala genom att hålla kortet eller mobilen nära en kortläsare
+
 发音提示：BLIP-pa
 
 ## 语法变形 (Forms)
@@ -40,6 +43,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[betalkort]], [[betalstation]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-bedrageri-bank-sakerhet]], [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

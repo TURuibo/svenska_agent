@@ -8,7 +8,7 @@ zh: "橙子"
 en: "orange (fruit)"
 synonyms: []
 antonyms: []
-family: []
+family: [apelsinjuice, apelsinmarmelad, apelsinskal]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # apelsin — substantiv (en-ord)
 
 📖 中文：橙子 · English: orange (fruit)
+
+🇸🇪 Förklaring: rund, orange frukt med tjockt skal och söt saft
+
 发音提示：[apəl'siːn]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: apelsinjuice, apelsinmarmelad, apelsinskal
+- 词族: [[apelsinjuice]], [[apelsinmarmelad]], [[apelsinskal]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "训练安排"
 en: "training setup"
-synonyms: []
+synonyms: [träningsschema, träningsplan]
 antonyms: []
 family: [träningspass]
 topics: [topic-idrott]
@@ -23,6 +23,9 @@ interval: 0
 # träningsupplägg — substantiv
 
 📖 中文：训练安排 · English: training setup
+
+🇸🇪 Förklaring: sätt att planera och ordna sin motion eller övning
+
 发音提示：TRÄ-nings-upp-lägg
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[träningspass]]（一次训练课）
-- 同义词: —
+- 同义词: [[träningsschema]] (训练计划表), [[träningsplan]] (训练计划)
 - 反义词: —
 - 主题: [[topic-idrott]]
 

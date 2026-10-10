@@ -8,8 +8,8 @@ cefr: A1
 zh: "春天；春季"
 en: "spring"
 synonyms: []
-antonyms: ["höst"]
-family: ["vårlig"]
+antonyms: [höst]
+family: [vårlig]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-nar-varen-kommer-borjar-dagarna
@@ -24,6 +24,9 @@ interval: 0
 # vår — substantiv (en)
 
 📖 中文：春天；春季 · English: spring
+
+🇸🇪 Förklaring: årstiden mellan vinter och sommar, då naturen börjar bli grön
+
 发音提示：/voːr/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vårlig]]
+- 同义词: —
 - 反义词: [[höst]]
 - 主题: [[topic-vader-och-arstider]]
 

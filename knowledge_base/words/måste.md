@@ -6,8 +6,8 @@ verbgrupp: "oregelbundet"
 cefr: A1
 zh: 必须
 en: must, have to
-synonyms: []
-antonyms: []
+synonyms: [behöva]
+antonyms: [slippa]
 family: []
 topics: []
 sentences: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # måste — verb (oregelbundet)
 
 📖 中文：必须 · English: must, have to
+
+🇸🇪 Förklaring: vara tvungen att göra något; används också för att säga att något säkert är på ett visst sätt
+
 发音提示：/ˈmɔstɛ/
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: —
 - 同义词: （近义：[[behöva]]、`vara tvungen att`）
-- 反义词:
+- 反义词: [[slippa]] (不必)
 - 主题:
 
 ## 用法提示 (Usage Notes)

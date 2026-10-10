@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: 时期；一段时间
 en: period
-synonyms: []
+synonyms: [tid]
 antonyms: []
-family: []
+family: [monsunperiod]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # period — substantiv (en)
 
 📖 中文：时期；一段时间 · English: period
+
+🇸🇪 Förklaring: en viss tid då något pågår eller händer
+
+发音提示：/pɛriˈuːd/ — 重音在最后音节；o 读 /uː/
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: monsunperiod
-- 同义词: tid
-- 反义词:
+- 词族: [[monsunperiod]]
+- 同义词: [[tid]]
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

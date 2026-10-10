@@ -7,11 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "炸，爆破；炸毁"
 en: "to blow up, detonate, blast"
-synonyms: []
+synonyms: [detonera]
 antonyms: []
-family:
-  - sprängning
-  - sprängämne
+family: [sprängning, sprängämne]
 topics:
   - topic-krig-och-konflikt
 sentences:
@@ -27,6 +25,9 @@ interval: 0
 # spränga — verb
 
 📖 中文：炸，爆破；炸毁 · English: to blow up, detonate, blast
+
+🇸🇪 Förklaring: få något att gå sönder med en kraftig explosion
+
 发音提示：['sprɛŋa]
 
 ## 语法变形 (Forms)
@@ -54,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sprängning]], sprängämne
-- 同义词:
-- 反义词:
+- 词族: [[sprängning]], [[sprängämne]]
+- 同义词: [[detonera]] (引爆)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 校长
 en: principal
-synonyms: []
+synonyms: [skolledare]
 antonyms: []
-family: []
+family: [prorektor, rektorat]
 topics: [topic-skola-och-utbildning, topic-yrken]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # rektor — substantiv (en)
 
 📖 中文：校长 · English: principal
+
+🇸🇪 Förklaring: person som är chef för en skola och ansvarar för hela verksamheten
+
 发音提示：/ˈrɛktɔr/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[prorektor]] (副校长), [[rektorat]] (校长职位)
+- 同义词: [[skolledare]] (校领导)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]、[[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

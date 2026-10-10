@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "投票站"
 en: "polling station"
-synonyms: []
+synonyms: [röstningslokal]
 antonyms: []
 family: [val, lokal, riksdagsval, kommunval, valdag, valsedel, valaffisch, vallöfte, valdebatt, valresultat, valarbetare]
 topics: [topic-val-demokrati]
@@ -23,6 +23,9 @@ interval: 0
 # vallokal — substantiv (en)
 
 📖 中文：投票站 · English: polling station
+
+🇸🇪 Förklaring: lokal dit man går för att rösta
+
 发音提示：VAL-lo-kal
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: val，lokal（场所），[[riksdagsval]]，[[kommunval]]，[[valdag]]，[[valsedel]]，[[valaffisch]]，[[vallöfte]]，[[valdebatt]]，[[valresultat]]，[[valarbetare]]（val- 复合词族）
+- 词族: [[val]], [[lokal]]（场所）, [[riksdagsval]], [[kommunval]], [[valdag]], [[valsedel]], [[valaffisch]], [[vallöfte]], [[valdebatt]], [[valresultat]], [[valarbetare]]（val- 复合词族）
+- 同义词: [[röstningslokal]] (投票场所)
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

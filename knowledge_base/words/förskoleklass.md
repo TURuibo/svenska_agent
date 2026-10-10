@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "学前班（6 岁）"
 en: "preschool class (compulsory year before grade 1)"
-synonyms: []
+synonyms: [sexårsverksamhet]
 antonyms: []
 family: [förskola, skola]
 topics: [topic-förskola-system, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # förskoleklass — substantiv (en)
 
 📖 中文：学前班（6 岁） · English: preschool class (compulsory year before grade 1)
+
+🇸🇪 Förklaring: skolår för sexåringar före årskurs ett
+
 发音提示：[ˈfœːrskʊlɛˌklas]，förskole-（复合形式，加 -e）+ klass。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[förskola]] · [[skola]] · klass
-- 同义词: sexårsverksamhet（旧称）· nollan（口语："零年级"）
+- 词族: [[förskola]] · [[skola]] · klass, [[skola]] (学校)
+- 同义词: [[sexårsverksamhet]]（旧称）· nollan（口语："零年级"）
 - 反义词: —
 - 主题: [[topic-förskola-system]] · [[topic-förskola-vardag]]
 

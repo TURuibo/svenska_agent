@@ -7,8 +7,8 @@ cefr: A1
 zh: 说；讲
 en: to say
 synonyms: [tala]
-antonyms: []
-family: []
+antonyms: [tiga]
+family: [sägen, motsäga, förutsäga]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # säga — verb (oregelbundet)
 
 📖 中文：说；讲 · English: to say
+
+🇸🇪 Förklaring: uttrycka något med ord, oftast när man talar
+
 发音提示：/ˈsɛja/（口语 sa /sɑː/）
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: tala
-- 反义词: 
+- 词族: [[sägen]] (传说), [[motsäga]] (反驳), [[förutsäga]] (预言)
+- 同义词: [[tala]]
+- 反义词: [[tiga]] (沉默)
 - 主题: 
 
 ## 用法提示 (Usage Notes)

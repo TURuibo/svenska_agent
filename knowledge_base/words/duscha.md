@@ -9,7 +9,7 @@ zh: 淋浴
 en: to shower
 synonyms: []
 antonyms: []
-family: []
+family: [dusch, duschkabin, duschdraperi]
 topics: [topic-simhall-och-schema]
 sentences: [sent-alla-måste-duscha-före-badet]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # duscha — verb
 
 📖 中文：淋浴 · English: to shower
+
+🇸🇪 Förklaring: tvätta sig genom att stå under vatten som strilar ner ovanifrån
+
 发音提示：DUS-ja（sch 读 /ɧ/）
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[dusch]] (淋浴), [[duschkabin]] (淋浴间), [[duschdraperi]] (浴帘)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-simhall-och-schema]]
 - 相关: [[bada]]
 

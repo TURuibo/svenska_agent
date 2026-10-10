@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "价值观；估价"
 en: "value(s); valuation"
-synonyms: []
+synonyms: [princip, bedömning]
 antonyms: []
-family: []
+family: [värde, värdera, värd]
 topics: [topic-kultur-tradition]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # värdering — substantiv
 
 📖 中文：价值观；估价 · English: value(s); valuation
+
+🇸🇪 Förklaring: idé om vad som är viktigt och rätt i livet; bedömning av hur mycket pengar något kan säljas för
+
 发音提示：betoning på andra stavelsen, vär-DE-ring
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[värde]] (价值), [[värdera]] (评价；估价), [[värd]] (值得的)
+- 同义词: [[princip]] (原则), [[bedömning]] (评估)
+- 反义词: —
 - 主题: [[topic-kultur-tradition]]
 
 ## 用法提示 (Usage Notes)

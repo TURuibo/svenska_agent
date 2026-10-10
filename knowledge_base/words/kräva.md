@@ -6,7 +6,7 @@ verbgrupp: "2"
 cefr: B1
 zh: 要求、需要
 en: to require, demand
-synonyms: []
+synonyms: [fordra, begära, behöva]
 antonyms: []
 family: [krav]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # kräva — verb (grupp 2)
 
 📖 中文：要求、需要 · English: to require, demand
+
+🇸🇪 Förklaring: 1) bestämt begära att få något; 2) göra något nödvändigt, t.ex. tid, pengar eller arbete
+
 发音提示：/ˈkrɛːva/
 
 ## 语法变形 (Forms)
@@ -55,8 +58,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[krav]]（名词，要求）
-- 同义词:
-- 反义词:
+- 同义词: [[fordra]] (要求), [[begära]] (要求), [[behöva]] (需要)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "训斥；骂（狗：叫）"
 en: "to scold; to bark"
-synonyms: []
-antonyms: ["trösta"]
-family: []
+synonyms: [gräla, gläfsa]
+antonyms: [trösta]
+family: [skall, utskällning, skälla-ut]
 topics: ["topic-småbarn-känslor-och-beteende", "topic-förskola-vardag"]
 sentences: ["sent-avled-henne-med-något-annat-och"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # skälla — verb (grupp 2a)
 
 📖 中文：训斥；骂（狗：叫） · English: to scold; to bark
+
+🇸🇪 Förklaring: 1) (om hund) ge ifrån sig korta, höga läten; 2) säga arga ord till någon som har gjort fel
+
 发音提示：SHELL-a（sk- 在 ä 前读 /ɧ/，像"许"）
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
+- 词族: [[skall]] (狗叫声), [[utskällning]] (训斥), [[skälla-ut|skälla ut]] (痛骂)
+- 同义词: [[gräla]] (训斥；争吵), [[gläfsa]] (汪汪叫)
 - 反义词: [[trösta]]
 - 主题: [[topic-småbarn-känslor-och-beteende]], [[topic-förskola-vardag]]
 

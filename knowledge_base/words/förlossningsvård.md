@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "产科护理"
 en: "maternity care"
-synonyms: []
+synonyms: [obstetrik]
 antonyms: []
-family: []
+family: [förlossning, vård, mödravård]
 topics: ["topic-geografi-samhalle"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # förlossningsvård — substantiv
 
 📖 中文：产科护理 · English: maternity care
-发音提示：
+
+🇸🇪 Förklaring: vård som en kvinna får när hon föder barn och strax efter
+
+发音提示：/fœrˈlɔsːnɪŋsˌvoːɖ/ — 重音在 loss；rd 合成卷舌 ɖ
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[förlossning]] (分娩), [[vård]] (护理), [[mödravård]] (孕产妇保健)
+- 同义词: [[obstetrik]] (产科)
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

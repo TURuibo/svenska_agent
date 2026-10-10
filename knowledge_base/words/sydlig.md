@@ -17,6 +17,9 @@ created: "2026-10-01"
 # sydlig — adjektiv
 
 📖 中文：南方的 · English: southern
+
+🇸🇪 Förklaring: som ligger i eller kommer från söder
+
 发音提示：/ˈsyːdlɪɡ/
 
 ## 语法变形 (Forms)
@@ -39,8 +42,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[södra]]
-- 同义词: södra
-- 反义词: nordlig
+- 同义词: [[södra]]
+- 反义词: [[nordlig]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

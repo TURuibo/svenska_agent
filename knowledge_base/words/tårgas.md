@@ -19,6 +19,9 @@ created: "2026-10-06"
 # tårgas — substantiv
 
 📖 中文：催泪瓦斯 · English: tear gas
+
+🇸🇪 Förklaring: gas som gör att ögonen svider och rinner, och som polisen kan använda mot folkmassor
+
 发音提示：TÔR-gas
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-10-06"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[protest]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

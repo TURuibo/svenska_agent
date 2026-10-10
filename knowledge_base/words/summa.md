@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "金额；总额；总和"
 en: "sum; amount; total"
-synonyms: []
+synonyms: [totalt]
 antonyms: []
-family: []
+family: [summera, totalsumma]
 topics: [topic-ekonomi-och-bidrag, topic-betalning]
 sentences: [sent-den-summan-kallas-riksnorm]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # summa — substantiv (en)
 
 📖 中文：金额；总额；总和 · English: sum; amount; total
+
+🇸🇪 Förklaring: det man får när man lägger ihop flera tal; en viss mängd pengar
+
 发音提示：SUM-ma，重音在第一音节；`u` 读短音 [ɵ]。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `summera`（总结；求和）、`totalsumma`
+- 词族: [[summera]]（总结；求和）, [[totalsumma]]
 - 同义词: —（近义 `belopp`（金额，更官方）、[[totalt]]（副词：总共））
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]] · [[topic-betalning]]

@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vabba — verb
 
 📖 中文：请假照顾病孩 · English: to take VAB leave
+
+🇸🇪 Förklaring: stanna hemma från jobbet för att ta hand om ett sjukt barn
+
 发音提示：VAB-ba，短 a，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vab]], [[vabruari]]
-- 同义词: 
-- 反义词: 
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

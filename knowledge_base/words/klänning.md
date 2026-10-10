@@ -8,7 +8,7 @@ zh: "连衣裙"
 en: "dress"
 synonyms: []
 antonyms: []
-family: []
+family: [kläder, sommarklänning, brudklänning, balklänning]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # klänning — substantiv (en-ord)
 
 📖 中文：连衣裙 · English: dress
+
+🇸🇪 Förklaring: plagg för kvinnor och flickor där överdelen och kjolen sitter ihop
+
 发音提示：/ˈklɛnːɪŋ/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kläder]] (衣服), [[sommarklänning]] (夏季连衣裙), [[brudklänning]] (婚纱), [[balklänning]] (舞会礼服)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

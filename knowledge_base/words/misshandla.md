@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "殴打；虐待；伤害"
 en: "to assault; to abuse; to batter"
-synonyms: []
+synonyms: [slå, plåga]
 antonyms: []
 family: [misshandel]
 topics: [topic-terrorism-och-brott]
@@ -23,6 +23,9 @@ interval: 0
 # misshandla — verb (grupp 1)
 
 📖 中文：殴打；虐待；伤害 · English: to assault; to abuse; to batter
+
+🇸🇪 Förklaring: slå eller på annat sätt skada en person eller ett djur med våld
+
 发音提示：mis-HAND-la；重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[misshandel]] (stub，名词：殴打/伤害罪)
-- 同义词: —
+- 词族: [[misshandel]] (名词：殴打/伤害罪)
+- 同义词: [[slå]] (打), [[plåga]] (折磨)
 - 反义词: —
 - 主题: [[topic-terrorism-och-brott]]
 

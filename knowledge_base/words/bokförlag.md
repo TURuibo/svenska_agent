@@ -23,6 +23,9 @@ interval: 0
 # bokförlag — substantiv (ett)
 
 📖 中文：出版社 · English: publishing house
+
+🇸🇪 Förklaring: företag som ger ut böcker
+
 发音提示：BOK-för-lag；重音在第一音节。
 
 ## 语法变形 (Forms)

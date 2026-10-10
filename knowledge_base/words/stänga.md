@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "关门；关闭"
 en: "to close"
-synonyms: []
+synonyms: [slå-igen]
 antonyms: [öppna]
 family: [stängd, stängningstid]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # stänga — verb (grupp 2a)
 
 📖 中文：关门；关闭 · English: to close
+
+🇸🇪 Förklaring: göra så att något inte är öppet, t.ex. en dörr, ett fönster eller en butik
+
 发音提示：/ˈstɛŋːa/ — ng 读 /ŋ/（不发 g），ä 短。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[stängd]]（形容词：关着的）· [[stängningstid]]（关门时间）
+- 词族: [[stängd]]（形容词：关着的）· [[stängningstid]]（关门时间）, [[stängningstid]] (关门时间)
+- 同义词: [[slå-igen|slå igen]] (关上)
 - 反义词: [[öppna]]
 - 主题: [[topic-förskola-vardag]]
 

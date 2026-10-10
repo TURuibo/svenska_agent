@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "能干的；擅长的；努力的"
 en: "skilled; capable; diligent; good"
-synonyms: ["klok", "skicklig"]
-antonyms: []
-family: ["duktighet"]
+synonyms: [klok, skicklig]
+antonyms: [oskicklig, lat]
+family: [duktighet]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # duktig — adjektiv
 
 📖 中文：能干的；擅长的；努力的 · English: skilled; capable; diligent; good
+
+🇸🇪 Förklaring: som kan göra något bra eller som arbetar flitigt
+
 发音提示：/ˈdɵktɪɡ/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: duktighet (能力/才干)
-- 同义词: [[klok]] (明智的), skicklig (技术熟练的)
+- 词族: [[duktighet]] (能力/才干)
+- 同义词: [[klok]] (明智的), [[skicklig]] (技术熟练的)
+- 反义词: [[oskicklig]] (笨拙的), [[lat]] (懒惰的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

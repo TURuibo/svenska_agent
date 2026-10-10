@@ -7,11 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "思念；缺少"
 en: "to miss (someone/something); to lack"
-synonyms:
-  - längta-efter
+synonyms: [längta-efter]
 antonyms: []
-family:
-  - saknad
+family: [saknad]
 topics:
   - topic-social-kontakt
 sentences:
@@ -27,6 +25,9 @@ interval: 0
 # sakna — verb (grupp 1)
 
 📖 中文：思念；缺少 · English: to miss; to lack
+
+🇸🇪 Förklaring: 1) känna sig ledsen för att någon eller något inte finns hos en; 2) inte ha något som behövs
+
 发音提示：[ˈsakna] — 两音节，重音在第一音节
 
 ## 语法变形 (Forms)

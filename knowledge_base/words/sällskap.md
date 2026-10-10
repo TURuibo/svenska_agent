@@ -7,9 +7,9 @@ genus: "ett"
 cefr: A2
 zh: "陪伴；同伴；组织"
 en: "company; companionship; group; society"
-synonyms: []
-antonyms: []
-family: ["sällskapsdjur", "sällskapsspel"]
+synonyms: [umgänge, förening]
+antonyms: [ensamhet]
+family: [sällskapsdjur, sällskapsspel]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sällskap — substantiv
 
 📖 中文：陪伴；同伴；组织 · English: company; companionship; group; society
+
+🇸🇪 Förklaring: det att vara tillsammans med andra; grupp av människor som är tillsammans; förening
+
 发音提示：/ˈsɛlːʃap/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sällskapsdjur (伴侣动物/宠物), sällskapsspel (桌游)
+- 词族: [[sällskapsdjur]] (伴侣动物/宠物), [[sällskapsspel]] (桌游)
+- 同义词: [[umgänge]] (交往), [[förening]] (协会)
+- 反义词: [[ensamhet]] (孤独)
 - 主题:
 
 ## 用法提示 (Usage Notes)

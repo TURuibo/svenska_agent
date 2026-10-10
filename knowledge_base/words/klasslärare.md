@@ -7,9 +7,9 @@ genus: en
 cefr: "A2"
 zh: 班主任；班级老师
 en: class teacher; homeroom teacher
-synonyms: []
+synonyms: [lärare]
 antonyms: []
-family: []
+family: [klass]
 topics: [topic-skola-och-utbildning, topic-yrken]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # klasslärare — substantiv (en)
 
 📖 中文：班主任；班级老师 · English: class teacher; homeroom teacher
+
+🇸🇪 Förklaring: pedagog som har huvudansvaret för en grupp elever och undervisar dem i flera ämnen
+
 发音提示：KLASS-lä-ra-re
 
 ## 语法变形 (Forms)

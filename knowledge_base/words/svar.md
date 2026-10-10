@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: "回答、答案"
 en: "answer, reply"
-synonyms: ["respons"]
-antonyms: ["fråga"]
-family: ["svara", "svarslös"]
+synonyms: [respons, reaktion]
+antonyms: [fråga]
+family: [svara, svarslös]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # svar — substantiv (ett-ord)
 
 📖 中文：回答、答案 · English: answer, reply
+
+🇸🇪 Förklaring: det man säger eller skriver när någon har frågat något
+
 发音提示：[svɑːr]
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: svara（回答 v），svarslös（答不上来的）
-- 同义词: respons（回应），reaktion（反应）
+- 词族: [[svara]]（回答 v）, [[svarslös]]（答不上来的）
+- 同义词: [[respons]]（回应）, [[reaktion]]（反应）
 - 反义词: [[fråga]]（问题）
 - 主题: —
 

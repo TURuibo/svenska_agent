@@ -6,8 +6,8 @@ genus: en
 cefr: "B1"
 zh: "债务；过错，罪责"
 en: "debt; guilt, fault"
-synonyms: []
-antonyms: []
+synonyms: [lån, fel]
+antonyms: [tillgång]
 family: [skuldrådgivare]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-har-du-skulder, sent-om-du-har-skulder-eller-svårt-att-planera, sent-det-är-någon-som-hjälper-dig-att-få]
@@ -23,6 +23,9 @@ interval: 0
 # skuld — substantiv (en)
 
 📖 中文：债务；过错，罪责 · English: debt; guilt, fault
+
+🇸🇪 Förklaring: 1) pengar som man har lånat och måste betala tillbaka; 2) ansvar för att något dåligt har hänt
+
 发音提示：SKULD
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skuldrådgivare]]（债务顾问）
-- 同义词: —
-- 反义词: —
+- 同义词: [[lån]] (借款), [[fel]] (过错)
+- 反义词: [[tillgång]] (资产)
 - 主题: [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

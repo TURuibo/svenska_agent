@@ -19,6 +19,9 @@ created: "2026-09-26"
 # föräldraledig — adjektiv
 
 📖 中文：休育儿假的 · English: on parental leave
+
+🇸🇪 Förklaring: som är hemma från arbetet för att ta hand om sitt lilla barn
+
 发音提示：[fœˈrɛldraˌleːdɪg]，föräldra- + ledig。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förälder]], [[ledig]], [[ledighet]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

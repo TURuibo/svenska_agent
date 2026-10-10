@@ -8,7 +8,7 @@ zh: "蚂蚁"
 en: "ant"
 synonyms: []
 antonyms: []
-family: ["mystack"]
+family: [myrstacke, mystack]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # myra — substantiv (en)
 
 📖 中文：蚂蚁 · English: ant
+
+🇸🇪 Förklaring: liten insekt som lever tillsammans med väldigt många andra i en stack
+
 发音提示：/ˈmyːra/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[myrstacke]] (蚁丘)
+- 词族: [[myrstacke]] (蚁丘), [[mystack]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-djur]]

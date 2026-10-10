@@ -26,6 +26,9 @@ interval: 0
 # under — preposition
 
 📖 中文：在……下面 · English: under; beneath; below
+
+🇸🇪 Förklaring: på eller till en plats som är lägre än något annat
+
 发音提示：UN-der；två stavelser.
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[underst]] (最下面的), [[nedanför]] (在……下方), [[underifrån]] (从下面)
-- 同义词: [[nedanför]] (在……下方，稍距离)
+- 同义词: [[nedanför]] (在……下方，稍距离), [[beneath]]
 - 反义词: [[över]] (在……上方), [[ovanför]] (在……上面)
 - 主题: [[topic-rumsliga-relationer]]
 

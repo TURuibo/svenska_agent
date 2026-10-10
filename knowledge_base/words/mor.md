@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "母亲（书面/正式）"
 en: "mother (written/formal)"
-synonyms: ["mamma"]
+synonyms: [mamma]
 antonyms: []
-family: ["förälder", "far"]
+family: [förälder, far]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # mor — substantiv
 
 📖 中文：母亲（书面/正式）· English: mother (written/formal)
+
+🇸🇪 Förklaring: kvinna som är förälder till ett barn (mer formellt ord)
+
 发音提示：/muːr/，单音节，o 发长音
 
 ## 语法变形 (Forms)

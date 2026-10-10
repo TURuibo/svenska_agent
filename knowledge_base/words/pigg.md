@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "精神的；有活力的"
 en: "alert; lively; perky"
-synonyms: []
+synonyms: [alert, vaken, energisk]
 antonyms: [trött]
-family: []
+family: [pigga-upp, piggna-till]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # pigg — adjektiv
 
 📖 中文：精神的；有活力的 · English: alert; lively; perky
+
+🇸🇪 Förklaring: som har mycket energi och inte är trött
+
 发音提示：/pɪɡː/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: [[trött]] (累的；疲倦的) — stub, ej skapat ännu
+- 词族: [[pigga-upp|pigga upp]] (提神), [[piggna-till|piggna till]] (恢复精神)
+- 同义词: [[alert]] (机敏的), [[vaken]] (清醒的), [[energisk]] (精力充沛的)
+- 反义词: [[trött]] (累的；疲倦的)
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

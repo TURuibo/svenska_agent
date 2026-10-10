@@ -5,13 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: "安全的；有安全感的；安心的"
 en: "safe, secure (esp. emotionally)"
-synonyms:
-  - "[[säker]]"
-antonyms:
-  - "[[otrygg]]"
-family:
-  - "[[trygga]]"
-  - "[[trygghet]]"
+synonyms: [säker]
+antonyms: [otrygg, rädd]
+family: [trygga, trygghet, otrygg]
 topics:
   - "[[topic-karaktarsord]]"
 sentences: []
@@ -26,6 +22,9 @@ interval: 0
 # trygg — adjektiv
 
 📖 中文：安全的；有安全感的、安心的 · English: safe, secure (esp. a feeling of security)
+
+🇸🇪 Förklaring: som känner sig lugn och inte är rädd; där man inte behöver vara orolig
+
 发音提示：/trʏɡ/，y 是圆唇前元音（嘴像发 i 但圆唇）；ggg 短促。
 
 ## 语法变形 (Forms)
@@ -54,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[trygga]]（保障，动词）、[[trygghet]]（安全感，名词）、otrygg（不安的）
+- 词族: [[trygga]]（保障，动词）, [[trygghet]]（安全感，名词）, [[otrygg]]（不安的）
 - 同义词: [[säker]]（安全的/确定的）
-- 反义词: [[otrygg]]（缺乏安全感的）、rädd（害怕的）
+- 反义词: [[otrygg]]（缺乏安全感的）, [[rädd]]（害怕的）
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

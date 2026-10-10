@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "经历；体验"
 en: "experience"
-synonyms: []
+synonyms: [erfarenhet, intryck]
 antonyms: []
-family: ["uppleva"]
+family: [uppleva]
 topics: ["topic-argumentation"]
 sentences: ["sent-för-övrigt-visar-min-egen-upplevelse"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-07"
 # upplevelse — substantiv
 
 📖 中文：经历；体验 · English: experience (something felt/lived)
+
+🇸🇪 Förklaring: något som man har varit med om och som man minns eller känner starkt
+
 发音提示：UPP-le-vel-se
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: "2026-10-07"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[uppleva]]
+- 同义词: [[erfarenhet]] (经验；经历), [[intryck]] (印象)
+- 反义词: —
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

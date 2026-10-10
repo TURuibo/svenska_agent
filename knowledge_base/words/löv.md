@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "叶子；树叶(统称)"
 en: "leaf; foliage"
-synonyms: []
+synonyms: [blad]
 antonyms: []
-family: ["lövträd", "lövverk"]
+family: [lövträd, lövverk]
 topics: ["topic-midsommar-traditioner", "topic-vader-och-arstider"]
 sentences: ["sent-sedan-klar-de-midsommarstangen-med-blommor"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # löv — substantiv
 
 📖 中文：叶子；树叶(统称) · English: leaf; foliage
+
+🇸🇪 Förklaring: platt, oftast grön del som växer på grenarna hos träd och buskar
+
 发音提示：[løːv]，长元音 ö
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lövträd]]
-- 同义词:
-- 反义词:
+- 词族: [[lövträd]], [[lövverk]]
+- 同义词: [[blad]] (叶片)
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]] · [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: "B1"
 zh: "通知"
 en: "inform, notify"
-synonyms: []
+synonyms: [informera, underrätta]
 antonyms: []
-family: ["meddelande"]
+family: [meddelande]
 topics: [topic-sociala-normer]
 sentences: ["sent-att-komma-mer-än-några"]
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # meddela — verb
 
 📖 中文：通知 · English: inform, notify
+
+🇸🇪 Förklaring: ge någon information om något, muntligt eller skriftligt
+
+发音提示：/ˈmeːˌdeːla/ — 两个 e 都长；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[meddelande]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[informera]] (通知), [[underrätta]] (告知)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

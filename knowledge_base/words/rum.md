@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A1"
 zh: "房间"
 en: "room"
-synonyms: []
+synonyms: [kammare]
 antonyms: []
 family: [vardagsrum, sovrum, badrum, kök, matrum]
 topics: [topic-hemmet]
@@ -25,6 +25,9 @@ interval: 0
 # rum — substantiv (ett)
 
 📖 中文：房间 · English: room
+
+🇸🇪 Förklaring: del av en bostad eller en byggnad som har egna väggar, golv och tak
+
 发音提示：rum（单音节）；短元音。
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[vardagsrum]] (客厅), [[sovrum]] (卧室), [[badrum]] (浴室), [[kök]] (厨房)
-- 同义词: —
+- 词族: [[vardagsrum]] (客厅), [[sovrum]] (卧室), [[badrum]] (浴室), [[kök]] (厨房), [[matrum]]
+- 同义词: [[kammare]] (房间（旧）)
 - 反义词: —
 - 主题: [[topic-hemmet]]
 

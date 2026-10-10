@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 皮肤
 en: skin
-synonyms: []
+synonyms: [skinn]
 antonyms: []
-family: []
+family: [hudfärg, hudkräm, hudläkare]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hud — substantiv (en)
 
 📖 中文：皮肤 · English: skin
+
+🇸🇪 Förklaring: det yttre lagret som täcker hela kroppen hos människor och djur
+
 发音提示：/hʉːd/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[hudfärg]] (肤色), [[hudkräm]] (护肤霜), [[hudläkare]] (皮肤科医生)
+- 同义词: [[skinn]] (皮)
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

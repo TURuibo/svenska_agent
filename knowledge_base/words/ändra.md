@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "改变；修改"
 en: "to change, to alter"
 synonyms: [byta]
-antonyms: []
+antonyms: [behålla, bevara]
 family: [ändring, schemaändring, ändras]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ändra — verb
 
 📖 中文：改变；修改 · English: to change, to alter
+
+🇸🇪 Förklaring: göra något annorlunda; rätta eller byta ut en del av något
+
 发音提示：ÄND-ra
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ created: "2026-09-26"
 
 - 词族: [[ändring]], [[schemaändring]], [[ändras]]
 - 同义词: [[byta]]（近义 förändra）
-- 反义词: —
+- 反义词: [[behålla]] (保留), [[bevara]] (保持)
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

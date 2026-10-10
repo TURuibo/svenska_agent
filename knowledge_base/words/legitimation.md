@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "身份证件"
 en: "ID, identification"
-synonyms: []
+synonyms: [id-kort, leg]
 antonyms: []
-family: []
+family: [legitimera, legitimationskort]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # legitimation — substantiv (en)
 
 📖 中文：身份证件 · English: ID, identification
+
+🇸🇪 Förklaring: dokument som visar vem man är, t.ex. pass eller id-kort
+
 发音提示：le-gi-ti-ma-SHON（重音在最后，-tion 读 /ɧuːn/）
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —（动词 legitimera sig = 出示证件）
-- 同义词: —（近义 id-kort, leg）
+- 词族: [[legitimera]] (证明身份), [[legitimationskort]] (身份证), —（动词 legitimera sig = 出示证件）
+- 同义词: [[id-kort]] (身份证), [[leg]] (证件（口语）), —（近义 id-kort, leg）
 - 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 

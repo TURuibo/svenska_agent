@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "晴朗的；阳光明媚的"
 en: "sunny"
-synonyms: []
+synonyms: [klar, strålande]
 antonyms: [molnig, mulen]
 family: [sol, solsken, solnedgång]
 topics:
@@ -25,6 +25,9 @@ interval: 0
 # solig — adjektiv
 
 📖 中文：晴朗的；阳光明媚的 · English: sunny
+
+🇸🇪 Förklaring: som har klar himmel och mycket ljus och värme, t.ex. om en dag eller ett väder
+
 发音提示：SO-lig；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sol]] (en, 太阳), [[solsken]] (ett, 阳光), [[solnedgång]] (en, 日落)
-- 同义词: —
+- 同义词: [[klar]] (晴朗的), [[strålande]] (灿烂的)
 - 反义词: [[molnig]] (多云的), [[mulen]] (阴天的)
 - 主题: [[topic-stadsmiljo]]
 

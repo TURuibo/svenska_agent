@@ -7,13 +7,9 @@ genus: ""
 cefr: A2
 zh: "乐于助人的；热心的"
 en: "helpful; willing to help"
-synonyms:
-  - snäll
-  - vänlig
-antonyms: []
-family:
-  - hjälp
-  - hjälpa
+synonyms: [snäll, vänlig]
+antonyms: [ohjälpsam, egoistisk]
+family: [hjälp, hjälpa]
 topics:
   - topic-karaktarsord
 sentences:
@@ -29,6 +25,9 @@ interval: 0
 # hjälpsam — adjektiv
 
 📖 中文：乐于助人的；热心的 · English: helpful / willing to help
+
+🇸🇪 Förklaring: som gärna ställer upp och gör saker för andra
+
 发音提示：[ˈjɛlpˌsam] — 两音节，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -55,7 +54,7 @@ interval: 0
 
 - 词族: [[hjälp]] (en hjälp — 帮助), [[hjälpa]] (att hjälpa — 帮助)
 - 同义词: [[snäll]], [[vänlig]]
-- 反义词: —
+- 反义词: [[ohjälpsam]] (不乐于助人的), [[egoistisk]] (自私的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

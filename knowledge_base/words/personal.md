@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "工作人员；员工；职员"
 en: "staff / personnel"
-synonyms: []
-antonyms: []
-family: [personalrum, personalchef, anställd]
+synonyms: [anställda, medarbetare]
+antonyms: [kunder]
+family: [personalrum, anställd, personalchef]
 topics:
   - topic-arbete
   - topic-vardagsrutin
@@ -27,6 +27,9 @@ interval: 0
 # personal — substantiv (en)
 
 📖 中文：工作人员；员工；职员 · English: staff / personnel
+
+🇸🇪 Förklaring: alla som arbetar på ett företag eller en arbetsplats
+
 发音提示：per-so-NAL；三音节，重音在末音节。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[personalrum]] (ett, 员工休息室), [[anställd]] (en, 雇员)
+- 词族: [[personalrum]] (ett, 员工休息室), [[anställd]] (en, 雇员), [[personalchef]]
 - 同义词: [[anställda]] (plural, 员工们), [[medarbetare]] (en, 同事/员工)
 - 反义词: [[kunder]] (pl. 顾客)
 - 主题: [[topic-arbete]], [[topic-vardagsrutin]]

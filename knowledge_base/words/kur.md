@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 疗程
 en: course of treatment
-synonyms: []
+synonyms: [behandling]
 antonyms: []
-family: []
+family: [kurs]
 topics: [topic-hälsa]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kur — substantiv (en)
 
 📖 中文：疗程 · English: course of treatment
+
+🇸🇪 Förklaring: behandling som pågår en viss tid för att bota en sjukdom eller ett problem
+
 发音提示：/kʉːr/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kurs]]
-- 同义词:
-- 反义词:
+- 同义词: [[behandling]] (治疗)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

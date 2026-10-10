@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "蛋糕托盘；点心碟"
 en: "cake plate; pastry dish"
-synonyms: []
+synonyms: [tårtfat]
 antonyms: []
 family: [kaka, fat]
 topics: [topic-hemmet, topic-mat-dryck]
@@ -23,6 +23,9 @@ interval: 0
 # kakfat — substantiv (ett)
 
 📖 中文：蛋糕托盘；点心碟 · English: cake plate; pastry dish
+
+🇸🇪 Förklaring: stor platt tallrik som man lägger bullar och bakverk på när man bjuder på fika
+
 发音提示：KAK-fat（复合词，重音在 kak）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kaka]]（蛋糕/饼干）, fat（盘子）
+- 词族: [[kaka]]（蛋糕/饼干）, [[fat]]（盘子）
+- 同义词: [[tårtfat]] (蛋糕盘)
+- 反义词: —
 - 主题: [[topic-hemmet]] [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

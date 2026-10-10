@@ -5,9 +5,9 @@ ordklass: konjunktion
 cefr: A2
 zh: 因为
 en: because, since
-synonyms: []
+synonyms: [därför-att, för-att]
 antonyms: []
-family: []
+family: [efter]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # eftersom — konjunktion (bisatsinledare)
 
 📖 中文：因为 · English: because, since
+
+🇸🇪 Förklaring: används för att inleda en bisats som förklarar orsaken till något
+
 发音提示：/ˈɛftɛʂɔm/；EF-ter-som，`rs` 合成一个 /ʂ/（像 sh）。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: efter + som
-- 同义词: `därför att`, `för att`（在「因为」义项上）
+- 词族: [[efter]] + som
+- 同义词: [[därför-att|därför att]], [[för-att|för att]]（在「因为」义项上）
+- 反义词: —
 - 对应的副词: [[därför]]（所以；用在主句，要倒装）
 - 对比: [[trots_att]]（尽管；让步，与因果相反）
 - 主题:

@@ -23,6 +23,9 @@ interval: 0
 # startlinje — substantiv
 
 📖 中文：起跑线 · English: starting line
+
+🇸🇪 Förklaring: markering på marken som löparna står bakom när ett lopp börjar
+
 发音提示：START-lin-je
 
 ## 语法变形 (Forms)

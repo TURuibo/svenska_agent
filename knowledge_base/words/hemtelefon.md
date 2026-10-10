@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "座机；家用电话"
 en: "landline (home phone)"
-synonyms: []
+synonyms: [fast-telefon]
 antonyms: [mobiltelefon]
 family: [telefon, mobil]
 topics: [topic-hemmet]
@@ -19,6 +19,10 @@ created: 2026-10-05
 # hemtelefon — substantiv en/ett: en
 
 📖 中文：座机；家用电话 · English: landline (home phone)
+
+🇸🇪 Förklaring: fast telefon i bostaden som är kopplad till ett uttag i väggen
+
+发音提示：/ˈhɛmːteleˌfoːn/ — 复合词重音在 hem，fon 次重音
 
 ## 语法变形 (Forms)
 
@@ -40,7 +44,7 @@ created: 2026-10-05
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[telefon]], [[mobil]]
-- 同义词: —
+- 同义词: [[fast-telefon|fast telefon]] (固定电话)
 - 反义词: [[mobiltelefon]]
 - 主题: [[topic-hemmet]]
 

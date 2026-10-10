@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "水平，等级"
 en: "level"
-synonyms: []
+synonyms: [grad, standard]
 antonyms: []
-family: []
+family: [språknivå, havsnivå, nivåskillnad]
 topics: [topic-skola-och-utbildning, topic-ekonomi-och-bidrag]
 sentences: [sent-hennes-pappa-uppmuntrade-henne-att, sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -23,7 +23,10 @@ interval: 0
 # nivå — substantiv
 
 📖 中文：水平，等级 · English: level
-发音提示：
+
+🇸🇪 Förklaring: höjd eller grad av något, till exempel hur bra man kan ett språk
+
+发音提示：/nɪˈvoː/ — 重音在 vå；å 读长音
 
 ## 语法变形 (Forms)
 
@@ -47,8 +50,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[språknivå]] (语言水平), [[havsnivå]] (海平面), [[nivåskillnad]] (水平差异)
+- 同义词: [[grad]] (程度), [[standard]] (水准)
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 

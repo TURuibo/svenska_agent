@@ -7,9 +7,9 @@ genus: ett
 cefr: "B1"
 zh: "半球"
 en: "hemisphere"
-synonyms: []
+synonyms: [hemisfär]
 antonyms: []
-family: []
+family: [halv]
 topics: ["topic-vader-och-arstider"]
 sentences: ["sent-det-gor-att-norra-sodra-halvklotet"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # halvklot — substantiv (ett)
 
 📖 中文：半球 · English: hemisphere
+
+🇸🇪 Förklaring: en av de två delar som jorden delas i, till exempel av ekvatorn
+
 发音提示：['halvklut]，复合词重音在第一音节 halv-
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: halv (半) + klot (球体/地球仪)
-- 同义词: —
+- 词族: [[halv]] (半) + klot (球体/地球仪)
+- 同义词: [[hemisfär]] (半球)
 - 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 

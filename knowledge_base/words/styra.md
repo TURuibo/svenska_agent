@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "治理；控制；驾驶"
 en: "to govern; to steer; to control"
-synonyms: []
+synonyms: [leda, kontrollera, regera]
 antonyms: []
-family: []
+family: [styre, styrelse, styrning]
 topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-en-grundtanke-med-demokrati-är-att-den-som, sent-politikerna-i-regionerna-och-kommunerna-styr]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-10"
 # styra — verb v.2
 
 📖 中文：治理；控制；驾驶 · English: to govern; to steer; to control
+
+🇸🇪 Förklaring: 1) bestämma över ett land, en organisation eller en grupp; 2) bestämma vart ett fordon ska åka
+
 发音提示：/ˈstyːra/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[styre]] (统治), [[styrelse]] (董事会), [[styrning]] (控制)
+- 同义词: [[leda]] (领导), [[kontrollera]] (控制), [[regera]] (统治)
+- 反义词: —
 - 相关: [[styre]]（统治）, [[folkstyre]]
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 

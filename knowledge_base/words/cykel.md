@@ -8,7 +8,7 @@ zh: 自行车
 en: bicycle, bike
 synonyms: []
 antonyms: []
-family: ["cykla", "cyklist", "cykelväg", "cykelbana"]
+family: [cykla, cyklist, cykelväg, cykelbana]
 topics: ["topic-trafik", "topic-kollektivtrafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # cykel — substantiv (en-ord)
 
 📖 中文：自行车 · English: bicycle, bike
+
+🇸🇪 Förklaring: fordon med två hjul som man trampar fram med fötterna
+
 发音提示：/ˈsʏːkɛl/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[cykla]] (骑车), [[cyklist]] (骑车人), cykelväg (自行车道)
+- 词族: [[cykla]] (骑车), [[cyklist]] (骑车人), [[cykelväg]] (自行车道), [[cykelbana]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-trafik]], [[topic-kollektivtrafik]]

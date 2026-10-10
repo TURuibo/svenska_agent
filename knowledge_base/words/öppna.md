@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "开门；打开"
 en: "to open"
-synonyms: []
+synonyms: [låsa-upp]
 antonyms: [stänga]
 family: [öppen]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # öppna — verb (grupp 1)
 
 📖 中文：开门；打开 · English: to open
+
+🇸🇪 Förklaring: göra så att något inte längre är stängt; börja verksamheten för dagen
+
 发音提示：/ˈœpːna/ — ö 短促、pp 双辅音要顿一下。
 
 ## 语法变形 (Forms)
@@ -43,6 +46,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[öppen]]（形容词：开着的）
+- 同义词: [[låsa-upp|låsa upp]] (开锁)
 - 反义词: [[stänga]]
 - 主题: [[topic-förskola-vardag]]
 

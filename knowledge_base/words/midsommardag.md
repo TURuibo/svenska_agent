@@ -9,9 +9,7 @@ zh: "仲夏节（节日当天）"
 en: "Midsummer Day"
 synonyms: []
 antonyms: []
-family:
-  - midsommarafton
-  - midsommar
+family: [midsommarafton, midsommar]
 topics:
   - topic-midsommar-traditioner
   - topic-vader-och-arstider
@@ -28,6 +26,9 @@ interval: 0
 # midsommardag — substantiv
 
 📖 中文：仲夏节（节日当天） · English: Midsummer Day
+
+🇸🇪 Förklaring: lördagen mellan 20 och 26 juni, som är en allmän helgdag i Sverige
+
 发音提示：['mɪdˌsɔmarˌdɑːɡ]
 
 ## 语法变形 (Forms)
@@ -53,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[midsommarafton]], [[midsommar]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]], [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

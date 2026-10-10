@@ -7,7 +7,7 @@ zh: 一起；合在一起
 en: together
 synonyms: [tillsammans]
 antonyms: [isär]
-family: []
+family: [sammanfatta, sammanhang]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # samman — adverb
 
 📖 中文：一起；合在一起 · English: together
+
+🇸🇪 Förklaring: så att två eller flera delar kommer ihop och blir en helhet
+
 发音提示：/ˈsamːan/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sammanfatta]]、[[sammanhang]]
-- 同义词: tillsammans
-- 反义词: isär
+- 词族: [[sammanfatta]], [[sammanhang]]
+- 同义词: [[tillsammans]]
+- 反义词: [[isär]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

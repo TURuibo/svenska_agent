@@ -8,7 +8,7 @@ zh: 肉桂卷
 en: cinnamon bun
 synonyms: []
 antonyms: []
-family: []
+family: [kardemummabulle, semla]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kanelbulle — substantiv (en)
 
 📖 中文：肉桂卷 · English: cinnamon bun
+
+🇸🇪 Förklaring: sött vetebröd fyllt med kanel, smör och socker som man ofta äter till fika
+
 发音提示：kah-nel-BUL-leh
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kardemummabulle]] (小豆蔻卷), [[semla]] (奶油小圆面包)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

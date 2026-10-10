@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 后退
 en: to back away
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gå-bakåt, retirera]
+antonyms: [gå-framåt]
+family: [back, backspegel]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # backa — verb (grupp 1)
 
 📖 中文：后退 · English: to back away
+
+🇸🇪 Förklaring: köra eller gå bakåt
+
 发音提示：/ˈbakːa/
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[back]] (倒挡), [[backspegel]] (后视镜)
+- 同义词: [[gå-bakåt|gå bakåt]] (后退), [[retirera]] (撤退)
+- 反义词: [[gå-framåt|gå framåt]] (前进)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

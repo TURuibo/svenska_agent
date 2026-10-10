@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "战争"
 en: "war"
-synonyms: []
-antonyms: ["fred"]
-family: []
+synonyms: [väpnad-konflikt, strid]
+antonyms: [fred]
+family: [kriga, krigare, världskrig, inbördeskrig]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # krig — substantiv (ett)
 
 📖 中文：战争 · English: war
+
+🇸🇪 Förklaring: strid med vapen mellan länder eller stora grupper under en längre tid
+
 发音提示：krig（单音节）
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
+- 词族: [[kriga]] (打仗), [[krigare]] (战士), [[världskrig]] (世界大战), [[inbördeskrig]] (内战)
+- 同义词: [[väpnad-konflikt|väpnad konflikt]] (武装冲突), [[strid]] (战斗)
 - 反义词: [[fred]]
 - 主题: [[topic-samhälle-och-politik]]
 

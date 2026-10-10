@@ -8,8 +8,8 @@ cefr: "A1"
 zh: "早晨；上午"
 en: "morning"
 synonyms: []
-antonyms: ["kväll", "natt"]
-family: ["förmiddag"]
+antonyms: [kväll, natt]
+family: [förmiddag]
 topics: ["topic-tid-och-tidsuttryck", "topic-vardagsrutin"]
 sentences:
   - "sent-god-morgon-kan-jag-fa-en-stor"
@@ -25,6 +25,9 @@ interval: 0
 # morgon — substantiv (en)
 
 📖 中文：早晨；上午 · English: morning
+
+🇸🇪 Förklaring: den tidiga delen av dagen, från att solen går upp fram till förmiddagen
+
 发音提示：/ˈmɔrːɔn/
 
 ## 语法变形 (Forms)
@@ -55,6 +58,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förmiddag]] (上午)
+- 同义词: —
 - 反义词: [[kväll]] (傍晚), [[natt]] (夜晚)
 - 主题: [[topic-tid-och-tidsuttryck]], [[topic-vardagsrutin]]
 

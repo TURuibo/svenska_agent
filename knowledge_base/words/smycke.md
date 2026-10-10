@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "饰品/首饰"
 en: "jewellery/ornament"
-synonyms: []
+synonyms: [juvel]
 antonyms: []
-family: []
+family: [smycka, guldsmycke, smyckeskrin]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # smycke — substantiv (ett-ord)
 
 📖 中文：饰品/首饰 · English: jewellery/ornament
+
+🇸🇪 Förklaring: vacker sak, t.ex. ett halsband eller en ring, som man bär för att se fin ut
+
 发音提示：/ˈsmyːkɛ/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[smycka]] (装饰), [[guldsmycke]] (金饰), [[smyckeskrin]] (首饰盒)
+- 同义词: [[juvel]] (珠宝)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

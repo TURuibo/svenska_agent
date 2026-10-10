@@ -8,8 +8,9 @@ zh: "够；足够；达到"
 en: "to suffice; to be enough; to reach"
 cefr: "B1"
 known: false
-synonyms: ["vara tillräcklig", "vara nog"]
-antonyms: ["inte räcka till"]
+synonyms: [vara-tillräcklig, vara-nog]
+antonyms: [inte-räcka-till]
+family: [tillräcklig, räckvidd]
 topics: ["topic-vardagsliv"]
 phrases: ["det-racker"]
 sentences: ["sent-det-ar-inte-perfekt-men-det-racker"]
@@ -27,6 +28,10 @@ interval: 0
 **中文:** 够；足够；达到
 **English:** to suffice; to be enough; to reach
 **CEFR:** B1
+
+🇸🇪 Förklaring: 1) vara så mycket som behövs; 2) nå ända fram till en viss plats eller tid
+
+发音提示：/ˈrɛkːa/ — ä 短音，ck 读长 /kː/
 
 ## 变形 (Forms)
 
@@ -63,3 +68,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-kronika-ny-i-nytt-land]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[tillräcklig]] (足够的), [[räckvidd]] (范围)
+- 同义词: [[vara-tillräcklig]], [[vara-nog]]
+- 反义词: [[inte-räcka-till]]

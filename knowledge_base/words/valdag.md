@@ -23,6 +23,9 @@ interval: 0
 # valdag — substantiv (en)
 
 📖 中文：选举日 · English: election day
+
+🇸🇪 Förklaring: den dag då folket röstar och väljer vilka som ska styra
+
 发音提示：VAL-dag
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: val，dag（日），[[riksdagsval]]，[[kommunval]]，[[vallokal]]，[[valsedel]]，[[valaffisch]]，[[vallöfte]]，[[valdebatt]]，[[valresultat]]，[[valarbetare]]（val- 复合词族）
+- 词族: [[val]], [[dag]]（日）, [[riksdagsval]], [[kommunval]], [[vallokal]], [[valsedel]], [[valaffisch]], [[vallöfte]], [[valdebatt]], [[valresultat]], [[valarbetare]]（val- 复合词族）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

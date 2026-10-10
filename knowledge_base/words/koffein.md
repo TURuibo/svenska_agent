@@ -9,7 +9,7 @@ zh: "咖啡因"
 en: "caffeine"
 synonyms: []
 antonyms: []
-family: [koffeinfri]
+family: [koffeinfri, koffeinhalt]
 topics: [topic-nyheter-vecka22, topic-mat-och-dryck, topic-hälsa]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # koffein — substantiv (ett)
 
 📖 中文：咖啡因 · English: caffeine
+
+🇸🇪 Förklaring: ämne i kaffe, te och vissa andra drycker som gör att man blir pigg
+
 发音提示：kof-fe-IN，重音在最后音节。
 
 ## 语法变形 (Forms)

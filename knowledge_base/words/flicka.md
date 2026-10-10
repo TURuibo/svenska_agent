@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "女孩"
 en: "girl"
-synonyms: ["tjej"]
-antonyms: ["pojke"]
-family: []
+synonyms: [tjej]
+antonyms: [pojke]
+family: [flickvän, flicknamn, skolflicka]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # flicka — substantiv (en)
 
 📖 中文：女孩 · English: girl
+
+🇸🇪 Förklaring: barn eller ung person av kvinnligt kön
+
 发音提示：/ˈflɪka/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[flickvän]] (女朋友), [[flicknamn]] (女孩名；娘家姓), [[skolflicka]] (女学生)
 - 同义词: [[tjej]]
 - 反义词: [[pojke]]
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]

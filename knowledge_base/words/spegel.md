@@ -9,7 +9,7 @@ zh: "镜子"
 en: "mirror"
 synonyms: []
 antonyms: []
-family: ["spegelvänd", "spegelbild"]
+family: [spegelbild, spegelvänd]
 topics: ["topic-mobler", "topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # spegel — substantiv (en)
 
 📖 中文：镜子 · English: mirror
+
+🇸🇪 Förklaring: glasyta som visar en bild av det som finns framför den
+
 发音提示：/ˈspɛːɡɛl/；重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: spegelbild (镜像), spegelvänd (镜像翻转的)
+- 词族: [[spegelbild]] (镜像), [[spegelvänd]] (镜像翻转的)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mobler]], [[topic-hemmet]]

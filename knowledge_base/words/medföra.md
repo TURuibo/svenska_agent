@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: "B1"
 zh: "带来；导致"
 en: "to bring about; to entail"
-synonyms: ["orsaka"]
+synonyms: [orsaka]
 antonyms: []
-family: []
+family: [föra, införa, medföljande]
 topics: ["topic-argumentation"]
 sentences: ["sent-för-det-första-medför-distansarbete"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-07"
 # medföra — verb
 
 📖 中文：带来；导致 · English: to bring about, entail
+
+🇸🇪 Förklaring: leda till eller ha som följd; ta med sig
+
 发音提示：MED-fö-ra，重音在 med
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[föra]] (带领), [[införa]] (引入), [[medföljande]] (附带的)
 - 同义词: [[orsaka]]
+- 反义词: —
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

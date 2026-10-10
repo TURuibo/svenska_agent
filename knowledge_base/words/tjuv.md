@@ -19,6 +19,9 @@ created: "2026-10-05"
 # tjuv — substantiv (en)
 
 📖 中文：小偷 · English: thief
+
+🇸🇪 Förklaring: person som tar saker som tillhör andra utan lov
+
 发音提示：tjüv, tj- 读 sh/ɕ 音
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[stjäla]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

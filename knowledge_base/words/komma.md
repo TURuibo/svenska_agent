@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: A1
 zh: 来；(比赛中)得到名次
 en: to come
-synonyms: []
-antonyms: []
-family: []
+synonyms: [anlända]
+antonyms: [gå]
+family: [ankomst, välkommen, inkomst]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # komma — verb (grupp 4)
 
 📖 中文：来；(比赛中)得到名次 · English: to come
+
+🇸🇪 Förklaring: 1) röra sig mot den plats där någon är, eller nå fram dit; 2) få en viss placering i en tävling
+
 发音提示：/ˈkɔmːa/（mm 长，o 短）
 
 ## 语法变形 (Forms)
@@ -56,9 +59,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[ankomst]] (到达), [[välkommen]] (欢迎), [[inkomst]] (收入)
+- 同义词: [[anlända]] (到达)
+- 反义词: [[gå]] (离开)
 - 主题:
 
 ## 用法提示 (Usage Notes)

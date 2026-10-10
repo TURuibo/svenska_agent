@@ -6,9 +6,9 @@ genus: "en"
 cefr: A1
 zh: 弟弟
 en: little brother
-synonyms: []
+synonyms: [yngre-bror]
 antonyms: [storebror]
-family: [bror]
+family: [bror, lillasyster]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # lillebror — substantiv (en)
 
 📖 中文：弟弟 · English: little brother
+
+🇸🇪 Förklaring: pojke eller man som har samma föräldrar som man själv men är yngre
+
+发音提示：/ˈlɪlːɛˌbruːr/ — i 短、ll 长；重音在 lil-
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bror, lillasyster
-- 同义词:
-- 反义词: storebror
+- 词族: [[bror]], [[lillasyster]]
+- 同义词: [[yngre-bror|yngre bror]] (弟弟)
+- 反义词: [[storebror]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

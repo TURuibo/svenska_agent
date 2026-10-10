@@ -22,6 +22,9 @@ interval: 0
 # marsvin — substantiv (ett)
 
 📖 中文：豚鼠，天竺鼠 · English: guinea pig
+
+🇸🇪 Förklaring: litet gnagardjur utan svans som många har som husdjur
+
 发音提示：MAR-svin（两音节，复合词）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

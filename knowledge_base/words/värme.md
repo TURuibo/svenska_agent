@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "热；高温；温暖"
 en: "heat; warmth"
-synonyms: []
-antonyms: ["kyla"]
-family: ["varm", "värma", "värmebölja"]
+synonyms: [hetta]
+antonyms: [kyla]
+family: [varm, värma, värmebölja]
 topics: ["topic-vader-och-arstider", "topic-miljö-och-klimat"]
 sentences:
   - sent-allt-fler-människor-dör-av-värme
@@ -24,6 +24,9 @@ interval: 0
 # värme — substantiv
 
 📖 中文：热；高温；温暖 · English: heat; warmth
+
+🇸🇪 Förklaring: hög temperatur eller känslan av att något inte är kallt; vänlighet och omtanke
+
 发音提示：/ˈværmɛ/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[varm]] (温暖的，热的), [[värma]] (加热), [[värmebölja]] (热浪)
-- 反义词: kyla（寒冷）
+- 同义词: [[hetta]] (炎热)
+- 反义词: [[kyla]]（寒冷）
 - 主题: [[topic-vader-och-arstider]], [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

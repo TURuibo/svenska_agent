@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "枪击"
 en: "shooting"
-synonyms: []
+synonyms: [skottlossning]
 antonyms: []
-family: []
+family: [skjuta, skott, skjutvapen]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # skjutning — substantiv
 
 📖 中文：枪击 · English: shooting
-发音提示：
+
+🇸🇪 Förklaring: händelse där någon avlossar skott mot människor, oftast ett brott
+
+发音提示：/ˈɧʉːtnɪŋ/ — skj 读 ɧ；u 长音，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[skjuta]] (射击), [[skott]] (子弹；枪声), [[skjutvapen]] (枪支)
+- 同义词: [[skottlossning]] (枪击事件)
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "办公室"
 en: "office"
-synonyms: []
+synonyms: [arbetsrum]
 antonyms: []
-family: []
+family: [kontorist, huvudkontor, kontorsarbete]
 topics: [topic-arbete, topic-vardagsrutin]
 sentences:
   - sent-jag-arbetar-pa-ett-kontor-i-centrum
@@ -25,6 +25,9 @@ interval: 0
 # kontor — substantiv (ett)
 
 📖 中文：办公室 · English: office
+
+🇸🇪 Förklaring: rum eller lokal där man arbetar vid skrivbord, t.ex. med dator och papper
+
 发音提示：['kɔntuːr]
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[kontorist]] (办公室职员), [[huvudkontor]] (总部), [[kontorsarbete]] (办公室工作)
+- 同义词: [[arbetsrum]] (工作间)
 - 反义词: —
 - 主题: [[topic-arbete]], [[topic-vardagsrutin]]
 

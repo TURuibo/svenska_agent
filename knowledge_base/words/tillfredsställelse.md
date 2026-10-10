@@ -6,9 +6,9 @@ genus: en
 cefr: "B2"
 zh: "满足感；成就感"
 en: "satisfaction"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [belåtenhet, nöjdhet]
+antonyms: [missnöje]
+family: [tillfredsställa, tillfredsställande]
 topics: ["topic-karaktarsord"]
 sentences:
   - "sent-det-ar-ett-yrke"
@@ -23,6 +23,9 @@ interval: 0
 # tillfredsställelse — substantiv (en)
 
 📖 中文：满足感；成就感 · English: satisfaction
+
+🇸🇪 Förklaring: känsla av att vara nöjd när man har fått det man ville eller lyckats med något
+
 发音提示：til-FREDS-stel-SE-lse（五音节，注意双 s）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[tillfredsställa]] (满足), [[tillfredsställande]] (令人满意的)
+- 同义词: [[belåtenhet]] (满意), [[nöjdhet]] (满意)
+- 反义词: [[missnöje]] (不满)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

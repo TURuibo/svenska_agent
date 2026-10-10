@@ -8,7 +8,7 @@ zh: "猫头鹰"
 en: "owl"
 synonyms: []
 antonyms: []
-family: ["fågel"]
+family: [fågel]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # uggla — substantiv (en)
 
 📖 中文：猫头鹰 · English: owl
+
+🇸🇪 Förklaring: fågel med stora ögon och stort huvud som jagar på natten
+
 发音提示：/ˈɵɡːla/
 
 ## 语法变形 (Forms)

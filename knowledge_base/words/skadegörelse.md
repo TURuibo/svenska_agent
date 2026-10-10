@@ -7,9 +7,9 @@ genus: en
 cefr: "B2"
 zh: "破坏公物；蓄意破坏"
 en: "vandalism; criminal damage"
-synonyms: []
+synonyms: [vandalism, klotter]
 antonyms: []
-family: []
+family: [skada, skadlig, skadestånd]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-det-finns-nämligen-exempel-på-att-en-trygg]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # skadegörelse — substantiv (en)
 
 📖 中文：破坏公物；蓄意破坏 · English: vandalism; criminal damage
+
+🇸🇪 Förklaring: brott där någon med avsikt förstör eller smutsar ner andras egendom
+
 发音提示：SKA-de-gö-rel-se，重音在第一音节；`sk` 在 a 前读 [sk]。
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `skada`（损害）、`skadlig`（有害的）、`skadestånd`（赔偿）
-- 同义词: `vandalism`（外来词，较少用）；近义 `klotter`（涂鸦）
+- 词族: [[skada]]（损害）, [[skadlig]]（有害的）, [[skadestånd]]（赔偿）
+- 同义词: [[vandalism]]（外来词，较少用）, 近义 [[klotter]]（涂鸦）
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

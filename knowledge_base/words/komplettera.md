@@ -5,9 +5,9 @@ ordklass: verb
 cefr: B1
 zh: 补充；补全
 en: to complete, supplement
-synonyms: []
+synonyms: [fylla-på, utöka]
 antonyms: []
-family: []
+family: [komplett, komplettering]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-om-något-saknas-i-texten]
 source: source-2026-10-09-komvux-kursstart
@@ -18,6 +18,10 @@ created: "2026-10-09"
 # komplettera — verb
 
 📖 中文：补充；补全 · English: to complete, supplement
+
+🇸🇪 Förklaring: lägga till det som saknas så att något blir helt
+
+发音提示：/kɔmplɛˈteːra/ — 重音在 -te-，e 读长音
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[komplett]] (完整的), [[komplettering]] (补充)
+- 同义词: [[fylla-på|fylla på]] (添加), [[utöka]] (扩充)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

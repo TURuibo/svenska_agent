@@ -25,6 +25,9 @@ interval: 0
 # soffbord — substantiv (ett)
 
 📖 中文：茶几；咖啡桌 · English: coffee table
+
+🇸🇪 Förklaring: lågt bord som står framför sittmöblerna i vardagsrummet
+
 发音提示：SOFF-bord；två stavelser.
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[soffa]] (沙发), [[bord]] (桌子)
+- 词族: [[soffa]] (沙发), [[bord]] (桌子), [[skrivbord]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mobler]], [[topic-hemmet]]

@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 后果
 en: consequence
-synonyms: []
-antonyms: []
-family: []
+synonyms: [följd, resultat, effekt]
+antonyms: [orsak]
+family: [konsekvent, inkonsekvent]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # konsekvens — substantiv (en)
 
 📖 中文：后果 · English: consequence
+
+🇸🇪 Förklaring: något som händer som ett resultat av något annat
+
 发音提示：/kɔnsɛˈkvɛns/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[konsekvent]] (一贯的), [[inkonsekvent]] (不一致的)
+- 同义词: [[följd]] (后果), [[resultat]] (结果), [[effekt]] (效果)
+- 反义词: [[orsak]] (原因)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

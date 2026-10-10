@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "应用程序"
 en: "app"
-synonyms: []
+synonyms: [applikation, program]
 antonyms: []
-family: []
+family: [mobilapp, bankapp]
 topics: [topic-förskola-vardag]
 sentences: [sent-vi-skickar-en-bild-i-appen]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # app — substantiv
 
 📖 中文：应用程序 · English: app
+
+🇸🇪 Förklaring: program som man laddar ner till mobilen eller surfplattan
+
 发音提示：/ap/，短 a，与英语 app 相同。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[mobilapp]] (手机应用), [[bankapp]] (银行应用)
+- 同义词: [[applikation]] (应用程序), [[program]] (程序)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "幼儿园；学前班"
 en: "preschool"
-synonyms: []
+synonyms: [dagis]
 antonyms: []
-family: []
+family: [skola, förskollärare, förskoleklass]
 topics: [topic-skola-och-utbildning, topic-familj-och-barn, topic-förskola-system]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # förskola — substantiv (en)
 
 📖 中文：幼儿园；学前班 · English: preschool
+
+🇸🇪 Förklaring: plats där små barn från ett till fem år leker och lär sig medan föräldrarna arbetar
+
 发音提示：**för**-sko-la，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[skola]] (学校), [[förskollärare]] (幼儿教师), [[förskoleklass]] (学前班)
+- 同义词: [[dagis]] (幼儿园（口语）)
 - 反义词: —
 - 主题: [[topic-familj-och-barn]], [[topic-skola-och-utbildning]], [[topic-förskola-system]]
 

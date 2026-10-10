@@ -8,8 +8,7 @@ zh: "算法"
 en: "algorithm"
 synonyms: []
 antonyms: []
-family:
-  - algoritmisk
+family: [algoritmisk]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -25,6 +24,9 @@ interval: 0
 # algoritm — substantiv en
 
 📖 中文：算法 · English: algorithm
+
+🇸🇪 Förklaring: serie av steg eller regler som en dator följer för att lösa ett problem
+
 发音提示：/al-go-RITM/
 
 ## 语法变形 (Forms)
@@ -49,4 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[algoritmisk]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]

@@ -9,7 +9,7 @@ zh: "余震"
 en: "aftershock"
 synonyms: []
 antonyms: []
-family: ["jordbävning"]
+family: [jordbävning]
 topics: ["topic-jordbävning-katastrof"]
 sentences: ["sent-efter-jordbävning-kommer-ofta-nya", "sent-farligt-räddningsarbetare-går-in-försöker"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # efterskalv — substantiv (ett)
 
 📖 中文：余震 · English: aftershock
+
+🇸🇪 Förklaring: mindre skakning i marken som kommer en tid efter en stor jordbävning
+
 发音提示：EF-ter-skalv；重音在第一音节
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[jordbävning]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-jordbävning-katastrof]]
 
 ## 用法提示 (Usage Notes)

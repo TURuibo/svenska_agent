@@ -7,9 +7,9 @@ genus: ett
 cefr: "A1"
 zh: "海；大海"
 en: "sea, ocean"
-synonyms: []
-antonyms: []
-family: ["havsyta"]
+synonyms: [ocean]
+antonyms: [land]
+family: [havsyta]
 topics: ["topic-hav-och-kust", "topic-miljö-och-klimat"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hav — substantiv (ett)
 
 📖 中文：海；大海 · English: sea, ocean
+
+🇸🇪 Förklaring: mycket stort område med salt vatten som täcker en stor del av jorden
+
 发音提示：[hɑːv]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[havsyta]] (n, stub, 海洋表面)
+- 词族: [[havsyta]] (n, 海洋表面)
+- 同义词: [[ocean]] (大洋)
+- 反义词: [[land]] (陆地)
 - 主题: [[topic-hav-och-kust]], [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

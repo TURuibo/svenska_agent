@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A1"
 zh: "雨衣"
 en: "rain jacket"
-synonyms: []
+synonyms: [regnrock]
 antonyms: []
 family: [regn, jacka, regnkläder]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # regnjacka — substantiv
 
 📖 中文：雨衣 · English: rain jacket
+
+🇸🇪 Förklaring: vattentät jacka som skyddar mot väta när man är ute
+
 发音提示：/ˈrɛŋnˌjakːa/ — regn 里 g 发 /ŋ/ 音（像 reng），jacka 的 ck 短促
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[regn]] (雨), [[jacka]] (夹克), [[regnkläder]] (雨衣裤)
+- 同义词: [[regnrock]] (雨衣)
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "雇佣合同"
 en: "employment contract"
-synonyms: ["anställningskontrakt"]
+synonyms: [anställningskontrakt]
 antonyms: []
-family: ["anställning", "avtal"]
+family: [anställning, avtal]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # anställningsavtal — substantiv (ett-ord)
 
 📖 中文：雇佣合同 · English: employment contract
+
+🇸🇪 Förklaring: skriftlig överenskommelse mellan arbetsgivare och arbetstagare om lön, arbetstid och andra villkor
+
 发音提示：an-STÄLL-nings-a-vtal
 
 ## 语法变形 (Forms)

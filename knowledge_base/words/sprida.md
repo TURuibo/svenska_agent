@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "传播；散布；扩散"
 en: "to spread; to disseminate"
-synonyms: []
-antonyms: []
+synonyms: [distribuera, föra-vidare]
+antonyms: [samla]
 family: [spridning]
 topics: [topic-samhälle-och-politik]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # sprida — verb (grupp 4, oregelbundet)
 
 📖 中文：传播；散布；扩散 · English: to spread; to disseminate
+
+🇸🇪 Förklaring: få något att komma ut till många platser eller människor
+
 发音提示：SPRI-da；长 i。
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[spridning]] (stub，传播/蔓延)
-- 同义词: —
-- 反义词: —
+- 词族: [[spridning]] (传播/蔓延)
+- 同义词: [[distribuera]] (分发), [[föra-vidare|föra vidare]] (传递)
+- 反义词: [[samla]] (收集)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: "A2"
 zh: "面包师"
 en: "baker"
-synonyms: []
+synonyms: [konditor]
 antonyms: []
-family: ["bageri"]
+family: [bageri]
 topics: ["topic-yrken", "topic-mat-dryck"]
 sentences:
   - "sent-det-ar-ett-yrke"
@@ -24,6 +24,9 @@ interval: 0
 # bagare — substantiv (en)
 
 📖 中文：面包师 · English: baker
+
+🇸🇪 Förklaring: person som har till yrke att göra bröd, bullar och kakor
+
 发音提示：BAH-gah-reh（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bageri]]
+- 同义词: [[konditor]] (糕点师)
+- 反义词: —
 - 主题: [[topic-yrken]] · [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

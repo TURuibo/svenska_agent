@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "比较；比喻"
 en: "comparison"
-synonyms: []
+synonyms: [liknelse]
 antonyms: []
 family: [jämföra]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-09
 # jämförelse — substantiv en
 
 📖 中文：比较；比喻 · English: comparison
+
+🇸🇪 Förklaring: när man undersöker hur saker är lika eller olika; bild där man beskriver något genom att likna det vid något annat
+
+发音提示：/ˈjɛmˌføːrɛlsɛ/ — 重音在 jäm；ä 读短音，ö 读长音
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ created: 2026-10-09
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[jämföra]]
-- 同义词: —
+- 同义词: [[liknelse]] (比喻)
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

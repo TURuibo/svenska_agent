@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "尖叫；大哭大叫"
 en: "to scream, to shriek"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gråta, ropa]
+antonyms: [viska]
+family: [skrik]
 topics: [topic-småbarn-känslor-och-beteende, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # skrika — verb (grupp 4, starkt)
 
 📖 中文：尖叫；大哭大叫 · English: to scream, to shriek
+
+🇸🇪 Förklaring: ropa eller låta mycket högt och gällt, t.ex. av rädsla, smärta eller ilska
+
 发音提示：/ˈskriːka/ — sk 在 r 前读 [sk]（不是 sj 音），长 i。
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: skrik (ett skrik = 一声尖叫)
-- 同义词: [[gråta]] (哭，但不一定叫), ropa (喊叫，非哭)
-- 反义词: viska (小声说)
+- 词族: [[skrik]] (ett skrik = 一声尖叫)
+- 同义词: [[gråta]] (哭，但不一定叫), [[ropa]] (喊叫，非哭)
+- 反义词: [[viska]] (小声说)
 - 主题: [[topic-småbarn-känslor-och-beteende]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

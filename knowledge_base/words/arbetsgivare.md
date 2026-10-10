@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "雇主"
 en: "employer"
 synonyms: []
-antonyms: []
+antonyms: [arbetstagare]
 family: [arbeta, ge]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-meddela-din-arbetsgivare-samma-dag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # arbetsgivare — substantiv (en)
 
 📖 中文：雇主 · English: employer
+
+🇸🇪 Förklaring: person eller företag som har anställda och betalar ut lön till dem
+
 发音提示：[ˈarbeːtsˌjiːvarɛ]，arbets-（工作的）+ givare（给予者），g 在 i 前读 [j]。
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[arbeta]] · [[ge]] · arbete · arbetstagare（雇员）
+- 词族: [[arbeta]] · [[ge]] · arbete · arbetstagare（雇员）, [[ge]] (给)
 - 同义词: —
-- 反义词: arbetstagare / anställd（雇员）
+- 反义词: [[arbetstagare]] / anställd（雇员）
 - 主题: [[topic-förskola-system]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

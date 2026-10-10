@@ -8,7 +8,7 @@ zh: "草莓"
 en: "strawberry"
 synonyms: []
 antonyms: []
-family: []
+family: [jord, jordgubbstårta, jordgubbssylt]
 topics: ["topic-mat-dryck", "topic-midsommar-traditioner"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # jordgubbe — substantiv (en)
 
 📖 中文：草莓 · English: strawberry
+
+🇸🇪 Förklaring: litet rött och sött bär som växer nära marken och som man äter på sommaren
+
 发音提示：jord-gub-be（jord = 土地，gubbe = 老头 → "土里的老头"，民间词源）
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[jord]] (土地), [[jordgubbstårta]] (草莓蛋糕), [[jordgubbssylt]] (草莓酱)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]], [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "宝藏；税"
 en: "treasure; tax"
-synonyms: []
+synonyms: [skattgömma]
 antonyms: []
-family: [skattefri, skatta]
+family: [skattefri, skatteverket, skatta]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # skatt — substantiv (en)
 
 📖 中文：宝藏；税 · English: treasure; tax
+
+🇸🇪 Förklaring: 1) värdefulla saker som någon har gömt eller samlat, t.ex. guld och smycken; 2) pengar som man måste betala till staten eller kommunen
+
 发音提示：SKATT，单音节，双t结尾。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skattefri]] (adj. 免税的), [[skatteverket]] (瑞典税务局), [[skatta]] (v. 缴税)
-- 同义词: [[trésor]] (宝藏，法语借词，罕见), [[skattgömma]] (en, 藏宝处)
+- 同义词: [[skattgömma]] (en, 藏宝处)
 - 反义词: —
 - 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 

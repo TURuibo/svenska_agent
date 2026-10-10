@@ -5,9 +5,9 @@ ordklass: konjunktion
 cefr: B1
 zh: 直到……才
 en: until, before (after negation)
-synonyms: []
+synonyms: [innan]
 antonyms: []
-family: []
+family: [förr, före]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # förrän — konjunktion / adverb
 
 📖 中文：（否定句中）直到……才 · English: until (with negation)
+
+🇸🇪 Förklaring: används efter nekande ord och betyder att något händer först vid en viss tid, inte tidigare
+
+发音提示：/ˈfœrːɛn/ — ö 在 r 前读 œ，rr 要长
 
 ## 语法变形 (Forms)
 
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[förr]] (从前), [[före]] (在……之前)
+- 同义词: [[innan]] (在……之前)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

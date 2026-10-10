@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "船，小船"
 en: "boat"
-synonyms: ["fartyg"]
+synonyms: [fartyg]
 antonyms: []
-family: ["segelbåt", "motorbåt"]
+family: [segelbåt, motorbåt]
 topics: ["topic-fritid-och-resor"]
 sentences:
   - sent-ett-ryskt-militärfartyg-sköt-skott
@@ -27,6 +27,9 @@ interval: 0
 # båt — substantiv
 
 📖 中文：船，小船 · English: boat
+
+🇸🇪 Förklaring: farkost som man åker med på vatten
+
 发音提示：/boːt/
 
 ## 语法变形 (Forms)
@@ -53,8 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[segelbåt]] (帆船), motorbåt（摩托艇）
+- 词族: [[segelbåt]] (帆船), [[motorbåt]]（摩托艇）
 - 同义词: [[fartyg]]（船只，较大型）
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

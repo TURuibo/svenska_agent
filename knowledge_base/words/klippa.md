@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 岩壁，悬崖
 en: cliff, rock face
-synonyms: []
+synonyms: [stup, bergvägg]
 antonyms: []
-family: []
+family: [sten, berg]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # klippa — substantiv (en-ord)
 
 📖 中文：岩壁，悬崖 · English: cliff, rock face
+
+🇸🇪 Förklaring: stor och brant bergvägg, ofta vid havet
+
 发音提示：/ˈklɪpːa/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sten]]、[[berg]]
+- 词族: [[sten]], [[berg]]
+- 同义词: [[stup]] (悬崖), [[bergvägg]] (岩壁)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

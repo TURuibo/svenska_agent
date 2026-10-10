@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "接待处；门诊；接待会"
 en: "reception; clinic; reception area"
-synonyms: []
+synonyms: [reception, klinik]
 antonyms: []
-family: ["ta emot"]
+family: [ta-emot]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-10"
 # mottagning — substantiv
 
 📖 中文：接待处；门诊；接待会 · English: reception; clinic; reception area
+
+🇸🇪 Förklaring: 1) plats där läkare eller annan personal träffar patienter eller besökare; 2) fest där man hälsar gäster välkomna
+
+发音提示：/ˈmuːtˌtɑːɡnɪŋ/ — o 读 uː；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -34,7 +38,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ta emot]]
+- 词族: [[ta-emot|ta emot]]
+- 同义词: [[reception]] (接待处), [[klinik]] (诊所)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

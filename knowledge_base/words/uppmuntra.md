@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "鼓励"
 en: "to encourage"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [stötta, peppa]
+antonyms: [avskräcka]
+family: [uppmuntran, uppmuntrande, muntra-upp, munter]
 topics: []
 sentences: [sent-hennes-pappa-uppmuntrade-henne-att]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # uppmuntra — verb
 
 📖 中文：鼓励 · English: to encourage
-发音提示：
+
+🇸🇪 Förklaring: ge någon mod, stöd eller lust att göra något
+
+发音提示：/ˈɵpːˌmɵntra/ — u 读短音 ɵ；重音在 upp
 
 ## 语法变形 (Forms)
 
@@ -42,9 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[uppmuntran]] (鼓励（名词）), [[uppmuntrande]] (鼓舞人心的), [[muntra-upp|muntra upp]] (使振作), [[munter]] (快活的)
+- 同义词: [[stötta]] (支持), [[peppa]] (打气)
+- 反义词: [[avskräcka]] (使却步)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

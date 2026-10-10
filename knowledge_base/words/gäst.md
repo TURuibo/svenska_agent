@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "客人"
 en: "guest"
-synonyms: []
-antonyms: ["värd"]
-family: []
+synonyms: [besökare]
+antonyms: [värd]
+family: [gästa, gästfrihet, gästrum]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gäst — substantiv (en)
 
 📖 中文：客人 · English: guest
+
+🇸🇪 Förklaring: person som är bjuden hem till någon eller som besöker ett hotell eller en restaurang
+
 发音提示：/jɛst/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gästa]] (做客), [[gästfrihet]] (好客), [[gästrum]] (客房)
+- 同义词: [[besökare]] (访客)
 - 反义词: [[värd]]
 - 主题: [[topic-personer]]
 

@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "费用；成本"
 en: "cost; expense"
 synonyms: [utgift]
-antonyms: []
-family: [levnadskostnad]
+antonyms: [inkomst]
+family: [levnadskostnad, kosta, kostnadsfri]
 topics: [topic-ekonomi-och-bidrag, topic-betalning]
 sentences: [sent-du-kan-också-få-stöd-för-vissa-andra, sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga, sent-du-kan-också-få-ekonomiskt-bistånd-för-vissa, sent-det-kan-till-exempel-vara-kostnader-för, sent-stöd-för-andra-levnadskostnader]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # kostnad — substantiv (en)
 
 📖 中文：费用；成本 · English: cost; expense
+
+🇸🇪 Förklaring: summa pengar som man måste betala för något
+
 发音提示：KOST-nad，重音在第一音节 `kost`。
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[levnadskostnad]]（生活费用）、`kosta`（动词：花费）、`kostnadsfri`（免费的）
+- 词族: [[levnadskostnad]]（生活费用）, [[kosta]]（动词：花费）, [[kostnadsfri]]（免费的）
 - 同义词: [[utgift]]（支出）
-- 反义词: —（可对比 `inkomst`）
+- 反义词: —（可对比 [[inkomst]]）
 - 主题: [[topic-ekonomi-och-bidrag]] · [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

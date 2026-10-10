@@ -9,7 +9,7 @@ zh: "直升机"
 en: "helicopter"
 synonyms: []
 antonyms: []
-family: []
+family: [räddningsarbetare]
 topics: [topic-transport-och-resor]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # helikopter — substantiv (en)
 
 📖 中文：直升机 · English: helicopter
+
+🇸🇪 Förklaring: flygmaskin med stora roterande blad på taket som kan lyfta rakt upp och stå still i luften
+
 发音提示：he-li-KOP-ter；重音在第三音节。
 
 ## 语法变形 (Forms)

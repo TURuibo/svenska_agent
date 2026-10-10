@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 嘈杂的
 en: noisy, loud
-synonyms: []
-antonyms: ["tyst"]
-family: ["buller"]
+synonyms: [högljudd, larmig]
+antonyms: [tyst]
+family: [buller]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bullrig — adjektiv
 
 📖 中文：嘈杂的 · English: noisy, loud
+
+🇸🇪 Förklaring: som låter mycket och högt på ett störande sätt
+
 发音提示：BULL-rig
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[buller]]
+- 同义词: [[högljudd]] (大声的), [[larmig]] (喧闹的)
 - 反义词: [[tyst]]
 - 主题: [[topic-stadsmiljo]], [[topic-trafik]]
 

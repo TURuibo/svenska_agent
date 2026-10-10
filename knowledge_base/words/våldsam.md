@@ -5,7 +5,7 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "暴力的，激烈的"
 en: "violent"
-synonyms: []
+synonyms: [brutal, häftig]
 antonyms: [fredlig]
 family: [våld]
 topics: []
@@ -21,7 +21,10 @@ interval: 0
 # våldsam — adjektiv
 
 📖 中文：暴力的，激烈的 · English: violent
-发音提示：
+
+🇸🇪 Förklaring: som använder mycket våld eller kraft; mycket stark och häftig
+
+发音提示：/ˈvɔldˌsam/ — å 读短音 ɔ；重音在 våld
 
 ## 语法变形 (Forms)
 
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[våld]]
-- 同义词: —
+- 同义词: [[brutal]] (残暴的), [[häftig]] (猛烈的)
 - 反义词: [[fredlig]]
 - 主题: —
 

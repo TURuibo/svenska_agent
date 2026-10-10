@@ -7,11 +7,8 @@ cefr: "A2"
 zh: "出口"
 en: "exit"
 synonyms: []
-antonyms:
-  - ingång
-family:
-  - gå
-  - ingång
+antonyms: [ingång]
+family: [gå, ingång]
 topics:
   - topic-stadsmiljo
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # utgång — substantiv en
 
 📖 中文：出口 · English: exit
+
+🇸🇪 Förklaring: dörr eller öppning där man går ut från ett rum, en byggnad eller ett område
+
 发音提示：/UT-gong/
 
 ## 语法变形 (Forms)
@@ -52,7 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[gå]] · [[ingång]]
+- 词族: [[gå]] · [[ingång]], [[ingång]] (入口)
+- 同义词: —
 - 反义词: [[ingång]]（入口）
 - 主题: [[topic-stadsmiljo]]
 

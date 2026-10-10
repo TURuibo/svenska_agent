@@ -9,7 +9,7 @@ zh: "意味着；意指；包含（含义）"
 en: "to mean, to imply, to entail"
 synonyms: [betyda]
 antonyms: []
-family: []
+family: [bära, innebörd]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # innebära — verb (grupp 4 / oregelbundet)
 
 📖 中文：意味着；意指；包含（含义） · English: to mean, to imply, to entail
+
+🇸🇪 Förklaring: ha som följd eller betydelse
+
 发音提示：in-ne-**bä**-ra，重音在第三音节。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[bära]] (携带), [[innebörd]] (含义)
 - 同义词: [[betyda]] (较口语、通用)
 - 反义词: —
 - 主题: —

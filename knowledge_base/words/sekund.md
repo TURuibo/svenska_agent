@@ -19,6 +19,9 @@ created: "2026-10-01"
 # sekund — substantiv (en)
 
 📖 中文：秒 · English: second
+
+🇸🇪 Förklaring: mycket kort tidsenhet; en sextiondels minut
+
 发音提示：/seˈkɵnd/（重音在第二音节 -kund）
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[minut]]（分钟）, [[timme]]（小时）
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-idrott]], [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

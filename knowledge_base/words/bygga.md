@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "建造，建设"
 en: "to build, to construct"
-synonyms: []
-antonyms: []
-family: ["byggnad"]
+synonyms: [uppföra, konstruera]
+antonyms: [riva]
+family: [byggnad]
 topics: ["topic-arbete"]
 sentences:
   - sent-google-ska-bygga-ett-stort-datacenter
@@ -24,6 +24,9 @@ interval: 0
 # bygga — verb
 
 📖 中文：建造，建设 · English: to build, to construct
+
+🇸🇪 Förklaring: göra ett hus, en väg eller något annat genom att sätta ihop olika delar och material
+
 发音提示：/ˈbʏɡːa/
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[byggnad]] (建筑物)
-- 同义词: —
+- 同义词: [[uppföra]] (建造), [[konstruera]] (构建)
 - 反义词: [[riva]] (拆除)
 - 主题: [[topic-arbete]]
 

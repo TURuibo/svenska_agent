@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "歌曲"
 en: "song"
-synonyms: ["sång"]
+synonyms: [sång]
 antonyms: []
-family: []
+family: [låtskrivare, poplåt, låtlista]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # låt — substantiv (en)
 
 📖 中文：歌曲 · English: song
+
+🇸🇪 Förklaring: kort musikstycke, ofta med text, som man sjunger eller spelar
+
 发音提示：/loːt/
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[låtskrivare]] (词曲作者), [[poplåt]] (流行歌曲), [[låtlista]] (歌曲列表)
 - 同义词: [[sång]]（歌曲，更正式）
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

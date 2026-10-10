@@ -2,13 +2,13 @@
 type: word
 lemma: "honung"
 ordklass: substantiv
-genus: "ett"
+genus: "en"
 cefr: A2
 zh: "蜂蜜"
 en: "honey"
 synonyms: []
 antonyms: []
-family: ["honungsbi", "honungskaka"]
+family: [honungsbi, honungskaka]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -19,16 +19,19 @@ ease: 2.5
 interval: 0
 ---
 
-# honung — substantiv (ett)
+# honung — substantiv (en)
 
 📖 中文：蜂蜜 · English: honey
+
+🇸🇪 Förklaring: söt och tjock gul massa som bin gör av nektar från blommor
+
 发音提示：/ˈhoːnʉŋ/，两音节，"o" 长音
 
 ## 语法变形 (Forms)
 
 | Form | Swedish |
 |------|---------|
-| Singular obestämd | ett honung (oberoende av kvantitet) |
+| Singular obestämd | honung (en-ord, oräknebart) |
 | Singular bestämd | honungen |
 
 `honung` 是不可数名词（mass noun），通常只用单数形式。复数 `honungssorter` 在指种类时使用。
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: honungsbi (ett, 蜜蜂), honungskaka (en, 蜂巢)
+- 词族: [[honungsbi]] (ett, 蜜蜂), [[honungskaka]] (en, 蜂巢)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-vikingatiden]]

@@ -6,8 +6,8 @@ verbgrupp: "1"
 cefr: B1
 zh: 反应；对……有反应
 en: to react
-synonyms: []
-antonyms: []
+synonyms: [svara, bemöta]
+antonyms: [ignorera]
 family: [reaktion]
 topics: []
 sentences: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # reagera — verb (grupp 1)
 
 📖 中文：反应；对……有反应 · English: to react
+
+🇸🇪 Förklaring: göra, säga eller känna något som svar på något som händer
+
+发音提示：/rɛaˈɡeːra/ — g 读硬音 /ɡ/；重音在 -ge
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: reaktion (en, 反应)
-- 同义词:
-- 反义词:
+- 词族: [[reaktion]] (en, 反应)
+- 同义词: [[svara]] (回应), [[bemöta]] (回应)
+- 反义词: [[ignorera]] (忽视)
 - 主题:
 
 ## 用法提示 (Usage Notes)

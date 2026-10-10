@@ -23,6 +23,9 @@ interval: 0
 # styrketräning — substantiv (en)
 
 Zh: 力量训练；举重训练 · English: strength training; weight training
+
+🇸🇪 Förklaring: motion där man lyfter vikter eller gör övningar för att bygga starkare muskler
+
 发音提示：STYR-ke-trä-ning（四个音节）
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ Zh: 力量训练；举重训练 · English: strength training; weight training
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[styrka]]（力量），[[träning]]（训练），[[träna]]（训练；锻炼）
-- 同义词: tyngdlyftning（举重）
-- 反义词: konditionsträning（有氧训练/体能训练）
+- 词族: [[styrka]]（力量）, [[träning]]（训练）, [[träna]]（训练；锻炼）
+- 同义词: [[tyngdlyftning]]（举重）, [[vikter]]
+- 反义词: [[konditionsträning]]（有氧训练/体能训练）, [[löpning]] (跑步)
 - 主题: [[topic-fritid]], [[topic-halsa]]
 
 ## 用法提示 (Usage Notes)

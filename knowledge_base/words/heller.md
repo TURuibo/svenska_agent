@@ -18,6 +18,10 @@ created: "2026-10-01"
 
 📖 中文：（否定句里）也不 · English: either / neither
 
+🇸🇪 Förklaring: används efter inte, ingen eller aldrig för att säga att samma sak gäller ännu en person eller sak
+
+发音提示：/ˈhɛlːɛr/ — e 读短音，ll 是长辅音
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: också
+- 词族: —
+- 同义词: —
+- 反义词: [[också]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

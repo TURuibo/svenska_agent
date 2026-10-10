@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "烹饪节目"
 en: "cooking show"
-synonyms: []
+synonyms: [matprogram]
 antonyms: []
-family: ["laga-mat", "program"]
+family: [laga-mat, program]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # matlagningsprogram — substantiv (ett)
 
 📖 中文：烹饪节目 · English: cooking show
+
+🇸🇪 Förklaring: tv-program där en kock visar hur man gör olika rätter
+
 发音提示：MAT-lag-nings-pro-gram
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[laga-mat]]（做饭）, [[program]]（节目）
+- 同义词: [[matprogram]] (美食节目)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

@@ -19,6 +19,9 @@ created: "2026-10-05"
 # grannforum — substantiv (ett)
 
 📖 中文：邻里论坛 · English: neighbours' forum
+
+🇸🇪 Förklaring: plats på nätet där människor som bor i samma område kan diskutera och ge varandra tips
+
 发音提示：GRAN-forum
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[granne]] (邻居), [[forum]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

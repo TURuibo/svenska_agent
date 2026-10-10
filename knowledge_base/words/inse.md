@@ -7,9 +7,9 @@ genus: ""
 cefr: "B2"
 zh: "意识到；认识到；明白"
 en: "to realise; to see (come to understand)"
-synonyms: [förstå]
-antonyms: []
-family: []
+synonyms: [förstå, märka]
+antonyms: [missförstå]
+family: [in]
 topics: [topic-argumentation]
 sentences: [sent-själv-har-jag-jobbat-som-ledare-i-en]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # inse — verb (grupp 4, 不规则强变化)
 
 📖 中文：意识到；认识到；明白 · English: to realise; to see (come to understand)
+
+🇸🇪 Förklaring: till slut förstå hur något verkligen är
+
 发音提示：IN-se，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `in` + `se`（"看进去"→看清）
-- 同义词: [[förstå]]（懂；更泛指）；近义 `märka`（注意到）
-- 反义词: `missförstå`（误解）
+- 词族: [[in]] + `se`（"看进去"→看清）
+- 同义词: [[förstå]]（懂；更泛指）, 近义 [[märka]]（注意到）
+- 反义词: [[missförstå]]（误解）
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

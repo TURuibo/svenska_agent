@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "有利于，促进，惠及"
 en: "to favour, to benefit, to promote"
-synonyms: ["gagnar", "främja"]
-antonyms: ["missgynna", "skada"]
-family: ["gynnsam", "gynnare"]
+synonyms: [främja, gagnar]
+antonyms: [missgynna, skada]
+family: [gynnsam, gynnare]
 topics: ["topic-geografi-natur"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gynna — verb (grupp 1)
 
 📖 中文：有利于，促进，惠及 · English: to favour, to benefit, to promote
+
+🇸🇪 Förklaring: vara till nytta eller fördel för någon eller något
+
 发音提示：[ˈjɵnːa]
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[gynnsam]]
-- 同义词: [[främja]]
-- 反义词: [[missgynna]]
+- 词族: [[gynnsam]], [[gynnare]]
+- 同义词: [[främja]], [[gagnar]]
+- 反义词: [[missgynna]], [[skada]] (伤害, 损坏)
 - 主题: [[topic-geografi-natur]]
 
 ## 用法提示 (Usage Notes)

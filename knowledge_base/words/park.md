@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A1"
 zh: "公园"
 en: "park"
-synonyms: []
+synonyms: [grönområde]
 antonyms: []
 family: [parkbänk, parkering, parken]
 topics:
@@ -26,6 +26,9 @@ interval: 0
 # park — substantiv (en)
 
 📖 中文：公园 · English: park
+
+🇸🇪 Förklaring: område i en stad med gräs, träd och gångvägar där man kan promenera och vila
+
 发音提示：park（单音节）。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[parkbänk]] (公园长椅), [[parkering]] (停车场/停车)
-- 同义词: —
+- 词族: [[parkbänk]] (公园长椅), [[parkering]] (停车场/停车), [[parken]]
+- 同义词: [[grönområde]] (绿地)
 - 反义词: —
 - 主题: [[topic-stadsmiljo]]
 

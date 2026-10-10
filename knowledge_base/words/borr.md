@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "电钻；钻头"
 en: "drill"
-synonyms: []
+synonyms: [borrmaskin]
 antonyms: []
 family: [borra]
 topics: [topic-grannar-boende]
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # borr — substantiv (en)
 
 📖 中文：电钻；钻头 · English: drill
+
+🇸🇪 Förklaring: verktyg som man gör hål med; den spetsiga delen på verktyget som snurrar
+
 发音提示：borr，r 清晰卷舌/齿龈音
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[borra]] (钻孔)
+- 同义词: [[borrmaskin]] (电钻)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

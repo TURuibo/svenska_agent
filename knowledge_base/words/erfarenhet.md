@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "经验"
 en: "experience"
-synonyms: ["upplevelse"]
-antonyms: []
-family: ["erfaren"]
+synonyms: [upplevelse]
+antonyms: [oerfarenhet]
+family: [erfaren]
 topics: ["topic-arbete"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # erfarenhet — substantiv (en)
 
 📖 中文：经验 · English: experience
+
+🇸🇪 Förklaring: kunskap som man har fått genom att själv göra eller uppleva saker
+
 发音提示：/er-fa-ren-het/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 
 - 词族: [[erfaren]]
 - 同义词: [[upplevelse]]
+- 反义词: [[oerfarenhet]] (缺乏经验)
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

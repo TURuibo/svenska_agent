@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "时刻；瞬间；环节（程序中的一步）"
 en: "moment; element; step (in a process)"
-synonyms: []
+synonyms: [stund]
 antonyms: []
-family: []
+family: [momentan, momentant]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # moment — substantiv (ett)
 
 📖 中文：时刻；瞬间；环节（程序中的一步） · English: moment; element; step (in a process)
+
+🇸🇪 Förklaring: 1) kort stund; 2) en del eller ett steg i en process eller i ett arbete
+
 发音提示：mo-MENT；两音节，重音在末音节。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[momentan]] (瞬间的), [[momentant]] (瞬间地)
 - 同义词: [[stund]] (更口语、日常)
 - 反义词: —
 - 主题: [[topic-vardagsrutin]]

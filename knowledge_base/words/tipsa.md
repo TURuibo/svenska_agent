@@ -24,6 +24,9 @@ interval: 0
 # tipsa — verb (grupp 1)
 
 📖 中文：建议；告知；给小贴士 · English: to tip off; to advise; to give a tip
+
+🇸🇪 Förklaring: ge någon ett bra råd eller berätta om något som kan vara nyttigt
+
 发音提示：TIP-sa；短促的 i。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tips]] (stub，名词：小贴士/线索)
-- 同义词: [[råda]] (stub), [[rekommendera]] (stub)
+- 词族: [[tips]] (名词：小贴士/线索)
+- 同义词: [[råda]], [[rekommendera]]
 - 反义词: —
 - 主题: —
 

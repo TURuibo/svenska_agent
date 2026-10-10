@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: "B1"
 zh: "融化"
 en: "to melt"
-synonyms: []
-antonyms: []
-family: ["glaciär"]
+synonyms: [tina]
+antonyms: [frysa, stelna]
+family: [glaciär]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # smälta — verb
 
 📖 中文：融化 · English: to melt
-发音提示：
+
+🇸🇪 Förklaring: bli flytande av värme, t.ex. om is eller snö; göra något flytande
+
+发音提示：/ˈsmɛlta/ — ä 短音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[glaciär]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: [[tina]] (融化)
+- 反义词: [[frysa]] (冻结), [[stelna]] (凝固)
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

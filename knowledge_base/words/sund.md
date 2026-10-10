@@ -21,6 +21,9 @@ interval: 0
 # sund — adjektiv
 
 📖 中文：健康的 · English: healthy, sound
+
+🇸🇪 Förklaring: som är bra för hälsan; som mår bra och är frisk i kropp och själ
+
 发音提示：/sɵnd/
 
 ## 语法变形 (Forms)

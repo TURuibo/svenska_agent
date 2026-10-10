@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 脆弱性；处于风险中的处境
 en: vulnerability, exposed situation
-synonyms: []
-antonyms: []
-family: ["utsatt"]
+synonyms: [sårbarhet]
+antonyms: [trygghet]
+family: [utsatt]
 topics: ["topic-samhälle-och-politik", "topic-hälsa"]
 sentences:
   - sent-barn-och-unga-behover-mota-vuxna
@@ -23,6 +23,9 @@ interval: 0
 # utsatthet — substantiv (en)
 
 📖 中文：脆弱性；处于风险中的处境 · English: vulnerability, exposed situation
+
+🇸🇪 Förklaring: situation där man lätt kan bli skadad, utnyttjad eller drabbad av problem
+
 发音提示：UT-sat-het
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: utsatt（形容词）
+- 词族: [[utsatt]]（形容词）
+- 同义词: [[sårbarhet]] (脆弱性)
+- 反义词: [[trygghet]] (安全感)
 - 主题: [[topic-samhälle-och-politik]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

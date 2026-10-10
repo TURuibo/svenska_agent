@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: A2
 zh: 使用
 en: to use
-synonyms: []
+synonyms: [bruka, nyttja, utnyttja]
 antonyms: []
-family: []
+family: [användning]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # använda — verb (grupp 2)
 
 📖 中文：使用 · English: to use
+
+🇸🇪 Förklaring: ta något till hjälp för att göra något
+
 发音提示：/ˈanˌvɛnda/（重音在 an-）
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: användning（名词，使用）
-- 同义词:
-- 反义词:
+- 词族: [[användning]]（名词，使用）
+- 同义词: [[bruka]] (使用), [[nyttja]] (利用), [[utnyttja]] (利用)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

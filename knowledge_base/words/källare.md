@@ -9,7 +9,7 @@ zh: "地下室"
 en: "basement; cellar"
 synonyms: []
 antonyms: []
-family: []
+family: [vinkällare, jordkällare, källarförråd]
 topics: [topic-grannar-boende]
 sentences: [sent-jag-föreslår-att-vi-städar-cykelrummet]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # källare — substantiv (en)
 
 📖 中文：地下室 · English: basement; cellar
+
+🇸🇪 Förklaring: rum eller våning under marken i ett hus
+
 发音提示：SHEL-la-re（k 读 sh 音）
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vinkällare]] (酒窖), [[jordkällare]] (地窖), [[källarförråd]] (地下储藏室)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "直地；笔直地"
 en: "straight"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [direkt, spikrakt]
+antonyms: [snett, krokigt]
+family: [rak]
 topics:
   - topic-riktningar
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # rakt — adverb
 
 📖 中文：直地；笔直地 · English: straight
+
+🇸🇪 Förklaring: i en rak linje utan att svänga; direkt till något
+
 发音提示：rakt（单音节，k 不发音在 t 前）。
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rak]] (adj. 直的/平直的)
-- 同义词: —
-- 反义词: —
+- 同义词: [[direkt]] (直接), [[spikrakt]] (笔直地)
+- 反义词: [[snett]] (斜地), [[krokigt]] (弯曲地)
 - 主题: [[topic-riktningar]]
 
 ## 用法提示 (Usage Notes)

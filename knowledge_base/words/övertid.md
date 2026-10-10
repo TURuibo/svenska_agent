@@ -8,7 +8,7 @@ zh: "加班；加班时间"
 en: "overtime"
 synonyms: []
 antonyms: []
-family: ["tid", "arbetstid"]
+family: [tid, arbetstid]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # övertid — substantiv (en-ord)
 
 📖 中文：加班；加班时间 · English: overtime
+
+🇸🇪 Förklaring: extra timmar som man arbetar utöver det vanliga schemat
+
 发音提示：Ö-ver-tid
 
 ## 语法变形 (Forms)

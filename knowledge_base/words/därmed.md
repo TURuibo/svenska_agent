@@ -7,9 +7,9 @@ genus: ""
 cefr: "B2"
 zh: "因此；由此；从而"
 en: "thereby; with that; hence"
-synonyms: [alltså]
+synonyms: [alltså, därigenom]
 antonyms: []
-family: []
+family: [där]
 topics: [topic-argumentation]
 sentences: [sent-då-känner-de-ansvar-för-platsen-och]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # därmed — adverb
 
 📖 中文：因此；由此；从而 · English: thereby; with that; hence
+
+🇸🇪 Förklaring: på det sättet; som en följd av det som just har sagts
+
 发音提示：DÄR-med，重音在第一音节（där + med）。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: där + med
-- 同义词: [[alltså]]（侧重"得出结论"）；近义 därigenom（书面）
+- 词族: [[där]] + med
+- 同义词: [[alltså]]（侧重"得出结论"）, 近义 [[därigenom]]（书面）
+- 反义词: —
 - 对照: [[därför]]（所以；因果）
 - 主题: [[topic-argumentation]]
 

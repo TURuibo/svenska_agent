@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 检查；调查
 en: to examine, investigate
-synonyms: []
+synonyms: [granska, utreda, kontrollera]
 antonyms: []
-family: ["undersökning"]
+family: [undersökning]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-en-polis-undersokte-en-mans-klader
@@ -25,6 +25,9 @@ interval: 0
 # undersöka — verb
 
 📖 中文：检查；调查 · English: to examine, investigate
+
+🇸🇪 Förklaring: titta noga på något för att ta reda på hur det är eller vad som är fel
+
 发音提示：un-der-SÖ-ka
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[undersökning]]
+- 同义词: [[granska]] (审查), [[utreda]] (调查), [[kontrollera]] (检查)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

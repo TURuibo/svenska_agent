@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: B2
 zh: 构成；占(比例)
 en: to constitute; to make up
-synonyms: []
+synonyms: [bilda, motsvara]
 antonyms: []
-family: []
+family: [göra]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # utgöra — verb (oregelbundet)
 
 📖 中文：构成；占(比例) · English: to constitute; to make up
+
+🇸🇪 Förklaring: vara det som något består av; vara en viss del av en helhet
+
 发音提示：/ˈɵːtjøːra/
 
 ## 语法变形 (Forms)
@@ -38,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[göra]] (做)
+- 同义词: [[bilda]] (构成), [[motsvara]] (相当于)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

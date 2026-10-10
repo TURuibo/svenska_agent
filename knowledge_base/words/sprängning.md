@@ -6,9 +6,9 @@ genus: en
 cefr: "B1"
 zh: "爆炸，爆破"
 en: "explosion, bombing, detonation"
-synonyms: []
+synonyms: [explosion, detonation]
 antonyms: []
-family: []
+family: [spränga, sprängämne, sprängladdning]
 topics:
   - topic-samhälle-och-politik
   - topic-krig-och-konflikt
@@ -24,6 +24,9 @@ interval: 0
 # sprängning — substantiv (en)
 
 📖 中文：爆炸，爆破 · English: explosion, bombing, detonation
+
+🇸🇪 Förklaring: det att man förstör något med en kraftig explosion, t.ex. ett hus eller en bergvägg
+
 发音提示：SPRENG-ning
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[spränga]] (炸毁), [[sprängämne]] (炸药), [[sprängladdning]] (炸药包)
+- 同义词: [[explosion]] (爆炸), [[detonation]] (引爆)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]] · [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

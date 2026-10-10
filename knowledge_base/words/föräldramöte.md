@@ -19,6 +19,9 @@ created: "2026-09-26"
 # föräldramöte — substantiv (ett)
 
 📖 中文：家长会 · English: parents' meeting
+
+🇸🇪 Förklaring: möte på skolan eller förskolan där lärare och föräldrar pratar om barnens skolgång
+
 发音提示：/fœˈrɛldraˌmøːtɛ/；förälder 的复合形式是 **föräldra-**。
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förälder]], [[möte]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

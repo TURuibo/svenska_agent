@@ -8,7 +8,7 @@ zh: 鼻子
 en: nose
 synonyms: []
 antonyms: []
-family: []
+family: [mun, öga]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # näsa — substantiv (en)
 
 📖 中文：鼻子 · English: nose
+
+🇸🇪 Förklaring: den del av ansiktet som man andas och känner lukter med
+
 发音提示：/ˈnɛːsa/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mun]], [[öga]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

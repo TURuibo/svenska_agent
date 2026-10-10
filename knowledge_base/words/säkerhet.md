@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "安全"
 en: "security; safety"
-synonyms: []
+synonyms: [trygghet, skydd]
 antonyms: [fara]
 family: [säker]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # säkerhet — substantiv
 
 📖 中文：安全 · English: security; safety
+
+🇸🇪 Förklaring: det att man är skyddad mot fara, brott eller olyckor
+
+发音提示：/ˈsɛːkərˌheːt/ — ä 读长音，-het 次重音
 
 ## 语法变形 (Forms)
 
@@ -40,6 +44,7 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[säker]]
+- 同义词: [[trygghet]] (安全感), [[skydd]] (保护)
 - 反义词: [[fara]]
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]

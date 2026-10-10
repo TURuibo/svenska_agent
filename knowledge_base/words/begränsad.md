@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: B1
 zh: 有限的
 en: limited
-synonyms: []
+synonyms: [inskränkt, knapp]
 antonyms: [obegränsad]
 family: [gräns]
 topics: []
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # begränsad — adjektiv
 
 📖 中文：有限的 · English: limited
+
+🇸🇪 Förklaring: som har en gräns och inte är så stor
+
 发音提示：/beˈɡrɛnsad/
 
 ## 语法变形 (Forms)
@@ -40,7 +43,7 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gräns]]
-- 同义词:
+- 同义词: [[inskränkt]] (受限的), [[knapp]] (有限的；不足)
 - 反义词: [[obegränsad]]
 - 主题:
 

@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "回顾"
 en: "look back; review"
-synonyms: []
-antonyms: []
+synonyms: [återblick, retrospektiv]
+antonyms: [framåtblick]
 family: [blick]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tillbakablick — substantiv (en)
 
 📖 中文：回顾 · English: look back; review
+
+🇸🇪 Förklaring: det att man tänker på eller berättar om något som har hänt förut
+
 发音提示：/tɪlˈbɑːkaˌblɪk/；tillbaka（回）+ blick（一瞥/目光）= “回头看一眼”。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[blick]]
+- 同义词: [[återblick]] (回顾), [[retrospektiv]] (回顾)
+- 反义词: [[framåtblick]] (展望)
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

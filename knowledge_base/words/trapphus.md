@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "楼梯间；楼道"
 en: "stairwell"
-synonyms: []
+synonyms: [trappuppgång]
 antonyms: []
 family: [trappa, hus]
 topics: [topic-grannar-boende]
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # trapphus — substantiv (ett)
 
 📖 中文：楼梯间；楼道 · English: stairwell
+
+🇸🇪 Förklaring: den del av ett hus där trappan finns, mellan våningarna och lägenheterna
+
 发音提示：TRAPP-hüs（trapp + hus）
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[trappa]] (楼梯), [[hus]]
+- 同义词: [[trappuppgång]] (楼梯间)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

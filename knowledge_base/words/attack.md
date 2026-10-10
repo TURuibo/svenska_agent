@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "袭击；进攻"
 en: "attack"
-synonyms: []
-antonyms: []
+synonyms: [anfall, angrepp]
+antonyms: [försvar]
 family: [attackera]
 topics: [topic-krig-och-konflikt]
 sentences: []
@@ -19,6 +19,10 @@ created: "2026-10-08"
 # attack — substantiv (en)
 
 📖 中文：袭击；进攻 · English: attack
+
+🇸🇪 Förklaring: plötsligt anfall mot någon eller något med våld eller vapen
+
+发音提示：/aˈtakː/ — 重音在末音节 tack
 
 ## 语法变形 (Forms)
 
@@ -38,6 +42,8 @@ created: "2026-10-08"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[attackera]]
+- 同义词: [[anfall]] (进攻), [[angrepp]] (攻击)
+- 反义词: [[försvar]] (防御)
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: 隧道
 en: tunnel
 synonyms: []
 antonyms: []
-family: ["tunnelbana"]
+family: [tunnelbana]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences:
   - "sent-det-användes-för-att-bygga-tunnlar-och-vägar"
@@ -23,6 +23,9 @@ interval: 0
 # tunnel — substantiv (en-ord)
 
 📖 中文：隧道 · English: tunnel
+
+🇸🇪 Förklaring: väg eller passage som går under marken eller genom ett berg
+
 发音提示：/ˈtɵnɛl/
 
 ## 语法变形 (Forms)

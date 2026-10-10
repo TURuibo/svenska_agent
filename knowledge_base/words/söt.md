@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "可爱的、甜的"
 en: "cute, sweet"
-synonyms: ["gullig"]
-antonyms: []
-family: []
+synonyms: [gullig]
+antonyms: [bitter, ful]
+family: [sötma, sötsak, söta]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # söt — adjektiv
 
 📖 中文：可爱的、甜的 · English: cute, sweet
+
+🇸🇪 Förklaring: som smakar som socker eller honung; som är vacker på ett gulligt sätt
+
 发音提示：/søːt/
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sötma]] (甜味), [[sötsak]] (甜食), [[söta]] (使变甜)
 - 同义词: [[gullig]]
+- 反义词: [[bitter]] (苦的), [[ful]] (丑的)
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

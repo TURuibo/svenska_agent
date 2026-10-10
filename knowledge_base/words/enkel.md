@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "简单的；容易的"
 en: "simple; easy; single"
-synonyms: []
-antonyms: ["svår", "komplicerad"]
-family: ["enkelhet", "enkelriktad"]
+synonyms: [lätt]
+antonyms: [svår, komplicerad]
+family: [enkelhet, enkelbiljett, enkelriktad]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # enkel — adjektiv
 
 📖 中文：简单的；容易的；单一的 · English: simple; easy; single
+
+🇸🇪 Förklaring: 1) som är lätt att förstå eller göra; 2) som inte är fin eller dyr utan vanlig; 3) som bara gäller en, till exempel en resa åt ett håll
+
 发音提示：/ˈɛŋkɛl/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: enkelhet (简单性), enkelbiljett (单程票), enkelriktad (单向的)
-- 同义词: lätt (容易的)
-- 反义词: [[svår]] (难的), komplicerad (复杂的)
+- 词族: [[enkelhet]] (简单性), [[enkelbiljett]] (单程票), [[enkelriktad]] (单向的)
+- 同义词: [[lätt]] (容易的)
+- 反义词: [[svår]] (难的), [[komplicerad]] (复杂的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

@@ -5,9 +5,9 @@ ordklass: pronomen
 cefr: A2
 zh: 好几个、若干
 en: several
-synonyms: []
-antonyms: []
-family: []
+synonyms: [några]
+antonyms: [få]
+family: [många, fler, flest, flesta]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # flera — pronomen
 
 📖 中文：好几个、若干 · English: several
+
+🇸🇪 Förklaring: ett antal, mer än två men inte väldigt många
+
 发音提示：/ˈfleːra/；FLE-ra，`e` 读长音。
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[många]]（许多；比较级 `fler`）, fler, flest, flesta
-- 同义词: några（几个）
-- 反义词: —
+- 词族: [[många]]（许多；比较级 `fler`）, [[fler]], [[flest]], [[flesta]]
+- 同义词: [[några]]（几个）
+- 反义词: [[få]] (少数)
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: B2
 zh: "精英运动员（男）"
 en: "elite athlete (male)"
-synonyms: ["elitidrottare"]
-antonyms: []
-family: ["elitidrottare", "idrottsman", "elitkarriär"]
+synonyms: [elitidrottare]
+antonyms: [motionär]
+family: [elitkarriär, elitidrottare, idrottsman]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-06"
 # elitidrottsman — substantiv (en)
 
 📖 中文：精英运动员（男） · English: elite athlete
+
+🇸🇪 Förklaring: man som tävlar i en sport på högsta nivå
+
 发音提示：/eˈliːtˌidrɔtsman/
 
 ## 语法变形 (Forms)
@@ -40,8 +43,9 @@ created: "2026-10-06"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[elitkarriär]], [[elitidrottare]] (精英运动员), [[idrottsman]] (运动员)
 - 同义词: [[elitidrottare]]（性别中立，更常用）
-- 词族: [[elitkarriär]]
+- 反义词: [[motionär]] (健身爱好者)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

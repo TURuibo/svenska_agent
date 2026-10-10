@@ -6,9 +6,9 @@ genus: "en"
 cefr: A2
 zh: 体育用品店
 en: sports shop
-synonyms: []
+synonyms: [sportaffär]
 antonyms: []
-family: []
+family: [sport, butik]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # sportbutik — substantiv (en)
 
 📖 中文：体育用品店 · English: sports shop
+
+🇸🇪 Förklaring: affär som säljer kläder och utrustning för idrott och friluftsliv
+
 发音提示：/ˈspɔrtbɵˌtiːk/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[sport]] (运动), [[butik]] (商店)
+- 同义词: [[sportaffär]] (体育用品店)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

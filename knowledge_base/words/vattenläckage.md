@@ -7,10 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "漏水；水管渗漏"
 en: "water leak"
-synonyms: []
+synonyms: [vattenläcka]
 antonyms: []
-family:
-  - läcka
+family: [läcka]
 topics: []
 sentences: []
 known: false
@@ -24,6 +23,9 @@ interval: 0
 # vattenläckage — substantiv (ett)
 
 📖 中文：漏水；水管渗漏 · English: water leak
+
+🇸🇪 Förklaring: när vatten rinner ut där det inte ska, till exempel från ett trasigt rör
+
 发音提示：/ˈvatːɛnˌlɛkːaːɧɛ/
 
 ## 语法变形 (Forms)
@@ -50,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[läcka]]（动词：漏、渗漏）
-- 同义词: —
+- 同义词: [[vattenläcka]] (漏水)
 - 反义词: —
 - 主题: —
 

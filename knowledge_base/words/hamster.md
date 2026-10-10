@@ -8,7 +8,7 @@ zh: 仓鼠
 en: hamster
 synonyms: []
 antonyms: []
-family: []
+family: [hamsterbur, hamsterhjul]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hamster — substantiv (en)
 
 📖 中文：仓鼠 · English: hamster
+
+🇸🇪 Förklaring: litet djur med mjuk päls och kort svans som många har som husdjur i en bur
+
 发音提示：HAM-ster（两音节，重音在前）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hamsterbur]], [[hamsterhjul]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

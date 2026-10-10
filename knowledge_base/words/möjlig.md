@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "可能的"
 en: "possible"
-synonyms: ["tänkbar"]
-antonyms: ["omöjlig"]
-family: ["möjlighet", "möjligen", "omöjlig", "möjliggöra"]
+synonyms: [tänkbar]
+antonyms: [omöjlig]
+family: [möjlighet, möjligen, omöjlig, möjliggöra]
 topics: []
 sentences: ["sent-jag-ber-er-skicka-en-rörmokare"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # möjlig — adjektiv
 
 📖 中文：可能的 · English: possible
+
+🇸🇪 Förklaring: som kan hända, göras eller finnas
+
 发音提示：/ˈmœ̂jːlɪɡ/ —— g 在 -ig 结尾常弱读；**möjligt** 读 /ˈmœjːlɪt/（g 不发音）
 
 ## 语法变形 (Forms)

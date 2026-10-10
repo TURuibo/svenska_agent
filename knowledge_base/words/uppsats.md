@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "论文、作文"
 en: "essay, paper"
-synonyms: []
+synonyms: [avhandling]
 antonyms: []
-family: []
+family: [sats, kandidatuppsats, magisteruppsats]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # uppsats — substantiv (en-ord)
 
 📖 中文：论文、作文 · English: essay, paper
+
+🇸🇪 Förklaring: text som man skriver om ett ämne i skolan eller på universitetet
+
 发音提示：UPP-sats
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
+- 词族: [[sats]] (句子), [[kandidatuppsats]] (学士论文), [[magisteruppsats]] (硕士论文)
 - 同义词: [[avhandling]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

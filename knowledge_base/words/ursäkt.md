@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "道歉、借口"
 en: "apology, excuse"
-synonyms: []
+synonyms: [bortförklaring, förevändning]
 antonyms: []
-family: ["ursäkta"]
+family: [ursäkta]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # ursäkt — substantiv
 
 📖 中文：道歉、借口 · English: apology, excuse
+
+🇸🇪 Förklaring: ord som man säger när man ber om förlåtelse; skäl som man ger för att förklara varför man gjort något
+
+发音提示：/ˈʉːʂɛkt/ — rs 合读 ʂ；重音在 ur
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ursäkta]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[bortförklaring]] (推脱的借口), [[förevändning]] (托辞)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

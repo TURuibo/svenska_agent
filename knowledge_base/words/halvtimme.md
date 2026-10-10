@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A1"
 zh: "半小时"
 en: "half an hour"
-synonyms: []
+synonyms: [trettio-minuter]
 antonyms: []
 family: [timme]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # halvtimme — substantiv (en)
 
 📖 中文：半小时 · English: half an hour
+
+🇸🇪 Förklaring: tid som är trettio minuter lång
+
 发音提示：HALV-tim-me
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[timme]]
-- 同义词: —
+- 同义词: [[trettio-minuter|trettio minuter]] (三十分钟)
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 

@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "除了；除……之外；此外"
 en: "except for; besides; apart from"
-synonyms: []
-antonyms: []
+synonyms: [utom]
+antonyms: [inklusive]
 family: []
 topics: []
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # förutom — preposition/adverb
 
 📖 中文：除了；除……之外；此外 · English: except for; besides; apart from
+
+🇸🇪 Förklaring: 1) med undantag av, när man räknar bort något; 2) utöver, och dessutom
+
 发音提示：重音在 `-u-` 附近，读作大致 `fe-RU-tom`。
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
+- 词族: —
 - 同义词: [[utom]] (在某些语境里可近似“除……之外”)
-- 反义词: []
+- 反义词: [[inklusive]] (包括)
 - 主题: []
 
 ## 用法提示 (Usage Notes)

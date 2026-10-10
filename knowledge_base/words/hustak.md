@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "屋顶"
 en: "roof"
-synonyms: []
+synonyms: [tak]
 antonyms: []
-family: []
+family: [hus, takpanna, takränna]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # hustak — substantiv
 
 📖 中文：屋顶 · English: roof
-发音提示：
+
+🇸🇪 Förklaring: den del som täcker en byggnad uppifrån och skyddar mot regn och snö
+
+发音提示：/ˈhʉːsˌtɑːk/ — u 读 ʉː；重音在 hus
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[hus]] (房子), [[takpanna]] (屋瓦), [[takränna]] (檐沟)
+- 同义词: [[tak]] (屋顶)
+- 反义词: —
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

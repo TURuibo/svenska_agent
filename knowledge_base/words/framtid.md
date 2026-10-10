@@ -9,7 +9,7 @@ zh: "未来"
 en: "future"
 synonyms: []
 antonyms: [dåtid, förflutet]
-family: [fram, tid, framtida]
+family: [framtida, fram, tid]
 topics: [topic-miljö-och-klimat, topic-tid-och-tidsuttryck]
 sentences:
   - sent-hon-fortsätter-att-kämpa-för-klimatet
@@ -24,6 +24,9 @@ interval: 0
 # framtid — substantiv (en)
 
 📖 中文：未来 · English: future
+
+🇸🇪 Förklaring: den tid som kommer efter nu
+
 发音提示：/ˈframˌtiːd/；fram（前）+ tid（时间）。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: framtida（未来的，adj.），fram（向前），tid（时间）
-- 反义词: dåtid（过去）, förflutet（过去）
+- 词族: [[framtida]]（未来的，adj.）, [[fram]]（向前）, [[tid]]（时间）
+- 同义词: —
+- 反义词: [[dåtid]]（过去）, [[förflutet]]（过去）
 - 主题: [[topic-miljö-och-klimat]], [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

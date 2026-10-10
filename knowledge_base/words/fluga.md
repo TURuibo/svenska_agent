@@ -8,7 +8,7 @@ zh: "苍蝇"
 en: "fly"
 synonyms: []
 antonyms: []
-family: ["flyga", "insekt"]
+family: [flyga, insekt]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fluga — substantiv (en)
 
 📖 中文：苍蝇 · English: fly
+
+🇸🇪 Förklaring: liten insekt med två vingar som ofta surrar runt mat
+
 发音提示：/ˈflɵːɡa/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[flyga]] (飞)
+- 词族: [[flyga]] (飞), [[insekt]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-djur]]

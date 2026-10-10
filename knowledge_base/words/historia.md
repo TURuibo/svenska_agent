@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 历史
 en: history
-synonyms: []
+synonyms: [det-förflutna]
 antonyms: []
-family: []
+family: [historisk, historiker, förhistorisk]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-vi-läser-om-sveriges-historia]
 source: source-2026-10-09-komvux-kursstart
@@ -19,6 +19,10 @@ created: "2026-10-09"
 # historia — substantiv en
 
 📖 中文：历史 · English: history
+
+🇸🇪 Förklaring: det som har hänt förr i tiden och kunskapen om det
+
+发音提示：/hɪˈstuːria/ — 重音在第二音节 sto，o 读 uː
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[historisk]] (历史的), [[historiker]] (历史学家), [[förhistorisk]] (史前的)
+- 同义词: [[det-förflutna|det förflutna]] (过去)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

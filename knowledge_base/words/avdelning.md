@@ -23,6 +23,9 @@ interval: 0
 # avdelning — substantiv (en-ord)
 
 📖 中文：部门、科室、（商店）区 · English: department, section
+
+🇸🇪 Förklaring: del av ett företag, ett sjukhus eller ett varuhus med egna uppgifter eller varor
+
 发音提示：AV-del-ning
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[dela]] (分；分享), avdela (划分)
+- 词族: [[dela]] (分；分享), [[avdela]] (划分)
 - 同义词: [[sektion]] (部分、科)
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

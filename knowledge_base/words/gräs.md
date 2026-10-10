@@ -8,7 +8,7 @@ zh: 草
 en: grass
 synonyms: []
 antonyms: []
-family: []
+family: [gräsmatta, gräsklippare, gräsplan]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gräs — substantiv (ett-ord)
 
 📖 中文：草 · English: grass
+
+🇸🇪 Förklaring: låga gröna växter med smala blad som täcker marken i trädgårdar och parker
+
 发音提示：/ɡrɛːs/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gräsmatta]] (草坪), [[gräsklippare]] (割草机), [[gräsplan]] (草地球场)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

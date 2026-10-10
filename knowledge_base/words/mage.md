@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 肚子，胃
 en: stomach, belly
-synonyms: []
+synonyms: [buk]
 antonyms: []
-family: []
+family: [magont, magsjuka, magsäck]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # mage — substantiv (en)
 
 📖 中文：肚子，胃 · English: stomach, belly
+
+🇸🇪 Förklaring: organ i kroppen där maten bryts ner; den främre delen av kroppen mellan bröstet och höfterna
+
 发音提示：[ˈmaːɡɛ]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[magont]] (肚子疼), [[magsjuka]] (肠胃炎), [[magsäck]] (胃)
+- 同义词: [[buk]] (腹部)
+- 反义词: —
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

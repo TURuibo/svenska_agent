@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "学校结业典礼"
 en: "school closing ceremony"
-synonyms: []
+synonyms: [terminsavslutning]
 antonyms: [skolstart]
 family: [skola, avslutning, avsluta]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
@@ -23,6 +23,9 @@ interval: 0
 # skolavslutning — substantiv (en)
 
 📖 中文：学校结业典礼 · English: school closing ceremony
+
+🇸🇪 Förklaring: fest eller ceremoni på den sista dagen innan sommarlovet eller jullovet börjar
+
 发音提示：SKO-la-v-slut-ning，复合词，重音在第一成分。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skola]] (en, 学校), [[avslutning]] (en, 结束/结业), [[avsluta]] (v. 结束)
-- 同义词: —
+- 同义词: [[terminsavslutning]] (学期结业)
 - 反义词: [[skolstart]] (en, 开学)
 - 主题: [[topic-nyheter-vecka22]], [[topic-skola-och-utbildning]]
 

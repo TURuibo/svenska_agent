@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "迫使；强迫"
 en: "to force; to compel"
-synonyms: ["pressa", "nödga"]
+synonyms: [pressa, nödga]
 antonyms: []
-family: ["tvång", "tvångsmässig"]
+family: [tvång, tvångsmässig]
 topics: []
 sentences: ["sent-maten-haller-sig-inte-kall"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tvinga — verb (grupp 1)
 
 📖 中文：迫使；强迫 · English: to force; to compel
+
+🇸🇪 Förklaring: få någon att göra något som han eller hon inte vill
+
 发音提示：[ˈtvɪŋa] — "TVING-a"
 
 ## 语法变形 (Forms)
@@ -52,7 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tvång]] (强迫/强制), [[tvångsmässig]] (强迫性的)
-- 同义词: [[pressa]]
+- 同义词: [[pressa]], [[nödga]]
+- 反义词: —
 - 主题: [[grammar-passiv-med-s]]
 
 ## 用法提示 (Usage Notes)

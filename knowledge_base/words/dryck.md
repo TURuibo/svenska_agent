@@ -9,7 +9,7 @@ zh: "饮料"
 en: "drink; beverage"
 synonyms: [dricka]
 antonyms: []
-family: [dricka, drickbar, läskedryck, alkoholdryck]
+family: [dricka, läskedryck, drickbar, alkoholdryck]
 topics: [topic-mat-och-dryck]
 sentences: [sent-mat-och-dryck-bjuds-det]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # dryck — substantiv (en)
 
 📖 中文：饮料 · English: drink; beverage
+
+🇸🇪 Förklaring: vätska som man tar i munnen och sväljer, till exempel vatten, juice eller kaffe
+
 发音提示：/dryk/；短元音，ck 发 /k/。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[dricka]] (v. 喝), [[läskedryck]] (en, 软饮料)
+- 词族: [[dricka]] (v. 喝), [[läskedryck]] (en, 软饮料), [[drickbar]], [[alkoholdryck]]
 - 同义词: [[dricka]] (en, 饮料/喝的东西，更口语化)
 - 反义词: —
 - 主题: [[topic-mat-och-dryck]]

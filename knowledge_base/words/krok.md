@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "挂钩（孩子专属的衣钩）"
 en: "hook, peg"
-synonyms: []
+synonyms: [knagg]
 antonyms: []
-family: []
+family: [klädkrok, fiskekrok, krokig]
 topics: [topic-förskola-vardag]
 sentences: [sent-jag-har-hängt-upp-overallen-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # krok — substantiv
 
 📖 中文：挂钩（孩子专属的衣钩） · English: hook, peg
+
+🇸🇪 Förklaring: böjd bit av metall eller plast som man hänger t.ex. kläder på
+
 发音提示：/kruːk/，o 读长音 [uː]，像英语 "crook"。
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[klädkrok]] (衣钩), [[fiskekrok]] (鱼钩), [[krokig]] (弯曲的)
+- 同义词: [[knagg]] (挂衣钉)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

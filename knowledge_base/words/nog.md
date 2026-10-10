@@ -7,8 +7,8 @@ genus: ""
 cefr: A2
 zh: "大概；应该；足够（情态副词）"
 en: "probably; I suppose; enough (modal particle / adverb)"
-synonyms: ["väl", "troligtvis"]
-antonyms: []
+synonyms: [väl, troligtvis, tillräcklig]
+antonyms: [knappast]
 family: []
 topics: ["topic-satsadverbial"]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # nog — satsadverbial
 
 📖 中文：大概；应该；足够 · English: probably; I suppose; enough
+
+🇸🇪 Förklaring: 1) används för att visa att man tror att något är sant men inte är helt säker; 2) tillräckligt
+
 发音提示：/nuːɡ/
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: [[väl]] (吧), troligtvis (很可能); 「足够」义 ≈ [[tillräcklig]]
+- 词族: —
+- 同义词: [[väl]] (吧), [[troligtvis]] (很可能), 「足够」义 ≈ [[tillräcklig]]
+- 反义词: [[knappast]] (几乎不)
 - 主题: [[topic-satsadverbial]]
 
 ## 用法提示 (Usage Notes)

@@ -6,10 +6,9 @@ verbgrupp: "2"
 cefr: A2
 zh: "提高；举起；加（息）"
 en: "to raise; to increase"
-synonyms:
-  - "[[öka]]"
-antonyms: []
-family: []
+synonyms: [öka]
+antonyms: [sänka]
+family: [höjning, höjd]
 topics:
   - "[[topic-samhälle-och-politik]]"
 sentences:
@@ -25,6 +24,9 @@ interval: 0
 # höja — verb (grupp 2)
 
 📖 中文：提高；举起；加（息） · English: to raise; to increase
+
+🇸🇪 Förklaring: lyfta något uppåt; göra något större, till exempel ett pris, en lön eller en ränta
+
 发音提示：["høːja]
 
 ## 语法变形 (Forms)
@@ -52,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: höjning（名词，提高/加息）、höjd（高度，形容词"高的"）
+- 词族: [[höjning]]（名词，提高/加息）, [[höjd]]（高度，形容词"高的"）
 - 同义词: [[öka]]（增加）
-- 反义词: sänka（降低）
+- 反义词: [[sänka]]（降低）
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

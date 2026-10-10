@@ -8,7 +8,7 @@ zh: "蜜蜂"
 en: "bee"
 synonyms: []
 antonyms: []
-family: ["bikupa", "biodling", "honung"]
+family: [bikupa, honung, biodling]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bi — substantiv (ett)
 
 📖 中文：蜜蜂 · English: bee
+
+🇸🇪 Förklaring: liten flygande insekt som gör honung och kan sticka
+
 发音提示：/biː/
 
 ## 语法变形 (Forms)

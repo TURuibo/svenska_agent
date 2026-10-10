@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "暂停比赛（的时期）"
 en: "competition break"
-synonyms: []
+synonyms: [tävlingspaus]
 antonyms: []
 family: [tävla, tävling]
 topics: [topic-idrott]
@@ -23,6 +23,9 @@ interval: 0
 # tävlingsuppehåll — substantiv
 
 📖 中文：暂停比赛（的时期） · English: competition break
+
+🇸🇪 Förklaring: period då en idrottare eller ett lag inte deltar i några matcher eller lopp
+
 发音提示：TÄV-lings-upp-e-håll
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tävla]]（比赛，动词，已存在）, [[tävling]]（比赛，名词，已存在）
-- 同义词: —
+- 同义词: [[tävlingspaus]] (比赛暂停)
 - 反义词: —
 - 主题: [[topic-idrott]]
 

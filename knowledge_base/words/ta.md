@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: A1
 zh: 拿、取；做出(决定)
 en: to take
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gripa, fatta]
+antonyms: [ge, lämna]
+family: [ta-emot, anta, åta-sig]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # ta — verb (grupp 4)
 
 📖 中文：拿、取；做出(决定) · English: to take
+
+🇸🇪 Förklaring: gripa om något med handen och hålla eller flytta det; fatta till exempel ett beslut
+
 发音提示：/tɑː/；tog /tuːɡ/
 
 ## 语法变形 (Forms)
@@ -64,9 +67,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[ta-emot|ta emot]] (接收), [[anta]] (假设；采纳), [[åta-sig|åta sig]] (承担)
+- 同义词: [[gripa]] (抓住), [[fatta]] (做出(决定))
+- 反义词: [[ge]] (给), [[lämna]] (交出)
 - 主题:
 
 ## 用法提示 (Usage Notes)

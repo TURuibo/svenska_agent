@@ -9,7 +9,7 @@ zh: "用 Swish 转账"
 en: "to pay via Swish"
 synonyms: [betala]
 antonyms: []
-family: []
+family: [swish]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-vi-samlar-in-till-en-present, sent-swishat]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # swisha — verb (grupp 1)
 
 📖 中文：用 Swish 转账 · English: to pay via Swish
+
+🇸🇪 Förklaring: skicka pengar direkt till någon med en svensk betalapp i mobilen
+
 发音提示：/ˈswɪʃa/ — 英语外来词，*sw-* 照英语读，规则 -ar 动词。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: Swish（app 名）
+- 词族: [[swish|Swish]]（app 名）
 - 同义词: [[betala]]（泛指付钱）
 - 反义词: —
 - 主题: [[topic-föräldrasmåprat]] · [[topic-förskola-vardag]]

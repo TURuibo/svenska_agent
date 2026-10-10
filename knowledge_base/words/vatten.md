@@ -9,7 +9,7 @@ zh: "水；水边"
 en: "water"
 synonyms: []
 antonyms: []
-family: []
+family: [vattenfall, dricksvatten, vattenkran]
 topics: [topic-hemmet]
 sentences:
   - sent-sen-gar-du-rakt-fram-langs-vattnet
@@ -25,6 +25,9 @@ interval: 0
 # vatten — substantiv (ett)
 
 📖 中文：水；水边 · English: water
+
+🇸🇪 Förklaring: klar vätska utan färg och smak som finns i sjöar, hav och regn; sjö eller hav
+
 发音提示：VAT-ten；双写 tt，重音在首音节。
 
 ## 语法变形 (Forms)

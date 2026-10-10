@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "班级"
 en: "class"
-synonyms: []
+synonyms: [skolklass]
 antonyms: []
-family: []
+family: [klassrum, klasskompisar]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # klass — substantiv (en-ord)
 
 📖 中文：班级 · English: class
+
+🇸🇪 Förklaring: grupp elever som går i samma årskurs och har lektioner tillsammans
+
 发音提示：KLASS
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klassrum]], [[klasskompisar]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[skolklass]] (班级)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

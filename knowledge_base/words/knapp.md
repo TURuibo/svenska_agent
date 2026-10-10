@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: B1
 zh: 勉强的；刚刚
 en: scant, barely
-synonyms: []
-antonyms: []
+synonyms: [snäv, begränsad]
+antonyms: [riklig]
 family: [knappa]
 topics: []
 sentences: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 
 📖 中文：不足的、勉强的；`knappt` = 几乎不、刚刚 · English: scant; `knappt` = barely
 ⚠️ 同形异义：名词 `en knapp`（按钮/纽扣；复数 knappar）。
+
+🇸🇪 Förklaring: som nätt och jämnt räcker eller precis når upp till något
+
+发音提示：/knapː/ — kn 中的 k 要发音；a 读短音
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[knappa]]
-- 同义词:
-- 反义词:
+- 同义词: [[snäv]] (紧的；勉强的), [[begränsad]] (有限的)
+- 反义词: [[riklig]] (充足的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

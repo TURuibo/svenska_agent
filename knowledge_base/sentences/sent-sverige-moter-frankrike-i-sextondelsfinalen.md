@@ -1,7 +1,7 @@
 ---
 type: sentence
 sentence: "Sverige möter Frankrike i sextondelsfinalen i fotbolls-VM."
-zh: "瑞典将在足球世界杯十六强赛中对阵法国。"
+zh: "瑞典将在足球世界杯三十二强赛中对阵法国。"
 cefr: "A2"
 words: []
 phrases: []
@@ -17,7 +17,7 @@ interval: 0
 
 # 🇸🇪 Sverige möter Frankrike i sextondelsfinalen i fotbolls-VM.
 
-🇨🇳 瑞典将在足球世界杯十六强赛中对阵法国。
+🇨🇳 瑞典将在足球世界杯三十二强赛中对阵法国。
 
 ## 结构 (Structure)
 

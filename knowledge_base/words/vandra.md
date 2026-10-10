@@ -7,10 +7,9 @@ genus: ""
 cefr: A2
 zh: "徒步/漫步"
 en: "to hike, to walk (through nature)"
-synonyms:
-  - "[[promenera]]"
+synonyms: [promenera]
 antonyms: []
-family: []
+family: [vandring, vandrare, vandringsled]
 topics:
   - "[[topic-allemansratten]]"
   - "[[topic-fritid-och-resor]]"
@@ -27,6 +26,9 @@ interval: 0
 # vandra — verb
 
 📖 中文：徒步/漫步 · English: to hike, to walk (through nature)
+
+🇸🇪 Förklaring: gå en lång sträcka till fots, ofta ute i naturen
+
 发音提示：/ˈvandrɑ/；-a 为弱化尾音
 
 ## 语法变形 (Forms)
@@ -56,7 +58,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[vandring]] (徒步), [[vandrare]] (徒步者), [[vandringsled]] (徒步路线)
 - 同义词: [[promenera]]（散步，通常指城市/短距离）
 - 反义词: —
 - 主题: [[topic-allemansratten]]、[[topic-fritid-och-resor]]

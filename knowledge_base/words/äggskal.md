@@ -23,6 +23,9 @@ interval: 0
 # äggskal — substantiv
 
 📖 中文：蛋壳 · English: eggshell
+
+🇸🇪 Förklaring: det hårda yttre skyddet runt ett ägg
+
 发音提示：EGG-skal（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ägg]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 主题: [[topic-mat-dryck]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]

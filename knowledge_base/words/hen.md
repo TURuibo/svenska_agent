@@ -18,6 +18,10 @@ created: "2026-10-01"
 
 📖 中文：他/她（不指明性别） · English: gender-neutral "they"
 
+🇸🇪 Förklaring: pronomen som används om en person när man inte vet eller inte vill säga om det är en kvinna eller en man
+
+发音提示：/hɛn/ — e 读短音 ɛ，单音节
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

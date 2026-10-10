@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 队伍、排队；（交通）拥堵
 en: queue, line; traffic jam
-synonyms: []
+synonyms: [rad, trafikstockning]
 antonyms: []
-family: ["köa"]
+family: [köa]
 topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kö — substantiv (en)
 
 📖 中文：队伍、排队；（交通）拥堵 · English: queue, line; traffic jam
+
+🇸🇪 Förklaring: rad av människor eller fordon som väntar på sin tur
+
 发音提示：KÖ (rhymes with "cue")
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[köa]]
+- 同义词: [[rad]] (排), [[trafikstockning]] (交通堵塞)
+- 反义词: —
 - 主题: [[topic-trafik]], [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

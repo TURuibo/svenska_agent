@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: "A2"
 zh: "来得及；有时间做；赶上"
 en: "to have time to; to manage to; to make it"
-synonyms: []
-antonyms: []
-family: [hinnig, hinderslös]
+synonyms: [klara]
+antonyms: [missa, komma-för-sent]
+family: [hinna-med, hinna-ikapp]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hinna — verb
 
 📖 中文：来得及；有时间做；赶上 · English: to have time to; to manage to; to make it
+
+🇸🇪 Förklaring: ha tillräckligt med tid för att göra något; komma fram i tid till något
+
 发音提示：HIN-na（短促，重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[hinna-med|hinna med]] (来得及做), [[hinna-ikapp|hinna ikapp]] (赶上)
+- 同义词: [[klara]] (设法做到)
+- 反义词: [[missa]] (错过), [[komma-för-sent|komma för sent]] (迟到)
 - 主题: []
 
 ## 用法提示 (Usage Notes)

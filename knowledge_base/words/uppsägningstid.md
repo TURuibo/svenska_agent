@@ -8,7 +8,7 @@ zh: "通知期限"
 en: "notice period"
 synonyms: []
 antonyms: []
-family: ["uppsägning", "tid"]
+family: [uppsägning, tid]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # uppsägningstid — substantiv (en-ord)
 
 📖 中文：通知期限 · English: notice period
+
+🇸🇪 Förklaring: den tid som går från att ett avtal sägs upp tills det slutar gälla
+
 发音提示：UPP-säg-nings-tid
 
 ## 语法变形 (Forms)

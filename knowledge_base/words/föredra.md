@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "更喜欢；偏好"
 en: "to prefer"
-synonyms: []
+synonyms: [prioritera, favorisera]
 antonyms: []
-family: []
+family: [dra, föredrag]
 topics: []
 sentences:
   - sent-jag-föredrar-fisken-vad-säger-du
@@ -24,6 +24,9 @@ interval: 0
 # föredra — verb
 
 📖 中文：更喜欢；偏好 · English: to prefer
+
+🇸🇪 Förklaring: hellre vilja ha eller göra en sak än en annan
+
 发音提示：/ˈføːrɛˌdrɑː/
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[dra]] (拉), [[föredrag]] (演讲)
+- 同义词: [[prioritera]] (优先考虑), [[favorisera]] (偏爱)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

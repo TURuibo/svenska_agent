@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: A1
 zh: 想要
 en: to want
-synonyms: []
+synonyms: [önska, ha-lust]
 antonyms: []
-family: []
+family: [villig, ovillig, frivillig, viljestark]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # vilja — verb (oregelbundet)
 
 📖 中文：想要 · English: to want
+
+🇸🇪 Förklaring: ha en önskan att göra eller få något
+
 发音提示：/ˈvɪlja/；vill /vɪl/；ville /ˈvɪlɛ/
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[villig]] (愿意的), [[ovillig]] (不情愿的), [[frivillig]] (自愿的), [[viljestark]] (意志坚强的)
+- 同义词: [[önska]] (希望), [[ha-lust|ha lust]] (有兴致)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

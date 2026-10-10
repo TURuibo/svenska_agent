@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "幼教老师"
 en: "educator"
-synonyms: ["lärare"]
+synonyms: [lärare]
 antonyms: []
-family: ["pedagogik", "pedagogisk"]
+family: [pedagogik, pedagogisk]
 topics: ["topic-familj-och-barn", "topic-skola-och-utbildning"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # pedagog — substantiv (en)
 
 📖 中文：幼教老师 · English: educator
+
+🇸🇪 Förklaring: person som arbetar med att undervisa och ta hand om barn, till exempel i förskolan
+
 发音提示：pe-da-GOG
 
 ## 语法变形 (Forms)
@@ -43,8 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[pedagogik]]（教育学）
+- 词族: [[pedagogik]]（教育学）, [[pedagogisk]]
 - 同义词: [[lärare]]（老师，更通用）
+- 反义词: —
 - 主题: [[topic-familj-och-barn]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

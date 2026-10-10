@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "围绕，环绕"
 en: "to surround, to encircle"
-synonyms: ["omge", "omringa"]
+synonyms: [omge, omringa]
 antonyms: []
-family: ["gärda", "gärdsgård"]
+family: [gärda, gärdsgård]
 topics: ["topic-geografi-natur"]
 sentences: ["sent-visby-omgärdas-av-en-34-kilometer"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # omgärda — verb (grupp 1)
 
 📖 中文：围绕，环绕 · English: to surround, to encircle
+
+🇸🇪 Förklaring: sätta något runt ett område eller finnas runt det, som ett staket
+
 发音提示：[ˈɔmˌjæːrda]
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gärda]], [[gärdsgård]]
 - 同义词: [[omge]], [[omringa]]
+- 反义词: —
 - 主题: [[topic-geografi-natur]]
 
 ## 用法提示 (Usage Notes)

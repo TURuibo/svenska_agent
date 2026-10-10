@@ -7,9 +7,9 @@ genus: ett
 cefr: "A2"
 zh: "旅游胜地，旅游目的地"
 en: "tourist destination"
-synonyms: ["resmål", "destination"]
+synonyms: [resmål, destination]
 antonyms: []
-family: ["turist", "mål"]
+family: [turist, mål]
 topics: ["topic-stockholm"]
 sentences:
   - sent-miljoner-turister-besöker-staden-varje-år
@@ -24,6 +24,9 @@ interval: 0
 # turistmål — substantiv
 
 📖 中文：旅游胜地，旅游目的地 · English: tourist destination
+
+🇸🇪 Förklaring: plats som många resenärer vill åka till och besöka
+
 发音提示：tu-RIST-mål（复合词：turist + mål）
 
 ## 语法变形 (Forms)
@@ -51,7 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[turist]], [[mål]]
-- 同义词: `resmål` (旅行目的地), `destination` (目的地)
+- 同义词: [[resmål]] (旅行目的地), [[destination]] (目的地)
+- 反义词: —
 - 主题: [[topic-stockholm]]
 
 ## 用法提示 (Usage Notes)

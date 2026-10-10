@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: "包裹；小包"
 en: "package, parcel"
-synonyms: []
+synonyms: [försändelse]
 antonyms: []
-family: []
+family: [paketera, postpaket, paketombud]
 topics: ["topic-barnkalas"]
 sentences: [sent-max-ar-valkommen-att-ta]
 known: false
@@ -18,6 +18,10 @@ created: 2026-10-09
 # paket — substantiv (ett-ord)
 
 📖 中文：包裹；小包 · English: package, parcel
+
+🇸🇪 Förklaring: sak som är inslagen i papper eller packad i en låda och som skickas eller ges bort
+
+发音提示：/paˈkeːt/ — 重音在第二音节 -ket
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: 2026-10-09
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[paketera]] (包装), [[postpaket]] (邮包), [[paketombud]] (包裹代收点)
+- 同义词: [[försändelse]] (寄件)
+- 反义词: —
 - 主题: [[topic-barnkalas]]
 
 ## 用法提示 (Usage Notes)

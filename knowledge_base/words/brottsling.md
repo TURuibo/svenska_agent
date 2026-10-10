@@ -7,7 +7,7 @@ genus: en
 cefr: B1
 zh: "罪犯"
 en: "criminal"
-synonyms: []
+synonyms: [förbrytare, kriminell]
 antonyms: []
 family: [brott, brottslig]
 topics: [topic-samhälle-och-politik]
@@ -25,6 +25,9 @@ interval: 0
 # brottsling — substantiv
 
 📖 中文：罪犯 · English: criminal
+
+🇸🇪 Förklaring: person som har gjort något som är olagligt
+
 发音提示：[BROTTS-ling]
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[brott]], [[brottslig]]
+- 同义词: [[förbrytare]] (罪犯), [[kriminell]] (犯罪分子)
+- 反义词: —
 - 相关: [[misstänkt]]
 - 主题: [[topic-samhälle-och-politik]]
 

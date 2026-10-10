@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "文章；条款"
 en: "article"
-synonyms: []
+synonyms: [text, paragraf]
 antonyms: []
-family: []
+family: [tidningsartikel, artikelserie]
 topics: []
 sentences: [sent-deras-kamp-var-fredlig-och]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # artikel — substantiv
 
 📖 中文：文章；条款 · English: article
-发音提示：
+
+🇸🇪 Förklaring: text i en tidning eller på nätet; en del i en lag eller ett avtal
+
+发音提示：/aˈʈɪkːɛl/ — 重音在 tik；rt 合成卷舌音 ʈ
 
 ## 语法变形 (Forms)
 
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[tidningsartikel]] (报纸文章), [[artikelserie]] (系列文章)
+- 同义词: [[text]] (文本), [[paragraf]] (条款)
 - 反义词: —
 - 主题: —
 

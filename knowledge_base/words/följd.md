@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "后果；结果"
 en: "consequence; result"
-synonyms: []
-antonyms: ["orsak"]
-family: ["följa", "följaktligen"]
+synonyms: [konsekvens, resultat]
+antonyms: [orsak]
+family: [följa, följaktligen]
 topics: ["topic-argumentation"]
 sentences: ["sent-en-följd-kan-bli-att"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-07"
 # följd — substantiv
 
 📖 中文：后果 · English: consequence
+
+🇸🇪 Förklaring: något som händer på grund av något annat
+
 发音提示：föld（lj 不发音，近似 "följ-d"），实际读 [följ]
 
 ## 语法变形 (Forms)
@@ -41,6 +44,8 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[följa]], [[följaktligen]]
+- 同义词: [[konsekvens]] (后果), [[resultat]] (结果)
 - 反义词: [[orsak]]（原因）
 - 主题: [[topic-argumentation]]
 

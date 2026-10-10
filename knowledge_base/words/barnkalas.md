@@ -19,6 +19,9 @@ created: "2026-09-26"
 # barnkalas — substantiv (ett)
 
 📖 中文：儿童生日会 · English: children's birthday party
+
+🇸🇪 Förklaring: fest för barn, ofta när ett barn fyller år
+
 发音提示：/ˈbɑːrnˌkɑːlas/ — 重音在 **barn**，`kalas` 的 a 都是长音；复合词 barn + kalas。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kalas]] · [[barn]] · [[födelsedag]]
+- 词族: [[kalas]] · [[barn]] · [[födelsedag]], [[barn]] (孩子), [[födelsedag]] (生日)
 - 同义词: [[kalas]]（口语里常简称 kalas / kalaset）
+- 反义词: —
 - 主题: [[topic-föräldrasmåprat]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

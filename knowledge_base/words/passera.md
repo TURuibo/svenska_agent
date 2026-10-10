@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "经过；路过；通过"
 en: "to pass; to go past"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gå-förbi]
+antonyms: [stanna]
+family: [passage]
 topics:
   - topic-riktningar
 sentences: []
@@ -24,6 +24,9 @@ interval: 0
 # passera — verb
 
 📖 中文：经过；路过；通过 · English: to pass / to go past
+
+🇸🇪 Förklaring: gå, åka eller komma förbi något eller någon
+
 发音提示：[paˈseːra] — 三音节，重音在第二音节
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 
 - 词族: [[passage]] (en passage — 通道)
 - 同义词: [[gå-förbi]] (路过)
-- 反义词: —
+- 反义词: [[stanna]] (停下)
 - 主题: [[topic-riktningar]]
 
 ## 用法提示 (Usage Notes)

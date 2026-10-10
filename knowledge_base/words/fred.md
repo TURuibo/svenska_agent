@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 和平
 en: peace
-synonyms: []
+synonyms: [frid]
 antonyms: [krig]
-family: []
+family: [fredlig, fredspris]
 topics: [topic-krig-och-konflikt]
 sentences:
   - sent-usa-och-iran-har-pratat-om-fred
@@ -25,6 +25,9 @@ interval: 0
 # fred — substantiv (en)
 
 📖 中文：和平 · English: peace
+
+🇸🇪 Förklaring: tillstånd när det inte är krig eller strid mellan länder eller grupper
+
 发音提示：/freːd/，单音节词
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[fredlig]] (和平的), [[fredspris]] (和平奖)
+- 同义词: [[frid]] (安宁)
 - 反义词: [[krig]]
 - 主题: [[topic-krig-och-konflikt]]
 

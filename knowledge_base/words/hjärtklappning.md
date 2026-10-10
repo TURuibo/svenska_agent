@@ -7,7 +7,7 @@ genus: "en"
 cefr: "C1"
 zh: "心悸"
 en: "heart palpitation"
-synonyms: []
+synonyms: [arytmi]
 antonyms: []
 family: [hjärta, klappa, hjärtslag]
 topics: [topic-nyheter-vecka22, topic-hälsa]
@@ -23,6 +23,9 @@ interval: 0
 # hjärtklappning — substantiv (en)
 
 📖 中文：心悸 · English: heart palpitation
+
+🇸🇪 Förklaring: känsla av att pulsen slår hårt, snabbt eller ojämnt i bröstet
+
 发音提示：HJÄRT-klapp-ning，三个音节，hj- 发 /j/ 音。
 
 ## 语法变形 (Forms)

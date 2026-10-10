@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ansvarspedagog — substantiv
 
 📖 中文：责任老师（负责某个孩子的老师） · English: key person, responsible teacher
+
+🇸🇪 Förklaring: förskollärare som tar extra hand om ett visst barn och har kontakt med barnets familj
+
 发音提示：/ˈanːsvaːrspedaˌɡoːɡ/ — 重音在 an-，pedagog 尾音 -gog 读 /ɡoːɡ/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förskollärare]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

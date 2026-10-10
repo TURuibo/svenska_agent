@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 疾病
 en: disease, illness
-synonyms: []
+synonyms: [åkomma]
 antonyms: [hälsa]
 family: [sjuk, sjukhus, sjuksköterska]
 topics: [topic-hälsa]
@@ -22,6 +22,9 @@ interval: 0
 # sjukdom — substantiv (en)
 
 📖 中文：疾病 · English: disease, illness
+
+🇸🇪 Förklaring: fel eller störning i kroppen eller själen som gör att man inte mår bra
+
 发音提示：/ˈɧʉːkdɔmː/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sjuk]], [[sjukhus]], [[sjuksköterska]]
-- 同义词:
+- 同义词: [[åkomma]] (病症)
 - 反义词: [[hälsa]]
 - 主题: [[topic-hälsa]]
 

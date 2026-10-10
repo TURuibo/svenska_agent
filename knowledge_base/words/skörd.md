@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "收成"
 en: "harvest"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [avkastning]
+antonyms: [sådd]
+family: [skörda, skördetid, skördefest]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # skörd — substantiv
 
 📖 中文：收成 · English: harvest
-发音提示：
+
+🇸🇪 Förklaring: det att man samlar in säd, frukt eller grönsaker när de är mogna; det som man samlar in
+
+发音提示：/ɧœːɖ/ — skö 读 ɧ；ö 在 r 前读 œ，rd 卷舌
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[skörda]] (收获), [[skördetid]] (收获季), [[skördefest]] (丰收节)
+- 同义词: [[avkastning]] (产量)
+- 反义词: [[sådd]] (播种)
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

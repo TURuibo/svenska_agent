@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: 要求
 en: demand, requirement
-synonyms: []
+synonyms: [villkor, fordran]
 antonyms: []
-family: []
+family: [kräva, kravlös, behörighetskrav]
 topics: [topic-idrott, topic-arbete-och-jobb]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # krav — substantiv (ett)
 
 📖 中文：要求 · English: demand, requirement
+
+🇸🇪 Förklaring: något som någon bestämt säger att man måste göra, ha eller uppfylla
+
 发音提示：/krɑːv/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[kräva]] (要求), [[kravlös]] (无要求的), [[behörighetskrav]] (资格要求)
+- 同义词: [[villkor]] (条件), [[fordran]] (要求)
+- 反义词: —
 - 主题: [[topic-idrott]]、[[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

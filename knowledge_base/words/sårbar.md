@@ -5,12 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "脆弱的；易受伤害的"
 en: "vulnerable"
-synonyms:
-  - känslig
-antonyms:
-  - stark
-family:
-  - sårbarhet
+synonyms: [känslig]
+antonyms: [stark]
+family: [sårbarhet]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -26,6 +23,9 @@ interval: 0
 # sårbar — adjektiv
 
 📖 中文：脆弱的；易受伤害的 · English: vulnerable
+
+🇸🇪 Förklaring: som lätt kan bli skadad, sjuk eller ledsen
+
 发音提示：/SÅR-bar/
 
 ## 语法变形 (Forms)
@@ -49,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sårbarhet（脆弱性）
-- 同义词: känslig（敏感的；易受影响的）
-- 反义词: stark（坚强的）
+- 词族: [[sårbarhet]]（脆弱性）
+- 同义词: [[känslig]]（敏感的；易受影响的）
+- 反义词: [[stark]]（坚强的）
 - 主题: [[topic-samhälle-och-politik]]

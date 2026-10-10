@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 开头；引言
 en: introduction
-synonyms: []
-antonyms: []
-family: []
+synonyms: [början, introduktion]
+antonyms: [avslutning, slut]
+family: [inleda, inledande, leda]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-börja-med-en-kort-inledning]
 source: source-2026-10-09-komvux-kursstart
@@ -19,6 +19,10 @@ created: "2026-10-09"
 # inledning — substantiv en
 
 📖 中文：开头；引言 · English: introduction
+
+🇸🇪 Förklaring: första delen av en text, ett tal eller ett möte
+
+发音提示：/ˈɪnˌleːdnɪŋ/ — 重音在 in；e 读长音 eː
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[inleda]] (开始), [[inledande]] (开头的), [[leda]] (领导)
+- 同义词: [[början]] (开头), [[introduktion]] (介绍)
+- 反义词: [[avslutning]] (结尾), [[slut]] (结束)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

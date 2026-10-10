@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "脏话"
 en: "swear word"
-synonyms: []
+synonyms: [fult-ord, kraftuttryck]
 antonyms: []
-family: ["svära"]
+family: [svära]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # svordom — substantiv (en)
 
 📖 中文：脏话 · English: swear word
+
+🇸🇪 Förklaring: fult ord som man säger när man är arg, har ont eller blir förvånad
+
 发音提示：SVOR-dom
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[svära]]（骂人；发誓，动词）
+- 同义词: [[fult-ord|fult ord]] (脏话), [[kraftuttryck]] (粗话)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

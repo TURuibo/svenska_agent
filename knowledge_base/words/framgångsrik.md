@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "成功的"
 en: "successful"
-synonyms: []
-antonyms: []
+synonyms: [lyckad]
+antonyms: [misslyckad]
 family: [framgång]
 topics: [topic-idrott]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # framgångsrik — adjektiv
 
 📖 中文：成功的 · English: successful
+
+🇸🇪 Förklaring: som lyckas bra och når goda resultat i det man gör
+
 发音提示：FRAM-gångs-rik
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[framgång]]（成功，名词，尚无笔记）
-- 同义词: —
-- 反义词: —
+- 同义词: [[lyckad]] (成功的)
+- 反义词: [[misslyckad]] (失败的)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "奇特的，奇妙的"
 en: "remarkable, strange, curious"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [underlig, konstig, egendomlig]
+antonyms: [vanlig, normal]
+family: [märka, märke]
 topics: []
 sentences: ["sent-i-kiruna-som-ligger-norr-om-polcirkeln"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # märklig — adjektiv
 
 📖 中文：奇特的，奇妙的 · English: remarkable, strange, curious
+
+🇸🇪 Förklaring: som är ovanlig på ett sätt som väcker förvåning eller intresse
+
 发音提示：['mærklɪg]
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: märka（注意到），märke（标记）
-- 同义词: underlig（奇怪的），konstig（奇怪的），egendomlig（奇特的）
-- 反义词: vanlig（普通的），normal（正常的）
+- 词族: [[märka]]（注意到）, [[märke]]（标记）
+- 同义词: [[underlig]]（奇怪的）, [[konstig]]（奇怪的）, [[egendomlig]]（奇特的）
+- 反义词: [[vanlig]]（普通的）, [[normal]]（正常的）
 - 主题: —
 
 ## 用法提示 (Usage Notes)

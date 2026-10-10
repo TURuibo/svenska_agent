@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "扔；投掷；丢弃"
 en: "to throw; to toss; to discard"
-synonyms: [kasta bort, slänga]
-antonyms: []
+synonyms: [kasta-bort, slänga]
+antonyms: [fånga, behålla]
 family: [kastare, kast]
 topics: [topic-källsortering]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # kasta — verb (grupp 1)
 
 📖 中文：扔；投掷；丢弃 · English: to throw; to toss; to discard
+
+🇸🇪 Förklaring: få något att flyga genom luften med handen; göra sig av med något som man inte behöver
+
 发音提示：KAS-ta（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -56,6 +59,7 @@ interval: 0
 
 - 词族: [[kastare]], [[kast]]
 - 同义词: [[kasta-bort]], [[slänga]]
+- 反义词: [[fånga]] (接住), [[behålla]] (保留)
 - 主题: [[topic-källsortering]]
 
 ## 用法提示 (Usage Notes)

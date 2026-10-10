@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "面试、采访"
 en: "interview"
-synonyms: []
+synonyms: [utfrågning]
 antonyms: []
-family: []
+family: [intervjua, jobbintervju, anställningsintervju]
 topics: ["topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # intervju — substantiv (en-ord)
 
 📖 中文：面试、采访 · English: interview
+
+🇸🇪 Förklaring: samtal där någon ställer frågor till en person, till exempel för en tidning eller inför en anställning
+
 发音提示：IN-ter-vju
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[intervjua]] (采访；面试), [[jobbintervju]] (工作面试), [[anställningsintervju]] (求职面试)
+- 同义词: [[utfrågning]] (询问)
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

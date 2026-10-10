@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "时薪"
 en: "hourly wage"
-synonyms: ["lön"]
+synonyms: [lön]
 antonyms: []
-family: ["lön", "månadslön"]
+family: [lön, månadslön]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -19,6 +19,9 @@ created: "2026-10-03"
 # timlön — substantiv (en-ord)
 
 📖 中文：时薪 · English: hourly wage
+
+🇸🇪 Förklaring: lön som räknas per arbetad timme
+
 发音提示：TIM-lön
 
 ## 语法变形 (Forms)

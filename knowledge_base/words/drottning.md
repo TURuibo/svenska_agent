@@ -19,6 +19,9 @@ created: "2026-10-10"
 # drottning — substantiv (en)
 
 📖 中文：女王；王后 · English: queen
+
+🇸🇪 Förklaring: kvinna som är statschef i ett kungarike, eller som är gift med en kung
+
 发音提示：/ˈdrɔtnɪŋ/
 
 ## 语法变形 (Forms)
@@ -43,6 +46,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 相关: [[kung]]
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 

@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 运动员；球员
 en: player, athlete
-synonyms: []
+synonyms: [idrottare]
 antonyms: []
-family: ["spela", "lagkamrat", "motspelare"]
+family: [spela, lagkamrat, motspelare]
 topics: ["topic-fotboll"]
 sentences:
   - sent-den-svenska-spelaren-felicia-schroder
@@ -25,6 +25,9 @@ interval: 0
 # spelare — substantiv
 
 📖 中文：运动员；球员 · English: player, athlete
+
+🇸🇪 Förklaring: person som deltar i en match eller en tävling, ofta som medlem i ett lag
+
 发音提示：SPEL-a-re
 
 ## 语法变形 (Forms)
@@ -56,6 +59,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[spela]], [[lagkamrat]], [[motspelare]]
+- 同义词: [[idrottare]] (运动员)
+- 反义词: —
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

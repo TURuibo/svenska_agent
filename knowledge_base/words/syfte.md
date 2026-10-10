@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "目的"
 en: "purpose"
-synonyms: []
+synonyms: [mål, avsikt, ändamål]
 antonyms: []
-family: []
+family: [syfta, huvudsyfte]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # syfte — substantiv
 
 📖 中文：目的 · English: purpose
+
+🇸🇪 Förklaring: det man vill uppnå med något man gör
+
 发音提示： "syf-te"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[syfta]] (旨在；指), [[huvudsyfte]] (主要目的)
+- 同义词: [[mål]] (目标), [[avsikt]] (意图), [[ändamål]] (用途；目的)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

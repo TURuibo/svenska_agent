@@ -8,7 +8,7 @@ zh: "建筑垃圾"
 en: "construction waste"
 synonyms: []
 antonyms: []
-family: ["byggmaterial"]
+family: [byggmaterial]
 topics: ["topic-hemmet"]
 sentences:
   - sent-en-stor-container-för-byggavfall-står
@@ -23,6 +23,9 @@ interval: 0
 # byggavfall — substantiv (ett)
 
 📖 中文：建筑垃圾 · English: construction waste
+
+🇸🇪 Förklaring: skräp och rester av trä, sten och annat material som blir kvar när man uppför eller river hus
+
 发音提示：BYGG-av-fall，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[byggmaterial]]（同为 bygg- 复合词）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

@@ -26,6 +26,9 @@ interval: 0
 # förpackning — substantiv
 
 📖 中文：包装/包装容器 · English: packaging, package
+
+🇸🇪 Förklaring: låda, påse eller annat skydd som en vara säljs i
+
 发音提示：för-PACK-ning（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[packa]] (打包), förpacka (包装)
+- 词族: [[packa]] (打包), [[förpacka]] (包装)
 - 同义词: [[kartong]]
 - 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]

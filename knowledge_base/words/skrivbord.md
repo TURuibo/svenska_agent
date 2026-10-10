@@ -27,6 +27,9 @@ interval: 0
 # skrivbord — substantiv (ett)
 
 📖 中文：书桌；办公桌 · English: desk
+
+🇸🇪 Förklaring: bord med lådor som man sitter vid när man arbetar eller studerar
+
 发音提示：SKRIV-bord；två stavelser.
 
 ## 语法变形 (Forms)

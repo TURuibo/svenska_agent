@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "生理盐水鼻喷剂"
 en: "saline nasal spray"
-synonyms: []
+synonyms: [nässpray]
 antonyms: []
 family: [salt]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # koksaltspray — substantiv (en)
 
 📖 中文：生理盐水鼻喷剂 · English: saline nasal spray
+
+🇸🇪 Förklaring: spray med en lösning av salt och vatten som man sprutar i näsan när den är täppt
+
 发音提示：/ˈkuːkˌsaltˌsprɛj/ — koksalt（食盐/氯化钠）+ spray（英语借词，读 [sprɛj]）。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[salt]]
-- 同义词: —
+- 同义词: [[nässpray]] (鼻喷剂)
 - 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 

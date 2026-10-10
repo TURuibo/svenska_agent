@@ -6,12 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "立法者；立法机关"
 en: "legislator; lawmaker"
-synonyms:
-  - politiker
+synonyms: [politiker]
 antonyms: []
-family:
-  - lagstiftning
-  - lag
+family: [lagstiftning, lag]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # lagstiftare — substantiv en
 
 📖 中文：立法者；立法机关 · English: legislator; lawmaker
+
+🇸🇪 Förklaring: person eller grupp som har makten att besluta om nya regler för ett land, t.ex. riksdagen
+
 发音提示：/LAG-stif-ta-re/
 
 ## 语法变形 (Forms)
@@ -51,5 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: lagstiftning（立法/法规）· lag（法律）
+- 词族: [[lagstiftning]]（立法/法规）· lag（法律）, [[lag]]
+- 同义词: [[politiker]] (政治家)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]

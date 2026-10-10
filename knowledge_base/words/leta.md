@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A2
 zh: "寻找"
 en: "to search / to look for"
-synonyms: ["söka"]
-antonyms: []
-family: []
+synonyms: [söka]
+antonyms: [gömma]
+family: [letande, leta-reda-på]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # leta — verb
 
 📖 中文：寻找 · English: to search / to look for
+
+🇸🇪 Förklaring: försöka hitta något eller någon
+
 发音提示：['leːta]
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ Verbgrupp 1 (–ar). Regelbundet.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[letande]] (寻找), [[leta-reda-på|leta reda på]] (找出)
 - 同义词: [[söka]]
-- 反义词: —
+- 反义词: [[gömma]] (藏起来)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

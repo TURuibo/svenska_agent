@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "导致；引起"
 en: "to cause"
-synonyms: ["medföra"]
-antonyms: []
-family: ["orsak"]
+synonyms: [medföra]
+antonyms: [förhindra]
+family: [orsak]
 topics: ["topic-argumentation"]
 sentences: ["sent-det-kan-orsaka-dålig-hälsa"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-07"
 # orsaka — verb
 
 📖 中文：导致；引起 · English: to cause
+
+🇸🇪 Förklaring: vara anledningen till att något händer
+
 发音提示：UR-sa-ka，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -45,6 +48,7 @@ created: "2026-10-07"
 
 - 词族: [[orsak]]
 - 同义词: [[medföra]]
+- 反义词: [[förhindra]] (阻止)
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

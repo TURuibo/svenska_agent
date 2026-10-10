@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "风力发电机"
 en: "wind turbine"
-synonyms: []
+synonyms: [vindsnurra]
 antonyms: []
 family: [vind]
 topics: [topic-energi-och-transport]
@@ -23,6 +23,9 @@ interval: 0
 # vindkraftverk — substantiv (ett)
 
 📖 中文：风力发电机 · English: wind turbine
+
+🇸🇪 Förklaring: högt torn med stora rotorblad som gör el när det blåser
+
 发音提示：VIND-kraft-verk
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vind]]（风）
-- 同义词: —
+- 同义词: [[vindsnurra]] (风车（口语）)
 - 反义词: —
 - 主题: [[topic-energi-och-transport]]
 

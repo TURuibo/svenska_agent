@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 厨师
 en: cook, chef
-synonyms: []
+synonyms: [kökschef]
 antonyms: []
-family: []
+family: [kocka, mästerkock, kockmössa]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # kock — substantiv (en-ord)
 
 📖 中文：厨师 · English: cook, chef
+
+🇸🇪 Förklaring: person som lagar mat som yrke, t.ex. på en restaurang
+
+发音提示：/kɔkː/ — o 读短音 ɔ；ck 长
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[kocka]] (做饭（口语）), [[mästerkock]] (大厨), [[kockmössa]] (厨师帽)
+- 同义词: [[kökschef]] (厨师长)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "年轻人"
 en: "young person / youth"
-synonyms: [tonåring]
+synonyms: [ung-person, tonåring]
 antonyms: [pensionär, vuxen]
-family: [ung, ungdomstid]
+family: [ung, ungdomstid, ungdomsarbete]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ungdom — substantiv (en)
 
 📖 中文：年轻人 · English: young person / youth
+
+🇸🇪 Förklaring: person som inte längre är barn men inte heller är vuxen
+
 发音提示：UNG-dom，重音第一音节。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ung]] (adj. 年轻的), [[ungdomstid]] (en, 青春期), [[ungdomsarbete]] (ett, 青少年工作)
-- 同义词: [[ung person]] (年轻人), [[tonåring]] (en, 青少年/十几岁的人)
+- 同义词: [[ung-person|ung person]] (年轻人), [[tonåring]] (en, 青少年/十几岁的人)
 - 反义词: [[pensionär]] (en, 退休者/老年人), [[vuxen]] (en, 成年人)
 - 主题: [[topic-nyheter-vecka22]]
 

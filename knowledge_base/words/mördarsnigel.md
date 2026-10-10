@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "杀手蛞蝓；西班牙林蛞蝓"
 en: "killer slug, Spanish slug (Arion vulgaris)"
-synonyms: []
+synonyms: [spansk-skogssnigel]
 antonyms: []
-family: ["mördare", "snigel"]
+family: [mördare, snigel]
 topics: ["topic-djur"]
 sentences: ["sent-det-finns-farre-mordarsniglar", "sent-sniglarna-ater-upp-bade-gronsaker", "sent-men-sniglarna-trivs-bast-nar"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # mördarsnigel — substantiv
 
 📖 中文：杀手蛞蝓；西班牙林蛞蝓 · English: killer slug, Spanish slug (Arion vulgaris)
+
+🇸🇪 Förklaring: stort brunt blötdjur utan skal som äter upp växter i trädgårdar
+
 发音提示：MÖR-dar-snigel
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mördare]], [[snigel]]
-- 同义词:
-- 反义词:
+- 同义词: [[spansk-skogssnigel|spansk skogssnigel]] (西班牙林蛞蝓)
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

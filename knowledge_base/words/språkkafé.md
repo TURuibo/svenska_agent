@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: 语言咖啡角
 en: language café
-synonyms: []
+synonyms: [samtalsgrupp]
 antonyms: []
-family: []
+family: [språk, kafé, språkträning]
 topics: [topic-sfi-sprak-larande]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # språkkafé — substantiv (ett)
 
 📖 中文：语言咖啡角 · English: language café
+
+🇸🇪 Förklaring: träff, ofta på ett bibliotek, där man fikar och övar på att prata svenska eller ett annat nytt språk
+
 发音提示：/ˈsproːkˌkafeː/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[språk]] (语言), [[kafé]] (咖啡馆), [[språkträning]] (语言练习)
+- 同义词: [[samtalsgrupp]] (会话小组)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

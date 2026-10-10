@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "报警；发出警报"
 en: "to alert, alarm"
-synonyms: []
+synonyms: [varna, tillkalla]
 antonyms: []
-family: ["larm"]
+family: [larm]
 topics: ["topic-terrorism-och-brott"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # larma — verb (grupp 1)
 
 📖 中文：报警；发出警报 · English: to alert, alarm
+
+🇸🇪 Förklaring: slå larm och kalla på hjälp, t.ex. polis eller ambulans
+
 发音提示：[ˈlarːma]
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[larm]] (n, 警报/报警)
+- 同义词: [[varna]] (警告), [[tillkalla]] (召唤)
+- 反义词: —
 - 主题: [[topic-terrorism-och-brott]]
 
 ## 用法提示 (Usage Notes)

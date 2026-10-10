@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: A1
 zh: 走、去；(时间)过去；(事情)进行
 en: to go, walk
-synonyms: []
-antonyms: []
-family: []
+synonyms: [promenera, vandra]
+antonyms: [komma, stanna]
+family: [gång, fotgängare, gågata]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # gå — verb (oregelbundet)
 
 📖 中文：走、去；(时间)过去；(事情)进行 · English: to go, walk
+
+🇸🇪 Förklaring: 1) förflytta sig till fots; 2) bege sig till en plats; 3) om tid: passera; 4) om en sak: fungera eller utvecklas
+
 发音提示：/goː/（å 读作长 [oː]）；gick /jɪk/（g 在 i 前读 [j]）
 
 ## 语法变形 (Forms)
@@ -62,9 +65,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[gång]] (步行；次), [[fotgängare]] (行人), [[gågata]] (步行街)
+- 同义词: [[promenera]] (散步), [[vandra]] (徒步)
+- 反义词: [[komma]] (来), [[stanna]] (停下)
 - 主题:
 
 ## 用法提示 (Usage Notes)

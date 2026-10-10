@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "室内布置"
 en: "interior decoration"
-synonyms: []
+synonyms: [interiör, möblering]
 antonyms: []
-family: ["inreda"]
+family: [inreda]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # inredning — substantiv (en)
 
 📖 中文：室内布置 · English: interior decoration
+
+🇸🇪 Förklaring: möbler, färger och saker som man har inne i ett rum eller en bostad och hur de är ordnade
+
 发音提示：IN-red-ning
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[inreda]]（装饰、布置，动词）
+- 同义词: [[interiör]] (室内装饰), [[möblering]] (家具布置)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

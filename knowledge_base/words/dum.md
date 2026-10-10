@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "愚蠢的；笨的"
 en: "stupid; foolish; dumb"
-synonyms: []
-antonyms: ["klok"]
-family: ["dumhet"]
+synonyms: [korkad]
+antonyms: [klok]
+family: [dumhet]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # dum — adjektiv
 
 📖 中文：愚蠢的；笨的 · English: stupid; foolish; dumb
+
+🇸🇪 Förklaring: som inte tänker klokt eller har svårt att förstå
+
 发音提示：/dɵm/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: dumhet (愚蠢, substantiv)
-- 同义词: korkad (口语，更强烈)
+- 词族: [[dumhet]] (愚蠢, substantiv)
+- 同义词: [[korkad]] (口语，更强烈)
 - 反义词: [[klok]]
 - 主题: [[topic-karaktarsord]]
 

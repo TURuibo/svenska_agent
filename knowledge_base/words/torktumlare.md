@@ -8,7 +8,7 @@ zh: 烘干机；滚筒干衣机
 en: tumble dryer; clothes dryer
 synonyms: []
 antonyms: []
-family: [torka, tvättmaskin]
+family: [torka, tumlare, tvättmaskin]
 topics: [topic-hemmet]
 sentences: [sent-tom-luddfiltret-i-torktumlaren]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # torktumlare — substantiv (en)
 
 📖 中文：烘干机；滚筒干衣机 · English: tumble dryer; clothes dryer
+
+🇸🇪 Förklaring: maskin som gör tvätt torr med varm luft medan en trumma snurrar
+
 发音提示：TORK-tum-la-re，四音节，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: torka (to dry), tumlare (tumbler)
+- 词族: [[torka]] (to dry), [[tumlare]] (tumbler), [[tvättmaskin]] (洗衣机)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]]

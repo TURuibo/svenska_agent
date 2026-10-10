@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "优点；好处；优势"
 en: "advantage; benefit; pro"
-synonyms: []
-antonyms: ["nackdel"]
-family: []
+synonyms: [förmån, plus]
+antonyms: [nackdel]
+family: [fördelaktig, del]
 topics: []
 sentences: ["sent-men-ar-inte-lugnet-en-fordel"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fördel — substantiv (en)
 
 📖 中文：优点；好处；优势 · English: advantage; benefit; pro
+
+🇸🇪 Förklaring: något som är bra och gör att man har det lättare eller bättre än andra
+
 发音提示：FÖR-del（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: nackdel (缺点，disadvantage)
+- 词族: [[fördelaktig]] (有利的), [[del]] (部分)
+- 同义词: [[förmån]] (好处), [[plus]] (优点)
+- 反义词: [[nackdel]] (缺点，disadvantage)
 
 ## 用法提示 (Usage Notes)
 

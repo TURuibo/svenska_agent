@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "改变（自身）；发生变化"
 en: "to change (oneself/itself); to be changed"
 synonyms: [förändras, omvandlas]
-antonyms: []
+antonyms: [bestå, förbli]
 family: [ändra, ändring, förändring]
 topics: [topic-sfi-sprak-larande]
 sentences: [sent-nu-borjar-allt-andras-for-mig, sent-sverige-har-andrats-mycket-sedan]
@@ -23,6 +23,9 @@ interval: 0
 # ändras — verb (grupp 1, s-passiv / reflexivt)
 
 Zn: 改变（自身）；发生变化 · English: to change (oneself/itself); to be changed
+
+🇸🇪 Förklaring: bli annorlunda än förut
+
 发音提示：ÄND-ras（两个音节）
 
 ## 语法变形 (Forms)
@@ -52,8 +55,9 @@ Zn: 改变（自身）；发生变化 · English: to change (oneself/itself); to
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ändra]]（主动：改变某事）, ändring（变化；修改）, [[förändring]]（变化）
-- 同义词: [[förändras]]（发生变化）
+- 词族: [[ändra]]（主动：改变某事）, [[ändring]]（变化；修改）, [[förändring]]（变化）
+- 同义词: [[förändras]]（发生变化）, [[omvandlas]]
+- 反义词: [[bestå]] (持续不变), [[förbli]] (保持)
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

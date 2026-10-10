@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "满足；履行"
 en: "to fulfil"
-synonyms: []
-antonyms: []
+synonyms: [infria, leva-upp-till]
+antonyms: [svika]
 family: [fylla]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-man-måste-uppfylla-vissa-villkor]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # uppfylla — verb
 
 📖 中文：满足；履行 · English: to fulfil
+
+🇸🇪 Förklaring: göra det som krävs eller som man har lovat; få en dröm eller ett krav att bli verklighet
+
+发音提示：/ˈɵpːˌfʏlːa/ — 重音在 upp，y 读短音
 
 ## 语法变形 (Forms)
 
@@ -39,7 +43,8 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fylla]]
-- 反义词: —
+- 同义词: [[infria]] (兑现), [[leva-upp-till|leva upp till]] (达到)
+- 反义词: [[svika]] (辜负)
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]
 

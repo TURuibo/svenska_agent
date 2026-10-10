@@ -9,7 +9,7 @@ zh: "连体外套"
 en: "all-in-one suit, overalls"
 synonyms: []
 antonyms: []
-family: []
+family: [vinteroverall, regnoverall]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
 sentences: [sent-jag-har-hängt-upp-overallen-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # overall — substantiv
 
 📖 中文：连体外套 · English: all-in-one suit, overalls
+
+🇸🇪 Förklaring: klädesplagg i ett stycke som täcker både kroppen och benen, ofta för vinter eller arbete
+
 发音提示：/ˈɔ̂ːvərɔl/，瑞典语读法 "ÅV-er-åll"，重音在第一音节，不是英语的 over-ALL。
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vinteroverall]] (冬季连体服), [[regnoverall]] (连体雨衣)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

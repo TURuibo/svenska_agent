@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 食物袋（救济）
 en: bag of groceries
-synonyms: []
+synonyms: [matpaket]
 antonyms: []
 family: [matblogg, matkultur, matminne]
 topics: [topic-mat-dryck, topic-sociala-normer]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # matkasse — substantiv (en)
 
 📖 中文：食物袋（救济） · English: bag of groceries
+
+🇸🇪 Förklaring: kasse med mat som man ofta får som hjälp när man har lite pengar
+
 发音提示：/ˈmɑːtˌkasːə/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[matblogg]]、[[matkultur]]、[[matminne]]
-- 同义词:
-- 反义词:
+- 词族: [[matblogg]], [[matkultur]], [[matminne]]
+- 同义词: [[matpaket]] (食品包)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]、[[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

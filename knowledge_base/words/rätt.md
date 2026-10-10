@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "菜肴；一道菜（名词）；正确的（形容词）"
 en: "dish; course of a meal (noun); correct; right (adjective)"
-synonyms: ["maträtt"]
-antonyms: []
-family: ["rättighet", "rättvis", "maträtt", "ugnsrätt"]
+synonyms: [maträtt]
+antonyms: [fel, felaktig]
+family: [maträtt, rättighet, rättvis, ugnsrätt]
 topics: ["topic-mat-dryck"]
 sentences: ["sent-det-ar-en-ugnsratt-med-potatis-ansjovis-och-gradde"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # rätt — substantiv en / adjektiv
 
 📖 中文：菜肴；一道菜 (名词) / 正确的 (形容词) · English: dish; course (noun) / correct; right (adjective)
+
+🇸🇪 Förklaring: 1) mat som man lagar och äter vid en måltid; 2) (adjektiv) som är korrekt och inte fel
+
 发音提示：RÄTT（短元音）
 
 ## 语法变形 (Forms)
@@ -62,7 +65,9 @@ As **adjektiv** (correct):
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[maträtt]] · [[ugn]] · [[rättighet]]
+- 词族: [[maträtt]] · [[ugn]] · [[rättighet]], [[rättighet]] (权利), [[rättvis]] (公平的), [[ugnsrätt]]
+- 同义词: [[maträtt]] (菜肴)
+- 反义词: [[fel]] (错的), [[felaktig]] (错误的)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

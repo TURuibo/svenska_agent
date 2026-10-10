@@ -23,6 +23,9 @@ interval: 0
 # drönare — substantiv (en)
 
 📖 中文：无人机 · English: drone
+
+🇸🇪 Förklaring: litet flygplan utan pilot som man styr på avstånd
+
 发音提示：DRÖN-a-re
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

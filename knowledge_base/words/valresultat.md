@@ -23,6 +23,9 @@ interval: 0
 # valresultat — substantiv (ett)
 
 📖 中文：选举结果 · English: election result
+
+🇸🇪 Förklaring: hur rösterna fördelades mellan partierna eller kandidaterna efter en omröstning
+
 发音提示：VAL-re-sul-tat
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: val，resultat（结果），[[riksdagsval]]，[[kommunval]]，[[valdag]]，[[vallokal]]，[[valsedel]]，[[valaffisch]]，[[vallöfte]]，[[valdebatt]]，[[valarbetare]]（val- 复合词族）
+- 词族: [[val]], [[resultat]]（结果）, [[riksdagsval]], [[kommunval]], [[valdag]], [[vallokal]], [[valsedel]], [[valaffisch]], [[vallöfte]], [[valdebatt]], [[valarbetare]]（val- 复合词族）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

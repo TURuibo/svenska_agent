@@ -9,7 +9,7 @@ zh: "技术人员"
 en: "technician"
 synonyms: []
 antonyms: []
-family: ["teknik", "teknisk"]
+family: [teknik, teknisk]
 topics: ["topic-bedrageri-bank-sakerhet"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # tekniker — substantiv (en)
 
 📖 中文：技术人员 · English: technician
+
+🇸🇪 Förklaring: person som är utbildad för att sköta och reparera maskiner och apparater
+
 发音提示：TEK-ni-ker
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[teknik]]（技术）
+- 词族: [[teknik]]（技术）, [[teknisk]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-bedrageri-bank-sakerhet]]
 
 ## 用法提示 (Usage Notes)

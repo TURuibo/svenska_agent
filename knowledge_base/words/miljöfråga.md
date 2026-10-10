@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 环保议题
 en: environmental issue
-synonyms: []
+synonyms: [miljöproblem]
 antonyms: []
-family: []
+family: [miljö, fråga, miljöpolitik]
 topics: [topic-miljö-och-klimat]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # miljöfråga — substantiv (en)
 
 📖 中文：环保议题 · English: environmental issue
+
+🇸🇪 Förklaring: problem eller ämne som gäller naturen, luften och klimatet
+
 发音提示：/ˈmɪljøːˌfroːɡa/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[miljö]] (环境), [[fråga]] (问题), [[miljöpolitik]] (环境政策)
+- 同义词: [[miljöproblem]] (环境问题)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

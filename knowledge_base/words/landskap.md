@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "风景，景色；省（瑞典行政区划）"
 en: "landscape, scenery; Swedish province (historical)"
-synonyms: ["natur", "utsikt"]
+synonyms: [natur, utsikt]
 antonyms: []
-family: ["land", "landskaplig"]
+family: [land, landskaplig]
 topics: ["topic-geografi-natur", "topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # landskap — substantiv (ett)
 
 📖 中文：风景，景色；省（瑞典行政区划） · English: landscape, scenery; Swedish province (historical)
+
+🇸🇪 Förklaring: 1) hur naturen ser ut i ett område, t.ex. med berg och skog; 2) ett av Sveriges 25 historiska områden, t.ex. Skåne
+
 发音提示：[ˈlandsˌkaːp]
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[land]]
+- 词族: [[land]], [[landskaplig]]
 - 同义词: [[natur]], [[utsikt]]
+- 反义词: —
 - 主题: [[topic-geografi-natur]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

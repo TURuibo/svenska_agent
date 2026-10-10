@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "双语的"
 en: "bilingual"
 synonyms: []
-antonyms: []
+antonyms: [enspråkig]
 family: [språk, flerspråkig]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tvåspråkig — adjektiv
 
 📖 中文：双语的 · English: bilingual
+
+🇸🇪 Förklaring: som kan tala två språk lika bra; där man använder två språk
+
 发音提示：/ˈtvoːˌsproːkiɡ/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[språk]], [[flerspråkig]]
+- 同义词: —
+- 反义词: [[enspråkig]] (单语的)
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -19,6 +19,9 @@ created: 2026-10-02
 # bostadsbidrag — substantiv (ett)
 
 📖 中文：住房津贴 · English: housing allowance
+
+🇸🇪 Förklaring: pengar som familjer eller unga med låg inkomst kan få för att betala hyran
+
 发音提示：[ˈbʊstɑːdsˌbiːdrɑːɡ]
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: 2026-10-02
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bidrag]], [[bostad]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

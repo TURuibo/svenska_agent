@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "干杯"
 en: "to toast; to clink glasses"
-synonyms: []
+synonyms: [höja-glaset]
 antonyms: []
-family: ["skål", "skålning"]
+family: [skål, skålning]
 topics: ["topic-midsommar-traditioner", "topic-social-kontakt", "topic-mat-dryck"]
 sentences: ["sent-pappa-skalar-med-snaps"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # skåla — verb
 
 📖 中文：干杯 · English: to toast; to clink glasses
+
+🇸🇪 Förklaring: lyfta glaset och dricka tillsammans med andra för att fira något eller någon
+
 发音提示：[ˈskoːla]，skål 是感叹词，加 -a 成为动词
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[skål]]
-- 同义词:
-- 反义词:
+- 词族: [[skål]], [[skålning]]
+- 同义词: [[höja-glaset|höja glaset]] (举杯)
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]] · [[topic-social-kontakt]] · [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

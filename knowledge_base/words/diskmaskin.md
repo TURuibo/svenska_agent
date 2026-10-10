@@ -8,10 +8,7 @@ zh: "洗碗机"
 en: "dishwasher"
 synonyms: []
 antonyms: []
-family:
-  - diska
-  - disk
-  - tvättmaskin
+family: [tvättmaskin, diska, disk]
 topics:
   - topic-hemmet
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # diskmaskin — substantiv en
 
 📖 中文：洗碗机 · English: dishwasher
+
+🇸🇪 Förklaring: elektrisk maskin i köket som tvättar tallrikar, glas och bestick
+
 发音提示：/DISK-ma-shin/
 
 ## 语法变形 (Forms)
@@ -51,5 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: diska（洗碗）· [[tvättmaskin]]（洗衣机）
+- 词族: diska（洗碗）· [[tvättmaskin]]（洗衣机）, [[diska]] (洗碗), [[disk]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hemmet]]

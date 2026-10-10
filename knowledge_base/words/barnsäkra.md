@@ -19,6 +19,9 @@ created: "2026-09-26"
 # barnsäkra — verb
 
 📖 中文：做儿童安全防护 · English: to childproof
+
+🇸🇪 Förklaring: göra ett hem säkert så att små barn inte kan skada sig
+
 发音提示：[ˈbɑːɳˌsɛːkra] 重音在 barn-；-säkra 的 ä 是长音。
 
 ## 语法变形 (Forms)

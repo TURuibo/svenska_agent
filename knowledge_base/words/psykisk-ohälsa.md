@@ -6,13 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "心理健康问题；心理疾病"
 en: "mental ill-health; mental health problems"
-synonyms:
-  - psykiska problem
-antonyms:
-  - psykisk hälsa
-family:
-  - psykisk
-  - ohälsa
+synonyms: [psykiska-problem]
+antonyms: [psykisk-hälsa]
+family: [psykisk, ohälsa]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -28,6 +24,9 @@ interval: 0
 # psykisk ohälsa — substantiv en (sammansatt uttryck)
 
 📖 中文：心理健康问题；心理疾病 · English: mental ill-health; mental health problems
+
+🇸🇪 Förklaring: när man mår dåligt mentalt, till exempel av ångest, stress eller depression
+
 发音提示：/PSY-kisk O-häl-sa/
 
 ## 语法变形 (Forms)
@@ -50,6 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: psykisk（形容词：心理的）· ohälsa（不健康）
-- 反义词: psykisk hälsa（心理健康）
+- 词族: [[psykisk]]（形容词：心理的）· ohälsa（不健康）, [[ohälsa]]
+- 同义词: [[psykiska-problem]]
+- 反义词: [[psykisk-hälsa|psykisk hälsa]]（心理健康）
 - 主题: [[topic-samhälle-och-politik]]

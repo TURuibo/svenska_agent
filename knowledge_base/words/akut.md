@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "急诊；急性的（akuten = 定形"急诊室"）"
 en: "acute; emergency room (akuten)"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [akutmottagning, brådskande]
+antonyms: [planerad]
+family: [akutavdelning, akutfall]
 topics:
   - "[[topic-hälsa]]"
 sentences:
@@ -29,6 +29,9 @@ interval: 0
 # akut — substantiv (en)
 
 📖 中文：急诊；急性的（**akuten** = 定形"急诊室"） · English: acute; the emergency room (akuten)
+
+🇸🇪 Förklaring: avdelning på sjukhus som tar emot patienter som behöver vård direkt; som har kommit plötsligt och kräver snabb behandling
+
 发音提示：["aku:t]，重音在第二音节
 
 ## 语法变形 (Forms)
@@ -58,9 +61,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: akutavdelning（急诊科）、akutfall（急诊案例）
-- 同义词: —
-- 反义词: planerad (vård)（计划内的医疗）
+- 词族: [[akutavdelning]]（急诊科）, [[akutfall]]（急诊案例）
+- 同义词: [[akutmottagning]] (急诊室), [[brådskande]] (紧急的)
+- 反义词: [[planerad]] (vård)（计划内的医疗）
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

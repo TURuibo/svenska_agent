@@ -21,6 +21,9 @@ interval: 0
 # böjd — adjektiv
 
 📖 中文：弯曲的 · English: bent, curved
+
+🇸🇪 Förklaring: som inte är rak utan går i en båge
+
 发音提示：/bœjd/
 
 ## 语法变形 (Forms)

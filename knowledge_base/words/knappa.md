@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: B1
 zh: 按键输入
 en: to key in, tap
-synonyms: []
+synonyms: [trycka, slå-in]
 antonyms: []
 family: [knapp]
 topics: []
@@ -19,6 +19,10 @@ created: "2026-10-01"
 
 📖 中文：按键输入（knappa in）· English: to key in, type in
 ⚠️ 同形异义：名词 `knapp`（en，按钮 / 纽扣），复数 `knappar`。
+
+🇸🇪 Förklaring: trycka på tangenter för att skriva in t.ex. en kod eller ett nummer
+
+发音提示：/ˈknapːa/ — kn 中的 k 要发音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -44,8 +48,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[knapp]]
-- 同义词:
-- 反义词:
+- 同义词: [[trycka]] (按), [[slå-in|slå in]] (输入)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

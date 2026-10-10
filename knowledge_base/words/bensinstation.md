@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "加油站"
 en: "gas station, petrol station"
-synonyms: ["mackstation", "bensinmack"]
+synonyms: [bensinmack, mackstation, pump]
 antonyms: []
-family: ["bensin"]
+family: [bränsle, bensin]
 topics: ["topic-energi-och-transport"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bensinstation — substantiv (en)
 
 📖 中文：加油站 · English: gas station, petrol station
+
+🇸🇪 Förklaring: ställe där man köper bränsle till bilen och ofta också kaffe och snacks
+
 发音提示：[bɛnˈsiːnstaˌɧuːn] — 复合词，重音在 -sin-
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bränsle]] (bränsle = fuel; bensin = gasoline/petrol)
-- 同义词: bensinmack, mackstation (口语), pump (英语借词)
+- 词族: [[bränsle]] (bränsle = fuel; bensin = gasoline/petrol), [[bensin]]
+- 同义词: [[bensinmack]], [[mackstation]] (口语), [[pump]] (英语借词)
 - 反义词: —
 - 主题: [[topic-energi-och-transport]]
 

@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 袋子
 en: bag
-synonyms: []
+synonyms: [kasse]
 antonyms: []
-family: []
+family: [plastpåse, papperspåse, tepåse]
 topics: [topic-källsortering, topic-mataffär]
 sentences:
   - sent-bind-ihop-påsen-och-lägg-den-i-rätt-kärl
@@ -24,6 +24,9 @@ interval: 0
 # påse — substantiv
 
 📖 中文：袋子 · English: bag
+
+🇸🇪 Förklaring: liten väska av plast eller papper som man bär eller förvarar saker i
+
 发音提示：PO-se（重音在第一音节，å发音近似o）
 
 ## 语法变形 (Forms)
@@ -51,6 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[plastpåse]] (塑料袋), [[papperspåse]] (纸袋), [[tepåse]] (茶包)
+- 同义词: [[kasse]] (购物袋)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 主题: [[topic-mataffär]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]

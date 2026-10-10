@@ -9,7 +9,7 @@ zh: 剧院；戏剧
 en: theatre, theater
 synonyms: []
 antonyms: []
-family: ["skådespelare", "film"]
+family: [skådespelare, film]
 topics: ["topic-litteratur-och-kultur"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # teater — substantiv
 
 📖 中文：剧院；戏剧 · English: theatre, theater
+
+🇸🇪 Förklaring: konst där skådespelare spelar upp en berättelse på en scen; byggnad där man visar sådana föreställningar
+
 发音提示：te-A-ter
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skådespelare]], [[film]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

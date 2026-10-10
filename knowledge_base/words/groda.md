@@ -9,7 +9,7 @@ zh: "青蛙"
 en: "frog"
 synonyms: []
 antonyms: []
-family: []
+family: [padda, grodyngel]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # groda — substantiv (en)
 
 📖 中文：青蛙 · English: frog
+
+🇸🇪 Förklaring: litet grönt eller brunt djur som lever nära vatten, hoppar och kväker
+
 发音提示：/ˈɡroːda/
 
 ## 语法变形 (Forms)

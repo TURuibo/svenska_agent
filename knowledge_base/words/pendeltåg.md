@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 通勤列车
 en: commuter train
-synonyms: []
-antonyms: []
-family: ["pendla", "tåg"]
+synonyms: [lokaltåg]
+antonyms: [fjärrtåg]
+family: [pendla, tåg]
 topics: ["topic-trafik", "topic-kollektivtrafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # pendeltåg — substantiv (ett)
 
 📖 中文：通勤列车 · English: commuter train
+
+🇸🇪 Förklaring: tåg som går ofta mellan en stad och orterna runt omkring
+
 发音提示：PEN-del-tåg
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[pendla]], [[tåg]]
+- 同义词: [[lokaltåg]] (地方列车)
+- 反义词: [[fjärrtåg]] (长途火车)
 - 主题: [[topic-trafik]], [[topic-kollektivtrafik]]
 
 ## 用法提示 (Usage Notes)

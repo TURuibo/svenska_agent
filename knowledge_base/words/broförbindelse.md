@@ -9,7 +9,7 @@ zh: "桥梁连接（通往某地的桥）"
 en: "bridge connection / bridge link"
 synonyms: []
 antonyms: []
-family: ["bro", "förbinda", "förbindelse"]
+family: [bro, förbindelse, förbinda]
 topics: ["topic-geografi-natur", "topic-trafik"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # broförbindelse — substantiv (en)
 
 📖 中文：桥梁连接（通往某地的桥） · English: bridge connection / bridge link
+
+🇸🇪 Förklaring: bro som gör att man kan ta sig mellan två platser, till exempel två öar eller länder
+
 发音提示：[ˈbruːˌfœrˌbɪndɛlsɛ]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bro]], [[förbindelse]]
+- 词族: [[bro]], [[förbindelse]], [[förbinda]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-geografi-natur]], [[topic-trafik]]
 
 ## 用法提示 (Usage Notes)

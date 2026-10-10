@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "瘦的；狭窄的"
 en: "slim; narrow; slender"
-synonyms: ["tunn"]
-antonyms: ["bred", "tjock"]
-family: []
+synonyms: [tunn]
+antonyms: [bred, tjock]
+family: [smalhet]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # smal — adjektiv
 
 📖 中文：瘦的；狭窄的 · English: slim; narrow; slender
+
+🇸🇪 Förklaring: 1) som inte är tjock och har lite fett på kroppen; 2) som inte är bred
+
 发音提示：/smaːl/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: smalhet
+- 词族: [[smalhet]]
 - 同义词: [[tunn]] (薄/细)
-- 反义词: bred (宽的), [[tjock]] (胖的)
+- 反义词: [[bred]] (宽的), [[tjock]] (胖的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ett
 cefr: "A2"
 zh: "市中心；中心；核心"
 en: "town centre; centre"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [stadskärna, city]
+antonyms: [förort]
+family: [central, centralstation, stadskärna]
 topics: [topic-stadsmiljo]
 sentences: [sent-några-antar-att-tonåringar-kan-umgås, sent-men-alla-har-inte-plats-hemma]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # centrum — substantiv (ett)
 
 📖 中文：市中心；中心；核心 · English: town centre; centre
+
+🇸🇪 Förklaring: 1) den mittersta delen av en stad där det finns många affärer; 2) mitten eller den viktigaste punkten i något
+
 发音提示：SEN-trum，`c` 在 e 前读 [s]；重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `central`（中心的）、`centralstation`（中央车站）、`stadskärna`（市中心，近义）
-- 同义词: `stadskärna`、`city`（口语，Stockholm 常说 `i city`）
-- 反义词: `förort`（郊区）
+- 词族: [[central]]（中心的）, [[centralstation]]（中央车站）, [[stadskärna]]（市中心，近义）
+- 同义词: [[stadskärna]], [[city]]（口语，Stockholm 常说 `i city`）
+- 反义词: [[förort]]（郊区）
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

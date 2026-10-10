@@ -157,6 +157,9 @@ Store inline:
   `## 例句` section by meaning (including drill/böjning imports):
   - 多个不同义项 (multiple distinct senses) → **每个义项至少 1 个例句**，按义项分组标注。
   - 单一义项 / 义项含义相近 (single or near-identical senses) → **至少 3 个例句**。
+- **Word Förklaring / 发音 / 关系 (always):** every `words/` note gets `🇸🇪 Förklaring:` (simple Swedish
+  definition), `发音提示：/IPA/ — 中文提示`, and the three Relations lines 词族 / 同义词 / 反义词 as
+  `[[slug]] (短中文)` links or `—` — exact format in `sv-knowledge-base` §1b.
 
 ### Large batch (> 3 items total)
 
@@ -178,7 +181,8 @@ Store inline:
    - The source note slug.
    - The fully-enriched (gap-filled), intra-block-deduped item lists.
    - The `date:` to use for `created:` frontmatter.
-   - The librarian always generates example sentences for every word note in this batch.
+   - The librarian always generates example sentences for every word note in this batch, plus the
+     Förklaring / 发音提示 / 词族·同义·反义 lines (`sv-knowledge-base` §1b).
 3. Await the librarian's manifest report.
 
 ---

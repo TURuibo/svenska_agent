@@ -10,6 +10,7 @@ en: "bench"
 synonyms []
 antonyms: []
 family: [parkbänk, bänkrad]
+synonyms: []
 topics:
   - topic-stadsmiljo
 sentences:
@@ -26,6 +27,9 @@ interval: 0
 # bänk — substantiv (en)
 
 📖 中文：长椅；板凳 · English: bench
+
+🇸🇪 Förklaring: lång sittplats där flera personer kan sitta bredvid varandra
+
 发音提示：bänk（单音节）。
 
 ## 语法变形 (Forms)

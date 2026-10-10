@@ -22,6 +22,9 @@ interval: 0
 # delfin — substantiv (en)
 
 📖 中文：海豚 · English: dolphin
+
+🇸🇪 Förklaring: smart däggdjur som lever i havet, har lång nos och ofta simmar i grupp
+
 发音提示：del-FIN（两音节，重音在后）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

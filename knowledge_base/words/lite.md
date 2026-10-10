@@ -5,9 +5,9 @@ ordklass: "adverb / pronomen"
 cefr: A1
 zh: 一点儿、有点
 en: a little, a bit
-synonyms: []
+synonyms: [något, aning]
 antonyms: [mycket]
-family: []
+family: [liten, mindre, minst]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # lite — adverb / pronomen
 
 📖 中文：一点儿、有点 · English: a little, a bit
+
+🇸🇪 Förklaring: används om en mindre mängd av något, eller om att något sker i ringa grad
+
 发音提示：/ˈliːtɛ/；LI-te，`i` 读长音。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[liten]]（形容词：小的；`lite` 与它同源，但词类不同）, mindre（较少/较小）, minst（最少/最小）
-- 同义词: `något`（有点）, `en aning`（有一丝）
+- 词族: [[liten]]（形容词：小的；`lite` 与它同源，但词类不同）, [[mindre]]（较少/较小）, [[minst]]（最少/最小）
+- 同义词: [[något]]（有点）, [[aning]]（有一丝）
 - 反义词: [[mycket]]（很多）
 - 主题:
 

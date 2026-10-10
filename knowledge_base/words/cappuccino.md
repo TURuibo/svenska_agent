@@ -22,6 +22,9 @@ interval: 0
 # cappuccino — substantiv (en)
 
 📖 中文：卡布奇诺 · English: cappuccino
+
+🇸🇪 Förklaring: kaffedryck av espresso och varm mjölk med mjölkskum på toppen
+
 发音提示：kah-poo-CHEE-noh
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 相关: [[espresso]], [[latte]], [[bryggkaffe]]
 - 主题: [[topic-kafe-fika]]
 

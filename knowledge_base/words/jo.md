@@ -5,7 +5,7 @@ ordklass: interjektion
 cefr: A2
 zh: 是的（对否定问句）；嗯
 en: yes (to a negative question); well
-synonyms: []
+synonyms: [jovisst]
 antonyms: [nej]
 family: [ja]
 topics: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # jo — interjektion
 
 📖 中文：（对否定问句或反驳否定时）是的、有的；用作开场「嗯」 · English: yes (contradicting a negative); well
+
+🇸🇪 Förklaring: används för att svara ja på en fråga som innehåller inte; används också när man tvekar eller börjar svara
+
+发音提示：/juː/ — o 读 uː，像“优”
 
 ## 语法变形 (Forms)
 
@@ -38,8 +42,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ja]]
-- 同义词:
-- 反义词: nej
+- 同义词: [[jovisst]] (当然是的)
+- 反义词: [[nej]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

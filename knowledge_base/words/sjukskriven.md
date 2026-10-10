@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "病假中的；（被医生）开具病假单的"
 en: "on sick leave; signed off sick"
-synonyms: []
+synonyms: [sjukledig]
 antonyms: [friskskriven]
-family: [sjuk, skriva, sjukskrivning, sjukskriva]
+family: [sjuk, sjukskrivning, sjukskriva, skriva]
 topics: [topic-arbete, topic-halsa]
 sentences: [sent-hon-var-sjukskriven-i-tre-veckor, sent-han-ar-sjukskriven-pa-grund-av-skadan]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sjukskriven — adjektiv
 
 Zh: 病假中的；被医生开具病假单的 · English: on sick leave; signed off sick
+
+🇸🇪 Förklaring: som enligt ett intyg från läkare inte kan arbeta under en viss tid
+
 发音提示：SJUK-skri-ven（三个音节）
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ Zh: 病假中的；被医生开具病假单的 · English: on sick leave; signed
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sjuk]]（病；生病的）, sjukskrivning（病假），sjukskriva（开具病假单）
-- 反义词: friskskriven（被医生判断痊愈、结束病假）
+- 词族: [[sjuk]]（病；生病的）, [[sjukskrivning]]（病假）, [[sjukskriva]]（开具病假单）, [[skriva]] (写)
+- 同义词: [[sjukledig]] (病假中的)
+- 反义词: [[friskskriven]]（被医生判断痊愈、结束病假）
 - 主题: [[topic-arbete]], [[topic-halsa]]
 
 ## 用法提示 (Usage Notes)

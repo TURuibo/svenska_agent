@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 跳
 en: to jump
-synonyms: []
+synonyms: [skutta, studsa]
 antonyms: []
-family: []
+family: [hopp, hopprep, längdhopp, hoppning]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hoppa — verb (v.1)
 
 📖 中文：跳 · English: to jump
+
+🇸🇪 Förklaring: lyfta från marken med hjälp av benen och sedan landa igen
+
 发音提示：HOP-pa；双写 `pp`，元音 `o` 短促。
 
 ## 语法变形 (Forms)
@@ -55,8 +58,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[hopp]] (跳跃), [[hopprep]] (跳绳), [[längdhopp]] (跳远), [[hoppning]] (跳跃运动)
+- 同义词: [[skutta]] (蹦跳), [[studsa]] (弹跳)
 - 反义词: —
 - 主题: —
 

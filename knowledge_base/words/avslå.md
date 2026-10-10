@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "驳回；拒绝（申请）"
 en: "to reject; to turn down"
-synonyms: []
+synonyms: [neka, avvisa, säga-nej]
 antonyms: [godkänna]
 family: [avslag]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # avslå — verb
 
 📖 中文：驳回；拒绝（申请） · English: to reject; to turn down
+
+🇸🇪 Förklaring: säga nej till en ansökan, en begäran eller ett förslag
+
+发音提示：/ˈɑːvˌsloː/ — 重音在 av，å 读长音 oː
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,7 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[avslag]]
+- 同义词: [[neka]] (拒绝), [[avvisa]] (驳回), [[säga-nej|säga nej]] (说不)
 - 反义词: [[godkänna]]
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]

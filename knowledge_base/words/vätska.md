@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "液体；水分"
 en: "fluid, liquid"
 synonyms: []
-antonyms: []
+antonyms: [fast-ämne]
 family: [väta]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: [sent-hon-har-druckit-lite-vatten-och]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vätska — substantiv
 
 📖 中文：液体；水分 · English: fluid, liquid
+
+🇸🇪 Förklaring: ämne som rinner, till exempel vatten, mjölk eller olja; vatten som kroppen behöver
+
 发音提示：VÄT-ska，ä 读 /ɛ/，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[väta]]
-- 同义词: 
-- 反义词: 
+- 同义词: —
+- 反义词: [[fast-ämne|fast ämne]] (固体)
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

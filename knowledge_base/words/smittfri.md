@@ -19,6 +19,9 @@ created: "2026-09-26"
 # smittfri — adjektiv
 
 📖 中文：无传染性的 · English: non-contagious; infection-free
+
+🇸🇪 Förklaring: som inte kan föra över en sjukdom till andra
+
 发音提示：[ˈsmɪtːˌfriː]。
 
 ## 语法变形 (Forms)
@@ -41,8 +44,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[smitta]] · [[smittsam]]
-- 同义词: [[symtomfri]] · [[frisk]]
+- 词族: [[smitta]] · [[smittsam]], [[smittsam]] (传染性的)
+- 同义词: [[symtomfri]] · [[frisk]], [[frisk]]
 - 反义词: [[smittsam]]
 - 主题: [[topic-sjukt-barn-och-vab]] · [[topic-förskola-vardag]]
 

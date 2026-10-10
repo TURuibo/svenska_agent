@@ -8,7 +8,7 @@ zh: 拉布内球（酸奶奶酪球）
 en: labneh ball
 synonyms: []
 antonyms: []
-family: []
+family: [boll]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # labhneboll — substantiv (en)
 
 📖 中文：拉布内球（用沥干酸奶做的奶酪球，中东食物） · English: labneh ball
+
+🇸🇪 Förklaring: liten kula av tjock, syrlig ost gjord på silad yoghurt, ofta inlagd i olivolja
+
 发音提示：/ˈlabnɛbɔl/
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[boll]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

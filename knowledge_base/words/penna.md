@@ -9,7 +9,7 @@ zh: "笔"
 en: "pen"
 synonyms: []
 antonyms: []
-family: []
+family: [blyertspenna, kulspetspenna, pennfodral]
 topics: [topic-hemmet]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # penna — substantiv (en)
 
 📖 中文：笔 · English: pen / pencil
+
+🇸🇪 Förklaring: redskap som man skriver eller ritar med
+
 发音提示：/ˈpɛnːa/；双写 nn。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[blyertspenna]] (铅笔), [[kulspetspenna]] (圆珠笔), [[pennfodral]] (笔袋)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]]

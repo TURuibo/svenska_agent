@@ -7,11 +7,8 @@ cefr: "A2"
 zh: "租户；房客"
 en: "tenant; renter"
 synonyms: []
-antonyms:
-  - hyresvärd
-family:
-  - hyra
-  - uthyra
+antonyms: [hyresvärd]
+family: [hyra, uthyra]
 topics:
   - topic-hemmet
 sentences:
@@ -27,6 +24,9 @@ interval: 0
 # hyresgäst — substantiv en
 
 📖 中文：租户；房客 · English: tenant; renter
+
+🇸🇪 Förklaring: person som betalar pengar för att få bo i en lägenhet eller ett hus som någon annan äger
+
 发音提示：/HY-re-jest/
 
 ## 语法变形 (Forms)
@@ -51,6 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hyra]] · [[uthyra]]
-- 反义词: hyresvärd（房东）
+- 词族: [[hyra]] · [[uthyra]], [[uthyra]] (出租)
+- 同义词: —
+- 反义词: [[hyresvärd]]（房东）
 - 主题: [[topic-hemmet]]

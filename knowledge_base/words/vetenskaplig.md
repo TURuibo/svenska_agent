@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "科学的"
 en: "scientific"
-synonyms: []
-antonyms: []
-family: ["vetenskap", "vetenskapsman"]
+synonyms: [akademisk]
+antonyms: [ovetenskaplig]
+family: [vetenskap, vetenskapsman]
 topics: ["topic-uppfinning-och-teknik", "topic-skola-och-utbildning"]
 sentences:
   - "sent-han-gillade-kemi-och-vetenskap"
@@ -24,6 +24,9 @@ interval: 0
 # vetenskaplig — adjektiv
 
 📖 中文：科学的 · English: scientific
+
+🇸🇪 Förklaring: som bygger på forskning och noggranna, kontrollerade metoder
+
 发音提示：/veˈtɛnskapˌliːɡ/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vetenskap]], [[vetenskapsman]]
+- 同义词: [[akademisk]] (学术的)
+- 反义词: [[ovetenskaplig]] (不科学的)
 - 主题: [[topic-uppfinning-och-teknik]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

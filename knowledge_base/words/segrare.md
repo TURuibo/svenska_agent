@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 胜利者
 en: winner
-synonyms: []
+synonyms: [vinnare]
 antonyms: [förlorare]
-family: []
+family: [seger, segra]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # segrare — substantiv (en)
 
 📖 中文：胜利者 · English: winner
+
+🇸🇪 Förklaring: person eller lag som vinner en tävling, en match eller en strid
+
 发音提示：/ˈseːɡrarə/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
+- 词族: [[seger]] (胜利), [[segra]] (获胜)
+- 同义词: [[vinnare]] (赢家)
 - 反义词: [[förlorare]]
 - 主题: [[topic-idrott]]
 

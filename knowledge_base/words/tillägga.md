@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: B2
 zh: 补充；添加
 en: to add (say in addition)
-synonyms: []
+synonyms: [lägga-till, komplettera]
 antonyms: []
-family: []
+family: [tillägg, lägga]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # tillägga — verb (oregelbundet)
 
 📖 中文：补充；添加 · English: to add (say in addition)
+
+🇸🇪 Förklaring: säga eller skriva något mer efter det man redan har sagt
+
 发音提示：/ˈtɪlɛɡa/
 
 ## 语法变形 (Forms)
@@ -38,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[tillägg]] (附加；补充), [[lägga]] (放)
+- 同义词: [[lägga-till|lägga till]] (补充), [[komplettera]] (补充完整)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ zh: 它的，其（den/det 的所有格）
 en: its, of it
 synonyms: []
 antonyms: []
-family: []
+family: [dessutom, dessförinnan]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # dess — pronomen (possessiv)
 
 📖 中文：它的，其 · English: its
+
+🇸🇪 Förklaring: används om något som tillhör en sak eller ett djur som man redan har nämnt; genitiv av den och det
+
 发音提示：/dɛs/
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[dessutom]] (此外), [[dessförinnan]] (在此之前)
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

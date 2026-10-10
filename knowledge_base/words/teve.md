@@ -18,6 +18,9 @@ created: "2026-10-01"
 # teve — substantiv (en)
 
 📖 中文：电视 · English: TV
+
+🇸🇪 Förklaring: apparat som visar program med bild och ljud; de program som sänds på det sättet
+
 发音提示：/ˈteːveː/（= tv）
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[teveruta]]
-- 同义词: tv
-- 反义词: 
+- 同义词: [[tv]]
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

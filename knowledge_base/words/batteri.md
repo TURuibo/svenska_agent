@@ -8,7 +8,7 @@ zh: 电池
 en: battery
 synonyms: []
 antonyms: []
-family: []
+family: [batteridriven, mobilbatteri]
 topics: [topic-källsortering]
 sentences:
   - sent-ta-dem-till-din-närmaste-återvinningsstation
@@ -23,6 +23,9 @@ interval: 0
 # batteri — substantiv
 
 📖 中文：电池 · English: battery
+
+🇸🇪 Förklaring: liten sak som lagrar ström och ger energi till till exempel en mobil eller en ficklampa
+
 发音提示：bat-te-RI（重音在最后音节）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[batteridriven]] (电池驱动的), [[mobilbatteri]] (手机电池)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]
 

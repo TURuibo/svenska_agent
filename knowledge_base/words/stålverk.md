@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "钢铁厂；炼钢厂"
 en: "steel plant, steelworks"
-synonyms: []
+synonyms: [järnverk]
 antonyms: []
-family: ["stål", "verk"]
+family: [stål, verk]
 topics: ["topic-arbete"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # stålverk — substantiv
 
 📖 中文：钢铁厂；炼钢厂 · English: steel plant, steelworks
+
+🇸🇪 Förklaring: stor fabrik där man framställer stål av järn
+
 发音提示：STÅL-värk
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stål]], [[verk]]
-- 同义词:
-- 反义词:
+- 同义词: [[järnverk]] (钢铁厂)
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

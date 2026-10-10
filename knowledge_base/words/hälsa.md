@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "打招呼；问候；代某人致意"
 en: "to greet; to say hello; to send regards"
-synonyms: []
+synonyms: [säga-hej]
 antonyms: []
-family: []
+family: [hälsning, hälsa-på]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hälsa — verb
 
 📖 中文：打招呼；问候；代某人致意 · English: to greet; to say hello; to send regards
+
+🇸🇪 Förklaring: säga hej eller på annat sätt visa vänlighet när man möter någon; skicka vänliga ord till någon genom en annan person
+
 发音提示：重音在第一音节：**HÄL-sa**。注意和名词 `hälsa`（健康）同形，但这里是动词。
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[hälsning]] (问候), [[hälsa-på|hälsa på]] (拜访)
+- 同义词: [[säga-hej|säga hej]] (打招呼)
+- 反义词: —
 - 主题: []
 
 ## 用法提示 (Usage Notes)

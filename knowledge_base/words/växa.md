@@ -25,6 +25,9 @@ interval: 0
 # växa — verb (grupp 2a)
 
 📖 中文：生长；成长 · English: to grow
+
+🇸🇪 Förklaring: bli större eller längre; utvecklas
+
 发音提示：VÄX-a；两音节，ä lång.
 
 ## 语法变形 (Forms)

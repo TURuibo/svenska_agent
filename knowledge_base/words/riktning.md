@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "方向"
 en: "direction"
-synonyms: []
+synonyms: [håll]
 antonyms: []
-family: []
+family: [rikta, riktningsvisare]
 topics:
   - topic-riktningar
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # riktning — substantiv (en)
 
 📖 中文：方向 · English: direction
+
+🇸🇪 Förklaring: det håll som någon eller något rör sig mot eller pekar åt
+
 发音提示：RIK-tning；两音节。
 
 ## 语法变形 (Forms)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: 方法
 en: method
-synonyms: []
+synonyms: [sätt]
 antonyms: []
-family: []
+family: [metodisk, metodik, arbetsmetod]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # metod — substantiv (en)
 
 📖 中文：方法 · English: method
+
+🇸🇪 Förklaring: planerat sätt att göra något eller nå ett mål
+
+发音提示：/mɛˈtuːd/ — 重音在 tod；o 读 uː
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: sätt
-- 反义词:
+- 词族: [[metodisk]] (有条理的), [[metodik]] (方法论), [[arbetsmetod]] (工作方法)
+- 同义词: [[sätt]]
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

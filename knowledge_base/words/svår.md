@@ -9,7 +9,7 @@ zh: "困难的"
 en: "difficult, hard"
 synonyms: [komplicerad, besvärlig]
 antonyms: [lätt, enkel]
-family: [svårighet, svårt]
+family: [svårighet, svårighetsgrad, svårt]
 topics: []
 sentences: [sent-zlatans-barndom-var-svar]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # svår — adjektiv
 
 📖 中文：困难的 · English: difficult, hard
+
+🇸🇪 Förklaring: som inte är lätt att göra eller förstå och kräver mycket arbete
+
 发音提示：/svɔːr/；sv- 辅音群，å 长音。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[svårighet]] (en, 困难), [[svårighetsgrad]] (en, 难度)
+- 词族: [[svårighet]] (en, 困难), [[svårighetsgrad]] (en, 难度), [[svårt]]
 - 同义词: [[komplicerad]] (复杂的), [[besvärlig]] (麻烦的)
 - 反义词: [[lätt]] (容易的), [[enkel]] (简单的)
 - 主题: —

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "发酵乳（瑞典酸奶）"
 en: "Swedish fermented milk; cultured buttermilk"
-synonyms: []
+synonyms: [fil]
 antonyms: []
-family: []
+family: [mjölk]
 topics:
   - topic-mat-dryck
   - topic-vardagsrutin
@@ -26,6 +26,9 @@ interval: 0
 # filmjölk — substantiv (en)
 
 📖 中文：发酵乳（瑞典酸奶） · English: Swedish fermented milk; cultured buttermilk
+
+🇸🇪 Förklaring: syrlig, tjock dryck av mjölk som har fått jäsa med nyttiga bakterier
+
 发音提示：FILM-yölk；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mjölk]] (牛奶)
-- 同义词: —
+- 同义词: [[fil]] (酸奶)
 - 反义词: —
 - 主题: [[topic-mat-dryck]], [[topic-vardagsrutin]]
 

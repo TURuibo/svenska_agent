@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "印象"
 en: "impression"
-synonyms: []
+synonyms: [uppfattning, känsla]
 antonyms: []
-family: []
+family: [trycka, tryck]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # intryck — substantiv
 
 📖 中文：印象 · English: impression
+
+🇸🇪 Förklaring: den bild eller känsla som man får av en person, en plats eller en händelse
+
 发音提示：IN-tryck
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[trycka]] (压；印), [[tryck]] (压力；印刷)
+- 同义词: [[uppfattning]] (看法), [[känsla]] (感觉)
+- 反义词: —
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

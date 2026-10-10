@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "周信（幼儿园/学校每周通知）"
 en: "weekly newsletter"
-synonyms: []
+synonyms: [nyhetsbrev]
 antonyms: []
 family: [vecka]
 topics: [topic-förskola-system, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # veckobrev — substantiv (ett)
 
 📖 中文：周信（幼儿园/学校每周通知） · English: weekly newsletter
+
+🇸🇪 Förklaring: brev eller meddelande som förskolan eller skolan skickar hem till föräldrarna en gång i veckan
+
 发音提示：/ˈvɛkːʊˌbreːv/；复合词 vecka + brev，重音在第一部分 **vec**-。
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vecka]]
+- 同义词: [[nyhetsbrev]] (简讯)
+- 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

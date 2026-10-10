@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B2"
 zh: "逃生通道"
 en: "escape route"
-synonyms: []
+synonyms: [nödutgång]
 antonyms: []
 family: [väg]
 topics: [topic-grannar-boende]
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # utrymningsväg — substantiv (en)
 
 📖 中文：逃生通道 · English: escape route
+
+🇸🇪 Förklaring: väg som man ska använda för att snabbt komma ut om det brinner eller är fara
+
 发音提示：ut-RYM-nings-väg
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[väg]]
+- 同义词: [[nödutgång]] (紧急出口)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

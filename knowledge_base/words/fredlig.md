@@ -5,7 +5,7 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "和平的"
 en: "peaceful"
-synonyms: []
+synonyms: [lugn, fridfull]
 antonyms: [våldsam]
 family: [fred]
 topics: []
@@ -21,7 +21,10 @@ interval: 0
 # fredlig — adjektiv
 
 📖 中文：和平的 · English: peaceful
-发音提示：
+
+🇸🇪 Förklaring: som sker utan våld eller strid
+
+发音提示：/ˈfreːdlɪɡ/ — e 读长音，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -47,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fred]]
-- 同义词: —
+- 同义词: [[lugn]] (平静的), [[fridfull]] (安宁的)
 - 反义词: [[våldsam]]
 - 主题: —
 

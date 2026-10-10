@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "旁边；紧靠"
 en: "next to; beside"
-synonyms: [intill, vid sidan av]
-antonyms: []
+synonyms: [intill, vid-sidan-av]
+antonyms: [långt-ifrån]
 family: [bred, sida, vid]
 topics: [topic-rumsliga-relationer, topic-stadsmiljo]
 sentences:
@@ -26,6 +26,9 @@ interval: 0
 # bredvid — preposition
 
 📖 中文：旁边；紧靠 · English: next to; beside
+
+🇸🇪 Förklaring: nära, på sidan av någon eller något
+
 发音提示：bre-VID；två stavelser, betoning på -vid.
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bred]] (宽的), [[sida]] (侧面；一边)
-- 同义词: [[intill]] (紧靠), [[vid sidan av]] (在……旁边，稍正式)
-- 反义词: —
+- 词族: [[bred]] (宽的), [[sida]] (侧面；一边), [[vid]]
+- 同义词: [[intill]] (紧靠), [[vid-sidan-av|vid sidan av]] (在……旁边，稍正式)
+- 反义词: [[långt-ifrån|långt ifrån]] (远离)
 - 主题: [[topic-rumsliga-relationer]]
 
 ## 用法提示 (Usage Notes)

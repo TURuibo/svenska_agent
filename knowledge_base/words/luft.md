@@ -7,9 +7,9 @@ genus: "en"
 cefr: A2
 zh: "空气"
 en: "air"
-synonyms: []
+synonyms: [atmosfär]
 antonyms: []
-family: ["lufta", "luftig", "luftkvalitet"]
+family: [lufta, luftig, luftkvalitet]
 topics: ["topic-hälsa"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # luft — substantiv
 
 📖 中文：空气 · English: air
+
+🇸🇪 Förklaring: den osynliga blandning av gaser som omger jorden och som vi andas
+
 发音提示：/lɵft/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: lufta (通风, verb), luftig (通风的/蓬松的), luftkvalitet (空气质量)
+- 词族: [[lufta]] (通风, verb), [[luftig]] (通风的/蓬松的), [[luftkvalitet]] (空气质量)
+- 同义词: [[atmosfär]] (大气)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

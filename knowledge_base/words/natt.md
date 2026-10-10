@@ -7,8 +7,8 @@ cefr: A1
 zh: "夜晚、夜里"
 en: "night"
 synonyms: []
-antonyms: ["dag"]
-family: ["nattlig", "nattetid", "midnatt"]
+antonyms: [dag]
+family: [nattlig, nattetid, midnatt]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # natt — substantiv (en-ord)
 
 📖 中文：夜晚、夜里 · English: night
+
+🇸🇪 Förklaring: den mörka delen av dygnet då de flesta sover
+
 发音提示：[natː]
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: nattlig（夜间的），nattetid（夜间），midnatt（午夜）
+- 词族: [[nattlig]]（夜间的）, [[nattetid]]（夜间）, [[midnatt]]（午夜）
 - 同义词: —
 - 反义词: [[dag]]（白天）
 - 主题: —

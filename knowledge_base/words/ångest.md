@@ -6,11 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "焦虑；忧虑；恐惧感"
 en: "anxiety; anguish"
-synonyms:
-  - oro
-antonyms: []
-family:
-  - ångestfylld
+synonyms: [oro]
+antonyms: [lugn, trygghet]
+family: [ångestfylld]
 topics:
   - topic-samhälle-och-politik
 sentences:
@@ -26,6 +24,9 @@ interval: 0
 # ångest — substantiv en
 
 📖 中文：焦虑；忧虑；恐惧感 · English: anxiety; anguish
+
+🇸🇪 Förklaring: stark känsla av oro och rädsla, ofta utan tydlig orsak
+
 发音提示：/ÅNG-est/
 
 ## 语法变形 (Forms)
@@ -49,6 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ångestfylld（充满焦虑的）
-- 同义词: oro（担忧/不安，稍轻）
+- 词族: [[ångestfylld]]（充满焦虑的）
+- 同义词: [[oro]]（担忧/不安，稍轻）
+- 反义词: [[lugn]] (平静), [[trygghet]] (安全感)
 - 主题: [[topic-samhälle-och-politik]]

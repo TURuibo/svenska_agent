@@ -7,8 +7,8 @@ genus: ""
 cefr: "A1"
 zh: "常常"
 en: "often"
-synonyms: []
-antonyms: []
+synonyms: [många-gånger, titt-som-tätt]
+antonyms: [sällan, aldrig]
 family: []
 topics: [topic-förskola-vardag]
 sentences: [sent-det-är-helt-okej-så-är]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ofta — adverb
 
 📖 中文：常常 · English: often
+
+🇸🇪 Förklaring: många gånger; vid många tillfällen
+
 发音提示：/ˈɔfta/，o 短音读 [ɔ]。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: [[många-gånger|många gånger]] (许多次), [[titt-som-tätt|titt som tätt]] (经常)
+- 反义词: [[sällan]] (很少), [[aldrig]] (从不)
 - 相关: [[ibland]] (有时) · *sällan* (很少) · *alltid* (总是)
 - 主题: [[topic-förskola-vardag]]
 

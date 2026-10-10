@@ -6,7 +6,7 @@ genus: "ett"
 cefr: "B1"
 zh: "活动"
 en: "event"
-synonyms: ["tillställning", "sammankomst"]
+synonyms: [tillställning, sammankomst]
 antonyms: []
 family: []
 topics: [topic-sociala-normer]
@@ -22,6 +22,10 @@ interval: 0
 # evenemang — substantiv
 
 📖 中文：活动 · English: event
+
+🇸🇪 Förklaring: händelse som är planerad för publik, till exempel en konsert eller en festival
+
+发音提示：/ɛvɛnɛˈmaŋː/ — 重音在最后音节 mang；ng 读 ŋ
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: [[tillställning]]、[[sammankomst]]
-- 反义词: []
+- 词族: —
+- 同义词: [[tillställning]], [[sammankomst]]
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

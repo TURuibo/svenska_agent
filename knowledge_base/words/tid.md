@@ -7,7 +7,7 @@ genus: en
 cefr: A1
 zh: "时间；时期"
 en: "time"
-synonyms: []
+synonyms: [period]
 antonyms: []
 family: [tidig]
 topics: [topic-tid-och-tidsuttryck]
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # tid — substantiv (en)
 
 📖 中文：时间；时期 · English: time
+
+🇸🇪 Förklaring: det som går och mäts i sekunder, minuter och år; en viss period
+
 发音提示：/tiːd/（长 i，词尾 d 较轻）
 
 ## 语法变形 (Forms)
@@ -58,8 +61,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tidig]]
-- 同义词:
-- 反义词:
+- 同义词: [[period]] (时期)
+- 反义词: —
 - 主题: [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

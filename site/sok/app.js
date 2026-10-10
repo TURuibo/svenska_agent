@@ -248,7 +248,14 @@
     els.note.addEventListener("click", (e) => {
       if (e.target.closest("#backBtn")) { backToResults(); return; }
       const link = e.target.closest("[data-wikilink]");
-      if (link && KB.bySlug.has(link.dataset.wikilink)) navigateTo(link.dataset.wikilink);
+      if (!link) return;
+      if (KB.bySlug.has(link.dataset.wikilink)) { navigateTo(link.dataset.wikilink); return; }
+      // No note yet (e.g. a 词族/同义/反义 word): search for it instead, so the
+      // learner sees close matches or knows to /learn it.
+      els.input.value = (link.textContent || "").trim() || link.dataset.wikilink.replace(/-/g, " ");
+      state.query = els.input.value;
+      backToResults();
+      onQueryChanged();
     });
 
     window.addEventListener("popstate", () => {

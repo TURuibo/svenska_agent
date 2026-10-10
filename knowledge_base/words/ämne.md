@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "科目、题目"
 en: "subject"
-synonyms: []
+synonyms: [tema, fråga]
 antonyms: []
-family: []
+family: [ämnesplan]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # ämne — substantiv (ett-ord)
 
 📖 中文：科目、题目 · English: subject
+
+🇸🇪 Förklaring: något som man pratar, skriver eller läser om; område som man studerar i skolan
+
 发音提示：ÄMN-e
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ämnesplan]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[tema]] (主题), [[fråga]] (问题)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

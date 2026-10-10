@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 完全；太（alldeles för = 过于）
 en: completely, quite; (alldeles för) far too
-synonyms: []
-antonyms: []
-family: []
+synonyms: [helt, fullständigt, alltför]
+antonyms: [delvis]
+family: [all, del]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # alldeles — adverb
 
 📖 中文：完全；太 · English: completely, quite, (alldeles för) far too
+
+🇸🇪 Förklaring: helt och fullt; med ”för” efter: i mycket högre grad än vad som är lagom
+
 发音提示：/ˈaldeːles/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[all]] (所有的), [[del]] (部分)
+- 同义词: [[helt]] (完全), [[fullständigt]] (彻底), [[alltför]] (过于)
+- 反义词: [[delvis]] (部分地)
 - 主题:
 
 ## 用法提示 (Usage Notes)

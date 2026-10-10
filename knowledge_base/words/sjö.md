@@ -6,9 +6,9 @@ genus: en
 cefr: "A1"
 zh: "湖；海"
 en: "lake; sea"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [hav]
+antonyms: [land]
+family: [sjöman, sjöfart]
 topics: [topic-fritid-och-resor, topic-vader-och-arstider]
 sentences: [sent-kanske-vid-sjön]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sjö — substantiv (en)
 
 📖 中文：湖；海 · English: lake; sea
+
+🇸🇪 Förklaring: 1) stort vatten som är omgivet av land; 2) havet som man reser eller arbetar på
+
 发音提示：[ɧøː]，短促但清晰的"舍"音
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 - 词族: [[sjöman]], [[sjöfart]]
 - 同义词: [[hav]]（海，更广阔的海洋）
-- 反义词:
+- 反义词: [[land]] (陆地)
 - 主题: [[topic-fritid-och-resor]], [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: 帖子、发言
 en: post, contribution
-synonyms: []
+synonyms: [bidrag]
 antonyms: []
-family: []
+family: [lägga-in, blogginlägg, debattinlägg]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # inlägg — substantiv (ett)
 
 📖 中文：帖子、发言 · English: post, contribution
+
+🇸🇪 Förklaring: text, bild eller kommentar som man publicerar på nätet; det man säger i en diskussion eller debatt
+
 发音提示：/ˈɪnˌlɛɡː/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[lägga-in|lägga in]] (放入；发布), [[blogginlägg]] (博客文章), [[debattinlägg]] (辩论发言)
+- 同义词: [[bidrag]] (投稿；发言)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -22,6 +22,9 @@ interval: 0
 # pelikan — substantiv (en)
 
 📖 中文：鹈鹕 · English: pelican
+
+🇸🇪 Förklaring: stor fågel med lång näbb och en påse under näbben där den samlar fisk
+
 发音提示：PE-li-kan（三音节，重音在前）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

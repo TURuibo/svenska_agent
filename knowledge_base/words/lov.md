@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: （学校）假期
 en: school holiday
-synonyms: []
+synonyms: [ledighet]
 antonyms: []
-family: []
+family: [sommarlov, jullov, sportlov, höstlov]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-under-lovet-i-vecka-44]
 source: source-2026-10-09-komvux-kursstart
@@ -19,6 +19,10 @@ created: "2026-10-09"
 # lov — substantiv ett
 
 📖 中文：（学校）假期 · English: school holiday
+
+🇸🇪 Förklaring: period då eleverna är lediga från skolan, t.ex. på sommaren eller vid jul
+
+发音提示：/loːv/ — o 读长音 oː
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sommarlov]] (暑假), [[jullov]] (圣诞假), [[sportlov]] (体育假), [[höstlov]] (秋假)
+- 同义词: [[ledighet]] (休假)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

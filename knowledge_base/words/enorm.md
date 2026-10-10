@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 巨大的
 en: enormous, huge
-synonyms: []
-antonyms: []
-family: []
+synonyms: [jättestor, väldig, gigantisk]
+antonyms: [pytteliten, minimal]
+family: [enormt]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # enorm — adjektiv
 
 📖 中文：巨大的 · English: enormous
+
+🇸🇪 Förklaring: som är väldigt stor eller mycket mer än vanligt
+
 发音提示：/eˈnɔrm/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[enormt]] (非常地)
+- 同义词: [[jättestor]] (巨大的), [[väldig]] (巨大的), [[gigantisk]] (巨大的)
+- 反义词: [[pytteliten]] (极小的), [[minimal]] (极小的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

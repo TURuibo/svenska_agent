@@ -6,7 +6,7 @@ genus: en
 cefr: B1
 zh: 速滑运动员
 en: speed skater
-synonyms: []
+synonyms: [hastighetsåkare]
 antonyms: []
 family: [skridsko]
 topics: [topic-idrott, topic-yrken]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # skridskoåkare — substantiv (en)
 
 📖 中文：速滑运动员 · English: speed skater
+
+🇸🇪 Förklaring: idrottare som glider fram på is med smala skenor under kängorna, ofta i tävlingar på tid
+
 发音提示：/ˈskrɪdːskuːˌoːkarə/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skridsko]]
-- 同义词:
-- 反义词:
+- 同义词: [[hastighetsåkare]] (速滑选手)
+- 反义词: —
 - 主题: [[topic-idrott]]、[[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "电子服务；政府/机构网上服务平台"
 en: "e-service, online service"
-synonyms: []
+synonyms: [webbtjänst]
 antonyms: []
 family: [tjänst]
 topics: [topic-förskola-system]
@@ -23,6 +23,9 @@ interval: 0
 # e-tjänst — substantiv (en)
 
 📖 中文：电子服务；政府/机构网上服务平台 · English: e-service, online service
+
+🇸🇪 Förklaring: sätt att sköta ärenden hos en myndighet eller ett företag via internet, till exempel att söka bidrag
+
 发音提示：**e**-tjänst，读作字母 e + tjänst，重音各在自身音节。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tjänst]] (名词：服务/职务)
-- 同义词: —
+- 同义词: [[webbtjänst]] (网络服务)
 - 反义词: —
 - 主题: [[topic-förskola-system]]
 

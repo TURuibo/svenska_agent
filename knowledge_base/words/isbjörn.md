@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 北极熊
 en: polar bear
-synonyms: ["polarbörn"]
+synonyms: [polarbjörn]
 antonyms: []
-family: ["is", "björn"]
+family: [is, björn]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # isbjörn — substantiv (en)
 
 📖 中文：北极熊 · English: polar bear
+
+🇸🇪 Förklaring: stort vitt rovdjur som lever i Arktis och jagar säl på isen
+
 发音提示：IS-björn（两音节，复合词）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[is]]（冰）, [[björn]]（熊）
+- 同义词: [[polarbjörn]] (北极熊)
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

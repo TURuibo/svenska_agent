@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "不满的"
 en: "dissatisfied"
-synonyms: [besviken]
+synonyms: [besviken, otillfredsställd]
 antonyms: [nöjd, tillfreds]
 family: [missnöje, nöjd]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
@@ -23,6 +23,9 @@ interval: 0
 # missnöjd — adjektiv
 
 📖 中文：不满的 · English: dissatisfied
+
+🇸🇪 Förklaring: som inte är glad över hur något blev eller är
+
 发音提示：miss-NÖJD，两个音节，重音在第二音节。
 
 ## 语法变形 (Forms)

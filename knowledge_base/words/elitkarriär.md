@@ -23,6 +23,9 @@ interval: 0
 # elitkarriär — substantiv
 
 📖 中文：精英运动生涯 · English: elite career
+
+🇸🇪 Förklaring: den tid i livet då någon tävlar i en sport på högsta nivå
+
 发音提示：e-LIT-ka-riär
 
 ## 语法变形 (Forms)

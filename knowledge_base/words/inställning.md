@@ -20,6 +20,10 @@ created: 2026-10-09
 
 📖 中文：态度；立场 · English: attitude, stance
 
+🇸🇪 Förklaring: hur man tänker och känner om något, sättet man ser på något
+
+发音提示：/ˈɪnˌstɛlːnɪŋ/ — 重音在 in；ä 读短音 ɛ
+
 ## 语法变形 (Forms)
 
 | 形式 | 单数 | 复数 |

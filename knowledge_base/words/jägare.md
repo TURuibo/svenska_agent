@@ -20,6 +20,10 @@ created: "2026-10-08"
 
 📖 中文：猎人 · English: hunter
 
+🇸🇪 Förklaring: person som letar efter och skjuter vilda djur
+
+发音提示：/ˈjɛːɡarɛ/ — ä 读长音；g 在 a 前读硬音 ɡ
+
 ## 语法变形 (Forms)
 
 | form | böjning |
@@ -37,7 +41,9 @@ created: "2026-10-08"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[jakt]] [[älg]]
+- 词族: [[jakt]] [[älg]], [[älg]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-natur-skog]]
 
 ## 用法提示 (Usage Notes)

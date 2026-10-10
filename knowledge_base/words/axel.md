@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 肩膀
 en: shoulder
-synonyms: []
+synonyms: [skuldra]
 antonyms: []
-family: []
+family: [axelled, axelväska, bredaxlad]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # axel — substantiv (en)
 
 📖 中文：肩膀 · English: shoulder
+
+🇸🇪 Förklaring: del av kroppen där armen sitter fast
+
 发音提示：/ˈaksɛl/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[axelled]] (肩关节), [[axelväska]] (挎包), [[bredaxlad]] (宽肩的)
+- 同义词: [[skuldra]] (肩膀)
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

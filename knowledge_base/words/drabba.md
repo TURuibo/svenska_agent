@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "袭击，波及，影响（常指灾难）"
 en: "to strike, to affect, to hit (usually disaster or misfortune)"
-synonyms: []
-antonyms: []
-family: ["drabbning"]
+synonyms: [träffa, påverka]
+antonyms: [skona]
+family: [drabbning]
 topics: ["topic-jordbävning-katastrof"]
 sentences:
   - sent-nara-600-manniskor-ar-doda-efter
@@ -25,6 +25,9 @@ interval: 0
 # drabba — verb
 
 📖 中文：袭击，波及，影响（常指灾难） · English: to strike, to affect, to hit (usually disaster)
+
+🇸🇪 Förklaring: hända någon och orsaka skada eller problem, till exempel om en sjukdom eller en olycka
+
 发音提示：/ˈdrabːa/
 
 ## 语法变形 (Forms)
@@ -55,7 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: drabbning（冲突，遭遇战）
+- 词族: [[drabbning]]（冲突，遭遇战）
+- 同义词: [[träffa]] (击中), [[påverka]] (影响)
+- 反义词: [[skona]] (放过)
 - 主题: [[topic-jordbävning-katastrof]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "市/市政"
 en: "municipality"
 synonyms: [stad]
 antonyms: []
-family: [kommunal, kommunfullmäktige]
+family: [kommunal, kommunfullmäktige, kommunval]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-manga-kommuner-valkomnar-sina-nya, sent-regionerna-ansvarar-för-sjukvården-medan]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kommun — substantiv (en)
 
 📖 中文：市/市政 · English: municipality
+
+🇸🇪 Förklaring: del av ett län med eget politiskt styre som sköter t.ex. skolor, vård och sophämtning
+
 发音提示：kom-MUN，重音第二音节。
 
 ## 语法变形 (Forms)

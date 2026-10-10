@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 极端的；极度的
 en: extreme
-synonyms: []
-antonyms: []
-family: []
+synonyms: [radikal, överdriven]
+antonyms: [måttlig]
+family: [extremism, extremist, extremt]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # extrem — adjektiv
 
 📖 中文：极端的 · English: extreme
+
+🇸🇪 Förklaring: som är mycket mer än det vanliga; som går till ytterlighet
+
 发音提示：/ɛksˈtreːm/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[extremism]] (极端主义), [[extremist]] (极端分子), [[extremt]] (极其)
+- 同义词: [[radikal]] (激进的), [[överdriven]] (过度的)
+- 反义词: [[måttlig]] (适度的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

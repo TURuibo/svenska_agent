@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "差别；区别"
 en: "difference"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [olikhet]
+antonyms: [likhet]
+family: [skilja, skild]
 topics:
   - "[[topic-samhälle-och-politik]]"
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # skillnad — substantiv (en)
 
 📖 中文：差别；区别 · English: difference
+
+🇸🇪 Förklaring: det som gör att två eller flera saker inte är lika
+
 发音提示：["ʃɪlˌnad]，sh-音开头
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: skilja（区分）、skild（分开的）
-- 同义词: olikhet（不同）
-- 反义词: likhet（相似）
+- 词族: [[skilja]]（区分）, [[skild]]（分开的）
+- 同义词: [[olikhet]]（不同）
+- 反义词: [[likhet]]（相似）
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

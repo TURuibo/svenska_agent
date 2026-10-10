@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 过敏症，过敏
 en: allergy
-synonyms: []
+synonyms: [överkänslighet]
 antonyms: []
 family: [allergisk, allergiker]
 topics: [topic-hälsa]
@@ -22,6 +22,9 @@ interval: 0
 # allergi — substantiv (en)
 
 📖 中文：过敏症，过敏 · English: allergy
+
+🇸🇪 Förklaring: tillstånd där kroppen reagerar starkt mot något, till exempel pollen, pälsdjur eller viss mat
+
 发音提示：[alɛrˈɡiː]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[allergisk]], [[allergiker]]
+- 同义词: [[överkänslighet]] (过敏；超敏)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

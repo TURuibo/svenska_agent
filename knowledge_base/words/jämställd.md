@@ -5,7 +5,7 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "平等的（性别平等）"
 en: "equal (gender)"
-synonyms: []
+synonyms: [jämlik]
 antonyms: [ojämställd]
 family: [jämställdhet, ojämställd]
 topics: [topic-jämställdhet]
@@ -21,7 +21,10 @@ interval: 0
 # jämställd — adjektiv
 
 📖 中文：平等的（性别平等） · English: equal (gender)
-发音提示：
+
+🇸🇪 Förklaring: som har samma rättigheter, möjligheter och skyldigheter oavsett kön
+
+发音提示：/ˈjɛmːˌstɛld/ — 重音在 jäm；两个 ä 都读短音
 
 ## 语法变形 (Forms)
 
@@ -47,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[jämställdhet]], [[ojämställd]]
-- 同义词: —
+- 同义词: [[jämlik]] (平等的)
 - 反义词: [[ojämställd]]
 - 主题: [[topic-jämställdhet]]
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "染色；使变色；着色"
 en: "to colour; to dye; to tint"
-synonyms: ["måla"]
-antonyms: []
-family: ["färg", "färgning", "färgad", "färgrik"]
+synonyms: [måla]
+antonyms: [bleka]
+family: [färg, färgning, färgad, färgrik]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-hosten-fargar-skogen-i-rott
@@ -24,6 +24,9 @@ interval: 0
 # färga — verb (grupp 1)
 
 📖 中文：染色；使变色；着色 · English: to colour; to dye; to tint
+
+🇸🇪 Förklaring: ge något en annan färg, till exempel tyg eller hår
+
 发音提示：/ˈfærɡa/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: färg（颜色，名词），färgning（染色，名词），färgad（有色的），färgrik（色彩丰富的）
+- 词族: [[färg]]（颜色，名词）, [[färgning]]（染色，名词）, [[färgad]]（有色的）, [[färgrik]]（色彩丰富的）
+- 同义词: [[måla]]
+- 反义词: [[bleka]] (漂白)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

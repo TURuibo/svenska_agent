@@ -19,6 +19,9 @@ created: "2026-10-01"
 # meter — substantiv (en)
 
 📖 中文：米（长度单位） · English: metre
+
+🇸🇪 Förklaring: vanligt längdmått som är ungefär lika långt som ett stort steg för en vuxen
+
 发音提示：/ˈmeːtɛr/（重音在第一音节，e 长音）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kilometer]]（公里）, [[mil]]（瑞典里 = 10 公里）
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

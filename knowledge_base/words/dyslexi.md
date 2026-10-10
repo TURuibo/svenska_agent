@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B2"
 zh: "阅读障碍"
 en: "dyslexia"
-synonyms: []
+synonyms: [läs--och-skrivsvårigheter]
 antonyms: []
-family: []
+family: [dyslektiker, dyslektisk]
 topics: [topic-halsa-och-sjukdom, topic-skola-och-utbildning]
 sentences: [sent-dyslexi-betyder-att-en-person-har-extra-svart]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-06"
 # dyslexi — substantiv
 
 📖 中文：阅读障碍 · English: dyslexia
+
+🇸🇪 Förklaring: svårighet att läsa och skriva som inte beror på låg intelligens
+
 发音提示：dys-lek-SI
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ created: "2026-10-06"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[dyslektiker]] (阅读障碍者), [[dyslektisk]] (有阅读障碍的)
+- 同义词: [[läs--och-skrivsvårigheter|läs- och skrivsvårigheter]] (读写困难)
+- 反义词: —
 - 主题: [[topic-halsa-och-sjukdom]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

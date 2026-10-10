@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "影响，波及"
 en: "to affect, to influence"
-synonyms: []
+synonyms: [influera, ha-effekt-på]
 antonyms: []
-family: ["påverkan"]
+family: [påverkan]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # påverka — verb
 
 📖 中文：影响，波及 · English: to affect, to influence
+
+🇸🇪 Förklaring: göra så att någon eller något förändras eller tänker på ett annat sätt
+
 发音提示：[ˈpɔːvɛrka] — 重音在第一音节
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: påverkan (substantiv, en — 影响/influence)
-- 同义词: influera (mer formellt), ha effekt på
+- 词族: [[påverkan]] (substantiv, en — 影响/influence)
+- 同义词: [[influera]] (mer formellt), [[ha-effekt-på|ha effekt på]]
 - 反义词: —
 - 主题: —
 

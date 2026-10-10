@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "尊重、遵守"
 en: "respect"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [akta, följa]
+antonyms: [förakta, bryta-mot]
+family: [respekt, respekterad, respektfull]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # respektera — verb
 
 📖 中文：尊重、遵守 · English: respect
+
+🇸🇪 Förklaring: 1) visa aktning och hänsyn för någon eller något; 2) följa och inte bryta mot regler eller beslut
+
 发音提示： "re-spek-té-ra"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[respekt]] (尊重), [[respekterad]] (受尊重的), [[respektfull]] (恭敬的)
+- 同义词: [[akta]] (尊敬), [[följa]] (遵守)
+- 反义词: [[förakta]] (蔑视), [[bryta-mot|bryta mot]] (违反)
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

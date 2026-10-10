@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "加强"
 en: "to strengthen"
-synonyms: []
-antonyms: []
+synonyms: [förstärka]
+antonyms: [försvaga]
 family: [stark, styrka]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # stärka — verb
 
 📖 中文：加强 · English: to strengthen
+
+🇸🇪 Förklaring: göra någon eller något starkare, stabilare eller bättre
+
 发音提示：/ˈʂærːka/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stark]], [[styrka]]
+- 同义词: [[förstärka]] (增强)
+- 反义词: [[försvaga]] (削弱)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

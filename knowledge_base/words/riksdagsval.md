@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "议会选举（国会大选）"
 en: "general election (to the Riksdag)"
-synonyms: []
+synonyms: [parlamentsval]
 antonyms: []
 family: [riksdag, val, kommunval, valdag, vallokal, valsedel, valaffisch, vallöfte, valdebatt, valresultat, valarbetare]
 topics: [topic-val-demokrati]
@@ -23,6 +23,9 @@ interval: 0
 # riksdagsval — substantiv (ett)
 
 📖 中文：议会选举（国会大选） · English: general election (to the Riksdag)
+
+🇸🇪 Förklaring: val där folket bestämmer vilka som ska sitta i Sveriges parlament
+
 发音提示：RIKS-dags-val
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[riksdag]]，val，[[kommunval]]，[[valdag]]，[[vallokal]]，[[valsedel]]，[[valaffisch]]，[[vallöfte]]，[[valdebatt]]，[[valresultat]]，[[valarbetare]]（val- 复合词族）
+- 词族: [[riksdag]], [[val]], [[kommunval]], [[valdag]], [[vallokal]], [[valsedel]], [[valaffisch]], [[vallöfte]], [[valdebatt]], [[valresultat]], [[valarbetare]]（val- 复合词族）
+- 同义词: [[parlamentsval]] (议会选举)
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

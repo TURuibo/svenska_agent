@@ -9,7 +9,7 @@ zh: "地图"
 en: "map"
 synonyms: []
 antonyms: []
-family: []
+family: [kartlägga, stadskarta, världskarta]
 topics:
   - topic-riktningar
 sentences:
@@ -26,6 +26,9 @@ interval: 0
 # karta — substantiv (en)
 
 📖 中文：地图 · English: map
+
+🇸🇪 Förklaring: bild som visar hur ett område ser ut ovanifrån, med vägar, städer och berg
+
 发音提示：[ˈkɑːrta] — 两音节，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[kartlägga]] (绘制地图；摸清), [[stadskarta]] (城市地图), [[världskarta]] (世界地图)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-riktningar]]

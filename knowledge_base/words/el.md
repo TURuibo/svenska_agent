@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "电；电力；电费"
 en: "electricity; power; electricity bill"
-synonyms: []
+synonyms: [ström]
 antonyms: []
-family: [elsparkcykel]
+family: [elsparkcykel, elbil, elräkning, elektrisk]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-du-kan-också-få-stöd-för-vissa-andra]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # el — substantiv (en)
 
 📖 中文：电；电力；电费 · English: electricity; power; electricity bill
+
+🇸🇪 Förklaring: 1) energi som kommer genom ledningar och får lampor och maskiner att fungera; 2) kostnaden för den energin
+
 发音提示：EL，读 [eːl]，长元音。
 
 ## 语法变形 (Forms)
@@ -54,8 +57,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[elsparkcykel]]（电动滑板车）、`elbil`、`elräkning`、`elektrisk`（形容词）
-- 同义词: —（口语 `ström` = 电流、电）
+- 词族: [[elsparkcykel]]（电动滑板车）, [[elbil]], [[elräkning]], [[elektrisk]]（形容词）
+- 同义词: —（口语 [[ström]] = 电流、电）
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]
 

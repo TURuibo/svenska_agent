@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "分；分享；分摊；分割"
 en: "to split; to share; to divide"
-synonyms: []
-antonyms: []
-family: [delad, delning, andel]
+synonyms: [klyva, fördela]
+antonyms: [slå-ihop]
+family: [andel, delning, delad]
 topics: [topic-kafe-fika, topic-betalning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # dela — verb
 
 📖 中文：分；分享；分摊；分割 · English: to split; to share; to divide
+
+🇸🇪 Förklaring: 1) göra två eller flera bitar av något; 2) ge andra lite av det man har eller låta dem använda det; 3) betala eller ha något tillsammans med andra
+
 发音提示：DEH-la（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[andel]], [[delning]]
+- 词族: [[andel]], [[delning]], [[delad]]
+- 同义词: [[klyva]] (劈开), [[fördela]] (分配)
+- 反义词: [[slå-ihop|slå ihop]] (合并)
 - 主题: [[topic-betalning]], [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

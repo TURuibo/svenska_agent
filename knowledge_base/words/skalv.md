@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "地震震动，余震"
 en: "tremor, quake"
-synonyms: ["jordbävning"]
+synonyms: [jordbävning, efterskalv]
 antonyms: []
-family: []
+family: [skälva]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # skalv — substantiv (ett)
 
 📖 中文：地震震动，余震 · English: tremor, quake
+
+🇸🇪 Förklaring: plötslig rörelse i marken som gör att hus och mark skakar
+
 发音提示：[ˈskalv] — 单音节，v 发音清晰
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: skälva (verb — 颤抖/震动)
-- 同义词: [[jordbävning]] (更强调整体地震事件), efterskalv (余震)
+- 词族: [[skälva]] (verb — 颤抖/震动)
+- 同义词: [[jordbävning]] (更强调整体地震事件), [[efterskalv]] (余震)
 - 反义词: —
 - 主题: [[topic-naturkatastrof]]
 

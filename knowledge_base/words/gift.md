@@ -8,8 +8,8 @@ cefr: A2
 zh: 已婚的
 en: married
 synonyms: []
-antonyms: [ogift, skild]
-family: []
+antonyms: [ogift, skild, änka/änkling]
+family: [gifta-sig, giftermål, äktenskap]
 topics: [topic-familj-och-barn]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gift — adjektiv
 
 📖 中文：已婚的 · English: married
+
+🇸🇪 Förklaring: som har ingått äktenskap med någon
+
 发音提示：GIFT；元音 `i` 短促。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[gifta sig]] (v. 结婚), [[giftermål]] (ett, 婚姻/结婚), [[äktenskap]] (ett, 婚姻)
+- 词族: [[gifta-sig|gifta sig]] (v. 结婚), [[giftermål]] (ett, 婚姻/结婚), [[äktenskap]] (ett, 婚姻)
 - 同义词: —
 - 反义词: [[ogift]] (adj, 未婚的), [[skild]] (adj, 离婚的), [[änka/änkling]] (widow/widower)
 - 主题: [[topic-familj-och-barn]]

@@ -6,8 +6,8 @@ genus: en
 cefr: "A2"
 zh: "点单；订单；订购"
 en: "order; ordering"
-synonyms: []
-antonyms: []
+synonyms: [order]
+antonyms: [avbeställning]
 family: [beställa, beställd]
 topics: [topic-kafe-fika, topic-mat-dryck]
 sentences: []
@@ -22,6 +22,9 @@ interval: 0
 # beställning — substantiv
 
 📖 中文：点单；订单；订购 · English: order; ordering
+
+🇸🇪 Förklaring: det att man säger att man vill köpa något; det som man har sagt att man vill köpa
+
 发音提示：be-STÄLL-ning（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[beställa]]
+- 词族: [[beställa]], [[beställd]]
+- 同义词: [[order]] (订单)
+- 反义词: [[avbeställning]] (取消订单)
 - 主题: [[topic-kafe-fika]], [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

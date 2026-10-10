@@ -9,7 +9,7 @@ zh: "周二；星期二"
 en: "Tuesday"
 synonyms: []
 antonyms: []
-family: ["veckodagar", "måndag", "onsdag"]
+family: [veckodagar, måndag, onsdag]
 topics: ["topic-tid-och-tidsuttryck"]
 sentences: ["sent-tisdag-eller-onsdag-fungerar-bra"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tisdag — substantiv en
 
 📖 中文：周二；星期二 · English: Tuesday
+
+🇸🇪 Förklaring: veckans andra dag, mellan måndag och onsdag
+
 发音提示：TIS-dag
 
 ## 语法变形 (Forms)
@@ -54,7 +57,9 @@ Time expressions:
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[veckodagar]] · [[måndag]] · [[onsdag]]
+- 词族: [[veckodagar]] · [[måndag]] · [[onsdag]], [[måndag]], [[onsdag]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

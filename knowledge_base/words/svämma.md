@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B2
 zh: 泛滥；涌出
 en: to flood; to overflow
-synonyms: []
+synonyms: [flöda, rinna-över]
 antonyms: []
-family: []
+family: [översvämning, översvämma]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # svämma — verb (grupp 1)
 
 📖 中文：泛滥；涌出 · English: to flood; to overflow
+
+🇸🇪 Förklaring: rinna över kanten och täcka ett område, om vatten eller annan vätska
+
 发音提示：/ˈsvɛmːa/
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[översvämning]] (洪水), [[översvämma]] (淹没)
+- 同义词: [[flöda]] (涌流), [[rinna-över|rinna över]] (溢出)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

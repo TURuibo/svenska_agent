@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "聚集，聚会"
 en: "to gather, to assemble"
-synonyms: []
-antonyms: []
-family: ["samla"]
+synonyms: [träffas, mötas, församlas]
+antonyms: [skingras, skiljas]
+family: [samla]
 topics: ["topic-midsommar-traditioner"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # samlas — verb (deponens)
 
 📖 中文：聚集，聚会 · English: to gather, to assemble
+
+🇸🇪 Förklaring: komma till samma plats som en grupp
+
 发音提示：[ˈsɑːmlas]
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: samla (收集，召集，及物动词)
+- 词族: [[samla]] (收集，召集，及物动词)
+- 同义词: [[träffas]] (见面), [[mötas]] (会合), [[församlas]] (集会)
+- 反义词: [[skingras]] (散开), [[skiljas]] (分开)
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

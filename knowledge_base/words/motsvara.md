@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "相当于；对应"
 en: "to correspond to, be equivalent to"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [överensstämma-med, vara-lika-med]
+antonyms: [skilja-sig-från]
+family: [motsvarande, motsvarighet, svara]
 topics: [topic-argumentation]
 sentences: []
 known: false
@@ -19,6 +19,10 @@ created: 2026-10-09
 # motsvara — verb (grupp 1)
 
 📖 中文：相当于；对应 · English: to correspond to, be equivalent to
+
+🇸🇪 Förklaring: vara lika mycket som eller ha samma värde, betydelse eller uppgift som något annat
+
+发音提示：/ˈmuːtˌsvɑːra/ — 重音在 mot；o 读 uː
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: 2026-10-09
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[motsvarande]] (相应的), [[motsvarighet]] (对应物), [[svara]] (回答)
+- 同义词: [[överensstämma-med|överensstämma med]] (与……相符), [[vara-lika-med|vara lika med]] (等于)
+- 反义词: [[skilja-sig-från|skilja sig från]] (不同于)
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

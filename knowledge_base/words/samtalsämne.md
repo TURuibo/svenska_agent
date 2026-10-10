@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "话题"
 en: "topic of conversation"
-synonyms: []
+synonyms: [diskussionsämne, tema]
 antonyms: []
-family: ["ämne", "samtal"]
+family: [ämne, samtal]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # samtalsämne — substantiv
 
 📖 中文：话题 · English: topic of conversation
+
+🇸🇪 Förklaring: det som människor pratar om när de träffas
+
+发音提示：/ˈsamːtɑːlsˌɛmːnɛ/ — 复合词，重音在 sam；ä 读短音
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ämne]]
-- 同义词: []
-- 反义词: []
+- 词族: [[ämne]], [[samtal]]
+- 同义词: [[diskussionsämne]] (讨论话题), [[tema]] (主题)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

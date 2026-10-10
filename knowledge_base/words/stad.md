@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 城市；市镇
 en: city, town
-synonyms: []
-antonyms: []
-family: ["stadsmiljö", "stadskärna", "förstad", "stan"]
+synonyms: [tätort]
+antonyms: [landsbygd]
+family: [stan, stadsmiljö, stadskärna, förstad]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # stad — substantiv (en-ord)
 
 📖 中文：城市；市镇 · English: city, town
+
+🇸🇪 Förklaring: större ort med många hus, gator och invånare
+
 发音提示：/stɑːd/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[stan]] (城市/市区，口语), stadsmiljö, stadskärna (市中心)
-- 同义词: —
-- 反义词: —
+- 词族: [[stan]] (城市/市区，口语), [[stadsmiljö]], [[stadskärna]] (市中心), [[förstad]]
+- 同义词: [[tätort]] (城镇)
+- 反义词: [[landsbygd]] (农村)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

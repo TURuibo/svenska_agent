@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "推；推撞"
 en: "to push, to shove"
-synonyms: []
-antonyms: ["dra"]
-family: []
+synonyms: [putta, puffa]
+antonyms: [dra]
+family: [knuff, knuffas]
 topics: ["topic-småbarn-känslor-och-beteende", "topic-förskola-vardag"]
 sentences: ["sent-noah-knuffade-ella-förra-veckan-så"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # knuffa — verb (grupp 1)
 
 📖 中文：推；推撞 · English: to push, to shove
+
+🇸🇪 Förklaring: trycka till någon eller något hastigt med händerna eller kroppen
+
 发音提示：KNUFF-a，k 要发音（kn- 不像英语哑音）
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
+- 词族: [[knuff]] (推搡), [[knuffas]] (互相推挤)
+- 同义词: [[putta]] (推), [[puffa]] (轻推)
 - 反义词: [[dra]]
 - 主题: [[topic-småbarn-känslor-och-beteende]], [[topic-förskola-vardag]]
 

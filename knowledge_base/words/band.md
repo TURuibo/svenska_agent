@@ -6,7 +6,7 @@ genus: "ett"
 cefr: A2
 zh: 传送带；带子；乐队
 en: belt, band, ribbon, (conveyor) belt
-synonyms: []
+synonyms: [remsa, musikgrupp]
 antonyms: []
 family: [binda]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # band — substantiv (ett)
 
 📖 中文：（收银）传送带；带子；乐队 · English: conveyor belt; band; ribbon
+
+🇸🇪 Förklaring: smal remsa av tyg eller plast; rullande yta som flyttar varor eller väskor; grupp musiker som spelar tillsammans
+
 发音提示：/band/
 
 ⚠️ 同形异义：`band` 也是动词 [[binda]] 的过去式（han band = 他系/绑了）。本文中 `bandet` 是名词“传送带”。
@@ -48,8 +51,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[binda]]
-- 同义词:
-- 反义词:
+- 同义词: [[remsa]] (带子), [[musikgrupp]] (乐队)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

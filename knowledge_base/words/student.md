@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 大学生/学生（高等教育）
 en: university student
-synonyms: []
+synonyms: [studerande]
 antonyms: []
-family: [studera, studentexamen, utbildning]
+family: [studera, utbildning, studentexamen]
 topics: [topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # student — substantiv (en-ord)
 
 📖 中文：大学生/学生（高等教育） · English: university student
+
+🇸🇪 Förklaring: person som läser på universitet eller högskola
+
 发音提示：[stʉˈdɛnt] — 重音在第二音节
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[studera]], [[utbildning]]
+- 词族: [[studera]], [[utbildning]], [[studentexamen]]
+- 同义词: [[studerande]] (学生)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

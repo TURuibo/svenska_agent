@@ -8,7 +8,7 @@ zh: "建筑材料"
 en: "building material"
 synonyms: []
 antonyms: []
-family: ["byggavfall"]
+family: [byggavfall]
 topics: ["topic-hemmet"]
 sentences:
   - sent-den-är-bara-för-byggmaterial-inte
@@ -23,6 +23,9 @@ interval: 0
 # byggmaterial — substantiv (ett)
 
 📖 中文：建筑材料 · English: building material
+
+🇸🇪 Förklaring: material som man använder för att göra hus och vägar, till exempel trä, sten och betong
+
 发音提示：BYGG-ma-te-ri-al，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[byggavfall]]（同为 bygg- 复合词）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

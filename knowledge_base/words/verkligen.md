@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 真的；确实
 en: really; truly
-synonyms: []
+synonyms: [faktiskt, riktigt, sant]
 antonyms: []
-family: []
+family: [verklighet, verklig]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # verkligen — adverb
 
 📖 中文：真的；确实 · English: really; truly
+
+🇸🇪 Förklaring: används för att betona att något är sant eller gäller på riktigt
+
 发音提示：VERK-li-gen
 
 ## 语法变形 (Forms)
@@ -41,8 +44,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: verklighet (现实), verklig (真实的)
-- 同义词: faktiskt (实际上), riktigt (真正地), sant (确实)
+- 词族: [[verklighet]] (现实), [[verklig]] (真实的)
+- 同义词: [[faktiskt]] (实际上), [[riktigt]] (真正地), [[sant]] (确实)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

@@ -23,6 +23,9 @@ interval: 0
 # nuförtiden — adverb
 
 📖 中文：如今 · English: nowadays
+
+🇸🇪 Förklaring: i vår tid, jämfört med hur det var tidigare
+
 发音提示：NU-för-ti-den
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: nu（现在），tid（时间）
-- 同义词: numera（如今，较正式）
-- 反义词: förr（以前）
+- 词族: [[nu]]（现在）, [[tid]]（时间）
+- 同义词: [[numera]]（如今，较正式）
+- 反义词: [[förr]]（以前）
 - 主题: —
 
 ## 用法提示 (Usage Notes)

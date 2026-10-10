@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "上升；迈步；走上"
 en: "to rise / step / climb"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [klättra]
+antonyms: [sjunka]
+family: [stiga-upp, uppstigning]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # stiga — verb (oregelbundet)
 
 📖 中文：上升；迈步；走上 · English: to rise / step / climb
+
+🇸🇪 Förklaring: 1) bli högre eller mer, t.ex. om pris eller temperatur; 2) gå eller kliva upp på eller in i något
+
 发音提示：STI-ga；两音节。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[stiga upp]] (partikelverb: 起床), [[uppstigning]] (上升)
+- 词族: [[stiga-upp|stiga upp]] (partikelverb: 起床), [[uppstigning]] (上升)
 - 同义词: [[klättra]] (v. 攀爬，指努力往上爬)
 - 反义词: [[sjunka]] (v. 下沉/下降)
 - 主题: [[topic-vardagsrutin]]

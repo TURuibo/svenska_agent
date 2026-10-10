@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "咬痕"
 en: "bite mark"
-synonyms: ["märke"]
+synonyms: [märke]
 antonyms: []
-family: ["bita", "märke"]
+family: [bita, märke]
 topics: ["topic-sjukt-barn-och-vab", "topic-förskola-vardag"]
 sentences: ["sent-han-fick-ett-litet-bitmärke"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # bitmärke — substantiv (ett)
 
 📖 中文：咬痕 · English: bite mark
+
+🇸🇪 Förklaring: spår av tänder på huden eller på något annat
+
 发音提示：BEET-mär-ke，复合词重音在第一部分
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 
 - 词族: [[bita]], [[märke]]
 - 同义词: [[märke]]（泛指痕迹）
-- 反义词:
+- 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -6,8 +6,8 @@ verbgrupp: "1"
 cefr: A2
 zh: 喊；叫
 en: to shout; to call out
-synonyms: []
-antonyms: []
+synonyms: [skrika, kalla]
+antonyms: [viska]
 family: [rop]
 topics: []
 sentences: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # ropa — verb (grupp 1)
 
 📖 中文：喊；叫 · English: to shout; to call out
+
+🇸🇪 Förklaring: säga något med hög röst så att någon ska höra
+
+发音提示：/ˈruːpa/ — o 读长音 /uː/
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: rop (ett, 喊声)
-- 同义词:
-- 反义词:
+- 词族: [[rop]] (ett, 喊声)
+- 同义词: [[skrika]] (喊叫), [[kalla]] (呼唤)
+- 反义词: [[viska]] (低语)
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "蔬菜"
 en: "vegetable"
 synonyms: []
 antonyms: []
-family: []
+family: [grön]
 topics: [topic-mat-dryck]
 sentences:
   - sent-ja-vi-har-en-fläskfilé
@@ -24,6 +24,9 @@ interval: 0
 # grönsak — substantiv (en)
 
 📖 中文：蔬菜 · English: vegetable
+
+🇸🇪 Förklaring: växt eller del av en växt som man äter, till exempel morot eller sallad, men som inte räknas som frukt
+
 发音提示：GRÖN-sak
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: grön (绿色) + sak (物品) → 绿色食物
+- 词族: [[grön]] (绿色) + sak (物品) → 绿色食物
+- 同义词: —
+- 反义词: —
 - 相关词: [[tomat]], [[gurka]], [[morot]], [[lök]], [[sallad]]
 - 主题: [[topic-mat-dryck]]
 

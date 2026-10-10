@@ -7,7 +7,7 @@ genus: ""
 cefr: "C1"
 zh: "驱逐（租客）"
 en: "to evict"
-synonyms: []
+synonyms: [avhysa, kasta-ut]
 antonyms: []
 family: [hyra]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,9 @@ created: "2026-10-06"
 # vräka — verb
 
 📖 中文：驱逐（租客） · English: to evict
+
+🇸🇪 Förklaring: tvinga en hyresgäst att flytta från sin bostad
+
 发音提示：VREH-ka
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-10-06"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hyra]]
+- 同义词: [[avhysa]] (驱逐), [[kasta-ut|kasta ut]] (赶出去)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

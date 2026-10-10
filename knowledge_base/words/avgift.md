@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "费用"
 en: "fee"
 synonyms: [pris]
-antonyms: []
-family: []
+antonyms: [gratis]
+family: [parkeringsavgift, årsavgift, avgiftsfri]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-avgiften-följer-maxtaxan-och-beror-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # avgift — substantiv (en)
 
 📖 中文：费用；收费 · English: fee; charge
+
+🇸🇪 Förklaring: pengar som man måste betala för en tjänst eller för att få göra något
+
 发音提示：[ˈɑːvˌjɪft]，g 在 i 前发 [j]。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[parkeringsavgift]] (停车费), [[årsavgift]] (年费), [[avgiftsfri]] (免费的)
 - 同义词: [[pris]]（价格，商品用）
 - 反义词: [[gratis]]（免费）
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]

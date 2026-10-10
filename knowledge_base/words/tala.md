@@ -7,8 +7,8 @@ cefr: A2
 zh: 说话；讲(语言)
 en: to speak; to talk
 synonyms: [säga]
-antonyms: []
-family: []
+antonyms: [tiga]
+family: [tal, talare, samtal]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # tala — verb (grupp 1)
 
 📖 中文：说话；讲(语言) · English: to speak; to talk
+
+🇸🇪 Förklaring: använda rösten för att säga ord; kunna använda ett visst språk muntligt
+
 发音提示：/ˈtɑːla/
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: säga
-- 反义词: 
+- 词族: [[tal]] (演讲), [[talare]] (演讲者), [[samtal]] (谈话)
+- 同义词: [[säga]]
+- 反义词: [[tiga]] (沉默)
 - 主题: 
 
 ## 用法提示 (Usage Notes)

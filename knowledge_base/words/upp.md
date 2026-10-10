@@ -6,8 +6,8 @@ cefr: A1
 zh: 向上；（小品词）开始、完成、成长
 en: up
 synonyms: []
-antonyms: []
-family: [uppe]
+antonyms: [ner]
+family: [uppe, uppåt, uppför]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # upp — adverb (partikel)
 
 📖 中文：向上；（小品词）开始、完成、成长 · English: up
+
+🇸🇪 Förklaring: mot en högre plats; som partikel kan det visa att något börjar, blir färdigt eller växer
+
 发音提示：/ɵpː/；`u` 读 /ɵ/（圆唇的短音），`pp` 读长。
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[uppe]]（在上面）, uppåt（向上）, uppför（沿……而上）
+- 词族: [[uppe]]（在上面）, [[uppåt]]（向上）, [[uppför]]（沿……而上）
 - 同义词: —
-- 反义词: ner（向下；`gå ner`）
+- 反义词: [[ner]]（向下；`gå ner`）
 - 主题:
 
 ## 用法提示 (Usage Notes)

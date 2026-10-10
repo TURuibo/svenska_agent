@@ -19,6 +19,9 @@ created: "2026-09-26"
 # olik — adjektiv
 
 📖 中文：不同的 · English: different
+
+🇸🇪 Förklaring: som skiljer sig från något annat
+
 发音提示：/ˈuːˌliːk/ — 前缀 **o-** 读长 /uː/，主重音在 o，-lik 里的 i 长音。
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[olika]]（复数/副词形式，也作限定词「各种」）、[[lik]]
+- 词族: [[olika]]（复数/副词形式，也作限定词「各种」）, [[lik]]
 - 同义词: [[annorlunda]]（与众不同）
-- 反义词: [[likadan]]、[[lik]]
+- 反义词: [[likadan]], [[lik]]
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

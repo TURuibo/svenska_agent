@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 搏斗；摔跤；苦于（应对困难）
 en: to wrestle, to struggle, to grapple with
-synonyms: []
+synonyms: [kämpa]
 antonyms: []
-family: []
+family: [brottning]
 topics:
   - topic-geografi-samhalle
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # brottas — verb
 
 📖 中文：搏斗；摔跤；苦于（应对困难） · English: to wrestle, to struggle, to grapple with
+
+🇸🇪 Förklaring: slåss utan vapen och försöka få ner den andra på marken; kämpa med ett svårt problem
+
 发音提示：/ˈbrɔtːas/ — 重音首音节，-as 为去代词被动标记
 
 ## 语法变形 (Forms)

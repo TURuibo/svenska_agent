@@ -22,6 +22,9 @@ interval: 0
 # önska — verb
 
 📖 中文：希望；想要；祝愿 · English: to wish; to want; to desire
+
+🇸🇪 Förklaring: vilja ha något eller vilja att något ska hända; säga att man hoppas att någon ska få det bra
+
 发音提示：ÖN-ska（重音在第一音节，öň 带圆唇）
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[önskan]]
+- 词族: [[önskan]], [[önskning]], [[önskad]]
 - 同义词: [[vilja]], [[hoppas]]
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

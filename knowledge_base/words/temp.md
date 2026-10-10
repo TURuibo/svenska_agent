@@ -19,6 +19,9 @@ created: "2026-09-26"
 # temp — substantiv
 
 📖 中文：体温（口语，= temperatur） · English: temperature (colloquial)
+
+🇸🇪 Förklaring: hur varm kroppen är, särskilt när man mäter om man har feber (vardagligt)
+
 发音提示：TEMP，短元音，p 收尾清晰。
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ created: "2026-09-26"
 
 - 词族: [[temperatur]]
 - 同义词: [[temperatur]]
-- 反义词: 
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

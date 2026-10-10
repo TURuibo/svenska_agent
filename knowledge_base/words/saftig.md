@@ -7,8 +7,8 @@ cefr: A2
 zh: "多汁的"
 en: "juicy"
 synonyms: []
-antonyms: []
-family: ["juice"]
+antonyms: [torr]
+family: [saft, juice]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # saftig — adjektiv
 
 📖 中文：多汁的 · English: juicy
+
+🇸🇪 Förklaring: som innehåller mycket vätska och är god att äta
+
 发音提示：['saftɪg]
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: saft (果汁/汁液), [[juice]]
+- 词族: [[saft]] (果汁/汁液), [[juice]]
 - 同义词: —
-- 反义词: —
+- 反义词: [[torr]] (干的)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

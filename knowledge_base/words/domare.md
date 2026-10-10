@@ -8,7 +8,7 @@ zh: "法官"
 en: "judge"
 synonyms: []
 antonyms: []
-family: ["dom"]
+family: [dom]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # domare — substantiv
 
 📖 中文：法官 · English: judge
-发音提示：
+
+🇸🇪 Förklaring: person som leder en rättegång och avgör vad som är rätt enligt lagen
+
+发音提示：/ˈduːmarɛ/ — o 读长音 uː；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -35,8 +38,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dom]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "散步"
 en: "walk; stroll"
-synonyms: []
+synonyms: [vandring]
 antonyms: []
 family: [promenera]
 topics: [topic-vardagsrutin, topic-fritid-och-resor]
@@ -24,6 +24,9 @@ interval: 0
 # promenad — substantiv (en)
 
 📖 中文：散步 · English: walk; stroll
+
+🇸🇪 Förklaring: tur till fots, ofta i lugnt tempo för att röra på sig eller njuta av naturen
+
 发音提示：[prɔme'naːd]
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[promenera]] (动词)
-- 同义词: —
+- 同义词: [[vandring]] (徒步)
 - 反义词: —
 - 主题: [[topic-vardagsrutin]], [[topic-fritid-och-resor]]
 

@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "推（人）；轻推"
 en: "to push (someone), to shove"
-synonyms: ["knuffa"]
-antonyms: []
+synonyms: [knuffa]
+antonyms: [dra]
 family: []
 topics: ["topic-småbarn-känslor-och-beteende", "topic-förskola-vardag"]
 sentences: ["sent-nej-noah-vi-puttas-inte"]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # putta — verb (grupp 1)
 
 📖 中文：推（人）；轻推 · English: to push (someone), to shove
+
+🇸🇪 Förklaring: ge någon eller något en lätt stöt med handen så att det flyttar sig
+
 发音提示：PUT-ta（u 短促，双 t 要顿一下）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
 - 同义词: [[knuffa]]（更用力的推/撞）
+- 反义词: [[dra]] (拉)
 - 主题: [[topic-småbarn-känslor-och-beteende]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

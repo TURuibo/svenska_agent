@@ -8,7 +8,7 @@ zh: 家庭游泳时段
 en: family swim session
 synonyms: []
 antonyms: []
-family: []
+family: [familj, bad, badhus]
 topics: [topic-simhall-och-schema]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-05"
 # familjebad — substantiv (ett)
 
 📖 中文：家庭游泳时段 · English: family swim session
+
+🇸🇪 Förklaring: tid i en simhall då barn och vuxna kan bada tillsammans
+
 发音提示：fa-MIL-je-bad
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[familj]] (家庭), [[bad]] (游泳；洗澡), [[badhus]] (游泳馆)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-simhall-och-schema]]
 - 相关: [[simhall]], [[bada]]
 

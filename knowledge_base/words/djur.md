@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A1"
 zh: "动物"
 en: "animal"
-synonyms: []
+synonyms: [best]
 antonyms: []
-family: []
+family: [husdjur, djurpark, djurvård]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # djur — substantiv (ett)
 
 📖 中文：动物 · English: animal
+
+🇸🇪 Förklaring: levande varelse som kan röra sig och äta, men som inte är en människa eller en växt
+
 发音提示：/jʉːr/
 
 ## 语法变形 (Forms)

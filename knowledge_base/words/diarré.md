@@ -6,8 +6,8 @@ genus: "en"
 cefr: "B1"
 zh: "腹泻"
 en: "diarrhoea"
-synonyms: []
-antonyms: []
+synonyms: [lös-mage]
+antonyms: [förstoppning]
 family: []
 topics: []
 sentences: []
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # diarré — substantiv
 
 📖 中文：腹泻 · English: diarrhoea
-发音提示：
+
+🇸🇪 Förklaring: när avföringen är lös och man måste gå på toaletten ofta
+
+发音提示：/dɪaˈreː/ — 重音在最后音节 ré
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: —
+- 同义词: [[lös-mage|lös mage]] (拉肚子)
+- 反义词: [[förstoppning]] (便秘)
 - 主题: [[]]
 
 ## 用法提示 (Usage Notes)

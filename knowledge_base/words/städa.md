@@ -7,8 +7,8 @@ genus: ""
 cefr: A2
 zh: 打扫；收拾；整理
 en: to clean; to tidy up
-synonyms: []
-antonyms: []
+synonyms: [göra-rent, plocka-undan]
+antonyms: [stöka-till]
 family: [städning, städare]
 topics: [topic-hemmet, topic-vardagsrutin]
 sentences: [sent-jag-stadade-lite-tvattade-klader]
@@ -23,6 +23,9 @@ interval: 0
 # städa — verb
 
 📖 中文：打扫；收拾；整理 · English: to clean; to tidy up
+
+🇸🇪 Förklaring: göra rent och ställa i ordning i ett rum eller en bostad
+
 发音提示：/²stɛːda/
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[städning]] (打扫/清洁，名词), [[städare]] (清洁工)
+- 同义词: [[göra-rent|göra rent]] (打扫), [[plocka-undan|plocka undan]] (收拾)
+- 反义词: [[stöka-till|stöka till]] (弄乱)
 - 主题: [[topic-hemmet]], [[topic-vardagsrutin]]
 
 ## 用法提示 (Usage Notes)

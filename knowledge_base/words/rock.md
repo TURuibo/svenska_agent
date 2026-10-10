@@ -8,7 +8,7 @@ zh: "大衣/长外套"
 en: "overcoat"
 synonyms: [kappa, jacka]
 antonyms: []
-family: []
+family: [vinterrock, regnrock, läkarrock]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # rock — substantiv (en-ord)
 
 📖 中文：大衣/长外套 · English: overcoat
+
+🇸🇪 Förklaring: lång och varm ytterjacka som ofta går ner till knäna
+
 发音提示：/rɔkː/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vinterrock]] (冬季大衣), [[regnrock]] (雨衣), [[läkarrock]] (白大褂)
 - 同义词: [[kappa]], [[jacka]]
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

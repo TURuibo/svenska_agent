@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: B1
 zh: 移民（出国）
 en: to emigrate
-synonyms: []
+synonyms: [utvandra]
 antonyms: [immigrera]
 family: [bosätta-sig]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # emigrera — verb (grupp 1)
 
 📖 中文：移民（出国） · English: to emigrate
+
+🇸🇪 Förklaring: flytta från sitt hemland för att bo i ett annat land
+
 发音提示：/emɪˈɡreːra/
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bosätta-sig]]
-- 同义词:
+- 同义词: [[utvandra]] (移居国外)
 - 反义词: [[immigrera]]
 - 主题:
 

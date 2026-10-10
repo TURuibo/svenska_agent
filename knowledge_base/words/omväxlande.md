@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "多样的、有变化的"
 en: "varied"
-synonyms: ["varierande"]
-antonyms: ["enformig"]
-family: ["omväxling", "växla"]
+synonyms: [varierande]
+antonyms: [enformig]
+family: [omväxling, växla]
 topics: ["topic-sfi-sprak-larande"]
 sentences: ["sent-här-berättar-de-om-sina"]
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # omväxlande — adjektiv
 
 📖 中文：多样的、有变化的 · English: varied
+
+🇸🇪 Förklaring: som förändras ofta och inte är likadan hela tiden
+
 发音提示：om-VÄX-lan-de
 
 ## 语法变形 (Forms)
@@ -35,7 +38,7 @@ Particip-adjektiv (presens particip av omväxla); **oböjligt**: `omväxlande`.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[omväxling]]（变化，名词）
+- 词族: [[omväxling]]（变化，名词）, [[växla]]
 - 同义词: [[varierande]]（有变化的）
 - 反义词: [[enformig]]（单调的）
 - 主题: [[topic-sfi-sprak-larande]]

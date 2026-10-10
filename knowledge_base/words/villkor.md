@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "条件，待遇"
 en: "condition(s), terms"
-synonyms: []
+synonyms: [förutsättning, krav]
 antonyms: []
-family: []
+family: [villkorlig, ovillkorlig, anställningsvillkor]
 topics: []
 sentences: [sent-när-kvinnorna-började-arbeta-i-fabriker]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # villkor — substantiv
 
 📖 中文：条件，待遇 · English: condition(s), terms
-发音提示：
+
+🇸🇪 Förklaring: något som måste vara uppfyllt för att något annat ska gälla; förhållanden som man lever eller arbetar under
+
+发音提示：/ˈvɪlːˌkoːr/ — o 读 oː（近 å）；重音在 vill
 
 ## 语法变形 (Forms)
 
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[villkorlig]] (有条件的), [[ovillkorlig]] (无条件的), [[anställningsvillkor]] (雇佣条件)
+- 同义词: [[förutsättning]] (前提), [[krav]] (要求)
 - 反义词: —
 - 主题: —
 

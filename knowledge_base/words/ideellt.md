@@ -6,7 +6,7 @@ cefr: B1
 zh: 义务地、公益地
 en: voluntarily (non-profit)
 synonyms: [frivilligt]
-antonyms: []
+antonyms: [kommersiellt, avlönat]
 family: [ideell]
 topics: [topic-sociala-normer]
 sentences: []
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # ideellt — adverb
 
 📖 中文：义务地、公益地 · English: voluntarily (non-profit)
+
+🇸🇪 Förklaring: utan att få betalt, för att hjälpa andra eller stödja en förening
+
 发音提示：/ideˈɛlːt/
 
 ## 语法变形 (Forms)
@@ -37,7 +40,7 @@ created: "2026-09-22"
 
 - 词族: [[ideell]]
 - 同义词: [[frivilligt]]
-- 反义词:
+- 反义词: [[kommersiellt]] (商业地), [[avlönat]] (有偿地)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

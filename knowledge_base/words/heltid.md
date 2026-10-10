@@ -6,9 +6,9 @@ genus: en
 cefr: "A2"
 zh: "全职；全工时"
 en: "full-time"
-synonyms: []
-antonyms: ["deltid"]
-family: ["deltid"]
+synonyms: [heltidstjänst]
+antonyms: [deltid]
+family: [deltid]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # heltid — substantiv
 
 📖 中文：全职；全工时 · English: full-time
+
+🇸🇪 Förklaring: full arbetstid, oftast ungefär 40 timmar i veckan
+
 发音提示：HEL-tid（两音节）
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: [[deltid]]
 - 词族: [[deltid]]
+- 同义词: [[heltidstjänst]] (全职职位)
+- 反义词: [[deltid]]
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

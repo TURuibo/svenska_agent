@@ -25,6 +25,9 @@ interval: 0
 # bokhylla — substantiv (en)
 
 📖 中文：书架 · English: bookshelf; bookcase
+
+🇸🇪 Förklaring: möbel med flera hyllplan där man förvarar böcker
+
 发音提示：BOK-hyl-la；tre stavelser.
 
 ## 语法变形 (Forms)

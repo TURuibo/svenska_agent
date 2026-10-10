@@ -6,8 +6,8 @@ cefr: A2
 zh: （否定之后）而是；没有
 en: but (rather); without
 synonyms: []
-antonyms: []
-family: []
+antonyms: [med]
+family: [utanför, utanpå]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # utan — konjunktion / preposition
 
 📖 中文：（否定之后）而是；没有 · English: but (rather); without
+
+🇸🇪 Förklaring: används efter ett nekande led för att visa vad som gäller i stället; när man inte har något eller någon med sig
+
 发音提示：/ˈʉːtan/；`u` 读长 /ʉː/，重音在第一音节 U-tan。
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: utanför（在……之外；见 [[utanför]]）, utanpå（在外表）
-- 同义词:
-- 反义词: med（有，带着）
+- 词族: utanför（在……之外；见 [[utanför]]）, [[utanpå]]（在外表）
+- 同义词: —
+- 反义词: [[med]]（有，带着）
 - 主题:
 
 ## 用法提示 (Usage Notes)

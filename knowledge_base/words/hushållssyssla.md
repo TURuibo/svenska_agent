@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "家务活"
 en: "household chore"
-synonyms: []
+synonyms: [husgöra]
 antonyms: []
-family: ["hushåll", "syssla"]
+family: [hushåll, syssla]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # hushållssyssla — substantiv (en)
 
 📖 中文：家务活 · English: household chore
+
+🇸🇪 Förklaring: arbetsuppgift i hemmet, till exempel att diska, tvätta eller damma
+
 发音提示：hus-HÅLLS-syss-la
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hushåll]], [[syssla]]
+- 同义词: [[husgöra]] (家务活)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

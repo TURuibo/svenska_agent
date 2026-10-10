@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 糕点咖啡馆
 en: pastry café; konditori
-synonyms: []
+synonyms: [kafé]
 antonyms: []
-family: []
+family: [konditor, konditorivara]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # konditori — substantiv (ett)
 
 📖 中文：糕点咖啡馆 · English: pastry café; konditori
+
+🇸🇪 Förklaring: kafé som säljer bakelser, kakor och tårtor som ofta bakas på stället
+
 发音提示：kon-di-toh-REE
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[konditor]] (糕点师), [[konditorivara]] (糕点)
+- 同义词: [[kafé]] (咖啡馆)
+- 反义词: —
 - 相关: [[kafé]] (咖啡馆，更通用)
 - 主题: [[topic-kafe-fika]]
 

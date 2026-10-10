@@ -6,8 +6,8 @@ genus: ett
 cefr: "A2"
 zh: "住宅区；居民区"
 en: "residential area; housing area"
-synonyms: []
-antonyms: []
+synonyms: [bostadskvarter]
+antonyms: [industriområde]
 family: [boende, bostadshus]
 topics: [topic-hemmet, topic-stadsmiljo]
 sentences:
@@ -23,6 +23,9 @@ interval: 0
 # bostadsområde — substantiv (ett)
 
 📖 中文：住宅区；居民区 · English: residential area; housing area
+
+🇸🇪 Förklaring: del av en stad där det nästan bara finns hem och inte affärer eller fabriker
+
 发音提示：bos-TADS-om-rå-de（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[boende]], [[bostadshus]]
+- 同义词: [[bostadskvarter]] (住宅街区)
+- 反义词: [[industriområde]] (工业区)
 - 主题: [[topic-hemmet]], [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

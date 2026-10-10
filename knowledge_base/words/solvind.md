@@ -19,6 +19,10 @@ created: "2026-10-03"
 
 📖 中文：太阳风 · English: solar wind
 
+🇸🇪 Förklaring: ström av laddade partiklar som solen hela tiden skickar ut i rymden
+
+发音提示：/ˈsuːlˌvɪnd/ — o 读 uː；主重音在 sol
+
 ## 语法变形 (Forms)
 
 复合词：sol + vind。en solvind, solvinden。
@@ -32,5 +36,7 @@ created: "2026-10-03"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sol]], [[vind]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-himmel-och-norrsken]]
 - 来源: [[source-2026-10-03-norrsken]]

@@ -8,7 +8,7 @@ zh: "首次登场"
 en: "to debut / to make one's debut"
 synonyms: []
 antonyms: []
-family: []
+family: [debut, debutant]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # debutera — verb
 
 📖 中文：首次登场 · English: to debut / to make one's debut
+
+🇸🇪 Förklaring: visa upp sig offentligt för första gången, till exempel som artist eller idrottare
+
 发音提示：[debɵ'teːra]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ Verbgrupp 1 (–ar). Lånord från franska.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[debut]] (首次亮相), [[debutant]] (新人)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-fotboll]]

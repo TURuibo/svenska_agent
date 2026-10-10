@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 怀孕的
 en: pregnant
-synonyms: []
+synonyms: [med-barn]
 antonyms: []
-family: []
+family: [graviditet, gravidtest]
 topics: [topic-familj-och-barn]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gravid — adjektiv
 
 📖 中文：怀孕的 · English: pregnant
+
+🇸🇪 Förklaring: som väntar barn, med ett barn som växer i magen
+
 发音提示：gra-VID；重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[graviditet]] (en, 妊娠/孕期), [[gravidtest]] (ett, 验孕棒)
-- 同义词: [[med barn]] (phrase, 怀孕了，口语/文学体)
+- 同义词: [[med-barn|med barn]] (phrase, 怀孕了，口语/文学体)
 - 反义词: —
 - 主题: [[topic-familj-och-barn]]
 

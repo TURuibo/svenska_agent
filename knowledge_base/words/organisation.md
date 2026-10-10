@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "组织"
 en: "organisation"
-synonyms: []
+synonyms: [förening, sammanslutning]
 antonyms: []
-family: []
+family: [organisera, organisatör, organisatorisk]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-hon-engagerade-sig-för-fred]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # organisation — substantiv
 
 📖 中文：组织 · English: organisation
-发音提示：
+
+🇸🇪 Förklaring: grupp av människor som arbetar tillsammans för ett gemensamt mål, till exempel en förening eller ett företag
+
+发音提示：/ɔrɡanɪsaˈɧuːn/ — -tion 读 ɧuːn，重音在最后
 
 ## 语法变形 (Forms)
 
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[organisera]] (组织), [[organisatör]] (组织者), [[organisatorisk]] (组织上的)
+- 同义词: [[förening]] (协会), [[sammanslutning]] (联合会)
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

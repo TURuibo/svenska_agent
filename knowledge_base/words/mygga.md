@@ -8,7 +8,7 @@ zh: "蚊子"
 en: "mosquito"
 synonyms: []
 antonyms: []
-family: []
+family: [myggbett, myggmedel, myggnät]
 topics: []
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # mygga — substantiv
 
 📖 中文：蚊子 · English: mosquito
-发音提示：
+
+🇸🇪 Förklaring: liten insekt med långa ben som sticker människor och djur och suger blod
+
+发音提示：/ˈmʏɡːa/ — y 读短音；gg 读长辅音
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[myggbett]] (蚊子叮咬), [[myggmedel]] (驱蚊剂), [[myggnät]] (蚊帐)
+- 同义词: —
+- 反义词: —
 - 主题: [[]]
 
 ## 用法提示 (Usage Notes)

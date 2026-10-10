@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "伤害, 损坏"
 en: "to injure, to damage"
-synonyms: []
-antonyms: []
-family: ["skadad", "skada (subst)"]
+synonyms: [göra-illa, förstöra]
+antonyms: [gynna, laga]
+family: [skadad]
 topics: ["topic-hälsa"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # skada — verb
 
 📖 中文：伤害, 损坏 · English: to injure, to damage
+
+🇸🇪 Förklaring: göra illa någon eller förstöra något så att det inte fungerar som förut
+
 发音提示：ska-da
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[skadad]]
+- 同义词: [[göra-illa|göra illa]] (伤害), [[förstöra]] (毁坏)
+- 反义词: [[gynna]] (有利于), [[laga]] (修理)
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

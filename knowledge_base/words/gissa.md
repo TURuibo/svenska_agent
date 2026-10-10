@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A2
 zh: 猜
 en: to guess
-synonyms: []
-antonyms: []
-family: []
+synonyms: [tippa, anta]
+antonyms: [veta]
+family: [gissning]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # gissa — verb (grupp 1)
 
 📖 中文：猜、猜测 · English: to guess
+
+🇸🇪 Förklaring: säga ett svar utan att veta säkert om det är rätt
+
+发音提示：/ˈjɪsːa/ — g 在 i 前读 j；ss 要长
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: gissning（猜测）
-- 同义词:
-- 反义词:
+- 词族: [[gissning]]（猜测）
+- 同义词: [[tippa]] (猜测), [[anta]] (推测)
+- 反义词: [[veta]] (知道)
 - 主题:
 
 ## 用法提示 (Usage Notes)

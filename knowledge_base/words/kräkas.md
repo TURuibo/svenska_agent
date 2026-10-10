@@ -19,6 +19,9 @@ created: "2026-09-26"
 # kräkas — verb (grupp 2b, deponens)
 
 📖 中文：呕吐 · English: to vomit; to throw up
+
+🇸🇪 Förklaring: tömma magen genom munnen när man mår illa
+
 发音提示：[ˈkrɛːkas]，长 ä。
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kräkning]]
-- 同义词: spy（口语「吐」）
+- 同义词: [[spy]]（口语「吐」）
 - 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]] · [[topic-förskola-vardag]]
 

@@ -8,7 +8,7 @@ zh: 铁路
 en: railway
 synonyms: []
 antonyms: []
-family: ["tåg", "väg"]
+family: [tåg, väg]
 topics: ["topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # järnväg — substantiv (en)
 
 📖 中文：铁路 · English: railway
+
+🇸🇪 Förklaring: spår av stål som tåg kör på, och hela systemet med tåg och stationer
+
 发音提示：JÄRN-väg
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tåg]], [[väg]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-trafik]]
 
 ## 用法提示 (Usage Notes)

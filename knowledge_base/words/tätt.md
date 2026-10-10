@@ -5,9 +5,9 @@ ordklass: "adverb"
 cefr: "B1"
 zh: "紧密地"
 en: "closely"
-synonyms: []
-antonyms: []
-family: ["tät"]
+synonyms: [nära]
+antonyms: [glest]
+family: [tät]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # tätt — adverb
 
 📖 中文：紧密地 · English: closely
+
+🇸🇪 Förklaring: nära varandra, med lite utrymme emellan; ofta, med korta mellanrum
+
+发音提示：/tɛtː/ — ä 读短音（tät 中为长音），tt 长
 
 ## 语法变形 (Forms)
 
@@ -39,8 +43,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tät]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[nära]] (接近地)
+- 反义词: [[glest]] (稀疏地)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

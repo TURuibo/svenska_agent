@@ -7,7 +7,7 @@ genus: ""
 cefr: A2
 zh: 称作、叫做；召唤；（kallas）被称为
 en: to call, name; to summon; (kallas) to be called
-synonyms: []
+synonyms: [heta]
 antonyms: []
 family: [kallelse]
 topics: []
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # kalla — verb (grupp 1)
 
 📖 中文：称作、叫做；召唤 · English: to call, name; to summon
+
+🇸🇪 Förklaring: ge någon eller något ett namn; be någon att komma till ett visst ställe; (kallas) ha ett visst namn
+
 发音提示：/ˈkalːa/（和形容词 kall「冷的」同词根拼写，但是两个不同的词）
 
 ## 语法变形 (Forms)
@@ -57,9 +60,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kallelse（通知、传唤）
-- 同义词: heta（heta 是主动"名叫"，kallas 是"被叫作"）
-- 反义词:
+- 词族: [[kallelse]]（通知、传唤）
+- 同义词: [[heta]]（heta 是主动"名叫"，kallas 是"被叫作"）
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

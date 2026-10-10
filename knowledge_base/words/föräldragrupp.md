@@ -19,6 +19,9 @@ created: "2026-09-26"
 # föräldragrupp — substantiv (en)
 
 📖 中文：家长群 · English: parent group (chat)
+
+🇸🇪 Förklaring: grupp av föräldrar, ofta med barn i samma klass, som håller kontakt med varandra, till exempel i en chatt
+
 发音提示：/ˈfœrˌɛldraˌgrɵp/ — *föräldra-*（复合词中 *föräldrar* 的连接形）+ *grupp*。
 
 ## 语法变形 (Forms)

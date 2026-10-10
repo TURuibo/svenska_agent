@@ -7,8 +7,8 @@ cefr: "A2"
 zh: "自豪的"
 en: "proud"
 synonyms: []
-antonyms: []
-family: ["stolthet"]
+antonyms: [skamsen]
+family: [stolthet]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # stolt — adjektiv
 
 📖 中文：自豪的 · English: proud
+
+🇸🇪 Förklaring: som känner glädje och nöjdhet över något som man själv eller någon nära har gjort
+
 发音提示：/stuːlt/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stolthet]]
+- 同义词: —
+- 反义词: [[skamsen]] (羞愧的)
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

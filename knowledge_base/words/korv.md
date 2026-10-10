@@ -8,7 +8,7 @@ zh: "香肠"
 en: "sausage"
 synonyms: []
 antonyms: []
-family: []
+family: [korvkiosk, varmkorv]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # korv — substantiv (en-ord)
 
 📖 中文：香肠 · English: sausage
+
+🇸🇪 Förklaring: avlång matvara av malet kött och kryddor i ett tunt skal
+
 发音提示：[kɔrv]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: korvkiosk (香肠亭), varmkorv (热狗)
+- 词族: [[korvkiosk]] (香肠亭), [[varmkorv]] (热狗)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

@@ -21,6 +21,9 @@ interval: 0
 # andfådd — adjektiv
 
 📖 中文：气喘的，上气不接下气的 · English: out of breath, breathless
+
+🇸🇪 Förklaring: som andas snabbt och tungt, till exempel efter att ha sprungit
+
 发音提示：[ˈandfɔːd]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[andas]], [[andfåddhet]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

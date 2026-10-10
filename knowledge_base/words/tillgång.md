@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 可及性；获得；供给量
 en: access, availability, supply
-synonyms: []
-antonyms: []
-family: []
+synonyms: [åtkomst, utbud]
+antonyms: [brist]
+family: [tillgå]
 topics:
   - topic-geografi-samhalle
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # tillgång — substantiv
 
 📖 中文：可及性；获得；供给量 · English: access, availability, supply
+
+🇸🇪 Förklaring: möjlighet att få eller använda något; mängd som finns av något
+
 发音提示：/ˈtɪlɡɔŋ/ — 重音首音节
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tillgå]]（to be available）· [[åtkomst]]（access, IT term）
-- 同义词: —
+- 同义词: [[åtkomst]] (访问权), [[utbud]] (供应)
 - 反义词: [[brist]]（shortage, deficiency）→ see [[brist-på]]
 - 主题: [[topic-geografi-samhalle]]
 

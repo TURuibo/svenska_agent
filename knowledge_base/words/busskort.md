@@ -6,13 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "公交卡；公共交通卡"
 en: "bus card; transit card"
-synonyms:
-  - månadskort
-  - kollektivtrafikkortet
+synonyms: [månadskort, kollektivtrafikkortet]
 antonyms: []
-family:
-  - buss
-  - kort
+family: [buss, kort]
 topics:
   - topic-kollektivtrafik
 sentences:
@@ -28,6 +24,9 @@ interval: 0
 # busskort — substantiv ett
 
 📖 中文：公交卡；公共交通卡 · English: bus card; transit card
+
+🇸🇪 Förklaring: kort som man visar eller läser av för att få åka buss och annan kollektivtrafik
+
 发音提示：/BUSS-kort/
 
 ## 语法变形 (Forms)
@@ -52,6 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[buss]] · [[kort]]
-- 同义词: [[månadskort]]（月票）
+- 词族: [[buss]] · [[kort]], [[kort]]
+- 同义词: [[månadskort]]（月票）, [[kollektivtrafikkortet]]
+- 反义词: —
 - 主题: [[topic-kollektivtrafik]]

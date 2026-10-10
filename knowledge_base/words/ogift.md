@@ -5,7 +5,7 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "未婚的"
 en: "unmarried"
-synonyms: []
+synonyms: [singel, ensamstående]
 antonyms: [gift]
 family: [gift]
 topics: [topic-jämställdhet]
@@ -21,7 +21,10 @@ interval: 0
 # ogift — adjektiv
 
 📖 中文：未婚的 · English: unmarried
-发音提示：
+
+🇸🇪 Förklaring: som inte har ingått äktenskap
+
+发音提示：/ˈuːˌjɪft/ — o- 读 uː；g 在 i 前读 j
 
 ## 语法变形 (Forms)
 
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gift]]
-- 同义词: —
+- 同义词: [[singel]] (单身), [[ensamstående]] (单身的)
 - 反义词: [[gift]]
 - 主题: [[topic-jämställdhet]]
 

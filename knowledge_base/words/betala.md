@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A1
 zh: 支付；付钱
 en: to pay
-synonyms: []
+synonyms: [erlägga]
 antonyms: []
-family: []
+family: [betalning, betalkortet]
 topics: [topic-betalning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # betala — verb (grupp 1)
 
 📖 中文：支付；付钱 · English: to pay
+
+🇸🇪 Förklaring: ge pengar för något som man köper eller får
+
 发音提示：beh-TAH-lah
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: betalning (支付/付款), betalkortet (支付卡)
+- 词族: [[betalning]] (支付/付款), [[betalkortet]] (支付卡)
+- 同义词: [[erlägga]] (缴付)
+- 反义词: —
 - 主题: [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

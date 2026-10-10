@@ -6,8 +6,8 @@ cefr: A2
 zh: 现金；用现金
 en: cash; in cash
 synonyms: []
-antonyms: []
-family: []
+antonyms: [på-kredit]
+family: [kontanter, kontantkort, kontantfri]
 topics: [topic-betalning]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # kontant — adverb
 
 📖 中文：现金；用现金 · English: cash; in cash
+
+🇸🇪 Förklaring: med sedlar och mynt och inte med kort eller överföring
+
 发音提示：kon-TANT
 
 ## 语法变形 (Forms)
@@ -44,6 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kontanter]] (现金), [[kontantkort]] (预付卡), [[kontantfri]] (无现金的)
+- 同义词: —
+- 反义词: [[på-kredit|på kredit]] (赊账)
 - 主题: [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

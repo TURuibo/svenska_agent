@@ -8,7 +8,7 @@ zh: "陪审员"
 en: "lay judge"
 synonyms: []
 antonyms: []
-family: []
+family: [nämnd, nämna]
 topics: ["topic-rattsvasen"]
 sentences: ["sent-namndemannen-har-ingen-juridisk-utbildning-utan"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # nämndeman — substantiv
 
 📖 中文：陪审员 · English: lay judge
-发音提示：
+
+🇸🇪 Förklaring: vanlig person utan juristutbildning som tillsammans med en domare dömer i en rättegång
+
+发音提示：/ˈnɛmːdɛˌman/ — ä 读短音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[nämnd]] (委员会), [[nämna]] (提名)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

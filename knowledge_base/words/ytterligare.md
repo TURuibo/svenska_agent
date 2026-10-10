@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "进一步的；额外的"
 en: "further; additional"
-synonyms: []
+synonyms: [extra, mer]
 antonyms: []
-family: []
+family: [yttre, ytterst, ytterdörr]
 topics: ["topic-allmanna-adjektiv-adverb"]
 sentences: ["sent-min-lärare-anders-säger-att-jag-kör-bra"]
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-07"
 # ytterligare — adjektiv
 
 📖 中文：进一步的；额外的 · English: further; additional
+
+🇸🇪 Förklaring: som kommer till utöver det som redan finns; ännu mer
+
+发音提示：/ˈʏtːɛˌliːɡarɛ/ — y 读短音 ʏ；重音在 ytt
 
 ## 语法变形 (Forms)
 
@@ -30,6 +34,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[yttre]] (外在的), [[ytterst]] (极其；最外), [[ytterdörr]] (外门)
+- 同义词: [[extra]] (额外的), [[mer]] (更多)
+- 反义词: —
 - 主题: [[topic-allmanna-adjektiv-adverb]]
 
 ## 用法提示 (Usage Notes)

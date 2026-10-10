@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "冷的；寒冷的"
 en: "cold"
-synonyms: []
-antonyms: ["varm", "het"]
-family: ["kyla", "kyla ner", "kallna"]
+synonyms: [kylig]
+antonyms: [varm, het]
+family: [kyla, kallna, kyla-ner]
 topics: ["topic-hälsa", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kall — adjektiv
 
 📖 中文：冷的；寒冷的 · English: cold
+
+🇸🇪 Förklaring: som har låg temperatur, till exempel vatten, luft eller väder
+
 发音提示：/kalː/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kyla (寒冷, substantiv), kallna (变冷, verb)
-- 同义词: kylig (凉飕飕的，稍弱)
-- 反义词: varm (温暖的), het (热的)
+- 词族: [[kyla]] (寒冷, substantiv), [[kallna]] (变冷, verb), [[kyla-ner]]
+- 同义词: [[kylig]] (凉飕飕的，稍弱)
+- 反义词: [[varm]] (温暖的), [[het]] (热的)
 - 主题: [[topic-hälsa]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

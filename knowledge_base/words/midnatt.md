@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "午夜"
 en: "midnight"
-synonyms: []
-antonyms: ["middag (noon)"]
-family: ["mitt", "natt", "middag"]
+synonyms: [tolvslaget]
+antonyms: [middag]
+family: [natt, mitt, middag]
 topics: ["topic-midsommar-traditioner", "topic-tid-och-tidsuttryck"]
 sentences: ["sent-klockan-ar-nastan-midnatt-men-himlen"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # midnatt — substantiv
 
 📖 中文：午夜 · English: midnight
+
+🇸🇪 Förklaring: klockan tolv på natten, när ett nytt dygn börjar
+
 发音提示：[ˈmɪdnat]，mitt（中间）+ natt（夜晚）复合词
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[natt]] · [[middag]]
-- 同义词:
-- 反义词:
+- 词族: [[natt]] · [[middag]], [[mitt]], [[middag]]
+- 同义词: [[tolvslaget]] (零点)
+- 反义词: [[middag]]
 - 主题: [[topic-midsommar-traditioner]] · [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

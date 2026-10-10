@@ -19,6 +19,9 @@ created: "2026-10-01"
 # träningstimme — substantiv (en)
 
 📖 中文：训练小时（训练的时长单位） · English: training hour
+
+🇸🇪 Förklaring: en timme som man ägnar åt att öva eller motionera
+
 发音提示：/ˈtrɛːnɪŋsˌtɪmɛ/（重音在 trä-，-s- 连接）
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[träning]]（训练）, [[timme]]（小时）
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-idrott]], [[topic-tid-och-tidsuttryck]]
 
 ## 用法提示 (Usage Notes)

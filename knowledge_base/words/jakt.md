@@ -6,9 +6,9 @@ genus: en
 cefr: "A2"
 zh: "捕猎；狩猎；追捕"
 en: "hunting; chase; pursuit"
-synonyms: []
+synonyms: [förföljelse]
 antonyms: []
-family: [val]
+family: [val, jaga]
 topics: [topic-djur]
 sentences:
   - sent-for-tva-ar-sedan-slutade-island-att-jaga
@@ -26,6 +26,9 @@ interval: 0
 # jakt — substantiv
 
 📖 中文：捕猎；狩猎；追捕 · English: hunting; chase; pursuit
+
+🇸🇪 Förklaring: när man letar efter och dödar vilda djur; när man letar efter eller förföljer någon
+
 发音提示：jakt
 
 ## 语法变形 (Forms)
@@ -56,6 +59,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[val]], [[jaga]]
+- 同义词: [[förföljelse]] (追捕)
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

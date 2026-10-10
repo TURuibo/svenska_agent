@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "投票"
 en: "to vote"
-synonyms: [välja]
-antonyms: []
+synonyms: [välja, omrösta]
+antonyms: [avstå]
 family: [röst, röstning, omröstning]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-den-fragan-ska-invanarna-i-alberta, sent-för-att-rösta-i-kommunvalet-räcker, sent-jag-tycker-att-det-är-viktigt-att-rösta]
@@ -23,6 +23,9 @@ interval: 0
 # rösta — verb
 
 📖 中文：投票 · English: to vote
+
+🇸🇪 Förklaring: välja ett parti, en person eller ett förslag i ett val eller på ett möte
+
 发音提示：重音在第一音节：RÖS-ta。
 
 ## 语法变形 (Forms)
@@ -56,7 +59,7 @@ interval: 0
 
 - 词族: [[röst]] (en, 声音/选票), [[röstning]] (en, 投票/表决), [[omröstning]] (en, 投票/表决)
 - 同义词: [[välja]] (v. 选择/选举), [[omrösta]] (v. 表决)
-- 反义词: —
+- 反义词: [[avstå]] (弃权)
 - 主题: [[topic-nyheter-vecka22]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

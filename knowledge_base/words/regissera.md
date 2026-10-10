@@ -6,11 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "执导；导演"
 en: "to direct (a film)"
-synonyms: []
+synonyms: [leda]
 antonyms: []
-family:
-  - regissör
-  - regi
+family: [regissör, regi]
 topics:
   - topic-film
   - topic-litteratur-och-kultur
@@ -27,6 +25,9 @@ interval: 0
 # regissera — verb v.1
 
 📖 中文：执导；导演 · English: to direct (a film)
+
+🇸🇪 Förklaring: leda arbetet med en film eller en pjäs och bestämma hur den ska göras
+
 发音提示：/re-jis-SE-ra/
 
 ## 语法变形 (Forms)
@@ -52,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: regissör（导演，名词）· regi（执导，名词：*i regi av*）
+- 词族: [[regissör]]（导演，名词）· regi（执导，名词：*i regi av*）, [[regi]]
+- 同义词: [[leda]] (领导)
+- 反义词: —
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

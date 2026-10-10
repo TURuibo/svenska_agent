@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "广告"
 en: "advertising"
-synonyms: []
+synonyms: [annons, marknadsföring]
 antonyms: []
-family: []
+family: [reklamfilm, reklambyrå, reklampaus]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # reklam — substantiv
 
 📖 中文：广告 · English: advertising
+
+🇸🇪 Förklaring: texter, bilder och filmer som försöker få människor att köpa en vara eller en tjänst
+
 发音提示： "rek-lám"
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[reklamfilm]] (广告片), [[reklambyrå]] (广告公司), [[reklampaus]] (广告时间)
+- 同义词: [[annons]] (广告), [[marknadsföring]] (营销)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

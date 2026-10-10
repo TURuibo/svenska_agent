@@ -19,6 +19,9 @@ created: "2026-09-26"
 # verksamhet — substantiv
 
 📖 中文：活动；业务 · English: activity, operations
+
+🇸🇪 Förklaring: arbete eller aktiviteter som en organisation eller ett företag håller på med
+
 发音提示：VERK-sam-het，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 
 - 词族: [[verksam]], [[verk]]
 - 同义词: [[aktivitet]]
-- 反义词: 
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

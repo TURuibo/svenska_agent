@@ -7,7 +7,7 @@ genus: ""
 cefr: A2
 zh: "本来就；你也知道（情态副词）"
 en: "after all; you know; of course (modal particle)"
-synonyms: ["väl", "nog"]
+synonyms: [väl, nog]
 antonyms: []
 family: []
 topics: ["topic-satsadverbial"]
@@ -23,6 +23,9 @@ interval: 0
 # ju — satsadverbial
 
 📖 中文：本来就；你也知道（情态副词） · English: after all; you know; of course (modal particle)
+
+🇸🇪 Förklaring: används för att visa att man tror att lyssnaren redan vet eller håller med om något
+
 发音提示：/juː/
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
 - 同义词: [[väl]] (吧), [[nog]] (大概)
+- 反义词: —
 - 主题: [[topic-satsadverbial]]
 
 ## 用法提示 (Usage Notes)

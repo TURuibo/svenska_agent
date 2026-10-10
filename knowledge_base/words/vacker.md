@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "美丽的"
 en: "beautiful"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [fin]
+antonyms: [ful]
+family: [skönhet, fägring]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vacker — adjektiv
 
 📖 中文：美丽的 · English: beautiful
+
+🇸🇪 Förklaring: som är mycket fin att se på eller lyssna på
+
 发音提示：/ˈvakːɛr/
 
 ## 语法变形 (Forms)

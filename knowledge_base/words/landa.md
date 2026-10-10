@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "落地；安顿下来"
 en: "to land; to settle in"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gå-ner, komma-till-ro]
+antonyms: [lyfta]
+family: [landning, landningsbana]
 topics: [topic-barnets-utveckling, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # landa — verb
 
 📖 中文：落地；安顿下来 · English: to land; to settle in
+
+🇸🇪 Förklaring: 1) komma ner på marken efter en flygning; 2) komma till ro och vänja sig på ett nytt ställe
+
 发音提示：/ˈlanːda/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[landning]] (着陆), [[landningsbana]] (跑道)
+- 同义词: [[gå-ner|gå ner]] (降落), [[komma-till-ro|komma till ro]] (安顿下来)
+- 反义词: [[lyfta]] (起飞)
 - 主题: [[topic-barnets-utveckling]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

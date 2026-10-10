@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "书店"
 en: "bookshop / bookstore"
-synonyms: []
+synonyms: [bokaffär]
 antonyms: []
 family: [bok, handel, bokhandlare]
 topics:
@@ -26,6 +26,9 @@ interval: 0
 # bokhandel — substantiv (en)
 
 📖 中文：书店 · English: bookshop / bookstore
+
+🇸🇪 Förklaring: affär som säljer böcker
+
 发音提示：BOK-han-del；三音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bok]] (en, 书), [[handel]] (en, 贸易/买卖), [[bokhandlare]] (en, 书商/书店老板)
-- 同义词: —
+- 同义词: [[bokaffär]] (书店)
 - 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-vardagsrutin]]
 

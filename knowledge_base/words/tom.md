@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 空的；空荡荡的
 en: empty
-synonyms: []
-antonyms: []
-family: []
+synonyms: [öde]
+antonyms: [full]
+family: [tomhet, tömma, tomrum]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tom — adjektiv
 
 📖 中文：空的；空荡荡的 · English: empty
+
+🇸🇪 Förklaring: som inte innehåller något eller där det inte finns några människor
+
 发音提示：/tuːm/
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[tomhet]] (空虚), [[tömma]] (清空), [[tomrum]] (空隙)
+- 同义词: [[öde]] (荒凉的)
+- 反义词: [[full]] (满的)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

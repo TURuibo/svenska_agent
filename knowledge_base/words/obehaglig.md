@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "不舒服的、令人不快的"
 en: "unpleasant"
-synonyms: ["obekväm"]
-antonyms: ["behaglig"]
-family: ["behaglig"]
+synonyms: [obekväm]
+antonyms: [behaglig]
+family: [behaglig]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # obehaglig — adjektiv
 
 📖 中文：不舒服的、令人不快的 · English: unpleasant
+
+🇸🇪 Förklaring: som ger en dålig känsla och som man inte tycker om
+
+发音提示：/ˈuːbɛˌhɑːɡlɪɡ/ — o- 读 uː，重音在 o
 
 ## 语法变形 (Forms)
 

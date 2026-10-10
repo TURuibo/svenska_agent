@@ -24,6 +24,9 @@ interval: 0
 # terrorist — substantiv (en)
 
 📖 中文：恐怖分子 · English: terrorist
+
+🇸🇪 Förklaring: person som använder våld och skräck för att nå politiska mål
+
 发音提示：ter-ro-RIST；重音在最后一个音节。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[terrorism]] (stub), [[terroristbrott]] (stub)
+- 词族: [[terrorism]], [[terroristbrott]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-terrorism-och-brott]]

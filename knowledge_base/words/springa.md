@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: A1
 zh: 跑
 en: to run
-synonyms: []
-antonyms: []
-family: []
+synonyms: [löpa, rusa]
+antonyms: [gå]
+family: [löpning]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # springa — verb (grupp 4)
 
 📖 中文：跑 · English: to run
+
+🇸🇪 Förklaring: röra sig snabbt framåt med långa steg så att båda fötterna lämnar marken
+
 发音提示：/ˈsprɪŋa/；sprang /spraŋ/
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: löpning（名词，跑步）
-- 同义词:
-- 反义词:
+- 词族: [[löpning]]（名词，跑步）
+- 同义词: [[löpa]] (跑), [[rusa]] (冲)
+- 反义词: [[gå]] (走)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

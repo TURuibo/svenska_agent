@@ -9,7 +9,7 @@ zh: 校园；操场
 en: school yard; school grounds
 synonyms: []
 antonyms: []
-family: []
+family: [skola]
 topics: [topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # skolgård — substantiv (en)
 
 📖 中文：校园；操场 · English: school yard; school grounds
+
+🇸🇪 Förklaring: område utomhus där eleverna leker och är under rasterna
+
 发音提示：SKOOL-gård
 
 ## 语法变形 (Forms)

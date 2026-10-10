@@ -9,7 +9,7 @@ zh: "苹果派"
 en: "apple pie"
 synonyms: []
 antonyms: []
-family: [paj]
+family: [äpple, paj]
 topics: [topic-mat-dryck]
 sentences:
   - sent-vi-har-hemgjord-glass-och-äppelpaj
@@ -25,6 +25,9 @@ interval: 0
 # äppelpaj — substantiv (en)
 
 📖 中文：苹果派 · English: apple pie
+
+🇸🇪 Förklaring: bakverk med äppelbitar och smuldeg eller mördeg, som ofta äts med vaniljsås
+
 发音提示：ÄP-pel-paj
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[äpple]] (苹果), [[paj]] (派/挞)
+- 同义词: —
+- 反义词: —
 - 相关词: [[efterrätt]], [[glass]], [[tårta]]
 - 主题: [[topic-mat-dryck]]
 

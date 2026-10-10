@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 河马
 en: hippopotamus
-synonyms: ["hippo"]
+synonyms: [hippo]
 antonyms: []
-family: ["flod", "häst"]
+family: [flod, häst]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # flodhäst — substantiv (en)
 
 📖 中文：河马 · English: hippopotamus
+
+🇸🇪 Förklaring: mycket stort och tungt djur i Afrika som lever mest i vatten
+
 发音提示：FLOD-häst（两音节，复合词）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[flod]]（河流）, [[häst]]（马）
+- 同义词: [[hippo]]
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 宽的；宽阔的
 en: wide, broad
-synonyms: []
-antonyms: ["trång"]
-family: ["bredd"]
+synonyms: [vid]
+antonyms: [trång]
+family: [bredd]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bred — adjektiv
 
 📖 中文：宽的；宽阔的 · English: wide, broad
+
+🇸🇪 Förklaring: som har stort avstånd från den ena sidan till den andra
+
 发音提示：/breːd/
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bredd]]
-- 同义词: —
+- 同义词: [[vid]] (宽的)
 - 反义词: [[trång]]
 - 主题: [[topic-stadsmiljo]], [[topic-trafik]]
 

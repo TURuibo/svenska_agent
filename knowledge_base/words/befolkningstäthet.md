@@ -8,7 +8,7 @@ zh: "人口密度"
 en: "population density"
 synonyms: []
 antonyms: []
-family: ["befolkningsökning"]
+family: [befolkningsökning]
 topics: ["topic-geografi-samhalle"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # befolkningstäthet — substantiv
 
 📖 中文：人口密度 · English: population density
-发音提示：
+
+🇸🇪 Förklaring: hur många människor som bor på en viss yta, till exempel per kvadratkilometer
+
+发音提示：/beˈfɔlknɪŋsˌtɛːtheːt/ — 重音在 folk，täthet 带次重音
 
 ## 语法变形 (Forms)
 
@@ -35,8 +38,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[befolkningsökning]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

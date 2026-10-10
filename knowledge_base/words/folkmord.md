@@ -7,9 +7,9 @@ genus: ett
 cefr: B1
 zh: 种族灭绝
 en: genocide
-synonyms: []
+synonyms: [genocid]
 antonyms: []
-family: ["folk", "mörda"]
+family: [folk, mörda]
 topics: ["topic-krig-och-konflikt", "topic-samhälle-och-politik"]
 sentences:
   - sent-israel-gor-brottet-folkmord-pa-palestinier
@@ -26,6 +26,9 @@ interval: 0
 # folkmord — substantiv
 
 📖 中文：种族灭绝 · English: genocide
+
+🇸🇪 Förklaring: brott där man försöker döda alla människor av en viss etnisk grupp eller religion
+
 发音提示：FOLK-mord
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[folk]] (人民) + [[mörda]] (杀害)
+- 词族: [[folk]] (人民) + [[mörda]] (杀害), [[mörda]] (谋杀)
+- 同义词: [[genocid]] (种族灭绝)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

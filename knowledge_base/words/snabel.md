@@ -8,7 +8,7 @@ zh: 象鼻，长鼻子
 en: trunk, proboscis
 synonyms: []
 antonyms: []
-family: []
+family: [snabeldjur]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: 2026-10-05
 # snabel — substantiv (en-ord)
 
 📖 中文：象鼻，长鼻子 · English: trunk, proboscis
+
+🇸🇪 Förklaring: elefantens långa och rörliga näsa
+
 发音提示：[ˈsnɑːbɛl]
 
 ## 语法变形 (Forms)
@@ -40,6 +43,9 @@ created: 2026-10-05
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[snabeldjur]] (长鼻目动物)
+- 同义词: —
+- 反义词: —
 - 主题: 动物
 
 ## 用法提示 (Usage Notes)

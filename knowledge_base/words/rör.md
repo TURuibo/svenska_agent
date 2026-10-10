@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "管道；管子"
 en: "pipe; tube"
-synonyms: []
+synonyms: [ledning, slang]
 antonyms: []
-family: []
+family: [rörmokare, vattenrör, avloppsrör]
 topics: ["topic-hemmet"]
 sentences:
   - sent-vi-byter-ut-vattenrören-i-fastigheten
@@ -23,6 +23,9 @@ interval: 0
 # rör — substantiv (ett)
 
 📖 中文：管道；管子 · English: pipe; tube
+
+🇸🇪 Förklaring: lång och ihålig del av metall eller plast som vatten, gas eller annat kan rinna genom
+
 发音提示：[røːr]，长元音
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[rörmokare]] (水管工), [[vattenrör]] (水管), [[avloppsrör]] (下水管)
+- 同义词: [[ledning]] (管线), [[slang]] (软管)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

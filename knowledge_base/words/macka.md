@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "三明治；开口面包片（口语）"
 en: "sandwich; open sandwich (colloquial)"
-synonyms: ["smörgås"]
+synonyms: [smörgås]
 antonyms: []
-family: []
+family: [ostmacka, skinkmacka]
 topics: ["topic-mat-dryck"]
 sentences:
   - "sent-ja-vi-har-en-glutenfri-morotskaka"
@@ -25,6 +25,9 @@ interval: 0
 # macka — substantiv (en)
 
 📖 中文：三明治；开口面包片（口语） · English: sandwich; open sandwich (colloquial)
+
+🇸🇪 Förklaring: skiva bröd med smör och pålägg (vardagligt ord)
+
 发音提示：/ˈmakːa/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[ostmacka]] (奶酪面包片), [[skinkmacka]] (火腿面包片)
 - 同义词: [[smörgås]] (较正式的说法)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

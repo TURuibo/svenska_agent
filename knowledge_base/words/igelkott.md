@@ -22,6 +22,9 @@ interval: 0
 # igelkott — substantiv (en)
 
 📖 中文：刺猬 · English: hedgehog
+
+🇸🇪 Förklaring: litet djur med vassa taggar på ryggen som rullar ihop sig till en boll när det känner sig hotat
+
 发音提示：/ˈiːɡɛlˌkɔtː/
 
 ## 语法变形 (Forms)

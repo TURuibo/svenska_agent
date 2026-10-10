@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: 荣誉暴力（以家族荣誉为由的暴力）
 en: honour-based violence
-synonyms: []
+synonyms: [hedersrelaterat-våld]
 antonyms: []
-family: ["förtryck"]
+family: [förtryck, våld]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-att-sla-nagon-i-sin-familj-kallas
@@ -25,6 +25,9 @@ interval: 0
 # hedersvåld — substantiv (ett)
 
 📖 中文：荣誉暴力（以家族荣誉为由的暴力） · English: honour-based violence
+
+🇸🇪 Förklaring: våld eller hot, ofta mot flickor och kvinnor, för att skydda familjens rykte och ära
+
 发音提示：HEH-ders-vold（重音在 heder）
 
 ## 语法变形 (Forms)
@@ -53,6 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förtryck]], [[våld]]
+- 同义词: [[hedersrelaterat-våld|hedersrelaterat våld]] (荣誉相关暴力)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

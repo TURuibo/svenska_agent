@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 菜肴
 en: dish
-synonyms: []
+synonyms: [anrättning]
 antonyms: []
-family: []
+family: [rätt, huvudrätt, förrätt]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # maträtt — substantiv (en)
 
 📖 中文：菜肴 · English: dish
+
+🇸🇪 Förklaring: mat som lagas på ett visst sätt och serveras som en del av en måltid
+
 发音提示：/ˈmɑːtˌrɛtː/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[rätt]] (菜), [[huvudrätt]] (主菜), [[förrätt]] (前菜)
+- 同义词: [[anrättning]] (菜肴)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -6,11 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "变更；更改"
 en: "change; alteration"
-synonyms:
-  - förändring
+synonyms: [förändring]
 antonyms: []
-family:
-  - ändra
+family: [ändra]
 topics:
   - topic-kollektivtrafik
   - topic-samhälle-och-politik
@@ -27,6 +25,9 @@ interval: 0
 # ändring — substantiv en
 
 📖 中文：变更；更改 · English: change; alteration
+
+🇸🇪 Förklaring: det att något görs eller blir annorlunda
+
 发音提示：/ÄND-ring/
 
 ## 语法变形 (Forms)
@@ -52,6 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ändra（动词：更改）
-- 同义词: förändring（更大规模的变化）
+- 词族: [[ändra]]（动词：更改）
+- 同义词: [[förändring]]（更大规模的变化）
+- 反义词: —
 - 主题: [[topic-kollektivtrafik]]

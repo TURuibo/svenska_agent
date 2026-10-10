@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "哭"
 en: "to cry"
-synonyms: []
+synonyms: [lipa, snyfta, böla]
 antonyms: [skratta]
-family: []
+family: [gråt, gråtfärdig]
 topics: [topic-småbarn-känslor-och-beteende, topic-förskola-vardag]
 sentences: [sent-oj-nu-börjar-hon-gråta]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # gråta — verb
 
 📖 中文：哭 · English: to cry
+
+🇸🇪 Förklaring: få tårar i ögonen och snyfta, till exempel när man är ledsen eller har ont
+
 发音提示：/ˈgroːta/，å 读长音 [oː]，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gråt]] (哭泣), [[gråtfärdig]] (快要哭的)
+- 同义词: [[lipa]] (哭（口语）), [[snyfta]] (抽泣), [[böla]] (大哭（口语）)
 - 反义词: [[skratta]]
 - 主题: [[topic-småbarn-känslor-och-beteende]] · [[topic-förskola-vardag]]
 

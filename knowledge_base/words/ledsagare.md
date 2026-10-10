@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "陪同员，陪伴者"
 en: "escort, companion, personal guide"
-synonyms: []
+synonyms: [följeslagare, eskort]
 antonyms: []
 family: [ledsaga]
 topics: []
@@ -19,6 +19,9 @@ created: "2026-10-04"
 # ledsagare — substantiv
 
 📖 中文：陪同员（陪伴行动不便者外出的人） · English: escort, companion
+
+🇸🇪 Förklaring: person som följer med och hjälper någon, t.ex. en person med funktionsnedsättning
+
 发音提示：/ˈleːdˌsɑːɡareʼ/。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ created: "2026-10-04"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ledsaga (动词，陪同)
+- 词族: [[ledsaga]] (动词，陪同)
+- 同义词: [[följeslagare]] (陪伴者), [[eskort]] (护送者)
+- 反义词: —
 - 相关: [[stöd]] [[personal]] [[funktionsnedsättning]]
 
 ## 用法提示 (Usage Notes)

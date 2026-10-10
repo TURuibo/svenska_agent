@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "餐厅"
 en: "restaurant"
-synonyms: []
+synonyms: [krog, matställe]
 antonyms: []
-family: []
+family: [restaurangchef, restaurangbesök]
 topics: []
 sentences:
   - sent-vi-ar-pa-restaurang-kolkallan
@@ -24,6 +24,9 @@ interval: 0
 # restaurang — substantiv (en)
 
 📖 中文：餐厅 · English: restaurant
+
+🇸🇪 Förklaring: ställe där man kan köpa och äta mat som lagas på plats
+
 发音提示：res-tau-RANG；法语借词，末音节重音。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[restaurangchef]] (餐厅经理), [[restaurangbesök]]
-- 同义词: —
+- 同义词: [[krog]] (餐馆), [[matställe]] (饭馆)
 - 反义词: —
 - 主题: —
 

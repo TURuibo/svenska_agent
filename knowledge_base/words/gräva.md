@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "挖"
 en: "to dig"
-synonyms: []
+synonyms: [böka]
 antonyms: [fylla]
-family: [grävning, grävmaskin]
+family: [grävning, grävmaskin, uppgrävd]
 topics: [topic-nyheter-vecka22]
 sentences: [sent-ett-par-i-sodertälje-skulle-ut]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gräva — verb
 
 📖 中文：挖 · English: to dig
+
+🇸🇪 Förklaring: göra ett hål i jorden med en spade eller med händerna
+
 发音提示：GRÄ-va，重音第一音节。
 
 ## 语法变形 (Forms)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "一份"
 en: "portion"
-synonyms: []
+synonyms: [ranson, del]
 antonyms: []
-family: []
+family: [portionera, barnportion]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # portion — substantiv
 
 📖 中文：一份 · English: portion
+
+🇸🇪 Förklaring: den mängd mat som en person får eller äter vid ett tillfälle
+
+发音提示：/pɔʈˈɧuːn/ — rt 合成 /ʈ/；-tion 读 /ɧuːn/ 且重读
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[portionera]] (分成份), [[barnportion]] (儿童份)
+- 同义词: [[ranson]] (定量), [[del]] (一份)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

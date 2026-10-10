@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "赚（钱）；服务"
 en: "to earn; to serve"
-synonyms: [förtjäna]
+synonyms: [förtjäna, ha-inkomst]
 antonyms: [spendera]
 family: [lön, inkomst, tjänst]
 topics: [topic-nyheter-vecka22, topic-arbete]
@@ -23,6 +23,9 @@ interval: 0
 # tjäna — verb
 
 📖 中文：赚（钱）；服务 · English: to earn; to serve
+
+🇸🇪 Förklaring: få pengar för arbete man gör; arbeta för någon eller vara till nytta
+
 发音提示：TJÄNA，重音第一音节，tj-发 /ɧ/ 音（类似英语 sh）。
 
 ## 语法变形 (Forms)
@@ -56,7 +59,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lön]] (en, 工资), [[inkomst]] (en, 收入), [[tjänst]] (en, 职务/服务)
-- 同义词: [[förtjäna]] (v. 赚取/应得), [[ha inkomst]] (有收入)
+- 同义词: [[förtjäna]] (v. 赚取/应得), [[ha-inkomst|ha inkomst]] (有收入)
 - 反义词: [[spendera]] (v. 花费/消费)
 - 主题: [[topic-nyheter-vecka22]], [[topic-arbete]]
 

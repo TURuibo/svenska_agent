@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "终于；总算"
 en: "finally / at last"
-synonyms: []
+synonyms: [till-slut, slutligen, till-sist]
 antonyms: []
 family: []
 topics:
@@ -26,6 +26,9 @@ interval: 0
 # äntligen — adverb
 
 📖 中文：终于；总算 · English: finally / at last
+
+🇸🇪 Förklaring: efter lång väntan eller mycket besvär
+
 发音提示：änt-LI-gen；三音节，重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: [[till slut]] (最终/到头来), [[slutligen]] (adv. 最终，较正式), [[till sist]] (adv. 最终)
+- 同义词: [[till-slut|till slut]] (最终/到头来), [[slutligen]] (adv. 最终，较正式), [[till-sist|till sist]] (adv. 最终)
 - 反义词: —
 - 主题: [[topic-tid-och-tidsuttryck]], [[topic-vardagsrutin]]
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "挑食的；挑剔的"
 en: "picky, fussy (about food)"
-synonyms: [noga]
-antonyms: []
-family: []
+synonyms: [noga, petig]
+antonyms: [okräsen]
+family: [kräsenhet]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: [sent-här-äter-han-fisk-och-grönsaker]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # kräsen — adjektiv
 
 📖 中文：挑食的；挑剔的 · English: picky, fussy (about food)
+
+🇸🇪 Förklaring: som är svår att göra nöjd och bara vill ha vissa saker, särskilt när det gäller mat
+
 发音提示：/ˈkrɛːsən/ — 长音 ä /ɛː/，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: [[noga]]（讲究、认真——语气更中性）、*petig*（挑剔、龟毛）
-- 反义词: —
+- 词族: [[kräsenhet]] (挑剔)
+- 同义词: [[noga]]（讲究、认真——语气更中性）, [[petig]]（挑剔、龟毛）
+- 反义词: [[okräsen]] (不挑剔的)
 - 主题: [[topic-småbarn-mat-och-sömn]]、[[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

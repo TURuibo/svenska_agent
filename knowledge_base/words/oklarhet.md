@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B2"
 zh: "不明确；含糊；不清楚之处"
 en: "unclarity; uncertainty; ambiguity"
-synonyms: []
-antonyms: [klarhet]
+synonyms: [osäkerhet, otydlighet]
+antonyms: [klarhet, tydlig]
 family: [oklar, klar]
 topics: []
 sentences: [sent-i-dag-råder-det-oklarhet-om-var]
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # oklarhet — substantiv (en)
 
 📖 中文：不明确；含糊；不清楚之处 · English: unclarity; uncertainty; ambiguity
+
+🇸🇪 Förklaring: det att något inte är tydligt eller lätt att förstå; något som man inte vet säkert
+
 发音提示：o-KLAR-het（`o-` 否定前缀 + `klar` + `-het`）。
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `oklar`（不清楚的）、[[klar]]（清楚的；准备好的）
-- 同义词: 近义 `osäkerhet`（不确定）、`otydlighet`（不够清晰）
-- 反义词: `klarhet`（清晰）、[[tydlig]] → 名词 `tydlighet`
+- 词族: [[oklar]]（不清楚的）, [[klar]]（清楚的；准备好的）
+- 同义词: 近义 [[osäkerhet]]（不确定）, [[otydlighet]]（不够清晰）
+- 反义词: [[klarhet]]（清晰）, [[tydlig]] → 名词 `tydlighet`
 - 主题: —
 
 ## 用法提示 (Usage Notes)

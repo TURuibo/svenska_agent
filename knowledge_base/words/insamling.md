@@ -18,6 +18,9 @@ created: 2026-10-05
 # insamling — substantiv (en-ord)
 
 📖 中文：募捐，收集 · English: fundraising, collection
+
+🇸🇪 Förklaring: aktivitet där man ber många om pengar eller saker för att hjälpa andra
+
 发音提示：[ˈɪnːsamlɪŋ]
 
 ## 语法变形 (Forms)
@@ -40,7 +43,9 @@ created: 2026-10-05
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: samla（收集），samling（收藏）
+- 词族: [[samla]]（收集）, [[samling]]（收藏）
+- 同义词: —
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

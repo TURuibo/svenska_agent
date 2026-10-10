@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 路灯、灯笼
 en: street lamp, lantern
-synonyms: []
+synonyms: [lanterna]
 antonyms: []
-family: ["ljus"]
+family: [ljus]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lykta — substantiv (en)
 
 📖 中文：路灯、灯笼 · English: street lamp, lantern
+
+🇸🇪 Förklaring: lampa som skyddas av glas, t.ex. på en gata eller som man bär i handen
+
 发音提示：LYK-ta
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ljus]]
+- 同义词: [[lanterna]] (提灯)
+- 反义词: —
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

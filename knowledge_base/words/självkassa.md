@@ -7,10 +7,8 @@ cefr: "A2"
 zh: "自助收银台"
 en: "self-checkout"
 synonyms: []
-antonyms: []
-family:
-  - kassa
-  - självbetjäning
+antonyms: [bemannad-kassa]
+family: [kassa, självbetjäning]
 topics:
   - topic-mataffär
   - topic-betalning
@@ -28,6 +26,9 @@ interval: 0
 # självkassa — substantiv en
 
 📖 中文：自助收银台 · English: self-checkout
+
+🇸🇪 Förklaring: plats i en butik där kunden skannar varorna och betalar utan hjälp av personal
+
 发音提示：/SJÄLV-kass-a/
 
 ## 语法变形 (Forms)
@@ -52,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kassa]] · [[självbetjäning]]
+- 词族: [[kassa]] · [[självbetjäning]], [[självbetjäning]] (自助服务)
+- 同义词: —
+- 反义词: [[bemannad-kassa|bemannad kassa]] (人工收银台)
 - 主题: [[topic-mataffär]] · [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

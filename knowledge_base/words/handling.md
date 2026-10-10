@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "情节"
 en: "plot"
-synonyms: []
+synonyms: [intrig, story]
 antonyms: []
-family: ["handla"]
+family: [handla]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # handling — substantiv (en)
 
 📖 中文：情节 · English: plot
+
+🇸🇪 Förklaring: det som händer i en bok, en film eller en pjäs
+
 发音提示：HAND-ling
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[handla]]（关于/购物，动词）
+- 同义词: [[intrig]] (情节), [[story]] (故事情节)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

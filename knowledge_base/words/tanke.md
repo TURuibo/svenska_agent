@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "想法；念头；用意"
 en: "thought; idea; intention"
-synonyms: []
+synonyms: [idé]
 antonyms: []
-family: [tänka]
+family: [tänka, tankar, tänkbar]
 topics: [topic-argumentation]
 sentences: [sent-å-ena-sidan-förstår-jag-den-tanken]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # tanke — substantiv (en)
 
 📖 中文：想法；念头；用意 · English: thought; idea; intention
+
+🇸🇪 Förklaring: idé, åsikt eller plan som man har i huvudet; avsikt med något man gör
+
 发音提示：TAN-ke，`nk` 读 [ŋk]；重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -54,8 +57,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tänka]]（想）；`tankar`（复数）；`tänkbar`（可以想象的）
-- 同义词: 近义 `idé`（点子，更具体）
+- 词族: [[tänka]]（想）, [[tankar]]（复数）, [[tänkbar]]（可以想象的）
+- 同义词: 近义 [[idé]]（点子，更具体）
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

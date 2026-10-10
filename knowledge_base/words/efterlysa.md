@@ -7,9 +7,9 @@ genus: ""
 cefr: "B2"
 zh: "寻找、通缉、征求"
 en: "put out a call for, seek"
-synonyms: []
+synonyms: [söka, efterfråga]
 antonyms: []
-family: []
+family: [efterlysning, efterlyst]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # efterlysa — verb
 
 📖 中文：寻找、通缉、征求 · English: put out a call for, seek
+
+🇸🇪 Förklaring: 1) offentligt be om hjälp att hitta någon eller något, till exempel en person som polisen söker; 2) be om att få något, till exempel idéer eller information
+
 发音提示： "ef-ter-lý-sa"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[efterlysning]] (寻人启事；通缉), [[efterlyst]] (被通缉的)
+- 同义词: [[söka]] (寻找), [[efterfråga]] (征求)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "烤的；炙烤的"
 en: "grilled"
-synonyms: []
+synonyms: [halstrad]
 antonyms: []
-family: []
+family: [grill, grilla, grillfest]
 topics:
   - topic-mat-dryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # grillad — adjektiv
 
 📖 中文：烤的；炙烤的 · English: grilled
+
+🇸🇪 Förklaring: om mat: som har lagats över glöd eller stark värme
+
 发音提示：["GRIL-lad"]
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[grill]] (烤架), [[grilla]] (烧烤), [[grillfest]] (烧烤聚会)
+- 同义词: [[halstrad]] (炙烤的)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

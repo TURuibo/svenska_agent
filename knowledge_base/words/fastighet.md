@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "房产；建筑物（指整栋楼）；不动产"
 en: "property; building; real estate"
 synonyms: [byggnad, hus]
-antonyms: []
+antonyms: [lösöre]
 family: [fastighetsförvaltning, fastighetsskatt]
 topics: [topic-hemmet]
 sentences: [sent-enligt-husreglerna-ska-det]
@@ -23,6 +23,9 @@ interval: 0
 # fastighet — substantiv (en)
 
 📖 中文：房产；建筑物（指整栋楼）；不动产 · English: property; building; real estate
+
+🇸🇪 Förklaring: byggnad eller mark som någon äger, ofta ett hus med lägenheter
+
 发音提示：FAS-tig-het（三个音节）
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: fastighetsförvaltning（物业管理），fastighetsskatt（房产税）
+- 词族: [[fastighetsförvaltning]]（物业管理）, [[fastighetsskatt]]（房产税）
+- 同义词: [[byggnad]], [[hus]]
+- 反义词: [[lösöre]] (动产)
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

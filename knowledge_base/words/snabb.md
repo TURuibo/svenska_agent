@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "快的"
 en: "fast"
-synonyms: []
+synonyms: [kvick, rask]
 antonyms: [långsam]
-family: []
+family: [snabbhet]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # snabb — adjektiv
 
 📖 中文：快的 · English: fast
+
+🇸🇪 Förklaring: som rör sig eller händer med hög fart eller på kort tid
+
 发音提示：/snab/
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[snabbhet]] (速度；迅速)
-- 同义词: —
+- 同义词: [[kvick]] (敏捷的), [[rask]] (迅速的)
 - 反义词: [[långsam]]
 - 主题: [[topic-djur]]
 

@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "有条纹的"
 en: "striped"
-synonyms: []
-antonyms: ["fläckig"]
-family: ["rand"]
+synonyms: [strimmig]
+antonyms: [fläckig]
+family: [rand]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # randig — adjektiv
 
 📖 中文：有条纹的 · English: striped
+
+🇸🇪 Förklaring: som har långa smala band i olika färger
+
 发音提示：/ˈrandɪɡ/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rand]] (条纹、边缘)
-- 同义词: —
+- 同义词: [[strimmig]] (有条纹的)
 - 反义词: [[fläckig]]
 - 主题: [[topic-djur]]
 

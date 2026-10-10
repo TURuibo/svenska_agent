@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "适用、生效"
 en: "to apply / be valid"
-synonyms: []
+synonyms: [gälla-för, vara-giltig]
 antonyms: [upphöra]
 family: [gällande, giltighet]
 topics: [topic-nyheter-vecka22]
@@ -23,6 +23,9 @@ interval: 0
 # gälla — verb
 
 📖 中文：适用、生效 · English: to apply / be valid
+
+🇸🇪 Förklaring: vara i kraft och användas, till exempel om en regel eller en biljett; handla om något
+
 发音提示：重音第一音节：GÄL-la。
 
 ## 语法变形 (Forms)
@@ -55,7 +58,7 @@ grupp 2 动词（presens加 -er，preteritum -de）。
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gällande]] (adj. 现行的/有效的), [[giltighet]] (en, 有效性)
-- 同义词: [[gälla för]] (适用于), [[vara giltig]] (有效的)
+- 同义词: [[gälla-för|gälla för]] (适用于), [[vara-giltig|vara giltig]] (有效的)
 - 反义词: [[upphöra]] (v. 失效/停止)
 - 主题: [[topic-nyheter-vecka22]]
 

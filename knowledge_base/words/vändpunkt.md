@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "转折点；关键时刻"
 en: "turning point; watershed moment"
-synonyms: []
+synonyms: [brytpunkt, vattendelare]
 antonyms: []
 family: [vända, punkt]
 topics: [topic-sfi-sprak-larande]
@@ -23,6 +23,9 @@ interval: 0
 # vändpunkt — substantiv (en)
 
 📖 中文：转折点；关键时刻 · English: turning point; watershed moment
+
+🇸🇪 Förklaring: tidpunkt då en utveckling ändras och något börjar gå åt ett annat håll
+
 发音提示：VÄND-punkt（复合词，重音在 vänd）
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vända（转向），punkt（点）
+- 词族: [[vända]]（转向）, [[punkt]]（点）
+- 同义词: [[brytpunkt]] (转折点), [[vattendelare]] (分水岭)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

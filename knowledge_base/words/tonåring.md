@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 青少年
 en: teenager
-synonyms: []
+synonyms: [ungdom]
 antonyms: []
-family: [tonår]
+family: [tonår, tonårs-]
 topics: [topic-familj-och-barn]
 sentences:
   - sent-kompisarna-ar-pa-vag-att-bli-tonaringar
@@ -24,6 +24,9 @@ interval: 0
 # tonåring — substantiv (en)
 
 📖 中文：青少年 · English: teenager
+
+🇸🇪 Förklaring: ung person som är mellan tretton och nitton år gammal
+
 发音提示：/ˈtuːnˌɔːrɪŋ/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tonår]] (substantiv, "the teenage years"), *tonårs-* (prefix, e.g. *tonårsproblem*)
+- 词族: [[tonår]] (substantiv, "the teenage years"), [[tonårs-]] (prefix, e.g. *tonårsproblem*)
+- 同义词: [[ungdom]] (年轻人)
+- 反义词: —
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

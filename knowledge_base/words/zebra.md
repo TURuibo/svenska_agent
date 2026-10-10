@@ -8,7 +8,7 @@ zh: "斑马"
 en: "zebra"
 synonyms: []
 antonyms: []
-family: []
+family: [zebraövergång]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # zebra — substantiv (en)
 
 📖 中文：斑马 · English: zebra
+
+🇸🇪 Förklaring: afrikanskt djur som liknar en häst och har svarta och vita ränder
+
 发音提示：/ˈseːbra/ or /ˈzeːbra/
 
 ## 语法变形 (Forms)

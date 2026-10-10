@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "沾泥的"
 en: "muddy"
-synonyms: []
-antonyms: ["ren"]
-family: ["lera"]
+synonyms: [smutsig, gyttjig]
+antonyms: [ren]
+family: [lera]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # lerig — adjektiv
 
 📖 中文：沾泥的 · English: muddy
+
+🇸🇪 Förklaring: som är täckt av blöt, kladdig jord
+
 发音提示：LE-rig
 
 ## 语法变形 (Forms)
@@ -39,6 +42,7 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lera]]（泥，名词）
+- 同义词: [[smutsig]] (脏的), [[gyttjig]] (泥泞的)
 - 反义词: [[ren]]（干净的）
 
 ## 用法提示 (Usage Notes)

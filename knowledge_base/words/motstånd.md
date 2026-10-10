@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "阻力，反对"
 en: "resistance, opposition"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [opposition, mothugg]
+antonyms: [stöd]
+family: [motståndare, stå-emot, motståndskraft]
 topics: []
 sentences: [sent-det-var-ingen-lätt-uppgift]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # motstånd — substantiv
 
 📖 中文：阻力，反对 · English: resistance, opposition
-发音提示：
+
+🇸🇪 Förklaring: det att kämpa emot eller inte vilja gå med på något; kraft som gör det svårt för något att röra sig
+
+发音提示：/ˈmuːtˌstɔnːd/ — mot 的 o 读 uː；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -45,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[motståndare]] (对手), [[stå-emot|stå emot]] (抵抗), [[motståndskraft]] (抵抗力)
+- 同义词: [[opposition]] (反对), [[mothugg]] (反对)
+- 反义词: [[stöd]] (支持)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

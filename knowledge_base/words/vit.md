@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "白色的"
 en: "white"
-synonyms: []
+synonyms: [snövit]
 antonyms: [svart]
-family: []
+family: [vithet, vita]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vit — adjektiv
 
 📖 中文：白色的 · English: white
+
+🇸🇪 Förklaring: som har samma färg som snö eller mjölk
+
 发音提示：/viːt/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vithet]] (白色), [[vita]] (v. göra vit)
-- 同义词: —
+- 同义词: [[snövit]] (雪白的)
 - 反义词: [[svart]]
 - 主题: [[topic-djur]]
 

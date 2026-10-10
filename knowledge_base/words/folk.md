@@ -6,7 +6,7 @@ genus: ett
 cefr: A2
 zh: 人们；民族
 en: people; folk
-synonyms: []
+synonyms: [människor, nation, befolkning]
 antonyms: []
 family: [folksamling]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # folk — substantiv (ett-ord)
 
 📖 中文：人们、民众；民族 · English: people, folk
+
+🇸🇪 Förklaring: 1) människor i allmänhet; 2) alla som tillhör ett land eller en nation
+
+发音提示：/fɔlk/ — o 读短音 ɔ；l 要发出来
 
 ## 语法变形 (Forms)
 
@@ -43,8 +47,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[folksamling]]
-- 同义词:
-- 反义词:
+- 同义词: [[människor]] (人们), [[nation]] (民族), [[befolkning]] (人口)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: "外套/大衣"
 en: "coat"
 synonyms: [jacka, rock]
 antonyms: []
-family: []
+family: [regnkappa, vinterkappa]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kappa — substantiv (en-ord)
 
 📖 中文：外套/大衣 · English: coat
+
+🇸🇪 Förklaring: långt ytterplagg med ärmar som man har utanpå andra kläder, ofta för kvinnor
+
 发音提示：/ˈkapːa/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[regnkappa]] (雨衣), [[vinterkappa]] (冬季大衣)
 - 同义词: [[jacka]], [[rock]]
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

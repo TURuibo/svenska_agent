@@ -6,7 +6,7 @@ genus: ett
 cefr: A2
 zh: 姓
 en: surname
-synonyms: []
+synonyms: [släktnamn]
 antonyms: [förnamn]
 family: [namn]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # efternamn — substantiv (ett)
 
 📖 中文：姓 · English: surname
+
+🇸🇪 Förklaring: det namn som man delar med sin familj och som står sist, till exempel Andersson
+
 发音提示：/ˈɛftərˌnamn/
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[namn]]
-- 同义词:
+- 同义词: [[släktnamn]] (姓氏)
 - 反义词: [[förnamn]]
 - 主题:
 

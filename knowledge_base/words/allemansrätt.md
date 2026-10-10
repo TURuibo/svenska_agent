@@ -9,8 +9,7 @@ zh: "公共通行权"
 en: "right of public access to nature"
 synonyms: []
 antonyms: []
-family:
-  - "[[rättighet]]"
+family: [rättighet]
 topics:
   - "[[topic-allemansratten]]"
 sentences:
@@ -29,6 +28,9 @@ interval: 0
 # allemansrätt — substantiv (en)
 
 📖 中文：公共通行权 · English: right of public access to nature
+
+🇸🇪 Förklaring: rätt för alla att röra sig fritt i naturen, även på mark som någon annan äger
+
 发音提示：/ˈalːəˌmansˌrɛtː/；复合词：alle-mans-rätt（所有人的权利）
 
 ## 语法变形 (Forms)

@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B2"
 zh: "令人平静的"
 en: "calming"
-synonyms: ["lugnande"]
-antonyms: ["stressande"]
-family: ["ro"]
+synonyms: [lugnande]
+antonyms: [stressande]
+family: [ro]
 topics: []
 sentences: ["sent-jag-önskar-att-jag-tyckte"]
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # rogivande — adjektiv
 
 📖 中文：令人平静的 · English: calming
+
+🇸🇪 Förklaring: som gör att man känner sig lugn och avslappnad
+
 发音提示：RO-gi-van-de
 
 ## 语法变形 (Forms)

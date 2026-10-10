@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 学员
 en: course participant
-synonyms: []
-antonyms: []
-family: []
+synonyms: [elev]
+antonyms: [kursledare]
+family: [kurs, deltagare, delta]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-välkommen-till-kursen-svenska-och-samhälle]
 source: source-2026-10-09-komvux-kursstart
@@ -19,6 +19,10 @@ created: "2026-10-09"
 # kursdeltagare — substantiv en
 
 📖 中文：学员 · English: course participant
+
+🇸🇪 Förklaring: person som är med i en utbildning under en viss tid
+
+发音提示：/ˈkɵʂˌdeːltɑːɡarɛ/ — rs 读 ʂ；重音在 kurs
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kurs]] (课程), [[deltagare]] (参加者), [[delta]] (参加)
+- 同义词: [[elev]] (学员)
+- 反义词: [[kursledare]] (课程讲师)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

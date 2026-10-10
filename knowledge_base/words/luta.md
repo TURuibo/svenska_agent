@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "倾斜，向一侧倾"
 en: "to tilt, to lean"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [slutta, tippa]
+antonyms: [räta-upp]
+family: [lutning, lutande]
 topics: ["topic-vader-och-arstider"]
 sentences: ["sent-jorden-lutar-lite", "sent-den-lutar-ungefar-23-5-grader", "sent-pa-vintern-lutar-norra-delen-av-jorden"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # luta — verb
 
 📖 中文：倾斜，向一侧倾 · English: to tilt, to lean
+
+🇸🇪 Förklaring: 1) stå eller ligga snett åt ett håll; 2) ställa något snett mot något annat
+
 发音提示：['lʉːta]，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[lutning]] (倾斜度), [[lutande]] (倾斜的)
+- 同义词: [[slutta]] (倾斜), [[tippa]] (倾斜；翻)
+- 反义词: [[räta-upp|räta upp]] (扶正)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

@@ -446,11 +446,46 @@
         `</div>` +
         ((entry.zh || entry.en)
           ? `<div class="vocabPopGloss">🇨🇳 ${escapeHtml(entry.zh || '—')}　·　${escapeHtml(entry.en || '—')}</div>` : '') +
+        // Filled from the note body once it loads (see liftHeaderLines).
+        `<div class="vocabPopSv" hidden></div>` +
+        `<div class="vocabPopUttal" hidden></div>` +
         (chips ? `<div class="vocabPopForms">${chips}</div>` : '') +
       `</div>` +
       `<div class="vocabPopBody"><p class="vocabPopLoading">läser…</p></div>` +
       `<a class="vocabPopLink" href="../sok/#note=${encodeURIComponent(entry.slug)}" target="_blank" rel="noopener">在 Sök 中打开完整笔记 →</a>`
     );
+  }
+
+  // Word notes carry a Swedish definition ("🇸🇪 Förklaring: …") and a
+  // pronunciation line ("发音提示：/IPA/ — tip") right under the gloss. Pull both
+  // out of the markdown and show them in the sticky header instead, so the
+  // learner sees meaning-in-Swedish + how to say it without scrolling.
+  const DEF_LINE = /^[ \t]*🇸🇪[ \t]*Förklaring[ \t]*[:：][ \t]*(.+)$/m;
+  const PRON_LINE = /^[ \t]*(?:\*\*)?发音提示(?:\*\*)?[ \t]*[:：][ \t]*(?:\*\*)?[ \t]*(.*)$/m;
+  function liftHeaderLines(md) {
+    let def = '', uttal = '';
+    md = md.replace(DEF_LINE, (_m, v) => { def = v.trim(); return ''; });
+    md = md.replace(PRON_LINE, (_m, v) => { uttal = v.trim(); return ''; });
+    md = md.replace(/^[ \t]*📖[ \t]*中文[:：].*$/m, '');   // same gloss as the header's 🇨🇳 line
+    return { md, def, uttal };
+  }
+  function fillHeaderLines(def, uttal) {
+    const svEl = popEl && popEl.querySelector('.vocabPopSv');
+    const prEl = popEl && popEl.querySelector('.vocabPopUttal');
+    const speak = window.SvSpeak && window.SvSpeak.supported;
+    if (svEl && def) {
+      svEl.innerHTML = `<span class="vocabPopFlag">🇸🇪</span><span>${escapeHtml(def)}</span>` +
+        (speak ? window.SvSpeak.buttonHtml(def) : '');
+      svEl.hidden = false;
+    }
+    if (prEl && uttal) {
+      // "/ˈtæːɳa/ — ä 读长音" → IPA in serif, the Chinese tip muted after it.
+      const m = /^(\/[^/]+\/|\[[^\]]+\])\s*(?:[—–-]\s*)?(.*)$/.exec(uttal);
+      prEl.innerHTML = '<span class="vocabPopUttalLabel">发音</span>' + (m
+        ? `<span class="vocabPopIpa">${escapeHtml(m[1])}</span>${m[2] ? `<span class="vocabPopTip">${escapeHtml(m[2])}</span>` : ''}`
+        : `<span class="vocabPopTip">${escapeHtml(uttal)}</span>`);
+      prEl.hidden = false;
+    }
   }
 
   function showEntry(entry) {
@@ -467,8 +502,9 @@
     KB.body(entry.slug).then((d) => {
       if (!bodyEl.isConnected) return; // popover closed or another word opened
       if (!d) { bodyEl.innerHTML = ''; return; }
-      const md = String(d.body || '').replace(/^#\s+.*(\r?\n)+/, '');
-      bodyEl.innerHTML = MD.mdToHtml(md, { hasSlug: (t) => KB.bySlug.has(t) });
+      const lifted = liftHeaderLines(String(d.body || '').replace(/^#\s+.*(\r?\n)+/, ''));
+      fillHeaderLines(lifted.def, lifted.uttal);
+      bodyEl.innerHTML = MD.mdToHtml(lifted.md, { hasSlug: (t) => KB.bySlug.has(t) });
     });
   }
 
@@ -482,13 +518,17 @@
     if (e.target.closest('.vocabPopLink')) return;
     // Shared markdown renders [[wikilinks]] as data-wikilink buttons. A linked KB
     // word opens its card in place; a non-word target (phrase/sentence) falls back
-    // to the shared centered popover.
+    // to the shared centered popover. A related word the KB has no note for yet
+    // (词族/同义/反义 often point at such words) opens the 查词 card, where it can
+    // be queued for /learn.
     const wl = e.target.closest('[data-wikilink]');
     if (wl) {
       const slug = wl.dataset.wikilink;
       e.preventDefault();
+      e.stopPropagation();
       if (vocabBySlug.has(slug)) showEntry(vocabBySlug.get(slug));
-      else if (KB) KB.openNote(slug);
+      else if (KB && KB.bySlug.has(slug)) KB.openNote(slug);
+      else openLookupText((wl.textContent || '').trim() || slug.replace(/-/g, ' '));
       return;
     }
     const a = e.target.closest('a');
@@ -562,7 +602,10 @@
   }
 
   function openLookup(span) {
-    const surface = (span.textContent || '').trim();
+    openLookupText((span.textContent || '').trim());
+  }
+
+  function openLookupText(surface) {
     mountPop('lookupPop', (e) => { if (e.target.closest('.vocabPopClose')) closePop(); });
     popEl.innerHTML =
       `<div class="vocabPopHeader lookupHead">` +

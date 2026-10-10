@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "市政的（公立）"
 en: "municipal"
-synonyms: []
+synonyms: [offentlig]
 antonyms: [fristående]
 family: [kommun]
 topics: [topic-förskola-system, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # kommunal — adjektiv
 
 📖 中文：市政的（公立） · English: municipal
+
+🇸🇪 Förklaring: som drivs av eller hör till kommunen, t.ex. en skola eller ett bad
+
 发音提示：[kɔmʉˈnɑːl]，重音在最后一个音节 -nal（与 *kommun* 的重音位置不同）。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kommun]]
-- 同义词: —
+- 同义词: [[offentlig]] (公共的)
 - 反义词: [[fristående]]（私立/独立办）
 - 主题: [[topic-förskola-system]] · [[topic-förskola-vardag]]
 

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "同学"
 en: "classmate"
-synonyms: []
+synonyms: [klasskompis]
 antonyms: []
-family: ["klass", "kamrat", "klassrum"]
+family: [klass, klassrum, klasslärare, kamrat]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-på-rasten-dricker-jag-kaffe-med]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-07"
 # klasskamrat — substantiv (en)
 
 📖 中文：同学 · English: classmate
+
+🇸🇪 Förklaring: elev som har lektioner i samma grupp som en själv
+
 发音提示：klass-ka-MRAAT
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[klass]], [[klassrum]], [[klasslärare]]
+- 词族: [[klass]], [[klassrum]], [[klasslärare]], [[kamrat]] (伙伴 / 同伴)
+- 同义词: [[klasskompis]] (同学)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

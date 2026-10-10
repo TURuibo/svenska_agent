@@ -20,6 +20,10 @@ created: 2026-10-05
 
 📖 中文：论点；理由 · English: argument
 
+🇸🇪 Förklaring: skäl som man ger för att visa att något är rätt eller fel
+
+发音提示：/arɡɵˈmɛnt/ — 重音在末音节 ment
+
 ## 语法变形 (Forms)
 
 | 形式 | 单数 | 复数 |

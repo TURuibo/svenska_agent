@@ -9,7 +9,7 @@ zh: "老鼠"
 en: "mouse"
 synonyms: []
 antonyms: []
-family: []
+family: [råtta, datamus]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # mus — substantiv (en)
 
 📖 中文：老鼠 · English: mouse
+
+🇸🇪 Förklaring: litet gnagardjur med lång svans, ofta grått, som gärna äter frön och bröd
+
 发音提示：/mʉːs/
 
 ## 语法变形 (Forms)

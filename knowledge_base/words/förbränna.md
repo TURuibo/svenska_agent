@@ -24,6 +24,9 @@ interval: 0
 # förbränna — verb (grupp 2a)
 
 📖 中文：焚烧；燃烧；氧化 · English: to incinerate; to burn; to combust
+
+🇸🇪 Förklaring: låta något brinna upp helt; om kroppen: göra om mat och fett till energi
+
 发音提示：för-BREN-na（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -53,6 +56,7 @@ interval: 0
 
 - 词族: [[brand]], [[brinna]], [[förbränning]]
 - 同义词: [[bränna]]
+- 反义词: —
 - 主题: [[topic-källsortering]], [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

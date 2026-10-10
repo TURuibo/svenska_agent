@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "公共服务"
 en: "public services"
-synonyms: []
+synonyms: [offentlig-service, välfärdstjänster]
 antonyms: []
-family: []
+family: [samhälle, service, kundservice]
 topics: ["topic-geografi-samhalle"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # samhällsservice — substantiv
 
 📖 中文：公共服务 · English: public services
-发音提示：
+
+🇸🇪 Förklaring: tjänster som kommunen, regionen eller staten ger invånarna, till exempel vård, skola och kollektivtrafik
+
+发音提示：/ˈsamːhɛlsˌsœːrvɪs/ — 复合词，重音在 sam；service 读 /ˈsœːrvɪs/
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[samhälle]] (社会), [[service]] (服务), [[kundservice]] (客户服务)
+- 同义词: [[offentlig-service|offentlig service]] (公共服务), [[välfärdstjänster]] (福利服务)
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

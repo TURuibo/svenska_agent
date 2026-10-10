@@ -7,8 +7,8 @@ genus: ""
 cefr: A2
 zh: 恰到好处的；适量的；不多不少
 en: just right; appropriate; moderate; enough (but not too much)
-synonyms: []
-antonyms: [för mycket, för lite]
+synonyms: [måttlig, lämplig]
+antonyms: [för-mycket, för-lite]
 family: []
 topics: [topic-karaktarsord]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # lagom — adjektiv/adverb
 
 📖 中文：恰到好处的；适量的；不多不少 · English: just right; moderate; enough but not too much
+
+🇸🇪 Förklaring: inte för mycket och inte för lite; precis så mycket som behövs
+
 发音提示：["lɑːɡum]，这是瑞典文化核心词
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: —
-- 同义词: —
-- 反义词: —
+- 同义词: [[måttlig]] (适度的), [[lämplig]] (合适的)
+- 反义词: [[för-mycket]], [[för-lite]]
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

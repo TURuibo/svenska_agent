@@ -5,9 +5,9 @@ ordklass: preposition
 cefr: A2
 zh: 穿过；通过
 en: through; by means of
-synonyms: []
+synonyms: [via, med-hjälp-av]
 antonyms: []
-family: []
+family: [igenom]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # genom — preposition
 
 📖 中文：穿过、经由；通过（方式） · English: through; by means of
+
+🇸🇪 Förklaring: från ena sidan av något till den andra; med hjälp av
+
+发音提示：/ˈjeːnɔm/ — g 在 e 前读 j；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -41,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[igenom]]
-- 同义词:
-- 反义词:
+- 同义词: [[via]] (经由), [[med-hjälp-av|med hjälp av]] (借助)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

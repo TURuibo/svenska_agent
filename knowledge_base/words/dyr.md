@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "贵的；昂贵的"
 en: "expensive"
-synonyms: []
-antonyms: ["billig"]
-family: []
+synonyms: [kostsam]
+antonyms: [billig]
+family: [dyra]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # dyr — adjektiv
 
 📖 中文：贵的；昂贵的 · English: expensive
+
+🇸🇪 Förklaring: som kostar mycket pengar att köpa eller använda
+
 发音提示：/dyr/，y 是圆唇前元音
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: dyra (verb: to cost a lot, colloquial)
-- 同义词: kostsam (较正式)
+- 词族: [[dyra]] (verb: to cost a lot, colloquial)
+- 同义词: [[kostsam]] (较正式)
 - 反义词: [[billig]]
 - 主题: [[topic-karaktarsord]]
 

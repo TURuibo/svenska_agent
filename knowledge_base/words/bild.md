@@ -19,6 +19,9 @@ created: "2026-09-26"
 # bild — substantiv
 
 📖 中文：照片；图片 · English: picture, photo
+
+🇸🇪 Förklaring: något som visar hur något ser ut, till exempel ett foto eller en målning
+
 发音提示：/bɪld/，短 i，词尾 -ld 两个辅音都要发出。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,7 @@ created: "2026-09-26"
 
 - 词族: [[bilda]] (v. 形成、构成)
 - 同义词: [[foto]]
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "鱼"
 en: "fish"
 synonyms: []
 antonyms: []
-family: []
+family: [fiska, fiskare, fiskmarknad]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fisk — substantiv (en)
 
 📖 中文：鱼 · English: fish
+
+🇸🇪 Förklaring: djur som lever i vatten, andas med gälar och simmar med fenor
+
 发音提示：/fɪsk/
 
 ## 语法变形 (Forms)

@@ -32,8 +32,12 @@ For every word looked up, provide the sections below. Adapt based on word class 
 📖 [word] — [ordklass]
 中文：[Chinese meaning]
 English: [English meaning]
-发音提示：[pronunciation tips if tricky — sj/sk/tj sounds, stress, pitch accent, vowel length]
+🇸🇪 Förklaring: [simple Swedish definition, 5–20 words, A1–B1 vocabulary, without the word itself]
+发音提示：/[IPA]/ — [short Chinese tip: stress, vowel length, sj/tj/soft g·k, retroflex, silent letters]
 ```
+
+Always give both the Förklaring and the 发音提示 (IPA) — when the entry is stored, they become required
+lines of the KB word note (`sv-knowledge-base` §1b).
 
 ### 2. Grammar Forms (语法变形)
 
@@ -118,6 +122,9 @@ Show related words derived from the same root:
 
 - 同义词: list with brief Chinese meaning
 - 反义词: list with brief Chinese meaning
+
+When stored in the KB, word family / synonyms / antonyms are written as `[[slug]] (短中文)` links
+(`—` when there is none), so they are clickable in Sök and the reading glossary card.
 
 ### 7. Usage Notes (用法提示)
 

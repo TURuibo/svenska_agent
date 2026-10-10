@@ -7,8 +7,8 @@ cefr: B1
 zh: 改变
 en: to change, alter
 synonyms: [ändra]
-antonyms: []
-family: []
+antonyms: [bevara, behålla]
+family: [förändring]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # förändra — verb (grupp 1)
 
 📖 中文：改变、更改 · English: to change, alter
+
+🇸🇪 Förklaring: göra så att något blir annorlunda
+
+发音提示：/fœrˈɛndra/ — för- 不重读，重音在 änd
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: förändring（变化）
-- 同义词: ändra
-- 反义词:
+- 词族: [[förändring]]（变化）
+- 同义词: [[ändra]]
+- 反义词: [[bevara]] (保持), [[behålla]] (保留)
 - 主题:
 
 ## 用法提示 (Usage Notes)

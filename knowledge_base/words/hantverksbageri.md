@@ -7,8 +7,8 @@ cefr: "B1"
 zh: "手工面包房"
 en: "artisan bakery"
 synonyms: []
-antonyms: []
-family: ["bagare", "bageri"]
+antonyms: [industribageri]
+family: [bagare, bageri]
 topics: ["topic-yrken", "topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hantverksbageri — substantiv (ett)
 
 📖 中文：手工面包房 · English: artisan bakery
+
+🇸🇪 Förklaring: litet företag där bröd och bullar bakas för hand på traditionellt sätt
+
 发音提示：HAN-tverks-bah-geh-RI（复合词，重音在最后音节）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bagare]] · [[bageri]]
+- 词族: [[bagare]] · [[bageri]], [[bageri]] (面包房)
+- 同义词: —
+- 反义词: [[industribageri]] (工业面包厂)
 - 主题: [[topic-yrken]] · [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -24,6 +24,9 @@ interval: 0
 # rund — adjektiv
 
 📖 中文：圆的；圆形的 · English: round
+
+🇸🇪 Förklaring: som har formen av en cirkel eller ett klot
+
 发音提示：rund（单音节）.
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[cirkel]] (圆形), [[runda]] (一轮；巡视), [[omgång]] (一轮比赛)
-- 同义词: [[cirkelrund]] (正圆形的)
+- 同义词: [[cirkelrund]] (正圆形的), [[oval]]
 - 反义词: [[fyrkantig]] (方形的), [[kvadratisk]] (正方形的)
 - 主题: —
 

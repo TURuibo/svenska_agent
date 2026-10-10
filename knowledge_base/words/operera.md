@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "做手术；手术治疗"
 en: "to operate (surgery); to perform surgery"
-synonyms: []
+synonyms: [göra-ett-ingrepp]
 antonyms: []
-family: ["operation"]
+family: [operation]
 topics: ["topic-hälsa"]
 sentences:
   - sent-läkare-har-opererat-henne-och-gett
@@ -24,6 +24,9 @@ interval: 0
 # operera — verb
 
 📖 中文：做手术；手术治疗 · English: to operate (surgery); to perform surgery
+
+🇸🇪 Förklaring: skära i någons kropp för att laga eller ta bort något, som en läkare gör
+
 发音提示：/ˌɔpɛˈreːra/
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: operation（手术；行动）
+- 词族: [[operation]]（手术；行动）
+- 同义词: [[göra-ett-ingrepp|göra ett ingrepp]] (施行手术)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

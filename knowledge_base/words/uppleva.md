@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "体验，经历"
 en: "to experience, to live through"
-synonyms: ["erfara", "genomleva"]
+synonyms: [erfara, genomleva]
 antonyms: []
-family: ["upplevelse", "erfarenhet"]
+family: [upplevelse, erfarenhet]
 topics: ["topic-fritid-och-resor"]
 sentences: ["sent-det-höga-besöksantalet-har-gjort"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # uppleva — verb (grupp 2)
 
 📖 中文：体验，经历 · English: to experience, to live through
+
+🇸🇪 Förklaring: vara med om något och känna eller märka hur det är
+
 发音提示：[ˈɵpˌleːva]
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[upplevelse]]
-- 同义词: [[erfara]]
+- 词族: [[upplevelse]], [[erfarenhet]] (经验)
+- 同义词: [[erfara]], [[genomleva]]
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

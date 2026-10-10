@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "断的；骨折的"
 en: "broken"
-synonyms: []
-antonyms: []
+synonyms: [knäckt, sönder]
+antonyms: [hel]
 family: [bryta]
 topics: [topic-kropp]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # bruten — adjektiv (perfekt particip av bryta)
 
 📖 中文：断的；骨折的 · English: broken
+
+🇸🇪 Förklaring: som har gått sönder i två eller flera delar
+
 发音提示：/ˈbruːtən/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bryta]] (rotverb, starka verb grupp 4: bryta–bröt–brutit)
-- 同义词: —
-- 反义词: —
+- 同义词: [[knäckt]] (折断的), [[sönder]] (坏的)
+- 反义词: [[hel]] (完整的)
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

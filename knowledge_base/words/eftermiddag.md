@@ -7,8 +7,8 @@ cefr: "A1"
 zh: "下午；傍晚前的时段"
 en: "afternoon"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [förmiddag]
+family: [förmiddag, kväll, morgon]
 topics: [topic-kafe-fika, topic-tid-och-tidsuttryck]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # eftermiddag — substantiv
 
 📖 中文：下午；傍晚前的时段 · English: afternoon
+
+🇸🇪 Förklaring: tiden på dagen från ungefär klockan tolv eller ett fram till kvällen
+
 发音提示：EF-ter-mi-dag（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förmiddag]], [[kväll]], [[morgon]]
+- 同义词: —
 - 反义词: [[förmiddag]]
 - 主题: [[topic-tid-och-tidsuttryck]], [[topic-kafe-fika]]
 

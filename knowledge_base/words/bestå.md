@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "由…组成；持续"
 en: "to consist (of); to endure"
-synonyms: [innehålla]
-antonyms: []
+synonyms: [innehålla, vara-sammansatt-av]
+antonyms: [upphöra, försvinna]
 family: [bestående, bestånd]
 topics: []
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # bestå — verb
 
 📖 中文：由…组成；持续 · English: to consist (of); to endure
+
+🇸🇪 Förklaring: (med av) vara gjord av vissa delar; fortsätta att finnas
+
 发音提示：重音在第二音节：be-STÅ。
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bestående]] (adj. 持久的), [[bestånd]] (ett, 库存/存量)
-- 同义词: [[innehålla]] (v. 包含), [[vara sammansatt av]] (由…构成)
-- 反义词: —
+- 同义词: [[innehålla]] (v. 包含), [[vara-sammansatt-av|vara sammansatt av]] (由…构成)
+- 反义词: [[upphöra]] (停止), [[försvinna]] (消失)
 - 主题: [[topic-nyheter-vecka22]]
 
 ## 用法提示 (Usage Notes)

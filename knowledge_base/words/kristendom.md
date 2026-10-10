@@ -8,7 +8,7 @@ zh: "基督教"
 en: "Christianity"
 synonyms: []
 antonyms: []
-family: ["kristen", "kyrka", "kristenhet"]
+family: [kristen, kyrka, kristenhet]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kristendom — substantiv (en)
 
 📖 中文：基督教 · English: Christianity
+
+🇸🇪 Förklaring: religion som bygger på Jesus Kristus och Bibelns lära
+
 发音提示：/ˈkrɪstənˌdoːm/，三音节，重音在首音节
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kristen (adj/subst, 基督徒/基督教的), kyrka (en, 教堂), kristenhet (en, 基督教世界)
+- 词族: [[kristen]] (adj/subst, 基督徒/基督教的), [[kyrka]] (en, 教堂), [[kristenhet]] (en, 基督教世界)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-vikingatiden]]

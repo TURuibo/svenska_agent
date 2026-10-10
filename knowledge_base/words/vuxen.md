@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 成年人/成年的
 en: adult, grown-up
-synonyms: []
+synonyms: [fullvuxen]
 antonyms: [barn]
-family: []
+family: [vuxenliv, halvvuxen]
 topics: [topic-familj-och-barn]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vuxen — substantiv/adjektiv
 
 📖 中文：成年人/成年的 · English: adult, grown-up
+
+🇸🇪 Förklaring: person som inte längre är barn eller tonåring, oftast över 18 år; som har blivit stor och mogen
+
 发音提示：VUX-en；元音 `u` 短促。
 
 ## 语法变形 (Forms)

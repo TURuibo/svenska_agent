@@ -7,8 +7,8 @@ genus: ""
 cefr: B1
 zh: "脱水的，干燥的"
 en: "dehydrated, dried out"
-synonyms: []
-antonyms: []
+synonyms: [torr, dehydrerad]
+antonyms: [fuktig]
 family: [torka, uttorkning]
 topics: [topic-vader-och-arstider]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # uttorkad — adjektiv
 
 📖 中文：脱水的，干燥的 · English: dehydrated, dried out
+
+🇸🇪 Förklaring: som har förlorat för mycket vatten och blivit torr
+
 发音提示：[UT-tor-kad]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[torka]], [[uttorkning]]
+- 同义词: [[torr]] (干的), [[dehydrerad]] (脱水的)
+- 反义词: [[fuktig]] (潮湿的)
 - 相关: [[torka]], [[värme]]
 - 主题: [[topic-vader-och-arstider]]
 

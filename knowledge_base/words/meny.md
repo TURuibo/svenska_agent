@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "菜单"
 en: "menu"
-synonyms: []
+synonyms: [matsedel]
 antonyms: []
-family: []
+family: [lunchmeny, menykort]
 topics:
   - topic-mat-dryck
 sentences:
@@ -26,6 +26,9 @@ interval: 0
 # meny — substantiv (en)
 
 📖 中文：菜单 · English: menu
+
+🇸🇪 Förklaring: lista över rätter och drycker som man kan beställa på en restaurang
+
 发音提示：["meh-ny"] — 重音在最后一音节
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[lunchmeny]] (午餐菜单), [[menykort]] (菜单卡)
+- 同义词: [[matsedel]] (菜单)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

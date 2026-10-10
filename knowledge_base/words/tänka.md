@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "想；思考；打算"
 en: "to think / plan"
-synonyms: []
+synonyms: [fundera]
 antonyms: []
 family: [tanke, tankegång, tänkande]
 topics:
@@ -25,6 +25,9 @@ interval: 0
 # tänka — verb (grupp 2)
 
 📖 中文：想；思考；打算 · English: to think / plan
+
+🇸🇪 Förklaring: använda hjärnan för att förstå eller lösa något; ha en plan att göra något
+
 发音提示：TÄN-ka；两音节，重音在首音节。
 
 ## 语法变形 (Forms)

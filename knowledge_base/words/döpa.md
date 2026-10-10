@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 命名/洗礼
 en: to baptize, to name
-synonyms: []
+synonyms: [kalla, namnge]
 antonyms: []
-family: []
+family: [dop, dopceremoni]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # döpa — verb (v.2a)
 
 📖 中文：命名/洗礼 · English: to baptize, to name
+
+🇸🇪 Förklaring: 1) ge ett barn eller en sak ett namn; 2) ta in någon i den kristna kyrkan med en ceremoni med vatten
+
 发音提示：DÖ-pa；元音 `ö` 长音，嘴形圆扁。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ Grupp 2a 动词（-er/-te/-t）。
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dop]] (ett, 洗礼), [[dopceremoni]] (baptism ceremony)
-- 同义词: —
+- 同义词: [[kalla]] (称作), [[namnge]] (命名)
 - 反义词: —
 - 主题: —
 

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "腰"
 en: "waist"
-synonyms: []
+synonyms: [liv]
 antonyms: []
-family: []
+family: [midjemått, midjeväska]
 topics: [topic-lucia]
 sentences: []
 source: source-2026-10-10-lucia
@@ -19,6 +19,10 @@ created: "2026-10-10"
 # midja — substantiv (en-ord)
 
 📖 中文：腰 · English: waist
+
+🇸🇪 Förklaring: den smala delen av kroppen mellan bröstkorgen och höfterna
+
+发音提示：/ˈmɪdːja/ — i 短；d 要发音
 
 ## 语法变形 (Forms)
 
@@ -40,5 +44,8 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[midjemått]] (腰围), [[midjeväska]] (腰包)
+- 同义词: [[liv]] (腰身)
+- 反义词: —
 - 主题: [[topic-lucia]]
 - 来源: [[source-2026-10-10-lucia]]

@@ -18,6 +18,9 @@ created: "2026-10-07"
 # tvättstuga — substantiv (en)
 
 📖 中文：洗衣房（公寓楼公用） · English: laundry room
+
+🇸🇪 Förklaring: gemensamt rum i ett hyreshus där de boende gör rent sina kläder i maskiner
+
 发音提示：tvätt-stu-ga，tv 读 [tv]，“tt” 后短元音。
 
 ## 语法变形 (Forms)
@@ -40,7 +43,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tvätt]], [[tvätta]], [[tvättmaskin]], 复合词 tvätt + stuga
+- 词族: [[tvätt]], [[tvätta]], [[tvättmaskin]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

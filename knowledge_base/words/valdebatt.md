@@ -23,6 +23,9 @@ interval: 0
 # valdebatt — substantiv (en)
 
 📖 中文：选举辩论 · English: election debate
+
+🇸🇪 Förklaring: diskussion mellan politiker från olika partier inför att folket ska rösta
+
 发音提示：VAL-de-batt
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: val，debatt（辩论），[[riksdagsval]]，[[kommunval]]，[[valdag]]，[[vallokal]]，[[valsedel]]，[[valaffisch]]，[[vallöfte]]，[[valresultat]]，[[valarbetare]]（val- 复合词族）
+- 词族: [[val]], [[debatt]]（辩论）, [[riksdagsval]], [[kommunval]], [[valdag]], [[vallokal]], [[valsedel]], [[valaffisch]], [[vallöfte]], [[valresultat]], [[valarbetare]]（val- 复合词族）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: A1
 zh: "游客"
 en: "tourist"
-synonyms: ["besökare"]
+synonyms: [besökare]
 antonyms: []
-family: ["turism", "turistresa"]
+family: [turism, turistresa]
 topics: ["topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # turist — substantiv
 
 📖 中文：游客 · English: tourist
+
+🇸🇪 Förklaring: person som på sin fritid reser till en annan plats för att se sig om och uppleva den
+
 发音提示：/tʉˈrɪst/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: turism (旅游业), turistresa (旅游行程)
-- 同义词: besökare (访客, 更正式)
+- 词族: [[turism]] (旅游业), [[turistresa]] (旅游行程)
+- 同义词: [[besökare]] (访客, 更正式)
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

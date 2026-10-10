@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "植物"
 en: "plant"
-synonyms: ["planta"]
+synonyms: [planta]
 antonyms: []
-family: ["växa", "odla"]
+family: [växa, odla]
 topics: ["topic-geografi-natur", "topic-natur-skog"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # växt — substantiv (en)
 
 📖 中文：植物 · English: plant
+
+🇸🇪 Förklaring: levande organism med rötter och blad, till exempel en blomma, ett träd eller gräs
+
 发音提示：[vɛkst]
 
 ## 语法变形 (Forms)
@@ -47,8 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[växa]]
+- 词族: [[växa]], [[odla]] (种植，耕种)
 - 同义词: [[planta]]
+- 反义词: —
 - 主题: [[topic-geografi-natur]], [[topic-natur-skog]]
 
 ## 用法提示 (Usage Notes)

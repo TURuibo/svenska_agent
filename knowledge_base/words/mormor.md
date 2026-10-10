@@ -19,6 +19,9 @@ created: "2026-09-26"
 # mormor — substantiv (en)
 
 📖 中文：外婆（母亲的母亲） · English: maternal grandmother
+
+🇸🇪 Förklaring: ens mammas mamma
+
 发音提示：MOR-mor（两个 o 都是长音 /uː/）
 
 ## 语法变形 (Forms)

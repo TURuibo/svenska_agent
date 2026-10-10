@@ -7,8 +7,8 @@ cefr: B1
 zh: 工业的
 en: industrial
 synonyms: []
-antonyms: []
-family: ["industri"]
+antonyms: [hantverksmässig]
+family: [industri]
 topics: ["topic-stadsmiljo", "topic-arbete-och-jobb"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # industriell — adjektiv
 
 📖 中文：工业的 · English: industrial
+
+🇸🇪 Förklaring: som har med fabriker och tillverkning av varor i stor skala att göra
+
 发音提示：in-dus-tri-ELL
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[industri]]
+- 同义词: —
+- 反义词: [[hantverksmässig]] (手工的)
 - 主题: [[topic-stadsmiljo]], [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

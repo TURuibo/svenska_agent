@@ -7,7 +7,7 @@ cefr: "A2"
 zh: "改变；变化"
 en: "to change; to shift"
 synonyms: [förändras, skifta]
-antonyms: []
+antonyms: [stå-fast]
 family: [ändring, förändra]
 topics: [topic-vader-och-arstider]
 sentences: []
@@ -22,6 +22,9 @@ interval: 0
 # ändra sig — verb (grupp 1, reflexivt)
 
 📖 中文：改变；变化 · English: to change; to shift
+
+🇸🇪 Förklaring: komma fram till en annan åsikt eller ett annat beslut än förut; bli annorlunda
+
 发音提示：ÄND-ra sig（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 - 词族: [[ändring]], [[förändra]]
 - 同义词: [[förändras]], [[skifta]]
-- 反义词: —
+- 反义词: [[stå-fast|stå fast]] (坚持不变)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

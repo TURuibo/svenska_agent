@@ -6,7 +6,7 @@ genus: "en"
 cefr: "B1"
 zh: "物业管理员；楼宇维修员"
 en: "caretaker; building superintendent"
-synonyms: []
+synonyms: [vaktmästare, vicevärd]
 antonyms: []
 family: [fastighet]
 topics: [topic-grannar-boende]
@@ -18,6 +18,9 @@ created: "2026-10-07"
 # fastighetsskötare — substantiv (en)
 
 📖 中文：物业管理员；楼宇维修员 · English: caretaker; building superintendent
+
+🇸🇪 Förklaring: person som tar hand om ett hus, rättar till fel, städar ute och sköter tekniken
+
 发音提示：fas-tig-hets-shö-ta-re，重音在 fas-。
 
 ## 语法变形 (Forms)
@@ -40,6 +43,8 @@ created: "2026-10-07"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fastighet]]（fastighets- + skötare，来自 sköta）
+- 同义词: [[vaktmästare]] (勤杂工), [[vicevärd]] (物业管理员)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "处理；应对；操作"
 en: "to handle; to manage; to deal with"
-synonyms: [sköta]
-antonyms: []
-family: [hantering]
+synonyms: [sköta, klara, ta-hand-om]
+antonyms: [missköta, försumma]
+family: [hantering, hanterbar]
 topics: [topic-allmänna-verb]
 sentences: [sent-i-beslutet-ingår-också-att-företagen-själva, sent-det-är-någon-som-hjälper-dig-att-få]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # hantera — verb (grupp 1)
 
 📖 中文：处理；应对；操作 · English: to handle; to manage; to deal with
+
+🇸🇪 Förklaring: ta hand om en situation, ett problem eller en person på ett bra sätt; använda och styra ett redskap eller en maskin
+
 发音提示：han-TE-ra，重音在第二音节 `te`。
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hantering]]（处理、操作，名词）、`hanterbar`（可应付的）
-- 同义词: [[sköta]]（照管、负责办理）；近义 [[klara]]（应付得来）、`ta hand om`
-- 反义词: —
+- 词族: [[hantering]]（处理、操作，名词）, [[hanterbar]]（可应付的）
+- 同义词: [[sköta]]（照管、负责办理）, 近义 [[klara]]（应付得来）, [[ta-hand-om|ta hand om]]
+- 反义词: [[missköta]] (管理不善), [[försumma]] (疏忽)
 - 主题: [[topic-allmänna-verb]]
 
 ## 用法提示 (Usage Notes)

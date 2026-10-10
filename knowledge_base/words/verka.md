@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: A2
 zh: 看起来；似乎
 en: to seem; to appear
-synonyms: []
+synonyms: [tyckas, se-ut-att]
 antonyms: []
-family: []
+family: [verkan, verksam, verksamhet]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # verka — verb (grupp 2)
 
 📖 中文：看起来；似乎 · English: to seem; to appear
+
+🇸🇪 Förklaring: ge ett visst intryck; se ut att vara på ett visst sätt
+
 发音提示：VER-kah
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: verkan (效果), verksam (有效的), verksamhet (活动/业务)
-- 同义词: tyckas (看起来), se ut att (看起来像)
+- 词族: [[verkan]] (效果), [[verksam]] (有效的), [[verksamhet]] (活动/业务)
+- 同义词: [[tyckas]] (看起来), [[se-ut-att|se ut att]] (看起来像)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

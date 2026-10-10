@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "解决办法；答案；溶液"
 en: "solution; answer; (chemistry) solution"
-synonyms: []
-antonyms: []
-family: [lösa]
+synonyms: [utväg]
+antonyms: [problem]
+family: [lösa, upplösning]
 topics: [topic-argumentation]
 sentences: [sent-det-är-en-billig-lösning-eftersom-lokalerna]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # lösning — substantiv (en)
 
 📖 中文：解决办法；答案；溶液 · English: solution; answer; (chemistry) solution
+
+🇸🇪 Förklaring: 1) sätt att klara ett problem; 2) rätt svar på en uppgift; 3) vätska där ett annat ämne har blandats in och försvunnit
+
 发音提示：LÖS-ning，`ö` 读 [ø]；重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lösa]]（解决；解开）→ `lösning`（-ning 名词化）；`upplösning`（解体；分辨率）
-- 同义词: —（近义 `utväg` 出路、`svar` 答案）
+- 词族: [[lösa]]（解决；解开）→ `lösning`（-ning 名词化）, [[upplösning]]（解体；分辨率）
+- 同义词: —（近义 [[utväg]] 出路、[[svar]] 答案）
 - 反义词: `problem`（问题）→ see [[problem]]
 - 主题: [[topic-argumentation]]
 

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "比赛；竞赛"
 en: "competition; contest; race"
-synonyms: []
+synonyms: [match, lopp]
 antonyms: []
-family: ["tävla", "tävlare"]
+family: [tävla, tävlare]
 topics: ["topic-fotboll"]
 sentences:
   - sent-i-slutspelet-maste-du-vinna-varje
@@ -24,6 +24,9 @@ interval: 0
 # tävling — substantiv (en)
 
 📖 中文：比赛；竞赛 · English: competition; contest; race
+
+🇸🇪 Förklaring: evenemang där deltagarna försöker vara bäst och vinna ett pris
+
 发音提示：["tEv-ling"] — 重音在第一音节
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tävla（动词，参加比赛），tävlare（竞赛者）
+- 词族: [[tävla]]（动词，参加比赛）, [[tävlare]]（竞赛者）
+- 同义词: [[match]] (比赛), [[lopp]] (赛跑)
+- 反义词: —
 - 主题: [[topic-fotboll]]
 - 来源: [[source-2026-06-29-nyheter-8sidor]]
 

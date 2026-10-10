@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "免疫系统；免疫力"
 en: "immune system"
-synonyms: []
+synonyms: [immunsystem]
 antonyms: []
 family: [försvar]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # immunförsvar — substantiv (ett)
 
 📖 中文：免疫系统；免疫力 · English: immune system
+
+🇸🇪 Förklaring: kroppens system som skyddar mot bakterier, virus och sjukdomar
+
 发音提示：/ɪˈmʉːnfœrˌsvaːr/ — immun（免疫的）+ försvar（防御）。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[försvar]]
-- 同义词: —
+- 同义词: [[immunsystem]] (免疫系统)
 - 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 

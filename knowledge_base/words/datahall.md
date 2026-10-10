@@ -9,7 +9,7 @@ zh: 数据中心
 en: data centre
 synonyms: [datacenter]
 antonyms: []
-family: [hall]
+family: [data, hall]
 topics: [topic-uppfinning-och-teknik]
 sentences: [sent-google-måste-stoppa-flera-datahallar]
 known: false
@@ -19,6 +19,9 @@ created: 2026-10-09
 # datahall — substantiv (en)
 
 📖 中文：数据中心 · English: data centre
+
+🇸🇪 Förklaring: stor lokal med många datorer och servrar som lagrar och behandlar information
+
 发音提示：da-ta-hall
 
 ## 语法变形 (Forms)
@@ -41,8 +44,9 @@ created: 2026-10-09
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: data + hall
+- 词族: [[data]] + hall, [[hall]]
 - 同义词: [[datacenter]]
+- 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]
 
 ## 用法提示 (Usage Notes)

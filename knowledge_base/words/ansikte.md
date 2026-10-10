@@ -8,7 +8,7 @@ zh: 面庞，脸
 en: face
 synonyms: []
 antonyms: []
-family: []
+family: [ansiktsuttryck, ansiktsmask, ansiktsbehandling]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ansikte — substantiv (ett)
 
 📖 中文：面庞，脸 · English: face
+
+🇸🇪 Förklaring: främre delen av huvudet med ögon, näsa och mun
+
 发音提示：[ˈanˌsiːktɛ]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[ansiktsuttryck]] (面部表情), [[ansiktsmask]] (面膜；面罩), [[ansiktsbehandling]] (面部护理)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

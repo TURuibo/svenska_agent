@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "特质；品质；属性"
 en: "quality, trait, characteristic"
-synonyms: ["egenart", "karaktärsdrag"]
+synonyms: [karaktärsdrag, egenart]
 antonyms: []
-family: ["egen"]
+family: [egen]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # egenskap — substantiv (en)
 
 📖 中文：特质；品质；属性 · English: quality, trait, characteristic
+
+🇸🇪 Förklaring: sätt som en person eller en sak är på; något som är typiskt för någon eller något
+
 发音提示：/e-gen-skap/
 
 ## 语法变形 (Forms)
@@ -53,7 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[egen]]
-- 同义词: [[karaktärsdrag]]
+- 同义词: [[karaktärsdrag]], [[egenart]]
+- 反义词: —
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

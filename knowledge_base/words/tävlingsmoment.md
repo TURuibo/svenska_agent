@@ -7,9 +7,9 @@ genus: ett
 cefr: B2
 zh: "竞赛环节；竞赛因素"
 en: "competitive element"
-synonyms: []
+synonyms: [tävlingsinslag]
 antonyms: []
-family: [tävling, tävla]
+family: [tävling, tävla, moment]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # tävlingsmoment — substantiv (ett)
 
 📖 中文：竞赛环节；竞赛因素 · English: competitive element
+
+🇸🇪 Förklaring: del av en aktivitet där man jämför sig med andra och försöker vinna
+
 发音提示：/ˈtɛːvlɪŋsmuˌmɛnt/（重音在 täv-，-s- 连接）
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tävling]]（比赛）, [[tävla]]（比赛，动词）, moment（环节）
-- 同义词:
-- 反义词:
+- 词族: [[tävling]]（比赛）, [[tävla]]（比赛，动词）, [[moment]]（环节）
+- 同义词: [[tävlingsinslag]] (竞赛元素)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "事项；主题（正式信件）；差事"
 en: "matter; subject; errand"
-synonyms: ["sak", "angelägenhet"]
+synonyms: [sak, angelägenhet]
 antonyms: []
-family: []
+family: [ärendenummer, ärendehantering]
 topics: ["topic-kommunikation"]
 sentences: ["sent-jag-skriver-for-att-anmala-ett"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ärende — substantiv (ett)
 
 📖 中文：事项；主题（正式信件）；差事 · English: matter; subject; errand
+
+🇸🇪 Förklaring: fråga som en myndighet ska ta hand om; vad ett brev handlar om; uppgift som man ska göra ute, till exempel att handla
+
 发音提示：[ˈæːrɛndə] — "ÄR-en-de"
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: [[sak]]
+- 词族: [[ärendenummer]] (案件编号), [[ärendehantering]] (事务处理)
+- 同义词: [[sak]], [[angelägenhet]]
+- 反义词: —
 - 主题: [[topic-kommunikation]]
 
 ## 用法提示 (Usage Notes)

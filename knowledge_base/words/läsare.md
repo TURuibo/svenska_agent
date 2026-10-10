@@ -9,7 +9,7 @@ zh: "读者"
 en: "reader"
 synonyms: []
 antonyms: []
-family: []
+family: [läsa, läsning, tidningsläsare]
 topics: [topic-litteratur-och-kultur]
 sentences: []
 known: false
@@ -19,6 +19,10 @@ created: "2026-10-08"
 # läsare — substantiv (en)
 
 📖 中文：读者 · English: reader
+
+🇸🇪 Förklaring: person som tar del av en bok, en tidning eller en annan text
+
+发音提示：/ˈlɛːsarɛ/ — ä 读长音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,9 @@ created: "2026-10-08"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[läsa]] (读), [[läsning]] (阅读), [[tidningsläsare]] (报纸读者)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

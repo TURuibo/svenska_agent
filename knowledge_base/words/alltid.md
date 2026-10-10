@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A1
 zh: 总是、一直
 en: always
-synonyms: []
+synonyms: [jämt]
 antonyms: [aldrig]
-family: []
+family: [all, tid]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # alltid — adverb
 
 📖 中文：总是、一直 · English: always
+
+🇸🇪 Förklaring: vid varje tillfälle, hela tiden och utan undantag
+
 发音提示：/ˈaltɪd/；AL-tid，`ll` 读长（不要读成 al-lid），`d` 轻。
 
 ## 语法变形 (Forms)
@@ -41,8 +44,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: all, tid（由 `all` + `tid` 组成：「一切时候」）
-- 同义词: —（口语也说 `jämt`、`hela tiden`）
+- 词族: [[all]], [[tid]]（由 `all` + `tid` 组成：「一切时候」）
+- 同义词: —（口语也说 [[jämt]]、[[hela-tiden|hela tiden]]）
 - 反义词: [[aldrig]]（从不）
 - 频率副词阶梯: [[aldrig]] → sällan → [[ibland]] → [[ofta]] → alltid
 - 主题:

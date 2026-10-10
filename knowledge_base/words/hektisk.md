@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: B1
 zh: 繁忙的；紧张的
 en: hectic
-synonyms: []
-antonyms: []
+synonyms: [stressig, intensiv, hård]
+antonyms: [lugn, avslappnad]
 family: []
 topics: [topic-arbete]
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # hektisk — adjektiv
 
 📖 中文：繁忙的；紧张的 · English: hectic
+
+🇸🇪 Förklaring: som är full av aktivitet och stress så att man har mycket att göra på kort tid
+
 发音提示：HEK-tisk
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: stressig (有压力的), intensiv (紧张的), hård (艰难的)
-- 反义词: lugn (平静的), avslappnad (放松的)
+- 词族: —
+- 同义词: [[stressig]] (有压力的), [[intensiv]] (紧张的), [[hård]] (艰难的)
+- 反义词: [[lugn]] (平静的), [[avslappnad]] (放松的)
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

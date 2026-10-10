@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "福利"
 en: "welfare"
-synonyms: []
-antonyms: []
+synonyms: [välstånd]
+antonyms: [fattigdom]
 family: [välfärdssystem]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-pengarna-används-till-den-allmänna-välfärden]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # välfärd — substantiv
 
 📖 中文：福利 · English: welfare
+
+🇸🇪 Förklaring: när människor har det bra ekonomiskt och socialt; samhällets stöd, till exempel vård, skola och omsorg
+
+发音提示：/ˈvɛːlˌfæːɖ/ — ä 在 r 前读 æː；rd 合读 ɖ
 
 ## 语法变形 (Forms)
 
@@ -42,7 +46,8 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[välfärdssystem]]
-- 反义词: —
+- 同义词: [[välstånd]] (繁荣)
+- 反义词: [[fattigdom]] (贫困)
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]
 

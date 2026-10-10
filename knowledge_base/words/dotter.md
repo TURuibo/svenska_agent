@@ -8,8 +8,8 @@ cefr: "A1"
 zh: "女儿"
 en: "daughter"
 synonyms: []
-antonyms: ["son"]
-family: ["son", "förälder", "far", "mor"]
+antonyms: [son]
+family: [son, förälder, far, mor]
 topics: ["topic-familj-och-barn", "topic-personer"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # dotter — substantiv (en)
 
 📖 中文：女儿 · English: daughter
+
+🇸🇪 Förklaring: flicka eller kvinna i förhållande till sina föräldrar
+
 发音提示：/ˈdɔtːər/
 
 ## 语法变形 (Forms)
@@ -39,6 +42,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[son]], [[förälder]], [[far]], [[mor]]
+- 同义词: —
 - 反义词: [[son]]
 - 主题: [[topic-familj-och-barn]], [[topic-personer]]
 

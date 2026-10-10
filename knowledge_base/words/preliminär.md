@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "初步的"
 en: "preliminary"
-synonyms: []
+synonyms: [tillfällig, provisorisk]
 antonyms: [slutgiltig]
-family: []
+family: [preliminärt, preliminärskatt]
 topics: [topic-val-demokrati]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # preliminär — adjektiv
 
 📖 中文：初步的 · English: preliminary
+
+🇸🇪 Förklaring: som gäller tills vidare och som kan ändras senare
+
 发音提示：pre-li-mi-NÄR，重音末音节。
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[preliminärt]] (初步地), [[preliminärskatt]] (预缴税)
+- 同义词: [[tillfällig]] (临时的), [[provisorisk]] (暂定的)
 - 反义词: [[slutgiltig]]（最终的）
 - 主题: [[topic-val-demokrati]]
 

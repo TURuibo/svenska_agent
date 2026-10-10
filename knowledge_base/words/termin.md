@@ -9,7 +9,7 @@ zh: 学期
 en: school term; semester
 synonyms: []
 antonyms: []
-family: []
+family: [hösttermin, vårtermin, terminsavgift]
 topics: [topic-skola-och-utbildning]
 sentences: [sent-det-ar-nu-dags-for]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # termin — substantiv (en)
 
 📖 中文：学期 · English: school term; semester
+
+🇸🇪 Förklaring: del av ett läsår då man går i skolan eller studerar, till exempel på hösten eller våren
+
 发音提示：ter-MEEN
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[hösttermin]] (秋季学期), [[vårtermin]] (春季学期), [[terminsavgift]] (学期费)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-skola-och-utbildning]]

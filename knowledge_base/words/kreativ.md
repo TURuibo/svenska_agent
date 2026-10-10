@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "有创意的"
 en: "creative"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [fantasifull]
+antonyms: [fantasilös]
+family: [kreativitet]
 topics: ["topic-karaktarsord"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # kreativ — adjektiv
 
 📖 中文：有创意的 · English: creative
+
+🇸🇪 Förklaring: som har lätt att komma på nya idéer och skapa något eget
+
 发音提示：kre-a-TIV
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 - 词族: [[kreativitet]]
 - 同义词: [[fantasifull]]
-- 反义词: []
+- 反义词: [[fantasilös]] (缺乏想象力的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

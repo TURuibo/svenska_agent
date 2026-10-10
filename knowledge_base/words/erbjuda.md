@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "提供"
 en: "offer"
-synonyms: []
+synonyms: [tillhandahålla]
 antonyms: []
-family: []
+family: [erbjudande, bjuda]
 topics: [topic-grannar-boende]
 sentences: [sent-vi-på-bennys-städ-har]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # erbjuda — verb
 
 📖 中文：提供 · English: offer
+
+🇸🇪 Förklaring: säga att man vill ge någon något eller göra något för någon
+
 发音提示： "er-bjú-da"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[erbjudande]] (提议；优惠), [[bjuda]] (邀请；请客)
+- 同义词: [[tillhandahålla]] (提供)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

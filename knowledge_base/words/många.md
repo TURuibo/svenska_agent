@@ -5,9 +5,9 @@ ordklass: "pronomen / adjektiv"
 cefr: A1
 zh: 许多
 en: many
-synonyms: []
-antonyms: []
-family: []
+synonyms: [massor-av, en-mängd]
+antonyms: [få]
+family: [flera, fler, flest]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # många — pronomen / adjektiv
 
 📖 中文：许多 · English: many
+
+🇸🇪 Förklaring: ett stort antal
+
 发音提示：/ˈmɔŋːa/；MÅNG-a，`ng` 读 /ŋ/，不要发 g。
 
 ## 语法变形 (Forms)
@@ -56,9 +59,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: flera（好几个；见 [[flera]]）, fler, flest
-- 同义词: —
-- 反义词: få（很少、几个）
+- 词族: flera（好几个；见 [[flera]]）, [[fler]], [[flest]]
+- 同义词: [[massor-av|massor av]] (很多), [[en-mängd|en mängd]] (大量)
+- 反义词: [[få]]（很少、几个）
 - 对比: [[mycket]]（不可数的「很多」）
 - 主题:
 

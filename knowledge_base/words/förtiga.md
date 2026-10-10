@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: "C1"
 zh: "隐瞒"
 en: "to conceal"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [dölja, hemlighålla]
+antonyms: [avslöja, berätta]
+family: [tiga]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # förtiga — verb
 
 📖 中文：隐瞒 · English: to conceal
-发音提示：
+
+🇸🇪 Förklaring: medvetet låta bli att berätta något som man vet
+
+发音提示：/fœrˈtiːɡa/ — för- 不重读，重音在 ti
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[tiga]] (沉默不语)
+- 同义词: [[dölja]] (隐藏), [[hemlighålla]] (保密)
+- 反义词: [[avslöja]] (揭露), [[berätta]] (讲述)
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

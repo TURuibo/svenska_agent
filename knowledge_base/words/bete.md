@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: B1
 zh: 表现，举止（bete sig）
 en: to behave (bete sig)
-synonyms: []
+synonyms: [uppföra-sig, agera]
 antonyms: []
-family: []
+family: [beteende, beteendeproblem]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # bete — verb (grupp 2, 主要用 bete sig)
 
 📖 中文：bete sig = 举止、表现 · English: to behave
+
+🇸🇪 Förklaring: uppföra sig på ett visst sätt (används med sig)
+
 发音提示：/ˈbeːte/
 
 ⚠️ 同形：名词 `bete`（诱饵/牧草）、动词 `bita`（咬）无关。
@@ -45,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[beteende]] (行为), [[beteendeproblem]] (行为问题)
+- 同义词: [[uppföra-sig|uppföra sig]] (举止), [[agera]] (行事)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

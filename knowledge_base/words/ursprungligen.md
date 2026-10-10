@@ -24,6 +24,9 @@ interval: 0
 # ursprungligen — adverb
 
 📖 中文：本来；最初；原本 · English: originally; initially
+
+🇸🇪 Förklaring: från början, innan något ändrades
+
 发音提示：[ʊrsˈprʊŋlɪɡən]（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 - 词族: [[ursprung]]
 - 同义词: [[från-början]]
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

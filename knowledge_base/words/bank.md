@@ -28,6 +28,9 @@ interval: 0
 # bank — substantiv (en)
 
 📖 中文：银行 · English: bank
+
+🇸🇪 Förklaring: företag där man kan spara pengar, låna pengar och betala räkningar
+
 发音提示：bank（单音节）。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bankkontor]] (银行分行), [[bankkonto]] (银行账户)
+- 词族: [[bankkontor]] (银行分行), [[bankkonto]] (银行账户), [[bankkortet]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-stadsmiljo]]

@@ -6,11 +6,9 @@ verbgrupp: "2"
 cefr: A2
 zh: "增加；增长"
 en: "to increase"
-synonyms:
-  - "[[stiga]]"
-antonyms:
-  - "[[minska]]"
-family: []
+synonyms: [stiga]
+antonyms: [minska]
+family: [ökning]
 topics:
   - "[[topic-samhälle-och-politik]]"
 sentences:
@@ -27,6 +25,9 @@ interval: 0
 # öka — verb (grupp 2)
 
 📖 中文：增加；增长 · English: to increase
+
+🇸🇪 Förklaring: bli större eller fler; göra något större eller fler
+
 发音提示：["øːka]
 
 ## 语法变形 (Forms)
@@ -53,9 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ökning（名词，增长）
+- 词族: [[ökning]]（名词，增长）
 - 同义词: [[stiga]]（上升）
-- 反义词: minska（减少）
+- 反义词: [[minska]]（减少）
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

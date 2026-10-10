@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "语言学习"
 en: "language learning"
-synonyms: []
+synonyms: [språkstudier]
 antonyms: []
-family: ["språk", "lära-sig", "inlärning"]
+family: [språk, inlärning, lära-sig]
 topics: ["topic-sfi-sprak-larande"]
 sentences: ["sent-här-berättar-de-om-sina", "sent-att-omge-sig-själv-med"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # språkinlärning — substantiv (en)
 
 📖 中文：语言学习 · English: language learning
+
+🇸🇪 Förklaring: processen när man skaffar sig kunskaper i ett nytt språk
+
 发音提示：SPRÅK-in-lär-ning
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[språk]], [[inlärning]]
+- 词族: [[språk]], [[inlärning]], [[lära-sig]]
+- 同义词: [[språkstudier]] (语言学习)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

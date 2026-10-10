@@ -19,6 +19,9 @@ created: "2026-09-26"
 # barnvagn — substantiv
 
 📖 中文：婴儿车 · English: pram, stroller
+
+🇸🇪 Förklaring: fordon på fyra hjul som man skjuter framför sig när man tar med en bebis ut
+
 发音提示：/ˈbɑːɳˌvaŋn/，复合词，重音在 BARN-；*rn* 合读为卷舌 [ɳ]。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,7 @@ created: "2026-09-26"
 
 - 词族: [[vagn]]
 - 同义词: [[vagn]]（口语常直接说 *vagnen*）
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

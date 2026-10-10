@@ -9,7 +9,7 @@ zh: 奶奶（父亲的母亲）
 en: paternal grandmother
 synonyms: []
 antonyms: []
-family: [mormor]
+family: [mormor, farfar, morfar]
 topics: [topic-förskola-vardag]
 sentences: [sent-farmor-wei-hämtar-idag-kl-15]
 known: false
@@ -19,6 +19,9 @@ created: 2026-09-26
 # farmor — substantiv (en)
 
 📖 中文：奶奶（父亲的母亲） · English: paternal grandmother
+
+🇸🇪 Förklaring: den kvinna som är mamma till ens pappa
+
 发音提示：/ˈfarˌmuːr/ — 两个部分 far（父）+ mor（母），第一音节重读。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ created: 2026-09-26
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[mormor]]（外婆）, farfar（爷爷）, morfar（外公）
+- 词族: [[mormor]]（外婆）, [[farfar]]（爷爷）, [[morfar]]（外公）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

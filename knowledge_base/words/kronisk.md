@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B2
 zh: 慢性的
 en: chronic
-synonyms: []
+synonyms: [långvarig]
 antonyms: [akut]
-family: []
+family: [sjukdom]
 topics: [topic-hälsa]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # kronisk — adjektiv
 
 📖 中文：慢性的 · English: chronic
+
+🇸🇪 Förklaring: som varar länge eller hela tiden kommer tillbaka, om en sjukdom
+
 发音提示：/ˈkrʊːnɪsk/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sjukdom]]
-- 同义词:
+- 同义词: [[långvarig]] (长期的)
 - 反义词: [[akut]]
 - 主题: [[topic-hälsa]]
 

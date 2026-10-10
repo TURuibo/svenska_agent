@@ -7,10 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "漏；渗漏；（名）漏洞、泄漏处"
 en: "to leak; (noun) a leak"
-synonyms: []
-antonyms: []
-family:
-  - vattenläckage
+synonyms: [droppa, sippra]
+antonyms: [täta]
+family: [vattenläckage]
 topics: []
 sentences:
   - sent-det-läcker-vatten-under-diskbänken
@@ -25,6 +24,9 @@ interval: 0
 # läcka — verb (grupp 1)
 
 📖 中文：漏；渗漏 · English: to leak
+
+🇸🇪 Förklaring: 1) släppa ut vätska eller gas genom ett litet hål; 2) (substantiv) ställe där vatten eller gas kommer ut
+
 发音提示：/ˈlɛkːa/
 
 ## 语法变形 (Forms)
@@ -67,8 +69,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vattenläckage]]（名词：漏水）
-- 同义词: —
-- 反义词: —
+- 同义词: [[droppa]] (滴), [[sippra]] (渗出)
+- 反义词: [[täta]] (密封)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

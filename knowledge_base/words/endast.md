@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: B1
 zh: 仅仅（书面语）
 en: only (formal)
-synonyms: [bara]
+synonyms: [bara, enbart]
 antonyms: []
-family: []
+family: [enda]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # endast — adverb
 
 📖 中文：仅仅（书面语） · English: only (formal)
+
+🇸🇪 Förklaring: inte mer än, inget annat än; används mest i formell text
+
 发音提示：/ˈɛndast/；EN-dast，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -41,8 +44,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: [[bara]]（口语/通用）, enbart
+- 词族: [[enda]] (唯一的)
+- 同义词: [[bara]]（口语/通用）, [[enbart]]
 - 反义词: —
 - 主题:
 

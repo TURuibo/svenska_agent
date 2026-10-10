@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "黏着；缠着（人）"
 en: "to cling"
-synonyms: []
-antonyms: []
+synonyms: [klamra-sig-fast]
+antonyms: [släppa-taget]
 family: [klängig]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # klänga — verb
 
 📖 中文：黏着；缠着（人） · English: to cling
+
+🇸🇪 Förklaring: hänga sig fast vid någon och hela tiden vilja vara nära honom eller henne
+
 发音提示：/ˈklɛŋa/，ä 短音，ng 读 [ŋ]，不发 g。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klängig]] (adj.)
+- 同义词: [[klamra-sig-fast|klamra sig fast]] (紧抓不放)
+- 反义词: [[släppa-taget|släppa taget]] (放手)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

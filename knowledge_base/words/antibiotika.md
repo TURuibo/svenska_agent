@@ -8,7 +8,7 @@ zh: 抗生素
 en: antibiotics
 synonyms: []
 antonyms: []
-family: []
+family: [antibiotikakur, antibiotikaresistens]
 topics: [topic-hälsa]
 sentences:
   - sent-jag-skriver-ett-recept-på-antibiotika
@@ -23,6 +23,9 @@ interval: 0
 # antibiotika — substantiv (pluralia tantum)
 
 📖 中文：抗生素 · English: antibiotics
+
+🇸🇪 Förklaring: medicin som dödar bakterier och används mot infektioner
+
 发音提示：an-ti-bi-O-ti-ka（重音在第四音节）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[antibiotikakur]] (抗生素疗程), [[antibiotikaresistens]] (抗生素耐药性)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

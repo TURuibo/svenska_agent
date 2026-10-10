@@ -6,8 +6,8 @@ genus: "en"
 cefr: B1
 zh: 生产
 en: production
-synonyms: []
-antonyms: []
+synonyms: [tillverkning]
+antonyms: [konsumtion]
 family: [producera, produkt]
 topics: []
 sentences: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # produktion — substantiv (en)
 
 📖 中文：生产 · English: production
+
+🇸🇪 Förklaring: det att man tillverkar varor eller skapar något; den mängd som tillverkas
+
+发音提示：/prʊdɵkˈɧuːn/ — -tion 读 /ɧuːn/，重音在末音节
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: producera, produkt
-- 同义词:
-- 反义词: konsumtion
+- 词族: [[producera]], [[produkt]]
+- 同义词: [[tillverkning]] (制造)
+- 反义词: [[konsumtion]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

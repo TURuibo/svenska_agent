@@ -9,7 +9,7 @@ zh: "蛇"
 en: "snake"
 synonyms: []
 antonyms: []
-family: []
+family: [huggorm, snok]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # orm — substantiv (en)
 
 📖 中文：蛇 · English: snake
+
+🇸🇪 Förklaring: långt djur utan ben som kryper på marken
+
 发音提示：/ɔrm/
 
 ## 语法变形 (Forms)

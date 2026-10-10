@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "难以置信的；惊人的"
 en: "incredible"
-synonyms: []
-antonyms: ["trolig"]
-family: ["otroligt", "tro"]
+synonyms: [fantastisk, osannolik]
+antonyms: [trolig]
+family: [otroligt, tro]
 topics: ["topic-allmanna-adjektiv-adverb"]
 sentences: ["sent-det-var-en-otrolig-känsla"]
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-07"
 # otrolig — adjektiv
 
 📖 中文：难以置信的 · English: incredible
+
+🇸🇪 Förklaring: som är svår att tro; som är mycket stor eller fantastisk
+
+发音提示：/ˈuːˌtruːlɪɡ/ — 前缀 o- 重读；口语中词尾 g 常省略
 
 ## 语法变形 (Forms)
 
@@ -32,6 +36,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[otroligt]], [[tro]] (认为、以为、相信)
+- 同义词: [[fantastisk]] (了不起的), [[osannolik]] (难以置信的)
+- 反义词: [[trolig]]
 - 主题: [[topic-allmanna-adjektiv-adverb]]
 
 ## 用法提示 (Usage Notes)

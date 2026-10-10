@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 站点；停靠站（公共汽车/有轨电车）
 en: stop (bus/tram stop)
-synonyms: []
+synonyms: [station]
 antonyms: []
-family: ["busshållplats", "spårvagnshållplats"]
+family: [busshållplats, spårvagnshållplats]
 topics: ["topic-trafik", "topic-kollektivtrafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hållplats — substantiv (en-ord)
 
 📖 中文：站点；停靠站（公共汽车/有轨电车） · English: stop (bus/tram stop)
+
+🇸🇪 Förklaring: ställe där bussar eller spårvagnar stannar så att resenärer kan gå på och av
+
 发音提示：/ˈhɔlːˌplats/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[busshållplats]] (公交站), spårvagnshållplats (有轨电车站)
+- 词族: [[busshållplats]] (公交站), [[spårvagnshållplats]] (有轨电车站)
 - 同义词: [[station]]
 - 反义词: —
 - 主题: [[topic-trafik]], [[topic-kollektivtrafik]]

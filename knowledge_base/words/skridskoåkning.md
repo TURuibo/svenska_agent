@@ -7,7 +7,7 @@ genus: en
 cefr: B1
 zh: "滑冰（运动）"
 en: "(speed) skating"
-synonyms: []
+synonyms: [hastighetsåkning]
 antonyms: []
 family: [skridsko, skridskoåkare, åka]
 topics: [topic-idrott]
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # skridskoåkning — substantiv (en)
 
 📖 中文：滑冰（运动） · English: (speed) skating
+
+🇸🇪 Förklaring: det att glida fram på is med smala skenor under kängorna, som nöje eller idrott
+
 发音提示：/ˈskrɪdskuˌoːknɪŋ/（重音在 skrid-）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skridsko]]（冰刀）, [[skridskoåkare]]（滑冰运动员）, [[åka]]（滑行 / 乘）
-- 同义词:
-- 反义词:
+- 同义词: [[hastighetsåkning]] (速度滑冰)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

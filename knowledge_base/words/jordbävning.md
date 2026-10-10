@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "地震"
 en: "earthquake"
-synonyms: []
+synonyms: [jordskalv, skalv]
 antonyms: []
-family: ["efterskalv"]
+family: [efterskalv]
 topics: ["topic-jordbävning-katastrof"]
 sentences: ["sent-manga-byggnader-rasat-myndigheterna-säger", "sent-efter-jordbävning-kommer-ofta-nya"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # jordbävning — substantiv (en)
 
 📖 中文：地震 · English: earthquake
+
+🇸🇪 Förklaring: när marken skakar kraftigt på grund av rörelser djupt nere under ytan
+
 发音提示：jord-BÄV-ning；重音在第二音节
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[efterskalv]]
-- 同义词:
-- 反义词:
+- 同义词: [[jordskalv]] (地震), [[skalv]] (震动；地震)
+- 反义词: —
 - 主题: [[topic-jordbävning-katastrof]]
 
 ## 用法提示 (Usage Notes)

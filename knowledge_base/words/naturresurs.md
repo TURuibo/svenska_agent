@@ -6,7 +6,7 @@ genus: en
 cefr: "B1"
 zh: "自然资源"
 en: "natural resource"
-synonyms: []
+synonyms: [naturtillgång]
 antonyms: []
 family: [natur, resurs]
 topics: [topic-miljö-och-klimat]
@@ -23,6 +23,9 @@ interval: 0
 # naturresurs — substantiv (en)
 
 📖 中文：自然资源 · English: natural resource
+
+🇸🇪 Förklaring: något i naturen som människor kan använda, till exempel vatten, skog eller olja
+
 发音提示：na-TUR-re-surs（重音在第二和第四音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[natur]], [[resurs]]
+- 同义词: [[naturtillgång]] (自然资源)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

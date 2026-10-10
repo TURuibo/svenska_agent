@@ -7,12 +7,9 @@ genus: en
 cefr: "A2"
 zh: "赢家，胜利者"
 en: "winner"
-synonyms: []
-antonyms: []
-family:
-  - vinna
-  - vinst
-  - seger
+synonyms: [segrare, mästare]
+antonyms: [förlorare]
+family: [vinna, vinst, seger]
 topics:
   - topic-fotboll
 sentences:
@@ -28,6 +25,9 @@ interval: 0
 # vinnare — substantiv
 
 📖 中文：赢家，胜利者 · English: winner
+
+🇸🇪 Förklaring: person eller lag som blir bäst i en tävling eller ett spel
+
 发音提示：['vɪnarɛ]
 
 ## 语法变形 (Forms)
@@ -53,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vinna（赢），[[vinst]]
-- 同义词:
-- 反义词: förlorare（失败者）
+- 词族: [[vinna]]（赢）, [[vinst]], [[seger]] (胜利)
+- 同义词: [[segrare]] (胜利者), [[mästare]] (冠军)
+- 反义词: [[förlorare]]（失败者）
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

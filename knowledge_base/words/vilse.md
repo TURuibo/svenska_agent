@@ -9,6 +9,7 @@ cefr: "A2"
 known: false
 synonyms: []
 antonyms: []
+family: [gå-vilse, vilsen, vilseleda]
 topics: ["topic-stad-och-transport", "topic-migration-och-integration"]
 phrases: ["ga-vilse"]
 sentences: ["sent-jag-gick-vilse-pa-bussen"]
@@ -26,6 +27,10 @@ interval: 0
 **中文:** 迷路（状态副词）
 **English:** lost; astray
 **CEFR:** A2
+
+🇸🇪 Förklaring: så att man inte vet var man är eller hur man ska hitta rätt
+
+发音提示：/ˈvɪlːsɛ/ — i 读短音；重音在第一音节
 
 ## 词义 & 用法 (Meaning & Usage)
 
@@ -56,3 +61,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-kronika-ny-i-nytt-land]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[gå-vilse|gå vilse]] (迷路), [[vilsen]] (迷茫的), [[vilseleda]] (误导)
+- 同义词: —
+- 反义词: —

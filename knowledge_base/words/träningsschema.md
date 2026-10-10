@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: "训练计划表"
 en: "training schedule"
-synonyms: ["träningsupplägg"]
+synonyms: [träningsupplägg]
 antonyms: []
-family: ["träning", "schema", "träningspass"]
+family: [träningspass, träning, schema]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-06"
 # träningsschema — substantiv (ett)
 
 📖 中文：训练计划表 · English: training schedule
+
+🇸🇪 Förklaring: plan som visar när och hur man ska öva eller motionera
+
 发音提示：/ˈtrɛːnɪŋsˌɧeːma/
 
 ## 语法变形 (Forms)
@@ -41,8 +44,9 @@ created: "2026-10-06"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[träningspass]], [[träning]], [[schema]]
 - 同义词: [[träningsupplägg]]（训练安排，偏方案设计）
-- 词族: [[träningspass]], träning, schema
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

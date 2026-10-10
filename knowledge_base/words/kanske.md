@@ -6,8 +6,8 @@ cefr: A1
 zh: 也许；可能
 en: maybe, perhaps
 synonyms: [möjligen]
-antonyms: []
-family: []
+antonyms: [säkert, definitivt]
+family: [kunna, ske]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # kanske — adverb
 
 📖 中文：也许、可能 · English: maybe, perhaps
+
+🇸🇪 Förklaring: används när något är möjligt men inte säkert
+
+发音提示：/ˈkanːɧɛ/ — sk 读 ɧ；重音在 kan
 
 ## 语法变形 (Forms)
 
@@ -37,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: möjligen
-- 反义词:
+- 词族: [[kunna]] (能够), [[ske]] (发生)
+- 同义词: [[möjligen]]
+- 反义词: [[säkert]] (肯定), [[definitivt]] (绝对)
 - 主题:
 
 ## 用法提示 (Usage Notes)

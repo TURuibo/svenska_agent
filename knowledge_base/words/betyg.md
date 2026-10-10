@@ -6,7 +6,7 @@ genus: ett
 cefr: A2
 zh: 成绩/分数/评语
 en: grade/mark/certificate
-synonyms: []
+synonyms: [omdöme, intyg]
 antonyms: []
 family: [betygsätta]
 topics: [topic-skola-och-utbildning]
@@ -22,6 +22,9 @@ interval: 0
 # betyg — substantiv (ett-ord)
 
 📖 中文：成绩/分数/评语 · English: grade/mark/certificate
+
+🇸🇪 Förklaring: bokstav eller siffra som visar hur bra en elev har klarat en kurs; skriftligt omdöme om någons arbete
+
 发音提示：[beˈtyːg] — 重音在第二音节，长 y
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[betygsätta]]
+- 同义词: [[omdöme]] (评语), [[intyg]] (证明)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

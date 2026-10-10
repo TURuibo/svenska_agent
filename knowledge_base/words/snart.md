@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "很快；即将"
 en: "soon"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [strax, inom-kort]
+antonyms: [aldrig, sent]
+family: [snarare, snarast]
 topics:
   - topic-tid-och-tidsuttryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # snart — adverb
 
 📖 中文：很快；即将 · English: soon
+
+🇸🇪 Förklaring: efter kort tid, inom en nära framtid
+
 发音提示：snart（单音节）。
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[snarare]] (adv. 更宁可/更快地), [[snarast]] (adv. 尽快)
-- 同义词: [[strax]] (adv. 立刻/马上), [[inom kort]] (不久)
+- 同义词: [[strax]] (adv. 立刻/马上), [[inom-kort|inom kort]] (不久)
 - 反义词: [[aldrig]] (永远不), [[sent]] (很晚/太迟)
 - 主题: —
 

@@ -6,9 +6,9 @@ genus: en
 cefr: "B1"
 zh: "传说；民间故事"
 en: "legend; folk tale"
-synonyms: ["legend"]
+synonyms: [legend]
 antonyms: []
-family: ["säga"]
+family: [säga]
 topics: ["topic-litteratur-och-kultur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sägen — substantiv
 
 📖 中文：传说；民间故事 · English: legend; folk tale
+
+🇸🇪 Förklaring: gammal berättelse som har förts vidare muntligt i många generationer och ofta handlar om övernaturliga saker
+
 发音提示：/ˈsɛːɡɛn/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[säga]] (to say — same root historically)
-- 同义词: legend (传说/legend)
+- 同义词: [[legend]] (传说/legend)
+- 反义词: —
 - 对比: [[saga]] (saga/fairy tale — 更文学化)，[[berättelse]] (story — 更一般)
 - 主题: [[topic-litteratur-och-kultur]]
 

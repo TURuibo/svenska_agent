@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "院子；庭院；农场"
 en: "courtyard; yard; farm"
-synonyms: []
+synonyms: [lantbruk]
 antonyms: []
-family: []
+family: [bondgård, innergård, skoliard]
 topics: ["topic-hemmet"]
 sentences:
   - sent-fran-mandag-den-7-juli-till-fredag
@@ -24,6 +24,9 @@ interval: 0
 # gård — substantiv (en)
 
 📖 中文：院子；庭院；农场 · English: courtyard; yard; farm
+
+🇸🇪 Förklaring: 1) öppen plats mellan eller bakom hus; 2) hus med mark där man odlar och har djur
+
 发音提示：[gɔːrd]，长元音
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *bondgård* (农场), *innergård* (内院), *skoliard* (校园)
+- 词族: [[bondgård]] (农场), [[innergård]] (内院), [[skoliard]] (校园)
+- 同义词: [[lantbruk]] (农场)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "安抚毯"
 en: "comfort blanket"
-synonyms: []
+synonyms: [snutte]
 antonyms: []
 family: [filt]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # snuttefilt — substantiv
 
 📖 中文：安抚毯 · English: comfort blanket
+
+🇸🇪 Förklaring: mjukt tygstycke som ett litet barn håller i för att känna sig lugnt och tryggt
+
 发音提示：/ˈsnɵtəˌfɪlt/，重音在 SNUT-，u 短音，读作 [ɵ]。
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[filt]]
+- 同义词: [[snutte]] (安抚巾（口语）)
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

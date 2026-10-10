@@ -9,7 +9,7 @@ zh: "胡萝卜蛋糕"
 en: "carrot cake"
 synonyms: []
 antonyms: []
-family: ["morot", "kaka"]
+family: [morot, kaka]
 topics: ["topic-mat-dryck", "topic-kafe-fika"]
 sentences:
   - "sent-ja-vi-har-en-glutenfri-morotskaka"
@@ -25,6 +25,9 @@ interval: 0
 # morotskaka — substantiv (en)
 
 📖 中文：胡萝卜蛋糕 · English: carrot cake
+
+🇸🇪 Förklaring: saftig kaka med riven orange rotfrukt och kryddor, ofta med en krämig glasyr ovanpå
+
 发音提示：/ˈmuːrɔtsˌkɑːka/；合成词 morot（胡萝卜）+ kaka（糕饼）。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: morot（胡萝卜），[[kaka]] (糕饼/饼干)
+- 词族: [[morot]]（胡萝卜）, [[kaka]] (糕饼/饼干)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]], [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

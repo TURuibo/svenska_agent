@@ -7,7 +7,7 @@ cefr: "A2"
 zh: "行得通；好使（口语）"
 en: "to work (informal, = fungera)"
 synonyms: [fungera]
-antonyms: []
+antonyms: [krångla]
 family: [fungera]
 topics: [topic-social-kontakt]
 sentences: [sent-annars-funkar-söndag-också]
@@ -22,6 +22,9 @@ interval: 0
 # funka — verb (grupp 1)
 
 📖 中文：行得通；好使（口语） · English: to work (informal, = fungera)
+
+🇸🇪 Förklaring: i vardagligt språk: gå som det ska, vara bra nog
+
 发音提示：["fʊŋka]
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 - 词族: [[fungera]]
 - 同义词: [[fungera]]
-- 反义词:
+- 反义词: [[krångla]] (出毛病)
 - 主题: [[topic-social-kontakt]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "保证名额（所有首选幼儿园都满员时由市政分配的名额）
 en: "guaranteed placement"
 synonyms: []
 antonyms: []
-family: [garanti, placering]
+family: [placering, garanti]
 topics: [topic-förskola-system]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # garantiplacering — substantiv (en)
 
 📖 中文：保证名额（所有首选幼儿园都满员时由市政分配的名额） · English: guaranteed placement
+
+🇸🇪 Förklaring: plats på en förskola som kommunen ger när ingen av de förskolor man har valt har plats
+
 发音提示：ga-ran-ti-pla-**se**-ring，复合词，重音在第二部分的第二音节。
 
 ## 语法变形 (Forms)

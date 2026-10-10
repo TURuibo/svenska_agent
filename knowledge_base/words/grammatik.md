@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 语法
 en: grammar
-synonyms: []
+synonyms: [språklära]
 antonyms: []
-family: []
+family: [grammatisk]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # grammatik — substantiv (en-ord)
 
 📖 中文：语法 · English: grammar
+
+🇸🇪 Förklaring: regler för hur ord böjs och hur meningar byggs i ett språk
+
+发音提示：/ɡraˈmatːɪk/ — 重音在 mat；t 要长
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: grammatisk
-- 同义词:
-- 反义词:
+- 词族: [[grammatisk]]
+- 同义词: [[språklära]] (语法学)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

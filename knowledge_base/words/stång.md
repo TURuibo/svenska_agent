@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 杆子/柱子/竿
 en: pole / rod / staff
-synonyms: ["stolpe", "påle"]
+synonyms: [stolpe, påle]
 antonyms: []
-family: []
+family: [flaggstång, midsommarstång, majstång]
 topics: ["topic-midsommar-traditioner"]
 sentences:
   - sent-sedan-klas-en-stor-stang-med-lov
@@ -24,6 +24,9 @@ interval: 0
 # stång — substantiv (en)
 
 📖 中文：杆子/柱子/竿 · English: pole / rod / staff
+
+🇸🇪 Förklaring: lång, smal och rak bit av trä eller metall
+
 发音提示：stång（单音节，长元音）
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[flaggstång]] (旗杆), [[midsommarstång]] (仲夏柱), [[majstång]] (五月柱)
 - 同义词: [[stolpe]], [[påle]]
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

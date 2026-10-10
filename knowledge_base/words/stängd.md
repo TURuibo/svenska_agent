@@ -23,6 +23,9 @@ interval: 0
 # stängd — adjektiv
 
 Zh: 关闭的；不开放的 · English: closed; shut
+
+🇸🇪 Förklaring: som inte är öppen, så att man inte kan komma in eller använda den
+
 发音提示：STÄNGD（一个音节）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ Zh: 关闭的；不开放的 · English: closed; shut
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[stänga]]（关闭；关门），stängning（关闭；关门），stängsel（围栏）
-- 反义词: [[öppen]]（开放的），öppet（开着的，中性形式）
+- 词族: [[stänga]]（关闭；关门）, [[stängning]]（关闭；关门）, [[stängsel]]（围栏）
+- 同义词: [[tillstängd]]
+- 反义词: [[öppen]]（开放的）, [[öppet]]（开着的，中性形式）
 - 主题: [[topic-samhalle]]
 
 ## 用法提示 (Usage Notes)

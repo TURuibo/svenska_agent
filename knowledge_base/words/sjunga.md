@@ -8,7 +8,7 @@ zh: "唱歌"
 en: "to sing"
 synonyms: []
 antonyms: []
-family: ["sång", "sångare", "sjungande"]
+family: [sång, sångare, sjungande]
 topics: ["topic-midsommar-traditioner", "topic-fritid-och-resor"]
 sentences: ["sent-alla-dansar-runt-stangen-och-sjunger"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sjunga — verb
 
 📖 中文：唱歌 · English: to sing
+
+🇸🇪 Förklaring: använda rösten för att framföra en melodi, ofta med ord
+
 发音提示：[ˈɧʉŋa]，sj- 发 [ɧ]（类似英语 sh 但更靠后）
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sång]] · [[sångare]]
-- 同义词:
-- 反义词:
+- 词族: [[sång]] · [[sångare]], [[sångare]], [[sjungande]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

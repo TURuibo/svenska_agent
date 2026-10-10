@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "灾难，灾害"
 en: "catastrophe, disaster"
-synonyms: ["katastrof", "olycka"]
-antonyms: []
-family: ["katastrofal"]
+synonyms: [kris, olycka]
+antonyms: [succé]
+family: [katastrofal]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # katastrof — substantiv (en)
 
 📖 中文：灾难，灾害 · English: catastrophe, disaster
+
+🇸🇪 Förklaring: mycket stor olycka som orsakar stora skador eller många döda
+
 发音提示：[kataˈstrɔːf] — 重音在最后一个音节
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: katastrofal (adjektiv — 灾难性的)
-- 同义词: kris (en — 危机), olycka (en — 事故/不幸)
-- 反义词: —
+- 词族: [[katastrofal]] (adjektiv — 灾难性的)
+- 同义词: [[kris]] (en — 危机), [[olycka]] (en — 事故/不幸)
+- 反义词: [[succé]] (大成功)
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: B1
 zh: "免于 / 不必"
 en: "to not have to / to avoid / to be spared"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [inte-behöva, undgå]
+antonyms: [måste, tvingas]
+family: [slippa-undan, slippa-ut]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # slippa — verb
 
 📖 中文：免于 / 不必 · English: to not have to / to avoid / to be spared
+
+🇸🇪 Förklaring: inte behöva göra något som man inte vill; bli fri från något obehagligt
+
 发音提示：['slɪpa]
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ Starkt verb (verbgrupp 4). Vokalväxling: i–e–a–u.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[slippa-undan|slippa undan]] (逃脱), [[slippa-ut|slippa ut]] (逃出)
+- 同义词: [[inte-behöva|inte behöva]] (不必), [[undgå]] (免于)
+- 反义词: [[måste]] (必须), [[tvingas]] (被迫)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: B1
 zh: 感染的，被感染的
 en: infected
-synonyms: []
-antonyms: []
+synonyms: [smittad, inflammerad]
+antonyms: [frisk]
 family: [infektion, infektera]
 topics: [topic-hälsa]
 sentences: []
@@ -21,6 +21,9 @@ interval: 0
 # infekterad — adjektiv
 
 📖 中文：感染的，被感染的 · English: infected
+
+🇸🇪 Förklaring: som har fått in bakterier eller virus som orsakar inflammation, till exempel ett sår
+
 发音提示：[ɪnfɛkˈteːrad]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[infektion]], [[infektera]]
+- 同义词: [[smittad]] (被传染的), [[inflammerad]] (发炎的)
+- 反义词: [[frisk]] (健康的)
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

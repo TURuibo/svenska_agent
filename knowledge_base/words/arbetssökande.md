@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "求职中的；待业的"
 en: "job-seeking; unemployed"
-synonyms: []
-antonyms: []
+synonyms: [arbetslös]
+antonyms: [anställd]
 family: [arbete, arbeta, söka]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-är-ni-föräldralediga-eller-arbetssökande-får]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # arbetssökande — adjektiv (presens particip)
 
 📖 中文：求职中的；待业的 · English: job-seeking; unemployed (registered job seeker)
+
+🇸🇪 Förklaring: som letar efter ett jobb
+
 发音提示：[ˈarːbeːtsˌsøːkandɛ]，arbete + s + sökande。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[arbete]], [[arbeta]], [[söka]]
+- 同义词: [[arbetslös]] (失业的)
+- 反义词: [[anställd]] (受雇的)
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

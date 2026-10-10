@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 违法的，非法的
 en: illegal
-synonyms: []
-antonyms: ["laglig"]
-family: ["lag", "laglig"]
+synonyms: [illegal, lagstridig]
+antonyms: [laglig]
+family: [lag, laglig]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # olaglig — adjektiv
 
 📖 中文：违法的，非法的 · English: illegal
+
+🇸🇪 Förklaring: som är förbjuden enligt lagen
+
 发音提示：oo-LAG-lig
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lag]]
-- 反义词: laglig（合法的）
+- 词族: [[lag]], [[laglig]] (合法的)
+- 同义词: [[illegal]] (非法的), [[lagstridig]] (违法的)
+- 反义词: [[laglig]]（合法的）
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

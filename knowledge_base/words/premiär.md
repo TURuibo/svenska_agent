@@ -8,7 +8,7 @@ zh: 首映；首演
 en: premiere
 synonyms: []
 antonyms: []
-family: []
+family: [premiärvisning, världspremiär, premiärkväll]
 topics: [topic-film]
 sentences: [sent-filmen-hade-premiär-i-sverige-den-1-oktober]
 known: false
@@ -18,6 +18,9 @@ created: 2026-10-07
 # premiär — substantiv (en)
 
 📖 中文：首映、首演 · English: premiere
+
+🇸🇪 Förklaring: första gången som en film, en pjäs eller ett program visas för publik
+
 发音提示：[prɛmiˈæ̌ːr]
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[premiärvisning]] (首映), [[världspremiär]] (全球首映), [[premiärkväll]] (首演之夜)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

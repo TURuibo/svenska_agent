@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "叫醒（他人）"
 en: "to wake (someone) up"
-synonyms: []
-antonyms: []
-family: [vakna]
+synonyms: [purra]
+antonyms: [somna]
+family: [vakna, vaken]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # väcka — verb (grupp 2a)
 
 📖 中文：叫醒（他人） · English: to wake (someone) up
+
+🇸🇪 Förklaring: få någon att sluta sova
+
 发音提示：VECK-a；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vakna]] (v. 自己醒来, intransitiv), [[vaken]] (adj. 醒着的)
-- 同义词: —
+- 同义词: [[purra]] (叫醒（口语）)
 - 反义词: [[somna]] (v. 入睡)
 - 主题: [[topic-vardagsrutin]]
 

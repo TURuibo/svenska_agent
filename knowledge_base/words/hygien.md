@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "卫生；个人清洁"
 en: "hygiene"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [renlighet]
+antonyms: [smuts, orenlighet]
+family: [hygienisk, hygienartiklar]
 topics: [topic-vård]
 sentences: [sent-pengarna-ska-räcka-till-mat-kläder-och]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # hygien — substantiv (en)
 
 📖 中文：卫生；个人清洁 · English: hygiene
+
+🇸🇪 Förklaring: det man gör för att hålla sig själv och sin omgivning ren så att man inte blir sjuk
+
 发音提示：hy-gi-EN，重音在最后一个音节；`g` 读硬 /g/：[hyɡiˈeːn]（外来词）。
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `hygienisk`（卫生的）、`hygienartiklar`
-- 同义词: —（近义 `renlighet`）
-- 反义词: —
+- 词族: [[hygienisk]]（卫生的）, [[hygienartiklar]]
+- 同义词: —（近义 [[renlighet]]）
+- 反义词: [[smuts]] (脏污), [[orenlighet]] (不洁)
 - 主题: [[topic-vård]]
 
 ## 用法提示 (Usage Notes)

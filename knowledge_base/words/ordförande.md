@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "主席；会长；议长"
 en: "chair; chairperson; president (of a board or association)"
-synonyms: []
+synonyms: [ledare, talman]
 antonyms: []
-family: [ord]
+family: [ord, styrelseordförande, mötesordförande]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-vi-vill-inte-förbjuda-elsparkcyklar-men-vi]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # ordförande — substantiv (en)
 
 📖 中文：主席；会长；议长 · English: chair; chairperson; president (of a board or association)
+
+🇸🇪 Förklaring: person som leder möten och arbetet i en styrelse, en förening eller ett parti
+
 发音提示：ORD-fö-ran-de，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ord]]（词）；复合词 `styrelseordförande`、`mötesordförande`
-- 同义词: 近义 [[ledare]]（领导者，更宽泛）、`talman`（议会议长）
+- 词族: [[ord]]（词）, 复合词 [[styrelseordförande]], [[mötesordförande]]
+- 同义词: 近义 [[ledare]]（领导者，更宽泛）, [[talman]]（议会议长）
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

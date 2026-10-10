@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "仔细地；认真地；彻底地"
 en: "carefully; thoroughly; meticulously"
-synonyms: []
-antonyms: []
+synonyms: [noga, grundligt]
+antonyms: [slarvigt]
 family: [noggrann, noggrannhet]
 topics: []
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # noggrant — adverb
 
 📖 中文：仔细地；认真地；彻底地 · English: carefully; thoroughly; meticulously
+
+🇸🇪 Förklaring: med stor omsorg och uppmärksamhet på alla detaljer
+
 发音提示：[ˈnɔɡrant] — two syllables
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ Adverb — no inflection. Derived from adjective *noggrann*:
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[noggrann]], [[noggrannhet]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[noga]] (仔细地), [[grundligt]] (彻底地)
+- 反义词: [[slarvigt]] (马虎地)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

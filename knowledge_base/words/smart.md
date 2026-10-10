@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "聪明的/机灵的"
 en: "smart, clever, intelligent"
-synonyms: ["klok"]
-antonyms: ["dum"]
-family: []
+synonyms: [klok]
+antonyms: [dum]
+family: [smarttelefon]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # smart — adjektiv
 
 📖 中文：聪明的/机灵的 · English: smart, clever, intelligent
+
+🇸🇪 Förklaring: som tänker snabbt och klokt och hittar bra lösningar
+
 发音提示：/smart/ — 与英语 "smart" 发音相近
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ Se [[grammar-adjektiv-bojning]], [[grammar-adjektiv-kongruens]]
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[smarttelefon]] (智能手机)
 - 同义词: [[klok]]
 - 反义词: [[dum]]
 - 主题: [[topic-personer]], [[topic-karaktarsord]]

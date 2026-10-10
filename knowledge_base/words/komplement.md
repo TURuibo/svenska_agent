@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "补充"
 en: "complement, supplement"
-synonyms: []
+synonyms: [tillägg, komplettering]
 antonyms: []
-family: []
+family: [komplementär, komplementfärg]
 topics: [topic-argumentation]
 sentences: []
 known: false
@@ -19,6 +19,10 @@ created: 2026-10-09
 # komplement — substantiv ett
 
 📖 中文：补充 · English: complement, supplement
+
+🇸🇪 Förklaring: något som läggs till och gör något annat mer fullständigt
+
+发音提示：/kɔmplɛˈmɛnt/ — 重音在最后音节 -ment
 
 ## 语法变形 (Forms)
 
@@ -39,8 +43,8 @@ created: 2026-10-09
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[komplementär]] (互补的), [[komplementfärg]] (互补色)
+- 同义词: [[tillägg]] (补充), [[komplettering]] (补充)
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

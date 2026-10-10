@@ -6,9 +6,9 @@ genus: "en"
 cefr: B2
 zh: 一串；顺口溜
 en: rhyme; string (of words)
-synonyms: []
+synonyms: [vers, rim]
 antonyms: []
-family: []
+family: [räkneramsa, barnramsa]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # ramsa — substantiv (en)
 
 📖 中文：一串；顺口溜 · English: rhyme; string (of words)
+
+🇸🇪 Förklaring: 1) kort vers med tydlig rytm som man läser eller sjunger, ofta för barn; 2) lång rad ord som man räknar upp
+
+发音提示：/ˈramsa/ — 重音在第一音节；a 短音
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[räkneramsa]] (数数歌谣), [[barnramsa]] (童谣)
+- 同义词: [[vers]] (诗句), [[rim]] (韵文)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

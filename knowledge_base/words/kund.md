@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "客户"
 en: "customer"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [köpare, konsument]
+antonyms: [säljare]
+family: [kundkort, kundtjänst, stamkund]
 topics: ["topic-bedrageri-bank-sakerhet", "topic-betalning"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # kund — substantiv (en)
 
 📖 中文：客户 · English: customer
+
+🇸🇪 Förklaring: person som köper varor eller tjänster i en affär eller av ett företag
+
 发音提示：/kɵnd/
 
 ## 语法变形 (Forms)
@@ -43,6 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kundkort]] (会员卡), [[kundtjänst]] (客服), [[stamkund]] (常客)
+- 同义词: [[köpare]] (买家), [[konsument]] (消费者)
+- 反义词: [[säljare]] (卖家)
 - 主题: [[topic-bedrageri-bank-sakerhet]], [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

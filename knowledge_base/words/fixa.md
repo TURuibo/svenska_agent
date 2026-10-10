@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "搞定；弄好（口语）"
 en: "to fix; to sort out; to handle"
-synonyms: ["ordna", "lösa", "klara av"]
-antonyms: []
-family: []
+synonyms: [lösa, klara-av, ordna]
+antonyms: [förstöra]
+family: [fixare]
 topics: []
 sentences:
   - "sent-absolut-jag-fixar-koden"
@@ -24,6 +24,9 @@ interval: 0
 # fixa — verb (grupp 1)
 
 📖 中文：搞定；弄好（口语） · English: to fix; to sort out; to handle
+
+🇸🇪 Förklaring: vardagligt: göra så att något blir klart eller fungerar, till exempel laga något eller ordna mat
+
 发音提示：/ˈfɪksa/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: [[lösa]] (解决), [[klara av]] (搞定)
+- 词族: [[fixare]] (能搞定事的人)
+- 同义词: [[lösa]] (解决), [[klara-av|klara av]] (搞定), [[ordna]]
+- 反义词: [[förstöra]] (弄坏)
 
 ## 用法提示 (Usage Notes)
 

@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 登录（logga in）
 en: to log (in)
-synonyms: []
-antonyms: []
-family: []
+synonyms: [logga-på]
+antonyms: [logga-ut]
+family: [inloggning, utloggning, logg]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # logga — verb (grupp 1)
 
 📖 中文：登录（logga in） · English: to log (in)
+
+🇸🇪 Förklaring: (med ”in”) ta sig in på en dator, i en app eller på en webbplats med användarnamn och lösenord
+
+发音提示：/ˈlɔɡːa/ — o 读短音 ɔ；gg 长
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: logga ut
+- 词族: [[inloggning]] (登录), [[utloggning]] (退出登录), [[logg]] (日志)
+- 同义词: [[logga-på|logga på]] (登录)
+- 反义词: [[logga-ut|logga ut]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -8,8 +8,8 @@ cefr: B1
 zh: 吞咽
 en: to swallow
 synonyms: []
-antonyms: []
-family: []
+antonyms: [spotta-ut]
+family: [sväljning, svalg]
 topics: ["topic-hälsa"]
 sentences:
   - sent-om-du-rakar-svalja-vatten
@@ -24,6 +24,9 @@ interval: 0
 # svälja — verb
 
 📖 中文：吞咽 · English: to swallow
+
+🇸🇪 Förklaring: låta mat eller dryck gå från munnen ner genom halsen till magen
+
 发音提示：SVÄL-ja
 
 ## 语法变形 (Forms)
@@ -53,6 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sväljning]] (吞咽), [[svalg]] (咽喉)
+- 同义词: —
+- 反义词: [[spotta-ut|spotta ut]] (吐出)
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

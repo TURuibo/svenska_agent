@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "商店；店铺"
 en: "shop, store"
-synonyms: ["affär"]
+synonyms: [affär]
 antonyms: []
-family: []
+family: [butiksbiträde, klädbutik, matbutik]
 topics: ["topic-stadsmiljo", "topic-mataffär"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # butik — substantiv (en)
 
 📖 中文：商店；店铺 · English: shop, store
+
+🇸🇪 Förklaring: lokal där man säljer varor till kunder
+
 发音提示：/buˈtiːk/ — 重音在第二音节，长 i
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[butiksbiträde]] (店员), [[klädbutik]] (服装店), [[matbutik]] (食品店)
 - 同义词: [[affär]]
+- 反义词: —
 - 相关词: [[mataffär]], [[livsmedelsbutik]]
 - 主题: [[topic-stadsmiljo]], [[topic-mataffär]]
 

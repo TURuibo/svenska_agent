@@ -9,7 +9,7 @@ zh: "彼此；互相；相互"
 en: "each other; one another"
 synonyms: []
 antonyms: []
-family: []
+family: [var-och-en, annan]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # varandra — pronomen
 
 📖 中文：彼此；互相；相互 · English: each other; one another
+
+🇸🇪 Förklaring: används för att visa att två eller flera personer gör samma sak mot den andra eller de andra
+
 发音提示：重音通常在后半部分：**var-AN-dra**。`andra` 里的 `d` 常弱化，但正式发音中仍可听到。
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[var-och-en|var och en]] (每个人), [[annan]] (另一个)
+- 同义词: —
+- 反义词: —
 - 主题: []
 
 ## 用法提示 (Usage Notes)

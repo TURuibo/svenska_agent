@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tvål — substantiv (en)
 
 📖 中文：肥皂 · English: soap
+
+🇸🇪 Förklaring: fast eller flytande medel som man använder med vatten för att göra händer och kropp rena
+
 发音提示：[tvoːl]，长 å。
 
 ## 语法变形 (Forms)

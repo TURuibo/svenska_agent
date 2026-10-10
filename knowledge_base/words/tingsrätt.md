@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "地区法院"
 en: "district court"
-synonyms: []
+synonyms: [domstol]
 antonyms: []
 family: [domstol, rätt]
 topics: [topic-terrorism-och-brott]
@@ -24,6 +24,9 @@ interval: 0
 # tingsrätt — substantiv (en)
 
 📖 中文：地区法院 · English: district court
+
+🇸🇪 Förklaring: domstol där de flesta rättegångar i Sverige börjar
+
 发音提示：TING-srätt；两个重音音节。
 
 ## 语法变形 (Forms)

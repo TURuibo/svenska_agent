@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "冒昧的、打扰的"
 en: "intrusive"
-synonyms: ["obekväm"]
-antonyms: ["diskret"]
-family: ["tränga"]
+synonyms: [obekväm]
+antonyms: [diskret]
+family: [tränga]
 topics: [topic-sociala-normer]
 sentences: ["sent-i-sverige-värderas-integritet-högt", "sent-spontana-besök-kan-uppfattas-som"]
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # påträngande — adjektiv
 
 📖 中文：冒昧的、打扰的 · English: intrusive
+
+🇸🇪 Förklaring: som lägger sig i och kommer för nära andra på ett störande sätt
+
+发音提示：/ˈpoːˌtrɛŋːandɛ/ — 前缀 på 重读；ng 读 /ŋ/
 
 ## 语法变形 (Forms)
 

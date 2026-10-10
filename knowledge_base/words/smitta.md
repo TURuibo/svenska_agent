@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "传染；传染病"
 en: "infection; contagion"
-synonyms: []
+synonyms: [infektion]
 antonyms: []
 family: [smittfri, smittsam]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # smitta — substantiv (en) / verb (grupp 1)
 
 📖 中文：传染；传染病 · English: infection; contagion
+
+🇸🇪 Förklaring: bakterier eller virus som sprids från en person till en annan och gör den andra sjuk
+
 发音提示：[ˈsmɪtːa]，短 i、双 t。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[smittfri]] · [[smittsam]]
-- 同义词: infektion
+- 词族: [[smittfri]] · [[smittsam]], [[smittsam]] (传染性的)
+- 同义词: [[infektion]]
 - 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]] · [[topic-förskola-vardag]]
 

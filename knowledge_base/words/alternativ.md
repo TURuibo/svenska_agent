@@ -6,9 +6,9 @@ genus: "ett"
 cefr: B1
 zh: 选择；备选方案
 en: alternative, option
-synonyms: []
+synonyms: [möjlighet, val]
 antonyms: []
-family: []
+family: [alternativt, alternera]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # alternativ — substantiv (ett)
 
 📖 中文：选择；备选方案 · English: alternative, option
+
+🇸🇪 Förklaring: en av flera möjligheter som man kan välja mellan
+
 发音提示：/alternaˈtiːv/
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[alternativt]] (或者；另外), [[alternera]] (交替)
+- 同义词: [[möjlighet]] (可能性), [[val]] (选择)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

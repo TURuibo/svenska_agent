@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "有教益的、长知识的"
 en: "instructive"
-synonyms: []
+synonyms: [intressant, utbildande]
 antonyms: []
-family: []
+family: [lära, lärare, lärobok]
 topics: ["topic-karaktarsord", "topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # lärorik — adjektiv
 
 📖 中文：有教益的、长知识的 · English: instructive
+
+🇸🇪 Förklaring: som ger en nya kunskaper eller erfarenheter
+
 发音提示：LÄ-ro-rik
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 - 词族: [[lära]], [[lärare]], [[lärobok]]
 - 同义词: [[intressant]], [[utbildande]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-karaktarsord]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

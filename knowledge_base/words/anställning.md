@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 雇佣/职位/工作岗位
 en: employment/position/job
-synonyms: []
-antonyms: []
-family: [anställa, anställd]
+synonyms: [tjänst, jobb, arbete]
+antonyms: [arbetslöshet]
+family: [anställd, anställa]
 topics: [topic-arbete-och-jobb]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # anställning — substantiv (en-ord)
 
 📖 中文：雇佣/职位/工作岗位 · English: employment/position/job
+
+🇸🇪 Förklaring: det att man har ett arbete hos en arbetsgivare; en plats eller tjänst på en arbetsplats
+
 发音提示：[anˈstɛlːnɪŋ] — 重音在第二音节
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[anställd]]
+- 词族: [[anställd]], [[anställa]] (雇用，聘用)
+- 同义词: [[tjänst]] (职位), [[jobb]] (工作), [[arbete]] (工作)
+- 反义词: [[arbetslöshet]] (失业)
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

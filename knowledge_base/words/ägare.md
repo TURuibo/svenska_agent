@@ -25,6 +25,9 @@ interval: 0
 # ägare — substantiv (en)
 
 📖 中文：主人；所有者 · English: owner
+
+🇸🇪 Förklaring: person eller företag som något tillhör
+
 发音提示：Ä-ga-re；tre stavelser, betoning på första.
 
 ## 语法变形 (Forms)

@@ -9,7 +9,7 @@ zh: "家庭财产保险"
 en: "home insurance; contents insurance"
 synonyms: []
 antonyms: []
-family: [försäkring, försäkra]
+family: [försäkring, försäkra, bilförsäkring]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-du-kan-också-få-stöd-för-vissa-andra]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # hemförsäkring — substantiv (en)
 
 📖 中文：家庭财产保险 · English: home insurance; contents insurance
+
+🇸🇪 Förklaring: skydd som man betalar för och som ersätter saker i bostaden om de blir stulna eller förstörda
+
 发音提示：HEM-för-säk-ring，重音在第一音节 `hem`。
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[försäkring]]（上位词：保险）、[[försäkra]]（动词）、`bilförsäkring`
+- 词族: [[försäkring]]（上位词：保险）, [[försäkra]]（动词）, [[bilförsäkring]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]

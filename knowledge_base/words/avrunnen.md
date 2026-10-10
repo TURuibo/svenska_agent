@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 沥干的
 en: drained
-synonyms: []
+synonyms: [avsilad]
 antonyms: []
-family: []
+family: [rinna, rinna-av]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # avrunnen — adjektiv
 
 📖 中文：沥干的 · English: drained
+
+🇸🇪 Förklaring: som man har hällt av vätskan från, till exempel bönor ur en burk
+
 发音提示：/ˈɑːvˌrɵnːən/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[rinna]] (流), [[rinna-av|rinna av]] (沥干)
+- 同义词: [[avsilad]] (滤过的)
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

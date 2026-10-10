@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 中心的；中央的；核心的
 en: central
-synonyms: []
-antonyms: []
-family: ["centrum", "centralstation"]
+synonyms: [viktig, väsentlig]
+antonyms: [perifer]
+family: [centralstation, centrum]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # central — adjektiv
 
 📖 中文：中心的；中央的；核心的 · English: central
+
+🇸🇪 Förklaring: 1) som ligger mitt i en stad eller ett område; 2) som är mycket viktig
+
 发音提示：/senˈtraːl/
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[centralstation]], centrum
-- 同义词: —
-- 反义词: —
+- 词族: [[centralstation]], [[centrum]]
+- 同义词: [[viktig]] (重要的), [[väsentlig]] (关键的)
+- 反义词: [[perifer]] (边缘的)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

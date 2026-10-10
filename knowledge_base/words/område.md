@@ -6,9 +6,9 @@ genus: "ett"
 cefr: A2
 zh: 地区；领域
 en: area; field
-synonyms: []
+synonyms: [region, fält]
 antonyms: []
-family: []
+family: [bostadsområde, ämnesområde, naturområde]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # område — substantiv (ett)
 
 📖 中文：地区；领域 · English: area; field
+
+🇸🇪 Förklaring: 1) del av en stad, ett land eller en yta; 2) ämne eller fält som någon arbetar med
+
+发音提示：/ˈɔmˌroːdɛ/ — o 读短 ɔ；重音在 om
 
 ## 语法变形 (Forms)
 
@@ -44,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[bostadsområde]] (住宅区), [[ämnesområde]] (学科领域), [[naturområde]] (自然区)
+- 同义词: [[region]] (地区), [[fält]] (领域)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

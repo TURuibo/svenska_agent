@@ -5,11 +5,9 @@ ordklass: "adjektiv"
 cefr: "A2"
 zh: "晚点的；延误的"
 en: "delayed; late"
-synonyms: []
-antonyms:
-  - i-tid
-family:
-  - försening
+synonyms: [sen]
+antonyms: [i-tid]
+family: [försening]
 topics:
   - topic-kollektivtrafik
 sentences:
@@ -25,6 +23,9 @@ interval: 0
 # försenad — adjektiv
 
 📖 中文：晚点的；延误的 · English: delayed; late
+
+🇸🇪 Förklaring: som kommer senare än det var planerat eller bestämt
+
 发音提示：/för-SE-nad/
 
 ## 语法变形 (Forms)
@@ -49,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: försening（延误/晚点，名词）
+- 词族: [[försening]]（延误/晚点，名词）
+- 同义词: [[sen]] (迟的)
+- 反义词: [[i-tid]]
 - 主题: [[topic-kollektivtrafik]]
 
 ## 用法提示 (Usage Notes)

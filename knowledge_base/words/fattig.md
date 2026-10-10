@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "贫穷的"
 en: "poor, impoverished"
-synonyms: []
-antonyms: ["rik"]
-family: []
+synonyms: [medellös]
+antonyms: [rik]
+family: [fattigdom, utfattig]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fattig — adjektiv
 
 📖 中文：贫穷的 · English: poor, impoverished
+
+🇸🇪 Förklaring: som har mycket lite pengar och svårt att klara sig
+
 发音提示：/ˈfatːɪɡ/，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[fattigdom]] (贫穷), [[utfattig]] (赤贫的)
+- 同义词: [[medellös]] (身无分文的)
 - 反义词: [[rik]]
 - 主题: [[topic-karaktarsord]]
 

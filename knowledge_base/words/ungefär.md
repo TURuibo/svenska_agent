@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "大约；差不多"
 en: "approximately / about"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [cirka, runt]
+antonyms: [exakt, precis]
+family: [ungefärlig]
 topics:
   - topic-tid-och-tidsuttryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # ungefär — adverb
 
 📖 中文：大约；差不多 · English: approximately / about
+
+🇸🇪 Förklaring: inte exakt men nästan; används när man inte vet det precisa talet
+
 发音提示：UN-ge-fär；三音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[ungefärlig]] (大致的)
 - 同义词: [[cirka]] (adv. 大约，书面/正式), [[runt]] (adv. 大约，口语)
 - 反义词: [[exakt]] (adv. 精确地), [[precis]] (adv. 正好)
 - 主题: [[topic-tid-och-tidsuttryck]]

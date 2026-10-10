@@ -6,11 +6,9 @@ verbgrupp: "2"
 cefr: B1
 zh: "冲洗、漂洗、涮"
 en: "to rinse"
-synonyms:
-  - "[[spola]]"
+synonyms: [spola]
 antonyms: []
-family:
-  - "[[sköljmedel]]"
+family: [sköljmedel, sköljning]
 topics:
   - "[[topic-hemmet]]"
 sentences: []
@@ -25,6 +23,9 @@ interval: 0
 # skölja — verb (grupp 2)
 
 📖 中文：冲洗、漂洗、涮（用水冲一下） · English: to rinse
+
+🇸🇪 Förklaring: låta vatten rinna över något för att få bort tvål, smuts eller rester
+
 发音提示：/ˈɧœlja/，**skj** 发瑞典语难音 [ɧ]（类似含混的"sh/h"）；lj 中 l 要发音。
 
 ## 语法变形 (Forms)
@@ -55,7 +56,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sköljmedel]]（柔顺剂/漱口水）、sköljning（冲洗，名词）
+- 词族: [[sköljmedel]]（柔顺剂/漱口水）, [[sköljning]]（冲洗，名词）
 - 同义词: [[spola]]（冲，多指水流冲/冲马桶）
 - 反义词: —
 - 主题: [[topic-hemmet]]

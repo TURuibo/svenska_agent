@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "地铁"
 en: "metro / subway"
-synonyms: []
+synonyms: [t-bana]
 antonyms: []
-family: []
+family: [tunnelbanestation, tunnelbanelinje]
 topics:
   - topic-riktningar
   - topic-vardagsrutin
@@ -30,6 +30,9 @@ interval: 0
 # tunnelbana — substantiv (en)
 
 📖 中文：地铁 · English: metro / subway
+
+🇸🇪 Förklaring: tåg som går under marken i en stor stad
+
 发音提示：TUN-nel-ba-na；四音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -55,7 +58,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tunnelbanestation]] (地铁站), [[tunnelbanelinje]] (地铁线)
-- 同义词: [[T-bana]] (口语简称)
+- 同义词: [[t-bana|T-bana]] (口语简称)
 - 反义词: —
 - 主题: [[topic-riktningar]]
 

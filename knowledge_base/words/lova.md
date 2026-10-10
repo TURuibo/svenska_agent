@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "承诺；保证"
 en: "to promise"
-synonyms: []
+synonyms: [försäkra, garantera]
 antonyms: []
-family: []
+family: [löfte, lovande]
 topics: []
 sentences:
   - sent-jag-ar-dar-om-tjugo-minuter
@@ -24,6 +24,9 @@ interval: 0
 # lova — verb (grupp 1)
 
 📖 中文：承诺；保证 · English: to promise
+
+🇸🇪 Förklaring: säga att man säkert ska göra något
+
 发音提示：LO-va；两音节。
 
 ## 语法变形 (Forms)

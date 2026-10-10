@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: "B1"
 zh: "有期限的，限时的"
 en: "fixed-term, time-limited"
-synonyms: []
-antonyms: ["tillsvidareanställning"]
-family: ["tid", "begränsa"]
+synonyms: [tillfällig]
+antonyms: [tillsvidareanställning]
+family: [tid, begränsa]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 sources: ["source-2026-10-03-att-vara-anstalld"]
@@ -18,6 +18,9 @@ created: "2026-10-03"
 # tidsbegränsad — adjektiv
 
 📖 中文：有期限的，限时的 · English: fixed-term, time-limited
+
+🇸🇪 Förklaring: som bara gäller under en viss period och sedan tar slut
+
 发音提示：TIDS-be-gräns-ad
 
 ## 语法变形 (Forms)
@@ -41,7 +44,7 @@ created: "2026-10-03"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tid]], [[begränsa]]
-- 同义词: —
+- 同义词: [[tillfällig]] (临时的)
 - 反义词: [[tillsvidareanställning]]
 - 主题: [[topic-arbete-och-jobb]]
 

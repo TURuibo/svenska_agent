@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "安全感；安心"
 en: "safety; sense of security; security"
-synonyms: []
-antonyms: []
-family: ["trygg"]
+synonyms: [säkerhet, skydd]
+antonyms: [otrygghet, oro]
+family: [trygg]
 topics: ["topic-stadsmiljo"]
 sentences: ["sent-for-mig-ar-trygghet-det", "sent-det-kanns-inte-alltid-tryggt"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # trygghet — substantiv (en)
 
 📖 中文：安全感；安心 · English: safety; sense of security; security
+
+🇸🇪 Förklaring: känsla av att vara skyddad och inte behöva vara orolig
+
 发音提示：TRYGG-het（gg 发 /g/，重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[trygg]] (形容词 — safe, secure)
+- 同义词: [[säkerhet]] (安全), [[skydd]] (保护)
+- 反义词: [[otrygghet]] (不安全感), [[oro]] (不安)
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: en
 cefr: A1
 zh: "聚会；派对"
 en: "party"
-synonyms: []
+synonyms: [kalas, party, bjudning]
 antonyms: []
-family: []
+family: [festa, festlig]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # fest — substantiv (en)
 
 📖 中文：聚会；派对 · English: party
+
+🇸🇪 Förklaring: tillfälle då människor träffas för att äta, dricka, dansa och ha roligt tillsammans
+
 发音提示：/fɛst/（e 短，st 清晰）
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: festa（动词：开派对、狂欢）, festlig（形容词：喜庆的）
-- 同义词:
-- 反义词:
+- 词族: [[festa]]（动词：开派对、狂欢）, [[festlig]]（形容词：喜庆的）
+- 同义词: [[kalas]] (派对), [[party]] (派对), [[bjudning]] (宴请)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

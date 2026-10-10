@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 无聊的/令人厌烦的
 en: boring, dull
-synonyms: []
+synonyms: [ointressant]
 antonyms: [rolig, spännande, intressant]
-family: []
+family: [tråkighet]
 topics: [topic-karaktarsord]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tråkig — adjektiv
 
 📖 中文：无聊的/令人厌烦的 · English: boring, dull
+
+🇸🇪 Förklaring: som inte väcker något intresse eller någon glädje
+
 发音提示：TRÅ-kig；元音 `å` 长音。
 
 ## 语法变形 (Forms)

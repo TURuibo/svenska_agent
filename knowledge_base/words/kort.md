@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A1"
 zh: "卡；银行卡；明信片"
 en: "card"
-synonyms: []
+synonyms: [vykort]
 antonyms: []
 family: [kortbetalning, kreditkort, betalkort]
 topics:
@@ -25,6 +25,9 @@ interval: 0
 # kort — substantiv (ett)
 
 📖 中文：卡；银行卡；明信片 · English: card
+
+🇸🇪 Förklaring: 1) liten platt bit av plast som man betalar med eller visar vem man är med; 2) styvt papper med bild som man skickar som hälsning
+
 发音提示：kort（单音节）。
 
 ## 语法变形 (Forms)
@@ -61,7 +64,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kortbetalning]] (en, 刷卡支付), [[kreditkort]] (ett, 信用卡), [[betalkort]] (ett, 借记卡)
-- 同义词: —
+- 同义词: [[vykort]] (明信片)
 - 反义词: —
 - 主题: [[topic-vardagsrutin]]
 

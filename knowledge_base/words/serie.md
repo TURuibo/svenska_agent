@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "电视剧；系列节目；连环漫画"
 en: "TV series; show; serial; comic strip"
-synonyms: []
+synonyms: [tv-serie]
 antonyms: []
 family: [serieteckning]
 topics: [topic-fritid-och-resor]
@@ -23,6 +23,9 @@ interval: 0
 # serie — substantiv (en)
 
 📖 中文：电视剧；系列节目；连环漫画 · English: TV series; show; serial; comic strip
+
+🇸🇪 Förklaring: 1) program på tv eller nätet som visas i flera avsnitt; 2) berättelse i tecknade bilder med pratbubblor
+
 发音提示：SE-ri-e（三个音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[serieteckning]]
+- 同义词: [[tv-serie]] (电视剧)
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

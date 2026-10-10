@@ -9,7 +9,7 @@ zh: "长大的（在……成长）"
 en: "grown up (in)"
 synonyms: []
 antonyms: []
-family: []
+family: [växa-upp, växa, uppvuxen]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # uppväxt — adjektiv (particip av "växa upp")
 
 📖 中文：长大的（在……成长） · English: grown up (in)
+
+🇸🇪 Förklaring: som har vuxit upp på en viss plats eller i en viss miljö
+
 发音提示：UPP-växt
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[växa-upp|växa upp]] (长大), [[växa]] (生长), [[uppvuxen]] (成长起来的)
+- 同义词: —
+- 反义词: —
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

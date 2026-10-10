@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: "B1"
 zh: "可能的；任何可能出现的"
 en: "possible; potential"
-synonyms: []
-antonyms: []
-family: ["eventuellt"]
+synonyms: [möjlig, tänkbar]
+antonyms: [säker]
+family: [eventuellt]
 topics: ["topic-argumentation"]
 sentences: ["sent-därför-bör-chefen-ta-upp"]
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-07"
 # eventuell — adjektiv
 
 📖 中文：可能的（若有的话） · English: possible, potential
+
+🇸🇪 Förklaring: som kanske kommer att finnas eller hända
+
 发音提示：e-ven-tu-ELL，重音在 ell
 
 ## 语法变形 (Forms)
@@ -39,6 +42,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[eventuellt]]
+- 同义词: [[möjlig]] (可能的), [[tänkbar]] (可设想的)
+- 反义词: [[säker]] (确定的)
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

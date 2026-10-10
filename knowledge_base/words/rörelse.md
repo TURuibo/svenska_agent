@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "运动；活动；动静"
 en: "movement / motion"
-synonyms: [röring, aktivitet]
+synonyms: [aktivitet, röring]
 antonyms: [stillhet, ro]
 family: [röra, rörlig, rörelsefrihet]
 topics:
@@ -25,6 +25,9 @@ interval: 0
 # rörelse — substantiv (en)
 
 📖 中文：运动；活动；动静 · English: movement / motion
+
+🇸🇪 Förklaring: 1) det att någon eller något flyttar sig och inte står still; 2) fysisk aktivitet, till exempel att gå eller träna
+
 发音提示：RÖ-rel-se；tre stavelser, betoning på första.
 
 ## 语法变形 (Forms)

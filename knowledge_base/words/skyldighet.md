@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "义务；责任"
 en: "obligation"
-synonyms: []
+synonyms: [plikt, ansvar]
 antonyms: [rättighet]
 family: [skyldig]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # skyldighet — substantiv
 
 📖 中文：义务；责任 · English: obligation
+
+🇸🇪 Förklaring: något som man måste göra enligt lag, regler eller moral
+
+发音提示：/ˈɧʏldɪɡheːt/ — sky 读 ɧy；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -40,6 +44,7 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skyldig]]
+- 同义词: [[plikt]] (义务), [[ansvar]] (责任)
 - 反义词: [[rättighet]]
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]

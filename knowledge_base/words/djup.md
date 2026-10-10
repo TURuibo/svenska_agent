@@ -7,8 +7,8 @@ cefr: A2
 zh: 深的
 en: deep
 synonyms: []
-antonyms: []
-family: []
+antonyms: [ytlig]
+family: [fördjupa, djupna, djupfryst]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # djup — adjektiv
 
 📖 中文：深的 · English: deep
+
+🇸🇪 Förklaring: som går långt ner från ytan
+
 发音提示：/juːp/（d 发音，j 读如英语 y）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: ytlig（浅的，未入库）
+- 词族: [[fördjupa]] (加深), [[djupna]] (变深), [[djupfryst]] (冷冻的)
+- 同义词: —
+- 反义词: [[ytlig]]（浅的，未入库）
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

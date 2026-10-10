@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "小的"
 en: "small"
-synonyms: []
+synonyms: [ringa, obetydlig]
 antonyms: [stor]
-family: []
+family: [litet]
 topics: [topic-djur, topic-hemmet]
 sentences:
   - sent-mitt-rum-ar-litet-men-trevligt
@@ -26,6 +26,9 @@ interval: 0
 # liten — adjektiv
 
 📖 中文：小的 · English: small
+
+🇸🇪 Förklaring: som inte är stor, t.ex. till storlek, ålder eller mängd
+
 发音提示：/ˈliːtɛn/
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[litet]] (lite, litet — liten i neutrum)
-- 同义词: —
+- 同义词: [[ringa]] (微小的), [[obetydlig]] (微不足道的)
 - 反义词: [[stor]]
 - 主题: [[topic-djur]], [[topic-hemmet]]
 

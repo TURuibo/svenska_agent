@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "不专业的"
 en: "unprofessional"
-synonyms: []
-antonyms: ["professionell"]
-family: ["professionell"]
+synonyms: [amatörmässig, slarvig]
+antonyms: [professionell]
+family: [professionell]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # oprofessionell — adjektiv
 
 📖 中文：不专业的 · English: unprofessional
+
+🇸🇪 Förklaring: som inte gör sitt arbete på ett seriöst, kunnigt och korrekt sätt
+
+发音提示：/ˈuːprʊfɛɧʊˌnɛlː/ — ssi 读 ɧ；o- 读 uː
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[professionell]]
-- 同义词: []
+- 同义词: [[amatörmässig]] (业余的), [[slarvig]] (马虎的)
 - 反义词: [[professionell]]
 - 主题: [[topic-sociala-normer]]
 

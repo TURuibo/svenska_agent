@@ -22,7 +22,10 @@ interval: 0
 # högskola — substantiv
 
 📖 中文：高等学校，学院 · English: university college
-发音提示：
+
+🇸🇪 Förklaring: skola där man studerar efter gymnasiet och kan ta en examen
+
+发音提示：/ˈhøːɡˌskuːla/ — ö 读长音；sk 在 o 前读 sk，不读 ɧ
 
 ## 语法变形 (Forms)
 

@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "打理；照管；负责处理"
 en: "to take care of; to manage; to look after"
 synonyms: [ta-hand-om]
-antonyms: []
+antonyms: [försumma, vansköta]
 family: [skötsel, skötsam]
 topics: []
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # sköta — verb
 
 📖 中文：打理；照管；负责处理 · English: to take care of; to manage; to look after
+
+🇸🇪 Förklaring: se efter någon eller något och se till att allt fungerar som det ska
+
 发音提示：[ˈɧøːta]
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 
 - 词族: [[skötsel]], [[skötsam]]
 - 同义词: [[ta-hand-om]]
-- 反义词: —
+- 反义词: [[försumma]] (疏忽), [[vansköta]] (管理不善)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

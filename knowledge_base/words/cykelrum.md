@@ -19,6 +19,9 @@ created: "2026-10-05"
 # cykelrum — substantiv (ett)
 
 📖 中文：自行车房 · English: bicycle room
+
+🇸🇪 Förklaring: rum i ett hus där de som bor där kan ställa sina cyklar
+
 发音提示：SYK-el-rum
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[cykel]] (自行车), [[rum]] (房间)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

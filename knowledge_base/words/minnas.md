@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 记得/回忆
 en: to remember
-synonyms: []
-antonyms: []
-family: []
+synonyms: [komma-ihåg]
+antonyms: [glömma]
+family: [minne, minnesanteckning, minnesmärke]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # minnas — verb (oregelbundet, s-verb)
 
 📖 中文：记得/回忆 · English: to remember
+
+🇸🇪 Förklaring: ha kvar något i tanken eller tänka tillbaka på något som har hänt
+
 发音提示：MIN-nas；双写 `nn`，元音 `i` 短促。
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[minne]] (ett, 记忆/回忆), [[minnesanteckning]] (笔记), [[minnesmärke]] (纪念碑)
-- 同义词: [[komma ihåg]] (phrase, 记得，更常用于口语)
+- 同义词: [[komma-ihåg|komma ihåg]] (phrase, 记得，更常用于口语)
 - 反义词: [[glömma]] (v. 忘记)
 - 主题: —
 

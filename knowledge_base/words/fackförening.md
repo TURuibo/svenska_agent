@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "工会"
 en: "trade union"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [facket]
+antonyms: [arbetsgivarorganisation]
+family: [fack, a-kassa]
 topics: [topic-arbete]
 sentences: [sent-du-kan-också-få-stöd-för-vissa-andra]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # fackförening — substantiv (en)
 
 📖 中文：工会 · English: trade union
+
+🇸🇪 Förklaring: organisation för arbetstagare som förhandlar om löner och arbetsvillkor med arbetsgivarna
+
 发音提示：FACK-för-e-ning，重音在第一音节 `fack`。口语常缩短为 `facket`。
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `fack`（行业；工会）+ `förening`（协会）；相关 [[a-kassa]]（常与工会并列）
-- 同义词: —（口语 `facket`）
-- 反义词: —
+- 词族: [[fack]]（行业；工会）+ `förening`（协会）, 相关 [[a-kassa]]（常与工会并列）
+- 同义词: —（口语 [[facket]]）
+- 反义词: [[arbetsgivarorganisation]] (雇主组织)
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

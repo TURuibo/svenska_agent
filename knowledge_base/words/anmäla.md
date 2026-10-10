@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "报案；申报；报告"
 en: "to report (to authorities) / register"
-synonyms: []
-antonyms: []
-family: [anmälan, anmälare, anmält]
+synonyms: [rapportera, polisanmäla]
+antonyms: [avboka]
+family: [anmälan, polisanmälan, anmälare, anmält]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -26,6 +26,9 @@ interval: 0
 # anmäla — verb (grupp 1)
 
 📖 中文：报案；申报；报告 · English: to report (to authorities) / register
+
+🇸🇪 Förklaring: berätta för polisen eller en myndighet om ett brott eller ett problem; skriva upp sig eller någon annan för något
+
 发音提示：an-MÄ-la；三音节，重音在第二音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[anmälan]] (en, 申报/报案), [[polisanmälan]] (en, 警方报案单)
+- 词族: [[anmälan]] (en, 申报/报案), [[polisanmälan]] (en, 警方报案单), [[anmälare]], [[anmält]]
 - 同义词: [[rapportera]] (v. 报告，较通用), [[polisanmäla]] (v. 向警察报案)
 - 反义词: [[avboka]] (v. 取消预订)
 - 主题: [[topic-vardagsrutin]]

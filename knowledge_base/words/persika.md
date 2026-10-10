@@ -9,7 +9,7 @@ zh: "桃子"
 en: "peach"
 synonyms: []
 antonyms: []
-family: []
+family: [persikofärgad]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # persika — substantiv (en)
 
 📖 中文：桃子 · English: peach
+
+🇸🇪 Förklaring: rund och söt frukt med luddigt skal och en stor kärna i mitten
+
 发音提示：PÄR-si-ka
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: persikofärgad（桃色的）
+- 词族: [[persikofärgad]]（桃色的）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

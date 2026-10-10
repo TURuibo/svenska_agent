@@ -19,6 +19,9 @@ created: "2026-09-26"
 # lekpark — substantiv (en)
 
 📖 中文：游乐场；儿童公园 · English: playground
+
+🇸🇪 Förklaring: område utomhus med gungor, rutschkanor och sandlåda för barn
+
 发音提示：/ˈleːkˌpark/；lek（玩）+ park。
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ created: "2026-09-26"
 
 - 词族: [[park]]
 - 同义词: [[lekplats]]
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

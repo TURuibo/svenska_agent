@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A2
 zh: "种植，耕种"
 en: "to cultivate, to farm, to grow"
-synonyms: []
+synonyms: [plantera, bruka]
 antonyms: []
-family: ["odling", "odlare", "odlad"]
+family: [odling, odlare, odlad]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # odla — verb
 
 📖 中文：种植，耕种 · English: to cultivate, to farm, to grow
+
+🇸🇪 Förklaring: så och ta hand om växter så att de växer, till exempel grönsaker eller blommor
+
 发音提示：/ˈoːdla/，两音节，重音在前
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ Verbgrupp 1（-ar/-ade/-at 变位规律动词）。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: odling (en, 种植/耕作), odlare (en, 农夫/种植者), odlad (adj, 种植的/有教养的)
-- 同义词: —
+- 词族: [[odling]] (en, 种植/耕作), [[odlare]] (en, 农夫/种植者), [[odlad]] (adj, 种植的/有教养的)
+- 同义词: [[plantera]] (种植), [[bruka]] (耕种)
 - 反义词: —
 - 主题: [[topic-vikingatiden]]
 

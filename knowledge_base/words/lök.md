@@ -8,7 +8,7 @@ zh: "洋葱"
 en: "onion"
 synonyms: []
 antonyms: []
-family: []
+family: [rödlök, vitlök, purjolök]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lök — substantiv (en-ord)
 
 📖 中文：洋葱 · English: onion
+
+🇸🇪 Förklaring: rund grönsak med stark smak och många tunna lager, som man ofta steker eller äter rå
+
 发音提示：[løːk]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: rödlök (红洋葱), vitlök (大蒜), purjolök (韭葱)
+- 词族: [[rödlök]] (红洋葱), [[vitlök]] (大蒜), [[purjolök]] (韭葱)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

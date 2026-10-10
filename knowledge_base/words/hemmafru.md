@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 家庭主妇
 en: housewife, stay-at-home mother
-synonyms: []
-antonyms: []
-family: []
+synonyms: [hemmamamma]
+antonyms: [yrkeskvinna]
+family: [hemma, fru, hemmaman]
 topics: [topic-familj-och-barn, topic-yrken]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hemmafru — substantiv (en)
 
 📖 中文：家庭主妇 · English: housewife, stay-at-home mother
+
+🇸🇪 Förklaring: gift kvinna som inte har lönearbete utan sköter barnen och hushållet
+
 发音提示：HEM-ma-fru；重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hemma]] (adv, 在家), [[fru]] (en, 妻子), [[hemmaman]] (stay-at-home husband)
-- 同义词: —
-- 反义词: —
+- 同义词: [[hemmamamma]] (全职妈妈)
+- 反义词: [[yrkeskvinna]] (职业女性)
 - 主题: [[topic-familj-och-barn]], [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "圆形鹅卵石（路石）"
 en: "cobblestone"
-synonyms: []
+synonyms: [gatsten]
 antonyms: []
-family: ["sten"]
+family: [sten]
 topics: ["topic-geografi-natur", "topic-stadsmiljo"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kullersten — substantiv (en)
 
 📖 中文：圆形鹅卵石（路石） · English: cobblestone
+
+🇸🇪 Förklaring: rund sten som man förr lade på gator och torg för att göra dem jämna att gå på
+
 发音提示：[ˈkɵlɛrˌsteːn]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sten]]
+- 同义词: [[gatsten]] (路石)
+- 反义词: —
 - 主题: [[topic-geografi-natur]], [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

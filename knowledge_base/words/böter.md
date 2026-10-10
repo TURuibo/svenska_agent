@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: 罚款（复数）
 en: fine (monetary penalty)
-synonyms: []
+synonyms: [straffavgift]
 antonyms: []
-family: ["betala", "straff"]
+family: [betala, straff]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-polisens-straff-blir-att-betala-boter
@@ -24,6 +24,9 @@ interval: 0
 # böter — substantiv
 
 📖 中文：罚款（复数） · English: fine (monetary penalty)
+
+🇸🇪 Förklaring: pengar som man måste betala som straff när man har brutit mot en regel eller lag
+
 发音提示：BÖ-ter
 
 ## 语法变形 (Forms)
@@ -53,6 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[betala]], [[straff]]
+- 同义词: [[straffavgift]] (罚金)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "感觉（身体状况）"
 en: "to feel (health)"
-synonyms: []
+synonyms: [känna-sig]
 antonyms: []
 family: [må-bra]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # må — verb (grupp 3)
 
 📖 中文：感觉（身体状况） · English: to feel (health)
+
+🇸🇪 Förklaring: känna sig på ett visst sätt i kroppen eller själen, till exempel bra eller dåligt
+
 发音提示：[moː]，长 å。
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[må-bra]]
-- 同义词: känna sig（感到）
+- 同义词: [[känna-sig|känna sig]]（感到）
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 

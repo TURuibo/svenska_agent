@@ -8,7 +8,7 @@ zh: 鲈鱼；欧洲鲈鱼
 en: perch (fish)
 synonyms: []
 antonyms: []
-family: []
+family: [abborrfilé, abborrfiske]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # abborre — substantiv (en)
 
 📖 中文：鲈鱼；欧洲鲈鱼 · English: perch (fish)
+
+🇸🇪 Förklaring: vanlig fisk i svenska sjöar som har mörka ränder och en taggig fena på ryggen
+
 发音提示：AB-bor-re（三音节，重音在前）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[abborrfilé]] (鲈鱼片), [[abborrfiske]] (钓鲈鱼)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

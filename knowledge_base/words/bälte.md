@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "腰带/皮带"
 en: "belt"
-synonyms: []
+synonyms: [skärp]
 antonyms: []
-family: []
+family: [säkerhetsbälte, bältesspänne]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bälte — substantiv (ett-ord)
 
 📖 中文：腰带/皮带 · English: belt
+
+🇸🇪 Förklaring: band av läder eller tyg som man har runt midjan, till exempel för att byxorna ska sitta
+
 发音提示：/ˈbɛltɛ/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[säkerhetsbälte]] (安全带), [[bältesspänne]] (皮带扣)
+- 同义词: [[skärp]] (腰带)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

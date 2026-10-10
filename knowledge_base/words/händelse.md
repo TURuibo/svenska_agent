@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "事件"
 en: "event"
-synonyms: []
+synonyms: [tilldragelse, incident]
 antonyms: []
-family: ["hända"]
+family: [hända]
 topics: ["topic-historia"]
 sentences: ["sent-vilken-händelse-gjorde-att-arbetet", "sent-vad-hände-ute-i-europa"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # händelse — substantiv
 
 📖 中文：事件 · English: event
+
+🇸🇪 Förklaring: något som inträffar, ofta något viktigt eller ovanligt
+
 发音提示："HÄN-del-se"
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hända]]
-- 同义词: —
+- 同义词: [[tilldragelse]] (事件), [[incident]] (事件；事故)
 - 反义词: —
 - 主题: [[topic-historia]]
 

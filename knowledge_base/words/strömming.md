@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "波罗的海鲱鱼"
 en: "Baltic herring"
-synonyms: []
+synonyms: [sill]
 antonyms: []
-family: []
+family: [surströmming, strömmingsfiske]
 topics: ["topic-hav-och-kust", "topic-mat-och-livsmedel"]
 sentences: ["sent-fisken-var-mer-eller-mindre-forsvunnen", "sent-efter-att-industrins-stora-batar-har"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # strömming — substantiv (en)
 
 📖 中文：波罗的海鲱鱼 · English: Baltic herring
+
+🇸🇪 Förklaring: sill som lever i den norra delen av Östersjön och är lite mindre och magrare
+
 发音提示：[ˈstrœmɪŋ] — ö/ö 音，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: surströmming (腌鲱鱼), strömmingsfiske (捕鲱业)
-- 同义词: sill (en — 大西洋鲱鱼，但两者不同)
+- 词族: [[surströmming]] (腌鲱鱼), [[strömmingsfiske]] (捕鲱业)
+- 同义词: [[sill]] (en — 大西洋鲱鱼，但两者不同)
 - 反义词: —
 - 主题: [[topic-hav-och-kust]], [[topic-mat-och-livsmedel]]
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "一些；几个"
 en: "some; a few; several"
-synonyms: []
-antonyms: ["inga"]
-family: ["någon", "något"]
+synonyms: [ett-par, en-del]
+antonyms: [inga]
+family: [någon, ingenting, något]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # några — pronomen
 
 📖 中文：一些；几个 · English: some; a few; several
+
+🇸🇪 Förklaring: ett mindre antal, inte så många; används också i frågor och nekande satser
+
 发音提示：/ˈnoːɡra/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[någon]], [[ingenting]]
-- 反义词: inga (没有任何，复数)
+- 词族: [[någon]], [[ingenting]], [[något]]
+- 同义词: [[ett-par|ett par]] (几个), [[en-del|en del]] (一些)
+- 反义词: [[inga]] (没有任何，复数)
 - 主题:
 
 ## 用法提示 (Usage Notes)

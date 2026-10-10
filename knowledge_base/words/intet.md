@@ -6,8 +6,8 @@ cefr: C1
 zh: 什么也没有（书面）
 en: nothing (formal/archaic)
 synonyms: [ingenting]
-antonyms: []
-family: []
+antonyms: [allt]
+family: [ingen, inget, tillintetgöra]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # intet — pronomen (书面语)
 
 📖 中文：什么也没有、无（正式/古旧） · English: nothing
+
+🇸🇪 Förklaring: inte någon sak alls; används mest i högtidliga, gammaldags eller fasta uttryck
+
+发音提示：/ˈɪntɛt/ — 重音在第一音节，两个元音都短
 
 ## 语法变形 (Forms)
 
@@ -37,9 +41,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: ingenting
-- 反义词: allt
+- 词族: [[ingen]] (没有人), [[inget]] (没有东西), [[tillintetgöra]] (毁灭)
+- 同义词: [[ingenting]]
+- 反义词: [[allt]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

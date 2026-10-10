@@ -7,8 +7,8 @@ cefr: "A1"
 zh: "姐姐、妹妹"
 en: "sister"
 synonyms: []
-antonyms: ["bror"]
-family: ["syskon"]
+antonyms: [bror]
+family: [syskon]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # syster — substantiv (en)
 
 📖 中文：姐姐、妹妹 · English: sister
+
+🇸🇪 Förklaring: flicka eller kvinna som har samma föräldrar som en annan person
+
 发音提示：/ˈsyːstər/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[syskon]]
+- 同义词: —
 - 反义词: [[bror]]
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]
 

@@ -8,7 +8,7 @@ zh: "瓦尔哈拉（北欧神话英灵殿）"
 en: "Valhalla"
 synonyms: []
 antonyms: []
-family: ["välde", "wal-", "nordisk-mytologi"]
+family: [välde, wal-, nordisk-mytologi]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # valhall — substantiv (ett, egennamn)
 
 📖 中文：瓦尔哈拉（北欧神话英灵殿） · English: Valhalla
+
+🇸🇪 Förklaring: i nordisk mytologi platsen där krigare som dött i strid fick leva hos Oden
+
 发音提示：/ˈvɑlˌhal/，两音节，重音在前
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —（专有名词，词族有限）
+- 词族: [[välde]], [[wal-]], [[nordisk-mytologi]], —（专有名词，词族有限）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-vikingatiden]]

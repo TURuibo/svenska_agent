@@ -5,9 +5,9 @@ ordklass: pronomen
 cefr: A2
 zh: 自己、本身
 en: oneself, self
-synonyms: []
+synonyms: [på-egen-hand]
 antonyms: []
-family: []
+family: [grammar-reflexivt-pronomen, självbild, självförtroende, själva]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # själv — pronomen
 
 📖 中文：自己、本身 · English: oneself, self
+
+🇸🇪 Förklaring: används för att betona en viss person eller sak, eller för att säga att någon gör något utan hjälp
+
 发音提示：/ɧɛlv/；`sj` 读 sj-ljud /ɧ/（舌后摩擦音，类似 sh 与 x 之间），`ä` 在 lv 前读短 /ɛ/。
 
 ## 语法变形 (Forms)
@@ -55,8 +58,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sig（反身代词，见 [[grammar-reflexivt-pronomen]]）, självbild（自我形象）, självförtroende（自信）, själva
-- 同义词: —
+- 词族: sig（反身代词，见 [[grammar-reflexivt-pronomen]]）, [[självbild]]（自我形象）, [[självförtroende]]（自信）, [[själva]]
+- 同义词: [[på-egen-hand|på egen hand]] (独自)
 - 反义词: —
 - 主题:
 

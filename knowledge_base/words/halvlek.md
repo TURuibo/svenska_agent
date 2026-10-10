@@ -9,7 +9,7 @@ zh: "（比赛的）半场"
 en: "half (of a match)"
 synonyms: []
 antonyms: []
-family: ["halv"]
+family: [halv]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # halvlek — substantiv (en)
 
 📖 中文：（比赛的）半场 · English: half (of a match)
+
+🇸🇪 Förklaring: en av de två lika långa delarna av en match, till exempel i fotboll
+
 发音提示：HALV-lek
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[halv]] (adj, stub, 一半的)
+- 词族: [[halv]] (adj, 一半的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

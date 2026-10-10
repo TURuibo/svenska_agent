@@ -6,9 +6,9 @@ genus: "en"
 cefr: A2
 zh: 大城市
 en: big city
-synonyms: []
-antonyms: []
-family: []
+synonyms: [metropol]
+antonyms: [småstad, landsbygd]
+family: [stor]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # storstad — substantiv (en)
 
 📖 中文：大城市 · English: big city
+
+🇸🇪 Förklaring: ort med mycket många invånare, t.ex. Stockholm, Göteborg eller Malmö
+
 发音提示：/ˈstuːʂtɑːd/
 
 ## 语法变形 (Forms)
@@ -38,8 +41,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stor]]
-- 同义词: 
-- 反义词: 
+- 同义词: [[metropol]] (大都市)
+- 反义词: [[småstad]] (小城市), [[landsbygd]] (乡村)
 - 主题: 
 
 ## 用法提示 (Usage Notes)

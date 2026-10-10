@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 社交的；社会的
 en: social
-synonyms: []
-antonyms: []
-family: []
+synonyms: [sällskaplig, samhällelig]
+antonyms: [osocial]
+family: [socialtjänst]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # social — adjektiv
 
 📖 中文：社交的；社会的 · English: social
+
+🇸🇪 Förklaring: 1) som gärna träffar och pratar med andra människor; 2) som har med samhället och människors levnadsvillkor att göra
+
 发音提示：/sɔsiˈɑːl/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[socialtjänst]]
-- 同义词: 
-- 反义词: 
+- 同义词: [[sällskaplig]] (好交际的), [[samhällelig]] (社会的)
+- 反义词: [[osocial]] (不合群的)
 - 主题: 
 
 ## 用法提示 (Usage Notes)

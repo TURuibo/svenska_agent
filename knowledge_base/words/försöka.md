@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "尝试；努力；试图"
 en: "to try; to attempt; to endeavour"
 synonyms: [prova, testa]
-antonyms: []
+antonyms: [ge-upp]
 family: [försök]
 topics: []
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # försöka — verb (grupp 2a)
 
 📖 中文：尝试；努力；试图 · English: to try; to attempt; to endeavour
+
+🇸🇪 Förklaring: göra något för att se om man klarar det, utan att veta om det lyckas
+
 发音提示：[fɶrˈsøːka]（重音在第二音节）
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 
 - 词族: [[försök]]
 - 同义词: [[prova]], [[testa]]
-- 反义词:
+- 反义词: [[ge-upp|ge upp]] (放弃)
 - 主题:
 
 ## 用法提示 (Usage Notes)

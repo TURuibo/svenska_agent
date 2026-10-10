@@ -6,10 +6,9 @@ genus: ett
 cefr: B1
 zh: "监狱；监禁"
 en: "prison; imprisonment"
-synonyms: []
-antonyms: []
-family:
-  - "[[döma]]"
+synonyms: [anstalt, kåk]
+antonyms: [frihet]
+family: [döma, fånge, fängslad]
 topics:
   - "[[topic-samhälle-och-politik]]"
 sentences:
@@ -25,6 +24,9 @@ interval: 0
 # fängelse — substantiv (ett)
 
 📖 中文：监狱；监禁 · English: prison; imprisonment
+
+🇸🇪 Förklaring: byggnad där människor som har begått brott hålls inlåsta som straff; det straffet
+
 发音提示：["fɛŋɛlsɛ]
 
 ## 语法变形 (Forms)
@@ -51,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[döma]]（判决）、fånge（囚犯）、fängslad（被囚禁的）
-- 同义词: —
-- 反义词: frihet（自由）
+- 词族: [[döma]]（判决）, [[fånge]]（囚犯）, [[fängslad]]（被囚禁的）
+- 同义词: [[anstalt]] (监狱), [[kåk]] (牢房（口语）)
+- 反义词: [[frihet]]（自由）
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

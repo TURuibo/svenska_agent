@@ -24,6 +24,9 @@ interval: 0
 # självbetjäning — substantiv
 
 📖 中文：自助服务 · English: self-service
+
+🇸🇪 Förklaring: system där kunden hämtar varor eller sköter köpet utan hjälp av personal
+
 发音提示：SJÄLV-bet-JÄN-ing（复合词，重音在各部分第一音节）
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: betjäna (服务), betjäning (服务员/服务)
+- 词族: [[betjäna]] (服务), [[betjäning]] (服务员/服务)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]], [[topic-mataffär]]

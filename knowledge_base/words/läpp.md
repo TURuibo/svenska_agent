@@ -8,7 +8,7 @@ zh: 嘴唇
 en: lip
 synonyms: []
 antonyms: []
-family: []
+family: [mun]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # läpp — substantiv (en)
 
 📖 中文：嘴唇 · English: lip
+
+🇸🇪 Förklaring: en av de två mjuka kanterna runt munnen
+
 发音提示：/lɛpː/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mun]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

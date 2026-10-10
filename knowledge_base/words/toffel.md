@@ -9,7 +9,7 @@ zh: "拖鞋"
 en: "slipper"
 synonyms: [innesko]
 antonyms: []
-family: []
+family: [toffelhjälte]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # toffel — substantiv
 
 📖 中文：拖鞋 · English: slipper
+
+🇸🇪 Förklaring: mjuk och bekväm sko som man har inomhus
+
 发音提示：/ˈtɔfːɛl/ — 短 o 带长 f；复数 tofflor 把 e 去掉
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[toffelhjälte]] (妻管严)
 - 同义词: [[innesko]]
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

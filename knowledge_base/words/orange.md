@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: "橙色的"
 en: "orange"
-synonyms: []
+synonyms: [orangefärgad]
 antonyms: []
-family: []
+family: [orangeröd]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: 2026-10-06
 # orange — adjektiv
 
 📖 中文：橙色的 · English: orange
+
+🇸🇪 Förklaring: som har en färg mellan rött och gult, som en apelsin
+
+发音提示：/ʊˈraŋɧ/ — 法语借词；重音在 ran，ge 读 ɧ
 
 ## 语法变形 (Forms)
 
@@ -34,6 +38,9 @@ created: 2026-10-06
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[orangeröd]] (橙红色的)
+- 同义词: [[orangefärgad]] (橙色的)
+- 反义词: —
 - 相关: [[gul]] · [[röd]] · [[grön]]
 - 来源: [[source-2026-10-06-loven-byter-farg]]
 

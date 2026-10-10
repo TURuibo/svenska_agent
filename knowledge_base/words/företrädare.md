@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B2"
 zh: "代表；代言人；前任"
 en: "representative; spokesperson; predecessor"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [representant, talesperson]
+antonyms: [efterträdare]
+family: [företräda, företräde]
 topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-den-högsta-företrädaren-för-ett-land-kallas-statschef]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-10"
 # företrädare — substantiv (en)
 
 📖 中文：代表；代言人；前任 · English: representative; spokesperson; predecessor
+
+🇸🇪 Förklaring: 1) person som talar och handlar för en grupp eller organisation; 2) person som hade samma uppdrag tidigare
+
 发音提示：/ˈfœːrɛˌtreːdarɛ/
 
 ## 语法变形 (Forms)
@@ -43,6 +46,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[företräda]] (代表), [[företräde]] (优先权)
+- 同义词: [[representant]] (代表), [[talesperson]] (发言人)
+- 反义词: [[efterträdare]] (继任者)
 - 相关: [[företräda]]
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 

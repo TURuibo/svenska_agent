@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "女士"
 en: "lady"
-synonyms: ["kvinna"]
-antonyms: ["herre"]
-family: []
+synonyms: [kvinna]
+antonyms: [herre]
+family: [damtoalett, damkläder, damfotboll]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # dam — substantiv (en)
 
 📖 中文：女士 · English: lady
+
+🇸🇪 Förklaring: artigt ord för en vuxen kvinna
+
 发音提示：/dɑːm/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[damtoalett]] (女厕所), [[damkläder]] (女装), [[damfotboll]] (女子足球)
 - 同义词: [[kvinna]]
 - 反义词: [[herre]]
 - 主题: [[topic-personer]]

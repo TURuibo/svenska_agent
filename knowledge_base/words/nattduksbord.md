@@ -25,6 +25,9 @@ interval: 0
 # nattduksbord — substantiv (ett)
 
 📖 中文：床头柜 · English: bedside table; nightstand
+
+🇸🇪 Förklaring: litet skåp bredvid sängen där man har till exempel en lampa och en bok
+
 发音提示：natt-DUKS-bord；三音节，重音在中间。
 
 ## 语法变形 (Forms)

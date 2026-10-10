@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: "律师"
 en: "lawyer, attorney"
-synonyms: []
+synonyms: [jurist]
 antonyms: []
-family: []
+family: [advokatbyrå, försvarsadvokat]
 topics: [topic-rattsvasen, topic-yrken]
 sentences: []
 known: false
@@ -19,6 +19,10 @@ source: source-2026-10-03-news-8-sidor
 # advokat — substantiv en
 
 📖 中文：律师 · English: lawyer, attorney
+
+🇸🇪 Förklaring: person med utbildning i juridik som hjälper människor i rättsliga frågor och i domstol
+
+发音提示：/advʊˈkɑːt/ — 重音在末音节 kat，a 读长音
 
 ## 语法变形 (Forms)
 
@@ -39,8 +43,9 @@ source: source-2026-10-03-news-8-sidor
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[advokatbyrå]] (律师事务所), [[försvarsadvokat]] (辩护律师)
+- 同义词: [[jurist]] (法律工作者)
+- 反义词: —
 - 主题: [[topic-rattsvasen]], [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

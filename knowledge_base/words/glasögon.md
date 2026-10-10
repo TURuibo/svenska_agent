@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "眼镜"
 en: "glasses; spectacles"
-synonyms: []
+synonyms: [brillor]
 antonyms: []
-family: [glas]
+family: [glas, solglasögon, läsglasögon]
 topics: [topic-vård]
 sentences: [sent-det-kan-till-exempel-vara-kostnader-för]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # glasögon — substantiv (plurale tantum，只用复数)
 
 📖 中文：眼镜 · English: glasses; spectacles
+
+🇸🇪 Förklaring: två linser i en ram som man har framför ögonen för att se bättre
+
 发音提示：GLAS-ö-gon，重音在第一音节 `glas`；`ö` 读 [øː]。
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[glas]]（玻璃；杯子）、`solglasögon`、`läsglasögon`
-- 同义词: —（口语 `brillor`）
+- 词族: [[glas]]（玻璃；杯子）, [[solglasögon]], [[läsglasögon]]
+- 同义词: —（口语 [[brillor]]）
 - 反义词: —
 - 主题: [[topic-vård]]
 

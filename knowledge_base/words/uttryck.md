@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "表达方式"
 en: "expression"
-synonyms: []
+synonyms: [fras, formulering]
 antonyms: []
-family: ["uttrycka"]
+family: [uttrycka]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # uttryck — substantiv (ett)
 
 📖 中文：表达方式 · English: expression
+
+🇸🇪 Förklaring: ord eller grupp av ord som man använder för att säga något på ett visst sätt
+
 发音提示：UT-tryck
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[uttrycka]]（表达，动词）
+- 同义词: [[fras]] (短语), [[formulering]] (措辞)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

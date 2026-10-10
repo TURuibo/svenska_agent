@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 体育协会
 en: sports club
-synonyms: []
+synonyms: [idrottsklubb, sportklubb]
 antonyms: []
-family: []
+family: [idrott]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # idrottsförening — substantiv (en-ord)
 
 📖 中文：体育协会/运动俱乐部 · English: sports club/association
+
+🇸🇪 Förklaring: klubb där människor tränar och tävlar i en eller flera sporter
+
+发音提示：/ˈiːdrɔtsfœˌreːnɪŋ/ — 重音在 id，i 读长音；ö 在 r 前读 œ
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: idrott + förening
-- 同义词:
-- 反义词:
+- 词族: [[idrott]] + förening
+- 同义词: [[idrottsklubb]] (体育俱乐部), [[sportklubb]] (运动俱乐部)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

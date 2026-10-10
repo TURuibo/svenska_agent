@@ -6,7 +6,7 @@ genus: ett
 cefr: B1
 zh: "糕点"
 en: "pastry, baked goods"
-synonyms: []
+synonyms: [bakelse, fikabröd]
 antonyms: []
 family: [kanelbulle]
 topics: [topic-mat-dryck, topic-kafe-fika]
@@ -19,6 +19,10 @@ source: source-2026-10-03-news-8-sidor
 # bakverk — substantiv ett
 
 📖 中文：糕点 · English: pastry, baked goods
+
+🇸🇪 Förklaring: sött bröd och annat som gräddas i ugnen, till exempel bullar, kakor och tårtor
+
+发音提示：/ˈbɑːkˌvɛrk/ — 重音在 bak，a 读长音
 
 ## 语法变形 (Forms)
 
@@ -42,7 +46,8 @@ source: source-2026-10-03-news-8-sidor
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kanelbulle]]
-- 同义词: —
+- 同义词: [[bakelse]] (糕点), [[fikabröd]] (茶点)
+- 反义词: —
 - 主题: [[topic-mat-dryck]], [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

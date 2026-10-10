@@ -6,7 +6,7 @@ genus: ett
 cefr: B1
 zh: 电子垃圾
 en: electronic waste (WEEE)
-synonyms: []
+synonyms: [elektronikavfall, elskrot]
 antonyms: []
 family: [avfall, farligt-avfall]
 topics: [topic-källsortering]
@@ -18,6 +18,10 @@ created: "2026-10-09"
 # elavfall — substantiv
 
 📖 中文：电子垃圾 · English: electronic waste (WEEE)
+
+🇸🇪 Förklaring: gamla saker som går på ström eller batteri och som man slänger, till exempel telefoner och lampor
+
+发音提示：/ˈeːlˌɑːvfal/ — 重音在 el，av 读次重音
 
 ## 语法变形 (Forms)
 
@@ -34,7 +38,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[avfall]] [[farligt-avfall]]
+- 词族: [[avfall]] [[farligt-avfall]], [[farligt-avfall]]
+- 同义词: [[elektronikavfall]] (电子垃圾), [[elskrot]] (电子废料)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 
 ## 用法提示 (Usage Notes)

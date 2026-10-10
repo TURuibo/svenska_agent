@@ -7,9 +7,9 @@ genus: en
 cefr: "A2"
 zh: "权力"
 en: "power"
-synonyms: []
-antonyms: []
-family: ["mäktig", "maktlös"]
+synonyms: [inflytande, kontroll]
+antonyms: [vanmakt]
+family: [mäktig, maktlös]
 topics: ["topic-samhälle-och-politik", "topic-krig-och-konflikt"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # makt — substantiv (en)
 
 📖 中文：权力 · English: power
+
+🇸🇪 Förklaring: förmåga eller rätt att bestämma över andra människor eller över saker
+
 发音提示：[makt]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mäktig]] (adj, 强大的/有权势的), [[maktlös]] (adj, 无权力的)
+- 同义词: [[inflytande]] (影响力), [[kontroll]] (控制)
+- 反义词: [[vanmakt]] (无能为力)
 - 主题: [[topic-samhälle-och-politik]], [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "推理；论证"
 en: "reasoning, line of argument"
-synonyms: []
+synonyms: [tankegång, argumentation]
 antonyms: []
 family: [resonera]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-09
 # resonemang — substantiv ett
 
 📖 中文：推理；论证 · English: reasoning, line of argument
+
+🇸🇪 Förklaring: en rad tankar där man steg för steg kommer fram till en slutsats
+
+发音提示：/rɛsʊnɛˈmaŋː/ — 法语借词，重音在末音节；ng 读 /ŋ/
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ created: 2026-10-09
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[resonera]]
-- 同义词: —
+- 同义词: [[tankegång]] (思路), [[argumentation]] (论证)
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

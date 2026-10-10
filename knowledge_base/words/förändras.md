@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: "改变（自身变化，不及物）"
 en: "to change (intransitively), to transform"
-synonyms: ["ändras", "förändra sig"]
-antonyms: []
-family: ["förändra", "förändring", "förändrad"]
+synonyms: [ändras, förändra-sig]
+antonyms: [bestå, förbli]
+family: [förändra, förändring, förändrad]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # förändras — verb (s-verb / deponensliknande)
 
 📖 中文：改变（自身变化，不及物） · English: to change (intransitively), to transform
+
+🇸🇪 Förklaring: bli annorlunda än förut, ofta gradvis över tid
+
 发音提示：/fɵˈrɛnˈdras/，三音节，重音在第二音节
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: förändra (verb, 使改变/改变某物 — 及物), förändring (en, 变化/改变), förändrad (adj, 改变了的)
-- 同义词: [[ändras]] (verb, 改变 — 更口语/简单), förändra sig (reflexiv form)
-- 反义词: —
+- 词族: [[förändra]] (verb, 使改变/改变某物 — 及物), [[förändring]] (en, 变化/改变), [[förändrad]] (adj, 改变了的)
+- 同义词: [[ändras]] (verb, 改变 — 更口语/简单), [[förändra-sig|förändra sig]] (reflexiv form)
+- 反义词: [[bestå]] (持续不变), [[förbli]] (保持)
 - 主题: [[topic-vikingatiden]]
 
 ## 用法提示 (Usage Notes)

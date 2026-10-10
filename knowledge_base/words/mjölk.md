@@ -8,7 +8,7 @@ zh: 牛奶
 en: milk
 synonyms: []
 antonyms: []
-family: []
+family: [mjölka, mjölkig]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # mjölk — substantiv (en)
 
 📖 中文：牛奶 · English: milk
+
+🇸🇪 Förklaring: vit dryck som kommer från kor och andra däggdjur
+
 发音提示：myölk (ö 发近似于英语 "ur" 音)
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mjölka (挤奶), mjölkig (含奶的)
+- 词族: [[mjölka]] (挤奶), [[mjölkig]] (含奶的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

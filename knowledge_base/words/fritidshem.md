@@ -6,7 +6,7 @@ genus: ett
 cefr: A2
 zh: 课后托管（学校的放学后看护）
 en: after-school care
-synonyms: []
+synonyms: [fritids]
 antonyms: []
 family: [fritid, hem]
 topics: [topic-skola-och-utbildning]
@@ -18,6 +18,9 @@ created: 2026-10-07
 # fritidshem — substantiv (ett-ord)
 
 📖 中文：课后托管 · English: after-school care
+
+🇸🇪 Förklaring: verksamhet där yngre skolbarn kan vara före och efter skolan medan föräldrarna arbetar
+
 发音提示：[ˈfriːtɪdsˌhɛm]
 
 ## 语法变形 (Forms)
@@ -41,7 +44,9 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: fritid + hem
+- 词族: [[fritid]] + hem, [[hem]] (家)
+- 同义词: [[fritids]] (课后托管（口语）)
+- 反义词: —
 - 相关: [[studiedag]], [[elev]]
 - 主题: [[topic-skola-och-utbildning]]
 

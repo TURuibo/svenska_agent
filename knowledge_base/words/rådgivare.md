@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "顾问"
 en: "adviser; counsellor"
-synonyms: []
+synonyms: [konsult]
 antonyms: []
-family: [skuldrådgivare, råd]
+family: [skuldrådgivare, råd, ge-råd, rådgivning]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-om-du-har-skulder-eller-svårt-att-planera, sent-du-kan-också-hitta-en-budget-och]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # rådgivare — substantiv (en)
 
 📖 中文：顾问 · English: adviser; counsellor
+
+🇸🇪 Förklaring: person som hjälper andra med kunskap och förslag inom ett visst område
+
 发音提示：RÅD-giv-a-re，重音在第一音节 `råd`；`å` 读 [oː]。
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[skuldrådgivare]]（债务顾问）、[[råd]]（建议）、`ge råd`（给建议）、`rådgivning`（咨询）
-- 同义词: —（近义 `konsult`、`rådgivare` 更偏"给意见的人"）
+- 词族: [[skuldrådgivare]]（债务顾问）, [[råd]]（建议）, [[ge-råd|ge råd]]（给建议）, [[rådgivning]]（咨询）
+- 同义词: —（近义 [[konsult]]、[[rådgivare]] 更偏"给意见的人"）
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]
 

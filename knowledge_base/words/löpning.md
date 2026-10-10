@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: "跑步（运动）"
 en: "running"
-synonyms: []
+synonyms: [jogging]
 antonyms: []
-family: []
+family: [löpa, löpare, löparskor]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # löpning — substantiv (en)
 
 📖 中文：跑步（作为运动 / 训练项目） · English: running
+
+🇸🇪 Förklaring: det att springa, ofta som träning eller idrott
+
 发音提示：/ˈløːpnɪŋ/（重音在第一音节，ö 长音）
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: löpa（跑，较书面的动词）, löpare（跑者）, löparskor
-- 同义词: jogging（慢跑）
-- 反义词:
+- 词族: [[löpa]]（跑，较书面的动词）, [[löpare]]（跑者）, [[löparskor]]
+- 同义词: [[jogging]]（慢跑）
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

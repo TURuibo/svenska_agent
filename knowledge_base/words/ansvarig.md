@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "负责的"
 en: "responsible"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ansvarsfull, ansvarskännande]
+antonyms: [oansvarsig]
+family: [ansvar, ansvara]
 topics: ["topic-karaktarsord", "topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # ansvarig — adjektiv
 
 📖 中文：负责的 · English: responsible
+
+🇸🇪 Förklaring: som ska se till att något blir gjort och som får stå för följderna
+
 发音提示：an-SVA-rig
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ansvar]], [[ansvara]]
-- 同义词: []
+- 同义词: [[ansvarsfull]] (有责任心的), [[ansvarskännande]] (有责任感的)
 - 反义词: [[oansvarsig]]
 - 主题: [[topic-karaktarsord]], [[topic-arbete]]
 

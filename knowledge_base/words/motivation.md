@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "动力；动机"
 en: "motivation"
-synonyms: []
+synonyms: [drivkraft, lust]
 antonyms: []
 family: [motivera]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-09
 # motivation — substantiv en
 
 📖 中文：动力；动机 · English: motivation
+
+🇸🇪 Förklaring: lust och vilja att göra något och kämpa för att nå ett mål
+
+发音提示：/mʊtɪvaˈɧuːn/ — -tion 读 ɧuːn，重音在最后
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ created: 2026-10-09
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[motivera]]
-- 同义词: —
+- 同义词: [[drivkraft]] (动力), [[lust]] (兴致)
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

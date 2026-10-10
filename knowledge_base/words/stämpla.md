@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "盖章；打印；盖戳"
 en: "to stamp"
-synonyms: []
+synonyms: [märka]
 antonyms: []
-family: ["stämpelkort", "stämpel"]
+family: [stämpelkort, stämpel]
 topics: ["topic-kafe-fika"]
 sentences:
   - "sent-sjalvklart-varsagod-jag-stamplar"
@@ -24,6 +24,9 @@ interval: 0
 # stämpla — verb (grupp 1)
 
 📖 中文：盖章；打印；盖戳 · English: to stamp
+
+🇸🇪 Förklaring: trycka ett märke med datum, namn eller text på t.ex. ett papper eller ett kort; (in, ut) registrera när man börjar och slutar arbeta
+
 发音提示：/ˈstɛmpla/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[stämpelkort]] (集点卡), stämpel（印章）
+- 词族: [[stämpelkort]] (集点卡), [[stämpel]]（印章）
+- 同义词: [[märka]] (标记)
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

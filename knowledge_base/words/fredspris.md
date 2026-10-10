@@ -8,7 +8,7 @@ zh: "和平奖"
 en: "peace prize"
 synonyms: []
 antonyms: []
-family: ["fred"]
+family: [fred]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-10"
 # fredspris — substantiv
 
 📖 中文：和平奖 · English: peace prize
+
+🇸🇪 Förklaring: pris som delas ut till en person eller organisation som har arbetat för att stoppa krig
+
+发音提示：/ˈfreːtsˌpriːs/ — 重音在 fred；ds 读近似 ts
 
 ## 语法变形 (Forms)
 
@@ -35,6 +39,8 @@ created: "2026-10-10"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fred]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

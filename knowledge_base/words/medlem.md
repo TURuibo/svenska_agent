@@ -7,9 +7,9 @@ genus: en
 cefr: "A2"
 zh: "成员"
 en: "member"
-synonyms: []
+synonyms: [ledamot]
 antonyms: []
-family: ["medlemskap"]
+family: [medlemskap]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # medlem — substantiv (en)
 
 📖 中文：成员 · English: member
+
+🇸🇪 Förklaring: person som tillhör en förening, ett parti eller en annan grupp
+
 发音提示：MED-lem
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[medlemskap]] (n, stub, 会员资格)
+- 词族: [[medlemskap]] (n, 会员资格)
+- 同义词: [[ledamot]] (成员；委员)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

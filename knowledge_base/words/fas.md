@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "阶段"
 en: "phase"
-synonyms: [period]
+synonyms: [period, stadium]
 antonyms: []
-family: []
+family: [slutfas, fasa-ut]
 topics: [topic-förskola-vardag, topic-barnets-utveckling]
 sentences: [sent-det-är-bara-en-fas]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # fas — substantiv (en)
 
 📖 中文：阶段 · English: phase
+
+🇸🇪 Förklaring: en del av en process eller en utveckling som kommer före eller efter en annan del
+
 发音提示：/fɑːs/ — 单音节，a 读长音。
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: [[period]]（时期）、*stadium*（阶段，较书面）
+- 词族: [[slutfas]] (最后阶段), [[fasa-ut|fasa ut]] (逐步淘汰)
+- 同义词: [[period]]（时期）, [[stadium]]（阶段，较书面）
 - 反义词: —
 - 主题: [[topic-barnets-utveckling]]、[[topic-förskola-vardag]]
 

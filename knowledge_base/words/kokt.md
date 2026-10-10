@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 煮熟的
 en: boiled
-synonyms: []
-antonyms: ["rå"]
-family: []
+synonyms: [tillagad]
+antonyms: [rå]
+family: [koka]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-09"
 # kokt — adjektiv
 
 📖 中文：煮熟的 · English: boiled
+
+🇸🇪 Förklaring: som har tillagats i varmt vatten som bubblar
+
 发音提示：/kuːkt/（koka 的过去分词）
 
 ## 语法变形 (Forms)
@@ -42,7 +45,8 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: koka（动词，煮）
+- 词族: [[koka]]（动词，煮）
+- 同义词: [[tillagad]] (做熟的)
 - 反义词: [[rå]]
 - 主题: [[topic-mat-dryck]]
 

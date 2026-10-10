@@ -8,10 +8,7 @@ zh: "被压制；被噤声"
 en: "to be silenced; to be suppressed"
 synonyms: []
 antonyms: []
-family:
-  - tyst
-  - tystna
-  - tystnad
+family: [tyst, tystna, tystnad]
 topics:
   - topic-litteratur-och-kultur
   - topic-samhälle-och-politik
@@ -28,6 +25,9 @@ interval: 0
 # tystas — verb (s-passiv, v.1)
 
 📖 中文：被压制；被噤声 · English: to be silenced; to be suppressed
+
+🇸🇪 Förklaring: bli tvingad att sluta tala eller att uttrycka sina åsikter
+
 发音提示：/TYST-as/
 
 ## 语法变形 (Forms)
@@ -54,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tyst]]（安静的）· tystnad（沉默）· tystna（变安静）
+- 词族: [[tyst]]（安静的）· tystnad（沉默）· tystna（变安静）, [[tystna]], [[tystnad]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-litteratur-och-kultur]] · [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

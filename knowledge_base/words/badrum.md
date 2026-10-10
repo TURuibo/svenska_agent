@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A1"
 zh: "浴室"
 en: "bathroom"
-synonyms: []
+synonyms: [våtrum]
 antonyms: []
 family: [rum]
 topics: [topic-hemmet]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # badrum — substantiv
 
 📖 中文：浴室 · English: bathroom
+
+🇸🇪 Förklaring: rum i en bostad med dusch eller badkar, handfat och ofta toalett
+
 发音提示：[ˈbɑːdˌrʉm] bad- 长 a；-rum 短 u，复数不变（ett 词、辅音结尾）。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rum]]
-- 同义词: —
+- 同义词: [[våtrum]] (浴室；湿区)
 - 反义词: —
 - 主题: [[topic-hemmet]]
 

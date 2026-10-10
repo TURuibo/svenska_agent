@@ -6,8 +6,8 @@ verbgrupp: "1"
 cefr: B1
 zh: 使担心；（oroa sig）担心
 en: to worry (oroa sig = to be worried)
-synonyms: []
-antonyms: []
+synonyms: [bekymra, ängslas]
+antonyms: [lugna]
 family: [oro, orolig]
 topics: []
 sentences: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # oroa — verb (grupp 1)
 
 📖 中文：使担心；（oroa sig）担心 · English: to worry (oroa sig = to be worried)
+
+🇸🇪 Förklaring: göra någon rädd för att något dåligt ska hända; (reflexivt, med sig) tänka mycket på att något dåligt kan hända
+
+发音提示：/ˈuːrʊa/ — o 读 uː；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: oro (en, 担忧), orolig (adj.)
-- 同义词:
-- 反义词:
+- 词族: [[oro]] (en, 担忧), [[orolig]] (adj.)
+- 同义词: [[bekymra]] (使担忧), [[ängslas]] (担心)
+- 反义词: [[lugna]] (使平静)
 - 主题:
 
 ## 用法提示 (Usage Notes)

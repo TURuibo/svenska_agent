@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "梳（头）；用虱梳检查"
 en: "to comb"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [borsta]
+antonyms: [rufsa]
+family: [kam, finkamma]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: [sent-kamma-håret-noga-i-helgen]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # kamma — verb (grupp 1)
 
 📖 中文：梳（头）；用虱梳检查 · English: to comb
+
+🇸🇪 Förklaring: ordna håret med ett redskap som har många tunna tänder
+
 发音提示：/ˈkamːa/；短 a，双写 mm。
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[kam]] (梳子), [[finkamma]] (细梳；仔细搜查)
+- 同义词: [[borsta]] (刷（头发）)
+- 反义词: [[rufsa]] (弄乱（头发）)
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -6,8 +6,8 @@ verbgrupp: 1
 cefr: B1
 zh: "合作"
 en: "cooperate, work together"
-synonyms: []
-antonyms: []
+synonyms: [kollaborera, hjälpas-åt]
+antonyms: [konkurrera, motarbeta]
 family: [samarbete]
 topics: [topic-samhälle-och-politik, topic-arbete]
 sentences: []
@@ -19,6 +19,10 @@ source: source-2026-10-03-news-8-sidor
 # samarbeta — verb
 
 📖 中文：合作 · English: cooperate, work together
+
+🇸🇪 Förklaring: göra något tillsammans med andra för att nå ett gemensamt mål
+
+发音提示：/ˈsamːarˌbeːta/ — 复合词，重音在 sam；be 次重音
 
 ## 语法变形 (Forms)
 
@@ -45,7 +49,8 @@ source: source-2026-10-03-news-8-sidor
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[samarbete]]
-- 同义词: —
+- 同义词: [[kollaborera]] (协作), [[hjälpas-åt|hjälpas åt]] (互相帮忙)
+- 反义词: [[konkurrera]] (竞争), [[motarbeta]] (阻挠)
 - 主题: [[topic-samhälle-och-politik]], [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

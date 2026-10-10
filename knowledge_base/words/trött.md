@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: A1
 zh: 累的、疲惫的
 en: tired
-synonyms: []
+synonyms: [utmattad, sömnig]
 antonyms: [pigg]
 family: [trötthet]
 topics: [topic-kropp, topic-hälsa]
@@ -21,6 +21,9 @@ interval: 0
 # trött — adjektiv
 
 📖 中文：累的、疲惫的 · English: tired
+
+🇸🇪 Förklaring: som behöver vila eller sova och inte har mycket energi
+
 发音提示：/trœtː/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[trötthet]]
-- 同义词:
+- 同义词: [[utmattad]] (筋疲力尽的), [[sömnig]] (困倦的)
 - 反义词: [[pigg]]
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 

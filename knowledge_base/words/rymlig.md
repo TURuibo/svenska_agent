@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "宽敞的"
 en: "spacious"
-synonyms: []
-antonyms: ["trång"]
-family: []
+synonyms: [stor, luftig]
+antonyms: [trång]
+family: [rymma, rymd]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # rymlig — adjektiv
 
 📖 中文：宽敞的 · English: spacious
+
+🇸🇪 Förklaring: som har mycket plats inuti
+
 发音提示：/ˈryːmˌlɪɡ/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[rymma]] (容纳), [[rymd]] (太空)
+- 同义词: [[stor]] (大的), [[luftig]] (宽敞通透的)
 - 反义词: [[trång]]
 - 主题: [[topic-hemmet]]
 

@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "理论的"
 en: "theoretical"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [abstrakt]
+antonyms: [praktisk]
+family: [teori]
 topics: ["topic-karaktarsord", "topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # teoretisk — adjektiv
 
 📖 中文：理论的 · English: theoretical
+
+🇸🇪 Förklaring: som handlar om idéer och kunskap mer än om praktiskt arbete
+
 发音提示：te-o-REH-tisk
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[teori]]
-- 同义词: []
+- 同义词: [[abstrakt]] (抽象的)
 - 反义词: [[praktisk]]
 - 主题: [[topic-karaktarsord]], [[topic-skola-och-utbildning]]
 

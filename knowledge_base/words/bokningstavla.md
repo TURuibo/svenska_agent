@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "预约板"
 en: "booking board"
-synonyms: []
+synonyms: [bokningslista]
 antonyms: []
-family: [boka, tavla]
+family: [boka, tavla, tvättstuga]
 topics: [topic-grannar-boende]
 sentences: [sent-tvättstugan-har-en-ny-bokningstavla, sent-om-bokningstavlan-inte-fungerar-kontakta]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-07"
 # bokningstavla — substantiv (en)
 
 📖 中文：预约板 · English: booking board
+
+🇸🇪 Förklaring: lista eller skylt i tvättstugan där man reserverar en tid för att tvätta
+
 发音提示：bok-nings-tav-la，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -40,6 +43,8 @@ created: "2026-10-07"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[boka]], [[tavla]]（boknings- + tavla）, [[tvättstuga]]
+- 同义词: [[bokningslista]] (预约表)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

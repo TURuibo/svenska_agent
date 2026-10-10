@@ -8,7 +8,7 @@ zh: "痴呆症；失智症"
 en: "dementia"
 synonyms: []
 antonyms: []
-family: ["demensvård", "dement"]
+family: [dement, demensvård]
 topics: ["topic-vård", "topic-hälsa"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # demens — substantiv (en)
 
 📖 中文：痴呆症；失智症 · English: dementia
+
+🇸🇪 Förklaring: sjukdom i hjärnan, ofta hos äldre, som gör att man glömmer och får svårt att tänka
+
 发音提示：/de-mens/，重音在第二音节
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dement]], [[demensvård]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-vård]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

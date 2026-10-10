@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "肥的；厚的"
 en: "fat/thick"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [fet, kraftig]
+antonyms: [tunn]
+family: [tjocklek]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tjock — adjektiv
 
 📖 中文：肥的；厚的 · English: fat/thick
+
+🇸🇪 Förklaring: som har stort avstånd mellan två sidor; om en person: som väger mycket och har mycket fett på kroppen
+
 发音提示：/tɕɔk/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tjocklek]] (厚度)
-- 同义词: —
+- 同义词: [[fet]] (胖的), [[kraftig]] (粗壮的)
 - 反义词: [[tunn]] (薄的；细的)
 - 主题: [[topic-djur]]
 

@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "注意到；发现"
 en: "to notice / realise"
-synonyms: []
-antonyms: []
+synonyms: [lägga-märke-till, notera]
+antonyms: [missa]
 family: [märke, anmärka, märkbar]
 topics:
   - topic-vardagsrutin
@@ -25,6 +25,9 @@ interval: 0
 # märka — verb (grupp 2)
 
 📖 中文：注意到；发现 · English: to notice / realise
+
+🇸🇪 Förklaring: se, höra eller känna att något finns eller händer
+
 发音提示：MÄR-ka；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[märke]] (ett, 标志/品牌/注意), [[anmärka]] (v. 评论/标注), [[märkbar]] (adj. 明显的)
-- 同义词: [[lägga märke till]] (注意到，强调主动), [[notera]] (v. 注意到，较正式)
+- 同义词: [[lägga-märke-till|lägga märke till]] (注意到，强调主动), [[notera]] (v. 注意到，较正式)
 - 反义词: [[missa]] (v. 错过/没注意到)
 - 主题: [[topic-vardagsrutin]]
 

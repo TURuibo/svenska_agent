@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: B1
 zh: 期待
 en: to expect
-synonyms: []
+synonyms: [räkna-med]
 antonyms: []
 family: [vänta]
 topics: [topic-idrott]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # förvänta — verb (grupp 1)
 
 📖 中文：期待 · English: to expect
+
+🇸🇪 Förklaring: räkna med att något ska ske; i passiv: det är meningen att någon ska göra något
+
 发音提示：/fœrˈvɛnta/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vänta]]
-- 同义词:
-- 反义词:
+- 同义词: [[räkna-med|räkna med]] (预计)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

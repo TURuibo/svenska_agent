@@ -8,7 +8,7 @@ zh: "球"
 en: "ball"
 synonyms: []
 antonyms: []
-family: []
+family: [fotboll, handboll, bollplan]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # boll — substantiv
 
 📖 中文：球 · English: ball
+
+🇸🇪 Förklaring: rund sak som man kastar, sparkar eller slår i lekar och sport
+
 发音提示：[bɔlː]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ Deklination 2 (–ar plural).
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[fotboll]] (足球), [[handboll]] (手球), [[bollplan]] (球场)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-fotboll]]

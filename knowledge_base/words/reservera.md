@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "预订；预留"
 en: "to reserve; to book"
-synonyms: ["boka"]
-antonyms: []
-family: []
+synonyms: [boka]
+antonyms: [avboka]
+family: [reservation, reserv, reserverad]
 topics: ["topic-mat-dryck", "topic-betalning"]
 sentences:
   - sent-ni-har-reserverat-för-sex-gäster
@@ -24,6 +24,9 @@ interval: 0
 # reservera — verb
 
 📖 中文：预订；预留 · English: to reserve; to book
+
+🇸🇪 Förklaring: se till att något hålls ledigt för en viss person eller ett visst syfte
+
 发音提示：/rɛsɛˈveːra/
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[reservation]] (预订；保留), [[reserv]] (储备；替补), [[reserverad]] (预留的)
 - 同义词: [[boka]]
-- 反义词:
+- 反义词: [[avboka]] (取消预订)
 - 主题: [[topic-mat-dryck]], [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

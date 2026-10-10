@@ -9,7 +9,7 @@ zh: "羊排"
 en: "lamb chop"
 synonyms: []
 antonyms: []
-family: []
+family: [lamm, kotlett, lammkött, fläskkotlett]
 topics: ["topic-mat-dryck"]
 sentences:
   - sent-kvällens-rätt-är-lammkotlett-med-örtsås
@@ -25,6 +25,9 @@ interval: 0
 # lammkotlett — substantiv (en)
 
 📖 中文：羊排 · English: lamb chop
+
+🇸🇪 Förklaring: bit kött med ben från ett ungt får, ofta grillad eller stekt
+
 发音提示：/ˈlamːkʊˌtlɛt/
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[lamm]] (羔羊), [[kotlett]] (肉排), [[lammkött]] (羔羊肉), [[fläskkotlett]] (猪排)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

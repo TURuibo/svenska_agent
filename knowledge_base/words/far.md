@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "父亲（书面/正式）"
 en: "father (written/formal)"
-synonyms: ["pappa"]
+synonyms: [pappa]
 antonyms: []
-family: ["förälder", "mor"]
+family: [förälder, mor]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # far — substantiv
 
 📖 中文：父亲（书面/正式）· English: father (written/formal)
+
+🇸🇪 Förklaring: man som har ett eller flera barn, i förhållande till sina barn
+
 发音提示：/fɑːr/，单音节，a 发长音
 
 ## 语法变形 (Forms)

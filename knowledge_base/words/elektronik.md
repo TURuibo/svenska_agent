@@ -9,7 +9,7 @@ zh: "电子产品；电子设备"
 en: "electronics"
 synonyms: []
 antonyms: []
-family: ["elektronisk"]
+family: [elektronisk]
 topics: ["topic-hemmet", "topic-källsortering"]
 sentences:
   - sent-lagg-inte-dit-farligt-avfall
@@ -24,6 +24,9 @@ interval: 0
 # elektronik — substantiv (en)
 
 📖 中文：电子产品；电子设备 · English: electronics
+
+🇸🇪 Förklaring: apparater som fungerar med hjälp av små elektriska kretsar, till exempel datorer, mobiler och tv-apparater
+
 发音提示：[elekˈtruːnɪk]，重音在第三音节
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *elektronisk* (电子的)
+- 词族: [[elektronisk]] (电子的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hemmet]] · [[topic-källsortering]]
 
 ## 用法提示 (Usage Notes)

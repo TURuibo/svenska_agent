@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "害羞的"
 en: "shy"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [tillbakadragen, försagd]
+antonyms: [utåtriktad, självsäker]
+family: [blyghet, blygsam]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # blyg — adjektiv
 
 📖 中文：害羞的 · English: shy
+
+🇸🇪 Förklaring: som känner sig osäker och nervös när man träffar nya människor
+
 发音提示：/blyːɡ/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[blyghet]] (害羞), [[blygsam]] (谦虚的)
+- 同义词: [[tillbakadragen]] (内向的), [[försagd]] (胆怯的)
+- 反义词: [[utåtriktad]] (外向的), [[självsäker]] (自信的)
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

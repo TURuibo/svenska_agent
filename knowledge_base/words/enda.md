@@ -17,6 +17,9 @@ created: "2026-10-01"
 # enda — adjektiv
 
 📖 中文：唯一的 · English: only, sole
+
+🇸🇪 Förklaring: som inte har någon annan av samma slag; bara en
+
 发音提示：/ˈɛnda/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[en]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "一捧、一抱"
 en: "armful, bunch"
-synonyms: []
+synonyms: [famn, bunt]
 antonyms: []
-family: []
+family: [fånga, vedfång]
 topics: [topic-grannar-boende]
 sentences: [sent-ett-stort-fång-rosor-till]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fång — substantiv
 
 📖 中文：一捧、一抱 · English: armful, bunch
+
+🇸🇪 Förklaring: så mycket som man kan bära i famnen, till exempel av blommor eller ved
+
 发音提示： "fong"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[fånga]] (抓住), [[vedfång]] (一抱柴火)
+- 同义词: [[famn]] (一抱), [[bunt]] (一捆)
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

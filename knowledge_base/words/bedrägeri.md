@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "诈骗"
 en: "fraud"
-synonyms: []
+synonyms: [svindel, bluff]
 antonyms: []
-family: ["bedragare", "bedra"]
+family: [bedragare, bedra]
 topics: ["topic-bedrageri-bank-sakerhet"]
 sentences: ["sent-han-hade-hört-talats-om"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # bedrägeri — substantiv (ett)
 
 📖 中文：诈骗 · English: fraud
+
+🇸🇪 Förklaring: brott där man lurar någon för att få pengar eller andra fördelar
+
 发音提示：be-drä-ge-RI
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bedragare]]（骗子）
+- 词族: [[bedragare]]（骗子）, [[bedra]]
+- 同义词: [[svindel]] (诈骗), [[bluff]] (骗局)
+- 反义词: —
 - 主题: [[topic-bedrageri-bank-sakerhet]]
 
 ## 用法提示 (Usage Notes)

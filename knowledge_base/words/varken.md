@@ -5,7 +5,7 @@ ordklass: konjunktion
 cefr: B1
 zh: 既不……也不……
 en: neither (… nor)
-synonyms: []
+synonyms: [vare-sig]
 antonyms: [både]
 family: []
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # varken — konjunktion
 
 📖 中文：既不……也不…… · English: neither (… nor)
+
+🇸🇪 Förklaring: används ihop med ”eller” för att säga att inget av två alternativ gäller
+
 发音提示：/ˈvarkɛn/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: både
+- 词族: —
+- 同义词: [[vare-sig|vare sig]] (（否定中）既不)
+- 反义词: [[både]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

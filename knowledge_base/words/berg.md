@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 山
 en: mountain
-synonyms: []
-antonyms: []
-family: []
+synonyms: [fjäll]
+antonyms: [slätt]
+family: [klippa, dal]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # berg — substantiv (ett-ord)
 
 📖 中文：山 · English: mountain
+
+🇸🇪 Förklaring: mycket hög och stor höjd av sten och jord
+
 发音提示：/bærj/（g 发音较软）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[klippa]]（岩壁）、[[dal]]（山谷）
+- 词族: [[klippa]]（岩壁）, [[dal]]（山谷）
+- 同义词: [[fjäll]] (高山)
+- 反义词: [[slätt]] (平原)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

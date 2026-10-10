@@ -6,9 +6,9 @@ genus: ett
 cefr: A1
 zh: 房子；楼房；建筑
 en: house, building
-synonyms: []
+synonyms: [byggnad]
 antonyms: []
-family: ["husägare", "hyreshus", "radhus"]
+family: [husägare, hyreshus, radhus]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hus — substantiv (ett-ord)
 
 📖 中文：房子；楼房；建筑 · English: house, building
+
+🇸🇪 Förklaring: byggnad som människor bor eller arbetar i
+
 发音提示：/hɵːs/
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: husägare (房主), hyreshus (公寓楼), radhus (联排别墅)
+- 词族: [[husägare]] (房主), [[hyreshus]] (公寓楼), [[radhus]] (联排别墅)
 - 同义词: [[byggnad]]
 - 反义词: —
 - 主题: [[topic-stadsmiljo]]

@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 考试/测验/试验
 en: test/exam/trial
-synonyms: []
+synonyms: [test, förhör, tenta]
 antonyms: []
-family: [prova, provtagning]
+family: [prova, provins, provtagning]
 topics: [topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # prov — substantiv (ett-ord)
 
 📖 中文：考试/测验/试验 · English: test/exam/trial
+
+🇸🇪 Förklaring: 1) uppgifter som man får göra för att visa vad man kan; 2) det att man testar hur något fungerar
+
 发音提示：[pruːv] — 长 u 音
 
 ## 语法变形 (Forms)
@@ -53,7 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[prova]], [[provins]]
+- 词族: [[prova]], [[provins]], [[provtagning]]
+- 同义词: [[test]] (测试), [[förhör]] (小测验), [[tenta]] (考试（大学）)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

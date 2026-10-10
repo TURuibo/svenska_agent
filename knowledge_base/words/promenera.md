@@ -26,6 +26,9 @@ interval: 0
 # promenera — verb (grupp 1)
 
 📖 中文：散步；步行 · English: to walk / stroll
+
+🇸🇪 Förklaring: gå i lugnt tempo för att röra på sig eller njuta
+
 发音提示：pro-me-NE-ra；四音节，重音在第三音节。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[promenad]] (en, 散步；漫步)
+- 词族: [[promenad]] (en, 散步；漫步), [[promenaden]]
 - 同义词: [[gå]] (走；步行，更通用), [[vandra]] (徒步；漫游)
 - 反义词: —
 - 主题: [[topic-stadsmiljo]]

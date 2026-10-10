@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "问题 (名词) / 问 (动词)"
 en: "question (noun) / to ask (verb)"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [undra, spörsmål]
+antonyms: [svar, svara]
+family: [förfrågan, frågetecken, frågeställning]
 topics: []
 sentences: ["sent-svara-på-frågorna"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fråga — substantiv (även verb)
 
 📖 中文：问题 (名词) / 问 (动词) · English: question (noun) / to ask (verb)
+
+🇸🇪 Förklaring: 1) det man säger eller skriver när man vill ha ett svar; 2) vända sig till någon för att få veta något eller få hjälp
+
 发音提示："FRÅ-ga"
 
 ## 语法变形 (Forms)
@@ -58,9 +61,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[förfrågan]] (询问), [[frågetecken]] (问号), [[frågeställning]] (议题)
+- 同义词: [[undra]] (想知道), [[spörsmål]] (问题（书面）)
+- 反义词: [[svar]] (回答（名）), [[svara]] (回答（动）)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

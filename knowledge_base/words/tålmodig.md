@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "耐心的"
 en: "patient"
-synonyms: ["lugn", "uthållig"]
-antonyms: ["otålig", "irriterad"]
-family: ["tålamod", "tålmodighet"]
+synonyms: [lugn, uthållig]
+antonyms: [otålig, irriterad]
+family: [tålamod, tålmodighet]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # tålmodig — adjektiv
 
 📖 中文：耐心的 · English: patient
+
+🇸🇪 Förklaring: som kan vänta lugnt och inte blir irriterad när något tar lång tid
+
 发音提示：/tål-mo-dig/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 - 词族: [[tålamod]], [[tålmodighet]]
 - 同义词: [[lugn]], [[uthållig]]
-- 反义词: [[otålig]]
+- 反义词: [[otålig]], [[irriterad]] (恼火的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

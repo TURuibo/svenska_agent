@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "安慰"
 en: "to comfort"
-synonyms: []
+synonyms: [lugna]
 antonyms: []
-family: ["tröst", "tröstande"]
+family: [tröst, tröstande]
 topics: ["topic-familj-och-barn"]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # trösta — verb
 
 📖 中文：安慰 · English: to comfort
+
+🇸🇪 Förklaring: försöka få någon som är ledsen att må bättre
+
 发音提示：TRÖS-ta
 
 ## 语法变形 (Forms)
@@ -38,7 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tröst]]（安慰，名词）
+- 词族: [[tröst]]（安慰，名词）, [[tröstande]]
+- 同义词: [[lugna]] (安抚)
+- 反义词: —
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

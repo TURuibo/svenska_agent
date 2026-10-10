@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "作证"
 en: "to testify"
-synonyms: []
+synonyms: [intyga]
 antonyms: []
-family: ["vittnesed"]
+family: [vittnesed]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # vittna — verb
 
 📖 中文：作证 · English: to testify
-发音提示：
+
+🇸🇪 Förklaring: berätta i domstol vad man har sett eller vet om ett brott eller en händelse
+
+发音提示：/ˈvɪtːna/ — i 读短音，t 拉长
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vittnesed]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: [[intyga]] (证明)
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

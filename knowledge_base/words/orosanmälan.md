@@ -8,7 +8,7 @@ zh: "关切举报"
 en: "report of concern"
 synonyms: []
 antonyms: []
-family: []
+family: [oro, anmälan, anmäla]
 topics: ["topic-rattsvasen"]
 sentences: ["sent-ett-annat-alternativ-hade-varit-att-kontakta"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # orosanmälan — substantiv
 
 📖 中文：关切举报 · English: report of concern
-发音提示：
+
+🇸🇪 Förklaring: meddelande till socialtjänsten om att man tror att ett barn inte har det bra
+
+发音提示：/ˈuːrʊsanˌmɛːlan/ — o 读 uː；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[oro]] (担忧), [[anmälan]] (举报), [[anmäla]] (报告)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

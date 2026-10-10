@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 诊所；卫生服务中心
 en: health centre, primary care centre
-synonyms: []
+synonyms: [hälsocentral]
 antonyms: []
-family: []
+family: [vård, central, sjukvård]
 topics: [topic-hälsa]
 sentences:
   - sent-jag-har-bokat-en-tid-på-vårdcentralen
@@ -23,6 +23,9 @@ interval: 0
 # vårdcentral — substantiv (en)
 
 📖 中文：诊所；卫生服务中心 · English: health centre, primary care centre
+
+🇸🇪 Förklaring: ställe dit man går till läkare eller sjuksköterska när man blir sjuk men det inte är akut
+
 发音提示：VÅRD-sen-tral（复合词，重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vård]] (医疗), [[central]] (中心), [[sjukvård]] (医疗服务)
+- 同义词: [[hälsocentral]] (卫生中心)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

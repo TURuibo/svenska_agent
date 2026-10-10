@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "规范"
 en: "norm"
-synonyms: ["regel"]
-antonyms: []
-family: ["normal"]
+synonyms: [regel]
+antonyms: [avvikelse]
+family: [normal]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # norm — substantiv
 
 📖 中文：规范 · English: norm
+
+🇸🇪 Förklaring: oskriven regel för hur man bör vara eller bete sig i en grupp eller ett samhälle
+
+发音提示：/nɔrm/ — o 读短 ɔ；单音节
 
 ## 语法变形 (Forms)
 
@@ -44,7 +48,7 @@ interval: 0
 
 - 词族: [[normal]]
 - 同义词: [[regel]]
-- 反义词: []
+- 反义词: [[avvikelse]] (偏离)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

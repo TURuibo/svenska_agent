@@ -6,8 +6,8 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "证明"
 en: "to prove"
-synonyms: []
-antonyms: []
+synonyms: [påvisa, styrka]
+antonyms: [motbevisa]
 family: [bevis]
 topics: [topic-terrorism-och-brott]
 sentences: [sent-det-gar-inte-att-bevisa-att]
@@ -22,6 +22,9 @@ interval: 0
 # bevisa — verb (grupp 1)
 
 📖 中文：证明 · English: to prove
+
+🇸🇪 Förklaring: visa att något verkligen är sant
+
 发音提示：be-VI-sa
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bevis]]（证据，名词）
-- 同义词: —
-- 反义词: —
+- 同义词: [[påvisa]] (证明), [[styrka]] (证实)
+- 反义词: [[motbevisa]] (反驳)
 - 主题: [[topic-terrorism-och-brott]]
 
 ## 用法提示 (Usage Notes)

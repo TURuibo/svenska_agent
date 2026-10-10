@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: A1
 zh: 做
 en: to do, make
-synonyms: []
-antonyms: []
-family: []
+synonyms: [utföra, tillverka]
+antonyms: [låta-bli]
+family: [utgöra, gärning, tillgjord]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # göra — verb (oregelbundet)
 
 📖 中文：做 · English: to do, make
+
+🇸🇪 Förklaring: utföra en handling eller aktivitet; skapa eller tillverka något
+
 发音提示：/ˈjøːra/（g 读 [j]）；gjorde /ˈjuːrdɛ/
 
 ## 语法变形 (Forms)
@@ -60,9 +63,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[utgöra]] (构成), [[gärning]] (行为), [[tillgjord]] (做作的)
+- 同义词: [[utföra]] (执行), [[tillverka]] (制造)
+- 反义词: [[låta-bli|låta bli]] (不做)
 - 主题:
 
 ## 用法提示 (Usage Notes)

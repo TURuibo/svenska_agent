@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "潜艇"
 en: "submarine"
-synonyms: []
+synonyms: [undervattensbåt]
 antonyms: []
-family: []
+family: [båt]
 topics: ["topic-forsvar-och-sakerhet"]
 sentences:
   - sent-polens-kop-av-svenska-ubatar
@@ -26,6 +26,9 @@ interval: 0
 # ubåt — substantiv
 
 📖 中文：潜艇 · English: submarine
+
+🇸🇪 Förklaring: fartyg som kan åka under vattenytan
+
 发音提示：U-båt
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[båt]] (船)
+- 同义词: [[undervattensbåt]] (潜水艇)
+- 反义词: —
 - 主题: [[topic-forsvar-och-sakerhet]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "留下；送（孩子去某处）；离开；交（作业）"
 en: "to leave; to drop off; to hand in"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gå-ifrån, överlämna]
+antonyms: [hämta]
+family: [lämning, avlämna, kvarlämnad]
 topics:
   - topic-vardagsrutin
   - topic-familj-och-barn
@@ -26,6 +26,9 @@ interval: 0
 # lämna — verb (grupp 1)
 
 📖 中文：留下；送（孩子去某处）；离开；交（作业） · English: to leave; to drop off; to hand in
+
+🇸🇪 Förklaring: 1) gå bort från en plats eller person; 2) låta något eller någon stanna kvar; 3) ge något till någon, t.ex. en uppgift eller ett barn på förskolan
+
 发音提示：LEM-na；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[lämning]] (送园), [[avlämna]] (交付), [[kvarlämnad]] (被留下的)
+- 同义词: [[gå-ifrån|gå ifrån]] (离开), [[överlämna]] (移交)
 - 反义词: [[hämta]] (v. 接取，取回)
 - 主题: [[topic-vardagsrutin]], [[topic-familj-och-barn]]
 

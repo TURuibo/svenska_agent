@@ -9,7 +9,7 @@ zh: "床垫"
 en: "mattress"
 synonyms: []
 antonyms: []
-family: []
+family: [bäddmadrass, luftmadrass]
 topics: ["topic-mobler"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # madrass — substantiv (en)
 
 📖 中文：床垫 · English: mattress
+
+🇸🇪 Förklaring: tjock och mjuk dyna som man ligger på i en säng
+
 发音提示：[madˈras]（重音在末音节，源自法语）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[bäddmadrass]] (床垫褥), [[luftmadrass]] (充气床垫)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mobler]]

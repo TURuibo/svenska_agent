@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "等待"
 en: "to wait"
-synonyms: []
+synonyms: [avvakta]
 antonyms: []
-family: []
+family: [väntan, väntrum]
 topics: [topic-trafik, topic-stadsmiljo]
 sentences:
   - sent-vi-vantar-pa-dig
@@ -26,6 +26,9 @@ interval: 0
 # vänta — verb (grupp 1)
 
 📖 中文：等待 · English: to wait
+
+🇸🇪 Förklaring: stanna kvar eller låta bli att göra något tills något händer eller någon kommer
+
 发音提示：VÄN-ta；两音节。
 
 ## 语法变形 (Forms)

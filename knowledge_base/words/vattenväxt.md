@@ -9,7 +9,7 @@ zh: "水生植物"
 en: "water plant; aquatic plant"
 synonyms: []
 antonyms: []
-family: []
+family: [vatten, växt]
 topics: ["topic-natur-skog"]
 sentences: ["sent-algen-ater-lov-gras-och-vatten"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vattenväxt — substantiv
 
 📖 中文：水生植物 · English: water plant; aquatic plant
+
+🇸🇪 Förklaring: planta som lever i sjöar, åar eller annat vatten
+
 发音提示：["vatten-växt"]，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vatten, växt
+- 词族: [[vatten]], [[växt]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-natur-skog]]
 
 ## 用法提示 (Usage Notes)

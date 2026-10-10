@@ -26,6 +26,9 @@ interval: 0
 # mitt emot — preposition
 
 📖 中文：正对面；对面 · English: directly opposite; across from
+
+🇸🇪 Förklaring: på andra sidan av något, så att man ser rakt på det
+
 发音提示：mitt e-MOT；两个词，重音在 emot 的第二音节。
 
 ## 语法变形 (Forms)

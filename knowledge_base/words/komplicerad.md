@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "复杂的"
 en: "complicated"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [svår]
+antonyms: [enkel]
+family: [komplicera, komplikation]
 topics: ["topic-karaktarsord"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # komplicerad — adjektiv
 
 📖 中文：复杂的 · English: complicated
+
+🇸🇪 Förklaring: som består av många delar och är svår att förstå eller lösa
+
 发音提示：kom-pli-SEH-rad
 
 ## 语法变形 (Forms)

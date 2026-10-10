@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 热闹的；活跃的；繁忙的
 en: lively, busy
-synonyms: []
-antonyms: []
-family: ["liv", "leva"]
+synonyms: [energisk, pigg]
+antonyms: [lugn, stilla]
+family: [leva, liv]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # livlig — adjektiv
 
 📖 中文：热闹的；活跃的；繁忙的 · English: lively, busy
+
+🇸🇪 Förklaring: som är full av rörelse, energi och aktivitet
+
 发音提示：/ˈliːvlɪɡ/
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[leva]], liv (生活/生命)
-- 同义词: —
-- 反义词: —
+- 词族: [[leva]], [[liv]] (生活/生命)
+- 同义词: [[energisk]] (有活力的), [[pigg]] (精神的)
+- 反义词: [[lugn]] (安静的), [[stilla]] (静止的)
 - 主题: [[topic-stadsmiljo]], [[topic-trafik]]
 
 ## 用法提示 (Usage Notes)

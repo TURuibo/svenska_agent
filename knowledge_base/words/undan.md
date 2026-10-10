@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: B1
 zh: 到一边；躲开
 en: aside; away
-synonyms: []
-antonyms: []
-family: []
+synonyms: [åt-sidan, bort]
+antonyms: [fram]
+family: [undanta, undantag, undangömd]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # undan — adverb
 
 📖 中文：到一边；躲开 · English: aside; away
+
+🇸🇪 Förklaring: åt sidan eller bort från något, så att det inte är i vägen
+
 发音提示：/ˈɵndan/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[undanta]] (除外), [[undantag]] (例外), [[undangömd]] (隐藏的)
+- 同义词: [[åt-sidan|åt sidan]] (到一边), [[bort]] (离开)
+- 反义词: [[fram]] (向前；拿出)
 - 主题: 
 
 ## 用法提示 (Usage Notes)

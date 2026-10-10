@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "有上进心的、有动力的"
 en: "motivated"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ambitiös, engagerad]
+antonyms: [omotiverad]
+family: [motivera]
 topics: ["topic-karaktarsord", "topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # motiverad — adjektiv
 
 📖 中文：有上进心的、有动力的 · English: motivated
+
+🇸🇪 Förklaring: som har lust och vilja att göra något och anstränga sig
+
 发音提示：moo-tee-VEH-rad
 
 ## 语法变形 (Forms)

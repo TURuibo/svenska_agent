@@ -7,7 +7,7 @@ zh: 光滑的、柔滑的
 en: smooth, silky
 synonyms: [mjuk]
 antonyms: [hård, sträv]
-family: []
+family: [lenhet]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # len — adjektiv
 
 📖 中文：光滑的、柔滑的 · English: smooth, silky
+
+🇸🇪 Förklaring: som känns mjuk och slät när man tar på den
+
 发音提示：/leːn/
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[lenhet]] (柔滑)
 - 同义词: [[mjuk]]
-- 反义词: [[hård]]
+- 反义词: [[hård]], [[sträv]]
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

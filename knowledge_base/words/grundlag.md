@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "基本法；宪法性法律"
 en: "fundamental law; constitutional law"
-synonyms: []
+synonyms: [konstitution, författning]
 antonyms: []
-family: []
+family: [lag, grund, grundlagsskydd]
 topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-det-står-skrivet-i-en-av-våra-grundlagar]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-10"
 # grundlag — substantiv (en)
 
 📖 中文：基本法；宪法性法律 · English: fundamental law; constitutional law
+
+🇸🇪 Förklaring: särskilt viktig lag som bestämmer hur landet ska styras och som är svår att ändra
+
 发音提示：/ˈɡrʉndˌlɑːɡ/；grund（基础）+ lag（法律）
 
 ## 语法变形 (Forms)
@@ -43,6 +46,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[lag]] (法律), [[grund]] (基础), [[grundlagsskydd]] (宪法保护)
+- 同义词: [[konstitution]] (宪法), [[författning]] (宪法)
+- 反义词: —
 - 相关: [[lag]], [[regeringsform]]
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 

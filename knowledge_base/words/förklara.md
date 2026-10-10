@@ -8,8 +8,9 @@ zh: "解释；说明"
 en: "to explain; to clarify"
 cefr: "A2"
 known: false
-synonyms: ["beskriva", "redogöra för"]
-antonyms: []
+synonyms: [beskriva, redogöra-för]
+antonyms: [förvirra]
+family: [förklaring, klar, oförklarlig]
 topics: ["topic-kommunikation", "topic-sfi"]
 phrases: []
 sentences: ["sent-de-forklarade-saker-langsamt"]
@@ -27,6 +28,10 @@ interval: 0
 **中文:** 解释；说明
 **English:** to explain; to clarify
 **CEFR:** A2
+
+🇸🇪 Förklaring: göra något lätt att förstå genom att berätta hur det hänger ihop
+
+发音提示：/fœrˈklɑːra/ — för- 不重读，重音在 kla
 
 ## 变形 (Forms)
 
@@ -58,3 +63,9 @@ interval: 0
 ## 来源 (Source)
 
 - [[source-2026-06-28-kronika-ny-i-nytt-land]]
+
+## 词族 / 同义 / 反义 (Relations)
+
+- 词族: [[förklaring]] (解释), [[klar]] (清楚的), [[oförklarlig]] (无法解释的)
+- 同义词: [[beskriva]], [[redogöra-för]]
+- 反义词: [[förvirra]] (使困惑)

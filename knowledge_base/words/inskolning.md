@@ -9,7 +9,7 @@ zh: "入园适应期"
 en: "settling-in period at preschool"
 synonyms: []
 antonyms: []
-family: [skola, förskola]
+family: [förskola, skola]
 topics: [topic-förskola-vardag]
 sentences: [sent-hur-gick-inskolningen-för-er]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # inskolning — substantiv (en)
 
 📖 中文：入园适应期 · English: settling-in period at preschool
+
+🇸🇪 Förklaring: period när ett barn sakta vänjer sig vid förskolan tillsammans med en förälder
+
 发音提示：/ˈɪnːˌskuːlnɪŋ/ — 重音在第一音节 **in-**，-skol- 里的 o 读长音 /uː/（像 skola）。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[förskola]]、[[skola]]（动词 *skola in* = 让孩子逐步适应）
+- 词族: [[förskola]], [[skola]]（动词 *skola in* = 让孩子逐步适应）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]

@@ -111,7 +111,8 @@ window.KBMarkdown = (function () {
   }
 
   function mdToHtml(markdown, opts) {
-    const lines = String(markdown || "").split(/\r?\n/);
+    // HTML comments are authoring notes (e.g. guidance copied from a template) — never shown.
+    const lines = String(markdown || "").replace(/<!--[\s\S]*?-->/g, "").split(/\r?\n/);
     const blocks = [];
     let index = 0;
 

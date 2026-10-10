@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: "商店"
 en: "shop / store"
-synonyms: []
+synonyms: [butik]
 antonyms: []
-family: []
+family: [klädaffär, mataffär, skoaffär]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # affär — substantiv
 
 📖 中文：商店 · English: shop / store
+
+🇸🇪 Förklaring: lokal där man säljer varor till kunder
+
 发音提示：['af.fæːr]
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ Deklination 3 (–er plural).
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[klädaffär]] (服装店), [[mataffär]] (食品店), [[skoaffär]] (鞋店)
+- 同义词: [[butik]] (商店)
 - 反义词: —
 - 主题: —
 

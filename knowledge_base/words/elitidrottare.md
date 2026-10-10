@@ -7,8 +7,8 @@ genus: en
 cefr: B2
 zh: "精英运动员"
 en: "elite athlete"
-synonyms: []
-antonyms: []
+synonyms: [toppidrottare]
+antonyms: [motionär]
 family: [idrott, idrottsman, elitkarriär]
 topics: [topic-idrott]
 sentences: [sent-till-skillnad-från-många-andra]
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # elitidrottare — substantiv (en)
 
 📖 中文：精英运动员 · English: elite athlete
+
+🇸🇪 Förklaring: person som tävlar i en sport på högsta nivå
+
 发音提示：/eˈliːtˌiːdrɔtarɛ/（重音在 elit-）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[idrott]]（体育）, [[idrottsman]]（运动员）, [[elitkarriär]]（精英运动生涯）
-- 同义词:
-- 反义词: motionär（健身爱好者）
+- 同义词: [[toppidrottare]] (顶尖运动员)
+- 反义词: [[motionär]]（健身爱好者）
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

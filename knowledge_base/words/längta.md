@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 思念/渴望
 en: to long for, to miss
-synonyms: []
+synonyms: [sakna]
 antonyms: []
-family: []
+family: [längtan]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # längta — verb (v.1)
 
 📖 中文：思念/渴望 · English: to long for, to miss
+
+🇸🇪 Förklaring: starkt vilja ha något eller vara hos någon som man saknar
+
 发音提示：LÄNG-ta；元音 `ä` 短促，`ng` 鼻音。
 
 ## 语法变形 (Forms)

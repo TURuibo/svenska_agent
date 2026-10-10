@@ -6,7 +6,7 @@ genus: ett
 cefr: B1
 zh: 机场、飞行场
 en: airfield
-synonyms: []
+synonyms: [flygplats]
 antonyms: []
 family: [barack]
 topics: []
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # flygfält — substantiv (ett)
 
 📖 中文：机场、飞行场 · English: airfield
+
+🇸🇪 Förklaring: öppet område där flygplan kan starta och landa
+
 发音提示：/ˈflyːɡˌfɛlt/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[barack]]
-- 同义词:
-- 反义词:
+- 同义词: [[flygplats]] (机场)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

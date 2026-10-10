@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 购物袋
 en: shopping bag
-synonyms: []
+synonyms: [påse, bärkasse]
 antonyms: []
-family: []
+family: [kassa]
 topics:
   - topic-mataffär
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # kasse — substantiv (en)
 
 📖 中文：购物袋 · English: shopping bag
+
+🇸🇪 Förklaring: påse med handtag som man bär hem varor i
+
 发音提示：KAS-se
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kassa]]（收银台，不同词）
-- 同义词: —
+- 同义词: [[påse]] (袋子), [[bärkasse]] (购物袋)
 - 反义词: —
 - 主题: [[topic-mataffär]]
 

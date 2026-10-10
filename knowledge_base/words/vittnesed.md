@@ -8,7 +8,7 @@ zh: "证人誓词"
 en: "witness oath"
 synonyms: []
 antonyms: []
-family: ["vittna"]
+family: [vittna]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # vittnesed — substantiv
 
 📖 中文：证人誓词 · English: witness oath
-发音提示：
+
+🇸🇪 Förklaring: löfte i domstol om att man ska säga hela sanningen
+
+发音提示：/ˈvɪtːnɛsˌeːd/ — 重音在 vitt；ed 读长音 eː
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vittna]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

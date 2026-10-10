@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "挑战"
 en: "challenge"
-synonyms: []
+synonyms: [prövning, svårighet]
 antonyms: []
 family: [utmana]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-09
 # utmaning — substantiv en
 
 📖 中文：挑战 · English: challenge
+
+🇸🇪 Förklaring: uppgift som är svår men spännande att klara
+
+发音提示：/ˈʉːtˌmɑːnɪŋ/ — 重音在 ut；a 读长音 ɑː
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ created: 2026-10-09
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[utmana]]
-- 同义词: —
+- 同义词: [[prövning]] (考验), [[svårighet]] (困难)
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

@@ -6,11 +6,9 @@ verbgrupp: "4 (oregelbundet)"
 cefr: A2
 zh: "①听起来、发出声音 ②让、允许"
 en: "①to sound ②to let, to allow"
-synonyms:
-  - "[[tillåta]]"
-antonyms: []
-family:
-  - "[[ljud]]"
+synonyms: [tillåta, låta-bli]
+antonyms: [förbjuda]
+family: [ljud, ljuda]
 topics: []
 sentences: []
 known: false
@@ -24,6 +22,9 @@ interval: 0
 # låta — verb (oregelbundet)
 
 📖 中文：①听起来 / 发出声音 ②让、允许 · English: ①to sound ②to let, allow
+
+🇸🇪 Förklaring: 1) ge ifrån sig ett ljud eller verka på ett visst sätt när man hör det; 2) ge någon lov att göra något
+
 发音提示：/ˈloːta/，å 发长 [oː]（像中文"奥"）；不规则动词。
 
 ## 语法变形 (Forms)
@@ -64,9 +65,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ljud]]（声音，名词）、ljuda（发声）
-- 同义词: ②义 ≈ tillåta（允许，正式）、låta bli ≈ sluta（停止）
-- 反义词: ②义 ≈ förbjuda（禁止）
+- 词族: [[ljud]]（声音，名词）, [[ljuda]]（发声）
+- 同义词: ②义 ≈ [[tillåta]]（允许，正式）, [[låta-bli|låta bli]] ≈ sluta（停止）
+- 反义词: ②义 ≈ [[förbjuda]]（禁止）
 - 主题: —
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "舒适的；方便的"
 en: "comfortable; convenient"
-synonyms: []
-antonyms: ["obekväm"]
-family: ["bekvämlighet", "bekvämt"]
+synonyms: [skön]
+antonyms: [obekväm]
+family: [bekvämlighet, bekvämt]
 topics: ["topic-karaktarsord", "topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bekväm — adjektiv
 
 📖 中文：舒适的；方便的 · English: comfortable; convenient
+
+🇸🇪 Förklaring: som känns skön och avslappnad; som är praktisk och inte kräver mycket arbete
+
 发音提示：/bɛˈkvɛːm/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bekvämlighet (舒适, substantiv)
-- 同义词: skön (舒服的, 口语)
+- 词族: [[bekvämlighet]] (舒适, substantiv), [[bekvämt]]
+- 同义词: [[skön]] (舒服的, 口语)
 - 反义词: [[obekväm]]
 - 主题: [[topic-karaktarsord]], [[topic-hemmet]]
 

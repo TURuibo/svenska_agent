@@ -7,7 +7,7 @@ genus: ""
 cefr: A2
 zh: 雨衣裤
 en: rain clothes
-synonyms: []
+synonyms: [regnställ]
 antonyms: []
 family: [regn, kläder, regnjacka, galonbyxor]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: 2026-09-26
 # regnkläder — substantiv (plural)
 
 📖 中文：雨衣裤 · English: rain clothes
+
+🇸🇪 Förklaring: vattentäta plagg, till exempel jacka och byxor, som man har på sig i vått väder
+
 发音提示：/ˈrɛŋnˌklɛːdər/ — 复合词，重音在 regn。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: 2026-09-26
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[regn]], [[kläder]], [[regnjacka]], [[galonbyxor]]
+- 同义词: [[regnställ]] (雨衣套装)
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

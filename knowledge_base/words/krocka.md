@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 碰撞，相撞
 en: to crash, to collide
-synonyms: []
+synonyms: [kollidera, köra-på]
 antonyms: []
-family: ["krock", "kollision"]
+family: [krock, kollision]
 topics: ["topic-trafik"]
 sentences:
   - sent-tva-vagnar-lamnade-sparet-och-foll
@@ -24,6 +24,9 @@ interval: 0
 # krocka — verb (grupp 1)
 
 📖 中文：碰撞，相撞 · English: to crash, to collide
+
+🇸🇪 Förklaring: köra eller springa in i något med kraft; stöta ihop
+
 发音提示：KROK-a
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: krock（名词）
+- 词族: [[krock]]（名词）, [[kollision]]
+- 同义词: [[kollidera]] (相撞), [[köra-på|köra på]] (撞上)
+- 反义词: —
 - 主题: [[topic-trafik]]
 
 ## 用法提示 (Usage Notes)

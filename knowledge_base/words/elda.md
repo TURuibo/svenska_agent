@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "生火，烧火，点火"
 en: "to make a fire, to burn, to light a fire"
-synonyms: ["tända eld"]
-antonyms: []
-family: ["eld", "eldning", "brandfarlig"]
+synonyms: [tända-eld]
+antonyms: [släcka]
+family: [eld, eldning, brandfarlig]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-vara-forsiktig-om-man-eldar
@@ -24,6 +24,9 @@ interval: 0
 # elda — verb
 
 📖 中文：生火，烧火，点火 · English: to make a fire, to burn
+
+🇸🇪 Förklaring: göra upp eld och låta något brinna, till exempel ved i en kamin eller löv i trädgården
+
 发音提示：/ˈɛlːda/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: eld（火），eldning（点火/生火行为），brandfarlig（易燃的）
+- 词族: [[eld]]（火）, [[eldning]]（点火/生火行为）, [[brandfarlig]]（易燃的）
+- 同义词: [[tända-eld]]
+- 反义词: [[släcka]] (熄灭)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

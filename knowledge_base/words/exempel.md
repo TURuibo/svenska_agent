@@ -7,9 +7,9 @@ genus: ett
 cefr: A1
 zh: "例子；榜样"
 en: "example"
-synonyms: []
+synonyms: [förebild]
 antonyms: []
-family: []
+family: [exemplifiera, exemplarisk]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # exempel — substantiv (ett)
 
 📖 中文：例子；榜样 · English: example
+
+🇸🇪 Förklaring: något som man visar eller berättar om för att förklara eller göra något tydligare
+
 发音提示：/ɛkˈsɛmpɛl/（重音在第二音节 -sem-）
 
 ## 语法变形 (Forms)
@@ -53,9 +56,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: exemplifiera（举例说明）, exemplarisk（模范的）
-- 同义词:
-- 反义词:
+- 词族: [[exemplifiera]]（举例说明）, [[exemplarisk]]（模范的）
+- 同义词: [[förebild]] (榜样)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

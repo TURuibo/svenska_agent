@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "可怜的"
 en: "poor (pitying)"
-synonyms: []
+synonyms: [arm]
 antonyms: []
 family: [stackare]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # stackars — adjektiv
 
 📖 中文：可怜的 · English: poor (pitying)
+
+🇸🇪 Förklaring: används framför ett ord för att visa att man tycker synd om någon
+
 发音提示：STACK-ars，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stackare]]
-- 同义词: 
-- 反义词: 
+- 同义词: [[arm]] (可怜的（书面）)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -23,6 +23,9 @@ interval: 0
 # provins — substantiv (en)
 
 📖 中文：省 · English: province
+
+🇸🇪 Förklaring: större område som ett land är indelat i
+
 发音提示：pro-VINS，重音第二音节。
 
 ## 语法变形 (Forms)

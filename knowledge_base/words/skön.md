@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "舒服的；令人欣慰的"
 en: "nice, pleasant, comforting"
-synonyms: [bra, trevlig]
+synonyms: [bra, trevlig, behaglig]
 antonyms: [jobbig]
-family: [skönhet]
+family: [skönhet, skönt]
 topics: [topic-förskola-vardag]
 sentences: [sent-skönt-att-höra-att-det-inte]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # skön — adjektiv
 
 📖 中文：舒服的；令人欣慰的 · English: nice, pleasant, comforting
+
+🇸🇪 Förklaring: som är behaglig och känns bra för kroppen; som ger en känsla av lättnad
+
 发音提示：/ɧøːn/ — 开头是 sj-音 /ɧ/，ö 读长音。
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: *skönhet*（美丽）、*skönt*（副词/中性）
-- 同义词: [[bra]]、[[trevlig]]（愉快的）、*behaglig*（舒适的）
+- 词族: [[skönhet]]（美丽）, [[skönt]]（副词/中性）
+- 同义词: [[bra]], [[trevlig]]（愉快的）, [[behaglig]]（舒适的）
 - 反义词: [[jobbig]]（费劲的、烦人的）
 - 主题: [[topic-förskola-vardag]]
 

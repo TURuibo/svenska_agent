@@ -7,8 +7,8 @@ cefr: A2
 zh: 山谷
 en: valley
 synonyms: []
-antonyms: []
-family: []
+antonyms: [höjd]
+family: [berg]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # dal — substantiv (en-ord)
 
 📖 中文：山谷 · English: valley
+
+🇸🇪 Förklaring: lågt område mellan berg eller höjder
+
 发音提示：/dɑːl/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[berg]]（山）
+- 同义词: —
+- 反义词: [[höjd]] (高处)
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

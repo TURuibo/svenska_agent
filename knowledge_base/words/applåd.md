@@ -6,8 +6,8 @@ genus: en
 cefr: B1
 zh: 掌声
 en: applause
-synonyms: []
-antonyms: []
+synonyms: [handklappning]
+antonyms: [burop]
 family: [applådera]
 topics: [topic-film]
 sentences: [sent-en-ny-film-om-gaza-fick-applåder]
@@ -18,6 +18,9 @@ created: 2026-10-07
 # applåd — substantiv (en)
 
 📖 中文：掌声 · English: applause
+
+🇸🇪 Förklaring: det att många klappar händerna för att visa att de tycker om något
+
 发音提示：[aˈplo̞ːd]
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: 2026-10-07
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[applådera]]（动词，鼓掌）
+- 同义词: [[handklappning]] (鼓掌)
+- 反义词: [[burop]] (喝倒彩)
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

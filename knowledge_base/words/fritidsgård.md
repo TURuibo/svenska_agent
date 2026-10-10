@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "青少年活动中心；青少年俱乐部"
 en: "youth centre; youth club"
-synonyms: []
+synonyms: [ungdomsgård]
 antonyms: []
-family: [fritid]
+family: [fritid, fritidsledare, fritidshem]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-fler-fritidsgårdar-behövs-i-vår-kommun, sent-förra-månaden-stängdes-fritidsgården-i-björkby, sent-kommunens-politiker-hävdar-att-vi-inte-har-råd, sent-jag-föreslår-att-kommunen-öppnar-en-ny, sent-en-fritidsgård-kostar-pengar-men-ingen]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # fritidsgård — substantiv (en)
 
 📖 中文：青少年活动中心；青少年俱乐部 · English: youth centre; youth club
+
+🇸🇪 Förklaring: lokal där ungdomar kan träffas och göra olika aktiviteter på kvällar och lov
+
 发音提示：FRI-tids-gård，`gård` 的 `g` 在 å 前读 [g]；重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[fritid]]（业余时间）、`fritidsledare`（活动中心辅导员）、`fritidshem`（小学生课后托管，别混）
-- 同义词: `ungdomsgård`（同义，较少用）
+- 词族: [[fritid]]（业余时间）, [[fritidsledare]]（活动中心辅导员）, [[fritidshem]]（小学生课后托管，别混）
+- 同义词: [[ungdomsgård]]（同义，较少用）
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

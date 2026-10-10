@@ -18,6 +18,10 @@ created: "2026-10-01"
 
 📖 中文：在家 · English: at home
 
+🇸🇪 Förklaring: i den bostad där man bor
+
+发音提示：/ˈhɛmːa/ — e 读短音，mm 是长辅音
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -41,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hem]]
-- 同义词:
-- 反义词: borta
+- 同义词: —
+- 反义词: [[borta]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

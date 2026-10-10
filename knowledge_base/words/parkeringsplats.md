@@ -19,6 +19,9 @@ created: "2026-10-02"
 # parkeringsplats — substantiv (en)
 
 📖 中文：停车位；停车场 · English: parking space; parking lot
+
+🇸🇪 Förklaring: plats eller område där man får ställa sin bil
+
 发音提示：par-ke-RINGS-plats，`s` 是复合词连接音。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[parkera]]（停车，动词）、[[parkering]]（停车；停车场）、[[felparkerad]]（停放不当的）
+- 词族: [[parkera]]（停车，动词）, [[parkering]]（停车；停车场）, [[felparkerad]]（停放不当的）
 - 同义词: [[parkering]]（更常指"停车场 / 停车这件事"）
 - 反义词: —
 - 主题: [[topic-trafik-säkerhet]]

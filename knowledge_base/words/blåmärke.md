@@ -22,6 +22,9 @@ interval: 0
 # blåmärke — substantiv (ett)
 
 📖 中文：淤青，瘀伤 · English: bruise
+
+🇸🇪 Förklaring: mörk fläck på huden efter ett slag eller en stöt
+
 发音提示：[ˈbloːmɛrkɛ]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[blå]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hälsa]], [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 游泳场所；海滩
 en: bathing spot, beach
-synonyms: ["badstrand"]
+synonyms: [badstrand]
 antonyms: []
-family: ["bada", "strand"]
+family: [bada, strand]
 topics: ["topic-miljö-och-klimat"]
 sentences:
   - sent-du-ska-helst-inte-bada-bland
@@ -24,6 +24,9 @@ interval: 0
 # badplats — substantiv
 
 📖 中文：游泳场所；海滩 · English: bathing spot, beach
+
+🇸🇪 Förklaring: ställe vid en sjö eller vid havet där man kan simma
+
 发音提示：BAD-plats
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: [[badstrand]]
 - 词族: [[bada]], [[strand]]
+- 同义词: [[badstrand]]
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

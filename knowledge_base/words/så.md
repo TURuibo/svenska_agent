@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A1
 zh: 这样，那么；所以
 en: so, thus, then
-synonyms: []
+synonyms: [därför]
 antonyms: []
-family: []
+family: [sådan, således]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # så — adverb / konjunktion
 
 📖 中文：这样，那么，如此；所以 · English: so, like that; so (conj.)
+
+🇸🇪 Förklaring: på det här viset; i hög grad, väldigt; och därför, som en följd av det
+
 发音提示：/soː/
 
 ## 语法变形 (Forms)
@@ -61,9 +64,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: därför（相近）
-- 反义词:
+- 词族: [[sådan]] (这样的), [[således]] (因此)
+- 同义词: [[därför]]（相近）
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

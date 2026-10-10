@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "规则"
 en: "rule"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [bestämmelse, föreskrift, norm]
+antonyms: [undantag]
+family: [regelbunden, trafikregel, reglera]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # regel — substantiv
 
 📖 中文：规则 · English: rule
+
+🇸🇪 Förklaring: något som säger hur man ska göra eller vad man får och inte får göra
+
 发音提示： "ré-gel"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[regelbunden]] (有规律的), [[trafikregel]] (交通规则), [[reglera]] (调节)
+- 同义词: [[bestämmelse]] (规定), [[föreskrift]] (条例), [[norm]] (规范)
+- 反义词: [[undantag]] (例外)
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "月票"
 en: "monthly pass"
 synonyms: [periodkort]
 antonyms: []
-family: [månad, kort]
+family: [månad, kort, periodkort]
 topics: [topic-nyheter-vecka22, topic-kollektivtrafik]
 sentences: [sent-regeringen-vill-halvera-priset]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # månadskort — substantiv (ett)
 
 📖 中文：月票 · English: monthly pass
+
+🇸🇪 Förklaring: biljett som gör att man kan åka hur mycket man vill med buss och tåg under trettio dagar
+
 发音提示：MÅ-nads-kort，复合词，重音在第一成分。
 
 ## 语法变形 (Forms)

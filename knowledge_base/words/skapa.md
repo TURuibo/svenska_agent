@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: B1
 zh: 创造；造成
 en: to create
-synonyms: []
-antonyms: []
-family: []
+synonyms: [framställa, åstadkomma]
+antonyms: [förstöra]
+family: [skapelse, skapare, skaparglädje]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # skapa — verb (grupp 1)
 
 📖 中文：创造；造成 · English: to create
+
+🇸🇪 Förklaring: göra något nytt som inte fanns förut; få något att uppstå
+
 发音提示：/ˈskɑːpa/
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[skapelse]] (创造物), [[skapare]] (创造者), [[skaparglädje]] (创作乐趣)
+- 同义词: [[framställa]] (制作), [[åstadkomma]] (造成)
+- 反义词: [[förstöra]] (毁坏)
 - 主题: 
 
 ## 用法提示 (Usage Notes)

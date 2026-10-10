@@ -6,8 +6,8 @@ cefr: B1
 zh: 侮辱性的
 en: offensive, insulting
 synonyms: [rasistisk]
-antonyms: []
-family: []
+antonyms: [respektfull]
+family: [kränka, kränkning]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # kränkande — adjektiv
 
 📖 中文：侮辱性的 · English: offensive, insulting
+
+🇸🇪 Förklaring: som får någon att känna sig förolämpad, förnedrad eller orättvist behandlad
+
 发音提示：/ˈkrɛŋkandə/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[kränka]] (侮辱；侵犯), [[kränkning]] (侵犯；侮辱)
 - 同义词: [[rasistisk]]
-- 反义词:
+- 反义词: [[respektfull]] (尊重的)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "猴子"
 en: "monkey"
 synonyms: []
 antonyms: []
-family: []
+family: [schimpans, gorilla]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # apa — substantiv (en)
 
 📖 中文：猴子 · English: monkey
+
+🇸🇪 Förklaring: djur som liknar människan och som ofta klättrar i träd
+
 发音提示：/ˈɑːpa/
 
 ## 语法变形 (Forms)

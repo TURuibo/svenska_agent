@@ -23,6 +23,9 @@ interval: 0
 # gymnasial — adjektiv
 
 📖 中文：高中的 · English: upper-secondary
+
+🇸🇪 Förklaring: som gäller skolnivån efter grundskolan, för elever mellan 16 och 19 år
+
 发音提示： "gym-na-si-ál"
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[eftergymnasial]]、[[förgymnasial]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[eftergymnasial]], [[förgymnasial]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

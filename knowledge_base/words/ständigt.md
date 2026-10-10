@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "不断地、持续地"
 en: "constantly"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [jämt, alltid, hela-tiden]
+antonyms: [sällan]
+family: [ständig, beständig]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ständigt — adverb
 
 📖 中文：不断地、持续地 · English: constantly
+
+🇸🇪 Förklaring: hela tiden, utan uppehåll, eller mycket ofta
+
 发音提示：STÄN-digt
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ Oböjlig som adverb.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[ständig]] (不断的), [[beständig]] (持久的)
+- 同义词: [[jämt]] (总是), [[alltid]] (总是), [[hela-tiden|hela tiden]] (一直)
+- 反义词: [[sällan]] (很少)
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

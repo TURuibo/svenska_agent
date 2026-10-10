@@ -6,8 +6,8 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "使平静，安抚"
 en: "to calm"
-synonyms: []
-antonyms: []
+synonyms: [trösta, dämpa]
+antonyms: [oroa, uppröra]
 family: [lugn]
 topics: []
 sentences: [sent-för-att-lugna-protesterna-infördes]
@@ -22,7 +22,10 @@ interval: 0
 # lugna — verb
 
 📖 中文：使平静，安抚 · English: to calm
-发音提示：
+
+🇸🇪 Förklaring: få någon att bli mindre orolig, rädd eller arg
+
+发音提示：/ˈlɵŋna/ — gn 读 ŋn；u 读短音 ɵ
 
 ## 语法变形 (Forms)
 
@@ -44,8 +47,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lugn]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[trösta]] (安慰), [[dämpa]] (平息)
+- 反义词: [[oroa]] (使担心), [[uppröra]] (激怒)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

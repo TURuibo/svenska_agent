@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "聚会"
 en: "gathering"
-synonyms: ["tillställning", "evenemang"]
+synonyms: [tillställning, evenemang]
 antonyms: []
-family: []
+family: [komma-samman, ankomst]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # sammankomst — substantiv
 
 📖 中文：聚会 · English: gathering
+
+🇸🇪 Förklaring: tillfälle när människor träffas, till exempel för ett möte eller en fest
+
+发音提示：/ˈsamːanˌkɔmst/ — 复合词，重音在 sam；o 读短音 /ɔ/
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: [[tillställning]]、[[evenemang]]
-- 反义词: []
+- 词族: [[komma-samman|komma samman]] (聚到一起), [[ankomst]] (到达)
+- 同义词: [[tillställning]], [[evenemang]]
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

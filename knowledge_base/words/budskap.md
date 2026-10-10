@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "讯息，理念"
 en: "message"
-synonyms: []
+synonyms: [meddelande, besked]
 antonyms: []
-family: []
+family: [bud, budbärare]
 topics: []
 sentences: [sent-deras-kamp-var-fredlig-och]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # budskap — substantiv
 
 📖 中文：讯息，理念 · English: message
-发音提示：
+
+🇸🇪 Förklaring: information eller idé som någon vill föra fram till andra människor
+
+发音提示：/ˈbʉːdˌskɑːp/ — 重音在 bud；u 读圆唇长音 ʉː
 
 ## 语法变形 (Forms)
 
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[bud]] (口信；消息), [[budbärare]] (送信人)
+- 同义词: [[meddelande]] (消息), [[besked]] (答复；通知)
 - 反义词: —
 - 主题: —
 

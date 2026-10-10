@@ -8,7 +8,7 @@ zh: "衬衫"
 en: "shirt"
 synonyms: [blus]
 antonyms: []
-family: []
+family: [skjortärm, skjortkrage, nattskjorta]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # skjorta — substantiv (en-ord)
 
 📖 中文：衬衫 · English: shirt
+
+🇸🇪 Förklaring: klädesplagg med krage, ärmar och knappar som man har på överkroppen
+
 发音提示：/ˈɧuːrta/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[skjortärm]] (衬衫袖), [[skjortkrage]] (衬衫领), [[nattskjorta]] (睡衣衫)
 - 同义词: [[blus]] (女式衬衣)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

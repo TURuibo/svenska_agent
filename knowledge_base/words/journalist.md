@@ -22,7 +22,10 @@ interval: 0
 # journalist — substantiv
 
 📖 中文：记者 · English: journalist
-发音提示：
+
+🇸🇪 Förklaring: person som skriver artiklar eller gör program för tidningar, radio eller tv
+
+发音提示：/ɧɵrnaˈlɪst/ — j 读 ɧ（sj 音）；重音在 list
 
 ## 语法变形 (Forms)
 

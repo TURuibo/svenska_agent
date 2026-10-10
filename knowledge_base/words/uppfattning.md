@@ -20,6 +20,10 @@ created: 2026-10-05
 
 📖 中文：看法；理解 · English: opinion; view; perception
 
+🇸🇪 Förklaring: det någon tycker eller tror om något; hur man förstår något
+
+发音提示：/ˈɵpːˌfatːnɪŋ/ — 重音在 upp，fatt 为次重音
+
 ## 语法变形 (Forms)
 
 | 形式 | 单数 | 复数 |

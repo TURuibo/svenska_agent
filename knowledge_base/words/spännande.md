@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 令人兴奋的；刺激的
 en: exciting
-synonyms: []
+synonyms: [intressant, fängslande]
 antonyms: [tråkig]
-family: []
+family: [spänning, spänd, spänna]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # spännande — adjektiv
 
 📖 中文：令人兴奋的；刺激的 · English: exciting
+
+🇸🇪 Förklaring: som gör en nyfiken och förväntansfull, så att man vill veta vad som händer
+
 发音提示：/ˈspɛnːandɛ/
 
 ## 语法变形 (Forms)
@@ -40,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: tråkig
+- 词族: [[spänning]] (紧张；刺激), [[spänd]] (紧张的), [[spänna]] (拉紧)
+- 同义词: [[intressant]] (有趣的), [[fängslande]] (引人入胜的)
+- 反义词: [[tråkig]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

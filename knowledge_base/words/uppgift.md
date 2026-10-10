@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 任务/作业
 en: task/assignment
-synonyms: []
+synonyms: [uppdrag, läxa]
 antonyms: []
-family: []
+family: [arbetsuppgift, hemuppgift]
 topics: [topic-arbete-och-jobb, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # uppgift — substantiv (en-ord)
 
 📖 中文：任务/作业 · English: task/assignment
+
+🇸🇪 Förklaring: något som man ska göra eller lösa, till exempel i skolan eller på jobbet
+
 发音提示：[ˈɵpːˌjɪft] — 两个音节，重音在前
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[arbetsuppgift]] (工作任务), [[hemuppgift]] (家庭作业)
+- 同义词: [[uppdrag]] (任务), [[läxa]] (作业)
+- 反义词: —
 - 同义词（学校）: [[läxa]]
 - 主题: [[topic-arbete-och-jobb]], [[topic-skola-och-utbildning]]
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "邀请；请客；提供"
 en: "invite; treat; offer"
-synonyms: []
+synonyms: [inbjuda]
 antonyms: []
-family: ["bjudning", "bjudmat"]
+family: [bjudning, bjudmat]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bjuda — verb
 
 📖 中文：邀请；请客；提供 · English: invite; treat; offer
+
+🇸🇪 Förklaring: be någon att komma, till exempel på fest; betala för någon annans mat eller dryck; erbjuda något
+
 发音提示：/ˈbjuːda/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bjudning (宴请/聚会), bjudmat (宴客食物)
-- 同义词: inbjuda (邀请, 更正式)
+- 词族: [[bjudning]] (宴请/聚会), [[bjudmat]] (宴客食物)
+- 同义词: [[inbjuda]] (邀请, 更正式)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

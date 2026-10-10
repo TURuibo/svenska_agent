@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "垃圾（复数）"
 en: "rubbish, garbage"
-synonyms: []
+synonyms: [skräp, avfall]
 antonyms: []
 family: [sortera, slänga]
 topics: [topic-källsortering]
@@ -19,6 +19,9 @@ created: "2026-10-06"
 # sopor — substantiv
 
 📖 中文：垃圾（复数） · English: rubbish, garbage
+
+🇸🇪 Förklaring: det som man slänger, t.ex. matrester, papper och förpackningar
+
 发音提示：SOO-pur
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ created: "2026-10-06"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sortera]], [[slänga]]
+- 同义词: [[skräp]] (垃圾), [[avfall]] (废物)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 
 ## 用法提示 (Usage Notes)

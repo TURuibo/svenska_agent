@@ -6,11 +6,9 @@ verbgrupp: "2r"
 cefr: "A2"
 zh: "换乘；更换；交换"
 en: "to transfer (transport); to change; to exchange"
-synonyms: []
-antonyms: []
-family:
-  - byte
-  - byteskö
+synonyms: [växla, ersätta]
+antonyms: [behålla]
+family: [byteskö, byte]
 topics:
   - topic-kollektivtrafik
 sentences:
@@ -27,6 +25,9 @@ interval: 0
 # byta — verb v.2r
 
 📖 中文：换乘；更换；交换 · English: to transfer; to change; to exchange
+
+🇸🇪 Förklaring: 1) gå från ett tåg eller en buss till en annan under en resa; 2) ta något nytt i stället för något gammalt; 3) ge något och få något annat tillbaka
+
 发音提示：/BY-ta/
 
 ## 语法变形 (Forms)
@@ -54,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[byteskö]]（换乘队列）
+- 词族: [[byteskö]]（换乘队列）, [[byte]]
+- 同义词: [[växla]] (交换), [[ersätta]] (替换)
+- 反义词: [[behålla]] (保留)
 - 主题: [[topic-kollektivtrafik]]
 
 ## 用法提示 (Usage Notes)

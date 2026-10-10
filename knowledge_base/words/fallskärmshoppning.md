@@ -18,6 +18,9 @@ created: "2026-09-22"
 # fallskärmshoppning — substantiv (en)
 
 📖 中文：跳伞 · English: parachuting
+
+🇸🇪 Förklaring: sport där man kastar sig ut från ett flygplan och sedan svävar ner till marken med en stor duk av tyg
+
 发音提示：/ˈfalːˌɧɛːɳsˌhɔpːnɪŋ/
 
 ## 语法变形 (Forms)
@@ -40,8 +43,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hobby]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]、[[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

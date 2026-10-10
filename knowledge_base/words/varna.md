@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "A2"
 zh: "警告，提醒"
 en: "to warn"
-synonyms: []
+synonyms: [förvarna, uppmärksamma]
 antonyms: []
-family: ["varning", "varningsskylt"]
+family: [varning, varningsskylt]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # varna — verb
 
 📖 中文：警告，提醒 · English: to warn
+
+🇸🇪 Förklaring: säga till någon att något farligt eller dåligt kan hända
+
 发音提示：[ˈvɑːɳa]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: varning (en, 警告), varningsskylt (警告标志)
+- 词族: [[varning]] (en, 警告), [[varningsskylt]] (警告标志)
+- 同义词: [[förvarna]] (预先警告), [[uppmärksamma]] (提醒注意)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

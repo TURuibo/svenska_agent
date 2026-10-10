@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "抱怨、投诉"
 en: "complain"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [gnälla, reklamera]
+antonyms: [tacka]
+family: [klagomål, klagan]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # klaga — verb
 
 📖 中文：抱怨、投诉 · English: complain
+
+🇸🇪 Förklaring: säga att man inte är nöjd med något
+
 发音提示： "klá-ga"
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
+- 词族: [[klagomål]] (投诉), [[klagan]] (哀诉)
+- 同义词: [[gnälla]] (发牢骚), [[reklamera]] (投诉退换)
 - 反义词: [[tacka]]
 - 主题: [[topic-grannar-boende]]
 

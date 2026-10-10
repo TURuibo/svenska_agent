@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "同样地；一样"
 en: "the same way"
-synonyms: []
-antonyms: []
+synonyms: [på-samma-sätt]
+antonyms: [annorlunda, olika]
 family: [likadan]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # likadant — adverb
 
 📖 中文：同样地；一样 · English: the same way
+
+🇸🇪 Förklaring: på samma sätt som något annat
+
 发音提示：/ˈliːkaˌdanːt/
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[likadan]]
+- 同义词: [[på-samma-sätt|på samma sätt]] (同样地)
+- 反义词: [[annorlunda]] (不同地), [[olika]] (不一样)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

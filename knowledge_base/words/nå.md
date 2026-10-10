@@ -8,7 +8,7 @@ zh: 达到、够到
 en: to reach
 synonyms: [uppnå]
 antonyms: []
-family: []
+family: [nåbar, ouppnåelig]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # nå — verb (grupp 3)
 
 📖 中文：达到、够到 · English: to reach
+
+🇸🇪 Förklaring: komma fram till en plats eller ett mål; kunna sträcka sig så att man rör vid något
+
 发音提示：/noː/；nådde /ˈnɔdɛ/
 
 ## 语法变形 (Forms)
@@ -56,9 +59,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[nåbar]] (可到达的), [[ouppnåelig]] (无法达到的)
 - 同义词: [[uppnå]]（更正式，强调「实现目标」）
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

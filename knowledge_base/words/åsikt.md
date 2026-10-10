@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "观点，看法"
 en: "opinion"
-synonyms: []
+synonyms: [uppfattning, mening, ståndpunkt]
 antonyms: []
-family: []
+family: [sikt, åsiktsfrihet]
 topics: []
 sentences: [sent-det-fanns-även-åsikter-i-samhället]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # åsikt — substantiv
 
 📖 中文：观点，看法 · English: opinion
-发音提示：
+
+🇸🇪 Förklaring: det som någon tycker eller tror om något
+
+发音提示：/ˈoːˌsɪkt/ — å 读长音 oː；重音在 å
 
 ## 语法变形 (Forms)
 
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[sikt]] (视野；视线), [[åsiktsfrihet]] (观点自由)
+- 同义词: [[uppfattning]] (看法), [[mening]] (意见), [[ståndpunkt]] (立场)
 - 反义词: —
 - 主题: —
 

@@ -19,6 +19,9 @@ created: "2026-09-26"
 # lekträff — substantiv (en)
 
 📖 中文：约孩子一起玩（playdate） · English: playdate
+
+🇸🇪 Förklaring: avtalat besök när ett barn kommer hem till ett annat barn för att de ska roa sig tillsammans
+
 发音提示：/ˈleːkˌtrɛf/ — 复合词 *lek*（玩）+ *träff*（见面、聚会），重音在 *lek*，*ä* 读短音 [ɛ]。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[leka]] · [[träffa]] · [[lekplats]]
+- 词族: [[leka]] · [[träffa]] · [[lekplats]], [[träffa]], [[lekplats]] (游乐场)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]

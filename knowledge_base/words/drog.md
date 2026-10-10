@@ -7,7 +7,7 @@ genus: en
 cefr: B1
 zh: "毒品，药物"
 en: "drug"
-synonyms: []
+synonyms: [narkotika, knark]
 antonyms: []
 family: [drogmissbruk, droghandel]
 topics: [topic-samhälle-och-politik]
@@ -24,6 +24,9 @@ interval: 0
 # drog — substantiv
 
 📖 中文：毒品，药物 · English: drug
+
+🇸🇪 Förklaring: ämne som påverkar hjärnan och som ofta är olagligt, till exempel narkotika; ibland också läkemedel
+
 发音提示：[drOOg]
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[drogmissbruk]], [[droghandel]]
+- 同义词: [[narkotika]] (毒品), [[knark]] (毒品（口语）)
+- 反义词: —
 - 相关: [[smuggla]], [[brottsling]]
 - 主题: [[topic-samhälle-och-politik]]
 

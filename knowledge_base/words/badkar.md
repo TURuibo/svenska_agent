@@ -9,7 +9,7 @@ zh: "浴缸"
 en: "bathtub"
 synonyms: []
 antonyms: []
-family: ["bada", "badrum"]
+family: [bada, badrum]
 topics: ["topic-hemmet", "topic-kropp"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # badkar — substantiv (ett)
 
 📖 中文：浴缸 · English: bathtub
+
+🇸🇪 Förklaring: stor behållare i badrummet som man fyller med vatten och ligger i
+
 发音提示：/ˈbɑːdkɑːr/；复合词，重音在 BAD。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bada]] (洗澡), badrum (浴室)
+- 词族: [[bada]] (洗澡), [[badrum]] (浴室)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]], [[topic-kropp]]

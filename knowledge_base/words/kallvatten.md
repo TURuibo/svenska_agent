@@ -19,6 +19,10 @@ created: "2026-10-09"
 
 📖 中文：冷水 · English: cold water
 
+🇸🇪 Förklaring: vatten som kommer ur kranen utan att vara uppvärmt
+
+发音提示：/ˈkalːˌvatːɛn/ — 重音在 kall；两个 a 都读短音
+
 ## 语法变形 (Forms)
 
 | 形式 | 变形 |
@@ -34,7 +38,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[varmvatten]] [[vatten]] [[kall]]
+- 词族: [[varmvatten]] [[vatten]] [[kall]], [[vatten]], [[kall]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

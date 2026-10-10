@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "强劲的；大量的；结实的"
 en: "strong; heavy; powerful; sturdy"
-synonyms: ["stark"]
-antonyms: ["svag", "lätt", "måttlig"]
-family: ["kraft", "kraftfull"]
+synonyms: [stark]
+antonyms: [svag, lätt, måttlig]
+family: [kraft, kraftfull]
 topics: ["topic-karaktarsord"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kraftig — adjektiv
 
 📖 中文：强劲的；大量的；结实的 · English: strong; heavy; powerful; sturdy
+
+🇸🇪 Förklaring: som är stor och stark, eller som kommer i stor mängd eller med stor styrka
+
 发音提示：/ˈkraftɪɡ/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kraft (力量, substantiv), kraftfull (有力的)
+- 词族: [[kraft]] (力量, substantiv), [[kraftfull]] (有力的)
 - 同义词: [[stark]] (强壮的)
-- 反义词: svag (弱的), lätt (轻的), [[måttlig]] (适度的)
+- 反义词: [[svag]] (弱的), [[lätt]] (轻的), [[måttlig]] (适度的)
 - 主题: [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

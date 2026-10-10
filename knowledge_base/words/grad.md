@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "度（温度）；程度"
 en: "degree"
-synonyms: []
+synonyms: [nivå, omfattning]
 antonyms: []
-family: []
+family: [gradvis, minusgrad, plusgrad]
 topics: ["topic-vader-och-arstider"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # grad — substantiv (en)
 
 📖 中文：度（温度）；程度 · English: degree
+
+🇸🇪 Förklaring: 1) enhet för att mäta temperatur eller vinklar; 2) hur mycket av något det finns, nivå
+
 发音提示：[ɡrɑːd]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gradvis]] (逐渐地), [[minusgrad]] (零下温度), [[plusgrad]] (零上温度)
+- 同义词: [[nivå]] (水平), [[omfattning]] (程度)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

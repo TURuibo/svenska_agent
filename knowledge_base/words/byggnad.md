@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "建筑；楼"
 en: "building"
-synonyms: []
+synonyms: [hus, lokal]
 antonyms: []
-family: []
+family: [bygga, byggare, byggnation]
 topics: [topic-stadsmiljo]
 sentences:
   - sent-du-ser-en-stor-rod-byggnad
@@ -25,6 +25,9 @@ interval: 0
 # byggnad — substantiv (en)
 
 📖 中文：建筑；楼 · English: building
+
+🇸🇪 Förklaring: hus eller annan stor konstruktion, till exempel en skola, en kyrka eller ett kontor
+
 发音提示：BYGG-nad；两音节，gg 发浊音。
 
 ## 语法变形 (Forms)

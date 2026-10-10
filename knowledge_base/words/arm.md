@@ -9,7 +9,7 @@ zh: "手臂"
 en: "arm"
 synonyms: []
 antonyms: []
-family: []
+family: [armbåge, armband, armbandsur, armhåla]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # arm — substantiv (en-ord)
 
 📖 中文：手臂 · English: arm
+
+🇸🇪 Förklaring: kroppsdel mellan axeln och handen
+
 发音提示：/arm/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[armbåge]] (手肘), [[armband]] (手镯), [[armbandsur]] (手表), [[armhåla]] (腋窝)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-kropp]]

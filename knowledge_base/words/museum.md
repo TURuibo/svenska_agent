@@ -8,7 +8,7 @@ zh: 博物馆
 en: museum
 synonyms: []
 antonyms: []
-family: []
+family: [konstmuseum, museibesök, museivakt]
 topics: ["topic-stadsmiljo", "topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # museum — substantiv (ett)
 
 📖 中文：博物馆 · English: museum
+
+🇸🇪 Förklaring: byggnad där man visar konst eller föremål från historien och naturen för besökare
+
 发音提示：mu-SE-um
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[konstmuseum]] (美术馆), [[museibesök]] (参观博物馆), [[museivakt]] (博物馆保安)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

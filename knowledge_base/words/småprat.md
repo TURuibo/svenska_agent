@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "闲聊"
 en: "small talk"
-synonyms: []
+synonyms: [kallprat]
 antonyms: []
 family: [småprata, prata]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag, topic-social-kontakt]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # småprat — substantiv (ett)
 
 📖 中文：闲聊 · English: small talk
+
+🇸🇪 Förklaring: lätt och trevligt samtal om vardagliga saker, t.ex. vädret
+
 发音提示：/ˈsmoːˌprɑːt/ — 复合词双重音：**små-** 主重音，-prat 次重音，两个元音都长。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[småprata]]（动词：闲聊）、[[prata]]
-- 同义词: *kallprat*（寒暄）
+- 词族: [[småprata]]（动词：闲聊）, [[prata]]
+- 同义词: [[kallprat]]（寒暄）
 - 反义词: —
 - 主题: [[topic-föräldrasmåprat]]、[[topic-social-kontakt]]、[[topic-förskola-vardag]]
 

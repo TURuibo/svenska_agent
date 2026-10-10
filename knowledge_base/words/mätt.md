@@ -9,7 +9,7 @@ zh: "吃饱的"
 en: "full (after eating)"
 synonyms: []
 antonyms: [hungrig]
-family: []
+family: [mätta]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # mätt — adjektiv
 
 📖 中文：吃饱的 · English: full (after eating)
+
+🇸🇪 Förklaring: som har ätit så mycket att man inte är hungrig längre
+
 发音提示：/mɛtː/ — ä 短音，tt 长辅音。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mätta（动词：使饱）
+- 词族: [[mätta]]（动词：使饱）
 - 同义词: —
 - 反义词: [[hungrig]]
 - 主题: [[topic-småbarn-mat-och-sömn]], [[topic-förskola-vardag]]

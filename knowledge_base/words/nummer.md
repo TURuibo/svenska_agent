@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A1"
 zh: "号码"
 en: "number"
-synonyms: []
+synonyms: [siffra, tal]
 antonyms: []
 family: [numrera]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # nummer — substantiv
 
 📖 中文：号码 · English: number
+
+🇸🇪 Förklaring: siffra eller rad av siffror som visar ordningen eller som man använder för att ringa någon
+
 发音提示：NUM-mer，短 u，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[numrera]]
-- 同义词: 
-- 反义词: 
+- 同义词: [[siffra]] (数字), [[tal]] (数)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

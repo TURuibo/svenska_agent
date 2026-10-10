@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 香料；调味料
 en: spice
-synonyms: []
+synonyms: [smaksättning]
 antonyms: []
-family: []
+family: [kryddig, kryddhylla, kryddpeppar]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # krydda — substantiv (en-ord)
 
 📖 中文：香料、调味料（动词 `krydda` = 调味） · English: spice (verb: to season)
+
+🇸🇪 Förklaring: ämne från växter, t.ex. peppar eller kanel, som man har i maten för att ge den smak
+
+发音提示：/ˈkrʏdːa/ — y 读短音；dd 长
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[kryddig]] (辛辣的), [[kryddhylla]] (调料架), [[kryddpeppar]] (多香果)
+- 同义词: [[smaksättning]] (调味)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

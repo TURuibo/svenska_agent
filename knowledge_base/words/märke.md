@@ -6,7 +6,7 @@ genus: "ett"
 cefr: "A2"
 zh: "品牌/标志"
 en: "brand/label"
-synonyms: []
+synonyms: [varumärke, symbol]
 antonyms: []
 family: [märka]
 topics: [topic-klader]
@@ -22,6 +22,9 @@ interval: 0
 # märke — substantiv (ett-ord)
 
 📖 中文：品牌/标志 · English: brand/label
+
+🇸🇪 Förklaring: namn eller symbol som visar vilket företag som har gjort en vara; tecken eller fläck på något
+
 发音提示：/ˈmɛrkɛ/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[märka]] (注意到; 标记)
+- 同义词: [[varumärke]] (商标), [[symbol]] (标志)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

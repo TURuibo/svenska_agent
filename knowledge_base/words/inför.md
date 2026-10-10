@@ -7,8 +7,8 @@ genus: ""
 cefr: B1
 zh: 在…之前（为…做准备）；面对
 en: before, ahead of; in front of, facing
-synonyms: []
-antonyms: []
+synonyms: [före]
+antonyms: [efter]
 family: []
 topics: []
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # inför — preposition
 
 📖 中文：在…之前（为…做准备）；面对 · English: before, ahead of; facing
+
+🇸🇪 Förklaring: under tiden före något som ska hända, ofta när man förbereder sig; framför eller i närvaro av någon
+
 发音提示：/ˈɪnːfœːr/（重音在 in）
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: före（单纯的时间先后）
-- 反义词:
+- 词族: —
+- 同义词: [[före]]（单纯的时间先后）
+- 反义词: [[efter]] (之后)
 - 主题:
 
 ## 用法提示 (Usage Notes)

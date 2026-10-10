@@ -19,6 +19,9 @@ created: "2026-10-04"
 # mord — substantiv
 
 📖 中文：谋杀 · English: murder
+
+🇸🇪 Förklaring: brott där någon med avsikt dödar en annan människa
+
 发音提示：/muːrd/，rd 连读为卷舌音。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ created: "2026-10-04"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[mörda]]
+- 词族: [[mörda]], [[mördare]]
+- 同义词: —
+- 反义词: —
 - 主题: [[brott]]
 
 ## 用法提示 (Usage Notes)

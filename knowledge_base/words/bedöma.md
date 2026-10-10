@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "评估；判断；评定"
 en: "to assess; to judge; to evaluate"
-synonyms: []
+synonyms: [uppskatta]
 antonyms: []
-family: []
+family: [bedömning, bedömare, dömma]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga, sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # bedöma — verb (grupp 2)
 
 📖 中文：评估；判断；评定 · English: to assess; to judge; to evaluate
+
+🇸🇪 Förklaring: ta ställning till hur bra, stort eller viktigt något är
+
 发音提示：be-DÖ-ma，重音在第二音节 `dö`（`ö` 读 [øː]）。
 
 ## 语法变形 (Forms)
@@ -57,7 +60,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `en bedömning`（评估）、`bedömare`（评估者）、`dömma`（判决）
+- 词族: [[bedömning]]（评估）, [[bedömare]]（评估者）, [[dömma]]（判决）
 - 同义词: —（近义 [[uppskatta]]（估计数量）、`värdera`（评价价值））
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]

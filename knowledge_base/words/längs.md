@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "沿着"
 en: "along"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [utmed]
+antonyms: [tvärs-över]
+family: [långs]
 topics:
   - topic-riktningar
   - topic-rumsliga-relationer
@@ -30,6 +30,9 @@ interval: 0
 # längs — preposition
 
 📖 中文：沿着 · English: along
+
+🇸🇪 Förklaring: används för att visa att något går eller ligger bredvid något långt, t.ex. en väg eller en strand
+
 发音提示：längs（单音节）。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 - 词族: [[långs]] (古旧形式，同义)
 - 同义词: [[utmed]] (沿着，较正式)
-- 反义词: —
+- 反义词: [[tvärs-över|tvärs över]] (横穿)
 - 主题: [[topic-riktningar]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "聚会场所；见面地点；交流场所"
 en: "meeting place; hangout"
-synonyms: []
+synonyms: [samlingsplats]
 antonyms: []
-family: [plats]
+family: [möte, plats]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-det-finns-nämligen-exempel-på-att-en-trygg]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # mötesplats — substantiv (en)
 
 📖 中文：聚会场所；见面地点；交流场所 · English: meeting place; hangout
+
+🇸🇪 Förklaring: plats där människor träffas eller brukar samlas
+
 发音提示：MÖ-tes-plats，重音在第一音节；连接音 `-s-`。
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `möte`、[[plats]]
-- 同义词: `samlingsplats`（聚集地）
+- 词族: [[möte]], [[plats]]
+- 同义词: [[samlingsplats]]（聚集地）
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 

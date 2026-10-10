@@ -8,8 +8,8 @@ cefr: "B1"
 zh: "独立的"
 en: "independent"
 synonyms: [oberoende]
-antonyms: [beroende]
-family: [självständighet]
+antonyms: [beroende, ofri]
+family: [självständighet, självständigt]
 topics: [topic-nyheter-vecka22, topic-samhälle-och-politik]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # självständig — adjektiv
 
 📖 中文：独立的 · English: independent
+
+🇸🇪 Förklaring: som kan klara sig, tänka och bestämma utan hjälp från andra
+
 发音提示：själv-STÄN-dig。
 
 ## 语法变形 (Forms)

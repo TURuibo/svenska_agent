@@ -9,7 +9,7 @@ zh: "猪柳；猪里脊"
 en: "pork tenderloin"
 synonyms: []
 antonyms: []
-family: []
+family: [fläsk, filé]
 topics: [topic-mat-dryck]
 sentences:
   - sent-ja-vi-har-en-fläskfilé
@@ -25,6 +25,9 @@ interval: 0
 # fläskfilé — substantiv (en)
 
 📖 中文：猪柳；猪里脊 · English: pork tenderloin
+
+🇸🇪 Förklaring: långsmal bit magert och mört kött från gris
+
 发音提示：FLÄSK-fi-lé
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: fläsk (猪肉), filé (里脊/鱼柳)
+- 词族: [[fläsk]] (猪肉), [[filé]] (里脊/鱼柳)
+- 同义词: —
+- 反义词: —
 - 相关词: [[kött]], [[grönsak]], [[rostad]]
 - 主题: [[topic-mat-dryck]]
 

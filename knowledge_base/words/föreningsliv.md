@@ -18,6 +18,9 @@ created: "2026-09-22"
 # föreningsliv — substantiv (ett)
 
 📖 中文：社团生活 · English: club life
+
+🇸🇪 Förklaring: alla föreningar och den verksamhet som de har på en ort eller i ett land
+
 发音提示：/fœrˈeːnɪŋsˌliːv/
 
 ## 语法变形 (Forms)
@@ -40,8 +43,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förening]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "环；花环"
 en: "wreath; garland"
-synonyms: ["blomsterkrans"]
+synonyms: [blomsterkrans]
 antonyms: []
-family: ["blomsterkrans"]
+family: [blomsterkrans]
 topics: ["topic-midsommar-traditioner"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # krans — substantiv
 
 📖 中文：环；花环 · English: wreath; garland
+
+🇸🇪 Förklaring: ring av blommor, blad eller grenar som man t.ex. hänger på en dörr eller lägger på en grav
+
 发音提示：[krans]，短促有力
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 - 词族: [[blomsterkrans]]
 - 同义词: [[blomsterkrans]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

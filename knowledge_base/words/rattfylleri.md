@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B2"
 zh: "酒后驾车"
 en: "drunk driving"
-synonyms: []
+synonyms: [rattonykterhet]
 antonyms: []
-family: []
+family: [ratt, fylleri, rattfull]
 topics: ["topic-trafik-säkerhet", "topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # rattfylleri — substantiv
 
 📖 中文：酒后驾车 · English: drunk driving
-发音提示：
+
+🇸🇪 Förklaring: brottet att köra bil eller annat fordon när man är påverkad av alkohol
+
+发音提示：/ˈratːfʏlːɛˌriː/ — 复合词，重音在 ratt；-ri 次重音
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[ratt]] (方向盘), [[fylleri]] (酗酒), [[rattfull]] (酒驾的)
+- 同义词: [[rattonykterhet]] (醉驾（法律）)
+- 反义词: —
 - 主题: [[topic-trafik-säkerhet]], [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "停下；停留"
 en: "to stop; to stay"
-synonyms: ["stanna till", "stanna kvar"]
-antonyms: ["fortsätta", "gå vidare"]
-family: []
+synonyms: [stanna-till, stanna-kvar]
+antonyms: [fortsätta, gå-vidare]
+family: [avstanna, stannfågel]
 topics: ["topic-trafik", "topic-vardagsrutin"]
 sentences:
   - "sent-god-morgon-kan-jag-fa-en-stor"
@@ -24,6 +24,9 @@ interval: 0
 # stanna — verb (grupp 1)
 
 📖 中文：停下；停留 · English: to stop; to stay
+
+🇸🇪 Förklaring: 1) sluta röra sig eller gå; 2) vara kvar på ett ställe
+
 发音提示：/ˈstanːa/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: [[fortsätta]] (继续)
+- 词族: [[avstanna]] (停滞), [[stannfågel]] (留鸟)
+- 同义词: [[stanna-till]], [[stanna-kvar]]
+- 反义词: [[fortsätta]] (继续), [[gå-vidare]]
 - 主题: [[topic-trafik]], [[topic-vardagsrutin]]
 
 ## 用法提示 (Usage Notes)

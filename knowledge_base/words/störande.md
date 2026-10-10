@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "打扰的"
 en: "disturbing"
-synonyms: []
+synonyms: [irriterande, besvärande]
 antonyms: []
-family: ["störa"]
+family: [störa]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # störande — adjektiv
 
 📖 中文：打扰的 · English: disturbing
+
+🇸🇪 Förklaring: som gör det svårt att koncentrera sig eller vara i lugn och ro
+
+发音提示：/ˈstœːrandɛ/ — ö 在 r 前读 œ，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -39,8 +43,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[störa]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[irriterande]] (令人烦躁的), [[besvärande]] (令人困扰的)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

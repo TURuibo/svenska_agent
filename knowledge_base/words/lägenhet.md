@@ -6,9 +6,9 @@ genus: en
 cefr: "A1"
 zh: "公寓"
 en: "apartment; flat"
-synonyms: []
+synonyms: [bostad, våning]
 antonyms: []
-family: []
+family: [hyra, hyresgäst]
 topics: [topic-hemmet]
 sentences:
   - sent-poliserna-sager-att-handgranaten-traffade-fel-lagenhet
@@ -23,6 +23,9 @@ interval: 0
 # lägenhet — substantiv
 
 📖 中文：公寓 · English: apartment; flat
+
+🇸🇪 Förklaring: bostad med ett eller flera rum i ett hus där det finns flera sådana bostäder
+
 发音提示：LÄG-en-het
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hyra]], [[hyresgäst]]
+- 同义词: [[bostad]] (住所), [[våning]] (公寓（层）)
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

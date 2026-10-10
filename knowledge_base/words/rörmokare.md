@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "水管工"
 en: "plumber"
-synonyms: []
+synonyms: [vvs-montör]
 antonyms: []
-family: []
+family: [rör]
 topics:
   - topic-yrken
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # rörmokare — substantiv (en)
 
 📖 中文：水管工 · English: plumber
+
+🇸🇪 Förklaring: person som arbetar med att lägga och laga vattenledningar och avlopp
+
 发音提示：/ˈrøːrˌmuːkarɛ/
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rör]]（管道；待建词条）
-- 同义词: —
+- 同义词: [[vvs-montör|VVS-montör]] (水暖工)
 - 反义词: —
 - 主题: [[topic-yrken]]
 

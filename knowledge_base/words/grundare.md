@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "创始人"
 en: "founder"
-synonyms: []
+synonyms: [upphovsman, stiftare]
 antonyms: []
 family: [grunda, grund, grundläggare]
 topics: [topic-uppfinning-och-teknik, topic-arbete]
@@ -24,6 +24,9 @@ interval: 0
 # grundare — substantiv
 
 📖 中文：创始人 · English: founder
+
+🇸🇪 Förklaring: person som har startat ett företag, en organisation eller en stad
+
 发音提示：GRUND-a-re（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[grunda]] (创立/建立), [[grund]] (基础/原因), grundläggare (奠基人)
-- 同义词: —
+- 词族: [[grunda]] (创立/建立), [[grund]] (基础/原因), [[grundläggare]] (奠基人)
+- 同义词: [[upphovsman]] (创始人), [[stiftare]] (创立者)
 - 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]], [[topic-arbete]]
 

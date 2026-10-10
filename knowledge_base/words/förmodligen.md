@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "很可能；大概"
 en: "probably; presumably"
 synonyms: [antagligen, troligen]
-antonyms: []
+antonyms: [knappast]
 family: [förmoda]
 topics: [topic-argumentation]
 sentences: [sent-det-är-förmodligen-så-många]
@@ -19,6 +19,10 @@ created: 2026-10-05
 # förmodligen — adverb
 
 📖 中文：很可能；大概 · English: probably; presumably
+
+🇸🇪 Förklaring: används för att säga att man tror att något är sant men inte är helt säker
+
+发音提示：/fœrˈmuːdlɪɡɛn/ — för- 不重读，重音在 mo；o 读 uː
 
 ## 语法变形 (Forms)
 
@@ -40,7 +44,7 @@ created: 2026-10-05
 
 - 词族: [[förmoda]]
 - 同义词: [[antagligen]], [[troligen]]
-- 反义词: —
+- 反义词: [[knappast]] (不大可能)
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

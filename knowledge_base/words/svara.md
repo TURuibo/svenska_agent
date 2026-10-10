@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A2
 zh: 回答；答复
 en: to answer, to reply
-synonyms: []
-antonyms: []
-family: []
+synonyms: [besvara]
+antonyms: [fråga]
+family: [svar]
 topics:
   - topic-geografi-samhalle
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # svara — verb
 
 📖 中文：回答；答复 · English: to answer, to reply
+
+🇸🇪 Förklaring: säga eller skriva något när någon har frågat något eller vänt sig till en
+
 发音提示：/ˈsvɑːra/ — 重音在首音节，"sv"如英语"sw-"
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[svar]]（回答，名词）
-- 同义词: —
+- 同义词: [[besvara]] (答复)
 - 反义词: [[fråga]]（提问）
 - 主题: [[topic-geografi-samhalle]]
 

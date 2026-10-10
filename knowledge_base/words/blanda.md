@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "混合；混用"
 en: "to mix"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [röra-ihop, mixa]
+antonyms: [skilja, sortera]
+family: [blandning, blandad, blandare]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # blanda — verb
 
 📖 中文：混合；混用 · English: to mix
+
+🇸🇪 Förklaring: röra ihop olika saker så att de blir en helhet; använda olika saker tillsammans
+
 发音提示：/ˈblanːda/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[blandning]] (混合物), [[blandad]] (混合的), [[blandare]] (搅拌器；混水阀)
+- 同义词: [[röra-ihop|röra ihop]] (搅和), [[mixa]] (混合)
+- 反义词: [[skilja]] (分开), [[sortera]] (分类)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

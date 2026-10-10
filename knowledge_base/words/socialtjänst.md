@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "社会服务部门"
 en: "social services"
-synonyms: []
+synonyms: [socialen]
 antonyms: []
-family: ["social", "tjänst", "socialtjänstlag"]
+family: [social, tjänst, socialtjänstlag]
 topics: ["topic-terrorism-och-brott", "topic-samhälle-och-politik", "topic-ekonomi-och-bidrag"]
 sentences: [sent-då-kan-du-få-stöd-från-socialtjänsten, sent-ekonomiskt-bistånd-är-pengar-som-du-kan, sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga, sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -24,6 +24,9 @@ interval: 0
 # socialtjänst — substantiv (en)
 
 📖 中文：社会服务部门 · English: social services
+
+🇸🇪 Förklaring: kommunens verksamhet som ger stöd och hjälp till barn, familjer och andra som har det svårt
+
 发音提示：so-si-AL-tjänst
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[social]] (adj), [[tjänst]] (n, 服务/职位), [[socialtjänstlag]]（社会服务法）
+- 同义词: [[socialen]] (社会局（口语）)
+- 反义词: —
 - 主题: [[topic-terrorism-och-brott]] · [[topic-samhälle-och-politik]] · [[topic-ekonomi-och-bidrag]]
 
 ## 用法提示 (Usage Notes)

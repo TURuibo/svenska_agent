@@ -22,7 +22,14 @@ created: ""            # YYYY-MM-DD
 # {{lemma}} — {{ordklass}}
 
 📖 中文：{{zh}} · English: {{en}}
-发音提示：
+
+🇸🇪 Förklaring: {{forklaring}}
+
+发音提示：{{uttal}}
+
+<!-- 上面两行必填（sv-knowledge-base §1b），不许留空：
+     🇸🇪 Förklaring = 简单瑞典语释义：5–20 词、A1–B1 用词、不出现词条本身、无句号
+     发音提示       = /IPA/ — 中文提示（重音位置、长短音、sj/tj/软 g·k、卷舌、不发音字母） -->
 
 ## 语法变形 (Forms)
 
@@ -43,9 +50,12 @@ created: ""            # YYYY-MM-DD
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+<!-- 三行都必须有；每个词写成 [[slug]] (短中文)，多个用 ", " 分隔；确实没有就写 —。
+     KB 里还没有的词也照样写 [[slug]]（阅读站点它会进 查词/想学）。frontmatter 的
+     family/synonyms/antonyms 列表与这三行保持一致（只列 slug）。 -->
+- 词族: [[…]] (…)
+- 同义词: [[…]] (…)
+- 反义词: —
 - 主题: [[topic-…]]
 
 ## 用法提示 (Usage Notes)

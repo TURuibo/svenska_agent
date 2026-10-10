@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "独立的（私立）"
 en: "independent; privately run"
-synonyms: []
+synonyms: [privat]
 antonyms: [kommunal]
 family: [stå]
 topics: [topic-förskola-system, topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # fristående — adjektiv
 
 📖 中文：独立的（私立） · English: independent; privately run
+
+🇸🇪 Förklaring: som inte hör till något annat; om skola: som drivs av någon annan än kommunen
+
 发音提示：[ˈfriːˌstɔːɛndɛ]，fri + stående（"自由站立的"）。
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stå]]（fri + stå-ende）
-- 同义词: privat（口语）
+- 同义词: [[privat]]（口语）
 - 反义词: [[kommunal]]
 - 主题: [[topic-förskola-system]] · [[topic-förskola-vardag]]
 

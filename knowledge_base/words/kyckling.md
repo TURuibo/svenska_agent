@@ -8,7 +8,7 @@ zh: "鸡肉、鸡"
 en: "chicken"
 synonyms: []
 antonyms: []
-family: []
+family: [höna, kycklingfile]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # kyckling — substantiv (en-ord)
 
 📖 中文：鸡肉、鸡 · English: chicken
+
+🇸🇪 Förklaring: ung fågel av höns; också köttet från den som man äter
+
 发音提示：['çʏklɪŋ]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: höna（母鸡）, kycklingfile (鸡胸肉)
+- 词族: [[höna]]（母鸡）, [[kycklingfile]] (鸡胸肉)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

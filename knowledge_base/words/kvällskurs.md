@@ -8,8 +8,8 @@ cefr: "B1"
 zh: "晚间课程；夜校课程"
 en: "evening course"
 synonyms: []
-antonyms: []
-family: ["kväll", "kurs"]
+antonyms: [dagkurs]
+family: [kurs, kväll]
 topics: ["topic-stadsmiljo", "topic-skola-och-utbildning"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kvällskurs — substantiv (en)
 
 📖 中文：晚间课程；夜校课程 · English: evening course
+
+🇸🇪 Förklaring: undervisning som hålls sent på dagen efter arbetstid, ofta för vuxna
+
 发音提示：KVÄLLS-kurs（复合词，重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kurs]] (课程) + kväll (傍晚/晚上)
+- 词族: [[kurs]] (课程) + kväll (傍晚/晚上), [[kväll]]
+- 同义词: —
+- 反义词: [[dagkurs]] (日间课程)
 - 主题: [[topic-stadsmiljo]] · [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

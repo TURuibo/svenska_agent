@@ -23,6 +23,9 @@ interval: 0
 # sjukvård — substantiv (en)
 
 📖 中文：医疗保健 · English: healthcare
+
+🇸🇪 Förklaring: verksamhet där läkare och annan personal undersöker och behandlar patienter
+
 发音提示：SJUK-vård
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sjuk（生病的），vård（照护）
+- 词族: [[sjuk]]（生病的）, [[vård]]（照护）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

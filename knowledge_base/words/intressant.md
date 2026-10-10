@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "有趣的"
 en: "interesting"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [spännande]
+antonyms: [tråkig]
+family: [intresse, intressera]
 topics: ["topic-karaktarsord"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # intressant — adjektiv
 
 📖 中文：有趣的 · English: interesting
+
+🇸🇪 Förklaring: som väcker nyfikenhet och som man gärna vill veta mer om
+
 发音提示：in-tre-SANT
 
 ## 语法变形 (Forms)

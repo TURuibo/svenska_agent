@@ -7,9 +7,9 @@ genus: "en"
 cefr: A1
 zh: "游泳海滩；海水浴场"
 en: "bathing beach; swimming beach"
-synonyms: ["strand"]
+synonyms: [strand]
 antonyms: []
-family: ["bada", "bad", "strand"]
+family: [bada, strand, bad]
 topics: ["topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # badstrand — substantiv
 
 📖 中文：游泳海滩；海水浴场 · English: bathing beach; swimming beach
+
+🇸🇪 Förklaring: plats vid vatten med sand där man kan simma och sola
+
 发音提示：/ˈbɑːdstrand/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bada (游泳/洗澡), strand (海岸/岸边)
-- 同义词: strand (海滩，更通用)
+- 词族: [[bada]] (游泳/洗澡), [[strand]] (海岸/岸边), [[bad]]
+- 同义词: [[strand]] (海滩，更通用)
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

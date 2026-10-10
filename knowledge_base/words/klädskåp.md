@@ -24,6 +24,9 @@ interval: 0
 # klädskåp — substantiv (ett)
 
 📖 中文：衣柜 · English: wardrobe; closet
+
+🇸🇪 Förklaring: högt skåp med dörrar där man hänger och förvarar sina plagg
+
 发音提示：KLÄD-skåp；två stavelser.
 
 ## 语法变形 (Forms)

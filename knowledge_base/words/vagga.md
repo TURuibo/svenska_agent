@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "摇晃哄睡"
 en: "to rock (a baby)"
-synonyms: []
+synonyms: [gunga]
 antonyms: []
-family: []
+family: [vaggvisa]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # vagga — verb (grupp 1)
 
 📖 中文：摇晃（哄睡）；轻轻摇 · English: to rock (a baby), to sway
+
+🇸🇪 Förklaring: försiktigt röra något fram och tillbaka, till exempel ett barn som ska somna
+
 发音提示：/ˈvagːa/ — 短 a，双 g。
 
 ## 语法变形 (Forms)
@@ -41,8 +44,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: vagga (名词：摇篮), vaggvisa (摇篮曲)
-- 同义词: gunga (荡秋千/摇晃)
+- 词族: [[vaggvisa]] (摇篮曲)
+- 同义词: [[gunga]] (荡秋千/摇晃)
 - 反义词: —
 - 主题: [[topic-småbarn-mat-och-sömn]] · [[topic-förskola-vardag]]
 

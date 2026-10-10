@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "授权书；委托书"
 en: "written authorisation, power of attorney"
-synonyms: []
+synonyms: [bemyndigande]
 antonyms: []
-family: []
+family: [makt, fullmäktige]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # fullmakt — substantiv (en)
 
 📖 中文：授权书；委托书 · English: written authorisation, power of attorney
+
+🇸🇪 Förklaring: dokument där man skriftligt ger en annan person rätt att göra något i ens ställe
+
 发音提示：FULL-makt
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[makt]] (权力), [[fullmäktige]] (议会)
+- 同义词: [[bemyndigande]] (授权)
 - 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 

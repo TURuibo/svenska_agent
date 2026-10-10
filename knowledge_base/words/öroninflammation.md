@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "中耳炎"
 en: "ear infection"
-synonyms: []
+synonyms: [otit]
 antonyms: []
-family: []
+family: [förkylning]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: [sent-sedan-blev-han-förkyld-med-feber]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # öroninflammation — substantiv (en)
 
 📖 中文：中耳炎 · English: ear infection
+
+🇸🇪 Förklaring: infektion i örat, vanlig hos små barn, som ofta ger feber och värk
+
 发音提示：/ˈøːron-ɪnflamaˈɧuːn/ — 复合词：öron（耳朵，复数）+ inflammation（炎症）；-tion 读 [ɧuːn]。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[förkylning]]（常见起因）
-- 同义词: —
+- 同义词: [[otit]] (中耳炎（医学）)
 - 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 

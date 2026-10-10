@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "有气味；闻起来"
 en: "to smell"
-synonyms: []
+synonyms: [dofta, sniffa]
 antonyms: []
-family: []
+family: [lukt, luktsinne, illaluktande]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # lukta — verb
 
 📖 中文：有气味；闻起来 · English: to smell
+
+🇸🇪 Förklaring: 1) ha en viss doft; 2) känna en doft med näsan
+
 发音提示：[ˈlʉkːta] 短 u + 双 k；第 1 组规则动词。
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[lukt]] (气味), [[luktsinne]] (嗅觉), [[illaluktande]] (难闻的)
+- 同义词: [[dofta]] (散发香气), [[sniffa]] (嗅)
 - 反义词: —
 - 主题: —
 

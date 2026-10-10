@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A1
 zh: 所以、因此
 en: therefore, that's why
-synonyms: []
+synonyms: [alltså, således]
 antonyms: []
-family: []
+family: [där, därpå, varför]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # därför — adverb
 
 📖 中文：所以、因此 · English: therefore, that's why
+
+🇸🇪 Förklaring: av den anledningen; används för att visa en följd eller ett skäl
+
 发音提示：där-för；`ä` 在 r 前读开口的 /ɛː/，`ö` 读 /œ/（r 前）。
 
 ## 语法变形 (Forms)
@@ -46,8 +49,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: där + för；同类：därpå（见 [[därpå]]）, varför（为什么）
-- 同义词: —
+- 词族: [[där]] + för, 同类：därpå（见 [[därpå]]）, [[varför]]（为什么）
+- 同义词: [[alltså]] (所以), [[således]] (因此)
+- 反义词: —
 - 对照: [[eftersom]]（因为；连词，引导从句）
 - 主题:
 

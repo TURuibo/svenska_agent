@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "国家元首"
 en: "head of state"
-synonyms: []
+synonyms: [överhuvud]
 antonyms: []
-family: []
+family: [stat, chef, statsminister]
 topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-den-högsta-företrädaren-för-ett-land-kallas-statschef, sent-i-sverige-är-kungen-statschef, sent-en-regerande-drottning-kan-också-vara-statschef]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-10"
 # statschef — substantiv (en)
 
 📖 中文：国家元首 · English: head of state
+
+🇸🇪 Förklaring: person som har den högsta ställningen i ett land och representerar det, till exempel en kung eller en president
+
 发音提示：/ˈstɑːtsˌʃeːf/；stat + chef
 
 ## 语法变形 (Forms)
@@ -42,6 +45,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[stat]] (国家), [[chef]] (领导), [[statsminister]] (首相)
+- 同义词: [[överhuvud]] (元首)
+- 反义词: —
 - 相关: [[stat]], [[chef]]
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 

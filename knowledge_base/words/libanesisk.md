@@ -7,7 +7,7 @@ zh: 黎巴嫩的
 en: Lebanese
 synonyms: []
 antonyms: []
-family: Libanon
+family: [libanon, libanes]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # libanesisk — adjektiv
 
 📖 中文：黎巴嫩的 · English: Lebanese
+
+🇸🇪 Förklaring: som kommer från eller har med Libanon att göra
+
 发音提示：/libaˈneːsɪsk/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: Libanon, libanes（黎巴嫩人）
-- 同义词:
-- 反义词:
+- 词族: [[libanon|Libanon]], [[libanes]]（黎巴嫩人）
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

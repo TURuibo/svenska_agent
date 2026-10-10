@@ -9,7 +9,7 @@ zh: "秋千"
 en: "swing"
 synonyms: []
 antonyms: []
-family: []
+family: [gungstol, gunghäst]
 topics: ["topic-familj-och-barn"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # gunga — substantiv (en)
 
 📖 中文：秋千 · English: swing
+
+🇸🇪 Förklaring: sits som hänger i rep eller kedjor och som man kan svänga fram och tillbaka på
+
 发音提示：GUNG-a
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gungstol]] (摇椅), [[gunghäst]] (摇摇马)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

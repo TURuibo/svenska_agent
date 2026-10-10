@@ -9,7 +9,7 @@ zh: "祖父（父亲的父亲）；爷爷"
 en: "paternal grandfather"
 synonyms: []
 antonyms: []
-family: [farmor, mormor]
+family: [farmor, mormor, morfar]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # farfar — substantiv (en)
 
 📖 中文：祖父（父亲的父亲）；爷爷 · English: paternal grandfather
+
+🇸🇪 Förklaring: den man som är pappa till ens pappa
+
 发音提示：/ˈfarˌfaːr/ — far（父）+ far（父），第一音节重读。
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[farmor]]（奶奶）, [[mormor]]（外婆）, morfar（外公）
-- 同义词:
-- 反义词:
+- 词族: [[farmor]]（奶奶）, [[mormor]]（外婆）, [[morfar]]（外公）
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

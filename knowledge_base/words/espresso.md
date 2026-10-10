@@ -8,7 +8,7 @@ zh: 浓缩咖啡
 en: espresso
 synonyms: []
 antonyms: []
-family: []
+family: [espressomaskin]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # espresso — substantiv (en)
 
 📖 中文：浓缩咖啡 · English: espresso
+
+🇸🇪 Förklaring: starkt kaffe som man gör under högt tryck och dricker i små koppar
+
 发音提示：eh-SPRES-soh
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[espressomaskin]] (意式咖啡机)
+- 同义词: —
+- 反义词: —
 - 同义词/相关: [[latte]], [[cappuccino]], [[bryggkaffe]]
 - 主题: [[topic-kafe-fika]]
 

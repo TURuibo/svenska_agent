@@ -9,7 +9,7 @@ zh: "人质"
 en: "hostage(s)"
 synonyms: []
 antonyms: []
-family: []
+family: [gisslandrama, gisslantagare]
 topics: [topic-krig-och-konflikt]
 sentences: []
 known: false
@@ -19,6 +19,10 @@ created: "2026-10-08"
 # gisslan — substantiv (en)
 
 📖 中文：人质 · English: hostage(s)
+
+🇸🇪 Förklaring: person eller personer som hålls fångna av någon som kräver något för att släppa dem
+
+发音提示：/ˈjɪsːlan/ — g 在 i 前读 j；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,9 @@ created: "2026-10-08"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gisslandrama]] (人质事件), [[gisslantagare]] (劫持人质者)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

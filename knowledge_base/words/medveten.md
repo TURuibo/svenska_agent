@@ -7,7 +7,7 @@ genus: ""
 cefr: "B1"
 zh: "意识到的；有意识的；自觉的"
 en: "aware; conscious; deliberate"
-synonyms: []
+synonyms: [avsiktlig, uppmärksam]
 antonyms: [omedveten]
 family: [medvetenhet, medvetet]
 topics: []
@@ -24,6 +24,9 @@ interval: 0
 # medveten — adjektiv
 
 📖 中文：意识到的；有意识的；自觉的 · English: aware; conscious; deliberate
+
+🇸🇪 Förklaring: som vet om eller förstår något; som gör något med avsikt; som är vaken och uppfattar vad som händer
+
 发音提示：[meˈdveːtɛn]
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[medvetenhet]]
-- 同义词: —
+- 词族: [[medvetenhet]], [[medvetet]]
+- 同义词: [[avsiktlig]] (故意的), [[uppmärksam]] (留意的)
 - 反义词: [[omedveten]]
 - 主题: —
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "发明"
 en: "to invent"
-synonyms: []
+synonyms: [skapa, konstruera]
 antonyms: []
-family: ["uppfinning"]
+family: [uppfinning]
 topics: ["topic-uppfinning-och-teknik"]
 sentences:
   - "sent-år-1867-uppfann-alfred-nobel-dynamit"
@@ -25,6 +25,9 @@ interval: 0
 # uppfinna — verb
 
 📖 中文：发明 · English: to invent
+
+🇸🇪 Förklaring: skapa något nytt som inte har funnits förut, till exempel en maskin
+
 发音提示：/ˈɵpˌfɪna/
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ Stark verb (grupp 4): uppfinna → uppfann → uppfunnit
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[uppfinning]]
+- 同义词: [[skapa]] (创造), [[konstruera]] (设计制造)
+- 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]
 
 ## 用法提示 (Usage Notes)

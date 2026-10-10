@@ -7,11 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "抓捕，逮捕；抓住"
 en: "to seize, arrest; to grasp"
-synonyms: []
-antonyms: []
-family:
-  - gripande
-  - grep
+synonyms: [arrestera]
+antonyms: [släppa, frige]
+family: [gripande, grep]
 topics:
   - topic-krig-och-konflikt
   - topic-samhälle-och-politik
@@ -28,6 +26,9 @@ interval: 0
 # gripa — verb
 
 📖 中文：抓捕，逮捕；抓住 · English: to seize, arrest; to grasp
+
+🇸🇪 Förklaring: 1) ta fast någon som misstänks för ett brott; 2) ta ett hårt tag i något med handen
+
 发音提示：['griːpa]
 
 ## 语法变形 (Forms)
@@ -55,9 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: gripande（逮捕行动），grep（preteritum）
-- 同义词: arrestera（逮捕，较正式）
-- 反义词:
+- 词族: [[gripande]]（逮捕行动）, [[grep]]（preteritum）
+- 同义词: [[arrestera]]（逮捕，较正式）
+- 反义词: [[släppa]] (放开), [[frige]] (释放)
 - 主题: [[topic-krig-och-konflikt]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

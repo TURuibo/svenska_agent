@@ -7,9 +7,9 @@ genus: "en"
 cefr: A1
 zh: "游泳裤"
 en: "swimming trunks; swim shorts"
-synonyms: ["baddräkt"]
+synonyms: [baddräkt]
 antonyms: []
-family: ["bada", "bad"]
+family: [bada, badstrand, bad]
 topics: ["topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # badbyxor — substantiv
 
 📖 中文：游泳裤 · English: swimming trunks; swim shorts
+
+🇸🇪 Förklaring: korta byxor som man har på sig när man simmar
+
 发音提示：/ˈbɑːdbyːksɔr/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bada]] (游泳/洗澡, verb), [[badstrand]] (海滩)
-- 同义词: baddräkt (泳衣，一般指女性)
+- 词族: [[bada]] (游泳/洗澡, verb), [[badstrand]] (海滩), [[bad]]
+- 同义词: [[baddräkt]] (泳衣，一般指女性)
+- 反义词: —
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

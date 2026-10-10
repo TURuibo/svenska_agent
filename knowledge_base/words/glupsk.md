@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: "贪吃的、贪婪的"
 en: "voracious / greedy"
-synonyms: ["girig"]
+synonyms: [girig]
 antonyms: []
-family: []
+family: [glupskhet]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # glupsk — adjektiv
 
 📖 中文：贪吃的、贪婪的 · English: voracious / greedy
+
+🇸🇪 Förklaring: som äter mycket och snabbt; som hela tiden vill ha mer
+
 发音提示：/ɡlɵpsk/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[glupskhet]] (贪食)
 - 同义词: [[girig]]
 - 反义词: —
 - 主题: [[topic-djur]]

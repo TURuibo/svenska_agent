@@ -6,9 +6,9 @@ genus: "en"
 cefr: B1
 zh: 安静；沉默
 en: silence
-synonyms: []
+synonyms: [stillhet, lugn]
 antonyms: [oväsen]
-family: []
+family: [tyst, tystna, tystlåten]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # tystnad — substantiv (en)
 
 📖 中文：安静；沉默 · English: silence
+
+🇸🇪 Förklaring: det att det inte hörs något ljud eller att ingen säger något
+
 发音提示：/ˈtʏstnɑd/
 
 ## 语法变形 (Forms)
@@ -35,9 +38,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: oväsen
+- 词族: [[tyst]] (安静的), [[tystna]] (变安静), [[tystlåten]] (寡言的)
+- 同义词: [[stillhet]] (寂静), [[lugn]] (宁静)
+- 反义词: [[oväsen]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

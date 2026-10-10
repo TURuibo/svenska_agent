@@ -9,7 +9,7 @@ zh: "椅子"
 en: "chair"
 synonyms: [fåtölj]
 antonyms: []
-family: [bord, skrivbord, fåtölj, soffa]
+family: [bord, skrivbord, soffa, fåtölj]
 topics: [topic-mobler, topic-hemmet]
 sentences:
   - sent-stolen-star-framfor-skrivbordet
@@ -24,6 +24,9 @@ interval: 0
 # stol — substantiv (en)
 
 📖 中文：椅子 · English: chair
+
+🇸🇪 Förklaring: möbel med ryggstöd och ben som en person sitter på
+
 发音提示：stol（单音节）；lång o.
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bord]] (桌子), [[skrivbord]] (书桌), [[soffa]] (沙发)
+- 词族: [[bord]] (桌子), [[skrivbord]] (书桌), [[soffa]] (沙发), [[fåtölj]]
 - 同义词: [[fåtölj]] (扶手椅，有扶手)
 - 反义词: —
 - 主题: [[topic-mobler]], [[topic-hemmet]]

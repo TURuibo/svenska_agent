@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "合并；（暑期）合并托管"
 en: "merger; merging (of preschools in summer)"
-synonyms: []
-antonyms: []
+synonyms: [fusion, sammanläggning]
+antonyms: [uppdelning, delning]
 family: [slå]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-det-kallas-sammanslagning]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sammanslagning — substantiv (en)
 
 📖 中文：合并；（幼儿园暑期的）合并托管 · English: merger; merging (several preschools combined during summer)
+
+🇸🇪 Förklaring: det att två eller flera delar förenas till en, till exempel när flera förskolor delar lokal på sommaren
+
 发音提示：[ˈsamːanˌslɑːgnɪŋ]，来自 partikelverb *slå samman/ihop*（合并）。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[slå]]（slå samman = 合并）
+- 同义词: [[fusion]] (合并), [[sammanläggning]] (合并)
+- 反义词: [[uppdelning]] (拆分), [[delning]] (分割)
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

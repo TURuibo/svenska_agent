@@ -8,7 +8,7 @@ zh: "热红酒（香料甜酒）"
 en: "mulled wine"
 synonyms: []
 antonyms: []
-family: []
+family: [glöggmingel, glöggkryddor]
 topics: [topic-lucia]
 sentences: []
 source: source-2026-10-10-lucia
@@ -19,6 +19,10 @@ created: "2026-10-10"
 # glögg — substantiv (en-ord)
 
 📖 中文：热红酒（香料甜酒） · English: mulled wine
+
+🇸🇪 Förklaring: varm och kryddad dryck av vin eller saft som man dricker i december
+
+发音提示：/ɡlœɡː/ — ö 读短 œ，gg 要长
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[glöggmingel]] (热红酒聚会), [[glöggkryddor]] (热红酒香料)
+- 同义词: —
+- 反义词: —
 - 相关: [[lussekatt]]
 - 主题: [[topic-lucia]]
 - 来源: [[source-2026-10-10-lucia]]

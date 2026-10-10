@@ -20,6 +20,9 @@ created: "2026-10-02"
 # tandvård — substantiv (en)
 
 📖 中文：牙科护理；牙病诊疗 · English: dental care
+
+🇸🇪 Förklaring: undersökning och behandling av tänder och mun
+
 发音提示：TAND-vård，重音在第一音节 `tand`；`å` 读 [oː]。
 
 ## 语法变形 (Forms)
@@ -47,7 +50,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tand]]（牙）、[[vård]]（护理）、[[tandläkare]]（牙医）
+- 词族: [[tand]]（牙）, [[vård]]（护理）, [[tandläkare]]（牙医）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-vård]]

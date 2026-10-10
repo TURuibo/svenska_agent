@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "手套"
 en: "glove"
-synonyms: []
+synonyms: [vante]
 antonyms: []
-family: []
+family: [hand]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # handske — substantiv (en-ord)
 
 📖 中文：手套 · English: glove
+
+🇸🇪 Förklaring: plagg som man har på handen för att hålla den varm eller skydda den, med en del för varje finger
+
 发音提示：/ˈhandˌskeː/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hand]] (手)
+- 同义词: [[vante]] (手套（连指）)
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

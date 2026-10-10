@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "游客，访客"
 en: "visitor"
-synonyms: ["turist", "gäst"]
-antonyms: []
-family: ["besöka", "besök", "besöksantal"]
+synonyms: [turist, gäst]
+antonyms: [värd]
+family: [besöka, besök, besöksantal]
 topics: ["topic-fritid-och-resor"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # besökare — substantiv (en)
 
 📖 中文：游客，访客 · English: visitor
+
+🇸🇪 Förklaring: person som kommer till en plats, ett hem eller ett evenemang under en kort tid
+
 发音提示：[bɛˈsøːkaːrɛ]
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 
 - 词族: [[besöka]], [[besök]], [[besöksantal]]
 - 同义词: [[turist]], [[gäst]]
+- 反义词: [[värd]] (主人)
 - 主题: [[topic-fritid-och-resor]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "告知"
 en: "inform"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [meddela, underrätta, upplysa]
+antonyms: [undanhålla]
+family: [information, informativ, informatör]
 topics: [topic-grannar-boende]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # informera — verb
 
 📖 中文：告知 · English: inform
+
+🇸🇪 Förklaring: ge någon kunskap eller fakta om något
+
 发音提示： "in-for-mé-ra"
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[information]] (信息), [[informativ]] (信息丰富的), [[informatör]] (信息官)
+- 同义词: [[meddela]] (通知), [[underrätta]] (告知), [[upplysa]] (告诉；说明)
+- 反义词: [[undanhålla]] (隐瞒)
 - 主题: [[topic-grannar-boende]]
 
 ## 用法提示 (Usage Notes)

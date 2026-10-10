@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "同龄的"
 en: "of the same age"
-synonyms: []
+synonyms: [lika-gammal]
 antonyms: []
-family: []
+family: [jämn, år]
 topics: [topic-kultur-tradition]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # jämnårig — adjektiv
 
 📖 中文：同龄的 · English: of the same age
+
+🇸🇪 Förklaring: som är lika gammal som någon annan
+
 发音提示：JÄMN-å-rig
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[jämn]] (平的；相等的), [[år]] (年)
+- 同义词: [[lika-gammal|lika gammal]] (同龄的)
+- 反义词: —
 - 主题: [[topic-kultur-tradition]]
 
 ## 用法提示 (Usage Notes)

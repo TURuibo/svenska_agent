@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 高温；酷热；炎热
 en: heat; extreme heat
-synonyms: ["värme"]
-antonyms: ["kyla", "köld"]
-family: ["het", "hetta-på", "hetsig"]
+synonyms: [värme]
+antonyms: [kyla, köld]
+family: [het, hetta-på, hetsig]
 topics: ["topic-vader-och-arstider", "topic-hälsa"]
 sentences:
   - "sent-smhi-varnar-för-hetta-i-blekinge"
@@ -24,6 +24,9 @@ interval: 0
 # hetta — substantiv (en)
 
 📖 中文：高温；酷热；炎热 · English: heat; extreme heat
+
+🇸🇪 Förklaring: mycket hög temperatur i luften, särskilt när det är obehagligt varmt
+
 发音提示：[ˈhɛtːa] — dubbel t, kort e
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: het (hot, adj.), hetta-på (to heat up, phrasal)
+- 词族: [[het]] (hot, adj.), [[hetta-på]] (to heat up, phrasal), [[hetsig]]
 - 同义词: [[värme]]
-- 反义词: kyla, köld
+- 反义词: [[kyla]], [[köld]]
 - 主题: [[topic-vader-och-arstider]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

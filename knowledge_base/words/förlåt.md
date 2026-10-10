@@ -7,10 +7,9 @@ genus: ""
 cefr: A1
 zh: "对不起；打扰一下；原谅"
 en: "excuse me; sorry; forgive"
-synonyms: []
+synonyms: [ursäkta, ledsen]
 antonyms: []
-family:
-  - förlåta
+family: [förlåta]
 topics:
   - topic-riktningar
 sentences:
@@ -26,6 +25,9 @@ interval: 0
 # förlåt — interjektion
 
 📖 中文：对不起；打扰一下 · English: excuse me / sorry
+
+🇸🇪 Förklaring: används när man ber om ursäkt eller vill få någons uppmärksamhet
+
 发音提示：[fœɾˈloːt] — 重音在第二音节
 
 ## 语法变形 (Forms)

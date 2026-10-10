@@ -7,9 +7,9 @@ genus: en
 cefr: B1
 zh: "平衡"
 en: "balance"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [jämvikt]
+antonyms: [obalans]
+family: [balansera, balanserad]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # balans — substantiv (en)
 
 📖 中文：平衡 · English: balance
+
+🇸🇪 Förklaring: läge där man står stadigt och inte faller; när olika delar är lika stora eller viktiga
+
 发音提示：/baˈlans/（重音在第二音节 -lans）
 
 ## 语法变形 (Forms)
@@ -53,9 +56,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: balansera（保持平衡，动词）, balanserad（均衡的）
-- 同义词:
-- 反义词: obalans（失衡）
+- 词族: [[balansera]]（保持平衡，动词）, [[balanserad]]（均衡的）
+- 同义词: [[jämvikt]] (平衡)
+- 反义词: [[obalans]]（失衡）
 - 主题:
 
 ## 用法提示 (Usage Notes)

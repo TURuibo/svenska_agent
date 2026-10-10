@@ -6,8 +6,8 @@ verbgrupp: "1"
 cefr: A2
 zh: 安排；整理；组织
 en: to arrange; to organise
-synonyms: []
-antonyms: []
+synonyms: [organisera, fixa, sortera]
+antonyms: [röra-till]
 family: [ordning]
 topics: []
 sentences: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # ordna — verb (grupp 1)
 
 📖 中文：安排；整理；组织 · English: to arrange; to organise
+
+🇸🇪 Förklaring: sätta saker på rätt plats; planera och se till att något blir av
+
+发音提示：/ˈoːɖna/ — o 读长 oː；rd 读卷舌 ɖ
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ordning (en, 秩序)
-- 同义词:
-- 反义词:
+- 词族: [[ordning]] (en, 秩序)
+- 同义词: [[organisera]] (组织), [[fixa]] (搞定), [[sortera]] (整理)
+- 反义词: [[röra-till|röra till]] (弄乱)
 - 主题:
 
 ## 用法提示 (Usage Notes)

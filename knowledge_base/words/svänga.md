@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "转；拐弯；摇摆"
 en: "to turn; to swing"
-synonyms: []
+synonyms: [vända]
 antonyms: []
-family: []
+family: [sväng]
 topics:
   - topic-riktningar
 sentences:
@@ -26,6 +26,9 @@ interval: 0
 # svänga — verb
 
 📖 中文：转；拐弯 · English: to turn / to swing
+
+🇸🇪 Förklaring: ändra riktning, till exempel när man kör; röra sig fram och tillbaka
+
 发音提示：[ˈsvɛŋːa] — 双音节，重音在第一音节
 
 ## 语法变形 (Forms)

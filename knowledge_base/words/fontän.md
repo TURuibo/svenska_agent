@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "喷泉"
 en: "fountain"
-synonyms: []
+synonyms: [springbrunn]
 antonyms: []
-family: [fontänvatten, vattenfontän]
+family: [vattenfontän, fontänvatten]
 topics:
   - topic-stadsmiljo
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # fontän — substantiv (en)
 
 📖 中文：喷泉 · English: fountain
+
+🇸🇪 Förklaring: anläggning där vatten sprutar upp i luften, ofta i en park eller på ett torg
+
 发音提示：fon-TÄN；两音节，重音在末音节。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[vattenfontän]] (水喷泉，组合词)
-- 同义词: —
+- 词族: [[vattenfontän]] (水喷泉，组合词), [[fontänvatten]]
+- 同义词: [[springbrunn]] (喷泉)
 - 反义词: —
 - 主题: [[topic-stadsmiljo]]
 

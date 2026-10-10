@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 联系；接触；人脉
 en: contact
-synonyms: []
+synonyms: [förbindelse, beröring]
 antonyms: []
-family: []
+family: [kontakta]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # kontakt — substantiv (en-ord)
 
 📖 中文：联系、接触；(复数) 人脉 · English: contact
+
+🇸🇪 Förklaring: 1) när man pratar med, skriver till eller träffar någon; 2) person som man känner och kan få hjälp av
+
+发音提示：/kɔnˈtakt/ — 重音在第二音节 -takt
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kontakta（联系，动词）
-- 同义词:
-- 反义词:
+- 词族: [[kontakta]]（联系，动词）
+- 同义词: [[förbindelse]] (联系), [[beröring]] (接触)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

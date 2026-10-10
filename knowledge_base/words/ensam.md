@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 孤独的/独自的
 en: alone, lonely
-synonyms: []
-antonyms: [tillsammans]
-family: []
+synonyms: [allena]
+antonyms: [tillsammans, sällskaplig]
+family: [ensamhet, ensamstående]
 topics: [topic-karaktarsord]
 sentences: [sent-eftersom-astrid-var-ensam-kunde-hon]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # ensam — adjektiv
 
 📖 中文：孤独的/独自的 · English: alone, lonely
+
+🇸🇪 Förklaring: 1) utan andra människor omkring sig; 2) som känner sig ledsen för att man saknar sällskap
+
 发音提示：EN-sam；重音在第一音节，元音 `e` 短促。
 
 ## 语法变形 (Forms)

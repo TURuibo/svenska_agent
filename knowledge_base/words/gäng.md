@@ -7,9 +7,9 @@ genus: ett
 cefr: "B1"
 zh: "（犯罪）团伙，帮派；（口语）一群人"
 en: "gang; group (informal)"
-synonyms: []
+synonyms: [liga, grupp]
 antonyms: []
-family: []
+family: [gängkriminalitet, gängmedlem, kompisgäng]
 topics:
   - topic-krig-och-konflikt
   - topic-samhälle-och-politik
@@ -27,6 +27,9 @@ interval: 0
 # gäng — substantiv
 
 📖 中文：（犯罪）团伙，帮派；（口语）一群人 · English: gang; group (informal)
+
+🇸🇪 Förklaring: 1) grupp av kriminella som gör brott tillsammans; 2) i vardagligt språk: grupp av vänner
+
 发音提示：[jɛŋ]
 
 ## 语法变形 (Forms)
@@ -53,9 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[gängkriminalitet]] (帮派犯罪), [[gängmedlem]] (帮派成员), [[kompisgäng]] (朋友圈子)
+- 同义词: [[liga]] (犯罪团伙), [[grupp]] (一群人)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

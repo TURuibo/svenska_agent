@@ -5,9 +5,9 @@ ordklass: pronomen
 cefr: A2
 zh: 所有的，全部的
 en: all, every, everything
-synonyms: []
-antonyms: ingen
-family: []
+synonyms: [hel]
+antonyms: [ingen]
+family: [alltid, allting, allihop, överallt]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # all — pronomen / adjektiv
 
 📖 中文：所有的，全部的 · English: all, every, everything
+
+🇸🇪 Förklaring: hela mängden av något; varje del eller person utan undantag
+
 发音提示：/al/
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[alltid]] (总是), [[allting]] (一切), [[allihop]] (全部；大家), [[överallt]] (到处)
+- 同义词: [[hel]] (整个的)
+- 反义词: [[ingen]] (没有一个)
 - 主题:
 
 ## 用法提示 (Usage Notes)

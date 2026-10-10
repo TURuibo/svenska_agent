@@ -7,7 +7,7 @@ genus: en
 cefr: A2
 zh: "环形交叉路；环岛；转盘"
 en: "roundabout; traffic circle"
-synonyms: []
+synonyms: [korsning]
 antonyms: []
 family: []
 topics:
@@ -25,6 +25,9 @@ interval: 0
 # rondell — substantiv (en)
 
 📖 中文：环形交叉路；环岛 · English: roundabout / traffic circle
+
+🇸🇪 Förklaring: korsning där bilarna kör runt en rund ö i mitten
+
 发音提示：[rɔnˈdɛlː] — 两音节，重音在第二音节
 
 ## 语法变形 (Forms)

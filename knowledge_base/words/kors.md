@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "十字；十字架"
 en: "cross"
-synonyms: []
+synonyms: [krucifix]
 antonyms: []
 family: [korsa, korsning, korsas]
 topics:
@@ -25,6 +25,9 @@ interval: 0
 # kors — substantiv (ett)
 
 📖 中文：十字；十字架 · English: cross
+
+🇸🇪 Förklaring: tecken av två raka streck som går över varandra, t.ex. den kristna symbolen
+
 发音提示：kors（单音节）。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[korsa]] (v. 穿越；交叉), [[korsning]] (en, 十字路口), [[korsas]] (v. 交叉；相遇)
-- 同义词: —
+- 同义词: [[krucifix]] (十字架（耶稣像）)
 - 反义词: —
 - 主题: [[topic-stadsmiljo]]
 

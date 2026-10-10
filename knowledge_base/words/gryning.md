@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "黎明；拂晓"
 en: "dawn"
-synonyms: []
-antonyms: ["skymning"]
-family: []
+synonyms: [soluppgång, daggry]
+antonyms: [skymning]
+family: [gry]
 topics: ["topic-natur-skog", "topic-tid-och-tidsuttryck"]
 sentences: ["sent-algen-ar-mest-aktiv-i-gryningen"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gryning — substantiv
 
 📖 中文：黎明；拂晓 · English: dawn
+
+🇸🇪 Förklaring: tiden tidigt på morgonen när det börjar bli ljust
+
 发音提示：["gryː-ning"]
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[gry]] (破晓)
+- 同义词: [[soluppgång]] (日出), [[daggry]] (破晓)
 - 反义词: [[skymning]]（黄昏）
 - 主题: [[topic-natur-skog]], [[topic-tid-och-tidsuttryck]]
 

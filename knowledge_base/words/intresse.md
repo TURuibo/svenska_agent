@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "兴趣，关注"
 en: "interest"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [engagemang, nyfikenhet]
+antonyms: [ointresse, likgiltighet]
+family: [intressera, intressant, fritidsintresse]
 topics: []
 sentences: [sent-första-världskriget-bröt-ut]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # intresse — substantiv
 
 📖 中文：兴趣，关注 · English: interest
-发音提示：
+
+🇸🇪 Förklaring: vilja att veta mer om något eller att ägna sig åt något
+
+发音提示：/ɪnˈtrɛsːɛ/ — 重音在 tres（第二音节），e 短
 
 ## 语法变形 (Forms)
 
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[intressera]] (使感兴趣), [[intressant]] (有趣的), [[fritidsintresse]] (业余爱好)
+- 同义词: [[engagemang]] (投入), [[nyfikenhet]] (好奇心)
+- 反义词: [[ointresse]] (不感兴趣), [[likgiltighet]] (冷漠)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

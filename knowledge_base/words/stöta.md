@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: B1
 zh: 碰撞；撞到
 en: to bump; to knock
-synonyms: []
+synonyms: [krocka, slå-emot]
 antonyms: []
-family: []
+family: [stöt, sammanstötning]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # stöta — verb (oregelbundet)
 
 📖 中文：碰撞；撞到 · English: to bump; to knock
+
+🇸🇪 Förklaring: komma hårt emot något eller någon, ofta utan att vilja det
+
 发音提示：/ˈstøːta/
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[stöt]] (撞击), [[sammanstötning]] (碰撞)
+- 同义词: [[krocka]] (相撞), [[slå-emot|slå emot]] (撞到)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

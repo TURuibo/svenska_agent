@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 报告
 en: report
-synonyms: []
+synonyms: [redogörelse, utredning]
 antonyms: []
 family: [rapportera]
 topics: [topic-arbete-och-jobb, topic-skola-och-utbildning]
@@ -22,6 +22,9 @@ interval: 0
 # rapport — substantiv (en-ord)
 
 📖 中文：报告 · English: report
+
+🇸🇪 Förklaring: text eller muntlig beskrivning där man berättar om resultat eller om vad som har hänt
+
 发音提示：[raˈpɔrt] — 重音在第二音节
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rapportera]]
+- 同义词: [[redogörelse]] (说明报告), [[utredning]] (调查报告)
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

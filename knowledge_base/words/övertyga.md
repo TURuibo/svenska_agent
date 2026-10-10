@@ -23,6 +23,9 @@ interval: 0
 # övertyga — verb
 
 📖 中文：说服 · English: to convince
+
+🇸🇪 Förklaring: få någon att tro på eller hålla med om något genom att ge goda skäl
+
 发音提示：ö-ver-TY-ga，重音第三音节。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ Grupp 1 (-ar/-ade/-at).
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: övertygelse（信念），övertygande（有说服力的）
-- 同义词: övertala（劝说）
+- 词族: [[övertygelse]]（信念）, [[övertygande]]（有说服力的）
+- 同义词: [[övertala]]（劝说）
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

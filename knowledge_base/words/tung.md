@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 重的；沉重的
 en: heavy
-synonyms: []
-antonyms: []
-family: ["tyngd", "tyngre"]
+synonyms: [betungande]
+antonyms: [lätt]
+family: [tyngd, tyngre]
 topics: ["topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tung — adjektiv
 
 📖 中文：重的；沉重的 · English: heavy
+
+🇸🇪 Förklaring: som väger mycket och är svår att lyfta; som känns jobbig och svår
+
 发音提示：/tɵŋ/
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tyngd (重量), tyngre (较重)
-- 同义词: —
-- 反义词: —
+- 词族: [[tyngd]] (重量), [[tyngre]] (较重)
+- 同义词: [[betungande]] (沉重的)
+- 反义词: [[lätt]] (轻的)
 - 主题: [[topic-trafik]]
 
 ## 用法提示 (Usage Notes)

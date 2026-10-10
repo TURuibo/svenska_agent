@@ -9,7 +9,7 @@ zh: "姑姑（父亲的姐妹）"
 en: "paternal aunt (father's sister)"
 synonyms: []
 antonyms: []
-family: ["moster", "farbror", "morbror", "kusin"]
+family: [moster, farbror, morbror, kusin]
 topics: ["topic-familj-och-barn", "topic-personer"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # faster — substantiv (en)
 
 📖 中文：姑姑（父亲的姐妹） · English: paternal aunt (father's sister)
+
+🇸🇪 Förklaring: den kvinna som är syster till ens pappa
+
 发音提示：/ˈfastər/
 
 ## 语法变形 (Forms)
@@ -38,6 +41,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[moster]], [[farbror]], [[morbror]], [[kusin]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-familj-och-barn]], [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

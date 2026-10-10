@@ -8,7 +8,7 @@ zh: 厄雷（克朗的百分之一）
 en: öre (1/100 of a krona)
 synonyms: []
 antonyms: []
-family: []
+family: [krona]
 topics: [topic-betalning]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # öre — substantiv (ett)
 
 📖 中文：厄雷（克朗的百分之一） · English: öre (1/100 of a krona)
+
+🇸🇪 Förklaring: den minsta enheten av svenska pengar, en hundradel av en krona
+
 发音提示：ÖR-eh
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[krona]] (克朗，货币单位)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-betalning]]
 
 ## 用法提示 (Usage Notes)

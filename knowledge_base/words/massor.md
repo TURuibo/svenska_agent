@@ -7,8 +7,8 @@ genus: "en"
 cefr: "A2"
 zh: "大量；很多（口语）"
 en: "loads; tons; masses; lots (colloquial)"
-synonyms: [mycket, mängder]
-antonyms: []
+synonyms: [mycket, mängder-av, mängder]
+antonyms: [lite, få]
 family: [massa]
 topics: []
 sentences: [sent-det-fanns-massor-av-saker]
@@ -23,6 +23,9 @@ interval: 0
 # massor — substantiv (plural, av massa)
 
 📖 中文：大量；很多（口语） · English: loads; tons; masses; lots
+
+🇸🇪 Förklaring: väldigt stor mängd eller ett stort antal av något (vardagligt)
+
 发音提示：MAS-sor（重音第一音节）
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: massa（en massa = 一大堆）
-- 同义词: [[mycket]], mängder av
+- 词族: [[massa]]（en massa = 一大堆）
+- 同义词: [[mycket]], [[mängder-av|mängder av]], [[mängder]]
+- 反义词: [[lite]] (一点), [[få]] (少数)
 - 语气程度: massor av > mycket > lite（口语强度递减）
 
 ## 用法提示 (Usage Notes)

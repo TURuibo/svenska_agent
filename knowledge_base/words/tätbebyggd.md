@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B2"
 zh: "建筑密集的"
 en: "densely built-up"
-synonyms: ["tätbefolkad"]
-antonyms: []
-family: ["glesbygdskommun", "tätbefolkad"]
+synonyms: [tätbefolkad]
+antonyms: [glesbebyggd]
+family: [glesbygdskommun, tätbefolkad]
 topics: ["topic-geografi-samhalle"]
 sentences: []
 known: false
@@ -17,7 +17,10 @@ created: "2026-09-22"
 # tätbebyggd — adjektiv
 
 📖 中文：建筑密集的 · English: densely built-up
-发音提示：
+
+🇸🇪 Förklaring: där det finns många hus nära varandra
+
+发音提示：/ˈtɛːtbɛˌbʏɡd/ — 重音在 tät，ä 读长音
 
 ## 语法变形 (Forms)
 
@@ -39,7 +42,7 @@ created: "2026-09-22"
 
 - 词族: [[glesbygdskommun]], [[tätbefolkad]]
 - 同义词: [[tätbefolkad]]
-- 反义词: [[]]
+- 反义词: [[glesbebyggd]] (建筑稀疏的)
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

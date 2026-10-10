@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B2"
 zh: "公民调查"
 en: "citizen survey"
-synonyms: ["undersökning"]
+synonyms: [undersökning]
 antonyms: []
-family: []
+family: [medborgare, medborgarskap, undersöka]
 topics: ["topic-geografi-samhalle"]
 sentences: ["sent-det-ar-en-undersokning-dar-invanarna-far"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # medborgarundersökning — substantiv
 
 📖 中文：公民调查 · English: citizen survey
-发音提示：
+
+🇸🇪 Förklaring: enkät där kommunen frågar invånarna vad de tycker om livet och servicen i kommunen
+
+发音提示：/ˈmeːdbɔrjarˌɵndɛʂøːknɪŋ/ — rg 的 g 读 j；rs 读 ʂ
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
+- 词族: [[medborgare]] (公民), [[medborgarskap]] (公民身份), [[undersöka]] (调查)
 - 同义词: [[undersökning]]
-- 反义词: [[]]
+- 反义词: —
 - 主题: [[topic-geografi-samhalle]]
 
 ## 用法提示 (Usage Notes)

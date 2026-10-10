@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "柱状图"
 en: "bar chart"
-synonyms: []
+synonyms: [stolpdiagram]
 antonyms: []
-family: []
+family: [stapel, diagram, cirkeldiagram]
 topics: [topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # stapeldiagram — substantiv
 
 📖 中文：柱状图 · English: bar chart
+
+🇸🇪 Förklaring: diagram med rektanglar av olika höjd eller längd som visar och jämför värden
+
 发音提示： "stá-pel-di-a-gram"
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ Sammansättning: `stapel`（柱）+ `diagram`（图表）。
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[stapel]] (柱；堆), [[diagram]] (图表), [[cirkeldiagram]] (饼图)
+- 同义词: [[stolpdiagram]] (柱状图)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

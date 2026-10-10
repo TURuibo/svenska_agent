@@ -7,8 +7,8 @@ cefr: "A2"
 zh: "卖, 出售"
 en: "to sell"
 synonyms: []
-antonyms: ["köpa"]
-family: ["försäljning", "säljare"]
+antonyms: [köpa]
+family: [försäljning, säljare]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sälja — verb
 
 📖 中文：卖, 出售 · English: to sell
+
+🇸🇪 Förklaring: ge något till någon och få pengar för det
+
 发音提示：säl-ja
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[försäljning]], [[säljare]]
-- 同义词:
+- 同义词: —
 - 反义词: [[köpa]]
 - 主题:
 

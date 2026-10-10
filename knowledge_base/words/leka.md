@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: "A1"
 zh: "玩耍"
 en: "to play"
-synonyms: ["spela"]
+synonyms: [spela]
 antonyms: []
-family: ["leksak", "lek"]
+family: [leksak, lek]
 topics: ["topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # leka — verb
 
 📖 中文：玩耍 · English: to play (especially of children)
+
+🇸🇪 Förklaring: roa sig med spel och fantasi, som barn gör, t.ex. med dockor eller bilar
+
 发音提示：le-ka
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 
 - 词族: [[leksak]], [[lek]]
 - 同义词: [[spela]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

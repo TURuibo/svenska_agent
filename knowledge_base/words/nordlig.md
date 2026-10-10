@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "北方的，向北的"
 en: "northern, northerly"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [norra]
+antonyms: [sydlig, östlig, västlig]
+family: [norr, norra]
 topics: ["topic-vader-och-arstider"]
 sentences: ["sent-polcirkeln-ligger-pa-66-5-graders-nordlig-latitud"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # nordlig — adjektiv
 
 📖 中文：北方的，向北的 · English: northern, northerly
+
+🇸🇪 Förklaring: som ligger mot norr eller kommer därifrån, till exempel en vind
+
 发音提示：['nuːrdlɪg]
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: norr（北方，名词/副词），norra（形容词，如 norra Sverige）
-- 同义词: norra（定语用，如 norra Sverige）
-- 反义词: sydlig（南方的），östlig（东方的），västlig（西方的）
+- 词族: [[norr]]（北方，名词/副词）, [[norra]]（形容词，如 norra Sverige）
+- 同义词: [[norra]]（定语用，如 norra Sverige）
+- 反义词: [[sydlig]]（南方的）, [[östlig]]（东方的）, [[västlig]]（西方的）
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

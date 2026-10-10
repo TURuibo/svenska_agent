@@ -8,7 +8,7 @@ zh: "蝴蝶"
 en: "butterfly"
 synonyms: []
 antonyms: []
-family: []
+family: [nattfjäril, fjärilslarv]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fjäril — substantiv (en)
 
 📖 中文：蝴蝶 · English: butterfly
+
+🇸🇪 Förklaring: insekt med stora färggranna vingar som flyger mellan blommor
+
 发音提示：/ˈfjæːrɪl/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[nattfjäril]] (蛾子), [[fjärilslarv]] (蝴蝶幼虫)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-djur]]

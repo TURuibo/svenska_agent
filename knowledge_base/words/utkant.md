@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 郊区、外围
 en: outskirts, periphery
-synonyms: []
-antonyms: ["centrum"]
-family: ["kant"]
+synonyms: [förort, periferi]
+antonyms: [centrum]
+family: [kant]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # utkant — substantiv (en)
 
 📖 中文：郊区、外围 · English: outskirts, periphery
+
+🇸🇪 Förklaring: den yttersta delen av en stad eller ett område, långt från mitten
+
 发音提示：UT-kant
 
 ## 语法变形 (Forms)
@@ -48,6 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kant]]
+- 同义词: [[förort]] (郊区), [[periferi]] (外围)
 - 反义词: [[centrum]]
 - 主题: [[topic-stadsmiljo]]
 

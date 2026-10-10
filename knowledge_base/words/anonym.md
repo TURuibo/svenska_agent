@@ -5,8 +5,8 @@ ordklass: adjektiv
 cefr: B1
 zh: 默默无闻的、匿名的
 en: anonymous
-synonyms: []
-antonyms: []
+synonyms: [namnlös, okänd]
+antonyms: [känd]
 family: [anonymitet]
 topics: [topic-idrott]
 sentences: []
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # anonym — adjektiv
 
 📖 中文：默默无闻的、匿名的 · English: anonymous
+
+🇸🇪 Förklaring: vars namn man inte vet; som inte är känd
+
 发音提示：/anɔˈnyːm/
 
 ## 语法变形 (Forms)
@@ -40,7 +43,7 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[anonymitet]]
-- 同义词:
+- 同义词: [[namnlös]] (无名的), [[okänd]] (不知名的)
 - 反义词: [[känd]]
 - 主题: [[topic-idrott]]
 

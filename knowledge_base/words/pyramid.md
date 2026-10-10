@@ -24,6 +24,9 @@ interval: 0
 # pyramid — substantiv
 
 📖 中文：金字塔/棱锥 · English: pyramid
+
+🇸🇪 Förklaring: byggnad eller figur med fyrkantig botten och sidor som möts i en spets högst upp
+
 发音提示：py-ra-MID（重音在最后一音节）
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: pyramidal (金字塔形的)
+- 词族: [[pyramidal]] (金字塔形的)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]

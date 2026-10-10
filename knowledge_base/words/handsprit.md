@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "免洗洗手液；酒精洗手液"
 en: "hand sanitizer"
-synonyms: []
+synonyms: [handdesinfektion]
 antonyms: []
 family: [hand]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # handsprit — substantiv (en)
 
 📖 中文：免洗洗手液；酒精洗手液 · English: hand sanitizer
+
+🇸🇪 Förklaring: vätska med alkohol som man gnider in i händerna för att döda bakterier och virus
+
 发音提示：[ˈhandˌspriːt]，hand + sprit（酒精）。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hand]]
-- 同义词: handdesinfektion
+- 同义词: [[handdesinfektion]]
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 

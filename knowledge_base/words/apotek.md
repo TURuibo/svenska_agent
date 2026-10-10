@@ -25,6 +25,9 @@ interval: 0
 # apotek — substantiv (ett)
 
 📖 中文：药店；药房 · English: pharmacy
+
+🇸🇪 Förklaring: affär där man köper medicin och hämtar ut läkemedel som läkaren har skrivit ut
+
 发音提示：a-po-TEK；三音节，重音在末音节。
 
 ## 语法变形 (Forms)

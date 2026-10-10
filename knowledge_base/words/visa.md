@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 展示/显示
 en: to show
-synonyms: []
-antonyms: []
-family: []
+synonyms: [demonstrera]
+antonyms: [dölja]
+family: [visning, bevisning]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # visa — verb (v.1)
 
 📖 中文：展示/显示 · English: to show
+
+🇸🇪 Förklaring: låta någon se något; göra så att något blir tydligt eller känt
+
 发音提示：VI-sa；元音 `i` 长音。
 
 ## 语法变形 (Forms)

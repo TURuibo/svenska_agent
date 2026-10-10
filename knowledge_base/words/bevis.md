@@ -7,9 +7,9 @@ genus: ett
 cefr: B1
 zh: 证据
 en: evidence, proof
-synonyms: []
+synonyms: [belägg]
 antonyms: []
-family: ["bevisa"]
+family: [bevisa]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-polisen-hade-for-lite-bevis
@@ -24,6 +24,9 @@ interval: 0
 # bevis — substantiv
 
 📖 中文：证据 · English: evidence, proof
+
+🇸🇪 Förklaring: något som visar att något är sant
+
 发音提示：be-VIS
 
 ## 语法变形 (Forms)
@@ -53,7 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bevisa (动词: 证明)
+- 词族: [[bevisa]] (动词: 证明)
+- 同义词: [[belägg]] (证据)
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

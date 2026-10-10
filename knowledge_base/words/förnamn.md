@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A1"
 zh: "名字（非姓）"
 en: "first name"
-synonyms: []
+synonyms: [tilltalsnamn]
 antonyms: [efternamn]
 family: [efternamn]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # förnamn — substantiv (ett)
 
 📖 中文：名字（非姓） · English: first name
+
+🇸🇪 Förklaring: det personliga namnet som står före släktnamnet, till exempel Anna eller Erik
+
 发音提示：[ˈfœːrˌnamn]，för-（前）+ namn（名），重音在 för-。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[efternamn]] · namn
-- 同义词: tilltalsnamn（日常叫的那个名）
+- 同义词: [[tilltalsnamn]]（日常叫的那个名）
 - 反义词: [[efternamn]]（姓）
 - 主题: [[topic-förskola-vardag]]
 

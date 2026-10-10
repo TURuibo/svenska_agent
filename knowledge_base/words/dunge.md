@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 树丛
 en: grove, copse
-synonyms: []
+synonyms: [lund]
 antonyms: []
-family: []
+family: [björkdunge]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # dunge — substantiv (en-ord)
 
 📖 中文：树丛 · English: grove, copse
+
+🇸🇪 Förklaring: liten grupp träd som står tätt tillsammans
+
 发音提示：/ˈdʉŋːe/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[björkdunge]] (小桦树林)
+- 同义词: [[lund]] (小树林)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

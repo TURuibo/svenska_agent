@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "点燃；打开（灯）"
 en: "to light, to turn on"
-synonyms: []
-antonyms: []
+synonyms: [sätta-på]
+antonyms: [släcka]
 family: [ljus]
 topics: []
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tända — verb
 
 📖 中文：点燃；打开（灯） · English: to light, to turn on
+
+🇸🇪 Förklaring: få något att börja brinna; sätta på en lampa
+
 发音提示：[ˈtɛnːda] 短 ä + 长 n；第 2a 组：tänder / tände / tänt。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ljus]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[sätta-på|sätta på]] (打开)
+- 反义词: [[släcka]] (熄灭；关灯)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

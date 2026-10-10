@@ -5,7 +5,7 @@ ordklass: adverb
 cefr: A2
 zh: 已到达
 en: there, arrived
-synonyms: []
+synonyms: [på-plats]
 antonyms: []
 family: [fram]
 topics: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # framme — adverb
 
 📖 中文：已经到达（目的地） · English: there, at the destination
+
+🇸🇪 Förklaring: på den plats dit man var på väg, vid målet
+
+发音提示：/ˈframːɛ/ — a 短音，m 读长，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -40,8 +44,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fram]]
-- 同义词:
-- 反义词:
+- 同义词: [[på-plats|på plats]] (到位)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

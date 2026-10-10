@@ -19,6 +19,10 @@ created: "2026-10-05"
 
 📖 中文：蓝莓 · English: blueberry
 
+🇸🇪 Förklaring: litet runt bär med mörk färg som växer på låga buskar i skogen
+
+发音提示：/ˈbloːˌbæːr/ — 重音在 blå，å 读 oː，ä 在 r 前读 æ
+
 ## 语法变形 (Forms)
 
 | | Singular | Plural |
@@ -34,6 +38,9 @@ created: "2026-10-05"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[lingon]]
+- 同义词: —
+- 反义词: —
 - 相关: [[lingon]]
 - 主题: [[topic-natur-skog]]
 - 主题: [[topic-mat-dryck]]

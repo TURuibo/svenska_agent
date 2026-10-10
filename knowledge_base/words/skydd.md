@@ -6,9 +6,9 @@ genus: "ett"
 cefr: B1
 zh: 保护；掩蔽处
 en: protection; shelter
-synonyms: []
+synonyms: [försvar, tillflykt]
 antonyms: []
-family: []
+family: [skydda, skyddsrum, skyddsutrustning, solskydd]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # skydd — substantiv (ett)
 
 📖 中文：保护；掩蔽处 · English: protection; shelter
+
+🇸🇪 Förklaring: 1) något som gör att man inte blir skadad eller utsatt för fara; 2) plats där man kan söka sig undan regn eller fara
+
 发音提示：/ɧʏd/
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[skydda]] (保护), [[skyddsrum]] (防空洞), [[skyddsutrustning]] (防护装备), [[solskydd]] (防晒)
+- 同义词: [[försvar]] (防御), [[tillflykt]] (避难所)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

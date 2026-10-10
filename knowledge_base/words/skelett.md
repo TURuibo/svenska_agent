@@ -6,7 +6,7 @@ genus: ett
 cefr: B1
 zh: 骨骼
 en: skeleton
-synonyms: []
+synonyms: [benstomme]
 antonyms: []
 family: [ben]
 topics: [topic-kropp]
@@ -22,6 +22,9 @@ interval: 0
 # skelett — substantiv (ett)
 
 📖 中文：骨骼 · English: skeleton
+
+🇸🇪 Förklaring: alla ben i kroppen som tillsammans håller upp och skyddar den
+
 发音提示：/skɛˈlɛtː/
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ben]]
-- 同义词:
-- 反义词:
+- 同义词: [[benstomme]] (骨架)
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

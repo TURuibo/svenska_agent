@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "偷窃"
 en: "theft"
-synonyms: ["inbrott"]
+synonyms: [inbrott]
 antonyms: []
-family: []
+family: [stjäla, cykelstöld, stöldskydd]
 topics: ["topic-rattsvasen"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # stöld — substantiv
 
 📖 中文：偷窃 · English: theft
-发音提示：
+
+🇸🇪 Förklaring: brott där någon tar något som tillhör en annan person
+
+发音提示：/stœld/ — ö 读短音 œ，单音节
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
+- 词族: [[stjäla]] (偷), [[cykelstöld]] (自行车失窃), [[stöldskydd]] (防盗装置)
 - 同义词: [[inbrott]]
-- 反义词: [[]]
+- 反义词: —
 - 主题: [[topic-rattsvasen]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "选举权，投票权"
 en: "right to vote, suffrage"
-synonyms: []
+synonyms: [valrätt]
 antonyms: []
-family: ["rösta", "rätt"]
+family: [rösta, rätt]
 topics: ["topic-jamstalldhet", "topic-historia", "topic-samhälle-och-politik"]
 sentences: ["sent-vilken-händelse-gjorde-att-arbetet", "sent-när-fick-kvinnor-rösta-till"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # rösträtt — substantiv
 
 📖 中文：选举权，投票权 · English: right to vote, suffrage
+
+🇸🇪 Förklaring: laglig möjlighet att vara med och välja i allmänna val
+
 发音提示：sammansatt ord "röst" (声音/票) + "rätt" (权利)
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rösta]], [[rätt]]
-- 同义词: —
+- 同义词: [[valrätt]] (选举权)
 - 反义词: —
 - 主题: [[topic-jamstalldhet]], [[topic-historia]], [[topic-samhälle-och-politik]]
 

@@ -19,6 +19,9 @@ created: "2026-09-26"
 # ledighet — substantiv (en)
 
 📖 中文：假期；休假；空闲 · English: leave; time off
+
+🇸🇪 Förklaring: tid då man är borta från arbetet, t.ex. på semester eller för att vara hemma med sitt barn
+
 发音提示：[ˈleːdɪgˌheːt]，ledig + -het（名词后缀）。
 
 ## 语法变形 (Forms)
@@ -43,6 +46,7 @@ created: "2026-09-26"
 
 - 词族: [[ledig]], [[föräldraledig]]
 - 同义词: [[semester]]（带薪年假，更具体）
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

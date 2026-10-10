@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "平静的、安静的"
 en: "calm"
-synonyms: ["tyst"]
-antonyms: ["orolig", "nervös"]
-family: ["lugna", "lugnt"]
+synonyms: [tyst]
+antonyms: [orolig, nervös]
+family: [lugna, lugnt]
 topics: ["topic-djur", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lugn — adjektiv
 
 📖 中文：平静的、安静的 · English: calm
+
+🇸🇪 Förklaring: som inte är orolig eller stressad; där det är stilla och tyst
+
 发音提示：/lɵŋːn/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lugna]] (使平静)
+- 词族: [[lugna]] (使平静), [[lugnt]]
 - 同义词: [[tyst]]
 - 反义词: [[orolig]], [[nervös]]
 - 主题: [[topic-djur]], [[topic-karaktarsord]]

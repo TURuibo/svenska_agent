@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "电动滑板车"
 en: "electric scooter"
-synonyms: []
+synonyms: [elsparkis]
 antonyms: []
-family: ["trimma", "laglig"]
+family: [trimma, laglig]
 topics: ["topic-trafik-säkerhet"]
 sentences: ["sent-elsparkcyklarna-blir-allt-vanligare-sverige", "sent-elsparkcykel-går-fortare-än-20", "sent-föräldrar-ansvar-se-barnen-kör"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # elsparkcykel — substantiv (en)
 
 📖 中文：电动滑板车 · English: electric scooter
+
+🇸🇪 Förklaring: liten tvåhjulig farkost med motor som man står på och styr med ett styre
+
 发音提示：EL-spark-sy-kel；重音在第一音节
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[trimma]], [[laglig]] (合法的)
+- 同义词: [[elsparkis]] (电动滑板车（口语）)
+- 反义词: —
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

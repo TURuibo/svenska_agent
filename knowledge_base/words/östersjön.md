@@ -9,7 +9,7 @@ zh: 波罗的海
 en: the Baltic Sea
 synonyms: []
 antonyms: []
-family: []
+family: [öster, sjö]
 topics: ["topic-miljö-och-klimat"]
 sentences:
   - sent-nu-blommar-algerna-i-nastan-hela
@@ -24,6 +24,9 @@ interval: 0
 # Östersjön — substantiv (egennamn)
 
 📖 中文：波罗的海 · English: the Baltic Sea
+
+🇸🇪 Förklaring: innanhav mellan Sverige, Finland, de baltiska länderna, Polen och Tyskland
+
 发音提示：ÖS-ter-sjön
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[öster]] (东边), [[sjö]] (湖)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

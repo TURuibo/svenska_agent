@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "教室"
 en: "classroom"
-synonyms: []
+synonyms: [lektionssal, sal]
 antonyms: []
-family: ["klass", "rum"]
+family: [klass, rum]
 topics: ["topic-skola-och-utbildning"]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # klassrum — substantiv (ett)
 
 📖 中文：教室 · English: classroom
+
+🇸🇪 Förklaring: rum i en skola där eleverna har lektioner
+
 发音提示：KLASS-rum
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klass]], [[rum]]
+- 同义词: [[lektionssal]] (教室), [[sal]] (教室；大厅)
+- 反义词: —
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

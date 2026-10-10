@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "绵羊养殖，养羊业"
 en: "sheep farming, sheep husbandry"
-synonyms: []
+synonyms: [fåruppfödning]
 antonyms: []
-family: ["får", "sköta", "skötsel", "jordbruk"]
+family: [får, sköta, skötsel, jordbruk]
 topics: ["topic-geografi-natur"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fårskötsel — substantiv (en)
 
 📖 中文：绵羊养殖，养羊业 · English: sheep farming, sheep husbandry
+
+🇸🇪 Förklaring: det att föda upp och ta hand om får för deras ull och kött
+
 发音提示：[ˈfoːrˌʃøːtsɛl]
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[får]], [[sköta]], [[skötsel]], [[jordbruk]]
+- 同义词: [[fåruppfödning]] (养羊)
+- 反义词: —
 - 主题: [[topic-geografi-natur]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "钱包"
 en: "wallet / purse"
-synonyms: []
+synonyms: [väska]
 antonyms: []
-family: [plånböcker]
+family: [plånböcker, handväska]
 topics:
   - topic-vardagsrutin
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # plånbok — substantiv (en)
 
 📖 中文：钱包 · English: wallet / purse
+
+🇸🇪 Förklaring: litet fodral av läder eller tyg där man har pengar och kort
+
 发音提示：PLÅN-bok；两音节，重音在首音节。
 
 ## 语法变形 (Forms)

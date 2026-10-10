@@ -5,8 +5,8 @@ ordklass: preposition
 cefr: B1
 zh: 根据；按照
 en: according to
-synonyms: []
-antonyms: []
+synonyms: [i-enlighet-med]
+antonyms: [i-strid-med]
 family: []
 topics: []
 sentences: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # enligt — preposition
 
 📖 中文：根据，按照 · English: according to
+
+🇸🇪 Förklaring: används för att visa vem som säger något eller vilken regel något följer
+
 发音提示：/ˈeːnliːt/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: —
+- 同义词: [[i-enlighet-med|i enlighet med]] (依照)
+- 反义词: [[i-strid-med|i strid med]] (违反)
 - 主题:
 
 ## 用法提示 (Usage Notes)

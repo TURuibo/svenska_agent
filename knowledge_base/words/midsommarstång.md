@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "仲夏柱"
 en: "maypole (Midsummer pole)"
-synonyms: []
+synonyms: [majstång]
 antonyms: []
-family: ["midsommar", "midsommarafton"]
+family: [midsommar, midsommarafton]
 topics: ["topic-midsommar-traditioner"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # midsommarstång — substantiv (en)
 
 📖 中文：仲夏柱 · English: maypole (Midsummer pole)
+
+🇸🇪 Förklaring: hög påle klädd med björklöv och blommor som man dansar runt i juni
+
 发音提示：mid-som-mar-stång
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[midsommar]], [[midsommarafton]]
-- 同义词:
-- 反义词:
+- 同义词: [[majstång]] (五月柱)
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]]
 
 ## 用法提示 (Usage Notes)

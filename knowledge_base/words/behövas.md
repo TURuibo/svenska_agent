@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "被需要；有必要"
 en: "to be needed; to be necessary"
-synonyms: []
+synonyms: [krävas]
 antonyms: []
-family: [behöva]
+family: [behöva, behov, onödig]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # behövas — verb (s-verb，grupp 2)
 
 📖 中文：被需要；有必要 · English: to be needed; to be necessary
+
+🇸🇪 Förklaring: vara nödvändig för att något ska fungera eller bli gjort
+
 发音提示：be-HÖ-vas，重音在第二音节 `hö`（`ö` 读 [øː]）。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[behöva]]（需要）、`behov`（需求）、`onödig`（不必要的）
-- 同义词: —（近义 `krävas`）
+- 词族: [[behöva]]（需要）, [[behov]]（需求）, [[onödig]]（不必要的）
+- 同义词: —（近义 [[krävas]]）
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]
 

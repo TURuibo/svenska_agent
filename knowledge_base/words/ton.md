@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "语气、音调"
 en: "tone"
-synonyms: ["röst"]
+synonyms: [röst]
 antonyms: []
-family: []
+family: [tonfall, tonläge, betona]
 topics: [topic-sociala-normer]
 sentences: ["sent-i-sverige-väntar-man-oftast-på"]
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # ton — substantiv
 
 📖 中文：语气、音调 · English: tone
+
+🇸🇪 Förklaring: sätt att tala som visar vad man känner eller menar; ett visst ljud i musik
+
+发音提示：/toːn/ — o 读长音 oː（不读 uː）
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
+- 词族: [[tonfall]] (语调), [[tonläge]] (音高), [[betona]] (强调)
 - 同义词: [[röst]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

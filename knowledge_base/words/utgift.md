@@ -9,7 +9,7 @@ zh: "支出；开销"
 en: "expense; expenditure"
 synonyms: [kostnad]
 antonyms: [inkomst]
-family: []
+family: [utge, utgå]
 topics: [topic-ekonomi-och-bidrag, topic-betalning]
 sentences: [sent-försörjningsstöd-är-pengar-för-dina-vanliga]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # utgift — substantiv (en)
 
 📖 中文：支出；开销 · English: expense; expenditure
+
+🇸🇪 Förklaring: pengar som man måste betala för något
+
 发音提示：UT-gift，重音在第一音节 `ut`；`gi` 中的 `g` 读 /j/：[ˈʉːtjɪft]。
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `utge`（支付；出版）、`utgå`
+- 词族: [[utge]]（支付；出版）, [[utgå]]
 - 同义词: [[kostnad]]（费用；成本，见用法提示）
 - 反义词: [[inkomst]]（收入）
 - 主题: [[topic-ekonomi-och-bidrag]] · [[topic-betalning]]

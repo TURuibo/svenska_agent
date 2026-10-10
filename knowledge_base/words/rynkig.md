@@ -7,8 +7,8 @@ genus: ""
 cefr: "B2"
 zh: "起皱的；多皱纹的"
 en: "wrinkled"
-synonyms: []
-antonyms: []
+synonyms: [skrynklig, fårad]
+antonyms: [len]
 family: [rynka]
 topics: [topic-kropp]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-10-05"
 # rynkig — adjektiv
 
 📖 中文：起皱的；多皱纹的 · English: wrinkled
+
+🇸🇪 Förklaring: som har många små veck, till exempel i huden
+
 发音提示：/ˈrʏŋkɪg/；ynk 读 /ʏŋk/。
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[rynka]] 皱纹 / 皱眉 (名词、动词)
-- 同义词: —
+- 同义词: [[skrynklig]] (皱巴巴的), [[fårad]] (有皱纹的)
 - 反义词: [[len]]（光滑的）
 - 主题: [[topic-kropp]]
 

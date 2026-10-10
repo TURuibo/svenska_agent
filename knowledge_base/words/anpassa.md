@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "调整、使适应"
 en: "to adapt"
-synonyms: []
+synonyms: [justera, ställa-om]
 antonyms: []
-family: ["anpassning", "passa"]
+family: [anpassning, passa]
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # anpassa — verb
 
 📖 中文：调整、使适应 · English: to adapt
+
+🇸🇪 Förklaring: ändra något så att det passar en viss situation; ändra sitt sätt att vara för att passa in
+
 发音提示：an-PAS-sa
 
 ## 语法变形 (Forms)
@@ -40,6 +43,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[anpassning]]（调整，名词）, [[passa]]（合适，动词）
+- 同义词: [[justera]] (调整), [[ställa-om|ställa om]] (转变；调整)
+- 反义词: —
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

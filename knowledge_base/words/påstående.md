@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "说法、断言"
 en: "statement/claim"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [uttalande, utsaga]
+antonyms: [förnekande]
+family: [påstå, påstådd]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # påstående — substantiv
 
 📖 中文：说法、断言 · English: statement/claim
+
+🇸🇪 Förklaring: något som någon säger är sant, men som inte alltid är bevisat
+
 发音提示：på-STÅ-en-de
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[påstå]] (声称), [[påstådd]] (所谓的)
+- 同义词: [[uttalande]] (表态), [[utsaga]] (陈述)
+- 反义词: [[förnekande]] (否认)
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

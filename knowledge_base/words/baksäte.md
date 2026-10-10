@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "后座"
 en: "back seat"
 synonyms: []
-antonyms: ["framsäte"]
-family: ["säte"]
+antonyms: [framsäte]
+family: [säte]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # baksäte — substantiv (ett)
 
 📖 中文：后座 · English: back seat
+
+🇸🇪 Förklaring: säte längst bak i en bil
+
 发音提示：BAK-sä-te
 
 ## 语法变形 (Forms)
@@ -44,6 +47,7 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[säte]]（座位）
+- 同义词: —
 - 反义词: [[framsäte]]（前座）
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "鳄鱼"
 en: "crocodile"
-synonyms: ["alligator"]
+synonyms: [alligator]
 antonyms: []
-family: []
+family: [krokodiltårar]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # krokodil — substantiv (en)
 
 📖 中文：鳄鱼 · English: crocodile
+
+🇸🇪 Förklaring: stort kräldjur med lång käft och vassa tänder som lever i varma länder
+
 发音提示：/ˈkroːkɔˌdiːl/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[krokodiltårar]] (鳄鱼的眼泪)
 - 同义词: [[alligator]]
 - 反义词: —
 - 主题: [[topic-djur]]

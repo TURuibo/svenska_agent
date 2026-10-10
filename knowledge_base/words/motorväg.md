@@ -8,7 +8,7 @@ zh: 高速公路
 en: highway, motorway
 synonyms: []
 antonyms: []
-family: ["väg"]
+family: [väg]
 topics: ["topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # motorväg — substantiv (en)
 
 📖 中文：高速公路 · English: highway, motorway
+
+🇸🇪 Förklaring: bred väg för snabb biltrafik där körbanorna åt olika håll är skilda åt
+
 发音提示：MO-tor-väg
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[väg]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-trafik]]
 
 ## 用法提示 (Usage Notes)

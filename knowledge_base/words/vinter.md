@@ -8,8 +8,8 @@ cefr: A1
 zh: "冬天；冬季"
 en: "winter"
 synonyms: []
-antonyms: ["sommar"]
-family: ["vintrig"]
+antonyms: [sommar]
+family: [vintrig]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-pa-vintern-ar-det-morkt-och-kallt
@@ -24,6 +24,9 @@ interval: 0
 # vinter — substantiv (en)
 
 📖 中文：冬天；冬季 · English: winter
+
+🇸🇪 Förklaring: den kallaste årstiden, mellan hösten och våren
+
 发音提示：/ˈvɪnter/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vintrig]]
+- 同义词: —
 - 反义词: [[sommar]]
 - 主题: [[topic-vader-och-arstider]]
 

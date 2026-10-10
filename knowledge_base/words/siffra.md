@@ -6,9 +6,9 @@ genus: "en"
 cefr: A2
 zh: 数字；数据
 en: figure; digit
-synonyms: []
+synonyms: [tal, nummer]
 antonyms: []
-family: []
+family: [sifferkod, ensiffrig, tvåsiffrig]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # siffra — substantiv (en)
 
 📖 中文：数字；数据 · English: figure; digit
+
+🇸🇪 Förklaring: tecken som man skriver tal med, t.ex. 0 till 9; tal som visar hur mycket eller hur många
+
 发音提示：/ˈsɪfra/
 
 ## 语法变形 (Forms)
@@ -37,9 +40,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: 
+- 词族: [[sifferkod]] (数字密码), [[ensiffrig]] (一位数的), [[tvåsiffrig]] (两位数的)
+- 同义词: [[tal]] (数), [[nummer]] (号码)
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

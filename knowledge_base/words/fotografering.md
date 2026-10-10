@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "拍照（集体照）"
 en: "photo session"
-synonyms: []
+synonyms: [fotosession]
 antonyms: []
 family: [foto]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # fotografering — substantiv (en)
 
 📖 中文：拍照（集体照） · English: photo session
+
+🇸🇪 Förklaring: tillfälle då en fotograf tar bilder, till exempel av en hel skolklass
+
 发音提示：/fʊtʊɡraˈfeːrɪŋ/；重音在 -**fe**-，-ing 名词均为 en-词。
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[foto]]
+- 同义词: [[fotosession]] (拍摄活动)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

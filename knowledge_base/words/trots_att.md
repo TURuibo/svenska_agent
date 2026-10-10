@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "尽管"
 en: "although, even though"
-synonyms: [även om, fastän]
-antonyms: [eftersom, för att]
-family: [trots, trotsa]
+synonyms: [fastän, även-om]
+antonyms: [eftersom, för-att]
+family: [trotsa, trots]
 topics: []
 sentences: [sent-fick-fotbollsskor-trots-mamma]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # trots att — konjunktion (bisatsinledare)
 
 📖 中文：尽管 · English: although, even though
+
+🇸🇪 Förklaring: inleder en bisats som säger något som borde ha hindrat det som ändå händer
+
 发音提示：/trɔts at/；两个词连读。
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[trotsa]] (v. 违抗/对抗), [[trots]] (prep./subst. 尽管/倔强)
-- 同义词: [[fastän]] (尽管), [[även om]] (即使)
-- 反义词: [[eftersom]] (因为), [[för att]] (为了)
+- 同义词: [[fastän]] (尽管), [[även-om|även om]] (即使)
+- 反义词: [[eftersom]] (因为), [[för-att|för att]] (为了)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

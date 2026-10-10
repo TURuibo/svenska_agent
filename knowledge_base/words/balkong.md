@@ -9,7 +9,7 @@ zh: 阳台
 en: balcony
 synonyms: []
 antonyms: []
-family: []
+family: [balkongdörr, balkonglåda]
 topics: [topic-hemmet]
 sentences: [sent-pa-morgonen-lagade-jag-frukost-och-drack]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # balkong — substantiv
 
 📖 中文：阳台 · English: balcony
+
+🇸🇪 Förklaring: liten plattform med räcke utanför en lägenhet, en bit upp från marken
+
 发音提示：/balˈkɔŋ/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[balkongdörr]] (阳台门), [[balkonglåda]] (阳台花箱)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

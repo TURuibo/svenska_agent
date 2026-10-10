@@ -7,7 +7,7 @@ genus: "en"
 cefr: "B1"
 zh: "相似之处"
 en: "similarity"
-synonyms: []
+synonyms: [överensstämmelse]
 antonyms: [skillnad]
 family: [lika]
 topics: [topic-argumentation]
@@ -19,6 +19,10 @@ created: 2026-10-09
 # likhet — substantiv en
 
 📖 中文：相似之处 · English: similarity
+
+🇸🇪 Förklaring: det som två saker eller personer har gemensamt
+
+发音提示：/ˈliːkˌheːt/ — i 读长音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -41,7 +45,7 @@ created: 2026-10-09
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lika]]
-- 同义词: —
+- 同义词: [[överensstämmelse]] (一致性)
 - 反义词: [[skillnad]]
 - 主题: [[topic-argumentation]]
 

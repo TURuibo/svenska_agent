@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "固执的"
 en: "stubborn"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [hårdnackad]
+antonyms: [flexibel]
+family: [envishet, envisas]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # envis — adjektiv
 
 📖 中文：固执的 · English: stubborn
+
+🇸🇪 Förklaring: som inte vill ändra sig eller ge upp, även när andra tycker att man borde
+
 发音提示：/ˈɛnˌviːs/
 
 ## 语法变形 (Forms)

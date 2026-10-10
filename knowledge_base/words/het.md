@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "热的、烫的、辣的"
 en: "hot (temp), spicy"
-synonyms: ["varm"]
-antonyms: ["kall"]
-family: []
+synonyms: [varm]
+antonyms: [kall]
+family: [hetta]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # het — adjektiv
 
 📖 中文：热的、烫的、辣的 · English: hot (temperature), spicy
+
+🇸🇪 Förklaring: som har mycket hög temperatur; som är mycket stark i smaken, till exempel av chili
+
 发音提示：[heːt]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: hetta (高热/酷热 n), hetta (变得极热 v)
+- 词族: [[hetta]] (高热/酷热 n)
 - 同义词: [[varm]]（更温和的"热/温暖"）
 - 反义词: [[kall]]
 - 主题: [[topic-mat-dryck]]

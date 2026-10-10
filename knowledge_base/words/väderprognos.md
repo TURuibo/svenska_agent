@@ -8,7 +8,7 @@ zh: "天气预报"
 en: "weather forecast"
 synonyms: [prognos]
 antonyms: []
-family: [prognos]
+family: [väder, prognos]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # väderprognos — substantiv (en)
 
 📖 中文：天气预报 · English: weather forecast
+
+🇸🇪 Förklaring: beskrivning av hur vädret troligen blir de närmaste dagarna
+
 发音提示：VÄ-der-prog-nos（重音在第一音节）
 
 ## 语法变形 (Forms)

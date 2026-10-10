@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 坏的；损坏的；破损的
 en: broken, out of order
-synonyms: []
-antonyms: []
-family: ["trasa"]
+synonyms: [bruten]
+antonyms: [hel]
+family: [trasa]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # trasig — adjektiv
 
 📖 中文：坏的；损坏的；破损的 · English: broken, out of order
+
+🇸🇪 Förklaring: som inte fungerar eller har gått sönder
+
 发音提示：/ˈtraːsɪɡ/
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: trasa (破布，碎片)
+- 词族: [[trasa]] (破布，碎片)
 - 同义词: [[bruten]]
-- 反义词: —
+- 反义词: [[hel]] (完好的)
 - 主题: [[topic-stadsmiljo]], [[topic-trafik]]
 
 ## 用法提示 (Usage Notes)

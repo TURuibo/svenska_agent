@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "燃料"
 en: "fuel"
-synonyms: []
+synonyms: [drivmedel]
 antonyms: []
-family: ["bränna"]
+family: [bränna, brand]
 topics: ["topic-energi-och-transport"]
 sentences: ["sent-ryssland-ar-det-brist-pa-bransle", "sent-bristen-beror-bland-annat-pa-ukrainas"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bränsle — substantiv (ett)
 
 📖 中文：燃料 · English: fuel
+
+🇸🇪 Förklaring: något som man bränner för att få energi, värme eller kraft, till exempel bensin eller ved
+
 发音提示：[ˈbrɛnslɛ] — 重音在第一音节，注意 ä 发音
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bränna (verb — 燃烧), brand (en — 火灾)
-- 同义词: —
+- 词族: [[bränna]] (verb — 燃烧), [[brand]] (en — 火灾)
+- 同义词: [[drivmedel]] (动力燃料)
 - 反义词: —
 - 主题: [[topic-energi-och-transport]]
 

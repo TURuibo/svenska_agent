@@ -7,10 +7,9 @@ genus: ""
 cefr: A2
 zh: "扎营/露营"
 en: "to camp (in a tent)"
-synonyms:
-  - "[[campa]]"
+synonyms: [campa]
 antonyms: []
-family: []
+family: [tält]
 topics:
   - "[[topic-allemansratten]]"
   - "[[topic-fritid-och-resor]]"
@@ -27,6 +26,9 @@ interval: 0
 # tälta — verb
 
 📖 中文：扎营/露营 · English: to camp (in a tent)
+
+🇸🇪 Förklaring: sova ute i naturen under ett tak av tyg som man sätter upp själv
+
 发音提示：/ˈtɛltɑ/；ä 发 [ɛ]，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -56,7 +58,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tält（帐篷，ett tält）
+- 词族: [[tält]]（帐篷，ett tält）
 - 同义词: [[campa]]（口语，更常用"tälta"）
 - 反义词: —
 - 主题: [[topic-allemansratten]]、[[topic-fritid-och-resor]]

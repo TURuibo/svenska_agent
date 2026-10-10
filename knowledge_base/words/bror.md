@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "哥哥、弟弟"
 en: "brother"
-synonyms: []
-antonyms: ["syster"]
-family: ["syskon"]
+synonyms: [broder, brorsa]
+antonyms: [syster]
+family: [syskon]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bror — substantiv (en)
 
 📖 中文：哥哥、弟弟 · English: brother
+
+🇸🇪 Förklaring: pojke eller man som har samma föräldrar som man själv
+
 发音提示：/bruːr/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[syskon]]
+- 同义词: [[broder]] (兄弟（正式）), [[brorsa]] (兄弟（口语）)
 - 反义词: [[syster]]
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]
 

@@ -7,7 +7,7 @@ zh: 地理的
 en: geographical
 synonyms: []
 antonyms: []
-family: []
+family: [geografi]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # geografisk — adjektiv
 
 📖 中文：地理的 · English: geographical
+
+🇸🇪 Förklaring: som har med jordens länder, landskap och platser att göra
+
+发音提示：/jeʊˈɡrɑːfɪsk/ — g 在 e 前读 j；重音在 gra
 
 ## 语法变形 (Forms)
 
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: geografi
-- 同义词:
-- 反义词:
+- 词族: [[geografi]]
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

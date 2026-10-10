@@ -6,8 +6,8 @@ verbgrupp: "4"
 cefr: B1
 zh: 捆；系；连接
 en: to bind, to tie, to connect
-synonyms: []
-antonyms: []
+synonyms: [knyta, fästa]
+antonyms: [lossa]
 family: [band]
 topics: []
 sentences: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # binda — verb (grupp 4)
 
 📖 中文：捆，系，把……连在一起 · English: to bind, tie
+
+🇸🇪 Förklaring: sätta fast eller knyta ihop något med ett snöre eller rep; koppla ihop
+
 发音提示：/ˈbɪnda/
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[band]]
-- 同义词:
-- 反义词:
+- 同义词: [[knyta]] (系), [[fästa]] (固定)
+- 反义词: [[lossa]] (解开)
 - 主题:
 
 ## 用法提示 (Usage Notes)

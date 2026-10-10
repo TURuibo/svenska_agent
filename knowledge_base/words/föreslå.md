@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "建议；提议；提出（方案）"
 en: "to propose; to suggest"
-synonyms: []
-antonyms: []
-family: [förslag]
+synonyms: [rekommendera, tipsa]
+antonyms: [avslå]
+family: [förslag, förslå]
 topics: [topic-argumentation]
 sentences: [sent-jag-föreslår-att-kommunen-öppnar-en-ny]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # föreslå — verb (grupp 4, 不规则强变化)
 
 📖 中文：建议；提议；提出（方案） · English: to propose; to suggest
+
+🇸🇪 Förklaring: säga eller skriva vad man tycker att någon ska göra eller hur något kan lösas
+
 发音提示：fö-re-SLÅ，重音在最后一个音节 `slå`。
 
 ## 语法变形 (Forms)
@@ -51,9 +54,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[förslag]]（名词：提议）；`förslå`（足够，另一个词，别混）
-- 同义词: 近义 `rekommendera`（推荐，更偏"我觉得好"）、`tipsa`（口语：给提示）
-- 反义词: —（近义对立：`avslå` 否决）
+- 词族: [[förslag]]（名词：提议）, [[förslå]]（足够，另一个词，别混）
+- 同义词: 近义 [[rekommendera]]（推荐，更偏"我觉得好"）, [[tipsa]]（口语：给提示）
+- 反义词: —（近义对立：[[avslå]] 否决）
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "助学金"
 en: "student aid"
 synonyms: [studielån]
 antonyms: []
-family: [bidrag, lån]
+family: [studie, bidrag, lån, csn]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # studiemedel — substantiv (ett)
 
 📖 中文：助学金 · English: student aid
+
+🇸🇪 Förklaring: pengar från CSN, i form av bidrag och lån, som man kan få när man läser på komvux, högskola eller universitet
+
 发音提示：STU-die-me-del，四个音节。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[studie]] (en, 学习/研究), [[bidrag]] (ett, 补贴), [[lån]] (ett, 贷款), [[CSN]] (助学金机构)
+- 词族: [[studie]] (en, 学习/研究), [[bidrag]] (ett, 补贴), [[lån]] (ett, 贷款), [[csn|CSN]] (助学金机构)
 - 同义词: [[studielån]] (ett, 助学贷款，指贷款部分)
 - 反义词: —
 - 主题: [[topic-nyheter-vecka22]], [[topic-skola-och-utbildning]]

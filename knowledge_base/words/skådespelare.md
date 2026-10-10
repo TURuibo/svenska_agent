@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "演员"
 en: "actor, actress"
-synonyms: []
+synonyms: [aktör]
 antonyms: []
 family: [skådespel, spela, teater]
 topics: [topic-yrken]
@@ -24,6 +24,9 @@ interval: 0
 # skådespelare — substantiv (en)
 
 📖 中文：演员 · English: actor, actress
+
+🇸🇪 Förklaring: person som har en roll och låtsas vara någon annan i film, på teater eller i tv
+
 发音提示：/ˈskɔːdəˌspɛːlarə/；复合词 skåde（观看/舞台）+ spelare（演奏者）。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: skådespel（戏剧）, spela（玩/表演）
+- 词族: [[skådespel]]（戏剧）, [[spela]]（玩/表演）, [[teater]]
+- 同义词: [[aktör]] (演员)
+- 反义词: —
 - 主题: [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

@@ -23,6 +23,9 @@ interval: 0
 # studentmössa — substantiv (en)
 
 📖 中文：毕业帽 · English: graduation cap
+
+🇸🇪 Förklaring: vit huvudbonad med svart skärm som man bär den dag man slutar gymnasiet
+
 发音提示：stu-dent-MÖS-sa，四音节，重音在第三音节。
 
 ## 语法变形 (Forms)

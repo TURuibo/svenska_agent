@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A2
 zh: "恨 / 讨厌"
 en: "to hate"
-synonyms: []
-antonyms: ["älska"]
-family: []
+synonyms: [avsky, tycka-illa-om]
+antonyms: [älska]
+family: [hat, hatisk, näthat]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hata — verb
 
 📖 中文：恨 / 讨厌 · English: to hate
+
+🇸🇪 Förklaring: känna mycket stark motvilja mot någon eller något
+
 发音提示：['hɑːta]
 
 ## 语法变形 (Forms)
@@ -47,8 +50,8 @@ Verbgrupp 1 (–ar). Regelbundet.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[hat]] (仇恨), [[hatisk]] (充满仇恨的), [[näthat]] (网络仇恨)
+- 同义词: [[avsky]] (厌恶), [[tycka-illa-om|tycka illa om]] (不喜欢)
 - 反义词: [[älska]]
 - 主题: —
 

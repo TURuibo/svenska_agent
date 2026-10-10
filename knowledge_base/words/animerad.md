@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "动画的"
 en: "animated"
-synonyms: []
+synonyms: [tecknad]
 antonyms: []
-family: ["film"]
+family: [film]
 topics: ["topic-film"]
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # animerad — adjektiv
 
 📖 中文：动画的 · English: animated
+
+🇸🇪 Förklaring: som är gjord av tecknade eller datorgjorda bilder som ser ut att röra sig
+
 发音提示：a-ni-me-rad
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[film]]
-- 同义词:
-- 反义词:
+- 同义词: [[tecknad]] (卡通的)
+- 反义词: —
 - 主题: [[topic-film]]
 
 ## 用法提示 (Usage Notes)

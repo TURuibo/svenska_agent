@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "应聘者；求职者"
 en: "applicant"
-synonyms: ["kandidat"]
+synonyms: [kandidat]
 antonyms: []
-family: ["söka"]
+family: [söka]
 topics: ["topic-arbete"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sökande — substantiv (en)
 
 📖 中文：应聘者；求职者 · English: applicant
+
+🇸🇪 Förklaring: person som vill få ett jobb eller en plats och har anmält sig för det
+
 发音提示：/sö-kan-de/
 
 ## 语法变形 (Forms)
@@ -51,6 +54,7 @@ interval: 0
 
 - 词族: [[söka]]
 - 同义词: [[kandidat]]
+- 反义词: —
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A1"
 zh: "拼图"
 en: "jigsaw puzzle"
-synonyms: []
+synonyms: [läggspel]
 antonyms: []
 family: [leksak]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # pussel — substantiv (ett)
 
 📖 中文：拼图 · English: jigsaw puzzle
+
+🇸🇪 Förklaring: spel där man lägger ihop många små bitar så att de bildar en bild
+
 发音提示：/ˈpɵsːɛl/ — u 短 /ɵ/，ss 长，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[leksak]]
+- 同义词: [[läggspel]] (拼图)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

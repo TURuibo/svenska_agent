@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "供养；养活"
 en: "to support; to provide for"
-synonyms: []
+synonyms: [livnära-sig-på]
 antonyms: []
-family: [försörjning, försörjningsstöd]
+family: [försörjning, försörjningsstöd, försörjare]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-du-kan-få-ekonomiskt-bistånd-om-du-inte]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # försörja — verb (grupp 2)
 
 📖 中文：供养；养活 · English: to support; to provide for
+
+🇸🇪 Förklaring: ge någon pengar, mat och det man behöver för att leva
+
 发音提示：för-SÖR-ja，重音在第二音节 `sör`；`rj` 连读，`j` 轻。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[försörjning]]（名词：生计；供养）、[[försörjningsstöd]]（生活费补助）、`försörjare`（养家的人）
+- 词族: [[försörjning]]（名词：生计；供养）, [[försörjningsstöd]]（生活费补助）, [[försörjare]]（养家的人）
 - 同义词: —（近义 `livnära sig på` → [[livnära-sig-på]]）
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]

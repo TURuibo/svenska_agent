@@ -19,6 +19,9 @@ created: "2026-09-26"
 # namnsång — substantiv (en)
 
 📖 中文：点名歌 · English: name song (sung at circle time)
+
+🇸🇪 Förklaring: visa i förskolan där barnen samlas och varje barn får höra sitt namn sjungas
+
 发音提示：namn-sång，重音在 **namn**；*namn* 的 mn 两个鼻音都发，*sång* 的 ng 读 /ŋ/。复合词 namn + sång。
 
 ## 语法变形 (Forms)
@@ -40,7 +43,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sång]] · [[sjunga]] · [[sångsamling]]
+- 词族: [[sång]] · [[sjunga]] · [[sångsamling]], [[sjunga]] (唱歌), [[sångsamling]] (集体唱歌时间)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

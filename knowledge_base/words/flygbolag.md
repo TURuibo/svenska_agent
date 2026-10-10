@@ -9,7 +9,7 @@ zh: "航空公司"
 en: "airline"
 synonyms: []
 antonyms: []
-family: ["flyg", "flyga", "bolag"]
+family: [flyg, flyga, bolag]
 topics: []
 sentences:
   - sent-flygbolaget-sas-gor-en-stor-ny
@@ -24,6 +24,9 @@ interval: 0
 # flygbolag — substantiv
 
 📖 中文：航空公司 · English: airline
+
+🇸🇪 Förklaring: företag som transporterar passagerare eller varor i luften
+
 发音提示：FLYG-bo-lag
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[flyg]], [[flyga]], [[bolag]]
+- 同义词: —
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

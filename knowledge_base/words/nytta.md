@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "用处；益处"
 en: "use, benefit"
-synonyms: []
-antonyms: []
+synonyms: [fördel, användning]
+antonyms: [skada]
 family: [nyttig, nyttja]
 topics: [topic-argumentation]
 sentences: []
@@ -19,6 +19,10 @@ created: 2026-10-09
 # nytta — substantiv en
 
 📖 中文：用处；益处 · English: use, benefit
+
+🇸🇪 Förklaring: det att något är bra att ha eller hjälper till; fördel
+
+发音提示：/ˈnʏtːa/ — y 读短音；tt 读长辅音
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ created: 2026-10-09
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[nyttig]], [[nyttja]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[fördel]] (好处), [[användning]] (用途)
+- 反义词: [[skada]] (害处)
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "蜗牛、鼻涕虫"
 en: "snail / slug"
-synonyms: []
+synonyms: [snäcka]
 antonyms: []
-family: []
+family: [snigelfart, mördarsnigel]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # snigel — substantiv (en)
 
 📖 中文：蜗牛、鼻涕虫 · English: snail / slug
+
+🇸🇪 Förklaring: litet slemmigt djur utan ben som kryper långsamt, ibland med ett skal på ryggen
+
 发音提示：/ˈsniːɡɛl/
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[snigelfart]] (龟速), [[mördarsnigel]] (杀手蛞蝓)
+- 同义词: [[snäcka]] (蜗牛)
 - 反义词: —
 - 主题: [[topic-djur]]
 

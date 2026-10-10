@@ -6,7 +6,7 @@ genus: "en"
 cefr: A2
 zh: 烹饪；做饭
 en: cooking
-synonyms: []
+synonyms: [kokkonst]
 antonyms: []
 family: [mat, laga]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # matlagning — substantiv (en)
 
 📖 中文：烹饪；做饭 · English: cooking
+
+🇸🇪 Förklaring: det att göra i ordning och tillaga mat
+
+发音提示：/ˈmɑːtˌlɑːɡnɪŋ/ — 重音在 mat；两个 a 都长
 
 ## 语法变形 (Forms)
 
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mat, laga
-- 同义词:
-- 反义词:
+- 词族: [[mat]], [[laga]]
+- 同义词: [[kokkonst]] (烹饪术)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

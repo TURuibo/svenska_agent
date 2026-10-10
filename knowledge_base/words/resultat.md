@@ -6,8 +6,8 @@ genus: "ett"
 cefr: A2
 zh: 结果；成绩
 en: result
-synonyms: []
-antonyms: []
+synonyms: [utfall, följd, effekt]
+antonyms: [orsak]
 family: [valresultat]
 topics: []
 sentences: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # resultat — substantiv (ett)
 
 📖 中文：结果；成绩 · English: result
+
+🇸🇪 Förklaring: det som blir följden av en händelse eller ett arbete; poäng eller betyg i ett prov eller en tävling
+
+发音提示：/rɛsɵlˈtɑːt/ — 重音在最后音节 -tat
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: valresultat
-- 同义词:
-- 反义词:
+- 词族: [[valresultat]]
+- 同义词: [[utfall]] (结果), [[följd]] (后果), [[effekt]] (效果)
+- 反义词: [[orsak]] (原因)
 - 主题:
 
 ## 用法提示 (Usage Notes)

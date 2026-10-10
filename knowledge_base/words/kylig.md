@@ -6,7 +6,7 @@ cefr: B1
 zh: 冷淡的
 en: chilly, cool
 synonyms: [avståndstagande]
-antonyms: []
+antonyms: [varm, hjärtlig]
 family: [kyla]
 topics: [topic-sociala-normer]
 sentences: []
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # kylig — adjektiv
 
 📖 中文：冷淡的 · English: chilly, cool
+
+🇸🇪 Förklaring: 1) som är ganska kall; 2) som är ovänlig och visar lite känslor
+
 发音提示：/ˈɕyːlɪɡ/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-09-22"
 
 - 词族: [[kyla]]
 - 同义词: [[avståndstagande]]
-- 反义词:
+- 反义词: [[varm]] (温暖的), [[hjärtlig]] (热情的)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

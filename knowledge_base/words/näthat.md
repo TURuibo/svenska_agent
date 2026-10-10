@@ -6,7 +6,7 @@ genus: ett
 cefr: B1
 zh: 网络仇恨言论
 en: online hate
-synonyms: []
+synonyms: [nätmobbning]
 antonyms: []
 family: [hatstorm]
 topics: [topic-sociala-normer]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # näthat — substantiv (ett)
 
 📖 中文：网络仇恨言论 · English: online hate
+
+🇸🇪 Förklaring: elaka och hotfulla kommentarer som skickas till någon på internet
+
 发音提示：/ˈnɛːtˌhɑːt/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hatstorm]]
-- 同义词:
-- 反义词:
+- 同义词: [[nätmobbning]] (网络霸凌)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

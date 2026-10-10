@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: A1
 zh: 得到；被允许；让(某人做)
 en: to get; be allowed to; make (sb do)
-synonyms: []
-antonyms: []
-family: []
+synonyms: [erhålla, ta-emot, tillåtas]
+antonyms: [ge, förlora]
+family: [få-tag-i, få-syn-på]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # få — verb (oregelbundet)
 
 📖 中文：得到；被允许；让(某人做) · English: to get; be allowed to; make (sb do)
+
+🇸🇪 Förklaring: 1) ta emot något som någon ger en; 2) ha lov att göra något; 3) lyckas göra så att någon gör något
+
 发音提示：/foː/；fick /fɪk/；fått /fɔt/
 
 ## 语法变形 (Forms)
@@ -61,9 +64,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[få-tag-i|få tag i]] (弄到), [[få-syn-på|få syn på]] (看见)
+- 同义词: [[erhålla]] (获得（书面）), [[ta-emot|ta emot]] (收到), [[tillåtas]] (被允许)
+- 反义词: [[ge]] (给), [[förlora]] (失去)
 - 主题:
 
 ## 用法提示 (Usage Notes)

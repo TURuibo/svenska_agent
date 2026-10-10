@@ -8,7 +8,7 @@ zh: "幼儿保育员"
 en: "childcare worker, nursery nurse"
 synonyms: []
 antonyms: []
-family: []
+family: [barn]
 topics: ["topic-arbete-och-jobb"]
 sentences:
   - sent-förskolan-solgården-i-örebro-söker
@@ -24,6 +24,9 @@ interval: 0
 # barnskötare — substantiv
 
 📖 中文：幼儿保育员 · English: childcare worker, nursery nurse
+
+🇸🇪 Förklaring: person som arbetar med att ta hand om barn, till exempel på en förskola
+
 发音提示：BARN-shkö-ta-re（四音节，stress 在第一音节）
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: barn (child) + skötare (caretaker)
+- 词族: [[barn]] (child) + skötare (caretaker)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

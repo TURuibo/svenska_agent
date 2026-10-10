@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "听；问一下"
 en: "to hear; to check with"
-synonyms: []
+synonyms: [uppfatta, fråga]
 antonyms: []
 family: [höras]
 topics: [topic-förskola-vardag]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # höra — verb
 
 📖 中文：听；问一下 · English: to hear; to check with
+
+🇸🇪 Förklaring: uppfatta ljud med öronen; fråga någon om något, till exempel om en tid passar
+
 发音提示：/ˈhøːra/，ö 长音 [øː]，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[höras]] (相互听到、保持联系)
+- 同义词: [[uppfatta]] (听到；察觉), [[fråga]] (问)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

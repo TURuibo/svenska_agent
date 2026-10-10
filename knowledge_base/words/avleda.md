@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "转移注意力；引开"
 en: "to distract, divert"
-synonyms: []
+synonyms: [distrahera]
 antonyms: []
-family: []
+family: [leda, avledning, avledningsmanöver]
 topics: [topic-småbarn-känslor-och-beteende, topic-förskola-vardag]
 sentences: [sent-vi-hämtar-snuttefilten-och-avleder-henne]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # avleda — verb
 
 📖 中文：转移注意力；引开 · English: to distract, divert
+
+🇸🇪 Förklaring: få någon att tänka på eller titta på något annat; leda bort något åt ett annat håll
+
 发音提示：/ˈɑːvˌleːda/，重音在 AV-，e 长音。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[leda]] (引导), [[avledning]] (转移), [[avledningsmanöver]] (声东击西)
+- 同义词: [[distrahera]] (分散注意力)
+- 反义词: —
 - 主题: [[topic-småbarn-känslor-och-beteende]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

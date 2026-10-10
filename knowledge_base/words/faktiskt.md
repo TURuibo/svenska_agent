@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 实际上；说实话
 en: actually; in fact
-synonyms: []
+synonyms: [egentligen, verkligen]
 antonyms: []
-family: []
+family: [faktum, fakta]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # faktiskt — adverb
 
 📖 中文：实际上；说实话 · English: actually; in fact
+
+🇸🇪 Förklaring: används för att betona att något verkligen är sant, ofta när det är lite oväntat
+
 发音提示：FAK-tiskt
 
 ## 语法变形 (Forms)
@@ -41,8 +44,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: faktum (事实), fakta (事实，复数)
-- 同义词: egentligen (实际上), verkligen (真的)
+- 词族: [[faktum]] (事实), [[fakta]] (事实，复数)
+- 同义词: [[egentligen]] (实际上), [[verkligen]] (真的)
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

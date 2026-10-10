@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "失业保险基金"
 en: "unemployment insurance fund"
-synonyms: []
+synonyms: [arbetslöshetskassa]
 antonyms: []
-family: [kassa]
+family: [kassa, fackförening, ersättning]
 topics: [topic-arbete, topic-ekonomi-och-bidrag]
 sentences: [sent-du-kan-också-få-stöd-för-vissa-andra]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # a-kassa — substantiv (en)
 
 📖 中文：失业保险基金 · English: unemployment insurance fund
+
+🇸🇪 Förklaring: förkortning för arbetslöshetskassa: förening som betalar ut pengar till medlemmar som blir utan jobb
+
 发音提示：A-kas-sa，读作字母 `a`（[ɑː]）+ `kassa`。
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kassa]]（基金；收银台）、[[fackförening]]（常与 a-kassa 并列）、[[ersättning]]（补偿）
-- 同义词: —（全称 `arbetslöshetskassa`）
+- 词族: [[kassa]]（基金；收银台）, [[fackförening]]（常与 a-kassa 并列）, [[ersättning]]（补偿）
+- 同义词: —（全称 [[arbetslöshetskassa]]）
 - 反义词: —
 - 主题: [[topic-arbete]] · [[topic-ekonomi-och-bidrag]]
 

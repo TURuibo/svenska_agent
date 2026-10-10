@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "飓风"
 en: "hurricane"
-synonyms: []
+synonyms: [storm, tyfon]
 antonyms: []
-family: []
+family: [orkanstyrka]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # orkan — substantiv
 
 📖 中文：飓风 · English: hurricane
-发音提示：
+
+🇸🇪 Förklaring: mycket kraftig storm med väldigt starka vindar
+
+发音提示：/ɔrˈkɑːn/ — 重音在 kan；a 读长音
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[orkanstyrka]] (飓风级风力)
+- 同义词: [[storm]] (暴风), [[tyfon]] (台风)
+- 反义词: —
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

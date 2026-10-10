@@ -6,7 +6,7 @@ genus: ett
 cefr: B1
 zh: 决定
 en: decision
-synonyms: []
+synonyms: [avgörande]
 antonyms: []
 family: [bestämma-sig-för]
 topics: [topic-idrott]
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # beslut — substantiv (ett)
 
 📖 中文：决定 · English: decision
+
+🇸🇪 Förklaring: det man har bestämt efter att ha tänkt efter
+
 发音提示：/beˈslʉːt/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bestämma-sig-för]]
-- 同义词:
-- 反义词:
+- 同义词: [[avgörande]] (决断)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

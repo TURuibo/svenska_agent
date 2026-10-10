@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: 营养不良的
 en: malnourished; undernourished
-synonyms: []
-antonyms: ["välnärd", "välgödd"]
-family: ["näring", "närd", "under-"]
+synonyms: [utmärglad]
+antonyms: [välnärd, välgödd]
+family: [näring, närd, under-]
 topics: ["topic-hälsa"]
 sentences:
   - "sent-100-000-äldre-personer-är-undernärda"
@@ -26,6 +26,9 @@ interval: 0
 # undernärd — adjektiv
 
 📖 中文：营养不良的 · English: malnourished; undernourished
+
+🇸🇪 Förklaring: som under lång tid har fått för lite mat eller för lite näring
+
 发音提示：[ˈɵndɛrˌnæːrd] — prefix under- + närd (nourished)
 
 ## 语法变形 (Forms)
@@ -51,8 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: näring (nutrition), närd (nourished)
-- 反义词: välnärd (well-nourished)
+- 词族: [[näring]] (nutrition), [[närd]] (nourished), [[under-]]
+- 同义词: [[utmärglad]] (消瘦的)
+- 反义词: [[välnärd]] (well-nourished), [[välgödd]]
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

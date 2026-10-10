@@ -20,6 +20,10 @@ created: 2026-10-05
 
 📖 中文：原因 · English: cause; reason
 
+🇸🇪 Förklaring: det som gör att något händer
+
+发音提示：/ˈuːˌʂɑːk/ — o 读 uː；rs 合成卷舌 ʂ
+
 ## 语法变形 (Forms)
 
 | 形式 | 单数 | 复数 |

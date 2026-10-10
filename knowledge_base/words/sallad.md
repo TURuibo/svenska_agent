@@ -8,7 +8,7 @@ zh: "沙拉"
 en: "salad"
 synonyms: []
 antonyms: []
-family: []
+family: [salladsblad, salladsdressing]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sallad — substantiv (en-ord)
 
 📖 中文：沙拉 · English: salad
+
+🇸🇪 Förklaring: maträtt av kalla grönsaker, ofta med dressing; grön växt med blad som man äter rå
+
 发音提示：['salad]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: salladsblad (沙拉叶), salladsdressing (沙拉酱)
+- 词族: [[salladsblad]] (沙拉叶), [[salladsdressing]] (沙拉酱)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

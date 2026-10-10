@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "熟人"
 en: "acquaintance"
-synonyms: []
-antonyms: ["främmande"]
-family: []
+synonyms: [känning]
+antonyms: [främmande]
+family: [bekantskap, känna, bekantskapskrets]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # bekant — substantiv
 
 📖 中文：熟人 · English: acquaintance
+
+🇸🇪 Förklaring: person som man känner men inte är nära vän med
+
+发音提示：/beˈkant/ — 重音在 kant，be- 轻读
 
 ## 语法变形 (Forms)
 
@@ -43,8 +47,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
+- 词族: [[bekantskap]] (相识), [[känna]] (认识), [[bekantskapskrets]] (熟人圈)
+- 同义词: [[känning]] (熟人)
 - 反义词: [[främmande]]
 - 主题: [[topic-sociala-normer]]
 

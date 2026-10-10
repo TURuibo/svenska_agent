@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "麦片；谷物片"
 en: "cereal flakes; breakfast cereal"
-synonyms: []
+synonyms: [frukostflingor]
 antonyms: []
-family: []
+family: [flinga, snöflinga, havreflingor]
 topics:
   - topic-mat-dryck
   - topic-vardagsrutin
@@ -26,6 +26,9 @@ interval: 0
 # flingor — substantiv (en, defektiv plural)
 
 📖 中文：麦片；谷物片 · English: cereal flakes; breakfast cereal
+
+🇸🇪 Förklaring: tunna, torra bitar av majs eller säd som man äter med mjölk eller fil till frukost
+
 发音提示：FLING-or；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[flinga]] (薄片), [[snöflinga]] (雪花), [[havreflingor]] (燕麦片)
+- 同义词: [[frukostflingor]] (早餐麦片)
 - 反义词: —
 - 主题: [[topic-mat-dryck]], [[topic-vardagsrutin]]
 

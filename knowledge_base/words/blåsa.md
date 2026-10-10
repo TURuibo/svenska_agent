@@ -22,6 +22,9 @@ interval: 0
 # blåsa — verb (grupp 2a)
 
 📖 中文：刮风；吹 · English: to blow (wind); to blow
+
+🇸🇪 Förklaring: om vinden: röra sig kraftigt; släppa ut luft ur munnen, till exempel i ett instrument
+
 发音提示：BLÅ-sa（重音在第一音节）
 
 ## 语法变形 (Forms)

@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: "A2"
 zh: "折叠"
 en: "to fold"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [böja]
+antonyms: [veckla-ut]
+family: [vika-ihop, vikbar]
 topics: ["topic-hemmet"]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # vika — verb
 
 📖 中文：折叠 · English: to fold
+
+🇸🇪 Förklaring: böja papper, tyg eller liknande så att en del hamnar över en annan
+
 发音提示：VI-ka
 
 ## 语法变形 (Forms)
@@ -41,6 +44,9 @@ Starkt (oregelbundet) verb.
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[vika-ihop|vika ihop]] (折叠起来), [[vikbar]] (可折叠的)
+- 同义词: [[böja]] (弯折)
+- 反义词: [[veckla-ut|veckla ut]] (展开)
 - 主题: [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

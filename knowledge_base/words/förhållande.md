@@ -20,6 +20,10 @@ created: 2026-10-05
 
 📖 中文：关系；情况；比例 · English: relationship; circumstance; ratio
 
+🇸🇪 Förklaring: 1) relation mellan personer, till exempel ett kärleksförhållande; 2) hur något är, omständighet; 3) hur stor en sak är jämfört med en annan
+
+发音提示：/fœrˈhɔlːandɛ/ — för- 不重读，重音在 håll；å 短读 ɔ
+
 ## 语法变形 (Forms)
 
 | 形式 | 单数 | 复数 |

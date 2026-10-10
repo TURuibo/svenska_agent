@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "记忆障碍"
 en: "memory difficulty"
-synonyms: ["minnesproblem"]
+synonyms: [minnesproblem]
 antonyms: []
-family: ["minne", "svårighet"]
+family: [minnas, svårighet, minne]
 topics: ["topic-vård", "topic-hälsa"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # minnessvårighet — substantiv (en)
 
 📖 中文：记忆障碍 · English: memory difficulty
+
+🇸🇪 Förklaring: problem med att komma ihåg saker
+
 发音提示：/min-nes-svå-rig-het/
 
 ## 语法变形 (Forms)
@@ -47,8 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[minnas]], [[svårighet]]
+- 词族: [[minnas]], [[svårighet]], [[minne]]
 - 同义词: [[minnesproblem]]
+- 反义词: —
 - 主题: [[topic-vård]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

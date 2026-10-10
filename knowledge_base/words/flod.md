@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 河流
 en: river
-synonyms: []
+synonyms: [älv]
 antonyms: []
-family: []
+family: [flodhäst, flodmynning, flodvåg]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # flod — substantiv (en-ord)
 
 📖 中文：河流 · English: river
+
+🇸🇪 Förklaring: stort vattendrag som rinner mot havet eller en sjö
+
 发音提示：/fluːd/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[flodhäst]] (河马), [[flodmynning]] (河口), [[flodvåg]] (大浪；海啸)
+- 同义词: [[älv]] (大河)
+- 反义词: —
 - 同义词 (liten flod): [[bäck]]（溪流，更小）
 - 主题: [[topic-vader-och-arstider]]
 

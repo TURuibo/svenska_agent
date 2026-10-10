@@ -37,7 +37,7 @@ grammar: []
 Följande var INTE i KB sedan tidigare och skickas till sv-librarian:
 
 ### Ord (NEW)
-- sextondelsfinal | substantiv (en) | 十六强赛，1/16决赛 | round of 16
+- sextondelsfinal | substantiv (en) | 三十二强赛，1/16决赛 | round of 32
 
 ### Meningar (NEW)
 - Många hus rasade när marken skakade. | 地面震动时，许多房屋倒塌。
@@ -48,7 +48,7 @@ Följande var INTE i KB sedan tidigare och skickas till sv-librarian:
 - Sverige går vidare till slutspel i VM. | 瑞典晋级世界杯淘汰赛。
 - Matchen slutade 1–1. | 比赛以 1–1 平局结束。
 - Daizen Maeda gjorde Japans mål och Anthony Elanga gjorde Sveriges mål. | 日本进球手为前田大然，瑞典进球手为安东尼·埃兰加。
-- Sverige ska spela sextondelsfinal på tisdag kväll. | 瑞典将于周二晚上参加十六强赛。
+- Sverige ska spela sextondelsfinal på tisdag kväll. | 瑞典将于周二晚上参加三十二强赛。
 - Troligen blir det Frankrike eller Norge som Sverige möter. | 对手可能是法国或挪威。
 
 ### DUP-skipped (all other items already in KB)

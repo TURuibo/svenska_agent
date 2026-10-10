@@ -8,7 +8,7 @@ zh: "酸面团面包；天然酵母面包"
 en: "sourdough bread"
 synonyms: []
 antonyms: []
-family: ["surdeg", "deg", "bagare", "bageri"]
+family: [surdeg, deg, bagare, bageri]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # surdegsbröd — substantiv (ett)
 
 📖 中文：酸面团面包；天然酵母面包 · English: sourdough bread
+
+🇸🇪 Förklaring: bröd som bakas med en blandning av mjöl och vatten som har jäst länge, utan vanlig jäst
+
 发音提示：SUUR-DEH-gs-BRÖD（重音在 sur 和 bröd）
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[surdeg]] · [[deg]] · [[bagare]] · [[bageri]]
+- 词族: [[surdeg]] · [[deg]] · [[bagare]] · [[bageri]], [[deg]] (面团), [[bagare]] (面包师), [[bageri]] (面包房)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -18,6 +18,9 @@ created: "2026-09-22"
 # hatstorm — substantiv (en)
 
 📖 中文：仇恨风暴 · English: storm of hate
+
+🇸🇪 Förklaring: plötslig våg av elaka och hotfulla kommentarer mot en person, ofta på internet
+
 发音提示：/ˈhɑːtˌstɔrm/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[näthat]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

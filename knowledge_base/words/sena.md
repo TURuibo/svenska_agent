@@ -8,7 +8,7 @@ zh: 肌腱
 en: tendon
 synonyms: []
 antonyms: []
-family: []
+family: [hälsena, senskada]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # sena — substantiv (en)
 
 📖 中文：肌腱 · English: tendon
+
+🇸🇪 Förklaring: stark vävnad som fäster en muskel vid ett ben
+
 发音提示：[ˈseːna]
 
 ## 语法变形 (Forms)
@@ -46,6 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[hälsena]] (跟腱), [[senskada]] (肌腱损伤)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

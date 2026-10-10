@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "快速地；迅速地"
 en: "quickly / fast"
-synonyms: []
-antonyms: []
+synonyms: [fort]
+antonyms: [långsamt]
 family: [snabb, snabbhet]
 topics:
   - topic-vardagsrutin
@@ -25,6 +25,9 @@ interval: 0
 # snabbt — adverb
 
 📖 中文：快速地；迅速地 · English: quickly / fast
+
+🇸🇪 Förklaring: med hög fart eller på kort tid
+
 发音提示：snabbt（单音节，b 不发音）。
 
 ## 语法变形 (Forms)

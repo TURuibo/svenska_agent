@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "保留的,专属的"
 en: "reserved"
-synonyms: []
-antonyms: []
-family: ["reservera"]
+synonyms: [bokad, upptagen]
+antonyms: [ledig]
+family: [reservera]
 topics: ["topic-föräldraledighet"]
 sentences: ["sent-varje-förälder-har-90-reserverade-dagar", "sent-de-dagarna-kan-man-inte-ge"]
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-08"
 # reserverad — adjektiv
 
 📖 中文：保留的,专属的 · English: reserved
+
+🇸🇪 Förklaring: som är bokad eller sparad för en viss person eller ett visst syfte
+
 发音提示：re-ser-VEE-rad
 
 ## 语法变形 (Forms)
@@ -38,7 +41,9 @@ created: "2026-10-08"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: reservera (动词，预订/保留)
+- 词族: [[reservera]] (动词，预订/保留)
+- 同义词: [[bokad]] (已预订的), [[upptagen]] (被占用的)
+- 反义词: [[ledig]] (空闲的)
 - 主题: [[topic-föräldraledighet]]
 
 ## 用法提示 (Usage Notes)

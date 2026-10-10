@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "人民统治；民主"
 en: "rule by the people; democracy"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [demokrati, folkmakt]
+antonyms: [diktatur, envälde]
+family: [styre, styra, folk]
 topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-demokrati-betyder-folkstyre-eller-folkmakt]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-10"
 # folkstyre — substantiv (ett)
 
 📖 中文：人民统治；民主 · English: rule by the people; democracy
+
+🇸🇪 Förklaring: system där folket bestämmer, till exempel genom att rösta i allmänna val
+
 发音提示：/ˈfɔlkˌstyːrɛ/；folk（人民）+ styre（统治）
 
 ## 语法变形 (Forms)
@@ -40,6 +43,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[styre]] (统治), [[styra]] (治理), [[folk]] (人民)
+- 同义词: [[demokrati]] (民主), [[folkmakt]] (人民的权力)
+- 反义词: [[diktatur]] (独裁), [[envälde]] (专制)
 - 相关: [[folkmakt]], [[demokrati]], [[styra]]
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "尊重"
 en: "respect"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [aktning, hänsyn]
+antonyms: [förakt, respektlöshet]
+family: [respektera, respektfull, respektlös]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # respekt — substantiv (en)
 
 📖 中文：尊重 · English: respect
+
+🇸🇪 Förklaring: känsla av att någon eller något är värt hänsyn, uppskattning och att tas på allvar
+
 发音提示：re-spekt
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[respektera]] (尊重), [[respektfull]] (恭敬的), [[respektlös]] (不尊重的)
+- 同义词: [[aktning]] (尊敬), [[hänsyn]] (体谅)
+- 反义词: [[förakt]] (蔑视), [[respektlöshet]] (不敬)
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -9,7 +9,7 @@ zh: "蘑菇"
 en: "mushroom"
 synonyms: []
 antonyms: []
-family: []
+family: [giftsvamp, matsvamp, svampsoppa]
 topics: [topic-mat-dryck]
 sentences:
   - sent-dagens-rätt-är-en-vegetarisk-pasta
@@ -24,6 +24,9 @@ interval: 0
 # svamp — substantiv (en)
 
 📖 中文：蘑菇 · English: mushroom
+
+🇸🇪 Förklaring: organism som växer i skogen och ofta har en fot och en hatt; vissa sorter kan man äta
+
 发音提示：svamp (rimes with "stamp")
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[giftsvamp]] (毒蘑菇), [[matsvamp]] (食用菌), [[svampsoppa]] (蘑菇汤)
+- 同义词: —
+- 反义词: —
 - 注: *svamp* 也可指海绵或真菌（sponge/fungus），上下文决定意思
 - 相关词: [[grönsak]], [[pasta]]
 - 主题: [[topic-mat-dryck]]

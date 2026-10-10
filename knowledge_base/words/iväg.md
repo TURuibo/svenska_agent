@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 离开；出发
 en: away, off
-synonyms: []
-antonyms: []
-family: []
+synonyms: [bort, åstad]
+antonyms: [tillbaka]
+family: [väg]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # iväg — adverb
 
 📖 中文：（走/跑）开、出发 · English: away, off
+
+🇸🇪 Förklaring: bort från en plats, så att man ger sig av
+
+发音提示：/ɪˈvɛːɡ/ — 重音在 väg；ä 读长音
 
 ## 语法变形 (Forms)
 
@@ -38,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[väg]] (路)
+- 同义词: [[bort]] (离开), [[åstad]] (出发（书面）)
+- 反义词: [[tillbaka]] (回来)
 - 主题:
 
 ## 用法提示 (Usage Notes)

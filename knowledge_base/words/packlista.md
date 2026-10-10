@@ -9,7 +9,7 @@ zh: "带物清单；打包清单"
 en: "packing list"
 synonyms: []
 antonyms: []
-family: [lista]
+family: [lista, packa]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
 sentences: [sent-här-kommer-en-packlista]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # packlista — substantiv
 
 📖 中文：带物清单；打包清单 · English: packing list
+
+🇸🇪 Förklaring: lista över saker som man ska ta med sig på en resa
+
 发音提示：/ˈpakːˌlɪsta/ — 复合词，重音在 pack-，第二部分 -lista 带次重音
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[lista]] (清单), packa (打包)
+- 词族: [[lista]] (清单), [[packa]] (打包)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

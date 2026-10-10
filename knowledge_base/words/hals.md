@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "脖子；喉咙"
 en: "neck; throat"
-synonyms: []
+synonyms: [strupe]
 antonyms: []
-family: []
+family: [halsband, halsduk, halsbränna]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # hals — substantiv (en-ord)
 
 📖 中文：脖子；喉咙 · English: neck; throat
+
+🇸🇪 Förklaring: 1) den del av kroppen som sitter mellan huvudet och axlarna; 2) gången inuti den, från munnen och nedåt
+
 发音提示：/hals/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: halsband, halsduk, halsbränna
-- 同义词: —
+- 词族: [[halsband]], [[halsduk]], [[halsbränna]]
+- 同义词: [[strupe]] (喉咙)
 - 反义词: —
 - 主题: [[topic-kropp]]
 

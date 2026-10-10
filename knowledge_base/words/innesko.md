@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "室内鞋"
 en: "indoor shoe"
 synonyms: [toffel]
-antonyms: []
+antonyms: [utesko]
 family: [sko, inne]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # innesko — substantiv
 
 📖 中文：室内鞋 · English: indoor shoe
+
+🇸🇪 Förklaring: lätt sko som man bara har inomhus, till exempel i skolan eller på jobbet
+
 发音提示：/ˈɪnːɛˌskuː/ — inne- 短 i 带长 n，-sko 长 o（读作「斯库」）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,7 @@ created: "2026-09-26"
 
 - 词族: [[sko]] (鞋), [[inne]] (在里面)
 - 同义词: [[toffel]]
+- 反义词: [[utesko]] (户外鞋)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

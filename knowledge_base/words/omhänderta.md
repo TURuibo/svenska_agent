@@ -9,7 +9,7 @@ zh: 被当局接管安置（离开家庭）
 en: to take into care (by authorities)
 synonyms: []
 antonyms: []
-family: ["hand", "ta-hand-om"]
+family: [hand, ta-hand-om]
 topics: ["topic-samhälle-och-politik", "topic-familj-och-barn"]
 sentences:
   - sent-66-procent-av-flickorna-blir
@@ -24,6 +24,9 @@ interval: 0
 # omhänderta — verb
 
 📖 中文：被当局接管安置（离开家庭） · English: to take into care (by authorities)
+
+🇸🇪 Förklaring: (om sociala myndigheter) flytta ett barn från hemmet och se till att det får vård och skydd någon annanstans
+
 发音提示：om-HEN-der-ta
 
 ## 语法变形 (Forms)
@@ -54,6 +57,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hand]], [[ta-hand-om]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

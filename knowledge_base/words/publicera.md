@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: 出版/发表
 en: to publish
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ge-ut]
+antonyms: [avpublicera]
+family: [publikation, publik]
 topics: [topic-litteratur-och-kultur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # publicera — verb (v.1)
 
 📖 中文：出版/发表 · English: to publish
+
+🇸🇪 Förklaring: göra en text, en bild eller en bok tillgänglig för alla, till exempel i en tidning eller på nätet
+
 发音提示：pub-li-SE-ra；重音在第三音节，借自拉丁语/英语。
 
 ## 语法变形 (Forms)
@@ -55,8 +58,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[publikation]] (en, 出版物), [[publik]] (en, 观众/读者群)
-- 同义词: [[ge ut]] (phrase, 出版)
-- 反义词: —
+- 同义词: [[ge-ut|ge ut]] (phrase, 出版)
+- 反义词: [[avpublicera]] (撤下发布)
 - 主题: [[topic-litteratur-och-kultur]]
 
 ## 用法提示 (Usage Notes)

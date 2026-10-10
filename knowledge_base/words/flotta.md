@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "舰队"
 en: "fleet, navy"
-synonyms: []
+synonyms: [marin]
 antonyms: []
-family: []
+family: [handelsflotta, flottbas]
 topics: ["topic-forsvar-och-sakerhet"]
 sentences:
   - sent-polen-far-darmed-en-av
@@ -24,6 +24,9 @@ interval: 0
 # flotta — substantiv
 
 📖 中文：舰队 · English: fleet, navy
+
+🇸🇪 Förklaring: 1) ett lands alla krigsfartyg och soldater till sjöss; 2) många fartyg som hör ihop
+
 发音提示：FLOT-ta
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[handelsflotta]] (商船队), [[flottbas]] (海军基地)
+- 同义词: [[marin]] (海军)
+- 反义词: —
 - 主题: [[topic-forsvar-och-sakerhet]]
 
 ## 用法提示 (Usage Notes)

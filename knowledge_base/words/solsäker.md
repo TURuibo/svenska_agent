@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "阳光充足的，日照有保障的"
 en: "reliably sunny, guaranteed sunshine"
-synonyms: ["solig"]
+synonyms: [solig]
 antonyms: []
-family: ["sol", "säker"]
+family: [sol, säker]
 topics: ["topic-geografi-natur", "topic-vader-och-arstider"]
 sentences: ["sent-gotland-är-också-en-av-de-mest"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # solsäker — adjektiv
 
 📖 中文：阳光充足的，日照有保障的 · English: reliably sunny, guaranteed sunshine
+
+🇸🇪 Förklaring: där det nästan alltid är soligt, så att man kan räkna med fint väder
+
 发音提示：[ˈsuːlˌsɛːkɛr]
 
 ## 语法变形 (Forms)
@@ -48,6 +51,7 @@ interval: 0
 
 - 词族: [[sol]], [[säker]]
 - 同义词: [[solig]]
+- 反义词: —
 - 主题: [[topic-geografi-natur]], [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

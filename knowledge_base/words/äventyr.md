@@ -6,9 +6,9 @@ genus: "ett"
 cefr: A2
 zh: "冒险，探险"
 en: "adventure"
-synonyms: []
+synonyms: [upplevelse]
 antonyms: []
-family: ["äventyrlig", "äventyrare", "äventyrsfilm"]
+family: [äventyrlig, äventyrare, äventyrsfilm]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # äventyr — substantiv (ett)
 
 📖 中文：冒险，探险 · English: adventure
+
+🇸🇪 Förklaring: spännande och ibland farlig upplevelse
+
 发音提示：/ˈɛvɛnˌtyːr/，三音节，重音在首音节
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: äventyrlig (adj, 冒险的/充满冒险的), äventyrare (en, 冒险家), äventyrsfilm (en, 冒险电影)
-- 同义词: —
+- 词族: [[äventyrlig]] (adj, 冒险的/充满冒险的), [[äventyrare]] (en, 冒险家), [[äventyrsfilm]] (en, 冒险电影)
+- 同义词: [[upplevelse]] (体验)
 - 反义词: —
 - 主题: [[topic-vikingatiden]]
 

@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 交通拥挤的、车流密集的
 en: traffic-dense, busy with traffic
-synonyms: []
-antonyms: ["trafikfri"]
-family: ["trafik", "tät"]
+synonyms: [trafikerad]
+antonyms: [trafikfri]
+family: [trafik, tät]
 topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # trafiktät — adjektiv
 
 📖 中文：交通拥挤的、车流密集的 · English: traffic-dense, busy with traffic
+
+🇸🇪 Förklaring: där det kör väldigt många bilar och andra fordon
+
 发音提示：tra-FIK-tät
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[trafik]], [[tät]]
+- 同义词: [[trafikerad]] (车流多的)
 - 反义词: [[trafikfri]]
 - 主题: [[topic-trafik]], [[topic-stadsmiljo]]
 

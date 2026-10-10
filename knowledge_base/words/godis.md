@@ -9,7 +9,7 @@ zh: "糖果；零食糖"
 en: "sweets, candy"
 synonyms: [sötsak]
 antonyms: []
-family: []
+family: [god]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # godis — substantiv (ett)
 
 📖 中文：糖果；零食糖 · English: sweets, candy
+
+🇸🇪 Förklaring: små söta saker att äta, till exempel karameller och choklad
+
 发音提示：/ˈɡuːdɪs/（重音在第一音节，o 读长 uː）
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: god（好吃的）→ godis（好吃的小东西）
+- 词族: [[god]]（好吃的）→ godis（好吃的小东西）
 - 同义词: [[sötsak]]（甜食，范围更广，含蛋糕等）
-- 反义词:
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "单调的"
 en: "monotonous"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [enformig, tråkig]
+antonyms: [omväxlande]
+family: [monotoni]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # monoton — adjektiv
 
 📖 中文：单调的 · English: monotonous
+
+🇸🇪 Förklaring: som är likadan hela tiden och därför blir tråkig
+
 发音提示：mo-no-TON
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[monotoni]] (单调)
+- 同义词: [[enformig]] (单调的), [[tråkig]] (无聊的)
+- 反义词: [[omväxlande]] (多变的)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

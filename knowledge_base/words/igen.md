@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A1
 zh: 再次、又；（ta igen）补回
 en: again; (ta igen) make up for
-synonyms: []
+synonyms: [på-nytt, om]
 antonyms: []
-family: []
+family: [känna-igen, igenkänning]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # igen — adverb
 
 📖 中文：再次、又；（小品词）补回、关上 · English: again; (particle) make up for, shut
+
+🇸🇪 Förklaring: en gång till; (ta igen) göra något som man har missat tidigare
+
 发音提示：/ɪˈjɛn/；写作 `igen`，读作 i-JEN（`g` 在 e 前读 /j/）。
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: `på nytt`, `om`（`göra om` = 重做）
+- 词族: [[känna-igen|känna igen]] (认出), [[igenkänning]] (辨认)
+- 同义词: [[på-nytt|på nytt]], [[om]]（`göra om` = 重做）
 - 反义词: —
 - 主题:
 

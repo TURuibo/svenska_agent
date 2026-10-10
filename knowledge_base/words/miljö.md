@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "环境"
 en: "environment"
-synonyms: []
+synonyms: [omgivning, natur]
 antonyms: []
-family: [miljöproblem, miljövänlig, klimat]
+family: [miljöproblem, miljövänlig, klimatförändring, klimat]
 topics: [topic-miljö-och-klimat]
 sentences:
   - sent-idag-är-hon-en-av-världens-mest-kända-röster
@@ -24,6 +24,9 @@ interval: 0
 # miljö — substantiv (en)
 
 📖 中文：环境 · English: environment
+
+🇸🇪 Förklaring: naturen, luften och vattnet omkring oss; den omgivning där man lever eller arbetar
+
 发音提示：/mɪlˈjøː/；借自法语 milieu；ö 是前圆唇元音。
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: miljöproblem（环境问题），miljövänlig（环保的），[[klimatförändring]]（气候变化）
+- 词族: [[miljöproblem]]（环境问题）, [[miljövänlig]]（环保的）, [[klimatförändring]]（气候变化）, [[klimat]] (气候)
+- 同义词: [[omgivning]] (周围环境), [[natur]] (自然)
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

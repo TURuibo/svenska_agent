@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 空无一人的
 en: deserted, empty of people
-synonyms: []
-antonyms: ["folkrik"]
-family: ["folk"]
+synonyms: [öde, ödslig]
+antonyms: [folkrik]
+family: [folk]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # folktom — adjektiv
 
 📖 中文：空无一人的 · English: deserted, empty of people
+
+🇸🇪 Förklaring: som är helt utan människor, där man inte ser någon
+
 发音提示：FOLK-tom
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[folk]]
+- 同义词: [[öde]] (荒无人烟的), [[ödslig]] (冷清的)
 - 反义词: [[folkrik]]
 - 主题: [[topic-stadsmiljo]]
 

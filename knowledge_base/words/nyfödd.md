@@ -8,7 +8,7 @@ zh: "新生的"
 en: "newborn"
 synonyms: []
 antonyms: []
-family: ["bebis", "barn"]
+family: [bebis, barn]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # nyfödd — adjektiv
 
 📖 中文：新生的 · English: newborn
+
+🇸🇪 Förklaring: som har kommit till världen för bara några dagar eller veckor sedan
+
 发音提示：/ˈnyːˌfœd/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bebis]], [[barn]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

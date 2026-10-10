@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "建议；（状况）存在、占主导"
 en: "to advise; to prevail; to exist (of a situation)"
-synonyms: [rekommendera]
-antonyms: []
-family: [råd]
+synonyms: [rekommendera, finnas, förekomma]
+antonyms: [avråda]
+family: [råd, ge-råd, rådgivning]
 topics: [topic-allmänna-verb]
 sentences: [sent-i-dag-råder-det-oklarhet-om-var, sent-polisen-råder-förarna-att-använda-hjälm]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # råda — verb (grupp 2)
 
 📖 中文：① 建议（某人做某事）② （状况）存在、占主导 · English: ① to advise ② to prevail; to exist
+
+🇸🇪 Förklaring: 1) säga till någon vad hen borde göra; 2) (om ett läge eller en känsla) finnas och vara det som gäller
+
 发音提示：RÅ-da，`å` 读 [oː]。
 
 ## 语法变形 (Forms)
@@ -58,9 +61,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[råd]]（名词：建议；办法），`ge råd`（给建议）、`rådgivning`（咨询）
-- 同义词: 义项1 [[rekommendera]]（推荐）；义项2 近义 `finnas`、`förekomma`（偏口语；`råda` 更书面）
-- 反义词: —
+- 词族: [[råd]]（名词：建议；办法）, [[ge-råd|ge råd]]（给建议）, [[rådgivning]]（咨询）
+- 同义词: 义项1 [[rekommendera]]（推荐）, 义项2 近义 [[finnas]], [[förekomma]]（偏口语；`råda` 更书面）
+- 反义词: [[avråda]] (劝阻)
 - 主题: [[topic-allmänna-verb]]
 
 ## 用法提示 (Usage Notes)

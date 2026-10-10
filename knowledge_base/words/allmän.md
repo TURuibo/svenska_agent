@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "公共的；一般的"
 en: "public; general"
-synonyms: []
-antonyms: []
+synonyms: [offentlig, generell, vanlig]
+antonyms: [privat, speciell]
 family: [allmänhet]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-pengarna-används-till-den-allmänna-välfärden]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # allmän — adjektiv
 
 📖 中文：公共的；一般的 · English: public; general
+
+🇸🇪 Förklaring: som är till för alla i samhället; som gäller i stort och inte är speciell
+
+发音提示：/ˈalˌmɛːn/ — 重音在 all，män 带次重音且 ä 读长音
 
 ## 语法变形 (Forms)
 
@@ -39,7 +43,8 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[allmänhet]]
-- 反义词: —
+- 同义词: [[offentlig]] (公共的), [[generell]] (一般的), [[vanlig]] (普通的)
+- 反义词: [[privat]] (私人的), [[speciell]] (特别的)
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]
 

@@ -7,10 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "预订"
 en: "to book; to reserve"
-synonyms: []
-antonyms: []
-family:
-  - beställa
+synonyms: [beställa]
+antonyms: [avboka]
+family: [beställa]
 topics:
   - topic-mat-dryck
 sentences:
@@ -27,6 +26,9 @@ interval: 0
 # boka — verb
 
 📖 中文：预订 · English: to book; to reserve
+
+🇸🇪 Förklaring: säga i förväg att man vill ha en tid, ett rum eller en plats
+
 发音提示：["boo-ka"] — 重音在第一音节
 
 ## 语法变形 (Forms)
@@ -57,7 +59,7 @@ interval: 0
 
 - 词族: [[beställa]]
 - 同义词: [[beställa]]（点/订购，语义更宽）
-- 反义词:
+- 反义词: [[avboka]] (取消预约)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

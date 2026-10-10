@@ -8,8 +8,7 @@ zh: "自动售票机；自动贩卖机"
 en: "ticket machine; vending machine; automat"
 synonyms: []
 antonyms: []
-family:
-  - automatisk
+family: [automatisk]
 topics:
   - topic-kollektivtrafik
 sentences:
@@ -25,6 +24,9 @@ interval: 0
 # automat — substantiv en
 
 📖 中文：自动售票机；自动贩卖机 · English: ticket machine; vending machine
+
+🇸🇪 Förklaring: maskin som säljer till exempel biljetter, mat eller dryck när man betalar
+
 发音提示：/au-to-MAT/
 
 ## 语法变形 (Forms)
@@ -50,5 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: automatisk（自动的）
+- 词族: [[automatisk]]（自动的）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kollektivtrafik]]

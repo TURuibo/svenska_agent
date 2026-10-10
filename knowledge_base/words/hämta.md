@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "接（孩子）；取来；获取"
 en: "to pick up; to fetch; to retrieve"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [plocka-upp]
+antonyms: [lämna]
+family: [hämtning, avhämtning, hämtmat]
 topics:
   - topic-vardagsrutin
   - topic-familj-och-barn
@@ -26,6 +26,9 @@ interval: 0
 # hämta — verb (grupp 1)
 
 📖 中文：接（孩子）；取来；获取 · English: to pick up; to fetch; to retrieve
+
+🇸🇪 Förklaring: gå eller åka till ett ställe och ta med sig någon eller något därifrån
+
 发音提示：HEM-ta；两音节，重音在首音节。
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[hämtning]] (接取), [[avhämtning]] (自取), [[hämtmat]] (外带食物)
+- 同义词: [[plocka-upp|plocka upp]] (接人；取)
 - 反义词: [[lämna]] (v. 送去，留下)
 - 主题: [[topic-vardagsrutin]], [[topic-familj-och-barn]]
 

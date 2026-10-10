@@ -7,10 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "自愿的；非强制的"
 en: "voluntary; optional"
-synonyms: []
-antonyms:
-  - tvungen
-family: []
+synonyms: [valfri]
+antonyms: [tvungen]
+family: [frivillighet, frivilligarbete]
 topics:
   - topic-betalning
 sentences:
@@ -26,6 +25,9 @@ interval: 0
 # frivillig — adjektiv
 
 📖 中文：自愿的；非强制的 · English: voluntary; optional
+
+🇸🇪 Förklaring: som man gör för att man själv vill, inte för att man måste
+
 发音提示：fri-VIL-lig
 
 ## 语法变形 (Forms)
@@ -51,8 +53,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: frivillighet（自愿性），frivilligarbete（志愿工作）
-- 同义词: valfri（可选择的）
+- 词族: [[frivillighet]]（自愿性）, [[frivilligarbete]]（志愿工作）
+- 同义词: [[valfri]]（可选择的）
 - 反义词: [[tvungen]]（被迫的，义务的）
 - 主题: [[topic-betalning]]
 

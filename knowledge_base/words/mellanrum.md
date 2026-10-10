@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "间隔，空隙，间距"
 en: "interval, gap, space between"
-synonyms: ["intervall", "paus"]
+synonyms: [intervall, paus]
 antonyms: []
-family: ["mellan"]
+family: [mellan]
 topics: []
 sentences:
   - sent-de-tva-kraftigaste-jordbavningarna-skedde
@@ -24,6 +24,9 @@ interval: 0
 # mellanrum — substantiv (ett)
 
 📖 中文：间隔，空隙，间距 · English: interval, gap, space between
+
+🇸🇪 Förklaring: tomt utrymme som skiljer två saker åt; tid som går från en händelse till nästa
+
 发音提示：/ˈmɛlːanˌrɵmː/
 
 ## 语法变形 (Forms)
@@ -52,8 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: mellan（之间的）
-- 同义词: intervall（时间/数学区间），paus（暂停）
+- 词族: [[mellan]]（之间的）
+- 同义词: [[intervall]]（时间/数学区间）, [[paus]]（暂停）
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

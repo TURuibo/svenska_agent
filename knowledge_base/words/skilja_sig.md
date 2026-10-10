@@ -7,8 +7,8 @@ genus: ""
 cefr: "A2"
 zh: "离婚；（skilja sig från）与…不同"
 en: "to divorce, to separate; (skilja sig från) to differ from"
-synonyms: []
-antonyms: [gifta sig]
+synonyms: [separera, avvika]
+antonyms: [gifta-sig]
 family: [skilsmässa, skild, skilja]
 topics: [topic-familj-och-barn]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # skilja sig — verb (v.2, reflexivt)
 
 📖 中文：离婚 · English: to divorce, to separate
+
+🇸🇪 Förklaring: 1) avsluta ett äktenskap på laglig väg; 2) (från) vara annorlunda än något annat
+
 发音提示：/ˈɧɪlja sɪɡ/；`sk` 在前元音前读作 /ɧ/ (sj-ljud)。
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skilsmässa]] (en, 离婚), [[skild]] (adj. 离婚的), [[skilja]] (v. 分开/区分)
-- 同义词: —
-- 反义词: [[gifta sig]] (结婚)
+- 同义词: [[separera]] (分居；分开), [[avvika]] (不同；偏离)
+- 反义词: [[gifta-sig|gifta sig]] (结婚)
 - 主题: [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

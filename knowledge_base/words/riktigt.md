@@ -5,9 +5,9 @@ ordklass: adverb
 cefr: A2
 zh: 真地；非常（口语强调词）
 en: really; quite (colloquial intensifier)
-synonyms: []
-antonyms: []
-family: []
+synonyms: [verkligen, väldigt, jätte-]
+antonyms: [lite]
+family: [riktig, riktning]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # riktigt — adverb
 
 📖 中文：真地；非常（口语强调词） · English: really; quite (colloquial intensifier)
+
+🇸🇪 Förklaring: används för att förstärka ett ord; i hög grad
+
 发音提示：RIK-tigt
 
 ## 语法变形 (Forms)
@@ -43,8 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: riktig (正确的/真正的), riktning (方向)
-- 同义词: verkligen (真的), väldigt (非常), jätte- (超级)
+- 词族: [[riktig]] (正确的/真正的), [[riktning]] (方向)
+- 同义词: [[verkligen]] (真的), [[väldigt]] (非常), [[jätte-]] (超级)
+- 反义词: [[lite]] (有点儿)
 
 ## 用法提示 (Usage Notes)
 

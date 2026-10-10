@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "灵活的"
 en: "flexible"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [anpassningsbar]
+antonyms: [stel, rigid]
+family: [flexibilitet]
 topics: ["topic-karaktarsord", "topic-arbete"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # flexibel — adjektiv
 
 📖 中文：灵活的 · English: flexible
+
+🇸🇪 Förklaring: som lätt kan ändra sig eller anpassa sig efter nya situationer
+
 发音提示：flek-SI-bel
 
 ## 语法变形 (Forms)

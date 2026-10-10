@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "恼火的"
 en: "irritated"
-synonyms: []
-antonyms: []
-family: ["irritera"]
+synonyms: [förargad, sur]
+antonyms: [lugn, glad]
+family: [irritera]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # irriterad — adjektiv
 
 📖 中文：恼火的 · English: irritated
+
+🇸🇪 Förklaring: som är lite arg för att något stör en
+
+发音提示：/ɪrɪˈteːrad/ — 重音在 te，e 读长音
 
 ## 语法变形 (Forms)
 
@@ -41,8 +45,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[irritera]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[förargad]] (恼火的), [[sur]] (不高兴的)
+- 反义词: [[lugn]] (平静的), [[glad]] (高兴的)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

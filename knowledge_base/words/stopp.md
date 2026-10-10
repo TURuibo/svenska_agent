@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "A2"
 zh: "停止"
 en: "stop"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [uppehåll, avbrott]
+antonyms: [start]
+family: [stoppa, stoppskylt, stoppljus]
 topics: []
 sentences: [sent-de-hoppades-kunna-påverka-politikerna]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # stopp — substantiv
 
 📖 中文：停止 · English: stop
-发音提示：
+
+🇸🇪 Förklaring: det att något stannar eller inte får fortsätta; tillfälligt hinder
+
+发音提示：/stɔpː/ — o 短读 ɔ；p 读长
 
 ## 语法变形 (Forms)
 
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[stoppa]] (停止), [[stoppskylt]] (停车标志), [[stoppljus]] (刹车灯)
+- 同义词: [[uppehåll]] (中断), [[avbrott]] (中断)
+- 反义词: [[start]] (开始)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

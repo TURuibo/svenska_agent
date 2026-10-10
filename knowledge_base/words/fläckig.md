@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "有斑点的"
 en: "spotted"
-synonyms: []
-antonyms: ["randig"]
-family: ["fläck"]
+synonyms: [prickig, spräcklig]
+antonyms: [randig]
+family: [fläck]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fläckig — adjektiv
 
 📖 中文：有斑点的 · English: spotted
+
+🇸🇪 Förklaring: som har små märken av en annan färg, eller som har smutsiga märken
+
 发音提示：/ˈflɛkːɪɡ/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fläck]] (斑点)
-- 同义词: —
+- 同义词: [[prickig]] (有斑点的), [[spräcklig]] (有斑纹的)
 - 反义词: [[randig]]
 - 主题: [[topic-djur]]
 

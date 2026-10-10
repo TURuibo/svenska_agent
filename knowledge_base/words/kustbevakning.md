@@ -9,7 +9,7 @@ zh: 海岸警卫队
 en: coast guard
 synonyms: []
 antonyms: []
-family: ["kust", "bevaka", "bevakning"]
+family: [kust, bevaka, bevakning]
 topics: ["topic-krig-och-konflikt", "topic-samhälle-och-politik"]
 sentences:
   - "sent-en-chef-för-kustbevakningen-säger"
@@ -24,6 +24,9 @@ interval: 0
 # kustbevakning — substantiv (en)
 
 📖 中文：海岸警卫队 · English: coast guard
+
+🇸🇪 Förklaring: myndighet som övervakar havet nära land, kontrollerar båtar och hjälper till vid olyckor till sjöss
+
 发音提示：[ˈkɵstbɛˌvakːnɪŋ] — sammansatt ord: kust + bevakning
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: kust (coast), bevaka (guard/monitor), bevakning (surveillance/guard)
+- 词族: [[kust]] (coast), [[bevaka]] (guard/monitor), [[bevakning]] (surveillance/guard)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]], [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

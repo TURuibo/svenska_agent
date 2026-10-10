@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "应付；通过；搞定"
 en: "manage; pass; handle; cope"
-synonyms: []
-antonyms: []
-family: ["klarhet", "klar"]
+synonyms: [hantera, lyckas-med]
+antonyms: [misslyckas, kugga]
+family: [klar, klarhet]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # klara — verb
 
 📖 中文：应付；通过；搞定 · English: manage; pass; handle; cope
+
+🇸🇪 Förklaring: lyckas med något svårt; ta sig igenom ett prov eller en svår situation
+
 发音提示：/ˈklɑːra/
 
 ## 语法变形 (Forms)
@@ -49,8 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: klar (清楚的/准备好的), klarhet (清晰)
-- 同义词: hantera (处理), lyckas med (成功完成)
+- 词族: [[klar]] (清楚的/准备好的), [[klarhet]] (清晰)
+- 同义词: [[hantera]] (处理), [[lyckas-med|lyckas med]] (成功完成)
+- 反义词: [[misslyckas]] (失败), [[kugga]] (不及格)
 - 主题:
 
 ## 用法提示 (Usage Notes)

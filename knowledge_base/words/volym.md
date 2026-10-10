@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "音量；体积；卷"
 en: "volume (sound); volume (size); volume (book)"
-synonyms: []
+synonyms: [ljudnivå, rymd, band]
 antonyms: []
 family: [voluminös]
 topics: []
@@ -23,6 +23,9 @@ interval: 0
 # volym — substantiv (en)
 
 📖 中文：音量；体积；卷 · English: volume (sound/size/book)
+
+🇸🇪 Förklaring: hur högt ett ljud är; hur mycket plats något tar; en av flera böcker i en serie
+
 发音提示：vo-LYM（重音第二音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[voluminös]]
+- 同义词: [[ljudnivå]] (音量), [[rymd]] (容积), [[band]] (卷；册)
+- 反义词: —
 - 反义对: hög volym（大声）↔ låg volym（小声）
 
 ## 用法提示 (Usage Notes)

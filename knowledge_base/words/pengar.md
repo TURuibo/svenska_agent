@@ -6,9 +6,9 @@ genus: "pl"
 cefr: A1
 zh: 钱
 en: money
-synonyms: []
+synonyms: [stålar]
 antonyms: []
-family: []
+family: [fickpengar, penning, skolpeng]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # pengar — substantiv (pluralis tantum)
 
 📖 中文：钱 · English: money
+
+🇸🇪 Förklaring: mynt och sedlar eller en summa på ett konto som man kan betala med
+
+发音提示：/ˈpɛŋːar/ — ng 读 /ŋ/，不发 g 音
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[fickpengar]] (零花钱), [[penning]] (钱（书面）), [[skolpeng]] (学校经费)
+- 同义词: [[stålar]] (钱（口语）)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

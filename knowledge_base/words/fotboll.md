@@ -9,7 +9,7 @@ zh: "足球"
 en: "football, soccer"
 synonyms: []
 antonyms: []
-family: []
+family: [fot]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # fotboll — substantiv (en)
 
 📖 中文：足球 · English: football, soccer
+
+🇸🇪 Förklaring: bollsport där två lag med elva spelare försöker sparka in bollen i motståndarnas mål
+
 发音提示：/ˈfuːtˌbɔl/（fot 的 o 读长 uː；重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: fot（脚）+ boll（球）
-- 同义词:
-- 反义词:
+- 词族: [[fot]]（脚）+ boll（球）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

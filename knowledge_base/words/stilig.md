@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "帅气的"
 en: "handsome"
-synonyms: []
-antonyms: []
-family: ["stil"]
+synonyms: [snygg, elegant]
+antonyms: [ful]
+family: [stil]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # stilig — adjektiv
 
 📖 中文：帅气的 · English: handsome
+
+🇸🇪 Förklaring: som ser elegant och snygg ut, ofta om en man eller om kläder
+
 发音提示：/ˈstiːlɪɡ/
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[stil]]
+- 同义词: [[snygg]] (好看的), [[elegant]] (优雅的)
+- 反义词: [[ful]] (丑的)
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

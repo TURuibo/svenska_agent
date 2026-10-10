@@ -7,7 +7,7 @@ zh: 我的
 en: my, mine
 synonyms: []
 antonyms: []
-family: [din, sin]
+family: [din, vår, sin]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # min — possessivt pronomen
 
 📖 中文：我的 · English: my, mine
+
+🇸🇪 Förklaring: används för att visa att något tillhör eller har med den som talar att göra
+
+发音提示：/mɪnː/ — i 读短音，n 稍长
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: din, vår, sin
-- 同义词:
-- 反义词:
+- 词族: [[din]], [[vår]], [[sin]]
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

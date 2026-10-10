@@ -5,7 +5,7 @@ ordklass: adverb
 cefr: A2
 zh: （是……的）时候
 en: time (to do something)
-synonyms: []
+synonyms: [det-är-hög-tid]
 antonyms: []
 family: [dag]
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # dags — adverb
 
 📖 中文：（是……的）时候 · English: time (to do something)
+
+🇸🇪 Förklaring: används för att säga att tiden har kommit för att göra något
+
 发音提示：/daks/；`gs` 读成 /ks/（像 x）。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dag]]（名词：一天；`dags` 是 `dag` 的所有格形式 `dag + s`，已固化成副词）
-- 同义词: `det är hög tid`（是时候了）
+- 同义词: [[det-är-hög-tid|det är hög tid]]（是时候了）
 - 反义词: —
 - 主题:
 

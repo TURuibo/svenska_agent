@@ -7,8 +7,8 @@ cefr: "A2"
 zh: "精致的/好的"
 en: "fine/nice"
 synonyms: [snygg, vacker, elegant]
-antonyms: []
-family: []
+antonyms: [ful, grov]
+family: [finess, finkläder, finmotorik]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fin — adjektiv
 
 📖 中文：精致的/好的 · English: fine/nice
+
+🇸🇪 Förklaring: 1) som är vacker och ser bra ut; 2) som är bra eller trevlig
+
 发音提示：/fiːn/
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[finess]] (精细；技巧), [[finkläder]] (正装), [[finmotorik]] (精细动作)
 - 同义词: [[snygg]], [[vacker]], [[elegant]]
+- 反义词: [[ful]] (丑的), [[grov]] (粗糙的)
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

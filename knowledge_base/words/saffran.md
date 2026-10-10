@@ -8,7 +8,7 @@ zh: "藏红花"
 en: "saffron"
 synonyms: []
 antonyms: []
-family: []
+family: [saffransbulle, saffranskaka]
 topics: [topic-lucia]
 sentences: []
 source: source-2026-10-10-lucia
@@ -19,6 +19,10 @@ created: "2026-10-10"
 # saffran — substantiv (ett-ord)
 
 📖 中文：藏红花 · English: saffron
+
+🇸🇪 Förklaring: dyr gul krydda som man använder i lussekatter och vissa maträtter
+
+发音提示：/ˈsafːran/ — 重音在第一音节；f 读长
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[saffransbulle]] (藏红花面包), [[saffranskaka]] (藏红花蛋糕)
+- 同义词: —
+- 反义词: —
 - 相关: [[lussekatt]]
 - 主题: [[topic-lucia]]
 - 来源: [[source-2026-10-10-lucia]]

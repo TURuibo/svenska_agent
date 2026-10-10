@@ -9,7 +9,7 @@ zh: "头发"
 en: "hair"
 synonyms: []
 antonyms: []
-family: []
+family: [hårig, hårborste, hårtork, hårfärg]
 topics: ["topic-förskola-vardag"]
 sentences: ["sent-ja-förra-veckan-faktiskt-och-en"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # hår — substantiv (ett)
 
 📖 中文：头发 · English: hair
+
+🇸🇪 Förklaring: tunna trådar som växer på huvudet och på kroppen hos människor och djur
+
 发音提示：HOAR，å 读长 /oː/
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[hårig]] (多毛的), [[hårborste]] (发刷), [[hårtork]] (吹风机), [[hårfärg]] (发色)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

@@ -7,7 +7,7 @@ genus: ""
 cefr: A2
 zh: 一样的；同样地
 en: equal, alike
-synonyms: []
+synonyms: [samma, identisk]
 antonyms: [olika]
 family: [likadan, likhet]
 topics: [topic-samhälle-och-politik, topic-arbete-och-jobb]
@@ -19,6 +19,9 @@ created: 2026-10-02
 # lika — adjektiv / adverb
 
 📖 中文：一样的；同样地 · English: equal, alike
+
+🇸🇪 Förklaring: som är på samma sätt eller i samma grad som något annat
+
 发音提示：[ˈliːka]
 
 ## 语法变形 (Forms)
@@ -45,8 +48,9 @@ created: 2026-10-02
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[likadan]], [[likhet]] (相似之处)
+- 同义词: [[samma]] (相同), [[identisk]] (完全相同的)
 - 反义词: [[olika]]
-- 词族: [[likadan]]
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

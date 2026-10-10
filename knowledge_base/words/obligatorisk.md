@@ -6,9 +6,9 @@ genus: ""
 cefr: "B1"
 zh: "必修的、强制的"
 en: "mandatory"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [tvingande]
+antonyms: [frivillig, valfri]
+family: [obligation]
 topics: ["topic-karaktarsord", "topic-skola-och-utbildning"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # obligatorisk — adjektiv
 
 📖 中文：必修的、强制的 · English: mandatory
+
+🇸🇪 Förklaring: som man måste göra eller delta i enligt regler eller lag
+
 发音提示：ob-li-ga-TO-risk
 
 ## 语法变形 (Forms)

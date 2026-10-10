@@ -8,7 +8,7 @@ zh: 肌肉
 en: muscle
 synonyms: []
 antonyms: []
-family: []
+family: [muskulös, muskelvärk, magmuskel]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # muskel — substantiv (en)
 
 📖 中文：肌肉 · English: muscle
+
+🇸🇪 Förklaring: del av kroppen som kan dra ihop sig och gör att man kan röra sig
+
 发音提示：/ˈmɵskɛl/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[muskulös]] (肌肉发达的), [[muskelvärk]] (肌肉酸痛), [[magmuskel]] (腹肌)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

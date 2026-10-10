@@ -9,7 +9,7 @@ zh: "蜱虫"
 en: "tick (insect)"
 synonyms: []
 antonyms: []
-family: ["fästa"]
+family: [fästa]
 topics: ["topic-halsa-och-sjukdom"]
 sentences:
   - sent-sjukdomen-tbe-fortsatter-att-oka
@@ -24,6 +24,9 @@ interval: 0
 # fästing — substantiv
 
 📖 中文：蜱虫 · English: tick (insect)
+
+🇸🇪 Förklaring: litet djur som biter sig fast i huden på människor och djur och suger blod
+
 发音提示：FÄS-ting
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[fästa]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-halsa-och-sjukdom]]
 
 ## 用法提示 (Usage Notes)

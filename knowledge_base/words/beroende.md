@@ -5,7 +5,7 @@ ordklass: adjektiv
 cefr: B1
 zh: 依赖的；（名词）瘾
 en: dependent; (noun) addiction
-synonyms: []
+synonyms: [avhängig]
 antonyms: [oberoende]
 family: [bero]
 topics: []
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # beroende — adjektiv (även substantiv ett)
 
 📖 中文：依赖的，取决于…… · English: dependent (on)
+
+🇸🇪 Förklaring: som inte klarar sig utan någon eller något; (som substantiv) stark vana som man inte kan sluta med, till exempel droger
+
 发音提示：/beˈruːende/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bero]]
-- 同义词:
-- 反义词: oberoende
+- 同义词: [[avhängig]] (依赖的)
+- 反义词: [[oberoende]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

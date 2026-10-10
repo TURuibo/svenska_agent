@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "倒塌；崩溃"
 en: "to collapse"
-synonyms: []
+synonyms: [rasa, falla-ihop]
 antonyms: []
-family: []
+family: [kollaps]
 topics: ["topic-jordbävning-katastrof"]
 sentences: ["sent-farligt-räddningsarbetare-går-in-försöker"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kollapsa — verb (grupp 1)
 
 📖 中文：倒塌；崩溃 · English: to collapse
+
+🇸🇪 Förklaring: plötsligt gå sönder och sjunka ihop, t.ex. om ett hus; om en person: plötsligt bli så svag att man faller
+
 发音提示：kol-LAP-sa；重音在第二音节
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[kollaps]] (崩溃；倒塌)
+- 同义词: [[rasa]] (坍塌), [[falla-ihop|falla ihop]] (倒下；垮掉)
+- 反义词: —
 - 主题: [[topic-jordbävning-katastrof]]
 
 ## 用法提示 (Usage Notes)

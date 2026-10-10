@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "A2"
 zh: "重要的"
 en: "important"
-synonyms: ["betydelsefull"]
-antonyms: ["oviktig"]
-family: ["vikt", "viktigt"]
+synonyms: [betydelsefull]
+antonyms: [oviktig]
+family: [vikt, viktigt]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # viktig — adjektiv
 
 📖 中文：重要的 · English: important
+
+🇸🇪 Förklaring: som har stor betydelse och som man måste ta hänsyn till
+
 发音提示：vik-tig
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[vikt]], [[viktigt]]
+- 同义词: [[betydelsefull]]
+- 反义词: [[oviktig]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

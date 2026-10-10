@@ -6,9 +6,9 @@ genus: en
 cefr: "B1"
 zh: "辞职；出发"
 en: "resignation; departure"
-synonyms: []
-antonyms: []
-family: ["avgå"]
+synonyms: [avresa]
+antonyms: [ankomst]
+family: [avgå]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # avgång — substantiv
 
 📖 中文：辞职；出发 · English: resignation; departure
+
+🇸🇪 Förklaring: det att ett tåg, en buss eller ett flyg åker iväg; det att någon lämnar sitt jobb eller uppdrag
+
 发音提示：/ˈɑːvˌgoŋ/
 
 ## 语法变形 (Forms)
@@ -53,6 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[avgå]] (verb: 辞职/出发)
+- 同义词: [[avresa]] (出发)
+- 反义词: [[ankomst]] (到达)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

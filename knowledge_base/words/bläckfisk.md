@@ -8,7 +8,7 @@ zh: 章鱼；墨鱼
 en: octopus; squid (informal)
 synonyms: []
 antonyms: []
-family: ["bläck", "fisk"]
+family: [bläck, fisk]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bläckfisk — substantiv (en)
 
 📖 中文：章鱼；墨鱼 · English: octopus; squid (informal)
+
+🇸🇪 Förklaring: havsdjur med mjuk kropp och många armar som kan spruta ut svart vätska
+
 发音提示：BLÄCK-fisk（两音节，复合词）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bläck]]（墨水）, [[fisk]]（鱼）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

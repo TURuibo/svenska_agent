@@ -23,6 +23,9 @@ interval: 0
 # halvera — verb
 
 📖 中文：减半 · English: to halve
+
+🇸🇪 Förklaring: dela i två lika stora delar; minska till hälften
+
 发音提示：hal-VE-ra，重音第二音节。
 
 ## 语法变形 (Forms)

@@ -8,7 +8,7 @@ zh: 桥；桥梁
 en: bridge
 synonyms: []
 antonyms: []
-family: ["brofäste", "motorvägsbro"]
+family: [brofäste, motorvägsbro]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bro — substantiv (en-ord)
 
 📖 中文：桥；桥梁 · English: bridge
+
+🇸🇪 Förklaring: byggnad som går över vatten eller en väg så att man kan ta sig över
+
 发音提示：/bruː/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: brofäste (桥墩)
+- 词族: [[brofäste]] (桥墩), [[motorvägsbro]]
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-stadsmiljo]], [[topic-trafik]]

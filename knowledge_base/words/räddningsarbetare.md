@@ -9,7 +9,7 @@ zh: "救援人员"
 en: "rescue worker"
 synonyms: []
 antonyms: []
-family: []
+family: [rädda, räddningstjänst, arbetare]
 topics: ["topic-jordbävning-katastrof"]
 sentences: ["sent-farligt-räddningsarbetare-går-in-försöker"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # räddningsarbetare — substantiv (en)
 
 📖 中文：救援人员 · English: rescue worker
+
+🇸🇪 Förklaring: person som hjälper och räddar människor vid olyckor och katastrofer
+
 发音提示：RÄDD-nings-ar-be-ta-re；重音在第一音节
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[rädda]] (拯救), [[räddningstjänst]] (消防救援), [[arbetare]] (工人)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-jordbävning-katastrof]]
 
 ## 用法提示 (Usage Notes)

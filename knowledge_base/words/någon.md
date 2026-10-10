@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "某人；某个；一些"
 en: "someone; some; any"
-synonyms: []
-antonyms: ["ingen"]
-family: ["ingenting", "något", "några"]
+synonyms: [en-eller-annan, vem-som-helst]
+antonyms: [ingen]
+family: [ingenting, några, något]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # någon — pronomen
 
 📖 中文：某人；某个；一些 · English: someone; some; any
+
+🇸🇪 Förklaring: en person eller sak som man inte vet eller inte säger vem eller vilken det är; används också i frågor och nekande satser
+
 发音提示：/ˈnoːɡɔn/
 
 ## 语法变形 (Forms)
@@ -53,7 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ingenting]] (什么都没有), [[några]] (一些)
+- 词族: [[ingenting]] (什么都没有), [[några]] (一些), [[något]]
+- 同义词: [[en-eller-annan|en eller annan]] (某个), [[vem-som-helst|vem som helst]] (任何人)
 - 反义词: [[ingen]] (没有人/没有)
 - 主题:
 

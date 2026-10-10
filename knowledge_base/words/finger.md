@@ -22,6 +22,9 @@ interval: 0
 # finger — substantiv (ett)
 
 📖 中文：手指 · English: finger
+
+🇸🇪 Förklaring: en av de fem smala delarna längst ut på handen
+
 发音提示：/ˈfɪŋər/
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tå]], [[handled]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

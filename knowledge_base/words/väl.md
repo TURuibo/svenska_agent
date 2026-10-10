@@ -7,7 +7,7 @@ genus: ""
 cefr: A2
 zh: "吧；应该；想必（情态副词）"
 en: "right?; probably; I suppose (modal particle)"
-synonyms: ["nog", "ju"]
+synonyms: [nog, ju]
 antonyms: []
 family: []
 topics: ["topic-satsadverbial"]
@@ -23,6 +23,9 @@ interval: 0
 # väl — satsadverbial
 
 📖 中文：吧；应该；想必（情态副词） · English: right?; probably; I suppose
+
+🇸🇪 Förklaring: används när man tror att något är sant men vill att den andra ska bekräfta det; visar att något är troligt
+
 发音提示：/vɛːl/
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
 - 同义词: [[nog]] (大概), [[ju]] (本来就)
+- 反义词: —
 - 主题: [[topic-satsadverbial]]
 
 ## 用法提示 (Usage Notes)

@@ -8,7 +8,7 @@ zh: "二氧化碳"
 en: "carbon dioxide"
 synonyms: []
 antonyms: []
-family: ["utsläpp"]
+family: [utsläpp]
 topics: ["topic-miljö-och-klimat"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # koldioxid — substantiv
 
 📖 中文：二氧化碳 · English: carbon dioxide
-发音提示：
+
+🇸🇪 Förklaring: gas utan färg och lukt som bildas när man andas ut eller när man bränner t.ex. olja och kol
+
+发音提示：/ˈkoːldɪɔkˌsiːd/ — 重音在 kol（长 o），-xid 次重音
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[utsläpp]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

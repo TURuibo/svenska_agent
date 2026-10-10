@@ -24,6 +24,9 @@ interval: 0
 # skolstrejk — substantiv (en)
 
 📖 中文：罢课 · English: school strike
+
+🇸🇪 Förklaring: protest där elever stannar borta från lektionerna, t.ex. för klimatet
+
 发音提示：/ˈskuːlˌstrɛjk/；复合词 skola + strejk。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[skola]]（学校），[[strejka]]（罢工/罢课），strejk（罢工）
+- 词族: [[skola]]（学校）, [[strejka]]（罢工/罢课）, [[strejk]]（罢工）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-miljö-och-klimat]], [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

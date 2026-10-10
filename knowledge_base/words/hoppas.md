@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: A2
 zh: 希望
 en: to hope
-synonyms: []
-antonyms: []
-family: []
+synonyms: [önska]
+antonyms: [frukta, misströsta]
+family: [hopp, hopplös]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hoppas — verb (deponens, grupp 1)
 
 📖 中文：希望 · English: to hope
+
+🇸🇪 Förklaring: vilja att något ska hända och tro att det kan bli så
+
 发音提示：HOP-pas
 
 ## 语法变形 (Forms)
@@ -51,8 +54,9 @@ OBS: Deponensverb — slutar alltid på -s, men är aktivt i betydelse.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: hopp (希望/名词), hopplös (绝望的)
-- 同义词: önska (希望/期望)
+- 词族: [[hopp]] (希望/名词), [[hopplös]] (绝望的)
+- 同义词: [[önska]] (希望/期望)
+- 反义词: [[frukta]] (害怕；担心), [[misströsta]] (绝望)
 
 ## 用法提示 (Usage Notes)
 

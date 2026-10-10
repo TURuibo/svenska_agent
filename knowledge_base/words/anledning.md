@@ -7,9 +7,9 @@ genus: en
 cefr: "A2"
 zh: "原因，理由"
 en: "reason, cause"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [orsak, skäl]
+antonyms: [följd]
+family: [leda, föranleda]
 topics: []
 sentences: ["sent-det-ar-en-av-anledningarna-till"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # anledning — substantiv (en)
 
 📖 中文：原因，理由 · English: reason, cause
+
+🇸🇪 Förklaring: det som gör att något händer eller att man gör något
+
 发音提示：[an'leːdnɪŋ]，重音在第二音节
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: anledning ← anleda（引起，导致）
-- 同义词: orsak（更正式），skäl（理由）
-- 反义词: —
+- 词族: [[leda]] (引导；导致), [[föranleda]] (引起)
+- 同义词: [[orsak]]（更正式）, [[skäl]]（理由）
+- 反义词: [[följd]] (结果)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 自制的；家里做的
 en: homemade
-synonyms: []
-antonyms: []
-family: ["hem", "laga"]
+synonyms: [hemgjord]
+antonyms: [färdigköpt]
+family: [hem, laga]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-09"
 # hemlagad — adjektiv
 
 📖 中文：自制的；家里做的 · English: homemade
+
+🇸🇪 Förklaring: som man har gjort själv i köket och inte köpt färdig
+
 发音提示：/ˈhɛmˌlɑːɡad/（hem + lagad）
 
 ## 语法变形 (Forms)
@@ -40,7 +43,9 @@ created: "2026-10-09"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hem]]、[[laga]]（做饭）
+- 词族: [[hem]], [[laga]]（做饭）
+- 同义词: [[hemgjord]] (自制的)
+- 反义词: [[färdigköpt]] (买现成的)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

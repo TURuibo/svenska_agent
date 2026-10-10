@@ -19,6 +19,9 @@ created: "2026-09-26"
 # underställ — substantiv
 
 📖 中文：保暖内衣 · English: base layer; thermal underwear
+
+🇸🇪 Förklaring: varma kläder som man har närmast huden när det är kallt, till exempel av ull
+
 发音提示：/ˈɵndɛrˌstɛlː/ — under- 短 u（像英语 "oon" 短），-ställ 短 ä 带长 l
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ull]] (羊毛)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

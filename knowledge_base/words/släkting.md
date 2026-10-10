@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "亲戚"
 en: "relative"
-synonyms: []
+synonyms: [anhörig]
 antonyms: []
-family: ["släkt"]
+family: [släkt]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # släkting — substantiv
 
 📖 中文：亲戚 · English: relative
+
+🇸🇪 Förklaring: person som tillhör samma familj som man själv, t.ex. en kusin eller en farbror
+
+发音提示：/ˈslɛktɪŋ/ — ä 短音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -42,8 +46,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[släkt]]
-- 同义词: []
-- 反义词: []
+- 同义词: [[anhörig]] (亲属)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

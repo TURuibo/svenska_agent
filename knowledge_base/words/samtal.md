@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "A2"
 zh: "电话；通话；对话；谈话"
 en: "call / conversation / talk"
-synonyms: []
+synonyms: [telefonsamtal, konversation]
 antonyms: []
 family: [samtala, telefonsamtal]
 topics:
@@ -25,6 +25,9 @@ interval: 0
 # samtal — substantiv (ett)
 
 📖 中文：电话；通话；对话；谈话 · English: call / conversation / talk
+
+🇸🇪 Förklaring: 1) det att två eller flera personer pratar med varandra; 2) det att man ringer någon i telefon
+
 发音提示：SAM-tal；两音节，重音在首音节。
 
 ## 语法变形 (Forms)

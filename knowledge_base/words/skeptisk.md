@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 怀疑的
 en: sceptical
-synonyms: []
-antonyms: []
-family: []
+synonyms: [tveksam, misstänksam]
+antonyms: [godtrogen]
+family: [skepsis, skeptiker, skepticism]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-09-22"
 # skeptisk — adjektiv
 
 📖 中文：怀疑的 · English: sceptical
+
+🇸🇪 Förklaring: som inte tror på något direkt utan vill ha bevis först
+
 发音提示：/ˈʃɛpːtɪsk/
 
 ## 语法变形 (Forms)
@@ -39,9 +42,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[skepsis]] (怀疑态度), [[skeptiker]] (怀疑论者), [[skepticism]] (怀疑主义)
+- 同义词: [[tveksam]] (犹豫的), [[misstänksam]] (多疑的)
+- 反义词: [[godtrogen]] (轻信的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ett
 cefr: "B1"
 zh: "绿地；公园绿化区"
 en: "green area; park; green space"
-synonyms: []
+synonyms: [park, grönyta]
 antonyms: []
-family: []
+family: [område]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # grönområde — substantiv (ett)
 
 📖 中文：绿地；公园绿化区 · English: green area; park; green space
+
+🇸🇪 Förklaring: område med gräs, träd och buskar i en stad, till exempel en park
+
 发音提示：GRÖN-om-rå-de（复合词，重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: grön (绿色) + [[område]] (区域)
+- 同义词: [[park]] (公园), [[grönyta]] (绿地)
+- 反义词: —
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

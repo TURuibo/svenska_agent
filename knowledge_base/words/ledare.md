@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "领导人"
 en: "leader"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [chef, anförare]
+antonyms: [anhängare]
+family: [leda, ledarskap, partiledare]
 topics: ["topic-samhälle-och-politik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # ledare — substantiv (en)
 
 📖 中文：领导人 · English: leader
+
+🇸🇪 Förklaring: person som bestämmer över och styr en grupp, ett parti eller ett land
+
 发音提示：le-da-re
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[leda]] (领导), [[ledarskap]] (领导力), [[partiledare]] (党魁)
+- 同义词: [[chef]] (上司), [[anförare]] (领头人)
+- 反义词: [[anhängare]] (追随者)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

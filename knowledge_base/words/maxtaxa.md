@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "最高收费制度；费用上限制度"
 en: "maximum-fee system (capped childcare fee)"
-synonyms: []
+synonyms: [avgiftstak]
 antonyms: []
-family: [avgift]
+family: [taxa, avgift]
 topics: [topic-förskola-system, topic-förskola-vardag]
 sentences: [sent-avgiften-följer-maxtaxan-och-beror-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # maxtaxa — substantiv (en)
 
 📖 中文：最高收费制度（幼儿园费用按收入比例计算、设有上限） · English: maximum-fee system (capped childcare fee)
+
+🇸🇪 Förklaring: regel om att avgiften för förskola och fritids inte får bli högre än en viss summa
+
 发音提示：[ˈmaksˌtaksa]，max + taxa（费率）。
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: taxa（费率）, [[avgift]]
+- 词族: [[taxa]]（费率）, [[avgift]]
+- 同义词: [[avgiftstak]] (收费上限)
+- 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

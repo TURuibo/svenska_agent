@@ -6,8 +6,8 @@ verbgrupp: "1"
 cefr: A2
 zh: 收集；聚集
 en: to collect; to gather
-synonyms: []
-antonyms: []
+synonyms: [plocka, församla]
+antonyms: [sprida, skingra]
 family: [samlas]
 topics: []
 sentences: []
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # samla — verb (grupp 1)
 
 📖 中文：收集；聚集 · English: to collect; to gather
+
+🇸🇪 Förklaring: 1) leta upp och ta vara på saker av samma slag; 2) få flera människor eller saker att komma till samma plats
+
 发音提示：/ˈsamla/
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[samlas]]
-- 同义词: 
-- 反义词: 
+- 同义词: [[plocka]] (采集), [[församla]] (召集)
+- 反义词: [[sprida]] (分散), [[skingra]] (驱散)
 - 主题: 
 
 ## 用法提示 (Usage Notes)

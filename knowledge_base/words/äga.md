@@ -7,11 +7,9 @@ genus: ""
 cefr: A2
 zh: "拥有"
 en: "to own"
-synonyms:
-  - "[[ha]]"
+synonyms: [ha]
 antonyms: []
-family:
-  - "[[ägare]]"
+family: [ägare]
 topics:
   - "[[topic-allemansratten]]"
 sentences:
@@ -27,6 +25,9 @@ interval: 0
 # äga — verb
 
 📖 中文：拥有 · English: to own
+
+🇸🇪 Förklaring: ha något som sitt och bestämma över det
+
 发音提示：/ˈɛːɡa/；ä 发 [ɛː]（类似英文"air"中的元音）
 
 ## 语法变形 (Forms)

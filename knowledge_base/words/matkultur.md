@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "饮食文化"
 en: "food culture"
-synonyms: []
+synonyms: [matvanor]
 antonyms: []
-family: []
+family: [kultur, kulturell]
 topics: [topic-kultur-tradition]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # matkultur — substantiv
 
 📖 中文：饮食文化 · English: food culture
+
+🇸🇪 Förklaring: det sätt som ett folk eller en region lagar, äter och tänker kring mat
+
 发音提示：MAT-kul-tur (sammansatt ord: mat + kultur)
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[kultur]] (文化), [[kulturell]] (文化的)
+- 同义词: [[matvanor]] (饮食习惯)
+- 反义词: —
 - 主题: [[topic-kultur-tradition]]
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: "滑冰者；滑雪者；车手；货运商"
 en: "skater / skier / rider; haulier"
-synonyms: []
+synonyms: [transportör]
 antonyms: []
-family: ["åka", "skridskoåkare"]
+family: [åka, skridskoåkare]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-06"
 # åkare — substantiv (en)
 
 📖 中文：（滑冰/滑雪/驾驶的）人；货运商 · English: skater, skier, rider; haulier
+
+🇸🇪 Förklaring: person som åker skidor, skridskor eller liknande; person eller företag som kör gods med lastbil
+
 发音提示：/ˈoːkare/
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ created: "2026-10-06"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[åka]], [[skridskoåkare]]
+- 同义词: [[transportör]] (运输商)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

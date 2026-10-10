@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: "B1"
 zh: "引入，实行（法规）"
 en: "to introduce, to implement"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [inrätta, genomföra]
+antonyms: [avskaffa]
+family: [införande, föra, införsel]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-för-att-lugna-protesterna-infördes]
 known: false
@@ -22,7 +22,10 @@ interval: 0
 # införa — verb
 
 📖 中文：引入，实行（法规） · English: to introduce, to implement
-发音提示：
+
+🇸🇪 Förklaring: börja använda en ny regel, lag eller metod
+
+发音提示：/ˈɪnˌføːra/ — 重音在 in；ö 读长音 øː
 
 ## 语法变形 (Forms)
 
@@ -45,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[införande]] (引入；实施), [[föra]] (带领；引导), [[införsel]] (进口)
+- 同义词: [[inrätta]] (设立), [[genomföra]] (实施)
+- 反义词: [[avskaffa]] (废除)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

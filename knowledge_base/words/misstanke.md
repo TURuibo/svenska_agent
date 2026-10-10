@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "怀疑；嫌疑"
 en: "suspicion"
-synonyms: []
-antonyms: []
-family: ["misstänka"]
+synonyms: [tvivel, aning]
+antonyms: [förtroende]
+family: [misstänka]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # misstanke — substantiv (en)
 
 📖 中文：怀疑；嫌疑 · English: suspicion
+
+🇸🇪 Förklaring: känsla eller tanke om att något är fel eller att någon har gjort något dåligt
+
 发音提示：MIS-tan-ke；重音在第一音节
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[misstänka]]
-- 同义词:
-- 反义词:
+- 同义词: [[tvivel]] (怀疑), [[aning]] (预感)
+- 反义词: [[förtroende]] (信任)
 - 主题:
 
 ## 用法提示 (Usage Notes)

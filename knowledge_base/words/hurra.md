@@ -7,7 +7,7 @@ genus: ""
 cefr: "A1"
 zh: "万岁；好哇"
 en: "hooray"
-synonyms: []
+synonyms: [jippi]
 antonyms: []
 family: [leva]
 topics: [topic-kultur-tradition]
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # hurra — interjektion
 
 📖 中文：万岁；好哇 · English: hooray
+
+🇸🇪 Förklaring: rop som man använder för att visa glädje eller för att fira någon, till exempel på en födelsedag
+
 发音提示：[hʉˈrːɑː] 重音在第二音节，卷 r，尾音拉长；喊的时候常是四声连喊。
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[leva]]
-- 同义词: —
+- 同义词: [[jippi]] (耶)
 - 反义词: —
 - 主题: [[topic-kultur-tradition]]
 

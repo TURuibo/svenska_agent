@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "青少年时期"
 en: "teenage years"
-synonyms: []
+synonyms: [ungdomstid]
 antonyms: []
-family: []
+family: [tonåring, tonår]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tonårstid — substantiv
 
 📖 中文：青少年时期 · English: teenage years
+
+🇸🇪 Förklaring: den period i livet då man är mellan tretton och nitton år gammal
+
 发音提示：TON-års-tid
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[tonåring]] (青少年), [[tonår]] (十几岁的年纪)
+- 同义词: [[ungdomstid]] (青年时期)
 - 反义词: —
 - 主题: [[topic-idrott]]
 

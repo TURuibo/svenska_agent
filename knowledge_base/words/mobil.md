@@ -7,8 +7,8 @@ cefr: A1
 zh: 手机
 en: mobile phone
 synonyms: [mobiltelefon]
-antonyms: []
-family: []
+antonyms: [fast-telefon]
+family: [mobilnummer, mobilapp, mobilskal]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # mobil — substantiv (en)
 
 📖 中文：手机 · English: mobile phone
+
+🇸🇪 Förklaring: liten telefon utan sladd som man kan bära med sig överallt
+
+发音提示：/mʊˈbiːl/ — 重音在 bil；i 长
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: mobiltelefon
-- 反义词:
+- 词族: [[mobilnummer]] (手机号码), [[mobilapp]] (手机应用), [[mobilskal]] (手机壳)
+- 同义词: [[mobiltelefon]]
+- 反义词: [[fast-telefon|fast telefon]] (座机)
 - 主题:
 
 ## 用法提示 (Usage Notes)

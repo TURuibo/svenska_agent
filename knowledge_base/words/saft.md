@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "果汁饮料（稀释糖浆）"
 en: "squash; cordial"
-synonyms: []
+synonyms: [koncentrat]
 antonyms: []
-family: []
+family: [saftig, blåbärssaft, hallonsaft]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: [sent-vi-bjuder-på-tårta-korv-med]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # saft — substantiv (en)
 
 📖 中文：果汁饮料（浓缩糖浆兑水） · English: squash; cordial
+
+🇸🇪 Förklaring: söt dryck av bär eller frukt som ofta är koncentrerad och blandas med vatten
+
 发音提示：/saft/ — 短 a，f 和 t 都要清楚发出。
 
 ## 语法变形 (Forms)
@@ -44,6 +47,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[saftig]] (多汁的), [[blåbärssaft]] (蓝莓饮料), [[hallonsaft]] (覆盆子饮料)
+- 同义词: [[koncentrat]] (浓缩液)
+- 反义词: —
 - 相关: [[juice]]（纯果汁）· [[dricka]] · [[vatten]]
 - 主题: [[topic-småbarn-mat-och-sömn]] · [[topic-förskola-vardag]]
 

@@ -7,9 +7,9 @@ genus: en
 cefr: "B2"
 zh: "前提；条件；（复数）条件 / 潜质"
 en: "prerequisite; precondition; (pl.) conditions; potential"
-synonyms: []
+synonyms: [villkor]
 antonyms: []
-family: []
+family: [förutsätta, förutsatt-att]
 topics: [topic-argumentation]
 sentences: [sent-en-viktig-förutsättning-är-att-ungdomarna]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # förutsättning — substantiv (en)
 
 📖 中文：前提；条件；（复数）条件 / 潜质 · English: prerequisite; precondition; (pl.) conditions; potential
+
+🇸🇪 Förklaring: något som måste finnas eller vara uppfyllt för att något annat ska kunna hända; i plural också: de möjligheter och anlag som någon har
+
 发音提示：FÖR-ut-sätt-ning，重音在第一音节（`för-` 词头）。
 
 ## 语法变形 (Forms)
@@ -54,8 +57,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `förutsätta`（以……为前提）、`förutsatt att`（假设……；连词短语）
-- 同义词: —（近义 `villkor` 条件、`krav` 要求）
+- 词族: [[förutsätta]]（以……为前提）, [[förutsatt-att|förutsatt att]]（假设……；连词短语）
+- 同义词: —（近义 [[villkor]] 条件、[[krav]] 要求）
 - 反义词: —
 - 主题: [[topic-argumentation]]
 

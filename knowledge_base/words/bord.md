@@ -9,7 +9,7 @@ zh: "桌子"
 en: "table"
 synonyms: []
 antonyms: []
-family: []
+family: [köksbord, skrivbord, bordsduk]
 topics:
   - topic-mat-dryck
   - topic-hemmet
@@ -28,6 +28,9 @@ interval: 0
 # bord — substantiv (ett)
 
 📖 中文：桌子 · English: table
+
+🇸🇪 Förklaring: möbel med en platt skiva på ben, som man äter eller arbetar vid
+
 发音提示：["boord"] — 长音 o
 
 ## 语法变形 (Forms)
@@ -53,9 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[köksbord]] (餐桌), [[skrivbord]] (书桌), [[bordsduk]] (桌布)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]] · [[topic-hemmet]]
 
 ## 用法提示 (Usage Notes)

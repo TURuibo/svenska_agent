@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: "足球鞋"
 en: "football boot"
-synonyms: []
+synonyms: [dobbsko]
 antonyms: []
-family: ["sko"]
+family: [sko]
 topics: ["topic-fotboll"]
 sentences: ["sent-fick-fotbollsskor-trots-mamma"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fotbollssko — substantiv
 
 📖 中文：足球鞋 · English: football boot
+
+🇸🇪 Förklaring: sko med dobbar under sulan som man använder när man spelar boll på en gräsplan
+
 发音提示：['fɔt.bɔlsˌʃuː]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ Sammansättning: fotboll + sko. Följer sko:s böjning (deklination 2 typ med om
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[sko]]
-- 同义词: —
+- 同义词: [[dobbsko]] (带钉球鞋)
 - 反义词: —
 - 主题: [[topic-fotboll]]
 

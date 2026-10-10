@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A1"
 zh: "次，回"
 en: "time, occasion"
-synonyms: []
+synonyms: [tillfälle, omgång]
 antonyms: []
-family: []
+family: [gå, någon-gång]
 topics: []
 sentences: ["sent-när-fick-kvinnor-rösta-till"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gång — substantiv
 
 📖 中文：次，回 · English: time, occasion
+
+🇸🇪 Förklaring: ett tillfälle när något händer, till exempel tre gånger om dagen
+
 发音提示："GÅNG"，短元音
 
 ## 语法变形 (Forms)
@@ -45,8 +48,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[gå]] (走), [[någon-gång|någon gång]] (某个时候)
+- 同义词: [[tillfälle]] (场合), [[omgång]] (一轮)
 - 反义词: —
 - 主题: —
 

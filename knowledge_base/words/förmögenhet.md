@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "财富，财产"
 en: "fortune, wealth"
-synonyms: ["rikedom"]
-antonyms: []
-family: ["förmögen"]
+synonyms: [rikedom]
+antonyms: [fattigdom]
+family: [förmögen]
 topics: ["topic-uppfinning-och-teknik"]
 sentences:
   - "sent-alfred-tjänade-mycket-pengar-på-sina-uppfinningar"
@@ -25,6 +25,9 @@ interval: 0
 # förmögenhet — substantiv (en)
 
 📖 中文：财富，财产 · English: fortune, wealth
+
+🇸🇪 Förklaring: mycket pengar och annan egendom som någon äger
+
 发音提示：/fœrˈmøːɡənˌheːt/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,7 @@ interval: 0
 
 - 词族: [[förmögen]]
 - 同义词: [[rikedom]]
+- 反义词: [[fattigdom]] (贫穷)
 - 主题: [[topic-uppfinning-och-teknik]]
 
 ## 用法提示 (Usage Notes)

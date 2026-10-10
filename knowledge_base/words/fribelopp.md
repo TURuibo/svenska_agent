@@ -9,7 +9,7 @@ zh: "免税额（可赚取而不影响助学金的金额上限）"
 en: "tax-free allowance amount"
 synonyms: [gräns]
 antonyms: []
-family: [fri, belopp]
+family: [fri, belopp, gräns]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: [sent-gransen-kallas-fribelopp]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # fribelopp — substantiv (ett)
 
 📖 中文：免税额（可赚取而不影响助学金的金额上限）· English: tax-free allowance amount
+
+🇸🇪 Förklaring: den högsta summa pengar som man får tjäna utan att stödet eller bidraget man får minskar
+
 发音提示：FRI-be-lopp，复合词重音在第一成分。
 
 ## 语法变形 (Forms)

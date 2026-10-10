@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "消费"
 en: "consumption"
-synonyms: []
-antonyms: []
-family: ["konsumera"]
+synonyms: [förbrukning]
+antonyms: [produktion]
+family: [konsumera]
 topics: []
 sentences: ["sent-den-basta-hjalpen-ar-om-manniskorna-i-de-rika"]
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # konsumtion — substantiv
 
 📖 中文：消费 · English: consumption
-发音提示：
+
+🇸🇪 Förklaring: hur mycket man köper och förbrukar av varor, energi eller tjänster
+
+发音提示：/kɔnsɵmˈɧuːn/ — -tion 读 /ɧuːn/，重音在末尾
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[konsumera]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: [[förbrukning]] (消耗)
+- 反义词: [[produktion]] (生产)
 - 主题: [[]]
 
 ## 用法提示 (Usage Notes)

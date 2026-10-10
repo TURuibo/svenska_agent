@@ -18,6 +18,9 @@ created: "2026-09-22"
 # vägbeskrivning — substantiv (en)
 
 📖 中文：路线指引 · English: directions
+
+🇸🇪 Förklaring: förklaring av hur man hittar till en viss plats
+
 发音提示：/ˈvɛːɡˌbeʃriːvnɪŋ/
 
 ## 语法变形 (Forms)
@@ -42,8 +45,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[väg]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

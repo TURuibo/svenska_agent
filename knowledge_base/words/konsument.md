@@ -6,9 +6,9 @@ genus: en
 cefr: "B1"
 zh: "消费者"
 en: "consumer"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [kund, köpare]
+antonyms: [producent]
+family: [konsumera, konsumtion]
 topics: ["topic-samhälle-och-politik", "topic-mat-dryck"]
 sentences:
   - "sent-konsumenterna-blir-mer"
@@ -23,6 +23,9 @@ interval: 0
 # konsument — substantiv (en)
 
 📖 中文：消费者 · English: consumer
+
+🇸🇪 Förklaring: person som köper och använder varor eller tjänster
+
 发音提示：kon-su-MENT（重音在最后音节）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[konsumera]] (消费), [[konsumtion]] (消费)
+- 同义词: [[kund]] (顾客), [[köpare]] (买家)
+- 反义词: [[producent]] (生产者)
 - 主题: [[topic-samhälle-och-politik]] · [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

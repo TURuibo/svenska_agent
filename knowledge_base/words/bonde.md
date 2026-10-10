@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: 农民
 en: farmer
-synonyms: []
+synonyms: [lantbrukare]
 antonyms: []
-family: []
+family: [bondgård, jordbruk]
 topics: [topic-yrken]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # bonde — substantiv (en)
 
 📖 中文：农民 · English: farmer
+
+🇸🇪 Förklaring: person som äger eller sköter en gård och odlar jorden eller har djur
+
 发音提示：BON-de；元音 `o` 长音。
 
 ## 语法变形 (Forms)

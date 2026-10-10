@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "当前的；现行的"
 en: "current"
-synonyms: []
-antonyms: []
-family: ["aktuellt"]
+synonyms: [nuvarande, relevant]
+antonyms: [inaktuell, föråldrad]
+family: [aktuellt]
 topics: ["topic-allmanna-adjektiv-adverb"]
 sentences: ["sent-i-går-kväll-kollade-jag-den-aktuella"]
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-07"
 # aktuell — adjektiv
 
 📖 中文：当前的；现行的 · English: current
+
+🇸🇪 Förklaring: som gäller nu eller som är viktig just nu
+
+发音提示：/aktʉˈɛlː/ — 重音在末音节 ell，u 读 ʉ
 
 ## 语法变形 (Forms)
 
@@ -32,6 +36,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[aktuellt]]
+- 同义词: [[nuvarande]] (目前的), [[relevant]] (相关的)
+- 反义词: [[inaktuell]] (过时的), [[föråldrad]] (陈旧的)
 - 主题: [[topic-allmanna-adjektiv-adverb]]
 
 ## 用法提示 (Usage Notes)

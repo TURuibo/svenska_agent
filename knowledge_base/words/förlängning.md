@@ -6,10 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "续期；延长"
 en: "extension; renewal"
-synonyms: []
-antonyms: []
-family:
-  - förlänga
+synonyms: [förnyelse, utsträckning]
+antonyms: [förkortning]
+family: [förlänga]
 topics:
   - topic-hemmet
 sentences:
@@ -25,6 +24,9 @@ interval: 0
 # förlängning — substantiv en
 
 📖 中文：续期；延长 · English: extension; renewal
+
+🇸🇪 Förklaring: det att något görs längre i tid, till exempel ett kontrakt eller en match; ny period när något har gått ut
+
 发音提示：/för-LÄNG-ning/
 
 ## 语法变形 (Forms)
@@ -50,5 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: förlänga（动词：延长/续签）
+- 词族: [[förlänga]]（动词：延长/续签）
+- 同义词: [[förnyelse]] (续期), [[utsträckning]] (延长)
+- 反义词: [[förkortning]] (缩短)
 - 主题: [[topic-hemmet]]

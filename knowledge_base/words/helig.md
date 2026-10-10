@@ -5,9 +5,9 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "神圣的"
 en: "holy, sacred"
-synonyms: []
-antonyms: ["profan"]
-family: []
+synonyms: [sakral]
+antonyms: [profan]
+family: [helgon, helgedom, helighet]
 topics: [topic-sociala-normer]
 sentences: ["sent-i-sverige-är-köandet-en"]
 known: false
@@ -21,6 +21,10 @@ interval: 0
 # helig — adjektiv
 
 📖 中文：神圣的 · English: holy, sacred
+
+🇸🇪 Förklaring: som hör till Gud eller religionen och som människor ska visa stor respekt för
+
+发音提示：/ˈheːlɪɡ/ — e 读长音，重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -40,8 +44,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
+- 词族: [[helgon]] (圣徒), [[helgedom]] (圣地；圣所), [[helighet]] (神圣)
+- 同义词: [[sakral]] (神圣的)
 - 反义词: [[profan]]
 - 主题: [[topic-sociala-normer]]
 

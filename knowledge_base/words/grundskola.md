@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "小学/基础学校"
 en: "primary/compulsory school"
-synonyms: []
+synonyms: [lågstadie]
 antonyms: [gymnasium]
-family: [grund, skola]
+family: [grund, skola, grundskoleutbildning]
 topics: [topic-nyheter-vecka22, topic-skola-och-utbildning]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # grundskola — substantiv (en)
 
 📖 中文：小学/基础学校 · English: primary/compulsory school
+
+🇸🇪 Förklaring: den obligatoriska skolan i Sverige, från årskurs ett till nio
+
 发音提示：GRUND-sko-la，三音节，重音第一音节。
 
 ## 语法变形 (Forms)

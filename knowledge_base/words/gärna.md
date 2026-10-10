@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: "乐意地；愿意地；请（表示礼貌）"
 en: "gladly; willingly; with pleasure"
-synonyms: ["gärna"]
-antonyms: []
-family: ["gärn"]
+synonyms: [med-nöje, villigt]
+antonyms: [ogärna, motvilligt]
+family: [gärn]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # gärna — adverb
 
 📖 中文：乐意地；愿意地；请（表示礼貌） · English: gladly; willingly; with pleasure
+
+🇸🇪 Förklaring: med glädje och villigt; används också för att artigt säga ja
+
 发音提示：/ˈjæːrna/
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: gärna (固定adverb，无变化)
+- 词族: [[gärn]]
+- 同义词: [[med-nöje|med nöje]] (乐意), [[villigt]] (心甘情愿地)
+- 反义词: [[ogärna]] (不情愿地), [[motvilligt]] (勉强地)
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: ""
 cefr: "A1"
 zh: "高兴的"
 en: "happy"
-synonyms: ["lycklig"]
-antonyms: []
-family: []
+synonyms: [lycklig]
+antonyms: [ledsen, sur]
+family: [glädje, glädja, gladlynt]
 topics: ["topic-personer", "topic-karaktarsord"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # glad — adjektiv
 
 📖 中文：高兴的 · English: happy
+
+🇸🇪 Förklaring: som känner sig lycklig och är på gott humör
+
 发音提示：/ɡlɑːd/
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[glädje]] (喜悦), [[glädja]] (使高兴), [[gladlynt]] (开朗的)
 - 同义词: [[lycklig]]
+- 反义词: [[ledsen]] (难过的), [[sur]] (不高兴的)
 - 主题: [[topic-personer]], [[topic-karaktarsord]]
 
 ## 用法提示 (Usage Notes)

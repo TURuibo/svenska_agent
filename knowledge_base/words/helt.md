@@ -5,8 +5,8 @@ ordklass: adverb
 cefr: A2
 zh: 完全地
 en: completely, entirely
-synonyms: []
-antonyms: []
+synonyms: [fullständigt, totalt, alldeles]
+antonyms: [delvis]
 family: [hel]
 topics: []
 sentences: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # helt — adverb
 
 📖 中文：完全地、彻底地 · English: completely
+
+🇸🇪 Förklaring: på alla sätt och till hundra procent
+
+发音提示：/heːlt/ — e 读长音 eː（同 hel）
 
 ## 语法变形 (Forms)
 
@@ -41,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hel]]
-- 同义词:
-- 反义词:
+- 同义词: [[fullständigt]] (完全地), [[totalt]] (完全地), [[alldeles]] (完全)
+- 反义词: [[delvis]] (部分地)
 - 主题:
 
 ## 用法提示 (Usage Notes)

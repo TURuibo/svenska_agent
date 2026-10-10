@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 明亮的；浅色的
 en: bright; light
-synonyms: []
-antonyms: []
-family: []
+synonyms: [klar, solig]
+antonyms: [mörk]
+family: [ljusna, belysning]
 topics: []
 sentences: []
 known: false
@@ -21,6 +21,9 @@ interval: 0
 # ljus — adjektiv
 
 📖 中文：明亮的；浅色的 · English: bright; light
+
+🇸🇪 Förklaring: 1) som har mycket sol eller lampsken så att man ser bra; 2) om färg: blek och inte mörk
+
 发音提示：YOOS (lj 发 y 音)
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ljus (ett, 蜡烛/光), ljusna (变亮), belysning (照明)
-- 同义词: klar (清晰的), solig (阳光明媚的)
-- 反义词: mörk (黑暗的)
+- 词族: [[ljusna]] (变亮), [[belysning]] (照明)
+- 同义词: [[klar]] (清晰的), [[solig]] (阳光明媚的)
+- 反义词: [[mörk]] (黑暗的)
 
 ## 用法提示 (Usage Notes)
 

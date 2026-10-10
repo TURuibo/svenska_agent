@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "门牙"
 en: "front tooth, incisor"
 synonyms: []
-antonyms: []
+antonyms: [kindtand]
 family: [tand, kindtand]
 topics: [topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # framtand — substantiv (en)
 
 📖 中文：门牙 · English: front tooth, incisor
+
+🇸🇪 Förklaring: en av de breda, platta tänderna längst fram i munnen
+
 发音提示：/ˈframːˌtand/ — fram + tand，重音在 fram。
 
 ## 语法变形 (Forms)
@@ -41,7 +44,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[tand]] · [[kindtand]]
+- 词族: [[tand]] · [[kindtand]], [[kindtand]] (臼齿)
 - 同义词: —
 - 反义词: [[kindtand]] (臼齿)
 - 主题: [[topic-förskola-vardag]]

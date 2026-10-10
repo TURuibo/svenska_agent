@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 海滩，岸边
 en: beach, shore
-synonyms: []
+synonyms: [kust]
 antonyms: []
-family: []
+family: [sandstrand, strandkant, badstrand]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # strand — substantiv (en-ord)
 
 📖 中文：海滩，岸边 · English: beach, shore
+
+🇸🇪 Förklaring: område med sand eller stenar där land och vatten möts
+
 发音提示：/strand/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[sandstrand]] (沙滩), [[strandkant]] (水边), [[badstrand]] (海滨浴场)
+- 同义词: [[kust]] (海岸)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

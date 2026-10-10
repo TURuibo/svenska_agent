@@ -9,7 +9,7 @@ zh: "礼物"
 en: "present; gift"
 synonyms: [gåva]
 antonyms: []
-family: []
+family: [presentkort, julpresent, presentpapper]
 topics: [topic-föräldrasmåprat, topic-förskola-vardag]
 sentences: [sent-vi-samlar-in-till-en-present]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # present — substantiv (en)
 
 📖 中文：礼物 · English: present; gift
+
+🇸🇪 Förklaring: sak som man ger till någon, till exempel på födelsedagen eller till jul
+
 发音提示：/preˈsɛnt/ — 重音在**第二**音节 *-sent*（与英语 *present* 名词的重音位置不同）。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[presentkort]] (礼品卡), [[julpresent]] (圣诞礼物), [[presentpapper]] (礼品包装纸)
 - 同义词: [[gåva]]（较正式/书面）
 - 反义词: —
 - 主题: [[topic-föräldrasmåprat]] · [[topic-förskola-vardag]]

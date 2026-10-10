@@ -8,7 +8,7 @@ zh: 河狸；海狸
 en: beaver
 synonyms: []
 antonyms: []
-family: ["bäverdam"]
+family: [bäverdam]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bäver — substantiv (en)
 
 📖 中文：河狸；海狸 · English: beaver
+
+🇸🇪 Förklaring: stort djur med platt svans som bor vid vatten och bygger dammar av träd
+
 发音提示：BÄ-ver（两音节，注意 ä 发音）
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bäverdam]]（河狸坝）
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

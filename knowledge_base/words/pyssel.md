@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: "手工活动"
 en: "crafts, arts and crafts"
-synonyms: []
+synonyms: [hantverk, slöjd]
 antonyms: []
-family: []
+family: [pyssla, julpyssel, pysselbok]
 topics: ["topic-barnkalas"]
 sentences: [sent-vi-leker-gor-pyssel-och]
 known: false
@@ -18,6 +18,10 @@ created: 2026-10-09
 # pyssel — substantiv (ett-ord)
 
 📖 中文：手工活动 · English: crafts, arts and crafts
+
+🇸🇪 Förklaring: det att man gör små saker för hand, till exempel klipper, klistrar och målar
+
+发音提示：/ˈpʏsːɛl/ — y 短音，s 读长
 
 ## 语法变形 (Forms)
 
@@ -39,6 +43,9 @@ created: 2026-10-09
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[pyssla]] (做手工), [[julpyssel]] (圣诞手工), [[pysselbok]] (手工书)
+- 同义词: [[hantverk]] (手工艺), [[slöjd]] (手工课)
+- 反义词: —
 - 主题: [[topic-barnkalas]]
 
 ## 用法提示 (Usage Notes)

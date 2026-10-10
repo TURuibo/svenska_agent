@@ -7,9 +7,9 @@ genus: en
 cefr: "A2"
 zh: "爆炸"
 en: "explosion"
-synonyms: []
+synonyms: [smäll, sprängning]
 antonyms: []
-family: ["explodera"]
+family: [explodera]
 topics: []
 sentences:
   - sent-igar-kvall-var-det-en
@@ -24,6 +24,9 @@ interval: 0
 # explosion — substantiv
 
 📖 中文：爆炸 · English: explosion
+
+🇸🇪 Förklaring: när något plötsligt sprängs med en hög smäll och stor kraft
+
 发音提示：eks-plo-SHOON
 
 ## 语法变形 (Forms)
@@ -46,6 +49,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[explodera]]
+- 同义词: [[smäll]] (爆裂声), [[sprängning]] (爆破)
+- 反义词: —
 - 主题: [[topic-forsvar-och-sakerhet]]
 
 ## 用法提示 (Usage Notes)

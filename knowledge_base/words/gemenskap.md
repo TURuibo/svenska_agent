@@ -6,9 +6,9 @@ genus: en
 cefr: B1
 zh: 团结/共同体感/社区
 en: community / togetherness / fellowship
-synonyms: ["samhörighet", "solidaritet", "sammanhang"]
-antonyms: ["ensamhet", "isolering"]
-family: ["gemensam", "tillsammans"]
+synonyms: [samhörighet, solidaritet, sammanhang]
+antonyms: [ensamhet, isolering]
+family: [gemensam, tillsammans]
 topics: ["topic-midsommar-traditioner", "topic-social-kontakt"]
 sentences:
   - sent-midsommar-ar-en-tid-for-gladje
@@ -23,6 +23,9 @@ interval: 0
 # gemenskap — substantiv (en)
 
 📖 中文：团结/共同体感/社区 · English: community / togetherness / fellowship
+
+🇸🇪 Förklaring: känsla av att höra ihop med andra människor i en grupp
+
 发音提示：ge-MEN-skap（三音节）
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[gemensam]]（共同的），[[tillsammans]]（一起）
-- 同义词: [[samhörighet]]（归属感）, [[solidaritet]]（团结互助）
-- 反义词: [[ensamhet]]（孤独）
+- 词族: [[gemensam]]（共同的）, [[tillsammans]]（一起）
+- 同义词: [[samhörighet]]（归属感）, [[solidaritet]]（团结互助）, [[sammanhang]] (上下文、语境)
+- 反义词: [[ensamhet]]（孤独）, [[isolering]]
 - 主题: [[topic-midsommar-traditioner]], [[topic-social-kontakt]]
 
 ## 用法提示 (Usage Notes)

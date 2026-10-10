@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "投入；押注；追求"
 en: "to invest in, go for, bet on"
-synonyms: [sträva efter, fokusera på]
-antonyms: []
+synonyms: [sträva-efter, fokusera-på]
+antonyms: [ge-upp]
 family: [satsning, insats]
 topics: [topic-fotboll]
 sentences: [sent-gick-aldrig-klart-gymnasiet-satsade]
@@ -23,6 +23,9 @@ interval: 0
 # satsa — verb (v.1)
 
 📖 中文：投入；押注；追求 · English: to invest in, go for, bet on
+
+🇸🇪 Förklaring: 1) lägga pengar, tid eller kraft på något för att nå ett mål; 2) spela om pengar på något
+
 发音提示：/ˈsatsa/；短 a，双写 -ss- 在内部。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[satsning]] (en, 投入/举措), [[insats]] (en, 努力/押注)
-- 同义词: [[sträva efter]] (努力追求), [[fokusera på]] (专注于)
-- 反义词: —
+- 同义词: [[sträva-efter|sträva efter]] (努力追求), [[fokusera-på|fokusera på]] (专注于)
+- 反义词: [[ge-upp|ge upp]] (放弃)
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

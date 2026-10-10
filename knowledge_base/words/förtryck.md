@@ -6,9 +6,9 @@ genus: ett
 cefr: B1
 zh: 压迫，压制
 en: oppression, repression
-synonyms: []
-antonyms: []
-family: ["hedersvåld"]
+synonyms: [undertryckande]
+antonyms: [frihet]
+family: [hedersvåld]
 topics: ["topic-samhälle-och-politik"]
 sentences:
   - sent-lagen-mot-fortryck-pa-grund-av-heder
@@ -23,6 +23,9 @@ interval: 0
 # förtryck — substantiv (ett)
 
 📖 中文：压迫，压制 · English: oppression, repression
+
+🇸🇪 Förklaring: det att en grupp med makt behandlar andra orättvist och hindrar dem från att leva fritt
+
 发音提示：feur-TRICK
 
 ## 语法变形 (Forms)
@@ -51,6 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hedersvåld]]
+- 同义词: [[undertryckande]] (压制)
+- 反义词: [[frihet]] (自由)
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

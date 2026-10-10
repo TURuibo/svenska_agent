@@ -18,6 +18,10 @@ created: "2026-10-01"
 
 📖 中文：向下 · English: down
 
+🇸🇪 Förklaring: åt ett lägre håll eller till ett lägre ställe
+
+发音提示：/neːr/ — e 读长音
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: nere, nerför
-- 同义词: ned
-- 反义词: upp
+- 词族: [[nere]], [[nerför]]
+- 同义词: [[ned]]
+- 反义词: [[upp]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

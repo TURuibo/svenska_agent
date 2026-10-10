@@ -6,9 +6,9 @@ genus: ett
 cefr: A1
 zh: 头，头部
 en: head
-synonyms: []
+synonyms: [skalle]
 antonyms: []
-family: [huvud-, huvudvärk]
+family: [huvudvärk, hudvudsaklig, huvud-]
 topics: [topic-kropp]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # huvud — substantiv (ett)
 
 📖 中文：头，头部 · English: head
+
+🇸🇪 Förklaring: den översta delen av kroppen där hjärnan, ögonen, näsan och munnen finns
+
 发音提示：[ˈhʉːvʉd]
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[huvudvärk]], [[hudvudsaklig]]
+- 词族: [[huvudvärk]], [[hudvudsaklig]], [[huvud-]]
+- 同义词: [[skalle]] (脑袋（口语）)
+- 反义词: —
 - 主题: [[topic-kropp]]
 
 ## 用法提示 (Usage Notes)

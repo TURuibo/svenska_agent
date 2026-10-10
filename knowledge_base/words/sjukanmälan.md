@@ -7,8 +7,8 @@ genus: "en"
 cefr: "A2"
 zh: "报病假（名词）"
 en: "sick report; notification of illness"
-synonyms: []
-antonyms: []
+synonyms: [frånvaroanmälan]
+antonyms: [friskanmälan]
 family: [sjukanmäla, sjuk, anmälan, friskanmälan, frånvaroanmälan]
 topics: [topic-sjukt-barn-och-vab, topic-förskola-vardag]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sjukanmälan — substantiv (en)
 
 📖 中文：报病假（名词） · English: sick report; notification of illness
+
+🇸🇪 Förklaring: meddelande till arbetsgivaren eller skolan om att man är borta för att man inte är frisk
+
 发音提示：[ˈɧʉːkanˌmɛːlan] — *sjuk* 的 sj 发 [ɧ]，重音在第一音节；复合词 sjuk + anmälan。
 
 ## 语法变形 (Forms)
@@ -44,7 +47,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sjukanmäla]] · [[sjuk]] · [[anmälan]] · [[friskanmälan]] · [[frånvaroanmälan]]
+- 词族: [[sjukanmäla]] · [[sjuk]] · [[anmälan]] · [[friskanmälan]] · [[frånvaroanmälan]], [[sjuk]] (生病的), [[anmälan]], [[friskanmälan]], [[frånvaroanmälan]] (缺勤报告)
 - 同义词: [[frånvaroanmälan]]（App 里的通用叫法）
 - 反义词: [[friskanmälan]]
 - 主题: [[topic-sjukt-barn-och-vab]] · [[topic-förskola-vardag]]

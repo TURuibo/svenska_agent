@@ -7,10 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "点（餐）；订购"
 en: "to order; to place an order"
-synonyms: []
-antonyms: []
-family:
-  - boka
+synonyms: [boka]
+antonyms: [avbeställa]
+family: [boka]
 topics:
   - topic-mat-dryck
 sentences:
@@ -27,6 +26,9 @@ interval: 0
 # beställa — verb
 
 📖 中文：点（餐）；订购 · English: to order; to place an order
+
+🇸🇪 Förklaring: säga att man vill köpa eller få något, till exempel mat på en restaurang eller en vara på nätet
+
 发音提示：["beh-STEL-la"] — 重音在第二音节
 
 ## 语法变形 (Forms)
@@ -57,7 +59,7 @@ interval: 0
 
 - 词族: [[boka]]
 - 同义词: [[boka]]（侧重预订）
-- 反义词:
+- 反义词: [[avbeställa]] (取消订购)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

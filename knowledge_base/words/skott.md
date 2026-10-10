@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "枪声；射击；枪弹"
 en: "shot; gunshot"
-synonyms: []
+synonyms: [knall]
 antonyms: []
-family: ["skjuta"]
+family: [skjuta]
 topics: ["topic-krig-och-konflikt"]
 sentences:
   - sent-ett-ryskt-militärfartyg-sköt-skott
@@ -24,6 +24,9 @@ interval: 0
 # skott — substantiv
 
 📖 中文：枪声；射击；枪弹 · English: shot; gunshot
+
+🇸🇪 Förklaring: 1) det när ett vapen avfyras; 2) knallen eller kulan som kommer från ett vapen
+
 发音提示：/skɔtː/
 
 ## 语法变形 (Forms)
@@ -50,6 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skjuta]] (射击，开枪)
+- 同义词: [[knall]] (爆响)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

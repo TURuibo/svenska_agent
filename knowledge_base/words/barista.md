@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "咖啡师"
 en: "barista"
-synonyms: []
+synonyms: [servitör]
 antonyms: []
 family: []
 topics: ["topic-kafe-fika", "topic-yrken"]
@@ -25,6 +25,9 @@ interval: 0
 # barista — substantiv (en)
 
 📖 中文：咖啡师 · English: barista
+
+🇸🇪 Förklaring: person som har till yrke att göra och servera kaffe, till exempel på ett kafé
+
 发音提示：/baˈriːsta/；意大利语借词。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
 - 同义词: [[servitör]] (服务员，更广义)
+- 反义词: —
 - 主题: [[topic-kafe-fika]], [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

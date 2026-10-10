@@ -8,7 +8,7 @@ zh: "制服"
 en: "uniform"
 synonyms: []
 antonyms: []
-family: []
+family: [uniformerad, skoluniform]
 topics: [topic-klader]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # uniform — substantiv (en-ord)
 
 📖 中文：制服 · English: uniform
+
+🇸🇪 Förklaring: kläder som är likadana för alla i en viss grupp, till exempel poliser eller soldater
+
 发音提示：/uniˈfɔrm/
 
 ## 语法变形 (Forms)
@@ -45,6 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[uniformerad]] (穿制服的), [[skoluniform]] (校服)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-klader]]
 
 ## 用法提示 (Usage Notes)

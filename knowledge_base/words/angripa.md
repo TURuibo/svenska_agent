@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "攻击，袭击"
 en: "to attack"
-synonyms: ["attackera"]
-antonyms: ["försvara"]
-family: ["angrepp", "angripare"]
+synonyms: [attackera]
+antonyms: [försvara]
+family: [angrepp, angripare, angripen]
 topics: []
 sentences: ["sent-bristen-beror-bland-annat-pa-ukrainas", "sent-usa-och-iran-nu-kommit-overens"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # angripa — verb
 
 📖 中文：攻击，袭击 · English: to attack
+
+🇸🇪 Förklaring: gå till anfall mot någon med våld, vapen eller ord
+
 发音提示：[anˈɡriːpa] — 重音在 gri-，强变化动词
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: angrepp (ett — 攻击行为), angripare (en — 攻击者), angripen (participium — 被攻击的)
+- 词族: [[angrepp]] (ett — 攻击行为), [[angripare]] (en — 攻击者), [[angripen]] (participium — 被攻击的)
 - 同义词: [[attackera]] (mer vardagligt/informellt)
-- 反义词: försvara (verb — 防守/保卫)
+- 反义词: [[försvara]] (verb — 防守/保卫)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

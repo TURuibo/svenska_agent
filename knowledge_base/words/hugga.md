@@ -7,9 +7,9 @@ genus: ""
 cefr: B1
 zh: "砍/劈"
 en: "to chop, to cut, to hack"
-synonyms: []
+synonyms: [klyva, kapa]
 antonyms: []
-family: []
+family: [hugg]
 topics:
   - "[[topic-allemansratten]]"
 sentences: []
@@ -24,6 +24,9 @@ interval: 0
 # hugga — verb
 
 📖 中文：砍/劈 · English: to chop, to cut, to hack
+
+🇸🇪 Förklaring: dela eller skada något genom att slå med en yxa eller ett annat vasst verktyg, till exempel ved
+
 发音提示：/ˈhɵɡɑ/；u 发 [ɵ]（类似汉语"鱼"的韵母）
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: hugg（一砍，名词）
-- 同义词: —
+- 词族: [[hugg]]（一砍，名词）
+- 同义词: [[klyva]] (劈开), [[kapa]] (截断)
 - 反义词: —
 - 主题: [[topic-allemansratten]]
 

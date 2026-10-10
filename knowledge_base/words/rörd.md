@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "感动的"
 en: "moved; touched"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [tagen]
+antonyms: [oberörd, känslokall]
+family: [röra, rörelse]
 topics: []
 sentences:
   - sent-åh-vad-fint-jag-är-alldeles
@@ -24,6 +24,9 @@ interval: 0
 # rörd — adjektiv
 
 📖 中文：感动的 · English: moved; touched
+
+🇸🇪 Förklaring: som är så berörd av något fint eller sorgligt att man nästan börjar gråta
+
 发音提示：/røːrd/
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: röra (verb — to touch/move), rörelse
-- 同义词:
-- 反义词:
+- 词族: [[röra]] (verb — to touch/move), [[rörelse]]
+- 同义词: [[tagen]] (感动的)
+- 反义词: [[oberörd]] (无动于衷的), [[känslokall]] (冷漠的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

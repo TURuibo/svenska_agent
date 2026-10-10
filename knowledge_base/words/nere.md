@@ -5,7 +5,7 @@ ordklass: adverb
 cefr: A2
 zh: 在下面；情绪低落
 en: down, below; feeling down
-synonyms: []
+synonyms: [nedanför, nedstämd]
 antonyms: [uppe]
 family: [ner]
 topics: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # nere — adverb
 
 📖 中文：在下面；情绪低落 · English: down, below; feeling down
+
+🇸🇪 Förklaring: på ett lägre ställe; (vardagligt) ledsen och utan energi
+
+发音提示：/ˈneːrɛ/ — e 读长音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -38,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ner
-- 同义词:
-- 反义词: uppe
+- 词族: [[ner]]
+- 同义词: [[nedanför]] (在下面), [[nedstämd]] (情绪低落的)
+- 反义词: [[uppe]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

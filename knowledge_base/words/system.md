@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "系统；制度"
 en: "system"
-synonyms: []
+synonyms: [ordning, struktur]
 antonyms: []
 family: [välfärd]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # system — substantiv
 
 📖 中文：系统；制度 · English: system
+
+🇸🇪 Förklaring: flera delar som hör ihop och fungerar tillsammans; ordning för hur något är organiserat i samhället
+
+发音提示：/sʏˈsteːm/ — 重音在第二音节 -stem
 
 ## 语法变形 (Forms)
 
@@ -40,6 +44,7 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[välfärd]]
+- 同义词: [[ordning]] (体系；秩序), [[struktur]] (结构)
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]

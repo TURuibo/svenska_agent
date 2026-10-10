@@ -19,6 +19,9 @@ created: "2026-09-26"
 # snuvig — adjektiv
 
 📖 中文：流鼻涕的；鼻塞的 · English: sniffly, having a runny nose
+
+🇸🇪 Förklaring: som har en näsa som rinner eller är täppt
+
 发音提示：/ˈsnʉːvɪɡ/ — 长 u [ʉː]，词尾 -ig 读 [ɪ]（g 几乎不发音）。
 
 ## 语法变形 (Forms)

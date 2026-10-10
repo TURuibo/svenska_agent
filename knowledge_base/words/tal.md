@@ -25,6 +25,9 @@ interval: 0
 # tal — substantiv (ett)
 
 📖 中文：演讲；数字；数 · English: speech; number; count
+
+🇸🇪 Förklaring: det som någon säger inför en publik vid ett speciellt tillfälle; uttryck för ett antal, till exempel 3 eller 10
+
 发音提示：/tɑːl/；单音节，长元音。
 
 ## 语法变形 (Forms)
@@ -60,8 +63,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tala（说话），talare（演讲者），[[berätta]]（讲述）
-- 同义词: anförande（正式演讲）
+- 词族: [[tala]]（说话）, [[talare]]（演讲者）, [[berätta]]（讲述）
+- 同义词: [[anförande]]（正式演讲）
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

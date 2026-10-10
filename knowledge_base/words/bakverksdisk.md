@@ -8,7 +8,7 @@ zh: 糕点展示柜
 en: pastry display counter
 synonyms: []
 antonyms: []
-family: []
+family: [bakverk, disk]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # bakverksdisk — substantiv (en)
 
 📖 中文：糕点展示柜 · English: pastry display counter
+
+🇸🇪 Förklaring: glasdisk i ett kafé eller bageri där kakor och bullar visas upp
+
 发音提示：BAHK-verks-disk
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: bakverk (糕点), disk (柜台)
+- 词族: [[bakverk]] (糕点), [[disk]] (柜台)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

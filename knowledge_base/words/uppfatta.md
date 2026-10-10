@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "理解、感知"
 en: "perceive"
-synonyms: ["förstå"]
-antonyms: []
-family: []
+synonyms: [förstå]
+antonyms: [missuppfatta]
+family: [uppfattning, fatta]
 topics: [topic-sociala-normer]
 sentences: ["sent-spontana-besök-kan-uppfattas-som"]
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # uppfatta — verb
 
 📖 中文：理解、感知 · English: perceive
+
+🇸🇪 Förklaring: märka något med sinnena; förstå något på ett visst sätt
+
+发音提示：/ˈɵpːˌfatːa/ — 重音在 upp，tt 为长辅音
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
+- 词族: [[uppfattning]] (看法), [[fatta]] (理解；抓住)
 - 同义词: [[förstå]]
-- 反义词: []
+- 反义词: [[missuppfatta]] (误解)
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

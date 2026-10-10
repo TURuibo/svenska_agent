@@ -9,7 +9,7 @@ zh: "位置；地方；位子"
 en: "place, spot, seat"
 synonyms: [ställe, position]
 antonyms: []
-family: [platsa, ersätta, platsbiljett]
+family: [platsbiljett, platsa, ersätta]
 topics: [topic-fotboll, topic-val-demokrati]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # plats — substantiv (en)
 
 📖 中文：位置；地方；位子 · English: place, spot, seat
+
+🇸🇪 Förklaring: ställe där någon eller något finns; utrymme där man kan sitta eller stå
+
 发音提示：/plats/；pl- 辅音群，kort a。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[platsbiljett]] (en, 对号座车票), [[platsa]] (v. 有资格进入)
+- 词族: [[platsbiljett]] (en, 对号座车票), [[platsa]] (v. 有资格进入), [[ersätta]]
 - 同义词: [[ställe]] (ett, 地方), [[position]] (en, 位置)
 - 反义词: —
 - 主题: [[topic-fotboll]], [[topic-val-demokrati]]

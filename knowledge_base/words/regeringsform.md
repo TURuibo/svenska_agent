@@ -9,7 +9,7 @@ zh: "政体法（瑞典四部基本法之一）"
 en: "Instrument of Government"
 synonyms: []
 antonyms: []
-family: []
+family: [regering, regera, form]
 topics: [topic-samhälle-och-politik, topic-val-demokrati]
 sentences: [sent-det-står-skrivet-i-en-av-våra-grundlagar]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-10"
 # regeringsform — substantiv (en)
 
 📖 中文：政体法（瑞典四部基本法之一） · English: Instrument of Government
+
+🇸🇪 Förklaring: en av Sveriges grundlagar, som bestämmer hur landet ska styras och vem som har makten
+
 发音提示：/rɛˈjeːrɪŋsˌfɔrm/；regering + form
 
 ## 语法变形 (Forms)
@@ -40,6 +43,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[regering]] (政府), [[regera]] (统治), [[form]] (形式)
+- 同义词: —
+- 反义词: —
 - 相关: [[grundlag]], [[regering]]
 - 主题: [[topic-samhälle-och-politik]], [[topic-val-demokrati]]
 

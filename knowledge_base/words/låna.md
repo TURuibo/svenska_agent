@@ -8,8 +8,8 @@ cefr: A2
 zh: 借（进/出）
 en: to borrow/lend
 synonyms: []
-antonyms: []
-family: []
+antonyms: [låna-ut]
+family: [lån]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # låna — verb (v.1)
 
 📖 中文：借（进/出） · English: to borrow/lend
+
+🇸🇪 Förklaring: få använda något som tillhör någon annan en tid och sedan lämna tillbaka det; (med ut) låta någon använda något en tid
+
 发音提示：LÅ-na；元音 `å` 长音，嘴形圆。
 
 ## 语法变形 (Forms)
@@ -57,7 +60,7 @@ interval: 0
 
 - 词族: [[lån]] (ett, 贷款/借款)
 - 同义词: —
-- 反义词: —
+- 反义词: [[låna-ut|låna ut]] (借出)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

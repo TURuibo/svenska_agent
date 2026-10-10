@@ -9,7 +9,7 @@ zh: "钥匙"
 en: "key"
 synonyms: []
 antonyms: []
-family: []
+family: [nyckelknippa, husnyckel, nyckelord]
 topics: [topic-hemmet]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # nyckel — substantiv (en)
 
 📖 中文：钥匙 · English: key
+
+🇸🇪 Förklaring: liten sak av metall som man låser och låser upp dörrar med
+
 发音提示：/ˈnʏkːəl/；重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[nyckelknippa]] (钥匙串), [[husnyckel]] (房门钥匙), [[nyckelord]] (关键词)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-hemmet]]

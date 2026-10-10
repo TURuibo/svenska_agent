@@ -6,9 +6,9 @@ genus: en
 cefr: A1
 zh: 下午茶；咖啡时间
 en: coffee break; fika (Swedish coffee tradition)
-synonyms: []
+synonyms: [kafferast, kaffepaus]
 antonyms: []
-family: []
+family: [fikapaus, fikarum, fikabröd]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fika — substantiv (en)
 
 📖 中文：下午茶；咖啡时间 · English: coffee break; fika
+
+🇸🇪 Förklaring: paus då man dricker kaffe eller te och äter något sött, ofta tillsammans med andra
+
 发音提示：FEE-kah
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[fikapaus]] (fika 休息), [[fikarum]] (茶水间), [[fikabröd]] (配咖啡的点心)
+- 同义词: [[kafferast]] (咖啡休息), [[kaffepaus]] (咖啡休息)
+- 反义词: —
 - 主题: [[topic-kafe-fika]]
 
 ## 用法提示 (Usage Notes)

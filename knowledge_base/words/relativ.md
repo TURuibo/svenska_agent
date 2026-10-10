@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 相对的；（relativt）相当
 en: relative; (relativt) relatively
-synonyms: []
-antonyms: []
-family: []
+synonyms: [ganska]
+antonyms: [absolut]
+family: [relativt, relativitet]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # relativ — adjektiv
 
 📖 中文：相对的；（relativt）相当 · English: relative; (relativt) relatively
+
+🇸🇪 Förklaring: som bedöms i jämförelse med något annat och inte gäller helt och hållet
+
+发音提示：/ˈreːlatiːv/ — 重音常在第一音节；也可重读末音节
 
 ## 语法变形 (Forms)
 
@@ -40,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词: ganska
-- 反义词:
+- 词族: [[relativt]] (相对地；相当), [[relativitet]] (相对性)
+- 同义词: [[ganska]]
+- 反义词: [[absolut]] (绝对的)
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A1"
 zh: "妈妈"
 en: "mom"
-synonyms: ["mor"]
-antonyms: ["pappa"]
-family: ["förälder"]
+synonyms: [mor]
+antonyms: [pappa]
+family: [förälder]
 topics: ["topic-personer", "topic-familj-och-barn"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # mamma — substantiv (en)
 
 📖 中文：妈妈 · English: mom
+
+🇸🇪 Förklaring: kvinna som är förälder till ett barn
+
 发音提示：/ˈmama/
 
 ## 语法变形 (Forms)
@@ -46,9 +49,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[förälder]]
 - 同义词: [[mor]]
 - 反义词: [[pappa]]
-- 词族: [[förälder]]
 - 主题: [[topic-personer]], [[topic-familj-och-barn]]
 
 ## 用法提示 (Usage Notes)

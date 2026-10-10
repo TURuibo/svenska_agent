@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 最糟的；最坏的
 en: worst
-synonyms: []
+synonyms: [sämsta]
 antonyms: [bästa]
-family: []
+family: [värre, värst, illa]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # värsta — adjektiv
 
 📖 中文：最糟的；最坏的 · English: worst
+
+🇸🇪 Förklaring: (bestämd form) som är det mest dåliga eller allvarliga av alla
+
 发音提示：/ˈvæʂta/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: 
-- 同义词: 
-- 反义词: bästa
+- 词族: [[värre]] (更糟的), [[värst]] (最糟的), [[illa]] (糟糕地)
+- 同义词: [[sämsta]] (最差的)
+- 反义词: [[bästa]]
 - 主题: 
 
 ## 用法提示 (Usage Notes)

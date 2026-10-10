@@ -9,7 +9,7 @@ zh: "运动（项目）；体育"
 en: "sport"
 synonyms: [idrott]
 antonyms: []
-family: []
+family: [sportig, sportlov, sportbutik]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # sport — substantiv (en)
 
 📖 中文：运动（项目）；体育 · English: sport
+
+🇸🇪 Förklaring: fysisk aktivitet eller tävling som man håller på med för motion eller nöje
+
 发音提示：/spɔrt/（rt 读成卷舌的 ʈ）
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
+- 词族: [[sportig]] (爱运动的), [[sportlov]] (冬季运动假), [[sportbutik]] (体育用品店)
 - 同义词: [[idrott]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

@@ -26,6 +26,9 @@ interval: 0
 # kafé — substantiv (ett)
 
 📖 中文：咖啡馆 · English: café
+
+🇸🇪 Förklaring: ställe där man kan köpa och dricka kaffe och äta kakor eller smörgåsar
+
 发音提示：ka-FÉ；两音节，重音在末音节，é 发长音。
 
 ## 语法变形 (Forms)
@@ -52,7 +55,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kaffe]] (ett, 咖啡), [[kaffekopp]] (en, 咖啡杯)
+- 词族: [[kaffe]] (ett, 咖啡), [[kaffekopp]] (en, 咖啡杯), [[konditori]] (糕点咖啡馆)
 - 同义词: [[konditori]] (ett, 糕点店/咖啡馆，更强调糕点)
 - 反义词: —
 - 主题: [[topic-stadsmiljo]]

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "饥荒"
 en: "famine"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [hungersnöd]
+antonyms: [överflöd]
+family: [svälta, svältkatastrof]
 topics: ["topic-naturkatastrof"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # svält — substantiv
 
 📖 中文：饥荒 · English: famine
-发音提示：
+
+🇸🇪 Förklaring: tillstånd då många människor under lång tid inte får tillräckligt med mat
+
+发音提示：/svɛlt/ — ä 读短音 ɛ，单音节
 
 ## 语法变形 (Forms)
 
@@ -38,9 +41,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[svälta]] (挨饿), [[svältkatastrof]] (饥荒灾难)
+- 同义词: [[hungersnöd]] (饥荒)
+- 反义词: [[överflöd]] (富足)
 - 主题: [[topic-naturkatastrof]]
 
 ## 用法提示 (Usage Notes)

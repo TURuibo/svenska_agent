@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: B1
 zh: 双的、两倍的
 en: double
-synonyms: []
-antonyms: []
-family: []
+synonyms: [tvåfaldig]
+antonyms: [enkel]
+family: [dubbelrum, dubbelsäng]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # dubbel — adjektiv
 
 📖 中文：双的、两倍的 · English: double
+
+🇸🇪 Förklaring: som finns två gånger eller är två gånger så stor
+
 发音提示：/ˈdɵbɛl/；重音在第一音节 DUB-bel，`u` 读短 /ɵ/。
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: dubbelrum, dubbelsäng（复合词）
-- 同义词:
+- 词族: [[dubbelrum]], [[dubbelsäng]]（复合词）
+- 同义词: [[tvåfaldig]] (两倍的)
 - 反义词: enkel（单一的；见 [[enkel]]）
 - 主题:
 

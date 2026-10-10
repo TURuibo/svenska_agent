@@ -9,7 +9,7 @@ zh: "三文鱼"
 en: "salmon"
 synonyms: []
 antonyms: []
-family: []
+family: [gravlax, laxfilé, laxtrappa]
 topics:
   - topic-mat-dryck
 sentences:
@@ -25,6 +25,9 @@ interval: 0
 # lax — substantiv (en)
 
 📖 中文：三文鱼 · English: salmon
+
+🇸🇪 Förklaring: stor fisk med rosa kött som lever i havet och simmar upp i älvar för att leka
+
 发音提示：["laks"] — 短元音 a
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[gravlax]] (腌三文鱼), [[laxfilé]] (三文鱼排), [[laxtrappa]] (鱼梯)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

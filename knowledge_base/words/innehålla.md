@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "包含"
 en: "to contain"
-synonyms: [bestå]
+synonyms: [bestå-av, ha, bestå]
 antonyms: [sakna]
-family: [hålla, innehåll]
+family: [hålla, innehåll, inne]
 topics: [topic-nyheter-vecka22]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # innehålla — verb
 
 📖 中文：包含 · English: to contain
+
+🇸🇪 Förklaring: ha något i sig som en del, till exempel ett ämne eller en ingrediens
+
 发音提示：in-ne-HÅLLA，重音在第三音节。
 
 ## 语法变形 (Forms)
@@ -55,7 +58,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[hålla]] (v. 持有/保持), [[innehåll]] (ett, 内容/成分), [[inne]] (adv. 在内)
-- 同义词: [[bestå av]] (由…组成), [[ha]] (有，口语)
+- 同义词: [[bestå-av|bestå av]] (由…组成), [[ha]] (有，口语), [[bestå]]
 - 反义词: [[sakna]] (v. 缺乏/没有)
 - 主题: [[topic-nyheter-vecka22]]
 

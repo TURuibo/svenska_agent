@@ -19,6 +19,9 @@ created: "2026-09-26"
 # skötbord — substantiv
 
 📖 中文：尿布台 · English: changing table
+
+🇸🇪 Förklaring: bord där man lägger ett litet barn för att byta blöja och tvätta det
+
 发音提示：[ˈɧøːtˌbuːɖ] skö- 是 sj 音（像吹气的"呼"），-bord 的 r+d 合成卷舌 d。
 
 ## 语法变形 (Forms)

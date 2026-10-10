@@ -7,7 +7,7 @@ zh: 反而、代替
 en: instead
 synonyms: []
 antonyms: []
-family: []
+family: [i-stället, i-stället-för]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # istället — adverb
 
 📖 中文：反而、代替 · English: instead
+
+🇸🇪 Förklaring: som ersättning för något annat som man har nämnt
+
 发音提示：/ɪˈstɛlːɛt/；i-STÄL-let，重音在 `stäl`，`ll` 读长。
 
 ## 语法变形 (Forms)

@@ -8,7 +8,7 @@ zh: 咳嗽
 en: cough
 synonyms: []
 antonyms: []
-family: [hosta]
+family: [hostmedicin]
 topics: [topic-hälsa]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hosta — substantiv (en)
 
 📖 中文：咳嗽 · English: cough
+
+🇸🇪 Förklaring: kort, häftigt ljud när luft plötsligt pressas ut från lungorna, ofta när man är förkyld
+
 发音提示：[ˈhʊsta]
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[hosta]] (动词), [[hostmedicin]]
+- 词族: [[hostmedicin]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

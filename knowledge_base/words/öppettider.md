@@ -8,7 +8,7 @@ cefr: "A2"
 zh: "开放时间；营业时间"
 en: "opening hours; business hours"
 synonyms: []
-antonyms: []
+antonyms: [stängningstid]
 family: [öppen, öppna, tid]
 topics: [topic-samhalle, topic-fritid]
 sentences: [sent-var-kan-jag-hitta-oppettiderna, sent-oppettiderna-ar-mandag-till-fredag]
@@ -23,6 +23,9 @@ interval: 0
 # öppettider — substantiv (plural)
 
 Zh: 开放时间；营业时间 · English: opening hours; business hours
+
+🇸🇪 Förklaring: de tider då en affär, ett kontor eller liknande tar emot kunder
+
 发音提示：ÖP-pet-ti-der（四个音节）
 
 ## 语法变形 (Forms)
@@ -52,7 +55,9 @@ Zh: 开放时间；营业时间 · English: opening hours; business hours
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[öppen]]（开放的），[[öppna]]（开门；打开），[[tid]]（时间）
+- 词族: [[öppen]]（开放的）, [[öppna]]（开门；打开）, [[tid]]（时间）
+- 同义词: —
+- 反义词: [[stängningstid]] (关门时间)
 - 主题: [[topic-samhalle]], [[topic-fritid]]
 
 ## 用法提示 (Usage Notes)

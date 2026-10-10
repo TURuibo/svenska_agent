@@ -8,7 +8,7 @@ zh: "盘子"
 en: "plate"
 synonyms: []
 antonyms: []
-family: []
+family: [sopptallrik, djup-tallrik]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tallrik — substantiv (en-ord)
 
 📖 中文：盘子 · English: plate
+
+🇸🇪 Förklaring: platt, rund sak som man lägger maten på när man äter
+
 发音提示：['talrɪk]
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: sopptallrik（汤盘）, djup tallrik（深盘）
+- 词族: [[sopptallrik]]（汤盘）, [[djup-tallrik|djup tallrik]]（深盘）
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

@@ -7,9 +7,9 @@ genus: ""
 cefr: "B2"
 zh: "声称；主张；坚持（权利、立场）"
 en: "to claim; to assert; to maintain"
-synonyms: [påstå]
-antonyms: []
-family: []
+synonyms: [påstå, mena, anse]
+antonyms: [förneka, ifrågasätta]
+family: [hävd]
 topics: [topic-argumentation]
 sentences: [sent-kommunens-politiker-hävdar-att-vi-inte-har-råd]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # hävda — verb (grupp 1)
 
 📖 中文：声称；主张；坚持（权利、立场） · English: to claim; to assert; to maintain
+
+🇸🇪 Förklaring: säga bestämt att något är sant, även om andra tvivlar; försvara sin rätt eller sin plats
+
 发音提示：HÄV-da，`ä` 在 v 前读 [ɛ]；重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -55,9 +58,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `hävd`（名词：[法]确立的使用权；`vinna hävd`）
-- 同义词: `påstå`（声称，更常带"我不信"的意味）；近义 [[mena]]（认为）、[[anse]]（认为，正式）
-- 反义词: `förneka`（否认）、`ifrågasätta`（质疑）
+- 词族: [[hävd]]（名词：[法]确立的使用权；`vinna hävd`）
+- 同义词: [[påstå]]（声称，更常带"我不信"的意味）, 近义 [[mena]]（认为）, [[anse]]（认为，正式）
+- 反义词: [[förneka]]（否认）, [[ifrågasätta]]（质疑）
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

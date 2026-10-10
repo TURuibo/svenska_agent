@@ -6,9 +6,9 @@ genus: "ett"
 cefr: "B1"
 zh: "例外"
 en: "exception"
-synonyms: []
-antonyms: ["regel"]
-family: []
+synonyms: [avvikelse]
+antonyms: [regel]
+family: [undanta, undan, undantagsfall]
 topics: ["topic-argumentation"]
 sentences: ["sent-jag-tycker-att-distansarbete-ska-vara"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-07"
 # undantag — substantiv
 
 📖 中文：例外 · English: exception
+
+🇸🇪 Förklaring: något som inte följer den vanliga regeln eller ordningen
+
 发音提示：UN-dan-tag，重音在第一音节
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ created: "2026-10-07"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 反义词: regel
+- 词族: [[undanta]] (除外), [[undan]] (到一边), [[undantagsfall]] (例外情况)
+- 同义词: [[avvikelse]] (偏差)
+- 反义词: [[regel]]
 - 主题: [[topic-argumentation]]
 
 ## 用法提示 (Usage Notes)

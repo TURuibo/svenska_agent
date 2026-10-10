@@ -8,7 +8,7 @@ zh: 牙齿
 en: tooth
 synonyms: []
 antonyms: []
-family: [tandläkare, tandborste]
+family: [tandläkare, tandborste, tandkräm]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tand — substantiv (en)
 
 📖 中文：牙齿 · English: tooth
+
+🇸🇪 Förklaring: en av de hårda, vita delarna i munnen som man tuggar med
+
 发音提示：[tand]
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[tandläkare]], [[tandborste]], [[tandkräm]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

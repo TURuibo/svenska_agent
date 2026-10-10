@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "对手"
 en: "competitor"
 synonyms: [motståndare]
-antonyms: []
+antonyms: [samarbetspartner]
 family: [konkurrera, konkurrens]
 topics: [topic-idrott]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # konkurrent — substantiv
 
 📖 中文：对手 · English: competitor
+
+🇸🇪 Förklaring: person eller företag som tävlar mot någon annan om samma kunder eller mål
+
 发音提示：kon-kur-RENT
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 - 词族: [[konkurrera]]（竞争，尚无笔记）, [[konkurrens]]（竞争，尚无笔记）
 - 同义词: [[motståndare]]（尚无笔记）
-- 反义词: —
+- 反义词: [[samarbetspartner]] (合作伙伴)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

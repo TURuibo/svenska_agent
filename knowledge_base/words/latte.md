@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 拿铁
 en: latte
-synonyms: []
+synonyms: [caffè-latte]
 antonyms: []
-family: []
+family: [lattemamma, lattepappa]
 topics: [topic-kafe-fika]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # latte — substantiv (en)
 
 📖 中文：拿铁 · English: latte
+
+🇸🇪 Förklaring: kaffedryck med espresso och mycket varm, skummad mjölk
+
 发音提示：LAT-teh
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[lattemamma]] (拿铁妈妈), [[lattepappa]] (拿铁爸爸)
+- 同义词: [[caffè-latte|caffè latte]] (拿铁咖啡)
+- 反义词: —
 - 相关: [[espresso]], [[cappuccino]], [[bryggkaffe]]
 - 主题: [[topic-kafe-fika]]
 

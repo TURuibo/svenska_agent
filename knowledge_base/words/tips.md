@@ -9,7 +9,7 @@ zh: "建议；小窍门"
 en: "tip, piece of advice"
 synonyms: [råd]
 antonyms: []
-family: []
+family: [tipsa, tipspromenad]
 topics: [topic-förskola-vardag]
 sentences: [sent-har-du-något-tips-mot-snuvan]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tips — substantiv (ett)
 
 📖 中文：建议；小窍门 · English: tip, piece of advice
+
+🇸🇪 Förklaring: kort råd eller information som kan vara bra att veta
+
 发音提示：/tɪps/ — 短 i，一个音节；英语借词。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,7 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[tipsa]] (建议), [[tipspromenad]] (知识竞答散步)
 - 同义词: [[råd]]（更正式，来自专业人士）
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]

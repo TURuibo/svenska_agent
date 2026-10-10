@@ -8,7 +8,7 @@ cefr: "B2"
 zh: "教育；文化素养；知识培育"
 en: "education, formation, cultivation"
 synonyms: [utbildning]
-antonyms: []
+antonyms: [okunnighet]
 family: [bilda, bildad]
 topics: [topic-skola-och-utbildning]
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # bildning — substantiv (en)
 
 📖 中文：教育；文化素养；知识培育 · English: education, formation, cultivation
+
+🇸🇪 Förklaring: kunskaper om kultur, historia och samhälle som man har fått genom att läsa och lära sig
+
 发音提示：**bild**-ning，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -53,7 +56,7 @@ interval: 0
 
 - 词族: [[bilda]] (动词：组建/教育), [[bildad]] (受过教育的/有素养的)
 - 同义词: [[utbildning]] (更偏正式学校教育/培训)
-- 反义词: —
+- 反义词: [[okunnighet]] (无知)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

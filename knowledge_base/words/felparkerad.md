@@ -7,8 +7,8 @@ genus: ""
 cefr: "B2"
 zh: "停放不当的；违章停放的"
 en: "wrongly parked; illegally parked"
-synonyms: []
-antonyms: []
+synonyms: [olagligt-parkerad]
+antonyms: [rätt-parkerad]
 family: [parkera, parkering, parkeringsplats]
 topics: [topic-trafik-säkerhet]
 sentences: [sent-i-beslutet-ingår-också-att-företagen-själva]
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # felparkerad — adjektiv
 
 📖 中文：停放不当的；违章停放的 · English: wrongly parked; illegally parked
+
+🇸🇪 Förklaring: om en bil: som står på en plats där man inte får ställa den
+
 发音提示：FEL-par-ke-rad，重音在第一音节 `fel`。
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[parkera]]（停车）、[[parkering]]、[[parkeringsplats]]
-- 同义词: 近义 `olagligt parkerad`（非法停放的）
-- 反义词: `rätt parkerad`（停放正确的）
+- 词族: [[parkera]]（停车）, [[parkering]], [[parkeringsplats]]
+- 同义词: 近义 [[olagligt-parkerad|olagligt parkerad]]（非法停放的）
+- 反义词: [[rätt-parkerad|rätt parkerad]]（停放正确的）
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

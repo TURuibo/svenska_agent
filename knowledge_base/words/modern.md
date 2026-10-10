@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "现代的"
 en: "modern"
-synonyms: []
-antonyms: ["gammal", "gammaldags"]
-family: []
+synonyms: [nutida, tidsenlig]
+antonyms: [gammal, gammaldags]
+family: [modernisera, modernitet, modernism]
 topics: ["topic-personer"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # modern — adjektiv
 
 📖 中文：现代的 · English: modern
+
+🇸🇪 Förklaring: som hör till vår tid eller följer det nya och senaste
+
 发音提示：/ˈmuːdɛrn/
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[modernisera]] (现代化), [[modernitet]] (现代性), [[modernism]] (现代主义)
+- 同义词: [[nutida]] (当代的), [[tidsenlig]] (合时宜的)
 - 反义词: [[gammal]], [[gammaldags]]
 - 主题: [[topic-personer]]
 

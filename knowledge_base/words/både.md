@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "既……又……，……和……都"
 en: "both (… and …)"
-synonyms: []
-antonyms: ["varken"]
-family: ["båda", "bägge"]
+synonyms: [såväl-som]
+antonyms: [varken]
+family: [båda, bägge]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # både — konjunktion (korrelativ)
 
 📖 中文：既……又……，……和……都 · English: both (… and …)
+
+🇸🇪 Förklaring: används tillsammans med och för att visa att två saker gäller samtidigt
+
 发音提示：/ˈbôːdɛ/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[båda]], [[bägge]]
-- 同义词:
+- 同义词: [[såväl-som|såväl som]] (既…又…)
 - 反义词: [[varken]]（`varken … eller`）
 - 主题:
 

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "生活费用；生活成本"
 en: "cost of living; living expense"
-synonyms: []
+synonyms: [utgifter]
 antonyms: []
-family: [kostnad]
+family: [kostnad, levnad, leva]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-ekonomiskt-bistånd-kan-vara-två-typer-av, sent-stöd-för-andra-levnadskostnader]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # levnadskostnad — substantiv (en)
 
 📖 中文：生活费用；生活成本 · English: cost of living; living expense
+
+🇸🇪 Förklaring: pengar som man behöver varje månad för hyra, mat, kläder och resor
+
 发音提示：LEV-nads-kost-nad，重音在第一音节 `lev`。
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[kostnad]]（费用）、`levnad`（生活方式）、`leva`（生活）→ [[leva]]
-- 同义词: —（近义 `utgifter`）
+- 词族: [[kostnad]]（费用）, [[levnad]]（生活方式）, `leva`（生活）→ [[leva]]
+- 同义词: —（近义 [[utgifter]]）
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]
 

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "湿的"
 en: "wet"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [våt, fuktig]
+antonyms: [torr]
+family: [blötlägga, blöta]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # blöt — adjektiv
 
 📖 中文：湿的 · English: wet
+
+🇸🇪 Förklaring: som har mycket vatten eller annan vätska i sig eller på sig
+
 发音提示：/bløːt/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[blötlägga]] (浸泡), [[blöta]] (v. blötlägga)
-- 同义词: —
+- 同义词: [[våt]] (湿的), [[fuktig]] (潮湿的)
 - 反义词: [[torr]] (干燥的)
 - 主题: [[topic-djur]]
 

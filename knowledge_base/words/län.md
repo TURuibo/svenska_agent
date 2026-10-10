@@ -7,7 +7,7 @@ genus: "ett"
 cefr: "B1"
 zh: "省；郡"
 en: "county"
-synonyms: []
+synonyms: [region]
 antonyms: []
 family: [kommun]
 topics: [topic-samhälle-och-politik]
@@ -19,6 +19,10 @@ created: "2026-10-05"
 # län — substantiv
 
 📖 中文：省；郡 · English: county
+
+🇸🇪 Förklaring: ett av Sveriges 21 större områden med egen regional förvaltning, t.ex. Skåne
+
+发音提示：/lɛːn/ — ä 读长音
 
 ## 语法变形 (Forms)
 
@@ -40,6 +44,7 @@ created: "2026-10-05"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[kommun]]
+- 同义词: [[region]] (地区)
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 - 来源: [[source-2026-10-05-fokus-valfarden-i-sverige]]

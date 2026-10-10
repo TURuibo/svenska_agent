@@ -20,6 +20,9 @@ created: "2026-10-02"
 # socialtjänstlag — substantiv (en)
 
 📖 中文：社会服务法 · English: Social Services Act
+
+🇸🇪 Förklaring: svensk lag som bestämmer vilken hjälp och vilket stöd kommunen ska ge till invånare som behöver det
+
 发音提示：so-si-AL-tjänst-lag，重音在 `al`；缩写 `SoL` 读 "soll"。
 
 ## 语法变形 (Forms)
@@ -45,7 +48,7 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[socialtjänst]]（社会服务机构）、[[lag]]（法律）、[[social]]（社会的）
+- 词族: [[socialtjänst]]（社会服务机构）, [[lag]]（法律）, [[social]]（社会的）
 - 同义词: —（缩写 `SoL`）
 - 反义词: —
 - 主题: [[topic-samhälle-och-politik]]

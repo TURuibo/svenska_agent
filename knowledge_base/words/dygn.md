@@ -9,7 +9,7 @@ zh: "一昼夜，24小时"
 en: "24-hour period"
 synonyms: []
 antonyms: []
-family: []
+family: [dygnet-runt, dygnsrytm]
 topics: ["topic-tid-och-tidsuttryck"]
 sentences: ["sent-det-ar-morkt-hela-dygnet", "sent-da-ar-det-ljust-nastan-hela-dygnet"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # dygn — substantiv (ett)
 
 📖 中文：一昼夜，24小时 · English: 24-hour period, day (24 hours)
+
+🇸🇪 Förklaring: tid på 24 timmar, både dag och natt
+
 发音提示：[dygn]，单音节
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[dygnet-runt|dygnet runt]] (全天候), [[dygnsrytm]] (昼夜节律)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-tid-och-tidsuttryck]]

@@ -7,8 +7,8 @@ genus: ""
 cefr: A2
 zh: 参与；参加
 en: to participate; to take part
-synonyms: []
-antonyms: []
+synonyms: [vara-med, medverka]
+antonyms: [avstå]
 family: [deltagare, deltagande]
 topics: [topic-skola-och-utbildning]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # delta — verb (grupp 1)
 
 📖 中文：参与；参加 · English: to participate; to take part
+
+🇸🇪 Förklaring: vara med i en aktivitet, ett möte eller en tävling tillsammans med andra
+
 发音提示：["dɛlta]，与希腊字母同形但意思不同
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[deltagare]], [[deltagande]]
-- 同义词: —
-- 反义词: —
+- 同义词: [[vara-med|vara med]] (参加), [[medverka]] (参与)
+- 反义词: [[avstå]] (放弃；不参加)
 - 主题: [[topic-skola-och-utbildning]]
 
 ## 用法提示 (Usage Notes)

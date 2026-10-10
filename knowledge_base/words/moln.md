@@ -8,7 +8,7 @@ zh: "云"
 en: "cloud"
 synonyms: []
 antonyms: []
-family: ["molnig"]
+family: [molnig]
 topics: ["topic-vader-och-arstider"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # moln — substantiv (ett)
 
 📖 中文：云 · English: cloud
+
+🇸🇪 Förklaring: vit eller grå samling av små vattendroppar som svävar högt uppe på himlen
+
 发音提示：[muːln]
 
 ## 语法变形 (Forms)
@@ -47,7 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: molnig (多云的)
+- 词族: [[molnig]] (多云的)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

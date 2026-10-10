@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 城区、城市区块
 en: city district, neighborhood
-synonyms: ["kvarter"]
+synonyms: [kvarter]
 antonyms: []
-family: ["stad"]
+family: [stad]
 topics: ["topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # stadsdel — substantiv (en)
 
 📖 中文：城区、城市区块 · English: city district, neighborhood
+
+🇸🇪 Förklaring: område i en större ort med eget namn och ofta egna affärer och skolor
+
 发音提示：STADS-del
 
 ## 语法变形 (Forms)
@@ -47,8 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: [[kvarter]]
 - 词族: [[stad]]
+- 同义词: [[kvarter]]
+- 反义词: —
 - 主题: [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

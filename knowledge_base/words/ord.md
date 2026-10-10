@@ -6,9 +6,9 @@ genus: "ett"
 cefr: A1
 zh: 词；单词
 en: word
-synonyms: []
+synonyms: [glosa, term]
 antonyms: []
-family: []
+family: [ordbok]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # ord — substantiv (ett)
 
 📖 中文：词；单词 · English: word
+
+🇸🇪 Förklaring: en eller flera bokstäver eller ljud som tillsammans betyder något
+
+发音提示：/uːɖ/ — o 读 uː；rd 合成卷舌 ɖ
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ordbok
-- 同义词:
-- 反义词:
+- 词族: [[ordbok]]
+- 同义词: [[glosa]] (生词), [[term]] (术语)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "无处；哪儿也（不）"
 en: "nowhere; not anywhere"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [inte]
+antonyms: [någonstans, överallt]
+family: [ingen]
 topics: []
 sentences: [sent-nu-har-många-tonåringar-ingenstans-att-vara]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # ingenstans — adverb
 
 📖 中文：无处；哪儿也（不） · English: nowhere; not anywhere
+
+🇸🇪 Förklaring: inte på något ställe och inte till något ställe
+
 发音提示：IN-gen-stans，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ingen + stans（`stans` = 地方，口语中的 stad）
-- 同义词: `inte … någonstans`
-- 反义词: `någonstans`（某处）、`överallt`（到处）
+- 词族: [[ingen]] + stans（`stans` = 地方，口语中的 stad）
+- 同义词: [[inte]] … någonstans`
+- 反义词: [[någonstans]]（某处）, [[överallt]]（到处）
 - 主题: —
 
 ## 用法提示 (Usage Notes)

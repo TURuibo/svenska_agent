@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "援助；（社会）补助"
 en: "assistance; aid; (social welfare) benefit"
-synonyms: [stöd, bidrag]
+synonyms: [stöd, bidrag, socialbidrag]
 antonyms: []
-family: [ekonomisk]
+family: [ekonomisk, försörjningsstöd]
 topics: [topic-ekonomi-och-bidrag]
 sentences: [sent-vad-är-ekonomiskt-bistånd, sent-ekonomiskt-bistånd-är-pengar-som-du-kan, sent-du-kan-få-ekonomiskt-bistånd-om-du-inte, sent-reglerna-om-ekonomiskt-bistånd-finns-i, sent-två-typer-av-ekonomiskt-bistånd, sent-ekonomiskt-bistånd-kan-vara-två-typer-av, sent-du-kan-också-få-ekonomiskt-bistånd-för-vissa]
 sources: [source-2026-10-02-myndighet-ekonomiskt-stod]
@@ -20,6 +20,9 @@ created: "2026-10-02"
 # bistånd — substantiv (ett)
 
 📖 中文：援助；（社会）补助 · English: assistance; aid; (social welfare) benefit
+
+🇸🇪 Förklaring: hjälp i form av pengar eller saker, till exempel till fattiga länder eller till personer som inte kan försörja sig
+
 发音提示：BI-stånd，重音在第一音节 `bi`（`bi-` + `stånd`）。
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[ekonomisk]]（形容词，固定搭配 `ekonomiskt bistånd`）、[[försörjningsstöd]]（bistånd 的一种）
-- 同义词: [[stöd]]（更泛）、[[bidrag]]（津贴、拨款）；口语俗称 `socialbidrag`
+- 词族: [[ekonomisk]]（形容词，固定搭配 `ekonomiskt bistånd`）, [[försörjningsstöd]]（bistånd 的一种）
+- 同义词: [[stöd]]（更泛）, [[bidrag]]（津贴、拨款）, 口语俗称 [[socialbidrag]]
 - 反义词: —
 - 主题: [[topic-ekonomi-och-bidrag]]
 

@@ -8,7 +8,7 @@ zh: "升"
 en: "litre"
 synonyms: []
 antonyms: []
-family: []
+family: [deciliter, centiliter]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # liter — substantiv (en)
 
 📖 中文：升 · English: litre
+
+🇸🇪 Förklaring: måttenhet för volym som är lika mycket som tio deciliter
+
 发音提示：li-ter
 
 ## 语法变形 (Forms)
@@ -49,9 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[deciliter]] (分升), [[centiliter]] (厘升)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

@@ -5,7 +5,7 @@ ordklass: "adjektiv"
 cefr: "B1"
 zh: "不平等的（性别）"
 en: "unequal, gender-unequal"
-synonyms: []
+synonyms: [ojämlik, orättvis]
 antonyms: [jämställd]
 family: [jämställd, jämställdhet]
 topics: [topic-jämställdhet]
@@ -21,7 +21,10 @@ interval: 0
 # ojämställd — adjektiv
 
 📖 中文：不平等的（性别） · English: unequal, gender-unequal
-发音提示：
+
+🇸🇪 Förklaring: där kvinnor och män inte har samma rättigheter, möjligheter och makt
+
+发音提示：/ˈuːjɛmˌstɛlːd/ — o- 读 uː；重音在 o
 
 ## 语法变形 (Forms)
 
@@ -47,7 +50,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[jämställd]], [[jämställdhet]]
-- 同义词: —
+- 同义词: [[ojämlik]] (不平等的), [[orättvis]] (不公平的)
 - 反义词: [[jämställd]]
 - 主题: [[topic-jämställdhet]]
 

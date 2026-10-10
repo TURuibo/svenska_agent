@@ -23,6 +23,9 @@ interval: 0
 # kalas — substantiv (ett)
 
 📖 中文：聚会；派对（庆祝） · English: party; celebration; feast
+
+🇸🇪 Förklaring: fest med mat och dryck, ofta för att fira en födelsedag
+
 发音提示：/ˈkɑːlas/；ka-las，重音在第一音节，短 a。
 
 ## 语法变形 (Forms)

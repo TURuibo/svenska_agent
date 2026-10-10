@@ -8,7 +8,7 @@ zh: "驾照"
 en: "driving licence"
 synonyms: []
 antonyms: []
-family: ["återkalla"]
+family: [återkalla]
 topics: ["topic-trafik-säkerhet"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # körkort — substantiv
 
 📖 中文：驾照 · English: driving licence
-发音提示：
+
+🇸🇪 Förklaring: dokument som visar att man har rätt att framföra en bil eller ett annat motorfordon
+
+发音提示：/ˈɕœːrˌkɔʈ/ — kör 的 k 读 ɕ；rt 读卷舌 ʈ
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[återkalla]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

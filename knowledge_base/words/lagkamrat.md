@@ -7,7 +7,7 @@ genus: "en"
 cefr: "A2"
 zh: "队友"
 en: "teammate"
-synonyms: []
+synonyms: [medspelare]
 antonyms: [motspelare]
 family: [lag, kamrat]
 topics: [topic-fotboll]
@@ -23,6 +23,9 @@ interval: 0
 # lagkamrat — substantiv (en)
 
 📖 中文：队友 · English: teammate
+
+🇸🇪 Förklaring: person som spelar eller tävlar tillsammans med en i samma grupp
+
 发音提示：/ˈlɑːgkamˌrɑːt/；复合词，重音在第一词素 lag-。
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[lag]] (ett, 队伍), [[kamrat]] (en, 伙伴/同伴)
-- 同义词: —
+- 同义词: [[medspelare]] (队友)
 - 反义词: [[motspelare]] (对手)
 - 主题: [[topic-fotboll]]
 

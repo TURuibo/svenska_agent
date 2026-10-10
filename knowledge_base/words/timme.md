@@ -19,6 +19,9 @@ created: "2026-09-26"
 # timme — substantiv (en)
 
 📖 中文：小时 · English: hour
+
+🇸🇪 Förklaring: tid som är sextio minuter lång
+
 发音提示：TIM-me（短 i）
 
 ## 语法变形 (Forms)

@@ -6,7 +6,7 @@ verbgrupp: "1"
 cefr: B1
 zh: 放置；把……归类
 en: to place; to classify
-synonyms: []
+synonyms: [ställa, sätta]
 antonyms: []
 family: [placering]
 topics: []
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # placera — verb (grupp 1)
 
 📖 中文：放置；把……归类 · English: to place; to classify
+
+🇸🇪 Förklaring: 1) ställa eller lägga något på en viss plats; 2) räkna något till en viss grupp
+
+发音提示：/plaˈseːra/ — c 读 /s/；重音在第二音节
 
 ## 语法变形 (Forms)
 
@@ -42,9 +46,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: placering (en, 位置)
-- 同义词:
-- 反义词:
+- 词族: [[placering]] (en, 位置)
+- 同义词: [[ställa]] (放), [[sätta]] (安放)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

@@ -6,7 +6,7 @@ genus: en
 cefr: A2
 zh: 胜利
 en: victory, win
-synonyms: []
+synonyms: [vinst]
 antonyms: [förlust]
 family: [segra, segrare]
 topics: []
@@ -18,6 +18,9 @@ created: 2026-10-07
 # seger — substantiv (en)
 
 📖 中文：胜利 · English: victory
+
+🇸🇪 Förklaring: det att vinna en tävling, en match eller en strid
+
 发音提示：[ˈseːɡɛr]
 
 ## 语法变形 (Forms)
@@ -41,8 +44,9 @@ created: 2026-10-07
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: segra（获胜）, segrare（胜者）
-- 反义词: förlust（失败）
+- 词族: [[segra]]（获胜）, [[segrare]]（胜者）
+- 同义词: [[vinst]] (胜利)
+- 反义词: [[förlust]]（失败）
 
 ## 用法提示 (Usage Notes)
 

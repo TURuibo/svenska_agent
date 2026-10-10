@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "橱柜；柜子"
 en: "cabinet; cupboard; wardrobe"
-synonyms: []
+synonyms: [garderob]
 antonyms: []
-family: ["klädskåp"]
+family: [klädskåp]
 topics: ["topic-mobler", "topic-hemmet"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # skåp — substantiv (ett)
 
 📖 中文：橱柜；柜子 · English: cabinet; cupboard; wardrobe
+
+🇸🇪 Förklaring: möbel med dörrar och hyllor där man förvarar saker
+
 发音提示：/skoːp/
 
 ## 语法变形 (Forms)
@@ -50,7 +53,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[klädskåp]] (衣柜)
-- 同义词: —
+- 同义词: [[garderob]] (衣柜)
 - 反义词: —
 - 主题: [[topic-mobler]], [[topic-hemmet]]
 

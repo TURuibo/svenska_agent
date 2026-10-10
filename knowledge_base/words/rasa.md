@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "倒塌；崩塌；（价格等）大跌"
 en: "to collapse, fall down, crash (also: prices/morale)"
-synonyms: ["kollapsa", "falla"]
-antonyms: []
-family: ["ras"]
+synonyms: [kollapsa, falla]
+antonyms: [stiga, öka]
+family: [ras]
 topics: ["topic-jordbävning-katastrof"]
 sentences: ["sent-i-huvudstaden-caracas-har-byggnader"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # rasa — verb
 
 📖 中文：倒塌；崩塌；（价格等）大跌 · English: to collapse, fall down, crash
+
+🇸🇪 Förklaring: 1) falla ihop och ner, till exempel ett hus eller en mur; 2) plötsligt minska mycket, till exempel om priser
+
 发音提示：RAA-sa
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[ras]]
-- 同义词: [[kollapsa]]
-- 反义词:
+- 同义词: [[kollapsa]], [[falla]]
+- 反义词: [[stiga]] (上升), [[öka]] (增加)
 - 主题: [[topic-jordbävning-katastrof]]
 
 ## 用法提示 (Usage Notes)

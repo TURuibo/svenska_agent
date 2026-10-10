@@ -7,9 +7,9 @@ genus: ""
 cefr: A1
 zh: "购物；行动；关于；交易"
 en: "shop; act; be about; trade"
-synonyms: []
-antonyms: []
-family: ["handel", "handlare", "handling"]
+synonyms: [shoppa, köpa]
+antonyms: [sälja]
+family: [handel, handlare, handling]
 topics: ["topic-arbete"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # handla — verb
 
 📖 中文：购物；行动；关于 · English: shop; act; be about
+
+🇸🇪 Förklaring: köpa varor i en affär; göra något i en viss situation, agera; (handla om) ha något som ämne eller innehåll; köpa och sälja varor som affär
+
 发音提示：/ˈhandla/
 
 ## 语法变形 (Forms)
@@ -50,8 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: handel (贸易/商业), handlare (商人), handling (行动/剧情)
-- 同义词: shoppa (购物, lånord), köpa (购买)
+- 词族: [[handel]] (贸易/商业), [[handlare]] (商人), [[handling]] (行动/剧情)
+- 同义词: [[shoppa]] (购物, lånord), [[köpa]] (购买)
+- 反义词: [[sälja]] (卖)
 - 主题: [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

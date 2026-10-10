@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "志同道合者"
 en: "like-minded person"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [meningsfrände, själsfrände]
+antonyms: [meningsmotståndare]
+family: [lika, sinne]
 topics: [topic-idrott]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # likasinnad — substantiv
 
 📖 中文：志同道合者 · English: like-minded person
+
+🇸🇪 Förklaring: person som tänker och tycker på samma sätt som man själv
+
 发音提示：LI-ka-sin-nad
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
-- 反义词: —
+- 词族: [[lika]] (一样), [[sinne]] (心性)
+- 同义词: [[meningsfrände]] (志同道合者), [[själsfrände]] (知己)
+- 反义词: [[meningsmotståndare]] (持不同意见者)
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

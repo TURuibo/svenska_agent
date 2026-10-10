@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "生气的"
 en: "angry"
-synonyms: []
-antonyms: [snäll]
-family: []
+synonyms: [ilsken]
+antonyms: [snäll, glad]
+family: [argsint, arghet]
 topics: [topic-djur]
 sentences: []
 sources: [source-2026-06-09-zlatan-bio]
@@ -24,6 +24,9 @@ interval: 0
 # arg — adjektiv
 
 📖 中文：生气的 · English: angry
+
+🇸🇪 Förklaring: som känner sig irriterad och upprörd på någon eller något
+
 发音提示：/arj/
 
 ## 语法变形 (Forms)

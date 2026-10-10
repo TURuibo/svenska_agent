@@ -5,9 +5,9 @@ ordklass: "adverb / pronomen"
 cefr: A1
 zh: 很；很多
 en: very; much, a lot
-synonyms: []
+synonyms: [väldigt, massor]
 antonyms: [lite]
-family: [mest]
+family: [mest, mer]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # mycket — adverb / pronomen
 
 📖 中文：很；很多 · English: very; much, a lot
+
+🇸🇪 Förklaring: i hög grad; stor mängd av något
+
 发音提示：/ˈmʏkːɛ/；MYCK-et，口语常弱化成 `mycke`；`y` 读 /ʏ/（圆唇）。
 
 ## 语法变形 (Forms)
@@ -63,8 +66,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[mest]]（最……；大部分，已有单独笔记）, mer / mera（更多）
-- 同义词: —
+- 词族: [[mest]]（最……；大部分，已有单独笔记）, [[mer]] / mera（更多）
+- 同义词: [[väldigt]] (非常), [[massor]] (很多)
 - 反义词: [[lite]]（少、一点）
 - 对比: [[många]]（许多；可数复数）
 - 主题:

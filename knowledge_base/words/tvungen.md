@@ -7,9 +7,9 @@ genus: ""
 cefr: A2
 zh: 被迫的/不得不
 en: forced to, compelled
-synonyms: []
-antonyms: []
-family: []
+synonyms: [nödvungen]
+antonyms: [frivillig]
+family: [tvinga, tvång]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tvungen — adjektiv
 
 📖 中文：被迫的/不得不 · English: forced to, compelled
+
+🇸🇪 Förklaring: som måste göra något för att det inte finns något annat val
+
 发音提示：TVUNG-en；元音 `u` 短促，`ng` 鼻音。
 
 ## 语法变形 (Forms)

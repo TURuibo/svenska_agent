@@ -8,8 +8,8 @@ cefr: "A2"
 zh: "想知道；有疑问"
 en: "to wonder"
 synonyms: [fråga]
-antonyms: []
-family: []
+antonyms: [veta]
+family: [undran, förundrad]
 topics: [topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # undra — verb
 
 📖 中文：想知道；有疑问 · English: to wonder
+
+🇸🇪 Förklaring: vilja veta något och fundera över det
+
 发音提示：/ˈɵnːdra/
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[undran]] (疑问；好奇), [[förundrad]] (惊奇的)
 - 同义词: [[fråga]]
+- 反义词: [[veta]] (知道)
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

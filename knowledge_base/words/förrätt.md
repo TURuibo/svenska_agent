@@ -7,10 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "前菜"
 en: "starter; appetizer"
-synonyms: []
-antonyms:
-  - efterrätt
-family: []
+synonyms: [aptitretare]
+antonyms: [efterrätt]
+family: [rätt, huvudrätt]
 topics:
   - topic-mat-dryck
 sentences:
@@ -26,6 +25,9 @@ interval: 0
 # förrätt — substantiv (en)
 
 📖 中文：前菜 · English: starter; appetizer
+
+🇸🇪 Förklaring: liten maträtt som man äter före huvudrätten
+
 发音提示：["FÖR-ret"] — 重音在第一音节
 
 ## 语法变形 (Forms)
@@ -49,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
+- 词族: [[rätt]] (菜肴), [[huvudrätt]] (主菜)
+- 同义词: [[aptitretare]] (开胃菜)
 - 反义词: [[efterrätt]]（甜点/饭后甜食）
 - 主题: [[topic-mat-dryck]]
 

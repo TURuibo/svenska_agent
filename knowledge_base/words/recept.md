@@ -6,7 +6,7 @@ genus: ett
 cefr: A2
 zh: 处方
 en: prescription; recipe
-synonyms: []
+synonyms: [förskrivning]
 antonyms: []
 family: [apotek]
 topics: [topic-hälsa]
@@ -22,6 +22,9 @@ interval: 0
 # recept — substantiv (ett)
 
 📖 中文：处方；食谱 · English: prescription; recipe
+
+🇸🇪 Förklaring: 1) papper från läkaren som visar vilken medicin man får hämta ut på apoteket; 2) beskrivning av hur man lagar en maträtt
+
 发音提示：/rɛˈsɛpːt/
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[apotek]]
-- 同义词:
-- 反义词:
+- 同义词: [[förskrivning]] (开处方)
+- 反义词: —
 - 主题: [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

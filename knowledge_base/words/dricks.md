@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "小费"
 en: "tip (gratuity)"
-synonyms: []
+synonyms: [drickspengar]
 antonyms: []
-family: []
+family: [dricka]
 topics:
   - topic-betalning
 sentences:
@@ -26,6 +26,9 @@ interval: 0
 # dricks — substantiv (en)
 
 📖 中文：小费 · English: tip (gratuity)
+
+🇸🇪 Förklaring: extra pengar som man ger till exempelvis en servitör eller taxichaufför för bra service
+
 发音提示：/drɪks/
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[dricka]] (喝)
+- 同义词: [[drickspengar]] (小费)
 - 反义词: —
 - 主题: [[topic-betalning]]
 

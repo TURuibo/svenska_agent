@@ -7,9 +7,9 @@ genus: en
 cefr: "A2"
 zh: "教练"
 en: "coach, trainer"
-synonyms: []
+synonyms: [coach, instruktör]
 antonyms: []
-family: ["träna", "träning"]
+family: [träna, träning]
 topics: ["topic-fotboll"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # tränare — substantiv (en)
 
 📖 中文：教练 · English: coach, trainer
+
+🇸🇪 Förklaring: person som leder och hjälper idrottare eller ett lag att bli bättre
+
 发音提示：TRÄ-na-re
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[träna]] (v, 训练/锻炼), [[träning]] (en, 训练)
+- 同义词: [[coach]] (教练), [[instruktör]] (指导员)
+- 反义词: —
 - 主题: [[topic-fotboll]]
 
 ## 用法提示 (Usage Notes)

@@ -6,8 +6,8 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "杀死"
 en: "to kill"
-synonyms: []
-antonyms: []
+synonyms: [mörda, ta-livet-av]
+antonyms: [rädda]
 family: [dö]
 topics: [topic-krig-och-konflikt]
 sentences: [sent-minst-18-manniskor-har-dodats]
@@ -22,6 +22,9 @@ interval: 0
 # döda — verb (grupp 1)
 
 📖 中文：杀死 · English: to kill
+
+🇸🇪 Förklaring: göra så att en människa eller ett djur slutar leva
+
 发音提示：DÖ-da
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[dö]]（死，动词，尚无笔记）
-- 同义词: —
-- 反义词: —
+- 同义词: [[mörda]] (谋杀), [[ta-livet-av|ta livet av]] (杀死)
+- 反义词: [[rädda]] (救)
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

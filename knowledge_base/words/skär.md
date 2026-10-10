@@ -7,9 +7,9 @@ genus: ett
 cefr: "B1"
 zh: "岩礁，礁石"
 en: "skerry, reef"
-synonyms: []
+synonyms: [kobbe]
 antonyms: []
-family: ["holme", "ö", "skärgård"]
+family: [holme, skärgård, ö]
 topics: ["topic-stockholm"]
 sentences:
   - sent-skärgården-har-över-30-000-öar-holmar-och-skär
@@ -24,6 +24,9 @@ interval: 0
 # skär — substantiv
 
 📖 中文：岩礁，礁石 · English: skerry, reef
+
+🇸🇪 Förklaring: liten klippig ö i havet, ofta utan träd
+
 发音提示：skär（äär 音）
 
 ## 语法变形 (Forms)
@@ -50,7 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[holme]], [[skärgård]]
+- 词族: [[holme]], [[skärgård]], [[ö]] (岛)
+- 同义词: [[kobbe]] (小礁岛)
+- 反义词: —
 - 主题: [[topic-stockholm]]
 
 ## 用法提示 (Usage Notes)

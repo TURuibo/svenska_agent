@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "法学家，法律工作者"
 en: "jurist, lawyer"
-synonyms: []
+synonyms: [advokat]
 antonyms: []
-family: []
+family: [juridik, juridisk]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-10"
 # jurist — substantiv
 
 📖 中文：法学家，法律工作者 · English: jurist, lawyer
+
+🇸🇪 Förklaring: person som har studerat juridik och arbetar med lagar och rättsfrågor
+
+发音提示：/jʉˈrɪst/ — 重音在 rist；i 读短音
 
 ## 语法变形 (Forms)
 
@@ -34,7 +38,9 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: –
+- 词族: [[juridik]] (法学), [[juridisk]] (法律的)
+- 同义词: [[advokat]] (律师)
+- 反义词: —
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

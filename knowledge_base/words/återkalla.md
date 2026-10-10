@@ -6,9 +6,9 @@ verbgrupp: "2"
 cefr: "B2"
 zh: "吊销、撤回"
 en: "to revoke"
-synonyms: []
-antonyms: []
-family: ["körkort"]
+synonyms: [dra-in, upphäva, ta-tillbaka]
+antonyms: [bevilja, utfärda]
+family: [körkort]
 topics: ["topic-rattsvasen", "topic-trafik-säkerhet"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # återkalla — verb
 
 📖 中文：吊销、撤回 · English: to revoke
-发音提示：
+
+🇸🇪 Förklaring: ta tillbaka något som man har gett eller bestämt, till exempel ett tillstånd eller ett körkort
+
+发音提示：/ˈoːtɛrˌkalːa/ — å 读长音 oː；重音在 åter
 
 ## 语法变形 (Forms)
 
@@ -39,8 +42,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[körkort]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 同义词: [[dra-in|dra in]] (吊销), [[upphäva]] (废除), [[ta-tillbaka|ta tillbaka]] (收回)
+- 反义词: [[bevilja]] (批准), [[utfärda]] (签发)
 - 主题: [[topic-rattsvasen]], [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

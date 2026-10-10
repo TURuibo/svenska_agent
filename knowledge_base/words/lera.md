@@ -6,9 +6,9 @@ genus: "en"
 cefr: A2
 zh: "黏土，泥土"
 en: "clay, mud"
-synonyms: []
+synonyms: [gyttja, dy]
 antonyms: []
-family: ["lergods", "lerkruka", "lervaror"]
+family: [lergods, lerkruka, lervaror]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # lera — substantiv (en)
 
 📖 中文：黏土，泥土 · English: clay, mud
+
+🇸🇪 Förklaring: tung och kladdig jord som man kan forma t.ex. krukor av
+
 发音提示：/ˈleːra/，两音节，"e" 长音
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: lergods (ett, 陶器), lerkruka (en, 陶罐), lervaror (陶制品)
-- 同义词: —
+- 词族: [[lergods]] (ett, 陶器), [[lerkruka]] (en, 陶罐), [[lervaror]] (陶制品)
+- 同义词: [[gyttja]] (烂泥), [[dy]] (淤泥)
 - 反义词: —
 - 主题: [[topic-vikingatiden]]
 

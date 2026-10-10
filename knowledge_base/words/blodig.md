@@ -21,6 +21,9 @@ interval: 0
 # blodig — adjektiv
 
 📖 中文：流血的、血淋淋的 · English: bloody
+
+🇸🇪 Förklaring: som har blod på sig eller som blöder; med mycket våld och död
+
 发音提示：/ˈbluːdɪɡ/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[blod]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kropp]], [[topic-hälsa]]
 
 ## 用法提示 (Usage Notes)

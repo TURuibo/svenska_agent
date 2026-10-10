@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "研究员"
 en: "researcher"
-synonyms: []
+synonyms: [vetenskapsman]
 antonyms: []
-family: []
+family: [forska, forskning]
 topics: ["topic-yrken"]
 sentences: []
 sources: ["source-2026-06-16-arbete-skola"]
@@ -23,6 +23,9 @@ interval: 0
 # forskare — substantiv (en-ord)
 
 📖 中文：研究员 · English: researcher
+
+🇸🇪 Förklaring: person som arbetar med att undersöka saker på ett vetenskapligt sätt för att få ny kunskap
+
 发音提示：FORS-ka-re
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 - 词族: [[forska]], [[forskning]]
 - 同义词: [[vetenskapsman]]
-- 反义词: []
+- 反义词: —
 - 主题: [[topic-yrken]]
 
 ## 用法提示 (Usage Notes)

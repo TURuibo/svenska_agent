@@ -8,7 +8,7 @@ zh: "育儿津贴"
 en: "parental benefit"
 synonyms: []
 antonyms: []
-family: ["föräldraledighet", "förälder"]
+family: [föräldraledighet, förälder]
 topics: ["topic-föräldraledighet"]
 sentences: ["sent-man-ansöker-om-föräldrapenning-hos"]
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-08"
 # föräldrapenning — substantiv (en)
 
 📖 中文：育儿津贴 · English: parental benefit
+
+🇸🇪 Förklaring: pengar från Försäkringskassan som man får när man är hemma med sitt barn i stället för att arbeta
+
 发音提示：fö-RÄL-dra-pen-ning
 
 ## 语法变形 (Forms)
@@ -41,6 +44,8 @@ created: "2026-10-08"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[föräldraledighet]], [[förälder]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-föräldraledighet]]
 
 ## 用法提示 (Usage Notes)

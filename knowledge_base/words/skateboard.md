@@ -7,9 +7,9 @@ genus: en
 cefr: A2
 zh: "滑板"
 en: "skateboard"
-synonyms: []
+synonyms: [rullbräda]
 antonyms: []
-family: []
+family: [skateboardåkare, skatepark]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # skateboard — substantiv (en)
 
 📖 中文：滑板（板本身，也指这项运动） · English: skateboard
+
+🇸🇪 Förklaring: smal bräda med fyra små hjul som man står på och åker
+
 发音提示：/ˈskeɪtbɔːd/（英语借词，近英语读音："SKEJT-bood"）
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: skateboardåkare、skatepark
-- 同义词:
-- 反义词:
+- 词族: [[skateboardåkare]], [[skatepark]]
+- 同义词: [[rullbräda]] (滑板)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

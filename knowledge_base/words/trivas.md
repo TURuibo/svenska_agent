@@ -7,8 +7,8 @@ genus: ""
 cefr: "B1"
 zh: "感到自在；适应得好"
 en: "feel at ease, thrive, enjoy oneself"
-synonyms: [trivas bra, ha det bra]
-antonyms: []
+synonyms: [ha-det-bra, trivas-bra]
+antonyms: [vantrivas]
 family: [trivsel, trivsamhet]
 topics: []
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # trivas — verb (v.2, deponens)
 
 📖 中文：感到自在；适应得好 · English: feel at ease, thrive, enjoy oneself
+
+🇸🇪 Förklaring: känna sig bra och nöjd på ett ställe eller tillsammans med någon
+
 发音提示：/ˈtrɪvas/；词尾 -s 是去除主动语态后缀，主动含义。
 
 ## 语法变形 (Forms)
@@ -51,8 +54,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[trivsel]] (en/ett, 舒适感/良好氛围), [[trivsamhet]] (en, 宜人/惬意)
-- 同义词: [[ha det bra]] (过得好)
-- 反义词: —
+- 同义词: [[ha-det-bra|ha det bra]] (过得好), [[trivas-bra]]
+- 反义词: [[vantrivas]] (不自在)
 - 主题: —
 
 ## 用法提示 (Usage Notes)

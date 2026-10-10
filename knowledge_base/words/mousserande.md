@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "起泡的"
 en: "sparkling; effervescent"
-synonyms: []
-antonyms: ["stilla"]
-family: []
+synonyms: [kolsyrad, bubblande]
+antonyms: [stilla]
+family: [moussera, mousserande-vin]
 topics: ["topic-mat-dryck"]
 sentences:
   - sent-vi-har-mousserande-vin-och-champagne
@@ -24,6 +24,9 @@ interval: 0
 # mousserande — adjektiv
 
 📖 中文：起泡的 · English: sparkling; effervescent
+
+🇸🇪 Förklaring: (om dryck) som har små bubblor av kolsyra
+
 发音提示：/mʊˈseːrandə/
 
 ## 语法变形 (Forms)
@@ -50,9 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词: stilla (非气泡的)
+- 词族: [[moussera]] (起泡), [[mousserande-vin|mousserande vin]] (起泡酒)
+- 同义词: [[kolsyrad]] (含碳酸的), [[bubblande]] (冒泡的)
+- 反义词: [[stilla]] (非气泡的)
 - 主题: [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

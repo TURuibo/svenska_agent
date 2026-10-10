@@ -19,6 +19,9 @@ created: "2026-09-26"
 # fil — substantiv (en)
 
 📖 中文：酸奶（filmjölk） · English: soured milk (filmjölk)
+
+🇸🇪 Förklaring: syrlig, tjock mjölkprodukt som man ofta äter med flingor eller müsli till frukost
+
 发音提示：/fiːl/ — i 长。
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ created: "2026-09-26"
 
 - 词族: [[filmjölk]]
 - 同义词: [[filmjölk]]（全称）
+- 反义词: —
 - 主题: [[topic-småbarn-mat-och-sömn]] · [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

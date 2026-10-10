@@ -9,7 +9,7 @@ zh: "酱汁"
 en: "sauce"
 synonyms: []
 antonyms: []
-family: []
+family: [gräddsås, sojasås, såsskål]
 topics: [topic-mat-dryck]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # sås — substantiv (en)
 
 📖 中文：酱汁 · English: sauce
+
+🇸🇪 Förklaring: tjock vätska som man äter till maten för att ge den mer smak
+
 发音提示：/soːs/
 
 ## 语法变形 (Forms)
@@ -48,7 +51,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[gräddsås]] (奶油酱汁), [[sojasås]] (酱油), [[såsskål]] (酱汁碗)
 - 同义词: —
 - 反义词: —
 - 主题: [[topic-mat-dryck]]

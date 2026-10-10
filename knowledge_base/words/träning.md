@@ -7,7 +7,7 @@ genus: en
 cefr: A2
 zh: "训练；锻炼"
 en: "training, practice"
-synonyms: []
+synonyms: [övning, motion]
 antonyms: []
 family: [träna, träningspass, konditionsträning, träningstimme]
 topics: [topic-idrott]
@@ -19,6 +19,9 @@ created: "2026-10-01"
 # träning — substantiv (en)
 
 📖 中文：训练；锻炼 · English: training, practice
+
+🇸🇪 Förklaring: det att man regelbundet övar eller rör på kroppen för att bli bättre eller starkare
+
 发音提示：/ˈtrɛːnɪŋ/（重音在第一音节，ä 读开口长 ɛː）
 
 ## 语法变形 (Forms)
@@ -50,8 +53,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[träna]]（训练，动词）, [[träningspass]], [[konditionsträning]], [[träningstimme]]
-- 同义词:
-- 反义词:
+- 同义词: [[övning]] (练习), [[motion]] (锻炼)
+- 反义词: —
 - 主题: [[topic-idrott]]
 
 ## 用法提示 (Usage Notes)

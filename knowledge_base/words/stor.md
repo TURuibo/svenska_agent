@@ -7,9 +7,9 @@ genus: ""
 cefr: "A1"
 zh: "大的"
 en: "big"
-synonyms: []
+synonyms: [väldig]
 antonyms: [liten]
-family: []
+family: [storlek]
 topics: [topic-djur, topic-hemmet]
 sentences:
   - sent-pa-golvet-mellan-sangen-skriv-stor-matta
@@ -25,6 +25,9 @@ interval: 0
 # stor — adjektiv
 
 📖 中文：大的 · English: big
+
+🇸🇪 Förklaring: som är mer än vanligt i mått, mängd eller betydelse
+
 发音提示：/stuːr/
 
 ## 语法变形 (Forms)
@@ -54,7 +57,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[storlek]] (大小；尺寸)
-- 同义词: —
+- 同义词: [[väldig]] (巨大的)
 - 反义词: [[liten]]
 - 主题: [[topic-djur]], [[topic-hemmet]]
 

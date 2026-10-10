@@ -7,7 +7,7 @@ genus: ""
 cefr: "A2"
 zh: "方形的/四方的"
 en: "square, rectangular"
-synonyms: [rektangulär, kvadratisk]
+synonyms: [rund, rektangulär, kvadratisk]
 antonyms: [rund]
 family: [fyrkant]
 topics: [topic-uppfinning-och-teknik]
@@ -23,6 +23,9 @@ interval: 0
 # fyrkantig — adjektiv
 
 📖 中文：方形的/四方的 · English: square, rectangular
+
+🇸🇪 Förklaring: som har fyra hörn och fyra raka sidor
+
 发音提示：FYR-kan-tig（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: fyrkant (en, 正方形/矩形)
-- 同义词: [[rund]] är antonym; rektangulär (矩形的), kvadratisk (正方形的)
+- 词族: [[fyrkant]] (en, 正方形/矩形)
+- 同义词: [[rund]] är antonym, [[rektangulär]] (矩形的), [[kvadratisk]] (正方形的)
 - 反义词: [[rund]] (圆形的)
 - 主题: [[topic-uppfinning-och-teknik]]
 

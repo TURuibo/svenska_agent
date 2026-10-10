@@ -6,9 +6,9 @@ genus: "en"
 cefr: A2
 zh: "毛皮，皮草"
 en: "fur, pelt, fur coat"
-synonyms: []
+synonyms: [skinn]
 antonyms: []
-family: ["pälsdjur", "pälsjakt", "pälsverk"]
+family: [pälsdjur, pälsjakt, pälsverk]
 topics: ["topic-vikingatiden"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # päls — substantiv (en)
 
 📖 中文：毛皮，皮草 · English: fur, pelt, fur coat
+
+🇸🇪 Förklaring: 1) tjockt hår som täcker kroppen på många djur; 2) varm kappa som är gjord av sådant skinn
+
 发音提示：/pɛls/，单音节，"ä" 发短促 e 音
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: pälsdjur (ett, 皮毛动物), pälsjakt (en, 猎取皮草), pälsverk (ett, 皮毛制品)
-- 同义词: —
+- 词族: [[pälsdjur]] (ett, 皮毛动物), [[pälsjakt]] (en, 猎取皮草), [[pälsverk]] (ett, 皮毛制品)
+- 同义词: [[skinn]] (兽皮)
 - 反义词: —
 - 主题: [[topic-vikingatiden]]
 

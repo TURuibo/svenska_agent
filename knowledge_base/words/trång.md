@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: 狭窄的；拥挤的
 en: narrow, cramped
-synonyms: []
-antonyms: ["bred"]
-family: []
+synonyms: [smal]
+antonyms: [bred]
+family: [trängsel, tränga, trångbodd]
 topics: ["topic-stadsmiljo", "topic-trafik"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # trång — adjektiv
 
 📖 中文：狭窄的；拥挤的 · English: narrow, cramped
+
+🇸🇪 Förklaring: som har lite plats eller är smal, så att det är svårt att röra sig
+
 发音提示：/troŋ/
 
 ## 语法变形 (Forms)
@@ -46,7 +49,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[trängsel]] (拥挤), [[tränga]] (挤), [[trångbodd]] (住房拥挤的)
 - 同义词: [[smal]]
 - 反义词: [[bred]]
 - 主题: [[topic-stadsmiljo]], [[topic-trafik]]

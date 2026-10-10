@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "病人"
 en: "patient"
-synonyms: []
+synonyms: [vårdtagare]
 antonyms: []
-family: []
+family: [patientjournal, patientansvarig]
 topics: [topic-kropp, topic-hälsa]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # patient — substantiv (en-ord)
 
 📖 中文：病人 · English: patient
+
+🇸🇪 Förklaring: person som får vård av en läkare eller på ett sjukhus
+
 发音提示：/paˈɧɛnt/
 
 ## 语法变形 (Forms)
@@ -48,8 +51,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: patientjournal (病历), patientansvarig (主治医师)
-- 同义词: —
+- 词族: [[patientjournal]] (病历), [[patientansvarig]] (主治医师)
+- 同义词: [[vårdtagare]] (受护理者)
 - 反义词: —
 - 主题: [[topic-kropp]] · [[topic-hälsa]]
 

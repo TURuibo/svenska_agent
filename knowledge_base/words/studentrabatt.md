@@ -9,7 +9,7 @@ zh: "学生折扣"
 en: "student discount"
 synonyms: []
 antonyms: []
-family: ["student", "rabatt"]
+family: [student, rabatt]
 topics: []
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # studentrabatt — substantiv (en)
 
 📖 中文：学生折扣 · English: student discount
+
+🇸🇪 Förklaring: lägre pris för den som läser på högskola eller universitet
+
 发音提示：stu-DENT-ra-batt
 
 ## 语法变形 (Forms)
@@ -43,6 +46,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[student]], [[rabatt]]
+- 同义词: —
+- 反义词: —
 
 ## 用法提示 (Usage Notes)
 

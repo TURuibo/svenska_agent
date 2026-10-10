@@ -19,6 +19,9 @@ created: "2026-09-26"
 # överlämning — substantiv (en)
 
 📖 中文：交接汇报（老师向家长报告一天情况） · English: handover, daily report
+
+🇸🇪 Förklaring: när ansvar eller information går vidare till någon annan, till exempel när förskolans personal berättar för föräldern hur barnets dag har varit
+
 发音提示：/ˈøːvɛrˌlɛmnɪŋ/ — 主重音在 Ö-ver，次重音在 lämn；ö 读长音。
 
 ## 语法变形 (Forms)

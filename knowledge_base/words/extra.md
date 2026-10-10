@@ -6,9 +6,9 @@ genus: ""
 cefr: "A2"
 zh: "额外的；格外"
 en: "extra; especially"
-synonyms: []
+synonyms: [ytterligare, särskilt]
 antonyms: []
-family: []
+family: [extrajobb, extrapris, extranummer]
 topics: [topic-lucia]
 sentences: []
 source: source-2026-10-10-lucia
@@ -19,6 +19,10 @@ created: "2026-10-10"
 # extra — adjektiv/adverb
 
 📖 中文：额外的；格外 · English: extra; especially
+
+🇸🇪 Förklaring: 1) som kommer till utöver det vanliga; 2) mer än vanligt, särskilt
+
+发音提示：/ˈɛkːstra/ — x 读 ks；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -38,5 +42,8 @@ created: "2026-10-10"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[extrajobb]] (兼职), [[extrapris]] (特价), [[extranummer]] (加演曲目)
+- 同义词: [[ytterligare]] (额外的), [[särskilt]] (特别)
+- 反义词: —
 - 主题: [[topic-lucia]]
 - 来源: [[source-2026-10-10-lucia]]

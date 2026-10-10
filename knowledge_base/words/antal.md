@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "A2"
 zh: "数量"
 en: "number (of)"
-synonyms: []
+synonyms: [mängd]
 antonyms: []
-family: []
+family: [tal, räkna]
 topics: [topic-förskola-vardag]
 sentences: [sent-avgiften-följer-maxtaxan-och-beror-på]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # antal — substantiv (ett)
 
 📖 中文：数量；数目 · English: number (of); quantity
+
+🇸🇪 Förklaring: mängd räknad i siffror, hur många av något det finns
+
 发音提示：[ˈanːˌtɑːl]，重音在 an-。
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: tal（数字）, räkna
+- 词族: [[tal]]（数字）, [[räkna]]
+- 同义词: [[mängd]] (数量)
+- 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

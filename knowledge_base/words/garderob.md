@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "衣柜；衣帽间"
 en: "wardrobe, closet; cloakroom"
-synonyms: ["klädskåp"]
+synonyms: [klädskåp]
 antonyms: []
-family: []
+family: [garderobsdörr, garderobiär]
 topics: ["topic-mobler"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # garderob — substantiv (en)
 
 📖 中文：衣柜；衣帽间 · English: wardrobe, closet; cloakroom
+
+🇸🇪 Förklaring: högt skåp eller litet rum där man hänger och förvarar kläder; rum där man lämnar ytterkläder på en restaurang eller teater
+
 发音提示：[ɡarderˈoːb]（重音在最后一个音节，源自法语）
 
 ## 语法变形 (Forms)
@@ -51,7 +54,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[garderobsdörr]] (衣柜门), [[garderobiär]] (衣帽间服务员)
 - 同义词: [[klädskåp]]
 - 反义词: —
 - 主题: [[topic-mobler]]

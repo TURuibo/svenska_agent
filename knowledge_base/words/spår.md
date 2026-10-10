@@ -6,9 +6,9 @@ genus: ett
 cefr: A2
 zh: 铁路轨道；痕迹
 en: track (railway); trace, trail
-synonyms: []
+synonyms: [räls, märke]
 antonyms: []
-family: ["vagn", "tåg"]
+family: [vagn, tåg]
 topics: ["topic-trafik"]
 sentences:
   - sent-tva-vagnar-lamnade-sparet-och-foll
@@ -23,6 +23,9 @@ interval: 0
 # spår — substantiv (ett)
 
 📖 中文：铁路轨道；痕迹 · English: track (railway); trace, trail
+
+🇸🇪 Förklaring: 1) skenor som tåg går på; 2) märke som visar att någon eller något har varit på en plats
+
 发音提示：SPOR（长元音）
 
 ## 语法变形 (Forms)
@@ -53,6 +56,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[vagn]], [[tåg]]
+- 同义词: [[räls]] (铁轨), [[märke]] (痕迹)
+- 反义词: —
 - 相关: [[spårvagn]]
 - 主题: [[topic-trafik]]
 

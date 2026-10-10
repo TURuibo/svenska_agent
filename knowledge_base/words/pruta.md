@@ -6,9 +6,9 @@ verbgrupp: "1"
 cefr: "B1"
 zh: "讨价还价"
 en: "bargain, haggle"
-synonyms: []
+synonyms: [köpslå, förhandla]
 antonyms: []
-family: []
+family: [prutning, prutmån]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # pruta — verb
 
 📖 中文：讨价还价 · English: bargain, haggle
+
+🇸🇪 Förklaring: försöka få ett lägre pris när man köper något
+
+发音提示：/ˈprʉːta/ — u 读长音 /ʉː/
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: []
-- 反义词: []
+- 词族: [[prutning]] (讨价还价), [[prutmån]] (议价空间)
+- 同义词: [[köpslå]] (讨价还价), [[förhandla]] (谈判)
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

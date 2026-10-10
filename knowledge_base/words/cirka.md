@@ -7,8 +7,8 @@ genus: ""
 cefr: "A1"
 zh: "大约，约"
 en: "approximately, about"
-synonyms: ["ungefär", "ca", "runt"]
-antonyms: []
+synonyms: [ungefär, runt, ca]
+antonyms: [exakt, precis]
 family: []
 topics: []
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # cirka — adverb
 
 📖 中文：大约，约 · English: approximately, about
+
+🇸🇪 Förklaring: används framför ett tal eller en tid för att visa att det inte är exakt
+
 发音提示：[ˈsɪrka]
 
 ## 语法变形 (Forms)
@@ -43,7 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 同义词: [[ungefär]], [[runt]]
+- 词族: —
+- 同义词: [[ungefär]], [[runt]], [[ca]]
+- 反义词: [[exakt]] (准确地), [[precis]] (正好)
 
 ## 用法提示 (Usage Notes)
 

@@ -23,6 +23,9 @@ interval: 0
 # slutgiltig — adjektiv
 
 📖 中文：最终的 · English: final
+
+🇸🇪 Förklaring: som inte kommer att ändras igen
+
 发音提示：SLUT-gil-tig
 
 ## 语法变形 (Forms)
@@ -46,8 +49,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: slut（结束）
-- 同义词: definitiv（确定的）
+- 词族: [[slut]]（结束）
+- 同义词: [[definitiv]]（确定的）
 - 反义词: [[preliminär]]（初步的）
 - 主题: [[topic-val-demokrati]]
 

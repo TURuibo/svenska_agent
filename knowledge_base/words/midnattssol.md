@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "极昼，午夜太阳"
 en: "midnight sun"
-synonyms: []
-antonyms: ["polarnatt"]
-family: ["polcirkel", "polarnatt"]
+synonyms: [polardag]
+antonyms: [polarnatt]
+family: [polcirkel, polarnatt]
 topics: ["topic-vader-och-arstider"]
 sentences: ["sent-det-kallas-midnattssol", "sent-da-ar-det-ljust-nastan-hela-dygnet"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # midnattssol — substantiv (en)
 
 📖 中文：极昼，午夜太阳 · English: midnight sun
+
+🇸🇪 Förklaring: sol som syns hela natten på sommaren långt norr om polcirkeln
+
 发音提示：[mɪd'natsˌsuːl]，重音在 midnatts-
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[polcirkel]], [[polarnatt]]
-- 同义词: —
+- 同义词: [[polardag]] (极昼)
 - 反义词: [[polarnatt]]（极夜）
 - 主题: [[topic-vader-och-arstider]]
 

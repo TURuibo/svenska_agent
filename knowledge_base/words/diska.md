@@ -8,7 +8,7 @@ zh: "洗碗"
 en: "to wash dishes"
 synonyms: []
 antonyms: []
-family: ["disk", "diskmaskin"]
+family: [disk, diskmaskin]
 topics: ["topic-kafe-fika", "topic-arbete-och-jobb"]
 sentences: ["sent-jag-diskar-och-serverar-kaffe"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # diska — verb
 
 📖 中文：洗碗 · English: to wash dishes
+
+🇸🇪 Förklaring: tvätta tallrikar, glas, bestick och kastruller efter maten
+
 发音提示：/ˈdɪska/
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[disk]], [[diskmaskin]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-kafe-fika]], [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

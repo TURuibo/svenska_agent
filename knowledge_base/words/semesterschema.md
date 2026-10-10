@@ -19,6 +19,9 @@ created: "2026-09-26"
 # semesterschema — substantiv (ett)
 
 📖 中文：暑假出勤表（假期期间孩子哪几周在园/休假的登记） · English: holiday schedule
+
+🇸🇪 Förklaring: plan som visar när personal eller barn är lediga och när de är på plats under sommaren
+
 发音提示：[sɛˈmɛstɛrˌɧeːma]，semester + schema。
 
 ## 语法变形 (Forms)
@@ -42,6 +45,8 @@ created: "2026-09-26"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[semester]], [[schema]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-förskola-system]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

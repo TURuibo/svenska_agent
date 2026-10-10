@@ -5,9 +5,9 @@ ordklass: "preposition / adverb"
 cefr: A2
 zh: 在……之上；越过；超过；剩下；结束了
 en: over, across; more than; left over; over (finished)
-synonyms: []
+synonyms: [mer-än, förbi, kvar]
 antonyms: [under]
-family: []
+family: [ovanför, överallt, överraska]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,9 @@ created: "2026-10-01"
 # över — preposition / adverb
 
 📖 中文：在……之上；越过；超过；剩下；结束了（vara över） · English: over, across; more than; left over; over (finished)
+
+🇸🇪 Förklaring: på en högre plats än något; från ena sidan till den andra; mer än ett visst antal; kvar eller slut
+
 发音提示：/ˈøːvɛr/；Ö-ver，`ö` 读长 /øː/。
 
 ## 语法变形 (Forms)
@@ -56,8 +59,8 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: ovanför（在上方）, överallt（到处）, överraska（使惊讶）
-- 同义词: —
+- 词族: [[ovanför]]（在上方）, [[överallt]]（到处）, [[överraska]]（使惊讶）
+- 同义词: [[mer-än|mer än]] (多于), [[förbi]] (过去了), [[kvar]] (剩下)
 - 反义词: [[under]]（在……之下；低于）
 - 主题:
 

@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "习惯"
 en: "habit"
-synonyms: []
+synonyms: [rutin, sedvänja]
 antonyms: []
-family: []
+family: [van, vanlig, ovana, vanemässig]
 topics: [topic-kultur-tradition]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # vana — substantiv
 
 📖 中文：习惯 · English: habit
+
+🇸🇪 Förklaring: något som man gör regelbundet, ofta utan att tänka på det
+
 发音提示：VA-na
 
 ## 语法变形 (Forms)
@@ -45,9 +48,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[van]] (习惯的), [[vanlig]] (普通的), [[ovana]] (坏习惯), [[vanemässig]] (习惯性的)
+- 同义词: [[rutin]] (惯例), [[sedvänja]] (习俗)
+- 反义词: —
 - 主题: [[topic-kultur-tradition]]
 
 ## 用法提示 (Usage Notes)

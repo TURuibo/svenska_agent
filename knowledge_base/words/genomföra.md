@@ -7,9 +7,9 @@ genus: ""
 cefr: "B1"
 zh: "实施；执行；完成"
 en: "to carry out; to implement; to conduct"
-synonyms: [utföra]
-antonyms: []
-family: [genomförande]
+synonyms: [utföra, införa]
+antonyms: [avbryta]
+family: [genomförande, föra]
 topics: [topic-allmänna-verb]
 sentences: [sent-kommunen-ska-genomföra-reglerna-steg-för-steg]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # genomföra — verb (grupp 2)
 
 📖 中文：实施；执行；完成 · English: to carry out; to implement; to conduct
+
+🇸🇪 Förklaring: göra något som man har planerat, från början till slut
+
 发音提示：`g` 在 `e` 前读 /j/（"耶-nom-fö-ra"）。
 
 ## 语法变形 (Forms)
@@ -52,9 +55,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[genomförande]]（实施，名词）；词根 `föra`（带；引导）
-- 同义词: [[utföra]]（执行，较中性）；近义 [[införa]]（引入、开始实行一项规则）
-- 反义词: —
+- 词族: [[genomförande]]（实施，名词）, 词根 [[föra]]（带；引导）
+- 同义词: [[utföra]]（执行，较中性）, 近义 [[införa]]（引入、开始实行一项规则）
+- 反义词: [[avbryta]] (中断)
 - 主题: [[topic-allmänna-verb]]
 
 ## 用法提示 (Usage Notes)

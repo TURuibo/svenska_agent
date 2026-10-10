@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "潮流"
 en: "trend"
-synonyms: []
+synonyms: [mode, tendens]
 antonyms: []
-family: []
+family: [trendig, trendsättare]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # trend — substantiv
 
 📖 中文：潮流 · English: trend
+
+🇸🇪 Förklaring: riktning som utvecklingen går i; något som är populärt under en viss tid
+
 发音提示：trend (som i engelskan)
 
 ## 语法变形 (Forms)
@@ -44,9 +47,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[trendig]] (时髦的), [[trendsättare]] (潮流引领者)
+- 同义词: [[mode]] (时尚), [[tendens]] (趋势)
+- 反义词: —
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

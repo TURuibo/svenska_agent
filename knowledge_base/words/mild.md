@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "温和的，温暖的（气候）；温柔的"
 en: "mild, gentle"
-synonyms: ["varm", "behaglig"]
-antonyms: ["kall", "hård", "sträng"]
-family: ["mildra", "mildhet"]
+synonyms: [behaglig, varm]
+antonyms: [kall, hård, sträng]
+family: [mildra, mildhet]
 topics: ["topic-geografi-natur", "topic-vader-och-arstider"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # mild — adjektiv
 
 📖 中文：温和的，温暖的（气候）；温柔的 · English: mild, gentle
+
+🇸🇪 Förklaring: (om väder) som är ganska varmt och behagligt; (om person eller ord) som är snäll och inte hård
+
 发音提示：[mɪld]
 
 ## 语法变形 (Forms)
@@ -52,8 +55,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[mildra]], [[mildhet]]
-- 同义词: [[behaglig]]
-- 反义词: [[kall]], [[hård]]
+- 同义词: [[behaglig]], [[varm]] (热的、温暖的)
+- 反义词: [[kall]], [[hård]], [[sträng]]
 - 主题: [[topic-geografi-natur]], [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

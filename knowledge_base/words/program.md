@@ -6,9 +6,9 @@ genus: "ett"
 cefr: A1
 zh: 节目；程序
 en: programme; program
-synonyms: []
+synonyms: [sändning, mjukvara]
 antonyms: []
-family: []
+family: [programmera, tv-program, datorprogram, programledare]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # program — substantiv (ett)
 
 📖 中文：节目；程序 · English: programme; program
+
+🇸🇪 Förklaring: 1) det som sänds i radio eller tv; 2) instruktioner som får en dator att utföra något
+
+发音提示：/prʊˈɡramː/ — 重音在第二音节 -gram
 
 ## 语法变形 (Forms)
 
@@ -44,9 +48,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[programmera]] (编程), [[tv-program]] (电视节目), [[datorprogram]] (电脑程序), [[programledare]] (节目主持人)
+- 同义词: [[sändning]] (播出节目), [[mjukvara]] (软件)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

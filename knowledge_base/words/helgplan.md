@@ -8,7 +8,7 @@ zh: 周末计划
 en: weekend plan
 synonyms: []
 antonyms: []
-family: []
+family: [helg]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-01"
 # helgplan — substantiv (en-ord)
 
 📖 中文：周末计划 · English: weekend plan
+
+🇸🇪 Förklaring: plan för vad man ska göra under lördagen och söndagen
+
+发音提示：/ˈhɛljˌplɑːn/ — lg 读作 lj；重音在 helg
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: helg + plan
-- 同义词:
-- 反义词:
+- 词族: [[helg]] + plan
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

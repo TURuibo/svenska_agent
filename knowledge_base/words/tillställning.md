@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "聚会、活动"
 en: "social gathering"
-synonyms: ["evenemang", "sammankomst"]
+synonyms: [evenemang, sammankomst]
 antonyms: []
-family: []
+family: [ställa-till, ställning]
 topics: [topic-sociala-normer]
 sentences: []
 known: false
@@ -22,6 +22,10 @@ interval: 0
 # tillställning — substantiv
 
 📖 中文：聚会、活动 · English: social gathering
+
+🇸🇪 Förklaring: fest eller annat evenemang där många människor träffas
+
+发音提示：/ˈtɪlːˌstɛlːnɪŋ/ — 重音在 till，ä 读短音
 
 ## 语法变形 (Forms)
 
@@ -41,9 +45,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: []
-- 同义词: [[evenemang]]、[[sammankomst]]
-- 反义词: []
+- 词族: [[ställa-till|ställa till]] (举办；造成), [[ställning]] (位置；架子)
+- 同义词: [[evenemang]], [[sammankomst]]
+- 反义词: —
 - 主题: [[topic-sociala-normer]]
 
 ## 用法提示 (Usage Notes)

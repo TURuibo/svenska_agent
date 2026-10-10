@@ -6,9 +6,9 @@ genus: ""
 cefr: A2
 zh: "硬的"
 en: "hard"
-synonyms: []
-antonyms: ["mjuk"]
-family: []
+synonyms: [fast, stel]
+antonyms: [mjuk]
+family: [hårdhet]
 topics: ["topic-mat-dryck"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # hård — adjektiv
 
 📖 中文：硬的 · English: hard
+
+🇸🇪 Förklaring: som inte ger efter eller går att böja när man trycker på det
+
 发音提示：[hoːrd]
 
 ## 语法变形 (Forms)
@@ -49,8 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: hårdhet (硬度)
-- 同义词: —
+- 词族: [[hårdhet]] (硬度)
+- 同义词: [[fast]] (坚实的), [[stel]] (僵硬的)
 - 反义词: [[mjuk]]
 - 主题: [[topic-mat-dryck]]
 

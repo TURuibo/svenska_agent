@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: fika 休息
 en: coffee break
-synonyms: []
+synonyms: [kafferast, kaffepaus]
 antonyms: []
-family: []
+family: [fika, paus, fikarum]
 topics: [topic-kafe-fika, topic-arbete-och-jobb]
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # fikapaus — substantiv (en)
 
 📖 中文：fika 休息 · English: coffee break
+
+🇸🇪 Förklaring: kort paus i arbetet eller skolan då man dricker kaffe och äter något
+
 发音提示：/ˈfiːkaˌpaʊs/
 
 ## 语法变形 (Forms)
@@ -41,9 +44,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[fika]] (喝咖啡), [[paus]] (休息), [[fikarum]] (茶水间)
+- 同义词: [[kafferast]] (咖啡休息), [[kaffepaus]] (咖啡休息)
+- 反义词: —
 - 主题: [[topic-kafe-fika]]、[[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

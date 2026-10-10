@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: 潮湿的
 en: humid, damp
-synonyms: []
-antonyms: ["torr"]
-family: []
+synonyms: [blöt, våt]
+antonyms: [torr]
+family: [fukt, fukta, luftfuktighet]
 topics: [topic-vader-och-arstider]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # fuktig — adjektiv
 
 📖 中文：潮湿的 · English: humid, damp
+
+🇸🇪 Förklaring: som är lite blöt, med vatten i sig eller på sig
+
 发音提示：/ˈfʊktɪɡ/
 
 ## 语法变形 (Forms)
@@ -47,6 +50,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[fukt]] (湿气), [[fukta]] (弄湿), [[luftfuktighet]] (空气湿度)
+- 同义词: [[blöt]] (湿的), [[våt]] (湿的)
 - 反义词: [[torr]]
 - 主题: [[topic-vader-och-arstider]]
 

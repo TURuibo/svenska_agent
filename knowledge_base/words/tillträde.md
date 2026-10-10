@@ -7,8 +7,8 @@ cefr: "B1"
 zh: "入职；就职；到任"
 en: "commencement (of employment), taking up a post"
 synonyms: []
-antonyms: []
-family: []
+antonyms: [avgång]
+family: [tillträda, träda, inträde]
 topics: ["topic-arbete-och-jobb"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # tillträde — substantiv
 
 📖 中文：入职；就职；到任 · English: commencement (of employment), taking up a post
+
+🇸🇪 Förklaring: det att man börjar på en ny tjänst eller ett nytt arbete
+
 发音提示：TIL-trä-de（三音节）
 
 ## 语法变形 (Forms)
@@ -47,6 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[tillträda]] (就职), [[träda]] (踏入), [[inträde]] (进入；入场)
+- 同义词: —
+- 反义词: [[avgång]] (离职)
 - 主题: [[topic-arbete-och-jobb]]
 
 ## 用法提示 (Usage Notes)

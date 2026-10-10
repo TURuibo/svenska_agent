@@ -9,7 +9,7 @@ zh: 空军
 en: air force
 synonyms: []
 antonyms: []
-family: ["flyg", "flyga", "vapen"]
+family: [flyg, flyga, vapen]
 topics: ["topic-krig-och-konflikt"]
 sentences:
   - "sent-därför-finns-flygvapnet-redo-om"
@@ -24,6 +24,9 @@ interval: 0
 # flygvapen — substantiv (ett)
 
 📖 中文：空军 · English: air force
+
+🇸🇪 Förklaring: den del av ett lands försvar som strider med flygplan
+
 发音提示：[ˈflyːgˌvaːpɛn] — sammansatt: flyg + vapen
 
 ## 语法变形 (Forms)
@@ -51,7 +54,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: flyg (aviation/flight), flyga (to fly), vapen (weapon/arm)
+- 词族: [[flyg]] (aviation/flight), [[flyga]] (to fly), [[vapen]] (weapon/arm)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

@@ -7,9 +7,9 @@ genus: ""
 cefr: "A2"
 zh: "吸；吮吸"
 en: "to suck, absorb"
-synonyms: []
-antonyms: []
-family: ["sugen"]
+synonyms: [absorbera]
+antonyms: [blåsa]
+family: [sugen]
 topics: ["topic-miljö-och-klimat"]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # suga — verb (starkt/oregelbundet)
 
 📖 中文：吸；吮吸 · English: to suck, absorb
+
+🇸🇪 Förklaring: dra in vätska eller luft i munnen med läpparna; ta upp vätska
+
 发音提示：[ˈsʉːga]
 
 ## 语法变形 (Forms)
@@ -53,7 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[sugen]] (adj, stub, 渴望的/想吃的)
+- 词族: [[sugen]] (adj, 渴望的/想吃的)
+- 同义词: [[absorbera]] (吸收)
+- 反义词: [[blåsa]] (吹)
 - 主题: [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

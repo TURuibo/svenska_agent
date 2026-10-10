@@ -19,6 +19,9 @@ created: "2026-09-26"
 # schemaändring — substantiv (en)
 
 📖 中文：时间表变更 · English: schedule change
+
+🇸🇪 Förklaring: det att man flyttar eller byter tider i en plan för lektioner, arbete eller förskola
+
 发音提示：SKE-ma-änd-ring
 
 ## 语法变形 (Forms)

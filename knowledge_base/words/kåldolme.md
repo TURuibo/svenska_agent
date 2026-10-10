@@ -9,7 +9,7 @@ zh: "卷心菜肉卷（瑞典传统菜）"
 en: "cabbage roll"
 synonyms: []
 antonyms: []
-family: []
+family: [kål, vitkål]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kåldolme — substantiv
 
 📖 中文：卷心菜肉卷（瑞典传统菜） · English: cabbage roll
+
+🇸🇪 Förklaring: svensk rätt med köttfärs och ris som rullas in i kokta vitkålsblad och steks
+
 发音提示：KÅL-dol-me
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
-- 同义词: [[…]]
-- 反义词: [[…]]
+- 词族: [[kål]] (卷心菜), [[vitkål]] (圆白菜)
+- 同义词: —
+- 反义词: —
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

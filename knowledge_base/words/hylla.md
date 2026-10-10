@@ -24,6 +24,9 @@ interval: 0
 # hylla — substantiv (en)
 
 📖 中文：架子；搁板 · English: shelf
+
+🇸🇪 Förklaring: platt skiva som sitter fast på en vägg eller i ett skåp och som man ställer saker på
+
 发音提示：HYL-la；två stavelser.
 
 ## 语法变形 (Forms)

@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "新鲜小土豆"
 en: "new potatoes"
-synonyms: []
+synonyms: [nypotatis]
 antonyms: []
-family: ["potatis", "färsk"]
+family: [potatis, färsk]
 topics: ["topic-midsommar-traditioner", "topic-mat-dryck"]
 sentences: ["sent-till-lunch-ater-de-sill-med-farskpotatis"]
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # färskpotatis — substantiv
 
 📖 中文：新鲜小土豆 · English: new potatoes
+
+🇸🇪 Förklaring: potatis som tas upp tidigt på sommaren och har tunt skal, ofta äts till midsommar
+
 发音提示：[ˈfærskpʊˌtɑːtɪs]，färsk + potatis 复合词
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[potatis]] · [[färsk]]
-- 同义词:
-- 反义词:
+- 词族: [[potatis]] · [[färsk]], [[färsk]]
+- 同义词: [[nypotatis]] (新土豆)
+- 反义词: —
 - 主题: [[topic-midsommar-traditioner]] · [[topic-mat-dryck]]
 
 ## 用法提示 (Usage Notes)

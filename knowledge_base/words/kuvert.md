@@ -9,7 +9,7 @@ zh: "信封"
 en: "envelope"
 synonyms: []
 antonyms: []
-family: []
+family: [fönsterkuvert, svarskuvert]
 topics: [topic-val-demokrati]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # kuvert — substantiv (ett)
 
 📖 中文：信封 · English: envelope
+
+🇸🇪 Förklaring: pappersomslag som man lägger ett brev i innan man skickar det
+
 发音提示：ku-VÄRT，重音末音节（法语借词）。
 
 ## 语法变形 (Forms)
@@ -48,6 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[fönsterkuvert]] (开窗信封), [[svarskuvert]] (回邮信封)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-val-demokrati]]
 
 ## 用法提示 (Usage Notes)

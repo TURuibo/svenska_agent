@@ -23,6 +23,9 @@ interval: 0
 # miljöstation — substantiv (en)
 
 📖 中文：环保站；危险废物回收站 · English: environmental station; hazardous waste collection point
+
+🇸🇪 Förklaring: plats där man lämnar farligt avfall som batterier, färg och kemikalier
+
 发音提示：MIL-jö-sta-tion（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[miljö]], [[återvinningsstation]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-källsortering]], [[topic-miljö-och-klimat]]
 
 ## 用法提示 (Usage Notes)

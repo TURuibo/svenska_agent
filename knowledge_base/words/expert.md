@@ -6,9 +6,9 @@ genus: "en"
 cefr: "B1"
 zh: "专家"
 en: "expert"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [specialist, sakkunnig]
+antonyms: [lekman, amatör]
+family: [expertis, expertgrupp]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # expert — substantiv (en)
 
 📖 中文：专家 · English: expert
+
+🇸🇪 Förklaring: person som kan mycket om ett visst område
+
 发音提示：ex-pert
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[expertis]] (专业知识), [[expertgrupp]] (专家组)
+- 同义词: [[specialist]] (专家), [[sakkunnig]] (内行)
+- 反义词: [[lekman]] (外行), [[amatör]] (业余者)
 - 主题:
 
 ## 用法提示 (Usage Notes)

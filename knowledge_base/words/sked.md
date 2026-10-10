@@ -9,7 +9,7 @@ zh: "勺子"
 en: "spoon"
 synonyms: []
 antonyms: []
-family: []
+family: [tesked, matsked, kaffesked]
 topics: [topic-småbarn-mat-och-sömn, topic-förskola-vardag]
 sentences: []
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # sked — substantiv
 
 📖 中文：勺子 · English: spoon
+
+🇸🇪 Förklaring: redskap med skaft och en liten skål som man äter soppa med eller rör om med
+
 发音提示：/ʃeːd/ — sk 在 e 前读 /ʃ/
 
 ## 语法变形 (Forms)
@@ -44,6 +47,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[tesked]] (茶匙), [[matsked]] (汤匙), [[kaffesked]] (咖啡匙)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-småbarn-mat-och-sömn]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

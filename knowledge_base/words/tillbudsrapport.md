@@ -9,7 +9,7 @@ zh: "事故（险情）报告"
 en: "incident report"
 synonyms: []
 antonyms: []
-family: []
+family: [tillbud, rapport, rapportera]
 topics: ["topic-sjukt-barn-och-vab", "topic-förskola-vardag"]
 sentences: ["sent-men-vi-har-skrivit-en-tillbudsrapport"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # tillbudsrapport — substantiv (en)
 
 📖 中文：事故（险情）报告 · English: incident report
+
+🇸🇪 Förklaring: skriftlig rapport om en händelse på jobbet som nästan ledde till en olycka
+
 发音提示：TILL-buds-ra-PORT；tillbud（险情、未遂事故）+ s + rapport
 
 ## 语法变形 (Forms)
@@ -42,9 +45,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[tillbud]] (险情), [[rapport]] (报告), [[rapportera]] (报告)
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-sjukt-barn-och-vab]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

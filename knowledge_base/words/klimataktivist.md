@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "气候活动家"
 en: "climate activist"
-synonyms: []
-antonyms: []
-family: [klimat, aktivist, klimatförändring]
+synonyms: [miljöaktivist]
+antonyms: [klimatförnekare]
+family: [klimatförändring, aktivist, klimat]
 topics: [topic-miljö-och-klimat, topic-personer]
 sentences:
   - sent-greta-thunberg-är-en-känd-klimataktivist
@@ -24,6 +24,9 @@ interval: 0
 # klimataktivist — substantiv (en)
 
 📖 中文：气候活动家 · English: climate activist
+
+🇸🇪 Förklaring: person som protesterar och arbetar för att stoppa den globala uppvärmningen
+
 发音提示：/ˈklɪmaːtaktiˌvɪst/；复合词，重音在第一音节。
 
 ## 语法变形 (Forms)
@@ -48,7 +51,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[klimatförändring]]（气候变化），aktivist（活动家）
+- 词族: [[klimatförändring]]（气候变化）, [[aktivist]]（活动家）, [[klimat]] (气候)
+- 同义词: [[miljöaktivist]] (环保活动家)
+- 反义词: [[klimatförnekare]] (气候变化否认者)
 - 主题: [[topic-miljö-och-klimat]], [[topic-personer]]
 
 ## 用法提示 (Usage Notes)

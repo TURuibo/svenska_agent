@@ -7,9 +7,9 @@ genus: en
 cefr: "B1"
 zh: "养老服务；老年人护理"
 en: "elderly care; care for the elderly"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [äldrevård]
+antonyms: [barnomsorg]
+family: [äldre, omsorg, barnomsorg]
 topics: [topic-samhälle-och-politik]
 sentences: [sent-å-ena-sidan-förstår-jag-den-tanken]
 known: false
@@ -19,6 +19,9 @@ created: "2026-10-02"
 # äldreomsorg — substantiv (en)
 
 📖 中文：养老服务；老年人护理 · English: elderly care; care for the elderly
+
+🇸🇪 Förklaring: hjälp och vård som kommunen ger till gamla människor
+
 发音提示：ÄL-dre-om-sorg，重音在第一音节；`om-sorg` 的 `o` 读 [uː]（长 o 读 "乌"）。
 
 ## 语法变形 (Forms)
@@ -47,9 +50,9 @@ created: "2026-10-02"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: `äldre`、`omsorg`、`barnomsorg`（儿童照顾 / 托育）
-- 同义词: —
-- 反义词: `barnomsorg`（对照：另一个市政服务领域）
+- 词族: [[äldre]], [[omsorg]], [[barnomsorg]]（儿童照顾 / 托育）
+- 同义词: [[äldrevård]] (养老照护)
+- 反义词: [[barnomsorg]]（对照：另一个市政服务领域）
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

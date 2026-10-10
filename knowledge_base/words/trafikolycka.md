@@ -6,9 +6,9 @@ genus: "en"
 cefr: "A2"
 zh: "交通事故"
 en: "traffic accident"
-synonyms: []
+synonyms: [bilolycka]
 antonyms: []
-family: []
+family: [trafik, olycka]
 topics: ["topic-trafik-säkerhet"]
 sentences: []
 known: false
@@ -18,7 +18,10 @@ created: "2026-09-22"
 # trafikolycka — substantiv
 
 📖 中文：交通事故 · English: traffic accident
-发音提示：
+
+🇸🇪 Förklaring: olycka med bilar eller andra fordon som händer på en väg eller gata
+
+发音提示：/traˈfiːkˌuːlʏkːa/ — 重音在 -fik；olycka 的 o 读 uː
 
 ## 语法变形 (Forms)
 
@@ -34,9 +37,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[trafik]] (交通), [[olycka]] (事故)
+- 同义词: [[bilolycka]] (车祸)
+- 反义词: —
 - 主题: [[topic-trafik-säkerhet]]
 
 ## 用法提示 (Usage Notes)

@@ -25,6 +25,9 @@ interval: 0
 # golv — substantiv (ett)
 
 📖 中文：地板；地面 · English: floor
+
+🇸🇪 Förklaring: den del av ett rum som man går och står på
+
 发音提示：golv（单音节）；lång o.
 
 ## 语法变形 (Forms)

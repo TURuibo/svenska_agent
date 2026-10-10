@@ -5,9 +5,9 @@ ordklass: adjektiv
 cefr: A2
 zh: 感兴趣的
 en: interested
-synonyms: []
+synonyms: [nyfiken, engagerad]
 antonyms: [ointresserad]
-family: []
+family: [intresse, intressera]
 topics: []
 sentences: []
 known: false
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # intresserad — adjektiv
 
 📖 中文：感兴趣的 · English: interested
+
+🇸🇪 Förklaring: som vill veta mer om något eller gärna ägnar sig åt det
+
+发音提示：/ɪntrɛˈseːrad/ — 重音在 se，e 读长音
 
 ## 语法变形 (Forms)
 
@@ -39,9 +43,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: intresse, intressera
-- 同义词:
-- 反义词: ointresserad
+- 词族: [[intresse]], [[intressera]]
+- 同义词: [[nyfiken]] (好奇的), [[engagerad]] (投入的)
+- 反义词: [[ointresserad]]
 - 主题:
 
 ## 用法提示 (Usage Notes)

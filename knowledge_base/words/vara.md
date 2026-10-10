@@ -6,9 +6,9 @@ verbgrupp: "4"
 cefr: A1
 zh: "是 / 存在；持续，延续"
 en: "to be; to last, to endure"
-synonyms: []
+synonyms: [finnas, pågå]
 antonyms: []
-family: []
+family: [varelse, varaktig, närvarande, tillvaro]
 topics: []
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # vara — verb
 
 📖 中文：是 / 存在 · English: to be
+
+🇸🇪 Förklaring: finnas eller ha en viss egenskap; hålla på under en viss tid
+
 发音提示：['vɑːra]
 
 ## 语法变形 (Forms)
@@ -53,8 +56,8 @@ Oregelbundet/starkt (verbgrupp 4). Mycket hög frekvens.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
-- 同义词: —
+- 词族: [[varelse]] (生物), [[varaktig]] (持久的), [[närvarande]] (在场的), [[tillvaro]] (存在；生活)
+- 同义词: [[finnas]] (存在), [[pågå]] (持续)
 - 反义词: —
 - 主题: —
 

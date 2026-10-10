@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "骗子"
 en: "fraudster"
-synonyms: []
+synonyms: [svindlare, lurendrejare]
 antonyms: []
-family: ["bedrägeri", "bedra"]
+family: [bedrägeri, bedra]
 topics: ["topic-bedrageri-bank-sakerhet"]
 sentences: ["sent-da-förstår-nick-att-han"]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # bedragare — substantiv (en)
 
 📖 中文：骗子 · English: fraudster
+
+🇸🇪 Förklaring: person som lurar andra, ofta för att få deras pengar
+
 发音提示：be-DRA-ga-re
 
 ## 语法变形 (Forms)
@@ -45,7 +48,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[bedrägeri]]（诈骗，名词）
+- 词族: [[bedrägeri]]（诈骗，名词）, [[bedra]]
+- 同义词: [[svindlare]] (诈骗犯), [[lurendrejare]] (骗子)
+- 反义词: —
 - 主题: [[topic-bedrageri-bank-sakerhet]]
 
 ## 用法提示 (Usage Notes)

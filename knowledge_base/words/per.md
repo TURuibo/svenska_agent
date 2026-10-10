@@ -5,7 +5,7 @@ ordklass: preposition
 cefr: B1
 zh: 每；按
 en: per
-synonyms: []
+synonyms: [för-varje, à]
 antonyms: []
 family: []
 topics: []
@@ -17,6 +17,10 @@ created: "2026-10-01"
 # per — preposition
 
 📖 中文：每；按 · English: per
+
+🇸🇪 Förklaring: för varje; används när man räknar hur mycket något blir för en person, en dag eller en sak
+
+发音提示：/pær/ — e 在 r 前读开口 ä 音
 
 ## 语法变形 (Forms)
 
@@ -38,9 +42,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: —
+- 同义词: [[för-varje|för varje]] (每一个), [[à]] (每件（单价）)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

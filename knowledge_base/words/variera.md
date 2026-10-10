@@ -9,7 +9,7 @@ zh: "变化、不同"
 en: "vary"
 synonyms: [förändras]
 antonyms: []
-family: []
+family: [variation, varierad, variant]
 topics: []
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # variera — verb
 
 📖 中文：变化、不同 · English: vary
+
+🇸🇪 Förklaring: vara olika eller förändras från gång till gång; göra något på olika sätt
+
 发音提示：va-ri-E-ra
 
 ## 语法变形 (Forms)
@@ -43,9 +46,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[…]]
+- 词族: [[variation]] (变化), [[varierad]] (多样的), [[variant]] (变体)
 - 同义词: [[förändras]]
-- 反义词: [[…]]
+- 反义词: —
 - 主题: [[…]]
 
 ## 用法提示 (Usage Notes)

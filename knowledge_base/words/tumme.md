@@ -19,6 +19,9 @@ created: "2026-10-05"
 # tumme — substantiv (en)
 
 📖 中文：拇指；(旧)英寸 · English: thumb; (old) inch
+
+🇸🇪 Förklaring: det kortaste och tjockaste fingret på handen; gammalt mått för längd, ungefär 2,5 cm
+
 发音提示：/ˈtɵmːe/
 
 ## 语法变形 (Forms)

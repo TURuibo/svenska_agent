@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 垃圾分类（源头分类）
 en: source separation, recycling sorting
-synonyms: []
+synonyms: [sopsortering, avfallssortering]
 antonyms: []
-family: []
+family: [källsortera, sortera, källa]
 topics: [topic-källsortering, topic-miljö-och-klimat]
 sentences:
   - sent-källsortering-är-bra-för-miljön
@@ -24,6 +24,9 @@ interval: 0
 # källsortering — substantiv
 
 📖 中文：垃圾分类（源头分类） · English: source separation, recycling sorting
+
+🇸🇪 Förklaring: det att man redan hemma delar upp sitt avfall i olika slag, t.ex. papper, plast och glas
+
 发音提示：KELL-sor-te-ring（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -50,6 +53,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[källsortera]] (源头分类), [[sortera]] (分类), [[källa]] (来源)
+- 同义词: [[sopsortering]] (垃圾分类), [[avfallssortering]] (废物分类)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 主题: [[topic-miljö-och-klimat]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]

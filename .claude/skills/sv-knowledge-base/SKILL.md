@@ -26,6 +26,41 @@ No database. Plain markdown. Links are Obsidian `[[wikilinks]]`. Templates live 
 Always start from the matching template in `_templates/`. Fill the YAML frontmatter completely; leave a
 field empty (`""` / `[]`) rather than deleting it.
 
+## 1b. 单词笔记必填内容 (Word note — required lines)
+
+The 📖 Läsning / 🗣️ Tala glossary card lifts these lines into its header, so **every** word note needs
+them — an import that skips them shows up as `⚠️ word notes missing …` in `node tools/build-kb-site.js`.
+
+Right under the H1, as three separate paragraphs (blank line between):
+
+```
+📖 中文：侍女；（露西亚游行中的）伴娘 · English: maid; attendant in the Lucia procession
+
+🇸🇪 Förklaring: flicka i vit klänning som går efter Lucia i luciatåget och bär ett ljus
+
+发音提示：/ˈtæːɳa/ — ä 读长音；rn 合成卷舌音 ɳ
+```
+
+| line | rule |
+|------|------|
+| `🇸🇪 Förklaring:` | 简单瑞典语释义 (learner-dictionary style, like Lexin): 5–20 words, A1–B1 vocabulary, **never the headword itself**, no final period. substantiv → noun phrase (`plagg med krage och knappar …`); verb → infinitive phrase without *att* (`göra något lätt att förstå`); adjektiv → `som …`; function words → what they do (`av den anledningen`). 2–3 senses → separate with `; `. Swedish only. |
+| `发音提示：` | `/IPA/ — 中文提示`. Rikssvenska IPA with `ˈ` stress (`ˌ` secondary in compounds) and `ː` length (long vowel `/ˈɡɑːta/`, or long consonant after a short vowel `/ˈklɛnːɪŋ/`); retroflex `ʈ ɖ ɳ ʂ ɭ`, sj-sound `ɧ`, tj-sound `ɕ`. The Chinese tip (≤ 25 字) names the tricky bit: stress in compounds/loanwords, sj/tj/soft g·k, silent letters, long vs short vowel. |
+
+The `## 词族 / 同义 / 反义 (Relations)` section always has all three lines, each word as a
+`[[slug]] (短中文)` link, `—` when there is genuinely nothing:
+
+```
+- 词族: [[luciatåg]] (露西亚游行), [[brudtärna]] (伴娘)
+- 同义词: —
+- 反义词: —
+```
+
+- 词族 = same root/stem (derivations, the base of a compound, common compounds containing it), 2–5 words —
+  not just words from the same topic. 同义词 0–3, 反义词 0–2 (most concrete nouns have none — don't invent).
+- Link even when the target has no note yet (§4 stubs); a multi-word item uses the phrase slug with a label:
+  `[[ta-hand-om|ta hand om]]`. In Läsning, tapping such a link opens 查词 → ➕ 想学.
+- Keep frontmatter `family:` / `synonyms:` / `antonyms:` equal to the slugs on those lines.
+
 ## 2. Slug 规则 (Filename slugs)
 
 The slug is the filename **and** the `[[wikilink]]` target. Make it deterministic so dedup works.

@@ -8,7 +8,7 @@ zh: 步行街
 en: pedestrian street, pedestrian zone
 synonyms: []
 antonyms: []
-family: ["gå", "gata"]
+family: [gå, gata]
 topics: ["topic-trafik", "topic-stadsmiljo"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # gågata — substantiv (en)
 
 📖 中文：步行街 · English: pedestrian street, pedestrian zone
+
+🇸🇪 Förklaring: gata i en stad där bilar inte får köra och där människor kan promenera och handla
+
 发音提示：GÅ-ga-ta
 
 ## 语法变形 (Forms)
@@ -48,6 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[gå]], [[gata]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-trafik]], [[topic-stadsmiljo]]
 
 ## 用法提示 (Usage Notes)

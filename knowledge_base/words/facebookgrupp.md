@@ -19,6 +19,10 @@ created: "2026-10-01"
 
 📖 中文：Facebook 小组 · English: Facebook group
 
+🇸🇪 Förklaring: grupp på sociala medier där människor med samma intresse kan skriva och dela saker med varandra
+
+发音提示：/ˈfeɪsbʊkˌɡrɵpː/ — facebook 按英语读；u 读短音 ɵ
+
 ## 语法变形 (Forms)
 
 | Form | Swedish |
@@ -41,8 +45,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[grupp]]
-- 同义词:
-- 反义词:
+- 同义词: —
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

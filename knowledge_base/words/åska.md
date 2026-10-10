@@ -6,9 +6,9 @@ genus: en
 cefr: "A2"
 zh: "雷，雷暴"
 en: "thunder, thunderstorm"
-synonyms: []
+synonyms: [oväder]
 antonyms: []
-family: []
+family: [åskväder, åskmoln, åskskur]
 topics:
   - topic-vader-och-arstider
 sentences: []
@@ -23,6 +23,9 @@ interval: 0
 # åska — substantiv (en)
 
 📖 中文：雷，雷暴 · English: thunder, thunderstorm
+
+🇸🇪 Förklaring: kraftigt mullrande ljud från himlen som kommer efter en blixt; oväder med blixtar och sådant ljud
+
 发音提示：OS-ka
 
 ## 语法变形 (Forms)
@@ -48,9 +51,9 @@ Note: `åska` används oftast i singular för ett åskväder.
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[]]
-- 同义词: [[]]
-- 反义词: [[]]
+- 词族: [[åskväder]] (雷雨), [[åskmoln]] (雷雨云), [[åskskur]] (雷阵雨)
+- 同义词: [[oväder]] (暴风雨)
+- 反义词: —
 - 主题: [[topic-vader-och-arstider]]
 
 ## 用法提示 (Usage Notes)

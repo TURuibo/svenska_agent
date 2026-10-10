@@ -8,7 +8,7 @@ cefr: "B1"
 zh: "交付/运送"
 en: "to deliver"
 synonyms: [skicka, transportera]
-antonyms: []
+antonyms: [ta-emot]
 family: [leverans, leverantör]
 topics: [topic-uppfinning-och-teknik, topic-arbete]
 sentences:
@@ -24,6 +24,9 @@ interval: 0
 # leverera — verb
 
 📖 中文：交付/运送 · English: to deliver
+
+🇸🇪 Förklaring: lämna eller skicka varor eller tjänster till en kund
+
 发音提示：le-ve-RE-ra（重音在第三音节）
 
 ## 语法变形 (Forms)
@@ -53,9 +56,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: leverans (en, 交付/运货), leverantör (en, 供应商)
+- 词族: [[leverans]] (en, 交付/运货), [[leverantör]] (en, 供应商)
 - 同义词: [[skicka]] (寄送), [[transportera]]
-- 反义词: —
+- 反义词: [[ta-emot|ta emot]] (接收)
 - 主题: [[topic-uppfinning-och-teknik]], [[topic-arbete]]
 
 ## 用法提示 (Usage Notes)

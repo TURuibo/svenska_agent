@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "姓名标签"
 en: "name label; name tag"
-synonyms: []
+synonyms: [namnskylt, namnbricka]
 antonyms: []
-family: [lapp]
+family: [namn, lapp]
 topics: [topic-barnkläder-och-utrustning, topic-förskola-vardag]
 sentences: [sent-utan-namnlapp-är-det-svårt-att]
 known: false
@@ -19,6 +19,9 @@ created: "2026-09-26"
 # namnlapp — substantiv
 
 📖 中文：姓名标签 · English: name label; name tag
+
+🇸🇪 Förklaring: liten etikett med någons namn som man sätter på kläder eller bär på bröstet
+
 发音提示：/ˈnamnˌlapː/ — namn 的 mn 两个音都发，-lapp 短 a 带长 p
 
 ## 语法变形 (Forms)
@@ -46,7 +49,9 @@ created: "2026-09-26"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: namn (名字), [[lapp]] (小纸条/标签)
+- 词族: [[namn]] (名字), [[lapp]] (小纸条/标签)
+- 同义词: [[namnskylt]] (名牌), [[namnbricka]] (姓名牌)
+- 反义词: —
 - 主题: [[topic-barnkläder-och-utrustning]], [[topic-förskola-vardag]]
 
 ## 用法提示 (Usage Notes)

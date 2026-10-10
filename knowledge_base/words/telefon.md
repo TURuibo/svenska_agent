@@ -18,6 +18,9 @@ created: "2026-10-01"
 # telefon — substantiv (en)
 
 📖 中文：电话 · English: telephone
+
+🇸🇪 Förklaring: apparat som man använder för att prata med någon som är på en annan plats
+
 发音提示：/teleˈfoːn/
 
 ## 语法变形 (Forms)
@@ -43,8 +46,8 @@ created: "2026-10-01"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[telefonnummer]]
-- 同义词: mobil
-- 反义词: 
+- 同义词: [[mobil]]
+- 反义词: —
 - 主题: 
 
 ## 用法提示 (Usage Notes)

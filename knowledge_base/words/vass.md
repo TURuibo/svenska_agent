@@ -6,9 +6,9 @@ genus: ""
 cefr: B1
 zh: "锋利的"
 en: "sharp"
-synonyms: ["skarp"]
-antonyms: ["slö", "trubbig"]
-family: []
+synonyms: [skarp]
+antonyms: [slö, trubbig]
+family: [vässa, pennvässare]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # vass — adjektiv
 
 📖 中文：锋利的 · English: sharp
+
+🇸🇪 Förklaring: som har en tunn kant eller spets som lätt skär eller sticker
+
 发音提示：/vasː/
 
 ## 语法变形 (Forms)
@@ -49,7 +52,7 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: —
+- 词族: [[vässa]] (磨快；削尖), [[pennvässare]] (卷笔刀)
 - 同义词: [[skarp]]
 - 反义词: [[slö]], [[trubbig]]
 - 主题: [[topic-djur]]

@@ -9,7 +9,7 @@ zh: "太平间"
 en: "morgue"
 synonyms: []
 antonyms: []
-family: ["bår", "hus"]
+family: [bår, hus]
 topics: ["topic-halsa-och-sjukdom", "topic-vader-och-klimat"]
 sentences:
   - sent-det-ar-fortsatt-valdigt-varmt
@@ -24,6 +24,9 @@ interval: 0
 # bårhus — substantiv
 
 📖 中文：太平间 · English: morgue
+
+🇸🇪 Förklaring: rum eller byggnad, ofta på ett sjukhus, där man förvarar döda människor före begravningen
+
 发音提示：BÅR-hus
 
 ## 语法变形 (Forms)
@@ -45,6 +48,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[bår]], [[hus]]
+- 同义词: —
+- 反义词: —
 - 主题: [[topic-halsa-och-sjukdom]], [[topic-vader-och-klimat]]
 
 ## 用法提示 (Usage Notes)

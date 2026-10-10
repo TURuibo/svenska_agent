@@ -6,9 +6,9 @@ genus: en
 cefr: A2
 zh: 老鼠（大鼠）
 en: rat
-synonyms: ["mus"]
+synonyms: [mus]
 antonyms: []
-family: ["råttfälla", "råttgift"]
+family: [råttfälla, råttgift]
 topics: ["topic-djur"]
 sentences: []
 known: false
@@ -22,6 +22,9 @@ interval: 0
 # råtta — substantiv (en)
 
 📖 中文：老鼠（大鼠） · English: rat
+
+🇸🇪 Förklaring: gnagare som liknar en stor mus och har en lång naken svans
+
 发音提示：RÅT-ta（两音节，注意长元音 å）
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 
 - 词族: [[råttfälla]], [[råttgift]]
 - 同义词: [[mus]]（更小的老鼠）
+- 反义词: —
 - 主题: [[topic-djur]]
 
 ## 用法提示 (Usage Notes)

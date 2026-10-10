@@ -6,8 +6,8 @@ genus: en
 cefr: B1
 zh: 动乱
 en: unrest
-synonyms: []
-antonyms: []
+synonyms: [upplopp, kravall]
+antonyms: [lugn, fred]
 family: [orolig]
 topics: [topic-krig-och-konflikt]
 sentences: []
@@ -18,6 +18,9 @@ created: "2026-09-22"
 # orolighet — substantiv (en)
 
 📖 中文：动乱 · English: unrest
+
+🇸🇪 Förklaring: situation där många människor protesterar, bråkar eller slåss i ett land eller en stad
+
 发音提示：/ˈuːrʊˌliːheːt/
 
 ## 语法变形 (Forms)
@@ -44,8 +47,8 @@ created: "2026-09-22"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[orolig]]
-- 同义词:
-- 反义词:
+- 同义词: [[upplopp]] (暴乱), [[kravall]] (骚乱)
+- 反义词: [[lugn]] (平静), [[fred]] (和平)
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

@@ -7,8 +7,8 @@ genus: "en"
 cefr: "B1"
 zh: "对话"
 en: "dialogue"
-synonyms: ["samtal"]
-antonyms: []
+synonyms: [samtal]
+antonyms: [monolog]
 family: []
 topics: ["topic-sfi-sprak-larande"]
 sentences: []
@@ -19,6 +19,9 @@ created: "2026-09-22"
 # dialog — substantiv (en)
 
 📖 中文：对话 · English: dialogue
+
+🇸🇪 Förklaring: samtal mellan två eller flera personer, till exempel i en bok, en film eller i politiken
+
 发音提示：di-a-LOG
 
 ## 语法变形 (Forms)
@@ -42,7 +45,9 @@ created: "2026-09-22"
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: —
 - 同义词: [[samtal]]（谈话）
+- 反义词: [[monolog]] (独白)
 - 主题: [[topic-sfi-sprak-larande]]
 
 ## 用法提示 (Usage Notes)

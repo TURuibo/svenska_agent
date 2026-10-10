@@ -7,9 +7,9 @@ genus: "en"
 cefr: "A2"
 zh: "燕麦奶（燕麦饮品）"
 en: "oat drink; oat milk"
-synonyms: []
-antonyms: []
-family: []
+synonyms: [havremjölk]
+antonyms: [mjölk]
+family: [havre, dricka, dryck]
 topics: ["topic-mat-dryck", "topic-kafe-fika"]
 sentences:
   - "sent-en-latte-tack-men-kan-jag-fa"
@@ -25,6 +25,9 @@ interval: 0
 # havredryck — substantiv (en)
 
 📖 中文：燕麦奶（燕麦饮品） · English: oat drink; oat milk
+
+🇸🇪 Förklaring: vegetabilisk dryck gjord på havre som man kan använda i stället för mjölk
+
 发音提示：/ˈhɑːvrədrʏkː/；合成词 havre（燕麦）+ dryck（饮品）。
 
 ## 语法变形 (Forms)
@@ -49,7 +52,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: havre（燕麦）, [[dricka]]（喝）, dryck（饮品）
+- 词族: [[havre]]（燕麦）, [[dricka]]（喝）, [[dryck]]（饮品）
+- 同义词: [[havremjölk]] (燕麦奶)
 - 反义词: [[mjölk]] (牛奶)
 - 主题: [[topic-mat-dryck]], [[topic-kafe-fika]]
 

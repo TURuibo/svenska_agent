@@ -20,6 +20,10 @@ source: source-2026-10-03-news-8-sidor
 
 📖 中文：议长（议会） · English: speaker (of parliament)
 
+🇸🇪 Förklaring: person som leder arbetet och debatterna i riksdagen
+
+发音提示：/ˈtɑːlˌman/ — 复合词，重音在 tal，a 读长音
+
 ## 语法变形 (Forms)
 
 | 形式 | 单数 | 复数 |
@@ -42,6 +46,7 @@ source: source-2026-10-03-news-8-sidor
 
 - 词族: [[riksdag]]
 - 同义词: —
+- 反义词: —
 - 主题: [[topic-samhälle-och-politik]]
 
 ## 用法提示 (Usage Notes)

@@ -25,6 +25,9 @@ interval: 0
 # träffa — verb (grupp 1)
 
 📖 中文：见面；遇见；遇到 · English: to meet; to see (someone); to run into
+
+🇸🇪 Förklaring: vara tillsammans med någon som man har bestämt att se, eller råka se någon
+
 发音提示：['trɛfa]
 
 ## 语法变形 (Forms)
@@ -58,7 +61,7 @@ Reflexiv form: `träffas` (互相见面，双向)
 
 - 词族: [[träff]]
 - 同义词: [[möta]]
-- 反义词:
+- 反义词: —
 - 主题: [[topic-social-kontakt]]
 
 ## 用法提示 (Usage Notes)

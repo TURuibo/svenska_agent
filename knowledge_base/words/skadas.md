@@ -6,9 +6,9 @@ verbgrupp: "1 (deponens/s-form)"
 cefr: "B1"
 zh: "受伤"
 en: "to be injured"
-synonyms: []
+synonyms: [göra-sig-illa]
 antonyms: []
-family: ["skada"]
+family: [skada]
 topics: ["topic-krig-och-konflikt"]
 sentences: []
 known: false
@@ -18,6 +18,10 @@ created: "2026-10-10"
 # skadas — verb
 
 📖 中文：受伤 · English: to be injured
+
+🇸🇪 Förklaring: bli sårad eller få ont i kroppen, t.ex. i en olycka; bli förstörd
+
+发音提示：/ˈskɑːdas/ — a 读长音；重音在第一音节
 
 ## 语法变形 (Forms)
 
@@ -37,6 +41,8 @@ created: "2026-10-10"
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[skada]]
+- 同义词: [[göra-sig-illa|göra sig illa]] (弄伤自己)
+- 反义词: —
 - 主题: [[topic-krig-och-konflikt]]
 
 ## 用法提示 (Usage Notes)

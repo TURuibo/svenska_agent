@@ -8,8 +8,8 @@ cefr: A1
 zh: "夏天；夏季"
 en: "summer"
 synonyms: []
-antonyms: ["vinter"]
-family: ["somrig"]
+antonyms: [vinter]
+family: [somrig]
 topics: ["topic-vader-och-arstider"]
 sentences:
   - sent-sommaren-ar-kort-men-intensiv
@@ -26,6 +26,9 @@ interval: 0
 # sommar — substantiv (en)
 
 📖 中文：夏天；夏季 · English: summer
+
+🇸🇪 Förklaring: årets varmaste årstid, mellan våren och hösten
+
 发音提示：/ˈsɔmar/
 
 ## 语法变形 (Forms)
@@ -53,6 +56,8 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
+- 词族: [[somrig]]
+- 同义词: —
 - 反义词: [[vinter]]
 - 主题: [[topic-vader-och-arstider]]
 

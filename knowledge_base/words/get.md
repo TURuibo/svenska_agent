@@ -9,7 +9,7 @@ zh: "山羊"
 en: "goat"
 synonyms: []
 antonyms: []
-family: []
+family: [getost, getmjölk]
 topics: [topic-djur]
 sentences: []
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # get — substantiv (en)
 
 📖 中文：山羊 · English: goat
+
+🇸🇪 Förklaring: tamdjur med horn och skägg som man håller för mjölken och köttet
+
 发音提示：/jeːt/
 
 ## 语法变形 (Forms)

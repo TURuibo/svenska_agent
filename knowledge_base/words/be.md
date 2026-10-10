@@ -6,9 +6,9 @@ verbgrupp: "oregelbundet"
 cefr: A2
 zh: 请求；祈祷
 en: to ask (for), to request, to pray
-synonyms: []
+synonyms: [fråga, begära, vädja]
 antonyms: []
-family: []
+family: [bön, bedja]
 topics: []
 sentences: []
 known: false
@@ -18,6 +18,9 @@ created: "2026-10-01"
 # be — verb (oregelbundet)
 
 📖 中文：请求，恳请；祈祷 · English: to ask, request; to pray
+
+🇸🇪 Förklaring: fråga någon artigt om att få något eller om hjälp; tala till Gud i bön
+
 发音提示：/beː/
 
 ⚠️ 注意：`bad` 是 be 的过去式（≠ 名词 bad “浴”，那是 [[bada]] 相关的词）。
@@ -46,9 +49,9 @@ created: "2026-10-01"
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族:
-- 同义词:
-- 反义词:
+- 词族: [[bön]] (请求；祈祷), [[bedja]] (祈求)
+- 同义词: [[fråga]] (问), [[begära]] (要求), [[vädja]] (恳求)
+- 反义词: —
 - 主题:
 
 ## 用法提示 (Usage Notes)

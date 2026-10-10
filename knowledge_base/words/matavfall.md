@@ -6,7 +6,7 @@ genus: ett
 cefr: A2
 zh: 厨余垃圾
 en: food waste
-synonyms: []
+synonyms: [matrester, bioavfall]
 antonyms: []
 family: [avfall, restavfall]
 topics: [topic-källsortering, topic-mat-dryck]
@@ -23,6 +23,9 @@ interval: 0
 # matavfall — substantiv
 
 📖 中文：厨余垃圾 · English: food waste
+
+🇸🇪 Förklaring: rester och skal från mat som man slänger och som kan bli biogas eller jord
+
 发音提示：MAT-av-fall（重音在第一音节）
 
 ## 语法变形 (Forms)
@@ -49,7 +52,9 @@ interval: 0
 
 ## 词族 / 同义 / 反义 (Relations)
 
-- 词族: [[avfall]] [[restavfall]]
+- 词族: [[avfall]] [[restavfall]], [[restavfall]]
+- 同义词: [[matrester]] (剩饭剩菜), [[bioavfall]] (生物垃圾)
+- 反义词: —
 - 主题: [[topic-källsortering]]
 - 来源: [[source-2026-06-25-instruktion-kallsortering]]
 

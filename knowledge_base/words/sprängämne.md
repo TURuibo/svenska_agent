@@ -7,9 +7,9 @@ genus: "ett"
 cefr: "B1"
 zh: "炸药，爆炸物"
 en: "explosive"
-synonyms: ["dynamit"]
+synonyms: [dynamit]
 antonyms: []
-family: ["spränga"]
+family: [spränga]
 topics: ["topic-uppfinning-och-teknik"]
 sentences:
   - "sent-dynamit-var-ett-nytt-och-säkrare-sprängämne"
@@ -24,6 +24,9 @@ interval: 0
 # sprängämne — substantiv (ett)
 
 📖 中文：炸药，爆炸物 · English: explosive
+
+🇸🇪 Förklaring: ämne som kan explodera och användas för att förstöra saker eller bryta loss berg
+
 发音提示：/ˈsprɛŋˌɛmnə/
 
 ## 语法变形 (Forms)
@@ -49,6 +52,7 @@ interval: 0
 
 - 词族: [[spränga]]
 - 同义词: [[dynamit]]
+- 反义词: —
 - 主题: [[topic-uppfinning-och-teknik]]
 
 ## 用法提示 (Usage Notes)

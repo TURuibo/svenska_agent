@@ -7,9 +7,9 @@ genus: "en"
 cefr: "B1"
 zh: "母驼鹿"
 en: "female moose; cow moose"
-synonyms: []
-antonyms: ["älgtjur"]
-family: ["älg"]
+synonyms: [älgko]
+antonyms: [älgtjur]
+family: [älg]
 topics: ["topic-djur", "topic-natur-skog"]
 sentences: ["sent-men-en-alghona-bor-tillsammans-med"]
 known: false
@@ -23,6 +23,9 @@ interval: 0
 # älghona — substantiv
 
 📖 中文：母驼鹿 · English: female moose; cow moose
+
+🇸🇪 Förklaring: älg av honkön, som saknar horn
+
 发音提示：["ɛlg-hoː-na"]
 
 ## 语法变形 (Forms)
@@ -48,7 +51,8 @@ interval: 0
 ## 词族 / 同义 / 反义 (Relations)
 
 - 词族: [[älg]]
-- 反义词: älgtjur（公驼鹿）
+- 同义词: [[älgko]] (母驼鹿)
+- 反义词: [[älgtjur]]（公驼鹿）
 - 主题: [[topic-djur]], [[topic-natur-skog]]
 
 ## 用法提示 (Usage Notes)
