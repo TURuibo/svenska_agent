@@ -4,7 +4,7 @@ name: "argumentation"
 kind: thematic
 zh: "论证与观点表达（理由、主张、让步、结论）"
 en: "Argumentation & expressing opinions"
-members: [alltså, därmed, nämligen, skäl, tanke, anta, föreslå, inse, lösning, hävda, förutsättning, uppmana, anledning, därför, eftersom, anse, mena, åsikt, förslag, dessutom, däremot, å-ena-sidan-å-andra-sidan, hävda-att, i-längden, ta-frågan-på-allvar, vara-med-och-bestämma, jag-anser-att, visserligen-men, det-är-dags-att, förhållande, uppfattning, kritik, påstå, argument, orsak, konflikt, slutsats, förmodligen, kritisera, aning, minne, ha-ingen-aning, komma-med-kritik, framgå, undantag, medföra, följd, riskera, slutligen, eventuell, upplevelse, orsaka, för-övrigt, med-tanke-på, i-allmänhet, av-framgår-att, på-lång-sikt, utmaning, inställning, synpunkt, nytta, förtroende, resonemang, motsvara, samband, likhet, med-andra-ord, i-förhållande-till, i-själva-verket, motivation, jämförelse]
+members: [alltså, därmed, nämligen, skäl, tanke, anta, föreslå, inse, lösning, hävda, förutsättning, uppmana, anledning, därför, eftersom, anse, mena, åsikt, förslag, dessutom, däremot, å-ena-sidan-å-andra-sidan, hävda-att, i-längden, ta-frågan-på-allvar, vara-med-och-bestämma, jag-anser-att, visserligen-men, det-är-dags-att, förhållande, uppfattning, kritik, påstå, argument, orsak, konflikt, slutsats, förmodligen, kritisera, aning, minne, ha-ingen-aning, komma-med-kritik, framgå, undantag, medföra, följd, riskera, slutligen, eventuell, upplevelse, orsaka, för-övrigt, med-tanke-på, i-allmänhet, av-framgår-att, på-lång-sikt, utmaning, inställning, synpunkt, nytta, förtroende, resonemang, motsvara, samband, likhet, med-andra-ord, i-förhållande-till, i-själva-verket, motivation, jämförelse, fördom, ståndpunkt, argumentera, motsats, resonera, först-och-främst, i-jämförelse-med, reflektera-över, i-och-med-att, i-och-för-sig, på-så-sätt, hur-som-helst]
 created: "2026-10-02"
 ---
 
@@ -103,3 +103,4 @@ created: "2026-10-02"
 - 来源: [[source-2026-10-02-fokus-insandare-fritidsgardar]]（🎯 补弱项 T17 的 12 个目标词都在这里）。
 - 语法: [[grammar-debattstruktur]] · [[grammar-insandare-styckelogik]] · [[grammar-inversion-efter-fundament]] · [[grammar-satsadverbial]]
 - 相关主题: [[topic-samhälle-och-politik]] · [[topic-satsadverbial]]
+- 来源: [[source-2026-10-12-kronika-fordomar]]（🎯 T17 krönika：fördom, ståndpunkt, argumentera, motsats, resonera 等）。
