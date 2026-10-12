@@ -3,7 +3,7 @@ type: topic
 name: "geografi-natur"
 kind: "semantic-field"
 zh: "地理与自然"
-members: ["ö", "östersjön", "belägen", "broförbindelse", "mur", "kullersten", "bebyggelse", "välbevarad", "berggrund", "kalksten", "rauk", "äng", "strand", "växt", "mild", "solsäker", "gynna", "medeltida", "världsarvslista", "omgärda", "fårskötsel", "landskap"]
+members: ["ö", "östersjön", "belägen", "broförbindelse", "mur", "kullersten", "bebyggelse", "välbevarad", "berggrund", "kalksten", "rauk", "äng", "strand", "växt", "mild", "solsäker", "gynna", "medeltida", "världsarvslista", "omgärda", "fårskötsel", "landskap", "fält", "blad", "tät", "buske", "skugga", "stjärna", "bördig"]
 created: "2026-06-30"
 ---
 
@@ -46,3 +46,12 @@ created: "2026-06-30"
 - 本主题涵盖与哥特兰岛（Gotland）地理、自然和文化景观相关的词汇。
 - 相关主题：[[topic-natur-skog]], [[topic-hav-och-kust]], [[topic-vader-och-arstider]], [[topic-stadsmiljo]]。
 - 来源：[[source-2026-06-30-gotland]]
+
+**Natur-adjektiv & -substantiv (2026-10-12)**
+- [[fält]] — 田野
+- [[blad]] — 叶子
+- [[tät]] — 茂密的
+- [[buske]] — 灌木
+- [[skugga]] — 阴影
+- [[stjärna]] — 星星
+- [[bördig]] — 肥沃的
