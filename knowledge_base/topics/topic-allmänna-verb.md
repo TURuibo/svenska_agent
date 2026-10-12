@@ -3,7 +3,7 @@ type: topic
 name: "allmänna-verb"
 kind: thematic
 zh: "通用动词（高频、跨领域的基础动词）"
-members: [betyda, genomföra, beskriva, fatta, falla, ingå, stödja, hantera, skydda, hindra, råda, bidra-till, fatta-beslut, råda-någon-att, hindra-från-att, skydda-mot]
+members: [betyda, genomföra, beskriva, fatta, falla, ingå, stödja, hantera, skydda, hindra, råda, förbereda, kontrollera, synas, grunda, pröva, beröra, inträffa, underlätta, misslyckas, upprepa, prova, bidra-till, fatta-beslut, råda-någon-att, hindra-från-att, skydda-mot]
 created: "2026-10-02"
 ---
 
@@ -30,6 +30,17 @@ created: "2026-10-02"
 | [[skydda]] | skyddar – skyddade – skyddat | 保护 | `skydda mot` |
 | [[hindra]] | hindrar – hindrade – hindrat | 阻止；妨碍 | `hindra från att` |
 | [[råda]] | råder – rådde – rått | 建议；（状况）存在 | 两个义项 |
+| [[förbereda]] | förbereder – förberedde – förberett | 准备 | `förbereda sig inför` |
+| [[kontrollera]] | kontrollerar – kontrollerade – kontrollerat | 检查；核实 | 名词 kontroll |
+| [[synas]] | syns – syntes – synts | 看得见 | s-动词 |
+| [[grunda]] | grundar – grundade – grundat | 创办；建立 | `grundades 1998` |
+| [[pröva]] | prövar – prövade – prövat | 尝试；检验 | 近义 prova |
+| [[beröra]] | berör – berörde – berört | 触动；涉及 | |
+| [[inträffa]] | inträffar – inträffade – inträffat | 发生 | 书面，近义 hända |
+| [[underlätta]] | underlättar – underlättade – underlättat | 使容易 | 反义 försvåra |
+| [[misslyckas]] | misslyckas – misslyckades – misslyckats | 失败 | s-动词 |
+| [[upprepa]] | upprepar – upprepade – upprepat | 重复 | `upprepa ett misstag` |
+| [[prova]] | provar – provade – provat | 试穿；试用 | 与 pröva 区分 |
 
 ### 搭配 / 词组
 
