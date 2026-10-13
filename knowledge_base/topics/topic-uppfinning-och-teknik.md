@@ -17,6 +17,12 @@ members:
   - grundare
   - fyrkantig
   - pyramid
+  - skiftnyckel
+  - verktyg
+  - tillverka
+  - succé
+  - uppfinna
+  - patent
 created: "2026-06-23"
 ---
 
@@ -39,6 +45,13 @@ created: "2026-06-23"
 - [[grundare]] — 创始人
 - [[fyrkantig]] — 方形的/四方的
 - [[pyramid]] — 金字塔/棱锥
+- [[skiftnyckel]] — 活动扳手
+- [[verktyg]] — 工具
+- [[tillverka]] — 生产/制造
+- [[succé]] — 成功
+- [[uppfinna]] — 发明
+- [[patent]] — 专利
+- 另见 [[topic-verktyg]]
 
 ## 备注 (Notes)
 
