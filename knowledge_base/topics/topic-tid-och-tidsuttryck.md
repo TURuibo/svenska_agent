@@ -5,6 +5,16 @@ kind: semantic-field
 zh: "时间与时间表达"
 members:
   - sedan
+  - förr
+  - nyligen
+  - nyss
+  - strax
+  - dröja
+  - ögonblick
+  - evighet
+  - hälft
+  - så-småningom
+  - vänligt
   - redan
   - tidigt
   - just
