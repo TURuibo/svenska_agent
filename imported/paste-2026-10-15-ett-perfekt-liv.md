@@ -58,7 +58,7 @@ Pierre 去了国外读书，Johan 在卫生中心找到了助理护士的工作�
 
 Johan 继续看手机。他翻看 Pierre 在社交媒体上的照片。照片很多，全是澳大利亚、亚洲、印度、坦桑尼亚、冰岛和南美的美丽风景。Pierre 是给各个旅游目的地做推广的网红。好像就没有他没去过的地方。很多照片和视频里都能看到一个笑容灿烂的帅气男人。Pierre 身材健美，在海滩上穿着泳裤时能看到他的腹肌。
 
-Johan 看了看自己的肚子。因为吃了太多面包卷、运动太少，它变得有点粗了。它可还没准备好上海滩，他想。
+Johan 看了看自己的肚子。因为吃了太多面包卷、运动太少，它变得有点胖了。它可还没准备好上海滩，他想。
 
 Pierre 和 Johan 一直通过邮件和短信保持联系，但这些年消息越来越少。所以当 Pierre 写信说他在瑞典、问能不能来吃晚饭时，Johan 又惊讶又高兴。但晚饭越临近，Johan 就越紧张。他想知道隔了这么多年再见面会是什么感觉。
 
@@ -103,7 +103,7 @@ Johan 震惊了。他原以为 Pierre 过着完美的生活。可 Pierre 反而�
 ## 🔍 逐段精读 (Stycke för stycke)
 
 💡 读法：先读瑞典语段落 → 一句句看「📐 结构」和「⚠️ 要点」→ 最后看 🇨🇳。生词表里「原形」可点开完整笔记；正文里虚线词可直接点查。
-💡 符号：**S** 主语 · **V** 限定动词（变位的那个）· **O** 宾语 · **A** 状语 · ⟨…⟩ 从句。
+💡 符号：**S** 主语 · **V** 限定动词（变位的那个；`(V…)`/含小品词、supinum 时 = 整个动词词组）· **O** 宾语 · **A** 状语 · ⟨…⟩ 从句。
 
 ### ¶1 · 一条消息（4 句）
 
@@ -182,14 +182,14 @@ När de var små var de jämt tillsammans. De lekte med bilar, byggde kojor och 
 **③ Med tiden byttes bilarna och kojorna ut mot mopeder och tjuvrökning.**
 
 - 📐 `Med tiden`(A) + `byttes … ut`(V, s-被动) + `bilarna och kojorna`(S) + `mot mopeder och tjuvrökning`(A)
-- ⚠️ **s-被动 + 小品词动词**：byta ut → 被动 **byttes ut**（-s 加在动词上，小品词 ut 仍在后面）。主语较长时 ut 可放在主语后 → [[grammar-s-passiv|📗s被动]]、[[grammar-partikelverb|📗小品词动词]]
+- ⚠️ **s-被动 + 小品词动词**：byta ut → 被动 **byttes ut**（-s 加在动词上，小品词 ut 仍在后面）。倒装句里主语插在变位动词和小品词之间：byttes + 主语 + ut（固定规则，与主语长短无关） → [[grammar-s-passiv|📗s被动]]、[[grammar-partikelverb|📗小品词动词]]
 - ⚠️ **byta ut A mot B** = 用 B 替换 A → [[byta-ut]]；`med tiden` = 随着时间
 - 🇨🇳 随着时间推移，小汽车和小木屋被轻便摩托车和偷偷抽烟取代了。
 
 **④ De pratade om tjejer de var kära i och om rädslan att vara dåliga på att kyssas.**
 
 - 📐 `De`(S) + `pratade`(V) + `om tjejer ⟨(som) de var kära i⟩` + `och om rädslan ⟨att vara dåliga på att kyssas⟩`
-- ⚠️ **省略 som + 介词放句尾**：tjejer (som) de var kära i = 他们爱上的女孩。som 在从句里作宾语时可省，介词 i 留在最后（中文没有这种结构）→ [[grammar-relativ-bisats-med-som|📗som关系从句]]
+- ⚠️ **省略 som + 介词放句尾**：tjejer (som) de var kära i = 他们爱上的女孩。som 在从句里作介词 i 的宾语（不是主语）时可省，介词 i 留在句尾（中文没有这种结构）→ [[grammar-relativ-bisats-med-som|📗som关系从句]]
 - ⚠️ `kära`、`dåliga` 是复数形式，和主语 de 一致；**vara kär i** = 爱上 → [[vara-kär-i]]；**vara dålig på att** = 不擅长
 - ⚠️ `kyssas` 是相互义 s-动词（彼此亲吻）→ [[grammar-s-verb-reciprok|📗相互s动词]]
 - 🇨🇳 他们聊自己喜欢的女孩，也聊害怕自己不会接吻。
@@ -301,7 +301,7 @@ Johan valde en annan väg. Det började med gymnasievalet. Han gick omvårdnadsp
 
 - 📐 两个主句用 och 连：`Han gick omvårdnadsprogrammet` + `Pierre valde ett internationellt program`
 - ⚠️ **gå + 专业/学校** = 读（某专业）：gå omvårdnadsprogrammet、gå i skolan
-- ⚠️ 形容词一致：program 是 ett-词 → internation­ell**t** → [[grammar-adjektiv-som-predikat|📗形容词变形]]
+- ⚠️ 形容词一致：program 是 ett-词 → internation­ell**t** （定语形容词与名词性别一致）
 - 🇨🇳 他读了护理专业，而 Pierre 选了一个国际专业。
 
 **④ De fortsatte umgås men det blev inte riktigt som förr.**
@@ -486,7 +486,7 @@ Johan fortsatte titta i sin mobil. Han bläddrade bland Pierres bilder på socia
 
 Johan såg på sin egen mage. Den hade blivit lite tjockare av för mycket bullar och för lite motion. Den var inte redo för stranden, tänkte han.
 
-🇨🇳 Johan 看了看自己的肚子。因为吃了太多面包卷、运动太少，它变得有点粗了。它可还没准备好上海滩，他想。
+🇨🇳 Johan 看了看自己的肚子。因为吃了太多面包卷、运动太少，它变得有点胖了。它可还没准备好上海滩，他想。
 
 #### 🔍 逐句拆解
 
@@ -501,8 +501,8 @@ Johan såg på sin egen mage. Den hade blivit lite tjockare av för mycket bulla
 - 📐 `Den`(S=magen) + `hade blivit`(V) + `lite tjockare`(表语) + `av …`(A 原因)
 - ⚠️ **den** 指 magen（en-词用 den，ett-词用 det）
 - ⚠️ `hade blivit` 过去完成时；`tjockare` 比较级 → [[grammar-komparativ|📗比较级]]；**av** 表原因 = 因为
-- ⚠️ `för mycket`（不可数/整体量）vs `för lite`：太多 / 太少
-- 🇨🇳 因为面包卷吃太多、运动太少，它变得有点粗了。
+- ⚠️ 规范上：可数复数用 för många（för många bullar），不可数用 för mycket（för mycket socker）。本文 för mycket bullar 是口语，把"吃面包卷"当成整体量；för lite motion（motion 不可数）
+- 🇨🇳 因为面包卷吃太多、运动太少，它变得有点胖了。
 
 **③ Den var inte redo för stranden, tänkte han.**
 
@@ -549,7 +549,7 @@ Pierre och Johan hade fortsatt hålla kontakten genom mejl och sms, men det hade
 
 - 📐 ⟨ju närmare middagen kom⟩ + `desto mer nervös`(表语) + `blev`(V) + `Johan`(S)
 - ⚠️ **ju … desto** = 越……越……：ju 部分是从句语序（middagen kom），desto 部分倒装（blev Johan）→ [[grammar-ju-desto-konstruktion|📗ju–desto]]、[[ju-desto]]
-- ⚠️ nervös 是多音节外来词，比较级用 **mer nervös**（不是 nervösare）
+- ⚠️ nervös 的比较级两种都对：nervösare / mer nervös；本句用 mer nervös，在 ju–desto 里很常见
 - 🇨🇳 但晚饭越近，Johan 就越紧张。
 
 **④ Han undrade hur det skulle kännas att ses efter så många år.**
@@ -778,7 +778,7 @@ Middagen blev lyckad. Pierre berättade om sina äventyr och barnen lyssnade med
 **③ Det var en riktigt trevlig kväll och klockan blev snabbt sent.**
 
 - 📐 `Det var en riktigt trevlig kväll` ／ `klockan`(S) + `blev`(V) + `snabbt`(A) + `sent`
-- ⚠️ `riktigt` 是副词修饰 trevlig（= 真的很）；**klockan blev sent** = 时间很快晚了（字面"钟变晚了"）
+- ⚠️ `riktigt` 是副词修饰 trevlig（= 真的很）；**klockan blev sent** = 时间很快晚了。注意 sent 不跟 klockan（en-词）一致（否则应是 sen）：这里 sent 是副词性用法，同 det är sent / det blev sent
 - 🇨🇳 那是一个非常愉快的夜晚，时间很快就晚了。
 
 **④ Johans familj gick en efter en och lade sig.**
@@ -802,7 +802,7 @@ Middagen blev lyckad. Pierre berättade om sina äventyr och barnen lyssnade med
 | tonåringen | [[tonåring]] | subst. en | 青少年 | |
 | trevlig | [[trevlig]] | adj. | 愉快的 | |
 | snabbt | [[snabbt]] | adv. | 很快地 | |
-| sent | [[sen]] | adj. | 晚的 | sen – sent – sena；sent 作副词 |
+| sent | [[sen]] | adv. | 晚 | 副词（来自形容词 sen）；klockan blev sent / det är sent |
 | satt | [[sitta]] | verb | 坐 | sitta – satt – suttit |
 | ensamma | [[ensam]] | adj. | 独自的 | ensam – ensamt – ensamma |
 
@@ -960,7 +960,7 @@ Pierre berättade att han ofta kände sig ensam. Det var härligt att resa men h
 - 📐 `Det är` + 三个并列：`mest tomma hotellrum` / `massor av träning` / `knappt några kalorier` + `sa Pierre trött`
 - ⚠️ `tomma` 复数（hotellrum 复数同形）；**massor av** = 大量；**knappt några** = 几乎没有
 - ⚠️ `sa Pierre trött`：trött 是形容词，描述 Pierre 当时的状态（疲惫地）
-- 🇨🇳 大多是空荡荡的酒店房间、大量训练，几乎吃不到什么东西，Pierre 疲惫地说。
+- 🇨🇳 大多是空荡荡的酒店房间、大量训练，几乎不摄入什么卡路里（为了保持身材几乎不吃东西），Pierre 疲惫地说。
 
 #### 📚 生词
 
