@@ -149,6 +149,9 @@ confirmation, then analyze and store. **存完后自动运行 `/sync`**（commit
 >    grammar = `name | zh | en`；内容直接取自 sv-librarian 刚写入的 KB 笔记）。阅读站的「学习项」面板
 >    **只从这个块解析**——漏掉它文章正文能读、但单词/词组/句子面板会是空的（2026-07-01 Gotland 篇教训）。
 > 3. `node tools/build-reading-site.js` 重建阅读站数据，再随 `/sync` 一起提交。
+> 4. ⭐ **教材课文必须逐句分析（Ruibo 固定要求，2026-10-15 起）**：按 `sv-study-guide` 技能在该文章里加「## 🔍 逐段精读」
+>    （每段：原文 → 🔍 逐句拆解 📐结构/⚠️要点/🇨🇳 → 🧩 词组 → 📚 生词），补齐未覆盖的实词笔记，独立复核后再发布。
+>    不能只给全文翻译 + 词表。
 >
 > 这样拍照素材既拆进 KB（Sök 可搜 + 生词可点查），又能在阅读站当文章读（🇸🇪/🇨🇳 切换）。
 > （`/scenario`、`/dagens-artikel`、`/dagens-nyheter` 等生成类已经经 `/import` 自动归档到 `imported/`，
