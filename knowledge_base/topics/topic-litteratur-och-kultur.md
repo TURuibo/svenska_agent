@@ -21,6 +21,7 @@ created: "2026-06-02"
 - [[berätta]] — 讲述 (to tell, narrate)
 - [[skådespelare]] — 演员 (actor, already exists)
 - [[teater]] — 剧院；戏剧 (theatre)
+- [[litteratur]] — 文学 (literature; 2026-10-15, [[source-2026-10-15-selma-lagerlof]])
 
 ## 备注 (Notes)
 
