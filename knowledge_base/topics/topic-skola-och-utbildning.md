@@ -64,3 +64,5 @@ created: "2026-06-03"
 - [[fotograf]] — 摄影师
 - [[fotografera]] — 拍照
 - [[expedition]] — 办公室；服务窗口
+- [[skolbarn]] — 学童 (2026-10-15, [[source-2026-10-15-selma-lagerlof]])
+- [[geografi]] — 地理
