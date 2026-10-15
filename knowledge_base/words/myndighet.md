@@ -25,7 +25,7 @@ interval: 0
 
 🇸🇪 Förklaring: statlig eller kommunal organisation som har ansvar för ett visst område i samhället
 
-发音提示：myn-dig-het
+发音提示：/ˈmʏnːdɪɡˌheːt/ — 重音在 myn-，y 是短音；g 读 [ɡ]（口语可弱化）
 
 ## 语法变形 (Forms)
 
@@ -58,3 +58,4 @@ interval: 0
 ## 用法提示 (Usage Notes)
 
 - 瑞典著名机关例如：Trafikverket（交管局）、Skolverket（教育局）、Migrationsverket（移民局）
+- ⚠️ 中文「市政部门」一般不说 myndighet：市政府 = [[kommun|kommunen]]；市政府下属的局/处 = [[förvaltning]]（如 socialförvaltningen 社会服务局）。myndighet 多指**国家**机关（Skatteverket, Migrationsverket）
