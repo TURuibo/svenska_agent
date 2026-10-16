@@ -3,7 +3,7 @@ type: topic
 name: "djur"
 kind: semantic-field
 zh: "动物"
-members: [hund, katt, häst, ko, gris, får, fågel, fisk, orm, björn, räv, älg, kanin, mus, get, anka, höna, groda, lejon, tiger, elefant, apa, varg, djur, spindel, ekorre, hare, igelkott, rådjur, åsna, kamel, giraff, zebra, örn, uggla, svan, gås, papegoja, fjäril, bi, myra, fluga, snigel, säl, haj, krokodil, sköldpadda, råtta, hamster, marsvin, delfin, bläckfisk, kräfta, struts, pingvin, lo, gorilla, flodhäst, noshörning, isbjörn, panda, känguru, koala, pelikan, stork, gädda, abborre, bäver, hjort, hummer, räka, trogen, nyfiken, snabb, brun, tjock, vit, gammal, blöt, farlig, stark, lurvig, arg, liten, grå, tam, gullig, ung, hungrig, stor, vacker, snäll, långsam, envis, vild, svart, lätt, ullig, skygg, fläckig, randig, vaken, lugn, blå, tyst, fet, fri, vass, glupsk, busig, skrämd, sällsynt, ful]
+members: [hund, katt, häst, ko, gris, får, fågel, fisk, orm, björn, räv, älg, kanin, mus, get, anka, höna, groda, lejon, tiger, elefant, apa, varg, djur, spindel, ekorre, hare, igelkott, rådjur, åsna, kamel, giraff, zebra, örn, uggla, svan, gås, papegoja, fjäril, bi, myra, fluga, snigel, säl, haj, krokodil, sköldpadda, råtta, hamster, marsvin, delfin, bläckfisk, kräfta, struts, pingvin, lo, gorilla, flodhäst, noshörning, isbjörn, panda, känguru, koala, pelikan, stork, gädda, abborre, bäver, hjort, hummer, räka, trogen, nyfiken, snabb, brun, tjock, vit, gammal, blöt, farlig, stark, lurvig, arg, liten, grå, tam, gullig, ung, hungrig, stor, vacker, snäll, långsam, envis, vild, svart, lätt, ullig, skygg, fläckig, randig, vaken, lugn, blå, tyst, fet, fri, vass, glupsk, busig, skrämd, sällsynt, ful, listig, flink, sömnig, stygg, tapper, kråka, gam, utter, mås, padda, ödla, lamm, tjur, skata, kalkon]
 created: "2026-06-08"
 ---
 
@@ -183,3 +183,21 @@ created: "2026-06-08"
 - 形容词 [[stark]] 同时属于 [[topic-kropp]] 主题。
 - 参见 [[djurpark]] (动物园) 和 [[husdjur]] (宠物) 相关词汇。
 - 来源: [[source-2026-06-08-djur]] · [[source-2026-06-18-djur]] · [[source-2026-06-28-adjsubst-djur]]
+
+## 2026-10-16 补充 (adj + subst 练习)
+
+- [[listig]]
+- [[flink]]
+- [[sömnig]]
+- [[stygg]]
+- [[tapper]]
+- [[kråka]]
+- [[gam]]
+- [[utter]]
+- [[mås]]
+- [[padda]]
+- [[ödla]]
+- [[lamm]]
+- [[tjur]]
+- [[skata]]
+- [[kalkon]]
