@@ -4,6 +4,18 @@ slug: topic-arbete-och-jobb
 zh: "工作与职业"
 en: "Work and Employment"
 members:
+  - arbetsmarknad
+  - arbetslöshet
+  - arbetslös
+  - arbetsförmedlingen
+  - bakgrund
+  - kompetens
+  - referens
+  - arbetstagare
+  - utrustning
+  - fack
+  - ledning
+  - skyddskläder
   - barnskötare
   - deltid
   - heltid
