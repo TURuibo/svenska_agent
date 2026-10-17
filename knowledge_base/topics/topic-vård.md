@@ -3,7 +3,7 @@ type: topic
 slug: "topic-vård"
 zh: "护理与医疗"
 en: "healthcare and care"
-members: ["vårdbiträde", "äldreboende", "demens", "minnessvårighet", "tandvård", "glasögon", "hygien"]
+members: ["anhörig", "närstående", "vårda", "vårdbiträde", "äldreboende", "demens", "minnessvårighet", "tandvård", "glasögon", "hygien"]
 created: "2026-06-25"
 ---
 
