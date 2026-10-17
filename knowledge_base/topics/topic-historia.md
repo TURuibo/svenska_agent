@@ -3,7 +3,7 @@ type: topic
 name: "historia"
 kind: "semantic-field"
 zh: "历史"
-members: ["världskrig", "krig", "orolighet", "händelse", "kvinnorättsrörelse", "rösträtt"]
+members: ["världskrig", "krig", "orolighet", "händelse", "kvinnorättsrörelse", "rösträtt", "krigsskepp", "kanon", "sjunka", "utredning", "bärga", "botten", "skeppsmask", "trä"]
 created: "2026-08-06"
 ---
 
@@ -19,6 +19,15 @@ created: "2026-08-06"
 - [[händelse]] — 事件
 - [[kvinnorättsrörelse]] — 女权运动
 - [[rösträtt]] — 选举权
+
+- [[krigsskepp]]
+- [[kanon]]
+- [[sjunka]]
+- [[utredning]]
+- [[bärga]]
+- [[botten]]
+- [[skeppsmask]]
+- [[trä]]
 
 ## 备注 (Notes)
 
