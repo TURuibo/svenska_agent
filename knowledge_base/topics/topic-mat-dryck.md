@@ -126,6 +126,16 @@ members:
   - recept
   - matkasse
 created: 2026-06-11
+  - blank
+  - stekt
+  - fluffig
+  - knaprig
+  - gaffel
+  - mugg
+  - skinka
+  - pannkaka
+  - knäckebröd
+  - vin
 ---
 
 # Mat & Dryck — 食物饮料
