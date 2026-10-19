@@ -3,7 +3,7 @@ type: topic
 name: "grannar och boende"
 kind: semantic-field
 zh: 邻居与居住（语义场）
-members: [felanmälan, huvudnyckel, reparatör, granne, våning, port, lägenhet, störa, inflyttningsfest, knacka-på, meddelande, syfte, informera, tacka, klaga, hota, efterlysa, be-om-hjälp, bjuda-in-till-fest, kattvakt, ramla, rumsren, gosig, fönsterputs, erbjuda, tjänst, kvalitet, reklam, göra-reklam, ha-överseende-med-något, överseende, regel, respektera, ett-fång-rosor, fång, borra, höras, grannforum, trapphus, cykelhjul, tjuv, utrymningsväg, cykelrum, källare, borr, tvättstuga, bokningstavla, ludd, fastighetsskötare, varmvatten, kallvatten, ventil, firma, grovsopor, kolgrill, elgrill, gasolgrill, grillplats, trappuppgång, ordningsregel, hostig]
+members: [piano, hörlurar, ljud, förstående, felanmälan, huvudnyckel, reparatör, granne, våning, port, lägenhet, störa, inflyttningsfest, knacka-på, meddelande, syfte, informera, tacka, klaga, hota, efterlysa, be-om-hjälp, bjuda-in-till-fest, kattvakt, ramla, rumsren, gosig, fönsterputs, erbjuda, tjänst, kvalitet, reklam, göra-reklam, ha-överseende-med-något, överseende, regel, respektera, ett-fång-rosor, fång, borra, höras, grannforum, trapphus, cykelhjul, tjuv, utrymningsväg, cykelrum, källare, borr, tvättstuga, bokningstavla, ludd, fastighetsskötare, varmvatten, kallvatten, ventil, firma, grovsopor, kolgrill, elgrill, gasolgrill, grillplats, trappuppgång, ordningsregel, hostig]
 created: "2026-09-03"
 ---
 
@@ -21,6 +21,10 @@ created: "2026-09-03"
 - [[inflyttningsfest]] — 乔迁派对
 
 ### 噪音与投诉 (Ljud & klagomål)
+- [[ljud]] — 声音；噪音
+- [[piano]] — 钢琴
+- [[hörlurar]] — 耳机
+- [[förstående]] — 体谅的
 - [[störa]] — 打扰
 - [[borra]] — 钻孔
 - [[höras]] — 听得见

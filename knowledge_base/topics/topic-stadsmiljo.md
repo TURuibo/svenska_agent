@@ -4,6 +4,13 @@ name: stadsmiljö
 kind: semantic-field
 zh: 城市环境；街道场景
 members:
+  - skick
+  - hål
+  - asfalt
+  - belysning
+  - underhåll
+  - ploga
+  - skotta
   - bank
   - apotek
   - kafé
