@@ -69,3 +69,4 @@ created: "2026-10-01"
 - 想要「东西」时必须加 `ha`：vilja **ha** kaffe（不能说 vilja kaffe）。
 - `Jag skulle vilja …` 比 `Jag vill …` 更礼貌（点餐、请求）。
 - 来源: [[source-2026-09-22-nils-van-der-poel]]
+- 教材 s. 99：`Vad vill skribenten åstadkomma med förslaget?` — 🇨🇳 作者想用提议达成什么？（vill + 不定式 åstadkomma）来源: [[source-2026-10-20-mejl-till-politiker-frågor]]

@@ -50,3 +50,4 @@ interval: 0
 - 🇸🇪 Hon svarade inte på min fråga. — 🇨🇳 她没有回答我的问题。
 - 🇸🇪 Läs informationsbladet och svara på frågorna. — 🇨🇳 阅读信息单并回答问题。（教材指令，祈使式；来源 [[source-2026-10-20-sortera-matavfall]]）
 - 🇸🇪 Läs mejlet till en politiker och svara på frågorna. — 🇨🇳 阅读写给政治家的邮件并回答问题。（教材 s.98；[[source-2026-10-20-mejl-till-politiker]]）
+- 🇸🇪 Läs det formella brevet … och svara på frågorna muntligt. — 🇨🇳 阅读这封正式的信，并口头回答问题。（教材 s.99；[[source-2026-10-20-mejl-till-politiker-frågor]]，[[muntlig]]）

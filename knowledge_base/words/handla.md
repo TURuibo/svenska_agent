@@ -64,4 +64,5 @@ interval: 0
 - `handla om` + substantiv/att-sats = 关于……，讲述……（内容主语）。
 - `handla begagnade plagg` = 买二手衣服：🇸🇪 Om man ska handla begagnade plagg måste man ofta ta sig in till en butik. — 🇨🇳 想买二手衣服，往往得特地去店里。→ [[source-2026-10-20-mejl-till-politiker]]（[[ta-sig-in]]）
 - `handla` 本义是"从事贸易"，衍生出"购物"和"行动"两义。
+- 教材 s. 99：`Vad handlar förslaget om …?` — 🇨🇳 提议是关于什么的？→ [[vad-handlar-det-om]]；来源: [[source-2026-10-20-mejl-till-politiker-frågor]]
 - **维京贸易义：** `handla med folk i öst`（与东方的人们进行贸易）— 这是 handla 的原始义，参见 [[handla-med]]。

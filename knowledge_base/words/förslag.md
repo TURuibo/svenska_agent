@@ -65,3 +65,4 @@ interval: 0
 
 - 固定动词搭配：`lägga fram ett förslag`（提出提案）、`rösta om ett förslag`（表决提案）。
 - 来源: [[source-2026-09-22-laxforhoret-valsystemet]]
+- 教材 s. 99：`Vad handlar förslaget om …?` / `Vilka fraser används för att ge förslag?` — 🇨🇳 提议是关于什么的？/ 用哪些句式来提建议？→ [[ge-förslag]]；来源: [[source-2026-10-20-mejl-till-politiker-frågor]]

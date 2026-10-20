@@ -42,6 +42,16 @@ members:
   - omge-sig-med
   - tappa-fokus
   - komma-in-i-boken
+  - ämnesrad
+  - inledningsfras
+  - muntlig
+  - informell
+  - åstadkomma
+  - avslutning
+  - exempeltext
+  - ge-förslag
+  - ge-exempel
+  - vad-handlar-det-om
 created: "2026-06-27"
 ---
 
@@ -92,6 +102,10 @@ created: "2026-06-27"
 - [[omge-sig-med]] — 让自己置身于……
 - [[tappa-fokus]] — 走神
 - [[komma-in-i-boken]] — 读进去
+
+**教材练习用语 (s. 99, [[source-2026-10-20-mejl-till-politiker-frågor]])**
+- 词: [[ämnesrad]] — 主题栏; [[inledningsfras]] — 开头用语; [[muntlig]] — 口头的; [[informell]] — 非正式的 (↔ [[formell]]); [[åstadkomma]] — 达成; [[avslutning]] — 结尾; [[exempeltext]] — 范文
+- 词组: [[ge-förslag]] — 提建议; [[ge-exempel]] — 举例; [[vad-handlar-det-om]] — 讲什么
 
 ## 备注 (Notes)
 

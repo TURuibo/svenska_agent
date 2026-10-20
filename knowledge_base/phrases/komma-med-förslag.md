@@ -38,3 +38,4 @@ created: "2026-09-22"
 
 - 🇸🇪 Vår lärare brukar komma med förslag på låtar som passar. — 🇨🇳 我们老师通常会推荐适合的歌曲建议。
 - 🇸🇪 Kan du komma med förslag på var vi ska äta? — 🇨🇳 你能提个建议我们去哪吃饭吗？
+- 🇸🇪 Vilka fraser används för att ge förslag? — 🇨🇳 用哪些句式来提建议？（同义 [[ge-förslag]]；来源 [[source-2026-10-20-mejl-till-politiker-frågor]]）

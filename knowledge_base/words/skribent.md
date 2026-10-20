@@ -58,3 +58,4 @@ interval: 0
 
 - 比 `journalist` 更泛指"写作的人"，可涵盖专栏作者、评论人等。
 - 来自 [[source-2026-08-06-elin-wagner]]。
+- 教材 s. 99 用来指「文本的作者」：`Ger skribenten något exempel i sina argument?` — 🇨🇳 作者在论点里举了例子吗？来源: [[source-2026-10-20-mejl-till-politiker-frågor]]

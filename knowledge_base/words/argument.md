@@ -53,3 +53,4 @@ created: 2026-10-05
 
 - 注意 ett-词，复数同形 argument。另有「争吵」义的口语用法（hamna i ett argument，较少）。
 - 来源: [[source-2026-10-05-fokus-kronika-skarmtid-och-barn]]
+- 教材 s. 99：`Vilket eller vilka argument har skribenten?` — 🇨🇳 作者有哪一个或哪些论点？（vilket/vilka + argument，见 [[grammar-vilket-vilken-vilka]]）来源: [[source-2026-10-20-mejl-till-politiker-frågor]]

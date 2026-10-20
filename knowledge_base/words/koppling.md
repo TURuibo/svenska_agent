@@ -63,3 +63,4 @@ interval: 0
 
 - 抽象义（联系）最常见于新闻/警察报告：`koppling till terrorismen`
 - 具体义（离合器）= 汽车零件，在日常对话中使用
+- 教材 s. 99（文本内部的呼应）：`Hur är kopplingen mellan inledningen och avslutningen?` — 🇨🇳 开头与结尾之间的呼应是怎样的？来源: [[source-2026-10-20-mejl-till-politiker-frågor]]
