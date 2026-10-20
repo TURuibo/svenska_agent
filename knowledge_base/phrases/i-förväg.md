@@ -42,3 +42,4 @@ interval: 0
 ## 例句 / 对话 (Examples)
 
 - 🇸🇪 I Sverige är det vanligt att man bokar in besök i förväg. 🇨🇳 在瑞典，人们通常会提前预约拜访。
+- [[sent-man-vet-inte-i-förväg-vad-som-kommer-att-finnas-där]] 🇸🇪 Man vet inte i förväg vad som kommer att finnas där. 🇨🇳 事先不知道那里会有什么。（来源 [[source-2026-10-20-mejl-till-politiker]]；词条 [[förväg]]）

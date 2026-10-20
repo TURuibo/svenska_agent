@@ -93,6 +93,14 @@ Ord som hör till ämnesområdet **kläder och mode** (clothing and fashion).
 - [[grå]] — 灰色 grey
 - [[brun]] — 棕色 brown
 
+## 二手与购买 (Second-hand, 2026-10-20)
+
+- [[begagnad]] — 二手的
+- [[storlek]] — 尺码
+- [[färg]] — 颜色
+- 词组: [[ta-sig-in]] · [[på-nätet]]
+
 ## 来源 (Sources)
 
 - [[source-2026-06-22-adjsubst-klader]]
+- [[source-2026-10-20-mejl-till-politiker]]
