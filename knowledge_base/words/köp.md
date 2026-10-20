@@ -51,6 +51,8 @@ created: "2026-10-01"
 - 反义词: [[försäljning]]
 - 主题:
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`onödiga eller ohållbara köp` → [[sent-minska-din-belastning-på-jordklotet-genom-att-dra-ner-på]]）
+
 ## 用法提示 (Usage Notes)
 
 - 来源: [[source-2026-09-22-telefonbedragaren]]

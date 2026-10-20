@@ -4,7 +4,7 @@ slug: topic-energi-och-transport
 name: "Energi & transport"
 zh: "能源与交通"
 en: "Energy & transport"
-members: ["bränsle", "bensinstation"]
+members: ["bränsle", "bensinstation", "elbil", "transportsätt", "energi", "elräkning"]
 created: "2026-06-29"
 ---
 
@@ -18,6 +18,10 @@ created: "2026-06-29"
 |----|------|------|
 | [[bränsle]] | substantiv (ett) | 燃料 |
 | [[bensinstation]] | substantiv (en) | 加油站 |
+| [[elbil]] | substantiv (en) | 电动汽车 |
+| [[transportsätt]] | substantiv (ett) | 交通方式 |
+| [[energi]] | substantiv (en) | 能源；能量 |
+| [[elräkning]] | substantiv (en) | 电费账单 |
 
 ## 相关词汇 (Related)
 

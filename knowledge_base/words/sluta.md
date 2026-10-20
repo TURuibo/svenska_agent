@@ -28,7 +28,7 @@ created: "2026-09-26"
 
 | infinitiv | presens | preteritum | supinum | imperativ |
 |---|---|---|---|---|
-| sluta | slutar | slutade | slutat | sluta! |
+| sluta | slutar | slutade | slutat | sluta |
 
 ## 词组搭配 (Collocations)
 

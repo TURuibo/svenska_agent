@@ -54,6 +54,8 @@ interval: 0
 - 反义词: [[omöjlighet]] (不可能)
 - 主题: [[topic-skola-och-utbildning]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`…möjligheten att tänka till` → [[tänka-till]]）
+
 ## 用法提示 (Usage Notes)
 
 - 常搭配 `ha/få möjlighet att` + 不定式。

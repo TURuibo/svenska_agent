@@ -58,6 +58,8 @@ interval: 0
 - 反义词: —
 - 主题: [[topic-miljö-och-klimat]], [[topic-vader-och-arstider]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`Här får du tips på vad du kan göra för klimatet.` → [[få-tips-på]]；[[sent-ät-mindre-men-bättre-kött]]）
+
 ## 用法提示 (Usage Notes)
 
 - 注意与 `väder`（天气，day-to-day）区别：`klimat` 指长期气候模式

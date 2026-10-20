@@ -136,6 +136,12 @@ created: 2026-06-11
   - pannkaka
   - knäckebröd
   - vin
+  - biff
+  - lins
+  - ärta
+  - protein
+  - ätbar
+  - växtrike
 ---
 
 # Mat & Dryck — 食物饮料
@@ -294,6 +300,14 @@ created: 2026-06-11
 - [[avrunnen]] — 沥干的（新）
 - [[recept]] — 食谱
 - [[matkasse]] — 食物袋（新，也属 [[topic-sociala-normer]]）
+
+**Kött & växtbaserat (肉与植物蛋白，2026-10-20，[[source-2026-10-20-wwf-5-bn]])**
+- [[biff]] — 牛排
+- [[lins]] — 扁豆
+- [[ärta]] — 豌豆
+- [[protein]] — 蛋白质
+- [[ätbar]] — 可食用的
+- [[växtrike]] — 植物界
 
 ## 备注 (Notes)
 

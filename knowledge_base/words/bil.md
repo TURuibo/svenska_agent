@@ -53,6 +53,8 @@ interval: 0
 - 反义词: —
 - 主题: [[topic-trafik]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（标题 `Bilen`；复合词 [[elbil]]）
+
 ## 用法提示 (Usage Notes)
 
 - 来源：[[source-2026-06-15-stad-trafik]]

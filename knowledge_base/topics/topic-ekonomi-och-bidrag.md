@@ -3,7 +3,7 @@ type: topic
 name: "ekonomi-och-bidrag"
 kind: semantic-field
 zh: "个人经济与社会补助"
-members: [ekonomi, ekonomisk, pengar, budget, stöd, bistånd, försörjningsstöd, bidrag, ersättning, ansökan, ansöka, försörja, försörjning, inkomst, utgift, kostnad, levnadskostnad, riksnorm, summa, avgift, rimlig, skuld, skuldrådgivare, rådgivare, försäkring, hemförsäkring, el, förbrukningsvara, diskmedel, glödlampa, a-kassa, bedöma, planera, behövas, ekonomiskt-bistånd, få-pengarna-att-räcka, räcka-till, klara-sin-ekonomi, försörja-sig, ansöka-om, få-bättre-koll-på, leva-på-en-rimlig-nivå, ha-svårt-att]
+members: [ekonomi, ekonomisk, pengar, budget, stöd, bistånd, försörjningsstöd, bidrag, ersättning, ansökan, ansöka, försörja, försörjning, inkomst, utgift, kostnad, levnadskostnad, riksnorm, summa, avgift, rimlig, skuld, skuldrådgivare, rådgivare, försäkring, hemförsäkring, el, förbrukningsvara, diskmedel, glödlampa, a-kassa, bedöma, planera, behövas, ekonomiskt-bistånd, få-pengarna-att-räcka, räcka-till, klara-sin-ekonomi, försörja-sig, ansöka-om, få-bättre-koll-på, leva-på-en-rimlig-nivå, ha-svårt-att, investering, börs, efterfrågan, sparalternativ]
 created: "2026-10-02"
 ---
 
@@ -59,6 +59,13 @@ created: "2026-10-02"
 - [[bedöma]] — 评估；判断
 - [[planera]] — 计划；规划
 - [[behövas]] — 被需要
+
+### 📈 投资与市场 (investing & markets，2026-10-20，[[source-2026-10-20-wwf-5-bn]])
+
+- [[investering]] — 投资
+- [[börs]] — 证券交易所
+- [[efterfrågan]] — 需求
+- [[sparalternativ]] — 储蓄选项
 
 ### 🔗 词组 (phrases)
 

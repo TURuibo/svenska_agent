@@ -50,6 +50,8 @@ created: "2026-10-19"
 - 反义词: —
 - 主题: [[topic-grannar-boende]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`para ihop rätt rubrik vid rätt stycke` → [[para-ihop]]）
+
 ## 用法提示 (Usage Notes)
 
 - 论坛帖子、文章、新闻的"标题"常用 rubrik；书、电影、歌的名字更常用 titel。

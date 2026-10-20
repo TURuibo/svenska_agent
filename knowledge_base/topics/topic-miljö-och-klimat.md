@@ -30,6 +30,27 @@ members:
   - atmosfär
   - livlös
   - klimathot
+  - belastning
+  - bidra
+  - biologisk
+  - mångfald
+  - global
+  - uppvärmning
+  - utarmning
+  - hållbar
+  - ohållbar
+  - klimatsmart
+  - jordklot
+  - överkonsumtion
+  - energi
+  - elbil
+  - transportsätt
+  - elräkning
+  - hejda
+  - växtrike
+  - sparalternativ
+  - investering
+  - elektronikprodukt
 created: "2026-06-22"
 ---
 
@@ -65,6 +86,14 @@ created: "2026-06-22"
 - [[atmosfär]] — 大气层
 - [[livlös]] — 无生命的
 - [[klimathot]] — 气候威胁
+
+**WWF「5 b:n」（2026-10-20，[[source-2026-10-20-wwf-5-bn]]）**
+- [[belastning]] — 负担 · [[jordklot]] — 地球 · [[överkonsumtion]] — 过度消费
+- [[hållbar]] — 可持续的 · [[ohållbar]] — 不可持续的 · [[klimatsmart]] — 气候友好的
+- [[global]] — 全球的 · [[uppvärmning]] — 变暖 · [[biologisk]] — 生物的 · [[mångfald]] — 多样性 · [[utarmning]] — 枯竭
+- [[bidra]] — 有助于 · [[hejda]] — 遏制 · [[energi]] — 能源 · [[elbil]] — 电动车 · [[transportsätt]] — 出行方式 · [[elräkning]] — 电费单
+- [[växtrike]] — 植物界 · [[sparalternativ]] — 储蓄选项 · [[investering]] — 投资 · [[elektronikprodukt]] — 电子产品
+- 词组: [[dra-ner-på]] · [[global-uppvärmning]] · [[biologisk-mångfald]] · [[bidra-till]] · [[tänka-till]]
 
 ## 备注 (Notes)
 

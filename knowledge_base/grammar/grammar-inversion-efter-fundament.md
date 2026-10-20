@@ -44,6 +44,10 @@ created: "2026-09-26"
 
 ## 例句 (Examples)
 
+- [[sent-då-visar-du-att-det-finns-efterfrågan-på-gröna-sparalternativ]] 🇸🇪 **Då visar du** att det finns efterfrågan på gröna sparalternativ! 🇨🇳 这样你就表明……（来源 [[source-2026-10-20-wwf-5-bn]]）
+- [[sent-ät-mindre-men-bättre-kött]] 🇸🇪 …för **då är både du, klimatet och den biologiska mångfalden** vinnare! 🇨🇳 ……因为这样你、气候和生物多样性都是赢家！
+
+
 - ✅ [[sent-ja-då-går-hon-själv-till]] 🇸🇪 Då går hon själv till Sara och söker tröst. 🇨🇳 那时候她会自己走到 Sara 那里寻求安慰。
 - ✅ [[sent-här-säger-hon-redan-några-ord]] 🇸🇪 Här säger hon redan några ord. 🇨🇳 在这儿她已经会说几个词了。
 - ✅ [[sent-här-får-hon-nappen-bara-vid]] 🇸🇪 Här får hon nappen bara vid vilan. 🇨🇳 在这儿她只在午休时用奶嘴。

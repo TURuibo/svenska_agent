@@ -35,7 +35,7 @@ interval: 0
 | Presens | är |
 | Preteritum | var |
 | Supinum | varit |
-| Imperativ | var! |
+| Imperativ | var |
 
 Oregelbundet/starkt (verbgrupp 4). Mycket hög frekvens.
 

@@ -58,6 +58,8 @@ interval: 0
 - 反义词: —
 - 主题: [[topic-miljö-och-klimat]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`hejda klimatförändringarna` → [[sent-spara-energi-i-din-bostad-och-var-med-och-hejda-klimatförändringarna]]）
+
 ## 用法提示 (Usage Notes)
 
 - 复合词：klimat（气候）+ förändring（变化）。

@@ -7,7 +7,7 @@ frequency: 3
 zh: "配对"
 en: "match up"
 literal: "配成一对"
-head_words: []
+head_words: [para]
 grammar: [grammar-partikelverb]
 related: []
 topics: []
@@ -43,3 +43,5 @@ interval: 0
 
 - 🇸🇪 Läs meddelandena och para ihop rätt meddelande med rätt syfte. 🇨🇳 阅读留言并把正确的留言和正确的目的配对。
 - 🇸🇪 Para ihop orden med rätt bild. 🇨🇳 把单词和正确的图片配对。
+- 🇸🇪 Läs informationen från WWF och para ihop rätt rubrik vid rätt stycke. 🇨🇳 阅读 WWF 的信息，把正确的标题配到正确的段落。
+- 来源: [[source-2026-10-20-wwf-5-bn]] · 动词 [[para]]

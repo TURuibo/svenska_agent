@@ -50,4 +50,6 @@ created: "2026-10-02"
 - 🇸🇪 Motion bidrar till bättre sömn. 🇨🇳 运动有助于改善睡眠。
 - 🇸🇪 Hon bidrog till projektet med sina idéer. 🇨🇳 她用自己的想法为项目做出了贡献。
 
-来源: [[source-2026-10-02-fokus-nyhetsartikel-elsparkcyklar]]
+- 🇸🇪 Fråga efter investeringar som inte bidrar till den globala uppvärmningen. 🇨🇳 询问不会助长全球变暖的投资。
+
+来源: [[source-2026-10-02-fokus-nyhetsartikel-elsparkcyklar]] · [[source-2026-10-20-wwf-5-bn]]

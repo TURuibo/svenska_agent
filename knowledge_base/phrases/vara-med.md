@@ -27,6 +27,7 @@ created: "2026-10-04"
 - `vara med i + 比赛/活动`：Sverige är med i Nations League.
 - `Är du med?` — 你来吗？/你同意吗？
 - `vara med på noterna` — 跟得上（不常用）。
+- `vara med och + 动词` — 参与、出一份力（一起做某事）：`var med och hejda klimatförändringarna` = 一起来遏制气候变化。
 
 ## 短语中的语法 (Grammar inside)
 
@@ -41,3 +42,5 @@ created: "2026-10-04"
 - 🇸🇪 Sverige är med i Nations League. 🇨🇳 瑞典参加国家联赛。
 - 🇸🇪 Vill du vara med och fika? 🇨🇳 你想一起来喝咖啡吗？
 - 🇸🇪 Alla barn får vara med. 🇨🇳 所有孩子都可以参加。
+- [[sent-spara-energi-i-din-bostad-och-var-med-och-hejda-klimatförändringarna]] 🇸🇪 Spara energi i din bostad och var med och hejda klimatförändringarna. 🇨🇳 在你的住所节约能源，并参与遏制气候变化。
+- 来源: [[source-2026-10-20-wwf-5-bn]]

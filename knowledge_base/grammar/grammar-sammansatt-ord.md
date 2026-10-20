@@ -53,6 +53,13 @@ arbets     + rum                = arbetsrum
 
 ## 例句 (Examples)
 
+- 📄 来源 [[source-2026-10-20-wwf-5-bn]]：复合词 [[jordklot]]（jord+klot）、[[överkonsumtion]]（över+konsumtion）、[[elräkning]]（el+räkning）、[[sparalternativ]]（spara+alternativ）、[[transportsätt]]（transport+sätt）、[[växtrike]]（växt+rike）、[[elbil]]（el+bil）
+  - [[sent-minska-din-belastning-på-jordklotet-genom-att-dra-ner-på]]
+  - [[sent-då-visar-du-att-det-finns-efterfrågan-på-gröna-sparalternativ]]
+  - [[sent-spara-energi-i-din-bostad-och-var-med-och-hejda-klimatförändringarna]]
+  - [[sent-välj-klimatsmartare-transportsätt-när-det-är-möjligt]]
+
+
 - ✅ Vi köpte ett **soffbord** till vardagsrummet. — 🇨🇳 我们给客厅买了一张茶几。
 - ✅ Var kan jag hitta **badbyxor**? — 🇨🇳 我在哪里能找到游泳裤？
 - ✅ [[sent-ekonomiskt-bistånd-kan-vara-två-typer-av]] 🇸🇪 Ekonomiskt bistånd kan vara två typer av stöd: försörjningsstöd och stöd för andra levnadskostnader. 🇨🇳 经济补助可以是两种补助：生活费补助和其他生活开支补助。（`försörjning` + **s** + `stöd`；`levnad` + **s** + `kostnader`：连接音 -s-）
