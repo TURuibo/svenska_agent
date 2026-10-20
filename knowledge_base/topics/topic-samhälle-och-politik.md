@@ -3,7 +3,7 @@ type: topic
 name: "samhälle-och-politik"
 kind: semantic-field
 zh: "社会与政治"
-members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis, protestera, demokrati, medlem, rösträtt, kamp, uppror, organisation, världskrig, införa, fritidsgård, äldreomsorg, mötesplats, skadegörelse, budgetmöte, kommunfullmäktige, nämnd, ordförande, socialtjänst, socialtjänstlag, riksnorm, debatt, system, allmän, säkerhet, län, begära, uppfylla, godkänna, skyldighet, flykting, diskriminering, välfärd, avslå, ursprung, invandring, uppehållstillstånd, bevilja, överklaga, integration, integrera, utlänning, stjäla, jämlikhet, europeisk, underteckna, nyanländ, hinder, namninsamling, värna, utsatt-för, en-väg-åt-två-håll, ta-upp-en-fråga, göra-sin-del, släppa-in, anhörig, närstående, våld, utsätta, utreda, socialsekreterare, kriminell, utsatt-för-våld, delta-i-samhället]
+members: [rösta, regering, medborgare, kommun, nationaldag, invånare, provins, självständig, missnöjd, avtal, kärnvapen, straff, sprängning, riksdag, politiker, strejka, utsläpp, minska, invandrare, brottsling, misstänkt, smuggla, drog, förbjuda, undersöka, brott, tjänstefel, misstänka, bevis, böter, domstol, lag, polis, protestera, demokrati, medlem, rösträtt, kamp, uppror, organisation, världskrig, införa, fritidsgård, äldreomsorg, mötesplats, skadegörelse, budgetmöte, kommunfullmäktige, nämnd, ordförande, socialtjänst, socialtjänstlag, riksnorm, debatt, system, allmän, säkerhet, län, begära, uppfylla, godkänna, skyldighet, flykting, diskriminering, välfärd, avslå, ursprung, invandring, uppehållstillstånd, bevilja, överklaga, integration, integrera, utlänning, stjäla, jämlikhet, europeisk, underteckna, nyanländ, hinder, namninsamling, värna, utsatt-för, en-väg-åt-två-håll, ta-upp-en-fråga, göra-sin-del, släppa-in, anhörig, närstående, våld, utsätta, utreda, socialsekreterare, kriminell, utsatt-för-våld, delta-i-samhället, överväga]
 created: "2026-06-04"
 ---
 
@@ -89,6 +89,12 @@ created: "2026-06-04"
 - 2026-10-02: 新增地方政治 / 青少年政策词（fritidsgård, äldreomsorg, mötesplats, skadegörelse, budgetmöte），来自 [[source-2026-10-02-fokus-insandare-fritidsgardar]]。论证与观点表达词见 [[topic-argumentation]]。
 - 2026-10-02: 新增市政机构词（kommunfullmäktige, nämnd, ordförande），来自 [[source-2026-10-02-fokus-nyhetsartikel-elsparkcyklar]]；决策相关通用动词见 [[topic-allmänna-verb]]（fatta beslut, genomföra, stödja）。
 - 2026-10-05: 新增福利/行政/权利词（välfärd, län, begära, uppfylla, godkänna, avslå, skyldighet, flykting, diskriminering 等），来自 [[source-2026-10-05-fokus-valfarden-i-sverige]]。
+
+## 新增 (2026-10-20 写给政治家的邮件，[[source-2026-10-20-mejl-till-politiker]])
+
+- [[överväga]] — 考虑
+- 词组: [[göra-det-lättare-för]] · [[mitt-förslag-är-att]]
+- 相关: [[politiker]] · [[förslag]] · [[kommun]] · [[skatt]]
 
 ## 新增 (2026-10-16 insändare)
 

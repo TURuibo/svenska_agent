@@ -31,6 +31,9 @@ members:
   - fin
   - tröja
   - sko
+  - begagnad
+  - storlek
+  - färg
 ---
 
 # Kläder — 衣物 / Clothing

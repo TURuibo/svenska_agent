@@ -48,7 +48,7 @@ Dimitris Ariti
 
 我们不能再对未来视而不见了。总有一天，我们的孩子会问我们：为什么当初没有做点什么来阻止气候灾难。我们不能说自己什么都不知道。
 
-希望您能考虑我的建议。
+希望你们能考虑我的建议。
 
 此致敬礼，
 Dimitris Ariti
@@ -65,9 +65,9 @@ Dimitris Ariti
 | 📐 komparativ | *lättare, enklare, lägre, lönsammare* | lätt→lättare、enkel→enklare（去 e）、låg→lägre（不规则）、lönsam→lönsam**m**are（双写 m） |
 | 📐 den … som | *välja **den** färg och storlek **som** man behöver* | den + 名词**不加限定词尾** + som 从句 = "（正好是）……的那个" |
 | 📐 间接疑问 | *vad som kommer att finnas där*, *varför vi inte gjorde något* | 疑问词作主语要加 **som**；从句里 inte 在动词前 |
-| 📐 kommer (att) | *En dag kommer våra barn fråga oss …* | 表将来；口语/现代书面里 att 常被省掉 |
+| 📐 kommer (att) | *En dag kommer våra barn fråga oss …* | 表将来；口语里 att 常被省掉，正式书面语一般保留 |
 | 📐 sin/sina | *sina gamla kläder*, *sina butiker* | 指回本句主语 → 用 sina 不用 deras |
-| 💬 ni | *Jag hoppas att **ni** överväger …* | 写给机构/政治人物：ni = "你们（指整个机构）"；瑞典语现在不用 ni 表示单个人的尊称 |
+| 💬 ni | *Jag hoppas att **ni** överväger …* | 写给机构/政治人物：ni = "你们（指整个机构）"；现代瑞典语对单个人一般用 du；ni 作单数尊称只在少数场合（服务行业/对长辈），有人觉得生硬 |
 
 ## 🔍 逐段精读 (Stycke för stycke)
 
@@ -177,7 +177,7 @@ I dag skänker många människor gärna sina gamla kläder men det är inte lika
 - 📐 `I dag`(A) + `skänker`(V) + `många människor`(S) + `gärna`(A) + `sina gamla kläder`(O) + men + `det`(S) + `är`(V) + `inte`(A) + `lika många ⟨som vill köpa dem⟩`(表语)
 - ⚠️ I dag 在句首 → 倒装：skänker många människor → [[grammar-inversion-efter-fundament|📗V2倒装]]
 - ⚠️ **sina** 指回主语 många människor（他们自己的衣服）→ [[grammar-sin-sina|📗sin/sina]]
-- ⚠️ **gärna** = 乐意地；**inte lika många som** = 没有那么多……（det är inte lika många som … = ……的人没那么多）→ [[lika-många-som]]
+- ⚠️ **gärna** = 乐意地；**inte lika många som** = 没有那么多……（这里 som 是关系代词 = "……的人"：det är inte lika många som vill köpa dem = 想买的人没那么多；比较对象"捐的人"被省略）→ [[lika-många-som]]
 - 🇨🇳 如今很多人乐意捐出自己的旧衣服，但想买的人却没那么多。
 
 **② En anledning är att det är enklare att köpa nya kläder på nätet.**
@@ -192,7 +192,7 @@ I dag skänker många människor gärna sina gamla kläder men det är inte lika
 
 - 📐 `Där`(A) + `kan`(V) + `man`(S) + `titta på bilder`(V…) + och + `välja`(V) + `den färg och storlek ⟨som man behöver⟩`(O)
 - ⚠️ där 在句首 → kan man（倒装）；**man** = 泛指"人们" → [[grammar-man-generellt|📗泛指 man]]
-- ⚠️ **den + 名词 + som**：后面有限定性从句时，名词**不加**限定词尾（den färg som，不是 ~~den färgen som~~）→ [[grammar-den-som-relativ|📗den … som]]
+- ⚠️ **den + 名词 + som**：后面有限定性从句时，书面语里名词通常**不加**限定词尾（den färg som；口语里 den färgen som 也常见）→ [[grammar-den-som-relativ|📗den … som]]
 - 🇨🇳 在网上可以看图片，选自己需要的颜色和尺码。
 
 **④ Om man ska handla begagnade plagg måste man ofta ta sig in till en butik och man vet inte i förväg vad som kommer att finnas där.**
@@ -217,7 +217,7 @@ I dag skänker många människor gärna sina gamla kläder men det är inte lika
 | 词组 | 意思 | 本段用法 |
 |---|---|---|
 | [[i-dag]] | 如今、今天 | I dag skänker många … |
-| [[lika-många-som]] | 和……一样多 | inte lika många som vill köpa dem |
+| inte lika många ⟨som …⟩ | ……的人没那么多（som = 关系代词） | inte lika många som vill köpa dem |
 | en anledning är att | 原因之一是 | En anledning är att … |
 | [[på-nätet]] | 在网上 | köpa nya kläder på nätet |
 | [[ta-sig-in]] | 设法去到（里面） | ta sig in till en butik |
@@ -253,7 +253,7 @@ Mitt förslag skulle göra det lönsammare för företagarna och de skulle kunna
 **① Mitt förslag skulle göra det lönsammare för företagarna och de skulle kunna flytta sina butiker in till välbesökta centrum och gallerior.**
 
 - 📐 `Mitt förslag`(S) + `skulle göra`(V) + `det`(形式宾语) + `lönsammare`(宾补) + `för företagarna`(A) + och + `de`(S) + `skulle kunna flytta`(V…) + `sina butiker`(O) + `in till välbesökta centrum och gallerior`(A)
-- ⚠️ lönsam → **lönsammare**：以 -m 结尾的形容词加 -are 时**双写 m** → [[grammar-komparativ|📗比较级]]
+- ⚠️ lönsam → **lönsammare**：短元音 + 单个 -m 结尾（-sam 类如 lönsam/ensam、dum→dummare）加 -are 时**双写 m**（varm→varmare 不双写） → [[grammar-komparativ|📗比较级]]
 - ⚠️ **skulle kunna** = 就能够（假设）；两个情态动词连用，第二个用不定式
 - ⚠️ **sina** 指回主语 de（商家们自己的店）；`flytta in till` = 搬进
 - ⚠️ `välbesökta centrum`：centrum 复数同形（ett centrum – flera centrum），形容词复数 -a；`gallerior` = galleria 的复数
@@ -290,7 +290,7 @@ Mitt förslag skulle göra det lönsammare för företagarna och de skulle kunna
 
 Vi kan inte längre blunda för framtiden. En dag kommer våra barn fråga oss varför vi inte gjorde något för att stoppa en klimatkatastrof. Vi kan inte säga att vi inte visste något. Jag hoppas att ni överväger mitt förslag. Med vänliga hälsningar, Dimitris Ariti
 
-🇨🇳 我们不能再对未来视而不见了。总有一天，我们的孩子会问我们：为什么当初没有做点什么来阻止气候灾难。我们不能说自己什么都不知道。希望您能考虑我的建议。此致敬礼，Dimitris Ariti
+🇨🇳 我们不能再对未来视而不见了。总有一天，我们的孩子会问我们：为什么当初没有做点什么来阻止气候灾难。我们不能说自己什么都不知道。希望你们能考虑我的建议。此致敬礼，Dimitris Ariti
 
 #### 🔍 逐句拆解
 
@@ -305,7 +305,7 @@ Vi kan inte längre blunda för framtiden. En dag kommer våra barn fråga oss v
 
 - 📐 `En dag`(A) + `kommer`(V) + `våra barn`(S) + `fråga`(不定式) + `oss`(O) + `⟨varför vi inte gjorde något för att stoppa en klimatkatastrof⟩`(O)
 - ⚠️ en dag 在句首 → kommer våra barn（倒装）；**en dag** = 总有一天 → [[en-dag]]
-- ⚠️ **kommer (att) + 不定式** = 将会；这里省了 att（口语和现代书面都常见）→ [[grammar-kommer-att-infinitiv|📗kommer att]]
+- ⚠️ **kommer (att) + 不定式** = 将会；这里省了 att（口语很常见；正式书面语一般保留 att）→ [[grammar-kommer-att-infinitiv|📗kommer att]]
 - ⚠️ 间接疑问句 varför …：从句语序，**inte 在动词前**（vi inte gjorde）→ [[grammar-bisats-ordfoljd|📗从句语序]]
 - ⚠️ **för att + 不定式** = 为了……
 - 🇨🇳 总有一天，我们的孩子会问我们，为什么当初没做点什么来阻止气候灾难。
