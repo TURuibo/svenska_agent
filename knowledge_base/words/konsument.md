@@ -58,5 +58,7 @@ interval: 0
 
 ## 用法提示 (Usage Notes)
 
+- 🇸🇪 Det skulle göra det lättare för oss konsumenter att konsumera medvetet. — 🇨🇳 这会让我们消费者更容易理性消费。→ [[source-2026-10-20-mejl-till-politiker]]
+
 - Formal/neutral register. In everyday speech, you might say *kund* (customer) for a specific transaction.
 - *Konsumtion* = consumption (the noun for the act); *konsumera* = to consume (the verb).

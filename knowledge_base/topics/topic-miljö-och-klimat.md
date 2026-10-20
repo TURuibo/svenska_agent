@@ -51,6 +51,9 @@ members:
   - sparalternativ
   - investering
   - elektronikprodukt
+  - begagnad
+  - blunda
+  - klimatkatastrof
 created: "2026-06-22"
 ---
 
@@ -94,6 +97,10 @@ created: "2026-06-22"
 - [[bidra]] — 有助于 · [[hejda]] — 遏制 · [[energi]] — 能源 · [[elbil]] — 电动车 · [[transportsätt]] — 出行方式 · [[elräkning]] — 电费单
 - [[växtrike]] — 植物界 · [[sparalternativ]] — 储蓄选项 · [[investering]] — 投资 · [[elektronikprodukt]] — 电子产品
 - 词组: [[dra-ner-på]] · [[global-uppvärmning]] · [[biologisk-mångfald]] · [[bidra-till]] · [[tänka-till]]
+
+**写给政治家的邮件（2026-10-20，[[source-2026-10-20-mejl-till-politiker]]）**
+- [[begagnad]] — 二手的 · [[blunda]] — 视而不见 · [[klimatkatastrof]] — 气候灾难
+- 词组: [[blunda-för]] · [[en-dag]]
 
 ## 备注 (Notes)
 

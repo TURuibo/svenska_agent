@@ -61,6 +61,9 @@ interval: 0
 - ✅ [[sent-zlatan-mycket-bra-karriar-mal]] 🇸🇈 Zlatan har gjort mål för **sina** klubblag. 🇨🇳 兹拉坦为**自己的**俱乐部球队进了很多球。（sina = plural reflexiv）
 - ✅ 🇸🇪 Hon mindes **sina** lekar från **sin** barndom. 🇨🇳 她记得**自己的**游戏来自**自己的**童年。（sina = 复数反身；sin = en-ord 反身）
 - ✅ 🇸🇪 Astrids föräldrar visade att de älskade **sina** barn. 🇨🇳 她父母表示他们爱**自己的**孩子。
+- ✅ 🇸🇪 I dag skänker många människor gärna **sina** gamla kläder. 🇨🇳 如今很多人乐意捐出**自己的**旧衣服。（来源 [[source-2026-10-20-mejl-till-politiker]]）
+- ✅ 🇸🇪 … de skulle kunna flytta **sina** butiker in till välbesökta centrum. 🇨🇳 ……他们可以把**自己的**店铺搬进市中心。
+- ⚠️ 🇸🇪 Jag oroar mig för **deras** framtid. 🇨🇳 我为**他们（孩子）的**未来担心。（主语是 jag，孩子是别人 → `deras`，不能用 sina）
 - ❌ *Astrid längtade efter **hennes** son.* ← 如果 Astrid 是主语，必须用 sin，hennes 暗示是另一个女性的儿子。
 
 ## 常见错误 (Common Mistakes)

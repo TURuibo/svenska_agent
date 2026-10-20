@@ -48,3 +48,4 @@ interval: 0
 ## 例句 / 对话 (Examples)
 
 - 🇸🇪 Med vänliga hälsningar, Fatima Andersson, Klasslärare. — 🇨🇳 此致敬礼，Fatima Andersson，班主任。
+- 🇸🇪 Med vänliga hälsningar, Dimitris Ariti — 🇨🇳 此致敬礼，Dimitris Ariti（写给政治家的邮件结尾；[[source-2026-10-20-mejl-till-politiker]]）

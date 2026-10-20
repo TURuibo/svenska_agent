@@ -45,6 +45,7 @@ den som + verb                             (as subject)
 - ✅ [[sent-det-ar-ett-yrke]] 🇸🇪 Det är ett yrke för den som gillar att skapa med händerna. 🇨🇳 这是一个适合喜欢用双手创造的人的职业。
 - ✅ [[sent-det-ar-svart-att-forklara]] 🇸🇪 Det är svårt att förklara för den som inte har upplevt det. 🇨🇳 没体验过的人很难解释。
 - ✅ 🇸🇪 Den som arbetar hårt lyckas ofta. 🇨🇳 努力工作的人通常会成功。
+- ✅ [[sent-där-kan-man-välja-den-färg-och-storlek-som-man-behöver]] 🇸🇪 … välja den färg och storlek som man behöver. 🇨🇳 ……选择自己需要的颜色和尺码。（`den + 名词 + som` 限定先行词；来源 [[source-2026-10-20-mejl-till-politiker]]）
 - ❌ *Den som inte räds tidiga mornar.* ← (sentence fragment, needs a main clause)
 
 ## 常见错误 (Common Mistakes)

@@ -34,4 +34,6 @@ created: "2026-10-14"
 
 - [[sent-å-andra-sidan-kan-man-handla-på-nätet]] 🇸🇪 Man kan handla på nätet. 🇨🇳 可以在网上购物。
 
-来源: [[source-2026-10-14-diskussion-viktigast-boende]]
+- [[sent-där-kan-man-välja-den-färg-och-storlek-som-man-behöver]] 🇸🇪 En anledning är att det är enklare att köpa nya kläder på nätet. 🇨🇳 原因之一是在网上买新衣服更方便。
+
+来源: [[source-2026-10-14-diskussion-viktigast-boende]]、[[source-2026-10-20-mejl-till-politiker]]

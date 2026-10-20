@@ -60,4 +60,5 @@ interval: 0
 ## 用法提示 (Usage Notes)
 
 - *hyra* 既是名词（租金）也是动词（租用）：*hyra en lägenhet*（租一套公寓）。
+- 🇸🇪 Butikerna ligger ofta en bit från centrum där hyrorna är lägre. — 🇨🇳 店铺常离市中心有一段距离，那里租金更低。→ [[source-2026-10-20-mejl-till-politiker]]
 - 动词 *hyra* vs *uthyra*：*hyra* = 租入（tenant视角）；*uthyra/hyra ut* = 出租（landlord视角）。

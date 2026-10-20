@@ -62,3 +62,4 @@ interval: 0
 
 - 通常以 `framtiden`（带定冠词）使用，表示"(人类的)未来"。
 - 来源: [[source-2026-06-22-greta-thunberg]]
+- 🇸🇪 Vi kan inte längre blunda för framtiden. — 🇨🇳 我们不能再对未来视而不见了。→ [[sent-vi-kan-inte-längre-blunda-för-framtiden]]；来源 [[source-2026-10-20-mejl-till-politiker]]

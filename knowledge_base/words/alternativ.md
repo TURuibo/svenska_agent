@@ -55,4 +55,5 @@ created: "2026-10-01"
 ## 用法提示 (Usage Notes)
 
 - 单复数同形（ett alternativ / två alternativ）。
+- 🇸🇪 … välja klimatsmarta alternativ. — 🇨🇳 ……选择气候友好的方案。→ [[source-2026-10-20-mejl-till-politiker]]
 - 来源: [[source-2026-09-22-trafikolyckan]]

@@ -65,3 +65,4 @@ interval: 0
 - `flytta` 最常见含义是搬家；`flytta till/från X` = 搬到/离开某地。
 - `flytta ihop` = 同居（不一定结婚）；参见 [[sambo]]。
 - 来源: [[source-2026-06-09-zlatan-bio]]
+- 🇸🇪 Företagarna skulle kunna flytta sina butiker in till välbesökta centrum. — 🇨🇳 企业主可以把店铺搬进人流旺的市中心。（搬迁店铺，非搬家）→ [[source-2026-10-20-mejl-till-politiker]]

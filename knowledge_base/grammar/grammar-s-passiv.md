@@ -71,6 +71,7 @@ s-被动: Subjekt(患者) + VERB-s
 - ✅ [[sent-den-summan-kallas-riksnorm]] 🇸🇪 Den summan kallas riksnorm. 🇨🇳 这个金额叫作"全国标准"。（`kallas` = 被称为，现在时）
 - ✅ [[sent-socialtjänsten-bedömer-om-stödet-behövs-för-att]] 🇸🇪 Socialtjänsten bedömer om stödet behövs för att du ska kunna leva på en rimlig nivå. 🇨🇳 社会服务处会评估是否需要这笔补助，好让你能过上合理水平的生活。（`behövs` = `behövas`，被需要）
 - ✅ [[sent-felsorterat-matavfall-hämtas-inte]] 🇸🇪 Felsorterat matavfall hämtas inte. 🇨🇳 分错类的厨余垃圾不会被收走。（`hämtas` = hämta + s；来源 [[source-2026-10-20-sortera-matavfall]]）
+- ✅ [[sent-mitt-förslag-är-att-skatten-sänks-för-företagare]] 🇸🇪 Mitt förslag är att skatten sänks för företagare som säljer begagnade varor. 🇨🇳 我的建议是对出售二手商品的企业主降税。（att-从句里的 s-被动；[[source-2026-10-20-mejl-till-politiker]]）
 - ❌ `Huset kallas ett långhus av vikingarna.` ← 施事者引入用 `av`，但在口语中不常见
 
 ## 常见错误 (Common Mistakes)

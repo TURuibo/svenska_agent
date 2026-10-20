@@ -44,4 +44,4 @@ created: "2026-09-22"
 
 ## 用法提示 (Usage Notes)
 
--
+- 🇸🇪 … lättare för oss konsumenter att konsumera medvetet. — 🇨🇳 ……让我们消费者更容易理性地消费。（`konsumera medvetet` = 有意识地消费；[[medveten]]）→ [[source-2026-10-20-mejl-till-politiker]]

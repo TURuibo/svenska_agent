@@ -61,4 +61,5 @@ interval: 0
 
 - `anledning till att + bisats` — "……的原因"，to + infinitive 结构
 - 与 `orsak` 区别：orsak 更正式/科学，anledning 更口语化
+- 🇸🇪 En anledning är att det är enklare att köpa nya kläder på nätet. — 🇨🇳 原因之一是在网上买新衣服更方便。→ [[source-2026-10-20-mejl-till-politiker]]
 - 常见搭配：`en av anledningarna` = "其中一个原因"（bestämd plural）

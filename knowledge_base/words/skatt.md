@@ -71,3 +71,4 @@ interval: 0
 ## 来源
 
 - [[source-2026-06-04-nyheter-vecka-22]]
+- [[source-2026-10-20-mejl-till-politiker]] — 🇸🇪 Mitt förslag är att skatten sänks för företagare. 🇨🇳 我的建议是对企业主降税。→ [[sent-mitt-förslag-är-att-skatten-sänks-för-företagare]]

@@ -50,3 +50,4 @@ created: "2026-10-01"
 
 - 多用复数 `varor`（商品）；`en vara` 单数 = 一件商品。
 - 来源: [[source-2026-09-22-telefonbedragaren]]
+- 🇸🇪 … företagare som säljer begagnade varor. — 🇨🇳 ……出售二手商品的企业主。→ [[source-2026-10-20-mejl-till-politiker]]（[[begagnad]]）

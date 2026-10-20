@@ -52,3 +52,4 @@ created: "2026-09-22"
 ## 用法提示 (Usage Notes)
 
 - 来源: [[source-2026-09-22-zeina-mourtada]]
+- 🇸🇪 Där kan man välja den färg och storlek som man behöver. — 🇨🇳 在那里可以选自己需要的颜色和尺码。→ [[sent-där-kan-man-välja-den-färg-och-storlek-som-man-behöver]]；来源 [[source-2026-10-20-mejl-till-politiker]]

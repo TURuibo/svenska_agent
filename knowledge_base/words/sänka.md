@@ -37,6 +37,8 @@ interval: 0
 | preteritum | sänkte |
 | supinum | sänkt |
 | imperativ | sänk! |
+| s-form (passiv) presens | sänks |
+| s-form (passiv) preteritum | sänktes |
 
 ## 词组搭配 (Collocations)
 
@@ -61,3 +63,4 @@ interval: 0
 
 - `sänka`（及物）vs `sjunka`（不及物）：sänka 是有人/物主动使其降低；sjunka 是自己沉下去
 - 最常见搭配：`sänka volymen`（调低音量）和 `sänka priset`（降价）
+- 被动：`Skatten sänks för företagare.`（税被降低）→ [[sent-mitt-förslag-är-att-skatten-sänks-för-företagare]]；来源 [[source-2026-10-20-mejl-till-politiker]]

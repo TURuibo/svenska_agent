@@ -63,6 +63,7 @@ interval: 0
   - [[sent-välj-klimatsmartare-transportsätt-när-det-är-möjligt]] — …när **det är** möjligt.
 
 
+- 📄 来源 [[source-2026-10-20-mejl-till-politiker]]：🇸🇪 … varför vi **inte gjorde** något … / Vi kan inte säga att vi **inte visste** något. 🇨🇳 ……为什么我们没做任何事 / 我们不能说我们什么都不知道。（从句中 inte 在动词前；[[sent-en-dag-kommer-våra-barn-fråga-oss-varför-vi-inte-gjorde-något]]）
 - ✅ ...eftersom kroppen **inte kan** svalna när det är varmt. — 🇨🇳 …因为身体在热天无法降温。
 - ✅ Jag vet att han **inte är** hemma. — 🇨🇳 我知道他不在家。
 - ✅ Hon ringde när hon **redan hade** ätit. — 🇨🇳 她打电话时已经吃过饭了。

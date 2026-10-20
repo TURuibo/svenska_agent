@@ -58,3 +58,4 @@ created: "2026-10-20"
 
 - 由 `upp` + `värmning`（värma 的名词形式）构成。
 - 来源: [[source-2026-10-20-wwf-5-bn]]
+- 🇸🇪 Vi måste stoppa jordens uppvärmning. — 🇨🇳 我们必须阻止地球变暖。→ [[sent-om-vi-ska-klara-klimatmålen-måste-vi-göra-något-nu]]；[[source-2026-10-20-mejl-till-politiker]]

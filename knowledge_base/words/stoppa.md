@@ -66,4 +66,5 @@ interval: 0
 
 - "stoppa" (v.1) 是及物动词，接受语为被停止的人/物。
 - 被动式：stoppas（正在被制止）；stoppades（被制止了）。
+- 🇸🇪 Vi vill stoppa jordens uppvärmning. — 🇨🇳 我们想阻止地球变暖。→ [[sent-om-vi-ska-klara-klimatmålen-måste-vi-göra-något-nu]]；来源 [[source-2026-10-20-mejl-till-politiker]]
 - 注意与 "stanna"（自动停下来）区别：stoppa 是他动（让……停），stanna 是自动（自己停）。

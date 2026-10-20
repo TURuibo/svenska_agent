@@ -61,5 +61,7 @@ interval: 0
 
 ## 用法提示 (Usage Notes)
 
+- 📧 邮件开头提案：`Mitt förslag är att skatten sänks …` → [[sent-mitt-förslag-är-att-skatten-sänks-för-företagare]]；结尾 `Jag hoppas att ni överväger mitt förslag.`（[[överväga]]）；来源 [[source-2026-10-20-mejl-till-politiker]]
+
 - 固定动词搭配：`lägga fram ett förslag`（提出提案）、`rösta om ett förslag`（表决提案）。
 - 来源: [[source-2026-09-22-laxforhoret-valsystemet]]

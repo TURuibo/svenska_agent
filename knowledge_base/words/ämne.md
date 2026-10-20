@@ -58,5 +58,7 @@ interval: 0
 
 ## 用法提示 (Usage Notes)
 
+- 📧 邮件头 `Ämne:` = 主题栏（subject line），如 `Ämne: Klara klimatmålen – förslag` → [[source-2026-10-20-mejl-till-politiker]]
+
 - Ett-ord. Plural: ämnen (dekl. 4, oförändrad i obestämd plural).
 - Se [[grammar-substantiv-plural]], [[grammar-en-ord-ett-ord]]

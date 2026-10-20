@@ -59,5 +59,7 @@ interval: 0
 
 ## 用法提示 (Usage Notes)
 
+- `klara målen` = 达成目标：🇸🇪 Om vi ska klara klimatmålen måste vi göra något nu. — 🇨🇳 要实现气候目标，我们现在就得行动。→ [[sent-om-vi-ska-klara-klimatmålen-måste-vi-göra-något-nu]]；来源 [[source-2026-10-20-mejl-till-politiker]]
+
 - `klara sig` = 应付/生活（不需要帮助）；`klara av` = 完成/解决（某任务）。
 - `klara + provet/kursen` = 通过考试/课程。
