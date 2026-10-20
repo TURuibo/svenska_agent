@@ -58,6 +58,8 @@ interval: 0
 
 ## 用法提示 (Usage Notes)
 
+- 📧 教材 s.98：`Läs mejlet till en politiker` — 公民写信给政治家提建议 → [[source-2026-10-20-mejl-till-politiker]]
+
 - 以 -er 结尾，单复数形式相同（obestämd）。
 - 常与 [[övertyga]]（说服）搭配：`politiker försöker övertyga människor om att rösta`。
 - 来源: [[source-2026-06-22-greta-thunberg]], [[source-2026-09-22-laxforhoret-valsystemet]]
