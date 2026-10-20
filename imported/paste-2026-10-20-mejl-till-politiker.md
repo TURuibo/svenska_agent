@@ -53,7 +53,7 @@ Läs det formella brevet med förslag till politiker på s. 98 och svara på fr�
 | 1 | Vad står det i ämnesraden? | I ämnesraden står det "Klara klimatmålen – förslag". | 主题行写的是"实现气候目标——建议" |
 | 2 | Vilken inledningsfras har brevet? | Brevet börjar med "Hej," och sedan presenterar skribenten sig: "jag är pappa till två små barn och jag oroar mig för deras framtid." | 以 "Hej," 开头，然后自我介绍并说出担忧 |
 | 3 | Vad handlar förslaget om …? | Förslaget handlar om att sänka skatten för företagare som säljer begagnade varor. Skribenten vill att det ska bli lättare att konsumera medvetet och att klara klimatmålen. | 建议是给卖二手商品的商家减税；目的是让有意识的消费更容易、实现气候目标 |
-| 4 | Vilket eller vilka argument …? | Det finns flera argument: det är enklare att köpa nya kläder på nätet, man vet inte i förväg vad som finns i en second hand-butik, och butikerna ligger långt från centrum där hyrorna är lägre. | 论点：网购新衣更方便；不知道二手店有什么；二手店远离市中心（因房租低） |
+| 4 | Vilket eller vilka argument …? | Det finns flera argument: det är enklare att köpa nya kläder på nätet, man vet inte i förväg vad som finns i en second hand-butik, och butikerna ligger ofta en bit från centrum där hyrorna är lägre. | 论点：网购新衣更方便；不知道二手店有什么；二手店通常离市中心有一段距离（因房租低） |
 | 5 | Ger skribenten något exempel? | Ja, skribenten nämner kläder: många skänker sina gamla kläder men färre vill köpa dem. | 有，举了旧衣服的例子 |
 | 6 | Hur är kopplingen …? | Både inledningen och avslutningen handlar om barnen och framtiden: först "jag oroar mig för deras framtid", sedan "en dag kommer våra barn fråga oss …". Det ramar in brevet. | 开头和结尾都讲孩子和未来，形成首尾呼应 |
 | 7 | Formellt eller informellt? | Språket är mest formellt: "ni", "överväger", "Med vänliga hälsningar" och ord som "begagnade varor" och "lönsammare". Men "Hej" och "gärna" är lite vardagliga. | 大体正式（ni, överväger, 结尾套语），但 Hej / gärna 偏口语 |
@@ -399,10 +399,10 @@ Läs det formella brevet med förslag till politiker på s. 98 och svara på fr�
 
 **② Vad står det i ämnesraden? / Vilken inledningsfras har brevet?**
 
-- 📐 `Vad`(疑问词, 宾语/表语位) + `står`(V) + `det`(S) + `i ämnesraden`(A) —— 疑问词在第一位 → 动词第二位、主语后移 → [[grammar-frageord|📗疑问词]]
+- 📐 `Vad`(疑问词, 问"写着的内容") + `står`(V) + `det`(形式主语) + `i ämnesraden`(A) —— 疑问词在第一位 → 动词第二位、主语后移 → [[grammar-frageord|📗疑问词]]
 - ⚠️ **stå** 表示"（文字上）写着"：Vad står det …? = （上面）写了什么？
 - ⚠️ **vilken + en-词**（inledningsfras）/ **vilket + ett-词**（argument）/ **vilka + 复数** → [[grammar-vilket-vilken-vilka|📗vilken/vilket/vilka]]
-- ⚠️ 复合词：ämne + s + rad（连接音 -s-）；inlednings + fras → [[grammar-sammansatt-ord|📗复合词]]
+- ⚠️ 复合词：ämne + s + rad（连接音 -s-）；inledning + s + fras → [[grammar-sammansatt-ord|📗复合词]]
 - 🇨🇳 主题行里写了什么？这封信的开头用语是什么？
 
 **③ Vad handlar förslaget om och vad vill skribenten åstadkomma med det?**
