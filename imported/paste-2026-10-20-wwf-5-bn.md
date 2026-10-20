@@ -47,7 +47,7 @@ Här får du tips på vad du kan göra för klimatet.
 
 | 点 | 原文 | 说明 |
 |---|---|---|
-| 📐 imperativ | *Minska, Fråga, Ät, Spara, var med, Välj* | 建议/指示类文本全用**命令式**：-a 动词 = 不定式（minska, spara）；其它 = 去掉词尾 -a（äta → **ät**、välja → **välj**）；vara → **var** |
+| 📐 imperativ | *Minska, Fråga, Ät, Spara, var med, Välj* | 建议/指示类文本全用**命令式**：第1类动词（presens -ar：minskar, sparar）= 不定式；其它 = 去掉词尾 -a（äta → **ät**、välja → **välj**）；vara → **var** |
 | 📐 genom att + 不定式 | *genom att dra ner på …* | "通过做……"——表示方式手段 |
 | 📐 komparativ | *mindre, bättre, mer, klimatsmartare* | 不规则 lite→mindre、bra→bättre、mycket→mer；规则 klimatsmart→klimatsmart**are** |
 | 📐 dubbel bestämning | *den globala uppvärmningen*, *den biologiska mångfalden* | 形容词 + 名词限定式：**den** + 形容词 -a + 名词 -en（双重限定） |
@@ -55,7 +55,7 @@ Här får du tips på vad du kan göra för klimatet.
 | 📐 V2 倒装 | *Då **visar** du …*, *för då **är** både du …* | 状语 då 在句首 → 动词第二位、主语后移 |
 | 📐 sammansatta ord | *jord+klot, över+konsumtion, el+räkning, spar+alternativ, växt+rike, el+bil* | 复合词：最后一部分决定词性和 en/ett（jordklot**et**、elräkning**en**） |
 | 💬 词组 | *dra ner på, fråga efter, bidra till, vara med och, tänka till, få tips på* | 小品词/介词决定意思：dra ner **på** = 削减；tänka **till** = 好好想一想 |
-| 💬 b:n | *5 b:n* | b 的复数限定式 = "这五个 B"；字母缩写加冒号再加词尾（cd:n, sms:et） |
+| 💬 b:n | *5 b:n* | b 的**复数不定式**：字母是 ett-词，ett b – fem b:n（像 ett äpple – äpplen），数词 5 后用不定式 = "五个 B"；字母/缩写加冒号再加词尾（cd:n, sms:et） |
 
 ## 🔍 逐段精读 (Stycke för stycke)
 
@@ -73,9 +73,9 @@ Läs informationen från WWF och para ihop rätt rubrik vid rätt stycke. Här f
 **① Läs informationen från WWF och para ihop rätt rubrik vid rätt stycke.**
 
 - 📐 `Läs`(V, 命令式) + `informationen från WWF`(O) + och + `para ihop`(V, 命令式 + 小品词) + `rätt rubrik`(O) + `vid rätt stycke`(A)
-- ⚠️ 练习指令都是**命令式**：läsa → **läs**（去掉 -a）；para 以 -a 结尾，命令式不变 → [[grammar-imperativ|📗命令式]]
-- ⚠️ **para ihop A med/vid B** = 把 A 和 B 配对；`rätt` 作定语时**不变形**（rätt rubrik、rätt stycke）→ [[para-ihop]]
-- ⚠️ `informationen`：information 在瑞典语里可以加限定式（"这份信息"），不像英语 information 不可数
+- ⚠️ 练习指令都是**命令式**：läsa → **läs**（去掉 -a）；para 是第1类动词（presens parar），命令式 = 不定式 → [[grammar-imperativ|📗命令式]]
+- ⚠️ **para ihop A med/vid B** = 把 A 和 B 配对；`rätt` 无冠词作定语时通常不变（rätt rubrik、rätt stycke），但限定形式是 den rätta …→ [[para-ihop]]
+- ⚠️ `informationen`：限定式 -en = 特指 WWF 的这份信息（英语 the information）；information 一般不用复数
 - 🇨🇳 阅读 WWF 的信息，把正确的标题和正确的段落配对。
 
 **② Här får du tips på vad du kan göra för klimatet.**
@@ -116,7 +116,7 @@ Minska din belastning på jordklotet genom att dra ner på onödiga eller ohåll
 **① Minska din belastning på jordklotet genom att dra ner på onödiga eller ohållbara köp och överkonsumtion av prylar, som kläder, möbler och elektronikprodukter.**
 
 - 📐 `Minska`(V, 命令式) + `din belastning på jordklotet`(O) + `genom att dra ner på [onödiga eller ohållbara köp] och [överkonsumtion av prylar]`(A, 方式) + `, som kläder, möbler och elektronikprodukter`(举例)
-- ⚠️ **minska** 以 -a 结尾 → 命令式 = 原形 → [[grammar-imperativ|📗命令式]]
+- ⚠️ **minska** 是第1类动词（presens minskar）→ 命令式 = 原形 → [[grammar-imperativ|📗命令式]]
 - ⚠️ **genom att + 不定式** = 通过做……（英语 by doing）；att 后用**不定式**，不能用 -ing → [[grammar-genom-att-infinitiv|📗genom att]]
 - ⚠️ **dra ner på något** = 削减、减少某物（cut down on）；`på` 不能省 → [[dra-ner-på]]
 - ⚠️ `belastning på` = 对……的负担；`köp` 这里是**名词复数**（ett köp – flera köp，单复同形），被 onödiga/ohållbara 修饰
@@ -163,7 +163,7 @@ Fråga efter investeringar som inte bidrar till den globala uppvärmningen eller
 - ⚠️ som 引导关系从句；从句里 **inte 在动词前**：som **inte bidrar**（主句才是 bidrar inte）→ [[grammar-bisats-ordfoljd|📗从句语序]]
 - ⚠️ **bidra till** = 促成、导致（可好可坏）→ [[bidra-till]]
 - ⚠️ **den globala uppvärmningen / den biologiska mångfalden** = 双重限定：den + 形容词 -a + 名词限定式 → [[grammar-adjektiv-bojning|📗形容词变形]]；两个都是固定术语 → [[global-uppvärmning]]、[[biologisk-mångfald]]
-- ⚠️ `utarmning` 没有冠词/限定式：抽象名词泛指时常不加
+- ⚠️ `utarmning` 没有限定式：动作名词 + av … 表示"……的过程"时书面上常省略限定式（也可说 utarmningen av …）
 - 🇨🇳 去询问那些不会助长全球变暖、也不会导致生物多样性枯竭的投资。
 
 **② Då visar du att det finns efterfrågan på gröna sparalternativ!**
@@ -213,7 +213,7 @@ Fråga efter investeringar som inte bidrar till den globala uppvärmningen eller
 - 📐 三个命令并列：`Ät`(V) + `mindre men bättre kött`(O) ｜ `ät`(V) + `mer proteiner från växtriket`(O) ｜ `sluta slänga`(V + 不定式) + `ätbar mat`(O) —— 然后 `för`(连词) + `då`(A) + `är`(V) + `både du, klimatet och den biologiska mångfalden`(S) + `vinnare`(表语)
 - ⚠️ äta 的命令式 = **ät**（去掉 -a）；同理 välja → välj → [[grammar-imperativ|📗命令式]]
 - ⚠️ **mindre / bättre / mer** 是不规则比较级：lite → mindre、bra → bättre、mycket → mer → [[grammar-komparativ|📗比较级]]
-- ⚠️ **sluta + 不定式**（不加 att）= 停止做某事：sluta slänga、sluta röka
+- ⚠️ **sluta + 不定式**（通常不加 att，sluta att röka 也可以）= 停止做某事：sluta slänga、sluta röka
 - ⚠️ 破折号后的 **för** = "因为"（并列连词，后面是**主句语序**）；för 后面的 då 占第一位 → **är** 第二位、主语 både du… 后移 → [[grammar-orsakskonjunktion|📗原因连词]]
 - ⚠️ **både … och …** = ……和……都 → [[både-...-och]]；`ätbar` = ät- + -bar（能……的，同 English -able）
 - 🇨🇳 少吃肉但吃好一点的肉，多吃植物蛋白（豆子、扁豆、豌豆），别再把还能吃的食物扔掉——因为这样一来，你、气候和生物多样性都是赢家！
@@ -310,7 +310,7 @@ Välj klimatsmartare transportsätt när det är möjligt – som elbil, kollekt
 
 - 📐 `Många av oss`(S) + `har`(V) + `alternativ och möjligheten ⟨att tänka till⟩`(O)
 - ⚠️ **många av oss** = 我们中的很多人（av + 宾格 oss）
-- ⚠️ **möjligheten att + 不定式** = 做……的机会；**tänka till** = 认真想一想、动动脑筋（区别于 tänka **på** 想到/考虑、tänka **efter** 仔细回想）→ [[tänka-till]]
+- ⚠️ **möjligheten att + 不定式** = 做……的机会；**tänka till** = 认真想一想、动动脑筋（区别于 tänka **på** 想到/考虑、tänka **efter** 仔细考虑/回想）→ [[tänka-till]]
 - 🇨🇳 我们很多人都有替代办法，也有机会好好想一想。
 
 #### 🧩 词组
