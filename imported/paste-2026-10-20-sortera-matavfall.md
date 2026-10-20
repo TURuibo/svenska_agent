@@ -169,7 +169,7 @@ JA: Bröd, äggskal, pasta, ris. Grönsaker, frukt (max 10 kg fallfrukt). Kött,
 
 **① Bröd, äggskal, pasta, ris.**
 
-- 📐 名词列举，无动词；全部用**不定式、无冠词** = 泛指"这类东西"
+- 📐 名词列举，无动词；全部用**不定形式（obestämd form）、无冠词** = 泛指"这类东西"
 - ⚠️ `äggskal` = ägg + skal（壳/皮），skal 单复同形
 - 🇨🇳 面包、蛋壳、意面、米饭。
 
@@ -249,7 +249,7 @@ JA: Bröd, äggskal, pasta, ris. Grönsaker, frukt (max 10 kg fallfrukt). Kött,
 
 **④ Gräs, jord, trädgårdsavfall · Kattsand, husdjursströ**
 
-- ⚠️ `gräs`、`jord` 不可数，无复数；`trädgårdsavfall` 又有连接音 -s-
+- ⚠️ `gräs`、`jord` 这里不可数（作"草/泥土"讲一般不用复数）；`trädgårdsavfall` 又有连接音 -s-
 - ⚠️ **husdjur** = 宠物（hus + djur），**strö** = 铺垫料
 - 🇨🇳 草、泥土、园艺垃圾；猫砂、宠物垫料。
 
