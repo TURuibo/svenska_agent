@@ -44,6 +44,7 @@ created: "2026-10-06"
 - 🇸🇪 Vi sorterar papper, plast och glas. — 🇨🇳 我们把纸、塑料和玻璃分类。
 - 🇸🇪 Hon sorterar tvätten efter färg. — 🇨🇳 她按颜色把衣服分类。
 - 🇸🇪 Det är lätt att sortera när det finns många kärl. — 🇨🇳 容器多的时候分类很容易。
+- 🇸🇪 Sortera rätt – matavfall. — 🇨🇳 正确分类——厨余垃圾。（[[source-2026-10-20-sortera-matavfall]]，→ [[sortera-rätt]]、[[felsortera]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

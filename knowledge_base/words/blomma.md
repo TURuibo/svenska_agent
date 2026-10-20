@@ -50,6 +50,7 @@ interval: 0
 - 🇸🇪 De första blommorna sticker upp ur marken. — 🇨🇳 最早的花朵从土里冒出来。 → [[sent-faglarna-sjunger-och-de-forsta]]
 - 🇸🇪 Jag köpte en blomma till min mamma. — 🇨🇳 我给妈妈买了一朵花。
 - 🇸🇪 Blommorna i parken är vackra på sommaren. — 🇨🇳 夏天公园里的花很漂亮。
+- 🇸🇪 Blommor, ört-/salladskrukor, krukväxter (NEJ). — 🇨🇳 花、香草/生菜盆、盆栽植物（不能放进厨余垃圾）。（[[source-2026-10-20-sortera-matavfall]]，→ [[kruka]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

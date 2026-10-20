@@ -11,7 +11,7 @@ head_words: []
 grammar: [grammar-imperativ, grammar-partikelverb, grammar-att-bisats]
 related: [komma-ihåg, glöm-inte, tänka-på, påminnelse]
 topics: [topic-förskola-vardag]
-sentences: [sent-kom-ihåg-att-det-är-ni]
+sentences: [sent-kom-ihåg-att-det-är-ni, sent-kom-ihåg-att-ta-bort-förpackningen]
 known: false
 created: "2026-09-26"
 ---
@@ -46,3 +46,4 @@ created: "2026-09-26"
 - [[sent-kom-ihåg-att-det-är-ni]] 🇸🇪 Kom ihåg att det är ni som vårdnadshavare som ansvarar för att schemat stämmer. 🇨🇳 请记住，确保时间表准确无误是你们作为监护人的责任。
 - 🇸🇪 Kom ihåg att ta med extrakläder på måndag. 🇨🇳 记得周一带备用衣服。
 - 🇸🇪 Kom ihåg att förskolan stänger klockan 17.30. 🇨🇳 记住幼儿园 17:30 关门。
+- [[sent-kom-ihåg-att-ta-bort-förpackningen]] 🇸🇪 OBS! Kom ihåg att ta bort förpackningen! 🇨🇳 注意！记得把包装拿掉！（来源 [[source-2026-10-20-sortera-matavfall]]）

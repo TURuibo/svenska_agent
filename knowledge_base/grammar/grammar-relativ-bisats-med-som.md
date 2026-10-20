@@ -6,6 +6,7 @@ en: relative clause introduced by 'som' (postpositive, unlike Chinese)
 level: A2
 related: ["grammar-bisats-biff", "grammar-bisats"]
 examples:
+  - sent-lägg-över-det-som-är-felsorterat-i-de-vanliga-soporna
   - sent-barn-och-unga-behover-mota-vuxna
   - sent-jag-och-storasyrran-borjade-tjafsa
 known: false
@@ -60,6 +61,8 @@ vuxna  som  lyssnar  på deras berättelser
 
 - ✅ [[sent-barn-och-unga-behover-mota-vuxna]] 🇸🇪 vuxna **som** lyssnar på deras berättelser 🇨🇳 倾听他们故事的大人
 - ✅ [[sent-jag-och-storasyrran-borjade-tjafsa]] 🇸🇪 nåt jag tyckte hon hade helt fel om 🇨🇳 我认为她完全搞错了的那件事（省略了som）
+- ✅ [[sent-lägg-över-det-som-är-felsorterat-i-de-vanliga-soporna]] 🇸🇪 Lägg över **det som** är felsorterat i de vanliga soporna. 🇨🇳 把分错类的那部分转放进普通垃圾。（det som = 先行词 det + som 作主语；来源 [[source-2026-10-20-sortera-matavfall]]）
+- ✅ [[sent-den-bästa-miljöinsatsen-du-kan-göra-är-att-äta-upp-maten]] 🇸🇪 Den bästa miljöinsatsen (**som**) du kan göra… 🇨🇳 你能做的最好的环保行动……（som 作宾语，被省略）
 - ❌ *de vuxna lyssnar* (省略som同时保留名词，中文式前置，错误)
 
 ## 常见错误 (Common Mistakes)

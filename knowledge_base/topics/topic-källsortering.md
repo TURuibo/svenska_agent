@@ -33,6 +33,42 @@ words:
   - förbränna
   - spara
   - kasta
+  - sortera
+  - sopor
+  - felsortera
+  - försluta
+  - trädgårdsavfall
+  - hushållspapper
+  - tepåse
+  - teblad
+  - fallfrukt
+  - ofärgad
+  - bioplastpåse
+  - majsstärkelsepåse
+  - salladskruka
+  - kruka
+  - ört
+  - binda-substantiv
+  - dammsugarpåse
+  - grillpinne
+  - pinne
+  - vinkork
+  - kapsyl
+  - kattsand
+  - husdjursströ
+  - färg
+  - tryck
+  - snus
+  - cigarett
+  - fimp
+  - aska
+  - stearinljus
+  - skal
+  - informationsblad
+  - miljöinsats
+  - abonnemang
+  - abonnemangsändring
+  - kundtjänst
 phrases:
   - källsortera-hemma
   - bind-ihop
@@ -42,7 +78,12 @@ phrases:
   - källsortera-sina-sopor
   - lägger-man-i
   - tas-till
+  - sortera-rätt
+  - rulla-ihop
+  - lägga-över
+  - beställa-extra-hämtning
 sources:
+  - source-2026-10-20-sortera-matavfall
   - source-2026-06-25-instruktion-kallsortering
   - source-2026-06-27-faktatext-atervinning
 created: "2026-06-25"
@@ -106,6 +147,15 @@ created: "2026-06-25"
 - [[vika-ihop]] — 把纸板折叠好
 - [[lämna-vid]] — 送到…处
 - [[farligt-avfall]] — 危险废品
+
+## Stockholm 厨余垃圾分类 JA / NEJ（2026-10-20，[[source-2026-10-20-sortera-matavfall]]）
+
+| 可以 JA（厨余垃圾） | 不可以 NEJ |
+|------|------|
+| [[skal]]（[[äggskal]]、[[morot]]/[[räka]] 的皮壳）、[[fallfrukt]]（max 10 [[kilo]]）、[[teblad]]、[[tepåse]]、[[kaffesump]]、[[filter]]、ofärgat [[hushållspapper]] | [[bioplastpåse]]、[[majsstärkelsepåse]]、[[blomma]]/[[krukväxt]]/[[salladskruka]]/[[kruka]]/[[ört]]、[[blöja]]、[[binda-substantiv]]、[[damm]]、[[dammsugarpåse]]、[[grillpinne]]、[[pinne]]、[[vinkork]]、[[kapsyl]]、[[gräs]]/[[jord]]/[[trädgårdsavfall]]、[[kattsand]]、[[husdjursströ]]、[[servett]] med [[tryck]]/[[färg]]、[[snus]]、[[cigarett]]/[[fimp]]、[[aska]]、[[stearinljus]] |
+
+- 行为: [[felsortera]] / [[sortera-rätt]] · [[försluta]] påsen ([[rulla-ihop]]) · [[lägga-över]] · [[beställa-extra-hämtning]] · [[hämtning]]
+- 服务/信息: [[informationsblad]] · [[abonnemang]] · [[abonnemangsändring]] · [[kundtjänst]] · [[miljöinsats]]
 
 ## 相关主题 (Related Topics)
 

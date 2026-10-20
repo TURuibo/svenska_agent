@@ -42,6 +42,7 @@ created: "2026-09-26"
 - 🇸🇪 Klockan är tjugo i fyra och det är hämtning. — 🇨🇳 三点四十，到了接园时间。
 - 🇸🇪 Vid hämtning berättar pedagogen hur dagen har varit. — 🇨🇳 接园时老师会讲今天过得怎么样。
 - 🇸🇪 Mormor sköter hämtningen på fredag. — 🇨🇳 周五由外婆负责接园。
+- **义项2 垃圾收运:** 🇸🇪 Beställ extra hämtning. — 🇨🇳 预约额外收运。（[[source-2026-10-20-sortera-matavfall]]，→ [[beställa-extra-hämtning]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

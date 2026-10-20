@@ -5,7 +5,7 @@ zh: "通过做……（方式状语）"
 en: "\"by doing (something)\" — means/manner adverbial"
 level: "B1"
 related: [grammar-for-att-infinitiv, grammar-for-att-syfte]
-examples: [sent-deras-kamp-var-fredlig-och]
+examples: [sent-förslut-påsen-genom-att-rulla-ihop-den, sent-deras-kamp-var-fredlig-och]
 known: false
 created: "2026-08-06"
 reviewed: ""
@@ -41,6 +41,7 @@ interval: 0
 
 
 - ✅ [[sent-deras-kamp-var-fredlig-och]] 🇸🇪 De spred sitt budskap genom att skriva artiklar och dela ut flygblad. 🇨🇳 她们通过写文章、发传单来传播理念。
+- ✅ [[sent-förslut-påsen-genom-att-rulla-ihop-den]] 🇸🇪 Förslut påsen **genom att rulla ihop** den. 🇨🇳 通过把它卷起来来封好袋子。（方式；来源 [[source-2026-10-20-sortera-matavfall]]）
 - ❌ De spred sitt budskap för att skriva artiklar. ← 混淆了方式与目的
 
 ## 常见错误 (Common Mistakes)

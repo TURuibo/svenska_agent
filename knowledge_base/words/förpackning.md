@@ -54,6 +54,7 @@ interval: 0
 - 🇸🇪 Han förstod att förpackningar var viktiga för framtiden. — 🇨🇳 他明白包装对未来非常重要。
 - 🇸🇪 Tetra Pak säljer sina förpackningar i mer än 160 länder. — 🇨🇳 Tetra Pak 在160多个国家销售其包装产品。
 - 🇸🇪 En bra förpackning skyddar maten och gör den lätt att transportera. — 🇨🇳 好的包装能保护食物并使其便于运输。
+- 🇸🇪 OBS! Kom ihåg att ta bort förpackningen! — 🇨🇳 注意！记得把包装拿掉！（扔厨余垃圾前先去包装；[[source-2026-10-20-sortera-matavfall]]，→ [[sent-kom-ihåg-att-ta-bort-förpackningen]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

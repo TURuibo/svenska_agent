@@ -53,6 +53,7 @@ interval: 0
 - 🇸🇪 Damm, torr luft och virus tillsammans gjorde arbetarna sjuka. — 🇨🇳 粉尘、干燥空气和病毒共同导致了工人患病。
 - 🇸🇪 De tycker att dammet från marken måste undersökas mer. — 🇨🇳 他们认为地面粉尘必须进一步调查。
 - 🇸🇪 Det var mycket damm i luften på bygget. — 🇨🇳 建筑工地上空气中粉尘很多。
+- 🇸🇪 Damm, dammsugarpåsar (NEJ). — 🇨🇳 灰尘、吸尘器集尘袋（不能放进厨余垃圾）。（[[source-2026-10-20-sortera-matavfall]]，→ [[dammsugarpåse]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

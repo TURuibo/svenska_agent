@@ -45,6 +45,7 @@ created: "2026-10-20"
 - 🇸🇪 Dra ner på onödiga eller ohållbara köp och välj hållbara produkter. — 🇨🇳 减少不必要或不可持续的购买，选择可持续的产品。
 - 🇸🇪 Vi vill bygga ett hållbart samhälle. — 🇨🇳 我们想建设一个可持续的社会。
 - 🇸🇪 De här skorna är mycket hållbara. — 🇨🇳 这双鞋非常耐穿。
+- 🇸🇪 Tillsammans för världens mest hållbara stad. — 🇨🇳 一起建设世界上最可持续的城市。（[[source-2026-10-20-sortera-matavfall]]，→ [[grammar-superlativ]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

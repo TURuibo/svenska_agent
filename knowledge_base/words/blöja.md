@@ -49,6 +49,7 @@ interval: 0
 - 🇸🇪 Blöjor hör hemma i påsen för restavfall. — 🇨🇳 尿布应该放进普通垃圾袋里。
 - 🇸🇪 Man byter blöja ungefär sex gånger om dagen. — 🇨🇳 每天大约换六次尿布。
 - 🇸🇪 Blöjor kan inte återvinnas, de går i restavfallet. — 🇨🇳 尿布不能回收，它们放进普通垃圾桶。
+- 🇸🇪 Blöjor, bindor (NEJ). — 🇨🇳 尿布、卫生巾（不能放进厨余垃圾）。（[[source-2026-10-20-sortera-matavfall]]，→ [[binda-substantiv]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

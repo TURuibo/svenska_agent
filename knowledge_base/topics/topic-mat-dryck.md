@@ -142,6 +142,10 @@ created: 2026-06-11
   - protein
   - ätbar
   - växtrike
+  - fallfrukt
+  - teblad
+  - tepåse
+  - skal
 ---
 
 # Mat & Dryck — 食物饮料
@@ -308,6 +312,13 @@ created: 2026-06-11
 - [[protein]] — 蛋白质
 - [[ätbar]] — 可食用的
 - [[växtrike]] — 植物界
+
+**厨余垃圾里的食物词 (2026-10-20，[[source-2026-10-20-sortera-matavfall]])**
+- [[fallfrukt]] — 落地果
+- [[teblad]] — 茶叶
+- [[tepåse]] — 茶包
+- [[skal]] — 皮；壳
+- 另见 [[topic-källsortering]]
 
 ## 备注 (Notes)
 

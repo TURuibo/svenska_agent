@@ -11,7 +11,7 @@ head_words: [ta]
 grammar: [grammar-partikelverb, grammar-bisats-ordfoljd]
 related: [kasta-bort, ta-med, ta-upp, ta-igen]
 topics: []
-sentences: []
+sentences: [sent-kom-ihåg-att-ta-bort-förpackningen]
 known: false
 created: "2026-10-01"
 ---
@@ -50,5 +50,6 @@ created: "2026-10-01"
 - 🇸🇪 Kan du ta bort bilden från sidan? 🇨🇳 你能把页面上的图片删掉吗？
 - 🇸🇪 Jag vill ta bort fläcken på skjortan. 🇨🇳 我想把衬衫上的污渍去掉。
 - 🇸🇪 De tog bort alla gamla möbler. 🇨🇳 他们把所有旧家具都搬走了。
+- [[sent-kom-ihåg-att-ta-bort-förpackningen]] 🇸🇪 OBS! Kom ihåg att ta bort förpackningen! 🇨🇳 注意！记得把包装拿掉！
 
-来源: [[source-2026-09-22-nils-van-der-poel]]
+来源: [[source-2026-09-22-nils-van-der-poel]] · [[source-2026-10-20-sortera-matavfall]]

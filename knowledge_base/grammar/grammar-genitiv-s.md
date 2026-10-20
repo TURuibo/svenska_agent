@@ -45,6 +45,7 @@ Elins bok                         (专有名词 + s)
 ## 例句 (Examples)
 
 - ✅ [[sent-hur-kämpade-elin-för-kvinnors]] 🇸🇪 Hur kämpade Elin för kvinnors rättigheter? 🇨🇳 埃林是如何为女性权利而斗争的？
+- ✅ 🇸🇪 Tillsammans för **världens** mest hållbara stad. 🇨🇳 一起建设世界上最可持续的城市。（värld → världen + s = världens，定指形 + s；→ [[värld]]、[[grammar-superlativ]]；来源 [[source-2026-10-20-sortera-matavfall]]）
 - ❌ kvinnor's rättigheter ← 常见错误：搬用英语撇号写法，瑞典语中没有撇号
 
 ## 常见错误 (Common Mistakes)

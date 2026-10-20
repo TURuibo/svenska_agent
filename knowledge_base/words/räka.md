@@ -48,6 +48,7 @@ interval: 0
 - 🇸🇪 En räksmörgås med räkor, majonnäs och citron är ett klassiskt val. — 🇨🇳 配虾仁、蛋黄酱和柠檬的虾仁三明治是一个经典选择。
 - 🇸🇪 Vi köpte färska räkor på fisktorget i Göteborg. — 🇨🇳 我们在哥德堡的鱼市场买了新鲜的虾。
 - 🇸🇪 Räkor används i många svenska semesterrätter sommartid. — 🇨🇳 虾是许多瑞典夏季度假菜肴中的食材。
+- 🇸🇪 Skal från räkor är matavfall. — 🇨🇳 虾壳是厨余垃圾。（练习题2，答案：Rätt，因为 [[skaldjur]]；[[source-2026-10-20-sortera-matavfall]]，→ [[skal]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

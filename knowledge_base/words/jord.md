@@ -53,6 +53,7 @@ interval: 0
 
 **义项2：土壤、土地**
 - 🇸🇪 Bonden plöjde sin jord. — 🇨🇳 农民在耕他的地。
+- 🇸🇪 Gräs, jord, trädgårdsavfall (NEJ). — 🇨🇳 草、土、园林垃圾（不能放进厨余垃圾）。（土壤义；[[source-2026-10-20-sortera-matavfall]]，→ [[trädgårdsavfall]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

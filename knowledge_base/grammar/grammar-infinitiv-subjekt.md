@@ -7,6 +7,7 @@ level: "B1"
 related: [grammar-att-bisats, grammar-for-att-infinitiv, grammar-infinitiv]
 examples:
   - sent-att-källsortera-är-viktigt
+  - sent-den-bästa-miljöinsatsen-du-kan-göra-är-att-äta-upp-maten
 known: false
 created: "2026-06-27"
 reviewed: ""
@@ -51,6 +52,8 @@ Att källsortera är viktigt = 垃圾分类很重要
 
 - ✅ [[sent-att-källsortera-är-viktigt]] 🇸🇪 Att källsortera är viktigt — det minskar avfall och sparar naturresurser. 🇨🇳 垃圾分类很重要——它减少废物并节省自然资源。
 - ✅ 🇸🇪 Att cykla till jobbet är bra för hälsan. 🇨🇳 骑车上班对健康有益。
+- ✅ 🇸🇪 **Att sortera matavfall** är frivilligt. 🇨🇳 分类厨余垃圾是自愿的。（练习题1；形容词用中性 *frivilligt*；来源 [[source-2026-10-20-sortera-matavfall]]，→ [[frivillig]]）
+- ✅ [[sent-den-bästa-miljöinsatsen-du-kan-göra-är-att-äta-upp-maten]] 🇸🇪 …är **att äta upp maten**. 🇨🇳 ……就是把饭吃完。（att + 不定式作表语，对应主语位置的同一结构）
 - ❌ *Källsortera är viktigt* ← 缺少 `att`，语法不完整（口语中有时可省略，但书面语需要）
 
 ## 常见错误 (Common Mistakes)

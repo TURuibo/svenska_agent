@@ -46,6 +46,7 @@ interval: 0
 - 🇸🇪 Svenska är ett obligatoriskt ämne i skolan. — 🇨🇳 瑞典语是学校里的必修科目。
 - 🇸🇪 Det är obligatoriskt att bära hjälm på byggplatsen. — 🇨🇳 在建筑工地必须戴头盔。
 - 🇸🇪 Kursen är obligatorisk för alla studenter. — 🇨🇳 这门课对所有学生都是必修的。
+- 🇸🇪 Obligatoriskt från 1 jan 2023. — 🇨🇳 自2023年1月1日起强制（厨余垃圾分类）。（[[source-2026-10-20-sortera-matavfall]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

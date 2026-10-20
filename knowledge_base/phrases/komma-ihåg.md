@@ -46,3 +46,4 @@ created: "2026-09-26"
 - [[sent-och-kom-ihåg-regeln-en-feberfri]] 🇸🇪 Och kom ihåg regeln: en feberfri dag hemma, … 🇨🇳 另外记住规矩：在家待一个不发烧的日子……
 - 🇸🇪 Kom ihåg att ta med regnkläder i morgon! 🇨🇳 记得明天带雨衣！
 - 🇸🇪 Jag kommer inte ihåg vad hon heter. 🇨🇳 我不记得她叫什么了。
+- 🇸🇪 Kom ihåg att ta bort förpackningen! 🇨🇳 记得把包装拿掉！（[[sent-kom-ihåg-att-ta-bort-förpackningen]]；来源 [[source-2026-10-20-sortera-matavfall]]）

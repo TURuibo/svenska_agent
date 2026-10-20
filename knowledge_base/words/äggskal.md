@@ -47,6 +47,7 @@ interval: 0
 - 🇸🇪 Äggskal hör hemma i påsen för matavfall. — 🇨🇳 蛋壳应该放进厨余垃圾袋里。
 - 🇸🇪 Krossade äggskal är bra för trädgården. — 🇨🇳 碾碎的蛋壳对花园很好。
 - 🇸🇪 Matrester, kaffesump och äggskal är alla matavfall. — 🇨🇳 食物残渣、咖啡渣和蛋壳都是厨余垃圾。
+- 🇸🇪 Bröd, äggskal, pasta, ris. — 🇨🇳 面包、蛋壳、意面、米饭（JA 列表）。（[[source-2026-10-20-sortera-matavfall]]，→ [[skal]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -36,6 +36,13 @@ members:
   - handduk
   - dusch
   - vas
+  - hushållspapper
+  - dammsugarpåse
+  - stearinljus
+  - servett
+  - kattsand
+  - kruka
+  - husdjursströ
 created: "2026-06-09"
 ---
 
@@ -93,8 +100,18 @@ created: "2026-06-09"
 ### 厨房用品（新增）
 - [[diskbänk]] — 洗碗池台面
 
+### 家用消耗品 (Förbrukning, 2026-10-20)
+- [[hushållspapper]] — 厨房纸
+- [[dammsugarpåse]] — 吸尘器集尘袋
+- [[stearinljus]] — 蜡烛
+- [[servett]] — 餐巾纸
+- [[kattsand]] — 猫砂
+- [[husdjursströ]] — 宠物垫料
+- [[kruka]] — 花盆
+
 ## 备注 (Notes)
 
+- 2026-10-20 新增：以上家用消耗品 — 来自 [[source-2026-10-20-sortera-matavfall]]，另见 [[topic-källsortering]]。
 - 来源：[[source-2026-06-09-rumsliga-relationer]]
 - 相关主题：[[topic-mobler]]，[[topic-rumsliga-relationer]]
 - 2026-07-03 新增：[[diskbänk]] — 来自 [[source-2026-07-03-felanmalan-hyresvard]]（报修信场景）。
