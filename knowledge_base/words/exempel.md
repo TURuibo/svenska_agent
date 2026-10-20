@@ -67,3 +67,4 @@ created: "2026-10-01"
 - 注意 **exempel 是 ett-词**（ett exempel），常有人误用 en。
 - 书面中缩写 *t.ex.*、*dvs.*（即）、*bl.a.*（其中包括）要认得。
 - 来源: [[source-2026-09-22-nils-van-der-poel]]
+- 教材 s. 99：`Ger skribenten något exempel i sina argument?` — 🇨🇳 作者在论点里举了例子吗？；复合词 [[exempeltext]]；词组 [[ge-exempel]]。来源: [[source-2026-10-20-mejl-till-politiker-frågor]]

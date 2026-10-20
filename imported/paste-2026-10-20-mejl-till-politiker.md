@@ -29,6 +29,36 @@ Jag hoppas att ni överväger mitt förslag.
 Med vänliga hälsningar,
 Dimitris Ariti
 
+## 📝 练习 (Uppgift, SFI s. 99)
+
+a) Läs en exempeltext.
+
+Läs det formella brevet med förslag till politiker på s. 98 och svara på frågorna muntligt.
+
+1. Vad står det i ämnesraden?
+2. Vilken inledningsfras har brevet?
+3. Vad handlar förslaget om och vad vill skribenten åstadkomma med det?
+4. Vilket eller vilka argument har skribenten?
+5. Ger skribenten något exempel i sina argument?
+6. Hur är kopplingen mellan inledningen och avslutningen?
+7. Är språket formellt eller informellt? Kan du ge några exempel?
+8. Vilka fraser används för att ge förslag?
+
+🇨🇳 a) 阅读一篇范文。阅读第 98 页那封向政治人物提建议的正式信件，并口头回答问题。1 主题行写了什么？2 这封信的开头用语是什么？3 建议的内容是什么，作者想通过它达成什么？4 作者有哪个或哪些论点？5 作者的论点里有举例吗？6 开头和结尾之间的呼应是怎样的？7 语言是正式的还是非正式的？能举几个例子吗？8 用了哪些短语来提出建议？
+
+**💬 参考答案（口头回答时可以这样说）**
+
+| # | 问题 | 参考答案（瑞典语） | 🇨🇳 |
+|---|---|---|---|
+| 1 | Vad står det i ämnesraden? | I ämnesraden står det "Klara klimatmålen – förslag". | 主题行写的是"实现气候目标——建议" |
+| 2 | Vilken inledningsfras har brevet? | Brevet börjar med "Hej," och sedan presenterar skribenten sig: "jag är pappa till två små barn och jag oroar mig för deras framtid." | 以 "Hej," 开头，然后自我介绍并说出担忧 |
+| 3 | Vad handlar förslaget om …? | Förslaget handlar om att sänka skatten för företagare som säljer begagnade varor. Skribenten vill att det ska bli lättare att konsumera medvetet och att klara klimatmålen. | 建议是给卖二手商品的商家减税；目的是让有意识的消费更容易、实现气候目标 |
+| 4 | Vilket eller vilka argument …? | Det finns flera argument: det är enklare att köpa nya kläder på nätet, man vet inte i förväg vad som finns i en second hand-butik, och butikerna ligger ofta en bit från centrum där hyrorna är lägre. | 论点：网购新衣更方便；不知道二手店有什么；二手店通常离市中心有一段距离（因房租低） |
+| 5 | Ger skribenten något exempel? | Ja, skribenten nämner kläder: många skänker sina gamla kläder men färre vill köpa dem. | 有，举了旧衣服的例子 |
+| 6 | Hur är kopplingen …? | Både inledningen och avslutningen handlar om barnen och framtiden: först "jag oroar mig för deras framtid", sedan "en dag kommer våra barn fråga oss …". Det ramar in brevet. | 开头和结尾都讲孩子和未来，形成首尾呼应 |
+| 7 | Formellt eller informellt? | Språket är mest formellt: "ni", "överväger", "Med vänliga hälsningar" och ord som "begagnade varor" och "lönsammare". Men "Hej" och "gärna" är lite vardagliga. | 大体正式（ni, överväger, 结尾套语），但 Hej / gärna 偏口语 |
+| 8 | Vilka fraser används för att ge förslag? | "Mitt förslag är att …", "Mitt förslag skulle göra …", "Jag hoppas att ni överväger mitt förslag." | "我的建议是……""我的建议会让……""希望你们考虑我的建议" |
+
 ## 🇨🇳 全文翻译 (Översättning)
 
 阅读这封写给一位政治人物的邮件，回答问题。
@@ -351,6 +381,91 @@ Vi kan inte längre blunda för framtiden. En dag kommer våra barn fråga oss v
 | överväger | [[överväga]] | verb | 考虑 | överväga – övervägde – övervägt |
 | hälsningar | [[hälsning]] | subst. en | 问候 | |
 
+### ¶6 · 练习题的措辞（s. 99，8 题）
+
+Läs det formella brevet med förslag till politiker på s. 98 och svara på frågorna muntligt. Vad står det i ämnesraden? Vilken inledningsfras har brevet? Vad handlar förslaget om och vad vill skribenten åstadkomma med det? Vilket eller vilka argument har skribenten? Ger skribenten något exempel i sina argument? Hur är kopplingen mellan inledningen och avslutningen? Är språket formellt eller informellt? Kan du ge några exempel? Vilka fraser används för att ge förslag?
+
+🇨🇳 阅读第 98 页那封向政治人物提建议的正式信件，并口头回答问题。主题行写了什么？这封信的开头用语是什么？建议的内容是什么，作者想通过它达成什么？作者有哪个或哪些论点？作者的论点里有举例吗？开头和结尾之间的呼应是怎样的？语言是正式的还是非正式的？能举几个例子吗？用了哪些短语来提出建议？
+
+#### 🔍 逐句拆解
+
+**① Läs det formella brevet med förslag till politiker på s. 98 och svara på frågorna muntligt.**
+
+- 📐 `Läs`(V, 命令式) + `det formella brevet ⟨med förslag till politiker på s. 98⟩`(O) + och + `svara på`(V) + `frågorna`(O) + `muntligt`(A)
+- ⚠️ **det formella brevet**：双重限定（det + 形容词 -a + 名词 -et）→ [[grammar-formellt-brev|📗正式信件]]
+- ⚠️ **muntligt** = 口头地（副词，来自形容词 muntlig 的 t 形式；反义 skriftligt = 书面地）→ [[muntlig]]
+- ⚠️ **svara på** + 问题 → [[svara-på]]
+- 🇨🇳 阅读第 98 页那封给政治人物的正式信件，并口头回答问题。
+
+**② Vad står det i ämnesraden? / Vilken inledningsfras har brevet?**
+
+- 📐 `Vad`(疑问词, 问"写着的内容") + `står`(V) + `det`(形式主语) + `i ämnesraden`(A) —— 疑问词在第一位 → 动词第二位、主语后移 → [[grammar-frageord|📗疑问词]]
+- ⚠️ **stå** 表示"（文字上）写着"：Vad står det …? = （上面）写了什么？
+- ⚠️ **vilken + en-词**（inledningsfras）/ **vilket + ett-词**（argument）/ **vilka + 复数** → [[grammar-vilket-vilken-vilka|📗vilken/vilket/vilka]]
+- ⚠️ 复合词：ämne + s + rad（连接音 -s-）；inledning + s + fras → [[grammar-sammansatt-ord|📗复合词]]
+- 🇨🇳 主题行里写了什么？这封信的开头用语是什么？
+
+**③ Vad handlar förslaget om och vad vill skribenten åstadkomma med det?**
+
+- 📐 `Vad`(疑问词) + `handlar`(V) + `förslaget`(S) + `om`(介词，留在句尾) … och `vad`(宾语) + `vill`(V) + `skribenten`(S) + `åstadkomma`(不定式) + `med det`(A)
+- ⚠️ **handla om** = 关于、讲的是：疑问句里介词 om **留在句尾**（Vad handlar … om?），不像英语 about 可以前置 → [[handla-om]]
+- ⚠️ **åstadkomma** = 达成、做成（正式用词）；vill + 不定式 → [[åstadkomma]]
+- 🇨🇳 建议讲的是什么？作者想用它达成什么？
+
+**④ Vilket eller vilka argument har skribenten? / Ger skribenten något exempel i sina argument?**
+
+- ⚠️ `argument` 是 ett-词，**单复同形**（ett argument – flera argument）→ 所以 vilket（单）eller vilka（复）都可以
+- ⚠️ **ge exempel** = 举例；**sina** 指回主语 skribenten（作者自己的论点）→ [[grammar-sin-sina|📗sin/sina]]
+- ⚠️ 问句里 något 在 Ger skribenten **något** exempel 中 = "任何（一个）"，用于是非问句
+- 🇨🇳 作者有哪个或哪些论点？作者的论点里有举例吗？
+
+**⑤ Hur är kopplingen mellan inledningen och avslutningen?**
+
+- 📐 `Hur`(疑问词) + `är`(V) + `kopplingen mellan inledningen och avslutningen`(S)
+- ⚠️ **koppling mellan A och B** = A 与 B 之间的联系；inledning ↔ avslutning（开头 ↔ 结尾）→ [[avslutning]]
+- 🇨🇳 开头和结尾之间的联系是怎样的？
+
+**⑥ Är språket formellt eller informellt? Kan du ge några exempel?**
+
+- 📐 `Är`(V) + `språket`(S) + `formellt eller informellt`(表语)——是非问句，动词第一位
+- ⚠️ 表语用 **t 形式**：språket 是 ett-词 → formellt / informellt；**in-** = 否定前缀（informell = 不正式的）→ [[informell]]
+- ⚠️ **Kan du ge några exempel?** = 你能给几个例子吗？（几个 = några + 复数）→ [[ge-exempel]]
+- 🇨🇳 语言是正式的还是非正式的？你能举几个例子吗？
+
+**⑦ Vilka fraser används för att ge förslag?**
+
+- 📐 `Vilka fraser`(S) + `används`(V, s-被动) + `för att ge förslag`(A, 目的)
+- ⚠️ **används** = 被使用（använda + s）→ [[grammar-s-passiv|📗s-被动]]
+- ⚠️ **för att + 不定式** = 为了……；**ge förslag** = 提出建议（也可说 komma med förslag）→ [[komma-med-förslag]]
+- 🇨🇳 用哪些短语来提出建议？
+
+#### 🧩 词组
+
+| 词组 | 意思 | 本段用法 |
+|---|---|---|
+| [[svara-på]] | 回答 | svara på frågorna |
+| [[handla-om]] | 关于 | Vad handlar förslaget om? |
+| [[ge-exempel]] | 举例 | Kan du ge några exempel? |
+| [[komma-med-förslag]] | 提出建议 | 同 ge förslag |
+
+#### 📚 生词
+
+| 文中形式 | 原形 | 词性 | 中文 | 说明 |
+|---|---|---|---|---|
+| exempeltext | [[exempeltext]] | subst. en | 范文 | exempel + text |
+| muntligt | [[muntlig]] | adj./adv. | 口头的 | 副词用 t 形式 |
+| ämnesraden | [[ämnesrad]] | subst. en | 主题行 | 邮件的 Ämne: |
+| inledningsfras | [[inledningsfras]] | subst. en | 开头用语 | |
+| skribenten | [[skribent]] | subst. en | 作者、写信人 | |
+| åstadkomma | [[åstadkomma]] | verb | 达成 | åstadkomma – åstadkom – åstadkommit |
+| argument | [[argument]] | subst. ett | 论点 | 单复同形 |
+| kopplingen | [[koppling]] | subst. en | 联系 | |
+| inledningen | [[inledning]] | subst. en | 开头 | |
+| avslutningen | [[avslutning]] | subst. en | 结尾 | |
+| formellt | [[formell]] | adj. | 正式的 | |
+| informellt | [[informell]] | adj. | 非正式的 | |
+| fraser | [[fras]] | subst. en | 短语 | fras – fraser |
+
 ```svensk-export v1
 # words
 politiker | subst | 政治人物 | politician
@@ -381,8 +496,25 @@ blunda | verb | 闭眼 | to close one's eyes
 klimatkatastrof | subst | 气候灾难 | climate disaster
 överväga | verb | 考虑 | to consider
 hoppas | verb | 希望 | to hope
+exempeltext | subst | 范文 | example text
+muntlig | adj | 口头的 | oral
+ämnesrad | subst | 主题行 | subject line
+inledningsfras | subst | 开头用语 | opening phrase
+skribent | subst | 作者 | writer
+åstadkomma | verb | 达成、做成 | to achieve, bring about
+koppling | subst | 联系 | connection
+inledning | subst | 开头 | introduction
+avslutning | subst | 结尾 | ending
+formell | adj | 正式的 | formal
+informell | adj | 非正式的 | informal
+argument | subst | 论点 | argument
+fras | subst | 短语 | phrase
 
 # phrases
+handla om | verb + prep | 关于 | to be about
+ge exempel | uttryck | 举例 | to give examples
+svara på | verb + prep | 回答 | to answer
+komma med förslag | uttryck | 提出建议 | to make a suggestion
 oroa sig för | reflexivt verb | 担心 | to worry about
 göra det lättare för | uttryck | 让……更容易 | to make it easier for
 lika många som | uttryck | 和……一样多 | as many as
@@ -395,6 +527,9 @@ en dag | uttryck | 总有一天 | one day
 med vänliga hälsningar | uttryck | 此致敬礼 | kind regards
 
 # sentences
+Vad handlar förslaget om och vad vill skribenten åstadkomma med det? | 建议讲的是什么？作者想用它达成什么？
+Vilka fraser används för att ge förslag? | 用哪些短语来提出建议？
+Är språket formellt eller informellt? | 语言是正式的还是非正式的？
 Om vi ska klara klimatmålen och stoppa jordens uppvärmning måste vi göra något nu. | 如果我们要实现气候目标、阻止地球变暖，现在就必须行动。
 Mitt förslag är att skatten sänks för företagare som säljer begagnade varor. | 我的建议是对出售二手商品的商家减税。
 Där kan man titta på bilder och välja den färg och storlek som man behöver. | 在网上可以看图片，选自己需要的颜色和尺码。

@@ -53,3 +53,4 @@ created: "2026-10-01"
 ## 用法提示 (Usage Notes)
 
 - 来源: [[source-2026-09-22-trafikolyckan]]
+- 教材 s. 99：`Är språket formellt eller informellt?` — 🇨🇳 语言是正式还是非正式？反义 [[informell]]。来源: [[source-2026-10-20-mejl-till-politiker-frågor]]

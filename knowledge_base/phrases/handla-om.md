@@ -50,3 +50,4 @@ interval: 0
 - 🇸🇪 Vad handlar filmen om? 🇨🇳 这部电影讲的是什么？
 - 🇸🇪 Det handlar om att aldrig ge upp. 🇨🇳 这是关于永不放弃的事。
 - 来源: [[source-2026-06-09-zlatan-bio]]
+- 🇸🇪 Vad handlar förslaget om? — 🇨🇳 这个提议是关于什么的？（教材 s. 99；→ [[vad-handlar-det-om]]；来源 [[source-2026-10-20-mejl-till-politiker-frågor]]）

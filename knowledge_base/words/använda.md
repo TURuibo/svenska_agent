@@ -63,3 +63,4 @@ created: "2026-10-01"
 - `använda ngt som ngt` = 把某物当作……用。s-passiv：`används` / `användes`（见 [[grammar-s-passiv]]）。
 - 与 `bruka`（习惯于）不同；`använda` 才是「使用」。
 - 来源: [[source-2026-09-22-nils-van-der-poel]]
+- 教材 s. 99：`Vilka fraser används för att ge förslag?` — 🇨🇳 用哪些句式来提建议？（s-被动 används）来源: [[source-2026-10-20-mejl-till-politiker-frågor]]

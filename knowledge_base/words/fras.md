@@ -53,3 +53,4 @@ created: "2026-10-01"
 ## 用法提示 (Usage Notes)
 
 - 来源: [[source-2026-09-22-underhallande-vag-till-spraket]]
+- 教材 s. 99：`Vilka fraser används för att ge förslag?` — 🇨🇳 用哪些句式来提建议？→ [[sent-vilka-fraser-används-för-att-ge-förslag]]；复合词 [[inledningsfras]]。来源: [[source-2026-10-20-mejl-till-politiker-frågor]]

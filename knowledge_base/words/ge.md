@@ -60,3 +60,4 @@ Starkt verb (verbgrupp 4). Oregelbunden vokalväxling.
 
 - Starkt verb: ge–ger–gav–gett. Äldre form "giva" förekommer i formell/litterär text.
 - Konstruktion: ge (ngn) (ngt) — ge honom boken.
+- 教材 s. 99：`ge förslag` / `ge exempel`（提建议 / 举例）→ [[ge-förslag]], [[ge-exempel]]；`Kan du ge några exempel?` — 🇨🇳 你能举几个例子吗？来源: [[source-2026-10-20-mejl-till-politiker-frågor]]

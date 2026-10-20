@@ -52,3 +52,4 @@ created: "2026-10-09"
 
 - 动词 inleda（开始）。反义：avslutning。
 - 来源: [[source-2026-10-09-komvux-kursstart]]
+- 教材 s. 99：`Hur är kopplingen mellan inledningen och avslutningen?` — 🇨🇳 开头与结尾之间的呼应是怎样的？来源: [[source-2026-10-20-mejl-till-politiker-frågor]]

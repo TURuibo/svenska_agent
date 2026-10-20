@@ -61,3 +61,4 @@ interval: 0
 - ett-ord 以辅音结尾，复数形式不变：ett brev → brev（obestämd复数）→ breven（bestämd复数）。
 - 注意区分 brev（纸质信）与 e-post/mejl（电子邮件）。
 - 来源: [[source-2026-06-19-adjsubst-blandat]]
+- 教材 s. 99：`Läs det formella brevet med förslag till politiker` — 🇨🇳 读这封写给政治家的正式信件。来源: [[source-2026-10-20-mejl-till-politiker-frågor]]
