@@ -67,3 +67,4 @@ interval: 0
 - 两个主要义项：1) 地球（=planeten Jorden，大写 J 时专有名词）；2) 土壤/土地（不可数）
 - `Jorden` 专有名词（大写）= 地球这颗星球
 - 来源: [[source-2026-06-22-nyheter]]
+- 🇸🇪 … stoppa jordens uppvärmning（阻止地球变暖，所有格 `jordens`）→ [[sent-om-vi-ska-klara-klimatmålen-måste-vi-göra-något-nu]]；[[source-2026-10-20-mejl-till-politiker]]

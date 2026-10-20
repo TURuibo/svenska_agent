@@ -58,3 +58,4 @@ interval: 0
 - "plagg" är ett neutralt, allmänt ord för ett klädesplagg (any single piece of clothing).
 - Plural obestämd = plural bestämd i stavning: "plagg" / "plaggen".
 - 来源: [[source-2026-06-22-adjsubst-klader]]
+- 🇸🇪 Om man ska handla begagnade plagg måste man ofta ta sig in till en butik. — 🇨🇳 想买二手衣服，往往得特地去店里。→ [[source-2026-10-20-mejl-till-politiker]]

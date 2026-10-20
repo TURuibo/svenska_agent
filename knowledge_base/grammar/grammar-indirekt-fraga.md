@@ -55,6 +55,8 @@ created: "2026-09-26"
 - ✅ [[sent-regeringen-bestämmer-varje-år-hur-mycket]] 🇸🇪 Regeringen bestämmer varje år hur mycket pengar du kan få. 🇨🇳 政府每年决定你能拿到多少钱。
 - ✅ [[sent-socialtjänsten-bedömer-om-kostnaderna-är-rimliga]] 🇸🇪 Socialtjänsten bedömer om kostnaderna är rimliga. 🇨🇳 社会服务处会评估这些费用是否合理。（`om` = 是否）
 - ✅ [[sent-vad-som-är-rimligt-beror-på-olika]] 🇸🇪 Vad som är rimligt beror på olika saker. 🇨🇳 什么算合理取决于不同情况。（疑问词作从句主语 → 加 `som`）
+- ✅ [[sent-man-vet-inte-i-förväg-vad-som-kommer-att-finnas-där]] 🇸🇪 Man vet inte i förväg vad som kommer att finnas där. 🇨🇳 事先不知道那里会有什么。（`vad som`：疑问词作主语 → 加 som；来源 [[source-2026-10-20-mejl-till-politiker]]）
+- ✅ [[sent-en-dag-kommer-våra-barn-fråga-oss-varför-vi-inte-gjorde-något]] 🇸🇪 … fråga oss varför vi inte gjorde något … 🇨🇳 ……问我们为什么什么都没做……（`inte` 在动词前）
 - ❌ *Vi skriver hur länge har barnet sovit.* ← 从句里不能倒装
 - ❌ *Jag undrar har hon ätit.* ← 是非问变间接必须加 om
 

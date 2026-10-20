@@ -45,6 +45,8 @@ created: "2026-09-26"
 ## 例句 (Examples)
 
 - [[sent-då-visar-du-att-det-finns-efterfrågan-på-gröna-sparalternativ]] 🇸🇪 **Då visar du** att det finns efterfrågan på gröna sparalternativ! 🇨🇳 这样你就表明……（来源 [[source-2026-10-20-wwf-5-bn]]）
+- [[sent-om-vi-ska-klara-klimatmålen-måste-vi-göra-något-nu]] 🇸🇪 **Om vi ska klara klimatmålen** … **måste vi** göra något nu. 🇨🇳 整个从句占据句首，主句动词 `måste` 紧随，主语 `vi` 后置。（来源 [[source-2026-10-20-mejl-till-politiker]]）
+- [[sent-en-dag-kommer-våra-barn-fråga-oss-varför-vi-inte-gjorde-något]] 🇸🇪 **En dag kommer våra barn** fråga oss … 🇨🇳 总有一天我们的孩子会问我们……
 - [[sent-ät-mindre-men-bättre-kött]] 🇸🇪 …för **då är både du, klimatet och den biologiska mångfalden** vinnare! 🇨🇳 ……因为这样你、气候和生物多样性都是赢家！
 
 

@@ -70,6 +70,7 @@ Sommaren är varmare än hösten.  夏天比秋天热。
 - [[sent-välj-klimatsmartare-transportsätt-när-det-är-möjligt]] 🇸🇪 Välj **klimatsmartare** transportsätt. 🇨🇳 选择更气候友好的出行方式。（-are 比较级；→ [[klimatsmart]]）
 
 
+- 📄 来源 [[source-2026-10-20-mejl-till-politiker]]：`lättare`（[[lätt]]）、`enklare`（[[enkel]]，去掉 e）、`lägre`（[[låg]]，不规则）、`lönsammare`（[[lönsam]]）。🇸🇪 Det skulle göra det lönsammare för företagarna. 🇨🇳 这会让企业主更有利可图。
 - ✅ [[sent-nar-varen-kommer-borjar-dagarna]] 🇸🇪 Dagarna bli ljusare. 🇨🇳 白天变得更亮。
 - ✅ [[sent-det-blir-svalare-och-regnet]] 🇸🇪 Det blir svalare och regnet återkommer. 🇨🇳 天气变得更凉爽，雨水重新降临。
 - ✅ 🇸🇪 Hon är längre än sin bror. — 🇨🇳 她比她哥哥高。

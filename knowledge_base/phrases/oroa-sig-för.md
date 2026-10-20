@@ -48,4 +48,5 @@ interval: 0
 - [[sent-han-oroade-sig-för-att-folk-använde-dem-i-krig]] 🇸🇪 Han oroade sig för att folk använde dem i krig. 🇨🇳 他担心人们将其用于战争。
 - 🇸🇪 Jag oroar mig för examen imorgon. 🇨🇳 我担心明天的考试。
 - 🇸🇪 Oroar du dig för framtiden? 🇨🇳 你担心未来吗？
+- 🇸🇪 Jag är pappa till två små barn och jag oroar mig för deras framtid. 🇨🇳 我是两个小孩的爸爸，我为他们的未来担心。（[[source-2026-10-20-mejl-till-politiker]]；注意 `deras` = 他们（别人）的，非反身）
 - Se: [[source-2026-06-25-alfred-nobel]]

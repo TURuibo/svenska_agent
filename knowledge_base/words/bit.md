@@ -63,3 +63,4 @@ interval: 0
 - `en bit` + 名词：用于数量表达"一块/一片"，类似英语 "a piece of"。
 - 不可与 `ett stycke` 混淆：`stycke` 更指成件的东西，`bit` 更强调是从整体切/掰下的一部分。
 - 来源: [[source-2026-06-19-pa-cafe-bestalla]]
+- 另义"一段距离"：🇸🇪 Butikerna ligger en bit från centrum. — 🇨🇳 店铺离市中心有一段距离。→ [[en-bit-från]]；来源 [[source-2026-10-20-mejl-till-politiker]]

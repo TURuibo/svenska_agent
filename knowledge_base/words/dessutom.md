@@ -49,3 +49,4 @@ created: "2026-10-01"
 
 - 位于句首时触发 V2 倒装。
 - 来源: [[source-2026-09-22-underhallande-vag-till-spraket]]
+- 🇸🇪 Dessutom ligger butikerna ofta en bit från centrum där hyrorna är lägre. — 🇨🇳 此外，店铺常常离市中心有一段距离，那里租金更低。（论证中引出又一条理由）→ [[source-2026-10-20-mejl-till-politiker]]

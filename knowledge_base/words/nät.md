@@ -54,3 +54,4 @@ created: "2026-10-01"
 
 - 口语里 `nätet` 几乎等于"互联网"。
 - 来源: [[source-2026-09-22-zeina-mourtada]]
+- 🇸🇪 Det är enklare att köpa nya kläder på nätet. — 🇨🇳 在网上买新衣服更方便。→ [[source-2026-10-20-mejl-till-politiker]]（[[på-nätet]]）

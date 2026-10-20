@@ -53,3 +53,4 @@ created: "2026-09-22"
 ## 用法提示 (Usage Notes)
 
 - 来源: [[source-2026-09-22-kulturella-skillnader]]
+- 🇸🇪 I dag skänker många människor gärna sina gamla kläder. — 🇨🇳 如今很多人乐意捐出旧衣服。→ [[source-2026-10-20-mejl-till-politiker]]

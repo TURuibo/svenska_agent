@@ -62,3 +62,4 @@ interval: 0
 - 复合词：klimat + mål（目标）
 - `mål` 是多义词：目标、球门、进球；此处义为"目标"
 - 来源: [[source-2026-06-22-nyheter]]
+- 🇸🇪 Om vi ska klara klimatmålen måste vi göra något nu. → [[sent-om-vi-ska-klara-klimatmålen-måste-vi-göra-något-nu]]；来源 [[source-2026-10-20-mejl-till-politiker]]

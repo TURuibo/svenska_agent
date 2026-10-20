@@ -55,3 +55,4 @@ created: "2026-10-15"
 ## 用法提示 (Usage Notes)
 
 - 也写作 mail；ett-ord。来源: [[source-2026-10-15-ett-perfekt-liv]]
+- 🇸🇪 Läs mejlet till en politiker och svara på frågorna. — 🇨🇳 阅读写给政治家的邮件并回答问题。→ [[source-2026-10-20-mejl-till-politiker]]（正式邮件格式 [[grammar-formellt-mejl]]）

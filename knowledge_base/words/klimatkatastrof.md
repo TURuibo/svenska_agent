@@ -53,3 +53,4 @@ created: "2026-10-01"
 ## 用法提示 (Usage Notes)
 
 - 来源: [[source-2026-09-22-klimatkatastrofen-pakistan]]
+- 🇸🇪 En dag kommer våra barn fråga oss varför vi inte gjorde något för att stoppa en klimatkatastrof. → [[sent-en-dag-kommer-våra-barn-fråga-oss-varför-vi-inte-gjorde-något]]；来源 [[source-2026-10-20-mejl-till-politiker]]

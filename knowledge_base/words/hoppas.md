@@ -62,3 +62,4 @@ OBS: Deponensverb — slutar alltid på -s, men är aktivt i betydelse.
 
 - *Hoppas* 是 deponensverb（形式上是被动，但意义是主动）。始终以 -s 结尾。
 - 后接 att-sats：*Jag hoppas att det går bra* (我希望一切顺利)。
+- 邮件结尾礼貌用语：🇸🇪 Jag hoppas att ni överväger mitt förslag. — 🇨🇳 我希望你们能考虑我的建议。→ [[source-2026-10-20-mejl-till-politiker]]（[[överväga]]）

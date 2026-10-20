@@ -61,4 +61,4 @@ interval: 0
 
 - 复数 `hälsningar` 常用于信件结尾表达：`Hjärtliga hälsningar` / `Kära hälsningar`。
 - `hälsning` 单数更常用于"一条问候"（*en hälsning från din vän*）。
-- 来源: [[source-2026-06-26-inbjudan-kalas]]
+- 来源: [[source-2026-06-26-inbjudan-kalas]]、[[source-2026-10-20-mejl-till-politiker]]（正式邮件结尾 `Med vänliga hälsningar, Dimitris Ariti`）

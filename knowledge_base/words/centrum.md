@@ -67,3 +67,4 @@ created: "2026-10-02"
 
 - 外来词，词尾 **-um** 的 ett-词。"市中心"最常见的用法是 `i centrum / till centrum`，不加冠词。
 - 来源: [[source-2026-10-02-fokus-insandare-fritidsgardar]]
+- 🇸🇪 De skulle kunna flytta sina butiker in till välbesökta centrum och gallerior. — 🇨🇳 他们可以把店铺搬进人流旺的市中心和购物中心。（此处复数 `centrum` 不变；[[välbesökt]]、[[galleria]]）→ [[source-2026-10-20-mejl-till-politiker]]

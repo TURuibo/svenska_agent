@@ -55,3 +55,4 @@ created: "2026-10-01"
 
 - 反身用法 `oroa sig`；非反身时主语是"令人担心的事"：`Det oroar mig.`
 - 来源: [[source-2026-09-22-telefonbedragaren]]、[[source-2026-09-22-trafikolyckan]]
+- 🇸🇪 Jag oroar mig för deras framtid. — 🇨🇳 我为他们的未来担心。→ [[source-2026-10-20-mejl-till-politiker]]；词组 [[oroa-sig-för]]

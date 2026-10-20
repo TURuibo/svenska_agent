@@ -59,3 +59,4 @@ created: "2026-10-20"
 
 - 复合词 `klimat` + `smart`，近年常见的"绿色"广告用语。
 - 来源: [[source-2026-10-20-wwf-5-bn]]
+- 🇸🇪 Då skulle det bli lättare för oss konsumenter att välja klimatsmarta alternativ. — 🇨🇳 那样我们消费者就更容易选择气候友好的方案。→ [[source-2026-10-20-mejl-till-politiker]]

@@ -61,6 +61,8 @@ interval: 0
 
 ## 用法提示 (Usage Notes)
 
+- 📧 市民可向 kommunen 的提案邮箱写信，如 `forslag@kommunen.se`（教材 s.98）→ [[source-2026-10-20-mejl-till-politiker]]
+
 - 瑞典的三级行政体系：*stat*（国家）→ *region*（区域）→ *kommun*（市），共289个 *kommuner*。
 - 市政府负责学校、社会服务、老人护理等本地公共服务。
 

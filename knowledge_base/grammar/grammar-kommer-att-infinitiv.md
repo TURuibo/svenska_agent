@@ -68,6 +68,8 @@ Antalet döda kommer troligtvis att öka mycket.
 - ✅ [[sent-antalet-doda-kommer-troligtvis-att-oka]] 🇸🇪 Antalet döda kommer troligtvis att öka mycket. 🇨🇳 死亡人数很可能还会大幅增加。
 - ✅ 🇸🇪 Det kommer att bli varmt i helgen. 🇨🇳 周末将会很热。
 - ✅ 🇸🇪 Imorgon kommer det att regna i norr. 🇨🇳 明天北部将会下雨。
+- ✅ [[sent-man-vet-inte-i-förväg-vad-som-kommer-att-finnas-där]] 🇸🇪 … vad som kommer att finnas där. 🇨🇳 ……那里会有什么。（来源 [[source-2026-10-20-mejl-till-politiker]]）
+- ⚠️ [[sent-en-dag-kommer-våra-barn-fråga-oss-varför-vi-inte-gjorde-något]] 🇸🇪 En dag kommer våra barn fråga oss … 🇨🇳 总有一天我们的孩子会问我们……（`att` 被省略：口语/随意书写中常见，标准写法仍是 `kommer att fråga`）
 - ❌ *Jag kommer att vilja gå dit.* ← 意愿动词不与 `kommer att` 组合，改用 `vill gå dit`
 
 ## 常见错误 (Common Mistakes)

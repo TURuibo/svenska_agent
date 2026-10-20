@@ -60,4 +60,5 @@ interval: 0
 
 - The key construction is *vara medveten om att/att* + clause: *Jag är medveten om att reglerna gäller.*
 - In formal letters: signals that the writer understands the rules/requirements.
+- 副词 `medvetet`（有意识地；ett-形式兼作副词）：🇸🇪 Det skulle göra det lättare för oss konsumenter att konsumera medvetet. — 🇨🇳 这会让我们消费者更容易理性消费。→ [[source-2026-10-20-mejl-till-politiker]]
 - Distinguish from *avsiktlig/med flit* (intentional/on purpose) — *medveten* = aware, not necessarily intentional.
