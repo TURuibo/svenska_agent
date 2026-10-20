@@ -50,6 +50,8 @@ created: "2026-09-26"
 - 反义词: —
 - 主题: [[topic-förskola-vardag]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`Här får du tips på…` → [[få-tips-på]]）
+
 ## 用法提示 (Usage Notes)
 
 - ⚠️ 单复数同形：*ett tips / flera tips*。中文母语者易误加 -s 当英语复数——瑞典语单数本来就带 s。

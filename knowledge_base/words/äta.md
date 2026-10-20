@@ -34,10 +34,11 @@ interval: 0
 
 | Form | Swedish |
 |------|---------|
-| Infinitiv | att äta |
+| Infinitiv | äta |
 | Presens | äter |
 | Preteritum | åt |
-| Supinum | (har) ätit |
+| Supinum | ätit |
+| Imperativ | ät |
 
 ## 词组搭配 (Collocations)
 
@@ -51,6 +52,7 @@ interval: 0
 - 🇸🇪 Jag **åt** frukost snabbt innan jag gick. — 🇨🇳 我在出门前快速吃了早饭。
 - 🇸🇪 Vi **äter** alltid middag klockan sex. — 🇨🇳 我们总是六点吃晚饭。
 - 🇸🇪 Vad vill du **äta** idag? — 🇨🇳 你今天想吃什么？
+- 🇸🇪 **Ät** mindre men bättre kött. — 🇨🇳 少吃一点但吃更好的肉。（命令式 ät，→ [[sent-ät-mindre-men-bättre-kött]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 
@@ -62,4 +64,4 @@ interval: 0
 ## 用法提示 (Usage Notes)
 
 - 不规则变形：äta → åt → ätit（强变化动词，元音轮换 ä→å→ä）。
-- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]]
+- 来源: [[source-2026-06-09-en-handelse-i-tidsordning]] · [[source-2026-10-20-wwf-5-bn]]

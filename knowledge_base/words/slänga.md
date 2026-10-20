@@ -53,6 +53,8 @@ created: "2026-10-06"
 - 反义词: [[behålla]] (保留)
 - 主题: [[topic-källsortering]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`sluta slänga ätbar mat` → [[sent-ät-mindre-men-bättre-kött]]）
+
 ## 用法提示 (Usage Notes)
 
 - 两个义项：扔掉（废弃）与抛（投掷）。slänga bort 为常用搭配。

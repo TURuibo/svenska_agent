@@ -53,6 +53,14 @@ att ta → Ta!
 
 ## 例句 (Examples)
 
+- 📄 来源 [[source-2026-10-20-wwf-5-bn]]（WWF 小贴士几乎全是命令式：Minska, Fråga, Ät, Spara, var med, Välj）
+  - [[sent-minska-din-belastning-på-jordklotet-genom-att-dra-ner-på]] — **Minska** din belastning på jordklotet…
+  - [[sent-ät-mindre-men-bättre-kött]] — **Ät** mindre men bättre kött, ät mer proteiner…
+  - [[sent-spara-energi-i-din-bostad-och-var-med-och-hejda-klimatförändringarna]] — **Spara** energi… och **var** med och hejda…（vara → var）
+  - [[sent-välj-klimatsmartare-transportsätt-när-det-är-möjligt]] — **Välj** klimatsmartare transportsätt…
+  - 🇸🇪 **Fråga** efter investeringar som inte bidrar till den globala uppvärmningen. 🇨🇳 询问不会助长全球变暖的投资。（→ [[fråga-efter]]）
+
+
 - ✅ [[sent-ga-mot-soder]] 🇸🇪 Gå mot söder. 🇨🇳 往南走。
 - ✅ [[sent-skynda-dig-lite]] 🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。
 - ✅ [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen. 🇨🇳 坐地铁到斯鲁森站。

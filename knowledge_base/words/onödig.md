@@ -49,6 +49,8 @@ created: "2026-10-19"
 - 反义词: [[nödvändig]]
 - 主题: [[topic-allmanna-adjektiv-adverb]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`onödiga eller ohållbara köp` → [[sent-minska-din-belastning-på-jordklotet-genom-att-dra-ner-på]]）
+
 ## 用法提示 (Usage Notes)
 
 - 常用结构：det är onödigt att + 不定式。

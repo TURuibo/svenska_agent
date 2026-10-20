@@ -46,6 +46,8 @@ created: "2026-09-22"
 - 反义词: —
 - 主题: [[]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`överkonsumtion av prylar` → [[sent-minska-din-belastning-på-jordklotet-genom-att-dra-ner-på]]）
+
 ## 用法提示 (Usage Notes)
 
 - 口语、非正式用词，泛指各种小物品/器材。

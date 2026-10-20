@@ -38,3 +38,5 @@ created: "2026-10-14"
 ## 例句 / 对话 (Examples)
 
 - [[sent-samtidigt-som-trafiken-minskar-blir]] 🇸🇪 Samtidigt som trafiken minskar, blir luften renare. 🇨🇳 交通减少的同时，空气也变得更干净。
+- [[sent-spara-energi-i-din-bostad-och-var-med-och-hejda-klimatförändringarna]] 🇸🇪 …samtidigt som du minskar elräkningen. 🇨🇳 ……同时减少电费。（从句在后，不倒装：`som du minskar`）
+- 来源: [[source-2026-10-20-wwf-5-bn]]

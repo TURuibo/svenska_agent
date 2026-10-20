@@ -33,11 +33,11 @@ interval: 0
 
 | Form | Swedish |
 |------|---------|
-| Infinitiv | (att) välja |
-| Imperativ | välj! |
+| Infinitiv | välja |
+| Imperativ | välj |
 | Presens | väljer |
 | Preteritum | valde |
-| Supinum | (har) valt |
+| Supinum | valt |
 | Perfekt particip | vald / valt / valda |
 
 ## 词组搭配 (Collocations)
@@ -62,6 +62,8 @@ interval: 0
 - 同义词: [[utse]]（选定、任命）, [[plocka-ut|plocka ut]]（挑出，口语）
 - 反义词: [[avstå]] (放弃)
 - 主题: —
+
+来源: [[source-2026-10-20-wwf-5-bn]]（`Välj klimatsmartare transportsätt…` → [[sent-välj-klimatsmartare-transportsätt-när-det-är-möjligt]]）
 
 ## 用法提示 (Usage Notes)
 

@@ -50,6 +50,8 @@ created: "2026-10-01"
 - 反义词: —
 - 主题:
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`Många av oss har alternativ…`；复合词 [[sparalternativ]]）
+
 ## 用法提示 (Usage Notes)
 
 - 单复数同形（ett alternativ / två alternativ）。

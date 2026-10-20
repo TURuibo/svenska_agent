@@ -58,6 +58,8 @@ interval: 0
 - 相关词: [[mataffär]], [[livsmedelsbutik]]
 - 主题: [[topic-stadsmiljo]], [[topic-mataffär]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（标题 `Butiken` = 第 1 段「少买」）
+
 ## 用法提示 (Usage Notes)
 
 - `butik` 和 `affär` 可互换，但 `butik` 更正式/书面；`affär` 更口语化

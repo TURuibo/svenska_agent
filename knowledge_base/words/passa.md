@@ -61,6 +61,8 @@ interval: 0
 - 反义词: [[missklä]] (不相配)
 - 主题: [[topic-social-kontakt]], [[topic-fritid-och-resor]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`en utmaning som passar även barnen` = 适合孩子们参与）
+
 ## 用法提示 (Usage Notes)
 
 - "Passar det?" / "Passar det dig?" 是约时间时最常用的问法，非常实用。

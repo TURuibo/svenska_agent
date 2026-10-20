@@ -57,6 +57,12 @@ interval: 0
 
 ## 例句 (Examples)
 
+- 📄 来源 [[source-2026-10-20-wwf-5-bn]]（从句里「主语 + (inte) + 动词」）
+  - 🇸🇪 Fråga efter investeringar **som inte bidrar** till den globala uppvärmningen. 🇨🇳 询问不会助长全球变暖的投资。（som 从句：inte 在动词前）
+  - [[sent-spara-energi-i-din-bostad-och-var-med-och-hejda-klimatförändringarna]] — …samtidigt som **du minskar** elräkningen.
+  - [[sent-välj-klimatsmartare-transportsätt-när-det-är-möjligt]] — …när **det är** möjligt.
+
+
 - ✅ ...eftersom kroppen **inte kan** svalna när det är varmt. — 🇨🇳 …因为身体在热天无法降温。
 - ✅ Jag vet att han **inte är** hemma. — 🇨🇳 我知道他不在家。
 - ✅ Hon ringde när hon **redan hade** ätit. — 🇨🇳 她打电话时已经吃过饭了。

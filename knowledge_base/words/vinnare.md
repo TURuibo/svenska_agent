@@ -58,6 +58,8 @@ interval: 0
 - 反义词: [[förlorare]]（失败者）
 - 主题: [[topic-fotboll]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`…den biologiska mångfalden vinnare!` → [[sent-ät-mindre-men-bättre-kött]]）
+
 ## 用法提示 (Usage Notes)
 
 - vinnare 是双形词（utrum sg/pl 同形）：en vinnare / vinnarna

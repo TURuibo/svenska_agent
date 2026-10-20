@@ -37,6 +37,7 @@ interval: 0
 | presens | sparar |
 | preteritum | sparade |
 | supinum | sparat |
+| imperativ | spara |
 | passiv | sparas |
 
 ## 词组搭配 (Collocations)
@@ -62,6 +63,8 @@ interval: 0
 - 同义词: [[lägga-undan|lägga undan]] (存起来), [[lagra]] (储存)
 - 反义词: [[slösa]], [[förbruka]]
 - 主题: [[topic-miljö-och-klimat]]
+
+来源: [[source-2026-10-20-wwf-5-bn]]（`Spara energi i din bostad…` → [[sent-spara-energi-i-din-bostad-och-var-med-och-hejda-klimatförändringarna]]）
 
 ## 用法提示 (Usage Notes)
 

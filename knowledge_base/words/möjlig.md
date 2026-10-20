@@ -63,6 +63,8 @@ created: "2026-09-26"
 - 反义词: [[omöjlig]]
 - 主题:
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`när det är möjligt` → [[sent-välj-klimatsmartare-transportsätt-när-det-är-möjligt]]）
+
 ## 用法提示 (Usage Notes)
 
 - `Det är möjligt` 里用 **-t**：形容词谓语要和主语 `det` 一致（ett 形式）→ [[grammar-adjektiv-kongruens]]。

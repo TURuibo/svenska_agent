@@ -37,6 +37,9 @@ interval: 0
 
 ## 例句 (Examples)
 
+- [[sent-minska-din-belastning-på-jordklotet-genom-att-dra-ner-på]] 🇸🇪 Minska din belastning på jordklotet **genom att dra ner på** onödiga köp. 🇨🇳 通过减少不必要的购买来减轻你对地球的负担。（来源 [[source-2026-10-20-wwf-5-bn]]）
+
+
 - ✅ [[sent-deras-kamp-var-fredlig-och]] 🇸🇪 De spred sitt budskap genom att skriva artiklar och dela ut flygblad. 🇨🇳 她们通过写文章、发传单来传播理念。
 - ❌ De spred sitt budskap för att skriva artiklar. ← 混淆了方式与目的
 

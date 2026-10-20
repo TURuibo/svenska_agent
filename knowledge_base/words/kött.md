@@ -56,6 +56,8 @@ interval: 0
 - 相关词: [[köttbulle]], [[fläskfilé]], [[kyckling]]
 - 主题: [[topic-mat-dryck]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`Ät mindre men bättre kött` → [[sent-ät-mindre-men-bättre-kött]]）
+
 ## 用法提示 (Usage Notes)
 
 - *kött* 是通称（肉），具体类型用合成词: nötkött, fläskkött, lammkött…

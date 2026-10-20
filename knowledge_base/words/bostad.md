@@ -50,6 +50,8 @@ interval: 0
 - 反义词: —
 - 主题: [[topic-sociala-normer]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`Spara energi i din bostad` → [[sent-spara-energi-i-din-bostad-och-var-med-och-hejda-klimatförändringarna]]）
+
 ## 用法提示 (Usage Notes)
 
 - 不规则复数 bostäder（非 bostader）；在本课文中是"不该直接问陌生人"的话题之一。来自 [[source-2026-09-03-kulturella-skillnader]]。

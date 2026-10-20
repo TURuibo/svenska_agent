@@ -36,6 +36,7 @@ interval: 0
 |---|---|---|---|
 | en fråga | frågan | frågor | frågorna |
 | verb | frågar | frågade | frågat |
+| verb imperativ | fråga | | |
 
 **动词 (verb, grupp 1) — 同形同源，词义"问":**
 
@@ -67,6 +68,8 @@ interval: 0
 - 主题: —
 
 ## 用法提示 (Usage Notes)
+
+- 来源: [[source-2026-10-20-wwf-5-bn]]（`Fråga efter investeringar…`，命令式；→ [[fråga-efter]]）
 
 - "fråga" 既是名词（en fråga = 一个问题）也是动词（att fråga = 问），拼写变形不同要靠上下文/词性判断。
 - 不要与疑问词 [[vad]]、[[vem]] 等混淆：那些是提问时用的具体疑问词，"fråga" 是"提问"这个行为/问题本身。

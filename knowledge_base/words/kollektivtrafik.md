@@ -58,6 +58,8 @@ interval: 0
 - 反义词: [[biltrafik]] (en, 汽车交通)
 - 主题: [[topic-nyheter-vecka22]], [[topic-kollektivtrafik]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`som elbil, kollektivtrafik, tåg och cykel` → [[sent-välj-klimatsmartare-transportsätt-när-det-är-möjligt]]）
+
 ## 用法提示 (Usage Notes)
 
 - 复合词：*kollektiv*（集体的）+ *trafik*（交通）。

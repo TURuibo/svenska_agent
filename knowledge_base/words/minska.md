@@ -63,4 +63,4 @@ interval: 0
 ## 用法提示 (Usage Notes)
 
 - 及物用法：`minska ngt`（减少某物）；不及物用法：`ngt minskar`（某物减少）。
-- 来源: [[source-2026-06-22-greta-thunberg]]
+- 来源: [[source-2026-06-22-greta-thunberg]] · [[source-2026-10-20-wwf-5-bn]]（`Minska din belastning…`，命令式；→ [[sent-minska-din-belastning-på-jordklotet-genom-att-dra-ner-på]]）

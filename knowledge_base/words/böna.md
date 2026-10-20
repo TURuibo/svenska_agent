@@ -56,6 +56,8 @@ interval: 0
 - 反义词: —
 - 主题: [[topic-mat-dryck]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`bönor, linser, ärtor` → [[sent-ät-mindre-men-bättre-kött]]）
+
 ## 用法提示 (Usage Notes)
 
 - En-ord，复数变化 -or: bönor。

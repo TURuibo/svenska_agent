@@ -49,6 +49,8 @@ created: 2026-10-09
 - 反义词: —
 - 主题: [[topic-argumentation]]
 
+来源: [[source-2026-10-20-wwf-5-bn]]（`Det här är en utmaning som passar även barnen.`）
+
 ## 用法提示 (Usage Notes)
 
 - 常与 stå inför / möta 搭配：`stå inför en utmaning`。
