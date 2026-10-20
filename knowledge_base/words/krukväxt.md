@@ -49,6 +49,7 @@ interval: 0
 - 🇸🇈 Framför fönstret **står** en stor krukväxt. — 🇨🇳 窗户前面立着一棵大盆栽植物。
 - 🇸🇈 Jag glömde att vattna krukväxten. — 🇨🇳 我忘了给盆栽浇水。
 - 🇸🇈 Det **finns** många krukväxter i lägenheten. — 🇨🇳 公寓里有很多盆栽植物。
+- 🇸🇪 Blommor, ört-/salladskrukor, krukväxter (NEJ). — 🇨🇳 花、香草/生菜盆、盆栽植物（不能放进厨余垃圾；[[source-2026-10-20-sortera-matavfall]]，→ [[kruka]]、[[salladskruka]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

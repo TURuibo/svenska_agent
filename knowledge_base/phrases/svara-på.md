@@ -48,3 +48,4 @@ interval: 0
 - 🇸🇪 Vad svarade han på frågan? — 🇨🇳 他如何回答了这个问题？
 - 🇸🇪 Kan du svara på det här mejlet? — 🇨🇳 你能回复这封邮件吗？
 - 🇸🇪 Hon svarade inte på min fråga. — 🇨🇳 她没有回答我的问题。
+- 🇸🇪 Läs informationsbladet och svara på frågorna. — 🇨🇳 阅读信息单并回答问题。（教材指令，祈使式；来源 [[source-2026-10-20-sortera-matavfall]]）

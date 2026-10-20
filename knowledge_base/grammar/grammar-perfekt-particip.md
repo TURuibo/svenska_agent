@@ -5,7 +5,7 @@ zh: "完成分词作表语/短答"
 en: "past participle as predicate / short answer"
 level: "A2 / SFI C"
 related: [grammar-perfekt, grammar-supinum, grammar-adjektiv-kongruens, grammar-participial-adjektiv, grammar-s-passiv]
-examples: [sent-hittad, sent-påminnelse-planeringsdag-på-måndag-förskolan, sent-swishat]
+examples: [sent-felsorterat-matavfall-hämtas-inte, sent-lägg-över-det-som-är-felsorterat-i-de-vanliga-soporna, sent-hittad, sent-påminnelse-planeringsdag-på-måndag-förskolan, sent-swishat]
 known: false
 created: "2026-09-26"
 ---
@@ -51,6 +51,9 @@ created: "2026-09-26"
 - ✅ [[sent-swishat]] 🇸🇪 Swishat! 🇨🇳 已转！（supinum 省略）
 - ✅ 🇸🇪 Lekträffen är inställd. 🇨🇳 玩耍约定取消了。
 - ✅ 🇸🇪 Vantarna är hittade! 🇨🇳 手套（复数）找到了！
+- ✅ [[sent-felsorterat-matavfall-hämtas-inte]] 🇸🇪 **Felsorterat** matavfall hämtas inte. 🇨🇳 分错类的厨余垃圾不会被收走。（定语位置；*matavfall* 是 ett-ord → -at；[[felsortera]]；来源 [[source-2026-10-20-sortera-matavfall]]）
+- ✅ [[sent-lägg-över-det-som-är-felsorterat-i-de-vanliga-soporna]] 🇸🇪 …det som är **felsorterat**… 🇨🇳 ……分错类的部分……（表语，对应 det → -at）
+- ✅ 🇸🇪 **Ofärgat** hushållspapper. 🇨🇳 无色厨房纸。（ofärgad + ett-ord *papper* → ofärgat；[[ofärgad]]）
 - ❌ *Vanten är hittat.* ← en-ord 要用 *hittad*
 - ❌ *Förskolan är stängt.* ← *förskolan* 是 en-ord → *stängd*
 

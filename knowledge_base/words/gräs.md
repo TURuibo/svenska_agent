@@ -50,6 +50,7 @@ interval: 0
 - 🇸🇪 Gräset i parken är grönt och fint. — 🇨🇳 公园里的草又绿又漂亮。
 - 🇸🇪 Vi sitter i gräset och äter lunch. — 🇨🇳 我们坐在草地上吃午饭。
 - 🇸🇪 Han klipper gräset varje vecka. — 🇨🇳 他每周割一次草。
+- 🇸🇪 Gräs, jord, trädgårdsavfall (NEJ). — 🇨🇳 草、土、园林垃圾（不能放进厨余垃圾）。（[[source-2026-10-20-sortera-matavfall]]，→ [[trädgårdsavfall]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

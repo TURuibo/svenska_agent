@@ -5,7 +5,7 @@ zh: "最高级"
 en: "Superlative"
 level: "A2"
 related: ["grammar-komparativ", "grammar-adjektiv-bojning"]
-examples: ["sent-sveriges-största-ö-heter-gotland", "sent-gotland-är-också-en-av-de-mest"]
+examples: ["sent-den-bästa-miljöinsatsen-du-kan-göra-är-att-äta-upp-maten", "sent-sveriges-största-ö-heter-gotland", "sent-gotland-är-också-en-av-de-mest"]
 known: false
 created: "2026-06-30"
 reviewed: ""
@@ -99,6 +99,8 @@ Sveriges bästa mat（瑞典最好的食物）
 - ✅ [[sent-sveriges-största-ö-heter-gotland]] 🇸🇪 Sveriges största ö heter Gotland. 🇨🇳 瑞典最大的岛叫哥特兰。
 - ✅ [[sent-gotland-är-också-en-av-de-mest]] 🇸🇪 Gotland är en av de mest solsäkra platserna i Sverige. 🇨🇳 哥特兰是瑞典日照最充足的地方之一。
 - ✅ 🇸🇪 Vad är det bästa sättet att lära sig svenska? 🇨🇳 学瑞典语最好的方法是什么？
+- ✅ [[sent-den-bästa-miljöinsatsen-du-kan-göra-är-att-äta-upp-maten]] 🇸🇪 **Den bästa** miljöinsatsen du kan göra… 🇨🇳 你能做的最好的环保行动……（bra → bäst → den **bästa**；来源 [[source-2026-10-20-sortera-matavfall]]）
+- ✅ 🇸🇪 Tillsammans för världens **mest hållbara** stad. 🇨🇳 一起建设世界上最可持续的城市。（分析式：mest + hållbara；所有格 världens + 最高级 → [[hållbar]]、[[grammar-genitiv-s]]）
 - ❌ `den störst ön` ← 缺少定式 `-a` 后缀
 - ❌ `mest stor` ← 单音节词不用 `mest`（应用 `-ast`：`störst`）
 

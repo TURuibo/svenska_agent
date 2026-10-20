@@ -47,6 +47,7 @@ interval: 0
 - 🇸🇪 Jag äter en morot till lunch. — 🇨🇳 我午饭吃了一根胡萝卜。
 - 🇸🇪 Morötter är bra för ögonen. — 🇨🇳 胡萝卜对眼睛有好处。
 - 🇸🇪 Kan du köpa morötter i affären? — 🇨🇳 你能在商店买胡萝卜吗？
+- 🇸🇪 Skal från morötter är matavfall. — 🇨🇳 胡萝卜皮是厨余垃圾。（练习题3，答案：Rätt；[[source-2026-10-20-sortera-matavfall]]，→ [[skal]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

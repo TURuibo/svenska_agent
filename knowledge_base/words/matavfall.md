@@ -49,6 +49,7 @@ interval: 0
 - 🇸🇪 Matavfallet ska läggas i den bruna påsen. — 🇨🇳 厨余垃圾要放进棕色袋子里。
 - 🇸🇪 Vi har en behållare för matavfall i köket. — 🇨🇳 我们厨房里有一个厨余垃圾桶。
 - 🇸🇪 Av matavfall kan man göra biogas. — 🇨🇳 厨余垃圾可以用来制作沼气。
+- 🇸🇪 Felsorterat matavfall hämtas inte. — 🇨🇳 分错类的厨余垃圾不会被收走。（[[source-2026-10-20-sortera-matavfall]]，→ [[felsortera]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

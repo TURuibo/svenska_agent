@@ -40,6 +40,7 @@ created: "2026-10-20"
 - 🇸🇪 Gillar du skaldjur? — 🇨🇳 你喜欢海鲜吗？
 - 🇸🇪 Räkor och musslor är skaldjur. — 🇨🇳 虾和贻贝是贝类海鲜。
 - 🇸🇪 På västkusten äter man mycket skaldjur. — 🇨🇳 西海岸的人吃很多海鲜。
+- 🇸🇪 Kött, fisk, skaldjur. — 🇨🇳 肉、鱼、海鲜（厨余垃圾 JA 列表；所以虾壳也是厨余垃圾）。（[[source-2026-10-20-sortera-matavfall]]，→ [[skal]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

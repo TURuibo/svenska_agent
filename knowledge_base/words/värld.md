@@ -30,9 +30,9 @@ interval: 0
 
 ## 语法变形 (Forms)
 
-| Obestämd sing. | Bestämd sing. | Obestämd plur. | Bestämd plur. |
-|---|---|---|---|
-| en värld | världen | världar | världarna |
+| Obestämd sing. | Bestämd sing. | Obestämd plur. | Bestämd plur. | Genitiv (bestämd sg) |
+|---|---|---|---|---|
+| en värld | världen | världar | världarna | världens |
 
 ## 词组搭配 (Collocations)
 
@@ -45,6 +45,7 @@ interval: 0
 - 🇸🇪 Sverige är ett litet land i världen. — 🇨🇳 瑞典是世界上一个小国。
 - 🇸🇪 Kriget påverkade hela världen. — 🇨🇳 战争影响了整个世界。
 - 🇸🇪 Vad hände ute i världen efter kriget? — 🇨🇳 战后世界各地发生了什么？
+- 🇸🇪 Tillsammans för världens mest hållbara stad. — 🇨🇳 一起建设世界上最可持续的城市。（属格 världens；[[source-2026-10-20-sortera-matavfall]]，→ [[grammar-genitiv-s]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

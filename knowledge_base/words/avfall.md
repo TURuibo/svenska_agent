@@ -50,6 +50,7 @@ interval: 0
 - 🇸🇪 Farligt avfall ska inte kastas i vanliga sopor. — 🇨🇳 危险废品不能扔进普通垃圾桶。
 - 🇸🇪 Det finns många typer av avfall hemma. — 🇨🇳 家里有很多种垃圾。
 - 🇸🇪 Vi minskar avfallet genom att återvinna. — 🇨🇳 我们通过回收利用来减少垃圾。
+- 🇸🇪 Gräs, jord, trädgårdsavfall är inte matavfall. — 🇨🇳 草、土、园林垃圾不是厨余垃圾。（[[source-2026-10-20-sortera-matavfall]]，→ [[trädgårdsavfall]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

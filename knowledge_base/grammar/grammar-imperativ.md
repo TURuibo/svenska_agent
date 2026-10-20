@@ -7,6 +7,9 @@ level: "A1"
 related:
   - grammar-reflexivt-verb
 examples:
+  - sent-kom-ihåg-att-ta-bort-förpackningen
+  - sent-förslut-påsen-genom-att-rulla-ihop-den
+  - sent-lägg-över-det-som-är-felsorterat-i-de-vanliga-soporna
   - sent-ga-mot-soder
   - sent-skynda-dig-lite
   - sent-ta-tunnelbanan-till-slussen
@@ -65,6 +68,13 @@ att ta → Ta!
 - ✅ [[sent-skynda-dig-lite]] 🇸🇪 Skynda dig lite. 🇨🇳 稍微快点。
 - ✅ [[sent-ta-tunnelbanan-till-slussen]] 🇸🇪 Ta tunnelbanan till Slussen. 🇨🇳 坐地铁到斯鲁森站。
 - ✅ [[sent-fortsatt-lite-till-gra-dorr]] 🇸🇪 Fortsätt lite till. 🇨🇳 再往前走一点。
+- 📄 来源 [[source-2026-10-20-sortera-matavfall]]（垃圾分类信息单 = 一整篇命令式）
+  - [[sent-kom-ihåg-att-ta-bort-förpackningen]] — **Kom** ihåg att ta bort förpackningen!（komma → kom，不规则）
+  - [[sent-förslut-påsen-genom-att-rulla-ihop-den]] — **Förslut** påsen…（försluta → förslut，词干）
+  - [[sent-lägg-över-det-som-är-felsorterat-i-de-vanliga-soporna]] — **Lägg** över … eller **beställ** extra hämtning.（lägga → lägg；beställa → beställ，并列祈使）
+  - 🇸🇪 **Släng** inte bra mat! 🇨🇳 不要扔还能吃的食物！（否定祈使：inte 放在动词后）
+  - 🇸🇪 **Läs** informationsbladet och **svara** på frågorna. 🇨🇳 阅读信息单并回答问题。
+  - 🇸🇪 **Kontakta** kundtjänst på tel. 08-522 120 00. 🇨🇳 请联系客服。
 - ❌ *Går mot söder.* ← 不用现在时，要用词干/祈使形
 
 ## 常见错误 (Common Mistakes)

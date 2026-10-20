@@ -44,6 +44,7 @@ created: "2026-10-01"
 - 🇸🇪 Zeinas första inlägg var på labhnebollar rullade i kryddor. — 🇨🇳 Zeina 的第一篇帖子是裹着香料的酸奶奶酪球。
 - 🇸🇪 Bollen rullar nerför backen. — 🇨🇳 球滚下山坡。
 - 🇸🇪 Vi rullar köttbullar till middag. — 🇨🇳 我们搓肉丸当晚饭。
+- **卷起（rulla ihop）:** 🇸🇪 Förslut påsen genom att rulla ihop den. — 🇨🇳 把袋子卷起来封口。（[[source-2026-10-20-sortera-matavfall]]，→ [[rulla-ihop]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

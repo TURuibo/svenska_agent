@@ -52,6 +52,8 @@ interval: 0
   🇨🇳 医生给了她关于饮食的建议。
 - 🇸🇪 Jag har inte **råd** att köpa en ny cykel.
   🇨🇳 我负担不起买一辆新自行车。
+- 🇸🇪 TIPS OCH RÅD: Förslut påsen genom att rulla ihop den.
+  🇨🇳 小贴士与建议：把袋子卷起来封口。（信息单栏目名；[[source-2026-10-20-sortera-matavfall]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

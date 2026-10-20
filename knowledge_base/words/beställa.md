@@ -54,6 +54,7 @@ interval: 0
 - 🇸🇪 Vill ni beställa något att dricka först? — 🇨🇳 你们要先点点喝的吗？
 - 🇸🇪 Jag vill beställa köttbullar med potatismos. — 🇨🇳 我想点肉丸配土豆泥。
 - 🇸🇪 Vi beställde en flaska rödvin. — 🇨🇳 我们点了一瓶红酒。
+- 🇸🇪 Beställ extra hämtning. — 🇨🇳 预约额外收运。（祈使式；[[source-2026-10-20-sortera-matavfall]]，→ [[beställa-extra-hämtning]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

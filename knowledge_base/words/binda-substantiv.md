@@ -8,7 +8,7 @@ zh: "卫生巾"
 en: "sanitary pad"
 synonyms: [mensskydd]
 antonyms: []
-family: [binda, band, damm-binda]
+family: [binda, band]
 topics: [topic-källsortering]
 sentences: []
 known: false

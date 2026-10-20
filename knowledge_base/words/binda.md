@@ -52,6 +52,7 @@ created: "2026-10-01"
 - 词族: [[band]]
 - 同义词: [[knyta]] (系), [[fästa]] (固定)
 - 反义词: [[lossa]] (解开)
+- homonym: [[binda-substantiv]] (en binda = 卫生巾，复数 bindor；同形异义，与本动词无关)
 - 主题:
 
 ## 用法提示 (Usage Notes)

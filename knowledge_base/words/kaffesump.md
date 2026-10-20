@@ -47,6 +47,7 @@ interval: 0
 - 🇸🇪 Lägg kaffesumpen i påsen för matavfall. — 🇨🇳 把咖啡渣放进厨余垃圾袋里。
 - 🇸🇪 Kaffesump är bra för komposten. — 🇨🇳 咖啡渣对堆肥很好。
 - 🇸🇪 Teblad och kaffesump är matavfall. — 🇨🇳 茶叶和咖啡渣都是厨余垃圾。
+- 🇸🇪 Teblad, tepåsar, kaffesump, filter, ofärgat hushållspapper. — 🇨🇳 茶叶、茶包、咖啡渣、滤纸、无色厨房纸（JA 列表）。（[[source-2026-10-20-sortera-matavfall]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

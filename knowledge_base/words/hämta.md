@@ -40,6 +40,9 @@ interval: 0
 | Presens | hämtar |
 | Preteritum | hämtade |
 | Supinum | (har) hämtat |
+| S-passiv | hämtas |
+| S-passiv pret. | hämtades |
+| Perfekt particip | hämtad |
 
 ## 词组搭配 (Collocations)
 
@@ -53,6 +56,7 @@ interval: 0
 - 🇸🇪 Jag **hämtar** barnen från förskolan klockan fyra. — 🇨🇳 我四点钟去幼儿园接孩子们。
 - 🇸🇪 Kan du **hämta** paketet på posten? — 🇨🇳 你能去邮局取一下包裹吗？
 - 🇸🇪 Han **hämtade** ett glas vatten åt henne. — 🇨🇳 他给她取了一杯水。
+- 🇸🇪 Felsorterat matavfall **hämtas** inte. — 🇨🇳 分错类的厨余垃圾不会被收走。（s-被动，垃圾「收走」义；[[source-2026-10-20-sortera-matavfall]]，→ [[grammar-s-passiv]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

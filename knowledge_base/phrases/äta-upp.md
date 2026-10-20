@@ -11,7 +11,7 @@ head_words: ["äta"]
 grammar: ["grammar-partikelverb"]
 related: []
 topics: ["topic-djur"]
-sentences: ["sent-sniglarna-ater-upp-bade-gronsaker"]
+sentences: ["sent-sniglarna-ater-upp-bade-gronsaker", "sent-den-bästa-miljöinsatsen-du-kan-göra-är-att-äta-upp-maten"]
 known: false
 created: "2026-06-26"
 reviewed: ""
@@ -47,3 +47,4 @@ interval: 0
 - [[sent-sniglarna-ater-upp-bade-gronsaker]] 🇸🇪 Sniglarna äter upp både grönsaker och blommor. 🇨🇳 蛞蝓会把蔬菜和花卉都吃光。
 - 🇸🇪 Ät upp din mat innan du får glass! — 🇨🇳 把你的饭吃完才能吃冰淇淋！
 - 🇸🇪 Barnen åt upp allt på tallrikarna. — 🇨🇳 孩子们把盘子里的东西都吃光了。
+- [[sent-den-bästa-miljöinsatsen-du-kan-göra-är-att-äta-upp-maten]] 🇸🇪 Den bästa miljöinsatsen du kan göra är att äta upp maten. 🇨🇳 你能做的最好的环保行动就是把饭吃完。（来源 [[source-2026-10-20-sortera-matavfall]]）

@@ -53,5 +53,5 @@ created: "2026-10-20"
 
 ## 用法提示 (Usage Notes)
 
-- 常作复合词后半部分：glasspinne、grillpinne、tandpetare 除外。
+- 常作复合词后半部分：glasspinne、grillpinne、ätpinne。
 - 来源: [[source-2026-10-20-sortera-matavfall]]

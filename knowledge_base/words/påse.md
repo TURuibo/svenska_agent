@@ -51,6 +51,7 @@ interval: 0
 - 🇸🇪 Bind ihop påsen innan du lägger den utomhus. — 🇨🇳 在放到室外之前把袋子扎好。
 - 🇸🇪 Kan jag få en plastpåse? — 🇨🇳 我可以要一个塑料袋吗？
 - 🇸🇪 Påsen för restavfall är grå. — 🇨🇳 普通垃圾袋是灰色的。
+- 🇸🇪 Förslut påsen genom att rulla ihop den. — 🇨🇳 把袋子卷起来封口。（[[source-2026-10-20-sortera-matavfall]]，→ [[försluta]]、[[tepåse]]、[[bioplastpåse]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -9,7 +9,7 @@ en: "napkin; serviette"
 synonyms: []
 antonyms: []
 family: [pappersservett, servetthållare]
-topics: [topic-kafe-fika, topic-mat-dryck]
+topics: [topic-kafe-fika, topic-mat-dryck, topic-hemmet, topic-källsortering]
 sentences: []
 known: false
 created: "2026-06-27"
@@ -47,6 +47,7 @@ interval: 0
 - 🇸🇪 Kan du hämta några servetter? — 🇨🇳 你能去拿几张餐巾吗？
 - 🇸🇪 Sätt dig, jag hämtar servetterna. — 🇨🇳 你坐，我去拿餐巾。
 - 🇸🇪 Det finns servetter på bordet. — 🇨🇳 桌上有餐巾。
+- 🇸🇪 Servetter med tryck/färg (NEJ). — 🇨🇳 有印花/颜色的餐巾纸（不能放进厨余垃圾）。（[[source-2026-10-20-sortera-matavfall]]，→ [[tryck]]、[[färg]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

@@ -35,6 +35,7 @@ created: "2026-10-14"
 - 🇸🇪 Rengör filtret efter varje tvätt. — 🇨🇳 每次洗完后请清洁过滤网。
 - 🇸🇪 Jag byter filter i kaffemaskinen. — 🇨🇳 我给咖啡机换滤网。
 - 🇸🇪 Ett smutsigt filter kan ge fel. — 🇨🇳 脏的过滤网可能导致故障。
+- **咖啡滤纸:** 🇸🇪 Teblad, tepåsar, kaffesump, filter (JA). — 🇨🇳 茶叶、茶包、咖啡渣、滤纸（可放进厨余垃圾）。（[[source-2026-10-20-sortera-matavfall]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

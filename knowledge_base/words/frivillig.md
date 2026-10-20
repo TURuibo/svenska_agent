@@ -50,6 +50,7 @@ interval: 0
 - 🇸🇪 Dricks är helt frivilligt i Sverige. — 🇨🇳 在瑞典小费完全是自愿的。
 - 🇸🇪 Deltagandet i kursen är frivilligt. — 🇨🇳 参加这门课是自愿的。
 - 🇸🇪 Frivilligarbete är vanligt i Sverige. — 🇨🇳 志愿工作在瑞典很常见。
+- 🇸🇪 Att sortera matavfall är frivilligt. — 🇨🇳 分类厨余垃圾是自愿的。（练习题1，答案：Fel，因为 [[obligatorisk]] sedan 1 jan 2023；[[source-2026-10-20-sortera-matavfall]]，→ [[grammar-infinitiv-subjekt]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 

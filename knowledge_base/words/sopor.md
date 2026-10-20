@@ -45,6 +45,7 @@ created: "2026-10-06"
 - 🇸🇪 Jag tar ut soporna varje kväll. — 🇨🇳 我每天晚上把垃圾拿出去。
 - 🇸🇪 Man ska sortera soporna i olika kärl. — 🇨🇳 要把垃圾分到不同的容器里。
 - 🇸🇪 Det ligger sopor i skogen. — 🇨🇳 森林里有垃圾。
+- 🇸🇪 Lägg över det som är felsorterat i de vanliga soporna. — 🇨🇳 把分错类的转放进普通垃圾里。（[[source-2026-10-20-sortera-matavfall]]，→ [[sent-lägg-över-det-som-är-felsorterat-i-de-vanliga-soporna]]）
 
 ## 词族 / 同义 / 反义 (Relations)
 
