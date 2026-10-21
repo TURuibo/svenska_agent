@@ -3,7 +3,7 @@ type: topic
 name: "yrken"
 kind: semantic-field
 zh: 职业（语义场）
-members: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba, författare, proffs, barista, kassör, läkare, bagare, hantverksbageri, rörmokare]
+members: [bonde, sekreterare, hemmafru, barnboksförfattare, arbeta, jobba, författare, proffs, barista, kassör, läkare, bagare, hantverksbageri, rörmokare, busschaufför, passagerare, tidtabell, vägarbete, ansvarsfull]
 created: "2026-06-02"
 ---
 
@@ -25,6 +25,12 @@ created: "2026-06-02"
 - [[kassör]] — 收银员 (cashier)
 - [[bagare]] — 面包师 (baker)
 - [[hantverksbageri]] — 手工面包房 (artisan bakery)
+
+- [[busschaufför]] — 公交司机 (bus driver)
+- [[passagerare]] — 乘客 (passenger)
+- [[tidtabell]] — 时刻表 (timetable)
+- [[vägarbete]] — 道路施工 (roadworks)
+- [[ansvarsfull]] — 有责任心的 (responsible)
 
 ## 备注 (Notes)
 

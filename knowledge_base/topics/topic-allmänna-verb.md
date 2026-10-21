@@ -3,7 +3,7 @@ type: topic
 name: "allmänna-verb"
 kind: thematic
 zh: "通用动词（高频、跨领域的基础动词）"
-members: [betyda, genomföra, beskriva, fatta, falla, ingå, stödja, hantera, skydda, hindra, råda, förbereda, kontrollera, synas, grunda, pröva, beröra, inträffa, underlätta, misslyckas, upprepa, prova, bidra-till, fatta-beslut, råda-någon-att, hindra-från-att, skydda-mot]
+members: [betyda, genomföra, beskriva, fatta, falla, ingå, stödja, hantera, skydda, hindra, råda, förbereda, kontrollera, synas, grunda, pröva, beröra, inträffa, underlätta, misslyckas, upprepa, prova, bidra-till, fatta-beslut, råda-någon-att, hindra-från-att, skydda-mot, riva, förlänga, beklaga, räkna-ut, ske, föra, renovera, syssla-med, imponera-på, få-reda-på, känna-till, sätta-igång, föra-en-dialog]
 created: "2026-10-02"
 ---
 
