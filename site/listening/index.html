@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Lyssna — Swedish Listening</title>
     <link rel="stylesheet" href="../styles.css?v=3" />
-    <link rel="stylesheet" href="listening.css?v=2" />
+    <link rel="stylesheet" href="listening.css?v=3" />
     <link rel="stylesheet" href="../kb-popover.css?v=4" />
   </head>
   <body class="listenBody" data-site="listening">
@@ -58,6 +58,10 @@
               <button type="button" id="toggleLoop" class="toggleBtn" title="循环当前这句">🔁 单句循环</button>
               <button type="button" id="toggleAuto" class="toggleBtn active" title="跟随播放自动滚动并高亮">🎯 自动跟随</button>
             </div>
+            <div class="ctrlGroup">
+              <button type="button" id="epMarkRead" class="toggleBtn">标为已读</button>
+              <button type="button" class="toggleBtn" data-readsync>☁️ 同步</button>
+            </div>
           </div>
 
           <ol id="transcript" class="transcript" aria-label="Transcript"></ol>
@@ -89,7 +93,8 @@
     <script src="../kb-markdown.js?v=5"></script>
     <script src="../kb-store.js?v=5"></script>
     <script src="../speak.js?v=3"></script>
-    <script src="listening.js?v=5"></script>
+    <script src="../read-sync.js?v=1"></script>
+    <script src="listening.js?v=6"></script>
     <script src="../nav.js?v=4"></script>
   </body>
 </html>

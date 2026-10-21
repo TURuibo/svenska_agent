@@ -47,20 +47,10 @@
     `数据更新于 ${data.generatedAt} · 共 ${articles.length} 篇` +
     (TALA ? ` · 🎭 ${articles.filter((a) => a.dialog).length} 篇可角色扮演` : '');
 
-  // ---------- local state (已读 marker) ----------
+  // ---------- 已读 marker (synced via ../read-sync.js — the routines' activity signal) ----------
 
-  const LS_READ = 'lasning.read.v1';
-  function loadSet(key) {
-    try { const a = JSON.parse(localStorage.getItem(key) || '[]'); return new Set(Array.isArray(a) ? a : []); }
-    catch (_e) { return new Set(); }
-  }
-  function saveSet(key, set) { try { localStorage.setItem(key, JSON.stringify(Array.from(set))); } catch (_e) {} }
-  const readSet = loadSet(LS_READ);
-  const isRead = (slug) => readSet.has(slug);
-  function toggleRead(slug) {
-    if (readSet.has(slug)) readSet.delete(slug); else readSet.add(slug);
-    saveSet(LS_READ, readSet);
-  }
+  const isRead = (slug) => window.ReadSync.isRead(slug);
+  const toggleRead = (slug) => window.ReadSync.toggle(slug);
 
   // ---------- markdown → HTML ----------
 
@@ -1026,11 +1016,8 @@
       });
     }
 
-    document.getElementById('markReadBtn').addEventListener('click', () => {
-      toggleRead(slug);
-      openArticle(slug);   // re-render head + card state
-      renderList();
-    });
+    // The ReadSync.onChange handler (init) repaints this button and the list.
+    document.getElementById('markReadBtn').addEventListener('click', () => toggleRead(slug));
     document.getElementById('mobileBackBtn').addEventListener('click', backToList);
 
     // 逐段精读: one button opens/closes every paragraph card at once.
@@ -1217,6 +1204,18 @@
   renderLearnBtn();
 
   // ---------- init ----------
+
+  // A mark here, on another device (pulled on load / tab focus), or a sync result.
+  function paintRead() {
+    renderList();
+    const btn = document.getElementById('markReadBtn');
+    if (btn && currentSlug) {
+      const read = isRead(currentSlug);
+      btn.classList.toggle('on', read);
+      btn.textContent = read ? '✓ 已读' : '标为已读';
+    }
+  }
+  window.ReadSync.onChange(paintRead);
 
   renderList();
   // A deep link (#article=…) opens that article directly on any device — the

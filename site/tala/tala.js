@@ -41,8 +41,8 @@
   const plain = (s) => String(s || '').replace(/[*_]/g, '').trim();
 
   // ---------- state ----------
-  // One practice context per open scenario. Re-opening the same scenario (e.g.
-  // "标为已读" re-renders the pane) keeps the mode / role / position / recordings.
+  // One practice context per open scenario. Re-opening the same scenario keeps
+  // the mode / role / position / recordings.
   let ctx = null;
   let timer = null;
   let rec = null;   // active MediaRecorder session { mr, stream, slug, i }
