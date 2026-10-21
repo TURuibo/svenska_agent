@@ -5155,6 +5155,9 @@
   "plats": [
     "source-2026-10-20-plats-goteborg"
   ],
+  "adjsubst-bojning": [
+    "source-2026-10-21-adjsubst-hem-mobler"
+  ],
   "topic": [
     "topic-allemansratten",
     "topic-allmanna-adjektiv-adverb",
@@ -6708,6 +6711,7 @@
     "kasse",
     "kassör",
     "kasta",
+    "kastrull",
     "katastrof",
     "katt",
     "kattsand",
@@ -7058,6 +7062,7 @@
     "ljudbok",
     "ljus",
     "lo",
+    "lock",
     "locka",
     "logga",
     "lögn",
@@ -7958,6 +7963,7 @@
     "skapa",
     "skär",
     "skärgård",
+    "skarp",
     "skata",
     "skateboard",
     "skatt",
