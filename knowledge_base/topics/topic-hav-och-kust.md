@@ -4,7 +4,7 @@ slug: topic-hav-och-kust
 name: "Hav, kust & skärgård"
 zh: "海洋、海岸与群岛"
 en: "Sea, coast & archipelago"
-members: ["strömming", "skärgård", "hav", "västkust", "skaldjur"]
+members: ["strömming", "skärgård", "hav", "västkust", "skaldjur", "brackvatten"]
 created: "2026-06-29"
 ---
 
@@ -21,6 +21,7 @@ created: "2026-06-29"
 | [[hav]] | substantiv (ett) | 海；大海 |
 | [[västkust]] | substantiv (en) | 西海岸 |
 | [[skaldjur]] | substantiv (ett) | 贝类海鲜 |
+| [[brackvatten]] | substantiv (ett) | 半咸水 |
 
 ## 相关词汇 (Related)
 
