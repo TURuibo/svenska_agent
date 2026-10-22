@@ -519,7 +519,7 @@ routine 第 0 步：node tools/activity-gate.js   （git fetch origin read-log �
 
 | 要点 | 说明 |
 |---|---|
-| 推送凭证 | 每台设备点一次 **☁️ 同步** 按钮，粘贴 fine-grained token（只选本仓库，Contents = Read and write），只存在该浏览器 localStorage。没 token 时按钮显示「📱 仅本机」（金色）：标记只在本机，定时任务看不到 |
+| 推送凭证 | 每台设备点一次 **☁️ 同步** 按钮，粘贴 fine-grained token（只选本仓库，Contents = Read and write，**Expiration 选最长**——过期后推不上去，定时任务会以为没在读），只存在该浏览器 localStorage。没 token 时按钮显示「📱 仅本机」（金色），标为已读时每天提醒一次：标记只在本机，定时任务看不到。⚠️ iOS Safari 约 7 天没打开网站会清掉站点数据（含 token）→ 把网站「添加到主屏幕」可免清，token 存进密码管理器方便重贴 |
 | 还没标过已读 | 从 `read-log.json` 的 `created` 起算 48 小时 |
 | `null` 时间 | 同步上线前的旧本机标记（`lasning.read.v1` 自动迁移），显示为已读但**不算**新的活跃 |
 | 取消已读 | 从 `reads` 删掉，但 `lastMarkedAt` 保留 —— 活跃时间不会倒退 |
