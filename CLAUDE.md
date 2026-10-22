@@ -204,6 +204,7 @@ level-appropriate Swedish dialogue, functional text, or narrative on the request
 routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，routine 无需改动**。routine prompt：
 ```
 在 remote 环境里生成今日情景练习并入库：
+0. 按 CLAUDE.md §4.9 跑 `node tools/activity-gate.js`（看 Ruibo 最近 48 小时有没有标记已读）：SKIP 就直接结束（不生成、不 commit、不开 PR）
 1. /dagens-scenario   （批量：按 day-of-year 生成当天 5 篇，一周轮完 35 体裁，不需联网）
 2. 对刚生成的**每一个** inbox/scenario-<date>-*.md（今天 5 篇）逐篇跑 /import（spawn librarian/importer 用前台，每篇等完整 manifest 再做下一篇）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
@@ -321,6 +322,7 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 （和 §4.6 阅读文章同一模式），桌面关着也能每天跑。环境需**允许出站访问**（抓 8 Sidor）。routine prompt：
 ```
 在 remote 环境里抓今日瑞典语简易新闻并入库：
+0. 按 CLAUDE.md §4.9 跑 `node tools/activity-gate.js`（看 Ruibo 最近 48 小时有没有标记已读）：SKIP 就直接结束（不生成、不 commit、不开 PR）
 1. /dagens-nyheter
 2. 对刚生成的 inbox/news-*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
@@ -360,6 +362,7 @@ Chrome/Edge 可跨域播放；Safari 走原生 HLS)。功能：逐句字幕**点
 `listening/*.json`+跑 `build-listening-site.js`，又写 `inbox/horning-<DATE>.md` 供 `/import`(让生词进 KB)。routine prompt：
 ```
 在 remote 环境里抓今日 SVT 简易新闻听力并入库：
+0. 按 CLAUDE.md §4.9 跑 `node tools/activity-gate.js`（看 Ruibo 最近 48 小时有没有标记已读）：SKIP 就直接结束（不生成、不 commit、不开 PR）
 1. /dagens-horovning   （抓最新一集字幕→听力数据→重建 Lyssna 站，并写 inbox/horning-*.md）
 2. 若生成了 inbox/horning-*.md，对它跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js（更新 slugs.json）；`git add` 源文件（含 `listening/*.json`）
@@ -401,6 +404,7 @@ A1–A2 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 
   ```
   在 remote 环境里跑一篇今日 lättläst 阅读文章并入库：
+  0. 按 CLAUDE.md §4.9 跑 `node tools/activity-gate.js`（看 Ruibo 最近 48 小时有没有标记已读）：SKIP 就直接结束（不生成、不 commit、不开 PR）
   1. /dagens-artikel   （按 day-of-year 自动轮换体裁、自动查重、联网核实事实后生成到 inbox/）
   2. 对刚生成的那份新 inbox/*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
   3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
@@ -497,6 +501,33 @@ profile/vocab-gaps.json   /scenario fokus · 每日 2 篇 · /lattlast          
 | 📖 Läsning | 新增 **题材 / 主题** 下拉筛选和 **🎯 补弱项** 开关；补弱项文章顶部有「🎯 本篇目标词」面板，正文里目标词高亮 |
 | 🔁 Öva（`site/ova/`） | 选择题复习：① 看瑞典语选中文 → ② 看中文选瑞典语 → ③ 句子选词；答对间隔变长（1/2/4/7/14/30 天）。进度存在浏览器里，「📋 复制结果给 CC」→ `/ova` 写回词条（`tools/ova-sync.js`，可重复运行） |
 | 📅 Dagbok | 首页「📊 词汇进度」卡片：教材核心词 A1/A2/B1 覆盖率（带基线）、P1/P2 已补多少、还缺最多的主题 |
+
+### §4.9 ⏸️ 活跃度门槛 (Activity gate — 不读就暂停自动生成)
+
+Ruibo 的固定要求（2026-10-21）：**「活跃度」= 看完生成的资料后在站点上「标为已读」**（不是拍照录入、/learn、聊天）。
+**连续 48 小时没有标记过已读 → 所有 remote routine 暂停生成；一标记已读，下一次定时运行自动恢复**（不补生成暂停期间的内容）。
+
+```
+📖 Läsning / 🗣️ Tala / 🎧 Lyssna 「标为已读」
+   └─ site/read-sync.js：先存本机 → GitHub Contents API 推到 `read-log` 分支的 read-log.json
+         { version, created, lastMarkedAt, reads: { <slug | lyssna:<集 id>>: <ISO 时间 | null> } }
+routine 第 0 步：node tools/activity-gate.js   （git fetch origin read-log → 取最新标记时间）
+   RUN（exit 0）→ 照常往下跑
+   SKIP（exit 3）→ 立即结束：不生成、不 /import、不 commit、不开 PR，回复里只贴那一行
+   ERROR / 脚本不存在 → 当作 RUN（检查本身坏了不能让内容断掉）
+```
+
+| 要点 | 说明 |
+|---|---|
+| 推送凭证 | 每台设备点一次 **☁️ 同步** 按钮，粘贴 fine-grained token（只选本仓库，Contents = Read and write，**Expiration 选最长**——过期后推不上去，定时任务会以为没在读），只存在该浏览器 localStorage。没 token 时按钮显示「📱 仅本机」（金色），标为已读时每天提醒一次：标记只在本机，定时任务看不到。⚠️ iOS Safari 约 7 天没打开网站会清掉站点数据（含 token）→ 把网站「添加到主屏幕」可免清，token 存进密码管理器方便重贴 |
+| 还没标过已读 | 从 `read-log.json` 的 `created` 起算 48 小时 |
+| `null` 时间 | 同步上线前的旧本机标记（`lasning.read.v1` 自动迁移），显示为已读但**不算**新的活跃 |
+| 取消已读 | 从 `reads` 删掉，但 `lastMarkedAt` 保留 —— 活跃时间不会倒退 |
+| 跨设备 | 有 token 的设备读写；没 token 的设备也会只读拉取（仓库公开），所以手机标的在电脑上也显示 ✓ |
+| `read-log` 分支 | 只放这一个文件，不触发 Action、不进 main 历史；**别合并、别删** |
+
+- 窗口 = **48 小时**（`tools/activity-gate.js` 的 `DEFAULT_HOURS`；临时可用 `--hours N`）。
+- 回放 / 离线测试：`node tools/activity-gate.js --log <本地 read-log.json> --now 2026-10-24T01:52:00Z`。
 
 ---
 
