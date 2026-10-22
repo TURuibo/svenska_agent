@@ -13,6 +13,10 @@ modules**:
 - `kb-markdown.js` — `window.KBMarkdown`: the single Markdown→HTML renderer (was copy-pasted in four
   pages).
 - `kb-popover.css` — styles for the shared `KB.openNote` popover.
+- `read-sync.js` — `window.ReadSync`: the 「标为已读」 marks of Läsning / Tala / Lyssna, pushed to
+  `read-log.json` on the `read-log` branch (needs a token per device, via the ☁️ button). The
+  scheduled routines pause when nothing was marked read for 48 h (CLAUDE.md §4.9). localStorage is
+  its source of truth — every change re-reads it, so tabs / bfcache-restored pages don't clobber each other.
 
 > These replace the old single `kb-data.js` (an 8.9 MB blocking blob that made several pages slow to
 > open). Splitting metadata from bodies cut first-load weight by ~4× and made every note body lazy.

@@ -74,7 +74,8 @@
       btn.innerHTML =
         '<span class="epBtnTitle">' + escapeHtml(ep.title) + '</span>' +
         '<span class="epBtnMeta">' + escapeHtml(ep.date) + ' · ' + fmtDur(ep.duration) +
-        ' · ' + ep.cueCount + ' 句</span>';
+        ' · ' + ep.cueCount + ' 句<span class="epBtnRead"></span></span>';
+      btn.dataset.readId = readId(ep);
       btn.addEventListener('click', function () {
         document.querySelectorAll('.epBtn').forEach(function (b) { b.classList.remove('active'); });
         btn.classList.add('active');
@@ -84,9 +85,30 @@
       ul.appendChild(li);
       if (i === wantedIdx) { btn.classList.add('active'); }
     });
+    paintRead();
     // Auto-load the deep-linked episode, else the newest one.
     loadEpisode(DATA.episodes[wantedIdx]);
   }
+
+  // ---- 已读 (synced via ../read-sync.js — the routines' activity signal) ----
+  var markReadBtn = document.getElementById('epMarkRead');
+  function readId(ep) { return 'lyssna:' + ep.id; }
+  function paintRead() {
+    document.querySelectorAll('.epBtn').forEach(function (b) {
+      var read = window.ReadSync.isRead(b.dataset.readId);
+      b.classList.toggle('read', read);
+      b.querySelector('.epBtnRead').textContent = read ? ' · ✓ 已读' : '';
+    });
+    if (state.episode) {
+      var read = window.ReadSync.isRead(readId(state.episode));
+      markReadBtn.classList.toggle('active', read);
+      markReadBtn.textContent = read ? '✓ 已读' : '标为已读';
+    }
+  }
+  markReadBtn.addEventListener('click', function () {
+    if (state.episode) { window.ReadSync.toggle(readId(state.episode)); }
+  });
+  window.ReadSync.onChange(paintRead);
 
   // ---- Load an episode ----------------------------------------------------
   function loadEpisode(ep) {
@@ -112,6 +134,7 @@
 
     renderTranscript(ep);
     renderVocab(ep);
+    paintRead();
     attachMedia(ep);
   }
 

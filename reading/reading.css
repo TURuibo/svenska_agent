@@ -88,6 +88,8 @@
 .kindFilter:hover, .toggleBtn:hover { border-color: var(--gold); }
 .kindFilter.active { background: var(--green); color: #fff; border-color: var(--green); }
 .toggleBtn.active { background: var(--blue); color: #fff; border-color: var(--blue); }
+/* ☁️ 已读同步 (read-sync.js): not syncing → the routines can't see the marks */
+.toggleBtn.readSyncWarn { border-color: var(--gold); color: var(--gold); }
 .filterDivider {
   width: 1px;
   height: 20px;

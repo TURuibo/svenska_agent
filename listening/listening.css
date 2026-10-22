@@ -122,6 +122,9 @@
   border-radius: 999px; padding: 6px 12px; font-size: 13px; cursor: pointer;
 }
 .speedBtn.active, .toggleBtn.active { background: var(--green); color: #fff; border-color: var(--green); }
+/* ☁️ 已读同步 (read-sync.js): not syncing → the routines can't see the marks */
+.toggleBtn.readSyncWarn { border-color: var(--gold); color: var(--gold); }
+.epBtnRead { color: var(--green); }
 
 /* ---- Transcript ---- */
 .transcript { list-style: none; margin: 0 0 22px; padding: 0; counter-reset: cue; }
