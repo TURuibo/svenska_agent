@@ -379,6 +379,16 @@
   font-size: 15px; line-height: 1.45; color: var(--ink);
 }
 .vocabPopFlag { font-family: var(--cjk); flex: none; }
+/* Words in the definition: KB words keep the article's dashed .vocabWord look;
+   the rest are quietly tappable (open the 查词 card). */
+.vocabPopSv .defLookup { cursor: pointer; border-radius: 3px; }
+.vocabPopSv .defLookup:hover { background: rgba(169, 120, 42, 0.14); }
+.vocabPopBack {
+  display: inline-block; margin: 0 0 6px; padding: 2px 10px;
+  font-size: 12px; color: var(--muted); cursor: pointer;
+  background: var(--paper); border: 1px solid var(--line); border-radius: 999px;
+}
+.vocabPopBack:hover { color: var(--ink); border-color: var(--muted); }
 .vocabPopUttal { margin-top: 6px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; font-size: 13px; }
 .vocabPopUttalLabel {
   font-size: 11px; color: var(--muted);

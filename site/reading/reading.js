@@ -379,7 +379,11 @@
   // Desktop: a card anchored next to the tapped word.
   // Mobile:  a bottom sheet with a dimmed backdrop, sticky header and scroll-lock.
   let popEl = null, backdropEl = null;
+  // In-card navigation history (tapping a word in the 🇸🇪 definition or a
+  // [[wikilink]] opens that word in place); the ← button walks back.
+  let popEntry = null, popHistory = [];
   function closePop() {
+    popEntry = null; popHistory = [];
     if (backdropEl) { backdropEl.remove(); backdropEl = null; }
     if (popEl) { popEl.remove(); popEl = null; }
     document.body.classList.remove('vocabPopOpen');
@@ -429,6 +433,8 @@
       `<div class="vocabPopHeader">` +
         `<span class="vocabPopGrip" aria-hidden="true"></span>` +
         `<button type="button" class="vocabPopClose" aria-label="关闭">×</button>` +
+        (popHistory.length
+          ? `<button type="button" class="vocabPopBack">← ${escapeHtml(popHistory[popHistory.length - 1].lemma)}</button>` : '') +
         `<div class="vocabPopHead">` +
           `<span class="vocabPopLemma">${escapeHtml(entry.lemma)}</span>` +
           (window.SvSpeak && window.SvSpeak.supported ? window.SvSpeak.buttonHtml(entry.lemma, 'vocabPopSpeak') : '') +
@@ -459,12 +465,27 @@
     md = md.replace(/^[ \t]*📖[ \t]*中文[:：].*$/m, '');   // same gloss as the header's 🇨🇳 line
     return { md, def, uttal };
   }
+  // Every word in the Swedish definition is tappable: a KB word (dashed, like in
+  // the article) opens its card in place; any other word opens the 查词 card.
+  function defHtml(def, selfSlug) {
+    let out = '', last = 0, m;
+    VOCAB_TOKEN.lastIndex = 0;
+    while ((m = VOCAB_TOKEN.exec(def))) {
+      out += escapeHtml(def.slice(last, m.index));
+      const entry = findVocab(m[0]);
+      if (entry && entry.slug === selfSlug) out += escapeHtml(m[0]);
+      else if (entry) out += `<span class="vocabWord defWord${entry.known ? ' known' : ''}" data-slug="${escapeHtml(entry.slug)}">${escapeHtml(m[0])}</span>`;
+      else out += `<span class="defLookup">${escapeHtml(m[0])}</span>`;
+      last = m.index + m[0].length;
+    }
+    return out + escapeHtml(def.slice(last));
+  }
   function fillHeaderLines(def, uttal) {
     const svEl = popEl && popEl.querySelector('.vocabPopSv');
     const prEl = popEl && popEl.querySelector('.vocabPopUttal');
     const speak = window.SvSpeak && window.SvSpeak.supported;
     if (svEl && def) {
-      svEl.innerHTML = `<span class="vocabPopFlag">🇸🇪</span><span>${escapeHtml(def)}</span>` +
+      svEl.innerHTML = `<span class="vocabPopFlag">🇸🇪</span><span>${defHtml(def, popEntry && popEntry.slug)}</span>` +
         (speak ? window.SvSpeak.buttonHtml(def) : '');
       svEl.hidden = false;
     }
@@ -480,6 +501,7 @@
 
   function showEntry(entry) {
     if (!popEl) return;
+    popEntry = entry;
     popEl.innerHTML = popInnerHtml(entry);
     popEl.scrollTop = 0;
     const bodyEl = popEl.querySelector('.vocabPopBody');
@@ -503,6 +525,25 @@
   // jumping away to Sök.
   function entryPopClick(e) {
     if (e.target.closest('.vocabPopClose')) { closePop(); return; }
+    // Navigation re-renders the card, detaching e.target — stop the event so the
+    // document "click outside" handler doesn't mistake it for an outside tap.
+    const go = (entry) => {
+      e.preventDefault();
+      e.stopPropagation();
+      if (popEntry && popEntry.slug !== entry.slug) popHistory.push(popEntry);
+      showEntry(entry);
+    };
+    if (e.target.closest('.vocabPopBack')) {
+      e.preventDefault();
+      e.stopPropagation();
+      if (popHistory.length) showEntry(popHistory.pop());
+      return;
+    }
+    // A word inside the 🇸🇪 definition line.
+    const dw = e.target.closest('.defWord');
+    if (dw && vocabBySlug.has(dw.dataset.slug)) { go(vocabBySlug.get(dw.dataset.slug)); return; }
+    const dl = e.target.closest('.defLookup');
+    if (dl) { e.stopPropagation(); openLookupText((dl.textContent || '').trim()); return; }
     // The explicit "在 Sök 中打开完整笔记 →" link must always navigate to Sök —
     // never treat it as in-card nav (its slug IS the current word).
     if (e.target.closest('.vocabPopLink')) return;
@@ -516,7 +557,7 @@
       const slug = wl.dataset.wikilink;
       e.preventDefault();
       e.stopPropagation();
-      if (vocabBySlug.has(slug)) showEntry(vocabBySlug.get(slug));
+      if (vocabBySlug.has(slug)) go(vocabBySlug.get(slug));
       else if (KB && KB.bySlug.has(slug)) KB.openNote(slug);
       else openLookupText((wl.textContent || '').trim() || slug.replace(/-/g, ' '));
       return;
@@ -526,7 +567,7 @@
     const m = (a.getAttribute('href') || '').match(/#note=([^&]+)/);
     if (m) {
       const slug = decodeURIComponent(m[1]);
-      if (vocabBySlug.has(slug)) { e.preventDefault(); showEntry(vocabBySlug.get(slug)); }
+      if (vocabBySlug.has(slug)) go(vocabBySlug.get(slug));
     }
   }
 
