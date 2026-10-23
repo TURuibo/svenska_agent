@@ -3,7 +3,7 @@ type: topic
 name: "skola och utbildning"
 kind: semantic-field
 zh: 学校与教育（语义场）
-members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå, utbildning, eftergymnasial, gymnasial, förgymnasial, fritidskurs, läsa-en-kurs, på-sin-fritid, stapeldiagram, andel, procent, studiedag, fritidshem, fotograf, fotografera, expedition, historia, kunskap, grundläggande, redovisa, komplettera, skriftlig, lov, sammanfattning, inledning, gymnasium, kursdeltagare, muntligt, utantill, huvudpunkt, utbilda-sig, koncentrera-sig, koncentrera-sig-på, lära-sig-utantill, mentor, individuell, utvecklingsplan, kopia]
+members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå, utbildning, eftergymnasial, gymnasial, förgymnasial, fritidskurs, läsa-en-kurs, på-sin-fritid, stapeldiagram, andel, procent, studiedag, fritidshem, fotograf, fotografera, expedition, historia, kunskap, grundläggande, redovisa, komplettera, skriftlig, lov, sammanfattning, inledning, gymnasium, kursdeltagare, muntligt, utantill, huvudpunkt, utbilda-sig, koncentrera-sig, koncentrera-sig-på, lära-sig-utantill, mentor, individuell, utvecklingsplan, kopia, behörig, behörighet, redovisning, dagis, utvärdera, färdighet, matte, bedömning, teori, citera, vetenskap, inriktning, godkänd, yrkesprogram, studievägledare]
 created: "2026-06-03"
 ---
 
@@ -66,3 +66,19 @@ created: "2026-06-03"
 - [[expedition]] — 办公室；服务窗口
 - [[skolbarn]] — 学童 (2026-10-15, [[source-2026-10-15-selma-lagerlof]])
 - [[geografi]] — 地理
+
+- [[behörig]]
+- [[behörighet]]
+- [[redovisning]]
+- [[dagis]]
+- [[utvärdera]]
+- [[färdighet]]
+- [[matte]]
+- [[bedömning]]
+- [[teori]]
+- [[citera]]
+- [[vetenskap]]
+- [[inriktning]]
+- [[godkänd]]
+- [[yrkesprogram]]
+- [[studievägledare]]
