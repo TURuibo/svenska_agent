@@ -35,6 +35,10 @@ members:
   - kolla
   - ändra-sig
   - blåsa
+  - vintertid
+  - sommartid
+  - storm
+  - blåsig
   - skifta
 created: 2026-06-16
 ---
