@@ -1,0 +1,653 @@
+{
+ "id": "sr-4916-2897110",
+ "date": "2026-11-12",
+ "title": "Radio Sweden på lätt svenska — 12 nov",
+ "source": "Sveriges Radio · Radio Sweden på lätt svenska",
+ "duration": 609,
+ "cefr": "A2–B1",
+ "sourceUrl": "https://www.sverigesradio.se/avsnitt/2897110",
+ "sourceLinkLabel": "📻 在 Sveriges Radio 听 ↗",
+ "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/11/radio_sweden_pa_latt_svenska_torsdag_12_november_2026_20261112_1630369961.mp3",
+ "note": "SR 不提供文字稿：原文由瑞典语语音识别（KBLab kb-whisper）转写后人工校对，人名拼写可能有出入；Svantesson 那句是采访原话，口语不完整。音频实时从 SR 播放。",
+ "cues": [
+  {
+   "start": 9.71,
+   "end": 13.85,
+   "sv": "Här är Radio Sweden på lätt svenska",
+   "zh": "这里是 Radio Sweden 简易瑞典语新闻"
+  },
+  {
+   "start": 14.45,
+   "end": 17.59,
+   "sv": "med Jenny Pejler och Ingrid Forsberg.",
+   "zh": "主持人 Jenny Pejler 和 Ingrid Forsberg。"
+  },
+  {
+   "start": 28.47,
+   "end": 34.09,
+   "sv": "Riksdagen röstade igår ja till en ändring i grundlagen.",
+   "zh": "议会昨天投票通过了一项宪法修正案。"
+  },
+  {
+   "start": 34.09,
+   "end": 41.95,
+   "sv": "Ändringen gör det möjligt att i framtiden ta tillbaka ett svenskt medborgarskap.",
+   "zh": "这项修改使将来可以收回瑞典国籍。"
+  },
+  {
+   "start": 42.71,
+   "end": 48.57,
+   "sv": "Det gäller personer som har medborgarskap i både Sverige och ett annat land.",
+   "zh": "这涉及同时拥有瑞典和另一个国家国籍的人。"
+  },
+  {
+   "start": 49.95,
+   "end": 60.01,
+   "sv": "De kan komma att förlora sitt svenska medborgarskap om de döms för mycket allvarliga brott.",
+   "zh": "如果他们因非常严重的罪行被判刑，可能会失去瑞典国籍。"
+  },
+  {
+   "start": 60.01,
+   "end": 66.47,
+   "sv": "Brotten ska vara sådana som hotar Sveriges viktiga intressen.",
+   "zh": "这些罪行必须是威胁瑞典重要利益的那一类。"
+  },
+  {
+   "start": 66.47,
+   "end": 72.59,
+   "sv": "Det kan till exempel vara spioneri eller högförräderi.",
+   "zh": "比如间谍罪或叛国罪。"
+  },
+  {
+   "start": 72.59,
+   "end": 77.89,
+   "sv": "Det kan också handla om mycket grova brott som krigsbrott.",
+   "zh": "也可能是非常严重的罪行，比如战争罪。"
+  },
+  {
+   "start": 79.19,
+   "end": 89.85,
+   "sv": "Det kan också gälla personer som har fått svenskt medborgarskap på fel sätt, till exempel om de lämnat falska uppgifter.",
+   "zh": "也可能涉及以不正当方式获得瑞典国籍的人，比如提供了虚假信息。"
+  },
+  {
+   "start": 91.01,
+   "end": 94.77,
+   "sv": "Vänsterpartiet och Miljöpartiet röstade nej.",
+   "zh": "左翼党和环境党投了反对票。"
+  },
+  {
+   "start": 95.63,
+   "end": 103.99,
+   "sv": "Vänsterpartiet varnade för att ändringen kan göra medborgarskapet mindre rättssäkert.",
+   "zh": "左翼党警告说，这项修改可能会削弱国籍问题上的法律保障。"
+  },
+  {
+   "start": 105.89,
+   "end": 110.11,
+   "sv": "Att ändra grundlagen kräver två beslut i riksdagen.",
+   "zh": "修改宪法需要议会作出两次决定。"
+  },
+  {
+   "start": 110.79,
+   "end": 114.37,
+   "sv": "Det måste vara ett val mellan besluten.",
+   "zh": "两次决定之间必须有一次大选。"
+  },
+  {
+   "start": 115.13,
+   "end": 120.97,
+   "sv": "Omröstningen igår var den sista som gjorde att lagen ändras.",
+   "zh": "昨天的投票是让这部法律得以修改的最后一次。"
+  },
+  {
+   "start": 121.75,
+   "end": 125.83,
+   "sv": "Ändringen börjar gälla den första januari nästa år.",
+   "zh": "修改将于明年 1 月 1 日生效。"
+  },
+  {
+   "start": 126.59,
+   "end": 129.83,
+   "sv": "Men nya regler införs inte direkt.",
+   "zh": "但新规定不会马上实施。"
+  },
+  {
+   "start": 130.71,
+   "end": 138.51,
+   "sv": "Ändringen av grundlagen gör det bara möjligt att senare ändra till sådana regler.",
+   "zh": "宪法修改只是让以后改成这样的规定成为可能。"
+  },
+  {
+   "start": 138.51,
+   "end": 145.21,
+   "sv": "Regeringen har arbetat med ett förslag till nya regler. Det är inte färdigt än.",
+   "zh": "政府一直在起草新规定的提案，但还没完成。"
+  },
+  {
+   "start": 145.21,
+   "end": 153.35,
+   "sv": "Därför blir det upp till nästa regering att bestämma hur arbetet ska gå vidare.",
+   "zh": "所以要由下一届政府来决定这项工作如何继续。"
+  },
+  {
+   "start": 153.35,
+   "end": 166.34,
+   "sv": "Det är nästa regering som får ge ett förslag till riksdagen om när medborgarskap ska kunna tas tillbaka.",
+   "zh": "将由下一届政府向议会提出在什么情况下可以收回国籍的提案。"
+  },
+  {
+   "start": 166.34,
+   "end": 174.76,
+   "sv": "Idag presenterade finansministern Elisabeth Svantesson regeringens förslag på budget.",
+   "zh": "今天，财政大臣 Elisabeth Svantesson 公布了政府的预算提案。"
+  },
+  {
+   "start": 175.7,
+   "end": 184.02,
+   "sv": "Eftersom Sverige inte har någon ny regering så är det inga stora förändringar i budgeten.",
+   "zh": "由于瑞典还没有新政府，预算里没有大的变化。"
+  },
+  {
+   "start": 185.46,
+   "end": 193.82,
+   "sv": "Budgeten är planen för hur statens pengar ska användas nästa år, 2027.",
+   "zh": "预算是国家明年（2027 年）如何使用资金的计划。"
+  },
+  {
+   "start": 194.0,
+   "end": 199.22,
+   "sv": "Det finns ännu ingen ny regering efter valet.",
+   "zh": "大选之后仍然没有新政府。"
+  },
+  {
+   "start": 199.22,
+   "end": 208.9,
+   "sv": "Den tidigare regeringen arbetar därför kvar och kallas övergångsregering.",
+   "zh": "因此上一届政府继续工作，被称为过渡政府。"
+  },
+  {
+   "start": 209.94,
+   "end": 216.66,
+   "sv": "En övergångsregering ska inte göra stora politiska förändringar.",
+   "zh": "过渡政府不应该做大的政治改变。"
+  },
+  {
+   "start": 217.42,
+   "end": 221.38,
+   "sv": "Det har partierna i riksdagen kommit överens om.",
+   "zh": "这是议会各党派达成的共识。"
+  },
+  {
+   "start": 222.66,
+   "end": 228.78,
+   "sv": "Därför är den nya budgeten ungefär likadan som den förra budgeten.",
+   "zh": "所以新预算和上一次的预算差不多。"
+  },
+  {
+   "start": 229.22,
+   "end": 242.22,
+   "sv": "– Det här är en budget för att Sverige ska fortsätta fungera i väntan på en ny regering, säger finansminister Elisabeth Svantesson.",
+   "zh": "「这份预算是为了让瑞典在等待新政府期间继续运转。」财政大臣 Elisabeth Svantesson 说。"
+  },
+  {
+   "start": 243.12,
+   "end": 256.22,
+   "sv": "– Oavsett om det drar ut på tiden betydligt mer eller inte så kommer Sverige att vara … grundläggande statliga verksamheter och också kommuner och regioner få resurser att fortsätta göra det de är satta att göra.",
+   "zh": "「不管（组阁）会不会拖得更久，瑞典的基本国家机构以及市镇和大区都会得到资源，继续做它们该做的事。」（采访原话，口语里句子没说完整）"
+  },
+  {
+   "start": 256.22,
+   "end": 263.9,
+   "sv": "Riksdagen ska rösta om budgetförslaget i början av december.",
+   "zh": "议会将在 12 月初对预算提案投票。"
+  },
+  {
+   "start": 264.42,
+   "end": 269.86,
+   "sv": "När en ny regering finns på plats, kan den ändra budgeten.",
+   "zh": "新政府上任后可以修改预算。"
+  },
+  {
+   "start": 270.38,
+   "end": 274.98,
+   "sv": "Den kan göra ändringsbudgetar nästa år.",
+   "zh": "它可以在明年提出追加修正预算。"
+  },
+  {
+   "start": 279.54,
+   "end": 292.7,
+   "sv": "Vänsterpartiet säger att de kan förhandla med Centerpartiet för att kunna bilda en regering med de rödgröna partierna.",
+   "zh": "左翼党说，他们可以和中间党谈判，以便和红绿阵营的政党组成政府。"
+  },
+  {
+   "start": 292.74,
+   "end": 305.76,
+   "sv": "Men Vänsterpartiet kräver fortfarande att få vara med i regeringen och ha ministrar. Det har Centerpartiet sagt nej till.",
+   "zh": "但左翼党仍然要求进入政府、拥有部长职位。中间党已经拒绝了这一点。"
+  },
+  {
+   "start": 306.72,
+   "end": 324.5,
+   "sv": "I fredags sa Centerpartiets ledare Elisabeth Thand Ringqvist att Moderaternas Ulf Kristersson och Socialdemokraternas Magdalena Andersson måste berätta vilken politik de vill ha.",
+   "zh": "上周五，中间党党魁 Elisabeth Thand Ringqvist 说，温和党的 Ulf Kristersson 和社民党的 Magdalena Andersson 必须说明他们想推行什么政策。"
+  },
+  {
+   "start": 324.5,
+   "end": 331.6,
+   "sv": "De måste också visa hur de ska få stöd för politiken i riksdagen.",
+   "zh": "他们还必须说明如何在议会为这些政策争取支持。"
+  },
+  {
+   "start": 331.6,
+   "end": 337.6,
+   "sv": "De måste presentera sina förslag imorgon fredag, sade hon.",
+   "zh": "她说，他们必须在明天（周五）提出各自的方案。"
+  },
+  {
+   "start": 337.6,
+   "end": 347.0,
+   "sv": "Hon sade att Centerpartiet kan välja att stödja den regering som har bäst politik.",
+   "zh": "她说，中间党可以选择支持政策最好的那个政府。"
+  },
+  {
+   "start": 347.0,
+   "end": 357.28,
+   "sv": "Och de vill att Sverigedemokraterna och Vänsterpartiet får så lite makt som möjligt.",
+   "zh": "而且他们希望瑞典民主党和左翼党的权力越小越好。"
+  },
+  {
+   "start": 357.28,
+   "end": 374.28,
+   "sv": "Några dagar senare föreslog Magdalena Andersson att Socialdemokraterna kan bilda en regering med Centerpartiet och Miljöpartiet, som samarbetar nära med Vänsterpartiet.",
+   "zh": "几天后，Magdalena Andersson 提议社民党可以和中间党、环境党组成政府，并与左翼党密切合作。"
+  },
+  {
+   "start": 374.28,
+   "end": 388.68,
+   "sv": "Men Vänsterpartiets partiledare Nooshi Dadgostar säger idag att partiet fortfarande kräver att få vara med i en regering för att stödja den.",
+   "zh": "但左翼党党魁 Nooshi Dadgostar 今天说，党仍然要求进入政府，才会支持这个政府。"
+  },
+  {
+   "start": 389.68,
+   "end": 401.48,
+   "sv": "Hon säger också att Vänsterpartiet kan fortsätta förhandla med Centerpartiet om Centerpartiet väljer Magdalena Anderssons sida.",
+   "zh": "她还说，如果中间党站到 Magdalena Andersson 一边，左翼党可以继续和中间党谈判。"
+  },
+  {
+   "start": 401.48,
+   "end": 410.17,
+   "sv": "Moderaternas Ulf Kristersson håller samtidigt på att försöka få ihop en regering.",
+   "zh": "与此同时，温和党的 Ulf Kristersson 正在努力组建政府。"
+  },
+  {
+   "start": 410.17,
+   "end": 415.65,
+   "sv": "Han fick det i uppdrag av talmannen förra veckan.",
+   "zh": "他上周受议长委托承担这项任务。"
+  },
+  {
+   "start": 415.71,
+   "end": 420.61,
+   "sv": "På tisdag ska Ulf Kristersson berätta hur det går.",
+   "zh": "下周二 Ulf Kristersson 将汇报进展。"
+  },
+  {
+   "start": 422.31,
+   "end": 426.21,
+   "sv": "Det har gått nästan två månader sedan valet.",
+   "zh": "大选已经过去将近两个月了。"
+  },
+  {
+   "start": 426.71,
+   "end": 432.21,
+   "sv": "Det har varit två omröstningar om en ny statsminister i riksdagen.",
+   "zh": "议会已经就新首相人选进行过两次投票。"
+  },
+  {
+   "start": 433.31,
+   "end": 438.81,
+   "sv": "Om riksdagen röstar nej fyra gånger så blir det ett nytt val.",
+   "zh": "如果议会四次投反对票，就要重新大选。"
+  },
+  {
+   "start": 443.62,
+   "end": 454.98,
+   "sv": "I Skellefteå planeras ett datacenter som beräknas dra lika mycket el som en kärnkraftsreaktor.",
+   "zh": "Skellefteå 正在规划一座数据中心，预计耗电量相当于一座核反应堆。"
+  },
+  {
+   "start": 456.14,
+   "end": 466.44,
+   "sv": "Dataingenjören Robin Åsén har samlat in 5 000 namnunderskrifter mot byggplanerna.",
+   "zh": "数据工程师 Robin Åsén 收集了 5000 个签名反对这项建设计划。"
+  },
+  {
+   "start": 467.66,
+   "end": 474.8,
+   "sv": "Han säger till Ekot att datacenter förbrukar alldeles för mycket el.",
+   "zh": "他对 Ekot（SR 新闻部）说，数据中心耗电太多了。"
+  },
+  {
+   "start": 475.48,
+   "end": 486.38,
+   "sv": "– Nu ska vi använda enorma mängder el. Alltihopa går emot de här miljömålen, och vi når ju inte målen som det är redan. Men vi ska lägga till datacenter utöver det.",
+   "zh": "「现在我们要用掉海量的电。这一切都违背了这些环境目标，而我们本来就已经达不到目标了。可我们还要在这之外再加上数据中心。」"
+  },
+  {
+   "start": 487.14,
+   "end": 492.02,
+   "sv": "Han säger att det går emot klimatmålen för Sverige.",
+   "zh": "他说这违背了瑞典的气候目标。"
+  },
+  {
+   "start": 492.64,
+   "end": 498.88,
+   "sv": "Han säger också att Sverige redan har svårt att nå klimatmålen.",
+   "zh": "他还说，瑞典本来就很难实现气候目标。"
+  },
+  {
+   "start": 500.4,
+   "end": 507.86,
+   "sv": "Allt fler använder AI, och AI behöver stora datacenter.",
+   "zh": "使用 AI 的人越来越多，而 AI 需要大型数据中心。"
+  },
+  {
+   "start": 507.92,
+   "end": 514.32,
+   "sv": "När fler datacenter byggs i världen, används mer el.",
+   "zh": "世界上建的数据中心越多，用的电就越多。"
+  },
+  {
+   "start": 514.92,
+   "end": 520.32,
+   "sv": "Det kan leda till större utsläpp som påverkar klimatet.",
+   "zh": "这可能导致更多影响气候的排放。"
+  },
+  {
+   "start": 520.82,
+   "end": 525.82,
+   "sv": "Många datacenter i världen får el från kol och gas.",
+   "zh": "世界上很多数据中心的电来自煤和天然气。"
+  },
+  {
+   "start": 525.82,
+   "end": 528.44,
+   "sv": "Det är fossila bränslen.",
+   "zh": "这些是化石燃料。"
+  },
+  {
+   "start": 528.44,
+   "end": 533.44,
+   "sv": "När sådana bränslen används ökar utsläppen.",
+   "zh": "使用这类燃料时，排放就会增加。"
+  },
+  {
+   "start": 533.84,
+   "end": 545.44,
+   "sv": "Det är företaget Edgeconnex som har köpt en stor del av det gamla industriområdet i Skellefteå, där batterifabriken Northvolt låg.",
+   "zh": "是 Edgeconnex 公司买下了 Skellefteå 旧工业区的一大片土地，电池工厂 Northvolt 原来就在那里。"
+  },
+  {
+   "start": 545.44,
+   "end": 549.04,
+   "sv": "Northvolt gick tidigare i konkurs.",
+   "zh": "Northvolt 之前破产了。"
+  },
+  {
+   "start": 549.04,
+   "end": 554.7,
+   "sv": "Edgeconnex vill bygga sju datahallar på området.",
+   "zh": "Edgeconnex 想在这片区域建七座数据机房。"
+  },
+  {
+   "start": 554.7,
+   "end": 559.2,
+   "sv": "Dick Thunisen är Europachef på Edgeconnex.",
+   "zh": "Dick Thunisen 是 Edgeconnex 的欧洲区负责人。"
+  },
+  {
+   "start": 559.64,
+   "end": 569.44,
+   "sv": "Han säger till Ekot att företaget vill ta ansvar, både för hållbarhet och för den digitala utvecklingen i samhället.",
+   "zh": "他对 Ekot 说，公司愿意承担责任，既为可持续发展，也为社会的数字化发展。"
+  },
+  {
+   "start": 569.52,
+   "end": 578.5,
+   "sv": "Den snabba utbyggnaden av AI-datacenter diskuteras nu på FN:s klimatmöte.",
+   "zh": "AI 数据中心的快速扩张，现在正在联合国气候大会上被讨论。"
+  },
+  {
+   "start": 578.5,
+   "end": 582.4,
+   "sv": "Mötet pågår i Turkiet just nu.",
+   "zh": "会议目前正在土耳其举行。"
+  },
+  {
+   "start": 582.4,
+   "end": 591.34,
+   "sv": "Radio Sweden på lätt svenska.",
+   "zh": "这里是 Radio Sweden 简易瑞典语新闻。"
+  },
+  {
+   "start": 591.34,
+   "end": 596.34,
+   "sv": "Lyssna på alla våra nyheter och poddar i appen Sveriges Radio.",
+   "zh": "在 Sveriges Radio 应用里收听我们所有的新闻和播客。"
+  }
+ ],
+ "vocab": [
+  {
+   "sv": "medborgarskap",
+   "lemma": "medborgarskap",
+   "pos": "substantiv ett",
+   "zh": "国籍；公民身份",
+   "en": "citizenship"
+  },
+  {
+   "sv": "grundlagen",
+   "lemma": "grundlag",
+   "pos": "substantiv en",
+   "zh": "宪法",
+   "en": "constitution"
+  },
+  {
+   "sv": "döms",
+   "lemma": "döma",
+   "pos": "verb (2)",
+   "zh": "判决；被判刑（döms = s-被动）",
+   "en": "to sentence, to judge"
+  },
+  {
+   "sv": "högförräderi",
+   "lemma": "högförräderi",
+   "pos": "substantiv ett",
+   "zh": "叛国罪",
+   "en": "high treason"
+  },
+  {
+   "sv": "krigsbrott",
+   "lemma": "krigsbrott",
+   "pos": "substantiv ett",
+   "zh": "战争罪",
+   "en": "war crime"
+  },
+  {
+   "sv": "rättssäkert",
+   "lemma": "rättssäker",
+   "pos": "adjektiv",
+   "zh": "有法律保障的，程序公正的",
+   "en": "legally secure, with due process"
+  },
+  {
+   "sv": "övergångsregering",
+   "lemma": "övergångsregering",
+   "pos": "substantiv en",
+   "zh": "过渡政府",
+   "en": "caretaker government"
+  },
+  {
+   "sv": "förhandla",
+   "lemma": "förhandla",
+   "pos": "verb (1)",
+   "zh": "谈判",
+   "en": "to negotiate"
+  },
+  {
+   "sv": "talmannen",
+   "lemma": "talman",
+   "pos": "substantiv en",
+   "zh": "议长",
+   "en": "Speaker (of parliament)"
+  },
+  {
+   "sv": "omröstningar",
+   "lemma": "omröstning",
+   "pos": "substantiv en",
+   "zh": "投票表决",
+   "en": "vote, ballot"
+  },
+  {
+   "sv": "kärnkraftsreaktor",
+   "lemma": "kärnkraftsreaktor",
+   "pos": "substantiv en",
+   "zh": "核反应堆",
+   "en": "nuclear reactor"
+  },
+  {
+   "sv": "namnunderskrifter",
+   "lemma": "namnunderskrift",
+   "pos": "substantiv en",
+   "zh": "签名",
+   "en": "signature"
+  },
+  {
+   "sv": "förbrukar",
+   "lemma": "förbruka",
+   "pos": "verb (1)",
+   "zh": "消耗，耗用",
+   "en": "to consume, to use up"
+  },
+  {
+   "sv": "utsläpp",
+   "lemma": "utsläpp",
+   "pos": "substantiv ett",
+   "zh": "排放",
+   "en": "emission(s)"
+  },
+  {
+   "sv": "fossila bränslen",
+   "lemma": "fossil",
+   "pos": "adjektiv",
+   "zh": "化石的",
+   "en": "fossil"
+  },
+  {
+   "sv": "konkurs",
+   "lemma": "konkurs",
+   "pos": "substantiv en",
+   "zh": "破产",
+   "en": "bankruptcy"
+  },
+  {
+   "sv": "hållbarhet",
+   "lemma": "hållbarhet",
+   "pos": "substantiv en",
+   "zh": "可持续性",
+   "en": "sustainability"
+  }
+ ],
+ "phrases": [
+  {
+   "sv": "ta tillbaka",
+   "lemma": "ta tillbaka",
+   "category": "partikelverb",
+   "zh": "收回，撤回",
+   "en": "to take back, to revoke"
+  },
+  {
+   "sv": "kan komma att förlora",
+   "lemma": "komma att",
+   "category": "hjälpverb-uttryck",
+   "zh": "将会，可能会（表未来/可能）",
+   "en": "will, may come to"
+  },
+  {
+   "sv": "har kommit överens om",
+   "lemma": "komma överens om",
+   "category": "partikelverb",
+   "zh": "就……达成一致",
+   "en": "to agree on"
+  },
+  {
+   "sv": "drar ut på tiden",
+   "lemma": "dra ut på tiden",
+   "category": "idiom",
+   "zh": "拖延，拖很久",
+   "en": "to drag on, to take longer"
+  },
+  {
+   "sv": "håller på att försöka",
+   "lemma": "hålla på att",
+   "category": "fast uttryck",
+   "zh": "正在（做某事）",
+   "en": "to be in the process of"
+  },
+  {
+   "sv": "gick i konkurs",
+   "lemma": "gå i konkurs",
+   "category": "fast uttryck",
+   "zh": "破产",
+   "en": "to go bankrupt"
+  },
+  {
+   "sv": "går emot",
+   "lemma": "gå emot",
+   "category": "partikelverb",
+   "zh": "违背，与……相抵触",
+   "en": "to go against"
+  },
+  {
+   "sv": "ta ansvar",
+   "lemma": "ta ansvar",
+   "category": "fast uttryck",
+   "zh": "承担责任",
+   "en": "to take responsibility"
+  },
+  {
+   "sv": "allt fler",
+   "lemma": "allt fler",
+   "category": "fast uttryck",
+   "zh": "越来越多的（人/东西）",
+   "en": "more and more"
+  },
+  {
+   "sv": "i väntan på",
+   "lemma": "i väntan på",
+   "category": "prepositionsuttryck",
+   "zh": "在等待……期间",
+   "en": "while waiting for"
+  }
+ ],
+ "grammar": [
+  {
+   "name": "s-passiv",
+   "lemma": "s-passiv",
+   "zh": "s-被动：döms / införs / planeras / beräknas / byggs / används / diskuteras",
+   "en": "s-passive"
+  },
+  {
+   "name": "klyvning",
+   "lemma": "klyvning",
+   "zh": "强调句 det är … som：Det är nästa regering som … / Det är företaget Edgeconnex som …",
+   "en": "cleft sentence"
+  },
+  {
+   "name": "inversion efter fundament",
+   "lemma": "inversion-efter-fundament",
+   "zh": "句首状语后倒装：Därför blir det … / Idag presenterade finansministern …",
+   "en": "inversion after a fronted element"
+  }
+ ]
+}
