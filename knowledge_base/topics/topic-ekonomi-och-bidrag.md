@@ -3,7 +3,7 @@ type: topic
 name: "ekonomi-och-bidrag"
 kind: semantic-field
 zh: "个人经济与社会补助"
-members: [ekonomi, ekonomisk, pengar, budget, stöd, bistånd, försörjningsstöd, bidrag, ersättning, ansökan, ansöka, försörja, försörjning, inkomst, utgift, kostnad, levnadskostnad, riksnorm, summa, avgift, rimlig, skuld, skuldrådgivare, rådgivare, försäkring, hemförsäkring, el, förbrukningsvara, diskmedel, glödlampa, a-kassa, bedöma, planera, behövas, ekonomiskt-bistånd, få-pengarna-att-räcka, räcka-till, klara-sin-ekonomi, försörja-sig, ansöka-om, få-bättre-koll-på, leva-på-en-rimlig-nivå, ha-svårt-att, investering, börs, efterfrågan, sparalternativ, företagare, lönsam, välbesökt, galleria]
+members: [ekonomi, ekonomisk, pengar, budget, stöd, bistånd, försörjningsstöd, bidrag, ersättning, ansökan, ansöka, försörja, försörjning, inkomst, utgift, kostnad, levnadskostnad, riksnorm, summa, avgift, rimlig, skuld, skuldrådgivare, rådgivare, försäkring, hemförsäkring, el, förbrukningsvara, diskmedel, glödlampa, a-kassa, bedöma, planera, behövas, ekonomiskt-bistånd, få-pengarna-att-räcka, räcka-till, klara-sin-ekonomi, försörja-sig, ansöka-om, få-bättre-koll-på, leva-på-en-rimlig-nivå, ha-svårt-att, investering, börs, efterfrågan, sparalternativ, företagare, lönsam, välbesökt, galleria, konkurs]
 created: "2026-10-02"
 ---
 

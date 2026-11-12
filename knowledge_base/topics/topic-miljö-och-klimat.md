@@ -55,6 +55,8 @@ members:
   - blunda
   - klimatkatastrof
 created: "2026-06-22"
+  - fossil
+  - hållbarhet
 ---
 
 # 🗂️ miljö-och-klimat — 环境与气候

@@ -4,7 +4,7 @@ slug: topic-energi-och-transport
 name: "Energi & transport"
 zh: "能源与交通"
 en: "Energy & transport"
-members: ["bränsle", "bensinstation", "elbil", "transportsätt", "energi", "elräkning"]
+members: ["bränsle", "bensinstation", "elbil", "transportsätt", "energi", "elräkning", kärnkraftsreaktor, förbruka]
 created: "2026-06-29"
 ---
 
