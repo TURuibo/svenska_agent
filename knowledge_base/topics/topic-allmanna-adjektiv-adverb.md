@@ -3,7 +3,7 @@ type: topic
 name: "通用形容词/副词 (T19)"
 zh: "通用形容词 / 副词"
 en: "General adjectives and adverbs"
-members: ["nödvändig", "ytterligare", "åtminstone", "aktuell", "någonsin", "omöjlig", "självklar", "delvis", "otrolig", "antagligen", "färdig", "förhoppningsvis", "ordentlig", "tillfällig", "onödig", "hemsk", "vanligtvis", "permanent", "oklar", "upptagen", "besvärlig", "någon-annanstans", "lik", "naturligtvis"]
+members: ["nödvändig", "ytterligare", "åtminstone", "aktuell", "någonsin", "omöjlig", "självklar", "delvis", "otrolig", "antagligen", "färdig", "förhoppningsvis", "ordentlig", "tillfällig", "onödig", "hemsk", "vanligtvis", "permanent", "oklar", "upptagen", "besvärlig", "någon-annanstans", "lik", "naturligtvis", riktig]
 created: 2026-10-07
 ---
 
