@@ -56,3 +56,12 @@ created: "2026-06-29"
 - [[skogens-konung]] — 森林之王
 - [[röra-på-sig]] — 活动
 - [[föds-på-våren]] — 在春天出生
+
+## 熊与森林 (2026-11-12)
+
+- [[gran]] — 云杉
+- [[jaga]] — 打猎
+- [[skyddad]] — 受保护的
+- [[mellersta]] — 中部的
+- [[ide]] — 冬眠洞
+- [[gå-i-ide]] — 冬眠
