@@ -9,7 +9,7 @@ en: "so that"
 literal: ""
 head_words: []
 grammar: [grammar-konjunktion]
-related: []
+related: [grammar-sa-vs-sa-att]
 topics: [topic-sambandsord]
 sentences: [sent-kommunerna-bygger-nya-cykelbanor-så-att]
 known: false
@@ -29,6 +29,7 @@ created: "2026-10-14"
 ## 短语中的语法 (Grammar inside)
 
 - → [[grammar-konjunktion]]
+- → [[grammar-sa-vs-sa-att]]（så vs så att 对比）
 
 ## 变体 & 相关 (Variations & Related)
 

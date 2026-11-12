@@ -4,7 +4,7 @@ name: "så ... att (konsekvens)"
 zh: "如此……以至于……"
 en: "so ... that"
 level: "SFI C/B1"
-related: [grammar-dubbelt-sa-som]
+related: [grammar-dubbelt-sa-som, grammar-sa-vs-sa-att]
 examples: []
 known: false
 created: "2026-09-22"
@@ -44,3 +44,4 @@ Hans självbild var så starkt förknippad med ... att han förlorade sin identi
 ## 相关语法 (Related)
 
 - 📎 [[grammar-dubbelt-sa-som]]
+- 📎 [[grammar-sa-vs-sa-att]]

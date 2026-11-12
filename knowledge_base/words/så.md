@@ -76,3 +76,5 @@ created: "2026-10-01"
   - **副词 `så`**（句首，= 那么/这样）：占第一位，引起 **V2 倒装**，动词在主语前 → `Så gör man.`、`Så kan det vara.`
 - `så` + 形容词/副词 = 如此（`så stor`）；`så … att …` = 如此……以至于……。
 - 来源: [[source-2026-09-22-laxforhoret-valsystemet]]
+
+⚠️ så（所以）vs så att（以便）vs 副词 så（那么，引起倒装）→ [[grammar-sa-vs-sa-att]]
