@@ -6,6 +6,7 @@ zh: "恐怖主义与犯罪"
 en: "terrorism and crime"
 members:
   - terrorist
+  - bomb
   - tingsrätt
   - kniv
   - hakkors
