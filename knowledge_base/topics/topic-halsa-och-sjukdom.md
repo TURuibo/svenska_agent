@@ -8,6 +8,19 @@ members:
   - fästing
   - öka
   - bero-pa
+  - död
+  - behandling
+  - förebygga
+  - hörsel
+  - psykisk
+  - läkemedel
+  - spridning
+  - blind
+  - avlida
+  - syn
+  - audionom
+  - nedstämd
+  - kurator
 created: "2026-06-30"
 ---
 
@@ -21,6 +34,20 @@ created: "2026-06-30"
 - [[fästing]] — 蜱虫（TBE传播媒介）
 - [[öka]] — 增加（病例数增长）
 - [[bero-pa]] — 取决于，原因在于（解释病因/趋势原因）
+
+- [[död]]
+- [[behandling]]
+- [[förebygga]]
+- [[hörsel]]
+- [[psykisk]]
+- [[läkemedel]]
+- [[spridning]]
+- [[blind]]
+- [[avlida]]
+- [[syn]]
+- [[audionom]]
+- [[nedstämd]]
+- [[kurator]]
 
 ## 备注 (Notes)
 

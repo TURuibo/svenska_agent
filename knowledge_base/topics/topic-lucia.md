@@ -3,7 +3,7 @@ type: topic
 name: "lucia"
 kind: "semantic-field"
 zh: "露西亚节"
-members: [tärna, stjärngosse, midja, spetsig, lussekatt, pepparkaka, saffran, glögg, helgon, elektrisk, levande, extra, ljus, tåg, klänning, krans, skjorta, hatt, symbol]
+members: [tärna, stjärngosse, midja, spetsig, lussekatt, pepparkaka, saffran, glögg, helgon, elektrisk, levande, extra, ljus, tåg, klänning, krans, skjorta, hatt, symbol, luciatåg]
 created: "2026-10-10"
 ---
 
@@ -28,6 +28,7 @@ created: "2026-10-10"
 - [[ljus]]
 - [[tåg]]
 - [[klänning]]
+- [[luciatåg]]
 - [[krans]]
 - [[skjorta]]
 - [[hatt]]

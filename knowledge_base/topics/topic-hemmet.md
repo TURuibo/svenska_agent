@@ -43,6 +43,10 @@ members:
   - kattsand
   - kruka
   - husdjursströ
+  - vattenmätare
+  - kanna
+  - spola
+  - kran
 created: "2026-06-09"
 ---
 
