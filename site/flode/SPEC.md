@@ -1,6 +1,6 @@
 # 🌊 Flöde — 碎片时间「刷」瑞典语 (spec + plan)
 
-> 2026-11-14 · 状态：P0 实施中。本文件是 Flöde 的唯一设计依据；改行为先改这里。
+> 2026-11-14 · 状态：P0 已实现（分支上，合并进 main 后由 Action 发布）。本文件是 Flöde 的唯一设计依据；改行为先改这里。
 
 ## 1. 为什么要做 (现状分析)
 
@@ -178,7 +178,7 @@ window.FLODE_DATA = {
 | 语音 | `SvSpeak.speak(text)`；`listen` 卡进入视口时自动读（浏览器若因未交互拒绝，就显示大 ▶ 按钮）；其它卡仅在 `prefs.autoSpeak` 时自动读 |
 | PWA | `manifest.webmanifest`：`start_url: "./"`、`scope: "../"`（装到主屏后站内其它页也在 app 里开）、`display: standalone`；`sw.js` 作用域仅 `flode/`，对本页请求的同源资源做 stale-while-revalidate，新版 `skipWaiting` + `clients.claim`。不影响其它页面的缓存行为 |
 | 桌面 | 居中手机宽度的一列；键盘 `↓/空格` 下一张、`↑` 上一张、`1–4` 作答、`Enter` 揭示 |
-| 性能预算 | 壳（html+css+js）< 60 KB；数据 ≤ 3.2 MB raw，gzip 后约 1 MB；二次打开（SW 缓存）首卡 < 1 s |
+| 性能预算 | 壳（html+css+js）约 70 KB raw（gzip 约 21 KB；原定 60 KB，13 种卡实测略超，不值得为此删功能）；数据 ≤ 3.2 MB raw，gzip 后约 1 MB；二次打开（SW 缓存）首卡 < 1 s |
 | 构建/发布 | `.gitignore` 加 `site/flode/flode-data.js`；`kb-site.yml`：build 步骤末尾加 `node tools/build-flode-data.js`，`git add -f` 列表加该文件，`paths:` 加 `tools/build-flode-data.js` |
 | 约定 | 沿用站点规范：`?v=N` cache-busting、`<body data-site="flode">`、中文界面、瑞典语节点加 `lang="sv"`、深浅色跟随现有 CSS 变量 |
 

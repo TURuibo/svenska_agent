@@ -164,7 +164,8 @@
     return null;
   }
   const recent = [];                           // item keys of the last 40 cards
-  const isRecent = (k) => recent.includes(k);
+  let ignoreRecent = false;
+  const isRecent = (k) => !ignoreRecent && recent.includes(k);
   const pushRecent = (keys) => { for (const k of keys) recent.push(k); while (recent.length > 40) recent.shift(); };
   const unseen = (k) => !st.seen[k];
 
@@ -226,6 +227,7 @@
   const LANE_LABEL = { fresh: '🌙 今晚预习', due: '🔁 复习', new: '🆕 新内容', rand: '🎲 随便看看', retry: '↩️ 再来一次' };
   const INTERACTIVE = new Set(['quiz', 'cloze', 'enett', 'pairs']);
   const BITE_KINDS = ['news', 'dialog', 'teaser'];
+  let biteTurn = -1;
 
   function build(t, slug, prev) {
     const fixed = slug ? WBy.get(slug) : null;
@@ -259,9 +261,14 @@
     }
     if (t === 'phrase') { const [p, lane] = pickFrom({ new: newP, rand: [PH] }, (x) => 'p:' + x.s, () => true); return p && { t, p, lane, keys: ['p:' + p.s] }; }
     if (t === 'grammar') { const [g, lane] = pickFrom({ new: [GR], rand: [GR] }, (x) => 'g:' + x.s, () => true); return g && { t, g, lane, keys: ['g:' + g.s] }; }
-    if (t === 'bite') {
-      const [b, lane] = pickFrom({ fresh: [freshB], due: [recentB], new: newB, rand: [BI] }, (x) => 'b:' + x.id, (x) => x.kind !== prev);
-      return b && { t: b.kind, b, lane, keys: ['b:' + b.id] };
+    if (t === 'bite') {                 // rotate news → dialog → teaser so all three show up
+      biteTurn += 1;
+      for (let j = 0; j < 3; j += 1) {
+        const kind = BITE_KINDS[(biteTurn + j) % 3];
+        if (kind === prev) continue;
+        const [b, lane] = pickFrom({ fresh: [freshB], due: [recentB], new: newB, rand: [BI] }, (x) => 'b:' + x.id, (x) => x.kind === kind);
+        if (b) return { t: b.kind, b, lane, keys: ['b:' + b.id] };
+      }
     }
     return null;
   }
@@ -277,7 +284,6 @@
     for (let k = 0; k < 5; k += 1) { const i = rnd(0, c.length - 2); [c[i], c[i + 1]] = [c[i + 1], c[i]]; }
     slots = slots.concat(c);
   }
-  const typeOfSlot = (s) => s;
   function nextModel() {
     const i = models.length;
     const content = models.filter((m) => m.t !== 'stat');
@@ -285,27 +291,28 @@
     const prevT = content.length ? content[content.length - 1].t : '';
     const lastTwo = content.slice(-2);
     const needInter = lastTwo.length === 2 && lastTwo.every((m) => !INTERACTIVE.has(m.t));
-    if (slots.length < 8) refill();
-    for (const relax of [0, 1, 2]) {
-      // 1) retries that are due
-      for (let r = 0; r < retries.length; r += 1) {
-        const q = retries[r];
-        if (q.dueAt > i || (relax < 2 && q.t === prevT) || (relax < 1 && needInter && !INTERACTIVE.has(q.t))) continue;
-        const m = build(q.t, q.slug, prevT);
-        retries.splice(r, 1);
-        if (m) return m;
-        r -= 1;
-      }
-      // 2) the rhythm queue
-      for (let k = 0; k < slots.length; k += 1) {
-        const t = typeOfSlot(slots[k]);
-        if (relax < 2 && t === prevT) continue;
-        if (relax < 1 && needInter && !INTERACTIVE.has(t)) continue;
-        const m = build(t, null, relax < 2 ? prevT : '');
-        if (m && (relax >= 2 || m.t !== prevT)) { slots.splice(k, 1); return m; }
-        if (!m) { slots.splice(k, 1); k -= 1; if (slots.length < 8) refill(); }
-      }
-      if (slots.length < 8) refill();
+    if (slots.length < 12) refill();
+    for (const relax of [0, 1, 2, 3]) {            // 3 = also ignore the 40-card window
+      ignoreRecent = relax === 3;
+      try {
+        for (let r = 0; r < retries.length; r += 1) {          // 1) due retries first
+          const q = retries[r];
+          if (q.dueAt > i || (relax < 2 && q.t === prevT) || (relax < 1 && needInter && !INTERACTIVE.has(q.t))) continue;
+          const m = build(q.t, q.slug, prevT);
+          retries.splice(r, 1); r -= 1;
+          if (m) return m;
+        }
+        const tried = new Set();                                // 2) the rhythm queue
+        for (let k = 0; k < slots.length; k += 1) {
+          const t = slots[k];
+          if (tried.has(t) || (relax < 2 && t === prevT) || (relax < 1 && needInter && !INTERACTIVE.has(t))) continue;
+          tried.add(t);
+          const m = build(t, null, relax < 2 ? prevT : '');
+          if (m) { slots.splice(k, 1); return m; }
+          if (relax === 3) { slots = slots.filter((x) => x !== t); k = -1; }   // no data for this type at all
+        }
+        if (slots.length < 12) refill();
+      } finally { ignoreRecent = false; }
     }
     return null;
   }
@@ -398,11 +405,12 @@
       case 'phrase': return [m.p.sv];
       case 'grammar': return auto ? null : arr(m.g.ex).map((e) => arr(e)[0]);
       case 'news': case 'teaser': return auto ? null : [m.b.sv];
-      case 'dialog': return auto ? null : arr(m.b.turns).map((t) => t.sv);
+      case 'dialog': return auto ? null : [...feedQ(m, '.flBub [lang]')].map((e) => e.textContent);
       default: return null;
     }
   }
 
+  const feedQ = (m, sel) => { const el = cardEl(m.i); return el ? el.querySelectorAll(sel) : []; };
   // ---------- rendering ----------
   const sv = (s, cls) => `<span class="${cls || ''}" lang="sv">${esc(s)}</span>`;
   const head = (m) => {
@@ -522,16 +530,18 @@
         const chips = words.map((w) => `<span class="flChip"><b lang="sv">${esc(w.l)}</b><em>${esc(zhShort(w.zh))}</em></span>`).join('');
         return {
           main: `<div class="flC"><p class="flBTitle"${m.t === 'news' ? ' lang="sv"' : ''}>${esc(b.title)}</p>` +
-            `<div class="flFlip"><p class="flBText flSv" lang="sv">${esc(b.sv)}</p><p class="flBText flZhL">${b.zh ? esc(b.zh) : '（这条还没有中文翻译 — 🌙 今晚在阅读站细看）'}</p></div>` +
+            `<div class="flFlip"><p class="flBText flSv" lang="sv">${esc(b.sv)}</p>${b.zh ? `<p class="flBText flZhL">${esc(b.zh)}</p>` : ''}</div>` +
             (chips ? `<p class="flChips">${chips}</p>` : '') + '</div>',
           act: m.t === 'teaser' ? `<div class="flSelf"><button type="button" class="flBtn flRead${inTonight(m) ? ' sel' : ''}" data-act="tonight">🌙 今晚读全文</button></div>` : '',
-          hint: m.rev ? '再点切回瑞典语' : '点卡片看中文',
+          hint: !b.zh ? '这条暂无中文 · 📖 全文里有翻译' : m.rev ? '再点切回瑞典语' : '点卡片看中文',
         };
       }
       case 'dialog': {
         const b = m.b;
         const who = uniq(arr(b.turns).map((t) => t.who));
-        const turns = arr(b.turns).filter((t) => t && t.sv).slice(0, 4).map((t, j) => {
+        let tl = arr(b.turns).filter((t) => t && t.sv).slice(0, 4);
+        if (tl.length > 3 && tl.reduce((n, t) => n + t.sv.length, 0) > 250) tl = tl.slice(0, 3);   // keep it one screen, readable
+        const turns = tl.map((t, j) => {
           const side = who.indexOf(t.who) % 2 ? 'r' : 'l';
           const open = m.rev || (m.open && m.open[j]);
           return `<div class="flBub ${side}${open ? ' on' : ''}" data-act="bub" data-j="${j}"><small>${esc(t.who || '')}</small>${sv(t.sv)}` +
@@ -554,7 +564,7 @@
           main: `<div class="flC"><p class="flBig flBigZh">配对 ×4</p><p class="flAsk">点一个瑞典语词，再点它的中文</p>` +
             `<p class="flVerdict${fin ? ' show ' + (miss ? 'no' : 'ok') : ''}">${fin ? (miss ? `✓ 完成 · 配错 ${miss} 个词` : '✓ 全对！') : ''}</p></div>`,
           act: `<div class="flPairs"><div>${m.svOrder.map((i) => tile('sv', i, m.ws[i].l, true)).join('')}</div>` +
-            `<div>${m.zhOrder.map((i) => tile('zh', i, zhShort(m.ws[i].zh), false)).join('')}</div></div>`,
+            `<div>${(fin ? m.svOrder : m.zhOrder).map((i) => tile('zh', i, zhShort(m.ws[i].zh), false)).join('')}</div></div>`,
           hint: fin ? '上滑继续 ↑' : '配对',
         };
       }
@@ -686,22 +696,14 @@
   }
 
   // ---------- interactions ----------
-  function answerOpt(m, v) {
+  // quiz / cloze: v = chosen slug; enett: v = 'en' | 'ett'
+  function answer(m, v) {
     if (m.ans) return;
-    const ok = v === m.w.s;
+    const ok = m.t === 'enett' ? v === m.w.g : v === m.w.s;
     m.ans = { ok, pick: v };
     ovaRecord(m.w.s, ok);
     score(ok);
     if (!ok) retries.push({ t: m.t, slug: m.w.s, dueAt: m.i + rnd(4, 7) });
-    rerender(m, ok ? 'ok' : 'no');
-  }
-  function answerGenus(m, g) {
-    if (m.ans) return;
-    const ok = g === m.w.g;
-    m.ans = { ok, pick: g };
-    ovaRecord(m.w.s, ok);
-    score(ok);
-    if (!ok) retries.push({ t: 'enett', slug: m.w.s, dueAt: m.i + rnd(4, 7) });
     rerender(m, ok ? 'ok' : 'no');
   }
   function tapPair(m, side, i, el) {
@@ -729,7 +731,7 @@
     }
   }
   function reveal(m, el) {
-    if (['quiz', 'cloze', 'enett', 'pairs', 'stat'].includes(m.t)) return;
+    if (['quiz', 'cloze', 'enett', 'pairs', 'stat'].includes(m.t) || (m.b && m.t !== 'dialog' && !m.b.zh)) return;
     if (m.t === 'listen') { m.rev = (m.rev + 1) % 3; rerender(m); return; }
     m.rev = m.rev ? 0 : 1;
     if (m.t === 'dialog') { m.open = {}; rerender(m); return; }
@@ -760,8 +762,7 @@
     const a = e.target.closest('[data-act]');
     if (!a || e.target.closest('a')) return;
     const act = a.dataset.act;
-    if (act === 'opt') answerOpt(m, a.dataset.v);
-    else if (act === 'g') answerGenus(m, a.dataset.v);
+    if (act === 'opt' || act === 'g') answer(m, a.dataset.v);
     else if (act === 'pair') tapPair(m, a.dataset.side, +a.dataset.i, a);
     else if (act === 'mute' || act === 'unsure') setSelf(m, act);
     else if (act === 'tonight') toggleTonight(m);
@@ -833,8 +834,8 @@
     else if (k === 'Enter') { e.preventDefault(); if (!e.target.closest('button, a')) reveal(m, card); else e.target.click(); }
     else if (/^[1-4]$/.test(k)) {
       const n = +k - 1;
-      if (m.t === 'quiz' || m.t === 'cloze') { if (m.opts[n]) answerOpt(m, m.opts[n].s); }
-      else if (m.t === 'enett') { if (n < 2) answerGenus(m, ['en', 'ett'][n]); }
+      if (m.t === 'quiz' || m.t === 'cloze') { if (m.opts[n]) answer(m, m.opts[n].s); }
+      else if (m.t === 'enett') { if (n < 2) answer(m, ['en', 'ett'][n]); }
       else if (m.t === 'word') { if (n < 2) setSelf(m, n ? 'unsure' : 'mute'); }
     }
   });
