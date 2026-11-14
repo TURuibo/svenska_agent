@@ -360,3 +360,143 @@
   .vpGrid { grid-template-columns: 1fr; gap: 8px; }
   .vpRow { grid-template-columns: 76px 1fr 64px; }
 }
+
+/* ---------- 🌙 今晚细看 (from Flöde's localStorage) ---------- */
+
+.dgTonight {
+  max-width: 880px;
+  margin: 12px auto 4px;
+  padding: 0 24px;
+}
+
+.dgTnCard {
+  padding: 12px 16px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--blue);
+  border-radius: 12px;
+  font-family: var(--cjk);
+}
+
+.dgTonight[hidden] {
+  display: none;
+}
+
+.dgTnHead,
+.dgTnTop {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.dgTnSummary {
+  font-size: 14px;
+  color: var(--ink);
+}
+
+.dgTnGo {
+  flex: none;
+  font-size: 14px;
+  color: var(--green-dark);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.dgTnGo:hover {
+  text-decoration: underline;
+}
+
+.dgTnHint {
+  margin: 6px 0 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.dgTnTop {
+  align-items: center;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--line);
+}
+
+.dgTnTitle {
+  margin: 0;
+  font-size: 15px;
+  color: var(--green-dark);
+}
+
+.dgTnClear {
+  padding: 3px 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--muted);
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.dgTnClear:hover {
+  color: var(--red);
+  border-color: var(--red);
+}
+
+.dgTnList {
+  margin: 4px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.dgTnItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 40px;
+  border-top: 1px dashed var(--line);
+}
+
+.dgTnItem:first-child {
+  border-top: 0;
+}
+
+.dgTnIcon {
+  flex: none;
+  width: 22px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.dgTnLink {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: var(--ink);
+  font-size: 15px;
+  text-decoration: none;
+}
+
+a.dgTnLink:hover {
+  color: var(--green-dark);
+  text-decoration: underline;
+}
+
+.dgTnDone {
+  flex: none;
+  width: 36px;
+  height: 36px;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: var(--paper);
+  color: var(--green-dark);
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.dgTnDone:hover {
+  background: var(--green);
+  border-color: var(--green);
+  color: var(--panel);
+}
