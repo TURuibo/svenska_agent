@@ -1,6 +1,6 @@
 # Swedish learning site (multi-page)
 
-Static, dependency-free site for the local Swedish markdown knowledge base. Six pages share one
+Static, dependency-free site for the local Swedish markdown knowledge base. Eight pages share one
 palette (`styles.css`), one navigation component (`nav.js`), and a small set of **shared KB
 modules**:
 
@@ -32,6 +32,7 @@ https://turuibo.github.io/svenska_agent/
 | Page | Path | What it's for |
 |------|------|----------------|
 | **Dagbok** 📅 | `site/index.html` (`/`) | Home — slim daily index: what was read / listened / looked up each day, linking out |
+| **Flöde** 🌊 | `site/flode/` | Phone-first card feed for spare minutes (☀️ daytime); installable PWA — see [Flöde](#flöde-feed) |
 | **Läsning** 📖 | `site/reading/` | Read articles / news / drills with toggleable 🇨🇳 translation |
 | **Tala** 🗣️ | `site/tala/` | Speaking: the scenarios, with 🎭 dialog role-play and 🗣️ shadowing |
 | **Lyssna** 🎧 | `site/listening/` | SVT easy-Swedish listening with synced bilingual transcript |
@@ -42,17 +43,19 @@ https://turuibo.github.io/svenska_agent/
 ## Navigation (`nav.js`)
 
 Every page sets `<body data-site="…">` and loads `nav.js`, which injects one consistent nav so you
-can jump between **all seven** pages from any page. On desktop it's a slim sticky **top bar**; on
-phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted). Add a new
+can jump between **all eight** pages from any page (the Flöde page itself is an immersive, nav-less
+feed and does not load `nav.js`). On desktop it's a slim sticky **top bar**; on
+phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted; 8 tabs fit one
+row at 360 px thanks to a smaller label under 400 px). Add a new
 destination once, in `nav.js`'s `DEST` list — never per page.
 
 ## Cache-busting (`?v=N`)
 
 Static code assets (`styles.css`, `nav.js`, each page's `*.css` / `*.js`) are referenced with a
-`?v=N` query, e.g. `styles.css?v=2`. **When you edit any of those files, bump the number** (same `N`
+`?v=N` query, e.g. `styles.css?v=4`. **When you edit any of those files, bump the number** (same `N`
 across all pages) so browsers fetch the new copy instead of a stale cached one — important since the
 site is used on both laptop and phone. Generated data files (`kb-index.js`, `kb-bodies.js`,
-`reading-data.js`, `listening-data.js`) are intentionally left unversioned: the daily routines
+`reading-data.js`, `listening-data.js`, `flode/flode-data.js`) are intentionally left unversioned: the daily routines
 regenerate them, and a frozen `?v` would hide fresh data.
 
 ## Sök (search tool)
@@ -66,6 +69,35 @@ a forward-links list that flags broken targets. The body loads lazily via `KB.bo
 deep-linkable via `#note=<slug>`; the **Back** button retraces wikilink trails; keyboard shortcuts
 work (`/` or `Ctrl/Cmd-K` to focus search, ↑/↓ to move, Enter to open, Esc to back/clear). Other
 pages link in as `…/sok/#note=<slug>`, or open notes inline via the shared `KB.openNote` popover.
+
+## Flöde (feed)
+
+`site/flode/` is the **daytime** half of the loop (CLAUDE.md §4.10; full design in
+[`flode/SPEC.md`](flode/SPEC.md)): a vertical, snap-scrolling feed of 5–20 s cards cut from the same
+KB, for spare minutes on the phone. The other pages stay the place to study properly at night.
+
+| Card | What |
+|------|------|
+| `word` / `phrase` | Headword + IPA; tap → meaning, Förklaring, example; 😎 会了 / 🤔 再看看 |
+| `quiz` / `cloze` / `enett` / `pairs` | Objective cards: choose the meaning, fill the gap, en/ett, match 4 pairs |
+| `sentence` / `listen` | A sentence (tap → 中文); blind-listen version reads it aloud first |
+| `grammar` | A rule in one line + 1–2 examples |
+| `news` / `dialog` / `teaser` | Bites of 8 Sidor news, chat-bubble dialogues, article teasers (→ 🌙 read tonight) |
+| `stat` | Summary card every 10 cards |
+
+- **State** is per device (`localStorage`): `ova.state.v1` is **shared with Öva** (Flöde's objective
+  answers feed the same Leitner boxes, so `/ova` covers them); `flode.state.v1` holds seen / unsure /
+  muted, the 🌙 `tonight` list, per-day counts, the daily goal and prefs. Dagbok's **🌙 今晚细看**
+  panel reads `flode.state.v1` (summary line + the `tonight` list with ✓ / 清空).
+- **Data**: `flode/flode-data.js` (≤ 3.2 MB raw, about 1 MB gzipped) is built by `tools/build-flode-data.js` from the other
+  generated data files (run it after them); gitignored, produced by the Action. The page loads only
+  `../styles.css`, `../speak.js` and that file — none of the heavy KB data (`kb-index.js`, `kb-bodies.js`,
+  `reading-data.js`).
+- **PWA**: `manifest.webmanifest` (`start_url ./`, `scope ../`, standalone) + icons (`icon-192/512.png`,
+  `icon-maskable-512.png`, `apple-touch-icon.png`). `flode/sw.js` (scope `flode/` only) does
+  stale-while-revalidate for the page's same-origin GETs (`?v=N` variants share one cache slot) and serves
+  the cached `index.html` offline; other pages are never touched. Bump `CACHE_VERSION` to flush it.
+- Flöde does **not** count as activity for the §4.9 gate — only 「标为已读」 does.
 
 ## Läsning (reading)
 
@@ -155,6 +187,11 @@ panel and flashcards were removed 2026-10-02.)
 
 The page loads only `site/dagbok-data.js` (~80 KB), built by `tools/build-dagbok-data.js` from the
 other three generated data files — run it **after** them (the Action does).
+
+At the very top, **🌙 今晚细看** (in `dagbok.js`) shows Flöde's daytime summary (cards today / goal, 答对, 🔥 streak
+of days with ≥ 10 cards) and the list of things saved with 🌙 in Flöde — each links to Sök / Läsning / Tala, ✓
+removes it, 清空 clears all. It is rendered from `localStorage['flode.state.v1']` only (nothing if Flöde was never
+used) and writes touch just `tonight`.
 
 Above the days, **📊 词汇进度** (`vocab-card.js`, data `site/vocab-progress.js` from
 `tools/vocab-progress.js`) shows SVALex-core coverage A1/A2/B1 against the 2026-10-02 baseline, how many
