@@ -89,7 +89,7 @@ KB, for spare minutes on the phone. The other pages stay the place to study prop
   answers feed the same Leitner boxes, so `/ova` covers them); `flode.state.v1` holds seen / unsure /
   muted, the 🌙 `tonight` list, per-day counts, the daily goal and prefs. Dagbok's **🌙 今晚细看**
   panel reads `flode.state.v1` (summary line + the `tonight` list with ✓ / 清空).
-- **Data**: `flode/flode-data.js` (≤ 2 MB) is built by `tools/build-flode-data.js` from the other
+- **Data**: `flode/flode-data.js` (≤ 3.2 MB raw, about 1 MB gzipped) is built by `tools/build-flode-data.js` from the other
   generated data files (run it after them); gitignored, produced by the Action. The page loads only
   `../styles.css`, `../speak.js` and that file — none of the heavy KB data (`kb-index.js`, `kb-bodies.js`,
   `reading-data.js`).

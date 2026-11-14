@@ -46,7 +46,7 @@
 | **一口大小** | 每张卡 5–20 秒，一屏放完，不需要在卡内滚动 |
 | **单手拇指** | 上滑 = 下一张；点一下 = 看中文；选项按钮在屏幕下半部 |
 | **随时可停** | 没有「一轮」，没有未完成惩罚；进度自动存 |
-| **秒开** | 自带轻量数据（≤ 2 MB raw），PWA 可装到主屏幕、离线可用 |
+| **秒开** | 自带轻量数据（≤ 3.2 MB raw，gzip 后约 1 MB），PWA 可装到主屏幕、离线可用 |
 | **有节奏** | 被动卡（看/听）与互动卡（点一下）交替，题型不连续重复 |
 | **不重复造内容** | P0 只用现有知识库，零新增每日 token 成本 |
 
@@ -112,7 +112,7 @@ word · quiz · sentence · bite(news/dialog/teaser) · enett · phrase · cloze
 
 ## 6. 数据契约 `site/flode/flode-data.js`（**冻结**——构建端和页面端都按它写）
 
-由 `tools/build-flode-data.js` 生成（读已生成的 `site/kb-index.js` + `site/kb-bodies.js` + `site/reading/reading-data.js` + `site/vocab-progress.js`，做法仿 `tools/build-dagbok-data.js`）。gitignore；由 GitHub Action 在其它 build 之后生成并 `git add -f` 发布。**预算：≤ 2.0 MB raw。** 缺失的可选字段一律省略或给 `''`/`null`，页面端必须容错。
+由 `tools/build-flode-data.js` 生成（读已生成的 `site/kb-index.js` + `site/kb-bodies.js` + `site/reading/reading-data.js` + `site/vocab-progress.js`，做法仿 `tools/build-dagbok-data.js`）。gitignore；由 GitHub Action 在其它 build 之后生成并 `git add -f` 发布。**预算：≤ 3.2 MB raw（gzip 后约 1 MB；原定 2 MB 会砍掉三分之一的释义和例句，实测后放宽）。** 缺失的可选字段一律省略或给 `''`/`null`，页面端必须容错。
 
 ```js
 window.FLODE_DATA = {
@@ -162,7 +162,7 @@ window.FLODE_DATA = {
     words: ['…'],                  // 该文章导入块里存在于 words 的全部 slug
     sentences: ['sent-…']          // 该文章导入块里存在于 sentences 的 slug（可为空）
   }],
-  recent: [{ a, site, title, d, words: [...] }],   // 文章日期 ∈ [latest-14, latest-3]，供 🔁 车道
+  recent: [{ a, site, title, d, words: [...] }],   // fresh 窗口之前的 12 篇文章（不按日期卡，避免暂停生成后为空），供 🔁 车道
   topics: { 'topic-mat-dryck': '食物饮料' }          // slug → 中文名（只含被引用的）
 };
 ```
@@ -178,7 +178,7 @@ window.FLODE_DATA = {
 | 语音 | `SvSpeak.speak(text)`；`listen` 卡进入视口时自动读（浏览器若因未交互拒绝，就显示大 ▶ 按钮）；其它卡仅在 `prefs.autoSpeak` 时自动读 |
 | PWA | `manifest.webmanifest`：`start_url: "./"`、`scope: "../"`（装到主屏后站内其它页也在 app 里开）、`display: standalone`；`sw.js` 作用域仅 `flode/`，对本页请求的同源资源做 stale-while-revalidate，新版 `skipWaiting` + `clients.claim`。不影响其它页面的缓存行为 |
 | 桌面 | 居中手机宽度的一列；键盘 `↓/空格` 下一张、`↑` 上一张、`1–4` 作答、`Enter` 揭示 |
-| 性能预算 | 壳（html+css+js）< 60 KB；数据 ≤ 2 MB raw；二次打开（SW 缓存）首卡 < 1 s |
+| 性能预算 | 壳（html+css+js）< 60 KB；数据 ≤ 3.2 MB raw，gzip 后约 1 MB；二次打开（SW 缓存）首卡 < 1 s |
 | 构建/发布 | `.gitignore` 加 `site/flode/flode-data.js`；`kb-site.yml`：build 步骤末尾加 `node tools/build-flode-data.js`，`git add -f` 列表加该文件，`paths:` 加 `tools/build-flode-data.js` |
 | 约定 | 沿用站点规范：`?v=N` cache-busting、`<body data-site="flode">`、中文界面、瑞典语节点加 `lang="sv"`、深浅色跟随现有 CSS 变量 |
 
@@ -186,7 +186,7 @@ window.FLODE_DATA = {
 
 | 里程碑 | 内容 | 模型 | 验收 |
 |---|---|---|---|
-| **M1 数据** | `tools/build-flode-data.js` + gitignore + workflow | Sonnet | 契约字段齐全；≤ 2 MB；words ≥ 3 000、sentences ≥ 1 500、bites ≥ 200（三种 kind 都有）、fresh 非空 |
+| **M1 数据** | `tools/build-flode-data.js` + gitignore + workflow | Sonnet | 契约字段齐全；≤ 3.2 MB；words ≥ 3 000、sentences ≥ 1 500、bites ≥ 200（三种 kind 都有）、fresh 非空 |
 | **M2 卡片流** | `site/flode/` 页面：13 种 P0 卡、出卡算法、状态、设置、键盘 | Opus | 390×844 下连刷 60 张无报错；每种卡出现过；答题写进 `ova.state.v1`；刷新后进度还在 |
 | **M3 桥接 + 外壳** | Dagbok「🌙 今晚细看」面板、`nav.js` 入口、PWA（manifest/SW/图标）、README + CLAUDE.md 文档 | Sonnet | Flöde 里点 🌙 → Dagbok 出现该条且链接可达；8-tab 导航不溢出；离线重开可刷 |
 | **M4 验收** | Playwright 手机视口走查 + 截图，修问题 | 主 agent | 上述全部通过，截图给 Ruibo |

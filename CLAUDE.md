@@ -538,7 +538,7 @@ routine 第 0 步：node tools/activity-gate.js   （git fetch origin read-log �
 | 部件 | 是什么 |
 |------|--------|
 | `site/flode/` | 页面（`index.html` / `flode.js` / `flode.css`）+ PWA 外壳（`manifest.webmanifest`、`sw.js` 仅缓存 `flode/` 范围、图标），可装到手机主屏、离线可刷 |
-| `tools/build-flode-data.js` | 从已生成的 `kb-index.js` / `kb-bodies.js` / `reading-data.js` / `vocab-progress.js` 汇总出 `site/flode/flode-data.js`（≤ 2 MB）。**gitignore，由 Action 构建**，routine 不碰、不提交；本地预览需在其它 build 之后手动跑 |
+| `tools/build-flode-data.js` | 从已生成的 `kb-index.js` / `kb-bodies.js` / `reading-data.js` / `vocab-progress.js` 汇总出 `site/flode/flode-data.js`（≤ 3.2 MB，gzip 后约 1 MB）。**gitignore，由 Action 构建**，routine 不碰、不提交；本地预览需在其它 build 之后手动跑 |
 | `ova.state.v1`（localStorage） | **与 Öva 共用**：Flöde 的客观题（选择 / 填空 / en-ett / 配对）对错直接写进 Öva 的间隔重复状态，所以 Öva 的「📋 复制结果给 CC」→ `/ova` 自然覆盖 Flöde 的成绩（§4.8） |
 | `flode.state.v1`（localStorage） | Flöde 自己的状态：看过 / 再看看 / 会了、🌙 `tonight` 清单、每日计数、目标、偏好；仅本机 |
 | Dagbok 「🌙 今晚细看」面板 | `site/dagbok.js` 读 `flode.state.v1`：白天摘要（今天 N / 目标张、答对、🔥 连续天数）+ `tonight` 清单（链接 / ✓ / 清空）；没用过 Flöde 就不显示 |
