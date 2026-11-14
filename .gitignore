@@ -16,6 +16,7 @@ site/reading/reading-data.js
 site/listening/listening-data.js
 site/vocab-progress.js
 site/dagbok-data.js
+site/flode/flode-data.js
 
 # editor / OS
 .DS_Store

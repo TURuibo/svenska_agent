@@ -3,6 +3,145 @@
    (individual lookups).
    Reads window.DAGBOK_DATA, built by tools/build-dagbok-data.js. */
 
+/* 🌙 今晚细看 — panel at the top of the home page, fed by Flöde's localStorage
+   (`flode.state.v1`: days{} for the daytime summary, tonight[] for the saved list).
+   Renders nothing when Flöde was never used. Writes re-read localStorage first and
+   touch only `tonight`, so a Flöde tab open elsewhere is not clobbered. */
+(function () {
+  'use strict';
+  const KEY = 'flode.state.v1';
+  const host = document.getElementById('dgTonight');
+  if (!host) return;
+
+  const ICONS = {
+    word: '🔤', quiz: '🔤', enett: '🔤', pairs: '🔤', phrase: '💬', sentence: '📝', cloze: '📝',
+    listen: '🎧', grammar: '📐', news: '📰', dialog: '🗣️', teaser: '📖'
+  };
+  const MIN_STREAK_CARDS = 10;
+
+  function readState() {
+    try {
+      const raw = localStorage.getItem(KEY);
+      if (!raw) return null;
+      const s = JSON.parse(raw);
+      return s && typeof s === 'object' && !Array.isArray(s) ? s : null;
+    } catch (_e) { return null; }
+  }
+  function writeTonight(mutate) {
+    // Re-read first: only `tonight` changes, everything else is kept as stored.
+    try {
+      const s = readState();
+      if (!s) return;
+      const list = Array.isArray(s.tonight) ? s.tonight.slice() : [];
+      s.tonight = mutate(list);
+      localStorage.setItem(KEY, JSON.stringify(s));
+    } catch (_e) { /* storage unavailable or full: ignore */ }
+  }
+
+  const isoLocal = (d) =>
+    `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  function streak(days) {
+    const d = new Date();
+    d.setHours(0, 0, 0, 0);
+    const cards = (dt) => { const x = days[isoLocal(dt)]; return x && Number(x.cards) || 0; };
+    if (cards(d) < MIN_STREAK_CARDS) d.setDate(d.getDate() - 1);
+    let n = 0;
+    while (cards(d) >= MIN_STREAK_CARDS) { n += 1; d.setDate(d.getDate() - 1); }
+    return n;
+  }
+
+  // Entry hrefs are stored relative to site/flode/ ("../sok/#note=x"); resolve from there.
+  const FLODE_BASE = new URL('flode/', location.href);
+  function resolve(href) {
+    try {
+      const u = new URL(String(href || ''), FLODE_BASE);
+      return u.origin === location.origin || u.protocol === 'file:' ? u.href : null;
+    } catch (_e) { return null; }
+  }
+
+  function el(tag, cls, text) {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  }
+
+  function render() {
+    const s = readState();
+    host.textContent = '';
+    if (!s) { host.hidden = true; return; }
+    const days = s.days && typeof s.days === 'object' ? s.days : {};
+    const today = days[isoLocal(new Date())] || {};
+    const cards = Number(today.cards) || 0;
+    const right = Number(today.right) || 0;
+    const wrong = Number(today.wrong) || 0;
+    const goal = Number(s.goal) > 0 ? Number(s.goal) : 30;
+    const tonight = (Array.isArray(s.tonight) ? s.tonight : []).filter((e) => e && typeof e === 'object');
+
+    const bits = [cards ? `☀️ 今天刷了 ${cards} / ${goal} 张` : '☀️ 今天还没刷'];
+    if (right + wrong > 0) bits.push(`答对 ${right}/${right + wrong}`);
+    const st = streak(days);
+    if (st > 0) bits.push(`🔥 ${st} 天`);
+
+    const card = el('div', 'dgTnCard');
+    const head = el('div', 'dgTnHead');
+    head.append(el('span', 'dgTnSummary', bits.join(' · ')));
+    const go = el('a', 'dgTnGo', cards ? '继续刷 →' : '去刷 →');
+    go.href = 'flode/';
+    head.append(go);
+    card.append(head);
+
+    if (!tonight.length) {
+      card.append(el('p', 'dgTnHint', '刷的时候点 🌙，想晚上细看的会存到这里。'));
+    } else {
+      const top = el('div', 'dgTnTop');
+      top.append(el('h2', 'dgTnTitle', `🌙 今晚细看 · ${tonight.length}`));
+      if (tonight.length >= 2) {
+        const clear = el('button', 'dgTnClear', '清空');
+        clear.type = 'button';
+        clear.addEventListener('click', () => { writeTonight(() => []); render(); });
+        top.append(clear);
+      }
+      card.append(top);
+
+      const ul = el('ul', 'dgTnList');
+      tonight.forEach((e) => {
+        const li = el('li', 'dgTnItem');
+        li.append(el('span', 'dgTnIcon', ICONS[e.t] || '📌'));
+        const title = String(e.title || e.slug || e.id || '—');
+        const href = resolve(e.href);
+        if (href) {
+          const a = el('a', 'dgTnLink', title);
+          a.href = href;
+          a.lang = 'sv';
+          li.append(a);
+        } else {
+          const t = el('span', 'dgTnLink', title);
+          t.lang = 'sv';
+          li.append(t);
+        }
+        const done = el('button', 'dgTnDone', '✓');
+        done.type = 'button';
+        done.title = '看完了，移除';
+        done.setAttribute('aria-label', `移除 ${title}`);
+        done.addEventListener('click', () => {
+          writeTonight((list) => list.filter((x) => !(x && x.id === e.id && x.at === e.at)));
+          render();
+        });
+        li.append(done);
+        ul.append(li);
+      });
+      card.append(ul);
+    }
+    host.append(card);
+    host.hidden = false;
+  }
+
+  render();
+  window.addEventListener('pageshow', render);
+  window.addEventListener('storage', (ev) => { if (ev.key === KEY || ev.key === null) render(); });
+})();
+
 (function () {
   'use strict';
 
