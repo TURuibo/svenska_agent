@@ -1,7 +1,9 @@
 /* Shared site navigation — single source of truth for cross-page nav.
  *
  * Each page sets <body data-site="dagbok|flode|reading|tala|listening|ova|forms|sok"> and loads
- * this script (./nav.js at the site root, ../nav.js from a sub-folder). The script
+ * this script (./nav.js at the site root, ../nav.js from a sub-folder).
+ * Öva (ova/) has no tab since 2026-11-15 — Flöde covers quick review — but the page
+ * still loads this nav and stays reachable from links (e.g. Läsning's 🎯 去复习). The script
  * injects an identical nav into every page: a sticky top bar on desktop and a
  * fixed bottom tab bar on phones (styled by .siteNav rules in styles.css).
  *
@@ -20,7 +22,6 @@
     { id: 'reading', icon: '📖', label: 'Läsning', href: base + 'reading/' },
     { id: 'tala', icon: '🗣️', label: 'Tala', href: base + 'tala/' },
     { id: 'listening', icon: '🎧', label: 'Lyssna', href: base + 'listening/' },
-    { id: 'ova', icon: '🔁', label: 'Öva', href: base + 'ova/' },
     { id: 'forms', icon: '📐', label: 'Former', href: base + 'forms/' },
     { id: 'sok', icon: '🔍', label: 'Sök', href: base + 'sok/' }
   ];

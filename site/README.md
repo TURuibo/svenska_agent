@@ -36,16 +36,16 @@ https://turuibo.github.io/svenska_agent/
 | **Läsning** 📖 | `site/reading/` | Read articles / news / drills with toggleable 🇨🇳 translation |
 | **Tala** 🗣️ | `site/tala/` | Speaking: the scenarios, with 🎭 dialog role-play and 🗣️ shadowing |
 | **Lyssna** 🎧 | `site/listening/` | SVT easy-Swedish listening with synced bilingual transcript |
-| **Öva** 🔁 | `site/ova/` | Multiple-choice vocabulary review (🎯 gap words / recent / all) with spaced repetition |
+| **Öva** 🔁 | `site/ova/` | Multiple-choice vocabulary review (🎯 gap words / recent / all) with spaced repetition. **No nav tab** since 2026-11-15 (Flöde covers quick review); reached from Läsning's / Dagbok's 🔁 去复习 links, and still where 📋 复制结果给 CC → `/ova` lives |
 | **Former** 📐 | `site/forms/` | Word forms grouped by 词性 / date |
 | **Sök** 🔍 | `site/sok/` | Dictionary / full-text search tool (formerly the home page) |
 
 ## Navigation (`nav.js`)
 
 Every page sets `<body data-site="…">` and loads `nav.js`, which injects one consistent nav so you
-can jump between **all eight** pages from any page (the Flöde page itself is an immersive, nav-less
+can jump between the pages from any page: seven tabs (Öva has no tab; the Flöde page itself is an immersive, nav-less
 feed and does not load `nav.js`). On desktop it's a slim sticky **top bar**; on
-phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted; 8 tabs fit one
+phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted; the tabs fit one
 row at 360 px thanks to a smaller label under 400 px). Add a new
 destination once, in `nav.js`'s `DEST` list — never per page.
 
