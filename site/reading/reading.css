@@ -771,3 +771,7 @@ body.vocabPopOpen { overflow: hidden; }   /* lock background scroll while the sh
   padding: 0 2px;
 }
 .articleBody strong.targetStrong { font-weight: 700; }
+
+.kursLine { margin: 4px 0 10px; font-size: 13px; }
+.kursLine a { color: var(--green); text-decoration: none; }
+.kursLine a:hover { text-decoration: underline; }

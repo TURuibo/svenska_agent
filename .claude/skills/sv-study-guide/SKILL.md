@@ -73,9 +73,13 @@ node tools/build-reading-site.js
 必讲的高频点（出现就讲，链到已有笔记）：V2/倒装（[[grammar-inversion-efter-fundament]]）、从句里 inte 在动词前（[[grammar-bisats-ordfoljd]]）、sin vs hans（[[grammar-sin-sina]]）、两种 att、介词 + att + 不定式、s-被动/deponens、pluskvamperfekt / 从句省 hade、小品词动词被拆开、双重限定 / 属格后名词不加词尾、indirekt fråga 的 om/vad、强变化动词形式。
 **判断要准**：`det är något som…` 若 det 指代前文就**不是** klyvning；不确定的用法（att 可省/不可省）说"可省"而非"不加"。
 
+> 📘 **这个格式被 `tools/build-kurs-data.js` 机器解析**，喂给手机上的 Kurs 页（SPEC：`site/kurs/SPEC.md`）：标题（`### ¶N · … （N 句）`）、句子行（`**①**`）、`- 📐` / `- ⚠️` / `- 🇨🇳` 要点行、`#### 🧩 词组` / `#### 📚 生词` 的表头列顺序**都要保持原样**，别自创写法。
+
 生词表「原形」列链接的 slug 必须存在（写完用脚本逐个核对）。导出块（`# words` / `# phrases` / `# grammar`）补入新建条目，source 笔记补 `words:/phrases:/grammar:` 列表。
 
 ## 4. 复核（发布前必做）
+
+- 跑 `node tools/build-kurs-data.js --check`（Kurs 数据对账：段数/句数/⚠️ 条数/生词行数/悬空 `[[链接]]`/逐行对账）。有不符先改精读格式再发布——它抓的是格式写偏了，Kurs 页会因此丢内容。
 
 - 每段派一个**独立复核 agent**（只读），任务：找会误导学习者的错误（语法判断、成分标注、译文、原形/词性/变形、原文是否逐字一致），返回 `old_text → new_text`。只改真错误和明显不准，不改风格。
 - 若改了 `tools/build-reading-site.js` / `reading.js` 的匹配规则：新旧构建对比**全部 147 篇**——新增词形清单 + 回退命中清单逐条审误配；各文章 `counts` 只允许原来为 0 的变化。

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Kurs — 精读课文 · svensk_agent</title>
+    <meta name="description" content="在手机上认真学课文：读 → 拆 → 词 → 练，一句一页，随时中断、原地继续。" />
+    <meta name="theme-color" content="#f7f8f2" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#141a17" media="(prefers-color-scheme: dark)" />
+    <link rel="stylesheet" href="../styles.css?v=4" />
+    <link rel="stylesheet" href="kurs.css?v=1" />
+  </head>
+  <body class="kuBody" data-site="kurs">
+    <main id="kuHome" class="kuHome" aria-label="课程列表"></main>
+
+    <section id="kuLesson" class="kuLesson" aria-label="课文" hidden>
+      <header class="kuTop">
+        <button type="button" class="kuIcon" id="kuBack" aria-label="返回课程列表" title="返回课程列表">←</button>
+        <div class="kuTopMid">
+          <h1 class="kuTopTitle" id="kuTitle" lang="sv"></h1>
+          <button type="button" class="kuBar" id="kuBar" aria-label="段落列表" title="段落列表"></button>
+        </div>
+        <button type="button" class="kuIcon" id="kuMenuBtn" aria-label="整课菜单" title="整课菜单" aria-haspopup="dialog">⋯</button>
+      </header>
+      <div class="kuMain" id="kuMain"></div>
+      <nav class="kuTabs" id="kuTabs" aria-label="学习步骤">
+        <button type="button" data-step="0"><b>读</b><small>原文</small></button>
+        <button type="button" data-step="1"><b>拆</b><small>逐句</small></button>
+        <button type="button" data-step="2"><b>词</b><small>生词</small></button>
+        <button type="button" data-step="3"><b>练</b><small>小测</small></button>
+      </nav>
+    </section>
+
+    <section id="kuView" class="kuView" hidden aria-modal="true" role="dialog" aria-labelledby="kuViewTitle">
+      <header class="kuTop">
+        <button type="button" class="kuIcon" data-close="layer" aria-label="返回">←</button>
+        <div class="kuTopMid"><h2 class="kuTopTitle" id="kuViewTitle"></h2></div>
+        <span class="kuIcon kuIconGhost" aria-hidden="true"></span>
+      </header>
+      <div class="kuViewBody" id="kuViewBody"></div>
+    </section>
+
+    <div class="kuSheetWrap" id="kuSheetWrap" hidden>
+      <div class="kuSheetBack" data-close="layer"></div>
+      <section class="kuSheet" id="kuSheet" role="dialog" aria-modal="true" aria-labelledby="kuSheetTitle">
+        <div class="kuGrip" id="kuGrip" aria-hidden="true"><span></span></div>
+        <header class="kuSheetHead" id="kuSheetHead">
+          <button type="button" class="kuIcon" id="kuSheetPrev" aria-label="上一张卡片" hidden>‹</button>
+          <h2 id="kuSheetTitle" class="kuSheetTitle"></h2>
+          <button type="button" class="kuIcon" data-close="layer" aria-label="关闭">✕</button>
+        </header>
+        <div class="kuSheetBody" id="kuSheetBody"></div>
+      </section>
+    </div>
+
+    <div class="kuToast" id="kuToast" role="status" aria-live="polite"></div>
+
+    <script src="kurs-index.js"></script>
+    <script src="../kb-markdown.js?v=5"></script>
+    <script src="../speak.js?v=3"></script>
+    <script src="../read-sync.js?v=1"></script>
+    <script src="kurs.js?v=1"></script>
+    <script src="../nav.js?v=8"></script>
+    <script>
+      window.addEventListener('load', function () {
+        try {
+          if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(function () {});
+        } catch (_e) { /* silent */ }
+      });
+    </script>
+  </body>
+</html>
