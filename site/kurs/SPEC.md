@@ -145,7 +145,7 @@
 `tools/build-kurs-data.js` 直接读 `imported/*.md`（凡含 `## 🔍 逐段精读` 的文件）+ `knowledge_base/` 笔记 + `listening/*.json`（找 `readingSlug`），不依赖其它 build。产出两类文件，均 **gitignore、由 Action 构建**：
 
 - `site/kurs/kurs-index.js` → `window.KURS_INDEX`
-- `site/kurs/data/<slug>.js` → `window.KURS_LESSONS = window.KURS_LESSONS || {}; window.KURS_LESSONS['<slug>'] = {...}`（按需用 `<script>` 加载，一课一个文件，≤ 600 KB raw）
+- `site/kurs/data/<slug>.js` → `window.KURS_LESSONS = window.KURS_LESSONS || {}; window.KURS_LESSONS['<slug>'] = {...}`（按需用 `<script>` 加载，一课一个文件，≤ 800 KB raw，gzip 后最大约 250 KB）
 
 文中凡标 `md` 的字段是**行内 Markdown**（`**粗**`、`*斜*`、`` `码` ``、`[[slug]]`、`[[slug|显示名]]`）；`secs[].md` 是**块级 Markdown**（可含表格、列表），页面用 `../kb-markdown.js` 渲染。所有 `[[slug]]` 目标若存在，一定在该课的 `kb` 里。
 
@@ -182,7 +182,8 @@ lesson = {
                { t: 'meddelandet', r: 'O' }, { t: 'för femte gången', r: 'A' }],
                                    // 由 📐 行解析：`文本`(角色)，顺序即原文顺序；
                                    // 角色照抄括号内容（S/V/O/A/表语/不定式/形式主语/V…/…）
-                                   // 解析不完整（有成分没配上角色、或行里有反引号外的说明文字）→ null
+                                   // 没标角色的成分给 r:''；行里有反引号外的说明文字、或拼不回原句 → null
+                                   // （实测约 50% 的句子有 chunks；其余由页面把 struct 渲染成「色块 + 行间说明」）
       struct: '`Johan`(S) + `läste`(V) + …',   // 📐 行原文 md（去掉 "- 📐 "），总是保留
       points: ['「第 N 次」= **för + 序数词 + gången** … → [[grammar-…|📗叙事用过去时]]'],  // 每条 ⚠️，md
       zh: 'Johan 第五次读这条消息。',
@@ -200,6 +201,7 @@ lesson = {
   },
   forms: { 'läste': 'läsa', 'meddelandet': 'meddelande' },   // 小写表层形式 → kb 里的词 slug；
                                    // 覆盖本课瑞典语正文里所有能在 KB 找到笔记的词（含变形）
+  guideMd: '',                     // 精读开头的「💡 读法 / 💡 符号」说明（块级 md），可为空
   kb: {                            // 本课引用到的全部笔记
     'läsa': {
       t: 'word', title: 'läsa', pos: 'verb', genus: '', cefr: 'A1', zh: '读', en: 'to read',
@@ -229,7 +231,7 @@ lesson = {
 | 依赖 | `../styles.css`、`kurs.css`、`kurs-index.js`、`../kb-markdown.js`、`../speak.js`、`../read-sync.js`、`kurs.js`、`../nav.js`。**不加载** `kb-index.js` / `kb-bodies.js` / `reading-data.js`。课文数据按需插 `<script>` |
 | 路由 | hash：`#` 首页 · `#l=<slug>` 课文（回到上次位置）· `#l=<slug>&p=<n>&s=<step>&i=<句>`；浏览器返回键可用 |
 | 布局 | 首页显示站点导航；进入课文后隐藏站点导航，底部换成四步 tab。② 拆 用横向 scroll-snap 分页，每页内部可竖向滚动（要点多的句子不截断） |
-| 结构色块 | S / V / O / A 四种固定颜色，其它角色用中性色；色块按原文顺序换行排列，角色小字标在块下；`chunks` 为 null 时渲染 `struct` 原文 |
+| 结构色块 | S / V / O / A 四种固定颜色，其它角色用中性色；色块按原文顺序换行排列，角色小字标在块下；`chunks` 为 null 时把 `struct` 渲染成「富结构」：反引号里的片段照样成色块（后面跟 `(角色)` 就上色），片段之间的说明文字原样留在行间 |
 | 底部卡片 | 一个通用 bottom sheet：词 / 词组 / 语法 / 句子笔记都用它；可下拉关闭；内部可滚动；卡片里的 `[[链接]]` 在同一卡片内前进，带返回 |
 | 语音 | `SvSpeak.speak`；句子、例句、词都有 🔊；语速在设置里 |
 | 离线 | `sw.js` 作用域仅 `kurs/`，stale-while-revalidate（同 Flöde 的做法）：打开过的课离线可学 |
@@ -243,7 +245,7 @@ lesson = {
 
 | 里程碑 | 内容 | 模型 | 验收 |
 |---|---|---|---|
-| **M1 数据** | `tools/build-kurs-data.js`（含 `--check`）+ gitignore + workflow | Sonnet | 14 课全部通过 `--check`；609 句、1 755 条 ⚠️ 一条不少；逐行对账无遗漏；每课 ≤ 600 KB |
+| **M1 数据** | `tools/build-kurs-data.js`（含 `--check`）+ gitignore + workflow | Sonnet | 14 课全部通过 `--check`；599 句、609 条 📐、1 755 条 ⚠️ 一条不少；逐行对账无遗漏；每课 ≤ 800 KB |
 | **M2 课程页** | `site/kurs/`：首页、四步、底部卡片、四种题、整课视图、状态、路由 | Opus | 360×640 / 390×844 走完一整段四步无报错；无横向溢出；刷新后回到原位置；答题写进 `ova.state.v1` |
 | **M3 外壳** | `nav.js` 入口、Läsning 入口、`sw.js`、文档（README、CLAUDE.md §4.11、sv-study-guide 技能里注明格式是 Kurs 的数据源） | Sonnet | 导航 8 tab 不溢出；Läsning → Kurs 链接可达；离线可开已缓存的课 |
 | **M4 验收** | 手机视口走查 + 截图 + 抽查信息完整性 | 主 agent | 抽 3 课，逐句对比原 md，要点与生词说明无缺失 |
