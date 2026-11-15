@@ -208,7 +208,7 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 1. /dagens-scenario   （批量：按 day-of-year 生成当天 5 篇，一周轮完 35 体裁，不需联网）
 2. 对刚生成的**每一个** inbox/scenario-<date>-*.md（今天 5 篇）逐篇跑 /import（spawn librarian/importer 用前台，每篇等完整 manifest 再做下一篇）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`）已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`）已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：同时在本地任务和云端跑会同一天生成两篇。改用云端后，请在桌面把本地那条 scenario 任务**停用**。
@@ -326,7 +326,7 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 1. /dagens-nyheter
 2. 对刚生成的 inbox/news-*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`）已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`）已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：news 同时在本地 `svensk-news-daily` 和云端跑会重复抓取/产生两份当日新闻。
@@ -429,7 +429,7 @@ A1–A2 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 
 **⭐ 2026-06-23 架构改：生成的 viewer 数据文件已移出 git。**
 `site/kb-index.js`、`site/kb-bodies.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js`
-（以及 2026-10-02 起 Dagbok 首页用的 `site/dagbok-data.js`，由 `tools/build-dagbok-data.js` 从前三者汇总；2026-11-14 起还有 Flöde 用的 `site/flode/flode-data.js`，见 §4.10）现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
+（以及 2026-10-02 起 Dagbok 首页用的 `site/dagbok-data.js`，由 `tools/build-dagbok-data.js` 从前三者汇总；2026-11-14 起还有 Flöde 用的 `site/flode/flode-data.js`，见 §4.10；2026-11-15 起还有 Kurs 用的 `site/kurs/kurs-index.js` + `site/kurs/data/`，见 §4.11）现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
 main**。所以以前「Action 提交 viewer 文件 → 和 routine 抢 → 每次 merge 必冲突」的根源**没了**：routine **绝不碰
 这几个文件**，PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数据文件、⑥force-push 对齐分支）。
 
@@ -545,6 +545,22 @@ routine 第 0 步：node tools/activity-gate.js   （git fetch origin read-log �
 
 > ⚠️ **Flöde 不算 §4.9 的「活跃」**：刷卡不会推 `read-log`，仍然只有在 Läsning / Tala / Lyssna 里「标为已读」才重置 48 小时门槛。
 > 白天刷、晚上不读超过 48 h，自动生成照样会暂停。
+
+### §4.11 📘 Kurs (手机上认真学课文)
+
+**Kurs** 是第 9 个页面（nav 里排在 Flöde 之后）：把有「🔍 逐段精读」的教材课文切成「一段 = 一次学习」——读 → 拆（一句一页，结构色块 + ⚠️ 要点）→ 词 → 练，
+位置自动保存、可断点续学。**Flöde 刷 ↔ Kurs 学**。设计、数据契约、界面见 `site/kurs/SPEC.md`，这里不重复。
+
+| 部件 | 是什么 |
+|------|--------|
+| `site/kurs/` | 页面（`index.html` / `kurs.js` / `kurs.css`）+ `sw.js`（作用域仅 `kurs/`，离线可学已打开过的课；无 manifest） |
+| `tools/build-kurs-data.js` | 直接读 `imported/*.md`（含 `## 🔍 逐段精读`）+ KB 笔记 + `listening/*.json`，生成 `site/kurs/kurs-index.js` + `site/kurs/data/<slug>.js`。**两者都 gitignore，由 Action 构建**，routine 不碰、不提交；`--check` 逐行对账 |
+| `kurs.state.v1`（localStorage） | 进度（课/段/步/句）、⭐ 标记、偏好；答题对错写进与 Öva / Flöde 共用的 `ova.state.v1`（§4.8） |
+| Läsning 入口 | 有精读的文章页顶部一行「📘 在手机上精读 →」（判断依据：正文含 `🔍 逐段精读`） |
+
+> 规则 (a)：**`imported/*.md` 里 `sv-study-guide` 的精读格式就是 Kurs 的数据源**（被 `tools/build-kurs-data.js` 机器解析）。
+> 写完或改过任何一篇「🔍 逐段精读」后，发布前跑 `node tools/build-kurs-data.js --check`，有不符先修再发。
+> 规则 (b)：Kurs 里的「✓ 标为已读」与 Läsning 是**同一个标记**（`ReadSync`），所以**算 §4.9 的活跃**。
 
 ---
 

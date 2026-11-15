@@ -33,6 +33,7 @@ https://turuibo.github.io/svenska_agent/
 |------|------|----------------|
 | **Dagbok** 📅 | `site/index.html` (`/`) | Home — slim daily index: what was read / listened / looked up each day, linking out |
 | **Flöde** 🌊 | `site/flode/` | Phone-first card feed for spare minutes (☀️ daytime); installable PWA — see [Flöde](#flöde-feed) |
+| **Kurs** 📘 | `site/kurs/` | Phone-first textbook study: one paragraph = one session (读 → 拆 → 词 → 练), resumable — see [Kurs](#kurs-textbook-study) |
 | **Läsning** 📖 | `site/reading/` | Read articles / news / drills with toggleable 🇨🇳 translation |
 | **Tala** 🗣️ | `site/tala/` | Speaking: the scenarios, with 🎭 dialog role-play and 🗣️ shadowing |
 | **Lyssna** 🎧 | `site/listening/` | SVT easy-Swedish listening with synced bilingual transcript |
@@ -43,7 +44,7 @@ https://turuibo.github.io/svenska_agent/
 ## Navigation (`nav.js`)
 
 Every page sets `<body data-site="…">` and loads `nav.js`, which injects one consistent nav so you
-can jump between the pages from any page: seven tabs (Öva has no tab; the Flöde page itself is an immersive, nav-less
+can jump between the pages from any page: eight tabs (Öva has no tab; the Flöde page itself is an immersive, nav-less
 feed and does not load `nav.js`). On desktop it's a slim sticky **top bar**; on
 phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted; the tabs fit one
 row at 360 px thanks to a smaller label under 400 px). Add a new
@@ -147,6 +148,28 @@ Speaker turns and their line-by-line 中文 are parsed at build time by `parseDi
 dialog-pack 🇸🇪 / 🇨🇳 fenced blocks); the 中文 is attached only when both sides have the same number of
 turns. Old `reading/#article=scenario-…` links redirect to Tala (and vice versa), so Former / Lyssna /
 bookmarks keep working.
+
+## Kurs (textbook study)
+
+`site/kurs/` turns the textbook articles that carry a `## 🔍 逐段精读` guide (`imported/*.md`, written per
+`.claude/skills/sv-study-guide`) into a phone-first course. Design authority: `site/kurs/SPEC.md`.
+
+- **Four steps per paragraph**: ① 读 (whole paragraph, tappable words) → ② 拆 (one sentence per page: 📐 structure
+  blocks, ⚠️ point cards, translation hidden by default) → ③ 词 (phrases + vocab; tap for the full word card) →
+  ④ 练 (5–8 questions built from that paragraph). The position (lesson / paragraph / step / sentence) is saved on
+  every page turn, so the home page always offers 「继续上次」.
+- **Data**: `node tools/build-kurs-data.js` writes `site/kurs/kurs-index.js` and one `site/kurs/data/<slug>.js`
+  per lesson (both gitignored, built by the Action). `node tools/build-kurs-data.js --check` reconciles every
+  line of each guide against the parsed fields and exits non-zero on a mismatch — run it after writing or
+  editing a 逐段精读. The page loads **none** of the heavy KB data files (`kb-index.js` / `kb-bodies.js` /
+  `reading-data.js`); lesson files are inserted on demand.
+- **localStorage**: `kurs.state.v1` (progress, ⭐ marks, prefs) and the shared `ova.state.v1` (quiz right/wrong
+  feed the same spaced-repetition state as Öva / Flöde).
+- **标为已读** is the same `ReadSync` mark as Läsning's, so it counts as activity for the §4.9 gate.
+- **Entry from Läsning**: articles whose body contains the `🔍 逐段精读` heading show 「📘 在手机上精读 →」
+  (→ `../kurs/#l=<slug>`); Tala never does.
+- **Offline**: `kurs/sw.js` (scope `kurs/` only, no manifest) is stale-while-revalidate for same-origin GETs,
+  cache `kurs-v<N>` keyed without `?v=`; cross-origin and non-GET requests (read-sync) pass straight through.
 
 ## Öva (review)
 
