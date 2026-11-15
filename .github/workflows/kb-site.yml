@@ -13,6 +13,7 @@ on:
       - 'tools/build-listening-site.js'
       - 'tools/build-dagbok-data.js'
       - 'tools/build-flode-data.js'
+      - 'tools/build-kurs-data.js'
       - 'tools/vocab-progress.js'
       - 'profile/vocab-gaps.json'
       - '.github/workflows/kb-site.yml'
@@ -45,11 +46,11 @@ jobs:
           fetch-depth: 0
 
       # The viewer data files (kb-index/kb-bodies.js, reading-data.js, listening-data.js, dagbok-data.js,
-      # flode-data.js, vocab-progress.js)
+      # flode-data.js, kurs-index.js + kurs/data/*.js, vocab-progress.js)
       # are .gitignore'd on main and exist ONLY here — regenerated fresh on every
       # publish. They are never committed back to main, so routines never fight
       # the CI over them (eliminates the old "Update KB viewer data" churn).
-      - name: Regenerate viewer data (KB + Läsning + Lyssna + Dagbok + Flöde + 词汇进度)
+      - name: Regenerate viewer data (KB + Läsning + Lyssna + Dagbok + Flöde + Kurs + 词汇进度)
         run: |
           node tools/build-kb-site.js
           node tools/vocab-progress.js
@@ -60,6 +61,8 @@ jobs:
           # Flöde's card-feed data is also derived from the outputs above (kb-index/bodies,
           # reading-data, vocab-progress) — keep it after them.
           node tools/build-flode-data.js
+          # Kurs (课文精读) data is built straight from imported/ + knowledge_base/ + listening/ — order-independent.
+          node tools/build-kurs-data.js
 
       - name: Publish site folder to gh-pages
         run: |
@@ -68,7 +71,7 @@ jobs:
           # Force-add the gitignored data files into an EPHEMERAL commit used only
           # to build the gh-pages tree. This commit lives and dies on the runner —
           # it is never pushed to main (we only push the subtree split to gh-pages).
-          git add -f site/kb-index.js site/kb-bodies.js site/reading/reading-data.js site/listening/listening-data.js site/dagbok-data.js site/flode/flode-data.js site/vocab-progress.js
+          git add -f site/kb-index.js site/kb-bodies.js site/reading/reading-data.js site/listening/listening-data.js site/dagbok-data.js site/flode/flode-data.js site/vocab-progress.js site/kurs/kurs-index.js site/kurs/data
           git commit -q -m "ci: ephemeral build data for gh-pages" || echo "no data changes to stage"
           sha=$(git subtree split --prefix site HEAD)
           git push origin "$sha:refs/heads/gh-pages" --force
