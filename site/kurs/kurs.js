@@ -60,7 +60,7 @@
 
   function cleanPos(p) {
     if (!isObj(p) || !p.slug) return null;
-    return { slug: str(p.slug), para: Number(p.para) || 1, step: STEPS.includes(p.step) ? p.step : 'r', sent: Math.max(1, Number(p.sent) || 1),
+    return { slug: str(p.slug), para: Number.isFinite(Number(p.para)) ? Number(p.para) : 1, step: STEPS.includes(p.step) ? p.step : 'r', sent: Math.max(1, Number(p.sent) || 1),
       at: str(p.at), title: str(p.title), of: Number(p.of) || 0 };
   }
   function loadState() {
@@ -185,6 +185,8 @@
     L.forms = isObj(L.forms) ? L.forms : {};
     L.kb = isObj(L.kb) ? L.kb : {};
     L.title = str(L.title);
+    L.guideMd = str(L.guideMd);
+    for (const p of L.paras) { p.vmap = {}; for (const v of p.vocab) { const f = v.form.toLowerCase(); if (v.slug && !(f in p.vmap)) p.vmap[f] = v.slug; } }
     L.__kurs = 1;
     return L;
   }
@@ -212,7 +214,8 @@
       out += esc(s.slice(last, at));
       last = at + m.length;
       const low = m.toLowerCase();
-      let slug = L && L.forms[low];
+      const PV = p != null && L ? paraByN(p) : null;
+      let slug = PV && PV.vmap[low] && L.kb[PV.vmap[low]] ? PV.vmap[low] : L && L.forms[low];
       if (!slug && L && L.kb[low] && L.kb[low].t === 'word') slug = low;
       if (slug && L.kb[slug]) out += `<span class="kuW" role="button" tabindex="0" data-w="${esc(slug)}" data-f="${esc(m)}"${p != null ? ` data-p="${p}"` : ''}>${esc(m)}</span>`;
       else out += esc(m);
@@ -262,7 +265,7 @@
     const slug = h.get('l');
     if (!slug) return null;
     const o = { slug };
-    if (h.has('p')) o.para = Number(h.get('p')) || 1;
+    if (h.has('p') && Number.isFinite(Number(h.get('p')))) o.para = Number(h.get('p'));
     if (STEPS.includes(h.get('s'))) o.step = h.get('s');
     if (h.has('i')) o.sent = Math.max(1, Number(h.get('i')) || 1);
     return o;
@@ -343,9 +346,9 @@
     if (!b) return;
     const slug = b.getAttribute('data-open');
     const pos = b.hasAttribute('data-resume') && st.last && st.last.slug === slug ? st.last : (lessonSt(slug).pos || null);
-    const c = pos ? { slug, para: pos.para, step: pos.step, sent: pos.sent } : { slug, para: 0, step: 'r', sent: 1 };
-    try { history.pushState({ kuLesson: 1 }, '', c.para ? hashFor(c) : `#l=${encodeURIComponent(slug)}`); } catch (_e) { /* ignore */ }
-    openLesson(slug, c.para ? c : { slug });
+    const c = pos ? { slug, para: pos.para, step: pos.step, sent: pos.sent } : null;
+    try { history.pushState({ kuLesson: 1 }, '', c ? hashFor(c) : `#l=${encodeURIComponent(slug)}`); } catch (_e) { /* ignore */ }
+    openLesson(slug, c || { slug });
   });
   if (window.ReadSync && window.ReadSync.onChange) window.ReadSync.onChange(() => { if (!cur && !homeEl.hidden) showHome(); else if (cur) paintMenuRead(); });
 
@@ -366,7 +369,7 @@
       if (tok !== openToken) return;
       L = prep(data);
       const ls = lessonSt(slug);
-      let pos = want && want.para ? want : (st.last && st.last.slug === slug ? st.last : ls.pos);
+      let pos = want && want.para != null ? want : (st.last && st.last.slug === slug ? st.last : ls.pos);
       let para = pos && paraByN(pos.para) ? pos.para : (L.paras[0] ? L.paras[0].n : 1);
       const P = paraByN(para);
       let step = pos && pos.step ? pos.step : 'r';
@@ -413,7 +416,7 @@
   }
   function paintTabs() {
     const P = paraByN(cur.para);
-    const ex = !P || P.kind === 'extra';
+    const ex = !P || (P.kind === 'extra' && !P.sents.length);
     tabsEl.hidden = ex;
     lessonEl.classList.toggle('noTabs', ex);
     const q = lessonSt(cur.slug).paras[cur.para] || {};
@@ -455,7 +458,7 @@
     paintTabs();
     mainEl.className = 'kuMain';
     if (!P) { mainEl.innerHTML = '<p class="kuEmpty">这一课没有段落。</p>'; return; }
-    if (P.kind === 'extra') renderExtra(P);
+    if (P.kind === 'extra' && !P.sents.length) renderExtra(P);
     else if (cur.step === 'a') renderAnalyse(P);
     else if (cur.step === 'w') renderWords(P);
     else if (cur.step === 'q') renderQuiz(P);
@@ -466,6 +469,7 @@
     saveLast();
   }
 
+  const pLabel = (P) => (P.kind === 'extra' ? '附加段' : '¶' + P.n);
   const paraHead = (P, extra) => `<header class="kuParaHead"><span class="kuParaN">${P.kind === 'extra' ? '附加段' : '¶' + P.n}</span>` +
     `<h2>${esc(P.title)}</h2>${extra || ''}</header>`;
   const svLines = (text, p) => str(text).split(/\n+/).map((l) => l.trim()).filter(Boolean).map((l) => `<p>${toks(l, p)}</p>`).join('');
@@ -535,27 +539,54 @@
     return 'n';
   }
   const clauseMark = (t) => esc(t).replace(/⟨([^⟩]*)⟩/g, '<span class="kuCl">⟨$1⟩</span>');
-  function structHtml(s) {
-    if (s.chunks) {
-      return `<div class="kuChunks" lang="sv">${s.chunks.map((c) => `<span class="kuCh r${roleKey(c.r)}"><span class="kuChT">${clauseMark(c.t)}</span><span class="kuChR" lang="zh">${esc(c.r)}</span></span>`).join('')}</div>`;
-    }
-    return s.struct ? `<div class="kuStructRaw">${inl(s.struct)}</div>` : '<p class="kuMuted">（本句没有结构分析）</p>';
+  const chip = (t, r) => `<span class="kuCh r${r ? roleKey(r) : 'n'}"><span class="kuChT">${clauseMark(t)}</span>${r ? `<span class="kuChR" lang="zh">${esc(r)}</span>` : ''}</span>`;
+  // A 📐 line without clean chunks: every `segment`(role) / ⟨clause⟩(role) becomes a chip,
+  // the prose between them stays as small inline text, bare " + " separators are dropped.
+  const STRUCT_RE = /`([^`]+)`(?:\(([^)]*)\))?|⟨([^⟩]*)⟩(?:\(([^)]*)\))?/g;
+  function richLine(line) {
+    let out = ''; let last = 0;
+    const prose = (t) => {
+      const x = t.replace(/^\s*\+\s*/, '').replace(/\s*\+\s*$/, '').trim();
+      if (x && x !== '+') out += `<span class="kuStP" lang="zh">${inl(x)}</span>`;
+    };
+    line.replace(STRUCT_RE, (m, a, ra, b, rb, at) => {
+      prose(line.slice(last, at));
+      last = at + m.length;
+      out += a != null ? chip(a, ra || '') : chip('⟨' + b + '⟩', rb || '');
+      return m;
+    });
+    prose(line.slice(last));
+    return out;
   }
-  const LEGEND = '<div class="kuLegend"><span class="kuCh rS"><span class="kuChR">S</span></span>主语' +
+  function structHtml(s) {
+    if (s.chunks) return `<div class="kuChunks" lang="sv">${s.chunks.map((c) => chip(c.t, c.r)).join('')}</div>`;
+    const lines = s.struct.split('\n').filter((l) => l.trim());
+    return lines.map((l) => {
+      const m = /^(\s*)[-*]\s+(.*)$/.exec(l);
+      const body = m ? m[2] : l.trim();
+      return `<div class="kuChunks${m ? ' kuSub' : ''}" lang="sv">${m ? '<span class="kuStP">•</span>' : ''}${richLine(body)}</div>`;
+    }).join('');
+  }
+  // ⚠️ entries can carry "\n  - sub-bullet" lines.
+  function ptHtml(p) {
+    const [a, ...rest] = str(p).split('\n');
+    return inl(a) + (rest.some((x) => x.trim()) ? `<div class="kuPtSub">${blk(rest.join('\n'))}</div>` : '');
+  }
+  const LEGEND = '<div class="kuLegRow"><span class="kuCh rS"><span class="kuChR">S</span></span>主语' +
     '<span class="kuCh rV"><span class="kuChR">V</span></span>限定动词' +
     '<span class="kuCh rO"><span class="kuChR">O</span></span>宾语' +
     '<span class="kuCh rA"><span class="kuChR">A</span></span>状语' +
     '<span class="kuCh rn"><span class="kuChR">…</span></span>其它（表语、不定式…）' +
-    '<span class="kuLegCl"><span class="kuCl">⟨从句⟩</span></span>从句</div>';
+    '<span class="kuLegCl"><span class="kuCl">⟨从句⟩</span></span>从句<span class="kuCh rn"><span class="kuChT">…</span></span>未标成分</div>';
   function sentPage(P, s) {
     const k = `${P.n}.${s.i}`;
     const star = !!lessonSt(cur.slug).starSents[k];
     let h = `<article class="kuSent" data-i="${s.i}" aria-label="句 ${s.i}">`;
     h += `<div class="kuSentSv" lang="sv">${toks(s.sv, P.n)}${sayBtn(s.sv, '朗读这句')}</div>`;
     if (s.key || star) h += `<div class="kuSentTags">${s.key ? '<span class="kuTagKey">★ 重点句</span>' : ''}${star ? '<span class="kuTagStar">☆ 已标难句</span>' : ''}</div>`;
-    h += `<section class="kuStruct"><h3>📐 结构 <details class="kuLegWrap" data-mem="legend"${isOpen('legend', false) ? ' open' : ''}><summary>图例</summary>${LEGEND}</details></h3>${structHtml(s)}</section>`;
-    if (s.points.length) h += `<section class="kuPoints"><h3>⚠️ 要点 <small>${s.points.length}</small></h3>${s.points.map((p) => `<div class="kuPoint">${inl(p)}</div>`).join('')}</section>`;
-    if (s.extra.length) h += `<section class="kuPoints kuSentExtra"><h3>📎 补充</h3>${s.extra.map((p) => `<div class="kuPoint">${inl(p)}</div>`).join('')}</section>`;
+    h += `<section class="kuStruct"><h3>📐 结构 <details class="kuLegWrap" data-mem="legend"${isOpen('legend', false) ? ' open' : ''}><summary>图例</summary><div class="kuLegend">${LEGEND}${L.guideMd ? `<div class="kuGuide">${blk(L.guideMd)}</div>` : ''}</div></details></h3>${s.struct || s.chunks ? structHtml(s) : '<p class="kuMuted kuSmall">（本句没有结构分析）</p>'}</section>`;
+    if (s.points.length) h += `<section class="kuPoints"><h3>⚠️ 要点 <small>${s.points.length}</small></h3>${s.points.map((p) => `<div class="kuPoint">${ptHtml(p)}</div>`).join('')}</section>`;
+    if (s.extra.length) h += `<section class="kuPoints kuSentExtra"><h3>📎 补充</h3>${s.extra.map((p) => `<div class="kuPoint">${ptHtml(p)}</div>`).join('')}</section>`;
     h += zhBlock(`sz:${cur.slug}:${k}`, s.zh);
     return h + '</article>';
   }
@@ -568,7 +599,7 @@
     }
     if (cur.sent > P.sents.length) cur.sent = P.sents.length;
     mainEl.className = 'kuMain kuMainPager';
-    mainEl.innerHTML = `<div class="kuAnHead"><span class="kuParaN">¶${P.n}</span><span class="kuAnTitle">${esc(P.title)}</span>` +
+    mainEl.innerHTML = `<div class="kuAnHead"><span class="kuParaN">${pLabel(P)}</span><span class="kuAnTitle">${esc(P.title)}</span>` +
       `<span class="kuDots" aria-hidden="true">${P.sents.map((s) => `<i data-d="${s.i}"></i>`).join('')}</span><span class="kuAnCount" id="kuAnCount"></span></div>` +
       `<div class="kuPager" id="kuPager" tabindex="-1">${P.sents.map((s) => `<div class="kuPg">${sentPage(P, s)}</div>`).join('')}</div>` +
       `<div class="kuPgFoot"><button type="button" class="kuFootBtn" id="kuStar" aria-pressed="false">☆ 难句</button>` +
@@ -581,6 +612,11 @@
     markSent(P, cur.sent);
     paintPager(P);
     pager.addEventListener('scroll', onPagerScroll, { passive: true });
+    const userTook = () => { progTarget = 0; };
+    pager.addEventListener('touchstart', userTook, { passive: true });
+    pager.addEventListener('wheel', userTook, { passive: true });
+    pager.addEventListener('pointerdown', userTook, { passive: true });
+    progTarget = 0;
     $('kuPrev').onclick = () => pageTo(cur.sent - 1);
     $('kuNextS').onclick = () => { if (cur.sent >= P.sents.length) goStep('w'); else pageTo(cur.sent + 1); };
     $('kuStar').onclick = () => {
@@ -610,6 +646,7 @@
     $('kuNextS').textContent = cur.sent >= P.sents.length ? '③ 词 →' : '下一句 →';
   }
   let scrollT = 0;
+  let progTarget = 0;
   function onPagerScroll() {
     clearTimeout(scrollT);
     scrollT = setTimeout(settlePager, 90);
@@ -618,6 +655,10 @@
     if (!pager || !cur || cur.step !== 'a') return;
     const P = paraByN(cur.para);
     const w = pager.clientWidth || 1;
+    if (progTarget) {
+      if (Math.abs(pager.scrollLeft - (progTarget - 1) * w) > 2) return;   // our own smooth scroll is still on its way
+      progTarget = 0;
+    }
     const i = Math.min(P.sents.length, Math.max(1, Math.round(pager.scrollLeft / w) + 1));
     if (i !== cur.sent) {
       cur.sent = i;
@@ -631,8 +672,13 @@
   function pageTo(i) {
     const P = paraByN(cur.para);
     if (!pager || i < 1 || i > P.sents.length) return;
+    // Commit the target at once so rapid taps advance one by one even while the smooth scroll runs.
+    cur.sent = i;
+    markSent(P, i);
+    paintPager(P); paintTabs(); paintBar(); saveLast();
+    progTarget = i;
+    setTimeout(() => { if (progTarget === i) { progTarget = 0; settlePager(); } }, 1500);
     pager.scrollTo({ left: (i - 1) * pager.clientWidth, behavior: reduced() ? 'auto' : 'smooth' });
-    if (reduced()) settlePager();
   }
   window.addEventListener('resize', () => { if (pager && cur && cur.step === 'a' && pager.isConnected) pager.scrollLeft = (cur.sent - 1) * pager.clientWidth; });
 
@@ -742,11 +788,23 @@
     });
     return hit;
   }
-  function secsHtml(n, type) {
-    return arr(n.secs).filter((s) => isObj(s) && str(s.md).trim()).map((s, k) => {
+  const isFormSec = (h) => /变形|变化|forms?\b|böjning/i.test(str(h));
+  function secsHtml(n, type, form, only) {
+    let secs = arr(n.secs).filter((s) => isObj(s) && str(s.md).trim());
+    const noTable = type === 'word' && !arr(n.table).length;
+    if (noTable && only === 'forms') secs = secs.filter((s) => isFormSec(s.h));
+    else if (noTable) secs = secs.filter((s) => !isFormSec(s.h));
+    return secs.map((s, k) => {
+      const fsec = noTable && isFormSec(s.h);
       const key = `sec:${type}:${str(s.h)}`;
-      const open = isOpen(key, type !== 'word' && k === 0);
-      return `<details class="kuSec" data-mem="${esc(key)}"${open ? ' open' : ''}><summary>${esc(s.h || '更多')}</summary><div class="kuMd">${blk(s.md)}</div></details>`;
+      const open = fsec || isOpen(key, type === 'grammar' ? k < 2 : type !== 'word' && k === 0);
+      let body = blk(s.md);
+      if (fsec && form) {
+        const f = form.toLowerCase();
+        body = body.replace(/<td>([\s\S]*?)<\/td>/g, (m, inner) => (cellForms(inner.replace(/<[^>]+>/g, '')).some((x) => x === f || x.split(/\s+/).includes(f)) ? `<td class="hit">${inner}</td>` : m));
+      }
+      if (fsec) return `<div class="kuForms kuFormsMd"><div class="kuFormsH">${esc(s.h || '变形')}</div><div class="kuMd">${body}</div></div>`;
+      return `<details class="kuSec" data-mem="${esc(key)}"${open ? ' open' : ''}><summary>${esc(s.h || '更多')}</summary><div class="kuMd">${body}</div></details>`;
     }).join('');
   }
   function noteHtml(e) {
@@ -771,11 +829,12 @@
             `<span class="kuFV" lang="sv">${inl(r.slice(1).join(' · '))}</span>${hit.has(k) ? '<span class="kuFHere">◀ 文中</span>' : ''}</div>`;
         }).join('')}</div>`;
       }
+      if (!table.length) h += secsHtml(n, 'word', e.form || '', 'forms');
       if (n.ipa || n.def) h += `<p class="kuNDef">${n.ipa ? `<span class="kuIpa">${esc(n.ipa)}</span>` : ''}${n.ipa && n.def ? ' · ' : ''}${n.def ? `🇸🇪 <span lang="sv">${inl(n.def)}</span>` : ''}</p>`;
       if (n.pron && n.pron.replace(n.ipa || '', '').replace(/^[^:：]*[:：]?\s*/, '').trim()) h += `<p class="kuNPron">🗣 ${inl(n.pron)}</p>`;
       const ex = arr(n.ex).filter((x) => Array.isArray(x) && x[0]);
       if (ex.length) h += `<div class="kuEx">${ex.map((x) => `<p><span lang="sv">${toks(x[0])}</span>${sayBtn(x[0])}${x[1] ? `<small>${inl(x[1])}</small>` : ''}</p>`).join('')}</div>`;
-      h += secsHtml(n, 'word');
+      h += secsHtml(n, 'word', e.form || '');
       const sw = !!st.starWords[e.slug]; const kw = !!(st.knownWords[e.slug]);
       h += `<div class="kuNAct"><button type="button" class="kuMini${sw ? ' on' : ''}" data-starw="${esc(e.slug)}" aria-pressed="${sw}">${sw ? '★ 要记' : '☆ 要记'}</button>` +
         `<button type="button" class="kuMini${kw ? ' on' : ''}" data-knoww="${esc(e.slug)}" aria-pressed="${kw}">${kw ? '✓ 已会' : '○ 已会'}</button>` +
@@ -1168,8 +1227,13 @@
     }
     // 变形: a word with ≥ 3 distinct forms → pick the requested form from its own forms
     const seenW = new Set();
+    // The paragraph's own vocab rows are the author's intent; other text words only when they are clearly
+    // inflected content words (the lesson-wide forms map can confuse e.g. the preposition för with föra).
     const cands = P.vocab.filter((v) => v.slug && L.kb[v.slug]).map((v) => v.slug);
-    for (const s of P.sents) for (const t of s.sv.match(WORD_RE) || []) { const sl = L.forms[t.toLowerCase()]; if (sl && L.kb[sl]) cands.push(sl); }
+    for (const s of P.sents) for (const t of s.sv.match(WORD_RE) || []) {
+      const low = t.toLowerCase(); const sl = P.vmap[low] || L.forms[low];
+      if (sl && L.kb[sl] && (P.vmap[low] || (low.length >= 4 && low !== str(L.kb[sl].title).toLowerCase()))) cands.push(sl);
+    }
     for (const slug of uniq(cands)) {
       const n = L.kb[slug];
       if (!n || n.t !== 'word' || seenW.has(slug)) continue;
@@ -1234,7 +1298,7 @@
   const TYPE_Q = { meaning: '词义', form: '变形', order: '排语序', cloze: '填空' };
   function renderQuiz(P) {
     if (!quiz || quiz.para !== P.n) quiz = { para: P.n, qs: buildQuiz(P), k: 0, answered: false, right: 0, log: [], picked: [] };
-    const top = `<div class="kuQTop"><span class="kuParaN">¶${P.n}</span><span class="kuQProg">${quiz.qs.length ? `${Math.min(quiz.k + 1, quiz.qs.length)} / ${quiz.qs.length}` : ''}</span>` +
+    const top = `<div class="kuQTop"><span class="kuParaN">${pLabel(P)}</span><span class="kuQProg">${quiz.qs.length ? `${Math.min(quiz.k + 1, quiz.qs.length)} / ${quiz.qs.length}` : ''}</span>` +
       (quiz.k < quiz.qs.length ? '<button type="button" class="kuLink" data-qskip="1">跳过练习</button>' : '') + '</div>';
     if (!quiz.qs.length) {
       mainEl.innerHTML = `<div class="kuPage">${paraHead(P)}<p class="kuEmpty">这一段的数据不够出题（没有可用的生词、变形表或 3–7 块的结构）。本段算学完、标为「未测」。</p>` +
@@ -1253,7 +1317,7 @@
       h += `<p class="kuQAsk">选出这个形式：</p><p class="kuQForm" lang="sv"><b>${esc(q.n.title)}</b> <span class="kuQLabel">${esc(q.label)}${zh ? ` <small>${esc(zh)}</small>` : ''}</span></p>` +
         `<p class="kuQHint">${esc(q.n.pos || '')}${q.n.zh ? ' · ' + inl(zhShort(q.n.zh)) : ''}</p>`;
     } else if (q.type === 'cloze') {
-      h += `<p class="kuQAsk">填空：选合适的词形</p><p class="kuQSv" lang="sv">${hlSent(q.s.sv, q.m, 'blank')}</p><p class="kuQHint">${inl(q.v.zh)}${q.v.lemma ? ` · 原形 <span lang="sv">${esc(q.v.lemma)}</span>` : ''}</p>`;
+      h += `<p class="kuQAsk">填空：选合适的词形</p><p class="kuQSv" lang="sv">${hlSent(q.s.sv, q.m, 'blank')}</p><p class="kuQHint">${inl(q.v.zh)}${q.v.lemma && q.v.lemma.toLowerCase() !== q.ans.toLowerCase() ? ` · 原形 <span lang="sv">${esc(q.v.lemma)}</span>` : ''}</p>`;
     } else if (q.type === 'order') {
       h += `<p class="kuQAsk">按原句顺序点选成分：</p>${q.s.zh ? `<p class="kuQHint">${inl(q.s.zh)}</p>` : ''}` +
         `<div class="kuOrdTarget" id="kuOrdT" lang="sv" aria-label="已选">${quiz.picked.map((ix) => `<button type="button" class="kuOrdC put" data-put="${ix}">${clauseMark(q.s.chunks[ix].t)}</button>`).join('') || '<span class="kuOrdPh">点下面的块…</span>'}</div>` +
@@ -1268,7 +1332,7 @@
     }
     if (quiz.answered) h += feedbackHtml(q);
     h += '</div>';
-    mainEl.innerHTML = `<div class="kuPage">${top}${h}</div>`;
+    mainEl.innerHTML = `<div class="kuPage kuQPage">${top}${h}</div>`;
     if (quiz.answered) { const f = mainEl.querySelector('.kuFb'); if (f && quiz.justAnswered) { quiz.justAnswered = false; f.scrollIntoView({ block: 'nearest', behavior: reduced() ? 'auto' : 'smooth' }); } }
   }
   function hlSent(sv, m, kind) {
@@ -1292,7 +1356,7 @@
     if (q.s) {
       h += `<p class="kuFbSent" lang="sv">${q.type === 'order' ? esc(q.s.sv) : hlSent(q.s.sv, q.m, 'bold')}</p>`;
       if (q.s.zh) h += `<p class="kuFbZh">${inl(q.s.zh)}</p>`;
-      if (q.s.points.length) h += `<div class="kuFbPts">${q.s.points.map((p) => `<div class="kuPoint">${inl(p)}</div>`).join('')}</div>`;
+      if (q.s.points.length) h += `<div class="kuFbPts">${q.s.points.map((p) => `<div class="kuPoint">${ptHtml(p)}</div>`).join('')}</div>`;
     }
     h += `<div class="kuNext"><button type="button" class="kuBtn" data-qnext="1">${quiz.k + 1 >= quiz.qs.length ? '看结果 →' : '下一题 →'}</button></div></div>`;
     return h;
