@@ -981,6 +981,12 @@
       ? `<a class="viewBtn listenLink" href="../listening/#ep=${encodeURIComponent(a.listening.id)}" title="${escapeHtml(a.listening.title || '')}">🎧 听这篇</a>`
       : '';
 
+    // A 🔍 逐段精读 guide in the body means 📘 Kurs has this text as a lesson
+    // (decided from data already here; Tala scenarios never get the line).
+    const kursLine = (!TALA && /🔍\s*逐段精读/.test(a.body || ''))
+      ? `<p class="kursLine"><a href="../kurs/#l=${encodeURIComponent(slug)}">📘 在手机上精读 →</a></p>`
+      : '';
+
     const backBtn = backAnchor
       ? `<a class="viewBtn backToForms" href="${backTarget.href}${encodeURIComponent(backAnchor)}" title="返回来源页对应位置">${backTarget.label}</a>`
       : '';
@@ -1000,6 +1006,7 @@
         `<button type="button" id="markReadBtn" class="viewBtn${read ? ' on' : ''}">${read ? '✓ 已读' : '标为已读'}</button>` +
       `</div>` +
       (countBits.length ? `<p class="viewCounts">📚 ${countBits.join(' · ')}</p>` : '') +
+      kursLine +
       (TALA ? `<div id="practiceSlot" class="practiceSlot"></div>` : '') +
       targetsHtml(a) +
       `<div class="articleBody kind-${a.kind}">${mdToHtml(a.body || '')}</div>` +
