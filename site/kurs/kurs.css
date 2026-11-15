@@ -247,9 +247,9 @@ button { color: inherit; }
 .kuPtSub p { margin: 4px 0 0; }
 .kuFormsMd .kuMd { padding: 4px 10px 8px; }
 .kuFormsMd td.hit { background: color-mix(in srgb, var(--green) 16%, transparent); font-weight: 700; color: var(--green-dark); }
-.kuLegend .kuCh { padding: 0 6px; margin-left: 6px; }
-.kuLegend .kuChR { margin: 0; }
-.kuLegCl { margin-left: 6px; }
+
+
+
 .kuChunks { display: flex; flex-wrap: wrap; gap: 8px 6px; align-items: flex-start; }
 .kuCh {
   --c: var(--rN); --cb: var(--rN-bg);
@@ -514,3 +514,7 @@ button { color: inherit; }
 .kuQPage .kuQType { align-self: flex-start; }
 .kuQPage .kuOpts, .kuQPage .kuOrdTarget { margin-top: auto; }
 .kuQPage .kuQAsk + .kuQSv, .kuQPage .kuQHint { flex: none; }
+.kuLegI { display: inline-flex; align-items: center; gap: 5px; margin-right: 10px; white-space: nowrap; }
+.kuChMini { flex-direction: row; align-items: center; min-width: 26px; min-height: 22px; padding: 0 6px; border-radius: 6px; }
+.kuChMini .kuChR { margin: 0; font-size: 12px; }
+.kuChMini .kuChT { font-size: 13px; line-height: 1; }

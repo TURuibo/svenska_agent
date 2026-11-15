@@ -168,7 +168,7 @@
   function prep(L) {
     if (L.__kurs) return L;
     L.paras = arr(L.paras).filter(isObj).map((p, k) => ({
-      n: Number(p.n) || k + 1, kind: p.kind === 'extra' ? 'extra' : 'para', title: str(p.title), sv: str(p.sv), zh: str(p.zh),
+      n: Number.isFinite(Number(p.n)) && p.n !== '' && p.n != null ? Number(p.n) : k + 1, kind: p.kind === 'extra' ? 'extra' : 'para', title: str(p.title), sv: str(p.sv), zh: str(p.zh),
       sents: arr(p.sents).filter(isObj).map((s, j) => ({
         i: Number(s.i) || j + 1, sv: str(s.sv), chunks: Array.isArray(s.chunks) && s.chunks.length ? s.chunks.filter(isObj).map((c) => ({ t: str(c.t), r: str(c.r) })) : null,
         struct: str(s.struct), points: arr(s.points).map(str).filter(Boolean), zh: str(s.zh), key: s.key ? 1 : 0, extra: arr(s.extra).map(str).filter(Boolean),
@@ -195,13 +195,22 @@
   let L = null;            // current lesson data
   const hasSlug = (s) => !!(L && L.kb[s]);
   // Inline md; [[links]] to notes not in this lesson's kb become plain text.
+  // kb-markdown escapes a wikilink label twice (&amp;quot;) — undo the second pass inside link buttons.
+  const fixLabels = (html) => html.replace(/(<button class="wikiLink[^"]*" type="button" data-wikilink="[^"]*">)([\s\S]*?)(<\/button>)/g,
+    (_m, a, t, b) => {
+      // [[slug]] without a label shows the raw slug: show the note's title instead.
+      const slug = (/data-wikilink="([^"]*)"/.exec(a) || [])[1] || '';
+      const n = L && L.kb[slug.replace(/&amp;/g, '&')];
+      if (n && n.title && t === slug && n.t !== 'grammar') return a + esc(n.title) + b;
+      return a + t.replace(/&amp;(quot|#039|amp|lt|gt);/g, '&$1;') + b;
+    });
   function inl(md) {
     if (!md) return '';
-    return MD.inlineMarkdown(md, { hasSlug }).replace(/<button class="wikiLink missingLink" type="button" data-wikilink="[^"]*">([\s\S]*?)<\/button>/g, '<span class="kuNoLink">$1</span>');
+    return fixLabels(MD.inlineMarkdown(md, { hasSlug })).replace(/<button class="wikiLink missingLink" type="button" data-wikilink="[^"]*">([\s\S]*?)<\/button>/g, '<span class="kuNoLink">$1</span>');
   }
   function blk(md) {
     if (!md) return '';
-    return MD.mdToHtml(md, { hasSlug })
+    return fixLabels(MD.mdToHtml(md, { hasSlug }))
       .replace(/<button class="wikiLink missingLink" type="button" data-wikilink="[^"]*">([\s\S]*?)<\/button>/g, '<span class="kuNoLink">$1</span>')
       .replace(/<table>/g, '<div class="kuTbl"><table>').replace(/<\/table>/g, '</table></div>');
   }
@@ -293,7 +302,7 @@
   function ring(done, total) {
     const r = 17; const c = 2 * Math.PI * r; const f = total ? done / total : 0;
     return `<svg class="kuRing" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="${r}" class="kuRingBg"/>` +
-      `<circle cx="22" cy="22" r="${r}" class="kuRingFg" stroke-dasharray="${(c * f).toFixed(1)} ${c.toFixed(1)}" transform="rotate(-90 22 22)"/>` +
+      (done ? `<circle cx="22" cy="22" r="${r}" class="kuRingFg" stroke-dasharray="${(c * f).toFixed(1)} ${c.toFixed(1)}" transform="rotate(-90 22 22)"/>` : '') +
       `<text x="22" y="26" text-anchor="middle">${done}/${total}</text></svg>`;
   }
   const isRead = (slug) => { try { return !!(window.ReadSync && window.ReadSync.isRead(slug)); } catch (_e) { return false; } };
@@ -572,12 +581,9 @@
     const [a, ...rest] = str(p).split('\n');
     return inl(a) + (rest.some((x) => x.trim()) ? `<div class="kuPtSub">${blk(rest.join('\n'))}</div>` : '');
   }
-  const LEGEND = '<div class="kuLegRow"><span class="kuCh rS"><span class="kuChR">S</span></span>主语' +
-    '<span class="kuCh rV"><span class="kuChR">V</span></span>限定动词' +
-    '<span class="kuCh rO"><span class="kuChR">O</span></span>宾语' +
-    '<span class="kuCh rA"><span class="kuChR">A</span></span>状语' +
-    '<span class="kuCh rn"><span class="kuChR">…</span></span>其它（表语、不定式…）' +
-    '<span class="kuLegCl"><span class="kuCl">⟨从句⟩</span></span>从句<span class="kuCh rn"><span class="kuChT">…</span></span>未标成分</div>';
+  const LEGEND = '<div class="kuLegRow">' + [['S', 'S', '主语'], ['V', 'V', '限定动词'], ['O', 'O', '宾语'], ['A', 'A', '状语'], ['n', '表语…', '其它成分'], ['n', '', '未标成分']]
+    .map(([k, r, zh]) => `<span class="kuLegI"><span class="kuCh kuChMini r${k}">${r ? `<span class="kuChR">${r}</span>` : '<span class="kuChT">…</span>'}</span>${zh}</span>`).join('') +
+    '<span class="kuLegI"><span class="kuCl" lang="sv">⟨…⟩</span>从句</span></div>';
   function sentPage(P, s) {
     const k = `${P.n}.${s.i}`;
     const star = !!lessonSt(cur.slug).starSents[k];
@@ -1444,5 +1450,4 @@
     }
     route();
   })();
-  window.addEventListener('pagehide', save);
 })();

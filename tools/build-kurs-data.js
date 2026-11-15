@@ -847,6 +847,8 @@ function parseLesson(file) {
 // ---------------------------------------------------------------------------
 // Complete a lesson: kb + forms
 // ---------------------------------------------------------------------------
+const FUNCTION_WORDS = new Set(['en', 'ett', 'den', 'det', 'de', 'e', 'in', 'ut', 'sig', 'mig', 'dig', 'oss', 'er',
+  'att', 'och', 'i', 'på', 'för', 'om', 'av', 'till', 'med', 'som', 'mot', 'han', 'hon', 'jag', 'du', 'vi', 'ni', 'man']);
 function completeLesson(parsed, report) {
   const { lesson, ctx, allLinks, svText } = parsed;
   // 1. which notes are wanted, and with which type preference
@@ -878,7 +880,11 @@ function completeLesson(parsed, report) {
     const raw = m[0];
     const k = raw.toLowerCase();
     if (forms[k] !== undefined) continue;
-    const v = findVocab(raw);
+    let v = findVocab(raw);
+    // Function words reach the index only through articles / pronouns / particles that sit
+    // inside other notes' Forms cells ("en/ett öl" → en→öl, "den allergiska" → den→allergisk).
+    // Map them only to a note of their own.
+    if (v && FUNCTION_WORDS.has(k) && v.lemma.toLowerCase() !== k) v = null;
     if (v) forms[k] = v.slug;
     else seenTok.add(k);
   }
