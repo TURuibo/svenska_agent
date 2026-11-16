@@ -24,6 +24,15 @@ window.KBMarkdown = (function () {
       .replaceAll("'", "&#039;");
   }
 
+  function unescapeHtml(value) {
+    return String(value)
+      .replaceAll("&#039;", "'")
+      .replaceAll("&quot;", '"')
+      .replaceAll("&gt;", ">")
+      .replaceAll("&lt;", "<")
+      .replaceAll("&amp;", "&");
+  }
+
   function inlineMarkdown(value, opts) {
     const hasSlug = (opts && typeof opts.hasSlug === "function") ? opts.hasSlug : null;
     let html = escapeHtml(value);
@@ -36,13 +45,15 @@ window.KBMarkdown = (function () {
     html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
     html = html.replace(/(^|[^*\w])\*([^*\n]+)\*(?!\w)/g, "$1<em>$2</em>");
     html = html.replace(/(^|[\s(])_([^_\n]+)_(?=[\s).,!?:;]|$)/g, "$1<em>$2</em>");
-    // wikilinks [[target|label]]
+    // wikilinks [[target|label]] — `html` is already escaped, so target and label
+    // go into the button as-is (escaping them again shows a literal &quot; / &amp;).
+    // Only the slug lookup needs the raw text back.
     html = html.replace(/\[\[([^\]]+)\]\]/g, (_m, rawTarget) => {
       const target = rawTarget.split("|")[0].trim();
       const label = rawTarget.includes("|") ? rawTarget.split("|").slice(1).join("|").trim() : target;
-      const exists = hasSlug ? hasSlug(target) : true;
+      const exists = hasSlug ? hasSlug(unescapeHtml(target)) : true;
       const className = exists ? "wikiLink" : "wikiLink missingLink";
-      return `<button class="${className}" type="button" data-wikilink="${escapeHtml(target)}">${escapeHtml(label)}</button>`;
+      return `<button class="${className}" type="button" data-wikilink="${target}">${label}</button>`;
     });
     return html;
   }

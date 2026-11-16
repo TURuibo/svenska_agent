@@ -195,14 +195,13 @@
   let L = null;            // current lesson data
   const hasSlug = (s) => !!(L && L.kb[s]);
   // Inline md; [[links]] to notes not in this lesson's kb become plain text.
-  // kb-markdown escapes a wikilink label twice (&amp;quot;) — undo the second pass inside link buttons.
+  // [[slug]] without a label shows the raw slug: show the note's title instead.
   const fixLabels = (html) => html.replace(/(<button class="wikiLink[^"]*" type="button" data-wikilink="[^"]*">)([\s\S]*?)(<\/button>)/g,
     (_m, a, t, b) => {
-      // [[slug]] without a label shows the raw slug: show the note's title instead.
       const slug = (/data-wikilink="([^"]*)"/.exec(a) || [])[1] || '';
       const n = L && L.kb[slug.replace(/&amp;/g, '&')];
       if (n && n.title && t === slug && n.t !== 'grammar') return a + esc(n.title) + b;
-      return a + t.replace(/&amp;(quot|#039|amp|lt|gt);/g, '&$1;') + b;
+      return a + t + b;
     });
   function inl(md) {
     if (!md) return '';

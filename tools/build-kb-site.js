@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
+const { isForeignFunctionWord } = require('./function-words');
 
 const repoRoot = path.resolve(__dirname, '..');
 const kbRoot = path.join(repoRoot, 'knowledge_base');
@@ -119,7 +120,7 @@ function cleanForm(value) {
   return v.trim();
 }
 
-function extractForms(body) {
+function extractForms(body, lemma) {
   const lines = body.split(/\r?\n/);
   let start = -1;
   for (let i = 0; i < lines.length; i += 1) {
@@ -161,6 +162,9 @@ function extractForms(body) {
         if (!/[A-Za-zÅÄÖåäö]/.test(form)) continue;
         const key = form.toLowerCase();
         if (seen.has(key)) continue;
+        // Articles / pronouns / particles padding a cell ("en/ett öl", "gå in / ut")
+        // are not forms of this note — Flöde would otherwise resolve "en" to öl.
+        if (isForeignFunctionWord(key, lemma)) continue;
         seen.add(key);
         forms.push(form);
       }
@@ -216,7 +220,7 @@ const notes = walkMarkdownFiles(kbRoot).map((filePath) => {
     path: relativePath(filePath),
     body,
     excerpt: getExcerpt(body),
-    forms: type === 'word' ? extractForms(body) : [],
+    forms: type === 'word' ? extractForms(body, frontmatter.lemma || slug) : [],
     links: getWikilinks(text),
   };
 

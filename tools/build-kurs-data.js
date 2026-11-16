@@ -20,6 +20,7 @@
 'use strict';
 const fs = require('fs');
 const path = require('path');
+const { isForeignFunctionWord } = require('./function-words');
 
 const repoRoot = path.resolve(__dirname, '..');
 const importedDir = path.join(repoRoot, 'imported');
@@ -199,6 +200,7 @@ const vocabIndex = new Map();    // lowercased surface → word entry
     for (const x of forms) {
       const k = (x || '').toLowerCase();
       if (!k || seen.has(k)) continue;
+      if (isForeignFunctionWord(k, lemma)) continue;   // same rule as build-reading-site.js
       seen.add(k);
       surfaces.push(x);
     }
@@ -847,8 +849,6 @@ function parseLesson(file) {
 // ---------------------------------------------------------------------------
 // Complete a lesson: kb + forms
 // ---------------------------------------------------------------------------
-const FUNCTION_WORDS = new Set(['en', 'ett', 'den', 'det', 'de', 'e', 'in', 'ut', 'sig', 'mig', 'dig', 'oss', 'er',
-  'att', 'och', 'i', 'på', 'för', 'om', 'av', 'till', 'med', 'som', 'mot', 'han', 'hon', 'jag', 'du', 'vi', 'ni', 'man']);
 function completeLesson(parsed, report) {
   const { lesson, ctx, allLinks, svText } = parsed;
   // 1. which notes are wanted, and with which type preference
@@ -881,10 +881,9 @@ function completeLesson(parsed, report) {
     const k = raw.toLowerCase();
     if (forms[k] !== undefined) continue;
     let v = findVocab(raw);
-    // Function words reach the index only through articles / pronouns / particles that sit
-    // inside other notes' Forms cells ("en/ett öl" → en→öl, "den allergiska" → den→allergisk).
-    // Map them only to a note of their own.
-    if (v && FUNCTION_WORDS.has(k) && v.lemma.toLowerCase() !== k) v = null;
+    // Defence in depth: the Forms extractor already drops function words that pad other
+    // notes' cells ("en/ett öl" → en→öl); a fallback match (-s, -aste) must not bring one back.
+    if (v && isForeignFunctionWord(k, v.lemma)) v = null;
     if (v) forms[k] = v.slug;
     else seenTok.add(k);
   }

@@ -13,6 +13,7 @@
 //   imported/ → 已导入 (done)    — already processed through /import
 const fs = require('fs');
 const path = require('path');
+const { isForeignFunctionWord } = require('./function-words');
 
 const repoRoot = path.resolve(__dirname, '..');
 const siteRoot = path.join(repoRoot, 'site');
@@ -441,6 +442,9 @@ function buildVocab() {
     for (const f of forms) {
       const k = (f || '').toLowerCase();
       if (!k || seen.has(k)) continue;
+      // "en/ett öl", "den allergiska", "gå in / ut": never index an article /
+      // pronoun / particle as a form of an unrelated note (en → öl).
+      if (isForeignFunctionWord(k, lemma)) continue;
       seen.add(k);
       surfaces.push(f);
     }
