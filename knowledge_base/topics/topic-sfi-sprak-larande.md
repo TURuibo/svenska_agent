@@ -56,6 +56,17 @@ members:
   - språkcafé
   - samtala
   - skrivuppgift
+  - grammar-brevmall
+  - grammar-skrivuppgift-textstruktur
+  - grammar-vilja-att-ska
+  - grammar-vilket-hela-satsen
+  - grammar-preposition-sist-i-relativsats
+  - source-2026-11-17-informellt-mejl-tips-och-rad
+  - source-2026-11-17-informellt-brev-med-forslag
+  - source-2026-11-17-formellt-brev-med-forslag
+  - source-2026-11-17-formellt-brev-till-kommunen
+  - source-2026-11-17-traning-och-motion
+  - source-2026-11-17-sociala-medier
 created: "2026-06-27"
 ---
 
