@@ -66,9 +66,9 @@ Det är viktigt att man tar hand om sin hälsa. Om man tar hand om sin hälsa f�
 | 要求 | 范文对应段落 |
 |---|---|
 | skriva en rubrik | *Träning och motion* |
-| berätta kort om du motionerar och vad du gör | ¶2 步行上学 · ¶3 游泳 |
-| berätta varför du motionerar | ¶2 大脑清醒、更能集中 · ¶3 放松 |
-| förklara varför det är bra att motionera | ¶4 减压 · ¶5 防病 · ¶6 结论 |
+| berätta kort om du motionerar och vad du gör | ¶3 步行上学 · ¶4 游泳 |
+| berätta varför du motionerar | ¶3 大脑清醒、更能集中 · ¶4 放松 |
+| förklara varför det är bra att motionera | ¶5 减压 · ¶6 防病 · ¶7 结论 |
 
 | 点 | 原文 | 说明 |
 |---|---|---|
@@ -178,7 +178,7 @@ Träning och motion. Motion och träning är en del av livet. Jag ska skriva om 
 
 **③ Jag ska skriva om hur jag motionerar och varför det är bra med motion.**
 
-- 📐 `Jag`(S) + `ska skriva om`(V…) + `⟨hur jag motionerar⟩` och `⟨varför det är bra med motion⟩`(O)
+- 📐 `Jag`(S) + `ska`(V) + `skriva`(不定式) + `om ⟨hur jag motionerar⟩ och ⟨varför det är bra med motion⟩`(介词 om + 两个间接疑问从句)
 - ⚠️ 开头**预告全文内容**（Jag ska skriva om …）—— 短文/演讲最常用的开头句
 - ⚠️ **det är bra med + 名词** = "……很好/有好处"（口语常用）；对比上段 det är bra att + 不定式
 - ⚠️ hur … / varför … 是间接疑问：从句语序（主语 + 动词）→ [[grammar-indirekt-fraga|📗间接疑问句]]
@@ -228,7 +228,7 @@ Jag har motionerat på olika sätt under olika delar av livet. Sedan jag fick fa
 **③ Men jag försöker få in mycket vardagsmotion i mitt vardagsliv.**
 
 - 📐 `Men`(连词) + `jag`(S) + `försöker`(V) + `få in`(不定式+小品词) + `mycket vardagsmotion`(O) + `i mitt vardagsliv`(A)
-- ⚠️ **försöka + 不定式**（不加 att 也常见）= 努力、尝试做
+- ⚠️ **försöka + 不定式**（通常不加 att；加 att 也可以）= 努力、尝试做
 - ⚠️ **få in** = 把……放进去、安排进去（小品词 in 重读）
 - ⚠️ **vardagsmotion** = 日常生活里的活动（走路、爬楼梯），vardag + s + motion → [[grammar-sammansatt-ord|📗复合词]]
 - 🇨🇳 但我努力在日常生活中加入很多日常活动量。
@@ -289,7 +289,7 @@ Jag har motionerat på olika sätt under olika delar av livet. Sedan jag fick fa
 | 文中形式 | 原形 | 词性 | 中文 | 说明 |
 |---|---|---|---|---|
 | motionerat | [[motionera]] | verb | 运动 | supinum |
-| olika | [[olik]] | adj. | 不同的 | olika 常用作不变形式 |
+| olika | [[olika]] | adj. | 不同的 | 不变形 |
 | sätt | [[sätt]] | subst. ett | 方式 | |
 | delar | [[del]] | subst. en | 部分 | 复数 |
 | fick | [[få]] | verb | 得到；有了 | få – fick – fått |

@@ -66,9 +66,9 @@ Avslutningsvis är sociala medier bra om man använder det lagom mycket och om m
 | 要求 | 范文对应段落 |
 |---|---|
 | skriva en rubrik | *Sociala medier* |
-| berätta kort om du använder sociala medier och vilka | ¶1–¶2 Facebook |
-| berätta varför du använder | ¶2 联系朋友 · ¶3 看新闻 |
-| förklara vad som kan vara bra eller dåligt | ¶4 优点 · ¶5 缺点 · ¶6 Avslutningsvis |
+| berätta kort om du använder sociala medier och vilka | ¶2–¶3 Facebook |
+| berätta varför du använder | ¶3 联系朋友 · ¶4 看新闻 |
+| förklara vad som kan vara bra eller dåligt | ¶5 优点 · ¶6 缺点 · ¶7 Avslutningsvis |
 
 | 点 | 原文 | 说明 |
 |---|---|---|
@@ -102,7 +102,7 @@ Du ska skriva en text som handlar om sociala medier. I texten ska du… skriva e
 
 - 📐 `Du`(S) + `ska`(V) + `skriva`(不定式) + `en text ⟨som handlar om sociala medier⟩`(O)
 - ⚠️ **ska + 不定式** 在任务里 = 指令"你要……" → [[grammar-ska-infinitiv|📗ska+不定式]]；**handla om** = 关于 → [[handla-om]]
-- ⚠️ **sociala medier** 总是复数：social → sociala（复数形容词），medium → **medier**
+- ⚠️ **sociala medier** 通常用复数（单数 ett socialt medium 也存在，如 Instagram är ett socialt medium）：social → sociala（复数形容词），medium → **medier**
 - 🇨🇳 你要写一篇关于社交媒体的文章。
 
 **② I texten ska du… skriva en rubrik.**
@@ -193,7 +193,7 @@ Sociala medier. Det finns flera olika sociala medier, t.ex. Facebook och Instagr
 |---|---|---|---|---|
 | finns | [[finnas]] | verb | 存在、有 | det finns |
 | flera | [[flera]] | pron. | 好几个 | |
-| olika | [[olik]] | adj. | 不同的 | |
+| olika | [[olika]] | adj. | 不同的 | 不变形 |
 | berätta | [[berätta]] | verb | 讲述 | |
 | förklarar | [[förklara]] | verb | 解释 | 此处应为不定式 förklara |
 
@@ -492,7 +492,7 @@ Avslutningsvis är sociala medier bra om man använder det lagom mycket och om m
 
 **① Avslutningsvis är sociala medier bra om man använder det lagom mycket och om man inte tror på att allt man ser där.**
 
-- 📐 `Avslutningsvis`(A) + `är`(V) + `sociala medier`(S) + `bra`(表语) + `⟨om man använder det lagom mycket⟩` och `⟨om man inte tror på allt man ser där⟩`(A)
+- 📐 `Avslutningsvis`(A) + `är`(V) + `sociala medier`(S) + `bra`(表语) + `⟨om man använder det lagom mycket⟩` och `⟨om man inte tror på att allt man ser där⟩`(A)
 - ⚠️ **Avslutningsvis** = 总之、最后——结论段的开头词；放句首 → 倒装 är sociala medier → [[grammar-skrivuppgift-textstruktur|📗短文结构]]
 - ⚠️ **lagom mycket** = 适度、不多不少（lagom 是典型的瑞典概念）
 - ⚠️ 原文小瑕疵：*tror på **att** allt man ser* —— 通常说 **tror på allt man ser**（tro på + 名词短语；tro på att … 后面要接完整从句）；另外 använder **det** 指 sociala medier，严格说用 **dem** 更准确
@@ -510,7 +510,7 @@ Avslutningsvis är sociala medier bra om man använder det lagom mycket och om m
 | 词组 | 意思 | 本段用法 |
 |---|---|---|
 | lagom mycket | 适度 | använder det lagom mycket |
-| [[tro-på]] | 相信 | tror på allt man ser där |
+| [[tro-på]] | 相信 | tror på att allt man ser där（规范说法：tror på allt …） |
 
 #### 📚 生词
 
