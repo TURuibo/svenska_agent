@@ -73,8 +73,8 @@ Maria
 | 📐 tänk att | *Tänk att Anna fyller 30 år!* | 感叹开头："想想看……！/真没想到……！" |
 | 📐 det ska bli | *Det ska bli så kul att …* | 对将来的事表示期待："一定会很……" |
 | 📐 så att | *så att de inte tar slut* | 目的："以便/免得"；从句 inte 在动词前 |
-| 📐 deponens | *ses*, *hörs* | ses = 见面；vi hörs = 保持联系（字面"我们互相听到"） |
-| 📌 ta slut | *biljetterna tar slut* | 用完、卖光 |
+| 📐 相互义 s-动词（reciproka verb） | *ses*, *hörs* | ses = 见面；vi hörs = 保持联系（字面"我们互相听到"） |
+| 📌 ta slut | *så att de inte tar slut* | 用完、卖光 |
 | 📌 bjuda på | *bjuda henne på middag* | 请某人吃/喝…… |
 | 📌 ge bort | *ge bort* | 送掉、当礼物送出 |
 
@@ -230,7 +230,7 @@ Snart måste vi köpa en present. Det är inte lätt att köpa presenter men jag
 
 - 📐 `⟨Eftersom hennes syster arbetar med massage⟩`(A) + `tror`(V) + `jag`(S) + `också`(A) + `⟨att hon kan göra det billigt hos henne ⟨om hon vill⟩⟩`(O)
 - ⚠️ **eftersom** 从句放句首 → 整个从句占第一位，主句倒装：tror jag → [[grammar-bisats-eftersom|📗eftersom从句]]
-- ⚠️ **hennes syster** = Anna 的姐妹（不是 sin：主语不是 Anna）；**hos henne** = 在她（姐妹）那里
+- ⚠️ **hennes syster** = Anna 的姐妹（不能用 sin：sin 不能出现在主语里）；**hos henne** = 在她（姐妹）那里
 - ⚠️ **billigt** 是副词（形容词中性 -t 形式当副词用）："便宜地做" → [[grammar-adverb-av-adjektiv|📗形容词变副词]]
 - 🇨🇳 而且因为她姐姐（妹妹）就是做按摩的，我想她要是愿意，可以在她姐姐那儿便宜地做。
 
@@ -301,7 +301,7 @@ Jag såg i tidningen att hennes favoritband ska ha konsert här i Stockholm i ju
 - 📐 `Anna`(S) + `har arbetat`(V…) + `mycket`(A) + `under en period`(A) + `och` + `därför`(A) + `har`(V) + `vi`(S) + `inte`(A) + `kunnat ses`(supinum + 不定式) + `så mycket`(A)
 - ⚠️ 给建议**说理由（motivera）**：她最近很忙 → 很久没见 → 一起活动更好
 - ⚠️ **därför** = 所以，放分句句首 → har vi（倒装）→ [[grammar-inversion-efter-darfor|📗därför后倒装]]
-- ⚠️ **har … kunnat ses**：kunna 的 supinum kunnat + 不定式；**ses** = 见面（异态动词，相互义）→ [[ses-verb]]
+- ⚠️ **har … kunnat ses**：kunna 的 supinum kunnat + 不定式；**ses** = 见面（相互义 s-动词：se → ses「彼此看见」）→ [[ses-verb]]
 - 🇨🇳 Anna 有一段时间工作特别忙，所以我们一直没能多见面。
 
 **⑤ Jag tror att hon kommer att bli jätteglad för konsertbiljetter!**
@@ -314,7 +314,7 @@ Jag såg i tidningen att hennes favoritband ska ha konsert här i Stockholm i ju
 **⑥ Innan konserten kan vi gå på en indisk restaurang eftersom hon gillar stark mat.**
 
 - 📐 `Innan konserten`(A) + `kan`(V) + `vi`(S) + `gå på en indisk restaurang`(不定式 + A) + `⟨eftersom hon gillar stark mat⟩`(A)
-- ⚠️ 状语 innan konserten 在句首 → kan vi（倒装）；这里 innan 直接接名词（口语也常用 före konserten）
+- ⚠️ 状语 innan konserten 在句首 → kan vi（倒装）；这里 innan 直接接名词（口语常见；书面语更规范的是 före konserten）
 - ⚠️ **gå på restaurang** = 去餐厅（吃饭）；**stark mat** = 辣的食物（stark 不只是"强壮"）
 - 🇨🇳 演唱会之前我们可以去一家印度餐厅，因为她喜欢吃辣。
 
@@ -366,7 +366,7 @@ Jag såg i tidningen att hennes favoritband ska ha konsert här i Stockholm i ju
 | före | [[före]] | prep. | 在……之前 | |
 | period | [[period]] | subst. en | 一段时间 | |
 | därför | [[därför]] | adv. | 所以 | 句首 → 倒装 |
-| ses | [[ses-verb]] | verb | 见面 | 异态动词 |
+| ses | [[ses-verb]] | verb | 见面 | 相互义 s-动词 |
 | jätteglad | [[jätteglad]] | adj. | 超级开心的 | |
 | konsertbiljetter | [[konsertbiljett]] | subst. en | 演唱会门票 | 复数 -er |
 | indisk | [[indisk]] | adj. | 印度的 | |
@@ -398,7 +398,7 @@ Hoppas allt är bra med er! Vi hörs och ses snart Kramar Maria
 
 - 📐 `Vi`(S) + `hörs och ses`(V) + `snart`(A)
 - ⚠️ **vi hörs** = 保持联系、回头聊（字面"我们互相听到"）→ [[vi-hörs]]；**ses** = 见面 → [[ses-verb]]
-- ⚠️ 两个都是 -s 结尾的**相互义**异态动词（"彼此"）→ [[grammar-deponensverb|📗异态动词]]
+- ⚠️ 两个都是 -s 结尾的**相互义** s-动词（reciproka verb；se/höra 本身有主动形式，严格说不算 deponens）（"彼此"）→ [[grammar-deponensverb|📗异态动词]]
 - 🇨🇳 保持联系，很快见
 
 **③ Kramar Maria**

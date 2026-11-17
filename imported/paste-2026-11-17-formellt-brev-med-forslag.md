@@ -75,7 +75,7 @@ Annchi Fang
 | 📐 om + preteritum + skulle | *skolan skulle bli ännu bättre om kurserna hade …* | 假设条件：om 从句用过去时，主句用 skulle → [[grammar-konditionalis-med-om]] |
 | 📐 Det tror jag är bra | *Det tror jag är bra*, *Det tror jag skulle hjälpa …* | 宾语从句的主语 det 提到句首（satsflätning），然后 tror jag 倒装 |
 | 📐 det saknas / saknas | *En annan sak som jag tycker saknas* | saknas = 缺少（s-形式） |
-| 📐 inte i fronten | *orkar inte alla komma* | 否定 + alla："不是每个人都……" |
+| 📐 inte alla（部分否定） | *orkar inte alla komma* | inte 放在 alla 前 = "不是每个人都……"（部分否定） |
 | 📐 hjälpa ngn att | *hjälpa många elever att utveckla sitt språk* | hjälpa + 人 + att + 不定式 |
 | 📌 klara av / bli klar med | *klara av kursuppgifter*, *bli klar med kursen* | 搞定、通过 / 完成 |
 | 📌 日期写法 | *19-06-28* | ÅÅ-MM-DD（年-月-日），比 2019-06-28 更简 |
@@ -139,7 +139,7 @@ Vad positivt att ni frågar oss elever om hur skolan kan utvecklas! Jag har fler
 
 - 📐 `Hej` + `skolans ledning`(称呼)
 - ⚠️ **Hälsningsfras**：瑞典正式信件也常用 Hej 开头；称呼后加逗号，下一行接正文
-- ⚠️ 属格 **skolans**（skola → skolan → skolans）后面的名词用**不定式**：skolans ledning（不是 *skolans ledningen）
+- ⚠️ 属格 **skolans**（skola → skolan → skolans）后面的名词用**不定形式**（不加后缀冠词）：skolans ledning（不是 *skolans ledningen）
 - 🇨🇳 学校领导们好：
 
 **③ Vad positivt att ni frågar oss elever om hur skolan kan utvecklas!**
@@ -413,7 +413,7 @@ Sist men inte minst undrar jag om det skulle vara möjligt att ha Sfi-kurser äv
 | ändå | [[ändå]] | adv. | 还是、仍然 | |
 | passa | [[passa]] | verb | 适合 | passa någon |
 | efter | [[efter]] | prep. | 在……之后 | |
-| arbetsdag | [[arbetsdag]] | subst. en | 工作日 | arbete + dag |
+| arbetsdag | [[arbetsdag]] | subst. en | 工作日 | arbete + s + dag（arbets-dag） |
 | orkar | [[orka]] | verb | 有力气 | orka + 不定式 |
 | klassrumskurs | [[klassrumskurs]] | subst. en | 教室授课课程 | klassrum + s + kurs |
 

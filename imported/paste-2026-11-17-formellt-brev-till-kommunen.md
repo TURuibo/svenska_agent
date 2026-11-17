@@ -149,7 +149,7 @@ Igår läste jag i tidningen att kommunen vill att byggföretagen ska bygga bost
 **② Hej Sundbybergs kommun!**
 
 - 📐 `Hej` + `Sundbybergs kommun`(称呼)
-- ⚠️ **Hälsningsfras**：写给机构也可以用 Hej；属格 Sundbybergs（地名 + s）后面的名词用不定式：Sundbybergs **kommun**（不是 *kommunen）
+- ⚠️ **Hälsningsfras**：写给机构也可以用 Hej；属格 Sundbybergs（地名 + s）后面的名词用不定形式（不加后缀冠词）：Sundbybergs **kommun**（不是 *kommunen）
 - 🇨🇳 Sundbyberg 市政府，你们好！
 
 **③ Igår läste jag i tidningen att kommunen vill att byggföretagen ska bygga bostäder vid Lötsjön.**
