@@ -71,6 +71,7 @@ Han gillar fotboll  men  han spelar inte golf.
 - ✅ [[sent-han-gillade-egentligen-inte-konditionsträning]] 🇸🇪 Han gillade egentligen inte konditionsträning **utan** det som lockade var saften och kakorna … 🇨🇳 他其实不喜欢耐力训练，**而是**吸引他的是果汁和饼干…（utan + det som 句）
 - ✅ 🇸🇈 Jag köpte inte en dator **utan** en surfplatta. 🇨🇳 我没买电脑，**而是**买了平板。（否定→ utan）
 - ✅ 🇸🇈 Han är bra på fotboll **men** spelar inte basketball. 🇨🇳 他足球踢得好，**但是**不打篮球。（无否定→ men）
+- ✅ 🇸🇪 Du tycker inte att det är ett bra förslag utan du tror att er vän skulle gilla en annan present mer. 🇨🇳 你觉得这不是个好主意，而是认为你们的朋友会更喜欢另一种礼物。（inte … utan；[[source-2026-11-17-informellt-brev-med-forslag]]）
 - ❌ *Han gick aldrig klart gymnasiet **men** han satsade istället.* ← 错误：否定句后应用 `utan`。
 - ❌ *Hon gillar musik **utan** inte konst.* ← 错误：无否定句后用 `men`，not `utan`。
 

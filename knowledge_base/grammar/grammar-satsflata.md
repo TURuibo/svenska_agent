@@ -44,6 +44,8 @@ det som        han tyckte                          var  roligast
 - ✅ 🇸🇪 Det är en film som jag tror att du kommer att gilla. 🇨🇳 这是一部我觉得你会喜欢的电影。（som 是 gilla 的宾语时，att 可以保留）
 - ✅ 🇸🇪 Vem tror du vinner matchen? 🇨🇳 你觉得谁会赢这场比赛？
 - ✅ 🇸🇪 Hon gjorde det som hon visste var rätt. 🇨🇳 她做了她知道是对的事。
+- ✅ 🇸🇪 En annan sak som jag tycker saknas på skolan är möjligheter att träna svenska. 🇨🇳 我觉得学校还缺少的另一样东西是练习瑞典语的机会。（som … tycker saknas：som 是 saknas 的主语；[[source-2026-11-17-formellt-brev-med-forslag]]）
+- ✅ 🇸🇪 Det tror jag är bra för då kan man fokusera på de uppgifterna. 🇨🇳 我认为这很好，因为这样就能专注于这些任务。（det 提前 + tror jag 插入）
 - ❌ det som han tyckte **att** var roligast ← som 作嵌入从句主语时不能加 att
 
 ## 常见错误 (Common Mistakes)

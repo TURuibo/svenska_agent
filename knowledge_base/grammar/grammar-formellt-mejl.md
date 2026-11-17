@@ -4,7 +4,7 @@ name: "formellt mejl"
 zh: "正式电子邮件结构"
 en: "formal email structure in Swedish"
 level: "A2-B1"
-related: [grammar-formellt-brev, grammar-privat-brev]
+related: [grammar-formellt-brev, grammar-privat-brev, grammar-brevmall]
 examples:
   - sent-darfor-vander-jag-mig-till
   - sent-jag-ar-tacksam-om-ni-kan

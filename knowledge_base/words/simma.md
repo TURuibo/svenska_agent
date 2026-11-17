@@ -25,10 +25,17 @@ created: "2026-10-16"
 
 ## 语法变形 (Forms)
 
-simma (inf) · simmar (pres) · simmade (pret) · simmat (sup)
+| Form | Swedish |
+|------|---------|
+| Infinitiv | simma |
+| Presens | simmar |
+| Preteritum | simmade |
+| Supinum | simmat |
+| Imperativ | simma |
 
 ## 例句 (Sentences)
 
+- 🇸🇪 Ibland går jag också och simmar i simhallen om jag har tid. — 🇨🇳 如果有时间，我有时也会去游泳馆游泳。
 - 🇸🇪 Jag gillar att simma i sjön. — 🇨🇳 我喜欢在湖里游泳。
 - 🇸🇪 Barnen lär sig simma i skolan. — 🇨🇳 孩子们在学校学游泳。
 - 🇸🇪 Hon simmar varje morgon. — 🇨🇳 她每天早上游泳。

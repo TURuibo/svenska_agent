@@ -52,6 +52,21 @@ members:
   - ge-förslag
   - ge-exempel
   - vad-handlar-det-om
+  - sfi
+  - språkcafé
+  - samtala
+  - skrivuppgift
+  - grammar-brevmall
+  - grammar-skrivuppgift-textstruktur
+  - grammar-vilja-att-ska
+  - grammar-vilket-hela-satsen
+  - grammar-preposition-sist-i-relativsats
+  - source-2026-11-17-informellt-mejl-tips-och-rad
+  - source-2026-11-17-informellt-brev-med-forslag
+  - source-2026-11-17-formellt-brev-med-forslag
+  - source-2026-11-17-formellt-brev-till-kommunen
+  - source-2026-11-17-traning-och-motion
+  - source-2026-11-17-sociala-medier
 created: "2026-06-27"
 ---
 
@@ -106,6 +121,26 @@ created: "2026-06-27"
 **教材练习用语 (s. 99, [[source-2026-10-20-mejl-till-politiker-frågor]])**
 - 词: [[ämnesrad]] — 主题栏; [[inledningsfras]] — 开头用语; [[muntlig]] — 口头的; [[informell]] — 非正式的 (↔ [[formell]]); [[åstadkomma]] — 达成; [[avslutning]] — 结尾; [[exempeltext]] — 范文
 - 词组: [[ge-förslag]] — 提建议; [[ge-exempel]] — 举例; [[vad-handlar-det-om]] — 讲什么
+
+**SFI 写作讲义 (2026-11-17)**
+- 词: [[sfi]] — SFI 课程; [[språkcafé]] — 语言咖啡馆; [[samtala]] — 交谈; [[skrivuppgift]] — 写作任务
+
+## ✍️ 写作：skriva brev & skrivuppgift (SFI 写作讲义 s. 3–8, 2026-11-17)
+
+**语法 (Grammar)**
+- [[grammar-brevmall]] — 正式/非正式信件模板（对照表 + 句式）
+- [[grammar-skrivuppgift-textstruktur]] — 短文四要点结构 + 连接词
+- [[grammar-vilja-att-ska]] — 希望别人做某事
+- [[grammar-vilket-hela-satsen]] — vilket 指整句
+- [[grammar-preposition-sist-i-relativsats]] — 介词留在从句末尾
+
+**来源 (Sources)**
+- s. 3 [[source-2026-11-17-informellt-mejl-tips-och-rad]] — 非正式邮件：tips och råd
+- s. 4 [[source-2026-11-17-informellt-brev-med-forslag]] — 非正式信：förslag
+- s. 5 [[source-2026-11-17-formellt-brev-med-forslag]] — 正式信：向学校提建议
+- s. 6 [[source-2026-11-17-formellt-brev-till-kommunen]] — 正式信：向市政府表达意见
+- s. 7 [[source-2026-11-17-traning-och-motion]] — Skrivuppgift：运动
+- s. 8 [[source-2026-11-17-sociala-medier]] — Skrivuppgift：社交媒体
 
 ## 备注 (Notes)
 

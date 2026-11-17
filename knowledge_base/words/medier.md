@@ -30,7 +30,7 @@ created: "2026-10-10"
 |------|---------|
 | plur. obestämd | medier |
 | plur. bestämd | medierna |
-| sing. | ett medium（少用） |
+| sing. obestämd | medium（少用） |
 
 ## 词组搭配 (Collocations)
 

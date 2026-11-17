@@ -47,6 +47,8 @@ man + 动词(presens) + 宾语/状语
 - ✅ [[sent-matavfall-lägger-man-i-en-brun]] 🇸🇪 Matavfall lägger man i en brun påse. 🇨🇳 厨余垃圾放入棕色袋子。
 - ✅ [[sent-i-sverige-sorterar-de-flesta-hushåll]] 🇸🇪 I Sverige sorterar man sina sopor noggrant. 🇨🇳 在瑞典，人们仔细地将垃圾分类。
 - ✅ [[sent-varje-år-delar-man-ut-nobelpriset-på-stadshuset]] 🇸🇪 Varje år delar **man** ut Nobelpriset på stadshuset. 🇨🇳 每年都在市政厅颁发诺贝尔奖。（V2倒置后 man 跟在动词后）
+- ✅ 🇸🇪 Då kan man tro att andra människor lever mycket bättre liv än en själv. 🇨🇳 于是你可能会以为别人过得比自己好得多。（man 的宾格/独立形式 = **en**：*än en själv*, *det gör en glad*；[[source-2026-11-17-sociala-medier]]）
+- ✅ 🇸🇪 Om man har mycket stress i sitt liv kan stressen minska. 🇨🇳 压力大时压力可以减轻。（man 的物主 = sin/sitt/sina；[[source-2026-11-17-traning-och-motion]]）
 - ❌ *Man sorterar sina sopor noggrantt* ← 拼写错误（noggrant 只有一个 t）
 
 ## 常见错误 (Common Mistakes)

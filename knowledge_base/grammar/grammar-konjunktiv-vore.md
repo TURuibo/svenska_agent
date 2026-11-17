@@ -33,6 +33,7 @@ Det vore + 形容词 + att + 不定式 / att 从句
 ## 例句 (Examples)
 
 - ✅ [[sent-det-vore-dock-orimligt-att-påstå]] 🇸🇪 Det vore dock orimligt att påstå att sömn är den enda förklaringen. 🇨🇳 不过，断言睡眠是唯一的解释并不合理。
+- ✅ 🇸🇪 Jag tycker att det vore roligare att göra något tillsammans! 🇨🇳 我觉得一起做点什么会更有意思！（vore + 比较级，= skulle vara；[[source-2026-11-17-informellt-brev-med-forslag]]）
 - ❌ Det vara orimligt att påstå … ← 不能用不定式 vara
 
 ## 常见错误 (Common Mistakes)
