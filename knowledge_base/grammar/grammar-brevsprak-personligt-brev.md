@@ -4,7 +4,7 @@ name: "Brevspråk — personligt brev"
 zh: "求职信书信语域规范"
 en: "Formal letter register for cover letters (personligt brev)"
 level: "A2"
-related: ["grammar-imperativ", "grammar-att-sats"]
+related: ["grammar-imperativ", "grammar-att-sats", "grammar-brevmall"]
 examples:
   - sent-jag-söker-tjänsten-som-barnskötare
   - sent-jag-hoppas-att-ni-vill-kalla-mig

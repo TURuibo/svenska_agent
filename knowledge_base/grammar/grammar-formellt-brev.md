@@ -4,7 +4,7 @@ name: "formellt brev"
 zh: "正式信件结构"
 en: "formal letter structure"
 level: "SFI B / CEFR A2–B1"
-related: ["grammar-privat-brev", "grammar-brevsprak-personligt-brev", "grammar-att-bisats", "grammar-imperativ-anslag"]
+related: ["grammar-privat-brev", "grammar-brevsprak-personligt-brev", "grammar-att-bisats", "grammar-imperativ-anslag", "grammar-brevmall"]
 examples: ["sent-jag-skriver-for-att-anmala-ett", "sent-ni-ar-valkommen-att-kontakta"]
 known: false
 created: "2026-06-26"
