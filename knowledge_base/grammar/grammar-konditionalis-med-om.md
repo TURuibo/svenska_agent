@@ -45,6 +45,7 @@ om + [正常语序从句], + [主句（常含 måste/ska/kan 等情态动词）]
 - ✅ Om du har ett kundkort, får du rabatt. 🇨🇳 如果你有会员卡，就能享受折扣。
 - ✅ [[sent-om-vi-ska-klara-klimatmålen-måste-vi-göra-något-nu]] 🇸🇪 Om vi ska klara klimatmålen och stoppa jordens uppvärmning måste vi göra något nu. 🇨🇳 如果我们要实现气候目标并阻止地球变暖，现在就必须行动。（om-从句在前 → 主句倒装；来源 [[source-2026-10-20-mejl-till-politiker]]）
 - ✅ 🇸🇪 Om man ska handla begagnade plagg måste man ofta ta sig in till en butik. 🇨🇳 想买二手衣服，往往得特地去店里。
+- ✅ 🇸🇪 Men jag tror att skolan skulle bli ännu bättre om Sfi-kurserna hade ett tydligare kursinnehåll. 🇨🇳 不过我认为，如果 SFI 课程内容更清晰，学校会更好。（假设：skulle + inf. … om + 过去时 hade；[[source-2026-11-17-formellt-brev-med-forslag]]）
 - ❌ *Om missar du tåget...* ← 错误：om-从句不倒装
 
 ## 常见错误 (Common Mistakes)

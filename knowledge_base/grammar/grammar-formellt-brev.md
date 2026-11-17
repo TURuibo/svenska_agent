@@ -54,6 +54,7 @@ interval: 0
 
 - ✅ [[sent-jag-skriver-for-att-anmala-ett]] 🇸🇈 Jag skriver för att anmäla ett fel i min lägenhet. 🇨🇳 我写信是为了报告公寓中的一个故障。
 - ✅ [[sent-ni-ar-valkommen-att-kontakta]] 🇸🇈 Ni är välkommen att kontakta mig. 🇨🇳 欢迎与我联系。
+- ✅ 🇸🇪 Hej skolans ledning, … Vänliga hälsningar / Annchi Fang 🇨🇳 正式意见信：*Hej + 机构,* 开头，*Vänliga hälsningar* + 全名结尾。（[[source-2026-11-17-formellt-brev-med-forslag]]；完整模板 [[grammar-brevmall]]）
 - ❌ `Kära hyresvärd` ← 报修信不用 Kära（亲爱的），那是私人信件开头。
 
 ## 常见错误 (Common Mistakes)

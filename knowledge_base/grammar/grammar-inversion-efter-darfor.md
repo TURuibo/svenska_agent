@@ -30,6 +30,9 @@ Därför röstade riksdagen nej.
 
 - ✅ [[sent-därför-röstade-riksdagen-nej-till-magdalena]] 🇸🇪 Därför röstade riksdagen nej till Magdalena Andersson. 🇨🇳 因此议会对安德松投了反对票。
 - ✅ [[sent-därför-är-det-viktigt-att-kläder-används-många-gånger]] 🇸🇪 Därför är det viktigt att kläder används många gånger.
+- ✅ 🇸🇪 Igår läste jag i tidningen att … Jag vill säga att jag tycker att det är ett dåligt förslag. Därför skriver jag till er. 🇨🇳 ……所以我给你们写信。（正式信的开头理由句；[[source-2026-11-17-formellt-brev-till-kommunen]]）
+- ✅ 🇸🇪 Därför skulle det vara bra med en klassrumskurs på helgen. 🇨🇳 所以周末开一门教室课程会很好。（[[source-2026-11-17-formellt-brev-med-forslag]]）
+- ⚠️ 对比：*därför att* = 因为（引导从句，正常语序）：*… bostäder där därför att Lötsjön betyder jättemycket …*
 - ❌ Därför riksdagen röstade nej. ← 违反 V2
 
 ## 常见错误 (Common Mistakes)

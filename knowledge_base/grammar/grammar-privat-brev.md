@@ -7,6 +7,7 @@ level: A2
 related:
   - grammar-brevsprak-personligt-brev
   - grammar-att-sats
+  - grammar-brevmall
 examples:
   - sent-jag-hoppas-att-allt-är-bra
   - sent-jag-saknar-dig-och-hela-familjen
@@ -76,6 +77,7 @@ interval: 0
 - ✅ [[sent-jag-hoppas-att-allt-är-bra]] 🇸🇪 Jag hoppas att allt är bra med dig och din familj. 🇨🇳 希望你和家人一切都好。
 - ✅ [[sent-jag-saknar-dig-och-hela-familjen]] 🇸🇪 Jag saknar dig och hela familjen. 🇨🇳 我很想念你和整个家人。
 - ✅ [[sent-jag-hoppas-att-du-kan-besöka]] 🇸🇪 Jag hoppas att du kan besöka mig en dag! 🇨🇳 希望你有天能来看我！
+- ✅ 🇸🇪 Hoppas allt är bra med er! Vi hörs och ses snart. Kramar, Maria 🇨🇳 希望你们一切都好！保持联系，很快见。拥抱，Maria（非正式结尾 + *Kramar*；[[source-2026-11-17-informellt-brev-med-forslag]]，模板 [[grammar-brevmall]]）
 
 ## 常见错误 (Common Mistakes)
 

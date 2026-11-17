@@ -31,7 +31,7 @@ created: "2026-11-17"
 | Singular obestämd | ställe |
 | Singular bestämd | stället |
 | Plural obestämd | ställen |
-| Plural bestämd |ställena |
+| Plural bestämd | ställena |
 
 ## 词组搭配 (Collocations)
 

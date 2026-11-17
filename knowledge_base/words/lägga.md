@@ -38,6 +38,7 @@ interval: 0
 | Imperativ | lägg! |
 | Presens | lägger |
 | Preteritum | lade |
+| Preteritum (talspråk) | la |
 | Supinum | (har) lagt |
 
 ## 词组搭配 (Collocations)

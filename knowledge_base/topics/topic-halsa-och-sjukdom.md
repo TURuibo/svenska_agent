@@ -21,6 +21,8 @@ members:
   - audionom
   - nedstämd
   - kurator
+  - motionera
+  - vardagsmotion
 created: "2026-06-30"
 ---
 
@@ -48,6 +50,9 @@ created: "2026-06-30"
 - [[audionom]]
 - [[nedstämd]]
 - [[kurator]]
+- [[motionera]] — 锻炼
+- [[vardagsmotion]] — 日常活动量
+- [[simma]] — 游泳
 
 ## 备注 (Notes)
 

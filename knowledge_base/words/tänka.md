@@ -38,6 +38,7 @@ interval: 0
 | Presens | tänker |
 | Preteritum | tänkte |
 | Supinum | (har) tänkt |
+| Imperativ | tänk |
 
 ## 词组搭配 (Collocations)
 

@@ -3,7 +3,7 @@ type: topic
 name: "skola och utbildning"
 kind: semantic-field
 zh: 学校与教育（语义场）
-members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå, utbildning, eftergymnasial, gymnasial, förgymnasial, fritidskurs, läsa-en-kurs, på-sin-fritid, stapeldiagram, andel, procent, studiedag, fritidshem, fotograf, fotografera, expedition, historia, kunskap, grundläggande, redovisa, komplettera, skriftlig, lov, sammanfattning, inledning, gymnasium, kursdeltagare, muntligt, utantill, huvudpunkt, utbilda-sig, koncentrera-sig, koncentrera-sig-på, lära-sig-utantill, mentor, individuell, utvecklingsplan, kopia, behörig, behörighet, redovisning, dagis, utvärdera, färdighet, matte, bedömning, teori, citera, vetenskap, inriktning, godkänd, yrkesprogram, studievägledare, matsal]
+members: [förskola, bildning, lärande, barnboksförfattare, kallelse, termin, utvecklingssamtal, kontakta, klasslärare, skolgård, förbättra, dålig, aktiv, uppgift, lektion, elev, lärare, prov, betyg, student, högskola, undervisning, filosofi, årskurs, nivå, utbildning, eftergymnasial, gymnasial, förgymnasial, fritidskurs, läsa-en-kurs, på-sin-fritid, stapeldiagram, andel, procent, studiedag, fritidshem, fotograf, fotografera, expedition, historia, kunskap, grundläggande, redovisa, komplettera, skriftlig, lov, sammanfattning, inledning, gymnasium, kursdeltagare, muntligt, utantill, huvudpunkt, utbilda-sig, koncentrera-sig, koncentrera-sig-på, lära-sig-utantill, mentor, individuell, utvecklingsplan, kopia, behörig, behörighet, redovisning, dagis, utvärdera, färdighet, matte, bedömning, teori, citera, vetenskap, inriktning, godkänd, yrkesprogram, studievägledare, matsal, sfi, studier, skrivuppgift]
 created: "2026-06-03"
 ---
 
@@ -50,6 +50,12 @@ created: "2026-06-03"
 - [[stapeldiagram]] — 柱状图 (bar chart)
 - [[andel]] — 比例、份额 (share, proportion)
 - [[procent]] — 百分比 (per cent)
+
+### SFI 写作讲义（2026-11-17）
+
+- [[sfi]] — SFI 移民瑞典语课程
+- [[studier]] — 学业
+- [[skrivuppgift]] — 写作任务
 
 ## 备注 (Notes)
 
