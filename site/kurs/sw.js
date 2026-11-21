@@ -10,7 +10,7 @@
  * api.github.com / raw.githubusercontent.com) and non-GET requests are never touched.
  * Bump CACHE_VERSION to drop all old caches.
  */
-const CACHE_VERSION = 1;
+const CACHE_VERSION = 2;
 const CACHE = `kurs-v${CACHE_VERSION}`;
 
 self.addEventListener('install', () => self.skipWaiting());

@@ -134,9 +134,14 @@
   let deck = 'focus';
   let level = 'all';
   {
+    // #deck=all&level=A2 — e.g. from 🪜 Nivå's 「在 Öva 里复习 A2 单词」.
     const h = new URLSearchParams((location.hash || '').replace(/^#/, ''));
     if (['focus', 'recent', 'all'].includes(h.get('deck'))) deck = h.get('deck');
     else if (!focusSlugs.length) deck = 'recent';
+    if (['A1', 'A2', 'B1', 'B2'].includes(h.get('level'))) {
+      level = h.get('level');
+      document.getElementById('ovaLevel').value = level;
+    }
   }
   function deckWords() {
     let list;

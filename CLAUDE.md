@@ -208,7 +208,7 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 1. /dagens-scenario   （批量：按 day-of-year 生成当天 5 篇，一周轮完 35 体裁，不需联网）
 2. 对刚生成的**每一个** inbox/scenario-<date>-*.md（今天 5 篇）逐篇跑 /import（spawn librarian/importer 用前台，每篇等完整 manifest 再做下一篇）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`）已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`、`niva/niva-data.js`）已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：同时在本地任务和云端跑会同一天生成两篇。改用云端后，请在桌面把本地那条 scenario 任务**停用**。
@@ -326,7 +326,7 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 1. /dagens-nyheter
 2. 对刚生成的 inbox/news-*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`）已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`、`niva/niva-data.js`）已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：news 同时在本地 `svensk-news-daily` 和云端跑会重复抓取/产生两份当日新闻。
@@ -429,7 +429,7 @@ A1–A2 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 
 **⭐ 2026-06-23 架构改：生成的 viewer 数据文件已移出 git。**
 `site/kb-index.js`、`site/kb-bodies.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js`
-（以及 2026-10-02 起 Dagbok 首页用的 `site/dagbok-data.js`，由 `tools/build-dagbok-data.js` 从前三者汇总；2026-11-14 起还有 Flöde 用的 `site/flode/flode-data.js`，见 §4.10；2026-11-15 起还有 Kurs 用的 `site/kurs/kurs-index.js` + `site/kurs/data/`，见 §4.11）现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
+（以及 2026-10-02 起 Dagbok 首页用的 `site/dagbok-data.js`，由 `tools/build-dagbok-data.js` 从前三者汇总；2026-11-14 起还有 Flöde 用的 `site/flode/flode-data.js`，见 §4.10；2026-11-15 起还有 Kurs 用的 `site/kurs/kurs-index.js` + `site/kurs/data/`，见 §4.11；2026-11-21 起还有 Nivå 用的 `site/niva/niva-data.js`，见 §4.12）现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
 main**。所以以前「Action 提交 viewer 文件 → 和 routine 抢 → 每次 merge 必冲突」的根源**没了**：routine **绝不碰
 这几个文件**，PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数据文件、⑥force-push 对齐分支）。
 
@@ -561,6 +561,24 @@ routine 第 0 步：node tools/activity-gate.js   （git fetch origin read-log �
 > 规则 (a)：**`imported/*.md` 里 `sv-study-guide` 的精读格式就是 Kurs 的数据源**（被 `tools/build-kurs-data.js` 机器解析）。
 > 写完或改过任何一篇「🔍 逐段精读」后，发布前跑 `node tools/build-kurs-data.js --check`，有不符先修再发。
 > 规则 (b)：Kurs 里的「✓ 标为已读」与 Läsning 是**同一个标记**（`ReadSync`），所以**算 §4.9 的活跃**。
+
+### §4.12 🪜 Nivå (按级别集中学)
+
+**Nivå** 是第 10 个页面（nav 里紧跟 Dagbok，共 9 个 tab）：**选一个级别，一页看到这一级的全部材料**——语法、单词、词组、阅读、情景、听力、课文，
+每类都按固定顺序排好（由易到难），带进度；学完一级再进下一级。**Dagbok 按日期索引 ↔ Nivå 按级别索引**，材料不搬家，每一行都链回原页面。
+设计、归级规则、数据契约见 `site/niva/SPEC.md`，这里不重复。
+
+| 部件 | 是什么 |
+|------|--------|
+| `site/niva/` | 页面（`index.html` / `niva.js` / `niva.css`）：阶梯（A1 → A2 → B1 → B2+，每级一张卡 + 进度环）→ 级别页（7 个分区 tab） |
+| `tools/level-lib.js` | **唯一一套归级规则**：解析 `cefr` / `level` / 「级别:」/ `CEFR 估计` 的各种写法（`SFI B / CEFR A2`、`A2–B1`、`SFI C`…）；区间放低一级末尾当「🌉 过渡」；文本难度（LIX + 超出本级的词比例） |
+| `tools/build-reading-site.js` | 给 `reading-data.js` 每篇文章加 `lv` / `lvHi` / `lvInf` / `lix` / `n` / `over` / `d`（本级内难度 1–5）/ `up`（⬆ 偏难）；原有 `cefr` 字段不变 |
+| `tools/build-niva-data.js` | 直接读 `knowledge_base/` + `listening/*.json`，文本级别取自 `reading-data.js`（所以要在 `build-reading-site.js` **之后**跑），生成 `site/niva/niva-data.js`。**gitignore，由 Action 构建**，routine 不碰、不提交 |
+| `niva.state.v1`（localStorage） | 语法「学过」✓、上次看到的级别 / 分区、筛选；只读 `ova.state.v1` / `flode.state.v1` / `kurs.state.v1` / `ReadSync` 算进度 |
+| 返回链接 | 从 Nivå 打开的 Läsning / Tala / Lyssna / Kurs 显示「← 返回 Nivå」（`&from=<Nivå 的 hash>&frompage=niva`），回来落在原来那一行；Öva 支持 `#deck=all&level=A2` |
+
+> 规则 (a)：**新素材写对 `**CEFR 估计:**` 行，Nivå 就自动归级**——区间写成 `A2–B1`（别只写一个级别糊过去），不确定就不写，构建时会按用词推断（显示 ≈）。
+> 规则 (b)：Nivå 本身**不算** §4.9 的活跃（它没有「标为已读」）；在原页面读完标已读才算。
 
 ---
 

@@ -19,6 +19,7 @@ site/dagbok-data.js
 site/flode/flode-data.js
 site/kurs/kurs-index.js
 site/kurs/data/
+site/niva/niva-data.js
 
 # editor / OS
 .DS_Store

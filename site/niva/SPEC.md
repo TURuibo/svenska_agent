@@ -1,6 +1,6 @@
 # 🪜 Nivå — 按级别集中学 (spec + plan)
 
-> 2026-11-21 · 状态：**设计稿，未实现**。本文件是 Nivå 的唯一设计依据；改行为先改这里。
+> 2026-11-21 · 状态：**P0 已实现**（阶梯 + 级别页 7 个分区 + 语法「学过」✓ + 各页「← 返回 Nivå」，见 §12）；P1 / P2 待做。本文件是 Nivå 的唯一设计依据；改行为先改这里。
 > 一句话：**选一个级别（A1 / A2 / B1 / B2+），一页看到这一级的全部材料——按顺序、带进度；这一级学完、自测通过，再进下一级。**
 > 与其它页的分工：Dagbok = 按**日期**索引；Nivå = 按**级别**索引。材料仍住在原来的页面（Läsning / Tala / Lyssna / Kurs / Sök），
 > Nivå 只回答三个问题：**这一级有什么 · 先学哪个 · 我学到哪了**。
@@ -14,7 +14,7 @@
 | Läsning / Tala | 类型 · 题材 · 主题 · 🎯 | ❌ 卡片上只写着 CEFR |
 | Lyssna | 日期 | ❌ |
 | Kurs | 课文列表 | ❌ |
-| Öva | 牌组 + **CEFR 下拉** | ⚠️ 只有单词，且不能从链接带入级别 |
+| Öva | 牌组 + **CEFR 下拉** | ⚠️ 只有单词，且不能从链接带入级别（P0 已补 `#level=`） |
 | Flöde | 车道（预习 / 到期 / 新词 / 随机） | ❌ |
 | Sök / Dagbok | 类型 / 日期 | ❌ |
 
@@ -203,6 +203,7 @@ hi > lo → br = 1：🌉 过渡材料，排在本级每个分区的末尾，标
 | 词组 | `cefr` | `head_words` 里各词级别的**最高值**（≈） | 链接到它的句子的级别中位数（≈）→ 未分级区 |
 | 文章 / 情景 / 新闻 | 正文 `CEFR 估计` 行（**保留区间，不再截断**） | frontmatter `cefr` | 实测级别（≈，§4.3） |
 | 词形练习 adjsubst | 导入块里各词级别的中位数（≈） | — | — |
+| 没有正文可测、也没标级别的文本（如只有导入块的旧文件） | 导入块里各词级别的中位数（≈） | — | 不进 Nivå |
 | 听力 | JSON `cefr` | 关联文章（`readingSlug`）的级别 | — |
 | 课文（Kurs） | 文章的 CEFR 行 | — | — |
 
@@ -220,7 +221,8 @@ over = 超出本级的词次占比
 len  = 词数
 
 难度 d = 本级内的百分位：0.45 · rank(lix) + 0.45 · rank(over) + 0.10 · rank(len)  → 显示成 ●○○○○ 到 ●●●●●
-⬆ 偏难 = over > 10%（每 10 个词就有 1 个超纲，不查词读不顺）
+⬆ 偏难 = 超出**标注上限**的词 > 10%（区间取上限：标「A1–A2」的文本用到 A2 词是应该的，不算偏难；
+        每 10 个词就有 1 个超纲，不查词读不顺）。实测（2026-11-21）：259 篇里 12 篇。
 ```
 
 - 计算放在 `build-reading-site.js` 里（它已经有词形 → 词元的映射），结果作为新字段写进 `reading-data.js`，Läsning / Tala 也能用来排序。
@@ -299,7 +301,7 @@ len  = 词数
 |---|---|---|
 | Läsning / Tala | 新增「级别」下拉（全部 / A1 / A2 / B1 / B2+），默认 = 当前级别；选了级别时按难度排序；支持 `#lv=A2` | P1 |
 | Lyssna | 剧集列表同样筛选 | P1 |
-| Öva | 级别下拉默认 = 当前级别；支持 `#level=A2` | P1 |
+| Öva | 级别下拉默认 = 当前级别（`#level=A2` 链接 P0 已支持） | P1 |
 | Kurs | 课文列表筛选 | P1 |
 | Dagbok | 一行「🪜 A2 ◐ 38% · ▶ 下一步」 | P1 |
 | Flöde | 🆕 新词车道只出当前级别的词（用完再向上一级借）；新闻 / 对话 / 预告只出 ≤ 当前级别 | P2 |
@@ -327,7 +329,7 @@ level: A1 | test 18/20 | passed | 2026-11-21             ← 自测 / 通关
 
 | key | 内容 |
 |---|---|
-| `niva.state.v1` | `{ v:1, focus:'A2' \| null, grammar:{ <slug>:'YYYY-MM-DD' }, words:{ <slug>:[1 \| 0, 'YYYY-MM-DD'] }, phrases:{ 同上 }, tests:{ A1:[{ at, right, total }] }, passed:{ A1:'YYYY-MM-DD' }, last:{ lv, sec, group, i, at }, lastCopy:'YYYY-MM-DD' }` |
+| `niva.state.v1` | P0：`{ v:1, grammar:{ <slug>:'YYYY-MM-DD' }, only:{ <分区>:true }, lastSec:{ A2:'read' }, last:{ lv, sec } }`。P1 再加 `focus:'A2' \| null, words:{ <slug>:[1 \| 0, 'YYYY-MM-DD'] }, phrases:{ 同上 }, tests:{ A1:[{ at, right, total }] }, passed:{ A1:'YYYY-MM-DD' }, lastCopy`。写前先重读、不认识的键原样保留；只有他自己的操作才写（别的标签页 / ReadSync 触发的重绘不写，两个标签页不会互相触发） |
 | `ova.state.v1` | 读：箱位算「会」；写：🤔 不会 / 自测答错 → 箱 0、今天到期（规则同 Öva，写前先重读，避免覆盖别的标签页） |
 | `flode.state.v1` | 读 `mute`；点 😎 会 时也写进 `mute`，Flöde 不再出这个词的词卡 |
 | `kurs.state.v1` | 只读：每课学完了几段 |
@@ -337,61 +339,84 @@ level: A1 | test 18/20 | passed | 2026-11-21             ← 自测 / 通关
 
 ## 10. 数据契约 `site/niva/niva-data.js`（**冻结**——构建端和页面端都按它写）
 
-由 `tools/build-niva-data.js` 生成：放在 `build-reading-site.js`、`build-listening-site.js`、`build-kurs-data.js` **之后**跑
-（文本的级别和难度取自 `reading-data.js`；语法、词组、单词直接读 `knowledge_base/`）。**gitignore，由 Action 构建**；routine 不碰、不提交。
-预算：**≤ 1 MB raw（gzip 后约 250 KB）**；超了先砍单词的 `f`（变形）和 `ipa`。缺失的可选字段一律省略或给 `''`，页面端必须容错。
+由 `tools/build-niva-data.js` 生成：放在 `build-reading-site.js` **之后**跑（文本的级别和难度取自 `reading-data.js`；
+语法、词组、单词、句子直接读 `knowledge_base/`，听力直接读 `listening/*.json`，课文 = 正文有 `## 🔍 逐段精读` 的文章）。
+**gitignore，由 Action 构建**；routine 不碰、不提交。
+预算：**≤ 1 MB raw**（2026-11-21 实测 793 KB，gzip 后约 170 KB）；超了只警告、不让构建失败。
+P0 的单词只带列表要用的字段；P1 翻卡要的 `en` / `ipa` / 变形放进按级别懒加载的 `site/niva/words-<级别>.js`，不进这个文件。
+缺失的可选字段一律省略或给 `''`，页面端必须容错。
 
 ```js
 window.NIVA_DATA = {
   v: 1,
   generatedAt: '2026-11-21T08:00:00.000Z',
   levels: [                       // 文字取自 .claude/skills/sv-assess/levels.md
-    { id: 'A1', sfi: 'SFI A', name: '入门', can: '靠帮助应付最具体的日常：问候、个人信息、抄写信息' },
-    { id: 'A2', sfi: 'SFI B', name: '基础', can: '日常常见场景；短消息；讲自己的经历', bridge: 'SFI C' },
-    { id: 'B1', sfi: 'SFI D', name: '进阶', can: '较正式场景；读写说明文和论述文；用简单论据回应别人的观点' },
-    { id: 'B2', sfi: 'Gy SVA nivå 1', name: '中高级', can: '口头演讲；多种文体；非虚构与文学' }
+    { id: 'A1', sfi: 'SFI A', name: '入门', can: '靠帮助应付最具体的日常：问候、介绍自己、填写个人信息' },
+    { id: 'A2', sfi: 'SFI B', name: '基础', can: '应付日常常见场景：写短消息，讲自己的经历和熟悉的人、地方', bridge: 'SFI C' },
+    { id: 'B1', sfi: 'SFI D', name: '进阶', can: '应付较正式的场景：读写说明文和论述文，用简单论据回应别人的观点' },
+    { id: 'B2', sfi: 'Gy SVA nivå 1', name: '中高级', can: '口头演讲，多种文体，读非虚构作品和文学' }
   ],
-  grammar: [{
+  grammar: [{                     // 按 级别 → br → ord 排好
     s: 'grammar-perfekt', n: 'perfekt', zh: '现在完成时',
-    one: '一句话总结（正文「一句话:」行；237 个里 203 个有，没有的给 \'\'）',
+    one: '一句话总结（正文「一句话:」行，≤ 120 字；237 个里 203 个有，没有的给 \'\'）',
     lv: 'A2', br: 0, inf: 0,     // br = 1：区间材料（🌉 过渡）；inf = 1：推断的级别（≈）
-    tier: 1,                     // 1 核心 · 2 常用 · 3 细节
-    ord: 2                       // 本级内的顺序（课纲优先，否则按被引用次数）
+    tier: 1,                     // 1 核心 · 2 常用 · 3 细节（本级非过渡语法点按被引用次数三等分）；过渡的给 0
+    ord: 2                       // 本级（同 br）内的顺序：被 KB 笔记 + imported 文章链接的次数从多到少
   }],
-  words: [{
-    s: 'smörgås', l: 'smörgås', p: 'substantiv', g: 'en',   // g：'en' | 'ett' | ''
-    zh: '三明治', en: 'sandwich', ipa: '/ˈsmœrːjɔːs/',
-    f: ['smörgåsen', 'smörgåsar', 'smörgåsarna'],            // 变形，≤ 4 个
+  words: [{                       // 按 级别 → slug 排；页面再按主题分组、组内按 fq
+    s: 'smörgås', l: 'smörgås', p: 'substantiv', g: 'en',   // p = ordklass 第一个词；g：'en' | 'ett' | ''（仅名词）
+    zh: '三明治',                // ≤ 36 字
     lv: 'A2', br: 0,
-    tp: 'topic-mat-dryck',       // 第一个主题，或 ''
+    tp: 'topic-mat-dryck',       // 第一个有 topics/ 笔记的主题，或 ''
     fq: 2140,                    // Kelly 词频排名；没有给 0（排在有排名的后面）
     k: 0                         // 1 = known: true
   }],
-  phrases: [{ s: 'boka-en-tid', sv: 'boka en tid', cat: 'situationsfras', zh: '预约（看诊）', lv: 'A2', br: 0, inf: 1 }],
+  phrases: [{
+    s: 'boka-en-tid', sv: 'boka en tid',
+    cat: 'fras',                 // 归并后的类别：fras 日常/情景 · partikel · verb 搭配 · prep 介词短语 · tid 时间 ·
+                                 // fast 固定表达 · diskurs 连接 · idiom 习语 · ovrigt 其他（原 category 写法太多）
+    zh: '预约（看诊）', lv: 'A2', br: 0, inf: 1, k: 0
+  }],
+  phrasesUnplaced: 51,            // 既没标级别、也推不出来的词组数（不进 Nivå）
   sentences: { A1: 468, A2: 2113, B1: 1002, B2: 13 },       // P0 只给数量
-  texts: [{
-    s: 'natur-…-bjornen', t: 'Björnen — skogens stora sovare',
+  texts: [{                       // 按 级别 → page → br → 难度排好；课文（有逐段精读）和 horning-*（听力文字版）不在这里
+    s: 'natur-…-bjornen', t: 'Björnen — skogens stora sovare',   // 标题去掉 🇸🇪 和末尾的「(体裁 / slug)」
     page: 'reading',             // 'reading' | 'tala'
     kind: 'article',             // reading-data 的 kind：article | news | fokus | myndighet | scenario | adjsubst | other
+    tag: '说明文',               // 情景：对话 / 文本 / 故事；其它：题材，或「词形练习」
     lv: 'A2', br: 0, inf: 0,
-    d: 2,                        // 本级内难度 1–5
-    lix: 25, n: 240,             // LIX、词数
+    d: 2,                        // 本级内难度 1–5；0 = 没有正文可测（词形练习）
+    lix: 25, n: 240,             // LIX、瑞典语词数
+    over: 6,                     // 超出本级的词 %；-1 = 没测
     up: 0,                       // 1 = ⬆ 偏难
     date: '2026-11-13', dialog: 0   // dialog = 1：可角色扮演
   }],
-  listen: [{ id: 'svt-latt-2026-06-17', t: '…', lv: 'A2', br: 1, dur: 270, date: '2026-06-17', reading: '' }],
-  kurs:   [{ s: 'paste-2026-10-15-ett-perfekt-liv', t: 'Ett perfekt liv', lv: 'B1', br: 0, paras: 16 }],
-  topics: { 'topic-mat-dryck': '食物饮料' }                  // 主题 slug → 中文名（topics/ 笔记的 zh）
+  listen: [{                      // 有字幕的在前
+    id: 'eakkN4D',               // Lyssna 的 episode id（#ep= 和已读标记 lyssna:<id> 都用它；SVT 的是视频 id）
+    t: 'Nyheter på lätt svenska — 17 jun', src: 'SVT Nyheter på lätt svenska',
+    lv: 'A2', br: 1, dur: 272, cues: 51, date: '2026-06-17',
+    reading: 'horning-2026-06-17'   // 文字版文章（readingSlug，或 SVT 那集同日期的 horning-*），没有给 ''
+  }],
+  kurs: [{ s: 'paste-2026-10-15-ett-perfekt-liv', t: 'Ett perfekt liv （SFI s. 129–131）', lv: 'B1', br: 0, inf: 0, date: '2026-10-15', paras: 16 }],
+  topics: { 'topic-mat-dryck': '食物饮料' }                  // 用到的主题 slug → 中文名（topics/ 笔记的 zh）
 };
 ```
 
-`reading-data.js` 的每篇文章同时新增 `lv`、`lvHi`、`lix`、`over`、`d`、`up`（原有 `cefr` 字段不变，保证旧页面不受影响）。
+`reading-data.js` 的每篇文章同时新增 `lv`、`lvHi`（区间上限，非区间给 ''）、`lvInf`、`lix`、`n`、`over`（null = 没测）、`d`、`up`
+（原有 `cefr` 字段不变，保证旧页面不受影响）。
 
 ## 11. 页面与路由
 
-- `site/niva/`：`index.html` · `niva.js` · `niva.css`（`?v=N`），`<body data-site="niva">`；加载 `../styles.css`、`../nav.js`、`../read-sync.js`、`../speak.js`、`niva-data.js`。
-- Hash 路由：`#` 阶梯 · `#lv=A2` 级别页 · `#lv=A2&sec=read` 某分区 · `#lv=A2&sec=words&g=topic-mat-dryck` 过一遍 · `#lv=A2&test=1` 自测 · `#place=1` 定级。
-- 返回入口：Läsning / Tala / Lyssna 的 `BACK_TARGETS` 加 `niva → ../niva/#lv=<级别>&sec=<分区>`，标签「← 返回 Nivå」；Kurs 同理。
+- `site/niva/`：`index.html` · `niva.js` · `niva.css`（`?v=N`），`<body data-site="niva">`；加载 `../styles.css`、`../nav.js`、`../read-sync.js`、`niva-data.js`
+  （P1 翻卡要朗读时再加 `../speak.js`）。
+- Hash 路由：`#` 阶梯 · `#lv=A2` 级别页 · `#lv=A2&sec=read` 某分区 · `#lv=A2&sec=read&i=<id>` 定位到某一行（滚过去、闪一下，然后从网址里去掉 `i`）。
+  P1：`#lv=A2&sec=words&g=topic-mat-dryck` 过一遍 · `#lv=A2&test=1` 自测 · `#place=1` 定级。
+  分区 tab 用 `replaceState`（不产生历史记录）；阶梯 → 级别用 `pushState`，所以「←」和浏览器后退都回阶梯；直接打开某一级的链接时，先在底下垫一条阶梯记录（同 Kurs 的做法）。
+- 返回入口：每一行打开 Läsning / Tala / Lyssna / Kurs 时带 `&from=<Nivå 的 hash，整段编码>&frompage=niva`。
+  Läsning / Tala 的 `BACK_TARGETS` 加 `niva → ../niva/#`，Lyssna 的 `epBackLink` 同理，标签「← 返回 Nivå」；
+  Kurs 从 Nivå 打开时左上角「←」直接回 Nivå（进过 Kurs 首页后恢复原样）。Nivå 解析 hash 前先整段 `decodeURIComponent`。
+  去 Sök 看笔记不带参数：离开前先把这一行写进 Nivå 自己的网址（`&i=`），浏览器后退就落回原处。
+- Öva：支持 `#deck=all&level=A2`（单词分区的「🔁 在 Öva 里复习 A2 单词」用它）。
 - 导航：`nav.js` 的 `DEST` 在 Dagbok 后面加 `{ id: 'niva', icon: '🪜', label: 'Nivå' }`，共 9 个 tab。
   360 px 实测：每个 tab 38 px，最长标签「Läsning / Dagbok」34 px，一行放得下、不截断。
 
@@ -399,8 +424,8 @@ window.NIVA_DATA = {
 
 | 阶段 | 做什么 | 做完能干什么 |
 |---|---|---|
-| **P0 · 能集中看** | `tools/level-lib.js`（§4.1–4.3）· `build-reading-site.js` 保留区间并加难度字段 · `tools/build-niva-data.js` · `site/niva/`（阶梯 + 级别页 7 个分区 + 句子数量，按 §4 排序；已读 / 箱位 / 课文进度只读显示）· 各页「← 返回 Nivå」· 第 9 个 tab · Action / `.gitignore` / README / CLAUDE.md §4.12 | 选 A1 → 一页看到 A1 的全部材料，由易到难、带已读状态，点开即学 |
-| **P1 · 过一遍 + 通关** | 单词 / 词组翻卡自评 · 语法 ✓ · ▶ 下一步 · 🏁 自测 + 🧭 定级 · 通关 · 复制结果 → `/ova`（`ova-sync.js` 支持 `known` / `level:` 行）· 当前级别 + Läsning / Tala / Lyssna / Öva / Kurs 跟随 · Dagbok 一行 | 真正做到「学完 A1 再学 A2」；掌握情况写回 KB 和 `profile/level.md` |
+| **P0 · 能集中看** ✅ 2026-11-21 | `tools/level-lib.js`（§4.1–4.3）· `build-reading-site.js` 保留区间并加难度字段 · `tools/build-niva-data.js` · `site/niva/`（阶梯 + 级别页 7 个分区 + 句子数量，按 §4 排序；已读 / 箱位 / 课文进度只读显示；**语法「学过」✓**）· 各页「← 返回 Nivå」· 第 9 个 tab · **Öva `#level=`** · Action / `.gitignore` / README / CLAUDE.md §4.12 | 选 A1 → 一页看到 A1 的全部材料，由易到难、带已读状态，点开即学 |
+| **P1 · 过一遍 + 通关** | 单词 / 词组翻卡自评（数据：`words-<级别>.js` 懒加载）· ▶ 下一步 · 🏁 自测 + 🧭 定级 · 通关 · 复制结果 → `/ova`（`ova-sync.js` 支持 `known` / `level:` 行）· 当前级别 + Läsning / Tala / Lyssna / Öva / Kurs 跟随 · Dagbok 一行 | 真正做到「学完 A1 再学 A2」；掌握情况写回 KB 和 `profile/level.md` |
 | **P2 · 全站 + 补料** | Flöde 按当前级别出卡（句子也在这里按级别刷）· Sök 级别 pill · 缺材料卡片 + 生成命令 · 语法课纲 `profile/niva-syllabus.md` · 词组 `cefr` 回填 · 个性化可读度（按你已会的词算每篇的覆盖率，推荐 95–98% 覆盖的「i+1」文本）·（可选）routine 按当前级别生成 | 全站围着当前级别转；A1 / B2 缺的材料能补上 |
 
 ## 13. 待定项
