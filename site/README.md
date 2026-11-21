@@ -1,6 +1,6 @@
 # Swedish learning site (multi-page)
 
-Static, dependency-free site for the local Swedish markdown knowledge base. Eight pages share one
+Static, dependency-free site for the local Swedish markdown knowledge base. Nine pages share one
 palette (`styles.css`), one navigation component (`nav.js`), and a small set of **shared KB
 modules**:
 
@@ -32,6 +32,7 @@ https://turuibo.github.io/svenska_agent/
 | Page | Path | What it's for |
 |------|------|----------------|
 | **Dagbok** 📅 | `site/index.html` (`/`) | Home — slim daily index: what was read / listened / looked up each day, linking out |
+| **Nivå** 🪜 | `site/niva/` | Everything at one CEFR level on one page (grammar, words, phrases, reading, scenarios, listening, lessons), easiest first, with progress — see [Nivå](#nivå-by-level) |
 | **Flöde** 🌊 | `site/flode/` | Phone-first card feed for spare minutes (☀️ daytime); installable PWA — see [Flöde](#flöde-feed) |
 | **Kurs** 📘 | `site/kurs/` | Phone-first textbook study: one paragraph = one session (读 → 拆 → 词 → 练), resumable — see [Kurs](#kurs-textbook-study) |
 | **Läsning** 📖 | `site/reading/` | Read articles / news / drills with toggleable 🇨🇳 translation |
@@ -44,10 +45,10 @@ https://turuibo.github.io/svenska_agent/
 ## Navigation (`nav.js`)
 
 Every page sets `<body data-site="…">` and loads `nav.js`, which injects one consistent nav so you
-can jump between the pages from any page: eight tabs (Öva has no tab; the Flöde page itself is an immersive, nav-less
+can jump between the pages from any page: nine tabs (Öva has no tab; the Flöde page itself is an immersive, nav-less
 feed and does not load `nav.js`). On desktop it's a slim sticky **top bar**; on
 phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted; the tabs fit one
-row at 360 px thanks to a smaller label under 400 px). Add a new
+row at 360 px — 38 px each — thanks to a smaller label under 400 px). Add a new
 destination once, in `nav.js`'s `DEST` list — never per page.
 
 ## Cache-busting (`?v=N`)
@@ -56,7 +57,7 @@ Static code assets (`styles.css`, `nav.js`, each page's `*.css` / `*.js`) are re
 `?v=N` query, e.g. `styles.css?v=4`. **When you edit any of those files, bump the number** (same `N`
 across all pages) so browsers fetch the new copy instead of a stale cached one — important since the
 site is used on both laptop and phone. Generated data files (`kb-index.js`, `kb-bodies.js`,
-`reading-data.js`, `listening-data.js`, `flode/flode-data.js`) are intentionally left unversioned: the daily routines
+`reading-data.js`, `listening-data.js`, `flode/flode-data.js`, `niva/niva-data.js`) are intentionally left unversioned: the daily routines
 regenerate them, and a frozen `?v` would hide fresh data.
 
 ## Sök (search tool)
@@ -70,6 +71,41 @@ a forward-links list that flags broken targets. The body loads lazily via `KB.bo
 deep-linkable via `#note=<slug>`; the **Back** button retraces wikilink trails; keyboard shortcuts
 work (`/` or `Ctrl/Cmd-K` to focus search, ↑/↓ to move, Enter to open, Esc to back/clear). Other
 pages link in as `…/sok/#note=<slug>`, or open notes inline via the shared `KB.openNote` popover.
+
+## Nivå (by level)
+
+`site/niva/` answers "show me everything at A1, then A2 …" (CLAUDE.md §4.12; full design in
+[`niva/SPEC.md`](niva/SPEC.md)). Dagbok indexes the material by **date**; Nivå indexes the same material by
+**level**. It never copies content: every row links to the page where the material lives.
+
+- **Ladder** (`#`): one card per level — A1 ≈ SFI A · A2 ≈ SFI B · B1 ≈ SFI D · B2+ — with the counts per
+  section and a progress ring; 「▶ 继续上次」 reopens the last level / section.
+- **Level page** (`#lv=A2&sec=read`): seven section tabs, each in a fixed order —
+
+  | Section | Order | Links to | 「完成」 |
+  |---|---|---|---|
+  | 📗 语法 | 核心 → 常用 → 细节 (by how many notes / articles link the point) | Sök note | ○ toggle 「学过」 (local) |
+  | 🔤 单词 | grouped by topic (biggest first), common words first (Kelly rank) | Sök note | `known: true`, Öva box ≥ 4, or Flöde 「😎 会了」 |
+  | 🧩 词组 | grouped by kind (partikelverb, 介词短语 …) | Sök note | `known: true` or Flöde 「😎 会了」 |
+  | 📖 阅读 / 🗣️ 情景 | easiest first (difficulty 1–5 within the level), 📐 drills and 🌉 ranges in their own groups | Läsning / Tala | 标为已读 |
+  | 🎧 听力 | episodes with subtitles first; 📖 opens the text version | Lyssna | 标为已读 |
+  | 📘 课文 | textbook lessons with a 逐段精读 guide | Kurs | all paragraphs done, or 标为已读 |
+
+  Level progress = mean completion of the sections that have material at that level. The page also shows how
+  many example sentences the level has and links 🔤 to `../ova/#deck=all&level=<lv>`.
+- **Levels** come from one rule set, `tools/level-lib.js` (SPEC §4): CEFR from `cefr` / `level` / the 「级别:」 line /
+  the article's `CEFR 估计` line; a range (A2–B1) lives at the end of its lower level as 🌉 bridge material;
+  phrases without a level get the level of their hardest head word (shown as ≈); texts without one get a level
+  from their vocabulary.
+- **Text difficulty** (`build-reading-site.js`, new `reading-data.js` fields `lv` / `lvHi` / `lvInf` / `lix` / `n` /
+  `over` / `d` / `up`): LIX + the share of words above the text's level, as a percentile within the level and
+  page; ⬆ 偏难 = more than 1 word in 10 above the top of the text's declared level.
+- **Back links**: rows open Läsning / Tala / Lyssna / Kurs with `&from=<Nivå hash>&frompage=niva`, which shows
+  「← 返回 Nivå」 there and lands back on the same row.
+- **Data**: `niva/niva-data.js` (~0.8 MB raw, ~170 KB gzip) from `tools/build-niva-data.js`, run after
+  `build-reading-site.js`; gitignored, built by the Action. The page loads only that file and `../read-sync.js`.
+- **localStorage**: `niva.state.v1` (grammar 「学过」, last level / section, filters); reads `ova.state.v1`,
+  `flode.state.v1`, `kurs.state.v1` and ReadSync without writing them. Nivå does not count as §4.9 activity.
 
 ## Flöde (feed)
 
@@ -233,6 +269,7 @@ Regenerate the searchable data after adding or editing KB notes:
 node tools/build-kb-site.js
 # full local preview of every page (all gitignored):
 node tools/build-reading-site.js && node tools/build-listening-site.js && node tools/build-dagbok-data.js
+node tools/build-niva-data.js   # 🪜 Nivå — after build-reading-site.js
 ```
 
 Publish the refreshed site to GitHub Pages:

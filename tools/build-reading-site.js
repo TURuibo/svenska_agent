@@ -13,6 +13,7 @@
 //   imported/ → 已导入 (done)    — already processed through /import
 const fs = require('fs');
 const path = require('path');
+const LV = require('./level-lib');
 
 const repoRoot = path.resolve(__dirname, '..');
 const siteRoot = path.join(repoRoot, 'site');
@@ -151,6 +152,14 @@ function loadTopicLabels() {
     return g.themes || {};
   } catch (_e) { return {}; }
 }
+// Kelly / SVALex reference lemmas with their CEFR level — lets the difficulty measure
+// recognise common words the KB has no note for yet.
+function loadReference() {
+  try {
+    const g = JSON.parse(fs.readFileSync(path.join(repoRoot, 'profile', 'vocab-gaps.json'), 'utf8'));
+    return Array.isArray(g.reference) ? g.reference : [];
+  } catch (_e) { return []; }
+}
 function genreFor(name, explicit) {
   const head = String(explicit || '').trim();
   const hit = GENRES.find((g) => head.startsWith(g));
@@ -177,6 +186,10 @@ function metaFromBody(body) {
   const out = {};
   const cefr = body.match(/CEFR[^:：]*[:：]\s*\**\s*([A-C][12])/i);
   if (cefr) out.cefr = cefr[1].toUpperCase();
+  // The whole value ("A2–B1", "A2 (SFI C)") for 🪜 Nivå's level rules — `cefr` above keeps
+  // only the first token, which is what the pages have always displayed.
+  const cefrLine = body.match(/CEFR[^:：\n]*[:：]\s*\**\s*([^\n]*)/i);
+  if (cefrLine) out.cefrRaw = cefrLine[1].replace(/\*/g, '').trim();
   const type = body.match(/\*\*类型[^:：]*[:：]\*\*\s*([^\n*]+)/);
   if (type) out.scenarioType = type[1].trim();
   const date = body.match(/生成日期[^:：]*[:：]\s*\**\s*(\d{4}-\d{2}-\d{2})/);
@@ -495,6 +508,59 @@ const listeningBySlug = buildListeningIndex();
 const vocab = buildVocab();
 const topicLabels = loadTopicLabels();
 
+// ---------------------------------------------------------------------------
+// 🪜 Nivå level + difficulty (site/niva/SPEC.md §4). `cefr` keeps its old meaning
+// (first level token, for display); these fields are new:
+//   lv     home level A1 | A2 | B1 | B2 (a range "A2–B1" lives in its lower level)
+//   lvHi   upper end of a range ('' when not a range) → a 🌉 bridge item
+//   lvInf  1 = the file declares no level; lv was inferred (adjsubst: from its words)
+//   lix    LIX readability of the Swedish prose · n = its word count
+//   over   % of the prose's words above lv (unknown lowercase words count as above)
+//   d      difficulty 1–5 inside its level, per page (Läsning / Tala) · up = 1 ⬆ 偏难
+// ---------------------------------------------------------------------------
+const OVER_UP = 0.10;   // ⬆ 偏难: more than 1 word in 10 above the text's level
+const lexicon = LV.buildLexicon({ vocab, reference: loadReference() });
+const lemmaRank = new Map();
+for (const v of vocab) {
+  const p = LV.parseLevel(v.cefr);
+  if (p) lemmaRank.set(String(v.lemma).toLowerCase(), LV.rankOf(p.lo));
+}
+
+function levelFields(kind, body, items, bodyMeta, frontmatter) {
+  const declared = LV.parseLevel(bodyMeta.cefrRaw) || LV.parseLevel(frontmatter.cefr);
+  let place = LV.placement(declared);
+  let lvInf = 0;
+  let stats = null;
+  if (kind !== 'adjsubst') {
+    stats = LV.textStats(LV.svProse(body), lexicon);
+    if (stats.words < 30) stats = null;
+    if (!place.lv && stats) {
+      const lv = LV.inferTextLevel(stats, OVER_UP);
+      if (lv) { place = { lv, hi: '', br: 0 }; lvInf = 1; }
+    }
+  }
+  if (!place.lv) {
+    // No level and no prose to measure (drill pages, export-only stubs): use the median
+    // level of the words it teaches.
+    const lv = LV.medianLevel((items.words || []).map((w) => lemmaRank.get(String(w.sv || '').toLowerCase()) || 0));
+    if (lv) { place = { lv, hi: '', br: 0 }; lvInf = 1; }
+  }
+  // `over` (vs the home level) orders texts inside their level; ⬆ compares against the
+  // top of the declared range, so an "A1–A2" text is not flagged just for using A2 words.
+  const over = stats && place.lv ? LV.overShare(stats, place.lv) : null;
+  const overTop = stats && place.lv ? LV.overShare(stats, place.br ? place.hi : place.lv) : null;
+  return {
+    lv: place.lv,
+    lvHi: place.br ? place.hi : '',
+    lvInf,
+    lix: stats ? Math.round(stats.lix) : 0,
+    n: stats ? stats.words : 0,
+    over: over == null ? null : Math.round(over * 100),
+    d: 0,
+    up: overTop != null && overTop > OVER_UP ? 1 : 0,
+  };
+}
+
 const articles = [];
 
 for (const src of SOURCES) {
@@ -540,10 +606,20 @@ for (const src of SOURCES) {
       listening: listeningBySlug[slug] || null,
       itemTotal: counts.words + counts.phrases + counts.sentences + counts.grammar,
       items,
+      ...levelFields(kind, body, items, bodyMeta, frontmatter),
       body,
       searchText: `${slug} ${getTitle(frontmatter, afterFm, slug)} ${body}`.toLowerCase(),
     });
   }
+}
+
+// Difficulty 1–5 within each level, separately for the two pages that list texts
+// (Tala = scenarios, Läsning = everything else). Drill pages have no prose to measure.
+{
+  const rows = articles.map((a) => ({ a, lix: a.lix, over: a.over, words: a.n }));
+  LV.assignDifficulty(rows, (r) => (r.a.lv && r.a.kind !== 'adjsubst'
+    ? `${r.a.lv}|${r.a.kind === 'scenario' ? 'tala' : 'reading'}` : ''));
+  for (const r of rows) r.a.d = r.d;
 }
 
 // Newest first, then by title.
@@ -563,3 +639,10 @@ console.log(
     `${articles.filter((a) => a.dialog).length} role-play dialogs, ` +
     `${articles.filter((a) => a.targets.length).length} 🎯 focus texts.`
 );
+{
+  const by = {};
+  for (const a of articles) by[a.lv || '—'] = (by[a.lv || '—'] || 0) + 1;
+  console.log(`🪜 levels: ${['A1', 'A2', 'B1', 'B2', '—'].map((k) => `${k} ${by[k] || 0}`).join(' · ')} ` +
+    `(🌉 ${articles.filter((a) => a.lvHi).length} ranges, ≈ ${articles.filter((a) => a.lvInf).length} inferred, ` +
+    `⬆ ${articles.filter((a) => a.up).length} above their level)`);
+}

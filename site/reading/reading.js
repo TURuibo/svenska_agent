@@ -688,9 +688,10 @@
   // 题材 genre, 主题 topic code (T01–T21, see profile/vocab-gaps.json), 🎯 focus-only.
   let activeGenre = 'all', activeTopic = 'all', focusOnly = false;
 
-  // Deep link from another page: #article=<slug>&from=<anchor>&frompage=<forms|recap>.
+  // Deep link from another page: #article=<slug>&from=<anchor>&frompage=<forms|recap|niva>.
   // `from`/`frompage` let us offer a one-click jump back to where the reader came
-  // from (词形表 Former, or 学习时间线 Dagbok). Defaults to forms for back-compat.
+  // from (词形表 Former, 学习时间线 Dagbok, or 🪜 Nivå's level list — there `from` is
+  // Nivå's own hash, e.g. "lv=A2&sec=read&i=<slug>"). Defaults to forms for back-compat.
   function parseHash() {
     const p = new URLSearchParams((location.hash || '').replace(/^#/, ''));
     return { article: p.get('article'), from: p.get('from'), frompage: p.get('frompage') };
@@ -698,6 +699,7 @@
   const BACK_TARGETS = {
     forms: { href: '../forms/#', label: '← 返回词形表' },
     recap: { href: '../#', label: '← 返回 Dagbok' },
+    niva: { href: '../niva/#', label: '← 返回 Nivå' },
   };
   const _h = parseHash();
   const backAnchor = _h.from || '';

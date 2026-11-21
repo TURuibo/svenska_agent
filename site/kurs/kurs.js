@@ -312,6 +312,7 @@
     return pos.step === 'a' && pos.of ? `拆 ${pos.sent}/${pos.of}` : STEP_ZH[k < 0 ? 0 : k];
   }
   function showHome() {
+    if (backToNiva) setBackToNiva('');
     cur = null; L = null;
     if (SP) SP.cancel();
     while (layers.length) hideLayer(layers.pop());
@@ -396,7 +397,17 @@
       $('kuHomeBtn').onclick = goHome;
     });
   }
+  // Opened from 🪜 Nivå (#l=<slug>&frompage=niva&from=<Nivå's hash>): ← returns to that level list
+  // instead of the Kurs home, until he visits the Kurs home himself.
+  let backToNiva = '';
+  function setBackToNiva(href) {
+    backToNiva = href;
+    const label = href ? '返回 Nivå' : '返回课程列表';
+    $('kuBack').setAttribute('aria-label', label);
+    $('kuBack').title = label;
+  }
   function goHome() {
+    if (backToNiva) { location.href = backToNiva; return; }
     if (history.state && history.state.kuLesson) { history.back(); return; }
     try { history.replaceState(null, '', location.pathname + location.search); } catch (_e) { /* ignore */ }
     showHome();
@@ -1441,6 +1452,8 @@
   // Landing straight on a lesson link: put the home list underneath so Back goes home, not off-site.
   (function boot() {
     const h = parseHash();
+    const q = new URLSearchParams((location.hash || '').replace(/^#/, ''));
+    if (h && q.get('frompage') === 'niva' && q.get('from')) setBackToNiva('../niva/#' + encodeURIComponent(q.get('from')));
     if (h) {
       const target = location.hash;
       try {
