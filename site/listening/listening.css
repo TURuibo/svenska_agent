@@ -66,6 +66,12 @@
 /* ---- Episode list ---- */
 .episodeList { position: sticky; top: calc(16px + var(--nav-h)); }
 .listHeading { font-size: 14px; color: var(--muted); margin: 0 0 10px; text-transform: uppercase; letter-spacing: 0.08em; }
+/* 🪜 级别 filter above the episode list */
+.epLevel { display: flex; align-items: center; gap: 8px; margin: 0 0 10px; color: var(--muted); font: 13px var(--cjk); }
+.epLevel select {
+  min-height: 36px; padding: 0 10px; border: 1px solid var(--line); border-radius: 10px;
+  background: var(--panel); color: var(--ink); font: 14px var(--cjk);
+}
 .episodeList ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
 .epBtn {
   width: 100%;

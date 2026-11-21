@@ -334,8 +334,25 @@
         `<span class="kuResumeP">${last.para < 100 ? '¶' + last.para : '附加段'}${last.title ? ' · ' + esc(last.title) : ''} · ${esc(stepLabel(last))}</span></button>`;
     }
     if (!LESSONS.length) h += '<p class="kuEmpty">还没有带「🔍 逐段精读」的课文。</p>';
+    // 🪜 级别 chips: lesson level from its cefr ("A2–B1" → A2, Nivå's rules), default = Nivå's current level.
+    const NF = window.NivaFocus;
+    const lvOf = (m) => (NF ? NF.home(m.cefr) : '');
+    const levels = NF ? NF.LEVELS.filter((lv) => LESSONS.some((m) => lvOf(m) === lv)) : [];
+    let shown = LESSONS;
+    if (levels.length > 1) {
+      const focus = NF.get();
+      if (kursLevel === null) {
+        let saved = null;
+        try { saved = sessionStorage.getItem('kurs.level.v1'); } catch (_e) { /* ignore */ }
+        kursLevel = saved === 'all' || levels.includes(saved) ? saved : (levels.includes(focus) ? focus : 'all');
+      }
+      h += '<div class="kuLvBar" role="group" aria-label="级别">' + ['all', ...levels].map((lv) =>
+        `<button type="button" class="kuLvChip${lv === kursLevel ? ' on' : ''}" data-lvf="${lv}" aria-pressed="${lv === kursLevel}">` +
+        `${lv === 'all' ? '全部' : esc(NF.label(lv)) + (lv === focus ? ' 📌' : '')}</button>`).join('') + '</div>';
+      if (kursLevel !== 'all') shown = LESSONS.filter((m) => lvOf(m) === kursLevel);
+    }
     h += '<ol class="kuList">';
-    for (const m of LESSONS) {
+    for (const m of shown) {
       const pr = lessonProgress(m);
       const read = isRead(m.slug);
       h += `<li><button type="button" class="kuCard${pr.done >= pr.total ? ' done' : ''}" data-open="${esc(m.slug)}">` +
@@ -351,7 +368,15 @@
     window.scrollTo(0, 0);
   }
   const inlNoLinks = (md) => MD.inlineMarkdown(str(md).replace(/\[\[([^\]|]+)(?:\|([^\]]*))?\]\]/g, (_m, a, b) => b || a));
+  let kursLevel = null;   // 🪜 级别 chip on the home list (null = not chosen yet this visit)
   homeEl.addEventListener('click', (e) => {
+    const lf = e.target.closest('[data-lvf]');
+    if (lf) {
+      kursLevel = lf.getAttribute('data-lvf');
+      try { sessionStorage.setItem('kurs.level.v1', kursLevel); } catch (_e) { /* ignore */ }
+      showHome();
+      return;
+    }
     const b = e.target.closest('[data-open]');
     if (!b) return;
     const slug = b.getAttribute('data-open');

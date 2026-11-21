@@ -205,6 +205,170 @@ a.nvRow:active, .nvRowMain:active { background: color-mix(in srgb, var(--green) 
 }
 .nvToast.show { opacity: 1; transform: translate(-50%, 0); }
 
+/* ---------- P1: buttons, current level, ▶ 下一步, 通关条件 ---------- */
+.nvBtn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-height: 48px; padding: 0 18px;
+  border: 1.5px solid var(--green); border-radius: 14px; background: var(--green); color: var(--paper);
+  font: 700 15.5px/1.25 var(--cjk); text-align: center; text-decoration: none; cursor: pointer; transition: transform .12s, opacity .15s;
+}
+.nvBtn.ghost { background: var(--panel); color: var(--green-dark); border-color: var(--line); }
+.nvBtn.wide { width: 100%; margin: 4px 0 6px; }
+.nvBtn:active { transform: scale(.98); }
+.nvBtn:disabled { opacity: .4; cursor: default; transform: none; }
+.nvMini:disabled { opacity: .45; cursor: default; }
+.nvLink {
+  min-height: 44px; padding: 0 6px; border: 0; background: none; color: var(--muted);
+  font: 14px var(--cjk); text-decoration: underline; cursor: pointer;
+}
+.nvLink:disabled { opacity: .4; cursor: default; text-decoration: none; }
+.nvSay {
+  display: inline-grid; place-items: center; width: 36px; height: 36px; margin-left: 6px; padding: 0; flex: none; vertical-align: middle;
+  border: 1px solid var(--line); border-radius: 50%; background: var(--panel); font-size: 15px; line-height: 1; cursor: pointer;
+}
+.nvSay:active { background: var(--panel-soft); }
+.nvPassed {
+  display: inline-block; margin-left: 6px; padding: 1px 8px; border-radius: 999px; vertical-align: 2px;
+  background: color-mix(in srgb, var(--gold) 16%, var(--panel)); color: var(--gold); font: 700 12px/1.6 var(--cjk); white-space: nowrap;
+}
+.nvPin { font-size: 13px; }
+.nvLevel.focus { border-color: var(--green); box-shadow: 0 0 0 1px var(--green) inset; }
+
+.nvCurrent {
+  display: grid; gap: 10px; margin: 0 0 18px; padding: 14px; border: 1px solid color-mix(in srgb, var(--green) 35%, var(--line));
+  border-radius: 20px; background: color-mix(in srgb, var(--green) 6%, var(--panel));
+}
+.nvCurrent.empty p { margin: 0; font-size: 14px; line-height: 1.65; }
+.nvCurrent.empty .nvBtn { justify-self: start; }
+.nvCurK { color: var(--green-dark); font: 700 13px/1.3 var(--cjk); }
+.nvCurLv { display: flex; align-items: center; gap: 12px; color: var(--ink); text-decoration: none; }
+.nvCurLv .nvCan { color: var(--green-dark); }
+
+.nvNext {
+  display: flex; align-items: center; gap: 12px; width: 100%; padding: 12px 14px; text-align: left; cursor: pointer;
+  border: 0; border-radius: 16px; background: var(--green); color: var(--paper);
+  box-shadow: 0 6px 18px color-mix(in srgb, var(--green) 22%, transparent); font-family: var(--cjk);
+}
+.nvNext:active { transform: scale(.99); }
+.nvNextI { font-size: 22px; flex: none; }
+.nvNextTxt { flex: 1; min-width: 0; display: grid; gap: 2px; }
+.nvNextK { font-size: 12px; font-weight: 700; opacity: .85; }
+.nvNextT { font-size: 16px; font-weight: 700; line-height: 1.35; overflow-wrap: anywhere; }
+.nvNextS { font-size: 12.5px; opacity: .9; line-height: 1.45; }
+.nvNextGo { font-size: 20px; flex: none; }
+.nvSummary .nvNext { margin-top: 12px; }
+
+.nvActions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.nvPassBox { margin-top: 12px; border: 1px solid var(--line); border-radius: 14px; background: var(--panel); }
+.nvPassBox > summary { display: flex; align-items: center; gap: 8px; min-height: 46px; padding: 8px 14px; cursor: pointer; list-style: none; font: 700 14.5px var(--cjk); }
+.nvPassBox > summary::-webkit-details-marker { display: none; }
+.nvPassBox > summary::before { content: "▸"; color: var(--muted); font-size: 13px; transition: transform .15s; }
+.nvPassBox[open] > summary::before { transform: rotate(90deg); }
+.nvPassBox > summary .nvGM { margin-left: auto; }
+.nvPassBox .nvSmall { margin: 0 14px 12px; }
+.nvPassList { list-style: none; margin: 0; padding: 0 14px 6px; display: grid; gap: 8px; }
+.nvPassList li { display: grid; grid-template-columns: 22px auto; column-gap: 6px; align-items: baseline; font-size: 14px; line-height: 1.5; }
+.nvPassMark { grid-row: 1 / 3; color: var(--muted); font-weight: 800; text-align: center; }
+.nvPassList li.ok .nvPassMark { color: var(--green); }
+.nvPassL { font-weight: 700; }
+.nvPassH { color: var(--muted); font-size: 12.5px; }
+.nvLadderBtns { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 0; }
+
+/* ▶ 过一遍 inside a group header */
+.nvRunBtn {
+  flex: none; min-height: 34px; padding: 0 10px; border: 1.5px solid var(--green); border-radius: 10px;
+  background: var(--panel); color: var(--green-dark); font: 700 12.5px/1 var(--cjk); white-space: nowrap; cursor: pointer;
+}
+.nvRunBtn:active { background: var(--panel-soft); }
+
+/* ---------- layer: 过一遍 · 自测 · 定级 ---------- */
+body.nvLayerOpen { overflow: hidden; }
+.nvLayer {
+  position: fixed; inset: 0; z-index: 400; overflow-y: auto; overscroll-behavior: contain;
+  background: var(--paper); color: var(--ink); font-family: var(--cjk);
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+.nvLyTop {
+  position: sticky; top: 0; z-index: 2; display: flex; align-items: center; gap: 6px; max-width: 600px; margin: 0 auto;
+  padding: 6px 10px; background: var(--paper);
+}
+.nvLyTitle { flex: 1; min-width: 0; margin: 0; font: 700 16px/1.3 var(--cjk); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.nvLyCount { color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; padding-right: 6px; }
+.nvLyBar { max-width: 580px; height: 5px; margin: 0 auto; border-radius: 999px; background: var(--line); overflow: hidden; }
+.nvLyBar span { display: block; height: 100%; background: var(--green); transition: width .25s; }
+.nvLyBody { max-width: 560px; margin: 0 auto; padding: 16px 16px 32px; }
+.nvLyNote { margin: 0 0 10px; color: var(--muted); font-size: 13.5px; }
+.nvLyBtns { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 16px; }
+.nvLyBtns .nvBtn { min-height: 56px; font-size: 17px; }
+.nvBtn.no { background: var(--panel); color: var(--red); border-color: color-mix(in srgb, var(--red) 45%, var(--line)); }
+.nvLyFoot { display: flex; justify-content: space-between; align-items: center; margin-top: 8px; }
+.nvLyKeys { margin: 6px 0 0; color: var(--muted); font-size: 12px; text-align: center; }
+@media (hover: none) { .nvLyKeys { display: none; } }
+
+.nvFlip {
+  display: grid; gap: 10px; min-height: 300px; align-content: center; justify-items: center; padding: 24px 18px;
+  border: 1px solid var(--line); border-radius: 22px; background: var(--panel); text-align: center; cursor: pointer;
+  box-shadow: 0 10px 30px rgba(32, 47, 38, 0.08);
+}
+.nvFlip.back { align-content: start; cursor: default; }
+.nvFlip:focus-visible { outline: 2px solid var(--green); outline-offset: 3px; }
+.nvFlipFront { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; }
+.nvFlipSv { font: 700 34px/1.2 var(--nv-sv); overflow-wrap: anywhere; }
+.nvFlipMeta { color: var(--muted); font-size: 14px; }
+.nvFlipMeta b { color: var(--blue); }
+.nvIpa { font-family: var(--nv-sv); }
+.nvFlipHint { margin-top: 18px; color: var(--muted); font-size: 13.5px; }
+.nvFlipBack { display: grid; gap: 8px; width: 100%; margin-top: 8px; padding-top: 14px; border-top: 1px dashed var(--line); }
+.nvFlipZh { font: 700 24px/1.4 var(--cjk); }
+.nvFlipEn { color: var(--muted); font: italic 15px/1.4 var(--nv-sv); }
+.nvFlipForms { color: var(--ink); font: 15.5px/1.5 var(--nv-sv); }
+.nvFlipEx { display: grid; gap: 3px; margin-top: 6px; padding: 10px 12px; border-radius: 12px; background: var(--panel-soft); text-align: left; }
+.nvFlipEx [lang="sv"] { font: 16px/1.5 var(--nv-sv); }
+.nvFlipEx .nvSay { width: 30px; height: 30px; margin: 0; justify-self: start; font-size: 13px; }
+.nvFlipExZh { color: var(--muted); font-size: 13.5px; }
+
+.nvDone { text-align: center; }
+.nvDoneBig { margin: 18px 0 6px; font: 800 22px/1.35 var(--cjk); }
+.nvDoneLine { margin: 0 0 10px; font-size: 16px; }
+.nvDone .nvSmall { text-align: left; }
+.nvDoneBtns { display: grid; gap: 10px; margin-top: 18px; }
+.nvScore { margin: 12px 0 0; font: 800 44px/1.1 var(--cjk); font-variant-numeric: tabular-nums; }
+.nvScore span { display: block; margin-top: 4px; color: var(--muted); font-size: 16px; font-weight: 600; }
+.nvDone .nvPassList { padding: 10px 0 0; text-align: left; }
+.nvWrong { margin-top: 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--panel); text-align: left; }
+.nvWrong > summary { padding: 10px 12px; cursor: pointer; font-weight: 700; font-size: 14px; }
+.nvWrong ul { margin: 0; padding: 0 12px 10px 30px; display: grid; gap: 4px; font-size: 14px; }
+.nvWrong a { color: var(--blue); font-family: var(--nv-sv); font-size: 15.5px; }
+
+.nvQType { margin: 4px 0 14px; color: var(--muted); font-size: 13.5px; text-align: center; }
+.nvQSv, .nvQZh { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; min-height: 76px; text-align: center; }
+.nvQSv { font: 700 32px/1.25 var(--nv-sv); }
+.nvQZh { font: 700 24px/1.45 var(--cjk); }
+.nvQSent { padding: 14px 4px 4px; font: 21px/1.6 var(--nv-sv); text-align: center; }
+.nvQMeta { margin: 4px 0 0; color: var(--muted); font-size: 14px; text-align: center; line-height: 1.5; }
+.nvBlank { display: inline-block; min-width: 2.4em; padding: 0 4px; border-bottom: 2.5px solid var(--gold); color: var(--gold); font-weight: 700; }
+.nvOpts { display: grid; gap: 10px; margin-top: 20px; }
+.nvOpts.two { grid-template-columns: 1fr 1fr; }
+.nvOpt {
+  display: flex; align-items: center; gap: 12px; min-height: 54px; padding: 10px 14px; text-align: left; cursor: pointer;
+  border: 1.5px solid var(--line); border-radius: 14px; background: var(--panel); color: var(--ink); font: 600 16px/1.4 var(--cjk);
+}
+.nvOpt .sv { font: 600 18px/1.3 var(--nv-sv); }
+.nvOpts.two .nvOpt { justify-content: center; font-size: 20px; }
+.nvOpt:active { background: var(--panel-soft); }
+.nvOpt:disabled { cursor: default; }
+.nvOpt.right { border-color: var(--green); background: color-mix(in srgb, var(--green) 14%, var(--panel)); }
+.nvOpt.wrong { border-color: var(--red); background: color-mix(in srgb, var(--red) 12%, var(--panel)); }
+.nvOptK {
+  display: inline-grid; place-items: center; width: 24px; height: 24px; flex: none; border-radius: 50%;
+  background: var(--panel-soft); color: var(--muted); font: 700 12px var(--cjk);
+}
+@media (hover: none) { .nvOptK { display: none; } }
+.nvFb { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-top: 16px; padding: 10px 12px; border-radius: 12px; font-size: 15px; }
+.nvFb.ok { background: color-mix(in srgb, var(--green) 12%, var(--panel)); color: var(--green-dark); }
+.nvFb.bad { background: color-mix(in srgb, var(--red) 10%, var(--panel)); color: var(--red); }
+.nvFb b[lang="sv"] { font-family: var(--nv-sv); font-size: 17px; }
+.nvFb .nvBtn { min-height: 44px; }
+
 /* Desktop: the site nav is a sticky top bar, so the section tabs stick just below it. */
 @media (min-width: 761px) {
   .nvTabs { top: calc(var(--nav-h) + 1px); }   /* nav bar = --nav-h + its 1px bottom border */
@@ -219,5 +383,7 @@ a.nvRow:active, .nvRowMain:active { background: color-mix(in srgb, var(--green) 
 }
 @media (prefers-reduced-motion: reduce) {
   .flash { animation: none; }
-  .nvBar span, .nvToast, .nvGroup > summary::before { transition: none; }
+  .nvBar span, .nvToast, .nvGroup > summary::before, .nvLyBar span, .nvBtn, .nvPassBox > summary::before { transition: none; }
 }
+/* the toast must stay above an open layer */
+body.nvLayerOpen .nvToast { z-index: 500; bottom: calc(24px + env(safe-area-inset-bottom)); }

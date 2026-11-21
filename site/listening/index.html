@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Lyssna — Swedish Listening</title>
     <link rel="stylesheet" href="../styles.css?v=4" />
-    <link rel="stylesheet" href="listening.css?v=3" />
+    <link rel="stylesheet" href="listening.css?v=4" />
     <link rel="stylesheet" href="../kb-popover.css?v=4" />
   </head>
   <body class="listenBody" data-site="listening">
@@ -22,6 +22,10 @@
     <main class="listenMain">
       <aside class="episodeList" aria-label="Episode list">
         <h2 class="listHeading">节目 Avsnitt</h2>
+        <label class="epLevel" title="按级别筛选（默认 = 🪜 Nivå 里的当前级别 📌）">
+          <span>级别</span>
+          <select id="epLevelFilter"><option value="all">全部</option></select>
+        </label>
         <ul id="episodeItems"></ul>
       </aside>
 
@@ -94,7 +98,8 @@
     <script src="../kb-store.js?v=5"></script>
     <script src="../speak.js?v=3"></script>
     <script src="../read-sync.js?v=1"></script>
-    <script src="listening.js?v=7"></script>
+    <script src="../niva-focus.js?v=1"></script>
+    <script src="listening.js?v=8"></script>
     <script src="../nav.js?v=9"></script>
   </body>
 </html>

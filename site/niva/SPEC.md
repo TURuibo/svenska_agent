@@ -1,6 +1,6 @@
 # 🪜 Nivå — 按级别集中学 (spec + plan)
 
-> 2026-11-21 · 状态：**P0 已实现**（阶梯 + 级别页 7 个分区 + 语法「学过」✓ + 各页「← 返回 Nivå」，见 §12）；P1 / P2 待做。本文件是 Nivå 的唯一设计依据；改行为先改这里。
+> 2026-11-21 · 状态：**P0 + P1 已实现**（P0：阶梯 + 级别页 7 个分区 + 语法「学过」✓ + 各页「← 返回 Nivå」；P1：📌 当前级别、翻卡「过一遍」、▶ 下一步、🏁 自测 / 🧭 定级 / 通关、📋 结果 → `/ova`、各页跟随当前级别、Dagbok 卡片，见 §12）；P2 待做。本文件是 Nivå 的唯一设计依据；改行为先改这里。
 > 一句话：**选一个级别（A1 / A2 / B1 / B2+），一页看到这一级的全部材料——按顺序、带进度；这一级学完、自测通过，再进下一级。**
 > 与其它页的分工：Dagbok = 按**日期**索引；Nivå = 按**级别**索引。材料仍住在原来的页面（Läsning / Tala / Lyssna / Kurs / Sök），
 > Nivå 只回答三个问题：**这一级有什么 · 先学哪个 · 我学到哪了**。
@@ -277,21 +277,26 @@ len  = 词数
 
 - 结果存进 `tests`；满足 §5.2 的其它条件 + 自测 ≥ 80% → `passed`。
 - 答错的词 → Öva 箱 0、今天到期（之后在 Öva / Flöde 里复习）。
-- **定级（🧭 从哪开始）**：从 A1 自测开始，≥ 90% 就自动接着测下一级，直到某一级 < 80%——那一级就是起点，前面的级别标「✅（测试通过）」。
+- **定级（🧭 从哪开始）**：从 A1 自测开始，≥ 90% 就把这一级标「✅ 定级通过」（`passed[lv].how = 'place'`），可以接着测下一级或就从下一级开始；
+  某一级 < 90% → 那一级就是起点，自动设为当前级别（📌）。
+- 答题的对错按 Öva 的规则写进 `ova.state.v1`（对 → 升一箱，错 → 箱 0、今天到期），和 Kurs / Flöde 一样。
   总共 4–12 分钟。
 
 ## 6. ▶ 下一步
 
-在当前级别里按下面的顺序找第一个没完成的，一次只给一件事：
+一次只给一件事。实现时发现「按固定顺序」会让 A2 一直推文章（84 篇读完前不会轮到单词），所以改成**哪项通关条件落后最多就推哪项**：
 
 1. 单词「过一遍」中断的那一组 → 继续
-2. 还没学的**核心**语法（一次一个）
-3. 最容易的未读文本（阅读和情景轮流）
-4. 还没听的听力 / 还没学完的课文
-5. 一组新的单词（按主题）
-6. 都完成了 → 🏁 自测
+2. 三项通关条件里**完成比例最低**的那项（比例 = 已完成 / 要求）：
+   - 📗 语法：下一个没学的**核心**语法（核心学完后，不到 70% 时推其它语法）→ 跳到语法分区并定位到那一行
+   - 🔤 单词：第一组还有没看过的词的主题 → 过一遍
+   - 📖 / 🗣️ 文本：最容易的未读一篇（阅读和情景轮流）→ 直接打开
+3. 三项都达标 → 🏁 自测（没测过或最好成绩 < 80%）
+4. 之后：没听的听力 → 没学完的课文 → 还没过一遍的词组
+5. 全部完成 → 🎉 进入下一级
 
-同一个「下一步」卡片也出现在 Dagbok 首页（一行：`🪜 A2 ◐ 38% · ▶ 下一步：…`），从首页一键进入。
+同一个「下一步」也出现在阶梯的「📌 当前级别」卡片和 Dagbok 首页的 🪜 卡片上（Dagbok 读 Nivå 每次打开时留下的
+`niva.state.v1.summary`，不加载 `niva-data.js`）。
 
 ## 7. 当前级别：各页都跟着
 
@@ -299,11 +304,14 @@ len  = 词数
 
 | 页面 | 跟随时 | 阶段 |
 |---|---|---|
-| Läsning / Tala | 新增「级别」下拉（全部 / A1 / A2 / B1 / B2+），默认 = 当前级别；选了级别时按难度排序；支持 `#lv=A2` | P1 |
-| Lyssna | 剧集列表同样筛选 | P1 |
-| Öva | 级别下拉默认 = 当前级别（`#level=A2` 链接 P0 已支持） | P1 |
-| Kurs | 课文列表筛选 | P1 |
-| Dagbok | 一行「🪜 A2 ◐ 38% · ▶ 下一步」 | P1 |
+| Läsning / Tala | 新增「级别」下拉（只列本页有的级别，📌 = 当前级别），默认 = 当前级别；选了级别就由易到难排（🌉 过渡在最后），列表顶上一行提示；从别处直接打开另一级别的文章时自动改回「全部」 | ✅ P1 |
+| Lyssna | 剧集列表上方同样的「级别」下拉；换级别只重画列表，不打断正在播的那集 | ✅ P1 |
+| Öva | 级别下拉默认 = 当前级别（`#level=A2` 优先） | ✅ P1 |
+| Kurs | 课文列表上方的级别 chip（全部 / A2 / B1…），默认 = 当前级别 | ✅ P1 |
+| Dagbok | 顶部一张卡：「🪜 当前级别 · 进度 38%」+「▶ 下一步」链接 | ✅ P1 |
+
+各页手动换的级别只记在这个标签页（sessionStorage）：下次打开又从当前级别开始；没设当前级别时各页和以前完全一样。
+共享小模块 `site/niva-focus.js`：`get()` 当前级别 · `home(cefr)` 归级（与 `tools/level-lib.js` 同一套规则）· `label()` · `summary()`。
 | Flöde | 🆕 新词车道只出当前级别的词（用完再向上一级借）；新闻 / 对话 / 预告只出 ≤ 当前级别 | P2 |
 | Sök | 级别筛选 pill | P2 |
 
@@ -329,7 +337,7 @@ level: A1 | test 18/20 | passed | 2026-11-21             ← 自测 / 通关
 
 | key | 内容 |
 |---|---|
-| `niva.state.v1` | P0：`{ v:1, grammar:{ <slug>:'YYYY-MM-DD' }, only:{ <分区>:true }, lastSec:{ A2:'read' }, last:{ lv, sec } }`。P1 再加 `focus:'A2' \| null, words:{ <slug>:[1 \| 0, 'YYYY-MM-DD'] }, phrases:{ 同上 }, tests:{ A1:[{ at, right, total }] }, passed:{ A1:'YYYY-MM-DD' }, lastCopy`。写前先重读、不认识的键原样保留；只有他自己的操作才写（别的标签页 / ReadSync 触发的重绘不写，两个标签页不会互相触发） |
+| `niva.state.v1` | `{ v:1, focus:'A2' \| '', grammar:{ <slug>:'YYYY-MM-DD' }, words:{ <slug>:[1 \| 0, 'YYYY-MM-DD'] }, phrases:{ 同上 }, tests:{ A1:[{ at, right, total }]（最近 10 次） }, passed:{ A1:{ at, how:'full' \| 'place' } }, run:{ lv, sec, g }（中断的过一遍）, last:{ lv, sec }, lastSec:{ A2:'read' }, only:{ <分区>:true }, lastCopy:'YYYY-MM-DD', summary:{ lv, focus, pct, passed, next:{ t, href }, at }（给 Dagbok） }`。写前先重读、不认识的键原样保留；只有他自己的操作才写（别的标签页 / ReadSync 触发的重绘不写，两个标签页不会互相触发） |
 | `ova.state.v1` | 读：箱位算「会」；写：🤔 不会 / 自测答错 → 箱 0、今天到期（规则同 Öva，写前先重读，避免覆盖别的标签页） |
 | `flode.state.v1` | 读 `mute`；点 😎 会 时也写进 `mute`，Flöde 不再出这个词的词卡 |
 | `kurs.state.v1` | 只读：每课学完了几段 |
@@ -343,7 +351,7 @@ level: A1 | test 18/20 | passed | 2026-11-21             ← 自测 / 通关
 语法、词组、单词、句子直接读 `knowledge_base/`，听力直接读 `listening/*.json`，课文 = 正文有 `## 🔍 逐段精读` 的文章）。
 **gitignore，由 Action 构建**；routine 不碰、不提交。
 预算：**≤ 1 MB raw**（2026-11-21 实测 793 KB，gzip 后约 170 KB）；超了只警告、不让构建失败。
-P0 的单词只带列表要用的字段；P1 翻卡要的 `en` / `ipa` / 变形放进按级别懒加载的 `site/niva/words-<级别>.js`，不进这个文件。
+单词只带列表要用的字段；翻卡和自测要的 `en` / `ipa` / 变形 / 例句 / 填空句放进按级别懒加载的 `site/niva/data/<级别>.js`（见下），不进这个文件。
 缺失的可选字段一律省略或给 `''`，页面端必须容错。
 
 ```js
@@ -402,6 +410,24 @@ window.NIVA_DATA = {
 };
 ```
 
+**每级一个详情文件 `site/niva/data/<A1|A2|B1|B2>.js`**（同一个脚本生成，gitignore，Action 发布；只在打开那一级的「过一遍」或「自测」时加载；
+2026-11-21 实测 A1 166 KB · A2 375 KB · B1 358 KB · B2 55 KB）：
+
+```js
+window.NIVA_DETAIL = window.NIVA_DETAIL || {};
+window.NIVA_DETAIL['A2'] = {
+  v: 1,
+  words: { 'smörgås': {             // 每个本级单词一条；字段缺就省略
+    en: 'sandwich', ipa: '/ˈsmœrːjɔːs/',
+    f: ['smörgåsen', 'smörgåsar', 'smörgåsarna'],            // 变形（Forms 表），≤ 4 个
+    ex: ['Jag äter en smörgås.', '我吃一个三明治。']         // 例句：链接的句子笔记 + 笔记正文的 🇸🇪/🇨🇳 例句，优先含这个词本身的，再挑最短
+  } },
+  phrases: { 'boka-en-tid': { en: 'book an appointment', ex: ['…', '…'] } },
+  cloze: [{ w: 'smörgås', sv: 'Jag äter en smörgås.', at: 12, len: 7, zh: '我吃一个三明治。' }]
+                                    // 自测填空：例句里真的含这个词（原形或变形）的实词，常用词在前，每级 ≤ 400 条
+};
+```
+
 `reading-data.js` 的每篇文章同时新增 `lv`、`lvHi`（区间上限，非区间给 ''）、`lvInf`、`lix`、`n`、`over`（null = 没测）、`d`、`up`
 （原有 `cefr` 字段不变，保证旧页面不受影响）。
 
@@ -410,7 +436,8 @@ window.NIVA_DATA = {
 - `site/niva/`：`index.html` · `niva.js` · `niva.css`（`?v=N`），`<body data-site="niva">`；加载 `../styles.css`、`../nav.js`、`../read-sync.js`、`niva-data.js`
   （P1 翻卡要朗读时再加 `../speak.js`）。
 - Hash 路由：`#` 阶梯 · `#lv=A2` 级别页 · `#lv=A2&sec=read` 某分区 · `#lv=A2&sec=read&i=<id>` 定位到某一行（滚过去、闪一下，然后从网址里去掉 `i`）。
-  P1：`#lv=A2&sec=words&g=topic-mat-dryck` 过一遍 · `#lv=A2&test=1` 自测 · `#place=1` 定级。
+  P1 的练习是盖在页面上的一层（✕ / 浏览器后退关掉）：`#lv=A2&run=words&g=topic-mat-dryck` 过一遍一组（`g=*` = 本级全部没看过的；`run=phrases` 同理）·
+  `#lv=A2&test=1` 自测 · `#place=A1` 定级（从 A1 起，「继续测 A2」把网址换成 `#place=A2`）。直接打开这些网址时，底下先垫好级别页（或阶梯）。
   分区 tab 用 `replaceState`（不产生历史记录）；阶梯 → 级别用 `pushState`，所以「←」和浏览器后退都回阶梯；直接打开某一级的链接时，先在底下垫一条阶梯记录（同 Kurs 的做法）。
 - 返回入口：每一行打开 Läsning / Tala / Lyssna / Kurs 时带 `&from=<Nivå 的 hash，整段编码>&frompage=niva`。
   Läsning / Tala 的 `BACK_TARGETS` 加 `niva → ../niva/#`，Lyssna 的 `epBackLink` 同理，标签「← 返回 Nivå」；
@@ -425,10 +452,12 @@ window.NIVA_DATA = {
 | 阶段 | 做什么 | 做完能干什么 |
 |---|---|---|
 | **P0 · 能集中看** ✅ 2026-11-21 | `tools/level-lib.js`（§4.1–4.3）· `build-reading-site.js` 保留区间并加难度字段 · `tools/build-niva-data.js` · `site/niva/`（阶梯 + 级别页 7 个分区 + 句子数量，按 §4 排序；已读 / 箱位 / 课文进度只读显示；**语法「学过」✓**）· 各页「← 返回 Nivå」· 第 9 个 tab · **Öva `#level=`** · Action / `.gitignore` / README / CLAUDE.md §4.12 | 选 A1 → 一页看到 A1 的全部材料，由易到难、带已读状态，点开即学 |
-| **P1 · 过一遍 + 通关** | 单词 / 词组翻卡自评（数据：`words-<级别>.js` 懒加载）· ▶ 下一步 · 🏁 自测 + 🧭 定级 · 通关 · 复制结果 → `/ova`（`ova-sync.js` 支持 `known` / `level:` 行）· 当前级别 + Läsning / Tala / Lyssna / Öva / Kurs 跟随 · Dagbok 一行 | 真正做到「学完 A1 再学 A2」；掌握情况写回 KB 和 `profile/level.md` |
+| **P1 · 过一遍 + 通关** ✅ 2026-11-21 | 单词 / 词组翻卡自评（数据：`data/<级别>.js` 懒加载；😎 会 → 本机算会 + Flöde 静音，🤔 不会 → Öva 今天到期；可撤销、可中断续过）· ▶ 下一步（§6）· 🏁 自测 + 🧭 定级 · 通关（§5.2，自动打 ✅）· 📋 复制结果 → `/ova`（`ova-sync.js` 支持 `known` / `level:` 行；sv-assess 把它们当证据）· 📌 当前级别 + Läsning / Tala / Lyssna / Öva / Kurs 跟随（`site/niva-focus.js`）· Dagbok 卡片 | 真正做到「学完 A1 再学 A2」；掌握情况写回 KB 和 `profile/level.md` |
 | **P2 · 全站 + 补料** | Flöde 按当前级别出卡（句子也在这里按级别刷）· Sök 级别 pill · 缺材料卡片 + 生成命令 · 语法课纲 `profile/niva-syllabus.md` · 词组 `cefr` 回填 · 个性化可读度（按你已会的词算每篇的覆盖率，推荐 95–98% 覆盖的「i+1」文本）·（可选）routine 按当前级别生成 | 全站围着当前级别转；A1 / B2 缺的材料能补上 |
 
 ## 13. 待定项
+
+> 2026-11-21：1–4 按推荐定下并实现（第 9 个 tab · 区间放低一级末尾 · 自评「会」经 `/ova` 写 `known: true` · 不上锁）；5 留到 P2。
 
 | # | 问题 | 推荐 | 备选 |
 |---|---|---|---|

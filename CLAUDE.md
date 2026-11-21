@@ -75,7 +75,7 @@ For a **single word/phrase/sentence**, don't spawn a subagent — just store it 
 - `/dagens-artikel` — 生成今日一篇 lättläst 阅读文章，按 day-of-year **轮换 8 种体裁**（传记/国情/历史/传统/自然/地方/发明/科普）写入 `inbox/`（人读正文 + 导入块），供 `/import` 入库。每天由 **remote 定时 session** 自动跑（见 §4.6）。
 - `/dagens-biografi` — `/dagens-artikel` 体裁 0 的**单独入口**：强制生成一篇 SFI 风格人物传记（仿 Astrid Lindgren / Zlatan）。手动想指定写某人时用它。
 - `/lattlast` — 抓一篇瑞典政府机构的**易读页面**（informationsverige / Riksdagen / Valmyndigheten / Socialstyrelsen / Skolverket / 1177），原文照抄 + 翻译 + 导入块写进 `inbox/myndighet-*`，专补社会·工作·经济类缺口词（§4.8）。
-- `/ova` — 把 🔁 **Öva 复习页**的成绩（粘贴的 `ova-results v1` 块）写回词条的复习字段，熟练的词标 `known: true`（§4.8）。
+- `/ova` — 把 🔁 **Öva 复习页**或 🪜 **Nivå** 的成绩（粘贴的 `ova-results v1` 块）写回词条：复习字段、熟练 / 自评「会」的词标 `known: true`、通关 / 定级记进 `profile/level.md` 评估历史（§4.8、§4.12）。
 
 ---
 
@@ -208,7 +208,7 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 1. /dagens-scenario   （批量：按 day-of-year 生成当天 5 篇，一周轮完 35 体裁，不需联网）
 2. 对刚生成的**每一个** inbox/scenario-<date>-*.md（今天 5 篇）逐篇跑 /import（spawn librarian/importer 用前台，每篇等完整 manifest 再做下一篇）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`、`niva/niva-data.js`）已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`、`niva/niva-data.js`、`niva/data/`）已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：同时在本地任务和云端跑会同一天生成两篇。改用云端后，请在桌面把本地那条 scenario 任务**停用**。
@@ -326,7 +326,7 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 1. /dagens-nyheter
 2. 对刚生成的 inbox/news-*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`、`niva/niva-data.js`）已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`、`niva/niva-data.js`、`niva/data/`）已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：news 同时在本地 `svensk-news-daily` 和云端跑会重复抓取/产生两份当日新闻。
@@ -429,7 +429,7 @@ A1–A2 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 
 **⭐ 2026-06-23 架构改：生成的 viewer 数据文件已移出 git。**
 `site/kb-index.js`、`site/kb-bodies.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js`
-（以及 2026-10-02 起 Dagbok 首页用的 `site/dagbok-data.js`，由 `tools/build-dagbok-data.js` 从前三者汇总；2026-11-14 起还有 Flöde 用的 `site/flode/flode-data.js`，见 §4.10；2026-11-15 起还有 Kurs 用的 `site/kurs/kurs-index.js` + `site/kurs/data/`，见 §4.11；2026-11-21 起还有 Nivå 用的 `site/niva/niva-data.js`，见 §4.12）现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
+（以及 2026-10-02 起 Dagbok 首页用的 `site/dagbok-data.js`，由 `tools/build-dagbok-data.js` 从前三者汇总；2026-11-14 起还有 Flöde 用的 `site/flode/flode-data.js`，见 §4.10；2026-11-15 起还有 Kurs 用的 `site/kurs/kurs-index.js` + `site/kurs/data/`，见 §4.11；2026-11-21 起还有 Nivå 用的 `site/niva/niva-data.js` + `site/niva/data/`，见 §4.12）现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
 main**。所以以前「Action 提交 viewer 文件 → 和 routine 抢 → 每次 merge 必冲突」的根源**没了**：routine **绝不碰
 这几个文件**，PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数据文件、⑥force-push 对齐分支）。
 
@@ -570,11 +570,15 @@ routine 第 0 步：node tools/activity-gate.js   （git fetch origin read-log �
 
 | 部件 | 是什么 |
 |------|--------|
-| `site/niva/` | 页面（`index.html` / `niva.js` / `niva.css`）：阶梯（A1 → A2 → B1 → B2+，每级一张卡 + 进度环）→ 级别页（7 个分区 tab） |
+| `site/niva/` | 页面（`index.html` / `niva.js` / `niva.css`）：阶梯（📌 当前级别 + ▶ 下一步；A1 → A2 → B1 → B2+，每级一张卡 + 进度环 + ✅）→ 级别页（▶ 下一步 · 🏁 通关条件 · 7 个分区 tab）。练习盖在页面上：**▶ 过一遍**（翻卡自评 😎 会 / 🤔 不会）、**🏁 自测**（20 题）、**🧭 定级**（从 A1 起逐级测） |
+| 通关 | 单词「会」≥ 80% · 核心语法全部 + 全部语法 ≥ 70% · 本级文本读一半 · 自测 ≥ 80% → ✅，推荐进下一级；**不上锁** |
+| 📋 复制结果给 CC → `/ova` | `ova-results v1` 块 = Öva 的行 + `known` 行（过一遍点了「会」）+ `level:` 行（自测 / 定级 / 通关）；`tools/ova-sync.js` 写 `known: true`、`profile/level.md` 的已掌握和评估历史（总体水平仍由 `/assess` 判断） |
+| `site/niva-focus.js` | 共享小模块：其它页面读当前级别。Läsning / Tala（级别下拉，选了就由易到难）、Lyssna（级别下拉）、Kurs（级别 chip）、Öva（级别默认值）都**默认跟随当前级别**；Dagbok 顶部一张 🪜 卡（级别 · 进度 · ▶ 下一步）。没设当前级别时各页照旧 |
 | `tools/level-lib.js` | **唯一一套归级规则**：解析 `cefr` / `level` / 「级别:」/ `CEFR 估计` 的各种写法（`SFI B / CEFR A2`、`A2–B1`、`SFI C`…）；区间放低一级末尾当「🌉 过渡」；文本难度（LIX + 超出本级的词比例） |
 | `tools/build-reading-site.js` | 给 `reading-data.js` 每篇文章加 `lv` / `lvHi` / `lvInf` / `lix` / `n` / `over` / `d`（本级内难度 1–5）/ `up`（⬆ 偏难）；原有 `cefr` 字段不变 |
 | `tools/build-niva-data.js` | 直接读 `knowledge_base/` + `listening/*.json`，文本级别取自 `reading-data.js`（所以要在 `build-reading-site.js` **之后**跑），生成 `site/niva/niva-data.js`。**gitignore，由 Action 构建**，routine 不碰、不提交 |
-| `niva.state.v1`（localStorage） | 语法「学过」✓、上次看到的级别 / 分区、筛选；只读 `ova.state.v1` / `flode.state.v1` / `kurs.state.v1` / `ReadSync` 算进度 |
+| `niva.state.v1`（localStorage） | 当前级别、语法「学过」✓、会 / 不会、自测成绩、通关、中断的过一遍、上次位置、给 Dagbok 的摘要。「不会」和自测对错按 Öva 规则写进 `ova.state.v1`，「会」写 `flode.state.v1` 的 `mute`；读 `kurs.state.v1` / `ReadSync` 算进度 |
+| `site/niva/data/<级别>.js` | 每级的详情（英文、IPA、变形、例句、自测填空句），只在打开过一遍 / 自测时加载；和 `niva-data.js` 一样 **gitignore、由 Action 构建** |
 | 返回链接 | 从 Nivå 打开的 Läsning / Tala / Lyssna / Kurs 显示「← 返回 Nivå」（`&from=<Nivå 的 hash>&frompage=niva`），回来落在原来那一行；Öva 支持 `#deck=all&level=A2` |
 
 > 规则 (a)：**新素材写对 `**CEFR 估计:**` 行，Nivå 就自动归级**——区间写成 `A2–B1`（别只写一个级别糊过去），不确定就不写，构建时会按用词推断（显示 ≈）。
