@@ -55,12 +55,17 @@
       ul.appendChild(li);
       return;
     }
-    // Deep link from 📖 Läsning / 📅 Dagbok: #ep=<episode id> opens that episode
-    // directly; Dagbok also adds &from=day-<date>&frompage=recap for a way back.
+    // Deep link from 📖 Läsning / 📅 Dagbok / 🪜 Nivå: #ep=<episode id> opens that episode
+    // directly; Dagbok adds &from=day-<date>&frompage=recap and Nivå adds
+    // &from=<its own hash>&frompage=niva for a way back.
     var hash = new URLSearchParams((location.hash || '').replace(/^#/, ''));
     var wantedId = hash.get('ep') || '';
     if (hash.get('frompage') === 'recap' && hash.get('from')) {
       epBackLink.href = '../#' + encodeURIComponent(hash.get('from'));
+      epBackLink.hidden = false;
+    } else if (hash.get('frompage') === 'niva' && hash.get('from')) {
+      epBackLink.href = '../niva/#' + encodeURIComponent(hash.get('from'));
+      epBackLink.textContent = '← 返回 Nivå';
       epBackLink.hidden = false;
     }
     var wantedIdx = wantedId ? DATA.episodes.findIndex(function (e) { return e.id === wantedId; }) : -1;
