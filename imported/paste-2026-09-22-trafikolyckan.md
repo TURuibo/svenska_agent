@@ -41,6 +41,67 @@ Henrik 拨打 112，救护车很快就到了。 救护人员接手，确保 Eva 
 - **语法看点**：**叙事用现在时**（historiskt presens：`Det är en solig morgon … Henrik kommer ut`）、**pluskvamperfekt + 虚拟反思**（`Hade de kunnat agera …?` / `Kunde han ha pratat …?` / `hade varit att kontakta`）、s-passiv（`kallas`, `hälsas`, `döms`, `återkallas`）。
 - **听力**：本篇配套 QR 音频 5 分 33 秒，见 🎧 Lyssna「Trafikolyckan」。
 - **逐段精读**：下方「🔍 逐段精读」把全文分成 6 段，每段逐句拆解结构/语法 + 词组表 + 生词表（点卡片展开）。
+- **课堂**：SFI 课上用 s. 119–125 做 läsförståelse——下面「❓ Läsförståelse」是按课堂题型准备的练习（2026-11-22 加）。
+
+## ❓ Läsförståelse — frågor till texten (阅读理解练习)
+
+💡 先不看翻译，读完全文（或在 🎧 Lyssna 听一遍）再做；答案在最后的「✅ Facit」。做完把答不出的句子回到「🔍 逐段精读」里找。
+
+### A. Rätt eller fel? (对还是错？)
+
+1. Olyckan händer en morgon i början av juni. （事故发生在六月初的一个早晨。）
+2. Henrik ska åka till sitt barnbarns skolavslutning. （Henrik 要去孙辈的结业典礼。）
+3. Eva kör in i Henriks bil. （Eva 撞上了 Henrik 的车。）
+4. Eva är svårt skadad efter olyckan. （事故后 Eva 伤得很重。）
+5. En kvinna från polisen ringer Henrik när han har kommit fram till skolan. （Henrik 到学校后，一位警方的女士给他打电话。）
+6. Nämndemännen har en juridisk utbildning. （陪审员受过法律教育。）
+7. Eva döms till fängelse i sex månader. （Eva 被判入狱六个月。）
+8. Eva får tillbaka sitt körkort efter tolv månader. （十二个月后 Eva 拿回驾照。）
+9. Grannarna hade misstänkt att Eva hade problem med alkohol. （邻居们早就怀疑 Eva 有酒精问题。）
+10. Eva dricker fortfarande alkohol. （Eva 还在喝酒。）
+
+### B. Svara med egna ord (用自己的话回答)
+
+1. Varför kör Henrik bil den här morgonen? （这天早上 Henrik 为什么开车？）
+2. Hur märker Henrik att Eva har druckit? Ge tre exempel. （Henrik 怎么看出 Eva 喝了酒？举三个例子。）
+3. Vad måste Henrik göra innan han får åka vidare? （Henrik 继续上路前必须做什么？）
+4. Varför blir Henrik nervös när han får brevet i oktober? （十月收到信时 Henrik 为什么紧张？）
+5. Vilka personer sitter i rättssalen? （法庭里坐着哪些人？）
+6. Vad betyder det att Eva får en villkorlig dom? （Eva 被判缓刑是什么意思？）
+7. Vad hade Henrik och grannarna kunnat göra för att hjälpa Eva? （Henrik 和邻居们本可以怎样帮助 Eva？）
+
+### C. Vad betyder orden? (把词和解释连起来)
+
+| Ord | Förklaring |
+|---|---|
+| 1. vittna | a. pengar som man måste betala som straff |
+| 2. böter | b. att köra bil när man har druckit alkohol |
+| 3. rattfylleri | c. att berätta i en rättegång vad man har sett |
+| 4. åklagare | d. man berättar för socialtjänsten att man är orolig för någon |
+| 5. orosanmälan | e. en person som säger i rätten att någon har begått ett brott |
+
+### D. Diskutera (周二讨论课可以用)
+
+1. Vad hade du gjort om du var Henrik? （如果你是 Henrik，你会怎么做？）
+2. Ska grannar lägga sig i när de tror att någon har problem med alkohol? （邻居觉得某人有酒精问题时，应该介入吗？）
+3. Är Evas straff rättvist? Varför / varför inte? （Eva 的处罚公平吗？为什么？）
+
+👉 讨论示范：🗣️ Tala 里的情景「Diskussion i SFI-klassen」——用 Jag tycker att … / Jag håller med … / Å ena sidan … å andra sidan … 回答这三个问题（可以角色扮演）。
+
+### ✅ Facit (答案)
+
+**A.** 1 rätt · 2 rätt · 3 fel – hon kör in i en **husvägg**; Henrik hinner väja · 4 fel – hon verkar **oskadd** · 5 rätt · 6 fel – de har **ingen** juridisk utbildning, de är vanliga människor utsedda av politiska partier · 7 fel – hon får **böter och en villkorlig dom** på sex månader · 8 rätt · 9 rätt · 10 fel – hon har **slutat** att dricka.
+
+**B.**
+1. Han ska åka till sitt barnbarns skolavslutning.
+2. Hon luktar alkohol, hon sluddrar och hon har svårt att fokusera blicken.
+3. Han måste lämna sina kontaktuppgifter (namn och nummer) – ifall polisen behöver kontakta honom.
+4. Han är orolig för mötet med Eva: hur kommer det att kännas att träffa sin granne i en rättssal?
+5. En domare, tre nämndemän, en åklagare och Eva – och Henrik som vittne.
+6. Hon behöver inte sitta i fängelse nu, men om hon begår ett nytt brott inom två år kan straffet bli fängelse.
+7. De hade kunnat prata med hennes vänner om sina misstankar, eller göra en orosanmälan till socialtjänsten.
+
+**C.** 1 c · 2 a · 3 b · 4 e · 5 d
 
 ## 🔍 逐段精读 (Stycke för stycke)
 
