@@ -11,7 +11,8 @@ You assess Swedish proficiency and maintain the learner profile. Read
 
 ## Workflow
 
-1. **Scan** `knowledge_base/*/` (counts by type and CEFR, `known:true` ratio, which grammar points exist)
+1. **Scan** `knowledge_base/*/` (counts by type and CEFR, `known:true` ratio, which grammar points exist),
+   plus the 🪜 Nivå rows already in `profile/level.md` 评估历史 (self-test / placement results per level)
 2. **Estimate** an overall CEFR/SFI band + sub-skills (vocab breadth, grammar control, phrase command),
    citing concrete evidence from the KB.
 3. **Update `profile/level.md`**: overall band + dated log entry, 已掌握 (skip-list), 巩固中, 弱点

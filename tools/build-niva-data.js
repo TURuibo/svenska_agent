@@ -321,6 +321,142 @@ for (const f of fs.existsSync(listenDir) ? fs.readdirSync(listenDir).sort() : []
 }
 listen.sort((a, b) => cmp(LV.rankOf(a.lv), LV.rankOf(b.lv)) || a.br - b.br || (b.cues ? 1 : 0) - (a.cues ? 1 : 0) || cmp(a.date, b.date) || cmp(a.id, b.id));
 
+// ---------------------------------------------------------------- per-level details (P1: flip cards + self-test)
+// site/niva/data/<LV>.js, loaded only when he opens 过一遍 or 🏁 自测 at that level (SPEC §10).
+function extractIpa(body) {
+  const m = /^(?:\*\*)?发音提示(?:\*\*)?[：:](.*)$/m.exec(body);
+  if (!m) return '';
+  const slash = /\/([^\/\n]{2,60})\//.exec(m[1]);
+  if (slash && !CJK.test(slash[1])) return `/${slash[1].trim()}/`;
+  const br = /\[([^\]\n]{2,60})\]/.exec(m[1]);
+  if (br && !CJK.test(br[1]) && /[ˈˌːɛɑɔʉɧŋɕʂɪʏøæɡ:]/.test(br[1])) return `/${br[1].replace(/^["']/, 'ˈ').trim()}/`;
+  return '';
+}
+// Inflected forms from the "## 语法变形 (Forms)" table (same parsing as build-kb-site.js).
+function extractForms(body) {
+  const lines = body.split(/\r?\n/);
+  const start = lines.findIndex((l) => /语法变形/.test(l) || /^#{2,3}\s+.*\bForms\b/i.test(l));
+  if (start < 0) return [];
+  const rows = [];
+  for (let i = start + 1; i < lines.length; i += 1) {
+    const ln = lines[i];
+    if (/^\s*\|/.test(ln)) { rows.push(ln.trim().replace(/^\||\|$/g, '').split('|').map((c) => c.trim())); continue; }
+    if (rows.length || /^#{1,6}\s/.test(ln)) break;
+  }
+  const out = [];
+  for (const r of rows.filter((x) => !x.every((c) => /^:?-{2,}:?$/.test(c) || c === '')).slice(1)) {
+    for (const cell of r.slice(1)) {
+      for (const piece of cell.split(/[\/,]/)) {
+        const f = piece.replace(/\[\[([^\]|]+)\|?[^\]]*\]\]/g, '$1').replace(/\([^)]*\)/g, ' ').replace(/[`*_]/g, '')
+          .replace(/\s+/g, ' ').trim().replace(/^att\s+/i, '').replace(/^(en|ett)\s+/i, '').replace(/[!?]+$/, '');
+        if (f && /[A-Za-zÅÄÖåäö]/.test(f) && !CJK.test(f) && !out.includes(f)) out.push(f);
+      }
+    }
+  }
+  return out;
+}
+// "🇸🇪 SV — 🇨🇳 ZH" example pairs in a note body (inline, or zh on the next line) — as in build-flode-data.js.
+function examplePairs(body) {
+  const lines = String(body).split('\n');
+  const pairs = [];
+  for (let i = 0; i < lines.length; i += 1) {
+    const line = lines[i];
+    if (!line.includes('🇸🇪') || /Förklaring/.test(line) || /^\s*\|/.test(line) || /❌/.test(line)) continue;
+    const rest = line.slice(line.lastIndexOf('🇸🇪') + '🇸🇪'.length);
+    let sv;
+    let zh;
+    const k = rest.indexOf('🇨🇳');
+    if (k >= 0) { sv = rest.slice(0, k); zh = rest.slice(k + '🇨🇳'.length); } else {
+      const nx = (lines[i + 1] || '').trim();
+      if (!nx.startsWith('🇨🇳')) continue;
+      sv = rest;
+      zh = nx.slice('🇨🇳'.length);
+    }
+    sv = clean(sv.replace(/[\s—–-]+$/, ''));
+    zh = clean(zh);
+    if (!sv || !zh || CJK.test(sv) || !CJK.test(zh) || !/[A-Za-zÅÄÖåäö]{2}/.test(sv)) continue;
+    pairs.push([sv, zh]);
+  }
+  return pairs;
+}
+const sentPair = new Map();          // sentence slug → [sv, zh]
+const sentencesOfNote = new Map();   // word / phrase slug → sentence slugs that list it
+for (const n of sentences) {
+  const sv = clean(n.fm.sentence || '');
+  const zh = clean(n.fm.zh || '');
+  if (sv && zh && CJK.test(zh) && !CJK.test(sv)) sentPair.set(n.slug, [sv, zh]);
+  for (const k of [...listOf(n.fm.words), ...listOf(n.fm.phrases)]) {
+    if (!sentencesOfNote.has(k)) sentencesOfNote.set(k, []);
+    sentencesOfNote.get(k).push(n.slug);
+  }
+}
+const fitsCard = ([sv, zh]) => sv.length >= 12 && sv.length <= 110 && zh.length <= 70;
+const escRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+// Where one of `keys` (lemma + forms) stands as a whole word in `sv` → { at, len } | null.
+function findForm(sv, keys) {
+  for (const k of keys.slice().sort((a, b) => b.length - a.length)) {
+    if (!k || /\s/.test(k)) continue;
+    const m = new RegExp(`(^|[^A-Za-zÀ-ÿ])(${escRe(k)})(?![A-Za-zÀ-ÿ])`, 'i').exec(sv);
+    if (m) return { at: m.index + m[1].length, len: m[2].length };
+  }
+  return null;
+}
+// Best example: one that contains the word itself (usable for the cloze), shortest first.
+function pickExample(note, keys) {
+  const pairs = [];
+  for (const s of [...listOf(note.fm.sentences), ...(sentencesOfNote.get(note.slug) || [])]) {
+    const p = sentPair.get(s);
+    if (p) pairs.push(p);
+  }
+  pairs.push(...examplePairs(note.body));
+  const ok = pairs.filter(fitsCard);
+  if (!ok.length) return { ex: null, hit: null };
+  const withHit = ok.map((p) => ({ p, hit: keys.length ? findForm(p[0], keys) : null }));
+  withHit.sort((a, b) => (a.hit ? 0 : 1) - (b.hit ? 0 : 1) || a.p[0].length - b.p[0].length || cmp(a.p[0], b.p[0]));
+  return { ex: withHit[0].p, hit: withHit[0].hit };
+}
+
+const detail = {};
+for (const lv of LV.LEVELS) detail[lv] = { words: {}, phrases: {}, cloze: [] };
+const CLOZE_POS = new Set(['substantiv', 'verb', 'adjektiv', 'adverb']);
+const CLOZE_MAX = 400;
+const clozeCands = {};
+for (const lv of LV.LEVELS) clozeCands[lv] = [];
+const rowBySlug = new Map(wordRows.map((w) => [w.s, w]));
+for (const n of words) {
+  const w = rowBySlug.get(n.slug);
+  if (!w || !detail[w.lv]) continue;
+  const forms = extractForms(n.body).filter((f) => f.toLowerCase() !== w.l.toLowerCase());
+  const keys = [w.l.replace(/\s+sig$/i, ''), ...forms];
+  const { ex, hit } = pickExample(n, keys);
+  const d = {};
+  const en = cut(clean(n.fm.en), 48);
+  const ipa = extractIpa(n.body);
+  if (en) d.en = en;
+  if (ipa) d.ipa = ipa;
+  if (forms.length) d.f = forms.slice(0, 4);
+  if (ex) d.ex = ex;
+  detail[w.lv].words[w.s] = d;
+  if (ex && hit && w.zh && CLOZE_POS.has(w.p)) clozeCands[w.lv].push({ w: w.s, sv: ex[0], at: hit.at, len: hit.len, zh: ex[1], fq: w.fq });
+}
+for (const lv of LV.LEVELS) {
+  detail[lv].cloze = clozeCands[lv]
+    .sort((a, b) => (a.fq ? 0 : 1) - (b.fq ? 0 : 1) || a.fq - b.fq || cmp(a.w, b.w))
+    .slice(0, CLOZE_MAX)
+    .map(({ fq, ...c }) => c);
+}
+const phraseRowBySlug = new Map(phraseRows.map((p) => [p.s, p]));
+for (const n of phrases) {
+  const p = phraseRowBySlug.get(n.slug);
+  if (!p || !detail[p.lv]) continue;
+  const { ex } = pickExample(n, []);
+  const d = {};
+  const en = cut(clean(n.fm.en), 48);
+  if (en) d.en = en;
+  if (ex) d.ex = ex;
+  detail[p.lv].phrases[p.s] = d;
+}
+
 // ---------------------------------------------------------------- write
 const usedTopics = {};
 for (const w of wordRows) if (w.tp) usedTopics[w.tp] = topicZh.get(w.tp);
@@ -358,3 +494,19 @@ console.log(`Generated ${path.relative(repoRoot, outPath)} (${(bytes / 1024).toF
 if (bytes > MAX_BYTES) {
   console.warn(`⚠️ niva-data.js is ${bytes} bytes — over the ${MAX_BYTES}-byte budget (SPEC §10). The page still works; trim fields or split per level.`);
 }
+
+// One detail file per level; stale files from a previous build (a level that emptied) are removed.
+const detailDir = path.join(path.dirname(outPath), 'data');
+fs.mkdirSync(detailDir, { recursive: true });
+for (const f of fs.readdirSync(detailDir)) {
+  if (/^[AB][12]\.js$/.test(f) && !detail[f.slice(0, 2)]) fs.unlinkSync(path.join(detailDir, f));
+}
+const sizes = [];
+for (const lv of LV.LEVELS) {
+  const dj = `window.NIVA_DETAIL = window.NIVA_DETAIL || {};\nwindow.NIVA_DETAIL[${JSON.stringify(lv)}] = ${JSON.stringify({ v: 1, ...detail[lv] })};\n`;
+  fs.writeFileSync(path.join(detailDir, `${lv}.js`), dj, 'utf8');
+  const d = detail[lv];
+  const withEx = Object.values(d.words).filter((x) => x.ex).length;
+  sizes.push(`${lv} ${(Buffer.byteLength(dj, 'utf8') / 1024).toFixed(0)} KB (例句 ${withEx}/${Object.keys(d.words).length} · 填空 ${d.cloze.length})`);
+}
+console.log(`Generated site/niva/data/<level>.js — ${sizes.join(' · ')}`);

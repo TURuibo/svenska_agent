@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Dagbok — 学习日记 · svensk_agent</title>
     <link rel="stylesheet" href="styles.css?v=4" />
-    <link rel="stylesheet" href="dagbok.css?v=14" />
+    <link rel="stylesheet" href="dagbok.css?v=15" />
   </head>
   <body class="dagbokBody" data-site="dagbok">
     <header class="dgHeader">
@@ -13,6 +13,8 @@
       <h1>Dagbok <span class="brandSub">学习日记</span></h1>
       <p id="dgSummary" class="dgSummary">Loading…</p>
     </header>
+
+    <section id="dgNiva" class="dgNiva" aria-label="按级别学" hidden></section>
 
     <section id="dgTonight" class="dgTonight" aria-label="今晚细看" hidden></section>
 
@@ -23,7 +25,8 @@
     </main>
 
     <script src="dagbok-data.js"></script>
-    <script src="dagbok.js?v=13"></script>
+    <script src="niva-focus.js?v=1"></script>
+    <script src="dagbok.js?v=14"></script>
     <script src="vocab-progress.js"></script>
     <script src="vocab-card.js?v=1"></script>
     <script src="nav.js?v=9"></script>

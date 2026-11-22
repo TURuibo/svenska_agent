@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Läsning — Swedish Reading</title>
     <link rel="stylesheet" href="../styles.css?v=4" />
-    <link rel="stylesheet" href="reading.css?v=17" />
+    <link rel="stylesheet" href="reading.css?v=18" />
     <link rel="stylesheet" href="../kb-popover.css?v=4" />
   </head>
   <body class="readingBody" data-site="reading">
@@ -26,6 +26,10 @@
         <label class="filterSelect" title="按主题筛选（与词汇分析的缺口主题一致）">
           <span class="filterLabel">主题</span>
           <select id="topicFilter"><option value="all">全部</option></select>
+        </label>
+        <label class="filterSelect" title="按级别筛选（默认 = 🪜 Nivå 里的当前级别 📌）；选了级别就由易到难排">
+          <span class="filterLabel">级别</span>
+          <select id="levelFilter"><option value="all">全部</option></select>
         </label>
         <button type="button" id="filterFocus" class="toggleBtn" title="只看补弱项文章（带 🎯 目标词）">🎯 补弱项</button>
         <span class="filterDivider" aria-hidden="true"></span>
@@ -56,7 +60,8 @@
     <script src="../kb-store.js?v=5"></script>
     <script src="../speak.js?v=3"></script>
     <script src="../read-sync.js?v=1"></script>
-    <script src="reading.js?v=21"></script>
+    <script src="../niva-focus.js?v=1"></script>
+    <script src="reading.js?v=22"></script>
     <script src="../nav.js?v=9"></script>
   </body>
 </html>

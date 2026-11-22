@@ -15,6 +15,10 @@ Maintain `profile/level.md`: the single source of truth for what Ruibo already k
   - user called a word "太简单/我会了" → mark that word `known: true`
     and add to the profile's known list.
   - user repeatedly misses a grammar point → add/strengthen it under 弱点.
+  - 🪜 Nivå results arrive through `/ova` (`tools/ova-sync.js`): words he self-rated 「会」 get `known: true`
+    and join 已掌握 (tag 「Nivå 自评」); a passed self-test / placement adds a 评估历史 row
+    (「Nivå 通关（自测 18/20）」/「Nivå 定级测试通过（19/20）」). These are evidence, not the overall band —
+    weigh them in a full assessment, don't copy them into 总体水平 as-is.
 
 ## 2. 评估方法 (How to assess)
 

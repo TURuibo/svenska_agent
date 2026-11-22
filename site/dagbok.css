@@ -363,6 +363,37 @@
 
 /* ---------- 🌙 今晚细看 (from Flöde's localStorage) ---------- */
 
+/* 🪜 Nivå card: current level + ▶ 下一步 (dagbok.js, from niva.state.v1's summary) */
+.dgNiva {
+  max-width: 880px;
+  margin: 12px auto 4px;
+  padding: 0 24px;
+}
+.dgNiva[hidden] { display: none; }
+.dgNvCard {
+  display: grid;
+  gap: 6px;
+  padding: 10px 16px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--green);
+  border-radius: 12px;
+  font-family: var(--cjk);
+}
+.dgNvTop { display: flex; align-items: center; gap: 10px; color: var(--ink); text-decoration: none; font-size: 14px; }
+.dgNvTop:hover .dgNvTitle { text-decoration: underline; }
+.dgNvBadge {
+  display: inline-grid; place-items: center; min-width: 2.6em; padding: 2px 7px; border-radius: 8px;
+  background: var(--muted); color: var(--paper); font-weight: 800; font-size: 13px;
+}
+.dgNvBadge.lv-A1 { background: var(--green); }
+.dgNvBadge.lv-A2 { background: var(--blue); }
+.dgNvBadge.lv-B1 { background: var(--gold); }
+.dgNvBadge.lv-B2 { background: var(--red); }
+.dgNvNext { color: var(--green-dark); font-size: 14px; font-weight: 700; text-decoration: none; overflow-wrap: anywhere; }
+.dgNvNext:hover { text-decoration: underline; }
+@media (max-width: 760px) { .dgNiva { padding: 0 16px; } }
+
 .dgTonight {
   max-width: 880px;
   margin: 12px auto 4px;

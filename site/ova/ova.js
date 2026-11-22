@@ -138,8 +138,11 @@
     const h = new URLSearchParams((location.hash || '').replace(/^#/, ''));
     if (['focus', 'recent', 'all'].includes(h.get('deck'))) deck = h.get('deck');
     else if (!focusSlugs.length) deck = 'recent';
-    if (['A1', 'A2', 'B1', 'B2'].includes(h.get('level'))) {
-      level = h.get('level');
+    // Otherwise start from 🪜 Nivå's current level (../niva-focus.js), if one is set.
+    const focus = window.NivaFocus ? window.NivaFocus.get() : '';
+    const want = h.get('level') || focus;
+    if (['A1', 'A2', 'B1', 'B2'].includes(want)) {
+      level = want;
       document.getElementById('ovaLevel').value = level;
     }
   }

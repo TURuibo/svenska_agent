@@ -3,6 +3,33 @@
    (individual lookups).
    Reads window.DAGBOK_DATA, built by tools/build-dagbok-data.js. */
 
+/* 🪜 Nivå — one card at the very top: the current level, its progress and ▶ 下一步. Fed by the summary
+   site/niva/ leaves in `niva.state.v1` (read through niva-focus.js), so the home page never loads
+   niva-data.js. Renders nothing until Nivå has been opened once. */
+(function () {
+  'use strict';
+  const host = document.getElementById('dgNiva');
+  const NF = window.NivaFocus;
+  if (!host || !NF) return;
+  const s = NF.summary();
+  if (!s || NF.LEVELS.indexOf(s.lv) < 0) return;
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const safe = (href) => (typeof href === 'string' && /^(niva|reading|tala|listening|kurs|sok|ova)\//.test(href) ? href : `niva/#lv=${s.lv}`);
+  const card = el('div', 'dgNvCard');
+  const top = el('a', 'dgNvTop');
+  top.href = `niva/#lv=${s.lv}`;
+  top.append(el('span', `dgNvBadge lv-${s.lv}`, NF.label(s.lv)));
+  top.append(el('span', 'dgNvTitle', `🪜 ${s.focus ? '当前级别' : '上次看的级别'} · 进度 ${Number(s.pct) || 0}%${s.passed ? ' · ✅' : ''}`));
+  card.append(top);
+  if (s.next && s.next.t) {
+    const nx = el('a', 'dgNvNext', `▶ ${s.next.t}`);
+    nx.href = safe(s.next.href);
+    card.append(nx);
+  }
+  host.append(card);
+  host.hidden = false;
+})();
+
 /* 🌙 今晚细看 — panel at the top of the home page, fed by Flöde's localStorage
    (`flode.state.v1`: days{} for the daytime summary, tonight[] for the saved list).
    Renders nothing when Flöde was never used. Writes re-read localStorage first and
