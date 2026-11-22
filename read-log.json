@@ -1,7 +1,7 @@
 {
   "version": 1,
   "created": "2026-10-22T04:34:09Z",
-  "lastMarkedAt": "2026-11-22T12:02:07.599Z",
+  "lastMarkedAt": "2026-11-22T21:05:47.155Z",
   "reads": {
     "scenario-2026-10-23-brev-nya-livet-hosten": "2026-11-11T12:38:48.068Z",
     "scenario-2026-11-13-anslag-vattenmatare-container": "2026-11-18T18:57:18.887Z",
@@ -46,6 +46,7 @@
     "scenario-2026-11-13-inbjudan-julfest-grannar": "2026-11-15T18:50:28.566Z",
     "scenario-2026-09-26-forskola-sjukprat-mellan-foraldrar": "2026-11-15T19:10:57.300Z",
     "scenario-2026-09-26-forskola-smaprat-i-hallen": "2026-11-22T06:25:46.194Z",
-    "scenario-2026-09-26-forskola-hamtning-hur-har-dagen-varit": "2026-11-22T12:02:07.599Z"
+    "scenario-2026-09-26-forskola-hamtning-hur-har-dagen-varit": "2026-11-22T12:02:07.599Z",
+    "scenario-2026-06-27-min-familj": "2026-11-22T21:05:47.155Z"
   }
 }
