@@ -97,12 +97,25 @@ word · quiz · sentence · bite(news/dialog/teaser) · enett · phrase · cloze
 - 干扰项：同词类，优先同主题/同 CEFR，中文释义不能与答案重叠（沿用 Öva 的 `glosses`/`overlaps` 思路）。
 - 只取适合一屏的内容：句子 20–110 字符；新闻/预告 ≤ 380 字符（数据构建时已过滤）。
 
+**🪜 跟随当前级别（2026-11-22，`site/niva/SPEC.md` §7）：** 在 🪜 Nivå 设了当前级别（`niva.state.v1.focus`，经 `site/niva-focus.js` 读）
+且设置里「🪜 跟随当前级别」开着（默认开，`prefs.followLevel`）时：
+
+| 车道 | 跟随时出什么 |
+|---|---|
+| 🆕 新词 | 只出当前级别的词（缺口词 → 最近 30 天 → 其余）、句子、词组、语法；都看过了再出**下一级**的 |
+| 🎲 随机 · 🌙 预习 · 🔁 的「最近文章的词 / 句」补位 | 只出 ≤ 当前级别 |
+| 🔁 到期 | **Öva 到期的复习和「🤔 再看看」不过滤**（不管什么级别，该复习就复习） |
+| 新闻 / 对话 / 预告 | 只出 ≤ 当前级别，用完再借下一级 |
+
+- 级别取数据里的 `lv`（与 Nivå 同一套规则：词组按词推断、语法按课纲）；没有 `lv` 的条目算「≤ 当前级别」。
+- 顶栏目标条右边显示「🪜 A2」（点了回 Nivå）；设置里可关，关了就和以前一样。没设当前级别时这一行不显示。
+
 ## 5. 状态与桥接
 
 | localStorage key | 谁写 | 内容 |
 |---|---|---|
 | `ova.state.v1`（**与 Öva 共用**） | quiz / cloze / enett / pairs 的客观对错 | Öva 原 schema `{ cards: { <slug>: { b, d, r, w, t } }, lastCopy }`，升降箱规则同 Öva（对 → b+1，错 → b=0，`d = today + [0,1,2,4,7,14,30][b]`）。于是 Öva 的「📋 复制结果给 CC」→ `/ova` 自动覆盖 Flöde 的成绩 |
-| `flode.state.v1` | Flöde | `{ v:1, seen: { <id>: [次数, 最后日期] }, unsure: { <slug>: 日期 }, mute: { <slug>: 1 }, tonight: [ { id, t, slug, title, href, at } ], days: { <日期>: { cards, right, wrong, newWords } }, goal: 30, prefs: { autoSpeak: false, rate: 0.85 } }` |
+| `flode.state.v1` | Flöde | `{ v:1, seen: { <id>: [次数, 最后日期] }, unsure: { <slug>: 日期 }, mute: { <slug>: 1 }, tonight: [ { id, t, slug, title, href, at } ], days: { <日期>: { cards, right, wrong, newWords } }, goal: 30, prefs: { autoSpeak: false, rate: 0.85, vibrate: true, followLevel: true } }` |
 
 - **😎 会了** → `mute[slug]`（不再出这个词的词卡；不写 `known`，那仍由 `/ova` 决定）。**🤔 再看看** → `unsure[slug]`，本轮 5–8 张后重出，明天进到期车道。
 - **🌙 今晚细看**（每张卡都有）→ 进 `tonight`。`href` 指向完整内容：词/词组/句子/语法 → `../sok/#note=<slug>`；新闻/预告 → `../reading/#article=<slug>`；对话 → `../tala/#article=<slug>`。
@@ -124,7 +137,8 @@ window.FLODE_DATA = {
     l: 'citron',                   // lemma
     p: 'substantiv',               // 词类首词，小写：substantiv|verb|adjektiv|adverb|preposition|…
     g: 'en',                       // 'en' | 'ett' | ''（仅名词）
-    c: 'A1',                       // CEFR 或 ''
+    c: 'A1',                       // CEFR 或 ''（原样，显示用）
+    lv: 'A1',                      // 🪜 归属级别 A1|A2|B1|B2 或 ''（kb-index 的 lv，§4「跟随当前级别」用）
     zh: '柠檬', en: 'lemon',
     ipa: '/sɪˈtruːn/',             // 或 ''
     def: 'gul frukt med sur saft…',// 🇸🇪 Förklaring，≤ 140 字符，或 ''
@@ -139,19 +153,21 @@ window.FLODE_DATA = {
     s: 'sent-det-ar-brattom-…', sv: 'Det är bråttom om man ska hitta fler levande.',
     zh: '若要找到更多生还者，时间非常紧迫。',
     w: ['bråttom'],                // 关联词 slug（都存在于 words）
-    c: 'A2', d: '2026-06-26'
+    c: 'A2', lv: 'A2', d: '2026-06-26'
   }],
   phrases: [{ s: 'hålla-på-med', sv: 'hålla på med (något)', zh: '从事、搞…', en: 'to be into…',
-              cat: 'partikelverb', ex: ['Vad håller du på med?', '你在忙什么？'] /* 或 null */, d: '2026-10-01' }],
+              cat: 'partikelverb', ex: ['Vad håller du på med?', '你在忙什么？'] /* 或 null */, d: '2026-10-01',
+              lv: 'A2' /* 没标 cefr 的按词推断，推不出给 '' */ }],
   grammar: [{ s: 'grammar-bisats-om', name: 'Bisats med om', zh: '条件从句',
               tip: '一句话总结，≤ 160 字符',
-              ex: [['Om det regnar stannar jag hemma.', '如果下雨我就待在家。']] /* 0–2 个 */, lvl: 'A2' }],
+              ex: [['Om det regnar stannar jag hemma.', '如果下雨我就待在家。']] /* 0–2 个 */, lvl: 'A2' /* 显示用 */,
+              lv: 'A2' /* 归属级别（课纲 profile/niva-syllabus.md 优先） */ }],
   bites: [{                        // 新的在前，最多 ~450 条
     id: 'news-2026-11-13#2',       // 稳定唯一 id
     kind: 'news',                  // 'news' | 'teaser' | 'dialog'
     a: 'news-2026-11-13',          // 文章 slug（reading-data 的 slug）
     site: 'reading',               // 'reading' | 'tala' —— 决定「今晚读」跳哪里
-    title: '…', d: '2026-11-13', c: 'A2',
+    title: '…', d: '2026-11-13', c: 'A2', lv: 'A2',   // lv = 文章的归属级别（reading-data 的 lv）
     sv: 'Flera korta meningar …',  // news/teaser：正文，≤ 380 字符
     zh: '对应中文……',               // 可能为 ''
     turns: [{ who: 'A', sv: '…', zh: '…' }],   // 仅 dialog：3–4 句连续台词

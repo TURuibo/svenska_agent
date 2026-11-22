@@ -15,11 +15,16 @@
 
   const TYPE_SV = { word: "ord", phrase: "fraser", sentence: "meningar", grammar: "grammatik", topic: "ämnen", source: "källor", index: "index" };
 
-  const state = { query: "", type: "all", mode: "empty", selectedSlug: null, results: [], activeIndex: -1 };
+  const state = { query: "", type: "all", level: "all", mode: "empty", selectedSlug: null, results: [], activeIndex: -1 };
+  // 🪜 levels (kb-index `lv`, the same rules as Nivå: tools/level-lib.js). 📌 marks Nivå's current level.
+  const LEVELS = ["A1", "A2", "B1", "B2"];
+  let FOCUS = "";
+  try { FOCUS = (window.NivaFocus && window.NivaFocus.get()) || ""; } catch (_e) { FOCUS = ""; }
 
   const els = {
     input: document.getElementById("searchInput"),
     typePills: document.getElementById("typePills"),
+    levelPills: document.getElementById("levelPills"),
     statLine: document.getElementById("statLine"),
     resultCount: document.getElementById("resultCount"),
     results: document.getElementById("results"),
@@ -63,6 +68,31 @@
       })
       .join("");
   }
+  // Level pills count notes of the chosen type; hidden for types that carry no level (topics, sources).
+  function renderLevels() {
+    if (!els.levelPills) return;
+    const pool = state.type === "all" ? KB.notes : KB.notes.filter((n) => n.type === state.type);
+    const c = { A1: 0, A2: 0, B1: 0, B2: 0 };
+    for (const n of pool) if (c[n.lv] != null) c[n.lv] += 1;
+    const any = LEVELS.some((l) => c[l]);
+    if (!any && state.level !== "all") state.level = "all";
+    els.levelPills.hidden = !any;
+    if (!any) { els.levelPills.innerHTML = ""; return; }
+    const btn = (lv, label, n) => `<button class="filterButton levelButton" type="button" data-level="${lv}" aria-pressed="${state.level === lv}"` +
+      `${lv === FOCUS ? ' title="🪜 Nivå 的当前级别"' : ""}>${esc(label)}${n == null ? "" : ` <span class="levelN">${n}</span>`}</button>`;
+    els.levelPills.innerHTML = `<span class="levelLabel" aria-hidden="true">🪜</span>` + btn("all", "全部") +
+      LEVELS.filter((l) => c[l]).map((l) => btn(l, `${l === FOCUS ? "📌 " : ""}${l === "B2" ? "B2+" : l}`, c[l])).join("");
+  }
+  function typeRank(t) { const i = KB.TYPE_ORDER.indexOf(t); return i < 0 ? 99 : i; }
+  // KB.search does the matching; a level narrows it. A level with no query browses that level (by type, then A–Ö).
+  function runSearch() {
+    if (state.level === "all") return KB.search(state.query, { type: state.type });
+    const lv = state.level;
+    if (state.query.trim() || state.type !== "all") return KB.search(state.query, { type: state.type }).filter((n) => n.lv === lv);
+    return KB.notes.filter((n) => n.lv === lv)
+      .sort((a, b) => typeRank(a.type) - typeRank(b.type) || titleFor(a).localeCompare(titleFor(b)));
+  }
+
   function renderStats() {
     const counts = KB.countsByType();
     const parts = KB.TYPE_ORDER.filter((t) => counts[t]).map((t) => `${counts[t]} ${TYPE_SV[t] || t}`);
@@ -73,7 +103,7 @@
   // ---- results ----
   function renderResults() {
     const ts = terms();
-    state.results = KB.search(state.query, { type: state.type });
+    state.results = runSearch();
     if (state.activeIndex >= state.results.length) state.activeIndex = state.results.length - 1;
     els.resultCount.textContent = `${state.results.length} ${state.results.length === 1 ? "note" : "notes"}`;
 
@@ -83,7 +113,8 @@
     }
     els.results.innerHTML = state.results
       .map((n, i) => {
-        const meta = [plain(n.ordklass), plain(n.cefr), plain(n.zh), plain(n.en)].filter(Boolean).join(" · ");
+        const lvl = plain(n.cefr) || (n.lvInf && n.lv ? `≈${n.lv}` : "");
+        const meta = [plain(n.ordklass), lvl, plain(n.zh), plain(n.en)].filter(Boolean).join(" · ");
         const known = n.known === true ? `<span class="badge knownBadge">✅ 已掌握</span>` : "";
         const speak = (window.SvSpeak && window.SvSpeak.supported && ["word", "phrase", "sentence"].includes(n.type))
           ? window.SvSpeak.buttonHtml(plain(n.lemma) || titleFor(n)) : "";
@@ -162,7 +193,7 @@
   }
 
   // ---- modes / navigation ----
-  function browsing() { return state.query.trim() !== "" || state.type !== "all"; }
+  function browsing() { return state.query.trim() !== "" || state.type !== "all" || state.level !== "all"; }
 
   function setMode(mode) {
     state.mode = mode;
@@ -235,8 +266,19 @@
       if (!btn) return;
       state.type = btn.dataset.type;
       renderPills();
+      renderLevels();
       onQueryChanged();
     });
+
+    if (els.levelPills) {
+      els.levelPills.addEventListener("click", (e) => {
+        const btn = e.target.closest("[data-level]");
+        if (!btn) return;
+        state.level = btn.dataset.level;
+        renderLevels();
+        onQueryChanged();
+      });
+    }
 
     els.results.addEventListener("click", (e) => {
       const btn = e.target.closest("[data-slug]");
@@ -269,6 +311,7 @@
 
   function init() {
     renderPills();
+    renderLevels();
     renderStats();
     bindEvents();
 

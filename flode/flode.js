@@ -38,7 +38,7 @@
 
   const cleanTonight = (t) => arr(t).filter((e) => isObj(e) && typeof e.id === 'string' && typeof e.href === 'string').slice(-200);
   function loadState() {
-    const st = { v: 1, seen: {}, unsure: {}, mute: {}, tonight: [], days: {}, goal: 30, prefs: { autoSpeak: false, rate: 0.85, vibrate: true } };
+    const st = { v: 1, seen: {}, unsure: {}, mute: {}, tonight: [], days: {}, goal: 30, prefs: { autoSpeak: false, rate: 0.85, vibrate: true, followLevel: true } };
     const o = parse(lsGet(LS));
     if (!isObj(o)) return st;
     if (isObj(o.seen)) for (const [k, v] of Object.entries(o.seen)) if (Array.isArray(v) && Number(v[0]) > 0) st.seen[k] = [Number(v[0]), str(v[1])];
@@ -56,6 +56,7 @@
       if (typeof o.prefs.autoSpeak === 'boolean') st.prefs.autoSpeak = o.prefs.autoSpeak;
       if (Number(o.prefs.rate) >= 0.5 && Number(o.prefs.rate) <= 1.5) st.prefs.rate = Number(o.prefs.rate);
       if (typeof o.prefs.vibrate === 'boolean') st.prefs.vibrate = o.prefs.vibrate;
+      if (typeof o.prefs.followLevel === 'boolean') st.prefs.followLevel = o.prefs.followLevel;
     }
     const keys = Object.keys(st.seen);
     if (keys.length > 3000) {
@@ -132,11 +133,47 @@
   const recentS = sentsOf(recentW);
   const freshB = BI.filter((b) => freshArt.has(b.a));
   const recentB = BI.filter((b) => recentArt.has(b.a));
-  const newW = [W.filter((w) => w.gap && !w.k), W.filter((w) => !w.k && str(w.d) >= SINCE30 && /^(A2|B1)/.test(str(w.c))),
-    W.filter((w) => !w.k && str(w.d) >= SINCE30), W.filter((w) => !w.k)];
-  const newS = [SN.filter((s) => str(s.d) >= SINCE30), SN];
-  const newP = [PH.filter((p) => str(p.d) >= SINCE30), PH];
-  const newB = [BI.slice(0, 40), BI];
+
+  // ---------- 🪜 current level (set in Nivå; site/niva/SPEC.md §7) ----------
+  // Following it: 🆕 only brings this level's words / sentences / phrases / grammar (the next level's once they are
+  // all seen); 🎲, 🌙 (words of the newest articles) and the 🔁 filler (words of recent articles) stay at or below it;
+  // news / dialog / teaser bites are ≤ it (then the next level's). Real Öva reviews that are due are never filtered.
+  // Items without a level count as "at or below".
+  const LV_IDS = ['A1', 'A2', 'B1', 'B2'];
+  let FOCUS = '';
+  try { FOCUS = (window.NivaFocus && window.NivaFocus.get()) || ''; } catch (_e) { FOCUS = ''; }
+  if (!LV_IDS.includes(FOCUS)) FOCUS = '';
+  const NEXT = FOCUS ? LV_IDS[LV_IDS.indexOf(FOCUS) + 1] || '' : '';
+  const following = () => !!FOCUS && st.prefs.followLevel;
+  function makeTiers() {
+    if (!following()) {
+      return {
+        freshW: [freshW], freshS: [freshS], recentW, recentS,
+        newW: [W.filter((w) => w.gap && !w.k), W.filter((w) => !w.k && str(w.d) >= SINCE30 && /^(A2|B1)/.test(str(w.c))),
+          W.filter((w) => !w.k && str(w.d) >= SINCE30), W.filter((w) => !w.k)],
+        randW: [W],
+        newS: [SN.filter((s) => str(s.d) >= SINCE30), SN], randS: [SN],
+        newP: [PH.filter((p) => str(p.d) >= SINCE30), PH], randP: [PH],
+        newG: [GR], randG: [GR],
+        freshB: [freshB], dueB: [recentB], newB: [BI.slice(0, 40), BI], randB: [BI],
+      };
+    }
+    const at = (x) => x.lv === FOCUS;
+    const nx = (x) => !!NEXT && x.lv === NEXT;
+    const low = (x) => !LV_IDS.includes(x.lv) || LV_IDS.indexOf(x.lv) <= LV_IDS.indexOf(FOCUS);
+    const W0 = W.filter((w) => !w.k);
+    const BL = BI.filter(low);
+    return {
+      freshW: [freshW.filter(low)], freshS: [freshS.filter(low)], recentW: recentW.filter(low), recentS: recentS.filter(low),
+      newW: [W0.filter((w) => at(w) && w.gap), W0.filter((w) => at(w) && str(w.d) >= SINCE30), W0.filter(at), W0.filter(nx)],
+      randW: [W.filter(low)],
+      newS: [SN.filter((s) => at(s) && str(s.d) >= SINCE30), SN.filter(at), SN.filter(nx)], randS: [SN.filter(low)],
+      newP: [PH.filter((p) => at(p) && str(p.d) >= SINCE30), PH.filter(at), PH.filter(nx)], randP: [PH.filter(low)],
+      newG: [GR.filter(at), GR.filter(low)], randG: [GR.filter(low)],
+      freshB: [freshB.filter(low)], dueB: [recentB.filter(low)], newB: [BL.slice(0, 40), BL, BI.filter(nx)], randB: [BL, BI.filter(nx)],
+    };
+  }
+  let TI = makeTiers();
 
   let dueCache = null;
   function dueLists() {
@@ -145,7 +182,7 @@
     const slugs = Object.keys(ova.cards).filter((s) => isObj(ova.cards[s]) && str(ova.cards[s].d) <= t)
       .concat(Object.keys(st.unsure).filter((s) => st.unsure[s] < t));
     const w = toW(slugs);
-    dueCache = { w: [w, recentW], s: [sentsOf(w), recentS] };
+    dueCache = { w: [w, TI.recentW], s: [sentsOf(w), TI.recentS] };
     return dueCache;
   }
 
@@ -181,10 +218,10 @@
   }
   const wKey = (w) => 'w:' + w.s;
   function pickWord(ok) {
-    return pickFrom({ fresh: [freshW], due: dueLists().w, new: newW, rand: [W] }, wKey,
+    return pickFrom({ fresh: TI.freshW, due: dueLists().w, new: TI.newW, rand: TI.randW }, wKey,
       (w, lane) => (lane === 'due' || lane === 'fresh' || !st.mute[w.s]) && ok(w, lane));
   }
-  const pickSent = (ok) => pickFrom({ fresh: [freshS], due: dueLists().s, new: newS, rand: [SN] }, (s) => 's:' + s.s, ok);
+  const pickSent = (ok) => pickFrom({ fresh: TI.freshS, due: dueLists().s, new: TI.newS, rand: TI.randS }, (s) => 's:' + s.s, ok);
 
   // ---------- distractors (Öva's rules: same POS, prefer topic/CEFR, no overlapping gloss) ----------
   function distract(w, field, n, also) {
@@ -259,14 +296,14 @@
       const [s, lane] = pickSent((x) => t === 'sentence' || x.sv.length <= 95);
       return s && { t, s, lane, keys: ['s:' + s.s] };
     }
-    if (t === 'phrase') { const [p, lane] = pickFrom({ new: newP, rand: [PH] }, (x) => 'p:' + x.s, () => true); return p && { t, p, lane, keys: ['p:' + p.s] }; }
-    if (t === 'grammar') { const [g, lane] = pickFrom({ new: [GR], rand: [GR] }, (x) => 'g:' + x.s, () => true); return g && { t, g, lane, keys: ['g:' + g.s] }; }
+    if (t === 'phrase') { const [p, lane] = pickFrom({ new: TI.newP, rand: TI.randP }, (x) => 'p:' + x.s, () => true); return p && { t, p, lane, keys: ['p:' + p.s] }; }
+    if (t === 'grammar') { const [g, lane] = pickFrom({ new: TI.newG, rand: TI.randG }, (x) => 'g:' + x.s, () => true); return g && { t, g, lane, keys: ['g:' + g.s] }; }
     if (t === 'bite') {                 // rotate news → dialog → teaser so all three show up
       biteTurn += 1;
       for (let j = 0; j < 3; j += 1) {
         const kind = BITE_KINDS[(biteTurn + j) % 3];
         if (kind === prev) continue;
-        const [b, lane] = pickFrom({ fresh: [freshB], due: [recentB], new: newB, rand: [BI] }, (x) => 'b:' + x.id, (x) => x.kind === kind);
+        const [b, lane] = pickFrom({ fresh: TI.freshB, due: TI.dueB, new: TI.newB, rand: TI.randB }, (x) => 'b:' + x.id, (x) => x.kind === kind);
         if (b) return { t: b.kind, b, lane, keys: ['b:' + b.id] };
       }
     }
@@ -343,6 +380,9 @@
     const s = streak();
     $('flStreak').textContent = `🔥 ${s}`;
     $('flStreak').classList.toggle('off', !s);
+    const lv = $('flLv');
+    lv.hidden = !following();
+    lv.textContent = `🪜 ${FOCUS === 'B2' ? 'B2+' : FOCUS}`;
   }
   function score(ok) {
     const d = dayRec();
@@ -800,6 +840,12 @@
     document.querySelectorAll('#flGoalSeg button').forEach((b) => b.setAttribute('aria-checked', String(+b.dataset.goal === st.goal)));
     $('flAuto').checked = st.prefs.autoSpeak;
     $('flVib').checked = st.prefs.vibrate;
+    $('flLvRow').hidden = !FOCUS;
+    if (FOCUS) {
+      $('flLvOn').checked = st.prefs.followLevel;
+      $('flLvName').textContent = FOCUS === 'B2' ? 'B2+' : FOCUS;
+      $('flLvHow').textContent = `🆕 新卡只出 ${FOCUS} 的词、句子、词组和语法${NEXT ? `（都看过了再出 ${NEXT}）` : ''}；其它卡片（含新闻、对话）只出 ≤ ${FOCUS}，Öva 到期的复习照常。级别在 🪜 Nivå 里改。`;
+    }
     $('flRate').value = st.prefs.rate;
     $('flRateVal').textContent = `${st.prefs.rate.toFixed(2)}×`;
     $('flMuteN').textContent = Object.keys(st.mute).length;
@@ -816,6 +862,14 @@
   });
   $('flAuto').addEventListener('change', (e) => { st.prefs.autoSpeak = e.target.checked; save(); });
   $('flVib').addEventListener('change', (e) => { st.prefs.vibrate = e.target.checked; save(); });
+  $('flLvOn').addEventListener('change', (e) => {
+    st.prefs.followLevel = e.target.checked;
+    save();
+    TI = makeTiers();
+    dueCache = null;
+    renderTop();
+    toast(following() ? `🪜 接下来的新卡跟随 ${FOCUS}` : '🪜 不跟随级别：新卡来自全部内容');
+  });
   $('flRate').addEventListener('input', (e) => { st.prefs.rate = Math.round(Number(e.target.value) * 100) / 100; $('flRateVal').textContent = `${st.prefs.rate.toFixed(2)}×`; save(); });
   $('flRateTry').addEventListener('click', () => say(['Hej! Det här är min röst.']));
   $('flUnmute').addEventListener('click', () => { const n = Object.keys(st.mute).length; st.mute = {}; save(); syncSheet(); toast(n ? `已恢复 ${n} 个词` : '没有静音的词'); });

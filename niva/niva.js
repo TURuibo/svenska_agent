@@ -290,6 +290,88 @@
     return false;
   }
 
+  // ---------- 🎯 personal readability (SPEC §4.5) ----------
+  // data/<LV>-texts.js (window.NIVA_TEXTS[lv] = { ws: [word slugs], t: { <text slug>: { n, b, r: [A1…B2], w: [i, count, …] } } }):
+  // n tokens · b always readable (closed-class words, names) · r reference-list words the KB has no note for, per level ·
+  // w KB words. 认识 = b + KB words he knows (会, or at a level he has passed) + reference words at passed levels.
+  // The i+1 band: 90–98 % known — readable without a dictionary, still something new (aim 95 %).
+  const FIT_LO = 0.90;
+  const FIT_HI = 0.98;
+  const FIT_MID = 0.95;
+  const FIT_MIN_KNOWN = 100;   // below this his own marks say too little; the page shows a hint instead
+  const textLoads = {};
+  const textsOf = (lv) => (window.NIVA_TEXTS && window.NIVA_TEXTS[lv]) || null;
+  function wantTexts(lv) {
+    if (textsOf(lv) || textLoads[lv]) return;
+    textLoads[lv] = 'loading';
+    const s = document.createElement('script');
+    s.src = `data/${lv}-texts.js`;
+    s.onload = () => { textLoads[lv] = 'ok'; if (textsOf(lv)) route({ passive: true }); };
+    s.onerror = () => { textLoads[lv] = 'failed'; s.remove(); };   // no retry this visit; rows just show no %
+    document.head.appendChild(s);
+  }
+  // Which words he can read: every leveled word that is 会, plus every word at a level he has passed (✅ or 定级通过).
+  function knowModel(X) {
+    const passed = new Set(LEVEL_IDS.filter((l) => passedOf(l)));
+    const known = new Set();
+    for (const w of ALL_WORDS) if (passed.has(w.lv) || wordStatus(w, X) === 2) known.add(w.s);
+    return { X, passed, known, n: known.size };
+  }
+  function coverage(T, t, M) {
+    const e = T.t && T.t[t.s];
+    if (!e || !e.n) return null;
+    let k = Number(e.b) || 0;
+    arr(e.r).forEach((c, i) => { if (M.passed.has(LEVEL_IDS[i])) k += Number(c) || 0; });
+    const w = arr(e.w);
+    for (let j = 0; j + 1 < w.length; j += 2) {
+      const slug = arr(T.ws)[w[j]];
+      if (!slug) continue;
+      let ok = M.known.has(slug);
+      if (!ok && !wordBySlug.has(slug)) {   // a KB word without a level: only Öva / Flöde can know it
+        const c = M.X.boxes[slug];
+        ok = !!M.X.mute[slug] || (isObj(c) && Number(c.b) >= 4);
+      }
+      if (ok) k += Number(w[j + 1]) || 0;
+    }
+    return Math.min(1, k / e.n);
+  }
+  // { on, ready, need, cov: Map(text slug → 0–1) } for one level; starts the lazy load when it is needed.
+  function fitInfo(lv, X) {
+    const M = knowModel(X);
+    if (M.n < FIT_MIN_KNOWN) return { on: false, ready: false, need: FIT_MIN_KNOWN - M.n, cov: new Map() };
+    const T = textsOf(lv);
+    if (!T) { wantTexts(lv); return { on: true, ready: false, need: 0, cov: new Map() }; }
+    const cov = new Map();
+    for (const t of [...BY[lv].read, ...BY[lv].tala]) {
+      const c = coverage(T, t, M);
+      if (c != null) cov.set(t.s, c);
+    }
+    return { on: true, ready: true, need: 0, cov };
+  }
+  // Everything works on the whole percent he sees, so a row labelled 98 % and the band agree.
+  const fitPct = (c) => Math.round(c * 100);
+  const fitDist = (c) => { const p = fitPct(c) / 100; return p < FIT_LO ? FIT_LO - p : p > FIT_HI ? p - FIT_HI : 0; };
+  const inBand = (c) => fitDist(c) === 0;
+  // Unread texts closest to the band (inside first), then closest to 95 %; too easy beats too hard at equal distance.
+  function bestFit(lv, F, secs, n) {
+    const list = [];
+    for (const sec of secs) {
+      for (const t of BY[lv][sec]) {
+        if (t.br || t.kind === 'adjsubst' || isRead(t.s) || !F.cov.has(t.s)) continue;
+        list.push({ t, sec, c: F.cov.get(t.s) });
+      }
+    }
+    list.sort((a, b) => fitDist(a.c) - fitDist(b.c) || Math.abs(a.c - FIT_MID) - Math.abs(b.c - FIT_MID) || (a.t.d || 9) - (b.t.d || 9));
+    return list.slice(0, n);
+  }
+  function fitChip(c) {
+    if (c == null) return '';
+    const p = fitPct(c);
+    const cls = inBand(c) ? 'fit' : p < FIT_LO * 100 ? 'hard' : 'easy';
+    const why = cls === 'fit' ? '正合适（i+1）：不查词也能读懂，又有几个新词' : cls === 'hard' ? '生词偏多：先过一遍本级单词，或者读的时候多查词' : '几乎都认识：读起来轻松，新词很少';
+    return `<span class="nvFit ${cls}" title="按你会的词算：${p}% 的词你认识。${why}">认识 ${p}%</span>`;
+  }
+
   // ---------- groups (list order = 过一遍 order) ----------
   const groupCache = {};
   function wordGroups(lv) {
@@ -377,10 +459,14 @@
       if (readN < need) {
         const r = BY[lv].read.filter((t) => !t.br && isRead(t.s)).length;
         const tl = BY[lv].tala.filter((t) => !t.br && isRead(t.s)).length;
+        const F = fitInfo(lv, X);
         for (const sec of r <= tl ? ['read', 'tala'] : ['tala', 'read']) {
-          const t = BY[lv][sec].find((x) => !x.br && !isRead(x.s));
+          // With 🎯 可读度 on: the text that fits him best; otherwise the easiest unread one.
+          const best = F.ready ? bestFit(lv, F, [sec], 1)[0] : null;
+          const t = best ? best.t : BY[lv][sec].find((x) => !x.br && !isRead(x.s));
           if (!t) continue;
-          cands.push({ ratio: readN / need, s: { icon: SEC[sec].icon, t: `${SEC[sec].name}：${t.t}`, sub: [t.tag, t.d ? `难度 ${t.d}/5` : ''].filter(Boolean).join(' · '), act: { k: 'href', href: hrefOf(lv, sec, t) } } });
+          const sub = best ? [`认识 ${fitPct(best.c)}%${inBand(best.c) ? ' · 🎯 最适合你' : ''}`, t.tag] : [t.tag, t.d ? `难度 ${t.d}/5` : ''];
+          cands.push({ ratio: readN / need, s: { icon: SEC[sec].icon, t: `${SEC[sec].name}：${t.t}`, sub: sub.filter(Boolean).join(' · '), act: { k: 'href', href: hrefOf(lv, sec, t) } } });
           break;
         }
       }
@@ -1026,26 +1112,82 @@
     let h = `<div class="nvSecHead"><h2>${S.icon} ${S.name} <span class="nvSecCount">${S.done} ${num(count.done)} / ${num(count.n)}</span></h2>` +
       (count.n ? `<button type="button" class="nvMini${only ? ' on' : ''}" data-act="only" aria-pressed="${only}">${only ? '☑' : '☐'} ${S.todo}</button>` : '') +
       '</div>';
-    if (!count.n) return h + emptyHtml(sec);
+    if (!count.n) return h + emptyHtml(lv, sec, X);
     switch (sec) {
       case 'grammar': return h + grammarHtml(lv, X, only, item);
       case 'words': return h + wordsHtml(lv, X, only, item);
       case 'phrases': return h + phrasesHtml(lv, X, only, item);
-      case 'read': case 'tala': return h + textsHtml(lv, sec, only);
+      case 'read': case 'tala': return h + textsHtml(lv, sec, only, X);
       case 'listen': return h + listenHtml(lv, only);
       case 'kurs': return h + kursHtml(lv, X, only);
       default: return h;
     }
   }
 
-  function emptyHtml(sec) {
+  function emptyHtml(lv, sec, X) {
     const S = SEC[sec];
+    const tala = BY[lv].tala.length > 0;
     const tips = {
-      listen: '可以先在 🗣️ 情景 里用「🎧 只听全文 / 🗣️ 跟读」练听力——瑞典语语音会把对话读出来。',
+      listen: tala ? '可以先在 🗣️ 情景 里用「🎧 只听全文 / 🗣️ 跟读」练听力——瑞典语语音会把对话读出来。' : '',
       kurs: '课文 = 带「🔍 逐段精读」的教材文章；拍课本照片录入后会出现在这里。',
-      read: '这一级的阅读文章还很少，可以先读 🗣️ 情景。',
+      read: tala ? '这一级的阅读文章还很少，可以先读 🗣️ 情景。' : '',
     };
-    return `<p class="nvEmpty">本级还没有${S.name}材料。${tips[sec] ? `<br>${esc(tips[sec])}` : ''}</p>`;
+    return `<p class="nvEmpty">本级还没有${S.name}材料。${tips[sec] ? `<br>${esc(tips[sec])}` : ''}</p>` + gapHtml(lv, sec, X, 0);
+  }
+
+  // ---------- 缺材料 (SPEC §3.4) ----------
+  // A section with fewer than GAP_MIN texts of its own level (🌉 bridge texts and drills don't count) offers commands
+  // that write more at exactly this level: /dagens-artikel → 📖 阅读, /scenario → 🗣️ 情景. Neither writes B2.
+  const GAP_MIN = 10;
+  const GAP_FALLBACK = ['自我介绍', '在超市买东西', '问路', '在家里', '看医生', '天气'];
+  // Topic notes are named for the KB ("学校与教育（语义场）", "幼儿园日常：人物、地点…"); a scenario wants the plain subject.
+  const topicLabel = (zh) => str(zh).replace(/[（(][^）)]*[）)]/g, '').split(/[：:—]/)[0].replace(/\s*[；;]\s*/g, '、').trim();
+  const NOT_A_SCENE = /通用|形容词|动词|副词|名词|新闻|SFI/;   // word-class and news-week topics make no scene
+  // The topics where he still has the most words to learn at this level, so the new text practises exactly those.
+  function gapTopics(lv, X, n) {
+    const cnt = new Map();
+    for (const w of BY[lv].words) {
+      const zh = w.tp && topicZh[w.tp];
+      if (!zh || NOT_A_SCENE.test(zh) || wordStatus(w, X) === 2) continue;
+      const label = topicLabel(zh);
+      if (label) cnt.set(label, (cnt.get(label) || 0) + 1);
+    }
+    const out = [...cnt.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'zh')).slice(0, n).map(([k]) => k);
+    for (const f of GAP_FALLBACK) if (out.length < n && !out.includes(f)) out.push(f);
+    return out;
+  }
+  const ARTIKEL_GENRES = [[1, '瑞典国情'], [3, '节日传统'], [4, '自然动物']];   // /dagens-artikel genre numbers that suit easy levels
+  function gapCmds(lv, sec, X) {
+    const tp = gapTopics(lv, X, 3);
+    if (sec === 'read') return ARTIKEL_GENRES.map(([g, zh]) => ({ cmd: `/dagens-artikel ${lv} ${g}`, what: `一篇${zh}短文 → 📖 阅读` }));
+    if (sec === 'tala') {
+      return [['dialog', '对话'], ['text', '短文本（通知 / 短信 / 邮件）'], ['story', '小故事']]
+        .map(([k, zh], i) => ({ cmd: `/scenario ${k} ${lv} ${tp[i]}`, what: `${zh} → 🗣️ 情景` }));
+    }
+    if (sec === 'listen') return tp.slice(0, 2).map((t) => ({ cmd: `/scenario dialog ${lv} ${t}`, what: '对话 → 在 🗣️ Tala 里听全文、逐句跟读' }));
+    return [];
+  }
+  function gapHtml(lv, sec, X, have) {
+    if (!['read', 'tala', 'listen'].includes(sec)) return '';
+    const S = SEC[sec];
+    if (lv === 'B2') {
+      if (sec === 'listen') return '';   // 🎧 Lyssna only has easy news and textbook audio; nothing to generate
+      return `<div class="nvGap"><p><b>B2 还没有${S.name}材料。</b>生成命令最高只写到 B1。B2 适合真实的瑞典语：` +
+        '报纸文章、书里的段落——粘贴给 Claude Code 运行 <code>/learn</code>，会归档进 📖 阅读，并按它的级别出现在这里。</p></div>';
+    }
+    const cmds = gapCmds(lv, sec, X);
+    if (!cmds.length) return '';
+    const lead = have ? `${lvLabel(lv)} 自己的${S.name}只有 ${have} 篇（🌉 过渡的不算）。` : `${lvLabel(lv)} 还没有自己的${S.name}。`;
+    return `<div class="nvGap"><p><b>${esc(lead)}</b>想补一些？点一条复制，回 Claude Code 粘贴运行：</p>` +
+      '<ul class="nvCmds">' + cmds.map((c) => `<li><button type="button" class="nvCmd" data-act="cmd" data-cmd="${esc(c.cmd)}" title="复制这条命令">` +
+        `<code>${esc(c.cmd)}</code><span class="nvCmdW">${esc(c.what)}</span><span class="nvCmdC" aria-hidden="true">📋</span></button></li>`).join('') + '</ul>' +
+      `<p class="nvSmall">生成后跑 <code>/import</code>，网站下次重建（GitHub Action）就会出现在这一级。${sec === 'read' ? '数字是体裁：1 国情 · 3 传统 · 4 自然。' : '话题 = 本级你还没会的词最多的主题。'}</p></div>`;
+  }
+  function copyCmd(btn) {
+    const text = btn.getAttribute('data-cmd') || '';
+    const done = () => { btn.classList.add('copied'); toast(`✓ 已复制 ${text} —— 回 Claude Code 粘贴运行`); };
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(done, () => { window.prompt('复制这条命令：', text); done(); });
+    else { window.prompt('复制这条命令：', text); done(); }
   }
 
   // A collapsible group. `rows` is an HTML string or a function that builds it on first open
@@ -1078,8 +1220,9 @@
         (g.one ? `<span class="nvRowSub">${esc(g.one)}</span>` : '') + '</a></li>';
     };
     const pick = (f) => all.filter(f).filter((g) => !only || !st.grammar[g.s]);
+    const syl = all.some((g) => g.syl);
     const tiers = [
-      ['t1', '核心', '被引用最多、最常见，先学这些', (g) => !g.br && g.tier === 1, true],
+      ['t1', '核心', syl ? '按课纲（profile/niva-syllabus.md）的教学顺序，从上往下学' : '被引用最多、最常见，先学这些', (g) => !g.br && g.tier === 1, true],
       ['t2', '常用', '', (g) => !g.br && g.tier === 2, true],
       ['t3', '细节', '多是具体用法和固定句型', (g) => !g.br && g.tier === 3, false],
       ['br', `🌉 过渡 → ${lvLabel(nextLevel(lv)) || '更高'}`, '标着区间（如 A2–B1）的语法点：学完本级再看', (g) => g.br, false],
@@ -1150,11 +1293,13 @@
 
   // 📖 阅读 / 🗣️ 情景 — easiest first (SPEC §4.3); drill pages and 🌉 ranges in their own groups.
   const dots = (d) => (d ? `<span class="nvDots" aria-label="难度 ${d}/5" title="难度 ${d}/5（本级内比较）">${'●'.repeat(d)}${'○'.repeat(5 - d)}</span>` : '');
-  function textsHtml(lv, sec, only) {
+  function textsHtml(lv, sec, only, X) {
     const all = BY[lv][sec];
+    const F = fitInfo(lv, X);
     const row = (t) => {
       const done = isRead(t.s);
       const meta = [
+        F.ready ? fitChip(F.cov.get(t.s)) : '',
         t.tag ? `<span>${esc(t.tag)}</span>` : '',
         dots(t.d),
         t.lix ? `<span title="LIX 可读性指数：< 25 很易 · 25–30 易 · 30–40 中等 · 40–50 难">LIX ${t.lix}</span>` : '',
@@ -1175,6 +1320,24 @@
     let h = sec === 'tala'
       ? '<p class="nvHint">点开在 🗣️ Tala 里练：🎭 = 可以角色扮演，所有情景都能逐句跟读。读完在那边「标为已读」。</p>'
       : '<p class="nvHint">点开在 📖 Läsning 里读，读完在那边「标为已读」，回到这里自动打 ✓。难度 ●○○○○ 是和本级其它文章比。</p>';
+    if (F.ready) {
+      // 🎯 the unread texts that suit him best right now (SPEC §4.5)
+      const best = bestFit(lv, F, [sec], 3);
+      if (best.length) {
+        const top = best[0].c;
+        const kind = inBand(top) ? 'fit' : top < FIT_LO ? 'hard' : 'easy';
+        const title = kind === 'fit' ? '🎯 最适合你' : '🎯 最接近你的水平';
+        const note = {
+          fit: '按你会的词算，这几篇你认识 90–98% 的词：不查词也读得懂，又能学到几个新词（i+1）。',
+          hard: '还没有你认识 90% 以上的词的文章，这几篇最接近。先「▶ 过一遍」本级单词，这个数字会涨。',
+          easy: '剩下的你几乎都认识（98% 以上）：读起来很轻松，可以快快读完，或者进下一级。',
+        }[kind];
+        h += group(lv, sec, 'fit', title, '', best.map((x) => row(x.t)).join(''), true, esc(note));
+      }
+    } else if (!F.on && all.some((t) => t.kind !== 'adjsubst')) {
+      h += `<p class="nvHint nvFitHint">🎯 再有 ${num(F.need)} 个词标成「会」（▶ 过一遍单词，或通过一级 / 定级通过），` +
+        '每篇就会显示你认识其中多少 % 的词，并推荐最适合你的几篇（认识 90–98% = 不查词也读得懂，又能学到新词）。</p>';
+    }
     for (const [key, title, f, dflt, note] of parts) {
       const list = all.filter(f);
       if (!list.length) continue;
@@ -1182,6 +1345,8 @@
       const shown = only ? list.filter((t) => !isRead(t.s)) : list;
       h += group(lv, sec, key, title, `${done}/${list.length}`, shown.length ? shown.map(row).join('') : allDoneRow(), dflt, note ? esc(note) : '');
     }
+    const own = all.filter((t) => !t.br && t.kind !== 'adjsubst').length;
+    if (own < GAP_MIN) h += gapHtml(lv, sec, X, own);
     return h;
   }
 
@@ -1252,6 +1417,7 @@
       if (a === 'test' && view) { openLayer(`#lv=${view.lv}&test=1`); return; }
       if (a === 'place') { openLayer('#place=A1'); return; }
       if (a === 'copy') { copyResults(act); return; }
+      if (a === 'cmd') { copyCmd(act); return; }
       if (a === 'focus' && view) {
         if (st.focus === view.lv) { mutate((s) => { s.focus = ''; }); toast('已取消当前级别'); } else setFocus(view.lv);
         renderLevel(view.lv, view.sec, '', {});
