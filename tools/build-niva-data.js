@@ -176,14 +176,11 @@ for (const n of phrases) {
   let place = LV.placement(LV.parseLevel(fm.cefr));
   let inf = 0;
   if (!place.lv) {
-    // ≈ the hardest of its head words; else the median level of the sentences it occurs in.
-    const heads = listOf(fm.head_words).map((h) => wordRank.get(h) || wordRank.get(h.toLowerCase()) || 0).filter(Boolean);
-    let lv = heads.length ? LV.levelFromRank(Math.max(...heads)) : '';
-    if (!lv) {
-      const sl = [...new Set([...listOf(fm.sentences), ...(phrasesOfSentence.get(n.slug) || [])])];
-      lv = LV.medianLevel(sl.map((s) => sentRank.get(s) || 0));
-    }
-    if (lv) { place = { lv, hi: '', br: 0 }; inf = 1; }
+    // Same rule as build-kb-site.js (level-lib inferPhraseLevel): hardest head word, else median sentence.
+    const heads = listOf(fm.head_words).map((h) => wordRank.get(h) || wordRank.get(h.toLowerCase()) || 0);
+    const sl = [...new Set([...listOf(fm.sentences), ...(phrasesOfSentence.get(n.slug) || [])])];
+    const guess = LV.inferPhraseLevel(heads, sl.map((s) => sentRank.get(s) || 0));
+    if (guess.lv) { place = { lv: guess.lv, hi: '', br: 0 }; inf = 1; }
   }
   if (!place.lv) { phrasesUnplaced += 1; continue; }
   phraseRows.push({
@@ -223,9 +220,7 @@ for (const f of fs.existsSync(importedDir) ? fs.readdirSync(importedDir) : []) {
 const grammarRows = [];
 for (const n of grammar) {
   const fm = n.fm;
-  const line = (n.body.match(/^级别[:：]\s*(.+)$/m) || [])[1];
-  const p = LV.parseLevel(fm.cefr) || LV.parseLevel(fm.level) || LV.parseLevel(line);
-  const place = LV.placement(p);
+  const place = LV.noteLevel(fm, n.body);
   if (!place.lv) continue;
   const one = (n.body.match(/^一句话[:：]\s*(.+)$/m) || [])[1] || '';
   grammarRows.push({
@@ -241,13 +236,25 @@ for (const n of grammar) {
     ord: 0,
   });
 }
+// Hand-made syllabus (profile/niva-syllabus.md, level-lib loadSyllabus): listed points are the level's
+// 核心 (tier 1) in teaching order and take the heading's level.
+const syllabus = LV.loadSyllabus(repoRoot);
+const grammarSlugs = new Set(grammarRows.map((g) => g.s));
+const syllabusMissing = [...syllabus.keys()].filter((s) => !grammarSlugs.has(s));
+for (const g of grammarRows) {
+  const sy = syllabus.get(g.s);
+  if (sy) { g.lv = sy.lv; g.br = 0; g.syl = 1; }
+}
 for (const lv of LV.LEVELS) {
+  const core = grammarRows.filter((g) => g.lv === lv && g.syl).sort((a, b) => syllabus.get(a.s).ord - syllabus.get(b.s).ord);
+  core.forEach((g, i) => { g.ord = i + 1; g.tier = 1; });
   for (const br of [0, 1]) {
-    const list = grammarRows.filter((g) => g.lv === lv && g.br === br)
+    const list = grammarRows.filter((g) => g.lv === lv && g.br === br && !g.syl)
       .sort((a, b) => b.links - a.links || cmp(a.s, b.s));
     list.forEach((g, i) => {
-      g.ord = i + 1;
-      g.tier = br ? 0 : 1 + Math.min(2, Math.floor((i * 3) / list.length));
+      g.ord = core.length + i + 1;
+      // With a syllabus the rest splits into 常用 / 细节; without one, thirds by link count.
+      g.tier = br ? 0 : core.length ? 2 + Math.min(1, Math.floor((i * 2) / list.length)) : 1 + Math.min(2, Math.floor((i * 3) / list.length));
     });
   }
 }
@@ -457,6 +464,67 @@ for (const n of phrases) {
   detail[p.lv].phrases[p.s] = d;
 }
 
+// ---------------------------------------------------------------- 🎯 personal readability (P2, SPEC §4.5)
+// site/niva/data/<LV>-texts.js: which words each text at that level uses, so the page can work out how much of it
+// HE can read — 认识 = closed-class words + names (always) + KB words he knows + reference-list words at levels he
+// has passed. Only the token counts ship; the page does the sum (his marks live in his browser).
+const vocabRecs = (sandbox.window.READING_DATA && sandbox.window.READING_DATA.vocab) || [];
+const formSlug = new Map();   // surface form (lowercase) → [rank, isLemma ? 0 : 1, slug] of its best KB word
+for (const v of vocabRecs) {
+  const p = LV.parseLevel(v.cefr);
+  const r = p ? LV.rankOf(p.lo) : 9;
+  const lemma = String(v.lemma || '').toLowerCase();
+  for (const f of [v.lemma, ...(v.forms || [])]) {
+    const k = String(f || '').toLowerCase().trim();
+    if (!k || /\s/.test(k)) continue;
+    const cand = [r, k === lemma ? 0 : 1, v.slug];
+    const prev = formSlug.get(k);
+    // An ambiguous form goes to the lowest-level word, then the one whose lemma it is, then slug order.
+    if (!prev || (cand[0] - prev[0] || cand[1] - prev[1] || cmp(cand[2], prev[2])) < 0) formSlug.set(k, cand);
+  }
+}
+const refRank = new Map();     // reference-list word (lowercase) → level rank 1–4, for words the KB has no note for
+for (const e of reference) {
+  const r = LV.rankOf(e.l);
+  if (!r) continue;
+  for (const w of [e.w, e.g]) {
+    const k = String(w || '').toLowerCase();
+    if (k && (!refRank.has(k) || r < refRank.get(k))) refRank.set(k, r);
+  }
+}
+const articleBySlug = new Map(articles.map((a) => [a.slug, a]));
+const fitFiles = {};
+for (const lv of LV.LEVELS) fitFiles[lv] = { ws: [], idx: new Map(), t: {} };
+let fitTexts = 0;
+for (const t of texts) {
+  if (t.kind === 'adjsubst' || !fitFiles[t.lv]) continue;
+  const a = articleBySlug.get(t.s);
+  const toks = LV.tokenize(LV.svProse(a && a.body));
+  const F = fitFiles[t.lv];
+  let n = 0;
+  let b = 0;
+  const r = [0, 0, 0, 0];
+  const w = new Map();
+  for (const tok of toks) {
+    const k = tok.toLowerCase();
+    if (LV.BASE_WORDS.has(k)) { b += 1; n += 1; continue; }
+    const hit = formSlug.get(k);
+    if (hit) { w.set(hit[2], (w.get(hit[2]) || 0) + 1); n += 1; continue; }
+    const rr = refRank.get(k);
+    if (rr) { r[rr - 1] += 1; n += 1; continue; }
+    if (/^[A-ZÅÄÖÉÜ]/.test(tok)) { b += 1; n += 1; continue; }   // a name (or a word we can't place) — readable
+    if (tok.length > 1) n += 1;                                  // unknown everywhere → counts against him
+  }
+  if (n < 30) continue;   // too short to say anything (same floor as the LIX measurement)
+  const flat = [];
+  for (const [slug, c] of [...w.entries()].sort((x, y) => y[1] - x[1] || cmp(x[0], y[0]))) {
+    if (!F.idx.has(slug)) { F.idx.set(slug, F.ws.length); F.ws.push(slug); }
+    flat.push(F.idx.get(slug), c);
+  }
+  F.t[t.s] = { n, b, r, w: flat };
+  fitTexts += 1;
+}
+
 // ---------------------------------------------------------------- write
 const usedTopics = {};
 for (const w of wordRows) if (w.tp) usedTopics[w.tp] = topicZh.get(w.tp);
@@ -491,6 +559,8 @@ console.log(`Generated ${path.relative(repoRoot, outPath)} (${(bytes / 1024).toF
   `grammar ${per(grammarRows)} · words ${per(data.words)} · phrases ${per(phraseRows)} (+${phrasesUnplaced} unplaced) · ` +
   `reading ${per(texts.filter((t) => t.page === 'reading'))} · tala ${per(texts.filter((t) => t.page === 'tala'))} · ` +
   `listen ${per(listen)} · kurs ${per(kurs)}`);
+console.log(`📗 syllabus (profile/niva-syllabus.md): core A1/A2/B1/B2 ${per(grammarRows.filter((g) => g.syl))}` +
+  (syllabusMissing.length ? ` · ⚠️ ${syllabusMissing.length} slug(s) with no grammar note: ${syllabusMissing.join(', ')}` : ''));
 if (bytes > MAX_BYTES) {
   console.warn(`⚠️ niva-data.js is ${bytes} bytes — over the ${MAX_BYTES}-byte budget (SPEC §10). The page still works; trim fields or split per level.`);
 }
@@ -499,7 +569,7 @@ if (bytes > MAX_BYTES) {
 const detailDir = path.join(path.dirname(outPath), 'data');
 fs.mkdirSync(detailDir, { recursive: true });
 for (const f of fs.readdirSync(detailDir)) {
-  if (/^[AB][12]\.js$/.test(f) && !detail[f.slice(0, 2)]) fs.unlinkSync(path.join(detailDir, f));
+  if (/^[AB][12](-texts)?\.js$/.test(f) && !detail[f.slice(0, 2)]) fs.unlinkSync(path.join(detailDir, f));
 }
 const sizes = [];
 for (const lv of LV.LEVELS) {
@@ -510,3 +580,12 @@ for (const lv of LV.LEVELS) {
   sizes.push(`${lv} ${(Buffer.byteLength(dj, 'utf8') / 1024).toFixed(0)} KB (例句 ${withEx}/${Object.keys(d.words).length} · 填空 ${d.cloze.length})`);
 }
 console.log(`Generated site/niva/data/<level>.js — ${sizes.join(' · ')}`);
+
+const fitSizes = [];
+for (const lv of LV.LEVELS) {
+  const F = fitFiles[lv];
+  const tj = `window.NIVA_TEXTS = window.NIVA_TEXTS || {};\nwindow.NIVA_TEXTS[${JSON.stringify(lv)}] = ${JSON.stringify({ v: 1, ws: F.ws, t: F.t })};\n`;
+  fs.writeFileSync(path.join(detailDir, `${lv}-texts.js`), tj, 'utf8');
+  fitSizes.push(`${lv} ${Object.keys(F.t).length} 篇 ${(Buffer.byteLength(tj, 'utf8') / 1024).toFixed(0)} KB`);
+}
+console.log(`Generated site/niva/data/<level>-texts.js (🎯 可读度, ${fitTexts} texts) — ${fitSizes.join(' · ')}`);

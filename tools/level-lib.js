@@ -54,6 +54,22 @@ function medianLevel(ranks) {
   return levelFromRank(r[(r.length - 1) >> 1]);
 }
 
+// Level of a note from its frontmatter: words / sentences / sources use `cefr`; grammar notes may use
+// `level` or a 「级别:」 body line instead. → placement() result ({ lv, hi, br }).
+function noteLevel(fm, body) {
+  const line = (String(body || '').match(/^级别[:：]\s*(.+)$/m) || [])[1];
+  return placement(parseLevel(fm && fm.cefr) || parseLevel(fm && fm.level) || parseLevel(line));
+}
+
+// A phrase without its own `cefr` (most notes written before 2026-11-22): ≈ the hardest of its head
+// words, else the median level of the sentences it occurs in. Ranks are 1–4 (0 = unknown).
+// → { lv, inf: 1 } or { lv: '', inf: 0 }.
+function inferPhraseLevel(headRanks, sentenceRanks) {
+  const heads = (headRanks || []).filter((r) => r > 0);
+  const lv = heads.length ? levelFromRank(Math.max(...heads)) : medianLevel(sentenceRanks || []);
+  return lv ? { lv, inf: 1 } : { lv: '', inf: 0 };
+}
+
 // ---------------------------------------------------------------------------
 // Text difficulty (§4.3). Only used to ORDER texts inside a level and to flag
 // ⬆ 偏难 — it never moves a text out of the level its author declared.
@@ -208,7 +224,34 @@ function assignDifficulty(items, groupOf) {
   }
 }
 
+// ---------------------------------------------------------------------------
+// Hand-made grammar syllabus profile/niva-syllabus.md (§4.4): "## A2 …" headings, then
+// "1. grammar-slug — note" lines in teaching order → Map(slug → { lv, ord }). A listed point
+// takes its heading's level everywhere (Nivå 核心, kb-index → Sök / Flöde), so they agree.
+// ---------------------------------------------------------------------------
+function loadSyllabus(repoRoot) {
+  const fs = require('fs');
+  const path = require('path');
+  const file = path.join(repoRoot, 'profile', 'niva-syllabus.md');
+  const out = new Map();
+  if (!fs.existsSync(file)) return out;
+  const per = {};
+  let lv = '';
+  for (const line of fs.readFileSync(file, 'utf8').split(/\r?\n/)) {
+    const h = line.match(/^##\s+([AB][12])\b/);
+    if (h) { lv = h[1]; continue; }
+    const m = line.match(/^\s*\d+\.\s+(grammar-[^\s—–]+)/);
+    if (!m || !lv || out.has(m[1])) continue;
+    per[lv] = (per[lv] || 0) + 1;
+    out.set(m[1], { lv, ord: per[lv] });
+  }
+  return out;
+}
+
+const tokenize = (prose) => String(prose || '').match(WORD) || [];
+const BASE_WORDS = new Set(A1_EXTRA);   // closed-class words every reader is assumed to know
+
 module.exports = {
-  LEVELS, RANK, parseLevel, placement, fold, rankOf, levelFromRank, medianLevel,
-  buildLexicon, svProse, textStats, overShare, inferTextLevel, assignDifficulty,
+  LEVELS, RANK, parseLevel, placement, fold, rankOf, levelFromRank, medianLevel, noteLevel, inferPhraseLevel,
+  buildLexicon, svProse, textStats, overShare, inferTextLevel, assignDifficulty, tokenize, BASE_WORDS, loadSyllabus,
 };

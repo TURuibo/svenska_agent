@@ -281,6 +281,7 @@ function buildWords(P, covered) {
       p,
       g,
       c: n.cefr || '',
+      lv: n.lv || '',
       zh: clean(n.zh),
       en: clean(n.en),
       ipa,
@@ -318,6 +319,7 @@ function buildSentences(P) {
       zh,
       w: [...new Set((n.words || []).filter((w) => wordBySlug.has(w)))],
       c: n.cefr || '',
+      lv: n.lv || '',
       d: n.created || '',
     });
   }
@@ -341,6 +343,7 @@ function buildPhrases(P) {
       cat: clean(n.category || ''),
       ex: pairs.length ? pairs.reduce((a, b) => (b[0].length < a[0].length ? b : a)) : null,
       d: n.created || '',
+      lv: n.lv || '',
     });
   }
   return out;
@@ -364,6 +367,7 @@ function buildGrammar() {
       tip,
       ex: pairs.map(([a, b]) => [a, b]),
       lvl: (lvlM && lvlM[1]) || n.cefr || '',
+      lv: n.lv || '',
     });
   }
   cov.grammarTip = tipN;
@@ -470,6 +474,7 @@ function newsBites(a, fmapOrder) {
       title: clean(h.title.replace(/^[–—-]\s*/, '')),
       d: a.date,
       c: a.cefr || '',
+      lv: a.lv || '',
       sv: fit.text,
       zh,
       words: wordsInText(fit.text, fmapOrder.fmap, fmapOrder.order, 8, 0),
@@ -496,6 +501,7 @@ function teaserBite(a, fmapOrder) {
     title: articleTitle(a),
     d: a.date,
     c: a.cefr || '',
+    lv: a.lv || '',
     sv: fit.text,
     zh,
     words: wordsInText(fit.text, fmapOrder.fmap, fmapOrder.order, 8, 3),
@@ -521,6 +527,7 @@ function dialogBites(a, fmapOrder) {
         title: articleTitle(a),
         d: a.date,
         c: a.cefr || '',
+        lv: a.lv || '',
         sv: '',
         zh: '',
         turns: win,

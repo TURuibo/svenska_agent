@@ -4,6 +4,7 @@ phrase: ""             # the Swedish phrase as written
 category: ""           # fast-uttryck | idiom | partikelverb | prepositionsuttryck | diskursmarkor | vardagsfras | ordsprak | situationsfras
 register: ""           # vardagligt | neutralt | formellt | slang
 frequency: 0           # 1-5
+cefr: ""               # A1 | A2 | B1 | B2（区间写 A2–B1）—— 这个词组整体的难度；🪜 Nivå 按它归级，留空就按 head_words 推断（≈）
 zh: ""
 en: ""
 literal: ""            # 字面意思 (if it differs)

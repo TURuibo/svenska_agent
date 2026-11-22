@@ -18,6 +18,7 @@ on:
       - 'tools/level-lib.js'
       - 'tools/vocab-progress.js'
       - 'profile/vocab-gaps.json'
+      - 'profile/niva-syllabus.md'
       - '.github/workflows/kb-site.yml'
   workflow_dispatch:
 

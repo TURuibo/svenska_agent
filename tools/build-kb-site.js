@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
+const LV = require('./level-lib');
 
 const repoRoot = path.resolve(__dirname, '..');
 const kbRoot = path.join(repoRoot, 'knowledge_base');
@@ -232,9 +233,47 @@ const notes = walkMarkdownFiles(kbRoot).map((filePath) => {
       note[key] = frontmatter[key];
     }
   }
+  // 🪜 level inputs (resolved below, once every note is known)
+  note._place = LV.noteLevel(frontmatter, body);
+  if (type === 'phrase') note._heads = [].concat(frontmatter.head_words || []).map((h) => String(h).trim()).filter(Boolean);
 
   return note;
 });
+
+// --- A2: 🪜 levels (tools/level-lib.js, site/niva/SPEC.md §4) ---
+// Every note gets `lv` (A1 | A2 | B1 | B2, '' when unknown). A phrase without its own `cefr` gets the
+// hardest of its head words, else the median of its sentences, marked `lvInf: 1`. Read by Sök's level
+// pills, Flöde and Nivå. A grammar point listed in profile/niva-syllabus.md takes the syllabus level.
+{
+  const syllabus = LV.loadSyllabus(repoRoot);
+  const wordRank = new Map();
+  const sentRank = new Map();
+  const phraseSents = new Map();
+  for (const n of notes) {
+    const r = LV.rankOf(n._place.lv);
+    if (n.type === 'word' && r) { wordRank.set(n.slug, r); if (n.lemma) wordRank.set(String(n.lemma).toLowerCase(), r); }
+    if (n.type === 'sentence') {
+      if (r) sentRank.set(n.slug, r);
+      for (const p of [].concat(n.phrases || [])) {
+        if (!phraseSents.has(p)) phraseSents.set(p, []);
+        phraseSents.get(p).push(n.slug);
+      }
+    }
+  }
+  for (const n of notes) {
+    n.lv = n._place.lv;
+    if (n.type === 'grammar' && syllabus.has(n.slug)) n.lv = syllabus.get(n.slug).lv;
+    if (!n.lv && n.type === 'phrase') {
+      const heads = n._heads.map((h) => wordRank.get(h) || wordRank.get(h.toLowerCase()) || 0);
+      const sents = [...new Set([].concat(n.sentences || [], phraseSents.get(n.slug) || []))].map((s) => sentRank.get(s) || 0);
+      const inf = LV.inferPhraseLevel(heads, sents);
+      n.lv = inf.lv;
+      n.lvInf = inf.inf;
+    }
+    delete n._place;
+    delete n._heads;
+  }
+}
 
 // --- B: Compute build-time backlinks by inverting the forward-link graph ---
 const backlinkMap = new Map(); // slug → Set of slugs that link TO it
@@ -285,6 +324,8 @@ const indexNotes = notes.map((note) => {
     if (Object.prototype.hasOwnProperty.call(note, key)) out[key] = note[key];
   }
   if (note.type === 'word' && note.forms && note.forms.length) out.forms = note.forms;
+  if (note.lv) out.lv = note.lv;
+  if (note.lvInf) out.lvInf = 1;
   // Short snippet for result rows (full excerpt/body stays out of the index).
   out.excerpt = (note.excerpt || '').slice(0, 140);
   // Lowercase compact search key: title + glosses + inflected forms, so typing

@@ -148,6 +148,11 @@ later. The `/kb` command and the librarian surface these as "stubs to create".
 
 `words`, `phrases`, `sentences`, `grammar` notes carry `known:` (true = 学习者已掌握，查词时只给一行
 确认，见 `sv-assess`) and `created:` (today's absolute date).
+
+**Level (required for new notes):** words, **phrases** and sentences carry `cefr:` (`A1` … `B2`; a range such
+as `A2–B1` is fine), grammar notes `level:`. 🪜 Nivå (`site/niva/`) files every note under its level with these
+fields (rules: `tools/level-lib.js`). Phrases written before 2026-11-22 mostly lack `cefr` — the build then
+infers ≈ the hardest head word's level — so always fill it in for new phrases, and `head_words:` too.
 Older notes may still carry unused SRS fields (`reviewed`, `review_count`, `ease`, `interval`) from the
 retired review workflow — leave them alone, don't add them to new notes.
 
