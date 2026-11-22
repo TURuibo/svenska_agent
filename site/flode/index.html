@@ -14,7 +14,7 @@
     <link rel="manifest" href="manifest.webmanifest" />
     <link rel="apple-touch-icon" href="apple-touch-icon.png" />
     <link rel="stylesheet" href="../styles.css?v=4" />
-    <link rel="stylesheet" href="flode.css?v=1" />
+    <link rel="stylesheet" href="flode.css?v=2" />
   </head>
   <body class="flBody" data-site="flode">
     <header class="flTop" id="flTop">
@@ -23,6 +23,7 @@
         <div class="flGoalBar"><span id="flGoalFill"></span></div>
         <span class="flGoalTxt" id="flGoalTxt">0/30</span>
         <span class="flStreak" id="flStreak">🔥 0</span>
+        <a class="flLv" id="flLv" href="../niva/" title="新卡跟随 Nivå 的当前级别（⚙︎ 设置里可以关）" hidden>🪜</a>
       </div>
       <button type="button" class="flTopBtn" id="flGear" title="设置" aria-label="设置" aria-haspopup="dialog">⚙︎</button>
     </header>
@@ -44,6 +45,10 @@
             <button type="button" data-goal="60" role="radio">60 张</button>
           </div>
         </div>
+        <label class="flSet flSetRow" id="flLvRow" hidden>
+          <span class="flSetLabel">🪜 跟随当前级别 <b id="flLvName"></b><small id="flLvHow"></small></span>
+          <input type="checkbox" id="flLvOn" class="flSwitch" />
+        </label>
         <label class="flSet flSetRow">
           <span class="flSetLabel">自动朗读<small>词卡 · 词组 · 一句话进入时自动读（盲听卡总会自动读）</small></span>
           <input type="checkbox" id="flAuto" class="flSwitch" />
@@ -71,7 +76,8 @@
 
     <script src="flode-data.js"></script>
     <script src="../speak.js?v=3"></script>
-    <script src="flode.js?v=1"></script>
+    <script src="../niva-focus.js?v=1"></script>
+    <script src="flode.js?v=2"></script>
     <script>
       window.addEventListener('load', function () {
         try {

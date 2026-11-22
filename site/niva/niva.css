@@ -170,6 +170,28 @@ a.nvRow:active, .nvRowMain:active { background: color-mix(in srgb, var(--green) 
   font: 600 12px/1.6 var(--cjk); vertical-align: 1px;
 }
 .nvText.done .nvRowT { color: var(--muted); }
+/* 缺材料 (SPEC §3.4): copyable generate commands */
+.nvGap { margin: 14px 0 6px; padding: 12px 14px; border: 1.5px dashed var(--line); border-radius: 16px; background: var(--panel); }
+.nvGap > p { margin: 0 0 9px; color: var(--ink); font-size: 13.5px; line-height: 1.65; }
+.nvGap > p.nvSmall { margin: 9px 0 0; color: var(--muted); font-size: 12.5px; }
+.nvGap code { font: 600 12.5px/1.4 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.nvCmds { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.nvCmd {
+  width: 100%; min-height: 48px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1px 10px; align-items: center;
+  padding: 7px 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--panel-soft); color: var(--ink);
+  font: inherit; text-align: left; cursor: pointer;
+}
+.nvCmd:hover { border-color: color-mix(in srgb, var(--green) 45%, var(--line)); }
+.nvCmd code { font-size: 13.5px; overflow-wrap: anywhere; }
+.nvCmdW { grid-column: 1; color: var(--muted); font: 12.5px/1.45 var(--cjk); }
+.nvCmdC { grid-column: 2; grid-row: 1 / span 2; font-size: 16px; }
+.nvCmd.copied { border-color: var(--green); }
+.nvCmd.copied .nvCmdC::after { content: "✓"; margin-left: 2px; color: var(--green); font-weight: 800; }
+/* 🎯 认识 N% (SPEC §4.5): in the i+1 band · too many new words · nearly all known */
+.nvFit { display: inline-block; padding: 0 7px; border-radius: 999px; font: 700 12px/1.6 var(--cjk); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.nvFit.fit { background: color-mix(in srgb, var(--green) 16%, transparent); color: var(--green-dark); }
+.nvFit.hard { background: color-mix(in srgb, var(--gold) 15%, transparent); color: var(--gold); }
+.nvFit.easy { background: var(--panel-soft); color: var(--muted); }
 
 /* grammar row: ○/✓ toggle + link */
 .nvGram { display: flex; align-items: flex-start; }

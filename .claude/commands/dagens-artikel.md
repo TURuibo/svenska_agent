@@ -1,6 +1,6 @@
 ---
 description: 生成今日一篇 lättläst 瑞典语阅读文章（按 day-of-year 轮换 8 种体裁：传记/国情/历史/传统/自然/地方/发明/科普）写入 inbox/（人读正文 + svensk-export 导入块），供 /import 入库
-argument-hint: "[YYYY-MM-DD] [genre 0-7]  —— 二者皆可选；定时任务会算好传入"
+argument-hint: "[YYYY-MM-DD] [genre 0-7] [A1|A2|B1] [题材]  —— 都可选；定时任务只传日期/体裁；🪜 Nivå 的缺材料卡片会传级别"
 allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 ---
 
@@ -11,8 +11,10 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 > 这是「阅读文章」线（叙述/说明文，配 Läsning 阅读站），区别于 `/dagens-scenario`（情景对话/功能文本）、
 > `/dagens-nyheter`（真实新闻）、`/dagens-horovning`（听力）。素材两段式格式与它们一致。
 
-参数 `$ARGUMENTS`：可含一个日期 `YYYY-MM-DD` 和一个 `0–7` 的体裁号（顺序不限，都可选）。
-**定时任务（headless）会把两者都算好传进来**，自动运行时无需任何计算。
+参数 `$ARGUMENTS`：可含一个日期 `YYYY-MM-DD`、一个 `0–7` 的体裁号、一个级别 `A1` / `A2` / `B1`（顺序不限，都可选），
+剩下的文字（如有）= 指定题材。按**整个词**识别：`A1` 是级别，不是体裁号 1。
+**定时任务（headless）会把日期和体裁算好传进来**（不传级别 → 默认 A1–A2），自动运行时无需任何计算。
+🪜 Nivå 的「缺材料」卡片会给出 `/dagens-artikel A1 3` 这样的命令：某一级自己的文章太少时，按那一级写一篇。
 
 ---
 
@@ -58,7 +60,14 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 ## 4. 写文章正文 (Write the article — SFI / lättläst 风格)
 
 - **语言**：简单瑞典语、短句。时态按体裁表（传记/历史用 preteritum；国情/自然/地方/科普用 presens）。
-- **篇幅**：约 **120–220 词**。CEFR **A1–A2**（适量 B1 词汇可接受，避免 B2）。
+- **篇幅 / 级别**：默认约 **120–220 词**，CEFR **A1–A2**（适量 B1 词汇可接受，避免 B2）。
+  参数给了级别时按那一级写，`CEFR 估计` 行就写那个级别（不写区间——Nivå 按这一行归级，区间会被放进低一级的「🌉 过渡」）：
+
+  | 级别 | 篇幅 | 写法 |
+  |---|---|---|
+  | `A1` | 80–140 词 | 几乎只用 presens（传记/历史可用最简单的 preteritum：var, hade, bodde, föddes）；句子 ≤ 10 词、不用从句；只用最常用的词，新词 ≤ 8 个 |
+  | `A2` | 120–220 词 | presens + preteritum；可用 och/men/för/eftersom/när 连接；新词 8–15 个 |
+  | `B1` | 200–300 词 | 时态混用（perfekt、pluskvamperfekt 可出现），bisats、对比和原因说明；新词 10–15 个 |
 - **词汇**：导出块一律 grundform（名词单数不定式、动词不定式、形容词原级）。
 
 ## 5. 写文件 (Write the inbox page)
@@ -72,7 +81,7 @@ allowed-tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep
 
 **类型 (type):** <genre>
 **来源 (source):** <"lättläst 改写" 或真实来源 URL>
-**CEFR 估计:** <A1–A2>
+**CEFR 估计:** <A1–A2；参数给了级别就写那个级别>
 **生成日期:** <DATE>
 
 ---

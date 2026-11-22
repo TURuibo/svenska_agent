@@ -6,7 +6,7 @@
  * answer from cache at once, refresh the cache in the background. Navigations fall
  * back to the cached index.html when offline. Bump CACHE_VERSION to drop all old caches.
  */
-const CACHE_VERSION = 1;
+const CACHE_VERSION = 2;
 const CACHE = `flode-v${CACHE_VERSION}`;
 
 self.addEventListener('install', () => self.skipWaiting());

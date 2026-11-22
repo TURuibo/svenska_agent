@@ -42,6 +42,12 @@
 #searchInput:focus { outline: none; border-color: var(--green); }
 
 .typePills { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 0; }
+/* 🪜 level pills (kb-index lv) */
+.levelPills { align-items: center; margin-top: 8px; }
+.levelPills[hidden] { display: none; }
+.levelLabel { font-size: 15px; }
+.levelButton { padding: 5px 10px; font-size: 13px; }
+.levelN { opacity: .75; font-variant-numeric: tabular-nums; }
 .statLine {
   font-family: var(--cjk);
   font-size: 12px;

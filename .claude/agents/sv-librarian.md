@@ -44,6 +44,8 @@ For each item:
    gloss, and its Relations section has all three of `- 词族:` / `- 同义词:` / `- 反义词:` with each
    word written as `[[slug]] (短中文)` (or `—`). Never leave the template placeholders
    (`{{forklaring}}`, `{{uttal}}`) or an empty `发音提示：` behind.
+3c. **Level on every new note** (SKILL §5): words, phrases and sentences get `cefr:` (A1–B2, or a range like
+   `A2–B1`), grammar notes `level:` — 🪜 Nivå files each note under it. Phrases need it too (most old ones lack it).
 4. **Link forward only** (SKILL §4): Write the links that belong naturally ON the note you are
    creating — sentence `words:`, `phrases:`, `grammar:`; phrase `head_words:`, `grammar:`; word
    `synonyms:`, `antonyms:`, `family:`, `topics:`. Do NOT open and edit OTHER existing notes just

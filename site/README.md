@@ -84,7 +84,7 @@ pages link in as `…/sok/#note=<slug>`, or open notes inline via the shared `KB
 
   | Section | Order | Links to | 「完成」 |
   |---|---|---|---|
-  | 📗 语法 | 核心 → 常用 → 细节 (by how many notes / articles link the point) | Sök note | ○ toggle 「学过」 (local) |
+  | 📗 语法 | 核心 = the syllabus `profile/niva-syllabus.md` in teaching order, then 常用 → 细节 (by how many notes / articles link the point) | Sök note | ○ toggle 「学过」 (local) |
   | 🔤 单词 | grouped by topic (biggest first), common words first (Kelly rank) | Sök note | `known: true`, Öva box ≥ 4, or Flöde 「😎 会了」 |
   | 🧩 词组 | grouped by kind (partikelverb, 介词短语 …) | Sök note | `known: true` or Flöde 「😎 会了」 |
   | 📖 阅读 / 🗣️ 情景 | easiest first (difficulty 1–5 within the level), 📐 drills and 🌉 ranges in their own groups | Läsning / Tala | 标为已读 |
@@ -109,18 +109,29 @@ pages link in as `…/sok/#note=<slug>`, or open notes inline via the shared `KB
   as `tools/level-lib.js`). Läsning and Tala get a 级别 dropdown (easiest first when a level is chosen), Lyssna a 级别
   dropdown over the episode list, Kurs level chips, Öva's level select defaults to it, and Dagbok shows a 🪜 card
   (level, progress, ▶ 下一步) from the summary Nivå leaves in `niva.state.v1`. A level picked on a page lasts for that
-  tab only; without a current level every page behaves as before.
+  tab only; without a current level every page behaves as before. **P2:** Flöde's 🆕 lane serves only the current
+  level (then the next one), everything else ≤ it except due Öva reviews (⚙︎ 「🪜 跟随当前级别」, on by default, shows
+  「🪜 A2」 in the top bar); Sök gets a row of level pills under the type pills (default 全部, 📌 marks the current level).
+  Both read the build-time `lv` in `kb-index.js` / `flode-data.js`.
+- **P2 extras on the level page**:
+
+  | Feature | What happens |
+  |---|---|
+  | 🎯 可读度 (i+1) | Each 阅读 / 情景 row shows 「认识 N%」 — the share of its words *he* knows (closed-class words + names, words he marked 会 / known / Öva box ≥ 4, every word of a level he has passed). 90–98 % is the i+1 band: a 「🎯 最适合你」 group lists the 3 best unread texts, and ▶ 下一步 picks the best one. Switched on once ≥ 100 words count as known. Data: `niva/data/<level>-texts.js` (token counts per text, 11–95 KB) |
+  | 缺材料 | A section with fewer than 10 texts of its own level (bridges and drills don't count), or no listening, ends with copyable commands: `/dagens-artikel <LV> 1\|3\|4` for 阅读, `/scenario dialog\|text\|story <LV> <topic>` for 情景 / 听力 (topics = where he has the most words left). B2 gets a note instead (the generators stop at B1) |
 - **Levels** come from one rule set, `tools/level-lib.js` (SPEC §4): CEFR from `cefr` / `level` / the 「级别:」 line /
   the article's `CEFR 估计` line; a range (A2–B1) lives at the end of its lower level as 🌉 bridge material;
   phrases without a level get the level of their hardest head word (shown as ≈); texts without one get a level
-  from their vocabulary.
+  from their vocabulary. `build-kb-site.js` writes the same result into `kb-index.js` (`lv`, plus `lvInf: 1` when
+  inferred) and lets the grammar syllabus override grammar levels, so Nivå, Sök and Flöde always agree.
 - **Text difficulty** (`build-reading-site.js`, new `reading-data.js` fields `lv` / `lvHi` / `lvInf` / `lix` / `n` /
   `over` / `d` / `up`): LIX + the share of words above the text's level, as a percentile within the level and
   page; ⬆ 偏难 = more than 1 word in 10 above the top of the text's declared level.
 - **Back links**: rows open Läsning / Tala / Lyssna / Kurs with `&from=<Nivå hash>&frompage=niva`, which shows
   「← 返回 Nivå」 there and lands back on the same row.
 - **Data**: `niva/niva-data.js` (~0.8 MB raw, ~170 KB gzip) plus one `niva/data/<level>.js` per level (en / IPA / forms /
-  examples / cloze sentences, 55–375 KB, loaded only by 过一遍 and 自测), all from `tools/build-niva-data.js`, run after
+  examples / cloze sentences, 55–375 KB, loaded only by 过一遍 and 自测) and one `niva/data/<level>-texts.js` (🎯 可读度,
+  loaded by the 阅读 / 情景 sections and ▶ 下一步), all from `tools/build-niva-data.js`, run after
   `build-reading-site.js`; gitignored, built by the Action. The page loads only those, `../speak.js` and `../read-sync.js`.
 - **localStorage**: `niva.state.v1` (current level, grammar 「学过」, 会 / 不会 marks, tests, passes, the unfinished run, last
   level / section, filters, the Dagbok summary). Writes `ova.state.v1` (不会 + test answers, Öva's own rules) and

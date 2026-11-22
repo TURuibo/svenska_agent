@@ -579,10 +579,16 @@ routine 第 0 步：node tools/activity-gate.js   （git fetch origin read-log �
 | `tools/build-niva-data.js` | 直接读 `knowledge_base/` + `listening/*.json`，文本级别取自 `reading-data.js`（所以要在 `build-reading-site.js` **之后**跑），生成 `site/niva/niva-data.js`。**gitignore，由 Action 构建**，routine 不碰、不提交 |
 | `niva.state.v1`（localStorage） | 当前级别、语法「学过」✓、会 / 不会、自测成绩、通关、中断的过一遍、上次位置、给 Dagbok 的摘要。「不会」和自测对错按 Öva 规则写进 `ova.state.v1`，「会」写 `flode.state.v1` 的 `mute`；读 `kurs.state.v1` / `ReadSync` 算进度 |
 | `site/niva/data/<级别>.js` | 每级的详情（英文、IPA、变形、例句、自测填空句），只在打开过一遍 / 自测时加载；和 `niva-data.js` 一样 **gitignore、由 Action 构建** |
+| `profile/niva-syllabus.md` | 语法课纲（P2）：每级按教学顺序列出核心语法点，可改级别。`level-lib.js` 的 `loadSyllabus()` 读它 → Nivå 的「核心」与顺序、kb-index 的语法级别（Sök / Flöde）。手改即可，Action 自动重建 |
+| 🎯 可读度 · `site/niva/data/<级别>-texts.js` | P2：按**你会的词**算每篇阅读 / 情景认识多少 %，90–98% 的标「🎯 最适合你」（i+1），▶ 下一步也推它；「会」的词 ≥ 100 个才开。gitignore、由 Action 构建 |
+| 缺材料卡片 | P2：某级自己的阅读 / 情景 < 10 篇（或没有听力）时，分区底部给可复制的命令：`/dagens-artikel <级别> <体裁号>` → 阅读，`/scenario dialog\|text\|story <级别> <话题>` → 情景（话题 = 本级没会的词最多的主题）。B2 不生成 |
+| Flöde / Sök 跟随 | P2：Flöde 🆕 车道只出当前级别（看完再下一级），其它卡 ≤ 当前级别，Öva 到期复习不过滤（⚙︎ 里可关）；Sök 多一排级别 pill（默认全部）。级别取 kb-index / flode-data 的 `lv`（与 Nivå 同一套规则） |
 | 返回链接 | 从 Nivå 打开的 Läsning / Tala / Lyssna / Kurs 显示「← 返回 Nivå」（`&from=<Nivå 的 hash>&frompage=niva`），回来落在原来那一行；Öva 支持 `#deck=all&level=A2` |
 
 > 规则 (a)：**新素材写对 `**CEFR 估计:**` 行，Nivå 就自动归级**——区间写成 `A2–B1`（别只写一个级别糊过去），不确定就不写，构建时会按用词推断（显示 ≈）。
+> 命令里点名了级别（`/scenario dialog A1 …`、`/dagens-artikel A1 3`）就只写那一个级别——写成区间会被放进低一级的「🌉 过渡」，补不上那一级。
 > 规则 (b)：Nivå 本身**不算** §4.9 的活跃（它没有「标为已读」）；在原页面读完标已读才算。
+> 规则 (c)：**新建的单词 / 词组 / 句子 / 语法笔记都要写 `cefr`**（词组模板已有这一行）；旧词组没写的由构建时按词推断（≈），不批量回填。
 
 ---
 
