@@ -13,26 +13,31 @@
 
 ## A1 · 入门（≈ SFI A）
 
-1. grammar-en-ord-ett-ord — en / ett 两类名词：先认清每个名词是哪一类
-2. grammar-obestämd-form — 不定形：en bil · ett hus
-3. grammar-bestämd-form — 定形：bilen · huset
-4. grammar-singular-plural — 单数和复数
-5. grammar-presens — 现在时：-r 结尾
-6. grammar-infinitiv — 不定式（词典形式）
-7. grammar-v2-ordfoljd — V2 语序：动词永远在第二位
-8. grammar-satsadverbial — inte / aldrig / alltid 放哪儿（改级别：笔记标 A2；「Jag talar inte svenska」是 A1 第一周就用的）
-9. grammar-ja-nej-fraga — 是非问句：动词放句首
-10. grammar-frageord — 疑问词 vad / vem / var / när / hur（改级别：笔记标 A1–A2，按 A1 教）
-11. grammar-det-finns — det finns：「有」（改级别：笔记标 A1–A2，按 A1 教）
-12. grammar-possessiva-pronomen — 物主代词 min / din / hans …
-13. grammar-modalt-hjalpverb-infinitiv — kan / vill / måste + 不定式（改级别：笔记标 A1–A2，按 A1 教）
-14. grammar-ska-infinitiv — ska + 不定式：打算、将来
-15. grammar-imperativ — 祈使句
-16. grammar-prepositioner-rum — 空间介词 i / på / under …（改级别：笔记标 A1–A2，按 A1 教）
-17. grammar-klockan-tidsuttryck — 几点钟：halv, kvart i, kvart över
-18. grammar-datum-och-tid — 日期和时间（改级别：笔记标 A1–A2，按 A1 教）
-19. grammar-genitiv-s — -s 属格：Annas bil
-20. grammar-sammansatt-ord — 复合词：最后一个词决定 en / ett
+1. grammar-uttal-och-stavning — 发音与拼写：长短元音 ↔ 双写辅音、sj / tj 音、软硬 k / g（2026-11-22 加）
+2. grammar-personliga-pronomen — 人称代词 jag / mig, du / dig, han / honom …（2026-11-22 加）
+3. grammar-en-ord-ett-ord — en / ett 两类名词：先认清每个名词是哪一类
+4. grammar-obestämd-form — 不定形：en bil · ett hus
+5. grammar-bestämd-form — 定形：bilen · huset
+6. grammar-singular-plural — 单数和复数
+7. grammar-presens — 现在时：-r 结尾
+8. grammar-infinitiv — 不定式（词典形式）
+9. grammar-v2-ordfoljd — V2 语序：动词永远在第二位
+10. grammar-satsadverbial — inte / aldrig / alltid 放哪儿（改级别：笔记标 A2；「Jag talar inte svenska」是 A1 第一周就用的）
+11. grammar-ja-nej-fraga — 是非问句：动词放句首
+12. grammar-korta-svar — 简短回答：Ja, det gör jag. / Nej, det har jag inte.（2026-11-22 加）
+13. grammar-frageord — 疑问词 vad / vem / var / när / hur（改级别：笔记标 A1–A2，按 A1 教）
+14. grammar-det-finns — det finns：「有」（改级别：笔记标 A1–A2，按 A1 教）
+15. grammar-possessiva-pronomen — 物主代词 min / din / hans …
+16. grammar-demonstrativa-pronomen — den här / den där + 定形：den här bilen（2026-11-22 加）
+17. grammar-modalt-hjalpverb-infinitiv — kan / vill / måste + 不定式（改级别：笔记标 A1–A2，按 A1 教）
+18. grammar-ska-infinitiv — ska + 不定式：打算、将来
+19. grammar-imperativ — 祈使句
+20. grammar-prepositioner-rum — 空间介词 i / på / under …（改级别：笔记标 A1–A2，按 A1 教）
+21. grammar-rakneord — 数词：0–1000、序数词、价格、年份（2026-11-22 加）
+22. grammar-klockan-tidsuttryck — 几点钟：halv, kvart i, kvart över
+23. grammar-datum-och-tid — 日期和时间（改级别：笔记标 A1–A2，按 A1 教）
+24. grammar-genitiv-s — -s 属格：Annas bil
+25. grammar-sammansatt-ord — 复合词：最后一个词决定 en / ett
 
 ## A2 · 基础（≈ SFI B；末尾几条 ≈ SFI C）
 
