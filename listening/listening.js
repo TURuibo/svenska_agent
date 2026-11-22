@@ -68,10 +68,48 @@
       epBackLink.textContent = '← 返回 Nivå';
       epBackLink.hidden = false;
     }
-    var wantedIdx = wantedId ? DATA.episodes.findIndex(function (e) { return e.id === wantedId; }) : -1;
-    if (wantedIdx < 0) { wantedIdx = 0; }
+    var wanted = wantedId ? DATA.episodes.filter(function (e) { return e.id === wantedId; })[0] : null;
+    setupLevel(wanted);
+    var shown = paintList(wanted ? wanted.id : '');
+    // Auto-load the deep-linked episode, else the newest one at the chosen level.
+    loadEpisode(wanted || shown[0] || DATA.episodes[0]);
+  }
 
-    DATA.episodes.forEach(function (ep, i) {
+  // 🪜 级别: episode level from its cefr ("A2–B1" → A2, same rules as Nivå). Defaults to Nivå's current
+  // level (../niva-focus.js); the choice is kept for this tab only.
+  var activeLevel = 'all';
+  var levelOf = function (ep) { return window.NivaFocus ? window.NivaFocus.home(ep.cefr) : ''; };
+  function setupLevel(wanted) {
+    var sel = document.getElementById('epLevelFilter');
+    if (!sel || !window.NivaFocus) return;
+    var focus = window.NivaFocus.get();
+    ['A1', 'A2', 'B1', 'B2'].forEach(function (lv) {
+      var n = DATA.episodes.filter(function (e) { return levelOf(e) === lv; }).length;
+      if (!n) return;
+      var o = document.createElement('option');
+      o.value = lv;
+      o.textContent = window.NivaFocus.label(lv) + (lv === focus ? ' 📌' : '') + ' (' + n + ')';
+      sel.appendChild(o);
+    });
+    var has = function (v) { return v === 'all' || !!sel.querySelector('option[value="' + v + '"]'); };
+    var saved = null;
+    try { saved = sessionStorage.getItem('lyssna.level.v1'); } catch (_e) { /* ignore */ }
+    activeLevel = saved && has(saved) ? saved : (focus && has(focus) ? focus : 'all');
+    if (wanted && activeLevel !== 'all' && levelOf(wanted) !== activeLevel) activeLevel = 'all';
+    sel.value = activeLevel;
+    sel.addEventListener('change', function () {
+      activeLevel = sel.value;
+      try { sessionStorage.setItem('lyssna.level.v1', activeLevel); } catch (_e) { /* ignore */ }
+      var on = document.querySelector('.epBtn.active');
+      paintList(on ? on.dataset.epId : '');
+    });
+  }
+  // (Re)draw the episode buttons for the chosen level without touching the player.
+  function paintList(activeId) {
+    var ul = document.getElementById('episodeItems');
+    ul.innerHTML = '';
+    var shown = DATA.episodes.filter(function (e) { return activeLevel === 'all' || levelOf(e) === activeLevel; });
+    shown.forEach(function (ep) {
       var li = document.createElement('li');
       var btn = document.createElement('button');
       btn.type = 'button';
@@ -81,6 +119,7 @@
         '<span class="epBtnMeta">' + escapeHtml(ep.date) + ' · ' + fmtDur(ep.duration) +
         ' · ' + ep.cueCount + ' 句<span class="epBtnRead"></span></span>';
       btn.dataset.readId = readId(ep);
+      btn.dataset.epId = ep.id;
       btn.addEventListener('click', function () {
         document.querySelectorAll('.epBtn').forEach(function (b) { b.classList.remove('active'); });
         btn.classList.add('active');
@@ -88,11 +127,16 @@
       });
       li.appendChild(btn);
       ul.appendChild(li);
-      if (i === wantedIdx) { btn.classList.add('active'); }
+      if (ep.id === (activeId || (shown[0] && shown[0].id))) { btn.classList.add('active'); }
     });
+    if (!shown.length) {
+      var li = document.createElement('li');
+      li.className = 'epEmpty';
+      li.textContent = '这一级还没有节目。';
+      ul.appendChild(li);
+    }
     paintRead();
-    // Auto-load the deep-linked episode, else the newest one.
-    loadEpisode(DATA.episodes[wantedIdx]);
+    return shown;
   }
 
   // ---- 已读 (synced via ../read-sync.js — the routines' activity signal) ----

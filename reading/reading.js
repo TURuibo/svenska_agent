@@ -687,6 +687,9 @@
   // Läsning filters (Tala keeps its sub-genre pills via activeKind):
   // 题材 genre, 主题 topic code (T01–T21, see profile/vocab-gaps.json), 🎯 focus-only.
   let activeGenre = 'all', activeTopic = 'all', focusOnly = false;
+  // 🪜 级别 (both pages): a.lv from tools/level-lib.js — "A2–B1" lives in A2 as a 🌉 bridge (a.lvHi).
+  // Defaults to Nivå's current level (site/niva-focus.js); a chosen level lists easiest first, like Nivå.
+  let activeLevel = 'all';
 
   // Deep link from another page: #article=<slug>&from=<anchor>&frompage=<forms|recap|niva>.
   // `from`/`frompage` let us offer a one-click jump back to where the reader came
@@ -718,6 +721,7 @@
       if (activeKind !== 'all' && facet(a) !== activeKind) return false;
       if (activeGenre !== 'all' && a.genre !== activeGenre) return false;
       if (activeTopic !== 'all' && a.topic !== activeTopic) return false;
+      if (activeLevel !== 'all' && a.lv !== activeLevel) return false;
       if (focusOnly && !(a.targets && a.targets.length)) return false;
       if (unreadOnly && isRead(a.slug)) return false;
       if (query && !a.searchText.includes(query)) return false;
@@ -725,11 +729,28 @@
     });
   }
 
+  // Easiest first inside a level: 🌉 bridges last, then difficulty 1–5 (build-reading-site.js), words above
+  // the level, LIX; texts without a measurement (drill pages) after the measured ones.
+  function byEase(a, b) {
+    const ov = (x) => (x.over == null ? 999 : x.over);
+    return ((a.lvHi ? 1 : 0) - (b.lvHi ? 1 : 0)) || ((a.d ? 0 : 1) - (b.d ? 0 : 1)) || ((a.d || 0) - (b.d || 0)) ||
+      (ov(a) - ov(b)) || ((a.lix || 0) - (b.lix || 0)) || a.title.localeCompare(b.title);
+  }
+  const levelText = (a) => (a.lv ? (a.lv === 'B2' ? 'B2+' : a.lv) + (a.lvHi ? '–' + (a.lvHi === 'B2' ? 'B2+' : a.lvHi) : '') : (a.cefr || ''));
+
   function renderList() {
-    const items = filtered();
+    let items = filtered();
+    if (activeLevel !== 'all') items = items.slice().sort(byEase);
     listEl.innerHTML = '';
+    if (activeLevel !== 'all') {
+      const hint = document.createElement('p');
+      hint.className = 'listHint';
+      const focus = window.NivaFocus ? window.NivaFocus.get() : '';
+      hint.textContent = `${activeLevel === focus ? '📌 ' : ''}${activeLevel === 'B2' ? 'B2+' : activeLevel} · 由易到难，🌉 过渡在最后 · 选「全部」看最新`;
+      listEl.appendChild(hint);
+    }
     if (items.length === 0) {
-      listEl.innerHTML = '<p class="listEmpty">没有匹配的文章。换个筛选试试？</p>';
+      listEl.insertAdjacentHTML('beforeend', '<p class="listEmpty">没有匹配的文章。换个筛选试试？</p>');
       return;
     }
     for (const a of items) {
@@ -766,7 +787,8 @@
       meta.className = 'cardMeta';
       const bits = [];
       if (a.date) bits.push(a.date);
-      if (a.cefr) bits.push(a.cefr);
+      if (levelText(a)) bits.push(levelText(a) + (a.lvHi ? ' 🌉' : ''));
+      if (activeLevel !== 'all' && a.d) bits.push('●'.repeat(a.d) + '○'.repeat(5 - a.d));
       if (a.dialog) bits.push(`🎭 ${a.dialog.speakers.length} 角色`);
       if (a.targets && a.targets.length) bits.push(`🎯 ${a.targets.length} 目标词`);
       if (!TALA && a.genre) bits.push(a.genre);
@@ -1118,6 +1140,31 @@
       focusOnly = true;
       focusBtn.classList.add('active');
     }
+  }
+  // 级别 dropdown: only levels that occur on this page; 📌 marks Nivå's current level. The choice is kept for
+  // this tab (sessionStorage), so a new visit starts again from the current level.
+  const levelSel = document.getElementById('levelFilter');
+  if (levelSel) {
+    const LS_LEVEL = TALA ? 'tala.level.v1' : 'lasning.level.v1';
+    const focus = window.NivaFocus ? window.NivaFocus.get() : '';
+    for (const lv of ['A1', 'A2', 'B1', 'B2']) {
+      const n = articles.filter((a) => a.lv === lv).length;
+      if (!n) continue;
+      levelSel.insertAdjacentHTML('beforeend', `<option value="${lv}">${lv === 'B2' ? 'B2+' : lv}${lv === focus ? ' 📌' : ''} (${n})</option>`);
+    }
+    const has = (v) => v === 'all' || !!levelSel.querySelector(`option[value="${v}"]`);
+    let saved = null;
+    try { saved = sessionStorage.getItem(LS_LEVEL); } catch (_e) { /* ignore */ }
+    activeLevel = saved && has(saved) ? saved : (focus && has(focus) ? focus : 'all');
+    // Opened straight on an article of another level (from Dagbok, Former …): show everything instead.
+    const linked = _h.article ? articles.find((x) => x.slug === _h.article) : null;
+    if (linked && activeLevel !== 'all' && linked.lv !== activeLevel) activeLevel = 'all';
+    levelSel.value = activeLevel;
+    levelSel.addEventListener('change', () => {
+      activeLevel = levelSel.value;
+      try { sessionStorage.setItem(LS_LEVEL, activeLevel); } catch (_e) { /* ignore */ }
+      renderList();
+    });
   }
   document.getElementById('filterUnread').addEventListener('click', (e) => {
     unreadOnly = !unreadOnly;

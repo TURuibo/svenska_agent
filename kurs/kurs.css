@@ -117,6 +117,13 @@ button { color: inherit; }
 .kuResumeT { font: 700 21px/1.25 var(--ku-sv); }
 .kuResumeP { font: 14px/1.4 var(--cjk); opacity: .92; }
 .kuList { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+/* 🪜 级别 chips above the lesson list (default = Nivå's current level) */
+.kuLvBar { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 12px; }
+.kuLvChip {
+  min-height: 40px; padding: 0 14px; border: 1.5px solid var(--line); border-radius: 999px; background: var(--panel);
+  color: var(--ink); font: 600 14px/1 var(--cjk); cursor: pointer;
+}
+.kuLvChip.on { border-color: var(--green); background: color-mix(in srgb, var(--green) 14%, var(--panel)); color: var(--green-dark); }
 .kuCard {
   display: flex; align-items: center; gap: 12px; width: 100%; padding: 14px 12px 14px 16px; text-align: left; cursor: pointer;
   border: 1px solid var(--line); border-radius: 16px; background: var(--panel); color: var(--ink);

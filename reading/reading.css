@@ -265,6 +265,11 @@
 .articleBody .studyCardBody > p:first-child { line-height: 1.7; }
 
 .listLoading, .listEmpty { font-family: var(--cjk); color: var(--muted); font-size: 14px; }
+/* 🪜 级别 filter on: one line above the list saying the order changed */
+.listHint {
+  margin: 0 0 8px; padding: 6px 10px; border-radius: 10px; background: var(--panel-soft);
+  color: var(--green-dark); font: 600 12.5px/1.5 var(--cjk);
+}
 
 /* 已读 marker */
 .cardRead { font-size: 11px; color: var(--green); font-weight: 600; margin-left: auto; }

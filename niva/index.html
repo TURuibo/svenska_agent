@@ -4,19 +4,21 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>Nivå — 按级别学 · svensk_agent</title>
-    <meta name="description" content="一级一级学瑞典语：A1、A2、B1、B2 每一级的语法、单词、词组、阅读、情景、听力和课文都在一页里，按顺序排好，带进度。" />
+    <meta name="description" content="一级一级学瑞典语：A1、A2、B1、B2 每一级的语法、单词、词组、阅读、情景、听力和课文都在一页里，按顺序排好，带进度；翻卡过一遍、自测、定级、通关。" />
     <meta name="theme-color" content="#f7f8f2" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#141a17" media="(prefers-color-scheme: dark)" />
     <link rel="stylesheet" href="../styles.css?v=4" />
-    <link rel="stylesheet" href="niva.css?v=1" />
+    <link rel="stylesheet" href="niva.css?v=2" />
   </head>
   <body class="nvBody" data-site="niva">
     <main id="nvMain" class="nvMain"></main>
+    <section id="nvLayer" class="nvLayer" role="dialog" aria-modal="true" aria-label="练习" hidden></section>
     <div class="nvToast" id="nvToast" role="status" aria-live="polite"></div>
 
     <script src="niva-data.js"></script>
+    <script src="../speak.js?v=3"></script>
     <script src="../read-sync.js?v=1"></script>
-    <script src="niva.js?v=1"></script>
+    <script src="niva.js?v=2"></script>
     <script src="../nav.js?v=9"></script>
   </body>
 </html>

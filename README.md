@@ -93,6 +93,23 @@ pages link in as `…/sok/#note=<slug>`, or open notes inline via the shared `KB
 
   Level progress = mean completion of the sections that have material at that level. The page also shows how
   many example sentences the level has and links 🔤 to `../ova/#deck=all&level=<lv>`.
+- **Studying a level (P1)** — all of it in a layer over the page (✕ / Back closes it):
+
+  | Feature | What happens |
+  |---|---|
+  | 📌 当前级别 | Set on a level page; the ladder shows it on top with its progress and ▶ 下一步, and the other pages follow it (below) |
+  | ▶ 过一遍 (`#lv=A2&run=words&g=<topic>`) | Flip cards per topic group (or `g=*`): think of the meaning, flip (IPA, en, forms, example, 🔊), then 😎 会 / 🤔 不会. 会 → counts as known here and mutes the word in Flöde; 不会 → due today in Öva. ↩ 撤销, keyboard (space / ← / → / Backspace), resumable. Phrases work the same (no Öva) |
+  | ▶ 下一步 | One suggestion at a time: the unfinished run, else whichever pass condition lags most (core grammar / a word group / the easiest unread text), then the self-test, listening, lessons, phrases |
+  | 🏁 自测 (`#lv=A2&test=1`) | 20 questions from the level: 8 sv→zh · 4 zh→sv · 3 en/ett · 5 sentence cloze; answers go into `ova.state.v1` |
+  | 🧭 定级 (`#place=A1`) | The same test from A1 up: ≥ 90 % marks the level 「✅ 定级通过」 and offers the next; below that, the level becomes the current one |
+  | 🏁 通关 | Words 会 ≥ 80 % · core grammar all + all grammar ≥ 70 % · half the (non-bridge) texts read · self-test ≥ 80 % → 「✅ 已通关」 and 「进入 B1」; never locks a level |
+  | 📋 复制结果给 CC | An `ova-results v1` block: Öva's rows + `- lemma \| slug x \| known \| date` + `level: A1 \| test 18/20 \| passed \| date`; `/ova` (`tools/ova-sync.js`) sets `known: true`, fills 已掌握 and adds 评估历史 rows in `profile/level.md` |
+
+- **Following the current level**: `site/niva-focus.js` (`NivaFocus.get()` / `home(cefr)` / `summary()`, same level rules
+  as `tools/level-lib.js`). Läsning and Tala get a 级别 dropdown (easiest first when a level is chosen), Lyssna a 级别
+  dropdown over the episode list, Kurs level chips, Öva's level select defaults to it, and Dagbok shows a 🪜 card
+  (level, progress, ▶ 下一步) from the summary Nivå leaves in `niva.state.v1`. A level picked on a page lasts for that
+  tab only; without a current level every page behaves as before.
 - **Levels** come from one rule set, `tools/level-lib.js` (SPEC §4): CEFR from `cefr` / `level` / the 「级别:」 line /
   the article's `CEFR 估计` line; a range (A2–B1) lives at the end of its lower level as 🌉 bridge material;
   phrases without a level get the level of their hardest head word (shown as ≈); texts without one get a level
@@ -102,10 +119,12 @@ pages link in as `…/sok/#note=<slug>`, or open notes inline via the shared `KB
   page; ⬆ 偏难 = more than 1 word in 10 above the top of the text's declared level.
 - **Back links**: rows open Läsning / Tala / Lyssna / Kurs with `&from=<Nivå hash>&frompage=niva`, which shows
   「← 返回 Nivå」 there and lands back on the same row.
-- **Data**: `niva/niva-data.js` (~0.8 MB raw, ~170 KB gzip) from `tools/build-niva-data.js`, run after
-  `build-reading-site.js`; gitignored, built by the Action. The page loads only that file and `../read-sync.js`.
-- **localStorage**: `niva.state.v1` (grammar 「学过」, last level / section, filters); reads `ova.state.v1`,
-  `flode.state.v1`, `kurs.state.v1` and ReadSync without writing them. Nivå does not count as §4.9 activity.
+- **Data**: `niva/niva-data.js` (~0.8 MB raw, ~170 KB gzip) plus one `niva/data/<level>.js` per level (en / IPA / forms /
+  examples / cloze sentences, 55–375 KB, loaded only by 过一遍 and 自测), all from `tools/build-niva-data.js`, run after
+  `build-reading-site.js`; gitignored, built by the Action. The page loads only those, `../speak.js` and `../read-sync.js`.
+- **localStorage**: `niva.state.v1` (current level, grammar 「学过」, 会 / 不会 marks, tests, passes, the unfinished run, last
+  level / section, filters, the Dagbok summary). Writes `ova.state.v1` (不会 + test answers, Öva's own rules) and
+  `flode.state.v1`'s `mute` (会); reads `kurs.state.v1` and ReadSync. Nivå does not count as §4.9 activity.
 
 ## Flöde (feed)
 

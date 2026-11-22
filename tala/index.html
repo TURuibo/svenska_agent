@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Tala — 口语练习</title>
     <link rel="stylesheet" href="../styles.css?v=4" />
-    <link rel="stylesheet" href="../reading/reading.css?v=17" />
+    <link rel="stylesheet" href="../reading/reading.css?v=18" />
     <link rel="stylesheet" href="tala.css?v=1" />
     <link rel="stylesheet" href="../kb-popover.css?v=4" />
   </head>
@@ -27,6 +27,10 @@
         <button type="button" class="kindFilter" data-kind="dialog">💬 对话</button>
         <button type="button" class="kindFilter" data-kind="text">✉️ 文本</button>
         <button type="button" class="kindFilter" data-kind="story">📖 故事</button>
+        <label class="filterSelect" title="按级别筛选（默认 = 🪜 Nivå 里的当前级别 📌）；选了级别就由易到难排">
+          <span class="filterLabel">级别</span>
+          <select id="levelFilter"><option value="all">全部</option></select>
+        </label>
         <span class="filterDivider" aria-hidden="true"></span>
         <button type="button" id="filterUnread" class="toggleBtn" title="只看未练">📖 未读</button>
         <button type="button" class="toggleBtn" data-readsync>☁️ 同步</button>
@@ -58,7 +62,8 @@
          fires as soon as reading.js opens the first scenario on load. -->
     <script src="tala.js?v=1"></script>
     <script src="../read-sync.js?v=1"></script>
-    <script src="../reading/reading.js?v=21"></script>
+    <script src="../niva-focus.js?v=1"></script>
+    <script src="../reading/reading.js?v=22"></script>
     <script src="../nav.js?v=9"></script>
   </body>
 </html>
