@@ -14,8 +14,8 @@ allowed-tools: Bash, Read, Glob
    - 若失败不要中断。
 
 2. **只暂存真实内容路径**（存在才加；绝不加 `inbox/`、`traces/`、`settings.local.json`，也别加 gitignore 的 viewer 数据文件）：
-   `git add -- knowledge_base profile imported listening .gitattributes`
-   （`knowledge_base/_index/slugs.json` 在 `knowledge_base/` 内会一并暂存。）
+   `git add -- knowledge_base profile imported listening skriva .gitattributes`
+   （`knowledge_base/_index/slugs.json` 在 `knowledge_base/` 内会一并暂存；`skriva/` = 写作专栏的体裁文件和 `/skriva` 批改过的作文。）
 
 3. **若无暂存改动 → 直接结束**并告诉用户"已是最新，无需同步"：
    `git diff --cached --quiet && echo NOTHING || echo STAGED`

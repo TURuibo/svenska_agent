@@ -1,11 +1,12 @@
 /* Shared site navigation — single source of truth for cross-page nav.
  *
- * Each page sets <body data-site="dagbok|niva|flode|reading|tala|listening|kurs|ova|forms|sok"> and loads
+ * Each page sets <body data-site="dagbok|niva|flode|reading|tala|listening|skriva|kurs|ova|forms|sok"> and loads
  * this script (./nav.js at the site root, ../nav.js from a sub-folder).
  * Öva (ova/) has no tab since 2026-11-15 — Flöde covers quick review — but the page
  * still loads this nav and stays reachable from links (e.g. Läsning's 🎯 去复习). Kurs (kurs/) got its
  * tab on 2026-11-15 right after Flöde; Nivå (niva/, by level) got one on 2026-11-21 right after
- * Dagbok (by date) — 9 tabs, which still fit one row at 360 px (38 px each). The script
+ * Dagbok (by date); Skriva (skriva/, the writing column) on 2026-11-23 after Lyssna, so the four skills
+ * sit together: Läsning · Tala · Lyssna · Skriva — 10 tabs, 36 px each at 360 px. The script
  * injects an identical nav into every page: a sticky top bar on desktop and a
  * fixed bottom tab bar on phones (styled by .siteNav rules in styles.css).
  *
@@ -26,6 +27,7 @@
     { id: 'reading', icon: '📖', label: 'Läsning', href: base + 'reading/' },
     { id: 'tala', icon: '🗣️', label: 'Tala', href: base + 'tala/' },
     { id: 'listening', icon: '🎧', label: 'Lyssna', href: base + 'listening/' },
+    { id: 'skriva', icon: '✍️', label: 'Skriva', href: base + 'skriva/' },
     { id: 'forms', icon: '📐', label: 'Former', href: base + 'forms/' },
     { id: 'sok', icon: '🔍', label: 'Sök', href: base + 'sok/' }
   ];

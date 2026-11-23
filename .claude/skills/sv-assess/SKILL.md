@@ -19,6 +19,10 @@ Maintain `profile/level.md`: the single source of truth for what Ruibo already k
     and join 已掌握 (tag 「Nivå 自评」); a passed self-test / placement adds a 评估历史 row
     (「Nivå 通关（自测 18/20）」/「Nivå 定级测试通过（19/20）」). These are evidence, not the overall band —
     weigh them in a full assessment, don't copy them into 总体水平 as-is.
+  - ✍️ corrected writing lives in `skriva/texter/*.md` (written by `/skriva`): each file has the learner's own
+    text, the corrections with an error type per row (`ordföljd`, `verbform`, …) and an `omdome`
+    (`klar` / `nästan` / `inte-än` against the SFI D writing requirement). This is the best evidence there is
+    for productive skills: error types that recur across texts belong under 弱点.
 
 ## 2. 评估方法 (How to assess)
 

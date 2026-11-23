@@ -21,6 +21,7 @@ site/kurs/kurs-index.js
 site/kurs/data/
 site/niva/niva-data.js
 site/niva/data/
+site/skriva/skriva-data.js
 
 # editor / OS
 .DS_Store
