@@ -504,9 +504,12 @@
       const taken = new Set([low]);
       const picks = [];
       const kin = pool.filter((x) => whole(x.chunk) === whole(answer));
+      // Options of about the answer's length, so the length alone never gives it away.
+      const nw = words(answer);
+      const near = (list) => shuffle(list).sort((x, y) => Math.abs(words(x.chunk) - nw) - Math.abs(words(y.chunk) - nw)).slice(0, 7);
       // Same kind as the answer and from other parts of the skeleton first (so the question is "which kind of
       // phrase goes here"), then the same kind from anywhere, then anything.
-      for (const tier of [kin.filter((x) => x.slot !== mine.slot), kin, pool]) {
+      for (const tier of [near(kin.filter((x) => x.slot !== mine.slot)), near(kin), pool]) {
         for (const x of shuffle(tier)) {
           const c = x.chunk.toLowerCase();
           if (picks.length >= 3) break;
