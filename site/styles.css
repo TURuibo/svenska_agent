@@ -736,7 +736,7 @@ mark {
     border-bottom: 0;
     border-top: 2px solid transparent;
     font-size: 11px;
-    min-width: 0; /* let the tabs shrink instead of overflowing */
+    min-width: 0; /* 8 tabs: let them shrink instead of overflowing */
   }
 
   .siteNavTab.active {
@@ -749,7 +749,7 @@ mark {
     font-size: 20px;
   }
 
-  /* narrow phones: tighten the label a little (6 tabs since 2026-11-23, ~60px each at 360px) */
+  /* 8 tabs on a 360px phone: ~45px each, so tighten the label a little */
   @media (max-width: 400px) {
     .siteNavTab {
       font-size: 10px;
