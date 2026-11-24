@@ -97,7 +97,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 - Sofia | 写信人的名字 | 只写名，不写姓
 - Maria | 写信人的名字 | 朋友之间不写全名
 
-## ⚖️ 对比 (Jämför)
+## ⚖️ 正式 vs 非正式 (Jämför)
 
 | | 💌 非正式 informellt | 🏛️ 正式 formellt |
 |---|---|---|

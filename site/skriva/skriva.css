@@ -209,6 +209,7 @@ body.skBody {
 .skDoing { margin: 0 0 3px; color: var(--muted); font-size: 13px; line-height: 1.6; }
 .skSv { margin: 0; font: 17px/1.8 var(--sk-sv); overflow-wrap: anywhere; }
 .skBlock.right .skSv { text-align: right; }
+.skBlock.title .skSv { font-size: 20px; font-weight: 700; line-height: 1.45; }
 .skHl {
   display: inline; margin: 0; padding: 1px 2px; border: 0; border-bottom: 2px solid var(--c); border-radius: 4px 4px 0 0;
   background: color-mix(in srgb, var(--c) 13%, transparent); color: inherit; font: inherit; text-align: inherit; cursor: pointer;

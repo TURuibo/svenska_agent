@@ -429,6 +429,7 @@ function buildGenre(fileName) {
       slots,
       phrases,
       compare: co ? co.lines.join('\n').trim() : '',
+      compareT: co ? co.h.replace(/\s*[（(][^（）()]*[）)]\s*$/, '').trim() : '',
       texts,
       more: parseMore(mo ? mo.lines : [], file),
       tasks,

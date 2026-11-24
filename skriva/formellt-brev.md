@@ -100,7 +100,7 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 - Annchi Fang | Annchi Fang | 全名：名 + 姓
 - Akberet Tesfamariam i Hallonbergen | Hallonbergen 的 Akberet Tesfamariam | 加上 i + 住的地方：说明你是当地居民
 
-## ⚖️ 对比 (Jämför)
+## ⚖️ 正式 vs 非正式 (Jämför)
 
 | | 💌 非正式 informellt | 🏛️ 正式 formellt |
 |---|---|---|

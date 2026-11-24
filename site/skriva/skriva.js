@@ -231,7 +231,7 @@
       h += '</details></li>';
     }
     h += '</ol>';
-    if (g.compare && MD) h += `<section class="skCompare"><h3>⚖️ 正式 vs 非正式</h3><div class="skTableWrap">${MD.mdToHtml(g.compare)}</div></section>`;
+    if (g.compare && MD) h += `<section class="skCompare"><h3>${esc(g.compareT || '⚖️ 对比')}</h3><div class="skTableWrap">${MD.mdToHtml(g.compare)}</div></section>`;
     if (arr(g.grammar).length) {
       h += '<p class="skRel">📗 相关语法笔记：' + g.grammar.map((x) =>
         `<a class="skLink" href="../sok/#note=${enc(x.slug)}">${esc(x.zh || x.name)}</a>`).join(' · ') + '</p>';
@@ -285,12 +285,19 @@
     const n = words(draftOf(g, u));
     return n ? `<span>草稿 ${n} 词</span>` : '';
   }
+  // "📄 仿 s. 3": which model text a task follows (its handout page when the sheet names one).
+  function modelChip(g, u) {
+    const t = u.model ? textOf(g, u.model) : null;
+    if (!t) return '';
+    const pg = str(t.sheet).match(/s\.\s*\d+/);
+    return `<span>📄 仿${pg ? ` ${esc(pg[0])}` : '范文'}</span>`;
+  }
   function skrivHtml(g) {
-    let h = '<p class="skHint">从 U1 开始：前两道和范文是同一种题，照着骨架写；后两道换了情境。写完复制给 CC 批改。</p><ul class="skTasks">';
+    let h = '<p class="skHint">从 U1 开始。标着「📄 仿」的题和那篇范文是同一种题，照着它的骨架写；其它的换了情境。写完复制给 CC 批改。</p><ul class="skTasks">';
     for (const u of arr(g.tasks)) {
       h += `<li><a class="skTaskCard" href="${uHash(g, u)}" data-nav><span class="skUId">${esc(u.id)}</span>` +
         `<span class="skTTxt"><span class="skTT" lang="sv">${esc(u.sv)}</span><span class="skGZh">${esc(u.zh)}</span>` +
-        `<span class="skMeta">${u.cefr ? `<span>${esc(u.cefr)}</span>` : ''}<span>${u.len[0]}–${u.len[1]} ord</span>${taskState(g, u)}</span></span>` +
+        `<span class="skMeta">${u.cefr ? `<span>${esc(u.cefr)}</span>` : ''}<span>${u.len[0]}–${u.len[1]} ord</span>${modelChip(g, u)}${taskState(g, u)}</span></span>` +
         '<span class="skGo" aria-hidden="true">→</span></a></li>';
     }
     return h + '</ul>';
@@ -359,7 +366,7 @@
     h += `<article class="skPaper${v.struct ? ' struct' : ''}">`;
     for (const b of arr(t.blocks)) {
       const s = slotOf(g, b.slot);
-      h += `<div class="skBlock ${cClass(b.slot)}${s && /datum/i.test(s.sv) ? ' right' : ''}">` +
+      h += `<div class="skBlock ${cClass(b.slot)}${s && /datum/i.test(s.sv) ? ' right' : ''}${s && /rubrik/i.test(s.sv) ? ' title' : ''}">` +
         (v.struct ? `<div class="skLabel">${slotLabel(g, b)}</div>${b.what ? `<p class="skDoing">${inline(b.what)}</p>` : ''}` : '') +
         `<p class="skSv" lang="sv">${blockHtml(g, b, v.phr)}</p>` +
         (v.zh && b.zh ? `<p class="skZhLine">${svLines(b.zh)}</p>` : '') + '</div>';
@@ -447,7 +454,7 @@
   }
   const drillable = (chunk) => !/\d/.test(chunk) && (/\s/.test(chunk.trim()) || chunk.replace(/[^A-Za-zÅÄÖåäö]/g, '').length >= 6);
   const ABBR = /(?:^|[^A-Za-zÅÄÖåäö])(?:t\.ex|bl\.a|d\.v\.s|m\.m|o\.s\.v|f\.d|s\.k|kl|ca|nr)\.$/i;
-  // [start, end) of the sentence around [at, at+len) inside `text`; also returns the sentence before it.
+  // [start, end) of the sentence around [at, at+len) inside `text`; also returns the sentences before and after it.
   function sentenceAt(text, at, len) {
     const cuts = [0];
     const re = /[.!?…]+["”’)]*(?=\s|$)|\n+/g;
@@ -464,7 +471,12 @@
     while (j < cuts.length - 1 && cuts[j] < at + len) j += 1;
     let a = cuts[i];
     while (a < at && /\s/.test(text[a])) a += 1;
-    return { a, b: cuts[j], prev: i > 0 ? text.slice(cuts[i - 1], cuts[i]).trim() : '' };
+    // Nearest non-blank neighbours (a line break makes an empty piece between two lines).
+    let prev = '';
+    for (let k = i; k > 0 && !prev; k -= 1) prev = text.slice(cuts[k - 1], cuts[k]).trim();
+    let next = '';
+    for (let k = j; k < cuts.length - 1 && !next; k += 1) next = text.slice(cuts[k], cuts[k + 1]).trim();
+    return { a, b: cuts[j], prev, next };
   }
   // Every highlight that makes a fair question: a real phrase (not a date / name / greeting), once per phrase.
   function clozeItems(g, t) {
@@ -491,25 +503,36 @@
   function startFraser(g, t) {
     let items = clozeItems(g, t);
     if (items.length > 6) items = shuffle(items).slice(0, 6).sort((x, y) => x.bi - y.bi || x.start - y.start);
-    const pool = arr(g.phrases).map((p, pi) => ({ pi, slot: p.slot, chunk: chunkOf(p.sv) }))
+    // The fixed stretch of a phrase is a whole sentence ("Hoppas att det löser sig!"), the end of one
+    // ("… tycker jag."), the start of one ("Du skulle kunna …") or a piece from the middle ("… så att …").
+    // Options are of the answer's kind first, so they all look possible in the gap.
+    const kindOf = (p, chunk) => {
+      const sv = str(p.sv);
+      if (/[.!?]$/.test(chunk)) return /…|\.\.\./.test(sv) ? 'tail' : 'whole';
+      return sv.toLowerCase().startsWith(chunk.toLowerCase()) ? 'head' : 'mid';
+    };
+    const SIBLING = { whole: 'tail', tail: 'whole', head: 'mid', mid: 'head' };
+    const pool = arr(g.phrases).map((p, pi) => { const chunk = chunkOf(p.sv); return { pi, slot: p.slot, chunk, kind: kindOf(p, chunk) }; })
       .filter((x) => x.chunk && drillable(x.chunk) && !isFrame(slotOf(g, x.slot)));
     const qs = items.map((item) => {
       const b = t.blocks[item.bi];
       const answer = str(b.sv).substr(item.start, item.len);
       const low = answer.toLowerCase();
       const mine = arr(g.phrases)[item.pi];
+      // Every option starts the way the answer does (capital or not), so the letter case never gives it away.
       const upper = /^[A-ZÅÄÖ]/.test(answer);
-      const whole = (c) => /[.!?]$/.test(c);   // a complete sentence ("Hoppas att det löser sig!") vs a part of one
-      const fit = (c) => (whole(c) || upper ? c.charAt(0).toUpperCase() + c.slice(1) : c.charAt(0).toLowerCase() + c.slice(1));
+      const fit = (c) => (upper ? c.charAt(0).toUpperCase() : c.charAt(0).toLowerCase()) + c.slice(1);
+      const kind = kindOf(mine, chunkOf(mine.sv));
       const taken = new Set([low]);
       const picks = [];
-      const kin = pool.filter((x) => whole(x.chunk) === whole(answer));
+      const kin = pool.filter((x) => x.kind === kind);
+      const cousins = pool.filter((x) => x.kind === SIBLING[kind]);
       // Options of about the answer's length, so the length alone never gives it away.
       const nw = words(answer);
       const near = (list) => shuffle(list).sort((x, y) => Math.abs(words(x.chunk) - nw) - Math.abs(words(y.chunk) - nw)).slice(0, 7);
       // Same kind as the answer and from other parts of the skeleton first (so the question is "which kind of
-      // phrase goes here"), then the same kind from anywhere, then anything.
-      for (const tier of [near(kin.filter((x) => x.slot !== mine.slot)), near(kin), pool]) {
+      // phrase goes here"), then the same kind from anywhere, then the nearest other kind, then anything.
+      for (const tier of [near(kin.filter((x) => x.slot !== mine.slot)), near(kin), near(cousins), pool]) {
         for (const x of shuffle(tier)) {
           const c = x.chunk.toLowerCase();
           if (picks.length >= 3) break;
@@ -546,11 +569,14 @@
     const done = F.picked >= 0;
     const p = arr(g.phrases)[q.item.pi];
     const gap = done ? `<b class="skGapDone">${esc(q.answer)}</b>` : '<span class="skGap" aria-label="空">＿＿＿＿</span>';
+    const before = sv.slice(s.a, q.item.start);
+    const after = sv.slice(q.item.start + q.item.len, s.b);
     h += `<div class="skLyBar" aria-hidden="true"><span style="width:${Math.round((F.i / F.qs.length) * 100)}%"></span></div>` +
       `<p class="skQNo">第 ${F.i + 1} / ${F.qs.length} 题</p>` +
       `<div class="skQ ${cClass(b.slot)}"><div class="skLabel">${slotLabel(g, b)}</div>` +
       (s.prev ? `<p class="skQPrev" lang="sv">${esc(s.prev)}</p>` : '') +
-      `<p class="skQSv" lang="sv">${svLines(sv.slice(s.a, q.item.start))}${gap}${svLines(sv.slice(q.item.start + q.item.len, s.b))}</p></div>` +
+      `<p class="skQSv" lang="sv">${svLines(before)}${gap}${svLines(after)}</p>` +
+      (!before.trim() && !after.trim() && s.next ? `<p class="skQPrev" lang="sv">${esc(s.next)}</p>` : '') + '</div>' +
       '<div class="skOpts">' + q.opts.map((o, i) => {
         const cls = !done ? '' : o === q.answer ? ' ok' : i === F.picked ? ' bad' : ' dim';
         return `<button type="button" class="skOpt${cls}" data-act="opt" data-i="${i}" lang="sv"${done ? ' disabled' : ''}>${esc(o)}</button>`;
