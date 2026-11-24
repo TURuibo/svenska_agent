@@ -147,9 +147,9 @@ same text as a writer: what each part is doing, which phrases can be reused, and
 | View | What it does |
 |---|---|
 | Home (`#`) | One card per genre (💌 informellt brev · 🏛️ formellt brev · 📝 text om ett ämne) with progress, 📂 我的作文 and the most frequent error types |
-| 🧱 骨架 (`#g=<key>&tab=mall`) | The genre from top to bottom: every part of the skeleton says what goes there and lists its phrases (🔊); letters also show a formal / informal comparison |
+| 🧱 骨架 (`#g=<key>&tab=mall`) | The genre from top to bottom: every part of the skeleton says what goes there and lists its phrases (🔊); a comparison table closes the tab (formal vs informal for the letters, letter vs text for the topic text) |
 | 📄 范文 (`#g=<key>&t=<slug>`) | A model text taken apart: the task, then each block coloured by skeleton part with a line on what the writer is doing, reusable phrases underlined (tap → 中文 + usage); toggles 🏷️ 结构 · 🖍️ 句型 · 🇨🇳 翻译; ✓ 标为已读 is the same mark as Läsning |
-| 🧩 练习 | Generated from the annotations, no extra content: **排结构** (reorder the shuffled blocks; judged by skeleton part) and **填句型** (six gaps, four options each, distractors from other parts of the skeleton) |
+| 🧩 练习 | Generated from the annotations, no extra content: **排结构** (reorder the shuffled blocks; judged by skeleton part) and **填句型** (six gaps, four options each; the options are of the answer's kind and letter case, preferably from other parts of the skeleton) |
 | ✍️ 写 (`#g=<key>&u=U1`) | A writing task: situation + requirements to tick, skeleton hints whose phrases drop into the text at the cursor, an autosaving editor with a word count, a checklist, and 📋 复制给 CC 批改 |
 | 📂 我的作文 (`#mina`) | Texts corrected by `/skriva`: corrections sentence by sentence with an error type, the corrected text, the original, how the task was met, and a summary |
 
@@ -160,6 +160,8 @@ same text as a writer: what each part is doing, which phrases can be reused, and
   required task fields) and lists the phrases that occur in no model text.
 - **localStorage**: `skriva.state.v1` (drafts, ticked requirements / checklist items, drill results, view toggles, last
   tab). Drafts stay on the device; a text reaches the repo only through 📋 → `/skriva`.
+- **Entry from Läsning**: an article that a genre file names under 「📄 范文」 shows 「✍️ 在写作专栏看这篇怎么写 →」
+  (`build-reading-site.js` scans `skriva/*.md` and sets the article's `skriva` field to the genre key).
 
 ## Flöde (feed)
 

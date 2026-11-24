@@ -504,7 +504,28 @@ function buildListeningIndex() {
   return bySlug;
 }
 
+// Reverse index of the ✍️ Skriva genre guides (skriva/<genre>.md): a text named under
+// "## 📄 范文" is a writing model text, so the article gets a jump link to its breakdown
+// in the writing column (site/skriva/SPEC.md §3).
+function buildSkrivaIndex() {
+  const dir = path.join(repoRoot, 'skriva');
+  const bySlug = {};
+  if (!fs.existsSync(dir)) return bySlug;
+  for (const name of fs.readdirSync(dir).sort()) {
+    if (!name.endsWith('.md') || name.startsWith('_')) continue;
+    let inModels = false;
+    for (const line of fs.readFileSync(path.join(dir, name), 'utf8').split(/\r?\n/)) {
+      const h2 = line.match(/^##\s+(.*)$/);
+      if (h2) { inModels = /范文|Modelltext/i.test(h2[1]) && !/更多|Fler/i.test(h2[1]); continue; }
+      const m = inModels ? line.trim().match(/^###\s+(\S+)\s*$/) : null;
+      if (m && !bySlug[m[1]]) bySlug[m[1]] = name.replace(/\.md$/, '');
+    }
+  }
+  return bySlug;
+}
+
 const listeningBySlug = buildListeningIndex();
+const skrivaBySlug = buildSkrivaIndex();
 const vocab = buildVocab();
 const topicLabels = loadTopicLabels();
 
@@ -604,6 +625,7 @@ for (const src of SOURCES) {
       path: path.relative(repoRoot, filePath).split(path.sep).join('/'),
       counts,
       listening: listeningBySlug[slug] || null,
+      skriva: skrivaBySlug[slug] || '',
       itemTotal: counts.words + counts.phrases + counts.sentences + counts.grammar,
       items,
       ...levelFields(kind, body, items, bodyMeta, frontmatter),

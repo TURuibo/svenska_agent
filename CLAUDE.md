@@ -604,6 +604,7 @@ Skriva 只看「写」。设计、文件格式、数据契约见 `site/skriva/SP
 | `tools/build-skriva-data.js` | 读 `skriva/*.md` + `skriva/texter/*.md` + `imported/<slug>.md` → `site/skriva/skriva-data.js`。**gitignore，由 Action 构建**，routine 不碰、不提交；`--check` 逐项对账（骨架序号、范文表每一行对正文每一块、原文和翻译块数、写作题必填项） |
 | `/skriva` → `skriva/texter/<日期>-<体裁>-<题号>.md` | 批改过的作文：原文、改后全文、逐句修改表（类型只用 10 个：`ordföljd` `verbform` `substantiv` `adjektiv` `preposition` `ordval` `stavning` `skiljetecken` `struktur` `stil`）、任务完成情况、总评、`omdome`（`klar` / `nästan` / `inte-än`）。页面的「📂 我的作文」和「常错类型」从这里来；`/assess` 把它当写作水平的证据 |
 | `skriva.state.v1`（localStorage） | 草稿、打过的勾、练习成绩、显示开关。**草稿只在这台设备**；作文只有经「📋 复制给 CC」→ `/skriva` 才进仓库。范文「标为已读」用 `ReadSync`，与 Läsning 是同一个标记 |
+| Läsning 入口 | 在体裁文件「📄 范文」里点名的文章，Läsning 页顶部多一条「✍️ 在写作专栏看这篇怎么写 →」（`build-reading-site.js` 扫 `skriva/*.md`，给文章加 `skriva` = 体裁 key；文章里不用写任何东西） |
 
 > 规则 (a)：**`skriva/*.md` 的格式被 `tools/build-skriva-data.js` 机器解析**。改过任何一个体裁文件，或录入了新的写作范文（把它加进对应体裁的「📄 范文」），
 > 发布前跑 `node tools/build-skriva-data.js --check`，有 ❌ 先修再发。句型里固定的那一段要和范文原文一字不差，范文里才会高亮。
