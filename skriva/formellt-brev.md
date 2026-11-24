@@ -18,47 +18,57 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 ### 1. Plats + datum · 地点和日期
 写什么: 信：右上角一行，地名 + 日期。邮件（mejl）没有这一行，改成填主题栏（Ämne）：用几个词说清你要讲什么。
 #### I ett brev · 写信时
-- Hallonbergen 2017-05-24 | Hallonbergen，2017 年 5 月 24 日 | 地名 + 年-月-日；年份也可以只写两位：19-06-28
+- Hallonbergen 2017-05-24 | Hallonbergen，2017 年 5 月 24 日 | 地名 + 年-月-日；讲义 s. 5 把年份写成两位（19-06-28），自己写用四位
 #### I ett mejl · 写邮件时
 - Ämne: Klara klimatmålen – förslag | 主题：实现气候目标——建议 | 话题 + 「这是一条建议」，几个词就够
 
 ### 2. Hälsningsfras · 开头问候
-写什么: 单独一行：Hej + 单位的名字；不知道谁会读，就只写 Hej 加逗号。正式信也用 Hej，Kära 是写给亲近的人的。
+写什么: 单独一行：Hej + 单位的名字；不知道谁会读，就只写 Hej。后面用感叹号最省事（下一行大写开头）；用逗号的话，规范写法是下一行小写开头（课本 s. 98：jag är pappa …），像讲义 s. 5 那样大写也常见。正式信也用 Hej，Kära 是写给亲近的人的。
 - Hej skolans ledning, | 学校领导们好： | Hej + 单位，后面用逗号
-- Hej Sundbybergs kommun! | Sundbyberg 市政府，你们好！ | 后面也可以用感叹号
-- Hej, | 您好， | 不知道读信的人是谁时用
+- Hej Sundbybergs kommun! | Sundbyberg 市政府，你们好！ | 用感叹号最省事：下一行大写开头
+- Hej, | 您好， | 不知道读信的人是谁时用；逗号后下一行小写开头
 
 ### 3. Inledning · 开头
-写什么: 两三句：为什么写这封信（读到了什么、对方问了什么），你是谁。自我介绍也可以像范文那样放在主体第一段的开头。
+写什么: 两三句：为什么写这封信（读到了什么、对方问了什么），你的立场或担心。讲义的两封信把自我介绍放在主体的第一句；短邮件（课本 s. 98）一开头就说自己是谁。
 #### Säga varför du skriver · 说明为什么写
 - Vad positivt att …! | ……，这真好！ | 对方来征求意见时，先肯定一句
 - Jag har flera förslag som jag skulle vilja framföra. | 我有几条建议想提出来。 | 预告下面要讲什么
 - Igår läste jag i tidningen att … | 昨天我在报纸上读到…… | Igår 在句首，所以是 läste jag
+- Jag vill säga att jag tycker att … | 我想说，我认为…… | 在开头就亮明立场
 - Därför skriver jag till er. | 所以我给你们写信。 | 放在开头一段的最后一句
 - Jag oroar mig för … | 我为……担心 | 说出让你写信的那件事
+- Om vi ska … måste vi … | 如果我们要……，就必须…… | 点出问题有多急；om 从句在前，主句先动词：måste vi
 - Jag skriver till er för att … | 我给你们写信是为了…… | för att + 不定式：för att berätta vad jag tycker
-#### Presentera dig · 介绍自己
-- Jag heter … och … | 我叫……，我…… | 名字 + 一件有关的事：studerar på D-kursen
+#### Presentera dig i ett mejl · 邮件里先介绍自己
 - Jag är pappa till … | 我是……的爸爸 | 说一个和话题有关的身份；mamma 同理
 
 ### 4. Huvuddel · 主体
-写什么: 最长的部分，一到三段。提建议：一条建议一段，后面马上跟理由或例子。表达意见：先说意见和理由，再承认对方、反驳、给出另一个办法。
+写什么: 最长的部分，一到三段。第一句可以先介绍自己（讲义的两封信都这样）。提建议：一条建议一段，后面马上跟理由或例子。表达意见：先说意见和理由，再承认对方、反驳、给出另一个办法。
+#### Presentera dig · 介绍自己
+- Jag heter … och … | 我叫……，我…… | 名字 + 一件有关的事：studerar på D-kursen
 #### Ge förslag · 提建议
 - Mitt förslag är att … | 我的建议是…… | 最直接的说法，放在一段的第一句
 - Därför föreslår jag att … | 所以我建议…… | 先说缺什么，再用它提建议；Därför 后先动词
-- Jag tror att … skulle bli ännu bättre om … | 我认为如果……，……会更好 | om 后面用过去时：om kurserna hade
-- … skulle kunna … | ……可以…… | skulle kunna + 不定式：说建议具体怎么做
+- Jag tror att … skulle bli ännu bättre om … | 我认为如果……，……还会更好 | om 后面用过去时：om kurserna hade
+- … skulle kunna … | ……可以…… | skulle kunna + 不定式：说建议怎么做，或实行后别人能做什么
 - Jag tycker att ni ska … | 我认为你们应该…… | 也用来给对方另一个办法
+- Därför skulle det vara bra med … | 所以有……会很好 | 段尾把建议再说一遍；Därför 后先动词
 #### Säga din åsikt · 表达意见
-- Jag vill säga att jag tycker att … | 我想说，我认为…… | 一开始就亮明立场
-- Jag tycker inte att ni ska … | 我认为你们不应该…… | inte 跟着 tycker，不放进 att 从句
+- Jag tycker inte att ni ska … | 我认为你们不应该…… | inte 跟着 tycker 最自然；放进从句（att ni inte ska）也对
 - Jag är mycket nöjd med … | 我对……很满意 | 提意见之前，先说好的地方
 #### Motivera · 给理由
-- … eftersom … | ……，因为…… | = därför att；后面是从句：主语 + (inte) + 动词
+- … eftersom … | ……，因为…… | 后面是从句：主语 + (inte) + 动词
+- … därför att … | ……，因为…… | = eftersom；注意不是 Därför（所以）
 - En anledning är att … | 原因之一是…… | 给出第一个理由
 - Dessutom … | 此外…… | 再加一个理由；后面先动词：Dessutom ligger
 - …, vilket är bra för … | ……，这对……有好处 | vilket 指前面整句话；前面加逗号
+- Det tror jag … | 我认为这…… | Det 指刚说的事，提到句首，所以是 tror jag：Det tror jag är bra
+#### Ge exempel · 举例子
+- … t.ex. … | 比如…… | = till exempel；范文：På vintern kan de t.ex. åka pulka.
+#### Beskriva resultatet · 说结果
 - Det skulle göra det lättare för … att … | 这会让……更容易（做）…… | 说建议带来的好处
+- Mitt förslag skulle göra det … för … | 我的建议会让……更…… | det + 比较级：lönsammare för företagarna
+- Då skulle det bli lättare för … att … | 这样……（做）……就会更容易 | Då = 这样一来；后面先动词
 #### Räkna upp · 一条一条列
 - En annan sak som jag tycker saknas … är … | 我觉得……还缺少的另一样东西是…… | 引出第二条
 - Sist men inte minst … | 最后但同样重要的是…… | 引出最后一条；后面先动词：undrar jag
@@ -78,8 +88,8 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 ### 5. Avslutning · 结尾
 写什么: 一两句：感谢对方读信，说你希望对方做什么。可以呼应开头，再呼吁一次。
 #### Tacka · 感谢
-- Tack för att ni har läst mitt brev. | 感谢你们读了我的信。 | Tack för att + 完整的句子
-- Jag uppskattar att … | 我很感激…… | 比 tack 正式；后面是一个完整的句子
+- Tack för att ni har läst mitt brev. | 感谢你们读了我的信。 | Tack för att + 从句（主语 + 动词）
+- Jag uppskattar att … | 我很感激…… | 比 tack 正式；后面是 att 从句（主语 + 动词）
 - Tack på förhand! | 先谢谢你们！ | 请对方做了一件事之后用
 #### Säga vad du hoppas · 说出期望
 - Jag hoppas att ni … | 我希望你们…… | 说你希望对方做什么
@@ -87,7 +97,6 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 - Jag hoppas att ni överväger mitt förslag. | 希望你们能考虑我的建议。 | 提建议的信可以这样收尾；överväga 很正式
 - Jag ser fram emot ert svar. | 期待你们的答复。 | 想要对方回信时用
 #### Uppmana till handling · 呼吁行动
-- Om vi ska … måste vi … | 如果我们要……，就必须…… | om 从句在前，主句先动词：måste vi
 - Vi kan inte längre blunda för … | 我们不能再对……视而不见了 | blunda för = 假装没看见
 
 ### 6. Avslutande hälsningsfras · 结束问候
@@ -107,7 +116,7 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 | 写给谁 | 朋友、家人、熟人 | 学校、市政府、房东、公司——不认识的人或一个单位 |
 | Hälsningsfras | Hej Martin! · Hej! | Hej skolans ledning, · Hej Sundbybergs kommun! · Hej, |
 | 称呼对方 | du（一个人）· ni（几个朋友） | ni（一个单位） |
-| Inledning | 评论对方的处境、表示高兴：Jag känner igen din situation … · Tänk att …! | 说明为什么写、介绍自己：Igår läste jag i tidningen att … Därför skriver jag till er. · Jag heter … och … |
+| Inledning | 评论对方的处境、表示高兴：Jag känner igen din situation … · Tänk att …! | 说明为什么写：Igår läste jag i tidningen att … Därför skriver jag till er.（自我介绍 Jag heter … och … 放在主体第一句） |
 | 语气 | 口语词可以用（kul, jätteglad）；可以省主语：Hoppas att … | 完整的句子；客气的说法：jag skulle vilja … · jag undrar om det skulle vara möjligt att … |
 | Avslutning | Hoppas att det löser sig! · Vi hörs och ses snart | Tack för att ni har läst mitt brev. · Jag hoppas att ni … |
 | 结束问候 | Hälsningar · Kramar | Vänliga hälsningar · Med vänlig hälsning |
@@ -121,13 +130,13 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 任务块: 2
 | 开头 | 骨架 | 这一块在做什么 |
 |---|---|---|
-| Hallonbergen 19-06-28 | 1 | 地点 + 日期：年份只写两位也可以 |
+| Hallonbergen 19-06-28 | 1 | 地点 + 日期；年份这里只写了两位，自己写用四位 |
 | Hej skolans ledning, | 2 | 向一个单位问好：Hej + 单位，后面用逗号 |
 | Vad positivt att ni frågar | 3 | 先肯定对方来征求意见，再预告：我有几条建议 |
 | Jag heter Annchi och studerar | 4 · förslag 1 | 介绍自己、先夸学校，再提第一条建议，并举朋友学校的例子 |
 | En annan sak som jag | 4 · förslag 2 | 第二条建议：先说缺什么，再提语言咖啡馆，最后说好处 |
 | Sist men inte minst undrar | 4 · förslag 3 | 第三条：客气地问能否开周末班，承认已有的课，再说为什么还不够 |
-| Jag uppskattar att jag som | 5 | 感谢自己能参与，并希望学校采纳建议——呼应开头 |
+| Jag uppskattar att jag som | 5 | 感激学校让学生有机会参与，并希望学校采纳建议——呼应开头 |
 | Vänliga hälsningar | 6 | 正式的结束问候，单独一行 |
 | Annchi Fang | 7 | 署全名：名 + 姓 |
 亮点:
@@ -152,7 +161,7 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 | Akberet Tesfamariam i Hallonbergen | 7 | 全名 + 住的地方：表明自己是当地居民 |
 亮点:
 - 开头三步：读到了什么（**Igår läste jag …**）→ 我的立场（**Jag vill säga att …**）→ 所以写信（**Därför skriver jag till er.**）。
-- 反对不是空喊：散步、孩子玩、邻居见面，三个看得见的理由，还举了一个例子（**På vintern kan de t.ex. åka pulka.**）。
+- 反对不是空喊：散步、孩子玩、Sundbyberg 各处的人在那里见面，三个看得见的理由，还举了一个例子（**På vintern kan de t.ex. åka pulka.**）。
 - 先承认再反驳：**Jag förstår att ni behöver …** → **Men om ni …** → 最后给出另一个办法（**Jag tycker att ni ska bygga någon annanstans.**）。
 - 用一个比喻让人记住：**Sundbybergs lungor**（城市的肺）；署名加 **i Hallonbergen**，提醒对方写信的是当地居民。
 
@@ -163,14 +172,14 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 | 开头 | 骨架 | 这一块在做什么 |
 |---|---|---|
 | Till: forslag@kommunen.se | 1 · mejl: Ämne | 邮件没有地点日期：写收件人和主题，主题点明目的 |
-| Hej, | 2 | 不知道谁会读，只写 Hej 加逗号 |
+| Hej, | 2 | 不知道谁会读，只写 Hej；用了逗号，所以下一行小写开头 |
 | jag är pappa till två | 3 | 一句话说自己是谁、担心什么，再点出问题有多急 |
 | Mitt förslag är att skatten | 4 · förslag | 一句话提出建议，紧接着说它带来的好处 |
 | I dag skänker många människor | 4 · argument | 描述现状，再用 En anledning … Dessutom … 给理由 |
 | Mitt förslag skulle göra det | 4 · resultat | 说建议实行后的结果：对商家、对消费者各有什么好处 |
 | Vi kan inte längre blunda | 5 · uppmaning | 呼吁行动，回到开头的孩子和未来 |
 | Jag hoppas att ni överväger | 5 | 一句话收尾：希望对方考虑建议 |
-| Med vänliga hälsningar, | 6+7 | 结束问候 + 全名，上下两行；逗号可以不加 |
+| Med vänliga hälsningar, | 6+7 | 结束问候 + 全名，上下两行；逗号通常不加 |
 亮点:
 - 主题栏先把目的说清：**Klara klimatmålen – förslag**（话题 + 这是一条建议）。
 - 一段只做一件事，顺序是：问题 → 建议 → 理由 → 结果 → 呼吁。
@@ -266,7 +275,7 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 ### 结构
 - 题目里的每一条要求都写到了
 - 最上面有地点和日期；写邮件的话，有清楚的主题行：**Ämne: …**
-- 开头说了为什么写这封信，也介绍了自己是谁
+- 开头说了为什么写这封信；也介绍了自己是谁（主体第一句；邮件可以放在开头）
 - 一段只讲一件事；每条建议或意见后面都有理由或例子
 - 从头到尾称对方 **ni**（**er** · **ert svar**），没有突然变成 du
 - 结尾有感谢或期望；结束问候是 **Vänliga hälsningar** 或 **Med vänlig hälsning**，下面署全名
@@ -275,7 +284,7 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 - 句首是时间、地点或 Därför 时，动词在第二位：**Igår läste jag** … · **Därför skriver jag** …
 - 从句里（att · eftersom · om · som 后面）inte 在动词前：… eftersom många **inte kan** studera på veckodagarna
 - kan · ska · vill · måste · skulle 后面是不定式，不加 att：ni **ska bygga** · vi **måste göra** något
-- 时态不乱跳：讲已经发生的事一直用 preteritum（**läste** · **ringde**），讲现在的情况用 presens（**bor** · **tycker**）
+- 时态：说了具体时间的过去的事用 preteritum（Igår **läste** jag …）；没说时间、和现在有关的事用 perfekt（Jag **har** redan **ringt** två gånger）；现在的情况用 presens（**bor** · **tycker**）
 - en / ett 和形容词一致：**ett dåligt förslag** · **en lång arbetsdag** · **engagerade lärare**
 - 每句话大写开头、句号结尾；星期和月份小写：**måndag** · **maj**
 - om 假设句：om 后面用过去时，主句用 skulle：skolan **skulle bli** bättre om kurserna **hade** …

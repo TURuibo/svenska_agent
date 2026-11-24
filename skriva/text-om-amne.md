@@ -25,7 +25,7 @@ grammar: [grammar-skrivuppgift-textstruktur, grammar-bisats-forst-inversion, gra
 #### Presentera ämnet · 引出话题
 - … är en del av livet. | ……是生活的一部分。 | 一句大家都同意的话，当第一句
 - Det finns flera olika …, t.ex. … | 有好几种不同的……，比如…… | 先说有哪些，再举一两个例子；t.ex. = till exempel
-- … är viktigt för många människor. | ……对很多人来说很重要。 | 前面是 ett 词或不定式；en 词用 viktig，复数用 viktiga
+- … är viktigt för många människor. | ……对很多人来说很重要。 | 泛指一个话题（Motion、Mat、Att äta bra）用 viktigt；复数用 viktiga
 #### Säga vad texten handlar om · 预告要写什么
 - Jag ska skriva om hur … och varför … | 我要写……怎么样，以及为什么…… | hur、varför 后面是从句：主语在动词前（hur jag motionerar）
 - Jag ska berätta om … och förklara … | 我要讲讲……，并解释…… | ska 管两个动词，都用不定式：berätta … och förklara
@@ -39,6 +39,7 @@ grammar: [grammar-skrivuppgift-textstruktur, grammar-bisats-forst-inversion, gra
 - Det tar … att … | （做）……要花……（时间） | Det tar 20 minuter att gå till skolan.
 - Ibland … om jag har tid. | 有时候……，如果我有时间的话。 | Ibland 在句首，所以先动词：Ibland går jag
 - Jag brukar … | 我通常…… | brukar + 不定式，说习惯
+- … använder jag … mest till att … | ……我主要用……来…… | 说你用它做什么；till att + 不定式
 #### Förr och nu · 以前和现在
 - Sedan jag fick … kan jag inte … | 自从我有了……，我就不能……了 | sedan = 自从；从句在前，主句先动词：kan jag
 - … lika mycket som jag gjorde förr | ……像我以前那样多 | gjorde 代替前面的动词（范文里是 träna）
@@ -80,7 +81,7 @@ grammar: [grammar-skrivuppgift-textstruktur, grammar-bisats-forst-inversion, gra
 - Dessutom … | 此外…… | 再加一点；后面先动词：Dessutom kan man
 - En nackdel är att … | 一个坏处是…… | 和 En fördel är att … 配成一对
 #### Orsak, följd och exempel · 原因、结果和例子
-- Om man … kan … | 如果（人）……，就可能…… | om 从句在前，主句先动词：kan stressen minska
+- Om man … | 如果（一个人）…… | 讲条件；om 从句在句首时主句先动词：Om man har mycket stress kan stressen minska
 - … så att … | 好让…… | 后面是从句：så att kroppen håller sig frisk
 - Att … hjälper … mot … | （做）……对（缓解）……有帮助 | 不定式当主语：Att promenera hjälper …
 - Mitt bästa tips … är att … | 我最好的建议是…… | 给读者一条具体的建议；är att + 不定式
@@ -146,13 +147,13 @@ grammar: [grammar-skrivuppgift-textstruktur, grammar-bisats-forst-inversion, gra
 | Men nu för tiden | 3 · nu | 转到现在：主要用来看新闻；最后一句说为什么觉得好 |
 | Sociala medier har både | 4 · fördelar | 先说「有好也有坏」，再讲两个好处：保持联系、找到兴趣相同的人 |
 | Men det finns också | 4 · nackdelar | 转到坏处：爱比较 → 原因 → 后果 → 再加一点（上瘾）→ 比喻 |
-| Avslutningsvis | 5 | 一句话下结论，再用 Så tänker jag. 收住。⚠️ tror på att allt 应为 **tror på allt** |
+| Avslutningsvis | 5 | 一句话下结论，再用 Så tänker jag. 收住。⚠️ 应为 använder **dem** · **tror på allt** |
 亮点:
 - 讲自己的两段是一条时间线：**I början** …（以前）→ **Men nu för tiden** …（现在）。时态跟着换：以前的事用过去时，现在的事用现在时。
 - 讨论之前先用一句话告诉读者有两面：**Sociala medier har både fördelar och nackdelar** ——后面好处一段、坏处一段，读的人不会迷路。
 - 讲坏处的一段是一条链：风险（**Det finns en risk att …**）→ 原因（**Problemet är att …**）→ 结果（**Då kan man tro att …**）→ 读到的信息（**Jag har läst att …**）→ 再加一点（**Dessutom …**）。每句开头的几个词都在说这句话的作用。
 - 结尾不加新内容：**Avslutningsvis** + 一个带条件的结论（bra **om man** …），最后三个词 **Så tänker jag.** 干脆收住。
-- ⚠️ 讲义这一页有两处笔误，别照抄：och **förklarar** 应为 och **förklara**（跟在 ska 后面）；tror på **att** allt 应为 **tror på allt**。
+- ⚠️ 讲义这一页有三处笔误，别照抄：och **förklarar** 应为 och **förklara**（跟在 ska 后面）；använder **det** 应为 använder **dem**（指 sociala medier，复数）；tror på **att** allt 应为 **tror på allt**。
 
 ## 📚 更多范文 (Fler exempel)
 - scenario-2026-06-28-kronika-ny-i-nytt-land | 讲自己的经历（A2–B1）：过去时讲刚来的时候，Nu … 转到现在，最后两句下结论——和 s. 7 一样先讲自己、再讲道理
@@ -180,7 +181,7 @@ grammar: [grammar-skrivuppgift-textstruktur, grammar-bisats-forst-inversion, gra
 - Jag brukar … | 我通常……
 - Jag försöker … | 我尽量……
 - Det är viktigt att … | ……很重要
-- Om man … kan … | 如果（人）……，就可能……
+- Om man … | 如果（一个人）……
 - Det är viktigt att man … | （每个人）……很重要
 
 ### U2 · En text om mobiltelefonen
@@ -199,8 +200,8 @@ grammar: [grammar-skrivuppgift-textstruktur, grammar-bisats-forst-inversion, gra
 - Jag ska berätta om … och förklara … | 我要讲讲……，并解释……
 - I början … | 一开始……
 - Men nu för tiden … | 但是现在……
+- … använder jag … mest till att … | ……我主要用……来……
 - … har både fördelar och nackdelar | ……既有好处也有坏处
-- En annan sak som är bra är att … | 另一个好处是……
 - Men det finns också negativa saker. | 但是也有不好的方面。
 - Avslutningsvis … | 最后……
 

@@ -16,7 +16,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 ## 🧱 骨架与句型 (Disposition och fraser)
 
 ### 1. Plats + datum · 地点和日期
-写什么: 一行，写在最上面（信纸的右上角）：你所在的地名 + 日期。
+写什么: 一行，写在最上面（信纸的右上角）：你所在的地名 + 日期。讲义 s. 3 是邮件，也写了这一行：课上和考试照讲义写；真的发邮件时不用写。
 - Rissne 2017-11-21 | Rissne，2017 年 11 月 21 日 | 年-月-日，最常见的日期写法
 - Sundbyberg 23 maj 2018 | Sundbyberg，2018 年 5 月 23 日 | 日 + 月份名 + 年；月份名小写
 
@@ -32,7 +32,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 - Jag förstår att det känns jobbigt | 我明白这让人很烦心 | jobbigt = 累人、烦心（口语）
 - Det är inte alltid så lätt att … | ……并不总是那么容易 | 后面接不定式：att vara förälder
 #### Visa glädje · 表示高兴
-- Tänk att …! | 想想看，……！ | 后面接一个完整的句子
+- Tänk att …! | 想想看，……！（感叹） | 表示惊喜或感慨；后面是从句：Tänk att Anna fyller 30 år!
 - Det ska bli så kul att … | ……一定会特别开心 | 期待将来的事；后面接不定式
 #### Tacka · 感谢来信
 - Tack för ditt mejl! | 谢谢你的邮件！ | 回信时最常用的第一句
@@ -44,7 +44,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 - Du skulle kunna … | 你可以…… | skulle kunna + 不定式，比 du ska 客气
 - Du skulle också kunna … | 你也可以…… | 第二条建议；också 放在 skulle 后面
 - Det är viktigt att … | ……很重要 | 后面接不定式，也可以接句子
-- Det är bra att … | ……是有好处的 | 后面接不定式：att röra på sig
+- Det är också viktigt att … | ……也很重要 | 同一段里再加一条；också 在 är 后面
 - Du kan förklara att … | 你可以（向他）解释…… | 教朋友怎么对第三个人说
 - Men jag tänker att … | 不过我觉得…… | 从「理解」转到「建议」的那一句
 - Jag tycker att du ska … | 我觉得你应该…… | 比 skulle kunna 直接一点
@@ -54,11 +54,13 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 - … och därför … | ……，所以…… | därför 后面先动词：därför har vi …
 - … så att … | 好让……（免得……） | 后面是从句：så att de inte tar slut
 - Jag tror att … | 我想…… | 把自己的推测当作理由
+- Det är bra att … | ……是有好处的 | 用一句大家都同意的话当理由：att röra på sig
 #### Ge exempel · 举例子
 - Det finns flera bra … | 有好几个不错的…… | 给出具体的选择；后面接复数名词
 - … för ett år sedan och nu … | 一年前……，现在…… | 讲亲身经历：先过去时，再现在时
 - … till exempel … | 比如…… | 后面直接接例子
 #### Kommentera ett förslag · 评论别人的提议
+- Det är inte lätt att … men … | ……不容易，不过…… | 先让一步，再说自己的看法
 - … men jag har funderat och … | ……不过我想了想，…… | fundera = 考虑；引出自己的看法
 - Jag tycker inte att vi ska … | 我觉得我们不应该…… | inte 放在 tycker 后面最自然
 - Det är alltid … men … | ……总是……，不过…… | 先肯定对方，再用 men 说问题
@@ -84,7 +86,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 - Hoppas allt är bra med er! | 希望你们一切都好！ | 写给一个人：med dig
 - Lycka till med …! | 祝……顺利！ | 例：Lycka till med flytten!
 #### Hålla kontakten · 保持联系
-- Vi hörs och ses snart | 保持联系，很快见 | höras、ses = 互相联系、见面
+- Vi hörs och ses snart | 保持联系，很快见 | höras、ses = 互相联系、见面；自己写时句尾加 ! 或句号
 - Hör av dig! | 记得联系我！ | 请对方回信或打电话
 
 ### 6. Avslutande hälsningsfras · 结束问候
@@ -104,7 +106,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 | 写给谁 | 朋友、家人、熟人 | 学校、市政府、房东、公司——不认识的人或一个单位 |
 | Hälsningsfras | Hej Martin! · Hej! | Hej skolans ledning, · Hej Sundbybergs kommun! · Hej, |
 | 称呼对方 | du（一个人）· ni（几个朋友） | ni（一个单位） |
-| Inledning | 评论对方的处境、表示高兴：Jag känner igen din situation … · Tänk att …! | 说明为什么写、介绍自己：Igår läste jag i tidningen att … Därför skriver jag till er. · Jag heter … och … |
+| Inledning | 评论对方的处境、表示高兴：Jag känner igen din situation … · Tänk att …! | 说明为什么写：Igår läste jag i tidningen att … Därför skriver jag till er.（自我介绍 Jag heter … och … 放在主体第一句） |
 | 语气 | 口语词可以用（kul, jätteglad）；可以省主语：Hoppas att … | 完整的句子；客气的说法：jag skulle vilja … · jag undrar om det skulle vara möjligt att … |
 | Avslutning | Hoppas att det löser sig! · Vi hörs och ses snart | Tack för att ni har läst mitt brev. · Jag hoppas att ni … |
 | 结束问候 | Hälsningar · Kramar | Vänliga hälsningar · Med vänlig hälsning |
@@ -148,7 +150,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 | Maria | 7 | 只署名字 |
 亮点:
 - 开头两句只说心情（**Tänk att …!** · **Det ska bli så kul att …**），先把气氛弄热，再谈不同意见。
-- 反对得很客气：先让一步（Det är inte lätt att … · Det är alltid skönt med massage **men** …），再说 **jag tycker inte att vi ska …**，而且给了两个理由。
+- 反对得很客气：先让一步（**Det är inte lätt att** köpa presenter **men** …），再说 **jag tycker inte att vi ska …**；第一个理由也是先肯定再转折（**Det är alltid** skönt med massage **men** …），第二个理由用 **Eftersom** … 带出来。
 - 不停在「不」上：评论段最后一句 **Jag tycker att det vore roligare att göra något tillsammans!** 是一座桥，下一段马上给出具体方案，每一点都有理由（**eftersom** · **därför**）。
 - 让别人容易回答：两次问意见（**Vad tror ni om det?** · **Vad tycker ni?**），还主动揽下订票的事：**Om ni tycker att det är en bra idé kan jag …**
 
@@ -192,7 +194,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 - motivera ditt förslag | 说明你的建议好在哪里
 - fråga vad de andra tycker | 问问其他人的意见
 提示:
-- Det är en bra idé, men … | 这是个好主意，不过……
+- Det är alltid … men … | ……总是……，不过……
 - Jag tycker inte att vi ska … | 我觉得我们不应该……
 - Jag tycker att det vore roligare att … | 我觉得……会更有意思
 - Eftersom … | 因为……
@@ -211,7 +213,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 - föreslå en annan dag då ni kan ses | 提议改天见面
 提示:
 - Tack för inbjudan! | 谢谢你的邀请！
-- Tänk att …! | 想想看，……！
+- Tänk att …! | 想想看，……！（感叹）
 - Tyvärr kan jag inte … | 可惜我不能……
 - Eftersom … | 因为……
 - Vi skulle kunna … | 我们可以……
@@ -228,7 +230,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 - berätta om dina egna erfarenheter | 讲讲你自己的经历
 - ställa en fråga till Sara | 反过来问 Sara 一个问题
 提示:
-- Tänk att …! | 想想看，……！
+- Tänk att …! | 想想看，……！（感叹）
 - Det finns flera bra … | 有好几个不错的……
 - Jag tycker att du ska … | 我觉得你应该……
 - … för ett år sedan och nu … | 一年前……，现在……
