@@ -28,6 +28,7 @@ node tools/build-reading-site.js   # Läsning reading data
 node tools/build-listening-site.js # Lyssna listening data
 node tools/build-dagbok-data.js    # Dagbok day index (reads the three outputs above — run last)
 node tools/build-niva-data.js      # Nivå by-level index (needs reading-data.js from build-reading-site.js)
+node tools/build-skriva-data.js    # Skriva writing column (from skriva/*.md; --check validates the genre files)
 ```
 
 Publishing to GitHub Pages is automatic on relevant `main` pushes (and via manual workflow dispatch) — no manual

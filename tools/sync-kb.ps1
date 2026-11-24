@@ -55,7 +55,7 @@ if ($LASTEXITCODE -ne 0) { throw "build-kb-site.js failed (exit $LASTEXITCODE)" 
 
 # 3. Stage only tracked content paths that exist (slugs.json lives inside
 #    knowledge_base/; gitignored viewer data files are deliberately excluded).
-$paths = @(".gitattributes", "knowledge_base", "imported", "listening", "profile",
+$paths = @(".gitattributes", "knowledge_base", "imported", "listening", "profile", "skriva",
            "tools") |
     Where-Object { Test-Path $_ }
 git add -- $paths

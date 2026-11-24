@@ -76,6 +76,7 @@ For a **single word/phrase/sentence**, don't spawn a subagent — just store it 
 - `/dagens-biografi` — `/dagens-artikel` 体裁 0 的**单独入口**：强制生成一篇 SFI 风格人物传记（仿 Astrid Lindgren / Zlatan）。手动想指定写某人时用它。
 - `/lattlast` — 抓一篇瑞典政府机构的**易读页面**（informationsverige / Riksdagen / Valmyndigheten / Socialstyrelsen / Skolverket / 1177），原文照抄 + 翻译 + 导入块写进 `inbox/myndighet-*`，专补社会·工作·经济类缺口词（§4.8）。
 - `/ova` — 把 🔁 **Öva 复习页**或 🪜 **Nivå** 的成绩（粘贴的 `ova-results v1` 块）写回词条：复习字段、熟练 / 自评「会」的词标 `known: true`、通关 / 定级记进 `profile/level.md` 评估历史（§4.8、§4.12）。
+- `/skriva` — **批改作文**：✍️ **Skriva 写作专栏**里「📋 复制给 CC 批改」的 `skriva-text v1` 块（或直接贴的作文）→ 逐句改错（10 个错误类型）、改后全文、对照题目要求和体裁骨架、总评，存进 `skriva/texter/`（§4.13）。
 
 ---
 
@@ -208,7 +209,7 @@ routine 直接裸调即可——**改节奏 / 扩体裁只改命令文件，rout
 1. /dagens-scenario   （批量：按 day-of-year 生成当天 5 篇，一周轮完 35 体裁，不需联网）
 2. 对刚生成的**每一个** inbox/scenario-<date>-*.md（今天 5 篇）逐篇跑 /import（spawn librarian/importer 用前台，每篇等完整 manifest 再做下一篇）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`、`niva/niva-data.js`、`niva/data/`）已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`、`niva/niva-data.js`、`niva/data/`、`skriva/skriva-data.js`）已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：同时在本地任务和云端跑会同一天生成两篇。改用云端后，请在桌面把本地那条 scenario 任务**停用**。
@@ -326,7 +327,7 @@ nyheter，句子短、词汇基础，天生贴近 A2–B1 学习者），当学�
 1. /dagens-nyheter
 2. 对刚生成的 inbox/news-*.md 跑 /import（spawn librarian/importer 用前台，等完整 manifest 再收尾）
 3. 按 **CLAUDE.md §4.7 收尾**：build-kb-site.js 更新 slugs.json；`git add` 源文件 + slugs.json
-   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`、`niva/niva-data.js`、`niva/data/`）已 gitignore，git add 自动跳过）；commit、push
+   （四个生成的 viewer 数据文件 `kb-index.js`/`kb-bodies.js`/`reading-data.js`/`listening-data.js`（以及 `flode/flode-data.js`、`kurs/kurs-index.js`、`kurs/data/`、`niva/niva-data.js`、`niva/data/`、`skriva/skriva-data.js`）已 gitignore，git add 自动跳过）；commit、push
 4. 用 mcp__github__ 创建 PR（base=main）并 squash merge；若 405（仅可能 KB 笔记 add/add）按 §4.7 ④
 ```
 > ⚠️ **本地与云端二选一**：news 同时在本地 `svensk-news-daily` 和云端跑会重复抓取/产生两份当日新闻。
@@ -429,7 +430,7 @@ A1–A2 的读物。素材两段式格式（可读正文 + `svensk-export v1` �
 
 **⭐ 2026-06-23 架构改：生成的 viewer 数据文件已移出 git。**
 `site/kb-index.js`、`site/kb-bodies.js`、`site/reading/reading-data.js`、`site/listening/listening-data.js`
-（以及 2026-10-02 起 Dagbok 首页用的 `site/dagbok-data.js`，由 `tools/build-dagbok-data.js` 从前三者汇总；2026-11-14 起还有 Flöde 用的 `site/flode/flode-data.js`，见 §4.10；2026-11-15 起还有 Kurs 用的 `site/kurs/kurs-index.js` + `site/kurs/data/`，见 §4.11；2026-11-21 起还有 Nivå 用的 `site/niva/niva-data.js` + `site/niva/data/`，见 §4.12）现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
+（以及 2026-10-02 起 Dagbok 首页用的 `site/dagbok-data.js`，由 `tools/build-dagbok-data.js` 从前三者汇总；2026-11-14 起还有 Flöde 用的 `site/flode/flode-data.js`，见 §4.10；2026-11-15 起还有 Kurs 用的 `site/kurs/kurs-index.js` + `site/kurs/data/`，见 §4.11；2026-11-21 起还有 Nivå 用的 `site/niva/niva-data.js` + `site/niva/data/`，见 §4.12；2026-11-23 起还有 Skriva 用的 `site/skriva/skriva-data.js`，见 §4.13）现在都在 `.gitignore`，**只由 GitHub Action `.github/workflows/kb-site.yml` 在发布 gh-pages 时生成、永不提交回
 main**。所以以前「Action 提交 viewer 文件 → 和 routine 抢 → 每次 merge 必冲突」的根源**没了**：routine **绝不碰
 这几个文件**，PR 里只有源文件，收尾大幅简化（不再需要旧版的 ④重建数据文件、⑥force-push 对齐分支）。
 
@@ -589,6 +590,26 @@ routine 第 0 步：node tools/activity-gate.js   （git fetch origin read-log �
 > 命令里点名了级别（`/scenario dialog A1 …`、`/dagens-artikel A1 3`）就只写那一个级别——写成区间会被放进低一级的「🌉 过渡」，补不上那一级。
 > 规则 (b)：Nivå 本身**不算** §4.9 的活跃（它没有「标为已读」）；在原页面读完标已读才算。
 > 规则 (c)：**新建的单词 / 词组 / 句子 / 语法笔记都要写 `cefr`**（词组模板已有这一行）；旧词组没写的由构建时按词推断（≈），不批量回填。
+
+### §4.13 ✍️ Skriva (写作专栏)
+
+**Skriva** 是第 11 个页面（nav 里排在 Lyssna 后面：读 · 说 · 听 · **写**，共 10 个 tab）：把写作范文当「写作课」来学——
+**看范文怎么搭 → 记骨架和句型 → 做两个小练习 → 自己写一篇 → 让 CC 批改**。Läsning / Kurs 把同一篇范文当阅读材料（查词、逐句语法），
+Skriva 只看「写」。设计、文件格式、数据契约见 `site/skriva/SPEC.md`，这里不重复。
+
+| 部件 | 是什么 |
+|------|--------|
+| `skriva/<体裁>.md` | **内容源文件**，一个体裁一个：🧱 骨架（每一格写什么 + 句型）· 📄 范文标注（正文每一块属于骨架哪一格、在做什么）· ✍️ 写作题（情境 + 要求 + 提示）· ✅ 自查清单。P0 三个：`informellt-brev`（讲义 s. 3–4）· `formellt-brev`（讲义 s. 5–6 + 课本 s. 98）· `text-om-amne`（讲义 s. 7–8）。范文本身仍在 `imported/` |
+| `site/skriva/` | 页面（`index.html` / `skriva.js` / `skriva.css`）：体裁卡片 → 🧱 骨架 · 📄 范文拆解（按骨架上色、句型高亮、🏷️ 结构 / 🖍️ 句型 / 🇨🇳 翻译开关）· 🧩 练习（**排结构**、**填句型**，都由范文标注自动出题）· ✍️ 写（要求打勾、点句型插入、自动保存、数词数、自查清单、📋 复制给 CC）· 📂 我的作文 |
+| `tools/build-skriva-data.js` | 读 `skriva/*.md` + `skriva/texter/*.md` + `imported/<slug>.md` → `site/skriva/skriva-data.js`。**gitignore，由 Action 构建**，routine 不碰、不提交；`--check` 逐项对账（骨架序号、范文表每一行对正文每一块、原文和翻译块数、写作题必填项） |
+| `/skriva` → `skriva/texter/<日期>-<体裁>-<题号>.md` | 批改过的作文：原文、改后全文、逐句修改表（类型只用 10 个：`ordföljd` `verbform` `substantiv` `adjektiv` `preposition` `ordval` `stavning` `skiljetecken` `struktur` `stil`）、任务完成情况、总评、`omdome`（`klar` / `nästan` / `inte-än`）。页面的「📂 我的作文」和「常错类型」从这里来；`/assess` 把它当写作水平的证据 |
+| `skriva.state.v1`（localStorage） | 草稿、打过的勾、练习成绩、显示开关。**草稿只在这台设备**；作文只有经「📋 复制给 CC」→ `/skriva` 才进仓库。范文「标为已读」用 `ReadSync`，与 Läsning 是同一个标记 |
+| Läsning 入口 | 在体裁文件「📄 范文」里点名的文章，Läsning 页顶部多一条「✍️ 在写作专栏看这篇怎么写 →」（`build-reading-site.js` 扫 `skriva/*.md`，给文章加 `skriva` = 体裁 key；文章里不用写任何东西） |
+
+> 规则 (a)：**`skriva/*.md` 的格式被 `tools/build-skriva-data.js` 机器解析**。改过任何一个体裁文件，或录入了新的写作范文（把它加进对应体裁的「📄 范文」），
+> 发布前跑 `node tools/build-skriva-data.js --check`，有 ❌ 先修再发。句型里固定的那一段要和范文原文一字不差，范文里才会高亮。
+> 规则 (b)：`/skriva` **只改错，不改内容和口气**；仓库是公开的，存档时把看起来真实的电话、门牌地址、身份号码换成 `[…]`。批改和逐条查词一样**不自动 push**，攒完 `/sync`（`/sync` 会带上 `skriva/`）。
+> 规则 (c)：Skriva 里范文的「✓ 标为已读」算 §4.9 的活跃（同一个标记）；做练习、写草稿不算。
 
 ---
 
