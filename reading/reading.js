@@ -1007,9 +1007,12 @@
 
     // A 🔍 逐段精读 guide in the body means 📘 Kurs has this text as a lesson
     // (decided from data already here; Tala scenarios never get the line).
-    const kursLine = (!TALA && /🔍\s*逐段精读/.test(a.body || ''))
-      ? `<p class="kursLine"><a href="../kurs/#l=${encodeURIComponent(slug)}">📘 在手机上精读 →</a></p>`
-      : '';
+    // A text that a ✍️ Skriva genre guide takes apart as a model text links to that breakdown (`skriva` =
+    // the genre key, set by build-reading-site.js).
+    const jumps = [];
+    if (!TALA && /🔍\s*逐段精读/.test(a.body || '')) jumps.push(`<a href="../kurs/#l=${encodeURIComponent(slug)}">📘 在手机上精读 →</a>`);
+    if (a.skriva) jumps.push(`<a href="../skriva/#g=${encodeURIComponent(a.skriva)}&t=${encodeURIComponent(slug)}">✍️ 在写作专栏看这篇怎么写 →</a>`);
+    const kursLine = jumps.length ? `<p class="kursLine">${jumps.join('<span class="kursSep"> · </span>')}</p>` : '';
 
     const backBtn = backAnchor
       ? `<a class="viewBtn backToForms" href="${backTarget.href}${encodeURIComponent(backAnchor)}" title="返回来源页对应位置">${backTarget.label}</a>`

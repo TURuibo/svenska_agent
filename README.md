@@ -38,6 +38,7 @@ https://turuibo.github.io/svenska_agent/
 | **Läsning** 📖 | `site/reading/` | Read articles / news / drills with toggleable 🇨🇳 translation |
 | **Tala** 🗣️ | `site/tala/` | Speaking: the scenarios, with 🎭 dialog role-play and 🗣️ shadowing |
 | **Lyssna** 🎧 | `site/listening/` | SVT easy-Swedish listening with synced bilingual transcript |
+| **Skriva** ✍️ | `site/skriva/` | The writing column: per genre a skeleton with phrases, model texts taken apart, two drills, writing tasks with an editor, and the corrected texts — see [Skriva](#skriva-writing) |
 | **Öva** 🔁 | `site/ova/` | Multiple-choice vocabulary review (🎯 gap words / recent / all) with spaced repetition. **No nav tab** since 2026-11-15 (Flöde covers quick review); reached from Läsning's / Dagbok's 🔁 去复习 links, and still where 📋 复制结果给 CC → `/ova` lives |
 | **Former** 📐 | `site/forms/` | Word forms grouped by 词性 / date |
 | **Sök** 🔍 | `site/sok/` | Dictionary / full-text search tool (formerly the home page) |
@@ -45,10 +46,10 @@ https://turuibo.github.io/svenska_agent/
 ## Navigation (`nav.js`)
 
 Every page sets `<body data-site="…">` and loads `nav.js`, which injects one consistent nav so you
-can jump between the pages from any page: nine tabs (Öva has no tab; the Flöde page itself is an immersive, nav-less
+can jump between the pages from any page: ten tabs (Öva has no tab; the Flöde page itself is an immersive, nav-less
 feed and does not load `nav.js`). On desktop it's a slim sticky **top bar**; on
 phones it becomes a fixed **bottom tab bar** (icon + label, current page highlighted; the tabs fit one
-row at 360 px — 38 px each — thanks to a smaller label under 400 px). Add a new
+row at 360 px — 34 px each — thanks to a smaller label under 400 px). Add a new
 destination once, in `nav.js`'s `DEST` list — never per page.
 
 ## Cache-busting (`?v=N`)
@@ -57,7 +58,7 @@ Static code assets (`styles.css`, `nav.js`, each page's `*.css` / `*.js`) are re
 `?v=N` query, e.g. `styles.css?v=4`. **When you edit any of those files, bump the number** (same `N`
 across all pages) so browsers fetch the new copy instead of a stale cached one — important since the
 site is used on both laptop and phone. Generated data files (`kb-index.js`, `kb-bodies.js`,
-`reading-data.js`, `listening-data.js`, `flode/flode-data.js`, `niva/niva-data.js`) are intentionally left unversioned: the daily routines
+`reading-data.js`, `listening-data.js`, `flode/flode-data.js`, `niva/niva-data.js`, `skriva/skriva-data.js`) are intentionally left unversioned: the daily routines
 regenerate them, and a frozen `?v` would hide fresh data.
 
 ## Sök (search tool)
@@ -136,6 +137,31 @@ pages link in as `…/sok/#note=<slug>`, or open notes inline via the shared `KB
 - **localStorage**: `niva.state.v1` (current level, grammar 「学过」, 会 / 不会 marks, tests, passes, the unfinished run, last
   level / section, filters, the Dagbok summary). Writes `ova.state.v1` (不会 + test answers, Öva's own rules) and
   `flode.state.v1`'s `mute` (会); reads `kurs.state.v1` and ReadSync. Nivå does not count as §4.9 activity.
+
+## Skriva (writing)
+
+`site/skriva/` is the **writing column** (CLAUDE.md §4.13; full design and file formats in
+[`skriva/SPEC.md`](skriva/SPEC.md)). Läsning and Kurs treat a model text as something to read; Skriva looks at the
+same text as a writer: what each part is doing, which phrases can be reused, and how to write one's own.
+
+| View | What it does |
+|---|---|
+| Home (`#`) | One card per genre (💌 informellt brev · 🏛️ formellt brev · 📝 text om ett ämne) with progress, 📂 我的作文 and the most frequent error types |
+| 🧱 骨架 (`#g=<key>&tab=mall`) | The genre from top to bottom: every part of the skeleton says what goes there and lists its phrases (🔊); a comparison table closes the tab (formal vs informal for the letters, letter vs text for the topic text) |
+| 📄 范文 (`#g=<key>&t=<slug>`) | A model text taken apart: the task, then each block coloured by skeleton part with a line on what the writer is doing, reusable phrases underlined (tap → 中文 + usage); toggles 🏷️ 结构 · 🖍️ 句型 · 🇨🇳 翻译; ✓ 标为已读 is the same mark as Läsning |
+| 🧩 练习 | Generated from the annotations, no extra content: **排结构** (reorder the shuffled blocks; judged by skeleton part) and **填句型** (six gaps, four options each; the options are of the answer's kind and letter case, preferably from other parts of the skeleton) |
+| ✍️ 写 (`#g=<key>&u=U1`) | A writing task: situation + requirements to tick, skeleton hints whose phrases drop into the text at the cursor, an autosaving editor with a word count, a checklist, and 📋 复制给 CC 批改 |
+| 📂 我的作文 (`#mina`) | Texts corrected by `/skriva`: corrections sentence by sentence with an error type, the corrected text, the original, how the task was met, and a summary |
+
+- **Content** lives in `skriva/<genre>.md` (skeleton + phrases, annotations of the model texts, tasks, checklist) and
+  `skriva/texter/*.md` (corrected texts). The model texts themselves stay in `imported/`. Adding a genre = adding a file.
+- **Data**: `tools/build-skriva-data.js` → `skriva/skriva-data.js` (gitignored, built by the Action). `--check` validates the
+  genre files (skeleton numbering, every model-text row against its block, block counts of text and translation,
+  required task fields) and lists the phrases that occur in no model text.
+- **localStorage**: `skriva.state.v1` (drafts, ticked requirements / checklist items, drill results, view toggles, last
+  tab). Drafts stay on the device; a text reaches the repo only through 📋 → `/skriva`.
+- **Entry from Läsning**: an article that a genre file names under 「📄 范文」 shows 「✍️ 在写作专栏看这篇怎么写 →」
+  (`build-reading-site.js` scans `skriva/*.md` and sets the article's `skriva` field to the genre key).
 
 ## Flöde (feed)
 
@@ -300,6 +326,7 @@ node tools/build-kb-site.js
 # full local preview of every page (all gitignored):
 node tools/build-reading-site.js && node tools/build-listening-site.js && node tools/build-dagbok-data.js
 node tools/build-niva-data.js   # 🪜 Nivå — after build-reading-site.js
+node tools/build-skriva-data.js # ✍️ Skriva — independent of the others (add --check to validate skriva/*.md)
 ```
 
 Publish the refreshed site to GitHub Pages:
