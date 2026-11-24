@@ -49,7 +49,8 @@ function parseNote(text) {
   for (const line of m[1].split(/\r?\n/)) {
     const km = line.match(/^([^\s:#][^:]*):\s*(.*)$/);
     if (!km) continue;
-    const rest = km[2].replace(/\s+#.*$/, '').trim();
+    const raw = km[2].trim();
+    const rest = /^(["']).*\1$/.test(raw) ? raw : raw.replace(/\s+#.*$/, '').trim();   // " # comment", except inside quotes
     const list = rest.match(/^\[(.*)\]$/);
     fm[km[1].trim()] = list ? list[1].split(',').map(unquote).filter(Boolean) : unquote(rest);
   }
@@ -232,6 +233,7 @@ function parseModels(lines, file) {
       models.push(cur);
       continue;
     }
+    if (/^###\s/.test(line)) { err(file, `范文标题看不懂：「${line}」（写成「### <imported/ 里的文件名，不含 .md>」，后面不要加别的）`); cur = null; continue; }
     if (!cur || !line) continue;
     if ((m = line.match(/^名称[:：]\s*(.*)$/))) { cur.name = m[1].trim(); inNotes = false; continue; }
     if ((m = line.match(/^讲义[:：]\s*(.*)$/))) { cur.sheet = m[1].trim(); inNotes = false; continue; }
@@ -456,7 +458,7 @@ function buildMine(fileName, genreKeys) {
     if (!/^\s*\|/.test(raw)) continue;
     const c = tableCells(raw);
     if (isSepRow(c) || /^#$/.test(c[0]) || c.length < 4) continue;
-    const typ = String(c[3] || '').toLowerCase();
+    const typ = String(c[3] || '').replace(/[`*_]/g, '').trim().toLowerCase();
     if (typ && !TYPER.includes(typ)) warn(file, `批改类型「${c[3]}」不在 10 个类型里`);
     rows.push({ min: c[1] || '', ratt: c[2] || '', typ, why: c.slice(4).join(' | ') });
   }

@@ -28,7 +28,8 @@
   const lsSet = (k, v) => { try { localStorage.setItem(k, v); return true; } catch (_e) { return false; } };
   const parse = (raw) => { try { return JSON.parse(raw || 'null'); } catch (_e) { return null; } };
   const shuffle = (a) => { a = a.slice(); for (let i = a.length - 1; i > 0; i -= 1) { const j = (Math.random() * (i + 1)) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; };
-  const words = (t) => (str(t).match(/\S+/g) || []).length;
+  // Words = tokens with a letter or a digit: the "…" of an inserted phrase and a lone dash do not count.
+  const words = (t) => (str(t).match(/\S*[0-9A-Za-zÀ-ÿ]\S*/g) || []).length;
   // **bold** and [[wikilinks]] in notes; plain escape when the shared renderer is missing.
   // Grammar links read better as a name than as a slug: [[grammar-v2-ordfoljd]] → 📗 v2-ordfoljd.
   const inline = (s) => (MD
@@ -38,6 +39,12 @@
   const say = (t) => { if (SP && SP.supported) SP.speak(sayable(t)); else toast('这个浏览器不支持朗读'); };
   const sayBtn = (t) => (SP && SP.supported
     ? `<button type="button" class="skSay" data-act="say" data-say="${esc(t)}" aria-label="朗读" title="朗读">🔊</button>` : '');
+
+  // Re-rendering replaces the control that was just used: put the focus back on it (or on what took its place),
+  // so the keyboard does not start again from the top of the page.
+  function focusEl(el) { if (el) { try { el.focus({ preventScroll: true }); } catch (_e) { /* ignore */ } } }
+  const focusOn = (sel) => focusEl(main.querySelector(sel));
+  let keyOpen = false;   // a phrase is being opened with Enter / Space (not tapped)
 
   let toastT = 0;
   function toast(msg) {
@@ -80,11 +87,13 @@
     return s;
   }
   let st = loadState();
-  // Re-read before every write so another tab's changes survive.
+  // Re-read before every write so another tab's changes survive. When storage gives nothing back (blocked,
+  // or simply empty) the state in memory is kept, so it lasts at least as long as the page. Returns whether
+  // the write went through.
   function mutate(fn) {
-    st = loadState();
+    if (lsGet(LS) != null) st = loadState();
     fn(st);
-    lsSet(LS, JSON.stringify(st));
+    return lsSet(LS, JSON.stringify(st));
   }
   const isRead = (slug) => { try { return !!(window.ReadSync && window.ReadSync.isRead(slug)); } catch (_e) { return false; } };
   const tk = (g, u) => `${g.key}/${u.id}`;
@@ -125,13 +134,39 @@
 
   let cur = { view: '' };
   let routed = null;
+  let lastSig = '';
+  // Everything the current view shows that can change behind its back: read marks arriving from another
+  // device, drills and drafts from another tab. A passive repaint is skipped while this is unchanged.
+  function viewSig() {
+    if (cur.view === 'home') return JSON.stringify(GENRES.map(progress));
+    if (cur.view === 'genre') {
+      // Per tab: the skeleton shows nothing that changes; the lists show read marks, drill results, drafts.
+      const g = cur.g;
+      const tab = cur.tab;
+      return JSON.stringify([tab,
+        tab === 'texter' ? arr(g.texts).map((t) => isRead(t.slug)) : 0,
+        tab === 'texter' || tab === 'ova' ? arr(g.texts).map((t) => [st.ordna[t.slug] || 0, st.fraser[t.slug] || 0]) : 0,
+        tab === 'skriv' ? arr(g.tasks).map((u) => [st.sent[tk(g, u)] || 0, words(draftOf(g, u))]) : 0]);
+    }
+    if (cur.view === 'text') return JSON.stringify([isRead(cur.t.slug), st.view]);
+    return '';
+  }
+  const painted = () => { lastSig = viewSig(); };
   function route(opts) {
     opts = opts || {};
     const h = readHash();
-    // The editor and a running drill keep their state in the DOM / memory: a passive repaint would wipe it.
-    if (opts.passive && (cur.view === 'task' || cur.view === 'drill') && h.view === cur.view) return;
+    const same = h.view === cur.view && location.hash === routed;
+    if (opts.passive && same) {
+      // The editor and a running drill keep their state in the DOM / memory: a repaint would wipe it.
+      if (cur.view === 'task') { syncEditor(); return; }
+      if (cur.view === 'drill') return;
+      // Nothing this view shows has changed: leave it alone (open sections, the phrase strip, focus, a selection).
+      if (viewSig() === lastSig) return;
+    }
     flushDraft();
-    hidePop();
+    // A passive repaint keeps what he opened: the folded parts of the skeleton and the phrase strip.
+    const keep = opts.passive && same ? [...main.querySelectorAll('details')].map((d) => d.open) : null;
+    if (!keep) hidePop();
     cur = h;
     if (h.view === 'home') renderHome();
     else if (h.view === 'genre') renderGenre(h.g, h.tab);
@@ -139,8 +174,13 @@
     else if (h.view === 'drill') (h.d === 'ordna' ? startOrdna : startFraser)(h.g, h.t);
     else if (h.view === 'task') renderTask(h.g, h.u);
     else if (h.view === 'mina') (h.id ? renderMine : renderMineList)(h.id);
+    if (keep) {
+      const ds = main.querySelectorAll('details');
+      if (ds.length === keep.length) ds.forEach((d, i) => { d.open = keep[i]; });
+    }
     if (opts.top) window.scrollTo(0, 0);
     routed = location.hash;
+    painted();
   }
   function go(hash) {
     try { history.pushState({ sk: 1, from: location.hash || '' }, '', hash || HOME()); } catch (_e) { location.hash = hash; return; }
@@ -149,13 +189,31 @@
   // ← always goes UP to the view's parent. When the parent is also the page he came from, that is a plain
   // history.back() (so Back / Forward stay tidy); otherwise the current entry is replaced by the parent.
   const sameHash = (a, b) => str(a).replace(/^#/, '') === str(b).replace(/^#/, '');
+  let wantUp = null;   // where ← meant to land when it went through history.back()
+  let wantUpT = 0;
   function up(parent) {
     const hs = history.state;
-    if (hs && hs.sk && sameHash(hs.from, parent)) { history.back(); return; }
+    if (hs && hs.sk && sameHash(hs.from, parent)) {
+      // The entry behind this one was the parent when this one was pushed; it may have been replaced since
+      // (← from the parent itself, then Forward). popstate checks, and puts the parent there if it is not.
+      wantUp = str(parent);
+      clearTimeout(wantUpT);
+      wantUpT = setTimeout(() => { wantUp = null; }, 1500);
+      history.back();
+      return;
+    }
     try { history.replaceState(null, '', parent || HOME()); } catch (_e) { /* ignore */ }
     route({ top: true });
   }
-  window.addEventListener('popstate', () => route({ top: true }));
+  window.addEventListener('popstate', () => {
+    if (wantUp != null) {
+      const want = wantUp;
+      wantUp = null;
+      clearTimeout(wantUpT);
+      if (!sameHash(location.hash, want)) { try { history.replaceState(null, '', want || HOME()); } catch (_e) { /* ignore */ } }
+    }
+    route({ top: true });
+  });
   window.addEventListener('hashchange', () => { if (location.hash !== routed) route({ top: true }); });
 
   const topBar = (parent, title, sub) => '<header class="skTop">' +
@@ -366,7 +424,7 @@
     h += `<article class="skPaper${v.struct ? ' struct' : ''}">`;
     for (const b of arr(t.blocks)) {
       const s = slotOf(g, b.slot);
-      h += `<div class="skBlock ${cClass(b.slot)}${s && /datum/i.test(s.sv) ? ' right' : ''}${s && /rubrik/i.test(s.sv) ? ' title' : ''}">` +
+      h += `<div class="skBlock ${cClass(b.slot)}${s && /datum/i.test(s.sv) && !/\n/.test(str(b.sv)) ? ' right' : ''}${s && /rubrik/i.test(s.sv) ? ' title' : ''}">` +
         (v.struct ? `<div class="skLabel">${slotLabel(g, b)}</div>${b.what ? `<p class="skDoing">${inline(b.what)}</p>` : ''}` : '') +
         `<p class="skSv" lang="sv">${blockHtml(g, b, v.phr)}</p>` +
         (v.zh && b.zh ? `<p class="skZhLine">${svLines(b.zh)}</p>` : '') + '</div>';
@@ -384,7 +442,8 @@
   }
 
   // Phrase popover (a strip above the bottom nav).
-  function showPop(g, pi) {
+  let popFrom = null;   // the phrase that opened the strip
+  function showPop(g, pi, from, byKey) {
     const p = arr(g.phrases)[pi];
     if (!p) return;
     const s = slotOf(g, p.slot);
@@ -393,12 +452,37 @@
       `<p class="skPzh">${esc(p.zh)}</p>${p.note ? `<p class="skPnote">${inline(p.note)}</p>` : ''}` +
       (s ? `<p class="skPopSlot"><span class="skNum">${s.n}</span><span lang="sv">${esc(s.sv)}</span> ${esc(s.zh)}</p>` : '') + '</div>';
     pop.hidden = false;
+    popFrom = from || null;
+    // Room below the text, so even a phrase in the last lines can be scrolled clear of the strip.
+    document.body.classList.add('skPopOpen');
+    const box = pop.firstElementChild;
+    if (from && box) {
+      const top = box.getBoundingClientRect().top;
+      const r = from.getBoundingClientRect();
+      if (r.bottom > top - 8) window.scrollBy(0, r.bottom - top + 12);
+    }
+    if (byKey) focusEl(pop.querySelector('[data-act="closepop"]'));
   }
-  function hidePop() { if (!pop.hidden) { pop.hidden = true; pop.innerHTML = ''; } }
+  function hidePop() {
+    if (pop.hidden) return;
+    const back = pop.contains(document.activeElement) ? popFrom : null;
+    pop.hidden = true;
+    pop.innerHTML = '';
+    popFrom = null;
+    document.body.classList.remove('skPopOpen');
+    if (back && document.contains(back)) focusEl(back);
+  }
 
   // ---------- drill 1: 🧱 排结构 ----------
   let O = null;   // { g, t, order: [block index…], checked, revealed }
-  const firstBit = (sv) => { const s = str(sv).replace(/\s+/g, ' ').trim(); const m = s.match(/^.{20,150}?[.!?…](?=\s|$)/); const o = m ? m[0] : s; return o.length > 150 ? `${o.slice(0, 149)}…` : o; };
+  // The first sentence of a block (more of it when that is only a few words), for a row of the sort drill.
+  function firstBit(sv) {
+    const s = str(sv).replace(/\s+/g, ' ').trim();
+    let end = sentenceAt(s, 0, 1).b;
+    while (end < 20 && end < s.length) { const more = sentenceAt(s, end, 1).b; if (more <= end) break; end = more; }
+    const o = s.slice(0, end).trim() || s;
+    return o.length > 150 ? `${o.slice(0, 149)}…` : o;
+  }
   function startOrdna(g, t) {
     const n = arr(t.blocks).length;
     const target = t.blocks.map((b) => b.slot);
@@ -478,7 +562,51 @@
     for (let k = j; k < cuts.length - 1 && !next; k += 1) next = text.slice(cuts[k], cuts[k + 1]).trim();
     return { a, b: cuts[j], prev, next };
   }
-  // Every highlight that makes a fair question: a real phrase (not a date / name / greeting), once per phrase.
+  // The fixed stretch of a phrase is a whole sentence ("Hoppas att det löser sig!"), the end of one
+  // ("… tycker jag."), the start of one ("Du skulle kunna …") or a piece from the middle ("… så att …").
+  // Options are of the answer's kind, so they all look possible in the gap.
+  function kindOf(p, chunk) {
+    const sv = str(p.sv);
+    if (/[.!?]$/.test(chunk)) return /…|\.\.\./.test(sv) ? 'tail' : 'whole';
+    return sv.toLowerCase().startsWith(chunk.toLowerCase()) ? 'head' : 'mid';
+  }
+  const SIBLING = { head: 'mid', mid: 'head' };
+  // A usage note that starts with "= …" names a phrase that means the same ("= eftersom"): the two are never
+  // offered as wrong options for each other.
+  const sameAs = (p) => { const m = str(p.note).match(/^=\s*([A-Za-zÅÄÖåäöÉé][A-Za-zÅÄÖåäöÉé .!?-]*)/); return m ? m[1].trim().toLowerCase() : ''; };
+  const pools = new Map();
+  function poolOf(g) {
+    if (!pools.has(g.key)) {
+      pools.set(g.key, arr(g.phrases).map((p, pi) => { const chunk = chunkOf(p.sv); return { pi, slot: p.slot, chunk, kind: kindOf(p, chunk), same: sameAs(p) }; })
+        .filter((x) => x.chunk && drillable(x.chunk) && !isFrame(slotOf(g, x.slot))));
+    }
+    return pools.get(g.key);
+  }
+  // The answer of a gap and the phrases that may stand beside it as wrong options, best first:
+  //   1. the answer's kind, from other parts of the skeleton (so the question is "which kind of phrase goes here");
+  //   2. the answer's kind from its own part;  3. the neighbouring kind (start ↔ middle of a sentence).
+  // A whole sentence, or the end of one, has rivals in its own part that would fit the gap just as well
+  // ("Jag ser fram emot ert svar." for "Jag hoppas att ni överväger mitt förslag."), and a sentence end written
+  // as a sentence gives the answer away: those take tier 1 only.
+  function optionTiers(g, t, item) {
+    const answer = str(t.blocks[item.bi].sv).substr(item.start, item.len);
+    const low = answer.toLowerCase();
+    const mine = arr(g.phrases)[item.pi];
+    const kind = kindOf(mine, chunkOf(mine.sv));
+    const twin = sameAs(mine);
+    const seen = new Set([low]);
+    const tier = (test) => poolOf(g).filter((x) => {
+      const c = x.chunk.toLowerCase();
+      if (!test(x) || seen.has(c) || c.includes(low) || low.includes(c) || c === twin || x.same === low) return false;
+      seen.add(c);
+      return true;
+    });
+    const tiers = [tier((x) => x.kind === kind && x.slot !== mine.slot)];
+    if (kind === 'head' || kind === 'mid') tiers.push(tier((x) => x.kind === kind), tier((x) => x.kind === SIBLING[kind]));
+    return { answer, tiers };
+  }
+  // Every highlight that makes a fair question: a real phrase (not a date / name / greeting), once per phrase,
+  // with three wrong options to put beside it.
   function clozeItems(g, t) {
     const bySentence = new Map();
     arr(t.blocks).forEach((b, bi) => {
@@ -494,6 +622,7 @@
     const seen = new Set();
     for (const it of [...bySentence.values()].sort((x, y) => x.bi - y.bi || x.start - y.start)) {
       if (seen.has(it.pi)) continue;
+      if (optionTiers(g, t, it).tiers.reduce((n, list) => n + list.length, 0) < 3) continue;
       seen.add(it.pi);
       out.push(it);
     }
@@ -503,46 +632,20 @@
   function startFraser(g, t) {
     let items = clozeItems(g, t);
     if (items.length > 6) items = shuffle(items).slice(0, 6).sort((x, y) => x.bi - y.bi || x.start - y.start);
-    // The fixed stretch of a phrase is a whole sentence ("Hoppas att det löser sig!"), the end of one
-    // ("… tycker jag."), the start of one ("Du skulle kunna …") or a piece from the middle ("… så att …").
-    // Options are of the answer's kind first, so they all look possible in the gap.
-    const kindOf = (p, chunk) => {
-      const sv = str(p.sv);
-      if (/[.!?]$/.test(chunk)) return /…|\.\.\./.test(sv) ? 'tail' : 'whole';
-      return sv.toLowerCase().startsWith(chunk.toLowerCase()) ? 'head' : 'mid';
-    };
-    const SIBLING = { whole: 'tail', tail: 'whole', head: 'mid', mid: 'head' };
-    const pool = arr(g.phrases).map((p, pi) => { const chunk = chunkOf(p.sv); return { pi, slot: p.slot, chunk, kind: kindOf(p, chunk) }; })
-      .filter((x) => x.chunk && drillable(x.chunk) && !isFrame(slotOf(g, x.slot)));
     const qs = items.map((item) => {
-      const b = t.blocks[item.bi];
-      const answer = str(b.sv).substr(item.start, item.len);
-      const low = answer.toLowerCase();
-      const mine = arr(g.phrases)[item.pi];
+      const { answer, tiers } = optionTiers(g, t, item);
       // Every option starts the way the answer does (capital or not), so the letter case never gives it away.
       const upper = /^[A-ZÅÄÖ]/.test(answer);
       const fit = (c) => (upper ? c.charAt(0).toUpperCase() : c.charAt(0).toLowerCase()) + c.slice(1);
-      const kind = kindOf(mine, chunkOf(mine.sv));
-      const taken = new Set([low]);
-      const picks = [];
-      const kin = pool.filter((x) => x.kind === kind);
-      const cousins = pool.filter((x) => x.kind === SIBLING[kind]);
-      // Options of about the answer's length, so the length alone never gives it away.
+      // Within a tier, options of about the answer's length, so the length alone never gives it away.
       const nw = words(answer);
-      const near = (list) => shuffle(list).sort((x, y) => Math.abs(words(x.chunk) - nw) - Math.abs(words(y.chunk) - nw)).slice(0, 7);
-      // Same kind as the answer and from other parts of the skeleton first (so the question is "which kind of
-      // phrase goes here"), then the same kind from anywhere, then the nearest other kind, then anything.
-      for (const tier of [near(kin.filter((x) => x.slot !== mine.slot)), near(kin), near(cousins), pool]) {
-        for (const x of shuffle(tier)) {
-          const c = x.chunk.toLowerCase();
-          if (picks.length >= 3) break;
-          if (taken.has(c) || c.includes(low) || low.includes(c)) continue;
-          taken.add(c);
-          picks.push(fit(x.chunk));
-        }
+      const picks = [];
+      for (const list of tiers) {
+        const near = shuffle(list).sort((x, y) => Math.abs(words(x.chunk) - nw) - Math.abs(words(y.chunk) - nw)).slice(0, 7);
+        for (const x of shuffle(near)) { if (picks.length < 3) picks.push(fit(x.chunk)); }
       }
       return { item, answer, opts: shuffle([answer].concat(picks)) };
-    }).filter((q) => q.opts.length >= 3);
+    }).filter((q) => q.opts.length === 4);
     F = { g, t, qs, i: 0, right: 0, picked: -1 };
     renderFraser();
   }
@@ -592,12 +695,37 @@
   let saveT = 0;
   let pending = null;   // { key, text } waiting to be written
   let taSeen = false;   // has he put the cursor in the editor on this visit?
+  const setSaved = (msg) => { const e = document.getElementById('skSaved'); if (e) e.textContent = msg; };
   function flushDraft() {
     clearTimeout(saveT);
     if (!pending) return;
     const { key, text } = pending;
     pending = null;
-    mutate((s) => { if (text.trim()) s.drafts[key] = { text, at: new Date().toISOString() }; else delete s.drafts[key]; });
+    const ok = mutate((s) => { if (text.trim()) s.drafts[key] = { text, at: new Date().toISOString() }; else delete s.drafts[key]; });
+    if (cur.view === 'task' && tk(cur.g, cur.u) === key) setSaved(!ok ? '⚠️ 草稿没存上（浏览器不让存）' : text.trim() ? '草稿已保存在这台设备' : '');
+  }
+  // Another tab (or this page before it was put aside) saved a newer draft or ticked boxes: show them, unless
+  // he is typing here right now.
+  function syncEditor() {
+    if (cur.view !== 'task') return;
+    const { g, u } = cur;
+    const key = tk(g, u);
+    const ta = document.getElementById('skTa');
+    if (ta && !pending) {
+      const text = draftOf(g, u);
+      if (ta.value !== text) {
+        ta.value = text;
+        const c = document.getElementById('skCount');
+        if (c) c.innerHTML = countHtml(u, words(text));
+        setSaved(text ? '草稿已保存在这台设备' : '');
+      }
+    }
+    for (const [act, bag] of [['req', st.req], ['chk', st.checks]]) {
+      const on = isObj(bag[key]) ? bag[key] : {};
+      main.querySelectorAll(`input[data-act="${act}"]`).forEach((b) => { b.checked = !!on[b.getAttribute('data-i')]; });
+    }
+    const n = document.getElementById('skChkN');
+    if (n) n.textContent = checkCount(g, u);
   }
   function countHtml(u, n) {
     const [lo, hi] = u.len;
@@ -642,7 +770,7 @@
     h += `<a class="skLink" href="${gHash(g, 'mall')}" data-nav>全部句型 →</a></details>`;
 
     h += `<div class="skEditor"><textarea id="skTa" lang="sv" spellcheck="true" autocapitalize="sentences" autocomplete="off" rows="12" ` +
-      `placeholder="Skriv din text här …" aria-label="作文">${esc(text)}</textarea>` +
+      `placeholder="Skriv din text här …" aria-label="作文">\n${esc(text)}</textarea>` +
       `<div class="skCountRow"><span id="skCount">${countHtml(u, words(text))}</span><span id="skSaved" class="skSaved">${text ? '草稿已保存在这台设备' : ''}</span></div></div>`;
 
     if (arr(g.checks).length) {
@@ -669,11 +797,10 @@
     const n = words(ta.value);
     const c = document.getElementById('skCount');
     if (c) c.innerHTML = countHtml(cur.u, n);
-    const sv = document.getElementById('skSaved');
-    if (sv) sv.textContent = '…';
+    setSaved('…');
     pending = { key: tk(cur.g, cur.u), text: ta.value };
     clearTimeout(saveT);
-    saveT = setTimeout(() => { flushDraft(); const e = document.getElementById('skSaved'); if (e) e.textContent = '草稿已保存在这台设备'; }, 500);
+    saveT = setTimeout(flushDraft, 500);
   }
   function insertPhrase(text) {
     const ta = document.getElementById('skTa');
@@ -741,7 +868,12 @@
     const wiki = e.target.closest('[data-wikilink]');
     if (wiki) { location.href = `../sok/#note=${enc(wiki.getAttribute('data-wikilink'))}`; return; }
     const nav = e.target.closest('a[data-nav]');
-    if (nav) { e.preventDefault(); go(nav.getAttribute('href')); return; }
+    if (nav) {
+      if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button) return;   // new tab / window: the browser's business
+      e.preventDefault();
+      go(nav.getAttribute('href'));
+      return;
+    }
     const tab = e.target.closest('.skTab');
     if (tab && cur.view === 'genre') {
       const id = tab.getAttribute('data-tab');
@@ -749,6 +881,8 @@
       try { history.replaceState(history.state, '', gHash(cur.g, id)); } catch (_e) { /* ignore */ }
       routed = location.hash;
       renderGenre(cur.g, id);
+      painted();
+      focusOn('.skTab.on');
       return;
     }
     const act = e.target.closest('[data-act]');
@@ -756,14 +890,16 @@
     const a = act.getAttribute('data-act');
     if (a === 'say') { e.preventDefault(); say(act.getAttribute('data-say')); return; }
     if (a === 'up') { up(act.getAttribute('data-parent')); return; }
-    if (a === 'phr' && cur.view === 'text') { showPop(cur.g, Number(act.getAttribute('data-pi'))); return; }
+    if (a === 'phr' && cur.view === 'text') { showPop(cur.g, Number(act.getAttribute('data-pi')), act, keyOpen); return; }
     hidePop();
     if (a === 'view' && cur.view === 'text') {
       const k = act.getAttribute('data-k');
       mutate((s) => { s.view[k] = !s.view[k]; });
       const y = window.scrollY;
       renderText(cur.g, cur.t);
+      painted();
       window.scrollTo(0, y);
+      focusOn(`[data-act="view"][data-k="${k}"]`);
       return;
     }
     if (a === 'read' && cur.view === 'text' && window.ReadSync) {
@@ -772,14 +908,24 @@
       toast(on ? '✓ 已标为已读' : '已取消已读');
       const y = window.scrollY;
       renderText(cur.g, cur.t);
+      painted();
       window.scrollTo(0, y);
+      focusOn('[data-act="read"]');
       return;
     }
     if (O && cur.view === 'drill') {
       if (a === 'mv') {
         const p = Number(act.getAttribute('data-p'));
-        const q = p + Number(act.getAttribute('data-d'));
-        if (q >= 0 && q < O.order.length) { [O.order[p], O.order[q]] = [O.order[q], O.order[p]]; O.checked = false; renderOrdna(); }
+        const d = act.getAttribute('data-d');
+        const q = p + Number(d);
+        if (q >= 0 && q < O.order.length) {
+          [O.order[p], O.order[q]] = [O.order[q], O.order[p]];
+          O.checked = false;
+          renderOrdna();
+          // Stay on the block that moved: the same arrow, or the other one at the end of the list.
+          const row = `[data-act="mv"][data-p="${q}"]`;
+          focusOn(main.querySelector(`${row}[data-d="${d}"]:not(:disabled)`) ? `${row}[data-d="${d}"]` : `${row}:not(:disabled)`);
+        }
         return;
       }
       if (a === 'ordcheck') {
@@ -787,10 +933,11 @@
         const target = O.t.blocks.map((b) => b.slot);
         if (O.order.every((bi, p) => O.t.blocks[bi].slot === target[p])) mutate((s) => { s.ordna[O.t.slug] = today(); });
         renderOrdna();
+        focusOn('.skLyBtns .skBtn, .skLyBtns .skMini');
         return;
       }
-      if (a === 'ordshow') { O.order = [...Array(O.t.blocks.length).keys()]; O.revealed = true; renderOrdna(); window.scrollTo(0, 0); return; }
-      if (a === 'ordagain') { startOrdna(O.g, O.t); window.scrollTo(0, 0); return; }
+      if (a === 'ordshow') { O.order = [...Array(O.t.blocks.length).keys()]; O.revealed = true; renderOrdna(); window.scrollTo(0, 0); focusOn('.skLyBtns .skBtn, .skLyBtns .skMini'); return; }
+      if (a === 'ordagain') { startOrdna(O.g, O.t); window.scrollTo(0, 0); focusOn('.skLyBtns .skBtn, .skLyBtns .skMini'); return; }
     }
     if (F && cur.view === 'drill') {
       if (a === 'opt' && F.picked < 0) {
@@ -799,6 +946,7 @@
         F.picked = i;
         if (q.opts[i] === q.answer) F.right += 1;
         renderFraser();
+        focusOn('[data-act="frnext"]');
         return;
       }
       if (a === 'frnext') {
@@ -807,9 +955,10 @@
         if (F.i >= F.qs.length) mutate((s) => { s.fraser[F.t.slug] = [F.right, F.qs.length, today()]; });
         renderFraser();
         window.scrollTo(0, 0);
+        focusOn('.skOpt, .skLyBtns .skBtn, .skLyBtns .skMini');
         return;
       }
-      if (a === 'fragain') { startFraser(F.g, F.t); window.scrollTo(0, 0); return; }
+      if (a === 'fragain') { startFraser(F.g, F.t); window.scrollTo(0, 0); focusOn('.skOpt'); return; }
     }
     if (cur.view === 'task') {
       if (a === 'ins') { insertPhrase(act.getAttribute('data-ins')); return; }
@@ -843,15 +992,19 @@
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') { hidePop(); return; }
     // The highlighted phrases are spans (so they can wrap); give them a button's keys.
-    if ((e.key === 'Enter' || e.key === ' ') && e.target && e.target.classList && e.target.classList.contains('skHl')) { e.preventDefault(); e.target.click(); }
+    if ((e.key === 'Enter' || e.key === ' ') && e.target && e.target.classList && e.target.classList.contains('skHl')) {
+      e.preventDefault();
+      keyOpen = true;
+      try { e.target.click(); } finally { keyOpen = false; }
+    }
   });
   window.addEventListener('pagehide', flushDraft);
   document.addEventListener('visibilitychange', () => { if (document.hidden) flushDraft(); });
 
   // Read marks arrive from other devices after load; another tab may finish a drill or edit a draft.
   if (window.ReadSync && window.ReadSync.onChange) window.ReadSync.onChange(() => route({ passive: true }));
-  window.addEventListener('pageshow', (e) => { if (e.persisted) { st = loadState(); route({ passive: true }); } });
-  window.addEventListener('storage', (e) => { if (e.key === LS) { st = loadState(); route({ passive: true }); } });
+  window.addEventListener('pageshow', (e) => { if (e.persisted) { if (!pending) st = loadState(); route({ passive: true }); } });
+  window.addEventListener('storage', (e) => { if (e.key === LS || e.key === null) { st = loadState(); route({ passive: true }); } });
 
   // ---------- boot ----------
   // Landing straight on a deep view: no in-app history yet, so ← goes to the view's parent (see up()).

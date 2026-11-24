@@ -3,9 +3,12 @@
   --sk-w: 760px;
   --sk-sv: Georgia, "Times New Roman", serif;
   --sk-purple: #6f58a8;
+  /* Gold and grey as text colours: the palette's own are too light for small text on the light panel. */
+  --sk-gold-text: color-mix(in srgb, var(--gold) 60%, var(--ink));
+  --sk-muted-text: color-mix(in srgb, var(--muted) 70%, var(--ink));
 }
 @media (prefers-color-scheme: dark) {
-  :root { --sk-purple: #b8a2e6; }
+  :root { --sk-purple: #b8a2e6; --sk-gold-text: var(--gold); --sk-muted-text: var(--muted); }
 }
 
 html { -webkit-text-size-adjust: 100%; }
@@ -25,13 +28,14 @@ body.skBody {
   font-family: var(--cjk);
 }
 
-/* One colour per part of the skeleton (letters: 1 date · 2 greeting · 3 opening · 4 body · 5 ending · 6 sign-off · 7 name). */
-.c1, .c7 { --c: var(--muted); }
-.c2 { --c: var(--gold); }
-.c3 { --c: var(--blue); }
-.c4 { --c: var(--green); }
-.c5 { --c: var(--sk-purple); }
-.c6 { --c: var(--red); }
+/* One colour per part of the skeleton (letters: 1 date · 2 greeting · 3 opening · 4 body · 5 ending · 6 sign-off · 7 name).
+   --c paints borders and fills, --ct small text in that colour. */
+.c1, .c7 { --c: var(--muted); --ct: var(--sk-muted-text); }
+.c2 { --c: var(--gold); --ct: var(--sk-gold-text); }
+.c3 { --c: var(--blue); --ct: var(--blue); }
+.c4 { --c: var(--green); --ct: var(--green-dark); }
+.c5 { --c: var(--sk-purple); --ct: var(--sk-purple); }
+.c6 { --c: var(--red); --ct: var(--red); }
 
 /* ---------- shared bits ---------- */
 .skEmpty { margin: 18px 0; color: var(--muted); font: 15px/1.7 var(--cjk); }
@@ -47,7 +51,7 @@ body.skBody {
 .skMeta { display: flex; flex-wrap: wrap; align-items: center; gap: 2px 10px; margin: 0; color: var(--muted); font-size: 12.5px; line-height: 1.6; }
 .skMeta .done { color: var(--green-dark); font-weight: 700; }
 .skChip {
-  display: inline-block; margin-left: 8px; padding: 0 7px; border-radius: 999px; background: var(--panel-soft); color: var(--muted);
+  display: inline-block; margin-left: 8px; padding: 0 7px; border-radius: 999px; background: var(--panel-soft); color: var(--sk-muted-text);
   font: 700 12px/1.7 var(--cjk); vertical-align: 2px;
 }
 .skIcon {
@@ -77,7 +81,7 @@ body.skBody {
 .skSay:active { background: var(--panel-soft); }
 .skNum {
   display: inline-grid; place-items: center; min-width: 22px; height: 22px; padding: 0 5px; flex: none; border-radius: 999px;
-  background: var(--c, var(--muted)); color: var(--paper); font: 800 12px/1 var(--cjk); font-variant-numeric: tabular-nums;
+  background: var(--ct, var(--c, var(--muted))); color: var(--paper); font: 800 12px/1 var(--cjk); font-variant-numeric: tabular-nums;
 }
 .skToast {
   position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom)); z-index: 300; transform: translate(-50%, 20px);
@@ -117,14 +121,14 @@ body.skBody {
 .skMineT { font: 700 16px/1.4 var(--sk-sv); }
 .skOm { font-weight: 700; }
 .skOm.klar, .skOmBig.klar { color: var(--green-dark); }
-.skOm.nästan, .skOmBig.nästan { color: var(--gold); }
+.skOm.nästan, .skOmBig.nästan { color: var(--sk-gold-text); }
 .skOm.inte-än, .skOmBig.inte-än { color: var(--red); }
 .skOmBig { margin: 2px 0 10px; font: 800 16px var(--cjk); }
 .skTyper { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 0 0 10px; font-size: 13px; }
 .skTyper b { margin-right: 2px; }
 .skTyp {
   display: inline-block; margin-right: 6px; padding: 0 8px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 16%, transparent);
-  color: var(--gold); font: 700 12px/1.8 var(--cjk); white-space: nowrap;
+  color: var(--sk-gold-text); font: 700 12px/1.8 var(--cjk); white-space: nowrap;
 }
 
 /* ---------- top bar + genre page ---------- */
@@ -155,7 +159,7 @@ body.skBody {
 .skSlot summary::after { content: "▾"; color: var(--muted); font-size: 13px; transition: transform .15s; }
 .skSlot details:not([open]) summary::after { transform: rotate(-90deg); }
 .skWhat { margin: 0 14px 8px 14px; font-size: 14px; line-height: 1.7; }
-.skGrp { margin: 10px 14px 2px; color: var(--c); font: 700 13px/1.4 var(--cjk); filter: saturate(1.1); }
+.skGrp { margin: 10px 14px 2px; color: var(--ct, var(--c)); font: 700 13px/1.4 var(--cjk); filter: saturate(1.1); }
 .skGrp [lang="sv"] { font-family: var(--sk-sv); font-size: 14px; }
 .skPhr { list-style: none; margin: 0; padding: 0 0 6px; }
 .skPhrRow { display: flex; align-items: flex-start; gap: 10px; padding: 7px 14px; border-top: 1px solid var(--line); }
@@ -164,7 +168,7 @@ body.skBody {
 .skPzh { color: var(--ink); font-size: 14px; line-height: 1.5; }
 .skPnote { color: var(--muted); font-size: 12.5px; line-height: 1.55; }
 .skSrc {
-  flex: none; margin-top: 3px; padding: 0 7px; border-radius: 999px; background: color-mix(in srgb, var(--c) 16%, transparent); color: var(--c);
+  flex: none; margin-top: 3px; padding: 0 7px; border-radius: 999px; background: color-mix(in srgb, var(--c) 16%, transparent); color: var(--ct, var(--c));
   font: 700 11.5px/1.8 var(--cjk);
 }
 .skCompare { margin-top: 20px; }
@@ -189,7 +193,7 @@ body.skBody {
 .skDrillBtns { display: flex; flex-wrap: wrap; gap: 8px; }
 .skUId {
   display: inline-grid; place-items: center; min-width: 34px; height: 26px; padding: 0 6px; flex: none; border-radius: 8px;
-  background: var(--panel-soft); color: var(--muted); font: 800 13px var(--cjk);
+  background: var(--panel-soft); color: var(--sk-muted-text); font: 800 13px var(--cjk);
 }
 
 /* ---------- a model text taken apart ---------- */
@@ -203,7 +207,7 @@ body.skBody {
 .skPaper { padding: 18px 16px 6px; border: 1px solid var(--line); border-radius: 18px; background: var(--panel); box-shadow: 0 8px 26px rgba(32, 47, 38, 0.06); }
 .skBlock { margin: 0 0 14px; }
 .skPaper.struct .skBlock { padding-left: 11px; border-left: 3px solid var(--c); }
-.skLabel { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; margin: 0 0 2px; color: var(--c); font: 700 12.5px/1.5 var(--cjk); }
+.skLabel { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; margin: 0 0 2px; color: var(--ct, var(--c)); font: 700 12.5px/1.5 var(--cjk); }
 .skLabel [lang="sv"] { font-family: var(--sk-sv); font-size: 13.5px; }
 .skSub { padding: 0 7px; border-radius: 999px; background: color-mix(in srgb, var(--c) 15%, transparent); font: 700 12px/1.7 var(--sk-sv); }
 .skDoing { margin: 0 0 3px; color: var(--muted); font-size: 13px; line-height: 1.6; }
@@ -234,6 +238,7 @@ body.skBody {
 .skPopIn p { margin: 4px 0 0; }
 .skPopSlot { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 12.5px; }
 .skPopSlot [lang="sv"] { font-family: var(--sk-sv); font-size: 13.5px; }
+.skPopOpen .skMain { padding-bottom: 240px; }
 
 /* ---------- drills ---------- */
 .skOrd { list-style: none; margin: 0 0 14px; padding: 0; display: grid; gap: 8px; }
@@ -254,7 +259,7 @@ body.skBody {
 .skQ { margin: 0 0 14px; padding: 12px 14px; border: 1px solid var(--line); border-left: 5px solid var(--c); border-radius: 16px; background: var(--panel); }
 .skQPrev { margin: 4px 0 4px; color: var(--muted); font: 15px/1.65 var(--sk-sv); }
 .skQSv { margin: 4px 0 0; font: 18px/1.75 var(--sk-sv); overflow-wrap: anywhere; }
-.skGap { color: var(--c); font-weight: 800; letter-spacing: -1px; }
+.skGap { color: var(--ct, var(--c)); font-weight: 800; letter-spacing: -1px; }
 .skGapDone { padding: 0 3px; border-radius: 4px; background: color-mix(in srgb, var(--green) 18%, transparent); color: var(--green-dark); }
 .skOpts { display: grid; gap: 8px; }
 .skOpt {
@@ -310,7 +315,7 @@ body.skBody {
 .skCountRow { display: flex; justify-content: space-between; gap: 10px; margin-top: 6px; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
 .skCountRow b { color: var(--ink); font-size: 15px; }
 .skCountRow b.ok { color: var(--green-dark); }
-.skCountRow b.over { color: var(--gold); }
+.skCountRow b.over { color: var(--sk-gold-text); }
 .skSaved { text-align: right; }
 .skSend { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
 .skSend .skBtn { flex: 1; min-width: 200px; }
