@@ -42,7 +42,7 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 - Jag är pappa till … | 我是……的爸爸 | 说一个和话题有关的身份；mamma 同理
 
 ### 4. Huvuddel · 主体
-写什么: 最长的部分，一到三段。一段只讲一条建议或一个意见，后面马上跟理由或例子。
+写什么: 最长的部分，一到三段。提建议：一条建议一段，后面马上跟理由或例子。表达意见：先说意见和理由，再承认对方、反驳、给出另一个办法。
 #### Ge förslag · 提建议
 - Mitt förslag är att … | 我的建议是…… | 最直接的说法，放在一段的第一句
 - Därför föreslår jag att … | 所以我建议…… | 先说缺什么，再用它提建议；Därför 后先动词
@@ -91,7 +91,7 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 - Vi kan inte längre blunda för … | 我们不能再对……视而不见了 | blunda för = 假装没看见
 
 ### 6. Avslutande hälsningsfras · 结束问候
-写什么: 单独一行的固定说法，后面不加句号；名字写在下一行。
+写什么: 单独一行的固定说法，后面一般不加标点；名字写在下一行。
 - Vänliga hälsningar | 此致问候 | 最常用；前面也可以加 Med
 - Med vänlig hälsning | 此致敬礼 | 同样正式；注意是单数 vänlig hälsning
 
@@ -131,10 +131,10 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 | Vänliga hälsningar | 6 | 正式的结束问候，单独一行 |
 | Annchi Fang | 7 | 署全名：名 + 姓 |
 亮点:
-- 开头两步：先肯定对方（Vad positivt att …!），再预告「我有几条建议」——读的人马上知道下面要讲什么。
-- 提意见之前先说满意的地方（Jag är mycket nöjd med …），再用 Men 转到建议，口气不冲。
-- 三条建议各占一段，用 Men jag tror att … → En annan sak som … → Sist men inte minst … 串起来；每一条都有理由或例子。
-- 第三条先承认学校已经做的（Jag vet att det finns … men …），再说为什么还不够；段尾用 Därför … 把建议再说一遍。
+- 开头两步：先肯定对方（**Vad positivt att …!**），再预告「我有几条建议」——读的人马上知道下面要讲什么。
+- 提意见之前先说满意的地方（**Jag är mycket nöjd med …**），再用 **Men** 转到建议，口气不冲。
+- 三条建议各占一段，用 **Men jag tror att …** → **En annan sak som …** → **Sist men inte minst …** 串起来；每一条都有理由或例子。
+- 第三条先承认学校已经做的（**Jag vet att det finns … men …**），再说为什么还不够；段尾用 **Därför …** 把建议再说一遍。
 
 ### paste-2026-11-17-formellt-brev-till-kommunen
 名称: Åsikter till kommunen
@@ -151,10 +151,10 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 | Med vänlig hälsning | 6 | 正式的结束问候，单独一行 |
 | Akberet Tesfamariam i Hallonbergen | 7 | 全名 + 住的地方：表明自己是当地居民 |
 亮点:
-- 开头三步：读到了什么（Igår läste jag …）→ 我的立场（Jag vill säga att …）→ 所以写信（Därför skriver jag till er.）。
-- 反对不是空喊：散步、孩子玩、邻居见面，三个看得见的理由，还举了一个例子（På vintern … åka pulka）。
-- 先承认再反驳：Jag förstår att ni behöver … → Men om ni … → 最后给出另一个办法（Jag tycker att ni ska bygga någon annanstans）。
-- 用一个比喻让人记住：Sundbybergs lungor（城市的肺）；署名加 i Hallonbergen，提醒对方写信的是当地居民。
+- 开头三步：读到了什么（**Igår läste jag …**）→ 我的立场（**Jag vill säga att …**）→ 所以写信（**Därför skriver jag till er.**）。
+- 反对不是空喊：散步、孩子玩、邻居见面，三个看得见的理由，还举了一个例子（**På vintern kan de t.ex. åka pulka.**）。
+- 先承认再反驳：**Jag förstår att ni behöver …** → **Men om ni …** → 最后给出另一个办法（**Jag tycker att ni ska bygga någon annanstans.**）。
+- 用一个比喻让人记住：**Sundbybergs lungor**（城市的肺）；署名加 **i Hallonbergen**，提醒对方写信的是当地居民。
 
 ### paste-2026-10-20-mejl-till-politiker
 名称: Mejl med förslag till en politiker
@@ -170,12 +170,12 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 | Mitt förslag skulle göra det | 4 · resultat | 说建议实行后的结果：对商家、对消费者各有什么好处 |
 | Vi kan inte längre blunda | 5 · uppmaning | 呼吁行动，回到开头的孩子和未来 |
 | Jag hoppas att ni överväger | 5 | 一句话收尾：希望对方考虑建议 |
-| Med vänliga hälsningar, | 6+7 | 结束问候 + 全名，上下两行 |
+| Med vänliga hälsningar, | 6+7 | 结束问候 + 全名，上下两行；逗号可以不加 |
 亮点:
-- 主题栏先把目的说清：Klara klimatmålen – förslag（话题 + 这是一条建议）。
+- 主题栏先把目的说清：**Klara klimatmålen – förslag**（话题 + 这是一条建议）。
 - 一段只做一件事，顺序是：问题 → 建议 → 理由 → 结果 → 呼吁。
-- 建议只用一句话（Mitt förslag är att …），马上接一句好处（Det skulle göra det lättare …）；理由用 En anledning är att … 和 Dessutom … 带出来，还举了买衣服的例子。
-- 首尾呼应：开头 jag oroar mig för deras framtid，结尾 En dag kommer våra barn fråga oss …，把读的人带回孩子和未来。
+- 建议只用一句话（**Mitt förslag är att …**），马上接一句好处（**Det skulle göra det lättare …**）；理由用 **En anledning är att …** 和 **Dessutom …** 带出来，还举了买衣服的例子。
+- 首尾呼应：开头 **jag oroar mig för deras framtid**，结尾 **En dag kommer våra barn fråga oss …**，把读的人带回孩子和未来。
 
 ## 📚 更多范文 (Fler exempel)
 - scenario-2026-10-16-felanmalan-element | 给住房公司的报修信：什么坏了、从哪天起、自己试过什么、希望哪天前修好——练笔 U3 可以照这个顺序写
