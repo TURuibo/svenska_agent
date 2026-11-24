@@ -24,7 +24,7 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 
 ### 2. Hälsningsfras · 开头问候
 写什么: 单独一行：Hej + 单位的名字；不知道谁会读，就只写 Hej。后面用感叹号最省事（下一行大写开头）；用逗号的话，规范写法是下一行小写开头（课本 s. 98：jag är pappa …），像讲义 s. 5 那样大写也常见。正式信也用 Hej，Kära 是写给亲近的人的。
-- Hej skolans ledning, | 学校领导们好： | Hej + 单位，后面用逗号
+- Hej skolans ledning, | 学校领导们好： | Hej + 单位 + 逗号；下一行规范是小写开头，讲义用了大写
 - Hej Sundbybergs kommun! | Sundbyberg 市政府，你们好！ | 用感叹号最省事：下一行大写开头
 - Hej, | 您好， | 不知道读信的人是谁时用；逗号后下一行小写开头
 
@@ -131,7 +131,7 @@ grammar: [grammar-brevmall, grammar-formellt-brev, grammar-formellt-mejl, gramma
 | 开头 | 骨架 | 这一块在做什么 |
 |---|---|---|
 | Hallonbergen 19-06-28 | 1 | 地点 + 日期；年份这里只写了两位，自己写用四位 |
-| Hej skolans ledning, | 2 | 向一个单位问好：Hej + 单位，后面用逗号 |
+| Hej skolans ledning, | 2 | Hej + 单位 + 逗号；讲义在逗号后大写开头（常见），规范是小写 |
 | Vad positivt att ni frågar | 3 | 先肯定对方来征求意见，再预告：我有几条建议 |
 | Jag heter Annchi och studerar | 4 · förslag 1 | 介绍自己、先夸学校，再提第一条建议，并举朋友学校的例子 |
 | En annan sak som jag | 4 · förslag 2 | 第二条建议：先说缺什么，再提语言咖啡馆，最后说好处 |

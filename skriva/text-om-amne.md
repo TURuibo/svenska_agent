@@ -39,7 +39,7 @@ grammar: [grammar-skrivuppgift-textstruktur, grammar-bisats-forst-inversion, gra
 - Det tar … att … | （做）……要花……（时间） | Det tar 20 minuter att gå till skolan.
 - Ibland … om jag har tid. | 有时候……，如果我有时间的话。 | Ibland 在句首，所以先动词：Ibland går jag
 - Jag brukar … | 我通常…… | brukar + 不定式，说习惯
-- … använder jag … mest till att … | ……我主要用……来…… | 说你用它做什么；till att + 不定式
+- … använder jag … mest till att … | ……我主要用……来…… | 前面有别的成分才倒装；放句首写 Jag använder …；till att + 不定式
 #### Förr och nu · 以前和现在
 - Sedan jag fick … kan jag inte … | 自从我有了……，我就不能……了 | sedan = 自从；从句在前，主句先动词：kan jag
 - … lika mycket som jag gjorde förr | ……像我以前那样多 | gjorde 代替前面的动词（范文里是 träna）
@@ -61,7 +61,7 @@ grammar: [grammar-skrivuppgift-textstruktur, grammar-bisats-forst-inversion, gra
 ### 4. Förklara och resonera · 解释和讨论
 写什么: 最重要的部分，一到两段，对应题目里的 förklara …。一段一个意思：一个理由一段，或者好处一段、坏处一段。每个意思后面跟一个原因、例子或后果。讲道理时主语用 man，不用 jag。
 #### Säga vad du tycker · 说看法
-- Det är viktigt att … | ……很重要 | 后面接不定式，也可以接句子
+- Det är viktigt att … | ……很重要 | 后面接不定式，也可以接从句（主语 + 动词）
 - … tänker jag. | ……，我是这么想的。 | 讲义的写法：看法在前，句尾补 tänker jag；也可以说 tror jag
 - … tycker jag. | ……，我觉得。 | 更稳妥的写法是放在句首：Jag tycker att …
 - Jag tycker att … | 我认为…… | 最基本的说法；tycker 是个人看法，tror 是推测
@@ -81,7 +81,7 @@ grammar: [grammar-skrivuppgift-textstruktur, grammar-bisats-forst-inversion, gra
 - Dessutom … | 此外…… | 再加一点；后面先动词：Dessutom kan man
 - En nackdel är att … | 一个坏处是…… | 和 En fördel är att … 配成一对
 #### Orsak, följd och exempel · 原因、结果和例子
-- Om man … | 如果（一个人）…… | 讲条件；om 从句在句首时主句先动词：Om man har mycket stress kan stressen minska
+- Om man … | 如果（一个人）…… | 讲条件；om 从句在句首时主句先动词：Om man motionerar kan stressen minska
 - … så att … | 好让…… | 后面是从句：så att kroppen håller sig frisk
 - Att … hjälper … mot … | （做）……对（缓解）……有帮助 | 不定式当主语：Att promenera hjälper …
 - Mitt bästa tips … är att … | 我最好的建议是…… | 给读者一条具体的建议；är att + 不定式

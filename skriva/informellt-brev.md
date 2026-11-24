@@ -43,7 +43,7 @@ grammar: [grammar-brevmall, grammar-privat-brev, grammar-skulle-infinitiv, gramm
 #### Ge råd · 给建议
 - Du skulle kunna … | 你可以…… | skulle kunna + 不定式，比 du ska 客气
 - Du skulle också kunna … | 你也可以…… | 第二条建议；också 放在 skulle 后面
-- Det är viktigt att … | ……很重要 | 后面接不定式，也可以接句子
+- Det är viktigt att … | ……很重要 | 后面接不定式，也可以接从句（主语 + 动词）
 - Det är också viktigt att … | ……也很重要 | 同一段里再加一条；också 在 är 后面
 - Du kan förklara att … | 你可以（向他）解释…… | 教朋友怎么对第三个人说
 - Men jag tänker att … | 不过我觉得…… | 从「理解」转到「建议」的那一句
