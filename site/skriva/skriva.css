@@ -4,8 +4,8 @@
   --sk-sv: Georgia, "Times New Roman", serif;
   --sk-purple: #6f58a8;
   /* Gold and grey as text colours: the palette's own are too light for small text on the light panel. */
-  --sk-gold-text: color-mix(in srgb, var(--gold) 60%, var(--ink));
-  --sk-muted-text: color-mix(in srgb, var(--muted) 70%, var(--ink));
+  --sk-gold-text: #6f5524;    /* gold 60 % + ink */
+  --sk-muted-text: #505c55;   /* muted 70 % + ink */
 }
 @media (prefers-color-scheme: dark) {
   :root { --sk-purple: #b8a2e6; --sk-gold-text: var(--gold); --sk-muted-text: var(--muted); }
@@ -242,6 +242,7 @@ body.skBody {
 
 /* ---------- drills ---------- */
 .skOrd { list-style: none; margin: 0 0 14px; padding: 0; display: grid; gap: 8px; }
+.skOrd:focus, .skOrd:focus-visible { outline: none; }
 .skOrdRow {
   display: flex; align-items: center; gap: 8px; padding: 9px 8px 9px 12px; border: 1.5px solid var(--line); border-radius: 14px; background: var(--panel);
 }

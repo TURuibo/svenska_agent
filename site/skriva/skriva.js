@@ -90,10 +90,13 @@
   // Re-read before every write so another tab's changes survive. When storage gives nothing back (blocked,
   // or simply empty) the state in memory is kept, so it lasts at least as long as the page. Returns whether
   // the write went through.
+  let unsaved = false;   // the last write failed: memory holds more than storage, so storage is not re-read
+  function reread() { if (!unsaved && lsGet(LS) != null) st = loadState(); }
   function mutate(fn) {
-    if (lsGet(LS) != null) st = loadState();
+    reread();
     fn(st);
-    return lsSet(LS, JSON.stringify(st));
+    unsaved = !lsSet(LS, JSON.stringify(st));
+    return !unsaved;
   }
   const isRead = (slug) => { try { return !!(window.ReadSync && window.ReadSync.isRead(slug)); } catch (_e) { return false; } };
   const tk = (g, u) => `${g.key}/${u.id}`;
@@ -210,7 +213,7 @@
       const want = wantUp;
       wantUp = null;
       clearTimeout(wantUpT);
-      if (!sameHash(location.hash, want)) { try { history.replaceState(null, '', want || HOME()); } catch (_e) { /* ignore */ } }
+      if (!sameHash(location.hash, want)) { try { history.replaceState(history.state, '', want || HOME()); } catch (_e) { /* ignore */ } }
     }
     route({ top: true });
   });
@@ -503,7 +506,7 @@
     document.title = `Skriva · 排结构 — ${t.name}`;
     let h = topBar(gHash(g, 'ova'), '🧱 排结构', `<span lang="sv">${esc(t.name)}</span>`) +
       `<p class="skHint">${O.revealed ? '这是原文的顺序。看每一块属于骨架的哪一格。' : '这篇被打乱了。用 ▲▼ 把每一块移回它的位置，再点「检查」。同一格里的两段可以互换。'}</p>` +
-      '<ol class="skOrd">';
+      '<ol class="skOrd" tabindex="-1">';
     O.order.forEach((bi, p) => {
       const b = t.blocks[bi];
       const show = O.checked || O.revealed;
@@ -601,7 +604,10 @@
       seen.add(c);
       return true;
     });
-    const tiers = [tier((x) => x.kind === kind && x.slot !== mine.slot)];
+    // Sentence ends that start with the answer's first word ("är mycket positivt." for "är en del av livet.")
+    // are predicates that fit the same subject: not offered.
+    const w1 = (s) => s.split(/\s+/)[0];
+    const tiers = [tier((x) => x.kind === kind && x.slot !== mine.slot && !(kind === 'tail' && w1(x.chunk.toLowerCase()) === w1(low)))];
     if (kind === 'head' || kind === 'mid') tiers.push(tier((x) => x.kind === kind), tier((x) => x.kind === SIBLING[kind]));
     return { answer, tiers };
   }
@@ -696,13 +702,14 @@
   let pending = null;   // { key, text } waiting to be written
   let taSeen = false;   // has he put the cursor in the editor on this visit?
   const setSaved = (msg) => { const e = document.getElementById('skSaved'); if (e) e.textContent = msg; };
+  const savedMsg = (text) => (!str(text).trim() ? '' : unsaved ? '⚠️ 草稿没存上（浏览器不让存）' : '草稿已保存在这台设备');
   function flushDraft() {
     clearTimeout(saveT);
     if (!pending) return;
     const { key, text } = pending;
     pending = null;
-    const ok = mutate((s) => { if (text.trim()) s.drafts[key] = { text, at: new Date().toISOString() }; else delete s.drafts[key]; });
-    if (cur.view === 'task' && tk(cur.g, cur.u) === key) setSaved(!ok ? '⚠️ 草稿没存上（浏览器不让存）' : text.trim() ? '草稿已保存在这台设备' : '');
+    mutate((s) => { if (text.trim()) s.drafts[key] = { text, at: new Date().toISOString() }; else delete s.drafts[key]; });
+    if (cur.view === 'task' && tk(cur.g, cur.u) === key) setSaved(savedMsg(text));
   }
   // Another tab (or this page before it was put aside) saved a newer draft or ticked boxes: show them, unless
   // he is typing here right now.
@@ -713,11 +720,12 @@
     const ta = document.getElementById('skTa');
     if (ta && !pending) {
       const text = draftOf(g, u);
-      if (ta.value !== text) {
+      // A box holding only blank lines has no stored draft: that is not a difference worth undoing.
+      if (ta.value !== text && (text || ta.value.trim())) {
         ta.value = text;
         const c = document.getElementById('skCount');
         if (c) c.innerHTML = countHtml(u, words(text));
-        setSaved(text ? '草稿已保存在这台设备' : '');
+        setSaved(savedMsg(text));
       }
     }
     for (const [act, bag] of [['req', st.req], ['chk', st.checks]]) {
@@ -771,7 +779,7 @@
 
     h += `<div class="skEditor"><textarea id="skTa" lang="sv" spellcheck="true" autocapitalize="sentences" autocomplete="off" rows="12" ` +
       `placeholder="Skriv din text här …" aria-label="作文">\n${esc(text)}</textarea>` +
-      `<div class="skCountRow"><span id="skCount">${countHtml(u, words(text))}</span><span id="skSaved" class="skSaved">${text ? '草稿已保存在这台设备' : ''}</span></div></div>`;
+      `<div class="skCountRow"><span id="skCount">${countHtml(u, words(text))}</span><span id="skSaved" class="skSaved">${savedMsg(text)}</span></div></div>`;
 
     if (arr(g.checks).length) {
       h += `<details class="skCheck"><summary>✅ 自查清单 <small id="skChkN">${checkCount(g, u)}</small></summary>`;
@@ -936,8 +944,9 @@
         focusOn('.skLyBtns .skBtn, .skLyBtns .skMini');
         return;
       }
-      if (a === 'ordshow') { O.order = [...Array(O.t.blocks.length).keys()]; O.revealed = true; renderOrdna(); window.scrollTo(0, 0); focusOn('.skLyBtns .skBtn, .skLyBtns .skMini'); return; }
-      if (a === 'ordagain') { startOrdna(O.g, O.t); window.scrollTo(0, 0); focusOn('.skLyBtns .skBtn, .skLyBtns .skMini'); return; }
+      // Both jump to the top: focus the list there, not a button below the fold (Space must scroll, not press it).
+      if (a === 'ordshow') { O.order = [...Array(O.t.blocks.length).keys()]; O.revealed = true; renderOrdna(); window.scrollTo(0, 0); focusOn('.skOrd'); return; }
+      if (a === 'ordagain') { startOrdna(O.g, O.t); window.scrollTo(0, 0); focusOn('.skOrd'); return; }
     }
     if (F && cur.view === 'drill') {
       if (a === 'opt' && F.picked < 0) {
@@ -946,7 +955,8 @@
         F.picked = i;
         if (q.opts[i] === q.answer) F.right += 1;
         renderFraser();
-        focusOn('[data-act="frnext"]');
+        // Scrolling allowed here: the explanation and the button come into view on a short screen.
+        { const next = main.querySelector('[data-act="frnext"]'); if (next) next.focus(); }
         return;
       }
       if (a === 'frnext') {
@@ -1003,8 +1013,8 @@
 
   // Read marks arrive from other devices after load; another tab may finish a drill or edit a draft.
   if (window.ReadSync && window.ReadSync.onChange) window.ReadSync.onChange(() => route({ passive: true }));
-  window.addEventListener('pageshow', (e) => { if (e.persisted) { if (!pending) st = loadState(); route({ passive: true }); } });
-  window.addEventListener('storage', (e) => { if (e.key === LS || e.key === null) { st = loadState(); route({ passive: true }); } });
+  window.addEventListener('pageshow', (e) => { if (e.persisted) { if (!pending) reread(); route({ passive: true }); } });
+  window.addEventListener('storage', (e) => { if (e.key === LS || e.key === null) { reread(); route({ passive: true }); } });
 
   // ---------- boot ----------
   // Landing straight on a deep view: no in-app history yet, so ← goes to the view's parent (see up()).
